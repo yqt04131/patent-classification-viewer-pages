@@ -1,0 +1,123 @@
+window.CPC_SHARD_B01B = {
+  "generatedAt": "2026-03-20T02:17:56.303Z",
+  "total": 9,
+  "entries": {
+    "B01B": {
+      "code": "B01B",
+      "level": 5,
+      "parent": "B01",
+      "ja": "沸騰；沸騰装置；｛蒸発；蒸発装置｝",
+      "en": "BOILING; BOILING APPARATUS {; EVAPORATION; EVAPORATION APPARATUS}",
+      "count": 0,
+      "ipcCode": "",
+      "coreCode": "",
+      "note": "",
+      "sourceFile": "cpc_B.txt",
+      "kind": "cpc"
+    },
+    "B01": {
+      "code": "B01",
+      "level": 4,
+      "parent": "B",
+      "ja": "物理的または化学的方法または装置一般<br>以下に示す注は，分類表のこの部分での使用を助ける；これらは，いかなる場合にも修正して読むべきでない。<br>（１）このサブセクションにおいて，異なる材料，例．異なる物質，大きさ，または状態，に関する分離は次のサブクラスに優先的に分類される:<br>Ｂ０１Ｄ<br>Ｂ０３Ｂ，Ｂ０３Ｃ，Ｂ０３Ｄ<br>Ｂ０４Ｂ，Ｂ０４Ｃ<br>Ｂ０７Ｂ，Ｂ０７Ｃ<br>（２）これらのサブクラスの分類上の特徴は，以下のごとくである:<br>（ｉ）分離されるべき物質の物理的状態<br>（ｉｉ）採用される方法の原理<br>（ｉｉｉ）特別な種類の装置<br>これらの特徴の第１番目のものは，３つのグループに集められる６つの異なった観点を含んでいる。<br>（ａ）液体―液体または液体―気体および気体―気体<br>（ｂ）固体―液体または固体―気体<br>（ｃ）固体―固体<br>（３）これらのサブクラスは，以下の一般的規則に従って用いられる:<br>―Ｂ０１Ｄは，固体―固体以外の分離が関係するかぎり最も一般的なサブクラスとなる。<br>―固体から固体を分離する装置は，たとえその装置が空気力のもの，特に風力テーブルまたは風力ジグ，であってもその関係する工程が鉱山技術の意味で洗鉱に相当するものとみなされる場合はＢ０３Ｂに包含される。ふるいそれ自体はこのサブクラスには包含されず，たとえそれが湿式法に用いられても，Ｂ０７Ｂに分類される。乾式法による固体から固体を分離するすべての他の装置はＢ０７Ｂに分類される。<br>―もし，分離が，選別されるべき材料または物品のある特性を検出または測定した結果として起こるならば，それはＢ０７Ｃに分類される。<br>―また，同位元素の分離は，どのような方法または装置が用いられようとも，Ｂ０１Ｄ５９／００に分類することに注意すべきである。<br>液体／液体，液体／気体，または気体／気体の分離<br>方法<br>一般　Ｂ０１Ｄ<br>遠心力によるもの，遠心分離器または自由渦装置を用いるもの　Ｂ０１Ｄ<br>磁気または静電気効果を用いるもの　Ｂ０３Ｃ<br>装置<br>一般　Ｂ０１Ｄ<br>遠心力によるもの，遠心分離器または自由渦装置を用いるもの　Ｂ０４Ｂ，Ｂ０４Ｃ<br>磁気または静電気効果を用いるもの　Ｂ０３Ｃ<br>固体／液体または固体／気体の分離<br>方法<br>一般　Ｂ０１Ｄ<br>遠心力によるもの　Ｂ０１Ｄ<br>遠心分離器または自由渦装置を用いるもの　Ｂ０１Ｄ<br>磁気または静電気効果を用いるもの　Ｂ０３Ｃ<br>装置<br>一般　Ｂ０１Ｄ<br>遠心力によるもの　Ｂ０１Ｄ<br>遠心分離器または自由渦装置を用いるもの　Ｂ０４Ｂ，Ｂ０４Ｃ<br>磁気または静電気効果を用いるもの　Ｂ０３Ｃ<br>固体／固体の分離<br>方法<br>乾式法<br>一括分級一般　Ｂ０７Ｂ<br>個別分級　Ｂ０７Ｃ<br>篩にかけるもの，空気力分級　Ｂ０７Ｂ<br>風力テーブルまたは風力ジグを用いるもの　Ｂ０３Ｂ<br>磁気効果または静電気効果によるもの　Ｂ０３Ｃ<br>遠心力によるもの　Ｂ０７Ｂ<br>遠心分離器または自由渦装置を用いるもの　Ｂ０７Ｂ<br>湿式法<br>一般　Ｂ０３Ｂ<br>浮遊選別，差別沈降　Ｂ０３Ｄ<br>篩にかけるもの　Ｂ０７Ｂ<br>結合＝乾式法－湿式法　Ｂ０３Ｂ<br>固体／固体の分離<br>装置<br>乾式法<br>一括分級一般　Ｂ０７Ｂ<br>個別分級　Ｂ０７Ｃ<br>篩にかけるもの，空気力分級　Ｂ０７Ｂ<br>風力テーブルまたは風力ジグを用いるもの　Ｂ０３Ｂ<br>磁気効果または静電気効果によるもの　Ｂ０３Ｃ<br>遠心力によるもの　Ｂ０７Ｂ<br>遠心分離器または自由渦装置を用いるもの　Ｂ０４Ｂ，Ｂ０４Ｃ<br>湿式法<br>一般　Ｂ０３Ｂ<br>浮遊選別，差別沈降　Ｂ０３Ｄ<br>篩にかけるもの　Ｂ０７Ｂ<br>結合＝乾式法－湿式法　Ｂ０３Ｂ",
+      "en": "PHYSICAL OR CHEMICAL PROCESSES OR APPARATUS IN GENERAL",
+      "count": 0,
+      "ipcCode": "",
+      "coreCode": "",
+      "note": "",
+      "sourceFile": "cpc_B.txt",
+      "kind": "cpc"
+    },
+    "B": {
+      "code": "B",
+      "level": 2,
+      "parent": null,
+      "ja": "処理操作；運輸",
+      "en": "PERFORMING OPERATIONS; TRANSPORTING<br><br><u>NOTE</u><br><br>The following notes are meant to assist in the use of classes B01&#160;-&#160;B09; they must not be read as modifying in any way the elaborations.<br>In this sub-section, the separation of different materials, e.g. of different matter, size, or state, is predominantly found in the following subclasses: <br>B01D<br>B03B, B03C, B03D<br>B04B, B04C<br>B07B, B07C<br>The classifying characteristics of these subclasses are: <br>the physical state of the matter to be separated <br>the principle of the process used <br>particular kinds of apparatus The first of these characteristics involves six different aspects, assembled in three groups.<br>liquid/liquid or liquid/gas and gas/gas <br>solid/liquid or solid/gas <br>solid/solid<br>Theses subclasses are to be used according to the following general rules: <br>B01D is the most general class as far as separation other  than solids from solids is concerned. <br>Apparatus for separating solids from solids are covered by B03B when the process concerned is regarded as the equivalent of \"washing\" in the sense of the mining art, even if such apparatus is a pneumatic one, especially pneumatic tables or jigs. Screens PER SE are not covered by this subclass but are classified in B07B, even if they are being used in a wet process. All other apparatus for the separation of solids from solids according to dry methods are classified in B07B. <br>If the separation takes place as a result of the detection or measurement of some feature of the material or articles to be sorted it is classified in B07C. <br>It should also be noted that the separation of isotopes of the same chemical element is covered by B01D59/00, whatever process or apparatus is employed.<br>The following scheme illustrates the classification according to these rules. <br>LIQUID/LIQUID <br>      LIQUID/GAS <br>      GAS/GAS <br>  _____________________________________________________________________ <br>                                             Subclasses dealing with <br>  Operations                                   Method    Apparatus <br>  _____________________________________________________________________ <br>  General                                      B01DB01D<br>    by centrifugal force, using centrifuges <br>    or free-vortex apparatus                   B01DB04B, B04C<br>    using magnetic or electrostatic effect     B03CB03C<br>  _____________________________________________________________________ <br><br>SOLID/LIQUID <br>      SOLID/GAS <br>  _____________________________________________________________________ <br>                                             Subclasses dealing with <br>  Operations                                   Method    Apparatus <br>  _____________________________________________________________________ <br>  General                                      B01DB01D<br>    by centrifugal force                       B01DB01D<br>       using centrifuges or free-vortex <br>       apparatus                               B01DB04B, B04C<br>    using magnetic or electrostatic effect     B03CB03C<br>  _____________________________________________________________________ <br><br><br>SOLID/SOLID <br>  _____________________________________________________________________ <br>  Dry Methods <br>  _____________________________________________________________________ <br>                                             Subclasses dealing with <br>  Operations                                   Method    Apparatus <br>  _____________________________________________________________________ <br>  General for material in bulk                 B07BB07B<br>  Individual sorting                           B07CB07C<br>     Screening, sifting, pneumatic sorting     B07BB07B<br>       using pneumatic tables or jigs          B03BB03B<br>     by magnetic or electrostatic effect       B03CB03C<br>     by centrifugal force                      B07BB07B<br>       using centrifuges or free-vortex <br>       apparatus                               B07BB04B, B04C<br>  _____________________________________________________________________ <br>  Wet Methods <br>  _____________________________________________________________________ <br>                                             Subclasses dealing with <br>  Operations                                   Method    Apparatus <br>  _____________________________________________________________________ <br>  General                                      B03BB03B<br>     flotation, differential sedimentation     B03DB03D<br>     screening                                 B07BB07B<br>  _____________________________________________________________________ <br>  Combinations = dry methods - wet methods: B03B<br>  _____________________________________________________________________<br>",
+      "count": 0,
+      "ipcCode": "",
+      "coreCode": "",
+      "note": "",
+      "sourceFile": "cpc.txt",
+      "kind": "cpc"
+    },
+    "B01B1/00": {
+      "code": "B01B1/00",
+      "level": 7,
+      "parent": null,
+      "ja": "沸騰；物理的または化学的目的のための沸騰装置",
+      "en": "Boiling; Boiling apparatus for physical or chemical purposes {; Evaporation in general}",
+      "count": 299,
+      "ipcCode": "B01B1/00",
+      "coreCode": "B01B1/00",
+      "note": "",
+      "sourceFile": "cpc_B01B.txt",
+      "kind": "cpc"
+    },
+    "B01B1/005": {
+      "code": "B01B1/005",
+      "level": 8,
+      "parent": "B01B1/00",
+      "ja": "｛物理的または化学的目的のための蒸発；それらのための蒸発装置，例．気体相反応のための液体の蒸発｝",
+      "en": "{Evaporation for physical or chemical purposes; Evaporation apparatus therefor, e.g. evaporation of liquids for gas phase reactions}",
+      "count": 835,
+      "ipcCode": "B01B1/00",
+      "coreCode": "B01B1/00",
+      "note": "",
+      "sourceFile": "cpc_B01B.txt",
+      "kind": "cpc"
+    },
+    "B01B1/02": {
+      "code": "B01B1/02",
+      "level": 8,
+      "parent": "B01B1/00",
+      "ja": "発泡防止",
+      "en": "Preventing foaming",
+      "count": 49,
+      "ipcCode": "B01B1/02",
+      "coreCode": "B01B1/02",
+      "note": "",
+      "sourceFile": "cpc_B01B.txt",
+      "kind": "cpc"
+    },
+    "B01B1/04": {
+      "code": "B01B1/04",
+      "level": 9,
+      "parent": "B01B1/02",
+      "ja": "化学的手段によるもの",
+      "en": "by chemical means",
+      "count": 76,
+      "ipcCode": "B01B1/04",
+      "coreCode": "B01B1/04",
+      "note": "",
+      "sourceFile": "cpc_B01B.txt",
+      "kind": "cpc"
+    },
+    "B01B1/06": {
+      "code": "B01B1/06",
+      "level": 8,
+      "parent": "B01B1/00",
+      "ja": "突沸防止",
+      "en": "Preventing bumping",
+      "count": 44,
+      "ipcCode": "B01B1/06",
+      "coreCode": "B01B1/06",
+      "note": "",
+      "sourceFile": "cpc_B01B.txt",
+      "kind": "cpc"
+    },
+    "B01B1/08": {
+      "code": "B01B1/08",
+      "level": 8,
+      "parent": "B01B1/00",
+      "ja": "還流凝縮器つき沸騰装置",
+      "en": "Boiling apparatus provided with reflux condenser",
+      "count": 16,
+      "ipcCode": "B01B1/08",
+      "coreCode": "B01B1/08",
+      "note": "",
+      "sourceFile": "cpc_B01B.txt",
+      "kind": "cpc"
+    }
+  }
+};

@@ -1,0 +1,236 @@
+{
+  "generatedAt": "2026-03-20T02:17:47.054Z",
+  "total": 23,
+  "entries": {
+    "G03H": {
+      "code": "G03H",
+      "level": 0,
+      "parent": "G03",
+      "ja": "ホログラフィー的方法または装置（通常の光学的素子として用いられるホログラム，例．点ホログラムＧ０２Ｂ５／３２；光学素子を利用して計算動作を行うアナログ計算機Ｇ０６Ｅ３／００；ホログラフィー的デジタル記録Ｇ１１Ｂ７／００６５，Ｇ１１Ｃ１３／０４）［２］<br><br><b><ul>注</ul></b><br>このサブクラスは，元の波面を再生するために用いられうる波面の位相および振幅情報の記録を作成するための手段または波面の位相および振幅情報を有する記録から元の波面を再生するための手段を包含する。［２］",
+      "en": "HOLOGRAPHIC PROCESSES OR APPARATUS(holograms, e.g. point holograms, used as ordinary optical elements <b>G02B5/32</b>; analogue computers performing mathematical operations with the aid of optical elements <b>G06E3/00</b>; holographic storage <b>G11B7/0065</b>, <b>G11C13/04</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>This subclass <u>covers</u> means for producing a record of the phase and amplitude information of a wave-front, which information can be used to reconstruct the original wave-front, or means to reconstruct the original wave-front from a record containing the phase and amplitude information of the wave-front. </li></ul>",
+      "count": 100,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G03": {
+      "code": "G03",
+      "level": 0,
+      "parent": "G",
+      "ja": "写真；映画；光波以外の波を使用する類似技術；電子写真；ホログラフイ［４］<br><br><b><ul>注</ul></b><br>（１）このクラスは走査および電気信号の変換による画像またはパターンの再生を包含しない。それらはサブクラスＨ０４Ｎに包含される。<br>（２）このクラスにおいては，下記の用語は以下に示す意味で用いる：<br>―“記録”という用語は，写真または担体部材に記録される量の像的分布，例．電荷パターン，から構成される画像情報の，写真以外の任意の潜像記憶，直接可視記憶または永久記憶を意味する；<br>―“光学的”という用語は，可視光だけでなく紫外線または赤外線にも適用する。",
+      "en": "PHOTOGRAPHY; CINEMATOGRAPHY; ANALOGOUS TECHNIQUES USING WAVES OTHER THAN OPTICAL WAVES; ELECTROGRAPHY; HOLOGRAPHY; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This class <u>does not cover</u> reproduction of pictures or patterns by scanning and converting into electrical signals, which is covered by subclass <b>H04N</b>.</li><li>In this class, the following terms are used with the meaning indicated: <ul><li>\"records\" means photographs or any other kind of latent, directly-visible or permanent storage of pictorial information, which consist of an imagewise distribution of a quantity, e.g. an electric charge pattern, recorded on a carrier member;</li><li>\"optical\" applies not only to visible light but also to ultraviolet or infrared radiations.</li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G": {
+      "code": "G",
+      "level": 0,
+      "parent": null,
+      "ja": "物理学<br><br><b><ul>注</ul></b><br>１．このセクションにおいては，下記の用語は以下に示す意味で用いる：<br>・“変量”は名詞として，特定の実在物，例．物体，ある量の物質，光ビーム，に関し特定の瞬間に測定することの可能な特性又は特質，例．寸法，温度等の物理的状態，密度又は色等の性質，を意味する。変量が変化すると，その数値的表現は異なる時点で，異なる状態又は個々の状況において異なる値をとることもあり，また，ある状態のもとで又は実用上特定の実在物に関して一定でありうる，例．バーの長さが多くの目的のために一定とみなされる，こともある。<br>２．使用される用語または表現の定義に注意すること。このセクションのいくつかのクラスの注に使用されているものについて，特にクラスＧ０１の“測定”を参照されたい．ＩＰＣ指針パラグラフ１８７の中にあるものについて，“制御”及び“調整”の定義に参照されたい。<br>３．このセクションにおける分類は他のセクションにおいてよりもめんどうな場合があり得る，というのは，その一つは，いろいろな使用分野の差異の判別には構造上の差異又は使用形態上の差異よりも寧ろ使用者の意図における差異の方にかなりの程度影響されてしまうからであり，もう一つは，扱う主題が容易に全体として識別できる“もの”であるよりも，特性又は部品が他の主題のものと共通のものを有しているシステム又は組合わせであることが実際上多いからである。例えば，情報（例．一連の数値）をディスプレイするのは，クラスＧ０９に包含される，教育又は広告のため，クラスＧ０１に包含される，測定の結果が通知されうるため，クラスＧ０８に包含される，遠隔地点に情報を合図するため，又は遠隔地点から合図された情報を提供するためである。目的を記述するために使用する言葉は，当該装置の形態に無関係なこともあり得る特性－例えば，ディスプレイを見る者にとって望ましい効果とか，ディスプレイが遠隔地点から制御されるかどうかという特性－によって決定される。さらに，ある状態，例えば流体圧の変化に応答する装置は，その装置そのものには変更を加えずして，サブクラスＧ０１Ｌに包含される圧力又はＧ０１の他のサブクラスに包含される圧力に関連した他の何らかの状態，例．温度に関してＧ０１Ｋ，についての情報を与えるため，サブクラスＧ０７Ｃに包含される圧力または圧力発生の記録をするため，サブクラスＧ０８Ｂに包含される警報を発するため，又はクラスＧ０５に包含される他の何らかの装置を制御するために用いられることがある。<br>　本分類表は，前述したように，同一の性質のものは同一箇所に分類し得るようにしたものである。従って，技術主題が適切箇所に分類されるためには予めその真正な本質を把握することが特に必要である。",
+      "en": "PHYSICS; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this section, the following term is used with the meaning indicated: <ul><li>\"variable\" as a noun means a feature or property, e.g. a dimension, a physical condition such as temperature, a quality such as density or colour, which, in respect of a particular entity, e.g. an object, a quantity of a substance, a beam of light, and at a particular instant, is capable of being measured; the variable may change, so that its numerical expression may assume different values at different times, in different conditions or in individual cases, but may be constant in respect of a particular entity in certain conditions or for practical purposes, e.g. the length of a bar may be regarded as constant for many purposes.</li></ul></li><li>Attention is drawn to the definitions of terms or expressions used. Some appear in the notes of several of the classes in this section, see in particular the definition of \"measuring\" in class <b>G01</b>. Others appear in paragraph 187 of the Guide to the IPC, see in particular the definitions of \"control\" and \"regulation\".</li><li>Classification in this section may present more difficulty than in other sections, because the distinction between different fields of use rests to a considerable extent on differences in the intention of the user rather than on any constructional differences or differences in the manner of use, and because the subjects dealt with are often in effect systems or combinations, which have features or parts in common, rather than \"things\", which are readily distinguishable as a whole. For example, information, e.g. a set of figures, may be displayed for the purpose of education or advertising covered by class <b>G09</b>, for enabling the result of a measurement to be known covered by class <b>G01</b>, for signalling the information to a distant point or for giving information which has been signalled from a distant point covered by class <b>G08</b>. The words used to describe the purpose depend on features that may be irrelevant to the form of the apparatus concerned, for example, such features as the desired effect on the person who sees the display, or whether the display is controlled from a remote point. Again, a device which responds to some change in a condition, e.g. in the pressure of a fluid, may be used, without modification of the device itself, to give information about the pressure covered by subclass <b>G01L</b> or about some other condition linked to the pressure covered by another subclass of class <b>G01</b>, e.g. <b>G01K</b> for temperature, to make a record of the pressure or of its occurrence covered by subclass <b>G07C</b>, to give an alarm covered by subclass <b>G08B</b>, or to control another apparatus covered by class <b>G05</b>. <ul><li>The classification scheme is intended to enable things of a similar nature, as indicated above, to be classified together. It is therefore particularly necessary for the real nature of any technical subject to be decided before it can be properly classified.</li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G03H1/00": {
+      "code": "G03H1/00",
+      "level": 0,
+      "parent": "G03H",
+      "ja": "ホログラムを得るためまたはそれらから像を得るために光，赤外または紫外波を用いたホログラフィー的方法または装置；それに特有な細部［２］",
+      "en": "Holographic processes or apparatus using light, infrared, or ultraviolet waves for obtaining holograms or for obtaining an image from them; Details peculiar thereto",
+      "count": 4734,
+      "sourceFile": "ipc_G03H.txt",
+      "kind": "ipc"
+    },
+    "G03H1/02": {
+      "code": "G03H1/02",
+      "level": 1,
+      "parent": "G03H1/00",
+      "ja": "細部［２］",
+      "en": "Details",
+      "count": 6189,
+      "sourceFile": "ipc_G03H.txt",
+      "kind": "ipc"
+    },
+    "G03H1/04": {
+      "code": "G03H1/04",
+      "level": 1,
+      "parent": "G03H1/00",
+      "ja": "ホログラムを作るための方法または装置（Ｇ０３Ｈ１／２６が優先）［２］",
+      "en": "Processes or apparatus for producing holograms(<b>G03H1/26</b> takes precedence)",
+      "count": 7031,
+      "sourceFile": "ipc_G03H.txt",
+      "kind": "ipc"
+    },
+    "G03H1/06": {
+      "code": "G03H1/06",
+      "level": 2,
+      "parent": "G03H1/04",
+      "ja": "インコヒーレント光を用いるもの［２］",
+      "en": "using incoherent light",
+      "count": 210,
+      "sourceFile": "ipc_G03H.txt",
+      "kind": "ipc"
+    },
+    "G03H1/08": {
+      "code": "G03H1/08",
+      "level": 2,
+      "parent": "G03H1/04",
+      "ja": "ホログラムの合成［２］",
+      "en": "Synthesising holograms",
+      "count": 2638,
+      "sourceFile": "ipc_G03H.txt",
+      "kind": "ipc"
+    },
+    "G03H1/10": {
+      "code": "G03H1/10",
+      "level": 2,
+      "parent": "G03H1/04",
+      "ja": "変調した参照ビームを用いるもの［２］",
+      "en": "using modulated reference beam",
+      "count": 436,
+      "sourceFile": "ipc_G03H.txt",
+      "kind": "ipc"
+    },
+    "G03H1/12": {
+      "code": "G03H1/12",
+      "level": 3,
+      "parent": "G03H1/10",
+      "ja": "空間変調，例．ゴーストイメージング［２］",
+      "en": "Spatial modulation, e.g. ghost imaging",
+      "count": 714,
+      "sourceFile": "ipc_G03H.txt",
+      "kind": "ipc"
+    },
+    "G03H1/14": {
+      "code": "G03H1/14",
+      "level": 3,
+      "parent": "G03H1/10",
+      "ja": "時間変調，例．場の深さの伸張または物体の移動に対する位相補償［２］",
+      "en": "Temporal modulation, e.g. extending depth of field or phase compensation for object motion",
+      "count": 48,
+      "sourceFile": "ipc_G03H.txt",
+      "kind": "ipc"
+    },
+    "G03H1/16": {
+      "code": "G03H1/16",
+      "level": 2,
+      "parent": "G03H1/04",
+      "ja": "フーリエ変換を用いるもの（Ｇ０３Ｈ１／１２，Ｇ０３Ｈ１／１４が優先；）［２］",
+      "en": "using Fourier transform(<b>G03H1/12</b>, <b>G03H1/14</b> take precedence)",
+      "count": 837,
+      "sourceFile": "ipc_G03H.txt",
+      "kind": "ipc"
+    },
+    "G03H1/18": {
+      "code": "G03H1/18",
+      "level": 2,
+      "parent": "G03H1/04",
+      "ja": "ホログラム記録担体の特殊処理，例．ブレーズドホログラムを得るためのもの［２］",
+      "en": "Particular processing of hologram record carriers, e.g. for obtaining blazed holograms",
+      "count": 2229,
+      "sourceFile": "ipc_G03H.txt",
+      "kind": "ipc"
+    },
+    "G03H1/20": {
+      "code": "G03H1/20",
+      "level": 2,
+      "parent": "G03H1/04",
+      "ja": "ホログラフィー的手段によるホログラムの複写［２］",
+      "en": "Copying holograms by holographic means",
+      "count": 945,
+      "sourceFile": "ipc_G03H.txt",
+      "kind": "ipc"
+    },
+    "G03H1/22": {
+      "code": "G03H1/22",
+      "level": 1,
+      "parent": "G03H1/00",
+      "ja": "ホログラムから光学像を得るための方法または装置（Ｇ０３Ｈ１／２６～Ｇ０３Ｈ１／３４が優先）［２］",
+      "en": "Processes or apparatus for obtaining an optical image from holograms(<b>G03H1/26 to G03H1/34</b>  take precedence)",
+      "count": 5909,
+      "sourceFile": "ipc_G03H.txt",
+      "kind": "ipc"
+    },
+    "G03H1/24": {
+      "code": "G03H1/24",
+      "level": 2,
+      "parent": "G03H1/22",
+      "ja": "白色光を用いるもの［２］",
+      "en": "using white light",
+      "count": 395,
+      "sourceFile": "ipc_G03H.txt",
+      "kind": "ipc"
+    },
+    "G03H1/26": {
+      "code": "G03H1/26",
+      "level": 1,
+      "parent": "G03H1/00",
+      "ja": "複合ホログラムの作成のためまたはそれらから像を得るためにとくに適した方法または装置，例．多色技術［２］",
+      "en": "Processes or apparatus specially adapted to produce multiple holograms or to obtain images from them, e.g. multicolour technique",
+      "count": 4013,
+      "sourceFile": "ipc_G03H.txt",
+      "kind": "ipc"
+    },
+    "G03H1/28": {
+      "code": "G03H1/28",
+      "level": 2,
+      "parent": "G03H1/26",
+      "ja": "重畳したホログラムのみ［２］",
+      "en": "superimposed holograms only",
+      "count": 450,
+      "sourceFile": "ipc_G03H.txt",
+      "kind": "ipc"
+    },
+    "G03H1/30": {
+      "code": "G03H1/30",
+      "level": 2,
+      "parent": "G03H1/26",
+      "ja": "分離したホログラムのみ［２］",
+      "en": "discrete holograms only",
+      "count": 442,
+      "sourceFile": "ipc_G03H.txt",
+      "kind": "ipc"
+    },
+    "G03H1/32": {
+      "code": "G03H1/32",
+      "level": 1,
+      "parent": "G03H1/00",
+      "ja": "スペックルを除去するための方式［２］",
+      "en": "Systems for obtaining speckle elimination",
+      "count": 247,
+      "sourceFile": "ipc_G03H.txt",
+      "kind": "ipc"
+    },
+    "G03H1/34": {
+      "code": "G03H1/34",
+      "level": 1,
+      "parent": "G03H1/00",
+      "ja": "空間―空間的帯域幅積を減少するための方式［２］",
+      "en": "Systems for reducing the space-spatial bandwidth product",
+      "count": 37,
+      "sourceFile": "ipc_G03H.txt",
+      "kind": "ipc"
+    },
+    "G03H3/00": {
+      "code": "G03H3/00",
+      "level": 0,
+      "parent": "G03H",
+      "ja": "ホログラムを得るために超音波，音波または亜音波を用いたホログラフィー的方法または装置；それらから光学像を得るための方法または装置（Ｇ０３Ｈ１／２２が優先）［２００６．０１］",
+      "en": "Holographic processes or apparatus using ultrasonic, sonic or infrasonic waves for obtaining holograms; Processes or apparatus for obtaining an optical image from them(<b>G03H1/22</b> takes precedence)",
+      "count": 427,
+      "sourceFile": "ipc_G03H.txt",
+      "kind": "ipc"
+    },
+    "G03H5/00": {
+      "code": "G03H5/00",
+      "level": 0,
+      "parent": "G03H",
+      "ja": "グループＧ０３Ｈ１／００またはＧ０３Ｈ３／００に包含されない粒子をまたは波を用いたホログラフィー的方法または装置；それらから光学像を得るための方法または装置（Ｇ０３Ｈ１／２２が優先）［２］",
+      "en": "Holographic processes or apparatus using particles or using waves other than those covered by groups <b>G03H1/00</b> or <b>G03H3/00</b> for obtaining holograms; Processes or apparatus for obtaining an optical image from them(<b>G03H1/22</b> takes precedence)",
+      "count": 314,
+      "sourceFile": "ipc_G03H.txt",
+      "kind": "ipc"
+    }
+  }
+}

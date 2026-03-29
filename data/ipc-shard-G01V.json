@@ -1,0 +1,1146 @@
+{
+  "generatedAt": "2026-03-20T02:17:47.036Z",
+  "total": 114,
+  "entries": {
+    "G01V": {
+      "code": "G01V",
+      "level": 0,
+      "parent": "G01",
+      "ja": "地球物理；重力測定；塊状物または対象物の検出；タグ（突発的に埋まった，例．雪に埋まった人の位置を指示する手段Ａ６３Ｂ２９／０２）［４，６］<br><br><b><ul>注</ul></b><br>（１）このサブクラスは地球物理用に特にデザインしたレーダ，ソーナ，ライダーまたは類似の方式を包含する。レーダ，ソーナ，ライダーまたは類似の方式，またはこのような方式の細部は一般に重要であれば，サブクラスＧ０１Ｓにも分類する。［６］<br>（２）このサブクラスにおいては，下記の用語は以下に示す意味で用いる：［６］<br>―“タグ”とは，探知場，例．近接場，と共働し，特定の探知可能効果を生ずるようデザインした装置を意味する；また“タグ”は探知可能場を生じさせうる能動マーカーも意味する。［６］<br>（３）このサブクラスにおいては，地球物理的方法は，地球と他の天体，例．惑星，の両者に適用する。<br>（４）クラスＧ０１のタイトルに続く注に注意すること．<br><br><b><ul>サブクラス内の索引</ul></b><br>探鉱または検出の装置または方法<br>地震または音響によるもの　１／００<br>電気的，磁気的；核放射線によるもの；重量測定；光学手段によるもの　３／００；５／００；７／００；８／００<br>他のものまたは組み合わせたもの　９／００，１１／００<br>タグを用いた検知　１５／００<br>ジオモデリング一般　２０／００<br>場の測定<br>磁場；重力場　３／００；７／００<br>製造，較正，保守　１３／００",
+      "en": "GEOPHYSICS; GRAVITATIONAL MEASUREMENTS; DETECTING MASSES OR OBJECTS; TAGS(means for indicating the location of accidentally buried, e.g. snow-buried, persons <b>A63B29/02</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>This subclass <u>covers</u> radar, sonar, lidar or analogous systems specifically designed for geophysical use. Radar, sonar, lidar or analogous systems, or details of such systems, if of a general interest, are also classified in subclass <b>G01S</b>. </li><li>In this subclass, the following term is used with the meaning indicated: <ul><li>\"tags\" means arrangements cooperating with a detecting field, e.g. near field, and designed to produce a specific detectable effect; \"tags\" also means active markers capable of generating a detectable field. </li></ul></li><li>In this subclass, the geophysical methods apply both to the earth and to other celestial objects, e.g. planets.</li><li>Attention is drawn to the Notes following the title of class <b>G01</b>.</li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">APPARATUS OR METHODS OF PROSPECTING OR DETECTING<tr><td width=\"70%\">Seismic or acoustic</td><td><b><b>1/00</b></b></td></tr></tr><tr><td width=\"70%\">Electric, magnetic; by nuclear radiation; gravimetric; by optical means</td><td><b><b>3/00</b>; <b>5/00</b>; <b>7/00</b>; <b>8/00</b></b></td></tr></tr><tr><td width=\"70%\">Others or combined</td><td><b><b>9/00</b>, <b>11/00</b></b></td></tr></tr><tr><td width=\"70%\">Detection using tags</td><td><b><b>15/00</b></b></td></tr></tr><tr><td width=\"70%\">Geomodelling in general</td><td><b><b>20/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">MEASURING FIELDS<tr><td width=\"70%\">Magnetic; gravitational</td><td><b><b>3/00</b>; <b>7/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">MANUFACTURING, CALIBRATING, MAINTENANCE</td><td><b><b>13/00</b></b></td></tr></tr></table>",
+      "count": 958,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G01": {
+      "code": "G01",
+      "level": 0,
+      "parent": "G",
+      "ja": "測定；試験<br><br><b><ul>注</ul></b><br>（１）このクラスは“真”の測定計器のほかに類似構造の他の指示表示装置又は記録装置を含み，また更に，信号化装置又は制御装置についてはそれが測定に関するものであって（以下の注（２）で定義するように）特定の信号化目的または特定の制御目的に特に適合しないものである限り，含まれる。<br>（２）このクラスにおいては，下記の用語は以下に示す意味で用いる：<br>―“測定”はその第一義的意味又は基本的な意味よりもかなり広い意味を含むものとして用いる。この語の第一義的な意味においては，変量値を単位もしくはデータに関して又は同じ性質の別の変量に関して数値的に表現することを見い出すこと，例えば長さをスケールで測定するなどある長さを別の長さの表現で表わすこと，を意味する。この変量値は直接的に得る（すぐ前で言及したように）こともあり，また，水銀柱の長さの変化を測定することにより温度変化を測定するなど求める変量値に関連づけることのできる他の変量値を測定することよって得ることもある。しかしながら，同じ装置又は計器が，直接的な表示を行う代りに，記録をとったり，指示効果又は制御効果を奏すべく信号を発生するために用いられたり，或いは，他の装置又は計器と組み合わせて同種又は異種の二以上の変量の測定から一つのまとまった結果を得るために用いられることもあるので，“測定”はかかる数値的表現を変量を数値に変換する何らかの手段の付加的使用によって得ることを可能とするような操作をも含むものとして解釈することが必要である。従って，数値での表現は実際的にはデジタル的表現によって行なうこともありスケールを読むことによって行なうこともあり，また，その指示は数値を用いないで，例えば測定されている変量が特性又は状態であるところの実在物（例．物体，物質，光ビーム）について感知し得る何らかの特性（変量）によって又はそのような特性に類似するもの（例．スケールをもたない部材の対応位置，何らかの手段によって発生される対応電圧）によって，与えられることがある。<br>また，上記のような変量値指示が行なわれずに単に基準又はデータ（その値は数値的に既知のこともあり未知のこともある）に関しての異同を示すだけのことも多くある。この基準又はデータは同一性質であるが異なる実在物（例．標準器）の値のこともあり，或いは異なる時点での同一実在物の値であることもある。その最も単純な形態においては，測定は単にある状態又は性質，例えば運動（いずれかの方向又は特定の方向における）の有無を指示するだけのこともあるし，また，変量が既定値を超えるかどうかを指示するだけのこともある。<br>（３）“マイクロ構造の装置”および“マイクロ構造のシステム”に関する，クラスＢ８１およびサブクラスＢ８１Ｂの両タイトルの後の注に注意すること。［７］<br>（４）セクションＧのタイトルに続く注，特に“変量”という用語の定義については注意はすること。<br>（５）多くの測定装置において，測定すべき第一の変量は第二の変量またはさらなる変量に変換される。第二の変量またはさらなる変量は，第一の変量に関係して構成部材に生じた状態，または構成部材の変位であるかもしれない。そして，さらに変換が必要となるかもしれない。［６］<br>このような装置を分類するときは，（ｉ）重要である特定の変換ステップ，または重要である個々の変換ステップを分類するか，または（ｉｉ）全体としてのシステムのみが重要な場合は，第一の変量を該当する箇所に分類する。［６］<br>これは２つ以上の変換が起こる場合に特に重要である。たとえば，第一の変量（例．圧力）が第二の変量（例．感知体の光学的特性）に変換され，さらにその第二の変量が第三の変量（例．電気的効果）で示されるような場合である。このような場合には，次の分類箇所を考慮しなければならない：<br>第一の変量の変換についての分類場所，その変量により生じた状態を感知することについての分類場所，測定を示すＧ０１Ｄ，そして最後に，該当する場合は，システム全体を分類する場所である。［６］<br>（６）物理的特性の値の変化の測定は，その物理的特性の測定と同一のサブクラスに分類する。例えば，長さの伸びの測定はサブクラスＧ０１Ｂに分類する。",
+      "en": "MEASURING; TESTING; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This class <u>covers</u>, in addition to \"true\" measuring instruments, other indicating or recording devices of analogous construction, and also signalling or control devices insofar as they are concerned with measurement (as defined in Note 2 below) and are not specially adapted to the particular purpose of signalling or control.</li><li>In this class, the following term is used with the meaning indicated: <ul><li>\"measuring\" is used to cover considerably more than its primary or basic meaning. In this primary sense, it means finding a numerical expression of the value of a variable in relation to a unit or datum or to another variable of the same nature, e.g. expressing a length in terms of another length as in measuring a length with a scale; the value may be obtained directly (as just suggested) or by measuring some other variable of which the value can be related to the value of the required variable, as in measuring a change in temperature by measuring a resultant change in the length of a column of mercury. However, since the same device or instrument may, instead of giving an immediate indication, be used to produce a record or to initiate a signal to produce an indication or control effect, or may be used in combination with other devices or instruments to give a conjoint result from measurement of two or more variables of the same or different kinds, it is necessary to interpret \"measuring\" as including also any operation that would make it possible to obtain such a numerical expression by the additional use of some way of converting a value into figures. Thus the expression in figures may be actually made by a digital presentation or by reading a scale, or an indication of it may be given without the use of figures, e.g. by some perceptible feature (variable) of the entity (e.g. object, substance, beam of light) of which the variable being measured is a property or condition or by an analogue of such a feature (e.g. the corresponding position of a member without any scale, a corresponding voltage generated in some way). In many cases there is no such value indication but only an indication of difference or equality in relation to a standard or datum (of which the value may or may not be known in figures); the standard or datum may be the value of another variable of the same nature but of a different entity (e.g. a standard measure) or of the same entity at a different time. <ul><li>In its simplest form, measurement may give merely an indication of presence or absence of a certain condition or quality, e.g. movement (in any direction or in a particular direction), or whether a variable exceeds a predetermined value.</li></ul></li></ul></li><li>Attention is drawn to the Notes following the titles of class <b>B81</b> and subclass <b>B81B</b> relating to \"microstructural devices\" and \"microstructural systems\" and the Notes following the title of subclass <b>B82B</b> relating to \"nanostructures\".</li><li>Attention is drawn to the Notes following the title of section <b>G</b>, especially as regards the definition of the term \"variable\".</li><li>In many measuring arrangements, a first variable to be measured is transformed into a second, or further, variables. The second, or further, variables may be (a) a condition related to the first variable and produced in a member, or (b) a displacement of a member. Further transformation may be needed. <ul><li>When classifying such an arrangement, (i) the transformation step, or each transformation step, that is of interest is classified, or (ii) if interest lies only in the system as a whole, the first variable is classified in the appropriate place.</li><li>This is particularly important where two or more conversions take place, for instance where a first variable, for example pressure, is transformed into a second variable, for example an optical property of a sensing body, and that second variable is expressed by means of a third variable, for example an electric effect. In such a case, the following classification places should be considered: the place for the transformation of the first variable, that for sensing the condition caused by that variable, subclass <b>G01D</b> for expression of the measurement, and finally the place for the overall system, if any.</li></ul></li><li>The measurement of change in the value of a physical property is classified in the same subclass as the measurement of that physical property, e.g. measurement of expansion of length is classified in subclass <b>G01B</b>.</li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G": {
+      "code": "G",
+      "level": 0,
+      "parent": null,
+      "ja": "物理学<br><br><b><ul>注</ul></b><br>１．このセクションにおいては，下記の用語は以下に示す意味で用いる：<br>・“変量”は名詞として，特定の実在物，例．物体，ある量の物質，光ビーム，に関し特定の瞬間に測定することの可能な特性又は特質，例．寸法，温度等の物理的状態，密度又は色等の性質，を意味する。変量が変化すると，その数値的表現は異なる時点で，異なる状態又は個々の状況において異なる値をとることもあり，また，ある状態のもとで又は実用上特定の実在物に関して一定でありうる，例．バーの長さが多くの目的のために一定とみなされる，こともある。<br>２．使用される用語または表現の定義に注意すること。このセクションのいくつかのクラスの注に使用されているものについて，特にクラスＧ０１の“測定”を参照されたい．ＩＰＣ指針パラグラフ１８７の中にあるものについて，“制御”及び“調整”の定義に参照されたい。<br>３．このセクションにおける分類は他のセクションにおいてよりもめんどうな場合があり得る，というのは，その一つは，いろいろな使用分野の差異の判別には構造上の差異又は使用形態上の差異よりも寧ろ使用者の意図における差異の方にかなりの程度影響されてしまうからであり，もう一つは，扱う主題が容易に全体として識別できる“もの”であるよりも，特性又は部品が他の主題のものと共通のものを有しているシステム又は組合わせであることが実際上多いからである。例えば，情報（例．一連の数値）をディスプレイするのは，クラスＧ０９に包含される，教育又は広告のため，クラスＧ０１に包含される，測定の結果が通知されうるため，クラスＧ０８に包含される，遠隔地点に情報を合図するため，又は遠隔地点から合図された情報を提供するためである。目的を記述するために使用する言葉は，当該装置の形態に無関係なこともあり得る特性－例えば，ディスプレイを見る者にとって望ましい効果とか，ディスプレイが遠隔地点から制御されるかどうかという特性－によって決定される。さらに，ある状態，例えば流体圧の変化に応答する装置は，その装置そのものには変更を加えずして，サブクラスＧ０１Ｌに包含される圧力又はＧ０１の他のサブクラスに包含される圧力に関連した他の何らかの状態，例．温度に関してＧ０１Ｋ，についての情報を与えるため，サブクラスＧ０７Ｃに包含される圧力または圧力発生の記録をするため，サブクラスＧ０８Ｂに包含される警報を発するため，又はクラスＧ０５に包含される他の何らかの装置を制御するために用いられることがある。<br>　本分類表は，前述したように，同一の性質のものは同一箇所に分類し得るようにしたものである。従って，技術主題が適切箇所に分類されるためには予めその真正な本質を把握することが特に必要である。",
+      "en": "PHYSICS; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this section, the following term is used with the meaning indicated: <ul><li>\"variable\" as a noun means a feature or property, e.g. a dimension, a physical condition such as temperature, a quality such as density or colour, which, in respect of a particular entity, e.g. an object, a quantity of a substance, a beam of light, and at a particular instant, is capable of being measured; the variable may change, so that its numerical expression may assume different values at different times, in different conditions or in individual cases, but may be constant in respect of a particular entity in certain conditions or for practical purposes, e.g. the length of a bar may be regarded as constant for many purposes.</li></ul></li><li>Attention is drawn to the definitions of terms or expressions used. Some appear in the notes of several of the classes in this section, see in particular the definition of \"measuring\" in class <b>G01</b>. Others appear in paragraph 187 of the Guide to the IPC, see in particular the definitions of \"control\" and \"regulation\".</li><li>Classification in this section may present more difficulty than in other sections, because the distinction between different fields of use rests to a considerable extent on differences in the intention of the user rather than on any constructional differences or differences in the manner of use, and because the subjects dealt with are often in effect systems or combinations, which have features or parts in common, rather than \"things\", which are readily distinguishable as a whole. For example, information, e.g. a set of figures, may be displayed for the purpose of education or advertising covered by class <b>G09</b>, for enabling the result of a measurement to be known covered by class <b>G01</b>, for signalling the information to a distant point or for giving information which has been signalled from a distant point covered by class <b>G08</b>. The words used to describe the purpose depend on features that may be irrelevant to the form of the apparatus concerned, for example, such features as the desired effect on the person who sees the display, or whether the display is controlled from a remote point. Again, a device which responds to some change in a condition, e.g. in the pressure of a fluid, may be used, without modification of the device itself, to give information about the pressure covered by subclass <b>G01L</b> or about some other condition linked to the pressure covered by another subclass of class <b>G01</b>, e.g. <b>G01K</b> for temperature, to make a record of the pressure or of its occurrence covered by subclass <b>G07C</b>, to give an alarm covered by subclass <b>G08B</b>, or to control another apparatus covered by class <b>G05</b>. <ul><li>The classification scheme is intended to enable things of a similar nature, as indicated above, to be classified together. It is therefore particularly necessary for the real nature of any technical subject to be decided before it can be properly classified.</li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G01V1/00": {
+      "code": "G01V1/00",
+      "level": 0,
+      "parent": "G01V",
+      "ja": "地震学；地震または音響による探鉱または検出［２０２４．０１］",
+      "en": "Seismology; Seismic or acoustic prospecting or detecting",
+      "count": 11099,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V1/01": {
+      "code": "G01V1/01",
+      "level": 1,
+      "parent": "G01V1/00",
+      "ja": "地震を測定または予測するもの［２０２４．０１］",
+      "en": "Measuring or predicting earthquakes ",
+      "count": 776,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V1/02": {
+      "code": "G01V1/02",
+      "level": 1,
+      "parent": "G01V1/00",
+      "ja": "地震エネルギーの発生［２００６．０１］",
+      "en": "Generating seismic energy",
+      "count": 1447,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V1/04": {
+      "code": "G01V1/04",
+      "level": 2,
+      "parent": "G01V1/02",
+      "ja": "細部［２００６．０１］",
+      "en": "Details",
+      "count": 1292,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V1/047": {
+      "code": "G01V1/047",
+      "level": 3,
+      "parent": "G01V1/04",
+      "ja": "発生器を大地に結合させるための装置［２００６．０１］",
+      "en": "Arrangements for coupling the generator to the ground",
+      "count": 259,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V1/053": {
+      "code": "G01V1/053",
+      "level": 4,
+      "parent": "G01V1/047",
+      "ja": "横波を発生させるためのもの［２００６．０１］",
+      "en": "for generating transverse waves",
+      "count": 236,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V1/06": {
+      "code": "G01V1/06",
+      "level": 3,
+      "parent": "G01V1/04",
+      "ja": "点火装置（Ｇ０１Ｖ１／３９３が優先）［２００６．０１］",
+      "en": "Ignition devices(<b>G01V1/393</b> takes precedence)",
+      "count": 160,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V1/08": {
+      "code": "G01V1/08",
+      "level": 4,
+      "parent": "G01V1/06",
+      "ja": "時間遅延装置を含むもの［２００６．０１］",
+      "en": "involving time-delay devices",
+      "count": 59,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V1/09": {
+      "code": "G01V1/09",
+      "level": 3,
+      "parent": "G01V1/04",
+      "ja": "輸送する装置，例．車両で（Ｇ０１Ｖ１／３８が優先）［２００６．０１］",
+      "en": "Transporting arrangements, e.g. on vehicles(<b>G01V1/38</b> takes precedence)",
+      "count": 320,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V1/104": {
+      "code": "G01V1/104",
+      "level": 2,
+      "parent": "G01V1/02",
+      "ja": "爆発物を用いるもの（Ｇ０１Ｖ１／１５７が優先）［２００６．０１］",
+      "en": "using explosive charges(<b>G01V1/157</b> takes precedence)",
+      "count": 511,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V1/108": {
+      "code": "G01V1/108",
+      "level": 3,
+      "parent": "G01V1/104",
+      "ja": "囲い地の表面を変形または移動させることによるもの［２００６．０１］",
+      "en": "by deforming or displacing surfaces of enclosures",
+      "count": 65,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V1/112": {
+      "code": "G01V1/112",
+      "level": 4,
+      "parent": "G01V1/108",
+      "ja": "陸地の表面上で使用するためのもの［２００６．０１］",
+      "en": "for use on the surface of the earth",
+      "count": 74,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V1/116": {
+      "code": "G01V1/116",
+      "level": 3,
+      "parent": "G01V1/104",
+      "ja": "加圧燃焼ガスが脈動的に発生器から排出されるもの，例．爆発を起すために［２００６．０１］",
+      "en": "where pressurised combustion gases escape from the generator in a pulsating manner, e.g. for generating bursts",
+      "count": 70,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V1/13": {
+      "code": "G01V1/13",
+      "level": 3,
+      "parent": "G01V1/104",
+      "ja": "空間または時間に関して所望のパターンを作りだすための火薬装填の配置［２００６．０１］",
+      "en": "Arrangements or disposition of charges to produce a desired pattern in space or time",
+      "count": 335,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V1/133": {
+      "code": "G01V1/133",
+      "level": 2,
+      "parent": "G01V1/02",
+      "ja": "流体式駆動手段を使用するもの，高く加圧された流体を用いるもの（Ｇ０１Ｖ１／１０４が優先）［２００６．０１］",
+      "en": "using fluidic driving means, e.g. using highly pressurised fluids(<b>G01V1/104</b> takes precedence)",
+      "count": 628,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V1/135": {
+      "code": "G01V1/135",
+      "level": 3,
+      "parent": "G01V1/133",
+      "ja": "囲い地の表面を変形または移動させることによるもの［２００６．０１］",
+      "en": "by deforming or displacing surfaces of enclosures",
+      "count": 189,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V1/137": {
+      "code": "G01V1/137",
+      "level": 3,
+      "parent": "G01V1/133",
+      "ja": "流体が脈動的に発生器から排出されるもの，例．爆発を起すために［２００６．０１］",
+      "en": "which fluids escape from the generator in a pulsating manner, e.g. for generating bursts",
+      "count": 476,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V1/143": {
+      "code": "G01V1/143",
+      "level": 2,
+      "parent": "G01V1/02",
+      "ja": "機械的駆動手段を使用するもの（Ｇ０１Ｖ１／１０４，Ｇ０１Ｖ１／１３３が優先）［２００６．０１］",
+      "en": "using mechanical driving means(<b>G01V1/104</b>, <b>G01V1/133</b> takes precedence)",
+      "count": 463,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V1/145": {
+      "code": "G01V1/145",
+      "level": 3,
+      "parent": "G01V1/143",
+      "ja": "表面を変形または移動させることによるもの［２００６．０１］",
+      "en": "by deforming or displacing surfaces",
+      "count": 241,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V1/147": {
+      "code": "G01V1/147",
+      "level": 3,
+      "parent": "G01V1/143",
+      "ja": "落下体の衝突を利用するもの［２００６．０１］",
+      "en": "using impact of dropping masses",
+      "count": 697,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V1/153": {
+      "code": "G01V1/153",
+      "level": 3,
+      "parent": "G01V1/143",
+      "ja": "平衡していない回転体を使用するもの［２００６．０１］",
+      "en": "using rotary unbalanced masses",
+      "count": 101,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V1/155": {
+      "code": "G01V1/155",
+      "level": 3,
+      "parent": "G01V1/143",
+      "ja": "往復運動体を使用するもの［２００６．０１］",
+      "en": "using reciprocating masses",
+      "count": 405,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V1/157": {
+      "code": "G01V1/157",
+      "level": 2,
+      "parent": "G01V1/02",
+      "ja": "火花放電を利用するもの；エクスプローディングワイヤを使用するもの［２００６．０１］",
+      "en": "using spark discharges; using exploding wires",
+      "count": 371,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V1/16": {
+      "code": "G01V1/16",
+      "level": 1,
+      "parent": "G01V1/00",
+      "ja": "地震信号の受信素子；受信素子の配置または適用［２００６．０１］",
+      "en": "Receiving elements for seismic signals; Arrangements or adaptations of receiving elements",
+      "count": 3006,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V1/18": {
+      "code": "G01V1/18",
+      "level": 2,
+      "parent": "G01V1/16",
+      "ja": "受信素子，例．地震計，地中聴音機［２００６．０１］",
+      "en": "Receiving elements, e.g. seismometer, geophone",
+      "count": 6013,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V1/20": {
+      "code": "G01V1/20",
+      "level": 2,
+      "parent": "G01V1/16",
+      "ja": "受信素子の配置，例．地中聴音機の配置［２００６．０１］",
+      "en": "Arrangements of receiving elements, e.g. geophone pattern",
+      "count": 3593,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V1/22": {
+      "code": "G01V1/22",
+      "level": 1,
+      "parent": "G01V1/00",
+      "ja": "地震信号の記録または処理装置への伝送［２００６．０１］",
+      "en": "Transmitting seismic signals to recording or processing apparatus",
+      "count": 2525,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V1/24": {
+      "code": "G01V1/24",
+      "level": 1,
+      "parent": "G01V1/00",
+      "ja": "地震データの記録［２００６．０１］",
+      "en": "Recording seismic data",
+      "count": 1985,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V1/26": {
+      "code": "G01V1/26",
+      "level": 2,
+      "parent": "G01V1/24",
+      "ja": "参照信号伝送装置，例．点火時の指示［２００６．０１］",
+      "en": "Reference-signal-transmitting devices, e.g. indicating moment of firing of shot",
+      "count": 309,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V1/28": {
+      "code": "G01V1/28",
+      "level": 1,
+      "parent": "G01V1/00",
+      "ja": "地震データの処理，例．解釈のためのものまたは事象検出のためのもの（Ｇ０１Ｖ１／４８が優先）［２００６．０１］",
+      "en": "Processing seismic data, e.g. for interpretation or for event detection(<b>G01V1/48</b> takes precedence)",
+      "count": 14167,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V1/30": {
+      "code": "G01V1/30",
+      "level": 2,
+      "parent": "G01V1/28",
+      "ja": "解析（Ｇ０１Ｖ１／５０が優先）［２００６．０１］",
+      "en": "Analysis(<b>G01V1/50</b> takes precedence)",
+      "count": 13673,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V1/32": {
+      "code": "G01V1/32",
+      "level": 2,
+      "parent": "G01V1/28",
+      "ja": "記録の他への変換［２００６．０１］",
+      "en": "Transforming one recording into another",
+      "count": 1092,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V1/34": {
+      "code": "G01V1/34",
+      "level": 2,
+      "parent": "G01V1/28",
+      "ja": "地震記録の表示［２００６．０１］",
+      "en": "Displaying seismic recordings",
+      "count": 1775,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V1/36": {
+      "code": "G01V1/36",
+      "level": 2,
+      "parent": "G01V1/28",
+      "ja": "記録したものの静的または動的修正，例．展開の修正，をなすもの；地震信号を相関させるもの；好ましくないエネルギーの影響の除去［２００６．０１］",
+      "en": "Effecting static or dynamic corrections on records, e.g. correcting spread; Correlating seismic signals; Eliminating effects of unwanted energy",
+      "count": 6637,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V1/37": {
+      "code": "G01V1/37",
+      "level": 3,
+      "parent": "G01V1/36",
+      "ja": "大地の連続的振動を利用する地震システムに特に適合したもの［２００６．０１］",
+      "en": "specially adapted for seismic systems using continuous agitation of the ground",
+      "count": 258,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V1/38": {
+      "code": "G01V1/38",
+      "level": 1,
+      "parent": "G01V1/00",
+      "ja": "冠水領域に特に適したもの（Ｇ０１Ｖ１／２８が優先）［２００６．０１］",
+      "en": "specially adapted for water-covered areas(<b>G01V1/28</b> takes precedence)",
+      "count": 5355,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V1/387": {
+      "code": "G01V1/387",
+      "level": 2,
+      "parent": "G01V1/38",
+      "ja": "二次泡パルスを減少するもの，すなわち１次爆発後のガス泡の発生から生ずる検出信号を減少するもの［２００６．０１］",
+      "en": "Reducing secondary bubble pulse, i.e. reducing the detected signals resulting from the generation and release of gas bubbles after the primary explosion",
+      "count": 116,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V1/393": {
+      "code": "G01V1/393",
+      "level": 2,
+      "parent": "G01V1/38",
+      "ja": "水面下の爆発物装填手段，例．点火装置と結合したもの［２００６．０１］",
+      "en": "Means for loading explosive underwater charges, e.g. combined with ignition devices",
+      "count": 74,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V1/40": {
+      "code": "G01V1/40",
+      "level": 1,
+      "parent": "G01V1/00",
+      "ja": "井戸検層に特に適したもの［２００６．０１］",
+      "en": "specially adapted for well-logging",
+      "count": 5462,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V1/42": {
+      "code": "G01V1/42",
+      "level": 2,
+      "parent": "G01V1/40",
+      "ja": "一つの井戸に発生機を，他の箇所に受信機を用いるもの，またはその逆のもの（Ｇ０１Ｖ１／５２が優先）［２００６．０１］",
+      "en": "using generators in one well and receivers elsewhere or <u>vice-versa</u>(<b>G01V1/52</b> takes precedence)",
+      "count": 793,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V1/44": {
+      "code": "G01V1/44",
+      "level": 2,
+      "parent": "G01V1/40",
+      "ja": "同じ井戸に発生機と受信機を用いるもの（Ｇ０１Ｖ１／５２が優先）［２００６．０１］",
+      "en": "using generators and receivers in the same well(<b>G01V1/52</b> takes precedence)",
+      "count": 890,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V1/46": {
+      "code": "G01V1/46",
+      "level": 3,
+      "parent": "G01V1/44",
+      "ja": "データ取得［２００６．０１］",
+      "en": "Data acquisition",
+      "count": 806,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V1/48": {
+      "code": "G01V1/48",
+      "level": 3,
+      "parent": "G01V1/44",
+      "ja": "データ処理［２００６．０１］",
+      "en": "Processing data",
+      "count": 1275,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V1/50": {
+      "code": "G01V1/50",
+      "level": 4,
+      "parent": "G01V1/48",
+      "ja": "データ解析［２００６．０１］",
+      "en": "Analysing data",
+      "count": 2807,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V1/52": {
+      "code": "G01V1/52",
+      "level": 2,
+      "parent": "G01V1/40",
+      "ja": "構造的細部［２００６．０１］",
+      "en": "Structural details",
+      "count": 1725,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V3/00": {
+      "code": "G01V3/00",
+      "level": 0,
+      "parent": "G01V",
+      "ja": "電気的または磁気的探鉱または検出；地球の磁場特性，例．偏角または偏差の測定［２，４］<br><br><b><ul>注</ul></b><br>グループ３／１５～３／１８はグループ３／０２～３／１４に優先する。［３］",
+      "en": "Electric or magnetic prospecting or detecting; Measuring magnetic field characteristics of the earth, e.g. declination or deviation",
+      "count": 10977,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V3/02": {
+      "code": "G01V3/02",
+      "level": 1,
+      "parent": "G01V3/00",
+      "ja": "電流の伝播で働くもの",
+      "en": "operating with propagation of electric current",
+      "count": 2690,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V3/04": {
+      "code": "G01V3/04",
+      "level": 2,
+      "parent": "G01V3/02",
+      "ja": "直流を用いるもの",
+      "en": "using DC",
+      "count": 565,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V3/06": {
+      "code": "G01V3/06",
+      "level": 2,
+      "parent": "G01V3/02",
+      "ja": "交流を用いるもの",
+      "en": "using AC",
+      "count": 865,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V3/08": {
+      "code": "G01V3/08",
+      "level": 1,
+      "parent": "G01V3/00",
+      "ja": "対象物もしくは地質構造によるかまたは検出装置によって発生または変動する磁場もしくは電場で働くもの（電磁波で働くものＧ０１Ｖ３／１２）",
+      "en": "operating with magnetic or electric fields produced or modified by objects or geological structures or by detecting devices(with electromagnetic waves <b>G01V3/12</b>)",
+      "count": 11565,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V3/10": {
+      "code": "G01V3/10",
+      "level": 2,
+      "parent": "G01V3/08",
+      "ja": "誘導コイルを用いるもの",
+      "en": "using induction coils",
+      "count": 7112,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V3/11": {
+      "code": "G01V3/11",
+      "level": 3,
+      "parent": "G01V3/10",
+      "ja": "導体，例．銃などの小火器，ケーブルまたは管，を検出するためのもの［３］",
+      "en": "for detecting conductive objects, e.g. firearms, cables or pipes",
+      "count": 3434,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V3/12": {
+      "code": "G01V3/12",
+      "level": 1,
+      "parent": "G01V3/00",
+      "ja": "電磁波で働くもの",
+      "en": "operating with electromagnetic waves",
+      "count": 8492,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V3/14": {
+      "code": "G01V3/14",
+      "level": 1,
+      "parent": "G01V3/00",
+      "ja": "電子または核磁気共鳴で働くもの",
+      "en": "operating with electron or nuclear magnetic resonance",
+      "count": 889,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V3/15": {
+      "code": "G01V3/15",
+      "level": 1,
+      "parent": "G01V3/00",
+      "ja": "輸送中，例．人，車両または舟による，の使用に特に適合したもの［３］",
+      "en": "specially adapted for use during transport, e.g. by a person, vehicle or boat",
+      "count": 1303,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V3/16": {
+      "code": "G01V3/16",
+      "level": 2,
+      "parent": "G01V3/15",
+      "ja": "航空機からの使用に特に適合したもの（Ｇ０１Ｖ３／１６５～Ｇ０１Ｖ３／１７５が優先）［３］",
+      "en": "specially adapted for use from aircraft(<b>G01V3/165 to G01V3/175</b>  take precedence)",
+      "count": 632,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V3/165": {
+      "code": "G01V3/165",
+      "level": 2,
+      "parent": "G01V3/15",
+      "ja": "対象物によるかまたは検出装置によって発生または変動する磁場もしくは電場で働くもの（電磁波で働くものＧ０１Ｖ３／１７）［３］",
+      "en": "operating with magnetic or electric fields produced or modified by the object or by the detecting device(with electromagnetic waves <b>G01V3/17</b>)",
+      "count": 1085,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V3/17": {
+      "code": "G01V3/17",
+      "level": 2,
+      "parent": "G01V3/15",
+      "ja": "電磁波で働くもの［３］",
+      "en": "operating with electromagnetic waves",
+      "count": 620,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V3/175": {
+      "code": "G01V3/175",
+      "level": 2,
+      "parent": "G01V3/15",
+      "ja": "電子または核磁気共鳴で働くもの［３］",
+      "en": "operating with electron or nuclear magnetic resonance",
+      "count": 74,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V3/18": {
+      "code": "G01V3/18",
+      "level": 1,
+      "parent": "G01V3/00",
+      "ja": "井戸検層に特に適したもの",
+      "en": "specially adapted for well-logging",
+      "count": 2570,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V3/20": {
+      "code": "G01V3/20",
+      "level": 2,
+      "parent": "G01V3/18",
+      "ja": "電流の伝播で働くもの［３］",
+      "en": "operating with propagation of electric current",
+      "count": 1074,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V3/22": {
+      "code": "G01V3/22",
+      "level": 3,
+      "parent": "G01V3/20",
+      "ja": "直流を利用するもの［３］",
+      "en": "using DC",
+      "count": 252,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V3/24": {
+      "code": "G01V3/24",
+      "level": 3,
+      "parent": "G01V3/20",
+      "ja": "交流を利用するもの［３］",
+      "en": "using AC",
+      "count": 582,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V3/26": {
+      "code": "G01V3/26",
+      "level": 2,
+      "parent": "G01V3/18",
+      "ja": "周囲の地球組成物によるかまたは検出装置によって発生または変動する磁場もしくは電場で働くもの（電磁波で働くものＧ０１Ｖ３／３０）［３］",
+      "en": "operating with magnetic or electric fields produced or modified either by the surrounding earth formation or by the detecting device(with electromagnetic waves <b>G01V3/30</b>)",
+      "count": 1423,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V3/28": {
+      "code": "G01V3/28",
+      "level": 3,
+      "parent": "G01V3/26",
+      "ja": "誘導コイルを使用するもの［３］",
+      "en": "using induction coils",
+      "count": 1495,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V3/30": {
+      "code": "G01V3/30",
+      "level": 2,
+      "parent": "G01V3/18",
+      "ja": "電磁波で働くもの［３］",
+      "en": "operating with electromagnetic waves",
+      "count": 1566,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V3/32": {
+      "code": "G01V3/32",
+      "level": 2,
+      "parent": "G01V3/18",
+      "ja": "電子または核磁気共鳴で働くもの［３］",
+      "en": "operating with electron or nuclear magnetic resonance",
+      "count": 1241,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V3/34": {
+      "code": "G01V3/34",
+      "level": 2,
+      "parent": "G01V3/18",
+      "ja": "データの記録または処理装置への伝送；データの記録［３］",
+      "en": "Transmitting data to recording or processing apparatus; Recording data",
+      "count": 636,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V3/36": {
+      "code": "G01V3/36",
+      "level": 1,
+      "parent": "G01V3/00",
+      "ja": "データの記録（Ｇ０１Ｖ３／３４が優先）［３］",
+      "en": "Recording data(<b>G01V3/34</b> takes precedence)",
+      "count": 250,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V3/38": {
+      "code": "G01V3/38",
+      "level": 1,
+      "parent": "G01V3/00",
+      "ja": "データの処理，例．解析のためのもの，解釈のためのものまたは修正のためのもの［３］",
+      "en": "Processing data, e.g. for analysis, for interpretation or for correction",
+      "count": 5225,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V3/40": {
+      "code": "G01V3/40",
+      "level": 1,
+      "parent": "G01V3/00",
+      "ja": "地球の磁場特性の測定に特に適合したもの［３］",
+      "en": "specially adapted for measuring magnetic field characteristics of the earth",
+      "count": 1509,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V5/00": {
+      "code": "G01V5/00",
+      "level": 0,
+      "parent": "G01V",
+      "ja": "電離放射線，例．自然または誘導放射能の，を利用する探鉱または検出［２０２４．０１］",
+      "en": "Prospecting or detecting by the use of ionising radiation, e.g. of natural or induced radioactivity",
+      "count": 5845,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V5/02": {
+      "code": "G01V5/02",
+      "level": 1,
+      "parent": "G01V5/00",
+      "ja": "表面検層，例．航空機からの，に特に適合したもの［２００６．０１］",
+      "en": "specially adapted for surface logging, e.g. from aircraft",
+      "count": 261,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V5/04": {
+      "code": "G01V5/04",
+      "level": 1,
+      "parent": "G01V5/00",
+      "ja": "井戸検層に特に適合したもの［２００６．０１］",
+      "en": "specially adapted for well-logging",
+      "count": 1279,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V5/06": {
+      "code": "G01V5/06",
+      "level": 2,
+      "parent": "G01V5/04",
+      "ja": "自然放射性鉱物を検出するためのもの［２００６．０１］",
+      "en": "for detecting naturally radioactive minerals",
+      "count": 460,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V5/08": {
+      "code": "G01V5/08",
+      "level": 2,
+      "parent": "G01V5/04",
+      "ja": "一次核放射線源またはＸ線を用いるもの［２００６．０１］",
+      "en": "using primary nuclear radiation sources or X-rays",
+      "count": 490,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V5/10": {
+      "code": "G01V5/10",
+      "level": 3,
+      "parent": "G01V5/08",
+      "ja": "中性子線源を使用するもの［２００６．０１］",
+      "en": "using neutron sources",
+      "count": 1843,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V5/12": {
+      "code": "G01V5/12",
+      "level": 3,
+      "parent": "G01V5/08",
+      "ja": "ガンマ線源またはＸ線源を使用するもの［２００６．０１］",
+      "en": "using gamma- or X-ray sources",
+      "count": 1060,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V5/14": {
+      "code": "G01V5/14",
+      "level": 3,
+      "parent": "G01V5/08",
+      "ja": "複数の線源の組合せ，例．中性子とガンマ線を出す線源，を使用するもの［２００６．０１］",
+      "en": "using a combination of several sources, e.g. a neutron and a gamma source",
+      "count": 204,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V5/20": {
+      "code": "G01V5/20",
+      "level": 1,
+      "parent": "G01V5/00",
+      "ja": "禁制品を検出するもの，例．兵器，爆発物，有害物質，輸出入禁止品または密輸品［２０２４．０１］",
+      "en": "Detecting prohibited goods, e.g. weapons, explosives, hazardous substances, contraband or smuggled objects",
+      "count": 95,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V5/22": {
+      "code": "G01V5/22",
+      "level": 2,
+      "parent": "G01V5/20",
+      "ja": "能動的識別，すなわち外部の放射線源を用いて物体または物品に照射することによるもの，例．ガンマ線または宇宙線を用いるもの［２０２４．０１］",
+      "en": "Active interrogation, i.e. by irradiating objects or goods using external radiation sources, e.g. using gamma rays or cosmic rays",
+      "count": 663,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V5/222": {
+      "code": "G01V5/222",
+      "level": 3,
+      "parent": "G01V5/22",
+      "ja": "散乱放射線を測定するもの［２０２４．０１］",
+      "en": "measuring scattered radiation",
+      "count": 99,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V5/226": {
+      "code": "G01V5/226",
+      "level": 3,
+      "parent": "G01V5/22",
+      "ja": "トモグラフィーを用いるもの［２０２４．０１］",
+      "en": "using tomography",
+      "count": 144,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V5/26": {
+      "code": "G01V5/26",
+      "level": 2,
+      "parent": "G01V5/20",
+      "ja": "受動的識別，すなわち物体または物品から放出される放射線を測定することによるもの［２０２４．０１］",
+      "en": "Passive interrogation, i.e. by measuring radiation emitted by objects or goods",
+      "count": 24,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V7/00": {
+      "code": "G01V7/00",
+      "level": 0,
+      "parent": "G01V",
+      "ja": "重力場または重力波の測定；重量測定による探鉱または検出",
+      "en": "Measuring gravitational fields or waves; Gravimetric prospecting or detecting",
+      "count": 2014,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V7/02": {
+      "code": "G01V7/02",
+      "level": 1,
+      "parent": "G01V7/00",
+      "ja": "細部",
+      "en": "Details",
+      "count": 809,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V7/04": {
+      "code": "G01V7/04",
+      "level": 2,
+      "parent": "G01V7/02",
+      "ja": "電気的，光電的または磁気的な指示または記録手段",
+      "en": "Electric, photoelectric, or magnetic indicating or recording means",
+      "count": 286,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V7/06": {
+      "code": "G01V7/06",
+      "level": 2,
+      "parent": "G01V7/02",
+      "ja": "重量測定記録の解析または解釈",
+      "en": "Analysis or interpretation of gravimetric records",
+      "count": 452,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V7/08": {
+      "code": "G01V7/08",
+      "level": 1,
+      "parent": "G01V7/00",
+      "ja": "てんびんを用いるもの",
+      "en": "using balances",
+      "count": 175,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V7/10": {
+      "code": "G01V7/10",
+      "level": 2,
+      "parent": "G01V7/08",
+      "ja": "ねじればかりを用いるもの，例．エートベェッシュのねじればかり",
+      "en": "using torsion balances, e.g. E&ouml;tv&ouml;s balance",
+      "count": 237,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V7/12": {
+      "code": "G01V7/12",
+      "level": 1,
+      "parent": "G01V7/00",
+      "ja": "振り子を用いるもの",
+      "en": "using pendulums",
+      "count": 198,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V7/14": {
+      "code": "G01V7/14",
+      "level": 1,
+      "parent": "G01V7/00",
+      "ja": "自由落下時間によるもの",
+      "en": "using free-fall time",
+      "count": 260,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V7/16": {
+      "code": "G01V7/16",
+      "level": 1,
+      "parent": "G01V7/00",
+      "ja": "移動台，例．船舶，航空機，での使用に特に適したもの",
+      "en": "specially adapted for use on moving platforms, e.g. ship, aircraft",
+      "count": 419,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V8/00": {
+      "code": "G01V8/00",
+      "level": 0,
+      "parent": "G01V",
+      "ja": "光学的手段による探鉱または検出［６］<br><br><b><ul>注</ul></b><br>このグループは赤外線，可視光線または紫外線の使用を包含する。［６］",
+      "en": "Prospecting or detecting by optical means; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This group <u>covers</u> the use of infrared, visible or ultraviolet light.</li></ul>",
+      "count": 1969,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V8/02": {
+      "code": "G01V8/02",
+      "level": 1,
+      "parent": "G01V8/00",
+      "ja": "探鉱［６］",
+      "en": "Prospecting",
+      "count": 693,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V8/10": {
+      "code": "G01V8/10",
+      "level": 1,
+      "parent": "G01V8/00",
+      "ja": "検知，例．光障壁の使用によるもの（対象物からの反射によるものＧ０１Ｓ１７／００）［６］",
+      "en": "Detecting, e.g. by using light barriers(by reflection from the object <b>G01S17/00</b>)",
+      "count": 14964,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V8/12": {
+      "code": "G01V8/12",
+      "level": 2,
+      "parent": "G01V8/10",
+      "ja": "一個の発信機と一個の受信機を用いるもの［６］",
+      "en": "using one transmitter and one receiver",
+      "count": 7585,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V8/14": {
+      "code": "G01V8/14",
+      "level": 3,
+      "parent": "G01V8/12",
+      "ja": "反射器を用いるもの［６］",
+      "en": "using reflectors",
+      "count": 1642,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V8/16": {
+      "code": "G01V8/16",
+      "level": 3,
+      "parent": "G01V8/12",
+      "ja": "光ファイバを用いるもの［６］",
+      "en": "using optical fibres",
+      "count": 994,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V8/18": {
+      "code": "G01V8/18",
+      "level": 3,
+      "parent": "G01V8/12",
+      "ja": "機械的走査方式を用いるもの［６］",
+      "en": "using mechanical scanning systems",
+      "count": 164,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V8/20": {
+      "code": "G01V8/20",
+      "level": 2,
+      "parent": "G01V8/10",
+      "ja": "複数の発信機または受信機を用いるもの［６］",
+      "en": "using multiple transmitters or receivers",
+      "count": 5161,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V8/22": {
+      "code": "G01V8/22",
+      "level": 3,
+      "parent": "G01V8/20",
+      "ja": "反射器を用いるもの［６］",
+      "en": "using reflectors",
+      "count": 361,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V8/24": {
+      "code": "G01V8/24",
+      "level": 3,
+      "parent": "G01V8/20",
+      "ja": "光ファイバを用いるもの［６］",
+      "en": "using optical fibres",
+      "count": 183,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V8/26": {
+      "code": "G01V8/26",
+      "level": 3,
+      "parent": "G01V8/20",
+      "ja": "機械的走査方式を用いるもの［６］",
+      "en": "using mechanical scanning systems",
+      "count": 100,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V9/00": {
+      "code": "G01V9/00",
+      "level": 0,
+      "parent": "G01V",
+      "ja": "グループＧ０１Ｖ１／００～Ｇ０１Ｖ８／００に分類されない方法による探鉱または検出［６］",
+      "en": "Prospecting or detecting by methods not provided for in groups <b>G01V1/00 to G01V8/00</b> ",
+      "count": 16851,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V9/02": {
+      "code": "G01V9/02",
+      "level": 1,
+      "parent": "G01V9/00",
+      "ja": "地下水の存在または流れの決定",
+      "en": "Determining existence or flow of underground water",
+      "count": 875,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V11/00": {
+      "code": "G01V11/00",
+      "level": 0,
+      "parent": "G01V",
+      "ja": "メイングループＧ０１Ｖ１／００～Ｇ０１Ｖ９／００のうちの２つ以上に包含される技術を結合した方法による探鉱または検出",
+      "en": "Prospecting or detecting by methods combining techniques covered by two or more of main groups <b>G01V1/00 to G01V9/00</b> ",
+      "count": 7842,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V13/00": {
+      "code": "G01V13/00",
+      "level": 0,
+      "parent": "G01V",
+      "ja": "グループＧ０１Ｖ１／００～Ｇ０１Ｖ１１／００に包含される計器または装置の製造，較正，清掃，または修理",
+      "en": "Manufacturing, calibrating, cleaning, or repairing instruments or devices covered by groups <b>G01V1/00 to G01V11/00</b> ",
+      "count": 3462,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V15/00": {
+      "code": "G01V15/00",
+      "level": 0,
+      "parent": "G01V",
+      "ja": "対象物の検知ができるよう対象物に取り付けまたは結合したタグ（検知できるタグまたはマーカを持つ機械で使用される記録担体Ｇ０６Ｋ１９／００）［６］<br><br><b><ul>注</ul></b><br>このグループは検知器または検知方法，例えば，被検知対象物が磁場または電界を発生または変更させる方法，を包含しない。それらは他の箇所，例．グループ３／００，に包含する。［６］",
+      "en": "Tags attached to, or associated with, an object, in order to enable detection of the object(record carriers for use with machines having a detectable tag or marker <b>G06K19/00</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>This group <u>does not cover</u> detectors or detection methods, e.g. methods in which the object to be detected produces or modifies magnetic or electric fields, which are covered elsewhere, e.g. in group <b>G01V3/00</b>. </li></ul>",
+      "count": 2539,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V20/00": {
+      "code": "G01V20/00",
+      "level": 0,
+      "parent": "G01V",
+      "ja": "ジオモデリング一般［２０２４．０１］<br><br><b><ul>注</ul></b><br>このグループは，探鉱，検出または測定技術が明記されていない，またはこれらが関連しないジオモデリングまたはジオモデルを包含する。［２０２４．０１］",
+      "en": "Geomodelling in general; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This group <u>covers</u> geomodelling or geomodels wherein no prospecting, detecting or measuring technique is specified or relevant.</li></ul>",
+      "count": 1052,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    },
+    "G01V99/00": {
+      "code": "G01V99/00",
+      "level": 0,
+      "parent": "G01V",
+      "ja": "このサブクラスの他のグループに分類されない主題事項［２０２４．０１］",
+      "en": "Subject matter not provided for in other groups of this subclass",
+      "count": 2391,
+      "sourceFile": "ipc_G01V.txt",
+      "kind": "ipc"
+    }
+  }
+}

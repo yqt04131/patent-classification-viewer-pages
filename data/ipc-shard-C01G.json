@@ -1,0 +1,1976 @@
+{
+  "generatedAt": "2026-03-20T02:17:46.384Z",
+  "total": 197,
+  "entries": {
+    "C01G": {
+      "code": "C01G",
+      "level": 0,
+      "parent": "C01",
+      "ja": "サブクラスＣ０１ＤまたはＣ０１Ｆに包含されない金属を含有する化合物（金属水素化物Ｃ０１Ｂ６／００；ハロゲンのオキシ酸塩Ｃ０１Ｂ１１／００；過酸化物，ペルオキシ酸塩Ｃ０１Ｂ１５／００；チオ硫酸塩，亜二チオン酸塩，多チオン酸塩Ｃ０１Ｂ１７／６４；セレンまたはテルルを含有する化合物Ｃ０１Ｂ１９／００；金属と窒素から成る二元化合物Ｃ０１Ｂ２１／０６；アジ化物Ｃ０１Ｂ２１／０８；金属アミドＣ０１Ｂ２１／０９２；亜硝酸塩Ｃ０１Ｂ２１／５０；りん化物Ｃ０１Ｂ２５／０８；りんのオキシ酸塩Ｃ０１Ｂ２５／１６；炭化物Ｃ０１Ｂ３２／９０；けい素を含有する化合物Ｃ０１Ｂ３３／００；ほう素を含有する化合物Ｃ０１Ｂ３５／００；分子ふるい特性を有するが塩基交換特性を有しない化合物Ｃ０１Ｂ３７／００；分子ふるい特性と塩基交換特性を有する化合物，例．結晶性ゼオライトＣ０１Ｂ３９／００；シアン化物Ｃ０１Ｃ３／０８；シアン酸塩Ｃ０１Ｃ３／１４；シアナミドの塩Ｃ０１Ｃ３／１６；チオシアン酸塩Ｃ０１Ｃ３／２０；発酵によるかまたは酵素を使用した元素または二酸化炭素以外の無機化合物の製造Ｃ１２Ｐ３／００；混合物，例．鉱石，からの金属化合物，すなわち単体金属を取得するための冶金的方法における中間体化合物の取得Ｃ２１Ｂ，Ｃ２２Ｂ；電気分解または電気泳動による非金属元素または無機化合物の製造Ｃ２５Ｂ）<br><br><b><ul>注</ul></b><br>（１）サブクラスＣ０１ＢからＣ０１Ｇに適用するラストプレイス優先ルールを規定するクラスＣ０１に続くクラス注（１）に注意すること［８］<br>（２）化合物の治療活性は，サブクラスＡ６１Ｐにさらに分類する。［７］<br><br><b><ul>サブクラス内の索引</ul></b><br>一般的製造方法　１／００<br>金属化合物（金属の元素記号のアルファベット順）<br>Ａｇ　銀　５／００<br>Ａｓ　ひ素　２８／００<br>Ａｕ　金　７／００<br>Ｂｉ　ビスマス　２９／００<br>Ｃｄ　カドミウム　１１／００<br>Ｃｏ　コバルト　５１／００<br>Ｃｒ　クロム　３７／００<br>Ｃｕ　銅　３／００<br>Ｆｅ　鉄　４９／００<br>Ｇａ　ガリウム　１５／００<br>Ｇｅ　ゲルマニウム　１７／００<br>Ｈｆ　ハフニウム　２７／００<br>Ｈｇ　水銀　１３／００<br>Ｉｎ　インジウム　１５／００<br>Ｉｒ　イリジウム　５５／００<br>Ｍｎ　マンガン　４５／００<br>Ｍｏ　モリブデン　３９／００<br>Ｎｂ　ニオブ　３３／００<br>Ｎｉ　ニッケル　５３／００<br>Ｏｓ　オスミウム　５５／００<br>Ｐｂ　鉛　２１／００<br>Ｐｄ　パラジウム　５５／００<br>Ｐｔ　白金　５５／００<br>Ｒｅ　レニウム　４７／００<br>Ｒｈ　ロジウム　５５／００<br>Ｒｕ　ルテニウム　５５／００<br>Ｓｂ　アンチモン　３０／００<br>Ｓｎ　すず　１９／００<br>Ｔａ　タンタル　３５／００<br>Ｔｉ　チタン　２３／００<br>Ｔｌ　タリウム　１５／００<br>Ｕ　ウラニウム　４３／００<br>Ｖ　バナジウム　３１／００<br>Ｗ　タングステン　４１／００<br>Ｚｎ　亜鉛　９／００<br>Ｚｒ　ジルコニウム　２５／００<br>超ウラン元素化合物　５６／００<br>上記グループ以外の金属化合物　９９／００",
+      "en": "COMPOUNDS CONTAINING METALS NOT COVERED BY SUBCLASSES <b>C01D</b> OR <b>C01F</b>(metal hydrides <b>C01B6/00</b>;  salts of oxyacids of halogens <b>C01B11/00</b>;  peroxides, salts of peroxyacids <b>C01B15/00</b>;  thiosulfates, dithionites, polythionates <b>C01B17/64</b>;  compounds containing selenium or tellurium <b>C01B19/00</b>;  binary compounds of nitrogen with metals <b>C01B21/06</b>;  azides <b>C01B21/08</b>;  metal amides <b>C01B21/092</b>;  nitrites <b>C01B21/50</b>;  phosphides <b>C01B25/08</b>;  salts of oxyacids of phosphorus <b>C01B25/16</b>;  carbides <b>C01B32/90</b>;  compounds containing silicon <b>C01B33/00</b>;  compounds containing boron <b>C01B35/00</b>;  compounds having molecular sieve properties but not having base-exchange properties <b>C01B37/00</b>;  compounds having molecular sieve and base-exchange properties, e.g. crystalline zeolites, <b>C01B39/00</b>;  cyanides <b>C01C3/08</b>;  salts of cyanic acid <b>C01C3/14</b>;  salts of cyanamide <b>C01C3/16</b>;  thiocyanates <b>C01C3/20</b>;  fermentation or enzyme-using processes for the preparation of elements or inorganic compounds except carbon dioxide <b>C12P3/00</b>;  obtaining metal compounds from mixtures, e.g. ores, which are intermediate compounds in a metallurgical process for obtaining a free metal <b>C21B</b>, <b>C22B</b>;  production of non-metallic elements or inorganic compounds by electrolysis or electrophoresis <b>C25B</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>Attention is drawn to Note (1) after class <b>C01</b>, which defines the last place priority rule applied in this class, i.e. in the range of subclasses <b>C01B to C01G</b>  and within these subclasses.</li><li>Therapeutic activity of compounds is further classified in subclass <b>A61P</b>.</li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">GENERAL METHODS OF PREPARATION </td><td><b><b>1/00</b></b></td></tr></tr><tr><td width=\"70%\">METALLIC COMPOUNDS, IN ALPHABETICAL ORDER OF THE SYMBOL FOR THE METAL<tr><td width=\"70%\">Ag Silver </td><td><b><b>5/00</b></b></td></tr></tr><tr><td width=\"70%\">As Arsenic </td><td><b><b>28/00</b></b></td></tr></tr><tr><td width=\"70%\">Au Gold </td><td><b><b>7/00</b></b></td></tr></tr><tr><td width=\"70%\">Bi Bismuth </td><td><b><b>29/00</b></b></td></tr></tr><tr><td width=\"70%\">Cd Cadmium </td><td><b><b>11/00</b></b></td></tr></tr><tr><td width=\"70%\">Co Cobalt </td><td><b><b>51/00</b></b></td></tr></tr><tr><td width=\"70%\">Cr Chromium </td><td><b><b>37/00</b></b></td></tr></tr><tr><td width=\"70%\">Cu Copper </td><td><b><b>3/00</b></b></td></tr></tr><tr><td width=\"70%\">Fe Iron </td><td><b><b>49/00</b></b></td></tr></tr><tr><td width=\"70%\">Ga Gallium </td><td><b><b>15/00</b></b></td></tr></tr><tr><td width=\"70%\">Ge Germanium </td><td><b><b>17/00</b></b></td></tr></tr><tr><td width=\"70%\">Hf Hafnium </td><td><b><b>27/00</b></b></td></tr></tr><tr><td width=\"70%\">Hg Mercury </td><td><b><b>13/00</b></b></td></tr></tr><tr><td width=\"70%\">In Indium </td><td><b><b>15/00</b></b></td></tr></tr><tr><td width=\"70%\">Ir Iridium </td><td><b><b>55/00</b></b></td></tr></tr><tr><td width=\"70%\">Mn Manganese </td><td><b><b>45/00</b></b></td></tr></tr><tr><td width=\"70%\">Mo Molybdenum </td><td><b><b>39/00</b></b></td></tr></tr><tr><td width=\"70%\">Nb Niobium </td><td><b><b>33/00</b></b></td></tr></tr><tr><td width=\"70%\">Ni Nickel </td><td><b><b>53/00</b></b></td></tr></tr><tr><td width=\"70%\">Os Osmium </td><td><b><b>55/00</b></b></td></tr></tr><tr><td width=\"70%\">Pb Lead </td><td><b><b>21/00</b></b></td></tr></tr><tr><td width=\"70%\">Pd Palladium </td><td><b><b>55/00</b></b></td></tr></tr><tr><td width=\"70%\">Pt Platinum </td><td><b><b>55/00</b></b></td></tr></tr><tr><td width=\"70%\">Re Rhenium </td><td><b><b>47/00</b></b></td></tr></tr><tr><td width=\"70%\">Rh Rhodium </td><td><b><b>55/00</b></b></td></tr></tr><tr><td width=\"70%\">Ru Ruthenium </td><td><b><b>55/00</b></b></td></tr></tr><tr><td width=\"70%\">Sb Antimony </td><td><b><b>30/00</b></b></td></tr></tr><tr><td width=\"70%\">Sn Tin </td><td><b><b>19/00</b></b></td></tr></tr><tr><td width=\"70%\">Ta Tantalum </td><td><b><b>35/00</b></b></td></tr></tr><tr><td width=\"70%\">Ti Titanium </td><td><b><b>23/00</b></b></td></tr></tr><tr><td width=\"70%\">Tl Thallium </td><td><b><b>15/00</b></b></td></tr></tr><tr><td width=\"70%\">U Uranium </td><td><b><b>43/00</b></b></td></tr></tr><tr><td width=\"70%\">V Vanadium </td><td><b><b>31/00</b></b></td></tr></tr><tr><td width=\"70%\">W Tungsten </td><td><b><b>41/00</b></b></td></tr></tr><tr><td width=\"70%\">Zn Zinc </td><td><b><b>9/00</b></b></td></tr></tr><tr><td width=\"70%\">Zr Zirconium </td><td><b><b>25/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">COMPOUNDS OF TRANSURANIC ELEMENTS </td><td><b><b>56/00</b></b></td></tr></tr><tr><td width=\"70%\">COMPOUNDS OF METALS NOT COVERED BY THE PRECEDING GROUPS </td><td><b><b>99/00</b></b></td></tr></tr></table>",
+      "count": 1012,
+      "sourceFile": "ipc_C.txt",
+      "kind": "ipc"
+    },
+    "C01": {
+      "code": "C01",
+      "level": 0,
+      "parent": "C",
+      "ja": "無機化学<br><br><b><ul>注</ul></b><br>（１）サブクラスＣ０１Ｂ～Ｃ０１Ｇにおいては，ラストプレイス優先ルールが適用される，すなわち各階層レベルにおいて相反する指示のない限り，化合物は最後の適切な箇所に分類する，例．過マンガン酸カリウムは，サブクラスＣ０１Ｇに過マンガン酸塩としてのみ分類する［３］<br>（２）化合物または組成物の殺生物，有害生物忌避，有害生物誘引または植物生長調節活性は，さらにサブクラスＡ０１Ｐに分類する。［８］",
+      "en": "INORGANIC CHEMISTRY; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In subclasses <b>C01B to C01G</b> , the last place priority rule is applied, i.e. at each hierarchical level, in the absence of an indication to the contrary, a compound is classified in the last appropriate place, e.g. potassium permanganate is classified only as a permanganate compound, in subclass <b>C01G</b>.  </li><li>Biocidal, pest repellant, pest attractant or plant growth regulatory activity of compounds or preparations is further classified in subclass <b>A01P</b>.  </li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_C.txt",
+      "kind": "ipc"
+    },
+    "C": {
+      "code": "C",
+      "level": 0,
+      "parent": null,
+      "ja": "化学；冶金<br><br><b><ul>注</ul></b><br>（１）セクションＣにおいて，化学元素の種類に関する定義は次の通りである：<br>アルカリ金属：Ｌｉ，Ｎａ，Ｋ，Ｒｂ，Ｃｓ，Ｆｒ<br>アルカリ土類金属：Ｃａ，Ｓｒ，Ｂａ，Ｒａ<br>ランタニド：原子番号５７から７１までの元素<br>希土類：Ｓｃ，Ｙ，ランタニド<br>アクチニド：原子番号８９から１０３までの元素<br>耐火金属：Ｔｉ，Ｖ，Ｃｒ，Ｚｒ，Ｎｂ，Ｍｏ，Ｈｆ，Ｔａ，Ｗ<br>ハロゲン：Ｆ，Ｃｌ，Ｂｒ，Ｉ，Ａｔ<br>希ガス：Ｈｅ，Ｎｅ，Ａｒ，Ｋｒ，Ｘｅ，Ｒｎ<br>白金族：Ｏｓ，Ｉｒ，Ｐｔ，Ｒｕ，Ｒｈ，Ｐｄ<br>貴金属：Ａｇ，Ａｕ，白金族<br>軽金属：アルカリ金属，アルカリ土類金属，Ｂｅ，Ａｌ，Ｍｇ<br>重金属：軽金属以外の金属<br>鉄族：Ｆｅ，Ｃｏ，Ｎｉ<br>非金属：Ｈ，Ｂ，Ｃ，Ｓｉ，Ｎ，Ｐ，Ｏ，Ｓ，Ｓｅ，Ｔｅ，希ガス，ハロゲン<br>金属：非金属以外の元素<br>遷移元素：原子番号２１から３０まで，３９から４８まで，５７から８０まで，８９以上の元素<br>（２）Ｃセクションは以下のものを包含する：<br>（ａ）無機化合物，有機化合物，高分子化合物およびそれらの調製法を包含する純粋化学；<br>（ｂ）たとえばガラス，セラミック，肥料，プラスチック組成物，ペイント，石油工業の製品のような上記化合物を含有する組成物を包含する応用化学。それはまた，爆発物，染料，接着剤，潤滑剤および洗剤のように，ある目的に適した特別の性質をもつための組成物をも包含する；<br>（ｃ）コークスの製造，固体または気体燃料の製造，油脂およびろうの製造および精製，発酵工業（例．ビールおよびぶどう酒の製造），製糖工業のようなある境界工業；<br>（ｄ）ある操作または処理であって，純粋に機械的な処理，例．レザーおよび皮の機械的処理，または部分的機械的処理，例．水処理，または腐食防止一般であるもの；<br>（ｅ）冶金，鉄または非鉄合金<br>（３）ＩＰＣの全てのセクションにおいて，相反する指示がない限り，元素記号周期表への言及は，以下に示す１８のグループを表す。［２００９．０１］<br>’「図」’<br>’「図」’<br>（４）<br>（ａ）化学的部分または面および非化学的部分または面の両方を有する操作，処理，製品または物品の場合に，一般規則として，化学的部分または面はＣセクションに包含される。<br>（ｂ）これらのうちのある場合には，化学的部分または面には非化学的部分または面を伴い，純粋に機械的部分または面を伴うことさえある，というのは非化学的面は操作または処理にとって本質的であるかまたはそれらの重要な要素を構成するからである；実際，全体のさまざまな部分または面を分割しないのがより論理的と思える。これは応用化学や上記注（１）（ｃ），（ｄ）および（ｅ）の工業，操作および処理の場合に適用される。例えば，ガラス製造用特殊炉はＣ０３に包含されＦ２７には包含されない。<br>（ｃ）しかしながら，機械的面（または非化学的面）に非化学的な面が伴うという例外もある，例えば：<br>―サブクラスＡ６１Ｋにおけるある抽出プロセス；<br>―サブクラスＡ６１Ｌにおける空気の化学的精製；<br>―サブクラスＡ６２Ｄにおける化学的消火方法；<br>―クラスＢ０１における化学的プロセスおよび装置；<br>―サブクラスＢ２７Ｋにおける木材の含浸；<br>―サブクラスＧ０１Ｎにおける化学的分析または試験法；<br>―クラスＧ０３における写真材料またはプロセス，そして一般に，Ｄセクションにおける繊維の化学的処理および繊維素，紙等の製造<br>（ｄ）さらに他の場合，純粋化学的面はＣセクションに包含され，応用化学的面はＡ，Ｂ，Ｆセクションのような他のセクションに包含される，例．以下の物質または組成物の使用：<br>―サブクラスＡ０１Ｎに包含される植物または動物の処理；<br>―クラスＡ２３に包含される食物；<br>―クラスＦ４２に包含される弾薬または爆薬<br>（ｅ）化学的面および機械的面が非常に交錯して，簡単明確な分割ができない時，または化学的処理が自然なまたは論理的な延長として機械的プロセスを要する時は，化学的面に加えて，Ｃセクションは機械的面の一部のみ，例．クラスＣ０４に包含される人造石の後処理，を包含する。この後者の場合に，たとえその区別がむしろ任意であってもその位置を明確にするよう注または参照を通常設けている。",
+      "en": "CHEMISTRY; METALLURGY; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In section <b>C</b>, the definitions of groups of chemical elements are as follows: <ul><li><u>Alkali metals:</u> Li, Na, K, Rb, Cs, Fr</li><li><u>Alkaline earth metals:</u> Ca, Sr, Ba, Ra</li><li><u>Lanthanides:</u> elements with atomic numbers 57 to 71 inclusive</li><li><u>Rare earths:</u> Sc, Y, Lanthanides</li><li><u>Actinides:</u> elements with atomic numbers 89 to 103 inclusive</li><li><u>Refractory metals:</u> Ti, V, Cr, Zr, Nb, Mo, Hf, Ta, W</li><li><u>Halogens:</u> F, Cl, Br, I, At</li><li><u>Noble gases:</u> He, Ne, Ar, Kr, Xe, Rn</li><li><u>Platinum group:</u> Os, Ir, Pt, Ru, Rh, Pd</li><li><u>Noble metals:</u> Ag, Au, Platinum group</li><li><u>Light metals:</u> alkali metals, alkaline earth metals, Be, Al, Mg</li><li><u>Heavy metals:</u> metals other than light metals</li><li><u>Iron group:</u> Fe, Co, Ni</li><li><u>Non-metals:</u> H, B, C, Si, N, P, O, S, Se, Te, noble gases, halogens</li><li><u>Metals:</u> elements other than non-metals</li><li><u>Transition elements:</u> elements with atomic numbers 21 to 30 inclusive, 39 to 48 inclusive, 57 to 80 inclusive, 89 upwards</li></ul></li><li>Section <b>C</b> <u>covers</u> : <ul><li>pure chemistry, which covers inorganic compounds, organic compounds, macromolecular compounds, and their methods of preparation;</li><li>applied chemistry, which covers compositions containing the above compounds, such as: glass, ceramics, fertilisers, plastics compositions, paints, products of the petroleum industry. It also <u>covers</u> certain compositions on account of their having particular properties rendering them suitable for certain purposes, as in the case of explosives, dyestuffs, adhesives, lubricants, and detergents;</li><li>certain marginal industries, such as the manufacture of coke and of solid or gaseous fuels, the production and refining of oils, fats and waxes, the fermentation industry (e.g., brewing and wine-making), the sugar industry;</li><li>certain operations or treatments, which are either purely mechanical, e.g., the mechanical treatment of leather and skins, or partly mechanical, e.g., the treatment of water or the prevention of corrosion in general;</li><li>metallurgy, ferrous or non-ferrous alloys.</li></ul></li><li>In all sections of the IPC, in the absence of an indication to the contrary, the Periodic Table of chemical elements referred to is the one with 18 groups as represented in the table below. [figure]</li><li><ul><li>In the case of operations, treatments, products or articles having both a chemical and a non-chemical part or aspect, the general rule is that the chemical part or aspect is covered by section <b>C</b>.</li><li>In some of these cases, the chemical part or aspect brings with it a non-chemical one, even though purely mechanical, because this latter aspect either is essential to the operation or treatment or constitutes an important element thereof. It has seemed, in fact, more logical not to dissociate the different parts or aspects of a coherent whole. This is the case for applied chemistry and for the industries, operations and treatments mentioned in Notes (1)(c), (d) and (e). For example, furnaces peculiar to the manufacture of glass are covered by class <b>C03</b> and not by class <b>F27</b>.</li><li>There are, however, some exceptions in which the mechanical (or non-chemical) aspect carries with it the chemical aspect, for example: <ul><li>certain extractive processes, in subclass <b>A61K</b>;</li><li>the chemical purification of air, in subclass <b>A61L</b>;</li><li>chemical methods of fire-fighting, in subclass <b>A62D</b>;</li><li>chemical processes and apparatus, in class <b>B01</b>;</li><li>impregnation of wood, in subclass <b>B27K</b>;</li><li>chemical methods of analysis or testing, in subclass <b>G01N</b>;</li><li>photographic materials and processes, in class <b>G03</b>, and, generally, the chemical treatment of textiles and the production of cellulose or paper, in section <b>D</b>.</li></ul></li><li>In still other cases, the pure chemical aspect is covered by section <b>C</b> and the applied chemical aspect by another section, such as <b>A</b>, <b>B</b> or <b>F</b>, e.g., the use of a substance or composition for: <ul><li>treatment of plants or animals, covered by subclass <b>A01N</b>;</li><li>foodstuffs, covered by class <b>A23</b>;</li><li>ammunition or explosives, covered by class <b>F42</b>.</li></ul></li><li>When the chemical and mechanical aspects are so closely interlocked that a neat and simple division is not possible, or when certain mechanical processes follow as a natural or logical continuation of a chemical treatment, section <b>C</b> may cover, in addition to the chemical aspect, a part only of the mechanical aspect, e.g., after-treatment of artificial stone, covered by class <b>C04</b>. In this latter case, a note or a reference is usually given to make the position clear, even if sometimes the division is rather arbitrary.</li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_C.txt",
+      "kind": "ipc"
+    },
+    "C01G1/00": {
+      "code": "C01G1/00",
+      "level": 0,
+      "parent": "C01G",
+      "ja": "Ｃ０１Ｂ，Ｃ０１Ｃ，Ｃ０１ＤまたはＣ０１Ｆに包含されない金属化合物の製造方法一般（無機化合物の電解的製造Ｃ２５Ｂ１／００）［２］",
+      "en": "Methods of preparing compounds of metals not covered by subclasses <b>C01B</b>, <b>C01C</b>, <b>C01D</b>, <b>C01F</b>, in general(electrolytic production of inorganic compounds <b>C25B1/00</b>)",
+      "count": 8562,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G1/02": {
+      "code": "C01G1/02",
+      "level": 1,
+      "parent": "C01G1/00",
+      "ja": "酸化物",
+      "en": "Oxides",
+      "count": 1506,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G1/04": {
+      "code": "C01G1/04",
+      "level": 1,
+      "parent": "C01G1/00",
+      "ja": "カルボニル",
+      "en": "Carbonyls",
+      "count": 171,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G1/06": {
+      "code": "C01G1/06",
+      "level": 1,
+      "parent": "C01G1/00",
+      "ja": "ハロゲン化物",
+      "en": "Halides",
+      "count": 489,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G1/08": {
+      "code": "C01G1/08",
+      "level": 1,
+      "parent": "C01G1/00",
+      "ja": "硝酸塩",
+      "en": "Nitrates",
+      "count": 53,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G1/10": {
+      "code": "C01G1/10",
+      "level": 1,
+      "parent": "C01G1/00",
+      "ja": "硫酸塩",
+      "en": "Sulfates",
+      "count": 114,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G1/12": {
+      "code": "C01G1/12",
+      "level": 1,
+      "parent": "C01G1/00",
+      "ja": "硫化物",
+      "en": "Sulfides",
+      "count": 385,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G1/14": {
+      "code": "C01G1/14",
+      "level": 1,
+      "parent": "C01G1/00",
+      "ja": "亜硫酸塩",
+      "en": "Sulfites",
+      "count": 4,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G3/00": {
+      "code": "C01G3/00",
+      "level": 0,
+      "parent": "C01G",
+      "ja": "銅化合物",
+      "en": "Compounds of copper",
+      "count": 5241,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G3/02": {
+      "code": "C01G3/02",
+      "level": 1,
+      "parent": "C01G3/00",
+      "ja": "酸化物；水酸化物",
+      "en": "Oxides; Hydroxides",
+      "count": 2595,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G3/04": {
+      "code": "C01G3/04",
+      "level": 1,
+      "parent": "C01G3/00",
+      "ja": "ハロゲン化物",
+      "en": "Halides",
+      "count": 233,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G3/05": {
+      "code": "C01G3/05",
+      "level": 2,
+      "parent": "C01G3/04",
+      "ja": "塩化物［３］",
+      "en": "Chlorides",
+      "count": 454,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G3/06": {
+      "code": "C01G3/06",
+      "level": 2,
+      "parent": "C01G3/04",
+      "ja": "オキシ塩化物",
+      "en": "Oxychlorides",
+      "count": 183,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G3/08": {
+      "code": "C01G3/08",
+      "level": 1,
+      "parent": "C01G3/00",
+      "ja": "硝酸塩",
+      "en": "Nitrates",
+      "count": 99,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G3/10": {
+      "code": "C01G3/10",
+      "level": 1,
+      "parent": "C01G3/00",
+      "ja": "硫酸塩",
+      "en": "Sulfates",
+      "count": 1078,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G3/12": {
+      "code": "C01G3/12",
+      "level": 1,
+      "parent": "C01G3/00",
+      "ja": "硫化物",
+      "en": "Sulfides",
+      "count": 863,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G3/14": {
+      "code": "C01G3/14",
+      "level": 1,
+      "parent": "C01G3/00",
+      "ja": "アンモニアとの錯化合物",
+      "en": "Complexes with ammonia",
+      "count": 128,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G5/00": {
+      "code": "C01G5/00",
+      "level": 0,
+      "parent": "C01G",
+      "ja": "銀化合物",
+      "en": "Compounds of silver",
+      "count": 1811,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G5/02": {
+      "code": "C01G5/02",
+      "level": 1,
+      "parent": "C01G5/00",
+      "ja": "ハロゲン化物［３］",
+      "en": "Halides",
+      "count": 323,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G7/00": {
+      "code": "C01G7/00",
+      "level": 0,
+      "parent": "C01G",
+      "ja": "金化合物",
+      "en": "Compounds of gold",
+      "count": 954,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G9/00": {
+      "code": "C01G9/00",
+      "level": 0,
+      "parent": "C01G",
+      "ja": "亜鉛化合物",
+      "en": "Compounds of zinc",
+      "count": 2239,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G9/02": {
+      "code": "C01G9/02",
+      "level": 1,
+      "parent": "C01G9/00",
+      "ja": "酸化物；水酸化物［３］",
+      "en": "Oxides; Hydroxides",
+      "count": 5683,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G9/03": {
+      "code": "C01G9/03",
+      "level": 2,
+      "parent": "C01G9/02",
+      "ja": "乾式法，例．気相法を使用する製造方法［３］",
+      "en": "Processes of production using dry methods, e.g. vapour phase processes",
+      "count": 593,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G9/04": {
+      "code": "C01G9/04",
+      "level": 1,
+      "parent": "C01G9/00",
+      "ja": "ハロゲン化物",
+      "en": "Halides",
+      "count": 508,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G9/06": {
+      "code": "C01G9/06",
+      "level": 1,
+      "parent": "C01G9/00",
+      "ja": "硫酸塩",
+      "en": "Sulfates",
+      "count": 804,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G9/08": {
+      "code": "C01G9/08",
+      "level": 1,
+      "parent": "C01G9/00",
+      "ja": "硫化物",
+      "en": "Sulfides",
+      "count": 1206,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G11/00": {
+      "code": "C01G11/00",
+      "level": 0,
+      "parent": "C01G",
+      "ja": "カドミウム化合物",
+      "en": "Compounds of cadmium",
+      "count": 784,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G11/02": {
+      "code": "C01G11/02",
+      "level": 1,
+      "parent": "C01G11/00",
+      "ja": "硫化物［３］",
+      "en": "Sulfides",
+      "count": 858,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G13/00": {
+      "code": "C01G13/00",
+      "level": 0,
+      "parent": "C01G",
+      "ja": "水銀化合物",
+      "en": "Compounds of mercury",
+      "count": 544,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G13/02": {
+      "code": "C01G13/02",
+      "level": 1,
+      "parent": "C01G13/00",
+      "ja": "酸化物",
+      "en": "Oxides",
+      "count": 95,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G13/04": {
+      "code": "C01G13/04",
+      "level": 1,
+      "parent": "C01G13/00",
+      "ja": "ハロゲン化物",
+      "en": "Halides",
+      "count": 130,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G15/00": {
+      "code": "C01G15/00",
+      "level": 0,
+      "parent": "C01G",
+      "ja": "ガリウム，インジウム，またはタリウム化合物",
+      "en": "Compounds of gallium, indium, or thallium",
+      "count": 4236,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G17/00": {
+      "code": "C01G17/00",
+      "level": 0,
+      "parent": "C01G",
+      "ja": "ゲルマニウム化合物",
+      "en": "Compounds of germanium",
+      "count": 725,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G17/02": {
+      "code": "C01G17/02",
+      "level": 1,
+      "parent": "C01G17/00",
+      "ja": "二酸化ゲルマニウム",
+      "en": "Germanium dioxide",
+      "count": 268,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G17/04": {
+      "code": "C01G17/04",
+      "level": 1,
+      "parent": "C01G17/00",
+      "ja": "ハロゲン化ゲルマニウム",
+      "en": "Halides of germanium",
+      "count": 185,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G19/00": {
+      "code": "C01G19/00",
+      "level": 0,
+      "parent": "C01G",
+      "ja": "すず化合物",
+      "en": "Compounds of tin",
+      "count": 2371,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G19/02": {
+      "code": "C01G19/02",
+      "level": 1,
+      "parent": "C01G19/00",
+      "ja": "酸化物",
+      "en": "Oxides",
+      "count": 2561,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G19/04": {
+      "code": "C01G19/04",
+      "level": 1,
+      "parent": "C01G19/00",
+      "ja": "ハロゲン化物",
+      "en": "Halides",
+      "count": 129,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G19/06": {
+      "code": "C01G19/06",
+      "level": 2,
+      "parent": "C01G19/04",
+      "ja": "塩化第一すず",
+      "en": "Stannous chloride",
+      "count": 88,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G19/08": {
+      "code": "C01G19/08",
+      "level": 2,
+      "parent": "C01G19/04",
+      "ja": "塩化第二すず",
+      "en": "Stannic chloride",
+      "count": 119,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G21/00": {
+      "code": "C01G21/00",
+      "level": 0,
+      "parent": "C01G",
+      "ja": "鉛化合物",
+      "en": "Compounds of lead",
+      "count": 1133,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G21/02": {
+      "code": "C01G21/02",
+      "level": 1,
+      "parent": "C01G21/00",
+      "ja": "酸化物",
+      "en": "Oxides",
+      "count": 353,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G21/04": {
+      "code": "C01G21/04",
+      "level": 2,
+      "parent": "C01G21/02",
+      "ja": "亜酸化鉛［Ｐｂ↓２Ｏ］［２００６．０１］",
+      "en": "Lead suboxide [Pb<sub>2</sub>O]",
+      "count": 16,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G21/06": {
+      "code": "C01G21/06",
+      "level": 2,
+      "parent": "C01G21/02",
+      "ja": "酸化鉛［ＰｂＯ］［２００６．０１］",
+      "en": "Lead monoxide [PbO]",
+      "count": 287,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G21/08": {
+      "code": "C01G21/08",
+      "level": 2,
+      "parent": "C01G21/02",
+      "ja": "二酸化鉛［ＰｂＯ↓２］［２００６．０１］",
+      "en": "Lead dioxide [PbO<sub>2</sub>]",
+      "count": 78,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G21/10": {
+      "code": "C01G21/10",
+      "level": 2,
+      "parent": "C01G21/02",
+      "ja": "鉛丹［Ｐｂ↓３Ｏ↓４］［２００６．０１］",
+      "en": "Red lead [Pb<sub>3</sub>O<sub>4</sub>]",
+      "count": 182,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G21/12": {
+      "code": "C01G21/12",
+      "level": 1,
+      "parent": "C01G21/00",
+      "ja": "水酸化物",
+      "en": "Hydroxides",
+      "count": 33,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G21/14": {
+      "code": "C01G21/14",
+      "level": 1,
+      "parent": "C01G21/00",
+      "ja": "炭酸塩",
+      "en": "Carbonates",
+      "count": 124,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G21/16": {
+      "code": "C01G21/16",
+      "level": 1,
+      "parent": "C01G21/00",
+      "ja": "ハロゲン化物",
+      "en": "Halides",
+      "count": 366,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G21/18": {
+      "code": "C01G21/18",
+      "level": 1,
+      "parent": "C01G21/00",
+      "ja": "硝酸塩",
+      "en": "Nitrates",
+      "count": 31,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G21/20": {
+      "code": "C01G21/20",
+      "level": 1,
+      "parent": "C01G21/00",
+      "ja": "硫酸塩",
+      "en": "Sulfates",
+      "count": 243,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G21/21": {
+      "code": "C01G21/21",
+      "level": 1,
+      "parent": "C01G21/00",
+      "ja": "硫化物［３］",
+      "en": "Sulfides",
+      "count": 291,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G21/22": {
+      "code": "C01G21/22",
+      "level": 1,
+      "parent": "C01G21/00",
+      "ja": "鉛酸塩；亜鉛酸塩",
+      "en": "Plumbates; Plumbites",
+      "count": 36,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G23/00": {
+      "code": "C01G23/00",
+      "level": 0,
+      "parent": "C01G",
+      "ja": "チタン化合物",
+      "en": "Compounds of titanium",
+      "count": 7904,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G23/02": {
+      "code": "C01G23/02",
+      "level": 1,
+      "parent": "C01G23/00",
+      "ja": "チタンのハロゲン化物",
+      "en": "Halides of titanium",
+      "count": 2034,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G23/04": {
+      "code": "C01G23/04",
+      "level": 1,
+      "parent": "C01G23/00",
+      "ja": "酸化物；水酸化物［３］",
+      "en": "Oxides; Hydroxides",
+      "count": 3425,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G23/047": {
+      "code": "C01G23/047",
+      "level": 2,
+      "parent": "C01G23/04",
+      "ja": "二酸化チタン［３］",
+      "en": "Titanium dioxide",
+      "count": 4486,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G23/053": {
+      "code": "C01G23/053",
+      "level": 3,
+      "parent": "C01G23/047",
+      "ja": "湿式法による製造，例．チタン塩の加水分解［３］",
+      "en": "Producing by wet processes, e.g. hydrolysing titanium salts",
+      "count": 5638,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G23/07": {
+      "code": "C01G23/07",
+      "level": 3,
+      "parent": "C01G23/047",
+      "ja": "気相法による製造，例．ハロゲン化物の酸化［３］",
+      "en": "Producing by vapour phase processes, e.g. halide oxidation",
+      "count": 1281,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G23/08": {
+      "code": "C01G23/08",
+      "level": 3,
+      "parent": "C01G23/047",
+      "ja": "乾燥，か焼［３］",
+      "en": "Drying; Calcining",
+      "count": 1262,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G25/00": {
+      "code": "C01G25/00",
+      "level": 0,
+      "parent": "C01G",
+      "ja": "ジルコニウム化合物",
+      "en": "Compounds of zirconium",
+      "count": 4012,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G25/02": {
+      "code": "C01G25/02",
+      "level": 1,
+      "parent": "C01G25/00",
+      "ja": "酸化物",
+      "en": "Oxides",
+      "count": 3836,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G25/04": {
+      "code": "C01G25/04",
+      "level": 1,
+      "parent": "C01G25/00",
+      "ja": "ハロゲン化物",
+      "en": "Halides",
+      "count": 561,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G25/06": {
+      "code": "C01G25/06",
+      "level": 1,
+      "parent": "C01G25/00",
+      "ja": "硫酸塩",
+      "en": "Sulfates",
+      "count": 136,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G27/00": {
+      "code": "C01G27/00",
+      "level": 0,
+      "parent": "C01G",
+      "ja": "ハフニウム化合物",
+      "en": "Compounds of hafnium",
+      "count": 477,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G27/02": {
+      "code": "C01G27/02",
+      "level": 1,
+      "parent": "C01G27/00",
+      "ja": "酸化物",
+      "en": "Oxides",
+      "count": 334,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G27/04": {
+      "code": "C01G27/04",
+      "level": 1,
+      "parent": "C01G27/00",
+      "ja": "ハロゲン化物",
+      "en": "Halides",
+      "count": 147,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G27/06": {
+      "code": "C01G27/06",
+      "level": 1,
+      "parent": "C01G27/00",
+      "ja": "硫酸塩",
+      "en": "Sulfates",
+      "count": 19,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G28/00": {
+      "code": "C01G28/00",
+      "level": 0,
+      "parent": "C01G",
+      "ja": "ひ素化合物［３］",
+      "en": "Compounds of arsenic",
+      "count": 1347,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G28/02": {
+      "code": "C01G28/02",
+      "level": 1,
+      "parent": "C01G28/00",
+      "ja": "ひ酸塩；亜ひ酸塩［３］",
+      "en": "Arsenates; Arsenites",
+      "count": 390,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G29/00": {
+      "code": "C01G29/00",
+      "level": 0,
+      "parent": "C01G",
+      "ja": "ビスマス化合物",
+      "en": "Compounds of bismuth",
+      "count": 3753,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G30/00": {
+      "code": "C01G30/00",
+      "level": 0,
+      "parent": "C01G",
+      "ja": "アンチモン化合物［３］",
+      "en": "Compounds of antimony",
+      "count": 1841,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G30/02": {
+      "code": "C01G30/02",
+      "level": 1,
+      "parent": "C01G30/00",
+      "ja": "アンチモン酸塩；亜アンチモン酸塩［３］",
+      "en": "Antimonates; Antimonites",
+      "count": 258,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G31/00": {
+      "code": "C01G31/00",
+      "level": 0,
+      "parent": "C01G",
+      "ja": "バナジウム化合物",
+      "en": "Compounds of vanadium",
+      "count": 3050,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G31/02": {
+      "code": "C01G31/02",
+      "level": 1,
+      "parent": "C01G31/00",
+      "ja": "酸化物［３］",
+      "en": "Oxides",
+      "count": 2439,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G31/04": {
+      "code": "C01G31/04",
+      "level": 1,
+      "parent": "C01G31/00",
+      "ja": "ハロゲン化物［３］",
+      "en": "Halides",
+      "count": 128,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G33/00": {
+      "code": "C01G33/00",
+      "level": 0,
+      "parent": "C01G",
+      "ja": "ニオブ化合物",
+      "en": "Compounds of niobium",
+      "count": 3114,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G35/00": {
+      "code": "C01G35/00",
+      "level": 0,
+      "parent": "C01G",
+      "ja": "タンタル化合物",
+      "en": "Compounds of tantalum",
+      "count": 1843,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G35/02": {
+      "code": "C01G35/02",
+      "level": 1,
+      "parent": "C01G35/00",
+      "ja": "ハロゲン化物［３］",
+      "en": "Halides",
+      "count": 103,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G37/00": {
+      "code": "C01G37/00",
+      "level": 0,
+      "parent": "C01G",
+      "ja": "クロム化合物",
+      "en": "Compounds of chromium",
+      "count": 1265,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G37/02": {
+      "code": "C01G37/02",
+      "level": 1,
+      "parent": "C01G37/00",
+      "ja": "酸化物又はそれの含水物",
+      "en": "Oxides or hydrates thereof",
+      "count": 859,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G37/027": {
+      "code": "C01G37/027",
+      "level": 2,
+      "parent": "C01G37/02",
+      "ja": "二酸化クロム［３］",
+      "en": "Chromium dioxide",
+      "count": 181,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G37/033": {
+      "code": "C01G37/033",
+      "level": 2,
+      "parent": "C01G37/02",
+      "ja": "三酸化クロム；クロム酸［３］",
+      "en": "Chromium trioxide; Chromic acid",
+      "count": 421,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G37/04": {
+      "code": "C01G37/04",
+      "level": 1,
+      "parent": "C01G37/00",
+      "ja": "クロムハロゲン化物",
+      "en": "Chromium halides",
+      "count": 168,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G37/06": {
+      "code": "C01G37/06",
+      "level": 2,
+      "parent": "C01G37/04",
+      "ja": "クロミルハロゲン化物",
+      "en": "Chromylhalides",
+      "count": 15,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G37/08": {
+      "code": "C01G37/08",
+      "level": 1,
+      "parent": "C01G37/00",
+      "ja": "クロム硫酸塩",
+      "en": "Chromium sulfates",
+      "count": 158,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G37/10": {
+      "code": "C01G37/10",
+      "level": 2,
+      "parent": "C01G37/08",
+      "ja": "クロム明ばん",
+      "en": "Chrome alum",
+      "count": 49,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G37/14": {
+      "code": "C01G37/14",
+      "level": 1,
+      "parent": "C01G37/00",
+      "ja": "クロム酸塩；重クロム酸塩",
+      "en": "Chromates; Bichromates",
+      "count": 1124,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G39/00": {
+      "code": "C01G39/00",
+      "level": 0,
+      "parent": "C01G",
+      "ja": "モリブデン化合物",
+      "en": "Compounds of molybdenum",
+      "count": 2430,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G39/02": {
+      "code": "C01G39/02",
+      "level": 1,
+      "parent": "C01G39/00",
+      "ja": "酸化物；水酸化物［３］",
+      "en": "Oxides; Hydroxides",
+      "count": 1213,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G39/04": {
+      "code": "C01G39/04",
+      "level": 1,
+      "parent": "C01G39/00",
+      "ja": "ハロゲン化物［３］",
+      "en": "Halides",
+      "count": 107,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G39/06": {
+      "code": "C01G39/06",
+      "level": 1,
+      "parent": "C01G39/00",
+      "ja": "硫化物［３］",
+      "en": "Sulfides",
+      "count": 1930,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G41/00": {
+      "code": "C01G41/00",
+      "level": 0,
+      "parent": "C01G",
+      "ja": "タングステン化合物",
+      "en": "Compounds of tungsten",
+      "count": 3531,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G41/02": {
+      "code": "C01G41/02",
+      "level": 1,
+      "parent": "C01G41/00",
+      "ja": "酸化物；水酸化物［３］",
+      "en": "Oxides; Hydroxides",
+      "count": 1448,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G41/04": {
+      "code": "C01G41/04",
+      "level": 1,
+      "parent": "C01G41/00",
+      "ja": "ハロゲン化物［３］",
+      "en": "Halides",
+      "count": 184,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G43/00": {
+      "code": "C01G43/00",
+      "level": 0,
+      "parent": "C01G",
+      "ja": "ウラニウム化合物",
+      "en": "Compounds of uranium",
+      "count": 1294,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G43/01": {
+      "code": "C01G43/01",
+      "level": 1,
+      "parent": "C01G43/00",
+      "ja": "酸化物；水酸化物［３］",
+      "en": "Oxides; Hydroxides",
+      "count": 548,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G43/025": {
+      "code": "C01G43/025",
+      "level": 2,
+      "parent": "C01G43/01",
+      "ja": "二酸化ウラン［３］",
+      "en": "Uranium dioxide",
+      "count": 725,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G43/04": {
+      "code": "C01G43/04",
+      "level": 1,
+      "parent": "C01G43/00",
+      "ja": "ウラニウムハロゲン化物",
+      "en": "Halides of uranium",
+      "count": 33,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G43/06": {
+      "code": "C01G43/06",
+      "level": 2,
+      "parent": "C01G43/04",
+      "ja": "ふつ化物",
+      "en": "Fluorides",
+      "count": 647,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G43/08": {
+      "code": "C01G43/08",
+      "level": 2,
+      "parent": "C01G43/04",
+      "ja": "塩化物",
+      "en": "Chlorides",
+      "count": 89,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G43/10": {
+      "code": "C01G43/10",
+      "level": 2,
+      "parent": "C01G43/04",
+      "ja": "臭化物",
+      "en": "Bromides",
+      "count": 6,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G43/12": {
+      "code": "C01G43/12",
+      "level": 2,
+      "parent": "C01G43/04",
+      "ja": "よう化物",
+      "en": "Iodides",
+      "count": 5,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G45/00": {
+      "code": "C01G45/00",
+      "level": 0,
+      "parent": "C01G",
+      "ja": "マンガン化合物［２０２５．０１］",
+      "en": "Compounds of manganese",
+      "count": 3590,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G45/01": {
+      "code": "C01G45/01",
+      "level": 1,
+      "parent": "C01G45/00",
+      "ja": "液液抽出，吸着またはイオン交換を伴う調製または分離［２０２５．０１］",
+      "en": "Preparation or separation involving a liquid-liquid extraction, an adsorption or an ion-exchange",
+      "count": 17,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G45/02": {
+      "code": "C01G45/02",
+      "level": 1,
+      "parent": "C01G45/00",
+      "ja": "酸化物［２０２５．０１］",
+      "en": "Oxides",
+      "count": 3496,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G45/022": {
+      "code": "C01G45/022",
+      "level": 2,
+      "parent": "C01G45/02",
+      "ja": "酸化マンガン［２０２５．０１］",
+      "en": "Manganese monoxide",
+      "count": 18,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G45/024": {
+      "code": "C01G45/024",
+      "level": 2,
+      "parent": "C01G45/02",
+      "ja": "二酸化マンガン［２０２５．０１］",
+      "en": "Manganese dioxide",
+      "count": 106,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G45/026": {
+      "code": "C01G45/026",
+      "level": 2,
+      "parent": "C01G45/02",
+      "ja": "三酸化二マンガン［２０２５．０１］",
+      "en": "Dimanganese trioxide",
+      "count": 9,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G45/028": {
+      "code": "C01G45/028",
+      "level": 2,
+      "parent": "C01G45/02",
+      "ja": "四酸化三マンガン［２０２５．０１］",
+      "en": "Trimanganese tetraoxide",
+      "count": 61,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G45/03": {
+      "code": "C01G45/03",
+      "level": 1,
+      "parent": "C01G45/00",
+      "ja": "水酸化物；オキシ水酸化物［２０２５．０１］",
+      "en": "Hydroxides; Oxyhydroxides",
+      "count": 14,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G45/04": {
+      "code": "C01G45/04",
+      "level": 1,
+      "parent": "C01G45/00",
+      "ja": "カルボニル［２００６．０１］",
+      "en": "Carbonyls",
+      "count": 62,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G45/05": {
+      "code": "C01G45/05",
+      "level": 1,
+      "parent": "C01G45/00",
+      "ja": "炭酸塩［２０２５．０１］",
+      "en": "Carbonates",
+      "count": 22,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G45/06": {
+      "code": "C01G45/06",
+      "level": 1,
+      "parent": "C01G45/00",
+      "ja": "ハロゲン化物；オキシハロゲン化物［２０２５．０１］",
+      "en": "Halides; Oxyhalides",
+      "count": 209,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G45/07": {
+      "code": "C01G45/07",
+      "level": 2,
+      "parent": "C01G45/06",
+      "ja": "塩化物；オキシ塩化物［２０２５．０１］",
+      "en": "Chlorides; Oxychlorides",
+      "count": 8,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G45/08": {
+      "code": "C01G45/08",
+      "level": 1,
+      "parent": "C01G45/00",
+      "ja": "硝酸塩［２００６．０１］",
+      "en": "Nitrates",
+      "count": 101,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G45/10": {
+      "code": "C01G45/10",
+      "level": 1,
+      "parent": "C01G45/00",
+      "ja": "硫酸塩",
+      "en": "Sulfates",
+      "count": 948,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G45/12": {
+      "code": "C01G45/12",
+      "level": 1,
+      "parent": "C01G45/00",
+      "ja": "マンガンおよび少なくとも１つの他の金属元素を含む複合酸化物［２０２５．０１］",
+      "en": "Complex oxides containing manganese and at least one other metal element ",
+      "count": 2440,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G45/1207": {
+      "code": "C01G45/1207",
+      "level": 2,
+      "parent": "C01G45/12",
+      "ja": "過マンガン酸塩［（ＭｎＯ↓４）↑－］またはマンガン酸塩［（ＭｎＯ↓４）↑２－］［２０２５．０１］",
+      "en": "Permanganates [(MnO<sub>4</sub>)<sup>-</sup>] or manganates [(MnO<sub>4</sub>)<sup>2-</sup>]",
+      "count": 1,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G45/1214": {
+      "code": "C01G45/1214",
+      "level": 3,
+      "parent": "C01G45/1207",
+      "ja": "アルカリ金属を含むもの［２０２５．０１］",
+      "en": "containing alkali metals",
+      "count": 21,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G45/1221": {
+      "code": "C01G45/1221",
+      "level": 2,
+      "parent": "C01G45/12",
+      "ja": "三価マンガン，四価マンガンまたはそれらの混合物を有するマンガン酸塩または亜マンガン酸塩［２０２５．０１］",
+      "en": "Manganates or manganites with trivalent manganese, tetravalent manganese or mixtures thereof",
+      "count": 65,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G45/1228": {
+      "code": "C01G45/1228",
+      "level": 3,
+      "parent": "C01G45/1221",
+      "ja": "（ＭｎＯ↓２）↑－型のもの，例．ＬｉＭｎＯ↓２またはＬｉ（Ｍ↓ＸＭｎ↓１－Ｘ）Ｏ↓２［２０２５．０１］",
+      "en": "of the type (MnO<sub>2</sub>)<sup>-</sup>, e.g. LiMnO<sub>2</sub> or Li(M<sub>x</sub>Mn<sub>1-x</sub>)O<sub>2</sub>",
+      "count": 74,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G45/1235": {
+      "code": "C01G45/1235",
+      "level": 3,
+      "parent": "C01G45/1221",
+      "ja": "（Ｍｎ↓２Ｏ↓４）↑２－型のもの，例．Ｌｉ↓２Ｍｎ↓２Ｏ↓４またはＬｉ↓２（Ｍ↓ＸＭｎ↓２－Ｘ）Ｏ↓４［２０２５．０１］",
+      "en": "of the type (Mn<sub>2</sub>O<sub>4</sub>)<sup>2-</sup>, e.g. Li<sub>2</sub>Mn<sub>2</sub>O<sub>4</sub> or Li<sub>2</sub>(M<sub>x</sub>Mn<sub>2-x</sub>)O<sub>4</sub>",
+      "count": 8,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G45/1242": {
+      "code": "C01G45/1242",
+      "level": 3,
+      "parent": "C01G45/1221",
+      "ja": "（Ｍｎ↓２Ｏ↓４）↑－型のもの，例．ＬｉＭｎ↓２Ｏ↓４またはＬｉ（Ｍ↓ＸＭｎ↓２－Ｘ）Ｏ↓４［２０２５．０１］",
+      "en": "of the type (Mn<sub>2</sub>O<sub>4</sub>)<sup>-</sup>, e.g. LiMn<sub>2</sub>O<sub>4</sub> or Li(M<sub>x</sub>Mn<sub>2-x</sub>)O<sub>4</sub>",
+      "count": 41,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G45/125": {
+      "code": "C01G45/125",
+      "level": 3,
+      "parent": "C01G45/1221",
+      "ja": "（ＭｎＯ↓３）↑ｎ－型のもの，例．ＣａＭｎＯ↓３［２０２５．０１］",
+      "en": "of the type (MnO<sub>3</sub>)<sup>n-</sup>, e.g. CaMnO<sub>3</sub>",
+      "count": 4,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G45/1257": {
+      "code": "C01G45/1257",
+      "level": 4,
+      "parent": "C01G45/125",
+      "ja": "リチウムを含むもの，例．Ｌｉ↓２ＭｎＯ↓３またはＬｉ↓２（Ｍ↓ｘＭｎ↓１－ｘ）Ｏ↓３［２０２５．０１］",
+      "en": "containing lithium, e.g. Li<sub>2</sub>MnO<sub>3</sub> or Li<sub>2</sub>(M<sub>x</sub>Mn<sub>1-x</sub>)O<sub>3</sub>",
+      "count": 33,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G45/1264": {
+      "code": "C01G45/1264",
+      "level": 4,
+      "parent": "C01G45/125",
+      "ja": "希土類元素を含むもの，例．（Ｌａ↓１－ｘＣａ↓ｘ）ＭｎＯ↓３またはＬａＭｎＯ↓３［２０２５．０１］",
+      "en": "containing rare earths, e.g. (La<sub>1-</sub><sub>x</sub>Ca<sub>x</sub>)MnO<sub>3</sub> or LaMnO<sub>3</sub>",
+      "count": 15,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G45/20": {
+      "code": "C01G45/20",
+      "level": 1,
+      "parent": "C01G45/00",
+      "ja": "マンガンを含有し，酸素または水素の含有にかかわらず，１種以上の他の元素を含む化合物（Ｃ０１Ｇ４５／０４～Ｃ０１Ｇ４５／１２が優先）［２０２５．０１］",
+      "en": "Compounds containing manganese, with or without oxygen or hydrogen, and containing one or more other elements(<b>C01G45/04 to C01G45/12</b>  take precedence)",
+      "count": 13,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G45/22": {
+      "code": "C01G45/22",
+      "level": 2,
+      "parent": "C01G45/20",
+      "ja": "マンガンを含有し，酸素または水素の含有にかかわらず，２種以上の他の元素を含む化合物［２０２５．０１］",
+      "en": "Compounds containing manganese, with or without oxygen or hydrogen, and containing two or more other elements",
+      "count": 65,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G45/24": {
+      "code": "C01G45/24",
+      "level": 2,
+      "parent": "C01G45/20",
+      "ja": "水酸化物［２０２５．０１］",
+      "en": "Hydroxides",
+      "count": 5,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G47/00": {
+      "code": "C01G47/00",
+      "level": 0,
+      "parent": "C01G",
+      "ja": "レニウム化合物",
+      "en": "Compounds of rhenium",
+      "count": 545,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G49/00": {
+      "code": "C01G49/00",
+      "level": 0,
+      "parent": "C01G",
+      "ja": "鉄化合物",
+      "en": "Compounds of iron",
+      "count": 10932,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G49/02": {
+      "code": "C01G49/02",
+      "level": 1,
+      "parent": "C01G49/00",
+      "ja": "酸化物；水酸化物",
+      "en": "Oxides; Hydroxides",
+      "count": 3652,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G49/04": {
+      "code": "C01G49/04",
+      "level": 2,
+      "parent": "C01G49/02",
+      "ja": "酸化第一鉄［ＦｅＯ］［２００６．０１］",
+      "en": "Ferrous oxide [FeO]",
+      "count": 168,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G49/06": {
+      "code": "C01G49/06",
+      "level": 2,
+      "parent": "C01G49/02",
+      "ja": "酸化第二鉄［Ｆｅ↓２Ｏ↓３］［２００６．０１］",
+      "en": "Ferric oxide [Fe<sub>2</sub>O<sub>3</sub>]",
+      "count": 4639,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G49/08": {
+      "code": "C01G49/08",
+      "level": 2,
+      "parent": "C01G49/02",
+      "ja": "四三酸化鉄［Ｆｅ↓３Ｏ↓４］［２００６．０１］",
+      "en": "Ferroso-ferric oxide [Fe<sub>3</sub>O<sub>4</sub>]",
+      "count": 3261,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G49/10": {
+      "code": "C01G49/10",
+      "level": 1,
+      "parent": "C01G49/00",
+      "ja": "ハロゲン化物",
+      "en": "Halides",
+      "count": 1470,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G49/12": {
+      "code": "C01G49/12",
+      "level": 1,
+      "parent": "C01G49/00",
+      "ja": "硫化物",
+      "en": "Sulfides",
+      "count": 621,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G49/14": {
+      "code": "C01G49/14",
+      "level": 1,
+      "parent": "C01G49/00",
+      "ja": "硫酸塩",
+      "en": "Sulfates",
+      "count": 1841,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G49/16": {
+      "code": "C01G49/16",
+      "level": 1,
+      "parent": "C01G49/00",
+      "ja": "カルボニル",
+      "en": "Carbonyls",
+      "count": 231,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G51/00": {
+      "code": "C01G51/00",
+      "level": 0,
+      "parent": "C01G",
+      "ja": "コバルト化合物［２０２５．０１］",
+      "en": "Compounds of cobalt",
+      "count": 6103,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G51/01": {
+      "code": "C01G51/01",
+      "level": 1,
+      "parent": "C01G51/00",
+      "ja": "液液抽出，吸着またはイオン交換を伴う調製または分離［２０２５．０１］",
+      "en": "Preparation or separation involving a liquid-liquid extraction, an adsorption or an ion-exchange",
+      "count": 13,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G51/02": {
+      "code": "C01G51/02",
+      "level": 1,
+      "parent": "C01G51/00",
+      "ja": "カルボニル［２００６．０１］",
+      "en": "Carbonyls",
+      "count": 118,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G51/04": {
+      "code": "C01G51/04",
+      "level": 1,
+      "parent": "C01G51/00",
+      "ja": "酸化物［２０２５．０１］",
+      "en": "Oxides",
+      "count": 2709,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G51/05": {
+      "code": "C01G51/05",
+      "level": 1,
+      "parent": "C01G51/00",
+      "ja": "水酸化物；オキシ水酸化物［２０２５．０１］",
+      "en": "Hydroxides; Oxyhydroxides",
+      "count": 41,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G51/06": {
+      "code": "C01G51/06",
+      "level": 1,
+      "parent": "C01G51/00",
+      "ja": "炭酸塩［２００６．０１］",
+      "en": "Carbonates",
+      "count": 390,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G51/08": {
+      "code": "C01G51/08",
+      "level": 1,
+      "parent": "C01G51/00",
+      "ja": "ハロゲン化物；オキシハロゲン化物［２００６．０１］",
+      "en": "Halides; Oxyhalides",
+      "count": 229,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G51/10": {
+      "code": "C01G51/10",
+      "level": 1,
+      "parent": "C01G51/00",
+      "ja": "硫酸塩［２００６．０１］",
+      "en": "Sulfates",
+      "count": 406,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G51/15": {
+      "code": "C01G51/15",
+      "level": 1,
+      "parent": "C01G51/00",
+      "ja": "硫化物；オキシ硫化物［２０２５．０１］",
+      "en": "Sulfides; Oxysulfides",
+      "count": 53,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G51/20": {
+      "code": "C01G51/20",
+      "level": 1,
+      "parent": "C01G51/00",
+      "ja": "アンモニアとの錯化合物［２０２５．０１］",
+      "en": "Complexes with ammonia",
+      "count": 1,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G51/40": {
+      "code": "C01G51/40",
+      "level": 1,
+      "parent": "C01G51/00",
+      "ja": "コバルトおよび少なくとも１つの他の金属元素を含む複合酸化物［２０２５．０１］",
+      "en": "Complex oxides containing cobalt and at least one other metal element ",
+      "count": 70,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G51/42": {
+      "code": "C01G51/42",
+      "level": 2,
+      "parent": "C01G51/40",
+      "ja": "アルカリ金属を含むもの，例．ＬｉＣｏＯ↓２［２０２５．０１］",
+      "en": "containing alkali metals, e.g. LiCoO<sub>2</sub>",
+      "count": 206,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G51/44": {
+      "code": "C01G51/44",
+      "level": 3,
+      "parent": "C01G51/42",
+      "ja": "マンガンを含むもの［２０２５．０１］",
+      "en": "containing manganese",
+      "count": 12,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G51/50": {
+      "code": "C01G51/50",
+      "level": 4,
+      "parent": "C01G51/44",
+      "ja": "（ＭｎＯ↓２）↑ｎ－型のもの，例．Ｌｉ（Ｃｏ↓ｘＭｎ↓１－ｘ）Ｏ↓２またはＬｉ（Ｍ↓ｙＣｏ↓ｘＭｎ↓１－ｘ－ｙ）Ｏ↓２［２０２５．０１］",
+      "en": "of the type (MnO<sub>2</sub>)<sup>n-</sup>, e.g. Li(Co<sub>x</sub>Mn<sub>1-x</sub>)O<sub>2</sub> or Li(M<sub>y</sub>Co<sub>x</sub>Mn<sub>1-x-y</sub>)O<sub>2</sub>",
+      "count": 21,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G51/52": {
+      "code": "C01G51/52",
+      "level": 4,
+      "parent": "C01G51/44",
+      "ja": "（Ｍｎ↓２Ｏ↓４）↑２－型のもの，例．Ｌｉ↓２（Ｃｏ↓ｘＭｎ↓２－ｘ）Ｏ↓４またはＬｉ↓２（Ｍ↓ｙＣｏ↓ｘＭｎ↓２－ｘ－ｙ）Ｏ↓４［２０２５．０１］",
+      "en": "of the type (Mn<sub>2</sub>O<sub>4</sub>)<sup>2-</sup>, e.g. Li<sub>2</sub>(Co<sub>x</sub>Mn<sub>2-x</sub>)O<sub>4</sub> or Li<sub>2</sub>(M<sub>y</sub>Co<sub>x</sub>Mn<sub>2-x-y</sub>)O<sub>4</sub>",
+      "count": 0,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G51/54": {
+      "code": "C01G51/54",
+      "level": 4,
+      "parent": "C01G51/44",
+      "ja": "（Ｍｎ↓２Ｏ↓４）↑－型のもの，例．Ｌｉ（Ｃｏ↓ｘＭｎ↓２－ｘ）Ｏ↓４またはＬｉ（Ｍ↓ｙＣｏ↓ｘＭｎ↓２－ｘ－ｙ）Ｏ↓４［２０２５．０１］",
+      "en": "of the type (Mn<sub>2</sub>O<sub>4</sub>)<sup>-</sup>, e.g. Li(Co<sub>x</sub>Mn<sub>2-x</sub>)O<sub>4</sub> or Li(M<sub>y</sub>Co<sub>x</sub>Mn<sub>2-x-y</sub>)O<sub>4</sub>",
+      "count": 0,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G51/56": {
+      "code": "C01G51/56",
+      "level": 4,
+      "parent": "C01G51/44",
+      "ja": "（ＭｎＯ↓３）↑２ー型のもの，例．Ｌｉ↓２（Ｃｏ↓ｘＭｎ↓１－ｘ）Ｏ↓３またはＬｉ↓２（Ｍ↓ｙＣｏ↓ｘＭｎ↓１－ｘ－ｙ）Ｏ↓３［２０２５．０１］",
+      "en": "of the type (MnO<sub>3</sub>)<sup>2-</sup>, e.g. Li<sub>2</sub>(Co<sub>x</sub>Mn<sub>1-x</sub>)O<sub>3</sub> or Li<sub>2</sub>(M<sub>y</sub>Co<sub>x</sub>Mn<sub>1-x-y</sub>)O<sub>3</sub>",
+      "count": 0,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G51/66": {
+      "code": "C01G51/66",
+      "level": 2,
+      "parent": "C01G51/40",
+      "ja": "アルカリ土類金属を含むもの，例．ＳｒＣｏＯ↓３［２０２５．０１］",
+      "en": "containing alkaline earth metals, e.g. SrCoO<sub>3</sub>",
+      "count": 17,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G51/68": {
+      "code": "C01G51/68",
+      "level": 3,
+      "parent": "C01G51/66",
+      "ja": "希土類元素を含むもの，例．（Ｌａ↓０．３Ｓｒ↓０．７）ＣｏＯ↓３［２０２５．０１］",
+      "en": "containing rare earths, e.g. (La<sub>0.3</sub>Sr<sub>0.</sub><sub>7</sub>)CoO<sub>3</sub>",
+      "count": 17,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G51/70": {
+      "code": "C01G51/70",
+      "level": 2,
+      "parent": "C01G51/40",
+      "ja": "希土類元素を含むもの，例．ＬａＣｏＯ↓３（Ｃ０１Ｇ５１／６８が優先）［２０２５．０１］",
+      "en": "containing rare earths, e.g. LaCoO<sub>3</sub> (<b>C01G51/68</b> takes precedence)",
+      "count": 25,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G51/80": {
+      "code": "C01G51/80",
+      "level": 1,
+      "parent": "C01G51/00",
+      "ja": "コバルトを含有し，酸素または水素の含有にかかわらず，１種以上の他の元素を含む化合物（Ｃ０１Ｇ５１／０２，Ｃ０１Ｇ５１／０６～Ｃ０１Ｇ５１／４０が優先）［２０２５．０１］",
+      "en": "Compounds containing cobalt, with or without oxygen or hydrogen, and containing one or more other elements(<b>C01G51/02</b>, <b>C01G51/06 to C01G51/40</b>  take precedence)",
+      "count": 30,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G51/82": {
+      "code": "C01G51/82",
+      "level": 2,
+      "parent": "C01G51/80",
+      "ja": "コバルトを含有し，酸素または水素の含有にかかわらず，２種以上の他の元素を含む化合物［２０２５．０１］",
+      "en": "Compounds containing cobalt, with or without oxygen or hydrogen, and containing two or more other elements",
+      "count": 76,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G51/84": {
+      "code": "C01G51/84",
+      "level": 2,
+      "parent": "C01G51/80",
+      "ja": "水酸化物［２０２５．０１］",
+      "en": "Hydroxides",
+      "count": 16,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G53/00": {
+      "code": "C01G53/00",
+      "level": 0,
+      "parent": "C01G",
+      "ja": "ニッケル化合物［２０２５．０１］",
+      "en": "Compounds of nickel",
+      "count": 14037,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G53/01": {
+      "code": "C01G53/01",
+      "level": 1,
+      "parent": "C01G53/00",
+      "ja": "液液抽出，吸着またはイオン交換を伴う調製または分離［２０２５．０１］",
+      "en": "Preparation or separation involving a liquid-liquid extraction, an adsorption or an ion-exchange",
+      "count": 25,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G53/02": {
+      "code": "C01G53/02",
+      "level": 1,
+      "parent": "C01G53/00",
+      "ja": "カルボニル",
+      "en": "Carbonyls",
+      "count": 196,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G53/04": {
+      "code": "C01G53/04",
+      "level": 1,
+      "parent": "C01G53/00",
+      "ja": "酸化物［２０２５．０１］",
+      "en": "Oxides",
+      "count": 2776,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G53/05": {
+      "code": "C01G53/05",
+      "level": 1,
+      "parent": "C01G53/00",
+      "ja": "水酸化物；オキシ水酸化物［２０２５．０１］",
+      "en": "Hydroxides; Oxyhydroxides",
+      "count": 74,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G53/06": {
+      "code": "C01G53/06",
+      "level": 1,
+      "parent": "C01G53/00",
+      "ja": "炭酸塩［２００６．０１］",
+      "en": "Carbonates",
+      "count": 295,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G53/08": {
+      "code": "C01G53/08",
+      "level": 1,
+      "parent": "C01G53/00",
+      "ja": "ハロゲン化物；オキシハロゲン化物［２００６．０１］",
+      "en": "Halides; Oxyhalides",
+      "count": 96,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G53/09": {
+      "code": "C01G53/09",
+      "level": 2,
+      "parent": "C01G53/08",
+      "ja": "塩化物；オキシ塩化物［２００６．０１］",
+      "en": "Chlorides; Oxychlorides",
+      "count": 196,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G53/10": {
+      "code": "C01G53/10",
+      "level": 1,
+      "parent": "C01G53/00",
+      "ja": "硫酸塩［２００６．０１］",
+      "en": "Sulfates",
+      "count": 981,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G53/11": {
+      "code": "C01G53/11",
+      "level": 1,
+      "parent": "C01G53/00",
+      "ja": "硫化物；オキシ硫化物［２００６．０１］",
+      "en": "Sulfides; Oxysulfides",
+      "count": 493,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G53/12": {
+      "code": "C01G53/12",
+      "level": 1,
+      "parent": "C01G53/00",
+      "ja": "アンモニアとの錯化合物［２００６．０１］",
+      "en": "Complexes with ammonia",
+      "count": 69,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G53/40": {
+      "code": "C01G53/40",
+      "level": 1,
+      "parent": "C01G53/00",
+      "ja": "ニッケルおよび少なくとも１つの他の金属元素を含む複合酸化物［２０２５．０１］",
+      "en": "Complex oxides containing nickel and at least one other metal element",
+      "count": 137,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G53/42": {
+      "code": "C01G53/42",
+      "level": 2,
+      "parent": "C01G53/40",
+      "ja": "アルカリ金属を含むもの，例．ＬｉＮｉＯ↓２［２０２５．０１］",
+      "en": "containing alkali metals, e.g. LiNiO<sub>2</sub>",
+      "count": 272,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G53/44": {
+      "code": "C01G53/44",
+      "level": 3,
+      "parent": "C01G53/42",
+      "ja": "マンガンを含むもの［２０２５．０１］",
+      "en": "containing manganese",
+      "count": 494,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G53/50": {
+      "code": "C01G53/50",
+      "level": 4,
+      "parent": "C01G53/44",
+      "ja": "（ＭｎＯ↓２）↑ｎ－型のもの，例．Ｌｉ（Ｎｉ↓ｘＭｎ↓１－ｘ）Ｏ↓２またはＬｉ（Ｍ↓ｙＮｉ↓ｘＭｎ↓１－ｘ－ｙ）Ｏ↓２［２０２５．０１］",
+      "en": "of the type (MnO<sub>2</sub>)<sup>n-</sup>, e.g. Li(Ni<sub>x</sub>Mn<sub>1-x</sub>)O<sub>2</sub> or Li(M<sub>y</sub>Ni<sub>x</sub>Mn<sub>1-x-y</sub>)O<sub>2</sub>",
+      "count": 433,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G53/502": {
+      "code": "C01G53/502",
+      "level": 5,
+      "parent": "C01G53/50",
+      "ja": "リチウムおよびコバルトを含むもの［２０２５．０１］",
+      "en": "containing lithium and cobalt",
+      "count": 210,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G53/504": {
+      "code": "C01G53/504",
+      "level": 6,
+      "parent": "C01G53/502",
+      "ja": "アルカリ金属以外のすべての金属に対するニッケルのモル比が０．５以上であるもの，例．Ｘ≧０．５であるＬｉ（Ｍ↓ｚＮｉ↓ｘＣｏ↓ｙＭｎ↓１－ｘ－ｙ－ｚ）Ｏ↓２［２０２５．０１］",
+      "en": "with the molar ratio of nickel with respect to all the metals other than alkali metals higher than or equal to 0.5, e.g. Li(M<sub>z</sub>Ni<sub>x</sub>Co<sub>y</sub>Mn<sub>1-x-y-z</sub>)O<sub>2</sub> with x &ge; 0.5",
+      "count": 262,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G53/506": {
+      "code": "C01G53/506",
+      "level": 7,
+      "parent": "C01G53/504",
+      "ja": "アルカリ金属以外のすべての金属に対するニッケルのモル比が０．８以上であるもの，例．Ｘ≧０．８であるＬｉ（Ｍ↓ｚＮｉ↓ｘＣｏ↓ｙＭｎ↓１－ｘ－ｙ－ｚ）Ｏ↓２［２０２５．０１］",
+      "en": "with the molar ratio of nickel with respect to all the metals other than alkali metals higher than or equal to 0.8, e.g. Li(M<sub>z</sub>Ni<sub>x</sub>Co<sub>y</sub>Mn<sub>1-x-y-z</sub>)O<sub>2</sub> with x &ge; 0.8",
+      "count": 447,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G53/51": {
+      "code": "C01G53/51",
+      "level": 5,
+      "parent": "C01G53/50",
+      "ja": "ナトリウムを含むもの［２０２５．０１］",
+      "en": "containing sodium",
+      "count": 164,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G53/52": {
+      "code": "C01G53/52",
+      "level": 4,
+      "parent": "C01G53/44",
+      "ja": "（Ｍｎ↓２Ｏ↓４）↑２－型のもの，例．Ｌｉ↓２（Ｎｉ↓ｘＭｎ↓２－ｘ）Ｏ↓４またはＬｉ↓２（Ｍ↓ｙＮｉ↓ｘＭｎ↓２－ｘ－ｙ）Ｏ↓４［２０２５．０１］",
+      "en": "of the type (Mn<sub>2</sub>O<sub>4</sub>)<sup>2-</sup>, e.g. Li<sub>2</sub>(Ni<sub>x</sub>Mn<sub>2-x</sub>)O<sub>4</sub> or Li<sub>2</sub>(M<sub>y</sub>Ni<sub>x</sub>Mn<sub>2-x-y</sub>)O<sub>4</sub>",
+      "count": 4,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G53/54": {
+      "code": "C01G53/54",
+      "level": 4,
+      "parent": "C01G53/44",
+      "ja": "（Ｍｎ↓２Ｏ↓４）↑－型のもの，例．Ｌｉ（Ｎｉ↓ｘＭｎ↓２－ｘ）Ｏ↓４またはＬｉ（Ｍ↓ｙＮｉ↓ｘＭｎ↓２－ｘ－ｙ）Ｏ↓４［２０２５．０１］",
+      "en": "of the type (Mn<sub>2</sub>O<sub>4</sub>)<sup>-</sup>, e.g. Li(Ni<sub>x</sub>Mn<sub>2-x</sub>)O<sub>4</sub> or Li(M<sub>y</sub>Ni<sub>x</sub>Mn<sub>2-x-y</sub>)O<sub>4</sub>",
+      "count": 44,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G53/56": {
+      "code": "C01G53/56",
+      "level": 4,
+      "parent": "C01G53/44",
+      "ja": "（ＭｎＯ↓３）↑２－型のもの，例．Ｌｉ↓２（Ｎｉ↓ｘＭｎ↓１－ｘ）Ｏ↓３またはＬｉ↓２（Ｍ↓ｙＮｉ↓ｘＭｎ↓１－ｘ－ｙ）Ｏ↓３［２０２５．０１］",
+      "en": "of the type (MnO<sub>3</sub>)<sup>2-</sup>, e.g. Li<sub>2</sub>(Ni<sub>x</sub>Mn<sub>1-x</sub>)O<sub>3</sub> or Li<sub>2</sub>(M<sub>y</sub>Ni<sub>x</sub>Mn<sub>1-x-y</sub>)O<sub>3</sub>",
+      "count": 5,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G53/66": {
+      "code": "C01G53/66",
+      "level": 2,
+      "parent": "C01G53/40",
+      "ja": "アルカリ土類金属を含むもの，例．ＳｒＮｉＯ↓３またはＳｒＮｉＯ↓２［２０２５．０１］",
+      "en": "containing alkaline earth metals, e.g. SrNiO<sub>3</sub> or SrNiO<sub>2</sub>",
+      "count": 66,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G53/68": {
+      "code": "C01G53/68",
+      "level": 3,
+      "parent": "C01G53/66",
+      "ja": "希土類元素を含むもの，例．（Ｌａ↓１．６２Ｓｒ↓０．３８）ＮｉＯ↓４［２０２５．０１］",
+      "en": "containing rare earths, e.g. (La<sub>1.62</sub> Sr<sub>0.38</sub>)NiO<sub>4</sub>",
+      "count": 27,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G53/70": {
+      "code": "C01G53/70",
+      "level": 2,
+      "parent": "C01G53/40",
+      "ja": "希土類元素を含むもの，例．ＬａＮｉＯ↓３（Ｃ０１Ｇ５３／６８が優先）［２０２５．０１］",
+      "en": "containing rare earths, e.g. LaNiO<sub>3</sub> (<b>C01G53/68</b> takes precedence)",
+      "count": 71,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G53/80": {
+      "code": "C01G53/80",
+      "level": 1,
+      "parent": "C01G53/00",
+      "ja": "ニッケルを含有し，酸素または水素を含有にかかわらず，１種以上の他の元素を含む化合物（Ｃ０１Ｇ５３／０２，Ｃ０１Ｇ５３／０６～Ｃ０１Ｇ５３／４０が優先）［２０２５．０１］",
+      "en": "Compounds containing nickel, with or without oxygen or hydrogen, and containing one or more other elements(<b>C01G53/02</b>, <b>C01G53/06 to C01G53/40</b>  take precedence)",
+      "count": 50,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G53/82": {
+      "code": "C01G53/82",
+      "level": 2,
+      "parent": "C01G53/80",
+      "ja": "ニッケルを含有し，酸素または水素の含有にかかわらず，２種以上の他の元素を含む化合物［２０２５．０１］",
+      "en": "Compounds containing nickel, with or without oxygen or hydrogen, and containing two or more other elements",
+      "count": 354,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G53/84": {
+      "code": "C01G53/84",
+      "level": 2,
+      "parent": "C01G53/80",
+      "ja": "水酸化物［２０２５．０１］",
+      "en": "Hydroxides",
+      "count": 348,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G55/00": {
+      "code": "C01G55/00",
+      "level": 0,
+      "parent": "C01G",
+      "ja": "ルテニウム，ロジウム，パラジウム，オスミウム，イリジウムまたは白金の化合物",
+      "en": "Compounds of ruthenium, rhodium, palladium, osmium, iridium, or platinum",
+      "count": 3221,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G56/00": {
+      "code": "C01G56/00",
+      "level": 0,
+      "parent": "C01G",
+      "ja": "超ウラン元素化合物",
+      "en": "Compounds of transuranic elements",
+      "count": 1022,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    },
+    "C01G99/00": {
+      "code": "C01G99/00",
+      "level": 0,
+      "parent": "C01G",
+      "ja": "このサブクラスの他のグループに分類されない主題事項［２０１０．０１］",
+      "en": "Subject matter not provided for in other groups of this subclass",
+      "count": 420,
+      "sourceFile": "ipc_C01G.txt",
+      "kind": "ipc"
+    }
+  }
+}

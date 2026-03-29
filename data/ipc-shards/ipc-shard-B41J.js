@@ -1,0 +1,5946 @@
+window.IPC_SHARD_B41J = {
+  "generatedAt": "2026-03-20T02:17:46.183Z",
+  "total": 594,
+  "entries": {
+    "B41J": {
+      "code": "B41J",
+      "level": 0,
+      "parent": "B41",
+      "ja": "タイプライタ；選択的プリンティング機構，すなわち版以外の手段でプリンティングする機構；誤植の修正<br><br><b><ul>注</ul></b><br>（１）このサブクラスは以下のものを包含する：<br>―手で制御される電動式装置または例えば，パンチカード，テープ上に記録された情報の入力による付加制御をもった型式の装置；<br>―例えば，印打機構，インク機構，ラインスペース機構，プリンティングヘッドのように，一般的なものである限り記録担体または電気信号によって制御される装置の“プリント・アウト”に特徴を有するもの［５］<br>（２）このサブクラスは以下のものを包含しない：<br>―記録担体または電気信号によって制御される装置の電気的特徴および同装置の“プリント・アウト”の特徴以外の重要な電気的特徴；<br>―全体として記録担体または電気信号によって制御される装置［５］<br>（３）このサブクラスにおいては，下記の用語は以下に示す意味で用いる：<br>―“用紙”は，これに類する柔軟な複写材料も含む；［３］<br>―“プリンティング材料”は，用紙と記録が用紙に転写される一時的記録担体との両方を包含するが，例えば版のようなプリンティングマスタを包含しない。［５］<br><br><b><ul>サブクラス内の索引</ul></b><br>装置の種類<br>活字の装着，配列，または配置に特徴があるもの　１／００<br>設計されるプリンティングまたはマーキング方法に特徴があるもの　２／００<br>目的に特徴があるもの　３／００<br>共通の細部または付属品<br>文字の選択　５／００，７／００<br>ハンマーによる印打　９／００<br>転写用紙の支持または取扱い　１１／００～１５／００<br>複写材料<br>用紙に重ねるもの　１７／００<br>リボン状のもの；インクリボンカートリッジ　３１／００，３３／００，３５／００；３２／００<br>インキ装置　２７／００<br>スペース機構　１９／００<br>駆動装置　２３／００<br>特定の作用　２１／００<br>その他　２５／００，２９／００，３５／００",
+      "en": "TYPEWRITERS; SELECTIVE PRINTING MECHANISMS, i.e. MECHANISMS PRINTING OTHERWISE THAN FROM A FORME; CORRECTION OF TYPOGRAPHICAL ERRORS; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This subclass <u>covers</u>:<ul><li>manually controlled power-operated apparatus or apparatus of this type with additional control by input of recorded information, e.g. on punched cards or tapes;</li><li>the \"print-out\" features of apparatus controlled by record carriers or electric signals in so far as these are of general interest, e.g. impression, inking, line-spacing mechanisms, printing heads. </li></ul></li><li>This subclass <u>does not cover</u>:<ul><li>electrical features of apparatus controlled by record carriers or electric signals and of interest apart from the \"print-out\" features of said apparatus;</li><li>apparatus controlled by record carriers or electric signals, as a whole. </li></ul></li><li>In this subclass, the following term is used with the meaning indicated:<ul><li>\"paper\" covers also similar flexible copy material; </li><li>\"printing material\" covers both paper and temporary record carriers from which records are transferred to a paper, but does not cover printing masters, e.g. formes. </li></ul></li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">KINDS OF APPARATUS<tr><td width=\"70%\">characterised by the mounting, arrangement, or disposition of the types or dies </td><td><b><b>1/00</b></b></td></tr></tr><tr><td width=\"70%\">characterised by the printing or marking process for which they are designed </td><td><b><b>2/00</b></b></td></tr></tr><tr><td width=\"70%\">characterised by the purpose </td><td><b><b>3/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">COMMON DETAILS OR ACCESSORIES<tr><td width=\"70%\">Character selection </td><td><b><b>5/00</b>, <b>7/00</b></b></td></tr></tr><tr><td width=\"70%\">Hammer impression </td><td><b><b>9/00</b></b></td></tr></tr><tr><td width=\"70%\">Supporting or handling copy or duplicating material </td><td><b><b>11/00 to 15/00</b> </b></td></tr></tr><tr><td width=\"70%\">Transfer material<tr><td width=\"70%\">of page-width </td><td><b><b>17/00</b></b></td></tr></tr><tr><td width=\"70%\">in ribbon form; ink ribbon cartridges </td><td><b><b>31/00</b>, <b>33/00</b>, <b>35/00</b>; <b>32/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">Inking </td><td><b><b>27/00</b></b></td></tr></tr><tr><td width=\"70%\">Spacing </td><td><b><b>19/00</b></b></td></tr></tr><tr><td width=\"70%\">Drives </td><td><b><b>23/00</b></b></td></tr></tr><tr><td width=\"70%\">Particular operations </td><td><b><b>21/00</b></b></td></tr></tr><tr><td width=\"70%\">Others </td><td><b><b>25/00</b>, <b>29/00</b>, <b>35/00</b></b></td></tr></tr></tr></table>",
+      "count": 1324,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B41": {
+      "code": "B41",
+      "level": 0,
+      "parent": "B",
+      "ja": "印刷；線画機；タイプライター；スタンプ［４］",
+      "en": "PRINTING; LINING MACHINES; TYPEWRITERS; STAMPS",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B": {
+      "code": "B",
+      "level": 0,
+      "parent": null,
+      "ja": "処理操作；運輸",
+      "en": "PERFORMING OPERATIONS; TRANSPORTING",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B41J1/00": {
+      "code": "B41J1/00",
+      "level": 0,
+      "parent": "B41J",
+      "ja": "活字の装着，配列または配置に特徴があるタイプライタまたは選択的プリンティング機構［２００６．０１］",
+      "en": "Typewriters or selective printing mechanisms characterised by the mounting, arrangement or disposition of the types or dies",
+      "count": 731,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J1/02": {
+      "code": "B41J1/02",
+      "level": 1,
+      "parent": "B41J1/00",
+      "ja": "個々のまたは分離した活字をもつもの",
+      "en": "with separate or detached types or dies",
+      "count": 171,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J1/04": {
+      "code": "B41J1/04",
+      "level": 1,
+      "parent": "B41J1/00",
+      "ja": "レバーまたは放射状アームに装着された活字をもつもの，例．手動式（Ｂ４１Ｊ１／１６が優先）",
+      "en": "with types or dies carried upon levers or radial arms, e.g. manually operated(<b>B41J1/16</b> takes precedence)",
+      "count": 232,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J1/06": {
+      "code": "B41J1/06",
+      "level": 2,
+      "parent": "B41J1/04",
+      "ja": "動力駆動されるレバーまたはアームに装着されたもの",
+      "en": "on power-operated levers or arms",
+      "count": 12,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J1/08": {
+      "code": "B41J1/08",
+      "level": 1,
+      "parent": "B41J1/00",
+      "ja": "滑動バーまたはロッドに装着された活字をもつもの",
+      "en": "with types or dies carried on sliding bars or rods",
+      "count": 74,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J1/10": {
+      "code": "B41J1/10",
+      "level": 2,
+      "parent": "B41J1/08",
+      "ja": "滑動バーまたはロッドの端面に装着されたもの",
+      "en": "on end surfaces thereof",
+      "count": 21,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J1/12": {
+      "code": "B41J1/12",
+      "level": 2,
+      "parent": "B41J1/08",
+      "ja": "滑動バーまたはロッドの側面に装着されたもの，例．固着されたもの",
+      "en": "on side surfaces thereof, e.g. fixed thereto",
+      "count": 37,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J1/14": {
+      "code": "B41J1/14",
+      "level": 3,
+      "parent": "B41J1/12",
+      "ja": "バーまたはロッドに相対的に可動の活字（可撓性バーまたはロッドに装着されたものＢ４１Ｊ１／１６）",
+      "en": "the types or dies being movable relative to the bars or rods(mounted on flexible bars or rods <b>B41J1/16</b>)",
+      "count": 115,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J1/16": {
+      "code": "B41J1/16",
+      "level": 1,
+      "parent": "B41J1/00",
+      "ja": "固定もしくは滑動するケースまたはフレーム内にまたは可撓性細片，板，バーもしくはロッド上に配列された活字をもつもの",
+      "en": "with types or dies arranged in stationary or sliding cases or frames or upon flexible strips, plates, bars, or rods",
+      "count": 502,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J1/18": {
+      "code": "B41J1/18",
+      "level": 1,
+      "parent": "B41J1/00",
+      "ja": "ワイヤまたはロッドに挿通された活字をもつもの",
+      "en": "with types or dies strung on wires or rods",
+      "count": 33,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J1/20": {
+      "code": "B41J1/20",
+      "level": 1,
+      "parent": "B41J1/00",
+      "ja": "無端帯または類似物に装着された活字をもつもの",
+      "en": "with types or dies mounted on endless bands or the like",
+      "count": 1174,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J1/22": {
+      "code": "B41J1/22",
+      "level": 1,
+      "parent": "B41J1/00",
+      "ja": "選択するために回転自在のキャリヤに装着された活字をもつもの",
+      "en": "with types or dies mounted on carriers rotatable for selection",
+      "count": 323,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J1/24": {
+      "code": "B41J1/24",
+      "level": 2,
+      "parent": "B41J1/22",
+      "ja": "活字の面が回転軸に垂直なもの（Ｂ４１Ｊ１／６０が優先）",
+      "en": "the plane of the type or die face being perpendicular to the axis of rotation(<b>B41J1/60</b> takes precedence)",
+      "count": 686,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J1/26": {
+      "code": "B41J1/26",
+      "level": 3,
+      "parent": "B41J1/24",
+      "ja": "印字のためにキャリヤが動くもの（Ｂ４１Ｊ１／２７が優先）［３］",
+      "en": "Carriers moving for impression(<b>B41J1/27</b> takes precedence)",
+      "count": 43,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J1/27": {
+      "code": "B41J1/27",
+      "level": 3,
+      "parent": "B41J1/24",
+      "ja": "印字中にキャリヤが動くもの［３］",
+      "en": "Carriers moving during impression",
+      "count": 7,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J1/28": {
+      "code": "B41J1/28",
+      "level": 3,
+      "parent": "B41J1/24",
+      "ja": "印字のためにキャリヤが動かないもの，例．キャリヤに対して動かない活字をもつもの",
+      "en": "Carriers stationary for impression, e.g. with the types or dies not moving relative to the carriers",
+      "count": 25,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J1/30": {
+      "code": "B41J1/30",
+      "level": 4,
+      "parent": "B41J1/28",
+      "ja": "キャリヤに対して移動するかまたは可撓性キャリヤに装着された活字をもつもの",
+      "en": "with the types or dies moving relative to the carriers or mounted on flexible carriers",
+      "count": 1423,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J1/32": {
+      "code": "B41J1/32",
+      "level": 2,
+      "parent": "B41J1/22",
+      "ja": "活字の面が回転軸に平行なもの，例．円筒形キャリヤの表面に活字をもつもの（Ｂ４１Ｊ１／６０が優先）",
+      "en": "the plane of the type or die face being parallel to the axis of rotation, e.g. with type on the periphery of cylindrical carriers(<b>B41J1/60</b> takes precedence)",
+      "count": 1121,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J1/34": {
+      "code": "B41J1/34",
+      "level": 3,
+      "parent": "B41J1/32",
+      "ja": "印字の間にキャリヤが回転するもの",
+      "en": "Carriers rotating during impression",
+      "count": 224,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J1/36": {
+      "code": "B41J1/36",
+      "level": 3,
+      "parent": "B41J1/32",
+      "ja": "印字のためにキャリヤが滑動するもの，例．手動式",
+      "en": "Carriers sliding for impression, e.g. manually operated",
+      "count": 49,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J1/38": {
+      "code": "B41J1/38",
+      "level": 4,
+      "parent": "B41J1/36",
+      "ja": "電動式",
+      "en": "power operated",
+      "count": 14,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J1/40": {
+      "code": "B41J1/40",
+      "level": 3,
+      "parent": "B41J1/32",
+      "ja": "印字のためにキャリヤが揺動するもの",
+      "en": "Carriers swinging for impression",
+      "count": 146,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J1/42": {
+      "code": "B41J1/42",
+      "level": 4,
+      "parent": "B41J1/40",
+      "ja": "キャリヤの回転軸に平行な軸のまわりに揺動するもの",
+      "en": "about an axis parallel to the axis of rotation of the carrier",
+      "count": 105,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J1/44": {
+      "code": "B41J1/44",
+      "level": 3,
+      "parent": "B41J1/32",
+      "ja": "印字のためにキャリヤが動かないもの",
+      "en": "Carriers stationary for impression",
+      "count": 185,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J1/46": {
+      "code": "B41J1/46",
+      "level": 4,
+      "parent": "B41J1/44",
+      "ja": "活字が活字輪，ドラム，円筒，または類似のキャリヤ上に固定されたもの",
+      "en": "Types or dies fixed on wheel, drum, cylinder, or like carriers",
+      "count": 359,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J1/48": {
+      "code": "B41J1/48",
+      "level": 5,
+      "parent": "B41J1/46",
+      "ja": "相互に字間隔を隔てて配置された多数のキャリヤをもつもの",
+      "en": "with a plurality of carriers, one for each character space",
+      "count": 280,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J1/50": {
+      "code": "B41J1/50",
+      "level": 5,
+      "parent": "B41J1/46",
+      "ja": "１以上のキャリヤが用紙を横切って文字送り方向に移動するもの",
+      "en": "with one or more carriers travelling across copy material in letter-space direction",
+      "count": 238,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J1/52": {
+      "code": "B41J1/52",
+      "level": 5,
+      "parent": "B41J1/46",
+      "ja": "用紙が文字送り方向に移動しキャリヤは機械に関して固定的に装着されているもの",
+      "en": "with copy material moving in the letter-space direction, and carrier mounting being fixed relative to the machine",
+      "count": 27,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J1/54": {
+      "code": "B41J1/54",
+      "level": 4,
+      "parent": "B41J1/44",
+      "ja": "活字が活字輪，ドラム，円筒，または類似のキャリヤ上を動くもの",
+      "en": "Types or dies movable on wheel, drum, cylinder, or like carriers",
+      "count": 298,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J1/56": {
+      "code": "B41J1/56",
+      "level": 4,
+      "parent": "B41J1/44",
+      "ja": "活字がシャトルまたは類似のキャリヤに装着されたもの",
+      "en": "Types or dies on shuttles or like loose carriers",
+      "count": 38,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J1/58": {
+      "code": "B41J1/58",
+      "level": 4,
+      "parent": "B41J1/44",
+      "ja": "活字が弓形バーに装着されたもの",
+      "en": "Types or dies upon arcuate bars",
+      "count": 12,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J1/60": {
+      "code": "B41J1/60",
+      "level": 1,
+      "parent": "B41J1/00",
+      "ja": "球面，截頭球面，または類似の表面に装着された活字をもつもの",
+      "en": "with types or dies on spherical, truncated-spherical, or like surfaces",
+      "count": 293,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/00": {
+      "code": "B41J2/00",
+      "level": 0,
+      "parent": "B41J",
+      "ja": "設計されるプリンティングまたはマーキング方法に特徴があるタイプライタまたは選択的プリンティング機構（活字の装着，配列または配置Ｂ４１Ｊ１／００）［２００６．０１］<br><br><b><ul>注</ul></b><br>（１）このグループは，階調の不連続数のみを再生する装置を包含するのに対し，グループＨ０４Ｎ１／００は，連続的な階調の大きさを再生できる書類または類似物の再生装置を包含する。［５］<br>（２）このグループにおいては，下記の用語は以下に示す意味で用いる：<br>―“インクジェット”は，ノズルを通じ色素の小滴または粒子の流れとしてプリンティング材料，例．用紙，上へのインクの放射を含む；<br>―“コンティニュアスインクジェット”は，ノズルを離れた後色素の小滴または粒子の連続流に変えられたインクの噴射を意味する；<br>―“インクスプレイ”は，帯電された粒子または空気の流れによってプリンティング材料上に運ばれたインクの噴霧を意味する。［５］",
+      "en": "Typewriters or selective printing mechanisms characterised by the printing or marking process for which they are designed (mounting, arrangement or disposition of types or dies <b>B41J1/00</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>This group <u>covers</u> devices reproducing only a discrete number of tones, whereas group <b>H04N1/00</b> covers devices used for the reproduction of documents or the like, which devices are capable of reproducing continuous tone value scales. </li><li>In this group, the following expressions are used with the meanings indicated:<ul><li>\"ink jet\" involves the projection of ink on to the printing material, e.g. paper, through a nozzle as a stream of droplets or particles of colouring matter;</li><li>\"continuous ink jet\" means a jet of ink transformed into a continuous stream of droplets or particles of colouring matter after having left the nozzle;</li><li>\"ink spray\" means a spray of ink transported by a stream of charged particles or air on to the printing material. </li></ul></li></ul>",
+      "count": 3170,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/005": {
+      "code": "B41J2/005",
+      "level": 1,
+      "parent": "B41J2/00",
+      "ja": "液体または粒子を選択的にプリンティング材料に接触させることに特徴があるもの（プリンティング材料または印刷転写材料へ選択的に衝撃力または押圧力を適用することでプリンティングするものＢ４１Ｊ２／２２）［５］",
+      "en": "characterised by bringing liquid or particles selectively into contact with a printing material(printing by selective application of impact or pressure on a printing or impression-transfer material <b>B41J2/22</b>)",
+      "count": 1684,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/01": {
+      "code": "B41J2/01",
+      "level": 2,
+      "parent": "B41J2/005",
+      "ja": "インクジェット［５］",
+      "en": "Ink jet",
+      "count": 94521,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/015": {
+      "code": "B41J2/015",
+      "level": 3,
+      "parent": "B41J2/01",
+      "ja": "ジェット形成方法に特徴があるもの（Ｂ４１Ｊ２／２１５が優先）［５］",
+      "en": "characterised by the jet generation process(<b>B41J2/215</b> takes precedence)",
+      "count": 4950,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/02": {
+      "code": "B41J2/02",
+      "level": 4,
+      "parent": "B41J2/015",
+      "ja": "コンティニュアス・ジェットを形成するもの［５］",
+      "en": "generating a continuous ink jet",
+      "count": 1357,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/025": {
+      "code": "B41J2/025",
+      "level": 5,
+      "parent": "B41J2/02",
+      "ja": "振動によるもの［５］",
+      "en": "by vibration",
+      "count": 332,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/03": {
+      "code": "B41J2/03",
+      "level": 5,
+      "parent": "B41J2/02",
+      "ja": "圧力によるもの［５］",
+      "en": "by pressure",
+      "count": 441,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/035": {
+      "code": "B41J2/035",
+      "level": 5,
+      "parent": "B41J2/02",
+      "ja": "電界または磁界によるもの［５］",
+      "en": "by electric or magnetic field",
+      "count": 208,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/04": {
+      "code": "B41J2/04",
+      "level": 4,
+      "parent": "B41J2/015",
+      "ja": "オン・デマンドで小滴または粒子を形成するもの［５］",
+      "en": "generating single droplets or particles on demand",
+      "count": 1924,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/045": {
+      "code": "B41J2/045",
+      "level": 5,
+      "parent": "B41J2/04",
+      "ja": "圧力によるもの，例．電気機械変換器を用いるもの［５］",
+      "en": "by pressure, e.g. electromechanical transducers",
+      "count": 26356,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/05": {
+      "code": "B41J2/05",
+      "level": 6,
+      "parent": "B41J2/045",
+      "ja": "熱により圧力を発生するもの［５］",
+      "en": "produced by the application of heat",
+      "count": 11171,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/055": {
+      "code": "B41J2/055",
+      "level": 6,
+      "parent": "B41J2/045",
+      "ja": "反射波を吸収または防止するための装置［５］",
+      "en": "Devices for absorbing or preventing back-pressure",
+      "count": 18522,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/06": {
+      "code": "B41J2/06",
+      "level": 5,
+      "parent": "B41J2/04",
+      "ja": "電界または磁界によるもの［５］",
+      "en": "by electric or magnetic field",
+      "count": 2747,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/065": {
+      "code": "B41J2/065",
+      "level": 6,
+      "parent": "B41J2/06",
+      "ja": "インク隆起の予備形成を含むもの［５］",
+      "en": "involving the preliminary making of ink protuberances",
+      "count": 310,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/07": {
+      "code": "B41J2/07",
+      "level": 3,
+      "parent": "B41J2/01",
+      "ja": "ジェットの飛翔制御に特徴があるもの（Ｂ４１Ｊ２／２０５が優先）［５］",
+      "en": "characterised by jet control(<b>B41J2/205</b> takes precedence)",
+      "count": 2842,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/075": {
+      "code": "B41J2/075",
+      "level": 4,
+      "parent": "B41J2/07",
+      "ja": "多値偏向のためのもの［５］",
+      "en": "for many-valued deflection",
+      "count": 913,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/08": {
+      "code": "B41J2/08",
+      "level": 5,
+      "parent": "B41J2/075",
+      "ja": "荷電制御型［５］",
+      "en": "charge-control type",
+      "count": 365,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/085": {
+      "code": "B41J2/085",
+      "level": 6,
+      "parent": "B41J2/08",
+      "ja": "荷電手段，例．電極［５］",
+      "en": "Charge means, e.g. electrodes",
+      "count": 680,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/09": {
+      "code": "B41J2/09",
+      "level": 6,
+      "parent": "B41J2/08",
+      "ja": "偏向手段［５］",
+      "en": "Deflection means",
+      "count": 759,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/095": {
+      "code": "B41J2/095",
+      "level": 5,
+      "parent": "B41J2/075",
+      "ja": "電界制御型［５］",
+      "en": "electric field-control type",
+      "count": 331,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/10": {
+      "code": "B41J2/10",
+      "level": 5,
+      "parent": "B41J2/075",
+      "ja": "磁界制御型［５］",
+      "en": "magnetic field-control type",
+      "count": 36,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/105": {
+      "code": "B41J2/105",
+      "level": 4,
+      "parent": "B41J2/07",
+      "ja": "二値偏向のためのもの［５］",
+      "en": "for binary-valued deflection",
+      "count": 147,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/11": {
+      "code": "B41J2/11",
+      "level": 4,
+      "parent": "B41J2/07",
+      "ja": "インクスプレイのためのもの［５］",
+      "en": "for ink spray",
+      "count": 453,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/115": {
+      "code": "B41J2/115",
+      "level": 4,
+      "parent": "B41J2/07",
+      "ja": "小滴分離と荷電の時間を同期させるもの［５］",
+      "en": "synchronising the droplet separation and charging time",
+      "count": 421,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/12": {
+      "code": "B41J2/12",
+      "level": 4,
+      "parent": "B41J2/07",
+      "ja": "荷電または偏向を試験または修正するもの［５］",
+      "en": "testing or correcting charge or deflection",
+      "count": 1091,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/125": {
+      "code": "B41J2/125",
+      "level": 4,
+      "parent": "B41J2/07",
+      "ja": "センサー，例．偏向センサー［５］",
+      "en": "Sensors, e.g. deflection sensors",
+      "count": 1757,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/13": {
+      "code": "B41J2/13",
+      "level": 4,
+      "parent": "B41J2/07",
+      "ja": "印刷されたパターンの傾斜補正のためのもの［５］",
+      "en": "for inclination of printed pattern",
+      "count": 1149,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/135": {
+      "code": "B41J2/135",
+      "level": 3,
+      "parent": "B41J2/01",
+      "ja": "ノズル［５］",
+      "en": "Nozzles",
+      "count": 6408,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/14": {
+      "code": "B41J2/14",
+      "level": 4,
+      "parent": "B41J2/135",
+      "ja": "その構造［５］",
+      "en": "Structure thereof",
+      "count": 21111,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/145": {
+      "code": "B41J2/145",
+      "level": 4,
+      "parent": "B41J2/135",
+      "ja": "その配列［５］",
+      "en": "Arrangement thereof",
+      "count": 3599,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/15": {
+      "code": "B41J2/15",
+      "level": 5,
+      "parent": "B41J2/145",
+      "ja": "シリアルプリンティング用［５］",
+      "en": "for serial printing",
+      "count": 1521,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/155": {
+      "code": "B41J2/155",
+      "level": 5,
+      "parent": "B41J2/145",
+      "ja": "ラインプリンティング用［５］",
+      "en": "for line printing",
+      "count": 2250,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/16": {
+      "code": "B41J2/16",
+      "level": 4,
+      "parent": "B41J2/135",
+      "ja": "ノズルの製造［５］",
+      "en": "Production of nozzles",
+      "count": 18545,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/165": {
+      "code": "B41J2/165",
+      "level": 4,
+      "parent": "B41J2/135",
+      "ja": "ノズルの目詰り防止，例．ノズルの浄化，キャッピングまたは湿らすこと［５］",
+      "en": "Prevention of nozzle clogging, e.g. cleaning, capping or moistening for nozzles",
+      "count": 21182,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/17": {
+      "code": "B41J2/17",
+      "level": 3,
+      "parent": "B41J2/01",
+      "ja": "インクの取扱いに特徴があるもの［５］",
+      "en": "characterised by ink handling",
+      "count": 6237,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/175": {
+      "code": "B41J2/175",
+      "level": 4,
+      "parent": "B41J2/17",
+      "ja": "インクの供給系［５］",
+      "en": "Ink supply systems",
+      "count": 49047,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/18": {
+      "code": "B41J2/18",
+      "level": 4,
+      "parent": "B41J2/17",
+      "ja": "インクの循環系［５］",
+      "en": "Ink recirculation systems",
+      "count": 10929,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/185": {
+      "code": "B41J2/185",
+      "level": 5,
+      "parent": "B41J2/18",
+      "ja": "インクコレクタ；インクキャッチャー［５］",
+      "en": "Ink-collectors; Ink-catchers",
+      "count": 8796,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/19": {
+      "code": "B41J2/19",
+      "level": 4,
+      "parent": "B41J2/17",
+      "ja": "気泡を取除くもの［５］",
+      "en": "for removing air bubbles",
+      "count": 2206,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/195": {
+      "code": "B41J2/195",
+      "level": 4,
+      "parent": "B41J2/17",
+      "ja": "インクの品質を監視するもの［５］",
+      "en": "for monitoring ink quality",
+      "count": 1943,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/20": {
+      "code": "B41J2/20",
+      "level": 4,
+      "parent": "B41J2/17",
+      "ja": "混合物の汚れを防止または検知するもの［５］",
+      "en": "for preventing or detecting contamination of compounds",
+      "count": 589,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/205": {
+      "code": "B41J2/205",
+      "level": 3,
+      "parent": "B41J2/01",
+      "ja": "階調プリンティング用（Ｂ４１Ｊ２／２１が優先）［５］",
+      "en": "for printing a discrete number of tones(<b>B41J2/21</b> takes precedence)",
+      "count": 5141,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/21": {
+      "code": "B41J2/21",
+      "level": 3,
+      "parent": "B41J2/01",
+      "ja": "カラープリンティング用［５］",
+      "en": "for multi-colour printing",
+      "count": 13269,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/215": {
+      "code": "B41J2/215",
+      "level": 2,
+      "parent": "B41J2/005",
+      "ja": "インクミストに媒体，例えば空気または粒子の流れからなるもの，を通すことによるもの［５］",
+      "en": "by passing a medium, e.g. consisting of an air or particle stream, through an ink mist",
+      "count": 369,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/22": {
+      "code": "B41J2/22",
+      "level": 1,
+      "parent": "B41J2/00",
+      "ja": "プリンティング材料または印刷転写材料に選択的に衝撃力また押圧力を適用することに特徴を有するもの［５］",
+      "en": "characterised by selective application of impact or pressure on a printing material or impression- transfer material",
+      "count": 731,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/225": {
+      "code": "B41J2/225",
+      "level": 2,
+      "parent": "B41J2/22",
+      "ja": "弾道，例．固体ボール，小球を用いるもの［５］",
+      "en": "ballistic, e.g. using solid balls or pellets",
+      "count": 810,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/23": {
+      "code": "B41J2/23",
+      "level": 2,
+      "parent": "B41J2/22",
+      "ja": "プリントワイヤを用いるもの［５］",
+      "en": "using print wires",
+      "count": 159,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/235": {
+      "code": "B41J2/235",
+      "level": 3,
+      "parent": "B41J2/23",
+      "ja": "プリントヘッド組立体［５］",
+      "en": "Print head assemblies",
+      "count": 1953,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/24": {
+      "code": "B41J2/24",
+      "level": 4,
+      "parent": "B41J2/235",
+      "ja": "シリアルプリンター型（Ｂ４１Ｊ２／２５，Ｂ４１Ｊ２／２６５が優先）［５］",
+      "en": "serial printer type(<b>B41J2/25</b>, <b>B41J2/265</b> take precedence)",
+      "count": 648,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/245": {
+      "code": "B41J2/245",
+      "level": 4,
+      "parent": "B41J2/235",
+      "ja": "ラインプリンター型（Ｂ４１Ｊ２／２５，Ｂ４１Ｊ２／２６５が優先）［５］",
+      "en": "line printer type(<b>B41J2/25</b>, <b>B41J2/265</b> take precedence)",
+      "count": 534,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/25": {
+      "code": "B41J2/25",
+      "level": 4,
+      "parent": "B41J2/235",
+      "ja": "プリントワイヤ［５］",
+      "en": "Print wires",
+      "count": 773,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/255": {
+      "code": "B41J2/255",
+      "level": 5,
+      "parent": "B41J2/25",
+      "ja": "ワイヤのプリント先端の配置［５］",
+      "en": "Arrangement of the print ends of the wires",
+      "count": 1040,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/26": {
+      "code": "B41J2/26",
+      "level": 5,
+      "parent": "B41J2/25",
+      "ja": "プリントワイヤとアクチュエータとの結合［５］",
+      "en": "Connection of print wire and actuator",
+      "count": 507,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/265": {
+      "code": "B41J2/265",
+      "level": 4,
+      "parent": "B41J2/235",
+      "ja": "プリントワイヤ用ガイド［５］",
+      "en": "Guides for print wires",
+      "count": 908,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/27": {
+      "code": "B41J2/27",
+      "level": 3,
+      "parent": "B41J2/23",
+      "ja": "プリントワイヤ用アクチュエータ［５］",
+      "en": "Actuators for print wires",
+      "count": 402,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/275": {
+      "code": "B41J2/275",
+      "level": 4,
+      "parent": "B41J2/27",
+      "ja": "クラッパー型のアクチュエータ（Ｂ４１Ｊ２／２８が優先）［５］",
+      "en": "of clapper type(<b>B41J2/28</b> takes precedence)",
+      "count": 1478,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/28": {
+      "code": "B41J2/28",
+      "level": 4,
+      "parent": "B41J2/27",
+      "ja": "スプリングチャージ型のアクチュエータ，すなわち．電気的制御下の機械的エネルギーを伴うもの［５］",
+      "en": "of spring charge type, i.e. with mechanical power under electro-magnetic control",
+      "count": 1713,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/285": {
+      "code": "B41J2/285",
+      "level": 4,
+      "parent": "B41J2/27",
+      "ja": "プランジャー型のアクチュエータ［５］",
+      "en": "of plunger type",
+      "count": 297,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/29": {
+      "code": "B41J2/29",
+      "level": 4,
+      "parent": "B41J2/27",
+      "ja": "ムービングコイル型のアクチュエータ［５］",
+      "en": "of moving-coil type",
+      "count": 155,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/295": {
+      "code": "B41J2/295",
+      "level": 4,
+      "parent": "B41J2/27",
+      "ja": "圧電気効果を用いるもの［５］",
+      "en": "using piezoelectric elements",
+      "count": 866,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/30": {
+      "code": "B41J2/30",
+      "level": 3,
+      "parent": "B41J2/23",
+      "ja": "アクチュエータ用制御回路［５］",
+      "en": "Control circuits for actuators",
+      "count": 2160,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/305": {
+      "code": "B41J2/305",
+      "level": 3,
+      "parent": "B41J2/23",
+      "ja": "インク供給装置（インクリボン，インクリボン機構Ｂ４１Ｊ３１／００～Ｂ４１Ｊ３５／００）［５］",
+      "en": "Ink supply apparatus(ink ribbons, ink-ribbon mechanisms <b>B41J31/00 to B41J35/00</b> )",
+      "count": 527,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/31": {
+      "code": "B41J2/31",
+      "level": 2,
+      "parent": "B41J2/22",
+      "ja": "ハンマーで衝撃または印打された表面に突起部のあるプリント部材を用いるもの［５］",
+      "en": "using a print element with projections on its surface impacted or impressed by hammers",
+      "count": 126,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/315": {
+      "code": "B41J2/315",
+      "level": 1,
+      "parent": "B41J2/00",
+      "ja": "感熱プリンティング材料または印刷転写材料へ熱を選択的に適用することに特徴があるもの（Ｂ４１Ｊ２／３８５，Ｂ４１Ｊ２／４３５が優先）［５］",
+      "en": "characterised by selective application of heat to a heat sensitive printing or impression-transfer material(<b>B41J2/385</b>, <b>B41J2/435</b> take precedence)",
+      "count": 2425,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/32": {
+      "code": "B41J2/32",
+      "level": 2,
+      "parent": "B41J2/315",
+      "ja": "サーマルヘッドを用いるもの［５］",
+      "en": "using thermal heads",
+      "count": 15354,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/325": {
+      "code": "B41J2/325",
+      "level": 3,
+      "parent": "B41J2/32",
+      "ja": "インク担体，例えば．インクリボンまたはインクシートからインクを選択的に転写するもの［５］",
+      "en": "by selective transfer of ink from ink carrier, e.g. from ink ribbon or sheet",
+      "count": 11975,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/33": {
+      "code": "B41J2/33",
+      "level": 4,
+      "parent": "B41J2/325",
+      "ja": "インクローラによるもの［５］",
+      "en": "from ink roller",
+      "count": 345,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/335": {
+      "code": "B41J2/335",
+      "level": 3,
+      "parent": "B41J2/32",
+      "ja": "サーマルヘッドの構造［５］",
+      "en": "Structure of thermal heads",
+      "count": 9466,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/34": {
+      "code": "B41J2/34",
+      "level": 4,
+      "parent": "B41J2/335",
+      "ja": "半導体を含むもの［５］",
+      "en": "comprising semiconductors",
+      "count": 302,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/345": {
+      "code": "B41J2/345",
+      "level": 3,
+      "parent": "B41J2/32",
+      "ja": "抵抗体または導体の配置に特徴があるもの［５］",
+      "en": "characterised by the arrangement of resistors or conductors",
+      "count": 4789,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/35": {
+      "code": "B41J2/35",
+      "level": 3,
+      "parent": "B41J2/32",
+      "ja": "サーマルヘッドへの電流または電圧の印加［５］",
+      "en": "providing current or voltage to the thermal head",
+      "count": 2166,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/355": {
+      "code": "B41J2/355",
+      "level": 4,
+      "parent": "B41J2/35",
+      "ja": "発熱要素の選択のための制御回路［５］",
+      "en": "Control circuits for heating-element selection",
+      "count": 3897,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/36": {
+      "code": "B41J2/36",
+      "level": 5,
+      "parent": "B41J2/355",
+      "ja": "プリント濃度制御［５］",
+      "en": "Print density control",
+      "count": 4745,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/365": {
+      "code": "B41J2/365",
+      "level": 6,
+      "parent": "B41J2/36",
+      "ja": "温度変化に対する補償［５］",
+      "en": "by compensation for variation in temperature",
+      "count": 1628,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/37": {
+      "code": "B41J2/37",
+      "level": 6,
+      "parent": "B41J2/36",
+      "ja": "電流変化に対する補償［５］",
+      "en": "by compensation for variation in current",
+      "count": 473,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/375": {
+      "code": "B41J2/375",
+      "level": 3,
+      "parent": "B41J2/32",
+      "ja": "過熱に対する保護装置［５］",
+      "en": "Protection arrangements against overheating",
+      "count": 787,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/38": {
+      "code": "B41J2/38",
+      "level": 2,
+      "parent": "B41J2/315",
+      "ja": "予熱，すなわち．プリンティングしない程度の温度での加熱［５］",
+      "en": "Preheating, i.e. heating to a temperature insufficient to cause printing",
+      "count": 989,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/385": {
+      "code": "B41J2/385",
+      "level": 1,
+      "parent": "B41J2/00",
+      "ja": "プリンティング材料または印刷転写材料へ選択的に電気または磁気を適用することに特徴を有するもの（Ｂ４１Ｊ２／００５優先）［２００６．０１］",
+      "en": "characterised by selective supply of electric current or selective application of magnetism to a printing or impression-transfer material(<b>B41J2/005</b> takes precedence)",
+      "count": 4096,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/39": {
+      "code": "B41J2/39",
+      "level": 2,
+      "parent": "B41J2/385",
+      "ja": "多針電極を用いるもの［５］",
+      "en": "using multi-stylus heads",
+      "count": 615,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/395": {
+      "code": "B41J2/395",
+      "level": 3,
+      "parent": "B41J2/39",
+      "ja": "多針電極の構造［５］",
+      "en": "Structure of multi-stylus heads",
+      "count": 1279,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/40": {
+      "code": "B41J2/40",
+      "level": 3,
+      "parent": "B41J2/39",
+      "ja": "多針電極への電流または電圧の印加［５］",
+      "en": "providing current or voltage to the multi-stylus head",
+      "count": 580,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/405": {
+      "code": "B41J2/405",
+      "level": 4,
+      "parent": "B41J2/40",
+      "ja": "供給すべき針または補助電極の選択［２００６．０１］",
+      "en": "Selection of the stylus or auxiliary electrode to be supplied",
+      "count": 45,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/41": {
+      "code": "B41J2/41",
+      "level": 2,
+      "parent": "B41J2/385",
+      "ja": "静電プリンティング用（Ｂ４１Ｊ２／３９が優先）［５］",
+      "en": "for electrostatic printing(<b>B41J2/39</b> takes precedence)",
+      "count": 727,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/415": {
+      "code": "B41J2/415",
+      "level": 3,
+      "parent": "B41J2/41",
+      "ja": "孔またはスリットを介して荷電された粒子を通過させるもの［５］",
+      "en": "by passing charged particles through a hole or a slit",
+      "count": 1439,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/42": {
+      "code": "B41J2/42",
+      "level": 2,
+      "parent": "B41J2/385",
+      "ja": "選択的に加熱するもの［５］",
+      "en": "for heating selectively",
+      "count": 372,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/425": {
+      "code": "B41J2/425",
+      "level": 2,
+      "parent": "B41J2/385",
+      "ja": "感電材料，例．金属被覆紙，から選択的に表面層を取除くもの［５］",
+      "en": "for removing surface layer selectively from electro-sensitive material, e.g. matel coated paper",
+      "count": 698,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/43": {
+      "code": "B41J2/43",
+      "level": 2,
+      "parent": "B41J2/385",
+      "ja": "磁気プリンティング用［５］",
+      "en": "for magnetic printing",
+      "count": 291,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/435": {
+      "code": "B41J2/435",
+      "level": 1,
+      "parent": "B41J2/00",
+      "ja": "プリンティング材料または印刷転写材料への放射線の選択的適用に特徴があるもの［２００６．０１］",
+      "en": "characterised by selective application of radiation to a printing material or impression-transfer material",
+      "count": 4737,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/44": {
+      "code": "B41J2/44",
+      "level": 2,
+      "parent": "B41J2/435",
+      "ja": "単一の放射線源を用いるもの，例．光ビームまたはシャッター装置（Ｂ４１Ｊ２／４７５が優先）［５］",
+      "en": "using single radiation source, e.g. lighting beams or shutter arrangements(<b>B41J2/475</b> takes precedence)",
+      "count": 31674,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/445": {
+      "code": "B41J2/445",
+      "level": 3,
+      "parent": "B41J2/44",
+      "ja": "液晶を用いるもの［５］",
+      "en": "using liquid crystals",
+      "count": 1585,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/447": {
+      "code": "B41J2/447",
+      "level": 2,
+      "parent": "B41J2/435",
+      "ja": "アレイ放射源を使用するもの［６］",
+      "en": "using arrays of radiation sources(<b>B41J2/475</b> takes precedence)",
+      "count": 1435,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/45": {
+      "code": "B41J2/45",
+      "level": 3,
+      "parent": "B41J2/447",
+      "ja": "発光ダイオードアレイを用いるもの［５］",
+      "en": "using light-emitting diode arrays",
+      "count": 9426,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/455": {
+      "code": "B41J2/455",
+      "level": 3,
+      "parent": "B41J2/447",
+      "ja": "レーザーアレイを用いるもの［５］",
+      "en": "using laser arrays",
+      "count": 8494,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/46": {
+      "code": "B41J2/46",
+      "level": 3,
+      "parent": "B41J2/447",
+      "ja": "ガラス繊維の使用に特徴があるもの［５］",
+      "en": "characterised by using glass fibres",
+      "count": 642,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/465": {
+      "code": "B41J2/465",
+      "level": 2,
+      "parent": "B41J2/435",
+      "ja": "マスクを用いるもの，例．光スイッチマスク［２００６．０１］",
+      "en": "using masks, e.g. light-switching masks",
+      "count": 649,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/47": {
+      "code": "B41J2/47",
+      "level": 2,
+      "parent": "B41J2/435",
+      "ja": "光の走査と変調の組合せを用いるもの［５］",
+      "en": "using the combination of scanning and modulation of light",
+      "count": 4899,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/475": {
+      "code": "B41J2/475",
+      "level": 2,
+      "parent": "B41J2/435",
+      "ja": "選択的に加熱するもの［５］",
+      "en": "for heating selectively",
+      "count": 1138,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/48": {
+      "code": "B41J2/48",
+      "level": 3,
+      "parent": "B41J2/475",
+      "ja": "フィルム上のインクを溶融するものまたはインクの粒子を溶融するもの［５］",
+      "en": "melting ink on a film or melting ink granules",
+      "count": 145,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/485": {
+      "code": "B41J2/485",
+      "level": 1,
+      "parent": "B41J2/00",
+      "ja": "２種類またはそれ以上のプリンティングに適用し得る文字の組立方法またはマーキング方法に特徴があるもの［５］",
+      "en": "characterised by the process of building-up characters applicable to two or more kinds of printing or marking processes",
+      "count": 7291,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/49": {
+      "code": "B41J2/49",
+      "level": 2,
+      "parent": "B41J2/485",
+      "ja": "書くことによるもの［５］",
+      "en": "by writing",
+      "count": 636,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/495": {
+      "code": "B41J2/495",
+      "level": 2,
+      "parent": "B41J2/485",
+      "ja": "らせん形の回転部材から選択的にプリンティングするもの［５］",
+      "en": "by selective printing from a rotating helical member",
+      "count": 105,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/50": {
+      "code": "B41J2/50",
+      "level": 2,
+      "parent": "B41J2/485",
+      "ja": "２つまたはそれ以上の同一でないプリンティング要素の選択的組合わせによるもの［５］",
+      "en": "by the selective combination of two or more non-identical printing elements",
+      "count": 135,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/505": {
+      "code": "B41J2/505",
+      "level": 2,
+      "parent": "B41J2/485",
+      "ja": "同一のプリンティング要素の組立によるもの［５］",
+      "en": "from an assembly of identical printing elements",
+      "count": 1331,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/51": {
+      "code": "B41J2/51",
+      "level": 3,
+      "parent": "B41J2/505",
+      "ja": "シリアルプリンター型［５］",
+      "en": "serial printer type",
+      "count": 3038,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/515": {
+      "code": "B41J2/515",
+      "level": 3,
+      "parent": "B41J2/505",
+      "ja": "ラインプリンター型［５］",
+      "en": "line printer type",
+      "count": 911,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/52": {
+      "code": "B41J2/52",
+      "level": 1,
+      "parent": "B41J2/00",
+      "ja": "グループＢ４１Ｊ２／２０５に包含されない，階調プリンティング用装置，例．２種類またはそれ以上のプリンティングまたはマーキング方法に適用し得るもの（Ｂ４１Ｊ２／５２５が優先）［２００６．０１］",
+      "en": "Arrangement for printing a discrete number of tones, not covered by group <b>B41J2/205</b>, e.g. applicable to two or more kinds of printing or marking process(<b>B41J2/525</b> takes precedence)",
+      "count": 5979,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J2/525": {
+      "code": "B41J2/525",
+      "level": 1,
+      "parent": "B41J2/00",
+      "ja": "グループＢ４１Ｊ２／２１に包含されない，カラープリンティング用装置，例．２種類またはそれ以上のプリンティングまたはマーキング方法に適用し得るもの［２００６．０１］",
+      "en": "Arrangement for multi-colour printing, not covered by group <b>B41J2/21</b>, e.g. applicable to two or more kinds of printing or marking process",
+      "count": 9629,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J3/00": {
+      "code": "B41J3/00",
+      "level": 0,
+      "parent": "B41J",
+      "ja": "構成された目的に特徴があるタイプライターまたは選択的プリンティングまたはマーキング機構［２００６．０１］",
+      "en": "Typewriters or selective printing or marking mechanisms characterised by the purpose for which they are constructed",
+      "count": 6446,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J3/01": {
+      "code": "B41J3/01",
+      "level": 1,
+      "parent": "B41J3/00",
+      "ja": "特殊な文字用，例．漢字またはバーコード用［５］",
+      "en": "for special character, e.g. for Chinese characters or barcodes",
+      "count": 4039,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J3/24": {
+      "code": "B41J3/24",
+      "level": 1,
+      "parent": "B41J3/00",
+      "ja": "特殊な活字またはダイスを使って穴をあけるかまたはステンシル紙を打抜くもの",
+      "en": "for perforating or stencil cutting using special types or dies",
+      "count": 191,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J3/26": {
+      "code": "B41J3/26",
+      "level": 1,
+      "parent": "B41J3/00",
+      "ja": "速記用",
+      "en": "for stenographic writing",
+      "count": 271,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J3/28": {
+      "code": "B41J3/28",
+      "level": 1,
+      "parent": "B41J3/00",
+      "ja": "平面上，例．本，図面，箱の平面上，に下に向ってプリンティングするもの",
+      "en": "for printing downwardly on flat surfaces, e.g. of books, drawings, boxes",
+      "count": 2766,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J3/30": {
+      "code": "B41J3/30",
+      "level": 1,
+      "parent": "B41J3/00",
+      "ja": "大きい活字を使って，例．会報，切符上に，プリンティングするもの",
+      "en": "for printing with large type, e.g. on bulletins, tickets",
+      "count": 131,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J3/32": {
+      "code": "B41J3/32",
+      "level": 1,
+      "parent": "B41J3/00",
+      "ja": "点字用紙にプリンティングするものまたは盲人もしくは身体障害者用に特に適合したキーボードを使ってプリンティングするもの",
+      "en": "for printing in Braille or with keyboards specially adapted for use by blind or disabled persons",
+      "count": 1018,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J3/34": {
+      "code": "B41J3/34",
+      "level": 1,
+      "parent": "B41J3/00",
+      "ja": "楽譜用",
+      "en": "for printing musical scores",
+      "count": 179,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J3/36": {
+      "code": "B41J3/36",
+      "level": 1,
+      "parent": "B41J3/00",
+      "ja": "持ち運びのできるもの",
+      "en": "for portability",
+      "count": 8245,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J3/37": {
+      "code": "B41J3/37",
+      "level": 2,
+      "parent": "B41J3/36",
+      "ja": "折りたたみ式タイプライター［５］",
+      "en": "Foldable typewriters",
+      "count": 138,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J3/38": {
+      "code": "B41J3/38",
+      "level": 1,
+      "parent": "B41J3/00",
+      "ja": "エンボシング用，例．ステロ版用の母型を作るもの",
+      "en": "for embossing, e.g. for making matrices for stereotypes",
+      "count": 947,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J3/39": {
+      "code": "B41J3/39",
+      "level": 2,
+      "parent": "B41J3/38",
+      "ja": "小型のもの［２００６．０１］",
+      "en": "hand-held",
+      "count": 228,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J3/407": {
+      "code": "B41J3/407",
+      "level": 1,
+      "parent": "B41J3/00",
+      "ja": "特殊な材料上にマーキングするもの［２００６．０１］",
+      "en": "for marking on special material",
+      "count": 28845,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J3/413": {
+      "code": "B41J3/413",
+      "level": 2,
+      "parent": "B41J3/407",
+      "ja": "金属用［５］",
+      "en": "for metal",
+      "count": 1794,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J3/42": {
+      "code": "B41J3/42",
+      "level": 1,
+      "parent": "B41J3/00",
+      "ja": "２個またはそれ以上で一そろいになり同時作動できるように連結されたタイプライタ",
+      "en": "Two or more complete typewriters coupled for simultaneous operation",
+      "count": 653,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J3/44": {
+      "code": "B41J3/44",
+      "level": 1,
+      "parent": "B41J3/00",
+      "ja": "二重の機能をもつものまたは他の機能をもつ装置と結合しているかまたは対になっているタイプライタまたは選択的プリンティング機構［２００６．０１］",
+      "en": "Typewriters or selective printing mechanisms having dual functions or combined with, or coupled to, apparatus performing other functions",
+      "count": 8305,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J3/46": {
+      "code": "B41J3/46",
+      "level": 2,
+      "parent": "B41J3/44",
+      "ja": "視覚表示をもつ装置に結合されたプリンティング機構",
+      "en": "Printing mechanisms combined with apparatus providing a visual indication",
+      "count": 1668,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J3/50": {
+      "code": "B41J3/50",
+      "level": 2,
+      "parent": "B41J3/44",
+      "ja": "プリンティングによって文字を作り出すとともに他の手段によって記録も残す機構［２００６．０１］",
+      "en": "Mechanisms producing characters by printing and also producing a record by other means",
+      "count": 801,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J3/51": {
+      "code": "B41J3/51",
+      "level": 3,
+      "parent": "B41J3/50",
+      "ja": "プリントされた情報が記録されたものと同一であるもの；符号生成手段を有する活字要素を用いるもの［２００６．０１］",
+      "en": "the printed and recorded information being identical; using type elements with code-generating means",
+      "count": 211,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J3/54": {
+      "code": "B41J3/54",
+      "level": 1,
+      "parent": "B41J3/00",
+      "ja": "２そろいまたはそれ以上の活字またはプリンティング要素をもつもの（Ｂ４１Ｊ３／６０が優先）［５］",
+      "en": "with two or more sets of type or printing elements(<b>B41J3/60</b> takes precedence)",
+      "count": 4082,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J3/60": {
+      "code": "B41J3/60",
+      "level": 1,
+      "parent": "B41J3/00",
+      "ja": "プリンティング材料の両面にプリンティングするもの［５］",
+      "en": "for printing on both faces of the printing material",
+      "count": 3171,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J3/62": {
+      "code": "B41J3/62",
+      "level": 1,
+      "parent": "B41J3/00",
+      "ja": "２またはそれ以上の別々のシートまたはストリップ状のプリンティング材料にプリンティングするもの（Ｂ４１Ｊ３／５４が優先）［５］",
+      "en": "for printing on two or more separate sheets or strips of printing material(<b>B41J3/54</b> takes precedence)",
+      "count": 181,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J5/00": {
+      "code": "B41J5/00",
+      "level": 0,
+      "parent": "B41J",
+      "ja": "文字の選択を制御する装置（記録担体を読取る方法または装置Ｇ０６Ｋ７／００）",
+      "en": "Devices or arrangements for controlling character selection(methods or arrangements for sensing record carriers <b>G06K7/00</b>)",
+      "count": 901,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J5/02": {
+      "code": "B41J5/02",
+      "level": 1,
+      "parent": "B41J5/00",
+      "ja": "インデックスをセットすることによって選択された文字または音節",
+      "en": "Character or syllable selected by setting an index",
+      "count": 29,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J5/04": {
+      "code": "B41J5/04",
+      "level": 2,
+      "parent": "B41J5/02",
+      "ja": "単一文字の選択",
+      "en": "Single-character selection",
+      "count": 25,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J5/06": {
+      "code": "B41J5/06",
+      "level": 2,
+      "parent": "B41J5/02",
+      "ja": "多数文字の選択",
+      "en": "Multiple-character selection",
+      "count": 23,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J5/08": {
+      "code": "B41J5/08",
+      "level": 1,
+      "parent": "B41J5/00",
+      "ja": "タイプライタのキーまたはキーボードによって選択された文字または音節",
+      "en": "Character or syllable selected by means of keys or keyboards of the typewriter type",
+      "count": 675,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J5/10": {
+      "code": "B41J5/10",
+      "level": 2,
+      "parent": "B41J5/08",
+      "ja": "キーボードの配列",
+      "en": "Arrangements of keyboards",
+      "count": 1160,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J5/12": {
+      "code": "B41J5/12",
+      "level": 2,
+      "parent": "B41J5/08",
+      "ja": "キー・ボタンの構成",
+      "en": "Construction of key buttons",
+      "count": 590,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J5/14": {
+      "code": "B41J5/14",
+      "level": 2,
+      "parent": "B41J5/08",
+      "ja": "キー・レバーの構成",
+      "en": "Construction of key levers",
+      "count": 176,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J5/16": {
+      "code": "B41J5/16",
+      "level": 2,
+      "parent": "B41J5/08",
+      "ja": "キー・ボタンをキー・レバーに装着または連結する構成",
+      "en": "Mounting or connecting key buttons on or to key levers",
+      "count": 88,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J5/18": {
+      "code": "B41J5/18",
+      "level": 2,
+      "parent": "B41J5/08",
+      "ja": "ロック機構",
+      "en": "Locks",
+      "count": 80,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J5/20": {
+      "code": "B41J5/20",
+      "level": 3,
+      "parent": "B41J5/18",
+      "ja": "補助キー用，例．シフト・キー用",
+      "en": "for subsidiary keys, e.g. for shift keys",
+      "count": 77,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J5/22": {
+      "code": "B41J5/22",
+      "level": 3,
+      "parent": "B41J5/18",
+      "ja": "キー間のインターロック，例．止め金を用いないもの",
+      "en": "Interlocks between keys, e.g. without detent arrangements",
+      "count": 108,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J5/24": {
+      "code": "B41J5/24",
+      "level": 4,
+      "parent": "B41J5/22",
+      "ja": "止め金を用いるもの",
+      "en": "with detent arrangements",
+      "count": 20,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J5/26": {
+      "code": "B41J5/26",
+      "level": 2,
+      "parent": "B41J5/08",
+      "ja": "タッチ，キーの圧下量またはストロークの調整",
+      "en": "Regulating touch, key dip or stroke, or the like",
+      "count": 166,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J5/28": {
+      "code": "B41J5/28",
+      "level": 2,
+      "parent": "B41J5/08",
+      "ja": "多動作キー，例．２個またはそれ以上の異った圧下量によりまたは２個またはそれ以上の異った方向に動かすことにより異った機能または選択を行うキー",
+      "en": "Multiple-action keys, e.g. keys depressed by two or more amounts or movable in two or more directions to effect different functions or selections",
+      "count": 133,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J5/30": {
+      "code": "B41J5/30",
+      "level": 1,
+      "parent": "B41J5/00",
+      "ja": "記録された情報によって制御される文字または音節の選択",
+      "en": "Character or syllable selection controlled by recorded information",
+      "count": 23944,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J5/31": {
+      "code": "B41J5/31",
+      "level": 2,
+      "parent": "B41J5/30",
+      "ja": "記録された情報の形に特徴があるもの",
+      "en": "characterised by form of recorded information",
+      "count": 30,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J5/32": {
+      "code": "B41J5/32",
+      "level": 3,
+      "parent": "B41J5/31",
+      "ja": "印字された記録，エンボシングされた記録，または写真的記録，例．カード，シート，によるもの",
+      "en": "by printed, embossed, or photographic records, e.g. cards, sheets",
+      "count": 29,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J5/34": {
+      "code": "B41J5/34",
+      "level": 4,
+      "parent": "B41J5/32",
+      "ja": "テープによるもの",
+      "en": "by strips or tapes",
+      "count": 5,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J5/36": {
+      "code": "B41J5/36",
+      "level": 3,
+      "parent": "B41J5/31",
+      "ja": "パンチされた記録，例．カード，シート，によるもの",
+      "en": "by punched records, e.g. cards, sheets",
+      "count": 33,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J5/38": {
+      "code": "B41J5/38",
+      "level": 4,
+      "parent": "B41J5/36",
+      "ja": "テープによるもの",
+      "en": "by strips or tapes",
+      "count": 160,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J5/40": {
+      "code": "B41J5/40",
+      "level": 3,
+      "parent": "B41J5/31",
+      "ja": "磁気または静電記録，例．カード，シート，によるもの",
+      "en": "by magnetic or electrostatic records, e.g. cards, sheets",
+      "count": 39,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J5/42": {
+      "code": "B41J5/42",
+      "level": 4,
+      "parent": "B41J5/40",
+      "ja": "テープによるもの",
+      "en": "by strips or tapes",
+      "count": 53,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J5/44": {
+      "code": "B41J5/44",
+      "level": 2,
+      "parent": "B41J5/30",
+      "ja": "記録された情報の記憶の種類に特徴があるもの",
+      "en": "characterised by the kind of storage of recorded information",
+      "count": 1996,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J5/46": {
+      "code": "B41J5/46",
+      "level": 3,
+      "parent": "B41J5/44",
+      "ja": "記憶が内部記憶装置によるもの",
+      "en": "the storage being on internal storages",
+      "count": 229,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J5/48": {
+      "code": "B41J5/48",
+      "level": 3,
+      "parent": "B41J5/44",
+      "ja": "記憶が外部記憶装置によるもの",
+      "en": "the storage being on external storages",
+      "count": 67,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J5/50": {
+      "code": "B41J5/50",
+      "level": 4,
+      "parent": "B41J5/48",
+      "ja": "単一の記憶装置によるもの",
+      "en": "on a single storage",
+      "count": 15,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J5/51": {
+      "code": "B41J5/51",
+      "level": 4,
+      "parent": "B41J5/48",
+      "ja": "２つ以上の別個の記憶装置によるもの，例．付加的修正ストリップまたはテープによるもの［３］",
+      "en": "on more than one separate storage, e.g. on additional correction strips or tapes",
+      "count": 20,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J5/52": {
+      "code": "B41J5/52",
+      "level": 2,
+      "parent": "B41J5/30",
+      "ja": "パンチまたは類似の記録をとどめる附加的装置を備えることを特徴とするもの，例．同時記録",
+      "en": "characterised by the provision of additional devices for producing a punched or like record, e.g. simultaneously",
+      "count": 16,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J7/00": {
+      "code": "B41J7/00",
+      "level": 0,
+      "parent": "B41J",
+      "ja": "活字選択または活字作動機構（インデックス・セッティングＢ４１Ｊ５／０２）",
+      "en": "Type-selecting or type-actuating mechanisms(index setting <b>B41J5/02</b>)",
+      "count": 293,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J7/02": {
+      "code": "B41J7/02",
+      "level": 1,
+      "parent": "B41J7/00",
+      "ja": "タイプレバーの作動機構",
+      "en": "Type-lever actuating mechanisms",
+      "count": 858,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J7/04": {
+      "code": "B41J7/04",
+      "level": 2,
+      "parent": "B41J7/02",
+      "ja": "レバーが固定ピボットに装着されたもの",
+      "en": "Levers mounted on fixed pivots",
+      "count": 18,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J7/06": {
+      "code": "B41J7/06",
+      "level": 3,
+      "parent": "B41J7/04",
+      "ja": "伝動部材，例．歯車伝動，に連結されたもの",
+      "en": "and connected to transmission members, e.g. toothed gearing",
+      "count": 10,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J7/08": {
+      "code": "B41J7/08",
+      "level": 4,
+      "parent": "B41J7/06",
+      "ja": "ピンとスロットによる滑動自在の係合手段または類似手段をもつもの；カムとスロットによる部材をもつもの",
+      "en": "with pin-and-slot or like loose connections; Cam-slot members",
+      "count": 4,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J7/10": {
+      "code": "B41J7/10",
+      "level": 4,
+      "parent": "B41J7/06",
+      "ja": "チェーン，ベルト，可撓性ケーブルまたは類似部材",
+      "en": "Chain, belt, flexible-cable, or like members",
+      "count": 21,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J7/12": {
+      "code": "B41J7/12",
+      "level": 3,
+      "parent": "B41J7/04",
+      "ja": "２個のピボット上のＵ字形のタイプレバー",
+      "en": "U-shaped type-lever on two pivots",
+      "count": 4,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J7/14": {
+      "code": "B41J7/14",
+      "level": 3,
+      "parent": "B41J7/04",
+      "ja": "単一のキー・タイプ・レバー",
+      "en": "Single key-and-type lever",
+      "count": 187,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J7/16": {
+      "code": "B41J7/16",
+      "level": 3,
+      "parent": "B41J7/04",
+      "ja": "タイプヘッドがレバーにピボット結合されまたはレバーの上で回転するもの",
+      "en": "Type-head pivoted to, or rotating on, lever",
+      "count": 16,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J7/18": {
+      "code": "B41J7/18",
+      "level": 2,
+      "parent": "B41J7/02",
+      "ja": "印打作業中の機械的有利性を変更するための可動または可変の支点をもったレバー",
+      "en": "Levers having moving or variable fulcra to alter the mechanical advantage during the stroke",
+      "count": 25,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J7/20": {
+      "code": "B41J7/20",
+      "level": 2,
+      "parent": "B41J7/02",
+      "ja": "レバーに相対的に固着した可動ピボットをもつレバー；各々２個のリンクにピボット結合されたタイプバー",
+      "en": "Levers having moving pivots fixed relative to the lever; Type-bars each pivoted on two links",
+      "count": 2,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J7/22": {
+      "code": "B41J7/22",
+      "level": 2,
+      "parent": "B41J7/02",
+      "ja": "タイプ・バスケット；タイプレバー用軸受またはつり手",
+      "en": "Type-baskets; Bearings or hangers for type-levers",
+      "count": 89,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J7/24": {
+      "code": "B41J7/24",
+      "level": 2,
+      "parent": "B41J7/02",
+      "ja": "タイプレバーの構成（Ｕ字形レバーＢ４１Ｊ７／１２）",
+      "en": "Construction of type-levers(U-shaped levers <b>B41J7/12</b>)",
+      "count": 193,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J7/26": {
+      "code": "B41J7/26",
+      "level": 2,
+      "parent": "B41J7/02",
+      "ja": "タイプレバーの戻りを確実にする特殊手段，例．反発装置",
+      "en": "Special means, e.g. repulsers, for ensuring return of type-levers",
+      "count": 20,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J7/28": {
+      "code": "B41J7/28",
+      "level": 2,
+      "parent": "B41J7/02",
+      "ja": "元の位置に独立して戻るキー・レバーおよびタイプ部材",
+      "en": "Key-lever and type-member returned independently to rest position",
+      "count": 1,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J7/30": {
+      "code": "B41J7/30",
+      "level": 2,
+      "parent": "B41J7/02",
+      "ja": "レバーまたはタイプ部材の反発または衝突を防ぐもの",
+      "en": "Preventing rebound or clash of levers or type-members",
+      "count": 143,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J7/32": {
+      "code": "B41J7/32",
+      "level": 1,
+      "parent": "B41J7/00",
+      "ja": "滑動部材の作用によって選択される活字面",
+      "en": "Type-face selected by operation of sliding members",
+      "count": 206,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J7/34": {
+      "code": "B41J7/34",
+      "level": 1,
+      "parent": "B41J7/00",
+      "ja": "回転部材の作用によって選択される活字面",
+      "en": "Type-face selected by operation of rotary members",
+      "count": 670,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J7/36": {
+      "code": "B41J7/36",
+      "level": 1,
+      "parent": "B41J7/00",
+      "ja": "印字の間に回転する活字キャリヤに使用される選択装置",
+      "en": "Selecting arrangements applied to type-carriers rotating during impression",
+      "count": 552,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J7/38": {
+      "code": "B41J7/38",
+      "level": 2,
+      "parent": "B41J7/36",
+      "ja": "選択のためにキャリヤ上で可動の活字",
+      "en": "Type movable on carrier for selection",
+      "count": 13,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J7/40": {
+      "code": "B41J7/40",
+      "level": 2,
+      "parent": "B41J7/36",
+      "ja": "印字のためにキャリヤ上で可動の活字",
+      "en": "Type movable on carrier for impression",
+      "count": 13,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J7/42": {
+      "code": "B41J7/42",
+      "level": 2,
+      "parent": "B41J7/36",
+      "ja": "時間調節式印字，例．衝撃のないもの",
+      "en": "Timed impression, e.g. without impact",
+      "count": 2,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J7/44": {
+      "code": "B41J7/44",
+      "level": 3,
+      "parent": "B41J7/42",
+      "ja": "衝撃によるもの",
+      "en": "with impact",
+      "count": 64,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J7/46": {
+      "code": "B41J7/46",
+      "level": 2,
+      "parent": "B41J7/36",
+      "ja": "印字の間にころがり接触するもの",
+      "en": "Rolling contact during impression",
+      "count": 35,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J7/48": {
+      "code": "B41J7/48",
+      "level": 1,
+      "parent": "B41J7/00",
+      "ja": "活字キャリヤが電磁手段によって選択された位置に停止するもの",
+      "en": "Type-carrier arrested in selected position by electromagnetic means",
+      "count": 996,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J7/50": {
+      "code": "B41J7/50",
+      "level": 1,
+      "parent": "B41J7/00",
+      "ja": "活字面が活字キャリヤの二つの運動の組合せによって選択されるもの",
+      "en": "Type-face selected by combinations of two movements of type-carrier",
+      "count": 143,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J7/52": {
+      "code": "B41J7/52",
+      "level": 2,
+      "parent": "B41J7/50",
+      "ja": "回転運動と滑動運動の組合せによるもの",
+      "en": "by combined rotary and sliding movement",
+      "count": 357,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J7/54": {
+      "code": "B41J7/54",
+      "level": 1,
+      "parent": "B41J7/00",
+      "ja": "組合せ，交換，加算，または総合手段を含む選択装置",
+      "en": "Selecting arrangements including combination, permutation, summation, or aggregation means",
+      "count": 89,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J7/56": {
+      "code": "B41J7/56",
+      "level": 2,
+      "parent": "B41J7/54",
+      "ja": "機械的運動用の加算機構",
+      "en": "Summation devices for mechanical movements",
+      "count": 27,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J7/58": {
+      "code": "B41J7/58",
+      "level": 3,
+      "parent": "B41J7/56",
+      "ja": "くさび",
+      "en": "Wedges",
+      "count": 8,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J7/60": {
+      "code": "B41J7/60",
+      "level": 3,
+      "parent": "B41J7/56",
+      "ja": "レバー",
+      "en": "Levers",
+      "count": 60,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J7/62": {
+      "code": "B41J7/62",
+      "level": 3,
+      "parent": "B41J7/56",
+      "ja": "歯車",
+      "en": "Gearing",
+      "count": 50,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J7/64": {
+      "code": "B41J7/64",
+      "level": 3,
+      "parent": "B41J7/56",
+      "ja": "プーリーおよび鋼索機構",
+      "en": "Pulley-and-strand mechanism",
+      "count": 79,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J7/66": {
+      "code": "B41J7/66",
+      "level": 2,
+      "parent": "B41J7/54",
+      "ja": "可動部材，例．ピン，がコードによって置換可能なもの",
+      "en": "Movable members, e.g. pins, displaceable according to a code",
+      "count": 33,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J7/68": {
+      "code": "B41J7/68",
+      "level": 2,
+      "parent": "B41J7/54",
+      "ja": "活字を選択するために電気回路を選択的に閉じる手段をもつもの",
+      "en": "with means for selectively closing an electric circuit for type presentation",
+      "count": 59,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J7/90": {
+      "code": "B41J7/90",
+      "level": 1,
+      "parent": "B41J7/00",
+      "ja": "音節，行，または同様の活字選択",
+      "en": "Syllable, line, or like type selection",
+      "count": 128,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J7/92": {
+      "code": "B41J7/92",
+      "level": 1,
+      "parent": "B41J7/00",
+      "ja": "印打力の調整；印字の均一性を確保する手段（Ｂ４１Ｊ９／４６，Ｂ４１Ｊ９／４８が優先）［５］",
+      "en": "Impact adjustment; Means to give uniformity of impression(<b>B41J9/46</b>, <b>B41J9/48</b> take precedence)",
+      "count": 719,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J7/94": {
+      "code": "B41J7/94",
+      "level": 2,
+      "parent": "B41J7/92",
+      "ja": "文字毎による調整",
+      "en": "Character-by-character adjustment",
+      "count": 363,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J7/96": {
+      "code": "B41J7/96",
+      "level": 1,
+      "parent": "B41J7/00",
+      "ja": "セットの正確さを検査する手段",
+      "en": "Means for checking correctness of setting",
+      "count": 467,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J9/00": {
+      "code": "B41J9/00",
+      "level": 0,
+      "parent": "B41J",
+      "ja": "ハンマー印打機構",
+      "en": "Hammer-impression mechanisms",
+      "count": 364,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J9/02": {
+      "code": "B41J9/02",
+      "level": 1,
+      "parent": "B41J9/00",
+      "ja": "ハンマー；その配置",
+      "en": "Hammers; Arrangements thereof",
+      "count": 342,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J9/04": {
+      "code": "B41J9/04",
+      "level": 2,
+      "parent": "B41J9/02",
+      "ja": "単一のハンマーによるもの，例．プリンティングする行に沿って移動するもの",
+      "en": "of single hammers, e.g. travelling along printing line",
+      "count": 160,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J9/06": {
+      "code": "B41J9/06",
+      "level": 3,
+      "parent": "B41J9/04",
+      "ja": "固定ハンマーによるもの，例．単一の活字担体と係合するもの",
+      "en": "of stationary hammers, e.g. engaging a single type-carrier",
+      "count": 63,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J9/08": {
+      "code": "B41J9/08",
+      "level": 4,
+      "parent": "B41J9/06",
+      "ja": "１個以上の活字担体と係合するもの",
+      "en": "engaging more than one type-carrier",
+      "count": 24,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J9/10": {
+      "code": "B41J9/10",
+      "level": 2,
+      "parent": "B41J9/02",
+      "ja": "１個以上のハンマーによるもの，例．各々の文字の位置に１個のハンマーを配置するもの",
+      "en": "of more than one hammer, e.g. one for each character position",
+      "count": 275,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J9/12": {
+      "code": "B41J9/12",
+      "level": 3,
+      "parent": "B41J9/10",
+      "ja": "１個以上の文字の位置において各々が作動するもの",
+      "en": "each operating in more than one character position",
+      "count": 182,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J9/127": {
+      "code": "B41J9/127",
+      "level": 2,
+      "parent": "B41J9/02",
+      "ja": "ハンマーの装着［３］",
+      "en": "Mounting of hammers",
+      "count": 315,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J9/133": {
+      "code": "B41J9/133",
+      "level": 2,
+      "parent": "B41J9/02",
+      "ja": "ハンマーボデーまたはチップの構造［３］",
+      "en": "Construction of hammer body or tip",
+      "count": 411,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J9/14": {
+      "code": "B41J9/14",
+      "level": 1,
+      "parent": "B41J9/00",
+      "ja": "それぞれのハンマーを選択または抑制する手段",
+      "en": "Means for selecting or suppressing individual hammers",
+      "count": 148,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J9/16": {
+      "code": "B41J9/16",
+      "level": 1,
+      "parent": "B41J9/00",
+      "ja": "ハンマーを作動開始させる手段",
+      "en": "Means for cocking or resetting hammers",
+      "count": 38,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J9/18": {
+      "code": "B41J9/18",
+      "level": 2,
+      "parent": "B41J9/16",
+      "ja": "カム",
+      "en": "Cams",
+      "count": 34,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J9/20": {
+      "code": "B41J9/20",
+      "level": 2,
+      "parent": "B41J9/16",
+      "ja": "ばね",
+      "en": "Springs",
+      "count": 18,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J9/22": {
+      "code": "B41J9/22",
+      "level": 2,
+      "parent": "B41J9/16",
+      "ja": "流体圧手段",
+      "en": "Fluid-pressure means",
+      "count": 9,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J9/24": {
+      "code": "B41J9/24",
+      "level": 2,
+      "parent": "B41J9/16",
+      "ja": "電磁的手段",
+      "en": "Electromagnetic means",
+      "count": 318,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J9/26": {
+      "code": "B41J9/26",
+      "level": 1,
+      "parent": "B41J9/00",
+      "ja": "ハンマーに印打動作を行わせる手段",
+      "en": "Means for operating hammers to effect impression",
+      "count": 147,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J9/28": {
+      "code": "B41J9/28",
+      "level": 2,
+      "parent": "B41J9/26",
+      "ja": "カム",
+      "en": "Cams",
+      "count": 110,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J9/30": {
+      "code": "B41J9/30",
+      "level": 2,
+      "parent": "B41J9/26",
+      "ja": "ばね",
+      "en": "Springs",
+      "count": 43,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J9/32": {
+      "code": "B41J9/32",
+      "level": 2,
+      "parent": "B41J9/26",
+      "ja": "スナッチ・ロールにクラッチ結合するもの",
+      "en": "arranged to be clutched to snatch roll",
+      "count": 336,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J9/34": {
+      "code": "B41J9/34",
+      "level": 2,
+      "parent": "B41J9/26",
+      "ja": "流体圧手段",
+      "en": "Fluid-pressure means",
+      "count": 24,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J9/36": {
+      "code": "B41J9/36",
+      "level": 2,
+      "parent": "B41J9/26",
+      "ja": "機械的駆動力が電磁気的制御下に加えられるもの",
+      "en": "in which mechanical power is applied under electromagnetic control",
+      "count": 264,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J9/38": {
+      "code": "B41J9/38",
+      "level": 2,
+      "parent": "B41J9/26",
+      "ja": "電磁的手段",
+      "en": "Electromagnetic means",
+      "count": 915,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J9/40": {
+      "code": "B41J9/40",
+      "level": 2,
+      "parent": "B41J9/26",
+      "ja": "電気的付着性クラッチを含むもの",
+      "en": "including an electro-adhesive clutch",
+      "count": 23,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J9/42": {
+      "code": "B41J9/42",
+      "level": 1,
+      "parent": "B41J9/00",
+      "ja": "反発防止装置をもつもの",
+      "en": "with anti-rebound arrangements",
+      "count": 411,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J9/44": {
+      "code": "B41J9/44",
+      "level": 1,
+      "parent": "B41J9/00",
+      "ja": "ハンマー印打機構用制御回路［５］",
+      "en": "Control for hammer-impression mechanisms",
+      "count": 498,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J9/46": {
+      "code": "B41J9/46",
+      "level": 2,
+      "parent": "B41J9/44",
+      "ja": "ハンマー発射時間を決定または調整するもの［５］",
+      "en": "for deciding or adjusting hammer-firing time",
+      "count": 212,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J9/48": {
+      "code": "B41J9/48",
+      "level": 2,
+      "parent": "B41J9/44",
+      "ja": "ハンマー駆動エネルギーを決定または調整するもの［５］",
+      "en": "for deciding or adjusting hammer-drive energy",
+      "count": 403,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J9/50": {
+      "code": "B41J9/50",
+      "level": 2,
+      "parent": "B41J9/44",
+      "ja": "プリンター駆動状態の変化を補正するもの，例．温度または電流供給の変化を補正するもの［５］",
+      "en": "for compensating for the variations of printer drive conditions, e.g. for compensating for the variation of temperature or current supply",
+      "count": 51,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J9/52": {
+      "code": "B41J9/52",
+      "level": 2,
+      "parent": "B41J9/44",
+      "ja": "プリントハンマーの作動をチェックするもの［５］",
+      "en": "for checking the operation of print hammers",
+      "count": 63,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J9/54": {
+      "code": "B41J9/54",
+      "level": 3,
+      "parent": "B41J9/52",
+      "ja": "プリントハンマーの破損をチェックするもの［５］",
+      "en": "for checking the breakage of print hammers",
+      "count": 137,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J11/00": {
+      "code": "B41J11/00",
+      "level": 0,
+      "parent": "B41J",
+      "ja": "シートまたはウエブの形態をした用紙を支持または取扱う装置（タイプライタまたはプリンタに取付けた原稿支持具  Ｂ４１Ｊ２９／１５）［２００６．０１］",
+      "en": "Devices or arrangements for supporting or handling copy material in sheet or web form (script supports connected to the typewriter or printer <b>B41J29/15</b>)",
+      "count": 29331,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J11/02": {
+      "code": "B41J11/02",
+      "level": 1,
+      "parent": "B41J11/00",
+      "ja": "プラテン",
+      "en": "Platens",
+      "count": 4263,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J11/04": {
+      "code": "B41J11/04",
+      "level": 2,
+      "parent": "B41J11/02",
+      "ja": "ローラ・プラテン",
+      "en": "Roller platens",
+      "count": 2636,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J11/053": {
+      "code": "B41J11/053",
+      "level": 3,
+      "parent": "B41J11/04",
+      "ja": "消音装置をもつもの（表面の構造Ｂ４１Ｊ１１／０５７）［３］",
+      "en": "with sound-deadening devices(structure of surface <b>B41J11/057</b>)",
+      "count": 241,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J11/057": {
+      "code": "B41J11/057",
+      "level": 3,
+      "parent": "B41J11/04",
+      "ja": "表面の構造［３］",
+      "en": "Structure of the surface",
+      "count": 295,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J11/06": {
+      "code": "B41J11/06",
+      "level": 2,
+      "parent": "B41J11/02",
+      "ja": "平らなページ・サイズのプラテン",
+      "en": "Flat page-size platens",
+      "count": 1137,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J11/08": {
+      "code": "B41J11/08",
+      "level": 2,
+      "parent": "B41J11/02",
+      "ja": "バーまたは類似のライン・サイズのプラテン",
+      "en": "Bar or like line-size platens",
+      "count": 441,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J11/10": {
+      "code": "B41J11/10",
+      "level": 2,
+      "parent": "B41J11/02",
+      "ja": "アンビルまたは類似のキャラクター・サイズのプラテン",
+      "en": "Anvil or like character-size platens",
+      "count": 34,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J11/13": {
+      "code": "B41J11/13",
+      "level": 2,
+      "parent": "B41J11/02",
+      "ja": "バッキングまたはブランケット（ローラー・プラテン用Ｂ４１Ｊ１１／０５７）［３］",
+      "en": "Backings or blankets(for roller platens <b>B41J11/057</b>)",
+      "count": 29,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J11/14": {
+      "code": "B41J11/14",
+      "level": 2,
+      "parent": "B41J11/02",
+      "ja": "プラテンシフト機構；その駆動歯車",
+      "en": "Platen-shift mechanisms; Driving gear therefor",
+      "count": 1140,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J11/16": {
+      "code": "B41J11/16",
+      "level": 2,
+      "parent": "B41J11/02",
+      "ja": "平衡手段をもつもの",
+      "en": "with balancing means",
+      "count": 39,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J11/18": {
+      "code": "B41J11/18",
+      "level": 1,
+      "parent": "B41J11/00",
+      "ja": "プラテン印打装置",
+      "en": "Platen-impression arrangements",
+      "count": 176,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J11/20": {
+      "code": "B41J11/20",
+      "level": 1,
+      "parent": "B41J11/00",
+      "ja": "印打力の調整，用紙の枚数調整，摩耗または心出しのためのプラテンの調整",
+      "en": "Platen adjustments for varying the strength of impression, for a varying number of papers, for wear or for alignment",
+      "count": 1629,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J11/22": {
+      "code": "B41J11/22",
+      "level": 1,
+      "parent": "B41J11/00",
+      "ja": "ペーパーキャリッジガイドまたはレース",
+      "en": "Paper-carriage guides or races",
+      "count": 399,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J11/24": {
+      "code": "B41J11/24",
+      "level": 1,
+      "parent": "B41J11/00",
+      "ja": "送りローラまたはプラテン用の止め金，ブレーキ，または継手",
+      "en": "Detents, brakes, or couplings for feed rollers or platens",
+      "count": 758,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J11/26": {
+      "code": "B41J11/26",
+      "level": 1,
+      "parent": "B41J11/00",
+      "ja": "ピン送り",
+      "en": "Pin feeds",
+      "count": 1510,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J11/27": {
+      "code": "B41J11/27",
+      "level": 2,
+      "parent": "B41J11/26",
+      "ja": "プラテン・ローラの上部または内部にあるもの",
+      "en": "on or within the platen-rollers",
+      "count": 126,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J11/28": {
+      "code": "B41J11/28",
+      "level": 2,
+      "parent": "B41J11/26",
+      "ja": "ピン・ホイール",
+      "en": "Pin wheels",
+      "count": 162,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J11/30": {
+      "code": "B41J11/30",
+      "level": 2,
+      "parent": "B41J11/26",
+      "ja": "ホイール以外のピン送り要素，例．無端帯上のピン",
+      "en": "Pin traction elements other than wheels, e.g. pins on endless bands",
+      "count": 429,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J11/32": {
+      "code": "B41J11/32",
+      "level": 2,
+      "parent": "B41J11/26",
+      "ja": "ピン・ホイールまたは送り要素の調整，例．横方向",
+      "en": "Adjustment of pin wheels or traction elements, e.g. laterally",
+      "count": 235,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J11/34": {
+      "code": "B41J11/34",
+      "level": 2,
+      "parent": "B41J11/26",
+      "ja": "ピン送りと共働するガイド",
+      "en": "Guides coacting with pin feeds",
+      "count": 255,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J11/36": {
+      "code": "B41J11/36",
+      "level": 1,
+      "parent": "B41J11/00",
+      "ja": "空欄作成のための送りまたは長い送り；特定の行まで送ること，例．プラテンまたは送りローラの回転により",
+      "en": "Blanking or long feeds; Feeding to a particular line, e.g. by rotation of platen or feed roller",
+      "count": 531,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J11/38": {
+      "code": "B41J11/38",
+      "level": 2,
+      "parent": "B41J11/36",
+      "ja": "手動式送り装置",
+      "en": "Manually-operated feeding devices",
+      "count": 380,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J11/40": {
+      "code": "B41J11/40",
+      "level": 2,
+      "parent": "B41J11/36",
+      "ja": "楽譜プリンティング用に特に適合させたもの",
+      "en": "specially adapted for printing musical scores",
+      "count": 8,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J11/42": {
+      "code": "B41J11/42",
+      "level": 2,
+      "parent": "B41J11/36",
+      "ja": "制御",
+      "en": "Controlling",
+      "count": 10675,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J11/44": {
+      "code": "B41J11/44",
+      "level": 3,
+      "parent": "B41J11/42",
+      "ja": "用紙送り装置の動きに連動する装置，例．プログラムまたはコンタクトホイール，によるもの，例．プラテン回転［２００６．０１］",
+      "en": "by devices, e.g. program tape or contact wheel, moved in correspondence with movement of paper-feeding devices, e.g. platen rotation",
+      "count": 540,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J11/46": {
+      "code": "B41J11/46",
+      "level": 3,
+      "parent": "B41J11/42",
+      "ja": "送られている用紙上のマークによるもの",
+      "en": "by marks or formations on the paper being fed",
+      "count": 915,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J11/48": {
+      "code": "B41J11/48",
+      "level": 1,
+      "parent": "B41J11/00",
+      "ja": "２枚またはそれ以上の用紙または組になった用紙を使う圧縮された記録紙，勘定書，または類似物用の装置",
+      "en": "Apparatus for condensed record, tally strip, or like work using two or more papers, or sets of papers",
+      "count": 2189,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J11/50": {
+      "code": "B41J11/50",
+      "level": 2,
+      "parent": "B41J11/48",
+      "ja": "２枚またはそれ以上の用紙がプリンティング位置へ同じ方向で別々に送られるもの",
+      "en": "in which two or more papers or sets are separately fed in the same direction towards the printing position",
+      "count": 282,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J11/51": {
+      "code": "B41J11/51",
+      "level": 3,
+      "parent": "B41J11/50",
+      "ja": "異なった送り速度をもつもの［３］",
+      "en": "with different feed rates",
+      "count": 27,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J11/52": {
+      "code": "B41J11/52",
+      "level": 2,
+      "parent": "B41J11/48",
+      "ja": "１枚の用紙または１組の用紙は他方に相対的に横方向に移動するもの",
+      "en": "in which one paper or set is moved transversely relative to another",
+      "count": 19,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J11/53": {
+      "code": "B41J11/53",
+      "level": 3,
+      "parent": "B41J11/52",
+      "ja": "１枚またはそれ以上の補助的な用紙または組を交換する間１枚の用紙または組を所定位置に保持する装置",
+      "en": "Devices for holding in place one paper or set during replacement of one or more of the auxiliary papers or sets",
+      "count": 19,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J11/54": {
+      "code": "B41J11/54",
+      "level": 2,
+      "parent": "B41J11/48",
+      "ja": "１枚の用紙または組が装置の前方からプリンティング位置へ送られるもの",
+      "en": "in which one paper or set is fed towards printing position from the front of the apparatus",
+      "count": 252,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J11/55": {
+      "code": "B41J11/55",
+      "level": 3,
+      "parent": "B41J11/54",
+      "ja": "１枚の用紙または組を調整する手段をもつもの［３］",
+      "en": "with means for adjusting a paper or set",
+      "count": 23,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J11/56": {
+      "code": "B41J11/56",
+      "level": 1,
+      "parent": "B41J11/00",
+      "ja": "タイプライタの収納または運搬を容易にするために特に構成されたもの",
+      "en": "specially constructed to facilitate storage or transport of typewriter",
+      "count": 39,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J11/58": {
+      "code": "B41J11/58",
+      "level": 1,
+      "parent": "B41J11/00",
+      "ja": "シートまたはジグザグ折りのウエブ用の供給ホルダー，例．たな板，テーブル，巻き物，パイル・ホルダー",
+      "en": "Supply holders for sheets or fan-folded webs, e.g. shelves, tables, scrolls, pile holders",
+      "count": 1657,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J11/60": {
+      "code": "B41J11/60",
+      "level": 1,
+      "parent": "B41J11/00",
+      "ja": "抹消または修正テーブル",
+      "en": "Erasing or correcting tables",
+      "count": 117,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J11/62": {
+      "code": "B41J11/62",
+      "level": 1,
+      "parent": "B41J11/00",
+      "ja": "保護物または遮蔽物",
+      "en": "Shields or masks",
+      "count": 786,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J11/64": {
+      "code": "B41J11/64",
+      "level": 1,
+      "parent": "B41J11/00",
+      "ja": "スケールまたはインジケータを使用するもの",
+      "en": "Applications of scales or indicators",
+      "count": 177,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J11/66": {
+      "code": "B41J11/66",
+      "level": 1,
+      "parent": "B41J11/00",
+      "ja": "切断装置を使用するもの",
+      "en": "Applications of cutting devices",
+      "count": 4028,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J11/68": {
+      "code": "B41J11/68",
+      "level": 2,
+      "parent": "B41J11/66",
+      "ja": "用紙の送りの方向に平行に切断するもの",
+      "en": "cutting parallel to the direction of paper feed",
+      "count": 437,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J11/70": {
+      "code": "B41J11/70",
+      "level": 2,
+      "parent": "B41J11/66",
+      "ja": "用紙の送りの方向に直角に切断するもの",
+      "en": "cutting perpendicular to the direction of paper feed",
+      "count": 6266,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J13/00": {
+      "code": "B41J13/00",
+      "level": 0,
+      "parent": "B41J",
+      "ja": "短い長さのコピー用紙，例．シート，を支持または取扱うのに特に適した装置",
+      "en": "Devices or arrangements specially adapted for supporting or handling copy material in short lengths, e.g. sheets",
+      "count": 15732,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J13/02": {
+      "code": "B41J13/02",
+      "level": 1,
+      "parent": "B41J13/00",
+      "ja": "ローラ（ローラ・プラテンＢ４１Ｊ１１／０４）",
+      "en": "Rollers(roller platens <b>B41J11/04</b>)",
+      "count": 4887,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J13/03": {
+      "code": "B41J13/03",
+      "level": 2,
+      "parent": "B41J13/02",
+      "ja": "被動されるもの，例．プラテンから分離している送りローラ",
+      "en": "driven, e.g. feed rollers separate from platen",
+      "count": 518,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J13/036": {
+      "code": "B41J13/036",
+      "level": 2,
+      "parent": "B41J13/02",
+      "ja": "１個のローラ・プラテンと協働するもの［３］",
+      "en": "co-operating with a roller platen",
+      "count": 387,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J13/042": {
+      "code": "B41J13/042",
+      "level": 3,
+      "parent": "B41J13/036",
+      "ja": "各々が別個のキャリヤに装着された前と後のローラまたは組になった前もしくは後のローラ［３］",
+      "en": "Front and rear rollers or sets of front or rear rollers each mounted on a separate carrier",
+      "count": 47,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J13/048": {
+      "code": "B41J13/048",
+      "level": 3,
+      "parent": "B41J13/036",
+      "ja": "ともに共通のキャリアに装着されている前と後のローラ［３］",
+      "en": "Front and rear rollers both mounted on a common carrier",
+      "count": 71,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J13/054": {
+      "code": "B41J13/054",
+      "level": 4,
+      "parent": "B41J13/048",
+      "ja": "ローラ・プラテンと同心的なペーパー・エプロンに配置されたもの［３］",
+      "en": "on the paper apron concentric with the roller platen",
+      "count": 46,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J13/076": {
+      "code": "B41J13/076",
+      "level": 2,
+      "parent": "B41J13/02",
+      "ja": "ローラの構成；それに対する軸受",
+      "en": "Construction of rollers; Bearings therefor",
+      "count": 2051,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J13/08": {
+      "code": "B41J13/08",
+      "level": 1,
+      "parent": "B41J13/00",
+      "ja": "バンドまたは類似の送り機構",
+      "en": "Bands or like feeding devices",
+      "count": 1238,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J13/10": {
+      "code": "B41J13/10",
+      "level": 1,
+      "parent": "B41J13/00",
+      "ja": "シートホルダー，リテイナー，または固定ガイド",
+      "en": "Sheet holders, retainers, or stationary guides",
+      "count": 7730,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J13/12": {
+      "code": "B41J13/12",
+      "level": 2,
+      "parent": "B41J13/10",
+      "ja": "カード，封筒，または類似物に特に適合するもの",
+      "en": "specially adapted for cards, envelopes, or the like",
+      "count": 1031,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J13/14": {
+      "code": "B41J13/14",
+      "level": 2,
+      "parent": "B41J13/10",
+      "ja": "エプロンまたはガイド",
+      "en": "Aprons or guides",
+      "count": 552,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J13/16": {
+      "code": "B41J13/16",
+      "level": 3,
+      "parent": "B41J13/14",
+      "ja": "シートの挿入または取り外しのために可動のもの",
+      "en": "movable for insertion or release of sheets",
+      "count": 247,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J13/18": {
+      "code": "B41J13/18",
+      "level": 3,
+      "parent": "B41J13/14",
+      "ja": "ローラ・プラテンと同心的のもの",
+      "en": "concentric with roller platen",
+      "count": 39,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J13/20": {
+      "code": "B41J13/20",
+      "level": 2,
+      "parent": "B41J13/10",
+      "ja": "ベール",
+      "en": "Bails",
+      "count": 366,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J13/22": {
+      "code": "B41J13/22",
+      "level": 2,
+      "parent": "B41J13/10",
+      "ja": "クランプまたはグリッパー",
+      "en": "Clamps or grippers",
+      "count": 1615,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J13/24": {
+      "code": "B41J13/24",
+      "level": 2,
+      "parent": "B41J13/10",
+      "ja": "用紙を支持または保持するストリップ",
+      "en": "Strips for supporting or holding papers",
+      "count": 198,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J13/26": {
+      "code": "B41J13/26",
+      "level": 1,
+      "parent": "B41J13/00",
+      "ja": "整合装置",
+      "en": "Registering devices",
+      "count": 1921,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J13/28": {
+      "code": "B41J13/28",
+      "level": 2,
+      "parent": "B41J13/26",
+      "ja": "フロント・レイ，ストップ，またはゲージ",
+      "en": "Front lays, stops, or gauges",
+      "count": 142,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J13/30": {
+      "code": "B41J13/30",
+      "level": 2,
+      "parent": "B41J13/26",
+      "ja": "サイド・レイまたはゲージ",
+      "en": "Side lays or gauges",
+      "count": 130,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J13/32": {
+      "code": "B41J13/32",
+      "level": 2,
+      "parent": "B41J13/26",
+      "ja": "一動作でシートを２方向に位置ぎめする手段，例．フォーマット調整またはシートの直交方向の位置決め",
+      "en": "Means for positioning sheets in two directions under one control, e.g. for format control or orthogonal sheet positioning",
+      "count": 134,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J15/00": {
+      "code": "B41J15/00",
+      "level": 0,
+      "parent": "B41J",
+      "ja": "連続した形態のコピー用紙，例．ウエブ，を支持または取扱うのに特に適した装置",
+      "en": "Devices or arrangements specially adapted for supporting or handling copy material in continuous form, e.g. webs",
+      "count": 3121,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J15/02": {
+      "code": "B41J15/02",
+      "level": 1,
+      "parent": "B41J15/00",
+      "ja": "ウエブ・ロールまたはスピンドル；ウエブのコアまたはスピンドルへの取り付け",
+      "en": "Web rolls or spindles; Attaching webs to cores or spindles",
+      "count": 920,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J15/04": {
+      "code": "B41J15/04",
+      "level": 1,
+      "parent": "B41J15/00",
+      "ja": "支持，送り，またはガイド装置；ウエブ・ロールまたはスピンドルの取り付け",
+      "en": "Supporting, feeding, or guiding devices; Mountings for web rolls or spindles",
+      "count": 15160,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J15/06": {
+      "code": "B41J15/06",
+      "level": 2,
+      "parent": "B41J15/04",
+      "ja": "固定キャリッジをもつプリンターに適用されることを特徴とするもの",
+      "en": "characterised by being applied to printers having stationary carriages",
+      "count": 332,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J15/08": {
+      "code": "B41J15/08",
+      "level": 2,
+      "parent": "B41J15/04",
+      "ja": "横方向に動くキャリッジをもつプリンターに適用されることを特徴とするもの",
+      "en": "characterised by being applied to printers having transversely-moving carriages",
+      "count": 121,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J15/10": {
+      "code": "B41J15/10",
+      "level": 3,
+      "parent": "B41J15/08",
+      "ja": "およびキャリッジに装着されたもの",
+      "en": "and mounted on the carriage",
+      "count": 109,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J15/12": {
+      "code": "B41J15/12",
+      "level": 3,
+      "parent": "B41J15/08",
+      "ja": "およびキャリッジに結合しているもの",
+      "en": "and coupled to the carriage",
+      "count": 55,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J15/14": {
+      "code": "B41J15/14",
+      "level": 3,
+      "parent": "B41J15/08",
+      "ja": "およびキャリッジから分離しているもの",
+      "en": "and detached from the carriage",
+      "count": 443,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J15/16": {
+      "code": "B41J15/16",
+      "level": 1,
+      "parent": "B41J15/00",
+      "ja": "ウエブを緊張させる手段あるいは巻取る手段",
+      "en": "Means for tensioning or winding the web",
+      "count": 3921,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J15/18": {
+      "code": "B41J15/18",
+      "level": 1,
+      "parent": "B41J15/00",
+      "ja": "多数のウエブ送り装置",
+      "en": "Multiple-web feeding apparatus",
+      "count": 250,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J15/20": {
+      "code": "B41J15/20",
+      "level": 2,
+      "parent": "B41J15/18",
+      "ja": "プリンティング期間中重ねられたウエブのためのもの［２００６．０１］",
+      "en": "for webs superimposed during printing",
+      "count": 99,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J15/22": {
+      "code": "B41J15/22",
+      "level": 2,
+      "parent": "B41J15/18",
+      "ja": "プリンティング期間中ウエブを別々の経路で送るもの",
+      "en": "for feeding webs in separate paths during printing",
+      "count": 140,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J15/24": {
+      "code": "B41J15/24",
+      "level": 2,
+      "parent": "B41J15/18",
+      "ja": "ウエブを互にそろえる手段をもつもの",
+      "en": "with means for registering the webs with each other",
+      "count": 80,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J17/00": {
+      "code": "B41J17/00",
+      "level": 0,
+      "parent": "B41J",
+      "ja": "頁巾の複写材料，例．カーボン紙，を取扱う機構（複写装置用Ｂ４１Ｌ）［２００６．０１］",
+      "en": "Mechanisms for manipulating page-width impression-transfer material, e.g. carbon paper(in manifolding devices <b>B41L</b>)",
+      "count": 933,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J17/02": {
+      "code": "B41J17/02",
+      "level": 1,
+      "parent": "B41J17/00",
+      "ja": "送り機構",
+      "en": "Feeding mechanisms",
+      "count": 1087,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J17/04": {
+      "code": "B41J17/04",
+      "level": 2,
+      "parent": "B41J17/02",
+      "ja": "記録紙の送りに従動する送り，例．両者が同時に動くもの",
+      "en": "Feed dependent on the record-paper feed, e.g. both moved at the same time",
+      "count": 294,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J17/06": {
+      "code": "B41J17/06",
+      "level": 3,
+      "parent": "B41J17/04",
+      "ja": "“クリープ”送り，すなわち記録紙よりも緩速で送られる複写材料",
+      "en": "\"Creep\" feed, i.e. impression-transfer material fed slower than the record paper",
+      "count": 126,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J17/07": {
+      "code": "B41J17/07",
+      "level": 3,
+      "parent": "B41J17/04",
+      "ja": "電磁的に制御されるもの",
+      "en": "electromagnetically controlled",
+      "count": 63,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J17/08": {
+      "code": "B41J17/08",
+      "level": 2,
+      "parent": "B41J17/02",
+      "ja": "記録紙の送りから独立した送り",
+      "en": "Feed independent of the record-paper feed",
+      "count": 149,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J17/10": {
+      "code": "B41J17/10",
+      "level": 3,
+      "parent": "B41J17/08",
+      "ja": "電磁的に制御されるもの",
+      "en": "electromagnetically controlled",
+      "count": 102,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J17/12": {
+      "code": "B41J17/12",
+      "level": 2,
+      "parent": "B41J17/02",
+      "ja": "最大寿命を確保する特殊な装置",
+      "en": "Special adaptations for ensuring maximum life",
+      "count": 347,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J17/14": {
+      "code": "B41J17/14",
+      "level": 2,
+      "parent": "B41J17/02",
+      "ja": "送り方向を転換する自動装置",
+      "en": "Automatic arrangements for reversing the feed direction",
+      "count": 148,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J17/16": {
+      "code": "B41J17/16",
+      "level": 1,
+      "parent": "B41J17/00",
+      "ja": "複写材料用の機械のホルダー",
+      "en": "Holders in the machine for sheets of impression-transfer material",
+      "count": 83,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J17/18": {
+      "code": "B41J17/18",
+      "level": 2,
+      "parent": "B41J17/16",
+      "ja": "プラテン方向およびプラテンから離れる方向へ旋回可能のもの",
+      "en": "pivotable to and from the platen",
+      "count": 44,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J17/20": {
+      "code": "B41J17/20",
+      "level": 2,
+      "parent": "B41J17/16",
+      "ja": "プラテン方向およびプラテンから離れる方向へ滑動可能のもの",
+      "en": "slidable to and from the platen",
+      "count": 13,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J17/22": {
+      "code": "B41J17/22",
+      "level": 1,
+      "parent": "B41J17/00",
+      "ja": "ウエブまたは複写材料の供給装置",
+      "en": "Supply arrangements for webs or impression-transfer material",
+      "count": 212,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J17/24": {
+      "code": "B41J17/24",
+      "level": 2,
+      "parent": "B41J17/22",
+      "ja": "機械に取り付けられたリールまたはスプールからウエブを供給するもの［２００６．０１］",
+      "en": "Webs supplied from reels or spools attached to the machine",
+      "count": 930,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J17/26": {
+      "code": "B41J17/26",
+      "level": 2,
+      "parent": "B41J17/22",
+      "ja": "機械に取り付けられたトレーまたは類似の支持体からウエブを供給するもの",
+      "en": "Webs supplied from trays or like supports attached to the machines",
+      "count": 23,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J17/28": {
+      "code": "B41J17/28",
+      "level": 1,
+      "parent": "B41J17/00",
+      "ja": "複写材料用のガイドの配置",
+      "en": "Arrangements of guides for the impression-transfer material",
+      "count": 178,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J17/30": {
+      "code": "B41J17/30",
+      "level": 1,
+      "parent": "B41J17/00",
+      "ja": "複写材料用のガイドの構成",
+      "en": "Constructions of guides for the impression-transfer material",
+      "count": 877,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J17/32": {
+      "code": "B41J17/32",
+      "level": 1,
+      "parent": "B41J17/00",
+      "ja": "複写材料機構用の取り外し自在のキャリヤまたはホルダー",
+      "en": "Detachable carriers or holders for impression-transfer material mechanism",
+      "count": 2326,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J17/34": {
+      "code": "B41J17/34",
+      "level": 1,
+      "parent": "B41J17/00",
+      "ja": "複写材料用裏張り，例．摩擦を減少させるシート，こん跡防止用保護材",
+      "en": "Backings for impression-transfer material, e.g. sheets for reducing friction, shields for preventing imprint",
+      "count": 36,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J17/36": {
+      "code": "B41J17/36",
+      "level": 1,
+      "parent": "B41J17/00",
+      "ja": "複写材料の破損または使い尽しに応答する警報器，指示器または送り停止装置",
+      "en": "Alarms, indicators, or feed-disabling devices responsive to material breakage or exhaustion",
+      "count": 1177,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J17/38": {
+      "code": "B41J17/38",
+      "level": 1,
+      "parent": "B41J17/00",
+      "ja": "使用後の複写材料を取扱うもの",
+      "en": "for dealing with the impression-transfer material after use",
+      "count": 644,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J17/40": {
+      "code": "B41J17/40",
+      "level": 2,
+      "parent": "B41J17/38",
+      "ja": "再使用のためにシートを取り出すもの",
+      "en": "for retracting sheets for re-use",
+      "count": 17,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J17/42": {
+      "code": "B41J17/42",
+      "level": 2,
+      "parent": "B41J17/38",
+      "ja": "ウエブ用",
+      "en": "for webs",
+      "count": 16,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J19/00": {
+      "code": "B41J19/00",
+      "level": 0,
+      "parent": "B41J",
+      "ja": "字間またはライン・スペース機構［２００６．０１］",
+      "en": "Character- or line-spacing mechanisms",
+      "count": 1082,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J19/02": {
+      "code": "B41J19/02",
+      "level": 1,
+      "parent": "B41J19/00",
+      "ja": "緩速装置をもつもの，例．ブレーキ",
+      "en": "with retarding devices, e.g. brakes",
+      "count": 123,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J19/04": {
+      "code": "B41J19/04",
+      "level": 1,
+      "parent": "B41J19/00",
+      "ja": "消音または緩衝装置またはその手段（Ｂ４１Ｊ１９／３８が優先）",
+      "en": "Sound-deadening or shock-absorbing devices or measures therein(<b>B41J19/38</b> takes precedence)",
+      "count": 342,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J19/06": {
+      "code": "B41J19/06",
+      "level": 2,
+      "parent": "B41J19/04",
+      "ja": "機構の弾性装着",
+      "en": "Resilient mounting of mechanism",
+      "count": 37,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J19/08": {
+      "code": "B41J19/08",
+      "level": 2,
+      "parent": "B41J19/04",
+      "ja": "緩衝材，ばね，または同様のキャリッジ・ストップ",
+      "en": "Buffers, springs, or like carriage stops",
+      "count": 49,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J19/10": {
+      "code": "B41J19/10",
+      "level": 2,
+      "parent": "B41J19/04",
+      "ja": "ダッシュポット",
+      "en": "Dash-pots",
+      "count": 53,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J19/12": {
+      "code": "B41J19/12",
+      "level": 2,
+      "parent": "B41J19/04",
+      "ja": "特殊材料製または特殊構成して音または衝撃を減少できる伝動装置",
+      "en": "Gearing made of special material or specially constructed to reduce sound or shock",
+      "count": 26,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J19/14": {
+      "code": "B41J19/14",
+      "level": 1,
+      "parent": "B41J19/00",
+      "ja": "一方向に行間または字間を定める手段をもつもの",
+      "en": "with means for effecting line or character spacing in either direction",
+      "count": 698,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J19/16": {
+      "code": "B41J19/16",
+      "level": 1,
+      "parent": "B41J19/00",
+      "ja": "円状，らせん状，または対角線状のプリンティング装置用の特殊なスペース機構",
+      "en": "Special spacing mechanisms for circular, spiral, or diagonal-printing apparatus",
+      "count": 84,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J19/18": {
+      "code": "B41J19/18",
+      "level": 1,
+      "parent": "B41J19/00",
+      "ja": "字間スペースまたはバック・スペース機構；キャリッジのもどしまたはそのリリース機構",
+      "en": "Character-spacing or back-spacing mechanisms; Carriage-return or release devices therefor",
+      "count": 5719,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J19/20": {
+      "code": "B41J19/20",
+      "level": 2,
+      "parent": "B41J19/18",
+      "ja": "確動送り式字間スペース機構（エスケープメントによる制御Ｂ４１Ｊ１９／５２）",
+      "en": "Positive-feed character-spacing mechanisms(controlled by escapements <b>B41J19/52</b>)",
+      "count": 3593,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J19/22": {
+      "code": "B41J19/22",
+      "level": 3,
+      "parent": "B41J19/20",
+      "ja": "摩擦または把持手段によるもの",
+      "en": "acting by friction or gripping effect",
+      "count": 15,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J19/24": {
+      "code": "B41J19/24",
+      "level": 3,
+      "parent": "B41J19/20",
+      "ja": "爪またはラチェット",
+      "en": "Pawl and ratchet",
+      "count": 24,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J19/26": {
+      "code": "B41J19/26",
+      "level": 4,
+      "parent": "B41J19/24",
+      "ja": "紙または類似物のキャリッジを動かすもの",
+      "en": "moving a paper or like carriage",
+      "count": 18,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J19/28": {
+      "code": "B41J19/28",
+      "level": 4,
+      "parent": "B41J19/24",
+      "ja": "ウエブまたはシート状の紙を動かすもの，例．固定支持体上を動かすもの",
+      "en": "moving a paper or like web or strip, e.g. over a stationary support",
+      "count": 3,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J19/30": {
+      "code": "B41J19/30",
+      "level": 3,
+      "parent": "B41J19/20",
+      "ja": "電磁的に作動する機構",
+      "en": "Electromagnetically-operated mechanisms",
+      "count": 731,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J19/32": {
+      "code": "B41J19/32",
+      "level": 3,
+      "parent": "B41J19/20",
+      "ja": "差動または可変スペース機構",
+      "en": "Differential or variable-spacing arrangements",
+      "count": 520,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J19/34": {
+      "code": "B41J19/34",
+      "level": 2,
+      "parent": "B41J19/18",
+      "ja": "エスケープメントによる字間スペース機構",
+      "en": "Escapement-feed character-spacing mechanisms",
+      "count": 60,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J19/36": {
+      "code": "B41J19/36",
+      "level": 3,
+      "parent": "B41J19/34",
+      "ja": "駆動機構，例．キャリッジの戻り行程をばねで行うもの",
+      "en": "Driving mechanisms, e.g. springs stressed during carriage return",
+      "count": 87,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J19/38": {
+      "code": "B41J19/38",
+      "level": 4,
+      "parent": "B41J19/36",
+      "ja": "戻るとき音が出ない仕掛をもつもの",
+      "en": "adapted for silent return",
+      "count": 23,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J19/40": {
+      "code": "B41J19/40",
+      "level": 3,
+      "parent": "B41J19/34",
+      "ja": "単一の爪または類似の止め金をもつエスケープメント",
+      "en": "Escapements having a single pawl or like detent",
+      "count": 48,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J19/42": {
+      "code": "B41J19/42",
+      "level": 3,
+      "parent": "B41J19/34",
+      "ja": "２個の爪または類似の止め金をもつエスケープメント",
+      "en": "Escapements having two pawls or like detents",
+      "count": 58,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J19/44": {
+      "code": "B41J19/44",
+      "level": 4,
+      "parent": "B41J19/42",
+      "ja": "２個の有歯部材と共働するもの，例．ラックまたはホイール",
+      "en": "coacting with two toothed members, e.g. racks or wheels",
+      "count": 15,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J19/46": {
+      "code": "B41J19/46",
+      "level": 4,
+      "parent": "B41J19/42",
+      "ja": "および単一のロッカーに設けられたもの",
+      "en": "and mounted on a single rocker",
+      "count": 64,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J19/48": {
+      "code": "B41J19/48",
+      "level": 4,
+      "parent": "B41J19/42",
+      "ja": "および単一の滑り部材に設けられたもの",
+      "en": "and mounted on a single slider",
+      "count": 3,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J19/50": {
+      "code": "B41J19/50",
+      "level": 3,
+      "parent": "B41J19/34",
+      "ja": "電磁的に制御されるエスケープメント",
+      "en": "Electromagnetically-controlled escapements",
+      "count": 19,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J19/52": {
+      "code": "B41J19/52",
+      "level": 3,
+      "parent": "B41J19/34",
+      "ja": "確動送り機構を制御するエスケープメント",
+      "en": "Escapements controlling positive-feed mechanism",
+      "count": 9,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J19/54": {
+      "code": "B41J19/54",
+      "level": 3,
+      "parent": "B41J19/34",
+      "ja": "ユニバーサル・バーの構成",
+      "en": "Construction of universal bars",
+      "count": 84,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J19/56": {
+      "code": "B41J19/56",
+      "level": 3,
+      "parent": "B41J19/34",
+      "ja": "ウエブまたはシートの送りを制御するエスケープメント",
+      "en": "Escapements controlling web or strip feed",
+      "count": 3,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J19/58": {
+      "code": "B41J19/58",
+      "level": 3,
+      "parent": "B41J19/34",
+      "ja": "差動または可変スペース機構",
+      "en": "Differential or variable-spacing arrangements",
+      "count": 121,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J19/60": {
+      "code": "B41J19/60",
+      "level": 2,
+      "parent": "B41J19/18",
+      "ja": "補助的送りまたは調整装置",
+      "en": "Auxiliary feed or adjustment devices",
+      "count": 114,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J19/62": {
+      "code": "B41J19/62",
+      "level": 3,
+      "parent": "B41J19/60",
+      "ja": "バック・スペース用",
+      "en": "for back-spacing",
+      "count": 101,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J19/64": {
+      "code": "B41J19/64",
+      "level": 3,
+      "parent": "B41J19/60",
+      "ja": "行間設定用",
+      "en": "for justifying",
+      "count": 427,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J19/66": {
+      "code": "B41J19/66",
+      "level": 2,
+      "parent": "B41J19/18",
+      "ja": "キャリッジ・リリース機構",
+      "en": "Carriage-release mechanisms",
+      "count": 86,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J19/68": {
+      "code": "B41J19/68",
+      "level": 2,
+      "parent": "B41J19/18",
+      "ja": "キャリッジ・リターン機構，例．手動式",
+      "en": "Carriage-return mechanisms, e.g. manually actuated",
+      "count": 249,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J19/70": {
+      "code": "B41J19/70",
+      "level": 3,
+      "parent": "B41J19/68",
+      "ja": "動力式",
+      "en": "power driven",
+      "count": 71,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J19/72": {
+      "code": "B41J19/72",
+      "level": 4,
+      "parent": "B41J19/70",
+      "ja": "字間スペース期間中は動力が貯蔵されるもの",
+      "en": "with power stored during character spacing",
+      "count": 37,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J19/74": {
+      "code": "B41J19/74",
+      "level": 2,
+      "parent": "B41J19/18",
+      "ja": "ケース・シフトまたは同様の動作中字間スペースまたはバック・スペース要素を係合させておく特殊手段をもつもの",
+      "en": "with special means to maintain character-spacing or back-spacing elements in engagement during case-shift or like movement",
+      "count": 102,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J19/76": {
+      "code": "B41J19/76",
+      "level": 1,
+      "parent": "B41J19/00",
+      "ja": "ライン・スペース機構（特殊な行送り，例．長い送りＢ４１Ｊ１１／３６）",
+      "en": "Line-spacing mechanisms(special line-feeds, e.g. long feeds, <b>B41J11/36</b>)",
+      "count": 927,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J19/78": {
+      "code": "B41J19/78",
+      "level": 2,
+      "parent": "B41J19/76",
+      "ja": "確動送り機構",
+      "en": "Positive-feed mechanisms",
+      "count": 682,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J19/80": {
+      "code": "B41J19/80",
+      "level": 3,
+      "parent": "B41J19/78",
+      "ja": "爪－ラチェット機構",
+      "en": "Pawl-and-ratchet mechanisms",
+      "count": 96,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J19/82": {
+      "code": "B41J19/82",
+      "level": 4,
+      "parent": "B41J19/80",
+      "ja": "紙または類似物のキャリッジを動かすもの",
+      "en": "moving a paper or like carriage",
+      "count": 26,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J19/84": {
+      "code": "B41J19/84",
+      "level": 5,
+      "parent": "B41J19/82",
+      "ja": "ライン・スペースのために回転するローラをもつもの",
+      "en": "in the form of a roller rotated for line spacing",
+      "count": 168,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J19/86": {
+      "code": "B41J19/86",
+      "level": 6,
+      "parent": "B41J19/84",
+      "ja": "爪が常時はラチェットと係合しているもの",
+      "en": "the pawl being normally in engagement with the ratchet",
+      "count": 21,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J19/88": {
+      "code": "B41J19/88",
+      "level": 4,
+      "parent": "B41J19/80",
+      "ja": "タイプ・キャリッジを動かすもの",
+      "en": "moving a type carriage",
+      "count": 6,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J19/90": {
+      "code": "B41J19/90",
+      "level": 4,
+      "parent": "B41J19/80",
+      "ja": "紙または類似物のウエブまたはシートを動かすもの，例．固定支持体上をキャリッジの戻り以外の運動に応じて自動的に動かすもの",
+      "en": "moving a paper or like web or strip, e.g. over a stationary support, automatically in response to movements other than carriage return",
+      "count": 11,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J19/92": {
+      "code": "B41J19/92",
+      "level": 3,
+      "parent": "B41J19/78",
+      "ja": "電磁的に作動される機構",
+      "en": "Electromagnetically-operated mechanisms",
+      "count": 280,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J19/94": {
+      "code": "B41J19/94",
+      "level": 3,
+      "parent": "B41J19/78",
+      "ja": "キャリッジの戻りに応じて自動的に働くもの",
+      "en": "automatically operated in response to carriage return",
+      "count": 254,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J19/96": {
+      "code": "B41J19/96",
+      "level": 3,
+      "parent": "B41J19/78",
+      "ja": "可変スペース機構",
+      "en": "Variable-spacing arrangements",
+      "count": 427,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J19/98": {
+      "code": "B41J19/98",
+      "level": 2,
+      "parent": "B41J19/76",
+      "ja": "エスケープメント送り機構",
+      "en": "Escapement-feed mechanisms",
+      "count": 12,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J21/00": {
+      "code": "B41J21/00",
+      "level": 0,
+      "parent": "B41J",
+      "ja": "作表装置；センタリングの取り方（キャリヤ・リリース機構Ｂ４１Ｊ１９／６６）［２００６．０１］",
+      "en": "Column, tabular or like printing arrangements; Means for centralising short lines (carriage-release mechanisms <b>B41J19/66</b>)",
+      "count": 14213,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J21/02": {
+      "code": "B41J21/02",
+      "level": 1,
+      "parent": "B41J21/00",
+      "ja": "ストップまたはストップ・ラック",
+      "en": "Stops or stop-racks",
+      "count": 124,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J21/04": {
+      "code": "B41J21/04",
+      "level": 1,
+      "parent": "B41J21/00",
+      "ja": "タブレター・ストップをセットしまたは払う機構",
+      "en": "Mechanisms for setting or restoring tabulation stops",
+      "count": 275,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J21/06": {
+      "code": "B41J21/06",
+      "level": 1,
+      "parent": "B41J21/00",
+      "ja": "ストップからの反発を防止する手段をもつもの",
+      "en": "with means for preventing rebound from stops",
+      "count": 17,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J21/08": {
+      "code": "B41J21/08",
+      "level": 1,
+      "parent": "B41J21/00",
+      "ja": "作表操作の開始，実行，スキッピング，または停止用機構；センタリングの取り方",
+      "en": "Mechanisms for initiating, effecting, skipping, or stopping tabulation movement; Means for centralising short lines",
+      "count": 163,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J21/10": {
+      "code": "B41J21/10",
+      "level": 1,
+      "parent": "B41J21/00",
+      "ja": "タブレター・ストップの通路に突出した中央，反対方向，または同等のストップをもつもの",
+      "en": "with central, counter, or equivalent stop projected into path of tabulation stops",
+      "count": 9,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J21/12": {
+      "code": "B41J21/12",
+      "level": 1,
+      "parent": "B41J21/00",
+      "ja": "電気的接点の配置を特徴とするもの",
+      "en": "characterised by arrangements of electrical contacts",
+      "count": 25,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J21/14": {
+      "code": "B41J21/14",
+      "level": 1,
+      "parent": "B41J21/00",
+      "ja": "種類別配置を特徴とするもの",
+      "en": "characterised by denominational arrangements",
+      "count": 84,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J21/16": {
+      "code": "B41J21/16",
+      "level": 1,
+      "parent": "B41J21/00",
+      "ja": "印字されている紙，アンダーシート，またはプラテン上のマークを読取ることによって制御するもの",
+      "en": "controlled by the sensing of marks or formations on the paper being typed, an undersheet, or the platen",
+      "count": 1358,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J21/17": {
+      "code": "B41J21/17",
+      "level": 1,
+      "parent": "B41J21/00",
+      "ja": "記憶情報により制御されるもの［５］",
+      "en": "controlled by stored information",
+      "count": 174,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J21/18": {
+      "code": "B41J21/18",
+      "level": 1,
+      "parent": "B41J21/00",
+      "ja": "スケールまたはインジケータの適用を特徴とするもの",
+      "en": "characterised by applications of scales or indicators",
+      "count": 136,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J23/00": {
+      "code": "B41J23/00",
+      "level": 0,
+      "parent": "B41J",
+      "ja": "装置または機構用動力駆動（Ｂ４１Ｊ７／７０，Ｂ４１Ｊ９／００が優先）",
+      "en": "Power drives for actions or mechanisms(<b>B41J9/00</b> take precedence)",
+      "count": 923,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J23/02": {
+      "code": "B41J23/02",
+      "level": 1,
+      "parent": "B41J23/00",
+      "ja": "機械的動力駆動",
+      "en": "Mechanical power drives",
+      "count": 1821,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J23/04": {
+      "code": "B41J23/04",
+      "level": 2,
+      "parent": "B41J23/02",
+      "ja": "連続運転する動力源にクラッチで結合された被動機構をもつもの",
+      "en": "with driven mechanism arranged to be clutched to continuously-operating power source",
+      "count": 310,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J23/06": {
+      "code": "B41J23/06",
+      "level": 3,
+      "parent": "B41J23/04",
+      "ja": "スナッチ・ロールによるもの",
+      "en": "by snatch rolls",
+      "count": 120,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J23/08": {
+      "code": "B41J23/08",
+      "level": 3,
+      "parent": "B41J23/04",
+      "ja": "１回転または部分回転クラッチによるもの",
+      "en": "by one-revolution or part-revolution clutches",
+      "count": 61,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J23/10": {
+      "code": "B41J23/10",
+      "level": 3,
+      "parent": "B41J23/04",
+      "ja": "および選択された位置で捕捉されるもの",
+      "en": "and arrested in selected position",
+      "count": 5,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J23/12": {
+      "code": "B41J23/12",
+      "level": 2,
+      "parent": "B41J23/02",
+      "ja": "回転ローラに係合するカムによって駆動される機構",
+      "en": "Mechanism driven by cams engaging rotating roller",
+      "count": 196,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J23/14": {
+      "code": "B41J23/14",
+      "level": 2,
+      "parent": "B41J23/02",
+      "ja": "揺動または往復動部材によって駆動される機構",
+      "en": "Mechanism driven through an oscillating or reciprocating member",
+      "count": 76,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J23/16": {
+      "code": "B41J23/16",
+      "level": 2,
+      "parent": "B41J23/02",
+      "ja": "動力手段によって張力を与えられたばねによって駆動される機構",
+      "en": "Mechanism driven by a spring tensioned by power means",
+      "count": 45,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J23/18": {
+      "code": "B41J23/18",
+      "level": 2,
+      "parent": "B41J23/02",
+      "ja": "連続的に循環する駆動装置",
+      "en": "Continuously-cycling drives",
+      "count": 21,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J23/20": {
+      "code": "B41J23/20",
+      "level": 1,
+      "parent": "B41J23/00",
+      "ja": "流体圧式動力駆動",
+      "en": "Fluid-pressure power drives",
+      "count": 42,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J23/22": {
+      "code": "B41J23/22",
+      "level": 2,
+      "parent": "B41J23/20",
+      "ja": "キーまたは活字選択用",
+      "en": "for key or like type selection",
+      "count": 36,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J23/24": {
+      "code": "B41J23/24",
+      "level": 2,
+      "parent": "B41J23/20",
+      "ja": "印字機構用",
+      "en": "for impression mechanisms",
+      "count": 20,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J23/26": {
+      "code": "B41J23/26",
+      "level": 2,
+      "parent": "B41J23/20",
+      "ja": "プラテンまたはキャリッジ移動用，例．ライン・スペース，字間スペース，またはキャリッジ・リターン用",
+      "en": "for platen or carriage movements, e.g. for line spacing, letter spacing, or carriage return",
+      "count": 27,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J23/28": {
+      "code": "B41J23/28",
+      "level": 2,
+      "parent": "B41J23/20",
+      "ja": "タイプ・キャリッジ移動用",
+      "en": "for type-carriage movements",
+      "count": 7,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J23/30": {
+      "code": "B41J23/30",
+      "level": 2,
+      "parent": "B41J23/20",
+      "ja": "ケース・シフト用",
+      "en": "for case shift",
+      "count": 5,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J23/32": {
+      "code": "B41J23/32",
+      "level": 1,
+      "parent": "B41J23/00",
+      "ja": "電磁的動力駆動，例．キー・レバーに適用したもの",
+      "en": "Electromagnetic power drives, e.g. applied to key levers",
+      "count": 240,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J23/34": {
+      "code": "B41J23/34",
+      "level": 2,
+      "parent": "B41J23/32",
+      "ja": "キー・レバー以外の要素に適用したもの",
+      "en": "applied to elements other than key levers",
+      "count": 53,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J23/36": {
+      "code": "B41J23/36",
+      "level": 3,
+      "parent": "B41J23/34",
+      "ja": "およびタイプ部材に働くもの",
+      "en": "and acting on type members",
+      "count": 40,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J23/38": {
+      "code": "B41J23/38",
+      "level": 3,
+      "parent": "B41J23/34",
+      "ja": "およびアライニングまたはケース・シフト機構に働くもの",
+      "en": "and acting on aligning or case-shift mechanisms",
+      "count": 9,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J25/00": {
+      "code": "B41J25/00",
+      "level": 0,
+      "parent": "B41J",
+      "ja": "他に分類されない装置または機構",
+      "en": "Actions or mechanisms not otherwise provided for",
+      "count": 4109,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J25/02": {
+      "code": "B41J25/02",
+      "level": 1,
+      "parent": "B41J25/00",
+      "ja": "特定目的のキー装置",
+      "en": "Key actions for specified purposes",
+      "count": 273,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J25/04": {
+      "code": "B41J25/04",
+      "level": 2,
+      "parent": "B41J25/02",
+      "ja": "バック・スペース",
+      "en": "Back-spacing",
+      "count": 32,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J25/06": {
+      "code": "B41J25/06",
+      "level": 2,
+      "parent": "B41J25/02",
+      "ja": "キャリッジ・リターン",
+      "en": "Carriage return",
+      "count": 16,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J25/08": {
+      "code": "B41J25/08",
+      "level": 2,
+      "parent": "B41J25/02",
+      "ja": "ケース・シフト",
+      "en": "Case shift",
+      "count": 97,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J25/10": {
+      "code": "B41J25/10",
+      "level": 2,
+      "parent": "B41J25/02",
+      "ja": "インキリボンの調整",
+      "en": "Ink-ribbon adjustment",
+      "count": 18,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J25/12": {
+      "code": "B41J25/12",
+      "level": 2,
+      "parent": "B41J25/02",
+      "ja": "字間スペース",
+      "en": "Character spacing",
+      "count": 40,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J25/14": {
+      "code": "B41J25/14",
+      "level": 2,
+      "parent": "B41J25/02",
+      "ja": "ライン・スペース",
+      "en": "Line spacing",
+      "count": 29,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J25/16": {
+      "code": "B41J25/16",
+      "level": 2,
+      "parent": "B41J25/02",
+      "ja": "単一キーによるライン・スペースおよびキャリッジ・リターン",
+      "en": "Line spacing and carriage return by a single key",
+      "count": 12,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J25/18": {
+      "code": "B41J25/18",
+      "level": 2,
+      "parent": "B41J25/02",
+      "ja": "作表",
+      "en": "Tabulating",
+      "count": 384,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J25/20": {
+      "code": "B41J25/20",
+      "level": 1,
+      "parent": "B41J25/00",
+      "ja": "識別マークプリンティング用の補助的印字機構，例．デッド・キーまたはハーフデッド・キーの機構の使用によるアクセント符号印字用，印刷電信機が受信していることを指示するためのマークプリンティング用",
+      "en": "Auxiliary type mechanisms for printing distinguishing marks, e.g. for accenting, using dead or half-dead key arrangements, for printing marks in telegraph printers to indicate that machine is receiving",
+      "count": 1086,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J25/22": {
+      "code": "B41J25/22",
+      "level": 1,
+      "parent": "B41J25/00",
+      "ja": "印字のために文字を揃えるもの［２００６．０１］",
+      "en": "for aligning characters for impression",
+      "count": 110,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J25/24": {
+      "code": "B41J25/24",
+      "level": 1,
+      "parent": "B41J25/00",
+      "ja": "ケースシフト機構；フォント・チェンジ装置［２００６．０１］",
+      "en": "Case-shift mechanisms; Fount-change arrangements",
+      "count": 1343,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J25/304": {
+      "code": "B41J25/304",
+      "level": 1,
+      "parent": "B41J25/00",
+      "ja": "紙面へ向う方向または逆方向へ動くプリントヘッドまたはキャリッジの全体が動く機構［２００６．０１］",
+      "en": "Bodily-movable mechanisms for print heads or carriages movable towards or from paper surface",
+      "count": 4999,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J25/308": {
+      "code": "B41J25/308",
+      "level": 2,
+      "parent": "B41J25/304",
+      "ja": "プリントギャップ調整機構を有するもの［５］",
+      "en": "with print gap adjustment mechanisms",
+      "count": 4159,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J25/312": {
+      "code": "B41J25/312",
+      "level": 2,
+      "parent": "B41J25/304",
+      "ja": "プリント圧力調整機構を有するもの，例．用紙押圧機構［５］",
+      "en": "with print pressure adjustment mechanisms, e.g. pressure-on-the-paper mechanisms",
+      "count": 1917,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J25/316": {
+      "code": "B41J25/316",
+      "level": 2,
+      "parent": "B41J25/304",
+      "ja": "紙面に相対的に傾く動作機構を有するもの［５］",
+      "en": "with tilting motion mechanisms relative to paper surface",
+      "count": 1941,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J25/32": {
+      "code": "B41J25/32",
+      "level": 1,
+      "parent": "B41J25/00",
+      "ja": "ローラが固定タイプ面と共働する印字機構",
+      "en": "Impression mechanisms in which a roller co-operates with stationary type-faces",
+      "count": 122,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J25/34": {
+      "code": "B41J25/34",
+      "level": 1,
+      "parent": "B41J25/00",
+      "ja": "全体が交換できるプリントヘッドまたはキャリッジ［２００６．０１］",
+      "en": "Bodily-changeable print heads or carriages",
+      "count": 1646,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J27/00": {
+      "code": "B41J27/00",
+      "level": 0,
+      "parent": "B41J",
+      "ja": "インキ塗布装置",
+      "en": "Inking apparatus",
+      "count": 1194,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J27/02": {
+      "code": "B41J27/02",
+      "level": 1,
+      "parent": "B41J27/00",
+      "ja": "パッドまたは回転ディスクによって供給されるインキをもつもの",
+      "en": "with ink applied by pads or rotary discs",
+      "count": 65,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J27/04": {
+      "code": "B41J27/04",
+      "level": 2,
+      "parent": "B41J27/02",
+      "ja": "パッドまたはディスク；それに対するインキ供給装置",
+      "en": "Pads or discs; Ink-supply arrangements therefor",
+      "count": 54,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J27/06": {
+      "code": "B41J27/06",
+      "level": 2,
+      "parent": "B41J27/02",
+      "ja": "パッドまたはディスクの最大寿命を確保する装置",
+      "en": "Arrangements to ensure maximum life of pads or discs",
+      "count": 5,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J27/08": {
+      "code": "B41J27/08",
+      "level": 2,
+      "parent": "B41J27/02",
+      "ja": "多色印字用装置",
+      "en": "Arrangements for multicolour work",
+      "count": 18,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J27/10": {
+      "code": "B41J27/10",
+      "level": 1,
+      "parent": "B41J27/00",
+      "ja": "ローラによって供給されるインキによるもの；それに対するインキ供給装置",
+      "en": "with ink applied by rollers; Ink-supply arrangements therefor",
+      "count": 622,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J27/12": {
+      "code": "B41J27/12",
+      "level": 2,
+      "parent": "B41J27/10",
+      "ja": "ローラ",
+      "en": "Rollers",
+      "count": 247,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J27/14": {
+      "code": "B41J27/14",
+      "level": 2,
+      "parent": "B41J27/10",
+      "ja": "多色印字用装置",
+      "en": "Arrangements for multicolour work",
+      "count": 184,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J27/16": {
+      "code": "B41J27/16",
+      "level": 1,
+      "parent": "B41J27/00",
+      "ja": "静電的または電磁的に定着されたインキによるもの，例．粉末状インキ",
+      "en": "with ink deposited electrostatically or electromagnetically, e.g. powdered ink",
+      "count": 100,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J27/18": {
+      "code": "B41J27/18",
+      "level": 2,
+      "parent": "B41J27/16",
+      "ja": "液体インキによるもの",
+      "en": "with liquid ink deposited",
+      "count": 40,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J27/20": {
+      "code": "B41J27/20",
+      "level": 1,
+      "parent": "B41J27/00",
+      "ja": "毛管作用によって供給されたインキによるもの，例．多孔性印字部材によるもの，多孔性プラテンによるもの",
+      "en": "with ink supplied by capillary action, e.g. through porous type-members, through porous platens",
+      "count": 304,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J27/22": {
+      "code": "B41J27/22",
+      "level": 1,
+      "parent": "B41J27/00",
+      "ja": "インキ塗布ディスクまたは扇形部材をもつもの",
+      "en": "with inking discs or sectors",
+      "count": 6,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J29/00": {
+      "code": "B41J29/00",
+      "level": 0,
+      "parent": "B41J",
+      "ja": "他に分類されないタイプライタまたは選択的プリンティング機構の細部，またはその付属装置",
+      "en": "Details of, or accessories for, typewriters or selective printing mechanisms not otherwise provided for",
+      "count": 29805,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J29/02": {
+      "code": "B41J29/02",
+      "level": 1,
+      "parent": "B41J29/00",
+      "ja": "フレーム",
+      "en": "Framework",
+      "count": 3113,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J29/04": {
+      "code": "B41J29/04",
+      "level": 1,
+      "parent": "B41J29/00",
+      "ja": "機械を底板に取り付ける手段",
+      "en": "Means for attaching machines to baseboards",
+      "count": 381,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J29/06": {
+      "code": "B41J29/06",
+      "level": 1,
+      "parent": "B41J29/00",
+      "ja": "機械を台に支持するための特殊な支持体，プラットホーム，またはトロリー",
+      "en": "Special supports, platforms, or trolleys for supporting machines on tables",
+      "count": 1995,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J29/08": {
+      "code": "B41J29/08",
+      "level": 1,
+      "parent": "B41J29/00",
+      "ja": "機械と別体の消音または緩衝スタンド，支持体，ケース，またはパッド",
+      "en": "Sound-deadening or shock-absorbing stands, supports, cases, or pads separate from machines",
+      "count": 1914,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J29/10": {
+      "code": "B41J29/10",
+      "level": 1,
+      "parent": "B41J29/00",
+      "ja": "機械内部に設けられた消音装置［２００６．０１］",
+      "en": "Sound-deadening devices embodied in machines",
+      "count": 725,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J29/12": {
+      "code": "B41J29/12",
+      "level": 1,
+      "parent": "B41J29/00",
+      "ja": "保護装置，遮蔽物または防塵装置［５］",
+      "en": "Guards, shields or dust excluders",
+      "count": 2676,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J29/13": {
+      "code": "B41J29/13",
+      "level": 2,
+      "parent": "B41J29/12",
+      "ja": "ケースまたはカバー［５］",
+      "en": "Cases or covers",
+      "count": 8354,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J29/14": {
+      "code": "B41J29/14",
+      "level": 1,
+      "parent": "B41J29/00",
+      "ja": "脚，例．足またはひざ，により作動される付属品",
+      "en": "Attachments operated by the leg, e.g. the foot or knee",
+      "count": 75,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J29/15": {
+      "code": "B41J29/15",
+      "level": 1,
+      "parent": "B41J29/00",
+      "ja": "タイプライタまたはプリンタに取付けた原稿支持具［２００６．０１］",
+      "en": "Script supports connected to the typewriter or printer",
+      "count": 1198,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J29/16": {
+      "code": "B41J29/16",
+      "level": 1,
+      "parent": "B41J29/00",
+      "ja": "備品，例．消ゴム，鉛筆，の補助的容器",
+      "en": "Auxiliary receptacles for articles, e.g. erasers, pencils",
+      "count": 437,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J29/17": {
+      "code": "B41J29/17",
+      "level": 1,
+      "parent": "B41J29/00",
+      "ja": "清掃装置［５］",
+      "en": "Cleaning arrangements",
+      "count": 4593,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J29/18": {
+      "code": "B41J29/18",
+      "level": 1,
+      "parent": "B41J29/00",
+      "ja": "操作者にプリントが見えるようにする機構［２００６．０１］",
+      "en": "Mechanisms for rendering the print visible to the operator",
+      "count": 487,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J29/19": {
+      "code": "B41J29/19",
+      "level": 2,
+      "parent": "B41J29/18",
+      "ja": "反射鏡または照明装置を有するもの［５］",
+      "en": "with reflectors or illuminating devices",
+      "count": 109,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J29/20": {
+      "code": "B41J29/20",
+      "level": 1,
+      "parent": "B41J29/00",
+      "ja": "計数器の配置",
+      "en": "Arrangements of counting devices",
+      "count": 1342,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J29/22": {
+      "code": "B41J29/22",
+      "level": 2,
+      "parent": "B41J29/20",
+      "ja": "行数の計数器",
+      "en": "Line counters",
+      "count": 45,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J29/24": {
+      "code": "B41J29/24",
+      "level": 2,
+      "parent": "B41J29/20",
+      "ja": "語数の計数器",
+      "en": "Word counters",
+      "count": 72,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J29/26": {
+      "code": "B41J29/26",
+      "level": 1,
+      "parent": "B41J29/00",
+      "ja": "抹消，誤り修正，アンダーライン引きまたはけい線引きのための装置，非流体性媒体または方法［４］",
+      "en": "Devices, non-fluid media or methods for cancelling, correcting errors, underscoring or ruling",
+      "count": 1319,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J29/28": {
+      "code": "B41J29/28",
+      "level": 2,
+      "parent": "B41J29/26",
+      "ja": "ホルダーまたはガイドに設けた筆記具または類似物",
+      "en": "Writing or like instruments in holders or guides",
+      "count": 134,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J29/30": {
+      "code": "B41J29/30",
+      "level": 2,
+      "parent": "B41J29/26",
+      "ja": "ホイール",
+      "en": "Wheels",
+      "count": 31,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J29/32": {
+      "code": "B41J29/32",
+      "level": 2,
+      "parent": "B41J29/26",
+      "ja": "活字",
+      "en": "Type-members",
+      "count": 61,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J29/34": {
+      "code": "B41J29/34",
+      "level": 3,
+      "parent": "B41J29/32",
+      "ja": "反覆作動するもの",
+      "en": "repeatedly actuated",
+      "count": 14,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J29/36": {
+      "code": "B41J29/36",
+      "level": 2,
+      "parent": "B41J29/26",
+      "ja": "重ね印字により誤りを抹消または修正するもの［２００６．０１］",
+      "en": "for cancelling or correcting errors by overprinting",
+      "count": 1067,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J29/367": {
+      "code": "B41J29/367",
+      "level": 3,
+      "parent": "B41J29/36",
+      "ja": "着色転写性修正層を有するシート媒体［４］",
+      "en": "sheet media carrying a pigmented transferable correction layer",
+      "count": 154,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J29/373": {
+      "code": "B41J29/373",
+      "level": 3,
+      "parent": "B41J29/36",
+      "ja": "誤印字文字を取去る粘着層を有するシート媒体［４］",
+      "en": "sheet media bearing an adhesive layer effective to lift off wrongly typed characters",
+      "count": 118,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J29/377": {
+      "code": "B41J29/377",
+      "level": 1,
+      "parent": "B41J29/00",
+      "ja": "冷却または換気装置［５］",
+      "en": "Cooling or ventilating arrangements",
+      "count": 4855,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J29/38": {
+      "code": "B41J29/38",
+      "level": 1,
+      "parent": "B41J29/00",
+      "ja": "プリンティング機構全体に対する駆動装置，電動機，制御装置，または自動的停止装置",
+      "en": "Drives, motors, controls, or automatic cut-off devices for the entire printing mechanism",
+      "count": 77136,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J29/387": {
+      "code": "B41J29/387",
+      "level": 2,
+      "parent": "B41J29/38",
+      "ja": "自動停止装置［５］",
+      "en": "Automatic cut-off devices",
+      "count": 389,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J29/393": {
+      "code": "B41J29/393",
+      "level": 2,
+      "parent": "B41J29/38",
+      "ja": "機械全体を制御または解析する装置［５］",
+      "en": "Devices for controlling or analysing the entire machine",
+      "count": 14187,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J29/40": {
+      "code": "B41J29/40",
+      "level": 1,
+      "parent": "B41J29/00",
+      "ja": "選択的事稿に加えて一定の，すなわち不変の，事稿をプリンティングする手段",
+      "en": "Means for printing fixed, i.e. unchanging, matter in addition to selectable matter",
+      "count": 2202,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J29/42": {
+      "code": "B41J29/42",
+      "level": 1,
+      "parent": "B41J29/00",
+      "ja": "スケールおよびインジケータ，例．両側のマージンの決定用",
+      "en": "Scales and indicators, e.g. for determining side margins",
+      "count": 14375,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J29/44": {
+      "code": "B41J29/44",
+      "level": 2,
+      "parent": "B41J29/42",
+      "ja": "上下のマージンの決定用または紙の端部の指示用",
+      "en": "for determining top and bottom margins or indicating exhaust of paper",
+      "count": 282,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J29/46": {
+      "code": "B41J29/46",
+      "level": 1,
+      "parent": "B41J29/00",
+      "ja": "警報の使用，例．行末の接近に応動するもの［２００６．０１］",
+      "en": "Applications of alarms, e.g. responsive to approach of end of line",
+      "count": 13917,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J29/48": {
+      "code": "B41J29/48",
+      "level": 2,
+      "parent": "B41J29/46",
+      "ja": "紙の破損または端部または紙の端部の接近に応動するもの",
+      "en": "responsive to breakage or exhaustion of paper or approach of bottom of paper",
+      "count": 3240,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J29/50": {
+      "code": "B41J29/50",
+      "level": 1,
+      "parent": "B41J29/00",
+      "ja": "両側ストップ機構",
+      "en": "Side-stop mechanisms",
+      "count": 1529,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J29/52": {
+      "code": "B41J29/52",
+      "level": 1,
+      "parent": "B41J29/00",
+      "ja": "上下ストップ機構",
+      "en": "Top-and-bottom stop mechanisms",
+      "count": 173,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J29/54": {
+      "code": "B41J29/54",
+      "level": 1,
+      "parent": "B41J29/00",
+      "ja": "プリンティング機構に適用されたロック装置",
+      "en": "Locking devices applied to printing mechanisms",
+      "count": 561,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J29/56": {
+      "code": "B41J29/56",
+      "level": 2,
+      "parent": "B41J29/54",
+      "ja": "手動式",
+      "en": "and manually actuated",
+      "count": 122,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J29/58": {
+      "code": "B41J29/58",
+      "level": 2,
+      "parent": "B41J29/54",
+      "ja": "自動式",
+      "en": "and automatically actuated",
+      "count": 81,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J29/60": {
+      "code": "B41J29/60",
+      "level": 3,
+      "parent": "B41J29/58",
+      "ja": "動力供給の停止に応動するもの",
+      "en": "in response to failure of power supply",
+      "count": 29,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J29/62": {
+      "code": "B41J29/62",
+      "level": 3,
+      "parent": "B41J29/58",
+      "ja": "紙の不存在によってハンマ機構をロックするもの",
+      "en": "by the absence of paper to lock hammer mechanism",
+      "count": 15,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J29/64": {
+      "code": "B41J29/64",
+      "level": 3,
+      "parent": "B41J29/58",
+      "ja": "印字機の作用によってキーボードをロックするもの",
+      "en": "by a function of the printer to lock the keyboard",
+      "count": 30,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J29/66": {
+      "code": "B41J29/66",
+      "level": 4,
+      "parent": "B41J29/64",
+      "ja": "プラテンが行末に達したときに作動するロック装置",
+      "en": "Locking devices actuated when platen reaches the end of a line",
+      "count": 31,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J29/68": {
+      "code": "B41J29/68",
+      "level": 3,
+      "parent": "B41J29/58",
+      "ja": "１ページまたは予定行数打ち終りまたは紙の端部に達してキーボードをロックするもの",
+      "en": "by completion of a page or predetermined number of lines or exhaustion of paper to lock the keyboard",
+      "count": 54,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J29/70": {
+      "code": "B41J29/70",
+      "level": 3,
+      "parent": "B41J29/58",
+      "ja": "任意の２個のキャリッジ移動機構相互間のロック，例．字間スペース，バックスペース，作表，キャリッジリターンまたはキャリッジリリース機構",
+      "en": "Interlocks between any two carriage-moving mechanisms, e.g. character-space, back-space, tabulation, carriage-return, or carriage-release mechanisms",
+      "count": 55,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J31/00": {
+      "code": "B41J31/00",
+      "level": 0,
+      "parent": "B41J",
+      "ja": "インキリボン；インキリボンの更新または試験［２００６．０１］",
+      "en": "Ink ribbons; Renovating or testing ink ribbons",
+      "count": 5025,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J31/02": {
+      "code": "B41J31/02",
+      "level": 1,
+      "parent": "B41J31/00",
+      "ja": "織成材料を特徴とするインキリボン",
+      "en": "Ink ribbons characterised by the material from which they are woven",
+      "count": 192,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J31/04": {
+      "code": "B41J31/04",
+      "level": 2,
+      "parent": "B41J31/02",
+      "ja": "合成材料で織成したもの",
+      "en": "woven from synthetic material",
+      "count": 247,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J31/05": {
+      "code": "B41J31/05",
+      "level": 1,
+      "parent": "B41J31/00",
+      "ja": "印字用塗布材料以外の被覆をもったインキリボン",
+      "en": "Ink ribbons having coatings other than impression-material coatings",
+      "count": 701,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J31/06": {
+      "code": "B41J31/06",
+      "level": 2,
+      "parent": "B41J31/05",
+      "ja": "被覆が基礎材上に直接に，すなわち複写材料の深部に存在するもの；インキリボンが複写材料以外の材料で含浸された基礎材をもつもの",
+      "en": "the coatings being directly on the base material, i.e. below impression-transfer material; Ink ribbons having base material impregnated with material other than impression material",
+      "count": 223,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J31/08": {
+      "code": "B41J31/08",
+      "level": 2,
+      "parent": "B41J31/05",
+      "ja": "被覆が複写材料の上に付加されているもの",
+      "en": "the coatings being superimposed on impression-transfer material",
+      "count": 140,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J31/09": {
+      "code": "B41J31/09",
+      "level": 1,
+      "parent": "B41J31/00",
+      "ja": "誤印字文字を削除または取去る媒体を保持する領域によって特徴づけられたインクリボン［４］",
+      "en": "Ink ribbons characterised by areas carrying media for obliteration or removal of typing errors",
+      "count": 160,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J31/10": {
+      "code": "B41J31/10",
+      "level": 1,
+      "parent": "B41J31/00",
+      "ja": "機械内部を運行するのを容易にする装置をもつインキリボン",
+      "en": "Ink ribbons having arrangements to facilitate threading through a machine",
+      "count": 460,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J31/12": {
+      "code": "B41J31/12",
+      "level": 1,
+      "parent": "B41J31/00",
+      "ja": "複写材料と機械部品または他の備品の間の好ましくない接触を防止する装置をもったインキ・リボン",
+      "en": "Ink ribbons having arrangements to prevent undesired contact between the impression-transfer material and machine parts or other articles",
+      "count": 174,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J31/14": {
+      "code": "B41J31/14",
+      "level": 1,
+      "parent": "B41J31/00",
+      "ja": "インキリボンの更新または試験",
+      "en": "Renovating or testing ink ribbons",
+      "count": 1062,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J31/16": {
+      "code": "B41J31/16",
+      "level": 2,
+      "parent": "B41J31/14",
+      "ja": "インキリボンを使用する機械の中に組み込まれたもの",
+      "en": "while fitted in the machine using the ink ribbons",
+      "count": 1004,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J32/00": {
+      "code": "B41J32/00",
+      "level": 0,
+      "parent": "B41J",
+      "ja": "インキリボン・カートリッジ［３］",
+      "en": "Ink-ribbon cartridges",
+      "count": 4440,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J32/02": {
+      "code": "B41J32/02",
+      "level": 1,
+      "parent": "B41J32/00",
+      "ja": "エンドレスリボン用［３］",
+      "en": "for endless ribbons",
+      "count": 1850,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J33/00": {
+      "code": "B41J33/00",
+      "level": 0,
+      "parent": "B41J",
+      "ja": "インキリボンまたは類似の複写材料を送る装置［２００６．０１］",
+      "en": "Apparatus or arrangements for feeding ink ribbons or like character-size impression-transfer material",
+      "count": 839,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J33/02": {
+      "code": "B41J33/02",
+      "level": 1,
+      "parent": "B41J33/00",
+      "ja": "リボンの配列",
+      "en": "Ribbon arrangements",
+      "count": 311,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J33/04": {
+      "code": "B41J33/04",
+      "level": 2,
+      "parent": "B41J33/02",
+      "ja": "移動キャリッジに装着されたもの",
+      "en": "mounted on moving carriages",
+      "count": 82,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J33/06": {
+      "code": "B41J33/06",
+      "level": 2,
+      "parent": "B41J33/02",
+      "ja": "タイプライタ・プラテンに関連しているが移動しないリボン，例．プラテンの長手方向に横切って延びているもの",
+      "en": "Ribbons associated, but not moving, with typewriter platens, e.g. extending transversely to the length of the platen",
+      "count": 20,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J33/08": {
+      "code": "B41J33/08",
+      "level": 3,
+      "parent": "B41J33/06",
+      "ja": "およびプラテンの長手方向に平行に延びているもの",
+      "en": "and extending parallel to the length of the platen",
+      "count": 40,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J33/10": {
+      "code": "B41J33/10",
+      "level": 2,
+      "parent": "B41J33/02",
+      "ja": "無端帯リボンの配置",
+      "en": "Arrangements of endless ribbons",
+      "count": 211,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J33/12": {
+      "code": "B41J33/12",
+      "level": 2,
+      "parent": "B41J33/02",
+      "ja": "リボンが共通の軸に装着されたスプールによって担持されたもの",
+      "en": "Ribbons carried by coaxially-mounted spools",
+      "count": 63,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J33/14": {
+      "code": "B41J33/14",
+      "level": 1,
+      "parent": "B41J33/00",
+      "ja": "リボン送り装置または機構",
+      "en": "Ribbon-feed devices or mechanisms",
+      "count": 1658,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J33/16": {
+      "code": "B41J33/16",
+      "level": 2,
+      "parent": "B41J33/14",
+      "ja": "スプールまたはスプール軸に駆動力を加えるもの",
+      "en": "with drive applied to spool or spool spindle",
+      "count": 694,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J33/18": {
+      "code": "B41J33/18",
+      "level": 3,
+      "parent": "B41J33/16",
+      "ja": "ラチェット機構によるもの（Ｂ４１Ｊ３３／３０が優先）",
+      "en": "by ratchet mechanism(<b>B41J33/30</b> takes precedence)",
+      "count": 108,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J33/20": {
+      "code": "B41J33/20",
+      "level": 3,
+      "parent": "B41J33/16",
+      "ja": "摩擦力によるもの",
+      "en": "by friction",
+      "count": 84,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J33/22": {
+      "code": "B41J33/22",
+      "level": 3,
+      "parent": "B41J33/16",
+      "ja": "歯車またはプーリーによるもの",
+      "en": "by gears or pulleys",
+      "count": 466,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J33/24": {
+      "code": "B41J33/24",
+      "level": 2,
+      "parent": "B41J33/14",
+      "ja": "リボンに直接に駆動力を加えるもの",
+      "en": "with drive applied directly to ribbon",
+      "count": 289,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J33/26": {
+      "code": "B41J33/26",
+      "level": 3,
+      "parent": "B41J33/24",
+      "ja": "リボンに係合するローラによるもの",
+      "en": "by rollers engaging the ribbon",
+      "count": 391,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J33/28": {
+      "code": "B41J33/28",
+      "level": 3,
+      "parent": "B41J33/24",
+      "ja": "リボンを引張りまたはつかむ機構によるもの",
+      "en": "by mechanism pulling or gripping the ribbon",
+      "count": 90,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J33/30": {
+      "code": "B41J33/30",
+      "level": 2,
+      "parent": "B41J33/14",
+      "ja": "エスケープメント機構",
+      "en": "Escapement mechanisms",
+      "count": 39,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J33/32": {
+      "code": "B41J33/32",
+      "level": 2,
+      "parent": "B41J33/14",
+      "ja": "電磁的装置",
+      "en": "Electromagnetic devices",
+      "count": 102,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J33/34": {
+      "code": "B41J33/34",
+      "level": 2,
+      "parent": "B41J33/14",
+      "ja": "全体として機械から独立している電動機によって駆動されるもの",
+      "en": "driven by motors independently of the machine as a whole",
+      "count": 203,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J33/36": {
+      "code": "B41J33/36",
+      "level": 2,
+      "parent": "B41J33/14",
+      "ja": "送り量を調節する手段をもつもの",
+      "en": "with means for adjusting feeding rate",
+      "count": 484,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J33/38": {
+      "code": "B41J33/38",
+      "level": 2,
+      "parent": "B41J33/14",
+      "ja": "緩速送り機構，例．“クリープ”送り機構",
+      "en": "Slow, e.g. \"creep\", feed mechanisms",
+      "count": 708,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J33/382": {
+      "code": "B41J33/382",
+      "level": 3,
+      "parent": "B41J33/38",
+      "ja": "リボンがキャリッジの復帰行程中だけ送られるもの",
+      "en": "the ribbon being fed only during carriage return",
+      "count": 53,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J33/384": {
+      "code": "B41J33/384",
+      "level": 4,
+      "parent": "B41J33/382",
+      "ja": "および印字期間中キャリッジに取り付けられるもの",
+      "en": "and attached to the carriage during writing",
+      "count": 9,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J33/386": {
+      "code": "B41J33/386",
+      "level": 3,
+      "parent": "B41J33/38",
+      "ja": "リボンがライン・スペース機構の作動によってだけ送られるもの",
+      "en": "the ribbon being fed only by operation of the line-spacing mechanism",
+      "count": 39,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J33/388": {
+      "code": "B41J33/388",
+      "level": 3,
+      "parent": "B41J33/38",
+      "ja": "リボンは印字動作が行われたときだけ送られるもの",
+      "en": "the ribbon being fed only when type impression takes place",
+      "count": 253,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J33/40": {
+      "code": "B41J33/40",
+      "level": 2,
+      "parent": "B41J33/14",
+      "ja": "送り方向を逆転する装置をもつもの",
+      "en": "with arrangements for reversing the feed direction",
+      "count": 309,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J33/42": {
+      "code": "B41J33/42",
+      "level": 3,
+      "parent": "B41J33/40",
+      "ja": "手動式",
+      "en": "manually",
+      "count": 34,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J33/44": {
+      "code": "B41J33/44",
+      "level": 3,
+      "parent": "B41J33/40",
+      "ja": "自動式",
+      "en": "automatically",
+      "count": 154,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J33/46": {
+      "code": "B41J33/46",
+      "level": 4,
+      "parent": "B41J33/44",
+      "ja": "および２個のスプールが爪－ラチェット機構によって駆動される機構に使用されることを特徴とするもの",
+      "en": "and characterised by its application to mechanism in which two spools are driven by pawl-and-rachet mechanism",
+      "count": 41,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J33/48": {
+      "code": "B41J33/48",
+      "level": 5,
+      "parent": "B41J33/46",
+      "ja": "２個の爪とラチェットを含み，各スプールに１組を配置したもの",
+      "en": "comprising two pawls and ratchets, one for each spool",
+      "count": 34,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J33/50": {
+      "code": "B41J33/50",
+      "level": 5,
+      "parent": "B41J33/46",
+      "ja": "選択的に２個のラチェットと係合できる単一の爪または二重歯爪を含み，各スプールに１組を配置したもの",
+      "en": "comprising a single pawl or integral double-tooth pawl selectively engageable with two ratchets, one for each spool",
+      "count": 33,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J33/51": {
+      "code": "B41J33/51",
+      "level": 4,
+      "parent": "B41J33/44",
+      "ja": "および特殊な逆転制御手段を使ったことを特徴とするもの",
+      "en": "and characterised by the use of particular reversing control means",
+      "count": 103,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J33/512": {
+      "code": "B41J33/512",
+      "level": 5,
+      "parent": "B41J33/51",
+      "ja": "巻かれたリボンの外周に係合する旋回可能の逆転感知器を使用するもの",
+      "en": "using a pivoted reversing-feeler engaging the external periphery of the wound ribbon",
+      "count": 103,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J33/514": {
+      "code": "B41J33/514",
+      "level": 5,
+      "parent": "B41J33/51",
+      "ja": "巻かれたリボンの内周に係合する旋回可能の逆転感知器を使用するもの",
+      "en": "using a pivoted reversing-feeler engaging the interior of the wound ribbon",
+      "count": 51,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J33/516": {
+      "code": "B41J33/516",
+      "level": 5,
+      "parent": "B41J33/51",
+      "ja": "リボンの張力に応動する逆転感知器を使用するもの",
+      "en": "using a reversing-feeler responsive to the tension of the ribbon",
+      "count": 126,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J33/518": {
+      "code": "B41J33/518",
+      "level": 5,
+      "parent": "B41J33/51",
+      "ja": "リボンの端部附近においてリボンまたは類似物に係合する逆転感知器",
+      "en": "the reversing-feeler engaging buttons or the like secured to the ribbon near its ends",
+      "count": 223,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J33/52": {
+      "code": "B41J33/52",
+      "level": 2,
+      "parent": "B41J33/14",
+      "ja": "リボン送り装置または機構のためのブレーキ装置",
+      "en": "Braking devices therefor",
+      "count": 1028,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J33/54": {
+      "code": "B41J33/54",
+      "level": 2,
+      "parent": "B41J33/14",
+      "ja": "リボンの最大寿命を確保するもの（Ｂ４１Ｊ３３／３８が優先）［２００６．０１］",
+      "en": "for ensuring maximum life of the ribbon(<b>B41J33/38</b> takes precedence)",
+      "count": 473,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J33/56": {
+      "code": "B41J33/56",
+      "level": 3,
+      "parent": "B41J33/54",
+      "ja": "リボンを横方向に調整するもの",
+      "en": "Ribbon adjusted transversely",
+      "count": 92,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J33/58": {
+      "code": "B41J33/58",
+      "level": 3,
+      "parent": "B41J33/54",
+      "ja": "リボンを斜行的に送るもの",
+      "en": "Ribbon fed angularly",
+      "count": 106,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J33/60": {
+      "code": "B41J33/60",
+      "level": 2,
+      "parent": "B41J33/14",
+      "ja": "電信符号または他の外部から来る符号に応動するもの",
+      "en": "responsive to telegraph code or other extraneous signals",
+      "count": 98,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J35/00": {
+      "code": "B41J35/00",
+      "level": 0,
+      "parent": "B41J",
+      "ja": "インキリボン機構に結合，または組み込まれた他の装置",
+      "en": "Other apparatus or arrangements associated with, or incorporated in, ink-ribbon mechanisms",
+      "count": 1236,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J35/02": {
+      "code": "B41J35/02",
+      "level": 1,
+      "parent": "B41J35/00",
+      "ja": "短い長さの巻かれていないインキリボン用のフレームまたはホルダー",
+      "en": "Frames or holders for unwound short lengths of ink ribbons",
+      "count": 28,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J35/03": {
+      "code": "B41J35/03",
+      "level": 2,
+      "parent": "B41J35/02",
+      "ja": "不作用位置へ移動できるホルダー，例．上方へ揺動するもの",
+      "en": "the holder being movable to inoperative position, e.g. by swinging upwardly",
+      "count": 19,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J35/04": {
+      "code": "B41J35/04",
+      "level": 1,
+      "parent": "B41J35/00",
+      "ja": "インキリボンのガイド",
+      "en": "Ink-ribbon guides",
+      "count": 1505,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J35/06": {
+      "code": "B41J35/06",
+      "level": 2,
+      "parent": "B41J35/04",
+      "ja": "固定式",
+      "en": "stationary",
+      "count": 228,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J35/08": {
+      "code": "B41J35/08",
+      "level": 2,
+      "parent": "B41J35/04",
+      "ja": "緊張装置をもつもの",
+      "en": "with tensioning arrangements",
+      "count": 482,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J35/10": {
+      "code": "B41J35/10",
+      "level": 2,
+      "parent": "B41J35/04",
+      "ja": "振動機構；その駆動装置",
+      "en": "Vibrator mechanisms; Driving gear therefor",
+      "count": 739,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J35/12": {
+      "code": "B41J35/12",
+      "level": 3,
+      "parent": "B41J35/10",
+      "ja": "調整可能のもの，例．ケース・シフト用［２００６．０１］",
+      "en": "adjustable, e.g. for case shift",
+      "count": 38,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J35/14": {
+      "code": "B41J35/14",
+      "level": 4,
+      "parent": "B41J35/12",
+      "ja": "多色印字用；インキリボンの最大寿命を確保するもの；インキリボンを不作用にするもの",
+      "en": "for multicolour work; for ensuring maximum life of ink ribbon; for rendering ink ribbon inoperative",
+      "count": 855,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J35/16": {
+      "code": "B41J35/16",
+      "level": 1,
+      "parent": "B41J35/00",
+      "ja": "多色装置［２００６．０１］",
+      "en": "Multicolour arrangements",
+      "count": 1726,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J35/18": {
+      "code": "B41J35/18",
+      "level": 2,
+      "parent": "B41J35/16",
+      "ja": "色の切り替えを自動的に行うもの",
+      "en": "Colour change effected automatically",
+      "count": 654,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J35/20": {
+      "code": "B41J35/20",
+      "level": 1,
+      "parent": "B41J35/00",
+      "ja": "インキリボンのシフト，例．印字検査用，ケースシフト調整用，インキリボンを不作用にするもの",
+      "en": "Ink-ribbon shifts, e.g. for exposing print, for case-shift adjustment, for rendering ink ribbon inoperative",
+      "count": 338,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J35/22": {
+      "code": "B41J35/22",
+      "level": 1,
+      "parent": "B41J35/00",
+      "ja": "複数のインキリボンを選択的に使用可能な機構",
+      "en": "Mechanisms permitting the selective use of a plurality of ink ribbons",
+      "count": 955,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J35/23": {
+      "code": "B41J35/23",
+      "level": 2,
+      "parent": "B41J35/22",
+      "ja": "２個またはそれ以上のリボン・ガイドをもつもの",
+      "en": "with two or more ribbon guides",
+      "count": 136,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J35/24": {
+      "code": "B41J35/24",
+      "level": 1,
+      "parent": "B41J35/00",
+      "ja": "はくの形態をした複写材料の送りに特に適した機構",
+      "en": "Mechanisms specially adapted for feeding impression-transfer materials of foil form",
+      "count": 11,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J35/26": {
+      "code": "B41J35/26",
+      "level": 1,
+      "parent": "B41J35/00",
+      "ja": "インキリボンの保護物または裏張り",
+      "en": "Ink-ribbon shields or backings",
+      "count": 150,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J35/28": {
+      "code": "B41J35/28",
+      "level": 1,
+      "parent": "B41J35/00",
+      "ja": "インキリボン機構用の取外し自在のキャリヤまたはホルダー",
+      "en": "Detachable carriers or holders for ink-ribbon mechanisms",
+      "count": 1426,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J35/30": {
+      "code": "B41J35/30",
+      "level": 1,
+      "parent": "B41J35/00",
+      "ja": "複写または同様の装置",
+      "en": "Manifolding or like arrangements",
+      "count": 70,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J35/32": {
+      "code": "B41J35/32",
+      "level": 2,
+      "parent": "B41J35/30",
+      "ja": "単一のインキリボンによって印字方向に沿って多数のコピーを取るもの",
+      "en": "for producing a plurality of copies along the printing line by a single ink ribbon",
+      "count": 6,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J35/34": {
+      "code": "B41J35/34",
+      "level": 2,
+      "parent": "B41J35/30",
+      "ja": "別体になっている多数のインキリボンを使用するもの，例．１個のヘクトカーボン・インキリボンを含むもの",
+      "en": "using a plurality of separate ink ribbons, e.g. including one hectographic ink ribbon",
+      "count": 21,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J35/35": {
+      "code": "B41J35/35",
+      "level": 2,
+      "parent": "B41J35/30",
+      "ja": "短い長さの巻かれていないインキリボンを使用するもの",
+      "en": "using unwound short lengths of ink ribbons",
+      "count": 79,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J35/36": {
+      "code": "B41J35/36",
+      "level": 1,
+      "parent": "B41J35/00",
+      "ja": "インキリボンの破損または使い尽しに応動する警報器，指示器，または送り停止装置",
+      "en": "Alarms, indicators, or feed-disabling devices responsive to ink-ribbon breakage or exhaustion",
+      "count": 1722,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    },
+    "B41J35/38": {
+      "code": "B41J35/38",
+      "level": 1,
+      "parent": "B41J35/00",
+      "ja": "使用後の廃棄のためにインキリボンを送るもの",
+      "en": "Feeding the ink ribbon to waste after use",
+      "count": 378,
+      "sourceFile": "ipc_B41J.txt",
+      "kind": "ipc"
+    }
+  }
+};

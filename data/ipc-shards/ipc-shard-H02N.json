@@ -1,0 +1,276 @@
+{
+  "generatedAt": "2026-03-20T02:17:47.262Z",
+  "total": 27,
+  "entries": {
+    "H02N": {
+      "code": "H02N",
+      "level": 0,
+      "parent": "H02",
+      "ja": "他類に属しない電機<br><br><b><ul>注</ul></b><br>注［７］<br>１．このサブクラスは以下のものを包含する：<br>・静電発電機，電動機，クラッチまたは把持装置；<br>・他の非動電的発電機または電動機；<br>・磁気的吸引または反発力を用いる支持または浮上装置；<br>・第２の電機を結合して運転するものを除いた前記のような電機の始動，調整，ブレーキあるいは制御のための装置。<br>２．“マイクロ構造の装置”および“マイクロ構造のシステム”に関する，クラスＢ８１およびサブクラスＢ８１Ｂの両タイトルの後の注に注意すること。<br>３．発電機，電動機または電気と他の形態のエネルギとを変換するその他の手段の特殊設備は，他のサブクラス中に，例．クラスＨ１０及びサブクラスＨ０１Ｍ，Ｈ０２Ｋ，Ｈ０４Ｒ中に，同様に存在する。<br><br><b><ul>サブクラス内の索引</ul></b><br>サブクラス内の索引<br>発電機，電動機<br>静電的なもの　１／００<br>熱によるイオン化および電荷の除去を用いた発電機；熱効果を用いた電動機　３／００；１０／００<br>光輻射を電気エネルギに変換するもの　６／００<br>その他　１１／００<br>圧電効果，電歪または磁歪を用いる電機一般　２／００<br>静電クラッチまたは把持装置　１３／００<br>磁気による支持または浮上装置　１５／００<br>このサブクラスの他のグループに分類されない主題事項　９９／００",
+      "en": "ELECTRIC MACHINES NOT OTHERWISE PROVIDED FOR; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This subclass <u>covers</u>: <ul><li>electrostatic generators, motors, clutches, or holding devices;</li><li>other non-dynamo-electric generators or motors;</li><li>holding or levitation devices using magnetic attraction or repulsion;</li><li>arrangements for starting, regulating, braking, or otherwise controlling such machines unless in conjoint operation with a second machine.</li></ul></li><li>Attention is drawn to the Notes following the titles of class <b>B81</b> and subclass <b>B81B</b> relating to \"microstructural devices\" and \"microstructural systems\".</li><li>Specific provision for generators, motors, or other means for converting between electric and other forms of energy also exists in other subclasses, e.g. in class <b>H10</b> and subclasses <b>H01M</b>, <b>H02K</b>, <b>H04R</b>.</li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">GENERATORS, MOTORS<tr><td width=\"70%\">With electrostatic effect</td><td><b><b>1/00</b></b></td></tr></tr><tr><td width=\"70%\">Generators using thermal ionisation and removal of charge; electric motors using thermal effects</td><td><b><b>3/00</b>; <b>10/00</b></b></td></tr></tr><tr><td width=\"70%\">Others</td><td><b><b>11/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">ELECTRIC MACHINES IN GENERAL USING PIEZOELECTRIC EFFECT, ELECTROSTRICTION OR MAGNETOSTRICTION</td><td><b><b>2/00</b></b></td></tr></tr><tr><td width=\"70%\">ELECTROSTATIC CLUTCHES OR HOLDING DEVICES</td><td><b><b>13/00</b></b></td></tr></tr><tr><td width=\"70%\">MAGNETIC HOLDING OR LEVITATING DEVICES</td><td><b><b>15/00</b></b></td></tr></tr><tr><td width=\"70%\">SUBJECT MATTER NOT PROVIDED FOR IN OTHER GROUPS OF THIS SUBCLASS</td><td><b><b>99/00</b></b></td></tr></tr></table>",
+      "count": 496,
+      "sourceFile": "ipc_H.txt",
+      "kind": "ipc"
+    },
+    "H02": {
+      "code": "H02",
+      "level": 0,
+      "parent": "H",
+      "ja": "電力の発電，変換，配電",
+      "en": "GENERATION, CONVERSION, OR DISTRIBUTION OF ELECTRIC POWER",
+      "count": 0,
+      "sourceFile": "ipc_H.txt",
+      "kind": "ipc"
+    },
+    "H": {
+      "code": "H",
+      "level": 0,
+      "parent": null,
+      "ja": "電気<br><br><b><ul>注</ul></b><br>（利用にあたっての基本原則と一般的指示）<br>Ｉ．セクションＨは以下のものを包含する：<br>（ａ）基本的電気素子，これは全ての電気ユニットと，装置や回路の一般的な機械的構成を包含しており，その中にはプリント配線と称されるものに各種の基本素子を組み立てたものも含まれる。またこれは他に包含されない場合には，ある程度までこれらの素子の製造をも包含する；<br>（ｂ）発電，これは，発電，変換および配電と共にそのための装置の制御を包含する；<br>（ｃ）電気の応用，これは以下のものを包含する：<br>（ｉ）一般的な利用技術，すなわち．電気加熱と電気照明回路の利用技術；<br>（ｉｉ）厳密な意味で電気的か電子的かいずれかの特定の利用技術で国際特許分類の他のセクションに包含されないもの，これは以下のものを含んでいる：<br>（１）電気的光源，これはレーザーを含む；<br>（２）電気的なＸ線技術；<br>（３）電気的なプラズマ技術，および帯電粒子または中性子の発生および加速；<br>（ｄ）基本電子回路およびその制御；<br>（ｅ）電気通信技術；これは電気―機械変換器一般を含む；<br>（ｆ）物品や上記素子を作るための特定の材料の使用，この点については指針の８８項から９０項を参照されたい。<br>ＩＩ．このセクションにおいては，下記の一般規則が適用される：<br>（ａ）上記Ｉ（ｃ）で述べた例外を除いて，国際特許分類のセクションＨ以外のいずれかのセクションに分類される特殊な操作，方法，装置，物体または物品に特有の電気的観点または部分は，常にその操作，方法，装置，物体または物品のためのサブクラスに分類されるか，または類似の性質を有する技術主題に関する共通的な特徴がクラス・レベルで展開されている場合には，それは，該技術主題のための一般的電気的な応用を完全に包含するサブクラスに，その操作，方法，装置，物体または物品と関連して分類される；<br>（ｂ）この様な電気的な応用には，一般的なものであれ特殊なものであれ，次の事項が含まれる。<br>（ｉ）Ａ６１における治療方法および装置；<br>（ｉｉ）Ｂ０１，Ｂ０３およびＢ２３Ｋにおける各種の実験室または工業的操作に用いられる電気的方法および装置；<br>（ｉｉｉ）セクションＢの“運輸”のサブセクションにおける車両一般および特殊な車両への電気の供給，電気的推進および電気照明；<br>（ｉｖ）Ｆ０２Ｐにおける内燃機関の電気点火系，およびＦ２３Ｑにおける燃焼装置一般のもの；<br>（ｖ）セクションＧにおける全ての電気的部分，すなわち，電気変量の測定器を含む測定装置，検査，信号および計算。このＧセクションにおいて電気とは，一般に手段として扱われるものでそれ自体目的として扱われるものではない；<br>（ｃ）全ての電気的な応用は一般的なものであれ特殊なものであれ，それが含んでいる電気的“基本的素子”に関して言えば，“基本的な電気”の観点がセクションＨ（上記Ｉ（ａ）参照）にあることを前提としている。この規則は，セクションＨ自身にある上記Ｉ（ｃ）で示した電気の応用に対しても有効である。",
+      "en": "ELECTRICITY; <br><br><b><u>Note(s)</u></b><br><br><ul><li>These Notes cover the basic principles and general instructions for use of section <b>H</b>.<ul><li>Section <b>H</b> <u>covers</u>: <ul><li>basic electric elements, which cover all electric units and the general mechanical structure of apparatus and circuits, including the assembly of various basic elements into what are called printed circuits and also cover to a certain extent the manufacture of these elements (when not covered elsewhere);</li><li>generation of electricity, which covers the generation, conversion and distribution of electricity together with the controlling of the corresponding gear;</li><li>applied electricity, which <u>covers</u>: <ul><li>general utilisation techniques, viz. those of electric heating and electric lighting circuits;</li><li>some special utilisation techniques, either electric or electronic in the strict sense, which are not covered by other sections of the Classification, including: <ul><li>electric light sources, including lasers;</li><li>electric X-ray technique;</li><li>electric plasma technique and the generation and acceleration of electrically charged particles or neutrons;</li></ul></li></ul></li><li>basic electronic circuits and their control;</li><li>radio or electric communication technique;</li><li>the use of a specified material for the manufacture of the article or element described. In this connection, paragraphs 88 to 90 of the Guide should be referred to.</li></ul></li><li>In this section, the following general rules apply: <ul><li>Subject to the exceptions stated in I(c), above, any electric aspect or part peculiar to a particular operation, process, apparatus, object or article, classified in one of the sections of the Classification other than section <b>H</b>, is always classified in the subclass for that operation, process, apparatus, object or article. Where common characteristics concerning technical subjects of similar nature have been brought out at class level, the electric aspect or part is classified, in conjunction with the operation, process, apparatus, object or article, in a subclass which covers entirely the general electrical applications for the technical subject in question;</li><li>The electrical applications referred to under (a), above, either general or particular, include: <ul><li>the therapeutic processes and apparatus, in class <b>A61</b>;</li><li>the electric processes and apparatus used in various laboratory or industrial operations, in classes <b>B01</b> and <b>B03</b> and in subclass <b>B23K</b>;</li><li>the electricity supply, electric propulsion and electric lighting of vehicles in general and of particular vehicles, in the subsection \"Transporting\" of section <b>B</b>;</li><li>the electric ignition systems of internal-combustion engines, in subclass <b>F02P</b>, and of combustion apparatus in general, in subclass <b>F23Q</b>;</li><li>the whole electrical part of section <b>G</b>, i.e. measuring devices including apparatus for measuring electric variables, checking, signalling and calculating. Electricity in that section is generally dealt with as a means and not as an end in itself;</li></ul></li><li>All electrical applications, both general and particular, presuppose that the \"basic electricity\" aspect appears in section <b>H</b> (see I(a) above) as regards the electric \"basic elements\" which they comprise. This rule is also valid for applied electricity, referred to in I(c), above, which appears in section <b>H</b> itself.</li></ul></li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_H.txt",
+      "kind": "ipc"
+    },
+    "H02N1/00": {
+      "code": "H02N1/00",
+      "level": 0,
+      "parent": "H02N",
+      "ja": "動くソリッド型静電荷運搬体を用いた静電発電機または電動機",
+      "en": "Electrostatic generators or motors using a solid moving electrostatic charge carrier",
+      "count": 3671,
+      "sourceFile": "ipc_H02N.txt",
+      "kind": "ipc"
+    },
+    "H02N1/04": {
+      "code": "H02N1/04",
+      "level": 1,
+      "parent": "H02N1/00",
+      "ja": "摩擦起電機",
+      "en": "Friction generators",
+      "count": 4712,
+      "sourceFile": "ipc_H02N.txt",
+      "kind": "ipc"
+    },
+    "H02N1/06": {
+      "code": "H02N1/06",
+      "level": 1,
+      "parent": "H02N1/00",
+      "ja": "誘導起電機",
+      "en": "Influence generators",
+      "count": 402,
+      "sourceFile": "ipc_H02N.txt",
+      "kind": "ipc"
+    },
+    "H02N1/08": {
+      "code": "H02N1/08",
+      "level": 2,
+      "parent": "H02N1/06",
+      "ja": "伝導性電荷運搬体をもつもの，すなわち静電発電機",
+      "en": "with conductive charge carrier, i.e. capacitor machines",
+      "count": 1243,
+      "sourceFile": "ipc_H02N.txt",
+      "kind": "ipc"
+    },
+    "H02N1/10": {
+      "code": "H02N1/10",
+      "level": 2,
+      "parent": "H02N1/06",
+      "ja": "非伝導性電荷運搬体をもつもの",
+      "en": "with non-conductive charge carrier",
+      "count": 176,
+      "sourceFile": "ipc_H02N.txt",
+      "kind": "ipc"
+    },
+    "H02N1/12": {
+      "code": "H02N1/12",
+      "level": 3,
+      "parent": "H02N1/10",
+      "ja": "コンベヤベルト型のもの，例．バンデグラフ装置",
+      "en": "in the form of a conveyor belt, e.g. van de Graaff machine",
+      "count": 131,
+      "sourceFile": "ipc_H02N.txt",
+      "kind": "ipc"
+    },
+    "H02N2/00": {
+      "code": "H02N2/00",
+      "level": 0,
+      "parent": "H02N",
+      "ja": "圧電効果，電歪または磁歪を用いる電機一般（機械的振動の発生一般Ｂ０６Ｂ；圧電，電歪または磁歪素子一般Ｈ１０Ｎ３０／００，Ｈ１０Ｎ３５／００）［２００６．０１］",
+      "en": "Electric machines in general using piezoelectric effect, electrostriction or magnetostriction (generating mechanical vibrations in general <b>B06B</b>;  piezoelectric, electrostrictive or magnetostrictive elements in general <b>H10N30/00</b>, <b>H10N35/00</b>)",
+      "count": 18708,
+      "sourceFile": "ipc_H02N.txt",
+      "kind": "ipc"
+    },
+    "H02N2/02": {
+      "code": "H02N2/02",
+      "level": 1,
+      "parent": "H02N2/00",
+      "ja": "直線運動を生じるもの，例．アクチュエータ；直線ポジショナ［６］",
+      "en": "producing linear motion, e.g. actuators; Linear positioners",
+      "count": 3345,
+      "sourceFile": "ipc_H02N.txt",
+      "kind": "ipc"
+    },
+    "H02N2/04": {
+      "code": "H02N2/04",
+      "level": 2,
+      "parent": "H02N2/02",
+      "ja": "構造の細部［６］",
+      "en": "Constructional details",
+      "count": 4515,
+      "sourceFile": "ipc_H02N.txt",
+      "kind": "ipc"
+    },
+    "H02N2/06": {
+      "code": "H02N2/06",
+      "level": 2,
+      "parent": "H02N2/02",
+      "ja": "駆動回路；制御装置［６］",
+      "en": "Drive circuits; Control arrangements",
+      "count": 2659,
+      "sourceFile": "ipc_H02N.txt",
+      "kind": "ipc"
+    },
+    "H02N2/08": {
+      "code": "H02N2/08",
+      "level": 2,
+      "parent": "H02N2/02",
+      "ja": "進行波を用いるもの，例．リニアモータ［６］",
+      "en": "using travelling waves, e.g. linear motors",
+      "count": 343,
+      "sourceFile": "ipc_H02N.txt",
+      "kind": "ipc"
+    },
+    "H02N2/10": {
+      "code": "H02N2/10",
+      "level": 1,
+      "parent": "H02N2/00",
+      "ja": "回転運動を生じるもの，例．ロータリーモータ［６］",
+      "en": "producing rotary motion, e.g. rotary motors",
+      "count": 1523,
+      "sourceFile": "ipc_H02N.txt",
+      "kind": "ipc"
+    },
+    "H02N2/12": {
+      "code": "H02N2/12",
+      "level": 2,
+      "parent": "H02N2/10",
+      "ja": "構造の細部［６］",
+      "en": "Constructional details",
+      "count": 2001,
+      "sourceFile": "ipc_H02N.txt",
+      "kind": "ipc"
+    },
+    "H02N2/14": {
+      "code": "H02N2/14",
+      "level": 2,
+      "parent": "H02N2/10",
+      "ja": "駆動回路；制御装置［６］",
+      "en": "Drive circuits; Control arrangements",
+      "count": 1356,
+      "sourceFile": "ipc_H02N.txt",
+      "kind": "ipc"
+    },
+    "H02N2/16": {
+      "code": "H02N2/16",
+      "level": 2,
+      "parent": "H02N2/10",
+      "ja": "進行波を用いるもの［６］",
+      "en": "using travelling waves",
+      "count": 900,
+      "sourceFile": "ipc_H02N.txt",
+      "kind": "ipc"
+    },
+    "H02N2/18": {
+      "code": "H02N2/18",
+      "level": 1,
+      "parent": "H02N2/00",
+      "ja": "機械的入力から電気的出力を生じるもの，例．発電機（測定装置用Ｇ０１）［６］",
+      "en": "producing electrical output from mechanical input, e.g. generators(for measurement devices <b>G01</b>)",
+      "count": 11407,
+      "sourceFile": "ipc_H02N.txt",
+      "kind": "ipc"
+    },
+    "H02N3/00": {
+      "code": "H02N3/00",
+      "level": 0,
+      "parent": "H02N",
+      "ja": "熱または運動エネルギが，流体のイオン化とその流体からの電荷の除去により電気エネルギに変換される発電機（熱電子発生器として作用する電子管Ｈ０１Ｊ４５／００）［３］",
+      "en": "Generators in which thermal or kinetic energy is converted into electrical energy by ionisation of a fluid and removal of the charge therefrom(discharge tubes functioning as thermionic generators <b>H01J45/00</b>)",
+      "count": 1925,
+      "sourceFile": "ipc_H02N.txt",
+      "kind": "ipc"
+    },
+    "H02N10/00": {
+      "code": "H02N10/00",
+      "level": 0,
+      "parent": "H02N",
+      "ja": "熱効果を用いた電動機［３］",
+      "en": "Electric motors using thermal effects",
+      "count": 1067,
+      "sourceFile": "ipc_H02N.txt",
+      "kind": "ipc"
+    },
+    "H02N11/00": {
+      "code": "H02N11/00",
+      "level": 0,
+      "parent": "H02N",
+      "ja": "他に分類されない発電機または電動機；電気的または磁気的手段により永久運動を得たと主張するもの（静水圧推力を用いるものＦ０３Ｂ１７／０４；動電的手段を用いるものＨ０２Ｋ５３／００）",
+      "en": "Generators or motors not provided for elsewhere; Alleged <u>perpetua mobilia</u> obtained by electric or magnetic means(by hydrostatic pressure <b>F03B17/04</b>; by dynamo-electric means <b>H02K53/00</b>)",
+      "count": 21250,
+      "sourceFile": "ipc_H02N.txt",
+      "kind": "ipc"
+    },
+    "H02N13/00": {
+      "code": "H02N13/00",
+      "level": 0,
+      "parent": "H02N",
+      "ja": "静電気の吸引力を用いたクラッチ，把持装置，例．ジョンソンラーベック効果を用いたもの［２００６．０１］",
+      "en": "Clutches or holding devices using electrostatic attraction, e.g. using Johnson-Rahbek effect",
+      "count": 3997,
+      "sourceFile": "ipc_H02N.txt",
+      "kind": "ipc"
+    },
+    "H02N15/00": {
+      "code": "H02N15/00",
+      "level": 0,
+      "parent": "H02N",
+      "ja": "他に分類されない磁気的吸引力または反発力を用いた支持または浮上装置（工作機械における工作物保持用の電気的または磁気的装置Ｂ２３Ｑ３／１５；鉄道方式における滑動または空中浮揚装置Ｂ６１Ｂ１３／０８；静電気または磁気的グリッパーを組み込んだコンベヤと協働して物質を取り扱う装置Ｂ６５Ｇ４７／９２；電磁力を用いた薄板状または繊維状部材の堆積物からの分離Ｂ６５Ｈ３／１６；空気噴流または吸気装置による磁気的支持装置からの薄板状または繊維状部材の解放Ｂ６５Ｈ２９／２４；磁気的または電気的支持手段を用いた軸受Ｆ１６Ｃ３２／０４；磁気的手段を用いた軸受荷重の軽減Ｆ１６Ｃ３９／０６；磁石Ｈ０１Ｆ７／００；電動クラッチまたはブレーキＨ０２Ｋ４９／００）［３］",
+      "en": "Holding or levitation devices using magnetic attraction or repulsion, not otherwise provided for(electric or magnetic devices for holding work on machine tools <b>B23Q3/15</b>; sliding or levitation devices for railway systems <b>B61B13/08</b>; material handling devices associated with conveyors incorporating devices with electrostatic or magnetic grippers <b>B65G47/92</b>; separating thin or filamentary articles from piles using magnetic force <b>B65H3/16</b>; delivering thin or filamentary articles from magnetic holders by air blast or suction <b>B65H29/24</b>; bearings using magnetic or electric supporting means <b>F16C32/04</b>; relieving bearing loads using magnetic means <b>F16C39/06</b>; magnets <b>H01F7/00</b>; dynamo-electric clutches or brakes <b>H02K49/00</b>)",
+      "count": 4546,
+      "sourceFile": "ipc_H02N.txt",
+      "kind": "ipc"
+    },
+    "H02N15/02": {
+      "code": "H02N15/02",
+      "level": 1,
+      "parent": "H02N15/00",
+      "ja": "フーコー電流によるもの［３］",
+      "en": "by Foucault currents",
+      "count": 39,
+      "sourceFile": "ipc_H02N.txt",
+      "kind": "ipc"
+    },
+    "H02N15/04": {
+      "code": "H02N15/04",
+      "level": 1,
+      "parent": "H02N15/00",
+      "ja": "マイスナ―効果による反発装置（超電導導体またはハイパーコンダクター一般Ｈ１０Ｎ６０／００）［２００６．０１］",
+      "en": "Repulsion by the Meissner effect(superconductors or hyperconductors in general <b>H10N60/00</b>)",
+      "count": 193,
+      "sourceFile": "ipc_H02N.txt",
+      "kind": "ipc"
+    },
+    "H02N99/00": {
+      "code": "H02N99/00",
+      "level": 0,
+      "parent": "H02N",
+      "ja": "このサブクラスの他のグループに分類されない主題事項［８］",
+      "en": "Subject matter not provided for in other groups of this subclass",
+      "count": 222,
+      "sourceFile": "ipc_H02N.txt",
+      "kind": "ipc"
+    }
+  }
+}

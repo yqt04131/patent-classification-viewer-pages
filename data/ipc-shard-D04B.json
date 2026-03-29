@@ -1,0 +1,2306 @@
+{
+  "generatedAt": "2026-03-20T02:17:46.577Z",
+  "total": 230,
+  "entries": {
+    "D04B": {
+      "code": "D04B",
+      "level": 0,
+      "parent": "D04",
+      "ja": "メリヤス編成<br><br><b><ul>注</ul></b><br>（１）このサブクラスにおいては，機械，装置等を明示するグループは，これらの使用方法または使用に特徴のある方法，およびこのような方法によって製造される物を含む。<br>（２）編成製品，すなわち編み地または製品は，編成によって得られる構造上の特徴を有するときのみ，このサブクラスに分類される。<br><br><b><ul>サブクラス内の索引</ul></b><br>よこ編みおよびそのための機械<br>一般工程または編成された製品　１／００<br>手編み具または手編み装置；家庭用の編み装置または機械　３／００；５／００，７／０８<br>平床式編み機<br>独立可動針をもつもの；固定針をもつもの　７／００；１１／００<br>円形編み機<br>独立可動針をもつもの；固定ひげ針をもつもの　９／００；１３／００<br>機械に付随した細部または補助装置　１５／００，３５／００<br>たて編みまたはそのための機械<br>一般工程および編成された製品　２１／００<br>機械<br>平床式；他の型式のもの　２３／００；２５／００<br>この機械に付随した細部または補助装置　２７／００，３５／００<br>編み機に使用される補助装置　３７／００<br>クロッシェレースおよびその装置<br>工程；器具または装置　３１／００；３３／００<br>この装置に付随した細部または補助装置　３５／００<br>修理；ときほぐし　１７／００；１９／００<br>他に分類されない工程および編み機　３９／００",
+      "en": "KNITTING; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this subclass, groups designating machines, apparatus, devices, or implements include processes characterised by, or dependent on, their use, and the products of such processes.</li><li>Knitted products, i.e. fabrics, articles, are classified in this subclass only if they have constructional features which are of interest from the knitting aspect.</li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">WEFT KNITTING AND MACHINES THEREFOR<tr><td width=\"70%\">General processes or knitted articles </td><td><b><b>1/00</b></b></td></tr></tr><tr><td width=\"70%\">Hand tools or implements; knitting apparatus or machines for domestic use </td><td><b><b>3/00</b>; <b>5/00</b>, <b>7/08</b></b></td></tr></tr><tr><td width=\"70%\">Flat-bed knitting machines:<tr><td width=\"70%\">with independently-movable needles; with fixed needles </td><td><b><b>7/00</b>; <b>11/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">Circular knitting machines:<tr><td width=\"70%\">with independently-movable needles; with fixed spring or bearded needles </td><td><b><b>9/00</b>; <b>13/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">Details or auxiliary devices incorporated in the machines </td><td><b><b>15/00</b>, <b>35/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">WARP KNITTING AND MACHINES THEREFOR<tr><td width=\"70%\">General processes and knitted articles </td><td><b><b>21/00</b></b></td></tr></tr><tr><td width=\"70%\">Machines<tr><td width=\"70%\">flat-bed; other types </td><td><b><b>23/00</b>; <b>25/00</b></b></td></tr></tr><tr><td width=\"70%\">details or auxiliary devices incorporated in the machines </td><td><b><b>27/00</b>, <b>35/00</b></b></td></tr></tr></tr></tr><tr><td width=\"70%\">AUXILIARY APPARATUS USED WITH KNITTING MACHINES </td><td><b><b>37/00</b></b></td></tr></tr><tr><td width=\"70%\">CROCHETING AND APPARATUS THEREFOR<tr><td width=\"70%\">Processes; tools or implements </td><td><b><b>31/00</b>; <b>33/00</b></b></td></tr></tr><tr><td width=\"70%\">Details or auxiliary devices incorporated in the apparatus </td><td><b><b>35/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">REPAIRING; UNRAVELLING </td><td><b><b>17/00</b>; <b>19/00</b></b></td></tr></tr><tr><td width=\"70%\">PROCESSES AND KNITTING MACHINES NOT OTHERWISE PROVIDED FOR </td><td><b><b>39/00</b></b></td></tr></tr></table>",
+      "count": 2421,
+      "sourceFile": "ipc_D.txt",
+      "kind": "ipc"
+    },
+    "D04": {
+      "code": "D04",
+      "level": 0,
+      "parent": "D",
+      "ja": "組みひも；レース編み；メリヤス編成；縁とり；不織布",
+      "en": "BRAIDING; LACE-MAKING; KNITTING; TRIMMINGS; NON-WOVEN FABRICS",
+      "count": 0,
+      "sourceFile": "ipc_D.txt",
+      "kind": "ipc"
+    },
+    "D": {
+      "code": "D",
+      "level": 0,
+      "parent": null,
+      "ja": "繊維；紙<br><br><b><ul>注</ul></b><br>このセクションにおいては，下記の用語は以下に示す意味で用いる：<br>―“繊維”は比較的短く，細長い天然または人造の物質よりなるものを意味する；［２０１４．０１］<br>―“フィラメント”はエンドレスまたは準エンドレスで，細長い天然または人造の物質よりなるものを意味する；［２０１４．０１］<br>―“糸”は繊維の単一の集合体を意味し，通常紡績によって製造される；［２０１４．０１］<br>―“より糸”は糸またはフィラメントの集合体を意味し，通常加ねんによって製造される；［２０１４．０１］<br>―“合成”繊維またはフィラメントはポリマーまたは低分子を合成させたものから製造される繊維またはフィラメントまたは類似物を意味する。例は，ポリアミド，アクリル，ポリエステルまたは炭素繊維である；［２０１４．０１］<br>―“人工”繊維またはフィラメントは天然ポリマーまたはその派生物から人が製造した繊維またはフィラメントまたは類似物を意味する。例は，再生セルロース繊維または半合成繊維である；［２０１４．０１］<br>―“人造”繊維またはフィラメントは人が製造した繊維またはフィラメントを意味し，“合成”繊維または“人工”繊維を含む。［２０１４．０１］",
+      "en": "TEXTILES; PAPER; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this section, the following terms are used with the meanings indicated: <ul><li>\"fibre\" means a relatively-short, elongated member of natural or man-made material;    </li><li>\"filament\" means an endless or quasi-endless, elongated member of natural or man-made material;    </li><li>\"yarn\" means a unitary assembly of fibres, usually produced by spinning;    </li><li>\"thread\" means an assembly of yarns or filaments, usually produced by twisting;    </li><li>\"synthetic\" fibres or filaments means fibres or filaments or the like manufactured from synthesising polymers or small molecules. Examples are polyamide, acrylic, polyester or carbon fibres;    </li><li>\"artificial\" fibres or filaments means fibres or filaments or the like manufactured by man from natural polymers or their derivatives. Examples are regenerated cellulosic fibres or semi-synthetic fibres;    </li><li>\"man-made&rdquo; fibres or filaments means fibres or filaments which are manufactured by man including &ldquo;synthetic&rdquo; or &ldquo;artificial&rdquo; fibres.    </li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_D.txt",
+      "kind": "ipc"
+    },
+    "D04B1/00": {
+      "code": "D04B1/00",
+      "level": 0,
+      "parent": "D04B",
+      "ja": "特殊な機械を使用しない編み地またはその製品の編成のためのよこ編み工程；このような工程によって限定される編み地またはその製品",
+      "en": "Weft knitting processes for the production of fabrics or articles not dependent on the use of particular machines; Fabrics or articles defined by such processes",
+      "count": 4371,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B1/02": {
+      "code": "D04B1/02",
+      "level": 1,
+      "parent": "D04B1/00",
+      "ja": "パイル編み地または類似した表面をもつ編み物製品",
+      "en": "Pile fabrics or articles having similar surface features",
+      "count": 1861,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B1/04": {
+      "code": "D04B1/04",
+      "level": 2,
+      "parent": "D04B1/02",
+      "ja": "糸の素材に特徴のあるもの",
+      "en": "characterised by thread material",
+      "count": 1712,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B1/06": {
+      "code": "D04B1/06",
+      "level": 1,
+      "parent": "D04B1/00",
+      "ja": "ラン防止編み地または編み物製品",
+      "en": "Non-run fabrics or articles",
+      "count": 642,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B1/08": {
+      "code": "D04B1/08",
+      "level": 2,
+      "parent": "D04B1/06",
+      "ja": "糸の素材に特徴のあるもの",
+      "en": "characterised by thread material",
+      "count": 171,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B1/10": {
+      "code": "D04B1/10",
+      "level": 1,
+      "parent": "D04B1/00",
+      "ja": "模様編み地または編み物製品",
+      "en": "Patterned fabrics or articles",
+      "count": 4100,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B1/12": {
+      "code": "D04B1/12",
+      "level": 2,
+      "parent": "D04B1/10",
+      "ja": "糸の素材に特徴のあるもの",
+      "en": "characterised by thread material",
+      "count": 3095,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B1/14": {
+      "code": "D04B1/14",
+      "level": 1,
+      "parent": "D04B1/00",
+      "ja": "特殊な糸の素材の使用に主な特徴があるその他の編み地または編み物製品",
+      "en": "Other fabrics or articles characterised primarily by the use of particular thread materials",
+      "count": 9126,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B1/16": {
+      "code": "D04B1/16",
+      "level": 2,
+      "parent": "D04B1/14",
+      "ja": "合成繊維",
+      "en": "synthetic threads",
+      "count": 7608,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B1/18": {
+      "code": "D04B1/18",
+      "level": 2,
+      "parent": "D04B1/14",
+      "ja": "弾性のある糸",
+      "en": "elastic threads",
+      "count": 4898,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B1/20": {
+      "code": "D04B1/20",
+      "level": 3,
+      "parent": "D04B1/18",
+      "ja": "巻縮糸",
+      "en": "crimped threads",
+      "count": 474,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B1/22": {
+      "code": "D04B1/22",
+      "level": 1,
+      "parent": "D04B1/00",
+      "ja": "特殊な形状の編み物を編成するため特に採用されるもの",
+      "en": "specially adapted for knitting goods of particular configuration",
+      "count": 2493,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B1/24": {
+      "code": "D04B1/24",
+      "level": 2,
+      "parent": "D04B1/22",
+      "ja": "衣服用",
+      "en": "wearing apparel",
+      "count": 3215,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B1/26": {
+      "code": "D04B1/26",
+      "level": 3,
+      "parent": "D04B1/24",
+      "ja": "靴下用",
+      "en": "stockings",
+      "count": 2624,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B1/28": {
+      "code": "D04B1/28",
+      "level": 3,
+      "parent": "D04B1/24",
+      "ja": "手袋用",
+      "en": "gloves",
+      "count": 640,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B3/00": {
+      "code": "D04B3/00",
+      "level": 0,
+      "parent": "D04B",
+      "ja": "よこ編み用の手編み具または手編み器具",
+      "en": "Hand tools or implements for weft knitting",
+      "count": 686,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B3/02": {
+      "code": "D04B3/02",
+      "level": 1,
+      "parent": "D04B3/00",
+      "ja": "編み針",
+      "en": "Needles",
+      "count": 737,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B3/04": {
+      "code": "D04B3/04",
+      "level": 1,
+      "parent": "D04B3/00",
+      "ja": "指保護具；糸緊張具",
+      "en": "Finger protectors; Thread tensioners",
+      "count": 57,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B3/06": {
+      "code": "D04B3/06",
+      "level": 1,
+      "parent": "D04B3/00",
+      "ja": "糸玉保持具または容器",
+      "en": "Ball holders or receptacles",
+      "count": 304,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B5/00": {
+      "code": "D04B5/00",
+      "level": 0,
+      "parent": "D04B",
+      "ja": "家庭用の編み針を用いないよこ編み編成装置または編み機（針を備えたものＤ０４Ｂ７／０８）",
+      "en": "Weft knitting apparatus or machines without needles for domestic use(with needles <b>D04B7/08</b>)",
+      "count": 138,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B7/00": {
+      "code": "D04B7/00",
+      "level": 0,
+      "parent": "D04B",
+      "ja": "独立可動針を備えた平床式編み機（固定針を備えたストレートバー編み機Ｄ０４Ｂ１１／００）",
+      "en": "Flat-bed knitting machines with independently-movable needles(straight-bar machines with fixed needles <b>D04B11/00</b>)",
+      "count": 994,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B7/02": {
+      "code": "D04B7/02",
+      "level": 1,
+      "parent": "D04B7/00",
+      "ja": "１組の編み針を備えたもの",
+      "en": "with one set of needles",
+      "count": 157,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B7/04": {
+      "code": "D04B7/04",
+      "level": 1,
+      "parent": "D04B7/00",
+      "ja": "２組の編み針を備えたもの",
+      "en": "with two sets of needles",
+      "count": 1050,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B7/06": {
+      "code": "D04B7/06",
+      "level": 2,
+      "parent": "D04B7/04",
+      "ja": "パール編みまたはリンクスループ形成のためのもの",
+      "en": "for purl work or Links-Links loop formation",
+      "count": 195,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B7/08": {
+      "code": "D04B7/08",
+      "level": 1,
+      "parent": "D04B7/00",
+      "ja": "家庭用に使用するもの",
+      "en": "for domestic use",
+      "count": 613,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B7/10": {
+      "code": "D04B7/10",
+      "level": 1,
+      "parent": "D04B7/00",
+      "ja": "フルファッション編み地を編成するための目減らしまたは目増やし装置を備えたもの",
+      "en": "with provision for narrowing or widening to produce fully-fashioned goods",
+      "count": 417,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B7/12": {
+      "code": "D04B7/12",
+      "level": 1,
+      "parent": "D04B7/00",
+      "ja": "パイル糸を編み込むための装置を備えたもの",
+      "en": "with provision for incorporating pile threads",
+      "count": 124,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B7/14": {
+      "code": "D04B7/14",
+      "level": 1,
+      "parent": "D04B7/00",
+      "ja": "編み地中にそう入糸を編み込むための装置を備えたもの",
+      "en": "with provision for incorporating internal threads in laid-in fabrics",
+      "count": 179,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B7/16": {
+      "code": "D04B7/16",
+      "level": 1,
+      "parent": "D04B7/00",
+      "ja": "弾性糸からなる編み地または弾性糸を編み込んだ編み地を製造するためのもの",
+      "en": "for producing fabrics consisting of, or incorporating, elastic threads",
+      "count": 77,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B7/18": {
+      "code": "D04B7/18",
+      "level": 2,
+      "parent": "D04B7/16",
+      "ja": "よこ糸またはそう入糸として編み込まれるもの",
+      "en": "incorporated as weft or inlaid threads",
+      "count": 27,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B7/20": {
+      "code": "D04B7/20",
+      "level": 1,
+      "parent": "D04B7/00",
+      "ja": "編み組織を変える機構を備えたもの，例．平編みからゴム編み",
+      "en": "with provision for changing the fabric construction, e.g. from plain to rib-loop fabric",
+      "count": 251,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B7/22": {
+      "code": "D04B7/22",
+      "level": 1,
+      "parent": "D04B7/00",
+      "ja": "編み始め部のため特別の手段を備えたもの，例．ノンラン縁部のためのもの",
+      "en": "with special provision for commencing goods, e.g. with non-run edges",
+      "count": 183,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B7/24": {
+      "code": "D04B7/24",
+      "level": 1,
+      "parent": "D04B7/00",
+      "ja": "柄編み地を編成するためのもの",
+      "en": "for producing patterned fabrics",
+      "count": 215,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B7/26": {
+      "code": "D04B7/26",
+      "level": 2,
+      "parent": "D04B7/24",
+      "ja": "色柄を備えたもの",
+      "en": "with colour patterns",
+      "count": 396,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B7/28": {
+      "code": "D04B7/28",
+      "level": 2,
+      "parent": "D04B7/24",
+      "ja": "編み柄を備えたもの",
+      "en": "with stitch patterns",
+      "count": 389,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B7/30": {
+      "code": "D04B7/30",
+      "level": 1,
+      "parent": "D04B7/00",
+      "ja": "特殊な形状の編み地を編成するためにとくに採用されるもの",
+      "en": "specially adapted for knitting goods of particular configuration",
+      "count": 336,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B7/32": {
+      "code": "D04B7/32",
+      "level": 2,
+      "parent": "D04B7/30",
+      "ja": "円筒編み物用",
+      "en": "tubular goods",
+      "count": 267,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B7/34": {
+      "code": "D04B7/34",
+      "level": 3,
+      "parent": "D04B7/32",
+      "ja": "手袋用",
+      "en": "gloves",
+      "count": 237,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B9/00": {
+      "code": "D04B9/00",
+      "level": 0,
+      "parent": "D04B",
+      "ja": "独立可動針を備えた円形よこ編み機（固定ひげ針を備えたものＤ０４Ｂ１３／００）",
+      "en": "Circular weft knitting machines with independently-movable needles(with fixed spring or bearded needles <b>D04B13/00</b>)",
+      "count": 1354,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B9/02": {
+      "code": "D04B9/02",
+      "level": 1,
+      "parent": "D04B9/00",
+      "ja": "１組の編み針を備えたもの",
+      "en": "with one set of needles",
+      "count": 366,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B9/04": {
+      "code": "D04B9/04",
+      "level": 2,
+      "parent": "D04B9/02",
+      "ja": "ひげ針を備えたもの",
+      "en": "with spring or bearded needles",
+      "count": 46,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B9/06": {
+      "code": "D04B9/06",
+      "level": 1,
+      "parent": "D04B9/00",
+      "ja": "ゴム編み地を編成するためニードルシリンダとダイヤルを備えたもの",
+      "en": "with needle cylinder and dial for ribbed goods",
+      "count": 753,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B9/08": {
+      "code": "D04B9/08",
+      "level": 2,
+      "parent": "D04B9/06",
+      "ja": "両面編み物のためのもの",
+      "en": "for interlock goods",
+      "count": 114,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B9/10": {
+      "code": "D04B9/10",
+      "level": 1,
+      "parent": "D04B9/00",
+      "ja": "パール編みすなわちリンクスループ形成用の２つのニードルシリンダを備えたもの",
+      "en": "with two needle cylinders for purl work or for Links-Links loop formation",
+      "count": 874,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B9/12": {
+      "code": "D04B9/12",
+      "level": 1,
+      "parent": "D04B9/00",
+      "ja": "パイル糸を編み込むための装置を備えたもの",
+      "en": "with provision for incorporating pile threads",
+      "count": 488,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B9/14": {
+      "code": "D04B9/14",
+      "level": 1,
+      "parent": "D04B9/00",
+      "ja": "ばら繊維を編み込むための装置を備えたもの，例．ハイパイル編み地におけるもの",
+      "en": "with provision for incorporating loose fibres, e.g. in high-pile fabrics",
+      "count": 331,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B9/16": {
+      "code": "D04B9/16",
+      "level": 1,
+      "parent": "D04B9/00",
+      "ja": "編み地中にそう入糸を編み込むための装置を備えたもの",
+      "en": "with provision for incorporating internal threads in laid-in fabrics",
+      "count": 142,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B9/18": {
+      "code": "D04B9/18",
+      "level": 1,
+      "parent": "D04B9/00",
+      "ja": "補強糸を編み込むことによって補強するための装置を備えたもの",
+      "en": "with provision for splicing by incorporating reinforcing threads",
+      "count": 331,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B9/20": {
+      "code": "D04B9/20",
+      "level": 1,
+      "parent": "D04B9/00",
+      "ja": "目増やし，目減らしのための機構を備えたもの；往復運動を備えたもの，例．平坦部の編成のためのもの［２００６．０１］",
+      "en": "with provision for narrowing or widening; with reciprocatory action, e.g. for knitting of flat portions",
+      "count": 283,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B9/22": {
+      "code": "D04B9/22",
+      "level": 1,
+      "parent": "D04B9/00",
+      "ja": "編み組織を変える機構を備えたもの，例．平編みからゴム編み",
+      "en": "with provision for changing the fabric construction, e.g. from plain to rib-loop fabric",
+      "count": 88,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B9/24": {
+      "code": "D04B9/24",
+      "level": 1,
+      "parent": "D04B9/00",
+      "ja": "編み始め部のための特別の手段を備えたもの，例．ノンラン縁部のためのもの",
+      "en": "with special provision for commencing goods, e.g. with non-run edges",
+      "count": 71,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B9/26": {
+      "code": "D04B9/26",
+      "level": 1,
+      "parent": "D04B9/00",
+      "ja": "柄編み地を編成するためのもの",
+      "en": "for producing patterned fabrics",
+      "count": 757,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B9/28": {
+      "code": "D04B9/28",
+      "level": 2,
+      "parent": "D04B9/26",
+      "ja": "色柄を備えたもの",
+      "en": "with colour patterns",
+      "count": 134,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B9/30": {
+      "code": "D04B9/30",
+      "level": 3,
+      "parent": "D04B9/28",
+      "ja": "縞付けによるもの",
+      "en": "by striping",
+      "count": 73,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B9/32": {
+      "code": "D04B9/32",
+      "level": 4,
+      "parent": "D04B9/30",
+      "ja": "二重の縞付けによるもの",
+      "en": "by wrap striping",
+      "count": 87,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B9/34": {
+      "code": "D04B9/34",
+      "level": 3,
+      "parent": "D04B9/28",
+      "ja": "添え糸によるもの",
+      "en": "by plating",
+      "count": 125,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B9/36": {
+      "code": "D04B9/36",
+      "level": 3,
+      "parent": "D04B9/28",
+      "ja": "往復運動によるインターシャ模様",
+      "en": "Intarsia work obtained by reciprocatory action",
+      "count": 41,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B9/38": {
+      "code": "D04B9/38",
+      "level": 2,
+      "parent": "D04B9/26",
+      "ja": "編み柄を備えたもの",
+      "en": "with stitch patterns",
+      "count": 489,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B9/40": {
+      "code": "D04B9/40",
+      "level": 1,
+      "parent": "D04B9/00",
+      "ja": "一方の編み機から他方の編み機に編み地を移すための装置を備えたもの",
+      "en": "with provision for transfer of knitted goods from one machine to another",
+      "count": 250,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B9/42": {
+      "code": "D04B9/42",
+      "level": 1,
+      "parent": "D04B9/00",
+      "ja": "特殊な形状の編み物を編成するためとくに採用されるもの",
+      "en": "specially adapted for producing goods of particular configuration",
+      "count": 420,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B9/44": {
+      "code": "D04B9/44",
+      "level": 2,
+      "parent": "D04B9/42",
+      "ja": "小径の細長い筒状編み物，例．ケーブル用の被覆（電線を被覆するものＨ０１Ｂ１３／２２）",
+      "en": "elongated tubular articles of small diameter, e.g. coverings for cables(sheathing electric cables <b>H01B13/22</b>)",
+      "count": 281,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B9/46": {
+      "code": "D04B9/46",
+      "level": 2,
+      "parent": "D04B9/42",
+      "ja": "靴下またはその部分用",
+      "en": "stockings, or portions thereof",
+      "count": 2206,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B9/48": {
+      "code": "D04B9/48",
+      "level": 3,
+      "parent": "D04B9/46",
+      "ja": "ノンラン靴下用",
+      "en": "non-run stockings",
+      "count": 28,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B9/50": {
+      "code": "D04B9/50",
+      "level": 4,
+      "parent": "D04B9/48",
+      "ja": "マイクロメッシュ靴下用",
+      "en": "micromesh stockings",
+      "count": 1,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B9/52": {
+      "code": "D04B9/52",
+      "level": 3,
+      "parent": "D04B9/46",
+      "ja": "外科用靴下用",
+      "en": "surgical stockings",
+      "count": 73,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B9/54": {
+      "code": "D04B9/54",
+      "level": 3,
+      "parent": "D04B9/46",
+      "ja": "ウエルト，例．二重または折り返しウエルト用",
+      "en": "welts, e.g. double or turned welts",
+      "count": 585,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B9/56": {
+      "code": "D04B9/56",
+      "level": 3,
+      "parent": "D04B9/46",
+      "ja": "かかとまたはつま先部用",
+      "en": "heel or toe portions",
+      "count": 395,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B9/58": {
+      "code": "D04B9/58",
+      "level": 2,
+      "parent": "D04B9/42",
+      "ja": "手袋用",
+      "en": "gloves",
+      "count": 86,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B11/00": {
+      "code": "D04B11/00",
+      "level": 0,
+      "parent": "D04B",
+      "ja": "固定針を備えたストレートバー編み機（独立可動針を備えた平床式編み機Ｄ０４Ｂ７／００）",
+      "en": "Straight-bar knitting machines with fixed needles(flat-bed machines with independently-movable needles <b>D04B7/00</b>)",
+      "count": 1127,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B11/02": {
+      "code": "D04B11/02",
+      "level": 1,
+      "parent": "D04B11/00",
+      "ja": "１組の編み針を備えたもの",
+      "en": "with one set of needles",
+      "count": 35,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B11/04": {
+      "code": "D04B11/04",
+      "level": 1,
+      "parent": "D04B11/00",
+      "ja": "２組の編み針を備えたもの",
+      "en": "with two sets of needles",
+      "count": 119,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B11/06": {
+      "code": "D04B11/06",
+      "level": 1,
+      "parent": "D04B11/00",
+      "ja": "フルファッション編み地を編成するための目増やしまたは目減らし機構を備えたもの",
+      "en": "with provision for narrowing or widening to produce fully-fashioned goods",
+      "count": 286,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B11/08": {
+      "code": "D04B11/08",
+      "level": 1,
+      "parent": "D04B11/00",
+      "ja": "パイル糸を編み込むための機構を備えたもの",
+      "en": "with provision for incorporating pile threads",
+      "count": 18,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B11/10": {
+      "code": "D04B11/10",
+      "level": 1,
+      "parent": "D04B11/00",
+      "ja": "編み地中にそう入糸を編み込むための機構を備えたもの",
+      "en": "with provision for incorporating internal threads in laid-in fabrics",
+      "count": 9,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B11/12": {
+      "code": "D04B11/12",
+      "level": 1,
+      "parent": "D04B11/00",
+      "ja": "弾性糸からなる編み地または弾性糸を編み込んだ編み地を製造するためのもの",
+      "en": "for producing fabrics from, or incorporating, elastic threads",
+      "count": 26,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B11/14": {
+      "code": "D04B11/14",
+      "level": 1,
+      "parent": "D04B11/00",
+      "ja": "編み組織を変える機構を備えたもの，例．平編みからゴム編み",
+      "en": "with provision for changing the fabric construction, e.g. from plain to rib-loop fabric",
+      "count": 26,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B11/16": {
+      "code": "D04B11/16",
+      "level": 1,
+      "parent": "D04B11/00",
+      "ja": "編み始め部のために特別の手段を備えたもの，例．ノンラン縁部のためのもの",
+      "en": "with special provision for commencing goods, e.g. with non-run edges",
+      "count": 10,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B11/18": {
+      "code": "D04B11/18",
+      "level": 1,
+      "parent": "D04B11/00",
+      "ja": "柄編み地を編成するためのもの",
+      "en": "for producing patterned fabrics",
+      "count": 39,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B11/20": {
+      "code": "D04B11/20",
+      "level": 2,
+      "parent": "D04B11/18",
+      "ja": "色柄を備えたもの",
+      "en": "with colour patterns",
+      "count": 104,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B11/22": {
+      "code": "D04B11/22",
+      "level": 2,
+      "parent": "D04B11/18",
+      "ja": "編み柄を備えたもの",
+      "en": "with stitch patterns",
+      "count": 252,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B11/24": {
+      "code": "D04B11/24",
+      "level": 1,
+      "parent": "D04B11/00",
+      "ja": "一方の編み機から他の編み機に編み地を移す機構を備えたもの",
+      "en": "with provision for transfer of knitted goods from one machine to another",
+      "count": 69,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B11/26": {
+      "code": "D04B11/26",
+      "level": 1,
+      "parent": "D04B11/00",
+      "ja": "特殊形状の編み地を編成するためにとくに採用されるもの",
+      "en": "specially adapted for producing goods of particular configuration",
+      "count": 30,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B11/28": {
+      "code": "D04B11/28",
+      "level": 2,
+      "parent": "D04B11/26",
+      "ja": "靴下またはその部分用",
+      "en": "stockings, or portions thereof",
+      "count": 362,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B11/30": {
+      "code": "D04B11/30",
+      "level": 3,
+      "parent": "D04B11/28",
+      "ja": "ノンラン靴下用",
+      "en": "non-run stockings",
+      "count": 6,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B11/32": {
+      "code": "D04B11/32",
+      "level": 3,
+      "parent": "D04B11/28",
+      "ja": "ウエルト，例．二重または折り返しウエルト用",
+      "en": "welts, e.g. double or turned welts",
+      "count": 305,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B11/34": {
+      "code": "D04B11/34",
+      "level": 3,
+      "parent": "D04B11/28",
+      "ja": "かかとまたはつま先部用",
+      "en": "heel or toe portions",
+      "count": 38,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B11/36": {
+      "code": "D04B11/36",
+      "level": 2,
+      "parent": "D04B11/26",
+      "ja": "他の衣服用",
+      "en": "other wearing apparel",
+      "count": 6,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B13/00": {
+      "code": "D04B13/00",
+      "level": 0,
+      "parent": "D04B",
+      "ja": "固定されたひげ針を備えた円形よこ編み機，例．ループホイール編み機（独立可動針を備えたものＤ０４Ｂ９／００）",
+      "en": "Circular weft knitting machines with fixed spring or bearded needles, e.g. loop-wheel machines(with independently-movable needles <b>D04B9/00</b>)",
+      "count": 183,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B13/02": {
+      "code": "D04B13/02",
+      "level": 1,
+      "parent": "D04B13/00",
+      "ja": "水平方向に並べられた針を有するもの",
+      "en": "with horizontal needles",
+      "count": 153,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B15/00": {
+      "code": "D04B15/00",
+      "level": 0,
+      "parent": "D04B",
+      "ja": "よこ編み機に限定される機械の細部またはそれに付随した編成補助装置（限定されない部品または補助装置Ｄ０４Ｂ３５／００）",
+      "en": "Details of, or auxiliary devices incorporated in, weft knitting machines, restricted to machines of this kind(details or auxiliary devices not so restricted <b>D04B35/00</b>)",
+      "count": 5261,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B15/02": {
+      "code": "D04B15/02",
+      "level": 1,
+      "parent": "D04B15/00",
+      "ja": "編み目移し具",
+      "en": "Loop-transfer points",
+      "count": 513,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B15/04": {
+      "code": "D04B15/04",
+      "level": 2,
+      "parent": "D04B15/02",
+      "ja": "ストレートバー編み機のためのもの",
+      "en": "for straight-bar knitting machines",
+      "count": 123,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B15/06": {
+      "code": "D04B15/06",
+      "level": 1,
+      "parent": "D04B15/00",
+      "ja": "シンカ",
+      "en": "Sinkers",
+      "count": 1723,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B15/08": {
+      "code": "D04B15/08",
+      "level": 1,
+      "parent": "D04B15/00",
+      "ja": "ベラおこし；ブラシ",
+      "en": "Needle latch openers; Brushes",
+      "count": 299,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B15/10": {
+      "code": "D04B15/10",
+      "level": 1,
+      "parent": "D04B15/00",
+      "ja": "針床",
+      "en": "Needle beds",
+      "count": 1247,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B15/12": {
+      "code": "D04B15/12",
+      "level": 2,
+      "parent": "D04B15/10",
+      "ja": "振り装置",
+      "en": "Shogging devices therefor",
+      "count": 230,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B15/14": {
+      "code": "D04B15/14",
+      "level": 1,
+      "parent": "D04B15/00",
+      "ja": "ニードルシリンダ",
+      "en": "Needle cylinders",
+      "count": 1109,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B15/16": {
+      "code": "D04B15/16",
+      "level": 2,
+      "parent": "D04B15/14",
+      "ja": "往復運動のための駆動装置",
+      "en": "Driving devices for reciprocatory action",
+      "count": 368,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B15/18": {
+      "code": "D04B15/18",
+      "level": 1,
+      "parent": "D04B15/00",
+      "ja": "ダイヤル",
+      "en": "Dials",
+      "count": 540,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B15/20": {
+      "code": "D04B15/20",
+      "level": 1,
+      "parent": "D04B15/00",
+      "ja": "ニードルバー",
+      "en": "Needle bars",
+      "count": 134,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B15/22": {
+      "code": "D04B15/22",
+      "level": 2,
+      "parent": "D04B15/20",
+      "ja": "そのための駆動装置",
+      "en": "Driving devices therefor",
+      "count": 135,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B15/24": {
+      "code": "D04B15/24",
+      "level": 1,
+      "parent": "D04B15/00",
+      "ja": "シンカヘッド；シンカバー",
+      "en": "Sinker heads; Sinker bars",
+      "count": 282,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B15/26": {
+      "code": "D04B15/26",
+      "level": 1,
+      "parent": "D04B15/00",
+      "ja": "スラーコック",
+      "en": "Slurcocks",
+      "count": 24,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B15/28": {
+      "code": "D04B15/28",
+      "level": 1,
+      "parent": "D04B15/00",
+      "ja": "ニードルプレッサ",
+      "en": "Needle pressers",
+      "count": 163,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B15/30": {
+      "code": "D04B15/30",
+      "level": 1,
+      "parent": "D04B15/00",
+      "ja": "糸キャリヤ腕駆動装置",
+      "en": "Driving devices for thread-carrier rods",
+      "count": 93,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B15/32": {
+      "code": "D04B15/32",
+      "level": 1,
+      "parent": "D04B15/00",
+      "ja": "編成具を作動するためのカム機構またはカム集合体",
+      "en": "Cam systems or assemblies for operating knitting instruments",
+      "count": 2676,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B15/34": {
+      "code": "D04B15/34",
+      "level": 2,
+      "parent": "D04B15/32",
+      "ja": "ダイヤルのためのもの",
+      "en": "for dials",
+      "count": 420,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B15/36": {
+      "code": "D04B15/36",
+      "level": 2,
+      "parent": "D04B15/32",
+      "ja": "平床式編機のためのもの",
+      "en": "for flat-bed knitting machines",
+      "count": 2714,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B15/38": {
+      "code": "D04B15/38",
+      "level": 1,
+      "parent": "D04B15/00",
+      "ja": "糸を編み針に供給，給糸または案内するための装置［２００６．０１］",
+      "en": "Devices for supplying, feeding, or guiding threads to needles",
+      "count": 2176,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B15/40": {
+      "code": "D04B15/40",
+      "level": 2,
+      "parent": "D04B15/38",
+      "ja": "糸パッケージのささえまたは保持具",
+      "en": "Holders or supports for thread packages",
+      "count": 447,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B15/42": {
+      "code": "D04B15/42",
+      "level": 3,
+      "parent": "D04B15/40",
+      "ja": "２個またはそれ以上の糸巻きの組立てのためのフレーム",
+      "en": "Frames for assemblies of two or more reels",
+      "count": 701,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B15/44": {
+      "code": "D04B15/44",
+      "level": 2,
+      "parent": "D04B15/38",
+      "ja": "個々の糸の張力装置",
+      "en": "Tensioning devices for individual threads",
+      "count": 1457,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B15/46": {
+      "code": "D04B15/46",
+      "level": 3,
+      "parent": "D04B15/44",
+      "ja": "弾性糸のためのもの",
+      "en": "for elastic threads",
+      "count": 102,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B15/48": {
+      "code": "D04B15/48",
+      "level": 2,
+      "parent": "D04B15/38",
+      "ja": "糸供給装置",
+      "en": "Thread-feeding devices",
+      "count": 2615,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B15/50": {
+      "code": "D04B15/50",
+      "level": 3,
+      "parent": "D04B15/48",
+      "ja": "弾性糸のためのもの",
+      "en": "for elastic threads",
+      "count": 246,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B15/52": {
+      "code": "D04B15/52",
+      "level": 3,
+      "parent": "D04B15/48",
+      "ja": "ストレートバー編み機のためのもの",
+      "en": "for straight-bar knitting machines",
+      "count": 45,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B15/54": {
+      "code": "D04B15/54",
+      "level": 2,
+      "parent": "D04B15/38",
+      "ja": "糸ガイド",
+      "en": "Thread guides",
+      "count": 1452,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B15/56": {
+      "code": "D04B15/56",
+      "level": 3,
+      "parent": "D04B15/54",
+      "ja": "平床式編み機のためのもの",
+      "en": "for flat-bed knitting machines",
+      "count": 1418,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B15/58": {
+      "code": "D04B15/58",
+      "level": 3,
+      "parent": "D04B15/54",
+      "ja": "円形編み機のためのもの；糸切り換え装置",
+      "en": "for circular knitting machines; Thread-changing devices",
+      "count": 1481,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B15/60": {
+      "code": "D04B15/60",
+      "level": 4,
+      "parent": "D04B15/58",
+      "ja": "糸保持または糸切断装置を備えたもの",
+      "en": "with thread-clamping or -severing devices",
+      "count": 900,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B15/61": {
+      "code": "D04B15/61",
+      "level": 5,
+      "parent": "D04B15/60",
+      "ja": "環状針列内に設けられたもの",
+      "en": "arranged within needle circle",
+      "count": 208,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B15/62": {
+      "code": "D04B15/62",
+      "level": 4,
+      "parent": "D04B15/58",
+      "ja": "糸継ぎを備えたもの",
+      "en": "with thread knotters",
+      "count": 81,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B15/64": {
+      "code": "D04B15/64",
+      "level": 3,
+      "parent": "D04B15/54",
+      "ja": "ストレートバー編み機のためのもの",
+      "en": "for straight-bar knitting machines",
+      "count": 491,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B15/66": {
+      "code": "D04B15/66",
+      "level": 1,
+      "parent": "D04B15/00",
+      "ja": "柄を決定または制御する装置",
+      "en": "Devices for determining or controlling patterns",
+      "count": 1772,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B15/68": {
+      "code": "D04B15/68",
+      "level": 2,
+      "parent": "D04B15/66",
+      "ja": "使用された編成具に特徴のあるもの",
+      "en": "characterised by the knitting instruments used",
+      "count": 972,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B15/70": {
+      "code": "D04B15/70",
+      "level": 3,
+      "parent": "D04B15/68",
+      "ja": "平床式編み機におけるもの",
+      "en": "in flat-bed knitting machines",
+      "count": 1147,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B15/72": {
+      "code": "D04B15/72",
+      "level": 3,
+      "parent": "D04B15/68",
+      "ja": "ストレートバー編み機におけるもの",
+      "en": "in straight-bar knitting machines",
+      "count": 6,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B15/74": {
+      "code": "D04B15/74",
+      "level": 3,
+      "parent": "D04B15/68",
+      "ja": "柄出しドラム",
+      "en": "Pattern drums",
+      "count": 378,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B15/76": {
+      "code": "D04B15/76",
+      "level": 3,
+      "parent": "D04B15/68",
+      "ja": "柄出し盤",
+      "en": "Pattern wheels",
+      "count": 298,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B15/78": {
+      "code": "D04B15/78",
+      "level": 3,
+      "parent": "D04B15/68",
+      "ja": "電気的装置",
+      "en": "Electrical devices",
+      "count": 1622,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B15/80": {
+      "code": "D04B15/80",
+      "level": 2,
+      "parent": "D04B15/66",
+      "ja": "使用された糸ガイドに特徴のあるもの",
+      "en": "characterised by the thread guides used",
+      "count": 191,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B15/82": {
+      "code": "D04B15/82",
+      "level": 2,
+      "parent": "D04B15/66",
+      "ja": "使用されたニードルカムに特徴のあるもの",
+      "en": "characterised by the needle cams used",
+      "count": 1480,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B15/84": {
+      "code": "D04B15/84",
+      "level": 2,
+      "parent": "D04B15/66",
+      "ja": "ジャカードカードまたはその機構（そのためのスタンプ装置Ｄ０３Ｃ）",
+      "en": "Jacquard cards or mechanisms(stamping apparatus therefor <b>D03C</b>)",
+      "count": 670,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B15/86": {
+      "code": "D04B15/86",
+      "level": 3,
+      "parent": "D04B15/84",
+      "ja": "平床式編み機におけるもの",
+      "en": "in flat-bed knitting machines",
+      "count": 532,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B15/88": {
+      "code": "D04B15/88",
+      "level": 1,
+      "parent": "D04B15/00",
+      "ja": "編み地の引き取りまたは取りはずし装置",
+      "en": "Take-up or draw-off devices for knitting products",
+      "count": 2454,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B15/90": {
+      "code": "D04B15/90",
+      "level": 2,
+      "parent": "D04B15/88",
+      "ja": "平床式編み機のためのもの",
+      "en": "for flat-bed knitting machines",
+      "count": 1183,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B15/92": {
+      "code": "D04B15/92",
+      "level": 2,
+      "parent": "D04B15/88",
+      "ja": "空気の作用によるもの",
+      "en": "pneumatic",
+      "count": 310,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B15/94": {
+      "code": "D04B15/94",
+      "level": 1,
+      "parent": "D04B15/00",
+      "ja": "他に分類されない駆動装置",
+      "en": "Driving-gear not otherwise provided for",
+      "count": 1427,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B15/96": {
+      "code": "D04B15/96",
+      "level": 2,
+      "parent": "D04B15/94",
+      "ja": "平床式編み機におけるもの",
+      "en": "in flat-bed knitting machines",
+      "count": 1070,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B15/98": {
+      "code": "D04B15/98",
+      "level": 2,
+      "parent": "D04B15/94",
+      "ja": "ストレートバー編み機におけるもの",
+      "en": "in straight-bar knitting machines",
+      "count": 33,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B15/99": {
+      "code": "D04B15/99",
+      "level": 2,
+      "parent": "D04B15/94",
+      "ja": "電気的に制御されるもの",
+      "en": "electrically controlled",
+      "count": 804,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B17/00": {
+      "code": "D04B17/00",
+      "level": 0,
+      "parent": "D04B",
+      "ja": "編成操作による編み地の修理",
+      "en": "Repairing knitted fabrics by knitting operations",
+      "count": 372,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B17/02": {
+      "code": "D04B17/02",
+      "level": 1,
+      "parent": "D04B17/00",
+      "ja": "縫い繕いによるもの",
+      "en": "by darning",
+      "count": 35,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B17/04": {
+      "code": "D04B17/04",
+      "level": 1,
+      "parent": "D04B17/00",
+      "ja": "落ち編み目の拾い上げによるもの",
+      "en": "by picking-up dropped stitches",
+      "count": 451,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B19/00": {
+      "code": "D04B19/00",
+      "level": 0,
+      "parent": "D04B",
+      "ja": "編み地のときほぐし",
+      "en": "Unravelling knitted fabrics",
+      "count": 225,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B21/00": {
+      "code": "D04B21/00",
+      "level": 0,
+      "parent": "D04B",
+      "ja": "特殊な機械の使用によらない編み地または編み物製品の編成のためのたて編み工程；このような工程によって限定される編み地または編み物製品",
+      "en": "Warp knitting processes for the production of fabrics or articles not dependent on the use of particular machines; Fabrics or articles defined by such processes",
+      "count": 6239,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B21/02": {
+      "code": "D04B21/02",
+      "level": 1,
+      "parent": "D04B21/00",
+      "ja": "パイル編み地または類似した表面をもつ編み物製品",
+      "en": "Pile fabrics or articles having similar surface features",
+      "count": 1289,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B21/04": {
+      "code": "D04B21/04",
+      "level": 2,
+      "parent": "D04B21/02",
+      "ja": "糸の素材に特徴のあるもの",
+      "en": "characterised by thread material",
+      "count": 1453,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B21/06": {
+      "code": "D04B21/06",
+      "level": 1,
+      "parent": "D04B21/00",
+      "ja": "模様編み地あるいは模様編み製品（透かし編み地Ｄ０４Ｂ２１／１０）",
+      "en": "Patterned fabrics or articles(open-work fabrics <b>D04B21/10</b>)",
+      "count": 1004,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B21/08": {
+      "code": "D04B21/08",
+      "level": 2,
+      "parent": "D04B21/06",
+      "ja": "糸の素材に特徴のあるもの",
+      "en": "characterised by thread material",
+      "count": 1298,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B21/10": {
+      "code": "D04B21/10",
+      "level": 1,
+      "parent": "D04B21/00",
+      "ja": "透かし編み地",
+      "en": "Open-work fabrics",
+      "count": 1391,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B21/12": {
+      "code": "D04B21/12",
+      "level": 2,
+      "parent": "D04B21/10",
+      "ja": "糸の素材に特徴のあるもの",
+      "en": "characterised by thread material",
+      "count": 1345,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B21/14": {
+      "code": "D04B21/14",
+      "level": 1,
+      "parent": "D04B21/00",
+      "ja": "一本またはそれ以上の糸，フリース，または多層編み地，または補強糸，接結糸，または飾り糸をそう入して編むことに特徴のある編み地；わずかな補助成分を編み込んだ編み地，例．装飾の目的のためのもの（パイル編み地Ｄ０４Ｂ２１／０２；不織布一般Ｄ０４Ｈ）",
+      "en": "Fabrics characterised by the incorporation by knitting, in one or more thread, fleece, or fabric layers, of reinforcing, binding, or decorative threads; Fabrics incorporating small auxiliary elements, e.g. for decorative purposes(pile fabrics <b>D04B21/02</b>; non-woven fabrics in general <b>D04H</b>)",
+      "count": 3134,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B21/16": {
+      "code": "D04B21/16",
+      "level": 2,
+      "parent": "D04B21/14",
+      "ja": "合成繊維を編み込んだもの",
+      "en": "incorporating synthetic threads",
+      "count": 1997,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B21/18": {
+      "code": "D04B21/18",
+      "level": 2,
+      "parent": "D04B21/14",
+      "ja": "弾性糸を編み込んだもの",
+      "en": "incorporating elastic threads",
+      "count": 1591,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B21/20": {
+      "code": "D04B21/20",
+      "level": 1,
+      "parent": "D04B21/00",
+      "ja": "特殊形状の編み物製品を編成するため特に採用されたもの",
+      "en": "specially adapted for knitting articles of particular configuration",
+      "count": 2164,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B23/00": {
+      "code": "D04B23/00",
+      "level": 0,
+      "parent": "D04B",
+      "ja": "平形たて編み機",
+      "en": "Flat warp knitting machines",
+      "count": 785,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B23/02": {
+      "code": "D04B23/02",
+      "level": 1,
+      "parent": "D04B23/00",
+      "ja": "２組の編み針をもつもの",
+      "en": "with two sets of needles",
+      "count": 327,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B23/04": {
+      "code": "D04B23/04",
+      "level": 1,
+      "parent": "D04B23/00",
+      "ja": "独立可動の編み針をもつもの",
+      "en": "with independently-movable knitting needles",
+      "count": 29,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B23/06": {
+      "code": "D04B23/06",
+      "level": 1,
+      "parent": "D04B23/00",
+      "ja": "弾性糸を編み込んだ編み地または弾性糸から成る編み地を製造するためのもの",
+      "en": "for producing fabrics consisting of, or incorporating, elastic threads",
+      "count": 67,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B23/08": {
+      "code": "D04B23/08",
+      "level": 1,
+      "parent": "D04B23/00",
+      "ja": "パイル糸を編み込むための手段を備えたもの",
+      "en": "with provision for incorporating pile threads",
+      "count": 431,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B23/10": {
+      "code": "D04B23/10",
+      "level": 1,
+      "parent": "D04B23/00",
+      "ja": "糸，フリースまたは基布を刺し通して編成するもの，または細長い心材のまわりに編成するもの",
+      "en": "for knitting through thread, fleece, or fabric layers, or around elongated core material",
+      "count": 389,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B23/12": {
+      "code": "D04B23/12",
+      "level": 1,
+      "parent": "D04B23/00",
+      "ja": "耳から耳までループ状でないよこ糸を挿入するための手段を備えたもの",
+      "en": "with provision for incorporating unlooped wefts extending from selvedge to selvedge",
+      "count": 523,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B23/14": {
+      "code": "D04B23/14",
+      "level": 1,
+      "parent": "D04B23/00",
+      "ja": "わずかな補助成分の編み込みのための手段を備えたもの，例．装飾の目的のためのもの",
+      "en": "with provision for incorporating small auxiliary elements, e.g. for decorative purposes",
+      "count": 52,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B23/16": {
+      "code": "D04B23/16",
+      "level": 1,
+      "parent": "D04B23/00",
+      "ja": "特殊な形状または構造の編み地または編み物製品を製造するためにとくに採用されたもの",
+      "en": "specially adapted for producing fabrics, or article blanks, of particular form or configuration",
+      "count": 190,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B23/18": {
+      "code": "D04B23/18",
+      "level": 2,
+      "parent": "D04B23/16",
+      "ja": "目減らしまたは目増しのための手段を備えたもの",
+      "en": "with provision for narrowing or widening",
+      "count": 11,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B23/20": {
+      "code": "D04B23/20",
+      "level": 2,
+      "parent": "D04B23/16",
+      "ja": "長靴下製品の製造のためのもの",
+      "en": "for producing stocking blanks",
+      "count": 12,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B23/22": {
+      "code": "D04B23/22",
+      "level": 1,
+      "parent": "D04B23/00",
+      "ja": "特別な糸ガイド装置をもつもの",
+      "en": "with special thread-guiding means",
+      "count": 130,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B23/24": {
+      "code": "D04B23/24",
+      "level": 1,
+      "parent": "D04B23/00",
+      "ja": "柄出しのためのカットプレッサ装置をもつもの",
+      "en": "with cut needle presser arrangements to produce patterns",
+      "count": 51,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B25/00": {
+      "code": "D04B25/00",
+      "level": 0,
+      "parent": "D04B",
+      "ja": "他に分類されないたて編み機",
+      "en": "Warp knitting machines not otherwise provided for",
+      "count": 109,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B25/02": {
+      "code": "D04B25/02",
+      "level": 1,
+      "parent": "D04B25/00",
+      "ja": "環状編み機",
+      "en": "Tubular machines",
+      "count": 234,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B25/04": {
+      "code": "D04B25/04",
+      "level": 1,
+      "parent": "D04B25/00",
+      "ja": "ミラニーズ機",
+      "en": "Milanese machines",
+      "count": 10,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B25/06": {
+      "code": "D04B25/06",
+      "level": 1,
+      "parent": "D04B25/00",
+      "ja": "ガルーンクロッシェ編み機",
+      "en": "Galloon crocheting machines",
+      "count": 84,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B25/08": {
+      "code": "D04B25/08",
+      "level": 2,
+      "parent": "D04B25/06",
+      "ja": "パイル編み物製造のためのもの",
+      "en": "for producing pile fabrics",
+      "count": 41,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B25/10": {
+      "code": "D04B25/10",
+      "level": 2,
+      "parent": "D04B25/06",
+      "ja": "模様編み物製造のためのもの",
+      "en": "for producing patterned fabrics",
+      "count": 41,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B25/12": {
+      "code": "D04B25/12",
+      "level": 3,
+      "parent": "D04B25/10",
+      "ja": "ジャカード機構によって制御される独立可動のよこ糸ガイドをもつもの",
+      "en": "with independently-movable weft-thread guides controlled by Jacquard mechanisms",
+      "count": 20,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B25/14": {
+      "code": "D04B25/14",
+      "level": 2,
+      "parent": "D04B25/06",
+      "ja": "特殊構造の編み物製品を製造するためにとくに採用されたもの",
+      "en": "specially adapted for producing articles of particular configuration",
+      "count": 48,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B27/00": {
+      "code": "D04B27/00",
+      "level": 0,
+      "parent": "D04B",
+      "ja": "たて編み機に限定された機械の細部またはそれに付随した補助装置（限定されない細部または補助装置Ｄ０４Ｂ３５／００）",
+      "en": "Details of, or auxiliary devices incorporated in, warp knitting machines, restricted to machines of this kind(details or auxiliary devices not so restricted <b>D04B35/00</b>)",
+      "count": 1787,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B27/02": {
+      "code": "D04B27/02",
+      "level": 1,
+      "parent": "D04B27/00",
+      "ja": "たて糸ガイド",
+      "en": "Warp-thread guides",
+      "count": 272,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B27/04": {
+      "code": "D04B27/04",
+      "level": 1,
+      "parent": "D04B27/00",
+      "ja": "シンカ",
+      "en": "Sinkers",
+      "count": 173,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B27/06": {
+      "code": "D04B27/06",
+      "level": 1,
+      "parent": "D04B27/00",
+      "ja": "ニードルバー；シンカバー",
+      "en": "Needle bars; Sinker bars",
+      "count": 543,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B27/08": {
+      "code": "D04B27/08",
+      "level": 2,
+      "parent": "D04B27/06",
+      "ja": "そのための駆動装置",
+      "en": "Driving devices therefor",
+      "count": 658,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B27/10": {
+      "code": "D04B27/10",
+      "level": 1,
+      "parent": "D04B27/00",
+      "ja": "針に糸を供給またはガイドするための装置",
+      "en": "Devices for supplying, feeding, or guiding threads to needles",
+      "count": 2035,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B27/12": {
+      "code": "D04B27/12",
+      "level": 2,
+      "parent": "D04B27/10",
+      "ja": "個々の糸の張力装置",
+      "en": "Tensioning devices for individual threads",
+      "count": 607,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B27/14": {
+      "code": "D04B27/14",
+      "level": 2,
+      "parent": "D04B27/10",
+      "ja": "糸張力調整棒装置",
+      "en": "Thread tensioning rod arrangements",
+      "count": 236,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B27/16": {
+      "code": "D04B27/16",
+      "level": 2,
+      "parent": "D04B27/10",
+      "ja": "ワープビーム；そのための軸受",
+      "en": "Warp beams; Bearings therefor",
+      "count": 251,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B27/18": {
+      "code": "D04B27/18",
+      "level": 3,
+      "parent": "D04B27/16",
+      "ja": "糸張力調整のためのワープビームのブレーキ装置",
+      "en": "Warp beam braking devices for thread tensioning",
+      "count": 36,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B27/20": {
+      "code": "D04B27/20",
+      "level": 3,
+      "parent": "D04B27/16",
+      "ja": "ワープビーム駆動装置",
+      "en": "Warp beam driving devices",
+      "count": 81,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B27/22": {
+      "code": "D04B27/22",
+      "level": 4,
+      "parent": "D04B27/20",
+      "ja": "電気的に制御されるもの",
+      "en": "electrically controlled",
+      "count": 109,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B27/24": {
+      "code": "D04B27/24",
+      "level": 2,
+      "parent": "D04B27/10",
+      "ja": "糸ガイドバー装置",
+      "en": "Thread guide bar assemblies",
+      "count": 1306,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B27/26": {
+      "code": "D04B27/26",
+      "level": 3,
+      "parent": "D04B27/24",
+      "ja": "そのための振り装置",
+      "en": "Shogging devices therefor",
+      "count": 992,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B27/28": {
+      "code": "D04B27/28",
+      "level": 4,
+      "parent": "D04B27/26",
+      "ja": "柄出し鎖の構成要素の数を減少させる装置をもつもの",
+      "en": "with arrangements to reduce the number of members of pattern chains",
+      "count": 26,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B27/30": {
+      "code": "D04B27/30",
+      "level": 4,
+      "parent": "D04B27/26",
+      "ja": "増力装置から成る駆動装置をもつもの",
+      "en": "with driving-gear comprising force-multiplication devices",
+      "count": 32,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B27/32": {
+      "code": "D04B27/32",
+      "level": 3,
+      "parent": "D04B27/24",
+      "ja": "ジャカード機構によって制御される独立可動の糸ガイドをもつもの",
+      "en": "with independently-movable thread guides controlled by Jacquard mechanisms",
+      "count": 463,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B27/34": {
+      "code": "D04B27/34",
+      "level": 1,
+      "parent": "D04B27/00",
+      "ja": "編まれた製品の引き取りまたは取りはずし装置",
+      "en": "Take-up or draw-off devices for knitted products",
+      "count": 1206,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B27/36": {
+      "code": "D04B27/36",
+      "level": 2,
+      "parent": "D04B27/34",
+      "ja": "テンプルをもつもの",
+      "en": "with temples",
+      "count": 59,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B31/00": {
+      "code": "D04B31/00",
+      "level": 0,
+      "parent": "D04B",
+      "ja": "編み物または編み物製品の製造ためのクロッシェ編み工程",
+      "en": "Crocheting processes for the production of fabrics or articles",
+      "count": 169,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B31/02": {
+      "code": "D04B31/02",
+      "level": 1,
+      "parent": "D04B31/00",
+      "ja": "クロッシェ編みされたひもまたは糸",
+      "en": "Crocheted strips or threads",
+      "count": 81,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B33/00": {
+      "code": "D04B33/00",
+      "level": 0,
+      "parent": "D04B",
+      "ja": "クロッシェ編み具またはその装置（たて編みのためのガルーンクロッシェ編み機Ｄ０４Ｂ２５／０６）",
+      "en": "Crocheting tools or apparatus(galloon crocheting machines for warp knitting <b>D04B25/06</b>)",
+      "count": 781,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B35/00": {
+      "code": "D04B35/00",
+      "level": 0,
+      "parent": "D04B",
+      "ja": "他に分類されない編み機の細部またはそれに付随した補助装置",
+      "en": "Details of, or auxiliary devices incorporated in, knitting machines, not otherwise provided for",
+      "count": 2352,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B35/02": {
+      "code": "D04B35/02",
+      "level": 1,
+      "parent": "D04B35/00",
+      "ja": "グループＤ０４Ｂ１５／００またはＤ０４Ｂ２７／００に分類されない編成用具または器具（針の製造Ｂ２１Ｇ１／００）",
+      "en": "Knitting tools or instruments not provided for in group <b>D04B15/00</b> or <b>D04B27/00</b>(needle manufacture <b>B21G1/00</b>)",
+      "count": 1171,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B35/04": {
+      "code": "D04B35/04",
+      "level": 2,
+      "parent": "D04B35/02",
+      "ja": "ベラ針",
+      "en": "Latch needles",
+      "count": 1105,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B35/06": {
+      "code": "D04B35/06",
+      "level": 2,
+      "parent": "D04B35/02",
+      "ja": "すべり舌針",
+      "en": "Sliding-tongue needles",
+      "count": 373,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B35/08": {
+      "code": "D04B35/08",
+      "level": 2,
+      "parent": "D04B35/02",
+      "ja": "ひげ針",
+      "en": "Spring or bearded needles",
+      "count": 200,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B35/10": {
+      "code": "D04B35/10",
+      "level": 1,
+      "parent": "D04B35/00",
+      "ja": "表示，警告または安全装置，例．停止装置",
+      "en": "Indicating, warning, or safety devices, e.g. stop motions",
+      "count": 1695,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B35/12": {
+      "code": "D04B35/12",
+      "level": 2,
+      "parent": "D04B35/10",
+      "ja": "糸の欠如に応答するもの",
+      "en": "responsive to thread consumption",
+      "count": 233,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B35/14": {
+      "code": "D04B35/14",
+      "level": 2,
+      "parent": "D04B35/10",
+      "ja": "糸切れに応答するもの",
+      "en": "responsive to thread breakage",
+      "count": 931,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B35/16": {
+      "code": "D04B35/16",
+      "level": 3,
+      "parent": "D04B35/14",
+      "ja": "一列の糸に共同の検出器をもつもの",
+      "en": "with detectors associated with a series of threads",
+      "count": 185,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B35/18": {
+      "code": "D04B35/18",
+      "level": 2,
+      "parent": "D04B35/10",
+      "ja": "編成用具の破損，置き違いまたは機械の不調に応答するもの",
+      "en": "responsive to breakage, misplacement, or malfunctioning of knitting instruments",
+      "count": 588,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B35/20": {
+      "code": "D04B35/20",
+      "level": 2,
+      "parent": "D04B35/10",
+      "ja": "編まれた製品のきず，例．穴，に応答するもの",
+      "en": "responsive to defects, e.g. holes in knitted products",
+      "count": 293,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B35/22": {
+      "code": "D04B35/22",
+      "level": 1,
+      "parent": "D04B35/00",
+      "ja": "糸の準備処理のための装置",
+      "en": "Devices for preparatory treatment of threads",
+      "count": 653,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B35/24": {
+      "code": "D04B35/24",
+      "level": 2,
+      "parent": "D04B35/22",
+      "ja": "湿潤または給油によるもの",
+      "en": "by moistening or lubricating",
+      "count": 281,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B35/26": {
+      "code": "D04B35/26",
+      "level": 2,
+      "parent": "D04B35/22",
+      "ja": "加熱によるもの",
+      "en": "by heating",
+      "count": 104,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B35/28": {
+      "code": "D04B35/28",
+      "level": 1,
+      "parent": "D04B35/00",
+      "ja": "機械部品への給油装置（一般的なものＦ１６Ｎ）",
+      "en": "Devices for lubricating machine parts(in general <b>F16N</b>)",
+      "count": 788,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B35/30": {
+      "code": "D04B35/30",
+      "level": 1,
+      "parent": "D04B35/00",
+      "ja": "機械部品の温度制御装置",
+      "en": "Devices for controlling temperature of machine parts",
+      "count": 505,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B35/32": {
+      "code": "D04B35/32",
+      "level": 1,
+      "parent": "D04B35/00",
+      "ja": "リントまたは毛羽を除去する装置",
+      "en": "Devices for removing lint or fluff",
+      "count": 3153,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B35/34": {
+      "code": "D04B35/34",
+      "level": 1,
+      "parent": "D04B35/00",
+      "ja": "編み物切断装置",
+      "en": "Devices for cutting knitted fabrics",
+      "count": 877,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B35/36": {
+      "code": "D04B35/36",
+      "level": 1,
+      "parent": "D04B35/00",
+      "ja": "編み物のなっせん，被覆または起毛装置",
+      "en": "Devices for printing, coating, or napping knitted fabrics",
+      "count": 146,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B37/00": {
+      "code": "D04B37/00",
+      "level": 0,
+      "parent": "D04B",
+      "ja": "編み機に使用する補助具または補助装置（ジャカードカード，柄出し鎖の穴あけ装置Ｄ０３Ｃ）",
+      "en": "Auxiliary apparatus or devices for use with knitting machines(Jacquard cards, pattern chains, apparatus for punching same <b>D03C</b>)",
+      "count": 516,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B37/02": {
+      "code": "D04B37/02",
+      "level": 1,
+      "parent": "D04B37/00",
+      "ja": "よこ編み機に使用するもの",
+      "en": "with weft knitting machines",
+      "count": 478,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B37/04": {
+      "code": "D04B37/04",
+      "level": 2,
+      "parent": "D04B37/02",
+      "ja": "柄出しドラムまたは柄出し盤における柄出しピンまたは類似の要素をそう入または調整するためのもの",
+      "en": "for inserting or adjusting pattern pins or like elements in pattern drums or wheels",
+      "count": 98,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B37/06": {
+      "code": "D04B37/06",
+      "level": 1,
+      "parent": "D04B37/00",
+      "ja": "たて編み機に使用するもの",
+      "en": "with warp knitting machines",
+      "count": 118,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B39/00": {
+      "code": "D04B39/00",
+      "level": 0,
+      "parent": "D04B",
+      "ja": "他に分類されない編成工程，装置または機械",
+      "en": "Knitting processes, apparatus or machines, not otherwise provided for",
+      "count": 725,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B39/02": {
+      "code": "D04B39/02",
+      "level": 1,
+      "parent": "D04B39/00",
+      "ja": "ら旋形をしたキャリアをもつもの",
+      "en": "with work carrier in screw form",
+      "count": 7,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B39/04": {
+      "code": "D04B39/04",
+      "level": 1,
+      "parent": "D04B39/00",
+      "ja": "よこ編みとたて編みの組み合わせのために改良したもの",
+      "en": "adapted for combined weft and warp knitting",
+      "count": 136,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B39/06": {
+      "code": "D04B39/06",
+      "level": 1,
+      "parent": "D04B39/00",
+      "ja": "編成と織成の組み合わせのために改良したもの",
+      "en": "adapted for combined knitting and weaving",
+      "count": 228,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    },
+    "D04B39/08": {
+      "code": "D04B39/08",
+      "level": 1,
+      "parent": "D04B39/00",
+      "ja": "編成用に改良したミシン",
+      "en": "Sewing machines modified for knitting",
+      "count": 534,
+      "sourceFile": "ipc_D04B.txt",
+      "kind": "ipc"
+    }
+  }
+}

@@ -1,0 +1,916 @@
+{
+  "generatedAt": "2026-03-20T02:17:46.785Z",
+  "total": 91,
+  "entries": {
+    "F01C": {
+      "code": "F01C",
+      "level": 0,
+      "parent": "F01",
+      "ja": "回転ピストン式または揺動ピストン式機械または機関（燃焼機関Ｆ０２；内部燃焼に関するものＦ０２Ｂ５３／００，Ｆ０２Ｂ５５／００；液体用機械Ｆ０３，Ｆ０４）<br><br><b><ul>注</ul></b><br>（１）このサブクラスは以下のものを包含する：<br>―圧縮性流体．例．水蒸気，を用いる回転ピストン式または揺動ピストン式機関；<br>―液体および圧縮性流体を用いる回転ピストン式または揺動ピストン式機関；<br>―圧縮性流体を用いる回転ピストン式または揺動ピストン式機械；<br>―液体および圧縮性流体を用いる回転ピストン式または揺動ピストン式機械。<br>（２）このサブクラスにおいては，下記の表現は以下に示す意味で用いる：<br>―“回転ピストン式機械”という用語はドイツ語の“Ｄｒｅｈｋｏｌｂｅｎｍａｓｃｈｉｎｅｎ”“Ｋｒｅｉｓｋｏｌｂｅｎｍａｓｃｈｉｎｅｎ”および“Ｕｍｌａｕｆｋｏｌｂｅｎｍａｓｃｈｉｎｅｎ”なる表現をも含んでいる。<br>（３）特に“回転ピストン式機械”，“揺動ピストン機械”，“回転ピストン”，“共動部材”，“共動部材の運動”，“歯または歯に相当する部分”および“内部軸”に関する定義についてはクラスＦ０１の前の注に注意すること。<br><br><b><ul>サブクラス内の索引</ul></b><br>機械または機関<br>回転ピストン式のもの　１／００～７／００<br>揺動ピストン式のもの　９／００<br>制御；監視；安全装置　２０／００<br>機械または機関の組み合わせ，および適用　１１／００，１３／００<br>共動する部材の駆動；密封装置　１７／００；１９／００<br>その他の細部および付属品　２１／００",
+      "en": "ROTARY-PISTON OR OSCILLATING-PISTON MACHINES OR ENGINES(combustion engines <b>F02</b>; internal-combustion aspects <b>F02B53/00</b>, <b>F02B55/00</b>; machines for liquids <b>F03</b>, <b>F04</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>This subclass <u>covers</u>:<ul><li>rotary-piston or oscillating-piston engines for elastic fluids, e.g. steam;</li><li>rotary-piston or oscillating-piston engines for liquids and elastic fluids;</li><li>rotary-piston or oscillating-piston machines for elastic fluids;</li><li>rotary-piston or oscillating-piston machines for liquids and elastic fluids.</li></ul></li><li>In this subclass, the following expression is used with the meaning indicated:<ul><li>\"rotary-piston machine\" includes the German expressions \"Drehkolbenmaschinen\", \"Kreiskolbenmaschinen\", and \"Umlaufkolbenmaschinen\".</li></ul></li><li>Attention is drawn to the Notes preceding class <b>F01</b>, especially as regards the definitions of \"rotary-piston machine\", \"oscillating-piston machine\", \"rotary piston\", \"co-operating members\", \"movement of co-operating members\", \"teeth or tooth-equivalents\" and \"internal-axis\".</li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">MACHINES OR ENGINES<tr><td width=\"70%\">With rotary pistons </td><td><b><b>1/00 to 7/00</b> </b></td></tr></tr><tr><td width=\"70%\">With oscillating pistons </td><td><b><b>9/00</b></b></td></tr></tr><tr><td width=\"70%\">Control; monitoring; safety arrangements </td><td><b><b>20/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">COMBINATIONS OR ADAPTATIONS OF MACHINES OR ENGINES </td><td><b><b>11/00</b>, <b>13/00</b></b></td></tr></tr><tr><td width=\"70%\">DRIVE OF CO-OPERATING MEMBERS; SEALING ARRANGEMENTS </td><td><b><b>17/00</b>; <b>19/00</b></b></td></tr></tr><tr><td width=\"70%\">OTHER DETAILS OR ACCESSORIES </td><td><b><b>21/00</b></b></td></tr></tr></table>",
+      "count": 397,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F01": {
+      "code": "F01",
+      "level": 0,
+      "parent": "F",
+      "ja": "機械または機関一般；機関設備一般；蒸気機関<br><br><b><ul>注</ul></b><br>このサブセクション，すなわちクラスＦ０１からＦ０４，の利用のための手引き<br>以下の注は，この部分の分類体系の利用を助けるためのものである；これらはいかなる場合にも分類体系を変更するものとして解釈すべきではない。<br>１．このサブセクションにおいては，“機関”または“ポンプ”を明示するサブクラスまたはグループは，他に特に分類されない限りそれらの操作方法を包含する。<br>２．このサブセクションにおいては，下記の用語または表現は以下に示す意味で用いる：<br>　・“機関”は流体エネルギを連続的に機械的動力に変換する装置を意味する。それ故，この語はそれ自体で，たとえば蒸気ピストン機関，蒸気タービン，または，内燃機関を含むが，一行程装置を除外する。“機関”はまた，それが特に計器に用いるのに適しているものを除き計器の流体作動部分をも包含する；<br>　・“ポンプ”は機械的または他の手段によって流体を連続的に押し揚げ，押圧し，圧縮または排出する装置を意味する；そしてこの用語はファンまたは送風機を含む；<br>　・“機械”は同様に機関およびポンプであり得る装置を意味し，かつ機関に限定された装置またはポンプに限定されたものを意味しない；<br>　・“容積形”は，作動流体エネルギの機械的エネルギへの変換およびその逆の変換において，作動流体の内容積変化が機械部材の変位に相当し，流体の動的影響が重要でないエネルギ変換方法を意味する；<br>　・“非容積形”は，作動流体エネルギの運動エネルギへの変換によって，作動流体のエネルギを機械的エネルギに変換する方法を意味する；その逆の変換の場合も同様である；<br>　・“揺動ピストン機械”とは流体と係合する仕事伝達部材が揺動する容積形機械を意味する。この定義は機関またはポンプに同様に適用する；<br>　・“回転ピストン機械”とは流体と係合する仕事伝達部材が固定軸のまわりに，もしくは円または同様の軌道に沿って移動する軸のまわりに，回転する容積形機械を意味する。この定義は機関またはポンプに同様に適用する；<br>　・“回転ピストン”とは回転ピストン機械の仕事伝達部材を意味し，適当な形式のもの，例．歯車のようなもの，でよい；<br>　・“共動部材”とは揺動ピストンまたは回転ピストンと，駆動作用またはポンプ作用を補助する他の部材，例．作動室壁，とを意味する；<br>　・“共動部材の運動”は，相対的，すなわち，たとえ文面上は“回転軸”とされていても，共動部材の一方は静止していることもあり，両方とも動くこともあると解釈すべきである；<br>　・“歯または歯に相当する部分”とは突出部，突起部，または係合部を含む；<br>　・“内部軸”形式とは内外の共動部材の回転軸がつねに外側部材内にあることを意味する，例．環状歯車の内歯とかみ合うピニオンと類似の態様であるもの<br>　・“自由ピストン”は行程の長さがそれによって駆動される部材によって限定されないピストンを意味する；<br>　・“シリンダ”は容積形作動室一般を意味し，そしてこの用語は円形断面のシリンダに限定されない；<br>　・“主軸”はピストンの往復運動を回転運動にまたはその反対に変換する軸を意味する；<br>　・“設備”は機関と機関を運転するのに必要な付加的装置を一緒にした意味である。たとえば，蒸気機関設備は蒸気機関および蒸気発生装置を含む；<br>　・“作動流体”はポンプにおける被駆動流体または機関における駆動流体を意味する。作動流体は圧縮性流体と呼ばれる圧縮性のガス体，例．蒸気，または液体でありうる。あるいは圧縮性流体と液相の共存も可能である。<br>　・“蒸気”は凝縮性蒸気一般を含み，また“特殊蒸気”は水蒸気以外の場合に用いる；<br>　・非容積形機械または機関に適用される“反動形”は圧力―速度変換が完全にまたは部分的に回転子において行なわれる機械または機関を意味し；回転子内における圧力―速度変換が全くないかわずかである機械または機関は“衝動形”と称する。<br>３．このサブセクションにおいては：<br>　・周期的に作動する弁，潤滑，ガス流消音器もしくは排気装置，または冷却はそれらの記述された応用に関係なくＦ０１Ｌ，Ｆ０１Ｍ，Ｆ０１Ｎ，Ｆ０１Ｐに分類する。ただしその分類の特徴がその応用に独特のものであるならば，その場合Ｆ０１ないしＦ０４の関連したサブクラスのみに分類する；<br>　・機械または機関の潤滑，ガス流消音器もしくは排気装置，または冷却はＦ０１Ｂに分類される蒸気機関に特有なものを除いてＦ０１Ｍ，Ｆ０１Ｎ，Ｆ０１Ｐに分類する。<br>４．このサブセクションを十分に理解して利用するため，この骨格をなす，Ｆ０１Ｂ，Ｆ０１Ｃ，Ｆ０１Ｄ，Ｆ０３ＢおよびＦ０４Ｂ，Ｆ０４Ｃ，Ｆ０４Ｄ，に関するかぎり<br>　・この分類表に存在する原則；<br>　・その要求する分類の特徴；および<br>　・その補足<br>を記憶しておくことが肝要である。<br>　　ｉ．原則<br>　　　これは上に挙げたサブグラスに本質的に関連している。より限定された事項を包含する他のサブグラス，特にＦ０２のものはここで考慮しない。<br>　　　各サブグラスは基本的に装置（機関またはポンプ）の類を包含し，また拡張によって同種の“機械”を同様に包含する。それ故に一方が他方より，より一般的性質を有する，２つの異なった主題は同じサブグラスに包含される。<br>　　　サブクラスが包含する２つの異なった主題の範囲をこえて，サブクラスＦ０１Ｂ，Ｆ０３Ｂ，Ｆ０４Ｂはさらに関連した類での異なった種類の装置に関係する他のサブクラスに関して一般性を有する。<br>　　　この一般性は，つねに同じサブクラスに関するものを除いて，異なった２つの主題の取り扱いに対しても同様に適用する。<br>　　　それ故，Ｆ０３Ｂはその機械を扱う部分においてＦ０４Ｂ，Ｆ０４Ｃに関する一般的クラスとして，および，その機関を扱う部分においてＦ０３Ｃに関する一般的クラスとして考えられるべきである。<br>　　ｉｉ．特徴<br>　　　ａ．サブグラスの主要な分類の特徴には機械；機関；ポンプの３つの可能性がある装置を級付けしていることである。<br>　　　ｂ．上記のごとく，“機械”はつねに他の２つの一方と関連している。これらの主分類は装置の一般的作動理論に従って：容積形；非容積形に再分類される。<br>　　　ｃ．容積形装置は作用理論を奏功する方法，すなわち，装置の種類に従って：単純往復ピストン；回転または揺動ピストン；その他にさらに再分類される。<br>　　　ｄ．他の分類の特徴は，すなわち：液体および圧縮性流体；圧縮性流体；流体の３種の装置が可能である，作動流体に関するものである。<br>　　ｉｉｉ．補足<br>　　　これは，装置または作動流体の種類に関し考慮のうえ特徴に従って，上に挙げたサブクラスの対との関連において存在する。<br>　　　種々の原則，特徴，補足と関連するサブクラスが下記のサブセクション内の索引に示されている。<br>次のようなことが索引から理解される。<br>・与えられた類の中の同種の装置に対して，“作動流体”の特徴が関連している：<br>　　Ｆ０１ＢおよびＦ０４Ｂ　機械<br>　　Ｆ０１ＣおよびＦ０４Ｃ　機械<br>　　Ｆ０１ＤおよびＦ０３Ｂ　機械<br>　　Ｆ０１ＢおよびＦ０３Ｃ　機関<br>　　Ｆ０１ＣおよびＦ０３Ｃ　機関<br>　　Ｆ０１ＤおよびＦ０３Ｂ　機関<br>・同じ種類の作動流体に対して，“装置”の特徴が相対的一般性から考えて同様にサブクラスに関連する。<br><br><b><ul>サブクラス内の索引</ul></b><br>機械<br>　容積形<br>　回転または揺動ピストン<br>　　液体および弾性流体または弾性流体　Ｆ０１Ｃ<br>　　流体のみ　Ｆ０４Ｃ<br>　往復ピストンまたはその他<br>　　液体および弾性流体または弾性流体　Ｆ０１Ｂ<br>　　流体のみ　Ｆ０４Ｂ<br>　非容積形<br>　　液体および弾性流体または弾性流体　Ｆ０１Ｄ<br>　　流体のみ　Ｆ０３Ｂ<br>機関<br>　容積形<br>　回転または揺動ピストン<br>　　液体および弾性流体または弾性流体　Ｆ０１Ｃ<br>　　流体のみ　Ｆ０３Ｃ<br>　往復ピストンまたはその他<br>　　液体および弾性流体または弾性流体　Ｆ０１Ｂ<br>　　流体のみ　Ｆ０３Ｃ<br>　非容積形<br>　　液体および弾性流体または弾性流体　Ｆ０１Ｄ<br>　　流体のみ　Ｆ０３Ｂ<br>ポンプ<br>　容積形<br>　　回転または揺動ピストン　Ｆ０４Ｃ<br>　　往復ピストンまたはその他　Ｆ０４Ｂ<br>　非容積形　Ｆ０４Ｄ",
+      "en": "<br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">MACHINES<tr><td width=\"70%\">positive displacement<tr><td width=\"70%\">rotary or oscillating piston<tr><td width=\"70%\">liquid <u>and</u> elastic fluid or elastic fluid</td><td><b><b>F01C</b></b></td></tr></tr><tr><td width=\"70%\">liquid only</td><td><b><b>F04C</b></b></td></tr></tr></tr><tr><td width=\"70%\">reciprocating piston or other<tr><td width=\"70%\">liquid <u>and</u> elastic fluid or elastic fluid</td><td><b><b>F01B</b></b></td></tr></tr><tr><td width=\"70%\">liquid only</td><td><b><b>F04B</b></b></td></tr></tr></tr></tr><tr><td width=\"70%\">non-positive displacement<tr><td width=\"70%\">liquid <u>and</u> elastic fluid or elastic fluid</td><td><b><b>F01D</b></b></td></tr></tr><tr><td width=\"70%\">liquid only</td><td><b><b>F03B</b></b></td></tr></tr></tr></tr><tr><td width=\"70%\">ENGINES<tr><td width=\"70%\">positive displacement<tr><td width=\"70%\">rotary or oscillating piston<tr><td width=\"70%\">liquid <u>and</u> elastic fluid or elastic fluid</td><td><b><b>F01C</b></b></td></tr></tr><tr><td width=\"70%\">liquid only</td><td><b><b>F03C</b></b></td></tr></tr></tr><tr><td width=\"70%\">reciprocating piston or other<tr><td width=\"70%\">liquid <u>and</u> elastic fluid or elastic fluid</td><td><b><b>F01B</b></b></td></tr></tr><tr><td width=\"70%\">liquid only</td><td><b><b>F03C</b></b></td></tr></tr></tr></tr><tr><td width=\"70%\">non-positive displacement<tr><td width=\"70%\">liquid <u>and</u> elastic fluid or elastic fluid</td><td><b><b>F01D</b></b></td></tr></tr><tr><td width=\"70%\">liquid only</td><td><b><b>F03B</b></b></td></tr></tr></tr></tr><tr><td width=\"70%\">PUMPS<tr><td width=\"70%\">positive displacement<tr><td width=\"70%\">rotary or oscillating piston</td><td><b><b>F04C</b></b></td></tr></tr><tr><td width=\"70%\">reciprocating piston or other</td><td><b><b>F04B</b></b></td></tr></tr></tr><tr><td width=\"70%\">non-positive displacement</td><td><b><b>F04D</b></b></td></tr></tr></tr></table>MACHINES OR ENGINES IN GENERAL; ENGINE PLANTS IN GENERAL; STEAM ENGINES",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F": {
+      "code": "F",
+      "level": 0,
+      "parent": null,
+      "ja": "機械工学；照明；加熱；武器；爆破",
+      "en": "MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F01C1/00": {
+      "code": "F01C1/00",
+      "level": 0,
+      "parent": "F01C",
+      "ja": "回転ピストン式機械または機関（共動する部材が平行でない軸をもつものＦ０１Ｃ３／００；少なくとも部分的には弾性変形可能な壁部がある作動室をもつものＦ０１Ｃ５／００；流体リングまたはそれと類似のものをもつものＦ０１Ｃ７／００；１つ以上の往復動を行なうピストンだけを駆動する，またはそのようなピストンだけによって作動流体が移送される，回転ピストン式機械または機関Ｆ０１Ｂ１３／００）<br><br><b><ul>注</ul></b><br>グループ１／３０は，１／０２～１／２４に優先する。",
+      "en": "Rotary-piston machines or engines(with axes of co-operating members non-parallel <b>F01C3/00</b>; with the working-chamber walls at least partly resiliently deformable <b>F01C5/00</b>; with fluid ring or the like <b>F01C7/00</b>; rotary-piston machines or engines in which the working fluid is exclusively displaced by, or exclusively displaces, one or more reciprocating pistons <b>F01B13/00</b>)",
+      "count": 1469,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C1/02": {
+      "code": "F01C1/02",
+      "level": 1,
+      "parent": "F01C1/00",
+      "ja": "円弧状の係合をする形式，すなわち，共動部材が並進的な循環運動を行なうもので，そして各部材が同数の歯または歯に相当する部分をもつもの",
+      "en": "of arcuate-engagement type, i.e. with circular translatory movement of co-operating members, each member having the same number of teeth or tooth-equivalents",
+      "count": 2871,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C1/04": {
+      "code": "F01C1/04",
+      "level": 2,
+      "parent": "F01C1/02",
+      "ja": "内部軸のある形式",
+      "en": "of internal-axis type",
+      "count": 520,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C1/06": {
+      "code": "F01C1/06",
+      "level": 2,
+      "parent": "F01C1/02",
+      "ja": "内部軸形式以外のもの（Ｆ０１Ｃ１／０６３が優先）",
+      "en": "of other than internal-axis type(<b>F01C1/063</b> takes precedence)",
+      "count": 90,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C1/063": {
+      "code": "F01C1/063",
+      "level": 2,
+      "parent": "F01C1/02",
+      "ja": "周方向空間がそれらの間で連続的に変化する同心軸上に配置された部材をもつもの［３］",
+      "en": "with coaxially-mounted members having continuously-changing circumferential spacing between them",
+      "count": 1224,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C1/067": {
+      "code": "F01C1/067",
+      "level": 3,
+      "parent": "F01C1/063",
+      "ja": "カムとホロワ形式の駆動装置を持つもの［３］",
+      "en": "having cam-and-follower type drive",
+      "count": 184,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C1/07": {
+      "code": "F01C1/07",
+      "level": 3,
+      "parent": "F01C1/063",
+      "ja": "クランク軸と連接棒形式の駆動装置を持つもの［３］",
+      "en": "having crankshaft-and-connecting-rod type drive",
+      "count": 520,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C1/073": {
+      "code": "F01C1/073",
+      "level": 3,
+      "parent": "F01C1/063",
+      "ja": "爪と爪車形式の駆動装置を持つもの［３］",
+      "en": "having pawl-and-ratchet type drive",
+      "count": 222,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C1/077": {
+      "code": "F01C1/077",
+      "level": 3,
+      "parent": "F01C1/063",
+      "ja": "歯車伝動形式の駆動装置を持つもの［３］",
+      "en": "having toothed-gearing type drive",
+      "count": 439,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C1/08": {
+      "code": "F01C1/08",
+      "level": 1,
+      "parent": "F01C1/00",
+      "ja": "相互にかみ合って係合する形式，すなわち共動する部材の係合状態が歯車伝動と類似のもの",
+      "en": "of intermeshing-engagement type, i.e. with engagement of co-operating members similar to that of toothed gearing",
+      "count": 791,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C1/10": {
+      "code": "F01C1/10",
+      "level": 2,
+      "parent": "F01C1/08",
+      "ja": "内部軸形式で外側部材が内側部材より多くの歯または歯に相当する部分，例．ローラ，をもつもの",
+      "en": "of internal-axis type with the outer member having more teeth or tooth-equivalents, e.g. rollers, than the inner member",
+      "count": 1123,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C1/107": {
+      "code": "F01C1/107",
+      "level": 3,
+      "parent": "F01C1/10",
+      "ja": "らせん状の歯をもつもの［３］",
+      "en": "with helical teeth",
+      "count": 256,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C1/113": {
+      "code": "F01C1/113",
+      "level": 3,
+      "parent": "F01C1/10",
+      "ja": "内側部材が外側部材とかみ合うローラをもつもの［３］",
+      "en": "the inner member carrying rollers intermeshing with the outer member",
+      "count": 65,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C1/12": {
+      "code": "F01C1/12",
+      "level": 2,
+      "parent": "F01C1/08",
+      "ja": "内部軸形式以外のもの",
+      "en": "of other than internal-axis type",
+      "count": 518,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C1/14": {
+      "code": "F01C1/14",
+      "level": 3,
+      "parent": "F01C1/12",
+      "ja": "歯のある回転ピストンをもつもの",
+      "en": "with toothed rotary pistons",
+      "count": 229,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C1/16": {
+      "code": "F01C1/16",
+      "level": 4,
+      "parent": "F01C1/14",
+      "ja": "らせん状の歯をもつもの，例．山形のねじ形のもの",
+      "en": "with helical teeth, e.g. chevron-shaped, screw type",
+      "count": 1275,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C1/18": {
+      "code": "F01C1/18",
+      "level": 4,
+      "parent": "F01C1/14",
+      "ja": "類似歯形をもつもの（Ｆ０１Ｃ１／１６が優先）",
+      "en": "with similar tooth forms(<b>F01C1/16</b> takes precedence)",
+      "count": 561,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C1/20": {
+      "code": "F01C1/20",
+      "level": 4,
+      "parent": "F01C1/14",
+      "ja": "異形歯形をもつもの（Ｆ０１Ｃ１／１６が優先）",
+      "en": "with dissimilar tooth forms(<b>F01C1/16</b> takes precedence)",
+      "count": 720,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C1/22": {
+      "code": "F01C1/22",
+      "level": 1,
+      "parent": "F01C1/00",
+      "ja": "内部軸形式で係合点において共動部材が同方向の動きをなし，または共動部材の一つが静止しており，そして内側部材が外側部材よりも多くの歯または歯に相当する部分をもつもの",
+      "en": "of internal-axis type with equidirectional movement of co-operating members at the points of engagement, or with one of the co-operating members being stationary, the inner member having more teeth or tooth-equivalents than the outer member",
+      "count": 980,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C1/24": {
+      "code": "F01C1/24",
+      "level": 1,
+      "parent": "F01C1/00",
+      "ja": "逆に係合する形式，すなわち，共動部材の係合点における動きが逆方向のもの",
+      "en": "of counter-engagement type, i.e. the movement of co-operating members at the points of engagement being in opposite directions",
+      "count": 225,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C1/26": {
+      "code": "F01C1/26",
+      "level": 2,
+      "parent": "F01C1/24",
+      "ja": "内部軸形式のもの",
+      "en": "of internal-axis type",
+      "count": 49,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C1/28": {
+      "code": "F01C1/28",
+      "level": 2,
+      "parent": "F01C1/24",
+      "ja": "内部軸形式以外のもの",
+      "en": "of other than internal-axis type",
+      "count": 133,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C1/30": {
+      "code": "F01C1/30",
+      "level": 1,
+      "parent": "F01C1/00",
+      "ja": "グループＦ０１Ｃ１／０２，Ｆ０１Ｃ１／０８，Ｆ０１Ｃ１／２２，Ｆ０１Ｃ１／２４の２以上のグループに当てはまる特徴をもつもの，または，これらのグループの一つに当てはまる特徴をもち，さらに共動部材間の他の運動形式を合わせもつもの",
+      "en": "having the characteristics covered by two or more of groups <b>F01C1/02</b>, <b>F01C1/08</b>, <b>F01C1/22</b>, <b>F01C1/24</b> or having the characteristics covered by one of these groups together with some other type of movement between co-operating members",
+      "count": 221,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C1/32": {
+      "code": "F01C1/32",
+      "level": 2,
+      "parent": "F01C1/30",
+      "ja": "グループＦ０１Ｃ１／０２に規定された運動と共動部材間の相対的な往復運動の両方があるもの",
+      "en": "having both the movement defined in group <b>F01C1/02</b> and relative reciprocation between the co-operating members",
+      "count": 308,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C1/324": {
+      "code": "F01C1/324",
+      "level": 3,
+      "parent": "F01C1/32",
+      "ja": "内側部材にちょうつがい式に係合し，かつ外側部材に関して往復運動するベーンをもつもの",
+      "en": "with vanes hinged to the inner member and reciprocating with respect to the outer member",
+      "count": 89,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C1/328": {
+      "code": "F01C1/328",
+      "level": 4,
+      "parent": "F01C1/324",
+      "ja": "そして外側部材にちょうつがい式に係合したもの［３］",
+      "en": "and hinged to the outer member",
+      "count": 39,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C1/332": {
+      "code": "F01C1/332",
+      "level": 3,
+      "parent": "F01C1/32",
+      "ja": "外側部材にちょうつがい式に係合し，かつ内側部材に関して往復運動するベーンをもつもの",
+      "en": "with vanes hinged to the outer member and reciprocating with respect to the inner member",
+      "count": 65,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C1/336": {
+      "code": "F01C1/336",
+      "level": 4,
+      "parent": "F01C1/332",
+      "ja": "そして内側部材にちょうつがい式に係合したもの［３］",
+      "en": "and hinged to the inner member",
+      "count": 38,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C1/34": {
+      "code": "F01C1/34",
+      "level": 2,
+      "parent": "F01C1/30",
+      "ja": "グループＦ０１Ｃ１／０８またはＦ０１Ｃ１／２２に規定された運動と共動部材間の相対的な往復運動の両方があるもの",
+      "en": "having the movement defined in group <b>F01C1/08</b> or <b>F01C1/22</b> and relative reciprocation between the co-operating members",
+      "count": 791,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C1/344": {
+      "code": "F01C1/344",
+      "level": 3,
+      "parent": "F01C1/34",
+      "ja": "内側部材に関して往復運動するベーンをもつもの",
+      "en": "with vanes reciprocating with respect to the inner member",
+      "count": 3805,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C1/348": {
+      "code": "F01C1/348",
+      "level": 4,
+      "parent": "F01C1/344",
+      "ja": "ベーンが円周方向の運動については外側回転可能部材と強制的に係合しているもの［３］",
+      "en": "the vanes positively engaging, with circumferential play, an outer rotatable member",
+      "count": 135,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C1/352": {
+      "code": "F01C1/352",
+      "level": 4,
+      "parent": "F01C1/344",
+      "ja": "ベーンが外側部材の軸に枢着されているもの［３］",
+      "en": "the vanes being pivoted on the axis of the outer member",
+      "count": 341,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C1/356": {
+      "code": "F01C1/356",
+      "level": 3,
+      "parent": "F01C1/34",
+      "ja": "外側部材については往復運動するベーンをもつもの［３］",
+      "en": "with vanes reciprocating with respect to the outer member",
+      "count": 1201,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C1/36": {
+      "code": "F01C1/36",
+      "level": 2,
+      "parent": "F01C1/30",
+      "ja": "サブグループＦ０１Ｃ１／２２およびＦ０１Ｃ１／２４に規定された両方の運動があるもの",
+      "en": "having both the movements defined in groups <b>F01C1/22</b> and <b>F01C1/24</b>",
+      "count": 191,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C1/38": {
+      "code": "F01C1/38",
+      "level": 2,
+      "parent": "F01C1/30",
+      "ja": "ちょうつがい式に動く部材があり，グループＦ０１Ｃ１／０２に規定された運動をするもの（Ｆ０１Ｃ１／３２が優先）［３］",
+      "en": "having the movement defined in group <b>F01C1/02</b> and having a hinged member(<b>F01C1/32</b> takes precedence)",
+      "count": 59,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C1/39": {
+      "code": "F01C1/39",
+      "level": 3,
+      "parent": "F01C1/38",
+      "ja": "外側部材と同じように内側部材にちょうつがい式に係合したベーンをもつもの［３］",
+      "en": "with vanes hinged to the inner as well as to the outer member",
+      "count": 85,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C1/40": {
+      "code": "F01C1/40",
+      "level": 2,
+      "parent": "F01C1/30",
+      "ja": "ちょうつがい式に係合した部材があり，グループＦ０１Ｃ１／０８またはＦ０１Ｃ１／２２に規定された運動をするもの",
+      "en": "having the movement defined in group <b>F01C1/08</b> or <b>F01C1/22</b> and having a hinged member",
+      "count": 134,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C1/44": {
+      "code": "F01C1/44",
+      "level": 3,
+      "parent": "F01C1/40",
+      "ja": "内側部材にちょうつがい式に係合したベーンをもつもの［３］",
+      "en": "with vanes hinged to the inner member",
+      "count": 759,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C1/46": {
+      "code": "F01C1/46",
+      "level": 3,
+      "parent": "F01C1/40",
+      "ja": "外側部材にちょうつがい式に係合したベーンをもつもの［３］",
+      "en": "with vanes hinged to the outer member",
+      "count": 441,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C3/00": {
+      "code": "F01C3/00",
+      "level": 0,
+      "parent": "F01C",
+      "ja": "共動する部材の運動の軸線が平行でない回転ピストン式機械または機関（作動室の側部が少なくとも部分的には弾性変形が可能なものＦ０１Ｃ５／００）",
+      "en": "Rotary-piston machines or engines with non-parallel axes of movement of co-operating members(with the working-chamber walls being at least partly resiliently deformable <b>F01C5/00</b>)",
+      "count": 161,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C3/02": {
+      "code": "F01C3/02",
+      "level": 1,
+      "parent": "F01C3/00",
+      "ja": "軸線が直角をなすもの",
+      "en": "the axes being arranged at an angle of 90&deg",
+      "count": 478,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C3/04": {
+      "code": "F01C3/04",
+      "level": 2,
+      "parent": "F01C3/02",
+      "ja": "軸方向にしゅう動するベーンをもつもの",
+      "en": "with axially-sliding vanes",
+      "count": 73,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C3/06": {
+      "code": "F01C3/06",
+      "level": 1,
+      "parent": "F01C3/00",
+      "ja": "軸線が直角以外の角をなすもの",
+      "en": "the axes being arranged otherwise than at an angle of 90&deg",
+      "count": 358,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C3/08": {
+      "code": "F01C3/08",
+      "level": 2,
+      "parent": "F01C3/06",
+      "ja": "相互にかみ合って係合する形式，すなわち，共動する部材の係合状態が歯車伝動と類似のもの",
+      "en": "of intermeshing-engagement type, i.e. with engagement of co-operating members similar to that of toothed gearing",
+      "count": 118,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C5/00": {
+      "code": "F01C5/00",
+      "level": 0,
+      "parent": "F01C",
+      "ja": "作動室の壁部が少なくとも部分的には弾性変形が可能な回転ピストン式機械または機関",
+      "en": "Rotary-piston machines or engines with the working-chamber walls at least partly resiliently deformable",
+      "count": 102,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C5/02": {
+      "code": "F01C5/02",
+      "level": 1,
+      "parent": "F01C5/00",
+      "ja": "内部部材，例．回転ピストン，の一部が弾性変形可能なもの",
+      "en": "the resiliently-deformable wall being part of the inner member, e.g. of a rotary piston",
+      "count": 115,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C5/04": {
+      "code": "F01C5/04",
+      "level": 1,
+      "parent": "F01C5/00",
+      "ja": "外部部材，例．ハウジング，の一部が弾性変形可能なもの",
+      "en": "the resiliently-deformable wall being part of the outer member, e.g. of a housing",
+      "count": 64,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C5/06": {
+      "code": "F01C5/06",
+      "level": 1,
+      "parent": "F01C5/00",
+      "ja": "分割された部材が弾性変形可能なもの",
+      "en": "the resiliently-deformable wall being a separate member",
+      "count": 71,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C5/08": {
+      "code": "F01C5/08",
+      "level": 2,
+      "parent": "F01C5/06",
+      "ja": "管状の部材，例．ホース",
+      "en": "of tubular form, e.g. hose",
+      "count": 56,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C7/00": {
+      "code": "F01C7/00",
+      "level": 0,
+      "parent": "F01C",
+      "ja": "流体リングまたはそれと類似のものをもつ回転ピストン式機械または機関",
+      "en": "Rotary-piston machines or engines with fluid ring or the like",
+      "count": 133,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C9/00": {
+      "code": "F01C9/00",
+      "level": 0,
+      "parent": "F01C",
+      "ja": "揺動ピストン式機械または機関",
+      "en": "Oscillating-piston machines or engines",
+      "count": 1431,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C11/00": {
+      "code": "F01C11/00",
+      "level": 0,
+      "parent": "F01C",
+      "ja": "複数の機械または機関の組み合わせであって，それぞれが回転ピストン式または揺動ピストン式機械または機関であるもの（Ｆ０１Ｃ１３／００が優先；複数のポンプの組み合わせＦ０４；流体伝達装置Ｆ１６Ｈ）",
+      "en": "Combinations of two or more machines or engines, each being of rotary-piston or oscillating-piston type(<b>F01C13/00</b> takes precedence; combinations of two or more pumps <b>F04</b>; fluid gearing <b>F16H</b>)",
+      "count": 1697,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C13/00": {
+      "code": "F01C13/00",
+      "level": 0,
+      "parent": "F01C",
+      "ja": "特別な用途のための機械または機関の適用；機関とそれによって駆動される装置の組み合わせ［２００６．０１］",
+      "en": "Adaptations of machines or engines for special use; Combinations of engines with devices driven thereby",
+      "count": 824,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C13/02": {
+      "code": "F01C13/02",
+      "level": 1,
+      "parent": "F01C13/00",
+      "ja": "手持工具を駆動するためのもの",
+      "en": "for driving hand-held tools or the like",
+      "count": 271,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C13/04": {
+      "code": "F01C13/04",
+      "level": 1,
+      "parent": "F01C13/00",
+      "ja": "ポンプまたは圧縮機を駆動するためのもの",
+      "en": "for driving pumps or compressors",
+      "count": 451,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C17/00": {
+      "code": "F01C17/00",
+      "level": 0,
+      "parent": "F01C",
+      "ja": "共動する部材の駆動手段の構成，例．回転ピストンとケーシングのためのもの",
+      "en": "Arrangements for drive of co-operating members, e.g. for rotary piston and casing",
+      "count": 247,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C17/02": {
+      "code": "F01C17/02",
+      "level": 1,
+      "parent": "F01C17/00",
+      "ja": "歯車伝動形式のもの（Ｆ０１Ｃ１／０７７が優先）［３］",
+      "en": "of toothed-gearing type(<b>F01C1/077</b> takes precedence)",
+      "count": 380,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C17/04": {
+      "code": "F01C17/04",
+      "level": 1,
+      "parent": "F01C17/00",
+      "ja": "カム－従動子形式のもの（Ｆ０１Ｃ１／０６７が優先）［３］",
+      "en": "of cam-and-follower type(<b>F01C1/067</b> takes precedence)",
+      "count": 49,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C17/06": {
+      "code": "F01C17/06",
+      "level": 1,
+      "parent": "F01C17/00",
+      "ja": "クランク，自在継手または同類の要素を使用するもの（Ｆ０１Ｃ１／０７が優先）［３］",
+      "en": "using cranks, universal joints, or similar elements(<b>F01C1/07</b> takes precedence)",
+      "count": 1101,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C19/00": {
+      "code": "F01C19/00",
+      "level": 0,
+      "parent": "F01C",
+      "ja": "回転ピストン式機械または機関の密封装置の構成（密封装置一般Ｆ１６Ｊ）",
+      "en": "Sealing arrangements in rotary-piston machines or engines(sealings in general <b>F16J</b>)",
+      "count": 1103,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C19/02": {
+      "code": "F01C19/02",
+      "level": 1,
+      "parent": "F01C19/00",
+      "ja": "半径方向に可動な作動流体の密封部材",
+      "en": "Radially-movable sealings for working fluids",
+      "count": 819,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C19/04": {
+      "code": "F01C19/04",
+      "level": 2,
+      "parent": "F01C19/02",
+      "ja": "不とう性の材料からなるもの",
+      "en": "of rigid material",
+      "count": 418,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C19/06": {
+      "code": "F01C19/06",
+      "level": 2,
+      "parent": "F01C19/02",
+      "ja": "可とう性の材料からなるもの",
+      "en": "of resilient material",
+      "count": 93,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C19/08": {
+      "code": "F01C19/08",
+      "level": 1,
+      "parent": "F01C19/00",
+      "ja": "軸方向に可動な作動流体の密封部材",
+      "en": "Axially-movable sealings for working fluids",
+      "count": 758,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C19/10": {
+      "code": "F01C19/10",
+      "level": 1,
+      "parent": "F01C19/00",
+      "ja": "軸方向および半径方向に可動な部品間の作動流体の密封部材",
+      "en": "Sealings for working fluids between radially and axially movable parts",
+      "count": 680,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C19/12": {
+      "code": "F01C19/12",
+      "level": 1,
+      "parent": "F01C19/00",
+      "ja": "作動流体以外のためのもの",
+      "en": "for other than working fluid",
+      "count": 558,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C20/00": {
+      "code": "F01C20/00",
+      "level": 0,
+      "parent": "F01C",
+      "ja": "機械または機関の制御，監視，またはこれに向けた安全装置",
+      "en": "Control of, monitoring of, or safety arrangements for, machines or engines",
+      "count": 250,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C20/02": {
+      "code": "F01C20/02",
+      "level": 1,
+      "parent": "F01C20/00",
+      "ja": "直列または並列で繋がっている複数の機械または機関に特に適しているもの［８］",
+      "en": "specially adapted for several machines or engines connected in series or in parallel",
+      "count": 57,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C20/04": {
+      "code": "F01C20/04",
+      "level": 1,
+      "parent": "F01C20/00",
+      "ja": "可逆機械または機関に特に適しているもの［８］",
+      "en": "specially adapted for reversible machines or engines",
+      "count": 128,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C20/06": {
+      "code": "F01C20/06",
+      "level": 1,
+      "parent": "F01C20/00",
+      "ja": "停止，始動，アイドリング，または無負荷操作に特に適しているもの［８］",
+      "en": "specially adapted for stopping, starting, idling or no-load operation",
+      "count": 93,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C20/08": {
+      "code": "F01C20/08",
+      "level": 1,
+      "parent": "F01C20/00",
+      "ja": "回転速度を変化させることに特徴があるもの［８］",
+      "en": "characterised by varying the rotational speed",
+      "count": 103,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C20/10": {
+      "code": "F01C20/10",
+      "level": 1,
+      "parent": "F01C20/00",
+      "ja": "作動室に関し注入または排出開口部の位置に特徴のあるもの［８］",
+      "en": "characterised by changing the positions of the inlet or outlet openings with respect to the working chamber",
+      "count": 87,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C20/12": {
+      "code": "F01C20/12",
+      "level": 2,
+      "parent": "F01C20/10",
+      "ja": "すべり弁を用いるもの［８］",
+      "en": "using sliding valves",
+      "count": 54,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C20/14": {
+      "code": "F01C20/14",
+      "level": 2,
+      "parent": "F01C20/10",
+      "ja": "回転弁を用いるもの［８］",
+      "en": "using rotating valves",
+      "count": 146,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C20/16": {
+      "code": "F01C20/16",
+      "level": 2,
+      "parent": "F01C20/10",
+      "ja": "リフト弁を用いるもの［８］",
+      "en": "using lift valves",
+      "count": 39,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C20/18": {
+      "code": "F01C20/18",
+      "level": 1,
+      "parent": "F01C20/00",
+      "ja": "作動室の容積を変化させることに特徴のあるもの（注入または排出開口部の位置の変更に特徴のあるものＦ０１Ｃ２０／１０）［８］",
+      "en": "characterised by varying the volume of the working chamber(by changing the positions of inlet or outlet openings <b>F01C20/10</b>)",
+      "count": 203,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C20/20": {
+      "code": "F01C20/20",
+      "level": 2,
+      "parent": "F01C20/18",
+      "ja": "作動室を形成する壁の内外形状を変更することに特徴のあるもの［８］",
+      "en": "by changing the form of the inner or outer contour of the working chamber",
+      "count": 71,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C20/22": {
+      "code": "F01C20/22",
+      "level": 2,
+      "parent": "F01C20/18",
+      "ja": "共動部材間の偏心率を変更することに特徴のあるもの［８］",
+      "en": "by changing the eccentricity between cooperating members",
+      "count": 70,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C20/24": {
+      "code": "F01C20/24",
+      "level": 1,
+      "parent": "F01C20/00",
+      "ja": "圧力または流量を調節する弁の使用に特徴のあるもの，例．弁の解放（Ｆ０１Ｃ２０／１０が優先）［８］",
+      "en": "characterised by using valves for controlling pressure or flow rate, e.g. discharge valves(<b>F01C20/10</b> takes precedence)",
+      "count": 246,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C20/26": {
+      "code": "F01C20/26",
+      "level": 2,
+      "parent": "F01C20/24",
+      "ja": "バイパス路を用いるもの［８］",
+      "en": "using bypass channels",
+      "count": 98,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C20/28": {
+      "code": "F01C20/28",
+      "level": 1,
+      "parent": "F01C20/00",
+      "ja": "安全装置；監視［８］",
+      "en": "Safety arrangements; Monitoring",
+      "count": 139,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C21/00": {
+      "code": "F01C21/00",
+      "level": 0,
+      "parent": "F01C",
+      "ja": "構成部品，細部および付属品でグループＦ０１Ｃ１／００～Ｆ０１Ｃ２０／００に分類されないもの",
+      "en": "Component parts, details, or accessories, not provided for in groups <b>F01C1/00 to F01C20/00</b> ",
+      "count": 1521,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C21/02": {
+      "code": "F01C21/02",
+      "level": 1,
+      "parent": "F01C21/00",
+      "ja": "軸受の配置（軸受の構造Ｆ１６Ｃ）",
+      "en": "Arrangements of bearings(bearing constructions <b>F16C</b>)",
+      "count": 821,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C21/04": {
+      "code": "F01C21/04",
+      "level": 1,
+      "parent": "F01C21/00",
+      "ja": "潤滑（機械または機関の潤滑一般Ｆ０１Ｍ）",
+      "en": "Lubrication(of machines or engines in general <b>F01M</b>)",
+      "count": 1141,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C21/06": {
+      "code": "F01C21/06",
+      "level": 1,
+      "parent": "F01C21/00",
+      "ja": "加熱；冷却（機械または機関の冷却一般Ｆ０１Ｐ）；断熱（断熱一般Ｆ１６Ｌ）",
+      "en": "Heating; Cooling(of machines or engines in general <b>F01P</b>);Heat insulation(heat insulation in general <b>F16L</b>)",
+      "count": 791,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C21/08": {
+      "code": "F01C21/08",
+      "level": 1,
+      "parent": "F01C21/00",
+      "ja": "回転ピストン（往復ピストン一般Ｆ１６Ｊ）",
+      "en": "Rotary pistons(reciprocating pistons in general <b>F16J</b>)",
+      "count": 4488,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C21/10": {
+      "code": "F01C21/10",
+      "level": 1,
+      "parent": "F01C21/00",
+      "ja": "回転ピストンと共動する外側部材；ケーシング（回転式機械または機関のケーシング一般Ｆ１６Ｍ）",
+      "en": "Outer members for co-operation with rotary pistons; Casings(casings for rotary engines or machines in general <b>F16M</b>)",
+      "count": 2824,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    },
+    "F01C21/18": {
+      "code": "F01C21/18",
+      "level": 1,
+      "parent": "F01C21/00",
+      "ja": "作業流体の供給または排出のための設備，例．注入または排出の構造に特徴のあるもの［８］",
+      "en": "Arrangements for admission or discharge of the working fluid, e.g. constructional features of the inlet or outlet",
+      "count": 1104,
+      "sourceFile": "ipc_F01C.txt",
+      "kind": "ipc"
+    }
+  }
+}

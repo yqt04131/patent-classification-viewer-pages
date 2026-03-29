@@ -1,0 +1,346 @@
+window.IPC_SHARD_B21G = {
+  "generatedAt": "2026-03-20T02:17:46.092Z",
+  "total": 34,
+  "entries": {
+    "B21G": {
+      "code": "B21G",
+      "level": 0,
+      "parent": "B21",
+      "ja": "金属製の針，ピンまたは釘の製造",
+      "en": "MAKING NEEDLES, PINS OR NAILS OF METAL",
+      "count": 91,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B21": {
+      "code": "B21",
+      "level": 0,
+      "parent": "B",
+      "ja": "本質的には材料の除去が行なわれない機械的金属加工；金属の打抜き<br><br><b><ul>注</ul></b><br>（１）このクラスは，以下のものを包含する：<br>―金属材料の加工；［２０１５．０１］<br>―適用される方法が金属材料加工に用いられるものと類似し且つ他の分類箇所に包含されないものに限る非金属材料の加工。［２０１５．０１］<br>（２）このクラスは，以下のものを包含しない：<br>―クラスＢ２１の異ったサブクラスによって包含される作業の組合せ，これはサブクラスＢ２３Ｐに包含される；<br>―クラスＢ２１のどれか特定のサブクラスによって包含される作業と，他のクラスによって包含される作業，例．材料の除去を伴う作業，の組合せ，これもサブクラスＢ２３Ｐに包含される。ただし，もし他のクラスによって包含される作業がＢ２１の単一のサブクラスに適正に包含される作業に対し補助的である場合は，その組合せはＢ２１のサブクラスに分類される。",
+      "en": "MECHANICAL METAL-WORKING WITHOUT ESSENTIALLY REMOVING MATERIAL; PUNCHING METAL; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This class <u>covers</u>: <ul><li>working of metallic materials;</li><li>working of non-metallic materials, provided that the methods applied are similar to those used in metal-working and not provided for elsewhere.</li></ul></li><li>This class <u>does not cover</u>: <ul><li>combinations of operations covered by different subclasses of class <b>B21</b>, which are covered by subclass <b>B23P</b>;</li><li>combinations of operations covered by any particular subclass of class <b>B21</b> with operations covered by other classes, e.g. with operations involving removal of material, which are also covered by subclass <b>B23P</b>, except that if the operations covered by the other classes are subsidiary to the operations properly covered by a single subclass of <b>B21</b> the combination is classified in that subclass.</li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B": {
+      "code": "B",
+      "level": 0,
+      "parent": null,
+      "ja": "処理操作；運輸",
+      "en": "PERFORMING OPERATIONS; TRANSPORTING",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B21G1/00": {
+      "code": "B21G1/00",
+      "level": 0,
+      "parent": "B21G",
+      "ja": "作業するために使用する針の製造（ピンのような針の頭部の形成Ｂ２１Ｇ３／１２；Ｕ状ヘアピンの製造Ｂ２１Ｇ７／０４）<br><br><b><ul>注</ul></b><br>グループ１／１２はグループ１／０２から１／１０に優先",
+      "en": "Making needles used for performing operations(forming heads on pin-like needles <b>B21G3/12</b>; making U-shaped hairpins <b>B21G7/04</b>)",
+      "count": 754,
+      "sourceFile": "ipc_B21G.txt",
+      "kind": "ipc"
+    },
+    "B21G1/02": {
+      "code": "B21G1/02",
+      "level": 1,
+      "parent": "B21G1/00",
+      "ja": "穴のある針の製造，例．縫い針，縫い合せ用突きぎり",
+      "en": "of needles with eyes, e.g. sewing-needles, sewing-awls",
+      "count": 243,
+      "sourceFile": "ipc_B21G.txt",
+      "kind": "ipc"
+    },
+    "B21G1/04": {
+      "code": "B21G1/04",
+      "level": 2,
+      "parent": "B21G1/02",
+      "ja": "機械用または工具用として用いるのに特に適した針の製造",
+      "en": "of needles specially adapted for use in machines or tools",
+      "count": 220,
+      "sourceFile": "ipc_B21G.txt",
+      "kind": "ipc"
+    },
+    "B21G1/06": {
+      "code": "B21G1/06",
+      "level": 1,
+      "parent": "B21G1/00",
+      "ja": "かぎまたはかかりのある針の製造，例．クローセ編みかぎ針",
+      "en": "of needles with hook or barb, e.g. crochet hooks",
+      "count": 113,
+      "sourceFile": "ipc_B21G.txt",
+      "kind": "ipc"
+    },
+    "B21G1/08": {
+      "code": "B21G1/08",
+      "level": 1,
+      "parent": "B21G1/00",
+      "ja": "中空針または末端中空針の製造，例．注射針，差込み針（Ｂ２１Ｇ１／１０が優先）",
+      "en": "of hollow needles or needles with hollow end, e.g. hypodermic needles, larding-needles(<b>B21G1/10</b> takes precedence)",
+      "count": 398,
+      "sourceFile": "ipc_B21G.txt",
+      "kind": "ipc"
+    },
+    "B21G1/10": {
+      "code": "B21G1/10",
+      "level": 1,
+      "parent": "B21G1/00",
+      "ja": "物を引き抜くためのつかみ装置をもつもの，例．チューブレスタイヤを修繕するためのもの",
+      "en": "equipped with locking means for the material to be drawn through, e.g. for repairing tubeless tyres",
+      "count": 9,
+      "sourceFile": "ipc_B21G.txt",
+      "kind": "ipc"
+    },
+    "B21G1/12": {
+      "code": "B21G1/12",
+      "level": 1,
+      "parent": "B21G1/00",
+      "ja": "固定，バリの除去，修正，研磨，研削",
+      "en": "Securing, cleaning-off burrs, reconditioning, polishing, grinding",
+      "count": 218,
+      "sourceFile": "ipc_B21G.txt",
+      "kind": "ipc"
+    },
+    "B21G3/00": {
+      "code": "B21G3/00",
+      "level": 0,
+      "parent": "B21G",
+      "ja": "ピン，釘または類似物の製造（かさ金付きのピンの製造Ｂ２１Ｇ５／００；Ｕ状ピンの製造Ｂ２１Ｇ７／００；割ピンの製造Ｂ２１Ｇ７／０８）［２］",
+      "en": "Making pins, nails, or the like(of pins with individual caps <b>B21G5/00</b>; of U-like shape <b>B21G7/00</b>; of split-pins <b>B21G7/08</b>)",
+      "count": 877,
+      "sourceFile": "ipc_B21G.txt",
+      "kind": "ipc"
+    },
+    "B21G3/02": {
+      "code": "B21G3/02",
+      "level": 1,
+      "parent": "B21G3/00",
+      "ja": "仕立てまたは家縫に使用するピンの製造",
+      "en": "of pins of the kind used in the tailoring trade or the household",
+      "count": 25,
+      "sourceFile": "ipc_B21G.txt",
+      "kind": "ipc"
+    },
+    "B21G3/04": {
+      "code": "B21G3/04",
+      "level": 2,
+      "parent": "B21G3/02",
+      "ja": "ピン先を止めるかまたは鎧装する部分を有するもの，例．安全ピン",
+      "en": "with locking or shielding device for the pin point, e.g. safety-pins",
+      "count": 70,
+      "sourceFile": "ipc_B21G.txt",
+      "kind": "ipc"
+    },
+    "B21G3/06": {
+      "code": "B21G3/06",
+      "level": 1,
+      "parent": "B21G3/00",
+      "ja": "肩のついた釘の製造",
+      "en": "of nails with shoulders",
+      "count": 42,
+      "sourceFile": "ipc_B21G.txt",
+      "kind": "ipc"
+    },
+    "B21G3/08": {
+      "code": "B21G3/08",
+      "level": 1,
+      "parent": "B21G3/00",
+      "ja": "頭と２以上のかぎまたは分割脚をもった釘の製造",
+      "en": "of nails with head and two or more shanks or split shanks",
+      "count": 66,
+      "sourceFile": "ipc_B21G.txt",
+      "kind": "ipc"
+    },
+    "B21G3/10": {
+      "code": "B21G3/10",
+      "level": 1,
+      "parent": "B21G3/00",
+      "ja": "波状釘またはピンの製造",
+      "en": "of undulated nails or pins",
+      "count": 33,
+      "sourceFile": "ipc_B21G.txt",
+      "kind": "ipc"
+    },
+    "B21G3/12": {
+      "code": "B21G3/12",
+      "level": 1,
+      "parent": "B21G3/00",
+      "ja": "アプセット；頭部の形成",
+      "en": "Upsetting; Forming heads",
+      "count": 446,
+      "sourceFile": "ipc_B21G.txt",
+      "kind": "ipc"
+    },
+    "B21G3/14": {
+      "code": "B21G3/14",
+      "level": 1,
+      "parent": "B21G3/00",
+      "ja": "ロール加工以外の方法で径を細くする方法",
+      "en": "Reducing diameter of parts otherwise than by rolling",
+      "count": 20,
+      "sourceFile": "ipc_B21G.txt",
+      "kind": "ipc"
+    },
+    "B21G3/16": {
+      "code": "B21G3/16",
+      "level": 1,
+      "parent": "B21G3/00",
+      "ja": "切削またはそれ以外の手段で先をつける方法",
+      "en": "Pointing, with or without cutting",
+      "count": 336,
+      "sourceFile": "ipc_B21G.txt",
+      "kind": "ipc"
+    },
+    "B21G3/18": {
+      "code": "B21G3/18",
+      "level": 1,
+      "parent": "B21G3/00",
+      "ja": "グループＢ２１Ｇ３／１２～Ｂ２１Ｇ３／１６の一つに限定されない手段によるもの（Ｂ２１Ｇ３／０６～Ｂ２１Ｇ３／１０が優先）",
+      "en": "by operations not restricted to one of the groups <b>B21G3/12 to B21G3/16</b> (<b>B21G3/06 to B21G3/10</b>  take precedence)",
+      "count": 313,
+      "sourceFile": "ipc_B21G.txt",
+      "kind": "ipc"
+    },
+    "B21G3/20": {
+      "code": "B21G3/20",
+      "level": 2,
+      "parent": "B21G3/18",
+      "ja": "不定長ワイヤーから製造するもの（ロール加工によるものＢ２１Ｇ３／３０）",
+      "en": "from wire of indefinite length(by rolling <b>B21G3/30</b>)",
+      "count": 268,
+      "sourceFile": "ipc_B21G.txt",
+      "kind": "ipc"
+    },
+    "B21G3/22": {
+      "code": "B21G3/22",
+      "level": 3,
+      "parent": "B21G3/20",
+      "ja": "頭をそろえて対にして形成するもの",
+      "en": "in pairs arranged head to head",
+      "count": 23,
+      "sourceFile": "ipc_B21G.txt",
+      "kind": "ipc"
+    },
+    "B21G3/24": {
+      "code": "B21G3/24",
+      "level": 3,
+      "parent": "B21G3/20",
+      "ja": "一方のピンまたは釘の頭と他方のピンまたは釘の先を同時に形成するもの",
+      "en": "by simultaneously forming the head of one nail and the adjacent point of another",
+      "count": 24,
+      "sourceFile": "ipc_B21G.txt",
+      "kind": "ipc"
+    },
+    "B21G3/26": {
+      "code": "B21G3/26",
+      "level": 2,
+      "parent": "B21G3/18",
+      "ja": "ストリップまたは板材から切断によるもの",
+      "en": "by cutting from strip or sheet material",
+      "count": 116,
+      "sourceFile": "ipc_B21G.txt",
+      "kind": "ipc"
+    },
+    "B21G3/28": {
+      "code": "B21G3/28",
+      "level": 2,
+      "parent": "B21G3/18",
+      "ja": "鍛造またはプレスによるもの",
+      "en": "by forging or pressing",
+      "count": 344,
+      "sourceFile": "ipc_B21G.txt",
+      "kind": "ipc"
+    },
+    "B21G3/30": {
+      "code": "B21G3/30",
+      "level": 2,
+      "parent": "B21G3/18",
+      "ja": "ロール加工によるもの",
+      "en": "by rolling",
+      "count": 120,
+      "sourceFile": "ipc_B21G.txt",
+      "kind": "ipc"
+    },
+    "B21G3/32": {
+      "code": "B21G3/32",
+      "level": 1,
+      "parent": "B21G3/00",
+      "ja": "釘またはピン製造機械への加工される材料の供給",
+      "en": "Feeding material to be worked to nail or pin making machines",
+      "count": 625,
+      "sourceFile": "ipc_B21G.txt",
+      "kind": "ipc"
+    },
+    "B21G5/00": {
+      "code": "B21G5/00",
+      "level": 0,
+      "parent": "B21G",
+      "ja": "かさ金または被覆頭部のついたピンまたは釘の製造",
+      "en": "Making pins or nails with attached caps or with coated heads",
+      "count": 145,
+      "sourceFile": "ipc_B21G.txt",
+      "kind": "ipc"
+    },
+    "B21G5/02": {
+      "code": "B21G5/02",
+      "level": 1,
+      "parent": "B21G5/00",
+      "ja": "画びょうまたは画びょう状のピンの製造",
+      "en": "of drawing-pins or pins of drawing-pin type",
+      "count": 108,
+      "sourceFile": "ipc_B21G.txt",
+      "kind": "ipc"
+    },
+    "B21G7/00": {
+      "code": "B21G7/00",
+      "level": 0,
+      "parent": "B21G",
+      "ja": "Ｕ状ピンまたは割ピンの製造（ペーパーファスナーまたはステープルの製造Ｂ２１Ｄ５３／４６，Ｂ２１Ｆ４５／１６）",
+      "en": "Making pins of U-like shape or split-pins(of paper fasteners or staples <b>B21D53/46</b>, <b>B21F45/16</b>)",
+      "count": 24,
+      "sourceFile": "ipc_B21G.txt",
+      "kind": "ipc"
+    },
+    "B21G7/02": {
+      "code": "B21G7/02",
+      "level": 1,
+      "parent": "B21G7/00",
+      "ja": "Ｕ状ピンの製造",
+      "en": "of U-like shape",
+      "count": 71,
+      "sourceFile": "ipc_B21G.txt",
+      "kind": "ipc"
+    },
+    "B21G7/04": {
+      "code": "B21G7/04",
+      "level": 2,
+      "parent": "B21G7/02",
+      "ja": "ヘアピンの製造",
+      "en": "of hairpins",
+      "count": 27,
+      "sourceFile": "ipc_B21G.txt",
+      "kind": "ipc"
+    },
+    "B21G7/06": {
+      "code": "B21G7/06",
+      "level": 3,
+      "parent": "B21G7/04",
+      "ja": "波状ヘアピンの製造",
+      "en": "of undulated hairpins",
+      "count": 29,
+      "sourceFile": "ipc_B21G.txt",
+      "kind": "ipc"
+    },
+    "B21G7/08": {
+      "code": "B21G7/08",
+      "level": 1,
+      "parent": "B21G7/00",
+      "ja": "割ピンの製造，例．コッターピン",
+      "en": "of split-pins, e.g. cotter-pins",
+      "count": 32,
+      "sourceFile": "ipc_B21G.txt",
+      "kind": "ipc"
+    }
+  }
+};

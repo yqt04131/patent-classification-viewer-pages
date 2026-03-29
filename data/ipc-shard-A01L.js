@@ -1,0 +1,216 @@
+window.IPC_SHARD_A01L = {
+  "generatedAt": "2026-03-20T02:17:45.861Z",
+  "total": 21,
+  "entries": {
+    "A01L": {
+      "code": "A01L",
+      "level": 0,
+      "parent": "A01",
+      "ja": "動物の装蹄<br><br><b><ul>サブクラス内の索引</ul></b><br>蹄鉄　１／００，３／００，５／００，９／００<br>装備および付属品　７／００，１１／００，１３／００，１５／００",
+      "en": "SHOEING OF ANIMALS; <br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">SHOES </td><td><b><b>1/00</b>, <b>3/00</b>, <b>5/00</b>, <b>9/00</b></b></td></tr></tr><tr><td width=\"70%\">EQUIPMENT AND ACCESSORIES </td><td><b><b>7/00</b>, <b>11/00</b>, <b>13/00</b>, <b>15/00</b></b></td></tr></tr></table>",
+      "count": 119,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A01": {
+      "code": "A01",
+      "level": 0,
+      "parent": "A",
+      "ja": "農業；林業；畜産；狩猟；捕獲；漁業",
+      "en": "AGRICULTURE; FORESTRY; ANIMAL HUSBANDRY; HUNTING; TRAPPING; FISHING",
+      "count": 0,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A": {
+      "code": "A",
+      "level": 0,
+      "parent": null,
+      "ja": "生活必需品",
+      "en": "HUMAN NECESSITIES",
+      "count": 0,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A01L1/00": {
+      "code": "A01L1/00",
+      "level": 0,
+      "parent": "A01L",
+      "ja": "馬または他の単蹄動物用の釘で装蹄された蹄鉄（Ａ０１Ｌ３／００が優先）",
+      "en": "Shoes for horses or other solipeds fastened with nails(<b>A01L3/00</b> takes precedence)",
+      "count": 235,
+      "sourceFile": "ipc_A01L.txt",
+      "kind": "ipc"
+    },
+    "A01L1/02": {
+      "code": "A01L1/02",
+      "level": 1,
+      "parent": "A01L1/00",
+      "ja": "一つの部分からなる固体の馬蹄鉄",
+      "en": "Solid horseshoes consisting of one part",
+      "count": 269,
+      "sourceFile": "ipc_A01L.txt",
+      "kind": "ipc"
+    },
+    "A01L1/04": {
+      "code": "A01L1/04",
+      "level": 1,
+      "parent": "A01L1/00",
+      "ja": "多数の部分からなる固体の馬蹄鉄",
+      "en": "Solid horseshoes consisting of multiple parts",
+      "count": 389,
+      "sourceFile": "ipc_A01L.txt",
+      "kind": "ipc"
+    },
+    "A01L3/00": {
+      "code": "A01L3/00",
+      "level": 0,
+      "parent": "A01L",
+      "ja": "釘づけされる付加的な締め具をもったまたはもたない，釘以外の手段で装蹄された馬蹄鉄",
+      "en": "Horseshoes fastened by means other than nails, with or without additional fastening by nailing",
+      "count": 357,
+      "sourceFile": "ipc_A01L.txt",
+      "kind": "ipc"
+    },
+    "A01L3/02": {
+      "code": "A01L3/02",
+      "level": 1,
+      "parent": "A01L3/00",
+      "ja": "一部からなる馬蹄鉄",
+      "en": "Horseshoes consisting of one part",
+      "count": 159,
+      "sourceFile": "ipc_A01L.txt",
+      "kind": "ipc"
+    },
+    "A01L3/04": {
+      "code": "A01L3/04",
+      "level": 1,
+      "parent": "A01L3/00",
+      "ja": "蝶番接手で連結された二部以上からなる馬蹄鉄",
+      "en": "Horseshoes consisting of two or more parts connected by hinged joints",
+      "count": 94,
+      "sourceFile": "ipc_A01L.txt",
+      "kind": "ipc"
+    },
+    "A01L3/06": {
+      "code": "A01L3/06",
+      "level": 1,
+      "parent": "A01L3/00",
+      "ja": "荷車用動物を湿地または類似のものの上を歩ませることを可能にする蹄鉄類似具",
+      "en": "Shoe-like appliances enabling draught animals to walk on bogs or the like",
+      "count": 66,
+      "sourceFile": "ipc_A01L.txt",
+      "kind": "ipc"
+    },
+    "A01L5/00": {
+      "code": "A01L5/00",
+      "level": 0,
+      "parent": "A01L",
+      "ja": "弾性材料製馬蹄鉄",
+      "en": "Horseshoes made of elastic materials",
+      "count": 635,
+      "sourceFile": "ipc_A01L.txt",
+      "kind": "ipc"
+    },
+    "A01L7/00": {
+      "code": "A01L7/00",
+      "level": 0,
+      "parent": "A01L",
+      "ja": "動物の蹄鉄付属具",
+      "en": "Accessories for shoeing animals",
+      "count": 194,
+      "sourceFile": "ipc_A01L.txt",
+      "kind": "ipc"
+    },
+    "A01L7/02": {
+      "code": "A01L7/02",
+      "level": 1,
+      "parent": "A01L7/00",
+      "ja": "馬蹄用弾性そう入品または底",
+      "en": "Elastic inserts or soles for horseshoes",
+      "count": 552,
+      "sourceFile": "ipc_A01L.txt",
+      "kind": "ipc"
+    },
+    "A01L7/04": {
+      "code": "A01L7/04",
+      "level": 1,
+      "parent": "A01L7/00",
+      "ja": "固い尖り金または鋲",
+      "en": "Solid calks or studs",
+      "count": 299,
+      "sourceFile": "ipc_A01L.txt",
+      "kind": "ipc"
+    },
+    "A01L7/06": {
+      "code": "A01L7/06",
+      "level": 1,
+      "parent": "A01L7/00",
+      "ja": "弾性尖り金または鋲",
+      "en": "Elastic calks or studs",
+      "count": 126,
+      "sourceFile": "ipc_A01L.txt",
+      "kind": "ipc"
+    },
+    "A01L7/08": {
+      "code": "A01L7/08",
+      "level": 1,
+      "parent": "A01L7/00",
+      "ja": "馬蹄鉄用の氷用けづめ",
+      "en": "Ice-spurs for horseshoes",
+      "count": 59,
+      "sourceFile": "ipc_A01L.txt",
+      "kind": "ipc"
+    },
+    "A01L7/10": {
+      "code": "A01L7/10",
+      "level": 1,
+      "parent": "A01L7/00",
+      "ja": "馬蹄鉄用釘",
+      "en": "Horseshoe nails",
+      "count": 73,
+      "sourceFile": "ipc_A01L.txt",
+      "kind": "ipc"
+    },
+    "A01L9/00": {
+      "code": "A01L9/00",
+      "level": 0,
+      "parent": "A01L",
+      "ja": "他の動物用蹄鉄，例．牛用",
+      "en": "Shoes for other animals, e.g. oxen",
+      "count": 99,
+      "sourceFile": "ipc_A01L.txt",
+      "kind": "ipc"
+    },
+    "A01L11/00": {
+      "code": "A01L11/00",
+      "level": 0,
+      "parent": "A01L",
+      "ja": "蹄鉄用工具または器具［２００６．０１］",
+      "en": "Farriers' tools or appliances",
+      "count": 445,
+      "sourceFile": "ipc_A01L.txt",
+      "kind": "ipc"
+    },
+    "A01L13/00": {
+      "code": "A01L13/00",
+      "level": 0,
+      "parent": "A01L",
+      "ja": "装蹄中の動物用囲い",
+      "en": "Pens for animals while being shod",
+      "count": 159,
+      "sourceFile": "ipc_A01L.txt",
+      "kind": "ipc"
+    },
+    "A01L15/00": {
+      "code": "A01L15/00",
+      "level": 0,
+      "parent": "A01L",
+      "ja": "蹄保護用物質の使用または器具",
+      "en": "Apparatus or use of substances for the care of hoofs",
+      "count": 489,
+      "sourceFile": "ipc_A01L.txt",
+      "kind": "ipc"
+    }
+  }
+};

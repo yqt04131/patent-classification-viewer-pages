@@ -1,0 +1,166 @@
+{
+  "generatedAt": "2026-03-20T02:17:46.723Z",
+  "total": 16,
+  "entries": {
+    "E05G": {
+      "code": "E05G",
+      "level": 0,
+      "parent": "E05",
+      "ja": "金庫または貴重品保管室；銀行防護装置；保安隔壁（警報装置それ自体Ｇ０８Ｂ）［２］<br><br><b><ul>注</ul></b><br>このサブクラスにおいては，下記の用語または表現は以下に示す意味で用いる：<br>―“銀行”は，貴重品を安全保管しまたは銀行と客との間で貴重品を交換するために供される建物または建物の一部分をいう；［２］<br>―“銀行防護装置”は，貴重品を保管しまたは窃盗や強盗を退けるため銀行内または外に設けられる装置をいう。［２］",
+      "en": "SAFES OR STRONG-ROOMS FOR VALUABLES; BANK PROTECTION DEVICES; SAFETY TRANSACTION PARTITIONS(alarm arrangements <u>per se</u><b>G08B</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>In this subclass, the following terms or expressions are used with the meanings indicated:<ul><li>\"bank\" is a building or portion of a building devoted to the safekeeping or exchange of valuables between the \"bank\" and its customers; </li><li>\"bank protection device\" is a mechanism in or on a bank for protecting the valuables or repelling attacks by stealth or force. </li></ul></li></ul>",
+      "count": 636,
+      "sourceFile": "ipc_E.txt",
+      "kind": "ipc"
+    },
+    "E05": {
+      "code": "E05",
+      "level": 0,
+      "parent": "E",
+      "ja": "錠；鍵（かぎ）；窓または戸の付属品；金庫<br><br><b><ul>注</ul></b><br>このクラスにおいては，下記の用語は以下に示す意味で用いる：<br>―ウイング”は，揺動，滑動または他の移動できる戸（ドア）または窓に対する一般的用語である。この用語はまた，このクラスに含まれる操作，取付け，掛止またはロック手段を適用し得る，ひきだし，箱の蓋（ｌｉｄｓ　ｏｆ　ｃｈｅｓｔｓ），自動車の荷物いれ，自動車のボンネット等の他の可動体をも包含する；<br>―“台わく（フレーム）”は，ウイングが固定装置によって取り付けられる部材を意味する。ウイングの一部を構成する骨組は含まない。これは別のウイングであるといえる；<br>―“錠（ロック）”は，基本的にある部材を解放または緊締し，解放のさいは鍵または順列変換機構を必要とする装置を意味する。しかし，グループＥ０５Ｂ１／００からＥ０５Ｂ９／００，Ｅ０５Ｂ１３／００からＥ０５Ｂ１７／００，Ｅ０５Ｂ３９／００からＥ０５Ｂ４７／００，Ｅ０５Ｂ５１／００，Ｅ０５Ｂ５３／００，Ｅ０５Ｂ６３／００およびＥ０５Ｂ６５／００においては，用語“錠（ロック）”は他の固定装置を含んでもよい。；<br>―“ボルト”は，台わく（フレーム）上の留め具に係止して戸を閉じるように通常は戸に保持されている滑動，回動または他の動き得る部材を意味する。それは直接手によって，または機構や鍵によって操作される；それはラッチでもある（次を参照）；<br>―“ラッチ”は，ウィングを閉じフレームに合わせた時ばね力または他の復元力に抗して解放位置に移動するように構成され，ウィングを固定する時には手で操作する必要はないが，開くときだけそれが必要なボルトを意味する；<br>―“掛け金（ハスプ）”は，ウィングまたは台わく（フレーム）の表面に向って動き得るように台わく（フレーム）またはウィングに枢着され，またそこに，例．回しボタン，南京錠およびつぼ釘によって，緊締される部材を意味する。",
+      "en": "LOCKS; KEYS; WINDOW OR DOOR FITTINGS; SAFES; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this class, the following terms are used with the meanings indicated:<ul><li>\"wing\" is a general term for swingable, slidable, or otherwise movable doors or windows. This term also includes other movable structures such as drawers, lids of chests, car boots, or car bonnets, to which the operating, mounting, latching, or locking means covered by this class may be applied;</li><li>\"frame\" means any member to which a wing may be held by a fastening device. It does not include a framework forming part of the wing, but it may be another wing;</li><li>\"lock\" means primarily a device for releasing or securing any member, which requires a key or a permutation mechanism for release. In groups <b>E05B1/00 to E05B9/00</b> , <b>E05B13/00 to E05B17/00</b> , <b>E05B39/00 to E05B47/00</b> , <b>E05B51/00</b>, <b>E05B53/00</b>, <b>E05B63/00</b> and <b>E05B65/00</b> however, the term \"lock\" may include other fastening devices;</li><li>\"bolt\" means a sliding, pivoted, or otherwise movable member such as is normally carried by a door to hold it shut by engagement with a keeper on the frame. It may be operated by hand directly or through mechanism or by a key; it may be a latch (<u>see</u> below);</li><li>\"latch\" means a bolt arranged to be moved to the releasing position against the force of a spring, or some other returning force, when a wing meets the frame on closing, so that it does not have to be operated by hand to secure the wing, but only to open it;</li><li>\"hasp\" means a member hinged to the frame or wing so that it can be moved towards the face of the wing or frame and secured thereto, e.g. by a turn-button, by a padlock and staple.</li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_E.txt",
+      "kind": "ipc"
+    },
+    "E": {
+      "code": "E",
+      "level": 0,
+      "parent": null,
+      "ja": "固定構造物",
+      "en": "FIXED CONSTRUCTIONS",
+      "count": 0,
+      "sourceFile": "ipc_E.txt",
+      "kind": "ipc"
+    },
+    "E05G1/00": {
+      "code": "E05G1/00",
+      "level": 0,
+      "parent": "E05G",
+      "ja": "金庫または貴重品保管室（貯金箱Ａ４５Ｃ１／１２；浮揚できる金庫Ｂ６３Ｃ７／３０；外力または火災に対する防護性のない貯蔵容器Ｂ６５Ｄ；銀行建築一般，例．モジュール構成，平面計画Ｅ０４Ｈ１／０６；地震または戦爭行為に耐える建築構造Ｅ０４Ｈ９／００）［２００６．０１］",
+      "en": "Safes or strong-rooms for valuables(savings boxes <b>A45C1/12</b>; floatable safes <b>B63C7/30</b>; storage containers without attack or fire-retardant features <b>B65D</b>; bank buildings in general, e.g. modular construction or floor plan, <b>E04H1/06</b>; buildings resistant to earthquake or war action <b>E04H9/00</b>)",
+      "count": 6118,
+      "sourceFile": "ipc_E05G.txt",
+      "kind": "ipc"
+    },
+    "E05G1/02": {
+      "code": "E05G1/02",
+      "level": 1,
+      "parent": "E05G1/00",
+      "ja": "細部（金庫用の蝶番Ｅ０５Ｄ７／１４）",
+      "en": "Details(safe hinges <b>E05D7/14</b>)",
+      "count": 4168,
+      "sourceFile": "ipc_E05G.txt",
+      "kind": "ipc"
+    },
+    "E05G1/024": {
+      "code": "E05G1/024",
+      "level": 2,
+      "parent": "E05G1/02",
+      "ja": "壁またはパネル構造［２］",
+      "en": "Wall or panel structure",
+      "count": 2605,
+      "sourceFile": "ipc_E05G.txt",
+      "kind": "ipc"
+    },
+    "E05G1/026": {
+      "code": "E05G1/026",
+      "level": 2,
+      "parent": "E05G1/02",
+      "ja": "閉鎖部材（空襲その他の戦爭行為に対する防護とびら，窓その他の閉鎖部材Ｅ０６Ｂ５／１０；シャッタ，可動格子または他の安全閉鎖手段Ｅ０６Ｂ９／０２）［２］",
+      "en": "Closures(protective doors, windows, or like closures against air-raid or other war-like action <b>E06B5/10</b>; shutters, movable grilles, other safety closures <b>E06B9/02</b>)",
+      "count": 2537,
+      "sourceFile": "ipc_E05G.txt",
+      "kind": "ipc"
+    },
+    "E05G1/04": {
+      "code": "E05G1/04",
+      "level": 2,
+      "parent": "E05G1/02",
+      "ja": "閉鎖部材締結具（錠Ｅ０５Ｂ）",
+      "en": "Closure fasteners(locks <b>E05B</b>)",
+      "count": 1652,
+      "sourceFile": "ipc_E05G.txt",
+      "kind": "ipc"
+    },
+    "E05G1/06": {
+      "code": "E05G1/06",
+      "level": 1,
+      "parent": "E05G1/00",
+      "ja": "多数の小室の用意のあるもの［２］",
+      "en": "having provision for multiple compartments",
+      "count": 1579,
+      "sourceFile": "ipc_E05G.txt",
+      "kind": "ipc"
+    },
+    "E05G1/08": {
+      "code": "E05G1/08",
+      "level": 2,
+      "parent": "E05G1/06",
+      "ja": "個別に締められるもの［２］",
+      "en": "secured individually",
+      "count": 620,
+      "sourceFile": "ipc_E05G.txt",
+      "kind": "ipc"
+    },
+    "E05G1/10": {
+      "code": "E05G1/10",
+      "level": 1,
+      "parent": "E05G1/00",
+      "ja": "警報，信号または標示をもつもの（夜盗，泥棒または潜入者に対する警報それ自体Ｇ０８Ｂ１３／００；火災，爆発に応答する警報それ自体Ｇ０８Ｂ１７／００）",
+      "en": "with alarm, signal, or indicator (burglar, theft, or intruder alarm <u>per se</u> <b>G08B13/00</b>;  fire or explosion alarm <u>per se</u> <b>G08B17/00</b>)",
+      "count": 3488,
+      "sourceFile": "ipc_E05G.txt",
+      "kind": "ipc"
+    },
+    "E05G1/12": {
+      "code": "E05G1/12",
+      "level": 1,
+      "parent": "E05G1/00",
+      "ja": "流体を放出，発生または散布する装置をもつもの，例．耐火または消火手段（Ｅ０５Ｇ１／１４が優先；煙，ガス，粉または液体により夜盗，窃盗または強盗を識別，威嚇または無能にすること，Ｇ０８Ｂ１５／０２［２００６．０１］",
+      "en": "with fluent-material releasing, generating or distributing means, e.g. fire-retardant or fire extinguishing means(<b>E05G1/14</b> takes precedence; identifying, scaring or incapacitating burglars, thieves or intruders with smoke, gas, powder or liquid <b>G08B15/02</b>)",
+      "count": 467,
+      "sourceFile": "ipc_E05G.txt",
+      "kind": "ipc"
+    },
+    "E05G1/14": {
+      "code": "E05G1/14",
+      "level": 1,
+      "parent": "E05G1/00",
+      "ja": "貴重品に印しをつけるか，または破壊する手段のあるもの，例．窃盗の場合［６］",
+      "en": "with means for marking or destroying the valuables, e.g. in case of theft",
+      "count": 611,
+      "sourceFile": "ipc_E05G.txt",
+      "kind": "ipc"
+    },
+    "E05G5/00": {
+      "code": "E05G5/00",
+      "level": 0,
+      "parent": "E05G",
+      "ja": "銀行防護装置（Ｅ０５Ｇ１／１２，Ｅ０５Ｇ７／００が優先；閉回路テレビジョン方式Ｈ０４Ｎ７／１８）［２］",
+      "en": "Bank protection devices(<b>E05G1/12</b>, <b>E05G7/00</b> take precedence; closed-circuit television systems <b>H04N7/18</b>)",
+      "count": 920,
+      "sourceFile": "ipc_E05G.txt",
+      "kind": "ipc"
+    },
+    "E05G5/02": {
+      "code": "E05G5/02",
+      "level": 1,
+      "parent": "E05G5/00",
+      "ja": "わなまたは監禁機構（夜盗または泥棒の行為をできなくするもの一般Ｇ０８Ｂ１５／００）［２］",
+      "en": "Trapping or confining mechanisms(thief or burglar incapacitating means in general <b>G08B15/00</b>)",
+      "count": 430,
+      "sourceFile": "ipc_E05G.txt",
+      "kind": "ipc"
+    },
+    "E05G7/00": {
+      "code": "E05G7/00",
+      "level": 0,
+      "parent": "E05G",
+      "ja": "保安隔壁，例．可動支払板（安全装置のない支払いカウンター，例．スーパーマーケット用Ａ４７Ｆ９／０２）［２］",
+      "en": "Safety transaction partitions, e.g. movable payplates(non-safety paying counters, e.g. for supermarkets, <b>A47F9/02</b>)",
+      "count": 1550,
+      "sourceFile": "ipc_E05G.txt",
+      "kind": "ipc"
+    }
+  }
+}

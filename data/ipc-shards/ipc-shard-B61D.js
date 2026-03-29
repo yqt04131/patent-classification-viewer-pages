@@ -1,0 +1,926 @@
+window.IPC_SHARD_B61D = {
+  "generatedAt": "2026-03-20T02:17:46.235Z",
+  "total": 92,
+  "entries": {
+    "B61D": {
+      "code": "B61D",
+      "level": 0,
+      "parent": "B61",
+      "ja": "鉄道車両の種類または車体細部（特殊機構の車両Ｂ６１Ｂ；台枠Ｂ６１Ｆ；車両一般Ｂ６０）<br><br><b><ul>サブクラス内の索引</ul></b><br>車両の種類<br>客車；貨物；タンク車；鉱車　１／００；３／００；５／００；１１／００<br>ホッパー車；チップラー　７／００；９／００<br>市街鉄道車両　１３／００<br>その他　１５／００<br>車体細部と付属品<br>細部<br>車体構造：一般；扉；ステップ；窓；可動屋根；積荷装置　１７／００；１９／００；２３／００；２５／００；３９／００；４７／００<br>内装品；寝台；座席；衛生施設；空気調和；照明；その他　３１／００；３３／００；３５／００；２７／００；２９／００；３７／００<br>車両の運動エネルギーを用いる装置　４３／００<br>その他　４９／００<br>付属品<br>記号，チケット保持器　４１／００<br>覆い；荷物緊締装置　３９／００；４５／００<br>その他　４９／００",
+      "en": "BODY DETAILS OR KINDS OF RAILWAY VEHICLES(vehicles in general <b>B60</b>;  adaptation of vehicles to special systems <b>B61B</b>;  underframes <b>B61F</b>);<br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">KINDS OF VEHICLES<tr><td width=\"70%\">Passenger; goods; tank; mine </td><td><b><b>1/00</b>; <b>3/00</b>; <b>5/00</b>; <b>11/00</b></b></td></tr></tr><tr><td width=\"70%\">Hopper; tipping </td><td><b><b>7/00</b>; <b>9/00</b></b></td></tr></tr><tr><td width=\"70%\">Tramway </td><td><b><b>13/00</b></b></td></tr></tr><tr><td width=\"70%\">Other </td><td><b><b>15/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">BODY DETAILS AND ACCESSORIES<tr><td width=\"70%\">Details<tr><td width=\"70%\">bodywork: general; doors; steps; windows; movable roofs; loading means </td><td><b><b>17/00</b>; <b>19/00</b>; <b>23/00</b>; <b>25/00</b>; <b>39/00</b>; <b>47/00</b></b></td></tr></tr><tr><td width=\"70%\">interior fittings: sleeping; seating; sanitation; air- conditioning; lighting; other </td><td><b><b>31/00</b>; <b>33/00</b>; <b>35/00</b>; <b>27/00</b>; <b>29/00</b>; <b>37/00</b></b></td></tr></tr><tr><td width=\"70%\">devices using movement of vehicle </td><td><b><b>43/00</b></b></td></tr></tr><tr><td width=\"70%\">other </td><td><b><b>49/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">Accessories<tr><td width=\"70%\">signs, ticket-holders </td><td><b><b>41/00</b></b></td></tr></tr><tr><td width=\"70%\">covers; securing load </td><td><b><b>39/00</b>; <b>45/00</b></b></td></tr></tr><tr><td width=\"70%\">other </td><td><b><b>49/00</b></b></td></tr></tr></tr></tr></table>",
+      "count": 696,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B61": {
+      "code": "B61",
+      "level": 0,
+      "parent": "B",
+      "ja": "鉄道<br><br><b><ul>注</ul></b><br>このクラスにおいては，下記の表現は以下に示す意味で用いる：<br>・“鉄道方式”は，以下のものを包含する：<br>　ａ．列車，個々の旅客車両，荷物運搬器を車輪やローラ用の軌条，ロープ，ケーブルまたは他の案内素子，あるいは滑走する非摩擦装置によって，限定された地面または高架軌道を案内走行する方式；<br>　ｂ．人間や荷物用の運搬器あるいは推進器を取り付けている方法，例．懸架形式，動きうる通路を定めた案内引張りロープあるいはケーブル；<br>　ｃ．車両，荷物運搬器または荷物が，連続した引張り部材，例．ケーブル，チェーン，に対して選択的に連結されるか，または連結を解かれるようになっている上記タイプのいずれかの方式すなわちパワーアンドフリー方式；<br>・“鉄道方式”は下記を含まない：<br>　ａ．連続的なけん引要素に永続的に取り付けられたロードキャリアを備えたコンベヤ，例．チェーンコンベヤ，これはグループＢ６５Ｇ１７／００に含まれる；<br>　ｂ．支持面またはその下にある材料の上に物品または材料を運ぶコンベヤ，例．スクレーパーコンベヤ，これはグループＢ６５Ｇ１９／００に含まれる。",
+      "en": "RAILWAYS; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this class, the following expression is used with the meaning indicated:<ul><li>\"railway systems\" <u>covers</u>: <ul><li>systems in which trains or individual passenger vehicles or load carriers run on, or are guided by, ground or elevated tracks defined by rails, ropes, cables, or other guiding elements for wheels, rollers, or sliding anti-friction devices;</li><li>systems in which carriers or impellers for persons or loads are attached to, e.g. suspended from, a guided traction rope or cable which determines their path of movement;</li><li>power-and-free systems of either of the above types in which vehicles, load-carriers or loads may be selectively coupled to, or uncoupled from, continuous traction members, e.g. cables, chains;</li></ul></li><li>\"railway systems\" <u>does not cover</u>: <ul><li>conveyors with load-carriers permanently attached to a continuous traction element, e.g. chain conveyors, which are covered by group <b>B65G17/00</b>;</li><li>conveyors moving articles or materials over a supporting surface or underlying material, e.g. scraper conveyors, which are covered by group <b>B65G19/00</b>.</li></ul></li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B": {
+      "code": "B",
+      "level": 0,
+      "parent": null,
+      "ja": "処理操作；運輸",
+      "en": "PERFORMING OPERATIONS; TRANSPORTING",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B61D1/00": {
+      "code": "B61D1/00",
+      "level": 0,
+      "parent": "B61D",
+      "ja": "一般的な鉄道客車（鉱車Ｂ６１Ｄ１１／００；市街鉄道車両Ｂ６１Ｄ１３／００）",
+      "en": "Carriages for ordinary railway passenger traffic(mine cars <b>B61D11/00</b>; tramcars <b>B61D13/00</b>)",
+      "count": 851,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D1/02": {
+      "code": "B61D1/02",
+      "level": 1,
+      "parent": "B61D1/00",
+      "ja": "寝台車における一般的構成（Ｂ６１Ｄ１／０８が優先）",
+      "en": "General arrangements in sleeping or couchette carriages(<b>B61D1/08</b> takes precedence)",
+      "count": 196,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D1/04": {
+      "code": "B61D1/04",
+      "level": 1,
+      "parent": "B61D1/00",
+      "ja": "座席の一般的構成（Ｂ６１Ｄ１／０６が優先；座席それ自体Ｂ６１Ｄ３３／００）",
+      "en": "General arrangements of seats(<b>B61D1/06</b> takes precedence; seats <u>per se</u><b>B61D33/00</b>)",
+      "count": 317,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D1/06": {
+      "code": "B61D1/06",
+      "level": 1,
+      "parent": "B61D1/00",
+      "ja": "多数のデッキ装置をもつもの",
+      "en": "with multiple deck arrangement",
+      "count": 351,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D1/08": {
+      "code": "B61D1/08",
+      "level": 2,
+      "parent": "B61D1/06",
+      "ja": "寝台車のもの",
+      "en": "of sleeping carriages",
+      "count": 256,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D3/00": {
+      "code": "B61D3/00",
+      "level": 0,
+      "parent": "B61D",
+      "ja": "無蓋貨車または有蓋貨車（タンク車Ｂ６１Ｄ５／００；ホッパー車Ｂ６１Ｄ７／００；チップラーＢ６１Ｄ９／００；鉱車Ｂ６１Ｄ１１／００；動物輸送用車両Ｂ６０Ｐ３／０４）",
+      "en": "Wagons or vans(tank wagons <b>B61D5/00</b>; hopper wagons <b>B61D7/00</b>; tipping wagons <b>B61D9/00</b>; mine cars <b>B61D11/00</b>; vehicles adapted for animal transportation <b>B60P3/04</b>)",
+      "count": 2239,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D3/02": {
+      "code": "B61D3/02",
+      "level": 1,
+      "parent": "B61D3/00",
+      "ja": "多数のデッキ装置をもつもの（車両を運搬するものＢ６１Ｄ３／１８）［４］",
+      "en": "with multiple deck arrangements(for carrying vehicles <b>B61D3/18</b>)",
+      "count": 245,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D3/04": {
+      "code": "B61D3/04",
+      "level": 1,
+      "parent": "B61D3/00",
+      "ja": "可動床，例．回転可能または昇降可能なもの",
+      "en": "with movable floors, e.g. rotatable or floors which can be raised or lowered",
+      "count": 521,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D3/06": {
+      "code": "B61D3/06",
+      "level": 1,
+      "parent": "B61D3/00",
+      "ja": "ホッパー車に変換できる平底貨車",
+      "en": "Flat-bottomed cars convertible into hoppers",
+      "count": 201,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D3/08": {
+      "code": "B61D3/08",
+      "level": 1,
+      "parent": "B61D3/00",
+      "ja": "柱または支柱を備える水平無蓋貨車",
+      "en": "Flat wagons including posts or standards",
+      "count": 656,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D3/10": {
+      "code": "B61D3/10",
+      "level": 1,
+      "parent": "B61D3/00",
+      "ja": "連接貨車",
+      "en": "Articulated vehicles",
+      "count": 627,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D3/12": {
+      "code": "B61D3/12",
+      "level": 2,
+      "parent": "B61D3/10",
+      "ja": "積荷によって相互に連接される走行装置を含むもの",
+      "en": "comprising running gear interconnected by loads",
+      "count": 233,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D3/14": {
+      "code": "B61D3/14",
+      "level": 2,
+      "parent": "B61D3/10",
+      "ja": "低位置の貨物輸送を容易にする支持装置によって連接される走行装置からなるもの",
+      "en": "comprising running gear interconnected by load supports facilitating low-level load transport",
+      "count": 204,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D3/16": {
+      "code": "B61D3/16",
+      "level": 1,
+      "parent": "B61D3/00",
+      "ja": "特殊の荷物を運搬するもの［４］",
+      "en": "adapted for carrying special loads",
+      "count": 2212,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D3/18": {
+      "code": "B61D3/18",
+      "level": 2,
+      "parent": "B61D3/16",
+      "ja": "車両用［４］",
+      "en": "for vehicles",
+      "count": 2250,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D3/20": {
+      "code": "B61D3/20",
+      "level": 2,
+      "parent": "B61D3/16",
+      "ja": "貨物コンテナ用［４］",
+      "en": "for forwarding containers",
+      "count": 1210,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D5/00": {
+      "code": "B61D5/00",
+      "level": 0,
+      "parent": "B61D",
+      "ja": "流動物運搬用タンク車（タンク形状Ｂ６５Ｄ８８／００，Ｂ６５Ｄ９０／００，Ｆ１７Ｃ）",
+      "en": "Tank wagons for carrying fluent materials(tank aspects <b>B65D88/00</b>, <b>B65D90/00</b>, <b>F17C</b>)",
+      "count": 1769,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D5/02": {
+      "code": "B61D5/02",
+      "level": 1,
+      "parent": "B61D5/00",
+      "ja": "２つ以上のタンクをもつもの",
+      "en": "having more than one tank",
+      "count": 145,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D5/06": {
+      "code": "B61D5/06",
+      "level": 1,
+      "parent": "B61D5/00",
+      "ja": "タンクの取付け；全体の車体または枠",
+      "en": "Mounting of tanks; Integral bodies and frames",
+      "count": 639,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D7/00": {
+      "code": "B61D7/00",
+      "level": 0,
+      "parent": "B61D",
+      "ja": "ホッパー車（ホッパー車に変換できる平底貨物Ｂ６１Ｄ３／０６）［２］",
+      "en": "Hopper cars(flat-bottomed cars convertible into hoppers <b>B61D3/06</b>)",
+      "count": 844,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D7/02": {
+      "code": "B61D7/02",
+      "level": 1,
+      "parent": "B61D7/00",
+      "ja": "底部に排出口のあるもの（２つの部分の車体をもつものと半分傾斜することによって排出するものＢ６１Ｄ９／００）",
+      "en": "with discharge openings in the bottoms(with body in two halves and discharge by tipping the halves <b>B61D9/00</b>)",
+      "count": 857,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D7/04": {
+      "code": "B61D7/04",
+      "level": 2,
+      "parent": "B61D7/02",
+      "ja": "排出中，その開口が水平軸上にあるもの",
+      "en": "the openings being above axle level during discharge",
+      "count": 47,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D7/06": {
+      "code": "B61D7/06",
+      "level": 1,
+      "parent": "B61D7/00",
+      "ja": "車輪間または車輪外側に排出の可能な排出口をもつもの",
+      "en": "with openings capable of discharging both between and outside the wheels",
+      "count": 156,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D7/08": {
+      "code": "B61D7/08",
+      "level": 1,
+      "parent": "B61D7/00",
+      "ja": "車輪外側だけ排出の可能な排出口をもつもの",
+      "en": "with openings capable of discharging only outside the wheels",
+      "count": 228,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D7/10": {
+      "code": "B61D7/10",
+      "level": 2,
+      "parent": "B61D7/08",
+      "ja": "底を傾斜させることにより補助的に排出するもの",
+      "en": "the discharge being assisted by tipping the bottom",
+      "count": 127,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D7/12": {
+      "code": "B61D7/12",
+      "level": 1,
+      "parent": "B61D7/00",
+      "ja": "可動ホッパ車（Ｂ６１Ｄ９／００が優先）",
+      "en": "the hoppers being movable(<b>B61D9/00</b> takes precedence)",
+      "count": 71,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D7/14": {
+      "code": "B61D7/14",
+      "level": 1,
+      "parent": "B61D7/00",
+      "ja": "軌条にホッパ要素を用いたもの",
+      "en": "Adaptations of hopper elements to railways",
+      "count": 73,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D7/16": {
+      "code": "B61D7/16",
+      "level": 2,
+      "parent": "B61D7/14",
+      "ja": "排出口の閉鎖要素",
+      "en": "Closure elements for discharge openings",
+      "count": 690,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D7/18": {
+      "code": "B61D7/18",
+      "level": 3,
+      "parent": "B61D7/16",
+      "ja": "回転するもの",
+      "en": "pivoted",
+      "count": 351,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D7/20": {
+      "code": "B61D7/20",
+      "level": 3,
+      "parent": "B61D7/16",
+      "ja": "摺動するもの",
+      "en": "sliding",
+      "count": 245,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D7/22": {
+      "code": "B61D7/22",
+      "level": 3,
+      "parent": "B61D7/16",
+      "ja": "それの密封装置",
+      "en": "Sealing means thereof",
+      "count": 160,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D7/24": {
+      "code": "B61D7/24",
+      "level": 3,
+      "parent": "B61D7/16",
+      "ja": "開口または閉鎖手段",
+      "en": "Opening or closing means",
+      "count": 229,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D7/26": {
+      "code": "B61D7/26",
+      "level": 4,
+      "parent": "B61D7/24",
+      "ja": "機械的なもの",
+      "en": "mechanical",
+      "count": 708,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D7/28": {
+      "code": "B61D7/28",
+      "level": 4,
+      "parent": "B61D7/24",
+      "ja": "水圧または空気圧によるもの",
+      "en": "hydraulic or pneumatic",
+      "count": 365,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D7/30": {
+      "code": "B61D7/30",
+      "level": 4,
+      "parent": "B61D7/24",
+      "ja": "車両外の手段によって制御されるもの",
+      "en": "controlled by means external to cars",
+      "count": 466,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D7/32": {
+      "code": "B61D7/32",
+      "level": 2,
+      "parent": "B61D7/14",
+      "ja": "補助的な積み込みまたは排出手段",
+      "en": "Means for assisting charge or discharge",
+      "count": 390,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D9/00": {
+      "code": "B61D9/00",
+      "level": 0,
+      "parent": "B61D",
+      "ja": "チップラ",
+      "en": "Tipping wagons",
+      "count": 330,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D9/02": {
+      "code": "B61D9/02",
+      "level": 1,
+      "parent": "B61D9/00",
+      "ja": "傾倒装置の操作手段に特徴のあるもの",
+      "en": "characterised by operating means for tipping",
+      "count": 1132,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D9/04": {
+      "code": "B61D9/04",
+      "level": 1,
+      "parent": "B61D9/00",
+      "ja": "チップラに鉄道車両機器を適用したもの",
+      "en": "Adaptations of rail vehicle elements to tipping wagons",
+      "count": 149,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D9/06": {
+      "code": "B61D9/06",
+      "level": 2,
+      "parent": "B61D9/04",
+      "ja": "車体",
+      "en": "Bodies",
+      "count": 391,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D9/08": {
+      "code": "B61D9/08",
+      "level": 2,
+      "parent": "B61D9/04",
+      "ja": "枠；車体の支持または案内装置",
+      "en": "Frames; Supporting or guiding means for the bodies",
+      "count": 260,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D9/10": {
+      "code": "B61D9/10",
+      "level": 2,
+      "parent": "B61D9/04",
+      "ja": "傾倒時の転覆防止装置",
+      "en": "Devices preventing overturning when tipping",
+      "count": 120,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D9/12": {
+      "code": "B61D9/12",
+      "level": 2,
+      "parent": "B61D9/04",
+      "ja": "排出時に流出を促進または制御する車体の取付けまたは装置",
+      "en": "Body fitments or devices facilitating or controlling outflow on discharge",
+      "count": 466,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D9/14": {
+      "code": "B61D9/14",
+      "level": 1,
+      "parent": "B61D9/00",
+      "ja": "軌条側部の装置によって制御される傾倒機構",
+      "en": "Tipping systems controlled by trackside means",
+      "count": 315,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D11/00": {
+      "code": "B61D11/00",
+      "level": 0,
+      "parent": "B61D",
+      "ja": "鉱車（Ｂ６１Ｄ５／００～Ｂ６１Ｄ９／００が優先）",
+      "en": "Mine cars(<b>B61D5/00 to B61D9/00</b>  take precedence)",
+      "count": 1556,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D11/02": {
+      "code": "B61D11/02",
+      "level": 1,
+      "parent": "B61D11/00",
+      "ja": "車体構造",
+      "en": "Body construction",
+      "count": 911,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D13/00": {
+      "code": "B61D13/00",
+      "level": 0,
+      "parent": "B61D",
+      "ja": "市街鉄道車両",
+      "en": "Tramway vehicles",
+      "count": 602,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D13/02": {
+      "code": "B61D13/02",
+      "level": 1,
+      "parent": "B61D13/00",
+      "ja": "２重デッキをもつもの",
+      "en": "Double-deckers",
+      "count": 66,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D15/00": {
+      "code": "B61D15/00",
+      "level": 0,
+      "parent": "B61D",
+      "ja": "他の鉄道車両，例．足場車；レール上で使用するための車両に関する応用（軌道上を動くように取り付けられたコンベヤフレームＢ６５Ｇ４１／０２；軌道の建設または保守に使用される車輪つき機械Ｅ０１Ｂ）",
+      "en": "Other railway vehicles, e.g. scaffold cars; Adaptations of vehicles for use on railways(conveyor frames mounted for movement on rail tracks <b>B65G41/02</b>; wheeled machines used in permanent-way construction or maintenance <b>E01B</b>)",
+      "count": 6380,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D15/02": {
+      "code": "B61D15/02",
+      "level": 1,
+      "parent": "B61D15/00",
+      "ja": "応急クレーン車（クレーン装置Ｂ６６Ｃ）",
+      "en": "Breakdown cranes(crane gear <b>B66C</b>)",
+      "count": 164,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D15/04": {
+      "code": "B61D15/04",
+      "level": 1,
+      "parent": "B61D15/00",
+      "ja": "他の運搬具でないものに変換可能なもの，例．展示台",
+      "en": "convertible into other non-vehicular apparatus, e.g. exhibition stands",
+      "count": 21,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D15/06": {
+      "code": "B61D15/06",
+      "level": 1,
+      "parent": "B61D15/00",
+      "ja": "緩衝器車；衝突の場合にそれ等を保護するための鉄道車両の構造または装置（緩衝器Ｂ６１Ｇ１１／００）",
+      "en": "Buffer cars; Arrangements or construction of railway vehicles for protecting them in case of collisions(buffers <b>B61G11/00</b>)",
+      "count": 485,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D15/08": {
+      "code": "B61D15/08",
+      "level": 1,
+      "parent": "B61D15/00",
+      "ja": "軌条検査用トロリー",
+      "en": "Railway inspection trolleys",
+      "count": 869,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D15/10": {
+      "code": "B61D15/10",
+      "level": 2,
+      "parent": "B61D15/08",
+      "ja": "手または足で進むもの",
+      "en": "hand or foot-propelled",
+      "count": 545,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D15/12": {
+      "code": "B61D15/12",
+      "level": 2,
+      "parent": "B61D15/08",
+      "ja": "動力によって進むもの",
+      "en": "power-propelled",
+      "count": 1656,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D17/00": {
+      "code": "B61D17/00",
+      "level": 0,
+      "parent": "B61D",
+      "ja": "車体構造の細部（特にチップラ車々体細部Ｂ６１Ｄ９／０６；タンク車用Ｂ６１Ｄ５／００；ホッパ車用Ｂ６１Ｄ７／００；鉱車用Ｂ６１Ｄ１１／００）",
+      "en": "Construction details of vehicle bodies(for tank wagons <b>B61D5/00</b>; for hopper cars <b>B61D7/00</b>; body details specially adapted for tipping wagons <b>B61D9/06</b>; for mine cars <b>B61D11/00</b>)",
+      "count": 3916,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D17/02": {
+      "code": "B61D17/02",
+      "level": 1,
+      "parent": "B61D17/00",
+      "ja": "外形を修正することによって空気抵抗を減ずるもの",
+      "en": "reducing air resistance by modifying contour",
+      "count": 1264,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D17/04": {
+      "code": "B61D17/04",
+      "level": 1,
+      "parent": "B61D17/00",
+      "ja": "金属性車体をもつもの；合成のもの，例．金属と木材の車体構造",
+      "en": "with bodies of metal; with composite, e.g. metal and wood, body structures",
+      "count": 3583,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D17/06": {
+      "code": "B61D17/06",
+      "level": 2,
+      "parent": "B61D17/04",
+      "ja": "端壁",
+      "en": "End walls",
+      "count": 1519,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D17/08": {
+      "code": "B61D17/08",
+      "level": 2,
+      "parent": "B61D17/04",
+      "ja": "側壁",
+      "en": "Sides",
+      "count": 2403,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D17/10": {
+      "code": "B61D17/10",
+      "level": 2,
+      "parent": "B61D17/04",
+      "ja": "床",
+      "en": "Floors",
+      "count": 2293,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D17/12": {
+      "code": "B61D17/12",
+      "level": 2,
+      "parent": "B61D17/04",
+      "ja": "屋根（可動または折りたたみ可能な屋根，覆いまたは防水布Ｂ６１Ｄ３９／００）",
+      "en": "Roofs(movable or foldable roofs, covers, or tarpaulins <b>B61D39/00</b>)",
+      "count": 2119,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D17/14": {
+      "code": "B61D17/14",
+      "level": 3,
+      "parent": "B61D17/12",
+      "ja": "通路をもつもの",
+      "en": "with gangways",
+      "count": 180,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D17/16": {
+      "code": "B61D17/16",
+      "level": 3,
+      "parent": "B61D17/12",
+      "ja": "屋根上の上げ蓋",
+      "en": "Hatches in roofs",
+      "count": 278,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D17/18": {
+      "code": "B61D17/18",
+      "level": 2,
+      "parent": "B61D17/04",
+      "ja": "内部のライニング，例．断熱",
+      "en": "Internal lining, e.g. insulating",
+      "count": 1286,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D17/20": {
+      "code": "B61D17/20",
+      "level": 2,
+      "parent": "B61D17/04",
+      "ja": "客車間の連絡通路；そのために客車端部に用いたもの",
+      "en": "Communication passages between coaches; Adaptation of coach ends therefor",
+      "count": 1424,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D17/22": {
+      "code": "B61D17/22",
+      "level": 3,
+      "parent": "B61D17/20",
+      "ja": "可撓性，例．蛇腹",
+      "en": "flexible, e.g. bellows",
+      "count": 1328,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D17/24": {
+      "code": "B61D17/24",
+      "level": 1,
+      "parent": "B61D17/00",
+      "ja": "木材の車体構造をもつもの",
+      "en": "with body structures of wood",
+      "count": 27,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D17/26": {
+      "code": "B61D17/26",
+      "level": 1,
+      "parent": "B61D17/00",
+      "ja": "コンクリートの車体構造をもつもの",
+      "en": "with body structures of concrete",
+      "count": 19,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D19/00": {
+      "code": "B61D19/00",
+      "level": 0,
+      "parent": "B61D",
+      "ja": "鉄道車両のために特別に適合された扉装置（車両の錠Ｅ０５Ｂ７７／００～Ｅ０５Ｂ８５／００；扉操作機構Ｅ０５Ｆ）［２００６．０１］",
+      "en": "Door arrangements specially adapted for rail vehicles (locks for vehicles <b>E05B77/00 to E05B85/00</b> ;  door-operating mechanisms <b>E05F</b>)",
+      "count": 4492,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D19/02": {
+      "code": "B61D19/02",
+      "level": 1,
+      "parent": "B61D19/00",
+      "ja": "客車用",
+      "en": "for carriages",
+      "count": 3477,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D23/00": {
+      "code": "B61D23/00",
+      "level": 0,
+      "parent": "B61D",
+      "ja": "鉄道車両用ステップ構造（はしご一般Ｅ０６Ｃ）",
+      "en": "Construction of steps for railway vehicles(ladders in general <b>E06C</b>)",
+      "count": 1087,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D23/02": {
+      "code": "B61D23/02",
+      "level": 1,
+      "parent": "B61D23/00",
+      "ja": "鉄道車両用折りたたみステップ",
+      "en": "Folding steps for railway vehicles",
+      "count": 1330,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D25/00": {
+      "code": "B61D25/00",
+      "level": 0,
+      "parent": "B61D",
+      "ja": "鉄道車両独得の窓装置（車両窓装置一般Ｂ６０Ｊ；車両窓清掃一般Ｂ６０Ｓ；透明部分または反射鏡に特に適合した加熱装置Ｈ０５Ｂ３／８４）",
+      "en": "Window arrangements peculiar to rail vehicles(vehicle window arrangements in general <b>B60J</b>; cleaning vehicle windows <b>B60S</b>; heating arrangements specially adapted for transparent or reflecting areas <b>H05B3/84</b>)",
+      "count": 2499,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D27/00": {
+      "code": "B61D27/00",
+      "level": 0,
+      "parent": "B61D",
+      "ja": "暖房，冷房，換気または空気調和",
+      "en": "Heating, cooling, ventilating, or air-conditioning",
+      "count": 10821,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D29/00": {
+      "code": "B61D29/00",
+      "level": 0,
+      "parent": "B61D",
+      "ja": "鉄道車両用の照明装置の配置",
+      "en": "Arrangement of lighting devices for rail vehicles",
+      "count": 1144,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D31/00": {
+      "code": "B61D31/00",
+      "level": 0,
+      "parent": "B61D",
+      "ja": "寝台設備",
+      "en": "Sleeping accommodation",
+      "count": 913,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D33/00": {
+      "code": "B61D33/00",
+      "level": 0,
+      "parent": "B61D",
+      "ja": "座席",
+      "en": "Seats",
+      "count": 5448,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D35/00": {
+      "code": "B61D35/00",
+      "level": 0,
+      "parent": "B61D",
+      "ja": "衛生施設",
+      "en": "Sanitation",
+      "count": 2594,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D37/00": {
+      "code": "B61D37/00",
+      "level": 0,
+      "parent": "B61D",
+      "ja": "他の付属具または設備",
+      "en": "Other furniture or furnishings",
+      "count": 3972,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D39/00": {
+      "code": "B61D39/00",
+      "level": 0,
+      "parent": "B61D",
+      "ja": "無蓋貨車またはそのようなものを覆うカバー；防水布；可動または折りたたみ屋根",
+      "en": "Wagon or like covers; Tarpaulins; Movable or foldable roofs",
+      "count": 1612,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D41/00": {
+      "code": "B61D41/00",
+      "level": 0,
+      "parent": "B61D",
+      "ja": "予約席の表示器；警告または同様なもの；チケットに関連した装置，例．チケット保持器；荷札用保持器または同様なもの",
+      "en": "Indicators for reserved seats; Warning or like signs; Devices or arrangements in connection with tickets, e.g. ticket holders; Holders for cargo tickets or the like",
+      "count": 542,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D41/02": {
+      "code": "B61D41/02",
+      "level": 1,
+      "parent": "B61D41/00",
+      "ja": "荷札用保持器または装置または同様なもの",
+      "en": "Holders or devices for cargo tickets or the like",
+      "count": 32,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D41/04": {
+      "code": "B61D41/04",
+      "level": 1,
+      "parent": "B61D41/00",
+      "ja": "予約席用表示器",
+      "en": "Indicators for reserved seats",
+      "count": 156,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D41/06": {
+      "code": "B61D41/06",
+      "level": 1,
+      "parent": "B61D41/00",
+      "ja": "チケット保持器",
+      "en": "Holders for fare tickets",
+      "count": 12,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D43/00": {
+      "code": "B61D43/00",
+      "level": 0,
+      "parent": "B61D",
+      "ja": "車両の運動エネルギーを用いる装置",
+      "en": "Devices for using the energy of the movements of the vehicles",
+      "count": 686,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D45/00": {
+      "code": "B61D45/00",
+      "level": 0,
+      "parent": "B61D",
+      "ja": "積荷の緊締方法または装置，衝撃に対して保護するものを含む",
+      "en": "Means or devices for securing or supporting the cargo, including protection against shocks",
+      "count": 5196,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D47/00": {
+      "code": "B61D47/00",
+      "level": 0,
+      "parent": "B61D",
+      "ja": "車両に取付けられた積荷，荷卸し装置，例．積荷用プラットホーム（車両と連結されるもの一般Ｂ６０Ｐ）",
+      "en": "Loading or unloading devices combined with vehicles, e.g. loading platforms(combined with vehicles in general <b>B60P</b>)",
+      "count": 3377,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    },
+    "B61D49/00": {
+      "code": "B61D49/00",
+      "level": 0,
+      "parent": "B61D",
+      "ja": "他の細部",
+      "en": "Other details",
+      "count": 3338,
+      "sourceFile": "ipc_B61D.txt",
+      "kind": "ipc"
+    }
+  }
+};

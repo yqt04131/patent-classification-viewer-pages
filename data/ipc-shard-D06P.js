@@ -1,0 +1,1276 @@
+window.IPC_SHARD_D06P = {
+  "generatedAt": "2026-03-20T02:17:46.605Z",
+  "total": 127,
+  "entries": {
+    "D06P": {
+      "code": "D06P",
+      "level": 0,
+      "parent": "D06",
+      "ja": "繊維製品の染色またはなっ染色；皮革，毛皮または種々の形態の固体状高分子物質の染色<br><br><b><ul>注</ul></b><br>このサブクラスは，サブクラスＤ０６Ｂ，Ｄ０６Ｃに包含される純粋に機械的手段による布帛の処理を包含しない。<br><br><b><ul>サブクラス内の索引</ul></b><br>染色またはなっ染方法<br>染料または助剤により分類されたもの　１／００<br>処理される材料により分類されたもの　３／００<br>機械的処理と組み合わされたもの　７／００<br>他の特徴，後処理，防染　５／００",
+      "en": "DYEING OR PRINTING TEXTILES; DYEING LEATHER, FURS OR SOLID MACROMOLECULAR SUBSTANCES IN ANY FORM; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This subclass <u>does not cover</u> treatment of textiles by purely mechanical means, which is covered by subclasses <b>D06B</b>, <b>D06C</b>.</li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">DYEING OR PRINTING PROCESSES<tr><td width=\"70%\">Classified according to dyes or auxiliary agents </td><td><b><b>1/00</b></b></td></tr></tr><tr><td width=\"70%\">Classified according to material treated </td><td><b><b>3/00</b></b></td></tr></tr><tr><td width=\"70%\">Combined with mechanical treatment </td><td><b><b>7/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">OTHER FEATURES, e.g. AFTER-TREATMENT, RESERVE DYEING OR PRINTING </td><td><b><b>5/00</b></b></td></tr></tr></table>",
+      "count": 1194,
+      "sourceFile": "ipc_D.txt",
+      "kind": "ipc"
+    },
+    "D06": {
+      "code": "D06",
+      "level": 0,
+      "parent": "D",
+      "ja": "繊維または類似のものの処理；洗濯；他に分類されない可とう性材料",
+      "en": "TREATMENT OF TEXTILES OR THE LIKE; LAUNDERING; FLEXIBLE MATERIALS NOT OTHERWISE PROVIDED FOR",
+      "count": 0,
+      "sourceFile": "ipc_D.txt",
+      "kind": "ipc"
+    },
+    "D": {
+      "code": "D",
+      "level": 0,
+      "parent": null,
+      "ja": "繊維；紙<br><br><b><ul>注</ul></b><br>このセクションにおいては，下記の用語は以下に示す意味で用いる：<br>―“繊維”は比較的短く，細長い天然または人造の物質よりなるものを意味する；［２０１４．０１］<br>―“フィラメント”はエンドレスまたは準エンドレスで，細長い天然または人造の物質よりなるものを意味する；［２０１４．０１］<br>―“糸”は繊維の単一の集合体を意味し，通常紡績によって製造される；［２０１４．０１］<br>―“より糸”は糸またはフィラメントの集合体を意味し，通常加ねんによって製造される；［２０１４．０１］<br>―“合成”繊維またはフィラメントはポリマーまたは低分子を合成させたものから製造される繊維またはフィラメントまたは類似物を意味する。例は，ポリアミド，アクリル，ポリエステルまたは炭素繊維である；［２０１４．０１］<br>―“人工”繊維またはフィラメントは天然ポリマーまたはその派生物から人が製造した繊維またはフィラメントまたは類似物を意味する。例は，再生セルロース繊維または半合成繊維である；［２０１４．０１］<br>―“人造”繊維またはフィラメントは人が製造した繊維またはフィラメントを意味し，“合成”繊維または“人工”繊維を含む。［２０１４．０１］",
+      "en": "TEXTILES; PAPER; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this section, the following terms are used with the meanings indicated: <ul><li>\"fibre\" means a relatively-short, elongated member of natural or man-made material;    </li><li>\"filament\" means an endless or quasi-endless, elongated member of natural or man-made material;    </li><li>\"yarn\" means a unitary assembly of fibres, usually produced by spinning;    </li><li>\"thread\" means an assembly of yarns or filaments, usually produced by twisting;    </li><li>\"synthetic\" fibres or filaments means fibres or filaments or the like manufactured from synthesising polymers or small molecules. Examples are polyamide, acrylic, polyester or carbon fibres;    </li><li>\"artificial\" fibres or filaments means fibres or filaments or the like manufactured by man from natural polymers or their derivatives. Examples are regenerated cellulosic fibres or semi-synthetic fibres;    </li><li>\"man-made&rdquo; fibres or filaments means fibres or filaments which are manufactured by man including &ldquo;synthetic&rdquo; or &ldquo;artificial&rdquo; fibres.    </li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_D.txt",
+      "kind": "ipc"
+    },
+    "D06P1/00": {
+      "code": "D06P1/00",
+      "level": 0,
+      "parent": "D06P",
+      "ja": "使用する染料，顔料あるいは助剤により分類された繊維製品の染色または捺染の一般的方法または皮革，毛皮または種々の形態の固体状高分子物質における染色の一般的方法",
+      "en": "General processes of dyeing or printing textiles or general processes of dyeing leather, furs or solid macromolecular substances in any form, classified according to the dyes, pigments or auxiliary substances employed",
+      "count": 5969,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P1/02": {
+      "code": "D06P1/02",
+      "level": 1,
+      "parent": "D06P1/00",
+      "ja": "アゾ染料を用いるもの（Ｄ０６Ｐ１／１８，Ｄ０６Ｐ１／３８，Ｄ０６Ｐ１／３９，Ｄ０６Ｐ１／４１が優先）［２］",
+      "en": "using azo dyes(<b>D06P1/18</b>, <b>D06P1/38</b>, <b>D06P1/39</b>, <b>D06P1/41</b> take precedence)",
+      "count": 497,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P1/04": {
+      "code": "D06P1/04",
+      "level": 2,
+      "parent": "D06P1/02",
+      "ja": "金属を含まないもの",
+      "en": "not containing metal",
+      "count": 166,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P1/06": {
+      "code": "D06P1/06",
+      "level": 3,
+      "parent": "D06P1/04",
+      "ja": "酸基を含むもの",
+      "en": "containing acid groups",
+      "count": 228,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P1/08": {
+      "code": "D06P1/08",
+      "level": 3,
+      "parent": "D06P1/04",
+      "ja": "カチオン系アゾ染料",
+      "en": "cationic azo dyes",
+      "count": 214,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P1/10": {
+      "code": "D06P1/10",
+      "level": 2,
+      "parent": "D06P1/02",
+      "ja": "金属を含むもの",
+      "en": "containing metal",
+      "count": 358,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P1/12": {
+      "code": "D06P1/12",
+      "level": 2,
+      "parent": "D06P1/02",
+      "ja": "基体中で形成させるもの",
+      "en": "prepared <u>in situ</u>",
+      "count": 654,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P1/13": {
+      "code": "D06P1/13",
+      "level": 1,
+      "parent": "D06P1/00",
+      "ja": "アゾメチン染料を用いるもの［２］",
+      "en": "using azomethine dyes",
+      "count": 47,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P1/14": {
+      "code": "D06P1/14",
+      "level": 1,
+      "parent": "D06P1/00",
+      "ja": "建染め染料でないフタロシアニン染料を用いるもの（Ｄ０６Ｐ１／３８，Ｄ０６Ｐ１／４０が優先）",
+      "en": "using phthalocyanine dyes without vatting(<b>D06P1/38</b>, <b>D06P1/40</b> take precedence)",
+      "count": 143,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P1/16": {
+      "code": "D06P1/16",
+      "level": 1,
+      "parent": "D06P1/00",
+      "ja": "分散染料，例．アセテート染料，を用いるもの",
+      "en": "using dispersed, e.g. acetate, dyestuffs",
+      "count": 4392,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P1/18": {
+      "code": "D06P1/18",
+      "level": 2,
+      "parent": "D06P1/16",
+      "ja": "アゾ染料",
+      "en": "Azo dyes",
+      "count": 1632,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P1/19": {
+      "code": "D06P1/19",
+      "level": 2,
+      "parent": "D06P1/16",
+      "ja": "ニトロ染料［２］",
+      "en": "Nitro dyes",
+      "count": 318,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P1/20": {
+      "code": "D06P1/20",
+      "level": 2,
+      "parent": "D06P1/16",
+      "ja": "アントラキノン染料",
+      "en": "Anthraquinone dyes",
+      "count": 438,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P1/22": {
+      "code": "D06P1/22",
+      "level": 1,
+      "parent": "D06P1/00",
+      "ja": "建染め染料を用いるもの",
+      "en": "using vat dyestuffs",
+      "count": 2072,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P1/24": {
+      "code": "D06P1/24",
+      "level": 2,
+      "parent": "D06P1/22",
+      "ja": "アントラキノン染料",
+      "en": "Anthraquinone dyes",
+      "count": 130,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P1/26": {
+      "code": "D06P1/26",
+      "level": 2,
+      "parent": "D06P1/22",
+      "ja": "フタロシアニン染料",
+      "en": "Phthalocyanine dyes",
+      "count": 44,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P1/28": {
+      "code": "D06P1/28",
+      "level": 2,
+      "parent": "D06P1/22",
+      "ja": "建染め染料のエステル",
+      "en": "Esters of vat dyestuffs",
+      "count": 329,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P1/30": {
+      "code": "D06P1/30",
+      "level": 1,
+      "parent": "D06P1/00",
+      "ja": "硫化染料を用いるもの",
+      "en": "using sulfur dyes",
+      "count": 605,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P1/32": {
+      "code": "D06P1/32",
+      "level": 1,
+      "parent": "D06P1/00",
+      "ja": "酸化染料を用いるもの",
+      "en": "using oxidation dyes",
+      "count": 726,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P1/34": {
+      "code": "D06P1/34",
+      "level": 1,
+      "parent": "D06P1/00",
+      "ja": "天然染料を用いるもの",
+      "en": "using natural dyestuffs",
+      "count": 3064,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P1/36": {
+      "code": "D06P1/36",
+      "level": 1,
+      "parent": "D06P1/00",
+      "ja": "媒染染料を用いるもの",
+      "en": "using mordant dyes",
+      "count": 329,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P1/38": {
+      "code": "D06P1/38",
+      "level": 1,
+      "parent": "D06P1/00",
+      "ja": "反応性染料を用いるもの",
+      "en": "using reactive dyes",
+      "count": 5239,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P1/382": {
+      "code": "D06P1/382",
+      "level": 2,
+      "parent": "D06P1/38",
+      "ja": "反応基が直接複素環式基に付加しているもの［２］",
+      "en": "with a reactive group directly attached to the heterocyclic group",
+      "count": 824,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P1/384": {
+      "code": "D06P1/384",
+      "level": 2,
+      "parent": "D06P1/38",
+      "ja": "反応基が直接複素環式基に付加していないもの［２］",
+      "en": "with a reactive group not directly attached to the heterocyclic group",
+      "count": 977,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P1/39": {
+      "code": "D06P1/39",
+      "level": 1,
+      "parent": "D06P1/00",
+      "ja": "酸性染料を用いるもの［２］",
+      "en": "using acid dyes",
+      "count": 1791,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P1/40": {
+      "code": "D06P1/40",
+      "level": 2,
+      "parent": "D06P1/39",
+      "ja": "アゾ基のない酸性染料を用いるもの",
+      "en": "using acid dyes without azo groups",
+      "count": 135,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P1/41": {
+      "code": "D06P1/41",
+      "level": 1,
+      "parent": "D06P1/00",
+      "ja": "塩基性染料を用いるもの［２］",
+      "en": "using basic dyes",
+      "count": 656,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P1/42": {
+      "code": "D06P1/42",
+      "level": 2,
+      "parent": "D06P1/41",
+      "ja": "アゾ基のない塩基性染料を用いるもの",
+      "en": "using basic dyes without azo groups",
+      "count": 187,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P1/44": {
+      "code": "D06P1/44",
+      "level": 1,
+      "parent": "D06P1/00",
+      "ja": "不溶性顔料または助剤，例．結合剤，を用いるもの［２］",
+      "en": "using insoluble pigments or auxiliary substances, e.g. binders",
+      "count": 5452,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P1/46": {
+      "code": "D06P1/46",
+      "level": 2,
+      "parent": "D06P1/44",
+      "ja": "天然高分子物質またはその誘導体を含有する組成物を用いるもの",
+      "en": "using compositions containing natural macromolecular substances or derivatives thereof",
+      "count": 1660,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P1/48": {
+      "code": "D06P1/48",
+      "level": 3,
+      "parent": "D06P1/46",
+      "ja": "炭水化物の誘導体",
+      "en": "Derivatives of carbohydrates",
+      "count": 1654,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P1/50": {
+      "code": "D06P1/50",
+      "level": 4,
+      "parent": "D06P1/48",
+      "ja": "セルロースの誘導体",
+      "en": "Derivatives of cellulose",
+      "count": 996,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P1/52": {
+      "code": "D06P1/52",
+      "level": 2,
+      "parent": "D06P1/44",
+      "ja": "合成高分子物質を含有する組成物を用いるもの（Ｄ０６Ｐ１／６０が優先）",
+      "en": "using compositions containing synthetic macromolecular substances(<b>D06P1/60</b> takes precedence)",
+      "count": 5662,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P1/54": {
+      "code": "D06P1/54",
+      "level": 3,
+      "parent": "D06P1/52",
+      "ja": "架橋剤と反応する基をもった物質",
+      "en": "Substances with reactive groups together with crosslinking agents",
+      "count": 207,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P1/56": {
+      "code": "D06P1/56",
+      "level": 3,
+      "parent": "D06P1/52",
+      "ja": "アルデヒドと共に製造された縮合生成物または初期縮合生成物",
+      "en": "Condensation products or precondensation products prepared with aldehydes",
+      "count": 578,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P1/58": {
+      "code": "D06P1/58",
+      "level": 4,
+      "parent": "D06P1/56",
+      "ja": "その他の合成高分子物質を一緒に用いるもの",
+      "en": "together with other synthetic macromolecular substances",
+      "count": 136,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P1/60": {
+      "code": "D06P1/60",
+      "level": 2,
+      "parent": "D06P1/44",
+      "ja": "ポリエーテルを含有する組成物を用いるもの",
+      "en": "using compositions containing polyethers",
+      "count": 331,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P1/607": {
+      "code": "D06P1/607",
+      "level": 3,
+      "parent": "D06P1/60",
+      "ja": "窒素含有ポリエーテル［２］",
+      "en": "Nitrogen-containing polyethers",
+      "count": 680,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P1/613": {
+      "code": "D06P1/613",
+      "level": 3,
+      "parent": "D06P1/60",
+      "ja": "窒素を含まないポリエーテル［２］",
+      "en": "Polyethers without nitrogen",
+      "count": 2488,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P1/62": {
+      "code": "D06P1/62",
+      "level": 2,
+      "parent": "D06P1/44",
+      "ja": "硫酸基またはスルホン酸基を有する低分子量の有機化合物を含有する組成物を用いるもの",
+      "en": "using compositions containing low-molecular-weight organic compounds with sulfate or sulfonate groups",
+      "count": 2081,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P1/64": {
+      "code": "D06P1/64",
+      "level": 2,
+      "parent": "D06P1/44",
+      "ja": "硫酸基またはスルホン酸基を有しない低分子量の有機化合物を含有する組成物を用いるもの",
+      "en": "using compositions containing low-molecular-weight organic compounds without sulfate or sulfonate groups",
+      "count": 227,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P1/642": {
+      "code": "D06P1/642",
+      "level": 3,
+      "parent": "D06P1/64",
+      "ja": "窒素含有化合物［２］",
+      "en": "Compounds containing nitrogen",
+      "count": 1888,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P1/645": {
+      "code": "D06P1/645",
+      "level": 4,
+      "parent": "D06P1/642",
+      "ja": "アミノ基を含有する脂肪族，芳香脂肪族または環式脂肪族化合物［２］",
+      "en": "Aliphatic, araliphatic or cycloaliphatic compounds containing amino groups",
+      "count": 890,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P1/647": {
+      "code": "D06P1/647",
+      "level": 4,
+      "parent": "D06P1/642",
+      "ja": "窒素含有カルボン酸またはその塩［２］",
+      "en": "Nitrogen-containing carboxylic acids or their salts",
+      "count": 497,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P1/649": {
+      "code": "D06P1/649",
+      "level": 4,
+      "parent": "D06P1/642",
+      "ja": "カルボンアミド，チオカルボンアミドまたはグアニル基を含有する化合物［２］",
+      "en": "Compounds containing carbonamide, thiocarbonamide or guanyl groups",
+      "count": 1574,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P1/651": {
+      "code": "D06P1/651",
+      "level": 3,
+      "parent": "D06P1/64",
+      "ja": "窒素を含まない化合物［２］",
+      "en": "Compounds without nitrogen",
+      "count": 3964,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P1/653": {
+      "code": "D06P1/653",
+      "level": 2,
+      "parent": "D06P1/44",
+      "ja": "窒素のないカルボン酸またはその塩［２］",
+      "en": "Nitrogen-free carboxylic acids or their salts",
+      "count": 2770,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P1/655": {
+      "code": "D06P1/655",
+      "level": 2,
+      "parent": "D06P1/44",
+      "ja": "アンモニウム基を含有する化合物［２］［６］",
+      "en": "Compounds containing ammonium groups",
+      "count": 210,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P1/66": {
+      "code": "D06P1/66",
+      "level": 3,
+      "parent": "D06P1/655",
+      "ja": "第４級アンモニウム基を含有する化合物［６］",
+      "en": "containing quaternary ammonium groups",
+      "count": 1154,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P1/667": {
+      "code": "D06P1/667",
+      "level": 2,
+      "parent": "D06P1/44",
+      "ja": "有機リン化合物［２］",
+      "en": "Organo-phosphorus compounds",
+      "count": 604,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P1/673": {
+      "code": "D06P1/673",
+      "level": 2,
+      "parent": "D06P1/44",
+      "ja": "無機化合物［２］",
+      "en": "Inorganic compounds",
+      "count": 6401,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P1/81": {
+      "code": "D06P1/81",
+      "level": 1,
+      "parent": "D06P1/00",
+      "ja": "無機溶媒に溶解した染料を用いるもの［７］",
+      "en": "using dyes dissolved in inorganic solvents",
+      "count": 88,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P1/90": {
+      "code": "D06P1/90",
+      "level": 1,
+      "parent": "D06P1/00",
+      "ja": "有機溶媒に溶解した染料またはその水性エマルジョンを用いるもの［２］",
+      "en": "using dyes dissolved in organic solvents or aqueous emulsions thereof",
+      "count": 583,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P1/92": {
+      "code": "D06P1/92",
+      "level": 2,
+      "parent": "D06P1/90",
+      "ja": "有機溶媒に溶解したもの［７］",
+      "en": "in organic solvents",
+      "count": 1047,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P1/94": {
+      "code": "D06P1/94",
+      "level": 1,
+      "parent": "D06P1/00",
+      "ja": "超臨界状態の溶媒に溶解した染料を用いるもの［７］",
+      "en": "using dyes dissolved in solvents which are in the supercritical state",
+      "count": 299,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P1/96": {
+      "code": "D06P1/96",
+      "level": 1,
+      "parent": "D06P1/00",
+      "ja": "ショートバス比に特徴がある染色［７］",
+      "en": "Dyeing characterised by a short bath ratio",
+      "count": 282,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P3/00": {
+      "code": "D06P3/00",
+      "level": 0,
+      "parent": "D06P",
+      "ja": "処理される材料により分類された繊維製品の染色またはなっ染の特殊方法または皮革，毛皮または種々の形態の固定状高分子物質における染色の特殊方法",
+      "en": "Special processes of dyeing or printing textiles or dyeing leather, furs or solid macromolecular substances in any form, classified according to the material treated",
+      "count": 1919,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P3/02": {
+      "code": "D06P3/02",
+      "level": 1,
+      "parent": "D06P3/00",
+      "ja": "塩基性窒素を含有する材料",
+      "en": "Material containing basic nitrogen",
+      "count": 224,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P3/04": {
+      "code": "D06P3/04",
+      "level": 2,
+      "parent": "D06P3/02",
+      "ja": "アミド基を含有するもの",
+      "en": "containing amide groups",
+      "count": 1607,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P3/06": {
+      "code": "D06P3/06",
+      "level": 3,
+      "parent": "D06P3/04",
+      "ja": "酸性染料を用いるもの",
+      "en": "using acid dyes",
+      "count": 456,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P3/08": {
+      "code": "D06P3/08",
+      "level": 3,
+      "parent": "D06P3/04",
+      "ja": "酸化染料を用いるもの",
+      "en": "using oxidation dyes",
+      "count": 742,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P3/10": {
+      "code": "D06P3/10",
+      "level": 3,
+      "parent": "D06P3/04",
+      "ja": "反応性染料を用いるもの",
+      "en": "using reactive dyes",
+      "count": 878,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P3/12": {
+      "code": "D06P3/12",
+      "level": 3,
+      "parent": "D06P3/04",
+      "ja": "材料上でアゾ染料を形成するもの",
+      "en": "Preparing azo dyes on the material",
+      "count": 65,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P3/14": {
+      "code": "D06P3/14",
+      "level": 3,
+      "parent": "D06P3/04",
+      "ja": "羊毛",
+      "en": "Wool",
+      "count": 1687,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P3/16": {
+      "code": "D06P3/16",
+      "level": 4,
+      "parent": "D06P3/14",
+      "ja": "酸性染料を用いるもの",
+      "en": "using acid dyes",
+      "count": 432,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P3/18": {
+      "code": "D06P3/18",
+      "level": 4,
+      "parent": "D06P3/14",
+      "ja": "塩基性染料を用いるもの",
+      "en": "using basic dyes",
+      "count": 48,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P3/20": {
+      "code": "D06P3/20",
+      "level": 4,
+      "parent": "D06P3/14",
+      "ja": "媒染染料を用いるもの",
+      "en": "using mordant dyes",
+      "count": 256,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P3/22": {
+      "code": "D06P3/22",
+      "level": 4,
+      "parent": "D06P3/14",
+      "ja": "繊維上でアゾ染料を形成するもの",
+      "en": "Preparing azo dyes on the fibre",
+      "count": 61,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P3/24": {
+      "code": "D06P3/24",
+      "level": 3,
+      "parent": "D06P3/04",
+      "ja": "ポリアミド；ポリウレタン",
+      "en": "Polyamides; Polyurethanes",
+      "count": 2910,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P3/26": {
+      "code": "D06P3/26",
+      "level": 4,
+      "parent": "D06P3/24",
+      "ja": "分散染料を用いるもの",
+      "en": "using dispersed dyestuffs",
+      "count": 494,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P3/28": {
+      "code": "D06P3/28",
+      "level": 4,
+      "parent": "D06P3/24",
+      "ja": "材料上でアゾ染料を形成するもの",
+      "en": "Preparing azo dyes on the material",
+      "count": 79,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P3/30": {
+      "code": "D06P3/30",
+      "level": 3,
+      "parent": "D06P3/04",
+      "ja": "毛皮",
+      "en": "Furs",
+      "count": 807,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P3/32": {
+      "code": "D06P3/32",
+      "level": 3,
+      "parent": "D06P3/04",
+      "ja": "皮革",
+      "en": "Leather",
+      "count": 1632,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P3/34": {
+      "code": "D06P3/34",
+      "level": 1,
+      "parent": "D06P3/00",
+      "ja": "エステル基を含有する材料（Ｄ０６Ｐ３／０４が優先）",
+      "en": "Material containing ester groups(<b>D06P3/04</b> takes precedence)",
+      "count": 264,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P3/36": {
+      "code": "D06P3/36",
+      "level": 2,
+      "parent": "D06P3/34",
+      "ja": "分散染料を用いるもの",
+      "en": "using dispersed dyestuffs",
+      "count": 313,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P3/38": {
+      "code": "D06P3/38",
+      "level": 2,
+      "parent": "D06P3/34",
+      "ja": "材料上でアゾ染料を形成するもの",
+      "en": "Preparing azo dyes on the material",
+      "count": 19,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P3/40": {
+      "code": "D06P3/40",
+      "level": 2,
+      "parent": "D06P3/34",
+      "ja": "セルロースアセテート",
+      "en": "Cellulose acetate",
+      "count": 349,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P3/42": {
+      "code": "D06P3/42",
+      "level": 3,
+      "parent": "D06P3/40",
+      "ja": "分散染料を用いるもの",
+      "en": "using dispersed dyestuffs",
+      "count": 215,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P3/44": {
+      "code": "D06P3/44",
+      "level": 3,
+      "parent": "D06P3/40",
+      "ja": "材料上でアゾ染料を形成するもの",
+      "en": "Preparing azo dyes on the material",
+      "count": 77,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P3/46": {
+      "code": "D06P3/46",
+      "level": 3,
+      "parent": "D06P3/40",
+      "ja": "セルローストリアセテート",
+      "en": "Cellulose triacetate",
+      "count": 37,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P3/48": {
+      "code": "D06P3/48",
+      "level": 4,
+      "parent": "D06P3/46",
+      "ja": "分散染料を用いるもの",
+      "en": "using dispersed dyestuffs",
+      "count": 108,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P3/50": {
+      "code": "D06P3/50",
+      "level": 4,
+      "parent": "D06P3/46",
+      "ja": "材料上でアゾ染料を形成するもの",
+      "en": "Preparing azo dyes on the material",
+      "count": 8,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P3/52": {
+      "code": "D06P3/52",
+      "level": 2,
+      "parent": "D06P3/34",
+      "ja": "ポリエステル",
+      "en": "Polyesters",
+      "count": 2412,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P3/54": {
+      "code": "D06P3/54",
+      "level": 3,
+      "parent": "D06P3/52",
+      "ja": "分散染料を用いるもの",
+      "en": "using dispersed dyestuffs",
+      "count": 3679,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P3/56": {
+      "code": "D06P3/56",
+      "level": 3,
+      "parent": "D06P3/52",
+      "ja": "材料上でアゾ染料を形成するもの",
+      "en": "Preparing azo dyes on the material",
+      "count": 112,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P3/58": {
+      "code": "D06P3/58",
+      "level": 1,
+      "parent": "D06P3/00",
+      "ja": "水酸基を含有する材料",
+      "en": "Material containing hydroxyl groups",
+      "count": 260,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P3/60": {
+      "code": "D06P3/60",
+      "level": 2,
+      "parent": "D06P3/58",
+      "ja": "天然または再生セルロース",
+      "en": "Natural or regenerated cellulose",
+      "count": 3727,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P3/62": {
+      "code": "D06P3/62",
+      "level": 3,
+      "parent": "D06P3/60",
+      "ja": "直接染料を用いるもの",
+      "en": "using direct dyes",
+      "count": 307,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P3/64": {
+      "code": "D06P3/64",
+      "level": 3,
+      "parent": "D06P3/60",
+      "ja": "媒染染料を用いるもの",
+      "en": "using mordant dyes",
+      "count": 182,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P3/66": {
+      "code": "D06P3/66",
+      "level": 3,
+      "parent": "D06P3/60",
+      "ja": "反応性染料を用いるもの",
+      "en": "using reactive dyes",
+      "count": 3937,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P3/68": {
+      "code": "D06P3/68",
+      "level": 3,
+      "parent": "D06P3/60",
+      "ja": "材料上でアゾ染料を形成するもの",
+      "en": "Preparing azo dyes on the material",
+      "count": 438,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P3/70": {
+      "code": "D06P3/70",
+      "level": 1,
+      "parent": "D06P3/00",
+      "ja": "ニトリル基を含有する材料",
+      "en": "Material containing nitrile groups",
+      "count": 515,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P3/72": {
+      "code": "D06P3/72",
+      "level": 2,
+      "parent": "D06P3/70",
+      "ja": "分散染料を用いるもの",
+      "en": "using dispersed dyestuffs",
+      "count": 117,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P3/74": {
+      "code": "D06P3/74",
+      "level": 2,
+      "parent": "D06P3/70",
+      "ja": "酸性染料を用いるもの",
+      "en": "using acid dyes",
+      "count": 113,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P3/76": {
+      "code": "D06P3/76",
+      "level": 2,
+      "parent": "D06P3/70",
+      "ja": "塩基性染料を用いるもの",
+      "en": "using basic dyes",
+      "count": 461,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P3/78": {
+      "code": "D06P3/78",
+      "level": 2,
+      "parent": "D06P3/70",
+      "ja": "材料上でアゾ染料を形成するもの",
+      "en": "Preparing azo dyes on the material",
+      "count": 16,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P3/79": {
+      "code": "D06P3/79",
+      "level": 1,
+      "parent": "D06P3/00",
+      "ja": "ポリオレフイン［２］",
+      "en": "Polyolefins",
+      "count": 873,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P3/80": {
+      "code": "D06P3/80",
+      "level": 1,
+      "parent": "D06P3/00",
+      "ja": "無機繊維",
+      "en": "Inorganic fibres",
+      "count": 107,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P3/82": {
+      "code": "D06P3/82",
+      "level": 1,
+      "parent": "D06P3/00",
+      "ja": "異種の繊維を含有する織物",
+      "en": "Textiles which contain different kinds of fibres",
+      "count": 3314,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P3/84": {
+      "code": "D06P3/84",
+      "level": 2,
+      "parent": "D06P3/82",
+      "ja": "同色染め",
+      "en": "in the same shade",
+      "count": 148,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P3/85": {
+      "code": "D06P3/85",
+      "level": 2,
+      "parent": "D06P3/82",
+      "ja": "１つの染料で染色したもの［２］",
+      "en": "dyed with one dye",
+      "count": 1687,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P3/852": {
+      "code": "D06P3/852",
+      "level": 3,
+      "parent": "D06P3/85",
+      "ja": "１／２が羊毛またはセルロース／ポリアミド混合物を含有するもの［２］",
+      "en": "containing half-wool or cellulose-polyamide mixture",
+      "count": 105,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P3/854": {
+      "code": "D06P3/854",
+      "level": 3,
+      "parent": "D06P3/85",
+      "ja": "変成または無変成繊維を含有するもの［２］",
+      "en": "containing modified or unmodified fibres",
+      "count": 147,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P3/86": {
+      "code": "D06P3/86",
+      "level": 2,
+      "parent": "D06P3/82",
+      "ja": "異色染め",
+      "en": "in different shades",
+      "count": 131,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P3/87": {
+      "code": "D06P3/87",
+      "level": 2,
+      "parent": "D06P3/82",
+      "ja": "２以上の染料で染色したもの［２］",
+      "en": "dyed with two or more dyes",
+      "count": 832,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P3/872": {
+      "code": "D06P3/872",
+      "level": 3,
+      "parent": "D06P3/87",
+      "ja": "分散染料と反応性染料で染色したもの［２］",
+      "en": "dyed with dispersed and reactive dyes",
+      "count": 520,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P3/874": {
+      "code": "D06P3/874",
+      "level": 3,
+      "parent": "D06P3/87",
+      "ja": "非反応性アニオン染料と非反応性分散染料またはカチオン染料によるもの［２］",
+      "en": "with non-reactive anionic and non-reactive dispersed or cationic dyes",
+      "count": 40,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P5/00": {
+      "code": "D06P5/00",
+      "level": 0,
+      "parent": "D06P",
+      "ja": "繊維製品の染色または捺染または皮革，毛皮または種々の形態の固体状高分子物質の染色における他の特徴",
+      "en": "Other features in dyeing or printing textiles or dyeing leather, furs or solid macromolecular substances in any form",
+      "count": 9261,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P5/02": {
+      "code": "D06P5/02",
+      "level": 1,
+      "parent": "D06P5/00",
+      "ja": "後処理<br><br><b><ul>注</ul></b><br>グループＤ０６Ｐ５／０４からＤ０６Ｐ５／１０においては，ラストプレイス優先ルールが適用される，すなわち各階層レベルにおいて相反する指示のない限り，化合物は最後の適切な箇所に分類される。",
+      "en": "After-treatment",
+      "count": 3566,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P5/04": {
+      "code": "D06P5/04",
+      "level": 2,
+      "parent": "D06P5/02",
+      "ja": "有機化合物によるもの",
+      "en": "with organic compounds",
+      "count": 1530,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P5/06": {
+      "code": "D06P5/06",
+      "level": 3,
+      "parent": "D06P5/04",
+      "ja": "窒素原子を含有するもの",
+      "en": "containing nitrogen",
+      "count": 1002,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P5/08": {
+      "code": "D06P5/08",
+      "level": 3,
+      "parent": "D06P5/04",
+      "ja": "高分子のもの",
+      "en": "macromolecular",
+      "count": 2094,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P5/10": {
+      "code": "D06P5/10",
+      "level": 2,
+      "parent": "D06P5/02",
+      "ja": "金属を含有する化合物によるもの",
+      "en": "with compounds containing metal",
+      "count": 1612,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P5/12": {
+      "code": "D06P5/12",
+      "level": 1,
+      "parent": "D06P5/00",
+      "ja": "染色または捺染の前における材料の一部の防染",
+      "en": "Reserving parts of the material before dyeing or printing",
+      "count": 1508,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P5/13": {
+      "code": "D06P5/13",
+      "level": 1,
+      "parent": "D06P5/00",
+      "ja": "色あせしやすい染色または抜染染色［２］",
+      "en": "Fugitive dyeing or stripping dyes",
+      "count": 1218,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P5/15": {
+      "code": "D06P5/15",
+      "level": 1,
+      "parent": "D06P5/00",
+      "ja": "染料の一部の色抜き［２］",
+      "en": "Locally discharging the dyes",
+      "count": 1067,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P5/17": {
+      "code": "D06P5/17",
+      "level": 2,
+      "parent": "D06P5/15",
+      "ja": "アゾ染料［２］",
+      "en": "Azo dyes",
+      "count": 43,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P5/20": {
+      "code": "D06P5/20",
+      "level": 1,
+      "parent": "D06P5/00",
+      "ja": "染色に影響を与える物理的処理，例．超音波または電気［２００６．０１］",
+      "en": "Physical treatments affecting dyeing, e.g. ultrasonic or electric",
+      "count": 2863,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P5/22": {
+      "code": "D06P5/22",
+      "level": 1,
+      "parent": "D06P5/00",
+      "ja": "繊維と反応する化学薬品によって繊維材料上の染料の親和性の変化に影響を与えるもの［２］",
+      "en": "Effecting variation of dye affinity on textile material by chemical means that react with the fibre",
+      "count": 1411,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P5/24": {
+      "code": "D06P5/24",
+      "level": 1,
+      "parent": "D06P5/00",
+      "ja": "転写捺染［７］",
+      "en": "Transfer printing",
+      "count": 1329,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P5/26": {
+      "code": "D06P5/26",
+      "level": 2,
+      "parent": "D06P5/24",
+      "ja": "熱転写捺染［７］",
+      "en": "Heat transfer printing",
+      "count": 380,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P5/28": {
+      "code": "D06P5/28",
+      "level": 3,
+      "parent": "D06P5/26",
+      "ja": "昇華染料を用いるもの［７］",
+      "en": "using subliming dyes",
+      "count": 1045,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P5/30": {
+      "code": "D06P5/30",
+      "level": 1,
+      "parent": "D06P5/00",
+      "ja": "インクジェット捺染［７］",
+      "en": "Ink jet printing",
+      "count": 3040,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    },
+    "D06P7/00": {
+      "code": "D06P7/00",
+      "level": 0,
+      "parent": "D06P",
+      "ja": "機械的処理と組み合わされた染色またはなっ染方法",
+      "en": "Dyeing or printing processes combined with mechanical treatment",
+      "count": 1830,
+      "sourceFile": "ipc_D06P.txt",
+      "kind": "ipc"
+    }
+  }
+};

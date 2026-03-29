@@ -1,0 +1,446 @@
+window.IPC_SHARD_C40B = {
+  "generatedAt": "2026-03-20T02:17:46.541Z",
+  "total": 44,
+  "entries": {
+    "C40B": {
+      "code": "C40B",
+      "level": 0,
+      "parent": "C40",
+      "ja": "コンビナトリアルケミストリー　；ライブラリ，例．ケミカルライブラリ（ｉｎ　ｓｉｌｉｃｏによる核酸，蛋白質またはペプチドのコンビナトリアルライブラリＧ１６Ｂ３５／００；ｉｎ　ｓｉｌｉｃｏによるコンビナトリアルケミストリー　Ｇ１６Ｃ２０／６０）<br><br><b><ul>注</ul></b><br>１．このサブクラスでは，ファーストプレイス優先ルールが適用される，すなわち各階層レベルにおいて，相反する指示がない限り，最初の適切な箇所に分類する。<br><br>２．このサブクラスに分類する場合，ライブラリーメンバーはマーカッシュ形式と関連性を有する確立した方法に従って他の適切な場所にも（例．セクションＣ内）分類される（国際特許分類指針の第１００項と第１０１項を参照のこと）。",
+      "en": "COMBINATORIAL CHEMISTRY; LIBRARIES, e.g. CHEMICAL LIBRARIES  (<u>in silico</u> combinatorial libraries of nucleic acids, proteins or peptides <b>G16B35/00</b>;  <u>in silico</u> combinatorial chemistry <b>G16C20/60</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>In this subclass, the first place priority rule is applied, i.e. at each hierarchical level, in the absence of an indication to the contrary, classification is made in the first appropriate place.</li><li>When classifying in this subclass, library members are also classified in the appropriate places elsewhere in the IPC (e.g. in section <b>C</b>) according to established procedure relating to \"Markush\"-type formulae (see paragraphs 100 and 101 of the Guide).</li></ul>",
+      "count": 142,
+      "sourceFile": "ipc_C.txt",
+      "kind": "ipc"
+    },
+    "C40": {
+      "code": "C40",
+      "level": 0,
+      "parent": "C",
+      "ja": "コンビナトリアル技術［８］",
+      "en": "COMBINATORIAL TECHNOLOGY",
+      "count": 0,
+      "sourceFile": "ipc_C.txt",
+      "kind": "ipc"
+    },
+    "C": {
+      "code": "C",
+      "level": 0,
+      "parent": null,
+      "ja": "化学；冶金<br><br><b><ul>注</ul></b><br>（１）セクションＣにおいて，化学元素の種類に関する定義は次の通りである：<br>アルカリ金属：Ｌｉ，Ｎａ，Ｋ，Ｒｂ，Ｃｓ，Ｆｒ<br>アルカリ土類金属：Ｃａ，Ｓｒ，Ｂａ，Ｒａ<br>ランタニド：原子番号５７から７１までの元素<br>希土類：Ｓｃ，Ｙ，ランタニド<br>アクチニド：原子番号８９から１０３までの元素<br>耐火金属：Ｔｉ，Ｖ，Ｃｒ，Ｚｒ，Ｎｂ，Ｍｏ，Ｈｆ，Ｔａ，Ｗ<br>ハロゲン：Ｆ，Ｃｌ，Ｂｒ，Ｉ，Ａｔ<br>希ガス：Ｈｅ，Ｎｅ，Ａｒ，Ｋｒ，Ｘｅ，Ｒｎ<br>白金族：Ｏｓ，Ｉｒ，Ｐｔ，Ｒｕ，Ｒｈ，Ｐｄ<br>貴金属：Ａｇ，Ａｕ，白金族<br>軽金属：アルカリ金属，アルカリ土類金属，Ｂｅ，Ａｌ，Ｍｇ<br>重金属：軽金属以外の金属<br>鉄族：Ｆｅ，Ｃｏ，Ｎｉ<br>非金属：Ｈ，Ｂ，Ｃ，Ｓｉ，Ｎ，Ｐ，Ｏ，Ｓ，Ｓｅ，Ｔｅ，希ガス，ハロゲン<br>金属：非金属以外の元素<br>遷移元素：原子番号２１から３０まで，３９から４８まで，５７から８０まで，８９以上の元素<br>（２）Ｃセクションは以下のものを包含する：<br>（ａ）無機化合物，有機化合物，高分子化合物およびそれらの調製法を包含する純粋化学；<br>（ｂ）たとえばガラス，セラミック，肥料，プラスチック組成物，ペイント，石油工業の製品のような上記化合物を含有する組成物を包含する応用化学。それはまた，爆発物，染料，接着剤，潤滑剤および洗剤のように，ある目的に適した特別の性質をもつための組成物をも包含する；<br>（ｃ）コークスの製造，固体または気体燃料の製造，油脂およびろうの製造および精製，発酵工業（例．ビールおよびぶどう酒の製造），製糖工業のようなある境界工業；<br>（ｄ）ある操作または処理であって，純粋に機械的な処理，例．レザーおよび皮の機械的処理，または部分的機械的処理，例．水処理，または腐食防止一般であるもの；<br>（ｅ）冶金，鉄または非鉄合金<br>（３）ＩＰＣの全てのセクションにおいて，相反する指示がない限り，元素記号周期表への言及は，以下に示す１８のグループを表す。［２００９．０１］<br>’「図」’<br>’「図」’<br>（４）<br>（ａ）化学的部分または面および非化学的部分または面の両方を有する操作，処理，製品または物品の場合に，一般規則として，化学的部分または面はＣセクションに包含される。<br>（ｂ）これらのうちのある場合には，化学的部分または面には非化学的部分または面を伴い，純粋に機械的部分または面を伴うことさえある，というのは非化学的面は操作または処理にとって本質的であるかまたはそれらの重要な要素を構成するからである；実際，全体のさまざまな部分または面を分割しないのがより論理的と思える。これは応用化学や上記注（１）（ｃ），（ｄ）および（ｅ）の工業，操作および処理の場合に適用される。例えば，ガラス製造用特殊炉はＣ０３に包含されＦ２７には包含されない。<br>（ｃ）しかしながら，機械的面（または非化学的面）に非化学的な面が伴うという例外もある，例えば：<br>―サブクラスＡ６１Ｋにおけるある抽出プロセス；<br>―サブクラスＡ６１Ｌにおける空気の化学的精製；<br>―サブクラスＡ６２Ｄにおける化学的消火方法；<br>―クラスＢ０１における化学的プロセスおよび装置；<br>―サブクラスＢ２７Ｋにおける木材の含浸；<br>―サブクラスＧ０１Ｎにおける化学的分析または試験法；<br>―クラスＧ０３における写真材料またはプロセス，そして一般に，Ｄセクションにおける繊維の化学的処理および繊維素，紙等の製造<br>（ｄ）さらに他の場合，純粋化学的面はＣセクションに包含され，応用化学的面はＡ，Ｂ，Ｆセクションのような他のセクションに包含される，例．以下の物質または組成物の使用：<br>―サブクラスＡ０１Ｎに包含される植物または動物の処理；<br>―クラスＡ２３に包含される食物；<br>―クラスＦ４２に包含される弾薬または爆薬<br>（ｅ）化学的面および機械的面が非常に交錯して，簡単明確な分割ができない時，または化学的処理が自然なまたは論理的な延長として機械的プロセスを要する時は，化学的面に加えて，Ｃセクションは機械的面の一部のみ，例．クラスＣ０４に包含される人造石の後処理，を包含する。この後者の場合に，たとえその区別がむしろ任意であってもその位置を明確にするよう注または参照を通常設けている。",
+      "en": "CHEMISTRY; METALLURGY; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In section <b>C</b>, the definitions of groups of chemical elements are as follows: <ul><li><u>Alkali metals:</u> Li, Na, K, Rb, Cs, Fr</li><li><u>Alkaline earth metals:</u> Ca, Sr, Ba, Ra</li><li><u>Lanthanides:</u> elements with atomic numbers 57 to 71 inclusive</li><li><u>Rare earths:</u> Sc, Y, Lanthanides</li><li><u>Actinides:</u> elements with atomic numbers 89 to 103 inclusive</li><li><u>Refractory metals:</u> Ti, V, Cr, Zr, Nb, Mo, Hf, Ta, W</li><li><u>Halogens:</u> F, Cl, Br, I, At</li><li><u>Noble gases:</u> He, Ne, Ar, Kr, Xe, Rn</li><li><u>Platinum group:</u> Os, Ir, Pt, Ru, Rh, Pd</li><li><u>Noble metals:</u> Ag, Au, Platinum group</li><li><u>Light metals:</u> alkali metals, alkaline earth metals, Be, Al, Mg</li><li><u>Heavy metals:</u> metals other than light metals</li><li><u>Iron group:</u> Fe, Co, Ni</li><li><u>Non-metals:</u> H, B, C, Si, N, P, O, S, Se, Te, noble gases, halogens</li><li><u>Metals:</u> elements other than non-metals</li><li><u>Transition elements:</u> elements with atomic numbers 21 to 30 inclusive, 39 to 48 inclusive, 57 to 80 inclusive, 89 upwards</li></ul></li><li>Section <b>C</b> <u>covers</u> : <ul><li>pure chemistry, which covers inorganic compounds, organic compounds, macromolecular compounds, and their methods of preparation;</li><li>applied chemistry, which covers compositions containing the above compounds, such as: glass, ceramics, fertilisers, plastics compositions, paints, products of the petroleum industry. It also <u>covers</u> certain compositions on account of their having particular properties rendering them suitable for certain purposes, as in the case of explosives, dyestuffs, adhesives, lubricants, and detergents;</li><li>certain marginal industries, such as the manufacture of coke and of solid or gaseous fuels, the production and refining of oils, fats and waxes, the fermentation industry (e.g., brewing and wine-making), the sugar industry;</li><li>certain operations or treatments, which are either purely mechanical, e.g., the mechanical treatment of leather and skins, or partly mechanical, e.g., the treatment of water or the prevention of corrosion in general;</li><li>metallurgy, ferrous or non-ferrous alloys.</li></ul></li><li>In all sections of the IPC, in the absence of an indication to the contrary, the Periodic Table of chemical elements referred to is the one with 18 groups as represented in the table below. [figure]</li><li><ul><li>In the case of operations, treatments, products or articles having both a chemical and a non-chemical part or aspect, the general rule is that the chemical part or aspect is covered by section <b>C</b>.</li><li>In some of these cases, the chemical part or aspect brings with it a non-chemical one, even though purely mechanical, because this latter aspect either is essential to the operation or treatment or constitutes an important element thereof. It has seemed, in fact, more logical not to dissociate the different parts or aspects of a coherent whole. This is the case for applied chemistry and for the industries, operations and treatments mentioned in Notes (1)(c), (d) and (e). For example, furnaces peculiar to the manufacture of glass are covered by class <b>C03</b> and not by class <b>F27</b>.</li><li>There are, however, some exceptions in which the mechanical (or non-chemical) aspect carries with it the chemical aspect, for example: <ul><li>certain extractive processes, in subclass <b>A61K</b>;</li><li>the chemical purification of air, in subclass <b>A61L</b>;</li><li>chemical methods of fire-fighting, in subclass <b>A62D</b>;</li><li>chemical processes and apparatus, in class <b>B01</b>;</li><li>impregnation of wood, in subclass <b>B27K</b>;</li><li>chemical methods of analysis or testing, in subclass <b>G01N</b>;</li><li>photographic materials and processes, in class <b>G03</b>, and, generally, the chemical treatment of textiles and the production of cellulose or paper, in section <b>D</b>.</li></ul></li><li>In still other cases, the pure chemical aspect is covered by section <b>C</b> and the applied chemical aspect by another section, such as <b>A</b>, <b>B</b> or <b>F</b>, e.g., the use of a substance or composition for: <ul><li>treatment of plants or animals, covered by subclass <b>A01N</b>;</li><li>foodstuffs, covered by class <b>A23</b>;</li><li>ammunition or explosives, covered by class <b>F42</b>.</li></ul></li><li>When the chemical and mechanical aspects are so closely interlocked that a neat and simple division is not possible, or when certain mechanical processes follow as a natural or logical continuation of a chemical treatment, section <b>C</b> may cover, in addition to the chemical aspect, a part only of the mechanical aspect, e.g., after-treatment of artificial stone, covered by class <b>C04</b>. In this latter case, a note or a reference is usually given to make the position clear, even if sometimes the division is rather arbitrary.</li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_C.txt",
+      "kind": "ipc"
+    },
+    "C40B10/00": {
+      "code": "C40B10/00",
+      "level": 0,
+      "parent": "C40B",
+      "ja": "高分子の定向分子進化，例．ＲＮＡ，ＤＮＡまたは蛋白質［８］",
+      "en": "Directed molecular evolution of macromolecules, e.g. RNA, DNA or proteins",
+      "count": 216,
+      "sourceFile": "ipc_C40B.txt",
+      "kind": "ipc"
+    },
+    "C40B20/00": {
+      "code": "C40B20/00",
+      "level": 0,
+      "parent": "C40B",
+      "ja": "ライブラリメンバーの同定に特に適した方法［８］",
+      "en": "Methods specially adapted for identifying library members",
+      "count": 511,
+      "sourceFile": "ipc_C40B.txt",
+      "kind": "ipc"
+    },
+    "C40B20/02": {
+      "code": "C40B20/02",
+      "level": 1,
+      "parent": "C40B20/00",
+      "ja": "担体または基板上において固定された物理的位置によってライブラリメンバーを同定すること［８］",
+      "en": "Identifying library members by their fixed physical location on a support or substrate",
+      "count": 127,
+      "sourceFile": "ipc_C40B.txt",
+      "kind": "ipc"
+    },
+    "C40B20/04": {
+      "code": "C40B20/04",
+      "level": 1,
+      "parent": "C40B20/00",
+      "ja": "ライブラリメンバーに関するタグ，ラベル，または他の読み取り可能な若しくは検出可能な物質によりライブラリメンバーを同定すること，例．デコード化［８］",
+      "en": "Identifying library members by means of a tag, label, or other readable or detectable entity associated with the library members, e.g. decoding processes",
+      "count": 521,
+      "sourceFile": "ipc_C40B.txt",
+      "kind": "ipc"
+    },
+    "C40B20/06": {
+      "code": "C40B20/06",
+      "level": 1,
+      "parent": "C40B20/00",
+      "ja": "デコンボリューション技術を用いるもの［８］",
+      "en": "using iterative deconvolution techniques",
+      "count": 35,
+      "sourceFile": "ipc_C40B.txt",
+      "kind": "ipc"
+    },
+    "C40B20/08": {
+      "code": "C40B20/08",
+      "level": 1,
+      "parent": "C40B20/00",
+      "ja": "物理的方法によるライブラリメンバーそのものの直接分析，例．分光法［８］",
+      "en": "Direct analysis of the library members <u>per se</u> by physical methods, e.g. spectroscopy",
+      "count": 169,
+      "sourceFile": "ipc_C40B.txt",
+      "kind": "ipc"
+    },
+    "C40B30/00": {
+      "code": "C40B30/00",
+      "level": 0,
+      "parent": "C40B",
+      "ja": "ライブラリのスクリーニング方法［８］",
+      "en": "Methods of screening libraries",
+      "count": 1571,
+      "sourceFile": "ipc_C40B.txt",
+      "kind": "ipc"
+    },
+    "C40B30/04": {
+      "code": "C40B30/04",
+      "level": 1,
+      "parent": "C40B30/00",
+      "ja": "対象となる分子への特異的な結合能力，例．抗原‐抗体結合，受容体‐配位子結合，の測定によるもの［８］",
+      "en": "by measuring the ability to specifically bind a target molecule, e.g. antibody-antigen binding, receptor-ligand binding",
+      "count": 5891,
+      "sourceFile": "ipc_C40B.txt",
+      "kind": "ipc"
+    },
+    "C40B30/06": {
+      "code": "C40B30/06",
+      "level": 1,
+      "parent": "C40B30/00",
+      "ja": "生体，組織または細胞への影響の測定によるもの［８］",
+      "en": "by measuring effects on living organisms, tissues or cells",
+      "count": 1421,
+      "sourceFile": "ipc_C40B.txt",
+      "kind": "ipc"
+    },
+    "C40B30/08": {
+      "code": "C40B30/08",
+      "level": 1,
+      "parent": "C40B30/00",
+      "ja": "触媒活性の測定によるもの［８］",
+      "en": "by measuring catalytic activity",
+      "count": 452,
+      "sourceFile": "ipc_C40B.txt",
+      "kind": "ipc"
+    },
+    "C40B30/10": {
+      "code": "C40B30/10",
+      "level": 1,
+      "parent": "C40B30/00",
+      "ja": "物理的特性，例．質量，の測定によるもの［８］",
+      "en": "by measuring physical properties, e.g. mass",
+      "count": 362,
+      "sourceFile": "ipc_C40B.txt",
+      "kind": "ipc"
+    },
+    "C40B40/00": {
+      "code": "C40B40/00",
+      "level": 0,
+      "parent": "C40B",
+      "ja": "ライブラリそのもの，例．アレイ，混合物［８］",
+      "en": "Libraries <u>per se</u>, e.g. arrays, mixtures",
+      "count": 528,
+      "sourceFile": "ipc_C40B.txt",
+      "kind": "ipc"
+    },
+    "C40B40/02": {
+      "code": "C40B40/02",
+      "level": 1,
+      "parent": "C40B40/00",
+      "ja": "微生物に含まれたまたはこれにより示されたライブラリ，例．細菌または動物細胞；ベクターに含まれたまたはこれにより示されたライブラリ，例．プラスミド；微生物またはベクターのみを包含するライブラリ［８］",
+      "en": "Libraries contained in or displayed by microorganisms, e.g. bacteria or animal cells; Libraries contained in or displayed by vectors, e.g. plasmids; Libraries containing only microorganisms or vectors",
+      "count": 1756,
+      "sourceFile": "ipc_C40B.txt",
+      "kind": "ipc"
+    },
+    "C40B40/04": {
+      "code": "C40B40/04",
+      "level": 1,
+      "parent": "C40B40/00",
+      "ja": "有機化合物のみを包含するライブラリ［８］<br><br><b><ul>注</ul></b><br>有機化合物の塩を包含するライブラリは，その親化合物を包含するライブラリのグループに分類する。［８］",
+      "en": "Libraries containing only organic compounds",
+      "count": 572,
+      "sourceFile": "ipc_C40B.txt",
+      "kind": "ipc"
+    },
+    "C40B40/06": {
+      "code": "C40B40/06",
+      "level": 2,
+      "parent": "C40B40/04",
+      "ja": "ヌクレオチドもしくはポリヌクレオチド，またはその誘導体を包含するライブラリ［８］",
+      "en": "Libraries containing nucleotides or polynucleotides, or derivatives thereof",
+      "count": 5486,
+      "sourceFile": "ipc_C40B.txt",
+      "kind": "ipc"
+    },
+    "C40B40/08": {
+      "code": "C40B40/08",
+      "level": 3,
+      "parent": "C40B40/06",
+      "ja": "蛋白質をコードするＲＮＡまたはＤＮＡを包含するライブラリ，例．遺伝子ライブラリ［８］",
+      "en": "Libraries containing RNA or DNA which encodes proteins, e.g. gene libraries",
+      "count": 2252,
+      "sourceFile": "ipc_C40B.txt",
+      "kind": "ipc"
+    },
+    "C40B40/10": {
+      "code": "C40B40/10",
+      "level": 2,
+      "parent": "C40B40/04",
+      "ja": "ペプチドもしくはポリペプチド，またはその誘導体を包含するライブラリ［８］",
+      "en": "Libraries containing peptides or polypeptides, or derivatives thereof",
+      "count": 3178,
+      "sourceFile": "ipc_C40B.txt",
+      "kind": "ipc"
+    },
+    "C40B40/12": {
+      "code": "C40B40/12",
+      "level": 2,
+      "parent": "C40B40/04",
+      "ja": "糖類もしくは多糖類，またはその誘導体を包含するライブラリ［８］",
+      "en": "Libraries containing saccharides or polysaccharides, or derivatives thereof",
+      "count": 334,
+      "sourceFile": "ipc_C40B.txt",
+      "kind": "ipc"
+    },
+    "C40B40/14": {
+      "code": "C40B40/14",
+      "level": 2,
+      "parent": "C40B40/04",
+      "ja": "高分子化合物を包含するが，グループＣ４０Ｂ４０／０６～Ｃ４０Ｂ４０／１２に包含されないライブラリ［８］",
+      "en": "Libraries containing macromolecular compounds and not covered by groups <b>C40B40/06 to C40B40/12</b> ",
+      "count": 206,
+      "sourceFile": "ipc_C40B.txt",
+      "kind": "ipc"
+    },
+    "C40B40/16": {
+      "code": "C40B40/16",
+      "level": 2,
+      "parent": "C40B40/04",
+      "ja": "金属を含有した有機化合物を包含するライブラリ［８］",
+      "en": "Libraries containing metal-containing organic compounds",
+      "count": 22,
+      "sourceFile": "ipc_C40B.txt",
+      "kind": "ipc"
+    },
+    "C40B40/18": {
+      "code": "C40B40/18",
+      "level": 1,
+      "parent": "C40B40/00",
+      "ja": "無機化合物または無機物のみを包含するライブラリ［８］",
+      "en": "Libraries containing only inorganic compounds or inorganic materials",
+      "count": 369,
+      "sourceFile": "ipc_C40B.txt",
+      "kind": "ipc"
+    },
+    "C40B50/00": {
+      "code": "C40B50/00",
+      "level": 0,
+      "parent": "C40B",
+      "ja": "ライブラリを製造する方法，例．コンビナトリアル合成［８］",
+      "en": "Methods of creating libraries, e.g. combinatorial synthesis",
+      "count": 591,
+      "sourceFile": "ipc_C40B.txt",
+      "kind": "ipc"
+    },
+    "C40B50/04": {
+      "code": "C40B50/04",
+      "level": 1,
+      "parent": "C40B50/00",
+      "ja": "動力学的コンビナトリアルケミストリ技術を用いるもの［８］",
+      "en": "using dynamic combinatorial chemistry techniques",
+      "count": 101,
+      "sourceFile": "ipc_C40B.txt",
+      "kind": "ipc"
+    },
+    "C40B50/06": {
+      "code": "C40B50/06",
+      "level": 1,
+      "parent": "C40B50/00",
+      "ja": "生化学的方法，例．酵素または生きた微生物をそのまま用いるもの［８］",
+      "en": "Biochemical methods, e.g. using enzymes or whole viable microorganisms",
+      "count": 4476,
+      "sourceFile": "ipc_C40B.txt",
+      "kind": "ipc"
+    },
+    "C40B50/08": {
+      "code": "C40B50/08",
+      "level": 1,
+      "parent": "C40B50/00",
+      "ja": "液相合成，即ち，ライブラリの全てのビルディングブロックが，ライブラリの製造時に液相にあるか溶液中にある場合；液体担体からの特定の開裂方法［８］",
+      "en": "Liquid phase synthesis, i.e. wherein all library building blocks are in liquid phase or in solution during library creation; Particular methods of cleavage from the liquid support",
+      "count": 298,
+      "sourceFile": "ipc_C40B.txt",
+      "kind": "ipc"
+    },
+    "C40B50/10": {
+      "code": "C40B50/10",
+      "level": 2,
+      "parent": "C40B50/08",
+      "ja": "コード化工程を含むもの［８］",
+      "en": "involving encoding steps",
+      "count": 83,
+      "sourceFile": "ipc_C40B.txt",
+      "kind": "ipc"
+    },
+    "C40B50/12": {
+      "code": "C40B50/12",
+      "level": 2,
+      "parent": "C40B50/08",
+      "ja": "液体担体への特定の吸着方法を用いるもの［８］",
+      "en": "using a particular method of attachment to the liquid support",
+      "count": 19,
+      "sourceFile": "ipc_C40B.txt",
+      "kind": "ipc"
+    },
+    "C40B50/14": {
+      "code": "C40B50/14",
+      "level": 1,
+      "parent": "C40B50/00",
+      "ja": "固相合成，即ち，ライブラリの１以上のビルディングブロックが，ライブラリの製造時に固相に結合している場合；固体担体からの特定の開裂方法［８］",
+      "en": "Solid phase synthesis, i.e. wherein one or more library building blocks are bound to a solid support during library creation; Particular methods of cleavage from the solid support",
+      "count": 855,
+      "sourceFile": "ipc_C40B.txt",
+      "kind": "ipc"
+    },
+    "C40B50/16": {
+      "code": "C40B50/16",
+      "level": 2,
+      "parent": "C40B50/14",
+      "ja": "コード化工程を含むもの［８］",
+      "en": "involving encoding steps",
+      "count": 83,
+      "sourceFile": "ipc_C40B.txt",
+      "kind": "ipc"
+    },
+    "C40B50/18": {
+      "code": "C40B50/18",
+      "level": 2,
+      "parent": "C40B50/14",
+      "ja": "固体担体への特定の吸着方法を用いるもの［８］",
+      "en": "using a particular method of attachment to the solid support",
+      "count": 453,
+      "sourceFile": "ipc_C40B.txt",
+      "kind": "ipc"
+    },
+    "C40B60/00": {
+      "code": "C40B60/00",
+      "level": 0,
+      "parent": "C40B",
+      "ja": "コンビナトリアルケミストリにおいてまたはライブラリと共に用いることに特に適した装置［８］",
+      "en": "Apparatus specially adapted for use in combinatorial chemistry or with libraries",
+      "count": 283,
+      "sourceFile": "ipc_C40B.txt",
+      "kind": "ipc"
+    },
+    "C40B60/02": {
+      "code": "C40B60/02",
+      "level": 1,
+      "parent": "C40B60/00",
+      "ja": "ライブラリの製造，ライブラリのスクリーニング，およびライブラリメンバーの同定に特に適した統合装置［８］",
+      "en": "Integrated apparatus specially adapted for creating libraries, screening libraries and for identifying library members",
+      "count": 47,
+      "sourceFile": "ipc_C40B.txt",
+      "kind": "ipc"
+    },
+    "C40B60/04": {
+      "code": "C40B60/04",
+      "level": 1,
+      "parent": "C40B60/00",
+      "ja": "ライブラリのスクリーニングおよびライブラリメンバーの同定の双方に特に適した統合装置［８］",
+      "en": "Integrated apparatus specially adapted for both screening libraries and identifying library members",
+      "count": 67,
+      "sourceFile": "ipc_C40B.txt",
+      "kind": "ipc"
+    },
+    "C40B60/06": {
+      "code": "C40B60/06",
+      "level": 1,
+      "parent": "C40B60/00",
+      "ja": "ライブラリの製造およびライブラリメンバーの同定の双方に特に適した統合装置［８］",
+      "en": "Integrated apparatus specially adapted for both creating libraries and identifying library members",
+      "count": 25,
+      "sourceFile": "ipc_C40B.txt",
+      "kind": "ipc"
+    },
+    "C40B60/08": {
+      "code": "C40B60/08",
+      "level": 1,
+      "parent": "C40B60/00",
+      "ja": "ライブラリの製造およびスクリーニングの双方に特に適した統合装置［８］",
+      "en": "Integrated apparatus specially adapted for both creating and screening libraries",
+      "count": 83,
+      "sourceFile": "ipc_C40B.txt",
+      "kind": "ipc"
+    },
+    "C40B60/10": {
+      "code": "C40B60/10",
+      "level": 1,
+      "parent": "C40B60/00",
+      "ja": "ライブラリメンバーを同定するためのもの［８］",
+      "en": "for identifying library members",
+      "count": 129,
+      "sourceFile": "ipc_C40B.txt",
+      "kind": "ipc"
+    },
+    "C40B60/12": {
+      "code": "C40B60/12",
+      "level": 1,
+      "parent": "C40B60/00",
+      "ja": "ライブラリをスクリーニングするためのもの［８］",
+      "en": "for screening libraries",
+      "count": 785,
+      "sourceFile": "ipc_C40B.txt",
+      "kind": "ipc"
+    },
+    "C40B60/14": {
+      "code": "C40B60/14",
+      "level": 1,
+      "parent": "C40B60/00",
+      "ja": "ライブラリを製造するためのもの［８］",
+      "en": "for creating libraries",
+      "count": 2728,
+      "sourceFile": "ipc_C40B.txt",
+      "kind": "ipc"
+    },
+    "C40B70/00": {
+      "code": "C40B70/00",
+      "level": 0,
+      "parent": "C40B",
+      "ja": "コンビナトリアルケミストリまたはライブラリに特に適したタグまたはラベル，例．蛍光タグまたはバーコード［８］",
+      "en": "Tags or labels specially adapted for combinatorial chemistry or libraries, e.g. fluorescent tags or barcodes",
+      "count": 726,
+      "sourceFile": "ipc_C40B.txt",
+      "kind": "ipc"
+    },
+    "C40B80/00": {
+      "code": "C40B80/00",
+      "level": 0,
+      "parent": "C40B",
+      "ja": "コンビナトリアルケミストリまたはライブラリに特に適したリンカーまたはスペーサ，例．トレースレスリンカーまたはセイフティーキャッチリンカー［８］",
+      "en": "Linkers or spacers specially adapted for combinatorial chemistry or libraries, e.g. traceless linkers or safety-catch linkers",
+      "count": 117,
+      "sourceFile": "ipc_C40B.txt",
+      "kind": "ipc"
+    },
+    "C40B99/00": {
+      "code": "C40B99/00",
+      "level": 0,
+      "parent": "C40B",
+      "ja": "このサブクラスの他のグループに分類されない主題事項［８］",
+      "en": "Subject matter not provided for in other groups of this subclass",
+      "count": 36,
+      "sourceFile": "ipc_C40B.txt",
+      "kind": "ipc"
+    }
+  }
+};

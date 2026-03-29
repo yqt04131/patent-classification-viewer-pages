@@ -1,0 +1,346 @@
+{
+  "generatedAt": "2026-03-20T02:17:45.881Z",
+  "total": 34,
+  "entries": {
+    "A23J": {
+      "code": "A23J",
+      "level": 0,
+      "parent": "A23",
+      "ja": "食品用蛋白質組成物；食品用蛋白質の仕上げ；食品用リン脂質組成物［４］",
+      "en": "PROTEIN COMPOSITIONS FOR FOODSTUFFS; WORKING-UP PROTEINS FOR FOODSTUFFS; PHOSPHATIDE COMPOSITIONS FOR FOODSTUFFS",
+      "count": 582,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A23": {
+      "code": "A23",
+      "level": 0,
+      "parent": "A",
+      "ja": "食品，食料品または非アルコール飲料；それらの調製，処理または保存<br><br><b><ul>注</ul></b><br>下記の箇所に注意すること：<br>Ｃ０８Ｂ　　多糖類，その誘導体<br>Ｃ１１　動物性または植物性油，脂肪，脂肪性物質またはろう<br>Ｃ１２　生化学，ビール，酒精，ぶどう酒，酢<br>Ｃ１３　糖工業［４］",
+      "en": "FOODS, FOODSTUFFS OR NON-ALCOHOLIC BEVERAGES; PREPARATION, TREATMENT OR PRESERVATION THEREOF; <br><br><b><u>Note(s)</u></b><br><br><ul><li>Attention is drawn to the following places:<ul><li>Polysaccharides, derivatives thereof</li><li>Animal or vegetable oils, fats, fatty substances or waxes</li><li>Biochemistry, beer, spirits, wine, vinegar</li><li>Sugar industry.  </li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A": {
+      "code": "A",
+      "level": 0,
+      "parent": null,
+      "ja": "生活必需品",
+      "en": "HUMAN NECESSITIES",
+      "count": 0,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A23J1/00": {
+      "code": "A23J1/00",
+      "level": 0,
+      "parent": "A23J",
+      "ja": "食品用蛋白質組成物の採取；卵を割ることおよび卵白と卵黄の分離［４］",
+      "en": "Obtaining protein compositions for foodstuffs; Bulk opening of eggs and separation of yolks from whites",
+      "count": 3471,
+      "sourceFile": "ipc_A23J.txt",
+      "kind": "ipc"
+    },
+    "A23J1/02": {
+      "code": "A23J1/02",
+      "level": 1,
+      "parent": "A23J1/00",
+      "ja": "肉からの採取",
+      "en": "from meat",
+      "count": 567,
+      "sourceFile": "ipc_A23J.txt",
+      "kind": "ipc"
+    },
+    "A23J1/04": {
+      "code": "A23J1/04",
+      "level": 1,
+      "parent": "A23J1/00",
+      "ja": "魚その他の水産動物からの採取",
+      "en": "from fish or other sea animals",
+      "count": 1588,
+      "sourceFile": "ipc_A23J.txt",
+      "kind": "ipc"
+    },
+    "A23J1/06": {
+      "code": "A23J1/06",
+      "level": 1,
+      "parent": "A23J1/00",
+      "ja": "血液からの採取［２］",
+      "en": "from blood",
+      "count": 530,
+      "sourceFile": "ipc_A23J.txt",
+      "kind": "ipc"
+    },
+    "A23J1/08": {
+      "code": "A23J1/08",
+      "level": 1,
+      "parent": "A23J1/00",
+      "ja": "卵からの採取",
+      "en": "from eggs",
+      "count": 571,
+      "sourceFile": "ipc_A23J.txt",
+      "kind": "ipc"
+    },
+    "A23J1/09": {
+      "code": "A23J1/09",
+      "level": 2,
+      "parent": "A23J1/08",
+      "ja": "卵白からの卵黄の分離",
+      "en": "separating yolks from whites",
+      "count": 429,
+      "sourceFile": "ipc_A23J.txt",
+      "kind": "ipc"
+    },
+    "A23J1/10": {
+      "code": "A23J1/10",
+      "level": 1,
+      "parent": "A23J1/00",
+      "ja": "毛，羽毛，角，皮，革，骨またはこれに類するものからの採取",
+      "en": "from hair, feathers, horn, skins, leather, bones, or the like",
+      "count": 991,
+      "sourceFile": "ipc_A23J.txt",
+      "kind": "ipc"
+    },
+    "A23J1/12": {
+      "code": "A23J1/12",
+      "level": 1,
+      "parent": "A23J1/00",
+      "ja": "穀類，小麦，ぬか，ふすま，または糖蜜からの採取",
+      "en": "from cereals, wheat, bran, or molasses",
+      "count": 1773,
+      "sourceFile": "ipc_A23J.txt",
+      "kind": "ipc"
+    },
+    "A23J1/14": {
+      "code": "A23J1/14",
+      "level": 1,
+      "parent": "A23J1/00",
+      "ja": "豆科または他の植物の種子からの採取；プレスケーキまたは含油種子からの採取",
+      "en": "from leguminous or other vegetable seeds; from press-cake or oil-bearing seeds",
+      "count": 4316,
+      "sourceFile": "ipc_A23J.txt",
+      "kind": "ipc"
+    },
+    "A23J1/16": {
+      "code": "A23J1/16",
+      "level": 1,
+      "parent": "A23J1/00",
+      "ja": "澱粉工場の廃水またはこれに類似する廃棄物からの採取",
+      "en": "from waste water of starch-manufacturing plant or like wastes",
+      "count": 286,
+      "sourceFile": "ipc_A23J.txt",
+      "kind": "ipc"
+    },
+    "A23J1/18": {
+      "code": "A23J1/18",
+      "level": 1,
+      "parent": "A23J1/00",
+      "ja": "酵母からの採取",
+      "en": "from yeasts",
+      "count": 574,
+      "sourceFile": "ipc_A23J.txt",
+      "kind": "ipc"
+    },
+    "A23J1/20": {
+      "code": "A23J1/20",
+      "level": 1,
+      "parent": "A23J1/00",
+      "ja": "乳からの採取，例．カゼイン（カードまたはチーズＡ２３Ｃ）；ホエーからの採取",
+      "en": "from milk, e.g. casein(curds or cheese <b>A23C</b>);from whey",
+      "count": 1910,
+      "sourceFile": "ipc_A23J.txt",
+      "kind": "ipc"
+    },
+    "A23J1/22": {
+      "code": "A23J1/22",
+      "level": 2,
+      "parent": "A23J1/20",
+      "ja": "カゼインの乾燥",
+      "en": "Drying casein",
+      "count": 69,
+      "sourceFile": "ipc_A23J.txt",
+      "kind": "ipc"
+    },
+    "A23J3/00": {
+      "code": "A23J3/00",
+      "level": 0,
+      "parent": "A23J",
+      "ja": "食品用の蛋白質の仕上げ<br><br><b><ul>注</ul></b><br>グループＡ２３Ｊ３／０４～Ａ２３Ｊ３／２０においては，ラストプレイス優先ルールが適用される，すなわち各階層レベルにおいて相反する指示がない限り，最後の適切な箇所に分類する。［５］",
+      "en": "Working-up of proteins for foodstuffs",
+      "count": 3345,
+      "sourceFile": "ipc_A23J.txt",
+      "kind": "ipc"
+    },
+    "A23J3/04": {
+      "code": "A23J3/04",
+      "level": 1,
+      "parent": "A23J3/00",
+      "ja": "動物性蛋白質［５］",
+      "en": "Animal proteins",
+      "count": 1897,
+      "sourceFile": "ipc_A23J.txt",
+      "kind": "ipc"
+    },
+    "A23J3/06": {
+      "code": "A23J3/06",
+      "level": 2,
+      "parent": "A23J3/04",
+      "ja": "ゼラチン［５］",
+      "en": "Gelatine",
+      "count": 388,
+      "sourceFile": "ipc_A23J.txt",
+      "kind": "ipc"
+    },
+    "A23J3/08": {
+      "code": "A23J3/08",
+      "level": 2,
+      "parent": "A23J3/04",
+      "ja": "乳蛋白質［５］",
+      "en": "Dairy proteins",
+      "count": 1564,
+      "sourceFile": "ipc_A23J.txt",
+      "kind": "ipc"
+    },
+    "A23J3/10": {
+      "code": "A23J3/10",
+      "level": 3,
+      "parent": "A23J3/08",
+      "ja": "カゼイン（乾燥カゼインＡ２３Ｊ１／２２）［５］",
+      "en": "Casein(drying casein <b>A23J1/22</b>)",
+      "count": 817,
+      "sourceFile": "ipc_A23J.txt",
+      "kind": "ipc"
+    },
+    "A23J3/12": {
+      "code": "A23J3/12",
+      "level": 2,
+      "parent": "A23J3/04",
+      "ja": "血液由来［５］",
+      "en": "from blood",
+      "count": 288,
+      "sourceFile": "ipc_A23J.txt",
+      "kind": "ipc"
+    },
+    "A23J3/14": {
+      "code": "A23J3/14",
+      "level": 1,
+      "parent": "A23J3/00",
+      "ja": "植物性蛋白質［５］",
+      "en": "Vegetable proteins",
+      "count": 3947,
+      "sourceFile": "ipc_A23J.txt",
+      "kind": "ipc"
+    },
+    "A23J3/16": {
+      "code": "A23J3/16",
+      "level": 2,
+      "parent": "A23J3/14",
+      "ja": "大豆由来［５］",
+      "en": "from soybean",
+      "count": 4083,
+      "sourceFile": "ipc_A23J.txt",
+      "kind": "ipc"
+    },
+    "A23J3/18": {
+      "code": "A23J3/18",
+      "level": 2,
+      "parent": "A23J3/14",
+      "ja": "小麦由来［５］",
+      "en": "from wheat",
+      "count": 1324,
+      "sourceFile": "ipc_A23J.txt",
+      "kind": "ipc"
+    },
+    "A23J3/20": {
+      "code": "A23J3/20",
+      "level": 1,
+      "parent": "A23J3/00",
+      "ja": "微生物または単細胞藻類由来蛋白質［５］<br><br><b><ul>注</ul></b><br>グループ３／２２から３／３０に分類されたもののうち，蛋白質の由来が重要であるならば，グループ３／０４から３／２０にも分類する。［５］",
+      "en": "Proteins from microorganisms or unicellular algae",
+      "count": 800,
+      "sourceFile": "ipc_A23J.txt",
+      "kind": "ipc"
+    },
+    "A23J3/22": {
+      "code": "A23J3/22",
+      "level": 1,
+      "parent": "A23J3/00",
+      "ja": "組織化によるもの［５］",
+      "en": "by texturising",
+      "count": 2274,
+      "sourceFile": "ipc_A23J.txt",
+      "kind": "ipc"
+    },
+    "A23J3/24": {
+      "code": "A23J3/24",
+      "level": 2,
+      "parent": "A23J3/22",
+      "ja": "凍結によるもの［５］",
+      "en": "using freezing",
+      "count": 192,
+      "sourceFile": "ipc_A23J.txt",
+      "kind": "ipc"
+    },
+    "A23J3/26": {
+      "code": "A23J3/26",
+      "level": 2,
+      "parent": "A23J3/22",
+      "ja": "押し出しまたは膨化によるもの［５］",
+      "en": "using extrusion or expansion",
+      "count": 1610,
+      "sourceFile": "ipc_A23J.txt",
+      "kind": "ipc"
+    },
+    "A23J3/28": {
+      "code": "A23J3/28",
+      "level": 2,
+      "parent": "A23J3/22",
+      "ja": "溶液からのまたは溶液中での凝固によるもの，例．紡糸［５］",
+      "en": "using coagulation from or in a bath, e.g. spun fibres",
+      "count": 337,
+      "sourceFile": "ipc_A23J.txt",
+      "kind": "ipc"
+    },
+    "A23J3/30": {
+      "code": "A23J3/30",
+      "level": 1,
+      "parent": "A23J3/00",
+      "ja": "加水分解によるもの［５］",
+      "en": "by hydrolysis",
+      "count": 659,
+      "sourceFile": "ipc_A23J.txt",
+      "kind": "ipc"
+    },
+    "A23J3/32": {
+      "code": "A23J3/32",
+      "level": 2,
+      "parent": "A23J3/30",
+      "ja": "化学薬品を用いるもの［５］",
+      "en": "using chemical agents",
+      "count": 482,
+      "sourceFile": "ipc_A23J.txt",
+      "kind": "ipc"
+    },
+    "A23J3/34": {
+      "code": "A23J3/34",
+      "level": 3,
+      "parent": "A23J3/32",
+      "ja": "酵素を用いるもの［５］",
+      "en": "using enzymes",
+      "count": 4378,
+      "sourceFile": "ipc_A23J.txt",
+      "kind": "ipc"
+    },
+    "A23J7/00": {
+      "code": "A23J7/00",
+      "level": 0,
+      "parent": "A23J",
+      "ja": "食品用リン脂質組成物，例．レシチン［４］",
+      "en": "Phosphatide compositions for foodstuffs, e.g. lecithin",
+      "count": 1401,
+      "sourceFile": "ipc_A23J.txt",
+      "kind": "ipc"
+    }
+  }
+}

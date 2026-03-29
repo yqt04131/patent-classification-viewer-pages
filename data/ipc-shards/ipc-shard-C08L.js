@@ -1,0 +1,2906 @@
+window.IPC_SHARD_C08L = {
+  "generatedAt": "2026-03-20T02:17:46.453Z",
+  "total": 290,
+  "entries": {
+    "C08L": {
+      "code": "C08L",
+      "level": 0,
+      "parent": "C08",
+      "ja": "高分子化合物の組成物（重合性単量体に基づく組成物Ｃ０８Ｆ，Ｃ０８Ｇ；人造フィラメントまたは人造繊維Ｄ０１Ｆ；繊維処理用組成物Ｄ０６）［２］<br><br><b><ul>注</ul></b><br>注［２００６．０１］<br>１．このサブクラスにおいて下記の用語は，以下に示される意味で用いられる：<br>・”ゴム”という用語は，次を包含する；<br>ａ．天然ジエン系ゴムまたは共役ジエンゴム；<br>ｂ．ゴム一般（天然ゴムまたは共役ジエンゴム以外の特別なゴムに関しては，当該特別なゴムの高分子化合物の組成物を包含するグループを参照のこと）<br>２．このサブクラスにおいては：<br>ａ．ゴムの組成物は，その組成物を構成する高分子化合物の成分の重量による相互の割合に応じて分類する；<br>ｂ．ゴムの組成物は，最も高い割合で存在する高分子化合物の単独の要素または複数の要素に従って分類する；すべての当該成分が同じ割合で存在するならば，そのゴムの組成物はその様な成分のそれぞれに従って分類する。<br>３．上記注（２）に従う分類では識別されない化合物がゴムの組成物を構成する高分子化合物のいずれかの成分であり，当該成分の新規で非自明的であると断定される使用もこのサブクラスに分類しなければならない。例えば，８０部のポリエチレンおよび２０部のポリ塩化ビニルを含む組成物は，ポリ塩化ビニルの使用が新規かつ非自明であると断定される場合は，グループＣ０８１２３／０６およびＣ０８１２７／０６の双方に分類する。<br>４．上記注（２）または注（３）に従う分類では識別されない化合物がゴムの組成物を構成する高分子化合物のいずれかの成分であり，探索調査のために重要な情報を表していると思われる成分も，このサブクラスに分類しなければならない。これは例えば，分類記号の組み合わせによる組成物の探索を可能にすることが重要であると考えられる場合であることもある。こうした非義務的分類は，“付加情報”として付与されるべきである。<br><br><b><ul>サブクラス内の索引</ul></b><br>サブクラス内の索引<br>多糖類，またはその誘導体の組成物　１／００～５／００<br>ゴムまたはその誘導体の組成物　７／００～２１／００<br>炭素―炭素不飽和結合のみが関与する反応によって得られる高分子化合物の組成物；そのような重合体の誘導体の組成物　２３／００～５７／００<br>炭素―炭素不飽和結合のみが関与する反応以外の反応によって得られる高分子化合物の組成物；そのような重合体の誘導体の組成物　５９／００～８７／００<br>天然高分子化合物またはその誘導体の組成物　８９／００～９９／００<br>不特定の高分子化合物の組成物　１０１／００",
+      "en": "COMPOSITIONS OF MACROMOLECULAR COMPOUNDS(compositions based on polymerisable monomers <b>C08F</b>, <b>C08G</b>; artificial filaments or fibres <b>D01F</b>; textile treating compositions <b>D06</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>In this subclass, the following term is used with the meaning indicated: <ul><li>\"rubber\" includes: <ul><li>natural or conjugated diene rubbers;</li><li>rubber in general (for a specific rubber, other than a natural rubber or a conjugated diene rubber, <u>see</u> the group provided for compositions of such macromolecular compounds).</li></ul></li></ul></li><li>In this subclass: <ul><li>compositions are classified according to the mutual proportions by weight of only the macromolecular constituents;</li><li>compositions are classified according to the macromolecular constituent or constituents present in the highest proportion; if all these constituents are present in equal proportions the composition is classified according to each of these constituents.</li></ul></li><li>Any macromolecular constituent of a composition which is not identified by the classification according to Note (2) above, and the use of which is determined to be novel and non-obvious, must also be classified in this subclass. For example, a composition containing 80 parts polyethylene and 20 parts polyvinyl chloride is classified in both groups <b>C08L23/06</b> and <b>C08L27/06</b>, if the use of polyvinyl chloride is determined to be novel and non-obvious.</li><li>Any macromolecular constituent of a composition which is not identified by the classification according to Notes (2) or (3) above, and which is considered to represent information of interest for search, may also be classified in this subclass. This can, for example, be the case when it is considered of interest to enable searching of compositions using a combination of classification symbols. Such non-obligatory classification should be given as \"additional information\".</li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">Compositions of polysaccharides or of their derivatives </td><td><b><b>1/00 to 5/00</b> </b></td></tr></tr><tr><td width=\"70%\">Compositions of rubbers or of their derivatives </td><td><b><b>7/00 to 21/00</b> </b></td></tr></tr><tr><td width=\"70%\">Compositions of macromolecular compounds obtained by reactions involving only carbon-to-carbon unsaturated bonds; Compositions of derivatives of such polymers </td><td><b><b>23/00 to 57/00</b> </b></td></tr></tr><tr><td width=\"70%\">Compositions of macromolecular compounds obtained otherwise than by reactions only involving carbon-to-carbon unsaturated bonds; Compositions of derivatives of such polymers </td><td><b><b>59/00 to 87/00</b> </b></td></tr></tr><tr><td width=\"70%\">Compositions of natural macromolecular compounds or of derivatives thereof </td><td><b><b>89/00 to 99/00</b> </b></td></tr></tr><tr><td width=\"70%\">Compositions of unspecified macromolecular compounds </td><td><b><b>101/00</b></b></td></tr></tr></table>",
+      "count": 3501,
+      "sourceFile": "ipc_C.txt",
+      "kind": "ipc"
+    },
+    "C08": {
+      "code": "C08",
+      "level": 0,
+      "parent": "C",
+      "ja": "有機高分子化合物；その製造または化学的加工；それに基づく組成物<br><br><b><ul>注</ul></b><br>（１）このクラスは下記の高分子化合物それ自体は包含しない：<br>－ペプチド，例．タンパク質，はサブクラスＣ０７Ｋに包含される。［２０１２．０１］<br>－ヌクレオシド基，例．核酸，の糖類基でリンクされたリン酸塩またはポリリン酸塩基を別個に持つ化合物で，２個以上のモノヌクレオチドユニットを含むものは，グループＣ０７Ｈ２１／００に包含される。［２０１２．０１］<br>－遺伝子工学に関するＤＮＡまたはＲＮＡ，ベクター，例．プラスミド，またはその分離，製造または精製はグループＣ１２Ｎ１５／００に包含される。［２０１２．０１］<br>（２）化合物または組成物からなる殺生物剤，有害生物忌避剤，有害生物誘引剤または植物生長調節剤は，サブクラスＡ０１Ｐにも分類される。［８］",
+      "en": "ORGANIC MACROMOLECULAR COMPOUNDS; THEIR PREPARATION OR CHEMICAL WORKING-UP; COMPOSITIONS BASED THEREON; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This class does not cover the following macromolecular compounds <u>per se</u>: <ul><li>peptides, e.g. proteins, which are covered by subclass <b>C07K</b>;        </li><li>compounds containing two or more mononucleotide units having separate phosphate or polyphosphate groups linked by saccharide radicals of nucleoside groups, e.g. nucleic acids, which are covered by group <b>C07H21/00</b>;         </li><li>DNA or RNA concerning genetic engineering, vectors, e.g. plasmids, or their isolation, preparation or purification, which are covered by group <b>C12N15/00</b>.         </li></ul></li><li>Biocidal, pest repellant, pest attractant or plant growth regulatory activity of compounds or preparations is further classified in subclass <b>A01P</b>.         </li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_C.txt",
+      "kind": "ipc"
+    },
+    "C": {
+      "code": "C",
+      "level": 0,
+      "parent": null,
+      "ja": "化学；冶金<br><br><b><ul>注</ul></b><br>（１）セクションＣにおいて，化学元素の種類に関する定義は次の通りである：<br>アルカリ金属：Ｌｉ，Ｎａ，Ｋ，Ｒｂ，Ｃｓ，Ｆｒ<br>アルカリ土類金属：Ｃａ，Ｓｒ，Ｂａ，Ｒａ<br>ランタニド：原子番号５７から７１までの元素<br>希土類：Ｓｃ，Ｙ，ランタニド<br>アクチニド：原子番号８９から１０３までの元素<br>耐火金属：Ｔｉ，Ｖ，Ｃｒ，Ｚｒ，Ｎｂ，Ｍｏ，Ｈｆ，Ｔａ，Ｗ<br>ハロゲン：Ｆ，Ｃｌ，Ｂｒ，Ｉ，Ａｔ<br>希ガス：Ｈｅ，Ｎｅ，Ａｒ，Ｋｒ，Ｘｅ，Ｒｎ<br>白金族：Ｏｓ，Ｉｒ，Ｐｔ，Ｒｕ，Ｒｈ，Ｐｄ<br>貴金属：Ａｇ，Ａｕ，白金族<br>軽金属：アルカリ金属，アルカリ土類金属，Ｂｅ，Ａｌ，Ｍｇ<br>重金属：軽金属以外の金属<br>鉄族：Ｆｅ，Ｃｏ，Ｎｉ<br>非金属：Ｈ，Ｂ，Ｃ，Ｓｉ，Ｎ，Ｐ，Ｏ，Ｓ，Ｓｅ，Ｔｅ，希ガス，ハロゲン<br>金属：非金属以外の元素<br>遷移元素：原子番号２１から３０まで，３９から４８まで，５７から８０まで，８９以上の元素<br>（２）Ｃセクションは以下のものを包含する：<br>（ａ）無機化合物，有機化合物，高分子化合物およびそれらの調製法を包含する純粋化学；<br>（ｂ）たとえばガラス，セラミック，肥料，プラスチック組成物，ペイント，石油工業の製品のような上記化合物を含有する組成物を包含する応用化学。それはまた，爆発物，染料，接着剤，潤滑剤および洗剤のように，ある目的に適した特別の性質をもつための組成物をも包含する；<br>（ｃ）コークスの製造，固体または気体燃料の製造，油脂およびろうの製造および精製，発酵工業（例．ビールおよびぶどう酒の製造），製糖工業のようなある境界工業；<br>（ｄ）ある操作または処理であって，純粋に機械的な処理，例．レザーおよび皮の機械的処理，または部分的機械的処理，例．水処理，または腐食防止一般であるもの；<br>（ｅ）冶金，鉄または非鉄合金<br>（３）ＩＰＣの全てのセクションにおいて，相反する指示がない限り，元素記号周期表への言及は，以下に示す１８のグループを表す。［２００９．０１］<br>’「図」’<br>’「図」’<br>（４）<br>（ａ）化学的部分または面および非化学的部分または面の両方を有する操作，処理，製品または物品の場合に，一般規則として，化学的部分または面はＣセクションに包含される。<br>（ｂ）これらのうちのある場合には，化学的部分または面には非化学的部分または面を伴い，純粋に機械的部分または面を伴うことさえある，というのは非化学的面は操作または処理にとって本質的であるかまたはそれらの重要な要素を構成するからである；実際，全体のさまざまな部分または面を分割しないのがより論理的と思える。これは応用化学や上記注（１）（ｃ），（ｄ）および（ｅ）の工業，操作および処理の場合に適用される。例えば，ガラス製造用特殊炉はＣ０３に包含されＦ２７には包含されない。<br>（ｃ）しかしながら，機械的面（または非化学的面）に非化学的な面が伴うという例外もある，例えば：<br>―サブクラスＡ６１Ｋにおけるある抽出プロセス；<br>―サブクラスＡ６１Ｌにおける空気の化学的精製；<br>―サブクラスＡ６２Ｄにおける化学的消火方法；<br>―クラスＢ０１における化学的プロセスおよび装置；<br>―サブクラスＢ２７Ｋにおける木材の含浸；<br>―サブクラスＧ０１Ｎにおける化学的分析または試験法；<br>―クラスＧ０３における写真材料またはプロセス，そして一般に，Ｄセクションにおける繊維の化学的処理および繊維素，紙等の製造<br>（ｄ）さらに他の場合，純粋化学的面はＣセクションに包含され，応用化学的面はＡ，Ｂ，Ｆセクションのような他のセクションに包含される，例．以下の物質または組成物の使用：<br>―サブクラスＡ０１Ｎに包含される植物または動物の処理；<br>―クラスＡ２３に包含される食物；<br>―クラスＦ４２に包含される弾薬または爆薬<br>（ｅ）化学的面および機械的面が非常に交錯して，簡単明確な分割ができない時，または化学的処理が自然なまたは論理的な延長として機械的プロセスを要する時は，化学的面に加えて，Ｃセクションは機械的面の一部のみ，例．クラスＣ０４に包含される人造石の後処理，を包含する。この後者の場合に，たとえその区別がむしろ任意であってもその位置を明確にするよう注または参照を通常設けている。",
+      "en": "CHEMISTRY; METALLURGY; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In section <b>C</b>, the definitions of groups of chemical elements are as follows: <ul><li><u>Alkali metals:</u> Li, Na, K, Rb, Cs, Fr</li><li><u>Alkaline earth metals:</u> Ca, Sr, Ba, Ra</li><li><u>Lanthanides:</u> elements with atomic numbers 57 to 71 inclusive</li><li><u>Rare earths:</u> Sc, Y, Lanthanides</li><li><u>Actinides:</u> elements with atomic numbers 89 to 103 inclusive</li><li><u>Refractory metals:</u> Ti, V, Cr, Zr, Nb, Mo, Hf, Ta, W</li><li><u>Halogens:</u> F, Cl, Br, I, At</li><li><u>Noble gases:</u> He, Ne, Ar, Kr, Xe, Rn</li><li><u>Platinum group:</u> Os, Ir, Pt, Ru, Rh, Pd</li><li><u>Noble metals:</u> Ag, Au, Platinum group</li><li><u>Light metals:</u> alkali metals, alkaline earth metals, Be, Al, Mg</li><li><u>Heavy metals:</u> metals other than light metals</li><li><u>Iron group:</u> Fe, Co, Ni</li><li><u>Non-metals:</u> H, B, C, Si, N, P, O, S, Se, Te, noble gases, halogens</li><li><u>Metals:</u> elements other than non-metals</li><li><u>Transition elements:</u> elements with atomic numbers 21 to 30 inclusive, 39 to 48 inclusive, 57 to 80 inclusive, 89 upwards</li></ul></li><li>Section <b>C</b> <u>covers</u> : <ul><li>pure chemistry, which covers inorganic compounds, organic compounds, macromolecular compounds, and their methods of preparation;</li><li>applied chemistry, which covers compositions containing the above compounds, such as: glass, ceramics, fertilisers, plastics compositions, paints, products of the petroleum industry. It also <u>covers</u> certain compositions on account of their having particular properties rendering them suitable for certain purposes, as in the case of explosives, dyestuffs, adhesives, lubricants, and detergents;</li><li>certain marginal industries, such as the manufacture of coke and of solid or gaseous fuels, the production and refining of oils, fats and waxes, the fermentation industry (e.g., brewing and wine-making), the sugar industry;</li><li>certain operations or treatments, which are either purely mechanical, e.g., the mechanical treatment of leather and skins, or partly mechanical, e.g., the treatment of water or the prevention of corrosion in general;</li><li>metallurgy, ferrous or non-ferrous alloys.</li></ul></li><li>In all sections of the IPC, in the absence of an indication to the contrary, the Periodic Table of chemical elements referred to is the one with 18 groups as represented in the table below. [figure]</li><li><ul><li>In the case of operations, treatments, products or articles having both a chemical and a non-chemical part or aspect, the general rule is that the chemical part or aspect is covered by section <b>C</b>.</li><li>In some of these cases, the chemical part or aspect brings with it a non-chemical one, even though purely mechanical, because this latter aspect either is essential to the operation or treatment or constitutes an important element thereof. It has seemed, in fact, more logical not to dissociate the different parts or aspects of a coherent whole. This is the case for applied chemistry and for the industries, operations and treatments mentioned in Notes (1)(c), (d) and (e). For example, furnaces peculiar to the manufacture of glass are covered by class <b>C03</b> and not by class <b>F27</b>.</li><li>There are, however, some exceptions in which the mechanical (or non-chemical) aspect carries with it the chemical aspect, for example: <ul><li>certain extractive processes, in subclass <b>A61K</b>;</li><li>the chemical purification of air, in subclass <b>A61L</b>;</li><li>chemical methods of fire-fighting, in subclass <b>A62D</b>;</li><li>chemical processes and apparatus, in class <b>B01</b>;</li><li>impregnation of wood, in subclass <b>B27K</b>;</li><li>chemical methods of analysis or testing, in subclass <b>G01N</b>;</li><li>photographic materials and processes, in class <b>G03</b>, and, generally, the chemical treatment of textiles and the production of cellulose or paper, in section <b>D</b>.</li></ul></li><li>In still other cases, the pure chemical aspect is covered by section <b>C</b> and the applied chemical aspect by another section, such as <b>A</b>, <b>B</b> or <b>F</b>, e.g., the use of a substance or composition for: <ul><li>treatment of plants or animals, covered by subclass <b>A01N</b>;</li><li>foodstuffs, covered by class <b>A23</b>;</li><li>ammunition or explosives, covered by class <b>F42</b>.</li></ul></li><li>When the chemical and mechanical aspects are so closely interlocked that a neat and simple division is not possible, or when certain mechanical processes follow as a natural or logical continuation of a chemical treatment, section <b>C</b> may cover, in addition to the chemical aspect, a part only of the mechanical aspect, e.g., after-treatment of artificial stone, covered by class <b>C04</b>. In this latter case, a note or a reference is usually given to make the position clear, even if sometimes the division is rather arbitrary.</li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_C.txt",
+      "kind": "ipc"
+    },
+    "C08L1/00": {
+      "code": "C08L1/00",
+      "level": 0,
+      "parent": "C08L",
+      "ja": "セルロース，変性セルロースまたはセルロース誘導体の組成物［２］",
+      "en": "Compositions of cellulose, modified cellulose, or cellulose derivatives",
+      "count": 16067,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L1/02": {
+      "code": "C08L1/02",
+      "level": 1,
+      "parent": "C08L1/00",
+      "ja": "セルロース；変性セルロース［２］",
+      "en": "Cellulose; Modified cellulose",
+      "count": 12073,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L1/04": {
+      "code": "C08L1/04",
+      "level": 2,
+      "parent": "C08L1/02",
+      "ja": "酸化セルロース；ヒドロセルロース［２］",
+      "en": "Oxycellulose; Hydrocellulose",
+      "count": 2454,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L1/06": {
+      "code": "C08L1/06",
+      "level": 2,
+      "parent": "C08L1/02",
+      "ja": "水和セルロース［２］",
+      "en": "Cellulose hydrate",
+      "count": 162,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L1/08": {
+      "code": "C08L1/08",
+      "level": 1,
+      "parent": "C08L1/00",
+      "ja": "セルロース誘導体［２］",
+      "en": "Cellulose derivatives",
+      "count": 2514,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L1/10": {
+      "code": "C08L1/10",
+      "level": 2,
+      "parent": "C08L1/08",
+      "ja": "有機酸のエステル［２］",
+      "en": "Esters of organic acids",
+      "count": 2401,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L1/12": {
+      "code": "C08L1/12",
+      "level": 3,
+      "parent": "C08L1/10",
+      "ja": "酢酸セルロース［２］",
+      "en": "Cellulose acetate",
+      "count": 2893,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L1/14": {
+      "code": "C08L1/14",
+      "level": 3,
+      "parent": "C08L1/10",
+      "ja": "混合エステル，例．酢酸酪酸セルロース［２］",
+      "en": "Mixed esters, e.g. cellulose acetate-butyrate",
+      "count": 854,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L1/16": {
+      "code": "C08L1/16",
+      "level": 2,
+      "parent": "C08L1/08",
+      "ja": "無機酸のエステル［２］",
+      "en": "Esters of inorganic acids",
+      "count": 204,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L1/18": {
+      "code": "C08L1/18",
+      "level": 3,
+      "parent": "C08L1/16",
+      "ja": "硝酸セルロース［２］",
+      "en": "Cellulose nitrate",
+      "count": 662,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L1/20": {
+      "code": "C08L1/20",
+      "level": 2,
+      "parent": "C08L1/08",
+      "ja": "有機酸と無機酸の混合エステル［２］",
+      "en": "Esters of both organic acids and inorganic acids",
+      "count": 49,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L1/22": {
+      "code": "C08L1/22",
+      "level": 2,
+      "parent": "C08L1/08",
+      "ja": "セルロースザンテート［２］",
+      "en": "Cellulose xanthate",
+      "count": 84,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L1/24": {
+      "code": "C08L1/24",
+      "level": 3,
+      "parent": "C08L1/22",
+      "ja": "ビスコース［２］",
+      "en": "Viscose",
+      "count": 484,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L1/26": {
+      "code": "C08L1/26",
+      "level": 2,
+      "parent": "C08L1/08",
+      "ja": "セルロースエーテル［２］",
+      "en": "Cellulose ethers",
+      "count": 1324,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L1/28": {
+      "code": "C08L1/28",
+      "level": 3,
+      "parent": "C08L1/26",
+      "ja": "アルキルエーテル［２］",
+      "en": "Alkyl ethers",
+      "count": 6536,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L1/30": {
+      "code": "C08L1/30",
+      "level": 3,
+      "parent": "C08L1/26",
+      "ja": "アリールエーテル；アラルキルエーテル［２］",
+      "en": "Aryl ethers; Aralkyl ethers",
+      "count": 37,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L1/32": {
+      "code": "C08L1/32",
+      "level": 2,
+      "parent": "C08L1/08",
+      "ja": "セルロースエーテルエステル［２］",
+      "en": "Cellulose ether-esters",
+      "count": 188,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L3/00": {
+      "code": "C08L3/00",
+      "level": 0,
+      "parent": "C08L",
+      "ja": "でん粉，アミロースもしくはアミロペクチンまたはそれらの誘導体もしくは分解生成物の組成物［２］",
+      "en": "Compositions of starch, amylose or amylopectin or of their derivatives or degradation products",
+      "count": 2364,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L3/02": {
+      "code": "C08L3/02",
+      "level": 1,
+      "parent": "C08L3/00",
+      "ja": "でん粉；その分解生成物，例．デキストリン［２］",
+      "en": "Starch; Degradation products thereof, e.g. dextrin",
+      "count": 10448,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L3/04": {
+      "code": "C08L3/04",
+      "level": 1,
+      "parent": "C08L3/00",
+      "ja": "でん粉誘導体［２］",
+      "en": "Starch derivatives",
+      "count": 1848,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L3/06": {
+      "code": "C08L3/06",
+      "level": 2,
+      "parent": "C08L3/04",
+      "ja": "エステル［２］",
+      "en": "Esters",
+      "count": 1069,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L3/08": {
+      "code": "C08L3/08",
+      "level": 2,
+      "parent": "C08L3/04",
+      "ja": "エーテル［２］",
+      "en": "Ethers",
+      "count": 852,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L3/10": {
+      "code": "C08L3/10",
+      "level": 2,
+      "parent": "C08L3/04",
+      "ja": "酸化でん粉［２］",
+      "en": "Oxidised starch",
+      "count": 512,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L3/12": {
+      "code": "C08L3/12",
+      "level": 1,
+      "parent": "C08L3/00",
+      "ja": "アミロース；アミロペクチン；それらの分解生成物［２］",
+      "en": "Amylose; Amylopectin; Degradation products thereof",
+      "count": 412,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L3/14": {
+      "code": "C08L3/14",
+      "level": 1,
+      "parent": "C08L3/00",
+      "ja": "アミロース誘導体；アミロペクチン誘導体［２］",
+      "en": "Amylose derivatives; Amylopectin derivatives",
+      "count": 94,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L3/16": {
+      "code": "C08L3/16",
+      "level": 2,
+      "parent": "C08L3/14",
+      "ja": "エステル［２］",
+      "en": "Esters",
+      "count": 47,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L3/18": {
+      "code": "C08L3/18",
+      "level": 2,
+      "parent": "C08L3/14",
+      "ja": "エーテル［２］",
+      "en": "Ethers",
+      "count": 48,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L3/20": {
+      "code": "C08L3/20",
+      "level": 2,
+      "parent": "C08L3/14",
+      "ja": "酸化アミロース；酸化アミロペクチン［２］",
+      "en": "Oxidised amylose; Oxidised amylopectin",
+      "count": 44,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L5/00": {
+      "code": "C08L5/00",
+      "level": 0,
+      "parent": "C08L",
+      "ja": "グループＣ０８Ｌ１／００またはＣ０８Ｌ３／００に属さない多糖類またはその誘導体の組成物［２］",
+      "en": "Compositions of polysaccharides or of their derivatives not provided for in group <b>C08L1/00</b> or <b>C08L3/00</b>",
+      "count": 6523,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L5/02": {
+      "code": "C08L5/02",
+      "level": 1,
+      "parent": "C08L5/00",
+      "ja": "デキストラン；その誘導体［２］",
+      "en": "Dextran; Derivatives thereof",
+      "count": 1183,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L5/04": {
+      "code": "C08L5/04",
+      "level": 1,
+      "parent": "C08L5/00",
+      "ja": "アルギン酸；その誘導体［２］",
+      "en": "Alginic acid; Derivatives thereof",
+      "count": 4241,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L5/06": {
+      "code": "C08L5/06",
+      "level": 1,
+      "parent": "C08L5/00",
+      "ja": "ペクチン；その誘導体［２］",
+      "en": "Pectin; Derivatives thereof",
+      "count": 771,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L5/08": {
+      "code": "C08L5/08",
+      "level": 1,
+      "parent": "C08L5/00",
+      "ja": "キチン；コンドロイチン硫酸；ヒアルロン酸；それらの誘導体［２］",
+      "en": "Chitin; Chondroitin sulfate; Hyaluronic acid; Derivatives thereof",
+      "count": 10984,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L5/10": {
+      "code": "C08L5/10",
+      "level": 1,
+      "parent": "C08L5/00",
+      "ja": "ヘパリン；その誘導体［２］",
+      "en": "Heparin; Derivatives thereof",
+      "count": 216,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L5/12": {
+      "code": "C08L5/12",
+      "level": 1,
+      "parent": "C08L5/00",
+      "ja": "寒天；その誘導体［２］",
+      "en": "Agar-agar; Derivatives thereof",
+      "count": 955,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L5/14": {
+      "code": "C08L5/14",
+      "level": 1,
+      "parent": "C08L5/00",
+      "ja": "ヘミセルロース；その誘導体［２］",
+      "en": "Hemicellulose; Derivatives thereof",
+      "count": 701,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L5/16": {
+      "code": "C08L5/16",
+      "level": 1,
+      "parent": "C08L5/00",
+      "ja": "シクロデキストリン；その誘導体［２］",
+      "en": "Cyclodextrin; Derivatives thereof",
+      "count": 1642,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L7/00": {
+      "code": "C08L7/00",
+      "level": 0,
+      "parent": "C08L",
+      "ja": "天然ゴムの組成物［２］",
+      "en": "Compositions of natural rubber",
+      "count": 38574,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L7/02": {
+      "code": "C08L7/02",
+      "level": 1,
+      "parent": "C08L7/00",
+      "ja": "ラテックス［２］",
+      "en": "Latex",
+      "count": 2367,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L9/00": {
+      "code": "C08L9/00",
+      "level": 0,
+      "parent": "C08L",
+      "ja": "共役ジエン炭化水素の単独重合体または共重合体の組成物［２］",
+      "en": "Compositions of homopolymers or copolymers of conjugated diene hydrocarbons",
+      "count": 25378,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L9/02": {
+      "code": "C08L9/02",
+      "level": 1,
+      "parent": "C08L9/00",
+      "ja": "アクリロニトリルとの共重合体［２］",
+      "en": "Copolymers with acrylonitrile",
+      "count": 13142,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L9/04": {
+      "code": "C08L9/04",
+      "level": 2,
+      "parent": "C08L9/02",
+      "ja": "ラテックス［２］",
+      "en": "Latex",
+      "count": 966,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L9/06": {
+      "code": "C08L9/06",
+      "level": 1,
+      "parent": "C08L9/00",
+      "ja": "スチレンとの共重合体［２］",
+      "en": "Copolymers with styrene",
+      "count": 16941,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L9/08": {
+      "code": "C08L9/08",
+      "level": 2,
+      "parent": "C08L9/06",
+      "ja": "ラテックス［２］",
+      "en": "Latex",
+      "count": 1248,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L9/10": {
+      "code": "C08L9/10",
+      "level": 1,
+      "parent": "C08L9/00",
+      "ja": "ラテックス（Ｃ０８Ｌ９／０４，Ｃ０８Ｌ９／０８が優先）［２］",
+      "en": "Latex(<b>C08L9/04</b>, <b>C08L9/08</b> take precedence)",
+      "count": 704,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L11/00": {
+      "code": "C08L11/00",
+      "level": 0,
+      "parent": "C08L",
+      "ja": "クロロプレンの単独重合体または共重合体の組成物［２］",
+      "en": "Compositions of homopolymers or copolymers of chloroprene",
+      "count": 6109,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L11/02": {
+      "code": "C08L11/02",
+      "level": 1,
+      "parent": "C08L11/00",
+      "ja": "ラテックス［２］",
+      "en": "Latex",
+      "count": 629,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L13/00": {
+      "code": "C08L13/00",
+      "level": 0,
+      "parent": "C08L",
+      "ja": "カルボキシル基を含有するゴムの組成物［２］",
+      "en": "Compositions of rubbers containing carboxyl groups",
+      "count": 2063,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L13/02": {
+      "code": "C08L13/02",
+      "level": 1,
+      "parent": "C08L13/00",
+      "ja": "ラテックス［２］",
+      "en": "Latex",
+      "count": 797,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L15/00": {
+      "code": "C08L15/00",
+      "level": 0,
+      "parent": "C08L",
+      "ja": "ゴム誘導体の組成物（Ｃ０８Ｌ１１／００，Ｃ０８Ｌ１３／００が優先）［４］",
+      "en": "Compositions of rubber derivatives(<b>C08L11/00</b>, <b>C08L13/00</b> take precedence)",
+      "count": 8380,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L15/02": {
+      "code": "C08L15/02",
+      "level": 1,
+      "parent": "C08L15/00",
+      "ja": "ハロゲンを含有するゴム誘導体［２］",
+      "en": "Rubber derivatives containing halogen",
+      "count": 1255,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L17/00": {
+      "code": "C08L17/00",
+      "level": 0,
+      "parent": "C08L",
+      "ja": "再生ゴムの組成物［２］",
+      "en": "Compositions of reclaimed rubber",
+      "count": 2205,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L19/00": {
+      "code": "C08L19/00",
+      "level": 0,
+      "parent": "C08L",
+      "ja": "グループＣ０８Ｌ７／００～Ｃ０８Ｌ１７／００に属さないゴムの組成物［２］",
+      "en": "Compositions of rubbers not provided for in groups <b>C08L7/00 to C08L17/00</b> ",
+      "count": 3003,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L19/02": {
+      "code": "C08L19/02",
+      "level": 1,
+      "parent": "C08L19/00",
+      "ja": "ラテックス［２］",
+      "en": "Latex",
+      "count": 83,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L21/00": {
+      "code": "C08L21/00",
+      "level": 0,
+      "parent": "C08L",
+      "ja": "特定化されていないゴムの組成物［２］",
+      "en": "Compositions of unspecified rubbers",
+      "count": 43471,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L21/02": {
+      "code": "C08L21/02",
+      "level": 1,
+      "parent": "C08L21/00",
+      "ja": "ラテックス［２］",
+      "en": "Latex",
+      "count": 1500,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L23/00": {
+      "code": "C08L23/00",
+      "level": 0,
+      "parent": "C08L",
+      "ja": "ただ１個の炭素―炭素二重結合を有する不飽和脂肪族炭化水素の単独重合体または共重合体の組成物；そのような重合体の誘導体の組成物［２］",
+      "en": "Compositions of homopolymers or copolymers of unsaturated aliphatic hydrocarbons having only one carbon-to-carbon double bond; Compositions of derivatives of such polymers",
+      "count": 39637,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L23/02": {
+      "code": "C08L23/02",
+      "level": 1,
+      "parent": "C08L23/00",
+      "ja": "化学的な後処理によって変性されていないもの［２０２５．０１］",
+      "en": "not modified by chemical after-treatment",
+      "count": 11269,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L23/025": {
+      "code": "C08L23/025",
+      "level": 2,
+      "parent": "C08L23/02",
+      "ja": "オレフィン以外の単量体を有する，特定されていないオレフィンの共重合体［２０２５．０１］",
+      "en": "Copolymers of unspecified olefins with monomers other than olefins",
+      "count": 7,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L23/04": {
+      "code": "C08L23/04",
+      "level": 2,
+      "parent": "C08L23/02",
+      "ja": "エテンの単独重合体または共重合体［２００６．０１］",
+      "en": "Homopolymers or copolymers of ethene",
+      "count": 9315,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L23/06": {
+      "code": "C08L23/06",
+      "level": 3,
+      "parent": "C08L23/04",
+      "ja": "ポリエチレン［２００６．０１］",
+      "en": "Polyethylene",
+      "count": 52694,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L23/08": {
+      "code": "C08L23/08",
+      "level": 3,
+      "parent": "C08L23/04",
+      "ja": "エテンの共重合体（Ｃ０８Ｌ２３／１６が優先）［２０２５．０１］",
+      "en": "Copolymers of ethene(<b>C08L23/16</b> takes precedence)",
+      "count": 48672,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L23/0807": {
+      "code": "C08L23/0807",
+      "level": 4,
+      "parent": "C08L23/08",
+      "ja": "４つ以上の炭素原子のみを含む不飽和炭化水素を含むもの［２０２５．０１］",
+      "en": "with unsaturated hydrocarbons only containing four or more carbon atoms",
+      "count": 1584,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L23/0846": {
+      "code": "C08L23/0846",
+      "level": 4,
+      "parent": "C08L23/08",
+      "ja": "炭素原子または水素原子以外の原子を含む不飽和炭化水素を含むもの［２０２５．０１］",
+      "en": "with unsaturated hydrocarbons containing atoms other than carbon or hydrogen",
+      "count": 23,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L23/0853": {
+      "code": "C08L23/0853",
+      "level": 5,
+      "parent": "C08L23/0846",
+      "ja": "エチレン酢酸ビニル共重合体［２０２５．０１］",
+      "en": "Ethylene vinyl acetate copolymers",
+      "count": 1022,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L23/0861": {
+      "code": "C08L23/0861",
+      "level": 6,
+      "parent": "C08L23/0853",
+      "ja": "ケン化共重合体，例．エチレンビニルアルコール共重合体［２０２５．０１］",
+      "en": "Saponified copolymers, e.g. ethylene vinyl alcohol copolymers",
+      "count": 135,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L23/0869": {
+      "code": "C08L23/0869",
+      "level": 5,
+      "parent": "C08L23/0846",
+      "ja": "不飽和酸を含むもの，例．［メタクリル酸または］アクリル酸；不飽和エステルを含むもの，例．［メタクリル酸エステルまたは］アクリル酸エステル［２０２５．０１］",
+      "en": "with unsaturated acids, e.g. [meth]acrylic acid; with unsaturated esters, e.g. [meth]acrylic acid esters",
+      "count": 414,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L23/0876": {
+      "code": "C08L23/0876",
+      "level": 6,
+      "parent": "C08L23/0869",
+      "ja": "その塩、例．アイオノマー［２０２５．０１］",
+      "en": "Salts thereof, i.e. ionomers",
+      "count": 28,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L23/0884": {
+      "code": "C08L23/0884",
+      "level": 6,
+      "parent": "C08L23/0869",
+      "ja": "エポキシド－含有エステル［２０２５．０１］",
+      "en": "Epoxide-containing esters",
+      "count": 161,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L23/0892": {
+      "code": "C08L23/0892",
+      "level": 5,
+      "parent": "C08L23/0846",
+      "ja": "炭素原子，水素原子または酸素原子以外の原子を含む単量体を含むもの［２０２５．０１］",
+      "en": "with monomers containing atoms other than carbon, hydrogen or oxygen",
+      "count": 85,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L23/10": {
+      "code": "C08L23/10",
+      "level": 2,
+      "parent": "C08L23/02",
+      "ja": "プロペンの単独重合体または共重合体［２］",
+      "en": "Homopolymers or copolymers of propene",
+      "count": 13003,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L23/12": {
+      "code": "C08L23/12",
+      "level": 3,
+      "parent": "C08L23/10",
+      "ja": "ポリプロペン［２］",
+      "en": "Polypropene",
+      "count": 43253,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L23/14": {
+      "code": "C08L23/14",
+      "level": 3,
+      "parent": "C08L23/10",
+      "ja": "プロペンの共重合体（Ｃ０８Ｌ２３／１６が優先）［２］",
+      "en": "Copolymers of propene(<b>C08L23/16</b> takes precedence)",
+      "count": 10296,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L23/16": {
+      "code": "C08L23/16",
+      "level": 2,
+      "parent": "C08L23/02",
+      "ja": "エチレン―プロピレン共重合体またはエチレン―プロピレンジエン共重合体［２００６．０１］",
+      "en": "Ethylene-propylene or ethylene-propylene-diene copolymers",
+      "count": 26480,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L23/18": {
+      "code": "C08L23/18",
+      "level": 2,
+      "parent": "C08L23/02",
+      "ja": "４以上の炭素原子を有する炭化水素の単独重合体または共重合体［２０２５．０１］",
+      "en": "Homopolymers or copolymers of hydrocarbons having four or more carbon atoms",
+      "count": 1975,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L23/20": {
+      "code": "C08L23/20",
+      "level": 3,
+      "parent": "C08L23/18",
+      "ja": "炭素数が４～９のもの［２０２５．０１］",
+      "en": "having four to nine carbon atoms",
+      "count": 4827,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L23/22": {
+      "code": "C08L23/22",
+      "level": 4,
+      "parent": "C08L23/20",
+      "ja": "イソブテンの共重合体；ブチルゴム；他のイソオレフィンの単独重合体または共重合体［２０２５．０１］",
+      "en": "Copolymers of isobutene; Butyl rubber; Homopolymers or copolymers of other iso-olefins",
+      "count": 6129,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L23/24": {
+      "code": "C08L23/24",
+      "level": 3,
+      "parent": "C08L23/18",
+      "ja": "炭素数が１０以上のもの［２］",
+      "en": "having ten or more carbon atoms",
+      "count": 231,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L23/26": {
+      "code": "C08L23/26",
+      "level": 1,
+      "parent": "C08L23/00",
+      "ja": "化学的な後処理によって変性されたもの（ケン化共重合体Ｃ０８Ｌ２３／０８６１；不飽和酸塩Ｃ０８Ｌ２３／０８７６）［２０２５．０１］",
+      "en": "modified by chemical after-treatment(saponified copolymers <b>C08L23/0861</b>; unsaturated acid salts <b>C08L23/0876</b>)",
+      "count": 11113,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L23/28": {
+      "code": "C08L23/28",
+      "level": 2,
+      "parent": "C08L23/26",
+      "ja": "ハロゲンまたはハロゲン含有化合物との反応による（Ｃ０８Ｌ２３／３２が優先）［２０２５．０１］",
+      "en": "by reaction with halogens or halogen-containing compounds(<b>C08L23/32</b> takes precedence)",
+      "count": 10099,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L23/283": {
+      "code": "C08L23/283",
+      "level": 3,
+      "parent": "C08L23/28",
+      "ja": "ハロゲン化イソオレフィン単独重合体または共重合体［２０２５．０１］",
+      "en": "Iso-olefin halogenated homopolymers or copolymers",
+      "count": 99,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L23/286": {
+      "code": "C08L23/286",
+      "level": 3,
+      "parent": "C08L23/28",
+      "ja": "塩素化ポリエチレン［２０２５．０１］",
+      "en": "Chlorinated polyethylene",
+      "count": 174,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L23/30": {
+      "code": "C08L23/30",
+      "level": 2,
+      "parent": "C08L23/26",
+      "ja": "酸化による［２］",
+      "en": "by oxidation",
+      "count": 2073,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L23/32": {
+      "code": "C08L23/32",
+      "level": 2,
+      "parent": "C08L23/26",
+      "ja": "りん含有化合物またはいおう含有化合物との反応による［２００６．０１］",
+      "en": "by reaction with compounds containing phosphorus or sulfur",
+      "count": 272,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L23/34": {
+      "code": "C08L23/34",
+      "level": 3,
+      "parent": "C08L23/32",
+      "ja": "クロロスルホン化による［２］",
+      "en": "by chlorosulfonation",
+      "count": 1765,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L23/36": {
+      "code": "C08L23/36",
+      "level": 2,
+      "parent": "C08L23/26",
+      "ja": "窒素含有化合物との反応，例．ニトロ化，による［２００６．０１］",
+      "en": "by reaction with nitrogen-containing compounds, e.g. by nitration",
+      "count": 417,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L25/00": {
+      "code": "C08L25/00",
+      "level": 0,
+      "parent": "C08L",
+      "ja": "ただ１つの炭素―炭素二重結合を含有する１個以上の不飽和脂肪族基をもち，その少くとも１つが芳香族炭素環によって停止されている化合物の単独重合体または共重合体の組成物；そのような重合体の誘導体の組成物［２］",
+      "en": "Compositions of homopolymers or copolymers of compounds having one or more unsaturated aliphatic radicals, each having only one carbon-to-carbon double bond, and at least one being terminated by an aromatic carbocyclic ring; Compositions of derivatives of such polymers",
+      "count": 6389,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L25/02": {
+      "code": "C08L25/02",
+      "level": 1,
+      "parent": "C08L25/00",
+      "ja": "炭化水素の単独重合体または共重合体［２］",
+      "en": "Homopolymers or copolymers of hydrocarbons",
+      "count": 2192,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L25/04": {
+      "code": "C08L25/04",
+      "level": 2,
+      "parent": "C08L25/02",
+      "ja": "スチレンの単独重合体または共重合体［２］",
+      "en": "Homopolymers or copolymers of styrene",
+      "count": 7752,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L25/06": {
+      "code": "C08L25/06",
+      "level": 3,
+      "parent": "C08L25/04",
+      "ja": "ポリスチレン［２］",
+      "en": "Polystyrene",
+      "count": 15231,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L25/08": {
+      "code": "C08L25/08",
+      "level": 3,
+      "parent": "C08L25/04",
+      "ja": "スチレンの共重合体（Ｃ０８Ｌ２９／０８，Ｃ０８Ｌ３５／０６，Ｃ０８Ｌ５５／０２が優先）［２］",
+      "en": "Copolymers of styrene(<b>C08L29/08</b>, <b>C08L35/06</b>, <b>C08L55/02</b> take precedence)",
+      "count": 5379,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L25/10": {
+      "code": "C08L25/10",
+      "level": 4,
+      "parent": "C08L25/08",
+      "ja": "共役ジエンとの［２］",
+      "en": "with conjugated dienes",
+      "count": 2981,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L25/12": {
+      "code": "C08L25/12",
+      "level": 4,
+      "parent": "C08L25/08",
+      "ja": "不飽和ニトリルとの［２］",
+      "en": "with unsaturated nitriles",
+      "count": 6167,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L25/14": {
+      "code": "C08L25/14",
+      "level": 4,
+      "parent": "C08L25/08",
+      "ja": "不飽和エステルとの［２］",
+      "en": "with unsaturated esters",
+      "count": 3036,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L25/16": {
+      "code": "C08L25/16",
+      "level": 2,
+      "parent": "C08L25/02",
+      "ja": "アルキル置換スチレンの単独重合体または共重合体［２］",
+      "en": "Homopolymers or copolymers of alkyl-substituted styrenes",
+      "count": 1296,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L25/18": {
+      "code": "C08L25/18",
+      "level": 1,
+      "parent": "C08L25/00",
+      "ja": "炭素および水素以外の元素を含有する芳香族単量体の単独重合体または共重合体［２］",
+      "en": "Homopolymers or copolymers of aromatic monomers containing elements other than carbon and hydrogen",
+      "count": 3174,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L27/00": {
+      "code": "C08L27/00",
+      "level": 0,
+      "parent": "C08L",
+      "ja": "ただ１つの炭素―炭素二重結合を含有する１個以上の不飽和脂肪族基をもち，その少くとも１つがハロゲンによって停止されている化合物の単独重合体または共重合体の組成物；そのような重合体の誘導体の組成物［２］",
+      "en": "Compositions of homopolymers or copolymers of compounds having one or more unsaturated aliphatic radicals, each having only one carbon-to-carbon double bond, and at least one being terminated by a halogen; Compositions of derivatives of such polymers",
+      "count": 12930,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L27/02": {
+      "code": "C08L27/02",
+      "level": 1,
+      "parent": "C08L27/00",
+      "ja": "化学的な後処理によって変性されていないもの［２］",
+      "en": "not modified by chemical after-treatment",
+      "count": 310,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L27/04": {
+      "code": "C08L27/04",
+      "level": 2,
+      "parent": "C08L27/02",
+      "ja": "塩素原子を含有するもの［２］",
+      "en": "containing chlorine atoms",
+      "count": 1340,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L27/06": {
+      "code": "C08L27/06",
+      "level": 3,
+      "parent": "C08L27/04",
+      "ja": "塩化ビニルの単独重合体または共重合体［２］",
+      "en": "Homopolymers or copolymers of vinyl chloride",
+      "count": 42243,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L27/08": {
+      "code": "C08L27/08",
+      "level": 3,
+      "parent": "C08L27/04",
+      "ja": "塩化ビニリデンの単独重合体または共重合体［２］",
+      "en": "Homopolymers or copolymers of vinylidene chloride",
+      "count": 1439,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L27/10": {
+      "code": "C08L27/10",
+      "level": 2,
+      "parent": "C08L27/02",
+      "ja": "臭素原子またはよう素原子を含有するもの［２］",
+      "en": "containing bromine or iodine atoms",
+      "count": 106,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L27/12": {
+      "code": "C08L27/12",
+      "level": 2,
+      "parent": "C08L27/02",
+      "ja": "ふっ素を含有するもの［２］",
+      "en": "containing fluorine atoms",
+      "count": 11183,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L27/14": {
+      "code": "C08L27/14",
+      "level": 3,
+      "parent": "C08L27/12",
+      "ja": "ふっ化ビニルの単独重合体または共重合体［２］",
+      "en": "Homopolymers or copolymers of vinyl fluoride",
+      "count": 836,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L27/16": {
+      "code": "C08L27/16",
+      "level": 3,
+      "parent": "C08L27/12",
+      "ja": "ふっ化ビニリデンの単独重合体または共重合体［２］",
+      "en": "Homopolymers or copolymers of vinylidene fluoride",
+      "count": 6276,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L27/18": {
+      "code": "C08L27/18",
+      "level": 3,
+      "parent": "C08L27/12",
+      "ja": "テトラフルオロエテンの単独重合体または共重合体［２００６．０１］",
+      "en": "Homopolymers or copolymers of tetrafluoroethene",
+      "count": 14886,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L27/20": {
+      "code": "C08L27/20",
+      "level": 3,
+      "parent": "C08L27/12",
+      "ja": "ヘキサフルオロプロペンの単独重合体または共重合体［２］",
+      "en": "Homopolymers or copolymers of hexafluoropropene",
+      "count": 847,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L27/22": {
+      "code": "C08L27/22",
+      "level": 1,
+      "parent": "C08L27/00",
+      "ja": "化学的な後処理によって変性されたもの［２］",
+      "en": "modified by chemical after-treatment",
+      "count": 974,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L27/24": {
+      "code": "C08L27/24",
+      "level": 2,
+      "parent": "C08L27/22",
+      "ja": "ハロゲン化されたもの［２］",
+      "en": "halogenated",
+      "count": 1714,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L29/00": {
+      "code": "C08L29/00",
+      "level": 0,
+      "parent": "C08L",
+      "ja": "ただ１つの炭素―炭素二重結合を含有する１個以上の不飽和脂肪族基をもち，その少くとも１つがアルコール，エーテル，アルデヒド，ケトン，アセタールまたはケタール基によって停止されている化合物の単独重合体または共重合体の組成物；不飽和アルコールと飽和カルボン酸とのエステルの重合体を加水分解したものの組成物；そのような重合体の誘導体の組成物［２］",
+      "en": "Compositions of homopolymers or copolymers of compounds having one or more unsaturated aliphatic radicals, each having only one carbon-to-carbon double bond, and at least one being terminated by an alcohol, ether, aldehydo, ketonic, acetal, or ketal radical; Compositions of hydrolysed polymers of esters of unsaturated alcohols with saturated carboxylic acids; Compositions of derivatives of such polymers",
+      "count": 1825,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L29/02": {
+      "code": "C08L29/02",
+      "level": 1,
+      "parent": "C08L29/00",
+      "ja": "不飽和アルコールの単独重合体または共重合体（Ｃ０８Ｌ２９／１４が優先）［２］",
+      "en": "Homopolymers or copolymers of unsaturated alcohols(<b>C08L29/14</b> takes precedence)",
+      "count": 708,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L29/04": {
+      "code": "C08L29/04",
+      "level": 2,
+      "parent": "C08L29/02",
+      "ja": "ポリビニルアルコール；不飽和アルコールと飽和カルボン酸とのエステルの単独重合体または共重合体の部分加水分解物［２］",
+      "en": "Polyvinyl alcohol; Partially hydrolysed homopolymers or copolymers of esters of unsaturated alcohols with saturated carboxylic acids",
+      "count": 18907,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L29/06": {
+      "code": "C08L29/06",
+      "level": 2,
+      "parent": "C08L29/02",
+      "ja": "アリルアルコールの共重合体［２］",
+      "en": "Copolymers of allyl alcohol",
+      "count": 153,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L29/08": {
+      "code": "C08L29/08",
+      "level": 3,
+      "parent": "C08L29/06",
+      "ja": "ビニル芳香族単量体との［２］",
+      "en": "with vinyl aromatic monomers",
+      "count": 67,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L29/10": {
+      "code": "C08L29/10",
+      "level": 1,
+      "parent": "C08L29/00",
+      "ja": "不飽和エーテルの単独重合体または共重合体（Ｃ０８Ｌ３５／０８が優先）［２］",
+      "en": "Homopolymers or copolymers of unsaturated ethers(<b>C08L35/08</b> takes precedence)",
+      "count": 1430,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L29/12": {
+      "code": "C08L29/12",
+      "level": 1,
+      "parent": "C08L29/00",
+      "ja": "不飽和ケトンの単独重合体または共重合体［２］",
+      "en": "Homopolymers or copolymers of unsaturated ketones",
+      "count": 107,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L29/14": {
+      "code": "C08L29/14",
+      "level": 1,
+      "parent": "C08L29/00",
+      "ja": "不飽和アセタールまたはケタールの重合によって，または不飽和アルコールの重合体の後処理によって得られるアセタールまたはケタールの単独重合体または共重合体［２］",
+      "en": "Homopolymers or copolymers of acetals or ketals obtained by polymerisation of unsaturated acetals or ketals or by after-treatment of polymers of unsaturated alcohols",
+      "count": 3999,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L31/00": {
+      "code": "C08L31/00",
+      "level": 0,
+      "parent": "C08L",
+      "ja": "ただ１つの炭素―炭素二重結合を含有する１個以上の不飽和脂肪族基をもち，その少くとも１つが飽和カルボン酸の，炭酸のまたはハロぎ酸のアシロキシ基によって停止されている化合物の単独重合体または共重合体の組成物（加水分解重合体の組成物Ｃ０８Ｌ２９／００）；そのような重合体の誘導体の組成物［２］",
+      "en": "Compositions of homopolymers or copolymers of compounds having one or more unsaturated aliphatic radicals, each having only one carbon-to-carbon double bond, and at least one being terminated by an acyloxy radical of a saturated carboxylic acid, of carbonic acid, or of a haloformic acid(of hydrolysed polymers <b>C08L29/00</b>);Compositions of derivatives of such polymers",
+      "count": 1305,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L31/02": {
+      "code": "C08L31/02",
+      "level": 1,
+      "parent": "C08L31/00",
+      "ja": "モノカルボン酸エステルの単独重合体または共重合体［２］",
+      "en": "Homopolymers or copolymers of esters of monocarboxylic acids",
+      "count": 925,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L31/04": {
+      "code": "C08L31/04",
+      "level": 2,
+      "parent": "C08L31/02",
+      "ja": "酢酸ビニルの単独重合体または共重合体［２］",
+      "en": "Homopolymers or copolymers of vinyl acetate",
+      "count": 7923,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L31/06": {
+      "code": "C08L31/06",
+      "level": 1,
+      "parent": "C08L31/00",
+      "ja": "多価カルボン酸エステルの単独重合体または共重合体［２］",
+      "en": "Homopolymers or copolymers of esters of polycarboxylic acids",
+      "count": 254,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L31/08": {
+      "code": "C08L31/08",
+      "level": 2,
+      "parent": "C08L31/06",
+      "ja": "フタル酸の［２］",
+      "en": "of phthalic acid",
+      "count": 402,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L33/00": {
+      "code": "C08L33/00",
+      "level": 0,
+      "parent": "C08L",
+      "ja": "ただ１つの炭素―炭素二重結合を含有する１個以上の不飽和脂肪族基をもち，そのうちのただ１つの脂肪族基がただ１つのカルボキシル基によって停止されている化合物，またはその塩，無水物，エステル，アミド，イミドまたはそのニトリルの単独重合体または共重合体の組成物；そのような重合体の誘導体の組成物［２］",
+      "en": "Compositions of homopolymers or copolymers of compounds having one or more unsaturated aliphatic radicals, each having only one carbon-to-carbon double bond, and only one being terminated by only one carboxyl radical, or of salts, anhydrides, esters, amides, imides, or nitriles thereof; Compositions of derivatives of such polymers",
+      "count": 23872,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L33/02": {
+      "code": "C08L33/02",
+      "level": 1,
+      "parent": "C08L33/00",
+      "ja": "酸の単独重合体または共重合体；その金属塩またはアンモニウム塩［２］",
+      "en": "Homopolymers or copolymers of acids; Metal or ammonium salts thereof",
+      "count": 23365,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L33/04": {
+      "code": "C08L33/04",
+      "level": 1,
+      "parent": "C08L33/00",
+      "ja": "エステルの単独重合体または共重合体［２］",
+      "en": "Homopolymers or copolymers of esters",
+      "count": 16458,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L33/06": {
+      "code": "C08L33/06",
+      "level": 2,
+      "parent": "C08L33/04",
+      "ja": "炭素，水素および酸素のみを含有し，しかもその酸素はカルボキシル基の一部分としてのみ存在するエステルの［２］",
+      "en": "of esters containing only carbon, hydrogen, and oxygen, the oxygen atom being present only as part of the carboxyl radical",
+      "count": 8672,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L33/08": {
+      "code": "C08L33/08",
+      "level": 3,
+      "parent": "C08L33/06",
+      "ja": "アクリル酸エステルの単独重合体または共重合体［２］",
+      "en": "Homopolymers or copolymers of acrylic acid esters",
+      "count": 9316,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L33/10": {
+      "code": "C08L33/10",
+      "level": 3,
+      "parent": "C08L33/06",
+      "ja": "メタクリル酸エステルの単独重合体または共重合体［２］",
+      "en": "Homopolymers or copolymers of methacrylic acid esters",
+      "count": 5272,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L33/12": {
+      "code": "C08L33/12",
+      "level": 4,
+      "parent": "C08L33/10",
+      "ja": "メチルメタクリレートの単独重合体または共重合体［２］",
+      "en": "Homopolymers or copolymers of methyl methacrylate",
+      "count": 12248,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L33/14": {
+      "code": "C08L33/14",
+      "level": 2,
+      "parent": "C08L33/04",
+      "ja": "ハロゲン，窒素，いおうまたはカルボキシル基の酸素以外の酸素原子を含有するエステルの［２］",
+      "en": "of esters containing halogen, nitrogen, sulfur, or oxygen atoms in addition to the carboxy oxygen",
+      "count": 7035,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L33/16": {
+      "code": "C08L33/16",
+      "level": 3,
+      "parent": "C08L33/14",
+      "ja": "ハロゲン原子を含有するエステルの単独重合体または共重合体［２］",
+      "en": "Homopolymers or copolymers of esters containing halogen atoms",
+      "count": 1267,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L33/18": {
+      "code": "C08L33/18",
+      "level": 1,
+      "parent": "C08L33/00",
+      "ja": "ニトリルの単独重合体または共重合体［２］",
+      "en": "Homopolymers or copolymers of nitriles",
+      "count": 1629,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L33/20": {
+      "code": "C08L33/20",
+      "level": 2,
+      "parent": "C08L33/18",
+      "ja": "アクリロニトリルの単独重合体または共重合体（Ｃ０８Ｌ５５／０２が優先）［２］",
+      "en": "Homopolymers or copolymers of acrylonitrile(<b>C08L55/02</b> takes precedence)",
+      "count": 4472,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L33/22": {
+      "code": "C08L33/22",
+      "level": 2,
+      "parent": "C08L33/18",
+      "ja": "４個以上の炭素原子を含有するニトリルの単独重合体または共重合体［２］",
+      "en": "Homopolymers or copolymers of nitriles containing four or more carbon atoms",
+      "count": 92,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L33/24": {
+      "code": "C08L33/24",
+      "level": 1,
+      "parent": "C08L33/00",
+      "ja": "アミドまたはイミドの単独重合体または共重合体［２］",
+      "en": "Homopolymers or copolymers of amides or imides",
+      "count": 3447,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L33/26": {
+      "code": "C08L33/26",
+      "level": 2,
+      "parent": "C08L33/24",
+      "ja": "アクリルアミドまたはメタクリルアミドの単独重合体または共重合体［２］",
+      "en": "Homopolymers or copolymers of acrylamide or methacrylamide",
+      "count": 5781,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L35/00": {
+      "code": "C08L35/00",
+      "level": 0,
+      "parent": "C08L",
+      "ja": "ただ１つの炭素―炭素二重結合を含有する１個以上の不飽和脂肪族基をもち，その少なくとも１つがカルボキシル基によって停止されており，そして分子中に少なくとも１個の他のカルボキシル基をもつ化合物，その塩，無水物，エステル，アミド，イミドまたはそのニトリルの単独重合体または共重合体の組成物；そのような重合体の誘導体の組成物［２］",
+      "en": "Compositions of homopolymers or copolymers of compounds having one or more unsaturated aliphatic radicals, each having only one carbon-to-carbon double bond, and at least one being terminated by a carboxyl radical, and containing at least one other carboxyl radical in the molecule, or of salts, anhydrides, esters, amides, imides or nitriles thereof; Compositions of derivatives of such polymers",
+      "count": 3209,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L35/02": {
+      "code": "C08L35/02",
+      "level": 1,
+      "parent": "C08L35/00",
+      "ja": "エステルの単独重合体または共重合体（Ｃ０８Ｌ３５／０６，Ｃ０８Ｌ３５／０８が優先）［２］",
+      "en": "Homopolymers or copolymers of esters(<b>C08L35/06</b>, <b>C08L35/08</b> take precedence)",
+      "count": 1320,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L35/04": {
+      "code": "C08L35/04",
+      "level": 1,
+      "parent": "C08L35/00",
+      "ja": "ニトリルの単独重合体または共重合体（Ｃ０８Ｌ３５／０６，Ｃ０８Ｌ３５／０８が優先）［２］",
+      "en": "Homopolymers or copolymers of nitriles(<b>C08L35/06</b>, <b>C08L35/08</b> take precedence)",
+      "count": 276,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L35/06": {
+      "code": "C08L35/06",
+      "level": 1,
+      "parent": "C08L35/00",
+      "ja": "ビニル芳香族単量体との共重合体［２］",
+      "en": "Copolymers with vinyl aromatic monomers",
+      "count": 3150,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L35/08": {
+      "code": "C08L35/08",
+      "level": 1,
+      "parent": "C08L35/00",
+      "ja": "ビニルエーテルとの共重合体［２］",
+      "en": "Copolymers with vinyl ethers",
+      "count": 179,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L37/00": {
+      "code": "C08L37/00",
+      "level": 0,
+      "parent": "C08L",
+      "ja": "ただ１つの炭素―炭素二重結合を含有する１個以上の不飽和脂肪族基をもち，その少なくとも１つが酸素含有複素環によって停止されている化合物の単独重合体または共重合体の組成物（多官能性の酸の環状エステルのＣ０８Ｌ３１／００；不飽和酸の環状無水物のＣ０８Ｌ３５／００）；そのような重合体の誘導体の組成物［２］",
+      "en": "Compositions of homopolymers or copolymers of compounds having one or more unsaturated aliphatic radicals, each having only one carbon-to-carbon double bond, and at least one being terminated by a heterocyclic ring containing oxygen(of cyclic esters of polyfunctional acids <b>C08L31/00</b>; of cyclic anhydrides of unsaturated acids <b>C08L35/00</b>);Compositions of derivatives of such polymers",
+      "count": 740,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L39/00": {
+      "code": "C08L39/00",
+      "level": 0,
+      "parent": "C08L",
+      "ja": "ただ１つの炭素―炭素二重結合を含有する１個以上の不飽和脂肪族基をもち，その少なくとも１つが窒素に対する単結合もしくは二重結合または窒素含有複素環によって停止されている化合物の単独重合体または共重合体の組成物；そのような重合体の誘導体の組成物［２］",
+      "en": "Compositions of homopolymers or copolymers of compounds having one or more unsaturated aliphatic radicals, each having only one carbon-to-carbon double bond, and at least one being terminated by a single or double bond to nitrogen or by a heterocyclic ring containing nitrogen; Compositions of derivatives of such polymers",
+      "count": 1456,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L39/02": {
+      "code": "C08L39/02",
+      "level": 1,
+      "parent": "C08L39/00",
+      "ja": "ビニルアミンの単独重合体または共重合体［２］",
+      "en": "Homopolymers or copolymers of vinylamine",
+      "count": 341,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L39/04": {
+      "code": "C08L39/04",
+      "level": 1,
+      "parent": "C08L39/00",
+      "ja": "窒素含有複素環を有する単量体の単独重合体または共重合体［２］",
+      "en": "Homopolymers or copolymers of monomers containing heterocyclic rings having nitrogen as ring member",
+      "count": 1215,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L39/06": {
+      "code": "C08L39/06",
+      "level": 2,
+      "parent": "C08L39/04",
+      "ja": "Ｎ―ビニル―ピロリドンの単独重合体または共重合体［２］",
+      "en": "Homopolymers or copolymers of N-vinyl-pyrrolidones",
+      "count": 2784,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L39/08": {
+      "code": "C08L39/08",
+      "level": 2,
+      "parent": "C08L39/04",
+      "ja": "ビニル―ピリジンの単独重合体または共重合体［２］",
+      "en": "Homopolymers or copolymers of vinyl-pyridine",
+      "count": 294,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L41/00": {
+      "code": "C08L41/00",
+      "level": 0,
+      "parent": "C08L",
+      "ja": "ただ１つの炭素―炭素二重結合を含有する１個以上の不飽和脂肪族基をもち，その少なくとも１つがいおうに対する結合またはいおう含有複素環によって停止されている化合物の単独重合体または共重合体の組成物；そのような重合体の誘導体の組成物［２］",
+      "en": "Compositions of homopolymers or copolymers of compounds having one or more unsaturated aliphatic radicals, each having only one carbon-to-carbon double bond, and at least one being terminated by a bond to sulfur or by a heterocyclic ring containing sulfur; Compositions of derivatives of such polymers",
+      "count": 522,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L43/00": {
+      "code": "C08L43/00",
+      "level": 0,
+      "parent": "C08L",
+      "ja": "ただ１つの炭素―炭素二重結合を含有する１個以上の不飽和脂肪族基をもち，ほう素，けい素，りん，セレン，テルルまたは金属を有する化合物を含有する化合物の単独重合体または共重合体の組成物；そのような重合体の誘導体の組成物［２］",
+      "en": "Compositions of homopolymers or copolymers of compounds having one or more unsaturated aliphatic radicals, each having only one carbon-to-carbon double bond, and containing boron, silicon, phosphorus, selenium, tellurium, or a metal; Compositions of derivatives of such polymers",
+      "count": 535,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L43/02": {
+      "code": "C08L43/02",
+      "level": 1,
+      "parent": "C08L43/00",
+      "ja": "りん含有単量体の単独重合体または共重合体［２］",
+      "en": "Homopolymers or copolymers of monomers containing phosphorus",
+      "count": 641,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L43/04": {
+      "code": "C08L43/04",
+      "level": 1,
+      "parent": "C08L43/00",
+      "ja": "けい素含有単量体の単独重合体または共重合体［２］",
+      "en": "Homopolymers or copolymers of monomers containing silicon",
+      "count": 1585,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L45/00": {
+      "code": "C08L45/00",
+      "level": 0,
+      "parent": "C08L",
+      "ja": "側鎖に不飽和脂肪族基をもたず，炭素環または複素環系に１個以上の炭素―炭素二重結合をもつ化合物の単独重合体または共重合体の組成物；そのような重合体の誘導体の組成物（環状無水物またはイミドのＣ０８Ｌ３５／００；多官能性酸の環状エステルのＣ０８Ｌ３１／００）［２］",
+      "en": "Compositions of homopolymers or copolymers of compounds having no unsaturated aliphatic radicals in a side chain, and having one or more carbon-to-carbon double bonds in a carbocyclic or in a heterocyclic ring system; Compositions of derivatives of such polymers(of cyclic esters of polyfunctional acids <b>C08L31/00</b>; of cyclic anhydrides or imides <b>C08L35/00</b>)",
+      "count": 5022,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L45/02": {
+      "code": "C08L45/02",
+      "level": 1,
+      "parent": "C08L45/00",
+      "ja": "クマロン―インデン重合体の［２］",
+      "en": "of coumarone-indene polymers",
+      "count": 1513,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L47/00": {
+      "code": "C08L47/00",
+      "level": 0,
+      "parent": "C08L",
+      "ja": "１個以上の不飽和脂肪族基をもち，少なくともその１つが２個以上の炭素―炭素二重結合を含有する化合物の単独重合体または共重合体の組成物；そのような重合体の誘導体の組成物（Ｃ０８Ｌ４５／００が優先；共役ジエンゴムのＣ０８Ｌ９／００～Ｃ０８Ｌ２１／００）［２］",
+      "en": "Compositions of homopolymers or copolymers of compounds having one or more unsaturated aliphatic radicals, at least one having two or more carbon-to-carbon double bonds; Compositions of derivatives of such polymers(<b>C08L45/00</b> takes precedence; of conjugated diene rubbers <b>C08L9/00 to C08L21/00</b> )",
+      "count": 3574,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L49/00": {
+      "code": "C08L49/00",
+      "level": 0,
+      "parent": "C08L",
+      "ja": "１個以上の炭素―炭素三重結合をもつ化合物の単独重合体または共重合体の組成物；そのような重合体の誘導体の組成物［２］",
+      "en": "Compositions of homopolymers or copolymers of compounds having one or more carbon-to-carbon triple bonds; Compositions of derivatives of such polymers",
+      "count": 519,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L51/00": {
+      "code": "C08L51/00",
+      "level": 0,
+      "parent": "C08L",
+      "ja": "グラフト成分が炭素―炭素不飽和結合のみが関与する反応によって得られるグラフト重合体の組成物（ＡＢＳ重合体Ｃ０８Ｌ５５／０２）；そのような重合体の誘導体の組成物［２］",
+      "en": "Compositions of graft polymers in which the grafted component is obtained by reactions only involving carbon-to-carbon unsaturated bonds(for ABS polymers <b>C08L55/02</b>);Compositions of derivatives of such polymers",
+      "count": 23467,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L51/02": {
+      "code": "C08L51/02",
+      "level": 1,
+      "parent": "C08L51/00",
+      "ja": "多糖類にグラフトされた［２］",
+      "en": "grafted on to polysaccharides",
+      "count": 11065,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L51/04": {
+      "code": "C08L51/04",
+      "level": 1,
+      "parent": "C08L51/00",
+      "ja": "ゴムにグラフトされた［２］",
+      "en": "grafted on to rubbers",
+      "count": 16214,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L51/06": {
+      "code": "C08L51/06",
+      "level": 1,
+      "parent": "C08L51/00",
+      "ja": "ただ１個の炭素―炭素二重結合を含有する脂肪族炭化水素の単独重合体または共重合体にグラフトされた［２］",
+      "en": "grafted on to homopolymers or copolymers of aliphatic hydrocarbons containing only one carbon-to-carbon double bond",
+      "count": 23239,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L51/08": {
+      "code": "C08L51/08",
+      "level": 1,
+      "parent": "C08L51/00",
+      "ja": "不飽和炭素―炭素結合のみが関与する以外の反応によって得られる高分子化合物にグラフトされた［２］",
+      "en": "grafted on to macromolecular compounds obtained otherwise than by reactions only involving carbon-to-carbon unsaturated bonds",
+      "count": 5634,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L51/10": {
+      "code": "C08L51/10",
+      "level": 1,
+      "parent": "C08L51/00",
+      "ja": "無機材料にグラフトされた［３］",
+      "en": "grafted on to inorganic materials",
+      "count": 904,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L53/00": {
+      "code": "C08L53/00",
+      "level": 0,
+      "parent": "C08L",
+      "ja": "炭素―炭素不飽和結合のみが関与する反応によって得られる重合体の連鎖を少なくとも１個含有するブロック共重合体の組成物；そのような重合体の誘導体の組成物［２］",
+      "en": "Compositions of block copolymers containing at least one sequence of a polymer obtained by reactions only involving carbon-to-carbon unsaturated bonds; Compositions of derivatives of such polymers",
+      "count": 14525,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L53/02": {
+      "code": "C08L53/02",
+      "level": 1,
+      "parent": "C08L53/00",
+      "ja": "ビニル芳香族単量体および共役ジエンの［２］",
+      "en": "of vinyl aromatic monomers and conjugated dienes",
+      "count": 20685,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L55/00": {
+      "code": "C08L55/00",
+      "level": 0,
+      "parent": "C08L",
+      "ja": "グループＣ０８Ｌ２３／００～Ｃ０８Ｌ５３／００に属さない，炭素―炭素不飽和結合のみが関与する重合反応によって得られる単独重合体または共重合体の組成物［２］",
+      "en": "Compositions of homopolymers or copolymers, obtained by polymerisation reactions only involving carbon-to-carbon unsaturated bonds, not provided for in groups <b>C08L23/00 to C08L53/00</b> ",
+      "count": 3740,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L55/02": {
+      "code": "C08L55/02",
+      "level": 1,
+      "parent": "C08L55/00",
+      "ja": "ＡＢＳ（アクリロニトリルブタジエンスチレン）重合体［２］",
+      "en": "ABS [Acrylonitrile-Butadiene-Styrene] polymers",
+      "count": 18176,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L55/04": {
+      "code": "C08L55/04",
+      "level": 1,
+      "parent": "C08L55/00",
+      "ja": "ジエン合成によってえられるポリ付加物［２］",
+      "en": "Polyadducts obtained by the diene synthesis",
+      "count": 79,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L57/00": {
+      "code": "C08L57/00",
+      "level": 0,
+      "parent": "C08L",
+      "ja": "炭素―炭素不飽和結合のみが関与する反応によってえられる不特定重合体の組成物［２］",
+      "en": "Compositions of unspecified polymers obtained by reactions only involving carbon-to-carbon unsaturated bonds",
+      "count": 3088,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L57/02": {
+      "code": "C08L57/02",
+      "level": 1,
+      "parent": "C08L57/00",
+      "ja": "鉱油炭化水素の共重合体［２］",
+      "en": "Copolymers of mineral oil hydrocarbons",
+      "count": 4005,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L57/04": {
+      "code": "C08L57/04",
+      "level": 1,
+      "parent": "C08L57/00",
+      "ja": "単量体の少量成分のみが示された共重合体［２］",
+      "en": "Copolymers in which only the monomer in minority is defined",
+      "count": 313,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L57/06": {
+      "code": "C08L57/06",
+      "level": 1,
+      "parent": "C08L57/00",
+      "ja": "炭素および水素以外の元素を含む単独重合体または共重合体［２］",
+      "en": "Homopolymers or copolymers containing elements other than carbon and hydrogen",
+      "count": 213,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L57/08": {
+      "code": "C08L57/08",
+      "level": 2,
+      "parent": "C08L57/06",
+      "ja": "ハロゲン原子を含むもの［２］",
+      "en": "containing halogen atoms",
+      "count": 116,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L57/10": {
+      "code": "C08L57/10",
+      "level": 2,
+      "parent": "C08L57/06",
+      "ja": "酸素原子を含むもの［２］",
+      "en": "containing oxygen atoms",
+      "count": 233,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L57/12": {
+      "code": "C08L57/12",
+      "level": 2,
+      "parent": "C08L57/06",
+      "ja": "窒素原子を含むもの［２］",
+      "en": "containing nitrogen atoms",
+      "count": 134,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L59/00": {
+      "code": "C08L59/00",
+      "level": 0,
+      "parent": "C08L",
+      "ja": "ポリアセタールの組成物；ポリアセタールの誘導体の組成物（ポリビニルアセタールのものＣ０８Ｌ２９／１４）［２］",
+      "en": "Compositions of polyacetals; Compositions of derivatives of polyacetals(of polyvinyl acetals <b>C08L29/14</b>)",
+      "count": 4271,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L59/02": {
+      "code": "C08L59/02",
+      "level": 1,
+      "parent": "C08L59/00",
+      "ja": "ポリオキシメチレン連鎖のみを含むポリアセタール［２］",
+      "en": "Polyacetals containing polyoxymethylene sequences only",
+      "count": 1110,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L59/04": {
+      "code": "C08L59/04",
+      "level": 1,
+      "parent": "C08L59/00",
+      "ja": "ポリオキシメチレン共重合体［３］",
+      "en": "Copolyoxymethylenes",
+      "count": 737,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L61/00": {
+      "code": "C08L61/00",
+      "level": 0,
+      "parent": "C08L",
+      "ja": "アルデヒドまたはケトンの縮重合体の組成物（ポリアルコールとのＣ０８Ｌ５９／００；ポリニトリルとのＣ０８Ｌ７７／００）；そのような重合体の誘導体の組成物［２］",
+      "en": "Compositions of condensation polymers of aldehydes or ketones(with polyalcohols <b>C08L59/00</b>; with polynitriles <b>C08L77/00</b>);Compositions of derivatives of such polymers",
+      "count": 4396,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L61/02": {
+      "code": "C08L61/02",
+      "level": 1,
+      "parent": "C08L61/00",
+      "ja": "アルデヒドまたはケトンのみの縮重合体［２］",
+      "en": "Condensation polymers of aldehydes or ketones only",
+      "count": 619,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L61/04": {
+      "code": "C08L61/04",
+      "level": 1,
+      "parent": "C08L61/00",
+      "ja": "アルデヒドまたはケトンとフェノールのみとの縮重合体［２］",
+      "en": "Condensation polymers of aldehydes or ketones with phenols only",
+      "count": 4731,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L61/06": {
+      "code": "C08L61/06",
+      "level": 2,
+      "parent": "C08L61/04",
+      "ja": "アルデヒドとフェノールとの［２］",
+      "en": "of aldehydes with phenols",
+      "count": 13228,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L61/08": {
+      "code": "C08L61/08",
+      "level": 3,
+      "parent": "C08L61/06",
+      "ja": "１価フェノールとの［２］",
+      "en": "with monohydric phenols",
+      "count": 624,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L61/10": {
+      "code": "C08L61/10",
+      "level": 4,
+      "parent": "C08L61/08",
+      "ja": "フェノール―ホルムアルデヒド縮合物［２］",
+      "en": "Phenol-formaldehyde condensates",
+      "count": 4602,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L61/12": {
+      "code": "C08L61/12",
+      "level": 3,
+      "parent": "C08L61/06",
+      "ja": "多価フェノールとの［２］",
+      "en": "with polyhydric phenols",
+      "count": 780,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L61/14": {
+      "code": "C08L61/14",
+      "level": 3,
+      "parent": "C08L61/06",
+      "ja": "変性フェノール―アルデヒド縮合物［２］",
+      "en": "Modified phenol-aldehyde condensates",
+      "count": 3223,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L61/16": {
+      "code": "C08L61/16",
+      "level": 2,
+      "parent": "C08L61/04",
+      "ja": "ケトンとフェノールとの［２］",
+      "en": "of ketones with phenols",
+      "count": 2095,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L61/18": {
+      "code": "C08L61/18",
+      "level": 1,
+      "parent": "C08L61/00",
+      "ja": "アルデヒドまたはケトンと芳香族炭化水素またはそのハロゲン誘導体のみとの縮重合体［２］",
+      "en": "Condensation polymers of aldehydes or ketones with aromatic hydrocarbons or their halogen derivatives only",
+      "count": 469,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L61/20": {
+      "code": "C08L61/20",
+      "level": 1,
+      "parent": "C08L61/00",
+      "ja": "アルデヒドまたはケトンと窒素に結合した水素を含む化合物のみとの縮重合体（アミノフェノールとのＣ０８Ｌ６１／０４）［２］",
+      "en": "Condensation polymers of aldehydes or ketones with only compounds containing hydrogen attached to nitrogen(with amino phenols <b>C08L61/04</b>)",
+      "count": 3275,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L61/22": {
+      "code": "C08L61/22",
+      "level": 2,
+      "parent": "C08L61/20",
+      "ja": "アルデヒドと非環式または炭素環式化合物との［２］",
+      "en": "of aldehydes with acyclic or carbocyclic compounds",
+      "count": 543,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L61/24": {
+      "code": "C08L61/24",
+      "level": 3,
+      "parent": "C08L61/22",
+      "ja": "尿素またはチオ尿素との［２］",
+      "en": "with urea or thiourea",
+      "count": 2325,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L61/26": {
+      "code": "C08L61/26",
+      "level": 2,
+      "parent": "C08L61/20",
+      "ja": "アルデヒドと複素環式化合物との［２］",
+      "en": "of aldehydes with heterocyclic compounds",
+      "count": 312,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L61/28": {
+      "code": "C08L61/28",
+      "level": 3,
+      "parent": "C08L61/26",
+      "ja": "メラミンとの［２］",
+      "en": "with melamine",
+      "count": 3303,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L61/30": {
+      "code": "C08L61/30",
+      "level": 2,
+      "parent": "C08L61/20",
+      "ja": "アルデヒドと複素環式および非環式または炭素環式化合物との［２］",
+      "en": "of aldehydes with heterocyclic and acyclic or carbocyclic compounds",
+      "count": 320,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L61/32": {
+      "code": "C08L61/32",
+      "level": 2,
+      "parent": "C08L61/20",
+      "ja": "変性アミン―アルデヒド縮合物［２］",
+      "en": "Modified amine-aldehyde condensates",
+      "count": 968,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L61/34": {
+      "code": "C08L61/34",
+      "level": 1,
+      "parent": "C08L61/00",
+      "ja": "アルデヒドまたはケトンとグループＣ０８Ｌ６１／０４，Ｃ０８Ｌ６１／１８およびＣ０８Ｌ６１／２０の少なくとも２個に属する単量体との縮重合体［２］",
+      "en": "Condensation polymers of aldehydes or ketones with monomers covered by at least two of the groups <b>C08L61/04</b>, <b>C08L61/18</b>, and <b>C08L61/20</b>",
+      "count": 1673,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L63/00": {
+      "code": "C08L63/00",
+      "level": 0,
+      "parent": "C08L",
+      "ja": "エポキシ樹脂の組成物；エポキシ樹脂の誘導体の組成物［２］",
+      "en": "Compositions of epoxy resins; Compositions of derivatives of epoxy resins",
+      "count": 62692,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L63/02": {
+      "code": "C08L63/02",
+      "level": 1,
+      "parent": "C08L63/00",
+      "ja": "ビスフェノールのポリグリシジルエーテル［２］",
+      "en": "Polyglycidyl ethers of bis-phenols",
+      "count": 6193,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L63/04": {
+      "code": "C08L63/04",
+      "level": 1,
+      "parent": "C08L63/00",
+      "ja": "エポキシノボラック［２］",
+      "en": "Epoxynovolacs",
+      "count": 2521,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L63/06": {
+      "code": "C08L63/06",
+      "level": 1,
+      "parent": "C08L63/00",
+      "ja": "トリグリシジルイソシアヌレート［２］",
+      "en": "Triglycidylisocyanurates",
+      "count": 170,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L63/08": {
+      "code": "C08L63/08",
+      "level": 1,
+      "parent": "C08L63/00",
+      "ja": "エポキシ化重合ポリエン［２］",
+      "en": "Epoxidised polymerised polyenes",
+      "count": 559,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L63/10": {
+      "code": "C08L63/10",
+      "level": 1,
+      "parent": "C08L63/00",
+      "ja": "不飽和化合物で変性されたエポキシ樹脂［２］",
+      "en": "Epoxy resins modified by unsaturated compounds",
+      "count": 2919,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L65/00": {
+      "code": "C08L65/00",
+      "level": 0,
+      "parent": "C08L",
+      "ja": "主鎖に炭素―炭素結合を形成する反応によって得られる高分子化合物の組成物（Ｃ０８Ｌ７／００～Ｃ０８Ｌ５７／００，Ｃ０８Ｌ６１／００が優先）；そのような重合体の誘導体の組成物［２］",
+      "en": "Compositions of macromolecular compounds obtained by reactions forming a carbon-to-carbon link in the main chain(<b>C08L7/00 to C08L57/00</b> , <b>C08L61/00</b> take precedence);Compositions of derivatives of such polymers",
+      "count": 8300,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L65/02": {
+      "code": "C08L65/02",
+      "level": 1,
+      "parent": "C08L65/00",
+      "ja": "ポリフェニレン［２］",
+      "en": "Polyphenylenes",
+      "count": 340,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L65/04": {
+      "code": "C08L65/04",
+      "level": 1,
+      "parent": "C08L65/00",
+      "ja": "ポリキシリレン［２］",
+      "en": "Polyxylylenes",
+      "count": 112,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L67/00": {
+      "code": "C08L67/00",
+      "level": 0,
+      "parent": "C08L",
+      "ja": "主鎖にカルボン酸エステル結合を形成する反応によって得られるポリエステルの組成物（ポリエステル―アミドのＣ０８Ｌ７７／１２；ポリエステル―イミドのＣ０８Ｌ７９／０８）；そのような重合体の誘導体の組成物［２］",
+      "en": "Compositions of polyesters obtained by reactions forming a carboxylic ester link in the main chain(of polyester-amides <b>C08L77/12</b>; of polyester-imides <b>C08L79/08</b>);Compositions of derivatives of such polymers",
+      "count": 41885,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L67/02": {
+      "code": "C08L67/02",
+      "level": 1,
+      "parent": "C08L67/00",
+      "ja": "ジカルボン酸およびジヒドロキシ化合物から誘導されたポリエステル（Ｃ０８Ｌ６７／０６が優先）［２］",
+      "en": "Polyesters derived from dicarboxylic acids and dihydroxy compounds(<b>C08L67/06</b> takes precedence)",
+      "count": 49233,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L67/03": {
+      "code": "C08L67/03",
+      "level": 2,
+      "parent": "C08L67/02",
+      "ja": "芳香族環に直接結合したヒドロキシおよびカルボシキル基を有するジカルボン酸およびジヒドロキシ化合物［５］",
+      "en": "the dicarboxylic acids and dihydroxy compounds having the hydroxy and the carboxyl groups directly linked to aromatic rings",
+      "count": 3813,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L67/04": {
+      "code": "C08L67/04",
+      "level": 1,
+      "parent": "C08L67/00",
+      "ja": "ヒドロキシカルボン酸，例．ラクトン，より誘導されたポリエステル（Ｃ０８Ｌ６７／０６が優先）［２］",
+      "en": "Polyesters derived from hydroxy carboxylic acids, e.g. lactones(<b>C08L67/06</b> takes precedence)",
+      "count": 23542,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L67/06": {
+      "code": "C08L67/06",
+      "level": 1,
+      "parent": "C08L67/00",
+      "ja": "不飽和ポリエステル［２］",
+      "en": "Unsaturated polyesters",
+      "count": 9799,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L67/07": {
+      "code": "C08L67/07",
+      "level": 2,
+      "parent": "C08L67/06",
+      "ja": "末端の炭素―炭素不飽和結合を有するもの［５］",
+      "en": "having terminal carbon-to-carbon unsaturated bonds",
+      "count": 379,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L67/08": {
+      "code": "C08L67/08",
+      "level": 1,
+      "parent": "C08L67/00",
+      "ja": "高級脂肪油またはその酸により，または天然樹脂または樹脂酸により変性されたポリエステル［２］",
+      "en": "Polyesters modified with higher fatty oils or their acids, or with natural resins or resin acids",
+      "count": 1674,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L69/00": {
+      "code": "C08L69/00",
+      "level": 0,
+      "parent": "C08L",
+      "ja": "ポリカーボネートの組成物；ポリカーボネートの誘導体の組成物［２］",
+      "en": "Compositions of polycarbonates; Compositions of derivatives of polycarbonates",
+      "count": 33448,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L71/00": {
+      "code": "C08L71/00",
+      "level": 0,
+      "parent": "C08L",
+      "ja": "主鎖にエーテル結合を形成する反応によって得られるポリエーテルの組成物（ポリアセタールのＣ０８Ｌ５９／００；エポキシ樹脂のＣ０８Ｌ６３／００；ポリチオエーテル―エーテルのＣ０８Ｌ８１／０２；ポリエーテルスルホンのＣ０８Ｌ８１／０６）；そのような重合体の誘導体の組成物［２］",
+      "en": "Compositions of polyethers obtained by reactions forming an ether link in the main chain(of polyacetals <b>C08L59/00</b>; of epoxy resins <b>C08L63/00</b>; of polythioether-ethers <b>C08L81/02</b>; of polyethersulfones <b>C08L81/06</b>);Compositions of derivatives of such polymers",
+      "count": 10559,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L71/02": {
+      "code": "C08L71/02",
+      "level": 1,
+      "parent": "C08L71/00",
+      "ja": "ポリアルキレンオキシド［２］",
+      "en": "Polyalkylene oxides",
+      "count": 20171,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L71/03": {
+      "code": "C08L71/03",
+      "level": 2,
+      "parent": "C08L71/02",
+      "ja": "エピハロヒドリン重合体［５］",
+      "en": "Polyepihalohydrins",
+      "count": 1448,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L71/08": {
+      "code": "C08L71/08",
+      "level": 1,
+      "parent": "C08L71/00",
+      "ja": "ヒドロキシ化合物またはその金属誘導体から誘導されたポリエーテル（Ｃ０８Ｌ７１／０２が優先）［５］",
+      "en": "Polyethers derived from hydroxy compounds or from their metallic derivatives(<b>C08L71/02</b> takes precedence)",
+      "count": 2605,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L71/10": {
+      "code": "C08L71/10",
+      "level": 2,
+      "parent": "C08L71/08",
+      "ja": "フェノールから［５］",
+      "en": "from phenols",
+      "count": 3041,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L71/12": {
+      "code": "C08L71/12",
+      "level": 3,
+      "parent": "C08L71/10",
+      "ja": "ポリフェニレンオキシド［５］",
+      "en": "Polyphenylene oxides",
+      "count": 11490,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L71/14": {
+      "code": "C08L71/14",
+      "level": 2,
+      "parent": "C08L71/08",
+      "ja": "フルフリルアルコール重合体［５］",
+      "en": "Furfuryl alcohol polymers",
+      "count": 234,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L73/00": {
+      "code": "C08L73/00",
+      "level": 0,
+      "parent": "C08L",
+      "ja": "グループＣ０８Ｌ５９／００～Ｃ０８Ｌ７１／００に属さない，主鎖に酸素または酸素および炭素を含む結合を形成する反応によって得られる高分子化合物の組成物；そのような重合体の誘導体の組成物［２］",
+      "en": "Compositions of macromolecular compounds obtained by reactions forming a linkage containing oxygen or oxygen and carbon in the main chain, not provided for in groups <b>C08L59/00 to C08L71/00</b> ; Compositions of derivatives of such polymers",
+      "count": 1968,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L73/02": {
+      "code": "C08L73/02",
+      "level": 1,
+      "parent": "C08L73/00",
+      "ja": "ポリ酸無水物［２］",
+      "en": "Polyanhydrides",
+      "count": 156,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L75/00": {
+      "code": "C08L75/00",
+      "level": 0,
+      "parent": "C08L",
+      "ja": "ポリ尿素またはポリウレタンの組成物；そのような重合体の誘導体の組成物［２］",
+      "en": "Compositions of polyureas or polyurethanes; Compositions of derivatives of such polymers",
+      "count": 6846,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L75/02": {
+      "code": "C08L75/02",
+      "level": 1,
+      "parent": "C08L75/00",
+      "ja": "ポリ尿素［２］",
+      "en": "Polyureas",
+      "count": 1538,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L75/04": {
+      "code": "C08L75/04",
+      "level": 1,
+      "parent": "C08L75/00",
+      "ja": "ポリウレタン［２］",
+      "en": "Polyurethanes",
+      "count": 35905,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L75/06": {
+      "code": "C08L75/06",
+      "level": 2,
+      "parent": "C08L75/04",
+      "ja": "ポリエステルからのもの［２］",
+      "en": "from polyesters",
+      "count": 4729,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L75/08": {
+      "code": "C08L75/08",
+      "level": 2,
+      "parent": "C08L75/04",
+      "ja": "ポリエーテルからのもの［２］",
+      "en": "from polyethers",
+      "count": 8200,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L75/10": {
+      "code": "C08L75/10",
+      "level": 2,
+      "parent": "C08L75/04",
+      "ja": "ポリアセタールからのもの［２］",
+      "en": "from polyacetals",
+      "count": 30,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L75/12": {
+      "code": "C08L75/12",
+      "level": 2,
+      "parent": "C08L75/04",
+      "ja": "窒素および活性水素を含み，該窒素原子がイソシアネート基の一部分でない化合物からのもの［２］",
+      "en": "from compounds containing nitrogen and active hydrogen, the nitrogen atom not being part of an isocyanate group",
+      "count": 439,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L75/14": {
+      "code": "C08L75/14",
+      "level": 2,
+      "parent": "C08L75/04",
+      "ja": "炭素―炭素不飽和結合を有するポリウレタン［５］",
+      "en": "Polyurethanes having carbon-to-carbon unsaturated bonds",
+      "count": 2058,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L75/16": {
+      "code": "C08L75/16",
+      "level": 3,
+      "parent": "C08L75/14",
+      "ja": "末端の炭素―炭素不飽和結合を有するもの［５］",
+      "en": "having terminal carbon-to-carbon unsaturated bonds",
+      "count": 829,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L77/00": {
+      "code": "C08L77/00",
+      "level": 0,
+      "parent": "C08L",
+      "ja": "主鎖にカルボン酸アミド結合を形成する反応により得られるポリアミドの組成物（ポリヒドラジドのＣ０８Ｌ７９／０６；ポリアミドーイミドまたはポリアミド酸のＣ０８Ｌ７９／０８）；そのような重合体の誘導体の組成物［２］",
+      "en": "Compositions of polyamides obtained by reactions forming a carboxylic amide link in the main chain(of polyhydrazides <b>C08L79/06</b>; of polyamide-imides or polyamide acids <b>C08L79/08</b>);Compositions of derivatives of such polymers",
+      "count": 37654,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L77/02": {
+      "code": "C08L77/02",
+      "level": 1,
+      "parent": "C08L77/00",
+      "ja": "ω－アミノ－カルボン酸またはそのラクタムから誘導されたポリアミド（Ｃ０８Ｌ７７／１０が優先）［２］",
+      "en": "Polyamides derived from omega-amino carboxylic acids or from lactams thereof(<b>C08L77/10</b> takes precedence)",
+      "count": 11341,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L77/04": {
+      "code": "C08L77/04",
+      "level": 1,
+      "parent": "C08L77/00",
+      "ja": "α－アミノ－カルボン酸から誘導されたポリアミド（Ｃ０８Ｌ７７／１０が優先）［２］",
+      "en": "Polyamides derived from alpha-amino carboxylic acids(<b>C08L77/10</b> takes precedence)",
+      "count": 1073,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L77/06": {
+      "code": "C08L77/06",
+      "level": 1,
+      "parent": "C08L77/00",
+      "ja": "ポリアミンおよびポリカルボン酸から誘導されたポリアミド（Ｃ０８Ｌ７７／１０が優先）［２］",
+      "en": "Polyamides derived from polyamines and polycarboxylic acids(<b>C08L77/10</b> takes precedence)",
+      "count": 13283,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L77/08": {
+      "code": "C08L77/08",
+      "level": 2,
+      "parent": "C08L77/06",
+      "ja": "ポリアミンおよび重合不飽和脂肪酸からのもの［２］",
+      "en": "from polyamines and polymerised unsaturated fatty acids",
+      "count": 304,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L77/10": {
+      "code": "C08L77/10",
+      "level": 1,
+      "parent": "C08L77/00",
+      "ja": "アミノカルボン酸のまたはポリアミンおよびポリカルボン酸の芳香族結合アミノ基および芳香族結合カルボキシル基から誘導されたポリアミド［２］",
+      "en": "Polyamides derived from aromatically bound amino and carboxyl groups of amino carboxylic acids or of polyamines and polycarboxylic acids",
+      "count": 4913,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L77/12": {
+      "code": "C08L77/12",
+      "level": 1,
+      "parent": "C08L77/00",
+      "ja": "ポリエステル―アミド［２］",
+      "en": "Polyester-amides",
+      "count": 1973,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L79/00": {
+      "code": "C08L79/00",
+      "level": 0,
+      "parent": "C08L",
+      "ja": "グループＣ０８Ｌ６１／００～Ｃ０８Ｌ７７／００に属さない，主鎖のみに酸素または炭素を含みまたは含まずに窒素を含む結合を形成する反応によって得られる高分子化合物の組成物［２］",
+      "en": "Compositions of macromolecular compounds obtained by reactions forming in the main chain of the macromolecule a linkage containing nitrogen with or without oxygen, or carbon only, not provided for in groups <b>C08L61/00 to C08L77/00</b> ",
+      "count": 3678,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L79/02": {
+      "code": "C08L79/02",
+      "level": 1,
+      "parent": "C08L79/00",
+      "ja": "ポリアミン［２］",
+      "en": "Polyamines",
+      "count": 4946,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L79/04": {
+      "code": "C08L79/04",
+      "level": 1,
+      "parent": "C08L79/00",
+      "ja": "主鎖に窒素含有複素環を有する重縮合物；ポリヒドラジド；ポリアミド酸または類似のポリイミド前駆物質［２］",
+      "en": "Polycondensates having nitrogen-containing heterocyclic rings in the main chain; Polyhydrazides; Polyamide acids or similar polyimide precursors",
+      "count": 6165,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L79/06": {
+      "code": "C08L79/06",
+      "level": 2,
+      "parent": "C08L79/04",
+      "ja": "ポリヒドラジド；ポリトリアゾール；ポリアミノトリアゾール；ポリオキサジアゾール［２］",
+      "en": "Polyhydrazides; Polytriazoles; Polyamino-triazoles; Polyoxadiazoles",
+      "count": 317,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L79/08": {
+      "code": "C08L79/08",
+      "level": 2,
+      "parent": "C08L79/04",
+      "ja": "ポリイミド；ポリエステル―イミド；ポリアミド―イミド；ポリアミド酸または類似のポリイミドプリカーサー［２］",
+      "en": "Polyimides; Polyester-imides; Polyamide-imides; Polyamide acids or similar polyimide precursors",
+      "count": 23557,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L81/00": {
+      "code": "C08L81/00",
+      "level": 0,
+      "parent": "C08L",
+      "ja": "主鎖のみに窒素，酸素または炭素を含みまたは含まずにいおうを含む結合を形成する反応によって得られる高分子化合物の組成物；ポリスルホンの組成物；そのような重合体の誘導体の組成物［２］",
+      "en": "Compositions of macromolecular compounds obtained by reactions forming in the main chain of the macromolecule a linkage containing sulfur with or without nitrogen, oxygen, or carbon only; Compositions of polysulfones; Compositions of derivatives of such polymers",
+      "count": 2232,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L81/02": {
+      "code": "C08L81/02",
+      "level": 1,
+      "parent": "C08L81/00",
+      "ja": "ポリチオエーテル；ポリチオエーテル―エーテル［２］",
+      "en": "Polythioethers; Polythioether-ethers",
+      "count": 8150,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L81/04": {
+      "code": "C08L81/04",
+      "level": 1,
+      "parent": "C08L81/00",
+      "ja": "ポリスルフィド［２］",
+      "en": "Polysulfides",
+      "count": 2013,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L81/06": {
+      "code": "C08L81/06",
+      "level": 1,
+      "parent": "C08L81/00",
+      "ja": "ポリスルホン；ポリエーテルスルホン［２］",
+      "en": "Polysulfones; Polyethersulfones",
+      "count": 4919,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L81/08": {
+      "code": "C08L81/08",
+      "level": 1,
+      "parent": "C08L81/00",
+      "ja": "ポリスルホネート［２］",
+      "en": "Polysulfonates",
+      "count": 94,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L81/10": {
+      "code": "C08L81/10",
+      "level": 1,
+      "parent": "C08L81/00",
+      "ja": "ポリスルホンアミド；ポリスルホンイミド［２］",
+      "en": "Polysulfonamides; Polysulfonimides",
+      "count": 101,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L83/00": {
+      "code": "C08L83/00",
+      "level": 0,
+      "parent": "C08L",
+      "ja": "主鎖のみにいおう，窒素，酸素または炭素を含みまたは含まずにけい素を含む結合を形成する反応によって得られる高分子化合物の組成物；そのような重合体の誘導体の組成物［２］",
+      "en": "Compositions of macromolecular compounds obtained by reactions forming in the main chain of the macromolecule a linkage containing silicon with or without sulfur, nitrogen, oxygen, or carbon only; Compositions of derivatives of such polymers",
+      "count": 4922,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L83/02": {
+      "code": "C08L83/02",
+      "level": 1,
+      "parent": "C08L83/00",
+      "ja": "ポリシリケート［２］",
+      "en": "Polysilicates",
+      "count": 1054,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L83/04": {
+      "code": "C08L83/04",
+      "level": 1,
+      "parent": "C08L83/00",
+      "ja": "ポリシロキサン［２］",
+      "en": "Polysiloxanes",
+      "count": 50080,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L83/05": {
+      "code": "C08L83/05",
+      "level": 2,
+      "parent": "C08L83/04",
+      "ja": "水素に結合したけい素を含むもの［４］",
+      "en": "containing silicon bound to hydrogen",
+      "count": 8670,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L83/06": {
+      "code": "C08L83/06",
+      "level": 2,
+      "parent": "C08L83/04",
+      "ja": "酸素含有基に結合したけい素を含むもの（Ｃ０８Ｌ８３／１２が優先）［２］",
+      "en": "containing silicon bound to oxygen-containing groups(<b>C08L83/12</b> takes precedence)",
+      "count": 7510,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L83/07": {
+      "code": "C08L83/07",
+      "level": 2,
+      "parent": "C08L83/04",
+      "ja": "不飽和脂肪族基に結合したけい素を含むもの［４］",
+      "en": "containing silicon bound to unsaturated aliphatic groups",
+      "count": 14000,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L83/08": {
+      "code": "C08L83/08",
+      "level": 2,
+      "parent": "C08L83/04",
+      "ja": "炭素，水素および酸素以外の原子を含む有機基に結合したけい素を含むもの［２］",
+      "en": "containing silicon bound to organic groups containing atoms other than carbon, hydrogen, and oxygen",
+      "count": 7155,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L83/10": {
+      "code": "C08L83/10",
+      "level": 1,
+      "parent": "C08L83/00",
+      "ja": "ポリシロキサン連鎖を含むブロックまたはグラフト共重合体（ポリシロキサンに炭素―炭素二重結合をもつ化合物を重合することによってえられるものＣ０８Ｌ５１／０８，Ｃ０８Ｌ５３／００）［２］",
+      "en": "Block- or graft-copolymers containing polysiloxane sequences(obtained by polymerising a compound having a carbon-to-carbon double bond on to a polysiloxane <b>C08L51/08</b>, <b>C08L53/00</b>)",
+      "count": 3899,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L83/12": {
+      "code": "C08L83/12",
+      "level": 2,
+      "parent": "C08L83/10",
+      "ja": "ポリエーテル連鎖を含むもの［２］",
+      "en": "containing polyether sequences",
+      "count": 2859,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L83/14": {
+      "code": "C08L83/14",
+      "level": 1,
+      "parent": "C08L83/00",
+      "ja": "少なくとも２個だが全てではないけい素原子が酸素原子以外の結合によって結合されているもの（Ｃ０８Ｌ８３／１０が優先）［２］",
+      "en": "in which at least two but not all the silicon atoms are connected by linkages other than oxygen atoms(<b>C08L83/10</b> takes precedence)",
+      "count": 1956,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L83/16": {
+      "code": "C08L83/16",
+      "level": 1,
+      "parent": "C08L83/00",
+      "ja": "全てのけい素原子が酸素原子以外の結合によって結合されているもの［２］",
+      "en": "in which all the silicon atoms are connected by linkages other than oxygen atoms",
+      "count": 1062,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L85/00": {
+      "code": "C08L85/00",
+      "level": 0,
+      "parent": "C08L",
+      "ja": "主鎖にけい素，いおう，窒素，酸素および炭素以外の原子を含む結合を形成する反応によって得られる高分子化合物の組成物；そのような重合体の誘導体の組成物［２］",
+      "en": "Compositions of macromolecular compounds obtained by reactions forming in the main chain of the macromolecule a linkage containing atoms other than silicon, sulfur, nitrogen, oxygen, and carbon; Compositions of derivatives of such polymers",
+      "count": 598,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L85/02": {
+      "code": "C08L85/02",
+      "level": 1,
+      "parent": "C08L85/00",
+      "ja": "りんを含むもの［２］",
+      "en": "containing phosphorus",
+      "count": 2165,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L85/04": {
+      "code": "C08L85/04",
+      "level": 1,
+      "parent": "C08L85/00",
+      "ja": "ほう素を含むもの［２］",
+      "en": "containing boron",
+      "count": 216,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L87/00": {
+      "code": "C08L87/00",
+      "level": 0,
+      "parent": "C08L",
+      "ja": "不飽和炭素―炭素結合のみが関与する重合反応以外の反応によって得られる不特定高分子化合物の組成物［２］",
+      "en": "Compositions of unspecified macromolecular compounds, obtained otherwise than by polymerisation reactions only involving unsaturated carbon-to-carbon bonds",
+      "count": 6706,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L89/00": {
+      "code": "C08L89/00",
+      "level": 0,
+      "parent": "C08L",
+      "ja": "蛋白質の組成物；その誘導体の組成物［２］",
+      "en": "Compositions of proteins; Compositions of derivatives thereof",
+      "count": 11169,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L89/02": {
+      "code": "C08L89/02",
+      "level": 1,
+      "parent": "C08L89/00",
+      "ja": "カゼイン―アルデヒド縮合物［２］",
+      "en": "Casein-aldehyde condensates",
+      "count": 35,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L89/04": {
+      "code": "C08L89/04",
+      "level": 1,
+      "parent": "C08L89/00",
+      "ja": "廃材料，例．角，ひずめまたは毛髪，から誘導されるもの［２］",
+      "en": "Products derived from waste materials, e.g. horn, hoof or hair",
+      "count": 410,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L89/06": {
+      "code": "C08L89/06",
+      "level": 2,
+      "parent": "C08L89/04",
+      "ja": "皮革または皮膚から誘導されるもの［２］",
+      "en": "derived from leather or skin",
+      "count": 1390,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L91/00": {
+      "code": "C08L91/00",
+      "level": 0,
+      "parent": "C08L",
+      "ja": "油，脂肪またはワックスの組成物；その誘導体の組成物［２］",
+      "en": "Compositions of oils, fats or waxes; Compositions of derivatives thereof",
+      "count": 17282,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L91/02": {
+      "code": "C08L91/02",
+      "level": 1,
+      "parent": "C08L91/00",
+      "ja": "加硫油，例．ファクチス［２］",
+      "en": "Vulcanised oils, e.g. factice",
+      "count": 149,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L91/04": {
+      "code": "C08L91/04",
+      "level": 1,
+      "parent": "C08L91/00",
+      "ja": "リノキシン［２］",
+      "en": "Linoxyn",
+      "count": 40,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L91/06": {
+      "code": "C08L91/06",
+      "level": 1,
+      "parent": "C08L91/00",
+      "ja": "ワックス［２］",
+      "en": "Waxes",
+      "count": 17549,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L91/08": {
+      "code": "C08L91/08",
+      "level": 2,
+      "parent": "C08L91/06",
+      "ja": "ミネラルワックス［２］",
+      "en": "Mineral waxes",
+      "count": 862,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L93/00": {
+      "code": "C08L93/00",
+      "level": 0,
+      "parent": "C08L",
+      "ja": "天然樹脂の組成物；その誘導体の組成物（多糖類のＣ０８Ｌ１／００～Ｃ０８Ｌ５／００；天然ゴムのＣ０８Ｌ７／００）［２］",
+      "en": "Compositions of natural resins; Compositions of derivatives thereof(of polysaccharides <b>C08L1/00 to C08L5/00</b> ; of natural rubber <b>C08L7/00</b>)",
+      "count": 1418,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L93/02": {
+      "code": "C08L93/02",
+      "level": 1,
+      "parent": "C08L93/00",
+      "ja": "シェラック［２］",
+      "en": "Shellac",
+      "count": 260,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L93/04": {
+      "code": "C08L93/04",
+      "level": 1,
+      "parent": "C08L93/00",
+      "ja": "ロジン［２］",
+      "en": "Rosin",
+      "count": 4182,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L95/00": {
+      "code": "C08L95/00",
+      "level": 0,
+      "parent": "C08L",
+      "ja": "瀝青質材料，例．アスファルト，タールまたはピッチ，の組成物［２］",
+      "en": "Compositions of bituminous materials, e.g. asphalt, tar or pitch",
+      "count": 20951,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L97/00": {
+      "code": "C08L97/00",
+      "level": 0,
+      "parent": "C08L",
+      "ja": "リグニン含有材料の組成物（多糖類のＣ０８Ｌ１／００～Ｃ０８Ｌ５／００）［２］",
+      "en": "Compositions of lignin-containing materials(of polysaccharides <b>C08L1/00 to C08L5/00</b> )",
+      "count": 6176,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L97/02": {
+      "code": "C08L97/02",
+      "level": 1,
+      "parent": "C08L97/00",
+      "ja": "リグノーセルロース材料，例．木材，麦わらまたはバガス［２］",
+      "en": "Lignocellulosic material, e.g. wood, straw or bagasse",
+      "count": 19810,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L99/00": {
+      "code": "C08L99/00",
+      "level": 0,
+      "parent": "C08L",
+      "ja": "グループＣ０８Ｌ１／００～Ｃ０８Ｌ７／００またはＣ０８Ｌ８９／００～Ｃ０８Ｌ９７／００に属さない天然高分子化合物またはその誘導体の組成物［２］",
+      "en": "Compositions of natural macromolecular compounds or of derivatives thereof not provided for in groups <b>C08L1/00 to C08L7/00</b>  or <b>C08L89/00 to C08L97/00</b> ",
+      "count": 2094,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L101/00": {
+      "code": "C08L101/00",
+      "level": 0,
+      "parent": "C08L",
+      "ja": "不特定の高分子化合物の組成物［２］",
+      "en": "Compositions of unspecified macromolecular compounds",
+      "count": 76670,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L101/02": {
+      "code": "C08L101/02",
+      "level": 1,
+      "parent": "C08L101/00",
+      "ja": "特定の基の存在に特徴のあるもの［２］",
+      "en": "characterised by the presence of specified groups",
+      "count": 5935,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L101/04": {
+      "code": "C08L101/04",
+      "level": 2,
+      "parent": "C08L101/02",
+      "ja": "ハロゲン原子を含むもの［２］",
+      "en": "containing halogen atoms",
+      "count": 1113,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L101/06": {
+      "code": "C08L101/06",
+      "level": 2,
+      "parent": "C08L101/02",
+      "ja": "酸素原子を含むもの［２］",
+      "en": "containing oxygen atoms",
+      "count": 1808,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L101/08": {
+      "code": "C08L101/08",
+      "level": 3,
+      "parent": "C08L101/06",
+      "ja": "カルボキシル基［２］",
+      "en": "Carboxyl groups",
+      "count": 1130,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L101/10": {
+      "code": "C08L101/10",
+      "level": 2,
+      "parent": "C08L101/02",
+      "ja": "加水分解可能なシラン基を含むもの［４］",
+      "en": "containing hydrolysable silane groups",
+      "count": 1665,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L101/12": {
+      "code": "C08L101/12",
+      "level": 1,
+      "parent": "C08L101/00",
+      "ja": "物理的性質，例．異方性，粘性または導電性，に特徴があるもの［６］",
+      "en": "characterised by physical features, e.g. anisotropy, viscosity or electrical conductivity",
+      "count": 6432,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L101/14": {
+      "code": "C08L101/14",
+      "level": 2,
+      "parent": "C08L101/12",
+      "ja": "水溶性または水膨潤性高分子化合物，例．水性ゲル［６］",
+      "en": "the macromolecular compounds being water soluble or water swellable, e.g. aqueous gels",
+      "count": 2620,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    },
+    "C08L101/16": {
+      "code": "C08L101/16",
+      "level": 1,
+      "parent": "C08L101/00",
+      "ja": "生物分解性高分子化合物［７］",
+      "en": "the macromolecular compounds being biodegradable",
+      "count": 11841,
+      "sourceFile": "ipc_C08L.txt",
+      "kind": "ipc"
+    }
+  }
+};

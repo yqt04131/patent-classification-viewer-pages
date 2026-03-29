@@ -1,0 +1,226 @@
+{
+  "generatedAt": "2026-03-20T02:17:46.938Z",
+  "total": 22,
+  "entries": {
+    "F28C": {
+      "code": "F28C",
+      "level": 0,
+      "parent": "F28",
+      "ja": "熱交換媒体が相互に化学作用を行なわずに直接接触する熱交換装置で，他のサブクラスに分類されないもの（伝熱，熱交換，または蓄熱用物質Ｃ０９Ｋ５／００；熱発生手段をもつ流体加熱器Ｆ２４Ｈ；熱交換媒体と直接接触を行なう中間熱伝達媒体をもつものＦ２８Ｄ１５／００～Ｆ２８Ｄ１９／００；一般に使用される熱交換装置の細部Ｆ２８Ｆ）",
+      "en": "HEAT-EXCHANGE APPARATUS, NOT PROVIDED FOR IN ANOTHER SUBCLASS, IN WHICH THE HEAT-EXCHANGE MEDIA COME INTO DIRECT CONTACT WITHOUT CHEMICAL INTERACTION(heat-transfer, heat-exchange or heat-storage materials <b>C09K5/00</b>;  fluid heaters having heat generating means <b>F24H</b>; with an intermediate heat-transfer medium coming into direct contact with heat-exchange media <b>F28D15/00 to F28D19/00</b> ; details of heat-exchange apparatus of general application <b>F28F</b>)",
+      "count": 322,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F28": {
+      "code": "F28",
+      "level": 0,
+      "parent": "F",
+      "ja": "熱交換一般<br><br><b><ul>注</ul></b><br>（１）このクラスにおいては，下記の表現は以下に示す意味で用いる：<br>―“熱交換”とは，加熱または冷却流体または流動固体との直接または間接の接触によって，流体または流動固体を加熱または冷却することを意味する；<br>―“熱伝達”とは，加熱または冷却された表面または物体との直接接触によって，流体または流動固体を加熱または冷却することを意味する。<br>（２）熱交換または熱伝達（注（１）に規定されているような）を特別な目的に対して用いる装置は，サブクラスＦ２８Ｂ，または，たとえばクラスＦ２２，Ｆ２４，Ｆ２５，Ｆ２６またはＦ２７内の適当なサブクラスに分類される；これらのサブクラスが適当でない場合には，そのような装置は，Ｆ２８ＣまたはＤに分類される。",
+      "en": "HEAT EXCHANGE IN GENERAL; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this class, the following expressions are used with the meanings indicated:<ul><li>\"heat exchange\" means the heating or cooling of a fluid or fluent solid by direct or indirect contact with a heated or cooled fluid or fluent solid;</li><li>\"heat transfer\" means the heating or cooling of a fluid or fluent solid by direct contact with a heated or cooled surface or body.</li></ul></li><li>Apparatus using heat exchange or heat transfer (as defined in Note (1) above) for specific purposes is classified either in subclass <b>F28B</b> or in the appropriate subclasses of, for example, classes <b>F22</b>, <b>F24</b>, <b>F25</b>, <b>F26</b>, or <b>F27</b>; if no such other subclass is appropriate, such apparatus is classified in subclass <b>F28C</b> or <b>F28D</b>.</li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F": {
+      "code": "F",
+      "level": 0,
+      "parent": null,
+      "ja": "機械工学；照明；加熱；武器；爆破",
+      "en": "MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F28C1/00": {
+      "code": "F28C1/00",
+      "level": 0,
+      "parent": "F28C",
+      "ja": "直接接触による散水式冷却器，例．冷却塔（建造物Ｅ０４Ｈ５／１２；散水によって冷却された包囲区域Ｆ２５；散水式冷却器の部分構造Ｆ２８Ｆ２５／００）",
+      "en": "Direct-contact trickle coolers, e.g. cooling towers(building construction <b>E04H5/12</b>; enclosed spaces cooled by trickle <b>F25</b>; component parts of trickle coolers <b>F28F25/00</b>)",
+      "count": 10690,
+      "sourceFile": "ipc_F28C.txt",
+      "kind": "ipc"
+    },
+    "F28C1/02": {
+      "code": "F28C1/02",
+      "level": 1,
+      "parent": "F28C1/00",
+      "ja": "逆の流れのみをもつもの",
+      "en": "with counter-current only",
+      "count": 2013,
+      "sourceFile": "ipc_F28C.txt",
+      "kind": "ipc"
+    },
+    "F28C1/04": {
+      "code": "F28C1/04",
+      "level": 1,
+      "parent": "F28C1/00",
+      "ja": "交さする流れのみをもつもの",
+      "en": "with cross-current only",
+      "count": 1081,
+      "sourceFile": "ipc_F28C.txt",
+      "kind": "ipc"
+    },
+    "F28C1/06": {
+      "code": "F28C1/06",
+      "level": 1,
+      "parent": "F28C1/00",
+      "ja": "逆の流れおよび交さする流れの両方をもつもの",
+      "en": "with both counter-current and cross-current",
+      "count": 282,
+      "sourceFile": "ipc_F28C.txt",
+      "kind": "ipc"
+    },
+    "F28C1/08": {
+      "code": "F28C1/08",
+      "level": 1,
+      "parent": "F28C1/00",
+      "ja": "排出蒸気から熱を回収する装置",
+      "en": "Arrangements for recovering heat from exhaust steam",
+      "count": 178,
+      "sourceFile": "ipc_F28C.txt",
+      "kind": "ipc"
+    },
+    "F28C1/10": {
+      "code": "F28C1/10",
+      "level": 1,
+      "parent": "F28C1/00",
+      "ja": "音を抑制する装置［５］",
+      "en": "Arrangements for suppressing noise",
+      "count": 1405,
+      "sourceFile": "ipc_F28C.txt",
+      "kind": "ipc"
+    },
+    "F28C1/12": {
+      "code": "F28C1/12",
+      "level": 1,
+      "parent": "F28C1/00",
+      "ja": "氷結による弊害を防止する装置［３］",
+      "en": "Arrangements for preventing clogging by frost",
+      "count": 580,
+      "sourceFile": "ipc_F28C.txt",
+      "kind": "ipc"
+    },
+    "F28C1/14": {
+      "code": "F28C1/14",
+      "level": 1,
+      "parent": "F28C1/00",
+      "ja": "直接接触しない熱交換をも含むもの［３］",
+      "en": "comprising also a non-direct contact heat exchange",
+      "count": 2977,
+      "sourceFile": "ipc_F28C.txt",
+      "kind": "ipc"
+    },
+    "F28C1/16": {
+      "code": "F28C1/16",
+      "level": 1,
+      "parent": "F28C1/00",
+      "ja": "クーラー外で，凝縮，沈澱またはミストの生成を防止する装置（Ｆ２８Ｃ１／１４が優先）［３］",
+      "en": "Arrangements for preventing condensation, precipitation or mist formation, outside the cooler(<b>F28C1/14</b> takes precedence)",
+      "count": 1755,
+      "sourceFile": "ipc_F28C.txt",
+      "kind": "ipc"
+    },
+    "F28C3/00": {
+      "code": "F28C3/00",
+      "level": 0,
+      "parent": "F28C",
+      "ja": "その他の直接接触による熱交換装置",
+      "en": "Other direct-contact heat-exchange apparatus",
+      "count": 889,
+      "sourceFile": "ipc_F28C.txt",
+      "kind": "ipc"
+    },
+    "F28C3/02": {
+      "code": "F28C3/02",
+      "level": 1,
+      "parent": "F28C3/00",
+      "ja": "熱交換媒体が共に気体または蒸気であるもの",
+      "en": "the heat-exchange media both being gases or vapours",
+      "count": 544,
+      "sourceFile": "ipc_F28C.txt",
+      "kind": "ipc"
+    },
+    "F28C3/04": {
+      "code": "F28C3/04",
+      "level": 1,
+      "parent": "F28C3/00",
+      "ja": "熱交換媒体が共に液体であるもの",
+      "en": "the heat-exchange media both being liquids",
+      "count": 645,
+      "sourceFile": "ipc_F28C.txt",
+      "kind": "ipc"
+    },
+    "F28C3/06": {
+      "code": "F28C3/06",
+      "level": 1,
+      "parent": "F28C3/00",
+      "ja": "熱交換媒体が液体および気体または蒸気であるもの（蒸気を冷却するための調節器Ｆ２２）",
+      "en": "the heat-exchange media being a liquid and a gas or vapour(temperators for cooling steam <b>F22</b>)",
+      "count": 3915,
+      "sourceFile": "ipc_F28C.txt",
+      "kind": "ipc"
+    },
+    "F28C3/08": {
+      "code": "F28C3/08",
+      "level": 2,
+      "parent": "F28C3/06",
+      "ja": "状態の変化，例．吸収，蒸発，凝縮，をもつもの（圧力下に蒸気を発生させるものＦ２２）",
+      "en": "with change of state, e.g. absorption, evaporation, condensation(generating steam under pressure <b>F22</b>)",
+      "count": 2336,
+      "sourceFile": "ipc_F28C.txt",
+      "kind": "ipc"
+    },
+    "F28C3/10": {
+      "code": "F28C3/10",
+      "level": 1,
+      "parent": "F28C3/00",
+      "ja": "少なくとも１つの熱交換媒体が流動固体，例．粉粒状物質，であるもの",
+      "en": "one heat-exchange medium at least being a fluent solid, e.g. a particulate material",
+      "count": 266,
+      "sourceFile": "ipc_F28C.txt",
+      "kind": "ipc"
+    },
+    "F28C3/12": {
+      "code": "F28C3/12",
+      "level": 2,
+      "parent": "F28C3/10",
+      "ja": "熱交換媒体が粉粒状物質および気体，蒸気または液体であるもの",
+      "en": "the heat-exchange medium being a particulate material and a gas, vapour, or liquid",
+      "count": 1023,
+      "sourceFile": "ipc_F28C.txt",
+      "kind": "ipc"
+    },
+    "F28C3/14": {
+      "code": "F28C3/14",
+      "level": 3,
+      "parent": "F28C3/12",
+      "ja": "粉粒状物質が重力によって落下するもの，例．管を降下するもの",
+      "en": "the particulate material moving by gravity, e.g. down a tube",
+      "count": 857,
+      "sourceFile": "ipc_F28C.txt",
+      "kind": "ipc"
+    },
+    "F28C3/16": {
+      "code": "F28C3/16",
+      "level": 3,
+      "parent": "F28C3/12",
+      "ja": "粉粒状物質が床を形成しているもの，例．振動する棚上を揺動するもの",
+      "en": "the particulate material forming a bed, e.g. fluidised, on vibratory sieves",
+      "count": 806,
+      "sourceFile": "ipc_F28C.txt",
+      "kind": "ipc"
+    },
+    "F28C3/18": {
+      "code": "F28C3/18",
+      "level": 3,
+      "parent": "F28C3/12",
+      "ja": "粉粒状物質が回転ドラム中に含まれているもの",
+      "en": "the particulate material being contained in rotating drums",
+      "count": 440,
+      "sourceFile": "ipc_F28C.txt",
+      "kind": "ipc"
+    }
+  }
+}

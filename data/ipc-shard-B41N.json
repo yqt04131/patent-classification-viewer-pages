@@ -1,0 +1,336 @@
+{
+  "generatedAt": "2026-03-20T02:17:46.191Z",
+  "total": 33,
+  "entries": {
+    "B41N": {
+      "code": "B41N",
+      "level": 0,
+      "parent": "B41",
+      "ja": "印刷版またはフォイル（感光性材料Ｇ０３）；印刷，インキ付け，湿し等，印刷機に使用される表面用材料；その表面の使用準備または保存",
+      "en": "PRINTING PLATES OR FOILS(photosensitive materials <b>G03</b>);MATERIALS FOR SURFACES USED IN PRINTING MACHINES FOR PRINTING, INKING, DAMPING, OR THE LIKE; PREPARING SUCH SURFACES FOR USE OR CONSERVING THEM",
+      "count": 269,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B41": {
+      "code": "B41",
+      "level": 0,
+      "parent": "B",
+      "ja": "印刷；線画機；タイプライター；スタンプ［４］",
+      "en": "PRINTING; LINING MACHINES; TYPEWRITERS; STAMPS",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B": {
+      "code": "B",
+      "level": 0,
+      "parent": null,
+      "ja": "処理操作；運輸",
+      "en": "PERFORMING OPERATIONS; TRANSPORTING",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B41N1/00": {
+      "code": "B41N1/00",
+      "level": 0,
+      "parent": "B41N",
+      "ja": "印刷版またはフォイル；その材料",
+      "en": "Printing plates or foils; Materials therefor",
+      "count": 1410,
+      "sourceFile": "ipc_B41N.txt",
+      "kind": "ipc"
+    },
+    "B41N1/02": {
+      "code": "B41N1/02",
+      "level": 1,
+      "parent": "B41N1/00",
+      "ja": "石",
+      "en": "made of stone",
+      "count": 44,
+      "sourceFile": "ipc_B41N.txt",
+      "kind": "ipc"
+    },
+    "B41N1/04": {
+      "code": "B41N1/04",
+      "level": 1,
+      "parent": "B41N1/00",
+      "ja": "金属",
+      "en": "metallic",
+      "count": 364,
+      "sourceFile": "ipc_B41N.txt",
+      "kind": "ipc"
+    },
+    "B41N1/06": {
+      "code": "B41N1/06",
+      "level": 2,
+      "parent": "B41N1/04",
+      "ja": "凸版印刷または凹版印刷用",
+      "en": "for relief printing or intaglio printing",
+      "count": 1133,
+      "sourceFile": "ipc_B41N.txt",
+      "kind": "ipc"
+    },
+    "B41N1/08": {
+      "code": "B41N1/08",
+      "level": 2,
+      "parent": "B41N1/04",
+      "ja": "平版印刷用",
+      "en": "for lithographic printing",
+      "count": 2024,
+      "sourceFile": "ipc_B41N.txt",
+      "kind": "ipc"
+    },
+    "B41N1/10": {
+      "code": "B41N1/10",
+      "level": 3,
+      "parent": "B41N1/08",
+      "ja": "多層",
+      "en": "multiple",
+      "count": 281,
+      "sourceFile": "ipc_B41N.txt",
+      "kind": "ipc"
+    },
+    "B41N1/12": {
+      "code": "B41N1/12",
+      "level": 1,
+      "parent": "B41N1/00",
+      "ja": "石以外の非金属",
+      "en": "non-metallic other than stone",
+      "count": 2175,
+      "sourceFile": "ipc_B41N.txt",
+      "kind": "ipc"
+    },
+    "B41N1/14": {
+      "code": "B41N1/14",
+      "level": 2,
+      "parent": "B41N1/12",
+      "ja": "平版印刷フォイル",
+      "en": "Lithographic printing foils",
+      "count": 4573,
+      "sourceFile": "ipc_B41N.txt",
+      "kind": "ipc"
+    },
+    "B41N1/16": {
+      "code": "B41N1/16",
+      "level": 1,
+      "parent": "B41N1/00",
+      "ja": "わん曲印刷版，特にシリンダー",
+      "en": "Curved printing plates, especially cylinders",
+      "count": 289,
+      "sourceFile": "ipc_B41N.txt",
+      "kind": "ipc"
+    },
+    "B41N1/18": {
+      "code": "B41N1/18",
+      "level": 2,
+      "parent": "B41N1/16",
+      "ja": "石から成るもの",
+      "en": "made of stone",
+      "count": 15,
+      "sourceFile": "ipc_B41N.txt",
+      "kind": "ipc"
+    },
+    "B41N1/20": {
+      "code": "B41N1/20",
+      "level": 2,
+      "parent": "B41N1/16",
+      "ja": "金属から成るもの",
+      "en": "made of metal",
+      "count": 486,
+      "sourceFile": "ipc_B41N.txt",
+      "kind": "ipc"
+    },
+    "B41N1/22": {
+      "code": "B41N1/22",
+      "level": 2,
+      "parent": "B41N1/16",
+      "ja": "他の物質から成るもの",
+      "en": "made of other substances",
+      "count": 535,
+      "sourceFile": "ipc_B41N.txt",
+      "kind": "ipc"
+    },
+    "B41N1/24": {
+      "code": "B41N1/24",
+      "level": 1,
+      "parent": "B41N1/00",
+      "ja": "ステンシル；ステンシル材料；その支持体（事務用または他の商業用孔版印刷装置Ｂ４１Ｌ１３／００）",
+      "en": "Stencils; Stencil materials; Carriers therefor(stencilling apparatus for office or other commercial use <b>B41L13/00</b>)",
+      "count": 5113,
+      "sourceFile": "ipc_B41N.txt",
+      "kind": "ipc"
+    },
+    "B41N3/00": {
+      "code": "B41N3/00",
+      "level": 0,
+      "parent": "B41N",
+      "ja": "印刷版の使用準備または保存",
+      "en": "Preparing for use or conserving printing surfaces",
+      "count": 2318,
+      "sourceFile": "ipc_B41N.txt",
+      "kind": "ipc"
+    },
+    "B41N3/03": {
+      "code": "B41N3/03",
+      "level": 1,
+      "parent": "B41N3/00",
+      "ja": "化学的または電気的前処理［５］",
+      "en": "Chemical or electrical pretreatment",
+      "count": 2339,
+      "sourceFile": "ipc_B41N.txt",
+      "kind": "ipc"
+    },
+    "B41N3/04": {
+      "code": "B41N3/04",
+      "level": 1,
+      "parent": "B41N3/00",
+      "ja": "機械的手段による砂目立または研磨（化学的砂目立Ｂ４１Ｎ３／０３）［５］",
+      "en": "Graining or abrasion by mechanical means(chemical graining <b>B41N3/03</b>)",
+      "count": 434,
+      "sourceFile": "ipc_B41N.txt",
+      "kind": "ipc"
+    },
+    "B41N3/06": {
+      "code": "B41N3/06",
+      "level": 1,
+      "parent": "B41N3/00",
+      "ja": "洗浄剤を使用するもの",
+      "en": "by use of detergents",
+      "count": 358,
+      "sourceFile": "ipc_B41N.txt",
+      "kind": "ipc"
+    },
+    "B41N3/08": {
+      "code": "B41N3/08",
+      "level": 1,
+      "parent": "B41N3/00",
+      "ja": "湿し；平板印刷版の中和化または類似の変異処理［５］",
+      "en": "Damping; Neutralising or similar differentiation treatments of lithographic printing formes",
+      "count": 2100,
+      "sourceFile": "ipc_B41N.txt",
+      "kind": "ipc"
+    },
+    "B41N6/00": {
+      "code": "B41N6/00",
+      "level": 0,
+      "parent": "B41N",
+      "ja": "台付板；メイクレディ装置，例．下張り紙，上張り紙；化学的手段により取付けるもの，例．硬化［５］",
+      "en": "Mounting boards; Make-ready devices, e.g. underlays, overlays; Attaching by chemical means, e.g. vulcanising",
+      "count": 583,
+      "sourceFile": "ipc_B41N.txt",
+      "kind": "ipc"
+    },
+    "B41N6/02": {
+      "code": "B41N6/02",
+      "level": 1,
+      "parent": "B41N6/00",
+      "ja": "台付板上へ印刷版を固定する化学的手段［５］",
+      "en": "Chemical means for fastening printing formes on mounting boards",
+      "count": 184,
+      "sourceFile": "ipc_B41N.txt",
+      "kind": "ipc"
+    },
+    "B41N7/00": {
+      "code": "B41N7/00",
+      "level": 0,
+      "parent": "B41N",
+      "ja": "印刷機のローラー用シエル",
+      "en": "Shells for rollers of printing machines",
+      "count": 728,
+      "sourceFile": "ipc_B41N.txt",
+      "kind": "ipc"
+    },
+    "B41N7/02": {
+      "code": "B41N7/02",
+      "level": 1,
+      "parent": "B41N7/00",
+      "ja": "レザー",
+      "en": "of leather",
+      "count": 22,
+      "sourceFile": "ipc_B41N.txt",
+      "kind": "ipc"
+    },
+    "B41N7/04": {
+      "code": "B41N7/04",
+      "level": 1,
+      "parent": "B41N7/00",
+      "ja": "湿しローラー用",
+      "en": "for damping rollers",
+      "count": 349,
+      "sourceFile": "ipc_B41N.txt",
+      "kind": "ipc"
+    },
+    "B41N7/06": {
+      "code": "B41N7/06",
+      "level": 1,
+      "parent": "B41N7/00",
+      "ja": "インキ付けローラー用［５］",
+      "en": "for inking rollers",
+      "count": 625,
+      "sourceFile": "ipc_B41N.txt",
+      "kind": "ipc"
+    },
+    "B41N10/00": {
+      "code": "B41N10/00",
+      "level": 0,
+      "parent": "B41N",
+      "ja": "ブランケットまたは類似の被覆；凹版印刷用ワイパーのための被覆（凹版印刷用ワイパーＢ４１Ｆ９／０８）［５］",
+      "en": "Blankets or like coverings; Coverings for wipers for intaglio printing(wipers for intaglio printing <b>B41F9/08</b>)",
+      "count": 682,
+      "sourceFile": "ipc_B41N.txt",
+      "kind": "ipc"
+    },
+    "B41N10/02": {
+      "code": "B41N10/02",
+      "level": 1,
+      "parent": "B41N10/00",
+      "ja": "ブランケット構造［５］",
+      "en": "Blanket structure",
+      "count": 625,
+      "sourceFile": "ipc_B41N.txt",
+      "kind": "ipc"
+    },
+    "B41N10/04": {
+      "code": "B41N10/04",
+      "level": 2,
+      "parent": "B41N10/02",
+      "ja": "多層［５］",
+      "en": "multi-layer",
+      "count": 801,
+      "sourceFile": "ipc_B41N.txt",
+      "kind": "ipc"
+    },
+    "B41N10/06": {
+      "code": "B41N10/06",
+      "level": 2,
+      "parent": "B41N10/02",
+      "ja": "支持体への固定または位置選定を容易にするもの［５］",
+      "en": "facilitating fastening to, or location on, supports",
+      "count": 167,
+      "sourceFile": "ipc_B41N.txt",
+      "kind": "ipc"
+    },
+    "B41N11/00": {
+      "code": "B41N11/00",
+      "level": 0,
+      "parent": "B41N",
+      "ja": "鉛版用紙型",
+      "en": "Stereotype mats",
+      "count": 115,
+      "sourceFile": "ipc_B41N.txt",
+      "kind": "ipc"
+    },
+    "B41N99/00": {
+      "code": "B41N99/00",
+      "level": 0,
+      "parent": "B41N",
+      "ja": "このサブクラスの他のグループに分類されない主題事項［８］",
+      "en": "Subject matter not provided for in other groups of this subclass",
+      "count": 6,
+      "sourceFile": "ipc_B41N.txt",
+      "kind": "ipc"
+    }
+  }
+}

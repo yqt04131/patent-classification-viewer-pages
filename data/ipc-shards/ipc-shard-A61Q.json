@@ -1,0 +1,406 @@
+{
+  "generatedAt": "2026-03-20T02:17:45.962Z",
+  "total": 40,
+  "entries": {
+    "A61Q": {
+      "code": "A61Q",
+      "level": 0,
+      "parent": "A61",
+      "ja": "化粧品または類似化粧品製剤の特殊な使用<br><br><b><ul>注</ul></b><br>注［２０２６．０１］<br>１．国際特許分類［ＩＰＣ］指針の第１０７．２項の趣旨において，このサブクラスは二次分類のためのサブクラスである。従ってこのサブクラスの分類記号は，特許文献に付与される際に分類記号の冒頭に列挙されない。二次分類の分類記号は，発明情報としてかあるいは付加情報としてかのいずれか一方に該当するよう付与できる。<br>２．このサブクラスは，メイングループＡ６１Ｋ８／００，サブクラスＣ１１ＤまたはＣ１２Ｎ，またはクラスＣ０１，Ｃ０７またはＣ０８に既に正確に分類されている化粧品または類似する化粧製品の使用を包含する。<br>３．当該化粧品等をこのサブクラスに分類する際，当該化粧品等が治療活性を有すると述べられている場合，サブクラスＡ６１Ｐにも分類する。<br>４．発明の主題が化粧品または化粧製品の特定の使用のみに関する場合，および発明のこの様な主題の化学構造，化合物，混合物または組成物が既知である場合は注意する。この様な場合発明の主題は，発明情報としてメイングループＡ６１Ｋ８／００またはサブクラスＣ１１Ｄ，およびサブクラスＡ６１Ｑにも分類する。さらに発明のこの様な主題の化学構造，化合物，混合物または組成物，あるいは混合物または組成物の個々の含有物のいずれかが探索調査のための重要な情報に相当する場合，それも付加情報として分類してもよい。",
+      "en": "SPECIFIC USE OF COSMETICS OR SIMILAR TOILETRY PREPARATIONS; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This subclass is for secondary classification in the sense of paragraph 107bis of the Guide to the IPC. Therefore, the classification symbols of this subclass are not listed first when assigned to patent documents. Secondary classification symbols may be assigned for either invention information or additional information, as appropriate.</li><li>This subclass <u>covers</u> the use of cosmetics or similar toiletry preparations already classified as such in main group <b>A61K8/00</b>, in subclasses <b>C11D</b> or <b>C12N</b>, or in classes <b>C01</b>, <b>C07</b> or <b>C08</b>.</li><li>When classifying in this subclass, classification is also made in subclass <b>A61P</b> if the preparation is stated to have therapeutic activity.</li><li>Attention is drawn to cases where the subject of the invention concerns only the specific use of cosmetics or toiletry preparations, and the chemical structure, compound, mixture or composition of this subject of the invention is known. In such cases, classification is made in main group <b>A61K8/00</b> or in subclass <b>C11D</b>, and also in subclass <b>A61Q</b> as invention information. In addition, if the chemical structure, compound, mixture or composition or any individual ingredient of a mixture or composition is considered to represent information of interest for search, it may also be classified as additional information.</li></ul>",
+      "count": 1566,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A61": {
+      "code": "A61",
+      "level": 0,
+      "parent": "A",
+      "ja": "医学または獣医学；衛生学",
+      "en": "MEDICAL OR VETERINARY SCIENCE; HYGIENE",
+      "count": 0,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A": {
+      "code": "A",
+      "level": 0,
+      "parent": null,
+      "ja": "生活必需品",
+      "en": "HUMAN NECESSITIES",
+      "count": 0,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A61Q1/00": {
+      "code": "A61Q1/00",
+      "level": 0,
+      "parent": "A61Q",
+      "ja": "メイクアップ剤，ボディーパウダー；メイクアップの除去剤［８］",
+      "en": "Make-up preparations; Body powders; Preparations for removing make-up",
+      "count": 15162,
+      "sourceFile": "ipc_A61Q.txt",
+      "kind": "ipc"
+    },
+    "A61Q1/02": {
+      "code": "A61Q1/02",
+      "level": 1,
+      "parent": "A61Q1/00",
+      "ja": "皮膚着色剤を含有する製剤，例．顔料（粉末剤Ａ６１Ｑ１／１２）［８］",
+      "en": "Preparations containing skin colorants, e.g. pigments(preparations in powder form <b>A61Q1/12</b>)",
+      "count": 13236,
+      "sourceFile": "ipc_A61Q.txt",
+      "kind": "ipc"
+    },
+    "A61Q1/04": {
+      "code": "A61Q1/04",
+      "level": 2,
+      "parent": "A61Q1/02",
+      "ja": "唇用のもの［８］",
+      "en": "for lips",
+      "count": 6241,
+      "sourceFile": "ipc_A61Q.txt",
+      "kind": "ipc"
+    },
+    "A61Q1/06": {
+      "code": "A61Q1/06",
+      "level": 3,
+      "parent": "A61Q1/04",
+      "ja": "棒口紅［８］",
+      "en": "Lipsticks",
+      "count": 5194,
+      "sourceFile": "ipc_A61Q.txt",
+      "kind": "ipc"
+    },
+    "A61Q1/08": {
+      "code": "A61Q1/08",
+      "level": 2,
+      "parent": "A61Q1/02",
+      "ja": "ほお用のもの，例．ほおべに［８］",
+      "en": "for cheeks, e.g. rouge",
+      "count": 1896,
+      "sourceFile": "ipc_A61Q.txt",
+      "kind": "ipc"
+    },
+    "A61Q1/10": {
+      "code": "A61Q1/10",
+      "level": 2,
+      "parent": "A61Q1/02",
+      "ja": "目用のもの，例．アイライナー，マスカラ［８］",
+      "en": "for eyes, e.g. eyeliner, mascara",
+      "count": 7702,
+      "sourceFile": "ipc_A61Q.txt",
+      "kind": "ipc"
+    },
+    "A61Q1/12": {
+      "code": "A61Q1/12",
+      "level": 1,
+      "parent": "A61Q1/00",
+      "ja": "おしろいまたはボディパウダー，例．装飾または吸収用［８］",
+      "en": "Face or body powders, e.g. for grooming, adorning or absorbing",
+      "count": 9629,
+      "sourceFile": "ipc_A61Q.txt",
+      "kind": "ipc"
+    },
+    "A61Q1/14": {
+      "code": "A61Q1/14",
+      "level": 1,
+      "parent": "A61Q1/00",
+      "ja": "メイクアップの除去剤［８］",
+      "en": "Preparations for removing make-up",
+      "count": 4653,
+      "sourceFile": "ipc_A61Q.txt",
+      "kind": "ipc"
+    },
+    "A61Q3/00": {
+      "code": "A61Q3/00",
+      "level": 0,
+      "parent": "A61Q",
+      "ja": "マニキュアまたはペディキュア剤［８］",
+      "en": "Manicure or pedicure preparations",
+      "count": 1922,
+      "sourceFile": "ipc_A61Q.txt",
+      "kind": "ipc"
+    },
+    "A61Q3/02": {
+      "code": "A61Q3/02",
+      "level": 1,
+      "parent": "A61Q3/00",
+      "ja": "爪被覆剤［８］",
+      "en": "Nail coatings",
+      "count": 3822,
+      "sourceFile": "ipc_A61Q.txt",
+      "kind": "ipc"
+    },
+    "A61Q3/04": {
+      "code": "A61Q3/04",
+      "level": 1,
+      "parent": "A61Q3/00",
+      "ja": "爪被覆剤除去剤［８］",
+      "en": "Nail coating removers",
+      "count": 535,
+      "sourceFile": "ipc_A61Q.txt",
+      "kind": "ipc"
+    },
+    "A61Q5/00": {
+      "code": "A61Q5/00",
+      "level": 0,
+      "parent": "A61Q",
+      "ja": "毛髪手入れ用製剤［８］",
+      "en": "Preparations for care of the hair",
+      "count": 27619,
+      "sourceFile": "ipc_A61Q.txt",
+      "kind": "ipc"
+    },
+    "A61Q5/02": {
+      "code": "A61Q5/02",
+      "level": 1,
+      "parent": "A61Q5/00",
+      "ja": "毛髪洗浄剤［８］",
+      "en": "Preparations for cleaning the hair",
+      "count": 24232,
+      "sourceFile": "ipc_A61Q.txt",
+      "kind": "ipc"
+    },
+    "A61Q5/04": {
+      "code": "A61Q5/04",
+      "level": 1,
+      "parent": "A61Q5/00",
+      "ja": "毛髪パーマネントウェーブ剤または縮毛矯正剤［８］",
+      "en": "Preparations for permanent waving or straightening the hair",
+      "count": 4387,
+      "sourceFile": "ipc_A61Q.txt",
+      "kind": "ipc"
+    },
+    "A61Q5/06": {
+      "code": "A61Q5/06",
+      "level": 1,
+      "parent": "A61Q5/00",
+      "ja": "整髪剤，例．一時的な整形または着色［８］",
+      "en": "Preparations for styling the hair, e.g. by temporary shaping or colouring",
+      "count": 11204,
+      "sourceFile": "ipc_A61Q.txt",
+      "kind": "ipc"
+    },
+    "A61Q5/08": {
+      "code": "A61Q5/08",
+      "level": 1,
+      "parent": "A61Q5/00",
+      "ja": "毛髪脱色剤［８］",
+      "en": "Preparations for bleaching the hair",
+      "count": 2757,
+      "sourceFile": "ipc_A61Q.txt",
+      "kind": "ipc"
+    },
+    "A61Q5/10": {
+      "code": "A61Q5/10",
+      "level": 1,
+      "parent": "A61Q5/00",
+      "ja": "永久染毛剤［８］",
+      "en": "Preparations for permanently dyeing the hair",
+      "count": 11497,
+      "sourceFile": "ipc_A61Q.txt",
+      "kind": "ipc"
+    },
+    "A61Q5/12": {
+      "code": "A61Q5/12",
+      "level": 1,
+      "parent": "A61Q5/00",
+      "ja": "ヘアーコンディショナーを含む製剤［８］",
+      "en": "Preparations containing hair conditioners",
+      "count": 17111,
+      "sourceFile": "ipc_A61Q.txt",
+      "kind": "ipc"
+    },
+    "A61Q7/00": {
+      "code": "A61Q7/00",
+      "level": 0,
+      "parent": "A61Q",
+      "ja": "発毛促進あるいは発毛抑制をする剤［８］",
+      "en": "Preparations for affecting hair growth",
+      "count": 11611,
+      "sourceFile": "ipc_A61Q.txt",
+      "kind": "ipc"
+    },
+    "A61Q7/02": {
+      "code": "A61Q7/02",
+      "level": 1,
+      "parent": "A61Q7/00",
+      "ja": "発毛抑制剤または発毛不活性剤［８］",
+      "en": "Preparations for inhibiting or slowing hair growth",
+      "count": 547,
+      "sourceFile": "ipc_A61Q.txt",
+      "kind": "ipc"
+    },
+    "A61Q9/00": {
+      "code": "A61Q9/00",
+      "level": 0,
+      "parent": "A61Q",
+      "ja": "除毛剤，または除毛補助剤［８］",
+      "en": "Preparations for removing hair or for aiding hair removal",
+      "count": 433,
+      "sourceFile": "ipc_A61Q.txt",
+      "kind": "ipc"
+    },
+    "A61Q9/02": {
+      "code": "A61Q9/02",
+      "level": 1,
+      "parent": "A61Q9/00",
+      "ja": "ひげそり剤［８］",
+      "en": "Shaving preparations",
+      "count": 1788,
+      "sourceFile": "ipc_A61Q.txt",
+      "kind": "ipc"
+    },
+    "A61Q9/04": {
+      "code": "A61Q9/04",
+      "level": 1,
+      "parent": "A61Q9/00",
+      "ja": "脱毛剤［８］",
+      "en": "Depilatories",
+      "count": 1247,
+      "sourceFile": "ipc_A61Q.txt",
+      "kind": "ipc"
+    },
+    "A61Q11/00": {
+      "code": "A61Q11/00",
+      "level": 0,
+      "parent": "A61Q",
+      "ja": "歯，口腔または入れ歯の手入れ用製剤，例．歯磨剤，練り歯磨き；口内洗浄剤［８］",
+      "en": "Preparations for care of the teeth, of the oral cavity or of dentures, e.g. dentifrices or toothpastes; Mouth rinses",
+      "count": 27553,
+      "sourceFile": "ipc_A61Q.txt",
+      "kind": "ipc"
+    },
+    "A61Q11/02": {
+      "code": "A61Q11/02",
+      "level": 1,
+      "parent": "A61Q11/00",
+      "ja": "入れ歯の防臭，漂白，または消毒用製剤［８］",
+      "en": "Preparations for deodorising, bleaching or disinfecting dentures",
+      "count": 1368,
+      "sourceFile": "ipc_A61Q.txt",
+      "kind": "ipc"
+    },
+    "A61Q13/00": {
+      "code": "A61Q13/00",
+      "level": 0,
+      "parent": "A61Q",
+      "ja": "香料用の製剤または添加剤（精油または香料それ自体Ｃ１１Ｂ９／００）［８］",
+      "en": "Formulations or additives for perfume preparations(essential oils or perfumes <u>per se</u><b>C11B9/00</b>)",
+      "count": 8816,
+      "sourceFile": "ipc_A61Q.txt",
+      "kind": "ipc"
+    },
+    "A61Q15/00": {
+      "code": "A61Q15/00",
+      "level": 0,
+      "parent": "A61Q",
+      "ja": "制汗剤または身体の防臭剤（空気の脱臭用品Ａ６１Ｌ９／００）［８］",
+      "en": "Anti-perspirants or body deodorants(deodorisation of air <b>A61L9/00</b>)",
+      "count": 9131,
+      "sourceFile": "ipc_A61Q.txt",
+      "kind": "ipc"
+    },
+    "A61Q17/00": {
+      "code": "A61Q17/00",
+      "level": 0,
+      "parent": "A61Q",
+      "ja": "防護剤；外部の影響，例．日光，Ｘ線もしくは他の有害光線，腐食物質，バクテリア，またはこん虫の針，から防護するため皮膚に直接接触させる製剤［８］",
+      "en": "Barrier preparations; Preparations brought into direct contact with the skin for affording protection against external influences, e.g. sunlight, X-rays or other harmful rays, corrosive materials, bacteria or insect stings",
+      "count": 18759,
+      "sourceFile": "ipc_A61Q.txt",
+      "kind": "ipc"
+    },
+    "A61Q17/02": {
+      "code": "A61Q17/02",
+      "level": 1,
+      "parent": "A61Q17/00",
+      "ja": "虫よけ剤を含むもの［８］",
+      "en": "containing insect repellants",
+      "count": 2580,
+      "sourceFile": "ipc_A61Q.txt",
+      "kind": "ipc"
+    },
+    "A61Q17/04": {
+      "code": "A61Q17/04",
+      "level": 1,
+      "parent": "A61Q17/00",
+      "ja": "日光または他の光線から保護するための局所用製剤；局所用日焼け剤［８］",
+      "en": "Topical preparations for affording protection against sunlight or other radiation; Topical sun tanning preparations",
+      "count": 22535,
+      "sourceFile": "ipc_A61Q.txt",
+      "kind": "ipc"
+    },
+    "A61Q19/00": {
+      "code": "A61Q19/00",
+      "level": 0,
+      "parent": "A61Q",
+      "ja": "スキンケア剤［８］",
+      "en": "Preparations for care of the skin",
+      "count": 125634,
+      "sourceFile": "ipc_A61Q.txt",
+      "kind": "ipc"
+    },
+    "A61Q19/02": {
+      "code": "A61Q19/02",
+      "level": 1,
+      "parent": "A61Q19/00",
+      "ja": "化学的に皮膚を漂白または白化するためのもの［８］",
+      "en": "for chemically bleaching or whitening the skin",
+      "count": 31020,
+      "sourceFile": "ipc_A61Q.txt",
+      "kind": "ipc"
+    },
+    "A61Q19/04": {
+      "code": "A61Q19/04",
+      "level": 1,
+      "parent": "A61Q19/00",
+      "ja": "化学的に皮膚を日焼けさせるためのもの（局所用日焼け剤Ａ６１Ｑ１７／０４）［８］",
+      "en": "for chemically tanning the skin(topical sun tanning preparations <b>A61Q17/04</b>)",
+      "count": 1685,
+      "sourceFile": "ipc_A61Q.txt",
+      "kind": "ipc"
+    },
+    "A61Q19/06": {
+      "code": "A61Q19/06",
+      "level": 1,
+      "parent": "A61Q19/00",
+      "ja": "抗セルライト用のもの［８］",
+      "en": "for countering cellulitis",
+      "count": 1888,
+      "sourceFile": "ipc_A61Q.txt",
+      "kind": "ipc"
+    },
+    "A61Q19/08": {
+      "code": "A61Q19/08",
+      "level": 1,
+      "parent": "A61Q19/00",
+      "ja": "老化防止剤［８］",
+      "en": "Anti-ageing preparations",
+      "count": 44635,
+      "sourceFile": "ipc_A61Q.txt",
+      "kind": "ipc"
+    },
+    "A61Q19/10": {
+      "code": "A61Q19/10",
+      "level": 1,
+      "parent": "A61Q19/00",
+      "ja": "洗浄または浴用剤［８］",
+      "en": "Washing or bathing preparations",
+      "count": 33411,
+      "sourceFile": "ipc_A61Q.txt",
+      "kind": "ipc"
+    },
+    "A61Q90/00": {
+      "code": "A61Q90/00",
+      "level": 0,
+      "parent": "A61Q",
+      "ja": "このサブクラスの他のグループには分類されない特殊用途のための化粧品または類似化粧品製剤［２００９．０１］<br><br><b><ul>注</ul></b><br>このグループへの分類は，化粧品または類似化粧品製剤の特殊な使用が明白に開示されているが，それをこのサブクラスの先行するグループのいずれに分類することも適切でない場合にのみ行われる。",
+      "en": "Cosmetics or similar toiletry preparations for specific uses not provided for in other groups of this subclass; <br><br><b><u>Note(s)</u></b><br><br><ul><li>Classification is only made in this group when a specific use for a cosmetic or similar toiletry preparations has been clearly disclosed, the specific use not being appropriate to any of the preceding groups in this subclass.</li></ul>",
+      "count": 1544,
+      "sourceFile": "ipc_A61Q.txt",
+      "kind": "ipc"
+    }
+  }
+}

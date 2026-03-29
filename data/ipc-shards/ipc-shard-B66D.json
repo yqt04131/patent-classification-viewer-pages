@@ -1,0 +1,786 @@
+{
+  "generatedAt": "2026-03-20T02:17:46.293Z",
+  "total": 78,
+  "entries": {
+    "B66D": {
+      "code": "B66D",
+      "level": 0,
+      "parent": "B66",
+      "ja": "キヤプスタン；ウインチ；タックル，例．プーリ・ブロック，ホイスト（供給または貯蔵の目的のための巻上または巻下ロープまたはケーブルＢ６５Ｈ；もち上げるためのロープまたはケーブルの巻上または巻下装置Ｂ６６Ｂ；吊り下げた足場に特に適合した巻上装置Ｅ０４Ｇ３／３２）<br><br><b><ul>注</ul></b><br>このサブクラスは以下のものを包含する：<br>―リフトのケージを除くすべての荷を移動するためのロープ，ケーブル，またはチェーンの巻上または巻下装置，例．凌渫のためのウインチ；<br>―巻胴の回転運動を，阻止または，防止するための応用を特徴とするブレーキまたはラチェット装置",
+      "en": "CAPSTANS; WINCHES; TACKLES, e.g. PULLEY BLOCKS; HOISTS(winding or unwinding ropes or cables for feeding or storage purposes <b>B65H</b>; rope or cable-winding or unwinding mechanisms for lifts <b>B66B</b>; hoisting devices specially adapted for suspended scaffolds <b>E04G3/32</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>This subclass <u>covers</u>:<ul><li>rope, cable, or chain winding or unwinding mechanisms for moving all loads except lift cages, e.g. winches for dredges;</li><li>braking or detent devices characterised by their application for retarding, or preventing, rotary movement of a winding drum or barrel.</li></ul></li></ul>",
+      "count": 1134,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B66": {
+      "code": "B66",
+      "level": 0,
+      "parent": "B",
+      "ja": "巻上装置；揚重装置；牽引装置",
+      "en": "HOISTING; LIFTING; HAULING",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B": {
+      "code": "B",
+      "level": 0,
+      "parent": null,
+      "ja": "処理操作；運輸",
+      "en": "PERFORMING OPERATIONS; TRANSPORTING",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B66D1/00": {
+      "code": "B66D1/00",
+      "level": 0,
+      "parent": "B66D",
+      "ja": "ロープ，ケーブル，またはチェーンの巻上装置；キヤプスタン（携帯または移動用リフトまたは牽引装置の応用Ｂ６６Ｄ３／００）",
+      "en": "Rope, cable, or chain winding mechanisms; Capstans(portable or mobile lifting or hauling appliances <b>B66D3/00</b>)",
+      "count": 3327,
+      "sourceFile": "ipc_B66D.txt",
+      "kind": "ipc"
+    },
+    "B66D1/02": {
+      "code": "B66D1/02",
+      "level": 1,
+      "parent": "B66D1/00",
+      "ja": "駆動装置",
+      "en": "Driving gear",
+      "count": 1388,
+      "sourceFile": "ipc_B66D.txt",
+      "kind": "ipc"
+    },
+    "B66D1/04": {
+      "code": "B66D1/04",
+      "level": 2,
+      "parent": "B66D1/02",
+      "ja": "手動的に駆動されるもの",
+      "en": "manually operated",
+      "count": 2926,
+      "sourceFile": "ipc_B66D.txt",
+      "kind": "ipc"
+    },
+    "B66D1/06": {
+      "code": "B66D1/06",
+      "level": 3,
+      "parent": "B66D1/04",
+      "ja": "期待しないクランク回転とその後の負荷の降下を防止するための安全クランク",
+      "en": "Safety cranks for preventing unwanted crank rotation and subsequent lowering of the loads",
+      "count": 723,
+      "sourceFile": "ipc_B66D.txt",
+      "kind": "ipc"
+    },
+    "B66D1/08": {
+      "code": "B66D1/08",
+      "level": 2,
+      "parent": "B66D1/02",
+      "ja": "流体モータが組み込まれているもの",
+      "en": "incorporating fluid motors",
+      "count": 3036,
+      "sourceFile": "ipc_B66D.txt",
+      "kind": "ipc"
+    },
+    "B66D1/10": {
+      "code": "B66D1/10",
+      "level": 3,
+      "parent": "B66D1/08",
+      "ja": "蒸気駆動装置",
+      "en": "Steam driving gear",
+      "count": 82,
+      "sourceFile": "ipc_B66D.txt",
+      "kind": "ipc"
+    },
+    "B66D1/12": {
+      "code": "B66D1/12",
+      "level": 2,
+      "parent": "B66D1/02",
+      "ja": "電動モータが組み込まれているもの",
+      "en": "incorporating electric motors",
+      "count": 13661,
+      "sourceFile": "ipc_B66D.txt",
+      "kind": "ipc"
+    },
+    "B66D1/14": {
+      "code": "B66D1/14",
+      "level": 2,
+      "parent": "B66D1/02",
+      "ja": "動力源と巻胴との間の動力伝達装置",
+      "en": "Power transmissions between power sources and drums or barrels",
+      "count": 6686,
+      "sourceFile": "ipc_B66D.txt",
+      "kind": "ipc"
+    },
+    "B66D1/16": {
+      "code": "B66D1/16",
+      "level": 3,
+      "parent": "B66D1/14",
+      "ja": "自由に回転可能な巻胴（Ｂ６６Ｄ１／２４が優先）",
+      "en": "the drums or barrels being freely rotatable(<b>B66D1/24</b> takes precedence)",
+      "count": 709,
+      "sourceFile": "ipc_B66D.txt",
+      "kind": "ipc"
+    },
+    "B66D1/18": {
+      "code": "B66D1/18",
+      "level": 4,
+      "parent": "B66D1/16",
+      "ja": "かつ連続的に回転し逆回転が不可能な原動機から動力が伝達されるもの",
+      "en": "and the power being transmitted from a continuously-operating and irreversible prime mover",
+      "count": 95,
+      "sourceFile": "ipc_B66D.txt",
+      "kind": "ipc"
+    },
+    "B66D1/20": {
+      "code": "B66D1/20",
+      "level": 3,
+      "parent": "B66D1/14",
+      "ja": "チェーン，ベルト，または摩擦駆動，例．協同して働く滑車",
+      "en": "Chain, belt, or friction drives, e.g. incorporating sheaves",
+      "count": 1730,
+      "sourceFile": "ipc_B66D.txt",
+      "kind": "ipc"
+    },
+    "B66D1/22": {
+      "code": "B66D1/22",
+      "level": 3,
+      "parent": "B66D1/14",
+      "ja": "遊星または差動歯車装置（グラブバケツトに作用するためのものＢ６６Ｄ１／７０）",
+      "en": "Planetary or differential gearings(for actuating grab buckets <b>B66D1/70</b>)",
+      "count": 2249,
+      "sourceFile": "ipc_B66D.txt",
+      "kind": "ipc"
+    },
+    "B66D1/24": {
+      "code": "B66D1/24",
+      "level": 3,
+      "parent": "B66D1/14",
+      "ja": "巻胴回転の変速または逆転のためのもの",
+      "en": "for varying speed, or reversing direction of rotation, of drums or barrels",
+      "count": 801,
+      "sourceFile": "ipc_B66D.txt",
+      "kind": "ipc"
+    },
+    "B66D1/26": {
+      "code": "B66D1/26",
+      "level": 1,
+      "parent": "B66D1/00",
+      "ja": "複胴をもつもの",
+      "en": "having several drums or barrels",
+      "count": 3444,
+      "sourceFile": "ipc_B66D.txt",
+      "kind": "ipc"
+    },
+    "B66D1/28": {
+      "code": "B66D1/28",
+      "level": 1,
+      "parent": "B66D1/00",
+      "ja": "他の構造上の細部",
+      "en": "Other constructional details",
+      "count": 14143,
+      "sourceFile": "ipc_B66D.txt",
+      "kind": "ipc"
+    },
+    "B66D1/30": {
+      "code": "B66D1/30",
+      "level": 2,
+      "parent": "B66D1/28",
+      "ja": "ロープ，ケーブル，またはチェーン巻胴",
+      "en": "Rope, cable, or chain drums or barrels",
+      "count": 4881,
+      "sourceFile": "ipc_B66D.txt",
+      "kind": "ipc"
+    },
+    "B66D1/34": {
+      "code": "B66D1/34",
+      "level": 3,
+      "parent": "B66D1/30",
+      "ja": "巻胴へのロープまたはケーブルの付属物",
+      "en": "Attachment of ropes or cables to drums or barrels",
+      "count": 793,
+      "sourceFile": "ipc_B66D.txt",
+      "kind": "ipc"
+    },
+    "B66D1/36": {
+      "code": "B66D1/36",
+      "level": 2,
+      "parent": "B66D1/28",
+      "ja": "ロープまたはケーブルのチェーンの案内，または他の規則的確実な巻取",
+      "en": "Guiding, or otherwise ensuring winding in an orderly manner, of ropes, cables, or chains",
+      "count": 6108,
+      "sourceFile": "ipc_B66D.txt",
+      "kind": "ipc"
+    },
+    "B66D1/38": {
+      "code": "B66D1/38",
+      "level": 3,
+      "parent": "B66D1/36",
+      "ja": "巻胴に対して相対的に動くガイドによるもの（Ｂ６６Ｄ１／３９５が優先）［３］",
+      "en": "by means of guides movable relative to drum or barrel(<b>B66D1/395</b> takes precedence)",
+      "count": 2603,
+      "sourceFile": "ipc_B66D.txt",
+      "kind": "ipc"
+    },
+    "B66D1/39": {
+      "code": "B66D1/39",
+      "level": 3,
+      "parent": "B66D1/36",
+      "ja": "軸方向に移動可能な巻胴によるもの（Ｂ６６Ｄ１／３９５が優先）［３］",
+      "en": "by means of axially-movable drums or barrels(<b>B66D1/395</b> takes precedence)",
+      "count": 353,
+      "sourceFile": "ipc_B66D.txt",
+      "kind": "ipc"
+    },
+    "B66D1/395": {
+      "code": "B66D1/395",
+      "level": 3,
+      "parent": "B66D1/36",
+      "ja": "ロープ，ケーブルまたはチェーンの案内と引張りの両方の作用を生じる手段によるもの［３］",
+      "en": "by means effecting both guiding and tensioning of ropes, cables or chains",
+      "count": 444,
+      "sourceFile": "ipc_B66D.txt",
+      "kind": "ipc"
+    },
+    "B66D1/40": {
+      "code": "B66D1/40",
+      "level": 2,
+      "parent": "B66D1/28",
+      "ja": "制御装置",
+      "en": "Control devices",
+      "count": 1739,
+      "sourceFile": "ipc_B66D.txt",
+      "kind": "ipc"
+    },
+    "B66D1/42": {
+      "code": "B66D1/42",
+      "level": 3,
+      "parent": "B66D1/40",
+      "ja": "自動的でないもの",
+      "en": "non-automatic",
+      "count": 259,
+      "sourceFile": "ipc_B66D.txt",
+      "kind": "ipc"
+    },
+    "B66D1/44": {
+      "code": "B66D1/44",
+      "level": 4,
+      "parent": "B66D1/42",
+      "ja": "空気的または液体的なもの",
+      "en": "pneumatic or hydraulic",
+      "count": 1963,
+      "sourceFile": "ipc_B66D.txt",
+      "kind": "ipc"
+    },
+    "B66D1/46": {
+      "code": "B66D1/46",
+      "level": 4,
+      "parent": "B66D1/42",
+      "ja": "電気的なもの",
+      "en": "electric",
+      "count": 1973,
+      "sourceFile": "ipc_B66D.txt",
+      "kind": "ipc"
+    },
+    "B66D1/48": {
+      "code": "B66D1/48",
+      "level": 3,
+      "parent": "B66D1/40",
+      "ja": "自動的なもの",
+      "en": "automatic",
+      "count": 2514,
+      "sourceFile": "ipc_B66D.txt",
+      "kind": "ipc"
+    },
+    "B66D1/50": {
+      "code": "B66D1/50",
+      "level": 4,
+      "parent": "B66D1/48",
+      "ja": "ロープ，ケーブルまたはチェーンの設定された張力を維持するためのもの，例．引き船用のロープまたはケーブルにおいて，係留のためのチェーンにおいて；曳航または係留用ウインチケーブルの張力制御",
+      "en": "for maintaining predetermined rope, cable, or chain tension, e.g. in ropes or cables for towing craft, in chains for anchors; Warping or mooring winch-cable tension control",
+      "count": 2082,
+      "sourceFile": "ipc_B66D.txt",
+      "kind": "ipc"
+    },
+    "B66D1/52": {
+      "code": "B66D1/52",
+      "level": 4,
+      "parent": "B66D1/48",
+      "ja": "ロープまたはケーブル緊張を変化するためのもの，例．水から船を引上げるとき",
+      "en": "for varying rope or cable tension, e.g. when recovering craft from water",
+      "count": 396,
+      "sourceFile": "ipc_B66D.txt",
+      "kind": "ipc"
+    },
+    "B66D1/54": {
+      "code": "B66D1/54",
+      "level": 1,
+      "parent": "B66D1/00",
+      "ja": "安全装置",
+      "en": "Safety gear",
+      "count": 7686,
+      "sourceFile": "ipc_B66D.txt",
+      "kind": "ipc"
+    },
+    "B66D1/56": {
+      "code": "B66D1/56",
+      "level": 2,
+      "parent": "B66D1/54",
+      "ja": "リミットスイッチの応用",
+      "en": "Adaptations of limit switches",
+      "count": 2008,
+      "sourceFile": "ipc_B66D.txt",
+      "kind": "ipc"
+    },
+    "B66D1/58": {
+      "code": "B66D1/58",
+      "level": 2,
+      "parent": "B66D1/54",
+      "ja": "過負荷に応答するもの",
+      "en": "responsive to excess of load",
+      "count": 1941,
+      "sourceFile": "ipc_B66D.txt",
+      "kind": "ipc"
+    },
+    "B66D1/60": {
+      "code": "B66D1/60",
+      "level": 1,
+      "parent": "B66D1/00",
+      "ja": "特別の目的に適応されるもの",
+      "en": "adapted for special purposes",
+      "count": 5632,
+      "sourceFile": "ipc_B66D.txt",
+      "kind": "ipc"
+    },
+    "B66D1/62": {
+      "code": "B66D1/62",
+      "level": 2,
+      "parent": "B66D1/60",
+      "ja": "グラブバケットに作用するためのもの（クレーンにおける電気的制御Ｂ６６Ｃ１３／３２）",
+      "en": "for actuating grab buckets(electrical control in cranes <b>B66C13/32</b>)",
+      "count": 138,
+      "sourceFile": "ipc_B66D.txt",
+      "kind": "ipc"
+    },
+    "B66D1/64": {
+      "code": "B66D1/64",
+      "level": 3,
+      "parent": "B66D1/62",
+      "ja": "一つのロープまたはチェーンによるもの",
+      "en": "by means of a single rope or chain",
+      "count": 24,
+      "sourceFile": "ipc_B66D.txt",
+      "kind": "ipc"
+    },
+    "B66D1/66": {
+      "code": "B66D1/66",
+      "level": 3,
+      "parent": "B66D1/62",
+      "ja": "一つの原動機によって駆動されるもの",
+      "en": "driven by a single motor",
+      "count": 29,
+      "sourceFile": "ipc_B66D.txt",
+      "kind": "ipc"
+    },
+    "B66D1/68": {
+      "code": "B66D1/68",
+      "level": 3,
+      "parent": "B66D1/62",
+      "ja": "二つの原動機によって駆動されるもの",
+      "en": "driven by two motors",
+      "count": 30,
+      "sourceFile": "ipc_B66D.txt",
+      "kind": "ipc"
+    },
+    "B66D1/70": {
+      "code": "B66D1/70",
+      "level": 3,
+      "parent": "B66D1/62",
+      "ja": "遊星または差動歯車装置を介して駆動されるもの",
+      "en": "driven through planetary or differential gearings",
+      "count": 21,
+      "sourceFile": "ipc_B66D.txt",
+      "kind": "ipc"
+    },
+    "B66D1/72": {
+      "code": "B66D1/72",
+      "level": 2,
+      "parent": "B66D1/60",
+      "ja": "係留チェーンスプロケット；係留キャプスタン",
+      "en": "Anchor-chain sprockets; Anchor capstans",
+      "count": 365,
+      "sourceFile": "ipc_B66D.txt",
+      "kind": "ipc"
+    },
+    "B66D1/74": {
+      "code": "B66D1/74",
+      "level": 2,
+      "parent": "B66D1/60",
+      "ja": "キヤプスタン",
+      "en": "Capstans",
+      "count": 3412,
+      "sourceFile": "ipc_B66D.txt",
+      "kind": "ipc"
+    },
+    "B66D1/76": {
+      "code": "B66D1/76",
+      "level": 3,
+      "parent": "B66D1/74",
+      "ja": "ロープまたはケーブルを貯蔵するための補助巻胴をもつもの",
+      "en": "having auxiliary drums or barrels for storing the ropes or cables",
+      "count": 251,
+      "sourceFile": "ipc_B66D.txt",
+      "kind": "ipc"
+    },
+    "B66D1/78": {
+      "code": "B66D1/78",
+      "level": 3,
+      "parent": "B66D1/74",
+      "ja": "転轍するためのもの，例．操車場",
+      "en": "for shunting, e.g. in marshalling yards",
+      "count": 41,
+      "sourceFile": "ipc_B66D.txt",
+      "kind": "ipc"
+    },
+    "B66D1/80": {
+      "code": "B66D1/80",
+      "level": 2,
+      "parent": "B66D1/60",
+      "ja": "スクレーパのためのもの",
+      "en": "for scrapers",
+      "count": 132,
+      "sourceFile": "ipc_B66D.txt",
+      "kind": "ipc"
+    },
+    "B66D1/82": {
+      "code": "B66D1/82",
+      "level": 2,
+      "parent": "B66D1/60",
+      "ja": "デリックによって回転または巻上げるためのもの",
+      "en": "for slewing and hoisting by means of derricks",
+      "count": 44,
+      "sourceFile": "ipc_B66D.txt",
+      "kind": "ipc"
+    },
+    "B66D3/00": {
+      "code": "B66D3/00",
+      "level": 0,
+      "parent": "B66D",
+      "ja": "携帯または移動用リフトまたは牽引装置",
+      "en": "Portable or mobile lifting or hauling appliances",
+      "count": 2684,
+      "sourceFile": "ipc_B66D.txt",
+      "kind": "ipc"
+    },
+    "B66D3/02": {
+      "code": "B66D3/02",
+      "level": 1,
+      "parent": "B66D3/00",
+      "ja": "主として水平方向に牽引するためのロープ，ケーブル，またはチエーンを操作する手動操作，例．レバー操作，装置（Ｂ６６Ｄ３／０４，Ｂ６６Ｄ３／１２が優先）",
+      "en": "Manually-operated, e.g. lever-actuated, devices operating on ropes, cables, or chains for hauling in a mainly horizontal direction(<b>B66D3/04</b>, <b>B66D3/12</b> take precedence)",
+      "count": 699,
+      "sourceFile": "ipc_B66D.txt",
+      "kind": "ipc"
+    },
+    "B66D3/04": {
+      "code": "B66D3/04",
+      "level": 1,
+      "parent": "B66D3/00",
+      "ja": "荷重が一つまたはそれ以上のプーリを通過するロープ，ケーブル，またはチェンに加わるプーリブロックまたは類似装置，滑車の原理により機械的利点を得るためのもの（滑車，鎖車，ベルト車Ｆ１６Ｈ５５／００）［４］",
+      "en": "Pulley blocks or like devices in which force is applied to a rope, cable or chain, which passes over one or more pulleys, e.g. to obtain mechanical advantage(sheaves, chain wheels, pulleys <b>F16H55/00</b>)",
+      "count": 4458,
+      "sourceFile": "ipc_B66D.txt",
+      "kind": "ipc"
+    },
+    "B66D3/06": {
+      "code": "B66D3/06",
+      "level": 2,
+      "parent": "B66D3/04",
+      "ja": "一つ以上のプーリをもつもの",
+      "en": "with more than one pulley",
+      "count": 1932,
+      "sourceFile": "ipc_B66D.txt",
+      "kind": "ipc"
+    },
+    "B66D3/08": {
+      "code": "B66D3/08",
+      "level": 3,
+      "parent": "B66D3/06",
+      "ja": "滑車の配置",
+      "en": "Arrangements of sheaves",
+      "count": 1904,
+      "sourceFile": "ipc_B66D.txt",
+      "kind": "ipc"
+    },
+    "B66D3/10": {
+      "code": "B66D3/10",
+      "level": 3,
+      "parent": "B66D3/06",
+      "ja": "ブレーキまたはラチェット装置の応用",
+      "en": "Applications of braking or detent devices",
+      "count": 525,
+      "sourceFile": "ipc_B66D.txt",
+      "kind": "ipc"
+    },
+    "B66D3/12": {
+      "code": "B66D3/12",
+      "level": 1,
+      "parent": "B66D3/00",
+      "ja": "操作部材とリフトロープ，チェーン，またはケーブルとの間に動力伝達装置をもつかまたはもたないチェーンタックルまたは同様の手動操作されるタックル",
+      "en": "Chain or like hand-operated tackles with or without power-transmission gearing between operating member and lifting rope, chain, or cable",
+      "count": 1764,
+      "sourceFile": "ipc_B66D.txt",
+      "kind": "ipc"
+    },
+    "B66D3/14": {
+      "code": "B66D3/14",
+      "level": 2,
+      "parent": "B66D3/12",
+      "ja": "レバー操作されるもの",
+      "en": "lever-operated",
+      "count": 890,
+      "sourceFile": "ipc_B66D.txt",
+      "kind": "ipc"
+    },
+    "B66D3/16": {
+      "code": "B66D3/16",
+      "level": 2,
+      "parent": "B66D3/12",
+      "ja": "調車またはスプロケット上を通過する無端チェーンによって操作されるもの",
+      "en": "operated by an endless chain passing over a pulley or a sprocket",
+      "count": 1004,
+      "sourceFile": "ipc_B66D.txt",
+      "kind": "ipc"
+    },
+    "B66D3/18": {
+      "code": "B66D3/18",
+      "level": 1,
+      "parent": "B66D3/00",
+      "ja": "動力操作されるホイスト",
+      "en": "Power-operated hoists",
+      "count": 4312,
+      "sourceFile": "ipc_B66D.txt",
+      "kind": "ipc"
+    },
+    "B66D3/20": {
+      "code": "B66D3/20",
+      "level": 2,
+      "parent": "B66D3/18",
+      "ja": "共通の枠内に原動機，例．電動機，と巻胴をもつもの",
+      "en": "with driving motor, e.g. electric motor, and drum or barrel contained in a common housing",
+      "count": 2714,
+      "sourceFile": "ipc_B66D.txt",
+      "kind": "ipc"
+    },
+    "B66D3/22": {
+      "code": "B66D3/22",
+      "level": 3,
+      "parent": "B66D3/20",
+      "ja": "原動機と巻胴との間に変速機構をもつもの",
+      "en": "with variable-speed gearing between driving motor and drum or barrel",
+      "count": 739,
+      "sourceFile": "ipc_B66D.txt",
+      "kind": "ipc"
+    },
+    "B66D3/24": {
+      "code": "B66D3/24",
+      "level": 2,
+      "parent": "B66D3/18",
+      "ja": "リミットスイッチの応用",
+      "en": "Applications of limit switches",
+      "count": 685,
+      "sourceFile": "ipc_B66D.txt",
+      "kind": "ipc"
+    },
+    "B66D3/26": {
+      "code": "B66D3/26",
+      "level": 2,
+      "parent": "B66D3/18",
+      "ja": "他の細部，例．わく",
+      "en": "Other details, e.g. housings",
+      "count": 4459,
+      "sourceFile": "ipc_B66D.txt",
+      "kind": "ipc"
+    },
+    "B66D5/00": {
+      "code": "B66D5/00",
+      "level": 0,
+      "parent": "B66D",
+      "ja": "リフトまたは牽引装置への応用を特徴とするブレーキまたはラチエット装置，例．負荷の降下を制御するためのもの（プーリブロックのためのものＢ６６Ｄ３／１０）",
+      "en": "Braking or detent devices characterised by their application to lifting or hoisting gear, e.g. for controlling the lowering of loads(for pulley blocks <b>B66D3/10</b>)",
+      "count": 1847,
+      "sourceFile": "ipc_B66D.txt",
+      "kind": "ipc"
+    },
+    "B66D5/02": {
+      "code": "B66D5/02",
+      "level": 1,
+      "parent": "B66D5/00",
+      "ja": "巻胴またはロープを操作するクレーン，リフト，ホイスト，またはウインチのブレーキ",
+      "en": "Crane, lift, hoist, or winch brakes operating on drums, barrels, or ropes",
+      "count": 1392,
+      "sourceFile": "ipc_B66D.txt",
+      "kind": "ipc"
+    },
+    "B66D5/04": {
+      "code": "B66D5/04",
+      "level": 2,
+      "parent": "B66D5/02",
+      "ja": "遠心力によって作用されるもの",
+      "en": "actuated by centrifugal force",
+      "count": 431,
+      "sourceFile": "ipc_B66D.txt",
+      "kind": "ipc"
+    },
+    "B66D5/06": {
+      "code": "B66D5/06",
+      "level": 2,
+      "parent": "B66D5/02",
+      "ja": "半径方向に力が作用するもの（Ｂ６６Ｄ５／２０が優先）",
+      "en": "with radial effect(<b>B66D5/20</b> takes precedence)",
+      "count": 423,
+      "sourceFile": "ipc_B66D.txt",
+      "kind": "ipc"
+    },
+    "B66D5/08": {
+      "code": "B66D5/08",
+      "level": 3,
+      "parent": "B66D5/06",
+      "ja": "ブロックまたはシユーの形態をしたもの",
+      "en": "embodying blocks or shoes",
+      "count": 1550,
+      "sourceFile": "ipc_B66D.txt",
+      "kind": "ipc"
+    },
+    "B66D5/10": {
+      "code": "B66D5/10",
+      "level": 3,
+      "parent": "B66D5/06",
+      "ja": "帯の形態をしたもの",
+      "en": "embodying bands",
+      "count": 533,
+      "sourceFile": "ipc_B66D.txt",
+      "kind": "ipc"
+    },
+    "B66D5/12": {
+      "code": "B66D5/12",
+      "level": 2,
+      "parent": "B66D5/02",
+      "ja": "軸方向に力が作用するもの（Ｂ６６Ｄ５／２２が優先）",
+      "en": "with axial effect(<b>B66D5/22</b> takes precedence)",
+      "count": 396,
+      "sourceFile": "ipc_B66D.txt",
+      "kind": "ipc"
+    },
+    "B66D5/14": {
+      "code": "B66D5/14",
+      "level": 3,
+      "parent": "B66D5/12",
+      "ja": "ディスクの形態をしたもの",
+      "en": "embodying discs",
+      "count": 1737,
+      "sourceFile": "ipc_B66D.txt",
+      "kind": "ipc"
+    },
+    "B66D5/16": {
+      "code": "B66D5/16",
+      "level": 2,
+      "parent": "B66D5/02",
+      "ja": "ロープまたはケーブルに作用するためのもの",
+      "en": "for action on ropes or cables",
+      "count": 809,
+      "sourceFile": "ipc_B66D.txt",
+      "kind": "ipc"
+    },
+    "B66D5/18": {
+      "code": "B66D5/18",
+      "level": 2,
+      "parent": "B66D5/02",
+      "ja": "吊下げられた負荷に比例する制動力を発生するためのもの；負荷作動ブレーキ",
+      "en": "for generating braking forces which are proportional to the loads suspended; Load-actuated brakes",
+      "count": 134,
+      "sourceFile": "ipc_B66D.txt",
+      "kind": "ipc"
+    },
+    "B66D5/20": {
+      "code": "B66D5/20",
+      "level": 3,
+      "parent": "B66D5/18",
+      "ja": "半径方向に力が作用するもの",
+      "en": "with radial effect",
+      "count": 72,
+      "sourceFile": "ipc_B66D.txt",
+      "kind": "ipc"
+    },
+    "B66D5/22": {
+      "code": "B66D5/22",
+      "level": 3,
+      "parent": "B66D5/18",
+      "ja": "軸方向に力が作用するもの",
+      "en": "with axial effect",
+      "count": 220,
+      "sourceFile": "ipc_B66D.txt",
+      "kind": "ipc"
+    },
+    "B66D5/24": {
+      "code": "B66D5/24",
+      "level": 2,
+      "parent": "B66D5/02",
+      "ja": "操作装置",
+      "en": "Operating devices",
+      "count": 800,
+      "sourceFile": "ipc_B66D.txt",
+      "kind": "ipc"
+    },
+    "B66D5/26": {
+      "code": "B66D5/26",
+      "level": 3,
+      "parent": "B66D5/24",
+      "ja": "空気的または液体的なもの",
+      "en": "pneumatic or hydraulic",
+      "count": 1692,
+      "sourceFile": "ipc_B66D.txt",
+      "kind": "ipc"
+    },
+    "B66D5/28": {
+      "code": "B66D5/28",
+      "level": 4,
+      "parent": "B66D5/26",
+      "ja": "特に巻上装置に適応されるもの，例．鉱山用ホイスト中のもの",
+      "en": "specially adapted for winding gear, e.g. in mining hoists",
+      "count": 922,
+      "sourceFile": "ipc_B66D.txt",
+      "kind": "ipc"
+    },
+    "B66D5/30": {
+      "code": "B66D5/30",
+      "level": 3,
+      "parent": "B66D5/24",
+      "ja": "電気的なもの",
+      "en": "electrical",
+      "count": 1996,
+      "sourceFile": "ipc_B66D.txt",
+      "kind": "ipc"
+    },
+    "B66D5/32": {
+      "code": "B66D5/32",
+      "level": 1,
+      "parent": "B66D5/00",
+      "ja": "ラチエット装置",
+      "en": "Detent devices",
+      "count": 1017,
+      "sourceFile": "ipc_B66D.txt",
+      "kind": "ipc"
+    },
+    "B66D5/34": {
+      "code": "B66D5/34",
+      "level": 2,
+      "parent": "B66D5/32",
+      "ja": "かけがねをもつもの",
+      "en": "having latches",
+      "count": 488,
+      "sourceFile": "ipc_B66D.txt",
+      "kind": "ipc"
+    }
+  }
+}

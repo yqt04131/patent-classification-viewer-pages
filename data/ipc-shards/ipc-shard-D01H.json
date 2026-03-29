@@ -1,0 +1,1966 @@
+{
+  "generatedAt": "2026-03-20T02:17:46.566Z",
+  "total": 196,
+  "entries": {
+    "D01H": {
+      "code": "D01H",
+      "level": 0,
+      "parent": "D01",
+      "ja": "紡績またはねん糸（オーカムの加ねんＤ０１Ｇ３５／００；繊維，フィラメント，または糸の捲縮またはカーリングＤ０２Ｇ１／００）<br><br><b><ul>注</ul></b><br>クラスＤ０１のタイトルに続く注に注意すること。<br><br><b><ul>サブクラス内の索引</ul></b><br>紡績またはねん糸機械<br>連続的な巻き取りをもつもの；間けつ的な巻き取りをもつもの　１／００；３／００<br>オープンエンド紡績　４／００<br>牽伸機械または装置　５／００<br>紡績またはねん糸装置　７／００<br>共通な構造上の特徴，細部，または付属品<br>木管の差し換え；塵あいまたは風綿の発生防止または除去　９／００；１１／００<br>その他構造上の特徴，細部，または補助装置　１３／００<br>糸継ぎ装置；手工具　１５／００；１７／００",
+      "en": "SPINNING OR TWISTING(twisting oakum <b>D01G35/00</b>; crimping or curling of fibres, filaments, or yarns <b>D02G1/00</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>Attention is drawn to the Note following the title of class <b>D01</b>.</li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">SPINNING OR TWISTING MACHINES<tr><td width=\"70%\">With continuous wind-up; with intermittent wind-up </td><td><b><b>1/00</b>; <b>3/00</b></b></td></tr></tr><tr><td width=\"70%\">Open-end spinning </td><td><b><b>4/00</b></b></td></tr></tr><tr><td width=\"70%\">Drafting machines or arrangements </td><td><b><b>5/00</b></b></td></tr></tr><tr><td width=\"70%\">Spinning or twisting arrangements </td><td><b><b>7/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">COMMON STRUCTURAL FEATURES, DETAILS, OR ACCESSORIES<tr><td width=\"70%\">Replacing bobbins; confining or removing dust or fly </td><td><b><b>9/00</b>; <b>11/00</b></b></td></tr></tr><tr><td width=\"70%\">Other structural features, details, or accessories </td><td><b><b>13/00</b></b></td></tr></tr><tr><td width=\"70%\">Piecing arrangements; hand tools </td><td><b><b>15/00</b>; <b>17/00</b></b></td></tr></tr></tr></table>",
+      "count": 1792,
+      "sourceFile": "ipc_D.txt",
+      "kind": "ipc"
+    },
+    "D01": {
+      "code": "D01",
+      "level": 0,
+      "parent": "D",
+      "ja": "天然または人造の糸または繊維；紡績<br><br><b><ul>注</ul></b><br>このクラスにおいては，下記の用語は以下に示す意味で用いる：<br>―“繊維”は比較的短く，細長い天然または人造の物質よりなるものを意味する；<br>―“フィラメント”はエンドレスまたは準エンドレスで，細長い天然または人造の物質よりなるものを意味する；<br>―“糸”は繊維の単一の集合体を意味し，通常紡績によって製造される；<br>―“より糸”は糸またはフィラメントの集合体を意味し，通常加ねんによって製造される；<br>―“合成”繊維またはフィラメントはポリマーまたは低分子を合成させたものから製造される繊維またはフィラメントまたは類似物を意味する。例は，ポリアミド，アクリル，ポリエステルまたは炭素繊維である；［２０１４．０１］<br>―“人工”繊維またはフィラメントは天然ポリマーまたはその派生物から人が製造した繊維またはフィラメントまたは類似物を意味する。例は，再生セルロース繊維または半合成繊維である；［２０１４．０１］<br>―“人造”繊維またはフィラメントは人が製造した繊維またはフィラメントを意味し，“合成”繊維または“人工”繊維を含む。［２０１４．０１］",
+      "en": "NATURAL OR MAN-MADE THREADS OR FIBRES; SPINNING; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this class, the following terms are used with the meanings indicated: <ul><li>\"fibre\" means a relatively-short, elongated member of natural or man-made material;</li><li>\"filament\" means an endless or quasi-endless, elongated member of natural or man-made material;</li><li>\"yarn\" means a unitary assembly of fibres, usually produced by spinning;</li><li>\"thread\" means an assembly of yarns or filaments, usually produced by twisting;</li><li>\"synthetic\" fibres or filaments means fibres or filaments or the like manufactured from synthesising polymers or small molecules. Examples are polyamide, acrylic, polyester or carbon fibres;     </li><li>\"artificial\" fibres or filaments means fibres or filaments or the like manufactured by man from natural polymers or their derivatives. Examples are regenerated cellulosic fibres or semi-synthetic fibres;     </li><li>&ldquo;man-made&rdquo; fibres or filaments means fibres or filaments which are manufactured by man including &ldquo;synthetic&rdquo; or &ldquo;artificial&rdquo; fibres.     </li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_D.txt",
+      "kind": "ipc"
+    },
+    "D": {
+      "code": "D",
+      "level": 0,
+      "parent": null,
+      "ja": "繊維；紙<br><br><b><ul>注</ul></b><br>このセクションにおいては，下記の用語は以下に示す意味で用いる：<br>―“繊維”は比較的短く，細長い天然または人造の物質よりなるものを意味する；［２０１４．０１］<br>―“フィラメント”はエンドレスまたは準エンドレスで，細長い天然または人造の物質よりなるものを意味する；［２０１４．０１］<br>―“糸”は繊維の単一の集合体を意味し，通常紡績によって製造される；［２０１４．０１］<br>―“より糸”は糸またはフィラメントの集合体を意味し，通常加ねんによって製造される；［２０１４．０１］<br>―“合成”繊維またはフィラメントはポリマーまたは低分子を合成させたものから製造される繊維またはフィラメントまたは類似物を意味する。例は，ポリアミド，アクリル，ポリエステルまたは炭素繊維である；［２０１４．０１］<br>―“人工”繊維またはフィラメントは天然ポリマーまたはその派生物から人が製造した繊維またはフィラメントまたは類似物を意味する。例は，再生セルロース繊維または半合成繊維である；［２０１４．０１］<br>―“人造”繊維またはフィラメントは人が製造した繊維またはフィラメントを意味し，“合成”繊維または“人工”繊維を含む。［２０１４．０１］",
+      "en": "TEXTILES; PAPER; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this section, the following terms are used with the meanings indicated: <ul><li>\"fibre\" means a relatively-short, elongated member of natural or man-made material;    </li><li>\"filament\" means an endless or quasi-endless, elongated member of natural or man-made material;    </li><li>\"yarn\" means a unitary assembly of fibres, usually produced by spinning;    </li><li>\"thread\" means an assembly of yarns or filaments, usually produced by twisting;    </li><li>\"synthetic\" fibres or filaments means fibres or filaments or the like manufactured from synthesising polymers or small molecules. Examples are polyamide, acrylic, polyester or carbon fibres;    </li><li>\"artificial\" fibres or filaments means fibres or filaments or the like manufactured by man from natural polymers or their derivatives. Examples are regenerated cellulosic fibres or semi-synthetic fibres;    </li><li>\"man-made&rdquo; fibres or filaments means fibres or filaments which are manufactured by man including &ldquo;synthetic&rdquo; or &ldquo;artificial&rdquo; fibres.    </li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_D.txt",
+      "kind": "ipc"
+    },
+    "D01H1/00": {
+      "code": "D01H1/00",
+      "level": 0,
+      "parent": "D01H",
+      "ja": "糸が連続的に巻き取られる紡績またはねん糸機械（オープンエンド紡績機械Ｄ０１Ｈ４／００）［５］",
+      "en": "Spinning or twisting machines in which the product is wound-up continuously(open-end spinning machines <b>D01H4/00</b>)",
+      "count": 2233,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H1/02": {
+      "code": "D01H1/02",
+      "level": 1,
+      "parent": "D01H1/00",
+      "ja": "リング形式",
+      "en": "ring type",
+      "count": 1198,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H1/04": {
+      "code": "D01H1/04",
+      "level": 1,
+      "parent": "D01H1/00",
+      "ja": "フライヤ形式",
+      "en": "flyer type",
+      "count": 330,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H1/06": {
+      "code": "D01H1/06",
+      "level": 1,
+      "parent": "D01H1/00",
+      "ja": "キャップ形式",
+      "en": "cap type",
+      "count": 257,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H1/08": {
+      "code": "D01H1/08",
+      "level": 1,
+      "parent": "D01H1/00",
+      "ja": "糸の環状集積体が遠心作用によって形成されるカップ，ポット，ディスク形式",
+      "en": "cup, pot, or disc type, in which annular masses of yarn are formed by centrifugal action",
+      "count": 422,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H1/10": {
+      "code": "D01H1/10",
+      "level": 1,
+      "parent": "D01H1/00",
+      "ja": "多重のよりを与えるためのもの，例．２重ねん糸機",
+      "en": "for imparting multiple twist, e.g. two-for-one twisting",
+      "count": 1192,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H1/11": {
+      "code": "D01H1/11",
+      "level": 1,
+      "parent": "D01H1/00",
+      "ja": "仮より紡績［５］",
+      "en": "Spinning by false-twisting",
+      "count": 502,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H1/115": {
+      "code": "D01H1/115",
+      "level": 2,
+      "parent": "D01H1/11",
+      "ja": "空気作用による手段を使用するもの［５］",
+      "en": "using pneumatic means",
+      "count": 1606,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H1/14": {
+      "code": "D01H1/14",
+      "level": 1,
+      "parent": "D01H1/00",
+      "ja": "細部（牽伸装置Ｄ０１Ｈ５／００；ねん糸装置Ｄ０１Ｈ７／００）",
+      "en": "Details(drafting arrangements <b>D01H5/00</b>; twisting arrangements <b>D01H7/00</b>)",
+      "count": 964,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H1/16": {
+      "code": "D01H1/16",
+      "level": 2,
+      "parent": "D01H1/14",
+      "ja": "フレーム；ケーシング；カバリング",
+      "en": "Framework; Casings; Coverings",
+      "count": 1974,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H1/18": {
+      "code": "D01H1/18",
+      "level": 2,
+      "parent": "D01H1/14",
+      "ja": "供給管糸の支持",
+      "en": "Supports for supply packages",
+      "count": 1723,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H1/20": {
+      "code": "D01H1/20",
+      "level": 2,
+      "parent": "D01H1/14",
+      "ja": "駆動または停止装置（オープンエンド紡績機械用のものＤ０１Ｈ４／１２，Ｄ０１Ｈ４／２０，Ｄ０１Ｈ４／４２；安全装置Ｄ０１Ｈ１３／１４）［５］",
+      "en": "Driving or stopping arrangements(for open-end spinning machines <b>D01H4/12</b>, <b>D01H4/20</b>, <b>D01H4/42</b>; safety devices <b>D01H13/14</b>)",
+      "count": 1466,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H1/22": {
+      "code": "D01H1/22",
+      "level": 3,
+      "parent": "D01H1/20",
+      "ja": "ローラに対するもの（牽伸を調節または変化させるものＤ０１Ｈ５／３２）",
+      "en": "for rollers(regulating or varying draft <b>D01H5/32</b>)",
+      "count": 953,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H1/24": {
+      "code": "D01H1/24",
+      "level": 3,
+      "parent": "D01H1/20",
+      "ja": "ねん糸装置に対するもの，例．スピンドル（スピンドルに対する制動装置Ｄ０１Ｈ７／２２；駆動機構と密接な関係のあるフライヤとボビンＤ０１Ｈ７／５０）",
+      "en": "for twisting arrangements, e.g. spindles(braking arrangements for spindles <b>D01H7/22</b>; interrelated flyer and bobbin drive mechanisms <b>D01H7/50</b>)",
+      "count": 846,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H1/241": {
+      "code": "D01H1/241",
+      "level": 4,
+      "parent": "D01H1/24",
+      "ja": "ベルトにより駆動されるもの［２］",
+      "en": "driven by belt",
+      "count": 1279,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H1/242": {
+      "code": "D01H1/242",
+      "level": 4,
+      "parent": "D01H1/24",
+      "ja": "歯車により駆動されるもの［２］",
+      "en": "driven by toothed wheels",
+      "count": 348,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H1/243": {
+      "code": "D01H1/243",
+      "level": 4,
+      "parent": "D01H1/24",
+      "ja": "摩擦盤により駆動されるもの［２］",
+      "en": "driven by friction discs",
+      "count": 95,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H1/244": {
+      "code": "D01H1/244",
+      "level": 4,
+      "parent": "D01H1/24",
+      "ja": "各スピンドルが電動機により駆動されるもの［２］",
+      "en": "each spindle driven by an electric motor",
+      "count": 620,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H1/26": {
+      "code": "D01H1/26",
+      "level": 4,
+      "parent": "D01H1/24",
+      "ja": "２段以上の速度をもつもの；変速装置をもつもの",
+      "en": "with two or more speeds; with variable-speed arrangements",
+      "count": 267,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H1/28": {
+      "code": "D01H1/28",
+      "level": 3,
+      "parent": "D01H1/20",
+      "ja": "異った機能をもっているが作動的に関連している２以上の機械要素に対するもの",
+      "en": "for two or more machine elements possessing different characteristics but in operative association",
+      "count": 141,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H1/30": {
+      "code": "D01H1/30",
+      "level": 4,
+      "parent": "D01H1/28",
+      "ja": "２段以上の速度をもつもの；変速装置をもつもの",
+      "en": "with two or more speeds; with variable-speed arrangements",
+      "count": 419,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H1/32": {
+      "code": "D01H1/32",
+      "level": 3,
+      "parent": "D01H1/20",
+      "ja": "機械全体に対するもの",
+      "en": "for complete machines",
+      "count": 340,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H1/34": {
+      "code": "D01H1/34",
+      "level": 4,
+      "parent": "D01H1/32",
+      "ja": "２段以上の速度をもつもの；変速装置をもつもの",
+      "en": "with two or more speeds; with variable-speed arrangements",
+      "count": 215,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H1/36": {
+      "code": "D01H1/36",
+      "level": 2,
+      "parent": "D01H1/14",
+      "ja": "パッケージ形成装置，例．パッケージ形成運動",
+      "en": "Package-shaping arrangements, e.g. building motions",
+      "count": 3542,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H1/38": {
+      "code": "D01H1/38",
+      "level": 2,
+      "parent": "D01H1/14",
+      "ja": "巻き取りパッケージ上に予備糸，例．トランスファーテール，を巻くための装置",
+      "en": "Arrangements for winding reserve lengths of yarn on take-up packages, e.g. transfer tails",
+      "count": 733,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H1/40": {
+      "code": "D01H1/40",
+      "level": 2,
+      "parent": "D01H1/14",
+      "ja": "連続的に送り出される材料を木管などに接続するための装置",
+      "en": "Arrangements for connecting continuously- delivered material to bobbins or the like",
+      "count": 223,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H1/42": {
+      "code": "D01H1/42",
+      "level": 2,
+      "parent": "D01H1/14",
+      "ja": "糸またはより糸に対する保護または防護具，例．セパレータプレート，アンチバルーニング装置（スピンドル上のアンチバルーニング装置Ｄ０１Ｈ７／１８）",
+      "en": "Guards or protectors for yarns or threads, e.g. separator plates, anti-ballooning devices(anti-ballooning devices on spindles <b>D01H7/18</b>)",
+      "count": 894,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H3/00": {
+      "code": "D01H3/00",
+      "level": 0,
+      "parent": "D01H",
+      "ja": "糸が間けつ的に巻き取られる紡績またはねん糸機械，例．ミュール精紡機",
+      "en": "Spinning or twisting machines in which the product is wound-up intermittently, e.g. mules",
+      "count": 299,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H3/02": {
+      "code": "D01H3/02",
+      "level": 1,
+      "parent": "D01H3/00",
+      "ja": "細部（牽伸装置Ｄ０１Ｈ５／００；ねん糸装置Ｄ０１Ｈ７／００）",
+      "en": "Details(drafting arrangements <b>D01H5/00</b>; twisting arrangements <b>D01H7/00</b>)",
+      "count": 32,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H3/04": {
+      "code": "D01H3/04",
+      "level": 2,
+      "parent": "D01H3/02",
+      "ja": "キャリッジ；キャリッジを運動させる装置",
+      "en": "Carriages; Mechanisms effecting carriage movements",
+      "count": 139,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H3/06": {
+      "code": "D01H3/06",
+      "level": 3,
+      "parent": "D01H3/04",
+      "ja": "キャリッジ；キャリッジレール；スクゥェア運動機構",
+      "en": "Carriages; Carriage rails; Squaring motions",
+      "count": 102,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H3/08": {
+      "code": "D01H3/08",
+      "level": 3,
+      "parent": "D01H3/04",
+      "ja": "外進または内進運動機構",
+      "en": "Drawing-out or taking-in motions",
+      "count": 52,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H3/10": {
+      "code": "D01H3/10",
+      "level": 3,
+      "parent": "D01H3/04",
+      "ja": "移動するクリール装置，例．加ねん部に対するもの",
+      "en": "Moving-creel arrangements, e.g. for twiners",
+      "count": 7,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H3/12": {
+      "code": "D01H3/12",
+      "level": 2,
+      "parent": "D01H3/02",
+      "ja": "パッケージ形成運動機構；フォーラ装置",
+      "en": "Package-shaping motions; Faller arrangements",
+      "count": 145,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H3/14": {
+      "code": "D01H3/14",
+      "level": 2,
+      "parent": "D01H3/02",
+      "ja": "ローラ駆動装置［２００６．０１］",
+      "en": "Roller-driving arrangements",
+      "count": 26,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H3/16": {
+      "code": "D01H3/16",
+      "level": 2,
+      "parent": "D01H3/02",
+      "ja": "スピンドル駆動装置（スピンドル，スピンドルベアリング，スピンドル支持具Ｄ０１Ｈ７／０４）",
+      "en": "Spindle-driving arrangements(spindles, spindle bearings, spindle supports <b>D01H7/04</b>)",
+      "count": 39,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H3/18": {
+      "code": "D01H3/18",
+      "level": 3,
+      "parent": "D01H3/16",
+      "ja": "チンローラ；チンローラに密接に関連した駆動装置",
+      "en": "Tin rollers; Driving arrangements intimately associated with tin rollers",
+      "count": 7,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H3/20": {
+      "code": "D01H3/20",
+      "level": 3,
+      "parent": "D01H3/16",
+      "ja": "外進または反転中のスピンドル駆動装置",
+      "en": "Spindle-driving arrangements during drawing-out or backing-off",
+      "count": 3,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H3/22": {
+      "code": "D01H3/22",
+      "level": 3,
+      "parent": "D01H3/16",
+      "ja": "内進中のスピンドル駆動装置",
+      "en": "Spindle-driving arrangements during taking-in",
+      "count": 4,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H3/24": {
+      "code": "D01H3/24",
+      "level": 4,
+      "parent": "D01H3/22",
+      "ja": "コードラント機構；ノージング機構",
+      "en": "Quadrant motions; Nosing motions",
+      "count": 18,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H3/26": {
+      "code": "D01H3/26",
+      "level": 2,
+      "parent": "D01H3/02",
+      "ja": "他に分類されない駆動装置または停止装置；ロッキング機構（安全装置Ｄ０１Ｈ１３／１４）",
+      "en": "Driving or stopping arrangements not otherwise provided for; Locking motions(safety devices <b>D01H13/14</b>)",
+      "count": 54,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H4/00": {
+      "code": "D01H4/00",
+      "level": 0,
+      "parent": "D01H",
+      "ja": "スライバから分離して単独移動する繊維によりを与えるオープンエンド紡績機械または装置；そのための糸継ぎ装置；オープンエンド紡績技術によって無端芯糸を繊維で被覆するもの［２００６．０１］<br><br><b><ul>注</ul></b><br>注［５］<br>このグループにおいては，“オープンエンド紡績”は“ブレークスピニング”，“リングレススピニング”，“ロータスピニング”および“フリクションスピニング”という表現を包含するが，“仮より紡績”という表現は包含しない。",
+      "en": "Open-end spinning machines or arrangements for imparting twist to independently moving fibres separated from slivers; Piecing arrangements therefor; Covering endless core threads with fibres by open-end spinning techniques; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this group, the expression \"open-end spinning\" covers such expressions as \"break spinning\", \"ringless spinning\", \"rotor spinning\" and \"friction spinning\", but does not cover the expression \"spinning by false-twisting\". </li></ul>",
+      "count": 719,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H4/02": {
+      "code": "D01H4/02",
+      "level": 1,
+      "parent": "D01H4/00",
+      "ja": "流体，例．空気渦流，によってよりを与えるもの［５］",
+      "en": "imparting twist by a fluid, e.g. air vortex",
+      "count": 1656,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H4/04": {
+      "code": "D01H4/04",
+      "level": 1,
+      "parent": "D01H4/00",
+      "ja": "繊維がランニング表面と接触することによってよりを与えるもの［５］",
+      "en": "imparting twist by contact of fibres with a running surface",
+      "count": 155,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H4/06": {
+      "code": "D01H4/06",
+      "level": 2,
+      "parent": "D01H4/04",
+      "ja": "吸引手段と結合しているもの（Ｄ０１Ｈ４／０８，Ｄ０１Ｈ４／１６が優先）［５］",
+      "en": "co-operating with suction means(<b>D01H4/08</b>, <b>D01H4/16</b> take precedence)",
+      "count": 167,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H4/08": {
+      "code": "D01H4/08",
+      "level": 2,
+      "parent": "D01H4/04",
+      "ja": "ロータスピニング，すなわちランニング表面がロータによって形成されるもの［５］",
+      "en": "Rotor spinning, i.e. the running surface being provided by a rotor",
+      "count": 1438,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H4/10": {
+      "code": "D01H4/10",
+      "level": 3,
+      "parent": "D01H4/08",
+      "ja": "ロータ［５］",
+      "en": "Rotors",
+      "count": 660,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H4/12": {
+      "code": "D01H4/12",
+      "level": 3,
+      "parent": "D01H4/08",
+      "ja": "ロータ用ベアリング；駆動または停止装置（そのための制御Ｄ０１Ｈ４／４２）［５］",
+      "en": "Rotor bearings; Arrangements for driving or stopping(control therefor <b>D01H4/42</b>)",
+      "count": 798,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H4/14": {
+      "code": "D01H4/14",
+      "level": 4,
+      "parent": "D01H4/12",
+      "ja": "電動機により駆動されるロータ［５］",
+      "en": "Rotor driven by an electric motor",
+      "count": 144,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H4/16": {
+      "code": "D01H4/16",
+      "level": 2,
+      "parent": "D01H4/04",
+      "ja": "フリクションスピニング，すなわちランニング表面が近接するフリクションドラム，例．少なくとも１つの吸引ドラム，によって形成されるもの［５］",
+      "en": "Friction spinning, i. e. the running surface being provided by a pair of closely spaced friction drums, e.g. at least one suction drum",
+      "count": 376,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H4/18": {
+      "code": "D01H4/18",
+      "level": 3,
+      "parent": "D01H4/16",
+      "ja": "フリクションドラム，例．吸引孔の配列［５］",
+      "en": "Friction drums, e.g. arrangement of suction holes",
+      "count": 77,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H4/20": {
+      "code": "D01H4/20",
+      "level": 3,
+      "parent": "D01H4/16",
+      "ja": "ドラム用ベアリング；駆動または停止装置（そのための制御Ｄ０１Ｈ４／４２）［５］",
+      "en": "Drum bearings; Arrangements for driving or stopping(control therefor <b>D01H4/42</b>)",
+      "count": 31,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H4/22": {
+      "code": "D01H4/22",
+      "level": 2,
+      "parent": "D01H4/04",
+      "ja": "ランニング表面の清浄［５］",
+      "en": "Cleaning of running surfaces",
+      "count": 138,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H4/24": {
+      "code": "D01H4/24",
+      "level": 3,
+      "parent": "D01H4/22",
+      "ja": "ロータスピニングにおいて［５］",
+      "en": "in rotor spinning",
+      "count": 320,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H4/26": {
+      "code": "D01H4/26",
+      "level": 3,
+      "parent": "D01H4/22",
+      "ja": "フリクションスピニングにおいて［５］",
+      "en": "in friction spinning",
+      "count": 19,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H4/28": {
+      "code": "D01H4/28",
+      "level": 1,
+      "parent": "D01H4/00",
+      "ja": "静電気を使用するもの［５］",
+      "en": "using electrostatic fields",
+      "count": 147,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H4/30": {
+      "code": "D01H4/30",
+      "level": 1,
+      "parent": "D01H4/00",
+      "ja": "スライバを繊維に分離するための装置；繊維の配向または伸張［５］",
+      "en": "Arrangements for separating slivers into fibres; Orienting or straightening fibres",
+      "count": 353,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H4/32": {
+      "code": "D01H4/32",
+      "level": 2,
+      "parent": "D01H4/30",
+      "ja": "開繊ローラを使用するもの［５］",
+      "en": "using opening rollers",
+      "count": 978,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H4/34": {
+      "code": "D01H4/34",
+      "level": 2,
+      "parent": "D01H4/30",
+      "ja": "空気噴射流を使用するもの［２００６．０１］",
+      "en": "using air-jet streams",
+      "count": 107,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H4/36": {
+      "code": "D01H4/36",
+      "level": 2,
+      "parent": "D01H4/30",
+      "ja": "不純物を取り除くための手段をもつもの［５］",
+      "en": "with means for taking away impurities",
+      "count": 330,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H4/38": {
+      "code": "D01H4/38",
+      "level": 1,
+      "parent": "D01H4/00",
+      "ja": "繊維を糸形成部分に供給するチャンネル［５］",
+      "en": "Channels for feeding fibres to the yarn forming region",
+      "count": 455,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H4/40": {
+      "code": "D01H4/40",
+      "level": 1,
+      "parent": "D01H4/00",
+      "ja": "糸形成部分から走行する糸を取り出すもの，例．引き出し管を使用するもの［５］",
+      "en": "Removing running yarn from the yarn forming region, e.g. using tubes",
+      "count": 549,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H4/42": {
+      "code": "D01H4/42",
+      "level": 1,
+      "parent": "D01H4/00",
+      "ja": "駆動または停止の制御［５］",
+      "en": "Control of driving or stopping",
+      "count": 292,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H4/44": {
+      "code": "D01H4/44",
+      "level": 2,
+      "parent": "D01H4/42",
+      "ja": "ロータスピニングにおいて［５］",
+      "en": "in rotor spinning",
+      "count": 414,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H4/46": {
+      "code": "D01H4/46",
+      "level": 2,
+      "parent": "D01H4/42",
+      "ja": "フリクションスピニングにおいて［５］",
+      "en": "in friction spinning",
+      "count": 21,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H4/48": {
+      "code": "D01H4/48",
+      "level": 1,
+      "parent": "D01H4/00",
+      "ja": "糸継ぎ装置；そのための制御［５］",
+      "en": "Piecing arrangements; Control therefor",
+      "count": 809,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H4/50": {
+      "code": "D01H4/50",
+      "level": 2,
+      "parent": "D01H4/48",
+      "ja": "ロータスピニング用［５］",
+      "en": "for rotor spinning",
+      "count": 665,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H4/52": {
+      "code": "D01H4/52",
+      "level": 2,
+      "parent": "D01H4/48",
+      "ja": "フリクションスピニング用［５］",
+      "en": "for friction spinning",
+      "count": 56,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H5/00": {
+      "code": "D01H5/00",
+      "level": 0,
+      "parent": "D01H",
+      "ja": "牽伸機械または装置［２００６．０１］",
+      "en": "Drafting machines or arrangements",
+      "count": 1075,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H5/02": {
+      "code": "D01H5/02",
+      "level": 1,
+      "parent": "D01H5/00",
+      "ja": "フォーラーまたは同様の針を植えたバーを装着したギルボックスまたは他の牽伸機械［２００６．０１］",
+      "en": "Gill boxes or other drafting machines employing fallers or like pinned bars",
+      "count": 277,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H5/04": {
+      "code": "D01H5/04",
+      "level": 2,
+      "parent": "D01H5/02",
+      "ja": "スクリュ部材によって駆動される針を植えたバーをもつもの",
+      "en": "with pinned bars actuated by screw members",
+      "count": 133,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H5/06": {
+      "code": "D01H5/06",
+      "level": 3,
+      "parent": "D01H5/04",
+      "ja": "インタセクチングギルボックス",
+      "en": "Intersecting gill boxes",
+      "count": 69,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H5/08": {
+      "code": "D01H5/08",
+      "level": 2,
+      "parent": "D01H5/02",
+      "ja": "リンク，チェーンまたは類似物によって結合されたバーをもつもの",
+      "en": "with bars connected by links, chains, or the like",
+      "count": 86,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H5/10": {
+      "code": "D01H5/10",
+      "level": 2,
+      "parent": "D01H5/02",
+      "ja": "相互の連絡はないが互いに押圧力によって駆動される針を植えたバーをもつもの",
+      "en": "with pinned bars unconnected with each other but actuated through pressure of one against another",
+      "count": 38,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H5/12": {
+      "code": "D01H5/12",
+      "level": 2,
+      "parent": "D01H5/02",
+      "ja": "細部",
+      "en": "Details",
+      "count": 202,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H5/14": {
+      "code": "D01H5/14",
+      "level": 3,
+      "parent": "D01H5/12",
+      "ja": "針を植えたバー",
+      "en": "Pinned bars",
+      "count": 333,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H5/16": {
+      "code": "D01H5/16",
+      "level": 3,
+      "parent": "D01H5/12",
+      "ja": "フレーム；ケーシング；カバリング",
+      "en": "Framework; Casings; Coverings",
+      "count": 43,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H5/18": {
+      "code": "D01H5/18",
+      "level": 1,
+      "parent": "D01H5/00",
+      "ja": "フォーラまたは類似する針を植えたバーのない牽伸機械または装置",
+      "en": "Drafting machines or arrangements without fallers or like pinned bars",
+      "count": 302,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H5/20": {
+      "code": "D01H5/20",
+      "level": 2,
+      "parent": "D01H5/18",
+      "ja": "繊維が不動のまたは往復運動する外表面に接触して制御されるもの",
+      "en": "in which fibres are controlled by contact with stationary or reciprocating surfaces",
+      "count": 89,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H5/22": {
+      "code": "D01H5/22",
+      "level": 2,
+      "parent": "D01H5/18",
+      "ja": "繊維がローラだけによって制御されるもの",
+      "en": "in which fibres are controlled by rollers only",
+      "count": 1816,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H5/24": {
+      "code": "D01H5/24",
+      "level": 3,
+      "parent": "D01H5/22",
+      "ja": "ポーキュパインまたはそれに類似した針を植えた回転部材をもつもの",
+      "en": "with porcupines or like pinned rotary members",
+      "count": 194,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H5/26": {
+      "code": "D01H5/26",
+      "level": 2,
+      "parent": "D01H5/18",
+      "ja": "繊維が１個またはそれ以上の無端エプロンによって制御されるもの",
+      "en": "in which fibres are controlled by one or more endless aprons",
+      "count": 1596,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H5/28": {
+      "code": "D01H5/28",
+      "level": 2,
+      "parent": "D01H5/18",
+      "ja": "牽伸中に加ねんすることにより繊維が制御されるもの［２００６．０１］",
+      "en": "in which fibres are controlled by inserting twist during drafting",
+      "count": 260,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H5/30": {
+      "code": "D01H5/30",
+      "level": 2,
+      "parent": "D01H5/18",
+      "ja": "連続フィラメントを切断する装置を結合したもの，例．直紡におけるもの（トウをスライバまたは糸に変換するものＤ０１Ｇ１／０６）",
+      "en": "incorporating arrangements for severing continuous filaments, e.g. in direct spinning(converting tows to slivers or yarns <b>D01G1/06</b>)",
+      "count": 67,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H5/32": {
+      "code": "D01H5/32",
+      "level": 2,
+      "parent": "D01H5/18",
+      "ja": "牽伸量を調節または変化させるもの",
+      "en": "Regulating or varying draft",
+      "count": 512,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H5/34": {
+      "code": "D01H5/34",
+      "level": 3,
+      "parent": "D01H5/32",
+      "ja": "手動調節によるもの",
+      "en": "by manual adjustments",
+      "count": 22,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H5/36": {
+      "code": "D01H5/36",
+      "level": 3,
+      "parent": "D01H5/32",
+      "ja": "あらかじめ設定された形によるもの，例．スラブを形成するためのもの",
+      "en": "according to a pre-arranged pattern, e.g. to produce slubs",
+      "count": 720,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H5/38": {
+      "code": "D01H5/38",
+      "level": 3,
+      "parent": "D01H5/32",
+      "ja": "材料中のむらに応答するもの",
+      "en": "in response to irregularities in material",
+      "count": 340,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H5/40": {
+      "code": "D01H5/40",
+      "level": 4,
+      "parent": "D01H5/38",
+      "ja": "機械的遅延装置を使用するもの",
+      "en": "employing mechanical time-delay devices",
+      "count": 74,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H5/42": {
+      "code": "D01H5/42",
+      "level": 4,
+      "parent": "D01H5/38",
+      "ja": "電気的遅延装置を使用するもの",
+      "en": "employing electrical time-delay devices",
+      "count": 232,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H5/44": {
+      "code": "D01H5/44",
+      "level": 2,
+      "parent": "D01H5/18",
+      "ja": "牽伸要素の調節，例．ラチェットの取り換え",
+      "en": "Adjusting drafting elements, e.g. altering ratch",
+      "count": 558,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H5/46": {
+      "code": "D01H5/46",
+      "level": 2,
+      "parent": "D01H5/18",
+      "ja": "加圧装置",
+      "en": "Loading arrangements",
+      "count": 605,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H5/48": {
+      "code": "D01H5/48",
+      "level": 3,
+      "parent": "D01H5/46",
+      "ja": "重りを用いるもの",
+      "en": "using weights",
+      "count": 199,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H5/50": {
+      "code": "D01H5/50",
+      "level": 3,
+      "parent": "D01H5/46",
+      "ja": "ばねを用いるもの",
+      "en": "using springs",
+      "count": 655,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H5/52": {
+      "code": "D01H5/52",
+      "level": 3,
+      "parent": "D01H5/46",
+      "ja": "流体圧を用いるもの",
+      "en": "using fluid pressure",
+      "count": 206,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H5/54": {
+      "code": "D01H5/54",
+      "level": 3,
+      "parent": "D01H5/46",
+      "ja": "磁力装置を用いるもの",
+      "en": "using magnetic arrangements",
+      "count": 46,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H5/56": {
+      "code": "D01H5/56",
+      "level": 2,
+      "parent": "D01H5/18",
+      "ja": "牽伸要素の支持機構［２００６．０１］",
+      "en": "Supports for drafting elements",
+      "count": 978,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H5/58": {
+      "code": "D01H5/58",
+      "level": 2,
+      "parent": "D01H5/18",
+      "ja": "牽伸要素のトラバース用装置［２００６．０１］",
+      "en": "Arrangements for traversing drafting elements",
+      "count": 140,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H5/60": {
+      "code": "D01H5/60",
+      "level": 2,
+      "parent": "D01H5/18",
+      "ja": "繊維が堆積しないように牽伸装置を維持する装置",
+      "en": "Arrangements maintaining drafting elements free of fibre accumulations",
+      "count": 500,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H5/62": {
+      "code": "D01H5/62",
+      "level": 3,
+      "parent": "D01H5/60",
+      "ja": "パッド状または平板状の回転しない清浄器；かき取り器",
+      "en": "Non-rotary cleaning pads or plates; Scrapers",
+      "count": 408,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H5/64": {
+      "code": "D01H5/64",
+      "level": 3,
+      "parent": "D01H5/60",
+      "ja": "清浄器付きローラまたはエプロン",
+      "en": "Rollers or aprons with cleaning surfaces",
+      "count": 636,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H5/66": {
+      "code": "D01H5/66",
+      "level": 3,
+      "parent": "D01H5/60",
+      "ja": "吸引装置",
+      "en": "Suction devices",
+      "count": 659,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H5/68": {
+      "code": "D01H5/68",
+      "level": 4,
+      "parent": "D01H5/66",
+      "ja": "吸引による糸端の捕捉",
+      "en": "Suction end-catchers",
+      "count": 296,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H5/70": {
+      "code": "D01H5/70",
+      "level": 2,
+      "parent": "D01H5/18",
+      "ja": "牽伸装置の構造上の特徴",
+      "en": "Constructional features of drafting elements",
+      "count": 687,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H5/72": {
+      "code": "D01H5/72",
+      "level": 3,
+      "parent": "D01H5/70",
+      "ja": "繊維集束用ガイド［２００６．０１］",
+      "en": "Fibre-condensing guides",
+      "count": 2610,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H5/74": {
+      "code": "D01H5/74",
+      "level": 3,
+      "parent": "D01H5/70",
+      "ja": "ローラ",
+      "en": "Rollers",
+      "count": 2009,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H5/76": {
+      "code": "D01H5/76",
+      "level": 4,
+      "parent": "D01H5/74",
+      "ja": "ルーズボス組立て体",
+      "en": "Loose-boss assemblies",
+      "count": 352,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H5/78": {
+      "code": "D01H5/78",
+      "level": 4,
+      "parent": "D01H5/74",
+      "ja": "縦みぞまたはその他の表面特性をもつもの",
+      "en": "with flutes or other integral surface characteristics",
+      "count": 357,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H5/80": {
+      "code": "D01H5/80",
+      "level": 4,
+      "parent": "D01H5/74",
+      "ja": "覆いをもつもの；コットまたはカバー",
+      "en": "with covers; Cots or covers",
+      "count": 360,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H5/82": {
+      "code": "D01H5/82",
+      "level": 4,
+      "parent": "D01H5/74",
+      "ja": "ローラ連結用装置",
+      "en": "Arrangements for coupling roller sections",
+      "count": 123,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H5/84": {
+      "code": "D01H5/84",
+      "level": 4,
+      "parent": "D01H5/74",
+      "ja": "ポーキュパインローラ",
+      "en": "Porcupines",
+      "count": 26,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H5/86": {
+      "code": "D01H5/86",
+      "level": 3,
+      "parent": "D01H5/70",
+      "ja": "エプロン；エプロン支持具；エプロン伸張装置",
+      "en": "Aprons; Apron supports; Apron-tensioning arrangements",
+      "count": 735,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H5/88": {
+      "code": "D01H5/88",
+      "level": 4,
+      "parent": "D01H5/86",
+      "ja": "クレードル；テンサ",
+      "en": "Cradles; Tensors",
+      "count": 575,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H7/00": {
+      "code": "D01H7/00",
+      "level": 0,
+      "parent": "D01H",
+      "ja": "紡績またはねん糸装置（オープンエンド紡績用Ｄ０１Ｈ４／００）［５］",
+      "en": "Spinning or twisting arrangements(for open-end spinning <b>D01H4/00</b>)",
+      "count": 629,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H7/02": {
+      "code": "D01H7/02",
+      "level": 1,
+      "parent": "D01H7/00",
+      "ja": "永久的なよりを与えるためのもの",
+      "en": "for imparting permanent twist",
+      "count": 1112,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H7/04": {
+      "code": "D01H7/04",
+      "level": 2,
+      "parent": "D01H7/02",
+      "ja": "スピンドル［２００６．０１］",
+      "en": "Spindles",
+      "count": 1789,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H7/06": {
+      "code": "D01H7/06",
+      "level": 3,
+      "parent": "D01H7/04",
+      "ja": "パッケージ支持用スリーブ付き固定スピンドル",
+      "en": "Stationary spindles with package-holding sleeves",
+      "count": 180,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H7/08": {
+      "code": "D01H7/08",
+      "level": 3,
+      "parent": "D01H7/04",
+      "ja": "取り付け装置",
+      "en": "Mounting arrangements",
+      "count": 408,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H7/10": {
+      "code": "D01H7/10",
+      "level": 4,
+      "parent": "D01H7/08",
+      "ja": "スピンドルの支持具；レール；レールの支持具，例．ポーカガイド",
+      "en": "Spindle supports; Rails; Rail supports, e.g. poker guides",
+      "count": 555,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H7/12": {
+      "code": "D01H7/12",
+      "level": 4,
+      "parent": "D01H7/08",
+      "ja": "ボルスタ；ベアリング",
+      "en": "Bolsters; Bearings",
+      "count": 483,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H7/14": {
+      "code": "D01H7/14",
+      "level": 4,
+      "parent": "D01H7/08",
+      "ja": "抑止装置",
+      "en": "Holding-down arrangements",
+      "count": 145,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H7/16": {
+      "code": "D01H7/16",
+      "level": 3,
+      "parent": "D01H7/04",
+      "ja": "ボビンまたは類似物のスピンドルに対する固定装置",
+      "en": "Arrangements for coupling bobbins or like to spindles",
+      "count": 691,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H7/18": {
+      "code": "D01H7/18",
+      "level": 3,
+      "parent": "D01H7/04",
+      "ja": "スピンドル部の糸のバルーン抑制装置［２００６．０１］",
+      "en": "Arrangements on spindles for suppressing yarn balloons",
+      "count": 347,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H7/20": {
+      "code": "D01H7/20",
+      "level": 3,
+      "parent": "D01H7/04",
+      "ja": "潤滑装置",
+      "en": "Lubricating arrangements",
+      "count": 517,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H7/22": {
+      "code": "D01H7/22",
+      "level": 3,
+      "parent": "D01H7/04",
+      "ja": "制動装置",
+      "en": "Braking arrangements",
+      "count": 737,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H7/24": {
+      "code": "D01H7/24",
+      "level": 2,
+      "parent": "D01H7/02",
+      "ja": "フライヤまたはその類似の装置［２００６．０１］",
+      "en": "Flyer or like arrangements",
+      "count": 201,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H7/26": {
+      "code": "D01H7/26",
+      "level": 3,
+      "parent": "D01H7/24",
+      "ja": "フライヤの構造",
+      "en": "Flyer constructions",
+      "count": 221,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H7/28": {
+      "code": "D01H7/28",
+      "level": 4,
+      "parent": "D01H7/26",
+      "ja": "脚の外部にガイド材料を設けたもの",
+      "en": "arranged to guide material over exterior of legs",
+      "count": 26,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H7/30": {
+      "code": "D01H7/30",
+      "level": 4,
+      "parent": "D01H7/26",
+      "ja": "脚の内部にガイドみぞをもつもの，例．始紡機用フライヤ",
+      "en": "with guide channels formed in legs, e.g. slubbing flyers",
+      "count": 104,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H7/32": {
+      "code": "D01H7/32",
+      "level": 5,
+      "parent": "D01H7/30",
+      "ja": "プレッサをもつもの",
+      "en": "with pressing devices",
+      "count": 139,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H7/34": {
+      "code": "D01H7/34",
+      "level": 4,
+      "parent": "D01H7/26",
+      "ja": "緊張滑車または類似装置をもつもの",
+      "en": "with haul pulleys or like arrangements",
+      "count": 5,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H7/36": {
+      "code": "D01H7/36",
+      "level": 4,
+      "parent": "D01H7/26",
+      "ja": "トラバース機構をもつもの",
+      "en": "with traversing devices",
+      "count": 18,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H7/38": {
+      "code": "D01H7/38",
+      "level": 4,
+      "parent": "D01H7/26",
+      "ja": "リング式フライヤ",
+      "en": "Ring flyers",
+      "count": 34,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H7/40": {
+      "code": "D01H7/40",
+      "level": 3,
+      "parent": "D01H7/24",
+      "ja": "フライヤの支持具，例．レール",
+      "en": "Flyer supports, e.g. rails",
+      "count": 72,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H7/42": {
+      "code": "D01H7/42",
+      "level": 3,
+      "parent": "D01H7/24",
+      "ja": "スピンドルにフライヤを結合する装置",
+      "en": "Arrangements coupling flyers to spindles",
+      "count": 36,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H7/44": {
+      "code": "D01H7/44",
+      "level": 3,
+      "parent": "D01H7/24",
+      "ja": "ボビンまたはフライヤの摺動装置",
+      "en": "Drag arrangements for bobbins or flyers",
+      "count": 129,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H7/46": {
+      "code": "D01H7/46",
+      "level": 3,
+      "parent": "D01H7/24",
+      "ja": "一時的によりを増加させるためのフライヤの付属具",
+      "en": "Devices attached to, or integral with, flyers for temporarily increasing twist in material passing to them",
+      "count": 30,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H7/48": {
+      "code": "D01H7/48",
+      "level": 3,
+      "parent": "D01H7/24",
+      "ja": "糸導孔または類似のガイド装置（Ｄ０１Ｈ７／４６が優先）",
+      "en": "Eyes or like guiding arrangements(<b>D01H7/46</b> takes precedence)",
+      "count": 112,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H7/50": {
+      "code": "D01H7/50",
+      "level": 3,
+      "parent": "D01H7/24",
+      "ja": "フライヤとボビンとを相互に関連づける駆動機構，例．粗紡機の巻き取り装置［２００６．０１］",
+      "en": "Interrelated flyer and bobbin drive mechanisms, e.g. winding-on motions for cotton-roving frames",
+      "count": 222,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H7/52": {
+      "code": "D01H7/52",
+      "level": 2,
+      "parent": "D01H7/02",
+      "ja": "リングおよびトラベラ装置",
+      "en": "Ring-and-traveller arrangements",
+      "count": 335,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H7/54": {
+      "code": "D01H7/54",
+      "level": 3,
+      "parent": "D01H7/52",
+      "ja": "固定リングをもつもの",
+      "en": "with fixed rings",
+      "count": 76,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H7/56": {
+      "code": "D01H7/56",
+      "level": 3,
+      "parent": "D01H7/52",
+      "ja": "自由に回転できるリングをもつもの；摺動自在のリングをもつもの",
+      "en": "with freely-rotatable rings; with braked or dragged rings",
+      "count": 290,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H7/58": {
+      "code": "D01H7/58",
+      "level": 3,
+      "parent": "D01H7/52",
+      "ja": "駆動リングをもつもの",
+      "en": "with driven rings",
+      "count": 148,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H7/60": {
+      "code": "D01H7/60",
+      "level": 3,
+      "parent": "D01H7/52",
+      "ja": "リングまたはトラベラ；他に分類されないそれらの製造［２００６．０１］",
+      "en": "Rings or travellers; Manufacture thereof not otherwise provided for",
+      "count": 1838,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H7/62": {
+      "code": "D01H7/62",
+      "level": 3,
+      "parent": "D01H7/52",
+      "ja": "トラベラへの潤滑剤付与装置",
+      "en": "Arrangements providing lubricant for travellers",
+      "count": 497,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H7/64": {
+      "code": "D01H7/64",
+      "level": 3,
+      "parent": "D01H7/52",
+      "ja": "リングの支持具，例．リングレール［２００６．０１］",
+      "en": "Ring supports, e.g. ring rails",
+      "count": 307,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H7/66": {
+      "code": "D01H7/66",
+      "level": 2,
+      "parent": "D01H7/02",
+      "ja": "キャップ式装置",
+      "en": "Cap arrangements",
+      "count": 32,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H7/68": {
+      "code": "D01H7/68",
+      "level": 3,
+      "parent": "D01H7/66",
+      "ja": "キャップの構造",
+      "en": "Cap constructions",
+      "count": 31,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H7/70": {
+      "code": "D01H7/70",
+      "level": 3,
+      "parent": "D01H7/66",
+      "ja": "スピンドルにキャップを支持する装置",
+      "en": "Arrangements for supporting caps on spindles",
+      "count": 9,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H7/72": {
+      "code": "D01H7/72",
+      "level": 3,
+      "parent": "D01H7/66",
+      "ja": "ボビン支持装置，例．ボビンレール［２００６．０１］",
+      "en": "Bobbin-supporting arrangements, e.g. bobbin rails",
+      "count": 32,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H7/74": {
+      "code": "D01H7/74",
+      "level": 2,
+      "parent": "D01H7/02",
+      "ja": "ポット式または類似装置",
+      "en": "Cup or like arrangements",
+      "count": 100,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H7/76": {
+      "code": "D01H7/76",
+      "level": 3,
+      "parent": "D01H7/74",
+      "ja": "回転するディスク",
+      "en": "Rotary discs",
+      "count": 18,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H7/78": {
+      "code": "D01H7/78",
+      "level": 3,
+      "parent": "D01H7/74",
+      "ja": "ポットの構造，例．スピニングポット",
+      "en": "Constructions of cups, e.g. spinning boxes",
+      "count": 82,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H7/80": {
+      "code": "D01H7/80",
+      "level": 4,
+      "parent": "D01H7/78",
+      "ja": "湿った糸を収集するためのもの",
+      "en": "adapted to collect wet yarns",
+      "count": 13,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H7/82": {
+      "code": "D01H7/82",
+      "level": 3,
+      "parent": "D01H7/74",
+      "ja": "回転ポットまたは類似物のケーシングまたは危険防止器",
+      "en": "Casings or guards for rotary cups or the like",
+      "count": 21,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H7/84": {
+      "code": "D01H7/84",
+      "level": 3,
+      "parent": "D01H7/74",
+      "ja": "回転ポットと連動するスピンドルまたは導糸管［２００６．０１］",
+      "en": "Spindles or yarn carriers for co-operation with rotary cups",
+      "count": 48,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H7/86": {
+      "code": "D01H7/86",
+      "level": 2,
+      "parent": "D01H7/02",
+      "ja": "多重ねん糸装置，例．二重ねん糸機",
+      "en": "Multiple-twist arrangements, e.g. two-for-one twisting devices",
+      "count": 2466,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H7/88": {
+      "code": "D01H7/88",
+      "level": 2,
+      "parent": "D01H7/02",
+      "ja": "中空スピンドル装置（Ｄ０１Ｈ７／８６が優先）",
+      "en": "Hollow-spindle arrangements(<b>D01H7/86</b> takes precedence)",
+      "count": 439,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H7/90": {
+      "code": "D01H7/90",
+      "level": 2,
+      "parent": "D01H7/02",
+      "ja": "複数の加ねん装置の組み合わせ（Ｄ０１Ｈ７／８８が優先）［２００６．０１］",
+      "en": "Arrangements with two or more twisting devices in combination (<b>D01H7/88</b> takes precedence)",
+      "count": 248,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H7/92": {
+      "code": "D01H7/92",
+      "level": 1,
+      "parent": "D01H7/00",
+      "ja": "一時的なよりを与えるもの",
+      "en": "for imparting transient twist",
+      "count": 831,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H9/00": {
+      "code": "D01H9/00",
+      "level": 0,
+      "parent": "D01H",
+      "ja": "繰り出しまたは巻き取り位置におけるボビン，芯管，容器または巻き取ったパッケージの差し換えまたは取りはずし装置［２００６．０１］",
+      "en": "Arrangements for replacing or removing bobbins, cores, receptacles, or completed packages at paying-out or take-up stations",
+      "count": 1255,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H9/02": {
+      "code": "D01H9/02",
+      "level": 1,
+      "parent": "D01H9/00",
+      "ja": "巻き取り位置における巻き取ったパッケージの取りはずしとボビン，芯管または容器の差し換えを行なう装置；隣接している充満した巻き取り要素と空の巻き取り要素間の材料の移し換え",
+      "en": "for removing completed take-up packages and replacing by bobbins, cores, or receptacles at take-up stations; Transferring material between adjacent full and empty take-up elements",
+      "count": 1541,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H9/04": {
+      "code": "D01H9/04",
+      "level": 2,
+      "parent": "D01H9/02",
+      "ja": "紡績機械またはねん糸機械に付随した玉揚げ装置",
+      "en": "Doffing arrangements integral with spinning or twisting machines",
+      "count": 1989,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H9/06": {
+      "code": "D01H9/06",
+      "level": 3,
+      "parent": "D01H9/04",
+      "ja": "遠心ポットから導糸管に糸を移すもの",
+      "en": "Removing yarn from centrifugal cups on to yarn carriers",
+      "count": 46,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H9/08": {
+      "code": "D01H9/08",
+      "level": 2,
+      "parent": "D01H9/02",
+      "ja": "紡績機械またはねん糸機械と独立した玉揚げ装置",
+      "en": "Doffing arrangements independent of spinning or twisting machines",
+      "count": 613,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H9/10": {
+      "code": "D01H9/10",
+      "level": 3,
+      "parent": "D01H9/08",
+      "ja": "玉揚げ運搬車",
+      "en": "Doffing carriages",
+      "count": 891,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H9/12": {
+      "code": "D01H9/12",
+      "level": 3,
+      "parent": "D01H9/08",
+      "ja": "手動式管糸供給装置；管糸供給装置のためのスタンド",
+      "en": "Manual cop-tube applying apparatus; Stands for cop-tube applying apparatus",
+      "count": 40,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H9/14": {
+      "code": "D01H9/14",
+      "level": 2,
+      "parent": "D01H9/02",
+      "ja": "糸の取り出しのための準備機械［２００６．０１］",
+      "en": "for preparing machines for doffing of yarns",
+      "count": 413,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H9/16": {
+      "code": "D01H9/16",
+      "level": 2,
+      "parent": "D01H9/02",
+      "ja": "糸切断装置",
+      "en": "Yarn-severing arrangements",
+      "count": 833,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H9/18": {
+      "code": "D01H9/18",
+      "level": 1,
+      "parent": "D01H9/00",
+      "ja": "繰り出しまたは巻き取り位置へのボビン，芯管，容器または巻き取ったパッケージの供給装置，または繰り出しまたは巻き取り位置からの輸送装置（Ｄ０１Ｈ９／１０が優先）",
+      "en": "for supplying bobbins, cores, receptacles, or completed packages to, or transporting from, paying-out or take-up stations(<b>D01H9/10</b> takes precedence)",
+      "count": 2580,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H11/00": {
+      "code": "D01H11/00",
+      "level": 0,
+      "parent": "D01H",
+      "ja": "じんあいまたは風綿等の発生防止または除去装置（オープンエンド紡績機械のランニング表面の清浄Ｄ０１Ｈ４／２２）［２００６．０１］",
+      "en": "Arrangements for confining or removing dust, fly or the like (cleaning of running surfaces in open-end spinning machines <b>D01H4/22</b>)",
+      "count": 7257,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H13/00": {
+      "code": "D01H13/00",
+      "level": 0,
+      "parent": "D01H",
+      "ja": "他の共通な構造上の特徴，細部または補助装置［２００６．０１］",
+      "en": "Other common constructional features, details or accessories",
+      "count": 3081,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H13/02": {
+      "code": "D01H13/02",
+      "level": 1,
+      "parent": "D01H13/00",
+      "ja": "他に分類されないローラ装置",
+      "en": "Roller arrangements not otherwise provided for",
+      "count": 589,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H13/04": {
+      "code": "D01H13/04",
+      "level": 1,
+      "parent": "D01H13/00",
+      "ja": "スライバ，粗糸または糸のガイド，すべり止め（繊維集束ガイドＤ０１Ｈ５／７２）",
+      "en": "Guides for slivers, rovings, or yarns; Smoothing dies(fibre-condensing guides <b>D01H5/72</b>)",
+      "count": 6088,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H13/06": {
+      "code": "D01H13/06",
+      "level": 2,
+      "parent": "D01H13/04",
+      "ja": "トラバース装置",
+      "en": "Traversing arrangements",
+      "count": 355,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H13/08": {
+      "code": "D01H13/08",
+      "level": 1,
+      "parent": "D01H13/00",
+      "ja": "より止め装置",
+      "en": "Twist arresters",
+      "count": 211,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H13/10": {
+      "code": "D01H13/10",
+      "level": 1,
+      "parent": "D01H13/00",
+      "ja": "張力装置",
+      "en": "Tension devices",
+      "count": 2953,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H13/12": {
+      "code": "D01H13/12",
+      "level": 1,
+      "parent": "D01H13/00",
+      "ja": "糸のスナールまたは糸の折り重なりを防止する装置［２００６．０１］",
+      "en": "Arrangements preventing snarls or inadvertent doubling of yarns",
+      "count": 510,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H13/14": {
+      "code": "D01H13/14",
+      "level": 1,
+      "parent": "D01H13/00",
+      "ja": "警告または安全装置，例．自動欠陥検出装置，停止装置［２００６．０１］",
+      "en": "Warning or safety devices, e.g. automatic fault detectors, stop motions",
+      "count": 1688,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H13/16": {
+      "code": "D01H13/16",
+      "level": 2,
+      "parent": "D01H13/14",
+      "ja": "糸張力の減少，糸の供給失敗または糸の切断に対して応答するもの",
+      "en": "responsive to reduction in material tension, failure of supply, or breakage, of material",
+      "count": 3493,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H13/18": {
+      "code": "D01H13/18",
+      "level": 3,
+      "parent": "D01H13/16",
+      "ja": "供給の停止のみに応答するもの",
+      "en": "stopping supply only",
+      "count": 711,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H13/20": {
+      "code": "D01H13/20",
+      "level": 2,
+      "parent": "D01H13/14",
+      "ja": "糸の過度の張力または装置の異常運転に応答するもの",
+      "en": "responsive to excessive tension or irregular operation of apparatus",
+      "count": 244,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H13/22": {
+      "code": "D01H13/22",
+      "level": 2,
+      "parent": "D01H13/14",
+      "ja": "走行中の糸の不規則状態に応答するもの",
+      "en": "responsive to presence of irregularities in running material",
+      "count": 545,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H13/24": {
+      "code": "D01H13/24",
+      "level": 2,
+      "parent": "D01H13/14",
+      "ja": "糸の一定長の送り出し，パッケージの巻き取り完了または容器の充満に応答するもの",
+      "en": "responsive to delivery of a measured length of material, completion of winding of a package or filling of a receptacle",
+      "count": 290,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H13/26": {
+      "code": "D01H13/26",
+      "level": 1,
+      "parent": "D01H13/00",
+      "ja": "紡績またはねん糸に関連した糸またはその類似物の検査または試験を容易にする装置",
+      "en": "Arrangements facilitating the inspection or testing of yarns or the like in connection with spinning or twisting",
+      "count": 789,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H13/28": {
+      "code": "D01H13/28",
+      "level": 1,
+      "parent": "D01H13/00",
+      "ja": "加熱または冷却装置",
+      "en": "Heating or cooling arrangements",
+      "count": 1046,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H13/30": {
+      "code": "D01H13/30",
+      "level": 1,
+      "parent": "D01H13/00",
+      "ja": "紡績またはねん糸中の付随的な手段としての糸またはその類似物の湿潤，のり付け，給油，ワクシング，染色または乾燥",
+      "en": "Moistening, sizing, oiling, waxing, colouring, or drying yarns or the like as incidental measures during spinning or twisting",
+      "count": 2894,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H13/32": {
+      "code": "D01H13/32",
+      "level": 1,
+      "parent": "D01H13/00",
+      "ja": "計数，測定，記録または登録装置［２００６．０１］",
+      "en": "Counting, measuring, recording or registering devices",
+      "count": 2836,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H15/00": {
+      "code": "D01H15/00",
+      "level": 0,
+      "parent": "D01H",
+      "ja": "糸継ぎ装置（オープンエンド紡績機用Ｄ０１Ｈ４／４８）［２００６．０１］",
+      "en": "Piecing arrangements (for open-end spinning machines <b>D01H4/48</b>)",
+      "count": 2197,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H15/007": {
+      "code": "D01H15/007",
+      "level": 1,
+      "parent": "D01H15/00",
+      "ja": "二重ねん糸機械用［５］",
+      "en": "for two-for-one twisting machines",
+      "count": 248,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H15/013": {
+      "code": "D01H15/013",
+      "level": 1,
+      "parent": "D01H15/00",
+      "ja": "キャリッジが機械に沿って移動するもの［５］",
+      "en": "Carriages travelling along the machines",
+      "count": 499,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H17/00": {
+      "code": "D01H17/00",
+      "level": 0,
+      "parent": "D01H",
+      "ja": "手工具［２００６．０１］",
+      "en": "Hand tools",
+      "count": 198,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    },
+    "D01H17/02": {
+      "code": "D01H17/02",
+      "level": 1,
+      "parent": "D01H17/00",
+      "ja": "リングトラベラの貯蔵装置；リングにトラベラを供給するための装置",
+      "en": "Arrangements for storing ring travellers; Devices for applying travellers to rings",
+      "count": 233,
+      "sourceFile": "ipc_D01H.txt",
+      "kind": "ipc"
+    }
+  }
+}

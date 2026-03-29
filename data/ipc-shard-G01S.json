@@ -1,0 +1,3806 @@
+{
+  "generatedAt": "2026-03-20T02:17:47.029Z",
+  "total": 380,
+  "entries": {
+    "G01S": {
+      "code": "G01S",
+      "level": 0,
+      "parent": "G01",
+      "ja": "無線による方位測定；無線による航行；電波の使用による距離または速度の決定；電波の反射または再輻射を用いる位置測定または存在探知；その他の波を用いる類似の装置<br><br><b><ul>注</ul></b><br>（１）このサブクラスにおいては，下記の用語は以下に示す意味で用いる：［６］<br>―“応答機”とは，特定の応答波または識別波の発信により到来する質問波または探知波に反応する装置を意味する。［６］<br>（２）クラスＧ０１のタイトルに続く注およびサブクラスＧ０９Ｂのタイトルに続く注（１）に注意すること．<br><br><b><ul>サブクラス内の索引</ul></b><br>ビーコン方式；方位測定器；位置決定　１／００，１９／００；３／００；５／００<br>レーダまたは類似の方式<br>細部　７／００<br>電波を用いるもの，波長または波の種類に無関係または特定されないもの　１３／００<br>音波を用いるもの　１５／００<br>電波以外の電磁波を用いるもの　１７／００<br>反射または再放射を用いない距離または速度の測定方式　１１／００",
+      "en": "RADIO DIRECTION-FINDING; RADIO NAVIGATION; DETERMINING DISTANCE OR VELOCITY BY USE OF RADIO WAVES; LOCATING OR PRESENCE-DETECTING BY USE OF THE REFLECTION OR RERADIATION OF RADIO WAVES; ANALOGOUS ARRANGEMENTS USING OTHER WAVES; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this subclass, the following term is used with the meaning indicated: <ul><li>\"transponder\" means an arrangement which reacts to an incoming interrogating or detecting wave by emitting a specific answering or identifying wave. </li></ul></li><li>Attention is drawn to the Notes following the title of class <b>G01</b> and to Note (1) following the title of subclass <b>G09B</b>.</li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">BEACON SYSTEMS; DIRECTION-FINDERS; POSITION FIXING </td><td><b><b>1/00</b>, <b>19/00</b>; <b>3/00</b>; <b>5/00</b></b></td></tr></tr><tr><td width=\"70%\">RADAR OR ANALOGOUS SYSTEMS<tr><td width=\"70%\">Details </td><td><b><b>7/00</b></b></td></tr></tr><tr><td width=\"70%\">Using radio waves, using other waves where the wavelength or the kind of wave is irrelevant or unspecified </td><td><b><b>13/00</b></b></td></tr></tr><tr><td width=\"70%\">Using acoustic waves </td><td><b><b>15/00</b></b></td></tr></tr><tr><td width=\"70%\">Using electromagnetic waves other than radio waves </td><td><b><b>17/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">SYSTEMS FOR DETERMINING DISTANCE OR VELOCITY NOT USING REFLECTION OR RERADIATION </td><td><b><b>11/00</b></b></td></tr></tr></table>",
+      "count": 1669,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G01": {
+      "code": "G01",
+      "level": 0,
+      "parent": "G",
+      "ja": "測定；試験<br><br><b><ul>注</ul></b><br>（１）このクラスは“真”の測定計器のほかに類似構造の他の指示表示装置又は記録装置を含み，また更に，信号化装置又は制御装置についてはそれが測定に関するものであって（以下の注（２）で定義するように）特定の信号化目的または特定の制御目的に特に適合しないものである限り，含まれる。<br>（２）このクラスにおいては，下記の用語は以下に示す意味で用いる：<br>―“測定”はその第一義的意味又は基本的な意味よりもかなり広い意味を含むものとして用いる。この語の第一義的な意味においては，変量値を単位もしくはデータに関して又は同じ性質の別の変量に関して数値的に表現することを見い出すこと，例えば長さをスケールで測定するなどある長さを別の長さの表現で表わすこと，を意味する。この変量値は直接的に得る（すぐ前で言及したように）こともあり，また，水銀柱の長さの変化を測定することにより温度変化を測定するなど求める変量値に関連づけることのできる他の変量値を測定することよって得ることもある。しかしながら，同じ装置又は計器が，直接的な表示を行う代りに，記録をとったり，指示効果又は制御効果を奏すべく信号を発生するために用いられたり，或いは，他の装置又は計器と組み合わせて同種又は異種の二以上の変量の測定から一つのまとまった結果を得るために用いられることもあるので，“測定”はかかる数値的表現を変量を数値に変換する何らかの手段の付加的使用によって得ることを可能とするような操作をも含むものとして解釈することが必要である。従って，数値での表現は実際的にはデジタル的表現によって行なうこともありスケールを読むことによって行なうこともあり，また，その指示は数値を用いないで，例えば測定されている変量が特性又は状態であるところの実在物（例．物体，物質，光ビーム）について感知し得る何らかの特性（変量）によって又はそのような特性に類似するもの（例．スケールをもたない部材の対応位置，何らかの手段によって発生される対応電圧）によって，与えられることがある。<br>また，上記のような変量値指示が行なわれずに単に基準又はデータ（その値は数値的に既知のこともあり未知のこともある）に関しての異同を示すだけのことも多くある。この基準又はデータは同一性質であるが異なる実在物（例．標準器）の値のこともあり，或いは異なる時点での同一実在物の値であることもある。その最も単純な形態においては，測定は単にある状態又は性質，例えば運動（いずれかの方向又は特定の方向における）の有無を指示するだけのこともあるし，また，変量が既定値を超えるかどうかを指示するだけのこともある。<br>（３）“マイクロ構造の装置”および“マイクロ構造のシステム”に関する，クラスＢ８１およびサブクラスＢ８１Ｂの両タイトルの後の注に注意すること。［７］<br>（４）セクションＧのタイトルに続く注，特に“変量”という用語の定義については注意はすること。<br>（５）多くの測定装置において，測定すべき第一の変量は第二の変量またはさらなる変量に変換される。第二の変量またはさらなる変量は，第一の変量に関係して構成部材に生じた状態，または構成部材の変位であるかもしれない。そして，さらに変換が必要となるかもしれない。［６］<br>このような装置を分類するときは，（ｉ）重要である特定の変換ステップ，または重要である個々の変換ステップを分類するか，または（ｉｉ）全体としてのシステムのみが重要な場合は，第一の変量を該当する箇所に分類する。［６］<br>これは２つ以上の変換が起こる場合に特に重要である。たとえば，第一の変量（例．圧力）が第二の変量（例．感知体の光学的特性）に変換され，さらにその第二の変量が第三の変量（例．電気的効果）で示されるような場合である。このような場合には，次の分類箇所を考慮しなければならない：<br>第一の変量の変換についての分類場所，その変量により生じた状態を感知することについての分類場所，測定を示すＧ０１Ｄ，そして最後に，該当する場合は，システム全体を分類する場所である。［６］<br>（６）物理的特性の値の変化の測定は，その物理的特性の測定と同一のサブクラスに分類する。例えば，長さの伸びの測定はサブクラスＧ０１Ｂに分類する。",
+      "en": "MEASURING; TESTING; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This class <u>covers</u>, in addition to \"true\" measuring instruments, other indicating or recording devices of analogous construction, and also signalling or control devices insofar as they are concerned with measurement (as defined in Note 2 below) and are not specially adapted to the particular purpose of signalling or control.</li><li>In this class, the following term is used with the meaning indicated: <ul><li>\"measuring\" is used to cover considerably more than its primary or basic meaning. In this primary sense, it means finding a numerical expression of the value of a variable in relation to a unit or datum or to another variable of the same nature, e.g. expressing a length in terms of another length as in measuring a length with a scale; the value may be obtained directly (as just suggested) or by measuring some other variable of which the value can be related to the value of the required variable, as in measuring a change in temperature by measuring a resultant change in the length of a column of mercury. However, since the same device or instrument may, instead of giving an immediate indication, be used to produce a record or to initiate a signal to produce an indication or control effect, or may be used in combination with other devices or instruments to give a conjoint result from measurement of two or more variables of the same or different kinds, it is necessary to interpret \"measuring\" as including also any operation that would make it possible to obtain such a numerical expression by the additional use of some way of converting a value into figures. Thus the expression in figures may be actually made by a digital presentation or by reading a scale, or an indication of it may be given without the use of figures, e.g. by some perceptible feature (variable) of the entity (e.g. object, substance, beam of light) of which the variable being measured is a property or condition or by an analogue of such a feature (e.g. the corresponding position of a member without any scale, a corresponding voltage generated in some way). In many cases there is no such value indication but only an indication of difference or equality in relation to a standard or datum (of which the value may or may not be known in figures); the standard or datum may be the value of another variable of the same nature but of a different entity (e.g. a standard measure) or of the same entity at a different time. <ul><li>In its simplest form, measurement may give merely an indication of presence or absence of a certain condition or quality, e.g. movement (in any direction or in a particular direction), or whether a variable exceeds a predetermined value.</li></ul></li></ul></li><li>Attention is drawn to the Notes following the titles of class <b>B81</b> and subclass <b>B81B</b> relating to \"microstructural devices\" and \"microstructural systems\" and the Notes following the title of subclass <b>B82B</b> relating to \"nanostructures\".</li><li>Attention is drawn to the Notes following the title of section <b>G</b>, especially as regards the definition of the term \"variable\".</li><li>In many measuring arrangements, a first variable to be measured is transformed into a second, or further, variables. The second, or further, variables may be (a) a condition related to the first variable and produced in a member, or (b) a displacement of a member. Further transformation may be needed. <ul><li>When classifying such an arrangement, (i) the transformation step, or each transformation step, that is of interest is classified, or (ii) if interest lies only in the system as a whole, the first variable is classified in the appropriate place.</li><li>This is particularly important where two or more conversions take place, for instance where a first variable, for example pressure, is transformed into a second variable, for example an optical property of a sensing body, and that second variable is expressed by means of a third variable, for example an electric effect. In such a case, the following classification places should be considered: the place for the transformation of the first variable, that for sensing the condition caused by that variable, subclass <b>G01D</b> for expression of the measurement, and finally the place for the overall system, if any.</li></ul></li><li>The measurement of change in the value of a physical property is classified in the same subclass as the measurement of that physical property, e.g. measurement of expansion of length is classified in subclass <b>G01B</b>.</li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G": {
+      "code": "G",
+      "level": 0,
+      "parent": null,
+      "ja": "物理学<br><br><b><ul>注</ul></b><br>１．このセクションにおいては，下記の用語は以下に示す意味で用いる：<br>・“変量”は名詞として，特定の実在物，例．物体，ある量の物質，光ビーム，に関し特定の瞬間に測定することの可能な特性又は特質，例．寸法，温度等の物理的状態，密度又は色等の性質，を意味する。変量が変化すると，その数値的表現は異なる時点で，異なる状態又は個々の状況において異なる値をとることもあり，また，ある状態のもとで又は実用上特定の実在物に関して一定でありうる，例．バーの長さが多くの目的のために一定とみなされる，こともある。<br>２．使用される用語または表現の定義に注意すること。このセクションのいくつかのクラスの注に使用されているものについて，特にクラスＧ０１の“測定”を参照されたい．ＩＰＣ指針パラグラフ１８７の中にあるものについて，“制御”及び“調整”の定義に参照されたい。<br>３．このセクションにおける分類は他のセクションにおいてよりもめんどうな場合があり得る，というのは，その一つは，いろいろな使用分野の差異の判別には構造上の差異又は使用形態上の差異よりも寧ろ使用者の意図における差異の方にかなりの程度影響されてしまうからであり，もう一つは，扱う主題が容易に全体として識別できる“もの”であるよりも，特性又は部品が他の主題のものと共通のものを有しているシステム又は組合わせであることが実際上多いからである。例えば，情報（例．一連の数値）をディスプレイするのは，クラスＧ０９に包含される，教育又は広告のため，クラスＧ０１に包含される，測定の結果が通知されうるため，クラスＧ０８に包含される，遠隔地点に情報を合図するため，又は遠隔地点から合図された情報を提供するためである。目的を記述するために使用する言葉は，当該装置の形態に無関係なこともあり得る特性－例えば，ディスプレイを見る者にとって望ましい効果とか，ディスプレイが遠隔地点から制御されるかどうかという特性－によって決定される。さらに，ある状態，例えば流体圧の変化に応答する装置は，その装置そのものには変更を加えずして，サブクラスＧ０１Ｌに包含される圧力又はＧ０１の他のサブクラスに包含される圧力に関連した他の何らかの状態，例．温度に関してＧ０１Ｋ，についての情報を与えるため，サブクラスＧ０７Ｃに包含される圧力または圧力発生の記録をするため，サブクラスＧ０８Ｂに包含される警報を発するため，又はクラスＧ０５に包含される他の何らかの装置を制御するために用いられることがある。<br>　本分類表は，前述したように，同一の性質のものは同一箇所に分類し得るようにしたものである。従って，技術主題が適切箇所に分類されるためには予めその真正な本質を把握することが特に必要である。",
+      "en": "PHYSICS; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this section, the following term is used with the meaning indicated: <ul><li>\"variable\" as a noun means a feature or property, e.g. a dimension, a physical condition such as temperature, a quality such as density or colour, which, in respect of a particular entity, e.g. an object, a quantity of a substance, a beam of light, and at a particular instant, is capable of being measured; the variable may change, so that its numerical expression may assume different values at different times, in different conditions or in individual cases, but may be constant in respect of a particular entity in certain conditions or for practical purposes, e.g. the length of a bar may be regarded as constant for many purposes.</li></ul></li><li>Attention is drawn to the definitions of terms or expressions used. Some appear in the notes of several of the classes in this section, see in particular the definition of \"measuring\" in class <b>G01</b>. Others appear in paragraph 187 of the Guide to the IPC, see in particular the definitions of \"control\" and \"regulation\".</li><li>Classification in this section may present more difficulty than in other sections, because the distinction between different fields of use rests to a considerable extent on differences in the intention of the user rather than on any constructional differences or differences in the manner of use, and because the subjects dealt with are often in effect systems or combinations, which have features or parts in common, rather than \"things\", which are readily distinguishable as a whole. For example, information, e.g. a set of figures, may be displayed for the purpose of education or advertising covered by class <b>G09</b>, for enabling the result of a measurement to be known covered by class <b>G01</b>, for signalling the information to a distant point or for giving information which has been signalled from a distant point covered by class <b>G08</b>. The words used to describe the purpose depend on features that may be irrelevant to the form of the apparatus concerned, for example, such features as the desired effect on the person who sees the display, or whether the display is controlled from a remote point. Again, a device which responds to some change in a condition, e.g. in the pressure of a fluid, may be used, without modification of the device itself, to give information about the pressure covered by subclass <b>G01L</b> or about some other condition linked to the pressure covered by another subclass of class <b>G01</b>, e.g. <b>G01K</b> for temperature, to make a record of the pressure or of its occurrence covered by subclass <b>G07C</b>, to give an alarm covered by subclass <b>G08B</b>, or to control another apparatus covered by class <b>G05</b>. <ul><li>The classification scheme is intended to enable things of a similar nature, as indicated above, to be classified together. It is therefore particularly necessary for the real nature of any technical subject to be decided before it can be properly classified.</li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G01S1/00": {
+      "code": "G01S1/00",
+      "level": 0,
+      "parent": "G01S",
+      "ja": "非指向性受信機により探知でき，かつビーコン送信機に関連して定められる方向，位置，または位置線を測定できる，１または複数の特性をもつ信号を送信するビーコンまたはビーコン方式；それと協働する受信機（２以上の方向，位置線測定を組み合わせることによる位置決定Ｇ０１Ｓ５／００）［２］",
+      "en": "Beacons or beacon systems transmitting signals having a characteristic or characteristics capable of being detected by non-directional receivers and defining directions, positions, or position lines fixed relatively to the beacon transmitters; Receivers co-operating therewith(position-fixing by co-ordinating a plurality of determinations of direction or position lines <b>G01S5/00</b>)",
+      "count": 5312,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S1/02": {
+      "code": "G01S1/02",
+      "level": 1,
+      "parent": "G01S1/00",
+      "ja": "電波を使用するもの（１９／００が優先）［１，２０１０．０１］",
+      "en": "using radio waves(<b>G01S19/00</b> takes precedence)",
+      "count": 9956,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S1/04": {
+      "code": "G01S1/04",
+      "level": 2,
+      "parent": "G01S1/02",
+      "ja": "細部",
+      "en": "Details",
+      "count": 1804,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S1/06": {
+      "code": "G01S1/06",
+      "level": 3,
+      "parent": "G01S1/04",
+      "ja": "多重指示を与えるための手段，例．粗指示および精密指示",
+      "en": "Means for providing multiple indication, e.g. coarse and fine indications",
+      "count": 99,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S1/08": {
+      "code": "G01S1/08",
+      "level": 2,
+      "parent": "G01S1/02",
+      "ja": "方向または位置線を決定するための方式",
+      "en": "Systems for determining direction or position line",
+      "count": 1240,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S1/10": {
+      "code": "G01S1/10",
+      "level": 3,
+      "parent": "G01S1/08",
+      "ja": "別々の方向を向きながらも互いに重複した指向特性をもつ複数のアンテナまたはアンテナ方式から，順次に送信された複数の信号の振幅を比較するもの，例．等信号Ａ―Ｎ形",
+      "en": "using amplitude comparison of signals transmitted sequentially from antennas or antenna systems having differently-oriented overlapping directivity-characteristics, e.g. equi-signal A-N type",
+      "count": 71,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S1/12": {
+      "code": "G01S1/12",
+      "level": 4,
+      "parent": "G01S1/10",
+      "ja": "信号が，周期的に変化するその指向特性の方向をもつ一つのアンテナまたはアンテナ方式から順次に送信されるもの，例．順次に動作する反射器によるもの",
+      "en": "the signals being transmitted sequentially from an antenna or antenna system having the orientation of its directivity characteristic periodically varied, e.g. by means of sequentially effective reflectors",
+      "count": 28,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S1/14": {
+      "code": "G01S1/14",
+      "level": 3,
+      "parent": "G01S1/08",
+      "ja": "別々の方向を向きながらも互いに重複した指向特性をもつ複数のアンテナまたはアンテナ方式から，同時に送信された複数の信号の振幅を比較するもの",
+      "en": "using amplitude comparison of signals transmitted simultaneously from antennas or antenna systems having differently-oriented overlapping directivity-characteristics",
+      "count": 222,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S1/16": {
+      "code": "G01S1/16",
+      "level": 4,
+      "parent": "G01S1/14",
+      "ja": "方位角誘導方式，例．航空機接近路を決定するための方式，ローカライザ方式",
+      "en": "Azimuthal guidance systems, e.g. system for defining aircraft approach path, localiser system",
+      "count": 169,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S1/18": {
+      "code": "G01S1/18",
+      "level": 4,
+      "parent": "G01S1/14",
+      "ja": "仰角誘導方式，例．航空機グライドパスを決定するための方式",
+      "en": "Elevational guidance systems, e.g. system for defining aircraft glide path",
+      "count": 91,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S1/20": {
+      "code": "G01S1/20",
+      "level": 3,
+      "parent": "G01S1/08",
+      "ja": "互いに離れて配置された無指向性のアンテナまたはアンテナ方式から送信された，複数の同期した信号の伝播時間を比較するもの，すなわち路程差方式",
+      "en": "using a comparison of transit time of synchronised signals transmitted from non-directional antennas or antenna systems spaced apart, i.e. path-difference systems ",
+      "count": 336,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S1/22": {
+      "code": "G01S1/22",
+      "level": 4,
+      "parent": "G01S1/20",
+      "ja": "上記の複数の同期した信号は，各搬送波の周波数が変調されており，かつ上記の伝播時間は受信された各搬送波の瞬時周波数の差の測定により比較されるもの",
+      "en": "the synchronised signals being frequency modulations on carrier waves and the transit times being compared by measuring difference of instantaneous frequencies of received carrier waves",
+      "count": 64,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S1/24": {
+      "code": "G01S1/24",
+      "level": 4,
+      "parent": "G01S1/20",
+      "ja": "上記の複数の同期した信号は，各搬送波がパルス変調または等価的にパルス変調され，かつ上記の伝播時間は変調の有意部分の到達時間差の測定により比較されるもの",
+      "en": "the synchronised signals being pulses or equivalent modulations on carrier waves and the transit times being compared by measuring the difference in arrival time of a significant part of the modulations",
+      "count": 662,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S1/26": {
+      "code": "G01S1/26",
+      "level": 5,
+      "parent": "G01S1/24",
+      "ja": "複数のパルスまたは複数の時間基準信号が受信機で局部的に発生され，かつ受信信号に対し所定の時間関係に持って来られる方式，例．パルス間隔が，第１および第２のアンテナまたはアンテナ方式から受信された信号の変調の有意部分の到達時間差と一致する方式",
+      "en": "Systems in which pulses or time-base signals are generated locally at the receiver and brought into predetermined time-relationship with received signals, e.g. pulse duration coincides with time interval between arrival of significant part of modulation of signals received from first and second antennas or antenna systems",
+      "count": 11,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S1/28": {
+      "code": "G01S1/28",
+      "level": 6,
+      "parent": "G01S1/26",
+      "ja": "上記の所定の時間関係が自動的に維持されるもの",
+      "en": "wherein the predetermined time-relationship is maintained automatically",
+      "count": 8,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S1/30": {
+      "code": "G01S1/30",
+      "level": 4,
+      "parent": "G01S1/20",
+      "ja": "上記の同期した信号または連続波の断続列系であって、その断続は、方向または位置線を決定するためのものでなく、かつ上記の伝播時間は位相差の測定により比較されるもの",
+      "en": "the synchronised signals being continuous waves or intermittent trains of continuous waves, the intermittency not being for the purpose of determining direction or position line and the transit times being compared by measuring the phase difference",
+      "count": 448,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S1/32": {
+      "code": "G01S1/32",
+      "level": 5,
+      "parent": "G01S1/30",
+      "ja": "増幅の有無を問わず，受信された複数の信号またはそこから導かれた信号が直接に位相比較される方式",
+      "en": "Systems in which the signals received, with or without amplification, or signals derived therefrom, are compared in phase directly",
+      "count": 57,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S1/34": {
+      "code": "G01S1/34",
+      "level": 5,
+      "parent": "G01S1/30",
+      "ja": "第１と第２の同期した信号が両アンテナまたはアンテナ方式から送信され，かつ第１の信号を互いにヘテロダインすることによって得られるビート周波数が，第２の信号を互いにヘテロダインすることによって得られるビート周波数と位相比較される方式",
+      "en": "Systems in which first and second synchronised signals are transmitted from both antennas or antenna systems and a beat frequency, obtained by heterodyning the first signals with each other is compared in phase with a beat frequency obtained by heterodyning the second signals with each other",
+      "count": 1,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S1/36": {
+      "code": "G01S1/36",
+      "level": 5,
+      "parent": "G01S1/30",
+      "ja": "同期した複数の信号をヘテロダインすることによって得られたビート周波数が，実質的に方向と無関係な位相をもつ基準信号と位相比較される方式",
+      "en": "Systems in which a beat frequency, obtained by heterodyning the synchronised signals, is compared in phase with a reference signal having a phase substantially independent of direction",
+      "count": 6,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S1/38": {
+      "code": "G01S1/38",
+      "level": 3,
+      "parent": "G01S1/08",
+      "ja": "［１］循環路を移動または移動するように見えるアンテナにより送信された信号の，ドップラー効果による，周波数変化の包絡線の位相と，［２］アンテナの循環移動または見かけの循環移動の周波数に同期されている基準信号の位相との比較を用いるもの",
+      "en": "using comparison of [1] the phase of the envelope of the change of frequency, due to Doppler effect, of the signal transmitted by an antenna moving, or appearing to move, in a cyclic path with [2] the phase of a reference signal, the frequency of this reference signal being synchronised with that of the cyclic movement, or apparent cyclic movement, of the antenna",
+      "count": 137,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S1/40": {
+      "code": "G01S1/40",
+      "level": 4,
+      "parent": "G01S1/38",
+      "ja": "アンテナの見かけの移動が，複数の固定アンテナの循環的，順次的付勢により作り出されるもの",
+      "en": "the apparent movement of the antenna being produced by cyclic sequential energisation of fixed antennas",
+      "count": 172,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S1/42": {
+      "code": "G01S1/42",
+      "level": 3,
+      "parent": "G01S1/08",
+      "ja": "移動受信機において，その受信機の，円すい走査軸からの任意の変位を指示する信号を送信する円すい走査ビームビーコン，例．“ビームライデング”ミサイル制御用［５］",
+      "en": "Conical-scan beam beacons transmitting signals which indicate at a mobile receiver any displacement of the receiver from the conical-scan axis, e.g. for \"beam-riding\" missile control",
+      "count": 46,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S1/44": {
+      "code": "G01S1/44",
+      "level": 3,
+      "parent": "G01S1/08",
+      "ja": "回転面または揺動面内における方向を定める回転ビーコンまたは揺動ビーコン［５］",
+      "en": "Rotating or oscillating beam beacons defining directions in the plane of rotation or oscillation",
+      "count": 104,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S1/46": {
+      "code": "G01S1/46",
+      "level": 4,
+      "parent": "G01S1/44",
+      "ja": "受信機においてビームの搬送波の実質的に連続する正弦波包絡線信号を作り出し，かつその位相角がビーコンに対する基準方向との間の角度に依存するところの広ビーム方式，例．カージオイド方式［２００６．０１］",
+      "en": "Broad-beam systems producing at a receiver a substantially continuous sinusoidal envelope signal of the carrier wave of the beam, the phase angle of which is dependent upon the angle between the direction of the receiver from the beacon and a reference direction from the beacon, e.g. cardioid system",
+      "count": 72,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S1/48": {
+      "code": "G01S1/48",
+      "level": 5,
+      "parent": "G01S1/46",
+      "ja": "方向に依存する包絡線信号の位相角が方向角の倍数であるもの，例．「精密」方位角指示用［５］",
+      "en": "wherein the phase angle of the direction-dependent envelope signal is a multiple of the direction angle, e.g. for \"fine\" bearing indication",
+      "count": 45,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S1/50": {
+      "code": "G01S1/50",
+      "level": 5,
+      "parent": "G01S1/46",
+      "ja": "方向に依存する包絡線信号の位相角が，方向に依存しない基準信号と比較されるもの［５］",
+      "en": "wherein the phase angle of the direction-dependent envelope signal is compared with a non-direction- dependent reference signal",
+      "count": 120,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S1/52": {
+      "code": "G01S1/52",
+      "level": 5,
+      "parent": "G01S1/46",
+      "ja": "別々の速度または別々の方向で回転する複数のビームにより作り出された，方向に依存する複数の包絡線信号の各位相角が比較されるもの［５］",
+      "en": "wherein the phase angles of a plurality of direction-dependent envelope signals produced by a plurality of beams rotating at different speeds or in different directions are compared",
+      "count": 1,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S1/54": {
+      "code": "G01S1/54",
+      "level": 4,
+      "parent": "G01S1/44",
+      "ja": "受信機において，ビーム搬送波のパルス形包絡線信号を作り出し，かつそのタイミングがビーコンに対する受信機の方向とビーコンに対する基準方向との間の角度に依存する狭ビーム方式；受信機において，ビーム搬送波のパルス形包絡線信号を作り出し，かつそのタイミングが，ビーコンに対する受信機の方向とビーコンに対する基準方向との間の角度に依存している，狭い範囲を定める重複広ビーム方式［５］",
+      "en": "Narrow-beam systems producing at a receiver a pulse-type envelope signal of the carrier wave of the beam, the timing of which is dependent upon the angle between the direction of the receiver from the beacon and a reference direction from the beacon; Overlapping broad beam systems defining a narrow zone and producing at a receiver a pulse-type envelope signal of the carrier wave of the beam, the timing of which is dependent upon the angle between the direction of the receiver from the beacon and a reference direction from the beacon",
+      "count": 180,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S1/56": {
+      "code": "G01S1/56",
+      "level": 5,
+      "parent": "G01S1/54",
+      "ja": "ビームの受信により導かれたパルス形包絡線信号のタイミング［５］",
+      "en": "Timing the pulse-type envelope signals derived by reception of beam",
+      "count": 83,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S1/58": {
+      "code": "G01S1/58",
+      "level": 5,
+      "parent": "G01S1/54",
+      "ja": "送信されるビームの特性または補助信号の特性が，ビームの回転または揺動と時間的に同期して変化されるもの［５］",
+      "en": "wherein a characteristic of the beam transmitted or of an auxiliary signal is varied in time synchronously with rotation or oscillation of the beam",
+      "count": 11,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S1/60": {
+      "code": "G01S1/60",
+      "level": 6,
+      "parent": "G01S1/58",
+      "ja": "ビーム信号または補助信号の周波数を変化させるもの［５］",
+      "en": "Varying frequency of beam signal or of auxiliary signal",
+      "count": 20,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S1/62": {
+      "code": "G01S1/62",
+      "level": 6,
+      "parent": "G01S1/58",
+      "ja": "ビーム信号と補助信号との間の位相角関係を変化させるもの［５］",
+      "en": "Varying phase-relationship between beam and auxiliary signal",
+      "count": 11,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S1/64": {
+      "code": "G01S1/64",
+      "level": 6,
+      "parent": "G01S1/58",
+      "ja": "パルスタイミングを変化させるもの，例．対をなして放射されるパルスの間の間隔を変化させるもの［５］",
+      "en": "Varying pulse timing, e.g. varying interval between pulses radiated in pairs",
+      "count": 18,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S1/66": {
+      "code": "G01S1/66",
+      "level": 6,
+      "parent": "G01S1/58",
+      "ja": "方向を指示する情報信号，例．音声，モールス，を付加するもの［５］",
+      "en": "Superimposing direction-indicating intelligence signals, e.g. speech, Morse",
+      "count": 27,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S1/68": {
+      "code": "G01S1/68",
+      "level": 2,
+      "parent": "G01S1/02",
+      "ja": "方向情報をもたない信号を送信するマーカビーコン，バウンダリビーコン，コールサインビーコンまたは同様なビーコン",
+      "en": "Marker, boundary, call-sign, or like beacons transmitting signals not carrying directional information",
+      "count": 1957,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S1/70": {
+      "code": "G01S1/70",
+      "level": 1,
+      "parent": "G01S1/00",
+      "ja": "電波以外の電磁波を用いるもの",
+      "en": "using electromagnetic waves other than radio waves",
+      "count": 1316,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S1/72": {
+      "code": "G01S1/72",
+      "level": 1,
+      "parent": "G01S1/00",
+      "ja": "超音波，音波または亜音波を用いるもの［２００６．０１］",
+      "en": "using ultrasonic, sonic or infrasonic waves",
+      "count": 2839,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S1/74": {
+      "code": "G01S1/74",
+      "level": 2,
+      "parent": "G01S1/72",
+      "ja": "細部［５］",
+      "en": "Details",
+      "count": 170,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S1/76": {
+      "code": "G01S1/76",
+      "level": 2,
+      "parent": "G01S1/72",
+      "ja": "方向または位置決定のための方式［５］",
+      "en": "Systems for determining direction or position line",
+      "count": 241,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S1/78": {
+      "code": "G01S1/78",
+      "level": 3,
+      "parent": "G01S1/76",
+      "ja": "別々の方向を向く特性をもつ変換器または変換器方式から送信された複数の信号の振幅を比較するもの［５］",
+      "en": "using amplitude comparison of signals transmitted from transducers or transducer systems having differently-oriented characteristics",
+      "count": 23,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S1/80": {
+      "code": "G01S1/80",
+      "level": 3,
+      "parent": "G01S1/76",
+      "ja": "互いに離れて配置された無指向性の変換器または変換器方式から送信される，複数の同期した信号の伝播時間を比較するもの，すなわち路程差方式［５］",
+      "en": "using a comparison of transit time of synchronised signals transmitted from non-directional transducers or transducer systems spaced apart, i.e. path-difference systems",
+      "count": 94,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S1/82": {
+      "code": "G01S1/82",
+      "level": 3,
+      "parent": "G01S1/76",
+      "ja": "回転面または揺動面内における方向を定める回転ビーコンまたは誘動ビーコン［５］",
+      "en": "Rotating or oscillating beam beacons defining directions in the plane of rotation or oscillation",
+      "count": 15,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S3/00": {
+      "code": "G01S3/00",
+      "level": 0,
+      "parent": "G01S",
+      "ja": "方向性を有しない亜音波，音波，超音波，電磁波，または粒子放射の到来する方向を決定するための方位測定機（２以上の方向，位置線測定を組み合わせることによる位置決定Ｇ０１Ｓ５／００）［２００６．０１］",
+      "en": "Direction-finders for determining the direction from which infrasonic, sonic, ultrasonic or electromagnetic waves, or particle emission, not having a directional significance, are being received(position-fixing by co-ordinating a plurality of determinations of direction or position lines <b>G01S5/00</b>)",
+      "count": 851,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S3/02": {
+      "code": "G01S3/02",
+      "level": 1,
+      "parent": "G01S3/00",
+      "ja": "電波を用いるもの",
+      "en": "using radio waves",
+      "count": 2376,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S3/04": {
+      "code": "G01S3/04",
+      "level": 2,
+      "parent": "G01S3/02",
+      "ja": "細部",
+      "en": "Details",
+      "count": 1400,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S3/06": {
+      "code": "G01S3/06",
+      "level": 3,
+      "parent": "G01S3/04",
+      "ja": "実効的な指向性を増大させるための手段，例．別々の方向に向けられた指向特性をもつ信号によるものまたは回転または揺動しているビームアンテナから求められる信号の包絡線波形のせん鋭化によるもの（方向を決定するために別々の方向に向けられた指向特性をもつ複数の信号の振幅を比較するものＧ０１Ｓ３／１６，Ｇ０１Ｓ３／２８）",
+      "en": "Means for increasing effective directivity, e.g. by combining signals having differently-oriented directivity characteristics or by sharpening the envelope waveform of the signal derived from a rotating or oscillating beam antenna (comparing amplitude of signals having differently-oriented directivity characteristics to determine direction <b>G01S3/16</b>, <b>G01S3/28</b>)",
+      "count": 418,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S3/08": {
+      "code": "G01S3/08",
+      "level": 3,
+      "parent": "G01S3/04",
+      "ja": "偏波誤差を低減させるための手段，例．アドコック形または間隔を置いて並べられたループアンテナ方式の使用によるもの",
+      "en": "Means for reducing polarisation errors, e.g. by use of Adcock or spaced loop antenna systems",
+      "count": 380,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S3/10": {
+      "code": "G01S3/10",
+      "level": 3,
+      "parent": "G01S3/04",
+      "ja": "象限誤差，設置誤差または同様の誤差を低減または補償するための手段",
+      "en": "Means for reducing or compensating for quadrantal, site, or like errors",
+      "count": 374,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S3/12": {
+      "code": "G01S3/12",
+      "level": 3,
+      "parent": "G01S3/04",
+      "ja": "方向のセンスを決定するための手段，例．指向性アンテナまたはゴニオメータの捜索コイルからの信号と，無指向性アンテナからの信号との結合によるもの（指向性信号と無指向性信号との結合によって引き出された複数の信号の振幅を比較することによる方向の測定Ｇ０１Ｓ３／２４，Ｇ０１Ｓ３／３４）",
+      "en": "Means for determining sense of direction, e.g. by combining signals from directional antenna or goniometer search coil with those from non-directional antenna (determining direction by amplitude comparison of signals derived by combining directional and non-directional signals <b>G01S3/24</b>, <b>G01S3/34</b>)",
+      "count": 603,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S3/14": {
+      "code": "G01S3/14",
+      "level": 2,
+      "parent": "G01S3/02",
+      "ja": "方向の決定または所定の方向からの偏差の決定のための方式",
+      "en": "Systems for determining direction or deviation from predetermined direction",
+      "count": 3705,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S3/16": {
+      "code": "G01S3/16",
+      "level": 3,
+      "parent": "G01S3/14",
+      "ja": "別々の方向に向けられた指向特性をもつ複数の受信アンテナもしくはアンテナ方式，または指向特性の方向が周期的に変えられる１個のアンテナから，順次引き出された複数の信号の振幅を比較するもの",
+      "en": "using amplitude comparison of signals derived sequentially from receiving antennas or antenna systems having differently-oriented directivity characteristics or from an antenna system having periodically-varied orientation of directivity characteristic",
+      "count": 414,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S3/18": {
+      "code": "G01S3/18",
+      "level": 4,
+      "parent": "G01S3/16",
+      "ja": "別々の指向性アンテナから直接に導かれたもの",
+      "en": "derived directly from separate directional antennas",
+      "count": 99,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S3/20": {
+      "code": "G01S3/20",
+      "level": 4,
+      "parent": "G01S3/16",
+      "ja": "指向特性の方向が周期的に変化される１個のアンテナ方式により受信された信号の標本化によって導かれたもの",
+      "en": "derived by sampling signal received by an antenna system having periodically-varied orientation of directivity characteristic ",
+      "count": 139,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S3/22": {
+      "code": "G01S3/22",
+      "level": 4,
+      "parent": "G01S3/16",
+      "ja": "別々のアンテナからの信号の別々の結合から導かれるもの，例．和と差との比較",
+      "en": "derived from different combinations of signals from separate antennas, e.g. comparing sum with difference",
+      "count": 99,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S3/24": {
+      "code": "G01S3/24",
+      "level": 5,
+      "parent": "G01S3/22",
+      "ja": "上記の別々のアンテナが一つの指向性アンテナと一つの無指向性アンテナとを包含するもの，例．逆のカージオイド指向特性を作り出すループアンテナと開路アンテナとの結合",
+      "en": "the separate antennas comprising one directional antenna and one non-directional antenna, e.g. combination of loop and open antennas producing a reversed cardioid directivity characteristic ",
+      "count": 42,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S3/26": {
+      "code": "G01S3/26",
+      "level": 5,
+      "parent": "G01S3/22",
+      "ja": "上記の別々のアンテナが別々の方向に向けられた指向特性をもつもの",
+      "en": "the separate antennas having differently-oriented directivity characteristics",
+      "count": 37,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S3/28": {
+      "code": "G01S3/28",
+      "level": 3,
+      "parent": "G01S3/14",
+      "ja": "別々の方向に向けられた指向特性をもつ複数の受信アンテナまたは受信アンテナ方式から，同時に導かれた複数の信号の振幅を比較するもの",
+      "en": "using amplitude comparison of signals derived simultaneously from receiving antennas or antenna systems having differently-oriented directivity characteristics",
+      "count": 422,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S3/30": {
+      "code": "G01S3/30",
+      "level": 4,
+      "parent": "G01S3/28",
+      "ja": "別々の指向性方式から直接導かれるもの",
+      "en": "derived directly from separate directional systems",
+      "count": 149,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S3/32": {
+      "code": "G01S3/32",
+      "level": 4,
+      "parent": "G01S3/28",
+      "ja": "別々のアンテナからの複数の信号の別々の結合から導かれるもの，例．和と差との比較",
+      "en": "derived from different combinations of signals from separate antennas, e.g. comparing sum with difference",
+      "count": 352,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S3/34": {
+      "code": "G01S3/34",
+      "level": 5,
+      "parent": "G01S3/32",
+      "ja": "上記の別々のアンテナが一つの指向性アンテナと一つの無指向性アンテナとを包含するもの，例．逆のカージオイド指向特性を作り出すループアンテナと開路アンテナとの組合せ",
+      "en": "the separate antennas comprising one directional antenna and one non-directional antenna, e.g. combination of loop and open antennas producing a reversed cardioid directivity characteristic",
+      "count": 42,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S3/36": {
+      "code": "G01S3/36",
+      "level": 5,
+      "parent": "G01S3/32",
+      "ja": "上記の別々のアンテナが別々の方向に向けられた指向特性をもつもの",
+      "en": "the separate antennas having differently-oriented directivity characteristics",
+      "count": 74,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S3/38": {
+      "code": "G01S3/38",
+      "level": 3,
+      "parent": "G01S3/14",
+      "ja": "１個のアンテナまたはアンテナ方式の指向特性の現実の方向または実効方向を調整して，該アンテナまたはアンテナ方式から導かれる信号を所望の状態にするもの，例．最大または最小信号を与えるもの（Ｇ０１Ｓ３／１６，Ｇ０１Ｓ３／２８が優先）",
+      "en": "using adjustment of real or effective orientation of directivity characteristic of an antenna or an antenna system to give a desired condition of signal derived from that antenna or antenna system, e.g. to give a maximum or minimum signal(<b>G01S3/16</b>, <b>G01S3/28</b> take precedence)",
+      "count": 444,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S3/40": {
+      "code": "G01S3/40",
+      "level": 4,
+      "parent": "G01S3/38",
+      "ja": "最大または最小信号を与えるために単一指向特性の方向を調整するもの，例．回転式ループアンテナまたは等価ゴニオメータ方式",
+      "en": "adjusting orientation of a single directivity characteristic to produce maximum or minimum signal, e.g. rotatable loop antenna or equivalent goniometer system",
+      "count": 196,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S3/42": {
+      "code": "G01S3/42",
+      "level": 4,
+      "parent": "G01S3/38",
+      "ja": "上記の所望の状態が自動的に維持されるもの",
+      "en": "the desired condition being maintained automatically",
+      "count": 1086,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S3/44": {
+      "code": "G01S3/44",
+      "level": 4,
+      "parent": "G01S3/38",
+      "ja": "所望状態が達成されて調整が自動的に停止されるまで，その調整が周期的または連続的に変化されるもの",
+      "en": "the adjustment being varied periodically or continuously until it is halted automatically when the desired condition is attained",
+      "count": 223,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S3/46": {
+      "code": "G01S3/46",
+      "level": 3,
+      "parent": "G01S3/14",
+      "ja": "間隔を置いて並べられたアンテナ列を使用するものであって，該アンテナからの信号の間の位相差または時間差を測定するもの，すなわち路程差方式",
+      "en": "using antennas spaced apart and measuring phase or time difference between signals therefrom, i.e. path-difference systems",
+      "count": 1752,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S3/48": {
+      "code": "G01S3/48",
+      "level": 4,
+      "parent": "G01S3/46",
+      "ja": "各アンテナに到達する電波が連続的または断続的であって，それらのアンテナから導かれた信号の間の位相差が測定されるもの",
+      "en": "the waves arriving at the antennas being continuous or intermittent and the phase difference of signals derived therefrom being measured",
+      "count": 1192,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S3/50": {
+      "code": "G01S3/50",
+      "level": 4,
+      "parent": "G01S3/46",
+      "ja": "各アンテナに到達する電波がパルス変調されており，それらの到達時間差が測定されるもの",
+      "en": "the waves arriving at the antennas being pulse modulated and the time difference of their arrival being measured",
+      "count": 183,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S3/52": {
+      "code": "G01S3/52",
+      "level": 3,
+      "parent": "G01S3/14",
+      "ja": "受信信号の周波数をドップラー偏移させるために，周期的通路内で移動する，または移動するように見える受信アンテナを用いるもの",
+      "en": "using a receiving antenna moving, or appearing to move, in a cyclic path to produce a Doppler variation of frequency of the received signal",
+      "count": 145,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S3/54": {
+      "code": "G01S3/54",
+      "level": 4,
+      "parent": "G01S3/52",
+      "ja": "アンテナの見かけの移動が，間隔を置いて並べられた多くの固定アンテナの各々に対する，受信機の周期的および順次的結合によって作り出されるもの",
+      "en": "the apparent movement of the antenna being produced by coupling the receiver cyclically and sequentially to each of several fixed spaced antennas ",
+      "count": 167,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S3/56": {
+      "code": "G01S3/56",
+      "level": 3,
+      "parent": "G01S3/14",
+      "ja": "走査軸からの受信方向の偏差を指示し得る信号を用いる円すい走査ビーム方式",
+      "en": "Conical-scan beam systems using signals indicative of the deviation of the direction of reception from the scan axis",
+      "count": 57,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S3/58": {
+      "code": "G01S3/58",
+      "level": 3,
+      "parent": "G01S3/14",
+      "ja": "回転面または揺動面内の方向を決定するために，またはかかる面内の所定方向からの偏差を決定するために，受信々号の連続的な解析を用いる回転または揺動ビーム方式（Ｇ０１Ｓ３／１６が優先）",
+      "en": "Rotating or oscillating beam systems using continuous analysis of received signal for determining direction in the plane of rotation or oscillation or for determining deviation from a predetermined direction in such a plane(<b>G01S3/16</b> takes precedence)",
+      "count": 111,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S3/60": {
+      "code": "G01S3/60",
+      "level": 4,
+      "parent": "G01S3/58",
+      "ja": "受信機にビームの搬送波の実質的な正弦波包絡線信号を発生し，かつその位相角は，受信機に対する送信機の方向と受信機に対する基準方向との間の角度に依存する広ビーム方式，例．カージオイド方式",
+      "en": "Broad-beam systems producing in the receiver a substantially-sinusoidal envelope signal of the carrier wave of the beam, the phase angle of which is dependent upon the angle between the direction of the transmitter from the receiver and a reference direction from the receiver, e.g. cardioid system",
+      "count": 48,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S3/62": {
+      "code": "G01S3/62",
+      "level": 5,
+      "parent": "G01S3/60",
+      "ja": "上記信号の位相角が陰極線管により指示されるもの",
+      "en": "wherein the phase angle of the signal is indicated by a cathode-ray tube",
+      "count": 51,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S3/64": {
+      "code": "G01S3/64",
+      "level": 5,
+      "parent": "G01S3/60",
+      "ja": "上記信号の位相角が，指向性変動に同期して変動する基準交流信号との位相比較によって決定されるもの",
+      "en": "wherein the phase angle of the signal is determined by phase comparison with a reference alternating signal varying in synchronism with the directivity variation",
+      "count": 52,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S3/66": {
+      "code": "G01S3/66",
+      "level": 4,
+      "parent": "G01S3/58",
+      "ja": "受信機にビームの搬送波のパルス形包絡線信号を発生し，かつそのタイミングは受信機に対する送信機の方向と，受信機に対する基準方向との間の角度に依存する狭ビーム方式；受信機において狭いゾーンを定めビームの搬送波のパルス形包絡線信号を発生し，かつそのタイミングが受信機に対する送信機の方向と受信機に対する基準方向との間の角度に依存する重複広ビーム方式",
+      "en": "Narrow-beam systems producing in the receiver a pulse-type envelope signal of the carrier wave of the beam, the timing of which is dependent upon the angle between the direction of the transmitter from the receiver and a reference direction from the receiver; Overlapping broad-beam systems defining in the receiver a narrow zone and producing a pulse-type envelope signal of the carrier wave of the beam, the timing of which is dependent upon the angle between the direction of the transmitter from the receiver and a reference direction from the receiver",
+      "count": 43,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S3/68": {
+      "code": "G01S3/68",
+      "level": 5,
+      "parent": "G01S3/66",
+      "ja": "パルス形包絡線信号のタイミングが陰極線管により指示されるもの",
+      "en": "wherein the timing of the pulse-type envelope signal is indicated by cathode-ray tube",
+      "count": 15,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S3/70": {
+      "code": "G01S3/70",
+      "level": 5,
+      "parent": "G01S3/66",
+      "ja": "パルス形包絡線信号のタイミングが，局部的に発生されたパルス形信号を該包絡線信号と一致または所定の時間関係に持って来ることにより決定されるもの",
+      "en": "wherein the timing of the pulse-type envelope signal is determined by bringing a locally-generated pulse-type signal into coincidence or other predetermined time-relationship with the envelope signal",
+      "count": 1,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S3/72": {
+      "code": "G01S3/72",
+      "level": 2,
+      "parent": "G01S3/02",
+      "ja": "方向探知用に特殊に適合されたダイバーシチ方式",
+      "en": "Diversity systems specially adapted for direction-finding",
+      "count": 183,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S3/74": {
+      "code": "G01S3/74",
+      "level": 2,
+      "parent": "G01S3/02",
+      "ja": "方位測定用に，特殊に適合された多重チャネル方式，すなわち相異なる複数の信号の方向の同時指示を与えることが可能な単一アンテナ方式をもつもの（相異なる複数の信号の方向が順次に決定されそして同時に表示される方式Ｇ０１Ｓ３／０４，Ｇ０１Ｓ３／１４）",
+      "en": "Multi-channel systems specially adapted for direction-finding, i.e. having a single antenna system capable of giving simultaneous indications of the directions of different signals (systems in which the directions of different signals are determined sequentially and displayed simultaneously <b>G01S3/04</b>, <b>G01S3/14</b>)",
+      "count": 725,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S3/78": {
+      "code": "G01S3/78",
+      "level": 1,
+      "parent": "G01S3/00",
+      "ja": "電波以外の電磁波を用いるもの",
+      "en": "using electromagnetic waves other than radio waves",
+      "count": 1724,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S3/781": {
+      "code": "G01S3/781",
+      "level": 2,
+      "parent": "G01S3/78",
+      "ja": "細部［５］",
+      "en": "Details",
+      "count": 661,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S3/782": {
+      "code": "G01S3/782",
+      "level": 2,
+      "parent": "G01S3/78",
+      "ja": "方向の決定または所定の方向からの偏差の決定のための方式［５］",
+      "en": "Systems for determining direction or deviation from predetermined direction",
+      "count": 1513,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S3/783": {
+      "code": "G01S3/783",
+      "level": 3,
+      "parent": "G01S3/782",
+      "ja": "静止している複数の検出器または検出方式から導かれた複数の信号の振幅を比較するもの［５］",
+      "en": "using amplitude comparison of signals derived from static detectors or detector systems",
+      "count": 670,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S3/784": {
+      "code": "G01S3/784",
+      "level": 4,
+      "parent": "G01S3/783",
+      "ja": "検出器のモザイクを用いるもの［５］",
+      "en": "using a mosaic of detectors",
+      "count": 543,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S3/785": {
+      "code": "G01S3/785",
+      "level": 3,
+      "parent": "G01S3/782",
+      "ja": "単一の検出器または検出方式の指向特性の方向を調整して、当該検出器または検出方式から導かれる信号を所望の状態にするもの［５］",
+      "en": "using adjustment of orientation of directivity characteristics of a detector or detector system to give a desired condition of signal derived from that detector or detector system",
+      "count": 127,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S3/786": {
+      "code": "G01S3/786",
+      "level": 4,
+      "parent": "G01S3/785",
+      "ja": "上記の所望の状態が自動的に維持されるもの［５］",
+      "en": "the desired condition being maintained automatically",
+      "count": 2597,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S3/787": {
+      "code": "G01S3/787",
+      "level": 3,
+      "parent": "G01S3/782",
+      "ja": "方向に依存した変調特性を作り出す回転レチクルを用いるもの［５］",
+      "en": "using rotating reticles producing a direction-dependent modulation characteristic",
+      "count": 242,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S3/788": {
+      "code": "G01S3/788",
+      "level": 4,
+      "parent": "G01S3/787",
+      "ja": "周波数変調特性を作り出すもの［５］",
+      "en": "producing a frequency modulation characteristic",
+      "count": 49,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S3/789": {
+      "code": "G01S3/789",
+      "level": 3,
+      "parent": "G01S3/782",
+      "ja": "回転または揺動ビーム方式を用いるもの，例．鏡，プリズムを用いるもの［５］",
+      "en": "using rotating or oscillating beam systems, e.g. using mirrors, prisms",
+      "count": 373,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S3/80": {
+      "code": "G01S3/80",
+      "level": 1,
+      "parent": "G01S3/00",
+      "ja": "超音波，音波，亜音波を用いるもの［２００６．０１］",
+      "en": "using ultrasonic, sonic or infrasonic waves",
+      "count": 2315,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S3/801": {
+      "code": "G01S3/801",
+      "level": 2,
+      "parent": "G01S3/80",
+      "ja": "細部［５］",
+      "en": "Details",
+      "count": 726,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S3/802": {
+      "code": "G01S3/802",
+      "level": 2,
+      "parent": "G01S3/80",
+      "ja": "方向の決定または所定の方向からの偏差の決定のための方式［５］",
+      "en": "Systems for determining direction or deviation from predetermined direction",
+      "count": 1075,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S3/803": {
+      "code": "G01S3/803",
+      "level": 3,
+      "parent": "G01S3/802",
+      "ja": "別々の方向に向けられた指向特性をもつ複数の受信変換器または受信変換方式から導かれる複数の信号の振幅を比較するもの［５］",
+      "en": "using amplitude comparison of signals derived from receiving transducers or transducer systems having differently-oriented directivity characteristics",
+      "count": 382,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S3/805": {
+      "code": "G01S3/805",
+      "level": 3,
+      "parent": "G01S3/802",
+      "ja": "単一の変換器または変換方式の指向特性の現実の方向または実効方向を調整して，変換器または変換方式から導かれる信号を所望の状態にするもの，例．最大または最小信号を与えるもの［５］",
+      "en": "using adjustment of real or effective orientation of directivity characteristics of a transducer or transducer system to give a desired condition of signal derived from that transducer or transducer system, e.g. to give a maximum or minimum signal",
+      "count": 178,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S3/807": {
+      "code": "G01S3/807",
+      "level": 4,
+      "parent": "G01S3/805",
+      "ja": "上記の所望の状態が自動的に維持されるもの［５］",
+      "en": "the desired condition being maintained automatically",
+      "count": 66,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S3/808": {
+      "code": "G01S3/808",
+      "level": 3,
+      "parent": "G01S3/802",
+      "ja": "間隔をおいて並べられた変換器列を使用するものであって該変換器からの信号間の位相差または時間差を測定するもの，すなわち路程差方式［５］",
+      "en": "using transducers spaced apart and measuring phase or time difference between signals therefrom, i.e. path-difference systems",
+      "count": 1527,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S3/809": {
+      "code": "G01S3/809",
+      "level": 3,
+      "parent": "G01S3/802",
+      "ja": "回転面または揺動面内における方向を決定するために，またはかかる面内の所定の方向からの偏差を決定するために，受信信号の連続的な解析を用いる回転または揺動ビーム方式［２００６．０１］",
+      "en": "Rotating or oscillating beam systems using continuous analysis of received signal for determining direction in the plane of rotation or oscillation or for determining deviation from a predetermined direction in such a plane",
+      "count": 76,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S3/82": {
+      "code": "G01S3/82",
+      "level": 2,
+      "parent": "G01S3/80",
+      "ja": "位相を調整するための，または時間遅れ誤差を補償するための手段をもつもの",
+      "en": "with means for adjusting phase or compensating for time-lag errors",
+      "count": 134,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S3/84": {
+      "code": "G01S3/84",
+      "level": 2,
+      "parent": "G01S3/80",
+      "ja": "陰極線管上に与えられる指示をもつもの",
+      "en": "with indication presented on cathode-ray tubes",
+      "count": 59,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S3/86": {
+      "code": "G01S3/86",
+      "level": 2,
+      "parent": "G01S3/80",
+      "ja": "不要波，例．妨害雑音，を消去する手段をもつもの",
+      "en": "with means for eliminating undesired waves, e.g. disturbing noises",
+      "count": 308,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S5/00": {
+      "code": "G01S5/00",
+      "level": 0,
+      "parent": "G01S",
+      "ja": "２以上の方向，位置線測定を組み合わせることによる位置決定；２以上の距離測定を組み合わせることによる位置決定［２００６．０１］",
+      "en": "Position-fixing by co-ordinating two or more direction or position-line determinations; Position-fixing by co-ordinating two or more distance determinations",
+      "count": 9224,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S5/02": {
+      "code": "G01S5/02",
+      "level": 1,
+      "parent": "G01S5/00",
+      "ja": "電波を使用するもの（Ｇ０１Ｓ１９／００が優先）［２０１０．０１］",
+      "en": "using radio waves(<b>G01S19/00</b> takes precedence)",
+      "count": 23898,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S5/04": {
+      "code": "G01S5/04",
+      "level": 2,
+      "parent": "G01S5/02",
+      "ja": "電波源の位置が，複数個の互いに離間した方向探知機により測定されるもの［２００６．０１］",
+      "en": "Position of source determined by a plurality of spaced direction-finders",
+      "count": 2466,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S5/06": {
+      "code": "G01S5/06",
+      "level": 2,
+      "parent": "G01S5/02",
+      "ja": "電波源の位置が，路程差測定によって決定される複数の位置線を組み合わせることにより，決定されるもの（Ｇ０１Ｓ５／１２が優先）［２００６．０１］",
+      "en": "Position of source determined by co-ordinating a plurality of position lines defined by path-difference measurements(<b>G01S5/12</b> takes precedence)",
+      "count": 3415,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S5/08": {
+      "code": "G01S5/08",
+      "level": 2,
+      "parent": "G01S5/02",
+      "ja": "単一の方向探知機の位置が，位置が既知である複数個の互いに離間した電波源の方向を測定することにより，決定されるもの［２００６．０１］",
+      "en": "Position of single direction-finder fixed by determining direction of a plurality of spaced sources of known location",
+      "count": 873,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S5/10": {
+      "code": "G01S5/10",
+      "level": 2,
+      "parent": "G01S5/02",
+      "ja": "受信機の位置が，路程差測定によって決定される複数の位置線を組み合わせることにより，決定されるもの（Ｇ０１Ｓ５／１２が優先）［２００６．０１］",
+      "en": "Position of receiver fixed by co-ordinating a plurality of position lines defined by path-difference measurements(<b>G01S5/12</b> takes precedence)",
+      "count": 3060,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S5/12": {
+      "code": "G01S5/12",
+      "level": 2,
+      "parent": "G01S5/02",
+      "ja": "相異なる形，例．双曲線状，円形，楕円形または放射状，の位置線を組み合わせることによるもの［２００６．０１］",
+      "en": "by co-ordinating position lines of different shape, e.g. hyperbolic, circular, elliptical or radial",
+      "count": 2191,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S5/14": {
+      "code": "G01S5/14",
+      "level": 2,
+      "parent": "G01S5/02",
+      "ja": "位置が既知である複数個の互いに離間した点からの絶対距離の測定によるもの［２００６．０１］",
+      "en": "Determining absolute distances from a plurality of spaced points of known location",
+      "count": 7875,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S5/16": {
+      "code": "G01S5/16",
+      "level": 1,
+      "parent": "G01S5/00",
+      "ja": "電波以外の電磁波を使用するもの［２００６．０１］",
+      "en": "using electromagnetic waves other than radio waves",
+      "count": 4118,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S5/18": {
+      "code": "G01S5/18",
+      "level": 1,
+      "parent": "G01S5/00",
+      "ja": "超音波，音波，亜音波を使用するもの［２００６．０１］",
+      "en": "using ultrasonic, sonic or infrasonic waves",
+      "count": 3532,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S5/20": {
+      "code": "G01S5/20",
+      "level": 2,
+      "parent": "G01S5/18",
+      "ja": "音波源の位置が，複数個の互いに離間した方向探知機により，決定されるもの［２００６．０１］",
+      "en": "Position of source determined by a plurality of spaced direction-finders",
+      "count": 1301,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S5/22": {
+      "code": "G01S5/22",
+      "level": 2,
+      "parent": "G01S5/18",
+      "ja": "音波源の位置が，路程差測定によって決定される複数の位置線を組み合わせることにより，決定されるもの（Ｇ０１Ｓ５／２８が優先）［２００６．０１］",
+      "en": "Position of source determined by co-ordinating a plurality of position lines defined by path-difference measurements(<b>G01S5/28</b> takes precedence)",
+      "count": 2420,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S5/24": {
+      "code": "G01S5/24",
+      "level": 2,
+      "parent": "G01S5/18",
+      "ja": "単一の方向探知機の位置が，位置が既知である複数個の互いに離間した音波源の方向を測定することにより，決定されるもの［２００６．０１］",
+      "en": "Position of single direction-finder fixed by determining direction of a plurality of spaced sources of known location",
+      "count": 159,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S5/26": {
+      "code": "G01S5/26",
+      "level": 2,
+      "parent": "G01S5/18",
+      "ja": "受信機の位置が，路程差測定によって決定される複数の位置線を組み合わせることにより，決定されるもの（Ｇ０１Ｓ５／２８が優先）［２００６．０１］",
+      "en": "Position of receiver fixed by co-ordinating a plurality of position lines defined by path-difference measurements(<b>G01S5/28</b> takes precedence)",
+      "count": 484,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S5/28": {
+      "code": "G01S5/28",
+      "level": 2,
+      "parent": "G01S5/18",
+      "ja": "相異なる形，例．双曲線状，円形，楕円形または放射状，の位置線を組み合わせることによるもの［２００６．０１］",
+      "en": "by co-ordinating position lines of different shape, e.g. hyperbolic, circular, elliptical or radial",
+      "count": 427,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S5/30": {
+      "code": "G01S5/30",
+      "level": 2,
+      "parent": "G01S5/18",
+      "ja": "位置が既知である複数個の互いに離間した点からの絶対距離の決定［２００６．０１］",
+      "en": "Determining absolute distances from a plurality of spaced points of known location",
+      "count": 910,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S7/00": {
+      "code": "G01S7/00",
+      "level": 0,
+      "parent": "G01S",
+      "ja": "グループＧ０１Ｓ１３／００，Ｇ０１Ｓ１５／００，Ｇ０１Ｓ１７／００による方式の細部",
+      "en": "Details of systems according to groups <b>G01S13/00</b>, <b>G01S15/00</b>, <b>G01S17/00</b>",
+      "count": 3837,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S7/02": {
+      "code": "G01S7/02",
+      "level": 1,
+      "parent": "G01S7/00",
+      "ja": "グループＧ０１Ｓ１３／００による方式のもの",
+      "en": "of systems according to group <b>G01S13/00</b>",
+      "count": 22359,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S7/03": {
+      "code": "G01S7/03",
+      "level": 2,
+      "parent": "G01S7/02",
+      "ja": "そのために特に適合されたＨＦサブ方式の細部，例．送信機，受信機に共通なもの［５］",
+      "en": "Details of HF subsystems specially adapted therefor, e.g. common to transmitter and receiver",
+      "count": 8232,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S7/04": {
+      "code": "G01S7/04",
+      "level": 2,
+      "parent": "G01S7/02",
+      "ja": "表示装置",
+      "en": "Display arrangements",
+      "count": 1783,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S7/06": {
+      "code": "G01S7/06",
+      "level": 3,
+      "parent": "G01S7/04",
+      "ja": "陰極線管表示",
+      "en": "Cathode-ray tube displays",
+      "count": 977,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S7/08": {
+      "code": "G01S7/08",
+      "level": 4,
+      "parent": "G01S7/06",
+      "ja": "距離を指示するバーニヤをもつもの，例．二本の陰極線管を用いたもの",
+      "en": "with vernier indication of distance, e.g. using two cathode-ray tubes",
+      "count": 68,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S7/10": {
+      "code": "G01S7/10",
+      "level": 4,
+      "parent": "G01S7/06",
+      "ja": "距離および方向を二次元座標で表示する装置を備えたもの［２００６．０１］",
+      "en": "Providing two-dimensional [2D] co-ordinated display of distance and direction",
+      "count": 343,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S7/12": {
+      "code": "G01S7/12",
+      "level": 5,
+      "parent": "G01S7/10",
+      "ja": "プラン―ポジション表示器，すなわちＰ．Ｐ．Ｉ",
+      "en": "Plan-position indicators, i.e. P. P. I.",
+      "count": 1022,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S7/14": {
+      "code": "G01S7/14",
+      "level": 6,
+      "parent": "G01S7/12",
+      "ja": "扇形，離心，または角度拡大表示",
+      "en": "Sector, off-centre, or expanded- angle display",
+      "count": 174,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S7/16": {
+      "code": "G01S7/16",
+      "level": 5,
+      "parent": "G01S7/10",
+      "ja": "距離および方位を表示する直角座標をもち信号を輝度変調で表示するもの，例．Ｂ型",
+      "en": "Signals displayed as intensity modulation with rectangular co-ordinates representing distance and bearing, e.g. type B",
+      "count": 66,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S7/18": {
+      "code": "G01S7/18",
+      "level": 5,
+      "parent": "G01S7/10",
+      "ja": "距離―高度表示；距離―仰角表示，例．ＲＨＩ型，Ｅ型",
+      "en": "Distance-height displays; Distance-elevation displays, e.g. type RHI, type E",
+      "count": 89,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S7/20": {
+      "code": "G01S7/20",
+      "level": 4,
+      "parent": "G01S7/06",
+      "ja": "立体表示；三次元表示；擬似三次元表示［２００６．０１］",
+      "en": "Stereoscopic displays; Three-dimensional [3D] displays; Pseudo-3D displays",
+      "count": 459,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S7/22": {
+      "code": "G01S7/22",
+      "level": 4,
+      "parent": "G01S7/06",
+      "ja": "電子的手段によりカーソル線および記号を発生するもの",
+      "en": "Producing cursor lines and indicia by electronic means",
+      "count": 1025,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S7/24": {
+      "code": "G01S7/24",
+      "level": 4,
+      "parent": "G01S7/06",
+      "ja": "送受信装置をもっている物体の移動に応じて特定の方向に向きを変えたりまたは位置を変えて表示をするもの，例．真運動レーダ",
+      "en": "the display being orientated or displaced in accordance with movement of object carrying the transmitting and receiving apparatus, e.g. true-motion radar",
+      "count": 285,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S7/26": {
+      "code": "G01S7/26",
+      "level": 3,
+      "parent": "G01S7/04",
+      "ja": "エレクトロ―ルミネセントパネルを使用した表示",
+      "en": "Displays using electroluminescent panels",
+      "count": 126,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S7/28": {
+      "code": "G01S7/28",
+      "level": 2,
+      "parent": "G01S7/02",
+      "ja": "パルス方式の細部",
+      "en": "Details of pulse systems",
+      "count": 4508,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S7/282": {
+      "code": "G01S7/282",
+      "level": 3,
+      "parent": "G01S7/28",
+      "ja": "送信機［５］",
+      "en": "Transmitters",
+      "count": 3239,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S7/285": {
+      "code": "G01S7/285",
+      "level": 3,
+      "parent": "G01S7/28",
+      "ja": "受信機［５］",
+      "en": "Receivers",
+      "count": 2613,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S7/288": {
+      "code": "G01S7/288",
+      "level": 4,
+      "parent": "G01S7/285",
+      "ja": "コヒーレント受信機［５］",
+      "en": "Coherent receivers",
+      "count": 1046,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S7/292": {
+      "code": "G01S7/292",
+      "level": 4,
+      "parent": "G01S7/285",
+      "ja": "所望のエコー信号の抽出［５］",
+      "en": "Extracting wanted echo-signals",
+      "count": 5790,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S7/295": {
+      "code": "G01S7/295",
+      "level": 4,
+      "parent": "G01S7/285",
+      "ja": "座標を変換するためのあるいは情報を評価するための手段，例．計算機を使用するもの［５］",
+      "en": "Means for transforming co-ordinates or for evaluating data, e.g. using computers",
+      "count": 2126,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S7/298": {
+      "code": "G01S7/298",
+      "level": 5,
+      "parent": "G01S7/295",
+      "ja": "走査変換器［５］",
+      "en": "Scan converters",
+      "count": 431,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S7/32": {
+      "code": "G01S7/32",
+      "level": 4,
+      "parent": "G01S7/285",
+      "ja": "エコーパルス信号の整形；エコーパルス信号から非パルス信号の導出［５］",
+      "en": "Shaping echo pulse signals; Deriving non-pulse signals from echo pulse signals",
+      "count": 1654,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S7/34": {
+      "code": "G01S7/34",
+      "level": 4,
+      "parent": "G01S7/285",
+      "ja": "パルス繰返期間中に受信機の利得が自動的に制御されるもの，例．クラッタ消去利得制御［５］",
+      "en": "Gain of receiver varied automatically during pulse-recurrence period, e.g. anti-clutter gain control",
+      "count": 891,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S7/35": {
+      "code": "G01S7/35",
+      "level": 2,
+      "parent": "G01S7/02",
+      "ja": "非パルス方式の細部［５］",
+      "en": "Details of non-pulse systems",
+      "count": 4773,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S7/36": {
+      "code": "G01S7/36",
+      "level": 2,
+      "parent": "G01S7/02",
+      "ja": "対妨害手段",
+      "en": "Means for anti-jamming",
+      "count": 6075,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S7/38": {
+      "code": "G01S7/38",
+      "level": 2,
+      "parent": "G01S7/02",
+      "ja": "妨害手段，例．偽エコーを生じさせるもの［２］",
+      "en": "Jamming means, e.g. producing false echoes",
+      "count": 2623,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S7/40": {
+      "code": "G01S7/40",
+      "level": 2,
+      "parent": "G01S7/02",
+      "ja": "監視または校正用の手段",
+      "en": "Means for monitoring or calibrating",
+      "count": 19370,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S7/41": {
+      "code": "G01S7/41",
+      "level": 2,
+      "parent": "G01S7/02",
+      "ja": "対象物の特性評価のためのエコー信号の分析を用いるもの；対象物の特徴；対象物の断面積［６］",
+      "en": "using analysis of echo signal for target characterisation; Target signature; Target cross-section",
+      "count": 20064,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S7/42": {
+      "code": "G01S7/42",
+      "level": 2,
+      "parent": "G01S7/02",
+      "ja": "レーダに特有なダイバーシチ方式",
+      "en": "Diversity systems specially adapted for radar",
+      "count": 899,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S7/48": {
+      "code": "G01S7/48",
+      "level": 1,
+      "parent": "G01S7/00",
+      "ja": "グループＧ０１Ｓ１７／００による方式のもの",
+      "en": "of systems according to group <b>G01S17/00</b>",
+      "count": 13721,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S7/481": {
+      "code": "G01S7/481",
+      "level": 2,
+      "parent": "G01S7/48",
+      "ja": "構造的特徴，例．光学素子の配列［６］",
+      "en": "Constructional features, e.g. arrangements of optical elements",
+      "count": 30476,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S7/483": {
+      "code": "G01S7/483",
+      "level": 2,
+      "parent": "G01S7/48",
+      "ja": "パルス方式の細部［６］",
+      "en": "Details of pulse systems",
+      "count": 1461,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S7/484": {
+      "code": "G01S7/484",
+      "level": 3,
+      "parent": "G01S7/483",
+      "ja": "送信機［６］",
+      "en": "Transmitters",
+      "count": 4037,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S7/486": {
+      "code": "G01S7/486",
+      "level": 3,
+      "parent": "G01S7/483",
+      "ja": "受信機［２０２０．０１］",
+      "en": "Receivers",
+      "count": 2373,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S7/4861": {
+      "code": "G01S7/4861",
+      "level": 4,
+      "parent": "G01S7/486",
+      "ja": "検出，サンプリング，積分，又は読み出しのための回路［２０２０．０１］",
+      "en": "Circuits for detection, sampling, integration or read-out",
+      "count": 1828,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S7/4863": {
+      "code": "G01S7/4863",
+      "level": 5,
+      "parent": "G01S7/4861",
+      "ja": "検出器アレイ，例．電荷転送ゲート［２０２０．０１］",
+      "en": "Detector arrays, e.g. charge-transfer gates",
+      "count": 2058,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S7/4865": {
+      "code": "G01S7/4865",
+      "level": 4,
+      "parent": "G01S7/486",
+      "ja": "遅延時間測定，例．飛行時間測定，到達時間測定，又は正確なピーク位置の決定（雑音中のピーク検出、信号調整はＧ０１Ｓ　７／４８７）［２０２０．０１］",
+      "en": "Time delay measurement, e.g. time-of-flight measurement, time of arrival measurement or determining the exact position of a peak(peak detection in noise, signal conditioning <b>G01S7/487</b>)",
+      "count": 3086,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S7/487": {
+      "code": "G01S7/487",
+      "level": 4,
+      "parent": "G01S7/486",
+      "ja": "所望のエコー信号の抽出［６］",
+      "en": "Extracting wanted echo signals",
+      "count": 2437,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S7/489": {
+      "code": "G01S7/489",
+      "level": 4,
+      "parent": "G01S7/486",
+      "ja": "パルス繰返期間中に受信機の利得が自動的に制御されるもの［６］",
+      "en": "Gain of receiver varied automatically during pulse-recurrence period",
+      "count": 229,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S7/491": {
+      "code": "G01S7/491",
+      "level": 2,
+      "parent": "G01S7/48",
+      "ja": "非パルス方式の細部［２０２０．０１］",
+      "en": "Details of non-pulse systems",
+      "count": 738,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S7/4911": {
+      "code": "G01S7/4911",
+      "level": 3,
+      "parent": "G01S7/491",
+      "ja": "送信機［２０２０．０１］",
+      "en": "Transmitters",
+      "count": 1150,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S7/4912": {
+      "code": "G01S7/4912",
+      "level": 3,
+      "parent": "G01S7/491",
+      "ja": "受信機［２０２０．０１］",
+      "en": "Receivers",
+      "count": 853,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S7/4913": {
+      "code": "G01S7/4913",
+      "level": 4,
+      "parent": "G01S7/4912",
+      "ja": "検出，サンプリング，積分，又は読み出しのための回路［２０２０．０１］",
+      "en": "Circuits for detection, sampling, integration or read-out",
+      "count": 613,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S7/4914": {
+      "code": "G01S7/4914",
+      "level": 5,
+      "parent": "G01S7/4913",
+      "ja": "検出器アレイ，例．電荷転送ゲート［２０２０．０１］",
+      "en": "Detector arrays, e.g. charge-transfer gates",
+      "count": 554,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S7/4915": {
+      "code": "G01S7/4915",
+      "level": 4,
+      "parent": "G01S7/4912",
+      "ja": "遅延時間測定，例．画素構成要素の操作の細部（信号抽出及び調整はＧ０１Ｓ　７／４９３）；位相測定［２０２０．０１］",
+      "en": "Time delay measurement, e.g. operational details for pixel components(signal extraction and conditioning <b>G01S7/493</b>);Phase measurement",
+      "count": 713,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S7/493": {
+      "code": "G01S7/493",
+      "level": 3,
+      "parent": "G01S7/491",
+      "ja": "所望のエコー信号の抽出［６］",
+      "en": "Extracting wanted echo signals",
+      "count": 703,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S7/495": {
+      "code": "G01S7/495",
+      "level": 2,
+      "parent": "G01S7/48",
+      "ja": "対抗手段または対対抗手段［６］",
+      "en": "Counter-measures or counter-counter-measures",
+      "count": 1030,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S7/497": {
+      "code": "G01S7/497",
+      "level": 2,
+      "parent": "G01S7/48",
+      "ja": "監視または校正用の手段［６］",
+      "en": "Means for monitoring or calibrating",
+      "count": 11425,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S7/499": {
+      "code": "G01S7/499",
+      "level": 2,
+      "parent": "G01S7/48",
+      "ja": "偏光効果を用いるもの［６］",
+      "en": "using polarisation effects",
+      "count": 599,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S7/51": {
+      "code": "G01S7/51",
+      "level": 2,
+      "parent": "G01S7/48",
+      "ja": "表示装置［６］",
+      "en": "Display arrangements",
+      "count": 679,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S7/52": {
+      "code": "G01S7/52",
+      "level": 1,
+      "parent": "G01S7/00",
+      "ja": "グループＧ０１Ｓ１５／００による方式のもの",
+      "en": "of systems according to group <b>G01S15/00</b>",
+      "count": 13733,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S7/521": {
+      "code": "G01S7/521",
+      "level": 2,
+      "parent": "G01S7/52",
+      "ja": "構造的特徴［６］",
+      "en": "Constructional features",
+      "count": 7847,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S7/523": {
+      "code": "G01S7/523",
+      "level": 2,
+      "parent": "G01S7/52",
+      "ja": "パルス方式の細部［６］",
+      "en": "Details of pulse systems",
+      "count": 1454,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S7/524": {
+      "code": "G01S7/524",
+      "level": 3,
+      "parent": "G01S7/523",
+      "ja": "送信機［６］",
+      "en": "Transmitters",
+      "count": 1600,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S7/526": {
+      "code": "G01S7/526",
+      "level": 3,
+      "parent": "G01S7/523",
+      "ja": "受信機［６］",
+      "en": "Receivers",
+      "count": 2201,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S7/527": {
+      "code": "G01S7/527",
+      "level": 4,
+      "parent": "G01S7/526",
+      "ja": "所望のエコー信号の抽出［６］",
+      "en": "Extracting wanted echo signals",
+      "count": 2103,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S7/529": {
+      "code": "G01S7/529",
+      "level": 4,
+      "parent": "G01S7/526",
+      "ja": "パルス繰返期間中に受信器の利得が自動的に制御されるもの［６］",
+      "en": "Gain of receiver varied automatically during pulse-recurrence period",
+      "count": 541,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S7/53": {
+      "code": "G01S7/53",
+      "level": 4,
+      "parent": "G01S7/526",
+      "ja": "座標の変換またはデータの評価のための手段，例．計算機を用いるもの［６］",
+      "en": "Means for transforming co-ordinates or for evaluating data, e.g. using computers",
+      "count": 235,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S7/531": {
+      "code": "G01S7/531",
+      "level": 5,
+      "parent": "G01S7/53",
+      "ja": "走査変換器［６］",
+      "en": "Scan converters",
+      "count": 96,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S7/533": {
+      "code": "G01S7/533",
+      "level": 5,
+      "parent": "G01S7/53",
+      "ja": "データレート変換器［６］",
+      "en": "Data rate converters",
+      "count": 29,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S7/534": {
+      "code": "G01S7/534",
+      "level": 2,
+      "parent": "G01S7/52",
+      "ja": "非パルス方式の細部［６］",
+      "en": "Details of non-pulse systems",
+      "count": 415,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S7/536": {
+      "code": "G01S7/536",
+      "level": 3,
+      "parent": "G01S7/534",
+      "ja": "所望のエコー信号の抽出［６］",
+      "en": "Extracting wanted echo signals",
+      "count": 1074,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S7/537": {
+      "code": "G01S7/537",
+      "level": 2,
+      "parent": "G01S7/52",
+      "ja": "対抗手段または対対抗手段，例．妨害，対妨害［６］",
+      "en": "Counter measures or counter-counter-measures, e.g. jamming, anti-jamming",
+      "count": 479,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S7/539": {
+      "code": "G01S7/539",
+      "level": 2,
+      "parent": "G01S7/52",
+      "ja": "対象物の特性評価のためのエコー信号の分析を用いるもの；対象物の特徴；対象物の断面積［６］",
+      "en": "using analysis of echo signal for target characterisation; Target signature; Target cross-section",
+      "count": 2722,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S7/54": {
+      "code": "G01S7/54",
+      "level": 2,
+      "parent": "G01S7/52",
+      "ja": "離れて設置された受信機をもつもの",
+      "en": "with receivers spaced apart",
+      "count": 184,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S7/56": {
+      "code": "G01S7/56",
+      "level": 2,
+      "parent": "G01S7/52",
+      "ja": "表示装置",
+      "en": "Display arrangements",
+      "count": 777,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S7/58": {
+      "code": "G01S7/58",
+      "level": 3,
+      "parent": "G01S7/56",
+      "ja": "可変距離範囲を備えたもの",
+      "en": "for providing variable ranges",
+      "count": 108,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S7/60": {
+      "code": "G01S7/60",
+      "level": 3,
+      "parent": "G01S7/56",
+      "ja": "永久記録を備えたもの",
+      "en": "for providing a permanent recording",
+      "count": 634,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S7/62": {
+      "code": "G01S7/62",
+      "level": 3,
+      "parent": "G01S7/56",
+      "ja": "陰極線管表示",
+      "en": "Cathode-ray tube displays",
+      "count": 1544,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S7/64": {
+      "code": "G01S7/64",
+      "level": 2,
+      "parent": "G01S7/52",
+      "ja": "発光体指示（Ｇ０１Ｓ７／６２が優先）［５］",
+      "en": "Luminous indications(<b>G01S7/62</b> takes precedence)",
+      "count": 159,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S11/00": {
+      "code": "G01S11/00",
+      "level": 0,
+      "parent": "G01S",
+      "ja": "反射または再放射を使用しない距離または速度の測定方式（２以上の距離測定を組み合わせることによる位置決定Ｇ０１Ｓ５／００）［２］",
+      "en": "Systems for determining distance or velocity not using reflection or reradiation(position-fixing by co-ordinating two or more distance determinations <b>G01S5/00</b>)",
+      "count": 962,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S11/02": {
+      "code": "G01S11/02",
+      "level": 1,
+      "parent": "G01S11/00",
+      "ja": "電波を使用するもの（１９／００が優先）［５，２０１０．０１］",
+      "en": "using radio waves(<b>G01S19/00</b> takes precedence)",
+      "count": 2453,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S11/04": {
+      "code": "G01S11/04",
+      "level": 2,
+      "parent": "G01S11/02",
+      "ja": "角度測定を用いるもの［５］",
+      "en": "using angle measurements",
+      "count": 337,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S11/06": {
+      "code": "G01S11/06",
+      "level": 2,
+      "parent": "G01S11/02",
+      "ja": "強度測定を用いるもの［５］",
+      "en": "using intensity measurements",
+      "count": 2599,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S11/08": {
+      "code": "G01S11/08",
+      "level": 2,
+      "parent": "G01S11/02",
+      "ja": "同期した時計を用いるもの［５］",
+      "en": "using synchronised clocks",
+      "count": 449,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S11/10": {
+      "code": "G01S11/10",
+      "level": 2,
+      "parent": "G01S11/02",
+      "ja": "ドップラー効果を用いるもの［５］",
+      "en": "using Doppler effect",
+      "count": 471,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S11/12": {
+      "code": "G01S11/12",
+      "level": 1,
+      "parent": "G01S11/00",
+      "ja": "電波以外の電磁波を使用するもの［５］",
+      "en": "using electromagnetic waves other than radio waves",
+      "count": 2624,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S11/14": {
+      "code": "G01S11/14",
+      "level": 1,
+      "parent": "G01S11/00",
+      "ja": "超音波，音波または亜音波を使用するもの［２００６．０１］",
+      "en": "using ultrasonic, sonic or infrasonic waves",
+      "count": 1947,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S11/16": {
+      "code": "G01S11/16",
+      "level": 1,
+      "parent": "G01S11/00",
+      "ja": "電磁波と音波の伝播時間差を用いるもの［５］",
+      "en": "using difference in transit time between electromagnetic and sonic waves",
+      "count": 530,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S13/00": {
+      "code": "G01S13/00",
+      "level": 0,
+      "parent": "G01S",
+      "ja": "電波の反射または再放射を使用する方式，例．レーダ方式；波長または波の性質が無関係または不特定の波の反射または再放射を使用する類似の方式［３］",
+      "en": "Systems using the reflection or reradiation of radio waves, e.g. radar systems; Analogous systems using reflection or reradiation of waves whose nature or wavelength is irrelevant or unspecified",
+      "count": 6883,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S13/02": {
+      "code": "G01S13/02",
+      "level": 1,
+      "parent": "G01S13/00",
+      "ja": "電波の反射を使用する方式，例．一次レーダ方式；類似の方式［３］",
+      "en": "Systems using reflection of radio waves, e.g. primary radar systems; Analogous systems",
+      "count": 5865,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S13/04": {
+      "code": "G01S13/04",
+      "level": 2,
+      "parent": "G01S13/02",
+      "ja": "対象物の存在を決定する方式（対象物の相対運動に基づくものＧ０１Ｓ１３／５６）［３］",
+      "en": "Systems determining presence of a target(based on relative movement of target <b>G01S13/56</b>)",
+      "count": 4114,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S13/06": {
+      "code": "G01S13/06",
+      "level": 2,
+      "parent": "G01S13/02",
+      "ja": "対象物の位置データを決定する方式［３］",
+      "en": "Systems determining position data of a target",
+      "count": 4120,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S13/08": {
+      "code": "G01S13/08",
+      "level": 3,
+      "parent": "G01S13/06",
+      "ja": "距離のみを測定するための方式（間接的な測定Ｇ０１Ｓ１３／４６）［３］",
+      "en": "Systems for measuring distance only(indirect measurement <b>G01S13/46</b>)",
+      "count": 4710,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S13/10": {
+      "code": "G01S13/10",
+      "level": 4,
+      "parent": "G01S13/08",
+      "ja": "断続パルス変調波を送信するもの（位相測定による距離決定Ｇ０１Ｓ１３／３２）［３］",
+      "en": "using transmission of interrupted, pulse modulated waves (determination of distance by phase measurement <b>G01S13/32</b>)",
+      "count": 1894,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S13/12": {
+      "code": "G01S13/12",
+      "level": 5,
+      "parent": "G01S13/10",
+      "ja": "パルスの送信とそれに先行したパルスのエコーの受信との間を所望の時間関係にするためにパルス繰返数を変えるもの［３］",
+      "en": "wherein the pulse-recurrence frequency is varied to provide a desired time relationship between the transmission of a pulse and the receipt of the echo of a preceding pulse",
+      "count": 212,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S13/14": {
+      "code": "G01S13/14",
+      "level": 5,
+      "parent": "G01S13/10",
+      "ja": "パルス送信およびエコー受信のそれぞれに従って電圧パルスまたは電流パルスを始動および終止させるもの［３］",
+      "en": "wherein a voltage or current pulse is initiated and terminated in accordance respectively with the pulse transmission and echo reception",
+      "count": 106,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S13/16": {
+      "code": "G01S13/16",
+      "level": 6,
+      "parent": "G01S13/14",
+      "ja": "計数器を使用するもの［３］",
+      "en": "using counters",
+      "count": 111,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S13/18": {
+      "code": "G01S13/18",
+      "level": 5,
+      "parent": "G01S13/10",
+      "ja": "距離ゲートを使用するもの［３］",
+      "en": "wherein range gates are used",
+      "count": 617,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S13/20": {
+      "code": "G01S13/20",
+      "level": 5,
+      "parent": "G01S13/10",
+      "ja": "基本掃引周期外エコーを使用するものまたは除去するもの［３］",
+      "en": "whereby multiple time-around echos are used or eliminated",
+      "count": 173,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S13/22": {
+      "code": "G01S13/22",
+      "level": 5,
+      "parent": "G01S13/10",
+      "ja": "不規則なパルス繰返数を使用するもの［３］",
+      "en": "using irregular pulse repetition frequency",
+      "count": 514,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S13/24": {
+      "code": "G01S13/24",
+      "level": 5,
+      "parent": "G01S13/10",
+      "ja": "搬送波の周波数アジリティを使用するもの［２００６．０１］",
+      "en": "using frequency agility of carrier wave",
+      "count": 514,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S13/26": {
+      "code": "G01S13/26",
+      "level": 5,
+      "parent": "G01S13/10",
+      "ja": "周波数または位相変調搬送波からなる送信パルスを使用するもの［３］",
+      "en": "wherein the transmitted pulses use a frequency- or phase-modulated carrier wave",
+      "count": 576,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S13/28": {
+      "code": "G01S13/28",
+      "level": 6,
+      "parent": "G01S13/26",
+      "ja": "受信パルスを時間軸圧縮するもの［３］",
+      "en": "with time compression of received pulses",
+      "count": 2064,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S13/30": {
+      "code": "G01S13/30",
+      "level": 5,
+      "parent": "G01S13/10",
+      "ja": "レーダ周期毎に２以上のパルスを使用するもの［３］",
+      "en": "using more than one pulse per radar period",
+      "count": 270,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S13/32": {
+      "code": "G01S13/32",
+      "level": 4,
+      "parent": "G01S13/08",
+      "ja": "非変調連続波，振幅変調連続波，周波数変調連続波，または位相変調連続波を送信するもの［３］",
+      "en": "using transmission of continuous waves, whether amplitude-, frequency-, or phase-modulated, or unmodulated",
+      "count": 1870,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S13/34": {
+      "code": "G01S13/34",
+      "level": 5,
+      "parent": "G01S13/32",
+      "ja": "周波数変調波を送信し，受信信号，またはそれから導かれる信号が，同時に発生された送信信号に関連する局部発生信号とヘテロダインされてうなり周波数の信号を発生させるもの［３］",
+      "en": "using transmission of continuous, frequency-modulated waves while heterodyning the received signal, or a signal derived therefrom, with a locally-generated signal related to the contemporaneously transmitted signal",
+      "count": 5654,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S13/36": {
+      "code": "G01S13/36",
+      "level": 5,
+      "parent": "G01S13/32",
+      "ja": "受信信号と，同時に発生された送信信号との位相を比較するもの［３］",
+      "en": "with phase comparison between the received signal and the contemporaneously transmitted signal",
+      "count": 614,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S13/38": {
+      "code": "G01S13/38",
+      "level": 6,
+      "parent": "G01S13/36",
+      "ja": "２以上の変調周波数を使用するもの［３］",
+      "en": "wherein more than one modulation frequency is used",
+      "count": 365,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S13/40": {
+      "code": "G01S13/40",
+      "level": 6,
+      "parent": "G01S13/36",
+      "ja": "送信信号の周波数を調整して予定の位相関係にするもの［３］",
+      "en": "wherein the frequency of transmitted signal is adjusted to give a predetermined phase relationship",
+      "count": 134,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S13/42": {
+      "code": "G01S13/42",
+      "level": 3,
+      "parent": "G01S13/06",
+      "ja": "距離とその他の座標との同時測定（間接的な測定Ｇ０１Ｓ１３／４６）［３］",
+      "en": "Simultaneous measurement of distance and other coordinates(indirect measurement <b>G01S13/46</b>)",
+      "count": 4695,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S13/44": {
+      "code": "G01S13/44",
+      "level": 4,
+      "parent": "G01S13/42",
+      "ja": "モノパルスレーダ，すなわち同時ロービング［３］",
+      "en": "Monopulse radar, i.e. simultaneous lobing",
+      "count": 2254,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S13/46": {
+      "code": "G01S13/46",
+      "level": 3,
+      "parent": "G01S13/06",
+      "ja": "位置データの間接的な決定［３］",
+      "en": "Indirect determination of position data",
+      "count": 1375,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S13/48": {
+      "code": "G01S13/48",
+      "level": 4,
+      "parent": "G01S13/46",
+      "ja": "発射または受信に多重ビームを使用するもの［３］",
+      "en": "using multiple beams at emission or reception",
+      "count": 813,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S13/50": {
+      "code": "G01S13/50",
+      "level": 2,
+      "parent": "G01S13/02",
+      "ja": "対象物の相対運動に基づく測定方式［３］",
+      "en": "Systems of measurement based on relative movement of target",
+      "count": 2974,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S13/52": {
+      "code": "G01S13/52",
+      "level": 3,
+      "parent": "G01S13/50",
+      "ja": "固定物体と移動物体の識別または異なる速度で移動する２以上の物体の識別［３］",
+      "en": "Discriminating between fixed and moving objects or between objects moving at different speeds",
+      "count": 1605,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S13/522": {
+      "code": "G01S13/522",
+      "level": 4,
+      "parent": "G01S13/52",
+      "ja": "断続パルス変調波を送信するもの［５］",
+      "en": "using transmissions of interrupted pulse modulated waves",
+      "count": 238,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S13/524": {
+      "code": "G01S13/524",
+      "level": 5,
+      "parent": "G01S13/522",
+      "ja": "送信信号に関して物体の運動から生じる位相または周波数偏移に基づくもの，例．コヒーレントＭＴＩ［５］",
+      "en": "based upon the phase or frequency shift resulting from movement of objects, with reference to the transmitted signals, e.g. coherent MTi",
+      "count": 1189,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S13/526": {
+      "code": "G01S13/526",
+      "level": 6,
+      "parent": "G01S13/524",
+      "ja": "距離情報を失うことなく全スペクトルの濾波を行うもの，例．遅延線消去器またはくし型フィルタを用いるもの［２００６．０１］",
+      "en": "performing filtering on the whole spectrum without loss of range information, e.g. using delay line cancellers or comb filters",
+      "count": 305,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S13/528": {
+      "code": "G01S13/528",
+      "level": 7,
+      "parent": "G01S13/526",
+      "ja": "不感速度を除去するもの［５］",
+      "en": "with elimination of blind speeds",
+      "count": 162,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S13/53": {
+      "code": "G01S13/53",
+      "level": 6,
+      "parent": "G01S13/524",
+      "ja": "単一線スペクトルを濾波し，かつドップラー情報を抽出するために位相検波器あるいは周波数ミキサをもつ１つ以上の距離ゲートと関連するもの，例．パルスドップラーレーダ［５］",
+      "en": "performing filtering on a single spectral line and associated with one or more range gates with a phase detector or a frequency mixer to extract the Doppler information, e.g. pulse Doppler radar",
+      "count": 634,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S13/532": {
+      "code": "G01S13/532",
+      "level": 7,
+      "parent": "G01S13/53",
+      "ja": "距離ゲート群または記憶マトリックスを用いるもの［５］",
+      "en": "using a bank of range gates or a memory matrix",
+      "count": 87,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S13/534": {
+      "code": "G01S13/534",
+      "level": 6,
+      "parent": "G01S13/524",
+      "ja": "周囲のクラッタエコー信号に関して，物体の運動から生じる振幅または位相偏移に基づくもの，例．非コヒーレントＭＴＩ，クラッタ参照ＭＴＩ，外部コヒーレントＭＴＩ［５］",
+      "en": "based upon amplitude or phase shift resulting from movement of objects, with reference to the surrounding clutter echo signal, e.g. non-coherent MTi, clutter referenced MTi, externally coherent MTi",
+      "count": 187,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S13/536": {
+      "code": "G01S13/536",
+      "level": 4,
+      "parent": "G01S13/52",
+      "ja": "非変調連続波，振幅変調連続波，周波数変調連続波，または位相変調連続波を送信するもの［５］",
+      "en": "using transmission of continuous unmodulated waves, amplitude-, frequency-, or phase-modulated waves",
+      "count": 781,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S13/538": {
+      "code": "G01S13/538",
+      "level": 4,
+      "parent": "G01S13/52",
+      "ja": "連続するアンテナ走査間で動かなかった物体を除去するもの，例．エリアＭＴＩ［５］",
+      "en": "eliminating objects that have not moved between successive antenna scans, e.g. area MTi",
+      "count": 157,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S13/56": {
+      "code": "G01S13/56",
+      "level": 4,
+      "parent": "G01S13/52",
+      "ja": "存在探知のためのもの［３］",
+      "en": "for presence detection",
+      "count": 2209,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S13/58": {
+      "code": "G01S13/58",
+      "level": 3,
+      "parent": "G01S13/50",
+      "ja": "速度または軌道の決定方式；運動の方向の決定方式［３］",
+      "en": "Velocity or trajectory determination systems; Sense-of-movement determination systems",
+      "count": 7895,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S13/60": {
+      "code": "G01S13/60",
+      "level": 4,
+      "parent": "G01S13/58",
+      "ja": "送信機および受信機が移動物体上に装備されているもの，例．対地速度，偏流角，地上航跡を決定するためのもの（Ｇ０１Ｓ１３／６４が優先）［３］",
+      "en": "wherein the transmitter and receiver are mounted on the moving object, e.g. for determining ground speed, drift angle, ground track(<b>G01S13/64</b> takes precedence)",
+      "count": 1783,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S13/62": {
+      "code": "G01S13/62",
+      "level": 4,
+      "parent": "G01S13/58",
+      "ja": "運動の方向の決定［３］",
+      "en": "Sense-of-movement determination",
+      "count": 886,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S13/64": {
+      "code": "G01S13/64",
+      "level": 4,
+      "parent": "G01S13/58",
+      "ja": "距離ゲートを使用する速度測定方式［３］",
+      "en": "Velocity measuring systems using range gates",
+      "count": 278,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S13/66": {
+      "code": "G01S13/66",
+      "level": 1,
+      "parent": "G01S13/00",
+      "ja": "レーダ追尾方式；類似の方式［３］",
+      "en": "Radar-tracking systems; Analogous systems",
+      "count": 4391,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S13/68": {
+      "code": "G01S13/68",
+      "level": 2,
+      "parent": "G01S13/66",
+      "ja": "角度のみを追尾するためのもの［３］",
+      "en": "for angle tracking only",
+      "count": 806,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S13/70": {
+      "code": "G01S13/70",
+      "level": 2,
+      "parent": "G01S13/66",
+      "ja": "距離のみを追尾するためのもの［３］",
+      "en": "for range tracking only",
+      "count": 648,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S13/72": {
+      "code": "G01S13/72",
+      "level": 2,
+      "parent": "G01S13/66",
+      "ja": "二次元追尾のためのもの，例．角度追尾と距離追尾の組合せ，トラック？ホワイル？スキャン？レーダ［２００６．０１］",
+      "en": "for two-dimensional [2D] tracking, e.g. combination of angle and range tracking, track-while-scan radar",
+      "count": 3833,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S13/74": {
+      "code": "G01S13/74",
+      "level": 1,
+      "parent": "G01S13/00",
+      "ja": "電波の再放射を使用する方式，例．二次レーダ方式；類似の方式［３，６］",
+      "en": "Systems using reradiation of radio waves, e.g. secondary radar systems; Analogous systems",
+      "count": 3946,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S13/75": {
+      "code": "G01S13/75",
+      "level": 2,
+      "parent": "G01S13/74",
+      "ja": "受信波から電力供給を受ける応答機を使用するもの，例．受動的応答機を使用するもの［６］",
+      "en": "using transponders powered from received waves, e.g. using passive transponders",
+      "count": 2691,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S13/76": {
+      "code": "G01S13/76",
+      "level": 2,
+      "parent": "G01S13/74",
+      "ja": "パルス型信号を送信するもの［３］",
+      "en": "wherein pulse-type signals are transmitted",
+      "count": 3636,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S13/78": {
+      "code": "G01S13/78",
+      "level": 3,
+      "parent": "G01S13/76",
+      "ja": "異なる種類の対象物を識別するもの，例．ＩＦＦレーダ，すなわち，敵味方識別装置（Ｇ０１Ｓ１３／７５，Ｇ０１Ｓ１３／７９が優先）［３］",
+      "en": "discriminating between different kinds of targets, e.g. IFF-radar, i.e. identification of friend or foe(<b>G01S13/75</b>, <b>G01S13/79</b> takes precedence)",
+      "count": 2036,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S13/79": {
+      "code": "G01S13/79",
+      "level": 2,
+      "parent": "G01S13/74",
+      "ja": "ランダム符号信号またはランダムパルス繰返数を使用する方式［６］",
+      "en": "Systems using random coded signals or random pulse repetition frequencies",
+      "count": 877,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S13/82": {
+      "code": "G01S13/82",
+      "level": 2,
+      "parent": "G01S13/74",
+      "ja": "連続型信号を送信するもの［３］",
+      "en": "wherein continuous-type signals are transmitted",
+      "count": 1141,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S13/84": {
+      "code": "G01S13/84",
+      "level": 3,
+      "parent": "G01S13/82",
+      "ja": "位相測定により距離を決定するためのもの［３］",
+      "en": "for distance determination by phase measurement",
+      "count": 593,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S13/86": {
+      "code": "G01S13/86",
+      "level": 1,
+      "parent": "G01S13/00",
+      "ja": "レーダ方式と非レーダ方式，例．ソナー，方位測定機，との組合せ［３］",
+      "en": "Combinations of radar systems with non-radar systems, e.g. sonar, direction finder",
+      "count": 10639,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S13/87": {
+      "code": "G01S13/87",
+      "level": 1,
+      "parent": "G01S13/00",
+      "ja": "レーダ方式，例．一次レーダと二次レーダ，の組合せ［３］",
+      "en": "Combinations of radar systems, e.g. primary radar and secondary radar",
+      "count": 5488,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S13/88": {
+      "code": "G01S13/88",
+      "level": 1,
+      "parent": "G01S13/00",
+      "ja": "特定の応用に特に適合したレーダ方式または類似の方式（対象物の電気磁気的探鉱または検出，例．近接磁場検知，Ｇ０１Ｖ３／００）［３，６］",
+      "en": "Radar or analogous systems, specially adapted for specific applications(electromagnetic prospecting or detecting of objects, e.g. near-field detection, <b>G01V3/00</b>)",
+      "count": 18541,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S13/89": {
+      "code": "G01S13/89",
+      "level": 2,
+      "parent": "G01S13/88",
+      "ja": "マッピングまたはイメージング用のもの［３］",
+      "en": "for mapping or imaging",
+      "count": 7413,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S13/90": {
+      "code": "G01S13/90",
+      "level": 3,
+      "parent": "G01S13/89",
+      "ja": "合成開口技術を使用するもの［３，６］",
+      "en": "using synthetic aperture techniques",
+      "count": 10887,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S13/91": {
+      "code": "G01S13/91",
+      "level": 2,
+      "parent": "G01S13/88",
+      "ja": "交通制御用のもの（Ｇ０１Ｓ１３／９３が優先）［３］",
+      "en": "for traffic control(<b>G01S13/93</b> takes precedence)",
+      "count": 3094,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S13/92": {
+      "code": "G01S13/92",
+      "level": 3,
+      "parent": "G01S13/91",
+      "ja": "速度測定のためのもの［３］",
+      "en": "for velocity measurement",
+      "count": 861,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S13/93": {
+      "code": "G01S13/93",
+      "level": 2,
+      "parent": "G01S13/88",
+      "ja": "衝突防止目的のもの［２０２０．０１］",
+      "en": "for anti-collision purposes",
+      "count": 7937,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S13/931": {
+      "code": "G01S13/931",
+      "level": 3,
+      "parent": "G01S13/93",
+      "ja": "陸上車両のもの［２０２０．０１］",
+      "en": "of land vehicles",
+      "count": 13899,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S13/933": {
+      "code": "G01S13/933",
+      "level": 3,
+      "parent": "G01S13/93",
+      "ja": "航空機又は宇宙機のもの［２０２０．０１］",
+      "en": "of aircraft or spacecraft",
+      "count": 1218,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S13/934": {
+      "code": "G01S13/934",
+      "level": 4,
+      "parent": "G01S13/933",
+      "ja": "空港地表でのもの，例．地上走行中のもの［２０２０．０１］",
+      "en": "on airport surfaces, e.g. while taxiing",
+      "count": 114,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S13/935": {
+      "code": "G01S13/935",
+      "level": 4,
+      "parent": "G01S13/933",
+      "ja": "地形回避用のもの［２０２０．０１］",
+      "en": "for terrain-avoidance",
+      "count": 549,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S13/937": {
+      "code": "G01S13/937",
+      "level": 3,
+      "parent": "G01S13/93",
+      "ja": "船舶のもの［２０２０．０１］",
+      "en": "of marine craft",
+      "count": 771,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S13/95": {
+      "code": "G01S13/95",
+      "level": 2,
+      "parent": "G01S13/88",
+      "ja": "気象用のもの［３］",
+      "en": "for meteorological use",
+      "count": 5029,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S15/00": {
+      "code": "G01S15/00",
+      "level": 0,
+      "parent": "G01S",
+      "ja": "音波の反射または再放射を使用する方式，例．ソナー方式［２０２０．０１］",
+      "en": "Systems using the reflection or reradiation of acoustic waves, e.g. sonar systems",
+      "count": 1916,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S15/02": {
+      "code": "G01S15/02",
+      "level": 1,
+      "parent": "G01S15/00",
+      "ja": "音波の反射を使用するもの（Ｇ０１Ｓ１５／６６が優先）［３］",
+      "en": "using reflection of acoustic waves(<b>G01S15/66</b> takes precedence)",
+      "count": 1691,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S15/04": {
+      "code": "G01S15/04",
+      "level": 2,
+      "parent": "G01S15/02",
+      "ja": "対象物の存在を決定する方式［３］",
+      "en": "Systems determining presence of a target",
+      "count": 2543,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S15/06": {
+      "code": "G01S15/06",
+      "level": 2,
+      "parent": "G01S15/02",
+      "ja": "対象物の位置データを決定する方式［３］",
+      "en": "Systems determining position data of a target",
+      "count": 2182,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S15/08": {
+      "code": "G01S15/08",
+      "level": 3,
+      "parent": "G01S15/06",
+      "ja": "距離のみを測定するための方式（間接的な測定Ｇ０１Ｓ１５／４６）［３］",
+      "en": "Systems for measuring distance only(indirect measurement <b>G01S15/46</b>)",
+      "count": 6693,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S15/10": {
+      "code": "G01S15/10",
+      "level": 4,
+      "parent": "G01S15/08",
+      "ja": "断続パルス変調波を送信するもの（位相測定による距離決定Ｇ０１Ｓ１５／３２）［３］",
+      "en": "using transmission of interrupted, pulse-modulated waves (determination of distance by phase measurement <b>G01S15/32</b>)",
+      "count": 2388,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S15/12": {
+      "code": "G01S15/12",
+      "level": 5,
+      "parent": "G01S15/10",
+      "ja": "パルスの送信とそれに先行したパルスのエコーの受信との間を所望の時間関係にするために，パルス繰返数を変えるもの［３］",
+      "en": "wherein the pulse-recurrence frequency is varied to provide a desired time relationship between the transmission of a pulse and the receipt of the echo of a preceding pulse",
+      "count": 137,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S15/14": {
+      "code": "G01S15/14",
+      "level": 5,
+      "parent": "G01S15/10",
+      "ja": "パルス送信およびエコー受信のそれぞれに従って，電圧パルスまたは電流パルスを始動および終止させるもの［３］",
+      "en": "wherein a voltage or current pulse is initiated and terminated in accordance respectively with the pulse transmission and echo reception",
+      "count": 235,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S15/18": {
+      "code": "G01S15/18",
+      "level": 5,
+      "parent": "G01S15/10",
+      "ja": "距離ゲートを使用するもの［３］",
+      "en": "wherein range gates are used",
+      "count": 244,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S15/32": {
+      "code": "G01S15/32",
+      "level": 4,
+      "parent": "G01S15/08",
+      "ja": "非変調連続波，振幅変調連続波，周波数変調連続波，または位相変調連続波を送信するもの［３］",
+      "en": "using transmission of continuous waves, whether amplitude-, frequency-, or phase-modulated, or unmodulated",
+      "count": 375,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S15/34": {
+      "code": "G01S15/34",
+      "level": 5,
+      "parent": "G01S15/32",
+      "ja": "周波数変調波を送信し，受信信号またはそれから導かれる信号が，同時に発生された送信信号に関連する局部発生信号とヘテロダインされてうなり周波数の信号を発生するもの［３］",
+      "en": "using transmission of continuous, frequency-modulated waves while heterodyning the received signal, or a signal derived therefrom, with a locally-generated signal related to the contemporaneously transmitted signal",
+      "count": 188,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S15/36": {
+      "code": "G01S15/36",
+      "level": 5,
+      "parent": "G01S15/32",
+      "ja": "受信信号と，同時に発生された送信信号との位相を比較するもの［３］",
+      "en": "with phase comparison between the received signal and the contemporaneously transmitted signal",
+      "count": 144,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S15/42": {
+      "code": "G01S15/42",
+      "level": 3,
+      "parent": "G01S15/06",
+      "ja": "距離とその他の座標との同時測定（間接的な測定Ｇ０１Ｓ１５／４６）［３］",
+      "en": "Simultaneous measurement of distance and other coordinates(indirect measurement <b>G01S15/46</b>)",
+      "count": 1277,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S15/46": {
+      "code": "G01S15/46",
+      "level": 3,
+      "parent": "G01S15/06",
+      "ja": "位置データの間接的な決定［３］",
+      "en": "Indirect determination of position data",
+      "count": 528,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S15/50": {
+      "code": "G01S15/50",
+      "level": 2,
+      "parent": "G01S15/02",
+      "ja": "対象物の相対運動に基づく測定方式［３］",
+      "en": "Systems of measurement based on relative movement of target",
+      "count": 1147,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S15/52": {
+      "code": "G01S15/52",
+      "level": 3,
+      "parent": "G01S15/50",
+      "ja": "固定物体と移動物体の識別または異なる速度で移動する２以上の物体の識別［３］",
+      "en": "Discriminating between fixed and moving objects or between objects moving at different speeds",
+      "count": 663,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S15/58": {
+      "code": "G01S15/58",
+      "level": 3,
+      "parent": "G01S15/50",
+      "ja": "速度または軌道の決定方式；運動の方向の決定方式［３］",
+      "en": "Velocity or trajectory determination systems; Sense-of-movement determination systems",
+      "count": 1518,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S15/60": {
+      "code": "G01S15/60",
+      "level": 4,
+      "parent": "G01S15/58",
+      "ja": "送信機および受信機が移動物体上に装備されているもの，例．対地速度，偏流角，地上航跡を決定するためのもの［３］",
+      "en": "wherein the transmitter and receiver are mounted on the moving object, e.g. for determining ground speed, drift angle, ground track",
+      "count": 600,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S15/62": {
+      "code": "G01S15/62",
+      "level": 4,
+      "parent": "G01S15/58",
+      "ja": "運動の方向の決定［３］",
+      "en": "Sense-of-movement determination",
+      "count": 137,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S15/66": {
+      "code": "G01S15/66",
+      "level": 1,
+      "parent": "G01S15/00",
+      "ja": "ソナー追尾方式［３］",
+      "en": "Sonar tracking systems",
+      "count": 892,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S15/74": {
+      "code": "G01S15/74",
+      "level": 1,
+      "parent": "G01S15/00",
+      "ja": "音波の再放射を使用する方式，例．ＩＦＦ，すなわち敵味方識別装置［３］",
+      "en": "Systems using reradiation of acoustic waves, e.g. IFF, i.e. identification of friend or foe",
+      "count": 720,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S15/86": {
+      "code": "G01S15/86",
+      "level": 1,
+      "parent": "G01S15/00",
+      "ja": "ソナー方式とライダー方式との組合せ；ソナー方式と波の反射を用いないシステムとの組合せ［２０２０．０１］",
+      "en": "Combinations of sonar systems with lidar systems; Combinations of sonar systems with systems not using wave reflection",
+      "count": 1497,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S15/87": {
+      "code": "G01S15/87",
+      "level": 1,
+      "parent": "G01S15/00",
+      "ja": "ソナー方式の組合せ［３］",
+      "en": "Combinations of sonar systems",
+      "count": 1853,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S15/88": {
+      "code": "G01S15/88",
+      "level": 1,
+      "parent": "G01S15/00",
+      "ja": "特定の応用に特に適合したソナー方式（地震または音響による探鉱または検出Ｇ０１Ｖ１／００）［２００６．０１］",
+      "en": "Sonar systems specially adapted for specific applications(seismic or acoustic prospecting or detecting <b>G01V1/00</b>)",
+      "count": 5755,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S15/89": {
+      "code": "G01S15/89",
+      "level": 2,
+      "parent": "G01S15/88",
+      "ja": "マッピングまたはイメージング用のもの［３］",
+      "en": "for mapping or imaging",
+      "count": 9917,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S15/93": {
+      "code": "G01S15/93",
+      "level": 2,
+      "parent": "G01S15/88",
+      "ja": "衝突防止目的のもの［２０２０．０１］",
+      "en": "for anti-collision purposes",
+      "count": 4438,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S15/931": {
+      "code": "G01S15/931",
+      "level": 3,
+      "parent": "G01S15/93",
+      "ja": "陸上車両のもの［２０２０．０１］",
+      "en": "of land vehicles",
+      "count": 4379,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S15/96": {
+      "code": "G01S15/96",
+      "level": 2,
+      "parent": "G01S15/88",
+      "ja": "魚群探知用のもの［３］",
+      "en": "for locating fish",
+      "count": 2486,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S17/00": {
+      "code": "G01S17/00",
+      "level": 0,
+      "parent": "G01S",
+      "ja": "電波以外の電磁波の反射または再放射を使用する方式，例．ライダー方式［２０２０．０１］",
+      "en": "Systems using the reflection or reradiation of electromagnetic waves other than radio waves, e.g. lidar systems",
+      "count": 1595,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S17/02": {
+      "code": "G01S17/02",
+      "level": 1,
+      "parent": "G01S17/00",
+      "ja": "電波以外の電磁波の反射を使用する方式（Ｇ０１Ｓ１７／６６が優先）［２０２０．０１］",
+      "en": "Systems using the reflection of electromagnetic waves other than radio waves(<b>G01S17/66</b> takes precedence)",
+      "count": 4374,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S17/04": {
+      "code": "G01S17/04",
+      "level": 2,
+      "parent": "G01S17/02",
+      "ja": "対象物の存在を決定する方式［２０２０．０１］",
+      "en": "Systems determining the presence of a target",
+      "count": 2682,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S17/06": {
+      "code": "G01S17/06",
+      "level": 2,
+      "parent": "G01S17/02",
+      "ja": "対象物の位置データを決定する方式［３］",
+      "en": "Systems determining position data of a target",
+      "count": 5193,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S17/08": {
+      "code": "G01S17/08",
+      "level": 3,
+      "parent": "G01S17/06",
+      "ja": "距離のみを測定するためのもの（間接的な測定Ｇ０１Ｓ１７／４６；アクティブ三角測量方式Ｇ０１Ｓ１７／４８）［３，８］",
+      "en": "for measuring distance only(indirect measurement <b>G01S17/46</b>; active triangulation systems <b>G01S17/48</b>)",
+      "count": 20175,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S17/10": {
+      "code": "G01S17/10",
+      "level": 4,
+      "parent": "G01S17/08",
+      "ja": "断続パルス変調波を送信するもの（位相測定による距離決定Ｇ０１Ｓ１７／３２）［２０２０．０１］",
+      "en": "using transmission of interrupted, pulse-modulated waves(determination of distance by phase measurements <b>G01S17/32</b>)",
+      "count": 7086,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S17/14": {
+      "code": "G01S17/14",
+      "level": 5,
+      "parent": "G01S17/10",
+      "ja": "パルス送信およびエコー受信のそれぞれに従って電圧パルスまたは電流パルスを始動および終止させるもの，例．計数器を使用するもの［２０２０．０１］",
+      "en": "wherein a voltage or current pulse is initiated and terminated in accordance with the pulse transmission and echo reception respectively, e.g. using counters",
+      "count": 503,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S17/18": {
+      "code": "G01S17/18",
+      "level": 5,
+      "parent": "G01S17/10",
+      "ja": "距離ゲートを使用するもの［２０２０．０１］",
+      "en": "wherein range gates are used",
+      "count": 475,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S17/26": {
+      "code": "G01S17/26",
+      "level": 5,
+      "parent": "G01S17/10",
+      "ja": "周波数変調または位相変調搬送波からなる送信パルスを使用するもの，例．受信信号のパルス圧縮のためのもの［２０２０．０１］",
+      "en": "wherein the transmitted pulses use a frequency-modulated or phase-modulated carrier wave, e.g. for pulse compression of received signals",
+      "count": 432,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S17/32": {
+      "code": "G01S17/32",
+      "level": 4,
+      "parent": "G01S17/08",
+      "ja": "非変調連続波，振幅変調連続波，周波数変調連続波，または位相変調連続波を送信するもの［２０２０．０１］",
+      "en": "using transmission of continuous waves, whether amplitude-, frequency-, or phase-modulated, or unmodulated",
+      "count": 1695,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S17/34": {
+      "code": "G01S17/34",
+      "level": 5,
+      "parent": "G01S17/32",
+      "ja": "周波数変調波を送信し，受信信号，またはそれから導かれる信号が，同時に発生された送信信号に関連する局部発生信号とヘテロダインされてうなり周波数の信号を発生させるもの［２０２０．０１］",
+      "en": "using transmission of continuous, frequency-modulated waves while heterodyning the received signal, or a signal derived therefrom, with a locally-generated signal related to the contemporaneously transmitted signal",
+      "count": 1101,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S17/36": {
+      "code": "G01S17/36",
+      "level": 5,
+      "parent": "G01S17/32",
+      "ja": "受信信号と，同時に発生された送信信号との位相を比較するもの［３］",
+      "en": "with phase comparison between the received signal and the contemporaneously transmitted signal",
+      "count": 2145,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S17/42": {
+      "code": "G01S17/42",
+      "level": 3,
+      "parent": "G01S17/06",
+      "ja": "距離とその他の座標との同時測定（間接的な測定Ｇ０１Ｓ１７／４６）［３］",
+      "en": "Simultaneous measurement of distance and other coordinates(indirect measurement <b>G01S17/46</b>)",
+      "count": 6310,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S17/46": {
+      "code": "G01S17/46",
+      "level": 3,
+      "parent": "G01S17/06",
+      "ja": "位置データの間接的な決定［３］",
+      "en": "Indirect determination of position data",
+      "count": 1469,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S17/48": {
+      "code": "G01S17/48",
+      "level": 4,
+      "parent": "G01S17/46",
+      "ja": "アクティブ三角測量方式，すなわち電波以外の電磁波の送信および反射を使用する方式［８］",
+      "en": "Active triangulation systems, i.e. using the transmission and reflection of electromagnetic waves other than radio waves",
+      "count": 2128,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S17/50": {
+      "code": "G01S17/50",
+      "level": 2,
+      "parent": "G01S17/02",
+      "ja": "対象物の相対運動に基づく測定方式［３］",
+      "en": "Systems of measurement based on relative movement of target",
+      "count": 1297,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S17/58": {
+      "code": "G01S17/58",
+      "level": 3,
+      "parent": "G01S17/50",
+      "ja": "速度または軌道の決定方式；運動の方向の決定方式［３］",
+      "en": "Velocity or trajectory determination systems; Sense-of-movement determination systems",
+      "count": 3829,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S17/66": {
+      "code": "G01S17/66",
+      "level": 1,
+      "parent": "G01S17/00",
+      "ja": "電波以外の電磁波を使用する追尾方式［３］",
+      "en": "Tracking systems using electromagnetic waves other than radio waves",
+      "count": 3229,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S17/74": {
+      "code": "G01S17/74",
+      "level": 1,
+      "parent": "G01S17/00",
+      "ja": "電波以外の電磁波の再放射を使用する方式，例．ＩＦＦ，すなわち敵味方識別装置［３］",
+      "en": "Systems using reradiation of electromagnetic waves other than radio waves, e.g. IFF, i.e. identification of friend or foe",
+      "count": 724,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S17/86": {
+      "code": "G01S17/86",
+      "level": 1,
+      "parent": "G01S17/00",
+      "ja": "ライダー方式と，ライダー，レーダ，ソナー以外の方式，例．方位測定機，との組合せ［２０２０．０１］",
+      "en": "Combinations of lidar systems with systems other than lidar, radar or sonar, e.g. with direction finders",
+      "count": 9106,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S17/87": {
+      "code": "G01S17/87",
+      "level": 1,
+      "parent": "G01S17/00",
+      "ja": "電波以外の電磁波を使用する方式の組合せ［２０２０．０１］",
+      "en": "Combinations of systems using electromagnetic waves other than radio waves",
+      "count": 2481,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S17/875": {
+      "code": "G01S17/875",
+      "level": 2,
+      "parent": "G01S17/87",
+      "ja": "姿勢を決定するためのもの［２０２０．０１］",
+      "en": "for determining attitude",
+      "count": 255,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S17/88": {
+      "code": "G01S17/88",
+      "level": 1,
+      "parent": "G01S17/00",
+      "ja": "特定の応用に特に適合したライダー方式［３］",
+      "en": "Lidar systems, specially adapted for specific applications",
+      "count": 11389,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S17/89": {
+      "code": "G01S17/89",
+      "level": 2,
+      "parent": "G01S17/88",
+      "ja": "マッピングまたはイメージング用のもの［２０２０．０１］",
+      "en": "for mapping or imaging",
+      "count": 16672,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S17/894": {
+      "code": "G01S17/894",
+      "level": 3,
+      "parent": "G01S17/89",
+      "ja": "２次元アレイの受信機画素での飛行時間の同時測定による３次元イメージング，例．飛行時間カメラ，又はフラッシュライダー［２０２０．０１］",
+      "en": "Three-dimensional [3D] imaging with simultaneous measurement of time-of-flight at a two-dimensional [2D] array of receiver pixels, e.g. time-of-flight cameras or flash lidar",
+      "count": 5665,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S17/90": {
+      "code": "G01S17/90",
+      "level": 3,
+      "parent": "G01S17/89",
+      "ja": "合成開口技術を使用するもの［２０２０．０１］",
+      "en": "using synthetic aperture techniques",
+      "count": 216,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S17/93": {
+      "code": "G01S17/93",
+      "level": 2,
+      "parent": "G01S17/88",
+      "ja": "衝突防止目的のもの［２０２０．０１］",
+      "en": "for anti-collision purposes",
+      "count": 7153,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S17/931": {
+      "code": "G01S17/931",
+      "level": 3,
+      "parent": "G01S17/93",
+      "ja": "陸上車両のもの［２０２０．０１］",
+      "en": "of land vehicles",
+      "count": 12529,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S17/933": {
+      "code": "G01S17/933",
+      "level": 3,
+      "parent": "G01S17/93",
+      "ja": "航空機又は宇宙機のもの［２０２０．０１］",
+      "en": "of aircraft or spacecraft",
+      "count": 840,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S17/95": {
+      "code": "G01S17/95",
+      "level": 2,
+      "parent": "G01S17/88",
+      "ja": "気象用のもの［６，８］",
+      "en": "for meteorological use",
+      "count": 3070,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S19/00": {
+      "code": "G01S19/00",
+      "level": 0,
+      "parent": "G01S",
+      "ja": "衛星電波ビーコン測位システム；当該システムから送信される信号を用いた，位置，速度または姿勢の決定［２０１０．０１］",
+      "en": "Satellite radio beacon positioning systems; Determining position, velocity or attitude using signals transmitted by such systems",
+      "count": 1147,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S19/01": {
+      "code": "G01S19/01",
+      "level": 1,
+      "parent": "G01S19/00",
+      "ja": "タイムスタンプメッセージを送信する衛星電波ビーコン測位システム，例．ＧＰＳ　［Ｇｌｏｂａｌ　Ｐｏｓｉｔｉｏｎｉｎｇ　Ｓｙｓｔｅｍ］，　ＧＬＯＮＡＳＳ［Ｇｌｏｂａｌ　Ｏｒｂｉｔｉｎｇ　Ｎａｖｉｇａｔｉｏｎ　Ｓａｔｅｌｌｉｔｅ　Ｓｙｓｔｅｍ］　ｏｒ　ＧＡＬＩＬＥＯ［２０１０．０１］",
+      "en": "Satellite radio beacon positioning systems transmitting time-stamped messages, e.g. GPS [Global Positioning System], GLONASS [Global Orbiting Navigation Satellite System] or GALILEO",
+      "count": 5055,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S19/02": {
+      "code": "G01S19/02",
+      "level": 2,
+      "parent": "G01S19/01",
+      "ja": "宇宙セグメントまたは地上コントロールセグメントの細部［２０１０．０１］",
+      "en": "Details of the space or ground control segments",
+      "count": 992,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S19/03": {
+      "code": "G01S19/03",
+      "level": 2,
+      "parent": "G01S19/01",
+      "ja": "協働要素；異なる協働要素間または協働要素と受信機との間の相互作用または通信［２０１０．０１］<br><br><b><ul>注</ul></b><br>“協働要素”の語は，付加的な要素またはサブシステムを指し，受信機または衛星測位システムと相互作用しまたは通信する，他のユーザーの受信機を含む。［２０１０．０１］",
+      "en": "Cooperating elements; Interaction or communication between different cooperating elements or between cooperating elements and receivers; <br><br><b><u>Note(s)</u></b><br><br><ul><li>The term \"cooperating elements\" designates additional elements or subsystems, including receivers of other users, which interact or communicate with the receiver or the satellite positioning system.  </li></ul>",
+      "count": 1983,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S19/04": {
+      "code": "G01S19/04",
+      "level": 3,
+      "parent": "G01S19/03",
+      "ja": "キャリア位相データを提供するもの［２０１０．０１］",
+      "en": "providing carrier phase data",
+      "count": 801,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S19/05": {
+      "code": "G01S19/05",
+      "level": 3,
+      "parent": "G01S19/03",
+      "ja": "補助情報を提供するもの［２０１０．０１］",
+      "en": "providing aiding data",
+      "count": 1390,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S19/06": {
+      "code": "G01S19/06",
+      "level": 4,
+      "parent": "G01S19/05",
+      "ja": "補助情報として，もしくは，補助情報生成時に，受信機の初期推定位置を用いるもの［２０１０．０１］",
+      "en": "employing an initial estimate of the location of the receiver as aiding data or in generating aiding data",
+      "count": 562,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S19/07": {
+      "code": "G01S19/07",
+      "level": 3,
+      "parent": "G01S19/03",
+      "ja": "測定された位置データを補正する情報を提供するもの，例．ＤＧＰＳ　［Ｄｉｆｆｅｒｅｎｔｉａｌ　ＧＰＳ］，電離層補正［２０１０．０１］",
+      "en": "providing data for correcting measured positioning data, e.g. DGPS [differential GPS] or ionosphere corrections",
+      "count": 2916,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S19/08": {
+      "code": "G01S19/08",
+      "level": 3,
+      "parent": "G01S19/03",
+      "ja": "インテグリティ情報，例．衛星の健全性，エフェメリスデータの品質，を提供するもの［２０１０．０１］",
+      "en": "providing integrity information, e.g. health of satellites or quality of ephemeris data",
+      "count": 695,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S19/09": {
+      "code": "G01S19/09",
+      "level": 3,
+      "parent": "G01S19/03",
+      "ja": "通常は受信機で行われる処理機能を提供するもの［２０１０．０１］",
+      "en": "providing processing capability normally carried out by the receiver",
+      "count": 847,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S19/10": {
+      "code": "G01S19/10",
+      "level": 3,
+      "parent": "G01S19/03",
+      "ja": "そのために特別に適合された補助的な測位信号を提供するもの［２０１０．０１］",
+      "en": "providing dedicated supplementary positioning signals",
+      "count": 625,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S19/11": {
+      "code": "G01S19/11",
+      "level": 4,
+      "parent": "G01S19/10",
+      "ja": "協働要素が擬似衛星，または衛星電波ビーコン測位システム信号のリピーターであるもの［２０１０．０１］",
+      "en": "wherein the cooperating elements are pseudolites or satellite radio beacon positioning system signal repeaters",
+      "count": 1426,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S19/12": {
+      "code": "G01S19/12",
+      "level": 4,
+      "parent": "G01S19/10",
+      "ja": "協働要素が電話通信基地局であるもの［２０１０．０１］",
+      "en": "wherein the cooperating elements are telecommunication base stations",
+      "count": 961,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S19/13": {
+      "code": "G01S19/13",
+      "level": 2,
+      "parent": "G01S19/01",
+      "ja": "受信機［２０１０．０１］",
+      "en": "Receivers",
+      "count": 5618,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S19/14": {
+      "code": "G01S19/14",
+      "level": 3,
+      "parent": "G01S19/13",
+      "ja": "特定の応用に特に適合した受信機［２０１０．０１］",
+      "en": "specially adapted for specific applications",
+      "count": 18397,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S19/15": {
+      "code": "G01S19/15",
+      "level": 4,
+      "parent": "G01S19/14",
+      "ja": "航空機着陸システム用［２０１０．０１］",
+      "en": "Aircraft landing systems",
+      "count": 727,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S19/16": {
+      "code": "G01S19/16",
+      "level": 4,
+      "parent": "G01S19/14",
+      "ja": "盗難誘拐対策用［２０１０．０１］",
+      "en": "Anti-theft; Abduction",
+      "count": 1203,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S19/17": {
+      "code": "G01S19/17",
+      "level": 4,
+      "parent": "G01S19/14",
+      "ja": "緊急時用［２０１０．０１］",
+      "en": "Emergency applications",
+      "count": 2164,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S19/18": {
+      "code": "G01S19/18",
+      "level": 4,
+      "parent": "G01S19/14",
+      "ja": "軍事用［２０１０．０１］",
+      "en": "Military applications",
+      "count": 373,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S19/19": {
+      "code": "G01S19/19",
+      "level": 4,
+      "parent": "G01S19/14",
+      "ja": "スポーツ用［２０１０．０１］",
+      "en": "Sporting applications",
+      "count": 1238,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S19/20": {
+      "code": "G01S19/20",
+      "level": 3,
+      "parent": "G01S19/13",
+      "ja": "宇宙セグメントのインテグリティモニタリング，宇宙セグメントの障害検知もしくは障害分離［２０１０．０１］",
+      "en": "Integrity monitoring, fault detection or fault isolation of space segment",
+      "count": 1595,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S19/21": {
+      "code": "G01S19/21",
+      "level": 3,
+      "parent": "G01S19/13",
+      "ja": "干渉を課題とするもの［２０１０．０１］",
+      "en": "Interference related issues",
+      "count": 3948,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S19/22": {
+      "code": "G01S19/22",
+      "level": 3,
+      "parent": "G01S19/13",
+      "ja": "マルチパスを課題とするもの［２０１０．０１］",
+      "en": "Multipath-related issues",
+      "count": 1420,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S19/23": {
+      "code": "G01S19/23",
+      "level": 3,
+      "parent": "G01S19/13",
+      "ja": "受信機要素の試験，監視，補正または較正［２０１０．０１］",
+      "en": "Testing, monitoring, correcting or calibrating of a receiver element",
+      "count": 4747,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S19/24": {
+      "code": "G01S19/24",
+      "level": 3,
+      "parent": "G01S19/13",
+      "ja": "当該システムが送信する信号の捕捉または追尾［２０１０．０１］",
+      "en": "Acquisition or tracking of signals transmitted by the system",
+      "count": 2773,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S19/25": {
+      "code": "G01S19/25",
+      "level": 4,
+      "parent": "G01S19/24",
+      "ja": "協働要素からの補助データの受信を含むもの，例．アシステッドＧＰＳ［２０１０．０１］",
+      "en": "involving aiding data received from a cooperating element, e.g. assisted GPS",
+      "count": 3425,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S19/26": {
+      "code": "G01S19/26",
+      "level": 4,
+      "parent": "G01S19/24",
+      "ja": "捕捉または追尾を補助するセンサー測定を含むもの［２０１０．０１］",
+      "en": "involving a sensor measurement for aiding acquisition or tracking",
+      "count": 786,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S19/27": {
+      "code": "G01S19/27",
+      "level": 4,
+      "parent": "G01S19/24",
+      "ja": "受信機の中でエフェメリスまたはアルマナックデータを生成し，予測し，または補正するもの［２０１０．０１］",
+      "en": "creating, predicting or correcting ephemeris or almanac data within the receiver",
+      "count": 1011,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S19/28": {
+      "code": "G01S19/28",
+      "level": 4,
+      "parent": "G01S19/24",
+      "ja": "衛星の選択［２０１０．０１］",
+      "en": "Satellite selection",
+      "count": 1141,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S19/29": {
+      "code": "G01S19/29",
+      "level": 4,
+      "parent": "G01S19/24",
+      "ja": "キャリア関連［２０１０．０１］",
+      "en": "carrier related",
+      "count": 2081,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S19/30": {
+      "code": "G01S19/30",
+      "level": 4,
+      "parent": "G01S19/24",
+      "ja": "コード関連［２０１０．０１］",
+      "en": "code related",
+      "count": 2286,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S19/31": {
+      "code": "G01S19/31",
+      "level": 3,
+      "parent": "G01S19/13",
+      "ja": "測位のための他の信号の捕捉，追尾［２０１０．０１］",
+      "en": "Acquisition or tracking of other signals for positioning",
+      "count": 405,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S19/32": {
+      "code": "G01S19/32",
+      "level": 3,
+      "parent": "G01S19/13",
+      "ja": "同じ衛星システムでの多モード動作，例．ＧＰＳのＬ１とＬ２［２０１０．０１］",
+      "en": "Multimode operation in a single same satellite system, e.g. GPS L1/L2",
+      "count": 677,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S19/33": {
+      "code": "G01S19/33",
+      "level": 3,
+      "parent": "G01S19/13",
+      "ja": "タイムスタンプメッセージを送信する異なるシステム間の多モード動作，例．ＧＰＳ／ＧＬＯＮＡＳＳ［２０１０．０１］",
+      "en": "Multimode operation in different systems which transmit time stamped messages, e.g. GPS/GLONASS",
+      "count": 2144,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S19/34": {
+      "code": "G01S19/34",
+      "level": 3,
+      "parent": "G01S19/13",
+      "ja": "電力の節減［２０１０．０１］",
+      "en": "Power consumption",
+      "count": 2366,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S19/35": {
+      "code": "G01S19/35",
+      "level": 3,
+      "parent": "G01S19/13",
+      "ja": "構成上の細部，または，信号処理系統のハードウェアもしくはソフトウェアの細部［２０１０．０１］",
+      "en": "Constructional details or hardware or software details of the signal processing chain",
+      "count": 2096,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S19/36": {
+      "code": "G01S19/36",
+      "level": 4,
+      "parent": "G01S19/35",
+      "ja": "受信機フロントエンド関連［２０１０．０１］",
+      "en": "relating to the receiver frond end",
+      "count": 1366,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S19/37": {
+      "code": "G01S19/37",
+      "level": 4,
+      "parent": "G01S19/35",
+      "ja": "信号処理系統のハードウェアもしくはソフトウェアの細部［２０１０．０１］",
+      "en": "Hardware or software details of the signal processing chain",
+      "count": 6195,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S19/38": {
+      "code": "G01S19/38",
+      "level": 1,
+      "parent": "G01S19/00",
+      "ja": "衛星電波ビーコン測位システムの送信信号を用いた，航法解の決定［２０１０．０１］",
+      "en": "Determining a navigation solution using signals transmitted by a satellite radio beacon positioning system",
+      "count": 1019,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S19/39": {
+      "code": "G01S19/39",
+      "level": 2,
+      "parent": "G01S19/38",
+      "ja": "衛星電波ビーコン測位システムがタイムスタンプメッセージを送信するもの，例．ＧＰＳ　［Ｇｌｏｂａｌ　Ｐｏｓｉｔｉｏｎｉｎｇ　Ｓｙｓｔｅｍ］，　ＧＬＯＮＡＳＳ　［Ｇｌｏｂａｌ　Ｏｒｂｉｔｉｎｇ　Ｎａｖｉｇａｔｉｏｎ　Ｓａｔｅｌｌｉｔｅ　Ｓｙｓｔｅｍ］　，　ＧＡＬＩＬＥＯ［２０１０．０１］",
+      "en": "the satellite radio beacon positioning system transmitting time-stamped messages, e.g. GPS [Global Positioning System], GLONASS [Global Orbiting Navigation Satellite System] or GALILEO",
+      "count": 3283,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S19/40": {
+      "code": "G01S19/40",
+      "level": 3,
+      "parent": "G01S19/39",
+      "ja": "位置，速度または姿勢の補正［２０１０．０１］",
+      "en": "Correcting position, velocity or attitude",
+      "count": 2680,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S19/41": {
+      "code": "G01S19/41",
+      "level": 4,
+      "parent": "G01S19/40",
+      "ja": "ディファレンシャル補正，例．ＤＧＰＳ［Ｄｉｆｆｅｒｅｎｔｉａｌ　ＧＰＳ］［２０１０．０１］",
+      "en": "Differential correction, e.g. DGPS [differential GPS]",
+      "count": 2924,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S19/42": {
+      "code": "G01S19/42",
+      "level": 3,
+      "parent": "G01S19/39",
+      "ja": "位置の決定［２０１０．０１］",
+      "en": "Determining position",
+      "count": 22033,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S19/43": {
+      "code": "G01S19/43",
+      "level": 4,
+      "parent": "G01S19/42",
+      "ja": "キャリア位相測定を用いるもの，例．キネマティック測位；長基線または短基線干渉を用いるもの［２０１０．０１］",
+      "en": "using carrier phase measurements, e.g. kinematic positioning; using long or short baseline interferometry",
+      "count": 3254,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S19/44": {
+      "code": "G01S19/44",
+      "level": 5,
+      "parent": "G01S19/43",
+      "ja": "キャリア位相不確定の決定；フローティング・アンビギュイティ；ＬＡＭＢＤＡ［Ｌｅａｓｔ－ｓｑｕａｒｅｓ　ＡＭＢｉｇｕｉｔｙ　Ｄｅｃｏｒｒｅｌａｔｉｏｎ　Ａｄｊｕｓｔｍｅｎｔ］法［２０１０．０１］",
+      "en": "Carrier phase ambiguity resolution; Floating ambiguity; LAMBDA [Least-squares AMBiguity Decorrelation Adjustment] method",
+      "count": 2246,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S19/45": {
+      "code": "G01S19/45",
+      "level": 4,
+      "parent": "G01S19/42",
+      "ja": "衛星電波ビーコン測位システムからの信号の測定を，補助的な測定と組み合わせるもの［２０１０．０１］",
+      "en": "by combining measurements of signals from the satellite radio beacon positioning system with a supplementary measurement",
+      "count": 3566,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S19/46": {
+      "code": "G01S19/46",
+      "level": 5,
+      "parent": "G01S19/45",
+      "ja": "補助的な測定が電波信号を測定するタイプであるもの［２０１０．０１］",
+      "en": "the supplementary measurement being of a radio-wave signal type",
+      "count": 3345,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S19/47": {
+      "code": "G01S19/47",
+      "level": 5,
+      "parent": "G01S19/45",
+      "ja": "補助的な測定が慣性測定であるもの，例．Ｔｉｇｈｔｌｙ　ｃｏｕｐｌｅｄ　ｉｎｅｒｔｉａｌ［２０１０．０１］",
+      "en": "the supplementary measurement being an inertial measurement, e.g. tightly coupled inertial",
+      "count": 4482,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S19/48": {
+      "code": "G01S19/48",
+      "level": 4,
+      "parent": "G01S19/42",
+      "ja": "衛星電波ビーコン測位システムからの信号から引き出される位置解と，さらなるシステムからの位置解とを，切り替えまたは組み合わせるもの［２０１０．０１］",
+      "en": "by combining or switching between position solutions derived from the satellite radio beacon positioning system and position solutions derived from a further system",
+      "count": 6160,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S19/49": {
+      "code": "G01S19/49",
+      "level": 5,
+      "parent": "G01S19/48",
+      "ja": "さらなるシステムが慣性測位システムであるもの，例．ｌｏｏｓｅｌｙ－ｃｏｕｐｌｅｄ［２０１０．０１］",
+      "en": "whereby the further system is an inertial position system, e.g. loosely-coupled",
+      "count": 3939,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S19/50": {
+      "code": "G01S19/50",
+      "level": 4,
+      "parent": "G01S19/42",
+      "ja": "位置解が特定の曲線または表面上に制限されるもの，例．線路上を動く物体のための［２０１０．０１］",
+      "en": "whereby the position solution is constrained to lie upon a particular curve or surface, e.g. for locomotives on railway tracks",
+      "count": 916,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S19/51": {
+      "code": "G01S19/51",
+      "level": 4,
+      "parent": "G01S19/42",
+      "ja": "相対位置決定［２０１０．０１］",
+      "en": "Relative positioning",
+      "count": 1312,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S19/52": {
+      "code": "G01S19/52",
+      "level": 3,
+      "parent": "G01S19/39",
+      "ja": "速度の決定［２０１０．０１］",
+      "en": "Determining velocity",
+      "count": 1461,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S19/53": {
+      "code": "G01S19/53",
+      "level": 3,
+      "parent": "G01S19/39",
+      "ja": "姿勢の決定［２０１０．０１］",
+      "en": "Determining attitude",
+      "count": 1257,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S19/54": {
+      "code": "G01S19/54",
+      "level": 4,
+      "parent": "G01S19/53",
+      "ja": "キャリア位相測定を用いるもの；長基線または短基線干渉［２０１０．０１］",
+      "en": "using carrier phase measurements; using long or short baseline interferometry",
+      "count": 365,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    },
+    "G01S19/55": {
+      "code": "G01S19/55",
+      "level": 5,
+      "parent": "G01S19/54",
+      "ja": "キャリア位相不確定の決定；フローティング・アンビギュイティ；ＬＡＭＢＤＡ［Ｌｅａｓｔ－ｓｑｕａｒｅｓ　ＡＭＢｉｇｕｉｔｙ　Ｄｅｃｏｒｒｅｌａｔｉｏｎ　Ａｄｊｕｓｔｍｅｎｔ］法［２０１０．０１］",
+      "en": "Carrier phase ambiguity resolution; Floating ambiguity; LAMBDA [Least-squares AMBiguity Decorrelation Adjustment] method",
+      "count": 176,
+      "sourceFile": "ipc_G01S.txt",
+      "kind": "ipc"
+    }
+  }
+}

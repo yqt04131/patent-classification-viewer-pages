@@ -1,0 +1,636 @@
+{
+  "generatedAt": "2026-03-20T02:17:47.329Z",
+  "total": 63,
+  "entries": {
+    "H10H": {
+      "code": "H10H",
+      "level": 0,
+      "parent": "H10",
+      "ja": "電位障壁を有する，無機発光半導体装置［２０２５．０１］<br><br><b><ul>注</ul></b><br>１．　このサブクラスは可視，赤外［ＩＲ］または紫外［ＵＶ］の光を発する，無機発光半導体装置を包含する。これは発光ダイオード［ＬＥＤ］およびスーパールミネッセントダイオード［ＳＬＤ］を含む。<br>２．　このサブクラスは半導体レーザーを包含しない，半導体レーザーはグループＨ０１Ｓ５／００に包含される。<br>３．　このサブクラスでは、セクションＣの注（３）の周期表中に示されたＩ～ＶＩＩＩ族の周期系が用いられる。［２０２５．０１］",
+      "en": "INORGANIC LIGHT-EMITTING SEMICONDUCTOR DEVICES HAVING POTENTIAL BARRIERS; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This subclass <u>covers</u> inorganic light-emitting semiconductor devices that emit visible, infrared [IR] or ultraviolet [UV] light. This includes light-emitting diodes [LED] and superluminescent diodes [SLD].</li><li>This subclass <u>does not cover</u> semiconductor lasers, which are covered by group <b>H01S5/00</b>.</li><li>In this subclass, the periodic system used is the I to VIII group system indicated in the Periodic Table under Note (3) of section <b>C</b>.</li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_H.txt",
+      "kind": "ipc"
+    },
+    "H10": {
+      "code": "H10",
+      "level": 0,
+      "parent": "H",
+      "ja": "半導体装置；他に分類されない電気的固体装置［２０２３．０１］",
+      "en": "SEMICONDUCTOR DEVICES; ELECTRIC SOLID-STATE DEVICES NOT OTHERWISE PROVIDED FOR",
+      "count": 0,
+      "sourceFile": "ipc_H.txt",
+      "kind": "ipc"
+    },
+    "H": {
+      "code": "H",
+      "level": 0,
+      "parent": null,
+      "ja": "電気<br><br><b><ul>注</ul></b><br>（利用にあたっての基本原則と一般的指示）<br>Ｉ．セクションＨは以下のものを包含する：<br>（ａ）基本的電気素子，これは全ての電気ユニットと，装置や回路の一般的な機械的構成を包含しており，その中にはプリント配線と称されるものに各種の基本素子を組み立てたものも含まれる。またこれは他に包含されない場合には，ある程度までこれらの素子の製造をも包含する；<br>（ｂ）発電，これは，発電，変換および配電と共にそのための装置の制御を包含する；<br>（ｃ）電気の応用，これは以下のものを包含する：<br>（ｉ）一般的な利用技術，すなわち．電気加熱と電気照明回路の利用技術；<br>（ｉｉ）厳密な意味で電気的か電子的かいずれかの特定の利用技術で国際特許分類の他のセクションに包含されないもの，これは以下のものを含んでいる：<br>（１）電気的光源，これはレーザーを含む；<br>（２）電気的なＸ線技術；<br>（３）電気的なプラズマ技術，および帯電粒子または中性子の発生および加速；<br>（ｄ）基本電子回路およびその制御；<br>（ｅ）電気通信技術；これは電気―機械変換器一般を含む；<br>（ｆ）物品や上記素子を作るための特定の材料の使用，この点については指針の８８項から９０項を参照されたい。<br>ＩＩ．このセクションにおいては，下記の一般規則が適用される：<br>（ａ）上記Ｉ（ｃ）で述べた例外を除いて，国際特許分類のセクションＨ以外のいずれかのセクションに分類される特殊な操作，方法，装置，物体または物品に特有の電気的観点または部分は，常にその操作，方法，装置，物体または物品のためのサブクラスに分類されるか，または類似の性質を有する技術主題に関する共通的な特徴がクラス・レベルで展開されている場合には，それは，該技術主題のための一般的電気的な応用を完全に包含するサブクラスに，その操作，方法，装置，物体または物品と関連して分類される；<br>（ｂ）この様な電気的な応用には，一般的なものであれ特殊なものであれ，次の事項が含まれる。<br>（ｉ）Ａ６１における治療方法および装置；<br>（ｉｉ）Ｂ０１，Ｂ０３およびＢ２３Ｋにおける各種の実験室または工業的操作に用いられる電気的方法および装置；<br>（ｉｉｉ）セクションＢの“運輸”のサブセクションにおける車両一般および特殊な車両への電気の供給，電気的推進および電気照明；<br>（ｉｖ）Ｆ０２Ｐにおける内燃機関の電気点火系，およびＦ２３Ｑにおける燃焼装置一般のもの；<br>（ｖ）セクションＧにおける全ての電気的部分，すなわち，電気変量の測定器を含む測定装置，検査，信号および計算。このＧセクションにおいて電気とは，一般に手段として扱われるものでそれ自体目的として扱われるものではない；<br>（ｃ）全ての電気的な応用は一般的なものであれ特殊なものであれ，それが含んでいる電気的“基本的素子”に関して言えば，“基本的な電気”の観点がセクションＨ（上記Ｉ（ａ）参照）にあることを前提としている。この規則は，セクションＨ自身にある上記Ｉ（ｃ）で示した電気の応用に対しても有効である。",
+      "en": "ELECTRICITY; <br><br><b><u>Note(s)</u></b><br><br><ul><li>These Notes cover the basic principles and general instructions for use of section <b>H</b>.<ul><li>Section <b>H</b> <u>covers</u>: <ul><li>basic electric elements, which cover all electric units and the general mechanical structure of apparatus and circuits, including the assembly of various basic elements into what are called printed circuits and also cover to a certain extent the manufacture of these elements (when not covered elsewhere);</li><li>generation of electricity, which covers the generation, conversion and distribution of electricity together with the controlling of the corresponding gear;</li><li>applied electricity, which <u>covers</u>: <ul><li>general utilisation techniques, viz. those of electric heating and electric lighting circuits;</li><li>some special utilisation techniques, either electric or electronic in the strict sense, which are not covered by other sections of the Classification, including: <ul><li>electric light sources, including lasers;</li><li>electric X-ray technique;</li><li>electric plasma technique and the generation and acceleration of electrically charged particles or neutrons;</li></ul></li></ul></li><li>basic electronic circuits and their control;</li><li>radio or electric communication technique;</li><li>the use of a specified material for the manufacture of the article or element described. In this connection, paragraphs 88 to 90 of the Guide should be referred to.</li></ul></li><li>In this section, the following general rules apply: <ul><li>Subject to the exceptions stated in I(c), above, any electric aspect or part peculiar to a particular operation, process, apparatus, object or article, classified in one of the sections of the Classification other than section <b>H</b>, is always classified in the subclass for that operation, process, apparatus, object or article. Where common characteristics concerning technical subjects of similar nature have been brought out at class level, the electric aspect or part is classified, in conjunction with the operation, process, apparatus, object or article, in a subclass which covers entirely the general electrical applications for the technical subject in question;</li><li>The electrical applications referred to under (a), above, either general or particular, include: <ul><li>the therapeutic processes and apparatus, in class <b>A61</b>;</li><li>the electric processes and apparatus used in various laboratory or industrial operations, in classes <b>B01</b> and <b>B03</b> and in subclass <b>B23K</b>;</li><li>the electricity supply, electric propulsion and electric lighting of vehicles in general and of particular vehicles, in the subsection \"Transporting\" of section <b>B</b>;</li><li>the electric ignition systems of internal-combustion engines, in subclass <b>F02P</b>, and of combustion apparatus in general, in subclass <b>F23Q</b>;</li><li>the whole electrical part of section <b>G</b>, i.e. measuring devices including apparatus for measuring electric variables, checking, signalling and calculating. Electricity in that section is generally dealt with as a means and not as an end in itself;</li></ul></li><li>All electrical applications, both general and particular, presuppose that the \"basic electricity\" aspect appears in section <b>H</b> (see I(a) above) as regards the electric \"basic elements\" which they comprise. This rule is also valid for applied electricity, referred to in I(c), above, which appears in section <b>H</b> itself.</li></ul></li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_H.txt",
+      "kind": "ipc"
+    },
+    "H10H20/00": {
+      "code": "H10H20/00",
+      "level": 0,
+      "parent": "H10H",
+      "ja": "電位障壁を有する個々の無機発光半導体装置，例．発光ダイオード［ＬＥＤ］［２０２５．０１］",
+      "en": "Individual inorganic light-emitting semiconductor devices having potential barriers, e.g. light-emitting diodes [LED]",
+      "count": 836,
+      "sourceFile": "ipc_H10H.txt",
+      "kind": "ipc"
+    },
+    "H10H20/01": {
+      "code": "H10H20/01",
+      "level": 1,
+      "parent": "H10H20/00",
+      "ja": "製造または処理［２０２５．０１］",
+      "en": "Manufacture or treatment",
+      "count": 2672,
+      "sourceFile": "ipc_H10H.txt",
+      "kind": "ipc"
+    },
+    "H10H20/80": {
+      "code": "H10H20/80",
+      "level": 1,
+      "parent": "H10H20/00",
+      "ja": "構造的細部［２０２５．０１］",
+      "en": "Constructional details",
+      "count": 135,
+      "sourceFile": "ipc_H10H.txt",
+      "kind": "ipc"
+    },
+    "H10H20/81": {
+      "code": "H10H20/81",
+      "level": 2,
+      "parent": "H10H20/80",
+      "ja": "本体［２０２５．０１］",
+      "en": "Bodies",
+      "count": 351,
+      "sourceFile": "ipc_H10H.txt",
+      "kind": "ipc"
+    },
+    "H10H20/811": {
+      "code": "H10H20/811",
+      "level": 3,
+      "parent": "H10H20/81",
+      "ja": "量子効果を奏する構造または超格子を有するもの，例．トンネル接合［２０２５．０１］",
+      "en": "having quantum effect structures or superlattices, e.g. tunnel junctions",
+      "count": 183,
+      "sourceFile": "ipc_H10H.txt",
+      "kind": "ipc"
+    },
+    "H10H20/812": {
+      "code": "H10H20/812",
+      "level": 4,
+      "parent": "H10H20/811",
+      "ja": "発光領域内にあるもの，例．量子閉じ込め構造を有するもの［２０２５．０１］",
+      "en": "within the light-emitting regions, e.g. having quantum confinement structures",
+      "count": 781,
+      "sourceFile": "ipc_H10H.txt",
+      "kind": "ipc"
+    },
+    "H10H20/813": {
+      "code": "H10H20/813",
+      "level": 3,
+      "parent": "H10H20/81",
+      "ja": "複数の発光領域を有するもの，例．多接合ＬＥＤまたは本体の内部にフォトルミネセント領域を有する発光装置［２０２５．０１］",
+      "en": "having a plurality of light-emitting regions, e.g. multi-junction LEDs or light-emitting devices having photoluminescent regions within the bodies",
+      "count": 418,
+      "sourceFile": "ipc_H10H.txt",
+      "kind": "ipc"
+    },
+    "H10H20/814": {
+      "code": "H10H20/814",
+      "level": 3,
+      "parent": "H10H20/81",
+      "ja": "反射手段を有するもの，例．半導体ブラッグ反射鏡［２０２５．０１］",
+      "en": "having reflecting means, e.g. semiconductor Bragg reflectors",
+      "count": 281,
+      "sourceFile": "ipc_H10H.txt",
+      "kind": "ipc"
+    },
+    "H10H20/815": {
+      "code": "H10H20/815",
+      "level": 3,
+      "parent": "H10H20/81",
+      "ja": "応力緩和構造を有するもの，例．バッファ層［２０２５．０１］",
+      "en": "having stress relaxation structures, e.g. buffer layers",
+      "count": 327,
+      "sourceFile": "ipc_H10H.txt",
+      "kind": "ipc"
+    },
+    "H10H20/816": {
+      "code": "H10H20/816",
+      "level": 3,
+      "parent": "H10H20/81",
+      "ja": "電流制御構造を有するもの，例．高濃度ドープ半導体層，電流ブロック構造［２０２５．０１］",
+      "en": "having carrier transport control structures, e.g. highly-doped semiconductor layers or current-blocking structures",
+      "count": 598,
+      "sourceFile": "ipc_H10H.txt",
+      "kind": "ipc"
+    },
+    "H10H20/817": {
+      "code": "H10H20/817",
+      "level": 3,
+      "parent": "H10H20/81",
+      "ja": "結晶構造または結晶方位に特徴のあるもの，例．多結晶，アモルファスまたはポーラス［２０２５．０１］",
+      "en": "characterised by the crystal structures or orientations, e.g. polycrystalline, amorphous or porous",
+      "count": 98,
+      "sourceFile": "ipc_H10H.txt",
+      "kind": "ipc"
+    },
+    "H10H20/818": {
+      "code": "H10H20/818",
+      "level": 4,
+      "parent": "H10H20/817",
+      "ja": "発光領域内にあるもの［２０２５．０１］<br><br><b><ul>注</ul></b><br>このグループに分類する場合，発光領域の化学組成を特定するために，グループＨ１０Ｈ２０／８２２にも分類する。［２０２５．０１］",
+      "en": "within the light-emitting regions; <br><br><b><u>Note(s)</u></b><br><br><ul><li>When classifying in this group, classification is also made in group <b>H10H20/822</b> in order to identify the chemical composition of the light-emitting region.</li></ul>",
+      "count": 76,
+      "sourceFile": "ipc_H10H.txt",
+      "kind": "ipc"
+    },
+    "H10H20/819": {
+      "code": "H10H20/819",
+      "level": 3,
+      "parent": "H10H20/81",
+      "ja": "その形状に特徴のあるもの，例．湾曲または面取りされた基板［２０２５．０１］",
+      "en": "characterised by their shape, e.g. curved or truncated substrates",
+      "count": 646,
+      "sourceFile": "ipc_H10H.txt",
+      "kind": "ipc"
+    },
+    "H10H20/82": {
+      "code": "H10H20/82",
+      "level": 4,
+      "parent": "H10H20/819",
+      "ja": "粗面化された表面，例．エピタキシャル層の界面にあるもの［２０２５．０１］",
+      "en": "Roughened surfaces, e.g. at the interface between epitaxial layers",
+      "count": 259,
+      "sourceFile": "ipc_H10H.txt",
+      "kind": "ipc"
+    },
+    "H10H20/821": {
+      "code": "H10H20/821",
+      "level": 4,
+      "parent": "H10H20/819",
+      "ja": "発光領域にあるもの，例．非プレーナー接合［２０２５．０１］",
+      "en": "of the light-emitting regions, e.g. non-planar junctions",
+      "count": 262,
+      "sourceFile": "ipc_H10H.txt",
+      "kind": "ipc"
+    },
+    "H10H20/822": {
+      "code": "H10H20/822",
+      "level": 3,
+      "parent": "H10H20/81",
+      "ja": "発光領域の材料［２０２５．０１］<br><br><b><ul>注</ul></b><br>このグループに分類する場合，ドーパントまたは他の不純物に関係なく，材料の成分を考慮する。［２０２５．０１］",
+      "en": "Materials of the light-emitting regions; <br><br><b><u>Note(s)</u></b><br><br><ul><li>When classifying in this group, constituents of a material are considered irrespective of any dopants or other impurities.</li></ul>",
+      "count": 127,
+      "sourceFile": "ipc_H10H.txt",
+      "kind": "ipc"
+    },
+    "H10H20/823": {
+      "code": "H10H20/823",
+      "level": 4,
+      "parent": "H10H20/822",
+      "ja": "ＩＩ－ＶＩ族の材料のみからなるもの，例．ＺｎＯ［２０２５．０１］",
+      "en": "comprising only Group II-VI materials, e.g. ZnO",
+      "count": 29,
+      "sourceFile": "ipc_H10H.txt",
+      "kind": "ipc"
+    },
+    "H10H20/824": {
+      "code": "H10H20/824",
+      "level": 4,
+      "parent": "H10H20/822",
+      "ja": "ＩＩＩ－Ｖ族の材料のみからなるもの，例．ＧａＰ［２０２５．０１］",
+      "en": "comprising only Group III-V materials, e.g. GaP",
+      "count": 239,
+      "sourceFile": "ipc_H10H.txt",
+      "kind": "ipc"
+    },
+    "H10H20/825": {
+      "code": "H10H20/825",
+      "level": 5,
+      "parent": "H10H20/824",
+      "ja": "窒素を含むもの，例．ＧａＮ［２０２５．０１］",
+      "en": "containing nitrogen, e.g. GaN",
+      "count": 847,
+      "sourceFile": "ipc_H10H.txt",
+      "kind": "ipc"
+    },
+    "H10H20/826": {
+      "code": "H10H20/826",
+      "level": 4,
+      "parent": "H10H20/822",
+      "ja": "ＩＶ族の材料のみからなるもの［２０２５．０１］",
+      "en": "comprising only Group IV materials",
+      "count": 11,
+      "sourceFile": "ipc_H10H.txt",
+      "kind": "ipc"
+    },
+    "H10H20/83": {
+      "code": "H10H20/83",
+      "level": 2,
+      "parent": "H10H20/80",
+      "ja": "電極［２０２５．０１］",
+      "en": "Electrodes",
+      "count": 426,
+      "sourceFile": "ipc_H10H.txt",
+      "kind": "ipc"
+    },
+    "H10H20/831": {
+      "code": "H10H20/831",
+      "level": 3,
+      "parent": "H10H20/83",
+      "ja": "その形状に特徴のあるもの［２０２５．０１］",
+      "en": "characterised by their shape",
+      "count": 1146,
+      "sourceFile": "ipc_H10H.txt",
+      "kind": "ipc"
+    },
+    "H10H20/832": {
+      "code": "H10H20/832",
+      "level": 3,
+      "parent": "H10H20/83",
+      "ja": "その材料に特徴のあるもの［２０２５．０１］",
+      "en": "characterised by their material",
+      "count": 367,
+      "sourceFile": "ipc_H10H.txt",
+      "kind": "ipc"
+    },
+    "H10H20/833": {
+      "code": "H10H20/833",
+      "level": 4,
+      "parent": "H10H20/832",
+      "ja": "透明材料［２０２５．０１］",
+      "en": "Transparent materials",
+      "count": 250,
+      "sourceFile": "ipc_H10H.txt",
+      "kind": "ipc"
+    },
+    "H10H20/84": {
+      "code": "H10H20/84",
+      "level": 2,
+      "parent": "H10H20/80",
+      "ja": "コーティング，例．パッシベーション層または反射防止コーティング［２０２５．０１］",
+      "en": "Coatings, e.g. passivation layers or antireflective coatings",
+      "count": 986,
+      "sourceFile": "ipc_H10H.txt",
+      "kind": "ipc"
+    },
+    "H10H20/841": {
+      "code": "H10H20/841",
+      "level": 3,
+      "parent": "H10H20/84",
+      "ja": "反射コーティング，例．誘電体ブラッグ反射鏡［２０２５．０１］",
+      "en": "Reflective coatings, e.g. dielectric Bragg reflectors",
+      "count": 536,
+      "sourceFile": "ipc_H10H.txt",
+      "kind": "ipc"
+    },
+    "H10H20/85": {
+      "code": "H10H20/85",
+      "level": 2,
+      "parent": "H10H20/80",
+      "ja": "パッケージ［２０２５．０１］",
+      "en": "Packages",
+      "count": 1284,
+      "sourceFile": "ipc_H10H.txt",
+      "kind": "ipc"
+    },
+    "H10H20/851": {
+      "code": "H10H20/851",
+      "level": 3,
+      "parent": "H10H20/85",
+      "ja": "波長変換手段［２０２５．０１］",
+      "en": "Wavelength conversion means",
+      "count": 1753,
+      "sourceFile": "ipc_H10H.txt",
+      "kind": "ipc"
+    },
+    "H10H20/852": {
+      "code": "H10H20/852",
+      "level": 3,
+      "parent": "H10H20/85",
+      "ja": "封緘［２０２５．０１］",
+      "en": "Encapsulations",
+      "count": 474,
+      "sourceFile": "ipc_H10H.txt",
+      "kind": "ipc"
+    },
+    "H10H20/853": {
+      "code": "H10H20/853",
+      "level": 4,
+      "parent": "H10H20/852",
+      "ja": "その形状に特徴のあるもの［２０２５．０１］",
+      "en": "characterised by their shape",
+      "count": 585,
+      "sourceFile": "ipc_H10H.txt",
+      "kind": "ipc"
+    },
+    "H10H20/854": {
+      "code": "H10H20/854",
+      "level": 4,
+      "parent": "H10H20/852",
+      "ja": "その材料に特徴のあるもの，例．エポキシ樹脂またはシリコーン樹脂［２０２５．０１］",
+      "en": "characterised by their material, e.g. epoxy or silicone resins",
+      "count": 567,
+      "sourceFile": "ipc_H10H.txt",
+      "kind": "ipc"
+    },
+    "H10H20/855": {
+      "code": "H10H20/855",
+      "level": 3,
+      "parent": "H10H20/85",
+      "ja": "光の形状を形成する手段，例．レンズ［２０２５．０１］",
+      "en": "Optical field-shaping means, e.g. lenses",
+      "count": 1060,
+      "sourceFile": "ipc_H10H.txt",
+      "kind": "ipc"
+    },
+    "H10H20/856": {
+      "code": "H10H20/856",
+      "level": 4,
+      "parent": "H10H20/855",
+      "ja": "反射手段［２０２５．０１］",
+      "en": "Reflecting means",
+      "count": 694,
+      "sourceFile": "ipc_H10H.txt",
+      "kind": "ipc"
+    },
+    "H10H20/857": {
+      "code": "H10H20/857",
+      "level": 3,
+      "parent": "H10H20/85",
+      "ja": "相互接続，例．リードフレーム，ボンドワイヤーまたはソルダーボール［２０２５．０１］",
+      "en": "Interconnections, e.g. lead-frames, bond wires or solder balls",
+      "count": 2483,
+      "sourceFile": "ipc_H10H.txt",
+      "kind": "ipc"
+    },
+    "H10H20/858": {
+      "code": "H10H20/858",
+      "level": 3,
+      "parent": "H10H20/85",
+      "ja": "放熱または冷却のための手段［２０２５．０１］",
+      "en": "Means for heat extraction or cooling",
+      "count": 463,
+      "sourceFile": "ipc_H10H.txt",
+      "kind": "ipc"
+    },
+    "H10H29/00": {
+      "code": "H10H29/00",
+      "level": 0,
+      "parent": "H10H",
+      "ja": "グループＨ１０Ｈ２０／００に包含される，少なくとも１つの発光半導体素子を備える，集積装置または複数の装置の組立体［２０２５．０１］",
+      "en": "Integrated devices, or assemblies of multiple devices, comprising at least one light-emitting semiconductor element covered by group <b>H10H20/00</b>",
+      "count": 8,
+      "sourceFile": "ipc_H10H.txt",
+      "kind": "ipc"
+    },
+    "H10H29/01": {
+      "code": "H10H29/01",
+      "level": 1,
+      "parent": "H10H29/00",
+      "ja": "製造または処理［２０２５．０１］",
+      "en": "Manufacture or treatment",
+      "count": 2163,
+      "sourceFile": "ipc_H10H.txt",
+      "kind": "ipc"
+    },
+    "H10H29/02": {
+      "code": "H10H29/02",
+      "level": 2,
+      "parent": "H10H29/01",
+      "ja": "ピックアンドプレース工程を用いるもの［２０２５．０１］",
+      "en": "using pick-and-place processes",
+      "count": 77,
+      "sourceFile": "ipc_H10H.txt",
+      "kind": "ipc"
+    },
+    "H10H29/03": {
+      "code": "H10H29/03",
+      "level": 2,
+      "parent": "H10H29/01",
+      "ja": "ＬＥＤのマストランスファーを用いるもの，例．液状懸濁物を用いるもの［２０２５．０１］",
+      "en": "using mass transfer of LEDs, e.g. by using liquid suspensions",
+      "count": 413,
+      "sourceFile": "ipc_H10H.txt",
+      "kind": "ipc"
+    },
+    "H10H29/10": {
+      "code": "H10H29/10",
+      "level": 1,
+      "parent": "H10H29/00",
+      "ja": "グループＨ１０Ｈ２０／００に包含される，少なくとも１つの発光半導体構成部品を備える，集積装置（アクティブマトリクス型ＬＥＤディスプレイＨ１０Ｈ２９／３０）［２０２５．０１］",
+      "en": "Integrated devices comprising at least one light-emitting semiconductor component covered by group <b>H10H20/00</b>(active-matrix LED displays <b>H10H29/30</b>)",
+      "count": 254,
+      "sourceFile": "ipc_H10H.txt",
+      "kind": "ipc"
+    },
+    "H10H29/14": {
+      "code": "H10H29/14",
+      "level": 2,
+      "parent": "H10H29/10",
+      "ja": "複数の発光半導体構成部品を備えるもの［２０２５．０１］",
+      "en": "comprising multiple light-emitting semiconductor components",
+      "count": 925,
+      "sourceFile": "ipc_H10H.txt",
+      "kind": "ipc"
+    },
+    "H10H29/20": {
+      "code": "H10H29/20",
+      "level": 1,
+      "parent": "H10H29/00",
+      "ja": "グループＨ１０Ｈ２０／００に包含される，少なくとも１つの発光半導体装置を備える，複数の装置の組立体（アクティブマトリクス型ＬＥＤディスプレイＨ１０Ｈ２９／３０）［２０２５．０１］",
+      "en": "Assemblies of multiple devices comprising at least one light-emitting semiconductor device covered by group <b>H10H20/00</b>(active-matrix LED displays <b>H10H29/30</b>)",
+      "count": 117,
+      "sourceFile": "ipc_H10H.txt",
+      "kind": "ipc"
+    },
+    "H10H29/24": {
+      "code": "H10H29/24",
+      "level": 2,
+      "parent": "H10H29/20",
+      "ja": "複数の発光半導体装置を備えるもの［２０２５．０１］",
+      "en": "comprising multiple light-emitting semiconductor devices",
+      "count": 1247,
+      "sourceFile": "ipc_H10H.txt",
+      "kind": "ipc"
+    },
+    "H10H29/30": {
+      "code": "H10H29/30",
+      "level": 1,
+      "parent": "H10H29/00",
+      "ja": "アクティブマトリクス型ＬＥＤディスプレイ［２０２５．０１］<br><br><b><ul>注</ul></b><br>このグループは，その発明の重点がＬＥＤ，ＬＥＤと密接に関連する層またはＬＥＤと密接に関連する構造的細部であるアクティブマトリクス型ディスプレイを包含する，例．ＬＥＤ間またはその封緘の間の相互接続［２０２５．０１］",
+      "en": "Active-matrix LED displays; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This group <u>covers</u> active-matrix displays where the emphasis of the invention concerns the LEDs, the layers closely related to the LEDs or constructional details closely related to the LEDs, e.g. interconnections between the LEDs or their encapsulations.</li></ul>",
+      "count": 1466,
+      "sourceFile": "ipc_H10H.txt",
+      "kind": "ipc"
+    },
+    "H10H29/32": {
+      "code": "H10H29/32",
+      "level": 2,
+      "parent": "H10H29/30",
+      "ja": "副画素の内部の素子の幾何学的形状または配置に特徴のあるもの，例．ＲＧＢ副画素の内部のトランジスタの配置［２０２５．０１］",
+      "en": "characterised by the geometry or arrangement of elements within a subpixel, e.g. arrangement of the transistor within its RGB subpixel",
+      "count": 329,
+      "sourceFile": "ipc_H10H.txt",
+      "kind": "ipc"
+    },
+    "H10H29/34": {
+      "code": "H10H29/34",
+      "level": 2,
+      "parent": "H10H29/30",
+      "ja": "画素の内部の副画素の幾何学的形状または配置に特徴のあるもの，例．ＲＧＢ副画素の相対的配置［２０２５．０１］",
+      "en": "characterised by the geometry or arrangement of subpixels within a pixel, e.g. relative disposition of the RGB subpixels",
+      "count": 241,
+      "sourceFile": "ipc_H10H.txt",
+      "kind": "ipc"
+    },
+    "H10H29/37": {
+      "code": "H10H29/37",
+      "level": 2,
+      "parent": "H10H29/30",
+      "ja": "画素を定義するための構造，例．ＬＥＤ間の隔壁［２０２５．０１］",
+      "en": "Pixel-defining structures, e.g. banks between the LEDs",
+      "count": 252,
+      "sourceFile": "ipc_H10H.txt",
+      "kind": "ipc"
+    },
+    "H10H29/39": {
+      "code": "H10H29/39",
+      "level": 2,
+      "parent": "H10H29/30",
+      "ja": "駆動トランジスタへの画素電極の接続［２０２５．０１］",
+      "en": "Connection of the pixel electrodes to the driving transistors",
+      "count": 321,
+      "sourceFile": "ipc_H10H.txt",
+      "kind": "ipc"
+    },
+    "H10H29/41": {
+      "code": "H10H29/41",
+      "level": 2,
+      "parent": "H10H29/30",
+      "ja": "駆動トランジスタとＬＥＤ間に形成される絶縁層［２０２５．０１］",
+      "en": "Insulating layers formed between the driving transistors and the LEDs",
+      "count": 91,
+      "sourceFile": "ipc_H10H.txt",
+      "kind": "ipc"
+    },
+    "H10H29/45": {
+      "code": "H10H29/45",
+      "level": 2,
+      "parent": "H10H29/30",
+      "ja": "それぞれ上にアクティブ素子を有する２つの基板からなるもの，例．異なる基板上に存在するＬＥＤアレイと駆動回路からなるディスプレイ［２０２５．０１］",
+      "en": "comprising two substrates, each having active devices thereon, e.g. displays comprising LED arrays and driving circuitry on different substrates",
+      "count": 49,
+      "sourceFile": "ipc_H10H.txt",
+      "kind": "ipc"
+    },
+    "H10H29/49": {
+      "code": "H10H29/49",
+      "level": 2,
+      "parent": "H10H29/30",
+      "ja": "相互接続，例．配線または端子（駆動トランジスタへの画素電極の接続Ｈ１０Ｈ２９／３９）［２０２５．０１］",
+      "en": "Interconnections, e.g. wiring lines or terminals(connection of the pixel electrodes to the driving transistors <b>H10H29/39</b>)",
+      "count": 1033,
+      "sourceFile": "ipc_H10H.txt",
+      "kind": "ipc"
+    },
+    "H10H29/80": {
+      "code": "H10H29/80",
+      "level": 1,
+      "parent": "H10H29/00",
+      "ja": "構造的細部［２０２５．０１］<br><br><b><ul>注</ul></b><br>構造的細部が集積装置または複数の装置の組立体に関する場合は，グループＨ１０Ｈ２９／８０に分類する。構造的細部が個々の装置に関する場合は，グループＨ１０Ｈ２０／８０に分類する。［２０２５．０１］",
+      "en": "Constructional details; <br><br><b><u>Note(s)</u></b><br><br><ul><li>Classification is made in group <b>H10H29/80</b> when the constructional detail is relevant to integrated devices or assemblies comprising multiple devices. When the constructional detail is relevant to individual devices, then classification is made in group <b>H10H20/80</b>.</li></ul>",
+      "count": 518,
+      "sourceFile": "ipc_H10H.txt",
+      "kind": "ipc"
+    },
+    "H10H29/85": {
+      "code": "H10H29/85",
+      "level": 2,
+      "parent": "H10H29/80",
+      "ja": "パッケージ［２０２５．０１］",
+      "en": "Packages",
+      "count": 1029,
+      "sourceFile": "ipc_H10H.txt",
+      "kind": "ipc"
+    },
+    "H10H29/851": {
+      "code": "H10H29/851",
+      "level": 3,
+      "parent": "H10H29/85",
+      "ja": "波長変換手段［２０２５．０１］",
+      "en": "Wavelength conversion means",
+      "count": 571,
+      "sourceFile": "ipc_H10H.txt",
+      "kind": "ipc"
+    },
+    "H10H29/852": {
+      "code": "H10H29/852",
+      "level": 3,
+      "parent": "H10H29/85",
+      "ja": "封緘［２０２５．０１］",
+      "en": "Encapsulations",
+      "count": 303,
+      "sourceFile": "ipc_H10H.txt",
+      "kind": "ipc"
+    },
+    "H10H29/853": {
+      "code": "H10H29/853",
+      "level": 4,
+      "parent": "H10H29/852",
+      "ja": "その形状に特徴のあるもの［２０２５．０１］",
+      "en": "characterised by their shape",
+      "count": 284,
+      "sourceFile": "ipc_H10H.txt",
+      "kind": "ipc"
+    },
+    "H10H29/854": {
+      "code": "H10H29/854",
+      "level": 4,
+      "parent": "H10H29/852",
+      "ja": "その材料に特徴のあるもの，例．エポキシ樹脂またはシリコーン樹脂［２０２５．０１］",
+      "en": "characterised by their material, e.g. epoxy or silicone resins",
+      "count": 230,
+      "sourceFile": "ipc_H10H.txt",
+      "kind": "ipc"
+    },
+    "H10H29/855": {
+      "code": "H10H29/855",
+      "level": 3,
+      "parent": "H10H29/85",
+      "ja": "光の形状を形成する手段，例．レンズ［２０２５．０１］",
+      "en": "Optical field-shaping means, e.g. lenses",
+      "count": 689,
+      "sourceFile": "ipc_H10H.txt",
+      "kind": "ipc"
+    },
+    "H10H29/856": {
+      "code": "H10H29/856",
+      "level": 4,
+      "parent": "H10H29/855",
+      "ja": "反射手段［２０２５．０１］",
+      "en": "Reflecting means",
+      "count": 351,
+      "sourceFile": "ipc_H10H.txt",
+      "kind": "ipc"
+    },
+    "H10H99/00": {
+      "code": "H10H99/00",
+      "level": 0,
+      "parent": "H10H",
+      "ja": "このサブクラスの他のグループに分類されない主題事項［２０２５．０１］",
+      "en": "Subject matter not provided for in other groups of this subclass",
+      "count": 5,
+      "sourceFile": "ipc_H10H.txt",
+      "kind": "ipc"
+    }
+  }
+}

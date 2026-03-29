@@ -1,0 +1,110 @@
+window.FI_SHARD_D06J = {
+  "generatedAt": "2026-03-20T02:17:50.703Z",
+  "total": 8,
+  "entries": {
+    "D06J": {
+      "code": "D06J",
+      "level": 0,
+      "parent": null,
+      "ja": "",
+      "en": "",
+      "count": 0,
+      "ipcCode": "",
+      "fTerm": "PLEATING, KILTING OR GOFFERING TEXTILE FABRICS OR WEARING APPAREL (by sewing <b>D05B</b>)",
+      "childFlag": 0,
+      "sourceFile": "fi_D.txt",
+      "kind": "fi"
+    },
+    "D06J1/00\\": {
+      "code": "D06J1/00\\",
+      "level": 0,
+      "parent": null,
+      "ja": "布帛または衣類のひだ付け",
+      "en": "Pleating, kilting, or goffering textile fabrics or wearing apparel",
+      "count": 271,
+      "ipcCode": "D06J1/00",
+      "fTerm": "3B154",
+      "childFlag": 0,
+      "sourceFile": "fi_D06J.txt",
+      "kind": "fi"
+    },
+    "D06J1/02\\": {
+      "code": "D06J1/02\\",
+      "level": 1,
+      "parent": "D06J1/00\\",
+      "ja": "移送の方向について横方向にかつ連続的にひだを付けるもの",
+      "en": "continuously and transversely to the direction of feed",
+      "count": 46,
+      "ipcCode": "D06J1/02",
+      "fTerm": "3B154",
+      "childFlag": 1,
+      "sourceFile": "fi_D06J.txt",
+      "kind": "fi"
+    },
+    "D06J1/04\\": {
+      "code": "D06J1/04\\",
+      "level": 2,
+      "parent": "D06J1/02\\",
+      "ja": "凹凸のあるローラまたはベルトの協同によるもの",
+      "en": "by co-operating ribbed or grooved rollers or belts",
+      "count": 41,
+      "ipcCode": "D06J1/04",
+      "fTerm": "3B154",
+      "childFlag": 2,
+      "sourceFile": "fi_D06J.txt",
+      "kind": "fi"
+    },
+    "D06J1/06\\": {
+      "code": "D06J1/06\\",
+      "level": 2,
+      "parent": "D06J1/02\\",
+      "ja": "往復動する平板によるもの",
+      "en": "by reciprocating blades",
+      "count": 24,
+      "ipcCode": "D06J1/06",
+      "fTerm": "3B154",
+      "childFlag": 2,
+      "sourceFile": "fi_D06J.txt",
+      "kind": "fi"
+    },
+    "D06J1/08\\": {
+      "code": "D06J1/08\\",
+      "level": 3,
+      "parent": "D06J1/06\\",
+      "ja": "ローラまたはベルト間に折り重ねるようにしたもの",
+      "en": "which introduce the folds between rollers or belts",
+      "count": 38,
+      "ipcCode": "D06J1/08",
+      "fTerm": "3B154",
+      "childFlag": 3,
+      "sourceFile": "fi_D06J.txt",
+      "kind": "fi"
+    },
+    "D06J1/10\\": {
+      "code": "D06J1/10\\",
+      "level": 1,
+      "parent": "D06J1/00\\",
+      "ja": "移送の方向に沿って長手方向にかつ連続的にひだを付けるもの",
+      "en": "continuously and longitudinally to the direction of feed",
+      "count": 47,
+      "ipcCode": "D06J1/10",
+      "fTerm": "3B154",
+      "childFlag": 1,
+      "sourceFile": "fi_D06J.txt",
+      "kind": "fi"
+    },
+    "D06J1/12\\": {
+      "code": "D06J1/12\\",
+      "level": 1,
+      "parent": "D06J1/00\\",
+      "ja": "ひだまたはそれに類似する物の形成",
+      "en": "Forms of pleats or the like",
+      "count": 377,
+      "ipcCode": "D06J1/12",
+      "fTerm": "3B154",
+      "childFlag": 1,
+      "sourceFile": "fi_D06J.txt",
+      "kind": "fi"
+    }
+  }
+};

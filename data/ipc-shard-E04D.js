@@ -1,0 +1,886 @@
+window.IPC_SHARD_E04D = {
+  "generatedAt": "2026-03-20T02:17:46.689Z",
+  "total": 88,
+  "entries": {
+    "E04D": {
+      "code": "E04D",
+      "level": 0,
+      "parent": "E04",
+      "ja": "屋根ふき；天窓；とい；屋根工事用工具（プラスターまたは他の多孔性材料による外壁の被覆のＥ０４Ｆ１３／００）<br><br><b><ul>注</ul></b><br>このサブクラスにおいては，下記の表現は以下に示す意味で用いる：<br>―“屋根ふき”は建築物の屋根以外の部分の雨，雪，あられ等に対する屋根と同様の防水被覆も含む。<br><br><b><ul>サブクラス内の索引</ul></b><br>屋根ふき<br>かわらまたはスレート；板（スラブ）または硬いシート；可とう性のある材料　１／００；３／００；５／００，１１／００<br>かさのある材料，わらまたはかや　７／００，９／００，１１／００<br>その他の材料　１１／００<br>屋根ふきに関する特殊な装置　１２／００，１３／００<br>屋根作業のための装置または道具　１５／００",
+      "en": "ROOF COVERINGS; SKY-LIGHTS; GUTTERS; ROOF-WORKING TOOLS(coverings of outer walls by plaster or other porous material <b>E04F13/00</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>In this subclass, the following expression is used with the meaning indicated:<ul><li>\"roof coverings\" includes any similar kind of watertight covering against rain, snow, hail, or the like, for other parts of buildings.</li></ul></li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">ROOF COVERINGS<tr><td width=\"70%\">Tiles or slates; slabs or stiff sheets; flexible materials </td><td><b><b>1/00</b>; <b>3/00</b>; <b>5/00</b>, <b>11/00</b></b></td></tr></tr><tr><td width=\"70%\">Bulk materials, straw or thatch </td><td><b><b>7/00</b>, <b>9/00</b>, <b>11/00</b></b></td></tr></tr><tr><td width=\"70%\">Other materials </td><td><b><b>11/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">SPECIAL ARRANGEMENTS IN CONNECTION WITH ROOF COVERINGS </td><td><b><b>12/00</b>, <b>13/00</b></b></td></tr></tr><tr><td width=\"70%\">APPARATUS OR TOOLS FOR ROOF WORKING </td><td><b><b>15/00</b></b></td></tr></tr></table>",
+      "count": 2060,
+      "sourceFile": "ipc_E.txt",
+      "kind": "ipc"
+    },
+    "E04": {
+      "code": "E04",
+      "level": 0,
+      "parent": "E",
+      "ja": "建築物",
+      "en": "BUILDING",
+      "count": 0,
+      "sourceFile": "ipc_E.txt",
+      "kind": "ipc"
+    },
+    "E": {
+      "code": "E",
+      "level": 0,
+      "parent": null,
+      "ja": "固定構造物",
+      "en": "FIXED CONSTRUCTIONS",
+      "count": 0,
+      "sourceFile": "ipc_E.txt",
+      "kind": "ipc"
+    },
+    "E04D1/00": {
+      "code": "E04D1/00",
+      "level": 0,
+      "parent": "E04D",
+      "ja": "かわら，スレート，シングルまたはその他の小さい屋根ふき要素を利用する屋根ふき（屋根用支持材Ｅ０４Ｄ１２／００）",
+      "en": "Roof covering by making use of tiles, slates, shingles, or other small roofing elements(roofing supports <b>E04D12/00</b>)",
+      "count": 2396,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D1/02": {
+      "code": "E04D1/02",
+      "level": 1,
+      "parent": "E04D1/00",
+      "ja": "みぞまたは隆起付き屋根ふき要素（Ｅ０４Ｄ１／２８，Ｅ０４Ｄ１／３０が優先）",
+      "en": "Grooved or vaulted roofing elements(<b>E04D1/28</b>, <b>E04D1/30</b> take precedence)",
+      "count": 1254,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D1/04": {
+      "code": "E04D1/04",
+      "level": 2,
+      "parent": "E04D1/02",
+      "ja": "補強材を有するかまたは有しないセラミック，ガラスまたはコンクリートからなるもの",
+      "en": "of ceramics, glass or concrete, with or without reinforcement",
+      "count": 2504,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D1/06": {
+      "code": "E04D1/06",
+      "level": 2,
+      "parent": "E04D1/02",
+      "ja": "金属からなるもの",
+      "en": "of metal",
+      "count": 942,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D1/08": {
+      "code": "E04D1/08",
+      "level": 2,
+      "parent": "E04D1/02",
+      "ja": "プラスチックからなるもの；繊維質材料からなるもの",
+      "en": "of plastics; of fibrous materials",
+      "count": 534,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D1/10": {
+      "code": "E04D1/10",
+      "level": 2,
+      "parent": "E04D1/02",
+      "ja": "グループＥ０４Ｄ１／０４～Ｅ０４Ｄ１／０８のいずれにも属しない特定の材料，または材料の組み合わせからなるもの",
+      "en": "of specified materials, or of combinations of materials, not covered by any one of groups <b>E04D1/04 to E04D1/08</b> ",
+      "count": 320,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D1/12": {
+      "code": "E04D1/12",
+      "level": 1,
+      "parent": "E04D1/00",
+      "ja": "平たいかわらまたはシングルに形成された屋根ふき要素，すなわち平な外表面を有するもの（Ｅ０４Ｄ１／２８，Ｅ０４Ｄ１／３０が優先）",
+      "en": "Roofing elements shaped as plain tiles or shingles, i.e. with flat outer surface(<b>E04D1/28</b>, <b>E04D1/30</b> take precedence)",
+      "count": 1940,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D1/14": {
+      "code": "E04D1/14",
+      "level": 2,
+      "parent": "E04D1/12",
+      "ja": "固定手段を有するかまたは有しない天然スレート材料からなるもの",
+      "en": "of slate material, with or without fastening means",
+      "count": 206,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D1/16": {
+      "code": "E04D1/16",
+      "level": 2,
+      "parent": "E04D1/12",
+      "ja": "補強材を有するかまたは有しないセラミック，ガラスまたはコンクリートからなるもの",
+      "en": "of ceramics, glass or concrete, with or without reinforcement",
+      "count": 1242,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D1/18": {
+      "code": "E04D1/18",
+      "level": 2,
+      "parent": "E04D1/12",
+      "ja": "金属からなるもの",
+      "en": "of metal",
+      "count": 1032,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D1/20": {
+      "code": "E04D1/20",
+      "level": 2,
+      "parent": "E04D1/12",
+      "ja": "プラスチック，繊維質材料または木材からなるもの",
+      "en": "of plastics, fibrous materials, or wood",
+      "count": 812,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D1/22": {
+      "code": "E04D1/22",
+      "level": 2,
+      "parent": "E04D1/12",
+      "ja": "グループＥ０４Ｄ１／１４～Ｅ０４Ｄ１／２０のいずれにも属しない特定の材料からなるもの，または材料の組み合わせからなるもの",
+      "en": "of specified materials, or of combinations of materials, not covered by any one of groups <b>E04D1/14 to E04D1/20</b> ",
+      "count": 781,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D1/24": {
+      "code": "E04D1/24",
+      "level": 1,
+      "parent": "E04D1/00",
+      "ja": "空所を有する屋根ふき要素，例．中空瓦（Ｅ０４Ｄ１／２８が優先）",
+      "en": "Roofing elements with cavities, e.g. hollow tiles(<b>E04D1/28</b> takes precedence)",
+      "count": 562,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D1/26": {
+      "code": "E04D1/26",
+      "level": 1,
+      "parent": "E04D1/00",
+      "ja": "シングルのように見える帯状屋根ふき要素",
+      "en": "Strip-shaped roofing elements appearing as a row of shingles",
+      "count": 1297,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D1/28": {
+      "code": "E04D1/28",
+      "level": 1,
+      "parent": "E04D1/00",
+      "ja": "二層またはそれ以上の層からなる屋根ふき要素，例．絶縁用のもの",
+      "en": "Roofing elements comprising two or more layers, e.g. for insulation",
+      "count": 3000,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D1/30": {
+      "code": "E04D1/30",
+      "level": 1,
+      "parent": "E04D1/00",
+      "ja": "特別の屋根ふき要素，例．？棟瓦，？樋瓦，？破風瓦，？換気瓦（Ｅ０４Ｄ３／４０が優先；エネルギー収集装置に関する屋根ふきＥ０４Ｄ１３／１８）",
+      "en": "Special roof-covering elements, e.g. ridge tiles, gutter tiles, gable tiles, ventilation tiles(<b>E04D3/40</b> takes precedence; roof covering aspects of energy collecting devices <b>E04D13/18</b>)",
+      "count": 6484,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D1/34": {
+      "code": "E04D1/34",
+      "level": 1,
+      "parent": "E04D1/00",
+      "ja": "支持要素に屋根ふき要素を取り付けるための固定具",
+      "en": "Fastenings for attaching roof-covering elements to the supporting elements",
+      "count": 5250,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D1/36": {
+      "code": "E04D1/36",
+      "level": 1,
+      "parent": "E04D1/00",
+      "ja": "屋根ふき要素間の間げきまたは継ぎ目の密封装置（屋根ふき要素に限定されない密封継ぎ手Ｅ０４Ｂ１／６８）",
+      "en": "Devices for sealing the spaces or joints between roof-covering elements(sealing joints not restricted to roof covering elements <b>E04B1/68</b>)",
+      "count": 2017,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D3/00": {
+      "code": "E04D3/00",
+      "level": 0,
+      "parent": "E04D",
+      "ja": "平らなあるいは曲った板（スラブ）または硬いシートを利用する屋根ふき（Ｅ０４Ｄ１／００が優先；多層防水屋根Ｅ０４Ｄ１１／０２）",
+      "en": "Roof covering by making use of flat or curved slabs or stiff sheets(<b>E04D1/00</b> takes precedence; built-up roofs <b>E04D11/02</b>)",
+      "count": 2481,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D3/02": {
+      "code": "E04D3/02",
+      "level": 1,
+      "parent": "E04D3/00",
+      "ja": "平らな板（スラブ），スレートまたはシート，または横断面に特徴のないものからなるもの（Ｅ０４Ｄ３／３５が優先）",
+      "en": "of plane slabs, slates, or sheets, or in which the cross-section is unimportant(<b>E04D3/35</b> takes precedence)",
+      "count": 362,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D3/04": {
+      "code": "E04D3/04",
+      "level": 2,
+      "parent": "E04D3/02",
+      "ja": "コンクリートまたはセラミックからなるもの（石綿セメントからなるものＥ０４Ｄ３／１８）",
+      "en": "of concrete or ceramics(of asbestos cement <b>E04D3/18</b>)",
+      "count": 265,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D3/06": {
+      "code": "E04D3/06",
+      "level": 2,
+      "parent": "E04D3/02",
+      "ja": "ガラスまたはその他の透光性を有する材料からなるもの；そのための固定手段（建具工事による窓ガラスの固定Ｅ０６Ｂ３／５４）",
+      "en": "of glass or other translucent material; Fixing means therefor(fixing glass panes by means applicable to windows <b>E06B3/54</b>)",
+      "count": 2030,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D3/08": {
+      "code": "E04D3/08",
+      "level": 3,
+      "parent": "E04D3/06",
+      "ja": "金属製グレージング桟（さん）を有するもの",
+      "en": "with metal glazing bars",
+      "count": 2871,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D3/14": {
+      "code": "E04D3/14",
+      "level": 3,
+      "parent": "E04D3/06",
+      "ja": "その他の材料，例．ガラスによるグレージング桟を有するもの",
+      "en": "with glazing bars of other material, e.g. of glass",
+      "count": 318,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D3/16": {
+      "code": "E04D3/16",
+      "level": 2,
+      "parent": "E04D3/02",
+      "ja": "金属からなるもの",
+      "en": "of metal",
+      "count": 839,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D3/18": {
+      "code": "E04D3/18",
+      "level": 2,
+      "parent": "E04D3/02",
+      "ja": "グループＥ０４Ｄ３／０４，Ｅ０４Ｄ３／０６またはＥ０４Ｄ３／１６のいずれにも属しない特定の材料からなるものまたは材料の組み合わせからなるもの",
+      "en": "of specified materials, or of combinations of materials, not covered by any of groups <b>E04D3/04</b>, <b>E04D3/06</b> or <b>E04D3/16</b>",
+      "count": 422,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D3/24": {
+      "code": "E04D3/24",
+      "level": 1,
+      "parent": "E04D3/00",
+      "ja": "特別な横断面を有するもの，例．両側に波形を有するもの，リブ，フランジまたはその類似物を有するもの（Ｅ０４Ｄ３／３５が優先）",
+      "en": "with special cross-section, e.g. with corrugations on both sides, with ribs, flanges, or the like(<b>E04D3/35</b> takes precedence)",
+      "count": 1411,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D3/26": {
+      "code": "E04D3/26",
+      "level": 2,
+      "parent": "E04D3/24",
+      "ja": "コンクリートまたはセラミックからなるもの",
+      "en": "of concrete or ceramics",
+      "count": 293,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D3/28": {
+      "code": "E04D3/28",
+      "level": 2,
+      "parent": "E04D3/24",
+      "ja": "ガラスからなるもの",
+      "en": "of glass",
+      "count": 528,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D3/30": {
+      "code": "E04D3/30",
+      "level": 2,
+      "parent": "E04D3/24",
+      "ja": "金属からなるもの",
+      "en": "of metal",
+      "count": 3571,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D3/32": {
+      "code": "E04D3/32",
+      "level": 2,
+      "parent": "E04D3/24",
+      "ja": "プラスチック材料，繊維質材料または石綿セメントからなるもの",
+      "en": "of plastics, fibrous materials, or asbestos cement",
+      "count": 1095,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D3/34": {
+      "code": "E04D3/34",
+      "level": 2,
+      "parent": "E04D3/24",
+      "ja": "グループＥ０４Ｄ３／２６～Ｅ０４Ｄ３／３２のいずれにも属しない特定の材料からなるものまたは材料の組み合わせからなるもの",
+      "en": "of specified materials, or of combinations of materials, not covered by any one of groups <b>E04D3/26 to E04D3/32</b> ",
+      "count": 340,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D3/35": {
+      "code": "E04D3/35",
+      "level": 1,
+      "parent": "E04D3/00",
+      "ja": "二以上の層からなる屋根ふき用のスラブまたは硬いシート",
+      "en": "Roofing slabs or stiff sheets comprising two or more layers, e.g. for insulation",
+      "count": 7863,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D3/36": {
+      "code": "E04D3/36",
+      "level": 1,
+      "parent": "E04D3/00",
+      "ja": "連結；固定<br><br><b><ul>注</ul></b><br>グループ３／３６１から３／３６８においては，付加的な小さい固定要素，例．くぎ，ねじは別体の結合要素とは考えない。",
+      "en": "Connecting; Fastening",
+      "count": 9385,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D3/361": {
+      "code": "E04D3/361",
+      "level": 2,
+      "parent": "E04D3/36",
+      "ja": "板（スラブ）またはシートの特別に形づくられた側縁部分によるもの",
+      "en": "by specially-profiled marginal portions of the slabs or sheets",
+      "count": 1187,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D3/362": {
+      "code": "E04D3/362",
+      "level": 3,
+      "parent": "E04D3/361",
+      "ja": "隣接したスラブまたはシートの形づくられた側縁部分内に１つのスラブまたはシートの端部を固定するもの，例．別体の結合要素を使用するもの",
+      "en": "by locking the edge of one slab or sheet within the profiled marginal portion of the adjacent slab or sheet, e.g. using separate connecting elements",
+      "count": 4056,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D3/363": {
+      "code": "E04D3/363",
+      "level": 3,
+      "parent": "E04D3/361",
+      "ja": "スナップ作動によるもの［４］",
+      "en": "with snap action",
+      "count": 966,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D3/3645": {
+      "code": "E04D3/3645",
+      "level": 3,
+      "parent": "E04D3/361",
+      "ja": "締まりばめによるもの［４］",
+      "en": "by interference fitting",
+      "count": 46,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D3/365": {
+      "code": "E04D3/365",
+      "level": 2,
+      "parent": "E04D3/36",
+      "ja": "別体の結合要素，例．波板用の鋲またはボルトを使用する側縁部分の単なる重ね合わせによるもの",
+      "en": "by simple overlapping of the marginal portions with use of separate connecting elements, e.g. hooks or bolts for corrugated sheets",
+      "count": 2230,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D3/366": {
+      "code": "E04D3/366",
+      "level": 2,
+      "parent": "E04D3/36",
+      "ja": "樋，胴，または添え板要素，例．帯状片，により板（スラブ）またはシート間の間げきを閉鎖するもの",
+      "en": "by closing the space between the slabs or sheets by gutters, bulges, or bridging elements, e.g. strips",
+      "count": 3250,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D3/367": {
+      "code": "E04D3/367",
+      "level": 2,
+      "parent": "E04D3/36",
+      "ja": "隣接するスラブまたはシートの側縁部分の永久的変形によるもの，例．端部の折りたたみによるもの［４］",
+      "en": "by permanent deformation of the marginal portions of adjacent slabs or sheets, e.g. by folding the edges",
+      "count": 720,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D3/368": {
+      "code": "E04D3/368",
+      "level": 2,
+      "parent": "E04D3/36",
+      "ja": "隣接するスラブまたはシートの側縁部分の強制的な接合によるもの",
+      "en": "by forcing together the marginal portions of adjacent slabs or sheets",
+      "count": 365,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D3/369": {
+      "code": "E04D3/369",
+      "level": 2,
+      "parent": "E04D3/36",
+      "ja": "隣接する板（スラブ）またはシートの側縁部分の溶接によるもの",
+      "en": "by welding of the marginal portions of adjacent slabs or sheets",
+      "count": 361,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D3/38": {
+      "code": "E04D3/38",
+      "level": 1,
+      "parent": "E04D3/00",
+      "ja": "屋根ふき要素間の間げきまたは継ぎ目の密封装置（Ｅ０４Ｄ３／３６が優先，屋根ふき要素に限定されない密封継ぎ手Ｅ０４Ｂ１／６８）",
+      "en": "Devices for sealing spaces or joints between roof-covering elements(<b>E04D3/36</b> takes precedence; sealing joints not restricted to roof covering elements <b>E04B1/68</b>)",
+      "count": 3098,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D3/40": {
+      "code": "E04D3/40",
+      "level": 1,
+      "parent": "E04D3/00",
+      "ja": "補助的な目的のため，例．壁に取り付けるため，樋として使用するため，に部分的に変形されるスラブまたはシート；スラブまたはシートと共に用いるように特に設計された，特別の目的のための要素，例．棟要素（エネルギー収集装置に関連する屋根ふきＥ０４Ｄ１３／１８）",
+      "en": "Slabs or sheets locally modified for auxiliary purposes, e.g. for resting on walls, for serving as guttering; Elements for particular purposes, e.g. ridge elements, specially designed for use in conjunction with slabs or sheets(roof covering aspects of energy collecting devices <b>E04D13/18</b>)",
+      "count": 5716,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D5/00": {
+      "code": "E04D5/00",
+      "level": 0,
+      "parent": "E04D",
+      "ja": "可とう性材料を利用する屋根ふき，例．ロール形で供給されるもの（硬質シートを使用するものＥ０４Ｄ３／００；陸屋根の砂利敷きＥ０４Ｄ７／００；多層防水屋根Ｅ０４Ｄ１１／０２）<br><br><b><ul>注</ul></b><br>グループ５／１２はグループ５／０２から５／０８に優先する。",
+      "en": "Roof covering by making use of flexible material, e.g. supplied in roll form(using stiff sheets <b>E04D3/00</b>; gravelling of flat roofs <b>E04D7/00</b>; built-up roofs <b>E04D11/02</b>)",
+      "count": 1377,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D5/02": {
+      "code": "E04D5/02",
+      "level": 1,
+      "parent": "E04D5/00",
+      "ja": "密封物質を浸透させた材料からなるもの，例．屋根ふき用フェルト",
+      "en": "of materials impregnated with sealing substances, e.g. roofing felt",
+      "count": 733,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D5/04": {
+      "code": "E04D5/04",
+      "level": 1,
+      "parent": "E04D5/00",
+      "ja": "金属箔を利用するもの",
+      "en": "by making use of metal foils",
+      "count": 120,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D5/06": {
+      "code": "E04D5/06",
+      "level": 1,
+      "parent": "E04D5/00",
+      "ja": "プラスチックを利用するもの",
+      "en": "by making use of plastics",
+      "count": 878,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D5/08": {
+      "code": "E04D5/08",
+      "level": 1,
+      "parent": "E04D5/00",
+      "ja": "その他の材料を利用するもの",
+      "en": "by making use of other materials",
+      "count": 162,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D5/10": {
+      "code": "E04D5/10",
+      "level": 1,
+      "parent": "E04D5/00",
+      "ja": "組成物あるいは積層材料，例．歴青物を塗布した金属箔あるいはプラスチックフィルムを利用するもの（Ｅ０４Ｄ５／１２が優先）",
+      "en": "by making use of compounded or laminated materials, e.g. metal foils or plastic films coated with bitumen(<b>E04D5/12</b> takes precedence)",
+      "count": 5840,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D5/12": {
+      "code": "E04D5/12",
+      "level": 1,
+      "parent": "E04D5/00",
+      "ja": "特に部分的な変形がなされているもの，例．孔があけられているもの，ザラザラな表面を有するもの，充てん物を有するもの",
+      "en": "specially modified, e.g. perforated, with granulated surface, with attached pads",
+      "count": 1170,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D5/14": {
+      "code": "E04D5/14",
+      "level": 1,
+      "parent": "E04D5/00",
+      "ja": "そのための固定手段",
+      "en": "Fastening means therefor",
+      "count": 3049,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D7/00": {
+      "code": "E04D7/00",
+      "level": 0,
+      "parent": "E04D",
+      "ja": "現場で用いられる密封用塊状物による屋根ふき；陸屋根の砂利敷き",
+      "en": "Roof covering by sealing masses applied <u>in situ</u>; Gravelling of flat roofs",
+      "count": 1901,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D9/00": {
+      "code": "E04D9/00",
+      "level": 0,
+      "parent": "E04D",
+      "ja": "わら，かやあるいはそれらの類似材料を使用する屋根ふき（放火による被害の防止のための含浸処理Ｂ２７Ｋ）",
+      "en": "Roof covering by using straw, thatch, or like materials(impregnation against incendiary damage <b>B27K</b>)",
+      "count": 347,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D11/00": {
+      "code": "E04D11/00",
+      "level": 0,
+      "parent": "E04D",
+      "ja": "グループＥ０４Ｄ１／００～Ｅ０４Ｄ９／００のうちのいずれの一つにも限定されない屋根ふき；グループＥ０４Ｄ１／００～Ｅ０４Ｄ９／００の中のいずれにも属しない方法による屋根ふき",
+      "en": "Roof covering, as far as not restricted to features covered by only one of groups <b>E04D1/00 to E04D9/00</b> ; Roof covering in ways not provided for by groups <b>E04D1/00 to E04D9/00</b> ",
+      "count": 5138,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D11/02": {
+      "code": "E04D11/02",
+      "level": 1,
+      "parent": "E04D11/00",
+      "ja": "多層防水屋根，すなわち現場で接着される２以上の層からなるもので，少なくともその中の一層は止水性組成物であるもの（陸屋根の砂利敷きＥ０４Ｄ７／００；通気または換気Ｅ０４Ｄ１３／１７）",
+      "en": "Built-up roofs, i.e. consisting of two or more layers bonded together <u>in situ</u>, at least one of the layers being of watertight composition(gravelling of flat roofs <b>E04D7/00</b>; venting or ventilation <b>E04D13/17</b>)",
+      "count": 8020,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D12/00": {
+      "code": "E04D12/00",
+      "level": 0,
+      "parent": "E04D",
+      "ja": "屋根ふき材料用の構造材とならない支持材，例．桟，板（Ｅ０４Ｄ１１／０２が優先）",
+      "en": "Non-structural supports for roofing materials, e.g. battens, boards(<b>E04D11/02</b> takes precedence)",
+      "count": 5061,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D13/00": {
+      "code": "E04D13/00",
+      "level": 0,
+      "parent": "E04D",
+      "ja": "屋根ふきと関連する特殊装置または器具；屋根排水（換気がわらＥ０４Ｄ１／３０；換気スラブＥ０４Ｄ３／４０；内部のみぞＥ０４Ｆ１７／００）［２００６．０１］",
+      "en": "Special arrangements or devices in connection with roof coverings; Roof drainage(ventilation tiles <b>E04D1/30</b>; ventilation slabs <b>E04D3/40</b>; internal channels <b>E04F17/00</b>)",
+      "count": 15543,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D13/02": {
+      "code": "E04D13/02",
+      "level": 1,
+      "parent": "E04D13/00",
+      "ja": "屋根窓の屋根ふき（Ｅ０４Ｄ１３／１４が優先；そのための構造Ｅ０４Ｂ７／１８）",
+      "en": "Roof-covering aspects of dormer windows(<b>E04D13/14</b> takes precedence; structures therefor <b>E04B7/18</b>)",
+      "count": 274,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D13/03": {
+      "code": "E04D13/03",
+      "level": 1,
+      "parent": "E04D13/00",
+      "ja": "天窓；ドーム；換気天窓（Ｅ０４Ｄ１３／１４が優先；そのための構造Ｅ０４Ｂ７／１８）",
+      "en": "Sky-lights; Domes; Ventilating sky-lights(<b>E04D13/14</b> takes precedence; structures therefor <b>E04B7/18</b>)",
+      "count": 7940,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D13/035": {
+      "code": "E04D13/035",
+      "level": 2,
+      "parent": "E04D13/03",
+      "ja": "可動部分をもつことに特徴のあるもの",
+      "en": "characterised by having movable parts",
+      "count": 5151,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D13/04": {
+      "code": "E04D13/04",
+      "level": 1,
+      "parent": "E04D13/00",
+      "ja": "屋根排水；陸屋根における排水付属具（樋瓦Ｅ０４Ｄ１／３０；樋板（スラブ）Ｅ０４Ｄ３／４０；街路排水溝（こう）Ｅ０３Ｆ５／０４）",
+      "en": "Roof drainage; Drainage fittings in flat roofs(gutter tiles <b>E04D1/30</b>; gutter slabs <b>E04D3/40</b>; street gullies <b>E03F5/04</b>)",
+      "count": 18223,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D13/064": {
+      "code": "E04D13/064",
+      "level": 2,
+      "parent": "E04D13/04",
+      "ja": "樋［６］",
+      "en": "Gutters",
+      "count": 12962,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D13/068": {
+      "code": "E04D13/068",
+      "level": 3,
+      "parent": "E04D13/064",
+      "ja": "樋の部材を互いに接続する手段［６］",
+      "en": "Means for fastening gutter parts together",
+      "count": 4447,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D13/072": {
+      "code": "E04D13/072",
+      "level": 3,
+      "parent": "E04D13/064",
+      "ja": "掛ける手段（樋の部材を互いに接続する手段との組合せＥ０４Ｄ１３／０６８）［６］",
+      "en": "Hanging means(in combination with means for fastening gutter parts together <b>E04D13/068</b>)",
+      "count": 5443,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D13/076": {
+      "code": "E04D13/076",
+      "level": 2,
+      "parent": "E04D13/04",
+      "ja": "樋から雪，氷または残がいを除去するまたはそれらの集積を防ぐための器具または装置［６］",
+      "en": "Devices or arrangements for removing snow, ice or debris from gutters or for preventing accumulation thereof",
+      "count": 3422,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D13/08": {
+      "code": "E04D13/08",
+      "level": 2,
+      "parent": "E04D13/04",
+      "ja": "竪樋；そのための特殊な締め付け手段（管の締め付け一般Ｆ１６Ｂ，Ｆ１６Ｌ）",
+      "en": "Down pipes; Special clamping means therefor(clamping pipes in general <b>F16B</b>, <b>F16L</b>)",
+      "count": 11732,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D13/10": {
+      "code": "E04D13/10",
+      "level": 1,
+      "parent": "E04D13/00",
+      "ja": "雪止め",
+      "en": "Snow traps",
+      "count": 4425,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D13/12": {
+      "code": "E04D13/12",
+      "level": 1,
+      "parent": "E04D13/00",
+      "ja": "屋根の上のまたは樋における歩行を可能にする装置または器具",
+      "en": "Devices or arrangements allowing walking on the roof or in the gutter",
+      "count": 1125,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D13/14": {
+      "code": "E04D13/14",
+      "level": 1,
+      "parent": "E04D13/00",
+      "ja": "煙突または屋根上に延長する他の部分と屋根の被覆地との結合",
+      "en": "Junctions of roof sheathings to chimneys or other parts extending above the roof",
+      "count": 4166,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D13/143": {
+      "code": "E04D13/143",
+      "level": 2,
+      "parent": "E04D13/14",
+      "ja": "換気手段を有するもの［６］",
+      "en": "with ventilating means",
+      "count": 839,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D13/147": {
+      "code": "E04D13/147",
+      "level": 2,
+      "parent": "E04D13/14",
+      "ja": "傾斜屋根に特に適合するもの［６］",
+      "en": "specially adapted for inclined roofs",
+      "count": 1422,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D13/15": {
+      "code": "E04D13/15",
+      "level": 1,
+      "parent": "E04D13/00",
+      "ja": "仕上げ片；縁片；鼻かくし（Ｅ０４Ｄ１３／１４が優先）［６］",
+      "en": "Trimming strips; Edge strips; Fascias(<b>E04D13/14</b> takes precedence)",
+      "count": 5767,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D13/152": {
+      "code": "E04D13/152",
+      "level": 2,
+      "parent": "E04D13/15",
+      "ja": "換気手段を有するもの［６］",
+      "en": "with ventilating means",
+      "count": 561,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D13/155": {
+      "code": "E04D13/155",
+      "level": 2,
+      "parent": "E04D13/15",
+      "ja": "屋根の被覆地を保持するもの［６］",
+      "en": "retaining the roof sheathing",
+      "count": 535,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D13/158": {
+      "code": "E04D13/158",
+      "level": 2,
+      "parent": "E04D13/15",
+      "ja": "軒の張出しを覆うもの，例．ソフィット，または切妻屋根のけらば［６］",
+      "en": "covering the overhang at the eave side, e.g. soffits, or the verge of saddle roofs",
+      "count": 3422,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D13/16": {
+      "code": "E04D13/16",
+      "level": 1,
+      "parent": "E04D13/00",
+      "ja": "屋根ふきに関連したものに限られる絶縁物または換気装置または器具（建築構造物を乾燥状態に保つための手段一般Ｅ０４Ｂ１／７０；極端な気候に対する建築物Ｅ０４Ｈ９／１６）［６］",
+      "en": "Insulating devices or arrangements in so far as the roof covering is concerned(methods for keeping dry building structures in general <b>E04B1/70</b>; buildings for extreme climates <b>E04H9/16</b>)",
+      "count": 16821,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D13/17": {
+      "code": "E04D13/17",
+      "level": 1,
+      "parent": "E04D13/00",
+      "ja": "他に分類されない屋根ふきの換気（部屋または空間の換気Ｆ２４Ｆ）［６］",
+      "en": "Ventilation of roof coverings not otherwise provided for(ventilation of rooms or spaces <b>F24F</b>)",
+      "count": 4088,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D13/18": {
+      "code": "E04D13/18",
+      "level": 1,
+      "parent": "E04D13/00",
+      "ja": "エネルギー収集装置における屋根ふきの観点，例．ソーラーパネルを含むもの（屋根構造に一体化される太陽熱集熱器Ｆ２４Ｓ２０／６７）［２０１８．０１］",
+      "en": "Roof covering aspects of energy collecting devices, e.g. including solar panels  (solar heat collectors integrated in roof constructions <b>F24S20/67</b>)",
+      "count": 21614,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D15/00": {
+      "code": "E04D15/00",
+      "level": 0,
+      "parent": "E04D",
+      "ja": "屋根作業のための装置または道具",
+      "en": "Apparatus or tools for roof working",
+      "count": 3645,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D15/02": {
+      "code": "E04D15/02",
+      "level": 1,
+      "parent": "E04D15/00",
+      "ja": "かわら，こけらまたは類似の屋根要素よりなる屋根ふきのためのもの",
+      "en": "for roof coverings comprising tiles, shingles, or like roofing elements",
+      "count": 1064,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D15/04": {
+      "code": "E04D15/04",
+      "level": 1,
+      "parent": "E04D15/00",
+      "ja": "板（スラブ），シートまたは可とう性材料よりなる屋根ふきのためのもの",
+      "en": "for roof coverings comprising slabs, sheets or flexible material",
+      "count": 1996,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D15/06": {
+      "code": "E04D15/06",
+      "level": 1,
+      "parent": "E04D15/00",
+      "ja": "ロール形の屋根ふきまたは密封材料を取り扱うためのもの",
+      "en": "for handling roofing or sealing material in roll form",
+      "count": 2935,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    },
+    "E04D15/07": {
+      "code": "E04D15/07",
+      "level": 1,
+      "parent": "E04D15/00",
+      "ja": "大形の屋根ふきまたは密封材料を取り扱うためのもの",
+      "en": "for handling roofing or sealing material in bulk form",
+      "count": 806,
+      "sourceFile": "ipc_E04D.txt",
+      "kind": "ipc"
+    }
+  }
+};

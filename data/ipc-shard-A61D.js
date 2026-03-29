@@ -1,0 +1,266 @@
+window.IPC_SHARD_A61D = {
+  "generatedAt": "2026-03-20T02:17:45.940Z",
+  "total": 26,
+  "entries": {
+    "A61D": {
+      "code": "A61D",
+      "level": 0,
+      "parent": "A61",
+      "ja": "獣医用器具，器械，器具または用法<br><br><b><ul>注</ul></b><br>このサブクラスは動物用医科具，器具，器械またはその用法のみを包含する。<br><br><b><ul>サブクラス内の索引</ul></b><br>外科および歯科処理　１／００，５／００<br>動物の管理　７／００～１３／００<br>拘束用具，開口用保定具　３／００，１５／００<br>使役中の事故表示具　１７／００<br>繁殖または受精のための器具または用法　１９／００<br>このサブクラスの他のグループに分類されない主題事項　９９／００",
+      "en": "VETERINARY INSTRUMENTS, IMPLEMENTS, TOOLS, OR METHODS; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This subclass <u>covers</u> only instruments, implements, tools, or methods specially adapted for use with animals.</li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">SURGERY AND DENTAL TREATMENT </td><td><b><b>1/00</b>, <b>5/00</b></b></td></tr></tr><tr><td width=\"70%\">CARE OF ANIMALS </td><td><b><b>7/00 to 13/00</b> </b></td></tr></tr><tr><td width=\"70%\">IMPLEMENTS FOR RESTRAINING, FOR MOUTH-OPENING </td><td><b><b>3/00</b>, <b>15/00</b></b></td></tr></tr><tr><td width=\"70%\">DEVICES FOR INDICATING TROUBLE DURING LABOUR </td><td><b><b>17/00</b></b></td></tr></tr><tr><td width=\"70%\">INSTRUMENTS OR METHODS FOR REPRODUCTION OR FERTILISATION </td><td><b><b>19/00</b></b></td></tr></tr><tr><td width=\"70%\">SUBJECT MATTER NOT PROVIDED FOR IN OTHER GROUPS OF THIS SUBCLASS </td><td><b><b>99/00</b></b></td></tr></tr></table>",
+      "count": 432,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A61": {
+      "code": "A61",
+      "level": 0,
+      "parent": "A",
+      "ja": "医学または獣医学；衛生学",
+      "en": "MEDICAL OR VETERINARY SCIENCE; HYGIENE",
+      "count": 0,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A": {
+      "code": "A",
+      "level": 0,
+      "parent": null,
+      "ja": "生活必需品",
+      "en": "HUMAN NECESSITIES",
+      "count": 0,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A61D1/00": {
+      "code": "A61D1/00",
+      "level": 0,
+      "parent": "A61D",
+      "ja": "獣医用の外科器具",
+      "en": "Surgical instruments for veterinary use",
+      "count": 5859,
+      "sourceFile": "ipc_A61D.txt",
+      "kind": "ipc"
+    },
+    "A61D1/02": {
+      "code": "A61D1/02",
+      "level": 1,
+      "parent": "A61D1/00",
+      "ja": "乳頭用套管針または管針；ワクチン接種用器具",
+      "en": "Trocars or cannulas for teats; Vaccination appliances",
+      "count": 982,
+      "sourceFile": "ipc_A61D.txt",
+      "kind": "ipc"
+    },
+    "A61D1/04": {
+      "code": "A61D1/04",
+      "level": 1,
+      "parent": "A61D1/00",
+      "ja": "尾または耳の除去器具",
+      "en": "Cropping devices for tails or ears",
+      "count": 218,
+      "sourceFile": "ipc_A61D.txt",
+      "kind": "ipc"
+    },
+    "A61D1/06": {
+      "code": "A61D1/06",
+      "level": 1,
+      "parent": "A61D1/00",
+      "ja": "去勢用具",
+      "en": "Castrating appliances",
+      "count": 518,
+      "sourceFile": "ipc_A61D.txt",
+      "kind": "ipc"
+    },
+    "A61D1/08": {
+      "code": "A61D1/08",
+      "level": 1,
+      "parent": "A61D1/00",
+      "ja": "獣医用産科用具（動物の分娩中の事故表示具Ａ６１Ｄ１７／００）",
+      "en": "Veterinary obstetrical instruments or devices(devices for indicating trouble during labour of animals <b>A61D17/00</b>)",
+      "count": 791,
+      "sourceFile": "ipc_A61D.txt",
+      "kind": "ipc"
+    },
+    "A61D1/10": {
+      "code": "A61D1/10",
+      "level": 1,
+      "parent": "A61D1/00",
+      "ja": "切胎用器具",
+      "en": "Embryotomic instruments",
+      "count": 115,
+      "sourceFile": "ipc_A61D.txt",
+      "kind": "ipc"
+    },
+    "A61D1/12": {
+      "code": "A61D1/12",
+      "level": 1,
+      "parent": "A61D1/00",
+      "ja": "動物の気管，食道，または胃からの異物取出用具",
+      "en": "Instruments for removing foreign bodies from animals' throats, oesophagus or stomachs",
+      "count": 194,
+      "sourceFile": "ipc_A61D.txt",
+      "kind": "ipc"
+    },
+    "A61D1/14": {
+      "code": "A61D1/14",
+      "level": 1,
+      "parent": "A61D1/00",
+      "ja": "動物の胃のガス排除用具",
+      "en": "Devices for degassing animals' stomachs",
+      "count": 110,
+      "sourceFile": "ipc_A61D.txt",
+      "kind": "ipc"
+    },
+    "A61D1/16": {
+      "code": "A61D1/16",
+      "level": 1,
+      "parent": "A61D1/00",
+      "ja": "胃用磁石（Ａ６１Ｄ１／１２が優先）",
+      "en": "Magnets for the stomach(<b>A61D1/12</b> takes precedence)",
+      "count": 85,
+      "sourceFile": "ipc_A61D.txt",
+      "kind": "ipc"
+    },
+    "A61D3/00": {
+      "code": "A61D3/00",
+      "level": 0,
+      "parent": "A61D",
+      "ja": "獣医用の動物保定具または足枷（かせ）装置［２００６．０１］",
+      "en": "Arrangements for supporting or fettering animals for veterinary purposes",
+      "count": 17657,
+      "sourceFile": "ipc_A61D.txt",
+      "kind": "ipc"
+    },
+    "A61D5/00": {
+      "code": "A61D5/00",
+      "level": 0,
+      "parent": "A61D",
+      "ja": "動物用歯科処置用具",
+      "en": "Instruments for treating animals' teeth",
+      "count": 502,
+      "sourceFile": "ipc_A61D.txt",
+      "kind": "ipc"
+    },
+    "A61D7/00": {
+      "code": "A61D7/00",
+      "level": 0,
+      "parent": "A61D",
+      "ja": "動物体に対し固体状，液体状または気体状の医薬または他の材料を内服または外用させるための器具または方法（繁殖または受精のためのものＡ６１Ｄ１９／００）［５］",
+      "en": "Devices or methods for introducing solid, liquid or gaseous remedies or other materials into or onto the bodies of animals(for reproduction or fertilisation <b>A61D19/00</b>)",
+      "count": 15298,
+      "sourceFile": "ipc_A61D.txt",
+      "kind": "ipc"
+    },
+    "A61D7/04": {
+      "code": "A61D7/04",
+      "level": 1,
+      "parent": "A61D7/00",
+      "ja": "ガスまたは蒸気による動物用麻酔用具；吸入具",
+      "en": "Devices for anaesthetising animals by gases or vapours; Inhaling devices",
+      "count": 1931,
+      "sourceFile": "ipc_A61D.txt",
+      "kind": "ipc"
+    },
+    "A61D9/00": {
+      "code": "A61D9/00",
+      "level": 0,
+      "parent": "A61D",
+      "ja": "獣医用の包帯，巴布，圧定帯",
+      "en": "Bandages, poultices or compresses specially adapted to veterinary purposes",
+      "count": 1152,
+      "sourceFile": "ipc_A61D.txt",
+      "kind": "ipc"
+    },
+    "A61D9/02": {
+      "code": "A61D9/02",
+      "level": 1,
+      "parent": "A61D9/00",
+      "ja": "器官脱出防止用圧定具",
+      "en": "Prolapsus appliances",
+      "count": 59,
+      "sourceFile": "ipc_A61D.txt",
+      "kind": "ipc"
+    },
+    "A61D11/00": {
+      "code": "A61D11/00",
+      "level": 0,
+      "parent": "A61D",
+      "ja": "獣医用の洗浄具またはガス治療槽",
+      "en": "Washing devices or gaseous curative baths specially adapted to veterinary purposes",
+      "count": 1503,
+      "sourceFile": "ipc_A61D.txt",
+      "kind": "ipc"
+    },
+    "A61D13/00": {
+      "code": "A61D13/00",
+      "level": 0,
+      "parent": "A61D",
+      "ja": "獣医用に特に適合する体温計保持具",
+      "en": "Thermometer holders specially adapted to veterinary purposes",
+      "count": 263,
+      "sourceFile": "ipc_A61D.txt",
+      "kind": "ipc"
+    },
+    "A61D15/00": {
+      "code": "A61D15/00",
+      "level": 0,
+      "parent": "A61D",
+      "ja": "開口器",
+      "en": "Mouth openers",
+      "count": 1543,
+      "sourceFile": "ipc_A61D.txt",
+      "kind": "ipc"
+    },
+    "A61D17/00": {
+      "code": "A61D17/00",
+      "level": 0,
+      "parent": "A61D",
+      "ja": "動物の分娩中の事故表示具",
+      "en": "Devices for indicating trouble during labour of animals",
+      "count": 848,
+      "sourceFile": "ipc_A61D.txt",
+      "kind": "ipc"
+    },
+    "A61D19/00": {
+      "code": "A61D19/00",
+      "level": 0,
+      "parent": "A61D",
+      "ja": "繁殖または受精のための器具または用法［５］",
+      "en": "Instruments or methods for reproduction or fertilisation",
+      "count": 1327,
+      "sourceFile": "ipc_A61D.txt",
+      "kind": "ipc"
+    },
+    "A61D19/02": {
+      "code": "A61D19/02",
+      "level": 1,
+      "parent": "A61D19/00",
+      "ja": "人工受精のためのもの［５］",
+      "en": "for artificial insemination",
+      "count": 3656,
+      "sourceFile": "ipc_A61D.txt",
+      "kind": "ipc"
+    },
+    "A61D19/04": {
+      "code": "A61D19/04",
+      "level": 1,
+      "parent": "A61D19/00",
+      "ja": "受精卵移植のためのもの［５］",
+      "en": "for embryo transplantation",
+      "count": 903,
+      "sourceFile": "ipc_A61D.txt",
+      "kind": "ipc"
+    },
+    "A61D99/00": {
+      "code": "A61D99/00",
+      "level": 0,
+      "parent": "A61D",
+      "ja": "このサブクラスの他のグループに分類されない主題事項［８］",
+      "en": "Subject matter not provided for in other groups of this subclass",
+      "count": 1192,
+      "sourceFile": "ipc_A61D.txt",
+      "kind": "ipc"
+    }
+  }
+};

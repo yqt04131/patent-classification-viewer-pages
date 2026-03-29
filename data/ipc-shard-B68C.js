@@ -1,0 +1,176 @@
+window.IPC_SHARD_B68C = {
+  "generatedAt": "2026-03-20T02:17:46.301Z",
+  "total": 17,
+  "entries": {
+    "B68C": {
+      "code": "B68C",
+      "level": 0,
+      "parent": "B68",
+      "ja": "くら；あぶみ",
+      "en": "SADDLES; STIRRUPS",
+      "count": 46,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B68": {
+      "code": "B68",
+      "level": 0,
+      "parent": "B",
+      "ja": "馬具；詰め物，かわ張りされた物品",
+      "en": "SADDLERY; UPHOLSTERY",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B": {
+      "code": "B",
+      "level": 0,
+      "parent": null,
+      "ja": "処理操作；運輸",
+      "en": "PERFORMING OPERATIONS; TRANSPORTING",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B68C1/00": {
+      "code": "B68C1/00",
+      "level": 0,
+      "parent": "B68C",
+      "ja": "乗用獣または荷駄獣のためのくらを置く装備",
+      "en": "Saddling equipment for riding- or pack-animals",
+      "count": 489,
+      "sourceFile": "ipc_B68C.txt",
+      "kind": "ipc"
+    },
+    "B68C1/02": {
+      "code": "B68C1/02",
+      "level": 1,
+      "parent": "B68C1/00",
+      "ja": "くら",
+      "en": "Saddles",
+      "count": 811,
+      "sourceFile": "ipc_B68C.txt",
+      "kind": "ipc"
+    },
+    "B68C1/04": {
+      "code": "B68C1/04",
+      "level": 2,
+      "parent": "B68C1/02",
+      "ja": "調節できるくら",
+      "en": "Adjustable saddles",
+      "count": 256,
+      "sourceFile": "ipc_B68C.txt",
+      "kind": "ipc"
+    },
+    "B68C1/06": {
+      "code": "B68C1/06",
+      "level": 2,
+      "parent": "B68C1/02",
+      "ja": "婦人用くら",
+      "en": "Side saddles",
+      "count": 17,
+      "sourceFile": "ipc_B68C.txt",
+      "kind": "ipc"
+    },
+    "B68C1/08": {
+      "code": "B68C1/08",
+      "level": 2,
+      "parent": "B68C1/02",
+      "ja": "空気入りくら敷きをもつもの",
+      "en": "with pneumatic pads",
+      "count": 71,
+      "sourceFile": "ipc_B68C.txt",
+      "kind": "ipc"
+    },
+    "B68C1/10": {
+      "code": "B68C1/10",
+      "level": 2,
+      "parent": "B68C1/02",
+      "ja": "ばねくら敷きをもつもの",
+      "en": "with spring pads",
+      "count": 62,
+      "sourceFile": "ipc_B68C.txt",
+      "kind": "ipc"
+    },
+    "B68C1/12": {
+      "code": "B68C1/12",
+      "level": 1,
+      "parent": "B68C1/00",
+      "ja": "くらのための底部くら敷き；馬のくらの下に敷くくら敷き",
+      "en": "Bottom pads for saddles; Saddle cloths",
+      "count": 502,
+      "sourceFile": "ipc_B68C.txt",
+      "kind": "ipc"
+    },
+    "B68C1/14": {
+      "code": "B68C1/14",
+      "level": 1,
+      "parent": "B68C1/00",
+      "ja": "くらのためのベルトまたは帯；それのためのしっかり締めるもの",
+      "en": "Belts or straps for saddles; Tighteners therefor",
+      "count": 316,
+      "sourceFile": "ipc_B68C.txt",
+      "kind": "ipc"
+    },
+    "B68C1/16": {
+      "code": "B68C1/16",
+      "level": 1,
+      "parent": "B68C1/00",
+      "ja": "くらにあぶみを固定するもの；あぶみ革（あぶみＢ６８Ｃ３／００）",
+      "en": "Fastening stirrups to saddles; Stirrup-leathers(stirrups <b>B68C3/00</b>)",
+      "count": 208,
+      "sourceFile": "ipc_B68C.txt",
+      "kind": "ipc"
+    },
+    "B68C1/18": {
+      "code": "B68C1/18",
+      "level": 2,
+      "parent": "B68C1/16",
+      "ja": "あぶみとくらの間の連結を解くための安全装備をもつもの，例．乗る人の落下の場合における",
+      "en": "with safety arrangements for loosening the connection between stirrup and saddle, e.g. in case of rider's fall",
+      "count": 60,
+      "sourceFile": "ipc_B68C.txt",
+      "kind": "ipc"
+    },
+    "B68C1/20": {
+      "code": "B68C1/20",
+      "level": 1,
+      "parent": "B68C1/00",
+      "ja": "くらに取りつけられたまたは取りつけることのできるポケット，入れ物，または他の支持装置，例．腕を挿入するためのもの",
+      "en": "Pockets, receptacles, or other supporting devices attached or attachable to saddle, e.g. for insertion of arms",
+      "count": 100,
+      "sourceFile": "ipc_B68C.txt",
+      "kind": "ipc"
+    },
+    "B68C3/00": {
+      "code": "B68C3/00",
+      "level": 0,
+      "parent": "B68C",
+      "ja": "あぶみ",
+      "en": "Stirrups",
+      "count": 468,
+      "sourceFile": "ipc_B68C.txt",
+      "kind": "ipc"
+    },
+    "B68C3/02": {
+      "code": "B68C3/02",
+      "level": 1,
+      "parent": "B68C3/00",
+      "ja": "あぶみの他の部分に可動に，例．枢軸の働きをするように，取りつけられた側部または底板をもつもの",
+      "en": "with side part or sole plate attached to other parts of the stirrup movably, e.g. pivotally",
+      "count": 257,
+      "sourceFile": "ipc_B68C.txt",
+      "kind": "ipc"
+    },
+    "B68C5/00": {
+      "code": "B68C5/00",
+      "level": 0,
+      "parent": "B68C",
+      "ja": "動物が働くときの覆い，例．保護のためのもの",
+      "en": "Covers for animals when working, e.g. for protection",
+      "count": 323,
+      "sourceFile": "ipc_B68C.txt",
+      "kind": "ipc"
+    }
+  }
+};

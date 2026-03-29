@@ -1,0 +1,2006 @@
+{
+  "generatedAt": "2026-03-20T02:17:47.047Z",
+  "total": 200,
+  "entries": {
+    "G03C": {
+      "code": "G03C",
+      "level": 0,
+      "parent": "G03",
+      "ja": "写真用感光材料；写真法，例．映画，Ｘ線写真法，多色写真法または立体写真法；写真の補助処理法（それ自体サブクラスＧ０３Ｂに分類される装置の使用または操作を特徴とする写真法はＧ０３Ｂを参照）<br><br><b><ul>注</ul></b><br>このサブクラスにおいては，下記の用語は以下に示す意味で用いる：<br>―“感光性組成物”は感光性物質，例．ハロゲン化銀，およびもし適用できれば，結合剤または添加剤を包含する<br>―“感光材料”は感光性組成物，例．乳剤，それらの支持体，およびもし適用できれば，補助層を包含する。［５］<br><br><b><ul>サブクラス内の索引</ul></b><br>写真法<br>一般　５／００，１１／００<br>多色写真法　７／００<br>拡散転写法　８／００<br>立体写真法またはその類似方法　９／００<br>感光性組成物と感光材料　１／００<br>包装　３／００",
+      "en": "PHOTOSENSITIVE MATERIALS FOR PHOTOGRAPHIC PURPOSES; PHOTOGRAPHIC PROCESSES, e.g. CINE, X-RAY, COLOUR OR STEREO-PHOTOGRAPHIC PROCESSES; AUXILIARY PROCESSES IN PHOTOGRAPHY(photographic processes characterised by the use or manipulation of apparatus classifiable <u>per se</u> in subclass <b>G03B</b>, <u>see</u><b>G03B</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>In this subclass, the following expressions are used with the meanings indicated:<ul><li>\"photosensitive compositions\" covers photosensitive substances, e.g. silver halides, and, if applicable, binders or additives;</li><li>\"photosensitive materials\" covers the photosensitive compositions, e.g. emulsions, the bases carrying them, and, if applicable, auxiliary layers. </li></ul></li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">PHOTOGRAPHIC PROCESSES<tr><td width=\"70%\">General </td><td><b><b>5/00</b>, <b>11/00</b></b></td></tr></tr><tr><td width=\"70%\">For colour photography </td><td><b><b>7/00</b></b></td></tr></tr><tr><td width=\"70%\">For diffusion transfer processes </td><td><b><b>8/00</b></b></td></tr></tr><tr><td width=\"70%\">For stereo-photography and the like </td><td><b><b>9/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">PHOTOSENSITIVE COMPOSITIONS AND MATERIALS </td><td><b><b>1/00</b></b></td></tr></tr><tr><td width=\"70%\">PACKAGING </td><td><b><b>3/00</b></b></td></tr></tr></table>",
+      "count": 944,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G03": {
+      "code": "G03",
+      "level": 0,
+      "parent": "G",
+      "ja": "写真；映画；光波以外の波を使用する類似技術；電子写真；ホログラフイ［４］<br><br><b><ul>注</ul></b><br>（１）このクラスは走査および電気信号の変換による画像またはパターンの再生を包含しない。それらはサブクラスＨ０４Ｎに包含される。<br>（２）このクラスにおいては，下記の用語は以下に示す意味で用いる：<br>―“記録”という用語は，写真または担体部材に記録される量の像的分布，例．電荷パターン，から構成される画像情報の，写真以外の任意の潜像記憶，直接可視記憶または永久記憶を意味する；<br>―“光学的”という用語は，可視光だけでなく紫外線または赤外線にも適用する。",
+      "en": "PHOTOGRAPHY; CINEMATOGRAPHY; ANALOGOUS TECHNIQUES USING WAVES OTHER THAN OPTICAL WAVES; ELECTROGRAPHY; HOLOGRAPHY; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This class <u>does not cover</u> reproduction of pictures or patterns by scanning and converting into electrical signals, which is covered by subclass <b>H04N</b>.</li><li>In this class, the following terms are used with the meaning indicated: <ul><li>\"records\" means photographs or any other kind of latent, directly-visible or permanent storage of pictorial information, which consist of an imagewise distribution of a quantity, e.g. an electric charge pattern, recorded on a carrier member;</li><li>\"optical\" applies not only to visible light but also to ultraviolet or infrared radiations.</li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G": {
+      "code": "G",
+      "level": 0,
+      "parent": null,
+      "ja": "物理学<br><br><b><ul>注</ul></b><br>１．このセクションにおいては，下記の用語は以下に示す意味で用いる：<br>・“変量”は名詞として，特定の実在物，例．物体，ある量の物質，光ビーム，に関し特定の瞬間に測定することの可能な特性又は特質，例．寸法，温度等の物理的状態，密度又は色等の性質，を意味する。変量が変化すると，その数値的表現は異なる時点で，異なる状態又は個々の状況において異なる値をとることもあり，また，ある状態のもとで又は実用上特定の実在物に関して一定でありうる，例．バーの長さが多くの目的のために一定とみなされる，こともある。<br>２．使用される用語または表現の定義に注意すること。このセクションのいくつかのクラスの注に使用されているものについて，特にクラスＧ０１の“測定”を参照されたい．ＩＰＣ指針パラグラフ１８７の中にあるものについて，“制御”及び“調整”の定義に参照されたい。<br>３．このセクションにおける分類は他のセクションにおいてよりもめんどうな場合があり得る，というのは，その一つは，いろいろな使用分野の差異の判別には構造上の差異又は使用形態上の差異よりも寧ろ使用者の意図における差異の方にかなりの程度影響されてしまうからであり，もう一つは，扱う主題が容易に全体として識別できる“もの”であるよりも，特性又は部品が他の主題のものと共通のものを有しているシステム又は組合わせであることが実際上多いからである。例えば，情報（例．一連の数値）をディスプレイするのは，クラスＧ０９に包含される，教育又は広告のため，クラスＧ０１に包含される，測定の結果が通知されうるため，クラスＧ０８に包含される，遠隔地点に情報を合図するため，又は遠隔地点から合図された情報を提供するためである。目的を記述するために使用する言葉は，当該装置の形態に無関係なこともあり得る特性－例えば，ディスプレイを見る者にとって望ましい効果とか，ディスプレイが遠隔地点から制御されるかどうかという特性－によって決定される。さらに，ある状態，例えば流体圧の変化に応答する装置は，その装置そのものには変更を加えずして，サブクラスＧ０１Ｌに包含される圧力又はＧ０１の他のサブクラスに包含される圧力に関連した他の何らかの状態，例．温度に関してＧ０１Ｋ，についての情報を与えるため，サブクラスＧ０７Ｃに包含される圧力または圧力発生の記録をするため，サブクラスＧ０８Ｂに包含される警報を発するため，又はクラスＧ０５に包含される他の何らかの装置を制御するために用いられることがある。<br>　本分類表は，前述したように，同一の性質のものは同一箇所に分類し得るようにしたものである。従って，技術主題が適切箇所に分類されるためには予めその真正な本質を把握することが特に必要である。",
+      "en": "PHYSICS; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this section, the following term is used with the meaning indicated: <ul><li>\"variable\" as a noun means a feature or property, e.g. a dimension, a physical condition such as temperature, a quality such as density or colour, which, in respect of a particular entity, e.g. an object, a quantity of a substance, a beam of light, and at a particular instant, is capable of being measured; the variable may change, so that its numerical expression may assume different values at different times, in different conditions or in individual cases, but may be constant in respect of a particular entity in certain conditions or for practical purposes, e.g. the length of a bar may be regarded as constant for many purposes.</li></ul></li><li>Attention is drawn to the definitions of terms or expressions used. Some appear in the notes of several of the classes in this section, see in particular the definition of \"measuring\" in class <b>G01</b>. Others appear in paragraph 187 of the Guide to the IPC, see in particular the definitions of \"control\" and \"regulation\".</li><li>Classification in this section may present more difficulty than in other sections, because the distinction between different fields of use rests to a considerable extent on differences in the intention of the user rather than on any constructional differences or differences in the manner of use, and because the subjects dealt with are often in effect systems or combinations, which have features or parts in common, rather than \"things\", which are readily distinguishable as a whole. For example, information, e.g. a set of figures, may be displayed for the purpose of education or advertising covered by class <b>G09</b>, for enabling the result of a measurement to be known covered by class <b>G01</b>, for signalling the information to a distant point or for giving information which has been signalled from a distant point covered by class <b>G08</b>. The words used to describe the purpose depend on features that may be irrelevant to the form of the apparatus concerned, for example, such features as the desired effect on the person who sees the display, or whether the display is controlled from a remote point. Again, a device which responds to some change in a condition, e.g. in the pressure of a fluid, may be used, without modification of the device itself, to give information about the pressure covered by subclass <b>G01L</b> or about some other condition linked to the pressure covered by another subclass of class <b>G01</b>, e.g. <b>G01K</b> for temperature, to make a record of the pressure or of its occurrence covered by subclass <b>G07C</b>, to give an alarm covered by subclass <b>G08B</b>, or to control another apparatus covered by class <b>G05</b>. <ul><li>The classification scheme is intended to enable things of a similar nature, as indicated above, to be classified together. It is therefore particularly necessary for the real nature of any technical subject to be decided before it can be properly classified.</li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G03C1/00": {
+      "code": "G03C1/00",
+      "level": 0,
+      "parent": "G03C",
+      "ja": "感光材料（多色法用感光材料Ｇ０３Ｃ７／００；拡散転写法用感光材料Ｇ０３Ｃ８／００）［５］",
+      "en": "Photosensitive materials(photosensitive materials for multicolour processes <b>G03C7/00</b>; for diffusion transfer processes <b>G03C8/00</b>)",
+      "count": 6599,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/005": {
+      "code": "G03C1/005",
+      "level": 1,
+      "parent": "G03C1/00",
+      "ja": "ハロゲン化銀乳剤；その調製；その物理的処理；添加剤の混入（ドライシルバー方式におけるハロゲン化銀触媒の量Ｇ０３Ｃ１／４９８）［５］",
+      "en": "Silver halide emulsions; Preparation thereof; Physical treatment thereof; Incorporation of additives therein(catalytic amounts of silver halide in dry silver systems <b>G03C1/498</b>)",
+      "count": 2699,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/015": {
+      "code": "G03C1/015",
+      "level": 2,
+      "parent": "G03C1/005",
+      "ja": "乳剤調製のための装置又は方法（塗布，乾燥Ｇ０３Ｃ１／７４）［５］",
+      "en": "Apparatus or processes for the preparation of emulsions(coating, drying <b>G03C1/74</b>)",
+      "count": 2430,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/025": {
+      "code": "G03C1/025",
+      "level": 2,
+      "parent": "G03C1/005",
+      "ja": "乳剤の物理的処理，例．超音波，冷凍，圧力によるもの（塗布，乾燥Ｇ０３Ｃ１／７４）［２００６．０１］",
+      "en": "Physical treatment of emulsions, e.g. by ultrasounds, refrigeration or pressure(coating or drying <b>G03C1/74</b>)",
+      "count": 264,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/035": {
+      "code": "G03C1/035",
+      "level": 2,
+      "parent": "G03C1/005",
+      "ja": "結晶の形又は組成に特徴のあるもの，例．混合粒子［５］",
+      "en": "characterised by the crystal form or composition, e.g. mixed grain",
+      "count": 6426,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/04": {
+      "code": "G03C1/04",
+      "level": 2,
+      "parent": "G03C1/005",
+      "ja": "高分子添加剤を有するもの；層形成物質を有するもの［５］",
+      "en": "with macromolecular additives; with layer-forming substances",
+      "count": 1707,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/043": {
+      "code": "G03C1/043",
+      "level": 3,
+      "parent": "G03C1/04",
+      "ja": "ポリアルキレン酸化物；ポリアルキレン硫化物；ポリアルキレンセレン化物，ポリアルキレンテルル化物［５］",
+      "en": "Polyalkylene oxides; Polyalkylene sulfides; Polyalkylene selenides; Polyalkylene tellurides",
+      "count": 544,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/047": {
+      "code": "G03C1/047",
+      "level": 3,
+      "parent": "G03C1/04",
+      "ja": "蛋白質，例．ゼラチン誘導体；蛋白質の加水分解物又は抽出物［５］",
+      "en": "Proteins, e.g. gelatine derivatives; Hydrolysis or extraction products of proteins",
+      "count": 1230,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/053": {
+      "code": "G03C1/053",
+      "level": 3,
+      "parent": "G03C1/04",
+      "ja": "炭素―炭素不飽和結合を含む反応のみによって得られた重合体，例．ビニル重合体［５］",
+      "en": "Polymers obtained by reactions only involving carbon-to-carbon unsaturated bonds, e.g. vinyl polymers",
+      "count": 1078,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/06": {
+      "code": "G03C1/06",
+      "level": 2,
+      "parent": "G03C1/005",
+      "ja": "非高分子添加剤を有するもの（Ｇ０３Ｃ１／０４が優先）［５］",
+      "en": "with non-macromolecular additives(<b>G03C1/04</b> takes precedence)",
+      "count": 5038,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/07": {
+      "code": "G03C1/07",
+      "level": 3,
+      "parent": "G03C1/06",
+      "ja": "銀塩形成過程で粒子の成長に影響を及ぼす物質［５］",
+      "en": "Substances influencing grain growth during silver salt formation",
+      "count": 708,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/08": {
+      "code": "G03C1/08",
+      "level": 3,
+      "parent": "G03C1/06",
+      "ja": "増感性物質［５］",
+      "en": "Sensitivity-increasing substances",
+      "count": 1258,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/09": {
+      "code": "G03C1/09",
+      "level": 4,
+      "parent": "G03C1/08",
+      "ja": "貴金属類又は水銀；それらの塩又は化合物；硫黄，セレン又はテルル，又はそれらの化合物，例．化学増感用（Ｇ０３Ｃ１／３４，Ｇ０３Ｃ１／３５が優先）［５］",
+      "en": "Noble metals or mercury; Salts or compounds thereof; Sulfur, selenium or tellurium, or compounds thereof, e.g. for chemical sensitising(<b>G03C1/34</b>, <b>G03C1/35</b> take precedence)",
+      "count": 2713,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/10": {
+      "code": "G03C1/10",
+      "level": 4,
+      "parent": "G03C1/08",
+      "ja": "有機物",
+      "en": "Organic substances",
+      "count": 1061,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/12": {
+      "code": "G03C1/12",
+      "level": 5,
+      "parent": "G03C1/10",
+      "ja": "メチン又はポリメチン染料",
+      "en": "Methine or polymethine dyes",
+      "count": 1942,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/14": {
+      "code": "G03C1/14",
+      "level": 6,
+      "parent": "G03C1/12",
+      "ja": "奇数個のＣＨ基をもつもの",
+      "en": "with an odd number of CH groups",
+      "count": 627,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/16": {
+      "code": "G03C1/16",
+      "level": 7,
+      "parent": "G03C1/14",
+      "ja": "ＣＨ基１個をもつもの",
+      "en": "with one CH group",
+      "count": 527,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/18": {
+      "code": "G03C1/18",
+      "level": 7,
+      "parent": "G03C1/14",
+      "ja": "ＣＨ基３個をもつもの",
+      "en": "with three CH groups",
+      "count": 1226,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/20": {
+      "code": "G03C1/20",
+      "level": 7,
+      "parent": "G03C1/14",
+      "ja": "ＣＨ基５個以上をもつもの",
+      "en": "with more than three CH groups",
+      "count": 456,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/22": {
+      "code": "G03C1/22",
+      "level": 6,
+      "parent": "G03C1/12",
+      "ja": "偶数個のＣＨ基をもつもの",
+      "en": "with an even number of CH groups",
+      "count": 639,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/24": {
+      "code": "G03C1/24",
+      "level": 6,
+      "parent": "G03C1/12",
+      "ja": "スチリル染料",
+      "en": "Styryl dyes",
+      "count": 52,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/26": {
+      "code": "G03C1/26",
+      "level": 6,
+      "parent": "G03C1/12",
+      "ja": "複素環の一部を形成するポリメチン鎖をもつもの",
+      "en": "Polymethine chain forming part of a heterocyclic ring",
+      "count": 288,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/28": {
+      "code": "G03C1/28",
+      "level": 4,
+      "parent": "G03C1/08",
+      "ja": "超増感剤を含有するもの",
+      "en": "together with supersensitising substances",
+      "count": 831,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/29": {
+      "code": "G03C1/29",
+      "level": 5,
+      "parent": "G03C1/28",
+      "ja": "単に染料からなる強色増感混合物［５］",
+      "en": "the supersensitising mixture being solely composed of dyes",
+      "count": 703,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/295": {
+      "code": "G03C1/295",
+      "level": 3,
+      "parent": "G03C1/06",
+      "ja": "現像促進剤［５］",
+      "en": "Development accelerators",
+      "count": 422,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/30": {
+      "code": "G03C1/30",
+      "level": 3,
+      "parent": "G03C1/06",
+      "ja": "硬膜剤",
+      "en": "Hardeners",
+      "count": 1593,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/31": {
+      "code": "G03C1/31",
+      "level": 3,
+      "parent": "G03C1/06",
+      "ja": "可塑剤［２］",
+      "en": "Plasticisers",
+      "count": 95,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/32": {
+      "code": "G03C1/32",
+      "level": 3,
+      "parent": "G03C1/06",
+      "ja": "マット剤",
+      "en": "Matting agents",
+      "count": 521,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/33": {
+      "code": "G03C1/33",
+      "level": 3,
+      "parent": "G03C1/06",
+      "ja": "スポット防止剤［２］",
+      "en": "Spot-preventing agents",
+      "count": 186,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/34": {
+      "code": "G03C1/34",
+      "level": 3,
+      "parent": "G03C1/06",
+      "ja": "カブリ防止剤；安定剤；潜像退行防止剤［５］",
+      "en": "Fog-inhibitors; Stabilisers; Agents inhibiting latent image regression",
+      "count": 3028,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/35": {
+      "code": "G03C1/35",
+      "level": 3,
+      "parent": "G03C1/06",
+      "ja": "アンチプラミング剤，すなわちアンチブロンズイング剤；調色液［２，５］",
+      "en": "Antiplumming agents, i.e. antibronzing agents; Toners",
+      "count": 180,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/36": {
+      "code": "G03C1/36",
+      "level": 3,
+      "parent": "G03C1/06",
+      "ja": "減感剤（直接陽画乳剤Ｇ０３Ｃ１／４８５）［５］",
+      "en": "Desensitisers(direct positive emulsions <b>G03C1/485</b>)",
+      "count": 396,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/37": {
+      "code": "G03C1/37",
+      "level": 3,
+      "parent": "G03C1/06",
+      "ja": "腐敗防止剤［２］",
+      "en": "Antiseptic agents",
+      "count": 133,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/38": {
+      "code": "G03C1/38",
+      "level": 3,
+      "parent": "G03C1/06",
+      "ja": "分散剤；延展性促進剤［５］",
+      "en": "Dispersants; Agents facilitating spreading",
+      "count": 896,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/40": {
+      "code": "G03C1/40",
+      "level": 3,
+      "parent": "G03C1/06",
+      "ja": "グループＧ０３Ｃ１／０８～Ｇ０３Ｃ１／３８又はＧ０３Ｃ１／４２に包含されない染料成分［５］",
+      "en": "Dyestuffs not covered by groups <b>G03C1/08 to G03C1/38</b>  or <b>G03C1/42</b>",
+      "count": 409,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/42": {
+      "code": "G03C1/42",
+      "level": 3,
+      "parent": "G03C1/06",
+      "ja": "現像剤又はそれらの前駆体物質［５］",
+      "en": "Developers or their precursors",
+      "count": 949,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/43": {
+      "code": "G03C1/43",
+      "level": 3,
+      "parent": "G03C1/06",
+      "ja": "グループＧ０３Ｃ１／０７～Ｇ０３Ｃ１／４２に包含されない処理剤又はそれらの前駆体物質［５］",
+      "en": "Processing agents or their precursors, not covered by groups <b>G03C1/07 to G03C1/42</b> ",
+      "count": 612,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/46": {
+      "code": "G03C1/46",
+      "level": 2,
+      "parent": "G03C1/005",
+      "ja": "感光層が２層以上のもの",
+      "en": "having more than one photosensitive layer",
+      "count": 854,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/485": {
+      "code": "G03C1/485",
+      "level": 2,
+      "parent": "G03C1/005",
+      "ja": "直接陽画乳剤［２，５］",
+      "en": "Direct positive emulsions",
+      "count": 1489,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/49": {
+      "code": "G03C1/49",
+      "level": 2,
+      "parent": "G03C1/005",
+      "ja": "焼出し及び光現像乳剤［２，５］",
+      "en": "Print-out and photodevelopable emulsions",
+      "count": 199,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/492": {
+      "code": "G03C1/492",
+      "level": 2,
+      "parent": "G03C1/005",
+      "ja": "光可溶化乳剤［５］",
+      "en": "Photosoluble emulsions",
+      "count": 272,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/494": {
+      "code": "G03C1/494",
+      "level": 1,
+      "parent": "G03C1/00",
+      "ja": "ハロゲン化銀乳剤以外の銀塩組成物；光熱写真方式［５］",
+      "en": "Silver salt compositions other than silver halide emulsions; Photothermographic systems",
+      "count": 330,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/496": {
+      "code": "G03C1/496",
+      "level": 2,
+      "parent": "G03C1/494",
+      "ja": "結合剤を使用しない組成物，例．蒸着させるもの［５］",
+      "en": "Binder-free compositions, e.g. evaporated",
+      "count": 146,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/498": {
+      "code": "G03C1/498",
+      "level": 2,
+      "parent": "G03C1/494",
+      "ja": "光熱写真方式，例．ドライシルバー［５］",
+      "en": "Photothermographic systems, e.g. dry silver",
+      "count": 5329,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/50": {
+      "code": "G03C1/50",
+      "level": 1,
+      "parent": "G03C1/00",
+      "ja": "感光性物質として，銀塩以外の貴金属塩を含む組成物［５］",
+      "en": "Compositions containing noble metal salts other than silver salts, as photosensitive substances",
+      "count": 72,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/52": {
+      "code": "G03C1/52",
+      "level": 1,
+      "parent": "G03C1/00",
+      "ja": "感光性物質として，ジアゾ化合物を含む組成物（Ｇ０３Ｃ１／６４が優先）［５］",
+      "en": "Compositions containing diazo compounds as photosensitive substances(<b>G03C1/64</b> takes precedence)",
+      "count": 1910,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/54": {
+      "code": "G03C1/54",
+      "level": 2,
+      "parent": "G03C1/52",
+      "ja": "ジアゾニウム塩あるいはジアゾ無水物",
+      "en": "Diazonium salts or diazo anhydrides",
+      "count": 550,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/56": {
+      "code": "G03C1/56",
+      "level": 2,
+      "parent": "G03C1/52",
+      "ja": "ジアゾスルフォン酸塩",
+      "en": "Diazo sulfonates",
+      "count": 116,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/58": {
+      "code": "G03C1/58",
+      "level": 2,
+      "parent": "G03C1/52",
+      "ja": "そのためのカップリング剤［５］",
+      "en": "Coupling substances therefor",
+      "count": 612,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/60": {
+      "code": "G03C1/60",
+      "level": 2,
+      "parent": "G03C1/52",
+      "ja": "高分子添加剤をもつもの［５］",
+      "en": "with macromolecular additives",
+      "count": 541,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/61": {
+      "code": "G03C1/61",
+      "level": 2,
+      "parent": "G03C1/52",
+      "ja": "非高分子添加剤をもつもの［５］",
+      "en": "with non-macromolecular additives",
+      "count": 771,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/62": {
+      "code": "G03C1/62",
+      "level": 3,
+      "parent": "G03C1/61",
+      "ja": "金属に還元できる金属化合物",
+      "en": "Metal compounds reducible to metal",
+      "count": 108,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/64": {
+      "code": "G03C1/64",
+      "level": 1,
+      "parent": "G03C1/00",
+      "ja": "感光性物質として，鉄化合物を含む組成物［５］",
+      "en": "Compositions containing iron compounds as photosensitive substances",
+      "count": 252,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/66": {
+      "code": "G03C1/66",
+      "level": 1,
+      "parent": "G03C1/00",
+      "ja": "感光性物質として，クロム酸塩を含む組成物［５］",
+      "en": "Compositions containing chromates as photosensitive substances",
+      "count": 264,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/67": {
+      "code": "G03C1/67",
+      "level": 1,
+      "parent": "G03C1/00",
+      "ja": "感光性物質として，コバルト化合物を含む組成物［５］",
+      "en": "Compositions containing cobalt compounds as photosensitive substances",
+      "count": 194,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/675": {
+      "code": "G03C1/675",
+      "level": 1,
+      "parent": "G03C1/00",
+      "ja": "感光性物質として，ポリハロゲン化合物を含む組成物［５］",
+      "en": "Compositions containing polyhalogenated compounds as photosensitive substances",
+      "count": 915,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/685": {
+      "code": "G03C1/685",
+      "level": 1,
+      "parent": "G03C1/00",
+      "ja": "感光性物質として，スピロ縮合ピラン化合物又はそれらの誘導体を含む組成物［５］",
+      "en": "Compositions containing spiro-condensed pyran compounds or derivatives thereof, as photosensitive substances",
+      "count": 770,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/695": {
+      "code": "G03C1/695",
+      "level": 1,
+      "parent": "G03C1/00",
+      "ja": "感光性物質として，アジド化物を含む組成物［５］",
+      "en": "Compositions containing azides as photosensitive substances",
+      "count": 123,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/705": {
+      "code": "G03C1/705",
+      "level": 1,
+      "parent": "G03C1/00",
+      "ja": "感光性物質として，カルコゲナイド，金属またはそれらの合金を含む組成物，例．光ドープ方式［５］",
+      "en": "Compositions containing chalcogenides, metals or alloys thereof, as photosensitive substances, e.g. photodope systems",
+      "count": 634,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/72": {
+      "code": "G03C1/72",
+      "level": 1,
+      "parent": "G03C1/00",
+      "ja": "グループＧ０３Ｃ１／００５～Ｇ０３Ｃ１／７０５に包含されない感光性組成物［５］",
+      "en": "Photosensitive compositions not covered by groups <b>G03C1/005 to G03C1/705</b> ",
+      "count": 3267,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/725": {
+      "code": "G03C1/725",
+      "level": 2,
+      "parent": "G03C1/72",
+      "ja": "無機化合物を含むもの［５］",
+      "en": "containing inorganic compounds",
+      "count": 793,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/73": {
+      "code": "G03C1/73",
+      "level": 2,
+      "parent": "G03C1/72",
+      "ja": "有機化合物を含むもの［５］",
+      "en": "containing organic compounds",
+      "count": 3613,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/735": {
+      "code": "G03C1/735",
+      "level": 3,
+      "parent": "G03C1/73",
+      "ja": "有機金属化合物［５］",
+      "en": "Organo-metallic compounds",
+      "count": 432,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/74": {
+      "code": "G03C1/74",
+      "level": 1,
+      "parent": "G03C1/00",
+      "ja": "支持体への感光性組成物の塗布；そのための乾燥法（Ｇ０３Ｃ１／４９６が優先）［２，５］",
+      "en": "Applying photosensitive compositions to the base; Drying processes therefor(<b>G03C1/496</b> takes precedence)",
+      "count": 3933,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/76": {
+      "code": "G03C1/76",
+      "level": 1,
+      "parent": "G03C1/00",
+      "ja": "支持体又は補助層に特徴のある感光材料［５］",
+      "en": "Photosensitive materials characterised by the base or auxiliary layers",
+      "count": 5814,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/765": {
+      "code": "G03C1/765",
+      "level": 2,
+      "parent": "G03C1/76",
+      "ja": "支持体の形状に特徴のあるもの，例．パーフォレーション，ぎざぎざの配置［５］",
+      "en": "characterised by the shape of the base, e.g. arrangement of perforations, jags",
+      "count": 797,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/77": {
+      "code": "G03C1/77",
+      "level": 2,
+      "parent": "G03C1/76",
+      "ja": "支持体が金属であるもの［５］",
+      "en": "the base being of metal",
+      "count": 224,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/775": {
+      "code": "G03C1/775",
+      "level": 2,
+      "parent": "G03C1/76",
+      "ja": "支持体が紙であるもの［５］",
+      "en": "the base being of paper",
+      "count": 892,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/785": {
+      "code": "G03C1/785",
+      "level": 3,
+      "parent": "G03C1/775",
+      "ja": "半透明のもの［５］",
+      "en": "translucent",
+      "count": 57,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/79": {
+      "code": "G03C1/79",
+      "level": 3,
+      "parent": "G03C1/775",
+      "ja": "高分子塗布又はそのための含浸，例．ワニス塗り［５］",
+      "en": "Macromolecular coatings or impregnations therefor, e.g. varnishes",
+      "count": 1710,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/795": {
+      "code": "G03C1/795",
+      "level": 2,
+      "parent": "G03C1/76",
+      "ja": "支持体が高分子物質で形成されるもの（Ｇ０３Ｃ１／７７５が優先）［５］",
+      "en": "the base being formed of macromolecular substances(<b>G03C1/775</b> takes precedence)",
+      "count": 1970,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/805": {
+      "code": "G03C1/805",
+      "level": 2,
+      "parent": "G03C1/76",
+      "ja": "剥離層又は剥離手段に特徴のあるもの［５］",
+      "en": "characterised by stripping layers or stripping means",
+      "count": 416,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/81": {
+      "code": "G03C1/81",
+      "level": 2,
+      "parent": "G03C1/76",
+      "ja": "捲き癖防止手段に特徴のあるもの［５］",
+      "en": "characterised by anti-coiling means",
+      "count": 616,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/815": {
+      "code": "G03C1/815",
+      "level": 2,
+      "parent": "G03C1/76",
+      "ja": "紫外線のフィルター又は吸収手段に特徴のあるもの，例．光漂白剤（写真焼付用Ｇ０３Ｃ５／１０；Ｘ線像の増強用Ｇ０３Ｃ５／１７）［５］",
+      "en": "characterised by means for filtering or absorbing ultraviolet light, e.g. optical bleaching agents(for photoprinting <b>G03C5/10</b>; for intensifying X-ray images <b>G03C5/17</b>)",
+      "count": 1113,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/825": {
+      "code": "G03C1/825",
+      "level": 2,
+      "parent": "G03C1/76",
+      "ja": "反射防止手段又は可視光フィルター手段に特徴のあるもの，例．ハレーション防止［５］",
+      "en": "characterised by antireflecting means or visible-light filtering means, e.g. anti-halation",
+      "count": 1355,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/83": {
+      "code": "G03C1/83",
+      "level": 3,
+      "parent": "G03C1/825",
+      "ja": "そのための有機染料成分［５］",
+      "en": "Organic dyestuffs therefor",
+      "count": 2221,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/835": {
+      "code": "G03C1/835",
+      "level": 3,
+      "parent": "G03C1/825",
+      "ja": "そのための高分子物質，例．媒染剤［５］",
+      "en": "Macromolecular substances therefor, e.g. mordants",
+      "count": 395,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/85": {
+      "code": "G03C1/85",
+      "level": 2,
+      "parent": "G03C1/76",
+      "ja": "帯電防止剤又は帯電防止層に特徴のあるもの［５］",
+      "en": "characterised by antistatic additives or coatings",
+      "count": 1501,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/89": {
+      "code": "G03C1/89",
+      "level": 3,
+      "parent": "G03C1/85",
+      "ja": "そのための高分子物質［５］",
+      "en": "Macromolecular substances therefor",
+      "count": 697,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/91": {
+      "code": "G03C1/91",
+      "level": 2,
+      "parent": "G03C1/76",
+      "ja": "下引層又は下引き手段に特徴のあるもの［５］",
+      "en": "characterised by subbing layers or subbing means",
+      "count": 1268,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/93": {
+      "code": "G03C1/93",
+      "level": 3,
+      "parent": "G03C1/91",
+      "ja": "そのための高分子物質［５］",
+      "en": "Macromolecular substances therefor",
+      "count": 782,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C1/95": {
+      "code": "G03C1/95",
+      "level": 2,
+      "parent": "G03C1/76",
+      "ja": "不透明又は筆記可能なもの，例．不活性微粒子添加剤をもつもの（Ｇ０３Ｃ１／７７５が優先）［５］",
+      "en": "rendered opaque or writable, e.g. with inert particulate additives(<b>G03C1/775</b> takes precedence)",
+      "count": 952,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C3/00": {
+      "code": "G03C3/00",
+      "level": 0,
+      "parent": "G03C",
+      "ja": "カメラ挿入用フイルムパッケージ，例．ロールフイルムまたはフイルムパック；乾板，フイルムまたは印画紙用包装材料，例．特殊染料，印刷インキまたは接着剤の使用を特徴とする包装材料",
+      "en": "Packages of films for inserting into cameras, e.g. roll-films or film-packs; Wrapping materials for light-sensitive plates, films, or papers, e.g. materials characterised by the use of special dyes, printing inks or adhesives",
+      "count": 9488,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C3/02": {
+      "code": "G03C3/02",
+      "level": 1,
+      "parent": "G03C3/00",
+      "ja": "細長い紙片を有するロールフイルム",
+      "en": "Photographic roll-films with paper strips",
+      "count": 691,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C5/00": {
+      "code": "G03C5/00",
+      "level": 0,
+      "parent": "G03C",
+      "ja": "写真法またはそのための処理剤；そのような処理剤の再生（多色法Ｇ０３Ｃ７／００；拡散転写法Ｇ０３Ｃ８／００；立体写真法Ｇ０３Ｃ９／００）［４，５］",
+      "en": "Photographic processes or agents therefor; Regeneration of such processing agents(multicolour processes <b>G03C7/00</b>; diffusion transfer processes <b>G03C8/00</b>; stereo-photographic processes <b>G03C9/00</b>)",
+      "count": 5115,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C5/02": {
+      "code": "G03C5/02",
+      "level": 1,
+      "parent": "G03C5/00",
+      "ja": "感度測定法，例．感度，カラー感度，階調，粒状性，濃度の決定；感度測定用光学クサビの製造",
+      "en": "Sensitometric processes, e.g. determining sensitivity, colour sensitivity, gradation, graininess, density; Making sensitometric wedges",
+      "count": 884,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C5/04": {
+      "code": "G03C5/04",
+      "level": 1,
+      "parent": "G03C5/00",
+      "ja": "撮影方法",
+      "en": "Photo-taking processes",
+      "count": 416,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C5/06": {
+      "code": "G03C5/06",
+      "level": 2,
+      "parent": "G03C5/04",
+      "ja": "移動マスク法",
+      "en": "Travelling-mask processes",
+      "count": 78,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C5/08": {
+      "code": "G03C5/08",
+      "level": 1,
+      "parent": "G03C5/00",
+      "ja": "写真焼付（Ｇ０３Ｃ５／１８が優先）；写真焼付を妨げる方法又は手段［３，５］",
+      "en": "Photoprinting(<b>G03C5/18</b> takes precedence);Processes or means for preventing photoprinting",
+      "count": 2711,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C5/10": {
+      "code": "G03C5/10",
+      "level": 2,
+      "parent": "G03C5/08",
+      "ja": "反射焼付；蛍光性又は燐光性手段を用いる写真焼付［５］",
+      "en": "Reflex-printing; Photoprinting using fluorescent or phosphorescent means",
+      "count": 205,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C5/12": {
+      "code": "G03C5/12",
+      "level": 1,
+      "parent": "G03C5/00",
+      "ja": "映画の撮影又は焼付法",
+      "en": "Cinematographic processes of taking pictures or printing",
+      "count": 139,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C5/14": {
+      "code": "G03C5/14",
+      "level": 2,
+      "parent": "G03C5/12",
+      "ja": "録音と結びついたもの",
+      "en": "combined with sound-recording",
+      "count": 432,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C5/16": {
+      "code": "G03C5/16",
+      "level": 1,
+      "parent": "G03C5/00",
+      "ja": "Ｘ線，赤外線，又は紫外線写真法",
+      "en": "X-ray, infrared, or ultraviolet ray processes",
+      "count": 1580,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C5/17": {
+      "code": "G03C5/17",
+      "level": 2,
+      "parent": "G03C5/16",
+      "ja": "Ｘ線像を増強するためにスクリーンを用いるもの［２，４］",
+      "en": "using screens to intensify X-ray images",
+      "count": 844,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C5/18": {
+      "code": "G03C5/18",
+      "level": 1,
+      "parent": "G03C5/00",
+      "ja": "ジアゾタイプ法，例．熱現像，又はそのための処理剤［３，５］",
+      "en": "Diazo-type processes, e.g. thermal development, or agents therefor",
+      "count": 958,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C5/20": {
+      "code": "G03C5/20",
+      "level": 2,
+      "parent": "G03C5/18",
+      "ja": "反射焼付",
+      "en": "Reflex-printing",
+      "count": 26,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C5/22": {
+      "code": "G03C5/22",
+      "level": 1,
+      "parent": "G03C5/00",
+      "ja": "直接式クロム酸塩法，すなわち，あらかじめ銀画像のないもの，又はそのための処理剤［５］",
+      "en": "Direct chromate processes, i.e. without preceding silver picture, or agents therefor",
+      "count": 68,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C5/26": {
+      "code": "G03C5/26",
+      "level": 1,
+      "parent": "G03C5/00",
+      "ja": "銀塩含有感光材料を用いる方法又はそのための処理剤（物理的現像Ｇ０３Ｃ５／５８）［５］",
+      "en": "Processes using silver-salt-containing photosensitive materials or agents therefor(physical development <b>G03C5/58</b>)",
+      "count": 3038,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C5/28": {
+      "code": "G03C5/28",
+      "level": 2,
+      "parent": "G03C5/26",
+      "ja": "映画フィルム処理［５］",
+      "en": "Cinematographic-film processes",
+      "count": 28,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C5/29": {
+      "code": "G03C5/29",
+      "level": 2,
+      "parent": "G03C5/26",
+      "ja": "現像法又はそのための処理剤（Ｇ０３Ｃ５／３８，Ｇ０３Ｃ５／５０が優先）［５］",
+      "en": "Development processes or agents therefor(<b>G03C5/38</b>, <b>G03C5/50</b> take precedence)",
+      "count": 1969,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C5/30": {
+      "code": "G03C5/30",
+      "level": 3,
+      "parent": "G03C5/29",
+      "ja": "現像剤",
+      "en": "Developers",
+      "count": 1798,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C5/305": {
+      "code": "G03C5/305",
+      "level": 3,
+      "parent": "G03C5/29",
+      "ja": "現像剤以外の添加剤［５］",
+      "en": "Additives other than developers",
+      "count": 1608,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C5/31": {
+      "code": "G03C5/31",
+      "level": 3,
+      "parent": "G03C5/29",
+      "ja": "再生；補充液［５］",
+      "en": "Regeneration; Replenishers",
+      "count": 996,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C5/315": {
+      "code": "G03C5/315",
+      "level": 3,
+      "parent": "G03C5/29",
+      "ja": "タンニング現像［５］",
+      "en": "Tanning development",
+      "count": 289,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C5/32": {
+      "code": "G03C5/32",
+      "level": 2,
+      "parent": "G03C5/26",
+      "ja": "潜像補力；減感［５］",
+      "en": "Latensification; Desensitising",
+      "count": 104,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C5/38": {
+      "code": "G03C5/38",
+      "level": 2,
+      "parent": "G03C5/26",
+      "ja": "定着；現像―定着；硬膜―定着（漂白―定着Ｇ０３Ｃ５／４４）［５］",
+      "en": "Fixing; Developing-fixing; Hardening-fixing(bleach-fixing <b>G03C5/44</b>)",
+      "count": 1237,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C5/39": {
+      "code": "G03C5/39",
+      "level": 3,
+      "parent": "G03C5/38",
+      "ja": "固定，すなわち，洗い出すことのない定着［２，５］",
+      "en": "Stabilising, i.e. fixing without washing out",
+      "count": 163,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C5/395": {
+      "code": "G03C5/395",
+      "level": 2,
+      "parent": "G03C5/26",
+      "ja": "現像剤以外の写真処理剤の再生；そのための補充液［４，５］",
+      "en": "Regeneration of photographic processing agents other than developers; Replenishers therefor",
+      "count": 846,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C5/40": {
+      "code": "G03C5/40",
+      "level": 2,
+      "parent": "G03C5/26",
+      "ja": "化学処理による現像画像の変化（Ｇ０３Ｃ５／５０が優先）［５］",
+      "en": "Chemically transforming developed images(<b>G03C5/50</b> takes precedence)",
+      "count": 272,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C5/42": {
+      "code": "G03C5/42",
+      "level": 3,
+      "parent": "G03C5/40",
+      "ja": "減力；補力［５］",
+      "en": "Reducing; Intensifying",
+      "count": 237,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C5/44": {
+      "code": "G03C5/44",
+      "level": 3,
+      "parent": "G03C5/40",
+      "ja": "漂白；漂白―定着［５］",
+      "en": "Bleaching; Bleach-fixing",
+      "count": 298,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C5/46": {
+      "code": "G03C5/46",
+      "level": 3,
+      "parent": "G03C5/40",
+      "ja": "調色［５］",
+      "en": "Toning",
+      "count": 157,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C5/48": {
+      "code": "G03C5/48",
+      "level": 3,
+      "parent": "G03C5/40",
+      "ja": "媒染［５］",
+      "en": "Mordanting",
+      "count": 81,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C5/50": {
+      "code": "G03C5/50",
+      "level": 2,
+      "parent": "G03C5/26",
+      "ja": "反転現像；接触法（Ｇ０３Ｃ５／３１５，Ｇ０３Ｃ８／００が優先）［５］",
+      "en": "Reversal development; Contact processes(<b>G03C5/315</b>, <b>G03C8/00</b> take precedence)",
+      "count": 582,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C5/56": {
+      "code": "G03C5/56",
+      "level": 1,
+      "parent": "G03C5/00",
+      "ja": "グループＧ０３Ｃ１／６４～Ｇ０３Ｃ１／７２に包含される感光組成物を用いる方法又はそのための処理剤（Ｇ０３Ｃ５／５８が優先）［５］",
+      "en": "Processes using photosensitive compositions covered by groups <b>G03C1/64 to G03C1/72</b>  or agents therefor(<b>G03C5/58</b> takes precedence)",
+      "count": 1091,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C5/58": {
+      "code": "G03C5/58",
+      "level": 1,
+      "parent": "G03C5/00",
+      "ja": "蒸着または物理的現像により金属画像を得るための方法［５］",
+      "en": "Processes for obtaining metallic images by vapour deposition or physical development",
+      "count": 460,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C5/60": {
+      "code": "G03C5/60",
+      "level": 1,
+      "parent": "G03C5/00",
+      "ja": "小胞性画像を得るための方法［５］",
+      "en": "Processes for obtaining vesicular images",
+      "count": 210,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C7/00": {
+      "code": "G03C7/00",
+      "level": 0,
+      "parent": "G03C",
+      "ja": "多色写真法又はそのための処理剤；このような処理剤の再生；多色写真用の感光材料（拡散転写法Ｇ０３Ｃ８／００）［４，５］",
+      "en": "Multicolour photographic processes or agents therefor; Regeneration of such processing agents; Photosensitive materials for multicolour processes(diffusion transfer processes <b>G03C8/00</b>)",
+      "count": 4529,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C7/02": {
+      "code": "G03C7/02",
+      "level": 1,
+      "parent": "G03C7/00",
+      "ja": "直接漂白法；そのための材料；このような材料の調製又は処理［５］",
+      "en": "Direct bleach-out processes; Materials therefor; Preparing or processing such materials",
+      "count": 266,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C7/04": {
+      "code": "G03C7/04",
+      "level": 1,
+      "parent": "G03C7/00",
+      "ja": "カラースクリーンを用いる加色法；そのための材料；このような材料の調製又は処理［５］",
+      "en": "Additive processes using colour screens; Materials therefor; Preparing or processing such materials",
+      "count": 336,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C7/06": {
+      "code": "G03C7/06",
+      "level": 2,
+      "parent": "G03C7/04",
+      "ja": "カラースクリーンの製造",
+      "en": "Manufacture of colour screens",
+      "count": 265,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C7/08": {
+      "code": "G03C7/08",
+      "level": 3,
+      "parent": "G03C7/06",
+      "ja": "発色粒子を不規則に分布したもの",
+      "en": "from diversely-coloured grains irregularly distributed",
+      "count": 94,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C7/10": {
+      "code": "G03C7/10",
+      "level": 3,
+      "parent": "G03C7/06",
+      "ja": "規則正しい色領域をもつもの，例．帯，線，又は点",
+      "en": "with regular areas of colour, e.g. bands, lines, dots",
+      "count": 179,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C7/12": {
+      "code": "G03C7/12",
+      "level": 4,
+      "parent": "G03C7/10",
+      "ja": "露光によるもの",
+      "en": "by photo-exposure",
+      "count": 176,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C7/14": {
+      "code": "G03C7/14",
+      "level": 1,
+      "parent": "G03C7/00",
+      "ja": "レンチキュラースクリーンを用いる加色法；そのための材料；このような材料の調製又は処理［５］",
+      "en": "Additive processes using lenticular screens; Materials therefor; Preparing or processing such materials",
+      "count": 536,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C7/18": {
+      "code": "G03C7/18",
+      "level": 1,
+      "parent": "G03C7/00",
+      "ja": "減色法カラー写真におけるカラー画像修正のための方法（着色したカラーカプラーを用いるものＧ０３Ｃ７／３３３）［５］",
+      "en": "Processes for the correction of the colour image in subtractive colour photography(using coloured colour-couplers <b>G03C7/333</b>)",
+      "count": 608,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C7/20": {
+      "code": "G03C7/20",
+      "level": 1,
+      "parent": "G03C7/00",
+      "ja": "その支持体にそれぞれ塗布した感色性の異なるフイルムを用いる減色法カラー処理，例．バイパック，トリパック［５］",
+      "en": "Subtractive colour processes using differently sensitised films, each coated on its own base, e.g. bipacks, tripacks",
+      "count": 1854,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C7/22": {
+      "code": "G03C7/22",
+      "level": 1,
+      "parent": "G03C7/00",
+      "ja": "減色法映画写真処理；そのための材料；このような材料の調製又は処理［５］",
+      "en": "Subtractive cinematographic processes; Materials therefor; Preparing or processing such materials",
+      "count": 369,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C7/24": {
+      "code": "G03C7/24",
+      "level": 2,
+      "parent": "G03C7/22",
+      "ja": "録音と結びついたもの",
+      "en": "combined with sound-recording",
+      "count": 296,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C7/25": {
+      "code": "G03C7/25",
+      "level": 2,
+      "parent": "G03C7/22",
+      "ja": "染料インビビジョン法；そのための材料；このような材料の調製又は処理［５］",
+      "en": "Dye-imbibition processes; Materials therefor; Preparing or processing such materials",
+      "count": 263,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C7/26": {
+      "code": "G03C7/26",
+      "level": 1,
+      "parent": "G03C7/00",
+      "ja": "減色法カラー処理用ハロゲン化乳剤（Ｇ０３Ｃ７／２８～Ｇ０３Ｃ７／３０が優先）［５］",
+      "en": "Silver halide emulsions for subtractive colour processes(<b>G03C7/28 to G03C7/30</b>  take precedence)",
+      "count": 3051,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C7/28": {
+      "code": "G03C7/28",
+      "level": 1,
+      "parent": "G03C7/00",
+      "ja": "銀色素漂白法；そのための材料；このような材料の調製又は処理［５］",
+      "en": "Silver dye bleach processes; Materials therefor; Preparing or processing such materials",
+      "count": 471,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C7/29": {
+      "code": "G03C7/29",
+      "level": 2,
+      "parent": "G03C7/28",
+      "ja": "そのためのアゾ染料［５］",
+      "en": "Azo dyes therefor",
+      "count": 164,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C7/30": {
+      "code": "G03C7/30",
+      "level": 1,
+      "parent": "G03C7/00",
+      "ja": "カラーカプラーを用いるカラー処理；そのための材料；このような材料の調製又は処理［５］",
+      "en": "Colour processes using colour-coupling substances; Materials therefor; Preparing or processing such materials",
+      "count": 4815,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C7/305": {
+      "code": "G03C7/305",
+      "level": 2,
+      "parent": "G03C7/30",
+      "ja": "写真的に活性剤を遊離させる物質，例．現像抑制剤放出カプラー（Ｇ０３Ｃ７／３８８が優先）［５］",
+      "en": "Substances liberating photographically active agents, e.g. development-inhibiting releasing couplers(<b>G03C7/388</b> takes precedence)",
+      "count": 2380,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C7/32": {
+      "code": "G03C7/32",
+      "level": 2,
+      "parent": "G03C7/30",
+      "ja": "カラーカプラー（Ｇ０３Ｃ７／３０５，Ｇ０３Ｃ７／３８８が優先）［５］",
+      "en": "Colour-coupling substances(<b>G03C7/305</b>, <b>G03C7/388</b> take precedence)",
+      "count": 1970,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C7/327": {
+      "code": "G03C7/327",
+      "level": 3,
+      "parent": "G03C7/32",
+      "ja": "高分子カプラー［５］",
+      "en": "Macromolecular coupling substances",
+      "count": 340,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C7/333": {
+      "code": "G03C7/333",
+      "level": 3,
+      "parent": "G03C7/32",
+      "ja": "カラードカプラー，例．カラー画像補正用［５］",
+      "en": "Coloured coupling substances, e.g. for the correction of the coloured image",
+      "count": 381,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C7/34": {
+      "code": "G03C7/34",
+      "level": 3,
+      "parent": "G03C7/32",
+      "ja": "フェノール類を含有するカプラー（Ｇ０３Ｃ７／３２７，Ｇ０３Ｃ７／３３３が優先）［５］",
+      "en": "Couplers containing phenols(<b>G03C7/327</b>, <b>G03C7/333</b> take precedence)",
+      "count": 1593,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C7/36": {
+      "code": "G03C7/36",
+      "level": 3,
+      "parent": "G03C7/32",
+      "ja": "活性メチレン基のある化合物を有するカプラー（Ｇ０３Ｃ７／３２７，Ｇ０３Ｃ７／３３３が優先）［５］",
+      "en": "Couplers containing compounds with active methylene groups(<b>G03C7/327</b>, <b>G03C7/333</b> take precedence)",
+      "count": 1520,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C7/38": {
+      "code": "G03C7/38",
+      "level": 4,
+      "parent": "G03C7/36",
+      "ja": "リングの中に存在するもの［５］",
+      "en": "in rings",
+      "count": 2682,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C7/384": {
+      "code": "G03C7/384",
+      "level": 5,
+      "parent": "G03C7/38",
+      "ja": "ピラゾロンリングの中に存在するもの［５］",
+      "en": "in pyrazolone rings",
+      "count": 724,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C7/388": {
+      "code": "G03C7/388",
+      "level": 2,
+      "parent": "G03C7/30",
+      "ja": "写真的に活性剤を遊離する物質又はカラーカプラーを乳剤に混入する方法；そのための溶剤［５］",
+      "en": "Processes for the incorporation in the emulsion of substances liberating photographically active agents or colour-coupling substances; Solvents therefor",
+      "count": 1111,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C7/392": {
+      "code": "G03C7/392",
+      "level": 2,
+      "parent": "G03C7/30",
+      "ja": "添加剤（Ｇ０３Ｃ７／３０５，Ｇ０３Ｃ７／３２が優先）［５］",
+      "en": "Additives(<b>G03C7/305</b>, <b>G03C7/32</b> take precedence)",
+      "count": 3415,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C7/396": {
+      "code": "G03C7/396",
+      "level": 3,
+      "parent": "G03C7/392",
+      "ja": "高分子添加剤［５］",
+      "en": "Macromolecular additives",
+      "count": 305,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C7/407": {
+      "code": "G03C7/407",
+      "level": 2,
+      "parent": "G03C7/30",
+      "ja": "現像法又はそのための処理剤［５］",
+      "en": "Development processes or agents therefor",
+      "count": 2251,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C7/413": {
+      "code": "G03C7/413",
+      "level": 3,
+      "parent": "G03C7/407",
+      "ja": "現像剤［５］",
+      "en": "Developers",
+      "count": 1496,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C7/42": {
+      "code": "G03C7/42",
+      "level": 2,
+      "parent": "G03C7/30",
+      "ja": "漂白―定着又はそのための処理剤［３，５］",
+      "en": "Bleach-fixing or agents therefor",
+      "count": 2023,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C7/44": {
+      "code": "G03C7/44",
+      "level": 2,
+      "parent": "G03C7/30",
+      "ja": "再生；補充液（Ｇ０３Ｃ７／４２が優先）［５］",
+      "en": "Regeneration; Replenishers(<b>G03C7/42</b> takes precedence)",
+      "count": 703,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C7/46": {
+      "code": "G03C7/46",
+      "level": 1,
+      "parent": "G03C7/00",
+      "ja": "グループＧ０３Ｃ７／２６に包含されない減色法カラー処理；そのための材料；このような材料の調製又は処理［５］",
+      "en": "Subtractive colour processes not covered by group <b>G03C7/26</b>; Materials therefor; Preparing or processing such materials",
+      "count": 363,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C8/00": {
+      "code": "G03C8/00",
+      "level": 0,
+      "parent": "G03C",
+      "ja": "拡散転写法又はそのための処理剤；このような方法のための感光材料［５］",
+      "en": "Diffusion transfer processes or agents therefor; Photosensitive materials for such processes",
+      "count": 531,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C8/02": {
+      "code": "G03C8/02",
+      "level": 1,
+      "parent": "G03C8/00",
+      "ja": "画像形成部分に特徴のある感光材料［５］",
+      "en": "Photosensitive materials characterised by the image-forming section",
+      "count": 80,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C8/04": {
+      "code": "G03C8/04",
+      "level": 2,
+      "parent": "G03C8/02",
+      "ja": "感光貴金属から誘導した無機化合物又は有機金属化合物からなる拡散により転写された物質［５］",
+      "en": "the substances transferred by diffusion consisting of inorganic compounds or of organo-metallic compounds derived from photosensitive noble metals",
+      "count": 183,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C8/06": {
+      "code": "G03C8/06",
+      "level": 3,
+      "parent": "G03C8/04",
+      "ja": "銀塩拡散転写［５］",
+      "en": "Silver salt diffusion transfer",
+      "count": 974,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C8/08": {
+      "code": "G03C8/08",
+      "level": 2,
+      "parent": "G03C8/02",
+      "ja": "有機化合物からなる拡散により転写された物質（Ｇ０３Ｃ８／０４が優先）［５］",
+      "en": "the substances transferred by diffusion consisting of organic compounds(<b>G03C8/04</b> takes precedence)",
+      "count": 704,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C8/10": {
+      "code": "G03C8/10",
+      "level": 3,
+      "parent": "G03C8/08",
+      "ja": "染料又はそれらの前駆体物質からなるもの［５］",
+      "en": "of dyes or their precursors",
+      "count": 548,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C8/12": {
+      "code": "G03C8/12",
+      "level": 4,
+      "parent": "G03C8/10",
+      "ja": "その放出機構に特徴のあるもの［５］",
+      "en": "characterised by the release mechanism",
+      "count": 95,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C8/14": {
+      "code": "G03C8/14",
+      "level": 5,
+      "parent": "G03C8/12",
+      "ja": "呈色物質の酸化［５］",
+      "en": "Oxidation of the chromogenic substance",
+      "count": 31,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C8/16": {
+      "code": "G03C8/16",
+      "level": 6,
+      "parent": "G03C8/14",
+      "ja": "アルカリ性環境で最初に拡散できるもの［５］",
+      "en": "initially diffusable in alkaline environment",
+      "count": 99,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C8/18": {
+      "code": "G03C8/18",
+      "level": 7,
+      "parent": "G03C8/16",
+      "ja": "色素現像剤［５］",
+      "en": "Dye developers",
+      "count": 236,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C8/20": {
+      "code": "G03C8/20",
+      "level": 6,
+      "parent": "G03C8/14",
+      "ja": "アルカリ性環境で最初に拡散できないもの［５］",
+      "en": "initially non-diffusable in alkaline environment",
+      "count": 5,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C8/22": {
+      "code": "G03C8/22",
+      "level": 5,
+      "parent": "G03C8/12",
+      "ja": "呈色物質の還元［５］",
+      "en": "Reduction of the chromogenic substance",
+      "count": 21,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C8/24": {
+      "code": "G03C8/24",
+      "level": 1,
+      "parent": "G03C8/00",
+      "ja": "画像受像部分に特徴のある感光材料［５］",
+      "en": "Photosensitive materials characterised by the image-receiving section",
+      "count": 229,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C8/26": {
+      "code": "G03C8/26",
+      "level": 2,
+      "parent": "G03C8/24",
+      "ja": "画像受像層（Ｇ０３Ｃ８／５２が優先）［５］",
+      "en": "Image-receiving layers(<b>G03C8/52</b> takes precedence)",
+      "count": 222,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C8/28": {
+      "code": "G03C8/28",
+      "level": 3,
+      "parent": "G03C8/26",
+      "ja": "現像核又はこのような核を形成する化合物を含有するもの［５］",
+      "en": "containing development nuclei or compounds forming such nuclei",
+      "count": 338,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C8/30": {
+      "code": "G03C8/30",
+      "level": 1,
+      "parent": "G03C8/00",
+      "ja": "カラースクリーンを用いる加色法；そのための材料；このような材料の調製又は処理［５］",
+      "en": "Additive processes using colour screens; Materials therefor; Preparing or processing such materials",
+      "count": 101,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C8/32": {
+      "code": "G03C8/32",
+      "level": 1,
+      "parent": "G03C8/00",
+      "ja": "現像法又はそのための処理剤（Ｇ０３Ｃ８／１８が優先）［５］",
+      "en": "Development processes or agents therefor(<b>G03C8/18</b> takes precedence)",
+      "count": 116,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C8/34": {
+      "code": "G03C8/34",
+      "level": 2,
+      "parent": "G03C8/32",
+      "ja": "処理剤用容器（Ｇ０３Ｃ８／４８，Ｇ０３Ｂ１７／５０が優先）［５］",
+      "en": "Containers for the agents(<b>G03C8/48</b>, <b>G03B17/50</b> take precedence)",
+      "count": 116,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C8/36": {
+      "code": "G03C8/36",
+      "level": 2,
+      "parent": "G03C8/32",
+      "ja": "現像剤［５］",
+      "en": "Developers",
+      "count": 448,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C8/38": {
+      "code": "G03C8/38",
+      "level": 3,
+      "parent": "G03C8/36",
+      "ja": "粘度増加物質を含有するもの［５］",
+      "en": "containing viscosity increasing substances",
+      "count": 28,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C8/40": {
+      "code": "G03C8/40",
+      "level": 2,
+      "parent": "G03C8/32",
+      "ja": "熱による現像［５］",
+      "en": "Development by heat",
+      "count": 1797,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C8/42": {
+      "code": "G03C8/42",
+      "level": 1,
+      "parent": "G03C8/00",
+      "ja": "構造の細部［５］",
+      "en": "Structural details",
+      "count": 430,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C8/44": {
+      "code": "G03C8/44",
+      "level": 2,
+      "parent": "G03C8/42",
+      "ja": "積層一体型フィルムユニット，すなわち画像受像部分から分離されない画像形成部分［５］",
+      "en": "Integral units, i.e. the image-forming section not being separated from the image-receiving section",
+      "count": 203,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C8/46": {
+      "code": "G03C8/46",
+      "level": 3,
+      "parent": "G03C8/44",
+      "ja": "トラップをつける手段又はガス解放手段に特徴のあるもの［５］",
+      "en": "characterised by the trapping means or by gas releasing means",
+      "count": 87,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C8/48": {
+      "code": "G03C8/48",
+      "level": 3,
+      "parent": "G03C8/44",
+      "ja": "画像形成部分をマスクするため用いられる物質に特徴のあるもの［５］",
+      "en": "characterised by substances used for masking the image-forming section",
+      "count": 234,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C8/50": {
+      "code": "G03C8/50",
+      "level": 2,
+      "parent": "G03C8/42",
+      "ja": "剥離型フィルムユニット，すなわち画像受像部分から分離される画像形成部分［５］",
+      "en": "Peel-apart units, i.e. the image-forming section being separated from the image-receiving section",
+      "count": 199,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C8/52": {
+      "code": "G03C8/52",
+      "level": 2,
+      "parent": "G03C8/42",
+      "ja": "支持体又は補助層；そのための物質［５］",
+      "en": "Bases or auxiliary layers; Substances therefor",
+      "count": 738,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C8/54": {
+      "code": "G03C8/54",
+      "level": 3,
+      "parent": "G03C8/52",
+      "ja": "タイミング層［５］",
+      "en": "Timing layers",
+      "count": 147,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C8/56": {
+      "code": "G03C8/56",
+      "level": 3,
+      "parent": "G03C8/52",
+      "ja": "媒染剤層［５］",
+      "en": "Mordant layers",
+      "count": 284,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C9/00": {
+      "code": "G03C9/00",
+      "level": 0,
+      "parent": "G03C",
+      "ja": "立体写真方法又は類似方法",
+      "en": "Stereo-photographic or similar processes",
+      "count": 297,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C9/02": {
+      "code": "G03C9/02",
+      "level": 1,
+      "parent": "G03C9/00",
+      "ja": "視差―立体写真",
+      "en": "Parallax-stereogram",
+      "count": 124,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C9/04": {
+      "code": "G03C9/04",
+      "level": 1,
+      "parent": "G03C9/00",
+      "ja": "ベクトグラフ",
+      "en": "Vectographic-image",
+      "count": 86,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C9/06": {
+      "code": "G03C9/06",
+      "level": 1,
+      "parent": "G03C9/00",
+      "ja": "アナグリフ",
+      "en": "Anaglyph",
+      "count": 84,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C9/08": {
+      "code": "G03C9/08",
+      "level": 1,
+      "parent": "G03C9/00",
+      "ja": "三次元画像の作成［２００６．０１］",
+      "en": "producing three-dimensional [3D] images",
+      "count": 535,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C11/00": {
+      "code": "G03C11/00",
+      "level": 0,
+      "parent": "G03C",
+      "ja": "写真の補助処理法（使用する装置に特徴のあるものＧ０３Ｄ１５／００）",
+      "en": "Auxiliary processes in photography(characterised by apparatus used <b>G03D15/00</b>)",
+      "count": 1765,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C11/02": {
+      "code": "G03C11/02",
+      "level": 1,
+      "parent": "G03C11/00",
+      "ja": "標題のマーキング又は適用",
+      "en": "Marking or applying of text",
+      "count": 603,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C11/04": {
+      "code": "G03C11/04",
+      "level": 1,
+      "parent": "G03C11/00",
+      "ja": "手工修正",
+      "en": "Retouching",
+      "count": 130,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C11/06": {
+      "code": "G03C11/06",
+      "level": 1,
+      "parent": "G03C11/00",
+      "ja": "平滑化；改善；粗面化；つや消し；清掃；つや出し；難燃処理［５］",
+      "en": "Smoothing; Renovating; Roughening; Matting; Cleaning; Lubricating; Flame retardant treatments",
+      "count": 241,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C11/08": {
+      "code": "G03C11/08",
+      "level": 1,
+      "parent": "G03C11/00",
+      "ja": "ニス塗り，例．仕上がった写真プリントへの保護層の塗布［５］",
+      "en": "Varnishing, e.g. application of protective layers on finished photographic prints",
+      "count": 580,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C11/10": {
+      "code": "G03C11/10",
+      "level": 2,
+      "parent": "G03C11/08",
+      "ja": "紫外線から保護するためのもの",
+      "en": "for protection from ultraviolet light",
+      "count": 101,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C11/12": {
+      "code": "G03C11/12",
+      "level": 1,
+      "parent": "G03C11/00",
+      "ja": "写真層そのままの剥離又は移替え",
+      "en": "Stripping or transferring intact photographic layers",
+      "count": 346,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C11/14": {
+      "code": "G03C11/14",
+      "level": 1,
+      "parent": "G03C11/00",
+      "ja": "糊づけ；マウンティング",
+      "en": "Pasting; Mounting",
+      "count": 374,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C11/16": {
+      "code": "G03C11/16",
+      "level": 1,
+      "parent": "G03C11/00",
+      "ja": "乾燥",
+      "en": "Drying",
+      "count": 173,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C11/18": {
+      "code": "G03C11/18",
+      "level": 1,
+      "parent": "G03C11/00",
+      "ja": "着色",
+      "en": "Colouring",
+      "count": 143,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C11/20": {
+      "code": "G03C11/20",
+      "level": 2,
+      "parent": "G03C11/18",
+      "ja": "粉末又は固型着色剤によるもの",
+      "en": "with powdered or molten colours",
+      "count": 12,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C11/22": {
+      "code": "G03C11/22",
+      "level": 1,
+      "parent": "G03C11/00",
+      "ja": "非写真方法によるネガ作成のための板あるいはフィルムの製造",
+      "en": "Preparing plates or films for the manufacture of photographic negatives by non-photographic processes",
+      "count": 62,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    },
+    "G03C11/24": {
+      "code": "G03C11/24",
+      "level": 1,
+      "parent": "G03C11/00",
+      "ja": "不要の写真材料からの乳剤の除去；感光性物質の回収［５］",
+      "en": "Removing emulsion from waste photographic material; Recovery of photosensitive substances",
+      "count": 375,
+      "sourceFile": "ipc_G03C.txt",
+      "kind": "ipc"
+    }
+  }
+}

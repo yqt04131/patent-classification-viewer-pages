@@ -1,0 +1,66 @@
+{
+  "generatedAt": "2026-03-20T02:17:46.306Z",
+  "total": 6,
+  "entries": {
+    "B81C": {
+      "code": "B81C",
+      "level": 0,
+      "parent": "B81",
+      "ja": "マイクロ構造装置またはシステムの製造または処理に，特に適合した方法または装置（マイクロカプセルまたはマイクロバルーンの製造Ｂ０１Ｊ１３／０２；圧電素子，電歪素子，または磁歪素子自体の製造や処理に特に適した方法または装置Ｈ１０Ｎ３０／０１）［７］<br><br><b><ul>注</ul></b><br>注［７］<br>このサブクラスは，以下のものを包含しない：<br>・純粋に電気的または電子的装置の製造または処理のための方法または装置，これらはＨセクション，例えば，サブクラスＨ１０Ｐに分類する；<br>・単一の原子または分子の操作を行う方法または装置，これらはグループＢ８２Ｂ３／００に分類する。",
+      "en": "PROCESSES OR APPARATUS SPECIALLY ADAPTED FOR THE MANUFACTURE OR TREATMENT OF MICROSTRUCTURAL DEVICES OR SYSTEMS(making microcapsules or microballoons <b>B01J13/02</b>; processes or apparatus specially adapted for the manufacture or treatment of piezoelectric, electrostrictive or magnetostrictive elements <u>per se</u> <b>H10N30/01</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>This subclass <u>does not cover</u>:<ul><li>processes or apparatus for the manufacture or treatment of purely electrical or electronic devices, which are covered by section <b>H</b>, e.g. subclass <b>H10P</b>;</li><li>processes or apparatus involving the manipulation of single atoms or molecules, which are covered by group <b>B82B3/00</b>.</li></ul></li></ul>",
+      "count": 70,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B81": {
+      "code": "B81",
+      "level": 0,
+      "parent": "B",
+      "ja": "マイクロ構造技術［７］<br><br><b><ul>注</ul></b><br>注［７］<br>１．このクラスは，サイズがきわめて小さいことによって特徴付けられる，典型的には１０↑－↑４から１０↑－↑７ｍの範囲の，すなわち，少なくとも一次元において，その重要な特徴が光学顕微鏡を使わなければ完全には見分けられないような，必須の要素または構造を少なくとも一つ含む，マイクロ構造装置またはシステムを包含する。<br>２．このクラスでは，下記の表現は以下に示す意味で用いる。<br>・“マイクロ構造の装置”に含まれるのは：<br>ｉ．可動の，可撓性の，または変形可能な要素からなるマイクロマシン装置；および<br>ｉｉ．可動の，可撓性の，または変形可能な要素がなく，また，その構造がマイクロ電子装置と結合しているかどうか，または特定の物質で構成されているかどうかに関わらず，純粋な電子的または化学的機能ではなく，置かれた環境と相互作用するために必須の構造的機能を果たすように設計されたマイクロ構造からなる三次元構造物；<br>・“マイクロ構造システム”に含まれるのは：<br>ｉ．マイクロ構造装置と協同するシステム；および<br>ｉｉ．マイクロ電気機械システムまたはマイクロ光学機械システムであって，マイクロ構造装置の機能を，例えば，制御し，解析し，または信号化するために，電気的または化学的部品とマイクロ構造装置の特定部分とが共通の基層の上で結合しているもの。",
+      "en": "MICROSTRUCTURAL TECHNOLOGY; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This class <u>covers</u> microstructural devices or systems, including at least one essential element or formation characterised by its very small size, typically within the range of 10<sup>-4</sup> to 10<sup>-7</sup> meters, i.e. its significant features can not, in at least one dimension [1D], be completely discerned without the use of an optical microscope.</li><li>In this class, the following expressions are used with the meaning indicated: <ul><li>\"microstructural devices\" covers: <ul><li>micromechanical devices comprising movable, flexible or deformable elements; and</li><li>three-dimensional [3D] structures without movable, flexible or deformable elements, comprising microformations designed to accomplish an essential structural function for interacting with their environment, as opposed to purely electronic or chemical functions, regardless of whether the structures are combined with microelectronic devices or formed from specific materials;</li></ul></li><li>\"microstructural systems\" covers: <ul><li>systems of cooperating microstructural devices; and</li><li>microelectro-mechanical or microopto-mechanical systems, which combine on a common substrate the specific features of microstructural devices and electrical or optical components, e.g. for controlling, analysing or signalling the functioning of microstructural devices.</li></ul></li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B": {
+      "code": "B",
+      "level": 0,
+      "parent": null,
+      "ja": "処理操作；運輸",
+      "en": "PERFORMING OPERATIONS; TRANSPORTING",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B81C1/00": {
+      "code": "B81C1/00",
+      "level": 0,
+      "parent": "B81C",
+      "ja": "基層中または基層上での装置またはシステムの製造または処理（Ｂ８１Ｃ３／００が優先）［７］",
+      "en": "Manufacture or treatment of devices or systems in or on a substrate(<b>B81C3/00</b> takes precedence)",
+      "count": 23049,
+      "sourceFile": "ipc_B81C.txt",
+      "kind": "ipc"
+    },
+    "B81C3/00": {
+      "code": "B81C3/00",
+      "level": 0,
+      "parent": "B81C",
+      "ja": "個別に処理された構成部品からの，装置またはシステムの組立［７］",
+      "en": "Assembling of devices or systems from individually processed components",
+      "count": 4222,
+      "sourceFile": "ipc_B81C.txt",
+      "kind": "ipc"
+    },
+    "B81C99/00": {
+      "code": "B81C99/00",
+      "level": 0,
+      "parent": "B81C",
+      "ja": "このサブクラスの他のグループに分類されない主題事項［２０１０．０１］",
+      "en": "Subject matter not provided for in other groups of this subclass",
+      "count": 3251,
+      "sourceFile": "ipc_B81C.txt",
+      "kind": "ipc"
+    }
+  }
+}

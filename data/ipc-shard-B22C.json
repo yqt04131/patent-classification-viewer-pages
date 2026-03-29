@@ -1,0 +1,1166 @@
+{
+  "generatedAt": "2026-03-20T02:17:46.098Z",
+  "total": 116,
+  "entries": {
+    "B22C": {
+      "code": "B22C",
+      "level": 0,
+      "parent": "B22",
+      "ja": "鋳造用鋳型造型（耐火物の造型一般Ｂ２８Ｂ）<br><br><b><ul>注</ul></b><br>このサブクラスは，以下のものを包含する：<br>―金属の鋳造用鋳型またはその他の耐火性鋳型の製造；<br>―鋳型用材料の選択と調整；<br>―必要な原型，製造方法，機械，付属装置または工具<br><br><b><ul>サブクラス内の索引</ul></b><br>原型，その製作　７／００，３／００<br>鋳型，中子，一般的な造型方法；鋳型と中子の組立て　９／００；１／００，３／００<br>造型機械，造型機械を伴った方法　１１／００～１９／００<br>造型設備　２５／００<br>工具または他の装置　５／００，２１／００，２３／００",
+      "en": "FOUNDRY MOULDING(moulding refractory materials in general <b>B28B</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>This subclass <u>covers</u>:<ul><li>the making of moulds for casting metals or of other refractory moulds;</li><li>selection or preparation of materials therefor;</li><li>the necessary patterns, processes, machines, accessory devices or tools.</li></ul></li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">PATTERNS, MANUFACTURE THEREOF </td><td><b><b>7/00</b>, <b>3/00</b></b></td></tr></tr><tr><td width=\"70%\">MOULDS, CORES, GENERAL MOULDING PROCESSES; COMPOSITIONS FOR MOULDS AND CORES </td><td><b><b>9/00</b>; <b>1/00</b>, <b>3/00</b></b></td></tr></tr><tr><td width=\"70%\">MOULDING MACHINES, PROCESSES INVOLVING THESE MACHINES </td><td><b><b>11/00 to 19/00</b> </b></td></tr></tr><tr><td width=\"70%\">MOULDING PLANTS </td><td><b><b>25/00</b></b></td></tr></tr><tr><td width=\"70%\">TOOLS OR OTHER DEVICES </td><td><b><b>5/00</b>, <b>21/00</b>, <b>23/00</b></b></td></tr></tr></table>",
+      "count": 1132,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B22": {
+      "code": "B22",
+      "level": 0,
+      "parent": "B",
+      "ja": "鋳造；粉末冶金",
+      "en": "CASTING; POWDER METALLURGY",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B": {
+      "code": "B",
+      "level": 0,
+      "parent": null,
+      "ja": "処理操作；運輸",
+      "en": "PERFORMING OPERATIONS; TRANSPORTING",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B22C1/00": {
+      "code": "B22C1/00",
+      "level": 0,
+      "parent": "B22C",
+      "ja": "耐火性鋳型の組成物または中子材料；その粒子構成（耐火性物質一般Ｃ０４Ｂ３５／００）；鋳型成形または製作上の化学的または物理的特徴",
+      "en": "Compositions of refractory mould or core materials; Grain structures thereof(refractory materials in general <b>C04B35/00</b>);Chemical or physical features in the formation or manufacture of moulds",
+      "count": 4977,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C1/02": {
+      "code": "B22C1/02",
+      "level": 1,
+      "parent": "B22C1/00",
+      "ja": "特別な目的の添加剤を特徴とするもの，例．指示薬，崩壊用添加剤",
+      "en": "characterised by additives for special purposes, e.g. indicators, breakdown additives",
+      "count": 2825,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C1/04": {
+      "code": "B22C1/04",
+      "level": 2,
+      "parent": "B22C1/02",
+      "ja": "鋳造物を保護するもの，例．脱炭に対してのもの",
+      "en": "for protection of the casting, e.g. against decarbonisation",
+      "count": 163,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C1/06": {
+      "code": "B22C1/06",
+      "level": 3,
+      "parent": "B22C1/04",
+      "ja": "極端な酸化性の金属を鋳造するためのもの",
+      "en": "for casting extremely oxidisable metals",
+      "count": 115,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C1/08": {
+      "code": "B22C1/08",
+      "level": 2,
+      "parent": "B22C1/02",
+      "ja": "鋳型の収縮を減ずるためのもの，例．インベストメント鋳造用のもの",
+      "en": "for decreasing shrinkage of the mould, e.g. for investment casting",
+      "count": 547,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C1/10": {
+      "code": "B22C1/10",
+      "level": 2,
+      "parent": "B22C1/02",
+      "ja": "鋳型材料の硬化傾向に影響を及ぼすもの（粘結剤の硬化傾向のみに影響を及ぼすものＢ２２Ｃ１／１６）",
+      "en": "for influencing the hardening tendency of the mould material(influencing the hardening tendency of the binding agent only <b>B22C1/16</b>)",
+      "count": 1340,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C1/12": {
+      "code": "B22C1/12",
+      "level": 2,
+      "parent": "B22C1/02",
+      "ja": "永久鋳型または永久中子を製作するもの",
+      "en": "for manufacturing permanent moulds or cores",
+      "count": 195,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C1/14": {
+      "code": "B22C1/14",
+      "level": 2,
+      "parent": "B22C1/02",
+      "ja": "鋳型から原型を分離するためのもの",
+      "en": "for separating the pattern from the mould",
+      "count": 176,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C1/16": {
+      "code": "B22C1/16",
+      "level": 1,
+      "parent": "B22C1/00",
+      "ja": "粘結剤を用いることを特徴とするもの；粘結剤の混合物",
+      "en": "characterised by the use of binding agents; Mixtures of binding agents",
+      "count": 1890,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C1/18": {
+      "code": "B22C1/18",
+      "level": 2,
+      "parent": "B22C1/16",
+      "ja": "無機質のもの",
+      "en": "of inorganic agents",
+      "count": 2503,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C1/20": {
+      "code": "B22C1/20",
+      "level": 2,
+      "parent": "B22C1/16",
+      "ja": "有機質のもの",
+      "en": "of organic agents",
+      "count": 1092,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C1/22": {
+      "code": "B22C1/22",
+      "level": 3,
+      "parent": "B22C1/20",
+      "ja": "レジンまたはロジンからなるもの",
+      "en": "of resins or rosins",
+      "count": 4167,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C1/24": {
+      "code": "B22C1/24",
+      "level": 3,
+      "parent": "B22C1/20",
+      "ja": "油状または脂肪状のもの；それらの蒸溜残渣からなるもの",
+      "en": "of oily or fatty substances; of distillation residues therefrom",
+      "count": 283,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C1/26": {
+      "code": "B22C1/26",
+      "level": 3,
+      "parent": "B22C1/20",
+      "ja": "炭水化物からなるもの；それらの蒸溜残渣からなるもの",
+      "en": "of carbohydrates; of distillation residues therefrom",
+      "count": 369,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C3/00": {
+      "code": "B22C3/00",
+      "level": 0,
+      "parent": "B22C",
+      "ja": "鋳型，中子または原型の表面を被覆するための組成物の選別",
+      "en": "Selection of compositions for coating the surfaces of moulds, cores, or patterns",
+      "count": 7687,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C3/02": {
+      "code": "B22C3/02",
+      "level": 1,
+      "parent": "B22C3/00",
+      "ja": "特に減圧造型に適用されるもの［６］",
+      "en": "specially adapted for vacuum-sealed moulding",
+      "count": 57,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C5/00": {
+      "code": "B22C5/00",
+      "level": 0,
+      "parent": "B22C",
+      "ja": "鋳型造型の目的で特に適用される範囲で鋳型材料を調整または処理するために特別に設計された機械または装置（一般的に使用できるものは適切な箇所を参照，例．水硬性をもった物質のものＢ２８Ｃ）",
+      "en": "Machines or devices specially designed for dressing or handling the mould material so far as specially adapted for that purpose(of general applicability, <u>see</u> the relevant places, e.g. for material with water-setting properties <b>B28C</b>)",
+      "count": 2897,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C5/02": {
+      "code": "B22C5/02",
+      "level": 1,
+      "parent": "B22C5/00",
+      "ja": "必須または付加的な遠心作用により調整するもの",
+      "en": "Dressing by centrifuging essentially or additionally",
+      "count": 374,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C5/04": {
+      "code": "B22C5/04",
+      "level": 1,
+      "parent": "B22C5/00",
+      "ja": "粉砕，配合，混合，混捏または撹拌によるもの",
+      "en": "by grinding, blending, mixing, kneading, or stirring",
+      "count": 6535,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C5/06": {
+      "code": "B22C5/06",
+      "level": 1,
+      "parent": "B22C5/00",
+      "ja": "ふるいわけまたは磁気分離によるもの",
+      "en": "by sieving or magnetic separating",
+      "count": 3178,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C5/08": {
+      "code": "B22C5/08",
+      "level": 1,
+      "parent": "B22C5/00",
+      "ja": "散水，冷却または乾燥によるもの",
+      "en": "by sprinkling, cooling, or drying",
+      "count": 2606,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C5/10": {
+      "code": "B22C5/10",
+      "level": 1,
+      "parent": "B22C5/00",
+      "ja": "ダストの分離によるもの",
+      "en": "by dust separating",
+      "count": 720,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C5/12": {
+      "code": "B22C5/12",
+      "level": 1,
+      "parent": "B22C5/00",
+      "ja": "鋳枠を充すためのもの（型込めと組合わされたものＢ２２Ｃ１５／２０～Ｂ２２Ｃ１５／２８）",
+      "en": "for filling flasks(in combination with compacting <b>B22C15/20 to B22C15/28</b> )",
+      "count": 924,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C5/13": {
+      "code": "B22C5/13",
+      "level": 2,
+      "parent": "B22C5/12",
+      "ja": "減圧造型中に鋳枠を充すためのもの",
+      "en": "during vacuum-sealed moulding",
+      "count": 29,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C5/14": {
+      "code": "B22C5/14",
+      "level": 1,
+      "parent": "B22C5/00",
+      "ja": "調整された鋳型材料を貯蔵もしくは処理するための設備であって，このような材料を準備するためのプラントの一部を形成するもの",
+      "en": "Equipment for storing or handling the dressed mould material, forming part of a plant for preparing such material",
+      "count": 368,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C5/16": {
+      "code": "B22C5/16",
+      "level": 2,
+      "parent": "B22C5/14",
+      "ja": "材料を供給するためのコンベヤーまたはその他の装置をもったもの",
+      "en": "with conveyors or other equipment for feeding the material",
+      "count": 1186,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C5/18": {
+      "code": "B22C5/18",
+      "level": 1,
+      "parent": "B22C5/00",
+      "ja": "鋳型材料を準備するための設備",
+      "en": "Plants for preparing mould materials",
+      "count": 636,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C7/00": {
+      "code": "B22C7/00",
+      "level": 0,
+      "parent": "B22C",
+      "ja": "原型；他のクラスに分類されない範囲においてその製作",
+      "en": "Patterns; Manufacture thereof so far as not provided for in other classes",
+      "count": 2979,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C7/02": {
+      "code": "B22C7/02",
+      "level": 1,
+      "parent": "B22C7/00",
+      "ja": "消失性原型",
+      "en": "Lost patterns",
+      "count": 8559,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C7/04": {
+      "code": "B22C7/04",
+      "level": 1,
+      "parent": "B22C7/00",
+      "ja": "パターンプレート",
+      "en": "Pattern plates",
+      "count": 754,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C7/05": {
+      "code": "B22C7/05",
+      "level": 2,
+      "parent": "B22C7/04",
+      "ja": "減圧造型鋳型［６］",
+      "en": "for vacuum-sealed moulding",
+      "count": 26,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C7/06": {
+      "code": "B22C7/06",
+      "level": 1,
+      "parent": "B22C7/00",
+      "ja": "中子取り",
+      "en": "Core boxes",
+      "count": 2348,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C9/00": {
+      "code": "B22C9/00",
+      "level": 0,
+      "parent": "B22C",
+      "ja": "鋳型または中子（特殊な鋳造方法に特に適用されるものＢ２２Ｄ）；それらの製造方法［２００６．０１］",
+      "en": "Moulds or cores(uniquely adapted to particular casting processes <b>B22D</b>);Moulding processes",
+      "count": 5481,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C9/02": {
+      "code": "B22C9/02",
+      "level": 1,
+      "parent": "B22C9/00",
+      "ja": "形状体鋳造品用砂型または類似の鋳型",
+      "en": "Sand moulds or like moulds for shaped castings",
+      "count": 11676,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C9/03": {
+      "code": "B22C9/03",
+      "level": 2,
+      "parent": "B22C9/02",
+      "ja": "減圧造形により形成されるもの［６］",
+      "en": "formed by vacuum-sealed moulding",
+      "count": 1761,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C9/04": {
+      "code": "B22C9/04",
+      "level": 2,
+      "parent": "B22C9/02",
+      "ja": "消失性原型の使用",
+      "en": "Use of lost patterns",
+      "count": 12685,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C9/06": {
+      "code": "B22C9/06",
+      "level": 1,
+      "parent": "B22C9/00",
+      "ja": "形状体鋳造品用永久鋳型（インゴット用鋳型Ｂ２２Ｄ７／０６）",
+      "en": "Permanent moulds for shaped castings(moulds for ingots <b>B22D7/06</b>)",
+      "count": 12462,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C9/08": {
+      "code": "B22C9/08",
+      "level": 1,
+      "parent": "B22C9/00",
+      "ja": "溶融金属の供給に関する特徴，例．湯道，車堰またはカス漉し",
+      "en": "Features with respect to supply of molten metal, e.g. ingates, circular gates, skim gates",
+      "count": 14155,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C9/10": {
+      "code": "B22C9/10",
+      "level": 1,
+      "parent": "B22C9/00",
+      "ja": "中子；中子の製造または取付け",
+      "en": "Cores; Manufacture or installation of cores",
+      "count": 13056,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C9/11": {
+      "code": "B22C9/11",
+      "level": 2,
+      "parent": "B22C9/10",
+      "ja": "減圧造型鋳型用［６］",
+      "en": "for vacuum-sealed moulding",
+      "count": 35,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C9/12": {
+      "code": "B22C9/12",
+      "level": 1,
+      "parent": "B22C9/00",
+      "ja": "鋳型または中子の処理，例．乾燥，硬化",
+      "en": "Treating moulds or cores, e.g. drying, hardening",
+      "count": 4310,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C9/14": {
+      "code": "B22C9/14",
+      "level": 2,
+      "parent": "B22C9/12",
+      "ja": "鋳型または中子を乾燥するために特に適用される装置または設備（Ｂ２２Ｃ１３／０８が優先）",
+      "en": "Equipment or plant specially adapted for drying moulds or cores(<b>B22C13/08</b> takes precedence)",
+      "count": 860,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C9/16": {
+      "code": "B22C9/16",
+      "level": 3,
+      "parent": "B22C9/14",
+      "ja": "可動乾燥装置",
+      "en": "Movable drying equipment",
+      "count": 127,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C9/18": {
+      "code": "B22C9/18",
+      "level": 1,
+      "parent": "B22C9/00",
+      "ja": "仕上げ",
+      "en": "Finishing",
+      "count": 607,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C9/20": {
+      "code": "B22C9/20",
+      "level": 1,
+      "parent": "B22C9/00",
+      "ja": "重ね鋳型，すなわち多数の鋳型または鋳枠の配列",
+      "en": "Stack moulds, i.e. arrangement of multiple moulds or flasks",
+      "count": 2342,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C9/22": {
+      "code": "B22C9/22",
+      "level": 1,
+      "parent": "B22C9/00",
+      "ja": "特殊形状体鋳物用鋳型",
+      "en": "Moulds for peculiarly-shaped castings",
+      "count": 12159,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C9/24": {
+      "code": "B22C9/24",
+      "level": 2,
+      "parent": "B22C9/22",
+      "ja": "中空物品用のもの",
+      "en": "for hollow articles",
+      "count": 6466,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C9/26": {
+      "code": "B22C9/26",
+      "level": 3,
+      "parent": "B22C9/24",
+      "ja": "肋材を備えた管用のもの；ラジエーター用のもの",
+      "en": "for ribbed tubes; for radiators",
+      "count": 281,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C9/28": {
+      "code": "B22C9/28",
+      "level": 2,
+      "parent": "B22C9/22",
+      "ja": "車輪，ロール，またはローラー用のもの",
+      "en": "for wheels, rolls, or rollers",
+      "count": 2931,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C9/30": {
+      "code": "B22C9/30",
+      "level": 2,
+      "parent": "B22C9/22",
+      "ja": "鎖用のもの",
+      "en": "for chains",
+      "count": 108,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C11/00": {
+      "code": "B22C11/00",
+      "level": 0,
+      "parent": "B22C",
+      "ja": "モールドまたはコアの製造用の造型機械でその部品の相互配置を特徴とするもの",
+      "en": "Moulding machines for making moulds or cores, characterised by the relative arrangement of their parts",
+      "count": 984,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C11/02": {
+      "code": "B22C11/02",
+      "level": 1,
+      "parent": "B22C11/00",
+      "ja": "一サイクルの継続した作業の間に鋳型がその中で移動させられる機械",
+      "en": "Machines in which the moulds are moved during a cycle of successive operations",
+      "count": 150,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C11/04": {
+      "code": "B22C11/04",
+      "level": 2,
+      "parent": "B22C11/02",
+      "ja": "水平回転台または輸送体によるもの",
+      "en": "by a horizontal rotary table or carrier",
+      "count": 284,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C11/06": {
+      "code": "B22C11/06",
+      "level": 2,
+      "parent": "B22C11/02",
+      "ja": "垂直回転輸送体によるもの",
+      "en": "by a vertical rotary carrier",
+      "count": 34,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C11/08": {
+      "code": "B22C11/08",
+      "level": 2,
+      "parent": "B22C11/02",
+      "ja": "非回転輸送体によるもの，例．移動台によるもの",
+      "en": "by non-rotary conveying means, e.g. by travelling platforms",
+      "count": 111,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C11/10": {
+      "code": "B22C11/10",
+      "level": 1,
+      "parent": "B22C11/00",
+      "ja": "造型機械の一部を構成する１つまたはそれ以上の鋳枠をもち，型込めされた砂型のみが造型機械から取り除かれるもの",
+      "en": "with one or more flasks forming part of the machine, from which only the sand moulds made by compacting are removed",
+      "count": 586,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C11/12": {
+      "code": "B22C11/12",
+      "level": 1,
+      "parent": "B22C11/00",
+      "ja": "移動可能な造型機械",
+      "en": "Moulding machines able to travel",
+      "count": 55,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C13/00": {
+      "code": "B22C13/00",
+      "level": 0,
+      "parent": "B22C",
+      "ja": "独特な形状の鋳型または中子製作用造型機械",
+      "en": "Moulding machines for making moulds or cores of particular shapes",
+      "count": 190,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C13/02": {
+      "code": "B22C13/02",
+      "level": 1,
+      "parent": "B22C13/00",
+      "ja": "型板を備えたもの，例．砂型を掻いていく操作のためのもの",
+      "en": "equipped with templates, e.g. for sweeping operation",
+      "count": 103,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C13/04": {
+      "code": "B22C13/04",
+      "level": 2,
+      "parent": "B22C13/02",
+      "ja": "回転型板を備えたもの，例．支柱にとりつけたもの",
+      "en": "with rotary templates, e.g. arranged on a pillar",
+      "count": 67,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C13/06": {
+      "code": "B22C13/06",
+      "level": 2,
+      "parent": "B22C13/02",
+      "ja": "回転しない型板と回転する鋳枠とをもったもの",
+      "en": "with non-rotary template and rotary flask",
+      "count": 13,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C13/08": {
+      "code": "B22C13/08",
+      "level": 1,
+      "parent": "B22C13/00",
+      "ja": "シエル鋳型またはシエル中子",
+      "en": "for shell moulds or shell cores",
+      "count": 2014,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C13/10": {
+      "code": "B22C13/10",
+      "level": 1,
+      "parent": "B22C13/00",
+      "ja": "管状体または細長の中空物体用のもの",
+      "en": "for pipes or elongated hollow articles",
+      "count": 192,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C13/12": {
+      "code": "B22C13/12",
+      "level": 1,
+      "parent": "B22C13/00",
+      "ja": "中子用のもの",
+      "en": "for cores",
+      "count": 738,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C13/14": {
+      "code": "B22C13/14",
+      "level": 2,
+      "parent": "B22C13/12",
+      "ja": "掻くこと，または回転すること，または被覆することによるもの",
+      "en": "by sweeping, turning, or coating",
+      "count": 46,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C13/16": {
+      "code": "B22C13/16",
+      "level": 2,
+      "parent": "B22C13/12",
+      "ja": "型への圧縮によるもの",
+      "en": "by pressing through a die",
+      "count": 79,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C15/00": {
+      "code": "B22C15/00",
+      "level": 0,
+      "parent": "B22C",
+      "ja": "鋳型または中子の製造用の造型機械で型込め機械を特徴とする造型機械；その付属品",
+      "en": "Moulding machines for making moulds or cores, characterised by the compacting mechanism; Accessories therefor",
+      "count": 539,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C15/02": {
+      "code": "B22C15/02",
+      "level": 1,
+      "parent": "B22C15/00",
+      "ja": "圧縮装置のみで型込めするもの",
+      "en": "Compacting by pressing devices only",
+      "count": 971,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C15/04": {
+      "code": "B22C15/04",
+      "level": 2,
+      "parent": "B22C15/02",
+      "ja": "腕力を伴うもの，例．手動操作されるレバー",
+      "en": "involving muscle power, e.g. hand-operated levers",
+      "count": 96,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C15/06": {
+      "code": "B22C15/06",
+      "level": 2,
+      "parent": "B22C15/02",
+      "ja": "機械的伝動装置を伴うもの，例．クランクギヤー（Ｂ２２Ｃ１５／０４が優先）",
+      "en": "involving mechanical gearings, e.g. crank gears(<b>B22C15/04</b> takes precedence)",
+      "count": 201,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C15/08": {
+      "code": "B22C15/08",
+      "level": 2,
+      "parent": "B22C15/02",
+      "ja": "空気圧または水圧機構を伴うもの",
+      "en": "involving pneumatic or hydraulic mechanisms",
+      "count": 880,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C15/10": {
+      "code": "B22C15/10",
+      "level": 1,
+      "parent": "B22C15/00",
+      "ja": "振動装置のみで型込めするもの",
+      "en": "Compacting by jarring devices only",
+      "count": 1162,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C15/12": {
+      "code": "B22C15/12",
+      "level": 2,
+      "parent": "B22C15/10",
+      "ja": "機械的伝導装置を伴うもの",
+      "en": "involving mechanical gearings",
+      "count": 371,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C15/14": {
+      "code": "B22C15/14",
+      "level": 2,
+      "parent": "B22C15/10",
+      "ja": "空気圧または水圧機構を伴うもの",
+      "en": "involving pneumatic or hydraulic mechanisms",
+      "count": 187,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C15/16": {
+      "code": "B22C15/16",
+      "level": 3,
+      "parent": "B22C15/14",
+      "ja": "造型機の枠に対する衝撃を減ずるために特別な仕掛けをもっている造型機",
+      "en": "the machine having special provision for reducing shock to its frame",
+      "count": 38,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C15/18": {
+      "code": "B22C15/18",
+      "level": 4,
+      "parent": "B22C15/16",
+      "ja": "別個の衝撃吸収手段によるもの",
+      "en": "by means of separate shock-absorbers",
+      "count": 20,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C15/20": {
+      "code": "B22C15/20",
+      "level": 1,
+      "parent": "B22C15/00",
+      "ja": "遠心力のみにより型込めするもの，例．サンドスリンガー",
+      "en": "Compacting by centrifugal forces only, e.g. in sand slingers",
+      "count": 412,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C15/23": {
+      "code": "B22C15/23",
+      "level": 1,
+      "parent": "B22C15/00",
+      "ja": "ガス圧力または減圧により型込めするもの［６］",
+      "en": "Compacting by gas pressure or vacuum",
+      "count": 831,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C15/24": {
+      "code": "B22C15/24",
+      "level": 2,
+      "parent": "B22C15/23",
+      "ja": "その装置に鋳型材料がぼろぼろの粒子の形で供給される吹込装置を伴うもの",
+      "en": "involving blowing devices in which the mould material is supplied in the form of loose particles",
+      "count": 4043,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C15/26": {
+      "code": "B22C15/26",
+      "level": 2,
+      "parent": "B22C15/23",
+      "ja": "その装置に鋳型材料が型込めされた柱状または類似の形で供給される推進装置を伴うもの",
+      "en": "involving propulsion devices in which the mould material is supplied in the shape of a compacted column or the like",
+      "count": 82,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C15/264": {
+      "code": "B22C15/264",
+      "level": 2,
+      "parent": "B22C15/23",
+      "ja": "鋳型材料の充填後に型込めするもの［６］",
+      "en": "Compacting after charge of the mould material",
+      "count": 45,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C15/268": {
+      "code": "B22C15/268",
+      "level": 3,
+      "parent": "B22C15/264",
+      "ja": "爆発燃焼を伴うもの［６］",
+      "en": "involving explosive combustion",
+      "count": 16,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C15/272": {
+      "code": "B22C15/272",
+      "level": 3,
+      "parent": "B22C15/264",
+      "ja": "圧縮ガスの貯蔵を伴うもの［６］",
+      "en": "involving the storage of gas under pressure",
+      "count": 164,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C15/276": {
+      "code": "B22C15/276",
+      "level": 3,
+      "parent": "B22C15/264",
+      "ja": "減圧によるもの，例．減圧造型方法［６］",
+      "en": "by vacuum, e.g. vacuum-sealed moulding processes",
+      "count": 70,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C15/28": {
+      "code": "B22C15/28",
+      "level": 1,
+      "parent": "B22C15/00",
+      "ja": "相異なる手段を同時にまたは順次使用することによって型込めするもの，例．最初に吹込みをし，最後に圧縮をするもの",
+      "en": "Compacting by different means acting simultaneously or successively, e.g. preliminary blowing and finally pressing",
+      "count": 930,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C15/30": {
+      "code": "B22C15/30",
+      "level": 2,
+      "parent": "B22C15/28",
+      "ja": "圧縮と振動の両方の装置によるもの",
+      "en": "by both pressing and jarring devices",
+      "count": 551,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C15/32": {
+      "code": "B22C15/32",
+      "level": 3,
+      "parent": "B22C15/30",
+      "ja": "機械的伝動装置のみを伴うもの",
+      "en": "involving mechanical gearing only",
+      "count": 39,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C15/34": {
+      "code": "B22C15/34",
+      "level": 3,
+      "parent": "B22C15/30",
+      "ja": "空気圧または水圧機構のみを伴うもの",
+      "en": "involving pneumatic or hydraulic mechanisms only",
+      "count": 84,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C17/00": {
+      "code": "B22C17/00",
+      "level": 0,
+      "parent": "B22C",
+      "ja": "モールドまたはコアの製造用の造型機械で鋳型から原型を分離するため，または鋳枠またはパターン・プレートを反転するための機構を特徴とする造型機械",
+      "en": "Moulding machines for making moulds or cores, characterised by the mechanism for separating the pattern from the mould or for turning over the flask or the pattern plate",
+      "count": 794,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C17/02": {
+      "code": "B22C17/02",
+      "level": 1,
+      "parent": "B22C17/00",
+      "ja": "組合わさったものを持ち揚げるピンをもった造型機械",
+      "en": "Moulding machines with pin lifting arrangement",
+      "count": 357,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C17/04": {
+      "code": "B22C17/04",
+      "level": 1,
+      "parent": "B22C17/00",
+      "ja": "ドロップ・プレート造型機械",
+      "en": "Drop-plate moulding machines",
+      "count": 36,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C17/06": {
+      "code": "B22C17/06",
+      "level": 1,
+      "parent": "B22C17/00",
+      "ja": "ストリッピング・プレートを用いた造型機械；ストリッピング・プレート",
+      "en": "Moulding machines using stripping plates; Stripping plates",
+      "count": 126,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C17/08": {
+      "code": "B22C17/08",
+      "level": 1,
+      "parent": "B22C17/00",
+      "ja": "水平軸のまわりにパターン・プレートまたは鋳型を回転させる機構をもった造型",
+      "en": "Moulding machines with mechanisms to turn over the pattern plate or the mould around a horizontal axis",
+      "count": 133,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C17/10": {
+      "code": "B22C17/10",
+      "level": 2,
+      "parent": "B22C17/08",
+      "ja": "パターン・プレートと鋳枠のみ反転するもの（Ｂ２２Ｃ１７／１４が優先）",
+      "en": "Turning-over pattern plate and flask only(<b>B22C17/14</b> takes precedence)",
+      "count": 386,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C17/12": {
+      "code": "B22C17/12",
+      "level": 2,
+      "parent": "B22C17/08",
+      "ja": "パターン・プレートと鋳枠と型込め装置を一体にして反転するもの（Ｂ２２Ｃ１７／１４が優先）",
+      "en": "Turning-over pattern plate, flask, and compacting device as a unit(<b>B22C17/14</b> takes precedence)",
+      "count": 62,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C17/14": {
+      "code": "B22C17/14",
+      "level": 2,
+      "parent": "B22C17/08",
+      "ja": "鋳型台の一方に取付けられたもので，いわゆる反転台造型機",
+      "en": "arranged to one side of the mould table, so-called roll-over table moulding machines",
+      "count": 36,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C19/00": {
+      "code": "B22C19/00",
+      "level": 0,
+      "parent": "B22C",
+      "ja": "鋳型または中子の製造用の造型機械の構成要素または附属品",
+      "en": "Components or accessories for moulding machines for making moulds or cores",
+      "count": 2691,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C19/01": {
+      "code": "B22C19/01",
+      "level": 1,
+      "parent": "B22C19/00",
+      "ja": "塗型密着用装置［６］",
+      "en": "Devices for applying sealing coating",
+      "count": 18,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C19/02": {
+      "code": "B22C19/02",
+      "level": 1,
+      "parent": "B22C19/00",
+      "ja": "鋳型台",
+      "en": "Mould tables",
+      "count": 348,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C19/04": {
+      "code": "B22C19/04",
+      "level": 1,
+      "parent": "B22C19/00",
+      "ja": "造型機械用に特別に設計されたコントロール装置",
+      "en": "Controlling devices specially designed for moulding machines",
+      "count": 726,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C19/06": {
+      "code": "B22C19/06",
+      "level": 1,
+      "parent": "B22C19/00",
+      "ja": "型抜または原型をゆるめるための装置",
+      "en": "Devices for rapping or loosening the pattern",
+      "count": 307,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C21/00": {
+      "code": "B22C21/00",
+      "level": 0,
+      "parent": "B22C",
+      "ja": "鋳枠；その附属品（ストリッピング・プレートＢ２２Ｃ１７／０６）",
+      "en": "Flasks; Accessories therefor(stripping plates <b>B22C17/06</b>)",
+      "count": 1734,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C21/01": {
+      "code": "B22C21/01",
+      "level": 1,
+      "parent": "B22C21/00",
+      "ja": "減圧造型鋳型用［６］",
+      "en": "for vacuum-sealed moulding",
+      "count": 506,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C21/02": {
+      "code": "B22C21/02",
+      "level": 1,
+      "parent": "B22C21/00",
+      "ja": "組合せ鋳枠，すなわち，分割されているか，蝶番でつながれているか，または交替が可能である側面部分をもったもの",
+      "en": "Sectional flasks, i.e. with divided, articulated, or interchangeable side sections",
+      "count": 933,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C21/04": {
+      "code": "B22C21/04",
+      "level": 1,
+      "parent": "B22C21/00",
+      "ja": "反転台枠；鋳込定盤または鋳型定盤（パターンプレートＢ２２Ｃ７／０４）",
+      "en": "Upset frames; Bottom boards or mould boards(pattern plates <b>B22C7/04</b>)",
+      "count": 289,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C21/06": {
+      "code": "B22C21/06",
+      "level": 2,
+      "parent": "B22C21/04",
+      "ja": "鋳込定盤または鋳型定盤",
+      "en": "Bottom boards or mould boards",
+      "count": 481,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C21/08": {
+      "code": "B22C21/08",
+      "level": 1,
+      "parent": "B22C21/00",
+      "ja": "クランプ装置",
+      "en": "Clamping equipment",
+      "count": 1055,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C21/10": {
+      "code": "B22C21/10",
+      "level": 1,
+      "parent": "B22C21/00",
+      "ja": "枠案内装置",
+      "en": "Guiding equipment",
+      "count": 878,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C21/12": {
+      "code": "B22C21/12",
+      "level": 1,
+      "parent": "B22C21/00",
+      "ja": "付属品",
+      "en": "Accessories",
+      "count": 1254,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C21/14": {
+      "code": "B22C21/14",
+      "level": 2,
+      "parent": "B22C21/12",
+      "ja": "鋳型材料または中子を補強または堅固にするためのもの，例．つり金，ケレン，さし金，心金",
+      "en": "for reinforcing or securing moulding materials or cores, e.g. gaggers, chaplets, pins, bars",
+      "count": 1501,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C23/00": {
+      "code": "B22C23/00",
+      "level": 0,
+      "parent": "B22C",
+      "ja": "工具；前述していない造型用装置",
+      "en": "Tools; Devices not mentioned before for moulding",
+      "count": 4037,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C23/02": {
+      "code": "B22C23/02",
+      "level": 1,
+      "parent": "B22C23/00",
+      "ja": "鋳型または中子被覆用装置",
+      "en": "Devices for coating moulds or cores",
+      "count": 3350,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    },
+    "B22C25/00": {
+      "code": "B22C25/00",
+      "level": 0,
+      "parent": "B22C",
+      "ja": "鋳型造型用プラント（鋳型材料の準備のためのものＢ２２Ｃ５／１８；鋳造プラントと組合わさったものＢ２２Ｄ４７／０２）",
+      "en": "Foundry moulding plants(for preparing mould materials <b>B22C5/18</b>; in combination with casting plants <b>B22D47/02</b>)",
+      "count": 895,
+      "sourceFile": "ipc_B22C.txt",
+      "kind": "ipc"
+    }
+  }
+}

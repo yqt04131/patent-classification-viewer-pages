@@ -1,0 +1,4056 @@
+{
+  "generatedAt": "2026-03-20T02:17:46.943Z",
+  "total": 405,
+  "entries": {
+    "F41A": {
+      "code": "F41A",
+      "level": 0,
+      "parent": "F41",
+      "ja": "小火器と砲，例．大砲；に共通の機能的特徴または細部；小火器架または砲架［５］<br><br><b><ul>注</ul></b><br>（１）このサブクラスは小火器および砲の両方に一般に適用しうる形式であると考えられる，または共通する固有の機能に関係すると考えられる特徴または細部を包含する。［５］<br>（２）このような特徴または細部は，たとえそれらが小火器にのみまたは砲にのみ適用されると述べていても，このサブクラスに分類される。［５］<br>（３）クラスＦ４１のタイトルの後の注（２）に記載されている定義に注意すること。［５］<br><br><b><ul>サブクラス内の索引</ul></b><br>推進の形式　１／００<br>銃尾栓機構　３／００<br>閉鎖解放機構　５／００<br>銃の再装てん，外部に動力を備えた銃　７／００<br>給弾または装てん，弾倉　９／００<br>組み立ての特徴，モジュールの概念，連結式または折りたたみ式銃　１１／００<br>冷却，加熱，換気，吹出し　１３／００<br>抽筒子，蹴子　１５／００<br>安全装置　１７／００<br>発射または引金機構，撃鉄起こし　１９／００<br>砲身，銃身，銃砲口取付具　２１／００<br>砲架，例．車両上　２３／００<br>後座できるもの　２５／００<br>俯仰または旋回できるもの　２７／００<br>清掃または潤滑　２９／００<br>試験　３１／００<br>訓練への適用　３３／００<br>その他の付属具または細部　３５／００<br>このサブクラスの他のグループに分類されない主題事項　９９／００",
+      "en": "FUNCTIONAL FEATURES OR DETAILS COMMON TO BOTH SMALLARMS AND ORDNANCE, e.g. CANNONS; MOUNTINGS FOR SMALLARMS OR ORDNANCE; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This subclass <u>covers</u> those features or details which are considered to be of a kind generally applicable to, or to be concerned with intrinsic functions common to, both smallarms and ordnance.</li><li>Such features or details are classified in this subclass, even if they are stated to be applied only to smallarms or only to ordnance.</li><li>Attention is drawn to the definitions given in Note (2) following the title of class <b>F41</b>.</li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">KINDS OF PROPULSION </td><td><b><b>1/00</b></b></td></tr></tr><tr><td width=\"70%\">BREECH MECHANISMS </td><td><b><b>3/00</b></b></td></tr></tr><tr><td width=\"70%\">UNLOCKING MECHANISMS </td><td><b><b>5/00</b></b></td></tr></tr><tr><td width=\"70%\">GUN RECHARGERS, EXTERNALLY POWERED GUNS </td><td><b><b>7/00</b></b></td></tr></tr><tr><td width=\"70%\">FEEDING OR LOADING, MAGAZINES </td><td><b><b>9/00</b></b></td></tr></tr><tr><td width=\"70%\">ASSEMBLY FEATURES, MODULAR CONCEPTS, ARTICULATED OR COLLAPSIBLE GUNS </td><td><b><b>11/00</b></b></td></tr></tr><tr><td width=\"70%\">COOLING, HEATING, VENTILATING, BLOWING TROUGH </td><td><b><b>13/00</b></b></td></tr></tr><tr><td width=\"70%\">EXTRACTORS, EJECTORS </td><td><b><b>15/00</b></b></td></tr></tr><tr><td width=\"70%\">SAFETY ARRANGEMENTS </td><td><b><b>17/00</b></b></td></tr></tr><tr><td width=\"70%\">FIRING OR TRIGGER MECHANISMS, COCKING </td><td><b><b>19/00</b></b></td></tr></tr><tr><td width=\"70%\">BARRELS, GUN TUBES, MUZZLE ATTACHMENTS </td><td><b><b>21/00</b></b></td></tr></tr><tr><td width=\"70%\">GUN MOUNTINGS, e.g. on vehicles </td><td><b><b>23/00</b></b></td></tr><tr><td width=\"70%\">Permitting recoil </td><td><b><b>25/00</b></b></td></tr></tr><tr><td width=\"70%\">Permitting elevation or traversing </td><td><b><b>27/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">CLEANING OR LUBRICATING </td><td><b><b>29/00</b></b></td></tr></tr><tr><td width=\"70%\">TESTING </td><td><b><b>31/00</b></b></td></tr></tr><tr><td width=\"70%\">ADAPTATIONS FOR TRAINING </td><td><b><b>33/00</b></b></td></tr></tr><tr><td width=\"70%\">OTHER ACCESSORIES OR DETAILS </td><td><b><b>35/00</b></b></td></tr></tr><tr><td width=\"70%\">SUBJECT MATTER NOT PROVIDED FOR IN OTHER GROUPS OF THIS SUBCLASS </td><td><b><b>99/00</b></b></td></tr></tr></table>",
+      "count": 552,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F41": {
+      "code": "F41",
+      "level": 0,
+      "parent": "F",
+      "ja": "武器<br><br><b><ul>注</ul></b><br>（１）シミュレータは一般にクラスＧ０９に包含されるが，このクラスはシミュレーションの特徴を有する，例．いわゆる“机上軍事演習”用の装置におけるような，演習および訓練のための装置も包含する。［４］<br>（２）このクラスにおいては，下記の用語または表現は以下に示す意味で用いる：<br>―“小火器”は一般に発射のため片手または両手で保持される火器を意味するが，この用語は発射中三脚台または類似物上に支持される軽機関銃も含む；［５］<br>―“銃”は飛しょう体を発射するための砲身および引金または発射機構をもつすべての武器を意味する；それは砲または小火器の一部でありうる。それは燃焼性または爆発性推進装薬，空気圧，電磁気または他の推進力を使用しうる；［５］<br>―“リボルバ型銃”は，薬室として継続的に使用される回転するドラム型の弾倉を有する銃を意味する；［５］<br>―“リボルバ”はリボルバ型銃を意味する。［５］<br>―“半自動火器”は，引金が作動して弾丸が発射されると，次の弾丸が発射できるように，引金が再び作動状態になる火器を意味する；<br>―“自動火器”は最初の発射圧力が引金にかかっている間は発射を続ける火器を意味する；<br>―“照準”は，いわゆる“照準”器によって定められた方向と目標の方向とを視覚的に一致させることを意味する；<br>―“照準合わせ”は発射体が目標に命中するように，武器の照準方向を修正することを意味する；<br>―“照準する”とは目標に命中するように武器を正しい位置に定めることを意味する。<br>（３）クラスＦ４２のタイトルの後の注（２）に記載されている“発射体”，“飛しょう体”，および“ロケット”の定義に注意すること。［４］",
+      "en": "WEAPONS; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This class <u>covers</u> also means for practice and training which may have aspects of simulation, e.g. in apparatus for so-called \"military games\", although simulators are generally covered by class <b>G09</b>. </li><li>In this class, the following terms or expressions are used with the meanings indicated:<ul><li>\"smallarm\" means a firearm which is generally held with one or both hands for firing, but this term also includes a light machine-gun which may be supported on a tripod or the like during firing; </li><li>\"gun\" means any weapon having a barrel and a trigger or firing mechanism for projecting a missile; it may be a piece of ordnance or a smallarm. It may use combustible or explosive propellant charges, air pressure, electromagnetism or other propulsive forces; </li><li>\"revolver-type gun\" means a gun having a revolving drum magazine, the chambers of which are used successively as firing chamber; </li><li>\"revolver\" means a revolver-type pistol; </li><li>\"semi-automatic firearm\" means a firearm from which one shot is fired after actuation of the trigger and which then returns to a condition for firing a subsequent shot upon renewed actuation of the trigger;</li><li>\"automatic firearm\" means a firearm which will continue firing so long as the initial firing pressure is maintained on the trigger;</li><li>\"sighting\" means bringing into visual coincidence a direction defined by a so-called \"sighting\" device with the direction of a target;</li><li>\"aiming\" means bringing a weapon to a direction differing from the sighting direction by corrections in order that the projectile may hit the target;</li><li>\"laying\" means setting a weapon in the correct position for hitting a target.</li></ul></li><li>Attention is drawn to the definitions of \"projectile\", \"missile\" and \"rocket\" given in Note (2) following the title of class <b>F42</b>. </li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F": {
+      "code": "F",
+      "level": 0,
+      "parent": null,
+      "ja": "機械工学；照明；加熱；武器；爆破",
+      "en": "MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F41A1/00": {
+      "code": "F41A1/00",
+      "level": 0,
+      "parent": "F41A",
+      "ja": "爆発性または燃焼性の推進装薬の使用に特徴のある飛しょう体の推進（爆発性または燃焼性の推進装薬を使用しない飛しょう体の発射Ｆ４１Ｂ；ロケットまたは魚雷の発射Ｆ４１Ｆ３／００；飛しょう体の噴進Ｆ４２Ｂ１５／００）［５］",
+      "en": "Missile propulsion characterised by the use of explosive or combustible propellant charges(projecting missiles without use of explosive or combustible propellant charge <b>F41B</b>; launching rockets or torpedoes <b>F41F3/00</b>; missile self-propulsion <b>F42B15/00</b>)",
+      "count": 208,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A1/02": {
+      "code": "F41A1/02",
+      "level": 1,
+      "parent": "F41A1/00",
+      "ja": "推進力増加のため継続的手段を用いる超高速飛しょう体の推進，例．砲身の長さ方向に沿って配置された最初の推進装薬を継続的に用いるもの；飛しょう体の多段階推進［５］",
+      "en": "Hypervelocity missile propulsion using successive means for increasing the propulsive force, e.g. using successively initiated propellant charges arranged along the barrel length; Multistage missile propulsion",
+      "count": 121,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A1/04": {
+      "code": "F41A1/04",
+      "level": 1,
+      "parent": "F41A1/00",
+      "ja": "液体またはガス状燃料，例．混合発火性燃料，の燃焼を用いる飛しょう体推進［５］",
+      "en": "Missile propulsion using the combustion of a liquid or gaseous fuel, e.g. hypergolic fuel",
+      "count": 514,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A1/06": {
+      "code": "F41A1/06",
+      "level": 1,
+      "parent": "F41A1/00",
+      "ja": "俯仰角または装薬の諸元を変えないで射程を調整するもの，例．推進装薬ガスの一部の通気によるもの，または薬包または燃焼室の容量の調整によるもの［５］",
+      "en": "Adjusting the range without varying elevation angle or propellant charge data, e.g. by venting a part of the propulsive charge gases, or by adjusting the capacity of the cartridge or combustion chamber",
+      "count": 103,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A1/08": {
+      "code": "F41A1/08",
+      "level": 1,
+      "parent": "F41A1/00",
+      "ja": "無反動銃，すなわち後座しない推進手段を有する銃砲［５］",
+      "en": "Recoilless guns, i.e. guns having propulsion means producing no recoil",
+      "count": 363,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A1/10": {
+      "code": "F41A1/10",
+      "level": 2,
+      "parent": "F41A1/08",
+      "ja": "反動を平衡させるために用いられる対抗発射体［５］",
+      "en": "a counter projectile being used to balance recoil",
+      "count": 140,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A3/00": {
+      "code": "F41A3/00",
+      "level": 0,
+      "parent": "F41A",
+      "ja": "銃尾栓機構，例．ロック装置［５］",
+      "en": "Breech mechanism, e.g. locks",
+      "count": 595,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A3/02": {
+      "code": "F41A3/02",
+      "level": 1,
+      "parent": "F41A3/00",
+      "ja": "閉鎖動作，すなわち主尾栓の開口運動が砲身軸を横断するもの［５］",
+      "en": "Block action, i.e. the main breech opening movement being transverse to the barrel axis",
+      "count": 84,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A3/04": {
+      "code": "F41A3/04",
+      "level": 2,
+      "parent": "F41A3/02",
+      "ja": "軸まわりに回転する尾栓閉鎖機構を有するもの［５］",
+      "en": "with pivoting breech-block",
+      "count": 171,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A3/06": {
+      "code": "F41A3/06",
+      "level": 3,
+      "parent": "F41A3/04",
+      "ja": "閉鎖機構の後方で銃砲身軸を横断する水平軸のまわりに回転するもの（Ｆ４１Ａ３／０８が優先）［５］",
+      "en": "about a horizontal axis transverse to the barrel axis at the rear of the block(<b>F41A3/08</b> takes precedence)",
+      "count": 57,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A3/08": {
+      "code": "F41A3/08",
+      "level": 3,
+      "parent": "F41A3/04",
+      "ja": "回転可能に取り付けられたねじ山状または部分ねじ山状の閉塞栓を備えているもの（Ｆ４１Ａ３／３０が優先）［５］",
+      "en": "carrying a rotably mounted obturating plug of the screw-thread or the interrupted-thread type(<b>F41A3/30</b> takes precedence)",
+      "count": 100,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A3/10": {
+      "code": "F41A3/10",
+      "level": 2,
+      "parent": "F41A3/02",
+      "ja": "滑動する尾栓閉鎖機構を有するもの，例．縦に［５］",
+      "en": "with sliding breech-block, e.g. vertically",
+      "count": 291,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A3/12": {
+      "code": "F41A3/12",
+      "level": 1,
+      "parent": "F41A3/00",
+      "ja": "遊底式，すなわち主尾栓開口運動が銃砲身軸に平行であるもの［５］",
+      "en": "Bolt action, i.e. the main breech opening movement being parallel to the barrel axis",
+      "count": 496,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A3/14": {
+      "code": "F41A3/14",
+      "level": 2,
+      "parent": "F41A3/12",
+      "ja": "固定型遊底ロック，すなわち遊底または遊底の取手および砲身または尾栓外筒上にそれぞれ固定して取り付けられたロック部材を有するもの［５］",
+      "en": "Rigid bolt locks, i.e. having locking elements rigidly mounted on the bolt or bolt handle and on the barrel or breech-housing respectively",
+      "count": 55,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A3/16": {
+      "code": "F41A3/16",
+      "level": 3,
+      "parent": "F41A3/14",
+      "ja": "砲身軸まわりの回転運動を生じさせる閉鎖部材，例．回転する円筒遊底ロック装置［５］",
+      "en": "the locking elements effecting a rotary movement about the barrel axis, e.g. rotating cylinder bolt locks",
+      "count": 108,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A3/18": {
+      "code": "F41A3/18",
+      "level": 4,
+      "parent": "F41A3/16",
+      "ja": "手動の［５］",
+      "en": "hand-operated",
+      "count": 127,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A3/20": {
+      "code": "F41A3/20",
+      "level": 5,
+      "parent": "F41A3/18",
+      "ja": "まっすぐに引いて操作する遊底ロック装置，すなわち操作する手が砲身軸に平行な直線運動のみを行うもの［５］",
+      "en": "Straight-pull operated bolt locks, i.e. the operating hand effecting only a straight movement parallel to the barrel axis",
+      "count": 104,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A3/22": {
+      "code": "F41A3/22",
+      "level": 5,
+      "parent": "F41A3/18",
+      "ja": "ロックが砲身軸を横切って操作取手またはレバーをまわすことによって行われるもの［５］",
+      "en": "the locking being effected by rotating the operating handle or lever transversely to the barrel axis",
+      "count": 200,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A3/24": {
+      "code": "F41A3/24",
+      "level": 6,
+      "parent": "F41A3/22",
+      "ja": "操作取手またはレバーの一部を形成するロック部材［５］",
+      "en": "the locking elements forming part of the operating handle or lever",
+      "count": 52,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A3/26": {
+      "code": "F41A3/26",
+      "level": 4,
+      "parent": "F41A3/16",
+      "ja": "半自動的または自動的に操作されるもの，例．滑動できる遊底送弾子および回転遊底を有するもの［５］",
+      "en": "semi-automatically or automatically operated, e.g. having a slidable bolt-carrier and a rotatable bolt",
+      "count": 606,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A3/28": {
+      "code": "F41A3/28",
+      "level": 5,
+      "parent": "F41A3/26",
+      "ja": "回転しない遊底上に固定したロック部材および砲身または尾栓外筒上に取り付けられた回転するロック部材を有するもの，例．回転可能な環［５］",
+      "en": "having fixed locking elements on the non-rotating bolt and rotating locking elements mounted on the barrel or breech housing, e.g. rotatable rings",
+      "count": 33,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A3/30": {
+      "code": "F41A3/30",
+      "level": 4,
+      "parent": "F41A3/16",
+      "ja": "連結手段，例．ロックラグ，ねじ山［５］",
+      "en": "Interlocking means, e.g. locking lugs, screw threads",
+      "count": 115,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A3/32": {
+      "code": "F41A3/32",
+      "level": 3,
+      "parent": "F41A3/14",
+      "ja": "遊底が砲身軸を横断する仮想の軸のまわりに揺動するもの［５］",
+      "en": "the bolt being rocked about a notional axis transverse to the barrel axis",
+      "count": 164,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A3/34": {
+      "code": "F41A3/34",
+      "level": 3,
+      "parent": "F41A3/14",
+      "ja": "遊底がさらに砲身軸を横断する滑動をするもの［５］",
+      "en": "the bolt additionally effecting a sliding movement transverse to the barrel axis",
+      "count": 42,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A3/36": {
+      "code": "F41A3/36",
+      "level": 2,
+      "parent": "F41A3/12",
+      "ja": "半固定遊底ロック，すなわち遊底上もしくは砲身または尾栓外筒上に移動自在に取り付けられたロック部材を有するもの［５］",
+      "en": "Semi-rigid bolt locks, i.e. having locking elements movably mounted on the bolt or on the barrrel or breech housing",
+      "count": 117,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A3/38": {
+      "code": "F41A3/38",
+      "level": 3,
+      "parent": "F41A3/36",
+      "ja": "揺動するロック部材を有するもの，例．軸まわりに回転するレバーまたは翼［５］",
+      "en": "having rocking locking elements, e.g. pivoting levers or vanes",
+      "count": 282,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A3/40": {
+      "code": "F41A3/40",
+      "level": 4,
+      "parent": "F41A3/38",
+      "ja": "遊底上に取り付けられるもの（Ｆ４１Ａ３／４２が優先）［５］",
+      "en": "mounted on the bolt(<b>F41A3/42</b> takes precedence)",
+      "count": 293,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A3/42": {
+      "code": "F41A3/42",
+      "level": 4,
+      "parent": "F41A3/38",
+      "ja": "手動の［５］",
+      "en": "hand-operated",
+      "count": 134,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A3/44": {
+      "code": "F41A3/44",
+      "level": 3,
+      "parent": "F41A3/36",
+      "ja": "滑動するロック部材を有するもの，例．ボール，ローラー［５］",
+      "en": "having sliding locking elements, e.g. balls, rollers",
+      "count": 155,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A3/46": {
+      "code": "F41A3/46",
+      "level": 4,
+      "parent": "F41A3/44",
+      "ja": "遊底上に取り付けられるもの（Ｆ４１Ａ３／４８が優先）［５］",
+      "en": "mounted on the bolt(<b>F41A3/48</b> takes precedence)",
+      "count": 179,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A3/48": {
+      "code": "F41A3/48",
+      "level": 4,
+      "parent": "F41A3/44",
+      "ja": "手動の［５］",
+      "en": "hand-operated",
+      "count": 64,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A3/50": {
+      "code": "F41A3/50",
+      "level": 3,
+      "parent": "F41A3/36",
+      "ja": "トグルジョイントロック，例．クランク操作の［５］",
+      "en": "Toggle-joint locks, e.g. crank-operated",
+      "count": 177,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A3/52": {
+      "code": "F41A3/52",
+      "level": 4,
+      "parent": "F41A3/50",
+      "ja": "手動の［５］",
+      "en": "hand-operated",
+      "count": 24,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A3/54": {
+      "code": "F41A3/54",
+      "level": 2,
+      "parent": "F41A3/12",
+      "ja": "非ロック形式の遊底ロック，すなわち慣性で操作されるもの［５］",
+      "en": "Bolt locks of the unlocked type, i.e. being inertia operated",
+      "count": 165,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A3/56": {
+      "code": "F41A3/56",
+      "level": 3,
+      "parent": "F41A3/54",
+      "ja": "遊底が滑動する付加重量体で動作するもの［５］",
+      "en": "the bolt being provided with an additional slidable mass",
+      "count": 90,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A3/58": {
+      "code": "F41A3/58",
+      "level": 1,
+      "parent": "F41A3/00",
+      "ja": "折り曲げ式尾栓機構，例．散弾銃用［５］",
+      "en": "Breakdown breech mechanisms, e.g. for shotguns",
+      "count": 433,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A3/60": {
+      "code": "F41A3/60",
+      "level": 1,
+      "parent": "F41A3/00",
+      "ja": "２つ以上の砲身をもつ銃の尾栓機構（Ｆ４１Ａ３／５８が優先；回転銃砲用Ｆ４１Ｆ１／１０）［５］",
+      "en": "Breech mechanisms for guns having two or more barrels(<b>F41A3/58</b> takes precedence; for revolving-cannon guns <b>F41F1/10</b>)",
+      "count": 82,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A3/62": {
+      "code": "F41A3/62",
+      "level": 1,
+      "parent": "F41A3/00",
+      "ja": "機械的ロック動作に加えるため，または尾栓開口動作を遅らせるため燃焼ガス圧力を用いるもの［５］",
+      "en": "using combustion gas pressure for adding to the mechanical locking action, or for delaying breech opening movement",
+      "count": 93,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A3/64": {
+      "code": "F41A3/64",
+      "level": 1,
+      "parent": "F41A3/00",
+      "ja": "尾栓体の取り付け；尾栓体または尾栓体取り付けのための付属具［５］",
+      "en": "Mounting of breech-blocks; Accessories for breech-blocks or breech-block mountings",
+      "count": 338,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A3/66": {
+      "code": "F41A3/66",
+      "level": 2,
+      "parent": "F41A3/64",
+      "ja": "尾栓外筒または枠；尾筒［５］",
+      "en": "Breech housings or frames; Receivers",
+      "count": 1104,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A3/68": {
+      "code": "F41A3/68",
+      "level": 2,
+      "parent": "F41A3/64",
+      "ja": "遊底止め，すなわち遊底の開口動作を制限する手段［５］",
+      "en": "Bolt stops, i.e. means for limiting bolt opening movement",
+      "count": 205,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A3/70": {
+      "code": "F41A3/70",
+      "level": 2,
+      "parent": "F41A3/64",
+      "ja": "はね返り防止装置，すなわち発射位置からの遊底のはね返りを防ぐもの［５］",
+      "en": "Anti-rebound arrangements, i.e. preventing rebound of the bolt out of the firing position",
+      "count": 80,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A3/72": {
+      "code": "F41A3/72",
+      "level": 2,
+      "parent": "F41A3/64",
+      "ja": "操作取手またはレバー；尾栓体または遊底へのそれらの取り付け［５］",
+      "en": "Operating handles or levers; Mounting thereof in breech-blocks or bolts",
+      "count": 573,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A3/74": {
+      "code": "F41A3/74",
+      "level": 2,
+      "parent": "F41A3/64",
+      "ja": "尾栓機構におけるガス漏洩防止のための閉塞または密封装置［５］",
+      "en": "Obturating or packing devices for gas leak prevention in breech mechanisms",
+      "count": 243,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A3/76": {
+      "code": "F41A3/76",
+      "level": 3,
+      "parent": "F41A3/74",
+      "ja": "薬室の前端と砲身の後端との間のすき間を密封するために特に適用されるもの，例．リボルバまたはリボルバ型銃用密封装置［５］",
+      "en": "specially adapted for sealing the gap between the forward end of the cartridge chamber and the rearward end of the barrel, e.g. sealing devices for revolvers or revolver-type guns",
+      "count": 95,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A3/78": {
+      "code": "F41A3/78",
+      "level": 2,
+      "parent": "F41A3/64",
+      "ja": "遊底緩衝装置または復座装置［５］",
+      "en": "Bolt buffer or recuperator means",
+      "count": 252,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A3/80": {
+      "code": "F41A3/80",
+      "level": 3,
+      "parent": "F41A3/78",
+      "ja": "調整可能なばね緩衝装置［５］",
+      "en": "Adjustable spring buffers",
+      "count": 44,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A3/82": {
+      "code": "F41A3/82",
+      "level": 3,
+      "parent": "F41A3/78",
+      "ja": "コイルばね緩衝装置（Ｆ４１Ａ３／８０が優先）［５］",
+      "en": "Coil spring buffers(<b>F41A3/80</b> takes precedence)",
+      "count": 417,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A3/84": {
+      "code": "F41A3/84",
+      "level": 4,
+      "parent": "F41A3/82",
+      "ja": "銃床内に取り付けられるもの［５］",
+      "en": "mounted within the gun stock",
+      "count": 146,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A3/86": {
+      "code": "F41A3/86",
+      "level": 4,
+      "parent": "F41A3/82",
+      "ja": "砲身下に取り付けられるもの［５］",
+      "en": "mounted under the barrel",
+      "count": 201,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A3/88": {
+      "code": "F41A3/88",
+      "level": 4,
+      "parent": "F41A3/82",
+      "ja": "砲身のまわりに取り付けられるもの［５］",
+      "en": "mounted around the barrel",
+      "count": 47,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A3/90": {
+      "code": "F41A3/90",
+      "level": 3,
+      "parent": "F41A3/78",
+      "ja": "流体緩衝装置［５］",
+      "en": "Fluid buffers",
+      "count": 47,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A3/92": {
+      "code": "F41A3/92",
+      "level": 4,
+      "parent": "F41A3/90",
+      "ja": "調整可能なもの［５］",
+      "en": "adjustable",
+      "count": 23,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A3/94": {
+      "code": "F41A3/94",
+      "level": 4,
+      "parent": "F41A3/90",
+      "ja": "ばね緩衝装置と結合したもの［５］",
+      "en": "in combination with spring buffers",
+      "count": 81,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A5/00": {
+      "code": "F41A5/00",
+      "level": 0,
+      "parent": "F41A",
+      "ja": "自動的にロックを解くために推進装薬のエネルギにより作動する機構または方式［５］",
+      "en": "Mechanisms or systems operated by propellant charge energy for automatically opening the lock",
+      "count": 224,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A5/02": {
+      "code": "F41A5/02",
+      "level": 1,
+      "parent": "F41A5/00",
+      "ja": "反動で作動するもの［５］",
+      "en": "recoil-operated",
+      "count": 285,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A5/04": {
+      "code": "F41A5/04",
+      "level": 2,
+      "parent": "F41A5/02",
+      "ja": "後座中，砲身が傾くもの［５］",
+      "en": "the barrel being tilted during recoil",
+      "count": 95,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A5/06": {
+      "code": "F41A5/06",
+      "level": 2,
+      "parent": "F41A5/02",
+      "ja": "後座中，砲身が縦軸のまわりに回転するもの［５］",
+      "en": "the barrel being rotated about its longitudinal axis during recoil",
+      "count": 46,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A5/08": {
+      "code": "F41A5/08",
+      "level": 2,
+      "parent": "F41A5/02",
+      "ja": "解除動作中，尾栓または遊底に作用する加速レバーを有するもの［５］",
+      "en": "having an accelerator lever acting on the breech-block or bolt during the opening movement",
+      "count": 108,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A5/10": {
+      "code": "F41A5/10",
+      "level": 2,
+      "parent": "F41A5/02",
+      "ja": "移動自在の慣性重量体を有するもの［５］",
+      "en": "having a movable inertia weight",
+      "count": 46,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A5/12": {
+      "code": "F41A5/12",
+      "level": 3,
+      "parent": "F41A5/10",
+      "ja": "固定砲身をもつ銃に取り付けられるもの［５］",
+      "en": "mounted in a gun having a fixed barrel",
+      "count": 49,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A5/14": {
+      "code": "F41A5/14",
+      "level": 2,
+      "parent": "F41A5/02",
+      "ja": "砲身止め，すなわち所定の位置，例．後座位置，に後座する砲身を保持するための装置［５］",
+      "en": "Barrel stops, i.e. devices for holding the recoiling barrel in a predetermined position, e.g. the recoil position",
+      "count": 58,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A5/16": {
+      "code": "F41A5/16",
+      "level": 2,
+      "parent": "F41A5/02",
+      "ja": "弾丸発射後前方に動く砲身を有するもの［５］",
+      "en": "having a barrel moving forwardly after the firing of a shot",
+      "count": 94,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A5/18": {
+      "code": "F41A5/18",
+      "level": 1,
+      "parent": "F41A5/00",
+      "ja": "ガスで作動するもの［５］",
+      "en": "gas-operated",
+      "count": 714,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A5/20": {
+      "code": "F41A5/20",
+      "level": 2,
+      "parent": "F41A5/18",
+      "ja": "砲身と同軸に配置されたガスピストンを用いるもの［５］",
+      "en": "using a gas piston arranged concentrically around the barrel",
+      "count": 114,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A5/22": {
+      "code": "F41A5/22",
+      "level": 2,
+      "parent": "F41A5/18",
+      "ja": "２つ以上のガスピストンを有するもの［５］",
+      "en": "having two or more gas pistons",
+      "count": 49,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A5/24": {
+      "code": "F41A5/24",
+      "level": 2,
+      "parent": "F41A5/18",
+      "ja": "遊底またはロック部材に対するガス圧力の直接作用によるもの［５］",
+      "en": "by direct action of gas pressure on bolt or locking elements",
+      "count": 176,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A5/26": {
+      "code": "F41A5/26",
+      "level": 2,
+      "parent": "F41A5/18",
+      "ja": "砲身からガスを流出させるための装置または方式（Ｆ４１Ａ５／２０～Ｆ４１Ａ５／２４が優先）［５］",
+      "en": "Arrangements or systems for bleeding the gas from the barrel(<b>F41A5/20 to F41A5/24</b>  take precedence)",
+      "count": 382,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A5/28": {
+      "code": "F41A5/28",
+      "level": 3,
+      "parent": "F41A5/26",
+      "ja": "調整可能な方式［５］",
+      "en": "Adjustable systems",
+      "count": 265,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A5/30": {
+      "code": "F41A5/30",
+      "level": 1,
+      "parent": "F41A5/00",
+      "ja": "ガス作動または後座作動，例．ガス作動または後座作動方式の選択［５］",
+      "en": "Gas- or recoil-operation, e.g. selection of gas- or recoil-operated systems",
+      "count": 67,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A5/32": {
+      "code": "F41A5/32",
+      "level": 1,
+      "parent": "F41A5/00",
+      "ja": "エネルギ蓄積方式，すなわち砲身またはガスピストン後座中に蓄積されたエネルギにより尾栓を開く方式［５］",
+      "en": "Energy accumulator systems, i.e. systems for opening the breech-block by energy accumulated during barrel or gas piston recoil",
+      "count": 160,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A5/34": {
+      "code": "F41A5/34",
+      "level": 2,
+      "parent": "F41A5/32",
+      "ja": "ばね蓄積器［５］",
+      "en": "with spring accumulators",
+      "count": 29,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A5/36": {
+      "code": "F41A5/36",
+      "level": 2,
+      "parent": "F41A5/32",
+      "ja": "流体蓄積器［５］",
+      "en": "with fluid accumulators",
+      "count": 25,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A7/00": {
+      "code": "F41A7/00",
+      "level": 0,
+      "parent": "F41A",
+      "ja": "自動発射前に尾栓または遊底または砲身を開始位置にもってゆくための補助機構（操作取手またはレバーＦ４１Ａ３／００）；外部に動力を備えた銃のための駆動装置（回転砲用給弾機構Ｆ４１Ｆ１／００）；遠隔制御銃の装てん器［５］",
+      "en": "Auxiliary mechanisms for bringing the breech-block or bolt or the barrel to the starting position before automatic firing(operating handles or levers <b>F41A3/00</b>);Drives for externally-powered guns(revolving-cannon guns <b>F41F1/00</b>);Remote-controlled gun chargers",
+      "count": 159,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A7/02": {
+      "code": "F41A7/02",
+      "level": 1,
+      "parent": "F41A7/00",
+      "ja": "機関銃再装てん器，例．手動の［５］",
+      "en": "Machine-gun rechargers, e.g. manually operated",
+      "count": 178,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A7/04": {
+      "code": "F41A7/04",
+      "level": 2,
+      "parent": "F41A7/02",
+      "ja": "流体で作動されるもの［５］",
+      "en": "fluid operated",
+      "count": 113,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A7/06": {
+      "code": "F41A7/06",
+      "level": 2,
+      "parent": "F41A7/02",
+      "ja": "電気的に作動されるもの［５］",
+      "en": "electrically operated",
+      "count": 67,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A7/08": {
+      "code": "F41A7/08",
+      "level": 1,
+      "parent": "F41A7/00",
+      "ja": "外部に動力を備えた銃のための駆動装置，すなわち自動発射中に外部の力により尾栓または遊底を動かすための駆動装置［５］",
+      "en": "Drives for externally-powered guns, i.e. drives for moving the breech-block or bolt by an external force during automatic firing",
+      "count": 163,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A7/10": {
+      "code": "F41A7/10",
+      "level": 2,
+      "parent": "F41A7/08",
+      "ja": "カム溝のある回転する円筒状ドラムを用いるもの［５］",
+      "en": "using a rotating cylindrical drum having a camming groove",
+      "count": 75,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/00": {
+      "code": "F41A9/00",
+      "level": 0,
+      "parent": "F41A",
+      "ja": "弾薬の補給または装てん（空気銃砲において弾倉から飛しょう体を補給または装てんするための適用Ｆ４１Ｂ１１／５０）；弾倉；抽筒のための案内手段（弾薬包抽筒子または蹴子１５／００）［５］",
+      "en": "Feeding or loading of ammunition(adaptations for feeding or loading missiles from magazines in air guns <b>F41B11/50</b>);Magazines; Guiding means for the extracting of cartridges(cartridge extractors or ejectors <b>F41A15/00</b>)",
+      "count": 658,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/01": {
+      "code": "F41A9/01",
+      "level": 1,
+      "parent": "F41A9/00",
+      "ja": "弾帯のない弾薬の補給［５］",
+      "en": "Feeding of unbelted ammunition",
+      "count": 406,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/02": {
+      "code": "F41A9/02",
+      "level": 2,
+      "parent": "F41A9/01",
+      "ja": "輪状コンベヤを用いるもの，例．星型輪状コンベヤ［５］",
+      "en": "using wheel conveyors, e.g. star-wheel-shaped conveyors",
+      "count": 175,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/03": {
+      "code": "F41A9/03",
+      "level": 2,
+      "parent": "F41A9/01",
+      "ja": "ねじまたはらせん回転式コンベヤを用いるもの［５］",
+      "en": "using screw or rotary-spiral conveyors",
+      "count": 48,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/04": {
+      "code": "F41A9/04",
+      "level": 2,
+      "parent": "F41A9/01",
+      "ja": "多数の弾薬を運ぶ無端鎖ベルトを用いるもの［５］",
+      "en": "using endless-chain belts carrying a plurality of ammunition",
+      "count": 293,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/05": {
+      "code": "F41A9/05",
+      "level": 3,
+      "parent": "F41A9/04",
+      "ja": "縦に連続しているもの［５］",
+      "en": "in tandem sequence",
+      "count": 49,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/06": {
+      "code": "F41A9/06",
+      "level": 2,
+      "parent": "F41A9/01",
+      "ja": "周期的に動くコンベヤを用いるもの，すなわち復行程中に弾薬がからになるかまたははずれる弾薬押出器または送弾子をもつコンベヤ［５］",
+      "en": "using cyclically moving conveyors, i.e. conveyors having ammunition pusher or carrier elements which are emptied or disengaged from the ammunition during the return stroke",
+      "count": 54,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/07": {
+      "code": "F41A9/07",
+      "level": 3,
+      "parent": "F41A9/06",
+      "ja": "往復運動をするコンベヤ，すなわち給弾行程中多数の弾薬を押出すコンベヤ［５］",
+      "en": "Reciprocating conveyors, i.e. conveyors pushing a plurality of ammunition during the feeding stroke",
+      "count": 43,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/09": {
+      "code": "F41A9/09",
+      "level": 3,
+      "parent": "F41A9/06",
+      "ja": "可動の弾薬送弾子または装てんトレイ，例．弾倉からの給弾用［５］",
+      "en": "Movable ammunition carriers or loading trays, e.g. for feeding from magazines",
+      "count": 97,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/10": {
+      "code": "F41A9/10",
+      "level": 4,
+      "parent": "F41A9/09",
+      "ja": "軸のまわりに旋回するものまたは揺動するもの［５］",
+      "en": "pivoting or swinging",
+      "count": 68,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/11": {
+      "code": "F41A9/11",
+      "level": 5,
+      "parent": "F41A9/10",
+      "ja": "水平面内で［５］",
+      "en": "in a horizontal plane",
+      "count": 60,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/12": {
+      "code": "F41A9/12",
+      "level": 6,
+      "parent": "F41A9/11",
+      "ja": "小火器内に取付けられるもの［５］",
+      "en": "mounted within a smallarm",
+      "count": 16,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/13": {
+      "code": "F41A9/13",
+      "level": 5,
+      "parent": "F41A9/10",
+      "ja": "垂直面内で［５］",
+      "en": "in a vertical plane",
+      "count": 24,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/14": {
+      "code": "F41A9/14",
+      "level": 6,
+      "parent": "F41A9/13",
+      "ja": "砲身軸を横切るもの［５］",
+      "en": "transverse to the barrel axis",
+      "count": 95,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/15": {
+      "code": "F41A9/15",
+      "level": 7,
+      "parent": "F41A9/14",
+      "ja": "小火器内に取り付けられるもの［５］",
+      "en": "mounted within a smallarm",
+      "count": 23,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/16": {
+      "code": "F41A9/16",
+      "level": 6,
+      "parent": "F41A9/13",
+      "ja": "砲身軸に平行なもの［５］",
+      "en": "parallel to the barrel axis",
+      "count": 164,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/17": {
+      "code": "F41A9/17",
+      "level": 7,
+      "parent": "F41A9/16",
+      "ja": "小火器内に取り付けられるもの［５］",
+      "en": "mounted within a smallarm",
+      "count": 85,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/18": {
+      "code": "F41A9/18",
+      "level": 8,
+      "parent": "F41A9/17",
+      "ja": "砲身下の弾倉から給弾されるもの［５］",
+      "en": "feeding from a magazine under the barrel",
+      "count": 217,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/19": {
+      "code": "F41A9/19",
+      "level": 8,
+      "parent": "F41A9/17",
+      "ja": "銃床に取り付けられた弾倉から給弾されるもの［５］",
+      "en": "feeding from a magazine mounted in the stock",
+      "count": 20,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/20": {
+      "code": "F41A9/20",
+      "level": 4,
+      "parent": "F41A9/09",
+      "ja": "滑動するもの，例．往復運動をするもの［５］",
+      "en": "sliding, e.g. reciprocating",
+      "count": 81,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/21": {
+      "code": "F41A9/21",
+      "level": 5,
+      "parent": "F41A9/20",
+      "ja": "垂直方向に（Ｆ４１Ａ９／２３が優先）［５］",
+      "en": "in a vertical direction(<b>F41A9/23</b> takes precedence)",
+      "count": 145,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/22": {
+      "code": "F41A9/22",
+      "level": 5,
+      "parent": "F41A9/20",
+      "ja": "水平方向に（Ｆ４１Ａ９／２３が優先）［５］",
+      "en": "in a horizontal direction(<b>F41A9/23</b> takes precedence)",
+      "count": 90,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/23": {
+      "code": "F41A9/23",
+      "level": 5,
+      "parent": "F41A9/20",
+      "ja": "小火器内に取り付けられるもの［５］",
+      "en": "mounted within a smallarm",
+      "count": 77,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/24": {
+      "code": "F41A9/24",
+      "level": 2,
+      "parent": "F41A9/01",
+      "ja": "給弾部材として可動の弾倉または挿弾子を用いるもの［５］",
+      "en": "using a movable magazine or clip as feeding element",
+      "count": 105,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/25": {
+      "code": "F41A9/25",
+      "level": 3,
+      "parent": "F41A9/24",
+      "ja": "滑動する挿弾子を用いるもの［５］",
+      "en": "using a sliding clip",
+      "count": 117,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/26": {
+      "code": "F41A9/26",
+      "level": 3,
+      "parent": "F41A9/24",
+      "ja": "回転ドラム弾倉を用いるもの［５］",
+      "en": "using a revolving drum magazine",
+      "count": 231,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/27": {
+      "code": "F41A9/27",
+      "level": 4,
+      "parent": "F41A9/26",
+      "ja": "リボルバ型銃におけるもの［５］",
+      "en": "in revolver-type guns",
+      "count": 239,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/28": {
+      "code": "F41A9/28",
+      "level": 5,
+      "parent": "F41A9/27",
+      "ja": "小火器型の（リボルバにおけるものＦ４１Ｃ３／１４）［５］",
+      "en": "of smallarm type(in revolvers <b>F41C3/14</b>)",
+      "count": 101,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/29": {
+      "code": "F41A9/29",
+      "level": 1,
+      "parent": "F41A9/00",
+      "ja": "弾帯に付けた弾薬の補給［５］",
+      "en": "Feeding of belted ammunition",
+      "count": 276,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/30": {
+      "code": "F41A9/30",
+      "level": 2,
+      "parent": "F41A9/29",
+      "ja": "スプロケット式弾帯送り装置［５］",
+      "en": "Sprocket-type belt transporters",
+      "count": 263,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/31": {
+      "code": "F41A9/31",
+      "level": 3,
+      "parent": "F41A9/30",
+      "ja": "薬きょう取外し手段を有するもの［５］",
+      "en": "with cartridge stripping means",
+      "count": 88,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/32": {
+      "code": "F41A9/32",
+      "level": 2,
+      "parent": "F41A9/29",
+      "ja": "往復滑動式弾帯送り装置［５］",
+      "en": "Reciprocating-slide-type belt transporters",
+      "count": 182,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/33": {
+      "code": "F41A9/33",
+      "level": 3,
+      "parent": "F41A9/32",
+      "ja": "薬きょう取外し手段を有するもの［５］",
+      "en": "with cartridge stripping means",
+      "count": 106,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/34": {
+      "code": "F41A9/34",
+      "level": 2,
+      "parent": "F41A9/29",
+      "ja": "弾倉から（弾帯に付けた弾薬それ自体Ｆ４１Ａ９／７９）［５］",
+      "en": "from magazines(magazines for belted ammunition <u>per se</u><b>F41A9/79</b>)",
+      "count": 157,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/35": {
+      "code": "F41A9/35",
+      "level": 1,
+      "parent": "F41A9/00",
+      "ja": "多連装銃の給弾［５］<br><br><b><ul>注</ul></b><br>多連装銃の給弾に特に適合しない，給弾部材または一般的に重要な概念はグループ９／０１または９／２９に分類される。［５］",
+      "en": "Feeding multibarrel guns; <br><br><b><u>Note(s)</u></b><br><br><ul><li>Feeding elements or concepts of general interest, not specially adapted for feeding multibarrel guns, are classified in groups <b>F41A9/01</b> or <b>F41A9/29</b>. </li></ul>",
+      "count": 156,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/36": {
+      "code": "F41A9/36",
+      "level": 2,
+      "parent": "F41A9/35",
+      "ja": "回転砲用給弾機構［５］",
+      "en": "Feed mechanisms for revolving-cannon guns",
+      "count": 91,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/37": {
+      "code": "F41A9/37",
+      "level": 1,
+      "parent": "F41A9/00",
+      "ja": "同じ銃に２種類以上の弾薬を補給するもの；両側から給弾するもの［５］<br><br><b><ul>注</ul></b><br>２種類以上の弾薬の補給または両側からの給弾に特に適合しない給弾部品または一般的に重要な概念はグループ９／０１または９／２９に分類される。［５］",
+      "en": "Feeding two or more kinds of ammunition to the same gun; Feeding from two sides; <br><br><b><u>Note(s)</u></b><br><br><ul><li>Feeding elements or concepts of general interest, not specially adapted for feeding two or more kinds of ammunition or from two sides, are classified in groups <b>F41A9/01</b> or <b>F41A9/29</b>. </li></ul>",
+      "count": 409,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/38": {
+      "code": "F41A9/38",
+      "level": 1,
+      "parent": "F41A9/00",
+      "ja": "装てん装置，すなわち弾薬を発射位置にもってゆくもの［５］",
+      "en": "Loading arrangements, i.e. for bringing the ammunition into the firing position",
+      "count": 711,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/39": {
+      "code": "F41A9/39",
+      "level": 2,
+      "parent": "F41A9/38",
+      "ja": "込め装置［５］",
+      "en": "Ramming arrangements",
+      "count": 158,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/40": {
+      "code": "F41A9/40",
+      "level": 3,
+      "parent": "F41A9/39",
+      "ja": "尾栓体そのものが込め具であるもの［５］",
+      "en": "the breech-block itself being the rammer",
+      "count": 107,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/41": {
+      "code": "F41A9/41",
+      "level": 4,
+      "parent": "F41A9/40",
+      "ja": "砲枠上の箱型弾倉から弾帯のない弾薬を薬室に押し込むもの［５］",
+      "en": "pushing unbelted ammunition from a box magazine on the gun frame into the cartridge chamber",
+      "count": 155,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/42": {
+      "code": "F41A9/42",
+      "level": 3,
+      "parent": "F41A9/39",
+      "ja": "尾栓体から分離した込め具［５］",
+      "en": "Rammers separate from breech-block",
+      "count": 308,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/43": {
+      "code": "F41A9/43",
+      "level": 4,
+      "parent": "F41A9/42",
+      "ja": "鎖型込め具［５］",
+      "en": "Chain rammers",
+      "count": 50,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/44": {
+      "code": "F41A9/44",
+      "level": 4,
+      "parent": "F41A9/42",
+      "ja": "流体作動のピストン式込め具［５］",
+      "en": "Fluid-operated piston rammers",
+      "count": 25,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/45": {
+      "code": "F41A9/45",
+      "level": 2,
+      "parent": "F41A9/38",
+      "ja": "薬室または砲身が全体として装てん位置と発射位置間で傾きうるもの［５］",
+      "en": "the cartridge chamber or the barrel as a whole being tiltable between a loading and a firing position",
+      "count": 214,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/46": {
+      "code": "F41A9/46",
+      "level": 2,
+      "parent": "F41A9/38",
+      "ja": "薬室が装てんのため一方から他方に動きうる２つの相補的部材で形成されるもの［５］",
+      "en": "the cartridge chamber being formed by two complementary elements, movable one relative to the other for loading",
+      "count": 66,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/47": {
+      "code": "F41A9/47",
+      "level": 2,
+      "parent": "F41A9/38",
+      "ja": "装てんのため前方へ滑動する砲身または砲身部品の使用［５］",
+      "en": "using forwardly-sliding barrels or barrel parts for loading",
+      "count": 76,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/48": {
+      "code": "F41A9/48",
+      "level": 2,
+      "parent": "F41A9/38",
+      "ja": "重力によるもの［５］",
+      "en": "by gravitational force",
+      "count": 46,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/49": {
+      "code": "F41A9/49",
+      "level": 1,
+      "parent": "F41A9/00",
+      "ja": "内部動力駆動装置，すなわち推進装薬のエネルギで作動されるもの，例．カップリング，クラッチ，エネルギ蓄積器［５］",
+      "en": "Internally-powered drives, i.e. operated by propellant charge energy, e.g. couplings, clutches, energy accumulators",
+      "count": 173,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/50": {
+      "code": "F41A9/50",
+      "level": 1,
+      "parent": "F41A9/00",
+      "ja": "外部動力方式または制御方式［５］",
+      "en": "External power or control systems",
+      "count": 203,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/51": {
+      "code": "F41A9/51",
+      "level": 2,
+      "parent": "F41A9/50",
+      "ja": "ブースター，すなわち外部動力装置［５］",
+      "en": "Boosters, i.e. externally-powered motors",
+      "count": 177,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/52": {
+      "code": "F41A9/52",
+      "level": 1,
+      "parent": "F41A9/00",
+      "ja": "自動または弾倉装てんから手動装てんに変えるための装置［５］",
+      "en": "Arrangements for changing from automatic or magazine-loading to hand-loading",
+      "count": 91,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/53": {
+      "code": "F41A9/53",
+      "level": 1,
+      "parent": "F41A9/00",
+      "ja": "装てん状況表示器，すなわち薬室内に薬包があることを表示するもの［５］",
+      "en": "Charged-condition indicators, i.e. indicating the presence of a cartridge in the cartridge chamber",
+      "count": 189,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/54": {
+      "code": "F41A9/54",
+      "level": 1,
+      "parent": "F41A9/00",
+      "ja": "薬包ガイド，止め具，位置決め装置，例．抽筒用［５］",
+      "en": "Cartridge guides, stops or positioners, e.g. for cartridge extraction",
+      "count": 376,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/55": {
+      "code": "F41A9/55",
+      "level": 2,
+      "parent": "F41A9/54",
+      "ja": "薬室またはその近くに取り付けられた固定ガイド手段［５］",
+      "en": "Fixed guiding means, mounted on, or near, the cartridge chamber",
+      "count": 182,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/56": {
+      "code": "F41A9/56",
+      "level": 2,
+      "parent": "F41A9/54",
+      "ja": "可動ガイド手段［５］",
+      "en": "Movable guiding means",
+      "count": 71,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/57": {
+      "code": "F41A9/57",
+      "level": 3,
+      "parent": "F41A9/56",
+      "ja": "可とう性シュート，例．弾倉から銃砲へ弾帯の付いた弾薬をガイドするためのもの［５］",
+      "en": "Flexible chutes, e.g. for guiding belted ammunition from the magazine to the gun",
+      "count": 78,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/58": {
+      "code": "F41A9/58",
+      "level": 2,
+      "parent": "F41A9/54",
+      "ja": "薬包止め具；薬包位置決め装置［５］",
+      "en": "Cartridge stops; Cartridge positioners",
+      "count": 114,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/59": {
+      "code": "F41A9/59",
+      "level": 1,
+      "parent": "F41A9/00",
+      "ja": "挿弾子または弾倉用蹴子，例．空のときの［５］",
+      "en": "Ejectors for clips or magazines, e.g. when empty",
+      "count": 140,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/60": {
+      "code": "F41A9/60",
+      "level": 1,
+      "parent": "F41A9/00",
+      "ja": "空薬きょうまたは弾帯リンク収集器または捕収器（Ｆ４１Ａ９／８１が優先）［５］",
+      "en": "Empty-cartridge-case or belt-link collectors or catchers(<b>F41A9/81</b> takes precedence)",
+      "count": 211,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/61": {
+      "code": "F41A9/61",
+      "level": 1,
+      "parent": "F41A9/00",
+      "ja": "弾倉［５］",
+      "en": "Magazines",
+      "count": 782,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/62": {
+      "code": "F41A9/62",
+      "level": 2,
+      "parent": "F41A9/61",
+      "ja": "弾倉内に残った弾薬数を表示する手段を有するもの，例．最終段弾数表示器（最終段発射安全器Ｆ４１Ａ１７／３４）［５］",
+      "en": "having means for indicating the number of cartridges left in the magazine, e.g. last-round indicators(last-round safeties <b>F41A17/40</b>)",
+      "count": 319,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/63": {
+      "code": "F41A9/63",
+      "level": 2,
+      "parent": "F41A9/61",
+      "ja": "他の弾倉との着脱自在の結合に特に適合するもの［５］",
+      "en": "specially adapted for releasable connection with other magazines",
+      "count": 101,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/64": {
+      "code": "F41A9/64",
+      "level": 2,
+      "parent": "F41A9/61",
+      "ja": "弾帯のない弾薬用［５］",
+      "en": "for unbelted ammunition",
+      "count": 359,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/65": {
+      "code": "F41A9/65",
+      "level": 3,
+      "parent": "F41A9/64",
+      "ja": "薬包追従子を有する箱型弾倉［５］",
+      "en": "Box magazines having a cartridge follower",
+      "count": 651,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/66": {
+      "code": "F41A9/66",
+      "level": 4,
+      "parent": "F41A9/65",
+      "ja": "装てんのための弾倉上の装置（弾倉への再装てんのための装置または用具Ｆ４１Ａ９／８３）［５］",
+      "en": "Arrangements thereon for charging, i.e. reloading(apparatus or tools for reloading magazines <b>F41A9/83</b>)",
+      "count": 102,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/67": {
+      "code": "F41A9/67",
+      "level": 5,
+      "parent": "F41A9/66",
+      "ja": "薬包追従子の押下げのため，またはそれを押下げ位置にロックするための手段を有するもの［５］",
+      "en": "having means for depressing the cartridge follower, or for locking it in a depressed position",
+      "count": 142,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/68": {
+      "code": "F41A9/68",
+      "level": 4,
+      "parent": "F41A9/65",
+      "ja": "複数弾倉，例．縦列配置弾倉［５］",
+      "en": "Plural magazines, e.g. tandem magazines",
+      "count": 144,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/69": {
+      "code": "F41A9/69",
+      "level": 4,
+      "parent": "F41A9/65",
+      "ja": "薬包の並列またはジグザグ配列に特徴があるもの［５］",
+      "en": "characterised by multiple-row or zigzag arrangement of cartridges",
+      "count": 187,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/70": {
+      "code": "F41A9/70",
+      "level": 4,
+      "parent": "F41A9/65",
+      "ja": "弾倉内に排出するための装置，例．薬包追従子または排出口［５］",
+      "en": "Arrangements thereon for discharging, e.g. cartridge followers or discharge throats",
+      "count": 394,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/71": {
+      "code": "F41A9/71",
+      "level": 4,
+      "parent": "F41A9/65",
+      "ja": "弾倉内で容量を変えるための装置；薬包の寸法または形式を変えるためのアダブタまたは挿入具［５］",
+      "en": "Arrangements thereon for varying capacity; Adapters or inserts for changing cartridge size or type",
+      "count": 176,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/72": {
+      "code": "F41A9/72",
+      "level": 3,
+      "parent": "F41A9/64",
+      "ja": "管状弾倉，すなわち弾倉が縦に連続して薬包を収容するもの［５］",
+      "en": "Tubular magazines, i.e. magazines containing the ammunition in lengthwise tandem sequence",
+      "count": 240,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/73": {
+      "code": "F41A9/73",
+      "level": 3,
+      "parent": "F41A9/64",
+      "ja": "ドラム弾倉［５］",
+      "en": "Drum magazines",
+      "count": 249,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/74": {
+      "code": "F41A9/74",
+      "level": 4,
+      "parent": "F41A9/73",
+      "ja": "放射状に配置された薬包を有するもの［５］",
+      "en": "with radially disposed cartridges",
+      "count": 115,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/75": {
+      "code": "F41A9/75",
+      "level": 4,
+      "parent": "F41A9/73",
+      "ja": "らせん状の弾薬通路を有するもの［５］",
+      "en": "having a spiral cartridge channel",
+      "count": 67,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/76": {
+      "code": "F41A9/76",
+      "level": 3,
+      "parent": "F41A9/64",
+      "ja": "弾倉が無端鎖コンベヤを有するもの［５］",
+      "en": "Magazines having an endless-chain conveyor",
+      "count": 243,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/77": {
+      "code": "F41A9/77",
+      "level": 3,
+      "parent": "F41A9/64",
+      "ja": "弾倉がねじコンベヤを有するもの［５］",
+      "en": "Magazines having a screw conveyor",
+      "count": 44,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/78": {
+      "code": "F41A9/78",
+      "level": 3,
+      "parent": "F41A9/64",
+      "ja": "弾倉が往復運動コンベヤを有するもの［５］",
+      "en": "Magazines having a reciprocating conveyor",
+      "count": 22,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/79": {
+      "code": "F41A9/79",
+      "level": 2,
+      "parent": "F41A9/61",
+      "ja": "弾帯に付けられた弾薬用［５］",
+      "en": "for belted ammunition",
+      "count": 206,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/80": {
+      "code": "F41A9/80",
+      "level": 3,
+      "parent": "F41A9/79",
+      "ja": "隣接弾倉の弾帯の急速連結装置を有するもの［５］",
+      "en": "having provision for quick-coupling of the belts of adjacent magazines",
+      "count": 14,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/81": {
+      "code": "F41A9/81",
+      "level": 3,
+      "parent": "F41A9/79",
+      "ja": "弾帯リンクまたは空薬包の収集装置を有するもの［５］",
+      "en": "having provision for collecting belt links or empty cartridge cases",
+      "count": 44,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/82": {
+      "code": "F41A9/82",
+      "level": 1,
+      "parent": "F41A9/00",
+      "ja": "弾倉の再装てん［５］",
+      "en": "Reloading of magazines",
+      "count": 222,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/83": {
+      "code": "F41A9/83",
+      "level": 2,
+      "parent": "F41A9/82",
+      "ja": "弾帯のない弾薬を有する弾倉に再装てんするための装置または用具，例．挿弾子［５］",
+      "en": "Apparatus or tools for reloading magazines with unbelted ammunition, e.g. cartridge clips",
+      "count": 594,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/84": {
+      "code": "F41A9/84",
+      "level": 3,
+      "parent": "F41A9/83",
+      "ja": "挿弾子［５］",
+      "en": "Clips",
+      "count": 255,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/85": {
+      "code": "F41A9/85",
+      "level": 4,
+      "parent": "F41A9/84",
+      "ja": "リボルバ型弾倉への再装てん用［５］",
+      "en": "for reloading revolver-type magazines",
+      "count": 174,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/86": {
+      "code": "F41A9/86",
+      "level": 2,
+      "parent": "F41A9/82",
+      "ja": "弾帯付弾薬の弾倉への補給［５］",
+      "en": "Feeding belted ammunition into magazines",
+      "count": 44,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A9/87": {
+      "code": "F41A9/87",
+      "level": 1,
+      "parent": "F41A9/00",
+      "ja": "弾薬搬送用ドリーまたは移送用カート（Ｆ４１Ａ９／８６が優先）［５］",
+      "en": "Ammunition handling dollies or transfer carts(<b>F41A9/86</b> takes precedence)",
+      "count": 217,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A11/00": {
+      "code": "F41A11/00",
+      "level": 0,
+      "parent": "F41A",
+      "ja": "組立てまたは分解の特徴；モジュールの概念；連結式または折りたたみ式銃（Ｆ４１Ａ３／６４，Ｆ４１Ａ１９／００～Ｆ４１Ａ１９／１５，Ｆ４１Ａ２１／４８，Ｆ４１Ａ２５／２６が優先）［５］",
+      "en": "Assembly or disassembly features; Modular concepts; Articulated or collapsible guns(<b>F41A3/64</b>, <b>F41A19/10 to F41A19/15</b> , <b>F41A21/48</b>, <b>F41A25/26</b> take precedence)",
+      "count": 826,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A11/02": {
+      "code": "F41A11/02",
+      "level": 1,
+      "parent": "F41A11/00",
+      "ja": "モジュールの概念，例．武器群の概念（ｗｅａｐｏｎ―ｆａｍｉｌｙ　ｃｏｎｃｅｐｔ）［５］",
+      "en": "Modular concepts, e.g. weapon-family concepts",
+      "count": 435,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A11/04": {
+      "code": "F41A11/04",
+      "level": 1,
+      "parent": "F41A11/00",
+      "ja": "連結式または折りたたみ式銃，すなわち移送または貯蔵のための蝶番の付いたまたは伸縮自在の部品を有するもの（折り曲げ式散弾銃またはライフル銃Ｆ４１Ｃ７／１１；折りたたみ式またはテレスコピック式の銃床または銃床部品Ｆ４１Ｃ２３／０４）［５］",
+      "en": "Articulated or collapsible guns, i.e. with hinged or telescopic parts for transport or storage(breakdown shotguns or rifles <b>F41C7/11</b>; folding or telescopic stocks or stock parts <b>F41C23/04</b>)",
+      "count": 219,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A11/06": {
+      "code": "F41A11/06",
+      "level": 2,
+      "parent": "F41A11/04",
+      "ja": "テレスコピック式銃［５］",
+      "en": "Telescopic guns",
+      "count": 8,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A13/00": {
+      "code": "F41A13/00",
+      "level": 0,
+      "parent": "F41A",
+      "ja": "冷却または加熱方式；銃砲身の吹出し（フィンまたはリブを有する砲身または銃身Ｆ４１Ａ２１／００）；換気方式［５］",
+      "en": "Cooling or heating systems(barrels or gun tubes with fins or ribs <b>F41A21/00</b>);Blowing-through of gun barrels; Ventilating systems",
+      "count": 182,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A13/02": {
+      "code": "F41A13/02",
+      "level": 1,
+      "parent": "F41A13/00",
+      "ja": "加熱方式［５］",
+      "en": "Heating systems",
+      "count": 25,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A13/04": {
+      "code": "F41A13/04",
+      "level": 1,
+      "parent": "F41A13/00",
+      "ja": "砲身または薬室内に流体を注入するもの（Ｆ４１Ａ１３／０８が優先）［５］",
+      "en": "Injecting fluids into barrels or cartridge chambers(<b>F41A13/08</b> takes precedence)",
+      "count": 115,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A13/06": {
+      "code": "F41A13/06",
+      "level": 1,
+      "parent": "F41A13/00",
+      "ja": "砲身から燃焼ガスを排出するもの（Ｆ４１Ａ１３／１０が優先）［５］",
+      "en": "Evacuating combustion gas from barrels(<b>F41A13/10</b> takes precedence)",
+      "count": 58,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A13/08": {
+      "code": "F41A13/08",
+      "level": 2,
+      "parent": "F41A13/06",
+      "ja": "銃腔排出器，すなわち燃焼ガスの一部を貯え，次いで吸引するようそれを砲身内に注入するため砲身の周囲に配置された室［５］",
+      "en": "Bore evacuators, i.e. chambers disposed around barrels for storing part of the combustion gas and subsequently injecting it into the barrel to provide suction",
+      "count": 28,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A13/10": {
+      "code": "F41A13/10",
+      "level": 1,
+      "parent": "F41A13/00",
+      "ja": "銃を排気または冷却するためのブロワまたはタービン，例．燃焼ガス圧力または反動により駆動されるもの［５］",
+      "en": "Blowers or turbines for evacuating or cooling guns, e.g. driven by combustion gas pressure or recoil",
+      "count": 54,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A13/12": {
+      "code": "F41A13/12",
+      "level": 1,
+      "parent": "F41A13/00",
+      "ja": "砲身の外部表面を冷却する方式（Ｆ４１Ａ１３／１０が優先）［５］",
+      "en": "Systems for cooling the outer surface of the barrel(<b>F41A13/10</b> takes precedence)",
+      "count": 289,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A15/00": {
+      "code": "F41A15/00",
+      "level": 0,
+      "parent": "F41A",
+      "ja": "抽筒子，すなわち薬室から少なくとも部分的に弾薬包または薬きょうを引抜くための装置；蹴子（しゅうし），すなわち引抜いた弾薬包または銃砲から取りはずした薬きょうを投げ出すための装置（Ｆ４１Ａ９／５４が優先）［５］",
+      "en": "Cartridge extractors, i.e. devices for pulling cartridges or cartridge cases at least partially out of the cartridge chamber; Cartridge ejectors, i.e. devices for throwing the extracted cartridges or cartridge cases free of the gun(<b>F41A9/54</b> takes precedence)",
+      "count": 448,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A15/02": {
+      "code": "F41A15/02",
+      "level": 1,
+      "parent": "F41A15/00",
+      "ja": "リボルバ型銃用，例．リボルバ［５］",
+      "en": "for revolver-type guns, e.g. revolvers",
+      "count": 109,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A15/04": {
+      "code": "F41A15/04",
+      "level": 1,
+      "parent": "F41A15/00",
+      "ja": "発射時変形する薬きょうに特に適合するもの，例．プラスチックの［５］",
+      "en": "specially adapted for cartridge cases being deformed when fired, e.g. of plastics",
+      "count": 23,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A15/06": {
+      "code": "F41A15/06",
+      "level": 1,
+      "parent": "F41A15/00",
+      "ja": "折り曲げ式銃用［５］",
+      "en": "for breakdown guns",
+      "count": 278,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A15/08": {
+      "code": "F41A15/08",
+      "level": 1,
+      "parent": "F41A15/00",
+      "ja": "尾栓式銃用［５］",
+      "en": "for block-action guns",
+      "count": 115,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A15/10": {
+      "code": "F41A15/10",
+      "level": 2,
+      "parent": "F41A15/08",
+      "ja": "滑動尾栓型の［５］",
+      "en": "of sliding-block type",
+      "count": 81,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A15/12": {
+      "code": "F41A15/12",
+      "level": 1,
+      "parent": "F41A15/00",
+      "ja": "遊底式銃用［５］",
+      "en": "for bolt-action guns",
+      "count": 359,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A15/14": {
+      "code": "F41A15/14",
+      "level": 2,
+      "parent": "F41A15/12",
+      "ja": "蹴子が遊底上または遊底内に取り付けられるもの［５］",
+      "en": "the ejector being mounted on, or within, the bolt",
+      "count": 532,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A15/16": {
+      "code": "F41A15/16",
+      "level": 2,
+      "parent": "F41A15/12",
+      "ja": "蹴子が尾栓外筒または枠上に取り付けられるもの［５］",
+      "en": "the ejector being mounted on the breech housing or frame",
+      "count": 233,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A15/18": {
+      "code": "F41A15/18",
+      "level": 1,
+      "parent": "F41A15/00",
+      "ja": "前方に滑動しうる砲身をもつ銃用［５］",
+      "en": "for guns with forwardly slidable barrels",
+      "count": 25,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A15/20": {
+      "code": "F41A15/20",
+      "level": 1,
+      "parent": "F41A15/00",
+      "ja": "無薬きょう弾薬包のために特に適合するもの［５］",
+      "en": "specially adapted for caseless-ammunition duds",
+      "count": 53,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A15/22": {
+      "code": "F41A15/22",
+      "level": 1,
+      "parent": "F41A15/00",
+      "ja": "薬きょう引き抜き用具［５］",
+      "en": "Tools for extracting cartridges",
+      "count": 110,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A17/00": {
+      "code": "F41A17/00",
+      "level": 0,
+      "parent": "F41A",
+      "ja": "安全装置，例．安全器［５］",
+      "en": "Safety arrangements, e.g. safeties",
+      "count": 806,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A17/02": {
+      "code": "F41A17/02",
+      "level": 1,
+      "parent": "F41A17/00",
+      "ja": "かぎ作動安全器［５］",
+      "en": "Key-operated safeties",
+      "count": 284,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A17/04": {
+      "code": "F41A17/04",
+      "level": 1,
+      "parent": "F41A17/00",
+      "ja": "結合閉鎖式安全器（Ｆ４１Ａ１７／０２が優先）［５］",
+      "en": "Safeties of the combination-lock type(<b>F41A17/02</b> takes precedence)",
+      "count": 146,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A17/06": {
+      "code": "F41A17/06",
+      "level": 1,
+      "parent": "F41A17/00",
+      "ja": "電気または電気機械的安全器（Ｆ４１Ａ１７／０４，Ｆ４１Ａ１７／０８が優先）［５］",
+      "en": "Electric or electromechanical safeties(<b>F41A17/04</b>, <b>F41A17/08</b> take precedence)",
+      "count": 925,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A17/08": {
+      "code": "F41A17/08",
+      "level": 1,
+      "parent": "F41A17/00",
+      "ja": "特定方向への発射を禁止するためのもの，例．友好人物または保護区域あて（Ｆ４１Ａ２７／０２が優先）［５］",
+      "en": "for inhibiting firing in a specified direction, e.g. at a friendly person or at a protected area(<b>F41A27/02</b> takes precedence)",
+      "count": 290,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A17/10": {
+      "code": "F41A17/10",
+      "level": 2,
+      "parent": "F41A17/08",
+      "ja": "俯仰停止器を有する発射機構［５］",
+      "en": "Firing mechanisms with elevation stop",
+      "count": 36,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A17/12": {
+      "code": "F41A17/12",
+      "level": 2,
+      "parent": "F41A17/08",
+      "ja": "傾斜防止安全器を有する発射機構［５］",
+      "en": "Firing mechanisms with anti-canting safety",
+      "count": 18,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A17/14": {
+      "code": "F41A17/14",
+      "level": 1,
+      "parent": "F41A17/00",
+      "ja": "二重装てん防止［５］",
+      "en": "Double-loading prevention",
+      "count": 40,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A17/16": {
+      "code": "F41A17/16",
+      "level": 1,
+      "parent": "F41A17/00",
+      "ja": "自然発火防止，すなわち薬室壁の熱による薬包の自然発射の防止［５］",
+      "en": "Cook-off prevention, i.e. prevention of spontaneous firing of a cartridge by chamber wall heat",
+      "count": 30,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A17/18": {
+      "code": "F41A17/18",
+      "level": 1,
+      "parent": "F41A17/00",
+      "ja": "遅発防止［５］",
+      "en": "Hang-fire prevention",
+      "count": 63,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A17/20": {
+      "code": "F41A17/20",
+      "level": 1,
+      "parent": "F41A17/00",
+      "ja": "銃把または銃床安全器，すなわち銃把または銃床を握ることによりはずれる安全器（親指作動の滑動安全装置Ｆ４１Ａ１７／５２，Ｆ４１Ａ１７／６２，Ｆ４１Ａ１７／７０，Ｆ４１Ａ１７／８０）［５］",
+      "en": "Grip or stock safeties, i.e. safeties disengaged by clasping the grip or stock(thumb-operated sliding safeties <b>F41A17/52</b>, <b>F41A17/62</b>, <b>F41A17/70</b>, <b>F41A17/80</b>)",
+      "count": 223,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A17/22": {
+      "code": "F41A17/22",
+      "level": 2,
+      "parent": "F41A17/20",
+      "ja": "引金に作用するもの［５］",
+      "en": "acting on the trigger",
+      "count": 137,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A17/24": {
+      "code": "F41A17/24",
+      "level": 2,
+      "parent": "F41A17/20",
+      "ja": "撃針に作用するもの［５］",
+      "en": "acting on the firing pin",
+      "count": 37,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A17/26": {
+      "code": "F41A17/26",
+      "level": 2,
+      "parent": "F41A17/20",
+      "ja": "撃鉄に作用するもの［５］",
+      "en": "acting on the hammer",
+      "count": 39,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A17/28": {
+      "code": "F41A17/28",
+      "level": 2,
+      "parent": "F41A17/20",
+      "ja": "逆鈎に作用するもの［５］",
+      "en": "acting on the sear",
+      "count": 88,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A17/30": {
+      "code": "F41A17/30",
+      "level": 1,
+      "parent": "F41A17/00",
+      "ja": "複合安全器，すなわち発射機構のすくなくとも１部材および銃のすくなくとも他の１部材に作用する安全器，例．移動砲身［５］",
+      "en": "Multiple safeties, i.e. safeties acting on at least one element of the firing mechanism and at least one other element of the gun, e.g. the moving barrel",
+      "count": 128,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A17/32": {
+      "code": "F41A17/32",
+      "level": 2,
+      "parent": "F41A17/30",
+      "ja": "他の部材が尾栓または遊底であるもの［５］",
+      "en": "the other element being the breech-block or bolt",
+      "count": 178,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A17/34": {
+      "code": "F41A17/34",
+      "level": 1,
+      "parent": "F41A17/00",
+      "ja": "弾倉安全器［５］",
+      "en": "Magazine safeties",
+      "count": 101,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A17/36": {
+      "code": "F41A17/36",
+      "level": 2,
+      "parent": "F41A17/34",
+      "ja": "弾倉が空または取りはずされたとき銃を安全状態にロックするもの［５］",
+      "en": "locking the gun in a safety condition when the magazine is empty or removed",
+      "count": 403,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A17/38": {
+      "code": "F41A17/38",
+      "level": 2,
+      "parent": "F41A17/34",
+      "ja": "銃の弾倉のロック［５］",
+      "en": "locking the magazine in the gun",
+      "count": 661,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A17/40": {
+      "code": "F41A17/40",
+      "level": 1,
+      "parent": "F41A17/00",
+      "ja": "最終段発射安全器（Ｆ４１Ａ１７／３４が優先）［５］",
+      "en": "Last-round safeties(<b>F41A17/34</b> takes precedence)",
+      "count": 46,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A17/42": {
+      "code": "F41A17/42",
+      "level": 1,
+      "parent": "F41A17/00",
+      "ja": "尾栓または遊底を安全位置にロックするための安全器（Ｆ４１Ａ１７／３２，Ｆ４１Ａ１７／３６，Ｆ４１Ａ１７／４０が優先）［５］",
+      "en": "Safeties for locking the breech-block or bolt in a safety position(<b>F41A17/32</b>, <b>F41A17/36</b>, <b>F41A17/40</b> take precedence)",
+      "count": 259,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A17/44": {
+      "code": "F41A17/44",
+      "level": 1,
+      "parent": "F41A17/00",
+      "ja": "安全栓，例．薬室に栓をするためのもの［５］",
+      "en": "Safety plugs, e.g. for plugging-up cartridge chambers",
+      "count": 493,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A17/46": {
+      "code": "F41A17/46",
+      "level": 1,
+      "parent": "F41A17/00",
+      "ja": "引金安全器，すなわち引金の動きを防ぐ装置（Ｆ４１Ａ１７／０２～Ｆ４１Ａ１７／４０が優先）［５］",
+      "en": "Trigger safeties, i.e. means for preventing trigger movement(<b>F41A17/02 to F41A17/40</b>  take precedence)",
+      "count": 774,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A17/48": {
+      "code": "F41A17/48",
+      "level": 2,
+      "parent": "F41A17/46",
+      "ja": "自動作動の引金安全器，すなわち，尾栓の開閉動作により作動するもの［５］",
+      "en": "Automatically operated trigger safeties, i.e. operated by breech opening or closing movement",
+      "count": 110,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A17/50": {
+      "code": "F41A17/50",
+      "level": 3,
+      "parent": "F41A17/48",
+      "ja": "折り曲げ動作によるもの［５］",
+      "en": "by breakdown action",
+      "count": 35,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A17/52": {
+      "code": "F41A17/52",
+      "level": 2,
+      "parent": "F41A17/46",
+      "ja": "銃床の上側に取り付けられた親指操作の滑動安全器，例．散弾銃用［５］",
+      "en": "Thumb-operated sliding safeties mounted on the upside of the stock, e.g. for shotguns",
+      "count": 89,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A17/54": {
+      "code": "F41A17/54",
+      "level": 2,
+      "parent": "F41A17/46",
+      "ja": "用心金用保護キャップ；用心金上または用心金内に取り付けられた引金ロック片［５］",
+      "en": "Protecting-caps for trigger guards; Trigger locking pieces mounted on, or within, the trigger guard",
+      "count": 304,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A17/56": {
+      "code": "F41A17/56",
+      "level": 1,
+      "parent": "F41A17/00",
+      "ja": "逆鈎安全器，すなわち撃針，撃鉄，遊底または逆鈎に引金の動きを伝える中間レバーを無効にするための手段（Ｆ４１Ａ１７／０２～Ｆ４１Ａ１７／４０が優先）［５］",
+      "en": "Sear safeties, i.e. means for rendering ineffective an intermediate lever transmitting trigger movement to firing pin, hammer, bolt or sear(<b>F41A17/02 to F41A17/40</b>  take precedence)",
+      "count": 384,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A17/58": {
+      "code": "F41A17/58",
+      "level": 2,
+      "parent": "F41A17/56",
+      "ja": "自動的に作動するもの，すなわち尾栓の開閉動作によって作動するもの［５］",
+      "en": "automatically operated, i.e. operated by breech opening or closing movement",
+      "count": 133,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A17/60": {
+      "code": "F41A17/60",
+      "level": 3,
+      "parent": "F41A17/58",
+      "ja": "折り曲げ動作によるもの［５］",
+      "en": "by breakdown action",
+      "count": 23,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A17/62": {
+      "code": "F41A17/62",
+      "level": 2,
+      "parent": "F41A17/56",
+      "ja": "銃床の上側に取り付けられた親指操作の滑動安全器，例．散弾銃用［５］",
+      "en": "Thumb-operated sliding safeties mounted on the upside of the stock, e.g. for shotguns",
+      "count": 48,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A17/64": {
+      "code": "F41A17/64",
+      "level": 1,
+      "parent": "F41A17/00",
+      "ja": "撃針安全装置，すなわち滑動自在に取り付けられた撃鉄の動きを防ぐための手段（Ｆ４１Ａ１７／０２～Ｆ４１Ａ１７／４０が優先）［５］",
+      "en": "Firing-pin safeties, i.e. means for preventing movement of slidably-mounted strikers(<b>F41A17/02 to F41A17/40</b>  take precedence)",
+      "count": 347,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A17/66": {
+      "code": "F41A17/66",
+      "level": 2,
+      "parent": "F41A17/64",
+      "ja": "自動的に作動するもの，すなわち尾栓の開または閉動作により作動するもの［５］",
+      "en": "automatically operated, i.e. operated by breech opening or closing movement",
+      "count": 150,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A17/68": {
+      "code": "F41A17/68",
+      "level": 3,
+      "parent": "F41A17/66",
+      "ja": "折り曲げ動作によるもの［５］",
+      "en": "by breakdown action",
+      "count": 8,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A17/70": {
+      "code": "F41A17/70",
+      "level": 2,
+      "parent": "F41A17/64",
+      "ja": "銃床の上側に取り付けられた親指操作の滑動安全器，例．散弾銃用［５］",
+      "en": "Thumb-operated sliding safeties mounted on the upside of the stock, e.g. for shotguns",
+      "count": 24,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A17/72": {
+      "code": "F41A17/72",
+      "level": 2,
+      "parent": "F41A17/64",
+      "ja": "引金作動のもの，すなわち発射中撃針安全器を非動作位置にもたらす引金の動き［５］",
+      "en": "trigger-operated, i.e. the movement of the trigger bringing a firing-pin safety into inoperative position during the firing",
+      "count": 118,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A17/74": {
+      "code": "F41A17/74",
+      "level": 1,
+      "parent": "F41A17/00",
+      "ja": "撃鉄安全器，すなわち撃鉄が薬包または撃針を打つのを妨げるための手段（Ｆ４１Ａ１７／０２～Ｆ４１Ａ１７／４０が優先）［５］",
+      "en": "Hammer safeties, i.e. for preventing the hammer from hitting the cartridge or the firing pin(<b>F41A17/02 to F41A17/40</b>  take precedence)",
+      "count": 384,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A17/76": {
+      "code": "F41A17/76",
+      "level": 2,
+      "parent": "F41A17/74",
+      "ja": "自動的に作動するもの，すなわち尾栓の開閉動作により作動するもの［５］",
+      "en": "automatically operated, i.e. operated by breech opening or closing movement",
+      "count": 53,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A17/78": {
+      "code": "F41A17/78",
+      "level": 3,
+      "parent": "F41A17/76",
+      "ja": "折り曲げ動作によるもの［５］",
+      "en": "by breakdown action",
+      "count": 10,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A17/80": {
+      "code": "F41A17/80",
+      "level": 2,
+      "parent": "F41A17/74",
+      "ja": "銃床の上側に取り付けられた親指操作の滑動安全器，例．散弾銃用［５］",
+      "en": "Thumb-operated sliding safeties mounted on the upside of the stock, e.g. for shotguns",
+      "count": 36,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A17/82": {
+      "code": "F41A17/82",
+      "level": 2,
+      "parent": "F41A17/74",
+      "ja": "引金作動のもの，すなわち発射中撃鉄安全器を非動作位置にもたらす引金の動き［５］",
+      "en": "trigger-operated, i.e. the movement of the trigger bringing a hammer safety into inoperative position during firing",
+      "count": 73,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A19/00": {
+      "code": "F41A19/00",
+      "level": 0,
+      "parent": "F41A",
+      "ja": "発射または引金機構；撃鉄起し機構［５］",
+      "en": "Firing or trigger mechanisms; Cocking mechanisms",
+      "count": 730,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A19/01": {
+      "code": "F41A19/01",
+      "level": 1,
+      "parent": "F41A19/00",
+      "ja": "発射弾数を表示する計数手段［５］",
+      "en": "Counting means indicating the number of shots fired",
+      "count": 289,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A19/02": {
+      "code": "F41A19/02",
+      "level": 2,
+      "parent": "F41A19/01",
+      "ja": "連射制限器（Ｆ４１Ａ１９／６７が優先）［５］",
+      "en": "Burst limiters(<b>F41A19/67</b> takes precedence)",
+      "count": 121,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A19/03": {
+      "code": "F41A19/03",
+      "level": 1,
+      "parent": "F41A19/00",
+      "ja": "発射速度制御（Ｆ４１Ａ３／７８，Ｆ４１Ａ５／２８，Ｆ４１Ａ１９／０５，Ｆ４１Ａ１９／６６が優先）［５］",
+      "en": "Shot-velocity control(<b>F41A3/78</b>, <b>F41A5/28</b>, <b>F41A19/05</b>, <b>F41A19/66</b> take precedence)",
+      "count": 245,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A19/04": {
+      "code": "F41A19/04",
+      "level": 2,
+      "parent": "F41A19/03",
+      "ja": "撃針または撃鉄の解放時間の調節によるもの［５］",
+      "en": "by controlling the time of release of the firing pin or hammer",
+      "count": 30,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A19/05": {
+      "code": "F41A19/05",
+      "level": 1,
+      "parent": "F41A19/00",
+      "ja": "航空機のプロペラ間を通過して発射するための同調［５］",
+      "en": "Synchronising for firing through the propeller of an aircraft",
+      "count": 157,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A19/06": {
+      "code": "F41A19/06",
+      "level": 1,
+      "parent": "F41A19/00",
+      "ja": "機械的発射機構（Ｆ４１Ａ１９／０１～Ｆ４１Ａ１９／０５，Ｆ４１Ａ１９／５９が優先）［５］",
+      "en": "Mechanical firing mechanisms(<b>F41A19/01 to F41A19/05</b> , <b>F41A19/59</b> take precedence)",
+      "count": 438,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A19/07": {
+      "code": "F41A19/07",
+      "level": 2,
+      "parent": "F41A19/06",
+      "ja": "押しボタン作動，例．親指を載せて［５］",
+      "en": "press-button actuated, e.g. with thumb rest",
+      "count": 89,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A19/08": {
+      "code": "F41A19/08",
+      "level": 2,
+      "parent": "F41A19/06",
+      "ja": "遠隔作動；拉縄（りゅうじょう）作動［５］",
+      "en": "remote actuated; lanyard actuated",
+      "count": 198,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A19/09": {
+      "code": "F41A19/09",
+      "level": 2,
+      "parent": "F41A19/06",
+      "ja": "補助引金装置（Ｆ４１Ａ１９／０８が優先）［５］",
+      "en": "Auxiliary trigger devices(<b>F41A19/08</b> takes precedence)",
+      "count": 154,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A19/10": {
+      "code": "F41A19/10",
+      "level": 2,
+      "parent": "F41A19/06",
+      "ja": "引金；引金の取り付け［５］",
+      "en": "Triggers; Trigger mountings",
+      "count": 848,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A19/11": {
+      "code": "F41A19/11",
+      "level": 2,
+      "parent": "F41A19/06",
+      "ja": "用心金；用心金の取り付け（Ｆ４１Ａ１９／１５が優先）［５］",
+      "en": "Trigger guards; Trigger-guard mountings(<b>F41A19/15</b> takes precedence)",
+      "count": 165,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A19/12": {
+      "code": "F41A19/12",
+      "level": 2,
+      "parent": "F41A19/06",
+      "ja": "逆鈎；逆鈎の取り付け［５］",
+      "en": "Sears; Sear mountings",
+      "count": 344,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A19/13": {
+      "code": "F41A19/13",
+      "level": 2,
+      "parent": "F41A19/06",
+      "ja": "撃発または撃針，すなわち固定または滑動自在に取り付けられた撃鉄部品；そのための取り付け［５］",
+      "en": "Percussion or firing pins, i.e. fixed or slidably- mounted striker elements; Mountings therefor",
+      "count": 480,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A19/14": {
+      "code": "F41A19/14",
+      "level": 2,
+      "parent": "F41A19/06",
+      "ja": "撃鉄，すなわち回転可能に軸支された撃鉄部材；撃鉄の取り付け［５］",
+      "en": "Hammers, i.e. pivotably-mounted striker elements; Hammer mountings",
+      "count": 301,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A19/15": {
+      "code": "F41A19/15",
+      "level": 2,
+      "parent": "F41A19/06",
+      "ja": "モジュール型発射機構ユニット［５］",
+      "en": "Modular firing mechanism units",
+      "count": 217,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A19/16": {
+      "code": "F41A19/16",
+      "level": 2,
+      "parent": "F41A19/06",
+      "ja": "調整可能な発射機構；引きが調整可能な引金機構（Ｆ４１Ａ１９／１７が優先）［５］",
+      "en": "Adjustable firing mechanisms; Trigger mechanisms with adjustable trigger pull(<b>F41A19/17</b> takes precedence)",
+      "count": 389,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A19/17": {
+      "code": "F41A19/17",
+      "level": 2,
+      "parent": "F41A19/06",
+      "ja": "触発引金機構［５］",
+      "en": "Hair-trigger mechanisms",
+      "count": 125,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A19/18": {
+      "code": "F41A19/18",
+      "level": 2,
+      "parent": "F41A19/06",
+      "ja": "多連装銃用（Ｆ４１Ａ１９／６８が優先）［５］",
+      "en": "for multibarrel guns(<b>F41A19/68</b> takes precedence)",
+      "count": 204,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A19/19": {
+      "code": "F41A19/19",
+      "level": 3,
+      "parent": "F41A19/18",
+      "ja": "単一引金発射が可能なもの［５］",
+      "en": "with single-trigger firing possibility",
+      "count": 10,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A19/20": {
+      "code": "F41A19/20",
+      "level": 4,
+      "parent": "F41A19/19",
+      "ja": "単一引金作動の可能な複動引金装置［５］",
+      "en": "Double-trigger arrangements having the possibility of single-trigger actuation",
+      "count": 90,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A19/21": {
+      "code": "F41A19/21",
+      "level": 4,
+      "parent": "F41A19/19",
+      "ja": "１つの引金だけを有するもの［５］",
+      "en": "having only one trigger",
+      "count": 302,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A19/22": {
+      "code": "F41A19/22",
+      "level": 5,
+      "parent": "F41A19/21",
+      "ja": "および１つの撃鉄部材だけを有するもの［５］",
+      "en": "and only one striker element",
+      "count": 62,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A19/23": {
+      "code": "F41A19/23",
+      "level": 6,
+      "parent": "F41A19/22",
+      "ja": "次の砲身で発射するため砲身軸に平行な軸のまわりに回転できるもの［５］",
+      "en": "rotatable about an axis parallel to the barrel axis for firing subsequent barrels",
+      "count": 57,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A19/24": {
+      "code": "F41A19/24",
+      "level": 2,
+      "parent": "F41A19/06",
+      "ja": "引金解放機構，すなわち引金の引きに続いて起こる引金の復帰動作中に解放される引金部材［５］",
+      "en": "Release-trigger mechanisms, i.e. the striker element being released during the return movement of the trigger subsequent to trigger pull",
+      "count": 77,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A19/25": {
+      "code": "F41A19/25",
+      "level": 2,
+      "parent": "F41A19/06",
+      "ja": "滑動自在に取り付けられた引金部材だけを有するもの，すなわち撃発または撃針［５］",
+      "en": "having only slidably-mounted striker elements, i.e. percussion or firing pins",
+      "count": 51,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A19/26": {
+      "code": "F41A19/26",
+      "level": 3,
+      "parent": "F41A19/25",
+      "ja": "撃発または撃針および一体化された尾栓または遊底［５］",
+      "en": "the percussion or firing pin and the breech-block or bolt forming one piece",
+      "count": 51,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A19/27": {
+      "code": "F41A19/27",
+      "level": 3,
+      "parent": "F41A19/25",
+      "ja": "撃発または撃針が尾栓に連動できるもの［５］",
+      "en": "the percussion or firing pin being movable relative to the breech-block",
+      "count": 61,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A19/28": {
+      "code": "F41A19/28",
+      "level": 4,
+      "parent": "F41A19/27",
+      "ja": "尾栓または遊底が閉鎖位置にくるときカムまたはレバーで押し進められるもの［５］",
+      "en": "propelled by a cam or lever when the breech-block or bolt arrives at a closing position",
+      "count": 55,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A19/29": {
+      "code": "F41A19/29",
+      "level": 4,
+      "parent": "F41A19/27",
+      "ja": "付勢ばねにより押し進められるもの［５］",
+      "en": "propelled by a spring under tension",
+      "count": 103,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A19/30": {
+      "code": "F41A19/30",
+      "level": 5,
+      "parent": "F41A19/29",
+      "ja": "遊底式銃におけるもの［５］",
+      "en": "in bolt-action guns",
+      "count": 415,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A19/31": {
+      "code": "F41A19/31",
+      "level": 6,
+      "parent": "F41A19/30",
+      "ja": "そのための逆鈎装置（Ｆ４１Ａ１９／３３が優先）［５］",
+      "en": "Sear arrangements therefor(<b>F41A19/33</b> takes precedence)",
+      "count": 340,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A19/32": {
+      "code": "F41A19/32",
+      "level": 7,
+      "parent": "F41A19/31",
+      "ja": "各発射後，撃発または撃針を捕えるためのもの，すなわち単射または半自動発射モードにおいて［５］",
+      "en": "for catching the percussion or firing pin after each shot, i.e. in single-shot or semi-automatic firing mode",
+      "count": 140,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A19/33": {
+      "code": "F41A19/33",
+      "level": 6,
+      "parent": "F41A19/30",
+      "ja": "自動または半自動発射の選択装置［５］",
+      "en": "Arrangements for the selection of automatic or semi-automatic fire",
+      "count": 379,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A19/34": {
+      "code": "F41A19/34",
+      "level": 6,
+      "parent": "F41A19/30",
+      "ja": "撃鉄起し機構［５］",
+      "en": "Cocking mechanisms",
+      "count": 245,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A19/35": {
+      "code": "F41A19/35",
+      "level": 7,
+      "parent": "F41A19/34",
+      "ja": "複動機構，すなわち撃鉄起しが引金を引く最初の動作中に生じるもの［５］",
+      "en": "Double-action mechanisms, i.e. the cocking being effected during the first part of the trigger pull movement",
+      "count": 75,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A19/36": {
+      "code": "F41A19/36",
+      "level": 5,
+      "parent": "F41A19/29",
+      "ja": "尾栓式銃におけるもの［５］",
+      "en": "in block-action guns",
+      "count": 83,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A19/37": {
+      "code": "F41A19/37",
+      "level": 6,
+      "parent": "F41A19/36",
+      "ja": "撃鉄起し機構［５］",
+      "en": "Cocking mechanisms",
+      "count": 71,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A19/38": {
+      "code": "F41A19/38",
+      "level": 7,
+      "parent": "F41A19/37",
+      "ja": "複動機構，すなわち撃鉄起しが引金を引く最初の動作中に生じるもの［５］",
+      "en": "Double-action mechanisms, i.e. the cocking being effected during the first part of the trigger pull movement",
+      "count": 26,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A19/39": {
+      "code": "F41A19/39",
+      "level": 5,
+      "parent": "F41A19/29",
+      "ja": "他の形式の銃のための撃鉄起し機構，例．固定尾栓型，前方滑動砲身型［５］",
+      "en": "Cocking mechanisms for other types of guns, e.g. fixed breech-block types, forwardly-slidable barrel types",
+      "count": 139,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A19/40": {
+      "code": "F41A19/40",
+      "level": 6,
+      "parent": "F41A19/39",
+      "ja": "複動機構，すなわち撃鉄起こしが引金を引く最初の動作中に生じるもの［５］",
+      "en": "Double-action mechanisms, i.e. the cocking being effected during the first part of the trigger pull movement",
+      "count": 55,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A19/41": {
+      "code": "F41A19/41",
+      "level": 6,
+      "parent": "F41A19/39",
+      "ja": "折り曲げ式銃用［５］",
+      "en": "for breakdown guns",
+      "count": 85,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A19/42": {
+      "code": "F41A19/42",
+      "level": 2,
+      "parent": "F41A19/06",
+      "ja": "少なくとも１つの撃鉄を有するもの［５］",
+      "en": "having at least one hammer",
+      "count": 111,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A19/43": {
+      "code": "F41A19/43",
+      "level": 3,
+      "parent": "F41A19/42",
+      "ja": "遊底式銃におけるもの［５］",
+      "en": "in bolt-action guns",
+      "count": 181,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A19/44": {
+      "code": "F41A19/44",
+      "level": 4,
+      "parent": "F41A19/43",
+      "ja": "そのための逆鈎装置（Ｆ４１Ａ１９／４６が優先）［５］",
+      "en": "Sear arrangements therefor(<b>F41A19/46</b> takes precedence)",
+      "count": 172,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A19/45": {
+      "code": "F41A19/45",
+      "level": 5,
+      "parent": "F41A19/44",
+      "ja": "各発射後撃鉄を捕えるためのもの，すなわち単発または半自動発射モードにおいて［５］",
+      "en": "for catching the hammer after each shot, i.e. in single-shot or semi- automatic firing mode",
+      "count": 165,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A19/46": {
+      "code": "F41A19/46",
+      "level": 4,
+      "parent": "F41A19/43",
+      "ja": "自動または半自動発射の選択装置［５］",
+      "en": "Arrangements for the selection of automatic or semi-automatic fire",
+      "count": 194,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A19/47": {
+      "code": "F41A19/47",
+      "level": 4,
+      "parent": "F41A19/43",
+      "ja": "撃鉄起こし機構［５］",
+      "en": "Cocking mechanisms",
+      "count": 116,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A19/48": {
+      "code": "F41A19/48",
+      "level": 5,
+      "parent": "F41A19/47",
+      "ja": "複動機構，すなわち撃鉄起こしが引金を引く最初の動作中に生じるもの［５］",
+      "en": "Double-action mechanisms, i.e. the cocking being effected during the first part of the trigger pull movement",
+      "count": 105,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A19/49": {
+      "code": "F41A19/49",
+      "level": 3,
+      "parent": "F41A19/42",
+      "ja": "尾栓式銃におけるもの［５］",
+      "en": "in block-action guns",
+      "count": 41,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A19/50": {
+      "code": "F41A19/50",
+      "level": 4,
+      "parent": "F41A19/49",
+      "ja": "撃鉄起こし機構［５］",
+      "en": "Cocking mechanisms",
+      "count": 36,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A19/51": {
+      "code": "F41A19/51",
+      "level": 5,
+      "parent": "F41A19/50",
+      "ja": "複動機構，すなわち撃鉄起こしが引金を引く最初の動作中に生じるもの［５］",
+      "en": "Double-action mechanisms, i.e. the cocking being effected during the first part of the trigger pull movement",
+      "count": 12,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A19/52": {
+      "code": "F41A19/52",
+      "level": 3,
+      "parent": "F41A19/42",
+      "ja": "他の形式の銃のための撃鉄起こし機構，例．固定尾栓式，リボルバ［５］",
+      "en": "Cocking mechanisms for other types of guns, e.g. fixed breech-block types, revolvers",
+      "count": 186,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A19/53": {
+      "code": "F41A19/53",
+      "level": 4,
+      "parent": "F41A19/52",
+      "ja": "複動機構，すなわち撃鉄起こしが引金を引く最初の動作中に生じるもの［５］",
+      "en": "Double-action mechanisms, i.e. the cocking being effected during the first part of the trigger pull movement",
+      "count": 117,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A19/54": {
+      "code": "F41A19/54",
+      "level": 4,
+      "parent": "F41A19/52",
+      "ja": "折り曲げ式銃用［５］",
+      "en": "for breakdown guns",
+      "count": 241,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A19/55": {
+      "code": "F41A19/55",
+      "level": 1,
+      "parent": "F41A19/00",
+      "ja": "流体作動の発射機構［５］",
+      "en": "Fluid-operated firing mechanisms",
+      "count": 111,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A19/56": {
+      "code": "F41A19/56",
+      "level": 2,
+      "parent": "F41A19/55",
+      "ja": "断熱圧縮による加熱空気との接触による推進装薬の点火［５］",
+      "en": "Ignition of the propellant charge by contact with air heated by adiabatic compression",
+      "count": 27,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A19/57": {
+      "code": "F41A19/57",
+      "level": 1,
+      "parent": "F41A19/00",
+      "ja": "火管薬包で作動する発射機構［５］",
+      "en": "Firing mechanisms operating with primer cartridge",
+      "count": 125,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A19/58": {
+      "code": "F41A19/58",
+      "level": 1,
+      "parent": "F41A19/00",
+      "ja": "電気式発射機構（Ｆ４１Ａ１７／１０，Ｆ４１Ａ１７／１２が優先）［５］",
+      "en": "Electric firing mechanisms(<b>F41A17/10</b>, <b>F41A17/12</b> take precedence)",
+      "count": 619,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A19/59": {
+      "code": "F41A19/59",
+      "level": 2,
+      "parent": "F41A19/58",
+      "ja": "電気機械式発射機構，すなわち機械的撃鉄部材が電気的手段により推進または解放されるもの［５］",
+      "en": "Electromechanical firing mechanisms, i.e. the mechanical striker element being propelled or released by electric means",
+      "count": 314,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A19/60": {
+      "code": "F41A19/60",
+      "level": 2,
+      "parent": "F41A19/58",
+      "ja": "電気エネルギ発生手段に特徴があるもの［５］",
+      "en": "characterised by the means for generating electric energy",
+      "count": 56,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A19/61": {
+      "code": "F41A19/61",
+      "level": 3,
+      "parent": "F41A19/60",
+      "ja": "誘導発電器［５］",
+      "en": "Inductive generators",
+      "count": 55,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A19/62": {
+      "code": "F41A19/62",
+      "level": 3,
+      "parent": "F41A19/60",
+      "ja": "圧電式発電器［５］",
+      "en": "Piezoelectric generators",
+      "count": 45,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A19/63": {
+      "code": "F41A19/63",
+      "level": 2,
+      "parent": "F41A19/58",
+      "ja": "電気エネルギの非接触伝達手段を有するもの，例．誘導によるもの，火花間隙によるもの［５］",
+      "en": "having means for contactless transmission of electric energy, e.g. by induction, by sparking gap",
+      "count": 137,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A19/64": {
+      "code": "F41A19/64",
+      "level": 2,
+      "parent": "F41A19/58",
+      "ja": "自動または連射モードのためのもの［５］",
+      "en": "for automatic or burst-firing mode",
+      "count": 174,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A19/65": {
+      "code": "F41A19/65",
+      "level": 3,
+      "parent": "F41A19/64",
+      "ja": "脈動発射を与えるためのもの，すなわち時限式多連装発射用の電気式連発スイッチを用いるもの，例．ロケットランチャー［５］",
+      "en": "for giving ripple fire, i.e. using electric sequencer switches for timed multiple-charge launching, e.g. for rocket launchers",
+      "count": 107,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A19/66": {
+      "code": "F41A19/66",
+      "level": 3,
+      "parent": "F41A19/64",
+      "ja": "電子的発射速度制御（Ｆ４１Ａ１９／６５が優先）［５］",
+      "en": "Electronic shot-velocity control(<b>F41A19/65</b> takes precedence)",
+      "count": 30,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A19/67": {
+      "code": "F41A19/67",
+      "level": 3,
+      "parent": "F41A19/64",
+      "ja": "連射制限器［５］",
+      "en": "Burst limiters",
+      "count": 26,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A19/68": {
+      "code": "F41A19/68",
+      "level": 2,
+      "parent": "F41A19/58",
+      "ja": "多連装銃用（Ｆ４１Ａ１９／６５が優先）［５］",
+      "en": "for multibarrel guns(<b>F41A19/65</b> takes precedence)",
+      "count": 78,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A19/69": {
+      "code": "F41A19/69",
+      "level": 2,
+      "parent": "F41A19/58",
+      "ja": "それへの固有の電気接点またはスイッチ（Ｆ４１Ａ１９／６５が優先）［５］",
+      "en": "Electric contacts or switches peculiar thereto(<b>F41A19/65</b> takes precedence)",
+      "count": 174,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A19/70": {
+      "code": "F41A19/70",
+      "level": 3,
+      "parent": "F41A19/69",
+      "ja": "電気撃針；そのための取付け［５］",
+      "en": "Electric firing pins; Mountings therefor",
+      "count": 79,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A21/00": {
+      "code": "F41A21/00",
+      "level": 0,
+      "parent": "F41A",
+      "ja": "砲身；銃身；銃砲口取付具；砲身取付け手段（Ｆ４１Ａ２５／００が優先；擲（てき）弾または暴動制圧用弾薬を小火器から発射するための砲身取付具Ｆ４１Ｃ２７／０６；照準装置Ｆ４１Ｇ１／００）［５］",
+      "en": "Barrels or gun tubes; Muzzle attachments; Barrel mounting means(<b>F41A25/00</b> takes precedence;   barrel attachments for firing grenades or riot-control ammunition from smallarms <b>F41C27/06</b>;   sighting devices <b>F41G1/00</b>)",
+      "count": 1220,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A21/02": {
+      "code": "F41A21/02",
+      "level": 1,
+      "parent": "F41A21/00",
+      "ja": "集成砲身，すなわち多層砲身，例．異なる材料の［５］",
+      "en": "Composite barrels, i.e. barrels having multiple layers, e.g. of different materials",
+      "count": 318,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A21/04": {
+      "code": "F41A21/04",
+      "level": 2,
+      "parent": "F41A21/02",
+      "ja": "砲身内筒［５］",
+      "en": "Barrel liners",
+      "count": 160,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A21/06": {
+      "code": "F41A21/06",
+      "level": 1,
+      "parent": "F41A21/00",
+      "ja": "複数砲身［５］",
+      "en": "Plural barrels",
+      "count": 222,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A21/08": {
+      "code": "F41A21/08",
+      "level": 2,
+      "parent": "F41A21/06",
+      "ja": "砲身結合［５］",
+      "en": "Barrel junctions",
+      "count": 200,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A21/10": {
+      "code": "F41A21/10",
+      "level": 1,
+      "parent": "F41A21/00",
+      "ja": "内筒，すなわち縮径弾薬を発射するための砲身で通常の砲身内に取付けられるもの［５］",
+      "en": "Insert barrels, i.e. barrels for firing reduced calibre ammunition and being mounted within the normal barrels",
+      "count": 401,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A21/12": {
+      "code": "F41A21/12",
+      "level": 1,
+      "parent": "F41A21/00",
+      "ja": "薬室；薬室内筒（Ｆ４１Ａ３／７４，Ｆ４１Ａ９／４６，Ｆ４１Ａ２１／０４が優先）［５］",
+      "en": "Cartridge chambers; Chamber liners(<b>F41A3/74</b>, <b>F41A9/46</b>, <b>F41A21/04</b> take precedence)",
+      "count": 368,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A21/14": {
+      "code": "F41A21/14",
+      "level": 2,
+      "parent": "F41A21/12",
+      "ja": "砲身軸から外れた薬室の配置［５］",
+      "en": "Arrangement of cartridge chambers lateral to the barrel axis",
+      "count": 19,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A21/16": {
+      "code": "F41A21/16",
+      "level": 1,
+      "parent": "F41A21/00",
+      "ja": "銃腔の形状に特徴のある砲身または銃身［５］",
+      "en": "Barrels or gun tubes characterised by the shape of the bore",
+      "count": 241,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A21/18": {
+      "code": "F41A21/18",
+      "level": 2,
+      "parent": "F41A21/16",
+      "ja": "溝；施条［５］",
+      "en": "Grooves; Rifling",
+      "count": 298,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A21/20": {
+      "code": "F41A21/20",
+      "level": 1,
+      "parent": "F41A21/00",
+      "ja": "材料に特徴のある砲身または銃身（Ｆ４１Ａ２１／０２が優先）［５］",
+      "en": "Barrels or gun tubes characterised by the material(<b>F41A21/02</b> takes precedence)",
+      "count": 143,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A21/22": {
+      "code": "F41A21/22",
+      "level": 1,
+      "parent": "F41A21/00",
+      "ja": "表面処理，例．リン酸処理，をほどこした砲身［５］",
+      "en": "Barrels which have undergone surface treatment, e.g. phosphating",
+      "count": 129,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A21/24": {
+      "code": "F41A21/24",
+      "level": 1,
+      "parent": "F41A21/00",
+      "ja": "フィンまたはリブを有する砲身または銃身，例．冷却用［５］",
+      "en": "Barrels or gun tubes with fins or ribs, e.g. for cooling",
+      "count": 142,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A21/26": {
+      "code": "F41A21/26",
+      "level": 1,
+      "parent": "F41A21/00",
+      "ja": "反動強化のため特に適合するもの，例．訓練目的用［５］",
+      "en": "specially adapted for recoil reinforcement, e.g. for training purposes",
+      "count": 193,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A21/28": {
+      "code": "F41A21/28",
+      "level": 1,
+      "parent": "F41A21/00",
+      "ja": "ガス膨脹室；ガス排出口のある銃砲身（Ｆ４１Ａ１／０６，Ｆ４１Ａ１３／０８が優先）［５］",
+      "en": "Gas-expansion chambers; Barrels provided with gas-relieving ports(<b>F41A1/06</b>, <b>F41A13/08</b> take precedence)",
+      "count": 409,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A21/30": {
+      "code": "F41A21/30",
+      "level": 1,
+      "parent": "F41A21/00",
+      "ja": "消音器［５］",
+      "en": "Silencers",
+      "count": 1298,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A21/32": {
+      "code": "F41A21/32",
+      "level": 1,
+      "parent": "F41A21/00",
+      "ja": "銃砲口取付具または抑止蓋（Ｆ４１Ａ２１／２６，Ｆ４１Ａ２１／３０，Ｆ４１Ａ２１／４６が優先）［５］",
+      "en": "Muzzle attachments or glands (<b>F41A21/26</b>, <b>F41A21/30</b>, <b>F41A21/46</b> take precedence)",
+      "count": 749,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A21/34": {
+      "code": "F41A21/34",
+      "level": 2,
+      "parent": "F41A21/32",
+      "ja": "防炎器［５］",
+      "en": "Flash dampers",
+      "count": 345,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A21/36": {
+      "code": "F41A21/36",
+      "level": 2,
+      "parent": "F41A21/32",
+      "ja": "反動減少のためのもの（反動減少装置一般Ｆ４１Ａ２５／００）［５］",
+      "en": "for recoil reduction(recoil reduction arrangements in general <b>F41A25/00</b>)",
+      "count": 830,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A21/38": {
+      "code": "F41A21/38",
+      "level": 3,
+      "parent": "F41A21/36",
+      "ja": "調整可能なもの［５］",
+      "en": "adjustable",
+      "count": 93,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A21/40": {
+      "code": "F41A21/40",
+      "level": 2,
+      "parent": "F41A21/32",
+      "ja": "散弾銃用絞り［５］",
+      "en": "Chokes for shotguns",
+      "count": 173,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A21/42": {
+      "code": "F41A21/42",
+      "level": 3,
+      "parent": "F41A21/40",
+      "ja": "調整可能なもの［５］",
+      "en": "adjustable",
+      "count": 70,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A21/44": {
+      "code": "F41A21/44",
+      "level": 1,
+      "parent": "F41A21/00",
+      "ja": "絶縁被筒；保護被筒［５］",
+      "en": "Insulation jackets; Protective jackets",
+      "count": 146,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A21/46": {
+      "code": "F41A21/46",
+      "level": 1,
+      "parent": "F41A21/00",
+      "ja": "発射体から装弾筒を分離する手段を有する砲身［５］",
+      "en": "Barrels having means for separating sabots from projectiles",
+      "count": 81,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A21/48": {
+      "code": "F41A21/48",
+      "level": 1,
+      "parent": "F41A21/00",
+      "ja": "砲身取付け手段，例．取外し可能な砲身のための着脱自在の取付け［５］",
+      "en": "Barrel mounting means, e.g. releasable mountings for replaceable barrels",
+      "count": 1239,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A23/00": {
+      "code": "F41A23/00",
+      "level": 0,
+      "parent": "F41A",
+      "ja": "砲架，例．車両上；車両への銃の配置（Ｆ４１Ａ２５／００，Ｆ４１Ａ２７／００が優先）［５］",
+      "en": "Gun mountings, e.g. on vehicles; Disposition of guns on vehicles(<b>F41A25/00</b>, <b>F41A27/00</b> take precedence)",
+      "count": 942,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A23/02": {
+      "code": "F41A23/02",
+      "level": 1,
+      "parent": "F41A23/00",
+      "ja": "車輪のない砲架［５］",
+      "en": "Mountings without wheels",
+      "count": 485,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A23/04": {
+      "code": "F41A23/04",
+      "level": 2,
+      "parent": "F41A23/02",
+      "ja": "１脚［５］",
+      "en": "Unipods",
+      "count": 88,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A23/06": {
+      "code": "F41A23/06",
+      "level": 3,
+      "parent": "F41A23/04",
+      "ja": "調整可能なもの［５］",
+      "en": "adjustable",
+      "count": 152,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A23/08": {
+      "code": "F41A23/08",
+      "level": 2,
+      "parent": "F41A23/02",
+      "ja": "２脚［５］",
+      "en": "Bipods",
+      "count": 221,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A23/10": {
+      "code": "F41A23/10",
+      "level": 3,
+      "parent": "F41A23/08",
+      "ja": "調整可能なもの［５］",
+      "en": "adjustable",
+      "count": 193,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A23/12": {
+      "code": "F41A23/12",
+      "level": 2,
+      "parent": "F41A23/02",
+      "ja": "３脚［５］",
+      "en": "Tripods",
+      "count": 256,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A23/14": {
+      "code": "F41A23/14",
+      "level": 3,
+      "parent": "F41A23/12",
+      "ja": "調整可能なもの［５］",
+      "en": "adjustable",
+      "count": 127,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A23/16": {
+      "code": "F41A23/16",
+      "level": 2,
+      "parent": "F41A23/02",
+      "ja": "試験架［５］",
+      "en": "Testing mounts",
+      "count": 272,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A23/18": {
+      "code": "F41A23/18",
+      "level": 2,
+      "parent": "F41A23/02",
+      "ja": "非発射位置に小火器を支持するための架台（貯蔵用ラックＡ４７Ｂ８１／００；車両内のラックＢ６０Ｒ１１／００）［５］",
+      "en": "Rests for supporting smallarms in non-shooting position(racks for storage <b>A47B81/00</b>; racks in vehicles <b>B60R11/00</b>)",
+      "count": 334,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A23/20": {
+      "code": "F41A23/20",
+      "level": 1,
+      "parent": "F41A23/00",
+      "ja": "隠ぺい銃用［５］",
+      "en": "for disappearing guns",
+      "count": 277,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A23/22": {
+      "code": "F41A23/22",
+      "level": 2,
+      "parent": "F41A23/20",
+      "ja": "潜水艦装備のもの［５］",
+      "en": "on board of submarines",
+      "count": 42,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A23/24": {
+      "code": "F41A23/24",
+      "level": 1,
+      "parent": "F41A23/00",
+      "ja": "砲塔砲架（弾薬の補給，装てんまたはガイドＦ４１Ａ９／００；砲塔砲用の機械的俯仰または旋回方式Ｆ４１Ａ２７／１８）［５］",
+      "en": "Turret gun mountings(feeding, loading or guiding ammunition <b>F41A9/00</b>; mechanical elevating or traversing systems for turret guns <b>F41A27/18</b>)",
+      "count": 355,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A23/26": {
+      "code": "F41A23/26",
+      "level": 1,
+      "parent": "F41A23/00",
+      "ja": "移送だけのための砲架；運搬車で使用するための銃の積みおろし装置（Ｆ４１Ａ２３／５０が優先）［５］",
+      "en": "Mountings for transport only; Loading or unloading arrangements for guns for use with carrier vehicles(<b>F41A23/50</b> takes precedence)",
+      "count": 176,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A23/28": {
+      "code": "F41A23/28",
+      "level": 1,
+      "parent": "F41A23/00",
+      "ja": "車輪付砲架；無限軌道砲架［５］",
+      "en": "Wheeled-gun mountings; Endless-track gun mountings",
+      "count": 347,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A23/30": {
+      "code": "F41A23/30",
+      "level": 2,
+      "parent": "F41A23/28",
+      "ja": "発射のため車輪が地上から持ち上げられるもの［５］",
+      "en": "the wheels being liftable from the ground for firing",
+      "count": 28,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A23/32": {
+      "code": "F41A23/32",
+      "level": 2,
+      "parent": "F41A23/28",
+      "ja": "開脚架を有するもの（Ｆ４１Ａ２３／３０，Ｆ４１Ａ２３／４６が優先）［５］",
+      "en": "with split trails(<b>F41A23/30</b>, <b>F41A23/46</b> take precedence)",
+      "count": 214,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A23/34": {
+      "code": "F41A23/34",
+      "level": 1,
+      "parent": "F41A23/00",
+      "ja": "車輪付車両または無限軌道車両用［５］",
+      "en": "on wheeled or endless-track vehicles",
+      "count": 519,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A23/36": {
+      "code": "F41A23/36",
+      "level": 2,
+      "parent": "F41A23/34",
+      "ja": "トレーラ用（Ｆ４１Ａ２３／４２が優先）［５］",
+      "en": "on trailers(<b>F41A23/42</b> takes precedence)",
+      "count": 58,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A23/38": {
+      "code": "F41A23/38",
+      "level": 2,
+      "parent": "F41A23/34",
+      "ja": "自動二輪車用［５］",
+      "en": "on motorcycles",
+      "count": 36,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A23/40": {
+      "code": "F41A23/40",
+      "level": 2,
+      "parent": "F41A23/34",
+      "ja": "軌道車両用［５］",
+      "en": "on rail vehicles",
+      "count": 51,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A23/42": {
+      "code": "F41A23/42",
+      "level": 2,
+      "parent": "F41A23/34",
+      "ja": "ロケット発射機用［５］",
+      "en": "for rocket throwers",
+      "count": 177,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A23/44": {
+      "code": "F41A23/44",
+      "level": 1,
+      "parent": "F41A23/00",
+      "ja": "そり用［５］",
+      "en": "on sledges",
+      "count": 3,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A23/46": {
+      "code": "F41A23/46",
+      "level": 1,
+      "parent": "F41A23/00",
+      "ja": "駐鋤（ちゅうじょ）［５］",
+      "en": "Trail spades",
+      "count": 91,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A23/48": {
+      "code": "F41A23/48",
+      "level": 2,
+      "parent": "F41A23/46",
+      "ja": "弾性体の［５］",
+      "en": "elastic",
+      "count": 11,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A23/50": {
+      "code": "F41A23/50",
+      "level": 1,
+      "parent": "F41A23/00",
+      "ja": "移動防止輪止め；移送中砲架台を固定位置に保持するための制動器［５］",
+      "en": "Travelling locks; Brakes for holding the gun platform in a fixed position during transport",
+      "count": 118,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A23/52": {
+      "code": "F41A23/52",
+      "level": 1,
+      "parent": "F41A23/00",
+      "ja": "砲架用底板［５］",
+      "en": "Base plates for gun mountings",
+      "count": 117,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A23/54": {
+      "code": "F41A23/54",
+      "level": 2,
+      "parent": "F41A23/52",
+      "ja": "迫撃砲用［５］",
+      "en": "for mortars",
+      "count": 96,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A23/56": {
+      "code": "F41A23/56",
+      "level": 1,
+      "parent": "F41A23/00",
+      "ja": "砲架台を垂直または水平位置に調整するための装置［５］",
+      "en": "Arrangements for adjusting the gun platform in the vertical or horizontal position(<b>F41A17/10</b>, <b>F41A17/12</b> take precedence)",
+      "count": 163,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A23/58": {
+      "code": "F41A23/58",
+      "level": 2,
+      "parent": "F41A23/56",
+      "ja": "液圧ジャッキ［５］",
+      "en": "Hydraulic jacks",
+      "count": 17,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A23/60": {
+      "code": "F41A23/60",
+      "level": 2,
+      "parent": "F41A23/56",
+      "ja": "ねじ作動ジャッキ［５］",
+      "en": "Screw-operated jacks",
+      "count": 7,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A25/00": {
+      "code": "F41A25/00",
+      "level": 0,
+      "parent": "F41A",
+      "ja": "後座または発射位置へ復座する砲架，例．砲鞍架；砲身の緩衝器または制動器（無反動銃砲Ｆ４１Ａ１／０８）［５］",
+      "en": "Gun mountings permitting recoil or return to battery, e.g. gun cradles; Barrel buffers or brakes(recoilless guns <b>F41A1/08</b>)",
+      "count": 451,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A25/02": {
+      "code": "F41A25/02",
+      "level": 1,
+      "parent": "F41A25/00",
+      "ja": "流体作動方式［５］",
+      "en": "Fluid-operated systems",
+      "count": 388,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A25/04": {
+      "code": "F41A25/04",
+      "level": 2,
+      "parent": "F41A25/02",
+      "ja": "調整可能なもの［５］",
+      "en": "adjustable",
+      "count": 30,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A25/06": {
+      "code": "F41A25/06",
+      "level": 1,
+      "parent": "F41A25/00",
+      "ja": "摩擦作動方式［５］",
+      "en": "Friction-operated systems",
+      "count": 88,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A25/08": {
+      "code": "F41A25/08",
+      "level": 2,
+      "parent": "F41A25/06",
+      "ja": "調整可能なもの［５］",
+      "en": "adjustable",
+      "count": 13,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A25/10": {
+      "code": "F41A25/10",
+      "level": 1,
+      "parent": "F41A25/00",
+      "ja": "ばね作動方式［５］",
+      "en": "Spring-operated systems",
+      "count": 203,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A25/12": {
+      "code": "F41A25/12",
+      "level": 2,
+      "parent": "F41A25/10",
+      "ja": "コイルばねを用いるもの［５］",
+      "en": "using coil springs",
+      "count": 231,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A25/14": {
+      "code": "F41A25/14",
+      "level": 3,
+      "parent": "F41A25/12",
+      "ja": "調整可能なもの［５］",
+      "en": "adjustable",
+      "count": 36,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A25/16": {
+      "code": "F41A25/16",
+      "level": 1,
+      "parent": "F41A25/00",
+      "ja": "複合方式［５］",
+      "en": "Hybrid systems",
+      "count": 102,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A25/18": {
+      "code": "F41A25/18",
+      "level": 2,
+      "parent": "F41A25/16",
+      "ja": "液圧弾性方式［５］",
+      "en": "Hydroelastic systems",
+      "count": 133,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A25/20": {
+      "code": "F41A25/20",
+      "level": 2,
+      "parent": "F41A25/16",
+      "ja": "液圧空気圧方式［５］",
+      "en": "Hydropneumatic systems",
+      "count": 142,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A25/22": {
+      "code": "F41A25/22",
+      "level": 1,
+      "parent": "F41A25/00",
+      "ja": "往復運動をする砲架または銃砲身の動作のための軸受装置［５］",
+      "en": "Bearing arrangements for the reciprocating gun-mount or barrel movement",
+      "count": 133,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A25/24": {
+      "code": "F41A25/24",
+      "level": 2,
+      "parent": "F41A25/22",
+      "ja": "ボールまたはローラベヤリングを用いるもの［５］",
+      "en": "using ball or roller bearings",
+      "count": 19,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A25/26": {
+      "code": "F41A25/26",
+      "level": 1,
+      "parent": "F41A25/00",
+      "ja": "後座部材または方式の組立てまたは取外し［５］",
+      "en": "Assembling or dismounting recoil elements or systems",
+      "count": 78,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A27/00": {
+      "code": "F41A27/00",
+      "level": 0,
+      "parent": "F41A",
+      "ja": "旋回または俯仰動作ができる砲架，例．砲車［５］",
+      "en": "Gun mountings permitting traversing or elevating movement, e.g. gun carriages",
+      "count": 254,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A27/02": {
+      "code": "F41A27/02",
+      "level": 1,
+      "parent": "F41A27/00",
+      "ja": "作動する銃と近接構造物間の干渉防止のための制御方式［５］",
+      "en": "Control systems for preventing interference between the moving gun and the adjacent structure",
+      "count": 95,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A27/04": {
+      "code": "F41A27/04",
+      "level": 1,
+      "parent": "F41A27/00",
+      "ja": "砲弾散布装置，すなわち発射中自動的に銃を振動させる手段［５］",
+      "en": "Scatter-fire arrangements, i.e. means for oscillating guns automatically during firing",
+      "count": 60,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A27/06": {
+      "code": "F41A27/06",
+      "level": 1,
+      "parent": "F41A27/00",
+      "ja": "機械的方式（Ｆ４１Ａ２７／０２，Ｆ４１Ａ２７／０４，Ｆ４１Ａ２７／３０が優先）［５］",
+      "en": "Mechanical systems(<b>F41A27/02</b>, <b>F41A27/04</b>, <b>F41A27/30</b> take precedence)",
+      "count": 528,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A27/08": {
+      "code": "F41A27/08",
+      "level": 2,
+      "parent": "F41A27/06",
+      "ja": "軸受，例．砲耳；制動器または停止装置［５］",
+      "en": "Bearings, e.g. trunnions; Brakes or blocking arrangements",
+      "count": 323,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A27/10": {
+      "code": "F41A27/10",
+      "level": 3,
+      "parent": "F41A27/08",
+      "ja": "回転可能に軸支された銃を壁に支持する軸受，例．砲塔壁［５］",
+      "en": "Bearings for supporting a pivoting gun in a wall, e.g. a turret wall",
+      "count": 169,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A27/12": {
+      "code": "F41A27/12",
+      "level": 3,
+      "parent": "F41A27/08",
+      "ja": "旋回または俯仰装置を固定位置に停止させるための制動器またはロック装置［５］",
+      "en": "Brakes or locks for blocking traversing or elevating gear in a fixed position",
+      "count": 133,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A27/14": {
+      "code": "F41A27/14",
+      "level": 3,
+      "parent": "F41A27/08",
+      "ja": "中央旋回軸受［５］",
+      "en": "Central-pivot bearings",
+      "count": 96,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A27/16": {
+      "code": "F41A27/16",
+      "level": 3,
+      "parent": "F41A27/08",
+      "ja": "みぞ付軸受を用いるもの，例．砲塔支持用［５］",
+      "en": "using raceway bearings, e.g. for supporting the turret",
+      "count": 66,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A27/18": {
+      "code": "F41A27/18",
+      "level": 2,
+      "parent": "F41A27/06",
+      "ja": "砲塔用（Ｆ４１Ａ２７／０８が優先）［５］",
+      "en": "for gun turrets(<b>F41A27/08</b> takes precedence)",
+      "count": 280,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A27/20": {
+      "code": "F41A27/20",
+      "level": 3,
+      "parent": "F41A27/18",
+      "ja": "砲塔駆動用装置［５］",
+      "en": "Drives for turret movements",
+      "count": 167,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A27/22": {
+      "code": "F41A27/22",
+      "level": 2,
+      "parent": "F41A27/06",
+      "ja": "旋回装置（Ｆ４１Ａ２７／１８が優先）［５］",
+      "en": "Traversing gear(<b>F41A27/18</b> takes precedence)",
+      "count": 232,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A27/24": {
+      "code": "F41A27/24",
+      "level": 2,
+      "parent": "F41A27/06",
+      "ja": "俯仰装置（Ｆ４１Ａ２７／１８が優先）［５］",
+      "en": "Elevating gear(<b>F41A27/18</b> takes precedence)",
+      "count": 398,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A27/26": {
+      "code": "F41A27/26",
+      "level": 1,
+      "parent": "F41A27/00",
+      "ja": "流体作動方式（Ｆ４１Ａ２７／０２，Ｆ４１Ａ２７／０４，Ｆ４１Ａ２７／３０が優先）［５］",
+      "en": "Fluid-operated systems(<b>F41A27/02</b>, <b>F41A27/04</b>, <b>F41A27/30</b> take precedence)",
+      "count": 198,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A27/28": {
+      "code": "F41A27/28",
+      "level": 1,
+      "parent": "F41A27/00",
+      "ja": "電気作動方式（Ｆ４１Ａ２７／０２，Ｆ４１Ａ２７／０４，Ｆ４１Ａ２７／３０が優先）［５］",
+      "en": "Electrically-operated systems(<b>F41A27/02</b>, <b>F41A27/04</b>, <b>F41A27/30</b> take precedence)",
+      "count": 248,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A27/30": {
+      "code": "F41A27/30",
+      "level": 1,
+      "parent": "F41A27/00",
+      "ja": "安定または補償方式，例．砲身の重量または風力に対する補償［５］",
+      "en": "Stabilisation or compensation systems, e.g. compensating for barrel weight or wind force",
+      "count": 403,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A29/00": {
+      "code": "F41A29/00",
+      "level": 0,
+      "parent": "F41A",
+      "ja": "洗浄または潤滑装置（銃砲身または薬室への流体注入Ｆ４１Ａ１３／０４）［５］",
+      "en": "Cleaning or lubricating arrangements(injecting fluids into barrels or cartridge chambers <b>F41A13/04</b>)",
+      "count": 785,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A29/02": {
+      "code": "F41A29/02",
+      "level": 1,
+      "parent": "F41A29/00",
+      "ja": "スクレーパまたは洗い棒［５］",
+      "en": "Scrapers or cleaning rods",
+      "count": 608,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A29/04": {
+      "code": "F41A29/04",
+      "level": 1,
+      "parent": "F41A29/00",
+      "ja": "潤滑，油またはグリース注入手段，例．使用中に作動するもの［５］",
+      "en": "Lubricating, oiling or greasing means, e.g. operating during use",
+      "count": 160,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A31/00": {
+      "code": "F41A31/00",
+      "level": 0,
+      "parent": "F41A",
+      "ja": "試験装置（試験砲架Ｆ４１Ａ２３／１６）［５］",
+      "en": "Testing arrangements(testing mounts <b>F41A23/16</b>)",
+      "count": 1293,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A31/02": {
+      "code": "F41A31/02",
+      "level": 1,
+      "parent": "F41A31/00",
+      "ja": "砲身検査用［５］",
+      "en": "for checking gun barrels",
+      "count": 359,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A33/00": {
+      "code": "F41A33/00",
+      "level": 0,
+      "parent": "F41A",
+      "ja": "訓練への適用（反動強化のための砲身の適用Ｆ４１Ａ２１／２６）；銃のシミュレータ（銃の照準合わせまたは照準するための教育または訓練用具Ｆ４１Ｇ３／２６）［５］",
+      "en": "Adaptations for training(adaptations of barrels for recoil reinforcement <b>F41A21/26</b>);Gun simulators(teaching or practice apparatus for gun-aiming or gun-laying <b>F41G3/26</b>)",
+      "count": 3215,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A33/02": {
+      "code": "F41A33/02",
+      "level": 1,
+      "parent": "F41A33/00",
+      "ja": "光または放射線放射銃［５］",
+      "en": "Light- or radiation-emitting guns",
+      "count": 1450,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A33/04": {
+      "code": "F41A33/04",
+      "level": 1,
+      "parent": "F41A33/00",
+      "ja": "銃発射の音響シミュレータ，例．火工品によるもの［５］",
+      "en": "Acoustical simulation of gun fire, e.g. by pyrotechnic means",
+      "count": 306,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A33/06": {
+      "code": "F41A33/06",
+      "level": 1,
+      "parent": "F41A33/00",
+      "ja": "後座シミュレータ［５］",
+      "en": "Recoil simulators",
+      "count": 453,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A35/00": {
+      "code": "F41A35/00",
+      "level": 0,
+      "parent": "F41A",
+      "ja": "他に分類されない付属具または細部［５］",
+      "en": "Accessories or details not otherwise provided for",
+      "count": 1197,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A35/02": {
+      "code": "F41A35/02",
+      "level": 1,
+      "parent": "F41A35/00",
+      "ja": "ちりまたは悪天候保護キャップまたはカバー（用心金保護用キャップＦ４１Ａ１７／５４）［５］",
+      "en": "Dust- or weather-protection caps or covers(protecting-caps for trigger guards <b>F41A17/54</b>)",
+      "count": 388,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A35/04": {
+      "code": "F41A35/04",
+      "level": 2,
+      "parent": "F41A35/02",
+      "ja": "銃砲口カバー［５］",
+      "en": "Muzzle covers",
+      "count": 169,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A35/06": {
+      "code": "F41A35/06",
+      "level": 1,
+      "parent": "F41A35/00",
+      "ja": "右手および左手両方使用への銃の適用［５］",
+      "en": "Adaptation of guns to both right and left hand use",
+      "count": 346,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    },
+    "F41A99/00": {
+      "code": "F41A99/00",
+      "level": 0,
+      "parent": "F41A",
+      "ja": "このサブクラスの他のグループに分類されない主題事項［８］",
+      "en": "Subject matter not provided for in other groups of this subclass",
+      "count": 66,
+      "sourceFile": "ipc_F41A.txt",
+      "kind": "ipc"
+    }
+  }
+}

@@ -1,0 +1,2936 @@
+{
+  "generatedAt": "2026-03-20T02:17:46.180Z",
+  "total": 293,
+  "entries": {
+    "B41F": {
+      "code": "B41F",
+      "level": 0,
+      "parent": "B41",
+      "ja": "印刷機械（複写装置または事務用印刷機Ｂ４１Ｌ）［４］<br><br><b><ul>注</ul></b><br>サブクラスＢ４１Ｌのタイトルに続く注（１）および（２）に注意すること。［６］<br><br><b><ul>サブクラス内の索引</ul></b><br>平圧印刷機　１／００<br>円圧印刷機　３／００<br>輪転機<br>凸版，平版，凹版印刷機　５／００，７／００，９／００<br>他の印刷機械；結合印刷機械　１１／００，１７／００；１９／００<br>細部　１３／００<br>スクリーン印刷機　１５／００<br>転写印刷機　１６／００<br>細部<br>印刷用紙または他の被印刷材料の取扱い；その処理　２１／００，２５／００，２２／００，２３／００<br>印刷要素の取付け装置；むらとりの装置；加圧面，転写面；着肉装置　２７／００；３０／００；３１／００<br>補助装置；洗浄装置　３３／００；３５／００",
+      "en": "PRINTING MACHINES OR PRESSES(manifolding devices or office printing machines <b>B41L</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>Attention is drawn to Notes (1) and (2) following the title of subclass <b>B41L</b>. </li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">PLATEN PRESSES </td><td><b><b>1/00</b></b></td></tr></tr><tr><td width=\"70%\">CYLINDER PRESSES </td><td><b><b>3/00</b></b></td></tr></tr><tr><td width=\"70%\">ROTARY MACHINES<tr><td width=\"70%\">Letterpress, lithographic, intaglio machines </td><td><b><b>5/00</b>, <b>7/00</b>, <b>9/00</b></b></td></tr></tr><tr><td width=\"70%\">Other machines; combined machines </td><td><b><b>11/00</b>, <b>17/00</b>; <b>19/00</b></b></td></tr></tr><tr><td width=\"70%\">Details </td><td><b><b>13/00</b></b></td></tr></tr><tr><td width=\"70%\">Screen printers </td><td><b><b>15/00</b></b></td></tr></tr><tr><td width=\"70%\">Transfer printing machines </td><td><b><b>16/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">DETAILS<tr><td width=\"70%\">Handling sheets or other surfaces to be printed; treating such surfaces </td><td><b><b>21/00</b>, <b>25/00</b>; <b>22/00</b>, <b>23/00</b></b></td></tr></tr><tr><td width=\"70%\">Attaching printing elements; make-ready arrangements, impression or offset surfaces; inking </td><td><b><b>27/00</b>; <b>30/00</b>; <b>31/00</b></b></td></tr></tr><tr><td width=\"70%\">Auxiliary devices; cleaning </td><td><b><b>33/00</b>; <b>35/00</b></b></td></tr></tr></tr></table>",
+      "count": 1281,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B41": {
+      "code": "B41",
+      "level": 0,
+      "parent": "B",
+      "ja": "印刷；線画機；タイプライター；スタンプ［４］",
+      "en": "PRINTING; LINING MACHINES; TYPEWRITERS; STAMPS",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B": {
+      "code": "B",
+      "level": 0,
+      "parent": null,
+      "ja": "処理操作；運輸",
+      "en": "PERFORMING OPERATIONS; TRANSPORTING",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B41F1/00": {
+      "code": "B41F1/00",
+      "level": 0,
+      "parent": "B41F",
+      "ja": "平圧印刷機，すなわち一つの平らな版盤と連動する少なくとも一つの平らな加圧部分によって印刷される印刷機",
+      "en": "Platen presses, i.e. presses in which printing is effected by at least one essentially-flat pressure-applying member co-operating with a flat type-bed",
+      "count": 510,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F1/02": {
+      "code": "B41F1/02",
+      "level": 1,
+      "parent": "B41F1/00",
+      "ja": "手動平圧印刷機",
+      "en": "Hand-operated platen presses",
+      "count": 117,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F1/04": {
+      "code": "B41F1/04",
+      "level": 1,
+      "parent": "B41F1/00",
+      "ja": "単色印刷用，例．枚葉紙に",
+      "en": "for mono-impression printing, e.g. on sheets",
+      "count": 311,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F1/06": {
+      "code": "B41F1/06",
+      "level": 2,
+      "parent": "B41F1/04",
+      "ja": "移動中，版盤に平行に保持された圧盤をもつもの",
+      "en": "with platen maintained parallel to bed during movement",
+      "count": 164,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F1/08": {
+      "code": "B41F1/08",
+      "level": 2,
+      "parent": "B41F1/04",
+      "ja": "巻取紙用",
+      "en": "on webs",
+      "count": 151,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F1/10": {
+      "code": "B41F1/10",
+      "level": 1,
+      "parent": "B41F1/00",
+      "ja": "一色以上による多数部印刷用，例．巻取紙上へのもの［２００６．０１］",
+      "en": "for multi-impression printing in one or more colours, e.g. on webs",
+      "count": 186,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F1/12": {
+      "code": "B41F1/12",
+      "level": 2,
+      "parent": "B41F1/10",
+      "ja": "枚葉紙用",
+      "en": "on sheets",
+      "count": 37,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F1/14": {
+      "code": "B41F1/14",
+      "level": 3,
+      "parent": "B41F1/12",
+      "ja": "揺動圧盤を用いるもの，または版支持体",
+      "en": "using swinging platens, or forme supports",
+      "count": 9,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F1/16": {
+      "code": "B41F1/16",
+      "level": 1,
+      "parent": "B41F1/00",
+      "ja": "オフセット印刷用",
+      "en": "for offset printing",
+      "count": 209,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F1/18": {
+      "code": "B41F1/18",
+      "level": 1,
+      "parent": "B41F1/00",
+      "ja": "平版印刷用",
+      "en": "for lithography",
+      "count": 166,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F1/20": {
+      "code": "B41F1/20",
+      "level": 1,
+      "parent": "B41F1/00",
+      "ja": "枚葉紙両面刷りのためのもの，すなわち枚葉紙の両側に印刷するためのもの",
+      "en": "for perfecting sheets, i.e. for printing on both sides of sheets",
+      "count": 32,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F1/22": {
+      "code": "B41F1/22",
+      "level": 1,
+      "parent": "B41F1/00",
+      "ja": "特に見出し印刷に応用されるもの，例．レターヘッド",
+      "en": "specially adapted for printing heads, e.g. letter heads",
+      "count": 80,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F1/24": {
+      "code": "B41F1/24",
+      "level": 1,
+      "parent": "B41F1/00",
+      "ja": "特に校正刷に応用されるもの",
+      "en": "specially adapted for proof printing",
+      "count": 16,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F1/26": {
+      "code": "B41F1/26",
+      "level": 1,
+      "parent": "B41F1/00",
+      "ja": "細部",
+      "en": "Details",
+      "count": 662,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F1/28": {
+      "code": "B41F1/28",
+      "level": 2,
+      "parent": "B41F1/26",
+      "ja": "枚葉紙の運搬，そろえ，または咬え装置",
+      "en": "Sheet-conveying, -aligning or -clamping devices",
+      "count": 828,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F1/30": {
+      "code": "B41F1/30",
+      "level": 3,
+      "parent": "B41F1/28",
+      "ja": "回転くわえづめを用いるもの",
+      "en": "using rotary grippers",
+      "count": 38,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F1/32": {
+      "code": "B41F1/32",
+      "level": 3,
+      "parent": "B41F1/28",
+      "ja": "空気圧を用いるもの，例．真空",
+      "en": "using air pressure, e.g. vacuum",
+      "count": 70,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F1/34": {
+      "code": "B41F1/34",
+      "level": 3,
+      "parent": "B41F1/28",
+      "ja": "見当合せ装置，例．当て針",
+      "en": "Registering devices, e.g. gauges",
+      "count": 236,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F1/36": {
+      "code": "B41F1/36",
+      "level": 3,
+      "parent": "B41F1/28",
+      "ja": "枚葉紙の運搬と圧盤上の枚葉紙の保持のための咬え",
+      "en": "Clamps for conveying sheets and for holding same on the platens",
+      "count": 52,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F1/38": {
+      "code": "B41F1/38",
+      "level": 2,
+      "parent": "B41F1/26",
+      "ja": "圧盤または版盤",
+      "en": "Platens or type-beds",
+      "count": 198,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F1/40": {
+      "code": "B41F1/40",
+      "level": 2,
+      "parent": "B41F1/26",
+      "ja": "着肉装置",
+      "en": "Inking units",
+      "count": 463,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F1/42": {
+      "code": "B41F1/42",
+      "level": 3,
+      "parent": "B41F1/40",
+      "ja": "平らな着肉要素を用いるもの，例．円盤",
+      "en": "using flat inking elements, e.g. discs",
+      "count": 13,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F1/44": {
+      "code": "B41F1/44",
+      "level": 3,
+      "parent": "B41F1/40",
+      "ja": "インクリボンを用いるもの",
+      "en": "using inking ribbons",
+      "count": 27,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F1/46": {
+      "code": "B41F1/46",
+      "level": 3,
+      "parent": "B41F1/40",
+      "ja": "ローラーを用いるもの",
+      "en": "using rollers",
+      "count": 94,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F1/48": {
+      "code": "B41F1/48",
+      "level": 3,
+      "parent": "B41F1/40",
+      "ja": "圧盤または版盤のまわりに旋回するもの",
+      "en": "pivoting around the platen or base",
+      "count": 9,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F1/50": {
+      "code": "B41F1/50",
+      "level": 3,
+      "parent": "B41F1/40",
+      "ja": "通路中または上の運動のために車上に支持されるもの",
+      "en": "supported on carriages for movement in or on runways",
+      "count": 14,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F1/52": {
+      "code": "B41F1/52",
+      "level": 4,
+      "parent": "B41F1/50",
+      "ja": "車台駆動歯車",
+      "en": "Carriage driving gear",
+      "count": 37,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F1/54": {
+      "code": "B41F1/54",
+      "level": 2,
+      "parent": "B41F1/26",
+      "ja": "印圧制御装置",
+      "en": "Printing-pressure control devices",
+      "count": 164,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F1/56": {
+      "code": "B41F1/56",
+      "level": 2,
+      "parent": "B41F1/26",
+      "ja": "補助装置",
+      "en": "Auxiliary devices",
+      "count": 125,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F1/58": {
+      "code": "B41F1/58",
+      "level": 3,
+      "parent": "B41F1/56",
+      "ja": "枚葉紙を数えるための計数装置の配置",
+      "en": "Arrangements of counting devices for counting sheets",
+      "count": 4,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F1/60": {
+      "code": "B41F1/60",
+      "level": 2,
+      "parent": "B41F1/26",
+      "ja": "安全装置",
+      "en": "Safety devices",
+      "count": 82,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F1/62": {
+      "code": "B41F1/62",
+      "level": 3,
+      "parent": "B41F1/60",
+      "ja": "操作者の傷害を防ぐもの",
+      "en": "for preventing injury to operator",
+      "count": 2,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F1/64": {
+      "code": "B41F1/64",
+      "level": 4,
+      "parent": "B41F1/62",
+      "ja": "操作者の手に対するもの",
+      "en": "to the hands of the operator",
+      "count": 5,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F1/66": {
+      "code": "B41F1/66",
+      "level": 3,
+      "parent": "B41F1/60",
+      "ja": "誤った操作状態に反応するもの",
+      "en": "responsive to incorrect operating conditions",
+      "count": 31,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F3/00": {
+      "code": "B41F3/00",
+      "level": 0,
+      "parent": "B41F",
+      "ja": "円圧印刷機，すなわち少なくとも一つの平らな版盤と連動する少なくとも一つの圧胴をもつもの",
+      "en": "Cylinder presses, i.e. presses essentially comprising at least one cylinder co-operating with at least one flat type-bed",
+      "count": 289,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F3/02": {
+      "code": "B41F3/02",
+      "level": 1,
+      "parent": "B41F3/00",
+      "ja": "単一方向に回転する圧胴をもつもの",
+      "en": "with impression cylinder or cylinders rotating unidirectionally",
+      "count": 139,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F3/04": {
+      "code": "B41F3/04",
+      "level": 2,
+      "parent": "B41F3/02",
+      "ja": "間欠的なもの；停止胴印刷機",
+      "en": "intermittently; Stop-cylinder presses",
+      "count": 44,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F3/06": {
+      "code": "B41F3/06",
+      "level": 2,
+      "parent": "B41F3/02",
+      "ja": "連続的なもの",
+      "en": "continuously",
+      "count": 28,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F3/08": {
+      "code": "B41F3/08",
+      "level": 3,
+      "parent": "B41F3/06",
+      "ja": "１回転印刷機",
+      "en": "Single-revolution presses",
+      "count": 18,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F3/10": {
+      "code": "B41F3/10",
+      "level": 3,
+      "parent": "B41F3/06",
+      "ja": "２回転印刷機",
+      "en": "Two-revolution presses",
+      "count": 17,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F3/12": {
+      "code": "B41F3/12",
+      "level": 2,
+      "parent": "B41F3/02",
+      "ja": "トウイン印刷機，すなわち二つ以上の圧胴又は版盤をもつもの",
+      "en": "Twin presses, i.e. with more than one cylinder or type-bed",
+      "count": 45,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F3/14": {
+      "code": "B41F3/14",
+      "level": 1,
+      "parent": "B41F3/00",
+      "ja": "各々の作動周期中反対方向に回転する圧胴をもつもの",
+      "en": "with impression cylinder or cylinders rotating in opposite directions during each working cycle",
+      "count": 28,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F3/16": {
+      "code": "B41F3/16",
+      "level": 2,
+      "parent": "B41F3/14",
+      "ja": "トウイン印刷機，すなわち二つ以上の胴又は版盤をもつもの",
+      "en": "Twin presses, i.e. with more than one cylinder or type-bed",
+      "count": 7,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F3/18": {
+      "code": "B41F3/18",
+      "level": 1,
+      "parent": "B41F3/00",
+      "ja": "特殊な構造のものまたは特殊な目的のもの",
+      "en": "of special construction or for particular purposes",
+      "count": 81,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F3/20": {
+      "code": "B41F3/20",
+      "level": 2,
+      "parent": "B41F3/18",
+      "ja": "固定版盤と移動圧胴とをもつもの",
+      "en": "with fixed type-beds and travelling impression cylinders",
+      "count": 856,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F3/22": {
+      "code": "B41F3/22",
+      "level": 3,
+      "parent": "B41F3/20",
+      "ja": "二つ以上の版盤をもつもの",
+      "en": "with more than one type-bed",
+      "count": 19,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F3/24": {
+      "code": "B41F3/24",
+      "level": 3,
+      "parent": "B41F3/20",
+      "ja": "上下印刷面をもつ版盤のまわりに移動する胴をもつもの",
+      "en": "with cylinders travelling around type-beds having upper and lower printing surfaces",
+      "count": 5,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F3/26": {
+      "code": "B41F3/26",
+      "level": 2,
+      "parent": "B41F3/18",
+      "ja": "相互に同時に動き得る版盤と圧胴をもつもの",
+      "en": "with type-beds and impression cylinders simultaneously movable relative to one another",
+      "count": 22,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F3/28": {
+      "code": "B41F3/28",
+      "level": 2,
+      "parent": "B41F3/18",
+      "ja": "凸版，平版または凹版用校正印刷機，すなわち印刷版面の正確さを検査する印刷機",
+      "en": "Proof-print presses for relief printing, lithography or intaglio printing, i.e. presses for checking accuracy of printing surfaces",
+      "count": 154,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F3/30": {
+      "code": "B41F3/30",
+      "level": 2,
+      "parent": "B41F3/18",
+      "ja": "平版用（校正印刷機Ｂ４１Ｆ３／２８）",
+      "en": "for lithography(proof-print presses <b>B41F3/28</b>)",
+      "count": 184,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F3/32": {
+      "code": "B41F3/32",
+      "level": 3,
+      "parent": "B41F3/30",
+      "ja": "湿し装置",
+      "en": "Damping devices",
+      "count": 44,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F3/34": {
+      "code": "B41F3/34",
+      "level": 3,
+      "parent": "B41F3/30",
+      "ja": "オフセット印刷用",
+      "en": "for offset printing",
+      "count": 259,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F3/36": {
+      "code": "B41F3/36",
+      "level": 2,
+      "parent": "B41F3/18",
+      "ja": "凹版又は散粉グラビア印刷（校正印刷機Ｂ４１Ｆ３／２８）",
+      "en": "for intaglio or heliogravure printing(proof-print presses <b>B41F3/28</b>)",
+      "count": 239,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F3/38": {
+      "code": "B41F3/38",
+      "level": 3,
+      "parent": "B41F3/36",
+      "ja": "インキぬぐい機構",
+      "en": "Wiping mechanisms",
+      "count": 139,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F3/40": {
+      "code": "B41F3/40",
+      "level": 2,
+      "parent": "B41F3/18",
+      "ja": "枚葉紙両面印刷用，すなわちその両側に印刷するもの",
+      "en": "for perfecting sheets, i.e. for printing on both sides thereof",
+      "count": 56,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F3/42": {
+      "code": "B41F3/42",
+      "level": 2,
+      "parent": "B41F3/18",
+      "ja": "枚葉紙の多色印刷用",
+      "en": "for multicolour printing on sheets",
+      "count": 130,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F3/44": {
+      "code": "B41F3/44",
+      "level": 2,
+      "parent": "B41F3/18",
+      "ja": "巻取紙の片面単色または多色印刷用，または巻取紙両面印刷用のすなわち巻取紙の両面単色色または多色印刷用",
+      "en": "for monocolour or multicolour printing on one side of webs, or for perfecting webs, i.e. monocolour or multicolour printing on both sides of webs",
+      "count": 43,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F3/46": {
+      "code": "B41F3/46",
+      "level": 1,
+      "parent": "B41F3/00",
+      "ja": "細部",
+      "en": "Details",
+      "count": 318,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F3/48": {
+      "code": "B41F3/48",
+      "level": 2,
+      "parent": "B41F3/46",
+      "ja": "プレスフレーム",
+      "en": "Press frames",
+      "count": 28,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F3/51": {
+      "code": "B41F3/51",
+      "level": 2,
+      "parent": "B41F3/46",
+      "ja": "版盤；その支持体（Ｂ４１Ｆ３／５２が優先）［３］",
+      "en": "Type-beds; Supports therefor(<b>B41F3/52</b> take precedence)",
+      "count": 100,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F3/52": {
+      "code": "B41F3/52",
+      "level": 2,
+      "parent": "B41F3/46",
+      "ja": "版面を冷却，加熱または乾燥する装置［３］",
+      "en": "Apparatus for cooling, heating, or drying printing surfaces",
+      "count": 78,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F3/54": {
+      "code": "B41F3/54",
+      "level": 2,
+      "parent": "B41F3/46",
+      "ja": "圧胴；その支持体",
+      "en": "Impression cylinders; Supports therefor",
+      "count": 105,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F3/56": {
+      "code": "B41F3/56",
+      "level": 3,
+      "parent": "B41F3/54",
+      "ja": "版盤に対し胴を調節し，調節された位置に固定する装置",
+      "en": "Devices for adjusting cylinders relative to type-beds and setting in adjusted position",
+      "count": 61,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F3/58": {
+      "code": "B41F3/58",
+      "level": 2,
+      "parent": "B41F3/46",
+      "ja": "駆動，同期，または制御用歯車",
+      "en": "Driving, synchronising, or control gear",
+      "count": 385,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F3/60": {
+      "code": "B41F3/60",
+      "level": 3,
+      "parent": "B41F3/58",
+      "ja": "版盤のためのもの",
+      "en": "for type-beds",
+      "count": 24,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F3/62": {
+      "code": "B41F3/62",
+      "level": 4,
+      "parent": "B41F3/60",
+      "ja": "往復運動または角運動を導くリンク装置または歯車装置の応用",
+      "en": "Applications of linkwork or gearing for producing reciprocatory or angular motion",
+      "count": 8,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F3/64": {
+      "code": "B41F3/64",
+      "level": 5,
+      "parent": "B41F3/62",
+      "ja": "クランク運動利用",
+      "en": "of crank motions",
+      "count": 6,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F3/66": {
+      "code": "B41F3/66",
+      "level": 5,
+      "parent": "B41F3/62",
+      "ja": "ラツクとピニオンの歯車装置利用",
+      "en": "of rack-and-pinion gearing",
+      "count": 17,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F3/68": {
+      "code": "B41F3/68",
+      "level": 6,
+      "parent": "B41F3/66",
+      "ja": "一方向に回転するピニオンをもつもの",
+      "en": "with pinion rotating unidirectionally",
+      "count": 3,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F3/70": {
+      "code": "B41F3/70",
+      "level": 4,
+      "parent": "B41F3/60",
+      "ja": "直結モータの応用",
+      "en": "Applications of directly-coupled motors",
+      "count": 5,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F3/72": {
+      "code": "B41F3/72",
+      "level": 5,
+      "parent": "B41F3/70",
+      "ja": "流体モータ利用",
+      "en": "of fluid motors",
+      "count": 1,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F3/74": {
+      "code": "B41F3/74",
+      "level": 4,
+      "parent": "B41F3/60",
+      "ja": "クラツチの応用",
+      "en": "Applications of clutches",
+      "count": 4,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F3/76": {
+      "code": "B41F3/76",
+      "level": 4,
+      "parent": "B41F3/60",
+      "ja": "ブレーキ装置または見当合せ位置において版盤を停止する装置の応用",
+      "en": "Applications of braking devices or of devices for stopping type-bed in registered position",
+      "count": 10,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F3/78": {
+      "code": "B41F3/78",
+      "level": 5,
+      "parent": "B41F3/76",
+      "ja": "エアクツシヨン",
+      "en": "Air cushions",
+      "count": 8,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F3/80": {
+      "code": "B41F3/80",
+      "level": 3,
+      "parent": "B41F3/58",
+      "ja": "圧胴のためのもの",
+      "en": "for impression cylinders",
+      "count": 219,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F3/81": {
+      "code": "B41F3/81",
+      "level": 2,
+      "parent": "B41F3/46",
+      "ja": "着肉装置［３］",
+      "en": "Inking units",
+      "count": 237,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F3/82": {
+      "code": "B41F3/82",
+      "level": 1,
+      "parent": "B41F3/00",
+      "ja": "補助装置",
+      "en": "Auxiliary devices",
+      "count": 68,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F3/84": {
+      "code": "B41F3/84",
+      "level": 2,
+      "parent": "B41F3/82",
+      "ja": "計数装置の配置［２］",
+      "en": "Arrangements of counting devices",
+      "count": 7,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F3/86": {
+      "code": "B41F3/86",
+      "level": 2,
+      "parent": "B41F3/82",
+      "ja": "番号印字装置",
+      "en": "Numbering devices",
+      "count": 70,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F5/00": {
+      "code": "B41F5/00",
+      "level": 0,
+      "parent": "B41F",
+      "ja": "凸版輪転機",
+      "en": "Rotary letterpress machines",
+      "count": 592,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F5/02": {
+      "code": "B41F5/02",
+      "level": 1,
+      "parent": "B41F5/00",
+      "ja": "枚葉紙印刷用",
+      "en": "for printing on sheets",
+      "count": 348,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F5/04": {
+      "code": "B41F5/04",
+      "level": 1,
+      "parent": "B41F5/00",
+      "ja": "巻取紙印刷用",
+      "en": "for printing on webs",
+      "count": 397,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F5/06": {
+      "code": "B41F5/06",
+      "level": 2,
+      "parent": "B41F5/04",
+      "ja": "連続配列で，いくつかの印刷装置をもつもの",
+      "en": "with several printing units in sequential arrangement",
+      "count": 110,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F5/08": {
+      "code": "B41F5/08",
+      "level": 2,
+      "parent": "B41F5/04",
+      "ja": "積重ねと連結の両配列でいくつかの印刷装置をもつもの",
+      "en": "with several printing units in both superimposed and sequential arrangement",
+      "count": 75,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F5/10": {
+      "code": "B41F5/10",
+      "level": 2,
+      "parent": "B41F5/04",
+      "ja": "並んで配置されたいくつかの印刷装置をもつもの",
+      "en": "with several printing units arranged side by side",
+      "count": 27,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F5/12": {
+      "code": "B41F5/12",
+      "level": 2,
+      "parent": "B41F5/04",
+      "ja": "同一の版胴と圧胴で巻取紙の１面と他面に印刷するもの",
+      "en": "for printing on one side and on the other side of webs between the same forme and impression cylinders",
+      "count": 35,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F5/14": {
+      "code": "B41F5/14",
+      "level": 2,
+      "parent": "B41F5/04",
+      "ja": "一つの版胴の周りに配置されたいくつかの圧胴をもつもの［２００６．０１］",
+      "en": "with several impression cylinders arranged around a forme cylinder",
+      "count": 25,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F5/16": {
+      "code": "B41F5/16",
+      "level": 2,
+      "parent": "B41F5/04",
+      "ja": "多色印刷用",
+      "en": "for multicolour printing",
+      "count": 166,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F5/18": {
+      "code": "B41F5/18",
+      "level": 3,
+      "parent": "B41F5/16",
+      "ja": "いくつかの版胴と連動する一つの圧胴を用いるもの",
+      "en": "using one impression cylinder co-operating with several forme cylinders",
+      "count": 152,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F5/20": {
+      "code": "B41F5/20",
+      "level": 1,
+      "parent": "B41F5/00",
+      "ja": "特に校正刷に応用したもの",
+      "en": "specially adapted for proof printing",
+      "count": 116,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F5/22": {
+      "code": "B41F5/22",
+      "level": 1,
+      "parent": "B41F5/00",
+      "ja": "間接印刷用［３］",
+      "en": "for indirect printing",
+      "count": 94,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F5/24": {
+      "code": "B41F5/24",
+      "level": 1,
+      "parent": "B41F5/00",
+      "ja": "フレキソ印刷用［３］",
+      "en": "for flexographic printing",
+      "count": 2305,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F7/00": {
+      "code": "B41F7/00",
+      "level": 0,
+      "parent": "B41F",
+      "ja": "平版輪転機",
+      "en": "Rotary lithographic machines",
+      "count": 417,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F7/02": {
+      "code": "B41F7/02",
+      "level": 1,
+      "parent": "B41F7/00",
+      "ja": "オフセット印刷用",
+      "en": "for offset printing",
+      "count": 3314,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F7/04": {
+      "code": "B41F7/04",
+      "level": 2,
+      "parent": "B41F7/02",
+      "ja": "一つの版胴，一つのブランケット胴と１つの圧胴を結合する印刷装置を用いるもの，例．巻取紙印刷用",
+      "en": "using printing units incorporating one forme cylinder, one transfer cylinder, and one impression cylinder, e.g. for printing on webs",
+      "count": 234,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F7/06": {
+      "code": "B41F7/06",
+      "level": 3,
+      "parent": "B41F7/04",
+      "ja": "枚葉紙印刷用",
+      "en": "for printing on sheets",
+      "count": 315,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F7/08": {
+      "code": "B41F7/08",
+      "level": 2,
+      "parent": "B41F7/02",
+      "ja": "枚葉紙または巻取紙印刷のためいくつかの版胴と連動する１つのブランケット胴を用いるもの，例．１つのブランケット胴上の色のサンプリング",
+      "en": "using one transfer cylinder co-operating with several forme cylinders for printing on sheets or webs, e.g. sampling of colours on one transfer cylinder",
+      "count": 191,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F7/10": {
+      "code": "B41F7/10",
+      "level": 2,
+      "parent": "B41F7/02",
+      "ja": "枚葉紙または巻取紙印刷のためいくつかのブランケット胴と連動する１つの圧胴を用いるもの，例．サテライト形印刷装置",
+      "en": "using one impression cylinder co-operating with several transfer cylinders for printing on sheets or webs, e.g. satellite-printing units",
+      "count": 383,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F7/12": {
+      "code": "B41F7/12",
+      "level": 2,
+      "parent": "B41F7/02",
+      "ja": "片方の胴が２つの機能をもつ，２つの胴を用いるもの，例．両面印刷機におけるブランケット兼圧胴",
+      "en": "using two cylinders one of which serves two functions, e.g. as a transfer and impression cylinder in perfecting machines",
+      "count": 437,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F7/14": {
+      "code": "B41F7/14",
+      "level": 2,
+      "parent": "B41F7/02",
+      "ja": "単一ブランケット胴と連動する二つまたはそれ以上の圧胴をもつもの",
+      "en": "with two or more impression cylinders coacting with a single transfer cylinder",
+      "count": 26,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F7/15": {
+      "code": "B41F7/15",
+      "level": 3,
+      "parent": "B41F7/14",
+      "ja": "同時に２つ以上の巻取紙に印刷するためのもの［６］",
+      "en": "for printing on more than one web simultaneously",
+      "count": 3,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F7/16": {
+      "code": "B41F7/16",
+      "level": 1,
+      "parent": "B41F7/00",
+      "ja": "変形し難い材料の印刷のためのもの，例．金属シート",
+      "en": "for printing on non-deformable material, e.g. sheet metal",
+      "count": 89,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F7/18": {
+      "code": "B41F7/18",
+      "level": 1,
+      "parent": "B41F7/00",
+      "ja": "特に校正刷に応用したもの",
+      "en": "specially adapted for proof printing",
+      "count": 93,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F7/20": {
+      "code": "B41F7/20",
+      "level": 1,
+      "parent": "B41F7/00",
+      "ja": "細部",
+      "en": "Details",
+      "count": 1035,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F7/24": {
+      "code": "B41F7/24",
+      "level": 2,
+      "parent": "B41F7/20",
+      "ja": "湿し装置",
+      "en": "Damping devices",
+      "count": 1519,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F7/26": {
+      "code": "B41F7/26",
+      "level": 3,
+      "parent": "B41F7/24",
+      "ja": "渡しローラを用いるもの［３］",
+      "en": "using transfer rollers",
+      "count": 956,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F7/28": {
+      "code": "B41F7/28",
+      "level": 3,
+      "parent": "B41F7/24",
+      "ja": "ブラシを用いるもの",
+      "en": "using brushes",
+      "count": 120,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F7/30": {
+      "code": "B41F7/30",
+      "level": 3,
+      "parent": "B41F7/24",
+      "ja": "噴射装置を用いるもの",
+      "en": "using spraying elements",
+      "count": 521,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F7/32": {
+      "code": "B41F7/32",
+      "level": 3,
+      "parent": "B41F7/24",
+      "ja": "水つぼ，容器，類似の液体供給装置",
+      "en": "Ducts, containers, or like supply devices for liquids",
+      "count": 749,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F7/34": {
+      "code": "B41F7/34",
+      "level": 3,
+      "parent": "B41F7/24",
+      "ja": "継目なしバンド",
+      "en": "Endless bands",
+      "count": 10,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F7/36": {
+      "code": "B41F7/36",
+      "level": 3,
+      "parent": "B41F7/24",
+      "ja": "インキ反発剤供給にも使用するインキローラ［２００６．０１］",
+      "en": "Inking-rollers serving also to apply ink repellants",
+      "count": 241,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F7/37": {
+      "code": "B41F7/37",
+      "level": 3,
+      "parent": "B41F7/24",
+      "ja": "湿気を凝縮するため，過冷するもの［６］",
+      "en": "with supercooling for condensation of air moisture",
+      "count": 54,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F7/38": {
+      "code": "B41F7/38",
+      "level": 3,
+      "parent": "B41F7/24",
+      "ja": "吸収パット",
+      "en": "Absorbent pads",
+      "count": 33,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F7/40": {
+      "code": "B41F7/40",
+      "level": 3,
+      "parent": "B41F7/24",
+      "ja": "湿しローラーのにがしまたは持上げ装置；湿しローラーの支持，調節，または取りはずし装置（インキローラー用のこのような装置または器具Ｂ４１Ｆ３１／３０）",
+      "en": "Devices for tripping or lifting damping rollers; Supporting, adjusting, or removing arrangements therefor(such arrangements or devices for inking rollers <b>B41F31/30</b>)",
+      "count": 401,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F9/00": {
+      "code": "B41F9/00",
+      "level": 0,
+      "parent": "B41F",
+      "ja": "凹版輪転機",
+      "en": "Rotary intaglio printing presses",
+      "count": 2219,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F9/01": {
+      "code": "B41F9/01",
+      "level": 1,
+      "parent": "B41F9/00",
+      "ja": "間接印刷用［３，５］",
+      "en": "for indirect printing",
+      "count": 221,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F9/02": {
+      "code": "B41F9/02",
+      "level": 1,
+      "parent": "B41F9/00",
+      "ja": "多色印刷用",
+      "en": "for multicolour printing",
+      "count": 707,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F9/04": {
+      "code": "B41F9/04",
+      "level": 1,
+      "parent": "B41F9/00",
+      "ja": "特に校正刷に応用したもの",
+      "en": "specially adapted for proof printing",
+      "count": 130,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F9/06": {
+      "code": "B41F9/06",
+      "level": 1,
+      "parent": "B41F9/00",
+      "ja": "細部",
+      "en": "Details",
+      "count": 2250,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F9/08": {
+      "code": "B41F9/08",
+      "level": 2,
+      "parent": "B41F9/06",
+      "ja": "インキぬぐい取り機構",
+      "en": "Wiping mechanisms",
+      "count": 502,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F9/10": {
+      "code": "B41F9/10",
+      "level": 3,
+      "parent": "B41F9/08",
+      "ja": "ドクター，スクレーパー，または類似の装置をもつもの",
+      "en": "with doctors, scrapers, or like devices",
+      "count": 2118,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F9/12": {
+      "code": "B41F9/12",
+      "level": 3,
+      "parent": "B41F9/08",
+      "ja": "吸収パッドをもつもの",
+      "en": "with absorbent pads",
+      "count": 13,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F9/14": {
+      "code": "B41F9/14",
+      "level": 3,
+      "parent": "B41F9/08",
+      "ja": "連続した柔軟面，例．継目なしバンドをもつもの",
+      "en": "with continuous flexible surfaces, e.g. endless bands",
+      "count": 77,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F9/16": {
+      "code": "B41F9/16",
+      "level": 3,
+      "parent": "B41F9/08",
+      "ja": "インキぬぐい機構からのインキを除去または回収",
+      "en": "Removing or recovering ink from wiping mechanisms",
+      "count": 228,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F9/18": {
+      "code": "B41F9/18",
+      "level": 2,
+      "parent": "B41F9/06",
+      "ja": "版胴交換用補助装置",
+      "en": "Auxiliary devices for exchanging forme cylinders",
+      "count": 392,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F11/00": {
+      "code": "B41F11/00",
+      "level": 0,
+      "parent": "B41F",
+      "ja": "多数の印刷版面を保持する版胴を有する輪転機，または凸版，平版，または凹版印刷を選択的にまたは結合して行う輪転機",
+      "en": "Rotary presses or machines having forme cylinders carrying a plurality of printing surfaces, or for performing letterpress, lithographic, or intaglio processes selectively or in combination",
+      "count": 831,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F11/02": {
+      "code": "B41F11/02",
+      "level": 1,
+      "parent": "B41F11/00",
+      "ja": "証券用（証券印刷Ｂ４１Ｍ３／１４）［３］",
+      "en": "for securities(security printing <b>B41M3/14</b>)",
+      "count": 384,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F13/00": {
+      "code": "B41F13/00",
+      "level": 0,
+      "parent": "B41F",
+      "ja": "輪転機の共通な細部",
+      "en": "Common details of rotary presses or machines",
+      "count": 3571,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F13/004": {
+      "code": "B41F13/004",
+      "level": 1,
+      "parent": "B41F13/00",
+      "ja": "駆動装置の電気的または水力学的特徴［６］",
+      "en": "Electric or hydraulic features of drives",
+      "count": 989,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F13/008": {
+      "code": "B41F13/008",
+      "level": 1,
+      "parent": "B41F13/00",
+      "ja": "駆動装置の機械的特徴，例．歯車，クラッチ［６］",
+      "en": "Mechanical features of drives, e.g. gears, clutches",
+      "count": 1608,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F13/012": {
+      "code": "B41F13/012",
+      "level": 2,
+      "parent": "B41F13/008",
+      "ja": "バックラッシュを取るもの［６］",
+      "en": "Taking-up backlash",
+      "count": 145,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F13/016": {
+      "code": "B41F13/016",
+      "level": 1,
+      "parent": "B41F13/00",
+      "ja": "ブレーキ［６］",
+      "en": "Brakes",
+      "count": 56,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F13/02": {
+      "code": "B41F13/02",
+      "level": 1,
+      "parent": "B41F13/00",
+      "ja": "印刷機の中で巻取紙を運ぶまたは案内するもの",
+      "en": "Conveying or guiding webs through presses or machines",
+      "count": 4592,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F13/03": {
+      "code": "B41F13/03",
+      "level": 2,
+      "parent": "B41F13/02",
+      "ja": "巻取紙を印刷機に通すもの［６］",
+      "en": "Threading webs into printing machines",
+      "count": 379,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F13/04": {
+      "code": "B41F13/04",
+      "level": 2,
+      "parent": "B41F13/02",
+      "ja": "間欠的なもの",
+      "en": "intermittently",
+      "count": 369,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F13/06": {
+      "code": "B41F13/06",
+      "level": 2,
+      "parent": "B41F13/02",
+      "ja": "ターニングバー装置",
+      "en": "Turning-bar arrangements",
+      "count": 528,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F13/08": {
+      "code": "B41F13/08",
+      "level": 1,
+      "parent": "B41F13/00",
+      "ja": "胴",
+      "en": "Cylinders",
+      "count": 2100,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F13/10": {
+      "code": "B41F13/10",
+      "level": 2,
+      "parent": "B41F13/08",
+      "ja": "版胴",
+      "en": "Forme cylinders",
+      "count": 2869,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F13/11": {
+      "code": "B41F13/11",
+      "level": 3,
+      "parent": "B41F13/10",
+      "ja": "凹版胴［６］",
+      "en": "Gravure cylinders",
+      "count": 903,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F13/12": {
+      "code": "B41F13/12",
+      "level": 3,
+      "parent": "B41F13/10",
+      "ja": "見当合せ装置",
+      "en": "Registering devices",
+      "count": 1262,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F13/14": {
+      "code": "B41F13/14",
+      "level": 4,
+      "parent": "B41F13/12",
+      "ja": "胴を移動する手段をもつもの",
+      "en": "with means for displacing the cylinders",
+      "count": 1072,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F13/16": {
+      "code": "B41F13/16",
+      "level": 4,
+      "parent": "B41F13/12",
+      "ja": "胴に印刷版を移動する手段をもつもの",
+      "en": "with means for displacing the printing formes on the cylinders",
+      "count": 312,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F13/18": {
+      "code": "B41F13/18",
+      "level": 2,
+      "parent": "B41F13/08",
+      "ja": "圧胴",
+      "en": "Impression cylinders",
+      "count": 936,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F13/187": {
+      "code": "B41F13/187",
+      "level": 3,
+      "parent": "B41F13/18",
+      "ja": "グラビア印刷用［６］",
+      "en": "for rotogravure",
+      "count": 262,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F13/193": {
+      "code": "B41F13/193",
+      "level": 2,
+      "parent": "B41F13/08",
+      "ja": "渡し胴；オフセット胴［６］",
+      "en": "Transfer cylinders; Offset cylinders",
+      "count": 771,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F13/20": {
+      "code": "B41F13/20",
+      "level": 2,
+      "parent": "B41F13/08",
+      "ja": "軸受の支持装置，または版胴，オフセット胴または圧胴のための支持装置",
+      "en": "Supports for bearings or supports for forme, offset, or impression cylinders",
+      "count": 1697,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F13/21": {
+      "code": "B41F13/21",
+      "level": 3,
+      "parent": "B41F13/20",
+      "ja": "ベアラリング［６］",
+      "en": "Bearer rings",
+      "count": 139,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F13/22": {
+      "code": "B41F13/22",
+      "level": 2,
+      "parent": "B41F13/08",
+      "ja": "版胴又は圧胴を冷却または加熱する手段",
+      "en": "Means for cooling or heating forme or impression cylinders",
+      "count": 1555,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F13/24": {
+      "code": "B41F13/24",
+      "level": 2,
+      "parent": "B41F13/08",
+      "ja": "胴にがし装置；胴圧調整するもの",
+      "en": "Cylinder-tripping devices; Cylinder-impression adjustments",
+      "count": 1448,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F13/26": {
+      "code": "B41F13/26",
+      "level": 3,
+      "parent": "B41F13/24",
+      "ja": "胴軸受の配置",
+      "en": "Arrangement of cylinder bearings",
+      "count": 284,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F13/28": {
+      "code": "B41F13/28",
+      "level": 4,
+      "parent": "B41F13/26",
+      "ja": "胴軸の偏心的に取付けた軸受",
+      "en": "Bearings mounted eccentrically of the cylinder axis",
+      "count": 381,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F13/30": {
+      "code": "B41F13/30",
+      "level": 4,
+      "parent": "B41F13/26",
+      "ja": "すべり支持体に取付けた軸受",
+      "en": "Bearings mounted on sliding supports",
+      "count": 290,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F13/32": {
+      "code": "B41F13/32",
+      "level": 4,
+      "parent": "B41F13/26",
+      "ja": "揺動支持体に取付けた軸受",
+      "en": "Bearings mounted on swinging supports",
+      "count": 139,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F13/34": {
+      "code": "B41F13/34",
+      "level": 3,
+      "parent": "B41F13/24",
+      "ja": "胴持上げまたは調整装置",
+      "en": "Cylinder-lifting or -adjusting devices",
+      "count": 1602,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F13/36": {
+      "code": "B41F13/36",
+      "level": 4,
+      "parent": "B41F13/34",
+      "ja": "カム，偏心輪，くさび，または類似物",
+      "en": "Cams, eccentrics, wedges, or the like",
+      "count": 365,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F13/38": {
+      "code": "B41F13/38",
+      "level": 4,
+      "parent": "B41F13/34",
+      "ja": "電気的にまたは磁気的に操作するもの",
+      "en": "electrically or magnetically operated",
+      "count": 406,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F13/40": {
+      "code": "B41F13/40",
+      "level": 4,
+      "parent": "B41F13/34",
+      "ja": "流体圧で操作するもの",
+      "en": "fluid-pressure operated",
+      "count": 372,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F13/42": {
+      "code": "B41F13/42",
+      "level": 2,
+      "parent": "B41F13/08",
+      "ja": "防禦物またはカバー，例．異物の出入を防ぐもの",
+      "en": "Guards or covers, e.g. for preventing ingress or egress of foreign matter",
+      "count": 365,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F13/44": {
+      "code": "B41F13/44",
+      "level": 1,
+      "parent": "B41F13/00",
+      "ja": "大きさの異なる面に印刷し得る機械に大きさの異なる互換性のある胴を調節させる装置",
+      "en": "Arrangements to accommodate interchangeable cylinders of different sizes to enable machine to print on areas of different sizes",
+      "count": 334,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F13/46": {
+      "code": "B41F13/46",
+      "level": 1,
+      "parent": "B41F13/00",
+      "ja": "最新ニュース挿入用印刷装置",
+      "en": "Printing units for inserting latest news",
+      "count": 229,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F13/48": {
+      "code": "B41F13/48",
+      "level": 1,
+      "parent": "B41F13/00",
+      "ja": "単一版胴の選定部分で印刷せしめる装置（選定部分の着肉によるものＢ４１Ｆ３１／１８）",
+      "en": "Arrangements to enable printing to be effected over selected areas of a single forme cylinder(by inking selected areas <b>B41F31/18</b>)",
+      "count": 50,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F13/50": {
+      "code": "B41F13/50",
+      "level": 2,
+      "parent": "B41F13/48",
+      "ja": "印刷周期中，版胴と圧胴の相対的運動によるもの",
+      "en": "by effecting relative movement of forme and impression cylinders during printing cycle",
+      "count": 18,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F13/52": {
+      "code": "B41F13/52",
+      "level": 2,
+      "parent": "B41F13/48",
+      "ja": "版胴面の一部の隆起および陥没によるもの",
+      "en": "by projecting and retracting parts of the surface of the forme cylinder",
+      "count": 16,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F13/54": {
+      "code": "B41F13/54",
+      "level": 1,
+      "parent": "B41F13/00",
+      "ja": "枚葉紙または巻取紙の補助的な，折り，断裁，紙集めまたは集積",
+      "en": "Auxiliary folding, cutting, collecting or depositing of sheets or webs",
+      "count": 1507,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F13/56": {
+      "code": "B41F13/56",
+      "level": 2,
+      "parent": "B41F13/54",
+      "ja": "折りまたは断裁",
+      "en": "Folding or cutting",
+      "count": 1592,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F13/58": {
+      "code": "B41F13/58",
+      "level": 3,
+      "parent": "B41F13/56",
+      "ja": "縦に",
+      "en": "lengthwise",
+      "count": 769,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F13/60": {
+      "code": "B41F13/60",
+      "level": 3,
+      "parent": "B41F13/56",
+      "ja": "横に",
+      "en": "crosswise",
+      "count": 1067,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F13/62": {
+      "code": "B41F13/62",
+      "level": 3,
+      "parent": "B41F13/56",
+      "ja": "折り胴",
+      "en": "Folding-cylinders or drums",
+      "count": 317,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F13/64": {
+      "code": "B41F13/64",
+      "level": 2,
+      "parent": "B41F13/54",
+      "ja": "紙集め",
+      "en": "Collecting",
+      "count": 466,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F13/66": {
+      "code": "B41F13/66",
+      "level": 3,
+      "parent": "B41F13/64",
+      "ja": "および綴じ",
+      "en": "and stapling",
+      "count": 156,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F13/68": {
+      "code": "B41F13/68",
+      "level": 2,
+      "parent": "B41F13/54",
+      "ja": "挿し込み",
+      "en": "Adding inserts",
+      "count": 152,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F13/70": {
+      "code": "B41F13/70",
+      "level": 2,
+      "parent": "B41F13/54",
+      "ja": "集積",
+      "en": "Depositing",
+      "count": 488,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F15/00": {
+      "code": "B41F15/00",
+      "level": 0,
+      "parent": "B41F",
+      "ja": "スクリーン印刷機",
+      "en": "Screen printers",
+      "count": 1024,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F15/02": {
+      "code": "B41F15/02",
+      "level": 1,
+      "parent": "B41F15/00",
+      "ja": "手動装置",
+      "en": "Manually-operable devices",
+      "count": 316,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F15/04": {
+      "code": "B41F15/04",
+      "level": 2,
+      "parent": "B41F15/02",
+      "ja": "多色印刷用",
+      "en": "for multicolour printing",
+      "count": 108,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F15/06": {
+      "code": "B41F15/06",
+      "level": 2,
+      "parent": "B41F15/02",
+      "ja": "補助設備をもつもの，例．印刷物乾燥用",
+      "en": "with auxiliary equipment, e.g. for drying printed articles",
+      "count": 113,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F15/08": {
+      "code": "B41F15/08",
+      "level": 1,
+      "parent": "B41F15/00",
+      "ja": "機械",
+      "en": "Machines",
+      "count": 14867,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F15/10": {
+      "code": "B41F15/10",
+      "level": 2,
+      "parent": "B41F15/08",
+      "ja": "多色印刷用",
+      "en": "for multicolour printing",
+      "count": 645,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F15/12": {
+      "code": "B41F15/12",
+      "level": 2,
+      "parent": "B41F15/08",
+      "ja": "補助設備をもつもの，例．印刷物乾燥用",
+      "en": "with auxiliary equipment, e.g. for drying printed articles",
+      "count": 3728,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F15/14": {
+      "code": "B41F15/14",
+      "level": 1,
+      "parent": "B41F15/00",
+      "ja": "細部",
+      "en": "Details",
+      "count": 8132,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F15/16": {
+      "code": "B41F15/16",
+      "level": 2,
+      "parent": "B41F15/14",
+      "ja": "印刷盤",
+      "en": "Printing tables",
+      "count": 2002,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F15/18": {
+      "code": "B41F15/18",
+      "level": 3,
+      "parent": "B41F15/16",
+      "ja": "被印刷材の支持体",
+      "en": "Supports for workpieces",
+      "count": 2402,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F15/20": {
+      "code": "B41F15/20",
+      "level": 4,
+      "parent": "B41F15/18",
+      "ja": "吸引作用の機素をもつもの",
+      "en": "with suction-operated elements",
+      "count": 1291,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F15/22": {
+      "code": "B41F15/22",
+      "level": 4,
+      "parent": "B41F15/18",
+      "ja": "単一枚葉紙用",
+      "en": "for single sheets",
+      "count": 298,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F15/24": {
+      "code": "B41F15/24",
+      "level": 4,
+      "parent": "B41F15/18",
+      "ja": "巻取紙用",
+      "en": "for webs",
+      "count": 311,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F15/26": {
+      "code": "B41F15/26",
+      "level": 4,
+      "parent": "B41F15/18",
+      "ja": "平面をもつ物品用",
+      "en": "for articles with flat surfaces",
+      "count": 1918,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F15/28": {
+      "code": "B41F15/28",
+      "level": 4,
+      "parent": "B41F15/18",
+      "ja": "細長い平らな物品用，例．ひも，帯",
+      "en": "for elongated flat articles, e.g. strips, bands",
+      "count": 66,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F15/30": {
+      "code": "B41F15/30",
+      "level": 4,
+      "parent": "B41F15/18",
+      "ja": "曲面をもつ物品用",
+      "en": "for articles with curved surfaces",
+      "count": 498,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F15/32": {
+      "code": "B41F15/32",
+      "level": 4,
+      "parent": "B41F15/18",
+      "ja": "円錐面をもつ物品用",
+      "en": "for articles with conical surfaces",
+      "count": 44,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F15/34": {
+      "code": "B41F15/34",
+      "level": 2,
+      "parent": "B41F15/14",
+      "ja": "スクリーン；フレーム；そのための保持器",
+      "en": "Screens; Frames; Holders therefor",
+      "count": 2718,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F15/36": {
+      "code": "B41F15/36",
+      "level": 3,
+      "parent": "B41F15/34",
+      "ja": "平らな",
+      "en": "flat",
+      "count": 6917,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F15/38": {
+      "code": "B41F15/38",
+      "level": 3,
+      "parent": "B41F15/34",
+      "ja": "曲った",
+      "en": "curved",
+      "count": 974,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F15/40": {
+      "code": "B41F15/40",
+      "level": 2,
+      "parent": "B41F15/14",
+      "ja": "着肉装置",
+      "en": "Inking units",
+      "count": 3589,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F15/42": {
+      "code": "B41F15/42",
+      "level": 3,
+      "parent": "B41F15/40",
+      "ja": "スクイージまたはドクターから成るもの",
+      "en": "comprising squeegees or doctors",
+      "count": 3074,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F15/44": {
+      "code": "B41F15/44",
+      "level": 2,
+      "parent": "B41F15/14",
+      "ja": "スクィージまたはドクター",
+      "en": "Squeegees or doctors",
+      "count": 3308,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F15/46": {
+      "code": "B41F15/46",
+      "level": 3,
+      "parent": "B41F15/44",
+      "ja": "二つ又はそれ以上操作部分をもつもの",
+      "en": "with two or more operative parts",
+      "count": 1469,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F16/00": {
+      "code": "B41F16/00",
+      "level": 0,
+      "parent": "B41F",
+      "ja": "転写印刷装置［４］",
+      "en": "Transfer printing apparatus",
+      "count": 9900,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F16/02": {
+      "code": "B41F16/02",
+      "level": 1,
+      "parent": "B41F16/00",
+      "ja": "織物材料のためのもの［４］",
+      "en": "for textile material",
+      "count": 2490,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F17/00": {
+      "code": "B41F17/00",
+      "level": 0,
+      "parent": "B41F",
+      "ja": "他類に属さない，特殊な型または特定の目的の印刷装置または機械",
+      "en": "Printing apparatus or machines of special types or for particular purposes, not otherwise provided for",
+      "count": 22714,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F17/02": {
+      "code": "B41F17/02",
+      "level": 1,
+      "parent": "B41F17/00",
+      "ja": "帳簿または複写伝票印刷用",
+      "en": "for printing books or manifolding sets",
+      "count": 477,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F17/04": {
+      "code": "B41F17/04",
+      "level": 1,
+      "parent": "B41F17/00",
+      "ja": "カレンダー印刷用",
+      "en": "for printing calendars",
+      "count": 82,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F17/08": {
+      "code": "B41F17/08",
+      "level": 1,
+      "parent": "B41F17/00",
+      "ja": "糸状又は細長い物体または材料，または円筒面をもつ物体の印刷用",
+      "en": "for printing on filamentary or elongated articles or material, or on articles with cylindrical surfaces",
+      "count": 659,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F17/10": {
+      "code": "B41F17/10",
+      "level": 2,
+      "parent": "B41F17/08",
+      "ja": "無限の長さの物体または材料に，例．線，ホース，チューブまたは糸",
+      "en": "on articles or material of indefinite length, e.g. wires, hoses, tubes or yarns",
+      "count": 2160,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F17/12": {
+      "code": "B41F17/12",
+      "level": 3,
+      "parent": "B41F17/10",
+      "ja": "軸に対しある角度で",
+      "en": "at an angle to axis",
+      "count": 58,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F17/13": {
+      "code": "B41F17/13",
+      "level": 3,
+      "parent": "B41F17/10",
+      "ja": "ロール状材料に印刷するためのもので前記ロール状材料が圧胴として使用されるもの、例．ストリップ印刷機［２００９．０１］",
+      "en": "for printing on rolls of material, the roll serving as impression cylinder, e.g. strip printers",
+      "count": 203,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F17/14": {
+      "code": "B41F17/14",
+      "level": 2,
+      "parent": "B41F17/08",
+      "ja": "有限の長さの物体に",
+      "en": "on articles of finite length",
+      "count": 2347,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F17/16": {
+      "code": "B41F17/16",
+      "level": 3,
+      "parent": "B41F17/14",
+      "ja": "その端又は底面上に",
+      "en": "on end or bottom surfaces thereof",
+      "count": 416,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F17/18": {
+      "code": "B41F17/18",
+      "level": 3,
+      "parent": "B41F17/14",
+      "ja": "横断面の異なる物体の曲面上，例．びん，電球ガラス",
+      "en": "on curved surfaces of articles of varying cross-section, e.g. bottles, lamp glasses",
+      "count": 902,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F17/20": {
+      "code": "B41F17/20",
+      "level": 3,
+      "parent": "B41F17/14",
+      "ja": "均一横断面の物体上に，例．鉛筆，定規，抵抗器",
+      "en": "on articles of uniform cross-section, e.g. pencils, rulers, resistors",
+      "count": 731,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F17/22": {
+      "code": "B41F17/22",
+      "level": 4,
+      "parent": "B41F17/20",
+      "ja": "回転接触により",
+      "en": "by rolling contact",
+      "count": 1024,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F17/24": {
+      "code": "B41F17/24",
+      "level": 1,
+      "parent": "B41F17/00",
+      "ja": "多面体物体の平面の印刷物",
+      "en": "for printing on flat surfaces of polyhedral articles",
+      "count": 1549,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F17/26": {
+      "code": "B41F17/26",
+      "level": 2,
+      "parent": "B41F17/24",
+      "ja": "回転接触により",
+      "en": "by rolling contact",
+      "count": 472,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F17/28": {
+      "code": "B41F17/28",
+      "level": 1,
+      "parent": "B41F17/00",
+      "ja": "円錐または切頭円錐物体の曲面の印刷用",
+      "en": "for printing on curved surfaces of conical or frusto-conical articles",
+      "count": 395,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F17/30": {
+      "code": "B41F17/30",
+      "level": 1,
+      "parent": "B41F17/00",
+      "ja": "ほとんどまたは一部球面物体の曲面の印刷用",
+      "en": "for printing on curved surfaces of essentially spherical, or part-spherical, articles",
+      "count": 668,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F17/32": {
+      "code": "B41F17/32",
+      "level": 2,
+      "parent": "B41F17/30",
+      "ja": "電球上に",
+      "en": "on lamp bulbs",
+      "count": 35,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F17/34": {
+      "code": "B41F17/34",
+      "level": 2,
+      "parent": "B41F17/30",
+      "ja": "不規則な面をもつ物体上に，例．果物，ナット",
+      "en": "on articles with surface irregularities, e.g. fruit, nuts",
+      "count": 808,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F17/36": {
+      "code": "B41F17/36",
+      "level": 1,
+      "parent": "B41F17/00",
+      "ja": "小板，小球または類似の小物体の印刷物",
+      "en": "for printing on tablets, pills, or like small articles",
+      "count": 952,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F17/38": {
+      "code": "B41F17/38",
+      "level": 1,
+      "parent": "B41F17/00",
+      "ja": "メリヤス布の印刷用",
+      "en": "for printing on knitted fabrics",
+      "count": 1151,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F19/00": {
+      "code": "B41F19/00",
+      "level": 0,
+      "parent": "B41F",
+      "ja": "他の操作と結合された印刷操作を行なう装置または機械［２］",
+      "en": "Apparatus or machines for carrying out printing operations combined with other operations",
+      "count": 5757,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F19/02": {
+      "code": "B41F19/02",
+      "level": 1,
+      "parent": "B41F19/00",
+      "ja": "エンボスを有するもの",
+      "en": "with embossing",
+      "count": 1465,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F19/04": {
+      "code": "B41F19/04",
+      "level": 2,
+      "parent": "B41F19/02",
+      "ja": "凹版用版とインキぬぐい装置を用いるもの",
+      "en": "using intaglio printing formes and wipers",
+      "count": 38,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F19/06": {
+      "code": "B41F19/06",
+      "level": 2,
+      "parent": "B41F19/02",
+      "ja": "ネガチブ版の着肉およびぬぐい後のネガチブ版およびポズチブ版の間で印刷およびエンボスするもの；色または金で処理したインクバンドからの印刷",
+      "en": "Printing and embossing between a negative and a positive forme after inking and wiping the negative forme; Printing from an ink band treated with colour or \"gold\"",
+      "count": 6106,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F19/08": {
+      "code": "B41F19/08",
+      "level": 1,
+      "parent": "B41F19/00",
+      "ja": "同時に成形と印刷をするもの",
+      "en": "Simultaneous moulding and printing",
+      "count": 679,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F21/00": {
+      "code": "B41F21/00",
+      "level": 0,
+      "parent": "B41F",
+      "ja": "印刷装置又は機械を通る枚葉紙を運ぶ装置（平圧印刷機を通してＢ４１Ｆ１／２８）",
+      "en": "Devices for conveying sheets through printing apparatus or machines(through platen presses <b>B41F1/28</b>)",
+      "count": 6177,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F21/02": {
+      "code": "B41F21/02",
+      "level": 1,
+      "parent": "B41F21/00",
+      "ja": "ピン［３，５］",
+      "en": "Pins",
+      "count": 24,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F21/04": {
+      "code": "B41F21/04",
+      "level": 1,
+      "parent": "B41F21/00",
+      "ja": "くわえづめ［３，５］",
+      "en": "Grippers",
+      "count": 807,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F21/05": {
+      "code": "B41F21/05",
+      "level": 2,
+      "parent": "B41F21/04",
+      "ja": "差込用くわえづめ［３，５］",
+      "en": "In-feed grippers",
+      "count": 709,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F21/06": {
+      "code": "B41F21/06",
+      "level": 2,
+      "parent": "B41F21/04",
+      "ja": "吸引作用くわえづめ",
+      "en": "Suction-operated grippers",
+      "count": 343,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F21/08": {
+      "code": "B41F21/08",
+      "level": 1,
+      "parent": "B41F21/00",
+      "ja": "無端コンベアーとくわえづめの組合せ",
+      "en": "Combinations of endless conveyors and grippers",
+      "count": 741,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F21/10": {
+      "code": "B41F21/10",
+      "level": 1,
+      "parent": "B41F21/00",
+      "ja": "渡しドラムとくわえづめの結合［３］",
+      "en": "Combinations of transfer drums and grippers",
+      "count": 2148,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F21/12": {
+      "code": "B41F21/12",
+      "level": 1,
+      "parent": "B41F21/00",
+      "ja": "先端部位置合せ，例．前あて［３］",
+      "en": "Adjusting leading edges, e.g. front stops",
+      "count": 521,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F21/14": {
+      "code": "B41F21/14",
+      "level": 1,
+      "parent": "B41F21/00",
+      "ja": "側端部位置合せ，例．横あて［３］",
+      "en": "Adjusting lateral edges, e.g. side stops",
+      "count": 532,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F22/00": {
+      "code": "B41F22/00",
+      "level": 0,
+      "parent": "B41F",
+      "ja": "機械部品または印刷製品の汚れ防止手段（Ｂ４１Ｆ２３／００が優先）［６］",
+      "en": "Means preventing smudging of machine parts or printed articles(<b>B41F23/00</b> takes precedence)",
+      "count": 2446,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F23/00": {
+      "code": "B41F23/00",
+      "level": 0,
+      "parent": "B41F",
+      "ja": "印刷と関連して枚葉紙，巻取紙または他の物体の表面を処理する装置",
+      "en": "Devices for treating the surfaces of sheets, webs or other articles in connection with printing",
+      "count": 8486,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F23/02": {
+      "code": "B41F23/02",
+      "level": 1,
+      "parent": "B41F23/00",
+      "ja": "給湿によるもの（平版輪転機Ｂ４１Ｆ７／２４）",
+      "en": "by dampening(in rotary lithographic machines <b>B41F7/24</b>)",
+      "count": 712,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F23/04": {
+      "code": "B41F23/04",
+      "level": 1,
+      "parent": "B41F23/00",
+      "ja": "熱乾燥によるもの，冷却によるもの，粉末の供給によるもの",
+      "en": "by heat drying, by cooling, by applying powders",
+      "count": 22503,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F23/06": {
+      "code": "B41F23/06",
+      "level": 2,
+      "parent": "B41F23/04",
+      "ja": "散粉装置，例．裏移り防止用",
+      "en": "Powdering devices, e.g. for preventing set-off",
+      "count": 1029,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F23/08": {
+      "code": "B41F23/08",
+      "level": 1,
+      "parent": "B41F23/00",
+      "ja": "印刷物仕上げ装置，例．印刷物のつや出し用",
+      "en": "Print-finishing devices, e.g. for glossing prints",
+      "count": 3924,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F25/00": {
+      "code": "B41F25/00",
+      "level": 0,
+      "parent": "B41F",
+      "ja": "胴に対して枚葉紙または巻取紙を加圧する装置，例．スムーズにする目的のためのもの",
+      "en": "Devices for pressing sheets or webs against cylinders, e.g. for smoothing purposes",
+      "count": 422,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F27/00": {
+      "code": "B41F27/00",
+      "level": 0,
+      "parent": "B41F",
+      "ja": "印刷要素または版を支持体に取付ける装置（化学的手段によって取付けるものＢ４１Ｎ６／００）［５］",
+      "en": "Devices for attaching printing elements or formes to supports(attaching by chemical means <b>B41N6/00</b>)",
+      "count": 1896,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F27/02": {
+      "code": "B41F27/02",
+      "level": 1,
+      "parent": "B41F27/00",
+      "ja": "磁気的装置",
+      "en": "Magnetic devices",
+      "count": 289,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F27/04": {
+      "code": "B41F27/04",
+      "level": 1,
+      "parent": "B41F27/00",
+      "ja": "平らな版盤に印刷要素を取付けるためのもの",
+      "en": "for attaching printing elements to flat type-beds",
+      "count": 297,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F27/06": {
+      "code": "B41F27/06",
+      "level": 1,
+      "parent": "B41F27/00",
+      "ja": "版胴に印刷要素を取付けるためのもの",
+      "en": "for attaching printing elements to forme cylinders",
+      "count": 625,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F27/08": {
+      "code": "B41F27/08",
+      "level": 1,
+      "parent": "B41F27/00",
+      "ja": "平らな版盤に印刷版を取付けるためのもの",
+      "en": "for attaching printing formes to flat type-beds",
+      "count": 159,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F27/10": {
+      "code": "B41F27/10",
+      "level": 1,
+      "parent": "B41F27/00",
+      "ja": "版胴に不変形の曲面印刷版を取付けるためのもの",
+      "en": "for attaching non-deformable curved printing formes to forme cylinders",
+      "count": 1086,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F27/12": {
+      "code": "B41F27/12",
+      "level": 1,
+      "parent": "B41F27/00",
+      "ja": "柔軟な印刷版を取付けるためのもの",
+      "en": "for attaching flexible printing formes",
+      "count": 4361,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F27/14": {
+      "code": "B41F27/14",
+      "level": 1,
+      "parent": "B41F27/00",
+      "ja": "中間支持体に印刷版を取付けるためのもの，例．取付具",
+      "en": "for attaching printing formes to intermediate supports, e.g. adapter members",
+      "count": 432,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F30/00": {
+      "code": "B41F30/00",
+      "level": 0,
+      "parent": "B41F",
+      "ja": "被覆またはむらとり材を取り付ける装置；被覆用案内装置（むらとり材Ｂ４１Ｎ６／００）［５］",
+      "en": "Devices for attaching coverings or make-ready devices; Guiding devices for coverings(make-ready devices <b>B41N6/00</b>)",
+      "count": 585,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F30/02": {
+      "code": "B41F30/02",
+      "level": 1,
+      "parent": "B41F30/00",
+      "ja": "圧胴に取付けるもの［５］",
+      "en": "attaching to impression cylinders",
+      "count": 129,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F30/04": {
+      "code": "B41F30/04",
+      "level": 1,
+      "parent": "B41F30/00",
+      "ja": "渡し胴に取付けるもの［５］",
+      "en": "attaching to transfer cylinders",
+      "count": 387,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F30/06": {
+      "code": "B41F30/06",
+      "level": 1,
+      "parent": "B41F30/00",
+      "ja": "無端または類似の連続的に供給される被覆の取付け［５］",
+      "en": "attaching of endless or like continuously-fed coverings",
+      "count": 46,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F31/00": {
+      "code": "B41F31/00",
+      "level": 0,
+      "parent": "B41F",
+      "ja": "着肉装置（平圧印刷機の着肉装置Ｂ４１Ｆ１／４０；円圧印刷機の着肉装置Ｂ４１Ｆ３／８１）",
+      "en": "Inking arrangements or devices(inking units for platen presses <b>B41F1/40</b>; inking units for cylinder presses <b>B41F3/81</b>)",
+      "count": 3983,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F31/02": {
+      "code": "B41F31/02",
+      "level": 1,
+      "parent": "B41F31/00",
+      "ja": "インキつぼ，容器，供給または計量装置［３］",
+      "en": "Ducts, containers, supply or metering devices",
+      "count": 9864,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F31/03": {
+      "code": "B41F31/03",
+      "level": 2,
+      "parent": "B41F31/02",
+      "ja": "インキ撹拌器［６］",
+      "en": "Ink agitators",
+      "count": 2100,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F31/04": {
+      "code": "B41F31/04",
+      "level": 2,
+      "parent": "B41F31/02",
+      "ja": "インキつぼブレードまたは類似のインキ計量装置を有するもの",
+      "en": "with duct-blades or like metering devices",
+      "count": 3701,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F31/05": {
+      "code": "B41F31/05",
+      "level": 3,
+      "parent": "B41F31/04",
+      "ja": "そのための位置決め装置［６］",
+      "en": "Positioning devices therefor",
+      "count": 162,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F31/06": {
+      "code": "B41F31/06",
+      "level": 2,
+      "parent": "B41F31/02",
+      "ja": "全くまたは部分的に浸漬したローラまたは胴を有する貯槽又は類似のもの",
+      "en": "Troughs or like reservoirs with immersed, or partly immersed, rollers or cylinders",
+      "count": 1347,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F31/07": {
+      "code": "B41F31/07",
+      "level": 3,
+      "parent": "B41F31/06",
+      "ja": "グラビア印刷用［６］",
+      "en": "for rotogravure",
+      "count": 293,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F31/08": {
+      "code": "B41F31/08",
+      "level": 2,
+      "parent": "B41F31/02",
+      "ja": "インキ吐出手段をもつもの，例．ポンプ，ノズル",
+      "en": "with ink-ejecting means, e.g. pumps, nozzles",
+      "count": 2086,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F31/10": {
+      "code": "B41F31/10",
+      "level": 2,
+      "parent": "B41F31/02",
+      "ja": "インキ出しローラの適用（インキ移しローラまたは他の移動するトランスファーローラの適用Ｂ４１Ｆ３１／１４）",
+      "en": "Applications of feed or duct rollers(messenger or moving transfer rollers <b>B41F31/14</b>)",
+      "count": 1462,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F31/12": {
+      "code": "B41F31/12",
+      "level": 3,
+      "parent": "B41F31/10",
+      "ja": "供給量調節の可能なもの",
+      "en": "adjustable for regulating supply",
+      "count": 471,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F31/13": {
+      "code": "B41F31/13",
+      "level": 2,
+      "parent": "B41F31/02",
+      "ja": "インキつぼローラーの駆動手段［６］",
+      "en": "Means for driving fountain rollers",
+      "count": 127,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F31/14": {
+      "code": "B41F31/14",
+      "level": 2,
+      "parent": "B41F31/02",
+      "ja": "インキ移しローラまたは他の移動するトランスファーローラの適用",
+      "en": "Applications of messenger or other moving transfer rollers",
+      "count": 1348,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F31/15": {
+      "code": "B41F31/15",
+      "level": 1,
+      "parent": "B41F31/00",
+      "ja": "横振りローラーを動かす装置［６］",
+      "en": "Devices for moving vibrator-rollers",
+      "count": 749,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F31/16": {
+      "code": "B41F31/16",
+      "level": 1,
+      "parent": "B41F31/00",
+      "ja": "連続的な，例．無端，バンド装置",
+      "en": "Continuous, e.g. endless, band apparatus",
+      "count": 245,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F31/18": {
+      "code": "B41F31/18",
+      "level": 1,
+      "parent": "B41F31/00",
+      "ja": "印刷版の選択された部分にインキをつけるためのもの",
+      "en": "for inking selected parts of printing formes",
+      "count": 281,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F31/20": {
+      "code": "B41F31/20",
+      "level": 1,
+      "parent": "B41F31/00",
+      "ja": "インキ除去または収集装置",
+      "en": "Ink-removing or collecting devices",
+      "count": 2344,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F31/22": {
+      "code": "B41F31/22",
+      "level": 1,
+      "parent": "B41F31/00",
+      "ja": "胴の内部からインキを供給するためのもの",
+      "en": "for inking from interior of cylinder",
+      "count": 225,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F31/24": {
+      "code": "B41F31/24",
+      "level": 1,
+      "parent": "B41F31/00",
+      "ja": "吸引パット",
+      "en": "Absorbent pads",
+      "count": 139,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F31/26": {
+      "code": "B41F31/26",
+      "level": 1,
+      "parent": "B41F31/00",
+      "ja": "インキローラーの構造（石版輪転機においてインキ反発剤供給にも使用するインキローラーＢ４１Ｆ７／３６）［２００６．０１］",
+      "en": "Construction of inking rollers(inking-rollers serving also to apply ink repellants in rotary lithographic machines <b>B41F7/36</b>)",
+      "count": 1562,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F31/28": {
+      "code": "B41F31/28",
+      "level": 1,
+      "parent": "B41F31/00",
+      "ja": "噴霧装置，例．ブラシを用いるもの",
+      "en": "Spray apparatus, e.g. containing brushes",
+      "count": 211,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F31/30": {
+      "code": "B41F31/30",
+      "level": 1,
+      "parent": "B41F31/00",
+      "ja": "インキローラのにがし，持ち上げ，調節または取りはずし装置；インキローラの支持装置，軸受またはフォーク",
+      "en": "Arrangements for tripping, lifting, adjusting, or removing inking rollers; Supports, bearings, or forks therefor",
+      "count": 1754,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F31/32": {
+      "code": "B41F31/32",
+      "level": 2,
+      "parent": "B41F31/30",
+      "ja": "持上げまたは調整装置（湿りローラー用Ｂ４１Ｆ７／４０）",
+      "en": "Lifting or adjusting devices(for damping rollers <b>B41F7/40</b>)",
+      "count": 363,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F31/34": {
+      "code": "B41F31/34",
+      "level": 3,
+      "parent": "B41F31/32",
+      "ja": "カム，偏心輪，くさびまたは類似の装置",
+      "en": "Cam, eccentric, wedge, or like devices",
+      "count": 94,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F31/36": {
+      "code": "B41F31/36",
+      "level": 3,
+      "parent": "B41F31/32",
+      "ja": "流体圧で操作するもの",
+      "en": "fluid-pressure operated",
+      "count": 116,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F31/38": {
+      "code": "B41F31/38",
+      "level": 3,
+      "parent": "B41F31/32",
+      "ja": "磁力で操作するもの",
+      "en": "magnetically operated",
+      "count": 13,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F33/00": {
+      "code": "B41F33/00",
+      "level": 0,
+      "parent": "B41F",
+      "ja": "指示，計数，警報，制御または安全装置（平圧印刷機における計数装置の配置Ｂ４１Ｆ１／００，円圧印刷機におけるものＢ４１Ｆ３／８４；インキ供給または計量装置Ｂ４１Ｆ３１／０２）［３］",
+      "en": "Indicating, counting, warning, control or safety devices(arrangements of counting devices in platen presses <b>B41F1/00</b>, in cylinder presses <b>B41F3/84</b>; ink supply or metering devices <b>B41F31/02</b>)",
+      "count": 15433,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F33/02": {
+      "code": "B41F33/02",
+      "level": 1,
+      "parent": "B41F33/00",
+      "ja": "指示装置，例．計数器，の配置［２］",
+      "en": "Arrangements of indicating devices, e.g. counters",
+      "count": 1588,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F33/04": {
+      "code": "B41F33/04",
+      "level": 1,
+      "parent": "B41F33/00",
+      "ja": "にがし装置または停止運動（輪転機の胴にがし装置Ｂ４１Ｆ１３／２４；インキローラのにがし装置Ｂ４１Ｆ３１／３０）［２］",
+      "en": "Tripping devices or stop-motions(cylinder-tripping devices of rotary presses or machines <b>B41F13/24</b>; arrangements for tripping inking rollers <b>B41F31/30</b>)",
+      "count": 575,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F33/06": {
+      "code": "B41F33/06",
+      "level": 2,
+      "parent": "B41F33/04",
+      "ja": "枚葉紙または巻取紙の送りの始動又は停止操作のためのもの",
+      "en": "for starting or stopping operation of sheet or web feed",
+      "count": 1438,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F33/08": {
+      "code": "B41F33/08",
+      "level": 2,
+      "parent": "B41F33/04",
+      "ja": "胴の始動または停止操作のためのもの",
+      "en": "for starting or stopping operation of cylinders",
+      "count": 920,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F33/10": {
+      "code": "B41F33/10",
+      "level": 2,
+      "parent": "B41F33/04",
+      "ja": "湿しまたは着肉装置の始動又は停止操作のためのもの",
+      "en": "for starting or stopping operation of damping or inking units",
+      "count": 1113,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F33/12": {
+      "code": "B41F33/12",
+      "level": 2,
+      "parent": "B41F33/04",
+      "ja": "機械全体の始動または停止のためのもの",
+      "en": "for starting or stopping the machine as a whole",
+      "count": 341,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F33/14": {
+      "code": "B41F33/14",
+      "level": 2,
+      "parent": "B41F33/04",
+      "ja": "触子，光電装置，空気力装置または他の検出器によるにがし装置の自動制御",
+      "en": "Automatic control of tripping devices by feelers, photoelectric devices, pneumatic devices, or other detectors",
+      "count": 5274,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F33/16": {
+      "code": "B41F33/16",
+      "level": 1,
+      "parent": "B41F33/00",
+      "ja": "操作のシーケンスの自動制御のためのプログラム系",
+      "en": "Programming systems for automatic control of sequence of operations",
+      "count": 2378,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F33/18": {
+      "code": "B41F33/18",
+      "level": 1,
+      "parent": "B41F33/00",
+      "ja": "巻取紙破断検知（Ｂ４１Ｆ３３／０４が優先）［６］",
+      "en": "Web break detection(<b>B41F33/04</b> takes precedence)",
+      "count": 231,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F35/00": {
+      "code": "B41F35/00",
+      "level": 0,
+      "parent": "B41F",
+      "ja": "洗浄設備または装置",
+      "en": "Cleaning arrangements or devices",
+      "count": 8048,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F35/02": {
+      "code": "B41F35/02",
+      "level": 1,
+      "parent": "B41F35/00",
+      "ja": "版胴のためのもの",
+      "en": "for forme cylinders",
+      "count": 1964,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F35/04": {
+      "code": "B41F35/04",
+      "level": 1,
+      "parent": "B41F35/00",
+      "ja": "着肉ローラのためのもの",
+      "en": "for inking rollers",
+      "count": 1293,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    },
+    "B41F35/06": {
+      "code": "B41F35/06",
+      "level": 1,
+      "parent": "B41F35/00",
+      "ja": "オフセット胴のためのもの",
+      "en": "for offset cylinders",
+      "count": 1492,
+      "sourceFile": "ipc_B41F.txt",
+      "kind": "ipc"
+    }
+  }
+}

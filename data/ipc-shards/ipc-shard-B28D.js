@@ -1,0 +1,296 @@
+window.IPC_SHARD_B28D = {
+  "generatedAt": "2026-03-20T02:17:46.155Z",
+  "total": 29,
+  "entries": {
+    "B28D": {
+      "code": "B28D",
+      "level": 0,
+      "parent": "B28",
+      "ja": "石材または石材類似材料の加工（採鉱と採石のための機械及び方法Ｅ２１Ｃ）",
+      "en": "WORKING STONE OR STONE-LIKE MATERIALS(machinery for, or methods of, mining or quarrying <b>E21C</b>)",
+      "count": 1679,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B28": {
+      "code": "B28",
+      "level": 0,
+      "parent": "B",
+      "ja": "セメント，粘土，または石材の加工",
+      "en": "WORKING CEMENT, CLAY, OR STONE",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B": {
+      "code": "B",
+      "level": 0,
+      "parent": null,
+      "ja": "処理操作；運輸",
+      "en": "PERFORMING OPERATIONS; TRANSPORTING",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B28D1/00": {
+      "code": "B28D1/00",
+      "level": 0,
+      "parent": "B28D",
+      "ja": "他に分類されない石材または石材類似材料，例．レンガ，コンクリート，の加工；そのための機械，装置，工具（宝石類や結晶体の精密加工Ｂ２８Ｄ５／００；研削または研磨による加工Ｂ２４；研削面のドレッシングまたは正常化のための装置または手段Ｂ２４Ｂ５３／００）",
+      "en": "Working stone or stone-like materials, e.g. brick, concrete, not provided for elsewhere; Machines, devices, tools therefor(fine working of gems, jewels, crystals <b>B28D5/00</b>; working by grinding or polishing <b>B24</b>; devices or means for dressing or conditioning abrasive surfaces <b>B24B53/00</b>)",
+      "count": 6009,
+      "sourceFile": "ipc_B28D.txt",
+      "kind": "ipc"
+    },
+    "B28D1/02": {
+      "code": "B28D1/02",
+      "level": 1,
+      "parent": "B28D1/00",
+      "ja": "鋸引きによるもの",
+      "en": "by sawing",
+      "count": 1788,
+      "sourceFile": "ipc_B28D.txt",
+      "kind": "ipc"
+    },
+    "B28D1/04": {
+      "code": "B28D1/04",
+      "level": 2,
+      "parent": "B28D1/02",
+      "ja": "旋回鋸歯または円板鋸をもつもの（Ｂ２８Ｄ１／１０が優先）",
+      "en": "with circular saw blades or saw discs(<b>B28D1/10</b> takes precedence)",
+      "count": 8893,
+      "sourceFile": "ipc_B28D.txt",
+      "kind": "ipc"
+    },
+    "B28D1/06": {
+      "code": "B28D1/06",
+      "level": 2,
+      "parent": "B28D1/02",
+      "ja": "往復鋸歯をもつもの（Ｂ２８Ｄ１／１０が優先）",
+      "en": "with reciprocating saw blades(<b>B28D1/10</b> takes precedence)",
+      "count": 1898,
+      "sourceFile": "ipc_B28D.txt",
+      "kind": "ipc"
+    },
+    "B28D1/08": {
+      "code": "B28D1/08",
+      "level": 2,
+      "parent": "B28D1/02",
+      "ja": "無端カッター型の鋸歯をもつもの，例．チェーン鋸，帯鋸（Ｂ２８Ｄ１／１０が優先）",
+      "en": "with saw blades of endless cutter-type, e.g. chain saws, strap saws(<b>B28D1/10</b> takes precedence)",
+      "count": 3529,
+      "sourceFile": "ipc_B28D.txt",
+      "kind": "ipc"
+    },
+    "B28D1/10": {
+      "code": "B28D1/10",
+      "level": 2,
+      "parent": "B28D1/02",
+      "ja": "測定のための設備をもつもの",
+      "en": "with provision for measuring",
+      "count": 250,
+      "sourceFile": "ipc_B28D.txt",
+      "kind": "ipc"
+    },
+    "B28D1/12": {
+      "code": "B28D1/12",
+      "level": 2,
+      "parent": "B28D1/02",
+      "ja": "加工石材に適した特殊な鋸歯",
+      "en": "Saw blades specially adapted for working stone",
+      "count": 2772,
+      "sourceFile": "ipc_B28D.txt",
+      "kind": "ipc"
+    },
+    "B28D1/14": {
+      "code": "B28D1/14",
+      "level": 1,
+      "parent": "B28D1/00",
+      "ja": "中ぐりまたは穴あけによるもの（ボール盤Ｂ２３Ｂ；衝撃工具Ｂ２５Ｄ；地中または岩石の削孔Ｅ２１Ｂ）［１，７］",
+      "en": "by boring or drilling(rotary drilling machines <b>B23B</b>; percussive tools <b>B25D</b>; earth or rock drilling <b>E21B</b>)",
+      "count": 15600,
+      "sourceFile": "ipc_B28D.txt",
+      "kind": "ipc"
+    },
+    "B28D1/16": {
+      "code": "B28D1/16",
+      "level": 1,
+      "parent": "B28D1/00",
+      "ja": "旋削によるもの",
+      "en": "by turning",
+      "count": 442,
+      "sourceFile": "ipc_B28D.txt",
+      "kind": "ipc"
+    },
+    "B28D1/18": {
+      "code": "B28D1/18",
+      "level": 1,
+      "parent": "B28D1/00",
+      "ja": "フライス削りによるもの，例．フライス削り工具による溝切り",
+      "en": "by milling, e.g. channelling by means of milling tools",
+      "count": 3172,
+      "sourceFile": "ipc_B28D.txt",
+      "kind": "ipc"
+    },
+    "B28D1/20": {
+      "code": "B28D1/20",
+      "level": 1,
+      "parent": "B28D1/00",
+      "ja": "平削りによるもの，例．平削り工具による溝切り",
+      "en": "by planing, e.g. channeling by means of planing tools",
+      "count": 313,
+      "sourceFile": "ipc_B28D.txt",
+      "kind": "ipc"
+    },
+    "B28D1/22": {
+      "code": "B28D1/22",
+      "level": 1,
+      "parent": "B28D1/00",
+      "ja": "切断によるもの，例．切開",
+      "en": "by cutting, e.g. incising",
+      "count": 15126,
+      "sourceFile": "ipc_B28D.txt",
+      "kind": "ipc"
+    },
+    "B28D1/24": {
+      "code": "B28D1/24",
+      "level": 2,
+      "parent": "B28D1/22",
+      "ja": "切断円板によるもの",
+      "en": "with cutting discs",
+      "count": 11026,
+      "sourceFile": "ipc_B28D.txt",
+      "kind": "ipc"
+    },
+    "B28D1/26": {
+      "code": "B28D1/26",
+      "level": 1,
+      "parent": "B28D1/00",
+      "ja": "衝撃工具によるもの，例．たがねまたは切断刃を有する他の工具（可搬式衝撃工具Ｂ２５Ｄ）",
+      "en": "by impact tools, e.g. by chisels or other tools having a cutting edge(portable percussive machines <b>B25D</b>)",
+      "count": 2000,
+      "sourceFile": "ipc_B28D.txt",
+      "kind": "ipc"
+    },
+    "B28D1/28": {
+      "code": "B28D1/28",
+      "level": 2,
+      "parent": "B28D1/26",
+      "ja": "切断刃を有しないもの",
+      "en": "without cutting edge",
+      "count": 354,
+      "sourceFile": "ipc_B28D.txt",
+      "kind": "ipc"
+    },
+    "B28D1/30": {
+      "code": "B28D1/30",
+      "level": 1,
+      "parent": "B28D1/00",
+      "ja": "使用された作業方法にかかわらず輪郭，すなわち曲面，を形成するためのもの（美術的目的のものＢ４４Ｂ）",
+      "en": "to form contours, i.e. curved surfaces, irrespective of the method of working used(for artistic purposes <b>B44B</b>)",
+      "count": 1170,
+      "sourceFile": "ipc_B28D.txt",
+      "kind": "ipc"
+    },
+    "B28D1/32": {
+      "code": "B28D1/32",
+      "level": 1,
+      "parent": "B28D1/00",
+      "ja": "容易に砕かれやすい材料の加工に適した方法および装置，例．雲母，粘板岩，片岩",
+      "en": "Methods or apparatus specially adapted for working materials which can easily be split, e.g. mica, slate, schist",
+      "count": 979,
+      "sourceFile": "ipc_B28D.txt",
+      "kind": "ipc"
+    },
+    "B28D3/00": {
+      "code": "B28D3/00",
+      "level": 0,
+      "parent": "B28D",
+      "ja": "粉砕円板またはローラーの仕上げ（鋸盤またはその装置の工具の仕上げＢ２３Ｄ６３／００；切断を容易にするための切断機の刃部の処理Ｂ２６Ｄ７／０８）",
+      "en": "Dressing mill discs or rollers(dressing the tools of sawing machines or sawing devices <b>B23D63/00</b>; treating the cutting members of cutting machines to facilitate cutting <b>B26D7/08</b>)",
+      "count": 50,
+      "sourceFile": "ipc_B28D.txt",
+      "kind": "ipc"
+    },
+    "B28D3/02": {
+      "code": "B28D3/02",
+      "level": 1,
+      "parent": "B28D3/00",
+      "ja": "機械",
+      "en": "Machines",
+      "count": 24,
+      "sourceFile": "ipc_B28D.txt",
+      "kind": "ipc"
+    },
+    "B28D3/04": {
+      "code": "B28D3/04",
+      "level": 2,
+      "parent": "B28D3/02",
+      "ja": "ローラに溝を付けるためのもの",
+      "en": "for grooving rollers",
+      "count": 15,
+      "sourceFile": "ipc_B28D.txt",
+      "kind": "ipc"
+    },
+    "B28D5/00": {
+      "code": "B28D5/00",
+      "level": 0,
+      "parent": "B28D",
+      "ja": "宝石類，結晶体の精密加工，例．半導体の材料；そのための装置（研磨またはつや出しによる加工Ｂ２４；美術的目的のものＢ４４Ｂ；機械的方法によらないものＣ０４Ｂ４１／００；単結晶の機械的でない後処理Ｃ３０Ｂ３３／００）［３］",
+      "en": "Fine working of gems, jewels, crystals, e.g. of semiconductor material; Apparatus therefor(working by grinding or polishing <b>B24</b>; for artistic purposes <b>B44B</b>; by non-mechanical methods <b>C04B41/00</b>; non-mechanical after-treatment of single crystals <b>C30B33/00</b>)",
+      "count": 12426,
+      "sourceFile": "ipc_B28D.txt",
+      "kind": "ipc"
+    },
+    "B28D5/02": {
+      "code": "B28D5/02",
+      "level": 1,
+      "parent": "B28D5/00",
+      "ja": "回転工具によるもの，例．ドリル",
+      "en": "by rotary tools, e.g. drills",
+      "count": 4324,
+      "sourceFile": "ipc_B28D.txt",
+      "kind": "ipc"
+    },
+    "B28D5/04": {
+      "code": "B28D5/04",
+      "level": 1,
+      "parent": "B28D5/00",
+      "ja": "回転式以外の工具によるもの，例．往復動工具",
+      "en": "by tools other than of rotary type, e.g. reciprocating tools",
+      "count": 11641,
+      "sourceFile": "ipc_B28D.txt",
+      "kind": "ipc"
+    },
+    "B28D7/00": {
+      "code": "B28D7/00",
+      "level": 0,
+      "parent": "B28D",
+      "ja": "このサブクラスの他のグループに属した機械器具の使用に適した特殊補助具",
+      "en": "Accessories specially adapted for use with machines or devices of the other groups of this subclass",
+      "count": 39156,
+      "sourceFile": "ipc_B28D.txt",
+      "kind": "ipc"
+    },
+    "B28D7/02": {
+      "code": "B28D7/02",
+      "level": 1,
+      "parent": "B28D7/00",
+      "ja": "ちりを除いたりまたは鎮めたりするもの，例．液をスプレーすることによるもの；工作物を冷却するためのもの",
+      "en": "for removing or laying dust, e.g. by spraying liquids; for cooling work",
+      "count": 19627,
+      "sourceFile": "ipc_B28D.txt",
+      "kind": "ipc"
+    },
+    "B28D7/04": {
+      "code": "B28D7/04",
+      "level": 1,
+      "parent": "B28D7/00",
+      "ja": "工作物を支持または保持するためのもの",
+      "en": "for supporting or holding work",
+      "count": 25923,
+      "sourceFile": "ipc_B28D.txt",
+      "kind": "ipc"
+    }
+  }
+};

@@ -1,0 +1,1166 @@
+{
+  "generatedAt": "2026-03-20T02:17:45.932Z",
+  "total": 116,
+  "entries": {
+    "A47K": {
+      "code": "A47K",
+      "level": 0,
+      "parent": "A47",
+      "ja": "衛生設備；そのための付属品，例．化粧室付属品<br><br><b><ul>サブクラス内の索引</ul></b><br>化粧室付属器具　１／００～１０／００<br>便所；便所付属品　１１／００；１０／００，１３／００<br>その他の設備　１７／００",
+      "en": "SANITARY EQUIPMENT; ACCESSORIES THEREFOR, e.g. TOILET ACCESSORIES; <br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">TOILET FITTINGS </td><td><b><b>1/00 to 10/00</b> </b></td></tr></tr><tr><td width=\"70%\">CLOSETS; ACCESSORIES THEREFOR </td><td><b><b>11/00</b>; <b>10/00</b>, <b>13/00</b></b></td></tr></tr><tr><td width=\"70%\">OTHER EQUIPMENT </td><td><b><b>17/00</b></b></td></tr></tr></table>",
+      "count": 3985,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A47": {
+      "code": "A47",
+      "level": 0,
+      "parent": "A",
+      "ja": "家具；家庭用品または家庭用設備；コーヒーひき；香辛料ひき；真空掃除機一般<br><br><b><ul>注</ul></b><br>このクラスにおいては，下記の用語は以下に示す意味で用いる：<br>―“家具”はイーゼルまたはスタンド，例．黒板用または製図テーブル，をも包含する。",
+      "en": "FURNITURE; DOMESTIC ARTICLES OR APPLIANCES; COFFEE MILLS; SPICE MILLS; SUCTION CLEANERS IN GENERAL; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this class, the following term is used with the meaning indicated:<ul><li>\"furniture\" covers also easels or stands, e.g. for blackboards or drawing tables.</li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A": {
+      "code": "A",
+      "level": 0,
+      "parent": null,
+      "ja": "生活必需品",
+      "en": "HUMAN NECESSITIES",
+      "count": 0,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A47K1/00": {
+      "code": "A47K1/00",
+      "level": 0,
+      "parent": "A47K",
+      "ja": "洗面器台；それらの附属品［２００６．０１］",
+      "en": "Wash-stands; Appurtenances therefor",
+      "count": 7614,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K1/02": {
+      "code": "A47K1/02",
+      "level": 1,
+      "parent": "A47K1/00",
+      "ja": "可搬の化粧用卓；洗面用キャビネットまたはスタンド［２００６．０１］",
+      "en": "Portable toilet tables; Wash cabinets or stands",
+      "count": 7218,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K1/04": {
+      "code": "A47K1/04",
+      "level": 1,
+      "parent": "A47K1/00",
+      "ja": "洗面器（排水管と連結されたものＥ０３Ｃ１／１２）；水差し；それらの保持装置",
+      "en": "Basins(connected to waste pipe <b>E03C1/12</b>);Jugs; Holding devices therefor",
+      "count": 4024,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K1/05": {
+      "code": "A47K1/05",
+      "level": 2,
+      "parent": "A47K1/04",
+      "ja": "洗面器または水差しの保持装置",
+      "en": "Holding devices for basins or jugs",
+      "count": 1061,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K1/06": {
+      "code": "A47K1/06",
+      "level": 1,
+      "parent": "A47K1/00",
+      "ja": "洗面器用の着脱できる衛生的な内張りまたは覆い",
+      "en": "Replaceable hygienic linings or casings for wash-basins",
+      "count": 226,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K1/08": {
+      "code": "A47K1/08",
+      "level": 1,
+      "parent": "A47K1/00",
+      "ja": "化粧用卓の付属品，例．ガラス板；その支持具（タオル保持具Ａ４７Ｋ１０／００）",
+      "en": "Accessories for toilet tables, e.g. glass plates, supports therefor(towel holders <b>A47K10/00</b>)",
+      "count": 2218,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K1/09": {
+      "code": "A47K1/09",
+      "level": 2,
+      "parent": "A47K1/08",
+      "ja": "ガラスコップ，歯ブラシ，ヘヤーブラシ，または類似のもののための保持具",
+      "en": "Holders for drinking glasses, tooth brushes, hair brushes, or the like",
+      "count": 3693,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K1/10": {
+      "code": "A47K1/10",
+      "level": 1,
+      "parent": "A47K1/00",
+      "ja": "手洗器がついていて浴槽に着脱できる枠",
+      "en": "Detachable frames with hand basins mountable on baths",
+      "count": 50,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K1/12": {
+      "code": "A47K1/12",
+      "level": 1,
+      "parent": "A47K1/00",
+      "ja": "流しに着脱できる洗面器；流しに着脱できる組み立て式の洗面台［２００６．０１］",
+      "en": "Wash-basins attachable to sinks; Collapsible washing stands attachable to sinks",
+      "count": 352,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K1/14": {
+      "code": "A47K1/14",
+      "level": 1,
+      "parent": "A47K1/00",
+      "ja": "洗面器，浴槽，流しまたは類似のものの栓",
+      "en": "Stoppers for wash-basins, baths, sinks, or the like",
+      "count": 2752,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K3/00": {
+      "code": "A47K3/00",
+      "level": 0,
+      "parent": "A47K",
+      "ja": "浴槽；シャワー；それらの付属品［２００６．０１］",
+      "en": "Baths; Showers; Appurtenances therefor",
+      "count": 20327,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K3/02": {
+      "code": "A47K3/02",
+      "level": 1,
+      "parent": "A47K3/00",
+      "ja": "浴槽（シャワーとの組み合わせＡ４７Ｋ３／２０）［２００６．０１］",
+      "en": "Baths(combined with showers <b>A47K3/20</b>)",
+      "count": 9904,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K3/022": {
+      "code": "A47K3/022",
+      "level": 2,
+      "parent": "A47K3/02",
+      "ja": "特に特殊な使用に適用されるもの，例．足を洗うためのもの，すわったままで入浴するためのもの（特に特殊な使用に適用される組み立て式の浴槽Ａ４７Ｋ３／０６２）［２００６．０１］",
+      "en": "specially adapted for particular use, e.g. for washing the feet, for bathing in sitting position (collapsible baths specially adapted for particular use <b>A47K3/062</b>)",
+      "count": 6239,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K3/024": {
+      "code": "A47K3/024",
+      "level": 3,
+      "parent": "A47K3/022",
+      "ja": "特に子供または赤子のための使用に適用されるもの",
+      "en": "specially adapted for use for children or babies",
+      "count": 2126,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K3/03": {
+      "code": "A47K3/03",
+      "level": 2,
+      "parent": "A47K3/02",
+      "ja": "他の浴槽，流し，洗面器または類似のものに取付けうるもの（他の洗面器または類似のものに取り付け可能な折りたたみ式浴槽Ａ４７Ｋ３／０７）  ［２００６．０１］",
+      "en": "attachable to other baths, sinks, wash-basins or the like (collapsible baths attachable to other basins or the like <b>A47K3/07</b>)",
+      "count": 128,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K3/034": {
+      "code": "A47K3/034",
+      "level": 3,
+      "parent": "A47K3/03",
+      "ja": "特に子供または赤子のための使用に適用されるもの",
+      "en": "specially adapted for use for children or babies",
+      "count": 415,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K3/04": {
+      "code": "A47K3/04",
+      "level": 2,
+      "parent": "A47K3/02",
+      "ja": "作りつけの浴槽",
+      "en": "Built-in baths",
+      "count": 545,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K3/06": {
+      "code": "A47K3/06",
+      "level": 2,
+      "parent": "A47K3/02",
+      "ja": "組み立て式の浴槽",
+      "en": "Collapsible baths",
+      "count": 1546,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K3/062": {
+      "code": "A47K3/062",
+      "level": 3,
+      "parent": "A47K3/06",
+      "ja": "特に特殊な使用に適用されるもの，例．足を洗うためのもの，すわったままで入浴するためのもの",
+      "en": "specially adapted for particular use, e.g. for washing the feet, for bathing in sitting position",
+      "count": 547,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K3/064": {
+      "code": "A47K3/064",
+      "level": 4,
+      "parent": "A47K3/062",
+      "ja": "特に子供または赤子のための使用に適用されるもの",
+      "en": "specially adapted for use for children or babies",
+      "count": 451,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K3/07": {
+      "code": "A47K3/07",
+      "level": 3,
+      "parent": "A47K3/06",
+      "ja": "他の浴槽，流し，洗面器または類似のものに取付けうるもの",
+      "en": "attachable to other basins, or the like",
+      "count": 48,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K3/074": {
+      "code": "A47K3/074",
+      "level": 4,
+      "parent": "A47K3/07",
+      "ja": "特に子供または赤子のための使用に適用されるもの",
+      "en": "specially adapted for use for children or babies",
+      "count": 129,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K3/08": {
+      "code": "A47K3/08",
+      "level": 2,
+      "parent": "A47K3/02",
+      "ja": "キャビネット型浴槽［２００６．０１］",
+      "en": "Cabinet baths",
+      "count": 254,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K3/10": {
+      "code": "A47K3/10",
+      "level": 1,
+      "parent": "A47K3/00",
+      "ja": "波動発生装置または類似のもの",
+      "en": "Wave-producers or the like",
+      "count": 1868,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K3/12": {
+      "code": "A47K3/12",
+      "level": 1,
+      "parent": "A47K3/00",
+      "ja": "別体のシートまたは身体支持装置［２００６．０１］",
+      "en": "Separate seats or body supports",
+      "count": 6201,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K3/14": {
+      "code": "A47K3/14",
+      "level": 1,
+      "parent": "A47K3/00",
+      "ja": "浴槽用の着脱できる仕切り［２００６．０１］",
+      "en": "Replaceable separating walls for baths",
+      "count": 443,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K3/16": {
+      "code": "A47K3/16",
+      "level": 1,
+      "parent": "A47K3/00",
+      "ja": "床または壁に浴槽を固定する装置；調節しうる浴槽脚",
+      "en": "Devices for fastening baths to floors or walls; Adjustable bath feet",
+      "count": 2040,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K3/162": {
+      "code": "A47K3/162",
+      "level": 2,
+      "parent": "A47K3/16",
+      "ja": "組み立て式の浴槽用台または支持具",
+      "en": "Collapsible stands or supports for baths",
+      "count": 224,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K3/164": {
+      "code": "A47K3/164",
+      "level": 3,
+      "parent": "A47K3/162",
+      "ja": "子供または赤子のためのもの",
+      "en": "for child or baby baths",
+      "count": 167,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K3/17": {
+      "code": "A47K3/17",
+      "level": 2,
+      "parent": "A47K3/16",
+      "ja": "調節しうる浴槽脚",
+      "en": "Adjustable bath feet",
+      "count": 396,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K3/18": {
+      "code": "A47K3/18",
+      "level": 1,
+      "parent": "A47K3/00",
+      "ja": "手洗器と組み合わされたもの",
+      "en": "combined with hand basins",
+      "count": 146,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K3/20": {
+      "code": "A47K3/20",
+      "level": 1,
+      "parent": "A47K3/00",
+      "ja": "シャワーと組み合わせた浴槽",
+      "en": "Baths combined with showers",
+      "count": 1277,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K3/26": {
+      "code": "A47K3/26",
+      "level": 1,
+      "parent": "A47K3/00",
+      "ja": "上方へのスプレー手段を持たないビデ［２００６．０１］",
+      "en": "Bidets without upward spraying means",
+      "count": 418,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K3/28": {
+      "code": "A47K3/28",
+      "level": 1,
+      "parent": "A47K3/00",
+      "ja": "シャワー（浴槽との組み合わせＡ４７Ｋ３／２０）［２００６．０１］",
+      "en": "Showers(combined with baths <b>A47K3/20</b>)",
+      "count": 15601,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K3/30": {
+      "code": "A47K3/30",
+      "level": 2,
+      "parent": "A47K3/28",
+      "ja": "スクリーンまたはキャビネット［７］",
+      "en": "Screens or cabinets",
+      "count": 2483,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K3/32": {
+      "code": "A47K3/32",
+      "level": 3,
+      "parent": "A47K3/30",
+      "ja": "組立式のキャビネット［７］",
+      "en": "Collapsible cabinets",
+      "count": 799,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K3/34": {
+      "code": "A47K3/34",
+      "level": 3,
+      "parent": "A47K3/30",
+      "ja": "スライドできるスクリーン（Ａ４７Ｋ３／３６が優先）［７］",
+      "en": "Slidable screens(<b>A47K3/36</b> takes precedence)",
+      "count": 1518,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K3/36": {
+      "code": "A47K3/36",
+      "level": 3,
+      "parent": "A47K3/30",
+      "ja": "折り畳み式のスクリーン［７］",
+      "en": "Articulated screens",
+      "count": 1226,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K3/38": {
+      "code": "A47K3/38",
+      "level": 2,
+      "parent": "A47K3/28",
+      "ja": "カーテンのための装置［２００６．０１］",
+      "en": "Arrangements for curtains",
+      "count": 1304,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K3/40": {
+      "code": "A47K3/40",
+      "level": 2,
+      "parent": "A47K3/28",
+      "ja": "皿またはトレー［７］",
+      "en": "Pans or trays",
+      "count": 2463,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K4/00": {
+      "code": "A47K4/00",
+      "level": 0,
+      "parent": "A47K",
+      "ja": "このサブクラスの中で他の単一のグループに分類されない浴槽，シャワー，流し，洗面器，便器または小便器の組み合わせ",
+      "en": "Combinations of baths, showers, sinks, wash-basins, closets, or urinals, not covered by a single other group of this subclass",
+      "count": 7425,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K5/00": {
+      "code": "A47K5/00",
+      "level": 0,
+      "parent": "A47K",
+      "ja": "石けん，練りはみがき，または類似のものの保持具または分配器［２００６．０１］",
+      "en": "Holders or dispensers for soap, toothpaste or the like",
+      "count": 3541,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K5/02": {
+      "code": "A47K5/02",
+      "level": 1,
+      "parent": "A47K5/00",
+      "ja": "石けん箱または容器",
+      "en": "Soap boxes or receptacles",
+      "count": 3150,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K5/03": {
+      "code": "A47K5/03",
+      "level": 2,
+      "parent": "A47K5/02",
+      "ja": "壁または洗面台から離れているもの",
+      "en": "separate from wall or wash-stand",
+      "count": 1345,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K5/04": {
+      "code": "A47K5/04",
+      "level": 1,
+      "parent": "A47K5/00",
+      "ja": "他の固けい石けん保持具",
+      "en": "Other soap-cake holders",
+      "count": 1102,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K5/05": {
+      "code": "A47K5/05",
+      "level": 2,
+      "parent": "A47K5/04",
+      "ja": "固けい石けんのための固定装置をもつもの，例．クランプ，ピン，磁石",
+      "en": "having fixing devices for cakes of soap, e.g. clamps, pins, magnets",
+      "count": 925,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K5/06": {
+      "code": "A47K5/06",
+      "level": 1,
+      "parent": "A47K5/00",
+      "ja": "石けんの分配器",
+      "en": "Dispensers for soap",
+      "count": 378,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K5/08": {
+      "code": "A47K5/08",
+      "level": 2,
+      "parent": "A47K5/06",
+      "ja": "固けい石けん用のもの",
+      "en": "for solid soap",
+      "count": 412,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K5/09": {
+      "code": "A47K5/09",
+      "level": 3,
+      "parent": "A47K5/08",
+      "ja": "削りまたはすりおろすための装置をもつもの",
+      "en": "with means for scraping or grating",
+      "count": 393,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K5/10": {
+      "code": "A47K5/10",
+      "level": 2,
+      "parent": "A47K5/06",
+      "ja": "粉石けん用のもの",
+      "en": "for powdered soap",
+      "count": 527,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K5/12": {
+      "code": "A47K5/12",
+      "level": 2,
+      "parent": "A47K5/06",
+      "ja": "液状または練状の石けん用のもの",
+      "en": "for liquid or pasty soap",
+      "count": 8491,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K5/122": {
+      "code": "A47K5/122",
+      "level": 3,
+      "parent": "A47K5/12",
+      "ja": "絞り出しびんまたは類似のものを使用するもの",
+      "en": "using squeeze bottles or the like",
+      "count": 1333,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K5/13": {
+      "code": "A47K5/13",
+      "level": 3,
+      "parent": "A47K5/12",
+      "ja": "転倒しうる形式のもの",
+      "en": "of invertible type",
+      "count": 211,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K5/14": {
+      "code": "A47K5/14",
+      "level": 1,
+      "parent": "A47K5/00",
+      "ja": "石けんの泡立装置",
+      "en": "Foam or lather making devices",
+      "count": 1154,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K5/16": {
+      "code": "A47K5/16",
+      "level": 2,
+      "parent": "A47K5/14",
+      "ja": "機械的な駆動装置を有するもの［２００６．０１］",
+      "en": "with mechanical drive",
+      "count": 498,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K5/18": {
+      "code": "A47K5/18",
+      "level": 1,
+      "parent": "A47K5/00",
+      "ja": "石けんおよび練り歯みがきの両者またはそれらの類似物のためのもの；ガラスコップ，歯ブラシ，またはそれらの類似物の保持具と組み合わさっているもの",
+      "en": "for both soap and toothpaste or the like; in combination with holders for drinking glasses, toothbrushes, or the like",
+      "count": 3596,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K7/00": {
+      "code": "A47K7/00",
+      "level": 0,
+      "parent": "A47K",
+      "ja": "身体の洗浄または清浄用具［２００６．０１］",
+      "en": "Body washing or cleaning implements",
+      "count": 6909,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K7/02": {
+      "code": "A47K7/02",
+      "level": 1,
+      "parent": "A47K7/00",
+      "ja": "浴用海綿状物，ブラシ，手袋，または同様の清浄または摩擦用具［２００６．０１］",
+      "en": "Bathing sponges, brushes, gloves or similar cleaning or rubbing implements",
+      "count": 7816,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K7/03": {
+      "code": "A47K7/03",
+      "level": 2,
+      "parent": "A47K7/02",
+      "ja": "石けんまたは他の清浄成分を含むもの，例．しみ込まされているもの［２００６．０１］",
+      "en": "containing soap or other cleaning ingredients, e.g. impregnated",
+      "count": 2005,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K7/04": {
+      "code": "A47K7/04",
+      "level": 1,
+      "parent": "A47K7/00",
+      "ja": "手または機械で作動する洗浄または清浄装置［２００６．０１］",
+      "en": "Washing or cleaning devices, hand or mechanically operated",
+      "count": 7918,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K7/06": {
+      "code": "A47K7/06",
+      "level": 1,
+      "parent": "A47K7/00",
+      "ja": "片腕の人のための洗浄装置［２００６．０１］",
+      "en": "Washing devices for one-armed persons",
+      "count": 71,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K7/08": {
+      "code": "A47K7/08",
+      "level": 1,
+      "parent": "A47K7/00",
+      "ja": "でん部を清浄する装置または手道具［２００６．０１］",
+      "en": "Devices or hand implements for cleaning the buttocks",
+      "count": 3320,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K10/00": {
+      "code": "A47K10/00",
+      "level": 0,
+      "parent": "A47K",
+      "ja": "身体乾燥用具；トイレットペーパー；そのための保持具",
+      "en": "Body-drying implements; Toilet paper; Holders therefor",
+      "count": 1112,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K10/02": {
+      "code": "A47K10/02",
+      "level": 1,
+      "parent": "A47K10/00",
+      "ja": "タオル（紙タオルＡ４７Ｋ１０／１６）［２００６．０１］",
+      "en": "Towels (paper towels <b>A47K10/16</b>)",
+      "count": 4581,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K10/04": {
+      "code": "A47K10/04",
+      "level": 1,
+      "parent": "A47K10/00",
+      "ja": "タオル掛け；タオル用横棒；タオルロッド；タオルロール，例．回転するもの",
+      "en": "Towel racks; Towel rails; Towel rods; Towel rolls, e.g. rotatable",
+      "count": 3511,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K10/06": {
+      "code": "A47K10/06",
+      "level": 2,
+      "parent": "A47K10/04",
+      "ja": "タオルを乾燥する装置と組合わされたもの（Ａ４７Ｋ１０／３０が優先）",
+      "en": "combined with means for drying towels(<b>A47K10/30</b> takes precedence)",
+      "count": 3021,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K10/08": {
+      "code": "A47K10/08",
+      "level": 2,
+      "parent": "A47K10/04",
+      "ja": "洗面器，浴槽，またはそれらに類似のものに取付けた点に特徴のあるもの",
+      "en": "characterised by being mounted on wash-basins, baths, or the like",
+      "count": 294,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K10/10": {
+      "code": "A47K10/10",
+      "level": 2,
+      "parent": "A47K10/04",
+      "ja": "キャビネット，壁，ドア，またはそれらに類似のものに取付けた点に特徴のあるもの",
+      "en": "characterised by being mounted on cabinets, walls, doors, or the like",
+      "count": 2855,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K10/12": {
+      "code": "A47K10/12",
+      "level": 1,
+      "parent": "A47K10/00",
+      "ja": "タオルを吊り下げるためのグリップ，フック，またはそれらに類似のもの",
+      "en": "Grips, hooks, or the like for hanging-up towels",
+      "count": 1036,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K10/14": {
+      "code": "A47K10/14",
+      "level": 2,
+      "parent": "A47K10/12",
+      "ja": "それ自身で保持するグリップ",
+      "en": "Self-holding grips",
+      "count": 322,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K10/16": {
+      "code": "A47K10/16",
+      "level": 1,
+      "parent": "A47K10/00",
+      "ja": "紙タオル；トイレットペーパー；それらの保持具［２００６．０１］",
+      "en": "Paper towels; Toilet paper; Holders therefor",
+      "count": 6777,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K10/18": {
+      "code": "A47K10/18",
+      "level": 2,
+      "parent": "A47K10/16",
+      "ja": "保持具；容器",
+      "en": "Holders; Receptacles",
+      "count": 2528,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K10/20": {
+      "code": "A47K10/20",
+      "level": 3,
+      "parent": "A47K10/18",
+      "ja": "重ねられたシート用のもの",
+      "en": "for piled sheets",
+      "count": 4001,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K10/22": {
+      "code": "A47K10/22",
+      "level": 3,
+      "parent": "A47K10/18",
+      "ja": "巻かれたウェブ用のもの［２００６．０１］",
+      "en": "for rolled-up webs",
+      "count": 5701,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K10/24": {
+      "code": "A47K10/24",
+      "level": 1,
+      "parent": "A47K10/00",
+      "ja": "タオル分配装置；トイレットペーパー分配装置［２００６．０１］",
+      "en": "Towel dispensers; Toilet paper dispensers",
+      "count": 828,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K10/26": {
+      "code": "A47K10/26",
+      "level": 2,
+      "parent": "A47K10/24",
+      "ja": "機械的に駆動されるタオル分配器（Ａ４７Ｋ１０／２８が優先；ウェブから紙タオルまたはトイレットペーパーを分配するものについてはＡ４７Ｋ１０／３４，保管された個別シート状の紙タオルまたはトイレットペーパー，例．積み重ねられた，を分配するものについてはＡ４７Ｋ１０／４４）［２００６．０１］",
+      "en": "Mechanically-driven towel dispensers  (<b>A47K10/28</b> takes precedence;   for paper towels or toilet-paper from a web <b>A47K10/34</b>; for paper towels or toilet paper from a store of single sheets, e.g. stacked, <b>A47K10/44</b>)",
+      "count": 242,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K10/28": {
+      "code": "A47K10/28",
+      "level": 2,
+      "parent": "A47K10/24",
+      "ja": "清浄な部分を分配し，汚損した部分を引き上げるもの，例．ロールを使用するもの",
+      "en": "dispensing a clean part and taking-up a soiled part, e.g. using rolls",
+      "count": 699,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K10/30": {
+      "code": "A47K10/30",
+      "level": 3,
+      "parent": "A47K10/28",
+      "ja": "汚れた部分の洗浄および乾燥をする装置と組み合わされたもの",
+      "en": "combined with washing and drying means for the soiled parts",
+      "count": 126,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K10/32": {
+      "code": "A47K10/32",
+      "level": 2,
+      "parent": "A47K10/24",
+      "ja": "紙タオルまたはトイレットペーパー用の分配器",
+      "en": "Dispensers for paper towels or toilet-paper",
+      "count": 3783,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K10/34": {
+      "code": "A47K10/34",
+      "level": 3,
+      "parent": "A47K10/32",
+      "ja": "ウェブから分配するもの，例．機械的分配装置を有するもの",
+      "en": "dispensing from a web, e.g. with mechanical dispensing means",
+      "count": 1784,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K10/36": {
+      "code": "A47K10/36",
+      "level": 4,
+      "parent": "A47K10/34",
+      "ja": "切断する装置を有するもの",
+      "en": "with cutting devices",
+      "count": 4846,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K10/38": {
+      "code": "A47K10/38",
+      "level": 4,
+      "parent": "A47K10/34",
+      "ja": "ウェブが巻かれているもの",
+      "en": "the web being rolled-up",
+      "count": 5895,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K10/40": {
+      "code": "A47K10/40",
+      "level": 5,
+      "parent": "A47K10/38",
+      "ja": "伸張または折りたためるロール支持具を有するもの",
+      "en": "with extensible or collapsible roll supports",
+      "count": 1429,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K10/42": {
+      "code": "A47K10/42",
+      "level": 3,
+      "parent": "A47K10/32",
+      "ja": "一枚づつよりなる一たばのシートから分配するもの，例．積み重ねたもの",
+      "en": "dispensing from a store of single sheets, e.g. stacked",
+      "count": 4237,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K10/44": {
+      "code": "A47K10/44",
+      "level": 4,
+      "parent": "A47K10/42",
+      "ja": "機械的な分配装置を有するもの",
+      "en": "with mechanical dispensing means",
+      "count": 512,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K10/46": {
+      "code": "A47K10/46",
+      "level": 3,
+      "parent": "A47K10/32",
+      "ja": "汚れたタオルを貯蔵する装置を有するもの",
+      "en": "with means for storing soiled towels",
+      "count": 299,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K10/48": {
+      "code": "A47K10/48",
+      "level": 1,
+      "parent": "A47K10/00",
+      "ja": "熱気で乾燥するもの［２００６．０１］",
+      "en": "Drying by means of hot air",
+      "count": 7012,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K11/00": {
+      "code": "A47K11/00",
+      "level": 0,
+      "parent": "A47K",
+      "ja": "水洗でない便所；水洗でない小便所；しびん；便器を備えたいす，または便器とともに使用するのに適合したいす［２００６．０１］",
+      "en": "Closets without flushing; Urinals without flushing; Chamber pots; Chairs with toilet conveniences or specially adapted for use with toilets",
+      "count": 4990,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K11/02": {
+      "code": "A47K11/02",
+      "level": 1,
+      "parent": "A47K11/00",
+      "ja": "乾式便所，例．焼却便所",
+      "en": "Dry closets, e.g. incinerator closets",
+      "count": 3331,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K11/03": {
+      "code": "A47K11/03",
+      "level": 2,
+      "parent": "A47K11/02",
+      "ja": "粉末，例．土，を加える装置を有するもの",
+      "en": "having means for adding powder, e.g. earth",
+      "count": 594,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K11/04": {
+      "code": "A47K11/04",
+      "level": 1,
+      "parent": "A47K11/00",
+      "ja": "室内便器；便器を備え，または便器とともに使用するのに特に適合したいす，例．寝室用便器［５］",
+      "en": "Room closets; Chairs with toilet conveniences or specially adapted for use with toilets, e.g. night chairs",
+      "count": 6225,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K11/06": {
+      "code": "A47K11/06",
+      "level": 1,
+      "parent": "A47K11/00",
+      "ja": "しびん［２００６．０１］",
+      "en": "Chamber-pots",
+      "count": 1721,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K11/08": {
+      "code": "A47K11/08",
+      "level": 1,
+      "parent": "A47K11/00",
+      "ja": "便器またはビデを有する寝室用キャビネットまたは台［２００６．０１］",
+      "en": "Night cabinets or tables with closets or bidet equipment",
+      "count": 69,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K11/10": {
+      "code": "A47K11/10",
+      "level": 1,
+      "parent": "A47K11/00",
+      "ja": "便器掃除用手道具",
+      "en": "Hand tools for cleaning the toilet bowl",
+      "count": 3466,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K11/12": {
+      "code": "A47K11/12",
+      "level": 1,
+      "parent": "A47K11/00",
+      "ja": "水洗でない小便器",
+      "en": "Urinals without flushing",
+      "count": 1492,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K13/00": {
+      "code": "A47K13/00",
+      "level": 0,
+      "parent": "A47K",
+      "ja": "全ての種類の便所の便座または便蓋",
+      "en": "Seats or covers for all kinds of closets",
+      "count": 5550,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K13/02": {
+      "code": "A47K13/02",
+      "level": 1,
+      "parent": "A47K13/00",
+      "ja": "可塑性材料のもの",
+      "en": "of plastic materials",
+      "count": 805,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K13/04": {
+      "code": "A47K13/04",
+      "level": 1,
+      "parent": "A47K13/00",
+      "ja": "便座の緩衝物",
+      "en": "Buffers for seats",
+      "count": 1045,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K13/06": {
+      "code": "A47K13/06",
+      "level": 1,
+      "parent": "A47K13/00",
+      "ja": "子供用の補助便座または可搬便座",
+      "en": "Auxiliary or portable seats for children",
+      "count": 1416,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K13/08": {
+      "code": "A47K13/08",
+      "level": 1,
+      "parent": "A47K13/00",
+      "ja": "小便用漏斗を有する便蓋",
+      "en": "Covers with urine funnels",
+      "count": 266,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K13/10": {
+      "code": "A47K13/10",
+      "level": 1,
+      "parent": "A47K13/00",
+      "ja": "上下させる装置［２００６．０１］",
+      "en": "Devices for raising and lowering",
+      "count": 5464,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K13/12": {
+      "code": "A47K13/12",
+      "level": 1,
+      "parent": "A47K13/00",
+      "ja": "ちょうつがい",
+      "en": "Hinges",
+      "count": 3393,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K13/14": {
+      "code": "A47K13/14",
+      "level": 1,
+      "parent": "A47K13/00",
+      "ja": "便座カバー",
+      "en": "Protecting covers for closet seats",
+      "count": 3906,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K13/16": {
+      "code": "A47K13/16",
+      "level": 2,
+      "parent": "A47K13/14",
+      "ja": "一枚の紙製のもの",
+      "en": "of single sheets of paper",
+      "count": 2247,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K13/18": {
+      "code": "A47K13/18",
+      "level": 2,
+      "parent": "A47K13/14",
+      "ja": "紙ウェブ製のもの",
+      "en": "of paper webs",
+      "count": 361,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K13/20": {
+      "code": "A47K13/20",
+      "level": 3,
+      "parent": "A47K13/18",
+      "ja": "切断装置を有するもの",
+      "en": "with cutting devices",
+      "count": 338,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K13/22": {
+      "code": "A47K13/22",
+      "level": 3,
+      "parent": "A47K13/18",
+      "ja": "巻き上げるもの（Ａ４７Ｋ１３／２０が優先）",
+      "en": "rolled-up(<b>A47K13/20</b> takes precedence)",
+      "count": 672,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K13/24": {
+      "code": "A47K13/24",
+      "level": 1,
+      "parent": "A47K13/00",
+      "ja": "グループＡ４７Ｋ１３／０２～Ａ４７Ｋ１３／２２に分類されない，または無関係な部品または細部",
+      "en": "Parts or details not covered in, or of interest apart from, groups <b>A47K13/02 to A47K13/22</b> ",
+      "count": 7598,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K13/26": {
+      "code": "A47K13/26",
+      "level": 2,
+      "parent": "A47K13/24",
+      "ja": "便座または便蓋の装着装置［２００６．０１］",
+      "en": "Mounting devices for seats or covers",
+      "count": 2816,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K13/28": {
+      "code": "A47K13/28",
+      "level": 2,
+      "parent": "A47K13/24",
+      "ja": "調節可能に装着された便座または便蓋",
+      "en": "Adjustably-mounted seats or covers",
+      "count": 1156,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K13/30": {
+      "code": "A47K13/30",
+      "level": 2,
+      "parent": "A47K13/24",
+      "ja": "加熱，脱臭またはそれらに類似するものを有する便座",
+      "en": "Seats having provisions for heating, deodorising or the like",
+      "count": 7274,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K17/00": {
+      "code": "A47K17/00",
+      "level": 0,
+      "parent": "A47K",
+      "ja": "このサブクラスの他のグループに包含されない他の衛生設備［２００６．０１］",
+      "en": "Other sanitary equipment not covered by the other groups of this subclass ",
+      "count": 4598,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    },
+    "A47K17/02": {
+      "code": "A47K17/02",
+      "level": 1,
+      "parent": "A47K17/00",
+      "ja": "便座以外の便所用の身体支持装置，例．取っ手，背もたれ，足のせ；便所の付属品，例．読書用卓",
+      "en": "Body supports, other than seats, for closets, e.g. handles, back-rests, foot-rests; Accessories for closets, e.g. reading tables",
+      "count": 6994,
+      "sourceFile": "ipc_A47K.txt",
+      "kind": "ipc"
+    }
+  }
+}

@@ -1,0 +1,5186 @@
+window.IPC_SHARD_F16H = {
+  "generatedAt": "2026-03-20T02:17:46.840Z",
+  "total": 518,
+  "entries": {
+    "F16H": {
+      "code": "F16H",
+      "level": 0,
+      "parent": "F16",
+      "ja": "伝動装置<br><br><b><ul>注</ul></b><br>（１）機械的伝動装置を含む組み合わせはグループ１／００から３５／００に分類されていない限りグループ３７／００から４７／００に分類する。［２００９．０１］<br>（２）このサブクラスにおいては，剛結合された部材は単一部材とみなす。<br>（３）このサブクラスにおいては，下記の用語または表現は以下に示す意味で用いる；<br>―“歯車伝動装置”はウォーム伝動装置および歯または歯に相当するものを備えた少なくとも１つの車または扇形車を含む他の伝動装置を含み，チェーンや歯付きベルトによる伝動装置は摩擦伝動装置で取り扱うので除く；<br>―“運動の伝達”はエネルギを伝達することを含むとともに，入，出力運動が，たとえば速度，方向または大きさにおいて相違していようとも，同種であることを意味する；<br>―“回転”は回転が無限に続き得ることを意味する；<br>―“振動”は伝動装置の構造によって規制される範囲で，一回転以上をも含めて，軸のまわりを運動し，その運動は伝動装置の連続運転中，交互に前後することを意味する；<br>―“往復運動”は本質的に直線の運動を意味し，その運動は伝動装置の連続運転中，交互に前後することを意味する；<br>―“逆転する”または“逆転”は一方向の入力運動から生じる出力運動が２つの反対方向のどちらかに随意に切換え得ることを意味する；<br>―“中心歯車”はその軸が伝動装置の主軸あるすべての歯車を含む。<br>（４）次の箇所に注意すること。<br>Ａ０１Ｄ　６９／０６　収穫期または刈取機の伝動機構<br>Ａ６３Ｈ　３１／００　玩具の伝動装置<br>Ｂ２１Ｂ　３５／１２　金属圧延機の歯車伝動装置<br>Ｂ６０Ｋ　　車両用伝動装置の配置<br>Ｂ６１Ｃ　　９／００　機関車の伝動装置<br>Ｂ６２Ｄ　　３／００　自動車の操向伝動装置<br>Ｂ６２Ｍ　　車輪付車両の伝動装置<br>Ｂ６３Ｈ　２３／００　船舶推進の伝動装置<br>Ｂ６３Ｈ　２５／００　船舶の操向伝動装置<br>Ｆ０１～Ｆ０４　　機械，機関，ポンプ<br>Ｆ１５Ｂ　１５／００　流体作動装置と組み合わせた伝動装置<br>Ｇ０１Ｄ　　５／０４　測定装置に関する指示または記録装置に用いられる伝動装置<br>Ｈ０３Ｊ　　１／００　同調共振回路の駆動装置の配置<br>Ｈ０４Ｌ　１３／０４　デジタル情報の伝動装置駆動機構［５］<br><br><b><ul>サブクラス内の索引</ul></b><br>回転運動に限定されない伝動装置<br>機械的伝動装置<br>レバー，リンク，カムを用いるもの　２１／００～２５／００<br>間欠駆動部材を用いるもの　２７／００～３１／００<br>他の伝動装置；伝動装置の組み合わせ　１９／００，３３／００，３５／００，３７／００<br>細部　５１／００～５７／００<br>流体伝動装置　４３／００<br>回転運動を伝動するための伝動装置<br>歯車伝動装置　１／００，３／００<br>無端可撓部材を用いるもの　７／００，９／００<br>他の摩擦伝動装置　１３／００，１５／００<br>流体伝動装置　３９／００，４１／００，４５／００<br>間欠伝動装置を用いるもの　２９／００<br>制御<br>変速用または逆転用回転運動伝動装置の制御　５９／００～６３／００<br>伝動装置の組み合わせ；差動伝動装置；その他の伝動装置　４７／００，４８／００，４９／００<br>伝動装置の一般的な細部　５７／００",
+      "en": "GEARING; <br><br><b><u>Note(s)</u></b><br><br><ul><li>Combinations including mechanical gearings are classified in groups <b>F16H37/00</b>or <b>F16H47/00</b>, unless they are provided for in groups <b>F16H1/00 to F16H35/00</b> .</li><li>In this subclass, sets of rigidly-connected members are regarded as single members.</li><li>In this subclass, the following terms or expressions are used with the meanings indicated: <ul><li>\"toothed gearing\" includes worm gearing and other gearing involving at least one wheel or sector provided with teeth or the equivalent, <u>except</u> gearing with chains or toothed belts, which is treated as friction gearing;</li><li>\"conveying motion\" includes transmitting energy, and means that the applied and resultant motions are of the same kind, though they may differ in, e.g. speed, direction or extent;</li><li>\"rotary\" implies that the motion may continue indefinitely.</li><li>\"oscillating\" means moving about an axis to an extent which is limited by the construction of the gearing and which may exceed one revolution, the movement being alternately forwards and backwards during continued operation of the gearing;</li><li>\"reciprocating\" means moving substantially in a straight line, the movement being alternately forwards and backwards during continued operation of the gearing;</li><li>\"reversing\" or \"reversal\" means that an applied movement in one direction may produce a resultant movement in either of two opposed directions at will;</li><li>\"central gears\" includes any gears whose axis is the main axis of the gearing.</li></ul></li><li>Attention is drawn to the following places: <ul><li>Gearings in harvesters or mowers</li><li>Gearing for toys</li><li>Toothed-wheel gearing for metal-rolling mills</li><li>Arrangement of transmissions in vehicles</li><li>Transmissions for railway locomotives</li><li>Vehicle steering gears</li><li>Transmissions for cycles</li><li>Transmissions for marine propulsion</li><li>Marine steering gears</li><li>Machines, engines, pumps</li><li>Gearings associated with fluid-actuated devices</li><li>Gearing used in indicating or recording apparatus in connection with measuring devices</li><li>Driving arrangements for tuning resonant circuits</li><li>Driving mechanisms for apparatus for transmission of coded digital information.  </li></ul></li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">GEARINGS NOT LIMITED TO ROTARY MOTION<tr><td width=\"70%\">Mechanical gearings<tr><td width=\"70%\">using levers, links, or cams </td><td><b><b>21/00 to 25/00</b> </b></td></tr></tr><tr><td width=\"70%\">using intermittently-driving members </td><td><b><b>27/00 to 31/00</b> </b></td></tr></tr><tr><td width=\"70%\">other gearings; combinations of gearings </td><td><b><b>19/00</b>, <b>33/00</b>, <b>35/00</b>; <b>37/00</b></b></td></tr></tr><tr><td width=\"70%\">details </td><td><b><b>51/00 to 57/00</b> </b></td></tr></tr></tr><tr><td width=\"70%\">Fluid gearing </td><td><b><b>43/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">GEARINGS FOR CONVEYING ROTARY MOTION<tr><td width=\"70%\">Toothed gearings </td><td><b><b>1/00</b>, <b>3/00</b></b></td></tr></tr><tr><td width=\"70%\">Using endless flexible members </td><td><b><b>7/00</b>, <b>9/00</b></b></td></tr></tr><tr><td width=\"70%\">Other friction gearing </td><td><b><b>13/00</b>, <b>15/00</b></b></td></tr></tr><tr><td width=\"70%\">Fluid gearing </td><td><b><b>39/00</b>, <b>41/00</b>, <b>45/00</b></b></td></tr></tr><tr><td width=\"70%\">Using intermittently-driving gearing </td><td><b><b>29/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">CONTROL<tr><td width=\"70%\">of change-speed- or reversing-gearings conveying rotary motion </td><td><b><b>59/00 to 63/00</b> </b></td></tr></tr></tr><tr><td width=\"70%\">COMBINATIONS OF GEARINGS; DIFFERENTIAL GEARINGS; OTHER GEARINGS </td><td><b><b>47/00</b>; <b>48/00</b>; <b>49/00</b></b></td></tr></tr><tr><td width=\"70%\">GENERAL DETAILS OF GEARINGS </td><td><b><b>57/00</b></b></td></tr></tr></table>",
+      "count": 3269,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F16": {
+      "code": "F16",
+      "level": 0,
+      "parent": "F",
+      "ja": "機械要素または単位；機械または装置の効果的機能を生じ維持するための一般的手段",
+      "en": "ENGINEERING ELEMENTS OR UNITS; GENERAL MEASURES FOR PRODUCING AND MAINTAINING EFFECTIVE FUNCTIONING OF MACHINES OR INSTALLATIONS; THERMAL INSULATION IN GENERAL",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F": {
+      "code": "F",
+      "level": 0,
+      "parent": null,
+      "ja": "機械工学；照明；加熱；武器；爆破",
+      "en": "MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F16H1/00": {
+      "code": "F16H1/00",
+      "level": 0,
+      "parent": "F16H",
+      "ja": "回転運動伝達用歯車伝動装置（可変変速比をもつ回転運動伝達または逆転運動に特有なものＦ１６Ｈ３／００）",
+      "en": "Toothed gearings for conveying rotary motion(specific for conveying rotary motion with variable gear ratio or for reversing rotary motion <b>F16H3/00</b>)",
+      "count": 2848,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H1/02": {
+      "code": "F16H1/02",
+      "level": 1,
+      "parent": "F16H1/00",
+      "ja": "遊星運動をする歯車がないもの",
+      "en": "without gears having orbital motion",
+      "count": 867,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H1/04": {
+      "code": "F16H1/04",
+      "level": 2,
+      "parent": "F16H1/02",
+      "ja": "ただ２つの相互にかみ合う部材を含むもの",
+      "en": "involving only two intermeshing members",
+      "count": 1147,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H1/06": {
+      "code": "F16H1/06",
+      "level": 3,
+      "parent": "F16H1/04",
+      "ja": "平行な軸をもつもの",
+      "en": "with parallel axes",
+      "count": 4521,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H1/08": {
+      "code": "F16H1/08",
+      "level": 4,
+      "parent": "F16H1/06",
+      "ja": "部材がハスバの，ヤマバのまたは同様な歯を有しているもの",
+      "en": "the members having helical, herring-bone, or like teeth",
+      "count": 1163,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H1/10": {
+      "code": "F16H1/10",
+      "level": 4,
+      "parent": "F16H1/06",
+      "ja": "部材の１つが内側に歯のあるもの",
+      "en": "one of the members being internally toothed",
+      "count": 893,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H1/12": {
+      "code": "F16H1/12",
+      "level": 3,
+      "parent": "F16H1/04",
+      "ja": "平行でない軸をもつもの",
+      "en": "with non-parallel axes",
+      "count": 1074,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H1/14": {
+      "code": "F16H1/14",
+      "level": 4,
+      "parent": "F16H1/12",
+      "ja": "円すい形の歯車のみからなるもの",
+      "en": "comprising conical gears only",
+      "count": 3232,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H1/16": {
+      "code": "F16H1/16",
+      "level": 4,
+      "parent": "F16H1/12",
+      "ja": "ウオームおよびウオームホイルからなるもの",
+      "en": "comprising worm and worm-wheel",
+      "count": 8676,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H1/18": {
+      "code": "F16H1/18",
+      "level": 4,
+      "parent": "F16H1/12",
+      "ja": "部材がハスバの，ヤマバのまたは同様な歯を有するもの（Ｆ１６Ｈ１／１４が優先）",
+      "en": "the members having helical, herring-bone, or like teeth(<b>F16H1/14</b> takes precedence)",
+      "count": 412,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H1/20": {
+      "code": "F16H1/20",
+      "level": 2,
+      "parent": "F16H1/02",
+      "ja": "３つ以上のかみ合う部材を含むもの",
+      "en": "involving more than two intermeshing members",
+      "count": 7127,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H1/22": {
+      "code": "F16H1/22",
+      "level": 3,
+      "parent": "F16H1/20",
+      "ja": "複数の駆動軸または被駆動軸をもつもの；２つ以上の中間軸の間に，トルクを分割するための装置をもつもの",
+      "en": "with a plurality of driving or driven shafts; with arrangements for dividing torque between two or more intermediate shafts",
+      "count": 7968,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H1/24": {
+      "code": "F16H1/24",
+      "level": 2,
+      "parent": "F16H1/02",
+      "ja": "インボリュートまたはサイクロイド歯とは異なった，相互にかみ合う要素を本質的に有する歯車を含むもの（Ｆ１６Ｈ１／１６が優先）",
+      "en": "involving gears essentially having intermeshing elements other than involute or cycloidal teeth(<b>F16H1/16</b> takes precedence)",
+      "count": 935,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H1/26": {
+      "code": "F16H1/26",
+      "level": 2,
+      "parent": "F16H1/02",
+      "ja": "軸の不整列を補償する特別な手段",
+      "en": "Special means compensating for misalignment of axes",
+      "count": 444,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H1/28": {
+      "code": "F16H1/28",
+      "level": 1,
+      "parent": "F16H1/00",
+      "ja": "遊星運動をする歯車があるもの",
+      "en": "with gears having orbital motion",
+      "count": 12673,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H1/30": {
+      "code": "F16H1/30",
+      "level": 2,
+      "parent": "F16H1/28",
+      "ja": "その中で，遊星歯車が伝動装置の主軸と交差する軸を有し，しかもハスバをもつか，またはウオームであるもの",
+      "en": "in which an orbital gear has an axis crossing the main axis of the gearing and has helical teeth or is a worm",
+      "count": 456,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H1/32": {
+      "code": "F16H1/32",
+      "level": 2,
+      "parent": "F16H1/28",
+      "ja": "その中で，伝動装置の中心軸が遊星歯車の周囲の内側にあるもの",
+      "en": "in which the central axis of the gearing lies inside the periphery of an orbital gear",
+      "count": 14598,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H1/34": {
+      "code": "F16H1/34",
+      "level": 2,
+      "parent": "F16H1/28",
+      "ja": "インボリュートまたはサイクロイド歯とは異なった，相互にかみ合う要素を本質的に有する歯車を含むもの（ウオーム伝動装置Ｆ１６Ｈ１／３０）",
+      "en": "involving gears essentially having intermeshing elements other than involute or cycloidal teeth(in worm gearing <b>F16H1/30</b>)",
+      "count": 364,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H1/36": {
+      "code": "F16H1/36",
+      "level": 2,
+      "parent": "F16H1/28",
+      "ja": "相互にかみ合う遊星歯車によって連結されている２つの中心歯車をもつもの",
+      "en": "with two central gears coupled by intermeshing orbital gears",
+      "count": 1758,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H1/46": {
+      "code": "F16H1/46",
+      "level": 2,
+      "parent": "F16H1/28",
+      "ja": "おのおのが遊星歯車をもつ複数の歯車列からなる機構",
+      "en": "Systems consisting of a plurality of gear trains, each with orbital gears",
+      "count": 2839,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H1/48": {
+      "code": "F16H1/48",
+      "level": 2,
+      "parent": "F16H1/28",
+      "ja": "軸の不整列を補償するための特別な手段",
+      "en": "Special means compensating for misalignment of axes",
+      "count": 720,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H3/00": {
+      "code": "F16H3/00",
+      "level": 0,
+      "parent": "F16H",
+      "ja": "可変変速比をもった回転運動伝達用または逆転用歯車装置（変速機構または逆転機構Ｆ１６Ｈ５９／００～Ｆ１６Ｈ６３／００）",
+      "en": "Toothed gearings for conveying rotary motion with variable gear ratio or for reversing rotary motion(speed-changing or reversing mechanisms <b>F16H59/00 to F16H63/00</b> )",
+      "count": 4452,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H3/02": {
+      "code": "F16H3/02",
+      "level": 1,
+      "parent": "F16H3/00",
+      "ja": "遊星運動をする歯車がないもの",
+      "en": "without gears having orbital motion",
+      "count": 2093,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H3/04": {
+      "code": "F16H3/04",
+      "level": 2,
+      "parent": "F16H3/02",
+      "ja": "内歯車をもつもの",
+      "en": "with internally-toothed gears",
+      "count": 405,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H3/06": {
+      "code": "F16H3/06",
+      "level": 2,
+      "parent": "F16H3/02",
+      "ja": "ウオームおよびウオームホイルまたはハスバのまたはヤマバの歯を本質的に有する歯車",
+      "en": "with worm and worm-wheel or gears essentially having helical or herring-bone teeth",
+      "count": 742,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H3/08": {
+      "code": "F16H3/08",
+      "level": 2,
+      "parent": "F16H3/02",
+      "ja": "もっぱらまたは本質的に，軸との接続をはずすことができて，常に歯車どうしかみ合っている歯車をもつもの<br><br><b><ul>注</ul></b><br>このグループにおいては，歯車どうしのかみ合いをはずすことが可能である歯車は，もしそれが逆転のみに用いられるならば，考慮に入れない。［８］",
+      "en": "exclusively or essentially with continuously- meshing gears, that can be disengaged from their shafts; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this group, gears which can be put out of mesh are not taken into consideration if they are used for reversal only.</li></ul>",
+      "count": 4432,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H3/083": {
+      "code": "F16H3/083",
+      "level": 3,
+      "parent": "F16H3/08",
+      "ja": "半径方向に動かされるか，あるいは軸方向に制御されるクラッチ部材をもつもの，例．スライディングキーをもつもの［５］",
+      "en": "with radially acting and axially controlled clutching members, e.g. sliding keys",
+      "count": 1733,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H3/085": {
+      "code": "F16H3/085",
+      "level": 3,
+      "parent": "F16H3/08",
+      "ja": "２つ以上の出力軸をもつもの［５］",
+      "en": "with more than one output shaft",
+      "count": 983,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H3/087": {
+      "code": "F16H3/087",
+      "level": 3,
+      "parent": "F16H3/08",
+      "ja": "歯車の配置に特徴をもつもの（Ｆ１６Ｈ３／０８３，Ｆ１６Ｈ３／０８５が優先）［５］<br><br><b><ul>注</ul></b><br>カウンター軸を数える場合に，逆転カウンター軸は，もしそれが逆転のためのみに用いられるならば，考慮に入れない。［５］",
+      "en": "characterised by the disposition of the gears(<b>F16H3/083</b>, <b>F16H3/085</b> take precedence);<br><br><b><u>Note(s)</u></b><br><br><ul><li>When counting the countershafts, the reverse countershaft is not taken into consideration if it is used for reversal only. </li></ul>",
+      "count": 1673,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H3/089": {
+      "code": "F16H3/089",
+      "level": 4,
+      "parent": "F16H3/087",
+      "ja": "一方が入力軸で他方が出力軸である一対の平行な軸上に，全てのかみ合う歯車が支持されているもので，カウンター軸を構成要件としないもの［５］",
+      "en": "all of the meshing gears being supported by a pair of parallel shafts, one being the input shaft and the other the output shaft, there being no countershaft involved",
+      "count": 1701,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H3/091": {
+      "code": "F16H3/091",
+      "level": 4,
+      "parent": "F16H3/087",
+      "ja": "単一のカウンター軸を含むもの［５］",
+      "en": "including a single countershaft",
+      "count": 2957,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H3/093": {
+      "code": "F16H3/093",
+      "level": 4,
+      "parent": "F16H3/087",
+      "ja": "２つ以上のカウンター軸をもつもの［５］",
+      "en": "with two or more countershafts",
+      "count": 3481,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H3/095": {
+      "code": "F16H3/095",
+      "level": 5,
+      "parent": "F16H3/093",
+      "ja": "カウンター軸間のトルクの均等な分配を補償する手段をもつ［５］",
+      "en": "with means for ensuring an even distribution of torque between the countershafts",
+      "count": 262,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H3/097": {
+      "code": "F16H3/097",
+      "level": 5,
+      "parent": "F16H3/093",
+      "ja": "入力と出力軸が同一軸上に整列されるもの［５］",
+      "en": "the input and output shafts being aligned on the same axis",
+      "count": 788,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H3/10": {
+      "code": "F16H3/10",
+      "level": 3,
+      "parent": "F16H3/08",
+      "ja": "根本的な特徴として，１つ以上の一方向クラッチをもつもの",
+      "en": "with one or more one-way clutches as an essential feature",
+      "count": 1740,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H3/12": {
+      "code": "F16H3/12",
+      "level": 3,
+      "parent": "F16H3/08",
+      "ja": "クラッチに組み込まれていない同期のための手段を有するもの［２００６．０１］",
+      "en": "with means for synchronisation not incorporated in the clutches",
+      "count": 3220,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H3/14": {
+      "code": "F16H3/14",
+      "level": 3,
+      "parent": "F16H3/08",
+      "ja": "逆転のみのための伝動装置",
+      "en": "Gearings for reversal only",
+      "count": 1806,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H3/16": {
+      "code": "F16H3/16",
+      "level": 2,
+      "parent": "F16H3/02",
+      "ja": "歯車どうしのかみ合いをはずすことが可能な歯車および軸との接続をはずすことができて常に歯車どうしでかみ合っている歯車の両者を本質的にもつもの<br><br><b><ul>注</ul></b><br>このグループにおいては，歯車どうしのかみ合いをはずすことが可能である歯車は，もしそれが逆転のみに用いられるならば，考慮に入れない。［８］",
+      "en": "essentially with both gears that can be put out of gear and continuously-meshing gears that can be disengaged from their shafts; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this group, gears which can be put out of mesh are not taken into consideration if they are used for reversal only.</li></ul>",
+      "count": 749,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H3/18": {
+      "code": "F16H3/18",
+      "level": 3,
+      "parent": "F16H3/16",
+      "ja": "逆転のみのための歯車装置",
+      "en": "Gearings for reversal only",
+      "count": 141,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H3/20": {
+      "code": "F16H3/20",
+      "level": 2,
+      "parent": "F16H3/02",
+      "ja": "もっぱらまたは本質的に，歯車どうしのかみ合いをはずすために動かすことができる歯車を用いるもの<br><br><b><ul>注</ul></b><br>このグループにおいては，歯車どうしのかみ合いをはずすことが可能である歯車は，もしそれが逆転のみに用いられるならば，考慮に入れない。［８］",
+      "en": "exclusively or essentially using gears that can be moved out of gear; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this group, gears which can be put out of mesh are not taken into consideration if they are used for reversal only.</li></ul>",
+      "count": 780,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H3/22": {
+      "code": "F16H3/22",
+      "level": 3,
+      "parent": "F16H3/20",
+      "ja": "軸方向にのみシフトできる歯車をもつもの",
+      "en": "with gears shiftable only axially",
+      "count": 813,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H3/24": {
+      "code": "F16H3/24",
+      "level": 4,
+      "parent": "F16H3/22",
+      "ja": "駆動軸と被駆動軸が同軸であるもの",
+      "en": "with driving and driven shafts coaxial",
+      "count": 318,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H3/26": {
+      "code": "F16H3/26",
+      "level": 5,
+      "parent": "F16H3/24",
+      "ja": "および２つ以上の付加軸",
+      "en": "and two or more additional shafts",
+      "count": 142,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H3/28": {
+      "code": "F16H3/28",
+      "level": 6,
+      "parent": "F16H3/26",
+      "ja": "付加軸が主軸と同軸なもの",
+      "en": "an additional shaft being coaxial with the main shafts",
+      "count": 32,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H3/30": {
+      "code": "F16H3/30",
+      "level": 4,
+      "parent": "F16H3/22",
+      "ja": "駆動軸と被駆動軸が同軸でないもの",
+      "en": "with driving and driven shafts not coaxial",
+      "count": 823,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H3/32": {
+      "code": "F16H3/32",
+      "level": 5,
+      "parent": "F16H3/30",
+      "ja": "および付加軸",
+      "en": "and an additional shaft",
+      "count": 977,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H3/34": {
+      "code": "F16H3/34",
+      "level": 3,
+      "parent": "F16H3/20",
+      "ja": "軸方向のみ以外にシフトできる歯車をもつもの",
+      "en": "with gears shiftable otherwise than only axially",
+      "count": 610,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H3/36": {
+      "code": "F16H3/36",
+      "level": 3,
+      "parent": "F16H3/20",
+      "ja": "径の異なる１組の同軸の歯車のうちのいずれかとかみ合うことができる１つの歯車をもつもの",
+      "en": "with a single gear meshable with any of a set of coaxial gears of different diameters",
+      "count": 469,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H3/38": {
+      "code": "F16H3/38",
+      "level": 3,
+      "parent": "F16H3/20",
+      "ja": "同期かみ合い装置をもつもの",
+      "en": "with synchro-meshing",
+      "count": 655,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H3/40": {
+      "code": "F16H3/40",
+      "level": 3,
+      "parent": "F16H3/20",
+      "ja": "逆転のみのための伝動装置",
+      "en": "Gearings for reversal only",
+      "count": 321,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H3/42": {
+      "code": "F16H3/42",
+      "level": 2,
+      "parent": "F16H3/02",
+      "ja": "複数の変速比を得るために作られまたは配置された歯をもつ歯車をもつもの，例．ほとんど無限に可変なもの",
+      "en": "with gears having teeth formed or arranged for obtaining multiple gear ratios, e.g. nearly infinitely variable",
+      "count": 802,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H3/44": {
+      "code": "F16H3/44",
+      "level": 1,
+      "parent": "F16H3/00",
+      "ja": "遊星運動をする歯車があるもの",
+      "en": "using gears having orbital motion",
+      "count": 7731,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H3/46": {
+      "code": "F16H3/46",
+      "level": 2,
+      "parent": "F16H3/44",
+      "ja": "遊星歯車によって連結された，ただ２つの中心歯車を有する伝動装置（Ｆ１６Ｈ３／６８～Ｆ１６Ｈ３／７８が優先）",
+      "en": "Gearings having only two central gears, connected by orbital gears(<b>F16H3/68 to F16H3/78</b>  take precedence)",
+      "count": 983,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H3/48": {
+      "code": "F16H3/48",
+      "level": 3,
+      "parent": "F16H3/46",
+      "ja": "単一の遊星歯車または１組のかたく連結された遊星歯車をもつもの",
+      "en": "with single orbital gears or pairs of rigidly-connected orbital gears",
+      "count": 226,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H3/50": {
+      "code": "F16H3/50",
+      "level": 4,
+      "parent": "F16H3/48",
+      "ja": "遊星円すい歯車からなるもの",
+      "en": "comprising orbital conical gears",
+      "count": 197,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H3/52": {
+      "code": "F16H3/52",
+      "level": 4,
+      "parent": "F16H3/48",
+      "ja": "遊星平歯車からなるもの",
+      "en": "comprising orbital spur gears",
+      "count": 150,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H3/54": {
+      "code": "F16H3/54",
+      "level": 5,
+      "parent": "F16H3/52",
+      "ja": "中心歯車のうちの１つが内歯歯車で他の一方が外歯歯車であるもの",
+      "en": "one of the central gears being internally toothed and the other externally toothed",
+      "count": 1518,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H3/56": {
+      "code": "F16H3/56",
+      "level": 5,
+      "parent": "F16H3/52",
+      "ja": "両中心歯車が太陽歯車であるもの",
+      "en": "both central gears being sun gears",
+      "count": 314,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H3/58": {
+      "code": "F16H3/58",
+      "level": 3,
+      "parent": "F16H3/46",
+      "ja": "その各々が２つ以上の，相互にかみ合う遊星歯車からなる数組の遊星歯車装置をもつもの",
+      "en": "with sets of orbital gears, each consisting of two or more intermeshing orbital gears",
+      "count": 403,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H3/60": {
+      "code": "F16H3/60",
+      "level": 3,
+      "parent": "F16H3/46",
+      "ja": "逆転のみのための伝動装置",
+      "en": "Gearings for reversal only",
+      "count": 907,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H3/62": {
+      "code": "F16H3/62",
+      "level": 2,
+      "parent": "F16H3/44",
+      "ja": "３つ以上の中心歯車をもつ伝動装置（Ｆ１６Ｈ３／６８～Ｆ１６Ｈ３／７８が優先）",
+      "en": "Gearings having three or more central gears(<b>F16H3/68 to F16H3/78</b>  take precedence)",
+      "count": 3598,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H3/64": {
+      "code": "F16H3/64",
+      "level": 3,
+      "parent": "F16H3/62",
+      "ja": "多数の歯車列からなり，その駆動力が常に全部の列を通過し，各々の列は他の列を駆動するために１つしか結合のないもの",
+      "en": "composed of a number of gear trains, the drive always passing through all the trains, each train having not more than one connection for driving another train",
+      "count": 694,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H3/66": {
+      "code": "F16H3/66",
+      "level": 3,
+      "parent": "F16H3/62",
+      "ja": "１つの列から他の列への駆動力が通過しない多数の歯車列からなるもの",
+      "en": "composed of a number of gear trains without drive passing from one train to another",
+      "count": 8510,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H3/68": {
+      "code": "F16H3/68",
+      "level": 2,
+      "parent": "F16H3/44",
+      "ja": "遊星歯車が伝動装置の主軸と交さする軸をもち，ハスバまたはウオームであるもの",
+      "en": "in which an orbital gear has an axis crossing the main axis of the gearing and has helical teeth or is a worm",
+      "count": 176,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H3/70": {
+      "code": "F16H3/70",
+      "level": 2,
+      "parent": "F16H3/44",
+      "ja": "伝動装置の中心軸が遊星歯車の周囲の内部にあるもの",
+      "en": "in which the central axis of the gearing lies inside the periphery of an orbital gear",
+      "count": 1008,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H3/72": {
+      "code": "F16H3/72",
+      "level": 2,
+      "parent": "F16H3/44",
+      "ja": "第２駆動装置をもつもの，例．連続して速度を変えるための調整モータをもつもの",
+      "en": "with a secondary drive, e.g. regulating motor, in order to vary speed continuously",
+      "count": 5521,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H3/74": {
+      "code": "F16H3/74",
+      "level": 2,
+      "parent": "F16H3/44",
+      "ja": "作動できる変速部材や調整部材を用いない複合体，例．摩擦力または他の力を自由に作用させることによって決定される変速比をもつもの",
+      "en": "Complexes, not using actuatable speed-changing or regulating members, e.g. with gear ratio determined by free play of frictional or other forces",
+      "count": 751,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H3/76": {
+      "code": "F16H3/76",
+      "level": 2,
+      "parent": "F16H3/44",
+      "ja": "多数の変速比を得るために形成されたまたは配列された歯を有する遊星歯車をもつもの，例．ほとんど無限に可変なもの",
+      "en": "with an orbital gear having teeth formed or arranged for obtaining multiple gear ratios, e.g. nearly infinitely variable",
+      "count": 992,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H3/78": {
+      "code": "F16H3/78",
+      "level": 2,
+      "parent": "F16H3/44",
+      "ja": "これらの伝動装置への同期機構の特別な応用",
+      "en": "Special adaptation of synchronisation mechanisms to these gearings",
+      "count": 406,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H7/00": {
+      "code": "F16H7/00",
+      "level": 0,
+      "parent": "F16H",
+      "ja": "無端可撓性部材による回転運動伝達用伝動装置（可変変速比をもつ回転運動伝達または逆転運動に特有なものＦ１６Ｈ９／００）［２００６．０１］",
+      "en": "Gearings for conveying rotary motion by endless flexible members(specific for conveying rotary motion with variable gear ratio or for reversing rotary motion <b>F16H9/00</b>)",
+      "count": 1828,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H7/02": {
+      "code": "F16H7/02",
+      "level": 1,
+      "parent": "F16H7/00",
+      "ja": "ベルトをもつもの；Ｖベルトをもつもの",
+      "en": "with belts; with V-belts",
+      "count": 8698,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H7/04": {
+      "code": "F16H7/04",
+      "level": 1,
+      "parent": "F16H7/00",
+      "ja": "ロープをもつもの",
+      "en": "with ropes",
+      "count": 643,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H7/06": {
+      "code": "F16H7/06",
+      "level": 1,
+      "parent": "F16H7/00",
+      "ja": "チェーンをもつもの",
+      "en": "with chains",
+      "count": 5138,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H7/08": {
+      "code": "F16H7/08",
+      "level": 1,
+      "parent": "F16H7/00",
+      "ja": "ベルト，ロープまたはチェーンの張力変更手段（可調整構造のプーリＦ１６Ｈ５５／５２）",
+      "en": "Means for varying tension of belts, ropes, or chains(pulleys of adjustable construction <b>F16H55/52</b>)",
+      "count": 15434,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H7/10": {
+      "code": "F16H7/10",
+      "level": 2,
+      "parent": "F16H7/08",
+      "ja": "プーリの軸線の調節によるもの",
+      "en": "by adjusting the axis of a pulley",
+      "count": 944,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H7/12": {
+      "code": "F16H7/12",
+      "level": 3,
+      "parent": "F16H7/10",
+      "ja": "アイドルプーリの調整",
+      "en": "of an idle pulley",
+      "count": 8539,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H7/14": {
+      "code": "F16H7/14",
+      "level": 3,
+      "parent": "F16H7/10",
+      "ja": "原動または従動プーリの調節",
+      "en": "of a driving or driven pulley",
+      "count": 2959,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H7/16": {
+      "code": "F16H7/16",
+      "level": 4,
+      "parent": "F16H7/14",
+      "ja": "原動または従動軸を調整しないもの",
+      "en": "without adjusting the driving or driven shaft",
+      "count": 233,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H7/18": {
+      "code": "F16H7/18",
+      "level": 1,
+      "parent": "F16H7/00",
+      "ja": "ベルト，ロープまたはチェーンの案内または支持手段（プーリの構造Ｆ１６Ｈ５５／３６）",
+      "en": "Means for guiding or supporting belts, ropes, or chains(construction of pulleys <b>F16H55/36</b>)",
+      "count": 3699,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H7/20": {
+      "code": "F16H7/20",
+      "level": 2,
+      "parent": "F16H7/18",
+      "ja": "ローラまたはプーリの取り付け",
+      "en": "Mountings for rollers or pulleys",
+      "count": 1177,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H7/22": {
+      "code": "F16H7/22",
+      "level": 1,
+      "parent": "F16H7/00",
+      "ja": "ベルト，ロープまたはチェーンのシフタ",
+      "en": "Belt, rope, or chain shifters",
+      "count": 650,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H7/24": {
+      "code": "F16H7/24",
+      "level": 1,
+      "parent": "F16H7/00",
+      "ja": "ベルト，ロープまたはチェーンの装架用の装置",
+      "en": "Equipment for mounting belts, ropes, or chains",
+      "count": 1208,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H9/00": {
+      "code": "F16H9/00",
+      "level": 0,
+      "parent": "F16H",
+      "ja": "無端可撓部材による可変変速比をもった回転運動伝達用または逆転伝動装置（回転運動を伝達する変速または逆転伝動装置の制御Ｆ１６Ｈ５９／００～Ｆ１６Ｈ６３／００）［２００６．０１］",
+      "en": "Gearings for conveying rotary motion with variable gear ratio, or for reversing rotary motion, by endless flexible members(control of change-speed or reversing-gearings conveying rotary motion <b>F16H59/00 to F16H63/00</b> )",
+      "count": 3385,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H9/02": {
+      "code": "F16H9/02",
+      "level": 1,
+      "parent": "F16H9/00",
+      "ja": "遊星運動をする部材のないもの",
+      "en": "without members having orbital motion",
+      "count": 123,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H9/04": {
+      "code": "F16H9/04",
+      "level": 2,
+      "parent": "F16H9/02",
+      "ja": "ベルト，Ｖベルトまたはロープを用いるもの（歯付きベルトＦ１６Ｈ９／２４；可調整構造のプーリＦ１６Ｈ５５／５２）",
+      "en": "using belts, V-belts, or ropes(with toothed belts <b>F16H9/24</b>; pulleys of adjustable construction <b>F16H55/52</b>)",
+      "count": 1153,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H9/06": {
+      "code": "F16H9/06",
+      "level": 3,
+      "parent": "F16H9/04",
+      "ja": "段プーリに係合するもの",
+      "en": "engaging a stepped pulley",
+      "count": 574,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H9/08": {
+      "code": "F16H9/08",
+      "level": 3,
+      "parent": "F16H9/04",
+      "ja": "円すい形ドラムに係合するもの（Ｆ１６Ｈ９／１２が優先）",
+      "en": "engaging a conical drum(<b>F16H9/12</b> takes precedence)",
+      "count": 288,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H9/10": {
+      "code": "F16H9/10",
+      "level": 3,
+      "parent": "F16H9/04",
+      "ja": "半径方向に作動するベルト搬送部材をもつプーリに係合するもの",
+      "en": "engaging a pulley provided with radially-actuatable elements carrying the belt",
+      "count": 629,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H9/12": {
+      "code": "F16H9/12",
+      "level": 3,
+      "parent": "F16H9/04",
+      "ja": "ベルトがベルト支持部材を介在せず直接プーリの対向するフランジに係合しており，相対的に軸方向調整可能な部材よりなるプーリに係合しているもの",
+      "en": "engaging a pulley built-up out of relatively axially-adjustable parts in which the belt engages the opposite flanges of the pulley directly without interposed belt-supporting members",
+      "count": 3387,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H9/14": {
+      "code": "F16H9/14",
+      "level": 4,
+      "parent": "F16H9/12",
+      "ja": "調整可能の円すい形部品から組み立てた１個だけのプーリを用いるもの",
+      "en": "using only one pulley built-up out of adjustable conical parts",
+      "count": 529,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H9/16": {
+      "code": "F16H9/16",
+      "level": 4,
+      "parent": "F16H9/12",
+      "ja": "ともに調整可能の円すい形部品から組み立てた２個のプーリを用いるもの",
+      "en": "using two pulleys, both built-up out of adjustable conical parts",
+      "count": 955,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H9/18": {
+      "code": "F16H9/18",
+      "level": 5,
+      "parent": "F16H9/16",
+      "ja": "各プーリの１個だけのフランジが調整できるもの",
+      "en": "only one flange of each pulley being adjustable",
+      "count": 3218,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H9/20": {
+      "code": "F16H9/20",
+      "level": 5,
+      "parent": "F16H9/16",
+      "ja": "プーリの両方のフランジが調整可能のもの",
+      "en": "both flanges of the pulleys being adjustable",
+      "count": 154,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H9/22": {
+      "code": "F16H9/22",
+      "level": 3,
+      "parent": "F16H9/04",
+      "ja": "ロープ専用のもの",
+      "en": "specially adapted for ropes",
+      "count": 83,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H9/24": {
+      "code": "F16H9/24",
+      "level": 2,
+      "parent": "F16H9/02",
+      "ja": "チェーン，歯車付きベルト，リンク状のベルトを使用するもの；そのような伝動装置に特に適合したチェーンまたはベルト［２００６．０１］",
+      "en": "using chains, toothed belts, belts in the form of links; Chains or belts specially adapted to such gearing",
+      "count": 2168,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H9/26": {
+      "code": "F16H9/26",
+      "level": 1,
+      "parent": "F16H9/00",
+      "ja": "遊星運動をする部材をもつもの",
+      "en": "with members having orbital motion",
+      "count": 517,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H13/00": {
+      "code": "F16H13/00",
+      "level": 0,
+      "parent": "F16H",
+      "ja": "回転部材間の摩擦による，一定変速比をもつ回転運動伝達用伝動装置（可変変速比をもつ回転運動伝達用または逆転運動用に特有のものＦ１６Ｈ１５／００）［２００６．０１］",
+      "en": "Gearing for conveying rotary motion with constant gear ratio by friction between rotary members",
+      "count": 374,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H13/02": {
+      "code": "F16H13/02",
+      "level": 1,
+      "parent": "F16H13/00",
+      "ja": "遊星運動をする部材がないもの",
+      "en": "without members having orbital motion",
+      "count": 751,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H13/04": {
+      "code": "F16H13/04",
+      "level": 2,
+      "parent": "F16H13/02",
+      "ja": "ボールをもつもの，または同じ作用をするローラをもつもの",
+      "en": "with balls or with rollers acting in a similar manner",
+      "count": 876,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H13/06": {
+      "code": "F16H13/06",
+      "level": 1,
+      "parent": "F16H13/00",
+      "ja": "遊星運動をする部材があるもの",
+      "en": "with members having orbital motion",
+      "count": 550,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H13/08": {
+      "code": "F16H13/08",
+      "level": 2,
+      "parent": "F16H13/06",
+      "ja": "ボールをもつものまたは同じ作用をするローラをもつもの",
+      "en": "with balls or with rollers acting in a similar manner",
+      "count": 2368,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H13/10": {
+      "code": "F16H13/10",
+      "level": 1,
+      "parent": "F16H13/00",
+      "ja": "部材間に圧力をおよぼす手段",
+      "en": "Means for influencing the pressure between the members",
+      "count": 611,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H13/12": {
+      "code": "F16H13/12",
+      "level": 2,
+      "parent": "F16H13/10",
+      "ja": "磁力によるもの",
+      "en": "by magnetic forces",
+      "count": 269,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H13/14": {
+      "code": "F16H13/14",
+      "level": 2,
+      "parent": "F16H13/10",
+      "ja": "機械的に圧力を自動変更するためのもの",
+      "en": "for automatically varying the pressure mechanically",
+      "count": 629,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H15/00": {
+      "code": "F16H15/00",
+      "level": 0,
+      "parent": "F16H",
+      "ja": "回転部材間の摩擦による可変変速比をもった回転運動伝達用または逆転用伝動装置（回転運動を伝達する変速または逆転伝動装置の制御Ｆ１６Ｈ５９／００～Ｆ１６Ｈ６３／００）",
+      "en": "Gearings for conveying rotary motion with variable gear ratio, or for reversing rotary motion, by friction between rotary members(control of change-speed or reversing-gearings conveying rotary motion <b>F16H59/00 to F16H63/00</b> )",
+      "count": 401,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H15/01": {
+      "code": "F16H15/01",
+      "level": 1,
+      "parent": "F16H15/00",
+      "ja": "回転部材間の摩擦媒体として磁化性粉末または液体を用いることに特徴のあるもの［２］",
+      "en": "characterised by the use of a magnetisable powder or liquid as friction medium between the rotary members",
+      "count": 90,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H15/02": {
+      "code": "F16H15/02",
+      "level": 1,
+      "parent": "F16H15/00",
+      "ja": "遊星運動をする部材がないもの",
+      "en": "without members having orbital motion",
+      "count": 133,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H15/04": {
+      "code": "F16H15/04",
+      "level": 2,
+      "parent": "F16H15/02",
+      "ja": "連続的な変速比をもつ伝動装置",
+      "en": "Gearings providing a continuous range of gear ratios",
+      "count": 396,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H15/06": {
+      "code": "F16H15/06",
+      "level": 3,
+      "parent": "F16H15/04",
+      "ja": "一定の有効径の軸架された部材Ａが部材Ｂの異なる部分と共動するもの",
+      "en": "in which a member A of uniform effective diameter mounted on a shaft may co-operate with different parts of a member B",
+      "count": 105,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H15/08": {
+      "code": "F16H15/08",
+      "level": 4,
+      "parent": "F16H15/06",
+      "ja": "部材Ｂが平らまたは平らに近い摩擦面をもつもの",
+      "en": "in which the member B is a disc with a flat or approximately-flat friction surface",
+      "count": 98,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H15/10": {
+      "code": "F16H15/10",
+      "level": 5,
+      "parent": "F16H15/08",
+      "ja": "２部材の軸線が交さまたは横切るもの",
+      "en": "in which the axes of the two members cross or intersect",
+      "count": 570,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H15/12": {
+      "code": "F16H15/12",
+      "level": 6,
+      "parent": "F16H15/10",
+      "ja": "１つまたはそれぞれの部材が２重になったもの，例．伝動状態を良好にするため，または軸受に加わる反力を減少するためのもの",
+      "en": "in which one or each member is duplicated, e.g. for obtaining better transmission, for lessening the reaction forces on the bearings",
+      "count": 342,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H15/14": {
+      "code": "F16H15/14",
+      "level": 5,
+      "parent": "F16H15/08",
+      "ja": "部材の軸線が平行または平行に近いもの",
+      "en": "in which the axes of the members are parallel or approximately parallel",
+      "count": 273,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H15/16": {
+      "code": "F16H15/16",
+      "level": 4,
+      "parent": "F16H15/06",
+      "ja": "部材Ｂが円すい形の摩擦面をもつもの",
+      "en": "in which the member B has a conical friction surface",
+      "count": 166,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H15/18": {
+      "code": "F16H15/18",
+      "level": 5,
+      "parent": "F16H15/16",
+      "ja": "外側に摩擦面をもつもの",
+      "en": "externally",
+      "count": 160,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H15/20": {
+      "code": "F16H15/20",
+      "level": 6,
+      "parent": "F16H15/18",
+      "ja": "部材Ｂの摩擦面に部材Ａの外側リムが垂直または垂直に近い状態で共動するもの",
+      "en": "co-operating with the outer rim of the member A, which is perpendicular or nearly perpendicular to the friction surface of the member B",
+      "count": 265,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H15/22": {
+      "code": "F16H15/22",
+      "level": 6,
+      "parent": "F16H15/18",
+      "ja": "部材の軸線が平行または平行に近いもの",
+      "en": "the axes of the members being parallel or approximately parallel",
+      "count": 323,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H15/24": {
+      "code": "F16H15/24",
+      "level": 5,
+      "parent": "F16H15/16",
+      "ja": "内側に摩擦面をもつもの",
+      "en": "internally",
+      "count": 65,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H15/26": {
+      "code": "F16H15/26",
+      "level": 4,
+      "parent": "F16H15/06",
+      "ja": "部材Ｂが回転軸線を中心とする球状摩擦面をもつもの",
+      "en": "in which the member B has a spherical friction surface centered on its axis of revolution",
+      "count": 77,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H15/28": {
+      "code": "F16H15/28",
+      "level": 5,
+      "parent": "F16H15/26",
+      "ja": "外側に摩擦面をもつもの",
+      "en": "with external friction surface",
+      "count": 342,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H15/30": {
+      "code": "F16H15/30",
+      "level": 5,
+      "parent": "F16H15/26",
+      "ja": "内側に摩擦面をもつもの",
+      "en": "with internal friction surface",
+      "count": 108,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H15/32": {
+      "code": "F16H15/32",
+      "level": 4,
+      "parent": "F16H15/06",
+      "ja": "部材Ｂの摩擦面が，回転軸線を中心とする円弧および直線以外の曲線の回転体の表面として形成されるもの",
+      "en": "in which the member B has a curved friction surface formed as a surface of a body of revolution generated by a curve which is neither a circular arc centered on its axis of revolution nor a straight line",
+      "count": 45,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H15/34": {
+      "code": "F16H15/34",
+      "level": 5,
+      "parent": "F16H15/32",
+      "ja": "凸状の摩擦面をもつもの",
+      "en": "with convex friction surface",
+      "count": 31,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H15/36": {
+      "code": "F16H15/36",
+      "level": 5,
+      "parent": "F16H15/32",
+      "ja": "凹状の摩擦面をもつもの，例．凹形のトロイド面",
+      "en": "with concave friction surface, e.g. a hollow toroid surface",
+      "count": 146,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H15/38": {
+      "code": "F16H15/38",
+      "level": 6,
+      "parent": "F16H15/36",
+      "ja": "２つの部材Ｂに対向する凹形トロイド面間に部材または部材Ａを調整可能に設けたもの",
+      "en": "with two members B having hollow toroid surfaces opposite to each other, the member or members A being adjustably mounted between the surfaces",
+      "count": 3580,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H15/40": {
+      "code": "F16H15/40",
+      "level": 3,
+      "parent": "F16H15/04",
+      "ja": "２つの部材が軸架されないボールまたは一定の有効径のローラによって共動するもの",
+      "en": "in which two members co-operate by means of balls, or rollers of uniform effective diameter, not mounted on shafts",
+      "count": 446,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H15/42": {
+      "code": "F16H15/42",
+      "level": 3,
+      "parent": "F16H15/04",
+      "ja": "２つの部材がリングまたは両部材間に圧入された無端の可撓部材によって共動するもの",
+      "en": "in which two members co-operate by means of rings or by means of parts of endless flexible members pressed between the first-mentioned members",
+      "count": 458,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H15/44": {
+      "code": "F16H15/44",
+      "level": 3,
+      "parent": "F16H15/04",
+      "ja": "有効径が一定でない２つの部材が直接相互に共動するもの",
+      "en": "in which two members of non-uniform effective diameter directly co-operate with one another",
+      "count": 183,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H15/46": {
+      "code": "F16H15/46",
+      "level": 2,
+      "parent": "F16H15/02",
+      "ja": "不連続または段階的な変速比をもつ伝動装置",
+      "en": "Gearings providing a discontinuous or stepped range of gear ratios",
+      "count": 313,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H15/48": {
+      "code": "F16H15/48",
+      "level": 1,
+      "parent": "F16H15/00",
+      "ja": "遊星運動をする部材があるもの",
+      "en": "with members having orbital motion",
+      "count": 233,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H15/50": {
+      "code": "F16H15/50",
+      "level": 2,
+      "parent": "F16H15/48",
+      "ja": "連続的な変速比をもつ伝動装置",
+      "en": "Gearings providing a continuous range of gear ratios",
+      "count": 871,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H15/52": {
+      "code": "F16H15/52",
+      "level": 3,
+      "parent": "F16H15/50",
+      "ja": "一定の有効径の軸架された部材が他の部材の異なる部分と共動するもの",
+      "en": "in which a member of uniform effective diameter mounted on a shaft may co-operate with different parts of another member",
+      "count": 1150,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H15/54": {
+      "code": "F16H15/54",
+      "level": 3,
+      "parent": "F16H15/50",
+      "ja": "２つの部材がリングまたは両部材間に圧入された無端の可撓部材によって共動するもの",
+      "en": "in which two members co-operate by means of rings or by means of parts of endless flexible members pressed between the first-mentioned members",
+      "count": 152,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H15/56": {
+      "code": "F16H15/56",
+      "level": 2,
+      "parent": "F16H15/48",
+      "ja": "不連続または段階的な変速比をもつ伝動装置",
+      "en": "Gearings providing a discontinuous or stepped range of gear ratios",
+      "count": 115,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H19/00": {
+      "code": "F16H19/00",
+      "level": 0,
+      "parent": "F16H",
+      "ja": "本質的に歯車または摩擦部材のみからなり，無限に続く回転運動を伝達することができない伝動装置（間欠駆動部材を用いたものＦ１６Ｈ２７／００～Ｆ１６Ｈ３１／００）［２００６．０１］",
+      "en": "Gearings comprising essentially only toothed gears or friction members and not capable of conveying indefinitely-continuing rotary motion(with intermittently-driving members <b>F16H27/00 to F16H31/00</b> )",
+      "count": 2077,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H19/02": {
+      "code": "F16H19/02",
+      "level": 1,
+      "parent": "F16H19/00",
+      "ja": "回転運動と往復運動を相互に変換するためのもの",
+      "en": "for interconverting rotary motion and reciprocating motion",
+      "count": 3318,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H19/04": {
+      "code": "F16H19/04",
+      "level": 2,
+      "parent": "F16H19/02",
+      "ja": "ラックを用いたもの",
+      "en": "comprising a rack",
+      "count": 8307,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H19/06": {
+      "code": "F16H19/06",
+      "level": 2,
+      "parent": "F16H19/02",
+      "ja": "無端可撓部材を用いるもの",
+      "en": "comprising an endless flexible member",
+      "count": 1816,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H19/08": {
+      "code": "F16H19/08",
+      "level": 1,
+      "parent": "F16H19/00",
+      "ja": "回転運動と振動を相互に変換するもの",
+      "en": "for interconverting rotary motion and oscillating motion",
+      "count": 689,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H21/00": {
+      "code": "F16H21/00",
+      "level": 0,
+      "parent": "F16H",
+      "ja": "主としてリンクまたはレバーのみからなり，滑動部をもつか，またはもたない伝動装置（Ｆ１６Ｈ２３／００が優先）",
+      "en": "Gearings comprising primarily only links or levers, with or without slides(<b>F16H23/00</b> takes precedence)",
+      "count": 1384,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H21/02": {
+      "code": "F16H21/02",
+      "level": 1,
+      "parent": "F16H21/00",
+      "ja": "２またはそれ以上の独立をして動く部材の運動を１つの運動に結合するもの",
+      "en": "the movements of two or more independently-moving members being combined into a single movement",
+      "count": 324,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H21/04": {
+      "code": "F16H21/04",
+      "level": 1,
+      "parent": "F16H21/00",
+      "ja": "案内機構，例．直線運動用［２００６．０１］",
+      "en": "Guiding mechanisms, e.g. for straight-line guidance",
+      "count": 589,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H21/06": {
+      "code": "F16H21/06",
+      "level": 1,
+      "parent": "F16H21/00",
+      "ja": "希望により働かなくし得るもの",
+      "en": "which can be made ineffective when desired",
+      "count": 134,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H21/08": {
+      "code": "F16H21/08",
+      "level": 2,
+      "parent": "F16H21/06",
+      "ja": "往復運動のロッドを作動位置の外に押し出すことによるもの",
+      "en": "by pushing a reciprocating rod out of its operative position",
+      "count": 124,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H21/10": {
+      "code": "F16H21/10",
+      "level": 1,
+      "parent": "F16H21/00",
+      "ja": "全運動が平面または平面に平行なもの",
+      "en": "all movement being in, or parallel to, a single plane",
+      "count": 1304,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H21/12": {
+      "code": "F16H21/12",
+      "level": 2,
+      "parent": "F16H21/10",
+      "ja": "回転運動伝達用",
+      "en": "for conveying rotary motion",
+      "count": 545,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H21/14": {
+      "code": "F16H21/14",
+      "level": 3,
+      "parent": "F16H21/12",
+      "ja": "クランク，偏心輪，または類似の部材が回転部材に固定され他の部分に設けた軌道に案内されるもの",
+      "en": "by means of cranks, eccentrics, or like members fixed to one rotary member and guided along tracks on the other",
+      "count": 568,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H21/16": {
+      "code": "F16H21/16",
+      "level": 2,
+      "parent": "F16H21/10",
+      "ja": "回転運動と往復運動の相互変換用",
+      "en": "for interconverting rotary motion and reciprocating motion",
+      "count": 1071,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H21/18": {
+      "code": "F16H21/18",
+      "level": 3,
+      "parent": "F16H21/16",
+      "ja": "クランク装置，偏心輪装置",
+      "en": "Crank gearings; Eccentric gearings",
+      "count": 1987,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H21/20": {
+      "code": "F16H21/20",
+      "level": 4,
+      "parent": "F16H21/18",
+      "ja": "行程を調整するもの［２００６．０１］",
+      "en": "with adjustment of throw",
+      "count": 1031,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H21/22": {
+      "code": "F16H21/22",
+      "level": 4,
+      "parent": "F16H21/18",
+      "ja": "各クランクまたは偏心輪に１つの連接棒および案内スライドをもつもの",
+      "en": "with one connecting-rod and one guided slide to each crank or eccentric",
+      "count": 314,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H21/24": {
+      "code": "F16H21/24",
+      "level": 5,
+      "parent": "F16H21/22",
+      "ja": "他にリンクまたは案内のないもの",
+      "en": "without further links or guides",
+      "count": 83,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H21/26": {
+      "code": "F16H21/26",
+      "level": 5,
+      "parent": "F16H21/22",
+      "ja": "トグル作用をもつもの",
+      "en": "with toggle action",
+      "count": 112,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H21/28": {
+      "code": "F16H21/28",
+      "level": 5,
+      "parent": "F16H21/22",
+      "ja": "カムまたは付加的案内をもつもの",
+      "en": "with cams or additional guides",
+      "count": 282,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H21/30": {
+      "code": "F16H21/30",
+      "level": 5,
+      "parent": "F16H21/22",
+      "ja": "ローリングコンタクトをする部材をもつもの",
+      "en": "with members having rolling contact",
+      "count": 252,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H21/32": {
+      "code": "F16H21/32",
+      "level": 5,
+      "parent": "F16H21/22",
+      "ja": "枢着されたリンクまたは腕だけからなる付加的部材をもつもの",
+      "en": "with additional members comprising only pivoted links or arms",
+      "count": 218,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H21/34": {
+      "code": "F16H21/34",
+      "level": 4,
+      "parent": "F16H21/18",
+      "ja": "各クランクまたは偏心輪に２またはそれ以上の連接棒をもつもの",
+      "en": "with two or more connecting-rods to each crank or eccentric",
+      "count": 529,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H21/36": {
+      "code": "F16H21/36",
+      "level": 4,
+      "parent": "F16H21/18",
+      "ja": "揺動連接棒がないもの，例．エピサイクリック平行運動，スロットとクランクによる運動",
+      "en": "without swinging connecting-rod, e.g. with epicyclic parallel motion, slot-and- crank motion",
+      "count": 622,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H21/38": {
+      "code": "F16H21/38",
+      "level": 4,
+      "parent": "F16H21/18",
+      "ja": "一時的にエネルギを蓄積する手段をもつもの，例．中立死点位置を越えるようになったもの",
+      "en": "with means for temporary energy accumulation, e.g. to overcome dead-centre positions",
+      "count": 91,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H21/40": {
+      "code": "F16H21/40",
+      "level": 2,
+      "parent": "F16H21/10",
+      "ja": "回転運動と振動の相互変換用",
+      "en": "for interconverting rotary motion and oscillating motion",
+      "count": 719,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H21/42": {
+      "code": "F16H21/42",
+      "level": 3,
+      "parent": "F16H21/40",
+      "ja": "行程の調節が可能なもの",
+      "en": "with adjustable throw",
+      "count": 224,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H21/44": {
+      "code": "F16H21/44",
+      "level": 2,
+      "parent": "F16H21/10",
+      "ja": "振動または往復運動の伝達または相互変換をするもの",
+      "en": "for conveying or interconverting oscillating or reciprocating motions",
+      "count": 1961,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H21/46": {
+      "code": "F16H21/46",
+      "level": 1,
+      "parent": "F16H21/00",
+      "ja": "３次元的に運動するもの［２００６．０１］",
+      "en": "with movements in three dimensions [3D]",
+      "count": 503,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H21/48": {
+      "code": "F16H21/48",
+      "level": 2,
+      "parent": "F16H21/46",
+      "ja": "回転運動伝達用",
+      "en": "for conveying rotary motion",
+      "count": 238,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H21/50": {
+      "code": "F16H21/50",
+      "level": 2,
+      "parent": "F16H21/46",
+      "ja": "回転運動と往復運動の相互変換用",
+      "en": "for interconverting rotary motion and reciprocating motion",
+      "count": 329,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H21/52": {
+      "code": "F16H21/52",
+      "level": 2,
+      "parent": "F16H21/46",
+      "ja": "回転運動と振動の相互変換用",
+      "en": "for interconverting rotary motion and oscillating motion",
+      "count": 292,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H21/54": {
+      "code": "F16H21/54",
+      "level": 2,
+      "parent": "F16H21/46",
+      "ja": "振動または往復運動の伝達または相互変換をするもの",
+      "en": "for conveying or interconverting oscillating or reciprocating motions",
+      "count": 399,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H23/00": {
+      "code": "F16H23/00",
+      "level": 0,
+      "parent": "F16H",
+      "ja": "揺動板伝動装置；傾斜クランク伝動装置",
+      "en": "Wobble-plate gearings; Oblique-crank gearings",
+      "count": 401,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H23/02": {
+      "code": "F16H23/02",
+      "level": 1,
+      "parent": "F16H23/00",
+      "ja": "揺動部材の位置の変更により行程を調整するもの（伝達比の変更が揺動部材の位置の変更の調整によりなされる伝動装置Ｆ１６Ｆ２９／０４；ジャイロスコープ作用をもつ伝動装置，例．揺動板よりなるものＦ１６Ｈ３３／１０）［２００６．０１］",
+      "en": "with adjustment of throw by changing the position of the wobble-member (gearings in which the transmission ratio is changed by adjustment of a wobble-plate <b>F16H29/04</b>; gearings with gyroscopic action, e.g. comprising wobble-plates <b>F16H33/10</b>)",
+      "count": 144,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H23/04": {
+      "code": "F16H23/04",
+      "level": 1,
+      "parent": "F16H23/00",
+      "ja": "非回転揺動部材をもつもの",
+      "en": "with non-rotary wobble-members",
+      "count": 184,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H23/06": {
+      "code": "F16H23/06",
+      "level": 2,
+      "parent": "F16H23/04",
+      "ja": "往復運動体に枢着された滑動体をもつもの",
+      "en": "with sliding members hinged to reciprocating members",
+      "count": 161,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H23/08": {
+      "code": "F16H23/08",
+      "level": 2,
+      "parent": "F16H23/04",
+      "ja": "連接棒で往復運動部材に連結されたもの",
+      "en": "connected to reciprocating members by connecting-rods",
+      "count": 265,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H23/10": {
+      "code": "F16H23/10",
+      "level": 1,
+      "parent": "F16H23/00",
+      "ja": "平らな表面のある回転揺動板をもつもの",
+      "en": "with rotary wobble-plates with plane surfaces",
+      "count": 221,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H25/00": {
+      "code": "F16H25/00",
+      "level": 0,
+      "parent": "F16H",
+      "ja": "主としてカム，カム従動体およびねじおよびナットによる機構のみからなる伝動装置",
+      "en": "Gearings comprising primarily only cams, cam-followers and screw-and-nut mechanisms",
+      "count": 824,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H25/02": {
+      "code": "F16H25/02",
+      "level": 1,
+      "parent": "F16H25/00",
+      "ja": "２またはそれ以上の独立して動く部材の運動を１つの運動に結合するもの",
+      "en": "the movements of two or more independently-moving members being combined into a single movement",
+      "count": 185,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H25/04": {
+      "code": "F16H25/04",
+      "level": 1,
+      "parent": "F16H25/00",
+      "ja": "回転運動伝達用",
+      "en": "for conveying rotary motion",
+      "count": 506,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H25/06": {
+      "code": "F16H25/06",
+      "level": 2,
+      "parent": "F16H25/04",
+      "ja": "両回転部材に設けた軌道に案内される中間部材をもつもの",
+      "en": "with intermediate members guided along tracks on both rotary members",
+      "count": 922,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H25/08": {
+      "code": "F16H25/08",
+      "level": 1,
+      "parent": "F16H25/00",
+      "ja": "回転運動と往復運動の相互変換用（Ｆ１６Ｈ２３／００が優先）",
+      "en": "for interconverting rotary motion and reciprocating motion(<b>F16H23/00</b> takes precedence)",
+      "count": 1074,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H25/10": {
+      "code": "F16H25/10",
+      "level": 2,
+      "parent": "F16H25/08",
+      "ja": "行程の調節が可能なもの［２００６．０１］",
+      "en": "with adjustable throw",
+      "count": 220,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H25/12": {
+      "code": "F16H25/12",
+      "level": 2,
+      "parent": "F16H25/08",
+      "ja": "回転の軸線に沿って往復運動するもの，例．ら旋溝と自動反転をもつ伝動装置［２００６．０１］",
+      "en": "with reciprocation along the axis of rotation, e.g. gearings with helical grooves and automatic reversal",
+      "count": 1778,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H25/14": {
+      "code": "F16H25/14",
+      "level": 2,
+      "parent": "F16H25/08",
+      "ja": "回転の軸線に垂直に往復運動するもの（揺動連接棒がないクランクまたは偏心輪装置Ｆ１６Ｈ２１／３６）［２００６．０１］",
+      "en": "with reciprocation perpendicular to the axis of rotation (crank or eccentric gearings without swinging connecting-rod <b>F16H21/36</b>)",
+      "count": 975,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H25/16": {
+      "code": "F16H25/16",
+      "level": 1,
+      "parent": "F16H25/00",
+      "ja": "回転運動と振動の相互変換用",
+      "en": "for interconverting rotary motion and oscillating motion",
+      "count": 748,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H25/18": {
+      "code": "F16H25/18",
+      "level": 1,
+      "parent": "F16H25/00",
+      "ja": "振動または往復運動を伝達または相互変換をするもの",
+      "en": "for conveying or interconverting oscillating or reciprocating motions",
+      "count": 1205,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H25/20": {
+      "code": "F16H25/20",
+      "level": 2,
+      "parent": "F16H25/18",
+      "ja": "ねじ機構（自動反転するものＦ１６Ｈ２５／１２）",
+      "en": "Screw mechanisms(with automatic reversal <b>F16H25/12</b>)",
+      "count": 15030,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H25/22": {
+      "code": "F16H25/22",
+      "level": 3,
+      "parent": "F16H25/20",
+      "ja": "共動する部材の間に球，ローラまたは同様の部材をもつもの：この部材に専用する要素",
+      "en": "with balls, rollers, or similar members between the co-operating parts; Elements essential to the use of such members",
+      "count": 13408,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H25/24": {
+      "code": "F16H25/24",
+      "level": 3,
+      "parent": "F16H25/20",
+      "ja": "この機構に専用する要素，例．ねじ，ナット（Ｆ１６Ｈ２５／２２が優先）",
+      "en": "Elements essential to such mechanisms, e.g. screws, nuts(<b>F16H25/22</b> takes precedence)",
+      "count": 12370,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H27/00": {
+      "code": "F16H27/00",
+      "level": 0,
+      "parent": "F16H",
+      "ja": "フリーホイル部材をもたない間欠機構，例．ゼネバ機構［２００６．０１］",
+      "en": "Step-by-step mechanisms without freewheel members, e.g. Geneva drives",
+      "count": 446,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H27/02": {
+      "code": "F16H27/02",
+      "level": 1,
+      "parent": "F16H27/00",
+      "ja": "往復動または振動を伝達する１つ以上の部材をもつもの",
+      "en": "with at least one reciprocating or oscillating transmission member",
+      "count": 1255,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H27/04": {
+      "code": "F16H27/04",
+      "level": 1,
+      "parent": "F16H27/00",
+      "ja": "連続回転を間欠回転運動に変換するもの",
+      "en": "for converting continuous rotation into a step-by-step rotary movement",
+      "count": 1457,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H27/06": {
+      "code": "F16H27/06",
+      "level": 2,
+      "parent": "F16H27/04",
+      "ja": "駆動ピンが従動体のスロットに係合する機構，例．ゼネバ機構",
+      "en": "Mechanisms with driving pins in driven slots, e.g. Geneva drives",
+      "count": 817,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H27/08": {
+      "code": "F16H27/08",
+      "level": 2,
+      "parent": "F16H27/04",
+      "ja": "原動歯車が欠歯歯車になっているもの",
+      "en": "with driving toothed gears with interrupted toothing",
+      "count": 633,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H27/10": {
+      "code": "F16H27/10",
+      "level": 2,
+      "parent": "F16H27/04",
+      "ja": "離脱式の伝動部材によって得られ，グループＦ１６Ｈ２７／０６またはＦ１６Ｈ２７／０８の機構と組み合わされまたは組み合わされないもの",
+      "en": "obtained by means of disengageable transmission members, combined or not combined with mechanisms according to group <b>F16H27/06</b> or <b>F16H27/08</b>",
+      "count": 343,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H29/00": {
+      "code": "F16H29/00",
+      "level": 0,
+      "parent": "F16H",
+      "ja": "間欠駆動部材をもつ回転運動伝達用伝動装置，例．フリーホイル作用をもつもの［２００６．０１］",
+      "en": "Gearings for conveying rotary motion with intermittently-driving members, e.g. with freewheel action",
+      "count": 669,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H29/02": {
+      "code": "F16H29/02",
+      "level": 1,
+      "parent": "F16H29/00",
+      "ja": "一方の軸と振動または往復動する中間部材の間にあって両方の軸とともに回転しないもの（Ｆ１６Ｈ２９／２０，Ｆ１６Ｈ２９／２２が優先）",
+      "en": "between one of the shafts and an oscillating or reciprocating intermediate member, not rotating with either of the shafts(<b>F16H29/20</b>, <b>F16H29/22</b> take precedence)",
+      "count": 741,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H29/04": {
+      "code": "F16H29/04",
+      "level": 2,
+      "parent": "F16H29/02",
+      "ja": "伝達比の変更が一方の軸に設けたクランク，偏心輪，揺動板またはカムの調整によってなされるもの",
+      "en": "in which the transmission ratio is changed by adjustment of a crank, an eccentric, a wobble-plate, or a cam, on one of the shafts",
+      "count": 1106,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H29/06": {
+      "code": "F16H29/06",
+      "level": 3,
+      "parent": "F16H29/04",
+      "ja": "同心の軸をもち，環状の中間部材が調整可能のクランクまたは偏心輪に支持され，かつまわりを動くもの",
+      "en": "with concentric shafts, an annular intermediate member moving around and being supported on an adjustable crank or eccentric",
+      "count": 95,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H29/08": {
+      "code": "F16H29/08",
+      "level": 2,
+      "parent": "F16H29/02",
+      "ja": "伝達比の変更が振動連結部材の運動通路，ピボットの位置または有効長さの調整によりなされるもの",
+      "en": "in which the transmission ratio is changed by adjustment of the path of movement, the location of the pivot, or the effective length, of an oscillating connecting member",
+      "count": 461,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H29/10": {
+      "code": "F16H29/10",
+      "level": 2,
+      "parent": "F16H29/02",
+      "ja": "伝達比の変更が間欠駆動部材の直接操作によりなされるもの",
+      "en": "in which the transmission ratio is changed by directly acting on the intermittently driving members",
+      "count": 44,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H29/12": {
+      "code": "F16H29/12",
+      "level": 1,
+      "parent": "F16H29/00",
+      "ja": "回転する原動および従動部材の間にあるもの（Ｆ１６Ｈ２９／２０，Ｆ１６Ｈ２９／２２が優先）",
+      "en": "between rotary driving and driven members(<b>F16H29/20</b>, <b>F16H29/22</b> take precedence)",
+      "count": 324,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H29/14": {
+      "code": "F16H29/14",
+      "level": 2,
+      "parent": "F16H29/12",
+      "ja": "伝達比の変更が間欠駆動部材とは別の停止案内部材の調整によりなされるもの",
+      "en": "in which the transmission ratio is changed by adjustment of an otherwise stationary guide member for the intermittently-driving members",
+      "count": 190,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H29/16": {
+      "code": "F16H29/16",
+      "level": 2,
+      "parent": "F16H29/12",
+      "ja": "伝達比の変更が回転部材の軸線間の距離の調整によりなされるもの",
+      "en": "in which the transmission ratio is changed by adjustment of the distance between the axes of the rotary members",
+      "count": 181,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H29/18": {
+      "code": "F16H29/18",
+      "level": 3,
+      "parent": "F16H29/16",
+      "ja": "間欠駆動部材が一方の回転部材とともに回転しながら，ほぼ半径方向の案内に沿って滑動するもの",
+      "en": "in which the intermittently-driving members slide along approximately radial guides while rotating with one of the rotary members",
+      "count": 152,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H29/20": {
+      "code": "F16H29/20",
+      "level": 1,
+      "parent": "F16H29/00",
+      "ja": "間欠作用部材がウオーム，ねじ，またはラックの形になっているもの",
+      "en": "the intermittently-acting members being shaped as worms, screws, or racks",
+      "count": 476,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H29/22": {
+      "code": "F16H29/22",
+      "level": 1,
+      "parent": "F16H29/00",
+      "ja": "自動変速するもの",
+      "en": "with automatic speed change",
+      "count": 311,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H31/00": {
+      "code": "F16H31/00",
+      "level": 0,
+      "parent": "F16H",
+      "ja": "フリーホイル部材または他の間欠駆動部材をもつその他の伝動装置（Ｆ１６Ｈ２１／００，Ｆ１６Ｈ２３／００，Ｆ１６Ｈ２５／００が優先）［２００６．０１］",
+      "en": "Other gearings with freewheeling members or other intermittently-driving members (<b>F16H21/00</b>, <b>F16H23/00</b>, <b>F16H25/00</b> take precedence)",
+      "count": 2600,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H33/00": {
+      "code": "F16H33/00",
+      "level": 0,
+      "parent": "F16H",
+      "ja": "エネルギーの蓄積および放出を繰り返すことを基礎とする伝動装置",
+      "en": "Gearings based on repeated accumulation and delivery of energy",
+      "count": 609,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H33/02": {
+      "code": "F16H33/02",
+      "level": 1,
+      "parent": "F16H33/00",
+      "ja": "機械的アキュムレータをもつ回転伝動装置，例．重量物，ばね，間欠的に接続するフライホイル",
+      "en": "Rotary transmissions with mechanical accumulators, e.g. weights, springs, intermittently-connected flywheels",
+      "count": 2400,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H33/04": {
+      "code": "F16H33/04",
+      "level": 2,
+      "parent": "F16H33/02",
+      "ja": "速度比を変更できる回転運動伝達装置であって自動調節するもの",
+      "en": "Gearings for conveying rotary motion with variable velocity ratio, in which self-regulation is sought",
+      "count": 76,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H33/06": {
+      "code": "F16H33/06",
+      "level": 3,
+      "parent": "F16H33/04",
+      "ja": "本質的にばね作用を基礎とするもの［２００６．０１］",
+      "en": "based essentially on spring action",
+      "count": 371,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H33/08": {
+      "code": "F16H33/08",
+      "level": 3,
+      "parent": "F16H33/04",
+      "ja": "本質的に慣性を基礎とするもの",
+      "en": "based essentially on inertia",
+      "count": 570,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H33/10": {
+      "code": "F16H33/10",
+      "level": 4,
+      "parent": "F16H33/08",
+      "ja": "ジャイロスコープ作用をもつもの，例．揺動板，傾斜クランクを含むもの",
+      "en": "with gyroscopic action, e.g. comprising wobble-plates, oblique cranks",
+      "count": 266,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H33/12": {
+      "code": "F16H33/12",
+      "level": 4,
+      "parent": "F16H33/08",
+      "ja": "原動部材がともに運動抵抗の大きい従動部材に別に連結しているもの，例．コンスタンチネスコ伝動装置",
+      "en": "with a driving member connected differentially with both a driven member and an oscillatory member with large resistance to movement, e.g. Constantinesco gearing",
+      "count": 66,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H33/14": {
+      "code": "F16H33/14",
+      "level": 4,
+      "parent": "F16H33/08",
+      "ja": "調節用質量に影響される遊星部材をもつもの",
+      "en": "having orbital members influenced by regulating masses",
+      "count": 280,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H33/16": {
+      "code": "F16H33/16",
+      "level": 5,
+      "parent": "F16H33/14",
+      "ja": "質量はそれ自身の自由運動をもち，または流体より成るもの",
+      "en": "which have their own free motion, or consist of fluid",
+      "count": 65,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H33/18": {
+      "code": "F16H33/18",
+      "level": 5,
+      "parent": "F16H33/14",
+      "ja": "質量の動きが制限されているもの",
+      "en": "of which the motion is constrained",
+      "count": 187,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H33/20": {
+      "code": "F16H33/20",
+      "level": 1,
+      "parent": "F16H33/00",
+      "ja": "本質的に慣性を基礎とする，回転運動と往復運動または振動の相互変換のためのもの",
+      "en": "for interconversion, based essentially on inertia, of rotary motion and reciprocating or oscillating motion",
+      "count": 207,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H35/00": {
+      "code": "F16H35/00",
+      "level": 0,
+      "parent": "F16H",
+      "ja": "その他の特殊な機能的特徴をもった伝動装置または機構",
+      "en": "Gearings or mechanisms with other special functional features",
+      "count": 4240,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H35/02": {
+      "code": "F16H35/02",
+      "level": 1,
+      "parent": "F16H35/00",
+      "ja": "周期的に速度比が変わる回転運動を伝達するためのもの［２００６．０１］",
+      "en": "for conveying rotary motion with cyclically-varying velocity ratio",
+      "count": 1113,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H35/06": {
+      "code": "F16H35/06",
+      "level": 1,
+      "parent": "F16H35/00",
+      "ja": "支持部分の間の相対的移動を許容して悪影響を防ぐように設計された伝動装置（軸の心のずれを補正するための特別な手段Ｆ１６Ｈ１／２６，Ｆ１６Ｈ１／４８）［２００６．０１］",
+      "en": "Gearings designed to allow relative movement between supports thereof without ill effects (special means compensating for misalignment of axes <b>F16H1/26</b>,  <b>F16H1/48</b>)",
+      "count": 193,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H35/08": {
+      "code": "F16H35/08",
+      "level": 1,
+      "parent": "F16H35/00",
+      "ja": "静止位置から動く部分上にある部材の調整用",
+      "en": "for adjustment of members on moving parts from a stationary place",
+      "count": 101,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H35/10": {
+      "code": "F16H35/10",
+      "level": 1,
+      "parent": "F16H35/00",
+      "ja": "過負荷の吸収または過負荷による破損の防止のための配列または装置［２００６．０１］",
+      "en": "Arrangements or devices for absorbing overload or preventing damage by overload",
+      "count": 3537,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H35/12": {
+      "code": "F16H35/12",
+      "level": 1,
+      "parent": "F16H35/00",
+      "ja": "遅延効果をもつ伝達装置［２００６．０１］",
+      "en": "Transmitting mechanisms with delayed effect",
+      "count": 155,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H35/14": {
+      "code": "F16H35/14",
+      "level": 1,
+      "parent": "F16H35/00",
+      "ja": "２つだけの安定した位置をもつ機構，例．一定の角度をもつ位置で作用するもの",
+      "en": "Mechanisms with only two stable positions, e.g. acting at definite angular positions",
+      "count": 234,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H35/16": {
+      "code": "F16H35/16",
+      "level": 1,
+      "parent": "F16H35/00",
+      "ja": "数学の公式に従う運動の機構またはその様な運動と関連性のある運動の機構［２００６．０１］",
+      "en": "Mechanisms for movements or movement relations conforming to mathematical formulae",
+      "count": 166,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H35/18": {
+      "code": "F16H35/18",
+      "level": 1,
+      "parent": "F16H35/00",
+      "ja": "回転部材に用いるための回転装置，例．軸系［２００６．０１］",
+      "en": "Turning devices for rotatable members, e.g. shafts",
+      "count": 563,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H37/00": {
+      "code": "F16H37/00",
+      "level": 0,
+      "parent": "F16H",
+      "ja": "グループＦ１６Ｈ１／００～Ｆ１６Ｈ３５／００に分類されない機械的伝動装置の組み合わせ（機械的伝動装置と流体クラッチまたは流体伝動装置との組合せＦ１６Ｈ４７／００）［２００６．０１］",
+      "en": "Combinations of mechanical gearings, not provided for in groups <b>F16H1/00 to F16H35/00</b> (combinations of mechanical gearing with fluid clutches or fluid gearing <b>F16H47/00</b>)",
+      "count": 3386,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H37/02": {
+      "code": "F16H37/02",
+      "level": 1,
+      "parent": "F16H37/00",
+      "ja": "本質的に歯車伝動装置または摩擦伝動装置だけからなるもの",
+      "en": "comprising essentially only toothed or friction gearings",
+      "count": 7392,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H37/04": {
+      "code": "F16H37/04",
+      "level": 2,
+      "parent": "F16H37/02",
+      "ja": "歯車伝動装置だけで組み合わせたもの（Ｆ１６Ｈ３７／０６が優先）",
+      "en": "Combinations of toothed gearings only(<b>F16H37/06</b> takes precedence)",
+      "count": 3803,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H37/06": {
+      "code": "F16H37/06",
+      "level": 2,
+      "parent": "F16H37/02",
+      "ja": "複数の駆動軸または被駆動軸をもつもの；２つ以上の中間軸にトルクを分配するための装置をもつもの",
+      "en": "with a plurality of driving or driven shafts; with arrangements for dividing torque between two or more intermediate shafts",
+      "count": 4145,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H37/08": {
+      "code": "F16H37/08",
+      "level": 3,
+      "parent": "F16H37/06",
+      "ja": "差動歯車をもつもの",
+      "en": "with differential gearing",
+      "count": 5489,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H37/10": {
+      "code": "F16H37/10",
+      "level": 4,
+      "parent": "F16H37/08",
+      "ja": "中間軸の両端にもつもの",
+      "en": "at both ends of intermediate shafts",
+      "count": 185,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H37/12": {
+      "code": "F16H37/12",
+      "level": 1,
+      "parent": "F16H37/00",
+      "ja": "主として歯車または摩擦伝動装置，リンクまたはレバーおよびカムまたは前記３つの形式のうちの少なくとも２つ以上からなる伝動装置（１つの回転部材に固定され，他の部分に設けた軌道に案内されるクランク，偏心輪，または類似の部材を有する伝動装置Ｆ１６Ｈ２１／１４，カムまたは付加的案内をもつまたは，ローリングコンタクトをする部材を有するクランクまたは偏心輪装置Ｆ１６Ｈ２１／２８，Ｆ１６Ｈ２１／３０）［２００６．０１］",
+      "en": "Gearings comprising primarily toothed or friction gearing, links or levers, and cams, or members of at least two of these three types  (gearings with cranks, eccentrics, or like members fixed to one rotary member and guided along tracks on the other <b>F16H21/14</b>; crank or eccentric gearings with cams or additional guides, or with members having rolling contact <b>F16H21/28</b>, <b>F16H21/30</b>)",
+      "count": 10029,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H37/14": {
+      "code": "F16H37/14",
+      "level": 2,
+      "parent": "F16H37/12",
+      "ja": "２つ以上の別個に動く部材の運動を１つの運動に合成するもの",
+      "en": "the movements of two or more independently-moving members being combined into a single movement",
+      "count": 228,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H37/16": {
+      "code": "F16H37/16",
+      "level": 2,
+      "parent": "F16H37/12",
+      "ja": "駆動または被動部材がその軸線上で回転または振動し，さらに往復動するもの",
+      "en": "with a driving or driven member which both rotates or oscillates on its axis and reciprocates",
+      "count": 460,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H39/00": {
+      "code": "F16H39/00",
+      "level": 0,
+      "parent": "F16H",
+      "ja": "容積形のポンプおよびモータを用いた回転流体伝動装置，すなわち回転ごとにあらかじめ決められた容量の流体を通すもの（流体伝動装置のみの制御Ｆ１６Ｈ６１／３８）［２００６．０１］",
+      "en": "Rotary fluid gearing using pumps and motors of the volumetric type, i.e. passing a predetermined volume of fluid per revolution(control of exclusively fluid gearing <b>F16H61/38</b>)",
+      "count": 996,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H39/01": {
+      "code": "F16H39/01",
+      "level": 1,
+      "parent": "F16H39/00",
+      "ja": "空気伝動装置；大気圧以下の圧力で作動する伝動装置［２００６．０１］",
+      "en": "Pneumatic gearing; Gearing working with subatmospheric pressure",
+      "count": 135,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H39/02": {
+      "code": "F16H39/02",
+      "level": 1,
+      "parent": "F16H39/00",
+      "ja": "液体ポンプと離れた液体モータをもつもの",
+      "en": "with liquid motors at a distance from liquid pumps",
+      "count": 1003,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H39/04": {
+      "code": "F16H39/04",
+      "level": 1,
+      "parent": "F16H39/00",
+      "ja": "１つのユニットに結合された液体モータおよびポンプをもつもの",
+      "en": "with liquid motor and pump combined in one unit",
+      "count": 355,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H39/06": {
+      "code": "F16H39/06",
+      "level": 2,
+      "parent": "F16H39/04",
+      "ja": "ポンプおよびモータが同じ形式のもの",
+      "en": "pump and motor being of the same type",
+      "count": 321,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H39/08": {
+      "code": "F16H39/08",
+      "level": 3,
+      "parent": "F16H39/06",
+      "ja": "ポンプおよびモータの各々が１つの主軸とシリンダの中を往復運動するピストンとをもつもの",
+      "en": "each with one main shaft and provided with pistons reciprocating in cylinders",
+      "count": 272,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H39/10": {
+      "code": "F16H39/10",
+      "level": 4,
+      "parent": "F16H39/08",
+      "ja": "伝動装置の主軸線の周囲でかつ主軸線と平行またはほぼ平行に配置されたシリンダをもつもの",
+      "en": "with cylinders arranged around, and parallel or approximately parallel to, the main axis of the gearing",
+      "count": 222,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H39/12": {
+      "code": "F16H39/12",
+      "level": 5,
+      "parent": "F16H39/10",
+      "ja": "静止したシリンダをもつもの",
+      "en": "with stationary cylinders",
+      "count": 48,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H39/14": {
+      "code": "F16H39/14",
+      "level": 5,
+      "parent": "F16H39/10",
+      "ja": "回転シリンダブロックまたはシリンダ支持部材に支持されたシリンダをもつもの",
+      "en": "with cylinders carried in rotary cylinder blocks or cylinder-bearing members",
+      "count": 726,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H39/16": {
+      "code": "F16H39/16",
+      "level": 4,
+      "parent": "F16H39/08",
+      "ja": "伝動装置の主軸に垂直に配置されたシリンダをもつもの",
+      "en": "with cylinders arranged perpendicular to the main axis of the gearing",
+      "count": 209,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H39/18": {
+      "code": "F16H39/18",
+      "level": 5,
+      "parent": "F16H39/16",
+      "ja": "ピストンがシリンダの外端において連接されているもの",
+      "en": "the connections of the pistons being at the outer ends of the cylinders",
+      "count": 127,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H39/20": {
+      "code": "F16H39/20",
+      "level": 5,
+      "parent": "F16H39/16",
+      "ja": "ピストンがシリンダの内端において連接されているもの",
+      "en": "the connections of the pistons being at the inner ends of the cylinders",
+      "count": 131,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H39/22": {
+      "code": "F16H39/22",
+      "level": 3,
+      "parent": "F16H39/06",
+      "ja": "伝動装置の主軸線と同心の回転体として形成された流体室をもつもの",
+      "en": "with liquid chambers shaped as bodies of revolution concentric with the main axis of the gearing",
+      "count": 98,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H39/24": {
+      "code": "F16H39/24",
+      "level": 4,
+      "parent": "F16H39/22",
+      "ja": "回転押し除け部材をもつもの，例．軸方向または半径方向に動いて可動密閉部材となる羽根をもつもの",
+      "en": "with rotary displacement members, e.g. provided with axially or radially movable vanes passing movable sealing members",
+      "count": 134,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H39/26": {
+      "code": "F16H39/26",
+      "level": 3,
+      "parent": "F16H39/06",
+      "ja": "回転体として形成されない流体室または伝動装置の主軸線と偏心した回転体として形成される流体室をもつもの",
+      "en": "with liquid chambers not shaped as bodies of revolution or shaped as bodies of revolution eccentric to the main axis of the gearing",
+      "count": 31,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H39/28": {
+      "code": "F16H39/28",
+      "level": 4,
+      "parent": "F16H39/26",
+      "ja": "回転する部材の中に形成された流体室をもつもの",
+      "en": "with liquid chambers formed in rotary members",
+      "count": 55,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H39/30": {
+      "code": "F16H39/30",
+      "level": 4,
+      "parent": "F16H39/26",
+      "ja": "静止した部材の中に形成された流体室をもつもの",
+      "en": "with liquid chambers formed in stationary members",
+      "count": 24,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H39/32": {
+      "code": "F16H39/32",
+      "level": 5,
+      "parent": "F16H39/30",
+      "ja": "回転子によって支持された移動羽根をもつもの",
+      "en": "with sliding vanes carried by the rotor",
+      "count": 179,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H39/34": {
+      "code": "F16H39/34",
+      "level": 3,
+      "parent": "F16H39/06",
+      "ja": "１つの軸上の回転子が他の軸上の回転子と共動するもの",
+      "en": "in which a rotor on one shaft co-operates with a rotor on another shaft",
+      "count": 53,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H39/36": {
+      "code": "F16H39/36",
+      "level": 4,
+      "parent": "F16H39/34",
+      "ja": "歯車形のもの",
+      "en": "toothed-gear type",
+      "count": 151,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H39/38": {
+      "code": "F16H39/38",
+      "level": 4,
+      "parent": "F16H39/34",
+      "ja": "押し除けねじポンプ形のもの",
+      "en": "Displacement screw-pump type",
+      "count": 15,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H39/40": {
+      "code": "F16H39/40",
+      "level": 3,
+      "parent": "F16H39/06",
+      "ja": "水力的差動歯車装置，例．２つの出力のための相互に連結した流体室を備えた回転入力ハウジングをもつもの",
+      "en": "Hydraulic differential gearings, e.g. having a rotary input housing with interconnected liquid chambers for both outputs",
+      "count": 172,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H39/42": {
+      "code": "F16H39/42",
+      "level": 2,
+      "parent": "F16H39/04",
+      "ja": "ポンプおよびモータが異なる形式のもの",
+      "en": "pump and motor being of different types",
+      "count": 166,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H41/00": {
+      "code": "F16H41/00",
+      "level": 0,
+      "parent": "F16H",
+      "ja": "流体動力形の回転流体伝動装置（流体伝動装置のみの制御Ｆ１６Ｈ６１／３８）［２００６．０１］",
+      "en": "Rotary fluid gearing of the hydrokinetic type(control of exclusively fluid gearing <b>F16H61/38</b>)",
+      "count": 596,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H41/02": {
+      "code": "F16H41/02",
+      "level": 1,
+      "parent": "F16H41/00",
+      "ja": "管路によって連結されたポンプおよびタービンをもつもの",
+      "en": "with pump and turbine connected by conduits or ducts",
+      "count": 167,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H41/04": {
+      "code": "F16H41/04",
+      "level": 1,
+      "parent": "F16H41/00",
+      "ja": "結合されたポンプタービンユニット",
+      "en": "Combined pump-turbine units",
+      "count": 1157,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H41/22": {
+      "code": "F16H41/22",
+      "level": 2,
+      "parent": "F16H41/04",
+      "ja": "選択的に作用する多くの流体動力ユニットから成る伝動方式，例．充てん，排出または機械的クラッチによって作動しまたは作動しないもの",
+      "en": "Gearing systems consisting of a plurality of hydrokinetic units operating alternatively, e.g. made effective or ineffective by filling or emptying or by mechanical clutches",
+      "count": 192,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H41/24": {
+      "code": "F16H41/24",
+      "level": 1,
+      "parent": "F16H41/00",
+      "ja": "細部",
+      "en": "Details",
+      "count": 3589,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H41/26": {
+      "code": "F16H41/26",
+      "level": 2,
+      "parent": "F16H41/24",
+      "ja": "機能に関係ある翼車または管路の形状",
+      "en": "Shape of runner blades or channels with respect to function",
+      "count": 1086,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H41/28": {
+      "code": "F16H41/28",
+      "level": 2,
+      "parent": "F16H41/24",
+      "ja": "製作に関すること，例．翼の付属品",
+      "en": "with respect to manufacture, e.g. blade attachment",
+      "count": 1148,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H41/30": {
+      "code": "F16H41/30",
+      "level": 2,
+      "parent": "F16H41/24",
+      "ja": "漏れ，潤滑，冷却，冷媒の循環に関すること",
+      "en": "relating to venting, lubrication, cooling, circulation of the cooling medium",
+      "count": 1536,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H41/32": {
+      "code": "F16H41/32",
+      "level": 1,
+      "parent": "F16H41/00",
+      "ja": "作動流体の選択［２００６．０１］",
+      "en": "Selection of working fluids",
+      "count": 61,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H43/00": {
+      "code": "F16H43/00",
+      "level": 0,
+      "parent": "F16H",
+      "ja": "その他の流体伝動装置，例．振動する入力または出力をもつもの［２］",
+      "en": "Other fluid gearing, e.g. with oscillating input or output",
+      "count": 669,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H43/02": {
+      "code": "F16H43/02",
+      "level": 1,
+      "parent": "F16H43/00",
+      "ja": "圧力波により作動される流体伝動装置［２］",
+      "en": "Fluid gearing actuated by pressure waves",
+      "count": 100,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H45/00": {
+      "code": "F16H45/00",
+      "level": 0,
+      "parent": "F16H",
+      "ja": "回転運動伝達用流体伝動装置と継手またはクラッチとの組み合わせ（選択的に作用する多くの流体動力ユニットから成る伝動方式Ｆ１６Ｈ４１／２２）［２００６．０１］<br><br><b><ul>注</ul></b><br>流体トルクコンバータの作動状態を変更する目的のクラッチは後の部分に関係する",
+      "en": "Combinations of fluid gearings for conveying rotary motion with couplings or clutches (gearing systems consisting of a plurality of hydrokinetic units operating alternatively <b>F16H41/22</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>Clutches for varying working conditions in fluid torque-converters are regarded as a part of the latter.</li></ul>",
+      "count": 1200,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H45/02": {
+      "code": "F16H45/02",
+      "level": 1,
+      "parent": "F16H45/00",
+      "ja": "流体動力形流体伝動装置を橋絡する機械的クラッチをもつもの（トルクコンバーターのロックアップクラッチの制御Ｆ１６Ｈ６１／１４）",
+      "en": "with mechanical clutches for bridging a fluid gearing of the hydrokinetic type(control of torque converter lock-up clutches <b>F16H61/14</b>)",
+      "count": 5071,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H47/00": {
+      "code": "F16H47/00",
+      "level": 0,
+      "parent": "F16H",
+      "ja": "機械的伝動装置と流体クラッチまたは流体伝動装置との組合せ［２００６．０１］",
+      "en": "Combinations of mechanical gearing with fluid clutches or fluid gearing",
+      "count": 1219,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H47/02": {
+      "code": "F16H47/02",
+      "level": 1,
+      "parent": "F16H47/00",
+      "ja": "流体伝動装置が容積形のもの",
+      "en": "the fluid gearing being of the volumetric type",
+      "count": 2213,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H47/04": {
+      "code": "F16H47/04",
+      "level": 2,
+      "parent": "F16H47/02",
+      "ja": "機械的伝動装置が遊星運動する部材を備えている形式のもの",
+      "en": "the mechanical gearing being of the type with members having orbital motion",
+      "count": 2954,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H47/06": {
+      "code": "F16H47/06",
+      "level": 1,
+      "parent": "F16H47/00",
+      "ja": "流体伝動装置が流体動力形のもの",
+      "en": "the fluid gearing being of the hydrokinetic type",
+      "count": 2266,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H47/07": {
+      "code": "F16H47/07",
+      "level": 2,
+      "parent": "F16H47/06",
+      "ja": "２個以上の伝動流体回路を用いるもの（Ｆ１６Ｈ４７／１０が優先）［２］",
+      "en": "using two or more power-transmitting fluid circuits(<b>F16H47/10</b> takes precedence)",
+      "count": 241,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H47/08": {
+      "code": "F16H47/08",
+      "level": 2,
+      "parent": "F16H47/06",
+      "ja": "機械的伝動装置が遊星運動する部材を備えている形式のもの",
+      "en": "the mechanical gearing being of the type with members having orbital motion",
+      "count": 2821,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H47/10": {
+      "code": "F16H47/10",
+      "level": 3,
+      "parent": "F16H47/08",
+      "ja": "２個以上の伝動流体回路を用いるもの［２］",
+      "en": "using two or more power-transmitting fluid circuits",
+      "count": 108,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H47/12": {
+      "code": "F16H47/12",
+      "level": 3,
+      "parent": "F16H47/08",
+      "ja": "流体と相互に作用し合う羽根をもち軌道運動をする部材［２］",
+      "en": "the members with orbital motion having vanes interacting with the fluid",
+      "count": 125,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H48/00": {
+      "code": "F16H48/00",
+      "level": 0,
+      "parent": "F16H",
+      "ja": "差動伝動装置（差動伝動装置の冷却と潤滑Ｆ１６Ｈ５７／０４）［６，２０１２．０１］<br><br><b><ul>注</ul></b><br>このグループに分類する場合は，相反する指示がない限り，分類はすべての適切な箇所に付与される。［２０１２．０１］",
+      "en": "Differential gearings(cooling or lubricating of differential gearing <b>F16H57/04</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>When classifying in this group, in the absence of an indication to the contrary, classification is made in all appropriate places.</li></ul>",
+      "count": 762,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H48/05": {
+      "code": "F16H48/05",
+      "level": 1,
+      "parent": "F16H48/00",
+      "ja": "相互に連結された複数の差動装置を有するもの［２０１２．０１］",
+      "en": "Multiple interconnected differential sets",
+      "count": 350,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H48/06": {
+      "code": "F16H48/06",
+      "level": 1,
+      "parent": "F16H48/00",
+      "ja": "遊星運動をする歯車装置を有するもの［６］",
+      "en": "with gears having orbital motion",
+      "count": 3000,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H48/08": {
+      "code": "F16H48/08",
+      "level": 2,
+      "parent": "F16H48/06",
+      "ja": "遊星円錐歯車装置を有するもの［６］",
+      "en": "with orbital conical gears",
+      "count": 6108,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H48/10": {
+      "code": "F16H48/10",
+      "level": 2,
+      "parent": "F16H48/06",
+      "ja": "遊星平歯車装置を有するもの［６，２０１２．０１］",
+      "en": "with orbital spur gears",
+      "count": 2427,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H48/11": {
+      "code": "F16H48/11",
+      "level": 3,
+      "parent": "F16H48/10",
+      "ja": "互いに噛み合う遊星ピニオンを有するもの［２０１２．０１］",
+      "en": "having intermeshing planet gears",
+      "count": 789,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H48/12": {
+      "code": "F16H48/12",
+      "level": 1,
+      "parent": "F16H48/00",
+      "ja": "遊星運動をする歯車装置を有しないもの［６，２０１２．０１］",
+      "en": "without gears having orbital motion",
+      "count": 1681,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H48/14": {
+      "code": "F16H48/14",
+      "level": 2,
+      "parent": "F16H48/12",
+      "ja": "カムを有するもの［６］",
+      "en": "with cams",
+      "count": 353,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H48/16": {
+      "code": "F16H48/16",
+      "level": 2,
+      "parent": "F16H48/12",
+      "ja": "フリーホイールを有するもの［６］",
+      "en": "with freewheels",
+      "count": 215,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H48/18": {
+      "code": "F16H48/18",
+      "level": 2,
+      "parent": "F16H48/12",
+      "ja": "流体伝動装置を有するもの［６］",
+      "en": "with fluid gearing",
+      "count": 174,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H48/19": {
+      "code": "F16H48/19",
+      "level": 2,
+      "parent": "F16H48/12",
+      "ja": "関連した２つのクラッチからなるもの［２０１２．０１］",
+      "en": "consisting of two linked clutches",
+      "count": 207,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H48/20": {
+      "code": "F16H48/20",
+      "level": 1,
+      "parent": "F16H48/00",
+      "ja": "差動動作を抑制または差動動作に影響を及ぼすための装置，例．固定装置［６，２０１２．０１］",
+      "en": "Arrangements for suppressing or influencing the differential action, e.g. locking devices",
+      "count": 2652,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H48/22": {
+      "code": "F16H48/22",
+      "level": 2,
+      "parent": "F16H48/20",
+      "ja": "摩擦クラッチまたはブレーキを用いるもの［６］",
+      "en": "using friction clutches or brakes",
+      "count": 3408,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H48/24": {
+      "code": "F16H48/24",
+      "level": 2,
+      "parent": "F16H48/20",
+      "ja": "かみ合い式のクラッチまたはブレーキを用いるもの［６］",
+      "en": "using positive clutches or brakes",
+      "count": 1802,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H48/26": {
+      "code": "F16H48/26",
+      "level": 2,
+      "parent": "F16H48/20",
+      "ja": "流体作用を用いるもの，例．粘性クラッチ［６］",
+      "en": "using fluid action, e.g. viscous clutches",
+      "count": 773,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H48/27": {
+      "code": "F16H48/27",
+      "level": 2,
+      "parent": "F16H48/20",
+      "ja": "内部作動式の流体圧力を用いるもの，例．内部ポンプ型［２０１２．０１］",
+      "en": "using internally-actuatable fluid pressure, e.g. internal pump types",
+      "count": 339,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H48/28": {
+      "code": "F16H48/28",
+      "level": 2,
+      "parent": "F16H48/20",
+      "ja": "自動ロック式または自己制動式の歯車装置を用いるもの［６，２０１２．０１］",
+      "en": "using self-locking gears or self-braking gears",
+      "count": 589,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H48/285": {
+      "code": "F16H48/285",
+      "level": 3,
+      "parent": "F16H48/28",
+      "ja": "軸が互いに平行に配置されたヘリカルギヤまたはウォームを有する，自己制動式で互いに噛み合う歯車をもつもの［２０１２．０１］",
+      "en": "with self-braking intermeshing gears having parallel axes and having worms or helical teeth ",
+      "count": 393,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H48/29": {
+      "code": "F16H48/29",
+      "level": 3,
+      "parent": "F16H48/28",
+      "ja": "軸が互いに直交配置されたヘリカルギヤまたはウォームを有する，自己制動式で互いに噛み合う歯車をもつもの［２０１２．０１］",
+      "en": "with self-braking intermeshing gears having perpendicular arranged axes and having worms or helical teeth",
+      "count": 146,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H48/295": {
+      "code": "F16H48/295",
+      "level": 2,
+      "parent": "F16H48/20",
+      "ja": "力増幅のために複数の手段を用いるもの［２０１２．０１］",
+      "en": "using multiple means for force boosting",
+      "count": 555,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H48/30": {
+      "code": "F16H48/30",
+      "level": 2,
+      "parent": "F16H48/20",
+      "ja": "外部から作動可能な手段を用いるもの［６，２０１２．０１］",
+      "en": "using externally-actuatable means",
+      "count": 3004,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H48/32": {
+      "code": "F16H48/32",
+      "level": 3,
+      "parent": "F16H48/30",
+      "ja": "流体圧アクチュエータを用いるもの［２０１２．０１］",
+      "en": "using fluid pressure actuators",
+      "count": 1019,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H48/34": {
+      "code": "F16H48/34",
+      "level": 3,
+      "parent": "F16H48/30",
+      "ja": "電磁気的または電気的アクチュエータを用いるもの［２０１２．０１］",
+      "en": "using electromagnetic or electric actuators",
+      "count": 1272,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H48/36": {
+      "code": "F16H48/36",
+      "level": 1,
+      "parent": "F16H48/00",
+      "ja": "意図的に出力間に回転数差を発生させることを特徴とするもの［２０１２．０１］",
+      "en": "characterised by intentionally generating speed difference between outputs",
+      "count": 866,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H48/38": {
+      "code": "F16H48/38",
+      "level": 1,
+      "parent": "F16H48/00",
+      "ja": "構造の細部（差動装置と入出力シャフトからなる外部ケーシングＦ１６Ｈ５７／０３７）［２０１２．０１］",
+      "en": "Constructional details(the outer casing comprising the differential and supporting input and output shafts <b>F16H57/037</b>)",
+      "count": 6443,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H48/40": {
+      "code": "F16H48/40",
+      "level": 2,
+      "parent": "F16H48/38",
+      "ja": "回転するデフケースに特徴を有するもの［２０１２．０１］",
+      "en": "characterised by features of the rotating cases",
+      "count": 3194,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H48/42": {
+      "code": "F16H48/42",
+      "level": 2,
+      "parent": "F16H48/38",
+      "ja": "入力軸に特徴を有するもの，例．ドライブピニオンの取付け［２０１２．０１］",
+      "en": "characterised by features of the input shafts, e.g. mounting of drive gears thereon",
+      "count": 896,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H49/00": {
+      "code": "F16H49/00",
+      "level": 0,
+      "parent": "F16H",
+      "ja": "その他の伝動装置",
+      "en": "Other gearing",
+      "count": 5854,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H51/00": {
+      "code": "F16H51/00",
+      "level": 0,
+      "parent": "F16H",
+      "ja": "伝動機構のレバー［２００６．０１］",
+      "en": "Levers of gearing mechanisms",
+      "count": 364,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H51/02": {
+      "code": "F16H51/02",
+      "level": 1,
+      "parent": "F16H51/00",
+      "ja": "調節できるもの",
+      "en": "adjustable",
+      "count": 114,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H53/00": {
+      "code": "F16H53/00",
+      "level": 0,
+      "parent": "F16H",
+      "ja": "伝動機構のカムまたはカム従動体，例．伝動機構のためのローラ［２００６．０１］",
+      "en": "Cams or cam-followers, e.g. rollers for gearing mechanisms",
+      "count": 1148,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H53/02": {
+      "code": "F16H53/02",
+      "level": 1,
+      "parent": "F16H53/00",
+      "ja": "１回転ごとに１往復する単軌道カム；このようなカムをもったカム軸",
+      "en": "Single-track cams for single-revolution cycles; Camshafts with such cams",
+      "count": 2408,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H53/04": {
+      "code": "F16H53/04",
+      "level": 2,
+      "parent": "F16H53/02",
+      "ja": "調整できるカム",
+      "en": "Adjustable cams",
+      "count": 592,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H53/06": {
+      "code": "F16H53/06",
+      "level": 1,
+      "parent": "F16H53/00",
+      "ja": "カム従動体（Ｆ１６Ｈ５３／０８が優先）",
+      "en": "Cam-followers(<b>F16H53/08</b> takes precedence)",
+      "count": 1126,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H53/08": {
+      "code": "F16H53/08",
+      "level": 1,
+      "parent": "F16H53/00",
+      "ja": "多軌道カム，例．数回転ごとに１往復するもの；このようなカムに専用するカム従動体",
+      "en": "Multi-track cams, e.g. for cycles consisting of several revolutions; Cam-followers specially adapted for such cams",
+      "count": 212,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H55/00": {
+      "code": "F16H55/00",
+      "level": 0,
+      "parent": "F16H",
+      "ja": "運動伝達用の歯または摩擦面をもつ要素；伝動機構用のウォーム，プーリまたは綱車（ねじおよびナットによる伝動装置のものＦ１６Ｈ２５／００）［２００６．０１］",
+      "en": "Elements with teeth or friction surfaces for conveying motion; Worms, pulleys or sheaves for gearing mechanisms(of screw-and-nut gearing <b>F16H25/00</b>)",
+      "count": 822,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H55/02": {
+      "code": "F16H55/02",
+      "level": 1,
+      "parent": "F16H55/00",
+      "ja": "歯のあるもの，ウォーム",
+      "en": "Toothed members; Worms",
+      "count": 1256,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H55/06": {
+      "code": "F16H55/06",
+      "level": 2,
+      "parent": "F16H55/02",
+      "ja": "材料の選択；材料の固有の性質に影響を与えるための歯をもつものまたはウォームの処理の用途［３］",
+      "en": "Use of materials; Use of treatments of toothed members or worms to affect their intrinsic material properties",
+      "count": 6482,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H55/08": {
+      "code": "F16H55/08",
+      "level": 2,
+      "parent": "F16H55/02",
+      "ja": "歯形［３］",
+      "en": "Profiling",
+      "count": 5144,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H55/10": {
+      "code": "F16H55/10",
+      "level": 2,
+      "parent": "F16H55/02",
+      "ja": "構造的に簡単な形状の歯，例．ピン，球のような形状をしたもの［３］",
+      "en": "Constructively simple tooth shapes, e.g. shaped as pins, as balls",
+      "count": 853,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H55/12": {
+      "code": "F16H55/12",
+      "level": 2,
+      "parent": "F16H55/02",
+      "ja": "分離できる部分から組み立てられた本体またはリムをもつもの［３］",
+      "en": "with body or rim assembled out of detachable parts",
+      "count": 3239,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H55/14": {
+      "code": "F16H55/14",
+      "level": 2,
+      "parent": "F16H55/02",
+      "ja": "弾性または振動減衰を備えている構造（Ｆ１６Ｈ５５／０６が優先）［２００６．０１］",
+      "en": "Construction providing resilience or vibration-damping(<b>F16H55/06</b> takes precedence)",
+      "count": 3727,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H55/16": {
+      "code": "F16H55/16",
+      "level": 3,
+      "parent": "F16H55/14",
+      "ja": "歯だけに関するもの［３］",
+      "en": "relating to teeth only",
+      "count": 532,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H55/17": {
+      "code": "F16H55/17",
+      "level": 2,
+      "parent": "F16H55/02",
+      "ja": "歯車（ウオームホイルＦ１６Ｈ５５／２２；鎖車Ｆ１６Ｈ５５／３０）［３］",
+      "en": "Toothed wheels(worm wheels <b>F16H55/22</b>; chain wheels <b>F16H55/30</b>)",
+      "count": 19352,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H55/18": {
+      "code": "F16H55/18",
+      "level": 3,
+      "parent": "F16H55/17",
+      "ja": "バックラッシュを除去する特別の装置",
+      "en": "Special devices for taking-up backlash",
+      "count": 3333,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H55/20": {
+      "code": "F16H55/20",
+      "level": 4,
+      "parent": "F16H55/18",
+      "ja": "かさ歯車用",
+      "en": "for bevel gears",
+      "count": 357,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H55/22": {
+      "code": "F16H55/22",
+      "level": 2,
+      "parent": "F16H55/02",
+      "ja": "交さした軸をもつ伝達装置用，特にウオーム，ウオーム歯車（かさ歯車，クラウン歯車，ハスバ歯車Ｆ１６Ｈ５５／１７）［２００６．０１］",
+      "en": "for transmissions with crossing shafts, especially worms, worm-gears",
+      "count": 2786,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H55/24": {
+      "code": "F16H55/24",
+      "level": 3,
+      "parent": "F16H55/22",
+      "ja": "バックラッシュを除去する特別の装置",
+      "en": "Special devices for taking up backlash",
+      "count": 1329,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H55/26": {
+      "code": "F16H55/26",
+      "level": 2,
+      "parent": "F16H55/02",
+      "ja": "ラック",
+      "en": "Racks",
+      "count": 1567,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H55/28": {
+      "code": "F16H55/28",
+      "level": 3,
+      "parent": "F16H55/26",
+      "ja": "バックラッシュを除去する特別の装置",
+      "en": "Special devices for taking up backlash",
+      "count": 1176,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H55/30": {
+      "code": "F16H55/30",
+      "level": 2,
+      "parent": "F16H55/02",
+      "ja": "鎖車［２００６．０１］",
+      "en": "Chain wheels",
+      "count": 5182,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H55/32": {
+      "code": "F16H55/32",
+      "level": 1,
+      "parent": "F16H55/00",
+      "ja": "摩擦部材［２００６．０１］",
+      "en": "Friction members",
+      "count": 575,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H55/34": {
+      "code": "F16H55/34",
+      "level": 2,
+      "parent": "F16H55/32",
+      "ja": "調節できない摩擦円盤",
+      "en": "Non-adjustable friction discs",
+      "count": 320,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H55/36": {
+      "code": "F16H55/36",
+      "level": 2,
+      "parent": "F16H55/32",
+      "ja": "プーリ（調節装置に本質的な特徴をもつものＦ１６Ｈ５５／５２）",
+      "en": "Pulleys(with features essential for adjustment <b>F16H55/52</b>)",
+      "count": 9025,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H55/38": {
+      "code": "F16H55/38",
+      "level": 3,
+      "parent": "F16H55/36",
+      "ja": "粘着性を増す手段または方法［２００６．０１］",
+      "en": "Means or measures for increasing adhesion",
+      "count": 1594,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H55/40": {
+      "code": "F16H55/40",
+      "level": 3,
+      "parent": "F16H55/36",
+      "ja": "スポークをもつもの（Ｆ１６Ｈ５５／４８が優先）",
+      "en": "with spokes(<b>F16H55/48</b> takes precedence)",
+      "count": 336,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H55/42": {
+      "code": "F16H55/42",
+      "level": 3,
+      "parent": "F16H55/36",
+      "ja": "薄板からなるプーリ",
+      "en": "Laminated pulleys",
+      "count": 189,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H55/44": {
+      "code": "F16H55/44",
+      "level": 3,
+      "parent": "F16H55/36",
+      "ja": "板金プーリ",
+      "en": "Sheet-metal pulleys",
+      "count": 1149,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H55/46": {
+      "code": "F16H55/46",
+      "level": 3,
+      "parent": "F16H55/36",
+      "ja": "分割プーリ",
+      "en": "Split pulleys",
+      "count": 718,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H55/48": {
+      "code": "F16H55/48",
+      "level": 3,
+      "parent": "F16H55/36",
+      "ja": "全体または一部分が非金属材料，例．プラスチックからなるもの（Ｆ１６Ｈ５５／３８，Ｆ１６Ｈ５５／４２，Ｆ１６Ｈ５５／４６が優先）",
+      "en": "manufactured exclusively or in part of non-metallic material, e.g. plastics(<b>F16H55/38</b>, <b>F16H55/42</b>, <b>F16H55/46</b> take precedence)",
+      "count": 1218,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H55/49": {
+      "code": "F16H55/49",
+      "level": 3,
+      "parent": "F16H55/36",
+      "ja": "Ｖ－ベルトプーリに本質的な特徴［２］",
+      "en": "Features essential to V-belt pulleys",
+      "count": 894,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H55/50": {
+      "code": "F16H55/50",
+      "level": 3,
+      "parent": "F16H55/36",
+      "ja": "ロープ・プーリに本質的な特徴があるもの",
+      "en": "Features essential to rope pulleys",
+      "count": 2091,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H55/52": {
+      "code": "F16H55/52",
+      "level": 2,
+      "parent": "F16H55/32",
+      "ja": "調節できる構造のプーリまたは摩擦円盤",
+      "en": "Pulleys or friction discs of adjustable construction",
+      "count": 678,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H55/54": {
+      "code": "F16H55/54",
+      "level": 3,
+      "parent": "F16H55/52",
+      "ja": "軸受部分が半径方向に調節できるもの",
+      "en": "of which the bearing parts are radially adjustable",
+      "count": 694,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H55/56": {
+      "code": "F16H55/56",
+      "level": 3,
+      "parent": "F16H55/52",
+      "ja": "軸受部分が相対的に軸方向に調節できるもの",
+      "en": "of which the bearing parts are relatively axially adjustable",
+      "count": 2931,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H57/00": {
+      "code": "F16H57/00",
+      "level": 0,
+      "parent": "F16H",
+      "ja": "伝動装置の一般的な細部（ねじおよびナットによる伝動装置の細部Ｆ１６Ｈ２５／００；流体伝動装置の細部Ｆ１６Ｈ３９／００～Ｆ１６Ｈ４３／００）［１，２０１２．０１］",
+      "en": "General details of gearing(of screw-and-nut gearing <b>F16H25/00</b>;  of fluid gearing <b>F16H39/00 to F16H43/00</b> )",
+      "count": 11182,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H57/01": {
+      "code": "F16H57/01",
+      "level": 1,
+      "parent": "F16H57/00",
+      "ja": "伝動装置の要素の摩耗や応力の監視，例．メンテナンスのきっかけのため［２０１２．０１］",
+      "en": "Monitoring wear or stress of gearing elements, e.g. for triggering maintenance",
+      "count": 987,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H57/02": {
+      "code": "F16H57/02",
+      "level": 1,
+      "parent": "F16H57/00",
+      "ja": "歯車箱；その中に伝動装置を取り付けるもの［１，２０１２．０１］<br><br><b><ul>注</ul></b><br>このグループに分類する場合は，相反する指示がない限り，分類はすべての適切な箇所に行われる。［２０１２．０１］",
+      "en": "Gearboxes; Mounting gearing therein; <br><br><b><u>Note(s)</u></b><br><br><ul><li>When classifying in this group, in the absence of an indication to the contrary, classification is made in all appropriate subgroups.</li></ul>",
+      "count": 26125,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H57/021": {
+      "code": "F16H57/021",
+      "level": 2,
+      "parent": "F16H57/02",
+      "ja": "軸の支持構造，例．仕切り壁，軸受の留め孔，軸受付きの壁やカバー［２０１２．０１］",
+      "en": "Shaft support structures, e.g. partition walls, bearing eyes, casing walls or covers with bearings",
+      "count": 18231,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H57/022": {
+      "code": "F16H57/022",
+      "level": 3,
+      "parent": "F16H57/021",
+      "ja": "動力伝達装置の軸や軸受の調整（遊星歯車をもたない歯車装置の軸の不整列を補償するための特別な手段Ｆ１６Ｈ１／２６；遊星歯車装置の軸の不整列を補償するための特別な手段Ｆ１６Ｈ１／４８）［２０１２．０１］",
+      "en": "Adjustment of gear shafts or bearings(for compensating misalignment of axes of toothed gearings without orbital motion <b>F16H1/26</b>; for compensating misalignment of axes of planetary gears <b>F16H1/48</b>)",
+      "count": 2348,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H57/023": {
+      "code": "F16H57/023",
+      "level": 2,
+      "parent": "F16H57/02",
+      "ja": "伝動装置箱中への歯車または軸の取付けや据え付け，例．組立のための方法または手段［２０１２．０１］",
+      "en": "Mounting or installation of gears or shafts in gearboxes, e.g. methods or means for assembly",
+      "count": 31857,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H57/025": {
+      "code": "F16H57/025",
+      "level": 2,
+      "parent": "F16H57/02",
+      "ja": "伝動装置箱の支持，例．トルクアーム，または他の装置へ伝動装置箱を取り付けるための支持体［２００６．０１］",
+      "en": "Support of gearboxes, e.g. torque arms, or attachment to other devices",
+      "count": 5835,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H57/027": {
+      "code": "F16H57/027",
+      "level": 2,
+      "parent": "F16H57/02",
+      "ja": "伝動装置箱の通気のための手段，例．エアブリーザ，を特徴とするもの［２０１２．０１］",
+      "en": "characterised by means for venting gearboxes, e.g. air breathers",
+      "count": 4714,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H57/028": {
+      "code": "F16H57/028",
+      "level": 2,
+      "parent": "F16H57/02",
+      "ja": "振動や騒音の低減の手段を特徴とするもの［２０１２．０１］",
+      "en": "characterised by means for reducing vibration or noise",
+      "count": 9197,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H57/029": {
+      "code": "F16H57/029",
+      "level": 2,
+      "parent": "F16H57/02",
+      "ja": "伝動装置箱の密封手段，例．気密性の改善，を特徴とするもの［２０１２．０１］",
+      "en": "characterised by means for sealing gearboxes, e.g. to improve airtightness",
+      "count": 13353,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H57/03": {
+      "code": "F16H57/03",
+      "level": 2,
+      "parent": "F16H57/02",
+      "ja": "伝動装置箱の補強手段，例．リブ，を特徴とするもの［２０１２．０１］",
+      "en": "characterised by means for reinforcing gearboxes, e.g. ribs",
+      "count": 3410,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H57/031": {
+      "code": "F16H57/031",
+      "level": 2,
+      "parent": "F16H57/02",
+      "ja": "伝動装置箱のカバーや蓋を特徴とするもの［２０１２．０１］",
+      "en": "characterised by covers or lids for gearboxes",
+      "count": 5502,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H57/032": {
+      "code": "F16H57/032",
+      "level": 2,
+      "parent": "F16H57/02",
+      "ja": "使用される材料を特徴とするもの［２０１２．０１］",
+      "en": "characterised by the materials used",
+      "count": 1673,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H57/033": {
+      "code": "F16H57/033",
+      "level": 2,
+      "parent": "F16H57/02",
+      "ja": "シリーズ化された伝動装置箱，例．同じ設計思想でサイズ違いがあるもの，あるいは標準化されたユニットの組合せを用いた伝動装置箱［２０１２．０１］",
+      "en": "Series gearboxes, e.g. gearboxes based on the same design being available in different sizes or gearboxes using a combination of several standardised units",
+      "count": 813,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H57/035": {
+      "code": "F16H57/035",
+      "level": 2,
+      "parent": "F16H57/02",
+      "ja": "無端可撓部材を用いた動力伝達装置のための伝動装置箱［２０１２．０１］",
+      "en": "Gearboxes for gearing with endless flexible members",
+      "count": 2370,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H57/037": {
+      "code": "F16H57/037",
+      "level": 2,
+      "parent": "F16H57/02",
+      "ja": "差動伝動装置を収納するための伝動装置箱（差動伝動装置の回転ケースＦ１６Ｈ４８／００）［２０１２．０１］",
+      "en": "Gearboxes for accommodating differential gearing(rotating cases for differential gearings <b>F16H48/40</b>)",
+      "count": 3155,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H57/038": {
+      "code": "F16H57/038",
+      "level": 2,
+      "parent": "F16H57/02",
+      "ja": "傘歯車伝動装置を収納するための伝動装置箱（Ｆ１６Ｈ５７／０３７が優先）［２０１２．０１］",
+      "en": "Gearboxes for accommodating bevel gears(<b>F16H57/037</b> takes precedence)",
+      "count": 3298,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H57/039": {
+      "code": "F16H57/039",
+      "level": 2,
+      "parent": "F16H57/02",
+      "ja": "ウォーム伝動装置を収納するための伝動装置箱［２０１２．０１］",
+      "en": "Gearboxes for accommodating worm gears",
+      "count": 4909,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H57/04": {
+      "code": "F16H57/04",
+      "level": 1,
+      "parent": "F16H57/00",
+      "ja": "潤滑または冷却に関して特徴があるもの（静圧形伝動装置の潤滑または冷却の制御６１／４１６５）［１，２０１０．０１］",
+      "en": "Features relating to lubrication or cooling(control of lubrication or cooling in hydrostatic gearing <b>F16H61/4165</b>)",
+      "count": 59051,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H57/05": {
+      "code": "F16H57/05",
+      "level": 2,
+      "parent": "F16H57/04",
+      "ja": "チェーンのもの［２００６．０１］",
+      "en": "of chains",
+      "count": 1819,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H57/08": {
+      "code": "F16H57/08",
+      "level": 1,
+      "parent": "F16H57/00",
+      "ja": "遊星運動をする部材をもった伝動装置",
+      "en": "of gearings with members having orbital motion",
+      "count": 14805,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H57/10": {
+      "code": "F16H57/10",
+      "level": 2,
+      "parent": "F16H57/08",
+      "ja": "ブレーキ装置",
+      "en": "Braking arrangements",
+      "count": 1647,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H57/12": {
+      "code": "F16H57/12",
+      "level": 1,
+      "parent": "F16H57/00",
+      "ja": "バックラッシュの調節または除去のための装置で他に分類されないもの［２］",
+      "en": "Arrangements for adjusting or for taking-up backlash not provided for elsewhere",
+      "count": 5389,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H59/00": {
+      "code": "F16H59/00",
+      "level": 0,
+      "parent": "F16H",
+      "ja": "回転運動を伝達するための変速あるいは逆転伝動装置のための制御入力［５］",
+      "en": "Control inputs to change-speed- or reversing-gearings for conveying rotary motion",
+      "count": 2032,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H59/02": {
+      "code": "F16H59/02",
+      "level": 1,
+      "parent": "F16H59/00",
+      "ja": "選択装置［５］",
+      "en": "Selector apparatus",
+      "count": 13176,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H59/04": {
+      "code": "F16H59/04",
+      "level": 2,
+      "parent": "F16H59/02",
+      "ja": "変速比選択装置［５］",
+      "en": "Ratio selector apparatus",
+      "count": 5862,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H59/06": {
+      "code": "F16H59/06",
+      "level": 3,
+      "parent": "F16H59/04",
+      "ja": "変速比が無段であるもの［５］",
+      "en": "the ratio being infinitely variable",
+      "count": 1131,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H59/08": {
+      "code": "F16H59/08",
+      "level": 2,
+      "parent": "F16H59/02",
+      "ja": "変速範囲選択装置［５］",
+      "en": "Range selector apparatus",
+      "count": 4325,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H59/10": {
+      "code": "F16H59/10",
+      "level": 3,
+      "parent": "F16H59/08",
+      "ja": "レバーを含むもの［５］",
+      "en": "comprising levers",
+      "count": 5649,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H59/12": {
+      "code": "F16H59/12",
+      "level": 3,
+      "parent": "F16H59/08",
+      "ja": "押しボタンを含むもの［５］",
+      "en": "comprising push button devices",
+      "count": 1088,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H59/14": {
+      "code": "F16H59/14",
+      "level": 1,
+      "parent": "F16H59/00",
+      "ja": "入力がトルクまたはトルク要求に関するもの［５］",
+      "en": "Inputs being a function of torque or torque demand",
+      "count": 3431,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H59/16": {
+      "code": "F16H59/16",
+      "level": 2,
+      "parent": "F16H59/14",
+      "ja": "トルクの動力測定［５］",
+      "en": "Dynamometric measurement of torque",
+      "count": 681,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H59/18": {
+      "code": "F16H59/18",
+      "level": 2,
+      "parent": "F16H59/14",
+      "ja": "アクセルペダルの位置に依存するもの［５］",
+      "en": "dependent on the position of the accelerator pedal",
+      "count": 3252,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H59/20": {
+      "code": "F16H59/20",
+      "level": 3,
+      "parent": "F16H59/18",
+      "ja": "キックダウン［５］",
+      "en": "Kickdown",
+      "count": 468,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H59/22": {
+      "code": "F16H59/22",
+      "level": 3,
+      "parent": "F16H59/18",
+      "ja": "アイドル位置［５］",
+      "en": "Idle position",
+      "count": 426,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H59/24": {
+      "code": "F16H59/24",
+      "level": 2,
+      "parent": "F16H59/14",
+      "ja": "スロットル開度に依存するもの［５］",
+      "en": "dependent on the throttle opening",
+      "count": 2577,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H59/26": {
+      "code": "F16H59/26",
+      "level": 2,
+      "parent": "F16H59/14",
+      "ja": "圧力に依存するもの［５］",
+      "en": "dependent on pressure",
+      "count": 193,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H59/28": {
+      "code": "F16H59/28",
+      "level": 3,
+      "parent": "F16H59/26",
+      "ja": "ガスタービンのガス圧［５］",
+      "en": "Gasifier pressure in gas turbines",
+      "count": 17,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H59/30": {
+      "code": "F16H59/30",
+      "level": 3,
+      "parent": "F16H59/26",
+      "ja": "吸入マニホールド真空圧［５］",
+      "en": "Intake manifold vacuum",
+      "count": 170,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H59/32": {
+      "code": "F16H59/32",
+      "level": 3,
+      "parent": "F16H59/26",
+      "ja": "内燃機関の過給機圧［５］",
+      "en": "Supercharger pressure in internal combustion engines",
+      "count": 79,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H59/34": {
+      "code": "F16H59/34",
+      "level": 2,
+      "parent": "F16H59/14",
+      "ja": "燃料供給に依存するもの［５］",
+      "en": "dependent on fuel feed",
+      "count": 365,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H59/36": {
+      "code": "F16H59/36",
+      "level": 1,
+      "parent": "F16H59/00",
+      "ja": "入力が速度に関するもの［５］",
+      "en": "Inputs being a function of speed",
+      "count": 2105,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H59/38": {
+      "code": "F16H59/38",
+      "level": 2,
+      "parent": "F16H59/36",
+      "ja": "伝動装置要素の速度［５］",
+      "en": "of gearing elements",
+      "count": 1432,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H59/40": {
+      "code": "F16H59/40",
+      "level": 3,
+      "parent": "F16H59/38",
+      "ja": "出力軸速度［５］",
+      "en": "Output shaft speed",
+      "count": 2149,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H59/42": {
+      "code": "F16H59/42",
+      "level": 3,
+      "parent": "F16H59/38",
+      "ja": "入力軸速度［５］",
+      "en": "Input shaft speed",
+      "count": 3748,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H59/44": {
+      "code": "F16H59/44",
+      "level": 2,
+      "parent": "F16H59/36",
+      "ja": "機械の速度に依存するもの（Ｆ１６Ｈ５９／４６が優先）［５］",
+      "en": "dependent on machine speed(<b>F16H59/46</b> takes precedence)",
+      "count": 4801,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H59/46": {
+      "code": "F16H59/46",
+      "level": 2,
+      "parent": "F16H59/36",
+      "ja": "複数の速度間の比較に依存するもの［５］",
+      "en": "dependent on a comparison between speeds",
+      "count": 1775,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H59/48": {
+      "code": "F16H59/48",
+      "level": 1,
+      "parent": "F16H59/00",
+      "ja": "入力が加速度に関するもの［５］",
+      "en": "Inputs being a function of acceleration",
+      "count": 1741,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H59/50": {
+      "code": "F16H59/50",
+      "level": 1,
+      "parent": "F16H59/00",
+      "ja": "入力が機械の状態に関するもの，例．ドア，または安全ベルトの位置［５］",
+      "en": "Inputs being a function of the status of the machine, e.g. position of doors or safety belts",
+      "count": 1355,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H59/52": {
+      "code": "F16H59/52",
+      "level": 2,
+      "parent": "F16H59/50",
+      "ja": "機械の重量に依存するもの，例．バスの乗客に基づく重量の変化［５］",
+      "en": "dependent on the weight of the machine, e.g. change in weight resulting from passengers boarding a bus",
+      "count": 450,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H59/54": {
+      "code": "F16H59/54",
+      "level": 2,
+      "parent": "F16H59/50",
+      "ja": "ブレーキからの信号に依存するもの，例．パーキングブレーキ［５］",
+      "en": "dependent on signals from the brakes, e.g. parking brakes",
+      "count": 2183,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H59/56": {
+      "code": "F16H59/56",
+      "level": 2,
+      "parent": "F16H59/50",
+      "ja": "主クラッチからの信号に依存するもの［５］",
+      "en": "dependent on signals from the main clutch",
+      "count": 769,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H59/58": {
+      "code": "F16H59/58",
+      "level": 2,
+      "parent": "F16H59/50",
+      "ja": "舵取り装置からの信号に依存するもの［５］",
+      "en": "dependent on signals from the steering",
+      "count": 341,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H59/60": {
+      "code": "F16H59/60",
+      "level": 1,
+      "parent": "F16H59/00",
+      "ja": "入力が周囲状態に関するもの［５］",
+      "en": "Inputs being a function of ambient conditions",
+      "count": 514,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H59/62": {
+      "code": "F16H59/62",
+      "level": 2,
+      "parent": "F16H59/60",
+      "ja": "大気圧［５］",
+      "en": "Atmospheric pressure",
+      "count": 133,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H59/64": {
+      "code": "F16H59/64",
+      "level": 2,
+      "parent": "F16H59/60",
+      "ja": "大気温度［５］",
+      "en": "Atmospheric temperature",
+      "count": 180,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H59/66": {
+      "code": "F16H59/66",
+      "level": 2,
+      "parent": "F16H59/60",
+      "ja": "道路状態，例．傾斜，滑り易さ［５］",
+      "en": "Road conditions, e.g. slope, slippery",
+      "count": 2259,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H59/68": {
+      "code": "F16H59/68",
+      "level": 1,
+      "parent": "F16H59/00",
+      "ja": "入力が伝動装置状態に関するもの［５］",
+      "en": "Inputs being a function of gearing status",
+      "count": 3616,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H59/70": {
+      "code": "F16H59/70",
+      "level": 2,
+      "parent": "F16H59/68",
+      "ja": "確立された変速比に依存するもの［５］",
+      "en": "dependent on the ratio established",
+      "count": 2780,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H59/72": {
+      "code": "F16H59/72",
+      "level": 2,
+      "parent": "F16H59/68",
+      "ja": "油の特性に依存するもの，例．温度，粘性［５］",
+      "en": "dependent on oil characteristics, e.g. temperature, viscosity",
+      "count": 2149,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H59/74": {
+      "code": "F16H59/74",
+      "level": 1,
+      "parent": "F16H59/00",
+      "ja": "入力が原動機のパラメータに関するもの（Ｆ１６Ｈ５９／１４が優先）［５］",
+      "en": "Inputs being a function of engine parameters(<b>F16H59/14</b> takes precedence)",
+      "count": 2354,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H59/76": {
+      "code": "F16H59/76",
+      "level": 2,
+      "parent": "F16H59/74",
+      "ja": "運転中のシリンダー数［５］",
+      "en": "Number of cylinders operating",
+      "count": 91,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H59/78": {
+      "code": "F16H59/78",
+      "level": 2,
+      "parent": "F16H59/74",
+      "ja": "温度［５］",
+      "en": "Temperature",
+      "count": 571,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/00": {
+      "code": "F16H61/00",
+      "level": 0,
+      "parent": "F16H",
+      "ja": "回転運動を伝達するための変速あるいは逆転伝動装置の制御機能［５］",
+      "en": "Control functions within change-speed- or reversing-gearings for conveying rotary motion",
+      "count": 18341,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/02": {
+      "code": "F16H61/02",
+      "level": 1,
+      "parent": "F16H61/00",
+      "ja": "用いられる信号に特徴のあるもの［５］",
+      "en": "characterised by the signals used",
+      "count": 28169,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/04": {
+      "code": "F16H61/04",
+      "level": 1,
+      "parent": "F16H61/00",
+      "ja": "滑らかな変速比シフト［５］",
+      "en": "Smoothing ratio shift",
+      "count": 11200,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/06": {
+      "code": "F16H61/06",
+      "level": 2,
+      "parent": "F16H61/04",
+      "ja": "流体圧の変化率を制御することによるもの［５］",
+      "en": "by controlling rate of change of fluid pressure",
+      "count": 4375,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/08": {
+      "code": "F16H61/08",
+      "level": 2,
+      "parent": "F16H61/04",
+      "ja": "タイミング制御［５］",
+      "en": "Timing control",
+      "count": 4337,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/10": {
+      "code": "F16H61/10",
+      "level": 1,
+      "parent": "F16H61/00",
+      "ja": "シフトヒステリシスを調整するもの［５］",
+      "en": "Controlling shift hysteresis",
+      "count": 4377,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/12": {
+      "code": "F16H61/12",
+      "level": 1,
+      "parent": "F16H61/00",
+      "ja": "機能不調または機能不調の可能性があることを検知するもの，例．フェイルセーフ（静圧形伝動装置の制御における６１／４１９２）［５，２０１０．０１］",
+      "en": "Detecting malfunction or potential malfunction, e.g. fail safe(in control of hydrostatic gearing <b>F16H61/4192</b>)",
+      "count": 7466,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/14": {
+      "code": "F16H61/14",
+      "level": 1,
+      "parent": "F16H61/00",
+      "ja": "トルクコンバータのロックアップクラッチの制御［５］",
+      "en": "Control of torque converter lock-up clutches",
+      "count": 5367,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/16": {
+      "code": "F16H61/16",
+      "level": 1,
+      "parent": "F16H61/00",
+      "ja": "好ましくない状態中で，シフトを禁止するもの（Ｆ１６Ｈ６１／１８が優先）［５］",
+      "en": "Inhibiting shift during unfavourable conditions(<b>F16H61/18</b> takes precedence)",
+      "count": 4075,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/18": {
+      "code": "F16H61/18",
+      "level": 1,
+      "parent": "F16H61/00",
+      "ja": "意図的でない，あるいは安全でないシフトを防ぐもの［２００６．０１］",
+      "en": "Preventing unintentional or unsafe shift",
+      "count": 6408,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/20": {
+      "code": "F16H61/20",
+      "level": 1,
+      "parent": "F16H61/00",
+      "ja": "伝動装置のクリープを防ぐもの［２００６．０１］",
+      "en": "Preventing gear creeping",
+      "count": 1072,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/21": {
+      "code": "F16H61/21",
+      "level": 1,
+      "parent": "F16H61/00",
+      "ja": "エンジンブレーキの制御を与えるもの［７］",
+      "en": "Providing engine brake control",
+      "count": 1155,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/22": {
+      "code": "F16H61/22",
+      "level": 1,
+      "parent": "F16H61/00",
+      "ja": "鎖錠（鎖錠あるいは不作動のための機構の構造的特徴Ｆ１６Ｆ６３／３４）［２００６．０１］",
+      "en": "Locking  (constructional features of locking or disabling mechanisms <b>F16H63/34</b>)",
+      "count": 2661,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/24": {
+      "code": "F16H61/24",
+      "level": 1,
+      "parent": "F16H61/00",
+      "ja": "感覚を与えるもの，例．選択を可能にすること［５］",
+      "en": "Providing feel, e.g. to enable selection",
+      "count": 2291,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/26": {
+      "code": "F16H61/26",
+      "level": 1,
+      "parent": "F16H61/00",
+      "ja": "最終作動機構のための運動の発生あるいは伝達［５］<br><br><b><ul>注</ul></b><br>（１）選択装置のみから成る運動の発生または伝達は，グループ５９／００に分類される。［５］<br>（２）最終出力機構の一部分の場合，運動の発生または伝達は，グループ６３／００に分類される。［５］",
+      "en": "Generation or transmission of movements for final actuating mechanisms; <br><br><b><u>Note(s)</u></b><br><br><ul><li>The generation or transmission of movements comprising only the selector apparatus, is classified in group <b>F16H59/00</b>. </li><li>The generation or transmission of movements, when part of the final output mechanisms, is classified in group <b>F16H63/00</b>. </li></ul>",
+      "count": 3907,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/28": {
+      "code": "F16H61/28",
+      "level": 2,
+      "parent": "F16H61/26",
+      "ja": "最終作動機構の少なくとも一つの運動が非機械的な力により起こされるもの，例．パワーアシストされるもの［５］",
+      "en": "with at least one movement of the final actuating mechanism being caused by a non-mechanical force, e.g. power-assisted",
+      "count": 5953,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/30": {
+      "code": "F16H61/30",
+      "level": 3,
+      "parent": "F16H61/28",
+      "ja": "液圧モータ自体［５］",
+      "en": "Hydraulic motors therefor",
+      "count": 3769,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/32": {
+      "code": "F16H61/32",
+      "level": 3,
+      "parent": "F16H61/28",
+      "ja": "電動モータ自体［５］",
+      "en": "Electric motors therefor",
+      "count": 4025,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/34": {
+      "code": "F16H61/34",
+      "level": 2,
+      "parent": "F16H61/26",
+      "ja": "一つが予選択運動のためのものであり，一つがシフト運動のためのものである二つの機構を含むもの（Ｆ１６Ｈ６１／３６が優先）［５］",
+      "en": "comprising two mechanisms, one for the preselection movement, and one for the shifting movement(<b>F16H61/36</b> takes precedence)",
+      "count": 1936,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/36": {
+      "code": "F16H61/36",
+      "level": 2,
+      "parent": "F16H61/26",
+      "ja": "少なくとも一つの運動がケーブルにより伝達されるもの［５］",
+      "en": "with at least one movement being transmitted by a cable",
+      "count": 1659,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/38": {
+      "code": "F16H61/38",
+      "level": 1,
+      "parent": "F16H61/00",
+      "ja": "流体伝動装置のみの制御［５］",
+      "en": "Control of exclusively fluid gearing",
+      "count": 616,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/40": {
+      "code": "F16H61/40",
+      "level": 2,
+      "parent": "F16H61/38",
+      "ja": "流体静力学的なもの［２０１０．０１］",
+      "en": "hydrostatic",
+      "count": 4718,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/4008": {
+      "code": "F16H61/4008",
+      "level": 3,
+      "parent": "F16H61/40",
+      "ja": "回路圧の制御［２０１０．０１］",
+      "en": "Control of circuit pressure",
+      "count": 500,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/4017": {
+      "code": "F16H61/4017",
+      "level": 4,
+      "parent": "F16H61/4008",
+      "ja": "高圧回路の制御，例．リリーフ弁による超過油圧の防止［２０１０．０１］",
+      "en": "Control of high pressure, e.g. avoiding excess pressure by a relief valve",
+      "count": 272,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/4026": {
+      "code": "F16H61/4026",
+      "level": 4,
+      "parent": "F16H61/4008",
+      "ja": "低圧回路の制御［２０１０．０１］",
+      "en": "Control of low pressure",
+      "count": 83,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/4035": {
+      "code": "F16H61/4035",
+      "level": 3,
+      "parent": "F16H61/40",
+      "ja": "流量の制御［２０１０．０１］",
+      "en": "Control of circuit flow",
+      "count": 460,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/4043": {
+      "code": "F16H61/4043",
+      "level": 3,
+      "parent": "F16H61/40",
+      "ja": "高圧回路と低圧回路をバイパスする弁に関連する制御［２０１０．０１］",
+      "en": "Control of a bypass valve",
+      "count": 614,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/4052": {
+      "code": "F16H61/4052",
+      "level": 4,
+      "parent": "F16H61/4043",
+      "ja": "弁が可変絞り機能を有するもの，例．オリフィス弁［２０１０．０１］",
+      "en": "by using a variable restriction, e.g. an orifice valve",
+      "count": 114,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/4061": {
+      "code": "F16H61/4061",
+      "level": 3,
+      "parent": "F16H61/40",
+      "ja": "方向切換弁に関連する制御，例．給水導管を横断する切換弁［２０１０．０１］",
+      "en": "Control related to directional control valves, e.g. change-over valves, for crossing the feeding conduits",
+      "count": 283,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/4069": {
+      "code": "F16H61/4069",
+      "level": 3,
+      "parent": "F16H61/40",
+      "ja": "中立制御に関連する弁，例．シャットオフ弁［２０１０．０１］",
+      "en": "Valves related to the control of neutral, e.g. shut off valves",
+      "count": 173,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/4078": {
+      "code": "F16H61/4078",
+      "level": 3,
+      "parent": "F16H61/40",
+      "ja": "油圧回路と外部または補機との流体の交換［２０１０．０１］",
+      "en": "Fluid exchange between hydrostatic circuits and external sources or consumers",
+      "count": 161,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/4096": {
+      "code": "F16H61/4096",
+      "level": 4,
+      "parent": "F16H61/4078",
+      "ja": "アキュムレータを用いたもの［２０１０．０１］",
+      "en": "with pressure accumulators",
+      "count": 342,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/4104": {
+      "code": "F16H61/4104",
+      "level": 4,
+      "parent": "F16H61/4078",
+      "ja": "フラッシング，例．フラッシング弁や排出手段への接続によるもの［２０１０．０１］",
+      "en": "Flushing, e.g. by using flushing valves or by connection to exhaust",
+      "count": 264,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/4131": {
+      "code": "F16H61/4131",
+      "level": 4,
+      "parent": "F16H61/4078",
+      "ja": "タンクからの吸引による流体の交換，例．オイルパン［２０１０．０１］",
+      "en": "Fluid exchange by aspiration from reservoirs, e.g. sump",
+      "count": 58,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/4139": {
+      "code": "F16H61/4139",
+      "level": 4,
+      "parent": "F16H61/4078",
+      "ja": "補充または清掃用のポンプ，例．補充用チャージポンプ［２０１０．０１］",
+      "en": "Replenishing or scavenging pumps, e.g. auxiliary charge pumps",
+      "count": 552,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/4148": {
+      "code": "F16H61/4148",
+      "level": 3,
+      "parent": "F16H61/40",
+      "ja": "開回路［２０１０．０１］",
+      "en": "Open loop circuits",
+      "count": 253,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/4157": {
+      "code": "F16H61/4157",
+      "level": 3,
+      "parent": "F16H61/40",
+      "ja": "制動装置の制御，例．モータがポンプとして作動するときのポンプのオーバーラン防止［２０１０．０１］",
+      "en": "Control of braking, e.g. preventing pump over-speeding when motor acts as a pump",
+      "count": 576,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/4165": {
+      "code": "F16H61/4165",
+      "level": 3,
+      "parent": "F16H61/40",
+      "ja": "冷却または潤滑の制御［２０１０．０１］",
+      "en": "Control of cooling or lubricating",
+      "count": 391,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/4174": {
+      "code": "F16H61/4174",
+      "level": 3,
+      "parent": "F16H61/40",
+      "ja": "通気孔の制御，例．捕捉した空気の除去［２０１０．０１］",
+      "en": "Control of venting, e.g. removing trapped air",
+      "count": 37,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/4183": {
+      "code": "F16H61/4183",
+      "level": 3,
+      "parent": "F16H61/40",
+      "ja": "振動または騒音の防止または減少，例．キャビテーション防止［２０１０．０１］",
+      "en": "Preventing or reducing vibrations or noise, e.g. avoiding cavitations",
+      "count": 180,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/4192": {
+      "code": "F16H61/4192",
+      "level": 3,
+      "parent": "F16H61/40",
+      "ja": "機能不調または機能不調の可能性があることを検知するもの，例．フェイルセーフ［２０１０．０１］",
+      "en": "Detecting malfunction or potential malfunction, e.g. fail safe",
+      "count": 382,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/42": {
+      "code": "F16H61/42",
+      "level": 3,
+      "parent": "F16H61/40",
+      "ja": "可変出力または容量を備えているポンプまたはモータの調整装置を含むもの［５，２０１０．０１］",
+      "en": "involving adjustment of a pump or motor with adjustable output or capacity",
+      "count": 2868,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/421": {
+      "code": "F16H61/421",
+      "level": 4,
+      "parent": "F16H61/42",
+      "ja": "電気水力学的制御手段を用いたモータ容量の制御，例．ソレノイド弁を用いたもの［２０１０．０１］",
+      "en": "Motor capacity control by electro-hydraulic control means, e.g. using solenoid valves",
+      "count": 530,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/423": {
+      "code": "F16H61/423",
+      "level": 4,
+      "parent": "F16H61/42",
+      "ja": "油圧制御手段を用いたモータ容量の制御［２０１０．０１］",
+      "en": "Motor capacity control by fluid pressure control means",
+      "count": 448,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/425": {
+      "code": "F16H61/425",
+      "level": 4,
+      "parent": "F16H61/42",
+      "ja": "電気アクチュエータを用いたモータ容量の制御［２０１０．０１］",
+      "en": "Motor capacity control by electric actuators",
+      "count": 180,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/427": {
+      "code": "F16H61/427",
+      "level": 4,
+      "parent": "F16H61/42",
+      "ja": "機械的な制御手段を用いたモータ容量の制御，例．レバーやペダルを用いたもの［２０１０．０１］",
+      "en": "Motor capacity control by mechanical control means, e.g. by levers or pedals",
+      "count": 156,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/431": {
+      "code": "F16H61/431",
+      "level": 4,
+      "parent": "F16H61/42",
+      "ja": "電気水力学的制御手段を用いたポンプ容量の制御，例．ソレノイド弁を用いたもの［２０１０．０１］",
+      "en": "Pump capacity control by electro-hydraulic control means, e.g. using solenoid valve",
+      "count": 776,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/433": {
+      "code": "F16H61/433",
+      "level": 4,
+      "parent": "F16H61/42",
+      "ja": "油圧制御手段を用いたポンプ容量の制御［２０１０．０１］",
+      "en": "Pump capacity control by fluid pressure control means",
+      "count": 759,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/435": {
+      "code": "F16H61/435",
+      "level": 4,
+      "parent": "F16H61/42",
+      "ja": "電気アクチュエータを用いたポンプ容量の制御［２０１０．０１］",
+      "en": "Pump capacity control by electric actuators",
+      "count": 337,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/437": {
+      "code": "F16H61/437",
+      "level": 4,
+      "parent": "F16H61/42",
+      "ja": "機械的な制御手段を用いたポンプ容量の制御，例．レバーやペダルを用いたもの［２０１０．０１］",
+      "en": "Pump capacity control by mechanical control means, e.g. by levers or pedals",
+      "count": 558,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/438": {
+      "code": "F16H61/438",
+      "level": 4,
+      "parent": "F16H61/42",
+      "ja": "前後進の切換の制御，例．２方向に放流する斜板の制御［２０１０．０１］",
+      "en": "Control of forward-reverse switching, e.g. control of the swash plate causing discharge in two directions",
+      "count": 152,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/439": {
+      "code": "F16H61/439",
+      "level": 4,
+      "parent": "F16H61/42",
+      "ja": "中立位置の制御，例．斜板を中立位置に維持するための手段によるもの［２０１０．０１］",
+      "en": "Control of the neutral position, e.g. by zero tilt rotation holding means",
+      "count": 444,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/44": {
+      "code": "F16H61/44",
+      "level": 3,
+      "parent": "F16H61/40",
+      "ja": "複数の運転中のポンプまたはモータユニットをもつもの［５］",
+      "en": "with more than one pump or motor unit in operation",
+      "count": 564,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/444": {
+      "code": "F16H61/444",
+      "level": 4,
+      "parent": "F16H61/44",
+      "ja": "運転中のポンプまたはモータユニットの数の変更によるもの［２０１０．０１］",
+      "en": "by changing the number of pump or motor units in operation",
+      "count": 348,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/448": {
+      "code": "F16H61/448",
+      "level": 4,
+      "parent": "F16H61/44",
+      "ja": "タンデムポンプまたはモータのために回路を制御するもの［２０１０．０１］",
+      "en": "Control circuits for tandem pumps or motors",
+      "count": 419,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/452": {
+      "code": "F16H61/452",
+      "level": 4,
+      "parent": "F16H61/44",
+      "ja": "複数のポンプまたはモータを選択的に制御したもの，例．直列または並列の切換［２０１０．０１］",
+      "en": "Selectively controlling multiple pumps or motors, e.g. switching between series or parallel",
+      "count": 306,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/456": {
+      "code": "F16H61/456",
+      "level": 4,
+      "parent": "F16H61/44",
+      "ja": "複数のポンプ間またはモータ間におけるトルクまたは速度のバランスを制御したもの［２０１０．０１］",
+      "en": "Control of the balance of torque or speed between pumps or motors",
+      "count": 410,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/46": {
+      "code": "F16H61/46",
+      "level": 3,
+      "parent": "F16H61/40",
+      "ja": "出力要求による自動調整［５，２０１０．０１］",
+      "en": "Automatic regulation in accordance with output requirements",
+      "count": 2239,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/462": {
+      "code": "F16H61/462",
+      "level": 4,
+      "parent": "F16H61/46",
+      "ja": "目標変速比を達成するもの［２０１０．０１］",
+      "en": "for achieving a target speed ratio",
+      "count": 278,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/465": {
+      "code": "F16H61/465",
+      "level": 4,
+      "parent": "F16H61/46",
+      "ja": "目標入力回転数を達成するもの［２０１０．０１］",
+      "en": "for achieving a target input speed",
+      "count": 310,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/468": {
+      "code": "F16H61/468",
+      "level": 4,
+      "parent": "F16H61/46",
+      "ja": "目標入力トルクを達成するもの［２０１０．０１］",
+      "en": "for achieving a target input torque",
+      "count": 87,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/47": {
+      "code": "F16H61/47",
+      "level": 4,
+      "parent": "F16H61/46",
+      "ja": "目標出力回転数を達成するもの［２０１０．０１］",
+      "en": "for achieving a target output speed",
+      "count": 738,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/472": {
+      "code": "F16H61/472",
+      "level": 4,
+      "parent": "F16H61/46",
+      "ja": "目標出力トルクを達成するもの［２０１０．０１］",
+      "en": "for achieving a target output torque",
+      "count": 456,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/475": {
+      "code": "F16H61/475",
+      "level": 4,
+      "parent": "F16H61/46",
+      "ja": "目標パワーを達成するもの，例．入力パワーまたは出力パワー［２０１０．０１］",
+      "en": "for achieving a target power, e.g. input power or output power",
+      "count": 148,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/478": {
+      "code": "F16H61/478",
+      "level": 4,
+      "parent": "F16H61/46",
+      "ja": "過負荷防止，例．高圧を限定するもの［２０１０．０１］",
+      "en": "for preventing overload, e.g. high pressure limitation",
+      "count": 171,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/48": {
+      "code": "F16H61/48",
+      "level": 2,
+      "parent": "F16H61/38",
+      "ja": "動圧形［５］",
+      "en": "hydrodynamic",
+      "count": 276,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/50": {
+      "code": "F16H61/50",
+      "level": 3,
+      "parent": "F16H61/48",
+      "ja": "完全に充填された作動回路を保持して，作動回路中の流体が流れ，勢い，または反作用の変化によって制御されるもの［５］",
+      "en": "controlled by changing the flow, force, or reaction of the liquid in the working circuit, while maintaining a completely filled working circuit",
+      "count": 239,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/52": {
+      "code": "F16H61/52",
+      "level": 4,
+      "parent": "F16H61/50",
+      "ja": "羽根の位置の変更によるもの［５］",
+      "en": "by altering the position of blades",
+      "count": 102,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/54": {
+      "code": "F16H61/54",
+      "level": 5,
+      "parent": "F16H61/52",
+      "ja": "軸方向に位置を変更する羽根車によるもの［５］",
+      "en": "by means of axially-shiftable blade runners",
+      "count": 186,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/56": {
+      "code": "F16H61/56",
+      "level": 5,
+      "parent": "F16H61/52",
+      "ja": "羽根の角度を変更するもの［５］",
+      "en": "to change the blade angle",
+      "count": 330,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/58": {
+      "code": "F16H61/58",
+      "level": 4,
+      "parent": "F16H61/50",
+      "ja": "羽根車間の機械的接続の変更によるもの［５］",
+      "en": "by change of the mechanical connection of, or between, the runners",
+      "count": 178,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/60": {
+      "code": "F16H61/60",
+      "level": 5,
+      "parent": "F16H61/58",
+      "ja": "フリーホイルクラッチだけを用いたもの［５］",
+      "en": "exclusively by the use of freewheel clutches",
+      "count": 116,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/62": {
+      "code": "F16H61/62",
+      "level": 5,
+      "parent": "F16H61/58",
+      "ja": "羽根車間の接続に変速伝動装置またはクラッチを用いたもの（Ｆ１６Ｈ６１／６０が優先；回転運動伝達用流体伝動装置と，流体動力形流体伝動装置を橋絡する機械的クラッチとの組み合わせＦ１６Ｈ４５／０２）［２００６．０１］",
+      "en": "involving use of a speed-changing gearing or of a clutch in the connection between runners  (<b>F16H61/60</b> takes precedence;  combinations of fluid gearings for conveying rotary motion with mechanical clutches for bridging a fluid gearing of the hydrokinetic type <b>F16H45/02</b>)",
+      "count": 275,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/64": {
+      "code": "F16H61/64",
+      "level": 3,
+      "parent": "F16H61/48",
+      "ja": "作動回路中の流体量を変更することによって制御されるもの［５］",
+      "en": "controlled by changing the amount of liquid in the working circuit",
+      "count": 317,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/66": {
+      "code": "F16H61/66",
+      "level": 1,
+      "parent": "F16H61/00",
+      "ja": "無段変速伝動装置に特に適したもの（流体伝動装置のみの制御Ｆ１６Ｈ６１／３８）［２００６．０１］",
+      "en": "specially adapted for continuously variable gearings (control of exclusively fluid gearing <b>F16H61/38</b>)",
+      "count": 2817,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/662": {
+      "code": "F16H61/662",
+      "level": 2,
+      "parent": "F16H61/66",
+      "ja": "無端可撓部材を有するもの［８］",
+      "en": "with endless flexible members",
+      "count": 6431,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/664": {
+      "code": "F16H61/664",
+      "level": 2,
+      "parent": "F16H61/66",
+      "ja": "摩擦伝動装置［８］",
+      "en": "Friction gearings",
+      "count": 1202,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/68": {
+      "code": "F16H61/68",
+      "level": 1,
+      "parent": "F16H61/00",
+      "ja": "有段伝動装置に特に適したもの［８］",
+      "en": "specially adapted for stepped gearings",
+      "count": 2891,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/682": {
+      "code": "F16H61/682",
+      "level": 2,
+      "parent": "F16H61/68",
+      "ja": "駆動力の遮断があるもの［８］",
+      "en": "with interruption of drive",
+      "count": 1299,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/684": {
+      "code": "F16H61/684",
+      "level": 2,
+      "parent": "F16H61/68",
+      "ja": "駆動力の遮断がないもの［８］",
+      "en": "without interruption of drive",
+      "count": 2077,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/686": {
+      "code": "F16H61/686",
+      "level": 3,
+      "parent": "F16H61/684",
+      "ja": "遊星歯車を持つもの［８］",
+      "en": "with orbital gears",
+      "count": 2802,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/688": {
+      "code": "F16H61/688",
+      "level": 3,
+      "parent": "F16H61/684",
+      "ja": "二つの入力があるもの，例．クラッチによる二つのトルク伝達経路の一つを選択［８］",
+      "en": "with two inputs, e.g. selection of one of two torque-flow paths by clutches",
+      "count": 2273,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H61/70": {
+      "code": "F16H61/70",
+      "level": 1,
+      "parent": "F16H61/00",
+      "ja": "ひとまとめに配置された変速伝動装置，すなわち，直列に配置された別個の変速歯車列を持つもの，例．レンジ型またはオーバードライブ型変速伝動装置，に特に適したもの［８］",
+      "en": "specially adapted for change-speed gearing in group arrangement, i.e. with separate change-speed gear trains arranged in series, e.g. range or overdrive-type gearing arrangements",
+      "count": 1066,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H63/00": {
+      "code": "F16H63/00",
+      "level": 0,
+      "parent": "F16H",
+      "ja": "回転運動を伝達するための変速あるいは逆転伝動装置の制御出力［５］",
+      "en": "Control outputs to change-speed- or reversing-gearings for conveying rotary motion",
+      "count": 5026,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H63/02": {
+      "code": "F16H63/02",
+      "level": 1,
+      "parent": "F16H63/00",
+      "ja": "最終出力機構自体；最終出力機構のための作動手段［５］",
+      "en": "Final output mechanisms therefor; Actuating means for the final output mechanisms",
+      "count": 2748,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H63/04": {
+      "code": "F16H63/04",
+      "level": 2,
+      "parent": "F16H63/02",
+      "ja": "一つの最終出力機構が一つの最終作動機構により作動されるもの［５］",
+      "en": "a single final output mechanism being moved by a single final actuating mechanism",
+      "count": 1355,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H63/06": {
+      "code": "F16H63/06",
+      "level": 3,
+      "parent": "F16H63/04",
+      "ja": "最終出力機構が無数の位置をもつもの［５］",
+      "en": "the final output mechanism having an indefinite number of positions",
+      "count": 1931,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H63/08": {
+      "code": "F16H63/08",
+      "level": 2,
+      "parent": "F16H63/02",
+      "ja": "複数の最終出力機構が一つの最終作動機構により作動されるもの［５］",
+      "en": "Multiple final output mechanisms being moved by a single common final actuating mechanism",
+      "count": 843,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H63/10": {
+      "code": "F16H63/10",
+      "level": 3,
+      "parent": "F16H63/08",
+      "ja": "最終作動機構が一連の独立した運動の径路をもち，各運動の径路は一つの最終出力機構のみと関連するもの［５］",
+      "en": "the final actuating mechanism having a series of independent ways of movement, each way of movement being associated with only one final output mechanism",
+      "count": 459,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H63/12": {
+      "code": "F16H63/12",
+      "level": 4,
+      "parent": "F16H63/10",
+      "ja": "二つ以上の径路の運動が同時に起こるもの［５］",
+      "en": "two or more ways of movement occurring simultaneously",
+      "count": 2677,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H63/14": {
+      "code": "F16H63/14",
+      "level": 3,
+      "parent": "F16H63/08",
+      "ja": "最終出力機構が最終作動機構の繰り返し運動によって継続的に作動されるもの［５］",
+      "en": "the final output mechanisms being successively actuated by repeated movement of the final actuating mechanism",
+      "count": 230,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H63/16": {
+      "code": "F16H63/16",
+      "level": 3,
+      "parent": "F16H63/08",
+      "ja": "最終出力機構が最終作動機構の前進運動によって継続的に作動されるもの［５］",
+      "en": "the final output mechanisms being successively actuated by progressive movement of the final actuating mechanism",
+      "count": 692,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H63/18": {
+      "code": "F16H63/18",
+      "level": 4,
+      "parent": "F16H63/16",
+      "ja": "最終作動機構がカムを含むもの［５］",
+      "en": "the final actuating mechanism comprising cams",
+      "count": 1561,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H63/20": {
+      "code": "F16H63/20",
+      "level": 3,
+      "parent": "F16H63/08",
+      "ja": "最終作動機構が二つの異なった径路を運動することにより各最終出力機構は予選択され次いで運動するもの，例．シフトゲートにより案内されるもの［５］",
+      "en": "with preselection and subsequent movement of each final output mechanism by movement of the final actuating mechanism in two different ways, e.g. guided by a shift gate",
+      "count": 3592,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H63/22": {
+      "code": "F16H63/22",
+      "level": 4,
+      "parent": "F16H63/20",
+      "ja": "最終出力機構が最終作動機構により同時に作動されるもの［５］",
+      "en": "the final output mechanisms being simultaneously moved by the final actuating mechanism",
+      "count": 219,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H63/24": {
+      "code": "F16H63/24",
+      "level": 2,
+      "parent": "F16H63/02",
+      "ja": "各最終出力機構が種々の最終作動機構のうち一つのみによって作動されるもの［５］",
+      "en": "each of the final output mechanisms being moved by only one of the various final actuating mechanisms",
+      "count": 855,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H63/26": {
+      "code": "F16H63/26",
+      "level": 3,
+      "parent": "F16H63/24",
+      "ja": "最終出力機構のいくつかの運動が他の最終出力機構により起こされるもの［５］",
+      "en": "some of the movements of the final output mechanisms being caused by another final output mechanism",
+      "count": 398,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H63/28": {
+      "code": "F16H63/28",
+      "level": 2,
+      "parent": "F16H63/02",
+      "ja": "二つ以上の最終作動機構が同じ最終出力機構を作動するもの［５］",
+      "en": "two or more final actuating mechanisms moving the same final output mechanism",
+      "count": 188,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H63/30": {
+      "code": "F16H63/30",
+      "level": 2,
+      "parent": "F16H63/02",
+      "ja": "最終出力機構の構造上の特徴［５］",
+      "en": "Constructional features of the final output mechanisms",
+      "count": 13234,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H63/32": {
+      "code": "F16H63/32",
+      "level": 3,
+      "parent": "F16H63/30",
+      "ja": "ギアシフターヨーク［５］",
+      "en": "Gear shifter yokes",
+      "count": 7198,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H63/34": {
+      "code": "F16H63/34",
+      "level": 3,
+      "parent": "F16H63/30",
+      "ja": "ロッキングあるいは不作動のための機構［５］",
+      "en": "Locking or disabling mechanisms",
+      "count": 7570,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H63/36": {
+      "code": "F16H63/36",
+      "level": 4,
+      "parent": "F16H63/34",
+      "ja": "インターロッキング装置［５］",
+      "en": "Interlocking devices",
+      "count": 1435,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H63/38": {
+      "code": "F16H63/38",
+      "level": 3,
+      "parent": "F16H63/30",
+      "ja": "ディテント［５］",
+      "en": "Detents",
+      "count": 3466,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H63/40": {
+      "code": "F16H63/40",
+      "level": 1,
+      "parent": "F16H63/00",
+      "ja": "最終出力機構を作動するための信号以外の信号を含むもの［５］",
+      "en": "comprising signals other than signals for actuating the final output mechanisms",
+      "count": 3260,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H63/42": {
+      "code": "F16H63/42",
+      "level": 2,
+      "parent": "F16H63/40",
+      "ja": "変速比表示装置［５］",
+      "en": "Ratio indicator devices",
+      "count": 3455,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H63/44": {
+      "code": "F16H63/44",
+      "level": 2,
+      "parent": "F16H63/40",
+      "ja": "補助伝動装置の制御ユニットへの信号［５］",
+      "en": "Signals to the control unit of auxiliary gearing",
+      "count": 1463,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H63/46": {
+      "code": "F16H63/46",
+      "level": 2,
+      "parent": "F16H63/40",
+      "ja": "歯車箱の外部にあるクラッチへの信号［５］",
+      "en": "Signals to a clutch outside the gearbox",
+      "count": 2373,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H63/48": {
+      "code": "F16H63/48",
+      "level": 2,
+      "parent": "F16H63/40",
+      "ja": "パーキングブレーキへの信号［５］",
+      "en": "Signals to a parking brake",
+      "count": 1311,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    },
+    "F16H63/50": {
+      "code": "F16H63/50",
+      "level": 2,
+      "parent": "F16H63/40",
+      "ja": "エンジンまたはモーターへの信号［７］",
+      "en": "Signals to an engine or motor",
+      "count": 6134,
+      "sourceFile": "ipc_F16H.txt",
+      "kind": "ipc"
+    }
+  }
+};

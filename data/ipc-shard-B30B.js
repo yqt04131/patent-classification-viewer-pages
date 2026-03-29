@@ -1,0 +1,916 @@
+window.IPC_SHARD_B30B = {
+  "generatedAt": "2026-03-20T02:17:46.166Z",
+  "total": 91,
+  "entries": {
+    "B30B": {
+      "code": "B30B",
+      "level": 0,
+      "parent": "B30",
+      "ja": "プレス一般；他に分類されないプレス（物質の変態を生じさせる超高圧または超高圧と高温の発生，例．人造ダイヤモンドを製造するためのものＢ０１Ｊ３／００）［２］<br><br><b><ul>サブクラス内の索引</ul></b><br>プレス機構の操作を特徴とするプレス　１／００，３／００，５／００，７／００<br>特殊目的のプレス　９／００，１１／００<br>その他のプレス　１２／００<br>細部，付属具，制御　１５／００<br>その他のプレス方法　１３／００",
+      "en": "PRESSES IN GENERAL; PRESSES NOT OTHERWISE PROVIDED FOR(producing ultra-high pressure or ultra-high pressure and high temperature to effect modifications of a substance, e.g. for making artificial diamonds <b>B01J3/00</b>);<br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">PRESSES CHARACTERISED BY OPERATION OF PRESSING MECHANISMS </td><td><b><b>1/00</b>, <b>3/00</b>, <b>5/00</b>, <b>7/00</b></b></td></tr></tr><tr><td width=\"70%\">PRESSES FOR SPECIAL PURPOSES </td><td><b><b>9/00</b>, <b>11/00</b></b></td></tr></tr><tr><td width=\"70%\">OTHER PRESSES </td><td><b><b>12/00</b></b></td></tr></tr><tr><td width=\"70%\">DETAILS, ACCESSORIES, CONTROL </td><td><b><b>15/00</b></b></td></tr></tr><tr><td width=\"70%\">OTHER PRESSING METHODS </td><td><b><b>13/00</b></b></td></tr></tr></table>",
+      "count": 1896,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B30": {
+      "code": "B30",
+      "level": 0,
+      "parent": "B",
+      "ja": "プレス",
+      "en": "PRESSES",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B": {
+      "code": "B",
+      "level": 0,
+      "parent": null,
+      "ja": "処理操作；運輸",
+      "en": "PERFORMING OPERATIONS; TRANSPORTING",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B30B1/00": {
+      "code": "B30B1/00",
+      "level": 0,
+      "parent": "B30B",
+      "ja": "ラムを使用し，その駆動機構を特徴とするもので，圧力が直接または簡単なスラストまたは引張り部材によってのみラムまたは圧盤に伝えられるプレス",
+      "en": "Presses, using a press ram, characterised by the features of the drive therefor, pressure being transmitted directly, or through simple thrust or tension members only, to the press ram or platen",
+      "count": 2009,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B1/02": {
+      "code": "B30B1/02",
+      "level": 1,
+      "parent": "B30B1/00",
+      "ja": "てこ機構によるもの（トッグル機構によるものＢ３０Ｂ１／１０）",
+      "en": "by lever mechanism(by toggle mechanism <b>B30B1/10</b>)",
+      "count": 294,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B1/04": {
+      "code": "B30B1/04",
+      "level": 2,
+      "parent": "B30B1/02",
+      "ja": "手または足で作動されるもの",
+      "en": "operated by hand or foot",
+      "count": 568,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B1/06": {
+      "code": "B30B1/06",
+      "level": 2,
+      "parent": "B30B1/02",
+      "ja": "カム，扁心機構，またはクランクによって作動されるもの",
+      "en": "operated by cams, eccentrics, or cranks",
+      "count": 654,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B1/08": {
+      "code": "B30B1/08",
+      "level": 2,
+      "parent": "B30B1/02",
+      "ja": "流体圧力機構によって作動されるもの",
+      "en": "operated by fluid-pressure means",
+      "count": 312,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B1/10": {
+      "code": "B30B1/10",
+      "level": 1,
+      "parent": "B30B1/00",
+      "ja": "トッグル機構によるもの",
+      "en": "by toggle mechanism",
+      "count": 898,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B1/12": {
+      "code": "B30B1/12",
+      "level": 2,
+      "parent": "B30B1/10",
+      "ja": "手または足で作動されるもの",
+      "en": "operated by hand or foot",
+      "count": 212,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B1/14": {
+      "code": "B30B1/14",
+      "level": 2,
+      "parent": "B30B1/10",
+      "ja": "カム，扁心またはクランク機構によって作動されるもの",
+      "en": "operated by cams, eccentrics, or cranks",
+      "count": 1149,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B1/16": {
+      "code": "B30B1/16",
+      "level": 2,
+      "parent": "B30B1/10",
+      "ja": "流体圧力機構によって作動されるもの",
+      "en": "operated by fluid-pressure means",
+      "count": 482,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B1/18": {
+      "code": "B30B1/18",
+      "level": 1,
+      "parent": "B30B1/00",
+      "ja": "ねじ機構によるもの",
+      "en": "by screw means",
+      "count": 2637,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B1/20": {
+      "code": "B30B1/20",
+      "level": 2,
+      "parent": "B30B1/18",
+      "ja": "手で駆動されるもの",
+      "en": "driven by hand",
+      "count": 325,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B1/22": {
+      "code": "B30B1/22",
+      "level": 2,
+      "parent": "B30B1/18",
+      "ja": "摩擦円板を介して駆動されるもの",
+      "en": "driven through friction disc means",
+      "count": 542,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B1/23": {
+      "code": "B30B1/23",
+      "level": 2,
+      "parent": "B30B1/18",
+      "ja": "流体圧力手段によって作動されるもの［２］",
+      "en": "operated by fluid-pressure means",
+      "count": 217,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B1/24": {
+      "code": "B30B1/24",
+      "level": 1,
+      "parent": "B30B1/00",
+      "ja": "ラックーピニオン機構によるもの",
+      "en": "by rack-and-pinion means",
+      "count": 579,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B1/26": {
+      "code": "B30B1/26",
+      "level": 1,
+      "parent": "B30B1/00",
+      "ja": "カム，扁心またはクランク機構によるもの",
+      "en": "by cams, eccentrics, or cranks",
+      "count": 5112,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B1/28": {
+      "code": "B30B1/28",
+      "level": 2,
+      "parent": "B30B1/26",
+      "ja": "カム，クランクまたは扁心機構を下部圧盤またはテーブルの下に設け，上部圧盤またはスライドを引おろすもの",
+      "en": "the cam, crank, or eccentric being disposed below the lower platen or table and operating to pull down the upper platen or slide",
+      "count": 287,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B1/30": {
+      "code": "B30B1/30",
+      "level": 1,
+      "parent": "B30B1/00",
+      "ja": "チェーンまたはロープの牽引力によるもの",
+      "en": "by the pull of chains or ropes",
+      "count": 147,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B1/32": {
+      "code": "B30B1/32",
+      "level": 1,
+      "parent": "B30B1/00",
+      "ja": "流体圧力によって作動されるプランジャによるもの",
+      "en": "by plungers under fluid pressure",
+      "count": 8603,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B1/34": {
+      "code": "B30B1/34",
+      "level": 2,
+      "parent": "B30B1/32",
+      "ja": "圧盤に作用するプランジャが多数あるもの（気体圧で作動させるものＢ３０Ｂ１／３８）",
+      "en": "involving a plurality of plungers acting on the platen(gas operated <b>B30B1/38</b>)",
+      "count": 1106,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B1/36": {
+      "code": "B30B1/36",
+      "level": 2,
+      "parent": "B30B1/32",
+      "ja": "テレスコープ式プランジャを有するもの（気体圧力で作動させるものＢ３０Ｂ１／３８）",
+      "en": "having telescoping plungers(gas operated <b>B30B1/38</b>)",
+      "count": 239,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B1/38": {
+      "code": "B30B1/38",
+      "level": 2,
+      "parent": "B30B1/32",
+      "ja": "気体，例．蒸気，空気，の圧力でプランジャが作動されるもの",
+      "en": "wherein the plungers are operated by pressure of a gas, e.g. steam, air",
+      "count": 1984,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B1/40": {
+      "code": "B30B1/40",
+      "level": 1,
+      "parent": "B30B1/00",
+      "ja": "くさび機構によるもの",
+      "en": "by wedge means",
+      "count": 278,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B1/42": {
+      "code": "B30B1/42",
+      "level": 1,
+      "parent": "B30B1/00",
+      "ja": "磁気手段，例．電磁石，によるもの［２］",
+      "en": "by magnetic means, e.g. electromagnetic",
+      "count": 496,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B3/00": {
+      "code": "B30B3/00",
+      "level": 0,
+      "parent": "B30B",
+      "ja": "回転プレス機構，例．ローラ，リング，円盤，の使用を特徴とするもの",
+      "en": "Presses characterised by the use of rotary pressing members, e.g. rollers, rings, discs",
+      "count": 2909,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B3/02": {
+      "code": "B30B3/02",
+      "level": 1,
+      "parent": "B30B3/00",
+      "ja": "固定部材と協働するもの",
+      "en": "co-operating with a fixed member",
+      "count": 372,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B3/04": {
+      "code": "B30B3/04",
+      "level": 1,
+      "parent": "B30B3/00",
+      "ja": "互に協働するもの，例．協働する円錐をもつもの",
+      "en": "co-operating with one another, e.g. with co-operating cones",
+      "count": 1764,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B3/06": {
+      "code": "B30B3/06",
+      "level": 2,
+      "parent": "B30B3/04",
+      "ja": "一方が他方の中に配置されているもの，例．ローラが回転リングの中に配置され，そのリングの内面と協働するもの",
+      "en": "arranged one within another, e.g. with a roller disposed within a rotating ring and co-operating with the inner surface thereof",
+      "count": 110,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B5/00": {
+      "code": "B30B5/00",
+      "level": 0,
+      "parent": "B30B",
+      "ja": "グループＢ３０Ｂ１／００およびＢ３０Ｂ３／００の記載以外のプレス手段の使用を特徴とするプレス",
+      "en": "Presses characterised by the use of pressing means other than those mentioned in groups <b>B30B1/00</b> and <b>B30B3/00</b>",
+      "count": 534,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B5/02": {
+      "code": "B30B5/02",
+      "level": 1,
+      "parent": "B30B5/00",
+      "ja": "プレス手段が流体圧によって作動される弾性要素，例．ダイヤフラム，の形をしているもの［２］",
+      "en": "wherein the pressing means is in the form of a flexible element, e.g. diaphragm, urged by fluid pressure",
+      "count": 1299,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B5/04": {
+      "code": "B30B5/04",
+      "level": 1,
+      "parent": "B30B5/00",
+      "ja": "プレス手段が無端帯の形をしているもの",
+      "en": "wherein the pressing means is in the form of an endless band",
+      "count": 383,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B5/06": {
+      "code": "B30B5/06",
+      "level": 2,
+      "parent": "B30B5/04",
+      "ja": "他の無端帯と協働するもの",
+      "en": "co-operating with another endless band",
+      "count": 1283,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B7/00": {
+      "code": "B30B7/00",
+      "level": 0,
+      "parent": "B30B",
+      "ja": "プレス部材の特別な配列を特徴とするもの",
+      "en": "Presses characterised by a particular arrangement of the pressing members",
+      "count": 566,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B7/02": {
+      "code": "B30B7/02",
+      "level": 1,
+      "parent": "B30B7/00",
+      "ja": "上下に数枚の圧盤を設けたもの",
+      "en": "having several platens arranged one above the other",
+      "count": 1089,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B7/04": {
+      "code": "B30B7/04",
+      "level": 1,
+      "parent": "B30B7/00",
+      "ja": "プレス圧力が同時または順次に異なる方向へ作用するもの",
+      "en": "wherein pressing is effected in different directions simultaneously or in turn",
+      "count": 740,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B9/00": {
+      "code": "B30B9/00",
+      "level": 0,
+      "parent": "B30B",
+      "ja": "特殊な目的に特に適用するプレス",
+      "en": "Presses specially adapted for particular purposes",
+      "count": 5330,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B9/02": {
+      "code": "B30B9/02",
+      "level": 1,
+      "parent": "B30B9/00",
+      "ja": "液体含有物から液体を絞り出すためのもの，例．果物からジュースを，含油物質から油をとるもの（台所用具Ａ４７Ｊ；ろ過，例．ろ過要素を有するプレスを使用して液体から固体をろ過，Ｂ０１Ｄ；織物または洗たく物から水を取るものＤ０６Ｃ，Ｄ０６Ｆ；乾燥Ｆ２６）",
+      "en": "for squeezing-out liquid from liquid-containing material, e.g. juice from fruits, oil from oil-containing material(kitchen equipment <b>A47J</b>; filtering, e.g. straining solids from liquids, using presses in combination with filtering elements <b>B01D</b>; expelling water from textile fabrics or laundry <b>D06C</b>, <b>D06F</b>; drying <b>F26</b>)",
+      "count": 2764,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B9/04": {
+      "code": "B30B9/04",
+      "level": 2,
+      "parent": "B30B9/02",
+      "ja": "プレス用ラムを使用するもの",
+      "en": "using press rams",
+      "count": 3480,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B9/06": {
+      "code": "B30B9/06",
+      "level": 3,
+      "parent": "B30B9/04",
+      "ja": "透過性容器またはろ過器と協働するもの",
+      "en": "co-operating with permeable casings or strainers",
+      "count": 10682,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B9/08": {
+      "code": "B30B9/08",
+      "level": 3,
+      "parent": "B30B9/04",
+      "ja": "回転容器と協働するもの",
+      "en": "co-operating with a rotary casing",
+      "count": 278,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B9/10": {
+      "code": "B30B9/10",
+      "level": 3,
+      "parent": "B30B9/04",
+      "ja": "容器を使用しないもの",
+      "en": "without use of a casing",
+      "count": 265,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B9/12": {
+      "code": "B30B9/12",
+      "level": 2,
+      "parent": "B30B9/02",
+      "ja": "プレス用ウオームまたはスクリューを透過性容器と協働させるもの",
+      "en": "using pressing worms or screws co-operating with a permeable casing",
+      "count": 3342,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B9/14": {
+      "code": "B30B9/14",
+      "level": 3,
+      "parent": "B30B9/12",
+      "ja": "１つのスクリューまたはウォームで行うもの",
+      "en": "operating with only one screw or worm",
+      "count": 6039,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B9/16": {
+      "code": "B30B9/16",
+      "level": 3,
+      "parent": "B30B9/12",
+      "ja": "２つまたはそれ以上のスクリューまたはウォームで行うもの",
+      "en": "operating with two or more screws or worms",
+      "count": 1059,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B9/18": {
+      "code": "B30B9/18",
+      "level": 3,
+      "parent": "B30B9/12",
+      "ja": "固体排出口を調節する装置を有するもの",
+      "en": "with means for adjusting the outlet for the solid",
+      "count": 674,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B9/20": {
+      "code": "B30B9/20",
+      "level": 2,
+      "parent": "B30B9/02",
+      "ja": "ウォームまたはスクリュー以外の回転プレス部材，例．ローラ，リング，円盤，を有するもの",
+      "en": "using rotary pressing members, other than worms or screws, e.g. rollers, rings, discs",
+      "count": 4404,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B9/22": {
+      "code": "B30B9/22",
+      "level": 2,
+      "parent": "B30B9/02",
+      "ja": "流体圧によって作動される弾性要素，例．ダイヤフラム，を使用するもの（膨張可能な弾性体への弁の取付けＢ６０Ｃ２９／００）［３］",
+      "en": "using a flexible element, e.g. diaphragm, urged by fluid pressure(connection of valves to inflatable elastic bodies <b>B60C29/00</b>)",
+      "count": 787,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B9/24": {
+      "code": "B30B9/24",
+      "level": 2,
+      "parent": "B30B9/02",
+      "ja": "無端帯を使用するもの",
+      "en": "using an endless pressing band",
+      "count": 2417,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B9/26": {
+      "code": "B30B9/26",
+      "level": 2,
+      "parent": "B30B9/02",
+      "ja": "透過性容器またはろ過器",
+      "en": "Permeable casings or strainers",
+      "count": 6072,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B9/28": {
+      "code": "B30B9/28",
+      "level": 1,
+      "parent": "B30B9/00",
+      "ja": "形状をもった物品に成形するもの（粉状，粒状，のり状物質から成形するもの，例．ブリケットプレスＢ３０Ｂ１１／００）",
+      "en": "for forming shaped articles(from material in powder, granular, or paste form, e.g. briquetting presses, <b>B30B11/00</b>)",
+      "count": 3637,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B9/30": {
+      "code": "B30B9/30",
+      "level": 1,
+      "parent": "B30B9/00",
+      "ja": "梱包用；それに用いる圧縮箱（乾草，わら等の梱包Ａ０１Ｆ）",
+      "en": "for baling; Compression boxes therefor(baling hay, straw, or the like <b>A01F</b>)",
+      "count": 15311,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B9/32": {
+      "code": "B30B9/32",
+      "level": 1,
+      "parent": "B30B9/00",
+      "ja": "スクラップ金属の押し固めまたは中古車の稠密化のためのもの",
+      "en": "for consolidating scrap metal or for compacting used cars",
+      "count": 10122,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B11/00": {
+      "code": "B30B11/00",
+      "level": 0,
+      "parent": "B30B",
+      "ja": "粉体状または可塑状態の材料から特定形状物品を作るために特に適合したプレス，例．ブリケットプレス，タブレットプレス（生地形どりの装置Ａ２１Ｃ３／００，Ａ２１Ｃ１１／００；粘土またはセメントを含む混合物の形成用装置Ｂ２８Ｂ；プラスチックまたは可塑状態の物質の形成用装置Ｂ２９，例．圧縮成形用装置Ｂ２９Ｃ４３／００，押出成形用装置Ｂ２９Ｃ４８／００）［２００６．０１］",
+      "en": "Presses specially adapted for forming shaped articles from material in particulate or plastic state, e.g. briquetting presses or tabletting presses(apparatus for forming or shaping of dough <b>A21C3/00</b>, <b>A21C11/00</b>;  apparatus for shaping clay or mixtures containing cement <b>B28B</b>;  apparatus for shaping of plastic or substances in a plastic state <b>B29</b>, e.g. for compression moulding <b>B29C43/00</b>, for extrusion moulding <b>B29C48/00</b>)",
+      "count": 7309,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B11/02": {
+      "code": "B30B11/02",
+      "level": 1,
+      "parent": "B30B11/00",
+      "ja": "モールド内の材料を押圧するためのラムを使用するもの［２００６．０１］",
+      "en": "using a ram exerting pressure on the material in a moulding space",
+      "count": 5535,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B11/04": {
+      "code": "B30B11/04",
+      "level": 2,
+      "parent": "B30B11/02",
+      "ja": "固定したモールドと協働するもの［２００６．０１］",
+      "en": "co-operating with a fixed mould",
+      "count": 5444,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B11/06": {
+      "code": "B30B11/06",
+      "level": 3,
+      "parent": "B30B11/04",
+      "ja": "材料の各チャージが前に成形された成形体に対し圧縮されるもの［２００６．０１］",
+      "en": "each charge of the material being compressed against the previously formed body",
+      "count": 994,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B11/08": {
+      "code": "B30B11/08",
+      "level": 2,
+      "parent": "B30B11/02",
+      "ja": "回転台によって運ばれるモールドと協働するもの［２００６．０１］",
+      "en": "co-operating with moulds carried by a turn-table",
+      "count": 2886,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B11/10": {
+      "code": "B30B11/10",
+      "level": 3,
+      "parent": "B30B11/08",
+      "ja": "回転台が間欠的に回転するもの［２００６．０１］",
+      "en": "intermittently rotated",
+      "count": 781,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B11/12": {
+      "code": "B30B11/12",
+      "level": 2,
+      "parent": "B30B11/02",
+      "ja": "回転ドラムの円周上にあるモールドと協働するもの［２００６．０１］",
+      "en": "co-operating with moulds on the circumference of a rotating drum",
+      "count": 580,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B11/14": {
+      "code": "B30B11/14",
+      "level": 2,
+      "parent": "B30B11/02",
+      "ja": "回転台または回転ドラム以外の可動搬送台上のモールドと協働するもの［２００６．０１］",
+      "en": "co-operating with moulds on a movable carrier other than a turn-table or a rotating drum",
+      "count": 936,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B11/16": {
+      "code": "B30B11/16",
+      "level": 1,
+      "parent": "B30B11/00",
+      "ja": "穴付ローラを使用するもの，例．２つの穴付ローラが協働するもの［２００６．０１］",
+      "en": "using pocketed rollers, e.g. two co-operating pocketed rollers",
+      "count": 1384,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B11/18": {
+      "code": "B30B11/18",
+      "level": 1,
+      "parent": "B30B11/00",
+      "ja": "周面に形状を施してあるローラを用いるもの［２００６．０１］",
+      "en": "using profiled rollers",
+      "count": 1186,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B11/20": {
+      "code": "B30B11/20",
+      "level": 1,
+      "parent": "B30B11/00",
+      "ja": "ローラ・リング機械，すなわち，リングの中にローラを配置し，リングの内面と協働させるもの［２００６．０１］",
+      "en": "Roller-and-ring machines, i.e. with roller disposed within a ring and co-operating with the inner surface of the ring",
+      "count": 1422,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B11/22": {
+      "code": "B30B11/22",
+      "level": 1,
+      "parent": "B30B11/00",
+      "ja": "押出しプレス；それに用いるダイス（ローラ・リング機械を用いる押出しＢ３０Ｂ１１／２０）［２００６．０１］",
+      "en": "Extrusion presses; Dies therefor(extruding by the use of roller-and-ring machines <b>B30B11/20</b>)",
+      "count": 3998,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B11/24": {
+      "code": "B30B11/24",
+      "level": 2,
+      "parent": "B30B11/22",
+      "ja": "スクリューまたはウォームを用いるもの［２００６．０１］",
+      "en": "using screws or worms",
+      "count": 2491,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B11/26": {
+      "code": "B30B11/26",
+      "level": 2,
+      "parent": "B30B11/22",
+      "ja": "プレスラムを用いるもの［２００６．０１］",
+      "en": "using press rams",
+      "count": 1402,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B11/28": {
+      "code": "B30B11/28",
+      "level": 2,
+      "parent": "B30B11/22",
+      "ja": "孔のあるローラまたは円盤を用いるもの［２００６．０１］",
+      "en": "using perforated rollers or discs",
+      "count": 648,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B11/30": {
+      "code": "B30B11/30",
+      "level": 2,
+      "parent": "B30B11/22",
+      "ja": "直接作用する流圧体を用いるもの［２００６．０１］",
+      "en": "using directly-acting fluid pressure",
+      "count": 238,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B11/34": {
+      "code": "B30B11/34",
+      "level": 1,
+      "parent": "B30B11/00",
+      "ja": "物品，例．錠剤，に被覆を施すためのもの［２００６．０１］",
+      "en": "for coating articles, e.g. tablets",
+      "count": 552,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B12/00": {
+      "code": "B30B12/00",
+      "level": 0,
+      "parent": "B30B",
+      "ja": "グループＢ３０Ｂ１／００～Ｂ３０Ｂ１１／００に分類されないプレス［２］",
+      "en": "Presses not provided for in groups <b>B30B1/00 to B30B11/00</b> ",
+      "count": 1029,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B13/00": {
+      "code": "B30B13/00",
+      "level": 0,
+      "parent": "B30B",
+      "ja": "先行メイングループＢ３０Ｂ１／００～Ｂ３０Ｂ１２／００のどのプレスの使用にも限定されないプレス方法［２］",
+      "en": "Methods of pressing not special to the use of presses of any one of the preceding main groups <b>B30B1/00 to B30B12/00</b> ",
+      "count": 2471,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B15/00": {
+      "code": "B30B15/00",
+      "level": 0,
+      "parent": "B30B",
+      "ja": "プレス機の細部または付属具；プレス加工に関連する補助的手段（安全装置Ｆ１６Ｐ）",
+      "en": "Details of, or accessories for, presses; Auxiliary measures in connection with pressing(safety devices <b>F16P</b>)",
+      "count": 42070,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B15/02": {
+      "code": "B30B15/02",
+      "level": 1,
+      "parent": "B30B15/00",
+      "ja": "ダイス；そのための挿入片；据付装置；モールド（押出しダイスＢ３０Ｂ１１／２２）",
+      "en": "Dies; Inserts therefor or mountings thereof; Moulds (extrusion dies <b>B30B11/22</b>)",
+      "count": 18675,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B15/04": {
+      "code": "B30B15/04",
+      "level": 1,
+      "parent": "B30B15/00",
+      "ja": "フレーム；案内装置",
+      "en": "Frames; Guides",
+      "count": 6905,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B15/06": {
+      "code": "B30B15/06",
+      "level": 1,
+      "parent": "B30B15/00",
+      "ja": "圧盤またはプレスラム",
+      "en": "Platens or press rams",
+      "count": 6979,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B15/08": {
+      "code": "B30B15/08",
+      "level": 1,
+      "parent": "B30B15/00",
+      "ja": "付属工具，例．ナイフ；付属工具の取付装置",
+      "en": "Accessory tools, e.g. knives; Mountings therefor",
+      "count": 2972,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B15/10": {
+      "code": "B30B15/10",
+      "level": 1,
+      "parent": "B30B15/00",
+      "ja": "プレスに特に適用するブレーキ",
+      "en": "Brakes specially adapted for presses",
+      "count": 1222,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B15/12": {
+      "code": "B30B15/12",
+      "level": 1,
+      "parent": "B30B15/00",
+      "ja": "プレスに特に適用するクラッチ",
+      "en": "Clutches specially adapted for presses",
+      "count": 920,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B15/14": {
+      "code": "B30B15/14",
+      "level": 1,
+      "parent": "B30B15/00",
+      "ja": "機械的に駆動されるプレスのための制御装置",
+      "en": "Control arrangements for mechanically-driven presses",
+      "count": 4026,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B15/16": {
+      "code": "B30B15/16",
+      "level": 1,
+      "parent": "B30B15/00",
+      "ja": "流体で駆動されるプレスのための制御装置（ポンプそれ自体Ｆ０４；流体蓄圧器それ自体Ｆ１５Ｂ；バルブそれ自体Ｆ１６Ｋ）",
+      "en": "Control arrangements for fluid-driven presses(pumps <u>per se</u><b>F04</b>; hydraulic accumulators <u>per se</u><b>F15B</b>; valves <u>per se</u><b>F16K</b>)",
+      "count": 4986,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B15/18": {
+      "code": "B30B15/18",
+      "level": 2,
+      "parent": "B30B15/16",
+      "ja": "ラムの往復動を制御するもの",
+      "en": "controlling the reciprocating motion of the ram",
+      "count": 1256,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B15/20": {
+      "code": "B30B15/20",
+      "level": 3,
+      "parent": "B30B15/18",
+      "ja": "ラムの速度，例．接近，プレス加工または戻りのストロークの速度，を制御するもの",
+      "en": "controlling the speed of the ram, e.g. the speed of the approach, pressing or return strokes",
+      "count": 753,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B15/22": {
+      "code": "B30B15/22",
+      "level": 2,
+      "parent": "B30B15/16",
+      "ja": "プレス加工のストローク中，ラムによって与えられる圧力の度合を制御するもの",
+      "en": "controlling the degree of pressure applied by the ram during the pressing stroke",
+      "count": 1276,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B15/24": {
+      "code": "B30B15/24",
+      "level": 2,
+      "parent": "B30B15/16",
+      "ja": "圧盤またはプレス用ビームの平行運動を維持するための複数個の作動部材の運動を制御するもの",
+      "en": "controlling the movement of a plurality of actuating members to maintain parallel movement of the platen or press beam",
+      "count": 831,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B15/26": {
+      "code": "B30B15/26",
+      "level": 1,
+      "parent": "B30B15/00",
+      "ja": "プログラム制御装置［２００６．０１］",
+      "en": "Program-control arrangements",
+      "count": 3450,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B15/28": {
+      "code": "B30B15/28",
+      "level": 1,
+      "parent": "B30B15/00",
+      "ja": "プレス機またはその部品のねじれ，損傷を防止する機構",
+      "en": "Arrangements for preventing distortion of, or damage to, presses or parts thereof",
+      "count": 6850,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B15/30": {
+      "code": "B30B15/30",
+      "level": 1,
+      "parent": "B30B15/00",
+      "ja": "プレス機への材料送り",
+      "en": "Feeding material to presses",
+      "count": 21163,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B15/32": {
+      "code": "B30B15/32",
+      "level": 1,
+      "parent": "B30B15/00",
+      "ja": "プレス機からの排出",
+      "en": "Discharging presses",
+      "count": 17512,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    },
+    "B30B15/34": {
+      "code": "B30B15/34",
+      "level": 1,
+      "parent": "B30B15/00",
+      "ja": "プレス機またはその部品の加熱または冷却",
+      "en": "Heating or cooling presses or parts thereof",
+      "count": 7320,
+      "sourceFile": "ipc_B30B.txt",
+      "kind": "ipc"
+    }
+  }
+};

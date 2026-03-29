@@ -1,0 +1,776 @@
+{
+  "generatedAt": "2026-03-20T02:17:46.660Z",
+  "total": 77,
+  "entries": {
+    "E02B": {
+      "code": "E02B",
+      "level": 0,
+      "parent": "E02",
+      "ja": "水工（船舶のリフトＥ０２Ｃ；しゅんせつＥ０２Ｆ）<br><br><b><ul>サブクラス内の索引</ul></b><br>方法および装置一般　１／００，３／００<br>人工の水路　５／００<br>ダムまたはせき　７／００，８／００<br>水力発電所　９／００<br>排水；かんがい；開放水面の清掃　１１／００；１３／００；１５／００<br>杭または類似の支持物上の人工島　１７／００",
+      "en": "HYDRAULIC ENGINEERING(ship-lifting <b>E02C</b>; dredging <b>E02F</b>);<br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">METHODS AND EQUIPMENT IN GENERAL </td><td><b><b>1/00</b>, <b>3/00</b></b></td></tr></tr><tr><td width=\"70%\">ARTIFICIAL WATER CANALS </td><td><b><b>5/00</b></b></td></tr></tr><tr><td width=\"70%\">BARRAGES OR WEIRS </td><td><b><b>7/00</b>, <b>8/00</b></b></td></tr></tr><tr><td width=\"70%\">WATER-POWER PLANTS </td><td><b><b>9/00</b></b></td></tr></tr><tr><td width=\"70%\">DRAINAGE; IRRIGATION; CLEANING OF SURFACE OF OPEN WATER </td><td><b><b>11/00</b>; <b>13/00</b>; <b>15/00</b></b></td></tr></tr><tr><td width=\"70%\">ARTIFICIAL ISLANDS MOUNTED ON PILES OR LIKE SUPPORTS </td><td><b><b>17/00</b></b></td></tr></tr></table>",
+      "count": 2120,
+      "sourceFile": "ipc_E.txt",
+      "kind": "ipc"
+    },
+    "E02": {
+      "code": "E02",
+      "level": 0,
+      "parent": "E",
+      "ja": "水工；基礎；土砂の移送",
+      "en": "HYDRAULIC ENGINEERING; FOUNDATIONS; SOIL-SHIFTING",
+      "count": 0,
+      "sourceFile": "ipc_E.txt",
+      "kind": "ipc"
+    },
+    "E": {
+      "code": "E",
+      "level": 0,
+      "parent": null,
+      "ja": "固定構造物",
+      "en": "FIXED CONSTRUCTIONS",
+      "count": 0,
+      "sourceFile": "ipc_E.txt",
+      "kind": "ipc"
+    },
+    "E02B1/00": {
+      "code": "E02B1/00",
+      "level": 0,
+      "parent": "E02B",
+      "ja": "水工一般についての設備または装置あるいは方法",
+      "en": "Equipment or apparatus for, or methods of, general hydraulic engineering",
+      "count": 9392,
+      "sourceFile": "ipc_E02B.txt",
+      "kind": "ipc"
+    },
+    "E02B1/02": {
+      "code": "E02B1/02",
+      "level": 1,
+      "parent": "E02B1/00",
+      "ja": "水理模型",
+      "en": "Hydraulic models",
+      "count": 2093,
+      "sourceFile": "ipc_E02B.txt",
+      "kind": "ipc"
+    },
+    "E02B3/00": {
+      "code": "E02B3/00",
+      "level": 0,
+      "parent": "E02B",
+      "ja": "河川，海岸またはその他海域の管理または利用に関する工事（ダムまたはせきＥ０２Ｂ７／００）；工事のためのシールまたはジョイント一般",
+      "en": "Engineering work in connection with control or use of streams, rivers, coasts, or other marine sites(barrages or weirs <b>E02B7/00</b>);Sealings or joints for engineering work in general",
+      "count": 4062,
+      "sourceFile": "ipc_E02B.txt",
+      "kind": "ipc"
+    },
+    "E02B3/02": {
+      "code": "E02B3/02",
+      "level": 1,
+      "parent": "E02B3/00",
+      "ja": "水流の調整，例．水中岩石の破壊，水路床の清掃，導流（しゅんせつまたはかき取り装置Ｅ０２Ｆ）",
+      "en": "Stream regulation, e.g. breaking up subaqueous rock, cleaning the beds of waterways, directing the water flow(dredging or scraping devices <b>E02F</b>)",
+      "count": 5056,
+      "sourceFile": "ipc_E02B.txt",
+      "kind": "ipc"
+    },
+    "E02B3/04": {
+      "code": "E02B3/04",
+      "level": 1,
+      "parent": "E02B3/00",
+      "ja": "堤防，海岸または港湾を保護する構造物，装置または方法（シールまたはジョイントＥ０２Ｂ３／１６）",
+      "en": "Structures or apparatus for, or methods of, protecting banks, coasts, or harbours(sealings or joints <b>E02B3/16</b>)",
+      "count": 6920,
+      "sourceFile": "ipc_E02B.txt",
+      "kind": "ipc"
+    },
+    "E02B3/06": {
+      "code": "E02B3/06",
+      "level": 2,
+      "parent": "E02B3/04",
+      "ja": "突堤；桟橋；ふ頭；岸壁；水制；防波堤",
+      "en": "Moles; Piers; Quays; Quay walls; Groynes; Breakwaters",
+      "count": 18629,
+      "sourceFile": "ipc_E02B.txt",
+      "kind": "ipc"
+    },
+    "E02B3/08": {
+      "code": "E02B3/08",
+      "level": 3,
+      "parent": "E02B3/06",
+      "ja": "杭を有するまたは有しない捨石構造物（杭Ｅ０２Ｄ５／００）",
+      "en": "Structures of loose stones with or without piles(piles <b>E02D5/00</b>)",
+      "count": 1753,
+      "sourceFile": "ipc_E02B.txt",
+      "kind": "ipc"
+    },
+    "E02B3/10": {
+      "code": "E02B3/10",
+      "level": 2,
+      "parent": "E02B3/04",
+      "ja": "えん堤；堤防；水門または堤防，えん堤あるいはそれらに類似するその他の構造物（堤防またはえん堤の築造一般Ｅ０２Ｄ１７／１８）",
+      "en": "Dams; Dykes; Sluice ways or other structures for dykes, dams, or the like(making embankments or dams in general <b>E02D17/18</b>)",
+      "count": 12498,
+      "sourceFile": "ipc_E02B.txt",
+      "kind": "ipc"
+    },
+    "E02B3/12": {
+      "code": "E02B3/12",
+      "level": 2,
+      "parent": "E02B3/04",
+      "ja": "堤防，えん堤，水路またはその類似のものの護岸（斜面の護岸一般Ｅ０２Ｄ１７／２０）",
+      "en": "Revetment of banks, dams, watercourses, or the like(of slopes in general <b>E02D17/20</b>)",
+      "count": 27445,
+      "sourceFile": "ipc_E02B.txt",
+      "kind": "ipc"
+    },
+    "E02B3/14": {
+      "code": "E02B3/14",
+      "level": 3,
+      "parent": "E02B3/12",
+      "ja": "既製ブロック：その配置",
+      "en": "Preformed blocks; Arrangements thereof",
+      "count": 13996,
+      "sourceFile": "ipc_E02B.txt",
+      "kind": "ipc"
+    },
+    "E02B3/16": {
+      "code": "E02B3/16",
+      "level": 1,
+      "parent": "E02B3/00",
+      "ja": "シールまたはジョイント（基礎構造物の接合Ｅ０２Ｄ２９／１６；水工用に限定されない水密継ぎ手Ｅ０４Ｂ１／６８）",
+      "en": "Sealings or joints(joints for foundation structures <b>E02D29/16</b>; sealing joints not restricted to hydraulic engineering work <b>E04B1/68</b>)",
+      "count": 11358,
+      "sourceFile": "ipc_E02B.txt",
+      "kind": "ipc"
+    },
+    "E02B3/18": {
+      "code": "E02B3/18",
+      "level": 1,
+      "parent": "E02B3/00",
+      "ja": "水面からの土地造成（土壌の排水Ｅ０２Ｂ１１／００）",
+      "en": "Reclamation of land from water(drainage of soil <b>E02B11/00</b>)",
+      "count": 2096,
+      "sourceFile": "ipc_E02B.txt",
+      "kind": "ipc"
+    },
+    "E02B3/20": {
+      "code": "E02B3/20",
+      "level": 1,
+      "parent": "E02B3/00",
+      "ja": "海岸，港湾またはその他の固定海洋構造物のための船舶用設備，例．ボラード（錨泊Ｂ６３Ｂ２１／００，例．船舶用ボラードＢ６３Ｂ２１／０６；ブイＢ６３Ｂ２２／００）［５］",
+      "en": "Equipment for shipping on coasts, in harbours or on other fixed marine structures, e.g. bollards(tying-up, anchoring <b>B63B21/00</b>, e.g. bollards for shipping <b>B63B21/06</b>; buoys <b>B63B22/00</b>)",
+      "count": 1981,
+      "sourceFile": "ipc_E02B.txt",
+      "kind": "ipc"
+    },
+    "E02B3/24": {
+      "code": "E02B3/24",
+      "level": 2,
+      "parent": "E02B3/20",
+      "ja": "係船柱［５］",
+      "en": "Mooring posts",
+      "count": 1167,
+      "sourceFile": "ipc_E02B.txt",
+      "kind": "ipc"
+    },
+    "E02B3/26": {
+      "code": "E02B3/26",
+      "level": 2,
+      "parent": "E02B3/20",
+      "ja": "防舷材（船体の一部分としての防舷材または特に船舶に適用される防舷材Ｂ６３Ｂ５９／０２）［５］",
+      "en": "Fenders(fenders integral with waterborne vessels or specially adapted therefor <b>B63B59/02</b>)",
+      "count": 6508,
+      "sourceFile": "ipc_E02B.txt",
+      "kind": "ipc"
+    },
+    "E02B3/28": {
+      "code": "E02B3/28",
+      "level": 2,
+      "parent": "E02B3/20",
+      "ja": "防舷杭［５］",
+      "en": "Fender piles",
+      "count": 420,
+      "sourceFile": "ipc_E02B.txt",
+      "kind": "ipc"
+    },
+    "E02B5/00": {
+      "code": "E02B5/00",
+      "level": 0,
+      "parent": "E02B",
+      "ja": "人工の水路（水力発電所用Ｅ０２Ｂ９／０２；土壌へのかんがい用Ｅ０２Ｂ１３／００）",
+      "en": "Artificial water canals(for water-power plants <b>E02B9/02</b>; irrigation of soil <b>E02B13/00</b>)",
+      "count": 4176,
+      "sourceFile": "ipc_E02B.txt",
+      "kind": "ipc"
+    },
+    "E02B5/02": {
+      "code": "E02B5/02",
+      "level": 1,
+      "parent": "E02B5/00",
+      "ja": "水路の築造またはライニング",
+      "en": "Making or lining canals",
+      "count": 6517,
+      "sourceFile": "ipc_E02B.txt",
+      "kind": "ipc"
+    },
+    "E02B5/04": {
+      "code": "E02B5/04",
+      "level": 1,
+      "parent": "E02B5/00",
+      "ja": "可航水路",
+      "en": "Navigable canals",
+      "count": 194,
+      "sourceFile": "ipc_E02B.txt",
+      "kind": "ipc"
+    },
+    "E02B5/06": {
+      "code": "E02B5/06",
+      "level": 2,
+      "parent": "E02B5/04",
+      "ja": "水路に関連した操作設備（船舶リフト装置Ｅ０２Ｃ）",
+      "en": "Operating equipment in connection with canals(ship-lifting devices <b>E02C</b>)",
+      "count": 147,
+      "sourceFile": "ipc_E02B.txt",
+      "kind": "ipc"
+    },
+    "E02B5/08": {
+      "code": "E02B5/08",
+      "level": 1,
+      "parent": "E02B5/00",
+      "ja": "細部，例．ゲート，スクリーン",
+      "en": "Details, e.g. gates, screens",
+      "count": 11690,
+      "sourceFile": "ipc_E02B.txt",
+      "kind": "ipc"
+    },
+    "E02B7/00": {
+      "code": "E02B7/00",
+      "level": 0,
+      "parent": "E02B",
+      "ja": "ダムまたはせき；レイアウト，建設，建造の方法または装置（堤防，海岸または港湾の保護のためのものＥ０２Ｂ３／０４；シールまたはジョイントＥ０２Ｂ３／１６；水工用建造物または資材の取り扱いＥ０２Ｄ１５／００；基礎一般Ｅ０２Ｄ２７／００）",
+      "en": "Barrages or weirs; Layout, construction, methods of, or devices for, making same(for protecting banks, coasts, or harbours <b>E02B3/04</b>; sealings or joints <b>E02B3/16</b>; handling building or like materials for hydraulic engineering <b>E02D15/00</b>; foundations in general <b>E02D27/00</b>)",
+      "count": 4986,
+      "sourceFile": "ipc_E02B.txt",
+      "kind": "ipc"
+    },
+    "E02B7/02": {
+      "code": "E02B7/02",
+      "level": 1,
+      "parent": "E02B7/00",
+      "ja": "固定ダム",
+      "en": "Fixed barrages",
+      "count": 3478,
+      "sourceFile": "ipc_E02B.txt",
+      "kind": "ipc"
+    },
+    "E02B7/04": {
+      "code": "E02B7/04",
+      "level": 2,
+      "parent": "E02B7/02",
+      "ja": "峡谷のダム",
+      "en": "Dams across valleys",
+      "count": 415,
+      "sourceFile": "ipc_E02B.txt",
+      "kind": "ipc"
+    },
+    "E02B7/06": {
+      "code": "E02B7/06",
+      "level": 3,
+      "parent": "E02B7/04",
+      "ja": "アースダム；ロックフィルダム",
+      "en": "Earth-fill dams; Rock-fill dams",
+      "count": 3396,
+      "sourceFile": "ipc_E02B.txt",
+      "kind": "ipc"
+    },
+    "E02B7/08": {
+      "code": "E02B7/08",
+      "level": 3,
+      "parent": "E02B7/04",
+      "ja": "壁状ダム",
+      "en": "Wall dams",
+      "count": 556,
+      "sourceFile": "ipc_E02B.txt",
+      "kind": "ipc"
+    },
+    "E02B7/10": {
+      "code": "E02B7/10",
+      "level": 4,
+      "parent": "E02B7/08",
+      "ja": "重力ダム，すなわち構造物の重量によって転倒を防ぐもの",
+      "en": "Gravity dams, i.e. those in which the weight of the structure prevents overturning",
+      "count": 660,
+      "sourceFile": "ipc_E02B.txt",
+      "kind": "ipc"
+    },
+    "E02B7/12": {
+      "code": "E02B7/12",
+      "level": 4,
+      "parent": "E02B7/08",
+      "ja": "アーチダム",
+      "en": "Arch dams",
+      "count": 407,
+      "sourceFile": "ipc_E02B.txt",
+      "kind": "ipc"
+    },
+    "E02B7/14": {
+      "code": "E02B7/14",
+      "level": 4,
+      "parent": "E02B7/08",
+      "ja": "バットレスダム",
+      "en": "Buttress dams",
+      "count": 242,
+      "sourceFile": "ipc_E02B.txt",
+      "kind": "ipc"
+    },
+    "E02B7/16": {
+      "code": "E02B7/16",
+      "level": 1,
+      "parent": "E02B7/00",
+      "ja": "固定ぜき；そのための上部構造またはせき板",
+      "en": "Fixed weirs; Superstructures or flash-boards therefor",
+      "count": 599,
+      "sourceFile": "ipc_E02B.txt",
+      "kind": "ipc"
+    },
+    "E02B7/18": {
+      "code": "E02B7/18",
+      "level": 2,
+      "parent": "E02B7/16",
+      "ja": "サイフオンぜき",
+      "en": "Siphon weirs",
+      "count": 399,
+      "sourceFile": "ipc_E02B.txt",
+      "kind": "ipc"
+    },
+    "E02B7/20": {
+      "code": "E02B7/20",
+      "level": 1,
+      "parent": "E02B7/00",
+      "ja": "可動ぜき；ロックゲート",
+      "en": "Movable barrages; Lock gates",
+      "count": 13081,
+      "sourceFile": "ipc_E02B.txt",
+      "kind": "ipc"
+    },
+    "E02B7/22": {
+      "code": "E02B7/22",
+      "level": 2,
+      "parent": "E02B7/20",
+      "ja": "角落ダム；非常用ゲート",
+      "en": "Stop log dams; Emergency gates",
+      "count": 841,
+      "sourceFile": "ipc_E02B.txt",
+      "kind": "ipc"
+    },
+    "E02B7/24": {
+      "code": "E02B7/24",
+      "level": 2,
+      "parent": "E02B7/20",
+      "ja": "ニードルぜき",
+      "en": "Needle weirs",
+      "count": 47,
+      "sourceFile": "ipc_E02B.txt",
+      "kind": "ipc"
+    },
+    "E02B7/26": {
+      "code": "E02B7/26",
+      "level": 2,
+      "parent": "E02B7/20",
+      "ja": "バーチカルリフトゲート",
+      "en": "Vertical-lift gates",
+      "count": 7546,
+      "sourceFile": "ipc_E02B.txt",
+      "kind": "ipc"
+    },
+    "E02B7/28": {
+      "code": "E02B7/28",
+      "level": 3,
+      "parent": "E02B7/26",
+      "ja": "スライドゲートを有するもの",
+      "en": "with sliding gates",
+      "count": 2066,
+      "sourceFile": "ipc_E02B.txt",
+      "kind": "ipc"
+    },
+    "E02B7/30": {
+      "code": "E02B7/30",
+      "level": 3,
+      "parent": "E02B7/26",
+      "ja": "ゲート用の案内輪またはローラを有するもの",
+      "en": "with guide wheels or rollers for the gates",
+      "count": 649,
+      "sourceFile": "ipc_E02B.txt",
+      "kind": "ipc"
+    },
+    "E02B7/32": {
+      "code": "E02B7/32",
+      "level": 3,
+      "parent": "E02B7/26",
+      "ja": "シリンダ状または管状ゲート",
+      "en": "Cylindrical or tubular gates",
+      "count": 463,
+      "sourceFile": "ipc_E02B.txt",
+      "kind": "ipc"
+    },
+    "E02B7/34": {
+      "code": "E02B7/34",
+      "level": 3,
+      "parent": "E02B7/26",
+      "ja": "バーチカルリフトゲート用せき板",
+      "en": "Flash-boards for vertical-lift gates",
+      "count": 1792,
+      "sourceFile": "ipc_E02B.txt",
+      "kind": "ipc"
+    },
+    "E02B7/36": {
+      "code": "E02B7/36",
+      "level": 3,
+      "parent": "E02B7/26",
+      "ja": "バーチカルリフトゲート用昇降機構",
+      "en": "Elevating mechanisms for vertical-lift gates",
+      "count": 8581,
+      "sourceFile": "ipc_E02B.txt",
+      "kind": "ipc"
+    },
+    "E02B7/38": {
+      "code": "E02B7/38",
+      "level": 2,
+      "parent": "E02B7/20",
+      "ja": "ローリングゲート",
+      "en": "Rolling gates",
+      "count": 172,
+      "sourceFile": "ipc_E02B.txt",
+      "kind": "ipc"
+    },
+    "E02B7/40": {
+      "code": "E02B7/40",
+      "level": 2,
+      "parent": "E02B7/20",
+      "ja": "旋回または回転ゲート",
+      "en": "Swinging or turning gates",
+      "count": 3577,
+      "sourceFile": "ipc_E02B.txt",
+      "kind": "ipc"
+    },
+    "E02B7/42": {
+      "code": "E02B7/42",
+      "level": 3,
+      "parent": "E02B7/40",
+      "ja": "水平軸を有する弓形または扇形ゲート",
+      "en": "Gates of segmental or sector-like shape with horizontal axis",
+      "count": 1485,
+      "sourceFile": "ipc_E02B.txt",
+      "kind": "ipc"
+    },
+    "E02B7/44": {
+      "code": "E02B7/44",
+      "level": 3,
+      "parent": "E02B7/40",
+      "ja": "蝶番（ちょうつがい）ゲート",
+      "en": "Hinged-leaf gates",
+      "count": 1552,
+      "sourceFile": "ipc_E02B.txt",
+      "kind": "ipc"
+    },
+    "E02B7/46": {
+      "code": "E02B7/46",
+      "level": 3,
+      "parent": "E02B7/40",
+      "ja": "扉体の中間に取り付けられた水平軸の周りに回転するゲート",
+      "en": "Gates turning round a horizontal axis arranged midway of the flap",
+      "count": 239,
+      "sourceFile": "ipc_E02B.txt",
+      "kind": "ipc"
+    },
+    "E02B7/48": {
+      "code": "E02B7/48",
+      "level": 3,
+      "parent": "E02B7/40",
+      "ja": "屋根または二重シャッターゲート",
+      "en": "Roof or double shutter gates",
+      "count": 157,
+      "sourceFile": "ipc_E02B.txt",
+      "kind": "ipc"
+    },
+    "E02B7/50": {
+      "code": "E02B7/50",
+      "level": 2,
+      "parent": "E02B7/20",
+      "ja": "浮戸",
+      "en": "Floating gates",
+      "count": 732,
+      "sourceFile": "ipc_E02B.txt",
+      "kind": "ipc"
+    },
+    "E02B7/52": {
+      "code": "E02B7/52",
+      "level": 2,
+      "parent": "E02B7/20",
+      "ja": "ゲートの防振設備",
+      "en": "Equipment preventing vibration of gates",
+      "count": 767,
+      "sourceFile": "ipc_E02B.txt",
+      "kind": "ipc"
+    },
+    "E02B7/54": {
+      "code": "E02B7/54",
+      "level": 2,
+      "parent": "E02B7/20",
+      "ja": "ゲートのシール",
+      "en": "Sealings for gates",
+      "count": 5275,
+      "sourceFile": "ipc_E02B.txt",
+      "kind": "ipc"
+    },
+    "E02B8/00": {
+      "code": "E02B8/00",
+      "level": 0,
+      "parent": "E02B",
+      "ja": "ダムまたはせきの細部（開放水面の清掃または清潔の維持Ｅ０２Ｂ１５／００）",
+      "en": "Details of barrages or weirs(cleaning or keeping clear the surface of open water <b>E02B15/00</b>)",
+      "count": 3451,
+      "sourceFile": "ipc_E02B.txt",
+      "kind": "ipc"
+    },
+    "E02B8/02": {
+      "code": "E02B8/02",
+      "level": 1,
+      "parent": "E02B8/00",
+      "ja": "沈床ゲート；排砂水門，浮遊物を回収するための構造物",
+      "en": "Sediment base gates; Sand sluices; Structures for arresting waterborne material",
+      "count": 6640,
+      "sourceFile": "ipc_E02B.txt",
+      "kind": "ipc"
+    },
+    "E02B8/04": {
+      "code": "E02B8/04",
+      "level": 1,
+      "parent": "E02B8/00",
+      "ja": "弁，滑子またはその類似物；水中下のスルースゲート",
+      "en": "Valves, slides, or the like; Submerged sluice gates",
+      "count": 2145,
+      "sourceFile": "ipc_E02B.txt",
+      "kind": "ipc"
+    },
+    "E02B8/06": {
+      "code": "E02B8/06",
+      "level": 1,
+      "parent": "E02B8/00",
+      "ja": "余水吐き；エネルギー消散装置，例．渦を減衰せしめるためのもの",
+      "en": "Spillways; Devices for dissipation of energy, e.g. for reducing eddies",
+      "count": 6370,
+      "sourceFile": "ipc_E02B.txt",
+      "kind": "ipc"
+    },
+    "E02B8/08": {
+      "code": "E02B8/08",
+      "level": 1,
+      "parent": "E02B8/00",
+      "ja": "魚道；流木路または舟行路",
+      "en": "Fish passes; Passages for rafts or boats",
+      "count": 3752,
+      "sourceFile": "ipc_E02B.txt",
+      "kind": "ipc"
+    },
+    "E02B9/00": {
+      "code": "E02B9/00",
+      "level": 0,
+      "parent": "E02B",
+      "ja": "水力発電；レイアウト，建設または設備，建造の方法または装置（水力原動機Ｆ０３Ｂ）",
+      "en": "Water-power plants; Layout, construction or equipment, methods of, or apparatus for, making same(hydraulic motors <b>F03B</b>)",
+      "count": 7575,
+      "sourceFile": "ipc_E02B.txt",
+      "kind": "ipc"
+    },
+    "E02B9/02": {
+      "code": "E02B9/02",
+      "level": 1,
+      "parent": "E02B9/00",
+      "ja": "水路",
+      "en": "Water-ways",
+      "count": 2318,
+      "sourceFile": "ipc_E02B.txt",
+      "kind": "ipc"
+    },
+    "E02B9/04": {
+      "code": "E02B9/04",
+      "level": 2,
+      "parent": "E02B9/02",
+      "ja": "自然流下式水路またはとい；取水口（このための格子またはスクリーンＥ０２Ｂ５／０８）",
+      "en": "Free-flow canals or flumes; Intakes(gratings or screens therefor <b>E02B5/08</b>)",
+      "count": 2835,
+      "sourceFile": "ipc_E02B.txt",
+      "kind": "ipc"
+    },
+    "E02B9/06": {
+      "code": "E02B9/06",
+      "level": 2,
+      "parent": "E02B9/02",
+      "ja": "圧力トンネルまたは圧力管路；特に圧力管路を収容するのに適合したトンネル；特にその使用に適合した手段，例．ハウジング，弁，水門（斜坑掘進Ｅ２１Ｄ９／０２；弁一般Ｆ１６Ｋ；管一般Ｆ１６Ｌ）［６］",
+      "en": "Pressure galleries or pressure conduits; Galleries specially adapted to house pressure conduits; Means specially adapted for use therewith, e.g. housings, valves, gates(driving inclined galleries <b>E21D9/02</b>; valves in general <b>F16K</b>; conduits in general <b>F16L</b>)",
+      "count": 3860,
+      "sourceFile": "ipc_E02B.txt",
+      "kind": "ipc"
+    },
+    "E02B9/08": {
+      "code": "E02B9/08",
+      "level": 1,
+      "parent": "E02B9/00",
+      "ja": "潮力または波力発電所（水圧機械，潮力または波力原動機Ｆ０３Ｂ）",
+      "en": "Tide or wave power plants(water-pressure machines, tide or wave motors <b>F03B</b>)",
+      "count": 1759,
+      "sourceFile": "ipc_E02B.txt",
+      "kind": "ipc"
+    },
+    "E02B11/00": {
+      "code": "E02B11/00",
+      "level": 0,
+      "parent": "E02B",
+      "ja": "土壌の排水，例．農業目的のためのもの",
+      "en": "Drainage of soil, e.g. for agricultural purposes",
+      "count": 9616,
+      "sourceFile": "ipc_E02B.txt",
+      "kind": "ipc"
+    },
+    "E02B11/02": {
+      "code": "E02B11/02",
+      "level": 1,
+      "parent": "E02B11/00",
+      "ja": "排水設備の設置装置，例．排水路用プラウ",
+      "en": "Drainage-device-laying apparatus, e.g. drainage ploughs",
+      "count": 2013,
+      "sourceFile": "ipc_E02B.txt",
+      "kind": "ipc"
+    },
+    "E02B13/00": {
+      "code": "E02B13/00",
+      "level": 0,
+      "parent": "E02B",
+      "ja": "かんがい溝，すなわち，流下水，開こう式導水系（庭園，農地，競技場またはその類似のものの散水または噴霧のための他の導水系Ａ０１Ｇ２５／００）［２］",
+      "en": "Irrigation ditches, i.e. gravity flow, open channel water distribution systems(other distribution systems for watering or spraying gardens, fields, sports grounds, or the like <b>A01G25/00</b>)",
+      "count": 7133,
+      "sourceFile": "ipc_E02B.txt",
+      "kind": "ipc"
+    },
+    "E02B13/02": {
+      "code": "E02B13/02",
+      "level": 1,
+      "parent": "E02B13/00",
+      "ja": "かんがい用導水管路の締め切り",
+      "en": "Closures for irrigation conduits",
+      "count": 3683,
+      "sourceFile": "ipc_E02B.txt",
+      "kind": "ipc"
+    },
+    "E02B15/00": {
+      "code": "E02B15/00",
+      "level": 0,
+      "parent": "E02B",
+      "ja": "開放水面の清掃または清潔の維持；そのための装置（船舶その他の水上輸送船の構造Ｂ６３Ｂ，例．開放水面から汚物を収集するのに特に適合した輸送船Ｂ６３Ｂ３５／３２；水泳または水遊び用の水槽またはプールにおけるものＥ０４Ｈ４／１６）［５］",
+      "en": "Cleaning or keeping clear the surface of open water; Apparatus therefor(construction of ships or other waterborne vessels <b>B63B</b>, e.g. vessels specially adapted for collecting pollution from open water <b>B63B35/32</b>; in swimming or splash baths or pools <b>E04H4/16</b>)",
+      "count": 2535,
+      "sourceFile": "ipc_E02B.txt",
+      "kind": "ipc"
+    },
+    "E02B15/02": {
+      "code": "E02B15/02",
+      "level": 1,
+      "parent": "E02B15/00",
+      "ja": "氷からのもの［５］",
+      "en": "from ice",
+      "count": 1441,
+      "sourceFile": "ipc_E02B.txt",
+      "kind": "ipc"
+    },
+    "E02B15/04": {
+      "code": "E02B15/04",
+      "level": 1,
+      "parent": "E02B15/00",
+      "ja": "油または類似の浮遊物の分離または除去による開放水面の清掃または清潔の維持のための装置（その他の水，廃水または下水の処理Ｃ０２Ｆ；液体汚染物質，例．油，ガソリン，脂肪，の処理材料Ｃ０９Ｋ３／３２）",
+      "en": "Devices for cleaning or keeping clear the surface of open water from oil or like floating materials by separating or removing these materials(other treatment of water, waste water or sewage <b>C02F</b>; materials for treating liquid pollutants, e.g. oil, gasoline, fat, <b>C09K3/32</b>)",
+      "count": 8628,
+      "sourceFile": "ipc_E02B.txt",
+      "kind": "ipc"
+    },
+    "E02B15/06": {
+      "code": "E02B15/06",
+      "level": 2,
+      "parent": "E02B15/04",
+      "ja": "そのための防壁（Ｅ０２Ｂ１５／０８が優先）［５］",
+      "en": "Barriers therefor(<b>E02B15/08</b> takes precedence)",
+      "count": 6775,
+      "sourceFile": "ipc_E02B.txt",
+      "kind": "ipc"
+    },
+    "E02B15/08": {
+      "code": "E02B15/08",
+      "level": 2,
+      "parent": "E02B15/04",
+      "ja": "物質を除去しないで汚染区域を狭める装置［５］",
+      "en": "Devices for reducing the polluted area without removing the material",
+      "count": 2826,
+      "sourceFile": "ipc_E02B.txt",
+      "kind": "ipc"
+    },
+    "E02B15/10": {
+      "code": "E02B15/10",
+      "level": 2,
+      "parent": "E02B15/04",
+      "ja": "表面から汚染物質を除去する装置［５］",
+      "en": "Devices for removing the material from the surface",
+      "count": 23922,
+      "sourceFile": "ipc_E02B.txt",
+      "kind": "ipc"
+    },
+    "E02B17/00": {
+      "code": "E02B17/00",
+      "level": 0,
+      "parent": "E02B",
+      "ja": "杭または類似の支持物上の人工島，例．上昇可能な脚上の台；それらの建設方法（防舷材Ｅ０２Ｂ３／２６；それらの停泊Ｂ６３Ｂ２１／００；浮台，例．停泊されたものＢ６３Ｂ３５／４４；水中の独立構造物Ｅ０２Ｄ２９／００）［５］",
+      "en": "Artificial islands mounted on piles or like supports, e.g. platforms on raisable legs; Construction methods therefor(fenders <b>E02B3/26</b>; anchoring floating platforms <b>B63B21/00</b>; floating platforms, e.g. anchored, <b>B63B35/44</b>; independent underwater structures <b>E02D29/00</b>)",
+      "count": 10127,
+      "sourceFile": "ipc_E02B.txt",
+      "kind": "ipc"
+    },
+    "E02B17/02": {
+      "code": "E02B17/02",
+      "level": 1,
+      "parent": "E02B17/00",
+      "ja": "支持構造物を底に降下させることによって設置されたもの，例．その後底に固定することによるもの",
+      "en": "placed by lowering the supporting construction to the bottom, e.g. with subsequent fixing thereto",
+      "count": 3760,
+      "sourceFile": "ipc_E02B.txt",
+      "kind": "ipc"
+    },
+    "E02B17/04": {
+      "code": "E02B17/04",
+      "level": 1,
+      "parent": "E02B17/00",
+      "ja": "支持構造物に対して作業台を昇降させまたは不動とするために特に適用される設備（台のもち上げ一般Ｂ６６Ｆ７／００）",
+      "en": "Equipment specially adapted for raising, lowering, or immobilising the working platform relative to the supporting construction(platform lifts in general <b>B66F7/00</b>)",
+      "count": 796,
+      "sourceFile": "ipc_E02B.txt",
+      "kind": "ipc"
+    },
+    "E02B17/06": {
+      "code": "E02B17/06",
+      "level": 2,
+      "parent": "E02B17/04",
+      "ja": "不動とするためのもの，例．くさびまたは締結環を使用するもの",
+      "en": "for immobilising, e.g. using wedges or clamping rings",
+      "count": 523,
+      "sourceFile": "ipc_E02B.txt",
+      "kind": "ipc"
+    },
+    "E02B17/08": {
+      "code": "E02B17/08",
+      "level": 2,
+      "parent": "E02B17/04",
+      "ja": "昇降させるためのもの",
+      "en": "for raising or lowering",
+      "count": 2322,
+      "sourceFile": "ipc_E02B.txt",
+      "kind": "ipc"
+    }
+  }
+}

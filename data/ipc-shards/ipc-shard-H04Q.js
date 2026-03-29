@@ -1,0 +1,1116 @@
+window.IPC_SHARD_H04Q = {
+  "generatedAt": "2026-03-20T02:17:47.307Z",
+  "total": 111,
+  "entries": {
+    "H04Q": {
+      "code": "H04Q",
+      "level": 0,
+      "parent": "H04",
+      "ja": "選択（スイッチ，リレー，セレクタＨ０１Ｈ；無線通信ネットワークＨ０４Ｗ）［１，２００９．０１］<br><br><b><ul>注</ul></b><br>（１）このサブクラスは以下のものを包含する：<br>―接続完成後に情報を伝送するために，多数の（通常２つの）所望局間または主局と多数の（通常１つの）所望サブステーション間の選択接続を行う方法，回路または装置；<br>―すでに完成された接続に沿う選択呼出装置［２００９．０１］<br>（２）このサブクラスにおいては，下記の用語または表現は以下に示す意味で用いる：<br>―“加入者”とは，端末装置，例．加入電話機，の総称である；<br>―“サブステーション”とは，加入者，または加入者をあれこれと区別せずに単一の加入者を回線に接続しうる装置を意味する；<br>―“従局”とは，交換局の一形式であって，その動作が監視交換局から受信された制御信号に依存するものである；<br>―“交換点”とは，交換局および従局を包含する。<br><br><b><ul>サブクラス内の索引</ul></b><br>選択配置<br>一般；線路の；多重化系の　３／００；５／００；１１／００<br>遠隔制御または遠隔計測の処理　９／００<br>細部　１／００",
+      "en": "SELECTING(switches, relays, selectors <b>H01H</b>;  wireless communication networks <b>H04W</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>This subclass <u>covers </u>: <ul><li>methods, circuits, or apparatus for establishing selectively a connection between a desired number of stations (normally two), or between a main station and a desired number of substations (normally one) for the purpose of transferring information <u>via</u> this connection after it has been established;</li><li>selective calling arrangements over connections already established. </li></ul></li><li>In this subclass, the following terms or expressions are used with the meanings indicated: <ul><li>\"subscriber\" is a general term for terminal equipment, e.g. telephone for public use;</li><li>\"substation\" means a subscriber or monitoring equipment which may connect a single subscriber to a line without choice as to subscriber;</li><li>\"satellite\" is a kind of exchange the operation of which depends upon control signals received from a supervisory exchange;</li><li>\"switching centres\" includes exchanges and satellites.</li></ul></li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">SELECTING ARRANGEMENTS<tr><td width=\"70%\">General; by line; multiplex </td><td><b><b>3/00</b>; <b>5/00</b>;  <b>11/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">DISPOSITIONS FOR TELECONTROL OR TELEMETRY </td><td><b><b>9/00</b></b></td></tr></tr><tr><td width=\"70%\">DETAILS </td><td><b><b>1/00</b></b></td></tr></tr></table>",
+      "count": 1417,
+      "sourceFile": "ipc_H.txt",
+      "kind": "ipc"
+    },
+    "H04": {
+      "code": "H04",
+      "level": 0,
+      "parent": "H",
+      "ja": "電気通信技術<br><br><b><ul>注</ul></b><br>このクラスは，伝搬路として，微粒子放射線，音波または電磁波を使用する電気通信方式，例，無線または光通信，を包含する。［４］",
+      "en": "ELECTRIC COMMUNICATION TECHNIQUE; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This class <u>covers</u> electrical communication systems with propagation paths employing beams of corpuscular radiation, acoustic waves or electromagnetic waves, e.g. radio or optical communication. </li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_H.txt",
+      "kind": "ipc"
+    },
+    "H": {
+      "code": "H",
+      "level": 0,
+      "parent": null,
+      "ja": "電気<br><br><b><ul>注</ul></b><br>（利用にあたっての基本原則と一般的指示）<br>Ｉ．セクションＨは以下のものを包含する：<br>（ａ）基本的電気素子，これは全ての電気ユニットと，装置や回路の一般的な機械的構成を包含しており，その中にはプリント配線と称されるものに各種の基本素子を組み立てたものも含まれる。またこれは他に包含されない場合には，ある程度までこれらの素子の製造をも包含する；<br>（ｂ）発電，これは，発電，変換および配電と共にそのための装置の制御を包含する；<br>（ｃ）電気の応用，これは以下のものを包含する：<br>（ｉ）一般的な利用技術，すなわち．電気加熱と電気照明回路の利用技術；<br>（ｉｉ）厳密な意味で電気的か電子的かいずれかの特定の利用技術で国際特許分類の他のセクションに包含されないもの，これは以下のものを含んでいる：<br>（１）電気的光源，これはレーザーを含む；<br>（２）電気的なＸ線技術；<br>（３）電気的なプラズマ技術，および帯電粒子または中性子の発生および加速；<br>（ｄ）基本電子回路およびその制御；<br>（ｅ）電気通信技術；これは電気―機械変換器一般を含む；<br>（ｆ）物品や上記素子を作るための特定の材料の使用，この点については指針の８８項から９０項を参照されたい。<br>ＩＩ．このセクションにおいては，下記の一般規則が適用される：<br>（ａ）上記Ｉ（ｃ）で述べた例外を除いて，国際特許分類のセクションＨ以外のいずれかのセクションに分類される特殊な操作，方法，装置，物体または物品に特有の電気的観点または部分は，常にその操作，方法，装置，物体または物品のためのサブクラスに分類されるか，または類似の性質を有する技術主題に関する共通的な特徴がクラス・レベルで展開されている場合には，それは，該技術主題のための一般的電気的な応用を完全に包含するサブクラスに，その操作，方法，装置，物体または物品と関連して分類される；<br>（ｂ）この様な電気的な応用には，一般的なものであれ特殊なものであれ，次の事項が含まれる。<br>（ｉ）Ａ６１における治療方法および装置；<br>（ｉｉ）Ｂ０１，Ｂ０３およびＢ２３Ｋにおける各種の実験室または工業的操作に用いられる電気的方法および装置；<br>（ｉｉｉ）セクションＢの“運輸”のサブセクションにおける車両一般および特殊な車両への電気の供給，電気的推進および電気照明；<br>（ｉｖ）Ｆ０２Ｐにおける内燃機関の電気点火系，およびＦ２３Ｑにおける燃焼装置一般のもの；<br>（ｖ）セクションＧにおける全ての電気的部分，すなわち，電気変量の測定器を含む測定装置，検査，信号および計算。このＧセクションにおいて電気とは，一般に手段として扱われるものでそれ自体目的として扱われるものではない；<br>（ｃ）全ての電気的な応用は一般的なものであれ特殊なものであれ，それが含んでいる電気的“基本的素子”に関して言えば，“基本的な電気”の観点がセクションＨ（上記Ｉ（ａ）参照）にあることを前提としている。この規則は，セクションＨ自身にある上記Ｉ（ｃ）で示した電気の応用に対しても有効である。",
+      "en": "ELECTRICITY; <br><br><b><u>Note(s)</u></b><br><br><ul><li>These Notes cover the basic principles and general instructions for use of section <b>H</b>.<ul><li>Section <b>H</b> <u>covers</u>: <ul><li>basic electric elements, which cover all electric units and the general mechanical structure of apparatus and circuits, including the assembly of various basic elements into what are called printed circuits and also cover to a certain extent the manufacture of these elements (when not covered elsewhere);</li><li>generation of electricity, which covers the generation, conversion and distribution of electricity together with the controlling of the corresponding gear;</li><li>applied electricity, which <u>covers</u>: <ul><li>general utilisation techniques, viz. those of electric heating and electric lighting circuits;</li><li>some special utilisation techniques, either electric or electronic in the strict sense, which are not covered by other sections of the Classification, including: <ul><li>electric light sources, including lasers;</li><li>electric X-ray technique;</li><li>electric plasma technique and the generation and acceleration of electrically charged particles or neutrons;</li></ul></li></ul></li><li>basic electronic circuits and their control;</li><li>radio or electric communication technique;</li><li>the use of a specified material for the manufacture of the article or element described. In this connection, paragraphs 88 to 90 of the Guide should be referred to.</li></ul></li><li>In this section, the following general rules apply: <ul><li>Subject to the exceptions stated in I(c), above, any electric aspect or part peculiar to a particular operation, process, apparatus, object or article, classified in one of the sections of the Classification other than section <b>H</b>, is always classified in the subclass for that operation, process, apparatus, object or article. Where common characteristics concerning technical subjects of similar nature have been brought out at class level, the electric aspect or part is classified, in conjunction with the operation, process, apparatus, object or article, in a subclass which covers entirely the general electrical applications for the technical subject in question;</li><li>The electrical applications referred to under (a), above, either general or particular, include: <ul><li>the therapeutic processes and apparatus, in class <b>A61</b>;</li><li>the electric processes and apparatus used in various laboratory or industrial operations, in classes <b>B01</b> and <b>B03</b> and in subclass <b>B23K</b>;</li><li>the electricity supply, electric propulsion and electric lighting of vehicles in general and of particular vehicles, in the subsection \"Transporting\" of section <b>B</b>;</li><li>the electric ignition systems of internal-combustion engines, in subclass <b>F02P</b>, and of combustion apparatus in general, in subclass <b>F23Q</b>;</li><li>the whole electrical part of section <b>G</b>, i.e. measuring devices including apparatus for measuring electric variables, checking, signalling and calculating. Electricity in that section is generally dealt with as a means and not as an end in itself;</li></ul></li><li>All electrical applications, both general and particular, presuppose that the \"basic electricity\" aspect appears in section <b>H</b> (see I(a) above) as regards the electric \"basic elements\" which they comprise. This rule is also valid for applied electricity, referred to in I(c), above, which appears in section <b>H</b> itself.</li></ul></li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_H.txt",
+      "kind": "ipc"
+    },
+    "H04Q1/00": {
+      "code": "H04Q1/00",
+      "level": 0,
+      "parent": "H04Q",
+      "ja": "選択装置または配置の細部",
+      "en": "Details of selecting apparatus or arrangements",
+      "count": 1331,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q1/02": {
+      "code": "H04Q1/02",
+      "level": 1,
+      "parent": "H04Q1/00",
+      "ja": "構造上の細部",
+      "en": "Constructional details",
+      "count": 22726,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q1/04": {
+      "code": "H04Q1/04",
+      "level": 2,
+      "parent": "H04Q1/02",
+      "ja": "セレクタスイッチのためのフレームまたは実装架；その付属物，例．フレームカバー",
+      "en": "Frames or mounting racks for selector switches; Accessories therefor, e.g. frame cover",
+      "count": 14063,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q1/06": {
+      "code": "H04Q1/06",
+      "level": 2,
+      "parent": "H04Q1/02",
+      "ja": "交換機設備のためにとくに適合したケーブルダクトまたは実装具",
+      "en": "Cable ducts or mountings specially adapted for exchange installations",
+      "count": 2519,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q1/08": {
+      "code": "H04Q1/08",
+      "level": 2,
+      "parent": "H04Q1/02",
+      "ja": "リレーのためのフレームまたは実装架；そのための付属物",
+      "en": "Frames or mounting racks for relays; Accessories therefor",
+      "count": 1456,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q1/10": {
+      "code": "H04Q1/10",
+      "level": 2,
+      "parent": "H04Q1/02",
+      "ja": "交換局の組立て",
+      "en": "Exchange station construction",
+      "count": 3886,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q1/12": {
+      "code": "H04Q1/12",
+      "level": 2,
+      "parent": "H04Q1/02",
+      "ja": "枢転可能なフレームの有無を問わない多重バーの配置",
+      "en": "Arrangements of multiple bars with or without pivotable frames",
+      "count": 48,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q1/14": {
+      "code": "H04Q1/14",
+      "level": 2,
+      "parent": "H04Q1/02",
+      "ja": "分配フレーム",
+      "en": "Distribution frames",
+      "count": 4936,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q1/16": {
+      "code": "H04Q1/16",
+      "level": 2,
+      "parent": "H04Q1/02",
+      "ja": "フレームにおけるセレクタスイッチまたはリレーのための布線配置",
+      "en": "Wiring arrangements for selector switches or relays in frames",
+      "count": 672,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q1/18": {
+      "code": "H04Q1/18",
+      "level": 1,
+      "parent": "H04Q1/00",
+      "ja": "電気的な細部",
+      "en": "Electrical details",
+      "count": 631,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q1/20": {
+      "code": "H04Q1/20",
+      "level": 2,
+      "parent": "H04Q1/18",
+      "ja": "試験回路または装置；障害または故障を検出表示または信号するための回路または装置",
+      "en": "Testing circuits or apparatus; Circuits or apparatus for detecting, indicating, or signalling faults or troubles",
+      "count": 2702,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q1/22": {
+      "code": "H04Q1/22",
+      "level": 3,
+      "parent": "H04Q1/20",
+      "ja": "自動配置",
+      "en": "Automatic arrangements",
+      "count": 346,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q1/24": {
+      "code": "H04Q1/24",
+      "level": 4,
+      "parent": "H04Q1/22",
+      "ja": "接続装置のためのもの",
+      "en": "for connection devices",
+      "count": 616,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q1/26": {
+      "code": "H04Q1/26",
+      "level": 4,
+      "parent": "H04Q1/22",
+      "ja": "あいてる従交換機における故障を信号するためのもの",
+      "en": "for signalling trouble in unoccupied sub-exchanges",
+      "count": 217,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q1/28": {
+      "code": "H04Q1/28",
+      "level": 2,
+      "parent": "H04Q1/18",
+      "ja": "交換機における選択設備のための電流供給回路または配置",
+      "en": "Current-supply circuits or arrangements for selection equipment at exchanges",
+      "count": 550,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q1/30": {
+      "code": "H04Q1/30",
+      "level": 2,
+      "parent": "H04Q1/18",
+      "ja": "信号装置；信号電流の操作（呼び出し信号または監視信号のための多重化方式Ｈ０４Ｊ１／１４，Ｈ０４Ｊ３／１２）",
+      "en": "Signalling arrangements; Manipulation of signalling currents(multiplex systems providing for calling or supervisory signals <b>H04J1/14</b>, <b>H04J3/12</b>)",
+      "count": 2036,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q1/32": {
+      "code": "H04Q1/32",
+      "level": 3,
+      "parent": "H04Q1/30",
+      "ja": "直流パルス列を用いるもの（Ｈ０４Ｑ１／３９が優先）［３］",
+      "en": "using trains of DC pulses(<b>H04Q1/39</b> takes precedence)",
+      "count": 926,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q1/34": {
+      "code": "H04Q1/34",
+      "level": 4,
+      "parent": "H04Q1/32",
+      "ja": "機械的または他の非電気的記号配置を備えたインパルス発生器",
+      "en": "Impulse regenerators with mechanical or other non-electrical marking arrangements",
+      "count": 81,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q1/36": {
+      "code": "H04Q1/36",
+      "level": 4,
+      "parent": "H04Q1/32",
+      "ja": "パルス修正装置，例．混信による影響を低減させるためのもの",
+      "en": "Pulse-correcting arrangements, e.g. for reducing effects due to interference",
+      "count": 441,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q1/38": {
+      "code": "H04Q1/38",
+      "level": 3,
+      "parent": "H04Q1/30",
+      "ja": "線路導体または線路導体の結合を通して別々の振幅または極性の直流電流の結合を用いるもの",
+      "en": "using combinations of direct currents of different amplitudes or polarities over line conductors or combination of line conductors",
+      "count": 407,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q1/39": {
+      "code": "H04Q1/39",
+      "level": 3,
+      "parent": "H04Q1/30",
+      "ja": "符号化されたパルス群を用いるもの［３］",
+      "en": "using coded pulse groups",
+      "count": 96,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q1/40": {
+      "code": "H04Q1/40",
+      "level": 3,
+      "parent": "H04Q1/30",
+      "ja": "パルスの持続時間または２個のパルスの間隔が可変であるところのもの",
+      "en": "whereby duration of pulse or interval between two pulses is variable",
+      "count": 46,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q1/42": {
+      "code": "H04Q1/42",
+      "level": 4,
+      "parent": "H04Q1/40",
+      "ja": "１周期中に１パルスの位置を含むもの",
+      "en": "involving the position of a pulse in a cycle",
+      "count": 13,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q1/44": {
+      "code": "H04Q1/44",
+      "level": 3,
+      "parent": "H04Q1/30",
+      "ja": "交流を用いるもの（Ｈ０４Ｑ１／５０が優先）［３］",
+      "en": "using AC(<b>H04Q1/50</b> takes precedence)",
+      "count": 307,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q1/442": {
+      "code": "H04Q1/442",
+      "level": 4,
+      "parent": "H04Q1/44",
+      "ja": "音声帯域外周波数信号を用いるもの［３］",
+      "en": "with out-of-voice band signalling frequencies",
+      "count": 363,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q1/444": {
+      "code": "H04Q1/444",
+      "level": 4,
+      "parent": "H04Q1/44",
+      "ja": "音声帯域周波数信号を用いるもの［３］",
+      "en": "with voice-band signalling frequencies",
+      "count": 111,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q1/446": {
+      "code": "H04Q1/446",
+      "level": 5,
+      "parent": "H04Q1/444",
+      "ja": "単一周波数信号を用いるもの（Ｈ０４Ｑ１／４６が優先）［３］",
+      "en": "using one signalling frequency(<b>H04Q1/46</b> takes precedence)",
+      "count": 571,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q1/448": {
+      "code": "H04Q1/448",
+      "level": 6,
+      "parent": "H04Q1/446",
+      "ja": "単一周波数信号のデジタル信号への変換［３］",
+      "en": "with conversion of a single frequency signal into a digital signal",
+      "count": 112,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q1/45": {
+      "code": "H04Q1/45",
+      "level": 5,
+      "parent": "H04Q1/444",
+      "ja": "多周波信号を用いるもの（Ｈ０４Ｑ１／４６が優先）［３］",
+      "en": "using multi-frequency signalling(<b>H04Q1/46</b> takes precedence)",
+      "count": 1370,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q1/453": {
+      "code": "H04Q1/453",
+      "level": 6,
+      "parent": "H04Q1/45",
+      "ja": "ｍアウトｎ周波数信号が伝送されるもの［３］",
+      "en": "in which m-out-of-n signalling frequencies are transmitted",
+      "count": 522,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q1/457": {
+      "code": "H04Q1/457",
+      "level": 6,
+      "parent": "H04Q1/45",
+      "ja": "多周波信号をデジタル信号に変換するもの［３］",
+      "en": "with conversion of multi-frequency signals into digital signals",
+      "count": 628,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q1/46": {
+      "code": "H04Q1/46",
+      "level": 5,
+      "parent": "H04Q1/444",
+      "ja": "所定周波数の信号電流とこの周波数を含む複合信号電流，例．音声電流，を識別するための手段を持つもの［３］",
+      "en": "comprising means for distinguishing between a signalling current of predetermined frequency and a complex current containing that frequency, e.g. speech current",
+      "count": 395,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q1/48": {
+      "code": "H04Q1/48",
+      "level": 3,
+      "parent": "H04Q1/30",
+      "ja": "誘導電流信号配置",
+      "en": "Induced-current signalling arrangements",
+      "count": 80,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q1/50": {
+      "code": "H04Q1/50",
+      "level": 3,
+      "parent": "H04Q1/30",
+      "ja": "異種信号間の変換",
+      "en": "Conversion between different kinds of signals",
+      "count": 263,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q1/54": {
+      "code": "H04Q1/54",
+      "level": 2,
+      "parent": "H04Q1/18",
+      "ja": "自動的に選択された回線によって自動的に切り換えられる増幅器",
+      "en": "Amplifier switched-on automatically in dependence on automatically selected lines",
+      "count": 176,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q1/56": {
+      "code": "H04Q1/56",
+      "level": 2,
+      "parent": "H04Q1/18",
+      "ja": "自動的に選択された回線によって自動的に切り換えられる平衡回路",
+      "en": "Balancing circuitry switched-on automatically in dependence on automatically selected lines",
+      "count": 80,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q3/00": {
+      "code": "H04Q3/00",
+      "level": 0,
+      "parent": "H04Q",
+      "ja": "選択配置（Ｈ０４Ｑ５／００～Ｈ０４Ｑ１１／００が優先）",
+      "en": "Selecting arrangements(<b>H04Q5/00 to H04Q11/00</b>  take precedence)",
+      "count": 21182,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q3/02": {
+      "code": "H04Q3/02",
+      "level": 1,
+      "parent": "H04Q3/00",
+      "ja": "順列符号に応答するセレクタのための回路配置",
+      "en": "Circuit arrangements for selectors responsive to a permutation code",
+      "count": 89,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q3/04": {
+      "code": "H04Q3/04",
+      "level": 1,
+      "parent": "H04Q3/00",
+      "ja": "径路指示数字の受信機のための回路配置",
+      "en": "Circuit arrangements for receivers of routing digits",
+      "count": 186,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q3/06": {
+      "code": "H04Q3/06",
+      "level": 2,
+      "parent": "H04Q3/04",
+      "ja": "群セレクタまたはトランク群セレクタのためのもの",
+      "en": "for group or trunk group selectors",
+      "count": 76,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q3/08": {
+      "code": "H04Q3/08",
+      "level": 2,
+      "parent": "H04Q3/04",
+      "ja": "市内または市外セレクタのためのもの",
+      "en": "for local or long-distance selectors",
+      "count": 18,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q3/10": {
+      "code": "H04Q3/10",
+      "level": 2,
+      "parent": "H04Q3/04",
+      "ja": "ＰＢＸセレクタ，すなわち構内交換機のセレクタのためのもの",
+      "en": "for PBX selectors, i.e. private branch exchange selectors",
+      "count": 166,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q3/12": {
+      "code": "H04Q3/12",
+      "level": 2,
+      "parent": "H04Q3/04",
+      "ja": "径路指示数字の転送を提供するラインセレクタのためのもの",
+      "en": "for line selectors providing transfer of routing digits",
+      "count": 9,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q3/14": {
+      "code": "H04Q3/14",
+      "level": 2,
+      "parent": "H04Q3/04",
+      "ja": "２方向動作セレクタのためのもの",
+      "en": "for two-way operation selectors",
+      "count": 13,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q3/16": {
+      "code": "H04Q3/16",
+      "level": 2,
+      "parent": "H04Q3/04",
+      "ja": "マーク用スイッチのためのもの",
+      "en": "for marking-switches",
+      "count": 5,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q3/18": {
+      "code": "H04Q3/18",
+      "level": 1,
+      "parent": "H04Q3/00",
+      "ja": "第１段の捜線切り換えのための回路配置",
+      "en": "Circuit arrangements for first stage of hunting switching",
+      "count": 20,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q3/20": {
+      "code": "H04Q3/20",
+      "level": 2,
+      "parent": "H04Q3/18",
+      "ja": "プレセレクタのためのもの",
+      "en": "for preselectors",
+      "count": 9,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q3/22": {
+      "code": "H04Q3/22",
+      "level": 3,
+      "parent": "H04Q3/20",
+      "ja": "共通の発信および切断回路を包含するもの",
+      "en": "comprising common calling and disconnecting circuit",
+      "count": 16,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q3/24": {
+      "code": "H04Q3/24",
+      "level": 2,
+      "parent": "H04Q3/18",
+      "ja": "ラインファインダのためのもの",
+      "en": "for line finders",
+      "count": 39,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q3/26": {
+      "code": "H04Q3/26",
+      "level": 3,
+      "parent": "H04Q3/24",
+      "ja": "共通の発信および復旧回路を包含するもの",
+      "en": "comprising common calling and disconnecting circuit",
+      "count": 8,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q3/28": {
+      "code": "H04Q3/28",
+      "level": 3,
+      "parent": "H04Q3/24",
+      "ja": "主群と副群とを包含するもの",
+      "en": "comprising main groups and subgroups",
+      "count": 5,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q3/30": {
+      "code": "H04Q3/30",
+      "level": 2,
+      "parent": "H04Q3/18",
+      "ja": "セレクタファインダ，すなわち分配器",
+      "en": "Selector finders, i.e. allotters",
+      "count": 9,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q3/32": {
+      "code": "H04Q3/32",
+      "level": 1,
+      "parent": "H04Q3/00",
+      "ja": "第二段またはその後段の捜線切り換えのための回路配置［２］",
+      "en": "Circuit arrangements for second or subsequent stages of hunting switching",
+      "count": 16,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q3/34": {
+      "code": "H04Q3/34",
+      "level": 2,
+      "parent": "H04Q3/32",
+      "ja": "第２予選択段のためのもの",
+      "en": "for the second preselection stage",
+      "count": 3,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q3/36": {
+      "code": "H04Q3/36",
+      "level": 2,
+      "parent": "H04Q3/32",
+      "ja": "第２ラインファインダ段のためのもの",
+      "en": "for the second line-finder stage",
+      "count": 3,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q3/38": {
+      "code": "H04Q3/38",
+      "level": 2,
+      "parent": "H04Q3/32",
+      "ja": "群セレクタ段の後の段のためのもの",
+      "en": "for stages after the group-selector stage",
+      "count": 13,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q3/40": {
+      "code": "H04Q3/40",
+      "level": 2,
+      "parent": "H04Q3/32",
+      "ja": "ラインセレクタの後の段のためのもの，例．増設セレクタのためのもの",
+      "en": "for stages after the line selector, e.g. for extension selector",
+      "count": 10,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q3/42": {
+      "code": "H04Q3/42",
+      "level": 1,
+      "parent": "H04Q3/00",
+      "ja": "共通回路，例．記録器制御器，マーカ，によって制御される間接選択のための回路配置",
+      "en": "Circuit arrangements for indirect selecting controlled by common circuits, e.g. register controller, marker",
+      "count": 5593,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q3/44": {
+      "code": "H04Q3/44",
+      "level": 2,
+      "parent": "H04Q3/42",
+      "ja": "復帰制御によるもの",
+      "en": "using revertive control",
+      "count": 9,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q3/46": {
+      "code": "H04Q3/46",
+      "level": 2,
+      "parent": "H04Q3/42",
+      "ja": "復帰インパルス以外の信号を用いるもの",
+      "en": "using signals other than revertive impulses",
+      "count": 9,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q3/47": {
+      "code": "H04Q3/47",
+      "level": 2,
+      "parent": "H04Q3/42",
+      "ja": "ほん訳機を用いるもの",
+      "en": "using translators",
+      "count": 195,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q3/48": {
+      "code": "H04Q3/48",
+      "level": 2,
+      "parent": "H04Q3/42",
+      "ja": "マーカを用いるもの",
+      "en": "using markers",
+      "count": 106,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q3/49": {
+      "code": "H04Q3/49",
+      "level": 3,
+      "parent": "H04Q3/48",
+      "ja": "一端から一端までマークするためのもの",
+      "en": "for end-to-end marking",
+      "count": 11,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q3/495": {
+      "code": "H04Q3/495",
+      "level": 3,
+      "parent": "H04Q3/48",
+      "ja": "接続通路の径路指示のためのもの",
+      "en": "for routing connecting paths",
+      "count": 40,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q3/52": {
+      "code": "H04Q3/52",
+      "level": 2,
+      "parent": "H04Q3/42",
+      "ja": "切換段に静止装置を用いるもの，例．電子的スイッチング装置［２］",
+      "en": "using static devices in switching stages, e.g. electronic switching arrangements",
+      "count": 5296,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q3/54": {
+      "code": "H04Q3/54",
+      "level": 2,
+      "parent": "H04Q3/42",
+      "ja": "交換機を制御する論理回路が中央集中化されているところのもの，例．蓄積プログラムを用いるもの",
+      "en": "in which the logic circuitry controlling the exchange is centralised",
+      "count": 1875,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q3/545": {
+      "code": "H04Q3/545",
+      "level": 3,
+      "parent": "H04Q3/54",
+      "ja": "蓄積プログラムを用いるもの［２００６．０１］",
+      "en": "using a stored program",
+      "count": 7776,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q3/55": {
+      "code": "H04Q3/55",
+      "level": 3,
+      "parent": "H04Q3/54",
+      "ja": "布線論理回路を用いるもの［４］",
+      "en": "using wired logic circuitry",
+      "count": 11,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q3/555": {
+      "code": "H04Q3/555",
+      "level": 4,
+      "parent": "H04Q3/55",
+      "ja": "電磁素子で構成されるもの［４］",
+      "en": "being comprised by electro-magnetic devices",
+      "count": 440,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q3/56": {
+      "code": "H04Q3/56",
+      "level": 2,
+      "parent": "H04Q3/42",
+      "ja": "制御信号が多重化されているもの［２］",
+      "en": "in which the control signals are multiplexed",
+      "count": 41,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q3/58": {
+      "code": "H04Q3/58",
+      "level": 1,
+      "parent": "H04Q3/00",
+      "ja": "主交換機および従交換機または従局の間の接続を提供する配置",
+      "en": "Arrangements providing connection between main exchange and sub-exchange or satellite",
+      "count": 12014,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q3/60": {
+      "code": "H04Q3/60",
+      "level": 2,
+      "parent": "H04Q3/58",
+      "ja": "１以上の交換機線路を一群の市内線路と接続する従局または集線装置に対する接続のためのもの",
+      "en": "for connecting to satellites or concentrators which connect one or more exchange lines with a group of local lines",
+      "count": 802,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q3/62": {
+      "code": "H04Q3/62",
+      "level": 2,
+      "parent": "H04Q3/58",
+      "ja": "構内交換機に接続するためのもの",
+      "en": "for connecting to private branch exchanges",
+      "count": 2942,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q3/64": {
+      "code": "H04Q3/64",
+      "level": 1,
+      "parent": "H04Q3/00",
+      "ja": "分配または出線",
+      "en": "Distributing or queuing",
+      "count": 1383,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q3/66": {
+      "code": "H04Q3/66",
+      "level": 2,
+      "parent": "H04Q3/64",
+      "ja": "トラヒック分配器",
+      "en": "Traffic distributors",
+      "count": 1191,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q3/68": {
+      "code": "H04Q3/68",
+      "level": 2,
+      "parent": "H04Q3/64",
+      "ja": "セレクタ群またはセレクタ段の配合または交差",
+      "en": "Grouping or interlacing selector groups or stages",
+      "count": 575,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q3/70": {
+      "code": "H04Q3/70",
+      "level": 1,
+      "parent": "H04Q3/00",
+      "ja": "発呼加入者のクラスの識別",
+      "en": "Identification of class of calling subscriber",
+      "count": 215,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q3/72": {
+      "code": "H04Q3/72",
+      "level": 1,
+      "parent": "H04Q3/00",
+      "ja": "発呼加入者の番号の検出および表示",
+      "en": "Finding out and indicating number of calling subscriber",
+      "count": 1633,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q3/74": {
+      "code": "H04Q3/74",
+      "level": 2,
+      "parent": "H04Q3/72",
+      "ja": "共同線からの発呼加入者の識別",
+      "en": "Identification of subscriber calling from a party-line",
+      "count": 106,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q3/76": {
+      "code": "H04Q3/76",
+      "level": 1,
+      "parent": "H04Q3/00",
+      "ja": "被呼加入者番号から出または入接続制御情報への翻訳［４］",
+      "en": "Translation from the called subscriber's number to the outgoing or incoming control information",
+      "count": 485,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q3/78": {
+      "code": "H04Q3/78",
+      "level": 1,
+      "parent": "H04Q3/00",
+      "ja": "発呼または被呼加入者情報の一時的蓄積（電信通話のための中間的蓄積手段Ｈ０４Ｌ１３／０８）［４］",
+      "en": "Temporary storage of information of calling or called subscriber(intermediate storage means for telegraphic communication <b>H04L13/08</b>)",
+      "count": 213,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q5/00": {
+      "code": "H04Q5/00",
+      "level": 0,
+      "parent": "H04Q",
+      "ja": "２以上の加入者が同一の線路によって交換機に接続されているところの選択配置",
+      "en": "Selecting arrangements wherein two or more subscriber stations are connected by the same line to the exchange",
+      "count": 1086,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q5/02": {
+      "code": "H04Q5/02",
+      "level": 1,
+      "parent": "H04Q5/00",
+      "ja": "全加入者のための直接接続のあるもの，すなわち共同線方式（Ｈ０４Ｑ５／２４が優先）",
+      "en": "with direct connection for all subscribers, i.e. party-line system(<b>H04Q5/24</b> takes precedence)",
+      "count": 406,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q5/04": {
+      "code": "H04Q5/04",
+      "level": 2,
+      "parent": "H04Q5/02",
+      "ja": "一方または他方の電線または両方の電線または付加電線における電流により信号をするもの",
+      "en": "Signalling by currents in one or other or both line wires or additional wires",
+      "count": 29,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q5/06": {
+      "code": "H04Q5/06",
+      "level": 2,
+      "parent": "H04Q5/02",
+      "ja": "直流の振幅または極性により信号をするもの",
+      "en": "Signalling by amplitude or polarity of DC",
+      "count": 89,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q5/08": {
+      "code": "H04Q5/08",
+      "level": 2,
+      "parent": "H04Q5/02",
+      "ja": "連続交流により信号をするもの",
+      "en": "Signalling by continuous AC",
+      "count": 95,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q5/10": {
+      "code": "H04Q5/10",
+      "level": 3,
+      "parent": "H04Q5/08",
+      "ja": "個々の加入者に対し単一周波数を用いるもの",
+      "en": "using single frequencies for different subscribers",
+      "count": 29,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q5/12": {
+      "code": "H04Q5/12",
+      "level": 3,
+      "parent": "H04Q5/08",
+      "ja": "周波数の結合を用いるもの",
+      "en": "using combinations of frequencies",
+      "count": 24,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q5/14": {
+      "code": "H04Q5/14",
+      "level": 2,
+      "parent": "H04Q5/02",
+      "ja": "パルスにより信号をするもの",
+      "en": "Signalling by pulses",
+      "count": 73,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q5/16": {
+      "code": "H04Q5/16",
+      "level": 3,
+      "parent": "H04Q5/14",
+      "ja": "所定数のパルスによるもの",
+      "en": "by predetermined number of pulses",
+      "count": 189,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q5/18": {
+      "code": "H04Q5/18",
+      "level": 1,
+      "parent": "H04Q5/00",
+      "ja": "間接接続をもつもの，すなわち従交換点を通るもの",
+      "en": "with indirect connection, i.e. through subordinate switching centre",
+      "count": 46,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q5/20": {
+      "code": "H04Q5/20",
+      "level": 2,
+      "parent": "H04Q5/18",
+      "ja": "所轄の加入者の相互接続を許す従交換点",
+      "en": "the subordinate centre permitting interconnection of subscribers connected thereto",
+      "count": 142,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q5/22": {
+      "code": "H04Q5/22",
+      "level": 2,
+      "parent": "H04Q5/18",
+      "ja": "所轄の加入者の相互接続を許さない従交換点",
+      "en": "the subordinate centre not permitting interconnection of subscribers connected thereto",
+      "count": 4263,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q5/24": {
+      "code": "H04Q5/24",
+      "level": 1,
+      "parent": "H04Q5/00",
+      "ja": "２共同方式のためのもの",
+      "en": "for two-party-line systems",
+      "count": 3685,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q9/00": {
+      "code": "H04Q9/00",
+      "level": 0,
+      "parent": "H04Q",
+      "ja": "遠隔制御システムまたはテレメータシステムにおいて一つのメインステーションから一つのサブステーションを選択的に呼び出すための配置であって，そのサブステーションは対象となる装置を選択して，その装置に制御信号を印加し，またはその装置から測定値を得るもの",
+      "en": "Arrangements in telecontrol or telemetry systems for selectively calling a substation from a main station, in which substation desired apparatus is selected for applying a control signal thereto or for obtaining measured values therefrom",
+      "count": 71680,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q9/02": {
+      "code": "H04Q9/02",
+      "level": 1,
+      "parent": "H04Q9/00",
+      "ja": "自動的に操作される配置",
+      "en": "Automatically-operated arrangements",
+      "count": 2685,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q9/04": {
+      "code": "H04Q9/04",
+      "level": 1,
+      "parent": "H04Q9/00",
+      "ja": "同期操作のための配置",
+      "en": "Arrangements for synchronous operation",
+      "count": 1944,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q9/06": {
+      "code": "H04Q9/06",
+      "level": 1,
+      "parent": "H04Q9/00",
+      "ja": "直流の振幅または極性の使用による呼び出し",
+      "en": "Calling by using amplitude or polarity of DC",
+      "count": 661,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q9/08": {
+      "code": "H04Q9/08",
+      "level": 1,
+      "parent": "H04Q9/00",
+      "ja": "連続交流の使用による呼び出し",
+      "en": "Calling by using continuous AC",
+      "count": 423,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q9/10": {
+      "code": "H04Q9/10",
+      "level": 2,
+      "parent": "H04Q9/08",
+      "ja": "別々の単一周波数の使用によるもの",
+      "en": "using single different frequencies",
+      "count": 980,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q9/12": {
+      "code": "H04Q9/12",
+      "level": 2,
+      "parent": "H04Q9/08",
+      "ja": "周波数の結合を使用するもの",
+      "en": "using combinations of frequencies",
+      "count": 515,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q9/14": {
+      "code": "H04Q9/14",
+      "level": 1,
+      "parent": "H04Q9/00",
+      "ja": "パルスの使用による呼び出し",
+      "en": "Calling by using pulses",
+      "count": 4046,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q9/16": {
+      "code": "H04Q9/16",
+      "level": 2,
+      "parent": "H04Q9/14",
+      "ja": "所定数のパルスによるもの",
+      "en": "by predetermined number of pulses",
+      "count": 1097,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q11/00": {
+      "code": "H04Q11/00",
+      "level": 0,
+      "parent": "H04Q",
+      "ja": "多重化方式のための選択配置（多重化方式Ｈ０４Ｊ）",
+      "en": "Selecting arrangements for multiplex systems(multiplex systems <b>H04J</b>)",
+      "count": 19006,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q11/02": {
+      "code": "H04Q11/02",
+      "level": 1,
+      "parent": "H04Q11/00",
+      "ja": "周波数分割多重化にたいするもの",
+      "en": "for frequency-division multiplexing",
+      "count": 404,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q11/04": {
+      "code": "H04Q11/04",
+      "level": 1,
+      "parent": "H04Q11/00",
+      "ja": "時分割多重化にたいするもの",
+      "en": "for time-division multiplexing",
+      "count": 19357,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q11/06": {
+      "code": "H04Q11/06",
+      "level": 2,
+      "parent": "H04Q11/04",
+      "ja": "ＴＳＴスイッチ［５］",
+      "en": "Time-space-time switching",
+      "count": 375,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    },
+    "H04Q11/08": {
+      "code": "H04Q11/08",
+      "level": 2,
+      "parent": "H04Q11/04",
+      "ja": "時間スイッチのみ［５］",
+      "en": "Time only switching",
+      "count": 252,
+      "sourceFile": "ipc_H04Q.txt",
+      "kind": "ipc"
+    }
+  }
+};

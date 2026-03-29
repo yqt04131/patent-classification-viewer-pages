@@ -1,0 +1,476 @@
+{
+  "generatedAt": "2026-03-20T02:17:47.092Z",
+  "total": 47,
+  "entries": {
+    "G06M": {
+      "code": "G06M",
+      "level": 0,
+      "parent": "G06",
+      "ja": "他に分類されない対象物の計数<br><br><b><ul>注</ul></b><br>注<br>このサブクラスは以下のものを包含する：<br>・歩進運動または連続運動の機械的計数器で最下位桁に機械的または電気的な単一またはそれ以上の入力が与えられて作動するもの；<br>・計数システムであって機械的，電気的または電子的計数器のいずれかを使用するもの",
+      "en": "COUNTING MECHANISMS; COUNTING OF OBJECTS NOT OTHERWISE PROVIDED FOR; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This subclass <u>covers</u>:<ul><li>stepping or continuously-moving mechanical counters operated through one or more inputs applied to the lowest order mechanically or electrically;</li><li>counting systems involving applications of either mechanical, electrical, or electronic counters.</li></ul></li></ul>",
+      "count": 330,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G06": {
+      "code": "G06",
+      "level": 0,
+      "parent": "G",
+      "ja": "計算または計数；計数<br><br><b><ul>注</ul></b><br>（１）このクラスは以下のものを包含する：<br>―　実際の装置またはシステム内での，現在のまたは予想される諸条件を計算するための数学的なものに関するシミュレータ；<br>―　計算を含む手段により，システムまたは装置の機能を実現するシミュレータであって，他の分類箇所がないもの；<br>―　イメージデータの処理または生成<br>（２）このクラスは以下のものを包含しない。<br>―筆記具に計算装置を結合したもの。それらはグループＢ４３Ｋ２９／０８に包含される；<br>―シミュレータから得られる制御機能一般，ただし，これはクラスＧ０５に包含されるけれども，そのような機能は，制御される装置のためのこのクラスのサブクラスに包含されることもある；<br>―シミュレータへの入力となる独立変数の測定または分析，ただし，これはＧ０１に包含される；<br>―訓練を受ける者によってなされた行動に応じて，実際に経験するような感じに似た知覚的感じを与える場合の教習具または訓練具とみなされるシミュレータ。そのようなシミュレータはクラスＧ０９に包含される；<br>―シミュレータの構成要素であってしかもなにかの装置あるいは機械と同等のもの，ただし，これはその装置また機械のための適切なサブクラスに分類し、クラスＧ０９には分類しない。<br>（３）このクラスにおいては，下記の用語または表現は以下に示す意味で用いる：<br>―　“データ”とは“情報”と同義語として用いられる。それゆえ，“情報”という用語はサブクラスＧ０６Ｃにおいて使用しない；―　“ＩＣＴ［情報通信技術］”は“ＩＴ［情報技術］”も含む；<br>―“カルキュレーティング”または“コンピューティングとは，とりわけ，数値および数値形式で表現されたデータについての演算を含む。これらの用語のうち，“コンピューティング”はクラス全体にわたって使用される；<br>―“コンピューテーション”という用語は“コンピューティング”から派生している。フランス語では“カルキュル”という用語はいずれの意味にも使用される；<br>―“シミュレータ”とは，実際の装置と同じ時間スケールを使用するかまたは拡大もしくは縮小した時間スケールで動作する装置である；<br>―“記録担体”とはシリンダ，ディスク，カード，テープ，ワイヤのような永久的に情報を保持できる物体を意味し，記録された情報に対して相対的に移動しうる感知素子によって読出しのできるものである。<br>（４）セクションＧのタイトルに続く注，特に“変量”という用語の定義については注意すること。",
+      "en": "COMPUTING OR CALCULATING;  COUNTING; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This class <u>covers</u> : <ul><li>simulators which are concerned with the mathematics of computing the existing or anticipated conditions within the real device or system;</li><li>simulators which demonstrate, by means involving computing, the function of apparatus or of a system, if no provision exists elsewhere;</li><li>image data processing or generation.</li></ul></li><li>This class <u>does not cover</u> : <ul><li>combinations of writing implements with computing devices, which are covered by group <b>B43K29/08</b>;</li><li>control functions derived from simulators, in general, which are covered by class <b>G05</b>, although such functions may be covered by the subclass of this class for the device controlled;</li><li>measurement or analysis of an individual variable to serve as an input to a simulator, which is covered by class <b>G01</b>;</li><li>simulators regarded as teaching or training devices which is the case if they give perceptible sensations having a likeness to the sensations a student would experience in reality in response to actions taken by him. Such simulators are covered by class <b>G09</b>;</li><li>components of simulators, if identical with real devices or machines, which are covered by the relevant subclass for these devices or machines and not by class <b>G09</b>.</li></ul></li><li>In this class, the following terms or expressions are used with the meanings indicated: <ul><li>\"data\" is used as the synonym of \"information\". Therefore, the term \"information\" is not used in subclass <b>G06C</b>;</li><li>\"ICT [information and communication technology]\" also covers \"IT [information technology]\";</li><li>\"calculating or computing\" includes, <u>inter alia</u>, operations on numerical values and on data expressed in numerical form. Of these terms \"computing\" is used throughout the class; \"computation\" is derived from this interpretation of \"computing\". In the French language the term \"calcul\" will serve for either term;</li><li>\"simulator\" is a device which may use the same time scale as the real device or operate on an expanded or compressed time scale. In interpreting this term models of real devices to reduced or expanded scales are not regarded as simulators;</li><li>\"record carrier\" means a body, such as a cylinder, disc, card, tape, or wire, capable of permanently holding information, which can be read-off by a sensing element movable relative to the recorded information.</li></ul></li><li>Attention is drawn to the Notes following the title of section <b>G</b>, especially as regards the definition of the term \"variable\".</li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G": {
+      "code": "G",
+      "level": 0,
+      "parent": null,
+      "ja": "物理学<br><br><b><ul>注</ul></b><br>１．このセクションにおいては，下記の用語は以下に示す意味で用いる：<br>・“変量”は名詞として，特定の実在物，例．物体，ある量の物質，光ビーム，に関し特定の瞬間に測定することの可能な特性又は特質，例．寸法，温度等の物理的状態，密度又は色等の性質，を意味する。変量が変化すると，その数値的表現は異なる時点で，異なる状態又は個々の状況において異なる値をとることもあり，また，ある状態のもとで又は実用上特定の実在物に関して一定でありうる，例．バーの長さが多くの目的のために一定とみなされる，こともある。<br>２．使用される用語または表現の定義に注意すること。このセクションのいくつかのクラスの注に使用されているものについて，特にクラスＧ０１の“測定”を参照されたい．ＩＰＣ指針パラグラフ１８７の中にあるものについて，“制御”及び“調整”の定義に参照されたい。<br>３．このセクションにおける分類は他のセクションにおいてよりもめんどうな場合があり得る，というのは，その一つは，いろいろな使用分野の差異の判別には構造上の差異又は使用形態上の差異よりも寧ろ使用者の意図における差異の方にかなりの程度影響されてしまうからであり，もう一つは，扱う主題が容易に全体として識別できる“もの”であるよりも，特性又は部品が他の主題のものと共通のものを有しているシステム又は組合わせであることが実際上多いからである。例えば，情報（例．一連の数値）をディスプレイするのは，クラスＧ０９に包含される，教育又は広告のため，クラスＧ０１に包含される，測定の結果が通知されうるため，クラスＧ０８に包含される，遠隔地点に情報を合図するため，又は遠隔地点から合図された情報を提供するためである。目的を記述するために使用する言葉は，当該装置の形態に無関係なこともあり得る特性－例えば，ディスプレイを見る者にとって望ましい効果とか，ディスプレイが遠隔地点から制御されるかどうかという特性－によって決定される。さらに，ある状態，例えば流体圧の変化に応答する装置は，その装置そのものには変更を加えずして，サブクラスＧ０１Ｌに包含される圧力又はＧ０１の他のサブクラスに包含される圧力に関連した他の何らかの状態，例．温度に関してＧ０１Ｋ，についての情報を与えるため，サブクラスＧ０７Ｃに包含される圧力または圧力発生の記録をするため，サブクラスＧ０８Ｂに包含される警報を発するため，又はクラスＧ０５に包含される他の何らかの装置を制御するために用いられることがある。<br>　本分類表は，前述したように，同一の性質のものは同一箇所に分類し得るようにしたものである。従って，技術主題が適切箇所に分類されるためには予めその真正な本質を把握することが特に必要である。",
+      "en": "PHYSICS; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this section, the following term is used with the meaning indicated: <ul><li>\"variable\" as a noun means a feature or property, e.g. a dimension, a physical condition such as temperature, a quality such as density or colour, which, in respect of a particular entity, e.g. an object, a quantity of a substance, a beam of light, and at a particular instant, is capable of being measured; the variable may change, so that its numerical expression may assume different values at different times, in different conditions or in individual cases, but may be constant in respect of a particular entity in certain conditions or for practical purposes, e.g. the length of a bar may be regarded as constant for many purposes.</li></ul></li><li>Attention is drawn to the definitions of terms or expressions used. Some appear in the notes of several of the classes in this section, see in particular the definition of \"measuring\" in class <b>G01</b>. Others appear in paragraph 187 of the Guide to the IPC, see in particular the definitions of \"control\" and \"regulation\".</li><li>Classification in this section may present more difficulty than in other sections, because the distinction between different fields of use rests to a considerable extent on differences in the intention of the user rather than on any constructional differences or differences in the manner of use, and because the subjects dealt with are often in effect systems or combinations, which have features or parts in common, rather than \"things\", which are readily distinguishable as a whole. For example, information, e.g. a set of figures, may be displayed for the purpose of education or advertising covered by class <b>G09</b>, for enabling the result of a measurement to be known covered by class <b>G01</b>, for signalling the information to a distant point or for giving information which has been signalled from a distant point covered by class <b>G08</b>. The words used to describe the purpose depend on features that may be irrelevant to the form of the apparatus concerned, for example, such features as the desired effect on the person who sees the display, or whether the display is controlled from a remote point. Again, a device which responds to some change in a condition, e.g. in the pressure of a fluid, may be used, without modification of the device itself, to give information about the pressure covered by subclass <b>G01L</b> or about some other condition linked to the pressure covered by another subclass of class <b>G01</b>, e.g. <b>G01K</b> for temperature, to make a record of the pressure or of its occurrence covered by subclass <b>G07C</b>, to give an alarm covered by subclass <b>G08B</b>, or to control another apparatus covered by class <b>G05</b>. <ul><li>The classification scheme is intended to enable things of a similar nature, as indicated above, to be classified together. It is therefore particularly necessary for the real nature of any technical subject to be decided before it can be properly classified.</li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G06M1/00": {
+      "code": "G06M1/00",
+      "level": 0,
+      "parent": "G06M",
+      "ja": "一般的構成事項",
+      "en": "Design features of general application",
+      "count": 1793,
+      "sourceFile": "ipc_G06M.txt",
+      "kind": "ipc"
+    },
+    "G06M1/02": {
+      "code": "G06M1/02",
+      "level": 1,
+      "parent": "G06M1/00",
+      "ja": "ハウジング［２００６．０１］",
+      "en": "Housing",
+      "count": 1141,
+      "sourceFile": "ipc_G06M.txt",
+      "kind": "ipc"
+    },
+    "G06M1/04": {
+      "code": "G06M1/04",
+      "level": 1,
+      "parent": "G06M1/00",
+      "ja": "最下位の段の駆動のための構成（駆動の比が可変のものＧ０６Ｍ１／３８）",
+      "en": "for driving the stage of lowest order(with variable ratio of drive <b>G06M1/38</b>)",
+      "count": 1406,
+      "sourceFile": "ipc_G06M.txt",
+      "kind": "ipc"
+    },
+    "G06M1/06": {
+      "code": "G06M1/06",
+      "level": 2,
+      "parent": "G06M1/04",
+      "ja": "段の連続回転を生じさせるもの，例．歯車列によるもの",
+      "en": "producing continuous revolution of the stage, e.g. with gear train",
+      "count": 696,
+      "sourceFile": "ipc_G06M.txt",
+      "kind": "ipc"
+    },
+    "G06M1/08": {
+      "code": "G06M1/08",
+      "level": 1,
+      "parent": "G06M1/00",
+      "ja": "駆動作動のための構成",
+      "en": "for actuating the drive",
+      "count": 1362,
+      "sourceFile": "ipc_G06M.txt",
+      "kind": "ipc"
+    },
+    "G06M1/10": {
+      "code": "G06M1/10",
+      "level": 2,
+      "parent": "G06M1/08",
+      "ja": "電気的または磁気的手段によるもの",
+      "en": "by electric or magnetic means",
+      "count": 3276,
+      "sourceFile": "ipc_G06M.txt",
+      "kind": "ipc"
+    },
+    "G06M1/12": {
+      "code": "G06M1/12",
+      "level": 2,
+      "parent": "G06M1/08",
+      "ja": "流体手段によるもの",
+      "en": "by fluid means",
+      "count": 153,
+      "sourceFile": "ipc_G06M.txt",
+      "kind": "ipc"
+    },
+    "G06M1/14": {
+      "code": "G06M1/14",
+      "level": 1,
+      "parent": "G06M1/00",
+      "ja": "ある段から高位段へ桁送りするための構成（桁送りの比が可変のものＧ０６Ｍ１／３８）",
+      "en": "for transferring a condition from one stage to a higher stage(with variable ratio of transfer <b>G06M1/38</b>)",
+      "count": 368,
+      "sourceFile": "ipc_G06M.txt",
+      "kind": "ipc"
+    },
+    "G06M1/16": {
+      "code": "G06M1/16",
+      "level": 2,
+      "parent": "G06M1/14",
+      "ja": "自己作動のもの，例．ジェネバ機構によるもの",
+      "en": "self-operating, e.g. by Geneva mechanism",
+      "count": 567,
+      "sourceFile": "ipc_G06M.txt",
+      "kind": "ipc"
+    },
+    "G06M1/18": {
+      "code": "G06M1/18",
+      "level": 2,
+      "parent": "G06M1/14",
+      "ja": "外部作動を要するもの，例．電磁力によるもの",
+      "en": "requiring external operation, e.g. by electromagnetic force",
+      "count": 95,
+      "sourceFile": "ipc_G06M.txt",
+      "kind": "ipc"
+    },
+    "G06M1/20": {
+      "code": "G06M1/20",
+      "level": 2,
+      "parent": "G06M1/14",
+      "ja": "各単位でそれぞれとりうる値の個数が異なる単位群に特に適するもの，例．角度における度や分のためのもの",
+      "en": "specially adapted for denominations with unequal numbers in each stage, e.g. degrees and minutes of angle",
+      "count": 43,
+      "sourceFile": "ipc_G06M.txt",
+      "kind": "ipc"
+    },
+    "G06M1/22": {
+      "code": "G06M1/22",
+      "level": 1,
+      "parent": "G06M1/00",
+      "ja": "計数機構上の計数結果を可視表示するための構成，例．拡大レンズをもつ窓によるもの",
+      "en": "for visual indication of the result of count on counting mechanisms, e.g. by window with magnifying lens",
+      "count": 803,
+      "sourceFile": "ipc_G06M.txt",
+      "kind": "ipc"
+    },
+    "G06M1/24": {
+      "code": "G06M1/24",
+      "level": 2,
+      "parent": "G06M1/22",
+      "ja": "表示ドラム；目盛り盤；指針",
+      "en": "Drums; Dials; Pointers",
+      "count": 799,
+      "sourceFile": "ipc_G06M.txt",
+      "kind": "ipc"
+    },
+    "G06M1/26": {
+      "code": "G06M1/26",
+      "level": 2,
+      "parent": "G06M1/22",
+      "ja": "整列手段",
+      "en": "Aligning means",
+      "count": 214,
+      "sourceFile": "ipc_G06M.txt",
+      "kind": "ipc"
+    },
+    "G06M1/27": {
+      "code": "G06M1/27",
+      "level": 1,
+      "parent": "G06M1/00",
+      "ja": "計数結果を電気信号の形で出力するための構成，例．計数ドラム上のマークを感知することによるもの",
+      "en": "for representing the result of count in the form of electric signals, e.g. by sensing markings on the counter drum",
+      "count": 1680,
+      "sourceFile": "ipc_G06M.txt",
+      "kind": "ipc"
+    },
+    "G06M1/272": {
+      "code": "G06M1/272",
+      "level": 2,
+      "parent": "G06M1/27",
+      "ja": "光電的手段を用いるもの",
+      "en": "using photoelectric means",
+      "count": 3768,
+      "sourceFile": "ipc_G06M.txt",
+      "kind": "ipc"
+    },
+    "G06M1/274": {
+      "code": "G06M1/274",
+      "level": 2,
+      "parent": "G06M1/27",
+      "ja": "磁気的手段を用いるもの；ホール効果素子を用いるもの",
+      "en": "using magnetic means; using Hall-effect devices",
+      "count": 484,
+      "sourceFile": "ipc_G06M.txt",
+      "kind": "ipc"
+    },
+    "G06M1/276": {
+      "code": "G06M1/276",
+      "level": 2,
+      "parent": "G06M1/27",
+      "ja": "機械的に作動される接点を用いるもの",
+      "en": "using mechanically-actuated contacts",
+      "count": 496,
+      "sourceFile": "ipc_G06M.txt",
+      "kind": "ipc"
+    },
+    "G06M1/28": {
+      "code": "G06M1/28",
+      "level": 1,
+      "parent": "G06M1/00",
+      "ja": "特定値への設定または帰零のための構成",
+      "en": "for zeroising or setting to a particular value",
+      "count": 1019,
+      "sourceFile": "ipc_G06M.txt",
+      "kind": "ipc"
+    },
+    "G06M1/30": {
+      "code": "G06M1/30",
+      "level": 2,
+      "parent": "G06M1/28",
+      "ja": "ハート形または類似のカムを用いるもの；レバーを用いるもの",
+      "en": "using heart-shaped or similar cams; using levers",
+      "count": 705,
+      "sourceFile": "ipc_G06M.txt",
+      "kind": "ipc"
+    },
+    "G06M1/32": {
+      "code": "G06M1/32",
+      "level": 3,
+      "parent": "G06M1/30",
+      "ja": "作動手段，例．磁石，ばね，おもり",
+      "en": "Actuating means, e.g. magnet, spring, weight",
+      "count": 95,
+      "sourceFile": "ipc_G06M.txt",
+      "kind": "ipc"
+    },
+    "G06M1/34": {
+      "code": "G06M1/34",
+      "level": 2,
+      "parent": "G06M1/28",
+      "ja": "再設定軸を用いるもの",
+      "en": "using reset shafts",
+      "count": 416,
+      "sourceFile": "ipc_G06M.txt",
+      "kind": "ipc"
+    },
+    "G06M1/36": {
+      "code": "G06M1/36",
+      "level": 3,
+      "parent": "G06M1/34",
+      "ja": "作動手段，例．磁石，ばね，おもり",
+      "en": "Actuating means, e.g. magnet, spring, weight",
+      "count": 144,
+      "sourceFile": "ipc_G06M.txt",
+      "kind": "ipc"
+    },
+    "G06M1/38": {
+      "code": "G06M1/38",
+      "level": 1,
+      "parent": "G06M1/00",
+      "ja": "駆動または桁送りの比を可変にするための構成，例．複数の計数輪列を択一的に用いるもの",
+      "en": "for varying ratio of drive or transfer mechanism, e.g. by using alternative counting trains",
+      "count": 121,
+      "sourceFile": "ipc_G06M.txt",
+      "kind": "ipc"
+    },
+    "G06M3/00": {
+      "code": "G06M3/00",
+      "level": 0,
+      "parent": "G06M",
+      "ja": "付加的手段をもつ計数器［２００６．０１］",
+      "en": "Counters with additional facilities",
+      "count": 2364,
+      "sourceFile": "ipc_G06M.txt",
+      "kind": "ipc"
+    },
+    "G06M3/02": {
+      "code": "G06M3/02",
+      "level": 1,
+      "parent": "G06M3/00",
+      "ja": "設定計数値における作動，例．機械の停止，を行なわせるための手段",
+      "en": "for performing an operation at a predetermined value of the count, e.g. arresting a machine",
+      "count": 1129,
+      "sourceFile": "ipc_G06M.txt",
+      "kind": "ipc"
+    },
+    "G06M3/04": {
+      "code": "G06M3/04",
+      "level": 2,
+      "parent": "G06M3/02",
+      "ja": "逆方向作動用の付加計数輪列をもつもの",
+      "en": "with an additional counter train operating in the reverse direction",
+      "count": 62,
+      "sourceFile": "ipc_G06M.txt",
+      "kind": "ipc"
+    },
+    "G06M3/06": {
+      "code": "G06M3/06",
+      "level": 1,
+      "parent": "G06M3/00",
+      "ja": "計数結果を印字または別表示するための手段［２００６．０１］",
+      "en": "for printing or separately displaying result of count",
+      "count": 578,
+      "sourceFile": "ipc_G06M.txt",
+      "kind": "ipc"
+    },
+    "G06M3/08": {
+      "code": "G06M3/08",
+      "level": 1,
+      "parent": "G06M3/00",
+      "ja": "数個の源からの入力を計数するための手段；異なる量の入力を計数するための手段",
+      "en": "for counting the input from several sources; for counting inputs of different amounts",
+      "count": 333,
+      "sourceFile": "ipc_G06M.txt",
+      "kind": "ipc"
+    },
+    "G06M3/10": {
+      "code": "G06M3/10",
+      "level": 1,
+      "parent": "G06M3/00",
+      "ja": "各単位でそれぞれとりうる値の個数が異なる単位群の計数をするための手段，例．角度における度や分［２００６．０１］",
+      "en": "for counting denominations with unequal numbers in each stage, e.g. degrees and minutes of angle",
+      "count": 40,
+      "sourceFile": "ipc_G06M.txt",
+      "kind": "ipc"
+    },
+    "G06M3/12": {
+      "code": "G06M3/12",
+      "level": 1,
+      "parent": "G06M3/00",
+      "ja": "不適当な作動を防止するための手段，例．偽報防止用",
+      "en": "for preventing incorrect actuation, e.g. for preventing falsification",
+      "count": 472,
+      "sourceFile": "ipc_G06M.txt",
+      "kind": "ipc"
+    },
+    "G06M3/14": {
+      "code": "G06M3/14",
+      "level": 1,
+      "parent": "G06M3/00",
+      "ja": "正および負の作動の差を記録するための手段",
+      "en": "for registering difference of positive and negative actuations",
+      "count": 174,
+      "sourceFile": "ipc_G06M.txt",
+      "kind": "ipc"
+    },
+    "G06M7/00": {
+      "code": "G06M7/00",
+      "level": 0,
+      "parent": "G06M",
+      "ja": "コンベヤによって運ばれる物品の計数",
+      "en": "Counting of objects carried by a conveyor",
+      "count": 5908,
+      "sourceFile": "ipc_G06M.txt",
+      "kind": "ipc"
+    },
+    "G06M7/02": {
+      "code": "G06M7/02",
+      "level": 1,
+      "parent": "G06M7/00",
+      "ja": "検出素子へ達する前に物品が引き続く物品間で明確な空隙を生ずるように分離されるもの",
+      "en": "wherein objects ahead of the sensing element are separated to produce a distinct gap between successive objects",
+      "count": 643,
+      "sourceFile": "ipc_G06M.txt",
+      "kind": "ipc"
+    },
+    "G06M7/04": {
+      "code": "G06M7/04",
+      "level": 2,
+      "parent": "G06M7/02",
+      "ja": "塊状の物品，例．箱，の計数",
+      "en": "Counting of piece goods, e.g. of boxes",
+      "count": 1171,
+      "sourceFile": "ipc_G06M.txt",
+      "kind": "ipc"
+    },
+    "G06M7/06": {
+      "code": "G06M7/06",
+      "level": 2,
+      "parent": "G06M7/02",
+      "ja": "平板状の物品，例．紙，の計数",
+      "en": "Counting of flat articles, e.g. of sheets of paper",
+      "count": 3017,
+      "sourceFile": "ipc_G06M.txt",
+      "kind": "ipc"
+    },
+    "G06M7/08": {
+      "code": "G06M7/08",
+      "level": 1,
+      "parent": "G06M7/00",
+      "ja": "物品が検出される位置で物品の移動方向が変更されるもの",
+      "en": "wherein the direction of movement of the objects is changed at the station where they are sensed",
+      "count": 136,
+      "sourceFile": "ipc_G06M.txt",
+      "kind": "ipc"
+    },
+    "G06M7/10": {
+      "code": "G06M7/10",
+      "level": 2,
+      "parent": "G06M7/08",
+      "ja": "オーバーラップしている平板状物品，例．カード，の計数",
+      "en": "Counting of flat overlapped articles, e.g. of cards",
+      "count": 229,
+      "sourceFile": "ipc_G06M.txt",
+      "kind": "ipc"
+    },
+    "G06M9/00": {
+      "code": "G06M9/00",
+      "level": 0,
+      "parent": "G06M",
+      "ja": "積み重なった物品の計数",
+      "en": "Counting of objects in a stack thereof",
+      "count": 1103,
+      "sourceFile": "ipc_G06M.txt",
+      "kind": "ipc"
+    },
+    "G06M9/02": {
+      "code": "G06M9/02",
+      "level": 1,
+      "parent": "G06M9/00",
+      "ja": "流体吸引ノズルと共働する回転分離装置を用いるもの",
+      "en": "by using a rotating separator incorporating pneumatic suction nozzles",
+      "count": 639,
+      "sourceFile": "ipc_G06M.txt",
+      "kind": "ipc"
+    },
+    "G06M11/00": {
+      "code": "G06M11/00",
+      "level": 0,
+      "parent": "G06M",
+      "ja": "ランダムに分布している物品の計数，例．一表面上に分布しているものの計数",
+      "en": "Counting of objects distributed at random, e.g. on a surface",
+      "count": 2049,
+      "sourceFile": "ipc_G06M.txt",
+      "kind": "ipc"
+    },
+    "G06M11/02": {
+      "code": "G06M11/02",
+      "level": 1,
+      "parent": "G06M11/00",
+      "ja": "一つの表面を次々と線状に走査する電子ビームを用いるもの，例．基板上の血球についてのもの",
+      "en": "using an electron beam scanning a surface line by line, e.g. of blood cells on a substrate",
+      "count": 240,
+      "sourceFile": "ipc_G06M.txt",
+      "kind": "ipc"
+    },
+    "G06M11/04": {
+      "code": "G06M11/04",
+      "level": 2,
+      "parent": "G06M11/02",
+      "ja": "寸法が異なる物品を区別する手段をもつもの［２００６．０１］",
+      "en": "with provision for distinguishing between different sizes of objects",
+      "count": 243,
+      "sourceFile": "ipc_G06M.txt",
+      "kind": "ipc"
+    },
+    "G06M15/00": {
+      "code": "G06M15/00",
+      "level": 0,
+      "parent": "G06M",
+      "ja": "他に分類されない物品の計数［２０１１．０１］",
+      "en": "Counting of objects, not otherwise provided for",
+      "count": 311,
+      "sourceFile": "ipc_G06M.txt",
+      "kind": "ipc"
+    }
+  }
+}

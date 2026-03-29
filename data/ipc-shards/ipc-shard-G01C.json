@@ -1,0 +1,1896 @@
+{
+  "generatedAt": "2026-03-20T02:17:47.000Z",
+  "total": 189,
+  "entries": {
+    "G01C": {
+      "code": "G01C",
+      "level": 0,
+      "parent": "G01",
+      "ja": "距離，水準または方位の測定；測量；航行；ジャイロ計器；写真計量または映像計量（液位の測定Ｇ０１Ｆ；無線による航行，電波の伝播効果，例．ドプラ効果，伝播時間，の使用による距離または速度の決定，その他の波を用いる類似の装置Ｇ０１Ｓ）<br><br><b><ul>注</ul></b><br>（１）このサブクラスにおいては，下記の用語は以下に示す意味で用いる：<br>―“航行”とは地上の乗物，船舶，航空機および宇宙船の位置およびコースの決定を意味する。<br>（２）クラスＧ０１のタイトルに続く注に注意すること。<br><br><b><ul>サブクラス内の索引</ul></b><br>測定機器<br>角度の測定用；傾斜の測定用　１／００；９／００<br>距離の測定用；高さまたは水準測定用　３／００，２２／００；５／００<br>コンパス；ジャイロスコープ；他の航行装置　１７／００；１９／００；２１／００<br>その他の測量機器　１５／００<br>組み合わされた機器　２３／００<br>製造，較正　２５／００<br>プロフイルの追跡　７／００<br>写真測量または映像測量　１１／００<br>開水面の測量　１３／００",
+      "en": "MEASURING DISTANCES, LEVELS OR BEARINGS; SURVEYING; NAVIGATION; GYROSCOPIC INSTRUMENTS; PHOTOGRAMMETRY OR VIDEOGRAMMETRY(measuring liquid level <b>G01F</b>;  radio navigation, determining distance or velocity by use of propagation effects, e.g. Doppler effect, propagation time, of radio waves, analogous arrangements using other waves <b>G01S</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>In this subclass, the following term is used with the meaning indicated:<ul><li>\"navigation\" means determining the position and course of land vehicles, ships, aircraft, and space vehicles.</li></ul></li><li>Attention is drawn to the Notes following the title of class <b>G01</b>.</li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">MEASURING INSTRUMENTS<tr><td width=\"70%\">For measuring angles; inclinations </td><td><b><b>1/00</b>; <b>9/00</b></b></td></tr></tr><tr><td width=\"70%\">For measuring distances; heights or levels </td><td><b><b>3/00</b>, <b>22/00</b>; <b>5/00</b></b></td></tr></tr><tr><td width=\"70%\">Compasses; gyroscopes; other navigation instruments </td><td><b><b>17/00</b>; <b>19/00</b>; <b>21/00</b></b></td></tr></tr><tr><td width=\"70%\">Other surveying instruments </td><td><b><b>15/00</b></b></td></tr></tr><tr><td width=\"70%\">Combined instruments </td><td><b><b>23/00</b></b></td></tr></tr><tr><td width=\"70%\">Manufacture, calibrating </td><td><b><b>25/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">TRACING PROFILES </td><td><b><b>7/00</b></b></td></tr></tr><tr><td width=\"70%\">PHOTOGRAMMETRY OR VIDEOGRAMMETRY </td><td><b><b>11/00</b></b></td></tr></tr><tr><td width=\"70%\">SURVEYING OPEN WATER </td><td><b><b>13/00</b></b></td></tr></tr></table>",
+      "count": 1452,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G01": {
+      "code": "G01",
+      "level": 0,
+      "parent": "G",
+      "ja": "測定；試験<br><br><b><ul>注</ul></b><br>（１）このクラスは“真”の測定計器のほかに類似構造の他の指示表示装置又は記録装置を含み，また更に，信号化装置又は制御装置についてはそれが測定に関するものであって（以下の注（２）で定義するように）特定の信号化目的または特定の制御目的に特に適合しないものである限り，含まれる。<br>（２）このクラスにおいては，下記の用語は以下に示す意味で用いる：<br>―“測定”はその第一義的意味又は基本的な意味よりもかなり広い意味を含むものとして用いる。この語の第一義的な意味においては，変量値を単位もしくはデータに関して又は同じ性質の別の変量に関して数値的に表現することを見い出すこと，例えば長さをスケールで測定するなどある長さを別の長さの表現で表わすこと，を意味する。この変量値は直接的に得る（すぐ前で言及したように）こともあり，また，水銀柱の長さの変化を測定することにより温度変化を測定するなど求める変量値に関連づけることのできる他の変量値を測定することよって得ることもある。しかしながら，同じ装置又は計器が，直接的な表示を行う代りに，記録をとったり，指示効果又は制御効果を奏すべく信号を発生するために用いられたり，或いは，他の装置又は計器と組み合わせて同種又は異種の二以上の変量の測定から一つのまとまった結果を得るために用いられることもあるので，“測定”はかかる数値的表現を変量を数値に変換する何らかの手段の付加的使用によって得ることを可能とするような操作をも含むものとして解釈することが必要である。従って，数値での表現は実際的にはデジタル的表現によって行なうこともありスケールを読むことによって行なうこともあり，また，その指示は数値を用いないで，例えば測定されている変量が特性又は状態であるところの実在物（例．物体，物質，光ビーム）について感知し得る何らかの特性（変量）によって又はそのような特性に類似するもの（例．スケールをもたない部材の対応位置，何らかの手段によって発生される対応電圧）によって，与えられることがある。<br>また，上記のような変量値指示が行なわれずに単に基準又はデータ（その値は数値的に既知のこともあり未知のこともある）に関しての異同を示すだけのことも多くある。この基準又はデータは同一性質であるが異なる実在物（例．標準器）の値のこともあり，或いは異なる時点での同一実在物の値であることもある。その最も単純な形態においては，測定は単にある状態又は性質，例えば運動（いずれかの方向又は特定の方向における）の有無を指示するだけのこともあるし，また，変量が既定値を超えるかどうかを指示するだけのこともある。<br>（３）“マイクロ構造の装置”および“マイクロ構造のシステム”に関する，クラスＢ８１およびサブクラスＢ８１Ｂの両タイトルの後の注に注意すること。［７］<br>（４）セクションＧのタイトルに続く注，特に“変量”という用語の定義については注意はすること。<br>（５）多くの測定装置において，測定すべき第一の変量は第二の変量またはさらなる変量に変換される。第二の変量またはさらなる変量は，第一の変量に関係して構成部材に生じた状態，または構成部材の変位であるかもしれない。そして，さらに変換が必要となるかもしれない。［６］<br>このような装置を分類するときは，（ｉ）重要である特定の変換ステップ，または重要である個々の変換ステップを分類するか，または（ｉｉ）全体としてのシステムのみが重要な場合は，第一の変量を該当する箇所に分類する。［６］<br>これは２つ以上の変換が起こる場合に特に重要である。たとえば，第一の変量（例．圧力）が第二の変量（例．感知体の光学的特性）に変換され，さらにその第二の変量が第三の変量（例．電気的効果）で示されるような場合である。このような場合には，次の分類箇所を考慮しなければならない：<br>第一の変量の変換についての分類場所，その変量により生じた状態を感知することについての分類場所，測定を示すＧ０１Ｄ，そして最後に，該当する場合は，システム全体を分類する場所である。［６］<br>（６）物理的特性の値の変化の測定は，その物理的特性の測定と同一のサブクラスに分類する。例えば，長さの伸びの測定はサブクラスＧ０１Ｂに分類する。",
+      "en": "MEASURING; TESTING; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This class <u>covers</u>, in addition to \"true\" measuring instruments, other indicating or recording devices of analogous construction, and also signalling or control devices insofar as they are concerned with measurement (as defined in Note 2 below) and are not specially adapted to the particular purpose of signalling or control.</li><li>In this class, the following term is used with the meaning indicated: <ul><li>\"measuring\" is used to cover considerably more than its primary or basic meaning. In this primary sense, it means finding a numerical expression of the value of a variable in relation to a unit or datum or to another variable of the same nature, e.g. expressing a length in terms of another length as in measuring a length with a scale; the value may be obtained directly (as just suggested) or by measuring some other variable of which the value can be related to the value of the required variable, as in measuring a change in temperature by measuring a resultant change in the length of a column of mercury. However, since the same device or instrument may, instead of giving an immediate indication, be used to produce a record or to initiate a signal to produce an indication or control effect, or may be used in combination with other devices or instruments to give a conjoint result from measurement of two or more variables of the same or different kinds, it is necessary to interpret \"measuring\" as including also any operation that would make it possible to obtain such a numerical expression by the additional use of some way of converting a value into figures. Thus the expression in figures may be actually made by a digital presentation or by reading a scale, or an indication of it may be given without the use of figures, e.g. by some perceptible feature (variable) of the entity (e.g. object, substance, beam of light) of which the variable being measured is a property or condition or by an analogue of such a feature (e.g. the corresponding position of a member without any scale, a corresponding voltage generated in some way). In many cases there is no such value indication but only an indication of difference or equality in relation to a standard or datum (of which the value may or may not be known in figures); the standard or datum may be the value of another variable of the same nature but of a different entity (e.g. a standard measure) or of the same entity at a different time. <ul><li>In its simplest form, measurement may give merely an indication of presence or absence of a certain condition or quality, e.g. movement (in any direction or in a particular direction), or whether a variable exceeds a predetermined value.</li></ul></li></ul></li><li>Attention is drawn to the Notes following the titles of class <b>B81</b> and subclass <b>B81B</b> relating to \"microstructural devices\" and \"microstructural systems\" and the Notes following the title of subclass <b>B82B</b> relating to \"nanostructures\".</li><li>Attention is drawn to the Notes following the title of section <b>G</b>, especially as regards the definition of the term \"variable\".</li><li>In many measuring arrangements, a first variable to be measured is transformed into a second, or further, variables. The second, or further, variables may be (a) a condition related to the first variable and produced in a member, or (b) a displacement of a member. Further transformation may be needed. <ul><li>When classifying such an arrangement, (i) the transformation step, or each transformation step, that is of interest is classified, or (ii) if interest lies only in the system as a whole, the first variable is classified in the appropriate place.</li><li>This is particularly important where two or more conversions take place, for instance where a first variable, for example pressure, is transformed into a second variable, for example an optical property of a sensing body, and that second variable is expressed by means of a third variable, for example an electric effect. In such a case, the following classification places should be considered: the place for the transformation of the first variable, that for sensing the condition caused by that variable, subclass <b>G01D</b> for expression of the measurement, and finally the place for the overall system, if any.</li></ul></li><li>The measurement of change in the value of a physical property is classified in the same subclass as the measurement of that physical property, e.g. measurement of expansion of length is classified in subclass <b>G01B</b>.</li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G": {
+      "code": "G",
+      "level": 0,
+      "parent": null,
+      "ja": "物理学<br><br><b><ul>注</ul></b><br>１．このセクションにおいては，下記の用語は以下に示す意味で用いる：<br>・“変量”は名詞として，特定の実在物，例．物体，ある量の物質，光ビーム，に関し特定の瞬間に測定することの可能な特性又は特質，例．寸法，温度等の物理的状態，密度又は色等の性質，を意味する。変量が変化すると，その数値的表現は異なる時点で，異なる状態又は個々の状況において異なる値をとることもあり，また，ある状態のもとで又は実用上特定の実在物に関して一定でありうる，例．バーの長さが多くの目的のために一定とみなされる，こともある。<br>２．使用される用語または表現の定義に注意すること。このセクションのいくつかのクラスの注に使用されているものについて，特にクラスＧ０１の“測定”を参照されたい．ＩＰＣ指針パラグラフ１８７の中にあるものについて，“制御”及び“調整”の定義に参照されたい。<br>３．このセクションにおける分類は他のセクションにおいてよりもめんどうな場合があり得る，というのは，その一つは，いろいろな使用分野の差異の判別には構造上の差異又は使用形態上の差異よりも寧ろ使用者の意図における差異の方にかなりの程度影響されてしまうからであり，もう一つは，扱う主題が容易に全体として識別できる“もの”であるよりも，特性又は部品が他の主題のものと共通のものを有しているシステム又は組合わせであることが実際上多いからである。例えば，情報（例．一連の数値）をディスプレイするのは，クラスＧ０９に包含される，教育又は広告のため，クラスＧ０１に包含される，測定の結果が通知されうるため，クラスＧ０８に包含される，遠隔地点に情報を合図するため，又は遠隔地点から合図された情報を提供するためである。目的を記述するために使用する言葉は，当該装置の形態に無関係なこともあり得る特性－例えば，ディスプレイを見る者にとって望ましい効果とか，ディスプレイが遠隔地点から制御されるかどうかという特性－によって決定される。さらに，ある状態，例えば流体圧の変化に応答する装置は，その装置そのものには変更を加えずして，サブクラスＧ０１Ｌに包含される圧力又はＧ０１の他のサブクラスに包含される圧力に関連した他の何らかの状態，例．温度に関してＧ０１Ｋ，についての情報を与えるため，サブクラスＧ０７Ｃに包含される圧力または圧力発生の記録をするため，サブクラスＧ０８Ｂに包含される警報を発するため，又はクラスＧ０５に包含される他の何らかの装置を制御するために用いられることがある。<br>　本分類表は，前述したように，同一の性質のものは同一箇所に分類し得るようにしたものである。従って，技術主題が適切箇所に分類されるためには予めその真正な本質を把握することが特に必要である。",
+      "en": "PHYSICS; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this section, the following term is used with the meaning indicated: <ul><li>\"variable\" as a noun means a feature or property, e.g. a dimension, a physical condition such as temperature, a quality such as density or colour, which, in respect of a particular entity, e.g. an object, a quantity of a substance, a beam of light, and at a particular instant, is capable of being measured; the variable may change, so that its numerical expression may assume different values at different times, in different conditions or in individual cases, but may be constant in respect of a particular entity in certain conditions or for practical purposes, e.g. the length of a bar may be regarded as constant for many purposes.</li></ul></li><li>Attention is drawn to the definitions of terms or expressions used. Some appear in the notes of several of the classes in this section, see in particular the definition of \"measuring\" in class <b>G01</b>. Others appear in paragraph 187 of the Guide to the IPC, see in particular the definitions of \"control\" and \"regulation\".</li><li>Classification in this section may present more difficulty than in other sections, because the distinction between different fields of use rests to a considerable extent on differences in the intention of the user rather than on any constructional differences or differences in the manner of use, and because the subjects dealt with are often in effect systems or combinations, which have features or parts in common, rather than \"things\", which are readily distinguishable as a whole. For example, information, e.g. a set of figures, may be displayed for the purpose of education or advertising covered by class <b>G09</b>, for enabling the result of a measurement to be known covered by class <b>G01</b>, for signalling the information to a distant point or for giving information which has been signalled from a distant point covered by class <b>G08</b>. The words used to describe the purpose depend on features that may be irrelevant to the form of the apparatus concerned, for example, such features as the desired effect on the person who sees the display, or whether the display is controlled from a remote point. Again, a device which responds to some change in a condition, e.g. in the pressure of a fluid, may be used, without modification of the device itself, to give information about the pressure covered by subclass <b>G01L</b> or about some other condition linked to the pressure covered by another subclass of class <b>G01</b>, e.g. <b>G01K</b> for temperature, to make a record of the pressure or of its occurrence covered by subclass <b>G07C</b>, to give an alarm covered by subclass <b>G08B</b>, or to control another apparatus covered by class <b>G05</b>. <ul><li>The classification scheme is intended to enable things of a similar nature, as indicated above, to be classified together. It is therefore particularly necessary for the real nature of any technical subject to be decided before it can be properly classified.</li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G01C1/00": {
+      "code": "G01C1/00",
+      "level": 0,
+      "parent": "G01C",
+      "ja": "角度の測定",
+      "en": "Measuring angles",
+      "count": 7919,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C1/02": {
+      "code": "G01C1/02",
+      "level": 1,
+      "parent": "G01C1/00",
+      "ja": "経緯儀",
+      "en": "Theodolites",
+      "count": 3052,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C1/04": {
+      "code": "G01C1/04",
+      "level": 2,
+      "parent": "G01C1/02",
+      "ja": "カメラと組み合わされたもの",
+      "en": "combined with cameras",
+      "count": 308,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C1/06": {
+      "code": "G01C1/06",
+      "level": 2,
+      "parent": "G01C1/02",
+      "ja": "スケール読取装置",
+      "en": "Arrangements for reading scales",
+      "count": 661,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C1/08": {
+      "code": "G01C1/08",
+      "level": 1,
+      "parent": "G01C1/00",
+      "ja": "六分儀",
+      "en": "Sextants",
+      "count": 310,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C1/10": {
+      "code": "G01C1/10",
+      "level": 2,
+      "parent": "G01C1/08",
+      "ja": "人工水平を含むもの（Ｇ０１Ｃ１／１４が優先）",
+      "en": "including an artificial horizon(<b>G01C1/14</b> takes precedence)",
+      "count": 172,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C1/12": {
+      "code": "G01C1/12",
+      "level": 3,
+      "parent": "G01C1/10",
+      "ja": "安定ミラーをもつもの",
+      "en": "with a stabilised mirror",
+      "count": 20,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C1/14": {
+      "code": "G01C1/14",
+      "level": 2,
+      "parent": "G01C1/08",
+      "ja": "潜望鏡型六分儀",
+      "en": "Periscopic sextants",
+      "count": 4,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C3/00": {
+      "code": "G01C3/00",
+      "level": 0,
+      "parent": "G01C",
+      "ja": "視準線上の距離測定；光学的距離計（測長用テープ，くさりまたはホイールＧ０１Ｂ３／００；アクティブ三角測量方式，即ち，電波以外の電磁波の送信および反射を使用する方式Ｇ０１Ｓ１７／４８）［１，８］",
+      "en": "Measuring distances in line of sight; Optical rangefinders(tapes, chains, or wheels for measuring length <b>G01B3/00</b>; active triangulation systems, i.e. using the transmission and reflection of electromagnetic waves other than radio waves, <b>G01S17/48</b>)",
+      "count": 8481,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C3/02": {
+      "code": "G01C3/02",
+      "level": 1,
+      "parent": "G01C3/00",
+      "ja": "細部",
+      "en": "Details",
+      "count": 2545,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C3/04": {
+      "code": "G01C3/04",
+      "level": 2,
+      "parent": "G01C3/02",
+      "ja": "望遠鏡または双眼鏡と組み合わせるための距離計の適用",
+      "en": "Adaptation of rangefinders for combination with telescopes or binoculars",
+      "count": 510,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C3/06": {
+      "code": "G01C3/06",
+      "level": 2,
+      "parent": "G01C3/02",
+      "ja": "最終指示値を得るための電気的手段の使用",
+      "en": "Use of electric means to obtain final indication",
+      "count": 13182,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C3/08": {
+      "code": "G01C3/08",
+      "level": 3,
+      "parent": "G01C3/06",
+      "ja": "電気的輻射検出器の使用",
+      "en": "Use of electric radiation detectors",
+      "count": 4901,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C3/10": {
+      "code": "G01C3/10",
+      "level": 1,
+      "parent": "G01C3/00",
+      "ja": "可変角度と観測地点内，例．機器内，における固定長の基線とからなる視差三角形を使用するもの［１，８］",
+      "en": "using a parallactic triangle with variable angles and a base of fixed length in the observation station, e.g. in the instrument",
+      "count": 833,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C3/12": {
+      "code": "G01C3/12",
+      "level": 2,
+      "parent": "G01C3/10",
+      "ja": "単一地点で単眼鏡観測するもの，例．合致式（Ｇ０１Ｃ３／２０が優先）",
+      "en": "with monocular observation at a single point, e.g. coincidence type(<b>G01C3/20</b> takes precedence)",
+      "count": 443,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C3/14": {
+      "code": "G01C3/14",
+      "level": 2,
+      "parent": "G01C3/10",
+      "ja": "単一地点で双眼鏡観測するもの，例．ステレオ式（Ｇ０１Ｃ３／２０が優先）",
+      "en": "with binocular observation at a single point, e.g. stereoscopic type(<b>G01C3/20</b> takes precedence)",
+      "count": 363,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C3/16": {
+      "code": "G01C3/16",
+      "level": 3,
+      "parent": "G01C3/14",
+      "ja": "測定用マーク",
+      "en": "Measuring marks",
+      "count": 141,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C3/18": {
+      "code": "G01C3/18",
+      "level": 2,
+      "parent": "G01C3/10",
+      "ja": "基線の両端で一観測点を観測するもの（Ｇ０１Ｃ３／２０が優先）",
+      "en": "with one observation point at each end of the base(<b>G01C3/20</b> takes precedence)",
+      "count": 163,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C3/20": {
+      "code": "G01C3/20",
+      "level": 2,
+      "parent": "G01C3/10",
+      "ja": "目標物の高さの測定に適用するもの",
+      "en": "with adaptation to the measurement of the height of an object",
+      "count": 193,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C3/22": {
+      "code": "G01C3/22",
+      "level": 1,
+      "parent": "G01C3/00",
+      "ja": "可変角と，目標またはその付近あるいは目標自身により形成された固定長の基線とからなる視差三角形を使用するもの［１，８］",
+      "en": "using a parallactic triangle with variable angles and a base of fixed length at, near, or formed by, the object",
+      "count": 386,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C3/24": {
+      "code": "G01C3/24",
+      "level": 1,
+      "parent": "G01C3/00",
+      "ja": "固定角と，観測地点内，例．機器内，における可変長の基線とからなる視差三角形を使用するもの［１，８］",
+      "en": "using a parallactic triangle with fixed angles and a base of variable length in the observation station, e.g. in the instrument",
+      "count": 153,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C3/26": {
+      "code": "G01C3/26",
+      "level": 1,
+      "parent": "G01C3/00",
+      "ja": "固定角と，目標またはその付近，または目標自身により形成される可変長基線からなる視差三角形を使用するもの［１，８］",
+      "en": "using a parallactic triangle with fixed angles and a base of variable length at, near, or formed by, the object",
+      "count": 80,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C3/28": {
+      "code": "G01C3/28",
+      "level": 2,
+      "parent": "G01C3/26",
+      "ja": "水平面への距離の縮小のための設備を有するもの",
+      "en": "with provision for reduction of the distance into the horizontal plane",
+      "count": 35,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C3/30": {
+      "code": "G01C3/30",
+      "level": 3,
+      "parent": "G01C3/28",
+      "ja": "目標の高さの測定に適用するもの，例．視距儀",
+      "en": "with adaptation to the measurement of the height of an object, e.g. tacheometers",
+      "count": 317,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C3/32": {
+      "code": "G01C3/32",
+      "level": 1,
+      "parent": "G01C3/00",
+      "ja": "目標物を焦点合せすることによるもの，例．すりガラススクリーン上に",
+      "en": "by focusing the object, e.g. on a ground glass screen",
+      "count": 296,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C5/00": {
+      "code": "G01C5/00",
+      "level": 0,
+      "parent": "G01C",
+      "ja": "高さの測定；視準線に直交する距離の測定；離れた地点間の水準測量；測量用水準儀（Ｇ０１Ｃ３／２０，Ｇ０１Ｃ３／３０が優先）",
+      "en": "Measuring height; Measuring distances transverse to line of sight; Levelling between separated points; Surveyors' levels(<b>G01C3/20</b>, <b>G01C3/30</b> take precedence)",
+      "count": 20143,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C5/02": {
+      "code": "G01C5/02",
+      "level": 1,
+      "parent": "G01C5/00",
+      "ja": "視準線の自動安定装置を含むもの",
+      "en": "involving automatic stabilisation of the line of sight",
+      "count": 578,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C5/04": {
+      "code": "G01C5/04",
+      "level": 1,
+      "parent": "G01C5/00",
+      "ja": "静水力学的水準測量，すなわち．離れた点にある液体容器を可撓的に結合したもの",
+      "en": "Hydrostatic levelling, i.e. by flexibly interconnected liquid containers at separated points",
+      "count": 2421,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C5/06": {
+      "code": "G01C5/06",
+      "level": 1,
+      "parent": "G01C5/00",
+      "ja": "気圧計の使用によるもの",
+      "en": "by using barometric means",
+      "count": 1739,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C7/00": {
+      "code": "G01C7/00",
+      "level": 0,
+      "parent": "G01C",
+      "ja": "プロフィルの追跡（写真計量または映像計量によるものＧ０１Ｃ１１／００）",
+      "en": "Tracing profiles(by photogrammetry or videogrammetry <b>G01C11/00</b>)",
+      "count": 949,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C7/02": {
+      "code": "G01C7/02",
+      "level": 1,
+      "parent": "G01C7/00",
+      "ja": "地表面の",
+      "en": "of land surfaces",
+      "count": 1426,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C7/04": {
+      "code": "G01C7/04",
+      "level": 2,
+      "parent": "G01C7/02",
+      "ja": "追跡されるプロフィルに沿って移動する乗物を含むもの",
+      "en": "involving a vehicle which moves along the profile to be traced",
+      "count": 1987,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C7/06": {
+      "code": "G01C7/06",
+      "level": 1,
+      "parent": "G01C7/00",
+      "ja": "空洞，例．トンネル，の",
+      "en": "of cavities, e.g. tunnels",
+      "count": 1781,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C9/00": {
+      "code": "G01C9/00",
+      "level": 0,
+      "parent": "G01C",
+      "ja": "傾斜の測定，例．クリノメーターによるもの，水準器によるもの",
+      "en": "Measuring inclination, e.g. by clinometers, by levels",
+      "count": 20514,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C9/02": {
+      "code": "G01C9/02",
+      "level": 1,
+      "parent": "G01C9/00",
+      "ja": "細部",
+      "en": "Details",
+      "count": 10637,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C9/04": {
+      "code": "G01C9/04",
+      "level": 2,
+      "parent": "G01C9/02",
+      "ja": "感知素子と拡大した読取りを得るための最終指示部との間の伝達手段",
+      "en": "Transmission means between sensing element and final indicator for giving an enlarged reading",
+      "count": 434,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C9/06": {
+      "code": "G01C9/06",
+      "level": 2,
+      "parent": "G01C9/02",
+      "ja": "電気的もしくは光電的指示または読取手段",
+      "en": "Electric or photoelectric indication or reading means",
+      "count": 5925,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C9/08": {
+      "code": "G01C9/08",
+      "level": 2,
+      "parent": "G01C9/02",
+      "ja": "機器の移動による加速力の補正手段",
+      "en": "Means for compensating acceleration forces due to movement of instrument",
+      "count": 483,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C9/10": {
+      "code": "G01C9/10",
+      "level": 1,
+      "parent": "G01C9/00",
+      "ja": "ころがる物体の使用によるもの",
+      "en": "by using rolling bodies",
+      "count": 1752,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C9/12": {
+      "code": "G01C9/12",
+      "level": 1,
+      "parent": "G01C9/00",
+      "ja": "単一振子の使用によるもの（下げ振糸Ｇ０１Ｃ１５／１０）",
+      "en": "by using a single pendulum(plumb lines <b>G01C15/10</b>)",
+      "count": 5613,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C9/14": {
+      "code": "G01C9/14",
+      "level": 2,
+      "parent": "G01C9/12",
+      "ja": "二方向以上に可動なもの",
+      "en": "movable in more than one direction",
+      "count": 756,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C9/16": {
+      "code": "G01C9/16",
+      "level": 1,
+      "parent": "G01C9/00",
+      "ja": "複数の振子の使用によるもの",
+      "en": "by using more than one pendulum",
+      "count": 258,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C9/18": {
+      "code": "G01C9/18",
+      "level": 1,
+      "parent": "G01C9/00",
+      "ja": "液体の使用によるもの",
+      "en": "by using liquids",
+      "count": 2161,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C9/20": {
+      "code": "G01C9/20",
+      "level": 2,
+      "parent": "G01C9/18",
+      "ja": "容器に対する液面の傾斜にもとづく指示",
+      "en": "the indication being based on the inclination of the surface of a liquid relative to its container",
+      "count": 1432,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C9/22": {
+      "code": "G01C9/22",
+      "level": 3,
+      "parent": "G01C9/20",
+      "ja": "相互に固定的に連結された容器をもつもの",
+      "en": "with interconnected containers in fixed relation to each other",
+      "count": 669,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C9/24": {
+      "code": "G01C9/24",
+      "level": 2,
+      "parent": "G01C9/18",
+      "ja": "気泡を残すように密閉容器中に部分的に液体を満したもの",
+      "en": "in closed containers partially filled with liquid so as to leave a gas bubble",
+      "count": 6301,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C9/26": {
+      "code": "G01C9/26",
+      "level": 3,
+      "parent": "G01C9/24",
+      "ja": "細部",
+      "en": "Details",
+      "count": 1671,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C9/28": {
+      "code": "G01C9/28",
+      "level": 4,
+      "parent": "G01C9/26",
+      "ja": "支持台",
+      "en": "Mountings",
+      "count": 2141,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C9/30": {
+      "code": "G01C9/30",
+      "level": 4,
+      "parent": "G01C9/26",
+      "ja": "気泡の大きさを調整する手段",
+      "en": "Means for adjusting dimensions of bubble",
+      "count": 74,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C9/32": {
+      "code": "G01C9/32",
+      "level": 4,
+      "parent": "G01C9/26",
+      "ja": "気泡の位置の観測を容易ならしめる手段，例．照明手段",
+      "en": "Means for facilitating the observation of the position of the bubble, e.g. illuminating means",
+      "count": 889,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C9/34": {
+      "code": "G01C9/34",
+      "level": 3,
+      "parent": "G01C9/24",
+      "ja": "気泡管式の，すなわち一方向のみのレベルを示すためのもの",
+      "en": "of the tubular type, i.e. for indicating the level in one direction only",
+      "count": 1708,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C9/36": {
+      "code": "G01C9/36",
+      "level": 3,
+      "parent": "G01C9/24",
+      "ja": "球面式の，すなわちすべての方向のレベルを示すためのもの",
+      "en": "of the spherical type, i.e. for indicating the level in all directions",
+      "count": 557,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C11/00": {
+      "code": "G01C11/00",
+      "level": 0,
+      "parent": "G01C",
+      "ja": "写真計量または映像計量，例．ステレオ法を用いた測量；写真測量［１，８］",
+      "en": "Photogrammetry or videogrammetry, e.g. stereogrammetry; Photographic surveying",
+      "count": 9576,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C11/02": {
+      "code": "G01C11/02",
+      "level": 1,
+      "parent": "G01C11/00",
+      "ja": "写真計量または写真測量に特に適合する写真撮影装置，例．写真の重なりを制御するもの",
+      "en": "Picture-taking arrangements specially adapted for photogrammetry or photographic surveying, e.g. controlling overlapping of pictures",
+      "count": 6729,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C11/04": {
+      "code": "G01C11/04",
+      "level": 1,
+      "parent": "G01C11/00",
+      "ja": "写真の判読",
+      "en": "Interpretation of pictures",
+      "count": 3641,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C11/06": {
+      "code": "G01C11/06",
+      "level": 2,
+      "parent": "G01C11/04",
+      "ja": "同一地域の２枚以上の写真の比較によるもの",
+      "en": "by comparison of two or more pictures of the same area",
+      "count": 1750,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C11/08": {
+      "code": "G01C11/08",
+      "level": 3,
+      "parent": "G01C11/06",
+      "ja": "撮影されたときと同じ相対位置に写真を支持しないもの",
+      "en": "the pictures not being supported in the same relative position as when they were taken",
+      "count": 498,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C11/10": {
+      "code": "G01C11/10",
+      "level": 4,
+      "parent": "G01C11/08",
+      "ja": "写真の位置の制御に計算機を使用するもの",
+      "en": "using computers to control the position of the pictures",
+      "count": 119,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C11/12": {
+      "code": "G01C11/12",
+      "level": 3,
+      "parent": "G01C11/06",
+      "ja": "撮影されたときと同じ相対位置に写真を支持するもの",
+      "en": "the pictures being supported in the same relative position as when they were taken",
+      "count": 227,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C11/14": {
+      "code": "G01C11/14",
+      "level": 4,
+      "parent": "G01C11/12",
+      "ja": "光学投影手段をもつもの（Ｇ０１Ｃ１１／２６が優先）",
+      "en": "with optical projection(<b>G01C11/26</b> takes precedence)",
+      "count": 133,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C11/16": {
+      "code": "G01C11/16",
+      "level": 5,
+      "parent": "G01C11/14",
+      "ja": "共通平面上に",
+      "en": "in a common plane",
+      "count": 33,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C11/18": {
+      "code": "G01C11/18",
+      "level": 6,
+      "parent": "G01C11/16",
+      "ja": "走査手段を含むもの",
+      "en": "involving scanning means",
+      "count": 75,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C11/20": {
+      "code": "G01C11/20",
+      "level": 5,
+      "parent": "G01C11/14",
+      "ja": "分離された平面上に",
+      "en": "in separate planes",
+      "count": 12,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C11/22": {
+      "code": "G01C11/22",
+      "level": 4,
+      "parent": "G01C11/12",
+      "ja": "機械的投影手段をもつもの（Ｇ０１Ｃ１１／２６が優先）",
+      "en": "with mechanical projection(<b>G01C11/26</b> takes precedence)",
+      "count": 23,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C11/24": {
+      "code": "G01C11/24",
+      "level": 4,
+      "parent": "G01C11/12",
+      "ja": "光学的―機械的投影手段をもつもの（Ｇ０１Ｃ１１／２６が優先）",
+      "en": "with optical-mechanical projection(<b>G01C11/26</b> takes precedence)",
+      "count": 69,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C11/26": {
+      "code": "G01C11/26",
+      "level": 4,
+      "parent": "G01C11/12",
+      "ja": "写真の位置の制御に計算機を使用するもの",
+      "en": "using computers to control the position of the pictures",
+      "count": 169,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C11/28": {
+      "code": "G01C11/28",
+      "level": 3,
+      "parent": "G01C11/06",
+      "ja": "写真上のデータを記録するために特に付設する物，例．プロフィル用",
+      "en": "Special adaptation for recording picture point data, e.g. for profiles",
+      "count": 198,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C11/30": {
+      "code": "G01C11/30",
+      "level": 2,
+      "parent": "G01C11/04",
+      "ja": "三角測量によるもの",
+      "en": "by triangulation",
+      "count": 402,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C11/32": {
+      "code": "G01C11/32",
+      "level": 3,
+      "parent": "G01C11/30",
+      "ja": "放射三角測量",
+      "en": "Radial triangulation",
+      "count": 26,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C11/34": {
+      "code": "G01C11/34",
+      "level": 3,
+      "parent": "G01C11/30",
+      "ja": "空中三角測量",
+      "en": "Aerial triangulation",
+      "count": 309,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C11/36": {
+      "code": "G01C11/36",
+      "level": 1,
+      "parent": "G01C11/00",
+      "ja": "映像計量，即ち，異なる情報源からの映像信号の電子処理であり，視差情報または距離情報を提供するためのもの［８］",
+      "en": "Videogrammetry, i.e. electronic processing of video signals from different sources to give parallax or range information",
+      "count": 1493,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C13/00": {
+      "code": "G01C13/00",
+      "level": 0,
+      "parent": "G01C",
+      "ja": "特に開水面で用いられる測量，例．海，湖，川または運河（液位の測定Ｇ０１Ｆ）",
+      "en": "Surveying specially adapted to open water, e.g. sea, lake, river or canal(liquid level metering <b>G01F</b>)",
+      "count": 11361,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C15/00": {
+      "code": "G01C15/00",
+      "level": 0,
+      "parent": "G01C",
+      "ja": "グループＧ０１Ｃ１／００～Ｇ０１Ｃ１３／００までに分類されない測量機器または付属具",
+      "en": "Surveying instruments or accessories not provided for in groups <b>G01C1/00 to G01C13/00</b> ",
+      "count": 48889,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C15/02": {
+      "code": "G01C15/02",
+      "level": 1,
+      "parent": "G01C15/00",
+      "ja": "測点のマーク付のための手段",
+      "en": "Means for marking measuring points",
+      "count": 3747,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C15/04": {
+      "code": "G01C15/04",
+      "level": 2,
+      "parent": "G01C15/02",
+      "ja": "永久的測標；境界標識",
+      "en": "Permanent marks; Boundary markers",
+      "count": 1117,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C15/06": {
+      "code": "G01C15/06",
+      "level": 2,
+      "parent": "G01C15/02",
+      "ja": "測量用標尺；可動標識",
+      "en": "Surveyors' staffs; Movable markers",
+      "count": 4364,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C15/08": {
+      "code": "G01C15/08",
+      "level": 3,
+      "parent": "G01C15/06",
+      "ja": "測地標上の下げ振りまたは記印用の標尺または標識",
+      "en": "Plumbing or registering staffs or markers over ground marks",
+      "count": 3219,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C15/10": {
+      "code": "G01C15/10",
+      "level": 1,
+      "parent": "G01C15/00",
+      "ja": "下げ振り",
+      "en": "Plumb lines",
+      "count": 4527,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C15/12": {
+      "code": "G01C15/12",
+      "level": 1,
+      "parent": "G01C15/00",
+      "ja": "固定角，例．直角，を設定するための器具",
+      "en": "Instruments for setting out fixed angles, e.g. right angles",
+      "count": 3477,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C15/14": {
+      "code": "G01C15/14",
+      "level": 1,
+      "parent": "G01C15/00",
+      "ja": "人工水平儀",
+      "en": "Artificial horizons",
+      "count": 216,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C17/00": {
+      "code": "G01C17/00",
+      "level": 0,
+      "parent": "G01C",
+      "ja": "コンパス；航行もしくは測量のために真北または磁北を探知する装置（ジャイロ効果を利用するものＧ０１Ｃ１９／００）",
+      "en": "Compasses; Devices for ascertaining true or magnetic north for navigation or surveying purposes(using gyroscopic effect <b>G01C19/00</b>)",
+      "count": 2747,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C17/02": {
+      "code": "G01C17/02",
+      "level": 1,
+      "parent": "G01C17/00",
+      "ja": "磁気コンパス",
+      "en": "Magnetic compasses",
+      "count": 737,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C17/04": {
+      "code": "G01C17/04",
+      "level": 2,
+      "parent": "G01C17/02",
+      "ja": "指北用磁気要素，例．磁針",
+      "en": "with north-seeking magnetic elements, e.g. needles",
+      "count": 1245,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C17/06": {
+      "code": "G01C17/06",
+      "level": 3,
+      "parent": "G01C17/04",
+      "ja": "磁気要素の懸架",
+      "en": "Suspending magnetic elements",
+      "count": 113,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C17/08": {
+      "code": "G01C17/08",
+      "level": 4,
+      "parent": "G01C17/06",
+      "ja": "浮体によるもの",
+      "en": "by flotation",
+      "count": 164,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C17/10": {
+      "code": "G01C17/10",
+      "level": 3,
+      "parent": "G01C17/04",
+      "ja": "観測方向と北指示とを比較するもの",
+      "en": "Comparing observed direction with north indication",
+      "count": 122,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C17/12": {
+      "code": "G01C17/12",
+      "level": 4,
+      "parent": "G01C17/10",
+      "ja": "視準体によるもの，例．測量用コンパスのためのもの",
+      "en": "by sighting means, e.g. for surveyors' compasses",
+      "count": 266,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C17/14": {
+      "code": "G01C17/14",
+      "level": 4,
+      "parent": "G01C17/10",
+      "ja": "参照マークによるもの，例．船舶用コンパスのためのもの",
+      "en": "by reference marks, e.g. for ships' compasses",
+      "count": 55,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C17/16": {
+      "code": "G01C17/16",
+      "level": 4,
+      "parent": "G01C17/10",
+      "ja": "傾斜計によるもの，例．地層の俯角または層向決定用",
+      "en": "by clinometers, e.g. for determining dip or strike of geological strata",
+      "count": 72,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C17/18": {
+      "code": "G01C17/18",
+      "level": 3,
+      "parent": "G01C17/04",
+      "ja": "コンパスの支持または懸架，例．ジンバルによるもの，浮体によるもの",
+      "en": "Supporting or suspending compasses, e.g. by gimbal, by flotation",
+      "count": 287,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C17/20": {
+      "code": "G01C17/20",
+      "level": 3,
+      "parent": "G01C17/04",
+      "ja": "コンパスの指針面または磁針の観察",
+      "en": "Observing the compass card or needle",
+      "count": 206,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C17/22": {
+      "code": "G01C17/22",
+      "level": 4,
+      "parent": "G01C17/20",
+      "ja": "投影によるもの",
+      "en": "by projection",
+      "count": 47,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C17/24": {
+      "code": "G01C17/24",
+      "level": 4,
+      "parent": "G01C17/20",
+      "ja": "照明",
+      "en": "Illumination",
+      "count": 154,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C17/26": {
+      "code": "G01C17/26",
+      "level": 4,
+      "parent": "G01C17/20",
+      "ja": "最終指示器への伝達に電気的ピックオフ，例．フォトセル，を使用するもの",
+      "en": "using electric pick-offs for transmission to final indicator, e.g. photocell",
+      "count": 444,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C17/28": {
+      "code": "G01C17/28",
+      "level": 2,
+      "parent": "G01C17/02",
+      "ja": "電気磁気コンパス（指北用磁気要素および電気的ピックオフをもつものＧ０１Ｃ１７／２６）",
+      "en": "Electromagnetic compasses(with north-seeking magnetic elements and having electric pick-offs <b>G01C17/26</b>)",
+      "count": 1176,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C17/30": {
+      "code": "G01C17/30",
+      "level": 3,
+      "parent": "G01C17/28",
+      "ja": "地磁気誘導コンパス",
+      "en": "Earth-inductor compasses",
+      "count": 1114,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C17/32": {
+      "code": "G01C17/32",
+      "level": 3,
+      "parent": "G01C17/28",
+      "ja": "電子コンパス",
+      "en": "Electron compasses",
+      "count": 918,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C17/34": {
+      "code": "G01C17/34",
+      "level": 1,
+      "parent": "G01C17/00",
+      "ja": "太陽コンパスまたは星コンパス",
+      "en": "Sun- or astro-compasses",
+      "count": 236,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C17/36": {
+      "code": "G01C17/36",
+      "level": 1,
+      "parent": "G01C17/00",
+      "ja": "マスターコンパスの読取りを遠隔指示するためのリピーター",
+      "en": "Repeaters for remote indication of readings of a master compass",
+      "count": 205,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C17/38": {
+      "code": "G01C17/38",
+      "level": 1,
+      "parent": "G01C17/00",
+      "ja": "コンパスの試験，較正，または補償",
+      "en": "Testing, calibrating, or compensating of compasses",
+      "count": 2527,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C19/00": {
+      "code": "G01C19/00",
+      "level": 0,
+      "parent": "G01C",
+      "ja": "ジャイロスコープ；振動状態の質量体を用いる回転感知装置；運動状態の質量体を持たない回転感知装置；ジャイロ効果を利用した角速度の測定［１，２０１３．０１］",
+      "en": "Gyroscopes; Turn-sensitive devices using vibrating masses; Turn-sensitive devices without moving masses; Measuring angular rate using gyroscopic effects",
+      "count": 5861,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C19/02": {
+      "code": "G01C19/02",
+      "level": 1,
+      "parent": "G01C19/00",
+      "ja": "回転体ジャイロスコープ",
+      "en": "Rotary gyroscopes",
+      "count": 1500,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C19/04": {
+      "code": "G01C19/04",
+      "level": 2,
+      "parent": "G01C19/02",
+      "ja": "細部",
+      "en": "Details",
+      "count": 706,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C19/06": {
+      "code": "G01C19/06",
+      "level": 3,
+      "parent": "G01C19/04",
+      "ja": "回転体",
+      "en": "Rotors",
+      "count": 307,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C19/08": {
+      "code": "G01C19/08",
+      "level": 4,
+      "parent": "G01C19/06",
+      "ja": "電気的に駆動されるもの（Ｇ０１Ｃ１９／１４が優先）",
+      "en": "electrically driven(<b>G01C19/14</b> takes precedence)",
+      "count": 279,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C19/10": {
+      "code": "G01C19/10",
+      "level": 5,
+      "parent": "G01C19/08",
+      "ja": "電力の供給",
+      "en": "Power supply",
+      "count": 101,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C19/12": {
+      "code": "G01C19/12",
+      "level": 4,
+      "parent": "G01C19/06",
+      "ja": "流体で駆動されるもの（Ｇ０１Ｃ１９／１４が優先）",
+      "en": "fluid driven(<b>G01C19/14</b> takes precedence)",
+      "count": 84,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C19/14": {
+      "code": "G01C19/14",
+      "level": 4,
+      "parent": "G01C19/06",
+      "ja": "流体回転体",
+      "en": "Fluid rotors",
+      "count": 156,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C19/16": {
+      "code": "G01C19/16",
+      "level": 3,
+      "parent": "G01C19/04",
+      "ja": "懸架手段；軸受",
+      "en": "Suspensions; Bearings",
+      "count": 436,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C19/18": {
+      "code": "G01C19/18",
+      "level": 4,
+      "parent": "G01C19/16",
+      "ja": "回転体をその回転軸に対し可動に支持したもの（Ｇ０１Ｃ１９／２０，Ｇ０１Ｃ１９／２４が優先）",
+      "en": "providing movement of rotor with respect to its rotational axes(<b>G01C19/20</b>, <b>G01C19/24</b> take precedence)",
+      "count": 198,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C19/20": {
+      "code": "G01C19/20",
+      "level": 4,
+      "parent": "G01C19/16",
+      "ja": "液中",
+      "en": "in fluid",
+      "count": 342,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C19/22": {
+      "code": "G01C19/22",
+      "level": 4,
+      "parent": "G01C19/16",
+      "ja": "ねじれ支持",
+      "en": "torsional",
+      "count": 189,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C19/24": {
+      "code": "G01C19/24",
+      "level": 4,
+      "parent": "G01C19/16",
+      "ja": "磁場または電場の使用",
+      "en": "using magnetic or electrostatic fields",
+      "count": 355,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C19/26": {
+      "code": "G01C19/26",
+      "level": 3,
+      "parent": "G01C19/04",
+      "ja": "鎖錠，すなわち可動部分の固定，例．輸送のためのもの",
+      "en": "Caging, i.e. immobilising moving parts, e.g. for transport",
+      "count": 264,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C19/28": {
+      "code": "G01C19/28",
+      "level": 3,
+      "parent": "G01C19/04",
+      "ja": "ピックオフ，すなわち回転体の軸の変位の指示を取出すための装置",
+      "en": "Pick-offs, i.e. devices for taking off an indication of the displacement of the rotor axis",
+      "count": 471,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C19/30": {
+      "code": "G01C19/30",
+      "level": 3,
+      "parent": "G01C19/04",
+      "ja": "起立装置，すなわち所望の位置に回転体の軸を戻す装置（垂直指示計器用Ｇ０１Ｃ１９／４６）",
+      "en": "Erection devices, i.e. devices for restoring rotor axis to a desired position(for instrument indicating the vertical <b>G01C19/46</b>)",
+      "count": 338,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C19/32": {
+      "code": "G01C19/32",
+      "level": 3,
+      "parent": "G01C19/04",
+      "ja": "回転体ジャイロスコープに特に適合する指示または記録手段",
+      "en": "Indicating or recording means specially adapted for rotary gyroscopes",
+      "count": 253,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C19/34": {
+      "code": "G01C19/34",
+      "level": 2,
+      "parent": "G01C19/02",
+      "ja": "水平面内での方向指示用，例．定針儀",
+      "en": "for indicating a direction in the horizontal plane, e.g. directional gyroscopes",
+      "count": 278,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C19/36": {
+      "code": "G01C19/36",
+      "level": 3,
+      "parent": "G01C19/34",
+      "ja": "磁気的手段によって指北作用をもたせるもの，例．ジャイロ磁気コンパス",
+      "en": "with north-seeking action by magnetic means, e.g. gyromagnetic compasses",
+      "count": 269,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C19/38": {
+      "code": "G01C19/38",
+      "level": 3,
+      "parent": "G01C19/34",
+      "ja": "磁気的手段以外により指北作用をもたせるもの，例．地球の自転を利用したジャイロコンパス",
+      "en": "with north-seeking action by other than magnetic means, e.g. gyrocompasses using earth's rotation",
+      "count": 2001,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C19/40": {
+      "code": "G01C19/40",
+      "level": 2,
+      "parent": "G01C19/02",
+      "ja": "マスターコンパスからの信号により制御するもの，すなわちリピーターコンパス",
+      "en": "for control by signals from a master compass, i.e. repeater compasses",
+      "count": 173,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C19/42": {
+      "code": "G01C19/42",
+      "level": 2,
+      "parent": "G01C19/02",
+      "ja": "旋回率指示用；旋回率積分用",
+      "en": "for indicating rate of turn; for integrating rate of turn",
+      "count": 722,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C19/44": {
+      "code": "G01C19/44",
+      "level": 2,
+      "parent": "G01C19/02",
+      "ja": "垂直方向指示用",
+      "en": "for indicating the vertical",
+      "count": 1010,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C19/46": {
+      "code": "G01C19/46",
+      "level": 3,
+      "parent": "G01C19/44",
+      "ja": "所望の位置へ回転体の軸を戻すための起立装置",
+      "en": "Erection devices for restoring rotor axis to a desired position",
+      "count": 57,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C19/48": {
+      "code": "G01C19/48",
+      "level": 4,
+      "parent": "G01C19/46",
+      "ja": "電気的手段により作動するもの（Ｇ０１Ｃ１９／５４が優先）",
+      "en": "operating by electrical means(<b>G01C19/54</b> takes precedence)",
+      "count": 51,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C19/50": {
+      "code": "G01C19/50",
+      "level": 4,
+      "parent": "G01C19/46",
+      "ja": "機械的手段により作動するもの（Ｇ０１Ｃ１９／５４が優先）",
+      "en": "operating by mechanical means(<b>G01C19/54</b> takes precedence)",
+      "count": 66,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C19/52": {
+      "code": "G01C19/52",
+      "level": 4,
+      "parent": "G01C19/46",
+      "ja": "流体手段により作動するもの（Ｇ０１Ｃ１９／５４が優先）",
+      "en": "operating by fluid means(<b>G01C19/54</b> takes precedence)",
+      "count": 29,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C19/54": {
+      "code": "G01C19/54",
+      "level": 4,
+      "parent": "G01C19/46",
+      "ja": "装置の運動による加速力の補正手段をもつもの",
+      "en": "with correction for acceleration forces due to movement of instrument",
+      "count": 78,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C19/56": {
+      "code": "G01C19/56",
+      "level": 1,
+      "parent": "G01C19/00",
+      "ja": "振動状態の質量体を用いる回転感知装置，例．コリオリ力に基づく振動型角速度センサ［１，２０１２．０１］",
+      "en": "Turn-sensitive devices using vibrating masses, e.g. vibratory angular rate sensors based on Coriolis forces",
+      "count": 7317,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C19/5607": {
+      "code": "G01C19/5607",
+      "level": 2,
+      "parent": "G01C19/56",
+      "ja": "振動状態の音叉を用いるもの（平面状の複数の振動質量体を両側で支持した両終端音叉を用いるものはＧ０１Ｃ１９／５７１９）［２０１２．０１］",
+      "en": "using vibrating tuning forks(double-ended tuning forks using planar vibrating masses suspended at opposite ends <b>G01C19/5719</b>)",
+      "count": 812,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C19/5614": {
+      "code": "G01C19/5614",
+      "level": 3,
+      "parent": "G01C19/5607",
+      "ja": "信号処理［２０１２．０１］",
+      "en": "Signal processing",
+      "count": 713,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C19/5621": {
+      "code": "G01C19/5621",
+      "level": 3,
+      "parent": "G01C19/5607",
+      "ja": "マイクロメカニカル構造を含む装置［２０１２．０１］",
+      "en": "the devices involving a micromechanical structure",
+      "count": 716,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C19/5628": {
+      "code": "G01C19/5628",
+      "level": 3,
+      "parent": "G01C19/5607",
+      "ja": "製造；トリミング；据え付け；ハウジング［２０１２．０１］",
+      "en": "Manufacturing; Trimming; Mounting; Housings",
+      "count": 1290,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C19/5635": {
+      "code": "G01C19/5635",
+      "level": 2,
+      "parent": "G01C19/56",
+      "ja": "振動状態のワイヤーまたは弦を用いるもの［２０１２．０１］",
+      "en": "using vibrating wires or strings",
+      "count": 44,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C19/5642": {
+      "code": "G01C19/5642",
+      "level": 2,
+      "parent": "G01C19/56",
+      "ja": "振動状態の棒状体または梁を用いるもの［２０１２．０１］",
+      "en": "using vibrating bars or beams",
+      "count": 467,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C19/5649": {
+      "code": "G01C19/5649",
+      "level": 3,
+      "parent": "G01C19/5642",
+      "ja": "信号処理［２０１２．０１］",
+      "en": "Signal processing",
+      "count": 483,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C19/5656": {
+      "code": "G01C19/5656",
+      "level": 3,
+      "parent": "G01C19/5642",
+      "ja": "マイクロメカニカル構造を含む装置［２０１２．０１］",
+      "en": "the devices involving a micromechanical structure",
+      "count": 560,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C19/5663": {
+      "code": "G01C19/5663",
+      "level": 3,
+      "parent": "G01C19/5642",
+      "ja": "製造；トリミング；据え付け；ハウジング［２０１２．０１］",
+      "en": "Manufacturing; Trimming; Mounting; Housings",
+      "count": 788,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C19/567": {
+      "code": "G01C19/567",
+      "level": 2,
+      "parent": "G01C19/56",
+      "ja": "振動の節または波腹の位相シフトを用いるもの［２０１２．０１］",
+      "en": "using the phase shift of a vibration node or antinode",
+      "count": 111,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C19/5677": {
+      "code": "G01C19/5677",
+      "level": 3,
+      "parent": "G01C19/567",
+      "ja": "本質的に２次元振動する振動体，例．環状に形成された振動体，に関するもの［２０１２．０１］",
+      "en": "of essentially two-dimensional [2D] vibrators, e.g. ring-shaped vibrators",
+      "count": 192,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C19/5684": {
+      "code": "G01C19/5684",
+      "level": 4,
+      "parent": "G01C19/5677",
+      "ja": "マイクロメカニカル構造を含む装置［２０１２．０１］",
+      "en": "the devices involving a micromechanical structure",
+      "count": 336,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C19/5691": {
+      "code": "G01C19/5691",
+      "level": 3,
+      "parent": "G01C19/567",
+      "ja": "本質的に３次元振動する振動体，例．ワイングラス型振動体，に関するもの［２０１２．０１］",
+      "en": "of essentially three-dimensional [3D] vibrators, e.g. wine glass-type vibrators",
+      "count": 569,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C19/5698": {
+      "code": "G01C19/5698",
+      "level": 2,
+      "parent": "G01C19/56",
+      "ja": "音響波を用いるもの，例．弾性表面波ジャイロ［２０１２．０１］",
+      "en": "using acoustic waves, e.g. surface acoustic wave gyros",
+      "count": 222,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C19/5705": {
+      "code": "G01C19/5705",
+      "level": 2,
+      "parent": "G01C19/56",
+      "ja": "駆動軸回りに往復回転する運動状態に駆動される質量体を用いるもの［２０１２．０１］",
+      "en": "using masses driven in reciprocating rotary motion about an axis",
+      "count": 174,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C19/5712": {
+      "code": "G01C19/5712",
+      "level": 3,
+      "parent": "G01C19/5705",
+      "ja": "マイクロメカニカル構造を含む装置［２０１２．０１］",
+      "en": "the devices involving a micromechanical structure",
+      "count": 683,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C19/5719": {
+      "code": "G01C19/5719",
+      "level": 2,
+      "parent": "G01C19/56",
+      "ja": "駆動軸沿いに移動する振動状態に駆動される平面状の振動質量体を用いるもの［２０１２．０１］",
+      "en": "using planar vibrating masses driven in a translation vibration along an axis",
+      "count": 544,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C19/5726": {
+      "code": "G01C19/5726",
+      "level": 3,
+      "parent": "G01C19/5719",
+      "ja": "信号処理［２０１２．０１］",
+      "en": "Signal processing",
+      "count": 533,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C19/5733": {
+      "code": "G01C19/5733",
+      "level": 3,
+      "parent": "G01C19/5719",
+      "ja": "構造上の細部または幾何学的特徴［２０１２．０１］",
+      "en": "Structural details or topology",
+      "count": 527,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C19/574": {
+      "code": "G01C19/574",
+      "level": 4,
+      "parent": "G01C19/5733",
+      "ja": "逆位相で運動する２つの検知質量体を有するもの［２０１２．０１］",
+      "en": "the devices having two sensing masses in anti-phase motion",
+      "count": 450,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C19/5747": {
+      "code": "G01C19/5747",
+      "level": 5,
+      "parent": "G01C19/574",
+      "ja": "各々の検知質量体が駆動質量体，例．駆動フレーム，に連結されているもの［２０１２．０１］",
+      "en": "each sensing mass being connected to a driving mass, e.g. driving frames",
+      "count": 555,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C19/5755": {
+      "code": "G01C19/5755",
+      "level": 4,
+      "parent": "G01C19/5733",
+      "ja": "単一の検知質量体を有するもの［２０１２．０１］",
+      "en": "the devices having a single sensing mass",
+      "count": 421,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C19/5762": {
+      "code": "G01C19/5762",
+      "level": 5,
+      "parent": "G01C19/5755",
+      "ja": "検知質量体が駆動質量体，例．駆動フレーム，に連結されているもの［２０１２．０１］",
+      "en": "the sensing mass being connected to a driving mass, e.g. driving frames",
+      "count": 301,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C19/5769": {
+      "code": "G01C19/5769",
+      "level": 3,
+      "parent": "G01C19/5719",
+      "ja": "製造；据え付け；ハウジング［２０１２．０１］",
+      "en": "Manufacturing; Mounting; Housings",
+      "count": 747,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C19/5776": {
+      "code": "G01C19/5776",
+      "level": 2,
+      "parent": "G01C19/56",
+      "ja": "Ｇ０１Ｃ１９／５６０７～Ｇ０１Ｃ１９／５７１９のグループに包含されるいずれの装置にも特有でない信号処理［２０１２．０１］",
+      "en": "Signal processing not specific to any of the devices covered by groups <b>G01C19/5607 to G01C19/5719</b> ",
+      "count": 1353,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C19/5783": {
+      "code": "G01C19/5783",
+      "level": 2,
+      "parent": "G01C19/56",
+      "ja": "Ｇ０１Ｃ１９／５６０７～Ｇ０１Ｃ１９／５７１９のグループに包含されるいずれの装置にも特有でない据え付けまたはハウジング［２０１２．０１］",
+      "en": "Mountings or housings not specific to any of the devices covered by groups <b>G01C19/5607 to G01C19/5719</b> ",
+      "count": 698,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C19/58": {
+      "code": "G01C19/58",
+      "level": 1,
+      "parent": "G01C19/00",
+      "ja": "運動状態の質量体をもたない回転感知装置［３］",
+      "en": "Turn-sensitive devices without moving masses",
+      "count": 599,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C19/60": {
+      "code": "G01C19/60",
+      "level": 2,
+      "parent": "G01C19/58",
+      "ja": "電子または核磁気共鳴ジャイロメータ［３，４］",
+      "en": "Electronic or nuclear magnetic resonance gyrometers",
+      "count": 210,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C19/62": {
+      "code": "G01C19/62",
+      "level": 3,
+      "parent": "G01C19/60",
+      "ja": "オプチカルポンピングをもつもの［３］",
+      "en": "with optical pumping",
+      "count": 189,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C19/64": {
+      "code": "G01C19/64",
+      "level": 2,
+      "parent": "G01C19/58",
+      "ja": "サニャック効果，すなわち．互いに反対方向へ回転する電磁ビーム間の回転誘導偏移，を用いたジャイロメータ［３］",
+      "en": "Gyrometers using the Sagnac effect, i.e. rotation-induced shifts between counter-rotating electromagnetic beams",
+      "count": 1337,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C19/66": {
+      "code": "G01C19/66",
+      "level": 3,
+      "parent": "G01C19/64",
+      "ja": "リングレーザジャイロメータ［５］",
+      "en": "Ring laser gyrometers",
+      "count": 1450,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C19/68": {
+      "code": "G01C19/68",
+      "level": 4,
+      "parent": "G01C19/66",
+      "ja": "ロックイン防止［５］",
+      "en": "Lock-in prevention",
+      "count": 150,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C19/70": {
+      "code": "G01C19/70",
+      "level": 5,
+      "parent": "G01C19/68",
+      "ja": "機械的手段によるもの［５］",
+      "en": "by mechanical means",
+      "count": 168,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C19/72": {
+      "code": "G01C19/72",
+      "level": 3,
+      "parent": "G01C19/64",
+      "ja": "受動リング内で互いに反対方向へ回転する光ビームをもつもの，例．ファイバレーザジャイロメータ［５］",
+      "en": "with counter-rotating light beams in a passive ring, e.g. fibre laser gyrometers",
+      "count": 4717,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C21/00": {
+      "code": "G01C21/00",
+      "level": 0,
+      "parent": "G01C",
+      "ja": "航行；グループＧ０１Ｃ１／００～Ｇ０１Ｃ１９／００に分類されない航行装置（乗物による対地移動距離の測定Ｇ０１Ｃ２２／００；乗物の位置，進路，高度，または姿勢の制御Ｇ０５Ｄ１／００；車両にナビゲーション指示を伝えることを含む路上乗物の交通制御システムのためのものＧ０８Ｇ１／０９６８）",
+      "en": "Navigation; Navigational instruments not provided for in groups <b>G01C1/00 to G01C19/00</b> (measuring distance traversed on the ground by a vehicle <b>G01C22/00</b>; control of position, course, altitude or attitude of vehicles <b>G05D1/00</b>; traffic control systems for road vehicles involving transmission of navigation instructions to the vehicle <b>G08G1/0968</b>)",
+      "count": 62201,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C21/02": {
+      "code": "G01C21/02",
+      "level": 1,
+      "parent": "G01C21/00",
+      "ja": "天文学的手段によるもの（Ｇ０１Ｃ２１／２４，Ｇ０１Ｃ２１／２６が優先）［１，７］",
+      "en": "by astronomical means(<b>G01C21/24</b>, <b>G01C21/26</b> take precedence)",
+      "count": 2409,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C21/04": {
+      "code": "G01C21/04",
+      "level": 1,
+      "parent": "G01C21/00",
+      "ja": "地球上の手段によるもの（Ｇ０１Ｃ２１／２４，Ｇ０１Ｃ２１／２６が優先）［１，７］",
+      "en": "by terrestrial means(<b>G01C21/24</b>, <b>G01C21/26</b> take precedence)",
+      "count": 1730,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C21/06": {
+      "code": "G01C21/06",
+      "level": 2,
+      "parent": "G01C21/04",
+      "ja": "ドリフト角の測定を含むもの；ドリフトのための補正を含むもの",
+      "en": "involving measuring of drift angle; involving correction for drift",
+      "count": 296,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C21/08": {
+      "code": "G01C21/08",
+      "level": 2,
+      "parent": "G01C21/04",
+      "ja": "地球磁場の使用を含むもの",
+      "en": "involving use of the magnetic field of the earth",
+      "count": 1735,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C21/10": {
+      "code": "G01C21/10",
+      "level": 1,
+      "parent": "G01C21/00",
+      "ja": "速度または加速度の測定を使用するもの（Ｇ０１Ｃ２１／２４，Ｇ０１Ｃ２１／２６が優先）［１，７］",
+      "en": "by using measurement of speed or acceleration(<b>G01C21/24</b>, <b>G01C21/26</b> take precedence)",
+      "count": 1372,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C21/12": {
+      "code": "G01C21/12",
+      "level": 2,
+      "parent": "G01C21/10",
+      "ja": "航行体上で実施するもの；推測航法",
+      "en": "executed aboard the object being navigated; Dead reckoning",
+      "count": 1594,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C21/14": {
+      "code": "G01C21/14",
+      "level": 3,
+      "parent": "G01C21/12",
+      "ja": "航行体が通過する経路を記録することによるもの（Ｇ０１Ｃ２１／１６が優先）",
+      "en": "by recording the course traversed by the object(<b>G01C21/16</b> takes precedence)",
+      "count": 507,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C21/16": {
+      "code": "G01C21/16",
+      "level": 3,
+      "parent": "G01C21/12",
+      "ja": "加速度または速度の積分によるもの，すなわち慣性航行",
+      "en": "by integrating acceleration or speed, i.e. inertial navigation",
+      "count": 20666,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C21/18": {
+      "code": "G01C21/18",
+      "level": 4,
+      "parent": "G01C21/16",
+      "ja": "安定化プラットホーム，例．ジャイロスコープによるもの",
+      "en": "Stabilised platforms, e.g. by gyroscope",
+      "count": 3749,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C21/20": {
+      "code": "G01C21/20",
+      "level": 1,
+      "parent": "G01C21/00",
+      "ja": "航行の計算を行う機器（Ｇ０１Ｃ２１／２４，Ｇ０１Ｃ２１／２６が優先）［１，７］",
+      "en": "Instruments for performing navigational calculations(<b>G01C21/24</b>, <b>G01C21/26</b> take precedence)",
+      "count": 32124,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C21/22": {
+      "code": "G01C21/22",
+      "level": 2,
+      "parent": "G01C21/20",
+      "ja": "海図板",
+      "en": "Plotting boards",
+      "count": 604,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C21/24": {
+      "code": "G01C21/24",
+      "level": 1,
+      "parent": "G01C21/00",
+      "ja": "宇宙航行に特に適合するもの",
+      "en": "specially adapted for cosmonautical navigation",
+      "count": 2759,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C21/26": {
+      "code": "G01C21/26",
+      "level": 1,
+      "parent": "G01C21/00",
+      "ja": "道路網における航行に特に適合したもの［７］",
+      "en": "specially adapted for navigation in a road network",
+      "count": 25834,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C21/28": {
+      "code": "G01C21/28",
+      "level": 2,
+      "parent": "G01C21/26",
+      "ja": "航行計器からのデータを修正するもの［７］",
+      "en": "with correlation of data from several navigational instruments",
+      "count": 5998,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C21/30": {
+      "code": "G01C21/30",
+      "level": 3,
+      "parent": "G01C21/28",
+      "ja": "マップマッチングまたは等高線との一致［７］",
+      "en": "Map- or contour-matching",
+      "count": 6074,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C21/32": {
+      "code": "G01C21/32",
+      "level": 4,
+      "parent": "G01C21/30",
+      "ja": "地図のデータの構造または書式［７］",
+      "en": "Structuring or formatting of map data",
+      "count": 7092,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C21/34": {
+      "code": "G01C21/34",
+      "level": 2,
+      "parent": "G01C21/26",
+      "ja": "経路探索；経路案内［７］",
+      "en": "Route searching; Route guidance",
+      "count": 36851,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C21/36": {
+      "code": "G01C21/36",
+      "level": 3,
+      "parent": "G01C21/34",
+      "ja": "車載コンピュータの入出力装置［７］",
+      "en": "Input/output arrangements for on-board computers",
+      "count": 24201,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C22/00": {
+      "code": "G01C22/00",
+      "level": 0,
+      "parent": "G01C",
+      "ja": "乗物，人間，動物またはその他の移動物体による対地移動距離の測定，例．走行距離計を用いるもの，歩数計を用いるもの",
+      "en": "Measuring distance traversed on the ground by vehicles, persons, animals or other moving solid bodies, e.g. using odometers or using pedometers",
+      "count": 11413,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C22/02": {
+      "code": "G01C22/02",
+      "level": 1,
+      "parent": "G01C22/00",
+      "ja": "電気的波形とその積算値への変換によるもの，例．回転速度計用発電機を使用するもの",
+      "en": "by conversion into electric waveforms and subsequent integration, e.g. using tachometer generator",
+      "count": 876,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C23/00": {
+      "code": "G01C23/00",
+      "level": 0,
+      "parent": "G01C",
+      "ja": "２個以上の航行用数値を指示する組合せ計器，例．航空機用；２またはそれ以上の運動変量，例．距離，速度，加速度，を測定する組合せ測定装置",
+      "en": "Combined instruments indicating more than one navigational value, e.g. for aircraft; Combined measuring devices for measuring two or more variables of movement, e.g. distance, speed or acceleration",
+      "count": 6652,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    },
+    "G01C25/00": {
+      "code": "G01C25/00",
+      "level": 0,
+      "parent": "G01C",
+      "ja": "このサブクラスの他のグループに関する計器または装置の製造，較正，清掃，修理（コンパスの試験，較正または補償Ｇ０１Ｃ１７／３８）",
+      "en": "Manufacturing, calibrating, cleaning, or repairing instruments or devices referred to in the other groups of this subclass(testing, calibrating, or compensating compasses <b>G01C17/38</b>)",
+      "count": 17817,
+      "sourceFile": "ipc_G01C.txt",
+      "kind": "ipc"
+    }
+  }
+}

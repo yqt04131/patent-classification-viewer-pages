@@ -1,0 +1,1606 @@
+window.IPC_SHARD_B64U = {
+  "generatedAt": "2026-03-20T02:17:46.271Z",
+  "total": 160,
+  "entries": {
+    "B64U": {
+      "code": "B64U",
+      "level": 0,
+      "parent": "B64",
+      "ja": "無人航空機［ＵＡＶ］；無人航空機用の装置［２０２３．０１］<br><br><b><ul>注</ul></b><br>１．このサブクラスは無人飛行での使用および無人飛行用の装備に特に適する乗り物を包含する。<br>２．このサブクラスは以下を包含しない。：<br>・位置，進路，高度または姿勢を制御するためのコンピューターによる制御装置は，グループＧ０５Ｄ１／００に包含される。<br>・無人航空機［ＵＡＶ］の航空交通制御はグループＧ０８Ｇ５／００に包含される。<br>３．有人および無人飛行の両方での使用に適用可能な航空機または装備は，このサブクラスおよび，有人飛行での使用の分類に適切なクラスＢ６４のサブクラスに分類すべきである。<br>４．このサブクラスで包含されない，ＵＡＶとその装備の細部または特徴は，クラスＢ６４の関連するサブクラスに分類すべきである。<br>５．このサブクラスでは，無人航空機［ＵＡＶ］の特別な使用または応用に関する，グループＢ６４Ｕ１０１／００に設置されたインデキシングコードを付すのが望ましい。",
+      "en": "UNMANNED AERIAL VEHICLES [UAV]; EQUIPMENT THEREFOR; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This subclass <u>covers</u> vehicles which are specially adapted for unmanned aeronautical use and the equipment therefor.</li><li>This subclass <u>does not cover</u>: <ul><li>computer control systems for the control of position, course, altitude or attitude, which are covered by group <b>G05D1/00</b>;</li><li>traffic control of UAVs, which is covered by group <b>G08G5/00</b>.</li></ul></li><li>Aircraft or equipment applicable to both manned and unmanned use should be classified in this subclass and in the subclasses of class <b>B64</b> which are appropriate for the manned use.</li><li>Details or features of UAVs and their equipment which are not covered by this subclass should be classified in the relevant subclasses of class <b>B64</b>.</li><li>In this subclass it is desirable to add the indexing codes of group <b>B64U101/00</b>, covering particular uses or applications of the UAVs.</li></ul>",
+      "count": 3,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B64": {
+      "code": "B64",
+      "level": 0,
+      "parent": "B",
+      "ja": "航空機；飛行；宇宙工学",
+      "en": "AIRCRAFT; AVIATION; COSMONAUTICS",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B": {
+      "code": "B",
+      "level": 0,
+      "parent": null,
+      "ja": "処理操作；運輸",
+      "en": "PERFORMING OPERATIONS; TRANSPORTING",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B64U10/00": {
+      "code": "B64U10/00",
+      "level": 0,
+      "parent": "B64U",
+      "ja": "ＵＡＶの種類［２０２３．０１］",
+      "en": "Type of UAV",
+      "count": 342,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U10/10": {
+      "code": "B64U10/10",
+      "level": 1,
+      "parent": "B64U10/00",
+      "ja": "回転翼航空機［２０２３．０１］",
+      "en": "Rotorcrafts",
+      "count": 549,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U10/11": {
+      "code": "B64U10/11",
+      "level": 2,
+      "parent": "B64U10/10",
+      "ja": "オートジャイロ［２０２３．０１］",
+      "en": "Autogyros",
+      "count": 175,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U10/13": {
+      "code": "B64U10/13",
+      "level": 2,
+      "parent": "B64U10/10",
+      "ja": "フライングプラットフォーム［２０２３．０１］",
+      "en": "Flying platforms",
+      "count": 2880,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U10/14": {
+      "code": "B64U10/14",
+      "level": 3,
+      "parent": "B64U10/13",
+      "ja": "４つの別個の回転翼軸を有するもの，例．クアッドコプター［２０２３．０１］",
+      "en": "with four distinct rotor axes, e.g. quadcopters",
+      "count": 8739,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U10/16": {
+      "code": "B64U10/16",
+      "level": 3,
+      "parent": "B64U10/13",
+      "ja": "５つ以上の別個の回転翼軸を有するもの，例．オクトコプター［２０２３．０１］",
+      "en": "with five or more distinct rotor axes, e.g. octocopters",
+      "count": 1536,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U10/17": {
+      "code": "B64U10/17",
+      "level": 2,
+      "parent": "B64U10/10",
+      "ja": "ヘリコプター（フライングプラットフォームＢ６４Ｕ１０／１３）［２０２３．０１］",
+      "en": "Helicopters(flying platforms <b>B64U10/13</b>)",
+      "count": 483,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U10/20": {
+      "code": "B64U10/20",
+      "level": 1,
+      "parent": "B64U10/00",
+      "ja": "垂直離着陸［ＶＴＯＬ］航空機（フライングプラットフォームＢ６４Ｕ１０／１３；ヘリコプターＢ６４Ｕ１０／１７）［２０２３．０１］",
+      "en": "Vertical take-off and landing [VTOL] aircraft(flying platforms <b>B64U10/13</b>; helicopters <b>B64U10/17</b>)",
+      "count": 814,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U10/25": {
+      "code": "B64U10/25",
+      "level": 1,
+      "parent": "B64U10/00",
+      "ja": "固定翼航空機（ＶＴＯＬ航空機Ｂ６４Ｕ１０／２０）［２０２３．０１］",
+      "en": "Fixed-wing aircraft(VTOL aircraft <b>B64U10/20</b>)",
+      "count": 982,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U10/30": {
+      "code": "B64U10/30",
+      "level": 1,
+      "parent": "B64U10/00",
+      "ja": "軽航空機，例．空気静圧による航空機［２０２３．０１］",
+      "en": "Lighter-than-air aircraft, e.g. aerostatic aircraft",
+      "count": 134,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U10/40": {
+      "code": "B64U10/40",
+      "level": 1,
+      "parent": "B64U10/00",
+      "ja": "羽ばたき機［２０２３．０１］",
+      "en": "Ornithopters",
+      "count": 350,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U10/50": {
+      "code": "B64U10/50",
+      "level": 1,
+      "parent": "B64U10/00",
+      "ja": "グライダ型ＵＡＶ，例．パラシュート、パラセールまたはカイトを有するもの（着陸のためのものＢ６４Ｕ７０／８３）［２０２３．０１］",
+      "en": "Glider-type UAVs, e.g. with parachute, parasail or kite(for landing <b>B64U70/83</b>)",
+      "count": 84,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U10/60": {
+      "code": "B64U10/60",
+      "level": 1,
+      "parent": "B64U10/00",
+      "ja": "繋留されている航空機［２０２３．０１］",
+      "en": "Tethered aircraft",
+      "count": 454,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U10/70": {
+      "code": "B64U10/70",
+      "level": 1,
+      "parent": "B64U10/00",
+      "ja": "転換式航空機、例．陸上車両に転換可能なもの［２０２３．０１］",
+      "en": "Convertible aircraft, e.g. convertible into land vehicles",
+      "count": 716,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U10/80": {
+      "code": "B64U10/80",
+      "level": 1,
+      "parent": "B64U10/00",
+      "ja": "大きさが小さいことを特徴とするＵＡＶ，例．マイクロエアビークル［ＭＡＶ］［２０２３．０１］",
+      "en": "UAVs characterised by their small size, e.g. micro air vehicles [MAV]",
+      "count": 120,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U20/00": {
+      "code": "B64U20/00",
+      "level": 0,
+      "parent": "B64U",
+      "ja": "ＵＡＶの構造上の観点（揚力発生手段のものＢ６４Ｕ３０／００）［２０２３．０１］",
+      "en": "Constructional aspects of UAVs(of lift-producing means <b>B64U30/00</b>)",
+      "count": 828,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U20/10": {
+      "code": "B64U20/10",
+      "level": 1,
+      "parent": "B64U20/00",
+      "ja": "ステルスのためのもの，例．レーダーによる断面情報の捕捉を困難にするもの［２０２３．０１］",
+      "en": "for stealth, e.g. reduction of cross-section detectable by radars",
+      "count": 45,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U20/20": {
+      "code": "B64U20/20",
+      "level": 1,
+      "parent": "B64U20/00",
+      "ja": "消音のためのもの［２０２３．０１］",
+      "en": "for noise reduction",
+      "count": 65,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U20/30": {
+      "code": "B64U20/30",
+      "level": 1,
+      "parent": "B64U20/00",
+      "ja": "安全のためのもの，例．壊れやすい構成部品を用いるもの（回転翼ガードＢ６４Ｕ３０／２９９）［２０２３．０１］",
+      "en": "for safety, e.g. with frangible components(rotor guards <b>B64U30/299</b>)",
+      "count": 2040,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U20/40": {
+      "code": "B64U20/40",
+      "level": 1,
+      "parent": "B64U20/00",
+      "ja": "モジュール型ＵＡＶ［２０２３．０１］",
+      "en": "Modular UAVs",
+      "count": 220,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U20/50": {
+      "code": "B64U20/50",
+      "level": 1,
+      "parent": "B64U20/00",
+      "ja": "折り畳み可能な，または組み立て可能なＵＡＶ（壊れやすい構成部品を用いるものＢ６４Ｕ２０／３０）［２０２３．０１］",
+      "en": "Foldable or collapsible UAVs(with frangible components <b>B64U20/30</b>)",
+      "count": 963,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U20/60": {
+      "code": "B64U20/60",
+      "level": 1,
+      "parent": "B64U20/00",
+      "ja": "材料に特徴のあるＵＡＶ［２０２３．０１］",
+      "en": "UAVs characterised by the material",
+      "count": 104,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U20/65": {
+      "code": "B64U20/65",
+      "level": 2,
+      "parent": "B64U20/60",
+      "ja": "複合材料［２０２３．０１］",
+      "en": "Composite materials",
+      "count": 147,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U20/70": {
+      "code": "B64U20/70",
+      "level": 1,
+      "parent": "B64U20/00",
+      "ja": "ＵＡＶ本体の構造上の観点［２０２３．０１］",
+      "en": "Constructional aspects of the UAV body",
+      "count": 1199,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U20/73": {
+      "code": "B64U20/73",
+      "level": 2,
+      "parent": "B64U20/70",
+      "ja": "モノコック構造の本体［２０２３．０１］",
+      "en": "Monocoque body",
+      "count": 20,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U20/75": {
+      "code": "B64U20/75",
+      "level": 2,
+      "parent": "B64U20/70",
+      "ja": "繋げた外殻で，またはシャシを覆う外殻で形成される本体［２０２３．０１］",
+      "en": "the body formed by joined shells or by a shell overlaying a chassis",
+      "count": 55,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U20/77": {
+      "code": "B64U20/77",
+      "level": 2,
+      "parent": "B64U20/70",
+      "ja": "翼または回転翼の支持体と一体形成されている本体［２０２３．０１］",
+      "en": "the body being formed integrally with wings or rotor supports",
+      "count": 44,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U20/80": {
+      "code": "B64U20/80",
+      "level": 1,
+      "parent": "B64U20/00",
+      "ja": "機内電子機器の配置，　例．アビオニクスシステムまたは配線，［２０２３．０１］",
+      "en": "Arrangement of on-board electronics, e.g. avionics systems or wiring",
+      "count": 4967,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U20/83": {
+      "code": "B64U20/83",
+      "level": 2,
+      "parent": "B64U20/80",
+      "ja": "航空機の構成要素と構造的に一体化した電子構成部品，例．回路基板付き荷箱［２０２３．０１］",
+      "en": "Electronic components structurally integrated with aircraft elements, e.g. circuit boards carrying loads",
+      "count": 214,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U20/87": {
+      "code": "B64U20/87",
+      "level": 2,
+      "parent": "B64U20/80",
+      "ja": "撮像装置の取り付け，例．ジンバルの取り付け［２０２３．０１］",
+      "en": "Mounting of imaging devices, e.g. mounting of gimbals",
+      "count": 6918,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U20/90": {
+      "code": "B64U20/90",
+      "level": 1,
+      "parent": "B64U20/00",
+      "ja": "冷却［２０２３．０１］",
+      "en": "Cooling",
+      "count": 145,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U20/92": {
+      "code": "B64U20/92",
+      "level": 2,
+      "parent": "B64U20/90",
+      "ja": "アビオニクスの［２０２３．０１］",
+      "en": "of avionics",
+      "count": 287,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U20/94": {
+      "code": "B64U20/94",
+      "level": 2,
+      "parent": "B64U20/90",
+      "ja": "回転翼または回転翼のモーターの［２０２３．０１］",
+      "en": "of rotors or rotor motors",
+      "count": 131,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U20/96": {
+      "code": "B64U20/96",
+      "level": 2,
+      "parent": "B64U20/90",
+      "ja": "空気を利用するもの［２０２３．０１］",
+      "en": "using air",
+      "count": 457,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U20/98": {
+      "code": "B64U20/98",
+      "level": 2,
+      "parent": "B64U20/90",
+      "ja": "液体を利用するもの，例．潤滑油を用いるもの［２０２３．０１］",
+      "en": "using liquid, e.g. using lubrication oil",
+      "count": 134,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U30/00": {
+      "code": "B64U30/00",
+      "level": 0,
+      "parent": "B64U",
+      "ja": "揚力発生手段；尾翼；尾翼の配置［２０２３．０１］",
+      "en": "Means for producing lift; Empennages; Arrangements thereof",
+      "count": 64,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U30/10": {
+      "code": "B64U30/10",
+      "level": 1,
+      "parent": "B64U30/00",
+      "ja": "翼［２０２３．０１］",
+      "en": "Wings",
+      "count": 591,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U30/12": {
+      "code": "B64U30/12",
+      "level": 2,
+      "parent": "B64U30/10",
+      "ja": "可変翼または　取り外し可能翼，例．調整可能な羽根が付いた翼［２０２３．０１］",
+      "en": "Variable or detachable wings, e.g. wings with adjustable sweep",
+      "count": 464,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U30/14": {
+      "code": "B64U30/14",
+      "level": 3,
+      "parent": "B64U30/12",
+      "ja": "取り外し可能な［２０２３．０１］",
+      "en": "detachable",
+      "count": 133,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U30/16": {
+      "code": "B64U30/16",
+      "level": 3,
+      "parent": "B64U30/12",
+      "ja": "ＵＡＶの本体に沿って移動可能なもの［２０２３．０１］",
+      "en": "movable along the UAV body",
+      "count": 162,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U30/20": {
+      "code": "B64U30/20",
+      "level": 1,
+      "parent": "B64U30/00",
+      "ja": "回転翼；回転翼の支持体［２０２３．０１］",
+      "en": "Rotors; Rotor supports",
+      "count": 556,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U30/21": {
+      "code": "B64U30/21",
+      "level": 2,
+      "parent": "B64U30/20",
+      "ja": "回転翼［２０２３．０１］",
+      "en": "Rotary wings",
+      "count": 166,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U30/24": {
+      "code": "B64U30/24",
+      "level": 2,
+      "parent": "B64U30/20",
+      "ja": "同軸回転翼［２０２３．０１］",
+      "en": "Coaxial rotors",
+      "count": 345,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U30/26": {
+      "code": "B64U30/26",
+      "level": 2,
+      "parent": "B64U30/20",
+      "ja": "ダクト付き回転翼または，シュラウド付き回転翼［２０２３．０１］",
+      "en": "Ducted or shrouded rotors",
+      "count": 398,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U30/27": {
+      "code": "B64U30/27",
+      "level": 2,
+      "parent": "B64U30/20",
+      "ja": "リム駆動の回転翼［２０２３．０１］",
+      "en": "Rim-driven rotors",
+      "count": 8,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U30/29": {
+      "code": "B64U30/29",
+      "level": 2,
+      "parent": "B64U30/20",
+      "ja": "回転翼または回転翼の支持体の構造上の観点；回転翼または回転翼の支持体の配置［２０２３．０１］",
+      "en": "Constructional aspects of rotors or rotor supports; Arrangements thereof",
+      "count": 703,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U30/291": {
+      "code": "B64U30/291",
+      "level": 3,
+      "parent": "B64U30/29",
+      "ja": "取り外し可能な回転翼または回転翼の支持体［２０２３．０１］",
+      "en": "Detachable rotors or rotor supports",
+      "count": 204,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U30/292": {
+      "code": "B64U30/292",
+      "level": 4,
+      "parent": "B64U30/291",
+      "ja": "クイックリリースに特に適した回転翼または回転翼の支持体［２０２３．０１］",
+      "en": "Rotors or rotor supports specially adapted for quick release",
+      "count": 199,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U30/293": {
+      "code": "B64U30/293",
+      "level": 3,
+      "parent": "B64U30/29",
+      "ja": "折り畳み可能な，または組み立て可能な回転翼または回転翼の支持体［２０２３．０１］",
+      "en": "Foldable or collapsible rotors or rotor supports",
+      "count": 1199,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U30/294": {
+      "code": "B64U30/294",
+      "level": 3,
+      "parent": "B64U30/29",
+      "ja": "ＵＡＶの本体に配列された回転翼［２０２３．０１］",
+      "en": "Rotors arranged in the UAV body",
+      "count": 79,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U30/295": {
+      "code": "B64U30/295",
+      "level": 3,
+      "parent": "B64U30/29",
+      "ja": "翼に配列された回転翼［２０２３．０１］",
+      "en": "Rotors arranged in the wings",
+      "count": 107,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U30/296": {
+      "code": "B64U30/296",
+      "level": 3,
+      "parent": "B64U30/29",
+      "ja": "ＵＡＶの本体に対して変更可能な空間位置に取り付けられている回転翼（折り畳み可能な，または組み立て可能な回転翼Ｂ６４Ｕ３０／２９３）［２０２３．０１］",
+      "en": "Rotors with variable spatial positions relative to the UAV body(foldable or collapsible rotors <b>B64U30/293</b>)",
+      "count": 185,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U30/297": {
+      "code": "B64U30/297",
+      "level": 4,
+      "parent": "B64U30/296",
+      "ja": "傾斜回転翼［２０２３．０１］",
+      "en": "Tilting rotors",
+      "count": 413,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U30/298": {
+      "code": "B64U30/298",
+      "level": 3,
+      "parent": "B64U30/29",
+      "ja": "ヘリコプターのフライバー［２０２３．０１］",
+      "en": "Helicopter flybars",
+      "count": 2,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U30/299": {
+      "code": "B64U30/299",
+      "level": 3,
+      "parent": "B64U30/29",
+      "ja": "回転翼ガード（ダクト付きまたはシュラウド付き回転翼Ｂ６４Ｕ３０／２６；地上推進手段として用いられるガードＢ６４Ｕ６０／６０）［２０２３．０１］",
+      "en": "Rotor guards(ducted or shrouded rotors <b>B64U30/26</b>; guards used as ground propulsion <b>B64U60/60</b>)",
+      "count": 1106,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U30/30": {
+      "code": "B64U30/30",
+      "level": 1,
+      "parent": "B64U30/00",
+      "ja": "放射状に広がる気流を利用する浮力発生手段［２０２３．０１］",
+      "en": "Lift-producing means using radial airflow",
+      "count": 49,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U30/40": {
+      "code": "B64U30/40",
+      "level": 1,
+      "parent": "B64U30/00",
+      "ja": "尾翼，例．Ｖテール（折り畳み可能な，または組み立て可能なＵＡＶＢ６４Ｕ２０／５０）［２０２３．０１］",
+      "en": "Empennages, e.g. V-tails (foldable or collapsible UAVs <b>B64U20/50</b>)",
+      "count": 357,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U40/00": {
+      "code": "B64U40/00",
+      "level": 0,
+      "parent": "B64U",
+      "ja": "操縦翼面または回転翼を調節するための機内の機械的装置；ベースの構成を飛行中に調整するための機内の機械的装置（航空機または宇宙航空機の位置，進路，高度または姿勢の制御，例．自動操縦装置，Ｇ０５Ｄ１／００）［２０２３．０１］",
+      "en": "On-board mechanical arrangements for adjusting control surfaces or rotors; On-board mechanical arrangements for in-flight adjustment of the base configuration(control of position, course, altitude or attitude of air or space vehicles, e.g. automatic pilot, <b>G05D1/00</b>)",
+      "count": 82,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U40/10": {
+      "code": "B64U40/10",
+      "level": 1,
+      "parent": "B64U40/00",
+      "ja": "操縦翼面または回転翼を調節するためのもの［２０２３．０１］",
+      "en": "for adjusting control surfaces or rotors",
+      "count": 717,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U40/20": {
+      "code": "B64U40/20",
+      "level": 1,
+      "parent": "B64U40/00",
+      "ja": "ベースの構成を飛行中に調整するためのもの［２０２３．０１］",
+      "en": "for in-flight adjustment of the base configuration",
+      "count": 241,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U50/00": {
+      "code": "B64U50/00",
+      "level": 0,
+      "parent": "B64U",
+      "ja": "推進力；動力供給［２０２３．０１］",
+      "en": "Propulsion; Power supply",
+      "count": 51,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U50/10": {
+      "code": "B64U50/10",
+      "level": 1,
+      "parent": "B64U50/00",
+      "ja": "推進力（回転翼航空機またはＶＴＯＬ航空機に特に適した回転翼Ｂ６４Ｕ３０／２０）［２０２３．０１］",
+      "en": "Propulsion(rotors specially adapted for rotorcraft or VTOL <b>B64U30/20</b>)",
+      "count": 241,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U50/11": {
+      "code": "B64U50/11",
+      "level": 2,
+      "parent": "B64U50/10",
+      "ja": "ピストン内燃機関を用いるもの［２０２３．０１］",
+      "en": "using internal combustion piston engines",
+      "count": 190,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U50/12": {
+      "code": "B64U50/12",
+      "level": 2,
+      "parent": "B64U50/10",
+      "ja": "タービン機関を用いるもの，例．ターボジェットまたはターボファン［２０２３．０１］",
+      "en": "using turbine engines, e.g. turbojets or turbofans",
+      "count": 97,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U50/13": {
+      "code": "B64U50/13",
+      "level": 2,
+      "parent": "B64U50/10",
+      "ja": "外装のファンまたはプロペラを用いるもの［２０２３．０１］",
+      "en": "using external fans or propellers",
+      "count": 314,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U50/14": {
+      "code": "B64U50/14",
+      "level": 3,
+      "parent": "B64U50/13",
+      "ja": "ダクト付きまたはシュラウド付き［２０２３．０１］",
+      "en": "ducted or shrouded",
+      "count": 116,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U50/15": {
+      "code": "B64U50/15",
+      "level": 2,
+      "parent": "B64U50/10",
+      "ja": "ターボジェットまたはターボファン以外の燃焼排気を用いるもの，例．ロケット、ラムジェット，スクラムジェットまたはパルス反応器を用いるもの［２０２３．０１］",
+      "en": "using combustion exhausts other than turbojets or turbofans, e.g. using rockets, ramjets, scramjets or pulse-reactors",
+      "count": 43,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U50/16": {
+      "code": "B64U50/16",
+      "level": 2,
+      "parent": "B64U50/10",
+      "ja": "空気または燃焼排気以外の手段を用いるもの，例．水または磁気浮上［２０２３．０１］",
+      "en": "using means other than air displacement or combustion exhaust, e.g. water or magnetic levitation",
+      "count": 17,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U50/18": {
+      "code": "B64U50/18",
+      "level": 2,
+      "parent": "B64U50/10",
+      "ja": "推進の方向を変えるもの［２０２３．０１］",
+      "en": "Thrust vectoring",
+      "count": 44,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U50/19": {
+      "code": "B64U50/19",
+      "level": 2,
+      "parent": "B64U50/10",
+      "ja": "電気駆動のモーターを用いるもの［２０２３．０１］",
+      "en": "using electrically powered motors",
+      "count": 2174,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U50/20": {
+      "code": "B64U50/20",
+      "level": 1,
+      "parent": "B64U50/00",
+      "ja": "機械的駆動力を回転翼またはプロペラに伝達するもの［２０２３．０１］",
+      "en": "Transmission of mechanical power to rotors or propellers",
+      "count": 168,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U50/23": {
+      "code": "B64U50/23",
+      "level": 2,
+      "parent": "B64U50/20",
+      "ja": "それぞれが専用のモーターを有する推進手段を用いるもの［２０２３．０１］",
+      "en": "with each propulsion means having an individual motor",
+      "count": 352,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U50/27": {
+      "code": "B64U50/27",
+      "level": 2,
+      "parent": "B64U50/20",
+      "ja": "単独のモーターが２つ以上の回転翼またはプロペラに動力を供給するもの［２０２３．０１］",
+      "en": "with a single motor serving two or more rotors or propellers",
+      "count": 66,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U50/30": {
+      "code": "B64U50/30",
+      "level": 1,
+      "parent": "B64U50/00",
+      "ja": "電力の供給または配給［２０２３．０１］",
+      "en": "Supply or distribution of electrical power",
+      "count": 1150,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U50/31": {
+      "code": "B64U50/31",
+      "level": 2,
+      "parent": "B64U50/30",
+      "ja": "光起電力により発生されるもの［２０２３．０１］",
+      "en": "generated by photovoltaics",
+      "count": 464,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U50/32": {
+      "code": "B64U50/32",
+      "level": 2,
+      "parent": "B64U50/30",
+      "ja": "燃料電池により発生されるもの［２０２３．０１］",
+      "en": "generated by fuel cells",
+      "count": 234,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U50/33": {
+      "code": "B64U50/33",
+      "level": 2,
+      "parent": "B64U50/30",
+      "ja": "内燃機関により発生されるもの［２０２３．０１］",
+      "en": "generated by combustion engines",
+      "count": 105,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U50/34": {
+      "code": "B64U50/34",
+      "level": 2,
+      "parent": "B64U50/30",
+      "ja": "飛行中に充電するもの（光起電力Ｂ６４Ｕ５０／３１）［２０２３．０１］",
+      "en": "In-flight charging(photovoltaics <b>B64U50/31</b>)",
+      "count": 304,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U50/35": {
+      "code": "B64U50/35",
+      "level": 3,
+      "parent": "B64U50/34",
+      "ja": "無線伝送によるもの，例．誘導によるもの［２０２３．０１］",
+      "en": "by wireless transmission, e.g. by induction",
+      "count": 110,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U50/36": {
+      "code": "B64U50/36",
+      "level": 3,
+      "parent": "B64U50/34",
+      "ja": "風力タービンによるもの，例．ラムエアタービン［ＲＡＴ］［２０２３．０１］",
+      "en": "by wind turbines, e.g. ram air turbines [RAT]",
+      "count": 13,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U50/37": {
+      "code": "B64U50/37",
+      "level": 2,
+      "parent": "B64U50/30",
+      "ja": "飛行中ではない時に充電するもの［２０２３．０１］",
+      "en": "Charging when not in flight",
+      "count": 605,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U50/38": {
+      "code": "B64U50/38",
+      "level": 3,
+      "parent": "B64U50/37",
+      "ja": "無線伝送によるもの［２０２３．０１］",
+      "en": "by wireless transmission",
+      "count": 361,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U50/39": {
+      "code": "B64U50/39",
+      "level": 2,
+      "parent": "B64U50/30",
+      "ja": "バッテリーを交換するもの［２０２３．０１］",
+      "en": "Battery swapping",
+      "count": 519,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U60/00": {
+      "code": "B64U60/00",
+      "level": 0,
+      "parent": "B64U",
+      "ja": "降着装置［２０２３．０１］",
+      "en": "Undercarriages",
+      "count": 1374,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U60/10": {
+      "code": "B64U60/10",
+      "level": 1,
+      "parent": "B64U60/00",
+      "ja": "水上での利用に特に適したもの［２０２３．０１］",
+      "en": "specially adapted for use on water",
+      "count": 357,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U60/20": {
+      "code": "B64U60/20",
+      "level": 1,
+      "parent": "B64U60/00",
+      "ja": "起伏のある地面に特に適したもの［２０２３．０１］",
+      "en": "specially adapted for uneven terrain",
+      "count": 229,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U60/30": {
+      "code": "B64U60/30",
+      "level": 1,
+      "parent": "B64U60/00",
+      "ja": "本体から取り外し可能なもの［２０２３．０１］",
+      "en": "detachable from the body",
+      "count": 290,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U60/40": {
+      "code": "B64U60/40",
+      "level": 1,
+      "parent": "B64U60/00",
+      "ja": "折り畳み可能なものまたは引き込み式のもの［２０２３．０１］",
+      "en": "foldable or retractable",
+      "count": 908,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U60/50": {
+      "code": "B64U60/50",
+      "level": 1,
+      "parent": "B64U60/00",
+      "ja": "着陸脚を有するもの［２０２３．０１］",
+      "en": "with landing legs",
+      "count": 1535,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U60/55": {
+      "code": "B64U60/55",
+      "level": 2,
+      "parent": "B64U60/50",
+      "ja": "地上推進手段としても用いられる脚［２０２３．０１］",
+      "en": "the legs being also used as ground propulsion",
+      "count": 72,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U60/60": {
+      "code": "B64U60/60",
+      "level": 1,
+      "parent": "B64U60/00",
+      "ja": "転がりケージを有するもの［２０２３．０１］",
+      "en": "with rolling cages",
+      "count": 30,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U60/70": {
+      "code": "B64U60/70",
+      "level": 1,
+      "parent": "B64U60/00",
+      "ja": "可動翼，回転翼の支持体またはシュラウドとして機能する接地要素［２０２３．０１］",
+      "en": "Movable wings, rotor supports or shrouds acting as ground-engaging elements",
+      "count": 33,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U70/00": {
+      "code": "B64U70/00",
+      "level": 0,
+      "parent": "B64U",
+      "ja": "打ち上げ，離陸または着陸装置［２０２３．０１］",
+      "en": "Launching, take-off or landing arrangements",
+      "count": 348,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U70/10": {
+      "code": "B64U70/10",
+      "level": 1,
+      "parent": "B64U70/00",
+      "ja": "手でＵＡＶを放つまたは捕獲するためのもの［２０２３．０１］",
+      "en": "for releasing or capturing UAVs by hand",
+      "count": 31,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U70/20": {
+      "code": "B64U70/20",
+      "level": 1,
+      "parent": "B64U70/00",
+      "ja": "別の航空機によって飛行中のＵＡＶを放つまた捕獲するためのもの［２０２３．０１］",
+      "en": "for releasing or capturing UAVs in flight by another aircraft",
+      "count": 226,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U70/30": {
+      "code": "B64U70/30",
+      "level": 1,
+      "parent": "B64U70/00",
+      "ja": "飛行中のＵＡＶを地上または海上に設置された拘引装置で捕獲するためのもの，例．ケーブルまたはネットによるもの［２０２３．０１］",
+      "en": "for capturing UAVs in flight by ground or sea-based arresting gear, e.g. by a cable or a net",
+      "count": 189,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U70/40": {
+      "code": "B64U70/40",
+      "level": 1,
+      "parent": "B64U70/00",
+      "ja": "飛行運動に特徴がある着陸，例．ディープストール［２０２３．０１］",
+      "en": "Landing characterised by flight manoeuvres, e.g. deep stall",
+      "count": 14,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U70/50": {
+      "code": "B64U70/50",
+      "level": 1,
+      "parent": "B64U70/00",
+      "ja": "収納容器から打ち上げるもの，例．潜水艦ミサイル発射管から打ち上げるもの［２０２３．０１］",
+      "en": "Launching from storage containers, e.g. from submarine missile tubes",
+      "count": 170,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U70/60": {
+      "code": "B64U70/60",
+      "level": 1,
+      "parent": "B64U70/00",
+      "ja": "ＵＡＶ自身の動力による滑走路からの離陸または着陸［２０２３．０１］",
+      "en": "Take-off or landing of UAVs from a runway using their own power",
+      "count": 15,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U70/70": {
+      "code": "B64U70/70",
+      "level": 1,
+      "parent": "B64U70/00",
+      "ja": "カタパルト，トラックまたはレールを用いて打ち上げまたは着陸するもの（収納容器から打ち上げるものＢ６４Ｕ７０／５０）［２０２３．０１］",
+      "en": "Launching or landing using catapults, tracks or rails(launching from storage containers <b>B64U70/50</b>)",
+      "count": 373,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U70/80": {
+      "code": "B64U70/80",
+      "level": 1,
+      "parent": "B64U70/00",
+      "ja": "垂直離陸または着陸，例．ロケットを用いるもの（回転翼航空機Ｂ６４Ｕ１０／１０；ＶＴＯＬ航空機Ｂ６４Ｕ１０／２０）［２０２３．０１］",
+      "en": "Vertical take-off or landing, e.g. using rockets(rotorcrafts <b>B64U10/10</b>; VTOL aircraft <b>B64U10/20</b>)",
+      "count": 159,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U70/83": {
+      "code": "B64U70/83",
+      "level": 2,
+      "parent": "B64U70/80",
+      "ja": "パラシュート，バルーンまたは類似のものを用いるもの［２０２３．０１］",
+      "en": "using parachutes, balloons or the like",
+      "count": 345,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U70/87": {
+      "code": "B64U70/87",
+      "level": 2,
+      "parent": "B64U70/80",
+      "ja": "膨張可能な緩衝物を用いるもの［２０２３．０１］",
+      "en": "using inflatable cushions",
+      "count": 44,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U70/90": {
+      "code": "B64U70/90",
+      "level": 1,
+      "parent": "B64U70/00",
+      "ja": "プラットフォームから打ち上げるものまたは，プラットフォームに着陸するもの［２０２３．０１］",
+      "en": "Launching from or landing on platforms",
+      "count": 995,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U70/92": {
+      "code": "B64U70/92",
+      "level": 2,
+      "parent": "B64U70/90",
+      "ja": "携帯可能なプラットフォーム［２０２３．０１］",
+      "en": "Portable platforms",
+      "count": 553,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U70/93": {
+      "code": "B64U70/93",
+      "level": 3,
+      "parent": "B64U70/92",
+      "ja": "陸上車両または船舶上で使用するためのもの［２０２３．０１］",
+      "en": "for use on a land or nautical vehicle",
+      "count": 882,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U70/95": {
+      "code": "B64U70/95",
+      "level": 2,
+      "parent": "B64U70/90",
+      "ja": "着陸中のＵＡＶをプラットフォームに導くための手段，例．照明手段［２０２３．０１］",
+      "en": "Means for guiding the landing UAV towards the platform, e.g. lighting means",
+      "count": 276,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U70/97": {
+      "code": "B64U70/97",
+      "level": 2,
+      "parent": "B64U70/90",
+      "ja": "ＵＡＶをプラットフォーム上の特定の場所に導くための手段，例．中心からずれた位置への着陸を防止するプラットフォームの構造［２０２３．０１］",
+      "en": "Means for guiding the UAV to a specific location on the platform, e.g. platform structures preventing landing off-centre",
+      "count": 574,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U70/99": {
+      "code": "B64U70/99",
+      "level": 2,
+      "parent": "B64U70/90",
+      "ja": "ＵＡＶをプラットフォーム上に留めるための手段，例．輪止めまたは磁石［２０２３．０１］",
+      "en": "Means for retaining the UAV on the platform, e.g. dogs or magnets",
+      "count": 782,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U80/00": {
+      "code": "B64U80/00",
+      "level": 0,
+      "parent": "B64U",
+      "ja": "ＵＡＶに特に適した輸送または保管［２０２３．０１］",
+      "en": "Transport or storage specially adapted for UAVs",
+      "count": 288,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U80/10": {
+      "code": "B64U80/10",
+      "level": 1,
+      "parent": "B64U80/00",
+      "ja": "補給場または打ち上げ場にＵＡＶを移動するための手段を有するもの，例．ロボットアームまたはカルーセル［２０２３．０１］",
+      "en": "with means for moving the UAV to a supply or launch location, e.g. robotic arms or carousels",
+      "count": 218,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U80/20": {
+      "code": "B64U80/20",
+      "level": 1,
+      "parent": "B64U80/00",
+      "ja": "ＵＡＶを整備するための装置を有するもの［２０２３．０１］",
+      "en": "with arrangements for servicing the UAV",
+      "count": 346,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U80/25": {
+      "code": "B64U80/25",
+      "level": 2,
+      "parent": "B64U80/20",
+      "ja": "バッテリーを再充電するためのもの；燃料を補給するためのもの［２０２３．０１］",
+      "en": "for recharging batteries; for refuelling",
+      "count": 1225,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U80/30": {
+      "code": "B64U80/30",
+      "level": 1,
+      "parent": "B64U80/00",
+      "ja": "デ－タ伝送のための装置を有するもの［２０２３．０１］",
+      "en": "with arrangements for data transmission",
+      "count": 129,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U80/40": {
+      "code": "B64U80/40",
+      "level": 1,
+      "parent": "B64U80/00",
+      "ja": "２つ以上のＵＡＶのためのもの［２０２３．０１］",
+      "en": "for two or more UAVs",
+      "count": 271,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U80/50": {
+      "code": "B64U80/50",
+      "level": 1,
+      "parent": "B64U80/00",
+      "ja": "分解された状態のＵＡＶ［２０２３．０１］",
+      "en": "the UAVs being disassembled",
+      "count": 20,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U80/60": {
+      "code": "B64U80/60",
+      "level": 1,
+      "parent": "B64U80/00",
+      "ja": "ウェアラブルなものによるもの，例．衣服またはヘルメット［２０２３．０１］",
+      "en": "by wearable objects, e.g. garments or helmets",
+      "count": 21,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U80/70": {
+      "code": "B64U80/70",
+      "level": 1,
+      "parent": "B64U80/00",
+      "ja": "容器の中のもの（Ｂ６４Ｕ８０／６０が優先）［２０２３．０１］",
+      "en": "in containers(<b>B64U80/60</b> takes precedence)",
+      "count": 825,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U80/80": {
+      "code": "B64U80/80",
+      "level": 1,
+      "parent": "B64U80/00",
+      "ja": "乗物によるもの［２０２３．０１］",
+      "en": "by vehicles",
+      "count": 39,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U80/82": {
+      "code": "B64U80/82",
+      "level": 2,
+      "parent": "B64U80/80",
+      "ja": "空中輸送機［２０２３．０１］",
+      "en": "Airborne vehicles",
+      "count": 115,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U80/84": {
+      "code": "B64U80/84",
+      "level": 2,
+      "parent": "B64U80/80",
+      "ja": "水上輸送機［２０２３．０１］",
+      "en": "Waterborne vehicles",
+      "count": 160,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U80/86": {
+      "code": "B64U80/86",
+      "level": 2,
+      "parent": "B64U80/80",
+      "ja": "陸上車両［２０２３．０１］",
+      "en": "Land vehicles",
+      "count": 1082,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U101/00": {
+      "code": "B64U101/00",
+      "level": 0,
+      "parent": "B64U",
+      "ja": "特定の用途または応用に特に適したＵＡＶ［２０２３．０１］",
+      "en": "UAVs specially adapted for particular uses or applications",
+      "count": 2164,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U101/05": {
+      "code": "B64U101/05",
+      "level": 1,
+      "parent": "B64U101/00",
+      "ja": "スポーツまたは競技のためのもの，例．ドローンレース［２０２３．０１］",
+      "en": "for sports or gaming, e.g. drone racing",
+      "count": 72,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U101/10": {
+      "code": "B64U101/10",
+      "level": 1,
+      "parent": "B64U101/00",
+      "ja": "離れた場所に供給される電力を発生させるためのもの，例．ソーラーパネルを有するＵＡＶ［２０２３．０１］",
+      "en": "for generating power to be supplied to a remote station, e.g. UAVs with solar panels",
+      "count": 33,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U101/15": {
+      "code": "B64U101/15",
+      "level": 1,
+      "parent": "B64U101/00",
+      "ja": "従来の戦争または電子戦のためのもの［２０２３．０１］",
+      "en": "for conventional or electronic warfare",
+      "count": 259,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U101/16": {
+      "code": "B64U101/16",
+      "level": 2,
+      "parent": "B64U101/15",
+      "ja": "他の乗り物を制御，捕獲または移動不能にするためのもの［２０２３．０１］",
+      "en": "for controlling, capturing or immobilising other vehicles",
+      "count": 42,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U101/17": {
+      "code": "B64U101/17",
+      "level": 2,
+      "parent": "B64U101/15",
+      "ja": "通信を探知，妨害または阻止するためのもの［２０２３．０１］",
+      "en": "for detecting, disrupting or countering communications",
+      "count": 112,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U101/18": {
+      "code": "B64U101/18",
+      "level": 2,
+      "parent": "B64U101/15",
+      "ja": "爆弾を投下するためのもの；弾薬を発砲するためのもの［２０２３．０１］",
+      "en": "for dropping bombs; for firing ammunition",
+      "count": 191,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U101/19": {
+      "code": "B64U101/19",
+      "level": 2,
+      "parent": "B64U101/15",
+      "ja": "標的またはおとりとして用いるためのもの［２０２３．０１］",
+      "en": "for use as targets or decoys",
+      "count": 21,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U101/20": {
+      "code": "B64U101/20",
+      "level": 1,
+      "parent": "B64U101/00",
+      "ja": "通信中継局として用いるためのもの，例．高高度プラットフォーム［２０２３．０１］",
+      "en": "for use as communications relays, e.g. high altitude platforms",
+      "count": 338,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U101/21": {
+      "code": "B64U101/21",
+      "level": 2,
+      "parent": "B64U101/20",
+      "ja": "インターネットへのアクセスを提供するためもの［２０２３．０１］",
+      "en": "for providing Internet access",
+      "count": 18,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U101/23": {
+      "code": "B64U101/23",
+      "level": 2,
+      "parent": "B64U101/20",
+      "ja": "電話サービスを提供するためのもの［２０２３．０１］",
+      "en": "for providing telephone services",
+      "count": 10,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U101/24": {
+      "code": "B64U101/24",
+      "level": 2,
+      "parent": "B64U101/20",
+      "ja": "飛行ディスプレーとして用いるためのもの，例．広告または広告板［２０２３．０１］",
+      "en": "for use as flying displays, e.g. advertising or billboards",
+      "count": 51,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U101/25": {
+      "code": "B64U101/25",
+      "level": 1,
+      "parent": "B64U101/00",
+      "ja": "製造または整備のためのもの［２０２３．０１］",
+      "en": "for manufacturing or servicing",
+      "count": 165,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U101/26": {
+      "code": "B64U101/26",
+      "level": 2,
+      "parent": "B64U101/25",
+      "ja": "製造，検査または修理のためのもの［２０２３．０１］",
+      "en": "for manufacturing, inspections or repairs",
+      "count": 1381,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U101/28": {
+      "code": "B64U101/28",
+      "level": 2,
+      "parent": "B64U101/25",
+      "ja": "塗装またはマーキングのためのもの［２０２３．０１］",
+      "en": "for painting or marking",
+      "count": 59,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U101/29": {
+      "code": "B64U101/29",
+      "level": 2,
+      "parent": "B64U101/25",
+      "ja": "清掃のためのもの［２０２３．０１］",
+      "en": "for cleaning",
+      "count": 439,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U101/30": {
+      "code": "B64U101/30",
+      "level": 1,
+      "parent": "B64U101/00",
+      "ja": "画像化，写真撮影またはビデオ撮影のためのもの［２０２３．０１］",
+      "en": "for imaging, photography or videography",
+      "count": 5401,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U101/31": {
+      "code": "B64U101/31",
+      "level": 2,
+      "parent": "B64U101/30",
+      "ja": "監視のためのもの［２０２３．０１］",
+      "en": "for surveillance",
+      "count": 1385,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U101/32": {
+      "code": "B64U101/32",
+      "level": 2,
+      "parent": "B64U101/30",
+      "ja": "地図製作または地形図作成のためのもの［２０２３．０１］",
+      "en": "for cartography or topography",
+      "count": 731,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U101/35": {
+      "code": "B64U101/35",
+      "level": 1,
+      "parent": "B64U101/00",
+      "ja": "科学に関するもの，例．気象学［２０２３．０１］",
+      "en": "for science, e.g. meteorology",
+      "count": 427,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U101/40": {
+      "code": "B64U101/40",
+      "level": 1,
+      "parent": "B64U101/00",
+      "ja": "農作業または林業の作業のためのもの［２０２３．０１］",
+      "en": "for agriculture or forestry operations",
+      "count": 2149,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U101/45": {
+      "code": "B64U101/45",
+      "level": 1,
+      "parent": "B64U101/00",
+      "ja": "飛行中に液体または粉末を放出するためのもの，例．粉末農薬の散布［２０２３．０１］",
+      "en": "for releasing liquids or powders in-flight, e.g. crop-dusting",
+      "count": 1929,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U101/47": {
+      "code": "B64U101/47",
+      "level": 2,
+      "parent": "B64U101/45",
+      "ja": "消火のためのもの［２０２３．０１］",
+      "en": "for fire fighting",
+      "count": 523,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U101/55": {
+      "code": "B64U101/55",
+      "level": 1,
+      "parent": "B64U101/00",
+      "ja": "人命救助または救助作業のためのもの；医療のために使用するためのもの［２０２３．０１］",
+      "en": "for life-saving or rescue operations; for medical use",
+      "count": 402,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U101/56": {
+      "code": "B64U101/56",
+      "level": 2,
+      "parent": "B64U101/55",
+      "ja": "行方不明の人または動物を見つけるためのもの［２０２３．０１］",
+      "en": "for locating missing persons or animals",
+      "count": 66,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U101/57": {
+      "code": "B64U101/57",
+      "level": 2,
+      "parent": "B64U101/55",
+      "ja": "危険な状態にある人または動物に緊急事態の補給品を運ぶためのもの，例．ロープまたは救命胴衣［２０２３．０１］",
+      "en": "for bringing emergency supplies to persons or animals in danger, e.g. ropes or life vests",
+      "count": 248,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U101/58": {
+      "code": "B64U101/58",
+      "level": 2,
+      "parent": "B64U101/55",
+      "ja": "医療避難のためのもの，すなわち人または動物を治療が受けられる場所に搬送すること［２０２３．０１］",
+      "en": "for medical evacuation, i.e. the transportation of persons or animals to a place where they can receive medical care",
+      "count": 24,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U101/60": {
+      "code": "B64U101/60",
+      "level": 1,
+      "parent": "B64U101/00",
+      "ja": "乗客を輸送するためのもの；武器以外の品物を輸送するためのもの［２０２３．０１］",
+      "en": "for transporting passengers; for transporting goods other than weapons",
+      "count": 1487,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U101/61": {
+      "code": "B64U101/61",
+      "level": 2,
+      "parent": "B64U101/60",
+      "ja": "乗客を輸送するためのもの［２０２３．０１］",
+      "en": "for transporting passengers",
+      "count": 56,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U101/64": {
+      "code": "B64U101/64",
+      "level": 2,
+      "parent": "B64U101/60",
+      "ja": "小包を配送または回収するためのもの［２０２３．０１］",
+      "en": "for parcel delivery or retrieval",
+      "count": 449,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U101/66": {
+      "code": "B64U101/66",
+      "level": 3,
+      "parent": "B64U101/64",
+      "ja": "小包を回収するためのもの［２０２３．０１］",
+      "en": "for retrieving parcels",
+      "count": 36,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U101/67": {
+      "code": "B64U101/67",
+      "level": 2,
+      "parent": "B64U101/60",
+      "ja": "品物を下ろすためのテザーを含むＵＡＶ［２０２３．０１］",
+      "en": "the UAVs comprising tethers for lowering the goods",
+      "count": 124,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U101/69": {
+      "code": "B64U101/69",
+      "level": 2,
+      "parent": "B64U101/60",
+      "ja": "品物を空中投下するための手段を有するＵＡＶ，例．降下中にパラシュートが開傘するもの［２０２３．０１］",
+      "en": "the UAVs provided with means for airdropping goods, e.g. deploying a parachute during descent",
+      "count": 402,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U101/70": {
+      "code": "B64U101/70",
+      "level": 1,
+      "parent": "B64U101/00",
+      "ja": "囲いで仕切られた空間の内部で使用するためのもの，例．建物の中または乗り物の中［２０２３．０１］",
+      "en": "for use inside enclosed spaces, e.g. in buildings or in vehicles",
+      "count": 91,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    },
+    "B64U101/75": {
+      "code": "B64U101/75",
+      "level": 1,
+      "parent": "B64U101/00",
+      "ja": "地球上以外で使用するためのもの，例．月または火星で［２０２３．０１］",
+      "en": "for extra-terrestrial use, e.g. on the Moon or Mars",
+      "count": 30,
+      "sourceFile": "ipc_B64U.txt",
+      "kind": "ipc"
+    }
+  }
+};

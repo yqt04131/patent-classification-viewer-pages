@@ -1,0 +1,116 @@
+{
+  "generatedAt": "2026-03-20T02:17:46.927Z",
+  "total": 11,
+  "entries": {
+    "F25J": {
+      "code": "F25J",
+      "level": 0,
+      "parent": "F25",
+      "ja": "気体または気体混合物の加圧および冷却処理による液化，凝固または分離（極低温ポンプＦ０４Ｂ３７／０８；気体貯蔵容器，ガスタンクＦ１７；液化または固化ガスの注入または気化Ｆ１７Ｃ；冷凍機械，プラントまたはシステムＦ２５Ｂ）",
+      "en": "LIQUEFACTION, SOLIDIFICATION, OR SEPARATION OF GASES OR GASEOUS MIXTURES BY PRESSURE AND COLD TREATMENT(cryogenic pumps <b>F04B37/08</b>; gas storage vessels, gas-holders <b>F17</b>; filling vessels with, or discharging from vessels, compressed, liquefied, or solidified gases <b>F17C</b>; refrigeration machines, plants, or systems <b>F25B</b>)",
+      "count": 256,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F25": {
+      "code": "F25",
+      "level": 0,
+      "parent": "F",
+      "ja": "冷凍または冷却；加熱と冷凍との組み合わせシステム；ヒートポンプシステム；氷の製造または貯蔵；気体の液化または固体化",
+      "en": "REFRIGERATION OR COOLING; COMBINED HEATING AND REFRIGERATION SYSTEMS; HEAT PUMP SYSTEMS; MANUFACTURE OR STORAGE OF ICE; LIQUEFACTION OR SOLIDIFICATION OF GASES",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F": {
+      "code": "F",
+      "level": 0,
+      "parent": null,
+      "ja": "機械工学；照明；加熱；武器；爆破",
+      "en": "MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F25J1/00": {
+      "code": "F25J1/00",
+      "level": 0,
+      "parent": "F25J",
+      "ja": "気体または気体混合物の液化または凝個方法または装置",
+      "en": "Processes or apparatus for liquefying or solidifying gases or gaseous mixtures",
+      "count": 5832,
+      "sourceFile": "ipc_F25J.txt",
+      "kind": "ipc"
+    },
+    "F25J1/02": {
+      "code": "F25J1/02",
+      "level": 1,
+      "parent": "F25J1/00",
+      "ja": "冷凍法の使用を必要とするもの，例．水素あるいはヘリウム",
+      "en": "requiring the use of refrigeration, e.g. of helium or hydrogen",
+      "count": 4875,
+      "sourceFile": "ipc_F25J.txt",
+      "kind": "ipc"
+    },
+    "F25J3/00": {
+      "code": "F25J3/00",
+      "level": 0,
+      "parent": "F25J",
+      "ja": "液化または凝固の使用を含む気体混合物の成分を分離する方法または装置",
+      "en": "Processes or apparatus for separating the constituents of gaseous mixtures involving the use of liquefaction or solidification",
+      "count": 2883,
+      "sourceFile": "ipc_F25J.txt",
+      "kind": "ipc"
+    },
+    "F25J3/02": {
+      "code": "F25J3/02",
+      "level": 1,
+      "parent": "F25J3/00",
+      "ja": "精留によるもの，すなわち蒸気流と液体流との間で熱交換および物質交換を連続して行なうもの（Ｆ２５Ｊ３／０８が優先）",
+      "en": "by rectification, i.e. by continuous interchange of heat and material between a vapour stream and a liquid stream(<b>F25J3/08</b> takes precedence)",
+      "count": 5196,
+      "sourceFile": "ipc_F25J.txt",
+      "kind": "ipc"
+    },
+    "F25J3/04": {
+      "code": "F25J3/04",
+      "level": 2,
+      "parent": "F25J3/02",
+      "ja": "空気のためのもの",
+      "en": "for air",
+      "count": 7846,
+      "sourceFile": "ipc_F25J.txt",
+      "kind": "ipc"
+    },
+    "F25J3/06": {
+      "code": "F25J3/06",
+      "level": 1,
+      "parent": "F25J3/00",
+      "ja": "部分的凝縮によるもの（Ｆ２５Ｊ３／０８が優先；精留によるものＦ２５Ｊ３／０２）",
+      "en": "by partial condensation(<b>F25J3/08</b> takes precedence; by rectification <b>F25J3/02</b>)",
+      "count": 2133,
+      "sourceFile": "ipc_F25J.txt",
+      "kind": "ipc"
+    },
+    "F25J3/08": {
+      "code": "F25J3/08",
+      "level": 1,
+      "parent": "F25J3/00",
+      "ja": "気体または気体混合物からの気体不純物の分離（コールドトラップＢ０１Ｄ８／００）",
+      "en": "Separating gaseous impurities from gases or gaseous mixtures(cold traps <b>B01D8/00</b>)",
+      "count": 3000,
+      "sourceFile": "ipc_F25J.txt",
+      "kind": "ipc"
+    },
+    "F25J5/00": {
+      "code": "F25J5/00",
+      "level": 0,
+      "parent": "F25J",
+      "ja": "分離または液化ブラントにおける冷熱交換器または蓄冷器の構成（熱交換器Ｆ２８Ｃ，Ｆ２８Ｄ，Ｆ２８Ｆ）",
+      "en": "Arrangements of cold-exchangers or cold-accumulators in separation or liquefaction plants(heat-exchangers <b>F28C</b>, <b>F28D</b>, <b>F28F</b>)",
+      "count": 2396,
+      "sourceFile": "ipc_F25J.txt",
+      "kind": "ipc"
+    }
+  }
+}

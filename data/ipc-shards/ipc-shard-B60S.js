@@ -1,0 +1,636 @@
+window.IPC_SHARD_B60S = {
+  "generatedAt": "2026-03-20T02:17:46.225Z",
+  "total": 63,
+  "entries": {
+    "B60S": {
+      "code": "B60S",
+      "level": 0,
+      "parent": "B60",
+      "ja": "車両の補給、清掃、修理、支持、持ち上げ、又はマニューバであって他に分類がないもの<br><br><b><ul>注</ul></b><br>クラスＢ６０のタイトルに続く注に注意すること。<br><br><b><ul>サブクラス内の索引</ul></b><br>清掃　１／００，３／００<br>補給、メンテナンス、修理　５／００<br>持ち上げ、又は、変位若しくは転向<br>車両と一体の装置、又は、車両とは別体の装置　９／００，１３／００<br>別体の装置を受け止めるための車両の部分改良　１１／００",
+      "en": "SERVICING, CLEANING, REPAIRING, SUPPORTING, LIFTING, OR MANOEUVRING OF VEHICLES, NOT OTHERWISE PROVIDED FOR; <br><br><b><u>Note(s)</u></b><br><br><ul><li>Attention is drawn to the Note following the title of class <b>B60</b>.</li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">CLEANING </td><td><b><b>1/00</b>, <b>3/00</b></b></td></tr></tr><tr><td width=\"70%\">SERVICING, MAINTENANCE, REPAIR </td><td><b><b>5/00</b></b></td></tr></tr><tr><td width=\"70%\">LIFTING OR MANOEUVRING<tr><td width=\"70%\">Devices integral with, or separate from, vehicle </td><td><b><b>9/00</b>, <b>13/00</b></b></td></tr></tr><tr><td width=\"70%\">Vehicle modifications to receive separate devices </td><td><b><b>11/00</b></b></td></tr></tr></tr></table>",
+      "count": 1636,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B60": {
+      "code": "B60",
+      "level": 0,
+      "parent": "B",
+      "ja": "車両一般<br><br><b><ul>注</ul></b><br>このクラスにおいては，下記の用語は以下に示す意味で用いる：<br>―“車両”は次の形の車両にのみ限定されるものを除いてすべての車両を意味する：鉄道車両，水上輸送船，航空機，宇宙乗物，手動運搬車，自転車，動物牽引車両およびそり；これらは，これに関連するサブクラスＢ６１からＢ６４に包含される。<br>用語“車両”は以下のものを包含する：<br>―上掲の二以上の形に共通な車両的特徴のあるもの；<br>―自動車もしくは道路またはクロスカントリー用のトレーラに限定される特徴あるもの。<br>―次の例外に注意されたい：<br>（ａ）サブクラスＢ６０ＢとＢ６０Ｃは，ローラースケート用車輪Ａ６３Ｃ１７／２２，鉄道模型用車輪Ａ６３Ｈ１９／２２および航空機用に特別に用いられる車輪またはタイヤＢ６４Ｃ２５／３６を除いて，すべての車両の車輪およびタイヤを含む；<br>（ｂ）サブクラスＢ６０Ｃは膨張可能な弾性体一般へのバルブの取付けを含み，この点は車両に限定されない；<br>（ｃ）サブクラスＢ６０Ｌはすべての電動車両の電気装置を含む；<br>（ｄ）サブクラスＢ６０Ｍは，外部の，すべての種類の電動車両の動力供給装置を含む；<br>（ｅ）サブクラスＢ６０Ｒは陸用車両の全型式に用いられる安全ベルトまたは身体用ハーネスを含む；［４］<br>（ｆ）サブクラスＢ６０Ｓは，グループＢ６１Ｋ１１／００に分類される鉄道機関車の施設，サブクラスＢ６４Ｆに分類される航空機の地上設備またはグループＢ６３Ｂ５７／００，Ｂ６３Ｂ５９／００に分類される水上浮揚構造物に特有な洗浄装置を除いて，すべての種類の車両に関する；<br>（ｇ）サブクラスＢ６０Ｔは一般に適用できる制動制御装置を含み，かつこの意味においてこれは車両に限定されない。また鉄道車両の動力制動装置および鉄道車両の制動装置の他の構造をも含む。；<br>（ｈ）サブクラスＢ６０Ｖは空気クッション車両自体，および空気クッション車両としても運用可能な特徴を有するまたは部分的に空気クッションによって支持される地上用車両，水上用車両または航空機を含む。［２００９．０１］",
+      "en": "VEHICLES IN GENERAL; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this class, the following term is used with the meaning indicated: <ul><li>\"vehicle\" means all vehicles except those restricted to one of the following types of vehicles: rail vehicles, waterborne vessels, aircraft, space vehicles, hand carts, cycles, animal-drawn vehicles, and sledges, which are covered by the relevant subclasses of <b>B61 to B64</b> . <ul><li>Thus the term \"vehicle\" includes: <ul><li>vehicular characteristics which are common to more than one of the above-listed types;</li><li>certain characteristics restricted to automobiles, road or cross-country trailers.</li><li>The following exceptions to the above should be noted: <ul><li>subclass <b>B60B</b> or <b>B60C</b> embrace all vehicle wheels and tyres, except wheels for roller skates <b>A63C17/22</b>, wheels for model railway vehicles <b>A63H19/22</b>, and special adaptations of wheels or tyres for aircraft <b>B64C25/36</b>;</li><li>subclass <b>B60C</b> embraces the connection of valves to inflatable elastic bodies in general, and in this respect it is not limited to vehicles;</li><li>subclass <b>B60L</b> embraces certain electric equipment of all electrically-propelled vehicles;</li><li>subclass <b>B60M</b> embraces certain power supply equipment for, but external to, any kind of electrically-propelled vehicle;</li><li>subclass <b>B60R</b> embraces safety belts or body harnesses used in all types of land vehicles;</li><li>subclass <b>B60S</b> relates to all kinds of vehicles, except the servicing of rail locomotives <b>B61K11/00</b>, ground equipment for aircraft <b>B64F</b>, or cleaning apparatus peculiar to waterborne vessels <b>B63B57/00</b>, <b>B63B59/00</b>;</li><li>subclass <b>B60T</b> includes brake control systems of general applicability, and in this respect it is not limited to vehicles. It also includes rail-vehicle power-brake systems and some other features of rail-vehicle brake systems;</li><li>subclass <b>B60V</b> embraces air-cushion vehicles <u>per se</u> and land vehicles, waterborne vessels or aircraft combined with features allowing them to alternatively operate as air-cushion vehicles or to be partially supported by an air cushion.</li></ul></li></ul></li></ul></li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B": {
+      "code": "B",
+      "level": 0,
+      "parent": null,
+      "ja": "処理操作；運輸",
+      "en": "PERFORMING OPERATIONS; TRANSPORTING",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B60S1/00": {
+      "code": "B60S1/00",
+      "level": 0,
+      "parent": "B60S",
+      "ja": "車両の清掃（車両と一体ではない装置による車両の清掃Ｂ６０Ｓ３／００；清掃一般Ｂ０８Ｂ；航空機の除氷Ｂ６４Ｄ；光透過面又は光反射面に特に適合する加熱手段Ｈ０５Ｂ３／８４）［２００６．０１］",
+      "en": "Cleaning of vehicles(by apparatus not integral with vehicle <b>B60S3/00</b>; cleaning in general <b>B08B</b>; de-icing of aircraft <b>B64D</b>; heating arrangements specially adapted for transparent or reflecting areas <b>H05B3/84</b>)",
+      "count": 592,
+      "sourceFile": "ipc_B60S.txt",
+      "kind": "ipc"
+    },
+    "B60S1/02": {
+      "code": "B60S1/02",
+      "level": 1,
+      "parent": "B60S1/00",
+      "ja": "風防，窓，又は光学デバイスの清掃",
+      "en": "Cleaning windscreens, windows, or optical devices",
+      "count": 5840,
+      "sourceFile": "ipc_B60S.txt",
+      "kind": "ipc"
+    },
+    "B60S1/04": {
+      "code": "B60S1/04",
+      "level": 2,
+      "parent": "B60S1/02",
+      "ja": "ワイパー又は同類のもの，例．スクレーパー",
+      "en": "Wipers or the like, e.g. scrapers",
+      "count": 6010,
+      "sourceFile": "ipc_B60S.txt",
+      "kind": "ipc"
+    },
+    "B60S1/06": {
+      "code": "B60S1/06",
+      "level": 3,
+      "parent": "B60S1/04",
+      "ja": "駆動に特徴を有するもの（スイング運動以外の運動をするものＢ６０Ｓ１／４４）",
+      "en": "characterised by the drive(producing other than swinging movement <b>B60S1/44</b>)",
+      "count": 1069,
+      "sourceFile": "ipc_B60S.txt",
+      "kind": "ipc"
+    },
+    "B60S1/08": {
+      "code": "B60S1/08",
+      "level": 4,
+      "parent": "B60S1/06",
+      "ja": "電気で駆動されるもの",
+      "en": "electrically driven",
+      "count": 11599,
+      "sourceFile": "ipc_B60S.txt",
+      "kind": "ipc"
+    },
+    "B60S1/10": {
+      "code": "B60S1/10",
+      "level": 4,
+      "parent": "B60S1/06",
+      "ja": "空気圧で駆動されるもの",
+      "en": "pneumatically driven",
+      "count": 571,
+      "sourceFile": "ipc_B60S.txt",
+      "kind": "ipc"
+    },
+    "B60S1/12": {
+      "code": "B60S1/12",
+      "level": 4,
+      "parent": "B60S1/06",
+      "ja": "液圧で駆動されるもの",
+      "en": "hydraulically driven",
+      "count": 299,
+      "sourceFile": "ipc_B60S.txt",
+      "kind": "ipc"
+    },
+    "B60S1/14": {
+      "code": "B60S1/14",
+      "level": 4,
+      "parent": "B60S1/06",
+      "ja": "人力で駆動されるもの",
+      "en": "personally driven",
+      "count": 314,
+      "sourceFile": "ipc_B60S.txt",
+      "kind": "ipc"
+    },
+    "B60S1/16": {
+      "code": "B60S1/16",
+      "level": 4,
+      "parent": "B60S1/06",
+      "ja": "動力伝達手段",
+      "en": "Means for transmitting drive",
+      "count": 1141,
+      "sourceFile": "ipc_B60S.txt",
+      "kind": "ipc"
+    },
+    "B60S1/18": {
+      "code": "B60S1/18",
+      "level": 5,
+      "parent": "B60S1/16",
+      "ja": "機械的に伝達するもの",
+      "en": "mechanically",
+      "count": 2572,
+      "sourceFile": "ipc_B60S.txt",
+      "kind": "ipc"
+    },
+    "B60S1/20": {
+      "code": "B60S1/20",
+      "level": 6,
+      "parent": "B60S1/18",
+      "ja": "索条によるもの；可撓軸によるもの",
+      "en": "by cable drives; by flexible shafts",
+      "count": 534,
+      "sourceFile": "ipc_B60S.txt",
+      "kind": "ipc"
+    },
+    "B60S1/22": {
+      "code": "B60S1/22",
+      "level": 6,
+      "parent": "B60S1/18",
+      "ja": "回転カムによるもの",
+      "en": "by rotary cams",
+      "count": 85,
+      "sourceFile": "ipc_B60S.txt",
+      "kind": "ipc"
+    },
+    "B60S1/24": {
+      "code": "B60S1/24",
+      "level": 6,
+      "parent": "B60S1/18",
+      "ja": "回転クランクによるもの",
+      "en": "by rotary cranks",
+      "count": 1291,
+      "sourceFile": "ipc_B60S.txt",
+      "kind": "ipc"
+    },
+    "B60S1/26": {
+      "code": "B60S1/26",
+      "level": 6,
+      "parent": "B60S1/18",
+      "ja": "歯車によるもの",
+      "en": "by toothed gearing",
+      "count": 676,
+      "sourceFile": "ipc_B60S.txt",
+      "kind": "ipc"
+    },
+    "B60S1/28": {
+      "code": "B60S1/28",
+      "level": 3,
+      "parent": "B60S1/04",
+      "ja": "ワイパーが複数存在することに特徴を有するもの（Ｂ６０Ｓ１／０６が優先）",
+      "en": "characterised by a plurality of wipers(<b>B60S1/06</b> takes precedence)",
+      "count": 530,
+      "sourceFile": "ipc_B60S.txt",
+      "kind": "ipc"
+    },
+    "B60S1/30": {
+      "code": "B60S1/30",
+      "level": 4,
+      "parent": "B60S1/28",
+      "ja": "車外及び車内の両方に配置されたもの",
+      "en": "arranged both outside and inside",
+      "count": 298,
+      "sourceFile": "ipc_B60S.txt",
+      "kind": "ipc"
+    },
+    "B60S1/32": {
+      "code": "B60S1/32",
+      "level": 3,
+      "parent": "B60S1/04",
+      "ja": "ワイパーブレード又はワイパーアームの構造的形態に特徴を有するもの",
+      "en": "characterised by constructional features of wiper blades or arms",
+      "count": 3032,
+      "sourceFile": "ipc_B60S.txt",
+      "kind": "ipc"
+    },
+    "B60S1/34": {
+      "code": "B60S1/34",
+      "level": 4,
+      "parent": "B60S1/32",
+      "ja": "ワイパーアーム；それの取り付け",
+      "en": "Wiper arms; Mountings therefor",
+      "count": 7445,
+      "sourceFile": "ipc_B60S.txt",
+      "kind": "ipc"
+    },
+    "B60S1/36": {
+      "code": "B60S1/36",
+      "level": 5,
+      "parent": "B60S1/34",
+      "ja": "長さが変わるワイパーアーム",
+      "en": "Variable-length arms",
+      "count": 655,
+      "sourceFile": "ipc_B60S.txt",
+      "kind": "ipc"
+    },
+    "B60S1/38": {
+      "code": "B60S1/38",
+      "level": 4,
+      "parent": "B60S1/32",
+      "ja": "ワイパーブレード",
+      "en": "Wiper blades",
+      "count": 10108,
+      "sourceFile": "ipc_B60S.txt",
+      "kind": "ipc"
+    },
+    "B60S1/40": {
+      "code": "B60S1/40",
+      "level": 4,
+      "parent": "B60S1/32",
+      "ja": "ワイパーブレードとワイパーアームの連結",
+      "en": "Connections between blades and arms",
+      "count": 4953,
+      "sourceFile": "ipc_B60S.txt",
+      "kind": "ipc"
+    },
+    "B60S1/42": {
+      "code": "B60S1/42",
+      "level": 5,
+      "parent": "B60S1/40",
+      "ja": "連結状態を元に戻す復元力のあるもの",
+      "en": "resilient",
+      "count": 564,
+      "sourceFile": "ipc_B60S.txt",
+      "kind": "ipc"
+    },
+    "B60S1/44": {
+      "code": "B60S1/44",
+      "level": 3,
+      "parent": "B60S1/04",
+      "ja": "ワイパーブレードがスイング運動以外の運動，例．回転，をするもの",
+      "en": "the wiper blades having other than swinging movement, e.g. rotary",
+      "count": 915,
+      "sourceFile": "ipc_B60S.txt",
+      "kind": "ipc"
+    },
+    "B60S1/46": {
+      "code": "B60S1/46",
+      "level": 2,
+      "parent": "B60S1/02",
+      "ja": "液体を用いるもの；ウインドウウォッシャー",
+      "en": "using liquid; Windscreen washers",
+      "count": 2950,
+      "sourceFile": "ipc_B60S.txt",
+      "kind": "ipc"
+    },
+    "B60S1/48": {
+      "code": "B60S1/48",
+      "level": 3,
+      "parent": "B60S1/46",
+      "ja": "それのために液体を供給するもの",
+      "en": "Liquid supply therefor",
+      "count": 6096,
+      "sourceFile": "ipc_B60S.txt",
+      "kind": "ipc"
+    },
+    "B60S1/50": {
+      "code": "B60S1/50",
+      "level": 4,
+      "parent": "B60S1/48",
+      "ja": "貯液手段の構成配置",
+      "en": "Arrangement of reservoir",
+      "count": 2970,
+      "sourceFile": "ipc_B60S.txt",
+      "kind": "ipc"
+    },
+    "B60S1/52": {
+      "code": "B60S1/52",
+      "level": 4,
+      "parent": "B60S1/48",
+      "ja": "ノズルの配置（ノズルそのものＢ０５Ｂ）",
+      "en": "Arrangement of nozzles(nozzles <u>per se</u><b>B05B</b>)",
+      "count": 5187,
+      "sourceFile": "ipc_B60S.txt",
+      "kind": "ipc"
+    },
+    "B60S1/54": {
+      "code": "B60S1/54",
+      "level": 2,
+      "parent": "B60S1/02",
+      "ja": "気体を用いるもの，例．熱気",
+      "en": "using gas, e.g. hot air",
+      "count": 6305,
+      "sourceFile": "ipc_B60S.txt",
+      "kind": "ipc"
+    },
+    "B60S1/56": {
+      "code": "B60S1/56",
+      "level": 2,
+      "parent": "B60S1/02",
+      "ja": "風防でも前面窓でもない窓又は光学デバイスを清掃するのに特に適合するもの［２００６．０１］",
+      "en": "specially adapted for cleaning other parts or devices than front windows or windscreens",
+      "count": 4090,
+      "sourceFile": "ipc_B60S.txt",
+      "kind": "ipc"
+    },
+    "B60S1/58": {
+      "code": "B60S1/58",
+      "level": 3,
+      "parent": "B60S1/56",
+      "ja": "後面窓を清掃するのに適するように特別に構成されたもの［２００６．０１］",
+      "en": "for rear windows",
+      "count": 1787,
+      "sourceFile": "ipc_B60S.txt",
+      "kind": "ipc"
+    },
+    "B60S1/60": {
+      "code": "B60S1/60",
+      "level": 3,
+      "parent": "B60S1/56",
+      "ja": "合図デバイス，例．反射器，を清掃するのに適するように特別に構成されたもの［２００６．０１］",
+      "en": "for signalling devices, e.g. reflectors",
+      "count": 5936,
+      "sourceFile": "ipc_B60S.txt",
+      "kind": "ipc"
+    },
+    "B60S1/62": {
+      "code": "B60S1/62",
+      "level": 1,
+      "parent": "B60S1/00",
+      "ja": "車両上のその他の清掃用装備",
+      "en": "Other vehicle fittings for cleaning",
+      "count": 1888,
+      "sourceFile": "ipc_B60S.txt",
+      "kind": "ipc"
+    },
+    "B60S1/64": {
+      "code": "B60S1/64",
+      "level": 2,
+      "parent": "B60S1/62",
+      "ja": "車両の内装を清掃するためのもの，例．造り付けの吸引掃除機",
+      "en": "for cleaning vehicle interiors, e.g. built-in vacuum cleaners",
+      "count": 1866,
+      "sourceFile": "ipc_B60S.txt",
+      "kind": "ipc"
+    },
+    "B60S1/66": {
+      "code": "B60S1/66",
+      "level": 2,
+      "parent": "B60S1/62",
+      "ja": "車両の外装を清掃するためのもの",
+      "en": "for cleaning vehicle exterior",
+      "count": 2505,
+      "sourceFile": "ipc_B60S.txt",
+      "kind": "ipc"
+    },
+    "B60S1/68": {
+      "code": "B60S1/68",
+      "level": 3,
+      "parent": "B60S1/66",
+      "ja": "ホイール又はタイヤから異物を除去するためのもの，例．車輪の泥落とし器",
+      "en": "for freeing wheels or tyres from foreign matter, e.g. wheel scrapers",
+      "count": 2502,
+      "sourceFile": "ipc_B60S.txt",
+      "kind": "ipc"
+    },
+    "B60S3/00": {
+      "code": "B60S3/00",
+      "level": 0,
+      "parent": "B60S",
+      "ja": "車両清掃装置であって車両と一体ではないもの（清掃一般Ｂ０８Ｂ；大型輸送船に特有の清掃Ｂ６３Ｂ５７／００，Ｂ６３Ｂ５９／００；航空機を清掃するための地上装置Ｂ６４Ｆ５／００）",
+      "en": "Vehicle cleaning apparatus not integral with vehicles(cleaning in general <b>B08B</b>; cleaning peculiar to waterborne vessels <b>B63B57/00</b>, <b>B63B59/00</b>; ground equipment for cleaning aircraft <b>B64F5/00</b>)",
+      "count": 7935,
+      "sourceFile": "ipc_B60S.txt",
+      "kind": "ipc"
+    },
+    "B60S3/04": {
+      "code": "B60S3/04",
+      "level": 1,
+      "parent": "B60S3/00",
+      "ja": "陸上車両の外装を清掃するためのもの",
+      "en": "for exteriors of land vehicles",
+      "count": 23145,
+      "sourceFile": "ipc_B60S.txt",
+      "kind": "ipc"
+    },
+    "B60S3/06": {
+      "code": "B60S3/06",
+      "level": 2,
+      "parent": "B60S3/04",
+      "ja": "車両に接触する回転体をもつもの",
+      "en": "with rotary bodies contacting the vehicles",
+      "count": 6774,
+      "sourceFile": "ipc_B60S.txt",
+      "kind": "ipc"
+    },
+    "B60S5/00": {
+      "code": "B60S5/00",
+      "level": 0,
+      "parent": "B60S",
+      "ja": "車両の補給、メンテナンス、修理、又は改装（補給又はメンテナンスのための機材を搭載した出張サービスカーＢ６０Ｐ３／１４；鉄道機関車への補給Ｂ６１Ｋ）",
+      "en": "Servicing, maintaining, repairing, or refitting of vehicles(vehicles adapted to carry a workshop for servicing or maintenance <b>B60P3/14</b>; servicing rail locomotives <b>B61K</b>)",
+      "count": 11257,
+      "sourceFile": "ipc_B60S.txt",
+      "kind": "ipc"
+    },
+    "B60S5/02": {
+      "code": "B60S5/02",
+      "level": 1,
+      "parent": "B60S5/00",
+      "ja": "車両への燃料の補給；補給ステーションの中の全体的な設備の配置（計量された分量のガソリン，油，又は同類のものを貯蔵スペースから車両へ移送するための装置Ｂ６７Ｄ）",
+      "en": "Supplying fuel to vehicles; General disposition of plant in filling stations(apparatus for transferring measured quantities of petrol, oil, or the like from storage space to vehicles <b>B67D</b>)",
+      "count": 3489,
+      "sourceFile": "ipc_B60S.txt",
+      "kind": "ipc"
+    },
+    "B60S5/04": {
+      "code": "B60S5/04",
+      "level": 1,
+      "parent": "B60S5/00",
+      "ja": "タイヤを膨らませるための空気の充填（車両に組み込まれているタイヤ空気充填機器Ｂ６０Ｃ２３／００；タイヤ内圧測定器Ｇ０１Ｌ１７／００）",
+      "en": "Supplying air for tyre inflation(arrangement of tyre inflating devices on vehicles <b>B60C23/00</b>; tyre pressure gauges <b>G01L17/00</b>)",
+      "count": 3158,
+      "sourceFile": "ipc_B60S.txt",
+      "kind": "ipc"
+    },
+    "B60S5/06": {
+      "code": "B60S5/06",
+      "level": 1,
+      "parent": "B60S5/00",
+      "ja": "バッテリーの車両への取り付け，又は車両からのバッテリーの取り外し（走行用バッテリーの交換Ｂ６０Ｌ５３／８０）［２０１９．０１］",
+      "en": "Supplying batteries to, or removing batteries from, vehicles (exchanging batteries for electric propulsion of vehicles <b>B60L53/80</b>)",
+      "count": 6778,
+      "sourceFile": "ipc_B60S.txt",
+      "kind": "ipc"
+    },
+    "B60S9/00": {
+      "code": "B60S9/00",
+      "level": 0,
+      "parent": "B60S",
+      "ja": "車両の装備であって接地して車両の全体又は一部を支持し、持ち上げ、又はマニューバするもの、例．車体内蔵のジャッキ（持ち上げ装置一般Ｂ６６Ｆ；支持体一般Ｆ１６Ｍ）",
+      "en": "Ground-engaging vehicle fittings for supporting, lifting, or manoeuvring the vehicle, wholly or in part, e.g. built-in jacks(lifting devices in general <b>B66F</b>; supports in general <b>F16M</b>)",
+      "count": 1164,
+      "sourceFile": "ipc_B60S.txt",
+      "kind": "ipc"
+    },
+    "B60S9/02": {
+      "code": "B60S9/02",
+      "level": 1,
+      "parent": "B60S9/00",
+      "ja": "支持だけ又は持ち上げだけを行うもの",
+      "en": "for only lifting or supporting",
+      "count": 3011,
+      "sourceFile": "ipc_B60S.txt",
+      "kind": "ipc"
+    },
+    "B60S9/04": {
+      "code": "B60S9/04",
+      "level": 2,
+      "parent": "B60S9/02",
+      "ja": "機械仕掛けで行うもの",
+      "en": "mechanically",
+      "count": 3527,
+      "sourceFile": "ipc_B60S.txt",
+      "kind": "ipc"
+    },
+    "B60S9/06": {
+      "code": "B60S9/06",
+      "level": 3,
+      "parent": "B60S9/04",
+      "ja": "ネジ・ナット式",
+      "en": "of screw-and-nut type",
+      "count": 754,
+      "sourceFile": "ipc_B60S.txt",
+      "kind": "ipc"
+    },
+    "B60S9/08": {
+      "code": "B60S9/08",
+      "level": 4,
+      "parent": "B60S9/06",
+      "ja": "ネジ軸が概ね鉛直であるもの",
+      "en": "the screw axis being substantially vertical",
+      "count": 768,
+      "sourceFile": "ipc_B60S.txt",
+      "kind": "ipc"
+    },
+    "B60S9/10": {
+      "code": "B60S9/10",
+      "level": 2,
+      "parent": "B60S9/02",
+      "ja": "流体圧力を使って行うもの",
+      "en": "by fluid pressure",
+      "count": 3081,
+      "sourceFile": "ipc_B60S.txt",
+      "kind": "ipc"
+    },
+    "B60S9/12": {
+      "code": "B60S9/12",
+      "level": 3,
+      "parent": "B60S9/10",
+      "ja": "テレスコピック式",
+      "en": "of telescopic type",
+      "count": 2812,
+      "sourceFile": "ipc_B60S.txt",
+      "kind": "ipc"
+    },
+    "B60S9/14": {
+      "code": "B60S9/14",
+      "level": 1,
+      "parent": "B60S9/00",
+      "ja": "持ち上げとマニューバとをどちらも行うもの",
+      "en": "for both lifting and manoeuvring",
+      "count": 1091,
+      "sourceFile": "ipc_B60S.txt",
+      "kind": "ipc"
+    },
+    "B60S9/16": {
+      "code": "B60S9/16",
+      "level": 2,
+      "parent": "B60S9/14",
+      "ja": "車両の片側だけで行うもの（Ｂ６０Ｓ９／２０５が優先）",
+      "en": "for operating only on one end of vehicle(<b>B60S9/205</b> takes precedence)",
+      "count": 435,
+      "sourceFile": "ipc_B60S.txt",
+      "kind": "ipc"
+    },
+    "B60S9/18": {
+      "code": "B60S9/18",
+      "level": 3,
+      "parent": "B60S9/16",
+      "ja": "機械仕掛けで行うもの",
+      "en": "mechanically",
+      "count": 496,
+      "sourceFile": "ipc_B60S.txt",
+      "kind": "ipc"
+    },
+    "B60S9/20": {
+      "code": "B60S9/20",
+      "level": 3,
+      "parent": "B60S9/16",
+      "ja": "流体圧リフトを用いて行うもの",
+      "en": "with fluid-pressure lift",
+      "count": 489,
+      "sourceFile": "ipc_B60S.txt",
+      "kind": "ipc"
+    },
+    "B60S9/205": {
+      "code": "B60S9/205",
+      "level": 2,
+      "parent": "B60S9/14",
+      "ja": "マニューバを行う装備、例．往復動する脚又は回転するカム、が原動機の動力を使うもの（推進のために接地する手段，例．歩行脚，を有する車両Ｂ６２Ｄ５７／０２）",
+      "en": "Power driven manoeuvring fittings, e.g. reciprocably driven steppers or rotatably driven cams(vehicles with ground-engaging propulsion means, e.g. walking members, <b>B62D57/02</b>)",
+      "count": 642,
+      "sourceFile": "ipc_B60S.txt",
+      "kind": "ipc"
+    },
+    "B60S9/21": {
+      "code": "B60S9/21",
+      "level": 3,
+      "parent": "B60S9/205",
+      "ja": "回転駆動される、例．走行車輪により駆動される、補助車輪又は無限軌道を含むもの（無限軌道に追加して又は無限軌道に取って代わる走行車輪を有する無限軌道車Ｂ６２Ｄ５５／０２，Ｂ６２Ｄ５５／０４；走行車輪から取り出した回転力による補機又は外部機器の駆動Ｂ６０Ｋ２５／０８）",
+      "en": "comprising a rotatably driven auxiliary wheel or endless track, e.g. driven by a ground wheel(track vehicles with additional or alternative ground wheels <b>B62D55/02</b>, <b>B62D55/04</b>; auxiliary drives from a ground wheel <b>B60K25/08</b>)",
+      "count": 495,
+      "sourceFile": "ipc_B60S.txt",
+      "kind": "ipc"
+    },
+    "B60S9/215": {
+      "code": "B60S9/215",
+      "level": 4,
+      "parent": "B60S9/21",
+      "ja": "回転駆動が補助モータによりなされるもの",
+      "en": "driven by an auxiliary motor",
+      "count": 493,
+      "sourceFile": "ipc_B60S.txt",
+      "kind": "ipc"
+    },
+    "B60S9/22": {
+      "code": "B60S9/22",
+      "level": 1,
+      "parent": "B60S9/00",
+      "ja": "車両を支持し、持ち上げ、又はマニューバするデバイスを車両に据え付けるための手段（車両とは別体の装置のためのものＢ６０Ｓ１１／００）",
+      "en": "Means for attaching lifting, supporting, or manoeuvring devices to vehicles(for separate devices <b>B60S11/00</b>)",
+      "count": 923,
+      "sourceFile": "ipc_B60S.txt",
+      "kind": "ipc"
+    },
+    "B60S11/00": {
+      "code": "B60S11/00",
+      "level": 0,
+      "parent": "B60S",
+      "ja": "車両とは別体の装置であって車両を支持し、持ち上げ、又はマニューバするものを、車両において受け止める部分の改良",
+      "en": "Vehicle modifications for receiving separate lifting, supporting, or manoeuvring devices",
+      "count": 945,
+      "sourceFile": "ipc_B60S.txt",
+      "kind": "ipc"
+    },
+    "B60S13/00": {
+      "code": "B60S13/00",
+      "level": 0,
+      "parent": "B60S",
+      "ja": "車両とは別体の装置であって車両をマニューバするもの（車両を持ち上げ又は押し動かす装置Ｂ６６Ｆ）",
+      "en": "Vehicle-manoeuvring devices separate from the vehicle(vehicle-lifting or pushing devices <b>B66F</b>)",
+      "count": 2239,
+      "sourceFile": "ipc_B60S.txt",
+      "kind": "ipc"
+    },
+    "B60S13/02": {
+      "code": "B60S13/02",
+      "level": 1,
+      "parent": "B60S13/00",
+      "ja": "ターンテーブル；トラバーサー（車庫に組み込まれているものＥ０４Ｈ）",
+      "en": "Turntables; Traversers(incorporated in vehicle-storing garages <b>E04H</b>)",
+      "count": 1693,
+      "sourceFile": "ipc_B60S.txt",
+      "kind": "ipc"
+    }
+  }
+};

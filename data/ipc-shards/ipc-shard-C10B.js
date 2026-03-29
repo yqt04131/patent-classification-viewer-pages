@@ -1,0 +1,1796 @@
+window.IPC_SHARD_C10B = {
+  "generatedAt": "2026-03-20T02:17:46.470Z",
+  "total": 179,
+  "entries": {
+    "C10B": {
+      "code": "C10B",
+      "level": 0,
+      "parent": "C10",
+      "ja": "ガス，コークス，タールまたはこれらの類似物を製造するための炭素質物の分解乾留（鉱油の分解Ｃ１０Ｇ；鉱物の地下ガス化Ｅ２１Ｂ４３／２９５）［５］<br><br><b><ul>サブクラス内の索引</ul></b><br>レトルト，コークス炉<br>レトルト　１／００<br>コークス炉　３／００～１５／００<br>コークス炉の構造上の特徴<br>ドア，密閉装置；その他の特徴　２５／００；２７／００，２９／００<br>加熱　１７／００～２３／００<br>装入装置　１３／００，３１／００～３５／００<br>安全装置；固着物の防止または除去　４１／００；４３／００<br>その他の事項　４５／００<br>炭化またはコークス化方式<br>乾留によるもの　４７／００～５３／００<br>鉱油または類似物のコークス化　５５／００<br>その他の方式　５７／００<br>一般的な乾留方式の特徴　７／００，１３／００，３７／００，３９／００，５７／００",
+      "en": "DESTRUCTIVE DISTILLATION OF CARBONACEOUS MATERIALS FOR PRODUCTION OF GAS, COKE, TAR, OR SIMILAR MATERIALS(cracking oils <b>C10G</b>; underground gasification of minerals <b>E21B43/295</b>);<br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">RETORTS; COKE OVENS<tr><td width=\"70%\">Retorts </td><td><b><b>1/00</b></b></td></tr></tr><tr><td width=\"70%\">Coke ovens </td><td><b><b>3/00 to 15/00</b> </b></td></tr></tr><tr><td width=\"70%\">Structural features of coke ovens<tr><td width=\"70%\">doors, closures; other features </td><td><b><b>25/00</b>; <b>27/00</b>, <b>29/00</b></b></td></tr></tr><tr><td width=\"70%\">heating </td><td><b><b>17/00 to 23/00</b> </b></td></tr></tr><tr><td width=\"70%\">charging devices </td><td><b><b>13/00</b>, <b>31/00 to 35/00</b> </b></td></tr></tr><tr><td width=\"70%\">safety devices; preventing or removing incrustations </td><td><b><b>41/00</b>; <b>43/00</b></b></td></tr></tr><tr><td width=\"70%\">other details </td><td><b><b>45/00</b></b></td></tr></tr></tr></tr><tr><td width=\"70%\">CARBONISING OR COKING PROCESSES<tr><td width=\"70%\">By destructive distillation </td><td><b><b>47/00 to 53/00</b> </b></td></tr></tr><tr><td width=\"70%\">Coking mineral oils or the like </td><td><b><b>55/00</b></b></td></tr></tr><tr><td width=\"70%\">Other processes </td><td><b><b>57/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">FEATURES OF DESTRUCTIVE DISTILLATION PROCESSES IN GENERAL </td><td><b><b>7/00</b>, <b>13/00</b>, <b>37/00</b>, <b>39/00</b>, <b>57/00</b></b></td></tr></tr></table>",
+      "count": 720,
+      "sourceFile": "ipc_C.txt",
+      "kind": "ipc"
+    },
+    "C10": {
+      "code": "C10",
+      "level": 0,
+      "parent": "C",
+      "ja": "石油，ガスまたはコークス工業；一酸化炭素を含有する工業ガス；燃料；潤滑剤；でい炭",
+      "en": "PETROLEUM, GAS OR COKE INDUSTRIES; TECHNICAL GASES CONTAINING CARBON MONOXIDE; FUELS; LUBRICANTS; PEAT",
+      "count": 0,
+      "sourceFile": "ipc_C.txt",
+      "kind": "ipc"
+    },
+    "C": {
+      "code": "C",
+      "level": 0,
+      "parent": null,
+      "ja": "化学；冶金<br><br><b><ul>注</ul></b><br>（１）セクションＣにおいて，化学元素の種類に関する定義は次の通りである：<br>アルカリ金属：Ｌｉ，Ｎａ，Ｋ，Ｒｂ，Ｃｓ，Ｆｒ<br>アルカリ土類金属：Ｃａ，Ｓｒ，Ｂａ，Ｒａ<br>ランタニド：原子番号５７から７１までの元素<br>希土類：Ｓｃ，Ｙ，ランタニド<br>アクチニド：原子番号８９から１０３までの元素<br>耐火金属：Ｔｉ，Ｖ，Ｃｒ，Ｚｒ，Ｎｂ，Ｍｏ，Ｈｆ，Ｔａ，Ｗ<br>ハロゲン：Ｆ，Ｃｌ，Ｂｒ，Ｉ，Ａｔ<br>希ガス：Ｈｅ，Ｎｅ，Ａｒ，Ｋｒ，Ｘｅ，Ｒｎ<br>白金族：Ｏｓ，Ｉｒ，Ｐｔ，Ｒｕ，Ｒｈ，Ｐｄ<br>貴金属：Ａｇ，Ａｕ，白金族<br>軽金属：アルカリ金属，アルカリ土類金属，Ｂｅ，Ａｌ，Ｍｇ<br>重金属：軽金属以外の金属<br>鉄族：Ｆｅ，Ｃｏ，Ｎｉ<br>非金属：Ｈ，Ｂ，Ｃ，Ｓｉ，Ｎ，Ｐ，Ｏ，Ｓ，Ｓｅ，Ｔｅ，希ガス，ハロゲン<br>金属：非金属以外の元素<br>遷移元素：原子番号２１から３０まで，３９から４８まで，５７から８０まで，８９以上の元素<br>（２）Ｃセクションは以下のものを包含する：<br>（ａ）無機化合物，有機化合物，高分子化合物およびそれらの調製法を包含する純粋化学；<br>（ｂ）たとえばガラス，セラミック，肥料，プラスチック組成物，ペイント，石油工業の製品のような上記化合物を含有する組成物を包含する応用化学。それはまた，爆発物，染料，接着剤，潤滑剤および洗剤のように，ある目的に適した特別の性質をもつための組成物をも包含する；<br>（ｃ）コークスの製造，固体または気体燃料の製造，油脂およびろうの製造および精製，発酵工業（例．ビールおよびぶどう酒の製造），製糖工業のようなある境界工業；<br>（ｄ）ある操作または処理であって，純粋に機械的な処理，例．レザーおよび皮の機械的処理，または部分的機械的処理，例．水処理，または腐食防止一般であるもの；<br>（ｅ）冶金，鉄または非鉄合金<br>（３）ＩＰＣの全てのセクションにおいて，相反する指示がない限り，元素記号周期表への言及は，以下に示す１８のグループを表す。［２００９．０１］<br>’「図」’<br>’「図」’<br>（４）<br>（ａ）化学的部分または面および非化学的部分または面の両方を有する操作，処理，製品または物品の場合に，一般規則として，化学的部分または面はＣセクションに包含される。<br>（ｂ）これらのうちのある場合には，化学的部分または面には非化学的部分または面を伴い，純粋に機械的部分または面を伴うことさえある，というのは非化学的面は操作または処理にとって本質的であるかまたはそれらの重要な要素を構成するからである；実際，全体のさまざまな部分または面を分割しないのがより論理的と思える。これは応用化学や上記注（１）（ｃ），（ｄ）および（ｅ）の工業，操作および処理の場合に適用される。例えば，ガラス製造用特殊炉はＣ０３に包含されＦ２７には包含されない。<br>（ｃ）しかしながら，機械的面（または非化学的面）に非化学的な面が伴うという例外もある，例えば：<br>―サブクラスＡ６１Ｋにおけるある抽出プロセス；<br>―サブクラスＡ６１Ｌにおける空気の化学的精製；<br>―サブクラスＡ６２Ｄにおける化学的消火方法；<br>―クラスＢ０１における化学的プロセスおよび装置；<br>―サブクラスＢ２７Ｋにおける木材の含浸；<br>―サブクラスＧ０１Ｎにおける化学的分析または試験法；<br>―クラスＧ０３における写真材料またはプロセス，そして一般に，Ｄセクションにおける繊維の化学的処理および繊維素，紙等の製造<br>（ｄ）さらに他の場合，純粋化学的面はＣセクションに包含され，応用化学的面はＡ，Ｂ，Ｆセクションのような他のセクションに包含される，例．以下の物質または組成物の使用：<br>―サブクラスＡ０１Ｎに包含される植物または動物の処理；<br>―クラスＡ２３に包含される食物；<br>―クラスＦ４２に包含される弾薬または爆薬<br>（ｅ）化学的面および機械的面が非常に交錯して，簡単明確な分割ができない時，または化学的処理が自然なまたは論理的な延長として機械的プロセスを要する時は，化学的面に加えて，Ｃセクションは機械的面の一部のみ，例．クラスＣ０４に包含される人造石の後処理，を包含する。この後者の場合に，たとえその区別がむしろ任意であってもその位置を明確にするよう注または参照を通常設けている。",
+      "en": "CHEMISTRY; METALLURGY; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In section <b>C</b>, the definitions of groups of chemical elements are as follows: <ul><li><u>Alkali metals:</u> Li, Na, K, Rb, Cs, Fr</li><li><u>Alkaline earth metals:</u> Ca, Sr, Ba, Ra</li><li><u>Lanthanides:</u> elements with atomic numbers 57 to 71 inclusive</li><li><u>Rare earths:</u> Sc, Y, Lanthanides</li><li><u>Actinides:</u> elements with atomic numbers 89 to 103 inclusive</li><li><u>Refractory metals:</u> Ti, V, Cr, Zr, Nb, Mo, Hf, Ta, W</li><li><u>Halogens:</u> F, Cl, Br, I, At</li><li><u>Noble gases:</u> He, Ne, Ar, Kr, Xe, Rn</li><li><u>Platinum group:</u> Os, Ir, Pt, Ru, Rh, Pd</li><li><u>Noble metals:</u> Ag, Au, Platinum group</li><li><u>Light metals:</u> alkali metals, alkaline earth metals, Be, Al, Mg</li><li><u>Heavy metals:</u> metals other than light metals</li><li><u>Iron group:</u> Fe, Co, Ni</li><li><u>Non-metals:</u> H, B, C, Si, N, P, O, S, Se, Te, noble gases, halogens</li><li><u>Metals:</u> elements other than non-metals</li><li><u>Transition elements:</u> elements with atomic numbers 21 to 30 inclusive, 39 to 48 inclusive, 57 to 80 inclusive, 89 upwards</li></ul></li><li>Section <b>C</b> <u>covers</u> : <ul><li>pure chemistry, which covers inorganic compounds, organic compounds, macromolecular compounds, and their methods of preparation;</li><li>applied chemistry, which covers compositions containing the above compounds, such as: glass, ceramics, fertilisers, plastics compositions, paints, products of the petroleum industry. It also <u>covers</u> certain compositions on account of their having particular properties rendering them suitable for certain purposes, as in the case of explosives, dyestuffs, adhesives, lubricants, and detergents;</li><li>certain marginal industries, such as the manufacture of coke and of solid or gaseous fuels, the production and refining of oils, fats and waxes, the fermentation industry (e.g., brewing and wine-making), the sugar industry;</li><li>certain operations or treatments, which are either purely mechanical, e.g., the mechanical treatment of leather and skins, or partly mechanical, e.g., the treatment of water or the prevention of corrosion in general;</li><li>metallurgy, ferrous or non-ferrous alloys.</li></ul></li><li>In all sections of the IPC, in the absence of an indication to the contrary, the Periodic Table of chemical elements referred to is the one with 18 groups as represented in the table below. [figure]</li><li><ul><li>In the case of operations, treatments, products or articles having both a chemical and a non-chemical part or aspect, the general rule is that the chemical part or aspect is covered by section <b>C</b>.</li><li>In some of these cases, the chemical part or aspect brings with it a non-chemical one, even though purely mechanical, because this latter aspect either is essential to the operation or treatment or constitutes an important element thereof. It has seemed, in fact, more logical not to dissociate the different parts or aspects of a coherent whole. This is the case for applied chemistry and for the industries, operations and treatments mentioned in Notes (1)(c), (d) and (e). For example, furnaces peculiar to the manufacture of glass are covered by class <b>C03</b> and not by class <b>F27</b>.</li><li>There are, however, some exceptions in which the mechanical (or non-chemical) aspect carries with it the chemical aspect, for example: <ul><li>certain extractive processes, in subclass <b>A61K</b>;</li><li>the chemical purification of air, in subclass <b>A61L</b>;</li><li>chemical methods of fire-fighting, in subclass <b>A62D</b>;</li><li>chemical processes and apparatus, in class <b>B01</b>;</li><li>impregnation of wood, in subclass <b>B27K</b>;</li><li>chemical methods of analysis or testing, in subclass <b>G01N</b>;</li><li>photographic materials and processes, in class <b>G03</b>, and, generally, the chemical treatment of textiles and the production of cellulose or paper, in section <b>D</b>.</li></ul></li><li>In still other cases, the pure chemical aspect is covered by section <b>C</b> and the applied chemical aspect by another section, such as <b>A</b>, <b>B</b> or <b>F</b>, e.g., the use of a substance or composition for: <ul><li>treatment of plants or animals, covered by subclass <b>A01N</b>;</li><li>foodstuffs, covered by class <b>A23</b>;</li><li>ammunition or explosives, covered by class <b>F42</b>.</li></ul></li><li>When the chemical and mechanical aspects are so closely interlocked that a neat and simple division is not possible, or when certain mechanical processes follow as a natural or logical continuation of a chemical treatment, section <b>C</b> may cover, in addition to the chemical aspect, a part only of the mechanical aspect, e.g., after-treatment of artificial stone, covered by class <b>C04</b>. In this latter case, a note or a reference is usually given to make the position clear, even if sometimes the division is rather arbitrary.</li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_C.txt",
+      "kind": "ipc"
+    },
+    "C10B1/00": {
+      "code": "C10B1/00",
+      "level": 0,
+      "parent": "C10B",
+      "ja": "レトルト",
+      "en": "Retorts",
+      "count": 963,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B1/02": {
+      "code": "C10B1/02",
+      "level": 1,
+      "parent": "C10B1/00",
+      "ja": "固定式レトルト",
+      "en": "Stationary retorts",
+      "count": 333,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B1/04": {
+      "code": "C10B1/04",
+      "level": 2,
+      "parent": "C10B1/02",
+      "ja": "垂直式レトルト",
+      "en": "Vertical retorts",
+      "count": 1866,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B1/06": {
+      "code": "C10B1/06",
+      "level": 2,
+      "parent": "C10B1/02",
+      "ja": "水平式レトルト",
+      "en": "Horizontal retorts",
+      "count": 494,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B1/08": {
+      "code": "C10B1/08",
+      "level": 2,
+      "parent": "C10B1/02",
+      "ja": "傾斜式レトルト",
+      "en": "Inclined retorts",
+      "count": 94,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B1/10": {
+      "code": "C10B1/10",
+      "level": 1,
+      "parent": "C10B1/00",
+      "ja": "回転式レトルト",
+      "en": "Rotary retorts",
+      "count": 1171,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B3/00": {
+      "code": "C10B3/00",
+      "level": 0,
+      "parent": "C10B",
+      "ja": "垂直室をもつコークス炉",
+      "en": "Coke ovens with vertical chambers",
+      "count": 583,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B3/02": {
+      "code": "C10B3/02",
+      "level": 1,
+      "parent": "C10B3/00",
+      "ja": "熱交換装置をもつもの",
+      "en": "with heat-exchange devices",
+      "count": 333,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B5/00": {
+      "code": "C10B5/00",
+      "level": 0,
+      "parent": "C10B",
+      "ja": "水平室をもつコークス炉",
+      "en": "Coke ovens with horizontal chambers",
+      "count": 244,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B5/02": {
+      "code": "C10B5/02",
+      "level": 1,
+      "parent": "C10B5/00",
+      "ja": "垂直な加熱用煙道をもつもの",
+      "en": "with vertical heating flues",
+      "count": 530,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B5/04": {
+      "code": "C10B5/04",
+      "level": 2,
+      "parent": "C10B5/02",
+      "ja": "横断煙道をもつもの",
+      "en": "with cross-over inter-connections",
+      "count": 28,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B5/06": {
+      "code": "C10B5/06",
+      "level": 1,
+      "parent": "C10B5/00",
+      "ja": "水平な加熱用煙道をもつもの",
+      "en": "with horizontal heating flues",
+      "count": 111,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B5/08": {
+      "code": "C10B5/08",
+      "level": 1,
+      "parent": "C10B5/00",
+      "ja": "水平なおよび垂直な加熱用煙道をもつもの",
+      "en": "with horizontal and vertical heating flues",
+      "count": 30,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B5/10": {
+      "code": "C10B5/10",
+      "level": 1,
+      "parent": "C10B5/00",
+      "ja": "熱交換装置をもつもの",
+      "en": "with heat-exchange devices",
+      "count": 306,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B5/12": {
+      "code": "C10B5/12",
+      "level": 2,
+      "parent": "C10B5/10",
+      "ja": "蓄熱室をもつもの",
+      "en": "with regenerators",
+      "count": 193,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B5/14": {
+      "code": "C10B5/14",
+      "level": 3,
+      "parent": "C10B5/12",
+      "ja": "炭化室の長さ方向に配置されているもの",
+      "en": "situated in the longitudinal direction of the chambers",
+      "count": 34,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B5/16": {
+      "code": "C10B5/16",
+      "level": 4,
+      "parent": "C10B5/14",
+      "ja": "炉団別々の煙道をもつもの",
+      "en": "with separated flues",
+      "count": 46,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B5/18": {
+      "code": "C10B5/18",
+      "level": 3,
+      "parent": "C10B5/12",
+      "ja": "炉団方向に配置されているもの",
+      "en": "situated in the longitudinal direction of the oven battery",
+      "count": 18,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B5/20": {
+      "code": "C10B5/20",
+      "level": 2,
+      "parent": "C10B5/10",
+      "ja": "換熱器をもつもの",
+      "en": "with recuperators",
+      "count": 78,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B7/00": {
+      "code": "C10B7/00",
+      "level": 0,
+      "parent": "C10B",
+      "ja": "炉内に原料を送り込む機械的手段をもつコークス炉",
+      "en": "Coke ovens with mechanical conveying means for the raw material inside the oven",
+      "count": 351,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B7/02": {
+      "code": "C10B7/02",
+      "level": 1,
+      "parent": "C10B7/00",
+      "ja": "回転式かき取り装置をもつもの",
+      "en": "with rotary scraping devices",
+      "count": 353,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B7/04": {
+      "code": "C10B7/04",
+      "level": 1,
+      "parent": "C10B7/00",
+      "ja": "動揺または震動装置をもつもの",
+      "en": "with shaking or vibrating devices",
+      "count": 66,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B7/06": {
+      "code": "C10B7/06",
+      "level": 1,
+      "parent": "C10B7/00",
+      "ja": "エンドレス・コンベヤをもつもの",
+      "en": "with endless conveying devices",
+      "count": 309,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B7/08": {
+      "code": "C10B7/08",
+      "level": 2,
+      "parent": "C10B7/06",
+      "ja": "垂直方向式のもの",
+      "en": "in vertical direction",
+      "count": 18,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B7/10": {
+      "code": "C10B7/10",
+      "level": 1,
+      "parent": "C10B7/00",
+      "ja": "コンベヤスクリュウをもつもの",
+      "en": "with conveyor-screws",
+      "count": 466,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B7/12": {
+      "code": "C10B7/12",
+      "level": 1,
+      "parent": "C10B7/00",
+      "ja": "傾注または揺動突き上げ手段を有するもの",
+      "en": "with tilting or rocking means",
+      "count": 9,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B7/14": {
+      "code": "C10B7/14",
+      "level": 1,
+      "parent": "C10B7/00",
+      "ja": "トロッコ，コンテナまたは台車をもつもの",
+      "en": "with trucks, containers, or trays",
+      "count": 310,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B9/00": {
+      "code": "C10B9/00",
+      "level": 0,
+      "parent": "C10B",
+      "ja": "ビーハイブ炉",
+      "en": "Beehive ovens",
+      "count": 87,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B11/00": {
+      "code": "C10B11/00",
+      "level": 0,
+      "parent": "C10B",
+      "ja": "傾斜室をもつコークス炉",
+      "en": "Coke ovens with inclined chambers",
+      "count": 109,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B13/00": {
+      "code": "C10B13/00",
+      "level": 0,
+      "parent": "C10B",
+      "ja": "機械的な圧力下に原料を運搬および保持する手段をもつコークス炉",
+      "en": "Coke ovens with means for bringing and keeping the charge under mechanical pressure",
+      "count": 119,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B15/00": {
+      "code": "C10B15/00",
+      "level": 0,
+      "parent": "C10B",
+      "ja": "その他のコークス炉",
+      "en": "Other coke ovens",
+      "count": 448,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B15/02": {
+      "code": "C10B15/02",
+      "level": 1,
+      "parent": "C10B15/00",
+      "ja": "炉底加熱のもの",
+      "en": "with floor heating",
+      "count": 183,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B17/00": {
+      "code": "C10B17/00",
+      "level": 0,
+      "parent": "C10B",
+      "ja": "コークス炉の予熱",
+      "en": "Preheating of coke ovens",
+      "count": 86,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B19/00": {
+      "code": "C10B19/00",
+      "level": 0,
+      "parent": "C10B",
+      "ja": "電気的手段によるコークス炉の加熱",
+      "en": "Heating of coke ovens by electrical means",
+      "count": 578,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B21/00": {
+      "code": "C10B21/00",
+      "level": 0,
+      "parent": "C10B",
+      "ja": "可燃性ガスによるコークス炉の加熱",
+      "en": "Heating of coke ovens with combustible gases",
+      "count": 441,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B21/02": {
+      "code": "C10B21/02",
+      "level": 1,
+      "parent": "C10B21/00",
+      "ja": "貧ガスによるもの",
+      "en": "with lean gas",
+      "count": 62,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B21/04": {
+      "code": "C10B21/04",
+      "level": 1,
+      "parent": "C10B21/00",
+      "ja": "富ガスによるもの",
+      "en": "with rich gas",
+      "count": 56,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B21/06": {
+      "code": "C10B21/06",
+      "level": 1,
+      "parent": "C10B21/00",
+      "ja": "貧ガスまたは富ガスの使用に適したコークス炉の加熱",
+      "en": "in coke ovens suitable for the use of lean gas or rich gas",
+      "count": 58,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B21/08": {
+      "code": "C10B21/08",
+      "level": 1,
+      "parent": "C10B21/00",
+      "ja": "特殊な加熱用ガスを使用するもの",
+      "en": "by applying special heating gases",
+      "count": 117,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B21/10": {
+      "code": "C10B21/10",
+      "level": 1,
+      "parent": "C10B21/00",
+      "ja": "燃焼を調節および制御するもの",
+      "en": "Regulating or controlling the combustion",
+      "count": 1482,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B21/12": {
+      "code": "C10B21/12",
+      "level": 2,
+      "parent": "C10B21/10",
+      "ja": "バーナ",
+      "en": "Burners",
+      "count": 255,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B21/14": {
+      "code": "C10B21/14",
+      "level": 2,
+      "parent": "C10B21/10",
+      "ja": "ドラフトを逆転させる装置",
+      "en": "Devices for reversing the draught",
+      "count": 200,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B21/16": {
+      "code": "C10B21/16",
+      "level": 2,
+      "parent": "C10B21/10",
+      "ja": "加熱用煙道と蓄熱室との間の開度を制御または変化させるもの",
+      "en": "by controlling or varying the openings between the heating flues and the regenerator flues",
+      "count": 194,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B21/18": {
+      "code": "C10B21/18",
+      "level": 2,
+      "parent": "C10B21/10",
+      "ja": "煙道ガスを再循環させるもの",
+      "en": "Recirculating the flue gases",
+      "count": 296,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B21/20": {
+      "code": "C10B21/20",
+      "level": 1,
+      "parent": "C10B21/00",
+      "ja": "室式炉の加熱方法",
+      "en": "Methods of heating ovens of the chamber oven type",
+      "count": 504,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B21/22": {
+      "code": "C10B21/22",
+      "level": 2,
+      "parent": "C10B21/20",
+      "ja": "加熱用ガスおよび空気を種々の高さで導入する方法",
+      "en": "by introducing the heating gas and air at various levels",
+      "count": 228,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B21/24": {
+      "code": "C10B21/24",
+      "level": 3,
+      "parent": "C10B21/22",
+      "ja": "垂直の加熱用煙突の頂部および底部に導入するもの",
+      "en": "at the top and the bottom of the vertical heating flues",
+      "count": 16,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B21/26": {
+      "code": "C10B21/26",
+      "level": 2,
+      "parent": "C10B21/20",
+      "ja": "垂直の加熱煙道の頂部にのみ加熱用ガスおよび空気を導入する方法",
+      "en": "by introducing the heating gas and air at the top of the vertical flues only",
+      "count": 8,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B23/00": {
+      "code": "C10B23/00",
+      "level": 0,
+      "parent": "C10B",
+      "ja": "コークス炉のその他の加熱方法",
+      "en": "Other methods of heating coke ovens",
+      "count": 219,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B25/00": {
+      "code": "C10B25/00",
+      "level": 0,
+      "parent": "C10B",
+      "ja": "コークス炉のドアまたは密閉装置",
+      "en": "Doors or closures for coke ovens",
+      "count": 237,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B25/02": {
+      "code": "C10B25/02",
+      "level": 1,
+      "parent": "C10B25/00",
+      "ja": "ドア；ドアのフレーム",
+      "en": "Doors; Door frames",
+      "count": 762,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B25/04": {
+      "code": "C10B25/04",
+      "level": 2,
+      "parent": "C10B25/02",
+      "ja": "垂直室をもつ炉に使用するもの",
+      "en": "for ovens with vertical chambers",
+      "count": 123,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B25/06": {
+      "code": "C10B25/06",
+      "level": 2,
+      "parent": "C10B25/02",
+      "ja": "水平室をもつ炉に使用するもの",
+      "en": "for ovens with horizontal chambers",
+      "count": 661,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B25/08": {
+      "code": "C10B25/08",
+      "level": 2,
+      "parent": "C10B25/02",
+      "ja": "ドアの開閉",
+      "en": "Closing or opening the doors",
+      "count": 264,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B25/10": {
+      "code": "C10B25/10",
+      "level": 3,
+      "parent": "C10B25/08",
+      "ja": "垂直室をもつ炉のためのもの",
+      "en": "for ovens with vertical chambers",
+      "count": 115,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B25/12": {
+      "code": "C10B25/12",
+      "level": 3,
+      "parent": "C10B25/08",
+      "ja": "水平室をもつ炉のためのもの",
+      "en": "for ovens with horizontal chambers",
+      "count": 312,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B25/14": {
+      "code": "C10B25/14",
+      "level": 3,
+      "parent": "C10B25/08",
+      "ja": "蓋取り装置",
+      "en": "Devices for lifting doors",
+      "count": 460,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B25/16": {
+      "code": "C10B25/16",
+      "level": 2,
+      "parent": "C10B25/02",
+      "ja": "密閉；密閉の方法",
+      "en": "Sealing; Means for sealing",
+      "count": 1169,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B25/18": {
+      "code": "C10B25/18",
+      "level": 2,
+      "parent": "C10B25/02",
+      "ja": "冷却",
+      "en": "Cooling",
+      "count": 32,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B25/20": {
+      "code": "C10B25/20",
+      "level": 1,
+      "parent": "C10B25/00",
+      "ja": "装入口の蓋または密閉装置",
+      "en": "Lids or closures for charging holes",
+      "count": 460,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B25/22": {
+      "code": "C10B25/22",
+      "level": 2,
+      "parent": "C10B25/20",
+      "ja": "垂直室をもつ炉のためのもの",
+      "en": "for ovens with vertical chambers",
+      "count": 55,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B25/24": {
+      "code": "C10B25/24",
+      "level": 2,
+      "parent": "C10B25/20",
+      "ja": "水平室をもつ炉のためのもの",
+      "en": "for ovens with horizontal chambers",
+      "count": 217,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B27/00": {
+      "code": "C10B27/00",
+      "level": 0,
+      "parent": "C10B",
+      "ja": "乾留ガスの回収装置",
+      "en": "Arrangements for withdrawal of the distillation gases",
+      "count": 2405,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B27/02": {
+      "code": "C10B27/02",
+      "level": 1,
+      "parent": "C10B27/00",
+      "ja": "炭化室の種々の高さに配置した回収口をもつもの",
+      "en": "with outlets arranged at different levels in the chamber",
+      "count": 179,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B27/04": {
+      "code": "C10B27/04",
+      "level": 1,
+      "parent": "C10B27/00",
+      "ja": "炉の装入作業中のもの",
+      "en": "during the charging operation of the oven",
+      "count": 357,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B27/06": {
+      "code": "C10B27/06",
+      "level": 1,
+      "parent": "C10B27/00",
+      "ja": "導管の細部，例．弁",
+      "en": "Conduit details, e.g. valves",
+      "count": 1381,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B29/00": {
+      "code": "C10B29/00",
+      "level": 0,
+      "parent": "C10B",
+      "ja": "コークス炉のその他の細部",
+      "en": "Other details of coke ovens",
+      "count": 1561,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B29/02": {
+      "code": "C10B29/02",
+      "level": 1,
+      "parent": "C10B29/00",
+      "ja": "れんが積み，例．ケーシング，ライニング，壁",
+      "en": "Brickwork, e.g. casings, linings, walls",
+      "count": 1303,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B29/04": {
+      "code": "C10B29/04",
+      "level": 1,
+      "parent": "C10B29/00",
+      "ja": "膨張または収縮を制御あるいは防止するもの",
+      "en": "Controlling or preventing expansion or contraction",
+      "count": 206,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B29/06": {
+      "code": "C10B29/06",
+      "level": 1,
+      "parent": "C10B29/00",
+      "ja": "れんが積みのガス漏えいを防止または修理するもの",
+      "en": "Preventing or repairing leakages of the brickwork",
+      "count": 1083,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B29/08": {
+      "code": "C10B29/08",
+      "level": 1,
+      "parent": "C10B29/00",
+      "ja": "炉の締付けまたは基礎",
+      "en": "Bracing or foundation of the ovens",
+      "count": 309,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B31/00": {
+      "code": "C10B31/00",
+      "level": 0,
+      "parent": "C10B",
+      "ja": "コークス炉の装入装置",
+      "en": "Charging devices for coke ovens",
+      "count": 2033,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B31/02": {
+      "code": "C10B31/02",
+      "level": 1,
+      "parent": "C10B31/00",
+      "ja": "垂直に装入するためのもの",
+      "en": "for charging vertically",
+      "count": 742,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B31/04": {
+      "code": "C10B31/04",
+      "level": 2,
+      "parent": "C10B31/02",
+      "ja": "水平室をもつコークス炉",
+      "en": "coke ovens with horizontal chambers",
+      "count": 690,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B31/06": {
+      "code": "C10B31/06",
+      "level": 1,
+      "parent": "C10B31/00",
+      "ja": "水平に供給するためのもの",
+      "en": "for charging horizontally",
+      "count": 250,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B31/08": {
+      "code": "C10B31/08",
+      "level": 2,
+      "parent": "C10B31/06",
+      "ja": "水平室を有するコークス炉",
+      "en": "coke ovens with horizontal chambers",
+      "count": 127,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B31/10": {
+      "code": "C10B31/10",
+      "level": 3,
+      "parent": "C10B31/08",
+      "ja": "１度のコンパクトな装入を行なうもの",
+      "en": "with one compact charge",
+      "count": 167,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B31/12": {
+      "code": "C10B31/12",
+      "level": 1,
+      "parent": "C10B31/00",
+      "ja": "液体物質のためのもの",
+      "en": "for liquid materials",
+      "count": 62,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B33/00": {
+      "code": "C10B33/00",
+      "level": 0,
+      "parent": "C10B",
+      "ja": "コークス炉の排出装置；コークス案内装置",
+      "en": "Discharging devices for coke ovens; Coke guides",
+      "count": 1420,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B33/02": {
+      "code": "C10B33/02",
+      "level": 1,
+      "parent": "C10B33/00",
+      "ja": "固定装置によるコークスの引出し，例．ギヤ，スクリュー",
+      "en": "Extracting coke with built-in devices, e.g. gears, screws",
+      "count": 431,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B33/04": {
+      "code": "C10B33/04",
+      "level": 1,
+      "parent": "C10B33/00",
+      "ja": "引出し装置",
+      "en": "Pulling-out devices",
+      "count": 97,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B33/06": {
+      "code": "C10B33/06",
+      "level": 2,
+      "parent": "C10B33/04",
+      "ja": "水平室のためのもの",
+      "en": "for horizontal chambers",
+      "count": 49,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B33/08": {
+      "code": "C10B33/08",
+      "level": 1,
+      "parent": "C10B33/00",
+      "ja": "押出し装置，例．ラム",
+      "en": "Pushers, e.g. rams",
+      "count": 780,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B33/10": {
+      "code": "C10B33/10",
+      "level": 2,
+      "parent": "C10B33/08",
+      "ja": "水平室のためのもの",
+      "en": "for horizontal chambers",
+      "count": 312,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B33/12": {
+      "code": "C10B33/12",
+      "level": 1,
+      "parent": "C10B33/00",
+      "ja": "排出弁",
+      "en": "Discharge valves",
+      "count": 108,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B33/14": {
+      "code": "C10B33/14",
+      "level": 1,
+      "parent": "C10B33/00",
+      "ja": "コークス案内装置",
+      "en": "Coke guides",
+      "count": 531,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B35/00": {
+      "code": "C10B35/00",
+      "level": 0,
+      "parent": "C10B",
+      "ja": "コークス炉の装入および排出の組み合わされた装置",
+      "en": "Combined charging and discharging devices for coke ovens",
+      "count": 256,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B37/00": {
+      "code": "C10B37/00",
+      "level": 0,
+      "parent": "C10B",
+      "ja": "炉内への石炭を装入する機械的処理",
+      "en": "Mechanical treatments of coal charges in the oven",
+      "count": 267,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B37/02": {
+      "code": "C10B37/02",
+      "level": 1,
+      "parent": "C10B37/00",
+      "ja": "ならし装入，例．棒によるもの",
+      "en": "Levelling charges, e.g. with bars",
+      "count": 422,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B37/04": {
+      "code": "C10B37/04",
+      "level": 1,
+      "parent": "C10B37/00",
+      "ja": "加圧装入（コークス化中のものＣ１０Ｂ４７／１２）",
+      "en": "Compressing charges(during coking <b>C10B47/12</b>)",
+      "count": 351,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B37/06": {
+      "code": "C10B37/06",
+      "level": 1,
+      "parent": "C10B37/00",
+      "ja": "装入物中に孔穴部の形成",
+      "en": "Forming holes in charges",
+      "count": 59,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B39/00": {
+      "code": "C10B39/00",
+      "level": 0,
+      "parent": "C10B",
+      "ja": "コークスの冷却または消火",
+      "en": "Cooling or quenching coke",
+      "count": 683,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B39/02": {
+      "code": "C10B39/02",
+      "level": 1,
+      "parent": "C10B39/00",
+      "ja": "炉外乾式冷却",
+      "en": "Dry cooling outside the oven",
+      "count": 4893,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B39/04": {
+      "code": "C10B39/04",
+      "level": 1,
+      "parent": "C10B39/00",
+      "ja": "湿式消火",
+      "en": "Wet quenching",
+      "count": 1104,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B39/06": {
+      "code": "C10B39/06",
+      "level": 2,
+      "parent": "C10B39/04",
+      "ja": "炉内におけるもの",
+      "en": "in the oven",
+      "count": 122,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B39/08": {
+      "code": "C10B39/08",
+      "level": 2,
+      "parent": "C10B39/04",
+      "ja": "コークス消火塔",
+      "en": "Coke-quenching towers",
+      "count": 340,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B39/10": {
+      "code": "C10B39/10",
+      "level": 1,
+      "parent": "C10B39/00",
+      "ja": "かくはん手段との組み合わせ，例．回転テーブルまたはドラム",
+      "en": "combined with agitating means, e.g. rotating tables or drums",
+      "count": 111,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B39/12": {
+      "code": "C10B39/12",
+      "level": 1,
+      "parent": "C10B39/00",
+      "ja": "運搬手段との組み合わせ",
+      "en": "combined with conveying means",
+      "count": 399,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B39/14": {
+      "code": "C10B39/14",
+      "level": 1,
+      "parent": "C10B39/00",
+      "ja": "車",
+      "en": "Cars",
+      "count": 1079,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B39/16": {
+      "code": "C10B39/16",
+      "level": 1,
+      "parent": "C10B39/00",
+      "ja": "選別との組み合わせ",
+      "en": "combined with sorting",
+      "count": 35,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B39/18": {
+      "code": "C10B39/18",
+      "level": 1,
+      "parent": "C10B39/00",
+      "ja": "コークスの傾斜（コークワーク）",
+      "en": "Coke ramps",
+      "count": 133,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B41/00": {
+      "code": "C10B41/00",
+      "level": 0,
+      "parent": "C10B",
+      "ja": "安全装置，例．コークスの排出に使用する信号装置または制御装置",
+      "en": "Safety devices, e.g. signalling or controlling devices for use in the discharge of coke",
+      "count": 2746,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B41/02": {
+      "code": "C10B41/02",
+      "level": 1,
+      "parent": "C10B41/00",
+      "ja": "コークス排出のためのもの",
+      "en": "for discharging coke",
+      "count": 415,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B41/04": {
+      "code": "C10B41/04",
+      "level": 2,
+      "parent": "C10B41/02",
+      "ja": "電気的手段によるもの",
+      "en": "by electrical means",
+      "count": 303,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B41/06": {
+      "code": "C10B41/06",
+      "level": 2,
+      "parent": "C10B41/02",
+      "ja": "空気圧式または水圧式手段によるもの",
+      "en": "by pneumatic or hydraulic means",
+      "count": 37,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B41/08": {
+      "code": "C10B41/08",
+      "level": 1,
+      "parent": "C10B41/00",
+      "ja": "乾留ガスの回収のためのもの",
+      "en": "for the withdrawal of the distillation gases",
+      "count": 597,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B43/00": {
+      "code": "C10B43/00",
+      "level": 0,
+      "parent": "C10B",
+      "ja": "固着物の防止または除去",
+      "en": "Preventing or removing incrustations",
+      "count": 1432,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B43/02": {
+      "code": "C10B43/02",
+      "level": 1,
+      "parent": "C10B43/00",
+      "ja": "固着物の除去",
+      "en": "Removing incrustations",
+      "count": 672,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B43/04": {
+      "code": "C10B43/04",
+      "level": 2,
+      "parent": "C10B43/02",
+      "ja": "機械的手段によるもの",
+      "en": "by mechanical means",
+      "count": 1400,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B43/06": {
+      "code": "C10B43/06",
+      "level": 3,
+      "parent": "C10B43/04",
+      "ja": "導管，弁および類似物から",
+      "en": "from conduits, valves or the like",
+      "count": 335,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B43/08": {
+      "code": "C10B43/08",
+      "level": 2,
+      "parent": "C10B43/02",
+      "ja": "液体によるもの",
+      "en": "with liquids",
+      "count": 468,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B43/10": {
+      "code": "C10B43/10",
+      "level": 2,
+      "parent": "C10B43/02",
+      "ja": "焼却によるもの",
+      "en": "by burning out",
+      "count": 240,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B43/12": {
+      "code": "C10B43/12",
+      "level": 3,
+      "parent": "C10B43/10",
+      "ja": "バーナ",
+      "en": "Burners",
+      "count": 28,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B43/14": {
+      "code": "C10B43/14",
+      "level": 1,
+      "parent": "C10B43/00",
+      "ja": "固着物の防止",
+      "en": "Preventing incrustations",
+      "count": 545,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B45/00": {
+      "code": "C10B45/00",
+      "level": 0,
+      "parent": "C10B",
+      "ja": "その他の細部",
+      "en": "Other details",
+      "count": 2765,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B45/02": {
+      "code": "C10B45/02",
+      "level": 1,
+      "parent": "C10B45/00",
+      "ja": "炉外で圧縮一様化した装入石炭を製造するための装置",
+      "en": "Devices for producing compact unified coal charges outside the oven",
+      "count": 772,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B47/00": {
+      "code": "C10B47/00",
+      "level": 0,
+      "parent": "C10B",
+      "ja": "間接加熱による固体炭素質物の乾留，例．外部燃焼によるもの",
+      "en": "Destructive distillation of solid carbonaceous materials with indirect heating, e.g. by external combustion",
+      "count": 858,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B47/02": {
+      "code": "C10B47/02",
+      "level": 1,
+      "parent": "C10B47/00",
+      "ja": "固定式装入によるもの",
+      "en": "with stationary charge",
+      "count": 394,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B47/04": {
+      "code": "C10B47/04",
+      "level": 2,
+      "parent": "C10B47/02",
+      "ja": "シャフトにおけるもの",
+      "en": "in shaft furnaces",
+      "count": 118,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B47/06": {
+      "code": "C10B47/06",
+      "level": 2,
+      "parent": "C10B47/02",
+      "ja": "レトルトにおけるもの",
+      "en": "in retorts",
+      "count": 268,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B47/08": {
+      "code": "C10B47/08",
+      "level": 2,
+      "parent": "C10B47/02",
+      "ja": "ビーハイブ炉におけるもの",
+      "en": "in beehive ovens",
+      "count": 10,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B47/10": {
+      "code": "C10B47/10",
+      "level": 2,
+      "parent": "C10B47/02",
+      "ja": "室式コークス炉におけるもの",
+      "en": "in coke ovens of the chamber type",
+      "count": 162,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B47/12": {
+      "code": "C10B47/12",
+      "level": 2,
+      "parent": "C10B47/02",
+      "ja": "その場合コークス化中装入物が機械的圧力を受けるもの",
+      "en": "in which the charge is subjected to mechanical pressure during coking",
+      "count": 57,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B47/14": {
+      "code": "C10B47/14",
+      "level": 2,
+      "parent": "C10B47/02",
+      "ja": "高温液体の助けによるもの，例．溶融塩",
+      "en": "with the aid of hot liquids, e.g. molten salts",
+      "count": 40,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B47/16": {
+      "code": "C10B47/16",
+      "level": 2,
+      "parent": "C10B47/02",
+      "ja": "レトルトの内側および外側からの間接加熱手段をもつもの",
+      "en": "with indirect heating means both inside and outside the retorts",
+      "count": 51,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B47/18": {
+      "code": "C10B47/18",
+      "level": 1,
+      "parent": "C10B47/00",
+      "ja": "移動装入によるもの",
+      "en": "with moving charge",
+      "count": 668,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B47/20": {
+      "code": "C10B47/20",
+      "level": 2,
+      "parent": "C10B47/18",
+      "ja": "移動床形式にしたがうもの（Ｃ１０Ｂ４７／２６が優先）",
+      "en": "according to the \"moving bed\" technique(<b>C10B47/26</b> takes precedence)",
+      "count": 233,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B47/22": {
+      "code": "C10B47/22",
+      "level": 2,
+      "parent": "C10B47/18",
+      "ja": "分散した形におけるもの（Ｃ１０Ｂ４７／２６が優先）",
+      "en": "in dispersed form(<b>C10B47/26</b> takes precedence)",
+      "count": 133,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B47/24": {
+      "code": "C10B47/24",
+      "level": 3,
+      "parent": "C10B47/22",
+      "ja": "“流動床”方式によるもの",
+      "en": "according to the \"fluidised bed\" technique",
+      "count": 178,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B47/26": {
+      "code": "C10B47/26",
+      "level": 2,
+      "parent": "C10B47/18",
+      "ja": "高温の液体の助けによるもの，例．溶融塩",
+      "en": "with the aid of hot liquids, e.g. molten salts",
+      "count": 55,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B47/28": {
+      "code": "C10B47/28",
+      "level": 1,
+      "parent": "C10B47/00",
+      "ja": "その他の方法",
+      "en": "Other processes",
+      "count": 101,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B47/30": {
+      "code": "C10B47/30",
+      "level": 2,
+      "parent": "C10B47/28",
+      "ja": "回転炉またはレトルトにおけるもの",
+      "en": "in rotary ovens or retorts",
+      "count": 991,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B47/32": {
+      "code": "C10B47/32",
+      "level": 2,
+      "parent": "C10B47/28",
+      "ja": "機械的運搬手段をもつ炉におけるもの",
+      "en": "in ovens with mechanical conveying means",
+      "count": 180,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B47/34": {
+      "code": "C10B47/34",
+      "level": 3,
+      "parent": "C10B47/32",
+      "ja": "回転式かき取り装置をもつもの",
+      "en": "with rotary scraping devices",
+      "count": 119,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B47/36": {
+      "code": "C10B47/36",
+      "level": 4,
+      "parent": "C10B47/34",
+      "ja": "多段式炉におけるもの",
+      "en": "in multi-stage ovens",
+      "count": 35,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B47/38": {
+      "code": "C10B47/38",
+      "level": 3,
+      "parent": "C10B47/32",
+      "ja": "動揺または震動装置をもつもの",
+      "en": "with shaking or vibrating devices",
+      "count": 31,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B47/40": {
+      "code": "C10B47/40",
+      "level": 3,
+      "parent": "C10B47/32",
+      "ja": "エンドレスコンベヤをもつもの",
+      "en": "with endless conveying devices",
+      "count": 105,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B47/42": {
+      "code": "C10B47/42",
+      "level": 4,
+      "parent": "C10B47/40",
+      "ja": "垂直方向におけるもの",
+      "en": "in vertical direction",
+      "count": 12,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B47/44": {
+      "code": "C10B47/44",
+      "level": 3,
+      "parent": "C10B47/32",
+      "ja": "コンベヤスクリューをもつもの",
+      "en": "with conveyor-screws",
+      "count": 949,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B47/46": {
+      "code": "C10B47/46",
+      "level": 3,
+      "parent": "C10B47/32",
+      "ja": "トロッコ，コンテナ，台車をもつもの",
+      "en": "with trucks, containers, or trays",
+      "count": 113,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B47/48": {
+      "code": "C10B47/48",
+      "level": 3,
+      "parent": "C10B47/32",
+      "ja": "傾注または揺動手段をもつもの",
+      "en": "with tilting or rocking means",
+      "count": 20,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B49/00": {
+      "code": "C10B49/00",
+      "level": 0,
+      "parent": "C10B",
+      "ja": "処理される固体物質の部分燃焼を含む熱運搬体で直接加熱する固体炭素質物の乾留",
+      "en": "Destructive distillation of solid carbonaceous materials by direct heating with heat-carrying agents including the partial combustion of the solid material to be treated",
+      "count": 797,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B49/02": {
+      "code": "C10B49/02",
+      "level": 1,
+      "parent": "C10B49/00",
+      "ja": "熱ガスまたは蒸気によるもの，例．装入物の部分燃焼により得られる熱ガス",
+      "en": "with hot gases or vapours, e.g. hot gases obtained by partial combustion of the charge",
+      "count": 1418,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B49/04": {
+      "code": "C10B49/04",
+      "level": 2,
+      "parent": "C10B49/02",
+      "ja": "処理される固体物質の移動中におけるもの",
+      "en": "while moving the solid material to be treated",
+      "count": 667,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B49/06": {
+      "code": "C10B49/06",
+      "level": 3,
+      "parent": "C10B49/04",
+      "ja": "移動床形式によるもの",
+      "en": "according to the \"moving bed\" technique",
+      "count": 337,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B49/08": {
+      "code": "C10B49/08",
+      "level": 3,
+      "parent": "C10B49/04",
+      "ja": "分散した形におけるもの",
+      "en": "in dispersed form",
+      "count": 323,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B49/10": {
+      "code": "C10B49/10",
+      "level": 4,
+      "parent": "C10B49/08",
+      "ja": "“流動床”方式によるもの",
+      "en": "according to the \"fluidised bed\" technique",
+      "count": 586,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B49/12": {
+      "code": "C10B49/12",
+      "level": 4,
+      "parent": "C10B49/08",
+      "ja": "接線方向の混合によるもの，例．渦巻室",
+      "en": "by mixing tangentially, e.g. in vortex chambers",
+      "count": 67,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B49/14": {
+      "code": "C10B49/14",
+      "level": 1,
+      "parent": "C10B49/00",
+      "ja": "高温液体によるもの，例．溶融塩",
+      "en": "with hot liquids, e.g. molten metals",
+      "count": 261,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B49/16": {
+      "code": "C10B49/16",
+      "level": 1,
+      "parent": "C10B49/00",
+      "ja": "分割した形における固体熱運搬体の移動によるもの",
+      "en": "with moving solid heat-carriers in divided form",
+      "count": 518,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B49/18": {
+      "code": "C10B49/18",
+      "level": 2,
+      "parent": "C10B49/16",
+      "ja": "“移動床”形式によるもの",
+      "en": "according to the \"moving bed\" technique",
+      "count": 113,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B49/20": {
+      "code": "C10B49/20",
+      "level": 2,
+      "parent": "C10B49/16",
+      "ja": "分散した形におけるもの",
+      "en": "in dispersed form",
+      "count": 150,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B49/22": {
+      "code": "C10B49/22",
+      "level": 3,
+      "parent": "C10B49/20",
+      "ja": "“流動床”方式によるもの",
+      "en": "according to the \"fluidised bed\" technique",
+      "count": 494,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B51/00": {
+      "code": "C10B51/00",
+      "level": 0,
+      "parent": "C10B",
+      "ja": "直接加熱と間接加熱の組み合わせによる固体炭素質物の乾留",
+      "en": "Destructive distillation of solid carbonaceous materials by combined direct and indirect heating",
+      "count": 555,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B53/00": {
+      "code": "C10B53/00",
+      "level": 0,
+      "parent": "C10B",
+      "ja": "特殊な固体原料または特殊な形態の固体原料に特に適用される乾留（でい炭の湿式炭化Ｃ１０Ｆ）",
+      "en": "Destructive distillation, specially adapted for particular solid raw materials or solid raw materials in special form(wet carbonising of peat <b>C10F</b>)",
+      "count": 10551,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B53/02": {
+      "code": "C10B53/02",
+      "level": 1,
+      "parent": "C10B53/00",
+      "ja": "繊維素含有物質（木酢液質酸の製造Ｃ１０Ｃ５／００）",
+      "en": "of cellulose-containing material(production of pyroligneous acid <b>C10C5/00</b>)",
+      "count": 12261,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B53/04": {
+      "code": "C10B53/04",
+      "level": 1,
+      "parent": "C10B53/00",
+      "ja": "微粉炭",
+      "en": "of powdered coal",
+      "count": 2637,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B53/06": {
+      "code": "C10B53/06",
+      "level": 1,
+      "parent": "C10B53/00",
+      "ja": "油頁（けつ）岩または瀝青岩",
+      "en": "of oil shale or bituminous rocks",
+      "count": 1167,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B53/07": {
+      "code": "C10B53/07",
+      "level": 1,
+      "parent": "C10B53/00",
+      "ja": "合成の重合材料，例．タイヤ（一部解重合された材料を得るための乾熱処理による有機高分子化合物またはそれに基づく組成物の廃物の回収または処理Ｃ０８Ｊ１１／１０；ゴムまたはゴム廃物からの液体炭化水素混合物の製造Ｃ１０Ｇ１／１０）［８］",
+      "en": "of synthetic polymeric materials, e.g. tyres(recovery or working-up of waste materials of organic macromolecular compounds or compositions based thereon by dry-heat treatment for obtaining partially depolymerised materials <b>C08J11/10</b>; production of liquid hydrocarbon mixtures from rubber or rubber waste <b>C10G1/10</b>)",
+      "count": 4429,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B53/08": {
+      "code": "C10B53/08",
+      "level": 1,
+      "parent": "C10B53/00",
+      "ja": "ブリケット，塊および類似物におけるもの",
+      "en": "in the form of briquettes, lumps or the like",
+      "count": 1993,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B55/00": {
+      "code": "C10B55/00",
+      "level": 0,
+      "parent": "C10B",
+      "ja": "鉱油，ビチューメン，タールおよび類似物またはこれらの混合物と固体炭素質物を用いるコークス化（油の分解Ｃ１０Ｇ）",
+      "en": "Coking mineral oils, bitumen, tar or the like, or mixtures thereof, with solid carbonaceous materials(cracking oils <b>C10G</b>)",
+      "count": 2051,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B55/02": {
+      "code": "C10B55/02",
+      "level": 1,
+      "parent": "C10B55/00",
+      "ja": "固体物質を用いるもの",
+      "en": "with solid materials",
+      "count": 356,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B55/04": {
+      "code": "C10B55/04",
+      "level": 2,
+      "parent": "C10B55/02",
+      "ja": "移動する固体物質を用いるもの",
+      "en": "with moving solid materials",
+      "count": 81,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B55/06": {
+      "code": "C10B55/06",
+      "level": 3,
+      "parent": "C10B55/04",
+      "ja": "“移動床”形式によるもの",
+      "en": "according to the \"moving bed\" technique",
+      "count": 58,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B55/08": {
+      "code": "C10B55/08",
+      "level": 3,
+      "parent": "C10B55/04",
+      "ja": "分散した形におけるもの",
+      "en": "in dispersed form",
+      "count": 65,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B55/10": {
+      "code": "C10B55/10",
+      "level": 4,
+      "parent": "C10B55/08",
+      "ja": "“流動床”方式によるもの",
+      "en": "according to the \"fluidised bed\" technique",
+      "count": 398,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B57/00": {
+      "code": "C10B57/00",
+      "level": 0,
+      "parent": "C10B",
+      "ja": "上記に含まれないその他の炭化またはコークス化方法；一般的な乾留方法の特徴",
+      "en": "Other carbonising or coking processes; Features of destructive distillation processes in general",
+      "count": 5849,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B57/02": {
+      "code": "C10B57/02",
+      "level": 1,
+      "parent": "C10B57/00",
+      "ja": "多段式炭化またはコークス化方法",
+      "en": "Multi-step carbonising or coking processes",
+      "count": 1062,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B57/04": {
+      "code": "C10B57/04",
+      "level": 1,
+      "parent": "C10B57/00",
+      "ja": "特別な組成をもつ装入物の使用",
+      "en": "using charges of special composition",
+      "count": 3393,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B57/06": {
+      "code": "C10B57/06",
+      "level": 2,
+      "parent": "C10B57/04",
+      "ja": "添加剤を含有するもの",
+      "en": "containing additives",
+      "count": 1746,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B57/08": {
+      "code": "C10B57/08",
+      "level": 1,
+      "parent": "C10B57/00",
+      "ja": "装入物の非機械的な前処理",
+      "en": "Non-mechanical pretreatment of the charge",
+      "count": 1497,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B57/10": {
+      "code": "C10B57/10",
+      "level": 2,
+      "parent": "C10B57/08",
+      "ja": "乾燥",
+      "en": "Drying",
+      "count": 3460,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B57/12": {
+      "code": "C10B57/12",
+      "level": 1,
+      "parent": "C10B57/00",
+      "ja": "コークス化中の添加剤の使用",
+      "en": "Applying additives during coking",
+      "count": 359,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B57/14": {
+      "code": "C10B57/14",
+      "level": 1,
+      "parent": "C10B57/00",
+      "ja": "低温炭化方法の特徴",
+      "en": "Features of low-temperature carbonising processes",
+      "count": 449,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B57/16": {
+      "code": "C10B57/16",
+      "level": 1,
+      "parent": "C10B57/00",
+      "ja": "低温炭化方法の特徴",
+      "en": "Features of high-temperature carbonising processes",
+      "count": 273,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    },
+    "C10B57/18": {
+      "code": "C10B57/18",
+      "level": 1,
+      "parent": "C10B57/00",
+      "ja": "コークス炉内での乾留ガスの性質の改質",
+      "en": "Modifying the properties of the distillation gases in the oven",
+      "count": 747,
+      "sourceFile": "ipc_C10B.txt",
+      "kind": "ipc"
+    }
+  }
+};

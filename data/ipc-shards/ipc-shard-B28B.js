@@ -1,0 +1,1566 @@
+window.IPC_SHARD_B28B = {
+  "generatedAt": "2026-03-20T02:17:46.153Z",
+  "total": 156,
+  "entries": {
+    "B28B": {
+      "code": "B28B",
+      "level": 0,
+      "parent": "B28",
+      "ja": "粘土または他のセラミック組成物；スラグの組成物；セメント含有混合物の組成物，例．プラスターの組成物（鋳造用鋳型造型Ｂ２２Ｃ；石材または石材類似材料の加工Ｂ２８Ｄ；可塑状態物質の成形一般Ｂ２９Ｃ；これらの材料だけで構成されていない積層体の製造Ｂ３２Ｂ）<br><br><b><ul>注</ul></b><br>このサブクラスにおいては，下記の用語は以下に示す意味で用いる：<br>―“材料”は，以下のものを意味する：<br>（ａ）粘土または他のセラミック組成物；<br>（ｂ）スラグ；<br>（ｃ）粘土，セメント類似材料，またはスラグによって水硬性を与えられた混合物<br><br><b><ul>サブクラス内の索引</ul></b><br>製品の製造<br>製造方法に特徴のある成形，そのための機械　１／００，３／００，５／００<br>表面のコーティング　１９／００<br>製品の処理　１１／００<br>型；補助装置　７／００；１３／００，１７／００<br>プラントの一般的レイアウト　１５／００<br>管または補強された製品の製造　２１／００，２３／００",
+      "en": "SHAPING CLAY OR OTHER CERAMIC COMPOSITIONS; SHAPING SLAG; SHAPING MIXTURES CONTAINING CEMENTITIOUS MATERIAL, e.g. PLASTER(foundry moulding <b>B22C</b>; working stone or stone-like material <b>B28D</b>; shaping of substances in a plastic state, in general <b>B29C</b>; making layered products not composed wholly of these substances <b>B32B</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>In this subclass, the following term is used with the meaning indicated:<ul><li>\"the material\" means:<ul><li>clay or other ceramic compositions;</li><li>slag;</li><li>mixtures with water-setting properties given by clay, cementitious material, or slag.</li></ul></li></ul></li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">PRODUCING ARTICLES<tr><td width=\"70%\">Shaping articles characterised by method of production, machines therefor </td><td><b><b>1/00</b>, <b>3/00</b>, <b>5/00</b></b></td></tr></tr><tr><td width=\"70%\">Coating of surfaces </td><td><b><b>19/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">APPARATUS OR PROCESSES FOR TREATING OR WORKING ARTICLES </td><td><b><b>11/00</b></b></td></tr></tr><tr><td width=\"70%\">MOULDS; AUXILIARY EQUIPMENT </td><td><b><b>7/00</b>; <b>13/00</b>, <b>17/00</b></b></td></tr></tr><tr><td width=\"70%\">GENERAL LAYOUT OF PLANT </td><td><b><b>15/00</b></b></td></tr></tr><tr><td width=\"70%\">PRODUCTION OF TUBULAR OR REINFORCED ARTICLES </td><td><b><b>21/00</b>, <b>23/00</b></b></td></tr></tr></table>",
+      "count": 3323,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B28": {
+      "code": "B28",
+      "level": 0,
+      "parent": "B",
+      "ja": "セメント，粘土，または石材の加工",
+      "en": "WORKING CEMENT, CLAY, OR STONE",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B": {
+      "code": "B",
+      "level": 0,
+      "parent": null,
+      "ja": "処理操作；運輸",
+      "en": "PERFORMING OPERATIONS; TRANSPORTING",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B28B1/00": {
+      "code": "B28B1/00",
+      "level": 0,
+      "parent": "B28B",
+      "ja": "材料からの成形品の製造（プレスの使用Ｂ２８Ｂ３／００；移動コンベヤー上での成形Ｂ２８Ｂ５／００；管状製品の製造Ｂ２８Ｂ２１／００）",
+      "en": "Producing shaped articles from the material(using presses <b>B28B3/00</b>; shaping on moving conveyors <b>B28B5/00</b>; producing tubular articles <b>B28B21/00</b>)",
+      "count": 12113,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B1/02": {
+      "code": "B28B1/02",
+      "level": 1,
+      "parent": "B28B1/00",
+      "ja": "回転またはろくろ台の使用によるもの",
+      "en": "by turning or jiggering",
+      "count": 2216,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B1/04": {
+      "code": "B28B1/04",
+      "level": 1,
+      "parent": "B28B1/00",
+      "ja": "つき固めによるもの（プレスを伴うものＢ２８Ｂ３／０２）",
+      "en": "by tamping or ramming(followed by pressing <b>B28B3/02</b>)",
+      "count": 2895,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B1/08": {
+      "code": "B28B1/08",
+      "level": 1,
+      "parent": "B28B1/00",
+      "ja": "振動または揺動によるもの",
+      "en": "by vibrating or jolting",
+      "count": 5490,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B1/087": {
+      "code": "B28B1/087",
+      "level": 2,
+      "parent": "B28B1/08",
+      "ja": "型に作用する手段によるもの［６］",
+      "en": "by means acting on the mould",
+      "count": 8196,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B1/093": {
+      "code": "B28B1/093",
+      "level": 2,
+      "parent": "B28B1/08",
+      "ja": "材料に直接作用する手段によるもの，例．材料中に全体的または部分的に埋めたコアによるもの（現場でコンクリートを締固めさせるための内部振動機Ｅ０４Ｇ２１／０８）［６］",
+      "en": "by means directly acting on the material, e.g. by cores wholly or partly immersed in the material(internal vibrators for compacting concrete <u>in situ</u><b>E04G21/08</b>)",
+      "count": 2413,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B1/10": {
+      "code": "B28B1/10",
+      "level": 2,
+      "parent": "B28B1/08",
+      "ja": "かつプレスの使用以外の方法で圧力を適用するもの",
+      "en": "and applying pressure otherwise than by the use of presses",
+      "count": 571,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B1/14": {
+      "code": "B28B1/14",
+      "level": 1,
+      "parent": "B28B1/00",
+      "ja": "材料が強制的に供給されたり積極的に締め固められたりしない単純なキャスティングによるもの（融解材料のためのものＢ２８Ｂ１／５４）",
+      "en": "by simple casting, the material being neither forcibly fed nor positively compacted(for molten material <b>B28B1/54</b>)",
+      "count": 5866,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B1/16": {
+      "code": "B28B1/16",
+      "level": 2,
+      "parent": "B28B1/14",
+      "ja": "積層体の製造のためのもの（コーティングＢ２８Ｂ１１／０４）",
+      "en": "for producing layered articles(coating <b>B28B11/04</b>)",
+      "count": 3142,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B1/20": {
+      "code": "B28B1/20",
+      "level": 1,
+      "parent": "B28B1/00",
+      "ja": "遠心力または回転によるキャスティングによるもの（型の回転を伴う泥漿鋳込みＢ２８Ｂ１／２８；融解材料のためのものＢ２８Ｂ１／５４）",
+      "en": "by centrifugal or rotational casting(slip-casting involving rotation of the mould <b>B28B1/28</b>; for molten material <b>B28B1/54</b>)",
+      "count": 1097,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B1/24": {
+      "code": "B28B1/24",
+      "level": 1,
+      "parent": "B28B1/00",
+      "ja": "射出成形によるもの",
+      "en": "by injection moulding",
+      "count": 2311,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B1/26": {
+      "code": "B28B1/26",
+      "level": 1,
+      "parent": "B28B1/00",
+      "ja": "泥漿鋳込みによるもの，すなわち液体が型の壁に浸透または透過できる，液体の吸収性または多孔性の型中で材料の懸濁物または分散物をキャステイングすることによるもの；そのための型（Ｂ２８Ｂ１／５２が優先）",
+      "en": "by slip-casting, i.e. by casting a suspension or dispersion of the material in a liquid-absorbent or porous mould, the liquid being allowed to soak into or pass through the walls of the mould; Moulds therefor(<b>B28B1/52</b> takes precedence)",
+      "count": 4365,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B1/28": {
+      "code": "B28B1/28",
+      "level": 2,
+      "parent": "B28B1/26",
+      "ja": "型の回転を伴うもの",
+      "en": "involving rotation of the mould",
+      "count": 279,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B1/29": {
+      "code": "B28B1/29",
+      "level": 1,
+      "parent": "B28B1/00",
+      "ja": "開放型中または成形面における材料を型付けまたはかき板を用いてならすことによるもの",
+      "en": "by profiling or strickling the material in open moulds or on moulding surfaces",
+      "count": 3515,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B1/30": {
+      "code": "B28B1/30",
+      "level": 1,
+      "parent": "B28B1/00",
+      "ja": "その上に層を形成するために，中子上に，または他の成形面上に材料を適用することによるもの（耐久性の層を形成するものＢ２８Ｂ１９／００）",
+      "en": "by applying the material on to a core, or other moulding surface to form a layer thereon(to form a permanent layer <b>B28B19/00</b>)",
+      "count": 3777,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B1/32": {
+      "code": "B28B1/32",
+      "level": 2,
+      "parent": "B28B1/30",
+      "ja": "噴射，例．スプレーによるもの（スプレー一般Ｂ０５Ｂ，Ｂ０５Ｄ）",
+      "en": "by projecting, e.g. spraying(spraying in general <b>B05B</b>, <b>B05D</b>)",
+      "count": 644,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B1/34": {
+      "code": "B28B1/34",
+      "level": 3,
+      "parent": "B28B1/32",
+      "ja": "遠心力によるもの",
+      "en": "by centrifugal force",
+      "count": 55,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B1/38": {
+      "code": "B28B1/38",
+      "level": 2,
+      "parent": "B28B1/30",
+      "ja": "浸漬によるもの（一般Ｂ０５Ｃ，Ｂ０５Ｄ）",
+      "en": "by dipping(in general <b>B05C</b>, <b>B05D</b>)",
+      "count": 235,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B1/40": {
+      "code": "B28B1/40",
+      "level": 2,
+      "parent": "B28B1/30",
+      "ja": "つつみこみ，例．巻き付け，例．巻くことによるもの",
+      "en": "by wrapping, e.g. winding",
+      "count": 172,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B1/42": {
+      "code": "B28B1/42",
+      "level": 3,
+      "parent": "B28B1/40",
+      "ja": "繊維含有混合物を使用するもの，例．巻き付けることにより得られた積層物を縦切りにすることにより板状体を製造するためのもの",
+      "en": "using mixtures containing fibres, e.g. for making sheets by slitting the wound layer",
+      "count": 667,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B1/44": {
+      "code": "B28B1/44",
+      "level": 1,
+      "parent": "B28B1/00",
+      "ja": "中空製品を成形するために充填された型中に中子を押し通すことによるもの",
+      "en": "by forcing cores into filled moulds for forming hollow articles",
+      "count": 820,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B1/48": {
+      "code": "B28B1/48",
+      "level": 1,
+      "parent": "B28B1/00",
+      "ja": "中空製品を成形するために予め作られた成形物の中実部分から材料を除去することによるもの，例．パンチングまたはボーリングによるもの",
+      "en": "by removing material from solid section preforms for forming hollow articles, e.g. by punching or boring",
+      "count": 551,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B1/50": {
+      "code": "B28B1/50",
+      "level": 1,
+      "parent": "B28B1/00",
+      "ja": "膨脹した材料，例．発泡コンクリート，の製品を製造するのに特に適したもの（化学的なものＣ０４Ｂ）",
+      "en": "specially adapted for producing articles of expanded material, e.g. cellular concrete(chemical aspects <b>C04B</b>)",
+      "count": 3239,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B1/52": {
+      "code": "B28B1/52",
+      "level": 1,
+      "parent": "B28B1/00",
+      "ja": "繊維含有混合物から製品を製造するために特に適したもの（マンドレルに巻き付けることによるものＢ２８Ｂ１／４２）",
+      "en": "specially adapted for producing articles from mixtures containing fibres(by wrapping on to mandrels <b>B28B1/42</b>)",
+      "count": 6782,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B1/54": {
+      "code": "B28B1/54",
+      "level": 1,
+      "parent": "B28B1/00",
+      "ja": "融解物，例．スラグ，から製品を製造するに特に適したもの（化学的なものＣ０４Ｂ）",
+      "en": "specially adapted for producing articles from molten material, e.g. slag(chemical aspects <b>C04B</b>)",
+      "count": 1118,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B3/00": {
+      "code": "B28B3/00",
+      "level": 0,
+      "parent": "B28B",
+      "ja": "プレス機の使用による材料からの成形品の製造（移動コンベヤー上での成形Ｂ２８Ｂ５／００）；そのために特に適したプレス機（プレス機一般Ｂ３０Ｂ）",
+      "en": "Producing shaped articles from the material by using presses(shaping on moving conveyors <b>B28B5/00</b>);Presses specially adapted therefor(presses in general <b>B30B</b>)",
+      "count": 8813,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B3/02": {
+      "code": "B28B3/02",
+      "level": 1,
+      "parent": "B28B3/00",
+      "ja": "型中の材料にラムで圧力をかけるもの；特殊形状のラムヘッド",
+      "en": "wherein a ram exerts pressure on the material in a moulding space; Ram heads of special form",
+      "count": 11437,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B3/04": {
+      "code": "B28B3/04",
+      "level": 2,
+      "parent": "B28B3/02",
+      "ja": "型ごとに一つのラムをもつもの（Ｂ２８Ｂ３／１０が優先）",
+      "en": "with one ram per mould(<b>B28B3/10</b> takes precedence)",
+      "count": 4417,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B3/06": {
+      "code": "B28B3/06",
+      "level": 3,
+      "parent": "B28B3/04",
+      "ja": "二つまたはそれ以上のラムと型とのセットをもつもの",
+      "en": "with two or more ram and mould sets",
+      "count": 1420,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B3/08": {
+      "code": "B28B3/08",
+      "level": 2,
+      "parent": "B28B3/02",
+      "ja": "一つの型につき，二つまたはそれ以上のラムをもつもの",
+      "en": "with two or more rams per mould",
+      "count": 984,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B3/10": {
+      "code": "B28B3/10",
+      "level": 2,
+      "parent": "B28B3/02",
+      "ja": "材料の各装填分が予め作られた成形物に対して圧縮されるもの",
+      "en": "each charge of material being compressed against previously formed body",
+      "count": 423,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B3/12": {
+      "code": "B28B3/12",
+      "level": 1,
+      "parent": "B28B3/00",
+      "ja": "一つまたはそれ以上のローラーで材料に圧力をかけるもの",
+      "en": "wherein one or more rollers exert pressure on the material",
+      "count": 2626,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B3/14": {
+      "code": "B28B3/14",
+      "level": 2,
+      "parent": "B28B3/12",
+      "ja": "共働するくぼみ付ローラを持つもの",
+      "en": "with co-operating pocketed rollers",
+      "count": 277,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B3/16": {
+      "code": "B28B3/16",
+      "level": 2,
+      "parent": "B28B3/12",
+      "ja": "共働する型付けローラを持つもの",
+      "en": "with co-operating profiled rollers",
+      "count": 258,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B3/18": {
+      "code": "B28B3/18",
+      "level": 2,
+      "parent": "B28B3/12",
+      "ja": "ローラーとリングからなる機械，すなわちリング内に配置され，リングの内部表面と共働するローラーをもつもの",
+      "en": "Roller-and-ring machines, i.e. with roller disposed within a ring and co-operating with the inner surface of the ring",
+      "count": 54,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B3/20": {
+      "code": "B28B3/20",
+      "level": 1,
+      "parent": "B28B3/00",
+      "ja": "材料が押し出されるもの",
+      "en": "wherein the material is extruded",
+      "count": 5930,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B3/22": {
+      "code": "B28B3/22",
+      "level": 2,
+      "parent": "B28B3/20",
+      "ja": "スクリューまたはウォームによるもの",
+      "en": "by screw or worm",
+      "count": 2248,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B3/24": {
+      "code": "B28B3/24",
+      "level": 2,
+      "parent": "B28B3/20",
+      "ja": "往復運動プランジャーによるもの",
+      "en": "by reciprocating plunger",
+      "count": 497,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B3/26": {
+      "code": "B28B3/26",
+      "level": 2,
+      "parent": "B28B3/20",
+      "ja": "押し出しダイス",
+      "en": "Extrusion dies",
+      "count": 3640,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B5/00": {
+      "code": "B28B5/00",
+      "level": 0,
+      "parent": "B28B",
+      "ja": "成形方法に関連のないコンベヤーによって，コンベヤー中で，またはコンベヤー上で，運搬されまたは作られた型内，または成形面上における材料からの成形品の製造",
+      "en": "Producing shaped articles from the material in moulds or on moulding surfaces, carried or formed by, in or on conveyors irrespective of the manner of shaping",
+      "count": 1631,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B5/02": {
+      "code": "B28B5/02",
+      "level": 1,
+      "parent": "B28B5/00",
+      "ja": "エンドレス―ベルトまたはチェーンタイプのコンベヤ上での製造（プレスローラーとの組合せによるものＢ２８Ｂ３／１２）",
+      "en": "on conveyors of the endless-belt or chain type(in combination with pressing rollers <b>B28B3/12</b>)",
+      "count": 2831,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B5/04": {
+      "code": "B28B5/04",
+      "level": 1,
+      "parent": "B28B5/00",
+      "ja": "一つまたはそれ以上の成形ステーションを通って連続的に移動する型内での製造",
+      "en": "in moulds moved in succession past one or more shaping stations(on turntables <b>B28B5/06</b>)",
+      "count": 1094,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B5/06": {
+      "code": "B28B5/06",
+      "level": 1,
+      "parent": "B28B5/00",
+      "ja": "ターンテーブル上の型内での製造",
+      "en": "in moulds on a turntable",
+      "count": 445,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B5/08": {
+      "code": "B28B5/08",
+      "level": 2,
+      "parent": "B28B5/06",
+      "ja": "そのターンテーブルが間欠的に回転するもの",
+      "en": "intermittently rotated",
+      "count": 618,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B5/10": {
+      "code": "B28B5/10",
+      "level": 1,
+      "parent": "B28B5/00",
+      "ja": "回転ドラムの円周上に配置された型内での製造",
+      "en": "in moulds carried on the circumference of a rotating drum",
+      "count": 146,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B5/12": {
+      "code": "B28B5/12",
+      "level": 2,
+      "parent": "B28B5/10",
+      "ja": "その回転ドラムが間欠的に回転するもの",
+      "en": "intermittently rotated",
+      "count": 251,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B7/00": {
+      "code": "B28B7/00",
+      "level": 0,
+      "parent": "B28B",
+      "ja": "型；中子；マンドレル（管状製品の製造に特に適合したものＢ２８Ｂ２１／００）",
+      "en": "Moulds; Cores; Mandrels(specially adapted for the production of tubular articles <b>B28B21/00</b>)",
+      "count": 27483,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B7/02": {
+      "code": "B28B7/02",
+      "level": 1,
+      "parent": "B28B7/00",
+      "ja": "調節可能な部品をもつ型",
+      "en": "Moulds with adjustable parts",
+      "count": 6679,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B7/04": {
+      "code": "B28B7/04",
+      "level": 2,
+      "parent": "B28B7/02",
+      "ja": "一つまたはそれ以上の部品がピボット的に取りつけられているもの",
+      "en": "one or more of the parts being pivotally mounted",
+      "count": 1307,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B7/06": {
+      "code": "B28B7/06",
+      "level": 1,
+      "parent": "B28B7/00",
+      "ja": "可撓性の部品をもつ型",
+      "en": "Moulds with flexible parts",
+      "count": 930,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B7/08": {
+      "code": "B28B7/08",
+      "level": 1,
+      "parent": "B28B7/00",
+      "ja": "傾けたりまたはさかさにしたりするための手段を備えた型",
+      "en": "Moulds provided with means for tilting or inverting",
+      "count": 1293,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B7/10": {
+      "code": "B28B7/10",
+      "level": 1,
+      "parent": "B28B7/00",
+      "ja": "型と一体となった，または型に付属した，成形品を取り出すための手段をもつ型（型の一部を構成しない成形品を取り出すための装置Ｂ２８Ｂ１３／０６）",
+      "en": "Moulds with means incorporated therein, or carried thereby, for ejecting the moulded article(devices, not forming part of the mould, for ejecting the moulded article <b>B28B13/06</b>)",
+      "count": 3997,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B7/12": {
+      "code": "B28B7/12",
+      "level": 2,
+      "parent": "B28B7/10",
+      "ja": "流体圧力によるもの",
+      "en": "by fluid pressure",
+      "count": 743,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B7/14": {
+      "code": "B28B7/14",
+      "level": 1,
+      "parent": "B28B7/00",
+      "ja": "型と一体となった，または型に付属した，成形品をいくつかの部品に切断するための手段をもつ型（型と関連しない切断手段Ｂ２８Ｂ１１／０４）",
+      "en": "Moulds with means incorporated therein, or carried thereby, for cutting the moulded article into parts(cutting means independent of the mould <b>B28B11/14</b>)",
+      "count": 209,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B7/16": {
+      "code": "B28B7/16",
+      "level": 1,
+      "parent": "B28B7/00",
+      "ja": "表面に凹部または穴をもった成形品を製造するための型",
+      "en": "Moulds for making shaped articles with cavities or holes open to the surface",
+      "count": 4103,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B7/18": {
+      "code": "B28B7/18",
+      "level": 2,
+      "parent": "B28B7/16",
+      "ja": "その穴が製品に完全に貫通しているもの",
+      "en": "the holes passing completely through the article",
+      "count": 3945,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B7/20": {
+      "code": "B28B7/20",
+      "level": 1,
+      "parent": "B28B7/00",
+      "ja": "切り込み凹所，例．ありみぞ，をもつ成形品を製造するための型",
+      "en": "Moulds for making shaped articles with undercut recesses, e.g. dovetails",
+      "count": 526,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B7/22": {
+      "code": "B28B7/22",
+      "level": 1,
+      "parent": "B28B7/00",
+      "ja": "プレハブ建築のためのユニットを製造するための型；プレハブ階段ユニットを製造するための型",
+      "en": "Moulds for making units for prefabricated buildings; Moulds for making prefabricated stair units",
+      "count": 7281,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B7/24": {
+      "code": "B28B7/24",
+      "level": 1,
+      "parent": "B28B7/00",
+      "ja": "多数の成形空間をもつ単一の型構造",
+      "en": "Unitary mould structures with a plurality of moulding spaces",
+      "count": 4260,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B7/26": {
+      "code": "B28B7/26",
+      "level": 1,
+      "parent": "B28B7/00",
+      "ja": "別々の型の集合体",
+      "en": "Assemblies of separate moulds",
+      "count": 2808,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B7/28": {
+      "code": "B28B7/28",
+      "level": 1,
+      "parent": "B28B7/00",
+      "ja": "中子；マンドレル",
+      "en": "Cores; Mandrels",
+      "count": 2651,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B7/30": {
+      "code": "B28B7/30",
+      "level": 2,
+      "parent": "B28B7/28",
+      "ja": "調節可能な，折りたたみ可能な，または伸縮するもの",
+      "en": "adjustable, collapsible, or expanding",
+      "count": 2860,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B7/32": {
+      "code": "B28B7/32",
+      "level": 3,
+      "parent": "B28B7/30",
+      "ja": "膨張するもの（膨張可能な弾性体への弁の取付けＢ６０Ｃ２９／００）",
+      "en": "inflatable(connection of valves to inflatable elastic bodies <b>B60C29/00</b>)",
+      "count": 711,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B7/34": {
+      "code": "B28B7/34",
+      "level": 1,
+      "parent": "B28B7/00",
+      "ja": "特殊な材料，例．破壊し易い材料，で作られた型，中子またはマンドレル（泥漿鋳込みのためのものＢ２８Ｂ１／２６）",
+      "en": "Moulds, cores, or mandrels of special material, e.g. destructible materials(for slip-casting <b>B28B1/26</b>)",
+      "count": 4524,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B7/36": {
+      "code": "B28B7/36",
+      "level": 1,
+      "parent": "B28B7/00",
+      "ja": "ライニングまたはコーティング（型，中子またはマンドレルの表面の潤滑Ｂ２８Ｂ７／３８）",
+      "en": "Linings or coatings(lubricating surfaces of moulds, cores, or mandrels <b>B28B7/38</b>)",
+      "count": 2332,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B7/38": {
+      "code": "B28B7/38",
+      "level": 1,
+      "parent": "B28B7/00",
+      "ja": "固着を防ぐための型，中子，またはマンドレルの表面処理",
+      "en": "Treating surfaces of moulds, cores, or mandrels to prevent sticking",
+      "count": 5208,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B7/40": {
+      "code": "B28B7/40",
+      "level": 1,
+      "parent": "B28B7/00",
+      "ja": "成形材料の特性を変更するための手段に特徴のあるもの［５］",
+      "en": "characterised by means for modifying the properties of the moulding material",
+      "count": 168,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B7/42": {
+      "code": "B28B7/42",
+      "level": 2,
+      "parent": "B28B7/40",
+      "ja": "加熱または冷却のためのもの，例．スチームジャケット［５］",
+      "en": "for heating or cooling, e.g. steam jackets",
+      "count": 1809,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B7/44": {
+      "code": "B28B7/44",
+      "level": 2,
+      "parent": "B28B7/40",
+      "ja": "ガスによる処理または脱ガス用のためのもの，例．脱気のためのもの［５］",
+      "en": "for treating with gases or degassing, e.g. for de-aerating",
+      "count": 867,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B7/46": {
+      "code": "B28B7/46",
+      "level": 2,
+      "parent": "B28B7/40",
+      "ja": "加湿または除湿のためのもの［５］",
+      "en": "for humidifying or dehumidifying",
+      "count": 864,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B11/00": {
+      "code": "B28B11/00",
+      "level": 0,
+      "parent": "B28B",
+      "ja": "成形物品の処理または加工のための装置または方法（管状製品にとくに適用されるものＢ２８Ｂ２１／９２；装飾又は表面処理一般Ｂ０５，Ｂ４４；建物と一体に現場でコンクリートを固化するものＥ０４Ｇ２１／０６；乾燥Ｆ２６）",
+      "en": "Apparatus or processes for treating or working the shaped articles(specially adapted for tubular articles <b>B28B21/92</b>; decoration or surface treatment in general <b>B05</b>, <b>B44</b>; compacting concrete <u>in situ</u> in connection with building <b>E04G21/06</b>; drying <b>F26</b>)",
+      "count": 7670,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B11/02": {
+      "code": "B28B11/02",
+      "level": 1,
+      "parent": "B28B11/00",
+      "ja": "付加物，例．取手，スパウト，をとりつけるためのもの",
+      "en": "for attaching appendages, e.g. handles, spouts",
+      "count": 1254,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B11/04": {
+      "code": "B28B11/04",
+      "level": 1,
+      "parent": "B28B11/00",
+      "ja": "コーテイングのためのもの（釉薬がけＣ０４Ｂ）",
+      "en": "for coating(glazing, engobing <b>C04B</b>)",
+      "count": 7341,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B11/06": {
+      "code": "B28B11/06",
+      "level": 2,
+      "parent": "B28B11/04",
+      "ja": "粉状または粒状材料によるもの",
+      "en": "with powdered or granular material",
+      "count": 771,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B11/08": {
+      "code": "B28B11/08",
+      "level": 1,
+      "parent": "B28B11/00",
+      "ja": "表面の再成形，例．なめらかにすること，ざらざらすること，波形にすること，ねじ山を作ること，のためのもの",
+      "en": "for reshaping the surface, e.g. smoothing, roughening, corrugating, making screw-threads",
+      "count": 6308,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B11/10": {
+      "code": "B28B11/10",
+      "level": 2,
+      "parent": "B28B11/08",
+      "ja": "プレスの使用によるもの",
+      "en": "by using presses",
+      "count": 1184,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B11/12": {
+      "code": "B28B11/12",
+      "level": 1,
+      "parent": "B28B11/00",
+      "ja": "切断によって製品の部分を除去するためのもの",
+      "en": "for removing parts of the articles by cutting",
+      "count": 3604,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B11/14": {
+      "code": "B28B11/14",
+      "level": 1,
+      "parent": "B28B11/00",
+      "ja": "切断によって成形品を分割するためのもの",
+      "en": "for dividing shaped articles by cutting",
+      "count": 6406,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B11/16": {
+      "code": "B28B11/16",
+      "level": 2,
+      "parent": "B28B11/14",
+      "ja": "押し出し成形のためのもの",
+      "en": "for extrusion",
+      "count": 1830,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B11/18": {
+      "code": "B28B11/18",
+      "level": 1,
+      "parent": "B28B11/00",
+      "ja": "バリを除去するためのもの",
+      "en": "for removing burr",
+      "count": 869,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B11/22": {
+      "code": "B28B11/22",
+      "level": 1,
+      "parent": "B28B11/00",
+      "ja": "成形品をきれいにするためのもの",
+      "en": "for cleaning",
+      "count": 1249,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B11/24": {
+      "code": "B28B11/24",
+      "level": 1,
+      "parent": "B28B11/00",
+      "ja": "養生，凝結または硬化のため（モルタル，コンクリート，または人造石の組成物の凝結または硬化能力に影響を与えるか，それを変化させるための方法一般Ｃ０４Ｂ４０／００）［６］",
+      "en": "for curing, setting or hardening(processes for influencing or modifying the setting or hardening ability of mortars, concrete or artificial stone compositions, in general <b>C04B40/00</b>)",
+      "count": 23607,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B13/00": {
+      "code": "B28B13/00",
+      "level": 0,
+      "parent": "B28B",
+      "ja": "成形品を製造するための型または装置への未成形材料の供給；そのような型または装置からの成形品の排出［２００６．０１］",
+      "en": "Feeding the unshaped material to moulds or apparatus for producing shaped articles; Discharging shaped articles from such moulds or apparatus",
+      "count": 1521,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B13/02": {
+      "code": "B28B13/02",
+      "level": 1,
+      "parent": "B28B13/00",
+      "ja": "成形品を製造するための型または装置への未成形材料の供給",
+      "en": "Feeding the unshaped material to moulds or apparatus for producing shaped articles",
+      "count": 19821,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B13/04": {
+      "code": "B28B13/04",
+      "level": 1,
+      "parent": "B28B13/00",
+      "ja": "成形品の排出（セラミック成形品のコンベア装置Ｂ６５Ｇ４９／０８）",
+      "en": "Discharging the shaped articles(conveying systems for ceramic mouldings <b>B65G49/08</b>)",
+      "count": 3092,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B13/06": {
+      "code": "B28B13/06",
+      "level": 2,
+      "parent": "B28B13/04",
+      "ja": "型からの成形品の除去（型と一体となった，または型に付属した手段によるものＢ２８Ｂ７／１０）",
+      "en": "Removing the shaped articles from moulds(by means incorporated in, or carried by, the moulds <b>B28B7/10</b>)",
+      "count": 10481,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B15/00": {
+      "code": "B28B15/00",
+      "level": 0,
+      "parent": "B28B",
+      "ja": "プラントの一般的な配置またはレイアウト",
+      "en": "General arrangement or layout of plant",
+      "count": 7584,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B17/00": {
+      "code": "B28B17/00",
+      "level": 0,
+      "parent": "B28B",
+      "ja": "材料成形用装置の細部または付属品；そのような成形に関連して用いられる補助的手段（型Ｂ２８Ｂ７／００；後処理；供給または排出Ｂ２８Ｂ１３／００；材料に要素を埋込むための装置Ｂ２８Ｂ２３／００）［２００６．０１］",
+      "en": "Details of, or accessories for, apparatus for shaping the material; Auxiliary measures taken in connection with such shaping(moulds <b>B28B7/00</b>; after-treatment <b>B28B11/00</b>; feeding or discharging <b>B28B13/00</b>; arrangements for embedding elements in the material <b>B28B23/00</b>)",
+      "count": 30300,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B17/02": {
+      "code": "B28B17/02",
+      "level": 1,
+      "parent": "B28B17/00",
+      "ja": "成形前の材料の調整",
+      "en": "Conditioning the material prior to shaping",
+      "count": 3153,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B17/04": {
+      "code": "B28B17/04",
+      "level": 1,
+      "parent": "B28B17/00",
+      "ja": "ダストの排出または除去",
+      "en": "Exhausting or laying dust",
+      "count": 2577,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B19/00": {
+      "code": "B28B19/00",
+      "level": 0,
+      "parent": "B28B",
+      "ja": "耐久層をその上に形成するために表面に材料を適用するための機械または方法（マンドレル上での成形品の製造Ｂ２８Ｂ１／３０；表面に液体または他の流動性材料を適用するもの一般Ｂ０５；釉薬がけＣ０４Ｂ）［２００６．０１］",
+      "en": "Machines or methods for applying the material to surfaces to form a permanent layer thereon(making shaped articles on mandrels <b>B28B1/30</b>; applying liquids or other fluent materials to surfaces in general <b>B05C</b>; glazing or engobing <b>C04B</b>)",
+      "count": 5252,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B21/00": {
+      "code": "B28B21/00",
+      "level": 0,
+      "parent": "B28B",
+      "ja": "管状製品の製造に特に適合した方法または機械",
+      "en": "Methods or machines specially adapted for the production of tubular articles",
+      "count": 851,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B21/02": {
+      "code": "B28B21/02",
+      "level": 1,
+      "parent": "B28B21/00",
+      "ja": "型へのキャスティングによるもの",
+      "en": "by casting into moulds",
+      "count": 412,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B21/04": {
+      "code": "B28B21/04",
+      "level": 2,
+      "parent": "B28B21/02",
+      "ja": "材料が積極的に締め固められたり，強制的に供給されたりしない単純なキャスティングによるもの",
+      "en": "by simple casting, the material being neither positively compacted nor forcibly fed",
+      "count": 370,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B21/06": {
+      "code": "B28B21/06",
+      "level": 2,
+      "parent": "B28B21/02",
+      "ja": "スライドする部分を持つ型へのキャスティングによるもの（Ｂ２８Ｂ２１／２６が優先；室全体，階全体，または建物全体を現場で作るための型枠，堰板または仮設作業Ｅ０４Ｇ１１／０２）",
+      "en": "into moulds having sliding parts(<b>B28B21/26</b> takes precedence; forms, shutterings, or falsework for making rooms as a whole, whole stories, or whole buildings <u>in situ</u><b>E04G11/02</b>)",
+      "count": 108,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B21/08": {
+      "code": "B28B21/08",
+      "level": 2,
+      "parent": "B28B21/02",
+      "ja": "泥漿鋳込みによるもの；そのための型",
+      "en": "by slip-casting; Moulds therefor",
+      "count": 187,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B21/10": {
+      "code": "B28B21/10",
+      "level": 2,
+      "parent": "B28B21/02",
+      "ja": "締め固め手段を用いるもの",
+      "en": "using compacting means",
+      "count": 271,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B21/12": {
+      "code": "B28B21/12",
+      "level": 3,
+      "parent": "B28B21/10",
+      "ja": "材料または型要素をつき固めるもの",
+      "en": "tamping or ramming the material or the mould elements",
+      "count": 204,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B21/14": {
+      "code": "B28B21/14",
+      "level": 3,
+      "parent": "B28B21/10",
+      "ja": "振動させるもの，例．材料の表面を振動させるもの",
+      "en": "vibrating, e.g. the surface of the material",
+      "count": 600,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B21/16": {
+      "code": "B28B21/16",
+      "level": 4,
+      "parent": "B28B21/14",
+      "ja": "一つまたはそれ以上の型要素を振動させるもの",
+      "en": "one or more mould elements",
+      "count": 451,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B21/18": {
+      "code": "B28B21/18",
+      "level": 3,
+      "parent": "B28B21/10",
+      "ja": "伸縮自在の型または中子要素を使用するもの",
+      "en": "using expansible or retractable mould or core elements",
+      "count": 148,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B21/20": {
+      "code": "B28B21/20",
+      "level": 4,
+      "parent": "B28B21/18",
+      "ja": "膨張可能な中子，例．中子の膨張可能な部分の内側にフレームを有するもの，を使用するもの（膨張可能な弾性体への弁の取付けＢ６０Ｃ２９／００）［２］",
+      "en": "using inflatable cores, e.g. having a frame inside the inflatable part of the core(connection of valves to inflatable elastic bodies <b>B60C29/00</b>)",
+      "count": 154,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B21/22": {
+      "code": "B28B21/22",
+      "level": 3,
+      "parent": "B28B21/10",
+      "ja": "回転可能な型または中子部品を使用するもの",
+      "en": "using rotatable mould or core parts",
+      "count": 203,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B21/24": {
+      "code": "B28B21/24",
+      "level": 4,
+      "parent": "B28B21/22",
+      "ja": "締め固めヘッド，ローラー，またはその類似物を使用するもの",
+      "en": "using compacting heads, rollers, or the like",
+      "count": 338,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B21/26": {
+      "code": "B28B21/26",
+      "level": 5,
+      "parent": "B28B21/24",
+      "ja": "スライドする型として働くパッカーヘッドをもつものまたは材料の供給のための案内手段を備えたもの",
+      "en": "with a packer head serving as a sliding mould or provided with guiding means for feeding the material",
+      "count": 212,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B21/28": {
+      "code": "B28B21/28",
+      "level": 5,
+      "parent": "B28B21/24",
+      "ja": "振動手段と結合したもの",
+      "en": "combined with vibration means",
+      "count": 100,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B21/30": {
+      "code": "B28B21/30",
+      "level": 4,
+      "parent": "B28B21/22",
+      "ja": "遠心力による成形",
+      "en": "Centrifugal moulding",
+      "count": 2012,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B21/32": {
+      "code": "B28B21/32",
+      "level": 5,
+      "parent": "B28B21/30",
+      "ja": "型への材料供給",
+      "en": "Feeding the material into the moulds",
+      "count": 664,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B21/34": {
+      "code": "B28B21/34",
+      "level": 5,
+      "parent": "B28B21/30",
+      "ja": "振動またはその他の付加的な締め固め手段と結合したもの",
+      "en": "combined with vibrating or other additional compacting means",
+      "count": 341,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B21/36": {
+      "code": "B28B21/36",
+      "level": 3,
+      "parent": "B28B21/10",
+      "ja": "材料へ流体圧や真空を適用するもの（泥漿鋳込みと結合したものＢ２８Ｂ２１／０８）",
+      "en": "applying fluid pressure or vacuum to the material(combined with slip-casting <b>B28B21/08</b>)",
+      "count": 197,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B21/38": {
+      "code": "B28B21/38",
+      "level": 4,
+      "parent": "B28B21/36",
+      "ja": "圧力下で材料の全部または一部分を導入するもの",
+      "en": "introducing the material wholly or partly under pressure",
+      "count": 77,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B21/40": {
+      "code": "B28B21/40",
+      "level": 4,
+      "parent": "B28B21/36",
+      "ja": "一つまたはそれ以上の型部品を除去することによるもの",
+      "en": "by evacuating one or more of the mould parts",
+      "count": 60,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B21/42": {
+      "code": "B28B21/42",
+      "level": 1,
+      "parent": "B28B21/00",
+      "ja": "マンドレルまたはそれと類似の型表面での成形によるもの",
+      "en": "by shaping on or against mandrels or like moulding surfaces",
+      "count": 247,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B21/44": {
+      "code": "B28B21/44",
+      "level": 2,
+      "parent": "B28B21/42",
+      "ja": "噴射，例．スプレーによるもの",
+      "en": "by projecting, e.g. spraying",
+      "count": 161,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B21/46": {
+      "code": "B28B21/46",
+      "level": 2,
+      "parent": "B28B21/42",
+      "ja": "浸漬によるもの",
+      "en": "by dipping",
+      "count": 27,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B21/48": {
+      "code": "B28B21/48",
+      "level": 2,
+      "parent": "B28B21/42",
+      "ja": "つつみこみ，例．巻き付け，によるもの",
+      "en": "by wrapping, e.g. winding",
+      "count": 445,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B21/50": {
+      "code": "B28B21/50",
+      "level": 2,
+      "parent": "B28B21/42",
+      "ja": "圧縮または締め固め手段の細部",
+      "en": "Details of compression or compacting means",
+      "count": 152,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B21/52": {
+      "code": "B28B21/52",
+      "level": 1,
+      "parent": "B28B21/00",
+      "ja": "押し出し成形によるもの",
+      "en": "by extruding",
+      "count": 564,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B21/54": {
+      "code": "B28B21/54",
+      "level": 2,
+      "parent": "B28B21/52",
+      "ja": "受け口を有する管，屈曲管またはそれに類似した独特の形状の管状製品を成形するための口金",
+      "en": "Mouthpieces for shaping sockets, bends, or like peculiarly-shaped tubular articles",
+      "count": 212,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B21/56": {
+      "code": "B28B21/56",
+      "level": 1,
+      "parent": "B28B21/00",
+      "ja": "補強材と一体となったもの",
+      "en": "incorporating reinforcements",
+      "count": 1194,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B21/58": {
+      "code": "B28B21/58",
+      "level": 2,
+      "parent": "B28B21/56",
+      "ja": "補強材として鋼管を使用するもの",
+      "en": "Steel tubes",
+      "count": 409,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B21/60": {
+      "code": "B28B21/60",
+      "level": 2,
+      "parent": "B28B21/56",
+      "ja": "予め応力の与えられた補強材を使用するもの",
+      "en": "prestressed reinforcements",
+      "count": 1236,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B21/62": {
+      "code": "B28B21/62",
+      "level": 3,
+      "parent": "B28B21/60",
+      "ja": "周辺に予め応力を与えられた補強材を使用するもの",
+      "en": "circumferential",
+      "count": 327,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B21/64": {
+      "code": "B28B21/64",
+      "level": 4,
+      "parent": "B28B21/62",
+      "ja": "巻き上げ装置",
+      "en": "Winding arrangements",
+      "count": 196,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B21/66": {
+      "code": "B28B21/66",
+      "level": 3,
+      "parent": "B28B21/60",
+      "ja": "補強マット",
+      "en": "Reinforcing mats",
+      "count": 105,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B21/68": {
+      "code": "B28B21/68",
+      "level": 2,
+      "parent": "B28B21/56",
+      "ja": "かつ遠心力を適用するもの",
+      "en": "and applying centrifugal forces",
+      "count": 685,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B21/70": {
+      "code": "B28B21/70",
+      "level": 1,
+      "parent": "B28B21/00",
+      "ja": "予め形成された要素から組立てることによるもの",
+      "en": "by building-up from preformed elements",
+      "count": 114,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B21/72": {
+      "code": "B28B21/72",
+      "level": 2,
+      "parent": "B28B21/70",
+      "ja": "多重層管の製造",
+      "en": "Producing multilayer tubes",
+      "count": 395,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B21/74": {
+      "code": "B28B21/74",
+      "level": 2,
+      "parent": "B28B21/70",
+      "ja": "屈曲管，受け口を有する管，スリーブ管の製造；そのための型（押し出し成形と結合したものＢ２８Ｂ２１／５４）",
+      "en": "Producing pipe bends, sockets, sleeves; Moulds therefor(combined with extrusion presses <b>B28B21/54</b>)",
+      "count": 323,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B21/76": {
+      "code": "B28B21/76",
+      "level": 1,
+      "parent": "B28B21/00",
+      "ja": "型",
+      "en": "Moulds",
+      "count": 1335,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B21/78": {
+      "code": "B28B21/78",
+      "level": 2,
+      "parent": "B28B21/76",
+      "ja": "加熱または冷却手段をもつもの，例．スチームジャケットをもつもの",
+      "en": "with heating or cooling means, e.g. steam jackets",
+      "count": 246,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B21/80": {
+      "code": "B28B21/80",
+      "level": 2,
+      "parent": "B28B21/76",
+      "ja": "遠心力による成形または回転成形に適用したもの",
+      "en": "adapted to centrifugal or rotational moulding",
+      "count": 1512,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B21/82": {
+      "code": "B28B21/82",
+      "level": 2,
+      "parent": "B28B21/76",
+      "ja": "幾くつかの部分から組立てられたもの；多連型；調節可能な部分をもつ型",
+      "en": "built-up from several parts; Multiple moulds; Moulds with adjustable parts",
+      "count": 2399,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B21/84": {
+      "code": "B28B21/84",
+      "level": 3,
+      "parent": "B28B21/82",
+      "ja": "一つまたはそれ以上のピボット的に取付けられた部品をもつ型",
+      "en": "Moulds with one or more pivotable parts",
+      "count": 259,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B21/86": {
+      "code": "B28B21/86",
+      "level": 1,
+      "parent": "B28B21/00",
+      "ja": "中子（一般Ｂ２８Ｂ７／００）",
+      "en": "Cores(in general <b>B28B7/00</b>)",
+      "count": 490,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B21/88": {
+      "code": "B28B21/88",
+      "level": 2,
+      "parent": "B28B21/86",
+      "ja": "調節可能な，折りたたみ可能な，または伸縮可能なもの（膨張可能な中子を使用するものＢ２８Ｂ２１／２０）",
+      "en": "adjustable, collapsible or expansible(using inflatable cores <b>B28B21/20</b>)",
+      "count": 695,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B21/90": {
+      "code": "B28B21/90",
+      "level": 1,
+      "parent": "B28B21/00",
+      "ja": "成形後の排出方法または装置",
+      "en": "Methods or apparatus for discharging after shaping",
+      "count": 1463,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B21/92": {
+      "code": "B28B21/92",
+      "level": 1,
+      "parent": "B28B21/00",
+      "ja": "処理または再成形のための方法または装置",
+      "en": "Methods or apparatus for treating or reshaping",
+      "count": 585,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B21/94": {
+      "code": "B28B21/94",
+      "level": 2,
+      "parent": "B28B21/92",
+      "ja": "液体または半流動体の適用による含浸またはコーティングのためのもの",
+      "en": "for impregnating or coating by applying liquids or semi-liquids",
+      "count": 321,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B21/96": {
+      "code": "B28B21/96",
+      "level": 2,
+      "parent": "B28B21/92",
+      "ja": "なめらかにする，ざらざらにする，波形にするためのもの，またはバリを除去するためのもの",
+      "en": "for smoothing, roughening, corrugating or for removing burr",
+      "count": 248,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B21/98": {
+      "code": "B28B21/98",
+      "level": 2,
+      "parent": "B28B21/92",
+      "ja": "再成形のためのもの，例．再成形型によるもの",
+      "en": "for reshaping, e.g. by means of reshape moulds",
+      "count": 104,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B23/00": {
+      "code": "B28B23/00",
+      "level": 0,
+      "parent": "B28B",
+      "ja": "成形材料中に全部または一部埋め込まれた要素をもつ成形品の製造に特に適合した装置（Ｂ２８Ｂ２１／００が優先；プレハブ建築のためのユニットを製造するための型Ｂ２８Ｂ７／２２）",
+      "en": "Arrangements specially adapted for the production of shaped articles with elements wholly or partly embedded in the moulding material(<b>B28B21/00</b> takes precedence; in units for prefabricated buildings <b>B28B7/22</b>)",
+      "count": 6995,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B23/02": {
+      "code": "B28B23/02",
+      "level": 1,
+      "parent": "B28B23/00",
+      "ja": "その中の要素が補強部材であるもの",
+      "en": "wherein the elements are reinforcing members",
+      "count": 10791,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B23/04": {
+      "code": "B28B23/04",
+      "level": 2,
+      "parent": "B28B23/02",
+      "ja": "その要素が応力を与えられているもの",
+      "en": "the elements being stressed",
+      "count": 4065,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B23/06": {
+      "code": "B28B23/06",
+      "level": 3,
+      "parent": "B28B23/04",
+      "ja": "長尺製品の製造のためのもの",
+      "en": "for the production of elongated articles",
+      "count": 1001,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B23/08": {
+      "code": "B28B23/08",
+      "level": 4,
+      "parent": "B28B23/06",
+      "ja": "その製品が管状のもの",
+      "en": "the articles being of tubular form",
+      "count": 219,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B23/10": {
+      "code": "B28B23/10",
+      "level": 3,
+      "parent": "B28B23/04",
+      "ja": "その成形が遠心力による成形または回転成形によってなされるもの［２］",
+      "en": "the shaping being effected by centrifugal or rotational moulding",
+      "count": 180,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B23/12": {
+      "code": "B28B23/12",
+      "level": 3,
+      "parent": "B28B23/04",
+      "ja": "周辺にあらかじめ応力を与えられた補強材を形成するためのもの［２］",
+      "en": "to form prestressed circumferential reinforcements",
+      "count": 187,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B23/14": {
+      "code": "B28B23/14",
+      "level": 4,
+      "parent": "B28B23/12",
+      "ja": "つつみ込み，例．巻き付け装置によるもの［２］",
+      "en": "by wrapping, e.g. winding apparatus",
+      "count": 124,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B23/16": {
+      "code": "B28B23/16",
+      "level": 4,
+      "parent": "B28B23/12",
+      "ja": "プレストレス補強ネット［２］",
+      "en": "Prestressed reinforcing nets",
+      "count": 88,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B23/18": {
+      "code": "B28B23/18",
+      "level": 2,
+      "parent": "B28B23/02",
+      "ja": "長尺製品の製造のためのもの（Ｂ２８Ｂ２３／０６が優先）［２］",
+      "en": "for the production of elongated articles(<b>B28B23/06</b> takes precedence)",
+      "count": 444,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B23/20": {
+      "code": "B28B23/20",
+      "level": 2,
+      "parent": "B28B23/02",
+      "ja": "その成形が遠心力による成形または回転成形によってなされるもの（Ｂ２８Ｂ２３／１０が優先）［２］",
+      "en": "the shaping being effected by centrifugal or rotational moulding(<b>B28B23/10</b> takes precedence)",
+      "count": 92,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    },
+    "B28B23/22": {
+      "code": "B28B23/22",
+      "level": 2,
+      "parent": "B28B23/02",
+      "ja": "予め成形された部品の組立てによるもの［２］",
+      "en": "assembled from preformed parts",
+      "count": 303,
+      "sourceFile": "ipc_B28B.txt",
+      "kind": "ipc"
+    }
+  }
+};

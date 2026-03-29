@@ -1,0 +1,123 @@
+window.CPC_SHARD_C12J = {
+  "generatedAt": "2026-03-20T02:17:57.462Z",
+  "total": 9,
+  "entries": {
+    "C12J": {
+      "code": "C12J",
+      "level": 5,
+      "parent": "C12",
+      "ja": "酢；その調製",
+      "en": "VINEGAR; PREPARATION OR PURIFICATION THEREOF",
+      "count": 0,
+      "ipcCode": "",
+      "coreCode": "",
+      "note": "",
+      "sourceFile": "cpc_C.txt",
+      "kind": "cpc"
+    },
+    "C12": {
+      "code": "C12",
+      "level": 4,
+      "parent": "C",
+      "ja": "生化学；ビール；酒精；ぶどう酒；酢；微生物学；酵素学；突然変異または遺伝子工学<br>（１）サブクラスＣ１２ＭからＣ１２Ｑおよびこれらサブクラスの各々においては，相反する指示がない限り，最後の適切な箇所に分類する。例えば，発酵また酵素を用いた状態応答制御はサブクラスＣ１２Ｑに分類される。<br>（２）このクラスにおいては，ウイルス，未分化ヒト，動物または植物細胞，原生動物，組織および単細胞の藻類は，微生物とみなす。<br>（３）このクラスにおいては，特別に分類されるものを除いて，未分化ヒト，動物または植物細胞，原生動物，組織および単細胞の藻類は微生物のところに分類する。また，特別に分類されるものを除いて，細胞の部分は完全な細胞のところに分類する。<br>（４）サブクラスＣ１２Ｒは，サブクラスＣ１２ＣからＣ１２Ｑに分類される方法において用いられている微生物に関する情報を提供するために，これらのサブクラスに関連するインデキシングコードとしてのみ使用される。",
+      "en": "BIOCHEMISTRY; BEER; SPIRITS; WINE; VINEGAR; MICROBIOLOGY; ENZYMOLOGY; MUTATION OR GENETIC ENGINEERING<br><br><u>NOTE</u><br><br>In subclasses C12M&#160;-&#160;C12Q and within each of these subclasses, in the absence of an indication to the contrary, classification is made in the last appropriate place.<br>In this class, viruses, undifferentiated human, animal or plant cells, protozoa, tissues, and unicellular algae are considered as microorganisms.<br>In this class, unless specifically provided for, undifferentiated human, animal or plant cells, protozoa, tissues and unicellular algae are classified together with microorganisms. Sub-cellular parts, unless specifically provided for, are classified with the whole cell.",
+      "count": 0,
+      "ipcCode": "",
+      "coreCode": "",
+      "note": "",
+      "sourceFile": "cpc_C.txt",
+      "kind": "cpc"
+    },
+    "C": {
+      "code": "C",
+      "level": 2,
+      "parent": null,
+      "ja": "化学；冶金<br>（１）セクションＣにおいて，化学元素の種類に関する定義は次の通りである:<br>アルカリ金属:Ｌｉ，Ｎａ，Ｋ，Ｒｂ，Ｃｓ，Ｆｒ<br>アルカリ土類金属:Ｃａ，Ｓｒ，Ｂａ，Ｒａ<br>ランタニド:原子番号５７から７１までの元素<br>希土類:Ｓｃ，Ｙ，ランタニド<br>アクチニド:原子番号８９から１０３までの元素<br>耐火金属:Ｔｉ，Ｖ，Ｃｒ，Ｚｒ，Ｎｂ，Ｍｏ，Ｈｆ，Ｔａ，Ｗ<br>ハロゲン:Ｆ，Ｃｌ，Ｂｒ，Ｉ，Ａｔ<br>希ガス:Ｈｅ，Ｎｅ，Ａｒ，Ｋｒ，Ｘｅ，Ｒｎ<br>白金族:Ｏｓ，Ｉｒ，Ｐｔ，Ｒｕ，Ｒｈ，Ｐｄ<br>貴金属:Ａｇ，Ａｕ，白金族<br>軽金属:アルカリ金属，アルカリ土類金属，Ｂｅ，Ａｌ，Ｍｇ<br>重金属:軽金属以外の金属<br>鉄族:Ｆｅ，Ｃｏ，Ｎｉ<br>非金属:Ｈ，Ｂ，Ｃ，Ｓｉ，Ｎ，Ｐ，Ｏ，Ｓ，Ｓｅ，Ｔｅ，希ガス，ハロゲン<br>金属:非金属以外の元素<br>遷移元素:原子番号２１から３０まで，３９から４８まで，５７から８０まで，８９以上の元素<br>（２）Ｃセクションは以下のものを包含する:<br>（ａ）無機化合物，有機化合物，高分子化合物およびそれらの調製法を包含する純粋化学；<br>（ｂ）たとえばガラス，セラミック，肥料，プラスチック組成物，ペイント，石油工業の製品のような上記化合物を含有する組成物を包含する応用化学。それはまた，爆発物，染料，接着剤，潤滑剤および洗剤のように，ある目的に適した特別の性質をもつための組成物をも包含する；<br>（ｃ）コークスの製造，固体または気体燃料の製造，油脂およびろうの製造および精製，発酵工業（例．ビールおよびぶどう酒の製造），製糖工業のようなある境界工業；<br>（ｄ）ある操作または処理であって，純粋に機械的な処理，例．レザーおよび皮の機械的処理，または部分的機械的処理，例．水処理，または腐食防止一般であるもの；<br>（ｅ）冶金，鉄または非鉄合金<br>（３）ＩＰＣの全てのセクションにおいて，相反する指示がない限り、元素記号周期律表への言及は、以下に示す８つのグループを表す。例えば、グループＣ０７Ｆ３／００「周期律表の第２族の元素を含有する化合物」は、ＩＩＡ及びＩＩＢ族の元素への言及とする。<br>「図」<br>（４）（ａ）化学的部分または面および非化学的部分または面の両方を有する操作，処理，製品または物品の場合に，一般規則として，化学的部分または面はＣセクションに包含される。<br>（ｂ）これらのうちのある場合には，化学的部分または面には非化学的部分または面を伴い，純粋に機械的部分または面を伴うことさえある，というのは非化学的面は操作または処理にとって本質的であるかまたはそれらの重要な要素を構成するからである；実際，全体のさまざまな部分または面を分割しないのがより論理的と思える。これは応用化学や上記注（１）（ｃ），（ｄ）および（ｅ）の工業，操作および処理の場合に適用される。例えば，ガラス製造用特殊炉はＣ０３に包含されＦ２７には包含されない。<br>（ｃ）しかしながら，機械的面（または非化学的面）に非化学的な面が伴うという例外もある，例えば:<br>―サブクラスＡ６１Ｋにおけるある抽出プロセス；<br>―サブクラスＡ６１Ｌにおける空気の化学的精製；<br>―サブクラスＡ６２Ｄにおける化学的消火方法；<br>―クラスＢ０１における化学的プロセスおよび装置；<br>―サブクラスＢ２７Ｋにおける木材の含浸；<br>―サブクラスＧ０１Ｎにおける化学的分析または試験法；<br>―クラスＧ０３における写真材料またはプロセス，そして一般に，Ｄセクションにおける繊維の化学的処理および繊維素，紙等の製造<br>（ｄ）さらに他の場合，純粋化学的面はＣセクションに包含され，応用化学的面はＡ，Ｂ，Ｆセクションのような他のセクションに包含される，例．以下の物質または組成物の使用:<br>―サブクラスＡ０１Ｎに包含される植物または動物の処理；<br>―クラスＡ２３に包含される食物；<br>―クラスＦ４２に包含される弾薬または爆薬<br>（ｅ）化学的面および機械的面が非常に交錯して，簡単明確な分割ができない時，または化学的処理が自然なまたは論理的な延長として機械的プロセスを要する時は，化学的面に加えて，Ｃセクションは機械的面の一部のみ，例．クラスＣ０４に包含される人造石の後処理，を包含する。この後者の場合に，たとえその区別がむしろ任意であってもその位置を明確にするよう注または参照を通常設けている。",
+      "en": "CHEMISTRY; METALLURGY<br><br><u>NOTE</u><br><br>In section C, the definitions of groups of chemical elements are as follows: <br>Alkali metals: Li, Na, K, Rb, Cs, Fr <br>Alkaline earth metals: Ca, Sr, Ba, Ra<br>Lanthanides: elements with atomic numbers 57 to 71 inclusive <br>Rare earths: Sc, Y, Lanthanides<br>Actinides: elements with atomic numbers 89 to 103 inclusive<br>Refractory metals: Ti, V, Cr, Zr, Nb, Mo, Hf, Ta, W <br>Halogens: F, Cl, Br, I, At <br>Noble gases: He, Ne, Ar, Kr, Xe, Rn <br>Platinum group: Os, Ir, Pt, Ru, Rh, Pd <br>Noble metals: Ag, Au, Platinum group <br>Light metals: alkali metals, alkaline earth metals, Be, Al, Mg<br>Heavy metals: metals other than light metals<br>Iron group: Fe, Co, Ni<br>Non-metals: H, B, C, Si, N, P, O, S, Se, Te, noble gases, halogens<br>Metals: elements other than non-metals <br>Transition elements: elements with atomic numbers 21 to 30 inclusive, 39 to 48 inclusive, 57 to 80 inclusive, 89 upwards<br>Section Ccovers:<br>pure chemistry, which covers inorganic compounds, organic compounds, macromolecular compounds, and their methods of preparation;<br>applied chemistry, which covers compositions containing the above compounds, such as: glass, ceramics, fertilisers, plastics compositions, paints, products of the petroleum industry. It also covers certain compositions on account of their having particular properties rendering them suitable for certain purposes, as in the case of explosives, dyestuffs, adhesives, lubricants and detergents;<br>certain marginal industries, such as the manufacture of coke and of solid or gaseous fuels, the production and refining of oils, fats and waxes, the fermentation industry (e.g., brewing and wine-making), the sugar industry;<br>certain operations or treatments, which are either purely mechanical, e.g., the mechanical treatment of leather and skins, or partly mechanical, e.g., the treatment of water or the prevention of corrosion in general;<br>metallurgy, ferrous or non-ferrous alloys.<br>In all sections of the CPC, in the absence of an indication to the contrary, the Periodic Table of chemical elements referred to is the one with 18 groups as represented in the table below.<br><br><br>In the case of operations, treatments, products or articles having both a chemical and a non-chemical part or aspect, the general rule is that the chemical part or aspect is covered by section C.<br>In some of these cases, the chemical part or aspect brings with it a non-chemical one, even though purely mechanical, because this latter aspect either is essential to the operation or treatment or constitutes an important element thereof. It has seemed, in fact, more logical not to dissociate the different parts or aspects of a coherent whole. This is the case for applied chemistry and for the industries, operations and treatments mentioned in Notes (2) c), d) and e). For example, furnaces peculiar to the manufacture of glass are covered by class C03 and not by class F27.<br>There are, however, some exceptions in which the mechanical (or non-chemical) aspect carries with it the chemical aspect, for example:<br>certain extractive processes, in subclass A61K;<br>the chemical purification of air, in subclass A61L;<br>chemical methods of fire-fighting, in subclass A62D;<br>chemical processes and apparatus, in class B01;<br>impregnation of wood, in subclass B27K;<br>chemical methods of analysis or testing, in subclass G01N;<br>photographic materials and processes, in class G03, and, generally, the chemical treatment of textiles and the production of cellulose or paper, in section D.<br>In still other cases, the pure chemical aspect is covered by section C and the applied chemical aspect by another section, such as A, B or F, e.g. the use of a substance or composition for:<br>treatment of plants or animals, covered by subclass A01N;<br>foodstuffs, covered by class A23;<br>ammunition or explosives, covered by class F42.<br>When the chemical and mechanical aspects are so closely interlocked that a neat and simple division is not possible, or when certain mechanical processes follow as a natural or logical continuation of a chemical treatment, section C may cover, in addition to the chemical aspect, a part only of the mechanical aspect, e.g., after-treatment of artificial stone, covered by class C04. In this latter case, a note or a reference is usually given to make the position clear, even if sometimes the division is rather arbitrary.<br>In some of these cases, the chemical part or aspect brings with it a non-chemical one, even though purely mechanical, because this latter aspect either is essential to the operation or treatment or constitutes an important element thereof. It has seemed, in fact, more logical not to dissociate the different parts or aspects of a coherent whole. This is the case for applied chemistry and for the industries, operations and treatments mentioned in Note (2) bullets 2, 3, 4 and 5. For example, furnaces peculiar to the manufacture of glass are covered by class C03 and not by class F27.<br>There are, however, some exceptions in which the mechanical (or non-chemical) aspect carries with it the chemical aspect, for example: <br>certain extractive processes, in subclass A61K;<br>the chemical purification of air, in subclass A61L;<br>chemical methods of fire-fighting, in subclass A62D;<br>chemical processes and apparatus, in class B01;<br>impregnation of wood, in subclass B27K;<br>chemical methods of analysis or testing, in subclass G01N;<br>photographic materials and processes, in class G03, and, generally, the chemical treatment of textiles and the production of cellulose or paper, in section D.<br>In still other cases, the pure chemical aspect is covered by section C and the applied chemical aspect by another section, such as A, B or F, e.g., the use of a substance or composition for:<br>treatment of plants or animals, covered by subclass A01N;<br>foodstuffs, covered by class A23;<br>ammunition or explosives, covered by class F42.<br>When the chemical and mechanical aspects are so closely interlocked that a neat and simple division is not possible, or when certain mechanical processes follow as a natural or logical continuation of a chemical treatment, section C may cover, in addition to the chemical aspect, a part only of the mechanical aspect, e.g., after-treatment of artificial stone, covered by class C04. In this latter case, a note or a reference is usually given to make the position clear, even if sometimes the division is rather arbitrary.",
+      "count": 0,
+      "ipcCode": "",
+      "coreCode": "",
+      "note": "",
+      "sourceFile": "cpc.txt",
+      "kind": "cpc"
+    },
+    "C12J1/00": {
+      "code": "C12J1/00",
+      "level": 7,
+      "parent": null,
+      "ja": "酢；調製；精製",
+      "en": "Vinegar; Preparation or purification thereof",
+      "count": 1838,
+      "ipcCode": "C12J1/00",
+      "coreCode": "C12J1/00",
+      "note": "",
+      "sourceFile": "cpc_C12J.txt",
+      "kind": "cpc"
+    },
+    "C12J1/02": {
+      "code": "C12J1/02",
+      "level": 8,
+      "parent": "C12J1/00",
+      "ja": "ぶどう酒からのもの",
+      "en": "from wine",
+      "count": 229,
+      "ipcCode": "C12J1/02",
+      "coreCode": "C12J1/02",
+      "note": "",
+      "sourceFile": "cpc_C12J.txt",
+      "kind": "cpc"
+    },
+    "C12J1/04": {
+      "code": "C12J1/04",
+      "level": 8,
+      "parent": "C12J1/00",
+      "ja": "アルコールからのもの",
+      "en": "from alcohol",
+      "count": 2541,
+      "ipcCode": "C12J1/04",
+      "coreCode": "C12J1/04",
+      "note": "",
+      "sourceFile": "cpc_C12J.txt",
+      "kind": "cpc"
+    },
+    "C12J1/06": {
+      "code": "C12J1/06",
+      "level": 8,
+      "parent": "C12J1/00",
+      "ja": "牛乳からのもの",
+      "en": "from milk",
+      "count": 18,
+      "ipcCode": "C12J1/06",
+      "coreCode": "C12J1/06",
+      "note": "",
+      "sourceFile": "cpc_C12J.txt",
+      "kind": "cpc"
+    },
+    "C12J1/08": {
+      "code": "C12J1/08",
+      "level": 8,
+      "parent": "C12J1/00",
+      "ja": "香気成分の添加",
+      "en": "Addition of flavouring ingredients",
+      "count": 794,
+      "ipcCode": "C12J1/08",
+      "coreCode": "C12J1/08",
+      "note": "",
+      "sourceFile": "cpc_C12J.txt",
+      "kind": "cpc"
+    },
+    "C12J1/10": {
+      "code": "C12J1/10",
+      "level": 8,
+      "parent": "C12J1/00",
+      "ja": "装置",
+      "en": "Apparatus",
+      "count": 668,
+      "ipcCode": "C12J1/10",
+      "coreCode": "C12J1/10",
+      "note": "",
+      "sourceFile": "cpc_C12J.txt",
+      "kind": "cpc"
+    }
+  }
+};

@@ -1,0 +1,916 @@
+{
+  "generatedAt": "2026-03-20T02:17:46.094Z",
+  "total": 91,
+  "entries": {
+    "B21J": {
+      "code": "B21J",
+      "level": 0,
+      "parent": "B21",
+      "ja": "鍛造；ハンマーリング；金属のプレス；リベット締め；鍛造炉（金属の圧延Ｂ２１Ｂ；鍛造またはプレスによる特定の製品の製造Ｂ２１Ｋ；クラッド法または被せ金法Ｂ２３Ｋ；ハンマリングによる表面処理または表面仕上げＢ２３Ｐ９／０４；粉体材料の吹き付けによる表面の引き締めＢ２４Ｃ１／１０；プレスの一般的特徴，スクラップの押し固めのためのプレスＢ３０Ｂ；炉一般Ｆ２７）<br><br><b><ul>サブクラス内の索引</ul></b><br>金属材料の調整　１／００<br>鍛造；ハンマリング；プレス<br>一般的方法，そのための装置　５／００<br>機械，プレス，ハンマ　７／００～１３／００<br>潤滑　３／００<br>炉　１７／００<br>リベット止め　１５／００<br>他の鍛治用品　１９／００",
+      "en": "FORGING; HAMMERING; PRESSING METAL; RIVETING; FORGE FURNACES(rolling of metal <b>B21B</b>; making particular products by forging or pressing <b>B21K</b>; cladding or plating <b>B23K</b>; finishing surfaces by hammering <b>B23P9/04</b>; compacting surfaces by blasting with particulate material <b>B24C1/10</b>; general features of presses, presses for consolidating scrap <b>B30B</b>; furnaces in general <b>F27</b>);<br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">PREPARING METAL STOCK </td><td><b><b>1/00</b></b></td></tr></tr><tr><td width=\"70%\">FORGING; HAMMERING; PRESSING<tr><td width=\"70%\">General methods, equipment therefor </td><td><b><b>5/00</b></b></td></tr></tr><tr><td width=\"70%\">Machines, presses, hammers </td><td><b><b>7/00 to 13/00</b> </b></td></tr></tr><tr><td width=\"70%\">Lubrication </td><td><b><b>3/00</b></b></td></tr></tr><tr><td width=\"70%\">Furnaces </td><td><b><b>17/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">RIVETING </td><td><b><b>15/00</b></b></td></tr></tr><tr><td width=\"70%\">OTHER BLACKSMITHS' REQUISITES </td><td><b><b>19/00</b></b></td></tr></tr></table>",
+      "count": 499,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B21": {
+      "code": "B21",
+      "level": 0,
+      "parent": "B",
+      "ja": "本質的には材料の除去が行なわれない機械的金属加工；金属の打抜き<br><br><b><ul>注</ul></b><br>（１）このクラスは，以下のものを包含する：<br>―金属材料の加工；［２０１５．０１］<br>―適用される方法が金属材料加工に用いられるものと類似し且つ他の分類箇所に包含されないものに限る非金属材料の加工。［２０１５．０１］<br>（２）このクラスは，以下のものを包含しない：<br>―クラスＢ２１の異ったサブクラスによって包含される作業の組合せ，これはサブクラスＢ２３Ｐに包含される；<br>―クラスＢ２１のどれか特定のサブクラスによって包含される作業と，他のクラスによって包含される作業，例．材料の除去を伴う作業，の組合せ，これもサブクラスＢ２３Ｐに包含される。ただし，もし他のクラスによって包含される作業がＢ２１の単一のサブクラスに適正に包含される作業に対し補助的である場合は，その組合せはＢ２１のサブクラスに分類される。",
+      "en": "MECHANICAL METAL-WORKING WITHOUT ESSENTIALLY REMOVING MATERIAL; PUNCHING METAL; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This class <u>covers</u>: <ul><li>working of metallic materials;</li><li>working of non-metallic materials, provided that the methods applied are similar to those used in metal-working and not provided for elsewhere.</li></ul></li><li>This class <u>does not cover</u>: <ul><li>combinations of operations covered by different subclasses of class <b>B21</b>, which are covered by subclass <b>B23P</b>;</li><li>combinations of operations covered by any particular subclass of class <b>B21</b> with operations covered by other classes, e.g. with operations involving removal of material, which are also covered by subclass <b>B23P</b>, except that if the operations covered by the other classes are subsidiary to the operations properly covered by a single subclass of <b>B21</b> the combination is classified in that subclass.</li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B": {
+      "code": "B",
+      "level": 0,
+      "parent": null,
+      "ja": "処理操作；運輸",
+      "en": "PERFORMING OPERATIONS; TRANSPORTING",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B21J1/00": {
+      "code": "B21J1/00",
+      "level": 0,
+      "parent": "B21J",
+      "ja": "金属材料の調整",
+      "en": "Preparing metal stock",
+      "count": 805,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J1/02": {
+      "code": "B21J1/02",
+      "level": 1,
+      "parent": "B21J1/00",
+      "ja": "特定の形に変形しない金属素材の前処理，例．偏折域の改善，素材の荒鍛造またはプレス加工（変形による物理的性質の改良Ｃ２１Ｄ７／００，Ｃ２２Ｆ１／００）",
+      "en": "Preliminary treatment of metal stock without particular shaping, e.g. salvaging segregated zones, forging or pressing in the rough(modifying the physical properties by deformation <b>C21D7/00</b>, <b>C22F1/00</b>)",
+      "count": 955,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J1/04": {
+      "code": "B21J1/04",
+      "level": 1,
+      "parent": "B21J1/00",
+      "ja": "鍛造またはプレスのみによって未仕上げ状態に成形",
+      "en": "Shaping in the rough solely by forging or pressing",
+      "count": 1757,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J1/06": {
+      "code": "B21J1/06",
+      "level": 1,
+      "parent": "B21J1/00",
+      "ja": "鍛治またはプレス操作をおこなうため特に用いられる加熱冷却方法または装置",
+      "en": "Heating or cooling methods or arrangements specially adapted for performing forging or pressing operations",
+      "count": 4978,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J3/00": {
+      "code": "B21J3/00",
+      "level": 0,
+      "parent": "B21J",
+      "ja": "鍛造またはプレス中の潤滑（潤滑一般Ｆ１６Ｎ）",
+      "en": "Lubricating during forging or pressing(lubricating in general <b>F16N</b>)",
+      "count": 2377,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J5/00": {
+      "code": "B21J5/00",
+      "level": 0,
+      "parent": "B21J",
+      "ja": "鍛造，ハンマリングまたはプレスの方法（金属板，金属管，棒またはプロフィルの加工用Ｂ２１Ｄ；ワイヤーの加工Ｂ２１Ｆ）；そのための特殊な装置または付属品",
+      "en": "Methods for forging, hammering, or pressing(for working sheet metal or metal tubes, rods, or profiles <b>B21D</b>; for working wire <b>B21F</b>);Special equipment or accessories therefor",
+      "count": 9791,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J5/02": {
+      "code": "B21J5/02",
+      "level": 1,
+      "parent": "B21J5/00",
+      "ja": "型鍛造；特殊なダイスを利用したトリミング",
+      "en": "Die forging; Trimming by making use of special dies",
+      "count": 8624,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J5/04": {
+      "code": "B21J5/04",
+      "level": 1,
+      "parent": "B21J5/00",
+      "ja": "流体圧力または爆発力を直接加えることによる加工",
+      "en": "by directly applied fluid pressure or explosive action",
+      "count": 490,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J5/06": {
+      "code": "B21J5/06",
+      "level": 1,
+      "parent": "B21J5/00",
+      "ja": "特定の操作をおこなうもの",
+      "en": "for performing particular operations",
+      "count": 4157,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J5/08": {
+      "code": "B21J5/08",
+      "level": 2,
+      "parent": "B21J5/06",
+      "ja": "すえ込み",
+      "en": "Upsetting",
+      "count": 5584,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J5/10": {
+      "code": "B21J5/10",
+      "level": 2,
+      "parent": "B21J5/06",
+      "ja": "ビレットの穴明け（押出しとの組合せＢ２１Ｃ２３／００）",
+      "en": "Piercing billets(in combination with extrusion <b>B21C23/00</b>)",
+      "count": 1742,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J5/12": {
+      "code": "B21J5/12",
+      "level": 2,
+      "parent": "B21J5/06",
+      "ja": "内面または外面上のプロフィルの成形（鍛造，プレスまたはハンマリングによるねじの製作Ｂ２１Ｋ）",
+      "en": "Forming profiles on internal or external surfaces(making screw-thread by forging, pressing, or hammering <b>B21K</b>)",
+      "count": 2230,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J7/00": {
+      "code": "B21J7/00",
+      "level": 0,
+      "parent": "B21J",
+      "ja": "ハンマー；衝撃的に作用するハンマーまたは型ダイスをもつ鍛造機械（手動ハンマーＢ２５Ｄ；電気的なハンマーＨセクション）",
+      "en": "Hammers; Forging machines with hammers or die jaws acting by impact (hand hammers <b>B25D</b>;  electrical features section <b>H</b>)",
+      "count": 263,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J7/02": {
+      "code": "B21J7/02",
+      "level": 1,
+      "parent": "B21J7/00",
+      "ja": "特殊な設計または構造",
+      "en": "Special design or construction",
+      "count": 475,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J7/04": {
+      "code": "B21J7/04",
+      "level": 2,
+      "parent": "B21J7/02",
+      "ja": "パワーハンマー",
+      "en": "Power hammers",
+      "count": 918,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J7/06": {
+      "code": "B21J7/06",
+      "level": 2,
+      "parent": "B21J7/02",
+      "ja": "ドロップハンマー",
+      "en": "Drop hammers",
+      "count": 204,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J7/08": {
+      "code": "B21J7/08",
+      "level": 3,
+      "parent": "B21J7/06",
+      "ja": "ハンマが正確に案内されるもの",
+      "en": "with rigidly-guided hammer",
+      "count": 31,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J7/10": {
+      "code": "B21J7/10",
+      "level": 2,
+      "parent": "B21J7/02",
+      "ja": "支点で支えられたてこに連結された駆動装置とハンマの両方をもつもの，例．ティルハンマ",
+      "en": "with both drive and hammer connected to a fulcrumed lever, e.g. tail hammers",
+      "count": 86,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J7/12": {
+      "code": "B21J7/12",
+      "level": 3,
+      "parent": "B21J7/10",
+      "ja": "スプリングを挺子とするもの，すなわちスプリングハンマ",
+      "en": "the lever being a spring, i.e. spring hammers",
+      "count": 366,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J7/14": {
+      "code": "B21J7/14",
+      "level": 2,
+      "parent": "B21J7/02",
+      "ja": "複数のハンマーを持つ鍛造機械",
+      "en": "Forging machines working with several hammers",
+      "count": 865,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J7/16": {
+      "code": "B21J7/16",
+      "level": 3,
+      "parent": "B21J7/14",
+      "ja": "円形配列のもの",
+      "en": "in rotary arrangements",
+      "count": 789,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J7/18": {
+      "code": "B21J7/18",
+      "level": 2,
+      "parent": "B21J7/02",
+      "ja": "鍛造またはプレス方向に直角に可動である型ダイス，例．軸支されたもの，をもつ鍛造機械，例．スエジング用のもの",
+      "en": "Forging machines working with die jaws, e.g. pivoted, movable laterally of the forging or pressing direction, e.g. for swaging",
+      "count": 301,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J7/20": {
+      "code": "B21J7/20",
+      "level": 1,
+      "parent": "B21J7/00",
+      "ja": "ハンマーに対する駆動装置；それに対する伝達装置",
+      "en": "Drives for hammers; Transmission means therefor",
+      "count": 101,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J7/22": {
+      "code": "B21J7/22",
+      "level": 2,
+      "parent": "B21J7/20",
+      "ja": "パワーハンマー用のもの",
+      "en": "for power hammers",
+      "count": 113,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J7/24": {
+      "code": "B21J7/24",
+      "level": 3,
+      "parent": "B21J7/22",
+      "ja": "蒸気，空気または他の気体の圧力による操作",
+      "en": "operated by steam, air, or other gaseous pressure",
+      "count": 1098,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J7/26": {
+      "code": "B21J7/26",
+      "level": 4,
+      "parent": "B21J7/24",
+      "ja": "内燃機関による操作",
+      "en": "operated by internal combustion",
+      "count": 107,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J7/28": {
+      "code": "B21J7/28",
+      "level": 3,
+      "parent": "B21J7/22",
+      "ja": "水圧または液圧による操作",
+      "en": "operated by hydraulic or liquid pressure",
+      "count": 679,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J7/30": {
+      "code": "B21J7/30",
+      "level": 3,
+      "parent": "B21J7/22",
+      "ja": "電磁器による操作",
+      "en": "operated by electro-magnets",
+      "count": 182,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J7/32": {
+      "code": "B21J7/32",
+      "level": 3,
+      "parent": "B21J7/22",
+      "ja": "回転駆動による操作，例．電気モータによる操作",
+      "en": "operated by rotary drive, e.g. electric motor",
+      "count": 240,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J7/34": {
+      "code": "B21J7/34",
+      "level": 3,
+      "parent": "B21J7/22",
+      "ja": "ハンマおよびアンビル，いわゆるカロンタータップ，の両方を操作するもの",
+      "en": "operating both the hammer and the anvil, so-called counter-tup",
+      "count": 202,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J7/36": {
+      "code": "B21J7/36",
+      "level": 2,
+      "parent": "B21J7/20",
+      "ja": "ドロップハンマー用のもの",
+      "en": "for drop hammers",
+      "count": 236,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J7/38": {
+      "code": "B21J7/38",
+      "level": 3,
+      "parent": "B21J7/36",
+      "ja": "蒸気，空気または他のガス圧による駆動",
+      "en": "driven by steam, air, or other gaseous pressure",
+      "count": 56,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J7/40": {
+      "code": "B21J7/40",
+      "level": 3,
+      "parent": "B21J7/36",
+      "ja": "水圧または他の液圧による駆動",
+      "en": "driven by hydraulic or liquid pressure",
+      "count": 76,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J7/42": {
+      "code": "B21J7/42",
+      "level": 3,
+      "parent": "B21J7/36",
+      "ja": "回転駆動による操作，例．電気モータ",
+      "en": "operated by rotary drive, e.g. electric motors",
+      "count": 61,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J7/44": {
+      "code": "B21J7/44",
+      "level": 4,
+      "parent": "B21J7/42",
+      "ja": "ベルト，ロープ，鋼索，チェーンを装備するもの",
+      "en": "equipped with belts, ropes, cables, chains",
+      "count": 192,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J7/46": {
+      "code": "B21J7/46",
+      "level": 2,
+      "parent": "B21J7/20",
+      "ja": "先行のサブグループの一つに限定されない鍛造用ハンマーに特に適用される制御装置",
+      "en": "Control devices specially adapted to forging hammers, not restricted to one of the preceding subgroups",
+      "count": 478,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J9/00": {
+      "code": "B21J9/00",
+      "level": 0,
+      "parent": "B21J",
+      "ja": "鍛造プレス",
+      "en": "Forging presses",
+      "count": 708,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J9/02": {
+      "code": "B21J9/02",
+      "level": 1,
+      "parent": "B21J9/00",
+      "ja": "特殊な設計または構造",
+      "en": "Special design or construction",
+      "count": 4679,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J9/04": {
+      "code": "B21J9/04",
+      "level": 2,
+      "parent": "B21J9/02",
+      "ja": "ピアシングプレス",
+      "en": "Piercing presses",
+      "count": 475,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J9/06": {
+      "code": "B21J9/06",
+      "level": 2,
+      "parent": "B21J9/02",
+      "ja": "スウェイジングプレス；アプセプティングプレス",
+      "en": "Swawing presses; Upsetting presses",
+      "count": 2998,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J9/08": {
+      "code": "B21J9/08",
+      "level": 3,
+      "parent": "B21J9/06",
+      "ja": "素材を加熱するための部分をもつ装置（電気的加熱要素Ｈ０５Ｂ）",
+      "en": "equipped with devices for heating the workpiece(electric heating elements <b>H05B</b>)",
+      "count": 767,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J9/10": {
+      "code": "B21J9/10",
+      "level": 1,
+      "parent": "B21J9/00",
+      "ja": "鍛造プレスの駆動",
+      "en": "Drives for forging presses",
+      "count": 329,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J9/12": {
+      "code": "B21J9/12",
+      "level": 2,
+      "parent": "B21J9/10",
+      "ja": "水圧または液圧による操作",
+      "en": "operated by hydraulic or liquid pressure",
+      "count": 2142,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J9/14": {
+      "code": "B21J9/14",
+      "level": 3,
+      "parent": "B21J9/12",
+      "ja": "電気的な力を同時に作用させるもの",
+      "en": "in conjunction with electric power",
+      "count": 126,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J9/16": {
+      "code": "B21J9/16",
+      "level": 3,
+      "parent": "B21J9/12",
+      "ja": "蒸気またはガス圧を同時に作用させるもの",
+      "en": "in conjunction with steam or gas power",
+      "count": 109,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J9/18": {
+      "code": "B21J9/18",
+      "level": 2,
+      "parent": "B21J9/10",
+      "ja": "歯車連動機構を用いる操作，例．レバースピンドル，クランクシャフト，偏心輪，トグルレバー，ラック棒",
+      "en": "operated by making use of gearing mechanisms, e.g. levers, spindles, crankshafts, eccentrics, toggle-levers, rack bars",
+      "count": 1977,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J9/20": {
+      "code": "B21J9/20",
+      "level": 2,
+      "parent": "B21J9/10",
+      "ja": "先行のサブグループの一つに限定されないもので鍛造プレスに特に適用される制御装置",
+      "en": "Control devices specially adapted to forging presses not restricted to one of the preceding subgroups",
+      "count": 1708,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J11/00": {
+      "code": "B21J11/00",
+      "level": 0,
+      "parent": "B21J",
+      "ja": "鍛造プレスと併用する鍛造ハンマー；ハンマリングとプレスの装備を持った鍛造用機械",
+      "en": "Forging hammers combined with forging presses; Forging machines with provision for hammering and pressing",
+      "count": 229,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J13/00": {
+      "code": "B21J13/00",
+      "level": 0,
+      "parent": "B21J",
+      "ja": "鍛造，プレスまたはハンマリングに使用する機械部品",
+      "en": "Details of machines for forging, pressing, or hammering",
+      "count": 7099,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J13/02": {
+      "code": "B21J13/02",
+      "level": 1,
+      "parent": "B21J13/00",
+      "ja": "ダイスまたはそれを固定するもの［２］",
+      "en": "Dies or mountings therefor",
+      "count": 20340,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J13/03": {
+      "code": "B21J13/03",
+      "level": 2,
+      "parent": "B21J13/02",
+      "ja": "ダイス固定具［２］",
+      "en": "Die mountings",
+      "count": 3222,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J13/04": {
+      "code": "B21J13/04",
+      "level": 1,
+      "parent": "B21J13/00",
+      "ja": "機枠；案内装置",
+      "en": "Frames; Guides",
+      "count": 1271,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J13/06": {
+      "code": "B21J13/06",
+      "level": 1,
+      "parent": "B21J13/00",
+      "ja": "ハンマの打面；かなしき；かなしき台",
+      "en": "Hammer tups; Anvils; Anvil blocks",
+      "count": 1625,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J13/08": {
+      "code": "B21J13/08",
+      "level": 1,
+      "parent": "B21J13/00",
+      "ja": "製品または工具を操作するための付属品",
+      "en": "Accessories for handling work or tools",
+      "count": 5991,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J13/10": {
+      "code": "B21J13/10",
+      "level": 2,
+      "parent": "B21J13/08",
+      "ja": "マニプレータ（一般Ｂ２５Ｊ）",
+      "en": "Manipulators(in general <b>B25J</b>)",
+      "count": 5806,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J13/12": {
+      "code": "B21J13/12",
+      "level": 3,
+      "parent": "B21J13/10",
+      "ja": "回転装置",
+      "en": "Turning means",
+      "count": 1237,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J13/14": {
+      "code": "B21J13/14",
+      "level": 2,
+      "parent": "B21J13/08",
+      "ja": "排除装置",
+      "en": "Ejecting devices",
+      "count": 5283,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J15/00": {
+      "code": "B21J15/00",
+      "level": 0,
+      "parent": "B21J",
+      "ja": "リベット締め",
+      "en": "Riveting",
+      "count": 2130,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J15/02": {
+      "code": "B21J15/02",
+      "level": 1,
+      "parent": "B21J15/00",
+      "ja": "リベット締めの方法",
+      "en": "Riveting procedures",
+      "count": 3414,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J15/04": {
+      "code": "B21J15/04",
+      "level": 2,
+      "parent": "B21J15/02",
+      "ja": "ホローリベットの機械的リベット締め",
+      "en": "Riveting hollow rivets mechanically",
+      "count": 1436,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J15/06": {
+      "code": "B21J15/06",
+      "level": 2,
+      "parent": "B21J15/02",
+      "ja": "水圧，液圧またはガス圧の手段によるホローリベットのリベット締め",
+      "en": "Riveting hollow rivets by means of hydraulic, liquid, or gas pressure",
+      "count": 569,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J15/08": {
+      "code": "B21J15/08",
+      "level": 2,
+      "parent": "B21J15/02",
+      "ja": "頭部を形成するようにリベットの一端に熱を加えるようにしたリベット締め",
+      "en": "Riveting by applying heat to the end parts of the rivets to enable heads to be formed",
+      "count": 342,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J15/10": {
+      "code": "B21J15/10",
+      "level": 1,
+      "parent": "B21J15/00",
+      "ja": "リベット締め機（電気的加熱要素Ｈ０５Ｂ）",
+      "en": "Riveting machines(electric heating elements <b>H05B</b>)",
+      "count": 6484,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J15/12": {
+      "code": "B21J15/12",
+      "level": 2,
+      "parent": "B21J15/10",
+      "ja": "供給運動に加えてある運動，例．スピン，を行う工具または工具部品をもつもの",
+      "en": "with tools or tool parts having a movement additional to the feed movement, e.g. spin",
+      "count": 1356,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J15/14": {
+      "code": "B21J15/14",
+      "level": 2,
+      "parent": "B21J15/10",
+      "ja": "特定の製品をリベット締めするために特に適用されるもの，例．ブレーキライニング装置",
+      "en": "specially adapted for riveting specific articles, e.g. brake lining machines",
+      "count": 3684,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J15/16": {
+      "code": "B21J15/16",
+      "level": 2,
+      "parent": "B21J15/10",
+      "ja": "リベット締め機用の駆動装置；そのための伝動装置",
+      "en": "Drives for riveting machines; Transmission means therefor",
+      "count": 1571,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J15/18": {
+      "code": "B21J15/18",
+      "level": 3,
+      "parent": "B21J15/16",
+      "ja": "空気圧または他のガス圧による操作，例．爆発圧力",
+      "en": "operated by air pressure or other gas pressure, e.g. explosion pressure",
+      "count": 1314,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J15/20": {
+      "code": "B21J15/20",
+      "level": 3,
+      "parent": "B21J15/16",
+      "ja": "水圧または他の液圧による操作",
+      "en": "operated by hydraulic or liquid pressure",
+      "count": 1182,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J15/22": {
+      "code": "B21J15/22",
+      "level": 3,
+      "parent": "B21J15/16",
+      "ja": "水圧または液圧とガス圧の両方を用いる操作",
+      "en": "operated by both hydraulic or liquid pressure and gas pressure",
+      "count": 412,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J15/24": {
+      "code": "B21J15/24",
+      "level": 3,
+      "parent": "B21J15/16",
+      "ja": "電磁器による操作",
+      "en": "operated by electro-magnets",
+      "count": 220,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J15/26": {
+      "code": "B21J15/26",
+      "level": 3,
+      "parent": "B21J15/16",
+      "ja": "回転駆動装置による操作，例．電動モータによるもの",
+      "en": "operated by rotary drive, e.g. by electric motor",
+      "count": 1076,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J15/28": {
+      "code": "B21J15/28",
+      "level": 2,
+      "parent": "B21J15/10",
+      "ja": "リベット締め機に特に適用される制御装置であって前記のサブグループのうち１つに限定されないもの",
+      "en": "Control devices specially adapted to riveting machines not restricted to one of the preceding subgroups",
+      "count": 1984,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J15/30": {
+      "code": "B21J15/30",
+      "level": 2,
+      "parent": "B21J15/10",
+      "ja": "特殊な要素，例．支持装置；ポータブルリベット締め機に特に適用される吊り下げ装置",
+      "en": "Particular elements, e.g. supports; Suspension equipment specially adapted for portable riveters",
+      "count": 2544,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J15/32": {
+      "code": "B21J15/32",
+      "level": 3,
+      "parent": "B21J15/30",
+      "ja": "供給装置を用いるかまたは用いずして所定位置にリベットをそう入するかまたは保持するための装置",
+      "en": "Devices for inserting or holding rivets in position with or without feeding arrangements",
+      "count": 5225,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J15/34": {
+      "code": "B21J15/34",
+      "level": 4,
+      "parent": "B21J15/32",
+      "ja": "管状のリベットをそう入する為の装置",
+      "en": "for installing tubular rivets",
+      "count": 370,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J15/36": {
+      "code": "B21J15/36",
+      "level": 2,
+      "parent": "B21J15/10",
+      "ja": "リベットセット，例．頭部を成形するための工具；ホローリベットの拡がる部分に適用するマンドレル",
+      "en": "Rivet sets, i.e. tools for forming heads; Mandrels for expanding parts of hollow rivets",
+      "count": 1838,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J15/38": {
+      "code": "B21J15/38",
+      "level": 1,
+      "parent": "B21J15/00",
+      "ja": "リベットを用いて接合する際に使用するための付属具，例．鍛縮するためのやっとこ；リベットのための手道具",
+      "en": "Accessories for use in connection with riveting, e.g. pliers for upsetting; Hand tools for riveting",
+      "count": 8702,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J15/40": {
+      "code": "B21J15/40",
+      "level": 2,
+      "parent": "B21J15/38",
+      "ja": "リベットの頭を成形するためのもの",
+      "en": "for forming rivet heads",
+      "count": 185,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J15/42": {
+      "code": "B21J15/42",
+      "level": 2,
+      "parent": "B21J15/38",
+      "ja": "ともにリベット締めされる部片のための特別な把持装置，例．リベット用穴を通して作用するもの",
+      "en": "Special clamping devices for workpieces to be riveted together, e.g. operating through the rivet holes",
+      "count": 2680,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J15/44": {
+      "code": "B21J15/44",
+      "level": 2,
+      "parent": "B21J15/38",
+      "ja": "リベット用穴の位置ぎめ装置",
+      "en": "Rivet hole positioners",
+      "count": 685,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J15/46": {
+      "code": "B21J15/46",
+      "level": 2,
+      "parent": "B21J15/38",
+      "ja": "チューブ結合を行うためのリベットの位置ぎめ装置",
+      "en": "Positioners for rivets for making tube joints",
+      "count": 61,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J15/48": {
+      "code": "B21J15/48",
+      "level": 2,
+      "parent": "B21J15/38",
+      "ja": "リベットのコーキング装置",
+      "en": "Devices for caulking rivets",
+      "count": 96,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J15/50": {
+      "code": "B21J15/50",
+      "level": 2,
+      "parent": "B21J15/38",
+      "ja": "リベットの除去または切断装置",
+      "en": "Removing or cutting devices for rivets",
+      "count": 622,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J17/00": {
+      "code": "B21J17/00",
+      "level": 0,
+      "parent": "B21J",
+      "ja": "鍛造用の炉（熱処理のための炉Ｃ２１Ｄ９／００；炉一般Ｆ２７）",
+      "en": "Forge furnaces(furnaces for heat treatment <b>C21D9/00</b>; furnaces in general <b>F27</b>)",
+      "count": 1592,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J17/02": {
+      "code": "B21J17/02",
+      "level": 1,
+      "parent": "B21J17/00",
+      "ja": "電気的な加熱（電気的加熱要素Ｈ０５Ｂ）",
+      "en": "electrically heated(electric heating elements <b>H05B</b>)",
+      "count": 435,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J19/00": {
+      "code": "B21J19/00",
+      "level": 0,
+      "parent": "B21J",
+      "ja": "鍛冶屋以外には使用されない鍛冶のための必需品",
+      "en": "Blacksmiths' requisites not otherwise provided for",
+      "count": 71,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J19/02": {
+      "code": "B21J19/02",
+      "level": 1,
+      "parent": "B21J19/00",
+      "ja": "炉；炉のみに特に使用する空気の供給装置",
+      "en": "Hearths; Air supply arrangements specially adapted therefor",
+      "count": 255,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    },
+    "B21J19/04": {
+      "code": "B21J19/04",
+      "level": 1,
+      "parent": "B21J19/00",
+      "ja": "アンビル；関連品目",
+      "en": "Anvils; Associated items",
+      "count": 95,
+      "sourceFile": "ipc_B21J.txt",
+      "kind": "ipc"
+    }
+  }
+}

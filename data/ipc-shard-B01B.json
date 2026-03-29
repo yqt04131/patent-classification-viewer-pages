@@ -1,0 +1,86 @@
+{
+  "generatedAt": "2026-03-20T02:17:46.047Z",
+  "total": 8,
+  "entries": {
+    "B01B": {
+      "code": "B01B",
+      "level": 0,
+      "parent": "B01",
+      "ja": "沸騰；沸騰装置",
+      "en": "BOILING; BOILING APPARATUS",
+      "count": 109,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B01": {
+      "code": "B01",
+      "level": 0,
+      "parent": "B",
+      "ja": "物理的または化学的方法または装置一般<br><br><b><ul>注</ul></b><br>以下に示す注は，分類表のこの部分での使用を助ける；これらは，いかなる場合にも修正して読むべきでない。<br>（１）このサブセクションにおいて，異なる材料，例．異なる物質，大きさ，または状態，に関する分離は次のサブクラスに優先的に分類される：<br>Ｂ０１Ｄ<br>Ｂ０３Ｂ，Ｂ０３Ｃ，Ｂ０３Ｄ<br>Ｂ０４Ｂ，Ｂ０４Ｃ<br>Ｂ０７Ｂ，Ｂ０７Ｃ<br>（２）これらのサブクラスの分類上の特徴は，以下のごとくである：<br>（ｉ）分離されるべき物質の物理的状態<br>（ｉｉ）採用される方法の原理<br>（ｉｉｉ）特別な種類の装置<br>これらの特徴の第１番目のものは，３つのグループに集められる６つの異なった観点を含んでいる。<br>（ａ）液体―液体または液体―気体および気体―気体<br>（ｂ）固体―液体または固体―気体<br>（ｃ）固体―固体<br>（３）これらのサブクラスは，以下の一般的規則に従って用いられる：<br>―Ｂ０１Ｄは，固体―固体以外の分離が関係するかぎり最も一般的なサブクラスとなる。<br>―固体から固体を分離する装置は，たとえその装置が空気力のもの，特に風力テーブルまたは風力ジグ，であってもその関係する工程が鉱山技術の意味で“洗鉱”に相当するものとみなされる場合はＢ０３Ｂに包含される。ふるいそれ自体はこのサブクラスには包含されず，たとえそれが湿式法に用いられても，Ｂ０７Ｂに分類される。乾式法による固体から固体を分離するすべての他の装置はＢ０７Ｂに分類される。<br>―もし，分離が，選別されるべき材料または物品のある特性を検出または測定した結果として起こるならば，それはＢ０７Ｃに分類される。<br>―また，同位元素の分離は，どのような方法または装置が用いられようとも，Ｂ０１Ｄ５９／００に分類することに注意すべきである。<br><br><b><ul>サブクラス内の索引</ul></b><br>液体／液体，液体／気体，または気体／気体の分離<br>方法<br>一般　Ｂ０１Ｄ<br>遠心力によるもの，遠心分離器または自由渦装置を用いるもの　Ｂ０１Ｄ<br>磁気または静電気効果を用いるもの　Ｂ０３Ｃ<br>装置<br>一般　Ｂ０１Ｄ<br>遠心力によるもの，遠心分離器または自由渦装置を用いるもの　Ｂ０４Ｂ，Ｂ０４Ｃ<br>磁気または静電気効果を用いるもの　Ｂ０３Ｃ<br>固体／液体または固体／気体の分離<br>方法<br>一般　Ｂ０１Ｄ<br>遠心力によるもの　Ｂ０１Ｄ<br>遠心分離器または自由渦装置を用いるもの　Ｂ０１Ｄ<br>磁気または静電気効果を用いるもの　Ｂ０３Ｃ<br>装置<br>一般　Ｂ０１Ｄ<br>遠心力によるもの　Ｂ０１Ｄ<br>遠心分離器または自由渦装置を用いるもの　Ｂ０４Ｂ，Ｂ０４Ｃ<br>磁気または静電気効果を用いるもの　Ｂ０３Ｃ<br>固体／固体の分離<br>方法<br>乾式法<br>一括分級一般　Ｂ０７Ｂ<br>個別分級　Ｂ０７Ｃ<br>篩にかけるもの，空気力分級　Ｂ０７Ｂ<br>風力テーブルまたは風力ジグを用いるもの　Ｂ０３Ｂ<br>磁気効果または静電気効果によるもの　Ｂ０３Ｃ<br>遠心力によるもの　Ｂ０７Ｂ<br>遠心分離器または自由渦装置を用いるもの　Ｂ０７Ｂ<br>湿式法<br>一般　Ｂ０３Ｂ<br>浮遊選別，差別沈降　Ｂ０３Ｄ<br>篩にかけるもの　Ｂ０７Ｂ<br>結合＝乾式法－湿式法　Ｂ０３Ｂ<br>固体／固体の分離<br>装置<br>乾式法<br>一括分級一般　Ｂ０７Ｂ<br>個別分級　Ｂ０７Ｃ<br>篩にかけるもの，空気力分級　Ｂ０７Ｂ<br>風力テーブルまたは風力ジグを用いるもの　Ｂ０３Ｂ<br>磁気効果または静電気効果によるもの　Ｂ０３Ｃ<br>遠心力によるもの　Ｂ０７Ｂ<br>遠心分離器または自由渦装置を用いるもの　Ｂ０４Ｂ，Ｂ０４Ｃ<br>湿式法<br>一般　Ｂ０３Ｂ<br>浮遊選別，差別沈降　Ｂ０３Ｄ<br>篩にかけるもの　Ｂ０７Ｂ<br>結合＝乾式法－湿式法　Ｂ０３Ｂ",
+      "en": "<br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">LIQUID/LIQUID, LIQUID/GAS OR GAS/GAS SEPARATION<tr><td width=\"70%\">Method<tr><td width=\"70%\">General operations</td><td><b><b>B01D</b></b></td></tr><tr><td width=\"70%\">by centrifugal force, using centrifuges or free-vortex apparatus</td><td><b><b>B01D</b></b></td></tr></tr><tr><td width=\"70%\">using magnetic or electrostatic effect</td><td><b><b>B03C</b></b></td></tr></tr></tr></tr><tr><td width=\"70%\">Apparatus<tr><td width=\"70%\">General operations</td><td><b><b>B01D</b></b></td></tr><tr><td width=\"70%\">by centrifugal force, using centrifuges or free-vortex apparatus</td><td><b><b>B04B</b>, <b>B04C</b></b></td></tr></tr><tr><td width=\"70%\">using magnetic or electrostatic effect</td><td><b><b>B03C</b></b></td></tr></tr></tr></tr></tr><tr><td width=\"70%\">SOLID/LIQUID OR SOLID/GAS SEPARATION<tr><td width=\"70%\">Method<tr><td width=\"70%\">General operations</td><td><b><b>B01D</b></b></td></tr><tr><td width=\"70%\">by centrifugal force</td><td><b><b>B01D</b></b></td></tr><tr><td width=\"70%\">using centrifuges or free-vortex apparatus</td><td><b><b>B01D</b></b></td></tr></tr></tr><tr><td width=\"70%\">using magnetic or electrostatic effect</td><td><b><b>B03C</b></b></td></tr></tr></tr></tr><tr><td width=\"70%\">Apparatus<tr><td width=\"70%\">General operations</td><td><b><b>B01D</b></b></td></tr><tr><td width=\"70%\">by centrifugal force</td><td><b><b>B01D</b></b></td></tr><tr><td width=\"70%\">using centrifuges or free-vortex apparatus</td><td><b><b>B04B</b>, <b>B04C</b></b></td></tr></tr></tr><tr><td width=\"70%\">using magnetic or electrostatic effect</td><td><b><b>B03C</b></b></td></tr></tr></tr></tr></tr><tr><td width=\"70%\">SOLID/SOLID SEPARATION<tr><td width=\"70%\">Method<tr><td width=\"70%\">Dry methods<tr><td width=\"70%\">material in bulk</td><td><b><b>B07B</b></b></td></tr></tr><tr><td width=\"70%\">Individual sorting</td><td><b><b>B07C</b></b></td></tr><tr><td width=\"70%\">Screening, sifting, pneumatic sorting</td><td><b><b>B07B</b></b></td></tr><tr><td width=\"70%\">using pneumatic tables or jigs</td><td><b><b>B03B</b></b></td></tr></tr></tr><tr><td width=\"70%\">by magnetic or electrostatic effect</td><td><b><b>B03C</b></b></td></tr></tr><tr><td width=\"70%\">by centrifugal force</td><td><b><b>B07B</b></b></td></tr><tr><td width=\"70%\">using centrifuges or free-vortex apparatus</td><td><b><b>B07B</b></b></td></tr></tr></tr></tr></tr><tr><td width=\"70%\">Wet methods<tr><td width=\"70%\">General operations</td><td><b><b>B03B</b></b></td></tr><tr><td width=\"70%\">flotation, differential sedimentation</td><td><b><b>B03D</b></b></td></tr></tr><tr><td width=\"70%\">screening</td><td><b><b>B07B</b></b></td></tr></tr></tr></tr><tr><td width=\"70%\">Combinations Dry methods - wet methods</td><td><b><b>B03B</b></b></td></tr></tr></tr><tr><td width=\"70%\">Apparatus<tr><td width=\"70%\">Dry methods<tr><td width=\"70%\">material in bulk</td><td><b><b>B07B</b></b></td></tr></tr><tr><td width=\"70%\">Individual sorting</td><td><b><b>B07C</b></b></td></tr><tr><td width=\"70%\">Screening, sifting, pneumatic sorting</td><td><b><b>B07B</b></b></td></tr><tr><td width=\"70%\">using pneumatic tables or jigs</td><td><b><b>B03B</b></b></td></tr></tr></tr><tr><td width=\"70%\">by magnetic or electrostatic effect</td><td><b><b>B03C</b></b></td></tr></tr><tr><td width=\"70%\">by centrifugal force</td><td><b><b>B07B</b></b></td></tr><tr><td width=\"70%\">using centrifuges or free-vortex apparatus</td><td><b><b>B04B</b>, <b>B04C</b></b></td></tr></tr></tr></tr></tr><tr><td width=\"70%\">Wet methods<tr><td width=\"70%\">General operations</td><td><b><b>B03B</b></b></td></tr><tr><td width=\"70%\">flotation, differential sedimentation</td><td><b><b>B03D</b></b></td></tr></tr><tr><td width=\"70%\">screening</td><td><b><b>B07B</b></b></td></tr></tr></tr></tr><tr><td width=\"70%\">Combinations Dry methods - wet methods</td><td><b><b>B03B</b></b></td></tr></tr></tr></tr></table>PHYSICAL OR CHEMICAL PROCESSES OR APPARATUS IN GENERAL",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B": {
+      "code": "B",
+      "level": 0,
+      "parent": null,
+      "ja": "処理操作；運輸",
+      "en": "PERFORMING OPERATIONS; TRANSPORTING",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B01B1/00": {
+      "code": "B01B1/00",
+      "level": 0,
+      "parent": "B01B",
+      "ja": "沸騰；物理的または化学的目的のための沸騰装置［２００６．０１］",
+      "en": "Boiling; Boiling apparatus for physical or chemical purposes",
+      "count": 1924,
+      "sourceFile": "ipc_B01B.txt",
+      "kind": "ipc"
+    },
+    "B01B1/02": {
+      "code": "B01B1/02",
+      "level": 1,
+      "parent": "B01B1/00",
+      "ja": "発泡防止［２００６．０１］",
+      "en": "Preventing foaming",
+      "count": 96,
+      "sourceFile": "ipc_B01B.txt",
+      "kind": "ipc"
+    },
+    "B01B1/04": {
+      "code": "B01B1/04",
+      "level": 2,
+      "parent": "B01B1/02",
+      "ja": "化学的手段によるもの",
+      "en": "by chemical means",
+      "count": 93,
+      "sourceFile": "ipc_B01B.txt",
+      "kind": "ipc"
+    },
+    "B01B1/06": {
+      "code": "B01B1/06",
+      "level": 1,
+      "parent": "B01B1/00",
+      "ja": "突沸防止",
+      "en": "Preventing bumping",
+      "count": 88,
+      "sourceFile": "ipc_B01B.txt",
+      "kind": "ipc"
+    },
+    "B01B1/08": {
+      "code": "B01B1/08",
+      "level": 1,
+      "parent": "B01B1/00",
+      "ja": "還流凝縮器つき沸騰装置",
+      "en": "Boiling apparatus provided with reflux condenser",
+      "count": 102,
+      "sourceFile": "ipc_B01B.txt",
+      "kind": "ipc"
+    }
+  }
+}

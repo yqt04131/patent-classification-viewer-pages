@@ -1,0 +1,1026 @@
+{
+  "generatedAt": "2026-03-20T02:17:46.096Z",
+  "total": 102,
+  "entries": {
+    "B21K": {
+      "code": "B21K",
+      "level": 0,
+      "parent": "B21",
+      "ja": "鍛造またはプレスによる金属製品の製造，例．馬蹄，リベット，ボルトまたは車輪（本質的には材料の除去が行われない金属板の加工による特殊物品の製造Ｂ２１Ｄ；線材の製造Ｂ２１Ｆ；ピン，針，釘の製造Ｂ２１Ｇ；圧延による特殊物品の製造Ｂ２１Ｈ；鍛造機械，プレス機械，ハンマーリング機械一般Ｂ２１Ｊ；チェーンの製造Ｂ２１Ｌ；被せ金Ｂ２３Ｋ）<br><br><b><ul>注</ul></b><br>このサブクラスは特別な物を製造するに際して使用するため特に採用された鍛造，プレス，またはハンマリングのみを包含する。そしてそれらの加工は同じ機械で行う補助加工以外の別の金属加工とは本質的に何ら関係をもたない。<br><br><b><ul>サブクラス内の索引</ul></b><br>機械要素または工具の製造　１／００，３／００，５／００，１９／００<br>レールの製造　７／００，９／００<br>錠前部品または鍛治部品の製造　１３／００，１５／００<br>その他の物品の製造　７／００，１１／００，１７／００，２１／００，２３／００<br>機械要素の結合したもの　２５／００<br>付属品，補助装置　２７／００，２９／００，３１／００",
+      "en": "MAKING FORGED OR PRESSED METAL PRODUCTS, e.g. HORSE-SHOES, RIVETS, BOLTS OR WHEELS(making particular articles by working sheet metal without essentially removing material <b>B21D</b>; processing wire <b>B21F</b>; making pins, needles or nails <b>B21G</b>; making particular articles by rolling <b>B21H</b>; forging machines, pressing machines, hammering machines, in general <b>B21J</b>; making chains <b>B21L</b>; plating <b>B23K</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>This subclass <u>covers</u> only forging, pressing, or hammering operations which are specially adapted for use in the manufacture of particular objects and which are not essentially combined with any different metal-working operation unless the latter is a subsidiary operation performed in the same machine.</li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">MAKING MACHINE ELEMENTS OR TOOLS </td><td><b><b>1/00</b>, <b>3/00</b>, <b>5/00</b>, <b>19/00</b></b></td></tr></tr><tr><td width=\"70%\">MAKING RAILS </td><td><b><b>7/00</b>, <b>9/00</b></b></td></tr></tr><tr><td width=\"70%\">MAKING LOCKSMITHS' OR BLACKSMITHS' GOODS </td><td><b><b>13/00</b>, <b>15/00</b></b></td></tr></tr><tr><td width=\"70%\">MAKING OTHER ARTICLES </td><td><b><b>7/00</b>, <b>11/00</b>, <b>17/00</b>, <b>21/00</b>, <b>23/00</b></b></td></tr></tr><tr><td width=\"70%\">UNITING OF COMPONENTS </td><td><b><b>25/00</b></b></td></tr></tr><tr><td width=\"70%\">ACCESSORIES, AUXILIARY DEVICES </td><td><b><b>27/00</b>, <b>29/00</b>, <b>31/00</b></b></td></tr></tr></table>",
+      "count": 329,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B21": {
+      "code": "B21",
+      "level": 0,
+      "parent": "B",
+      "ja": "本質的には材料の除去が行なわれない機械的金属加工；金属の打抜き<br><br><b><ul>注</ul></b><br>（１）このクラスは，以下のものを包含する：<br>―金属材料の加工；［２０１５．０１］<br>―適用される方法が金属材料加工に用いられるものと類似し且つ他の分類箇所に包含されないものに限る非金属材料の加工。［２０１５．０１］<br>（２）このクラスは，以下のものを包含しない：<br>―クラスＢ２１の異ったサブクラスによって包含される作業の組合せ，これはサブクラスＢ２３Ｐに包含される；<br>―クラスＢ２１のどれか特定のサブクラスによって包含される作業と，他のクラスによって包含される作業，例．材料の除去を伴う作業，の組合せ，これもサブクラスＢ２３Ｐに包含される。ただし，もし他のクラスによって包含される作業がＢ２１の単一のサブクラスに適正に包含される作業に対し補助的である場合は，その組合せはＢ２１のサブクラスに分類される。",
+      "en": "MECHANICAL METAL-WORKING WITHOUT ESSENTIALLY REMOVING MATERIAL; PUNCHING METAL; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This class <u>covers</u>: <ul><li>working of metallic materials;</li><li>working of non-metallic materials, provided that the methods applied are similar to those used in metal-working and not provided for elsewhere.</li></ul></li><li>This class <u>does not cover</u>: <ul><li>combinations of operations covered by different subclasses of class <b>B21</b>, which are covered by subclass <b>B23P</b>;</li><li>combinations of operations covered by any particular subclass of class <b>B21</b> with operations covered by other classes, e.g. with operations involving removal of material, which are also covered by subclass <b>B23P</b>, except that if the operations covered by the other classes are subsidiary to the operations properly covered by a single subclass of <b>B21</b> the combination is classified in that subclass.</li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B": {
+      "code": "B",
+      "level": 0,
+      "parent": null,
+      "ja": "処理操作；運輸",
+      "en": "PERFORMING OPERATIONS; TRANSPORTING",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B21K1/00": {
+      "code": "B21K1/00",
+      "level": 0,
+      "parent": "B21K",
+      "ja": "機械要素の製造",
+      "en": "Making machine elements",
+      "count": 750,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K1/02": {
+      "code": "B21K1/02",
+      "level": 1,
+      "parent": "B21K1/00",
+      "ja": "球，ロール，またはローラー，例．ベアリングのためのもの",
+      "en": "balls, rolls, or rollers, e.g. for bearings",
+      "count": 881,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K1/04": {
+      "code": "B21K1/04",
+      "level": 1,
+      "parent": "B21K1/00",
+      "ja": "ボールレース",
+      "en": "ball-races",
+      "count": 1175,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K1/05": {
+      "code": "B21K1/05",
+      "level": 1,
+      "parent": "B21K1/00",
+      "ja": "軸受保持器［２］",
+      "en": "cages for bearings",
+      "count": 303,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K1/06": {
+      "code": "B21K1/06",
+      "level": 1,
+      "parent": "B21K1/00",
+      "ja": "軸またはシャフト",
+      "en": "axles or shafts",
+      "count": 1790,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K1/08": {
+      "code": "B21K1/08",
+      "level": 2,
+      "parent": "B21K1/06",
+      "ja": "クランクシャフト",
+      "en": "crankshafts",
+      "count": 1084,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K1/10": {
+      "code": "B21K1/10",
+      "level": 2,
+      "parent": "B21K1/06",
+      "ja": "円筒状のもの",
+      "en": "of cylindrical form",
+      "count": 364,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K1/12": {
+      "code": "B21K1/12",
+      "level": 2,
+      "parent": "B21K1/06",
+      "ja": "断面が特別な形状をしたもの",
+      "en": "of specially-shaped cross-section",
+      "count": 727,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K1/14": {
+      "code": "B21K1/14",
+      "level": 1,
+      "parent": "B21K1/00",
+      "ja": "取付具",
+      "en": "fittings",
+      "count": 1354,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K1/16": {
+      "code": "B21K1/16",
+      "level": 2,
+      "parent": "B21K1/14",
+      "ja": "パイプまたはホース継手の部品",
+      "en": "parts of pipe or hose couplings",
+      "count": 563,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K1/18": {
+      "code": "B21K1/18",
+      "level": 1,
+      "parent": "B21K1/00",
+      "ja": "ピストンまたはプランジャー",
+      "en": "pistons or plungers",
+      "count": 565,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K1/20": {
+      "code": "B21K1/20",
+      "level": 1,
+      "parent": "B21K1/00",
+      "ja": "弁部品",
+      "en": "valve parts",
+      "count": 688,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K1/22": {
+      "code": "B21K1/22",
+      "level": 2,
+      "parent": "B21K1/20",
+      "ja": "ポペット弁，例．内燃機関用",
+      "en": "poppet valves, e.g. for internal-combustion engines",
+      "count": 494,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K1/24": {
+      "code": "B21K1/24",
+      "level": 2,
+      "parent": "B21K1/20",
+      "ja": "弁体；弁座",
+      "en": "valve bodies; valve seats",
+      "count": 524,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K1/26": {
+      "code": "B21K1/26",
+      "level": 1,
+      "parent": "B21K1/00",
+      "ja": "ハウジングまたは支持部品，例．軸ハウジング，エンジン取付具",
+      "en": "housings or supporting parts, e.g. axle housings, engine mountings",
+      "count": 348,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K1/28": {
+      "code": "B21K1/28",
+      "level": 1,
+      "parent": "B21K1/00",
+      "ja": "車輪；ディスク",
+      "en": "wheels; discs",
+      "count": 911,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K1/30": {
+      "code": "B21K1/30",
+      "level": 2,
+      "parent": "B21K1/28",
+      "ja": "歯車をもつもの",
+      "en": "with gear-teeth",
+      "count": 3092,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K1/32": {
+      "code": "B21K1/32",
+      "level": 2,
+      "parent": "B21K1/28",
+      "ja": "デイスク，例．ディスク車輪",
+      "en": "discs, e.g. disc wheels",
+      "count": 732,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K1/34": {
+      "code": "B21K1/34",
+      "level": 2,
+      "parent": "B21K1/28",
+      "ja": "スポーク車輪",
+      "en": "wheels with spokes",
+      "count": 61,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K1/36": {
+      "code": "B21K1/36",
+      "level": 2,
+      "parent": "B21K1/28",
+      "ja": "翼をもつもの",
+      "en": "with blades",
+      "count": 135,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K1/38": {
+      "code": "B21K1/38",
+      "level": 2,
+      "parent": "B21K1/28",
+      "ja": "リム；タイヤ",
+      "en": "rims; tyres",
+      "count": 319,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K1/40": {
+      "code": "B21K1/40",
+      "level": 2,
+      "parent": "B21K1/28",
+      "ja": "ハブ",
+      "en": "hubs",
+      "count": 639,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K1/42": {
+      "code": "B21K1/42",
+      "level": 2,
+      "parent": "B21K1/28",
+      "ja": "プーリー，例．ケーブルプーリー",
+      "en": "pulleys, e.g. cable pulleys",
+      "count": 208,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K1/44": {
+      "code": "B21K1/44",
+      "level": 1,
+      "parent": "B21K1/00",
+      "ja": "ボルト，スタッド，またはそれに類するもの（ネジ山の形成Ｂ２１Ｋ１／５６；Ｕボルトの製造Ｂ２１Ｋ１／７４）",
+      "en": "bolts, studs, or the like(making screw-thread <b>B21K1/56</b>; making U-bolts <b>B21K1/74</b>)",
+      "count": 2508,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K1/46": {
+      "code": "B21K1/46",
+      "level": 2,
+      "parent": "B21K1/44",
+      "ja": "頭をもつもの",
+      "en": "with heads",
+      "count": 1754,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K1/48": {
+      "code": "B21K1/48",
+      "level": 3,
+      "parent": "B21K1/46",
+      "ja": "ハンマをもった加工機械，例．頭部形成のための軸心方向の打撃",
+      "en": "Machines working with hammers, e.g. beating in a radial direction, for forming heads",
+      "count": 386,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K1/50": {
+      "code": "B21K1/50",
+      "level": 3,
+      "parent": "B21K1/46",
+      "ja": "成形した頭部のトリミングまたはせん断，例．ダイスによる仕上げ",
+      "en": "Trimming or shearing formed heads, e.g. working with dies",
+      "count": 288,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K1/52": {
+      "code": "B21K1/52",
+      "level": 2,
+      "parent": "B21K1/44",
+      "ja": "両端加工，例．両側に頭部を有するもの（頭部の形成Ｂ２１Ｋ１／４６）",
+      "en": "double-ended, e.g. with heads on both ends(forming heads <b>B21K1/46</b>)",
+      "count": 95,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K1/54": {
+      "code": "B21K1/54",
+      "level": 2,
+      "parent": "B21K1/44",
+      "ja": "溝またはノッチのあるもの",
+      "en": "with grooves or notches",
+      "count": 189,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K1/56": {
+      "code": "B21K1/56",
+      "level": 1,
+      "parent": "B21K1/00",
+      "ja": "ネジ山要素［２］",
+      "en": "screw-threaded elements",
+      "count": 948,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K1/58": {
+      "code": "B21K1/58",
+      "level": 1,
+      "parent": "B21K1/00",
+      "ja": "リベット",
+      "en": "rivets",
+      "count": 627,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K1/60": {
+      "code": "B21K1/60",
+      "level": 2,
+      "parent": "B21K1/58",
+      "ja": "中空または半中空リベット",
+      "en": "hollow or semi-hollow rivets",
+      "count": 194,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K1/62": {
+      "code": "B21K1/62",
+      "level": 2,
+      "parent": "B21K1/58",
+      "ja": "特別なリベット，例．電気接点をもつもの",
+      "en": "special rivets, e.g. with electrical contacts",
+      "count": 146,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K1/64": {
+      "code": "B21K1/64",
+      "level": 1,
+      "parent": "B21K1/00",
+      "ja": "ナット（ネジ山の形成Ｂ２１Ｋ１／５６）",
+      "en": "nuts(making screw-thread <b>B21K1/56</b>)",
+      "count": 1122,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K1/66": {
+      "code": "B21K1/66",
+      "level": 2,
+      "parent": "B21K1/64",
+      "ja": "帯状材からのもの",
+      "en": "from strip bars",
+      "count": 64,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K1/68": {
+      "code": "B21K1/68",
+      "level": 2,
+      "parent": "B21K1/64",
+      "ja": "丸棒または角棒からのもの",
+      "en": "from round or profiled bars",
+      "count": 322,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K1/70": {
+      "code": "B21K1/70",
+      "level": 2,
+      "parent": "B21K1/64",
+      "ja": "特殊形状のもの，例．もどり止ナット，蝶ナット",
+      "en": "of special shape, e.g. self-locking nuts, wing nuts",
+      "count": 794,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K1/72": {
+      "code": "B21K1/72",
+      "level": 1,
+      "parent": "B21K1/00",
+      "ja": "フック，例．クレーン用フック，軌道用犬釘（釘の製造一般Ｂ２１Ｇ）",
+      "en": "hooks, e.g. crane hooks, railway track spikes(making nails in general <b>B21G</b>)",
+      "count": 146,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K1/74": {
+      "code": "B21K1/74",
+      "level": 1,
+      "parent": "B21K1/00",
+      "ja": "フォーム状部品または２以上のリムをもった部品，例．Ｕボルト，アンカー",
+      "en": "forked members or members with two or more limbs, e.g. U-bolts, anchors",
+      "count": 330,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K1/76": {
+      "code": "B21K1/76",
+      "level": 1,
+      "parent": "B21K1/00",
+      "ja": "先のグループの一つに列挙されない要素",
+      "en": "elements not mentioned in one of the preceding groups",
+      "count": 2443,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K3/00": {
+      "code": "B21K3/00",
+      "level": 0,
+      "parent": "B21K",
+      "ja": "１／００のサブグループに包含されないエンジンまたはそれに類似する機械の部品の製造；プロペラまたはそれに類するものの製造",
+      "en": "Making engine or like machine parts not covered by <b>B21K1/00</b>; Making propellers or the like",
+      "count": 526,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K3/02": {
+      "code": "B21K3/02",
+      "level": 1,
+      "parent": "B21K3/00",
+      "ja": "シリンダヘッド",
+      "en": "cylinder heads",
+      "count": 44,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K3/04": {
+      "code": "B21K3/04",
+      "level": 1,
+      "parent": "B21K3/00",
+      "ja": "翼，例．タービン用；翼のつけ根のアップセット",
+      "en": "blades, e.g. for turbines; Upsetting of blade roots",
+      "count": 962,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K5/00": {
+      "code": "B21K5/00",
+      "level": 0,
+      "parent": "B21K",
+      "ja": "工具または工具部品の製造，例．プライヤー",
+      "en": "Making tools or tool parts, e.g. pliers",
+      "count": 348,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K5/02": {
+      "code": "B21K5/02",
+      "level": 1,
+      "parent": "B21K5/00",
+      "ja": "ドリルまたはその他穴をあけるまたは仕上げる工具",
+      "en": "drilling-tools or other tools for making or working on holes",
+      "count": 300,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K5/04": {
+      "code": "B21K5/04",
+      "level": 2,
+      "parent": "B21K5/02",
+      "ja": "ねじれ工具，例．ドリル，リーマ",
+      "en": "twisting-tools, e.g. drills, reamers",
+      "count": 286,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K5/06": {
+      "code": "B21K5/06",
+      "level": 2,
+      "parent": "B21K5/02",
+      "ja": "ドレッシング，例．ロックドリルの研磨",
+      "en": "Dressing, e.g. sharpening rock drills",
+      "count": 361,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K5/08": {
+      "code": "B21K5/08",
+      "level": 2,
+      "parent": "B21K5/02",
+      "ja": "折込み用工具",
+      "en": "drifting tools",
+      "count": 18,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K5/10": {
+      "code": "B21K5/10",
+      "level": 2,
+      "parent": "B21K5/02",
+      "ja": "ドリルビットシャンクの成形",
+      "en": "Forming drill-bit shanks",
+      "count": 35,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K5/12": {
+      "code": "B21K5/12",
+      "level": 1,
+      "parent": "B21K5/00",
+      "ja": "その他切断工具（家庭用刃物細工品Ｂ２１Ｋ１１／００）",
+      "en": "other cutting tools(cutlery wares <b>B21K11/00</b>)",
+      "count": 137,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K5/14": {
+      "code": "B21K5/14",
+      "level": 1,
+      "parent": "B21K5/00",
+      "ja": "手ハンマー",
+      "en": "hand hammers",
+      "count": 36,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K5/16": {
+      "code": "B21K5/16",
+      "level": 1,
+      "parent": "B21K5/00",
+      "ja": "ナットをまわすための工具",
+      "en": "tools for turning nuts",
+      "count": 186,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K5/18": {
+      "code": "B21K5/18",
+      "level": 1,
+      "parent": "B21K5/00",
+      "ja": "ハンドルとその部品",
+      "en": "handles or parts therefor",
+      "count": 28,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K5/20": {
+      "code": "B21K5/20",
+      "level": 1,
+      "parent": "B21K5/00",
+      "ja": "凹部または凸部を有するダイス面の仕上加工",
+      "en": "Making working faces of dies, either recessed or outstanding",
+      "count": 317,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K7/00": {
+      "code": "B21K7/00",
+      "level": 0,
+      "parent": "B21K",
+      "ja": "鉄道付属品の製造；車両部品の製造",
+      "en": "Making railway appurtenances; Making vehicle parts",
+      "count": 396,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K7/02": {
+      "code": "B21K7/02",
+      "level": 1,
+      "parent": "B21K7/00",
+      "ja": "軌道のための部品（犬釘類Ｂ２１Ｋ１／７２）",
+      "en": "parts for permanent way(spikes <b>B21K1/72</b>)",
+      "count": 110,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K7/04": {
+      "code": "B21K7/04",
+      "level": 2,
+      "parent": "B21K7/02",
+      "ja": "転てつ器の先端",
+      "en": "switch tongues",
+      "count": 27,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K7/06": {
+      "code": "B21K7/06",
+      "level": 2,
+      "parent": "B21K7/02",
+      "ja": "スリーパー",
+      "en": "sleepers",
+      "count": 9,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K7/08": {
+      "code": "B21K7/08",
+      "level": 2,
+      "parent": "B21K7/02",
+      "ja": "レールのベースプレート，例．チェア",
+      "en": "base plates for rails, e.g. chairs",
+      "count": 27,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K7/10": {
+      "code": "B21K7/10",
+      "level": 2,
+      "parent": "B21K7/02",
+      "ja": "レールジョイント",
+      "en": "rail joints",
+      "count": 28,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K7/12": {
+      "code": "B21K7/12",
+      "level": 1,
+      "parent": "B21K7/00",
+      "ja": "機関車または車両のための部品，例．フレーム，アンダーフレーム",
+      "en": "parts for locomotives or vehicles, e.g. frames, underframes",
+      "count": 709,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K7/14": {
+      "code": "B21K7/14",
+      "level": 2,
+      "parent": "B21K7/12",
+      "ja": "ブレーキ用索具またはブレーキ部品［２］",
+      "en": "brake rigging or brake parts",
+      "count": 84,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K9/00": {
+      "code": "B21K9/00",
+      "level": 0,
+      "parent": "B21K",
+      "ja": "鉄道付属品，例．レール，の修理",
+      "en": "Reconditioning railroad accessories, e.g. rails",
+      "count": 157,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K11/00": {
+      "code": "B21K11/00",
+      "level": 0,
+      "parent": "B21K",
+      "ja": "家庭用刃物細工品の製造；庭具またはそれに類するもの",
+      "en": "Making cutlery wares; Making garden tools or the like",
+      "count": 352,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K11/02": {
+      "code": "B21K11/02",
+      "level": 1,
+      "parent": "B21K11/00",
+      "ja": "ナイフ",
+      "en": "knives",
+      "count": 173,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K11/04": {
+      "code": "B21K11/04",
+      "level": 1,
+      "parent": "B21K11/00",
+      "ja": "スプーン；テーブルフォーク",
+      "en": "spoons; table forks",
+      "count": 38,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K11/06": {
+      "code": "B21K11/06",
+      "level": 1,
+      "parent": "B21K11/00",
+      "ja": "はさみ",
+      "en": "scissors",
+      "count": 27,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K11/08": {
+      "code": "B21K11/08",
+      "level": 1,
+      "parent": "B21K11/00",
+      "ja": "小かま；草かりがま",
+      "en": "sickles; scythes",
+      "count": 13,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K11/10": {
+      "code": "B21K11/10",
+      "level": 1,
+      "parent": "B21K11/00",
+      "ja": "おの；つるはし",
+      "en": "axes; picks",
+      "count": 16,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K11/12": {
+      "code": "B21K11/12",
+      "level": 1,
+      "parent": "B21K11/00",
+      "ja": "踏みぐわ；シャベル",
+      "en": "spades; shovels",
+      "count": 17,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K11/14": {
+      "code": "B21K11/14",
+      "level": 1,
+      "parent": "B21K11/00",
+      "ja": "くまで；ガーデンフォーク",
+      "en": "rakes; garden forks",
+      "count": 15,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K13/00": {
+      "code": "B21K13/00",
+      "level": 0,
+      "parent": "B21K",
+      "ja": "錠前部品の製造，例．箱の取手",
+      "en": "Making locksmiths' goods, e.g. handles for cases",
+      "count": 71,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K13/02": {
+      "code": "B21K13/02",
+      "level": 1,
+      "parent": "B21K13/00",
+      "ja": "ちょうつがい",
+      "en": "hinges",
+      "count": 116,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K15/00": {
+      "code": "B21K15/00",
+      "level": 0,
+      "parent": "B21K",
+      "ja": "鍛冶品の製造",
+      "en": "Making blacksmiths' goods",
+      "count": 14,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K15/02": {
+      "code": "B21K15/02",
+      "level": 1,
+      "parent": "B21K15/00",
+      "ja": "馬蹄；その付属品",
+      "en": "horse-shoes; accessories therefor",
+      "count": 172,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K15/04": {
+      "code": "B21K15/04",
+      "level": 2,
+      "parent": "B21K15/02",
+      "ja": "蹄鉄のすべり止めくぎ",
+      "en": "caulks",
+      "count": 19,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K15/06": {
+      "code": "B21K15/06",
+      "level": 1,
+      "parent": "B21K15/00",
+      "ja": "はき物のための金属付属品，例．耐摩耗板",
+      "en": "metal attachments for footwear, e.g. wear-resisting plates",
+      "count": 10,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K17/00": {
+      "code": "B21K17/00",
+      "level": 0,
+      "parent": "B21K",
+      "ja": "スポーツ物品，例．スケート，の製造",
+      "en": "Making sport articles, e.g. skates",
+      "count": 193,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K19/00": {
+      "code": "B21K19/00",
+      "level": 0,
+      "parent": "B21K",
+      "ja": "農機具物品の製造",
+      "en": "Making articles for agricultural machinery",
+      "count": 130,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K19/02": {
+      "code": "B21K19/02",
+      "level": 1,
+      "parent": "B21K19/00",
+      "ja": "すき板；すきべら",
+      "en": "plough blades; ploughshares",
+      "count": 36,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K21/00": {
+      "code": "B21K21/00",
+      "level": 0,
+      "parent": "B21K",
+      "ja": "グループＢ２１Ｋ１／００～Ｂ２１Ｋ１９／００の単一のサブグループに包含されない中空物品の製造（本質的に板材または均一な薄肉の管からの製造Ｂ２１Ｄ，例．Ｂ２１Ｄ４１／００，Ｂ２１Ｄ５１／００）",
+      "en": "Making hollow articles not covered by any single one of groups <b>B21K1/00 to B21K19/00</b> (essentially from sheet-metal or uniform thin-walled tubes <b>B21D</b>, e.g. <b>B21D41/00</b>, <b>B21D51/00</b>)",
+      "count": 915,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K21/02": {
+      "code": "B21K21/02",
+      "level": 1,
+      "parent": "B21K21/00",
+      "ja": "中空物品を製造するための半加工品としての円盤状または帽状体素材の製造，例．深絞りまたは押出し用の素材",
+      "en": "Producing blanks in the shape of discs or cups as semi-finished articles for making hollow articles, e.g. to be deep-drawn or extruded",
+      "count": 240,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K21/04": {
+      "code": "B21K21/04",
+      "level": 1,
+      "parent": "B21K21/00",
+      "ja": "薄肉厚の中空物品の形成，例．薬莢",
+      "en": "Shaping thin-walled hollow articles, e.g. cartridges",
+      "count": 326,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K21/06": {
+      "code": "B21K21/06",
+      "level": 1,
+      "parent": "B21K21/00",
+      "ja": "厚肉厚の中空物品の形成，例．弾丸",
+      "en": "Shaping thick-walled hollow articles, e.g. projectiles",
+      "count": 590,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K21/08": {
+      "code": "B21K21/08",
+      "level": 1,
+      "parent": "B21K21/00",
+      "ja": "軸心方向に異なった断面積をもった中空物品の形成，例．ノズル，スパークプラグ",
+      "en": "Shaping hollow articles with different cross-section in longitudinal direction, e.g. nozzles, spark-plugs",
+      "count": 749,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K21/10": {
+      "code": "B21K21/10",
+      "level": 2,
+      "parent": "B21K21/08",
+      "ja": "円錐形またはベル形物品，例．インシュレーターキャップ",
+      "en": "cone-shaped or bell-shaped articles, e.g. insulator caps",
+      "count": 106,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K21/12": {
+      "code": "B21K21/12",
+      "level": 1,
+      "parent": "B21K21/00",
+      "ja": "中空物品の端部形成",
+      "en": "Shaping end portions of hollow articles",
+      "count": 502,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K21/14": {
+      "code": "B21K21/14",
+      "level": 2,
+      "parent": "B21K21/12",
+      "ja": "密閉または実質的に密閉された端部をもつもの，例．薬莢の底",
+      "en": "closed or substantially-closed ends, e.g. cartridge bottoms",
+      "count": 142,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K21/16": {
+      "code": "B21K21/16",
+      "level": 1,
+      "parent": "B21K21/00",
+      "ja": "断面の形状についての中空物体の改造（端部の改造だけＢ２１Ｋ２１／１２）",
+      "en": "Remodelling hollow bodies with respect to the shape of the cross-section(remodelling end portions only <b>B21K21/12</b>)",
+      "count": 370,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K23/00": {
+      "code": "B21K23/00",
+      "level": 0,
+      "parent": "B21K",
+      "ja": "その他の物の製造",
+      "en": "Making other articles",
+      "count": 736,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K23/02": {
+      "code": "B21K23/02",
+      "level": 1,
+      "parent": "B21K23/00",
+      "ja": "無限軌道の部品，例．軌道ガイド，支柱（板材からの製造Ｂ２１Ｄ）",
+      "en": "members of endless tracks, e.g. track guides, shoes(making from sheet-metal <b>B21D</b>)",
+      "count": 101,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K23/04": {
+      "code": "B21K23/04",
+      "level": 1,
+      "parent": "B21K23/00",
+      "ja": "フランジ付き部品（Ｂ２１Ｋ１／２８が優先；フランジ付管Ｂ２１Ｄ）",
+      "en": "flanged articles(<b>B21K1/28</b> takes precedence; flanging tubes <b>B21D</b>)",
+      "count": 466,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K25/00": {
+      "code": "B21K25/00",
+      "level": 0,
+      "parent": "B21K",
+      "ja": "一体的な部材，例．タービン車とシャフト，埋め金のあるすべり止め釘，を形成するために，個々の構成要素の成形を伴うかまたは伴わずにそれらを結合すること（しまりばめまたはプレスばめによる結合Ｂ２３Ｐ１１／０２，Ｂ２３Ｐ１９／０２）",
+      "en": "Uniting components to form integral members, e.g. turbine wheels and shafts, caulks with inserts, with or without shaping of the components(uniting by interference- or press-fitting <b>B23P11/02</b>, <b>B23P19/02</b>)",
+      "count": 1945,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K27/00": {
+      "code": "B21K27/00",
+      "level": 0,
+      "parent": "B21K",
+      "ja": "操作装置，例．送込み，整列，送出し装置；切断方法；切断装置",
+      "en": "Handling devices, e.g. for feeding, aligning, discharging; Cutting-off means; Arrangement thereof",
+      "count": 4717,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K27/02": {
+      "code": "B21K27/02",
+      "level": 1,
+      "parent": "B21K27/00",
+      "ja": "棒，線，ストリップの供給装置",
+      "en": "Feeding devices for rods, wire, or strips",
+      "count": 1313,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K27/04": {
+      "code": "B21K27/04",
+      "level": 2,
+      "parent": "B21K27/02",
+      "ja": "連続作業するもの",
+      "en": "allowing successive working steps",
+      "count": 558,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K27/06": {
+      "code": "B21K27/06",
+      "level": 1,
+      "parent": "B21K27/00",
+      "ja": "切断方法；切断装置",
+      "en": "Cutting-off means; Arrangement thereof",
+      "count": 1301,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K29/00": {
+      "code": "B21K29/00",
+      "level": 0,
+      "parent": "B21K",
+      "ja": "工程中の加熱または冷却のための装置（鍛造またはプレス用金属素材を用意するための装置Ｂ２１Ｊ１／０６；加熱装置一般は適切なサブクラス，例．Ｈ０５Ｂ，を参照）",
+      "en": "Arrangements for heating or cooling during processing(for preparing metal stock to be forged or pressed <b>B21J1/06</b>; heating equipment in general, <u>see</u> the appropriate subclasses, e.g. <b>H05B</b>)",
+      "count": 4561,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    },
+    "B21K31/00": {
+      "code": "B21K31/00",
+      "level": 0,
+      "parent": "B21K",
+      "ja": "工具キャリヤーの位置調整用制御装置",
+      "en": "Control devices specially adapted for positioning tool carriers",
+      "count": 92,
+      "sourceFile": "ipc_B21K.txt",
+      "kind": "ipc"
+    }
+  }
+}

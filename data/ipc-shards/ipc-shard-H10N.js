@@ -1,0 +1,1116 @@
+window.IPC_SHARD_H10N = {
+  "generatedAt": "2026-03-20T02:17:47.332Z",
+  "total": 111,
+  "entries": {
+    "H10N": {
+      "code": "H10N",
+      "level": 0,
+      "parent": "H10",
+      "ja": "他に分類されない電気的固体装置［２０２３．０１］<br><br><b><ul>注</ul></b><br>このサブクラスでは、セクションＣの注（３）の周期表中に示されたＩ～ＶＩＩＩ族のシステムが用いられる。<br><br><b><ul>サブクラス内の索引</ul></b><br>熱電装置または熱磁気装置<br>熱電装置　１０／００，１５／００<br>熱磁気装置　１５／００<br>集積装置または複数の装置の組立体　１９／００<br>圧電装置，電歪装置または磁歪装置<br>圧電装置または電歪装置　３０／００<br>磁歪装置　３５／００<br>集積装置または複数の装置の組立体　３９／００<br>電流磁気装置または類似の磁気効果装置電流<br>磁気装置　５０／００<br>ホール効果装置　５２／００<br>集積装置または複数の装置の組立体　５９／００<br>超電導装置<br>超電導装置　６０／００<br>集積装置または複数の装置の組立体　６９／００<br>他の電気的固体装置<br>電位障壁を有しない，整流，増幅，発振またはスイッチングに特に適した，電位障壁または表面障壁を有しない固体装置　７０／００<br>集積装置または複数の装置の組立体　７９／００<br>バルク負性抵抗効果装置　８０／００<br>集積装置または複数の装置の組立体　８９／００<br>他に分類されない電気的固体薄膜または厚膜装置　９７／００<br>このサブクラスの他のグループに分類されない主題事項　９９／００",
+      "en": "ELECTRIC SOLID-STATE DEVICES NOT OTHERWISE PROVIDED FOR; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this subclass, the periodic system used is the I to VIII group system indicated in the Periodic Table under Note (3) of section <b>C</b>.</li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">THERMOELECTRIC OR THERMOMAGNETIC DEVICES<tr><td width=\"70%\">Thermoelectric devices</td><td><b><b>10/00</b>, <b>15/00</b></b></td></tr></tr><tr><td width=\"70%\">Thermomagnetic devices</td><td><b><b>15/00</b></b></td></tr></tr><tr><td width=\"70%\">Integrated devices or assemblies of multiple devices</td><td><b><b>19/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">PIEZOELECTRIC, ELECTROSTRICTIVE OR MAGNETOSTRICTIVE DEVICES<tr><td width=\"70%\">Piezoelectric or electrostrictive devices</td><td><b><b>30/00</b></b></td></tr></tr><tr><td width=\"70%\">Magnetostrictive devices</td><td><b><b>35/00</b></b></td></tr></tr><tr><td width=\"70%\">Integrated devices or assemblies of multiple devices</td><td><b><b>39/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">GALVANOMAGNETIC OR SIMILAR MAGNETIC-EFFECT DEVICES<tr><td width=\"70%\">Galvanomagnetic devices</td><td><b><b>50/00</b></b></td></tr></tr><tr><td width=\"70%\">Hall-effect devices</td><td><b><b>52/00</b></b></td></tr></tr><tr><td width=\"70%\">Integrated devices or assemblies of multiple devices</td><td><b><b>59/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">SUPERCONDUCTING DEVICES<tr><td width=\"70%\">Superconducting devices</td><td><b><b>60/00</b></b></td></tr></tr><tr><td width=\"70%\">Integrated devices or assemblies of multiple devices</td><td><b><b>69/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">OTHER ELECTRIC SOLID-STATE DEVICES<tr><td width=\"70%\">Solid-state devices having no potential barriers and specially adapted for rectifying, amplifying, oscillating or switching</td><td><b><b>70/00</b></b></td></tr></tr><tr><td width=\"70%\">Integrated devices or assemblies of multiple devices</td><td><b><b>79/00</b></b></td></tr></tr><tr><td width=\"70%\">Bulk negative-resistance effect devices</td><td><b><b>80/00</b></b></td></tr></tr><tr><td width=\"70%\">Integrated devices or assemblies of multiple devices</td><td><b><b>89/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">ELECTRIC SOLID-STATE THIN-FILM OR THICK-FILM DEVICES, NOT OTHERWISE PROVIDED FOR</td><td><b><b>97/00</b></b></td></tr></tr><tr><td width=\"70%\">SUBJECT MATTER NOT PROVIDED FOR IN OTHER GROUPS OF THIS SUBCLASS</td><td><b><b>99/00</b></b></td></tr></tr></table>",
+      "count": 0,
+      "sourceFile": "ipc_H.txt",
+      "kind": "ipc"
+    },
+    "H10": {
+      "code": "H10",
+      "level": 0,
+      "parent": "H",
+      "ja": "半導体装置；他に分類されない電気的固体装置［２０２３．０１］",
+      "en": "SEMICONDUCTOR DEVICES; ELECTRIC SOLID-STATE DEVICES NOT OTHERWISE PROVIDED FOR",
+      "count": 0,
+      "sourceFile": "ipc_H.txt",
+      "kind": "ipc"
+    },
+    "H": {
+      "code": "H",
+      "level": 0,
+      "parent": null,
+      "ja": "電気<br><br><b><ul>注</ul></b><br>（利用にあたっての基本原則と一般的指示）<br>Ｉ．セクションＨは以下のものを包含する：<br>（ａ）基本的電気素子，これは全ての電気ユニットと，装置や回路の一般的な機械的構成を包含しており，その中にはプリント配線と称されるものに各種の基本素子を組み立てたものも含まれる。またこれは他に包含されない場合には，ある程度までこれらの素子の製造をも包含する；<br>（ｂ）発電，これは，発電，変換および配電と共にそのための装置の制御を包含する；<br>（ｃ）電気の応用，これは以下のものを包含する：<br>（ｉ）一般的な利用技術，すなわち．電気加熱と電気照明回路の利用技術；<br>（ｉｉ）厳密な意味で電気的か電子的かいずれかの特定の利用技術で国際特許分類の他のセクションに包含されないもの，これは以下のものを含んでいる：<br>（１）電気的光源，これはレーザーを含む；<br>（２）電気的なＸ線技術；<br>（３）電気的なプラズマ技術，および帯電粒子または中性子の発生および加速；<br>（ｄ）基本電子回路およびその制御；<br>（ｅ）電気通信技術；これは電気―機械変換器一般を含む；<br>（ｆ）物品や上記素子を作るための特定の材料の使用，この点については指針の８８項から９０項を参照されたい。<br>ＩＩ．このセクションにおいては，下記の一般規則が適用される：<br>（ａ）上記Ｉ（ｃ）で述べた例外を除いて，国際特許分類のセクションＨ以外のいずれかのセクションに分類される特殊な操作，方法，装置，物体または物品に特有の電気的観点または部分は，常にその操作，方法，装置，物体または物品のためのサブクラスに分類されるか，または類似の性質を有する技術主題に関する共通的な特徴がクラス・レベルで展開されている場合には，それは，該技術主題のための一般的電気的な応用を完全に包含するサブクラスに，その操作，方法，装置，物体または物品と関連して分類される；<br>（ｂ）この様な電気的な応用には，一般的なものであれ特殊なものであれ，次の事項が含まれる。<br>（ｉ）Ａ６１における治療方法および装置；<br>（ｉｉ）Ｂ０１，Ｂ０３およびＢ２３Ｋにおける各種の実験室または工業的操作に用いられる電気的方法および装置；<br>（ｉｉｉ）セクションＢの“運輸”のサブセクションにおける車両一般および特殊な車両への電気の供給，電気的推進および電気照明；<br>（ｉｖ）Ｆ０２Ｐにおける内燃機関の電気点火系，およびＦ２３Ｑにおける燃焼装置一般のもの；<br>（ｖ）セクションＧにおける全ての電気的部分，すなわち，電気変量の測定器を含む測定装置，検査，信号および計算。このＧセクションにおいて電気とは，一般に手段として扱われるものでそれ自体目的として扱われるものではない；<br>（ｃ）全ての電気的な応用は一般的なものであれ特殊なものであれ，それが含んでいる電気的“基本的素子”に関して言えば，“基本的な電気”の観点がセクションＨ（上記Ｉ（ａ）参照）にあることを前提としている。この規則は，セクションＨ自身にある上記Ｉ（ｃ）で示した電気の応用に対しても有効である。",
+      "en": "ELECTRICITY; <br><br><b><u>Note(s)</u></b><br><br><ul><li>These Notes cover the basic principles and general instructions for use of section <b>H</b>.<ul><li>Section <b>H</b> <u>covers</u>: <ul><li>basic electric elements, which cover all electric units and the general mechanical structure of apparatus and circuits, including the assembly of various basic elements into what are called printed circuits and also cover to a certain extent the manufacture of these elements (when not covered elsewhere);</li><li>generation of electricity, which covers the generation, conversion and distribution of electricity together with the controlling of the corresponding gear;</li><li>applied electricity, which <u>covers</u>: <ul><li>general utilisation techniques, viz. those of electric heating and electric lighting circuits;</li><li>some special utilisation techniques, either electric or electronic in the strict sense, which are not covered by other sections of the Classification, including: <ul><li>electric light sources, including lasers;</li><li>electric X-ray technique;</li><li>electric plasma technique and the generation and acceleration of electrically charged particles or neutrons;</li></ul></li></ul></li><li>basic electronic circuits and their control;</li><li>radio or electric communication technique;</li><li>the use of a specified material for the manufacture of the article or element described. In this connection, paragraphs 88 to 90 of the Guide should be referred to.</li></ul></li><li>In this section, the following general rules apply: <ul><li>Subject to the exceptions stated in I(c), above, any electric aspect or part peculiar to a particular operation, process, apparatus, object or article, classified in one of the sections of the Classification other than section <b>H</b>, is always classified in the subclass for that operation, process, apparatus, object or article. Where common characteristics concerning technical subjects of similar nature have been brought out at class level, the electric aspect or part is classified, in conjunction with the operation, process, apparatus, object or article, in a subclass which covers entirely the general electrical applications for the technical subject in question;</li><li>The electrical applications referred to under (a), above, either general or particular, include: <ul><li>the therapeutic processes and apparatus, in class <b>A61</b>;</li><li>the electric processes and apparatus used in various laboratory or industrial operations, in classes <b>B01</b> and <b>B03</b> and in subclass <b>B23K</b>;</li><li>the electricity supply, electric propulsion and electric lighting of vehicles in general and of particular vehicles, in the subsection \"Transporting\" of section <b>B</b>;</li><li>the electric ignition systems of internal-combustion engines, in subclass <b>F02P</b>, and of combustion apparatus in general, in subclass <b>F23Q</b>;</li><li>the whole electrical part of section <b>G</b>, i.e. measuring devices including apparatus for measuring electric variables, checking, signalling and calculating. Electricity in that section is generally dealt with as a means and not as an end in itself;</li></ul></li><li>All electrical applications, both general and particular, presuppose that the \"basic electricity\" aspect appears in section <b>H</b> (see I(a) above) as regards the electric \"basic elements\" which they comprise. This rule is also valid for applied electricity, referred to in I(c), above, which appears in section <b>H</b> itself.</li></ul></li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_H.txt",
+      "kind": "ipc"
+    },
+    "H10N10/00": {
+      "code": "H10N10/00",
+      "level": 0,
+      "parent": "H10N",
+      "ja": "異種材料の接合からなる熱電装置，すなわちゼーベック効果またはペルチェ効果を示す装置（集積装置または複数の装置の組立体Ｈ１０Ｎ１９／００）［２０２３．０１］<br><br><b><ul>注</ul></b><br>このグループは，　他の熱電効果または熱磁気効果を示すまたは示さない，異種材料の接合からなる熱電装置を包含する［２０２３．０１］",
+      "en": "Thermoelectric devices comprising a junction of dissimilar materials, i.e. devices exhibiting Seebeck or Peltier effects(integrated devices or assemblies of multiple devices <b>H10N19/00</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>This group <u>covers</u> thermoelectric devices comprising a junction of dissimilar materials, with or without other thermoelectric or thermomagnetic effects.</li></ul>",
+      "count": 3957,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N10/01": {
+      "code": "H10N10/01",
+      "level": 1,
+      "parent": "H10N10/00",
+      "ja": "製造または処理［２０２３．０１］",
+      "en": "Manufacture or treatment",
+      "count": 8140,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N10/10": {
+      "code": "H10N10/10",
+      "level": 1,
+      "parent": "H10N10/00",
+      "ja": "ゼーベック効果またはペルチェ効果のみで動作するもの［２０２３．０１］",
+      "en": "operating with only the Peltier or Seebeck effects",
+      "count": 3186,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N10/13": {
+      "code": "H10N10/13",
+      "level": 2,
+      "parent": "H10N10/10",
+      "ja": "接合部の熱交換手段に特徴のあるもの［２０２３．０１］",
+      "en": "characterised by the heat-exchanging means at the junction",
+      "count": 5321,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N10/17": {
+      "code": "H10N10/17",
+      "level": 2,
+      "parent": "H10N10/10",
+      "ja": "装置を形成するセルまたは熱電対の構造または配列に特徴のあるもの［２０２３．０１］",
+      "en": "characterised by the structure or configuration of the cell or thermocouple forming the device",
+      "count": 8385,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N10/80": {
+      "code": "H10N10/80",
+      "level": 1,
+      "parent": "H10N10/00",
+      "ja": "構造的細部［２０２３．０１］",
+      "en": "Constructional details",
+      "count": 2443,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N10/81": {
+      "code": "H10N10/81",
+      "level": 2,
+      "parent": "H10N10/80",
+      "ja": "接合部の構造的細部［２０２３．０１］",
+      "en": "Structural details of the junction",
+      "count": 927,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N10/813": {
+      "code": "H10N10/813",
+      "level": 3,
+      "parent": "H10N10/81",
+      "ja": "分離できる接合部，例．ばねを用いるもの［２０２３．０１］",
+      "en": "the junction being separable, e.g. using a spring",
+      "count": 238,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N10/817": {
+      "code": "H10N10/817",
+      "level": 3,
+      "parent": "H10N10/81",
+      "ja": "分離できない接合部，例．セメント接合されたもの，焼結されたものまたははんだ付けされたもの［２０２３．０１］",
+      "en": "the junction being non- separable, e.g. being cemented, sintered or soldered",
+      "count": 1643,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N10/82": {
+      "code": "H10N10/82",
+      "level": 2,
+      "parent": "H10N10/80",
+      "ja": "相互接続［２０２３．０１］",
+      "en": "Interconnections",
+      "count": 861,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N10/85": {
+      "code": "H10N10/85",
+      "level": 2,
+      "parent": "H10N10/80",
+      "ja": "熱電性の活性材料［２０２３．０１］",
+      "en": "Thermoelectric active materials",
+      "count": 782,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N10/851": {
+      "code": "H10N10/851",
+      "level": 3,
+      "parent": "H10N10/85",
+      "ja": "無機組成物からなるもの［２０２３．０１］",
+      "en": "comprising inorganic compositions",
+      "count": 2078,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N10/852": {
+      "code": "H10N10/852",
+      "level": 4,
+      "parent": "H10N10/851",
+      "ja": "テルル，セレンまたは硫黄からなるもの［２０２３．０１］",
+      "en": "comprising tellurium, selenium or sulfur",
+      "count": 3291,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N10/853": {
+      "code": "H10N10/853",
+      "level": 4,
+      "parent": "H10N10/851",
+      "ja": "ヒ素，アンチモンまたはビスマスからなるもの（Ｈ１０Ｎ１０／８５２が優先）［２０２３．０１］",
+      "en": "comprising arsenic, antimony or bismuth(<b>H10N10/852</b> takes precedence)",
+      "count": 1397,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N10/854": {
+      "code": "H10N10/854",
+      "level": 4,
+      "parent": "H10N10/851",
+      "ja": "金属のみからなるもの（Ｈ１０Ｎ１０／８５２，Ｈ１０Ｎ１０／８５３が優先）［２０２３．０１］",
+      "en": "comprising only metals(<b>H10N10/852</b>, <b>H10N10/853</b> take precedence)",
+      "count": 907,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N10/855": {
+      "code": "H10N10/855",
+      "level": 4,
+      "parent": "H10N10/851",
+      "ja": "ホウ素，炭素，酸素または窒素を含有する化合物からなるもの［２０２３．０１］",
+      "en": "comprising compounds containing boron, carbon, oxygen or nitrogen",
+      "count": 1815,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N10/856": {
+      "code": "H10N10/856",
+      "level": 3,
+      "parent": "H10N10/85",
+      "ja": "有機組成物からなるもの［２０２３．０１］",
+      "en": "comprising organic compositions",
+      "count": 2502,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N10/857": {
+      "code": "H10N10/857",
+      "level": 3,
+      "parent": "H10N10/85",
+      "ja": "材料内部で連続的にまたは不連続的に変化する組成物からなるもの［２０２３．０１］",
+      "en": "comprising compositions changing continuously or discontinuously inside the material",
+      "count": 642,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N15/00": {
+      "code": "H10N15/00",
+      "level": 0,
+      "parent": "H10N",
+      "ja": "異種材料の接合を有しない熱電装置；熱磁気装置，例．ネルンスト－エッチングスハウゼン効果を利用するもの（集積装置または複数の装置の組立体Ｈ１０Ｎ１９／００）［２０２３．０１］",
+      "en": "Thermoelectric devices without a junction of dissimilar materials; Thermomagnetic devices, e.g. using the Nernst-Ettingshausen effect(integrated devices or assemblies of multiple devices <b>H10N19/00</b>)",
+      "count": 1688,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N15/10": {
+      "code": "H10N15/10",
+      "level": 1,
+      "parent": "H10N15/00",
+      "ja": "誘電率の温度変化を利用する熱電装置，例．キュリー温度の上下で作動するもの［２０２３．０１］",
+      "en": "Thermoelectric devices using thermal change of the dielectric constant, e.g. working above and below the Curie point",
+      "count": 1553,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N15/20": {
+      "code": "H10N15/20",
+      "level": 1,
+      "parent": "H10N15/00",
+      "ja": "透磁率の温度変化を利用する熱磁気装置，例．キュリー温度の上下で作動するもの［２０２３．０１］",
+      "en": "Thermomagnetic devices using thermal change of the magnetic permeability, e.g. working above and below the Curie point",
+      "count": 245,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N19/00": {
+      "code": "H10N19/00",
+      "level": 0,
+      "parent": "H10N",
+      "ja": "グループＨ１０Ｎ１０／００～Ｈ１０Ｎ１５／００に包含される，少なくとも１つの熱電素子または熱磁気素子を備える，集積装置または複数の装置の組立体［２０２３．０１］",
+      "en": "Integrated devices, or assemblies of multiple devices, comprising at least one thermoelectric or thermomagnetic element covered by groups <b>H10N10/00 to H10N15/00</b> ",
+      "count": 840,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N30/00": {
+      "code": "H10N30/00",
+      "level": 0,
+      "parent": "H10N",
+      "ja": "圧電装置または電歪装置（集積装置または複数の装置の組立体Ｈ１０Ｎ３９／００）［２０２３．０１］",
+      "en": "Piezoelectric or electrostrictive devices(integrated devices or assemblies of multiple devices <b>H10N39/00</b>)",
+      "count": 11189,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N30/01": {
+      "code": "H10N30/01",
+      "level": 1,
+      "parent": "H10N30/00",
+      "ja": "製造または処理［２０２３．０１］",
+      "en": "Manufacture or treatment",
+      "count": 9482,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N30/02": {
+      "code": "H10N30/02",
+      "level": 2,
+      "parent": "H10N30/01",
+      "ja": "被覆またはケースの形成［２０２３．０１］",
+      "en": "Forming enclosures or casings",
+      "count": 1688,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N30/03": {
+      "code": "H10N30/03",
+      "level": 2,
+      "parent": "H10N30/01",
+      "ja": "圧電部品または電歪部分を含む装置の組み立て［２０２３．０１］",
+      "en": "Assembling devices that include piezoelectric or electrostrictive parts",
+      "count": 695,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N30/04": {
+      "code": "H10N30/04",
+      "level": 2,
+      "parent": "H10N30/01",
+      "ja": "圧電特性または電歪特性を修正する処理，例．分極の特徴，振動の特徴またはモード同調［２０２３．０１］",
+      "en": "Treatments to modify a piezoelectric or electrostrictive property, e.g. polarisation characteristics, vibration characteristics or mode tuning",
+      "count": 760,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N30/045": {
+      "code": "H10N30/045",
+      "level": 3,
+      "parent": "H10N30/04",
+      "ja": "分極方法による［２０２３．０１］",
+      "en": "by polarising",
+      "count": 1963,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N30/05": {
+      "code": "H10N30/05",
+      "level": 2,
+      "parent": "H10N30/01",
+      "ja": "多層圧電装置または電歪装置，またはそれら部品の製造，例．圧電体と電極の積層によるもの［２０２３．０１］",
+      "en": "Manufacture of multilayered piezoelectric or electrostrictive devices, or parts thereof, e.g. by stacking piezoelectric bodies and electrodes",
+      "count": 1013,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N30/053": {
+      "code": "H10N30/053",
+      "level": 3,
+      "parent": "H10N30/05",
+      "ja": "圧電体または電歪体と電極を同時焼結による［２０２３．０１］",
+      "en": "by integrally sintering piezoelectric or electrostrictive bodies and electrodes",
+      "count": 625,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N30/057": {
+      "code": "H10N30/057",
+      "level": 3,
+      "parent": "H10N30/05",
+      "ja": "バルク圧電体または電歪体と電極の積層による［２０２３．０１］",
+      "en": "by stacking bulk piezoelectric or electrostrictive bodies and electrodes",
+      "count": 313,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N30/06": {
+      "code": "H10N30/06",
+      "level": 2,
+      "parent": "H10N30/01",
+      "ja": "電極または相互接続，例．リードまたは端子，の形成［２０２３．０１］",
+      "en": "Forming electrodes or interconnections, e.g. leads or terminals",
+      "count": 3329,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N30/063": {
+      "code": "H10N30/063",
+      "level": 3,
+      "parent": "H10N30/06",
+      "ja": "相互接続，例．積層型圧電装置または積層型電歪装置の接続電極，の形成［２０２３．０１］",
+      "en": "Forming interconnections, e.g. connection electrodes of multilayered piezoelectric or electrostrictive parts",
+      "count": 740,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N30/067": {
+      "code": "H10N30/067",
+      "level": 3,
+      "parent": "H10N30/06",
+      "ja": "積層型圧電装置または積層型電歪装置の単層電極の形成［２０２３．０１］",
+      "en": "Forming single-layered electrodes of multilayered piezoelectric or electrostrictive parts",
+      "count": 703,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N30/07": {
+      "code": "H10N30/07",
+      "level": 2,
+      "parent": "H10N30/01",
+      "ja": "電気素子または他の基台上への，圧電部品または電歪部品，またはそれらの本体の形成［２０２３．０１］",
+      "en": "Forming of piezoelectric or electrostrictive parts or bodies on an electrical element or another base",
+      "count": 336,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N30/071": {
+      "code": "H10N30/071",
+      "level": 3,
+      "parent": "H10N30/07",
+      "ja": "共通基板上への，圧電部品または電歪部品と，半導体素子または他の回路素子との取付け［２０２３．０１］",
+      "en": "Mounting of piezoelectric or electrostrictive parts together with semiconductor elements, or other circuit elements, on a common substrate",
+      "count": 530,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N30/072": {
+      "code": "H10N30/072",
+      "level": 3,
+      "parent": "H10N30/07",
+      "ja": "圧電体または電歪体の積層または接着による［２０２３．０１］",
+      "en": "by laminating or bonding of piezoelectric or electrostrictive bodies",
+      "count": 698,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N30/073": {
+      "code": "H10N30/073",
+      "level": 4,
+      "parent": "H10N30/072",
+      "ja": "金属溶融または接着剤による［２０２３．０１］",
+      "en": "by fusion of metals or by adhesives",
+      "count": 1136,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N30/074": {
+      "code": "H10N30/074",
+      "level": 3,
+      "parent": "H10N30/07",
+      "ja": "圧電層または電歪層の堆積による，例．エアロゾル印刷またはスクリーン印刷［２０２３．０１］",
+      "en": "by depositing piezoelectric or electrostrictive layers, e.g. aerosol or screen printing",
+      "count": 623,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N30/076": {
+      "code": "H10N30/076",
+      "level": 4,
+      "parent": "H10N30/074",
+      "ja": "気相堆積による［２０２３．０１］",
+      "en": "by vapour phase deposition",
+      "count": 1073,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N30/077": {
+      "code": "H10N30/077",
+      "level": 4,
+      "parent": "H10N30/074",
+      "ja": "液相堆積による［２０２３．０１］",
+      "en": "by liquid phase deposition",
+      "count": 594,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N30/078": {
+      "code": "H10N30/078",
+      "level": 5,
+      "parent": "H10N30/077",
+      "ja": "ゾルゲル堆積による［２０２３．０１］",
+      "en": "by sol-gel deposition",
+      "count": 730,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N30/079": {
+      "code": "H10N30/079",
+      "level": 4,
+      "parent": "H10N30/074",
+      "ja": "下地膜を用いる方法，例．成長制御［２０２３．０１］",
+      "en": "using intermediate layers, e.g. for growth control",
+      "count": 905,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N30/08": {
+      "code": "H10N30/08",
+      "level": 2,
+      "parent": "H10N30/01",
+      "ja": "圧電体または電歪体の成形または機械加工［２０２３．０１］",
+      "en": "Shaping or machining of piezoelectric or electrostrictive bodies",
+      "count": 327,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N30/081": {
+      "code": "H10N30/081",
+      "level": 3,
+      "parent": "H10N30/08",
+      "ja": "マスクを用いた塗布または堆積による，例．リフトオフ［２０２３．０１］",
+      "en": "by coating or depositing using masks, e.g. lift-off",
+      "count": 253,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N30/082": {
+      "code": "H10N30/082",
+      "level": 3,
+      "parent": "H10N30/08",
+      "ja": "エッチングによる，例．リソグラフィ［２０２３．０１］",
+      "en": "by etching, e.g. lithography",
+      "count": 1381,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N30/084": {
+      "code": "H10N30/084",
+      "level": 3,
+      "parent": "H10N30/08",
+      "ja": "型成形または押出成形による［２０２３．０１］",
+      "en": "by moulding or extrusion",
+      "count": 384,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N30/085": {
+      "code": "H10N30/085",
+      "level": 3,
+      "parent": "H10N30/08",
+      "ja": "機械加工による［２０２３．０１］",
+      "en": "by machining",
+      "count": 223,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N30/086": {
+      "code": "H10N30/086",
+      "level": 4,
+      "parent": "H10N30/085",
+      "ja": "研磨または研削による［２０２３．０１］",
+      "en": "by polishing or grinding",
+      "count": 445,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N30/088": {
+      "code": "H10N30/088",
+      "level": 4,
+      "parent": "H10N30/085",
+      "ja": "切削またはダイシングによる［２０２３．０１］",
+      "en": "by cutting or dicing",
+      "count": 733,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N30/089": {
+      "code": "H10N30/089",
+      "level": 4,
+      "parent": "H10N30/085",
+      "ja": "パンチングによる［２０２３．０１］",
+      "en": "by punching",
+      "count": 112,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N30/09": {
+      "code": "H10N30/09",
+      "level": 2,
+      "parent": "H10N30/01",
+      "ja": "圧電材料または電歪材料の形成［２０２３．０１］",
+      "en": "Forming piezoelectric or electrostrictive materials",
+      "count": 209,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N30/092": {
+      "code": "H10N30/092",
+      "level": 3,
+      "parent": "H10N30/09",
+      "ja": "複合材料の形成［２０２３．０１］",
+      "en": "Forming composite materials",
+      "count": 750,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N30/093": {
+      "code": "H10N30/093",
+      "level": 3,
+      "parent": "H10N30/09",
+      "ja": "無機材料の形成［２０２３．０１］",
+      "en": "Forming inorganic materials",
+      "count": 3591,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N30/095": {
+      "code": "H10N30/095",
+      "level": 4,
+      "parent": "H10N30/093",
+      "ja": "溶融による［２０２３．０１］",
+      "en": "by melting",
+      "count": 130,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N30/097": {
+      "code": "H10N30/097",
+      "level": 4,
+      "parent": "H10N30/093",
+      "ja": "焼成による［２０２３．０１］",
+      "en": "by sintering",
+      "count": 1627,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N30/098": {
+      "code": "H10N30/098",
+      "level": 3,
+      "parent": "H10N30/09",
+      "ja": "有機材料の形成［２０２３．０１］",
+      "en": "Forming organic materials",
+      "count": 1352,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N30/20": {
+      "code": "H10N30/20",
+      "level": 1,
+      "parent": "H10N30/00",
+      "ja": "電気的入力および機械的出力を有するもの，例．アクチュエータまたは振動子として機能するもの［２０２３．０１］",
+      "en": "with electrical input and mechanical output, e.g. functioning as actuators or vibrators",
+      "count": 22175,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N30/30": {
+      "code": "H10N30/30",
+      "level": 1,
+      "parent": "H10N30/00",
+      "ja": "機械的入力および電気的出力を有するもの，例．発電機またはセンサとして機能するもの［２０２３．０１］",
+      "en": "with mechanical input and electrical output, e.g. functioning as generators or sensors",
+      "count": 7464,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N30/40": {
+      "code": "H10N30/40",
+      "level": 1,
+      "parent": "H10N30/00",
+      "ja": "電気的入力および電気的出力を有するもの，例．変圧器として機能するもの［２０２３．０１］",
+      "en": "with electrical input and electrical output, e.g. functioning as transformers",
+      "count": 2448,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N30/50": {
+      "code": "H10N30/50",
+      "level": 1,
+      "parent": "H10N30/00",
+      "ja": "積層構造または多層構造を有するもの［２０２３．０１］",
+      "en": "having a stacked or multilayer structure",
+      "count": 7315,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N30/60": {
+      "code": "H10N30/60",
+      "level": 1,
+      "parent": "H10N30/00",
+      "ja": "同軸ケーブルの構造を有するもの［２０２３．０１］",
+      "en": "having a coaxial cable structure",
+      "count": 199,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N30/80": {
+      "code": "H10N30/80",
+      "level": 1,
+      "parent": "H10N30/00",
+      "ja": "構造的細部［２０２３．０１］",
+      "en": "Constructional details",
+      "count": 5675,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N30/85": {
+      "code": "H10N30/85",
+      "level": 2,
+      "parent": "H10N30/80",
+      "ja": "圧電性または電歪性の活性材料［２０２３．０１］",
+      "en": "Piezoelectric or electrostrictive active materials",
+      "count": 9148,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N30/853": {
+      "code": "H10N30/853",
+      "level": 3,
+      "parent": "H10N30/85",
+      "ja": "セラミック組成物［２０２３．０１］",
+      "en": "Ceramic compositions",
+      "count": 11266,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N30/857": {
+      "code": "H10N30/857",
+      "level": 3,
+      "parent": "H10N30/85",
+      "ja": "高分子組成物［２０２３．０１］",
+      "en": "Macromolecular compositions",
+      "count": 2777,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N30/87": {
+      "code": "H10N30/87",
+      "level": 2,
+      "parent": "H10N30/80",
+      "ja": "電極または相互接続，例．リードまたは端子［２０２３．０１］",
+      "en": "Electrodes or interconnections, e.g. leads or terminals",
+      "count": 6379,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N30/88": {
+      "code": "H10N30/88",
+      "level": 2,
+      "parent": "H10N30/80",
+      "ja": "取付具；支持具；被覆；ケース［２０２３．０１］",
+      "en": "Mounts; Supports; Enclosures; Casings",
+      "count": 4315,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N35/00": {
+      "code": "H10N35/00",
+      "level": 0,
+      "parent": "H10N",
+      "ja": "磁歪装置（集積装置または複数の装置の組立体Ｈ１０Ｎ３９／００）［２０２３．０１］",
+      "en": "Magnetostrictive devices(integrated devices or assemblies of multiple devices <b>H10N39/00</b>)",
+      "count": 1451,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N35/01": {
+      "code": "H10N35/01",
+      "level": 1,
+      "parent": "H10N35/00",
+      "ja": "製造または処理［２０２３．０１］",
+      "en": "Manufacture or treatment",
+      "count": 425,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N35/80": {
+      "code": "H10N35/80",
+      "level": 1,
+      "parent": "H10N35/00",
+      "ja": "構造的細部［２０２３．０１］",
+      "en": "Constructional details",
+      "count": 318,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N35/85": {
+      "code": "H10N35/85",
+      "level": 2,
+      "parent": "H10N35/80",
+      "ja": "磁歪性の活性材料［２０２３．０１］",
+      "en": "Magnetostrictive active materials",
+      "count": 759,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N39/00": {
+      "code": "H10N39/00",
+      "level": 0,
+      "parent": "H10N",
+      "ja": "グループＨ１０Ｎ３０／００～Ｈ１０Ｎ３５／００に包含される，少なくとも１つの圧電素子，電歪素子または磁歪素子を備える，集積装置または複数の装置の組立体［２０２３．０１］",
+      "en": "Integrated devices, or assemblies of multiple devices, comprising at least one piezoelectric, electrostrictive or magnetostrictive element covered by groups <b>H10N30/00 to H10N35/00</b> ",
+      "count": 982,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N50/00": {
+      "code": "H10N50/00",
+      "level": 0,
+      "parent": "H10N",
+      "ja": "電流磁気装置（ホール効果装置Ｈ１０Ｎ５２／００；集積装置または複数の装置の組立体Ｈ１０Ｎ５９／００）［２０２３．０１］",
+      "en": "Galvanomagnetic devices(Hall-effect devices <b>H10N52/00</b>; integrated devices or assemblies of multiple devices <b>H10N59/00</b>)",
+      "count": 113,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N50/01": {
+      "code": "H10N50/01",
+      "level": 1,
+      "parent": "H10N50/00",
+      "ja": "製造または処理［２０２３．０１］",
+      "en": "Manufacture or treatment",
+      "count": 7258,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N50/10": {
+      "code": "H10N50/10",
+      "level": 1,
+      "parent": "H10N50/00",
+      "ja": "磁気抵抗素子［２０２３．０１］",
+      "en": "Magnetoresistive devices",
+      "count": 15692,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N50/20": {
+      "code": "H10N50/20",
+      "level": 1,
+      "parent": "H10N50/00",
+      "ja": "スピン偏極電流制御装置（磁気抵抗素子Ｈ１０Ｎ５０／１０）［２０２３．０１］",
+      "en": "Spin-polarised current-controlled devices(magnetoresistive devices <b>H10N50/10</b>)",
+      "count": 560,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N50/80": {
+      "code": "H10N50/80",
+      "level": 1,
+      "parent": "H10N50/00",
+      "ja": "構造的細部［２０２３．０１］",
+      "en": "Constructional details",
+      "count": 5698,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N50/85": {
+      "code": "H10N50/85",
+      "level": 2,
+      "parent": "H10N50/80",
+      "ja": "活性領域の材料［２０２３．０１］",
+      "en": "Materials of the active region",
+      "count": 1322,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N52/00": {
+      "code": "H10N52/00",
+      "level": 0,
+      "parent": "H10N",
+      "ja": "ホール効果装置（集積装置または複数の装置の組立体Ｈ１０Ｎ５９／００）［２０２３．０１］",
+      "en": "Hall-effect devices(integrated devices or assemblies of multiple devices <b>H10N59/00</b>)",
+      "count": 3441,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N52/01": {
+      "code": "H10N52/01",
+      "level": 1,
+      "parent": "H10N52/00",
+      "ja": "製造または処理［２０２３．０１］",
+      "en": "Manufacture or treatment",
+      "count": 1107,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N52/80": {
+      "code": "H10N52/80",
+      "level": 1,
+      "parent": "H10N52/00",
+      "ja": "構造的細部［２０２３．０１］",
+      "en": "Constructional details",
+      "count": 1574,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N52/85": {
+      "code": "H10N52/85",
+      "level": 2,
+      "parent": "H10N52/80",
+      "ja": "活性領域の材料［２０２３．０１］",
+      "en": "Materials of the active region",
+      "count": 232,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N59/00": {
+      "code": "H10N59/00",
+      "level": 0,
+      "parent": "H10N",
+      "ja": "グループＨ１０Ｎ５０／００～Ｈ１０Ｎ５２／００に包含される，少なくとも１つの電流磁気素子またはホール効果素子を備える，集積装置または複数の装置の組立体（磁気抵抗ランダムアクセスメモリ［ＭＲＡＭ］装置Ｈ１０Ｂ６１／００）［２０２３．０１］",
+      "en": "Integrated devices, or assemblies of multiple devices, comprising at least one galvanomagnetic or Hall-effect element covered by groups <b>H10N50/00 to H10N52/00</b>  (MRAM devices <b>H10B61/00</b>)",
+      "count": 283,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N60/00": {
+      "code": "H10N60/00",
+      "level": 0,
+      "parent": "H10N",
+      "ja": "超電導装置（集積装置または複数の装置の組立体Ｈ１０Ｎ６９／００）［２０２３．０１］",
+      "en": "Superconducting devices(integrated devices or assemblies of multiple devices <b>H10N69/00</b>)",
+      "count": 2850,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N60/01": {
+      "code": "H10N60/01",
+      "level": 1,
+      "parent": "H10N60/00",
+      "ja": "製造または処理［２０２３．０１］",
+      "en": "Manufacture or treatment",
+      "count": 10475,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N60/10": {
+      "code": "H10N60/10",
+      "level": 1,
+      "parent": "H10N60/00",
+      "ja": "接合に基づく装置［２０２３．０１］",
+      "en": "Junction-based devices",
+      "count": 409,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N60/12": {
+      "code": "H10N60/12",
+      "level": 2,
+      "parent": "H10N60/10",
+      "ja": "ジョセフソン効果装置［２０２３．０１］",
+      "en": "Josephson-effect devices",
+      "count": 777,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N60/20": {
+      "code": "H10N60/20",
+      "level": 1,
+      "parent": "H10N60/00",
+      "ja": "永久超電導装置［２０２３．０１］",
+      "en": "Permanent superconducting devices",
+      "count": 1515,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N60/30": {
+      "code": "H10N60/30",
+      "level": 1,
+      "parent": "H10N60/00",
+      "ja": "超電導状態と正常状態との間で切換可能な装置［２０２３．０１］",
+      "en": "Devices switchable between superconducting and normal states",
+      "count": 900,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N60/35": {
+      "code": "H10N60/35",
+      "level": 2,
+      "parent": "H10N60/30",
+      "ja": "クライオトロン［２０２３．０１］",
+      "en": "Cryotrons",
+      "count": 156,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N60/355": {
+      "code": "H10N60/355",
+      "level": 3,
+      "parent": "H10N60/35",
+      "ja": "電力用クライオトロン［２０２３．０１］",
+      "en": "Power cryotrons",
+      "count": 547,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N60/80": {
+      "code": "H10N60/80",
+      "level": 1,
+      "parent": "H10N60/00",
+      "ja": "構造的細部［２０２３．０１］",
+      "en": "Constructional details",
+      "count": 2547,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N60/81": {
+      "code": "H10N60/81",
+      "level": 2,
+      "parent": "H10N60/80",
+      "ja": "容器；取付具［２０２３．０１］",
+      "en": "Containers; Mountings",
+      "count": 3252,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N60/82": {
+      "code": "H10N60/82",
+      "level": 2,
+      "parent": "H10N60/80",
+      "ja": "電流路［２０２３．０１］",
+      "en": "Current path",
+      "count": 1209,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N60/83": {
+      "code": "H10N60/83",
+      "level": 2,
+      "parent": "H10N60/80",
+      "ja": "素子の形状［２０２３．０１］",
+      "en": "Element shape",
+      "count": 165,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N60/84": {
+      "code": "H10N60/84",
+      "level": 2,
+      "parent": "H10N60/80",
+      "ja": "超電導状態と正常状態との間で切換可能な装置のための切換手段［２０２３．０１］",
+      "en": "Switching means for devices switchable between superconducting and normal states",
+      "count": 279,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N60/85": {
+      "code": "H10N60/85",
+      "level": 2,
+      "parent": "H10N60/80",
+      "ja": "超電導の活性材料［２０２３．０１］",
+      "en": "Superconducting active materials",
+      "count": 3282,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N69/00": {
+      "code": "H10N69/00",
+      "level": 0,
+      "parent": "H10N",
+      "ja": "グループＨ１０Ｎ６０／００に包含される，少なくとも１つの超電導素子を備える，集積装置または複数の装置の組立体［２０２３．０１］",
+      "en": "Integrated devices, or assemblies of multiple devices, comprising at least one superconducting element covered by group <b>H10N60/00</b>",
+      "count": 928,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N70/00": {
+      "code": "H10N70/00",
+      "level": 0,
+      "parent": "H10N",
+      "ja": "電位障壁を有しない，整流，増幅，発振またはスイッチングに特に適した固体装置（集積装置または複数の装置の組立体Ｈ１０Ｎ７９／００）［２０２３．０１］",
+      "en": "Solid-state devices having no potential barriers, and specially adapted for rectifying, amplifying, oscillating or switching(integrated devices or assemblies of multiple devices <b>H10N79/00</b>)",
+      "count": 2935,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N70/10": {
+      "code": "H10N70/10",
+      "level": 1,
+      "parent": "H10N70/00",
+      "ja": "固体進行波装置［２０２３．０１］",
+      "en": "Solid-state travelling-wave devices",
+      "count": 133,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N70/20": {
+      "code": "H10N70/20",
+      "level": 1,
+      "parent": "H10N70/00",
+      "ja": "多安定スイッチング装置，例．メモリスタ［２０２３．０１］",
+      "en": "Multistable switching devices, e.g. memristors",
+      "count": 2600,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N79/00": {
+      "code": "H10N79/00",
+      "level": 0,
+      "parent": "H10N",
+      "ja": "グループＨ１０Ｎ７０／００に包含される，少なくとも１つの固体素子を備える，集積装置または複数の装置の組立体（ＲｅＲＡＭ装置Ｈ１０Ｂ６３／００；ＰＣＲＡＭ装置Ｈ１０Ｂ６３／１０）［２０２３．０１］",
+      "en": "Integrated devices, or assemblies of multiple devices, comprising at least one solid-state element covered by group <b>H10N70/00</b> (ReRAM devices <b>H10B63/00</b>;  PCRAM devices <b>H10B63/10</b>)",
+      "count": 157,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N80/00": {
+      "code": "H10N80/00",
+      "level": 0,
+      "parent": "H10N",
+      "ja": "バルク負性抵抗効果装置（集積装置または複数の装置の組立体Ｈ１０Ｎ８９／００）［２０２３．０１］",
+      "en": "Bulk negative-resistance effect devices(integrated devices or assemblies of multiple devices <b>H10N89/00</b>)",
+      "count": 2001,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N80/10": {
+      "code": "H10N80/10",
+      "level": 1,
+      "parent": "H10N80/00",
+      "ja": "ガン効果装置［２０２３．０１］",
+      "en": "Gunn-effect devices",
+      "count": 866,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N89/00": {
+      "code": "H10N89/00",
+      "level": 0,
+      "parent": "H10N",
+      "ja": "グループＨ１０Ｎ８０／００に包含される，少なくとも１つのバルク負性抵抗効果素子を備える，集積装置または複数の装置の組立体［２０２３．０１］",
+      "en": "Integrated devices, or assemblies of multiple devices, comprising at least one bulk negative resistance effect element covered by group <b>H10N80/00</b>",
+      "count": 83,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N97/00": {
+      "code": "H10N97/00",
+      "level": 0,
+      "parent": "H10N",
+      "ja": "他に分類されない電気的固体薄膜または厚膜装置［２０２３．０１］",
+      "en": "Electric solid-state thin-film or thick-film devices, not otherwise provided for",
+      "count": 10615,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    },
+    "H10N99/00": {
+      "code": "H10N99/00",
+      "level": 0,
+      "parent": "H10N",
+      "ja": "このサブクラスの他のグループに分類されない主題事項［２０２３．０１］",
+      "en": "Subject matter not provided for in other groups of this subclass",
+      "count": 4409,
+      "sourceFile": "ipc_H10N.txt",
+      "kind": "ipc"
+    }
+  }
+};

@@ -1,0 +1,736 @@
+{
+  "generatedAt": "2026-03-20T02:17:45.913Z",
+  "total": 73,
+  "entries": {
+    "A45C": {
+      "code": "A45C",
+      "level": 0,
+      "parent": "A45",
+      "ja": "財布；手荷物；手提げ鞄<br><br><b><ul>注</ul></b><br>このサブクラスにおいては，下記の用語は以下に示す意味で用いる：［８］<br>―“手荷物”は，旅行用の個人的な所持品の容器である，例．旅行用鞄，スーツケース，トランク［８］<br><br><b><ul>サブクラス内の索引</ul></b><br>財布　１／００，１５／００<br>手荷物または手提げ鞄　３／００，５／００，７／００，９／００，１５／００<br>特定の適用　１１／００<br>細部または付属品　１３／００",
+      "en": "PURSES; LUGGAGE; HAND CARRIED BAGS; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this subclass, the following term is used with the meaning indicated:<ul><li>\"luggage\" means containers for personal belongings for a journey, e.g. travelling bags, suitcases, trunks.</li></ul></li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">PURSES </td><td><b><b>1/00</b>, <b>15/00</b></b></td></tr></tr><tr><td width=\"70%\">LUGGAGE OR HAND CARRIED BAGS </td><td><b><b>3/00</b>, <b>5/00</b>, <b>7/00</b>, <b>9/00</b>, <b>15/00</b></b></td></tr></tr><tr><td width=\"70%\">SPECIAL APPLICATIONS </td><td><b><b>11/00</b></b></td></tr></tr><tr><td width=\"70%\">DETAILS OR ACCESSORIES </td><td><b><b>13/00</b></b></td></tr></tr></table>",
+      "count": 3196,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A45": {
+      "code": "A45",
+      "level": 0,
+      "parent": "A",
+      "ja": "手持品または旅行用品",
+      "en": "HAND OR TRAVELLING ARTICLES",
+      "count": 0,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A": {
+      "code": "A",
+      "level": 0,
+      "parent": null,
+      "ja": "生活必需品",
+      "en": "HUMAN NECESSITIES",
+      "count": 0,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A45C1/00": {
+      "code": "A45C1/00",
+      "level": 0,
+      "parent": "A45C",
+      "ja": "財布；がま口；札入れ（鍵を入れるためのものＡ４５Ｃ１１／３２）",
+      "en": "Purses; Money-bags; Wallets(for holding keys <b>A45C11/32</b>)",
+      "count": 1068,
+      "sourceFile": "ipc_A45C.txt",
+      "kind": "ipc"
+    },
+    "A45C1/02": {
+      "code": "A45C1/02",
+      "level": 1,
+      "parent": "A45C1/00",
+      "ja": "財布",
+      "en": "Purses",
+      "count": 2827,
+      "sourceFile": "ipc_A45C.txt",
+      "kind": "ipc"
+    },
+    "A45C1/04": {
+      "code": "A45C1/04",
+      "level": 2,
+      "parent": "A45C1/02",
+      "ja": "ベルトまたは腕輪についている財布；財布兼用ベルト",
+      "en": "Purses to be worn at the belt or bracelet; Money-belts",
+      "count": 1560,
+      "sourceFile": "ipc_A45C.txt",
+      "kind": "ipc"
+    },
+    "A45C1/06": {
+      "code": "A45C1/06",
+      "level": 1,
+      "parent": "A45C1/00",
+      "ja": "札入れ；ノートケース",
+      "en": "Wallets; Notecases",
+      "count": 3195,
+      "sourceFile": "ipc_A45C.txt",
+      "kind": "ipc"
+    },
+    "A45C1/08": {
+      "code": "A45C1/08",
+      "level": 1,
+      "parent": "A45C1/00",
+      "ja": "財布および札入れの組み合わさったもの",
+      "en": "Combinations of purses and wallets",
+      "count": 939,
+      "sourceFile": "ipc_A45C.txt",
+      "kind": "ipc"
+    },
+    "A45C1/10": {
+      "code": "A45C1/10",
+      "level": 1,
+      "parent": "A45C1/00",
+      "ja": "車掌またはそれに類する人々用のがま口；硬貨ホルダーを備えたがま口",
+      "en": "Money-bags for conductors or like people; Money-bags with rigid coin-holders",
+      "count": 437,
+      "sourceFile": "ipc_A45C.txt",
+      "kind": "ipc"
+    },
+    "A45C1/12": {
+      "code": "A45C1/12",
+      "level": 1,
+      "parent": "A45C1/00",
+      "ja": "貯金箱",
+      "en": "Savings boxes",
+      "count": 4598,
+      "sourceFile": "ipc_A45C.txt",
+      "kind": "ipc"
+    },
+    "A45C3/00": {
+      "code": "A45C3/00",
+      "level": 0,
+      "parent": "A45C",
+      "ja": "柔軟性手荷物；ハンド鞄（折りたたみ式または伸張自在式手荷物，鞄，または類似物Ａ４５Ｃ７／００）",
+      "en": "Flexible luggage; Hand bags(collapsible or extensible luggage, bags or the like <b>A45C7/00</b>)",
+      "count": 12419,
+      "sourceFile": "ipc_A45C.txt",
+      "kind": "ipc"
+    },
+    "A45C3/02": {
+      "code": "A45C3/02",
+      "level": 1,
+      "parent": "A45C3/00",
+      "ja": "書類鞄または類似物",
+      "en": "Briefcases or the like",
+      "count": 5129,
+      "sourceFile": "ipc_A45C.txt",
+      "kind": "ipc"
+    },
+    "A45C3/04": {
+      "code": "A45C3/04",
+      "level": 1,
+      "parent": "A45C3/00",
+      "ja": "買物袋；買物網袋",
+      "en": "Shopping bags; Shopping nets",
+      "count": 4783,
+      "sourceFile": "ipc_A45C.txt",
+      "kind": "ipc"
+    },
+    "A45C3/06": {
+      "code": "A45C3/06",
+      "level": 1,
+      "parent": "A45C3/00",
+      "ja": "婦人用ハンドバッグ",
+      "en": "Ladies' handbags",
+      "count": 3760,
+      "sourceFile": "ipc_A45C.txt",
+      "kind": "ipc"
+    },
+    "A45C3/08": {
+      "code": "A45C3/08",
+      "level": 2,
+      "parent": "A45C3/06",
+      "ja": "取り外し自在または洗濯ができるカバーを備えたハンドバッグ",
+      "en": "Handbags provided with removable or washable covers",
+      "count": 442,
+      "sourceFile": "ipc_A45C.txt",
+      "kind": "ipc"
+    },
+    "A45C3/10": {
+      "code": "A45C3/10",
+      "level": 1,
+      "parent": "A45C3/00",
+      "ja": "ビーチバッグ；防水ビーチバッグ",
+      "en": "Beach-bags; Watertight beach-bags",
+      "count": 573,
+      "sourceFile": "ipc_A45C.txt",
+      "kind": "ipc"
+    },
+    "A45C3/12": {
+      "code": "A45C3/12",
+      "level": 1,
+      "parent": "A45C3/00",
+      "ja": "靴入れ袋",
+      "en": "Bags for shoes",
+      "count": 376,
+      "sourceFile": "ipc_A45C.txt",
+      "kind": "ipc"
+    },
+    "A45C3/14": {
+      "code": "A45C3/14",
+      "level": 1,
+      "parent": "A45C3/00",
+      "ja": "ハンドマフ兼用鞄",
+      "en": "Bags combined with hand-muffs",
+      "count": 119,
+      "sourceFile": "ipc_A45C.txt",
+      "kind": "ipc"
+    },
+    "A45C5/00": {
+      "code": "A45C5/00",
+      "level": 0,
+      "parent": "A45C",
+      "ja": "剛性または準剛性手荷物（折りたたみ可能または伸張可能な手荷物，鞄または類似物Ａ４５Ｃ７／００）",
+      "en": "Rigid or semi-rigid luggage(collapsible or extensible luggage, bags or the like <b>A45C7/00</b>)",
+      "count": 3979,
+      "sourceFile": "ipc_A45C.txt",
+      "kind": "ipc"
+    },
+    "A45C5/02": {
+      "code": "A45C5/02",
+      "level": 1,
+      "parent": "A45C5/00",
+      "ja": "手荷物の材料［１，８］",
+      "en": "Materials therefor",
+      "count": 2648,
+      "sourceFile": "ipc_A45C.txt",
+      "kind": "ipc"
+    },
+    "A45C5/03": {
+      "code": "A45C5/03",
+      "level": 1,
+      "parent": "A45C5/00",
+      "ja": "スーツケース［８］",
+      "en": "Suitcases",
+      "count": 3802,
+      "sourceFile": "ipc_A45C.txt",
+      "kind": "ipc"
+    },
+    "A45C5/04": {
+      "code": "A45C5/04",
+      "level": 1,
+      "parent": "A45C5/00",
+      "ja": "トランク；旅行用バスケット",
+      "en": "Trunks; Travelling baskets",
+      "count": 10323,
+      "sourceFile": "ipc_A45C.txt",
+      "kind": "ipc"
+    },
+    "A45C5/06": {
+      "code": "A45C5/06",
+      "level": 1,
+      "parent": "A45C5/00",
+      "ja": "外部に収納部を有するもの［１，８］",
+      "en": "with outside compartments",
+      "count": 1888,
+      "sourceFile": "ipc_A45C.txt",
+      "kind": "ipc"
+    },
+    "A45C5/08": {
+      "code": "A45C5/08",
+      "level": 1,
+      "parent": "A45C5/00",
+      "ja": "円形状または楕円形状のもの［１，８］",
+      "en": "of round or oval shape",
+      "count": 111,
+      "sourceFile": "ipc_A45C.txt",
+      "kind": "ipc"
+    },
+    "A45C5/14": {
+      "code": "A45C5/14",
+      "level": 1,
+      "parent": "A45C5/00",
+      "ja": "作りつけのローラー装置を有するもの［１，８］",
+      "en": "with built-in rolling means",
+      "count": 15745,
+      "sourceFile": "ipc_A45C.txt",
+      "kind": "ipc"
+    },
+    "A45C7/00": {
+      "code": "A45C7/00",
+      "level": 0,
+      "parent": "A45C",
+      "ja": "折りたたみ可能または伸張可能な手荷物，鞄，または類似物",
+      "en": "Collapsible or extensible luggage, bags or the like",
+      "count": 10878,
+      "sourceFile": "ipc_A45C.txt",
+      "kind": "ipc"
+    },
+    "A45C7/02": {
+      "code": "A45C7/02",
+      "level": 1,
+      "parent": "A45C7/00",
+      "ja": "伸縮枠を有するもの",
+      "en": "with lazy-tongs framework",
+      "count": 259,
+      "sourceFile": "ipc_A45C.txt",
+      "kind": "ipc"
+    },
+    "A45C9/00": {
+      "code": "A45C9/00",
+      "level": 0,
+      "parent": "A45C",
+      "ja": "他の用途に変え得る手荷物または鞄（体で運ぶザックまたはパック若しくは他の用途のものに変えることができるものＡ４５Ｆ４／０２；洋服ダンス兼用トランクＡ４７Ｂ６１／０６；ベッド兼用トランクＡ４７Ｃ１７／８２）",
+      "en": "Luggage or bags convertible into objects for other use(sacks or packs carried on the body and convertible into other articles <b>A45F4/02</b>; trunk-wardrobes <b>A47B61/06</b>; trunk-beds <b>A47C17/82</b>)",
+      "count": 8526,
+      "sourceFile": "ipc_A45C.txt",
+      "kind": "ipc"
+    },
+    "A45C11/00": {
+      "code": "A45C11/00",
+      "level": 0,
+      "parent": "A45C",
+      "ja": "グループＡ４５Ｃ１／００～Ａ４５Ｃ９／００に属さない目的の容器（洗面用具または化粧用具のために特に用いるものＡ４５Ｄ２９／２０，Ａ４５Ｄ４４／１８；旅行用裁縫箱Ａ４５Ｆ３／４８）［２００６．０１］",
+      "en": "Receptacles for purposes not provided for in groups <b>A45C1/00 to A45C9/00</b> (specially adapted for toiletry or cosmetic equipment <b>A45D29/20</b>, <b>A45D44/18</b>; travelling sewing kits <b>A45F3/48</b>)",
+      "count": 28763,
+      "sourceFile": "ipc_A45C.txt",
+      "kind": "ipc"
+    },
+    "A45C11/02": {
+      "code": "A45C11/02",
+      "level": 1,
+      "parent": "A45C11/00",
+      "ja": "帽子収容箱",
+      "en": "Hat boxes",
+      "count": 380,
+      "sourceFile": "ipc_A45C.txt",
+      "kind": "ipc"
+    },
+    "A45C11/04": {
+      "code": "A45C11/04",
+      "level": 1,
+      "parent": "A45C11/00",
+      "ja": "眼鏡ケース；鼻眼鏡ケース",
+      "en": "Spectacle cases; Pince-nez cases",
+      "count": 4891,
+      "sourceFile": "ipc_A45C.txt",
+      "kind": "ipc"
+    },
+    "A45C11/06": {
+      "code": "A45C11/06",
+      "level": 2,
+      "parent": "A45C11/04",
+      "ja": "眼鏡ケースまたは鼻眼鏡ケースの製造",
+      "en": "Making of spectacle or pince-nez cases",
+      "count": 114,
+      "sourceFile": "ipc_A45C.txt",
+      "kind": "ipc"
+    },
+    "A45C11/08": {
+      "code": "A45C11/08",
+      "level": 1,
+      "parent": "A45C11/00",
+      "ja": "望遠鏡または双眼鏡ケース",
+      "en": "Cases for telescopes or binoculars",
+      "count": 106,
+      "sourceFile": "ipc_A45C.txt",
+      "kind": "ipc"
+    },
+    "A45C11/10": {
+      "code": "A45C11/10",
+      "level": 1,
+      "parent": "A45C11/00",
+      "ja": "窓のついたまたはついていない時計ケースまたは保護体",
+      "en": "Watch cases or guards, with or without windows",
+      "count": 471,
+      "sourceFile": "ipc_A45C.txt",
+      "kind": "ipc"
+    },
+    "A45C11/12": {
+      "code": "A45C11/12",
+      "level": 2,
+      "parent": "A45C11/10",
+      "ja": "透明な時計保護装置",
+      "en": "Transparent watch-protectors",
+      "count": 58,
+      "sourceFile": "ipc_A45C.txt",
+      "kind": "ipc"
+    },
+    "A45C11/14": {
+      "code": "A45C11/14",
+      "level": 1,
+      "parent": "A45C11/00",
+      "ja": "郵便切手のポケットホルダー",
+      "en": "Pocket holders for postage stamps",
+      "count": 56,
+      "sourceFile": "ipc_A45C.txt",
+      "kind": "ipc"
+    },
+    "A45C11/16": {
+      "code": "A45C11/16",
+      "level": 1,
+      "parent": "A45C11/00",
+      "ja": "宝石箱",
+      "en": "Jewel boxes",
+      "count": 2643,
+      "sourceFile": "ipc_A45C.txt",
+      "kind": "ipc"
+    },
+    "A45C11/18": {
+      "code": "A45C11/18",
+      "level": 1,
+      "parent": "A45C11/00",
+      "ja": "乗車券入れまたはそれに類似するもの",
+      "en": "Ticket-holders or the like",
+      "count": 5634,
+      "sourceFile": "ipc_A45C.txt",
+      "kind": "ipc"
+    },
+    "A45C11/20": {
+      "code": "A45C11/20",
+      "level": 1,
+      "parent": "A45C11/00",
+      "ja": "ランチボックスまたはピクニック用箱または類似物",
+      "en": "Lunch or picnic boxes or the like",
+      "count": 11141,
+      "sourceFile": "ipc_A45C.txt",
+      "kind": "ipc"
+    },
+    "A45C11/22": {
+      "code": "A45C11/22",
+      "level": 1,
+      "parent": "A45C11/00",
+      "ja": "水泳中に使用する防水容器",
+      "en": "Watertight containers for use while swimming",
+      "count": 857,
+      "sourceFile": "ipc_A45C.txt",
+      "kind": "ipc"
+    },
+    "A45C11/24": {
+      "code": "A45C11/24",
+      "level": 1,
+      "parent": "A45C11/00",
+      "ja": "Ａ４５Ｃ１１／０２～Ａ４５Ｃ１１／２２，Ａ４５Ｃ１１／２６，Ａ４５Ｃ１１／３２～Ａ４５Ｃ１１／３８のグループの１つではカバーできない目的を持った小箱",
+      "en": "Etuis for purposes not covered by a single one of groups <b>A45C11/02 to A45C11/22</b> , <b>A45C11/26</b>, <b>A45C11/32 to A45C11/38</b> ",
+      "count": 10228,
+      "sourceFile": "ipc_A45C.txt",
+      "kind": "ipc"
+    },
+    "A45C11/26": {
+      "code": "A45C11/26",
+      "level": 1,
+      "parent": "A45C11/00",
+      "ja": "別々の物品を入れるポケットを有する巻き上げホルダー",
+      "en": "Roll-up holders with pockets for separate articles",
+      "count": 519,
+      "sourceFile": "ipc_A45C.txt",
+      "kind": "ipc"
+    },
+    "A45C11/32": {
+      "code": "A45C11/32",
+      "level": 1,
+      "parent": "A45C11/00",
+      "ja": "鍵を保持するための袋または札入れ",
+      "en": "Bags or wallets for holding keys",
+      "count": 3300,
+      "sourceFile": "ipc_A45C.txt",
+      "kind": "ipc"
+    },
+    "A45C11/34": {
+      "code": "A45C11/34",
+      "level": 1,
+      "parent": "A45C11/00",
+      "ja": "筆入れ；筆箱または類似物",
+      "en": "Pencil boxes; Pencil etuis or the like",
+      "count": 10661,
+      "sourceFile": "ipc_A45C.txt",
+      "kind": "ipc"
+    },
+    "A45C11/36": {
+      "code": "A45C11/36",
+      "level": 1,
+      "parent": "A45C11/00",
+      "ja": "製図具または類似の器具を入れる容器",
+      "en": "Cases for drawing or like instruments",
+      "count": 1059,
+      "sourceFile": "ipc_A45C.txt",
+      "kind": "ipc"
+    },
+    "A45C11/38": {
+      "code": "A45C11/38",
+      "level": 1,
+      "parent": "A45C11/00",
+      "ja": "カメラケース，例．できあい形のもの",
+      "en": "Camera cases, e.g. of ever-ready type",
+      "count": 1837,
+      "sourceFile": "ipc_A45C.txt",
+      "kind": "ipc"
+    },
+    "A45C13/00": {
+      "code": "A45C13/00",
+      "level": 0,
+      "parent": "A45C",
+      "ja": "細部；付属品［１，８］",
+      "en": "Details; Accessories",
+      "count": 34872,
+      "sourceFile": "ipc_A45C.txt",
+      "kind": "ipc"
+    },
+    "A45C13/02": {
+      "code": "A45C13/02",
+      "level": 1,
+      "parent": "A45C13/00",
+      "ja": "内部への取りつけ具；物品の留め具または包装具［１，８］",
+      "en": "Interior fittings; Means for holding or packing articles",
+      "count": 23560,
+      "sourceFile": "ipc_A45C.txt",
+      "kind": "ipc"
+    },
+    "A45C13/03": {
+      "code": "A45C13/03",
+      "level": 2,
+      "parent": "A45C13/02",
+      "ja": "衣服の留め具［８］",
+      "en": "Means for holding garments",
+      "count": 861,
+      "sourceFile": "ipc_A45C.txt",
+      "kind": "ipc"
+    },
+    "A45C13/04": {
+      "code": "A45C13/04",
+      "level": 1,
+      "parent": "A45C13/00",
+      "ja": "枠",
+      "en": "Frames",
+      "count": 2335,
+      "sourceFile": "ipc_A45C.txt",
+      "kind": "ipc"
+    },
+    "A45C13/06": {
+      "code": "A45C13/06",
+      "level": 2,
+      "parent": "A45C13/04",
+      "ja": "財布またはバッグの口金",
+      "en": "Frame closures",
+      "count": 1548,
+      "sourceFile": "ipc_A45C.txt",
+      "kind": "ipc"
+    },
+    "A45C13/08": {
+      "code": "A45C13/08",
+      "level": 1,
+      "parent": "A45C13/00",
+      "ja": "ハンドバッグまたは財布の装飾具",
+      "en": "Decorative devices for handbags or purses",
+      "count": 3174,
+      "sourceFile": "ipc_A45C.txt",
+      "kind": "ipc"
+    },
+    "A45C13/10": {
+      "code": "A45C13/10",
+      "level": 1,
+      "parent": "A45C13/00",
+      "ja": "係止具の配置",
+      "en": "Arrangement of fasteners",
+      "count": 14929,
+      "sourceFile": "ipc_A45C.txt",
+      "kind": "ipc"
+    },
+    "A45C13/12": {
+      "code": "A45C13/12",
+      "level": 2,
+      "parent": "A45C13/10",
+      "ja": "押しボタン式またはまわしボタン式係止具のもの",
+      "en": "of press-button or turn-button fasteners",
+      "count": 1186,
+      "sourceFile": "ipc_A45C.txt",
+      "kind": "ipc"
+    },
+    "A45C13/14": {
+      "code": "A45C13/14",
+      "level": 2,
+      "parent": "A45C13/10",
+      "ja": "棒状の係止具のもの",
+      "en": "of bar fastenings",
+      "count": 136,
+      "sourceFile": "ipc_A45C.txt",
+      "kind": "ipc"
+    },
+    "A45C13/16": {
+      "code": "A45C13/16",
+      "level": 1,
+      "parent": "A45C13/00",
+      "ja": "ローラーを隠すための装置",
+      "en": "Closures of the roller-blind type",
+      "count": 158,
+      "sourceFile": "ipc_A45C.txt",
+      "kind": "ipc"
+    },
+    "A45C13/18": {
+      "code": "A45C13/18",
+      "level": 1,
+      "parent": "A45C13/00",
+      "ja": "手荷物または鞄の盗難防止または紛失防止装置",
+      "en": "Devices to prevent theft or loss of luggage or bags",
+      "count": 4318,
+      "sourceFile": "ipc_A45C.txt",
+      "kind": "ipc"
+    },
+    "A45C13/20": {
+      "code": "A45C13/20",
+      "level": 2,
+      "parent": "A45C13/18",
+      "ja": "鎖またはバンド",
+      "en": "Chains or bands",
+      "count": 1309,
+      "sourceFile": "ipc_A45C.txt",
+      "kind": "ipc"
+    },
+    "A45C13/22": {
+      "code": "A45C13/22",
+      "level": 2,
+      "parent": "A45C13/18",
+      "ja": "取り外し自在の取手；手荷物内への折りたたみ自在の取手（持ち運びのための別体の取手Ａ４５Ｆ５／１０）",
+      "en": "Detachable handles; Handles foldable into the luggage(separate handles for carrying means <b>A45F5/10</b>)",
+      "count": 1543,
+      "sourceFile": "ipc_A45C.txt",
+      "kind": "ipc"
+    },
+    "A45C13/24": {
+      "code": "A45C13/24",
+      "level": 2,
+      "parent": "A45C13/18",
+      "ja": "音響発生，つき刺し，ガス放出または類似物の装置",
+      "en": "Devices for sound-producing, piercing, gas-discharging, or the like",
+      "count": 2732,
+      "sourceFile": "ipc_A45C.txt",
+      "kind": "ipc"
+    },
+    "A45C13/26": {
+      "code": "A45C13/26",
+      "level": 1,
+      "parent": "A45C13/00",
+      "ja": "取手の特別な取付け（Ａ４５Ｃ１３／２２が優先）",
+      "en": "Special adaptations of handles(<b>A45C13/22</b> takes precedence)",
+      "count": 12793,
+      "sourceFile": "ipc_A45C.txt",
+      "kind": "ipc"
+    },
+    "A45C13/28": {
+      "code": "A45C13/28",
+      "level": 2,
+      "parent": "A45C13/26",
+      "ja": "他の装置と結合した取手",
+      "en": "Combinations of handles with other devices",
+      "count": 1674,
+      "sourceFile": "ipc_A45C.txt",
+      "kind": "ipc"
+    },
+    "A45C13/30": {
+      "code": "A45C13/30",
+      "level": 1,
+      "parent": "A45C13/00",
+      "ja": "皮紐；バンド",
+      "en": "Straps; Bands",
+      "count": 9868,
+      "sourceFile": "ipc_A45C.txt",
+      "kind": "ipc"
+    },
+    "A45C13/34": {
+      "code": "A45C13/34",
+      "level": 1,
+      "parent": "A45C13/00",
+      "ja": "蓋またはカバーを開いておくための支えまたは支持物",
+      "en": "Stays or supports for holding lids or covers open",
+      "count": 772,
+      "sourceFile": "ipc_A45C.txt",
+      "kind": "ipc"
+    },
+    "A45C13/36": {
+      "code": "A45C13/36",
+      "level": 1,
+      "parent": "A45C13/00",
+      "ja": "縁部，角部またはその他の部分の補強",
+      "en": "Reinforcements for edges, corners, or other parts",
+      "count": 3634,
+      "sourceFile": "ipc_A45C.txt",
+      "kind": "ipc"
+    },
+    "A45C13/38": {
+      "code": "A45C13/38",
+      "level": 1,
+      "parent": "A45C13/00",
+      "ja": "手荷物運搬具",
+      "en": "Luggage carriers",
+      "count": 3091,
+      "sourceFile": "ipc_A45C.txt",
+      "kind": "ipc"
+    },
+    "A45C13/40": {
+      "code": "A45C13/40",
+      "level": 1,
+      "parent": "A45C13/00",
+      "ja": "鞄に取付けた雨傘，ステッキ，または手袋の保持具",
+      "en": "Umbrella, stick, or glove holders attached to a bag",
+      "count": 964,
+      "sourceFile": "ipc_A45C.txt",
+      "kind": "ipc"
+    },
+    "A45C13/42": {
+      "code": "A45C13/42",
+      "level": 1,
+      "parent": "A45C13/00",
+      "ja": "手荷物を確認するための装置；同様な物を取付けるための手段",
+      "en": "Devices for identifying luggage; Means for attaching same",
+      "count": 737,
+      "sourceFile": "ipc_A45C.txt",
+      "kind": "ipc"
+    },
+    "A45C15/00": {
+      "code": "A45C15/00",
+      "level": 0,
+      "parent": "A45C",
+      "ja": "他の物品と結合した財布，鞄，手荷物，またはグループＡ４５Ｃ１／００～Ａ４５Ｃ１１／００に包含されないその他容器（Ａ４５Ｃ１／０８，Ａ４５Ｃ３／１４が優先）",
+      "en": "Purses, bags, luggage or other receptacles covered by groups <b>A45C1/00 to A45C11/00</b> , combined with other articles(<b>A45C1/08</b>, <b>A45C3/14</b> take precedence)",
+      "count": 17601,
+      "sourceFile": "ipc_A45C.txt",
+      "kind": "ipc"
+    },
+    "A45C15/02": {
+      "code": "A45C15/02",
+      "level": 1,
+      "parent": "A45C15/00",
+      "ja": "メモ帳を有するもの",
+      "en": "with memorandum tablets",
+      "count": 303,
+      "sourceFile": "ipc_A45C.txt",
+      "kind": "ipc"
+    },
+    "A45C15/04": {
+      "code": "A45C15/04",
+      "level": 1,
+      "parent": "A45C15/00",
+      "ja": "鏡を有するもの",
+      "en": "with mirrors",
+      "count": 1170,
+      "sourceFile": "ipc_A45C.txt",
+      "kind": "ipc"
+    },
+    "A45C15/06": {
+      "code": "A45C15/06",
+      "level": 1,
+      "parent": "A45C15/00",
+      "ja": "照明装置を有するもの",
+      "en": "with illuminating devices",
+      "count": 4378,
+      "sourceFile": "ipc_A45C.txt",
+      "kind": "ipc"
+    },
+    "A45C15/08": {
+      "code": "A45C15/08",
+      "level": 1,
+      "parent": "A45C15/00",
+      "ja": "時計を有するもの",
+      "en": "with watches",
+      "count": 803,
+      "sourceFile": "ipc_A45C.txt",
+      "kind": "ipc"
+    }
+  }
+}

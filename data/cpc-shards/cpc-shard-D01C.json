@@ -1,0 +1,123 @@
+{
+  "generatedAt": "2026-03-20T02:17:57.711Z",
+  "total": 9,
+  "entries": {
+    "D01C": {
+      "code": "D01C",
+      "level": 5,
+      "parent": "D01",
+      "ja": "紡績用繊維またはフィラメントを採取するための天然の繊維状またはフィラメント状材料の化学的または生物学的処理；動物繊維再生のためのボロ毛くずの炭化<br><br><u>注</u><br><br>クラスＤ０１のタイトルに続く注に注意すること。",
+      "en": "CHEMICAL OR BIOLOGICAL TREATMENT OF NATURAL FILAMENTARY OR FIBROUS MATERIAL TO OBTAIN FILAMENTS OR FIBRES FOR SPINNING; CARBONISING RAGS TO RECOVER ANIMAL FIBRES<br><br><u>NOTE</u><br><br>Attention is drawn to the note following the title of Class D01",
+      "count": 0,
+      "ipcCode": "",
+      "coreCode": "",
+      "note": "",
+      "sourceFile": "cpc_D.txt",
+      "kind": "cpc"
+    },
+    "D01": {
+      "code": "D01",
+      "level": 4,
+      "parent": "D",
+      "ja": "天然または人造の糸または繊維；紡績<br>このクラスにおいては，下記の用語は以下に示す意味で用いる:<br>―繊維は比較的短く，細長い天然または人造の物質よりなるものを意味する；<br>―フィラメントはエンドレスまたは準エンドレスで，細長い天然または人造の物質よりなるものを意味する；<br>―糸は繊維の単一の集合体を意味し，通常紡績によって製造される；<br>―より糸は糸またはフィラメントの集合体を意味し，通常加ねんによって製造される。",
+      "en": "NATURAL OR MAN-MADE THREADS OR FIBRES; SPINNING<br><br><u>NOTE</u><br><br>In this class, the following terms are used with the meanings indicated: <br> \"fibre\" means a relatively-short, elongated member of natural or man-made material;<br><br> \"filament\" means an endless or quasi-endless, elongated member of natural or man-made material;<br><br> \"yarn\" means a unitary assembly of fibres, usually produced by spinning;<br><br> \"thread\" means an assembly of yarns or filaments, usually produced by twisting;<br><br>\"synthetic\" fibres or filaments means fibres or filaments or the like manufactured from synthesising polymers or small molecules. Examples are polyamide, acrylic, polyester or carbon fibres;<br><br>\"artificial\" fibres or filaments means fibres or filaments or the like manufactured by man from natural polymers or their derivatives. Examples are regenerated cellulosic fibres or semi-synthetic fibres;<br><br>\"man-made\" fibres or filaments means fibres or filaments which are manufactured by man including \"synthetic\" or \"artificial\" fibres. ",
+      "count": 0,
+      "ipcCode": "",
+      "coreCode": "",
+      "note": "",
+      "sourceFile": "cpc_D.txt",
+      "kind": "cpc"
+    },
+    "D": {
+      "code": "D",
+      "level": 2,
+      "parent": null,
+      "ja": "繊維；紙",
+      "en": "TEXTILES; PAPER",
+      "count": 0,
+      "ipcCode": "",
+      "coreCode": "",
+      "note": "",
+      "sourceFile": "cpc.txt",
+      "kind": "cpc"
+    },
+    "D01C1/00": {
+      "code": "D01C1/00",
+      "level": 7,
+      "parent": null,
+      "ja": "植物材料の処理",
+      "en": "Treatment of vegetable material",
+      "count": 475,
+      "ipcCode": "D01C1/00",
+      "coreCode": "D01C1/00",
+      "note": "",
+      "sourceFile": "cpc_D01C.txt",
+      "kind": "cpc"
+    },
+    "D01C1/02": {
+      "code": "D01C1/02",
+      "level": 8,
+      "parent": "D01C1/00",
+      "ja": "じん皮繊維の採取を化学的方法によって行うもの",
+      "en": "by chemical methods to obtain bast fibres",
+      "count": 1294,
+      "ipcCode": "D01C1/02",
+      "coreCode": "D01C1/02",
+      "note": "",
+      "sourceFile": "cpc_D01C.txt",
+      "kind": "cpc"
+    },
+    "D01C1/04": {
+      "code": "D01C1/04",
+      "level": 8,
+      "parent": "D01C1/00",
+      "ja": "細菌使用の浸水処理",
+      "en": "Bacteriological retting",
+      "count": 353,
+      "ipcCode": "D01C1/04",
+      "coreCode": "D01C1/04",
+      "note": "",
+      "sourceFile": "cpc_D01C.txt",
+      "kind": "cpc"
+    },
+    "D01C3/00": {
+      "code": "D01C3/00",
+      "level": 7,
+      "parent": null,
+      "ja": "動物材料の処理，例．化学的洗毛",
+      "en": "Treatment of animal material, e.g. chemical scouring of wool",
+      "count": 1068,
+      "ipcCode": "D01C3/00",
+      "coreCode": "D01C3/00",
+      "note": "",
+      "sourceFile": "cpc_D01C.txt",
+      "kind": "cpc"
+    },
+    "D01C3/02": {
+      "code": "D01C3/02",
+      "level": 8,
+      "parent": "D01C3/00",
+      "ja": "絹の不純物の除去",
+      "en": "De-gumming silk",
+      "count": 348,
+      "ipcCode": "D01C3/02",
+      "coreCode": "D01C3/02",
+      "note": "",
+      "sourceFile": "cpc_D01C.txt",
+      "kind": "cpc"
+    },
+    "D01C5/00": {
+      "code": "D01C5/00",
+      "level": 7,
+      "parent": null,
+      "ja": "動物繊維再生のためのボロ毛くずの炭化",
+      "en": "Carbonising rags to recover animal fibres",
+      "count": 197,
+      "ipcCode": "D01C5/00",
+      "coreCode": "D01C5/00",
+      "note": "",
+      "sourceFile": "cpc_D01C.txt",
+      "kind": "cpc"
+    }
+  }
+}

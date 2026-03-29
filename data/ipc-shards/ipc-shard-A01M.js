@@ -1,0 +1,776 @@
+window.IPC_SHARD_A01M = {
+  "generatedAt": "2026-03-20T02:17:45.862Z",
+  "total": 77,
+  "entries": {
+    "A01M": {
+      "code": "A01M",
+      "level": 0,
+      "parent": "A01",
+      "ja": "動物の捕獲，わな猟，または威嚇（分蜂捕獲または雄蜂捕獲の用具Ａ０１Ｋ５７／００；漁撈Ａ０１Ｋ６９／００～Ａ０１Ｋ９７／００；殺生物剤，有害生物忌避剤または誘因剤Ａ０１Ｎ）；有害な動物又は有害な植物の駆除装置<br><br><b><ul>注</ul></b><br>このサブクラスでは，”殺除”および”駆除”という用語には，無脊椎動物の”薬剤を用いない不妊処理”が含まれる。［７］<br><br><b><ul>サブクラス内の索引</ul></b><br>散布機；くん蒸機；火炎放射機　７／００～１１／００；１３／００；１５／００<br>昆虫の捕獲または殺除　１／００～５／００，１７／００<br>昆虫以外の動物の捕獲または殺除　１９／００，２３／００，２５／００，２７／００<br>おどし機；狩猟用具　２９／００；３１／００<br>不要植物の駆除　２１／００<br>このサブクラスの他のグループに分類されない主題事項　９９／００",
+      "en": "CATCHING, TRAPPING OR SCARING OF ANIMALS(appliances for catching swarms or drone-catching <b>A01K57/00</b>;   fishing <b>A01K69/00 to A01K97/00</b> ;   biocides, pest repellants or attractants <b>A01N</b>);APPARATUS FOR THE DESTRUCTION OF NOXIOUS ANIMALS OR NOXIOUS PLANTS; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this subclass, terms \"killing\" and \"destruction\" cover \"non-chemical sterilisation\" of invertebrates.</li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">SPRAYERS; FUMIGATORS; FLAME-THROWERS </td><td><b><b>7/00 to 11/00</b> ; <b>13/00</b>; <b>15/00</b></b></td></tr></tr><tr><td width=\"70%\">CATCHING OR KILLING INSECTS </td><td><b><b>1/00 to 5/00</b> , <b>17/00</b></b></td></tr></tr><tr><td width=\"70%\">CATCHING OR KILLING ANIMALS OTHER THAN INSECTS </td><td><b><b>19/00</b>, <b>23/00</b>, <b>25/00</b>, <b>27/00</b></b></td></tr></tr><tr><td width=\"70%\">SCARING DEVICES; HUNTING APPLIANCES </td><td><b><b>29/00</b>; <b>31/00</b></b></td></tr></tr><tr><td width=\"70%\">DESTRUCTION OF UNWANTED VEGETATION </td><td><b><b>21/00</b></b></td></tr></tr><tr><td width=\"70%\">SUBJECT MATTER NOT PROVIDED FOR IN OTHER GROUPS OF THIS SUBCLASS </td><td><b><b>99/00</b></b></td></tr></tr></table>",
+      "count": 1269,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A01": {
+      "code": "A01",
+      "level": 0,
+      "parent": "A",
+      "ja": "農業；林業；畜産；狩猟；捕獲；漁業",
+      "en": "AGRICULTURE; FORESTRY; ANIMAL HUSBANDRY; HUNTING; TRAPPING; FISHING",
+      "count": 0,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A": {
+      "code": "A",
+      "level": 0,
+      "parent": null,
+      "ja": "生活必需品",
+      "en": "HUMAN NECESSITIES",
+      "count": 0,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A01M1/00": {
+      "code": "A01M1/00",
+      "level": 0,
+      "parent": "A01M",
+      "ja": "昆虫を捕獲または殺除するための定置式装置",
+      "en": "Stationary means for catching or killing insects",
+      "count": 4953,
+      "sourceFile": "ipc_A01M.txt",
+      "kind": "ipc"
+    },
+    "A01M1/02": {
+      "code": "A01M1/02",
+      "level": 1,
+      "parent": "A01M1/00",
+      "ja": "昆虫を誘引する装置を有するもの",
+      "en": "with devices attracting the insects",
+      "count": 18107,
+      "sourceFile": "ipc_A01M.txt",
+      "kind": "ipc"
+    },
+    "A01M1/04": {
+      "code": "A01M1/04",
+      "level": 2,
+      "parent": "A01M1/02",
+      "ja": "照明を使用するもの",
+      "en": "using illumination",
+      "count": 22999,
+      "sourceFile": "ipc_A01M.txt",
+      "kind": "ipc"
+    },
+    "A01M1/06": {
+      "code": "A01M1/06",
+      "level": 1,
+      "parent": "A01M1/00",
+      "ja": "吸引効果を使用するもの",
+      "en": "using a suction effect",
+      "count": 2344,
+      "sourceFile": "ipc_A01M.txt",
+      "kind": "ipc"
+    },
+    "A01M1/08": {
+      "code": "A01M1/08",
+      "level": 1,
+      "parent": "A01M1/00",
+      "ja": "照明および吸引効果の両方を使用するもの",
+      "en": "using combined illumination and suction effects",
+      "count": 4727,
+      "sourceFile": "ipc_A01M.txt",
+      "kind": "ipc"
+    },
+    "A01M1/10": {
+      "code": "A01M1/10",
+      "level": 1,
+      "parent": "A01M1/00",
+      "ja": "わな",
+      "en": "Traps",
+      "count": 7846,
+      "sourceFile": "ipc_A01M.txt",
+      "kind": "ipc"
+    },
+    "A01M1/12": {
+      "code": "A01M1/12",
+      "level": 2,
+      "parent": "A01M1/10",
+      "ja": "自動復帰式",
+      "en": "automatically reset",
+      "count": 352,
+      "sourceFile": "ipc_A01M.txt",
+      "kind": "ipc"
+    },
+    "A01M1/14": {
+      "code": "A01M1/14",
+      "level": 1,
+      "parent": "A01M1/00",
+      "ja": "粘着面により捕獲するもの",
+      "en": "Catching by adhesive surfaces",
+      "count": 7388,
+      "sourceFile": "ipc_A01M.txt",
+      "kind": "ipc"
+    },
+    "A01M1/16": {
+      "code": "A01M1/16",
+      "level": 2,
+      "parent": "A01M1/14",
+      "ja": "蠅取紙またはリボン",
+      "en": "Fly papers or ribbons",
+      "count": 1484,
+      "sourceFile": "ipc_A01M.txt",
+      "kind": "ipc"
+    },
+    "A01M1/18": {
+      "code": "A01M1/18",
+      "level": 2,
+      "parent": "A01M1/14",
+      "ja": "樹木用の粘着性のあるバンドまたは被覆するもの",
+      "en": "Adhesive bands or coatings for trees",
+      "count": 364,
+      "sourceFile": "ipc_A01M.txt",
+      "kind": "ipc"
+    },
+    "A01M1/20": {
+      "code": "A01M1/20",
+      "level": 1,
+      "parent": "A01M1/00",
+      "ja": "昆虫の毒殺，麻酔または焼殺",
+      "en": "Poisoning, narcotising, or burning insects",
+      "count": 17394,
+      "sourceFile": "ipc_A01M.txt",
+      "kind": "ipc"
+    },
+    "A01M1/22": {
+      "code": "A01M1/22",
+      "level": 1,
+      "parent": "A01M1/00",
+      "ja": "電気的手段によるもの（そのための電気回路Ｈ０５Ｃ）",
+      "en": "by electric means(electric circuits therefor <b>H05C</b>)",
+      "count": 20023,
+      "sourceFile": "ipc_A01M.txt",
+      "kind": "ipc"
+    },
+    "A01M1/24": {
+      "code": "A01M1/24",
+      "level": 1,
+      "parent": "A01M1/00",
+      "ja": "建築物，戸，窓または類似のものと結合したもの",
+      "en": "Arrangements connected with buildings, doors, windows, or the like",
+      "count": 1733,
+      "sourceFile": "ipc_A01M.txt",
+      "kind": "ipc"
+    },
+    "A01M3/00": {
+      "code": "A01M3/00",
+      "level": 0,
+      "parent": "A01M",
+      "ja": "噴霧機または散粉機以外の昆虫を捕獲または殺除するための手動器具，例．捕蝶網",
+      "en": "Manual implements, other than sprayers or powder distributors, for catching or killing insects, e.g. butterfly nets",
+      "count": 2904,
+      "sourceFile": "ipc_A01M.txt",
+      "kind": "ipc"
+    },
+    "A01M3/02": {
+      "code": "A01M3/02",
+      "level": 1,
+      "parent": "A01M3/00",
+      "ja": "蠅叩き",
+      "en": "Fly-swatters",
+      "count": 2326,
+      "sourceFile": "ipc_A01M.txt",
+      "kind": "ipc"
+    },
+    "A01M3/04": {
+      "code": "A01M3/04",
+      "level": 1,
+      "parent": "A01M3/00",
+      "ja": "粘着面を有するもの",
+      "en": "with adhesive surfaces",
+      "count": 550,
+      "sourceFile": "ipc_A01M.txt",
+      "kind": "ipc"
+    },
+    "A01M5/00": {
+      "code": "A01M5/00",
+      "level": 0,
+      "parent": "A01M",
+      "ja": "可動式装置による原野，庭園，または森林での昆虫の捕獲",
+      "en": "Catching insects in fields, gardens, or forests by movable appliances",
+      "count": 722,
+      "sourceFile": "ipc_A01M.txt",
+      "kind": "ipc"
+    },
+    "A01M5/02": {
+      "code": "A01M5/02",
+      "level": 1,
+      "parent": "A01M5/00",
+      "ja": "持ち運びできる装置",
+      "en": "Portable appliances",
+      "count": 593,
+      "sourceFile": "ipc_A01M.txt",
+      "kind": "ipc"
+    },
+    "A01M5/04": {
+      "code": "A01M5/04",
+      "level": 1,
+      "parent": "A01M5/00",
+      "ja": "昆虫を取り除くかまたは払い除くための装置を備えた車輪付機械",
+      "en": "Wheeled machines, with means for stripping-off or brushing-off insects",
+      "count": 356,
+      "sourceFile": "ipc_A01M.txt",
+      "kind": "ipc"
+    },
+    "A01M5/06": {
+      "code": "A01M5/06",
+      "level": 2,
+      "parent": "A01M5/04",
+      "ja": "粘着面を有するもの",
+      "en": "with adhesive surfaces",
+      "count": 68,
+      "sourceFile": "ipc_A01M.txt",
+      "kind": "ipc"
+    },
+    "A01M5/08": {
+      "code": "A01M5/08",
+      "level": 2,
+      "parent": "A01M5/04",
+      "ja": "ファンを有するもの",
+      "en": "with fans",
+      "count": 242,
+      "sourceFile": "ipc_A01M.txt",
+      "kind": "ipc"
+    },
+    "A01M7/00": {
+      "code": "A01M7/00",
+      "level": 0,
+      "parent": "A01M",
+      "ja": "このサブクラスに属する目的に従った液体散布機の特殊な適用または配列",
+      "en": "Special adaptations or arrangements of liquid-spraying apparatus for purposes covered by this subclass",
+      "count": 63341,
+      "sourceFile": "ipc_A01M.txt",
+      "kind": "ipc"
+    },
+    "A01M9/00": {
+      "code": "A01M9/00",
+      "level": 0,
+      "parent": "A01M",
+      "ja": "このサブクラスに属する目的に従った粉体散布機の特殊な適用または配列",
+      "en": "Special adaptations or arrangements of powder-spraying apparatus for purposes covered by this subclass",
+      "count": 4219,
+      "sourceFile": "ipc_A01M.txt",
+      "kind": "ipc"
+    },
+    "A01M11/00": {
+      "code": "A01M11/00",
+      "level": 0,
+      "parent": "A01M",
+      "ja": "このサブクラスに属する目的に従った液体と粉体の散布機を結合したものの特殊な適用または配列",
+      "en": "Special adaptations or arrangements of combined liquid- and powder-spraying apparatus for purposes covered by this subclass",
+      "count": 568,
+      "sourceFile": "ipc_A01M.txt",
+      "kind": "ipc"
+    },
+    "A01M13/00": {
+      "code": "A01M13/00",
+      "level": 0,
+      "parent": "A01M",
+      "ja": "くん蒸機；ガス散布装置",
+      "en": "Fumigators; Apparatus for distributing gases",
+      "count": 10164,
+      "sourceFile": "ipc_A01M.txt",
+      "kind": "ipc"
+    },
+    "A01M15/00": {
+      "code": "A01M15/00",
+      "level": 0,
+      "parent": "A01M",
+      "ja": "このサブクラスに属する目的に従った特殊に適用された火炎放射機",
+      "en": "Flame-throwers specially adapted for purposes covered by this subclass",
+      "count": 669,
+      "sourceFile": "ipc_A01M.txt",
+      "kind": "ipc"
+    },
+    "A01M17/00": {
+      "code": "A01M17/00",
+      "level": 0,
+      "parent": "A01M",
+      "ja": "土壌中または食品材料中の害虫駆除装置",
+      "en": "Apparatus for the destruction of vermin in soil or in foodstuffs",
+      "count": 5522,
+      "sourceFile": "ipc_A01M.txt",
+      "kind": "ipc"
+    },
+    "A01M19/00": {
+      "code": "A01M19/00",
+      "level": 0,
+      "parent": "A01M",
+      "ja": "熱湯，蒸気，熱風，または電気による昆虫以外の有害な動物の駆除（そのための電気回路Ｈ０５Ｃ）",
+      "en": "Apparatus for the destruction of noxious animals, other than insects, by hot water, steam, hot air, or electricity(electric circuits therefor <b>H05C</b>)",
+      "count": 1023,
+      "sourceFile": "ipc_A01M.txt",
+      "kind": "ipc"
+    },
+    "A01M21/00": {
+      "code": "A01M21/00",
+      "level": 0,
+      "parent": "A01M",
+      "ja": "不要植物，例．雑草，の除草装置（道路または鉄道の路盤上の無用植物の発生防止Ｅ０１Ｈ１１／００）",
+      "en": "Apparatus for the destruction of unwanted vegetation, e.g. weeds(control of undesirable vegetation on roads or permanent ways of railways <b>E01H11/00</b>)",
+      "count": 2070,
+      "sourceFile": "ipc_A01M.txt",
+      "kind": "ipc"
+    },
+    "A01M21/02": {
+      "code": "A01M21/02",
+      "level": 1,
+      "parent": "A01M21/00",
+      "ja": "機械的駆除のための装置",
+      "en": "Apparatus for mechanical destruction",
+      "count": 2912,
+      "sourceFile": "ipc_A01M.txt",
+      "kind": "ipc"
+    },
+    "A01M21/04": {
+      "code": "A01M21/04",
+      "level": 1,
+      "parent": "A01M21/00",
+      "ja": "蒸気，化学物質，火炎または電気によって駆除を行なうための装置",
+      "en": "Apparatus for destruction by steam, chemicals, burning, or electricity",
+      "count": 5640,
+      "sourceFile": "ipc_A01M.txt",
+      "kind": "ipc"
+    },
+    "A01M23/00": {
+      "code": "A01M23/00",
+      "level": 0,
+      "parent": "A01M",
+      "ja": "動物用わな",
+      "en": "Traps for animals",
+      "count": 2977,
+      "sourceFile": "ipc_A01M.txt",
+      "kind": "ipc"
+    },
+    "A01M23/02": {
+      "code": "A01M23/02",
+      "level": 1,
+      "parent": "A01M23/00",
+      "ja": "捕集式わな",
+      "en": "Collecting-traps",
+      "count": 930,
+      "sourceFile": "ipc_A01M.txt",
+      "kind": "ipc"
+    },
+    "A01M23/04": {
+      "code": "A01M23/04",
+      "level": 2,
+      "parent": "A01M23/02",
+      "ja": "傾斜，反転する台を有するもの",
+      "en": "with tipping platforms",
+      "count": 1144,
+      "sourceFile": "ipc_A01M.txt",
+      "kind": "ipc"
+    },
+    "A01M23/06": {
+      "code": "A01M23/06",
+      "level": 3,
+      "parent": "A01M23/04",
+      "ja": "傾斜，反転する台に施錠機構を有するもの",
+      "en": "with locking mechanism for the tipping platform",
+      "count": 204,
+      "sourceFile": "ipc_A01M.txt",
+      "kind": "ipc"
+    },
+    "A01M23/08": {
+      "code": "A01M23/08",
+      "level": 2,
+      "parent": "A01M23/02",
+      "ja": "はいることのみができる通路を有するもの",
+      "en": "with approaches permitting entry only",
+      "count": 1786,
+      "sourceFile": "ipc_A01M.txt",
+      "kind": "ipc"
+    },
+    "A01M23/10": {
+      "code": "A01M23/10",
+      "level": 2,
+      "parent": "A01M23/02",
+      "ja": "回転円筒または回転戸を有するもの",
+      "en": "with rotating cylinders or turnstiles",
+      "count": 305,
+      "sourceFile": "ipc_A01M.txt",
+      "kind": "ipc"
+    },
+    "A01M23/12": {
+      "code": "A01M23/12",
+      "level": 2,
+      "parent": "A01M23/02",
+      "ja": "捕獲室内に動物を投げ込むための装置を有するもの",
+      "en": "with devices for throwing the animal to a collecting chamber",
+      "count": 289,
+      "sourceFile": "ipc_A01M.txt",
+      "kind": "ipc"
+    },
+    "A01M23/14": {
+      "code": "A01M23/14",
+      "level": 2,
+      "parent": "A01M23/02",
+      "ja": "その他自動復帰式わな",
+      "en": "Other traps automatically reset",
+      "count": 559,
+      "sourceFile": "ipc_A01M.txt",
+      "kind": "ipc"
+    },
+    "A01M23/16": {
+      "code": "A01M23/16",
+      "level": 1,
+      "parent": "A01M23/00",
+      "ja": "箱形わな",
+      "en": "Box traps",
+      "count": 1349,
+      "sourceFile": "ipc_A01M.txt",
+      "kind": "ipc"
+    },
+    "A01M23/18": {
+      "code": "A01M23/18",
+      "level": 2,
+      "parent": "A01M23/16",
+      "ja": "枢着された閉鎖用フラップを有するもの",
+      "en": "with pivoted closure flaps",
+      "count": 1311,
+      "sourceFile": "ipc_A01M.txt",
+      "kind": "ipc"
+    },
+    "A01M23/20": {
+      "code": "A01M23/20",
+      "level": 2,
+      "parent": "A01M23/16",
+      "ja": "落下式扉または滑走式扉を有するもの",
+      "en": "with dropping doors or slides",
+      "count": 1371,
+      "sourceFile": "ipc_A01M.txt",
+      "kind": "ipc"
+    },
+    "A01M23/22": {
+      "code": "A01M23/22",
+      "level": 2,
+      "parent": "A01M23/16",
+      "ja": "落下式覆いを有するもの",
+      "en": "with dropping covers",
+      "count": 328,
+      "sourceFile": "ipc_A01M.txt",
+      "kind": "ipc"
+    },
+    "A01M23/24": {
+      "code": "A01M23/24",
+      "level": 1,
+      "parent": "A01M23/00",
+      "ja": "挾み具または類似したバネ利用のわな",
+      "en": "Jaw or like spring traps",
+      "count": 1191,
+      "sourceFile": "ipc_A01M.txt",
+      "kind": "ipc"
+    },
+    "A01M23/26": {
+      "code": "A01M23/26",
+      "level": 2,
+      "parent": "A01M23/24",
+      "ja": "二重挾み形またはヤットコ形のもの",
+      "en": "of the double-jaw or pincer type",
+      "count": 854,
+      "sourceFile": "ipc_A01M.txt",
+      "kind": "ipc"
+    },
+    "A01M23/28": {
+      "code": "A01M23/28",
+      "level": 3,
+      "parent": "A01M23/26",
+      "ja": "挾み形わなを仕掛けるための装置",
+      "en": "Jaw trap setting-devices",
+      "count": 99,
+      "sourceFile": "ipc_A01M.txt",
+      "kind": "ipc"
+    },
+    "A01M23/30": {
+      "code": "A01M23/30",
+      "level": 2,
+      "parent": "A01M23/24",
+      "ja": "動物を殺傷するわな",
+      "en": "Break-back traps",
+      "count": 891,
+      "sourceFile": "ipc_A01M.txt",
+      "kind": "ipc"
+    },
+    "A01M23/32": {
+      "code": "A01M23/32",
+      "level": 2,
+      "parent": "A01M23/24",
+      "ja": "ラケットネット形わな",
+      "en": "Racket net traps",
+      "count": 95,
+      "sourceFile": "ipc_A01M.txt",
+      "kind": "ipc"
+    },
+    "A01M23/34": {
+      "code": "A01M23/34",
+      "level": 2,
+      "parent": "A01M23/24",
+      "ja": "括りわな",
+      "en": "with snares",
+      "count": 664,
+      "sourceFile": "ipc_A01M.txt",
+      "kind": "ipc"
+    },
+    "A01M23/36": {
+      "code": "A01M23/36",
+      "level": 2,
+      "parent": "A01M23/24",
+      "ja": "捕獲動物を突き刺すための装置を有するもの",
+      "en": "with arrangements for piercing the victim",
+      "count": 266,
+      "sourceFile": "ipc_A01M.txt",
+      "kind": "ipc"
+    },
+    "A01M23/38": {
+      "code": "A01M23/38",
+      "level": 1,
+      "parent": "A01M23/00",
+      "ja": "電気仕掛わな",
+      "en": "Electric traps",
+      "count": 1259,
+      "sourceFile": "ipc_A01M.txt",
+      "kind": "ipc"
+    },
+    "A01M25/00": {
+      "code": "A01M25/00",
+      "level": 0,
+      "parent": "A01M",
+      "ja": "動物に毒物を施用するための装置（Ａ０１Ｍ２７／００が優先；昆虫のためのものＡ０１Ｍ１／２０）［３］",
+      "en": "Devices for dispensing poison for animals(<b>A01M27/00</b> takes precedence; for insects <b>A01M1/20</b>)",
+      "count": 2120,
+      "sourceFile": "ipc_A01M.txt",
+      "kind": "ipc"
+    },
+    "A01M27/00": {
+      "code": "A01M27/00",
+      "level": 0,
+      "parent": "A01M",
+      "ja": "動物を殺すため，例．刺殺または射殺するために発射され，そして動物自体によって発動される発射体または殺傷具を持つ装置［３］",
+      "en": "Apparatus having projectiles or killing implements projected to kill the animal, e.g. pierce or shoot, and triggered thereby",
+      "count": 584,
+      "sourceFile": "ipc_A01M.txt",
+      "kind": "ipc"
+    },
+    "A01M29/00": {
+      "code": "A01M29/00",
+      "level": 0,
+      "parent": "A01M",
+      "ja": "おどし機または忌避機，例．鳥おどし機［１，２０１１．０１］",
+      "en": "Scaring or repelling devices, e.g. bird-scaring apparatus",
+      "count": 6115,
+      "sourceFile": "ipc_A01M.txt",
+      "kind": "ipc"
+    },
+    "A01M29/06": {
+      "code": "A01M29/06",
+      "level": 1,
+      "parent": "A01M29/00",
+      "ja": "視覚によるもの，例．案山子，動く要素，特定の形状，模様またはそれに類するもの［２０１１．０１］",
+      "en": "using visual means, e.g. scarecrows, moving elements, specific shapes, patterns or the like",
+      "count": 5904,
+      "sourceFile": "ipc_A01M.txt",
+      "kind": "ipc"
+    },
+    "A01M29/08": {
+      "code": "A01M29/08",
+      "level": 2,
+      "parent": "A01M29/06",
+      "ja": "反射，色，特定の透過性または反射性を有するフィルムによるもの［２０１１．０１］",
+      "en": "using reflection, colours or films with specific transparency or reflectivity",
+      "count": 3913,
+      "sourceFile": "ipc_A01M.txt",
+      "kind": "ipc"
+    },
+    "A01M29/10": {
+      "code": "A01M29/10",
+      "level": 2,
+      "parent": "A01M29/06",
+      "ja": "光源によるもの，例．レーザー光または閃光［２０１１．０１］",
+      "en": "using light sources, e.g. lasers or flashing lights",
+      "count": 6030,
+      "sourceFile": "ipc_A01M.txt",
+      "kind": "ipc"
+    },
+    "A01M29/12": {
+      "code": "A01M29/12",
+      "level": 1,
+      "parent": "A01M29/00",
+      "ja": "臭いのある物質によるもの，例．アロマ，フェロモンまたは化学物質［２０１１．０１］",
+      "en": "using odoriferous substances, e.g. aromas, pheromones or chemical agents",
+      "count": 12142,
+      "sourceFile": "ipc_A01M.txt",
+      "kind": "ipc"
+    },
+    "A01M29/14": {
+      "code": "A01M29/14",
+      "level": 1,
+      "parent": "A01M29/00",
+      "ja": "温度効果によるもの［２０１１．０１］",
+      "en": "using thermal effects",
+      "count": 221,
+      "sourceFile": "ipc_A01M.txt",
+      "kind": "ipc"
+    },
+    "A01M29/16": {
+      "code": "A01M29/16",
+      "level": 1,
+      "parent": "A01M29/00",
+      "ja": "音波によるもの［２０１１．０１］",
+      "en": "using sound waves",
+      "count": 8876,
+      "sourceFile": "ipc_A01M.txt",
+      "kind": "ipc"
+    },
+    "A01M29/18": {
+      "code": "A01M29/18",
+      "level": 2,
+      "parent": "A01M29/16",
+      "ja": "超音波によるもの［２０１１．０１］",
+      "en": "using ultrasonic signals",
+      "count": 4825,
+      "sourceFile": "ipc_A01M.txt",
+      "kind": "ipc"
+    },
+    "A01M29/20": {
+      "code": "A01M29/20",
+      "level": 2,
+      "parent": "A01M29/16",
+      "ja": "周期的な爆発音の発生を伴うもの［２０１１．０１］",
+      "en": "with generation of periodically explosive reports",
+      "count": 310,
+      "sourceFile": "ipc_A01M.txt",
+      "kind": "ipc"
+    },
+    "A01M29/22": {
+      "code": "A01M29/22",
+      "level": 1,
+      "parent": "A01M29/00",
+      "ja": "振動によるもの（Ａ０１Ｍ２９／１６が優先する）［２０１１．０１］",
+      "en": "using vibrations(<b>A01M29/16</b> takes precedence)",
+      "count": 610,
+      "sourceFile": "ipc_A01M.txt",
+      "kind": "ipc"
+    },
+    "A01M29/24": {
+      "code": "A01M29/24",
+      "level": 1,
+      "parent": "A01M29/00",
+      "ja": "電気または磁気によるもの，例．電気ショック，磁場またはマイクロ波［２０１１．０１］",
+      "en": "using electric or magnetic effects, e.g. electric shocks, magnetic fields or microwaves",
+      "count": 1397,
+      "sourceFile": "ipc_A01M.txt",
+      "kind": "ipc"
+    },
+    "A01M29/26": {
+      "code": "A01M29/26",
+      "level": 2,
+      "parent": "A01M29/24",
+      "ja": "特に鳥に適したもの，例．通電した棒，紐または薄板［２０１１．０１］",
+      "en": "specially adapted for birds, e.g. electrified rods, cords or strips",
+      "count": 620,
+      "sourceFile": "ipc_A01M.txt",
+      "kind": "ipc"
+    },
+    "A01M29/28": {
+      "code": "A01M29/28",
+      "level": 2,
+      "parent": "A01M29/24",
+      "ja": "特に虫に適したもの［２０１１．０１］",
+      "en": "specially adapted for insects",
+      "count": 558,
+      "sourceFile": "ipc_A01M.txt",
+      "kind": "ipc"
+    },
+    "A01M29/30": {
+      "code": "A01M29/30",
+      "level": 1,
+      "parent": "A01M29/00",
+      "ja": "接近または通行を阻止または妨害するもの，例．障壁，棘，紐，障害物または散水による［２０１１．０１］",
+      "en": "preventing or obstructing access or passage, e.g. by means of barriers, spikes, cords, obstacles or sprinkled water",
+      "count": 4877,
+      "sourceFile": "ipc_A01M.txt",
+      "kind": "ipc"
+    },
+    "A01M29/32": {
+      "code": "A01M29/32",
+      "level": 2,
+      "parent": "A01M29/30",
+      "ja": "特に鳥に適したもの，例．棘［２０１１．０１］",
+      "en": "specially adapted for birds, e.g. spikes",
+      "count": 5550,
+      "sourceFile": "ipc_A01M.txt",
+      "kind": "ipc"
+    },
+    "A01M29/34": {
+      "code": "A01M29/34",
+      "level": 2,
+      "parent": "A01M29/30",
+      "ja": "特に虫に適したもの［２０１１．０１］",
+      "en": "specially adapted for insects",
+      "count": 4454,
+      "sourceFile": "ipc_A01M.txt",
+      "kind": "ipc"
+    },
+    "A01M31/00": {
+      "code": "A01M31/00",
+      "level": 0,
+      "parent": "A01M",
+      "ja": "狩猟用具",
+      "en": "Hunting appliances",
+      "count": 2371,
+      "sourceFile": "ipc_A01M.txt",
+      "kind": "ipc"
+    },
+    "A01M31/02": {
+      "code": "A01M31/02",
+      "level": 1,
+      "parent": "A01M31/00",
+      "ja": "発射台",
+      "en": "Shooting stands",
+      "count": 1290,
+      "sourceFile": "ipc_A01M.txt",
+      "kind": "ipc"
+    },
+    "A01M31/04": {
+      "code": "A01M31/04",
+      "level": 1,
+      "parent": "A01M31/00",
+      "ja": "発音器具",
+      "en": "Beater rattles",
+      "count": 62,
+      "sourceFile": "ipc_A01M.txt",
+      "kind": "ipc"
+    },
+    "A01M31/06": {
+      "code": "A01M31/06",
+      "level": 1,
+      "parent": "A01M31/00",
+      "ja": "おとり",
+      "en": "Decoys",
+      "count": 1287,
+      "sourceFile": "ipc_A01M.txt",
+      "kind": "ipc"
+    },
+    "A01M99/00": {
+      "code": "A01M99/00",
+      "level": 0,
+      "parent": "A01M",
+      "ja": "このサブクラスの他のグループに分類されない主題事項［８］",
+      "en": "Subject matter not provided for in other groups of this subclass",
+      "count": 1250,
+      "sourceFile": "ipc_A01M.txt",
+      "kind": "ipc"
+    }
+  }
+};

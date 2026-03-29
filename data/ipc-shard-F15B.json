@@ -1,0 +1,1186 @@
+{
+  "generatedAt": "2026-03-20T02:17:46.825Z",
+  "total": 118,
+  "entries": {
+    "F15B": {
+      "code": "F15B",
+      "level": 0,
+      "parent": "F15",
+      "ja": "流体手段によって作動する系一般；流体圧アクチュエータ，例．サーボモータ；他に分類されない流体圧系の細部<br><br><b><ul>注</ul></b><br>このサブクラスにおいては，下記の用語は以下に示す意味で用いる：<br>―“テレモータ”は，入力部材と出力部材の間に実質的に一定量の流体が封じこまれており，流体的なリンクとして作用する系または装置を意味する；<br>―“サーボモータ”は流体圧アクチュエータを意味する，例．イニシャル制御部材の操作に応答する弁または他の機器によって直接制御されるピストン・シリンダ；“サーボモータ”はテレモータを含まない。イニシャル制御部材はサーボモータに近接していてもよいし，離れていてもよく，たとえばハンドレバーであってもよい。<br><br><b><ul>サブクラス内の索引</ul></b><br>圧力流体の供給　１／００<br>増圧器または流体圧転換器；変換器　３／００；５／００<br>流体圧アクチュエータ系<br>テレモータまたはポンプの出力に関連する系　７／００<br>サーボモーター　９／００，１１／００，１３／００<br>部材を移すための機器　１５／００<br>テレモータとサーボモータの組み合わせ；その他の系；細部　１７／００；１８／００；２１／００<br>試験；安全　１９／００；２０／００",
+      "en": "SYSTEMS ACTING BY MEANS OF FLUIDS IN GENERAL; FLUID-PRESSURE ACTUATORS, e.g. SERVOMOTORS; DETAILS OF FLUID-PRESSURE SYSTEMS, NOT OTHERWISE PROVIDED FOR; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this subclass, the following terms are used with the meanings indicated:<ul><li>\"telemotor\" means a system or device in which a substantially constant amount of fluid is trapped between an input member and an output member to act as a fluid link;</li><li>\"servomotor\" means a fluid-pressure actuator, e.g. a piston and cylinder, directly controlled by a valve or other device which is responsive to operation of an initial controlling member; \"Servomotor\" does not cover a telemotor. The initial controlling member may be adjacent to the servomotor or at a distance, and may be, for example, a hand lever.</li></ul></li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">SUPPLYING FLUID UNDER PRESSURE </td><td><b><b>1/00</b></b></td></tr></tr><tr><td width=\"70%\">INTENSIFIERS OR FLUID-PRESSURE CONVERTERS; TRANSDUCERS </td><td><b><b>3/00</b>; <b>5/00</b></b></td></tr></tr><tr><td width=\"70%\">FLUID-PRESSURE ACTUATOR SYSTEMS<tr><td width=\"70%\">Telemotors or systems related to the output of a pump </td><td><b><b>7/00</b></b></td></tr></tr><tr><td width=\"70%\">Servomotors </td><td><b><b>9/00</b>, <b>11/00</b>, <b>13/00</b></b></td></tr></tr><tr><td width=\"70%\">Devices for displacing a member </td><td><b><b>15/00</b></b></td></tr></tr><tr><td width=\"70%\">Combinations of telemotors and servomotors; other systems; details </td><td><b><b>17/00</b>; <b>18/00</b>; <b>21/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">TESTING; SAFETY </td><td><b><b>19/00</b>; <b>20/00</b></b></td></tr></tr></table>",
+      "count": 2027,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F15": {
+      "code": "F15",
+      "level": 0,
+      "parent": "F",
+      "ja": "流体圧アクチュエータ；水力学または空気力学一般",
+      "en": "FLUID-PRESSURE ACTUATORS; HYDRAULICS OR PNEUMATICS IN GENERAL",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F": {
+      "code": "F",
+      "level": 0,
+      "parent": null,
+      "ja": "機械工学；照明；加熱；武器；爆破",
+      "en": "MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F15B1/00": {
+      "code": "F15B1/00",
+      "level": 0,
+      "parent": "F15B",
+      "ja": "アキュムレータをもつ装置または系；補給槽または排液槽装置",
+      "en": "Installations or systems with accumulators; Supply reservoir or sump assemblies",
+      "count": 1933,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B1/02": {
+      "code": "F15B1/02",
+      "level": 1,
+      "parent": "F15B1/00",
+      "ja": "アキュムレータをもつ装置または系［２００６．０１］",
+      "en": "Installations or systems with accumulators ",
+      "count": 8557,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B1/027": {
+      "code": "F15B1/027",
+      "level": 2,
+      "parent": "F15B1/02",
+      "ja": "アキュムレータ充填装置をもつもの［２００６．０１］",
+      "en": "having accumulator charging devices ",
+      "count": 1294,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B1/033": {
+      "code": "F15B1/033",
+      "level": 3,
+      "parent": "F15B1/027",
+      "ja": "電気的制御手段をもつもの［６］",
+      "en": "with electrical control means",
+      "count": 566,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B1/04": {
+      "code": "F15B1/04",
+      "level": 2,
+      "parent": "F15B1/02",
+      "ja": "アキュムレータ［２００６．０１］",
+      "en": "Accumulators",
+      "count": 2997,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B1/08": {
+      "code": "F15B1/08",
+      "level": 3,
+      "parent": "F15B1/04",
+      "ja": "ガスクッションを用いるもの；ガス充填装置；そのための指示器またはフロート［６］",
+      "en": "using a gas cushion; Gas charging devices; Indicators or floats therefor",
+      "count": 2072,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B1/10": {
+      "code": "F15B1/10",
+      "level": 4,
+      "parent": "F15B1/08",
+      "ja": "柔軟な分離手段をもつもの［６］",
+      "en": "with flexible separating means",
+      "count": 974,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B1/12": {
+      "code": "F15B1/12",
+      "level": 5,
+      "parent": "F15B1/10",
+      "ja": "それらの周囲に取り付けたもの（チューブの形状の柔軟な分離手段Ｆ１５Ｂ１／１６）［２００６．０１］",
+      "en": "attached at their periphery (flexible separating means in the form of a tube <b>F15B1/16</b>)",
+      "count": 236,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B1/14": {
+      "code": "F15B1/14",
+      "level": 6,
+      "parent": "F15B1/12",
+      "ja": "剛性環状支持部材によるもの［６］",
+      "en": "by means of a rigid annular supporting member",
+      "count": 203,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B1/16": {
+      "code": "F15B1/16",
+      "level": 5,
+      "parent": "F15B1/10",
+      "ja": "チューブの形状のもの［６］",
+      "en": "in the form of a tube",
+      "count": 268,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B1/18": {
+      "code": "F15B1/18",
+      "level": 5,
+      "parent": "F15B1/10",
+      "ja": "はみ出し防止手段［６］",
+      "en": "Anti-extrusion means",
+      "count": 136,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B1/20": {
+      "code": "F15B1/20",
+      "level": 6,
+      "parent": "F15B1/18",
+      "ja": "分離手段に固定したもの［６］",
+      "en": "fixed to the separating means",
+      "count": 78,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B1/22": {
+      "code": "F15B1/22",
+      "level": 4,
+      "parent": "F15B1/08",
+      "ja": "液体出入口構造［６］",
+      "en": "Liquid port constructions",
+      "count": 338,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B1/24": {
+      "code": "F15B1/24",
+      "level": 4,
+      "parent": "F15B1/08",
+      "ja": "剛性分離手段，例．ピストン，をもつもの［６］",
+      "en": "with rigid separating means, e.g. pistons",
+      "count": 1397,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B1/26": {
+      "code": "F15B1/26",
+      "level": 1,
+      "parent": "F15B1/00",
+      "ja": "補給槽または排液槽装置［６］",
+      "en": "Supply reservoir or sump assemblies",
+      "count": 7615,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B3/00": {
+      "code": "F15B3/00",
+      "level": 0,
+      "parent": "F15B",
+      "ja": "増圧器または流体圧転換機，例．圧力変換器；ある流体系から他の流体系へ流体間の接触なしに圧力を伝えるもの",
+      "en": "Intensifiers or fluid-pressure converters, e.g. pressure exchangers; Conveying pressure from one fluid system to another, without contact between the fluids",
+      "count": 5203,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B5/00": {
+      "code": "F15B5/00",
+      "level": 0,
+      "parent": "F15B",
+      "ja": "物理量の変化，例．部材の位置の変化によって表現されるもの，を流体圧の変化またはその逆に変換する変換器；複数の流体圧の変化または他の量の変化の関数として流体圧を変化させるもの（Ｆ１５Ｂ９／００が優先）［２００６．０１］",
+      "en": "Transducers converting variations of physical quantities, e.g. expressed by variations in positions of members, into fluid-pressure variations or vice versa; Varying fluid pressure as a function of variations of a plurality of fluid pressures or variations of other quantities(<b>F15B9/00</b> takes precedence)",
+      "count": 2184,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B7/00": {
+      "code": "F15B7/00",
+      "level": 0,
+      "parent": "F15B",
+      "ja": "生じる動きが容積形ポンプの出力に一義的に関係する流体圧アクチュエータ系；テレモータ",
+      "en": "Fluid-pressure actuator systems in which the movement produced is definitely related to the output of a volumetric pump; Telemotors",
+      "count": 1924,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B7/02": {
+      "code": "F15B7/02",
+      "level": 1,
+      "parent": "F15B7/00",
+      "ja": "連続的に作動する入力装置および出力装置をもつ系",
+      "en": "Systems with continuously-operating input and output apparatus",
+      "count": 309,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B7/04": {
+      "code": "F15B7/04",
+      "level": 1,
+      "parent": "F15B7/00",
+      "ja": "ポンプの行程とモータの行程の比がモータの負荷とともに変化するもの［２００６．０１］",
+      "en": "in which the ratio between pump stroke and motor stroke varies with the resistance against the motor ",
+      "count": 87,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B7/06": {
+      "code": "F15B7/06",
+      "level": 1,
+      "parent": "F15B7/00",
+      "ja": "細部（Ｆ１５Ｂ１５／００が優先）",
+      "en": "Details(<b>F15B15/00</b> takes precedence)",
+      "count": 567,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B7/08": {
+      "code": "F15B7/08",
+      "level": 2,
+      "parent": "F15B7/06",
+      "ja": "入力ユニット；主ユニット",
+      "en": "Input units; Master units",
+      "count": 1029,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B7/10": {
+      "code": "F15B7/10",
+      "level": 2,
+      "parent": "F15B7/06",
+      "ja": "系における流体量の補償（Ｆ１５Ｂ７／０８が優先）［２００６．０１］",
+      "en": "Compensation of the liquid content in a system (<b>F15B7/08</b> takes precedence)",
+      "count": 443,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B9/00": {
+      "code": "F15B9/00",
+      "level": 0,
+      "parent": "F15B",
+      "ja": "追従動作をするサーボモータ，すなわちその被作動部材の位置が制御部材の位置に従うもの",
+      "en": "Servomotors with follow-up action, i.e. in which the position of the actuated member conforms with that of the controlling member",
+      "count": 617,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B9/02": {
+      "code": "F15B9/02",
+      "level": 1,
+      "parent": "F15B9/00",
+      "ja": "往復動形または揺動形のサーボモータをもつもの",
+      "en": "with servomotors of the reciprocatable or oscillatable type",
+      "count": 439,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B9/03": {
+      "code": "F15B9/03",
+      "level": 2,
+      "parent": "F15B9/02",
+      "ja": "電気的制御手段をもつもの",
+      "en": "with electrical control means",
+      "count": 862,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B9/04": {
+      "code": "F15B9/04",
+      "level": 2,
+      "parent": "F15B9/02",
+      "ja": "可変容積形ポンプの出力を変えることによって制御されるもの",
+      "en": "controlled by varying the output of a pump with variable capacity",
+      "count": 239,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B9/06": {
+      "code": "F15B9/06",
+      "level": 2,
+      "parent": "F15B9/02",
+      "ja": "流体噴流を用いて制御されるもの",
+      "en": "controlled by means using a fluid jet",
+      "count": 181,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B9/07": {
+      "code": "F15B9/07",
+      "level": 3,
+      "parent": "F15B9/06",
+      "ja": "電気的制御手段をもつもの",
+      "en": "with electrical control means",
+      "count": 262,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B9/08": {
+      "code": "F15B9/08",
+      "level": 2,
+      "parent": "F15B9/02",
+      "ja": "サーボモータの流体供給量または流体流出量に影響を与える弁によって制御されるもの（Ｆ１５Ｂ９／０６が優先）",
+      "en": "controlled by valves affecting the fluid feed or the fluid outlet of the servomotor(<b>F15B9/06</b> takes precedence)",
+      "count": 1579,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B9/09": {
+      "code": "F15B9/09",
+      "level": 3,
+      "parent": "F15B9/08",
+      "ja": "電気的制御手段をもつもの",
+      "en": "with electrical control means",
+      "count": 1660,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B9/10": {
+      "code": "F15B9/10",
+      "level": 3,
+      "parent": "F15B9/08",
+      "ja": "制御要素とサーボモータがそれぞれ別の部材を制御し，それらの部材は異なった流体通路または同じ通路を制御するもの",
+      "en": "in which the controlling element and the servomotor each controls a separate member, these members influencing different fluid passages or the same passage",
+      "count": 635,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B9/12": {
+      "code": "F15B9/12",
+      "level": 3,
+      "parent": "F15B9/08",
+      "ja": "制御要素とサーボモータは流体通路に影響を与える同一の部材を制御し，差動伝動装置によりその部材に連結されるもの",
+      "en": "in which both the controlling element and the servomotor control the same member influencing a fluid passage and are connected to that member by means of a differential gearing",
+      "count": 504,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B9/14": {
+      "code": "F15B9/14",
+      "level": 1,
+      "parent": "F15B9/00",
+      "ja": "回転形サーボモータをもつもの",
+      "en": "with rotary servomotors",
+      "count": 513,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B9/16": {
+      "code": "F15B9/16",
+      "level": 1,
+      "parent": "F15B9/00",
+      "ja": "実質上２個またはそれ以上の相互作用をするサーボモータをもつ系",
+      "en": "Systems essentially having two or more interacting servomotors",
+      "count": 251,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B9/17": {
+      "code": "F15B9/17",
+      "level": 2,
+      "parent": "F15B9/16",
+      "ja": "電気的制御手段をもつもの",
+      "en": "with electrical control means",
+      "count": 263,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B11/00": {
+      "code": "F15B11/00",
+      "level": 0,
+      "parent": "F15B",
+      "ja": "追従動作をしないサーボモータ系（Ｆ１５Ｂ３／００が優先）",
+      "en": "Servomotor systems without provision for follow-up action(<b>F15B3/00</b> takes precedence)",
+      "count": 10211,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B11/02": {
+      "code": "F15B11/02",
+      "level": 1,
+      "parent": "F15B11/00",
+      "ja": "出力部材の作動力または速度を制御するための特有な要素を実質上もつ系",
+      "en": "Systems essentially incorporating special features for controlling the speed or the actuating force or speed of an output member",
+      "count": 7358,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B11/024": {
+      "code": "F15B11/024",
+      "level": 2,
+      "parent": "F15B11/02",
+      "ja": "サーボモータラインの特異な接続によるもの，例．再生回路［６］",
+      "en": "by means of differential connection of the servomotor lines, e.g. regenerative circuits",
+      "count": 1213,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B11/028": {
+      "code": "F15B11/028",
+      "level": 2,
+      "parent": "F15B11/02",
+      "ja": "作動力を制御するためのもの（Ｆ１５Ｂ１１／０２４が優先）［６］",
+      "en": "for controlling the actuating force(<b>F15B11/024</b> takes precedence)",
+      "count": 3319,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B11/032": {
+      "code": "F15B11/032",
+      "level": 3,
+      "parent": "F15B11/028",
+      "ja": "流体圧転換器によるもの［２００６．０１］",
+      "en": "by means of fluid-pressure converters ",
+      "count": 458,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B11/036": {
+      "code": "F15B11/036",
+      "level": 3,
+      "parent": "F15B11/028",
+      "ja": "複数の作動室をもつサーボモータによるもの［２００６．０１］",
+      "en": "by means of servomotors having a plurality of working chambers ",
+      "count": 497,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B11/04": {
+      "code": "F15B11/04",
+      "level": 2,
+      "parent": "F15B11/02",
+      "ja": "速度制御を目的とするもの（Ｆ１５Ｂ１１／０２４が優先）［６］",
+      "en": "for controlling the speed(<b>F15B11/024</b> takes precedence)",
+      "count": 4130,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B11/042": {
+      "code": "F15B11/042",
+      "level": 3,
+      "parent": "F15B11/04",
+      "ja": "送りラインの調整手段によるもの（Ｆ１５Ｂ１１／０４６，Ｆ１５Ｂ１１／０５が優先）［６］",
+      "en": "by means in the feed line(<b>F15B11/046</b>, <b>F15B11/05</b> take precedence)",
+      "count": 1186,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B11/044": {
+      "code": "F15B11/044",
+      "level": 3,
+      "parent": "F15B11/04",
+      "ja": "戻りラインの調整手段によるもの（Ｆ１５Ｂ１１／０４６，Ｆ１５Ｂ１１／０５が優先）［６］",
+      "en": "by means in the return line(<b>F15B11/046</b>, <b>F15B11/05</b> take precedence)",
+      "count": 838,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B11/046": {
+      "code": "F15B11/046",
+      "level": 3,
+      "parent": "F15B11/04",
+      "ja": "作動部材の位置に依存するもの［６］",
+      "en": "depending on the position of the working member",
+      "count": 104,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B11/048": {
+      "code": "F15B11/048",
+      "level": 4,
+      "parent": "F15B11/046",
+      "ja": "減速制御をもつもの［６］",
+      "en": "with deceleration control",
+      "count": 389,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B11/05": {
+      "code": "F15B11/05",
+      "level": 3,
+      "parent": "F15B11/04",
+      "ja": "特に定速保持を目的とするもの，例．圧力補償の，負荷応動の",
+      "en": "specially adapted to maintain constant speed, e.g. pressure-compensated, load-responsive",
+      "count": 2197,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B11/06": {
+      "code": "F15B11/06",
+      "level": 1,
+      "parent": "F15B11/00",
+      "ja": "圧縮性の媒質，例．空気，蒸気，を用いるための特有な要素をもつもの",
+      "en": "involving features specific to the use of a compressible medium, e.g. air, steam",
+      "count": 2010,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B11/064": {
+      "code": "F15B11/064",
+      "level": 2,
+      "parent": "F15B11/06",
+      "ja": "圧縮性の媒質を節約するための装置をもつもの［６］",
+      "en": "with devices for saving the compressible medium",
+      "count": 195,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B11/068": {
+      "code": "F15B11/068",
+      "level": 2,
+      "parent": "F15B11/06",
+      "ja": "空気系に徐々に圧力を加えていくための弁をもつもの［６］",
+      "en": "with valves for gradually putting pneumatic systems under pressure",
+      "count": 114,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B11/072": {
+      "code": "F15B11/072",
+      "level": 2,
+      "parent": "F15B11/06",
+      "ja": "空気－液圧の結合系［６］",
+      "en": "Combined pneumatic-hydraulic systems",
+      "count": 684,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B11/076": {
+      "code": "F15B11/076",
+      "level": 3,
+      "parent": "F15B11/072",
+      "ja": "空気による駆動あるいは排出の機能と，液圧制御による速度の制御もしくは停止の機能とを備えたもの［６］",
+      "en": "with pneumatic drive or displacement and speed control or stopping by hydraulic braking",
+      "count": 264,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B11/08": {
+      "code": "F15B11/08",
+      "level": 1,
+      "parent": "F15B11/00",
+      "ja": "ただ１個のサーボモータをもつもの",
+      "en": "with only one servomotor",
+      "count": 12670,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B11/10": {
+      "code": "F15B11/10",
+      "level": 2,
+      "parent": "F15B11/08",
+      "ja": "サーボモータの位置が圧力の関数であるもの",
+      "en": "in which the servomotor position is a function of the pressure",
+      "count": 606,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B11/12": {
+      "code": "F15B11/12",
+      "level": 2,
+      "parent": "F15B11/08",
+      "ja": "明確な中間位置のあるもの；段階的動作をするもの",
+      "en": "providing distinct intermediate positions; with step-by-step action",
+      "count": 1377,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B11/13": {
+      "code": "F15B11/13",
+      "level": 3,
+      "parent": "F15B11/12",
+      "ja": "あらかじめ決めた容積の室を用いるもの［６］",
+      "en": "using chambers of predetermined volume",
+      "count": 90,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B11/15": {
+      "code": "F15B11/15",
+      "level": 2,
+      "parent": "F15B11/08",
+      "ja": "自動戻りのための特殊な設備をもつもの",
+      "en": "with special provision for automatic return",
+      "count": 906,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B11/16": {
+      "code": "F15B11/16",
+      "level": 1,
+      "parent": "F15B11/00",
+      "ja": "２個以上のサーボモータをもつもの",
+      "en": "with two or more servomotors",
+      "count": 11882,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B11/17": {
+      "code": "F15B11/17",
+      "level": 2,
+      "parent": "F15B11/16",
+      "ja": "２つ以上のポンプを用いるもの［６］",
+      "en": "using two or more pumps",
+      "count": 6320,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B11/18": {
+      "code": "F15B11/18",
+      "level": 2,
+      "parent": "F15B11/16",
+      "ja": "単一の被制御部材の段階的動作を得るために結合して用いられるもの",
+      "en": "used in combination for obtaining stepwise operation of a single controlled member",
+      "count": 303,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B11/20": {
+      "code": "F15B11/20",
+      "level": 2,
+      "parent": "F15B11/16",
+      "ja": "相互作用または順次作動する数個の部材を制御するもの［２００６．０１］",
+      "en": "controlling several interacting or sequentially-operating members ",
+      "count": 1710,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B11/22": {
+      "code": "F15B11/22",
+      "level": 2,
+      "parent": "F15B11/16",
+      "ja": "２個以上のサーボモータの動作を同期させるもの",
+      "en": "Synchronisation of the movement of two or more servomotors",
+      "count": 3694,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B13/00": {
+      "code": "F15B13/00",
+      "level": 0,
+      "parent": "F15B",
+      "ja": "サーボモータ系の細部（Ｆ１５Ｂ１５／００が優先）",
+      "en": "Details of servomotor systems(<b>F15B15/00</b> takes precedence)",
+      "count": 2608,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B13/01": {
+      "code": "F15B13/01",
+      "level": 1,
+      "parent": "F15B13/00",
+      "ja": "ロック弁または他のデテント装置［２００６．０１］",
+      "en": "Locking-valves or other detent devices",
+      "count": 2449,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B13/02": {
+      "code": "F15B13/02",
+      "level": 1,
+      "parent": "F15B13/00",
+      "ja": "サーボモータの制御に適用することを特徴とする流体の分配または供給装置［２００６．０１］",
+      "en": "Fluid distribution or supply devices characterised by their adaptation to the control of servomotors ",
+      "count": 33689,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B13/04": {
+      "code": "F15B13/04",
+      "level": 2,
+      "parent": "F15B13/02",
+      "ja": "単一のサーボモータとともに用いるもの",
+      "en": "for use with a single servomotor",
+      "count": 9820,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B13/042": {
+      "code": "F15B13/042",
+      "level": 3,
+      "parent": "F15B13/04",
+      "ja": "流体圧により作動されるもの",
+      "en": "operated by fluid pressure",
+      "count": 2746,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B13/043": {
+      "code": "F15B13/043",
+      "level": 4,
+      "parent": "F15B13/042",
+      "ja": "電気的に制御されるパイロット弁をもつもの",
+      "en": "with electrically-controlled pilot valves",
+      "count": 3121,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B13/044": {
+      "code": "F15B13/044",
+      "level": 3,
+      "parent": "F15B13/04",
+      "ja": "電気的に制御される手段，例．ソレノイド，トルクモータ，により作動されるもの",
+      "en": "operated by electrically-controlled means, e.g. solenoids, torque-motors",
+      "count": 4164,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B13/06": {
+      "code": "F15B13/06",
+      "level": 2,
+      "parent": "F15B13/02",
+      "ja": "２個以上のサーボモータとともに用いるもの",
+      "en": "for use with two or more servomotors",
+      "count": 7670,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B13/07": {
+      "code": "F15B13/07",
+      "level": 3,
+      "parent": "F15B13/06",
+      "ja": "一定の順序で作動するもの",
+      "en": "in distinct sequence",
+      "count": 460,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B13/08": {
+      "code": "F15B13/08",
+      "level": 3,
+      "parent": "F15B13/06",
+      "ja": "それぞれ１個のサーボモータのみを制御するユニットの集合体",
+      "en": "Assemblies of units, each for the control of a single servomotor only",
+      "count": 2660,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B13/10": {
+      "code": "F15B13/10",
+      "level": 1,
+      "parent": "F15B13/00",
+      "ja": "流体を用いないで被作動装置を操作するため，例．非常時用のため，の特殊な装置",
+      "en": "Special arrangements for operating the actuated device without using fluid pressure, e.g. for emergency use",
+      "count": 426,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B13/12": {
+      "code": "F15B13/12",
+      "level": 1,
+      "parent": "F15B13/00",
+      "ja": "系の感度を増すための特別な手段",
+      "en": "Special measures for increasing the sensitivity of the system",
+      "count": 208,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B13/14": {
+      "code": "F15B13/14",
+      "level": 1,
+      "parent": "F15B13/00",
+      "ja": "被作動装置の直接応答を感触によって操作者に伝えるための特別な手段",
+      "en": "Special measures for giving the operator by sense of touch the immediate response of the actuated device",
+      "count": 228,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B13/16": {
+      "code": "F15B13/16",
+      "level": 1,
+      "parent": "F15B13/00",
+      "ja": "フィードバックのための特殊な手段",
+      "en": "Special measures for feedback",
+      "count": 924,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B15/00": {
+      "code": "F15B15/00",
+      "level": 0,
+      "parent": "F15B",
+      "ja": "部材をある位置から他の位置へ移すための流体作動装置；それと組み合わせた伝動装置［２００６．０１］",
+      "en": "Fluid-actuated devices for displacing a member from one position to another; Gearing associated therewith",
+      "count": 2426,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B15/02": {
+      "code": "F15B15/02",
+      "level": 1,
+      "parent": "F15B15/00",
+      "ja": "流体作動要素の動作を，最後に作動される部材の動作に変換するための手段に特徴のある機械的設計",
+      "en": "Mechanical layout characterised by the means for converting the movement of the fluid-actuated element into movement of the finally-operated member",
+      "count": 1918,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B15/04": {
+      "code": "F15B15/04",
+      "level": 2,
+      "parent": "F15B15/02",
+      "ja": "揺動シリンダをもつもの",
+      "en": "with oscillating cylinder",
+      "count": 508,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B15/06": {
+      "code": "F15B15/06",
+      "level": 2,
+      "parent": "F15B15/02",
+      "ja": "直線運動を非直線運動へ機械的に変換するためのもの",
+      "en": "for mechanically converting rectilinear movement into non-rectilinear movement",
+      "count": 3056,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B15/08": {
+      "code": "F15B15/08",
+      "level": 1,
+      "parent": "F15B15/00",
+      "ja": "モータユニットの構造に特徴のあるもの［２００６．０１］",
+      "en": "characterised by the construction of the motor unit",
+      "count": 4957,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B15/10": {
+      "code": "F15B15/10",
+      "level": 2,
+      "parent": "F15B15/08",
+      "ja": "ダイアフラム形のモータ［２００６．０１］",
+      "en": "the motor being of diaphragm type",
+      "count": 3507,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B15/12": {
+      "code": "F15B15/12",
+      "level": 2,
+      "parent": "F15B15/08",
+      "ja": "揺動羽根またはわん曲シリンダ形",
+      "en": "of the oscillating-vane or curved-cylinder type",
+      "count": 1942,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B15/14": {
+      "code": "F15B15/14",
+      "level": 2,
+      "parent": "F15B15/08",
+      "ja": "直線シリンダ形",
+      "en": "of the straight-cylinder type",
+      "count": 36910,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B15/16": {
+      "code": "F15B15/16",
+      "level": 3,
+      "parent": "F15B15/14",
+      "ja": "入れこ形",
+      "en": "of the telescopic type",
+      "count": 3088,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B15/17": {
+      "code": "F15B15/17",
+      "level": 3,
+      "parent": "F15B15/14",
+      "ja": "差動ピストン形",
+      "en": "of differential-piston type",
+      "count": 800,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B15/18": {
+      "code": "F15B15/18",
+      "level": 1,
+      "parent": "F15B15/00",
+      "ja": "ポンプおよびモータを含む結合ユニット",
+      "en": "Combined units comprising both motor and pump",
+      "count": 2504,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B15/19": {
+      "code": "F15B15/19",
+      "level": 1,
+      "parent": "F15B15/00",
+      "ja": "火薬式アクチュエータ［３］",
+      "en": "Pyrotechnical actuators",
+      "count": 621,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B15/20": {
+      "code": "F15B15/20",
+      "level": 1,
+      "parent": "F15B15/00",
+      "ja": "その他の細部",
+      "en": "Other details",
+      "count": 24925,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B15/22": {
+      "code": "F15B15/22",
+      "level": 2,
+      "parent": "F15B15/20",
+      "ja": "行程の加速または減速を目的とするもの",
+      "en": "for accelerating or decelerating the stroke",
+      "count": 8704,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B15/24": {
+      "code": "F15B15/24",
+      "level": 2,
+      "parent": "F15B15/20",
+      "ja": "行程を制限するもの",
+      "en": "for restricting the stroke",
+      "count": 2821,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B15/26": {
+      "code": "F15B15/26",
+      "level": 2,
+      "parent": "F15B15/20",
+      "ja": "ロック機構",
+      "en": "Locking mechanisms",
+      "count": 5616,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B15/28": {
+      "code": "F15B15/28",
+      "level": 2,
+      "parent": "F15B15/20",
+      "ja": "位置，例．行程端，を表示するための手段［４］",
+      "en": "Means for indicating the position, e.g. end of stroke",
+      "count": 5537,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B17/00": {
+      "code": "F15B17/00",
+      "level": 0,
+      "parent": "F15B",
+      "ja": "テレモータとサーボモータ系との組み合わせ",
+      "en": "Combinations of telemotor and servomotor systems",
+      "count": 219,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B17/02": {
+      "code": "F15B17/02",
+      "level": 1,
+      "parent": "F15B17/00",
+      "ja": "テレモータがサーボモータの制御部材を作動するもの",
+      "en": "in which a telemotor operates the control member of a servomotor",
+      "count": 69,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B18/00": {
+      "code": "F15B18/00",
+      "level": 0,
+      "parent": "F15B",
+      "ja": "独立したサーボモータ系の並列配置",
+      "en": "Parallel arrangements of independent servomotor systems",
+      "count": 322,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B19/00": {
+      "code": "F15B19/00",
+      "level": 0,
+      "parent": "F15B",
+      "ja": "他に分類されない流体圧アクチュエータの系または装置の試験",
+      "en": "Testing fluid-pressure actuator systems or apparatus, so far as not provided for elsewhere",
+      "count": 14145,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B20/00": {
+      "code": "F15B20/00",
+      "level": 0,
+      "parent": "F15B",
+      "ja": "流体アクチュエータ系用の安全装置；流体アクチュエータ系における安全装置の適用；流体アクチュエータ系用の非常用装置",
+      "en": "Safety arrangements for fluid actuator systems; Applications of safety devices in fluid actuator systems; Emergency measures for fluid actuator systems",
+      "count": 9732,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B21/00": {
+      "code": "F15B21/00",
+      "level": 0,
+      "parent": "F15B",
+      "ja": "流体アクチュエータ系の一般的特徴；このサブクラスの他のいずれのグループにも包含されない流体圧系またはその細部［２００６．０１］",
+      "en": "Common features of fluid actuator systems; Fluid-pressure actuator systems or details thereof, not covered by any other group of this subclass",
+      "count": 9572,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B21/02": {
+      "code": "F15B21/02",
+      "level": 1,
+      "parent": "F15B21/00",
+      "ja": "記憶装置または時限装置によるプログラム制御装置をもつサーボモータ系；そのための制御装置［２００６．０１］",
+      "en": "Servomotor systems with program control derived from a store or timing device; Control devices therefor",
+      "count": 3574,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B21/04": {
+      "code": "F15B21/04",
+      "level": 1,
+      "parent": "F15B21/00",
+      "ja": "流体の特性に関連して用いられる特殊な手段［２０１９．０１］",
+      "en": "Special measures taken in connection with the properties of the fluid",
+      "count": 9779,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B21/041": {
+      "code": "F15B21/041",
+      "level": 2,
+      "parent": "F15B21/04",
+      "ja": "固体または液体の汚染物の除去または測定，例．ろ過［２０１９．０１］",
+      "en": "Removal or measurement of solid or liquid contamination, e.g. filtering",
+      "count": 8683,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B21/042": {
+      "code": "F15B21/042",
+      "level": 2,
+      "parent": "F15B21/04",
+      "ja": "流体温度の制御［２０１９．０１］",
+      "en": "Controlling the temperature of the fluid",
+      "count": 410,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B21/0423": {
+      "code": "F15B21/0423",
+      "level": 3,
+      "parent": "F15B21/042",
+      "ja": "冷却［２０１９．０１］",
+      "en": "Cooling",
+      "count": 5846,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B21/0427": {
+      "code": "F15B21/0427",
+      "level": 3,
+      "parent": "F15B21/042",
+      "ja": "加熱［２０１９．０１］",
+      "en": "Heating",
+      "count": 1011,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B21/044": {
+      "code": "F15B21/044",
+      "level": 2,
+      "parent": "F15B21/04",
+      "ja": "未溶解ガスの除去または測定，例．脱気，通気または抽気［２０１９．０１］",
+      "en": "Removal or measurement of undissolved gas, e.g. de-aeration, venting or bleeding",
+      "count": 1131,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B21/045": {
+      "code": "F15B21/045",
+      "level": 2,
+      "parent": "F15B21/04",
+      "ja": "粘度または温度の変動の補償［２０１９．０１］",
+      "en": "Compensating for variations in viscosity or temperature",
+      "count": 312,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B21/047": {
+      "code": "F15B21/047",
+      "level": 2,
+      "parent": "F15B21/04",
+      "ja": "発泡，かくはんまたはキャビテーションの防止［２０１９．０１］",
+      "en": "Preventing foaming, churning or cavitation",
+      "count": 365,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B21/048": {
+      "code": "F15B21/048",
+      "level": 2,
+      "parent": "F15B21/04",
+      "ja": "圧縮空気準備のための装置，例．エアドライヤ，エアコンデンサ，フィルタ，ルブリケータまたはレギュレータを含むもの［２０１９．０１］",
+      "en": "Arrangements for compressed air preparation, e.g. comprising air driers, air condensers, filters, lubricators or pressure regulators",
+      "count": 499,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B21/06": {
+      "code": "F15B21/06",
+      "level": 1,
+      "parent": "F15B21/00",
+      "ja": "特殊流体の使用，例．液体金属；このような流体を用いるための流体圧系の特殊な応用またはそのための要素の制御［２００６．０１］",
+      "en": "Use of special fluids, e.g. liquid metal; Special adaptations of fluid-pressure systems, or control of elements therefor, to the use of such fluids",
+      "count": 716,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B21/08": {
+      "code": "F15B21/08",
+      "level": 1,
+      "parent": "F15B21/00",
+      "ja": "電気的に作動する制御手段を含むサーボモータ系（Ｆ１５Ｂ２１／０２が優先）［２００６．０１］",
+      "en": "Servomotor systems incorporating electrically- operated control means(<b>F15B21/02</b> takes precedence)",
+      "count": 8906,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B21/10": {
+      "code": "F15B21/10",
+      "level": 1,
+      "parent": "F15B21/00",
+      "ja": "遅延用機器または配列［２００６．０１］",
+      "en": "Delay devices or arrangements",
+      "count": 369,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B21/12": {
+      "code": "F15B21/12",
+      "level": 1,
+      "parent": "F15B21/00",
+      "ja": "流体発振器またはパルス発生機［２００６．０１］",
+      "en": "Fluid oscillators or pulse generators ",
+      "count": 1585,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    },
+    "F15B21/14": {
+      "code": "F15B21/14",
+      "level": 1,
+      "parent": "F15B21/00",
+      "ja": "エネルギー回収手段［２００６．０１］",
+      "en": "Energy-recuperation means",
+      "count": 2880,
+      "sourceFile": "ipc_F15B.txt",
+      "kind": "ipc"
+    }
+  }
+}

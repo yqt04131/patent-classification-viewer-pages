@@ -1,0 +1,146 @@
+window.IPC_SHARD_B27H = {
+  "generatedAt": "2026-03-20T02:17:46.145Z",
+  "total": 14,
+  "entries": {
+    "B27H": {
+      "code": "B27H",
+      "level": 0,
+      "parent": "B27",
+      "ja": "木材または類似材料のための曲げ加工；たるの製作；木材または類似材料を用いた車輪製作",
+      "en": "BENDING WOOD OR SIMILAR MATERIAL; COOPERAGE; MAKING WHEELS FROM WOOD OR SIMILAR MATERIAL",
+      "count": 52,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B27": {
+      "code": "B27",
+      "level": 0,
+      "parent": "B",
+      "ja": "木材または類似の材料の加工または保存；釘打ち機またはステープル打ち機一般",
+      "en": "WORKING OR PRESERVING WOOD OR SIMILAR MATERIAL; NAILING OR STAPLING MACHINES IN GENERAL",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B": {
+      "code": "B",
+      "level": 0,
+      "parent": null,
+      "ja": "処理操作；運輸",
+      "en": "PERFORMING OPERATIONS; TRANSPORTING",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B27H1/00": {
+      "code": "B27H1/00",
+      "level": 0,
+      "parent": "B27H",
+      "ja": "木材，例．木片，の曲げ加工［２］",
+      "en": "Bending wood, e.g. wood stock",
+      "count": 2103,
+      "sourceFile": "ipc_B27H.txt",
+      "kind": "ipc"
+    },
+    "B27H3/00": {
+      "code": "B27H3/00",
+      "level": 0,
+      "parent": "B27H",
+      "ja": "桶，木籠またはたるの組立て部材の製作（組立て，例．たるの製作，Ｂ２７Ｈ５／００）",
+      "en": "Manufacture of constructional elements of tubs, coops or barrels(assembly, e.g. coopering, <b>B27H5/00</b>)",
+      "count": 132,
+      "sourceFile": "ipc_B27H.txt",
+      "kind": "ipc"
+    },
+    "B27H3/02": {
+      "code": "B27H3/02",
+      "level": 1,
+      "parent": "B27H3/00",
+      "ja": "たる板の製作",
+      "en": "Manufacture of barrel staves",
+      "count": 218,
+      "sourceFile": "ipc_B27H.txt",
+      "kind": "ipc"
+    },
+    "B27H3/04": {
+      "code": "B27H3/04",
+      "level": 1,
+      "parent": "B27H3/00",
+      "ja": "たるの頭部または枠の製作",
+      "en": "Manufacture of barrel heads or casings",
+      "count": 69,
+      "sourceFile": "ipc_B27H.txt",
+      "kind": "ipc"
+    },
+    "B27H5/00": {
+      "code": "B27H5/00",
+      "level": 0,
+      "parent": "B27H",
+      "ja": "桶，木籠またはたるの製作（ベニヤ板または薄板からの製作Ｂ２７Ｄ１／００）",
+      "en": "Manufacture of tubs, coops or barrels(from veneer strips or sheets <b>B27D1/00</b>)",
+      "count": 269,
+      "sourceFile": "ipc_B27H.txt",
+      "kind": "ipc"
+    },
+    "B27H5/02": {
+      "code": "B27H5/02",
+      "level": 1,
+      "parent": "B27H5/00",
+      "ja": "たる板の組立て",
+      "en": "Building up with staves",
+      "count": 93,
+      "sourceFile": "ipc_B27H.txt",
+      "kind": "ipc"
+    },
+    "B27H5/04": {
+      "code": "B27H5/04",
+      "level": 2,
+      "parent": "B27H5/02",
+      "ja": "たる板の最終形状への成形およびそれの組立",
+      "en": "Forming staves into the final shape and assembling same",
+      "count": 56,
+      "sourceFile": "ipc_B27H.txt",
+      "kind": "ipc"
+    },
+    "B27H5/08": {
+      "code": "B27H5/08",
+      "level": 1,
+      "parent": "B27H5/00",
+      "ja": "たる板の仕上げ，例．みぞ切り",
+      "en": "Finishing barrels, e.g. cutting grooves",
+      "count": 111,
+      "sourceFile": "ipc_B27H.txt",
+      "kind": "ipc"
+    },
+    "B27H5/10": {
+      "code": "B27H5/10",
+      "level": 2,
+      "parent": "B27H5/08",
+      "ja": "たる板の結束またはたがをかける工程",
+      "en": "Trussing or hooping barrels",
+      "count": 170,
+      "sourceFile": "ipc_B27H.txt",
+      "kind": "ipc"
+    },
+    "B27H5/12": {
+      "code": "B27H5/12",
+      "level": 2,
+      "parent": "B27H5/08",
+      "ja": "木製栓の製作；栓の孔の穿孔またはリーマ加工",
+      "en": "Making bungs from wood; Drilling or reaming bung holes",
+      "count": 22,
+      "sourceFile": "ipc_B27H.txt",
+      "kind": "ipc"
+    },
+    "B27H7/00": {
+      "code": "B27H7/00",
+      "level": 0,
+      "parent": "B27H",
+      "ja": "全体または主要部を木材で作った車輪，例．荷車の車輪，の製作；木製の輪ぶち車輪，例．操縦輪，の製作［２］",
+      "en": "Manufacture of wheels wholly or predominantly made from wood, e.g. cart wheels; Manufacture of wood-rimmed wheels, e.g. steering wheels",
+      "count": 149,
+      "sourceFile": "ipc_B27H.txt",
+      "kind": "ipc"
+    }
+  }
+};

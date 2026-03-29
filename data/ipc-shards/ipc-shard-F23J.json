@@ -1,0 +1,326 @@
+{
+  "generatedAt": "2026-03-20T02:17:46.893Z",
+  "total": 32,
+  "entries": {
+    "F23J": {
+      "code": "F23J",
+      "level": 0,
+      "parent": "F23",
+      "ja": "燃焼生成物または燃焼残滓（し）の除去または処理；煙道（煙またはガス，例．排気ガス，を焼却するための燃焼装置Ｆ２３Ｇ７／０６）［２００６．０１］<br><br><b><ul>注</ul></b><br>（１）このサブクラスは燃焼生成物または燃焼残滓によって表面を汚染された炉管，炎管，水管，ボイラーの煙道等，熱交換または熱伝達管の表面の清掃を包含する。<br>（２）このサブクラスは燃焼生成物または燃焼残滓以外のものによって汚染されたボイラー，熱交換または熱伝達管の表面の清掃は包含しない。ただしそれらはサブクラスＦ２８Ｇに包含される。<br><br><b><ul>サブクラス内の索引</ul></b><br>固体の燃焼生成物または残滓の除去<br>燃焼室から　１／００<br>火の届かない場所から　３／００<br>燃焼生成物または残滓の処理<br>化学薬品の供給；凝固防止；煙またはガスの他の処理　７／００；９／００；１５／００<br>煙道，煙突または煙道のための取り付け具　１１／００，１３／００<br>このサブクラスの他のグループに分類されない主題事項　９９／００",
+      "en": "REMOVAL OR TREATMENT OF COMBUSTION PRODUCTS OR COMBUSTION RESIDUES; FLUES(combustion apparatus for consuming smoke or fumes, e.g. exhaust gases, <b>F23G7/06</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>This subclass <u>covers</u> also the cleaning of surfaces of furnace tubes, flame tubes, water tubes, flues or the like of boilers, heat-exchange or heat-transfer conduits, which surfaces are contaminated by combustion products or combustion residues.</li><li>This subclass <u>does not cover</u> the cleaning of surfaces of boilers, heat exchange or heat-transfer conduits contaminated by other than combustion products or combustion residues, which is covered by subclass <b>F28G</b>.</li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">REMOVAL OF SOLID COMBUSTION PRODUCTS OR RESIDUES<tr><td width=\"70%\">From combustion chamber </td><td><b><b>1/00</b></b></td></tr></tr><tr><td width=\"70%\">From places beyond the fire </td><td><b><b>3/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">TREATMENT OF COMBUSTION PRODUCTS OR RESIDUES<tr><td width=\"70%\">Supply of chemicals; preventing solidification; Treating smoke or fumes </td><td><b><b>7/00</b>; <b>9/00</b>; <b>15/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">FLUES, FITTINGS FOR CHIMNEYS OR FLUES </td><td><b><b>11/00</b>, <b>13/00</b></b></td></tr></tr><tr><td width=\"70%\">SUBJECT MATTER NOT PROVIDED FOR IN OTHER GROUPS OF THIS SUBCLASS </td><td><b><b>99/00</b></b></td></tr></tr></table>",
+      "count": 779,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F23": {
+      "code": "F23",
+      "level": 0,
+      "parent": "F",
+      "ja": "燃焼装置；燃焼方法<br><br><b><ul>注</ul></b><br>このクラスにおいては，下記の用語は以下に示す意味で用いる：<br>―“燃焼”は，可燃物質と分子酸素，例．空気中の，との間の発熱を伴う連鎖的な化学反応を意味し，大半の場合に炎または白熱の形式で光を発生させる；<br>―“燃焼室”は，それ自体で維持される火または炎を確立するために燃料がその中で燃焼するものであって，その火または炎を取り囲んでいる室を意味する；<br>―“バーナ”は，それ自体で維持される炎を発生するために流動性燃料が，または空気中に浮遊する固体燃料が，燃焼する燃焼空間へ導かれる装置を意味する；<br>―“空気”は，遊離した酸素を含み，および燃焼を促進または維持させ得る気体の混合物を意味する。",
+      "en": "COMBUSTION APPARATUS; COMBUSTION PROCESSES; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this class, the following terms or expressions are used with the meanings indicated: <ul><li>\"combustion\" means a heat-producing sequence of chemical reactions between a burnable substance and molecular oxygen, e.g. in air, in most cases generating light in the form of flames or a glow;</li><li>\"combustion chamber\" means a chamber in which fuel is burned to establish a self-supporting fire or flame and which surrounds that fire or flame;</li><li>\"burner\" means a device by which fluid fuel, or solid fuel suspended in air, is passed to a combustion space where it burns to produce a self-supporting flame;</li><li>\"air\" means a mixture of gases containing free oxygen and able to promote or support combustion.</li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F": {
+      "code": "F",
+      "level": 0,
+      "parent": null,
+      "ja": "機械工学；照明；加熱；武器；爆破",
+      "en": "MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F23J1/00": {
+      "code": "F23J1/00",
+      "level": 0,
+      "parent": "F23J",
+      "ja": "燃焼室からの灰，クリンカまたはスラグの除去（流動層燃焼装置の層から，材料を除去する装置Ｆ２３Ｃ１０／２４）",
+      "en": "Removing ash, clinker, or slag from combustion chambers(devices for removal of material from the bed of fluidised bed combustion apparatus <b>F23C10/24</b>)",
+      "count": 10718,
+      "sourceFile": "ipc_F23J.txt",
+      "kind": "ipc"
+    },
+    "F23J1/02": {
+      "code": "F23J1/02",
+      "level": 1,
+      "parent": "F23J1/00",
+      "ja": "灰，クリンカまたはスラグを除灰孔から除去するための装置，例．台車またはコンベヤを用いるもの，吸引装置を用いるもの",
+      "en": "Apparatus for removing ash, clinker or slag from ash-pits, e.g. by employing trucks or conveyors, by employing suction devices",
+      "count": 3234,
+      "sourceFile": "ipc_F23J.txt",
+      "kind": "ipc"
+    },
+    "F23J1/04": {
+      "code": "F23J1/04",
+      "level": 1,
+      "parent": "F23J1/00",
+      "ja": "手工具，例．レーキ，突き棒，トング",
+      "en": "Hand tools, e.g. rakes, prickers, tongs",
+      "count": 428,
+      "sourceFile": "ipc_F23J.txt",
+      "kind": "ipc"
+    },
+    "F23J1/06": {
+      "code": "F23J1/06",
+      "level": 1,
+      "parent": "F23J1/00",
+      "ja": "機械駆動の装置，例．クリンカプッシャ（火格子の部分を形成するものＦ２３Ｈ）",
+      "en": "Mechanically-operated devices, e.g. clinker pushers(forming part of the grate <b>F23H</b>)",
+      "count": 8796,
+      "sourceFile": "ipc_F23J.txt",
+      "kind": "ipc"
+    },
+    "F23J1/08": {
+      "code": "F23J1/08",
+      "level": 1,
+      "parent": "F23J1/00",
+      "ja": "液状スラグの除去［３］",
+      "en": "Liquid slag removal",
+      "count": 990,
+      "sourceFile": "ipc_F23J.txt",
+      "kind": "ipc"
+    },
+    "F23J3/00": {
+      "code": "F23J3/00",
+      "level": 0,
+      "parent": "F23J",
+      "ja": "火の届かない通路または室からの固体の残滓の除去，例．煙道からスーツブロワによって行うもの",
+      "en": "Removing solid residues from passages or chambers beyond the fire, e.g. from flues by soot blowers",
+      "count": 6221,
+      "sourceFile": "ipc_F23J.txt",
+      "kind": "ipc"
+    },
+    "F23J3/02": {
+      "code": "F23J3/02",
+      "level": 1,
+      "parent": "F23J3/00",
+      "ja": "煙管の清掃；煙道または煙突の清掃［２００６．０１］",
+      "en": "Cleaning furnace tubes; Cleaning flues or chimneys",
+      "count": 6136,
+      "sourceFile": "ipc_F23J.txt",
+      "kind": "ipc"
+    },
+    "F23J3/04": {
+      "code": "F23J3/04",
+      "level": 1,
+      "parent": "F23J3/00",
+      "ja": "トラップ",
+      "en": "Traps",
+      "count": 819,
+      "sourceFile": "ipc_F23J.txt",
+      "kind": "ipc"
+    },
+    "F23J3/06": {
+      "code": "F23J3/06",
+      "level": 1,
+      "parent": "F23J3/00",
+      "ja": "残留物を炉設備の各部から集めるためのシステム",
+      "en": "Systems for accumulating residues from different parts of furnace plant",
+      "count": 516,
+      "sourceFile": "ipc_F23J.txt",
+      "kind": "ipc"
+    },
+    "F23J7/00": {
+      "code": "F23J7/00",
+      "level": 0,
+      "parent": "F23J",
+      "ja": "火に化学薬品を供給する装置の配置［２００６．０１］",
+      "en": "Arrangement of devices for supplying chemicals to fire",
+      "count": 1622,
+      "sourceFile": "ipc_F23J.txt",
+      "kind": "ipc"
+    },
+    "F23J9/00": {
+      "code": "F23J9/00",
+      "level": 0,
+      "parent": "F23J",
+      "ja": "溶融燃焼残滓の早期凝固の防止",
+      "en": "Preventing premature solidification of molten combustion residues",
+      "count": 347,
+      "sourceFile": "ipc_F23J.txt",
+      "kind": "ipc"
+    },
+    "F23J11/00": {
+      "code": "F23J11/00",
+      "level": 0,
+      "parent": "F23J",
+      "ja": "煙またはガスを誘導するための装置，例．煙道（煙突Ｅ０４Ｈ１２／２８；家庭用ストーブまたはレンジからの調理時のくん煙の除去Ｆ２４Ｃ１５／２０）［２００６．０１］",
+      "en": "Devices for conducting smoke or fumes, e.g. flues(chimney stacks <b>E04H12/28</b>;  removing cooking fumes from domestic stoves or ranges <b>F24C15/20</b>)",
+      "count": 6816,
+      "sourceFile": "ipc_F23J.txt",
+      "kind": "ipc"
+    },
+    "F23J11/02": {
+      "code": "F23J11/02",
+      "level": 1,
+      "parent": "F23J11/00",
+      "ja": "発生した煙またはガスをいろいろな場所から外部へ誘導するためのもの，例．機関車車庫におけるもの，ガレージにおけるもの",
+      "en": "for conducting smoke or fumes originating from various locations to the outside, e.g. in locomotive sheds, in garages",
+      "count": 959,
+      "sourceFile": "ipc_F23J.txt",
+      "kind": "ipc"
+    },
+    "F23J11/04": {
+      "code": "F23J11/04",
+      "level": 1,
+      "parent": "F23J11/00",
+      "ja": "機関車におけるもの；自動車におけるもの；船舶におけるもの",
+      "en": "in locomotives; in road vehicles; in ships",
+      "count": 184,
+      "sourceFile": "ipc_F23J.txt",
+      "kind": "ipc"
+    },
+    "F23J11/06": {
+      "code": "F23J11/06",
+      "level": 2,
+      "parent": "F23J11/04",
+      "ja": "煙を水平に導くためのもの",
+      "en": "for conducting smoke horizontally",
+      "count": 21,
+      "sourceFile": "ipc_F23J.txt",
+      "kind": "ipc"
+    },
+    "F23J11/08": {
+      "code": "F23J11/08",
+      "level": 1,
+      "parent": "F23J11/00",
+      "ja": "携帯できる装置のためのもの",
+      "en": "for portable apparatus",
+      "count": 86,
+      "sourceFile": "ipc_F23J.txt",
+      "kind": "ipc"
+    },
+    "F23J11/10": {
+      "code": "F23J11/10",
+      "level": 1,
+      "parent": "F23J11/00",
+      "ja": "テントのためのもの；丸太小屋のためのもの；その他，燃えやすい構造物のためのもの",
+      "en": "for tents; for log huts; for other inflammable structures",
+      "count": 19,
+      "sourceFile": "ipc_F23J.txt",
+      "kind": "ipc"
+    },
+    "F23J11/12": {
+      "code": "F23J11/12",
+      "level": 1,
+      "parent": "F23J11/00",
+      "ja": "工場または大きな建造物の煙導管システム",
+      "en": "Smoke conduit systems for factories or large buildings",
+      "count": 389,
+      "sourceFile": "ipc_F23J.txt",
+      "kind": "ipc"
+    },
+    "F23J13/00": {
+      "code": "F23J13/00",
+      "level": 0,
+      "parent": "F23J",
+      "ja": "煙突または煙道のための取り付け具（煙突の側支持手段Ｅ０４Ｈ１２／２０；煙突に永久に取り付けられたはしごＥ０６Ｃ９／００；煙突または煙道に連合した通風誘導装置Ｆ２３Ｌ１７／００；煙突の先端，煙道の末端Ｆ２３Ｌ１７／０２）［２００６．０１］",
+      "en": "Fittings for chimneys or flues(side-supporting means for chimney stacks <b>E04H12/20</b>; ladders permanently attached to chimneys <b>E06C9/00</b>;  draught-inducing apparatus associated with chimneys or flues <b>F23L17/00</b>; tops for chimneys, terminals for flues <b>F23L17/02</b>)",
+      "count": 5762,
+      "sourceFile": "ipc_F23J.txt",
+      "kind": "ipc"
+    },
+    "F23J13/02": {
+      "code": "F23J13/02",
+      "level": 1,
+      "parent": "F23J13/00",
+      "ja": "ライニング；ジャケット；ケーシング",
+      "en": "Linings; Jackets; Casings",
+      "count": 2604,
+      "sourceFile": "ipc_F23J.txt",
+      "kind": "ipc"
+    },
+    "F23J13/04": {
+      "code": "F23J13/04",
+      "level": 1,
+      "parent": "F23J13/00",
+      "ja": "継手；連結部［２００６．０１］",
+      "en": "Joints; Connections",
+      "count": 2639,
+      "sourceFile": "ipc_F23J.txt",
+      "kind": "ipc"
+    },
+    "F23J13/06": {
+      "code": "F23J13/06",
+      "level": 1,
+      "parent": "F23J13/00",
+      "ja": "口；入口孔",
+      "en": "Mouths; Inlet holes",
+      "count": 380,
+      "sourceFile": "ipc_F23J.txt",
+      "kind": "ipc"
+    },
+    "F23J13/08": {
+      "code": "F23J13/08",
+      "level": 1,
+      "parent": "F23J13/00",
+      "ja": "煙室，煙道または煙突に特に適合したとびらまたはふた［２００６．０１］",
+      "en": "Doors or covers specially adapted for smoke-boxes, flues, or chimneys",
+      "count": 2225,
+      "sourceFile": "ipc_F23J.txt",
+      "kind": "ipc"
+    },
+    "F23J15/00": {
+      "code": "F23J15/00",
+      "level": 0,
+      "parent": "F23J",
+      "ja": "煙またはガスを処理するための装置の配置［２００６．０１］",
+      "en": "Arrangements of devices for treating smoke or fumes",
+      "count": 14295,
+      "sourceFile": "ipc_F23J.txt",
+      "kind": "ipc"
+    },
+    "F23J15/02": {
+      "code": "F23J15/02",
+      "level": 1,
+      "parent": "F23J15/00",
+      "ja": "洗浄器の，例．有毒物質除去用（固体残滓用トラップＦ２３Ｊ３／０４）［６］",
+      "en": "of purifiers, e.g. for removing noxious material(traps for solid residues <b>F23J3/04</b>)",
+      "count": 26730,
+      "sourceFile": "ipc_F23J.txt",
+      "kind": "ipc"
+    },
+    "F23J15/04": {
+      "code": "F23J15/04",
+      "level": 2,
+      "parent": "F23J15/02",
+      "ja": "洗浄液を用いるもの［６］",
+      "en": "using washing fluids",
+      "count": 10967,
+      "sourceFile": "ipc_F23J.txt",
+      "kind": "ipc"
+    },
+    "F23J15/06": {
+      "code": "F23J15/06",
+      "level": 1,
+      "parent": "F23J15/00",
+      "ja": "冷却器の［６］",
+      "en": "of coolers",
+      "count": 22409,
+      "sourceFile": "ipc_F23J.txt",
+      "kind": "ipc"
+    },
+    "F23J15/08": {
+      "code": "F23J15/08",
+      "level": 1,
+      "parent": "F23J15/00",
+      "ja": "加熱器の［６］",
+      "en": "of heaters",
+      "count": 2662,
+      "sourceFile": "ipc_F23J.txt",
+      "kind": "ipc"
+    },
+    "F23J99/00": {
+      "code": "F23J99/00",
+      "level": 0,
+      "parent": "F23J",
+      "ja": "このサブクラスの他のグループに分類されない主題事項［８］",
+      "en": "Subject matter not provided for in other groups of this subclass",
+      "count": 60,
+      "sourceFile": "ipc_F23J.txt",
+      "kind": "ipc"
+    }
+  }
+}

@@ -1,0 +1,336 @@
+window.IPC_SHARD_B68B = {
+  "generatedAt": "2026-03-20T02:17:46.300Z",
+  "total": 33,
+  "entries": {
+    "B68B": {
+      "code": "B68B",
+      "level": 0,
+      "parent": "B68",
+      "ja": "ばん馬具；それに関連して用いる器具；むちまたはその他同種のもの",
+      "en": "HARNESS; DEVICES USED IN CONNECTION THEREWITH; WHIPS OR THE LIKE",
+      "count": 48,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B68": {
+      "code": "B68",
+      "level": 0,
+      "parent": "B",
+      "ja": "馬具；詰め物，かわ張りされた物品",
+      "en": "SADDLERY; UPHOLSTERY",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B": {
+      "code": "B",
+      "level": 0,
+      "parent": null,
+      "ja": "処理操作；運輸",
+      "en": "PERFORMING OPERATIONS; TRANSPORTING",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B68B1/00": {
+      "code": "B68B1/00",
+      "level": 0,
+      "parent": "B68B",
+      "ja": "馬または他の牽引動物を車につける，それに手綱をつける，調教する，ならす，なだめるための，ばん馬具に関連した器具（牽引ばん馬具と結合したこの種類の器具Ｂ６８Ｂ３／００；馬小屋の設備Ａ０１Ｋ１／００；運搬具の部分を形成する器具Ｂ６２Ｃ）",
+      "en": "Devices in connection with harness, for hitching, reining, training, breaking, or quietening horses or other traction animals(devices of this kind combined with traction harness <b>B68B3/00</b>; stable equipment <b>A01K1/00</b>; devices forming part of a vehicle <b>B62C</b>)",
+      "count": 245,
+      "sourceFile": "ipc_B68B.txt",
+      "kind": "ipc"
+    },
+    "B68B1/02": {
+      "code": "B68B1/02",
+      "level": 1,
+      "parent": "B68B1/00",
+      "ja": "はづな",
+      "en": "Halters",
+      "count": 450,
+      "sourceFile": "ipc_B68B.txt",
+      "kind": "ipc"
+    },
+    "B68B1/04": {
+      "code": "B68B1/04",
+      "level": 1,
+      "parent": "B68B1/00",
+      "ja": "馬勒；手綱",
+      "en": "Bridles; Reins",
+      "count": 731,
+      "sourceFile": "ipc_B68B.txt",
+      "kind": "ipc"
+    },
+    "B68B1/06": {
+      "code": "B68B1/06",
+      "level": 2,
+      "parent": "B68B1/04",
+      "ja": "はみ",
+      "en": "Bits",
+      "count": 983,
+      "sourceFile": "ipc_B68B.txt",
+      "kind": "ipc"
+    },
+    "B68B1/08": {
+      "code": "B68B1/08",
+      "level": 1,
+      "parent": "B68B1/00",
+      "ja": "くつわ鎖",
+      "en": "Curbs",
+      "count": 22,
+      "sourceFile": "ipc_B68B.txt",
+      "kind": "ipc"
+    },
+    "B68B1/10": {
+      "code": "B68B1/10",
+      "level": 1,
+      "parent": "B68B1/00",
+      "ja": "目隠し皮",
+      "en": "Blinkers",
+      "count": 46,
+      "sourceFile": "ipc_B68B.txt",
+      "kind": "ipc"
+    },
+    "B68B1/12": {
+      "code": "B68B1/12",
+      "level": 2,
+      "parent": "B68B1/10",
+      "ja": "可動性の",
+      "en": "movable",
+      "count": 24,
+      "sourceFile": "ipc_B68B.txt",
+      "kind": "ipc"
+    },
+    "B68B1/13": {
+      "code": "B68B1/13",
+      "level": 1,
+      "parent": "B68B1/00",
+      "ja": "あばれてかけ出すのを防ぐ器具（あばれてかけ出す牽引動物を解き放す器具Ｂ６８Ｂ５／０８）",
+      "en": "Devices for preventing bolting(for unhitching bolting traction animals <b>B68B5/08</b>)",
+      "count": 37,
+      "sourceFile": "ipc_B68B.txt",
+      "kind": "ipc"
+    },
+    "B68B1/14": {
+      "code": "B68B1/14",
+      "level": 1,
+      "parent": "B68B1/00",
+      "ja": "両脚をいっしょに縛る器具",
+      "en": "Hobbling devices",
+      "count": 12,
+      "sourceFile": "ipc_B68B.txt",
+      "kind": "ipc"
+    },
+    "B68B3/00": {
+      "code": "B68B3/00",
+      "level": 0,
+      "parent": "B68B",
+      "ja": "牽引ばん馬具；グループＢ６８Ｂ１／００に示した器具と結合した牽引ばん馬具",
+      "en": "Traction harnesses; Traction harnesses combined with devices referred to in group <b>B68B1/00</b>",
+      "count": 162,
+      "sourceFile": "ipc_B68B.txt",
+      "kind": "ipc"
+    },
+    "B68B3/02": {
+      "code": "B68B3/02",
+      "level": 1,
+      "parent": "B68B3/00",
+      "ja": "くびき",
+      "en": "Yokes",
+      "count": 56,
+      "sourceFile": "ipc_B68B.txt",
+      "kind": "ipc"
+    },
+    "B68B3/04": {
+      "code": "B68B3/04",
+      "level": 1,
+      "parent": "B68B3/00",
+      "ja": "馬の首当て；それの製造",
+      "en": "Horse collars; Manufacturing same",
+      "count": 193,
+      "sourceFile": "ipc_B68B.txt",
+      "kind": "ipc"
+    },
+    "B68B3/06": {
+      "code": "B68B3/06",
+      "level": 2,
+      "parent": "B68B3/04",
+      "ja": "調節できる首当て",
+      "en": "Adjustable collars",
+      "count": 142,
+      "sourceFile": "ipc_B68B.txt",
+      "kind": "ipc"
+    },
+    "B68B3/08": {
+      "code": "B68B3/08",
+      "level": 2,
+      "parent": "B68B3/04",
+      "ja": "保護パッドをもつもの",
+      "en": "with protective pads",
+      "count": 23,
+      "sourceFile": "ipc_B68B.txt",
+      "kind": "ipc"
+    },
+    "B68B3/10": {
+      "code": "B68B3/10",
+      "level": 3,
+      "parent": "B68B3/08",
+      "ja": "空気入り首当て",
+      "en": "Pneumatic collars",
+      "count": 47,
+      "sourceFile": "ipc_B68B.txt",
+      "kind": "ipc"
+    },
+    "B68B3/12": {
+      "code": "B68B3/12",
+      "level": 2,
+      "parent": "B68B3/04",
+      "ja": "それの錠",
+      "en": "Locks therefor",
+      "count": 47,
+      "sourceFile": "ipc_B68B.txt",
+      "kind": "ipc"
+    },
+    "B68B3/14": {
+      "code": "B68B3/14",
+      "level": 1,
+      "parent": "B68B3/00",
+      "ja": "胸に当てるもの",
+      "en": "Breast collars",
+      "count": 15,
+      "sourceFile": "ipc_B68B.txt",
+      "kind": "ipc"
+    },
+    "B68B3/16": {
+      "code": "B68B3/16",
+      "level": 1,
+      "parent": "B68B3/00",
+      "ja": "しりがい",
+      "en": "Cruppers",
+      "count": 24,
+      "sourceFile": "ipc_B68B.txt",
+      "kind": "ipc"
+    },
+    "B68B3/18": {
+      "code": "B68B3/18",
+      "level": 1,
+      "parent": "B68B3/00",
+      "ja": "しり帯",
+      "en": "Breechings",
+      "count": 7,
+      "sourceFile": "ipc_B68B.txt",
+      "kind": "ipc"
+    },
+    "B68B3/20": {
+      "code": "B68B3/20",
+      "level": 1,
+      "parent": "B68B3/00",
+      "ja": "引き革（ベルトの製造Ｃ１４Ｂ，ロープの製造Ｄ０７）",
+      "en": "Traces(manufacture of belts <b>C14B</b>, of ropes <b>D07</b>)",
+      "count": 30,
+      "sourceFile": "ipc_B68B.txt",
+      "kind": "ipc"
+    },
+    "B68B3/22": {
+      "code": "B68B3/22",
+      "level": 2,
+      "parent": "B68B3/20",
+      "ja": "引き革保持具（運搬具の部分を形成する器具Ｂ６２Ｃ）",
+      "en": "Trace holders(devices forming part of a vehicle <b>B62C</b>)",
+      "count": 54,
+      "sourceFile": "ipc_B68B.txt",
+      "kind": "ipc"
+    },
+    "B68B5/00": {
+      "code": "B68B5/00",
+      "level": 0,
+      "parent": "B68B",
+      "ja": "部分品または付属品（小間物Ａ４４）；馬勒，手綱，ばん馬具，またはその他の同種のものを留める器具（運搬具の部分を形成する器具Ｂ６２Ｃ）",
+      "en": "Details or accessories(haberdashery <b>A44</b>);Fastening devices for bridles, reins, harnesses, or the like(devices forming part of a vehicle <b>B62C</b>)",
+      "count": 381,
+      "sourceFile": "ipc_B68B.txt",
+      "kind": "ipc"
+    },
+    "B68B5/02": {
+      "code": "B68B5/02",
+      "level": 1,
+      "parent": "B68B5/00",
+      "ja": "引き革を留める器具（弾性付属品Ｂ６８Ｂ７／００）",
+      "en": "Fastening devices for traces(resilient attachments <b>B68B7/00</b>)",
+      "count": 77,
+      "sourceFile": "ipc_B68B.txt",
+      "kind": "ipc"
+    },
+    "B68B5/04": {
+      "code": "B68B5/04",
+      "level": 1,
+      "parent": "B68B5/00",
+      "ja": "ばん馬具の部分品としての尾保持具",
+      "en": "Tail holders as part of harness",
+      "count": 21,
+      "sourceFile": "ipc_B68B.txt",
+      "kind": "ipc"
+    },
+    "B68B5/06": {
+      "code": "B68B5/06",
+      "level": 1,
+      "parent": "B68B5/00",
+      "ja": "ばん馬具，馬勒，またはその他同種のもの上の特有の物を留める器具",
+      "en": "Devices for fastening special articles on harnesses, bridles, or the like",
+      "count": 93,
+      "sourceFile": "ipc_B68B.txt",
+      "kind": "ipc"
+    },
+    "B68B5/08": {
+      "code": "B68B5/08",
+      "level": 1,
+      "parent": "B68B5/00",
+      "ja": "あばれてかけ出す牽引動物を解き放す器具",
+      "en": "Devices for unhitching bolting traction animals",
+      "count": 37,
+      "sourceFile": "ipc_B68B.txt",
+      "kind": "ipc"
+    },
+    "B68B7/00": {
+      "code": "B68B7/00",
+      "level": 0,
+      "parent": "B68B",
+      "ja": "馬保護具，例．弾性付属品（保護カバーＢ６８Ｃ５／００）",
+      "en": "Horse protectors, e.g. resilient attachments(protective covers <b>B68C5/00</b>)",
+      "count": 153,
+      "sourceFile": "ipc_B68B.txt",
+      "kind": "ipc"
+    },
+    "B68B9/00": {
+      "code": "B68B9/00",
+      "level": 0,
+      "parent": "B68B",
+      "ja": "不使用時に馬を支持するのに特に適合した器具",
+      "en": "Devices specially adapted for supporting harnesses when not in use",
+      "count": 79,
+      "sourceFile": "ipc_B68B.txt",
+      "kind": "ipc"
+    },
+    "B68B11/00": {
+      "code": "B68B11/00",
+      "level": 0,
+      "parent": "B68B",
+      "ja": "むちまたはその他の同種のもの",
+      "en": "Whips or the like",
+      "count": 148,
+      "sourceFile": "ipc_B68B.txt",
+      "kind": "ipc"
+    },
+    "B68B99/00": {
+      "code": "B68B99/00",
+      "level": 0,
+      "parent": "B68B",
+      "ja": "このサブクラスの他のグループに分類されない主題事項［８］",
+      "en": "Subject matter not provided for in other groups of this subclass",
+      "count": 17,
+      "sourceFile": "ipc_B68B.txt",
+      "kind": "ipc"
+    }
+  }
+};

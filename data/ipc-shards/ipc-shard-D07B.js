@@ -1,0 +1,416 @@
+window.IPC_SHARD_D07B = {
+  "generatedAt": "2026-03-20T02:17:46.608Z",
+  "total": 41,
+  "entries": {
+    "D07B": {
+      "code": "D07B",
+      "level": 0,
+      "parent": "D07",
+      "ja": "ロープまたはケーブル一般（ロープまたはケーブルの相互または他の物体へのタイトル接続Ｂ６５Ｈ６９／００，Ｆ１６Ｇ１１／００；ロープの機械的仕上げまたは加工Ｄ０２Ｊ；装飾ロープまたはコードＤ０４Ｄ；橋用つりケーブルＥ０１Ｄ１９／１６；調車または他の伝動要素による駆動または牽引に特に適したものＦ１６Ｇ９／００；電気的な分野に関するケーブルまたは接続具Ｈ０１Ｂ，Ｈ０１Ｒ）<br><br><b><ul>注</ul></b><br>このクラスにおいては，下記の用語は以下に示す意味で用いる：<br>―“繊維”は比較的短く，細長い天然または人造の物質よりなるものを意味する；［２０１４．０１］<br>―“フィラメント”はエンドレスまたは準エンドレスで，細長い天然または人造の物質よりなるものを意味する；［２０１４．０１］<br>―“糸”は繊維の単一の集合体を意味し，通常紡績によって製造される；［２０１４．０１］<br>―“より糸”は糸またはフィラメントの集合体を意味し，通常加ねんによって製造される；［２０１４．０１］<br>―“合成”繊維またはフィラメントはポリマーまたは低分子を合成させたものから製造される繊維またはフィラメントまたは類似物を意味する。例は，ポリアミド，アクリル，ポリエステルまたは炭素繊維である；［２０１４．０１］<br>―“人工”繊維またはフィラメントは天然ポリマーまたはその派生物から人が製造した繊維またはフィラメントまたは類似物を意味する。例は，再生セルロース繊維または半合成繊維である；［２０１４．０１］<br>―“人造”繊維またはフィラメントは人が製造した繊維またはフィラメントを意味し，“合成”繊維または“人工”繊維を含む。［２０１４．０１］<br><br><b><ul>サブクラス内の索引</ul></b><br>構造上の特徴　１／００<br>製造<br>汎用の機械　３／００<br>細部，補助装置　７／００<br>特別な材料からの製造　５／００<br>特殊な形状のロープまたはケーブルの製造　５／００<br>端部の結束または封着　９／００",
+      "en": "ROPES OR CABLES IN GENERAL(joining ropes or cables to one another or to other objects <b>B65H69/00</b>, <b>F16G11/00</b>; mechanical finishing or dressing of ropes <b>D02J</b>; decorative ropes or cords <b>D04D</b>; suspension cables for bridges <b>E01D19/16</b>; specially adapted for driving, or for being driven by, pulleys or other gearing elements <b>F16G9/00</b>; electric cables or joints insofar as electrical aspects are essential <b>H01B</b>, <b>H01R</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>In this class, the following terms are used with the meanings indicated: <ul><li>\"fibre\" means a relatively-short, elongated member of natural or man-made material;  </li><li>\"filament\" means an endless or quasi-endless, elongated member of natural or man-made material;  </li><li>\"yarn\" means a unitary assembly of fibres, usually produced by spinning;  </li><li>\"thread\" means an assembly of yarns or filaments, usually produced by twisting;  </li><li>\"synthetic\" fibres or filaments means fibres or filaments or the like manufactured from synthesising polymers or small molecules. Examples are polyamide, acrylic, polyester or carbon fibres;  </li><li>\"artificial\" fibres or filaments means fibres or filaments or the like manufactured by man from natural polymers or their derivatives. Examples are regenerated cellulosic fibres or semi-synthetic fibres;  </li><li>&ldquo;man-made&rdquo; fibres or filaments means fibres or filaments which are manufactured by man including &ldquo;synthetic&rdquo; or &ldquo;artificial&rdquo; fibres.   </li></ul></li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">STRUCTURAL FEATURES </td><td><b><b>1/00</b></b></td></tr></tr><tr><td width=\"70%\">MANUFACTURE<tr><td width=\"70%\">Machines of general application </td><td><b><b>3/00</b></b></td></tr></tr><tr><td width=\"70%\">Details, auxiliary devices </td><td><b><b>7/00</b></b></td></tr></tr><tr><td width=\"70%\">Making from special material </td><td><b><b>5/00</b></b></td></tr></tr><tr><td width=\"70%\">Making ropes or cables of particular form </td><td><b><b>5/00</b></b></td></tr></tr><tr><td width=\"70%\">Binding or sealing ends </td><td><b><b>9/00</b></b></td></tr></tr></tr></table>",
+      "count": 335,
+      "sourceFile": "ipc_D.txt",
+      "kind": "ipc"
+    },
+    "D07": {
+      "code": "D07",
+      "level": 0,
+      "parent": "D",
+      "ja": "ロープ；電気的なもの以外のケーブル",
+      "en": "ROPES; CABLES OTHER THAN ELECTRIC",
+      "count": 0,
+      "sourceFile": "ipc_D.txt",
+      "kind": "ipc"
+    },
+    "D": {
+      "code": "D",
+      "level": 0,
+      "parent": null,
+      "ja": "繊維；紙<br><br><b><ul>注</ul></b><br>このセクションにおいては，下記の用語は以下に示す意味で用いる：<br>―“繊維”は比較的短く，細長い天然または人造の物質よりなるものを意味する；［２０１４．０１］<br>―“フィラメント”はエンドレスまたは準エンドレスで，細長い天然または人造の物質よりなるものを意味する；［２０１４．０１］<br>―“糸”は繊維の単一の集合体を意味し，通常紡績によって製造される；［２０１４．０１］<br>―“より糸”は糸またはフィラメントの集合体を意味し，通常加ねんによって製造される；［２０１４．０１］<br>―“合成”繊維またはフィラメントはポリマーまたは低分子を合成させたものから製造される繊維またはフィラメントまたは類似物を意味する。例は，ポリアミド，アクリル，ポリエステルまたは炭素繊維である；［２０１４．０１］<br>―“人工”繊維またはフィラメントは天然ポリマーまたはその派生物から人が製造した繊維またはフィラメントまたは類似物を意味する。例は，再生セルロース繊維または半合成繊維である；［２０１４．０１］<br>―“人造”繊維またはフィラメントは人が製造した繊維またはフィラメントを意味し，“合成”繊維または“人工”繊維を含む。［２０１４．０１］",
+      "en": "TEXTILES; PAPER; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this section, the following terms are used with the meanings indicated: <ul><li>\"fibre\" means a relatively-short, elongated member of natural or man-made material;    </li><li>\"filament\" means an endless or quasi-endless, elongated member of natural or man-made material;    </li><li>\"yarn\" means a unitary assembly of fibres, usually produced by spinning;    </li><li>\"thread\" means an assembly of yarns or filaments, usually produced by twisting;    </li><li>\"synthetic\" fibres or filaments means fibres or filaments or the like manufactured from synthesising polymers or small molecules. Examples are polyamide, acrylic, polyester or carbon fibres;    </li><li>\"artificial\" fibres or filaments means fibres or filaments or the like manufactured by man from natural polymers or their derivatives. Examples are regenerated cellulosic fibres or semi-synthetic fibres;    </li><li>\"man-made&rdquo; fibres or filaments means fibres or filaments which are manufactured by man including &ldquo;synthetic&rdquo; or &ldquo;artificial&rdquo; fibres.    </li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_D.txt",
+      "kind": "ipc"
+    },
+    "D07B1/00": {
+      "code": "D07B1/00",
+      "level": 0,
+      "parent": "D07B",
+      "ja": "ロープまたはケーブルの構造上の特徴",
+      "en": "Constructional features of ropes or cables",
+      "count": 1796,
+      "sourceFile": "ipc_D07B.txt",
+      "kind": "ipc"
+    },
+    "D07B1/02": {
+      "code": "D07B1/02",
+      "level": 1,
+      "parent": "D07B1/00",
+      "ja": "繊維状またはフィラメント状の材料，例．植物性繊維，動物性繊維，再生セルロース繊維，合成繊維，から構成されたロープ",
+      "en": "Ropes built-up from fibrous or filamentary material, e.g. of vegetable origin, of animal origin, regenerated cellulose, plastics",
+      "count": 2882,
+      "sourceFile": "ipc_D07B.txt",
+      "kind": "ipc"
+    },
+    "D07B1/04": {
+      "code": "D07B1/04",
+      "level": 2,
+      "parent": "D07B1/02",
+      "ja": "中心線に平行に整列した繊維またはフィラメント状の芯をもつもの",
+      "en": "with a core of fibres or filaments arranged parallel to the centre line",
+      "count": 685,
+      "sourceFile": "ipc_D07B.txt",
+      "kind": "ipc"
+    },
+    "D07B1/06": {
+      "code": "D07B1/06",
+      "level": 1,
+      "parent": "D07B1/00",
+      "ja": "金属ワイヤから構成されたロープまたはケーブル，例．ワイヤが麻芯を囲んでいるもの",
+      "en": "Ropes or cables built-up from metal wires, e.g. of section wires around a hemp core",
+      "count": 7357,
+      "sourceFile": "ipc_D07B.txt",
+      "kind": "ipc"
+    },
+    "D07B1/08": {
+      "code": "D07B1/08",
+      "level": 2,
+      "parent": "D07B1/06",
+      "ja": "その層が異形のインターロックワイヤから形成されるもの，すなわち，ストランドが同心層を形成するもの",
+      "en": "the layers of which are formed of profiled interlocking wires, i.e. the strands forming concentric layers",
+      "count": 302,
+      "sourceFile": "ipc_D07B.txt",
+      "kind": "ipc"
+    },
+    "D07B1/10": {
+      "code": "D07B1/10",
+      "level": 3,
+      "parent": "D07B1/08",
+      "ja": "中心線に平行に整列したワイヤの芯をもつもの",
+      "en": "with a core of wires arranged parallel to the centre line",
+      "count": 745,
+      "sourceFile": "ipc_D07B.txt",
+      "kind": "ipc"
+    },
+    "D07B1/12": {
+      "code": "D07B1/12",
+      "level": 1,
+      "parent": "D07B1/00",
+      "ja": "中空の芯をもつロープまたはケーブル",
+      "en": "Ropes or cables with a hollow core",
+      "count": 259,
+      "sourceFile": "ipc_D07B.txt",
+      "kind": "ipc"
+    },
+    "D07B1/14": {
+      "code": "D07B1/14",
+      "level": 1,
+      "parent": "D07B1/00",
+      "ja": "混入した補助的な要素をもつロープまたはケーブル，例．ロープまたはケーブルの長さの方向にそって現れ，延長しているもの",
+      "en": "Ropes or cables with incorporated auxiliary elements, e.g. for making, extending throughout the length of the rope or cable",
+      "count": 2896,
+      "sourceFile": "ipc_D07B.txt",
+      "kind": "ipc"
+    },
+    "D07B1/16": {
+      "code": "D07B1/16",
+      "level": 1,
+      "parent": "D07B1/00",
+      "ja": "ゴムまたは合成樹脂で被覆した外装または埋め込みをもつロープまたはケーブル（Ｄ０７Ｂ１／０４，Ｄ０７Ｂ１／１０が優先）",
+      "en": "Ropes or cables with an enveloping sheathing or inlays of rubber or plastics(<b>D07B1/04</b>, <b>D07B1/10</b> take precedence)",
+      "count": 3812,
+      "sourceFile": "ipc_D07B.txt",
+      "kind": "ipc"
+    },
+    "D07B1/18": {
+      "code": "D07B1/18",
+      "level": 1,
+      "parent": "D07B1/00",
+      "ja": "索環",
+      "en": "Grommets",
+      "count": 607,
+      "sourceFile": "ipc_D07B.txt",
+      "kind": "ipc"
+    },
+    "D07B1/20": {
+      "code": "D07B1/20",
+      "level": 1,
+      "parent": "D07B1/00",
+      "ja": "浮索，例．空気を充満したはちの巣状の穴をもつもの；そのための付属品",
+      "en": "Buoyant ropes, e.g. with air-filled cellular cores; Accessories therefor",
+      "count": 127,
+      "sourceFile": "ipc_D07B.txt",
+      "kind": "ipc"
+    },
+    "D07B1/22": {
+      "code": "D07B1/22",
+      "level": 1,
+      "parent": "D07B1/00",
+      "ja": "扁（へん）平または扁平な側面をもったロープ；平行な複数本のロープの１組から成るロープの組",
+      "en": "Flat or flat-sided ropes; Sets of ropes consisting of a series of parallel ropes",
+      "count": 533,
+      "sourceFile": "ipc_D07B.txt",
+      "kind": "ipc"
+    },
+    "D07B3/00": {
+      "code": "D07B3/00",
+      "level": 0,
+      "parent": "D07B",
+      "ja": "同質または異質の材料のコンポーネントストランドからロープまたはケーブルをねん成するための汎用の機械または装置",
+      "en": "General-purpose machines or apparatus for producing twisted ropes or cables from component strands of the same or different material",
+      "count": 2468,
+      "sourceFile": "ipc_D07B.txt",
+      "kind": "ipc"
+    },
+    "D07B3/02": {
+      "code": "D07B3/02",
+      "level": 1,
+      "parent": "D07B3/00",
+      "ja": "供給リールがロープまたはケーブルの軸のまわりに回転するもの",
+      "en": "in which the supply reels rotate about the axis of the rope or cable",
+      "count": 353,
+      "sourceFile": "ipc_D07B.txt",
+      "kind": "ipc"
+    },
+    "D07B3/04": {
+      "code": "D07B3/04",
+      "level": 2,
+      "parent": "D07B3/02",
+      "ja": "機械の軸にそって直列に配列されたもの",
+      "en": "and are arranged in tandem along the axis of the machine",
+      "count": 543,
+      "sourceFile": "ipc_D07B.txt",
+      "kind": "ipc"
+    },
+    "D07B3/06": {
+      "code": "D07B3/06",
+      "level": 2,
+      "parent": "D07B3/02",
+      "ja": "機械の軸に対して放射状に配置されたもの",
+      "en": "and are spaced radially from the axis of the machine",
+      "count": 461,
+      "sourceFile": "ipc_D07B.txt",
+      "kind": "ipc"
+    },
+    "D07B3/08": {
+      "code": "D07B3/08",
+      "level": 1,
+      "parent": "D07B3/00",
+      "ja": "巻き取り枠がロープまたはケーブルの軸のまわりに回転し，供給巻き枠が定位置に固定されたもの",
+      "en": "in which the take-up reel rotates about the axis of the rope or cable and the supply reels are fixed in position",
+      "count": 354,
+      "sourceFile": "ipc_D07B.txt",
+      "kind": "ipc"
+    },
+    "D07B3/10": {
+      "code": "D07B3/10",
+      "level": 2,
+      "parent": "D07B3/08",
+      "ja": "巻き取り枠の１回転毎にロープまたはケーブルに２回以上のよりを与えるための装備をもつもの",
+      "en": "with provision for imparting more than one complete twist to the ropes or cables for each revolution of the take-up reel",
+      "count": 502,
+      "sourceFile": "ipc_D07B.txt",
+      "kind": "ipc"
+    },
+    "D07B3/12": {
+      "code": "D07B3/12",
+      "level": 1,
+      "parent": "D07B3/00",
+      "ja": "フィラメントの回転している環によって作業するもの",
+      "en": "operating with rotating loops of filaments",
+      "count": 140,
+      "sourceFile": "ipc_D07B.txt",
+      "kind": "ipc"
+    },
+    "D07B3/14": {
+      "code": "D07B3/14",
+      "level": 1,
+      "parent": "D07B3/00",
+      "ja": "手動によるもの",
+      "en": "hand-operated",
+      "count": 60,
+      "sourceFile": "ipc_D07B.txt",
+      "kind": "ipc"
+    },
+    "D07B5/00": {
+      "code": "D07B5/00",
+      "level": 0,
+      "parent": "D07B",
+      "ja": "特別な材料からのまたは特殊な形状のロープまたはケーブルの製造",
+      "en": "Making ropes or cables from special materials or of particular form",
+      "count": 1667,
+      "sourceFile": "ipc_D07B.txt",
+      "kind": "ipc"
+    },
+    "D07B5/02": {
+      "code": "D07B5/02",
+      "level": 1,
+      "parent": "D07B5/00",
+      "ja": "わらまたはわら状の植物性材料からの製造",
+      "en": "from straw or like vegetable material",
+      "count": 199,
+      "sourceFile": "ipc_D07B.txt",
+      "kind": "ipc"
+    },
+    "D07B5/04": {
+      "code": "D07B5/04",
+      "level": 1,
+      "parent": "D07B5/00",
+      "ja": "ロープバンド",
+      "en": "Rope bands",
+      "count": 139,
+      "sourceFile": "ipc_D07B.txt",
+      "kind": "ipc"
+    },
+    "D07B5/06": {
+      "code": "D07B5/06",
+      "level": 1,
+      "parent": "D07B5/00",
+      "ja": "天然または人造繊維からの製造",
+      "en": "from natural or man-made staple fibres",
+      "count": 167,
+      "sourceFile": "ipc_D07B.txt",
+      "kind": "ipc"
+    },
+    "D07B5/08": {
+      "code": "D07B5/08",
+      "level": 2,
+      "parent": "D07B5/06",
+      "ja": "接着剤にて膠（こう）着されたもの",
+      "en": "agglutinated by adhesives",
+      "count": 58,
+      "sourceFile": "ipc_D07B.txt",
+      "kind": "ipc"
+    },
+    "D07B5/10": {
+      "code": "D07B5/10",
+      "level": 1,
+      "parent": "D07B5/00",
+      "ja": "非円形断面のストランドからの製造",
+      "en": "from strands of non-circular cross-section",
+      "count": 136,
+      "sourceFile": "ipc_D07B.txt",
+      "kind": "ipc"
+    },
+    "D07B5/12": {
+      "code": "D07B5/12",
+      "level": 1,
+      "parent": "D07B5/00",
+      "ja": "くせ付けまたは直線化処理を含む方法による弱ねんまたは低張力のものの製造",
+      "en": "of low twist or low tension by processes comprising setting or straightening treatments",
+      "count": 204,
+      "sourceFile": "ipc_D07B.txt",
+      "kind": "ipc"
+    },
+    "D07B7/00": {
+      "code": "D07B7/00",
+      "level": 0,
+      "parent": "D07B",
+      "ja": "ロープまたはケーブル製造機械の細部または付属した補助装置；この機械に関連した補助具",
+      "en": "Details of, or auxiliary devices incorporated in, rope- or cable-making machines; Auxiliary apparatus associated with such machines",
+      "count": 566,
+      "sourceFile": "ipc_D07B.txt",
+      "kind": "ipc"
+    },
+    "D07B7/02": {
+      "code": "D07B7/02",
+      "level": 1,
+      "parent": "D07B7/00",
+      "ja": "機械の細部；補助装置",
+      "en": "Machine details; Auxiliary devices",
+      "count": 3469,
+      "sourceFile": "ipc_D07B.txt",
+      "kind": "ipc"
+    },
+    "D07B7/04": {
+      "code": "D07B7/04",
+      "level": 2,
+      "parent": "D07B7/02",
+      "ja": "ボビンまたはリール支持回転枠に対して逆回転を与えるための装置",
+      "en": "Devices for imparting reverse rotation to bobbin- or reel cages",
+      "count": 79,
+      "sourceFile": "ipc_D07B.txt",
+      "kind": "ipc"
+    },
+    "D07B7/06": {
+      "code": "D07B7/06",
+      "level": 2,
+      "parent": "D07B7/02",
+      "ja": "供給ボビンまたはリールに対する軸受支持部材または制動器",
+      "en": "Bearing supports or brakes for supply bobbins or reels",
+      "count": 460,
+      "sourceFile": "ipc_D07B.txt",
+      "kind": "ipc"
+    },
+    "D07B7/08": {
+      "code": "D07B7/08",
+      "level": 2,
+      "parent": "D07B7/02",
+      "ja": "供給リールまたはボビンから送り出されたフィラメント状の材料の消費または切断に応動する警報または停止運動",
+      "en": "Alarms or stop motions responsive to exhaustion or breakage of filamentary material fed from supply reels or bobbins",
+      "count": 401,
+      "sourceFile": "ipc_D07B.txt",
+      "kind": "ipc"
+    },
+    "D07B7/10": {
+      "code": "D07B7/10",
+      "level": 2,
+      "parent": "D07B7/02",
+      "ja": "仕上げしたロープまたはケーブルの巻き取りまたは巻き返し装置",
+      "en": "Devices for taking-up or winding the finished rope or cable",
+      "count": 781,
+      "sourceFile": "ipc_D07B.txt",
+      "kind": "ipc"
+    },
+    "D07B7/12": {
+      "code": "D07B7/12",
+      "level": 2,
+      "parent": "D07B7/02",
+      "ja": "ロープ，ケーブルまたはそれらのコンポーネントストランドの柔軟化，潤滑または含浸するためのもの",
+      "en": "for softening, lubricating, or impregnating ropes, cables, or component strands thereof",
+      "count": 809,
+      "sourceFile": "ipc_D07B.txt",
+      "kind": "ipc"
+    },
+    "D07B7/14": {
+      "code": "D07B7/14",
+      "level": 2,
+      "parent": "D07B7/02",
+      "ja": "ロープ，ケーブルまたはそれらの構成用ストランドを被覆または被包するためのもの（表面に対する液体または他の流体の供給一般Ｂ０５；伸長した芯に対する被包一般Ｂ６５Ｈ８１／０６）",
+      "en": "for coating or wrapping ropes, cables, or component strands thereof(applying liquids or other fluent materials to surfaces in general <b>B05</b>; wrapping elongated cores in general <b>B65H81/06</b>)",
+      "count": 1667,
+      "sourceFile": "ipc_D07B.txt",
+      "kind": "ipc"
+    },
+    "D07B7/16": {
+      "code": "D07B7/16",
+      "level": 1,
+      "parent": "D07B7/00",
+      "ja": "補助具",
+      "en": "Auxiliary apparatus",
+      "count": 1256,
+      "sourceFile": "ipc_D07B.txt",
+      "kind": "ipc"
+    },
+    "D07B7/18": {
+      "code": "D07B7/18",
+      "level": 2,
+      "parent": "D07B7/16",
+      "ja": "ロープまたはケーブルを処理または継ぎ合わせるために，構成部分を延展または解ねんさせるためのもの",
+      "en": "for spreading or untwisting ropes or cables into constituent parts for treatment or splicing purposes",
+      "count": 438,
+      "sourceFile": "ipc_D07B.txt",
+      "kind": "ipc"
+    },
+    "D07B9/00": {
+      "code": "D07B9/00",
+      "level": 0,
+      "parent": "D07B",
+      "ja": "端部の結束または封着，例．ほつれ防止のためのもの",
+      "en": "Binding or sealing ends, e.g. to prevent unravelling",
+      "count": 1455,
+      "sourceFile": "ipc_D07B.txt",
+      "kind": "ipc"
+    }
+  }
+};

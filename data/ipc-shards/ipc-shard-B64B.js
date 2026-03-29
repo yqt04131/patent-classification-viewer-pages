@@ -1,0 +1,396 @@
+window.IPC_SHARD_B64B = {
+  "generatedAt": "2026-03-20T02:17:46.263Z",
+  "total": 39,
+  "entries": {
+    "B64B": {
+      "code": "B64B",
+      "level": 0,
+      "parent": "B64",
+      "ja": "軽航空機（航空機用地上設備一般Ｂ６４Ｆ）",
+      "en": "LIGHTER-THAN-AIR AIRCRAFT(ground installations for aircraft in general <b>B64F</b>)",
+      "count": 117,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B64": {
+      "code": "B64",
+      "level": 0,
+      "parent": "B",
+      "ja": "航空機；飛行；宇宙工学",
+      "en": "AIRCRAFT; AVIATION; COSMONAUTICS",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B": {
+      "code": "B",
+      "level": 0,
+      "parent": null,
+      "ja": "処理操作；運輸",
+      "en": "PERFORMING OPERATIONS; TRANSPORTING",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B64B1/00": {
+      "code": "B64B1/00",
+      "level": 0,
+      "parent": "B64B",
+      "ja": "軽航空機",
+      "en": "Lighter-than-air aircraft",
+      "count": 2273,
+      "sourceFile": "ipc_B64B.txt",
+      "kind": "ipc"
+    },
+    "B64B1/02": {
+      "code": "B64B1/02",
+      "level": 1,
+      "parent": "B64B1/00",
+      "ja": "軟式飛行船（Ｂ６４Ｂ１／５８が優先；気球Ｂ６４Ｂ１／４０）",
+      "en": "Non-rigid airships(<b>B64B1/58</b> takes precedence; balloons <b>B64B1/40</b>)",
+      "count": 396,
+      "sourceFile": "ipc_B64B.txt",
+      "kind": "ipc"
+    },
+    "B64B1/04": {
+      "code": "B64B1/04",
+      "level": 2,
+      "parent": "B64B1/02",
+      "ja": "対向表面を連結する連結材または索条によって保持される形状",
+      "en": "the profile being maintained by ties or cords connecting opposite surfaces",
+      "count": 48,
+      "sourceFile": "ipc_B64B.txt",
+      "kind": "ipc"
+    },
+    "B64B1/06": {
+      "code": "B64B1/06",
+      "level": 1,
+      "parent": "B64B1/00",
+      "ja": "硬式飛行船；半硬式飛行船（Ｂ６４Ｂ１／５８が優先）",
+      "en": "Rigid airships; Semi-rigid airships(<b>B64B1/58</b> takes precedence)",
+      "count": 792,
+      "sourceFile": "ipc_B64B.txt",
+      "kind": "ipc"
+    },
+    "B64B1/08": {
+      "code": "B64B1/08",
+      "level": 2,
+      "parent": "B64B1/06",
+      "ja": "骨組構造",
+      "en": "Framework construction",
+      "count": 282,
+      "sourceFile": "ipc_B64B.txt",
+      "kind": "ipc"
+    },
+    "B64B1/10": {
+      "code": "B64B1/10",
+      "level": 2,
+      "parent": "B64B1/06",
+      "ja": "尾部構造（Ｂ６４Ｂ１／１２が優先）",
+      "en": "Tail unit construction(<b>B64B1/12</b> takes precedence)",
+      "count": 67,
+      "sourceFile": "ipc_B64B.txt",
+      "kind": "ipc"
+    },
+    "B64B1/12": {
+      "code": "B64B1/12",
+      "level": 2,
+      "parent": "B64B1/06",
+      "ja": "可動操縦翼面",
+      "en": "Movable control surfaces",
+      "count": 118,
+      "sourceFile": "ipc_B64B.txt",
+      "kind": "ipc"
+    },
+    "B64B1/14": {
+      "code": "B64B1/14",
+      "level": 2,
+      "parent": "B64B1/06",
+      "ja": "外部被覆",
+      "en": "Outer covering",
+      "count": 177,
+      "sourceFile": "ipc_B64B.txt",
+      "kind": "ipc"
+    },
+    "B64B1/16": {
+      "code": "B64B1/16",
+      "level": 3,
+      "parent": "B64B1/14",
+      "ja": "硬質のもの",
+      "en": "rigid",
+      "count": 27,
+      "sourceFile": "ipc_B64B.txt",
+      "kind": "ipc"
+    },
+    "B64B1/18": {
+      "code": "B64B1/18",
+      "level": 3,
+      "parent": "B64B1/14",
+      "ja": "枠体への装着",
+      "en": "Attachment to structure",
+      "count": 24,
+      "sourceFile": "ipc_B64B.txt",
+      "kind": "ipc"
+    },
+    "B64B1/20": {
+      "code": "B64B1/20",
+      "level": 2,
+      "parent": "B64B1/06",
+      "ja": "翼または安定板を備えたもの",
+      "en": "provided with wings or stabilising surfaces",
+      "count": 298,
+      "sourceFile": "ipc_B64B.txt",
+      "kind": "ipc"
+    },
+    "B64B1/22": {
+      "code": "B64B1/22",
+      "level": 2,
+      "parent": "B64B1/06",
+      "ja": "船室またはゴンドラの配置",
+      "en": "Arrangement of cabins or gondolas",
+      "count": 416,
+      "sourceFile": "ipc_B64B.txt",
+      "kind": "ipc"
+    },
+    "B64B1/24": {
+      "code": "B64B1/24",
+      "level": 2,
+      "parent": "B64B1/06",
+      "ja": "推進装置の配置（Ｂ６４Ｂ１／３６が優先）",
+      "en": "Arrangement of propulsion plant(<b>B64B1/34</b> takes precedence)",
+      "count": 491,
+      "sourceFile": "ipc_B64B.txt",
+      "kind": "ipc"
+    },
+    "B64B1/26": {
+      "code": "B64B1/26",
+      "level": 3,
+      "parent": "B64B1/24",
+      "ja": "ダクトの中に収納されたもの",
+      "en": "housed in ducts",
+      "count": 111,
+      "sourceFile": "ipc_B64B.txt",
+      "kind": "ipc"
+    },
+    "B64B1/28": {
+      "code": "B64B1/28",
+      "level": 3,
+      "parent": "B64B1/24",
+      "ja": "ナセルの中に収納されたもの",
+      "en": "housed in nacelles",
+      "count": 19,
+      "sourceFile": "ipc_B64B.txt",
+      "kind": "ipc"
+    },
+    "B64B1/30": {
+      "code": "B64B1/30",
+      "level": 3,
+      "parent": "B64B1/24",
+      "ja": "プロペラの配置",
+      "en": "Arrangement of propellers",
+      "count": 330,
+      "sourceFile": "ipc_B64B.txt",
+      "kind": "ipc"
+    },
+    "B64B1/32": {
+      "code": "B64B1/32",
+      "level": 4,
+      "parent": "B64B1/30",
+      "ja": "船体の周りに設けられたもの",
+      "en": "surrounding hull",
+      "count": 148,
+      "sourceFile": "ipc_B64B.txt",
+      "kind": "ipc"
+    },
+    "B64B1/34": {
+      "code": "B64B1/34",
+      "level": 4,
+      "parent": "B64B1/30",
+      "ja": "揚力発生用プロペラの配置",
+      "en": "of lifting propellers",
+      "count": 168,
+      "sourceFile": "ipc_B64B.txt",
+      "kind": "ipc"
+    },
+    "B64B1/36": {
+      "code": "B64B1/36",
+      "level": 2,
+      "parent": "B64B1/06",
+      "ja": "推進又は方向転換用ジェット反動装置の配置",
+      "en": "Arrangement of jet reaction apparatus for propulsion or directional control",
+      "count": 173,
+      "sourceFile": "ipc_B64B.txt",
+      "kind": "ipc"
+    },
+    "B64B1/38": {
+      "code": "B64B1/38",
+      "level": 2,
+      "parent": "B64B1/06",
+      "ja": "重心の位置の制御",
+      "en": "Controlling position of centre of gravity",
+      "count": 110,
+      "sourceFile": "ipc_B64B.txt",
+      "kind": "ipc"
+    },
+    "B64B1/40": {
+      "code": "B64B1/40",
+      "level": 1,
+      "parent": "B64B1/00",
+      "ja": "気球（Ｂ６４Ｂ１／５８が優先；おもちゃの気球Ａ６３Ｈ２７／１０）",
+      "en": "Balloons(<b>B64B1/58</b> takes precedence; toy balloons <b>A63H27/10</b>)",
+      "count": 1819,
+      "sourceFile": "ipc_B64B.txt",
+      "kind": "ipc"
+    },
+    "B64B1/42": {
+      "code": "B64B1/42",
+      "level": 2,
+      "parent": "B64B1/40",
+      "ja": "安定板の構造または装着",
+      "en": "Construction or attachment of stabilising surfaces",
+      "count": 128,
+      "sourceFile": "ipc_B64B.txt",
+      "kind": "ipc"
+    },
+    "B64B1/44": {
+      "code": "B64B1/44",
+      "level": 2,
+      "parent": "B64B1/40",
+      "ja": "一定の高度で浮遊するもの",
+      "en": "adapted to maintain predetermined altitude",
+      "count": 142,
+      "sourceFile": "ipc_B64B.txt",
+      "kind": "ipc"
+    },
+    "B64B1/46": {
+      "code": "B64B1/46",
+      "level": 2,
+      "parent": "B64B1/40",
+      "ja": "破裂装置と協働するもの",
+      "en": "associated with apparatus to cause bursting",
+      "count": 64,
+      "sourceFile": "ipc_B64B.txt",
+      "kind": "ipc"
+    },
+    "B64B1/48": {
+      "code": "B64B1/48",
+      "level": 3,
+      "parent": "B64B1/46",
+      "ja": "積載重量物を落下傘により降下するようにしたもの",
+      "en": "to enable load to be dropped by parachute",
+      "count": 39,
+      "sourceFile": "ipc_B64B.txt",
+      "kind": "ipc"
+    },
+    "B64B1/50": {
+      "code": "B64B1/50",
+      "level": 2,
+      "parent": "B64B1/40",
+      "ja": "係留気球",
+      "en": "Captive balloons",
+      "count": 977,
+      "sourceFile": "ipc_B64B.txt",
+      "kind": "ipc"
+    },
+    "B64B1/52": {
+      "code": "B64B1/52",
+      "level": 3,
+      "parent": "B64B1/50",
+      "ja": "阻塞索を有するもの",
+      "en": "attaching trailing entanglements",
+      "count": 141,
+      "sourceFile": "ipc_B64B.txt",
+      "kind": "ipc"
+    },
+    "B64B1/54": {
+      "code": "B64B1/54",
+      "level": 3,
+      "parent": "B64B1/50",
+      "ja": "二個以上の気球を上下方向に連結したもの",
+      "en": "connecting two or more balloons in superimposed relationship",
+      "count": 50,
+      "sourceFile": "ipc_B64B.txt",
+      "kind": "ipc"
+    },
+    "B64B1/56": {
+      "code": "B64B1/56",
+      "level": 3,
+      "parent": "B64B1/50",
+      "ja": "回転運動により安定を保つもの",
+      "en": "stabilised by rotary motion",
+      "count": 27,
+      "sourceFile": "ipc_B64B.txt",
+      "kind": "ipc"
+    },
+    "B64B1/58": {
+      "code": "B64B1/58",
+      "level": 1,
+      "parent": "B64B1/00",
+      "ja": "気嚢の設備または構造；気体充填装置（膨張可能な弾性体への弁の取付けＢ６０Ｃ２９／００）",
+      "en": "Arrangements or construction of gas-bags; Filling arrangements(connection of valves to inflatable elastic bodies <b>B60C29/00</b>)",
+      "count": 2198,
+      "sourceFile": "ipc_B64B.txt",
+      "kind": "ipc"
+    },
+    "B64B1/60": {
+      "code": "B64B1/60",
+      "level": 2,
+      "parent": "B64B1/58",
+      "ja": "複数個に分割された不活性気体容器を周囲に備える気嚢",
+      "en": "Gas-bags surrounded by separate containers of inert gas",
+      "count": 339,
+      "sourceFile": "ipc_B64B.txt",
+      "kind": "ipc"
+    },
+    "B64B1/62": {
+      "code": "B64B1/62",
+      "level": 2,
+      "parent": "B64B1/58",
+      "ja": "気体圧力の制御，加熱，冷却，または気体の放出",
+      "en": "Controlling gas pressure, heating, cooling, or discharging gas",
+      "count": 1316,
+      "sourceFile": "ipc_B64B.txt",
+      "kind": "ipc"
+    },
+    "B64B1/64": {
+      "code": "B64B1/64",
+      "level": 2,
+      "parent": "B64B1/58",
+      "ja": "気体制御弁の操作機構",
+      "en": "Gas-valve operating mechanisms",
+      "count": 346,
+      "sourceFile": "ipc_B64B.txt",
+      "kind": "ipc"
+    },
+    "B64B1/66": {
+      "code": "B64B1/66",
+      "level": 1,
+      "parent": "B64B1/00",
+      "ja": "係留用付属装置",
+      "en": "Mooring attachments ",
+      "count": 765,
+      "sourceFile": "ipc_B64B.txt",
+      "kind": "ipc"
+    },
+    "B64B1/68": {
+      "code": "B64B1/68",
+      "level": 1,
+      "parent": "B64B1/00",
+      "ja": "水面浮上装置",
+      "en": "Water flotation gear",
+      "count": 43,
+      "sourceFile": "ipc_B64B.txt",
+      "kind": "ipc"
+    },
+    "B64B1/70": {
+      "code": "B64B1/70",
+      "level": 1,
+      "parent": "B64B1/00",
+      "ja": "バラスト調整装置",
+      "en": "Ballasting arrangements",
+      "count": 176,
+      "sourceFile": "ipc_B64B.txt",
+      "kind": "ipc"
+    }
+  }
+};

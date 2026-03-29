@@ -1,0 +1,1236 @@
+window.IPC_SHARD_B21C = {
+  "generatedAt": "2026-03-20T02:17:46.084Z",
+  "total": 123,
+  "entries": {
+    "B21C": {
+      "code": "B21C",
+      "level": 0,
+      "parent": "B21",
+      "ja": "圧延以外の方法による金属板，線，棒，管，型材または類似の半製品の製造；実質的に材料を除去しない金属加工と関連して用いる補助作業<br><br><b><ul>サブクラス内の索引</ul></b><br>金属の引抜<br>一般的方法　１／００<br>補助的作業　５／００，９／００<br>装置　３／００，１９／００<br>金属の押出し<br>一般的方法　２３／００<br>補助的作業　２９／００，３３／００，３５／００<br>装置　２５／００，２６／００，２７／００<br>制御　３１／００<br>金属の引抜および押出しに共通な細部　４３／００<br>他に分類されない製造　３７／００<br>実質的に材料の除去なしに金属加工と結合して用いる補助的および付随的作業<br>巻取り　４７／００<br>他の補助的作業　４５／００，５１／００<br>補助装置　１９／００，４９／００",
+      "en": "MANUFACTURE OF METAL SHEETS, WIRE, RODS, TUBES, PROFILES OR LIKE SEMI-MANUFACTURED PRODUCTS OTHERWISE THAN BY ROLLING; AUXILIARY OPERATIONS USED IN CONNECTION WITH METAL-WORKING WITHOUT ESSENTIALLY REMOVING MATERIAL; <br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">METAL DRAWING<tr><td width=\"70%\">General methods </td><td><b><b>1/00</b></b></td></tr></tr><tr><td width=\"70%\">Auxiliary operations </td><td><b><b>5/00</b>, <b>9/00</b></b></td></tr></tr><tr><td width=\"70%\">Equipment </td><td><b><b>3/00</b>, <b>19/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">METAL EXTRUDING<tr><td width=\"70%\">General methods </td><td><b><b>23/00</b></b></td></tr></tr><tr><td width=\"70%\">Auxiliary operations </td><td><b><b>29/00</b>, <b>33/00</b>, <b>35/00</b></b></td></tr></tr><tr><td width=\"70%\">Equipment </td><td><b><b>25/00</b>, <b>26/00</b>, <b>27/00</b></b></td></tr></tr><tr><td width=\"70%\">Control </td><td><b><b>31/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">DETAILS COMMON TO DRAWING AND EXTRUDING OF METAL </td><td><b><b>43/00</b></b></td></tr></tr><tr><td width=\"70%\">MANUFACTURING NOT OTHERWISE PROVIDED FOR </td><td><b><b>37/00</b></b></td></tr></tr><tr><td width=\"70%\">AUXILIARY OPERATIONS USED IN CONNECTION WITH METAL-WORKING WITHOUT ESSENTIALLY REMOVING MATERIAL<tr><td width=\"70%\">Reeling </td><td><b><b>47/00</b></b></td></tr></tr><tr><td width=\"70%\">Other auxiliary operations </td><td><b><b>45/00</b>, <b>51/00</b></b></td></tr></tr><tr><td width=\"70%\">Auxiliary equipment </td><td><b><b>19/00</b>, <b>49/00</b></b></td></tr></tr></tr></table>",
+      "count": 1352,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B21": {
+      "code": "B21",
+      "level": 0,
+      "parent": "B",
+      "ja": "本質的には材料の除去が行なわれない機械的金属加工；金属の打抜き<br><br><b><ul>注</ul></b><br>（１）このクラスは，以下のものを包含する：<br>―金属材料の加工；［２０１５．０１］<br>―適用される方法が金属材料加工に用いられるものと類似し且つ他の分類箇所に包含されないものに限る非金属材料の加工。［２０１５．０１］<br>（２）このクラスは，以下のものを包含しない：<br>―クラスＢ２１の異ったサブクラスによって包含される作業の組合せ，これはサブクラスＢ２３Ｐに包含される；<br>―クラスＢ２１のどれか特定のサブクラスによって包含される作業と，他のクラスによって包含される作業，例．材料の除去を伴う作業，の組合せ，これもサブクラスＢ２３Ｐに包含される。ただし，もし他のクラスによって包含される作業がＢ２１の単一のサブクラスに適正に包含される作業に対し補助的である場合は，その組合せはＢ２１のサブクラスに分類される。",
+      "en": "MECHANICAL METAL-WORKING WITHOUT ESSENTIALLY REMOVING MATERIAL; PUNCHING METAL; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This class <u>covers</u>: <ul><li>working of metallic materials;</li><li>working of non-metallic materials, provided that the methods applied are similar to those used in metal-working and not provided for elsewhere.</li></ul></li><li>This class <u>does not cover</u>: <ul><li>combinations of operations covered by different subclasses of class <b>B21</b>, which are covered by subclass <b>B23P</b>;</li><li>combinations of operations covered by any particular subclass of class <b>B21</b> with operations covered by other classes, e.g. with operations involving removal of material, which are also covered by subclass <b>B23P</b>, except that if the operations covered by the other classes are subsidiary to the operations properly covered by a single subclass of <b>B21</b> the combination is classified in that subclass.</li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B": {
+      "code": "B",
+      "level": 0,
+      "parent": null,
+      "ja": "処理操作；運輸",
+      "en": "PERFORMING OPERATIONS; TRANSPORTING",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B21C1/00": {
+      "code": "B21C1/00",
+      "level": 0,
+      "parent": "B21C",
+      "ja": "引抜による金属板，線，棒，管または類似の半製品の製造",
+      "en": "Manufacture of metal sheets, wire, rods, tubes or like semi-manufactured products by drawing",
+      "count": 4969,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C1/02": {
+      "code": "B21C1/02",
+      "level": 1,
+      "parent": "B21C1/00",
+      "ja": "引抜作用がドラムで行われる引抜機械または装置による金属線または類似の可撓性金属材料の引抜き",
+      "en": "Drawing metal wire or like flexible metallic material by drawing machines or apparatus in which the drawing action is effected by drums",
+      "count": 7511,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C1/04": {
+      "code": "B21C1/04",
+      "level": 2,
+      "parent": "B21C1/02",
+      "ja": "連続して作用する２個以上のダイスをもつもの",
+      "en": "with two or more dies operating in series",
+      "count": 1776,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C1/06": {
+      "code": "B21C1/06",
+      "level": 3,
+      "parent": "B21C1/04",
+      "ja": "ドラム上で材料がスリップするもの",
+      "en": "in which the material slips on the drums",
+      "count": 168,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C1/08": {
+      "code": "B21C1/08",
+      "level": 3,
+      "parent": "B21C1/04",
+      "ja": "ドラム上で材料がスリップしないもの",
+      "en": "in which the material does not slip on the drums",
+      "count": 161,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C1/10": {
+      "code": "B21C1/10",
+      "level": 4,
+      "parent": "B21C1/08",
+      "ja": "連続配列ダイス間に材料の蓄積を行うもの",
+      "en": "with accumulation of material between consecutively-arranged dies",
+      "count": 76,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C1/12": {
+      "code": "B21C1/12",
+      "level": 2,
+      "parent": "B21C1/02",
+      "ja": "引抜きドラムの速度の調整または制御，例．張力の影響；駆動；ストップまたはリリーフ機構",
+      "en": "Regulating or controlling speed of drawing drums, e.g. to influence tension; Drives; Stop or relief mechanisms",
+      "count": 2675,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C1/14": {
+      "code": "B21C1/14",
+      "level": 2,
+      "parent": "B21C1/02",
+      "ja": "ドラム，例．キャプスタン；それらとグリッパーの結合；ドラム形の引抜機械または装置に特に適するグリッパー；これらのドラムに特に適するカップリング",
+      "en": "Drums, e.g. capstans; Connection of grippers thereto; Grippers specially adapted for drawing machines or apparatus of the drum type; Couplings specially adapted for these drums",
+      "count": 1904,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C1/16": {
+      "code": "B21C1/16",
+      "level": 1,
+      "parent": "B21C1/00",
+      "ja": "引抜作用がドラム以外の手段で行われる機械または装置による金属の引抜，例．金属板，棒，または管を製造するため被加工物またはストックを引張りまたは押す縦方向に動く移送台によるもの",
+      "en": "Metal drawing by machines or apparatus in which the drawing action is effected by means other than drums, e.g. by a longitudinally-moved carriage pulling or pushing the work or stock for making metal sheets, rods or tubes",
+      "count": 1146,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C1/18": {
+      "code": "B21C1/18",
+      "level": 2,
+      "parent": "B21C1/16",
+      "ja": "限定長さのストックからのもの（Ｂ２１Ｃ１／２２が優先）",
+      "en": "from stock of limited length(<b>B21C1/22</b> takes precedence)",
+      "count": 406,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C1/20": {
+      "code": "B21C1/20",
+      "level": 2,
+      "parent": "B21C1/16",
+      "ja": "実質的に無制限長さのストックからのもの（Ｂ２１Ｃ１／２２が優先）",
+      "en": "from stock of essentially unlimited length(<b>B21C1/22</b> takes precedence)",
+      "count": 333,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C1/22": {
+      "code": "B21C1/22",
+      "level": 2,
+      "parent": "B21C1/16",
+      "ja": "管状物品の製造に特に適するもの（引抜により管状に成形する金属板の曲げ加工Ｂ２１Ｄ５／１０）",
+      "en": "specially adapted for making tubular articles(bending sheet metal into tubular form by drawing <b>B21D5/10</b>)",
+      "count": 3487,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C1/24": {
+      "code": "B21C1/24",
+      "level": 3,
+      "parent": "B21C1/22",
+      "ja": "マンドレルによるもの",
+      "en": "by means of mandrels",
+      "count": 1268,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C1/26": {
+      "code": "B21C1/26",
+      "level": 4,
+      "parent": "B21C1/24",
+      "ja": "プッシュベンチ引抜",
+      "en": "Push-bench drawing",
+      "count": 429,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C1/27": {
+      "code": "B21C1/27",
+      "level": 2,
+      "parent": "B21C1/16",
+      "ja": "移送台；駆動",
+      "en": "Carriages; Drives",
+      "count": 118,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C1/28": {
+      "code": "B21C1/28",
+      "level": 3,
+      "parent": "B21C1/27",
+      "ja": "移送台；それとグリッパーの結合；グリッパー",
+      "en": "Carriages; Connections of grippers thereto; Grippers",
+      "count": 1863,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C1/30": {
+      "code": "B21C1/30",
+      "level": 3,
+      "parent": "B21C1/27",
+      "ja": "駆動，例．移送台移動機構；駆動要素，例．引抜用チェーン；駆動の制御",
+      "en": "Drives, e.g. carriage-traversing mechanisms; Driving elements, e.g. drawing chains; Controlling the drive",
+      "count": 1099,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C1/32": {
+      "code": "B21C1/32",
+      "level": 2,
+      "parent": "B21C1/16",
+      "ja": "材料またはマンドレルの供給または放出",
+      "en": "Feeding or discharging the material or mandrels",
+      "count": 1459,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C1/34": {
+      "code": "B21C1/34",
+      "level": 2,
+      "parent": "B21C1/16",
+      "ja": "材料またはマンドレルの案内または支持",
+      "en": "Guiding or supporting the material or mandrels",
+      "count": 1204,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C3/00": {
+      "code": "B21C3/00",
+      "level": 0,
+      "parent": "B21C",
+      "ja": "金属引抜き用プロフィリング工具；金属引抜き用ダイスおよびマンドレルの組合せ",
+      "en": "Profiling tools for metal drawing; Combinations of dies and mandrels for metal drawing",
+      "count": 762,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C3/02": {
+      "code": "B21C3/02",
+      "level": 1,
+      "parent": "B21C3/00",
+      "ja": "ダイス；ダイス用材料の選択；ダイスの清浄",
+      "en": "Dies; Selection of material therefor; Cleaning thereof",
+      "count": 3838,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C3/04": {
+      "code": "B21C3/04",
+      "level": 2,
+      "parent": "B21C3/02",
+      "ja": "非調整断面をもつもの（Ｂ２１Ｃ３／０８が優先）",
+      "en": "with non-adjustable section(<b>B21C3/08</b> takes precedence)",
+      "count": 525,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C3/06": {
+      "code": "B21C3/06",
+      "level": 2,
+      "parent": "B21C3/02",
+      "ja": "調整断面をもつもの（Ｂ２１Ｃ３／０８が優先）",
+      "en": "with adjustable section(<b>B21C3/08</b> takes precedence)",
+      "count": 457,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C3/08": {
+      "code": "B21C3/08",
+      "level": 2,
+      "parent": "B21C3/02",
+      "ja": "ローラー，ボールまたは類似物で限定した断面をもつもの",
+      "en": "with section defined by rollers, balls, or the like",
+      "count": 811,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C3/10": {
+      "code": "B21C3/10",
+      "level": 2,
+      "parent": "B21C3/02",
+      "ja": "加工品に直接作用する液圧力をもつもの",
+      "en": "with hydraulic forces acting immediately on work",
+      "count": 177,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C3/12": {
+      "code": "B21C3/12",
+      "level": 2,
+      "parent": "B21C3/02",
+      "ja": "ダイス保持具；回転ダイス",
+      "en": "Die holders; Rotating dies",
+      "count": 1186,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C3/14": {
+      "code": "B21C3/14",
+      "level": 3,
+      "parent": "B21C3/12",
+      "ja": "引抜材料を案内する装置と組合わせた，または冷却，加熱，もしくは潤滑する装置と組合わせたダイス保持具",
+      "en": "Die holders combined with devices for guiding the drawing material or combined with devices for cooling, heating, or lubricating",
+      "count": 2149,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C3/16": {
+      "code": "B21C3/16",
+      "level": 1,
+      "parent": "B21C3/00",
+      "ja": "マンドレル；据付けまたは調整",
+      "en": "Mandrels; Mounting or adjusting same",
+      "count": 970,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C3/18": {
+      "code": "B21C3/18",
+      "level": 1,
+      "parent": "B21C3/00",
+      "ja": "単一の他のサブクラスに包含されない作用による工具の製造；修理",
+      "en": "Making tools by operations not covered by a single other subclass; Repairing",
+      "count": 410,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C5/00": {
+      "code": "B21C5/00",
+      "level": 0,
+      "parent": "B21C",
+      "ja": "引抜材料または引抜加工品のポインティングまたはプッシュポインティング",
+      "en": "Pointing or push-pointing drawn work or drawing material",
+      "count": 952,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C9/00": {
+      "code": "B21C9/00",
+      "level": 0,
+      "parent": "B21C",
+      "ja": "引抜材料の冷却，加熱または潤滑（Ｂ２１Ｃ３／１４が優先）",
+      "en": "Cooling, heating or lubricating drawing material(<b>B21C3/14</b> takes precedence)",
+      "count": 7230,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C9/02": {
+      "code": "B21C9/02",
+      "level": 1,
+      "parent": "B21C9/00",
+      "ja": "それらのための構成の選択",
+      "en": "Selection of compositions therefor",
+      "count": 478,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C19/00": {
+      "code": "B21C19/00",
+      "level": 0,
+      "parent": "B21C",
+      "ja": "引抜または巻取り機械または装置と結合しまたは組合わせて用いるのに特に適した線または類似の加工品の矯正装置",
+      "en": "Devices for straightening wire or like work combined with or specially adapted for use in connection with drawing or winding machines or apparatus",
+      "count": 1205,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C23/00": {
+      "code": "B21C23/00",
+      "level": 0,
+      "parent": "B21C",
+      "ja": "金属の押出し；衝撃押出し",
+      "en": "Extruding metal; Impact extrusion",
+      "count": 4842,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C23/01": {
+      "code": "B21C23/01",
+      "level": 1,
+      "parent": "B21C23/00",
+      "ja": "特有の形または形状の材料からの出発，例．機械的に予備処理したもの（Ｂ２１Ｃ２３／２２が優先）",
+      "en": "starting from material of particular form or shape, e.g. mechanically pre-treated (<b>B21C23/22</b> takes precedence)",
+      "count": 1055,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C23/02": {
+      "code": "B21C23/02",
+      "level": 1,
+      "parent": "B21C23/00",
+      "ja": "被覆のない製品の製造",
+      "en": "Making uncoated products",
+      "count": 1321,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C23/03": {
+      "code": "B21C23/03",
+      "level": 2,
+      "parent": "B21C23/02",
+      "ja": "直接押出しおよび後方押出しの両方によるもの",
+      "en": "by both direct and backward extrusion",
+      "count": 434,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C23/04": {
+      "code": "B21C23/04",
+      "level": 2,
+      "parent": "B21C23/02",
+      "ja": "直接押出しによるもの",
+      "en": "by direct extrusion",
+      "count": 794,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C23/06": {
+      "code": "B21C23/06",
+      "level": 3,
+      "parent": "B21C23/04",
+      "ja": "板の製造",
+      "en": "Making sheets",
+      "count": 352,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C23/08": {
+      "code": "B21C23/08",
+      "level": 3,
+      "parent": "B21C23/04",
+      "ja": "線，棒，管の製造",
+      "en": "Making wire, rods or tubes",
+      "count": 4005,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C23/10": {
+      "code": "B21C23/10",
+      "level": 4,
+      "parent": "B21C23/08",
+      "ja": "フイン付管の製造",
+      "en": "Making finned tubes",
+      "count": 407,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C23/12": {
+      "code": "B21C23/12",
+      "level": 4,
+      "parent": "B21C23/08",
+      "ja": "わん曲管または棒の押出し",
+      "en": "Extruding bent tubes or rods",
+      "count": 244,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C23/14": {
+      "code": "B21C23/14",
+      "level": 3,
+      "parent": "B21C23/04",
+      "ja": "他の製品の製造",
+      "en": "Making other products",
+      "count": 2236,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C23/16": {
+      "code": "B21C23/16",
+      "level": 4,
+      "parent": "B21C23/14",
+      "ja": "タービン翼またはプロペラの製造",
+      "en": "Making turbo blades or propellers",
+      "count": 130,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C23/18": {
+      "code": "B21C23/18",
+      "level": 2,
+      "parent": "B21C23/02",
+      "ja": "衝撃押出しによるもの［２］",
+      "en": "by impact extrusion",
+      "count": 659,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C23/20": {
+      "code": "B21C23/20",
+      "level": 2,
+      "parent": "B21C23/02",
+      "ja": "後方押出しによるもの",
+      "en": "by backward extrusion",
+      "count": 1022,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C23/21": {
+      "code": "B21C23/21",
+      "level": 1,
+      "parent": "B21C23/00",
+      "ja": "金属押出しに特に適するプレス",
+      "en": "Presses specially adapted for extruding metal",
+      "count": 6133,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C23/22": {
+      "code": "B21C23/22",
+      "level": 1,
+      "parent": "B21C23/00",
+      "ja": "金属被覆した製品の製造；２個以上の金属からの製品の製造",
+      "en": "Making metal-coated products; Making products from two or more metals",
+      "count": 1341,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C23/24": {
+      "code": "B21C23/24",
+      "level": 2,
+      "parent": "B21C23/22",
+      "ja": "被覆金属での長さが不定の金属または非金属の被覆",
+      "en": "Covering indefinite lengths of metal or non-metal material with a metal coating",
+      "count": 499,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C23/26": {
+      "code": "B21C23/26",
+      "level": 3,
+      "parent": "B21C23/24",
+      "ja": "ケーブル，例．絶縁電気ケーブル，の被覆への応用",
+      "en": "Applying metal coats to cables, e.g. to insulated electric cables",
+      "count": 258,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C23/28": {
+      "code": "B21C23/28",
+      "level": 4,
+      "parent": "B21C23/26",
+      "ja": "断続的に作用する押出しプレスにおけるもの",
+      "en": "on intermittently-operating extrusion presses",
+      "count": 140,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C23/30": {
+      "code": "B21C23/30",
+      "level": 4,
+      "parent": "B21C23/26",
+      "ja": "連続的に作用する押出しプレスにおけるもの",
+      "en": "on continuously-operating extrusion presses",
+      "count": 402,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C23/32": {
+      "code": "B21C23/32",
+      "level": 1,
+      "parent": "B21C23/00",
+      "ja": "被押出し金属またはダイスまたはその類似のものの潤滑，例．潤滑剤の物理的状態，潤滑剤を供給する位置",
+      "en": "Lubrication of metal being extruded or of dies, or the like, e.g. physical state of lubricant, location where lubricant is applied",
+      "count": 1473,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C25/00": {
+      "code": "B21C25/00",
+      "level": 0,
+      "parent": "B21C",
+      "ja": "金属の押出し用プロフィリング工具",
+      "en": "Profiling tools for metal extruding",
+      "count": 1507,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C25/02": {
+      "code": "B21C25/02",
+      "level": 1,
+      "parent": "B21C25/00",
+      "ja": "ダイス",
+      "en": "Dies",
+      "count": 10897,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C25/04": {
+      "code": "B21C25/04",
+      "level": 1,
+      "parent": "B21C25/00",
+      "ja": "マンドレル",
+      "en": "Mandrels",
+      "count": 778,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C25/06": {
+      "code": "B21C25/06",
+      "level": 1,
+      "parent": "B21C25/00",
+      "ja": "被覆加工品のためのプレスヘッド，ダイスまたはマンドレル",
+      "en": "Press heads, dies, or mandrels for coating work",
+      "count": 467,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C25/08": {
+      "code": "B21C25/08",
+      "level": 1,
+      "parent": "B21C25/00",
+      "ja": "押出し中に断面が変化するダイスまたはマンドレル，例．テーパー加工品の製造のためのもの；変化の制御",
+      "en": "Dies or mandrels with section variable during extruding, e. g for making tapered work; Controlling variation",
+      "count": 606,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C25/10": {
+      "code": "B21C25/10",
+      "level": 1,
+      "parent": "B21C25/00",
+      "ja": "単一の他のサブクラスに含まれない作用による工具の製造",
+      "en": "Making tools by operations not covered by a single other subclass",
+      "count": 334,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C26/00": {
+      "code": "B21C26/00",
+      "level": 0,
+      "parent": "B21C",
+      "ja": "金属押出し用ラムまたはプランジャー；そのためのディスク［２］",
+      "en": "Rams or plungers for metal extruding; Discs therefor",
+      "count": 1124,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C27/00": {
+      "code": "B21C27/00",
+      "level": 0,
+      "parent": "B21C",
+      "ja": "押出し金属のためのコンテナ（Ｂ２１Ｃ２９／０２が優先）",
+      "en": "Containers for metal to be extruded(<b>B21C29/02</b> takes precedence)",
+      "count": 726,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C27/02": {
+      "code": "B21C27/02",
+      "level": 1,
+      "parent": "B21C27/00",
+      "ja": "被覆加工品製造用",
+      "en": "for making coated work",
+      "count": 19,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C27/04": {
+      "code": "B21C27/04",
+      "level": 1,
+      "parent": "B21C27/00",
+      "ja": "コンテナ内の通気",
+      "en": "Venting metal-container chamber",
+      "count": 214,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C29/00": {
+      "code": "B21C29/00",
+      "level": 0,
+      "parent": "B21C",
+      "ja": "押出しプレスから押出された被加工物または押出しプレスの部品の加熱または冷却",
+      "en": "Cooling or heating extruded work or parts of the extrusion press",
+      "count": 3821,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C29/02": {
+      "code": "B21C29/02",
+      "level": 1,
+      "parent": "B21C29/00",
+      "ja": "被押出し金属のためのコンテナのもの",
+      "en": "of containers for metal to be extruded",
+      "count": 393,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C29/04": {
+      "code": "B21C29/04",
+      "level": 1,
+      "parent": "B21C29/00",
+      "ja": "プレスヘッド，ダイスまたはマンドレルのもの",
+      "en": "of press heads, dies, or mandrels",
+      "count": 1637,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C31/00": {
+      "code": "B21C31/00",
+      "level": 0,
+      "parent": "B21C",
+      "ja": "金属押出し用制御装置，例．金属のプレス速度またはプレス温度の調整のためのもの（Ｂ２１Ｃ２５／０８が優先）；押出プレスと組合わせまたは関連して用いるのに特に適した測定装置，例．金属の温度測定用のもの",
+      "en": "Control devices for metal extruding, e.g. for regulating the pressing speed or temperature of metal(<b>B21C25/08</b> takes precedence);Measuring devices, e.g. for temperature of metal, combined with or specially adapted for use in connection with extrusion presses",
+      "count": 2234,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C33/00": {
+      "code": "B21C33/00",
+      "level": 0,
+      "parent": "B21C",
+      "ja": "押出しプレスへの被押出し金属の供給",
+      "en": "Feeding extrusion presses with metal to be extruded",
+      "count": 1800,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C33/02": {
+      "code": "B21C33/02",
+      "level": 1,
+      "parent": "B21C33/00",
+      "ja": "液体状の金属",
+      "en": "the metal being in liquid form",
+      "count": 316,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C35/00": {
+      "code": "B21C35/00",
+      "level": 0,
+      "parent": "B21C",
+      "ja": "押出しプレスからの加工品または押かすの除去；押出し加工品を引放すこと（わん曲管または棒の押出しと関連Ｂ２１Ｃ２３／１２）；金属押出し用ダイス，ダクト，コンテナまたはマンドレルの清浄［２］",
+      "en": "Removing work or waste from extruding presses; Drawing-off extruded work(in connection with the extruding of bent tubes or rods <b>B21C23/12</b>);Cleaning dies, ducts, containers, or mandrels for metal extruding",
+      "count": 512,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C35/02": {
+      "code": "B21C35/02",
+      "level": 1,
+      "parent": "B21C35/00",
+      "ja": "加工品の除去または引離し",
+      "en": "Removing or drawing-off work",
+      "count": 2994,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C35/03": {
+      "code": "B21C35/03",
+      "level": 2,
+      "parent": "B21C35/02",
+      "ja": "加工品の矯正",
+      "en": "Straightening the work",
+      "count": 470,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C35/04": {
+      "code": "B21C35/04",
+      "level": 1,
+      "parent": "B21C35/00",
+      "ja": "押かすの切離しまたは除去",
+      "en": "Cutting-off or removing waste",
+      "count": 1302,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C35/06": {
+      "code": "B21C35/06",
+      "level": 1,
+      "parent": "B21C35/00",
+      "ja": "ダイス，ダクト，コンテナまたはマンドレルの清浄［２］",
+      "en": "Cleaning dies, ducts, containers or mandrels",
+      "count": 491,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C37/00": {
+      "code": "B21C37/00",
+      "level": 0,
+      "parent": "B21C",
+      "ja": "他に分類されない金属板，棒，線，管、型材または類似の半製品の製造；特殊形状管の製造［２］",
+      "en": "Manufacture of metal sheets, rods, wire, tubes, profiles or like semi-manufactured products, not otherwise provided for; Manufacture of tubes of special shape",
+      "count": 2006,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C37/02": {
+      "code": "B21C37/02",
+      "level": 1,
+      "parent": "B21C37/00",
+      "ja": "板の製造",
+      "en": "of sheets",
+      "count": 2777,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C37/04": {
+      "code": "B21C37/04",
+      "level": 1,
+      "parent": "B21C37/00",
+      "ja": "棒または線の製造",
+      "en": "of rods or wire",
+      "count": 4751,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C37/06": {
+      "code": "B21C37/06",
+      "level": 1,
+      "parent": "B21C37/00",
+      "ja": "管または金属ホースの製造；管製造のために組合わせた処置，例．多壁管の製造",
+      "en": "of tubes or metal hoses; Combined procedures for making tubes, e.g. for making multi-wall tubes",
+      "count": 5500,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C37/08": {
+      "code": "B21C37/08",
+      "level": 2,
+      "parent": "B21C37/06",
+      "ja": "溶接またははんだ付作業による管の製造",
+      "en": "Making tubes with welded or soldered seams",
+      "count": 7581,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C37/083": {
+      "code": "B21C37/083",
+      "level": 3,
+      "parent": "B21C37/08",
+      "ja": "ストリップ材料の供給，または供給と組合わせた作業",
+      "en": "Supply, or operations combined with supply, of strip material",
+      "count": 821,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C37/087": {
+      "code": "B21C37/087",
+      "level": 3,
+      "parent": "B21C37/08",
+      "ja": "はんだ材料の棒またはストリップを用いるもの",
+      "en": "using rods or strips of soldering material",
+      "count": 47,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C37/09": {
+      "code": "B21C37/09",
+      "level": 3,
+      "parent": "B21C37/08",
+      "ja": "被覆したストリップ材料のもの",
+      "en": "of coated strip material",
+      "count": 419,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C37/10": {
+      "code": "B21C37/10",
+      "level": 2,
+      "parent": "B21C37/06",
+      "ja": "リベット継合による管の製造",
+      "en": "Making tubes with riveted seams",
+      "count": 441,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C37/12": {
+      "code": "B21C37/12",
+      "level": 2,
+      "parent": "B21C37/06",
+      "ja": "ら旋継目管または金属ホースの製造",
+      "en": "Making tubes or metal hoses with helically arranged seams",
+      "count": 2925,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C37/14": {
+      "code": "B21C37/14",
+      "level": 2,
+      "parent": "B21C37/06",
+      "ja": "複合平板からの管の製造",
+      "en": "Making tubes from doubled flat material",
+      "count": 326,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C37/15": {
+      "code": "B21C37/15",
+      "level": 2,
+      "parent": "B21C37/06",
+      "ja": "特殊形状管の製造；管の取付物の製造",
+      "en": "Making tubes of special shape; Making the fittings",
+      "count": 4044,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C37/16": {
+      "code": "B21C37/16",
+      "level": 3,
+      "parent": "B21C37/15",
+      "ja": "長手方向に直径の変化する管の製造",
+      "en": "Making tubes with varying diameter in longitudinal direction",
+      "count": 889,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C37/18": {
+      "code": "B21C37/18",
+      "level": 4,
+      "parent": "B21C37/16",
+      "ja": "円錐管",
+      "en": "conical tubes",
+      "count": 702,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C37/20": {
+      "code": "B21C37/20",
+      "level": 3,
+      "parent": "B21C37/15",
+      "ja": "材料の除去なしに管の内または外へのら旋または類似のガイドの製造，例．マンドレルでの引抜によるもの，ダイスへ押し通すもの",
+      "en": "Making helical or similar guides in or on tubes without removing material, e.g. by drawing same over mandrels, by pushing same through dies",
+      "count": 1499,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C37/22": {
+      "code": "B21C37/22",
+      "level": 3,
+      "parent": "B21C37/15",
+      "ja": "管に帯または類似の材料を固定することによるフィン付またはリブ付管の製造",
+      "en": "Making finned or ribbed tubes by fixing strip or like material to tubes",
+      "count": 719,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C37/24": {
+      "code": "B21C37/24",
+      "level": 4,
+      "parent": "B21C37/22",
+      "ja": "環状のリブ付管",
+      "en": "annularly-ribbed tubes",
+      "count": 388,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C37/26": {
+      "code": "B21C37/26",
+      "level": 4,
+      "parent": "B21C37/22",
+      "ja": "ら旋のリブ付管",
+      "en": "helically-ribbed tubes",
+      "count": 1119,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C37/28": {
+      "code": "B21C37/28",
+      "level": 3,
+      "parent": "B21C37/15",
+      "ja": "パイプ接合用管の取付物製造，例．Ｕピース",
+      "en": "Making tube fittings for connecting pipes, e.g. U-pieces",
+      "count": 1269,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C37/29": {
+      "code": "B21C37/29",
+      "level": 4,
+      "parent": "B21C37/28",
+      "ja": "枝付部品の製造，例．Ｔピース",
+      "en": "Making branched pieces, e.g. T-pieces",
+      "count": 1704,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C37/30": {
+      "code": "B21C37/30",
+      "level": 2,
+      "parent": "B21C37/06",
+      "ja": "管の仕上げ，例．サイジング，磨き",
+      "en": "Finishing tubes, e.g. sizing, burnishing",
+      "count": 1669,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C43/00": {
+      "code": "B21C43/00",
+      "level": 0,
+      "parent": "B21C",
+      "ja": "このサブクラスに分類され機械または装置と組合せまたは関連して用いるのに特に適した金属製品を清浄するための装置",
+      "en": "Devices for cleaning metal products combined with or specially adapted for use with machines or apparatus provided for in this subclass",
+      "count": 963,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C43/02": {
+      "code": "B21C43/02",
+      "level": 1,
+      "parent": "B21C43/00",
+      "ja": "引抜または巻取り機械または装置と組合わせまたは関連して用いるのに特に適したもの",
+      "en": "combined with or specially adapted for use in connection with drawing or winding machines or apparatus",
+      "count": 2181,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C43/04": {
+      "code": "B21C43/04",
+      "level": 2,
+      "parent": "B21C43/02",
+      "ja": "線または類似の可撓性加工品の脱スケールのための装置",
+      "en": "Devices for de-scaling wire or like flexible work",
+      "count": 1408,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C45/00": {
+      "code": "B21C45/00",
+      "level": 0,
+      "parent": "B21C",
+      "ja": "工作物からのマンドレルの分離またはその逆",
+      "en": "Separating mandrels from work or <u>vice versa</u>",
+      "count": 306,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C47/00": {
+      "code": "B21C47/00",
+      "level": 0,
+      "parent": "B21C",
+      "ja": "金属の処理法のみに関連した点を特徴とする金属線，金属帯または他の可撓性金属材料の巻取り，コイリングまたは巻戻し（特殊形への線材のコイリングＢ２１Ｆ３／００）",
+      "en": "Winding-up, coiling or winding-off metal wire, metal band or other flexible metal material characterised by features relevant to metal processing only(coiling wire into particular forms <b>B21F3/00</b>)",
+      "count": 3807,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C47/02": {
+      "code": "B21C47/02",
+      "level": 1,
+      "parent": "B21C47/00",
+      "ja": "巻取りまたはコイリング",
+      "en": "Winding-up or coiling",
+      "count": 6695,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C47/04": {
+      "code": "B21C47/04",
+      "level": 2,
+      "parent": "B21C47/02",
+      "ja": "移動ガイドを用いることなしにリールまたはドラム上へまたは内への巻取り",
+      "en": "on or in reels or drums, without using a moving guide",
+      "count": 3818,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C47/06": {
+      "code": "B21C47/06",
+      "level": 3,
+      "parent": "B21C47/04",
+      "ja": "リールまたはドラム上に材料を保持する荷重ローラー，ボルト，または同等の手段をもつもの",
+      "en": "with loaded rollers, bolts, or equivalent means holding the material on the reel or drum",
+      "count": 1483,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C47/08": {
+      "code": "B21C47/08",
+      "level": 2,
+      "parent": "B21C47/02",
+      "ja": "リールまたはドラムを用いずに，最初の一巻きは固定ガイドにより形成するもの",
+      "en": "without making use of a reel or drum, the first turn being formed by a stationary guide",
+      "count": 224,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C47/10": {
+      "code": "B21C47/10",
+      "level": 2,
+      "parent": "B21C47/02",
+      "ja": "移動ガイドによるもの",
+      "en": "by means of a moving guide",
+      "count": 501,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C47/12": {
+      "code": "B21C47/12",
+      "level": 3,
+      "parent": "B21C47/10",
+      "ja": "コイルの軸に平行に移動するガイド（Ｂ２１Ｃ４７／１４が優先）",
+      "en": "the guide moving parallel to the axis of the coil(<b>B21C47/14</b> takes precedence)",
+      "count": 1150,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C47/14": {
+      "code": "B21C47/14",
+      "level": 3,
+      "parent": "B21C47/10",
+      "ja": "回転ガイドによるもの，例．固定リールまたはドラムの回りに材料を巻くもの",
+      "en": "by means of a rotating guide, e.g. laying the material around a stationary reel or drum",
+      "count": 1397,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C47/16": {
+      "code": "B21C47/16",
+      "level": 1,
+      "parent": "B21C47/00",
+      "ja": "巻戻しまたはアンコイリング",
+      "en": "Unwinding or uncoiling",
+      "count": 1816,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C47/18": {
+      "code": "B21C47/18",
+      "level": 2,
+      "parent": "B21C47/16",
+      "ja": "リールまたはドラムからのもの",
+      "en": "from reels or drums",
+      "count": 5175,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C47/20": {
+      "code": "B21C47/20",
+      "level": 3,
+      "parent": "B21C47/18",
+      "ja": "巻戻された材料がドラムの接線を横切る方向，例．軸方向，半径方向に移動するもの",
+      "en": "the unreeled material moving transversely to the tangent line of the drum, e.g. axially, radially",
+      "count": 550,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C47/22": {
+      "code": "B21C47/22",
+      "level": 2,
+      "parent": "B21C47/16",
+      "ja": "リールまたはドラムなしのコイルの巻戻し",
+      "en": "Unwinding coils without reels or drums",
+      "count": 412,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C47/24": {
+      "code": "B21C47/24",
+      "level": 1,
+      "parent": "B21C47/00",
+      "ja": "巻取り装置へまたは装置から，または巻取り装置内の作業位置へまた作業位置からのコイルの移動；移動中の巻戻りの防止",
+      "en": "Transferring coils to or from winding apparatus or to or from operative position therein; Preventing uncoiling during transfer",
+      "count": 5729,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C47/26": {
+      "code": "B21C47/26",
+      "level": 1,
+      "parent": "B21C47/00",
+      "ja": "同時にまたは次に行われる材料の処理に関する特別の配置",
+      "en": "Special arrangements with regard to simultaneous or subsequent treatment of the material",
+      "count": 4697,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C47/28": {
+      "code": "B21C47/28",
+      "level": 1,
+      "parent": "B21C47/00",
+      "ja": "ドラムまたは他のコイル保持具",
+      "en": "Drums or other coil-holders",
+      "count": 4633,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C47/30": {
+      "code": "B21C47/30",
+      "level": 2,
+      "parent": "B21C47/28",
+      "ja": "膨張性のまたは収縮性のもの",
+      "en": "expansible or contractible",
+      "count": 2544,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C47/32": {
+      "code": "B21C47/32",
+      "level": 1,
+      "parent": "B21C47/00",
+      "ja": "巻取り作業に特に適すようになっているトングまたは把持手段",
+      "en": "Tongs or gripping means specially adapted for reeling operations",
+      "count": 1201,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C47/34": {
+      "code": "B21C47/34",
+      "level": 1,
+      "parent": "B21C47/00",
+      "ja": "特殊なタイプの装置に特に適するものでない供給またはガイド装置",
+      "en": "Feeding or guiding devices not specially adapted to a particular type of apparatus",
+      "count": 6174,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C49/00": {
+      "code": "B21C49/00",
+      "level": 0,
+      "parent": "B21C",
+      "ja": "一時的に材料を蓄積する装置",
+      "en": "Devices for temporarily accumulating material",
+      "count": 1300,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C51/00": {
+      "code": "B21C51/00",
+      "level": 0,
+      "parent": "B21C",
+      "ja": "サブクラスＢ２１Ｂ～Ｂ２１Ｆに従う材料の製造または取扱いの用途に特に適するメジャー，ゲージ，インディケート，カウント，またはマークする装置",
+      "en": "Measuring, gauging, indicating, counting, or marking devices specially adapted for use in the production or manipulation of material in accordance with subclasses <b>B21B to B21F</b> ",
+      "count": 34041,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    },
+    "B21C99/00": {
+      "code": "B21C99/00",
+      "level": 0,
+      "parent": "B21C",
+      "ja": "このサブクラスの他のグループに分類されない主題事項　［２００９．０１］",
+      "en": "Subject matter not provided for in other groups of this subclass",
+      "count": 40,
+      "sourceFile": "ipc_B21C.txt",
+      "kind": "ipc"
+    }
+  }
+};

@@ -1,0 +1,1676 @@
+window.IPC_SHARD_H01B = {
+  "generatedAt": "2026-03-20T02:17:47.204Z",
+  "total": 167,
+  "entries": {
+    "H01B": {
+      "code": "H01B",
+      "level": 0,
+      "parent": "H01",
+      "ja": "ケーブル；導体；絶縁体；導電性，絶縁性または誘導性特性に対する材料の選択（磁気特性に対する選択Ｈ０１Ｆ１／００；導波管Ｈ０１Ｐ）<br><br><b><ul>サブクラス内の索引</ul></b><br>導体またはケーブル<br>材料を特徴とするもの　１／００<br>構造を特徴とするもの　５／００，７／００<br>通信，電力または超電導ケーブルのための特殊なタイプ　１１／００，９／００，１２／００<br>製造，廃物利用　１３／００，１５／００<br>絶縁物または絶縁材<br>材料を特徴とするもの　３／００<br>構造を特徴とするもの　１７／００<br>製造　１９／００",
+      "en": "CABLES; CONDUCTORS; INSULATORS; SELECTION OF MATERIALS FOR THEIR CONDUCTIVE, INSULATING OR DIELECTRIC PROPERTIES(selection for magnetic properties <b>H01F1/00</b>; waveguides <b>H01P</b>);<br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">CONDUCTORS OR CABLES<tr><td width=\"70%\">Characterised by the material </td><td><b><b>1/00</b></b></td></tr></tr><tr><td width=\"70%\">Characterised by the construction </td><td><b><b>5/00</b>, <b>7/00</b></b></td></tr></tr><tr><td width=\"70%\">Special types for: communication; power; superconductive cables </td><td><b><b>11/00</b>; <b>9/00</b>; <b>12/00</b></b></td></tr></tr><tr><td width=\"70%\">Manufacture; salvaging </td><td><b><b>13/00</b>; <b>15/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">INSULATORS OR INSULATING BODIES<tr><td width=\"70%\">Characterised by the material </td><td><b><b>3/00</b></b></td></tr></tr><tr><td width=\"70%\">Characterised by the construction </td><td><b><b>17/00</b></b></td></tr></tr><tr><td width=\"70%\">Manufacture </td><td><b><b>19/00</b></b></td></tr></tr></tr></table>",
+      "count": 2876,
+      "sourceFile": "ipc_H.txt",
+      "kind": "ipc"
+    },
+    "H01": {
+      "code": "H01",
+      "level": 0,
+      "parent": "H",
+      "ja": "電気素子<br><br><b><ul>注</ul></b><br>（１）他に項目が存在する単一の技術のみを含む方法，例．乾燥，被覆，はその技術に関連するクラスに分類される。<br>（２）“マイクロ構造の装置”および“マイクロ構造のシステム”に関する，クラスＢ８１およびサブクラスＢ８１Ｂの両タイトルの後の注に注意すること。［７］",
+      "en": "ELECTRIC ELEMENTS; <br><br><b><u>Note(s)</u></b><br><br><ul><li>Processes involving only a single technical art, e.g. drying, coating, for which provision exists elsewhere are classified in the relevant class for that art.</li><li>Attention is drawn to the Notes following the titles of class <b>B81</b> and subclass <b>B81B</b> relating to \"microstructural devices\" and \"microstructural systems\".</li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_H.txt",
+      "kind": "ipc"
+    },
+    "H": {
+      "code": "H",
+      "level": 0,
+      "parent": null,
+      "ja": "電気<br><br><b><ul>注</ul></b><br>（利用にあたっての基本原則と一般的指示）<br>Ｉ．セクションＨは以下のものを包含する：<br>（ａ）基本的電気素子，これは全ての電気ユニットと，装置や回路の一般的な機械的構成を包含しており，その中にはプリント配線と称されるものに各種の基本素子を組み立てたものも含まれる。またこれは他に包含されない場合には，ある程度までこれらの素子の製造をも包含する；<br>（ｂ）発電，これは，発電，変換および配電と共にそのための装置の制御を包含する；<br>（ｃ）電気の応用，これは以下のものを包含する：<br>（ｉ）一般的な利用技術，すなわち．電気加熱と電気照明回路の利用技術；<br>（ｉｉ）厳密な意味で電気的か電子的かいずれかの特定の利用技術で国際特許分類の他のセクションに包含されないもの，これは以下のものを含んでいる：<br>（１）電気的光源，これはレーザーを含む；<br>（２）電気的なＸ線技術；<br>（３）電気的なプラズマ技術，および帯電粒子または中性子の発生および加速；<br>（ｄ）基本電子回路およびその制御；<br>（ｅ）電気通信技術；これは電気―機械変換器一般を含む；<br>（ｆ）物品や上記素子を作るための特定の材料の使用，この点については指針の８８項から９０項を参照されたい。<br>ＩＩ．このセクションにおいては，下記の一般規則が適用される：<br>（ａ）上記Ｉ（ｃ）で述べた例外を除いて，国際特許分類のセクションＨ以外のいずれかのセクションに分類される特殊な操作，方法，装置，物体または物品に特有の電気的観点または部分は，常にその操作，方法，装置，物体または物品のためのサブクラスに分類されるか，または類似の性質を有する技術主題に関する共通的な特徴がクラス・レベルで展開されている場合には，それは，該技術主題のための一般的電気的な応用を完全に包含するサブクラスに，その操作，方法，装置，物体または物品と関連して分類される；<br>（ｂ）この様な電気的な応用には，一般的なものであれ特殊なものであれ，次の事項が含まれる。<br>（ｉ）Ａ６１における治療方法および装置；<br>（ｉｉ）Ｂ０１，Ｂ０３およびＢ２３Ｋにおける各種の実験室または工業的操作に用いられる電気的方法および装置；<br>（ｉｉｉ）セクションＢの“運輸”のサブセクションにおける車両一般および特殊な車両への電気の供給，電気的推進および電気照明；<br>（ｉｖ）Ｆ０２Ｐにおける内燃機関の電気点火系，およびＦ２３Ｑにおける燃焼装置一般のもの；<br>（ｖ）セクションＧにおける全ての電気的部分，すなわち，電気変量の測定器を含む測定装置，検査，信号および計算。このＧセクションにおいて電気とは，一般に手段として扱われるものでそれ自体目的として扱われるものではない；<br>（ｃ）全ての電気的な応用は一般的なものであれ特殊なものであれ，それが含んでいる電気的“基本的素子”に関して言えば，“基本的な電気”の観点がセクションＨ（上記Ｉ（ａ）参照）にあることを前提としている。この規則は，セクションＨ自身にある上記Ｉ（ｃ）で示した電気の応用に対しても有効である。",
+      "en": "ELECTRICITY; <br><br><b><u>Note(s)</u></b><br><br><ul><li>These Notes cover the basic principles and general instructions for use of section <b>H</b>.<ul><li>Section <b>H</b> <u>covers</u>: <ul><li>basic electric elements, which cover all electric units and the general mechanical structure of apparatus and circuits, including the assembly of various basic elements into what are called printed circuits and also cover to a certain extent the manufacture of these elements (when not covered elsewhere);</li><li>generation of electricity, which covers the generation, conversion and distribution of electricity together with the controlling of the corresponding gear;</li><li>applied electricity, which <u>covers</u>: <ul><li>general utilisation techniques, viz. those of electric heating and electric lighting circuits;</li><li>some special utilisation techniques, either electric or electronic in the strict sense, which are not covered by other sections of the Classification, including: <ul><li>electric light sources, including lasers;</li><li>electric X-ray technique;</li><li>electric plasma technique and the generation and acceleration of electrically charged particles or neutrons;</li></ul></li></ul></li><li>basic electronic circuits and their control;</li><li>radio or electric communication technique;</li><li>the use of a specified material for the manufacture of the article or element described. In this connection, paragraphs 88 to 90 of the Guide should be referred to.</li></ul></li><li>In this section, the following general rules apply: <ul><li>Subject to the exceptions stated in I(c), above, any electric aspect or part peculiar to a particular operation, process, apparatus, object or article, classified in one of the sections of the Classification other than section <b>H</b>, is always classified in the subclass for that operation, process, apparatus, object or article. Where common characteristics concerning technical subjects of similar nature have been brought out at class level, the electric aspect or part is classified, in conjunction with the operation, process, apparatus, object or article, in a subclass which covers entirely the general electrical applications for the technical subject in question;</li><li>The electrical applications referred to under (a), above, either general or particular, include: <ul><li>the therapeutic processes and apparatus, in class <b>A61</b>;</li><li>the electric processes and apparatus used in various laboratory or industrial operations, in classes <b>B01</b> and <b>B03</b> and in subclass <b>B23K</b>;</li><li>the electricity supply, electric propulsion and electric lighting of vehicles in general and of particular vehicles, in the subsection \"Transporting\" of section <b>B</b>;</li><li>the electric ignition systems of internal-combustion engines, in subclass <b>F02P</b>, and of combustion apparatus in general, in subclass <b>F23Q</b>;</li><li>the whole electrical part of section <b>G</b>, i.e. measuring devices including apparatus for measuring electric variables, checking, signalling and calculating. Electricity in that section is generally dealt with as a means and not as an end in itself;</li></ul></li><li>All electrical applications, both general and particular, presuppose that the \"basic electricity\" aspect appears in section <b>H</b> (see I(a) above) as regards the electric \"basic elements\" which they comprise. This rule is also valid for applied electricity, referred to in I(c), above, which appears in section <b>H</b> itself.</li></ul></li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_H.txt",
+      "kind": "ipc"
+    },
+    "H01B1/00": {
+      "code": "H01B1/00",
+      "level": 0,
+      "parent": "H01B",
+      "ja": "導電材料によって特徴づけられる導体または導電物体；導体としての材料の選択（材料によって特徴づけられる超電導または極低温の導体，ケーブル，または伝送線路Ｈ０１Ｂ１２／００）［４］<br><br><b><ul>注</ul></b><br>グループ１／１４～１／２４は，グループ１／０２～１／０６に優先する。［３］",
+      "en": "Conductors or conductive bodies characterised by the conductive materials; Selection of materials as conductors(superconductive or hyperconductive conductors, cables or transmission lines characterised by the materials <b>H01B12/00</b>)",
+      "count": 9332,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B1/02": {
+      "code": "H01B1/02",
+      "level": 1,
+      "parent": "H01B1/00",
+      "ja": "主として金属または合金からなるもの",
+      "en": "mainly consisting of metals or alloys",
+      "count": 20010,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B1/04": {
+      "code": "H01B1/04",
+      "level": 1,
+      "parent": "H01B1/00",
+      "ja": "主としてカーボン―シリコン混和物，カーボンまたはシリコンからなるもの",
+      "en": "mainly consisting of carbon-silicon compounds, carbon, or silicon",
+      "count": 5070,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B1/06": {
+      "code": "H01B1/06",
+      "level": 1,
+      "parent": "H01B1/00",
+      "ja": "主として他の非金属物質からなるもの",
+      "en": "mainly consisting of other non-metallic substances",
+      "count": 9285,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B1/08": {
+      "code": "H01B1/08",
+      "level": 2,
+      "parent": "H01B1/06",
+      "ja": "酸化物",
+      "en": "oxides",
+      "count": 4927,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B1/10": {
+      "code": "H01B1/10",
+      "level": 2,
+      "parent": "H01B1/06",
+      "ja": "硫化物",
+      "en": "sulfides",
+      "count": 1154,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B1/12": {
+      "code": "H01B1/12",
+      "level": 2,
+      "parent": "H01B1/06",
+      "ja": "有機物質［３］",
+      "en": "organic substances",
+      "count": 9962,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B1/14": {
+      "code": "H01B1/14",
+      "level": 1,
+      "parent": "H01B1/00",
+      "ja": "非導電無機材料中に分散された導電物質［３］",
+      "en": "Conductive material dispersed in non-conductive inorganic material",
+      "count": 811,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B1/16": {
+      "code": "H01B1/16",
+      "level": 2,
+      "parent": "H01B1/14",
+      "ja": "金属または合金を含む導電物質［３］",
+      "en": "the conductive material comprising metals or alloys",
+      "count": 4440,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B1/18": {
+      "code": "H01B1/18",
+      "level": 2,
+      "parent": "H01B1/14",
+      "ja": "カーボン―シリコン混和物，カーボンまたはシリコンを含む導電物質［３］",
+      "en": "the conductive material comprising carbon-silicon compounds, carbon, or silicon",
+      "count": 916,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B1/20": {
+      "code": "H01B1/20",
+      "level": 1,
+      "parent": "H01B1/00",
+      "ja": "非導電有機物質中に分散された導電物質［３］",
+      "en": "Conductive material dispersed in non-conductive organic material",
+      "count": 7013,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B1/22": {
+      "code": "H01B1/22",
+      "level": 2,
+      "parent": "H01B1/20",
+      "ja": "金属または合金を含む導電物質［３］",
+      "en": "the conductive material comprising metals or alloys",
+      "count": 17903,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B1/24": {
+      "code": "H01B1/24",
+      "level": 2,
+      "parent": "H01B1/20",
+      "ja": "カーボン―シリコン混和物，カーボンまたはシリコンを含む導電物質［３］",
+      "en": "the conductive material comprising carbon-silicon compounds, carbon, or silicon",
+      "count": 8131,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B3/00": {
+      "code": "H01B3/00",
+      "level": 0,
+      "parent": "H01B",
+      "ja": "絶縁材料を特徴とする絶縁体または絶縁物体；絶縁性または誘電性特性に対する材料の選択",
+      "en": "Insulators or insulating bodies characterised by the insulating materials; Selection of materials for their insulating or dielectric properties",
+      "count": 6404,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B3/02": {
+      "code": "H01B3/02",
+      "level": 1,
+      "parent": "H01B3/00",
+      "ja": "主として非有機物質からなるもの  ［２００６．０１］",
+      "en": "mainly consisting of inorganic substances",
+      "count": 2168,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B3/04": {
+      "code": "H01B3/04",
+      "level": 2,
+      "parent": "H01B3/02",
+      "ja": "マイカ  ［２００６．０１］",
+      "en": "mica",
+      "count": 2112,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B3/06": {
+      "code": "H01B3/06",
+      "level": 2,
+      "parent": "H01B3/02",
+      "ja": "アスベスト  ［２００６．０１］",
+      "en": "asbestos",
+      "count": 265,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B3/08": {
+      "code": "H01B3/08",
+      "level": 2,
+      "parent": "H01B3/02",
+      "ja": "石英；ガラス；ガラス綿；石綿；ガラス状エナメル  ［２００６．０１］",
+      "en": "quartz; glass; glass wool; slag wool; vitreous enamels",
+      "count": 2626,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B3/10": {
+      "code": "H01B3/10",
+      "level": 2,
+      "parent": "H01B3/02",
+      "ja": "金属酸化物（セラミックＨ０１Ｂ３／１２）  ［２００６．０１］",
+      "en": "metallic oxides(ceramics <b>H01B3/12</b>)",
+      "count": 1543,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B3/12": {
+      "code": "H01B3/12",
+      "level": 2,
+      "parent": "H01B3/02",
+      "ja": "セラミック  ［２００６．０１］",
+      "en": "ceramics",
+      "count": 9705,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B3/14": {
+      "code": "H01B3/14",
+      "level": 2,
+      "parent": "H01B3/02",
+      "ja": "セメント  ［２００６．０１］",
+      "en": "cements",
+      "count": 83,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B3/16": {
+      "code": "H01B3/16",
+      "level": 2,
+      "parent": "H01B3/02",
+      "ja": "気体",
+      "en": "gases",
+      "count": 234,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B3/18": {
+      "code": "H01B3/18",
+      "level": 1,
+      "parent": "H01B3/00",
+      "ja": "主として有機物質からなるもの",
+      "en": "mainly consisting of organic substances",
+      "count": 1886,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B3/20": {
+      "code": "H01B3/20",
+      "level": 2,
+      "parent": "H01B3/18",
+      "ja": "液体，例．油（シリコーン油Ｈ０１Ｂ３／４６）",
+      "en": "liquids, e.g. oils(silicone oils <b>H01B3/46</b>)",
+      "count": 1649,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B3/22": {
+      "code": "H01B3/22",
+      "level": 3,
+      "parent": "H01B3/20",
+      "ja": "炭化水素",
+      "en": "hydrocarbons",
+      "count": 943,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B3/24": {
+      "code": "H01B3/24",
+      "level": 3,
+      "parent": "H01B3/20",
+      "ja": "分子中にハロゲンを有するもの，例．ハロゲン化油",
+      "en": "containing halogen in the molecules, e.g. halogenated oils",
+      "count": 569,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B3/26": {
+      "code": "H01B3/26",
+      "level": 2,
+      "parent": "H01B3/18",
+      "ja": "アスファルト；ビチューメン；ピッチ",
+      "en": "asphalts; bitumens; pitches",
+      "count": 78,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B3/28": {
+      "code": "H01B3/28",
+      "level": 2,
+      "parent": "H01B3/18",
+      "ja": "天然ゴムまたは合成ゴム",
+      "en": "natural or synthetic rubbers",
+      "count": 5463,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B3/30": {
+      "code": "H01B3/30",
+      "level": 2,
+      "parent": "H01B3/18",
+      "ja": "プラスチック；樹脂；ワックス<br><br><b><ul>注</ul></b><br>グループ３／４７は，グループ３／３２～３／４６に優先する。［８］",
+      "en": "plastics; resins; waxes",
+      "count": 12333,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B3/32": {
+      "code": "H01B3/32",
+      "level": 3,
+      "parent": "H01B3/30",
+      "ja": "天然樹脂",
+      "en": "natural resins",
+      "count": 95,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B3/34": {
+      "code": "H01B3/34",
+      "level": 3,
+      "parent": "H01B3/30",
+      "ja": "ワックス（シリコーン・ワックスＨ０１Ｂ３／４６）",
+      "en": "waxes(silicone waxes <b>H01B3/46</b>)",
+      "count": 86,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B3/36": {
+      "code": "H01B3/36",
+      "level": 3,
+      "parent": "H01B3/30",
+      "ja": "フェノールとアルデヒドまたはケトンとの縮合生成物",
+      "en": "condensation products of phenols with aldehydes or ketones",
+      "count": 533,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B3/38": {
+      "code": "H01B3/38",
+      "level": 3,
+      "parent": "H01B3/30",
+      "ja": "アルデヒドとアミンまたはアミドとの縮合生成物",
+      "en": "condensation products of aldehydes with amines or amides",
+      "count": 185,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B3/40": {
+      "code": "H01B3/40",
+      "level": 3,
+      "parent": "H01B3/30",
+      "ja": "エポキシ樹脂",
+      "en": "epoxy resins",
+      "count": 3497,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B3/42": {
+      "code": "H01B3/42",
+      "level": 3,
+      "parent": "H01B3/30",
+      "ja": "ポリエステル；ポリエーテル；ポリアセタール",
+      "en": "polyesters; polyethers; polyacetals",
+      "count": 4562,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B3/44": {
+      "code": "H01B3/44",
+      "level": 3,
+      "parent": "H01B3/30",
+      "ja": "ビニール樹脂；アクリル樹脂（シリコーンＨ０１Ｂ３／４６）",
+      "en": "vinyl resins; acrylic resins(silicones <b>H01B3/46</b>)",
+      "count": 21756,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B3/46": {
+      "code": "H01B3/46",
+      "level": 3,
+      "parent": "H01B3/30",
+      "ja": "シリコーン",
+      "en": "silicones",
+      "count": 2401,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B3/47": {
+      "code": "H01B3/47",
+      "level": 3,
+      "parent": "H01B3/30",
+      "ja": "繊維強化プラスチック，例．ガラス繊維強化プラスチック［８］",
+      "en": "fibre-reinforced plastics, e.g. glass-reinforced plastics",
+      "count": 231,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B3/48": {
+      "code": "H01B3/48",
+      "level": 2,
+      "parent": "H01B3/18",
+      "ja": "繊維材料（繊維強化プラスチックＨ０１Ｂ３／４７）［１，８］",
+      "en": "fibrous materials(fibre-reinforced plastics <b>H01B3/47</b>)",
+      "count": 1314,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B3/50": {
+      "code": "H01B3/50",
+      "level": 3,
+      "parent": "H01B3/48",
+      "ja": "布",
+      "en": "fabric",
+      "count": 511,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B3/52": {
+      "code": "H01B3/52",
+      "level": 3,
+      "parent": "H01B3/48",
+      "ja": "木材；紙；プレスボード（絶縁紙それ自体Ｄ２１Ｈ２７／１２）",
+      "en": "wood; paper; pressboard(insulating paper <u>per se</u><b>D21H27/12</b>)",
+      "count": 950,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B3/54": {
+      "code": "H01B3/54",
+      "level": 3,
+      "parent": "H01B3/48",
+      "ja": "硬化紙；硬化布",
+      "en": "hard paper; hard fabrics",
+      "count": 148,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B3/56": {
+      "code": "H01B3/56",
+      "level": 2,
+      "parent": "H01B3/18",
+      "ja": "気体",
+      "en": "gases",
+      "count": 215,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B5/00": {
+      "code": "H01B5/00",
+      "level": 0,
+      "parent": "H01B",
+      "ja": "形を特徴とする非絶縁導体または導電物体",
+      "en": "Non-insulated conductors or conductive bodies characterised by their form",
+      "count": 6846,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B5/02": {
+      "code": "H01B5/02",
+      "level": 1,
+      "parent": "H01B5/00",
+      "ja": "単一棒，棹，線または片；母線［１，７］",
+      "en": "Single bars, rods, wires or strips; Bus-bars",
+      "count": 6450,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B5/04": {
+      "code": "H01B5/04",
+      "level": 2,
+      "parent": "H01B5/02",
+      "ja": "巻線状またはコイル状にされたもの",
+      "en": "wound or coiled",
+      "count": 226,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B5/06": {
+      "code": "H01B5/06",
+      "level": 1,
+      "parent": "H01B5/00",
+      "ja": "単一チューブ",
+      "en": "Single tubes",
+      "count": 443,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B5/08": {
+      "code": "H01B5/08",
+      "level": 1,
+      "parent": "H01B5/00",
+      "ja": "ロープ状に撚り合わされた複数の線または類似物",
+      "en": "Several wires or the like stranded in the form of a rope",
+      "count": 5383,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B5/10": {
+      "code": "H01B5/10",
+      "level": 2,
+      "parent": "H01B5/08",
+      "ja": "中空に，または絶縁物質または異なる導電材料の周上に撚り合わされたもの",
+      "en": "stranded around a space, insulating material, or dissimilar conducting material",
+      "count": 2244,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B5/12": {
+      "code": "H01B5/12",
+      "level": 1,
+      "parent": "H01B5/00",
+      "ja": "編組線またはその類似物",
+      "en": "Braided wires or the like",
+      "count": 844,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B5/14": {
+      "code": "H01B5/14",
+      "level": 1,
+      "parent": "H01B5/00",
+      "ja": "絶縁支持体上に導電層または導電フイルムを有するもの",
+      "en": "comprising conductive layers or films on insulating-supports",
+      "count": 18431,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B5/16": {
+      "code": "H01B5/16",
+      "level": 1,
+      "parent": "H01B5/00",
+      "ja": "絶縁材料またはほとんど導電性を有しない導電材料中に導電材料を含むもの（Ｈ０１Ｂ１／１４，Ｈ０１Ｂ１／２０が優先；導電混和物をもつ絶縁物体Ｈ０１Ｂ１７／６４；導電ペイントＣ０９Ｄ５／２４）［３］",
+      "en": "comprising conductive material in insulating or poorly conductive material, e.g. conductive rubber(<b>H01B1/14</b>, <b>H01B1/20</b> take precedence; insulating bodies with conductive admixtures <b>H01B17/64</b>; conductive paints <b>C09D5/24</b>)",
+      "count": 3956,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B7/00": {
+      "code": "H01B7/00",
+      "level": 0,
+      "parent": "H01B",
+      "ja": "形を特徴とする絶縁導体またはケーブル",
+      "en": "Insulated conductors or cables characterised by their form",
+      "count": 31660,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B7/02": {
+      "code": "H01B7/02",
+      "level": 1,
+      "parent": "H01B7/00",
+      "ja": "絶縁体の配置",
+      "en": "Disposition of insulation",
+      "count": 46344,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B7/04": {
+      "code": "H01B7/04",
+      "level": 1,
+      "parent": "H01B7/00",
+      "ja": "可撓ケーブル，可撓導体または可撓コード，例．垂下ケーブル",
+      "en": "Flexible cables, conductors, or cords, e.g. trailing cables",
+      "count": 24284,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B7/06": {
+      "code": "H01B7/06",
+      "level": 1,
+      "parent": "H01B7/00",
+      "ja": "伸縮導体または伸縮ケーブル，例．カールコード",
+      "en": "Extensible conductors or cables, e.g. self-coiling cords",
+      "count": 2291,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B7/08": {
+      "code": "H01B7/08",
+      "level": 1,
+      "parent": "H01B7/00",
+      "ja": "平形ケーブルまたはリボンケーブル",
+      "en": "Flat or ribbon cables",
+      "count": 15295,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B7/10": {
+      "code": "H01B7/10",
+      "level": 1,
+      "parent": "H01B7/00",
+      "ja": "接触ケーブル，すなわちケーブルのひずみにより接触させる導体をもつもの",
+      "en": "Contact cables, i.e. having conductors which may be brought into contact by distortion of the cable",
+      "count": 419,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B7/12": {
+      "code": "H01B7/12",
+      "level": 1,
+      "parent": "H01B7/00",
+      "ja": "浮力ケーブル",
+      "en": "Floating cables",
+      "count": 870,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B7/14": {
+      "code": "H01B7/14",
+      "level": 1,
+      "parent": "H01B7/00",
+      "ja": "海底ケーブル",
+      "en": "Submarine cables",
+      "count": 3239,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B7/16": {
+      "code": "H01B7/16",
+      "level": 1,
+      "parent": "H01B7/00",
+      "ja": "剛性チューブケーブル",
+      "en": "Rigid-tube cables",
+      "count": 624,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B7/17": {
+      "code": "H01B7/17",
+      "level": 1,
+      "parent": "H01B7/00",
+      "ja": "外的要因による損傷を防ぐための保護，例．シースまたはがい装［７］",
+      "en": "Protection against damage caused by external factors, e.g. sheaths or armouring",
+      "count": 54601,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B7/18": {
+      "code": "H01B7/18",
+      "level": 2,
+      "parent": "H01B7/17",
+      "ja": "摩擦力，機械力，または圧力による損傷を防ぐための保護［１，７］",
+      "en": "by wear, mechanical force or pressure",
+      "count": 64083,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B7/20": {
+      "code": "H01B7/20",
+      "level": 3,
+      "parent": "H01B7/18",
+      "ja": "金属チューブ，例．鉛被覆［１，７］",
+      "en": "Metal tubes, e.g. lead sheaths",
+      "count": 3070,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B7/22": {
+      "code": "H01B7/22",
+      "level": 3,
+      "parent": "H01B7/18",
+      "ja": "金属線または金属テープ，例．鋼製［１，７］",
+      "en": "Metal wires or tapes, e.g. made of steel",
+      "count": 17011,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B7/24": {
+      "code": "H01B7/24",
+      "level": 3,
+      "parent": "H01B7/18",
+      "ja": "機械力または圧力に対して部分的に保護する部材［１，７］",
+      "en": "Devices affording localised protection against mechanical force or pressure",
+      "count": 3683,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B7/26": {
+      "code": "H01B7/26",
+      "level": 3,
+      "parent": "H01B7/18",
+      "ja": "シース損の減少［１，７］",
+      "en": "Reduction of losses in sheaths or armouring",
+      "count": 695,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B7/28": {
+      "code": "H01B7/28",
+      "level": 2,
+      "parent": "H01B7/17",
+      "ja": "湿気，腐食，化学的腐食または気候による損傷を防ぐための保護［１，７］",
+      "en": "by moisture, corrosion, chemical attack or weather",
+      "count": 30579,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B7/282": {
+      "code": "H01B7/282",
+      "level": 3,
+      "parent": "H01B7/28",
+      "ja": "導体またはケーブル内に流体が浸透するのを防ぐもの［７］",
+      "en": "Preventing penetration of fluid into conductor or cable",
+      "count": 21065,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B7/285": {
+      "code": "H01B7/285",
+      "level": 4,
+      "parent": "H01B7/282",
+      "ja": "ケーブル内の間隙を完全に，または部分的に塞ぐことによるもの［７］",
+      "en": "by completely or partially filling interstices in the cable",
+      "count": 3160,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B7/288": {
+      "code": "H01B7/288",
+      "level": 5,
+      "parent": "H01B7/285",
+      "ja": "吸湿材または水膨張性止水材を用いるもの［７］",
+      "en": "using hygroscopic material or material swelling in the presence of liquid",
+      "count": 2465,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B7/29": {
+      "code": "H01B7/29",
+      "level": 2,
+      "parent": "H01B7/17",
+      "ja": "高温または炎による損傷を防ぐための保護（Ｈ０１Ｂ７／４２が優先）［７］",
+      "en": "by extremes of temperature or by flame(<b>H01B7/42</b> takes precedence)",
+      "count": 30284,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B7/295": {
+      "code": "H01B7/295",
+      "level": 3,
+      "parent": "H01B7/29",
+      "ja": "耐火，難燃材料を用いるもの［７］",
+      "en": "using material resistant to flame",
+      "count": 33492,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B7/30": {
+      "code": "H01B7/30",
+      "level": 1,
+      "parent": "H01B7/00",
+      "ja": "交流通電時の導体損を減少させるための構成を備えるもの，例．表皮効果による導体損",
+      "en": "with arrangements for reducing conductor losses when carrying AC, e.g. due to skin effect",
+      "count": 1610,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B7/32": {
+      "code": "H01B7/32",
+      "level": 1,
+      "parent": "H01B7/00",
+      "ja": "故障表示のための構成を備えるもの，例．破断表示，漏洩表示",
+      "en": "with arrangements for indicating defects, e.g. breaks or leaks",
+      "count": 4072,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B7/36": {
+      "code": "H01B7/36",
+      "level": 1,
+      "parent": "H01B7/00",
+      "ja": "識別表示または条長表示を備えるもの",
+      "en": "with distinguishing or length marks",
+      "count": 6777,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B7/38": {
+      "code": "H01B7/38",
+      "level": 1,
+      "parent": "H01B7/00",
+      "ja": "絶縁物を容易に除去するための構成をもつもの［７］",
+      "en": "with arrangements for facilitating removal of insulation",
+      "count": 1410,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B7/40": {
+      "code": "H01B7/40",
+      "level": 1,
+      "parent": "H01B7/00",
+      "ja": "据付または固定のための構成を備えるもの［７］",
+      "en": "with arrangements for facilitating mounting or securing",
+      "count": 11084,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B7/42": {
+      "code": "H01B7/42",
+      "level": 1,
+      "parent": "H01B7/00",
+      "ja": "熱放散または熱伝導のための構成を備えるもの［７］",
+      "en": "with arrangements for heat dissipation or conduction",
+      "count": 12073,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B9/00": {
+      "code": "H01B9/00",
+      "level": 0,
+      "parent": "H01B",
+      "ja": "電力ケーブル",
+      "en": "Power cables",
+      "count": 18991,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B9/02": {
+      "code": "H01B9/02",
+      "level": 1,
+      "parent": "H01B9/00",
+      "ja": "遮へい体または導電層をもつもの，例．過大電位傾度を避けるためのもの",
+      "en": "with screens or conductive layers, e.g. for avoiding large potential gradients",
+      "count": 16568,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B9/04": {
+      "code": "H01B9/04",
+      "level": 1,
+      "parent": "H01B9/00",
+      "ja": "同心ケーブル",
+      "en": "Concentric cables",
+      "count": 961,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B9/06": {
+      "code": "H01B9/06",
+      "level": 1,
+      "parent": "H01B9/00",
+      "ja": "ガス圧ケーブル；油圧ケーブル；流体圧を受けるコンジット内で用いられるケーブル",
+      "en": "Gas-pressure cables; Oil-pressure cables; Cables for use in conduits under fluid pressure",
+      "count": 2325,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B11/00": {
+      "code": "H01B11/00",
+      "level": 0,
+      "parent": "H01B",
+      "ja": "通信ケーブルまたは導体",
+      "en": "Communication cables or conductors",
+      "count": 11354,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B11/02": {
+      "code": "H01B11/02",
+      "level": 1,
+      "parent": "H01B11/00",
+      "ja": "撚り合わせ対またはカッドをもつケーブル",
+      "en": "Cables with twisted pairs or quads",
+      "count": 2425,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B11/04": {
+      "code": "H01B11/04",
+      "level": 2,
+      "parent": "H01B11/02",
+      "ja": "漏話を減少させるように相互に配置された対またはカッドをもつもの",
+      "en": "with pairs or quads mutually positioned to reduce cross-talk",
+      "count": 1294,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B11/06": {
+      "code": "H01B11/06",
+      "level": 2,
+      "parent": "H01B11/02",
+      "ja": "電磁的または静電的妨害作用を減少する手段をもつもの，例．遮へい",
+      "en": "with means for reducing effects of electromagnetic or electrostatic disturbances, e.g. screens",
+      "count": 8770,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B11/08": {
+      "code": "H01B11/08",
+      "level": 3,
+      "parent": "H01B11/06",
+      "ja": "漏話を減少させるために特に用いられる遮へい体",
+      "en": "Screens specially adapted for reducing cross-talk",
+      "count": 1263,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B11/10": {
+      "code": "H01B11/10",
+      "level": 3,
+      "parent": "H01B11/06",
+      "ja": "外部からの干渉を減少させるために特に用いられる遮へい体",
+      "en": "Screens specially adapted for reducing interference from external sources",
+      "count": 2750,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B11/12": {
+      "code": "H01B11/12",
+      "level": 2,
+      "parent": "H01B11/02",
+      "ja": "特別の伝送特性を示すための構成",
+      "en": "Arrangements for exhibiting specific transmission characteristics",
+      "count": 839,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B11/14": {
+      "code": "H01B11/14",
+      "level": 3,
+      "parent": "H01B11/12",
+      "ja": "連続的誘導性装荷ケーブル，例，クララップケーブル",
+      "en": "Continuously inductively loaded cables, e.g. Krarup cables",
+      "count": 404,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B11/16": {
+      "code": "H01B11/16",
+      "level": 3,
+      "parent": "H01B11/12",
+      "ja": "製造工程中に組込まれたコイルまたはその他の装置をもつケーブル，例．海底ケーブル",
+      "en": "Cables, e.g. submarine cables, with coils or other devices incorporated during cable manufacture",
+      "count": 380,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B11/18": {
+      "code": "H01B11/18",
+      "level": 1,
+      "parent": "H01B11/00",
+      "ja": "同軸ケーブル；共通の外部導体内に２以上の内部導体を有する類似のケーブル",
+      "en": "Coaxial cables; Analogous cables having more than one inner conductor within a common outer conductor",
+      "count": 7241,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B11/20": {
+      "code": "H01B11/20",
+      "level": 2,
+      "parent": "H01B11/18",
+      "ja": "多数の同軸線路を有するケーブル［３］",
+      "en": "Cables having a multiplicity of coaxial lines",
+      "count": 1314,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B11/22": {
+      "code": "H01B11/22",
+      "level": 1,
+      "parent": "H01B11/00",
+      "ja": "オプチカル・ファイバと共に少なくとも１つの電気導体を含むケーブル［４］",
+      "en": "Cables including at least one electrical conductor together with optical fibres",
+      "count": 6688,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B12/00": {
+      "code": "H01B12/00",
+      "level": 0,
+      "parent": "H01B",
+      "ja": "超電導またはハイパーコンダクティブの導体，ケーブルまたは伝送線路（セラミック形成技術またはセラミック組成物によって特徴づけられる超電導体Ｃ０４Ｂ３５／００）［２，４］",
+      "en": "Superconductive or hyperconductive conductors, cables or transmission lines(superconductors characterised by the ceramic-forming technique or the ceramic composition <b>C04B35/00</b>)",
+      "count": 5252,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B12/02": {
+      "code": "H01B12/02",
+      "level": 1,
+      "parent": "H01B12/00",
+      "ja": "それらの形によって特徴づけられるもの［４］<br><br><b><ul>注</ul></b><br>グループ１２／１２はグループ１２／０４から１２／１０に優先する。［４］",
+      "en": "characterised by their form",
+      "count": 2779,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B12/04": {
+      "code": "H01B12/04",
+      "level": 2,
+      "parent": "H01B12/02",
+      "ja": "単一ワイヤ［４］",
+      "en": "Single wire",
+      "count": 1688,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B12/06": {
+      "code": "H01B12/06",
+      "level": 2,
+      "parent": "H01B12/02",
+      "ja": "基板上または芯上の導体膜または導線［４］",
+      "en": "Films or wires on bases or cores",
+      "count": 5076,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B12/08": {
+      "code": "H01B12/08",
+      "level": 2,
+      "parent": "H01B12/02",
+      "ja": "より線または編組線［４］",
+      "en": "Stranded or braided wires",
+      "count": 765,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B12/10": {
+      "code": "H01B12/10",
+      "level": 2,
+      "parent": "H01B12/02",
+      "ja": "常導電体中に配した多芯線［４］",
+      "en": "Multi-filaments embedded in normal conductors",
+      "count": 2128,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B12/12": {
+      "code": "H01B12/12",
+      "level": 2,
+      "parent": "H01B12/02",
+      "ja": "中空導体［４］",
+      "en": "Hollow conductors",
+      "count": 354,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B12/14": {
+      "code": "H01B12/14",
+      "level": 1,
+      "parent": "H01B12/00",
+      "ja": "熱絶縁の配列によって特徴づけられるもの［４］",
+      "en": "characterised by the disposition of thermal insulation",
+      "count": 461,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B12/16": {
+      "code": "H01B12/16",
+      "level": 1,
+      "parent": "H01B12/00",
+      "ja": "冷却によって特徴づけられるもの［４］",
+      "en": "characterised by cooling",
+      "count": 1543,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B13/00": {
+      "code": "H01B13/00",
+      "level": 0,
+      "parent": "H01B",
+      "ja": "導体またはケーブルの製造に特に適合した装置または方法",
+      "en": "Apparatus or processes specially adapted for manufacturing conductors or cables",
+      "count": 69457,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B13/004": {
+      "code": "H01B13/004",
+      "level": 1,
+      "parent": "H01B13/00",
+      "ja": "剛性チューブケーブルの製造に特に適合したもの［７］",
+      "en": "for manufacturing rigid-tube cables",
+      "count": 175,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B13/008": {
+      "code": "H01B13/008",
+      "level": 1,
+      "parent": "H01B13/00",
+      "ja": "伸縮導体または伸縮ケーブルの製造に特に適合したもの［７］",
+      "en": "for manufacturing extensible conductors or cables",
+      "count": 746,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B13/012": {
+      "code": "H01B13/012",
+      "level": 1,
+      "parent": "H01B13/00",
+      "ja": "ワイヤーハーネスの製造に特に適合したもの［７］",
+      "en": "for manufacturing wire harnesses",
+      "count": 7493,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B13/016": {
+      "code": "H01B13/016",
+      "level": 1,
+      "parent": "H01B13/00",
+      "ja": "同軸ケーブルの製造に特に適合したもの（不連続な絶縁体の適用Ｈ０１Ｂ１３／２０）［７］",
+      "en": "for manufacturing co-axial cables(applying discontinuous insulation <b>H01B13/20</b>)",
+      "count": 1333,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B13/02": {
+      "code": "H01B13/02",
+      "level": 1,
+      "parent": "H01B13/00",
+      "ja": "撚り合わせ",
+      "en": "Stranding-up",
+      "count": 13795,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B13/04": {
+      "code": "H01B13/04",
+      "level": 2,
+      "parent": "H01B13/02",
+      "ja": "漏話を減少させるために対またはカッドを相互に適当に配置するもの",
+      "en": "Mutually-positioning pairs or quads to reduce cross-talk",
+      "count": 325,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B13/06": {
+      "code": "H01B13/06",
+      "level": 1,
+      "parent": "H01B13/00",
+      "ja": "導体またはケーブルの絶縁（Ｈ０１Ｂ１３／３２が優先）［４］",
+      "en": "Insulating conductors or cables(<b>H01B13/32</b> takes precedence)",
+      "count": 6862,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B13/08": {
+      "code": "H01B13/08",
+      "level": 2,
+      "parent": "H01B13/06",
+      "ja": "巻回によるもの",
+      "en": "by winding",
+      "count": 2177,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B13/10": {
+      "code": "H01B13/10",
+      "level": 2,
+      "parent": "H01B13/06",
+      "ja": "縦添え巻きによるもの",
+      "en": "by longitudinal lapping",
+      "count": 1739,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B13/12": {
+      "code": "H01B13/12",
+      "level": 2,
+      "parent": "H01B13/06",
+      "ja": "バラ繊維の適用によるもの",
+      "en": "by applying loose fibres",
+      "count": 241,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B13/14": {
+      "code": "H01B13/14",
+      "level": 2,
+      "parent": "H01B13/06",
+      "ja": "押し出しによるもの",
+      "en": "by extrusion",
+      "count": 10901,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B13/16": {
+      "code": "H01B13/16",
+      "level": 2,
+      "parent": "H01B13/06",
+      "ja": "流体浴中の通過または浸漬によるもの；吹き付けによるもの",
+      "en": "by passing through, or dipping in, a liquid bath; by spraying",
+      "count": 4668,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B13/18": {
+      "code": "H01B13/18",
+      "level": 2,
+      "parent": "H01B13/06",
+      "ja": "不連続な絶縁体の適用によるもの，例．ディスク，ビード",
+      "en": "Applying discontinuous insulation, e.g. discs, beads",
+      "count": 372,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B13/20": {
+      "code": "H01B13/20",
+      "level": 3,
+      "parent": "H01B13/18",
+      "ja": "同心または同軸ケーブルに対するもの",
+      "en": "for concentric or coaxial cables",
+      "count": 324,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B13/22": {
+      "code": "H01B13/22",
+      "level": 1,
+      "parent": "H01B13/00",
+      "ja": "シース；がい装；遮へい；その他の保護層の適用（Ｈ０１Ｂ１３／３２が優先）［４］",
+      "en": "Sheathing; Armouring; Screening; Applying other protective layers(<b>H01B13/32</b> takes precedence)",
+      "count": 9591,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B13/24": {
+      "code": "H01B13/24",
+      "level": 2,
+      "parent": "H01B13/22",
+      "ja": "押し出しによるもの",
+      "en": "by extrusion",
+      "count": 6283,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B13/26": {
+      "code": "H01B13/26",
+      "level": 2,
+      "parent": "H01B13/22",
+      "ja": "巻回，編組または縦添え巻きによるもの",
+      "en": "by winding, braiding or longitudinal lapping",
+      "count": 6960,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B13/28": {
+      "code": "H01B13/28",
+      "level": 1,
+      "parent": "H01B13/00",
+      "ja": "連続的誘導性装荷，例．クララップ装荷，の適用",
+      "en": "Applying continuous inductive loading, e.g. Krarup loading",
+      "count": 108,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B13/30": {
+      "code": "H01B13/30",
+      "level": 1,
+      "parent": "H01B13/00",
+      "ja": "乾燥；含浸（Ｈ０１Ｂ１３／３２が優先）［４］",
+      "en": "Drying; Impregnating(<b>H01B13/32</b> takes precedence)",
+      "count": 5063,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B13/32": {
+      "code": "H01B13/32",
+      "level": 1,
+      "parent": "H01B13/00",
+      "ja": "不浸透性材料による充填または被覆［４］",
+      "en": "Filling or coating with impervious material",
+      "count": 2015,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B13/34": {
+      "code": "H01B13/34",
+      "level": 1,
+      "parent": "H01B13/00",
+      "ja": "導体またはケーブルに表示を施すためのもの［７］",
+      "en": "for marking conductors or cables",
+      "count": 2520,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B15/00": {
+      "code": "H01B15/00",
+      "level": 0,
+      "parent": "H01B",
+      "ja": "ケーブルからの材料の廃物利用に関する装置または方法（絶縁物を容易に除去するための構成を有する絶縁導体またはケーブルＨ０１Ｂ７／３８；絶縁物を除去するために特に用いられる方法または装置Ｈ０２Ｇ１／１２）",
+      "en": "Apparatus or processes for salvaging material from cables(insulated conductors or cables with arrangements for facilitating removal of insulation <b>H01B7/38</b>; methods or apparatus specially adapted for removing insulation from conductors <b>H02G1/12</b>)",
+      "count": 4401,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B17/00": {
+      "code": "H01B17/00",
+      "level": 0,
+      "parent": "H01B",
+      "ja": "形を特徴とする絶縁体または絶縁物体",
+      "en": "Insulators or insulating bodies characterised by their form",
+      "count": 3921,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B17/02": {
+      "code": "H01B17/02",
+      "level": 1,
+      "parent": "H01B17/00",
+      "ja": "懸垂碍子；耐張碍子",
+      "en": "Suspension insulators; Strain insulators",
+      "count": 2383,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B17/04": {
+      "code": "H01B17/04",
+      "level": 2,
+      "parent": "H01B17/02",
+      "ja": "碍子連；多重碍子連",
+      "en": "Chains; Multiple chains",
+      "count": 1630,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B17/06": {
+      "code": "H01B17/06",
+      "level": 2,
+      "parent": "H01B17/02",
+      "ja": "支持体，導体または隣接碍子への碍子の固着",
+      "en": "Fastening of insulator to support, to conductor, or to adjoining insulator",
+      "count": 1407,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B17/08": {
+      "code": "H01B17/08",
+      "level": 3,
+      "parent": "H01B17/06",
+      "ja": "キャップとボルトによるもの",
+      "en": "by cap-and-bolt",
+      "count": 328,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B17/10": {
+      "code": "H01B17/10",
+      "level": 3,
+      "parent": "H01B17/06",
+      "ja": "中間リンクによるもの",
+      "en": "by intermediate link",
+      "count": 526,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B17/12": {
+      "code": "H01B17/12",
+      "level": 2,
+      "parent": "H01B17/02",
+      "ja": "耐張碍子の特殊な構成",
+      "en": "Special features of strain insulators",
+      "count": 685,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B17/14": {
+      "code": "H01B17/14",
+      "level": 1,
+      "parent": "H01B17/00",
+      "ja": "支持碍子（ピン碍子Ｈ０１Ｂ１７／２０；孔あき碍子Ｈ０１Ｂ１７／２４）",
+      "en": "Supporting insulators(pin insulators <b>H01B17/20</b>; apertured insulators <b>H01B17/24</b>)",
+      "count": 3289,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B17/16": {
+      "code": "H01B17/16",
+      "level": 2,
+      "parent": "H01B17/14",
+      "ja": "支持体，導体または隣接碍子への碍子の固着",
+      "en": "Fastening of insulators to support, to conductor, or to adjoining insulator",
+      "count": 1538,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B17/18": {
+      "code": "H01B17/18",
+      "level": 2,
+      "parent": "H01B17/14",
+      "ja": "非常に重い導体，例．ブスバーレール，に対するもの",
+      "en": "for very heavy conductors, e.g. bus-bars, rails",
+      "count": 360,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B17/20": {
+      "code": "H01B17/20",
+      "level": 1,
+      "parent": "H01B17/00",
+      "ja": "ピン碍子",
+      "en": "Pin insulators",
+      "count": 1070,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B17/22": {
+      "code": "H01B17/22",
+      "level": 2,
+      "parent": "H01B17/20",
+      "ja": "碍子への導体の固着",
+      "en": "Fastening of conductors to insulator",
+      "count": 1009,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B17/24": {
+      "code": "H01B17/24",
+      "level": 1,
+      "parent": "H01B17/00",
+      "ja": "釘，ねじ，線または棒により固定されるための孔をもつ碍子，例．ダイヤボロ，ボビン",
+      "en": "Insulators apertured for fixing by nail, screw, wire, or bar, e.g. diabolo, bobbin",
+      "count": 633,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B17/26": {
+      "code": "H01B17/26",
+      "level": 1,
+      "parent": "H01B17/00",
+      "ja": "引込碍子；貫通型碍子",
+      "en": "Lead-in insulators; Lead-through insulators",
+      "count": 4656,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B17/28": {
+      "code": "H01B17/28",
+      "level": 2,
+      "parent": "H01B17/26",
+      "ja": "蓄電器型",
+      "en": "Capacitor type",
+      "count": 1474,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B17/30": {
+      "code": "H01B17/30",
+      "level": 2,
+      "parent": "H01B17/26",
+      "ja": "シーリング",
+      "en": "Sealing",
+      "count": 2237,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B17/32": {
+      "code": "H01B17/32",
+      "level": 1,
+      "parent": "H01B17/00",
+      "ja": "２個またはそれ以上の異なった絶縁体をもつ単一碍子",
+      "en": "Single insulators consisting of two or more dissimilar insulating bodies",
+      "count": 853,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B17/34": {
+      "code": "H01B17/34",
+      "level": 1,
+      "parent": "H01B17/00",
+      "ja": "液体，例．油，を有する碍子",
+      "en": "Insulators containing liquid, e.g. oil",
+      "count": 691,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B17/36": {
+      "code": "H01B17/36",
+      "level": 1,
+      "parent": "H01B17/00",
+      "ja": "空またはガスが充てんされた空間を有する碍子",
+      "en": "Insulators having evacuated or gas-filled spaces",
+      "count": 718,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B17/38": {
+      "code": "H01B17/38",
+      "level": 1,
+      "parent": "H01B17/00",
+      "ja": "付属具，例．キャップ；その固着",
+      "en": "Fittings, e.g. caps; Fastenings therefor",
+      "count": 7313,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B17/40": {
+      "code": "H01B17/40",
+      "level": 2,
+      "parent": "H01B17/38",
+      "ja": "セメントなしの付属具",
+      "en": "Cementless fittings",
+      "count": 1763,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B17/42": {
+      "code": "H01B17/42",
+      "level": 1,
+      "parent": "H01B17/00",
+      "ja": "改良された電圧分布を得る装置（蓄電器型貫通碍子Ｈ０１Ｂ１７／２８）；アーク放電に対する保護",
+      "en": "Means for obtaining improved distribution of voltage(capacitor-type lead-through insulators <b>H01B17/28</b>);Protection against arc discharges",
+      "count": 3280,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B17/44": {
+      "code": "H01B17/44",
+      "level": 2,
+      "parent": "H01B17/42",
+      "ja": "コロナリングを有する碍子の構造上の結合",
+      "en": "Structural association of insulators with corona rings",
+      "count": 239,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B17/46": {
+      "code": "H01B17/46",
+      "level": 2,
+      "parent": "H01B17/42",
+      "ja": "外部アーク放電路を提供するもの",
+      "en": "Means for providing an external arc-discharge path",
+      "count": 2506,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B17/48": {
+      "code": "H01B17/48",
+      "level": 2,
+      "parent": "H01B17/42",
+      "ja": "碍子連または直列配置の碍子周上に設けられるもの",
+      "en": "over chains or other serially-arranged insulators",
+      "count": 552,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B17/50": {
+      "code": "H01B17/50",
+      "level": 1,
+      "parent": "H01B17/00",
+      "ja": "絶縁特性を保つために特別処理された表面をもつもの，例．湿気，ほこり等に対する保護",
+      "en": "with surfaces specially treated for preserving insulating properties, e.g. for protection against moisture, dirt, or the like",
+      "count": 1562,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B17/52": {
+      "code": "H01B17/52",
+      "level": 1,
+      "parent": "H01B17/00",
+      "ja": "洗浄装置をもつもの（Ｈ０１Ｂ１７／５４が優先）",
+      "en": "having cleaning devices(<b>H01B17/54</b> takes precedence)",
+      "count": 1583,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B17/54": {
+      "code": "H01B17/54",
+      "level": 1,
+      "parent": "H01B17/00",
+      "ja": "加熱または冷却装置をもつもの",
+      "en": "having heating or cooling devices",
+      "count": 589,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B17/56": {
+      "code": "H01B17/56",
+      "level": 1,
+      "parent": "H01B17/00",
+      "ja": "絶縁物体",
+      "en": "Insulating bodies",
+      "count": 5480,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B17/58": {
+      "code": "H01B17/58",
+      "level": 2,
+      "parent": "H01B17/56",
+      "ja": "その中に導体を通すチューブ，スリーブ，ビーズまたはボビン",
+      "en": "Tubes, sleeves, beads or bobbins through which the conductor passes",
+      "count": 9581,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B17/60": {
+      "code": "H01B17/60",
+      "level": 2,
+      "parent": "H01B17/56",
+      "ja": "複合絶縁物体",
+      "en": "Composite insulating bodies",
+      "count": 3838,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B17/62": {
+      "code": "H01B17/62",
+      "level": 2,
+      "parent": "H01B17/56",
+      "ja": "金属体上の絶縁層または絶縁フイルム",
+      "en": "Insulating-layers or insulating-films on metal bodies",
+      "count": 1149,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B17/64": {
+      "code": "H01B17/64",
+      "level": 2,
+      "parent": "H01B17/56",
+      "ja": "導電性混合物の挿入物または層を有するもの",
+      "en": "with conductive admixtures inserts or layers",
+      "count": 586,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B17/66": {
+      "code": "H01B17/66",
+      "level": 2,
+      "parent": "H01B17/56",
+      "ja": "絶縁物体相互の連結，例．接着によるもの",
+      "en": "Joining insulating bodies together, e.g. by bonding",
+      "count": 864,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B19/00": {
+      "code": "H01B19/00",
+      "level": 0,
+      "parent": "H01B",
+      "ja": "碍子または絶縁物体を製造するために特に使用される装置または方法",
+      "en": "Apparatus or processes specially adapted for manufacturing insulators or insulating bodies",
+      "count": 5999,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B19/02": {
+      "code": "H01B19/02",
+      "level": 1,
+      "parent": "H01B19/00",
+      "ja": "乾燥；含浸",
+      "en": "Drying; Impregnating",
+      "count": 666,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    },
+    "H01B19/04": {
+      "code": "H01B19/04",
+      "level": 1,
+      "parent": "H01B19/00",
+      "ja": "表面処理，例．塗装の適用",
+      "en": "Treating the surfaces, e.g. applying coatings",
+      "count": 1376,
+      "sourceFile": "ipc_H01B.txt",
+      "kind": "ipc"
+    }
+  }
+};

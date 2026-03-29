@@ -1,0 +1,706 @@
+window.IPC_SHARD_A01H = {
+  "generatedAt": "2026-03-20T02:17:45.856Z",
+  "total": 70,
+  "entries": {
+    "A01H": {
+      "code": "A01H",
+      "level": 0,
+      "parent": "A01",
+      "ja": "新規植物またはそれらを得るための処理；組織培養技術による植物の増殖<br><br><b><ul>注</ul></b><br>１．このサブクラスは，耐病性，耐寒性および生育速度を含む新規植物に関するすべての面を含有する。<br><br>２．このサブクラスでは，被子植物，すなわち顕花植物であって，開示される場合，植物分類学によりグループＡ０１Ｈ６／００，植物部位によりグループＡ０１Ｈ５／００に分類される。<br><br><b><ul>サブクラス内の索引</ul></b><br>処理　１／００，３／００<br>増殖　４／００<br>開花植物；裸子植物　５／００；７／００<br>その他の生産物　９／００～１７／００",
+      "en": "NEW PLANTS OR PROCESSES FOR OBTAINING THEM; PLANT REPRODUCTION BY TISSUE CULTURE TECHNIQUES; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This subclass <u>covers</u> all aspects related to new plants, including disease resistance, cold resistance and growth speed.</li><li>In this subclass, angiosperms, i.e. flowering plants, are classified in group <b>A01H6/00</b> according to their botanic taxonomy and in group <b>A01H5/00</b> according to their plant parts, where disclosed.</li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">PROCESSES</td><td><b><b>1/00</b>, <b>3/00</b></b></td></tr></tr><tr><td width=\"70%\">REPRODUCTION</td><td><b><b>4/00</b></b></td></tr></tr><tr><td width=\"70%\">FLOWERING PLANTS; GYMNOSPERMS</td><td><b><b>5/00</b>, <b>6/00</b>;<b>7/00</b></b></td></tr></tr><tr><td width=\"70%\">OTHER PRODUCTS</td><td><b><b>9/00 to 17/00</b> </b></td></tr></tr></table>",
+      "count": 925,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A01": {
+      "code": "A01",
+      "level": 0,
+      "parent": "A",
+      "ja": "農業；林業；畜産；狩猟；捕獲；漁業",
+      "en": "AGRICULTURE; FORESTRY; ANIMAL HUSBANDRY; HUNTING; TRAPPING; FISHING",
+      "count": 0,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A": {
+      "code": "A",
+      "level": 0,
+      "parent": null,
+      "ja": "生活必需品",
+      "en": "HUMAN NECESSITIES",
+      "count": 0,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A01H1/00": {
+      "code": "A01H1/00",
+      "level": 0,
+      "parent": "A01H",
+      "ja": "遺伝子型を改変するための処理（Ａ０１Ｈ４／００が優先）［５］",
+      "en": "Processes for modifying genotypes(<b>A01H4/00</b> takes precedence)",
+      "count": 14560,
+      "sourceFile": "ipc_A01H.txt",
+      "kind": "ipc"
+    },
+    "A01H1/02": {
+      "code": "A01H1/02",
+      "level": 1,
+      "parent": "A01H1/00",
+      "ja": "交配の方法または装置；人工授粉",
+      "en": "Methods or apparatus for hybridisation; Artificial pollination",
+      "count": 22090,
+      "sourceFile": "ipc_A01H.txt",
+      "kind": "ipc"
+    },
+    "A01H1/04": {
+      "code": "A01H1/04",
+      "level": 1,
+      "parent": "A01H1/00",
+      "ja": "淘汰の処理方法",
+      "en": "Processes of selection",
+      "count": 9426,
+      "sourceFile": "ipc_A01H.txt",
+      "kind": "ipc"
+    },
+    "A01H1/06": {
+      "code": "A01H1/06",
+      "level": 1,
+      "parent": "A01H1/00",
+      "ja": "突然変異を起こさしめるための処理，例．化学物質または放射線による処理（遺伝子工学によって植物細胞または植物組織の上に作成された特定の突然変異Ｃ１２Ｎ１５／００）［５］",
+      "en": "Processes for producing mutations, e.g. treatment with chemicals or with radiation(specific mutations prepared by genetic engineering on plant cell or plant tissues <b>C12N15/00</b>)",
+      "count": 3272,
+      "sourceFile": "ipc_A01H.txt",
+      "kind": "ipc"
+    },
+    "A01H1/08": {
+      "code": "A01H1/08",
+      "level": 2,
+      "parent": "A01H1/06",
+      "ja": "染色体数の変化を起こさせる方法または装置",
+      "en": "Methods or apparatus for producing changes in chromosome number",
+      "count": 1353,
+      "sourceFile": "ipc_A01H.txt",
+      "kind": "ipc"
+    },
+    "A01H3/00": {
+      "code": "A01H3/00",
+      "level": 0,
+      "parent": "A01H",
+      "ja": "表現型を改変するための処理（Ａ０１Ｈ４／００が優先）［５］",
+      "en": "Processes for modifying phenotypes(<b>A01H4/00</b> takes precedence)",
+      "count": 1060,
+      "sourceFile": "ipc_A01H.txt",
+      "kind": "ipc"
+    },
+    "A01H3/02": {
+      "code": "A01H3/02",
+      "level": 1,
+      "parent": "A01H3/00",
+      "ja": "照明時間の長さ，光の波長，光度または周期を制御することによるもの",
+      "en": "by controlling duration, wavelength, intensity, or periodicity of illumination",
+      "count": 269,
+      "sourceFile": "ipc_A01H.txt",
+      "kind": "ipc"
+    },
+    "A01H3/04": {
+      "code": "A01H3/04",
+      "level": 1,
+      "parent": "A01H3/00",
+      "ja": "化学物質による処理",
+      "en": "by treatment with chemicals",
+      "count": 672,
+      "sourceFile": "ipc_A01H.txt",
+      "kind": "ipc"
+    },
+    "A01H4/00": {
+      "code": "A01H4/00",
+      "level": 0,
+      "parent": "A01H",
+      "ja": "組織培養技術による植物の増殖［５］",
+      "en": "Plant reproduction by tissue culture techniques",
+      "count": 25151,
+      "sourceFile": "ipc_A01H.txt",
+      "kind": "ipc"
+    },
+    "A01H5/00": {
+      "code": "A01H5/00",
+      "level": 0,
+      "parent": "A01H",
+      "ja": "被子植物，すなわち，顕花植物で，植物部位により特徴付けられるもの；植物分類学以外のものにより特徴付けられる被子植物［２０１８．０１］",
+      "en": "Angiosperms, i.e. flowering plants, characterised by their plant parts; Angiosperms characterised otherwise than by their botanic taxonomy",
+      "count": 37174,
+      "sourceFile": "ipc_A01H.txt",
+      "kind": "ipc"
+    },
+    "A01H5/02": {
+      "code": "A01H5/02",
+      "level": 1,
+      "parent": "A01H5/00",
+      "ja": "花［２０１８．０１］",
+      "en": "Flowers",
+      "count": 24932,
+      "sourceFile": "ipc_A01H.txt",
+      "kind": "ipc"
+    },
+    "A01H5/04": {
+      "code": "A01H5/04",
+      "level": 1,
+      "parent": "A01H5/00",
+      "ja": "茎［２０１８．０１］",
+      "en": "Stems",
+      "count": 1012,
+      "sourceFile": "ipc_A01H.txt",
+      "kind": "ipc"
+    },
+    "A01H5/06": {
+      "code": "A01H5/06",
+      "level": 1,
+      "parent": "A01H5/00",
+      "ja": "根［２０１８．０１］",
+      "en": "Roots",
+      "count": 1500,
+      "sourceFile": "ipc_A01H.txt",
+      "kind": "ipc"
+    },
+    "A01H5/08": {
+      "code": "A01H5/08",
+      "level": 1,
+      "parent": "A01H5/00",
+      "ja": "果実［２０１８．０１］",
+      "en": "Fruits",
+      "count": 7610,
+      "sourceFile": "ipc_A01H.txt",
+      "kind": "ipc"
+    },
+    "A01H5/10": {
+      "code": "A01H5/10",
+      "level": 1,
+      "parent": "A01H5/00",
+      "ja": "種子［２０１８．０１］",
+      "en": "Seeds",
+      "count": 25326,
+      "sourceFile": "ipc_A01H.txt",
+      "kind": "ipc"
+    },
+    "A01H5/12": {
+      "code": "A01H5/12",
+      "level": 1,
+      "parent": "A01H5/00",
+      "ja": "葉［２０１８．０１］",
+      "en": "Leaves",
+      "count": 4872,
+      "sourceFile": "ipc_A01H.txt",
+      "kind": "ipc"
+    },
+    "A01H6/00": {
+      "code": "A01H6/00",
+      "level": 0,
+      "parent": "A01H",
+      "ja": "被子植物，すなわち，顕花植物で，植物分類学により特徴付けられるもの［２０１８．０１］",
+      "en": "Angiosperms, i.e. flowering plants, characterised by their botanic taxonomy",
+      "count": 5976,
+      "sourceFile": "ipc_A01H.txt",
+      "kind": "ipc"
+    },
+    "A01H6/02": {
+      "code": "A01H6/02",
+      "level": 1,
+      "parent": "A01H6/00",
+      "ja": "ヒユ科またはアカザ科，例．ビートまたはホウレンソウ［２０１８．０１］",
+      "en": "Amaranthaceae or Chenopodiaceae, e.g. beet or spinach",
+      "count": 299,
+      "sourceFile": "ipc_A01H.txt",
+      "kind": "ipc"
+    },
+    "A01H6/04": {
+      "code": "A01H6/04",
+      "level": 1,
+      "parent": "A01H6/00",
+      "ja": "ヒガンバナ科，例．タマネギ［２０１８．０１］",
+      "en": "Amaryllidaceae, e.g. onion",
+      "count": 158,
+      "sourceFile": "ipc_A01H.txt",
+      "kind": "ipc"
+    },
+    "A01H6/06": {
+      "code": "A01H6/06",
+      "level": 1,
+      "parent": "A01H6/00",
+      "ja": "セリ科，例．セロリまたはニンジン［２０１８．０１］",
+      "en": "Apiaceae, e.g. celery or carrot",
+      "count": 215,
+      "sourceFile": "ipc_A01H.txt",
+      "kind": "ipc"
+    },
+    "A01H6/08": {
+      "code": "A01H6/08",
+      "level": 1,
+      "parent": "A01H6/00",
+      "ja": "キョウチクトウ科，例．ニチニチソウ属［２０１８．０１］",
+      "en": "Apocynaceae, e.g. Madagascar periwinkle",
+      "count": 169,
+      "sourceFile": "ipc_A01H.txt",
+      "kind": "ipc"
+    },
+    "A01H6/10": {
+      "code": "A01H6/10",
+      "level": 1,
+      "parent": "A01H6/00",
+      "ja": "サトイモ科，例．オランダカイウ属［２０１８．０１］",
+      "en": "Aroideae, e.g. Zantedeschia",
+      "count": 470,
+      "sourceFile": "ipc_A01H.txt",
+      "kind": "ipc"
+    },
+    "A01H6/12": {
+      "code": "A01H6/12",
+      "level": 1,
+      "parent": "A01H6/00",
+      "ja": "キジカクシ科，例．ギボウシ属［２０１８．０１］",
+      "en": "Asparagaceae, e.g. Hosta",
+      "count": 440,
+      "sourceFile": "ipc_A01H.txt",
+      "kind": "ipc"
+    },
+    "A01H6/14": {
+      "code": "A01H6/14",
+      "level": 1,
+      "parent": "A01H6/00",
+      "ja": "キク科，例．ベニバナ，ヒマワリ，チョウセンアザミまたはレタス［２０１８．０１］",
+      "en": "Asteraceae or Compositae, e.g. safflower, sunflower, artichoke or lettuce",
+      "count": 1758,
+      "sourceFile": "ipc_A01H.txt",
+      "kind": "ipc"
+    },
+    "A01H6/16": {
+      "code": "A01H6/16",
+      "level": 1,
+      "parent": "A01H6/00",
+      "ja": "ツリフネソウ科，例．インパチェンス［２０１８．０１］",
+      "en": "Balsaminaceae, e.g. Impatiens",
+      "count": 111,
+      "sourceFile": "ipc_A01H.txt",
+      "kind": "ipc"
+    },
+    "A01H6/18": {
+      "code": "A01H6/18",
+      "level": 1,
+      "parent": "A01H6/00",
+      "ja": "シュウカイドウ科，例．ベゴニア［２０１８．０１］",
+      "en": "Begoniaceae, e.g. Begonia",
+      "count": 76,
+      "sourceFile": "ipc_A01H.txt",
+      "kind": "ipc"
+    },
+    "A01H6/20": {
+      "code": "A01H6/20",
+      "level": 1,
+      "parent": "A01H6/00",
+      "ja": "アブラナ科，例．キャノーラ，ブロッコリーまたはルッコラ［２０１８．０１］",
+      "en": "Brassicaceae, e.g. canola, broccoli or rucola",
+      "count": 4903,
+      "sourceFile": "ipc_A01H.txt",
+      "kind": "ipc"
+    },
+    "A01H6/22": {
+      "code": "A01H6/22",
+      "level": 1,
+      "parent": "A01H6/00",
+      "ja": "パイナップル科［２０１８．０１］",
+      "en": "Bromeliaceae",
+      "count": 153,
+      "sourceFile": "ipc_A01H.txt",
+      "kind": "ipc"
+    },
+    "A01H6/24": {
+      "code": "A01H6/24",
+      "level": 1,
+      "parent": "A01H6/00",
+      "ja": "サボテン科，例．サボテンまたはイースターサボテン［２０１８．０１］",
+      "en": "Cactaceae, e.g. cactus or Easter cactus",
+      "count": 74,
+      "sourceFile": "ipc_A01H.txt",
+      "kind": "ipc"
+    },
+    "A01H6/26": {
+      "code": "A01H6/26",
+      "level": 1,
+      "parent": "A01H6/00",
+      "ja": "キキョウ科［２０１８．０１］",
+      "en": "Campanulaceae",
+      "count": 69,
+      "sourceFile": "ipc_A01H.txt",
+      "kind": "ipc"
+    },
+    "A01H6/28": {
+      "code": "A01H6/28",
+      "level": 1,
+      "parent": "A01H6/00",
+      "ja": "アサ科，例．アサ［２０１８．０１］",
+      "en": "Cannabaceae, e.g. cannabis",
+      "count": 437,
+      "sourceFile": "ipc_A01H.txt",
+      "kind": "ipc"
+    },
+    "A01H6/30": {
+      "code": "A01H6/30",
+      "level": 1,
+      "parent": "A01H6/00",
+      "ja": "ナデシコ科［２０１８．０１］",
+      "en": "Caryophyllaceae",
+      "count": 196,
+      "sourceFile": "ipc_A01H.txt",
+      "kind": "ipc"
+    },
+    "A01H6/32": {
+      "code": "A01H6/32",
+      "level": 1,
+      "parent": "A01H6/00",
+      "ja": "ベンケイソウ科［２０１８．０１］",
+      "en": "Crassulaceae",
+      "count": 196,
+      "sourceFile": "ipc_A01H.txt",
+      "kind": "ipc"
+    },
+    "A01H6/34": {
+      "code": "A01H6/34",
+      "level": 1,
+      "parent": "A01H6/00",
+      "ja": "ウリ科，例．ゴーヤ，キュウリまたはスイカ［２０１８．０１］",
+      "en": "Cucurbitaceae, e.g. bitter melon, cucumber or watermelon",
+      "count": 781,
+      "sourceFile": "ipc_A01H.txt",
+      "kind": "ipc"
+    },
+    "A01H6/36": {
+      "code": "A01H6/36",
+      "level": 1,
+      "parent": "A01H6/00",
+      "ja": "ツツジ科，例．ツツジ，クランベリーまたはブルーベリー［２０１８．０１］",
+      "en": "Ericaceae, e.g. Azalea, cranberry or blueberry",
+      "count": 307,
+      "sourceFile": "ipc_A01H.txt",
+      "kind": "ipc"
+    },
+    "A01H6/38": {
+      "code": "A01H6/38",
+      "level": 1,
+      "parent": "A01H6/00",
+      "ja": "トウダイグサ科，例．ポインセチア［２０１８．０１］",
+      "en": "Euphorbiaceae, e.g. Poinsettia",
+      "count": 206,
+      "sourceFile": "ipc_A01H.txt",
+      "kind": "ipc"
+    },
+    "A01H6/40": {
+      "code": "A01H6/40",
+      "level": 1,
+      "parent": "A01H6/00",
+      "ja": "リンドウ科，例．エキザカム［２０１８．０１］",
+      "en": "Gentianaceae, e.g. Exacum",
+      "count": 41,
+      "sourceFile": "ipc_A01H.txt",
+      "kind": "ipc"
+    },
+    "A01H6/42": {
+      "code": "A01H6/42",
+      "level": 1,
+      "parent": "A01H6/00",
+      "ja": "フウロソウ科，例．ゼラニウム［２０１８．０１］",
+      "en": "Geraniaceae, e.g. Geranium",
+      "count": 146,
+      "sourceFile": "ipc_A01H.txt",
+      "kind": "ipc"
+    },
+    "A01H6/44": {
+      "code": "A01H6/44",
+      "level": 1,
+      "parent": "A01H6/00",
+      "ja": "イワタバコ科，例．セントポーリア［２０１８．０１］",
+      "en": "Gesneriaceae, e.g. African violet",
+      "count": 10,
+      "sourceFile": "ipc_A01H.txt",
+      "kind": "ipc"
+    },
+    "A01H6/46": {
+      "code": "A01H6/46",
+      "level": 1,
+      "parent": "A01H6/00",
+      "ja": "イネ科，例．ライグラス，コメ，コムギまたはトウモロコシ［２０１８．０１］",
+      "en": "Gramineae or Poaceae, e.g. ryegrass, rice, wheat or maize",
+      "count": 11663,
+      "sourceFile": "ipc_A01H.txt",
+      "kind": "ipc"
+    },
+    "A01H6/48": {
+      "code": "A01H6/48",
+      "level": 1,
+      "parent": "A01H6/00",
+      "ja": "アジサイ科，例．アジサイ［２０１８．０１］",
+      "en": "Hydrangeacae, e.g. Hydrangea",
+      "count": 582,
+      "sourceFile": "ipc_A01H.txt",
+      "kind": "ipc"
+    },
+    "A01H6/50": {
+      "code": "A01H6/50",
+      "level": 1,
+      "parent": "A01H6/00",
+      "ja": "シソ科，例．ラベンダー，ハッカまたはチア［２０１８．０１］",
+      "en": "Lamiaceae, e.g. lavender, mint or chia",
+      "count": 628,
+      "sourceFile": "ipc_A01H.txt",
+      "kind": "ipc"
+    },
+    "A01H6/52": {
+      "code": "A01H6/52",
+      "level": 1,
+      "parent": "A01H6/00",
+      "ja": "クスノキ科，例．アボカド［２０１８．０１］",
+      "en": "Lauraceae, e.g. avocado",
+      "count": 32,
+      "sourceFile": "ipc_A01H.txt",
+      "kind": "ipc"
+    },
+    "A01H6/54": {
+      "code": "A01H6/54",
+      "level": 1,
+      "parent": "A01H6/00",
+      "ja": "マメ科，例．ダイズ，ムラサキウマゴヤシまたはピーナッツ［２０１８．０１］",
+      "en": "Leguminosae or Fabaceae, e.g. soybean, alfalfa or peanut",
+      "count": 5294,
+      "sourceFile": "ipc_A01H.txt",
+      "kind": "ipc"
+    },
+    "A01H6/56": {
+      "code": "A01H6/56",
+      "level": 1,
+      "parent": "A01H6/00",
+      "ja": "ユリ科，例．アルストロメリア属またはユリ属［２０１８．０１］",
+      "en": "Liliaceae, e.g. Alstroemeria or Lilium",
+      "count": 203,
+      "sourceFile": "ipc_A01H.txt",
+      "kind": "ipc"
+    },
+    "A01H6/58": {
+      "code": "A01H6/58",
+      "level": 1,
+      "parent": "A01H6/00",
+      "ja": "アマ科，例．アマ［２０１８．０１］",
+      "en": "Linaceae, e.g. flax",
+      "count": 48,
+      "sourceFile": "ipc_A01H.txt",
+      "kind": "ipc"
+    },
+    "A01H6/60": {
+      "code": "A01H6/60",
+      "level": 1,
+      "parent": "A01H6/00",
+      "ja": "アオイ科，例．ワタまたはハイビスカス［２０１８．０１］",
+      "en": "Malvaceae, e.g. cotton or hibiscus",
+      "count": 1375,
+      "sourceFile": "ipc_A01H.txt",
+      "kind": "ipc"
+    },
+    "A01H6/62": {
+      "code": "A01H6/62",
+      "level": 1,
+      "parent": "A01H6/00",
+      "ja": "ラン科［２０１８．０１］",
+      "en": "Orchidaceae [Orchid family]",
+      "count": 680,
+      "sourceFile": "ipc_A01H.txt",
+      "kind": "ipc"
+    },
+    "A01H6/64": {
+      "code": "A01H6/64",
+      "level": 1,
+      "parent": "A01H6/00",
+      "ja": "ケシ科，例．ケシ［２０１８．０１］",
+      "en": "Papaveraceae, e.g. poppy",
+      "count": 72,
+      "sourceFile": "ipc_A01H.txt",
+      "kind": "ipc"
+    },
+    "A01H6/66": {
+      "code": "A01H6/66",
+      "level": 1,
+      "parent": "A01H6/00",
+      "ja": "ゴマ科，例．ゴマ［２０１８．０１］",
+      "en": "Pedaliaceae, e.g. sesame",
+      "count": 63,
+      "sourceFile": "ipc_A01H.txt",
+      "kind": "ipc"
+    },
+    "A01H6/68": {
+      "code": "A01H6/68",
+      "level": 1,
+      "parent": "A01H6/00",
+      "ja": "オオバコ科，例．キンギョソウ［２０１８．０１］",
+      "en": "Plantaginaceae, e.g. Antirrhinum",
+      "count": 387,
+      "sourceFile": "ipc_A01H.txt",
+      "kind": "ipc"
+    },
+    "A01H6/70": {
+      "code": "A01H6/70",
+      "level": 1,
+      "parent": "A01H6/00",
+      "ja": "ハナシノブ科，例．フロックス［２０１８．０１］",
+      "en": "Polemoniaceae, e.g. Phlox",
+      "count": 281,
+      "sourceFile": "ipc_A01H.txt",
+      "kind": "ipc"
+    },
+    "A01H6/72": {
+      "code": "A01H6/72",
+      "level": 1,
+      "parent": "A01H6/00",
+      "ja": "キンポウゲ科，例．クレマチス［２０１８．０１］",
+      "en": "Ranunculaceae, e.g. Clematis",
+      "count": 490,
+      "sourceFile": "ipc_A01H.txt",
+      "kind": "ipc"
+    },
+    "A01H6/74": {
+      "code": "A01H6/74",
+      "level": 1,
+      "parent": "A01H6/00",
+      "ja": "バラ科，例．イチゴ，リンゴ，アーモンド，セイヨウナシ，バラ，ブラックベリーまたはラズベリー［２０１８．０１］",
+      "en": "Rosaceae, e.g. strawberry, apple, almond, pear, rose, blackberry or raspberry",
+      "count": 2052,
+      "sourceFile": "ipc_A01H.txt",
+      "kind": "ipc"
+    },
+    "A01H6/76": {
+      "code": "A01H6/76",
+      "level": 1,
+      "parent": "A01H6/00",
+      "ja": "アカネ科，例．ペンタス［２０１８．０１］",
+      "en": "Rubiaceae, e.g. Pentas",
+      "count": 127,
+      "sourceFile": "ipc_A01H.txt",
+      "kind": "ipc"
+    },
+    "A01H6/78": {
+      "code": "A01H6/78",
+      "level": 1,
+      "parent": "A01H6/00",
+      "ja": "ミカン科，例．レモンまたはライム［２０１８．０１］",
+      "en": "Rutaceae, e.g. lemon or lime",
+      "count": 312,
+      "sourceFile": "ipc_A01H.txt",
+      "kind": "ipc"
+    },
+    "A01H6/80": {
+      "code": "A01H6/80",
+      "level": 1,
+      "parent": "A01H6/00",
+      "ja": "ユキノシタ科，例．ツボサンゴ属［２０１８．０１］",
+      "en": "Saxifragaceae, e.g. Heuchera",
+      "count": 448,
+      "sourceFile": "ipc_A01H.txt",
+      "kind": "ipc"
+    },
+    "A01H6/82": {
+      "code": "A01H6/82",
+      "level": 1,
+      "parent": "A01H6/00",
+      "ja": "ナス科，例．コショウ，タバコ，ジャガイモ，トマトまたはナス［２０１８．０１］",
+      "en": "Solanaceae, e.g. pepper, tobacco, potato, tomato or eggplant",
+      "count": 5234,
+      "sourceFile": "ipc_A01H.txt",
+      "kind": "ipc"
+    },
+    "A01H6/84": {
+      "code": "A01H6/84",
+      "level": 1,
+      "parent": "A01H6/00",
+      "ja": "イラクサ科，例．カラムシ［２０１８．０１］",
+      "en": "Urticaceae, e.g. ramie",
+      "count": 10,
+      "sourceFile": "ipc_A01H.txt",
+      "kind": "ipc"
+    },
+    "A01H6/86": {
+      "code": "A01H6/86",
+      "level": 1,
+      "parent": "A01H6/00",
+      "ja": "クマツヅラ科，例．バーベナ［２０１８．０１］",
+      "en": "Verbenaceae, e.g. Verbena",
+      "count": 633,
+      "sourceFile": "ipc_A01H.txt",
+      "kind": "ipc"
+    },
+    "A01H6/88": {
+      "code": "A01H6/88",
+      "level": 1,
+      "parent": "A01H6/00",
+      "ja": "ブドウ科，例．ビチス属，すなわちブドウ属［２０１８．０１］",
+      "en": "Vitaceae, e.g. Vitis [grape]",
+      "count": 387,
+      "sourceFile": "ipc_A01H.txt",
+      "kind": "ipc"
+    },
+    "A01H7/00": {
+      "code": "A01H7/00",
+      "level": 0,
+      "parent": "A01H",
+      "ja": "裸子植物，例．針葉樹",
+      "en": "Gymnosperms, e.g. conifers",
+      "count": 398,
+      "sourceFile": "ipc_A01H.txt",
+      "kind": "ipc"
+    },
+    "A01H9/00": {
+      "code": "A01H9/00",
+      "level": 0,
+      "parent": "A01H",
+      "ja": "羊歯類，例．羊歯，ひかげのかずら，木賊",
+      "en": "Pteridophytes, e.g. ferns, club-mosses, horse-tails",
+      "count": 182,
+      "sourceFile": "ipc_A01H.txt",
+      "kind": "ipc"
+    },
+    "A01H11/00": {
+      "code": "A01H11/00",
+      "level": 0,
+      "parent": "A01H",
+      "ja": "蘚苔類，例．苔，ぜにごけ",
+      "en": "Bryophytes, e.g. mosses, liverworts",
+      "count": 145,
+      "sourceFile": "ipc_A01H.txt",
+      "kind": "ipc"
+    },
+    "A01H13/00": {
+      "code": "A01H13/00",
+      "level": 0,
+      "parent": "A01H",
+      "ja": "藻類（単細胞藻類Ｃ１２Ｎ１／１２）",
+      "en": "Algae(unicellular algae <b>C12N1/12</b>)",
+      "count": 519,
+      "sourceFile": "ipc_A01H.txt",
+      "kind": "ipc"
+    },
+    "A01H15/00": {
+      "code": "A01H15/00",
+      "level": 0,
+      "parent": "A01H",
+      "ja": "菌類；地衣類（菌類微生物Ｃ１２Ｎ１／１４）",
+      "en": "Fungi; Lichens(fungal microorganisms <b>C12N1/14</b>)",
+      "count": 683,
+      "sourceFile": "ipc_A01H.txt",
+      "kind": "ipc"
+    },
+    "A01H17/00": {
+      "code": "A01H17/00",
+      "level": 0,
+      "parent": "A01H",
+      "ja": "一種または数種の新しい植物を含む植物との共生または寄生関係，例．菌根（地衣類Ａ０１Ｈ１５／００）",
+      "en": "Symbiotic or parasitic combinations including one or more new plants, e.g. mycorrhiza(lichens <b>A01H15/00</b>)",
+      "count": 314,
+      "sourceFile": "ipc_A01H.txt",
+      "kind": "ipc"
+    }
+  }
+};

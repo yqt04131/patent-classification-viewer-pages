@@ -1,0 +1,4276 @@
+window.IPC_SHARD_A61B = {
+  "generatedAt": "2026-03-20T02:17:45.936Z",
+  "total": 427,
+  "entries": {
+    "A61B": {
+      "code": "A61B",
+      "level": 0,
+      "parent": "A61",
+      "ja": "診断；手術；個人識別（動物のみに限定される有用性Ａ６１Ｄ）<br><br><b><ul>注</ul></b><br>このサブクラスは診断，手術および個人識別のための機器，道具および方法を包含し，産科用機器，角化した皮膚の切断用器具，ワクチン接種器具，指紋採取用機器，心理検査および身体検査用機器を含むものである。<br><br><b><ul>サブクラス内の索引</ul></b><br>医療方法（外科的でないもの）　１／００，５／００，１７／００<br>心理検査および身体検査用医療機器　５／００<br>医療用機器<br>聴診および診断のためのもの　５／００～１０／００<br>人体の窩部または管部および眼の診察のためのもの　１／００，３／００<br>口の診察および手入れのためのもの　１／００，１３／００<br>外科用機器，器具，または用法　１７／００；１８／００<br>手術または診断のためのその他の機器，器具または補助具　３４／００～９０／００",
+      "en": "DIAGNOSIS; SURGERY; IDENTIFICATION(usefulness limited to only animals <b>A61D</b>);<br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">MEDICINAL METHODS (NON-SURGICAL) </td><td><b><b>1/00</b>, <b>5/00</b>, <b>17/00</b></b></td></tr></tr><tr><td width=\"70%\">INSTRUMENTS FOR PSYCHO-PHYSICAL TESTS </td><td><b><b>5/00</b></b></td></tr></tr><tr><td width=\"70%\">MEDICAL INSTRUMENTS<tr><td width=\"70%\">For auscultation and diagnostics </td><td><b><b>5/00 to 10/00</b> </b></td></tr></tr><tr><td width=\"70%\">For medical examination of the interior of cavities or tubes of the body and the eyes </td><td><b><b>1/00</b>, <b>3/00</b></b></td></tr></tr><tr><td width=\"70%\">Aids for examination and care of the mouth </td><td><b><b>1/00</b>, <b>13/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">SURGICAL INSTRUMENTS, DEVICES OR METHODS </td><td><b><b>17/00</b>; <b>18/00</b></b></td></tr></tr><tr><td width=\"70%\">OTHER INSTRUMENTS, IMPLEMENTS OR ACCESSORIES FOR SURGERY OR DIAGNOSIS </td><td><b><b>34/00 to 90/00</b> </b></td></tr></tr></table>",
+      "count": 9975,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A61": {
+      "code": "A61",
+      "level": 0,
+      "parent": "A",
+      "ja": "医学または獣医学；衛生学",
+      "en": "MEDICAL OR VETERINARY SCIENCE; HYGIENE",
+      "count": 0,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A": {
+      "code": "A",
+      "level": 0,
+      "parent": null,
+      "ja": "生活必需品",
+      "en": "HUMAN NECESSITIES",
+      "count": 0,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A61B1/00": {
+      "code": "A61B1/00",
+      "level": 0,
+      "parent": "A61B",
+      "ja": "視覚または写真的検査による人体の窩部または管部の内側の診断を行なうための機器，例．内視鏡（超音波，音波または亜音波を利用する人体の窩部または管部の診断Ａ６１Ｂ８／１２；細胞の標本を取るためのまたは生検のための内視鏡用器具Ａ６１Ｂ１０／０４）；そのための照明装置（眼の検査用Ａ６１Ｂ３／００）［２００６．０１］",
+      "en": "Instruments for performing medical examinations of the interior of cavities or tubes of the body by visual or photographical inspection, e.g. endoscopes(examination of body cavities or body tracts using ultrasonic, sonic or infrasonic waves <b>A61B8/12</b>; endoscopic instruments for taking cell samples or for biopsy <b>A61B10/04</b>);Illuminating arrangements therefor(for the eyes <b>A61B3/00</b>)",
+      "count": 66794,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B1/002": {
+      "code": "A61B1/002",
+      "level": 1,
+      "parent": "A61B1/00",
+      "ja": "ロッドレンズ装置を有するもの（Ａ６１Ｂ１／０５５が優先）［６］",
+      "en": "having rod-lens arrangements(<b>A61B1/055</b> takes precedence)",
+      "count": 507,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B1/005": {
+      "code": "A61B1/005",
+      "level": 1,
+      "parent": "A61B1/00",
+      "ja": "可撓性内視鏡［６］",
+      "en": "Flexible endoscopes",
+      "count": 9337,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B1/008": {
+      "code": "A61B1/008",
+      "level": 2,
+      "parent": "A61B1/005",
+      "ja": "関節［６］",
+      "en": "Articulations",
+      "count": 1440,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B1/01": {
+      "code": "A61B1/01",
+      "level": 2,
+      "parent": "A61B1/005",
+      "ja": "そのための案内装置［６］",
+      "en": "Guiding arrangements therefor",
+      "count": 2014,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B1/012": {
+      "code": "A61B1/012",
+      "level": 1,
+      "parent": "A61B1/00",
+      "ja": "内部通路またはそのための付属具に特徴を有するもの［６］",
+      "en": "characterised by internal passages or accessories therefor",
+      "count": 3436,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B1/015": {
+      "code": "A61B1/015",
+      "level": 2,
+      "parent": "A61B1/012",
+      "ja": "流体の供給または排出の制御［６］",
+      "en": "Control of fluid supply or evacuation",
+      "count": 5035,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B1/018": {
+      "code": "A61B1/018",
+      "level": 2,
+      "parent": "A61B1/012",
+      "ja": "処置具を挿通するためのもの［６］",
+      "en": "for receiving instruments",
+      "count": 5540,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B1/04": {
+      "code": "A61B1/04",
+      "level": 1,
+      "parent": "A61B1/00",
+      "ja": "撮影機またはテレビジョン装置と結合されているもの［２］",
+      "en": "combined with photographic or television appliances",
+      "count": 33032,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B1/045": {
+      "code": "A61B1/045",
+      "level": 2,
+      "parent": "A61B1/04",
+      "ja": "その制御［６］",
+      "en": "Control thereof",
+      "count": 5795,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B1/05": {
+      "code": "A61B1/05",
+      "level": 2,
+      "parent": "A61B1/04",
+      "ja": "先端部分にあるイメージセンサー，例．カメラ，に特徴を有するもの［６］",
+      "en": "characterised by the image sensor, e.g. camera, being in the distal end portion",
+      "count": 8484,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B1/055": {
+      "code": "A61B1/055",
+      "level": 2,
+      "parent": "A61B1/04",
+      "ja": "ロッドレンズ装置を有するもの［６］",
+      "en": "having rod-lens arrangements",
+      "count": 380,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B1/06": {
+      "code": "A61B1/06",
+      "level": 1,
+      "parent": "A61B1/00",
+      "ja": "照明装置を有するもの",
+      "en": "with illuminating arrangements",
+      "count": 23660,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B1/07": {
+      "code": "A61B1/07",
+      "level": 2,
+      "parent": "A61B1/06",
+      "ja": "光伝導手段，例．光ファイバーを用いるもの［６］",
+      "en": "using light-conductive means, e.g. optical fibres",
+      "count": 6102,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B1/12": {
+      "code": "A61B1/12",
+      "level": 1,
+      "parent": "A61B1/00",
+      "ja": "冷却または濯ぎ洗いの装置を有するもの［２００６．０１］",
+      "en": "with cooling or rinsing arrangements",
+      "count": 8137,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B1/227": {
+      "code": "A61B1/227",
+      "level": 1,
+      "parent": "A61B1/00",
+      "ja": "耳用，すなわち，耳鏡［６］",
+      "en": "for ears, i.e. otoscopes",
+      "count": 2689,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B1/233": {
+      "code": "A61B1/233",
+      "level": 1,
+      "parent": "A61B1/00",
+      "ja": "鼻用，すなわち，鼻鏡［６］",
+      "en": "for the nose, i.e. nasoscopes",
+      "count": 1996,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B1/24": {
+      "code": "A61B1/24",
+      "level": 1,
+      "parent": "A61B1/00",
+      "ja": "口のためのもの，すなわち口腔鏡，例．舌を押下げる器具を有するもの；口を開かすための機器または口を開いたまま保持するもの［２００６．０１］",
+      "en": "for the mouth, i.e. stomatoscopes, e.g. with tongue depressors; Instruments for opening or keeping open the mouth",
+      "count": 11041,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B1/247": {
+      "code": "A61B1/247",
+      "level": 2,
+      "parent": "A61B1/24",
+      "ja": "正面の視界の範囲外を見る手段，例．歯科医の鏡，を有するもの［６］",
+      "en": "with means for viewing areas outside the direct line of sight, e.g. dentists' mirrors",
+      "count": 2501,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B1/253": {
+      "code": "A61B1/253",
+      "level": 3,
+      "parent": "A61B1/247",
+      "ja": "曇り防止手段を有するもの［６］",
+      "en": "with means for preventing fogging",
+      "count": 831,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B1/267": {
+      "code": "A61B1/267",
+      "level": 1,
+      "parent": "A61B1/00",
+      "ja": "呼吸系統用，例．喉頭鏡，気管支鏡［６］",
+      "en": "for the respiratory tract, e.g. laryngoscopes or bronchoscopes",
+      "count": 9407,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B1/273": {
+      "code": "A61B1/273",
+      "level": 1,
+      "parent": "A61B1/00",
+      "ja": "上部消化管用，例．食道鏡，胃鏡［６］",
+      "en": "for the upper alimentary canal, e.g. oesophagoscopes or gastroscopes",
+      "count": 6947,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B1/303": {
+      "code": "A61B1/303",
+      "level": 1,
+      "parent": "A61B1/00",
+      "ja": "腟用，すなわち，腟鏡［６］",
+      "en": "for the vagina, i.e. vaginoscopes",
+      "count": 4865,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B1/307": {
+      "code": "A61B1/307",
+      "level": 1,
+      "parent": "A61B1/00",
+      "ja": "泌尿器官用，例．尿道鏡，膀胱鏡［６］",
+      "en": "for the urinary organs, e.g. urethroscopes or cystoscopes",
+      "count": 3190,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B1/31": {
+      "code": "A61B1/31",
+      "level": 1,
+      "parent": "A61B1/00",
+      "ja": "直腸用，例．肛門鏡，Ｓ状結腸鏡［６］",
+      "en": "for the rectum, e.g. proctoscopes or sigmoidoscopes",
+      "count": 4747,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B1/313": {
+      "code": "A61B1/313",
+      "level": 1,
+      "parent": "A61B1/00",
+      "ja": "切開口から導入するもの，例．腹腔鏡［６］",
+      "en": "for introducing through surgical openings, e.g. laparoscopes",
+      "count": 5476,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B1/317": {
+      "code": "A61B1/317",
+      "level": 2,
+      "parent": "A61B1/313",
+      "ja": "骨または関節用，例．骨鏡，関節鏡［６］",
+      "en": "for bones or joints, e.g. osteoscopes or arthroscopes",
+      "count": 1398,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B1/32": {
+      "code": "A61B1/32",
+      "level": 1,
+      "parent": "A61B1/00",
+      "ja": "視界の開放または拡大用具，例．人体の管部に適用するもの［２００６．０１］",
+      "en": "Devices for opening or enlarging the visual field, e.g. of a tube of the body",
+      "count": 6802,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B3/00": {
+      "code": "A61B3/00",
+      "level": 0,
+      "parent": "A61B",
+      "ja": "眼の検査装置；眼の診察機器（超音波，音波または亜音波を用いる眼の診察機器８／１０；光学系それ自体Ｇ０２Ｂ）［２００６．０１］",
+      "en": "Apparatus for testing the eyes; Instruments for examining the eyes(eye inspection using ultrasonic, sonic or infrasonic waves <b>A61B8/10</b>)",
+      "count": 12230,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B3/02": {
+      "code": "A61B3/02",
+      "level": 1,
+      "parent": "A61B3/00",
+      "ja": "患者の陳述に従って調節することのできる検査装置，例．視野測定のためのもの［２００６．０１］",
+      "en": "Subjective types, i.e. testing apparatus requiring the active assistance of the patient",
+      "count": 2867,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B3/024": {
+      "code": "A61B3/024",
+      "level": 2,
+      "parent": "A61B3/02",
+      "ja": "視野を定めるためのもの，例．視野計型［２００６．０１］",
+      "en": "for determining the visual field, e.g. perimeter types",
+      "count": 1509,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B3/028": {
+      "code": "A61B3/028",
+      "level": 2,
+      "parent": "A61B3/02",
+      "ja": "視力検査のためのもの；目の屈折力測定のためのもの，例．フォロプター［２００６．０１］",
+      "en": "for testing visual acuity; for determination of refraction, e.g. phoropters",
+      "count": 2571,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B3/032": {
+      "code": "A61B3/032",
+      "level": 3,
+      "parent": "A61B3/028",
+      "ja": "検査記号または文字表示装置，例．検査図表投影器（Ａ６１Ｂ３／０３６が優先）［２００６．０１］",
+      "en": "Devices for presenting test symbols or characters, e.g. test chart projectors(<b>A61B3/036</b> takes precedence)",
+      "count": 3558,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B3/036": {
+      "code": "A61B3/036",
+      "level": 3,
+      "parent": "A61B3/028",
+      "ja": "乱視検査のためのもの［２００６．０１］",
+      "en": "for testing astigmatism",
+      "count": 512,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B3/04": {
+      "code": "A61B3/04",
+      "level": 3,
+      "parent": "A61B3/028",
+      "ja": "検査用わく；それと共に使用するレンズセット［２００６．０１］",
+      "en": "Trial frames; Sets of lenses for use therewith",
+      "count": 920,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B3/06": {
+      "code": "A61B3/06",
+      "level": 2,
+      "parent": "A61B3/02",
+      "ja": "光感度検査，例．順応；色覚検査［２００６．０１］",
+      "en": "for testing light sensitivity, e.g. adaptation; for testing colour vision",
+      "count": 1473,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B3/08": {
+      "code": "A61B3/08",
+      "level": 2,
+      "parent": "A61B3/02",
+      "ja": "双眼視または立体映像検査，例．斜視［２００６．０１］",
+      "en": "for testing binocular or stereoscopic vision, e.g. strabismus",
+      "count": 1397,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B3/09": {
+      "code": "A61B3/09",
+      "level": 2,
+      "parent": "A61B3/02",
+      "ja": "視力調節検査［２００６．０１］",
+      "en": "for testing accommodation",
+      "count": 552,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B3/10": {
+      "code": "A61B3/10",
+      "level": 1,
+      "parent": "A61B3/00",
+      "ja": "客観型，すなわち患者の知覚または反応と無関係に眼を検査する装置［２００６．０１］",
+      "en": "Objective types, i.e. instruments for examining the eyes independent of the patients perceptions or reactions",
+      "count": 14734,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B3/103": {
+      "code": "A61B3/103",
+      "level": 2,
+      "parent": "A61B3/10",
+      "ja": "屈折力測定のためのもの，例．レフラクトメータ，検影器［２００６．０１］",
+      "en": "for determining refraction, e.g. refractometers or skiascopes",
+      "count": 3453,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B3/107": {
+      "code": "A61B3/107",
+      "level": 2,
+      "parent": "A61B3/10",
+      "ja": "角膜の形状の決定または曲率の計測のためのもの［２００６．０１］",
+      "en": "for determining the shape or measuring the curvature of the cornea",
+      "count": 2165,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B3/11": {
+      "code": "A61B3/11",
+      "level": 2,
+      "parent": "A61B3/10",
+      "ja": "瞳孔間距離または瞳孔径を計測するためのもの［２００６．０１］",
+      "en": "for measuring interpupillary distance or diameter of pupils",
+      "count": 3082,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B3/113": {
+      "code": "A61B3/113",
+      "level": 2,
+      "parent": "A61B3/10",
+      "ja": "眼の動きを測定または記録するためのもの［２００６．０１］",
+      "en": "for determining or recording eye movement",
+      "count": 6582,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B3/117": {
+      "code": "A61B3/117",
+      "level": 2,
+      "parent": "A61B3/10",
+      "ja": "前房，前房隅角の検査のためのもの，例．ゴニオスコープ［２００６．０１］",
+      "en": "for examining the anterior chamber or the anterior chamber angle, e.g. gonioscopes",
+      "count": 1057,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B3/12": {
+      "code": "A61B3/12",
+      "level": 2,
+      "parent": "A61B3/10",
+      "ja": "眼底観察のためのもの，例．検眼鏡（Ａ６１Ｂ３／１３が優先）［２００６．０１］",
+      "en": "for looking at the eye fundus, e.g. ophthalmoscopes(<b>A61B3/13</b> takes precedence)",
+      "count": 8060,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B3/125": {
+      "code": "A61B3/125",
+      "level": 3,
+      "parent": "A61B3/12",
+      "ja": "コンタクトレンズのあるもの［２００６．０１］",
+      "en": "with contact lenses",
+      "count": 330,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B3/13": {
+      "code": "A61B3/13",
+      "level": 2,
+      "parent": "A61B3/10",
+      "ja": "眼の顕微鏡［２００６．０１］",
+      "en": "Ophthalmic microscopes",
+      "count": 1620,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B3/135": {
+      "code": "A61B3/135",
+      "level": 3,
+      "parent": "A61B3/13",
+      "ja": "スリットランプ顕微鏡［２００６．０１］",
+      "en": "Slit-lamp microscopes",
+      "count": 1463,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B3/14": {
+      "code": "A61B3/14",
+      "level": 2,
+      "parent": "A61B3/10",
+      "ja": "眼の写真撮影用に特に適合した装置［２００６．０１］",
+      "en": "Arrangements specially adapted for eye photography",
+      "count": 11338,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B3/15": {
+      "code": "A61B3/15",
+      "level": 3,
+      "parent": "A61B3/14",
+      "ja": "アライメント，間隔調整，または不要反射除去のための手段があるもの［２００６．０１］",
+      "en": "with means for aligning, spacing or blocking spurious reflection",
+      "count": 1706,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B3/16": {
+      "code": "A61B3/16",
+      "level": 2,
+      "parent": "A61B3/10",
+      "ja": "眼圧を測定するためのもの，例．眼圧計［２００６．０１］",
+      "en": "for measuring intraocular pressure, e.g. tonometers",
+      "count": 2797,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B3/18": {
+      "code": "A61B3/18",
+      "level": 1,
+      "parent": "A61B3/00",
+      "ja": "複数の眼科検査装置または試験装置の配置［２００６．０１］",
+      "en": "Arrangement of plural eye-testing or -examining apparatus",
+      "count": 849,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/00": {
+      "code": "A61B5/00",
+      "level": 0,
+      "parent": "A61B",
+      "ja": "診断目的のための測定（放射線診断Ａ６１Ｂ６／００；超音波，音波または亜音波による診断Ａ６１Ｂ８／００）；個人識別［２００６．０１］<br><br><b><ul>注</ul></b><br>注［７］<br>このグループにおいては，下記の用語は以下に示す意味で用いる：<br>・“測定”には検出または記録も含まれる。",
+      "en": "Measuring for diagnostic purposes  (radiation diagnosis <b>A61B6/00</b>;   diagnosis by ultrasonic, sonic or infrasonic waves <b>A61B8/00</b>);Identification of persons; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this group, the following term is used with the meaning indicated:<ul><li>\"measuring\" <u>covers</u> also detecting or recording.</li></ul></li></ul>",
+      "count": 214478,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/01": {
+      "code": "A61B5/01",
+      "level": 1,
+      "parent": "A61B5/00",
+      "ja": "人体部分の温度測定（接触型体温計Ｇ０１Ｋ１３／２０）［２００６．０１］",
+      "en": "Measuring temperature of body parts (clinical contact thermometers <b>G01K13/20</b>)",
+      "count": 26548,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/02": {
+      "code": "A61B5/02",
+      "level": 1,
+      "parent": "A61B5/00",
+      "ja": "心臓血管系を評価するための検出，測定または記録，例．脈拍，心拍，血圧または血流［２００６．０１］",
+      "en": "Detecting, measuring or recording for evaluating the cardiovascular system, e.g. pulse, heart rate, blood pressure or blood flow",
+      "count": 30361,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/0205": {
+      "code": "A61B5/0205",
+      "level": 2,
+      "parent": "A61B5/02",
+      "ja": "心臓血管の状態と人体状態の種々の型の両方を同時に評価するもの，例．心臓と呼吸状態［５］",
+      "en": "Simultaneously evaluating both cardiovascular conditions and different types of body conditions, e.g. heart and respiratory condition",
+      "count": 31800,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/021": {
+      "code": "A61B5/021",
+      "level": 2,
+      "parent": "A61B5/02",
+      "ja": "心臓または血管内の圧力を測定するもの［２００６．０１］",
+      "en": "Measuring pressure in heart or blood vessels ",
+      "count": 15341,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/0215": {
+      "code": "A61B5/0215",
+      "level": 3,
+      "parent": "A61B5/021",
+      "ja": "人体に挿入された手段によるもの［５］",
+      "en": "by means inserted into the body",
+      "count": 5465,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/022": {
+      "code": "A61B5/022",
+      "level": 3,
+      "parent": "A61B5/021",
+      "ja": "血管をふさぐための圧力を適用するもの，例．皮膚に対するもの；眼底血圧計［５］",
+      "en": "by applying pressure to close blood vessels, e.g. against the skin; Ophthaldynamometers",
+      "count": 12372,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/0225": {
+      "code": "A61B5/0225",
+      "level": 4,
+      "parent": "A61B5/022",
+      "ja": "圧力が電気信号によって制御されるもの，例．コロトコフ音から導き出された電気信号［５］",
+      "en": "the pressure being controlled by electric signals, e.g. derived from Korotkoff sounds",
+      "count": 4240,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/023": {
+      "code": "A61B5/023",
+      "level": 4,
+      "parent": "A61B5/022",
+      "ja": "液体柱からなる圧力変換器［５］",
+      "en": "the pressure transducers comprising a liquid column",
+      "count": 431,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/0235": {
+      "code": "A61B5/0235",
+      "level": 4,
+      "parent": "A61B5/022",
+      "ja": "そのために特に適合した弁［５］",
+      "en": "Valves specially adapted therefor",
+      "count": 663,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/024": {
+      "code": "A61B5/024",
+      "level": 2,
+      "parent": "A61B5/02",
+      "ja": "脈拍または心拍を測定するもの［２００６．０１］",
+      "en": "Measuring pulse rate or heart rate",
+      "count": 27614,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/0245": {
+      "code": "A61B5/0245",
+      "level": 3,
+      "parent": "A61B5/024",
+      "ja": "電気信号を発生する検知手段を用いるもの［５］",
+      "en": "using sensing means generating electric signals",
+      "count": 11385,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/025": {
+      "code": "A61B5/025",
+      "level": 4,
+      "parent": "A61B5/0245",
+      "ja": "閉塞器の内部にあるもの，例．コロトコフ音に感応するもの［５］",
+      "en": "within occluders, e.g. responsive to Korotkoff sounds",
+      "count": 384,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/0255": {
+      "code": "A61B5/0255",
+      "level": 3,
+      "parent": "A61B5/024",
+      "ja": "そのために特に適合した記録機器［５］",
+      "en": "Recording instruments specially adapted therefor",
+      "count": 495,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/026": {
+      "code": "A61B5/026",
+      "level": 2,
+      "parent": "A61B5/02",
+      "ja": "血流を測定するもの［５］",
+      "en": "Measuring blood flow",
+      "count": 8271,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/0265": {
+      "code": "A61B5/0265",
+      "level": 3,
+      "parent": "A61B5/026",
+      "ja": "電磁手段を用いるもの，例．電磁流量計［５］",
+      "en": "using electromagnetic means, e.g. electromagnetic flow meter",
+      "count": 482,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/027": {
+      "code": "A61B5/027",
+      "level": 4,
+      "parent": "A61B5/0265",
+      "ja": "カテーテルを用いるもの［５］",
+      "en": "using catheters",
+      "count": 302,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/0275": {
+      "code": "A61B5/0275",
+      "level": 3,
+      "parent": "A61B5/026",
+      "ja": "追跡子を用いるもの，例．染料希釈［５］",
+      "en": "using tracers, e.g. dye dilution",
+      "count": 598,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/028": {
+      "code": "A61B5/028",
+      "level": 4,
+      "parent": "A61B5/0275",
+      "ja": "熱希釈によるもの［５］",
+      "en": "by thermo-dilution",
+      "count": 442,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/0285": {
+      "code": "A61B5/0285",
+      "level": 3,
+      "parent": "A61B5/026",
+      "ja": "血液波動の位相速度を測定するもの［５］",
+      "en": "Measuring phase velocity of blood waves",
+      "count": 1338,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/029": {
+      "code": "A61B5/029",
+      "level": 3,
+      "parent": "A61B5/026",
+      "ja": "心臓からの血液拍出量，例．毎分の容積，を測定するもの",
+      "en": "Measuring blood output from the heart, e.g. minute volume",
+      "count": 1346,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/0295": {
+      "code": "A61B5/0295",
+      "level": 3,
+      "parent": "A61B5/026",
+      "ja": "プレチスモグラフィを用いるもの，すなわち通過する血液の循環によって変更されるような人体部分の容積の変化を測定するもの，例．インピーダンスプレチスモグラフィ",
+      "en": "using plethysmography, i.e. measuring the variations in the volume of a body part as modified by the circulation of blood therethrough, e.g. impedance plethysmography",
+      "count": 1663,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/03": {
+      "code": "A61B5/03",
+      "level": 1,
+      "parent": "A61B5/00",
+      "ja": "血圧を除く人体内の流体圧力の測定，例．脳圧（流体圧力の測定Ｇ０１Ｌ）［４］",
+      "en": "Measuring fluid pressure within the body other than blood pressure, e.g. cerebral pressure",
+      "count": 5374,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/05": {
+      "code": "A61B5/05",
+      "level": 1,
+      "parent": "A61B5/00",
+      "ja": "電流または磁場による診断のための検出，測定または記録；マイクロ波または電波を用いる測定（インピーダンスプレチスモグラフィＡ６１Ｂ５／０２９５；身体全体またはその部分の動きを測定するものＡ６１Ｂ５／１１；身体またはその部分の生体電気信号または生体磁気信号の検出，測定または記録Ａ６１Ｂ５／２４）［２０２１．０１］",
+      "en": "Detecting, measuring or recording for diagnosis by means of electric currents or magnetic fields; Measuring using microwaves or radio waves(measuring movement of the entire body or parts thereof <b>A61B5/11</b>; detecting, measuring or recording bioelectric or biomagnetic signals of the body or parts thereof <b>A61B5/24</b>)",
+      "count": 17302,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/0507": {
+      "code": "A61B5/0507",
+      "level": 2,
+      "parent": "A61B5/05",
+      "ja": "マイクロ波またはテラヘルツ波を用いるもの［２０２１．０１］",
+      "en": "using microwaves or terahertz waves",
+      "count": 1468,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/0515": {
+      "code": "A61B5/0515",
+      "level": 2,
+      "parent": "A61B5/05",
+      "ja": "磁気粒子イメージング［２０２１．０１］",
+      "en": "Magnetic particle imaging",
+      "count": 264,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/0522": {
+      "code": "A61B5/0522",
+      "level": 2,
+      "parent": "A61B5/05",
+      "ja": "磁気誘導トモグラフィ［２０２１．０１］",
+      "en": "Magnetic induction tomography",
+      "count": 77,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/053": {
+      "code": "A61B5/053",
+      "level": 2,
+      "parent": "A61B5/05",
+      "ja": "身体の一部分の電気インピーダンスまたはコンダクタンスを測定するもの［２０２１．０１］",
+      "en": "Measuring electrical impedance or conductance of a portion of the body",
+      "count": 9562,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/0531": {
+      "code": "A61B5/0531",
+      "level": 3,
+      "parent": "A61B5/053",
+      "ja": "皮膚インピーダンスを測定するもの［２０２１．０１］",
+      "en": "Measuring skin impedance",
+      "count": 1444,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/0532": {
+      "code": "A61B5/0532",
+      "level": 4,
+      "parent": "A61B5/0531",
+      "ja": "鍼灸に特に適合したもの［２０２１．０１］",
+      "en": "specially adapted for acupuncture or moxibustion",
+      "count": 197,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/0533": {
+      "code": "A61B5/0533",
+      "level": 4,
+      "parent": "A61B5/0531",
+      "ja": "ガルヴァニック皮膚反応を測定するもの［２０２１．０１］",
+      "en": "Measuring galvanic skin response",
+      "count": 882,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/0534": {
+      "code": "A61B5/0534",
+      "level": 3,
+      "parent": "A61B5/053",
+      "ja": "歯のバイタリティテストのためのもの［２０２１．０１］",
+      "en": "for testing vitality of teeth",
+      "count": 33,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/0535": {
+      "code": "A61B5/0535",
+      "level": 3,
+      "parent": "A61B5/053",
+      "ja": "インピーダンスプレチスモグラフィ（血流量を測定するためのものＡ６１Ｂ５／０２９５）［２０２１．０１］",
+      "en": "Impedance plethysmography(for measuring blood flow <b>A61B5/0295</b>)",
+      "count": 192,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/0536": {
+      "code": "A61B5/0536",
+      "level": 3,
+      "parent": "A61B5/053",
+      "ja": "インピーダンスイメージング，例．トモグラフィによるもの［２０２１．０１］",
+      "en": "Impedance imaging, e.g. by tomography",
+      "count": 741,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/0537": {
+      "code": "A61B5/0537",
+      "level": 3,
+      "parent": "A61B5/053",
+      "ja": "インピーダンスにより体組成を測定するもの，例．組織の水和または脂肪含有量［２０２１．０１］",
+      "en": "Measuring body composition by impedance, e.g. tissue hydration or fat content",
+      "count": 1462,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/0538": {
+      "code": "A61B5/0538",
+      "level": 3,
+      "parent": "A61B5/053",
+      "ja": "侵襲的，例．カテーテルを用いるもの［２０２１．０１］",
+      "en": "invasively, e.g. using a catheter",
+      "count": 744,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/055": {
+      "code": "A61B5/055",
+      "level": 2,
+      "parent": "A61B5/05",
+      "ja": "電子［ＥＭＲ］または核［ＮＭＲ］の磁気共鳴を含むもの，例．磁気共鳴イメージング",
+      "en": "involving electronic [EMR] or nuclear [NMR] magnetic resonance, e.g. magnetic resonance imaging",
+      "count": 44625,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/06": {
+      "code": "A61B5/06",
+      "level": 1,
+      "parent": "A61B5/00",
+      "ja": "放射線を用いずに異物を検出または探知するための用具［２００６．０１］",
+      "en": "Devices, other than using radiation, for detecting or locating foreign bodies",
+      "count": 6116,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/07": {
+      "code": "A61B5/07",
+      "level": 1,
+      "parent": "A61B5/00",
+      "ja": "内部ラジオゾンデ",
+      "en": "Endoradiosondes",
+      "count": 4033,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/08": {
+      "code": "A61B5/08",
+      "level": 1,
+      "parent": "A61B5/00",
+      "ja": "呼吸器官評価用の測定用装置［２００６．０１］",
+      "en": "Measuring devices for evaluating the respiratory organs ",
+      "count": 21668,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/083": {
+      "code": "A61B5/083",
+      "level": 2,
+      "parent": "A61B5/08",
+      "ja": "呼吸検査を用いることにより代謝率を測定するもの，例．酸素消費率を測定するもの［５］",
+      "en": "Measuring rate of metabolism by using breath test, e.g. measuring rate of oxygen consumption",
+      "count": 2470,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/085": {
+      "code": "A61B5/085",
+      "level": 2,
+      "parent": "A61B5/08",
+      "ja": "呼吸器抵抗または肺弾性を測定するもの［５］",
+      "en": "Measuring impedance of respiratory organs or lung elasticity",
+      "count": 890,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/087": {
+      "code": "A61B5/087",
+      "level": 2,
+      "parent": "A61B5/08",
+      "ja": "呼吸流量を測定するもの［５］",
+      "en": "Measuring breath flow",
+      "count": 4185,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/09": {
+      "code": "A61B5/09",
+      "level": 3,
+      "parent": "A61B5/087",
+      "ja": "流れにより回転する部材を用いるもの［５］",
+      "en": "using an element rotated by the flow",
+      "count": 244,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/091": {
+      "code": "A61B5/091",
+      "level": 2,
+      "parent": "A61B5/08",
+      "ja": "吸入または吐出したガスの量を測定するもの，例．肺活量を決定するためのもの［５］",
+      "en": "Measuring volume of inspired or expired gases, e.g. to determine lung capacity",
+      "count": 2220,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/093": {
+      "code": "A61B5/093",
+      "level": 3,
+      "parent": "A61B5/091",
+      "ja": "拡開可能な室，例．ベローまたは膨脹可能なバッグ，に吐出したガス，またはそれから吸入したガスの測定［５］",
+      "en": "the gases being exhaled into, or inhaled from, an expansible chamber, e.g. bellows or expansible bag",
+      "count": 254,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/095": {
+      "code": "A61B5/095",
+      "level": 4,
+      "parent": "A61B5/093",
+      "ja": "堅い容器内にガスを出し入れするもの，例．液体表面により形成される境界をもつもの［５］",
+      "en": "within a rigid container, e.g. the boundary being formed by a liquid surface",
+      "count": 103,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/097": {
+      "code": "A61B5/097",
+      "level": 2,
+      "parent": "A61B5/08",
+      "ja": "息の収集を容易にするためまたは息を測定装置に導くための用具［５］",
+      "en": "Devices for facilitating collection of breath or for directing breath into or through measuring devices",
+      "count": 2495,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/103": {
+      "code": "A61B5/103",
+      "level": 1,
+      "parent": "A61B5/00",
+      "ja": "診断目的のため，身体またはその部分の形，型，大きさまたは動きを検査するための測定用装置（歯科用に特に適合した測定器Ａ６１Ｃ１９／０４）［２００６．０１］",
+      "en": "Measuring devices for testing the shape, pattern, size or movement of the body or parts thereof, for diagnostic purposes(measuring instruments specially adapted for dentistry <b>A61C19/04</b>)",
+      "count": 15042,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/107": {
+      "code": "A61B5/107",
+      "level": 2,
+      "parent": "A61B5/103",
+      "ja": "身体の寸法を測定するもの，例．身体全体またはその部分の大きさ［５］",
+      "en": "Measuring physical dimensions, e.g. size of the entire body or parts thereof",
+      "count": 22661,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/11": {
+      "code": "A61B5/11",
+      "level": 2,
+      "parent": "A61B5/103",
+      "ja": "身体全体またはその部分の動きを測定するもの，例．頭または手の震えまたは４肢の運動性［２００６．０１］",
+      "en": "Measuring movement of the entire body or parts thereof, e.g. head or hand tremor or mobility of a limb",
+      "count": 48292,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/113": {
+      "code": "A61B5/113",
+      "level": 3,
+      "parent": "A61B5/11",
+      "ja": "呼吸中に起るもの［５］",
+      "en": "occurring during breathing",
+      "count": 4075,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/117": {
+      "code": "A61B5/117",
+      "level": 1,
+      "parent": "A61B5/00",
+      "ja": "個人の識別（パターンを認識するための方法または装置，例．指紋，Ｇ０６Ｆ１８／００，Ｇ０６Ｋ４０／００；音声または話し方の解析による個人の識別Ｇ１０Ｌ１７／００）［２０１６．０１］",
+      "en": "Identification of persons(methods or arrangements for recognising patterns, e.g. fingerprints, <b>G06F18/00</b>, <b>G06V40/00</b>; identification of persons by analysing their voice or speech <b>G10L17/00</b>)",
+      "count": 7849,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/1171": {
+      "code": "A61B5/1171",
+      "level": 2,
+      "parent": "A61B5/117",
+      "ja": "身体またはその部分の形状または外観に基づくもの［２０１６．０１］",
+      "en": "based on the shapes or appearances of their bodies or parts thereof",
+      "count": 2188,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/1172": {
+      "code": "A61B5/1172",
+      "level": 3,
+      "parent": "A61B5/1171",
+      "ja": "指紋を利用するもの［２０１６．０１］",
+      "en": "using fingerprinting",
+      "count": 2495,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/1174": {
+      "code": "A61B5/1174",
+      "level": 3,
+      "parent": "A61B5/1171",
+      "ja": "足跡を利用するもの［２０１６．０１］",
+      "en": "using footprinting",
+      "count": 200,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/1178": {
+      "code": "A61B5/1178",
+      "level": 3,
+      "parent": "A61B5/1171",
+      "ja": "歯のデータを利用するもの［２０１６．０１］",
+      "en": "using dental data",
+      "count": 33,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/12": {
+      "code": "A61B5/12",
+      "level": 1,
+      "parent": "A61B5/00",
+      "ja": "聴力計",
+      "en": "Audiometering",
+      "count": 3842,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/145": {
+      "code": "A61B5/145",
+      "level": 1,
+      "parent": "A61B5/00",
+      "ja": "生体内の血液特性の測定，例．ガス濃度またはｐＨ値（血液中の異物の放射線を用いない検出または検知Ａ６１Ｂ５／０６）［２００６．０１］",
+      "en": "Measuring characteristics of blood <u>in vivo</u>, e.g. gas concentration or pH-value (non-radiation detecting or locating of foreign bodies in blood <b>A61B5/06</b>)",
+      "count": 29190,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/1455": {
+      "code": "A61B5/1455",
+      "level": 2,
+      "parent": "A61B5/145",
+      "ja": "光センサーを使用するもの，例．分光光度酸素濃度計［８］",
+      "en": "using optical sensors, e.g. spectral photometrical oximeters",
+      "count": 19178,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/1459": {
+      "code": "A61B5/1459",
+      "level": 3,
+      "parent": "A61B5/1455",
+      "ja": "侵襲型，例．カテーテルにより人体に挿入するもの［８］",
+      "en": "invasive, e.g. introduced into the body by a catheter",
+      "count": 1859,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/1464": {
+      "code": "A61B5/1464",
+      "level": 3,
+      "parent": "A61B5/1455",
+      "ja": "胎児組織に特に適したもの［８］",
+      "en": "specially adapted for foetal tissue",
+      "count": 130,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/1468": {
+      "code": "A61B5/1468",
+      "level": 2,
+      "parent": "A61B5/145",
+      "ja": "化学的または電気化学的方法を使用したもの，例．ポーラログラフによる手段［８］",
+      "en": "using chemical or electrochemical methods, e.g. by polarographic means",
+      "count": 1144,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/1473": {
+      "code": "A61B5/1473",
+      "level": 3,
+      "parent": "A61B5/1468",
+      "ja": "侵襲型，例．カテーテルにより人体に挿入するもの［８］",
+      "en": "invasive, e.g. introduced into the body by a catheter",
+      "count": 2697,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/1477": {
+      "code": "A61B5/1477",
+      "level": 3,
+      "parent": "A61B5/1468",
+      "ja": "非侵襲型［８］",
+      "en": "non-invasive",
+      "count": 1296,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/1482": {
+      "code": "A61B5/1482",
+      "level": 3,
+      "parent": "A61B5/1468",
+      "ja": "胎児の組織に特に適したもの［８］",
+      "en": "specially adapted for foetal tissue",
+      "count": 22,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/1486": {
+      "code": "A61B5/1486",
+      "level": 3,
+      "parent": "A61B5/1468",
+      "ja": "酵素電極を使用するもの，例．固定化されたオキシダーゼを伴うもの［２００６．０１］",
+      "en": "using enzyme electrodes, e.g. with immobilised oxidase",
+      "count": 2349,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/1491": {
+      "code": "A61B5/1491",
+      "level": 2,
+      "parent": "A61B5/145",
+      "ja": "加熱機構を有するもの［８］",
+      "en": "Heated applicators",
+      "count": 233,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/1495": {
+      "code": "A61B5/1495",
+      "level": 2,
+      "parent": "A61B5/145",
+      "ja": "生体プローブの較正または試験［８］",
+      "en": "Calibrating or testing <u>in vivo</u> probes",
+      "count": 1401,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/15": {
+      "code": "A61B5/15",
+      "level": 1,
+      "parent": "A61B5/00",
+      "ja": "血液試料を採取するための装置［２００６．０１］",
+      "en": "Devices for taking samples of blood",
+      "count": 14784,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/151": {
+      "code": "A61B5/151",
+      "level": 2,
+      "parent": "A61B5/15",
+      "ja": "毛細管血のサンプル採取に特に適しているもの，例．ランセットによるもの［８］",
+      "en": "specially adapted for taking samples of capillary blood, e.g. by lancets",
+      "count": 4780,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/153": {
+      "code": "A61B5/153",
+      "level": 2,
+      "parent": "A61B5/15",
+      "ja": "静脈血または動脈血のサンプル採取に特に適しているもの，例．注射器によるもの［８］",
+      "en": "specially adapted for taking samples of venous or arterial blood, e.g. by syringes",
+      "count": 7378,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/154": {
+      "code": "A61B5/154",
+      "level": 3,
+      "parent": "A61B5/153",
+      "ja": "真空採血手段を使用するもの［８］",
+      "en": "using pre-evacuated means",
+      "count": 3557,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/155": {
+      "code": "A61B5/155",
+      "level": 2,
+      "parent": "A61B5/15",
+      "ja": "連続または複数のサンプル採取に特に適しているもの，例．事前に決められた間隔をあけて［７］",
+      "en": "specially adapted for continuous or multiple sampling, e.g. at predetermined intervals",
+      "count": 1151,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/157": {
+      "code": "A61B5/157",
+      "level": 2,
+      "parent": "A61B5/15",
+      "ja": "血液特性を測定するための手段と結合されたことに特徴があるもの［８］",
+      "en": "characterised by integrated means for measuring characteristics of blood",
+      "count": 2366,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/16": {
+      "code": "A61B5/16",
+      "level": 1,
+      "parent": "A61B5/00",
+      "ja": "心理検査のための用具（教習または教育用具の使用Ｇ０９Ｂ１／００～Ｇ０９Ｂ７／００）；反応時間の検査",
+      "en": "Devices for psychotechnics(using teaching or educational appliances <b>G09B1/00 to G09B7/00</b> );Testing reaction times",
+      "count": 23650,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/18": {
+      "code": "A61B5/18",
+      "level": 2,
+      "parent": "A61B5/16",
+      "ja": "車両運転者のためのもの",
+      "en": "for vehicle drivers",
+      "count": 5475,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/20": {
+      "code": "A61B5/20",
+      "level": 1,
+      "parent": "A61B5/00",
+      "ja": "泌尿器機能の検査［４］",
+      "en": "Measuring urological functions",
+      "count": 4944,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/22": {
+      "code": "A61B5/22",
+      "level": 1,
+      "parent": "A61B5/00",
+      "ja": "筋肉の仕事量の測定；筋肉の強さまたは筋肉による打撃力の測定［４］",
+      "en": "Ergometry; Measuring muscular strength or the force of a muscular blow",
+      "count": 9556,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/24": {
+      "code": "A61B5/24",
+      "level": 1,
+      "parent": "A61B5/00",
+      "ja": "身体またはその部分の生体電気信号または生体磁気信号の検出，測定または記録［２０２１．０１］",
+      "en": "Detecting, measuring or recording bioelectric or biomagnetic signals of the body or parts thereof",
+      "count": 2891,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/242": {
+      "code": "A61B5/242",
+      "level": 2,
+      "parent": "A61B5/24",
+      "ja": "生体磁場の検出，例．生体電流により生成された磁場［２０２１．０１］",
+      "en": "Detecting biomagnetic fields, e.g. magnetic fields produced by bioelectric currents",
+      "count": 200,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/243": {
+      "code": "A61B5/243",
+      "level": 3,
+      "parent": "A61B5/242",
+      "ja": "心磁計［ＭＣＧ］の信号に特に適合したもの［２０２１．０１］",
+      "en": "specially adapted for magnetocardiographic [MCG] signals",
+      "count": 295,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/245": {
+      "code": "A61B5/245",
+      "level": 3,
+      "parent": "A61B5/242",
+      "ja": "脳磁計［ＭＥＧ］の信号に特に適合したもの［２０２１．０１］",
+      "en": "specially adapted for magnetoencephalographic [MEG] signals",
+      "count": 516,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/246": {
+      "code": "A61B5/246",
+      "level": 4,
+      "parent": "A61B5/245",
+      "ja": "誘発反応を用いるもの［２０２１．０１］",
+      "en": "using evoked responses",
+      "count": 101,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/248": {
+      "code": "A61B5/248",
+      "level": 3,
+      "parent": "A61B5/242",
+      "ja": "神経磁界計測［ＭＮＧ］の信号に特に適合したもの，例．脊磁計［ＭＳＧ］の信号［２０２１．０１］",
+      "en": "specially adapted for magnetoneurographic [MNG] signals, e.g. magnetospinographic [MSG] signals",
+      "count": 54,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/25": {
+      "code": "A61B5/25",
+      "level": 2,
+      "parent": "A61B5/24",
+      "ja": "そのための生体電気用電極［２０２１．０１］",
+      "en": "Bioelectric electrodes therefor",
+      "count": 1258,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/251": {
+      "code": "A61B5/251",
+      "level": 3,
+      "parent": "A61B5/25",
+      "ja": "電極と身体との接触を維持するための手段［２０２１．０１］",
+      "en": "Means for maintaining electrode contact with the body",
+      "count": 311,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/252": {
+      "code": "A61B5/252",
+      "level": 4,
+      "parent": "A61B5/251",
+      "ja": "吸着によるもの［２０２１．０１］",
+      "en": "by suction",
+      "count": 261,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/254": {
+      "code": "A61B5/254",
+      "level": 4,
+      "parent": "A61B5/251",
+      "ja": "クリップによるもの［２０２１．０１］",
+      "en": "by clips",
+      "count": 143,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/256": {
+      "code": "A61B5/256",
+      "level": 4,
+      "parent": "A61B5/251",
+      "ja": "ウェアラブル電極，例．ストラップまたはバンドを備えたもの［２０２１．０１］",
+      "en": "Wearable electrodes, e.g. having straps or bands",
+      "count": 3485,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/257": {
+      "code": "A61B5/257",
+      "level": 4,
+      "parent": "A61B5/251",
+      "ja": "粘着手段を用いるもの，例．粘着パッドまたは粘着テープ［２０２１．０１］",
+      "en": "using adhesive means, e.g. adhesive pads or tapes",
+      "count": 1034,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/259": {
+      "code": "A61B5/259",
+      "level": 5,
+      "parent": "A61B5/257",
+      "ja": "導電性粘着手段を用いるもの，例．ゲル［２０２１．０１］",
+      "en": "using conductive adhesive means, e.g. gels",
+      "count": 848,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/26": {
+      "code": "A61B5/26",
+      "level": 3,
+      "parent": "A61B5/25",
+      "ja": "被験者の動作によって身体と電極との接触を維持するもの，例．電極に身体を載置することによるものまたは電極を把持することによるもの［２０２１．０１］",
+      "en": "maintaining contact between the body and the electrodes by the action of the subjects, e.g. by placing the body on the electrodes or by grasping the electrodes",
+      "count": 253,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/262": {
+      "code": "A61B5/262",
+      "level": 3,
+      "parent": "A61B5/25",
+      "ja": "針電極［２０２１．０１］",
+      "en": "Needle electrodes",
+      "count": 416,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/263": {
+      "code": "A61B5/263",
+      "level": 3,
+      "parent": "A61B5/25",
+      "ja": "電極の材料に特徴のあるもの［２０２１．０１］",
+      "en": "characterised by the electrode materials",
+      "count": 973,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/265": {
+      "code": "A61B5/265",
+      "level": 4,
+      "parent": "A61B5/263",
+      "ja": "銀または塩化銀を含むもの［２０２１．０１］",
+      "en": "containing silver or silver chloride",
+      "count": 535,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/266": {
+      "code": "A61B5/266",
+      "level": 4,
+      "parent": "A61B5/263",
+      "ja": "電解質，導電性ゲルまたは導電性ペーストを含むもの［２０２１．０１］",
+      "en": "containing electrolytes, conductive gels or pastes",
+      "count": 495,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/268": {
+      "code": "A61B5/268",
+      "level": 4,
+      "parent": "A61B5/263",
+      "ja": "導電性高分子を含むもの，例．ＰＥＤＯＴ：ＰＳＳポリマー［２０２１．０１］",
+      "en": "containing conductive polymers, e.g. PEDOT:PSS polymers",
+      "count": 646,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/27": {
+      "code": "A61B5/27",
+      "level": 4,
+      "parent": "A61B5/263",
+      "ja": "導電性布または導電性織物［２０２１．０１］",
+      "en": "Conductive fabrics or textiles",
+      "count": 331,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/271": {
+      "code": "A61B5/271",
+      "level": 3,
+      "parent": "A61B5/25",
+      "ja": "コード，ケーブルまたはリード線を有する電極装置，例．単一のリード線または患者コードアセンブリ［２０２１．０１］",
+      "en": "Arrangements of electrodes with cords, cables or leads, e.g. single leads or patient cord assemblies",
+      "count": 464,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/273": {
+      "code": "A61B5/273",
+      "level": 4,
+      "parent": "A61B5/271",
+      "ja": "コード，ケーブルまたはリード線の電極への接続［２０２１．０１］",
+      "en": "Connection of cords, cables or leads to electrodes",
+      "count": 680,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/274": {
+      "code": "A61B5/274",
+      "level": 5,
+      "parent": "A61B5/273",
+      "ja": "スナップファスナーまたはボタンファスナーを用いるもの［２０２１．０１］",
+      "en": "using snap or button fasteners",
+      "count": 565,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/276": {
+      "code": "A61B5/276",
+      "level": 3,
+      "parent": "A61B5/25",
+      "ja": "電極不良に対する保護［２０２１．０１］",
+      "en": "Protection against electrode failure",
+      "count": 601,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/277": {
+      "code": "A61B5/277",
+      "level": 3,
+      "parent": "A61B5/25",
+      "ja": "容量性電極［２０２１．０１］",
+      "en": "Capacitive electrodes",
+      "count": 93,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/279": {
+      "code": "A61B5/279",
+      "level": 3,
+      "parent": "A61B5/25",
+      "ja": "特定の用途に特に適合したもの［２０２１．０１］",
+      "en": "specially adapted for particular uses",
+      "count": 149,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/28": {
+      "code": "A61B5/28",
+      "level": 4,
+      "parent": "A61B5/279",
+      "ja": "心電図検査［ＥＣＧ］のためのもの［２０２１．０１］",
+      "en": "for electrocardiography [ECG]",
+      "count": 3128,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/282": {
+      "code": "A61B5/282",
+      "level": 5,
+      "parent": "A61B5/28",
+      "ja": "複数電極のためのホルダー（身体内に導入するためのものＡ６１Ｂ５／２８７）［２０２１．０１］",
+      "en": "Holders for multiple electrodes(for introduction into the body <b>A61B5/287</b>)",
+      "count": 1126,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/283": {
+      "code": "A61B5/283",
+      "level": 5,
+      "parent": "A61B5/28",
+      "ja": "侵襲的［２０２１．０１］",
+      "en": "Invasive",
+      "count": 861,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/285": {
+      "code": "A61B5/285",
+      "level": 6,
+      "parent": "A61B5/283",
+      "ja": "気管内，食道または胃のプローブ［２０２１．０１］",
+      "en": "Endotracheal, oesophageal or gastric probes",
+      "count": 47,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/287": {
+      "code": "A61B5/287",
+      "level": 6,
+      "parent": "A61B5/283",
+      "ja": "複数電極のためのホルダー，例．心臓電気生理学的検査［ＥＰＳ］のための電極カテーテル［２０２１．０１］",
+      "en": "Holders for multiple electrodes, e.g. electrode catheters for electrophysiological study [EPS]",
+      "count": 1072,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/288": {
+      "code": "A61B5/288",
+      "level": 6,
+      "parent": "A61B5/283",
+      "ja": "胎児心電図検査のためのもの，例．頭皮電極［２０２１．０１］",
+      "en": "for foetal cardiography, e.g. scalp electrodes",
+      "count": 308,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/29": {
+      "code": "A61B5/29",
+      "level": 6,
+      "parent": "A61B5/283",
+      "ja": "永久的または長期的な移植のためのもの［２０２１．０１］",
+      "en": "for permanent or long-term implantation",
+      "count": 139,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/291": {
+      "code": "A61B5/291",
+      "level": 4,
+      "parent": "A61B5/279",
+      "ja": "脳波検査［ＥＥＧ］のためのもの［２０２１．０１］",
+      "en": "for electroencephalography [EEG]",
+      "count": 3229,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/293": {
+      "code": "A61B5/293",
+      "level": 5,
+      "parent": "A61B5/291",
+      "ja": "侵襲的［２０２１．０１］",
+      "en": "Invasive",
+      "count": 916,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/294": {
+      "code": "A61B5/294",
+      "level": 4,
+      "parent": "A61B5/279",
+      "ja": "神経伝導検査［ＮＣＳ］のためのもの［２０２１．０１］",
+      "en": "for nerve conduction study [NCS]",
+      "count": 539,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/296": {
+      "code": "A61B5/296",
+      "level": 4,
+      "parent": "A61B5/279",
+      "ja": "筋電図検査［ＥＭＧ］のためのもの［２０２１．０１］",
+      "en": "for electromyography [EMG]",
+      "count": 4851,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/297": {
+      "code": "A61B5/297",
+      "level": 4,
+      "parent": "A61B5/279",
+      "ja": "眼電図検査［ＥＯＧ］のためのもの；網膜電図検査［ＥＲＧ］のためのもの［２０２１．０１］",
+      "en": "for electrooculography [EOG]; for electroretinography [ERG]",
+      "count": 160,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/30": {
+      "code": "A61B5/30",
+      "level": 2,
+      "parent": "A61B5/24",
+      "ja": "そのための入力回路［２０２１．０１］",
+      "en": "Input circuits therefor",
+      "count": 528,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/301": {
+      "code": "A61B5/301",
+      "level": 3,
+      "parent": "A61B5/30",
+      "ja": "電気的分離を提供するもの，例．絶縁トランスまたはオプトカプラの使用によるもの［２０２１．０１］",
+      "en": "providing electrical separation, e.g. by using isolating transformers or optocouplers",
+      "count": 61,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/302": {
+      "code": "A61B5/302",
+      "level": 3,
+      "parent": "A61B5/30",
+      "ja": "容量性電極またはイオン化電極のためのもの，例．金属酸化膜半導体電界効果トランジスタ［ＭＯＳＦＥＴ］［２０２１．０１］",
+      "en": "for capacitive or ionised electrodes, e.g. metal-oxide-semiconductor field-effect transistors [MOSFET]",
+      "count": 45,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/304": {
+      "code": "A61B5/304",
+      "level": 3,
+      "parent": "A61B5/30",
+      "ja": "切換回路［２０２１．０１］",
+      "en": "Switching circuits",
+      "count": 167,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/305": {
+      "code": "A61B5/305",
+      "level": 3,
+      "parent": "A61B5/30",
+      "ja": "同相信号除去［２０２１．０１］",
+      "en": "Common mode rejection",
+      "count": 136,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/307": {
+      "code": "A61B5/307",
+      "level": 3,
+      "parent": "A61B5/30",
+      "ja": "特定の用途に特に適合したもの［２０２１．０１］",
+      "en": "specially adapted for particular uses",
+      "count": 32,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/308": {
+      "code": "A61B5/308",
+      "level": 4,
+      "parent": "A61B5/307",
+      "ja": "心電図検査［ＥＣＧ］のためのもの［２０２１．０１］",
+      "en": "for electrocardiography [ECG]",
+      "count": 3003,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/31": {
+      "code": "A61B5/31",
+      "level": 4,
+      "parent": "A61B5/307",
+      "ja": "脳波検査［ＥＥＧ］のためのもの［２０２１．０１］",
+      "en": "for electroencephalography [EEG]",
+      "count": 570,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/311": {
+      "code": "A61B5/311",
+      "level": 4,
+      "parent": "A61B5/307",
+      "ja": "神経伝導検査［ＮＣＳ］のためのもの［２０２１．０１］",
+      "en": "for nerve conduction study [NCS]",
+      "count": 75,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/313": {
+      "code": "A61B5/313",
+      "level": 4,
+      "parent": "A61B5/307",
+      "ja": "筋電図検査［ＥＭＧ］のためのもの［２０２１．０１］",
+      "en": "for electromyography [EMG]",
+      "count": 271,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/315": {
+      "code": "A61B5/315",
+      "level": 4,
+      "parent": "A61B5/307",
+      "ja": "眼電図検査［ＥＯＧ］のためのもの；網膜電図検査［ＥＲＧ］のためのもの［２０２１．０１］",
+      "en": "for electrooculography [EOG]; for electroretinography [ERG]",
+      "count": 30,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/316": {
+      "code": "A61B5/316",
+      "level": 2,
+      "parent": "A61B5/24",
+      "ja": "モダリティ，すなわち特定の診断方法［２０２１．０１］",
+      "en": "Modalities, i.e. specific diagnostic methods",
+      "count": 1051,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/318": {
+      "code": "A61B5/318",
+      "level": 3,
+      "parent": "A61B5/316",
+      "ja": "心臓に関連する電気的モダリティ，例．心電図検査［ＥＣＧ］［２０２１．０１］",
+      "en": "Heart-related electrical modalities, e.g. electrocardiography [ECG]",
+      "count": 8730,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/319": {
+      "code": "A61B5/319",
+      "level": 4,
+      "parent": "A61B5/318",
+      "ja": "心電信号のシミュレーションのための回路［２０２１．０１］",
+      "en": "Circuits for simulating ECG signals",
+      "count": 161,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/321": {
+      "code": "A61B5/321",
+      "level": 4,
+      "parent": "A61B5/318",
+      "ja": "そのための付属品または補助具，例．コードハンガ［２０２１．０１］",
+      "en": "Accessories or supplementary instruments therefor, e.g. cord hangers",
+      "count": 3110,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/322": {
+      "code": "A61B5/322",
+      "level": 5,
+      "parent": "A61B5/321",
+      "ja": "ＥＣＧ波形を測定するための物的テンプレートまたは装置，例．心電図定規または心電図キャリパー［２０２１．０１］",
+      "en": "Physical templates or devices for measuring ECG waveforms, e.g. electrocardiograph rulers or calipers",
+      "count": 43,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/324": {
+      "code": "A61B5/324",
+      "level": 5,
+      "parent": "A61B5/321",
+      "ja": "電解質を供給するための手段，例．シリンジ［２０２１．０１］",
+      "en": "Means for providing electrolytes, e.g. syringes",
+      "count": 49,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/325": {
+      "code": "A61B5/325",
+      "level": 4,
+      "parent": "A61B5/318",
+      "ja": "電極取り付け部位の前処理，例．表皮剥離によるもの［２０２１．０１］",
+      "en": "Preparing electrode sites, e.g. by abrasion",
+      "count": 27,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/327": {
+      "code": "A61B5/327",
+      "level": 4,
+      "parent": "A61B5/318",
+      "ja": "測定された信号に基づく擬似ＥＣＧ信号の生成，例．欠落した誘導を補償するためのもの［２０２１．０１］",
+      "en": "Generation of artificial ECG signals based on measured signals, e.g. to compensate for missing leads",
+      "count": 178,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/329": {
+      "code": "A61B5/329",
+      "level": 4,
+      "parent": "A61B5/318",
+      "ja": "負荷診断，例．心臓負荷試験［２０２１．０１］",
+      "en": "Load diagnosis, e.g. cardiac stress tests",
+      "count": 101,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/33": {
+      "code": "A61B5/33",
+      "level": 4,
+      "parent": "A61B5/318",
+      "ja": "他の装置との連携に特に適合したもの［２０２１．０１］",
+      "en": "specially adapted for cooperation with other devices",
+      "count": 1545,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/332": {
+      "code": "A61B5/332",
+      "level": 4,
+      "parent": "A61B5/318",
+      "ja": "そのために特に適合した携帯型機器［２０２１．０１］",
+      "en": "Portable devices specially adapted therefor",
+      "count": 3370,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/333": {
+      "code": "A61B5/333",
+      "level": 4,
+      "parent": "A61B5/318",
+      "ja": "そのために特に適合した記録装置［２０２１．０１］",
+      "en": "Recording apparatus specially adapted therefor",
+      "count": 407,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/335": {
+      "code": "A61B5/335",
+      "level": 5,
+      "parent": "A61B5/333",
+      "ja": "集積回路記憶装置を用いるもの［２０２１．０１］",
+      "en": "using integrated circuit memory devices",
+      "count": 124,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/336": {
+      "code": "A61B5/336",
+      "level": 5,
+      "parent": "A61B5/333",
+      "ja": "磁気記録装置［２０２１．０１］",
+      "en": "Magnetic recording apparatus",
+      "count": 217,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/338": {
+      "code": "A61B5/338",
+      "level": 5,
+      "parent": "A61B5/333",
+      "ja": "紙への印字記録［２０２１．０１］",
+      "en": "Recording by printing on paper",
+      "count": 69,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/339": {
+      "code": "A61B5/339",
+      "level": 4,
+      "parent": "A61B5/318",
+      "ja": "そのために特に適合した表示装置［２０２１．０１］",
+      "en": "Displays specially adapted therefor",
+      "count": 945,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/341": {
+      "code": "A61B5/341",
+      "level": 5,
+      "parent": "A61B5/339",
+      "ja": "ベクトル心電図［ＶＣＧ］［２０２１．０１］",
+      "en": "Vectorcardiography [VCG]",
+      "count": 176,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/343": {
+      "code": "A61B5/343",
+      "level": 5,
+      "parent": "A61B5/339",
+      "ja": "電位分布表示［２０２１．０１］",
+      "en": "Potential distribution indication",
+      "count": 159,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/344": {
+      "code": "A61B5/344",
+      "level": 4,
+      "parent": "A61B5/318",
+      "ja": "胎児心電図検査［２０２１．０１］",
+      "en": "Foetal cardiography",
+      "count": 695,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/346": {
+      "code": "A61B5/346",
+      "level": 4,
+      "parent": "A61B5/318",
+      "ja": "心電図の解析［２０２１．０１］",
+      "en": "Analysis of electrocardiograms",
+      "count": 3160,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/347": {
+      "code": "A61B5/347",
+      "level": 5,
+      "parent": "A61B5/346",
+      "ja": "信号の周波数分布を検出するもの［２０２１．０１］",
+      "en": "Detecting the frequency distribution of signals",
+      "count": 150,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/349": {
+      "code": "A61B5/349",
+      "level": 5,
+      "parent": "A61B5/346",
+      "ja": "心電図の特定パラメータを検出するもの［２０２１．０１］",
+      "en": "Detecting specific parameters of the electrocardiograph cycle",
+      "count": 1655,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/35": {
+      "code": "A61B5/35",
+      "level": 6,
+      "parent": "A61B5/349",
+      "ja": "テンプレートマッチングによるもの［２０２１．０１］",
+      "en": "by template matching",
+      "count": 262,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/352": {
+      "code": "A61B5/352",
+      "level": 6,
+      "parent": "A61B5/349",
+      "ja": "Ｒ波ピークの検出，例．診断装置を同期させるためのもの；Ｒ－Ｒ間隔の推定［２０２１．０１］",
+      "en": "Detecting R peaks, e.g. for synchronising diagnostic apparatus; Estimating R-R interval",
+      "count": 3853,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/353": {
+      "code": "A61B5/353",
+      "level": 6,
+      "parent": "A61B5/349",
+      "ja": "Ｐ波の検出［２０２１．０１］",
+      "en": "Detecting P-waves",
+      "count": 519,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/355": {
+      "code": "A61B5/355",
+      "level": 6,
+      "parent": "A61B5/349",
+      "ja": "Ｔ波の検出［２０２１．０１］",
+      "en": "Detecting T-waves",
+      "count": 515,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/357": {
+      "code": "A61B5/357",
+      "level": 6,
+      "parent": "A61B5/349",
+      "ja": "Ｕ波の検出［２０２１．０１］",
+      "en": "Detecting U-waves",
+      "count": 30,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/358": {
+      "code": "A61B5/358",
+      "level": 6,
+      "parent": "A61B5/349",
+      "ja": "ＳＴセグメントの検出［２０２１．０１］",
+      "en": "Detecting ST segments",
+      "count": 294,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/36": {
+      "code": "A61B5/36",
+      "level": 6,
+      "parent": "A61B5/349",
+      "ja": "ＰＱ間隔，ＰＲ間隔またはＱＴ間隔の検出［２０２１．０１］",
+      "en": "Detecting PQ interval, PR interval or QT interval",
+      "count": 295,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/361": {
+      "code": "A61B5/361",
+      "level": 6,
+      "parent": "A61B5/349",
+      "ja": "細動の検出［２０２１．０１］",
+      "en": "Detecting fibrillation",
+      "count": 1581,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/363": {
+      "code": "A61B5/363",
+      "level": 6,
+      "parent": "A61B5/349",
+      "ja": "頻脈または徐脈の検出［２０２１．０１］",
+      "en": "Detecting tachycardia or bradycardia",
+      "count": 1471,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/364": {
+      "code": "A61B5/364",
+      "level": 6,
+      "parent": "A61B5/349",
+      "ja": "異常なＥＣＧ間隔の検出，例．期外収縮または異所性拍動［２０２１．０１］",
+      "en": "Detecting abnormal ECG interval, e.g. extrasystoles or ectopic heartbeats",
+      "count": 741,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/366": {
+      "code": "A61B5/366",
+      "level": 6,
+      "parent": "A61B5/349",
+      "ja": "異常なＱＲＳ群の検出，例．拡幅［２０２１．０１］",
+      "en": "Detecting abnormal QRS complex, e.g. widening",
+      "count": 1842,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/367": {
+      "code": "A61B5/367",
+      "level": 4,
+      "parent": "A61B5/318",
+      "ja": "心臓電気生理学的検査［ＥＰＳ］，例．電気的活性化マッピングまたは電気解剖学的マッピング［２０２１．０１］",
+      "en": "Electrophysiological study [EPS], e.g. electrical activation mapping or electro-anatomical mapping",
+      "count": 744,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/369": {
+      "code": "A61B5/369",
+      "level": 3,
+      "parent": "A61B5/316",
+      "ja": "脳波検査［ＥＥＧ］［２０２１．０１］",
+      "en": "Electroencephalography [EEG]",
+      "count": 7546,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/37": {
+      "code": "A61B5/37",
+      "level": 4,
+      "parent": "A61B5/369",
+      "ja": "頭蓋内脳波検査［ＩＣ－ＥＥＧ］，例．皮質脳波検査［ＥＣｏＧ］［２０２１．０１］",
+      "en": "Intracranial electroencephalography [IC-EEG], e.g. electrocorticography [ECoG]",
+      "count": 382,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/372": {
+      "code": "A61B5/372",
+      "level": 4,
+      "parent": "A61B5/369",
+      "ja": "脳波の解析［２０２１．０１］",
+      "en": "Analysis of electroencephalograms",
+      "count": 4133,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/374": {
+      "code": "A61B5/374",
+      "level": 5,
+      "parent": "A61B5/372",
+      "ja": "信号の周波数分布を検出するもの，例．デルタ波，シータ波，アルファ波，ベータ波またはガンマ波の検出［２０２１．０１］",
+      "en": "Detecting the frequency distribution of signals, e.g. detecting delta, theta, alpha, beta or gamma waves",
+      "count": 2981,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/375": {
+      "code": "A61B5/375",
+      "level": 4,
+      "parent": "A61B5/369",
+      "ja": "バイオフィードバックを用いるもの［２０２１．０１］",
+      "en": "using biofeedback",
+      "count": 1129,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/377": {
+      "code": "A61B5/377",
+      "level": 4,
+      "parent": "A61B5/369",
+      "ja": "誘発反応を用いるもの［２０２１．０１］",
+      "en": "using evoked responses",
+      "count": 788,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/378": {
+      "code": "A61B5/378",
+      "level": 5,
+      "parent": "A61B5/377",
+      "ja": "視覚刺激［２０２１．０１］",
+      "en": "Visual stimuli",
+      "count": 1000,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/38": {
+      "code": "A61B5/38",
+      "level": 5,
+      "parent": "A61B5/377",
+      "ja": "音響刺激または聴覚刺激［２０２１．０１］",
+      "en": "Acoustic or auditory stimuli",
+      "count": 702,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/381": {
+      "code": "A61B5/381",
+      "level": 5,
+      "parent": "A61B5/377",
+      "ja": "嗅覚刺激または味覚刺激［２０２１．０１］",
+      "en": "Olfactory or gustatory stimuli",
+      "count": 92,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/383": {
+      "code": "A61B5/383",
+      "level": 5,
+      "parent": "A61B5/377",
+      "ja": "体性感覚刺激，例．電気刺激［２０２１．０１］",
+      "en": "Somatosensory stimuli, e.g. electric stimulation",
+      "count": 488,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/384": {
+      "code": "A61B5/384",
+      "level": 4,
+      "parent": "A61B5/369",
+      "ja": "そのために特に適合した記録装置または表示装置［２０２１．０１］",
+      "en": "Recording apparatus or displays specially adapted therefor",
+      "count": 303,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/386": {
+      "code": "A61B5/386",
+      "level": 4,
+      "parent": "A61B5/369",
+      "ja": "そのための付属品または補助具［２０２１．０１］",
+      "en": "Accessories or supplementary instruments therefor",
+      "count": 1041,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/388": {
+      "code": "A61B5/388",
+      "level": 3,
+      "parent": "A61B5/316",
+      "ja": "神経伝導検査，例．末梢神経の活動電位の検出［２０２１．０１］",
+      "en": "Nerve conduction study, e.g. detecting action potential of peripheral nerves",
+      "count": 771,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/389": {
+      "code": "A61B5/389",
+      "level": 3,
+      "parent": "A61B5/316",
+      "ja": "筋電図検査［ＥＭＧ］［２０２１．０１］",
+      "en": "Electromyography [EMG]",
+      "count": 4261,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/391": {
+      "code": "A61B5/391",
+      "level": 4,
+      "parent": "A61B5/389",
+      "ja": "泌尿生殖器のもの［２０２１．０１］",
+      "en": "of genito-urinary organs",
+      "count": 245,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/392": {
+      "code": "A61B5/392",
+      "level": 4,
+      "parent": "A61B5/389",
+      "ja": "胃腸収縮の検出［２０２１．０１］",
+      "en": "Detecting gastrointestinal contractions",
+      "count": 112,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/394": {
+      "code": "A61B5/394",
+      "level": 4,
+      "parent": "A61B5/389",
+      "ja": "エレクトログロットグラフィまたはエレクトロパラトグラフィに特に適合したもの［２０２１．０１］",
+      "en": "specially adapted for electroglottography or electropalatography",
+      "count": 87,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/395": {
+      "code": "A61B5/395",
+      "level": 4,
+      "parent": "A61B5/389",
+      "ja": "刺激の詳細，例．ＥＭＧ応答を誘発するための神経刺激［２０２１．０１］",
+      "en": "Details of stimulation, e.g. nerve stimulation to elicit EMG response",
+      "count": 500,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/397": {
+      "code": "A61B5/397",
+      "level": 4,
+      "parent": "A61B5/389",
+      "ja": "筋電図の解析［２０２１．０１］",
+      "en": "Analysis of electromyograms",
+      "count": 1489,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B5/398": {
+      "code": "A61B5/398",
+      "level": 3,
+      "parent": "A61B5/316",
+      "ja": "眼電図検査［ＥＯＧ］，例．眼振を検出するもの；網膜電図検査［ＥＲＧ］［２０２１．０１］",
+      "en": "Electrooculography [EOG], e.g. detecting nystagmus; Electroretinography [ERG]",
+      "count": 700,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B6/00": {
+      "code": "A61B6/00",
+      "level": 0,
+      "parent": "A61B",
+      "ja": "放射線診断のための装置または器具；放射治療機器と組み合わされた放射線診断のための装置または器具（核医学の分野に適用される放射線強度を判定する機器，例．生体内計数Ｇ０１Ｔ１／１６１；Ｘ線写真撮影装置Ｇ０３Ｂ４２／０２）［２０２４．０１］",
+      "en": "Apparatus or devices for radiation diagnosis; Apparatus or devices for radiation diagnosis combined with radiation therapy equipment (instruments measuring radiation intensity for application in the field of nuclear medicine, e.g. <u>in vivo</u> counting, <b>G01T1/161</b>)",
+      "count": 65473,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B6/02": {
+      "code": "A61B6/02",
+      "level": 1,
+      "parent": "A61B6/00",
+      "ja": "異なる平面内を連続的に診断するための装置；立体放射線写真診断［２００６．０１］",
+      "en": "Arrangements for diagnosis sequentially in different planes; Stereoscopic radiation diagnosis",
+      "count": 7171,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B6/03": {
+      "code": "A61B6/03",
+      "level": 2,
+      "parent": "A61B6/02",
+      "ja": "コンピュータ断層撮影［ＣＴ］［２００６．０１］",
+      "en": "Computed tomography [CT]",
+      "count": 46610,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B6/04": {
+      "code": "A61B6/04",
+      "level": 1,
+      "parent": "A61B6/00",
+      "ja": "患者の位置決め；傾斜可能の寝台または類似装置［２００６．０１］",
+      "en": "Positioning of patients; Tiltable beds or the like",
+      "count": 18427,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B6/06": {
+      "code": "A61B6/06",
+      "level": 1,
+      "parent": "A61B6/00",
+      "ja": "隔板",
+      "en": "Diaphragms",
+      "count": 3519,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B6/08": {
+      "code": "A61B6/08",
+      "level": 1,
+      "parent": "A61B6/00",
+      "ja": "特定の点に放射線を照射するための補助手段，例．光線の使用",
+      "en": "Auxiliary means for directing the radiation beam to a particular spot, e.g. using light beams",
+      "count": 2904,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B6/10": {
+      "code": "A61B6/10",
+      "level": 1,
+      "parent": "A61B6/00",
+      "ja": "放射線診断に特に適した安全手段［２００６．０１］",
+      "en": "Safety means specially adapted therefor",
+      "count": 7413,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B6/12": {
+      "code": "A61B6/12",
+      "level": 1,
+      "parent": "A61B6/00",
+      "ja": "異物を検出または探知するための装置［２００６．０１］",
+      "en": "Arrangements for detecting or locating foreign bodies",
+      "count": 3735,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B6/40": {
+      "code": "A61B6/40",
+      "level": 1,
+      "parent": "A61B6/00",
+      "ja": "放射線診断に特に適した放射線を発生するための装置［２０２４．０１］",
+      "en": "Arrangements for generating radiation specially adapted for radiation diagnosis",
+      "count": 1341,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B6/42": {
+      "code": "A61B6/42",
+      "level": 1,
+      "parent": "A61B6/00",
+      "ja": "放射線診断に特に適した放射線を検知するための装置［２０２４．０１］",
+      "en": "Arrangements for detecting radiation specially adapted for radiation diagnosis",
+      "count": 1872,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B6/46": {
+      "code": "A61B6/46",
+      "level": 1,
+      "parent": "A61B6/00",
+      "ja": "操作者または患者とのインターフェースのための装置［２０２４．０１］",
+      "en": "Arrangements for interfacing with the operator or the patient",
+      "count": 1385,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B6/50": {
+      "code": "A61B6/50",
+      "level": 1,
+      "parent": "A61B6/00",
+      "ja": "特定の身体部位に特に適したもの；特定の臨床応用に特に適したもの［２０２４．０１］",
+      "en": "specially adapted for specific body parts; specially adapted for specific clinical applications",
+      "count": 3003,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B6/51": {
+      "code": "A61B6/51",
+      "level": 2,
+      "parent": "A61B6/50",
+      "ja": "歯科用のもの［２０２４．０１］",
+      "en": "for dentistry",
+      "count": 5723,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B6/58": {
+      "code": "A61B6/58",
+      "level": 1,
+      "parent": "A61B6/00",
+      "ja": "試験，調整または較正［２０２４．０１］",
+      "en": "Testing, adjusting or calibrating thereof",
+      "count": 1029,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B7/00": {
+      "code": "A61B7/00",
+      "level": 0,
+      "parent": "A61B",
+      "ja": "聴診機器",
+      "en": "Instruments for auscultation",
+      "count": 3008,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B7/02": {
+      "code": "A61B7/02",
+      "level": 1,
+      "parent": "A61B7/00",
+      "ja": "聴診器",
+      "en": "Stethoscopes",
+      "count": 4995,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B7/04": {
+      "code": "A61B7/04",
+      "level": 2,
+      "parent": "A61B7/02",
+      "ja": "電気聴診器［２００６．０１］",
+      "en": "Electric stethoscopes",
+      "count": 5617,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B8/00": {
+      "code": "A61B8/00",
+      "level": 0,
+      "parent": "A61B",
+      "ja": "超音波，音波または亜音波を用いることによる診断［２００６．０１］",
+      "en": "Diagnosis using ultrasonic, sonic or infrasonic waves",
+      "count": 58922,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B8/02": {
+      "code": "A61B8/02",
+      "level": 1,
+      "parent": "A61B8/00",
+      "ja": "脈拍または心拍数の測定［４］",
+      "en": "Measuring pulse or heart rate",
+      "count": 1966,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B8/04": {
+      "code": "A61B8/04",
+      "level": 1,
+      "parent": "A61B8/00",
+      "ja": "血圧の測定［４］",
+      "en": "Measuring blood pressure",
+      "count": 774,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B8/06": {
+      "code": "A61B8/06",
+      "level": 1,
+      "parent": "A61B8/00",
+      "ja": "血流の測定［４］",
+      "en": "Measuring blood flow",
+      "count": 8631,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B8/08": {
+      "code": "A61B8/08",
+      "level": 1,
+      "parent": "A61B8/00",
+      "ja": "臨床応用（Ａ６１Ｂ８／０２，  Ａ６１Ｂ８／０４，Ａ６１Ｂ８／０６が優先）［２００６．０１］",
+      "en": "Clinical applications (<b>A61B8/02</b>, <b>A61B8/04</b>, <b>A61B8/06</b> take precedence)",
+      "count": 23806,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B8/10": {
+      "code": "A61B8/10",
+      "level": 1,
+      "parent": "A61B8/00",
+      "ja": "眼の検査［４］",
+      "en": "Eye inspection",
+      "count": 1049,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B8/12": {
+      "code": "A61B8/12",
+      "level": 1,
+      "parent": "A61B8/00",
+      "ja": "体腔または人体の管状部の内部で用いるもの［２００６．０１］",
+      "en": "in body cavities or body tracts, e.g. by using catheters",
+      "count": 11704,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B8/13": {
+      "code": "A61B8/13",
+      "level": 1,
+      "parent": "A61B8/00",
+      "ja": "断層撮影（Ａ６１Ｂ８／１０，Ａ６１Ｂ８／１２が優先）［２００６．０１］",
+      "en": "Tomography(<b>A61B8/10</b>, <b>A61B8/12</b> take precedence)",
+      "count": 2902,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B8/14": {
+      "code": "A61B8/14",
+      "level": 2,
+      "parent": "A61B8/13",
+      "ja": "エコー断層撮影［４］",
+      "en": "Echotomography",
+      "count": 11564,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B8/15": {
+      "code": "A61B8/15",
+      "level": 2,
+      "parent": "A61B8/13",
+      "ja": "透過法による断層撮影［５］",
+      "en": "Transmission tomography",
+      "count": 263,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B9/00": {
+      "code": "A61B9/00",
+      "level": 0,
+      "parent": "A61B",
+      "ja": "打診による診察機器；打診槌",
+      "en": "Instruments for examination by percussion; Pleximeters",
+      "count": 3179,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B10/00": {
+      "code": "A61B10/00",
+      "level": 0,
+      "parent": "A61B",
+      "ja": "診断を目的として身体の試料を採取するための機器（血液試料を採取するためのものＡ６１Ｂ５／１５）；診断のための他の方法または機器，例．ワクチン接種の診断をするためのもの，性別の決定または排卵期の決定；咽喉をたたく器具［２００６．０１］<br><br><b><ul>注</ul></b><br>綿棒を分類するグループＡ６１Ｆ１３／１５に注意すること。［５］",
+      "en": "Instruments for taking body samples for diagnostic purposes(for taking samples of blood <b>A61B5/15</b>);Other methods or instruments for diagnosis, e.g. for vaccination diagnosis, sex determination or ovulation-period determination; Throat striking implements",
+      "count": 52466,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B10/02": {
+      "code": "A61B10/02",
+      "level": 1,
+      "parent": "A61B10/00",
+      "ja": "細胞の標本を取るためのまたは生検のための機器［２００６．０１］",
+      "en": "Instruments for taking cell samples or for biopsy",
+      "count": 21014,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B10/04": {
+      "code": "A61B10/04",
+      "level": 2,
+      "parent": "A61B10/02",
+      "ja": "内視鏡用器具，例．カテーテル形の器具［２００６．０１］",
+      "en": "Endoscopic instruments, e.g. catheter-type instruments",
+      "count": 4626,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B10/06": {
+      "code": "A61B10/06",
+      "level": 2,
+      "parent": "A61B10/02",
+      "ja": "生検鉗子［８］",
+      "en": "Biopsy forceps",
+      "count": 2997,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B13/00": {
+      "code": "A61B13/00",
+      "level": 0,
+      "parent": "A61B",
+      "ja": "舌を押下げるための機器（照明および内視用機器と結合するものＡ６１Ｂ１／２４；排唾器と結合するものＡ６１Ｃ１７／１０）［５］",
+      "en": "Instruments for depressing the tongue(combined with illuminating and viewing instruments <b>A61B1/24</b>; combined with saliva removers <b>A61C17/10</b>)",
+      "count": 1982,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B16/00": {
+      "code": "A61B16/00",
+      "level": 0,
+      "parent": "A61B",
+      "ja": "生体解剖または剖検に適用される用具［２００６．０１］",
+      "en": "Devices specially adapted for vivisection or autopsy",
+      "count": 912,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B17/00": {
+      "code": "A61B17/00",
+      "level": 0,
+      "parent": "A61B",
+      "ja": "手術用機器，器具，または方法（Ａ６１Ｂ１８／００が優先；歯科用工具Ａ６１Ｃ３／００；眼科手術用Ａ６１Ｆ９／００７；耳科手術用Ａ６１Ｆ１１／２０）［２００６．０１］<br><br><b><ul>注</ul></b><br>このグループに分類するとき，手術用器具の内視鏡の特徴が重要である場合は，グループ１７／９４にも分類する。［８］",
+      "en": "Surgical instruments, devices or methods (<b>A61B18/00</b> takes precedence; dental tools <b>A61C3/00</b>;  eye surgery <b>A61F9/007</b>;  ear surgery <b>A61F11/20</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>When classifying in this group, classification is also made in group <b>A61B17/94</b> if the endoscopic features of the surgical instrument are of interest.</li></ul>",
+      "count": 94427,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B17/02": {
+      "code": "A61B17/02",
+      "level": 1,
+      "parent": "A61B17/00",
+      "ja": "傷の開口把持用，例．開創器；牽引器［２００６．０１］",
+      "en": "for holding wounds open, e.g. retractors; Tractors",
+      "count": 25520,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B17/03": {
+      "code": "A61B17/03",
+      "level": 1,
+      "parent": "A61B17/00",
+      "ja": "傷の閉鎖用，または傷を閉鎖把持するもの；それらと使用するための付属具［２００６．０１］",
+      "en": "for closing wounds or holding wounds closed; Accessories for use therewith",
+      "count": 3118,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B17/04": {
+      "code": "A61B17/04",
+      "level": 2,
+      "parent": "A61B17/03",
+      "ja": "傷の縫合用；針または縫合材料のためのホルダまたは包装［２００６．０１］",
+      "en": "for suturing wounds; Holders or packages for needles or suture materials",
+      "count": 20019,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B17/06": {
+      "code": "A61B17/06",
+      "level": 3,
+      "parent": "A61B17/04",
+      "ja": "縫合針；針または縫合材料のためのホルダまたは包装［２００６．０１］",
+      "en": "Needles; Holders or packages for needles or suture materials",
+      "count": 12362,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B17/062": {
+      "code": "A61B17/062",
+      "level": 3,
+      "parent": "A61B17/04",
+      "ja": "針を操作する器具［２００６．０１］",
+      "en": "Needle manipulators",
+      "count": 1826,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B17/064": {
+      "code": "A61B17/064",
+      "level": 2,
+      "parent": "A61B17/03",
+      "ja": "手術用ステープル［２００６．０１］",
+      "en": "Surgical staples",
+      "count": 5186,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B17/068": {
+      "code": "A61B17/068",
+      "level": 2,
+      "parent": "A61B17/03",
+      "ja": "手術用ステープラー（吻合術を行うためのものＡ６１Ｂ１７／１１５）［２００６．０１］",
+      "en": "Surgical staplers(for performing anastomosis <b>A61B17/115</b>)",
+      "count": 6289,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B17/072": {
+      "code": "A61B17/072",
+      "level": 3,
+      "parent": "A61B17/068",
+      "ja": "単一動作で一列のステープルを適用するためのもの，例．同時に適用されるステープル［２００６．０１］",
+      "en": "for applying a row of staples in a single action, e.g. the staples being applied simultaneously",
+      "count": 8845,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B17/076": {
+      "code": "A61B17/076",
+      "level": 2,
+      "parent": "A61B17/03",
+      "ja": "手術用ステープルを除去するためのもの［２００６．０１］",
+      "en": "for removing surgical staples",
+      "count": 164,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B17/08": {
+      "code": "A61B17/08",
+      "level": 2,
+      "parent": "A61B17/03",
+      "ja": "傷口クランプ［２００６．０１］",
+      "en": "Wound clamps",
+      "count": 6306,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B17/10": {
+      "code": "A61B17/10",
+      "level": 2,
+      "parent": "A61B17/03",
+      "ja": "傷口クランプを適用または取り去るためのもの；傷口クランプマガジン［２００６．０１］",
+      "en": "for applying or removing wound clamps; Wound clamp magazines",
+      "count": 3389,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B17/11": {
+      "code": "A61B17/11",
+      "level": 2,
+      "parent": "A61B17/03",
+      "ja": "吻合を行うためのもの；吻合用ボタン［２００６．０１］",
+      "en": "for performing anastomosis; Buttons for anastomosis",
+      "count": 7857,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B17/115": {
+      "code": "A61B17/115",
+      "level": 3,
+      "parent": "A61B17/11",
+      "ja": "吻合するためのステープラー，例．単一の操作で［２００６．０１］",
+      "en": "Staplers for performing anastomosis, e.g. in a single operation",
+      "count": 6506,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B17/12": {
+      "code": "A61B17/12",
+      "level": 1,
+      "parent": "A61B17/00",
+      "ja": "人体の管状部分，例．血管またはへその緒，を結紮または圧迫するためのもの［２００６．０１］",
+      "en": "for ligaturing or otherwise compressing tubular parts of the body, e.g. blood vessels or umbilical cord",
+      "count": 30691,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B17/122": {
+      "code": "A61B17/122",
+      "level": 2,
+      "parent": "A61B17/12",
+      "ja": "クランプまたはクリップ，例．へその緒のためのもの［２００６．０１］",
+      "en": "Clamps or clips, e.g. for the umbilical cord",
+      "count": 5918,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B17/125": {
+      "code": "A61B17/125",
+      "level": 3,
+      "parent": "A61B17/122",
+      "ja": "切断器具と結合するもの［２００６．０１］",
+      "en": "combined with cutting implements",
+      "count": 546,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B17/128": {
+      "code": "A61B17/128",
+      "level": 2,
+      "parent": "A61B17/12",
+      "ja": "クランプまたはクリップを適用または除去するためのもの［２００６．０１］",
+      "en": "for applying or removing clamps or clips",
+      "count": 3606,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B17/132": {
+      "code": "A61B17/132",
+      "level": 2,
+      "parent": "A61B17/12",
+      "ja": "止血帯［２００６．０１］",
+      "en": "Tourniquets",
+      "count": 7555,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B17/135": {
+      "code": "A61B17/135",
+      "level": 3,
+      "parent": "A61B17/132",
+      "ja": "膨張可能なもの［２００６．０１］",
+      "en": "inflatable",
+      "count": 4983,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B17/138": {
+      "code": "A61B17/138",
+      "level": 2,
+      "parent": "A61B17/12",
+      "ja": "切断器具と結合するもの（Ａ６１Ｂ１７／１２５が優先）［２００６．０１］",
+      "en": "combined with cutting implements(<b>A61B17/125</b> takes precedence)",
+      "count": 250,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B17/14": {
+      "code": "A61B17/14",
+      "level": 1,
+      "parent": "A61B17/00",
+      "ja": "手術用ののこぎり（歯のための歯科用のこぎりＡ６１Ｃ３／１２）［２００６．０１］",
+      "en": "Surgical saws (dental saws for teeth <b>A61C3/12</b>)",
+      "count": 3486,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B17/15": {
+      "code": "A61B17/15",
+      "level": 2,
+      "parent": "A61B17/14",
+      "ja": "そのための案内具［２００６．０１］",
+      "en": "Guides therefor",
+      "count": 3307,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B17/16": {
+      "code": "A61B17/16",
+      "level": 1,
+      "parent": "A61B17/00",
+      "ja": "骨砕術を行うための器具；骨用ドリルまたはノミ；円鋸［２００６．０１］",
+      "en": "Instruments for performing osteoclasis; Drills or chisels for bones; Trepans",
+      "count": 18562,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B17/17": {
+      "code": "A61B17/17",
+      "level": 2,
+      "parent": "A61B17/16",
+      "ja": "ドリル用案内具［２００６．０１］",
+      "en": "Guides for drills",
+      "count": 10290,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B17/20": {
+      "code": "A61B17/20",
+      "level": 1,
+      "parent": "A61B17/00",
+      "ja": "ワクチン接種のためのものまたはワクチン接種に先だって皮膚を清浄するためのもの［２００６．０１］",
+      "en": "for vaccinating or cleaning the skin previous to the vaccination",
+      "count": 1401,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B17/22": {
+      "code": "A61B17/22",
+      "level": 1,
+      "parent": "A61B17/00",
+      "ja": "人体の内部器官の潰瘍またはその類似物を絞り取るための器具；人体器官，例．骨，の腔部を削り取るための器具；機械的振動を用いて結石を除去または破壊するための侵襲器具；血管の詰まりを除去するための装置で他に分類されないもの［２００６．０１］",
+      "en": "Implements for squeezing-off ulcers or the like on inner organs of the body; Implements for scraping-out cavities of body organs, e.g. bones; for invasive removal or destruction of calculus using mechanical vibrations; for removing obstructions in blood vessels, not otherwise provided for",
+      "count": 21462,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B17/221": {
+      "code": "A61B17/221",
+      "level": 2,
+      "parent": "A61B17/22",
+      "ja": "ループまたはバスケット型結石つかみ装置［２００６．０１］",
+      "en": "Calculus gripping devices in the form of loops or baskets",
+      "count": 4433,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B17/225": {
+      "code": "A61B17/225",
+      "level": 1,
+      "parent": "A61B17/00",
+      "ja": "体外衝撃波による砕石用装置［２００６．０１］",
+      "en": "for extracorporeal shock wave lithotripsy [ESWL], e.g. by using ultrasonic waves",
+      "count": 2064,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B17/24": {
+      "code": "A61B17/24",
+      "level": 1,
+      "parent": "A61B17/00",
+      "ja": "口腔，咽頭，気管支，鼻に使用するためのもの（人体の窩部または管部の診察を行うためのものＡ６１Ｂ１／００）；舌擦過器［２００６．０１］",
+      "en": "for use in the oral cavity, larynx, bronchial passages or nose(for medical inspection of cavities or tubes in the body <b>A61B1/00</b>);Tongue scrapers",
+      "count": 7203,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B17/26": {
+      "code": "A61B17/26",
+      "level": 2,
+      "parent": "A61B17/24",
+      "ja": "止血装置を備えまたは備えない扁桃腺切除器［２００６．０１］",
+      "en": "Tonsillotomes, with or without means for stopping bleeding",
+      "count": 404,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B17/28": {
+      "code": "A61B17/28",
+      "level": 1,
+      "parent": "A61B17/00",
+      "ja": "手術用鉗子（生検鉗子Ａ６１Ｂ１０／０６；産科用鉗子Ａ６１Ｂ１７／４４）［２００６．０１］",
+      "en": "Surgical forceps(biopsy forceps <b>A61B10/06</b>; obstetrical forceps <b>A61B17/44</b>)",
+      "count": 15116,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B17/285": {
+      "code": "A61B17/285",
+      "level": 2,
+      "parent": "A61B17/28",
+      "ja": "切断器具を伴うもの［２００６．０１］",
+      "en": "combined with cutting implements",
+      "count": 1195,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B17/29": {
+      "code": "A61B17/29",
+      "level": 2,
+      "parent": "A61B17/28",
+      "ja": "低侵襲手術で使用するための鉗子［２００６．０１］",
+      "en": "Forceps for use in minimally invasive surgery",
+      "count": 8489,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B17/295": {
+      "code": "A61B17/295",
+      "level": 3,
+      "parent": "A61B17/29",
+      "ja": "切断器具を伴うもの［２００６．０１］",
+      "en": "combined with cutting implements",
+      "count": 1177,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B17/30": {
+      "code": "A61B17/30",
+      "level": 1,
+      "parent": "A61B17/00",
+      "ja": "手術用ピンセット，すなわち手術用鑷子［２００６．０１］",
+      "en": "Surgical pincettes, i.e. surgical tweezers ",
+      "count": 4538,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B17/32": {
+      "code": "A61B17/32",
+      "level": 1,
+      "parent": "A61B17/00",
+      "ja": "手術用切断機器（結紮兼切断用器具Ａ６１Ｂ１７／１２５，Ａ６１Ｂ１７／１３８）［２００６．０１］",
+      "en": "Surgical cutting instruments(implements for ligaturing and cutting <b>A61B17/125</b>, <b>A61B17/138</b>)",
+      "count": 26305,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B17/3201": {
+      "code": "A61B17/3201",
+      "level": 2,
+      "parent": "A61B17/32",
+      "ja": "ハサミ型（生検のためのものＡ６１Ｂ１０／０２）［２００６．０１］",
+      "en": "Scissors(for biopsy <b>A61B10/02</b>)",
+      "count": 2755,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B17/3203": {
+      "code": "A61B17/3203",
+      "level": 2,
+      "parent": "A61B17/32",
+      "ja": "流体ジェット切断機器［２００６．０１］",
+      "en": "Fluid jet cutting instruments",
+      "count": 954,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B17/3205": {
+      "code": "A61B17/3205",
+      "level": 2,
+      "parent": "A61B17/32",
+      "ja": "切除機器［２００６．０１］",
+      "en": "Excision instruments",
+      "count": 4943,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B17/3207": {
+      "code": "A61B17/3207",
+      "level": 3,
+      "parent": "A61B17/3205",
+      "ja": "アテローム切除装置［２００６．０１］",
+      "en": "Atherectomy devices",
+      "count": 2826,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B17/3209": {
+      "code": "A61B17/3209",
+      "level": 2,
+      "parent": "A61B17/32",
+      "ja": "切開機器［２００６．０１］",
+      "en": "Incision instruments",
+      "count": 4315,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B17/3211": {
+      "code": "A61B17/3211",
+      "level": 3,
+      "parent": "A61B17/3209",
+      "ja": "外科手術用メスまたはナイフ；その付属品［２００６．０１］",
+      "en": "Surgical scalpels or knives; Accessories therefor",
+      "count": 4207,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B17/3213": {
+      "code": "A61B17/3213",
+      "level": 4,
+      "parent": "A61B17/3211",
+      "ja": "分離できる刃をもつもの［２００６．０１］",
+      "en": "with detachable blades",
+      "count": 1111,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B17/3215": {
+      "code": "A61B17/3215",
+      "level": 4,
+      "parent": "A61B17/3211",
+      "ja": "パッケージまたはディスペンサー，例．外科用メスの刃のためのもの［２００６．０１］",
+      "en": "Packages or dispensers, e.g. for scalpel blades",
+      "count": 114,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B17/3217": {
+      "code": "A61B17/3217",
+      "level": 4,
+      "parent": "A61B17/3211",
+      "ja": "使用済み外科用メスの刃を除去または収集するための装置［２００６．０１］",
+      "en": "Devices for removing or collecting used scalpel blades",
+      "count": 98,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B17/322": {
+      "code": "A61B17/322",
+      "level": 2,
+      "parent": "A61B17/32",
+      "ja": "植皮装置［２００６．０１］",
+      "en": "Skin grafting apparatus",
+      "count": 1992,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B17/326": {
+      "code": "A61B17/326",
+      "level": 2,
+      "parent": "A61B17/32",
+      "ja": "包皮切除装置［２００６．０１］",
+      "en": "Circumcision apparatus",
+      "count": 2187,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B17/34": {
+      "code": "A61B17/34",
+      "level": 1,
+      "parent": "A61B17/00",
+      "ja": "套管針；刺針［２００６．０１］",
+      "en": "Trocars; Puncturing needles",
+      "count": 48980,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B17/42": {
+      "code": "A61B17/42",
+      "level": 1,
+      "parent": "A61B17/00",
+      "ja": "産婦人科用機器または方法［２００６．０１］",
+      "en": "Gynaecological or obstetrical instruments or methods",
+      "count": 12623,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B17/425": {
+      "code": "A61B17/425",
+      "level": 2,
+      "parent": "A61B17/42",
+      "ja": "生殖または受精のためのもの［２００６．０１］",
+      "en": "for reproduction or fertilisation",
+      "count": 451,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B17/43": {
+      "code": "A61B17/43",
+      "level": 3,
+      "parent": "A61B17/425",
+      "ja": "人工授精のためのもの［２００６．０１］",
+      "en": "for artificial insemination",
+      "count": 823,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B17/435": {
+      "code": "A61B17/435",
+      "level": 3,
+      "parent": "A61B17/425",
+      "ja": "受精卵移植のためのもの［２００６．０１］",
+      "en": "for embryo transplantation",
+      "count": 780,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B17/44": {
+      "code": "A61B17/44",
+      "level": 2,
+      "parent": "A61B17/42",
+      "ja": "産科用鉗子［２００６．０１］",
+      "en": "Obstetrical forceps",
+      "count": 1361,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B17/46": {
+      "code": "A61B17/46",
+      "level": 2,
+      "parent": "A61B17/42",
+      "ja": "切胎のためのもの［２００６．０１］",
+      "en": "Embryotomes",
+      "count": 151,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B17/48": {
+      "code": "A61B17/48",
+      "level": 2,
+      "parent": "A61B17/42",
+      "ja": "助産婦用バッグ［２００６．０１］",
+      "en": "Bags for midwives",
+      "count": 27,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B17/50": {
+      "code": "A61B17/50",
+      "level": 1,
+      "parent": "A61B17/00",
+      "ja": "人体から異物を取出すための器具（手術用ピンセット，すなわち手術用鑷子Ａ６１Ｂ１７／３０）［２００６．０１］",
+      "en": "Instruments for removing foreign bodies from the human body (surgical pincettes, i.e. surgical tweezers, <b>A61B17/30</b>)",
+      "count": 4348,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B17/52": {
+      "code": "A61B17/52",
+      "level": 2,
+      "parent": "A61B17/50",
+      "ja": "マグネット［２００６．０１］",
+      "en": "Magnets",
+      "count": 425,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B17/54": {
+      "code": "A61B17/54",
+      "level": 1,
+      "parent": "A61B17/00",
+      "ja": "足の小外科的治療用機器［２００６．０１］",
+      "en": "Chiropodists' instruments",
+      "count": 1870,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B17/56": {
+      "code": "A61B17/56",
+      "level": 1,
+      "parent": "A61B17/00",
+      "ja": "骨または関節の手術器具および方法；そのために特に適合する用具［２００６．０１］",
+      "en": "Surgical instruments or methods for treatment of bones or joints; Devices specially adapted therefor",
+      "count": 24237,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B17/58": {
+      "code": "A61B17/58",
+      "level": 2,
+      "parent": "A61B17/56",
+      "ja": "骨接合術用，例．骨の板，ねじまたははめ込み用器具（Ａ６１Ｂ１７／１４，Ａ６１Ｂ１７／１６が優先）［２００６．０１］",
+      "en": "for osteosynthesis, e.g. bone plates, screws or setting implements (<b>A61B17/14</b>, <b>A61B17/16</b> take precedence)",
+      "count": 12347,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B17/60": {
+      "code": "A61B17/60",
+      "level": 3,
+      "parent": "A61B17/58",
+      "ja": "外部の骨接合術のためのもの，例．伸延器または収縮器［２００６．０１］",
+      "en": "for external osteosynthesis, e.g. distractors or contractors",
+      "count": 4403,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B17/62": {
+      "code": "A61B17/62",
+      "level": 4,
+      "parent": "A61B17/60",
+      "ja": "環状枠，すなわち，位置決めされる骨の周りに延在する器具（Ａ６１Ｂ１７／６６が優先）［２００６．０１］",
+      "en": "Ring frames, i.e. devices extending around the bones to be positioned(<b>A61B17/66</b> takes precedence)",
+      "count": 1106,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B17/64": {
+      "code": "A61B17/64",
+      "level": 4,
+      "parent": "A61B17/60",
+      "ja": "位置決めされる骨に沿って延在する器具（Ａ６１Ｂ１７／６６が優先）［２００６．０１］",
+      "en": "Devices extending alongside the bones to be positioned(<b>A61B17/66</b> takes precedence)",
+      "count": 2475,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B17/66": {
+      "code": "A61B17/66",
+      "level": 4,
+      "parent": "A61B17/60",
+      "ja": "圧迫または伸延機構［２００６．０１］",
+      "en": "Compression or distraction mechanisms",
+      "count": 3895,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B17/68": {
+      "code": "A61B17/68",
+      "level": 3,
+      "parent": "A61B17/58",
+      "ja": "内部固着器具［２００６．０１］",
+      "en": "Internal fixation devices",
+      "count": 7950,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B17/70": {
+      "code": "A61B17/70",
+      "level": 4,
+      "parent": "A61B17/68",
+      "ja": "背骨の位置決め装置または安定化装置，例．インプラント中の流動体の充填物を含むスタビライザー［２００６．０１］",
+      "en": "Spinal positioners or stabilisers, e.g. stabilisers comprising fluid filler in an implant",
+      "count": 17536,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B17/72": {
+      "code": "A61B17/72",
+      "level": 4,
+      "parent": "A61B17/68",
+      "ja": "髄内器具，例．ピンまたは釘［２００６．０１］",
+      "en": "Intramedullary devices, e.g. pins or nails",
+      "count": 5582,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B17/74": {
+      "code": "A61B17/74",
+      "level": 4,
+      "parent": "A61B17/68",
+      "ja": "大腿骨頭用器具［２００６．０１］",
+      "en": "Devices for the head of the femur",
+      "count": 2088,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B17/76": {
+      "code": "A61B17/76",
+      "level": 5,
+      "parent": "A61B17/74",
+      "ja": "ねじによる固着［２００６．０１］",
+      "en": "fixed by screws",
+      "count": 883,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B17/78": {
+      "code": "A61B17/78",
+      "level": 5,
+      "parent": "A61B17/74",
+      "ja": "釘，ピンまたは類似物による固着［２００６．０１］",
+      "en": "fixed by nails, pins or the like",
+      "count": 603,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B17/80": {
+      "code": "A61B17/80",
+      "level": 4,
+      "parent": "A61B17/68",
+      "ja": "皮質プレート［２００６．０１］",
+      "en": "Cortical plates",
+      "count": 12324,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B17/82": {
+      "code": "A61B17/82",
+      "level": 4,
+      "parent": "A61B17/68",
+      "ja": "骨締結のためのもの［２００６．０１］",
+      "en": "for bone cerclage",
+      "count": 1837,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B17/84": {
+      "code": "A61B17/84",
+      "level": 4,
+      "parent": "A61B17/68",
+      "ja": "そのためのファスナー［２００６．０１］",
+      "en": "Fasteners therefor",
+      "count": 2987,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B17/86": {
+      "code": "A61B17/86",
+      "level": 5,
+      "parent": "A61B17/84",
+      "ja": "ピンまたはねじ［２００６．０１］",
+      "en": "Pins or screws",
+      "count": 12270,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B17/88": {
+      "code": "A61B17/88",
+      "level": 3,
+      "parent": "A61B17/58",
+      "ja": "内部固着器具の植え込みまたは抜取り方法または手段［２００６．０１］",
+      "en": "Methods or means for implanting or extracting internal fixation devices",
+      "count": 14963,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B17/90": {
+      "code": "A61B17/90",
+      "level": 4,
+      "parent": "A61B17/88",
+      "ja": "そのための案内具［２００６．０１］",
+      "en": "Guides therefor",
+      "count": 4789,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B17/92": {
+      "code": "A61B17/92",
+      "level": 4,
+      "parent": "A61B17/88",
+      "ja": "打込具または抜取具，例．骨髄内器具を除去するためのもの［２００６．０１］",
+      "en": "Impactors or extractors, e.g. for removing intramedullary devices",
+      "count": 4368,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B17/94": {
+      "code": "A61B17/94",
+      "level": 1,
+      "parent": "A61B17/00",
+      "ja": "内視鏡手術機器（細胞の標本を取るためのまたは生検のための内視鏡用器具Ａ６１Ｂ１０／０４）［８］",
+      "en": "Endoscopic surgical instruments(endoscopic instruments for taking cell samples or for biopsy <b>A61B10/04</b>)",
+      "count": 8294,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B18/00": {
+      "code": "A61B18/00",
+      "level": 0,
+      "parent": "A61B",
+      "ja": "非機械的な形態のエネルギーを，身体へ，または身体から伝達する手術用機器，器具または方法（眼科手術用Ａ６１Ｆ９／００７；耳科手術用Ａ６１Ｆ１１／２０）",
+      "en": "Surgical instruments, devices or methods for transferring non-mechanical forms of energy to or from the body (eye surgery <b>A61F9/007</b>;  ear surgery <b>A61F11/20</b>)",
+      "count": 23262,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B18/02": {
+      "code": "A61B18/02",
+      "level": 1,
+      "parent": "A61B18/00",
+      "ja": "冷却することによる，例．極低温技術［２００６．０１］",
+      "en": "by cooling, e.g. cryogenic techniques",
+      "count": 5631,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B18/04": {
+      "code": "A61B18/04",
+      "level": 1,
+      "parent": "A61B18/00",
+      "ja": "加熱することによる（電磁放射の適用によるものＡ６１Ｂ１８／１８）［２００６．０１］",
+      "en": "by heating(by applying electromagnetic radiation <b>A61B18/18</b>)",
+      "count": 5934,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B18/06": {
+      "code": "A61B18/06",
+      "level": 2,
+      "parent": "A61B18/04",
+      "ja": "化学反応によって引き起こされるもの［７］",
+      "en": "caused by chemical reaction",
+      "count": 463,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B18/08": {
+      "code": "A61B18/08",
+      "level": 2,
+      "parent": "A61B18/04",
+      "ja": "電気的に熱するプローブを使うもの［７］",
+      "en": "by means of electrically-heated probes",
+      "count": 2768,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B18/10": {
+      "code": "A61B18/10",
+      "level": 3,
+      "parent": "A61B18/08",
+      "ja": "そのための電源［７］",
+      "en": "Power sources therefor",
+      "count": 437,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B18/12": {
+      "code": "A61B18/12",
+      "level": 2,
+      "parent": "A61B18/04",
+      "ja": "加熱する組織に電流を通すもの，例．高周波電流［７］",
+      "en": "by passing a current through the tissue to be heated, e.g. high-frequency current",
+      "count": 22824,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B18/14": {
+      "code": "A61B18/14",
+      "level": 3,
+      "parent": "A61B18/12",
+      "ja": "そのためのプローブまたは電極［７］",
+      "en": "Probes or electrodes therefor",
+      "count": 27916,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B18/16": {
+      "code": "A61B18/16",
+      "level": 4,
+      "parent": "A61B18/14",
+      "ja": "アース用の中性または受動の電極［７］",
+      "en": "Indifferent or passive electrodes for grounding",
+      "count": 1001,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B18/18": {
+      "code": "A61B18/18",
+      "level": 1,
+      "parent": "A61B18/00",
+      "ja": "電磁放射の適用によるもの，例．マイクロ波［２００６．０１］",
+      "en": "by applying electromagnetic radiation, e.g. microwaves",
+      "count": 10802,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B18/20": {
+      "code": "A61B18/20",
+      "level": 2,
+      "parent": "A61B18/18",
+      "ja": "レーザーを用いるもの［７］",
+      "en": "using laser",
+      "count": 12838,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B18/22": {
+      "code": "A61B18/22",
+      "level": 3,
+      "parent": "A61B18/20",
+      "ja": "可撓性のある導管，例．光ファイバー，により方向付けられた光線；そのためのハンドピース［７］",
+      "en": "the beam being directed along or through a flexible conduit, e.g. an optical fibre; Hand-pieces therefor",
+      "count": 4029,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B18/24": {
+      "code": "A61B18/24",
+      "level": 4,
+      "parent": "A61B18/22",
+      "ja": "カテーテルを有するもの（Ａ６１Ｂ１８／２６，Ａ６１Ｂ１８／２８が優先）［７］",
+      "en": "with a catheter(<b>A61B18/26</b>, <b>A61B18/28</b> take precedence)",
+      "count": 2783,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B18/26": {
+      "code": "A61B18/26",
+      "level": 4,
+      "parent": "A61B18/22",
+      "ja": "衝撃波を起こすためのもの，例．レーザー砕石術［７］",
+      "en": "for producing a shock wave, e.g. laser lithotripsy",
+      "count": 1422,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B18/28": {
+      "code": "A61B18/28",
+      "level": 4,
+      "parent": "A61B18/22",
+      "ja": "熱プローブまたは熱吸収体を熱するためのもの［７］",
+      "en": "for heating a thermal probe or absorber",
+      "count": 236,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B34/00": {
+      "code": "A61B34/00",
+      "level": 0,
+      "parent": "A61B",
+      "ja": "コンピュータ支援手術；手術での使用に特に適合したマニプレータまたはロボット［２０１６．０１］",
+      "en": "Computer-aided surgery; Manipulators or robots specially adapted for use in surgery",
+      "count": 11843,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B34/10": {
+      "code": "A61B34/10",
+      "level": 1,
+      "parent": "A61B34/00",
+      "ja": "手術のコンピュータ支援計画，シミュレーションまたはモデリング［２０１６．０１］",
+      "en": "Computer-aided planning, simulation or modelling of surgical operations",
+      "count": 11945,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B34/20": {
+      "code": "A61B34/20",
+      "level": 1,
+      "parent": "A61B34/00",
+      "ja": "手術ナビゲーションシステム；手術機器を追跡または案内するための装置，例．フレームレス定位法のためのもの［２０１６．０１］",
+      "en": "Surgical navigation systems; Devices for tracking or guiding surgical instruments, e.g. for frameless stereotaxis",
+      "count": 18011,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B34/30": {
+      "code": "A61B34/30",
+      "level": 1,
+      "parent": "A61B34/00",
+      "ja": "手術ロボット［２０１６．０１］",
+      "en": "Surgical robots",
+      "count": 18079,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B34/32": {
+      "code": "A61B34/32",
+      "level": 2,
+      "parent": "A61B34/30",
+      "ja": "自律的に作動するもの［２０１６．０１］",
+      "en": "operating autonomously",
+      "count": 1254,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B34/35": {
+      "code": "A61B34/35",
+      "level": 2,
+      "parent": "A61B34/30",
+      "ja": "遠隔手術のためのもの［２０１６．０１］",
+      "en": "for telesurgery",
+      "count": 3182,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B34/37": {
+      "code": "A61B34/37",
+      "level": 2,
+      "parent": "A61B34/30",
+      "ja": "マスタースレーブロボット（Ａ６１Ｂ３４／３５が優先）［２０１６．０１］",
+      "en": "Leader-follower robots(<b>A61B34/35</b> takes precedence)",
+      "count": 4417,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B42/00": {
+      "code": "A61B42/00",
+      "level": 0,
+      "parent": "A61B",
+      "ja": "手術用手袋；手術に特に適合した指サック；それらの取扱いまたは処置のための装置［２０１６．０１］",
+      "en": "Surgical gloves; Finger-stalls specially adapted for surgery; Devices for handling or treatment thereof",
+      "count": 398,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B42/10": {
+      "code": "A61B42/10",
+      "level": 1,
+      "parent": "A61B42/00",
+      "ja": "手術用手袋［２０１６．０１］",
+      "en": "Surgical gloves",
+      "count": 1004,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B42/20": {
+      "code": "A61B42/20",
+      "level": 1,
+      "parent": "A61B42/00",
+      "ja": "手術に特に適合した指サック［２０１６．０１］",
+      "en": "Finger-stalls specially adapted for surgery",
+      "count": 180,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B42/30": {
+      "code": "A61B42/30",
+      "level": 1,
+      "parent": "A61B42/00",
+      "ja": "穴，漏れまたは裂けを検出するための装置［２０１６．０１］",
+      "en": "Devices for detecting perforations, leaks or tears",
+      "count": 39,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B42/40": {
+      "code": "A61B42/40",
+      "level": 1,
+      "parent": "A61B42/00",
+      "ja": "包装またはディスペンサー［２０１６．０１］",
+      "en": "Packages or dispensers",
+      "count": 234,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B42/50": {
+      "code": "A61B42/50",
+      "level": 1,
+      "parent": "A61B42/00",
+      "ja": "着脱のための装置［２０１６．０１］",
+      "en": "Devices for putting-on or removing",
+      "count": 354,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B42/60": {
+      "code": "A61B42/60",
+      "level": 1,
+      "parent": "A61B42/00",
+      "ja": "清掃，洗浄，乾燥または粉付けのための装置［２０１６．０１］",
+      "en": "Devices for cleaning, washing, drying or powdering",
+      "count": 56,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B46/00": {
+      "code": "A61B46/00",
+      "level": 0,
+      "parent": "A61B",
+      "ja": "手術用掛け布［２０１６．０１］",
+      "en": "Surgical drapes",
+      "count": 784,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B46/10": {
+      "code": "A61B46/10",
+      "level": 1,
+      "parent": "A61B46/00",
+      "ja": "機器に特に適合したもの［２０１６．０１］",
+      "en": "specially adapted for instruments",
+      "count": 1066,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B46/13": {
+      "code": "A61B46/13",
+      "level": 2,
+      "parent": "A61B46/10",
+      "ja": "患者の体内に入る掛け布［２０１６．０１］",
+      "en": "the drapes entering the patient's body",
+      "count": 77,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B46/17": {
+      "code": "A61B46/17",
+      "level": 3,
+      "parent": "A61B46/13",
+      "ja": "遠位端で閉じられているもの［２０１６．０１］",
+      "en": "closed at the distal end",
+      "count": 57,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B46/20": {
+      "code": "A61B46/20",
+      "level": 1,
+      "parent": "A61B46/00",
+      "ja": "患者に特に適合したもの［２０１６．０１］",
+      "en": "specially adapted for patients",
+      "count": 2181,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B46/23": {
+      "code": "A61B46/23",
+      "level": 2,
+      "parent": "A61B46/20",
+      "ja": "手術用具を維持または保持する手段を持つもの［２０１６．０１］",
+      "en": "with means to retain or hold surgical implements",
+      "count": 991,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B46/27": {
+      "code": "A61B46/27",
+      "level": 2,
+      "parent": "A61B46/20",
+      "ja": "管状のもの，例．腕または脚のためのもの（Ａ６１Ｂ４６／１３が優先）［２０１６．０１］",
+      "en": "tubular, e.g. for arms or legs(<b>A61B46/13</b> takes precedence)",
+      "count": 355,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B50/00": {
+      "code": "A61B50/00",
+      "level": 0,
+      "parent": "A61B",
+      "ja": "手術用または診断用の器具または機器に特に適合した容器，カバー，家具または保持具，例．無菌カバー（機器に特に適合した掛け布Ａ６１Ｂ４６／１０）［２０１６．０１］",
+      "en": "Containers, covers, furniture or holders specially adapted for surgical or diagnostic appliances or instruments, e.g. sterile covers(drapes specially adapted for instruments <b>A61B46/10</b>)",
+      "count": 1792,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B50/10": {
+      "code": "A61B50/10",
+      "level": 1,
+      "parent": "A61B50/00",
+      "ja": "手術用または診断用の器具または機器に特に適合した家具［２０１６．０１］",
+      "en": "Furniture specially adapted for surgical or diagnostic appliances or instruments",
+      "count": 515,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B50/13": {
+      "code": "A61B50/13",
+      "level": 2,
+      "parent": "A61B50/10",
+      "ja": "台車［２０１６．０１］",
+      "en": "Trolleys",
+      "count": 7228,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B50/15": {
+      "code": "A61B50/15",
+      "level": 2,
+      "parent": "A61B50/10",
+      "ja": "メイヨースタンド；テーブル［２０１６．０１］",
+      "en": "Mayo stands; Tables",
+      "count": 482,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B50/18": {
+      "code": "A61B50/18",
+      "level": 2,
+      "parent": "A61B50/10",
+      "ja": "戸棚；そのための引き出し［２０１６．０１］",
+      "en": "Cupboards; Drawers therefor",
+      "count": 2822,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B50/20": {
+      "code": "A61B50/20",
+      "level": 1,
+      "parent": "A61B50/00",
+      "ja": "手術用または診断用の器具または機器に特に適合した保持器（手術用具を保持する手段を持つ掛け布Ａ６１Ｂ４６／２３；カテーテルのためのものＡ６１Ｍ２５／０２）［２０１６．０１］",
+      "en": "Holders specially adapted for surgical or diagnostic appliances or instruments(drapes with means to hold surgical instruments <b>A61B46/23</b>; for catheters <b>A61M25/02</b>)",
+      "count": 2477,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B50/22": {
+      "code": "A61B50/22",
+      "level": 2,
+      "parent": "A61B50/20",
+      "ja": "ラック［２０１６．０１］",
+      "en": "Racks",
+      "count": 6089,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B50/24": {
+      "code": "A61B50/24",
+      "level": 2,
+      "parent": "A61B50/20",
+      "ja": "スタンド（メイヨースタンドＡ６１Ｂ５０／１５）［２０１６．０１］",
+      "en": "Stands(Mayo stands <b>A61B50/15</b>)",
+      "count": 2284,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B50/26": {
+      "code": "A61B50/26",
+      "level": 3,
+      "parent": "A61B50/24",
+      "ja": "床に基部を有するもの［２０１６．０１］",
+      "en": "floor-based",
+      "count": 480,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B50/28": {
+      "code": "A61B50/28",
+      "level": 3,
+      "parent": "A61B50/24",
+      "ja": "天井からつり下げられたもの［２０１６．０１］",
+      "en": "suspended from the ceiling",
+      "count": 191,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B50/30": {
+      "code": "A61B50/30",
+      "level": 1,
+      "parent": "A61B50/00",
+      "ja": "手術用または診断用の器具または機器を包装，保護，分配，収集または処分するために特に適合した容器（傷口クランプのためのものＡ６１Ｂ１７／１０；結紮クリップのためのものＡ６１Ｂ１７／１２２；手術用の手袋または指サックのための包装またはディスペンサーＡ６１Ｂ４２／４０）［２０１６．０１］",
+      "en": "Containers specially adapted for packaging, protecting, dispensing, collecting or disposing of surgical or diagnostic appliances or instruments(for wound clamps <b>A61B17/10</b>; for ligaturing clips <b>A61B17/122</b>; packages or dispensers for surgical gloves or finger-stalls <b>A61B42/40</b>)",
+      "count": 8392,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B50/31": {
+      "code": "A61B50/31",
+      "level": 2,
+      "parent": "A61B50/30",
+      "ja": "キャリングケースまたはかばん，例．医師用かばん［２０１６．０１］",
+      "en": "Carrying cases or bags, e.g. doctors' bags",
+      "count": 12279,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B50/33": {
+      "code": "A61B50/33",
+      "level": 2,
+      "parent": "A61B50/30",
+      "ja": "トレイ［２０１６．０１］",
+      "en": "Trays",
+      "count": 5285,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B50/34": {
+      "code": "A61B50/34",
+      "level": 2,
+      "parent": "A61B50/30",
+      "ja": "バスケット［２０１６．０１］",
+      "en": "Baskets",
+      "count": 336,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B50/36": {
+      "code": "A61B50/36",
+      "level": 2,
+      "parent": "A61B50/30",
+      "ja": "使用済みの物品を収集または処分するためのもの［２０１６．０１］",
+      "en": "for collecting or disposing of used articles",
+      "count": 5886,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B50/37": {
+      "code": "A61B50/37",
+      "level": 3,
+      "parent": "A61B50/36",
+      "ja": "吸収性物品，例．包帯，衣服，綿棒またはタオル，のためのもの［２０１６．０１］",
+      "en": "for absorbent articles, e.g. bandages, garments, swabs or towels",
+      "count": 971,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B50/39": {
+      "code": "A61B50/39",
+      "level": 3,
+      "parent": "A61B50/36",
+      "ja": "抗菌剤，抗ウイルス剤または消毒剤を含む容器［２０１６．０１］",
+      "en": "the containers containing antimicrobial, antiviral or disinfectant agents",
+      "count": 1021,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B90/00": {
+      "code": "A61B90/00",
+      "level": 0,
+      "parent": "A61B",
+      "ja": "Ａ６１Ｂ１／００－Ａ６１Ｂ５０／００のグループのいずれにも包含されない手術用または診断用に特に適合した機器，用具または付属品，例．脱臼処置または傷口保護のためのもの［２０１６．０１］",
+      "en": "Instruments, implements or accessories specially adapted for surgery or diagnosis and not covered by any of the groups <b>A61B1/00 to A61B50/00</b> , e.g. for luxation treatment or for protecting wound edges",
+      "count": 53574,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B90/10": {
+      "code": "A61B90/10",
+      "level": 1,
+      "parent": "A61B90/00",
+      "ja": "定位手術，例．フレームに基づく定位法，のためのもの［２０１６．０１］",
+      "en": "for stereotaxic surgery, e.g. frame-based stereotaxis",
+      "count": 1492,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B90/11": {
+      "code": "A61B90/11",
+      "level": 2,
+      "parent": "A61B90/10",
+      "ja": "針または機器のためのガイド，例．円弧状スライドまたはボールジョイント，を持つもの［２０１６．０１］",
+      "en": "with guides for needles or instruments, e.g. arcuate slides or ball joints",
+      "count": 2515,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B90/13": {
+      "code": "A61B90/13",
+      "level": 3,
+      "parent": "A61B90/11",
+      "ja": "光，例．レーザーポインター，によって案内されるもの［２０１６．０１］",
+      "en": "guided by light, e.g. laser pointers",
+      "count": 884,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B90/14": {
+      "code": "A61B90/14",
+      "level": 2,
+      "parent": "A61B90/10",
+      "ja": "体の部分の固定器，例．頭蓋骨クランプ；固定器の構造上の細部，例．ピン［２０１６．０１］",
+      "en": "Fixators for body parts, e.g. skull clamps; Constructional details of fixators, e.g. pins",
+      "count": 11774,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B90/16": {
+      "code": "A61B90/16",
+      "level": 3,
+      "parent": "A61B90/14",
+      "ja": "バイトブロック［２０１６．０１］",
+      "en": "Bite blocks",
+      "count": 2998,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B90/17": {
+      "code": "A61B90/17",
+      "level": 3,
+      "parent": "A61B90/14",
+      "ja": "軟組織のためのもの，例．乳房保持装置［２０１６．０１］",
+      "en": "for soft tissue, e.g. breast-holding devices",
+      "count": 1726,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B90/18": {
+      "code": "A61B90/18",
+      "level": 3,
+      "parent": "A61B90/14",
+      "ja": "保持シート，例．固定マスク［２０１６．０１］",
+      "en": "Retaining sheets, e.g. immobilising masks",
+      "count": 103,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B90/20": {
+      "code": "A61B90/20",
+      "level": 1,
+      "parent": "A61B90/00",
+      "ja": "非光学的側面に特徴を有する手術用顕微鏡［２０１６．０１］",
+      "en": "Surgical microscopes characterised by non-optical aspects",
+      "count": 1515,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B90/25": {
+      "code": "A61B90/25",
+      "level": 2,
+      "parent": "A61B90/20",
+      "ja": "そのための支持具［２０１６．０１］",
+      "en": "Supports therefor",
+      "count": 753,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B90/30": {
+      "code": "A61B90/30",
+      "level": 1,
+      "parent": "A61B90/00",
+      "ja": "手術野を照らすための装置であって，他の手術用装置または手術手順と相互関係を有する装置［２０１６．０１］",
+      "en": "Devices for illuminating a surgical field, the devices having an interrelation with other surgical devices or with a surgical procedure",
+      "count": 6031,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B90/35": {
+      "code": "A61B90/35",
+      "level": 2,
+      "parent": "A61B90/30",
+      "ja": "そのための支持具［２０１６．０１］",
+      "en": "Supports therefor",
+      "count": 759,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B90/40": {
+      "code": "A61B90/40",
+      "level": 1,
+      "parent": "A61B90/00",
+      "ja": "無菌の手術環境を提供するために特に適合した患者に対し固定または近接した装置［２０１６．０１］",
+      "en": "Apparatus fixed or close to patients specially adapted for providing an aseptic surgical environment",
+      "count": 695,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B90/50": {
+      "code": "A61B90/50",
+      "level": 1,
+      "parent": "A61B90/00",
+      "ja": "手術用機器のための支持具，例．関節があるアーム［２０１６．０１］",
+      "en": "Supports for surgical instruments, e.g. articulated arms",
+      "count": 4625,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B90/53": {
+      "code": "A61B90/53",
+      "level": 2,
+      "parent": "A61B90/50",
+      "ja": "外科医の体に連結されるもの，例．ベルトによって［２０１６．０１］",
+      "en": "connected to the surgeon's body, e.g. by a belt",
+      "count": 126,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B90/57": {
+      "code": "A61B90/57",
+      "level": 2,
+      "parent": "A61B90/50",
+      "ja": "付属品クランプ［２０１６．０１］",
+      "en": "Accessory clamps",
+      "count": 816,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B90/60": {
+      "code": "A61B90/60",
+      "level": 1,
+      "parent": "A61B90/00",
+      "ja": "外科医のための支持具，例．椅子または手支持具（歯科用椅子または手術用椅子と組み合わせた歯科医用または外科医用の腰掛けＡ６１Ｇ１５／０８）［２０１６．０１］",
+      "en": "Supports for surgeons, e.g. chairs or hand supports (seats for dentists or surgeons associated with dental chairs or operating chairs <b>A61G15/08</b>)",
+      "count": 1945,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B90/70": {
+      "code": "A61B90/70",
+      "level": 1,
+      "parent": "A61B90/00",
+      "ja": "手術用機器に特に適合した清掃装置［２０１６．０１］",
+      "en": "Cleaning devices specially adapted for surgical instruments",
+      "count": 6235,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B90/80": {
+      "code": "A61B90/80",
+      "level": 1,
+      "parent": "A61B90/00",
+      "ja": "外科医または患者の皮膚を清掃または洗浄するための用具［２０１６．０１］",
+      "en": "Implements for cleaning or washing the skin of surgeons or patients",
+      "count": 2078,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B90/90": {
+      "code": "A61B90/90",
+      "level": 1,
+      "parent": "A61B90/00",
+      "ja": "患者または機器のための識別手段，例．タグ［２０１６．０１］",
+      "en": "Identification means for patients or instruments, e.g. tags",
+      "count": 1990,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B90/92": {
+      "code": "A61B90/92",
+      "level": 2,
+      "parent": "A61B90/90",
+      "ja": "色で符号化されたもの［２０１６．０１］",
+      "en": "coded with colour",
+      "count": 536,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B90/94": {
+      "code": "A61B90/94",
+      "level": 2,
+      "parent": "A61B90/90",
+      "ja": "記号，例．テキスト，で符号化されたもの［２０１６．０１］",
+      "en": "coded with symbols, e.g. text",
+      "count": 644,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B90/96": {
+      "code": "A61B90/96",
+      "level": 3,
+      "parent": "A61B90/94",
+      "ja": "バーコードを用いるもの［２０１６．０１］",
+      "en": "using barcodes",
+      "count": 628,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    },
+    "A61B90/98": {
+      "code": "A61B90/98",
+      "level": 2,
+      "parent": "A61B90/90",
+      "ja": "電磁的手段，例．トランスポンダ，を用いるもの［２０１６．０１］",
+      "en": "using electromagnetic means, e.g. transponders",
+      "count": 1802,
+      "sourceFile": "ipc_A61B.txt",
+      "kind": "ipc"
+    }
+  }
+};

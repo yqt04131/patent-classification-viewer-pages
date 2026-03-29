@@ -1,0 +1,356 @@
+window.IPC_SHARD_F23L = {
+  "generatedAt": "2026-03-20T02:17:46.896Z",
+  "total": 35,
+  "entries": {
+    "F23L": {
+      "code": "F23L",
+      "level": 0,
+      "parent": "F23",
+      "ja": "空気または不燃性液体またはガスの燃焼装置への供給一般（空気または蒸気を供給する手段をもつ火橋Ｆ２３Ｍ３／０４；空気供給通路をもつ邪魔板または遮板Ｆ２３Ｍ９／０４）；燃焼装置への空気供給または通風の制御に特に適合したバルブまたはダンパ；燃焼装置への誘引通風；煙突または通風軸の先端；煙道の末端<br><br><b><ul>サブクラス内の索引</ul></b><br>空気供給<br>通路：１次空気のためのもの；２次空気のためのもの　１／００；９／００<br>バルブまたはダンパ<br>構造　１３／００<br>配置：火の前方のもの；火の後方のもの　３／００；１１／００<br>火の前方の送風発生装置；燃焼用空気の加熱　５／００；１５／００<br>火への空気以外の不燃性の液体またはガスの供給　７／００<br>通風誘引　１７／００<br>このサブクラスの他のグループに分類されない主題事項　９９／００［８］",
+      "en": "SUPPLYING AIR OR NON-COMBUSTIBLE LIQUIDS OR GASES TO COMBUSTION APPARATUS IN GENERAL(firebridges with means for feeding air or steam <b>F23M3/04</b>; baffles or shields with air supply passages <b>F23M9/04</b>);VALVES OR DAMPERS SPECIALLY ADAPTED FOR CONTROLLING AIR SUPPLY OR DRAUGHT IN COMBUSTION APPARATUS; INDUCING DRAUGHT IN COMBUSTION APPARATUS; TOPS FOR CHIMNEYS OR VENTILATING SHAFTS; TERMINALS FOR FLUES; <br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">AIR SUPPLY<tr><td width=\"70%\">Passages for: primary air; secondary air </td><td><b><b>1/00</b>; <b>9/00</b></b></td></tr></tr><tr><td width=\"70%\">Valves or dampers<tr><td width=\"70%\">construction </td><td><b><b>13/00</b></b></td></tr></tr><tr><td width=\"70%\">arrangements: before the fire; after the fire </td><td><b><b>3/00</b>; <b>11/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">Blast-producing apparatus before the fire; heating of air for combustion </td><td><b><b>5/00</b>; <b>15/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">SUPPLYING NON-COMBUSTIBLE LIQUIDS OR GASES, OTHER THAN AIR, TO THE FIRE </td><td><b><b>7/00</b></b></td></tr></tr><tr><td width=\"70%\">DRAUGHT-INDUCING </td><td><b><b>17/00</b></b></td></tr></tr><tr><td width=\"70%\">SUBJECT MATTER NOT PROVIDED FOR IN OTHER GROUPS OF THIS SUBCLASS </td><td><b><b>99/00</b></b></td></tr></tr></table>",
+      "count": 516,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F23": {
+      "code": "F23",
+      "level": 0,
+      "parent": "F",
+      "ja": "燃焼装置；燃焼方法<br><br><b><ul>注</ul></b><br>このクラスにおいては，下記の用語は以下に示す意味で用いる：<br>―“燃焼”は，可燃物質と分子酸素，例．空気中の，との間の発熱を伴う連鎖的な化学反応を意味し，大半の場合に炎または白熱の形式で光を発生させる；<br>―“燃焼室”は，それ自体で維持される火または炎を確立するために燃料がその中で燃焼するものであって，その火または炎を取り囲んでいる室を意味する；<br>―“バーナ”は，それ自体で維持される炎を発生するために流動性燃料が，または空気中に浮遊する固体燃料が，燃焼する燃焼空間へ導かれる装置を意味する；<br>―“空気”は，遊離した酸素を含み，および燃焼を促進または維持させ得る気体の混合物を意味する。",
+      "en": "COMBUSTION APPARATUS; COMBUSTION PROCESSES; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this class, the following terms or expressions are used with the meanings indicated: <ul><li>\"combustion\" means a heat-producing sequence of chemical reactions between a burnable substance and molecular oxygen, e.g. in air, in most cases generating light in the form of flames or a glow;</li><li>\"combustion chamber\" means a chamber in which fuel is burned to establish a self-supporting fire or flame and which surrounds that fire or flame;</li><li>\"burner\" means a device by which fluid fuel, or solid fuel suspended in air, is passed to a combustion space where it burns to produce a self-supporting flame;</li><li>\"air\" means a mixture of gases containing free oxygen and able to promote or support combustion.</li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F": {
+      "code": "F",
+      "level": 0,
+      "parent": null,
+      "ja": "機械工学；照明；加熱；武器；爆破",
+      "en": "MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F23L1/00": {
+      "code": "F23L1/00",
+      "level": 0,
+      "parent": "F23L",
+      "ja": "燃焼用の１次空気を送るための通路または開口（空気入口にある邪魔板または転向板Ｆ２３Ｍ９／０２）",
+      "en": "Passages or apertures for delivering primary air for combustion(baffles or deflectors in air inlets <b>F23M9/02</b>)",
+      "count": 7397,
+      "sourceFile": "ipc_F23L.txt",
+      "kind": "ipc"
+    },
+    "F23L1/02": {
+      "code": "F23L1/02",
+      "level": 1,
+      "parent": "F23L1/00",
+      "ja": "火の下方へ空気を送入することによるもの",
+      "en": "by discharging the air below the fire",
+      "count": 1448,
+      "sourceFile": "ipc_F23L.txt",
+      "kind": "ipc"
+    },
+    "F23L3/00": {
+      "code": "F23L3/00",
+      "level": 0,
+      "parent": "F23L",
+      "ja": "火の前のバルブまたはダンパの配置",
+      "en": "Arrangements of valves or dampers before the fire",
+      "count": 1287,
+      "sourceFile": "ipc_F23L.txt",
+      "kind": "ipc"
+    },
+    "F23L5/00": {
+      "code": "F23L5/00",
+      "level": 0,
+      "parent": "F23L",
+      "ja": "火の前の送風発生装置",
+      "en": "Blast-producing apparatus before the fire",
+      "count": 1240,
+      "sourceFile": "ipc_F23L.txt",
+      "kind": "ipc"
+    },
+    "F23L5/02": {
+      "code": "F23L5/02",
+      "level": 1,
+      "parent": "F23L5/00",
+      "ja": "ファンまたは送風機の配置",
+      "en": "Arrangements of fans or blowers",
+      "count": 3435,
+      "sourceFile": "ipc_F23L.txt",
+      "kind": "ipc"
+    },
+    "F23L5/04": {
+      "code": "F23L5/04",
+      "level": 1,
+      "parent": "F23L5/00",
+      "ja": "燃焼空気の吸引によるもの，例．蒸気噴射を用いるもの",
+      "en": "by induction of air for combustion, e.g. using steam jet",
+      "count": 577,
+      "sourceFile": "ipc_F23L.txt",
+      "kind": "ipc"
+    },
+    "F23L7/00": {
+      "code": "F23L7/00",
+      "level": 0,
+      "parent": "F23L",
+      "ja": "火への空気以外の不燃性の液体またはガスの供給，例．酸素，蒸気",
+      "en": "Supplying non-combustible liquids or gases, other than air, to the fire, e.g. oxygen, steam",
+      "count": 7323,
+      "sourceFile": "ipc_F23L.txt",
+      "kind": "ipc"
+    },
+    "F23L9/00": {
+      "code": "F23L9/00",
+      "level": 0,
+      "parent": "F23L",
+      "ja": "燃料の燃焼を完全にするための２次空気を送る通路または開口（空気入口にある邪魔板または転向板Ｆ２３Ｍ９／０２）",
+      "en": "Passages or apertures for delivering secondary air for completing combustion of fuel(baffles or deflectors in air inlets <b>F23M9/02</b>)",
+      "count": 5725,
+      "sourceFile": "ipc_F23L.txt",
+      "kind": "ipc"
+    },
+    "F23L9/02": {
+      "code": "F23L9/02",
+      "level": 1,
+      "parent": "F23L9/00",
+      "ja": "火の上方へ空気を送入することによるもの",
+      "en": "by discharging the air above the fire",
+      "count": 1418,
+      "sourceFile": "ipc_F23L.txt",
+      "kind": "ipc"
+    },
+    "F23L9/04": {
+      "code": "F23L9/04",
+      "level": 1,
+      "parent": "F23L9/00",
+      "ja": "火の届かない所，すなわち煙の流出口近辺，へ空気を送入することによるもの",
+      "en": "by discharging the air beyond the fire, i.e. nearer the smoke outlet",
+      "count": 510,
+      "sourceFile": "ipc_F23L.txt",
+      "kind": "ipc"
+    },
+    "F23L9/06": {
+      "code": "F23L9/06",
+      "level": 1,
+      "parent": "F23L9/00",
+      "ja": "火床へ空気を送入することによるもの",
+      "en": "by discharging the air into the fire bed",
+      "count": 693,
+      "sourceFile": "ipc_F23L.txt",
+      "kind": "ipc"
+    },
+    "F23L11/00": {
+      "code": "F23L11/00",
+      "level": 0,
+      "parent": "F23L",
+      "ja": "火の後のバルブまたはダンパの配置",
+      "en": "Arrangements of valves or dampers after the fire",
+      "count": 1377,
+      "sourceFile": "ipc_F23L.txt",
+      "kind": "ipc"
+    },
+    "F23L11/02": {
+      "code": "F23L11/02",
+      "level": 1,
+      "parent": "F23L11/00",
+      "ja": "煙道へ空気を流入させることによって通風を減じるためのもの",
+      "en": "for reducing draught by admission of air to flues",
+      "count": 571,
+      "sourceFile": "ipc_F23L.txt",
+      "kind": "ipc"
+    },
+    "F23L13/00": {
+      "code": "F23L13/00",
+      "level": 0,
+      "parent": "F23L",
+      "ja": "空気供給または通風を制御するためのバルブまたはダンパの構造",
+      "en": "Construction of valves or dampers for controlling air supply or draught",
+      "count": 1617,
+      "sourceFile": "ipc_F23L.txt",
+      "kind": "ipc"
+    },
+    "F23L13/02": {
+      "code": "F23L13/02",
+      "level": 1,
+      "parent": "F23L13/00",
+      "ja": "１軸のまわりにのみ回転しその他の動きをしないもの（おのおのが１軸のまわりに回転する連結された，しころ板のように形成されたものＦ２３Ｌ１３／０８）",
+      "en": "pivoted about a single axis but having no other movement(formed as linked slats each pivoted about an axis <b>F23L13/08</b>)",
+      "count": 1135,
+      "sourceFile": "ipc_F23L.txt",
+      "kind": "ipc"
+    },
+    "F23L13/04": {
+      "code": "F23L13/04",
+      "level": 2,
+      "parent": "F23L13/02",
+      "ja": "面に垂直な軸をもつもの",
+      "en": "with axis perpendicular to face",
+      "count": 362,
+      "sourceFile": "ipc_F23L.txt",
+      "kind": "ipc"
+    },
+    "F23L13/06": {
+      "code": "F23L13/06",
+      "level": 1,
+      "parent": "F23L13/00",
+      "ja": "滑動のみができるもの",
+      "en": "slidable only",
+      "count": 566,
+      "sourceFile": "ipc_F23L.txt",
+      "kind": "ipc"
+    },
+    "F23L13/08": {
+      "code": "F23L13/08",
+      "level": 1,
+      "parent": "F23L13/00",
+      "ja": "回転窓のように動作するもの；板すだれのように動作するもの",
+      "en": "operating as a roller blind; operating as a venetian blind",
+      "count": 217,
+      "sourceFile": "ipc_F23L.txt",
+      "kind": "ipc"
+    },
+    "F23L13/10": {
+      "code": "F23L13/10",
+      "level": 1,
+      "parent": "F23L13/00",
+      "ja": "滑動および回転の両方を含む組み合わされた動きをもつもの",
+      "en": "having a compound movement involving both sliding and pivoting",
+      "count": 80,
+      "sourceFile": "ipc_F23L.txt",
+      "kind": "ipc"
+    },
+    "F23L15/00": {
+      "code": "F23L15/00",
+      "level": 0,
+      "parent": "F23L",
+      "ja": "燃焼用に供給される空気の加熱",
+      "en": "Heating of air supplied for combustion",
+      "count": 9971,
+      "sourceFile": "ipc_F23L.txt",
+      "kind": "ipc"
+    },
+    "F23L15/02": {
+      "code": "F23L15/02",
+      "level": 1,
+      "parent": "F23L15/00",
+      "ja": "蓄熱式熱交換器の配置",
+      "en": "Arrangements of regenerators",
+      "count": 3778,
+      "sourceFile": "ipc_F23L.txt",
+      "kind": "ipc"
+    },
+    "F23L15/04": {
+      "code": "F23L15/04",
+      "level": 1,
+      "parent": "F23L15/00",
+      "ja": "復熱式熱交換器の配置",
+      "en": "Arrangements of recuperators",
+      "count": 4515,
+      "sourceFile": "ipc_F23L.txt",
+      "kind": "ipc"
+    },
+    "F23L17/00": {
+      "code": "F23L17/00",
+      "level": 0,
+      "parent": "F23L",
+      "ja": "誘引通風；煙突または通風軸の先端；煙道の末端",
+      "en": "Inducing draught; Tops for chimneys or ventilating shafts; Terminals for flues",
+      "count": 2736,
+      "sourceFile": "ipc_F23L.txt",
+      "kind": "ipc"
+    },
+    "F23L17/02": {
+      "code": "F23L17/02",
+      "level": 1,
+      "parent": "F23L17/00",
+      "ja": "煙突または通風軸の先端；煙道の末端",
+      "en": "Tops for chimneys or ventilating shafts; Terminals for flues",
+      "count": 3237,
+      "sourceFile": "ipc_F23L.txt",
+      "kind": "ipc"
+    },
+    "F23L17/04": {
+      "code": "F23L17/04",
+      "level": 2,
+      "parent": "F23L17/02",
+      "ja": "平衡―煙道装置，すなわち燃焼器の空気入口と煙出口とを結合する装置",
+      "en": "Balanced-flue arrangements, i.e. devices which combine air inlet to combustion unit with smoke outlet",
+      "count": 1916,
+      "sourceFile": "ipc_F23L.txt",
+      "kind": "ipc"
+    },
+    "F23L17/06": {
+      "code": "F23L17/06",
+      "level": 2,
+      "parent": "F23L17/02",
+      "ja": "分岐したもの；Ｔ形のもの",
+      "en": "branched; T-headed",
+      "count": 128,
+      "sourceFile": "ipc_F23L.txt",
+      "kind": "ipc"
+    },
+    "F23L17/08": {
+      "code": "F23L17/08",
+      "level": 2,
+      "parent": "F23L17/02",
+      "ja": "共軸の円錐またはルーバをもつもの",
+      "en": "with coaxial cones or louvres",
+      "count": 297,
+      "sourceFile": "ipc_F23L.txt",
+      "kind": "ipc"
+    },
+    "F23L17/10": {
+      "code": "F23L17/10",
+      "level": 2,
+      "parent": "F23L17/02",
+      "ja": "その中で先端が全体として動くもの",
+      "en": "wherein the top moves as a whole",
+      "count": 576,
+      "sourceFile": "ipc_F23L.txt",
+      "kind": "ipc"
+    },
+    "F23L17/12": {
+      "code": "F23L17/12",
+      "level": 2,
+      "parent": "F23L17/02",
+      "ja": "先端または末端を煙突，軸または煙道に固定するための装置",
+      "en": "Devices for fastening the top or terminal to chimney, shaft, or flue",
+      "count": 629,
+      "sourceFile": "ipc_F23L.txt",
+      "kind": "ipc"
+    },
+    "F23L17/14": {
+      "code": "F23L17/14",
+      "level": 2,
+      "parent": "F23L17/02",
+      "ja": "ドレン装置",
+      "en": "Draining devices",
+      "count": 1049,
+      "sourceFile": "ipc_F23L.txt",
+      "kind": "ipc"
+    },
+    "F23L17/16": {
+      "code": "F23L17/16",
+      "level": 1,
+      "parent": "F23L17/00",
+      "ja": "吸引装置，例．蒸気噴射，火の届かない所で燃焼生成物に作用するもの",
+      "en": "Induction apparatus, e.g. steam jet, acting on combustion products beyond the fire",
+      "count": 1473,
+      "sourceFile": "ipc_F23L.txt",
+      "kind": "ipc"
+    },
+    "F23L99/00": {
+      "code": "F23L99/00",
+      "level": 0,
+      "parent": "F23L",
+      "ja": "このサブクラスの他のグループに分類されない主題事項［８］",
+      "en": "Subject matter not provided for in other groups of this subclass",
+      "count": 37,
+      "sourceFile": "ipc_F23L.txt",
+      "kind": "ipc"
+    }
+  }
+};

@@ -1,0 +1,846 @@
+window.IPC_SHARD_H02H = {
+  "generatedAt": "2026-03-20T02:17:47.252Z",
+  "total": 84,
+  "entries": {
+    "H02H": {
+      "code": "H02H",
+      "level": 0,
+      "parent": "H02",
+      "ja": "非常保護回路装置（正常でない動作状態の指示または警報Ｇ０１Ｒ，例．Ｇ０１Ｒ３１／００，Ｇ０８Ｂ；線路に沿った故障点測定Ｇ０１Ｒ３１／０８；非常保護装置Ｈ０１Ｈ）<br><br><b><ul>注</ul></b><br>このサブクラスは，正常動作状態から異常状態へ変化する場合における電線，電気機械または電気装置の自動保護のための回路装置のみを包含する。<br><br><b><ul>サブクラス内の索引</ul></b><br>非常保護回路装置<br>状況の変化に応じて自動的に開放またはスイッチングするもの<br>電気的；検知された非電気的；模擬された非電気的　３／００；５／００；６／００<br>特殊な機器またはケーブルまたは線路の区間保護に適用されるもの　７／００<br>過電流または過電圧の制限　９／００<br>望ましくない状況のときの通電防止　１１／００<br>細部　１／００",
+      "en": "EMERGENCY PROTECTIVE CIRCUIT ARRANGEMENTS(indicating or signalling undesired working conditions <b>G01R</b>, e.g. <b>G01R31/00</b>, <b>G08B</b>; locating faults along lines <b>G01R31/08</b>; emergency protective devices <b>H01H</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>This subclass <u>covers</u> only circuit arrangements for the automatic protection of electric lines or electric machines or apparatus in the event of an undesired change from normal working conditions.</li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">EMERGENCY PROTECTIVE CIRCUIT ARRANGEMENTS<tr><td width=\"70%\">For automatic disconnection or switching responsive to variation of conditions:<tr><td width=\"70%\">electric; sensed non-electric; simulated non-electric </td><td><b><b>3/00</b>; <b>5/00</b>; <b>6/00</b></b></td></tr></tr><tr><td width=\"70%\">adapted for specific machines or for sectionalised protection of cables or lines </td><td><b><b>7/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">For limiting excess current or voltage </td><td><b><b>9/00</b></b></td></tr></tr><tr><td width=\"70%\">For preventing switching-on in case of undesired conditions </td><td><b><b>11/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">DETAILS </td><td><b><b>1/00</b></b></td></tr></tr></table>",
+      "count": 1459,
+      "sourceFile": "ipc_H.txt",
+      "kind": "ipc"
+    },
+    "H02": {
+      "code": "H02",
+      "level": 0,
+      "parent": "H",
+      "ja": "電力の発電，変換，配電",
+      "en": "GENERATION, CONVERSION, OR DISTRIBUTION OF ELECTRIC POWER",
+      "count": 0,
+      "sourceFile": "ipc_H.txt",
+      "kind": "ipc"
+    },
+    "H": {
+      "code": "H",
+      "level": 0,
+      "parent": null,
+      "ja": "電気<br><br><b><ul>注</ul></b><br>（利用にあたっての基本原則と一般的指示）<br>Ｉ．セクションＨは以下のものを包含する：<br>（ａ）基本的電気素子，これは全ての電気ユニットと，装置や回路の一般的な機械的構成を包含しており，その中にはプリント配線と称されるものに各種の基本素子を組み立てたものも含まれる。またこれは他に包含されない場合には，ある程度までこれらの素子の製造をも包含する；<br>（ｂ）発電，これは，発電，変換および配電と共にそのための装置の制御を包含する；<br>（ｃ）電気の応用，これは以下のものを包含する：<br>（ｉ）一般的な利用技術，すなわち．電気加熱と電気照明回路の利用技術；<br>（ｉｉ）厳密な意味で電気的か電子的かいずれかの特定の利用技術で国際特許分類の他のセクションに包含されないもの，これは以下のものを含んでいる：<br>（１）電気的光源，これはレーザーを含む；<br>（２）電気的なＸ線技術；<br>（３）電気的なプラズマ技術，および帯電粒子または中性子の発生および加速；<br>（ｄ）基本電子回路およびその制御；<br>（ｅ）電気通信技術；これは電気―機械変換器一般を含む；<br>（ｆ）物品や上記素子を作るための特定の材料の使用，この点については指針の８８項から９０項を参照されたい。<br>ＩＩ．このセクションにおいては，下記の一般規則が適用される：<br>（ａ）上記Ｉ（ｃ）で述べた例外を除いて，国際特許分類のセクションＨ以外のいずれかのセクションに分類される特殊な操作，方法，装置，物体または物品に特有の電気的観点または部分は，常にその操作，方法，装置，物体または物品のためのサブクラスに分類されるか，または類似の性質を有する技術主題に関する共通的な特徴がクラス・レベルで展開されている場合には，それは，該技術主題のための一般的電気的な応用を完全に包含するサブクラスに，その操作，方法，装置，物体または物品と関連して分類される；<br>（ｂ）この様な電気的な応用には，一般的なものであれ特殊なものであれ，次の事項が含まれる。<br>（ｉ）Ａ６１における治療方法および装置；<br>（ｉｉ）Ｂ０１，Ｂ０３およびＢ２３Ｋにおける各種の実験室または工業的操作に用いられる電気的方法および装置；<br>（ｉｉｉ）セクションＢの“運輸”のサブセクションにおける車両一般および特殊な車両への電気の供給，電気的推進および電気照明；<br>（ｉｖ）Ｆ０２Ｐにおける内燃機関の電気点火系，およびＦ２３Ｑにおける燃焼装置一般のもの；<br>（ｖ）セクションＧにおける全ての電気的部分，すなわち，電気変量の測定器を含む測定装置，検査，信号および計算。このＧセクションにおいて電気とは，一般に手段として扱われるものでそれ自体目的として扱われるものではない；<br>（ｃ）全ての電気的な応用は一般的なものであれ特殊なものであれ，それが含んでいる電気的“基本的素子”に関して言えば，“基本的な電気”の観点がセクションＨ（上記Ｉ（ａ）参照）にあることを前提としている。この規則は，セクションＨ自身にある上記Ｉ（ｃ）で示した電気の応用に対しても有効である。",
+      "en": "ELECTRICITY; <br><br><b><u>Note(s)</u></b><br><br><ul><li>These Notes cover the basic principles and general instructions for use of section <b>H</b>.<ul><li>Section <b>H</b> <u>covers</u>: <ul><li>basic electric elements, which cover all electric units and the general mechanical structure of apparatus and circuits, including the assembly of various basic elements into what are called printed circuits and also cover to a certain extent the manufacture of these elements (when not covered elsewhere);</li><li>generation of electricity, which covers the generation, conversion and distribution of electricity together with the controlling of the corresponding gear;</li><li>applied electricity, which <u>covers</u>: <ul><li>general utilisation techniques, viz. those of electric heating and electric lighting circuits;</li><li>some special utilisation techniques, either electric or electronic in the strict sense, which are not covered by other sections of the Classification, including: <ul><li>electric light sources, including lasers;</li><li>electric X-ray technique;</li><li>electric plasma technique and the generation and acceleration of electrically charged particles or neutrons;</li></ul></li></ul></li><li>basic electronic circuits and their control;</li><li>radio or electric communication technique;</li><li>the use of a specified material for the manufacture of the article or element described. In this connection, paragraphs 88 to 90 of the Guide should be referred to.</li></ul></li><li>In this section, the following general rules apply: <ul><li>Subject to the exceptions stated in I(c), above, any electric aspect or part peculiar to a particular operation, process, apparatus, object or article, classified in one of the sections of the Classification other than section <b>H</b>, is always classified in the subclass for that operation, process, apparatus, object or article. Where common characteristics concerning technical subjects of similar nature have been brought out at class level, the electric aspect or part is classified, in conjunction with the operation, process, apparatus, object or article, in a subclass which covers entirely the general electrical applications for the technical subject in question;</li><li>The electrical applications referred to under (a), above, either general or particular, include: <ul><li>the therapeutic processes and apparatus, in class <b>A61</b>;</li><li>the electric processes and apparatus used in various laboratory or industrial operations, in classes <b>B01</b> and <b>B03</b> and in subclass <b>B23K</b>;</li><li>the electricity supply, electric propulsion and electric lighting of vehicles in general and of particular vehicles, in the subsection \"Transporting\" of section <b>B</b>;</li><li>the electric ignition systems of internal-combustion engines, in subclass <b>F02P</b>, and of combustion apparatus in general, in subclass <b>F23Q</b>;</li><li>the whole electrical part of section <b>G</b>, i.e. measuring devices including apparatus for measuring electric variables, checking, signalling and calculating. Electricity in that section is generally dealt with as a means and not as an end in itself;</li></ul></li><li>All electrical applications, both general and particular, presuppose that the \"basic electricity\" aspect appears in section <b>H</b> (see I(a) above) as regards the electric \"basic elements\" which they comprise. This rule is also valid for applied electricity, referred to in I(c), above, which appears in section <b>H</b> itself.</li></ul></li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_H.txt",
+      "kind": "ipc"
+    },
+    "H02H1/00": {
+      "code": "H02H1/00",
+      "level": 0,
+      "parent": "H02H",
+      "ja": "非常保護回路装置の細部",
+      "en": "Details of emergency protective circuit arrangements",
+      "count": 15928,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    },
+    "H02H1/04": {
+      "code": "H02H1/04",
+      "level": 1,
+      "parent": "H02H1/00",
+      "ja": "過度的な異常状態，例．雷，に応答することを防止するための装置",
+      "en": "Arrangements for preventing response to transient abnormal conditions, e.g. to lightning",
+      "count": 1976,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    },
+    "H02H1/06": {
+      "code": "H02H1/06",
+      "level": 1,
+      "parent": "H02H1/00",
+      "ja": "操作用電力を供給するための装置［３］",
+      "en": "Arrangements for supplying operative power",
+      "count": 1658,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    },
+    "H02H3/00": {
+      "code": "H02H3/00",
+      "level": 0,
+      "parent": "H02H",
+      "ja": "電気的に正常な動作状態からの異常変化に直接応答し，自動開放のための非常保護回路装置，その後において，再閉路する場合あるいはしない場合も含む（電気機械装置の特殊型式のものあるいはケーブル，線路系統の区間保護に適用されているものＨ０２Ｈ７／００；予備電源への切換方式Ｈ０２Ｊ９／００）",
+      "en": "Emergency protective circuit arrangements for automatic disconnection directly responsive to an undesired change from normal electric working condition, with or without subsequent reconnection(specially adapted for specific types of electric machines or apparatus or for sectionalised protection of cable or line systems <b>H02H7/00</b>; systems for change-over to standby supply <b>H02J9/00</b>)",
+      "count": 11015,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    },
+    "H02H3/02": {
+      "code": "H02H3/02",
+      "level": 1,
+      "parent": "H02H3/00",
+      "ja": "細部",
+      "en": "Details",
+      "count": 7472,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    },
+    "H02H3/027": {
+      "code": "H02H3/027",
+      "level": 2,
+      "parent": "H02H3/02",
+      "ja": "設定時限後に自動開放するもの（Ｈ０２Ｈ３／０３３，Ｈ０２Ｈ３／０６が優先）［３］",
+      "en": "with automatic disconnection after a predetermined time(<b>H02H3/033</b>, <b>H02H3/06</b> take precedence)",
+      "count": 1050,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    },
+    "H02H3/033": {
+      "code": "H02H3/033",
+      "level": 2,
+      "parent": "H02H3/02",
+      "ja": "優先順に順次開放するもの（Ｈ０２Ｈ３／０６が優先）［３］",
+      "en": "with several disconnections in a preferential order(<b>H02H3/06</b> takes precedence)",
+      "count": 337,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    },
+    "H02H3/04": {
+      "code": "H02H3/04",
+      "level": 2,
+      "parent": "H02H3/02",
+      "ja": "開放に伴って警報または監視を行なうもの，例．保護装置が作動したことを指示するもの",
+      "en": "with warning or supervision in addition to disconnection, e.g. for indicating that protective apparatus has functioned",
+      "count": 8090,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    },
+    "H02H3/05": {
+      "code": "H02H3/05",
+      "level": 2,
+      "parent": "H02H3/02",
+      "ja": "信頼性を向上するための手段をもつもの，例．冗長装置［３］",
+      "en": "with means for increasing reliability, e.g. redundancy arrangements",
+      "count": 5605,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    },
+    "H02H3/06": {
+      "code": "H02H3/06",
+      "level": 2,
+      "parent": "H02H3/02",
+      "ja": "自動再閉路をもつもの",
+      "en": "with automatic reconnection",
+      "count": 6272,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    },
+    "H02H3/07": {
+      "code": "H02H3/07",
+      "level": 3,
+      "parent": "H02H3/06",
+      "ja": "再閉路を設定回数繰り返した後，永続的に開放するもの［３］",
+      "en": "and with permanent disconnection after a predetermined number of reconnection cycles",
+      "count": 468,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    },
+    "H02H3/08": {
+      "code": "H02H3/08",
+      "level": 1,
+      "parent": "H02H3/00",
+      "ja": "過電流に対する応答（過電流に原因する異常温度に応答するものＨ０２Ｈ５／０４）",
+      "en": "responsive to excess current(responsive to abnormal temperature caused by excess current <b>H02H5/04</b>)",
+      "count": 20753,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    },
+    "H02H3/087": {
+      "code": "H02H3/087",
+      "level": 2,
+      "parent": "H02H3/08",
+      "ja": "直流用のもの［３］",
+      "en": "for DC applications",
+      "count": 6159,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    },
+    "H02H3/093": {
+      "code": "H02H3/093",
+      "level": 2,
+      "parent": "H02H3/08",
+      "ja": "時限要素をもつもの［３］",
+      "en": "with timing means",
+      "count": 2709,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    },
+    "H02H3/10": {
+      "code": "H02H3/10",
+      "level": 2,
+      "parent": "H02H3/08",
+      "ja": "その他の異常な電気的状態にも応答するもの",
+      "en": "additionally responsive to some other abnormal electrical conditions",
+      "count": 2485,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    },
+    "H02H3/12": {
+      "code": "H02H3/12",
+      "level": 1,
+      "parent": "H02H3/00",
+      "ja": "軽負荷あるいは無負荷に応答するもの",
+      "en": "responsive to underload or no-load",
+      "count": 818,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    },
+    "H02H3/13": {
+      "code": "H02H3/13",
+      "level": 2,
+      "parent": "H02H3/12",
+      "ja": "多相交流用のもの，例．欠相［３］",
+      "en": "for multiphase applications, e.g. phase interruption",
+      "count": 361,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    },
+    "H02H3/14": {
+      "code": "H02H3/14",
+      "level": 1,
+      "parent": "H02H3/00",
+      "ja": "普通大地電位の部分の電位発生に応答するもの",
+      "en": "responsive to occurrence of voltage on parts normally at earth potential",
+      "count": 1426,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    },
+    "H02H3/16": {
+      "code": "H02H3/16",
+      "level": 1,
+      "parent": "H02H3/00",
+      "ja": "大地，フレームまたは物体への故障電流に応答するもの（平衡装置あるいは差動装置をもつものＨ０２Ｈ３／２６）",
+      "en": "responsive to fault current to earth, frame or mass(with balanced or differential arrangement <b>H02H3/26</b>)",
+      "count": 6506,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    },
+    "H02H3/17": {
+      "code": "H02H3/17",
+      "level": 2,
+      "parent": "H02H3/16",
+      "ja": "被保護装置に印加される補助電圧手段によるもの［３］",
+      "en": "by means of an auxiliary voltage injected into the installation to be protected",
+      "count": 663,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    },
+    "H02H3/18": {
+      "code": "H02H3/18",
+      "level": 1,
+      "parent": "H02H3/00",
+      "ja": "直流電流の反転に応答するもの",
+      "en": "responsive to reversal of direct current",
+      "count": 637,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    },
+    "H02H3/20": {
+      "code": "H02H3/20",
+      "level": 1,
+      "parent": "H02H3/00",
+      "ja": "過電圧に応答するもの",
+      "en": "responsive to excess voltage",
+      "count": 11961,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    },
+    "H02H3/22": {
+      "code": "H02H3/22",
+      "level": 2,
+      "parent": "H02H3/20",
+      "ja": "短期間のもの，例．雷",
+      "en": "of short duration, e.g. lightning",
+      "count": 2177,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    },
+    "H02H3/24": {
+      "code": "H02H3/24",
+      "level": 1,
+      "parent": "H02H3/00",
+      "ja": "不足電圧あるいは無電圧に応答するもの",
+      "en": "responsive to undervoltage or no-voltage",
+      "count": 6866,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    },
+    "H02H3/247": {
+      "code": "H02H3/247",
+      "level": 2,
+      "parent": "H02H3/24",
+      "ja": "時限要素をもつもの［３］",
+      "en": "having timing means",
+      "count": 566,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    },
+    "H02H3/253": {
+      "code": "H02H3/253",
+      "level": 2,
+      "parent": "H02H3/24",
+      "ja": "多相交流用のもの，例．欠相［３］",
+      "en": "for multiphase applications, e.g. phase interruption",
+      "count": 1357,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    },
+    "H02H3/26": {
+      "code": "H02H3/26",
+      "level": 1,
+      "parent": "H02H3/00",
+      "ja": "電圧間または電流間の差に応答するもの；電圧間または電流間の位相角に応答するもの",
+      "en": "responsive to difference between voltages or between currents; responsive to phase angle between voltages or between currents",
+      "count": 3218,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    },
+    "H02H3/28": {
+      "code": "H02H3/28",
+      "level": 2,
+      "parent": "H02H3/26",
+      "ja": "１系統の２つの離れた部分の電圧または電流値の比較を含むもの，例．１線路の両端におけるもの，装置の入出力におけるもの",
+      "en": "involving comparison of the voltage or current values at two spaced portions of a single system, e.g. at opposite ends of one line, at input and output of apparatus",
+      "count": 3112,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    },
+    "H02H3/30": {
+      "code": "H02H3/30",
+      "level": 3,
+      "parent": "H02H3/28",
+      "ja": "パイロット線または他の信号路を使用するもの",
+      "en": "using pilot wires or other signalling channel",
+      "count": 1059,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    },
+    "H02H3/32": {
+      "code": "H02H3/32",
+      "level": 2,
+      "parent": "H02H3/26",
+      "ja": "１系統の異なった導体の対応部における電圧または電流値の比較を含むもの，例．往復導体内の電流の比較",
+      "en": "involving comparison of the voltage or current values at corresponding points in different conductors of a single system, e.g. of currents in go and return conductors",
+      "count": 4973,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    },
+    "H02H3/33": {
+      "code": "H02H3/33",
+      "level": 3,
+      "parent": "H02H3/32",
+      "ja": "零相変流器を用いるもの（Ｈ０２Ｈ３／３４７が優先）［３］",
+      "en": "using summation current transformers(<b>H02H3/347</b> takes precedence)",
+      "count": 2810,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    },
+    "H02H3/34": {
+      "code": "H02H3/34",
+      "level": 3,
+      "parent": "H02H3/32",
+      "ja": "三相系統のもの",
+      "en": "of a three-phase system",
+      "count": 2299,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    },
+    "H02H3/347": {
+      "code": "H02H3/347",
+      "level": 4,
+      "parent": "H02H3/34",
+      "ja": "零相変流器を用いるもの［３］",
+      "en": "using summation current transformers",
+      "count": 1065,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    },
+    "H02H3/353": {
+      "code": "H02H3/353",
+      "level": 4,
+      "parent": "H02H3/34",
+      "ja": "相電圧の比較を含むもの［３］",
+      "en": "involving comparison of phase voltages",
+      "count": 507,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    },
+    "H02H3/36": {
+      "code": "H02H3/36",
+      "level": 2,
+      "parent": "H02H3/26",
+      "ja": "異なった系統の対応部分における電圧または電流値の比較を含むもの，例．並行回線系統の場合",
+      "en": "involving comparison of the voltage or current values at corresponding points of different systems, e.g. of parallel feeder systems",
+      "count": 459,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    },
+    "H02H3/38": {
+      "code": "H02H3/38",
+      "level": 1,
+      "parent": "H02H3/00",
+      "ja": "電圧，電流の両方に応答するもの；電圧電流間の位相角に応答するもの",
+      "en": "responsive to both voltage and current; responsive to phase angle between voltage and current",
+      "count": 2417,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    },
+    "H02H3/40": {
+      "code": "H02H3/40",
+      "level": 1,
+      "parent": "H02H3/00",
+      "ja": "電圧，電流の比に応答するもの",
+      "en": "responsive to ratio of voltage and current",
+      "count": 2033,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    },
+    "H02H3/42": {
+      "code": "H02H3/42",
+      "level": 1,
+      "parent": "H02H3/00",
+      "ja": "電圧，電流の積に応答するもの",
+      "en": "responsive to product of voltage and current",
+      "count": 772,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    },
+    "H02H3/44": {
+      "code": "H02H3/44",
+      "level": 1,
+      "parent": "H02H3/00",
+      "ja": "電気量の変化率に応答するもの［３］",
+      "en": "responsive to the rate of change of electrical quantities",
+      "count": 1003,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    },
+    "H02H3/46": {
+      "code": "H02H3/46",
+      "level": 1,
+      "parent": "H02H3/00",
+      "ja": "周波数偏差に応答するもの［３］",
+      "en": "responsive to frequency deviations",
+      "count": 513,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    },
+    "H02H3/48": {
+      "code": "H02H3/48",
+      "level": 1,
+      "parent": "H02H3/00",
+      "ja": "脱調に応答するもの［３］",
+      "en": "responsive to loss of synchronism",
+      "count": 313,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    },
+    "H02H3/50": {
+      "code": "H02H3/50",
+      "level": 1,
+      "parent": "H02H3/00",
+      "ja": "異常波形の発生に応答するもの，例．直流装置における交流の発生［３］",
+      "en": "responsive to the appearance of abnormal wave forms, e.g. AC in DC installations",
+      "count": 489,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    },
+    "H02H3/52": {
+      "code": "H02H3/52",
+      "level": 2,
+      "parent": "H02H3/50",
+      "ja": "高調波の発生に応答するもの［３］",
+      "en": "responsive to the appearance of harmonics",
+      "count": 380,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    },
+    "H02H5/00": {
+      "code": "H02H5/00",
+      "level": 0,
+      "parent": "H02H",
+      "ja": "電気的でない正常な動作状態からの異常変化に直接応答し，自動開放のための非常保護回路装置，その後において，再閉路する場合あるいはしない場合も含む（被保護装置の模擬装置を用いるものＨ０２Ｈ６／００；特殊型式の電気機械または装置に，またはケーブルあるいは線路系統の区間保護に特に適用されているものＨ０２Ｈ７／００）［３］",
+      "en": "Emergency protective circuit arrangements for automatic disconnection directly responsive to an undesired change from normal non-electric working conditions with or without subsequent reconnection(using simulators of the apparatus being protected <b>H02H6/00</b>; specially adapted for specific types of electric machines or apparatus or for sectionalised protection of cable or line systems <b>H02H7/00</b>)",
+      "count": 3125,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    },
+    "H02H5/04": {
+      "code": "H02H5/04",
+      "level": 1,
+      "parent": "H02H5/00",
+      "ja": "異常温度に応答するもの",
+      "en": "responsive to abnormal temperature",
+      "count": 11073,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    },
+    "H02H5/06": {
+      "code": "H02H5/06",
+      "level": 2,
+      "parent": "H02H5/04",
+      "ja": "油入電気装置におけるもの",
+      "en": "in oil-filled electric apparatus",
+      "count": 182,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    },
+    "H02H5/08": {
+      "code": "H02H5/08",
+      "level": 1,
+      "parent": "H02H5/00",
+      "ja": "異常な流体圧力，液位，液体変位に応答するもの，例．ブッフホルツ継電器",
+      "en": "responsive to abnormal fluid pressure, liquid level or liquid displacement, e.g. Buchholz relays",
+      "count": 1643,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    },
+    "H02H5/10": {
+      "code": "H02H5/10",
+      "level": 1,
+      "parent": "H02H5/00",
+      "ja": "機械的損傷に対して応答するもの，例．線路の断線，接地の破損",
+      "en": "responsive to mechanical injury, e.g. rupture of line, breakage of earth connection",
+      "count": 1235,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    },
+    "H02H5/12": {
+      "code": "H02H5/12",
+      "level": 1,
+      "parent": "H02H5/00",
+      "ja": "生物による電気的導電部への接近，あるいは接触に対して応答するもの",
+      "en": "responsive to undesired approach to, or touching of, live parts by living beings",
+      "count": 1140,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    },
+    "H02H6/00": {
+      "code": "H02H6/00",
+      "level": 0,
+      "parent": "H02H",
+      "ja": "被保護装置の模擬装置を用いて，正常な非電気的動作状態からの異常変化に応答する非常保護回路装置，例．サーマルイメージを用いるもの［３］",
+      "en": "Emergency protective circuit arrangements responsive to undesired changes from normal non-electric working conditions using simulators of the apparatus being protected, e.g. using thermal images",
+      "count": 938,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    },
+    "H02H7/00": {
+      "code": "H02H7/00",
+      "level": 0,
+      "parent": "H02H",
+      "ja": "特定の電気機械または装置，またはケーブルあるいは線路系統の区間保護に特に適用され，正常な動作状態からの異常変化の場合に自動スイッチングを行なわせる非常保護回路装置［２００６．０１］",
+      "en": "Emergency protective circuit arrangements specially adapted for specific types of electric machines or apparatus or for sectionalised protection of cable or line systems, and effecting automatic switching in the event of an undesired change from normal working conditions",
+      "count": 8352,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    },
+    "H02H7/04": {
+      "code": "H02H7/04",
+      "level": 1,
+      "parent": "H02H7/00",
+      "ja": "変成器のためのもの",
+      "en": "for transformers",
+      "count": 4798,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    },
+    "H02H7/045": {
+      "code": "H02H7/045",
+      "level": 2,
+      "parent": "H02H7/04",
+      "ja": "変成器の差動保護［３］",
+      "en": "Differential protection of transformers",
+      "count": 1749,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    },
+    "H02H7/05": {
+      "code": "H02H7/05",
+      "level": 2,
+      "parent": "H02H7/04",
+      "ja": "コンデンサ型変圧器のためのもの，例．共振状態に対するもの［３］",
+      "en": "for capacitive voltage transformers, e.g. against resonant conditions",
+      "count": 308,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    },
+    "H02H7/055": {
+      "code": "H02H7/055",
+      "level": 2,
+      "parent": "H02H7/04",
+      "ja": "タップ付変成器またはそのタップ切換装置のためのもの［３］",
+      "en": "for tapped transformers or tap-changing means thereof",
+      "count": 379,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    },
+    "H02H7/06": {
+      "code": "H02H7/06",
+      "level": 1,
+      "parent": "H02H7/00",
+      "ja": "発電機のためのもの；同期調相機のためのもの",
+      "en": "for dynamo-electric generators; for synchronous capacitors",
+      "count": 4789,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    },
+    "H02H7/08": {
+      "code": "H02H7/08",
+      "level": 1,
+      "parent": "H02H7/00",
+      "ja": "電動機のためのもの",
+      "en": "for dynamo-electric motors",
+      "count": 11662,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    },
+    "H02H7/085": {
+      "code": "H02H7/085",
+      "level": 2,
+      "parent": "H02H7/08",
+      "ja": "過負荷に対するもの",
+      "en": "against excessive load",
+      "count": 9107,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    },
+    "H02H7/09": {
+      "code": "H02H7/09",
+      "level": 2,
+      "parent": "H02H7/08",
+      "ja": "過電圧に対するもの；不足電圧に対するもの；位相障害に対するもの",
+      "en": "against over-voltage; against reduction of voltage; against phase interruption",
+      "count": 4368,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    },
+    "H02H7/093": {
+      "code": "H02H7/093",
+      "level": 2,
+      "parent": "H02H7/08",
+      "ja": "回転速度があらかじめ定めたレベル以上に増大するものまたは以下に減少するもの（遠心力スイッチＨ０１Ｈ３５／１０）",
+      "en": "against increase beyond, or decrease below, a predetermined level of rotational speed(centrifugal switches <b>H01H35/10</b>)",
+      "count": 1207,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    },
+    "H02H7/097": {
+      "code": "H02H7/097",
+      "level": 2,
+      "parent": "H02H7/08",
+      "ja": "逆回転に対するもの",
+      "en": "against wrong direction of rotation",
+      "count": 383,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    },
+    "H02H7/10": {
+      "code": "H02H7/10",
+      "level": 1,
+      "parent": "H02H7/00",
+      "ja": "変換機器のためのもの；整流機器のためのもの",
+      "en": "for converters; for rectifiers",
+      "count": 3979,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    },
+    "H02H7/12": {
+      "code": "H02H7/12",
+      "level": 2,
+      "parent": "H02H7/10",
+      "ja": "静止型変換器あるいは静止型整流器のためのもの",
+      "en": "for static converters or rectifiers",
+      "count": 11161,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    },
+    "H02H7/122": {
+      "code": "H02H7/122",
+      "level": 3,
+      "parent": "H02H7/12",
+      "ja": "逆変換器のためのもの，すなわち直流／交流変換器［２］",
+      "en": "for inverters, i.e. DC/AC converters",
+      "count": 6107,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    },
+    "H02H7/125": {
+      "code": "H02H7/125",
+      "level": 3,
+      "parent": "H02H7/12",
+      "ja": "整流器のためのもの［２］",
+      "en": "for rectifiers",
+      "count": 2950,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    },
+    "H02H7/127": {
+      "code": "H02H7/127",
+      "level": 4,
+      "parent": "H02H7/125",
+      "ja": "非常の場合にブロッキング制御電圧または電流を与えるための補助的な制御電極を有するもの［２］",
+      "en": "having auxiliary control electrode to which blocking control voltages or currents are applied in case of emergency",
+      "count": 573,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    },
+    "H02H7/16": {
+      "code": "H02H7/16",
+      "level": 1,
+      "parent": "H02H7/00",
+      "ja": "コンデンサのためのもの（同期調相機のためのものＨ０２Ｈ７／０６）",
+      "en": "for capacitors(for synchronous capacitors <b>H02H7/06</b>)",
+      "count": 1931,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    },
+    "H02H7/18": {
+      "code": "H02H7/18",
+      "level": 1,
+      "parent": "H02H7/00",
+      "ja": "バッテリーのためのもの；蓄電池のためのもの",
+      "en": "for batteries; for accumulators",
+      "count": 13402,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    },
+    "H02H7/20": {
+      "code": "H02H7/20",
+      "level": 1,
+      "parent": "H02H7/00",
+      "ja": "電子装置のためのもの（変換器のためのものＨ０２Ｈ７／１０；電気的測定機器のためのものＧ０１Ｒ１／３６；半導体直流電圧または直流電流調整器のためのものＧ０５Ｆ１／５６９；増幅器のためのものＨ０３Ｆ１／５２；電子的スイッチング回路のためのものＨ０３Ｋ１７／０８）",
+      "en": "for electronic equipment(for converters <b>H02H7/10</b>; for electric measuring instruments <b>G01R1/36</b>; for DC voltage or current semiconductor regulators <b>G05F1/569</b>; for amplifiers <b>H03F1/52</b>; for electronic switching circuits <b>H03K17/08</b>)",
+      "count": 9134,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    },
+    "H02H7/22": {
+      "code": "H02H7/22",
+      "level": 1,
+      "parent": "H02H7/00",
+      "ja": "配電装置のためのもの，例．母線系統；開閉装置のためのもの",
+      "en": "for distribution gear, e.g. bus-bar systems; for switching devices",
+      "count": 9332,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    },
+    "H02H7/24": {
+      "code": "H02H7/24",
+      "level": 1,
+      "parent": "H02H7/00",
+      "ja": "火花間隙避雷器のためのもの",
+      "en": "for spark-gap arresters",
+      "count": 330,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    },
+    "H02H7/26": {
+      "code": "H02H7/26",
+      "level": 1,
+      "parent": "H02H7/00",
+      "ja": "ケーブル，線路系統の区分保護，例．短絡，地絡あるいはアーク放電が生じた区分を開放するためのもの（ケーブルの故障個所の検出Ｇ０１Ｒ３１／０８）",
+      "en": "Sectionalised protection of cable or line systems, e.g. for disconnecting a section on which a short-circuit, earth fault, or arc discharge has occurred(locating faults in cables <b>G01R31/08</b>)",
+      "count": 18798,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    },
+    "H02H7/28": {
+      "code": "H02H7/28",
+      "level": 2,
+      "parent": "H02H7/26",
+      "ja": "メッシュ系統のためのもの",
+      "en": "for meshed systems",
+      "count": 1626,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    },
+    "H02H7/30": {
+      "code": "H02H7/30",
+      "level": 2,
+      "parent": "H02H7/26",
+      "ja": "時間差をつけた開放［３］",
+      "en": "Staggered disconnection",
+      "count": 524,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    },
+    "H02H9/00": {
+      "code": "H02H9/00",
+      "level": 0,
+      "parent": "H02H",
+      "ja": "断路せずに過電流または過電圧を制限するための非常保護回路装置［２００６．０１］",
+      "en": "Emergency protective circuit arrangements for limiting excess current or voltage without disconnection",
+      "count": 9260,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    },
+    "H02H9/02": {
+      "code": "H02H9/02",
+      "level": 1,
+      "parent": "H02H9/00",
+      "ja": "過電流に応答するもの",
+      "en": "responsive to excess current",
+      "count": 18088,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    },
+    "H02H9/04": {
+      "code": "H02H9/04",
+      "level": 1,
+      "parent": "H02H9/00",
+      "ja": "過電圧に応答するもの（避雷器Ｈ０１Ｃ７／１２，Ｈ０１Ｃ８／０４，Ｈ０１Ｇ９／１８，Ｈ０１Ｔ）",
+      "en": "responsive to excess voltage(lightning arrestors <b>H01C7/12</b>, <b>H01C8/04</b>, <b>H01G9/18</b>, <b>H01T</b>)",
+      "count": 28446,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    },
+    "H02H9/06": {
+      "code": "H02H9/06",
+      "level": 2,
+      "parent": "H02H9/04",
+      "ja": "火花間隙避雷器を用いるもの",
+      "en": "using spark-gap arresters",
+      "count": 4973,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    },
+    "H02H9/08": {
+      "code": "H02H9/08",
+      "level": 1,
+      "parent": "H02H9/00",
+      "ja": "地絡故障電流の制限または抑制，例．ペテルゼンコイル［３］",
+      "en": "Limitation or suppression of earth fault currents, e.g. Petersen coil",
+      "count": 3724,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    },
+    "H02H11/00": {
+      "code": "H02H11/00",
+      "level": 0,
+      "parent": "H02H",
+      "ja": "電気的異常状態が生じるおそれのある場合に通電開始を防止するための非常保護回路装置",
+      "en": "Emergency protective circuit arrangements for preventing the switching-on in case an undesired electric working condition might result",
+      "count": 8173,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    },
+    "H02H99/00": {
+      "code": "H02H99/00",
+      "level": 0,
+      "parent": "H02H",
+      "ja": "このサブクラスの他のグループには分類されない主題事項　［２００９．０１］",
+      "en": "Subject matter not provided for in other groups of this subclass",
+      "count": 27,
+      "sourceFile": "ipc_H02H.txt",
+      "kind": "ipc"
+    }
+  }
+};

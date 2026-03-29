@@ -1,0 +1,1426 @@
+window.IPC_SHARD_F24S = {
+  "generatedAt": "2026-03-20T02:17:46.916Z",
+  "total": 142,
+  "entries": {
+    "F24S": {
+      "code": "F24S",
+      "level": 0,
+      "parent": "F24",
+      "ja": "太陽熱集熱器；太陽熱システム（太陽熱から機械動力を生成するものＦ０３Ｇ６／００）［２０１８．０１］<br><br><b><ul>注</ul></b><br>このサブクラスでは，下記の用語または表現は以下に示す意味で用いる：<br>－「太陽熱集熱器モジュール」は，単に「モジュール」としばしば呼ばれるが，下記のものをカバーする；<br>　ａ．太陽熱集熱器全体；<br>　ｂ．太陽熱集熱器の要素，例．反射器，レンズまたは蓄熱要素<br>－「吸収要素」は，太陽光線を吸収し熱に変換する要素をカバーする。<br>－「太陽熱システム」は，構成部品として太陽熱集熱器を有し集めた熱を用いるシステムをカバーする。",
+      "en": "SOLAR HEAT COLLECTORS; SOLAR HEAT SYSTEMS(for producing mechanical power from solar energy <b>F03G6/00</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>In this subclass, the following terms or expressions are used with the meanings indicated:<ul><li>&ldquo;solar heat collector modules&rdquo;, often referred to simply as &ldquo;modules&rdquo;, <u>covers</u>: <ul><li>whole solar heat collectors;</li><li>elements of solar heat collectors, e.g. reflectors, lenses or heat storage elements;</li></ul></li><li>&ldquo;absorbing elements&rdquo; <u>covers</u> elements for absorbing solar rays and converting it into heat;</li><li>&ldquo;solar heat systems&rdquo; <u>covers</u> systems having solar heat collectors as their components and using the collected heat.</li></ul></li></ul>",
+      "count": 47,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F24": {
+      "code": "F24",
+      "level": 0,
+      "parent": "F",
+      "ja": "加熱；レンジ；換気<br><br><b><ul>注</ul></b><br>このクラスにおいては，下記の用語は以下に示す意味で用いる：<br>―“ストーブ”は開放式炉，例．暖炉，を持つような装置を包含する；<br>―“レンジ”は種々の調理操作または調理と加熱操作をする要素をもった調理装置を意味する。",
+      "en": "HEATING; RANGES; VENTILATING; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this class, the following terms are used with the meanings indicated:<ul><li>\"stove\" includes apparatus which may have an open fire, e.g. fireplace;</li><li>\"range\" means an apparatus for cooking having elements that perform different cooking operations or cooking and heating operations.</li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F": {
+      "code": "F",
+      "level": 0,
+      "parent": null,
+      "ja": "機械工学；照明；加熱；武器；爆破",
+      "en": "MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F24S10/00": {
+      "code": "F24S10/00",
+      "level": 0,
+      "parent": "F24S",
+      "ja": "作動流体を用いる太陽熱集熱器［２０１８．０１］",
+      "en": "Solar heat collectors using working fluids",
+      "count": 1282,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S10/10": {
+      "code": "F24S10/10",
+      "level": 1,
+      "parent": "F24S10/00",
+      "ja": "作動流体がプールまたは池を形成するもの［２０１８．０１］",
+      "en": "the working fluids forming pools or ponds",
+      "count": 80,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S10/13": {
+      "code": "F24S10/13",
+      "level": 2,
+      "parent": "F24S10/10",
+      "ja": "塩勾配の池［２０１８．０１］",
+      "en": "Salt-gradient ponds",
+      "count": 49,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S10/17": {
+      "code": "F24S10/17",
+      "level": 2,
+      "parent": "F24S10/10",
+      "ja": "カバーまたは浮遊する太陽光吸収要素を用いるもの［２０１８．０１］",
+      "en": "using covers or floating solar absorbing elements",
+      "count": 42,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S10/20": {
+      "code": "F24S10/20",
+      "level": 1,
+      "parent": "F24S10/00",
+      "ja": "２以上の作動流体のための回路を有するもの（２以上の流体間で熱交換を行う手段を有するものＦ２４Ｓ１０／３０）［２０１８．０１］",
+      "en": "having circuits for two or more working fluids(with means for exchanging heat between two or more fluids <b>F24S10/30</b>)",
+      "count": 162,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S10/25": {
+      "code": "F24S10/25",
+      "level": 1,
+      "parent": "F24S10/00",
+      "ja": "同一の作動流体のための太陽光線の方向に積層された２以上の流路を備えるもの，例．下側循環経路と接続される上側循環経路を備えたもの［２０１８．０１］",
+      "en": "having two or more passages for the same working fluid layered in the direction of solar rays, e.g. having upper circulation channels connected with lower circulation channels",
+      "count": 79,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S10/30": {
+      "code": "F24S10/30",
+      "level": 1,
+      "parent": "F24S10/00",
+      "ja": "２以上の作動流体間で熱交換するための手段を有するもの［２０１８．０１］",
+      "en": "with means for exchanging heat between two or more working fluids",
+      "count": 3814,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S10/40": {
+      "code": "F24S10/40",
+      "level": 1,
+      "parent": "F24S10/00",
+      "ja": "吸収要素が透明なエンクロージャに囲われたもの，例．真空太陽熱集熱器［２０１８．０１］",
+      "en": "in absorbing elements surrounded by transparent enclosures, e.g. evacuated solar heat collectors",
+      "count": 10628,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S10/50": {
+      "code": "F24S10/50",
+      "level": 1,
+      "parent": "F24S10/00",
+      "ja": "作動流体がプレート間を運ばれるもの［２０１８．０１］",
+      "en": "the working fluids being conveyed between plates",
+      "count": 5387,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S10/55": {
+      "code": "F24S10/55",
+      "level": 2,
+      "parent": "F24S10/50",
+      "ja": "拡大表面，例．突起または波形，を有するもの（作動流体に直接接触する多孔性材料または透過性物体を有する集熱器Ｆ２４Ｓ１０／８０）［２０１８．０１］",
+      "en": "with enlarged surfaces, e.g. with protrusions or corrugations (collectors comprising porous materials or permeable masses directly contacting the working fluids <b>F24S10/80</b>)",
+      "count": 706,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S10/60": {
+      "code": "F24S10/60",
+      "level": 1,
+      "parent": "F24S10/00",
+      "ja": "作動流体が吸収要素上を少しずつ自由に流れるもの［２０１８．０１］",
+      "en": "the working fluids trickling freely over absorbing elements",
+      "count": 580,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S10/70": {
+      "code": "F24S10/70",
+      "level": 1,
+      "parent": "F24S10/00",
+      "ja": "作動流体が筒状の吸熱導管内を運ばれるもの［２０１８．０１］",
+      "en": "the working fluids being conveyed through tubular absorbing conduits",
+      "count": 16274,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S10/75": {
+      "code": "F24S10/75",
+      "level": 2,
+      "parent": "F24S10/70",
+      "ja": "拡大表面，例．突起または波形，を有するもの（作動流体に直接接触する多孔性材料または透過性物体を有する集熱器Ｆ２４Ｓ１０／８０）［２０１８．０１］",
+      "en": "with enlarged surfaces, e.g. with protrusions or corrugations(collectors comprising porous material or permeable masses directly contacting the working fluids <b>F24S10/80</b>)",
+      "count": 2696,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S10/80": {
+      "code": "F24S10/80",
+      "level": 1,
+      "parent": "F24S10/00",
+      "ja": "作動流体に直接接触する多孔性材料または透過性物体を有するもの（気化部から凝縮部へ液化作動流体を毛細管力で運ぶものＦ２４Ｓ１０／９５）［２０１８．０１］",
+      "en": "comprising porous material or permeable masses directly contacting the working fluids (for conveying liquefied working fluid from evaporator sections to condenser sections with capillary force <b>F24S10/95</b>)",
+      "count": 548,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S10/90": {
+      "code": "F24S10/90",
+      "level": 1,
+      "parent": "F24S10/00",
+      "ja": "内部の熱サイフォン循環を用いるもの［２０１８．０１］",
+      "en": "using internal thermosiphonic circulation",
+      "count": 224,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S10/95": {
+      "code": "F24S10/95",
+      "level": 2,
+      "parent": "F24S10/90",
+      "ja": "気化部と凝縮部を有するもの，例．ヒートパイプ［２０１８．０１］",
+      "en": "having evaporator sections and condenser sections, e.g. heat pipes",
+      "count": 4197,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S20/00": {
+      "code": "F24S20/00",
+      "level": 0,
+      "parent": "F24S",
+      "ja": "特定の用途または環境に特に適合する太陽熱収熱器［２０１８．０１］",
+      "en": "Solar heat collectors specially adapted for particular uses or environments",
+      "count": 1534,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S20/20": {
+      "code": "F24S20/20",
+      "level": 1,
+      "parent": "F24S20/00",
+      "ja": "集中された太陽エネルギーを受ける太陽熱集熱器，例．太陽発電プラント用受熱器［２０１８．０１］",
+      "en": "Solar heat collectors for receiving concentrated solar energy, e.g. receivers for solar power plants",
+      "count": 3013,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S20/25": {
+      "code": "F24S20/25",
+      "level": 2,
+      "parent": "F24S20/20",
+      "ja": "集中された放射と組み合わせて直接の太陽放射を用いるもの［２０１８．０１］",
+      "en": "using direct solar radiation in combination with concentrated radiation",
+      "count": 84,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S20/30": {
+      "code": "F24S20/30",
+      "level": 1,
+      "parent": "F24S20/00",
+      "ja": "対象物を加熱する太陽熱集熱器，例．太陽熱調理器または太陽炉［２０１８．０１］",
+      "en": "Solar heat collectors for heating objects, e.g. solar cookers or solar furnaces",
+      "count": 2772,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S20/40": {
+      "code": "F24S20/40",
+      "level": 1,
+      "parent": "F24S20/00",
+      "ja": "他の熱源，例．電気加熱または周囲の空気の熱，を組み合わせた太陽熱集熱器［２０１８．０１］",
+      "en": "Solar heat collectors combined with other heat sources, e.g. using electrical heating or heat from ambient air",
+      "count": 5454,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S20/50": {
+      "code": "F24S20/50",
+      "level": 1,
+      "parent": "F24S20/00",
+      "ja": "丸められるまたは折りたためる太陽熱集熱器モジュール［２０１８．０１］",
+      "en": "Rollable or foldable solar heat collector modules",
+      "count": 172,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S20/55": {
+      "code": "F24S20/55",
+      "level": 2,
+      "parent": "F24S20/50",
+      "ja": "可撓性材料で作られるもの［２０１８．０１］",
+      "en": "made of flexible materials",
+      "count": 100,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S20/60": {
+      "code": "F24S20/60",
+      "level": 1,
+      "parent": "F24S20/00",
+      "ja": "固定構造物，例．建物，に組み込まれる太陽熱集熱器［２０１８．０１］",
+      "en": "Solar heat collectors integrated in fixed constructions, e.g. in buildings",
+      "count": 538,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S20/61": {
+      "code": "F24S20/61",
+      "level": 2,
+      "parent": "F24S20/60",
+      "ja": "パッシブ型太陽熱集熱器，例．外部エネルギー源なしに作動するもの［２０１８．０１］",
+      "en": "Passive solar heat collectors, e.g. operated without external energy sources",
+      "count": 84,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S20/62": {
+      "code": "F24S20/62",
+      "level": 2,
+      "parent": "F24S20/60",
+      "ja": "フェンス，らんかんまたは手すりの形態のもの［２０１８．０１］",
+      "en": "in the form of fences, balustrades or handrails",
+      "count": 74,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S20/63": {
+      "code": "F24S20/63",
+      "level": 2,
+      "parent": "F24S20/60",
+      "ja": "窓の形態のもの［２０１８．０１］",
+      "en": "in the form of windows",
+      "count": 178,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S20/64": {
+      "code": "F24S20/64",
+      "level": 2,
+      "parent": "F24S20/60",
+      "ja": "床構造，地面または道路の形態のもの［２０１８．０１］",
+      "en": "in the form of floor constructions, grounds or roads",
+      "count": 54,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S20/66": {
+      "code": "F24S20/66",
+      "level": 2,
+      "parent": "F24S20/60",
+      "ja": "ファサード構造，例．壁構造，の形態のもの（屋根板またはタイルの形態のものＦ２４Ｓ２０／６９）［２０１８．０１］",
+      "en": "in the form of facade constructions, e.g. wall constructions(in the form of shingles or tiles <b>F24S20/69</b>)",
+      "count": 741,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S20/67": {
+      "code": "F24S20/67",
+      "level": 2,
+      "parent": "F24S20/60",
+      "ja": "屋根構造の形態のもの（屋根板またはタイルの形態のものＦ２４Ｓ２０／６９）［２０１８．０１］",
+      "en": "in the form of roof constructions(in the form of shingles or tiles <b>F24S20/69</b>)",
+      "count": 939,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S20/69": {
+      "code": "F24S20/69",
+      "level": 2,
+      "parent": "F24S20/60",
+      "ja": "屋根板またはタイルの形態のもの［２０１８．０１］",
+      "en": "in the form of shingles or tiles",
+      "count": 287,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S20/70": {
+      "code": "F24S20/70",
+      "level": 1,
+      "parent": "F24S20/00",
+      "ja": "水上太陽熱集熱器モジュール（プールまたは池を形成する作動流体用Ｆ２４Ｓ１０／１０）［２０１８．０１］",
+      "en": "Waterborne solar heat collector modules (for working fluids forming pools or ponds <b>F24S10/10</b>)",
+      "count": 510,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S20/80": {
+      "code": "F24S20/80",
+      "level": 1,
+      "parent": "F24S20/00",
+      "ja": "空中浮遊太陽光集熱器モジュール，例．膨張可能構造［２０１８．０１］",
+      "en": "Airborne solar heat collector modules, e.g. inflatable structures",
+      "count": 42,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S21/00": {
+      "code": "F24S21/00",
+      "level": 0,
+      "parent": "F24S",
+      "ja": "グループＦ２４Ｓ１０／００～Ｆ２４Ｓ２０／００に分類されない太陽熱集熱器［２０１８．０１］",
+      "en": "Solar heat collectors not provided for in groups <b>F24S10/00 to F24S20/00</b> ",
+      "count": 75,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S23/00": {
+      "code": "F24S23/00",
+      "level": 0,
+      "parent": "F24S",
+      "ja": "太陽熱集熱器に太陽光線を集中させる装置［２０１８．０１］",
+      "en": "Arrangements for concentrating solar rays for solar heat collectors",
+      "count": 2898,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S23/30": {
+      "code": "F24S23/30",
+      "level": 1,
+      "parent": "F24S23/00",
+      "ja": "レンズを有するもの［２０１８．０１］",
+      "en": "with lenses",
+      "count": 4184,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S23/70": {
+      "code": "F24S23/70",
+      "level": 1,
+      "parent": "F24S23/00",
+      "ja": "反射体を有するもの［２０１８．０１］",
+      "en": "with reflectors",
+      "count": 7726,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S23/71": {
+      "code": "F24S23/71",
+      "level": 2,
+      "parent": "F24S23/70",
+      "ja": "パラボラ型反射面を有するもの（円筒放物線状の反射面を有するものＦ２４Ｓ２３／７４）［２０１８．０１］",
+      "en": "with parabolic reflective surfaces(with cylindro-parabolic reflective surfaces <b>F24S23/74</b>)",
+      "count": 2415,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S23/72": {
+      "code": "F24S23/72",
+      "level": 2,
+      "parent": "F24S23/70",
+      "ja": "半球形反射面を有するもの［２０１８．０１］",
+      "en": "with hemispherical reflective surfaces",
+      "count": 251,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S23/74": {
+      "code": "F24S23/74",
+      "level": 2,
+      "parent": "F24S23/70",
+      "ja": "トラフ形状または円筒放物線状の反射面を有するもの［２０１８．０１］",
+      "en": "with trough-shaped or cylindro-parabolic reflective surfaces",
+      "count": 2446,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S23/75": {
+      "code": "F24S23/75",
+      "level": 2,
+      "parent": "F24S23/70",
+      "ja": "円錐状の反射面を有するもの［２０１８．０１］",
+      "en": "with conical reflective surfaces",
+      "count": 134,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S23/77": {
+      "code": "F24S23/77",
+      "level": 2,
+      "parent": "F24S23/70",
+      "ja": "平らな反射面を有するもの［２０１８．０１］",
+      "en": "with flat reflective plates",
+      "count": 1743,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S23/79": {
+      "code": "F24S23/79",
+      "level": 2,
+      "parent": "F24S23/70",
+      "ja": "間隔をもって対向して相互作用する反射面を有するもの［２０１８．０１］  ［２０１８．０１］",
+      "en": "with spaced and opposed interacting reflective surfaces",
+      "count": 802,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S25/00": {
+      "code": "F24S25/00",
+      "level": 0,
+      "parent": "F24S",
+      "ja": "太陽熱集熱器モジュールのための静止型の取付け体または支持体の構成［２０１８．０１］<br><br><b><ul>注</ul></b><br>光電池モジュールにおいても使用されることが意図される構成はサブクラスＨ０２Ｓの適当なグループに更に分類されるべきである。",
+      "en": "Arrangement of stationary mountings or supports for solar heat collector modules; <br><br><b><u>Note(s)</u></b><br><br><ul><li>Arrangements also intended for use with photovoltaic modules should further be classified in the relevant groups of subclass <b>H02S</b>. </li></ul>",
+      "count": 1563,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S25/10": {
+      "code": "F24S25/10",
+      "level": 1,
+      "parent": "F24S25/00",
+      "ja": "支持面から離れる方向に延びているもの［２０１８．０１］",
+      "en": "extending in directions away from a supporting surface",
+      "count": 670,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S25/11": {
+      "code": "F24S25/11",
+      "level": 2,
+      "parent": "F24S25/10",
+      "ja": "成形体，例．コンクリート要素，発泡要素または型成形された箱類似の要素，を用いるもの［２０１８．０１］",
+      "en": "using shaped bodies, e.g. concrete elements, foamed elements or moulded box-like elements",
+      "count": 189,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S25/12": {
+      "code": "F24S25/12",
+      "level": 2,
+      "parent": "F24S25/10",
+      "ja": "上側プロファイルと組み合わせて支柱を用いるもの［２０１８．０１］",
+      "en": "using posts in combination with upper profiles",
+      "count": 931,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S25/13": {
+      "code": "F24S25/13",
+      "level": 2,
+      "parent": "F24S25/10",
+      "ja": "プロファイル構造，例．トラス（Ｆ２４Ｓ２５／１２が優先）［２０１８．０１］",
+      "en": "Profile arrangements, e.g. trusses(<b>F24S25/12</b> takes precedence)",
+      "count": 1842,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S25/15": {
+      "code": "F24S25/15",
+      "level": 2,
+      "parent": "F24S25/10",
+      "ja": "曲がった板を用いるもの；板の組み合わせ体を用いるもの［２０１８．０１］",
+      "en": "using bent plates; using assemblies of plates",
+      "count": 51,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S25/16": {
+      "code": "F24S25/16",
+      "level": 2,
+      "parent": "F24S25/10",
+      "ja": "相互に接続されたスタンド構造の構成；隣接するモジュールのために別個の支持部分を有するスタンド構造［２０１８．０１］",
+      "en": "Arrangement of interconnected standing structures; Standing structures having separate supporting portions for adjacent modules",
+      "count": 686,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S25/20": {
+      "code": "F24S25/20",
+      "level": 1,
+      "parent": "F24S25/00",
+      "ja": "モジュール用周囲枠［２０１８．０１］",
+      "en": "Peripheral frames for modules",
+      "count": 1783,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S25/30": {
+      "code": "F24S25/30",
+      "level": 1,
+      "parent": "F24S25/00",
+      "ja": "実質的に取付け面に沿って延びている長尺剛性取付け要素を用いるもの，例．建物を太陽熱集熱器で被覆するためのもの（支持面から離れた方向に延びるものＦ２４Ｓ２５／１０；モジュール用周囲枠Ｆ２４Ｓ２５／２０）［２０１８．０１］",
+      "en": "using elongate rigid mounting elements extending substantially along the mounting surface, e.g. for covering buildings with solar heat collectors(extending in directions away from the supporting surface <b>F24S25/10</b>; peripheral frames for modules <b>F24S25/20</b>)",
+      "count": 282,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S25/33": {
+      "code": "F24S25/33",
+      "level": 2,
+      "parent": "F24S25/30",
+      "ja": "実質的に平面形状の組み立て体を形成するもの，例．同一平面上のまたは積み重ねられたプロファイル［２０１８．０１］",
+      "en": "forming substantially planar assemblies, e.g. of coplanar or stacked profiles",
+      "count": 488,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S25/35": {
+      "code": "F24S25/35",
+      "level": 3,
+      "parent": "F24S25/33",
+      "ja": "隣接するモジュールのために個別の支持部分を画定する断面形状を有するプロファイルの手段によるもの［２０１８．０１］",
+      "en": "by means of profiles with a cross-section defining separate supporting portions for adjacent modules",
+      "count": 112,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S25/37": {
+      "code": "F24S25/37",
+      "level": 3,
+      "parent": "F24S25/33",
+      "ja": "縦方向および横方向のプロファイルからなる一平面状グリッドを形成するもの［２０１８．０１］",
+      "en": "forming coplanar grids comprising longitudinal and transversal profiles",
+      "count": 95,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S25/40": {
+      "code": "F24S25/40",
+      "level": 1,
+      "parent": "F24S25/00",
+      "ja": "板状の取付け要素，例．輪郭付けされたまたは波付けされた板，を用いるもの；板状のモジュール枠（支持面から離れる方向に延びるものＦ２４Ｓ２５／１０）［２０１８．０１］",
+      "en": "using plate-like mounting elements, e.g. profiled or corrugated plates; Plate-like module frames (extending in directions away from a supporting surface <b>F24S25/10</b>)",
+      "count": 267,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S25/50": {
+      "code": "F24S25/50",
+      "level": 1,
+      "parent": "F24S25/00",
+      "ja": "長尺の非剛性要素，例．ストラップ，ワイヤーまたはロープ，を有するもの［２０１８．０１］",
+      "en": "comprising elongate non-rigid elements, e.g. straps, wires or ropes",
+      "count": 1093,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S25/60": {
+      "code": "F24S25/60",
+      "level": 1,
+      "parent": "F24S25/00",
+      "ja": "太陽熱集熱器モジュールの支持に特に適合する固定手段，例．ファスナー［２０１８．０１］",
+      "en": "Fixation means, e.g. fasteners, specially adapted for supporting solar heat collector modules",
+      "count": 2373,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S25/61": {
+      "code": "F24S25/61",
+      "level": 2,
+      "parent": "F24S25/60",
+      "ja": "地面または建物構造へ固定するためのもの［２０１８．０１］",
+      "en": "for fixing to the ground or to building structures",
+      "count": 3170,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S25/613": {
+      "code": "F24S25/613",
+      "level": 3,
+      "parent": "F24S25/61",
+      "ja": "曲がったストリップまたはストリップ組み立て体の形態であるもの；フック状のコネクタ；建物を被覆する要素の間に取り付けられるコネクタ［２０１８．０１］",
+      "en": "in the form of bent strips or assemblies of strips; Hook-like connectors; Connectors to be mounted between building-covering elements",
+      "count": 324,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S25/615": {
+      "code": "F24S25/615",
+      "level": 3,
+      "parent": "F24S25/61",
+      "ja": "建物の突起部に，例．波状部または立設継目部に，固定するためのもの［２０１８．０１］",
+      "en": "for fixing to protruding parts of buildings, e.g. to corrugations or to standing seams",
+      "count": 364,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S25/617": {
+      "code": "F24S25/617",
+      "level": 3,
+      "parent": "F24S25/61",
+      "ja": "地面に打ち込まれる要素，例．アンカー杭；支持要素のための基礎；支持構造を地面または平らな水平面に接続するためのコネクタ［２０１８．０１］",
+      "en": "Elements driven into the ground, e.g. anchor-piles; Foundations for supporting elements; Connectors for connecting supporting structures to the ground or to flat horizontal surfaces",
+      "count": 993,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S25/63": {
+      "code": "F24S25/63",
+      "level": 2,
+      "parent": "F24S25/60",
+      "ja": "モジュールまたはその周縁フレームを支持要素に固定するためのもの［２０１８．０１］",
+      "en": "for fixing modules or their peripheral frames to supporting elements",
+      "count": 2989,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S25/632": {
+      "code": "F24S25/632",
+      "level": 3,
+      "parent": "F24S25/63",
+      "ja": "サイドコネクタ；ベースコネクタ［２０１８．０１］",
+      "en": "Side connectors; Base connectors",
+      "count": 1267,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S25/634": {
+      "code": "F24S25/634",
+      "level": 3,
+      "parent": "F24S25/63",
+      "ja": "クランプ；クリップ［２０１８．０１］",
+      "en": "Clamps; Clips",
+      "count": 857,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S25/636": {
+      "code": "F24S25/636",
+      "level": 4,
+      "parent": "F24S25/634",
+      "ja": "ねじ山付き要素により締め付けるもの［２０１８．０１］",
+      "en": "clamping by screw-threaded elements",
+      "count": 1300,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S25/65": {
+      "code": "F24S25/65",
+      "level": 2,
+      "parent": "F24S25/60",
+      "ja": "隣接する支持要素を連結するためのもの，例．プロファイルを接続するためのもの［２０１８．０１］",
+      "en": "for coupling adjacent supporting elements, e.g. for connecting profiles together",
+      "count": 750,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S25/67": {
+      "code": "F24S25/67",
+      "level": 2,
+      "parent": "F24S25/60",
+      "ja": "隣接するモジュールまたはその周縁フレームを連結するためのもの（モジュールまたは周縁フレームを支持要素に固定するためのものＦ２４Ｓ２５／６３）［２０１８．０１］",
+      "en": "for coupling adjacent modules or their peripheral frames(for fixing modules or their peripheral frames to supporting elements <b>F24S25/63</b>)",
+      "count": 723,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S25/70": {
+      "code": "F24S25/70",
+      "level": 1,
+      "parent": "F24S25/00",
+      "ja": "支持要素の互いのまたは取付け面への最終的な位置または方向を調整する手段を有するもの；取付けの許容誤差を補正する手段を有するもの［２０１８．０１］",
+      "en": "with means for adjusting the final position or orientation of supporting elements in relation to each other or to a mounting surface; with means for compensating mounting tolerances",
+      "count": 2684,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S30/00": {
+      "code": "F24S30/00",
+      "level": 0,
+      "parent": "F24S",
+      "ja": "太陽熱集熱器モジュールを動かすまたは方向付けするための装置［２０１８．０１］<br><br><b><ul>注</ul></b><br>光電池モジュールにおいても使用されることが意図される構成はサブクラスＨ０２Ｓの適当なグループに更に分類されるべきである。",
+      "en": "Arrangements for moving or orienting solar heat collector modules; <br><br><b><u>Note(s)</u></b><br><br><ul><li>Arrangements also intended for use with photovoltaic modules should further be classified in the relevant groups of subclass <b>H02S</b>. </li></ul>",
+      "count": 2117,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S30/20": {
+      "code": "F24S30/20",
+      "level": 1,
+      "parent": "F24S30/00",
+      "ja": "直線動作用［２０１８．０１］",
+      "en": "for linear movement",
+      "count": 2950,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S30/40": {
+      "code": "F24S30/40",
+      "level": 1,
+      "parent": "F24S30/00",
+      "ja": "回転動作用［２０１８．０１］",
+      "en": "for rotary movement",
+      "count": 2604,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S30/42": {
+      "code": "F24S30/42",
+      "level": 2,
+      "parent": "F24S30/40",
+      "ja": "回転軸を１つだけ有するもの［２０１８．０１］",
+      "en": "with only one rotation axis",
+      "count": 345,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S30/422": {
+      "code": "F24S30/422",
+      "level": 3,
+      "parent": "F24S30/42",
+      "ja": "垂直軸［２０１８．０１］",
+      "en": "Vertical axis",
+      "count": 1455,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S30/425": {
+      "code": "F24S30/425",
+      "level": 3,
+      "parent": "F24S30/42",
+      "ja": "水平軸［２０１８．０１］",
+      "en": "Horizontal axis",
+      "count": 14753,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S30/428": {
+      "code": "F24S30/428",
+      "level": 3,
+      "parent": "F24S30/42",
+      "ja": "傾斜軸を有するもの［２０１８．０１］",
+      "en": "with inclined axis",
+      "count": 136,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S30/45": {
+      "code": "F24S30/45",
+      "level": 2,
+      "parent": "F24S30/40",
+      "ja": "２つの回転軸を有するもの［２０１８．０１］",
+      "en": "with two rotation axes",
+      "count": 1106,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S30/452": {
+      "code": "F24S30/452",
+      "level": 3,
+      "parent": "F24S30/45",
+      "ja": "垂直の主軸を有するもの［２０１８．０１］",
+      "en": "with vertical primary axis",
+      "count": 1196,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S30/455": {
+      "code": "F24S30/455",
+      "level": 3,
+      "parent": "F24S30/45",
+      "ja": "水平の主軸を有するもの［２０１８．０１］",
+      "en": "with horizontal primary axis",
+      "count": 474,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S30/458": {
+      "code": "F24S30/458",
+      "level": 3,
+      "parent": "F24S30/45",
+      "ja": "傾斜した主軸を有するもの［２０１８．０１］",
+      "en": "with inclined primary axis",
+      "count": 37,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S30/48": {
+      "code": "F24S30/48",
+      "level": 2,
+      "parent": "F24S30/40",
+      "ja": "３以上の回転軸を有するものまたは多自由度を有するもの［２０１８．０１］",
+      "en": "with three or more rotation axes or with multiple degrees of freedom",
+      "count": 1133,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S40/00": {
+      "code": "F24S40/00",
+      "level": 0,
+      "parent": "F24S",
+      "ja": "太陽熱集熱器の安全装置または保護装置；太陽熱集熱器の故障を防ぐもの（制御装置Ｆ２４Ｓ５０／００）［２０１８．０１］",
+      "en": "Safety or protection arrangements of solar heat collectors; Preventing malfunction of solar heat collectors(control arrangements  <b>F24S50/00</b>)",
+      "count": 800,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S40/10": {
+      "code": "F24S40/10",
+      "level": 1,
+      "parent": "F24S40/00",
+      "ja": "保護カバーまたは保護包み；閉鎖部材，例．蓋（透明カバーＦ２４Ｓ８０／５０）［２０１８．０１］",
+      "en": "Protective covers or shrouds; Closure members, e.g. lids (transparent coverings <b>F24S80/50</b>)",
+      "count": 968,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S40/20": {
+      "code": "F24S40/20",
+      "level": 1,
+      "parent": "F24S40/00",
+      "ja": "清掃；雪の除去［２０１８．０１］",
+      "en": "Cleaning; Removing snow",
+      "count": 2329,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S40/40": {
+      "code": "F24S40/40",
+      "level": 1,
+      "parent": "F24S40/00",
+      "ja": "腐食防止；ちりまたは汚染からの保護［２０１８．０１］",
+      "en": "Preventing corrosion; Protecting against dirt or contamination",
+      "count": 655,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S40/42": {
+      "code": "F24S40/42",
+      "level": 2,
+      "parent": "F24S40/40",
+      "ja": "太陽モジュール内での結露防止（通気によるものＦ２４Ｓ４０／５３）［２０１８．０１］",
+      "en": "Preventing condensation inside solar modules(by venting <b>F24S40/53</b>)",
+      "count": 34,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S40/44": {
+      "code": "F24S40/44",
+      "level": 2,
+      "parent": "F24S40/40",
+      "ja": "雨水または結露の排出［２０１８．０１］",
+      "en": "Draining rainwater or condensation",
+      "count": 198,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S40/46": {
+      "code": "F24S40/46",
+      "level": 2,
+      "parent": "F24S40/40",
+      "ja": "真空を維持するもの，例．ゲッターを用いることによるもの［２０１８．０１］",
+      "en": "Maintaining vacuum, e.g. by using getters",
+      "count": 71,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S40/48": {
+      "code": "F24S40/48",
+      "level": 2,
+      "parent": "F24S40/40",
+      "ja": "作動流体の脱気またはガス抜き［２０１８．０１］",
+      "en": "Deaerating or degassing the working fluid",
+      "count": 154,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S40/50": {
+      "code": "F24S40/50",
+      "level": 1,
+      "parent": "F24S40/00",
+      "ja": "過熱または過圧を防止するもの（作動流体の排出によるものＦ２４Ｓ４０／６０）［２０１８．０１］",
+      "en": "Preventing overheating or overpressure(by draining the working fluid <b>F24S40/60</b>)",
+      "count": 322,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S40/52": {
+      "code": "F24S40/52",
+      "level": 2,
+      "parent": "F24S40/50",
+      "ja": "熱収集を調整することによるもの，例．焦点をずらすまたは受熱要素の位置を変更することによるもの［２０１８．０１］",
+      "en": "by modifying the heat collection, e.g. by defocusing or by changing the position of heat-receiving elements",
+      "count": 191,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S40/53": {
+      "code": "F24S40/53",
+      "level": 2,
+      "parent": "F24S40/50",
+      "ja": "太陽熱集熱器のエンクロージャに通気することによるもの［２０１８．０１］",
+      "en": "by venting solar heat collector enclosures",
+      "count": 54,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S40/55": {
+      "code": "F24S40/55",
+      "level": 2,
+      "parent": "F24S40/50",
+      "ja": "冷却，例．外部の熱放散手段または内部の冷却回路を用いることによる，のための装置（通気によるものＦ２４Ｓ４０／５３）［２０１８．０１］",
+      "en": "Arrangements for cooling, e.g. by using  external heat dissipating means or internal cooling circuits(by venting <b>F24S40/53</b>)",
+      "count": 188,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S40/57": {
+      "code": "F24S40/57",
+      "level": 2,
+      "parent": "F24S40/50",
+      "ja": "太陽熱集熱器のエンクロージャの過圧防止（通気によるものＦ２４Ｓ４０／５３）［２０１８．０１］",
+      "en": "Preventing overpressure in solar heat collector enclosures(by venting <b>F24S40/53</b>)",
+      "count": 47,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S40/58": {
+      "code": "F24S40/58",
+      "level": 2,
+      "parent": "F24S40/50",
+      "ja": "作動流体回路の過圧防止［２０１８．０１］",
+      "en": "Preventing overpressure in working fluid circuits",
+      "count": 99,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S40/60": {
+      "code": "F24S40/60",
+      "level": 1,
+      "parent": "F24S40/00",
+      "ja": "作動流体の排出のための装置［２０１８．０１］",
+      "en": "Arrangements for draining the working fluid",
+      "count": 478,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S40/70": {
+      "code": "F24S40/70",
+      "level": 1,
+      "parent": "F24S40/00",
+      "ja": "凍結防止（作動流体の排出装置Ｆ２４Ｓ４０／６０）［２０１８．０１］",
+      "en": "Preventing freezing(arrangements for draining the working fluid <b>F24S40/60</b>)",
+      "count": 747,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S40/80": {
+      "code": "F24S40/80",
+      "level": 1,
+      "parent": "F24S40/00",
+      "ja": "太陽熱集熱器要素の膨張差を埋め合わせるもの［２０１８．０１］",
+      "en": "Accommodating differential expansion of solar heat collector elements",
+      "count": 176,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S40/90": {
+      "code": "F24S40/90",
+      "level": 1,
+      "parent": "F24S40/00",
+      "ja": "太陽熱集熱器の検査のための装置［２０１８．０１］",
+      "en": "Arrangements for testing solar heat collectors",
+      "count": 228,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S50/00": {
+      "code": "F24S50/00",
+      "level": 0,
+      "parent": "F24S",
+      "ja": "太陽熱集熱器の制御のための装置［２０１８．０１］",
+      "en": "Arrangements for controlling solar heat collectors",
+      "count": 2905,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S50/20": {
+      "code": "F24S50/20",
+      "level": 1,
+      "parent": "F24S50/00",
+      "ja": "トラッキングのためのもの［２０１８．０１］",
+      "en": "for tracking",
+      "count": 7363,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S50/40": {
+      "code": "F24S50/40",
+      "level": 1,
+      "parent": "F24S50/00",
+      "ja": "温度に応答するもの［２０１８．０１］",
+      "en": "responsive to temperature",
+      "count": 3018,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S50/60": {
+      "code": "F24S50/60",
+      "level": 1,
+      "parent": "F24S50/00",
+      "ja": "風に応答するもの［２０１８．０１］",
+      "en": "responsive to wind",
+      "count": 136,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S50/80": {
+      "code": "F24S50/80",
+      "level": 1,
+      "parent": "F24S50/00",
+      "ja": "太陽放射の収集量または吸収量を制御するもの［２０１８．０１］",
+      "en": "for controlling collection or absorption of solar radiation",
+      "count": 449,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S60/00": {
+      "code": "F24S60/00",
+      "level": 0,
+      "parent": "F24S",
+      "ja": "太陽熱集熱器により収集された熱を貯蔵する装置（プールまたは池を形成する作動流体に貯蔵するものＦ２４Ｓ１０／１０）［２０１８．０１］",
+      "en": "Arrangements for storing heat collected by solar heat collectors(in working fluids forming pools or ponds <b>F24S10/10</b>)",
+      "count": 1987,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S60/10": {
+      "code": "F24S60/10",
+      "level": 1,
+      "parent": "F24S60/00",
+      "ja": "潜熱を用いるもの［２０１８．０１］",
+      "en": "using latent heat",
+      "count": 1276,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S60/20": {
+      "code": "F24S60/20",
+      "level": 1,
+      "parent": "F24S60/00",
+      "ja": "化学反応，例．熱化学反応または異性化反応，を用いるもの［２０１８．０１］",
+      "en": "using chemical reactions, e.g. thermochemical reactions or isomerisation reactions",
+      "count": 226,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S60/30": {
+      "code": "F24S60/30",
+      "level": 1,
+      "parent": "F24S60/00",
+      "ja": "熱を液体に貯蔵するもの［２０１８．０１］",
+      "en": "storing heat in liquids",
+      "count": 3421,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S70/00": {
+      "code": "F24S70/00",
+      "level": 0,
+      "parent": "F24S",
+      "ja": "吸収要素の細部［２０１８．０１］",
+      "en": "Details of absorbing elements",
+      "count": 210,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S70/10": {
+      "code": "F24S70/10",
+      "level": 1,
+      "parent": "F24S70/00",
+      "ja": "吸収材料に特徴を有するもの（吸収コーティングまたは吸収性を高めるための表面処理Ｆ２４Ｓ７０／２０）［２０１８．０１］",
+      "en": "characterised by the absorbing material(absorbing coatings or surface treatment for increasing absorption <b>F24S70/20</b>)",
+      "count": 808,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S70/12": {
+      "code": "F24S70/12",
+      "level": 2,
+      "parent": "F24S70/10",
+      "ja": "金属材料からなるもの［２０１８．０１］",
+      "en": "made of metallic material",
+      "count": 781,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S70/14": {
+      "code": "F24S70/14",
+      "level": 2,
+      "parent": "F24S70/10",
+      "ja": "プラスチック材料からなるもの［２０１８．０１］",
+      "en": "made of plastics",
+      "count": 193,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S70/16": {
+      "code": "F24S70/16",
+      "level": 2,
+      "parent": "F24S70/10",
+      "ja": "セラミックからなるもの；コンクリートからなるもの；天然石からなるもの［２０１８．０１］",
+      "en": "made of ceramic; made of concrete; made of natural stone",
+      "count": 140,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S70/20": {
+      "code": "F24S70/20",
+      "level": 1,
+      "parent": "F24S70/00",
+      "ja": "吸収コーティングに特徴を有するもの；吸収性を高めるための表面処理に特徴を有するもの［２０１８．０１］",
+      "en": "characterised by absorbing coatings; characterised by surface treatment for increasing absorption",
+      "count": 1267,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S70/225": {
+      "code": "F24S70/225",
+      "level": 2,
+      "parent": "F24S70/20",
+      "ja": "光波長選択吸収のためのもの［２０１８．０１］",
+      "en": "for spectrally selective absorption",
+      "count": 719,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S70/25": {
+      "code": "F24S70/25",
+      "level": 2,
+      "parent": "F24S70/20",
+      "ja": "金属材料からなるコーティング［２０１８．０１］",
+      "en": "Coatings made of metallic material",
+      "count": 278,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S70/275": {
+      "code": "F24S70/275",
+      "level": 2,
+      "parent": "F24S70/20",
+      "ja": "プラスチック材料からなるコーティング［２０１８．０１］",
+      "en": "Coatings made of plastics",
+      "count": 44,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S70/30": {
+      "code": "F24S70/30",
+      "level": 1,
+      "parent": "F24S70/00",
+      "ja": "補助的コーティング，例．反射防止コーティング［２０１８．０１］",
+      "en": "Auxiliary coatings, e.g. anti-reflective coatings",
+      "count": 285,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S70/60": {
+      "code": "F24S70/60",
+      "level": 1,
+      "parent": "F24S70/00",
+      "ja": "構造または機構によって特徴付けられるもの（吸収性コーティング，または吸収性を高めるための表面処理Ｆ２４Ｓ７０／２０；補助的コーティングＦ２４Ｓ７０／３０）［２０１８．０１］",
+      "en": "characterised by the structure or construction(absorbing coatings or surface treatment for increasing absorption <b>F24S70/20</b>; auxiliary coatings <b>F24S70/30</b>)",
+      "count": 875,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S70/65": {
+      "code": "F24S70/65",
+      "level": 2,
+      "parent": "F24S70/60",
+      "ja": "２以上の吸収要素の組み合わせ［２０１８．０１］",
+      "en": "Combinations of  two or more absorbing elements",
+      "count": 129,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S80/00": {
+      "code": "F24S80/00",
+      "level": 0,
+      "parent": "F24S",
+      "ja": "グループＦ２４Ｓ１０／００～Ｆ２４Ｓ７０／００に分類されない太陽熱集熱器の細部，付属品または構成部品［２０１８．０１］",
+      "en": "Details, accessories or component parts of solar heat collectors  not provided for in groups <b>F24S10/00 to F24S70/00</b> ",
+      "count": 3994,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S80/10": {
+      "code": "F24S80/10",
+      "level": 1,
+      "parent": "F24S80/00",
+      "ja": "熱交換導路のための材料［２０１８．０１］",
+      "en": "Materials for heat-exchange conduits",
+      "count": 157,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S80/20": {
+      "code": "F24S80/20",
+      "level": 1,
+      "parent": "F24S80/00",
+      "ja": "太陽熱集熱器に特に適合する作動流体［２０１８．０１］",
+      "en": "Working fluids specially adapted for solar heat collectors",
+      "count": 600,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S80/30": {
+      "code": "F24S80/30",
+      "level": 1,
+      "parent": "F24S80/00",
+      "ja": "太陽熱集熱器の流体回路を互いにまたは他の構成要素と接続するための装置，例．パイプ接続；流体分配手段，例．ヘッダー［２０１８．０１］",
+      "en": "Arrangements for connecting the fluid circuits of solar heat collectors with each other or with other components, e.g. pipe connections; Fluid distributing means, e.g. headers",
+      "count": 3014,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S80/40": {
+      "code": "F24S80/40",
+      "level": 1,
+      "parent": "F24S80/00",
+      "ja": "ケーシング［２０１８．０１］",
+      "en": "Casings",
+      "count": 307,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S80/45": {
+      "code": "F24S80/45",
+      "level": 2,
+      "parent": "F24S80/40",
+      "ja": "材料に特徴を有するもの［２０１８．０１］",
+      "en": "characterised by the material",
+      "count": 46,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S80/453": {
+      "code": "F24S80/453",
+      "level": 3,
+      "parent": "F24S80/45",
+      "ja": "金属材料からなるもの［２０１８．０１］",
+      "en": "made of metallic material",
+      "count": 78,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S80/457": {
+      "code": "F24S80/457",
+      "level": 3,
+      "parent": "F24S80/45",
+      "ja": "プラスチックからなるもの［２０１８．０１］",
+      "en": "made of plastics",
+      "count": 71,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S80/50": {
+      "code": "F24S80/50",
+      "level": 1,
+      "parent": "F24S80/00",
+      "ja": "透明カバー；入射する太陽光線は通し外への熱放射は防止する要素［２０１８．０１］",
+      "en": "Transparent coverings; Elements for transmitting incoming solar rays and preventing outgoing heat radiation",
+      "count": 430,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S80/52": {
+      "code": "F24S80/52",
+      "level": 2,
+      "parent": "F24S80/50",
+      "ja": "材料に特徴を有するもの（熱損失の防止Ｆ２４Ｓ８０／５６）［２０１８．０１］",
+      "en": "characterised by the material (for preventing heat loss <b>F24S80/56</b>)",
+      "count": 254,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S80/525": {
+      "code": "F24S80/525",
+      "level": 3,
+      "parent": "F24S80/52",
+      "ja": "プラスチックからなるもの［２０１８．０１］",
+      "en": "made of plastics",
+      "count": 139,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S80/54": {
+      "code": "F24S80/54",
+      "level": 2,
+      "parent": "F24S80/50",
+      "ja": "真空要素を用いるもの［２０１８．０１］",
+      "en": "using evacuated elements",
+      "count": 138,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S80/56": {
+      "code": "F24S80/56",
+      "level": 2,
+      "parent": "F24S80/50",
+      "ja": "熱損失防止手段に特徴を有するもの［２０１８．０１］",
+      "en": "characterised by means for preventing heat loss",
+      "count": 214,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S80/58": {
+      "code": "F24S80/58",
+      "level": 2,
+      "parent": "F24S80/50",
+      "ja": "取付けまたは固定手段に特徴を有するもの［２０１８．０１］",
+      "en": "characterised by their mountings or fixing means",
+      "count": 144,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S80/60": {
+      "code": "F24S80/60",
+      "level": 1,
+      "parent": "F24S80/00",
+      "ja": "熱絶縁（透明カバーＦ２４Ｓ８０／５０）［２０１８．０１］",
+      "en": "Thermal insulation(transparent coverings <b>F24S80/50</b>)",
+      "count": 1397,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S80/65": {
+      "code": "F24S80/65",
+      "level": 2,
+      "parent": "F24S80/60",
+      "ja": "材料に特徴を有するもの［２０１８．０１］",
+      "en": "characterised by the material",
+      "count": 558,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S80/70": {
+      "code": "F24S80/70",
+      "level": 1,
+      "parent": "F24S80/00",
+      "ja": "シール手段［２０１８．０１］",
+      "en": "Sealing means",
+      "count": 984,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S90/00": {
+      "code": "F24S90/00",
+      "level": 0,
+      "parent": "F24S",
+      "ja": "他に分類されない太陽熱システム［２０１８．０１］",
+      "en": "Solar heat systems not otherwise provided for",
+      "count": 7645,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    },
+    "F24S90/10": {
+      "code": "F24S90/10",
+      "level": 1,
+      "parent": "F24S90/00",
+      "ja": "熱サイフォン循環を用いるもの［２０１８．０１］",
+      "en": "using thermosiphonic circulation",
+      "count": 261,
+      "sourceFile": "ipc_F24S.txt",
+      "kind": "ipc"
+    }
+  }
+};

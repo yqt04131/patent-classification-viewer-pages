@@ -1,0 +1,1616 @@
+{
+  "generatedAt": "2026-03-20T02:17:47.002Z",
+  "total": 161,
+  "entries": {
+    "G01D": {
+      "code": "G01D",
+      "level": 0,
+      "parent": "G01",
+      "ja": "特に特定の変量に適用されない測定；単一のほかのサブクラスに包含されない２つ以上の変量を測定する装置；料金計量装置；特に特定の変量に適用されない伝達または変換装置；他に分類されない測定または試験<br><br><b><ul>注</ul></b><br>（１）このサブクラスは以下のものを包含する：<br>―他の単一のサブクラスに包含される変量に特有でない測定結果を指示または記録する装置；<br>―類似の装置で，該装置への入力が被測定変量でないもの，例．手動操作のもの；<br>―測定計器一般の細部；<br>―単独では単一の特定変量の測定に適用されることがなく，かつ他の箇所に分類されない測定用変換器，すなわち，感知要素の型式や特性が変換手段を束縛しない場合に，感知要素の出力を別の変量に変換する手段；<br>―他に分類されない測定または試験。<br>（２）クラスＧ０１のタイトルに続く注に注意すること。<br><br><b><ul>サブクラス内の索引</ul></b><br>測定装置一般<br>瞬時値以外の形でのデータの回復　１／００<br>特定目的のための手段　３／００<br>特に特定の変量に適用されない伝達または変換装置　５／００<br>構成部品　１１／００<br>指示；指示器の構成部品　７／００，１３／００<br>記録；記録装置の構成部品　９／００，１５／００<br>試験または較正　１８／００<br>他に分類されない測定または試験　２１／００<br>料金計量　４／００",
+      "en": "MEASURING NOT SPECIALLY ADAPTED FOR A SPECIFIC VARIABLE; ARRANGEMENTS FOR MEASURING TWO OR MORE VARIABLES NOT COVERED BY A SINGLE OTHER SUBCLASS; TARIFF METERING APPARATUS; TRANSFERRING OR TRANSDUCING ARRANGEMENTS NOT SPECIALLY ADAPTED FOR A SPECIFIC VARIABLE; MEASURING OR TESTING NOT OTHERWISE PROVIDED FOR; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This subclass <u>covers</u>:<ul><li>devices for indicating or recording the results of measurements, not peculiar to variables covered by a single other subclass;</li><li>analogous arrangements but in which the input is not a variable to be measured, e.g. a hand operation;</li><li>details of measuring instruments, which are of general interest;</li><li>measurement transducers not adapted solely for the measurement of a single specified variable and not provided for elsewhere, i.e. means for converting the output of a sensing member to another variable where the form or nature of the sensing member does not constrain the means for converting;</li><li>measuring or testing not otherwise provided for.</li></ul></li><li>Attention is drawn to the Notes following the title of class <b>G01</b>.</li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">MEASURING ARRANGEMENTS IN GENERAL<tr><td width=\"70%\">With data restitution in other form than their instantaneous value </td><td><b><b>1/00</b></b></td></tr></tr><tr><td width=\"70%\">With provision for special purposes </td><td><b><b>3/00</b></b></td></tr></tr><tr><td width=\"70%\">Transferring or transducing arrangements not specially adapted for a specific variable </td><td><b><b>5/00</b></b></td></tr></tr><tr><td width=\"70%\">Component parts </td><td><b><b>11/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">INDICATING; COMPONENT PARTS OF INDICATORS </td><td><b><b>7/00</b>, <b>13/00</b></b></td></tr></tr><tr><td width=\"70%\">RECORDING; COMPONENT PARTS OF RECORDERS </td><td><b><b>9/00</b>, <b>15/00</b></b></td></tr></tr><tr><td width=\"70%\">TESTING OR CALIBRATING </td><td><b><b>18/00</b></b></td></tr></tr><tr><td width=\"70%\">MEASURING OR TESTING NOT OTHERWISE PROVIDED FOR </td><td><b><b>21/00</b></b></td></tr></tr><tr><td width=\"70%\">TARIFF METERING </td><td><b><b>4/00</b></b></td></tr></tr></table>",
+      "count": 1330,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G01": {
+      "code": "G01",
+      "level": 0,
+      "parent": "G",
+      "ja": "測定；試験<br><br><b><ul>注</ul></b><br>（１）このクラスは“真”の測定計器のほかに類似構造の他の指示表示装置又は記録装置を含み，また更に，信号化装置又は制御装置についてはそれが測定に関するものであって（以下の注（２）で定義するように）特定の信号化目的または特定の制御目的に特に適合しないものである限り，含まれる。<br>（２）このクラスにおいては，下記の用語は以下に示す意味で用いる：<br>―“測定”はその第一義的意味又は基本的な意味よりもかなり広い意味を含むものとして用いる。この語の第一義的な意味においては，変量値を単位もしくはデータに関して又は同じ性質の別の変量に関して数値的に表現することを見い出すこと，例えば長さをスケールで測定するなどある長さを別の長さの表現で表わすこと，を意味する。この変量値は直接的に得る（すぐ前で言及したように）こともあり，また，水銀柱の長さの変化を測定することにより温度変化を測定するなど求める変量値に関連づけることのできる他の変量値を測定することよって得ることもある。しかしながら，同じ装置又は計器が，直接的な表示を行う代りに，記録をとったり，指示効果又は制御効果を奏すべく信号を発生するために用いられたり，或いは，他の装置又は計器と組み合わせて同種又は異種の二以上の変量の測定から一つのまとまった結果を得るために用いられることもあるので，“測定”はかかる数値的表現を変量を数値に変換する何らかの手段の付加的使用によって得ることを可能とするような操作をも含むものとして解釈することが必要である。従って，数値での表現は実際的にはデジタル的表現によって行なうこともありスケールを読むことによって行なうこともあり，また，その指示は数値を用いないで，例えば測定されている変量が特性又は状態であるところの実在物（例．物体，物質，光ビーム）について感知し得る何らかの特性（変量）によって又はそのような特性に類似するもの（例．スケールをもたない部材の対応位置，何らかの手段によって発生される対応電圧）によって，与えられることがある。<br>また，上記のような変量値指示が行なわれずに単に基準又はデータ（その値は数値的に既知のこともあり未知のこともある）に関しての異同を示すだけのことも多くある。この基準又はデータは同一性質であるが異なる実在物（例．標準器）の値のこともあり，或いは異なる時点での同一実在物の値であることもある。その最も単純な形態においては，測定は単にある状態又は性質，例えば運動（いずれかの方向又は特定の方向における）の有無を指示するだけのこともあるし，また，変量が既定値を超えるかどうかを指示するだけのこともある。<br>（３）“マイクロ構造の装置”および“マイクロ構造のシステム”に関する，クラスＢ８１およびサブクラスＢ８１Ｂの両タイトルの後の注に注意すること。［７］<br>（４）セクションＧのタイトルに続く注，特に“変量”という用語の定義については注意はすること。<br>（５）多くの測定装置において，測定すべき第一の変量は第二の変量またはさらなる変量に変換される。第二の変量またはさらなる変量は，第一の変量に関係して構成部材に生じた状態，または構成部材の変位であるかもしれない。そして，さらに変換が必要となるかもしれない。［６］<br>このような装置を分類するときは，（ｉ）重要である特定の変換ステップ，または重要である個々の変換ステップを分類するか，または（ｉｉ）全体としてのシステムのみが重要な場合は，第一の変量を該当する箇所に分類する。［６］<br>これは２つ以上の変換が起こる場合に特に重要である。たとえば，第一の変量（例．圧力）が第二の変量（例．感知体の光学的特性）に変換され，さらにその第二の変量が第三の変量（例．電気的効果）で示されるような場合である。このような場合には，次の分類箇所を考慮しなければならない：<br>第一の変量の変換についての分類場所，その変量により生じた状態を感知することについての分類場所，測定を示すＧ０１Ｄ，そして最後に，該当する場合は，システム全体を分類する場所である。［６］<br>（６）物理的特性の値の変化の測定は，その物理的特性の測定と同一のサブクラスに分類する。例えば，長さの伸びの測定はサブクラスＧ０１Ｂに分類する。",
+      "en": "MEASURING; TESTING; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This class <u>covers</u>, in addition to \"true\" measuring instruments, other indicating or recording devices of analogous construction, and also signalling or control devices insofar as they are concerned with measurement (as defined in Note 2 below) and are not specially adapted to the particular purpose of signalling or control.</li><li>In this class, the following term is used with the meaning indicated: <ul><li>\"measuring\" is used to cover considerably more than its primary or basic meaning. In this primary sense, it means finding a numerical expression of the value of a variable in relation to a unit or datum or to another variable of the same nature, e.g. expressing a length in terms of another length as in measuring a length with a scale; the value may be obtained directly (as just suggested) or by measuring some other variable of which the value can be related to the value of the required variable, as in measuring a change in temperature by measuring a resultant change in the length of a column of mercury. However, since the same device or instrument may, instead of giving an immediate indication, be used to produce a record or to initiate a signal to produce an indication or control effect, or may be used in combination with other devices or instruments to give a conjoint result from measurement of two or more variables of the same or different kinds, it is necessary to interpret \"measuring\" as including also any operation that would make it possible to obtain such a numerical expression by the additional use of some way of converting a value into figures. Thus the expression in figures may be actually made by a digital presentation or by reading a scale, or an indication of it may be given without the use of figures, e.g. by some perceptible feature (variable) of the entity (e.g. object, substance, beam of light) of which the variable being measured is a property or condition or by an analogue of such a feature (e.g. the corresponding position of a member without any scale, a corresponding voltage generated in some way). In many cases there is no such value indication but only an indication of difference or equality in relation to a standard or datum (of which the value may or may not be known in figures); the standard or datum may be the value of another variable of the same nature but of a different entity (e.g. a standard measure) or of the same entity at a different time. <ul><li>In its simplest form, measurement may give merely an indication of presence or absence of a certain condition or quality, e.g. movement (in any direction or in a particular direction), or whether a variable exceeds a predetermined value.</li></ul></li></ul></li><li>Attention is drawn to the Notes following the titles of class <b>B81</b> and subclass <b>B81B</b> relating to \"microstructural devices\" and \"microstructural systems\" and the Notes following the title of subclass <b>B82B</b> relating to \"nanostructures\".</li><li>Attention is drawn to the Notes following the title of section <b>G</b>, especially as regards the definition of the term \"variable\".</li><li>In many measuring arrangements, a first variable to be measured is transformed into a second, or further, variables. The second, or further, variables may be (a) a condition related to the first variable and produced in a member, or (b) a displacement of a member. Further transformation may be needed. <ul><li>When classifying such an arrangement, (i) the transformation step, or each transformation step, that is of interest is classified, or (ii) if interest lies only in the system as a whole, the first variable is classified in the appropriate place.</li><li>This is particularly important where two or more conversions take place, for instance where a first variable, for example pressure, is transformed into a second variable, for example an optical property of a sensing body, and that second variable is expressed by means of a third variable, for example an electric effect. In such a case, the following classification places should be considered: the place for the transformation of the first variable, that for sensing the condition caused by that variable, subclass <b>G01D</b> for expression of the measurement, and finally the place for the overall system, if any.</li></ul></li><li>The measurement of change in the value of a physical property is classified in the same subclass as the measurement of that physical property, e.g. measurement of expansion of length is classified in subclass <b>G01B</b>.</li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G": {
+      "code": "G",
+      "level": 0,
+      "parent": null,
+      "ja": "物理学<br><br><b><ul>注</ul></b><br>１．このセクションにおいては，下記の用語は以下に示す意味で用いる：<br>・“変量”は名詞として，特定の実在物，例．物体，ある量の物質，光ビーム，に関し特定の瞬間に測定することの可能な特性又は特質，例．寸法，温度等の物理的状態，密度又は色等の性質，を意味する。変量が変化すると，その数値的表現は異なる時点で，異なる状態又は個々の状況において異なる値をとることもあり，また，ある状態のもとで又は実用上特定の実在物に関して一定でありうる，例．バーの長さが多くの目的のために一定とみなされる，こともある。<br>２．使用される用語または表現の定義に注意すること。このセクションのいくつかのクラスの注に使用されているものについて，特にクラスＧ０１の“測定”を参照されたい．ＩＰＣ指針パラグラフ１８７の中にあるものについて，“制御”及び“調整”の定義に参照されたい。<br>３．このセクションにおける分類は他のセクションにおいてよりもめんどうな場合があり得る，というのは，その一つは，いろいろな使用分野の差異の判別には構造上の差異又は使用形態上の差異よりも寧ろ使用者の意図における差異の方にかなりの程度影響されてしまうからであり，もう一つは，扱う主題が容易に全体として識別できる“もの”であるよりも，特性又は部品が他の主題のものと共通のものを有しているシステム又は組合わせであることが実際上多いからである。例えば，情報（例．一連の数値）をディスプレイするのは，クラスＧ０９に包含される，教育又は広告のため，クラスＧ０１に包含される，測定の結果が通知されうるため，クラスＧ０８に包含される，遠隔地点に情報を合図するため，又は遠隔地点から合図された情報を提供するためである。目的を記述するために使用する言葉は，当該装置の形態に無関係なこともあり得る特性－例えば，ディスプレイを見る者にとって望ましい効果とか，ディスプレイが遠隔地点から制御されるかどうかという特性－によって決定される。さらに，ある状態，例えば流体圧の変化に応答する装置は，その装置そのものには変更を加えずして，サブクラスＧ０１Ｌに包含される圧力又はＧ０１の他のサブクラスに包含される圧力に関連した他の何らかの状態，例．温度に関してＧ０１Ｋ，についての情報を与えるため，サブクラスＧ０７Ｃに包含される圧力または圧力発生の記録をするため，サブクラスＧ０８Ｂに包含される警報を発するため，又はクラスＧ０５に包含される他の何らかの装置を制御するために用いられることがある。<br>　本分類表は，前述したように，同一の性質のものは同一箇所に分類し得るようにしたものである。従って，技術主題が適切箇所に分類されるためには予めその真正な本質を把握することが特に必要である。",
+      "en": "PHYSICS; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this section, the following term is used with the meaning indicated: <ul><li>\"variable\" as a noun means a feature or property, e.g. a dimension, a physical condition such as temperature, a quality such as density or colour, which, in respect of a particular entity, e.g. an object, a quantity of a substance, a beam of light, and at a particular instant, is capable of being measured; the variable may change, so that its numerical expression may assume different values at different times, in different conditions or in individual cases, but may be constant in respect of a particular entity in certain conditions or for practical purposes, e.g. the length of a bar may be regarded as constant for many purposes.</li></ul></li><li>Attention is drawn to the definitions of terms or expressions used. Some appear in the notes of several of the classes in this section, see in particular the definition of \"measuring\" in class <b>G01</b>. Others appear in paragraph 187 of the Guide to the IPC, see in particular the definitions of \"control\" and \"regulation\".</li><li>Classification in this section may present more difficulty than in other sections, because the distinction between different fields of use rests to a considerable extent on differences in the intention of the user rather than on any constructional differences or differences in the manner of use, and because the subjects dealt with are often in effect systems or combinations, which have features or parts in common, rather than \"things\", which are readily distinguishable as a whole. For example, information, e.g. a set of figures, may be displayed for the purpose of education or advertising covered by class <b>G09</b>, for enabling the result of a measurement to be known covered by class <b>G01</b>, for signalling the information to a distant point or for giving information which has been signalled from a distant point covered by class <b>G08</b>. The words used to describe the purpose depend on features that may be irrelevant to the form of the apparatus concerned, for example, such features as the desired effect on the person who sees the display, or whether the display is controlled from a remote point. Again, a device which responds to some change in a condition, e.g. in the pressure of a fluid, may be used, without modification of the device itself, to give information about the pressure covered by subclass <b>G01L</b> or about some other condition linked to the pressure covered by another subclass of class <b>G01</b>, e.g. <b>G01K</b> for temperature, to make a record of the pressure or of its occurrence covered by subclass <b>G07C</b>, to give an alarm covered by subclass <b>G08B</b>, or to control another apparatus covered by class <b>G05</b>. <ul><li>The classification scheme is intended to enable things of a similar nature, as indicated above, to be classified together. It is therefore particularly necessary for the real nature of any technical subject to be decided before it can be properly classified.</li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G01D1/00": {
+      "code": "G01D1/00",
+      "level": 0,
+      "parent": "G01D",
+      "ja": "変量の瞬時値以外の結果を示す測定装置（Ｇ０１Ｄ３／００が優先；料金計量装置Ｇ０１Ｄ４／００；特に特定の変量に適用されない変換器Ｇ０１Ｄ５／００）",
+      "en": "Measuring arrangements giving results other than momentary value of variable, of general application(<b>G01D3/00</b> takes precedence; in tariff metering apparatus <b>G01D4/00</b>; transducers not specially adapted for a specific variable <b>G01D5/00</b>)",
+      "count": 1882,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D1/02": {
+      "code": "G01D1/02",
+      "level": 1,
+      "parent": "G01D1/00",
+      "ja": "平均値，例．二乗平均の開平値，を示すもの（電流または電圧の二乗平均の開平値の測定Ｇ０１Ｒ１９／０２）",
+      "en": "giving mean values, e.g. root mean square values(measuring root mean square values of currents or voltages <b>G01R19/02</b>)",
+      "count": 878,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D1/04": {
+      "code": "G01D1/04",
+      "level": 1,
+      "parent": "G01D1/00",
+      "ja": "積分値を示すもの（平均値を示すものＧ０１Ｄ１／０２）",
+      "en": "giving integrated values(giving mean values <b>G01D1/02</b>)",
+      "count": 596,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D1/06": {
+      "code": "G01D1/06",
+      "level": 2,
+      "parent": "G01D1/04",
+      "ja": "間欠的加算によるもの",
+      "en": "by intermittent summation",
+      "count": 88,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D1/08": {
+      "code": "G01D1/08",
+      "level": 3,
+      "parent": "G01D1/06",
+      "ja": "一定時間内の",
+      "en": "over fixed periods of time",
+      "count": 133,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D1/10": {
+      "code": "G01D1/10",
+      "level": 1,
+      "parent": "G01D1/00",
+      "ja": "微分値を示すもの",
+      "en": "giving differentiated values",
+      "count": 215,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D1/12": {
+      "code": "G01D1/12",
+      "level": 1,
+      "parent": "G01D1/00",
+      "ja": "最大値または最小値を示すもの",
+      "en": "giving a maximum or minimum of a value",
+      "count": 617,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D1/14": {
+      "code": "G01D1/14",
+      "level": 1,
+      "parent": "G01D1/00",
+      "ja": "値の分布関数を示すもの，すなわちある値が特定の範囲に入った度数",
+      "en": "giving a distribution function of a value, i.e. number of times the value comes within specified ranges of amplitude",
+      "count": 559,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D1/16": {
+      "code": "G01D1/16",
+      "level": 1,
+      "parent": "G01D1/00",
+      "ja": "２以上の値の関数値，例．積，比率，を示すもの",
+      "en": "giving a value which is a function of two or more values, e.g. product or ratio",
+      "count": 981,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D1/18": {
+      "code": "G01D1/18",
+      "level": 1,
+      "parent": "G01D1/00",
+      "ja": "不特定のパラメータが予め決められた値を超過したことの信号を出す装置を有するもの（Ｇ０１Ｄ１／１４が優先）［３］",
+      "en": "with arrangements for signalling that a predetermined value of an unspecified parameter has been exceeded(<b>G01D1/14</b> takes precedence)",
+      "count": 1740,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D3/00": {
+      "code": "G01D3/00",
+      "level": 0,
+      "parent": "G01D",
+      "ja": "このグループのサブグループに関する特定目的のための手段を有する測定装置",
+      "en": "Measuring arrangements with provision for the special purposes referred to in the subgroups of this group",
+      "count": 1632,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D3/02": {
+      "code": "G01D3/02",
+      "level": 1,
+      "parent": "G01D3/00",
+      "ja": "変換機能を改変しまたは修正するもの",
+      "en": "with provision for altering or correcting the transfer function",
+      "count": 3029,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D3/024": {
+      "code": "G01D3/024",
+      "level": 2,
+      "parent": "G01D3/02",
+      "ja": "範囲変更用；ある感知要素を別のものにより置き換える装置［６］",
+      "en": "for range change; Arrangements for substituting one sensing member by another",
+      "count": 688,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D3/028": {
+      "code": "G01D3/028",
+      "level": 1,
+      "parent": "G01D3/00",
+      "ja": "望ましくない影響，例．温度，圧力，を軽減するもの［６］",
+      "en": "mitigating undesired influences, e.g. temperature, pressure",
+      "count": 3364,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D3/032": {
+      "code": "G01D3/032",
+      "level": 2,
+      "parent": "G01D3/028",
+      "ja": "入信号に作用するもの，例．平均化によるもの；望ましくない信号をゲートで制御するもの［６］",
+      "en": "affecting incoming signal, e.g. by averaging; gating undesired signals",
+      "count": 520,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D3/036": {
+      "code": "G01D3/036",
+      "level": 2,
+      "parent": "G01D3/028",
+      "ja": "測定装置それ自体に対する影響［６］",
+      "en": "on measuring arrangements themselves",
+      "count": 1388,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D3/06": {
+      "code": "G01D3/06",
+      "level": 1,
+      "parent": "G01D3/00",
+      "ja": "零位法によって作動するもの",
+      "en": "with provision for operation by a null method",
+      "count": 393,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D3/08": {
+      "code": "G01D3/08",
+      "level": 1,
+      "parent": "G01D3/00",
+      "ja": "装置の安全保護のためのもの，例．異常操作，破損に対するもの",
+      "en": "with provision for safeguarding the apparatus, e.g. against abnormal operation, against breakdown",
+      "count": 2214,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D3/10": {
+      "code": "G01D3/10",
+      "level": 1,
+      "parent": "G01D3/00",
+      "ja": "付加的，補助的な指示器または記録器をスイッチングするもの",
+      "en": "with provision for switching-in of additional or auxiliary indicators or recorders",
+      "count": 909,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D4/00": {
+      "code": "G01D4/00",
+      "level": 0,
+      "parent": "G01D",
+      "ja": "料金計量装置（タクシーメータにおけるものＧ０７Ｂ１３／００；コイン，カードその他類似のもので作動するメーター制御された液体，気体または電気を送出する装置Ｇ０７Ｆ１５／００）",
+      "en": "Tariff metering apparatus(in taximeters <b>G07B13/00</b>; apparatus actuated by coins, cards or the like with meter-controlled dispensing of liquid, gas, or electricity <b>G07F15/00</b>)",
+      "count": 3999,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D4/02": {
+      "code": "G01D4/02",
+      "level": 1,
+      "parent": "G01D4/00",
+      "ja": "細部",
+      "en": "Details",
+      "count": 569,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D4/04": {
+      "code": "G01D4/04",
+      "level": 2,
+      "parent": "G01D4/02",
+      "ja": "帰零機構，例．指示部材用",
+      "en": "Resetting-mechanisms, e.g. for indicating members",
+      "count": 18,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D4/06": {
+      "code": "G01D4/06",
+      "level": 2,
+      "parent": "G01D4/02",
+      "ja": "駆動部材，指示部材間のクラッチ機構，例．ヒステリシスクラッチ（Ｇ０１Ｄ４／０４が優先）",
+      "en": "Arrangement of clutches between driving and indicating member, e.g. of hysteresis clutch(<b>G01D4/04</b> takes precedence)",
+      "count": 8,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D4/08": {
+      "code": "G01D4/08",
+      "level": 2,
+      "parent": "G01D4/02",
+      "ja": "計数器から集計器への伝達",
+      "en": "Transfer of indication from a counter into a summing counter",
+      "count": 119,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D4/10": {
+      "code": "G01D4/10",
+      "level": 1,
+      "parent": "G01D4/00",
+      "ja": "最大値の指示または記録装置，すなわちある期間内の料金がその期間内の最大需要に基づいて計算されるもの",
+      "en": "Maximum indicating or recording apparatus, i.e. where the tariff for a period is based on a maximum demand within that period",
+      "count": 145,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D4/12": {
+      "code": "G01D4/12",
+      "level": 2,
+      "parent": "G01D4/10",
+      "ja": "累進最大値を指示しまたは記録する装置",
+      "en": "Apparatus for indicating or recording progressive maximum",
+      "count": 20,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D4/14": {
+      "code": "G01D4/14",
+      "level": 2,
+      "parent": "G01D4/10",
+      "ja": "固定需要の指示または記録装置，すなわち既定量が既定時間より長いかまたは短い時間で消費された際，それを指示するもの",
+      "en": "Fixed-demand indicating or recording apparatus, i.e. where indication is made when a predetermined quantity has been consumed during a time interval greater or less than a predetermined time interval",
+      "count": 85,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D4/16": {
+      "code": "G01D4/16",
+      "level": 1,
+      "parent": "G01D4/00",
+      "ja": "最大または最小負荷時間を指示しまたは記録する装置",
+      "en": "Apparatus for indicating or recording maximum or minimum load hours",
+      "count": 22,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D4/18": {
+      "code": "G01D4/18",
+      "level": 1,
+      "parent": "G01D4/00",
+      "ja": "既定レベルを超過した時に作動する対向トルクで超過消費を指示しまたは記録する装置，例．控除メータ",
+      "en": "Apparatus for indicating or recording overconsumption with opposing torque which comes into effect when a predetermined level is exceeded, e.g. subtraction meters",
+      "count": 46,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D5/00": {
+      "code": "G01D5/00",
+      "level": 0,
+      "parent": "G01D",
+      "ja": "感知要素の出力を伝達するための機械的手段；感知素子の型式や特性が変換手段を束縛しない場合に，感知要素の出力を別の変量に変換する手段；特に特定の変量に適用されない変換器（Ｇ０１Ｄ３／００が優先；変量の瞬時値以外の結果を示す装置に特に適合したものＧ０１Ｄ１／００）［６］<br><br><b><ul>注</ul></b><br>グループ５／０２～５／５４は，もっとも重要な手段によって区別されている。したがって最終指示を与える他の手段の単なる応用は分類付与に影響しない。",
+      "en": "Mechanical means for transferring the output of a sensing member; Means for converting the output of a sensing member to another variable where the form or nature of the sensing member does not constrain the means for converting; Transducers not specially adapted for a specific variable(<b>G01D3/00</b> takes precedence; specially adapted for apparatus giving results other than momentary value of variable <b>G01D1/00</b>)",
+      "count": 2434,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D5/02": {
+      "code": "G01D5/02",
+      "level": 1,
+      "parent": "G01D5/00",
+      "ja": "機械的手段を使用するもの",
+      "en": "using mechanical means",
+      "count": 1324,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D5/04": {
+      "code": "G01D5/04",
+      "level": 2,
+      "parent": "G01D5/02",
+      "ja": "レバーを使用するもの；カムを使用するもの；歯車装置を使用するもの",
+      "en": "using levers; using cams; using gearing",
+      "count": 1518,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D5/06": {
+      "code": "G01D5/06",
+      "level": 2,
+      "parent": "G01D5/02",
+      "ja": "壁または被覆を通して作動するもの，例．ベローズによるもの，磁気結合によるもの",
+      "en": "acting through a wall or enclosure, e.g. by bellows, by magnetic coupling",
+      "count": 296,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D5/08": {
+      "code": "G01D5/08",
+      "level": 2,
+      "parent": "G01D5/02",
+      "ja": "摩擦の影響の軽減，例．振動の付加によるもの",
+      "en": "Reducing the effects of friction, e.g. by applying vibrations",
+      "count": 47,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D5/10": {
+      "code": "G01D5/10",
+      "level": 2,
+      "parent": "G01D5/02",
+      "ja": "指示または記録部の動作に有効な力を増幅するための外力の供給",
+      "en": "Applying external forces to increase force available for operation of indicating or recording part",
+      "count": 105,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D5/12": {
+      "code": "G01D5/12",
+      "level": 1,
+      "parent": "G01D5/00",
+      "ja": "電気的または磁気的手段を使用するもの（Ｇ０１Ｄ５／０６が優先）［３］",
+      "en": "using electric or magnetic means(<b>G01D5/06</b> takes precedence)",
+      "count": 11268,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D5/14": {
+      "code": "G01D5/14",
+      "level": 2,
+      "parent": "G01D5/12",
+      "ja": "電流または電圧の大きさに作用するもの",
+      "en": "influencing the magnitude of a current or voltage",
+      "count": 10331,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D5/16": {
+      "code": "G01D5/16",
+      "level": 3,
+      "parent": "G01D5/14",
+      "ja": "抵抗変化によるもの",
+      "en": "by varying resistance",
+      "count": 3976,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D5/165": {
+      "code": "G01D5/165",
+      "level": 4,
+      "parent": "G01D5/16",
+      "ja": "接点と抵抗トラックとの相対運動によるもの［６］",
+      "en": "by relative movement of a point of contact and a resistive track",
+      "count": 1236,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D5/18": {
+      "code": "G01D5/18",
+      "level": 3,
+      "parent": "G01D5/14",
+      "ja": "放電管または半導体装置の実効インピーダンス変化によるもの",
+      "en": "by varying effective impedance of discharge tubes or semiconductor devices",
+      "count": 1419,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D5/20": {
+      "code": "G01D5/20",
+      "level": 3,
+      "parent": "G01D5/14",
+      "ja": "インダクタンス変化によるもの，例．可動鉄片によるもの",
+      "en": "by varying inductance, e.g. by a movable armature",
+      "count": 8148,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D5/22": {
+      "code": "G01D5/22",
+      "level": 4,
+      "parent": "G01D5/20",
+      "ja": "差動コイルの電磁誘導によるもの",
+      "en": "differentially influencing two coils",
+      "count": 2063,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D5/24": {
+      "code": "G01D5/24",
+      "level": 3,
+      "parent": "G01D5/14",
+      "ja": "キャパシタンス変化によるもの",
+      "en": "by varying capacitance",
+      "count": 4060,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D5/241": {
+      "code": "G01D5/241",
+      "level": 4,
+      "parent": "G01D5/24",
+      "ja": "コンデンサ電極の相対運動によるもの［６］",
+      "en": "by relative movement of capacitor electrodes",
+      "count": 1592,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D5/242": {
+      "code": "G01D5/242",
+      "level": 3,
+      "parent": "G01D5/14",
+      "ja": "電気力学的装置の，例．速度発電機の，発生する出力によるもの",
+      "en": "by varying output of an electrodynamic device, e.g. of a tachodynamo",
+      "count": 192,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D5/243": {
+      "code": "G01D5/243",
+      "level": 2,
+      "parent": "G01D5/12",
+      "ja": "交流の位相または周波数に作用するもの",
+      "en": "influencing the phase or frequency of AC",
+      "count": 1260,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D5/244": {
+      "code": "G01D5/244",
+      "level": 2,
+      "parent": "G01D5/12",
+      "ja": "パルスまたはパルス列の特性に作用するもの；パルスまたはパルス列を発生するもの［６］",
+      "en": "influencing characteristics of pulses or pulse trains; generating pulses or pulse trains",
+      "count": 9153,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D5/245": {
+      "code": "G01D5/245",
+      "level": 3,
+      "parent": "G01D5/244",
+      "ja": "パルス列におけるパルスの変化数を利用するもの",
+      "en": "using a variable number of pulses in a train",
+      "count": 17473,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D5/246": {
+      "code": "G01D5/246",
+      "level": 3,
+      "parent": "G01D5/244",
+      "ja": "個々のパルスの持続期間の変化によるもの",
+      "en": "by varying the duration of individual pulses",
+      "count": 205,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D5/247": {
+      "code": "G01D5/247",
+      "level": 3,
+      "parent": "G01D5/244",
+      "ja": "パルスの時間シフトを利用するもの",
+      "en": "using time shifts of pulses",
+      "count": 242,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D5/248": {
+      "code": "G01D5/248",
+      "level": 3,
+      "parent": "G01D5/244",
+      "ja": "パルスの繰返し周波数の変化によるもの",
+      "en": "by varying pulse repetition frequency",
+      "count": 173,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D5/249": {
+      "code": "G01D5/249",
+      "level": 3,
+      "parent": "G01D5/244",
+      "ja": "パルスコードを利用するもの",
+      "en": "using pulse code",
+      "count": 3306,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D5/25": {
+      "code": "G01D5/25",
+      "level": 2,
+      "parent": "G01D5/12",
+      "ja": "複数個の導体またはチャンネルから１以上の導体またはチャンネルを選択するもの，例．接点の閉路によるもの",
+      "en": "Selecting one or more conductors or channels from a plurality of conductors or channels, e.g. by closing contacts",
+      "count": 741,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D5/251": {
+      "code": "G01D5/251",
+      "level": 3,
+      "parent": "G01D5/25",
+      "ja": "単一の導体またはチャンネル",
+      "en": "one conductor or channel",
+      "count": 253,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D5/252": {
+      "code": "G01D5/252",
+      "level": 3,
+      "parent": "G01D5/25",
+      "ja": "複数の導体またはチャンネルの組み合わせ",
+      "en": "a combination of conductors or channels",
+      "count": 266,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D5/26": {
+      "code": "G01D5/26",
+      "level": 1,
+      "parent": "G01D5/00",
+      "ja": "光学的手段を使用するもの，すなわち赤外線，可視光線または紫外線を用いるもの",
+      "en": "using optical means, i.e. using infrared, visible or ultraviolet light",
+      "count": 10534,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D5/28": {
+      "code": "G01D5/28",
+      "level": 2,
+      "parent": "G01D5/26",
+      "ja": "光ビームの偏向があるもの，例．直示型光点指示用（Ｇ０１Ｄ５／４０が優先）",
+      "en": "with deflection of beams of light, e.g. for direct optical indication(<b>G01D5/40</b> takes precedence)",
+      "count": 590,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D5/30": {
+      "code": "G01D5/30",
+      "level": 3,
+      "parent": "G01D5/28",
+      "ja": "光ビームをフォトセルで検知するもの",
+      "en": "the beams of light being detected by photocells",
+      "count": 2516,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D5/32": {
+      "code": "G01D5/32",
+      "level": 2,
+      "parent": "G01D5/26",
+      "ja": "光ビームの減衰，または全部または一部の遮蔽のあるもの（Ｇ０１Ｄ５／４０が優先）",
+      "en": "with attenuation or whole or partial obturation of beams of light(<b>G01D5/40</b> takes precedence)",
+      "count": 840,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D5/34": {
+      "code": "G01D5/34",
+      "level": 3,
+      "parent": "G01D5/32",
+      "ja": "光ビームをフォトセルで検知するもの",
+      "en": "the beams of light being detected by photocells",
+      "count": 4366,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D5/347": {
+      "code": "G01D5/347",
+      "level": 4,
+      "parent": "G01D5/34",
+      "ja": "変位エンコーダスケールを用いるもの［６］",
+      "en": "using displacement encoding scales",
+      "count": 7829,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D5/353": {
+      "code": "G01D5/353",
+      "level": 4,
+      "parent": "G01D5/34",
+      "ja": "光ファイバの伝送特性に影響を与えるもの［６］",
+      "en": "influencing the transmission properties of an optical fibre",
+      "count": 8780,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D5/36": {
+      "code": "G01D5/36",
+      "level": 4,
+      "parent": "G01D5/34",
+      "ja": "光をパルスに変えるもの",
+      "en": "Forming the light into pulses",
+      "count": 6790,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D5/38": {
+      "code": "G01D5/38",
+      "level": 5,
+      "parent": "G01D5/36",
+      "ja": "回折格子によるもの",
+      "en": "by diffraction gratings",
+      "count": 2722,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D5/39": {
+      "code": "G01D5/39",
+      "level": 2,
+      "parent": "G01D5/26",
+      "ja": "測定値の可視指示を走査し，遠隔地点で，例．陰極線管のスクリーンに，この指示を再生するもの",
+      "en": "Scanning a visible indication of the measured value and reproducing this indication at a remote place, e.g. on the screen of a cathode-ray tube",
+      "count": 399,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D5/40": {
+      "code": "G01D5/40",
+      "level": 2,
+      "parent": "G01D5/26",
+      "ja": "特に赤外線の使用に適したもの",
+      "en": "specially adapted for use with infrared light",
+      "count": 244,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D5/42": {
+      "code": "G01D5/42",
+      "level": 1,
+      "parent": "G01D5/00",
+      "ja": "流体式手段を使用するもの",
+      "en": "using fluid means",
+      "count": 767,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D5/44": {
+      "code": "G01D5/44",
+      "level": 2,
+      "parent": "G01D5/42",
+      "ja": "流体の噴射によるもの",
+      "en": "using jets of fluid",
+      "count": 108,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D5/46": {
+      "code": "G01D5/46",
+      "level": 3,
+      "parent": "G01D5/44",
+      "ja": "流れの偏向または抑制によるもの",
+      "en": "by deflecting or throttling the flow",
+      "count": 72,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D5/48": {
+      "code": "G01D5/48",
+      "level": 1,
+      "parent": "G01D5/00",
+      "ja": "波または粒子放射による手段を使用するもの（Ｇ０１Ｄ５／２６が優先）",
+      "en": "using wave or particle radiation means(<b>G01D5/26</b> takes precedence)",
+      "count": 1699,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D5/50": {
+      "code": "G01D5/50",
+      "level": 2,
+      "parent": "G01D5/48",
+      "ja": "放射線源をそなえたもの",
+      "en": "derived from a radioactive source",
+      "count": 55,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D5/52": {
+      "code": "G01D5/52",
+      "level": 3,
+      "parent": "G01D5/50",
+      "ja": "計数管で検知するもの",
+      "en": "detected by a counter tube",
+      "count": 12,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D5/54": {
+      "code": "G01D5/54",
+      "level": 1,
+      "parent": "G01D5/00",
+      "ja": "グループＧ０１Ｄ５／０２，Ｇ０１Ｄ５／１２，Ｇ０１Ｄ５／２６，Ｇ０１Ｄ５／４２およびＧ０１Ｄ５／４８のうち２以上に分類される手段を使用するもの<br><br><b><ul>注</ul></b><br>優先適用される他のグループを選択できない場合にのみ，このグループに分類する。<br>２以上の手段の組合せの分類については，サブグループ５／５６－５／６２のうち適用可能の最初のものがその他のグループに優先する。",
+      "en": "using means specified in two or more of groups <b>G01D5/02</b>, <b>G01D5/12</b>, <b>G01D5/26</b>, <b>G01D5/42</b>, and <b>G01D5/48</b>; <br><br><b><u>Note(s)</u></b><br><br><ul><li>Classification is made in this group only if no other group can be selected as being predominantly applicable.</li></ul>",
+      "count": 142,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D5/56": {
+      "code": "G01D5/56",
+      "level": 2,
+      "parent": "G01D5/54",
+      "ja": "電気的または磁気的手段を使用するもの",
+      "en": "using electric or magnetic means",
+      "count": 429,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D5/58": {
+      "code": "G01D5/58",
+      "level": 2,
+      "parent": "G01D5/54",
+      "ja": "光学的手段を使用するもの，すなわち，赤外線，可視光線または紫外線を利用するもの",
+      "en": "using optical means, i.e. using infrared, visible or ultraviolet light",
+      "count": 182,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D5/60": {
+      "code": "G01D5/60",
+      "level": 2,
+      "parent": "G01D5/54",
+      "ja": "流体式手段を使用するもの",
+      "en": "using fluid means",
+      "count": 28,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D5/62": {
+      "code": "G01D5/62",
+      "level": 2,
+      "parent": "G01D5/54",
+      "ja": "５／５８に包含されない波または粒子放射による手段を使用するもの",
+      "en": "using wave or particle radiation means not covered by group <b>G01D5/58</b>",
+      "count": 41,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D7/00": {
+      "code": "G01D7/00",
+      "level": 0,
+      "parent": "G01D",
+      "ja": "測定値の指示",
+      "en": "Indicating measured values",
+      "count": 14753,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D7/02": {
+      "code": "G01D7/02",
+      "level": 1,
+      "parent": "G01D7/00",
+      "ja": "２以上の変量値の同時指示",
+      "en": "Indicating value of two or more variables simultaneously",
+      "count": 1710,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D7/04": {
+      "code": "G01D7/04",
+      "level": 2,
+      "parent": "G01D7/02",
+      "ja": "各変量にそれぞれ指示素子を用いるもの",
+      "en": "using a separate indicating element for each variable",
+      "count": 713,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D7/06": {
+      "code": "G01D7/06",
+      "level": 3,
+      "parent": "G01D7/04",
+      "ja": "共通スクリーンへの光学的指示",
+      "en": "Luminous indications projected on a common screen",
+      "count": 336,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D7/08": {
+      "code": "G01D7/08",
+      "level": 2,
+      "parent": "G01D7/02",
+      "ja": "２以上の変量に共通の指示素子を用いるもの",
+      "en": "using a common indicating element for two or more variables",
+      "count": 750,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D7/10": {
+      "code": "G01D7/10",
+      "level": 3,
+      "parent": "G01D7/08",
+      "ja": "同形式の指示を与えるもの",
+      "en": "giving indication in co-ordinate form",
+      "count": 186,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D7/12": {
+      "code": "G01D7/12",
+      "level": 1,
+      "parent": "G01D7/00",
+      "ja": "計器の指示値の音響的指示，例．盲人用［２］",
+      "en": "Audible indication of meter readings, e.g. for the blind",
+      "count": 720,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D9/00": {
+      "code": "G01D9/00",
+      "level": 0,
+      "parent": "G01D",
+      "ja": "測定値の記録",
+      "en": "Recording measured values",
+      "count": 6208,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D9/02": {
+      "code": "G01D9/02",
+      "level": 1,
+      "parent": "G01D9/00",
+      "ja": "単一の変量について１種または複数の記録をするもの",
+      "en": "Producing one or more recordings of the values of a single variable",
+      "count": 389,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D9/04": {
+      "code": "G01D9/04",
+      "level": 2,
+      "parent": "G01D9/02",
+      "ja": "多重記録または切換記録によるもの",
+      "en": "with provision for multiple or alternative recording",
+      "count": 108,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D9/06": {
+      "code": "G01D9/06",
+      "level": 3,
+      "parent": "G01D9/04",
+      "ja": "多重記録，例．複製",
+      "en": "Multiple recording, e.g. duplicating",
+      "count": 95,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D9/08": {
+      "code": "G01D9/08",
+      "level": 4,
+      "parent": "G01D9/06",
+      "ja": "図的記録と数値的記録とをともに与えるもの",
+      "en": "giving both graphical and numerical recording",
+      "count": 160,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D9/10": {
+      "code": "G01D9/10",
+      "level": 2,
+      "parent": "G01D9/02",
+      "ja": "変量にしたがって動作する記録素子，例．ペン，および時間にしたがって動作する記録媒体，例．紙ロール",
+      "en": "the recording element, e.g. stylus, being controlled in accordance with the variable, and the recording medium, e.g. paper roll, being controlled in accordance with time",
+      "count": 204,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D9/12": {
+      "code": "G01D9/12",
+      "level": 3,
+      "parent": "G01D9/10",
+      "ja": "事象の連続記録",
+      "en": "recording occurring continuously",
+      "count": 206,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D9/14": {
+      "code": "G01D9/14",
+      "level": 4,
+      "parent": "G01D9/12",
+      "ja": "記録される変量の大きさにしたがって記録媒体を変速する装置を備えたもの",
+      "en": "with provision for altering speed of recording medium in accordance with the magnitude of the variable to be recorded",
+      "count": 79,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D9/16": {
+      "code": "G01D9/16",
+      "level": 3,
+      "parent": "G01D9/10",
+      "ja": "事象の間欠記録，例．打杆によるもの",
+      "en": "recording occurring at separated intervals, e.g. by chopper bar",
+      "count": 343,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D9/18": {
+      "code": "G01D9/18",
+      "level": 4,
+      "parent": "G01D9/16",
+      "ja": "変量値の変化のみにより動作する記録素子",
+      "en": "recording element actuated only upon change in value of variable",
+      "count": 68,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D9/20": {
+      "code": "G01D9/20",
+      "level": 2,
+      "parent": "G01D9/02",
+      "ja": "時間にしたがって動作する記録素子，例．ペン，および変量にしたがって動作する記録媒体，例．紙ロール",
+      "en": "the recording element, e.g. stylus, being controlled in accordance with time and the recording medium, e.g. paper roll, being controlled in accordance with the variable",
+      "count": 64,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D9/22": {
+      "code": "G01D9/22",
+      "level": 3,
+      "parent": "G01D9/20",
+      "ja": "事象の連続記録",
+      "en": "recording occurring continuously",
+      "count": 32,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D9/24": {
+      "code": "G01D9/24",
+      "level": 3,
+      "parent": "G01D9/20",
+      "ja": "事象の間欠記録，例．打杆によるもの",
+      "en": "recording occurring at separated intervals, e.g. by chopper bar",
+      "count": 28,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D9/26": {
+      "code": "G01D9/26",
+      "level": 2,
+      "parent": "G01D9/02",
+      "ja": "記録素子，例．ペン，または記録媒体，例．紙ロール，の何れかが，時間と変量の両者により動作するもの",
+      "en": "either the recording element, e.g. stylus, or the recording medium, e.g. paper roll, being controlled in accordance with both time and the variable",
+      "count": 113,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D9/28": {
+      "code": "G01D9/28",
+      "level": 1,
+      "parent": "G01D9/00",
+      "ja": "２以上の異なる変量値についてそれぞれを１種または多種の記録をするもの（Ｇ０１Ｄ９／３８，Ｇ０１Ｄ９／４０が優先）",
+      "en": "Producing one or more recordings, each recording being of the values of two or more different variables(<b>G01D9/38</b>, <b>G01D9/40</b> take precedence)",
+      "count": 787,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D9/30": {
+      "code": "G01D9/30",
+      "level": 2,
+      "parent": "G01D9/28",
+      "ja": "各変量に対して記録素子が別々にあるもの，例．多ペン型記録計",
+      "en": "there being a separate recording element for each variable, e.g. multiple-pen recorder",
+      "count": 492,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D9/32": {
+      "code": "G01D9/32",
+      "level": 2,
+      "parent": "G01D9/28",
+      "ja": "２以上の変量に共通の記録素子のあるもの",
+      "en": "there being a common recording element for two or more variables",
+      "count": 593,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D9/34": {
+      "code": "G01D9/34",
+      "level": 3,
+      "parent": "G01D9/32",
+      "ja": "変量が一定の順序で記録されるもの",
+      "en": "the variables being recorded in predetermined sequence",
+      "count": 131,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D9/36": {
+      "code": "G01D9/36",
+      "level": 4,
+      "parent": "G01D9/34",
+      "ja": "別々の記録欄に記録するもの",
+      "en": "in separate columns",
+      "count": 56,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D9/38": {
+      "code": "G01D9/38",
+      "level": 1,
+      "parent": "G01D9/00",
+      "ja": "ある変量に応じて記録素子，例．ペン，を動作させ，他の変量に応じて記録媒体，例．紙ロールを，動作させることにより１種または多種の記録をするもの",
+      "en": "Producing one or more recordings, each recording being produced by controlling the recording element, e.g. stylus, in accordance with one variable and controlling the recording medium, e.g. paper roll, in accordance with another variable",
+      "count": 278,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D9/40": {
+      "code": "G01D9/40",
+      "level": 1,
+      "parent": "G01D9/00",
+      "ja": "２以上の変量に応じて記録素子，例．ペン，または記録媒体，例．紙ロール，のいずれかを動作させることにより１種または多種の記録をするもの",
+      "en": "Producing one or more recordings, each recording being produced by controlling either the recording element, e.g. stylus, or the recording medium, e.g. paper roll, in accordance with two or more variables",
+      "count": 482,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D9/42": {
+      "code": "G01D9/42",
+      "level": 1,
+      "parent": "G01D9/00",
+      "ja": "写真的手段による測定器の，例．カウンターの，指示の記録",
+      "en": "Recording indications of measuring instruments by photographic means, e.g. of counters",
+      "count": 390,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D11/00": {
+      "code": "G01D11/00",
+      "level": 0,
+      "parent": "G01D",
+      "ja": "特に特定の変量に適用されない測定装置の構成部品（Ｇ０１Ｄ１３／００，Ｇ０１Ｄ１５／００優先）",
+      "en": "Component parts of measuring arrangements not specially adapted for a specific variable(<b>G01D13/00</b>, <b>G01D15/00</b> take precedence)",
+      "count": 23272,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D11/02": {
+      "code": "G01D11/02",
+      "level": 1,
+      "parent": "G01D11/00",
+      "ja": "可動部の軸受，または懸吊",
+      "en": "Bearings or suspensions for moving parts",
+      "count": 943,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D11/04": {
+      "code": "G01D11/04",
+      "level": 2,
+      "parent": "G01D11/02",
+      "ja": "ナイフエッジ軸受",
+      "en": "Knive-edge bearings",
+      "count": 47,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D11/06": {
+      "code": "G01D11/06",
+      "level": 2,
+      "parent": "G01D11/02",
+      "ja": "帯懸吊または糸条懸吊，例．張力の",
+      "en": "Strip or thread suspensions, e.g. in tension",
+      "count": 234,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D11/08": {
+      "code": "G01D11/08",
+      "level": 1,
+      "parent": "G01D11/00",
+      "ja": "可動部の平衡をとるための素子",
+      "en": "Elements for balancing moving parts",
+      "count": 157,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D11/10": {
+      "code": "G01D11/10",
+      "level": 1,
+      "parent": "G01D11/00",
+      "ja": "部品の運動を制動するための素子",
+      "en": "Elements for damping the movement of parts",
+      "count": 1180,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D11/12": {
+      "code": "G01D11/12",
+      "level": 2,
+      "parent": "G01D11/10",
+      "ja": "流体制動を用いたもの",
+      "en": "using fluid damping",
+      "count": 295,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D11/14": {
+      "code": "G01D11/14",
+      "level": 2,
+      "parent": "G01D11/10",
+      "ja": "電磁制動を用いたもの",
+      "en": "using magnetic induction damping",
+      "count": 133,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D11/16": {
+      "code": "G01D11/16",
+      "level": 1,
+      "parent": "G01D11/00",
+      "ja": "部品を制止する，または部品の運動を妨げる，ための素子，例．指針の帰零用（不使用時における可動部品の係止Ｇ０１Ｄ１１／２０）",
+      "en": "Elements for restraining or preventing the movement of parts, e.g. for zeroising(caging of moving parts when not in use <b>G01D11/20</b>)",
+      "count": 5372,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D11/18": {
+      "code": "G01D11/18",
+      "level": 2,
+      "parent": "G01D11/16",
+      "ja": "スプリング（Ｇ０１Ｄ１１／０６が優先）",
+      "en": "Springs(<b>G01D11/06</b> takes precedence)",
+      "count": 993,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D11/20": {
+      "code": "G01D11/20",
+      "level": 1,
+      "parent": "G01D11/00",
+      "ja": "不使用時に可動部を係止する装置",
+      "en": "Caging devices for moving parts when not in use",
+      "count": 299,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D11/22": {
+      "code": "G01D11/22",
+      "level": 2,
+      "parent": "G01D11/20",
+      "ja": "自動的に作用するもの",
+      "en": "automatically actuated",
+      "count": 59,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D11/24": {
+      "code": "G01D11/24",
+      "level": 1,
+      "parent": "G01D11/00",
+      "ja": "計器箱",
+      "en": "Housings",
+      "count": 21483,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D11/26": {
+      "code": "G01D11/26",
+      "level": 2,
+      "parent": "G01D11/24",
+      "ja": "窓；カバーガラス；その密閉",
+      "en": "Windows; Cover glasses; Sealings therefor",
+      "count": 3642,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D11/28": {
+      "code": "G01D11/28",
+      "level": 1,
+      "parent": "G01D11/00",
+      "ja": "構造的に結合した照明装置",
+      "en": "Structurally-combined illuminating devices",
+      "count": 7227,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D11/30": {
+      "code": "G01D11/30",
+      "level": 1,
+      "parent": "G01D11/00",
+      "ja": "計器に特に適合した支持装置；計器のセットに特に適合した支持装置",
+      "en": "Supports specially adapted for an instrument; Supports specially adapted for a set of instruments",
+      "count": 23807,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D13/00": {
+      "code": "G01D13/00",
+      "level": 0,
+      "parent": "G01D",
+      "ja": "特に特定の変量に適用されない測定装置用指示器の構成部品",
+      "en": "Component parts of indicators for measuring arrangements not specially adapted for a specific variable",
+      "count": 1266,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D13/02": {
+      "code": "G01D13/02",
+      "level": 1,
+      "parent": "G01D13/00",
+      "ja": "目盛板；ダイヤル",
+      "en": "Scales; Dials",
+      "count": 2404,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D13/04": {
+      "code": "G01D13/04",
+      "level": 2,
+      "parent": "G01D13/02",
+      "ja": "構造",
+      "en": "Construction",
+      "count": 1671,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D13/06": {
+      "code": "G01D13/06",
+      "level": 3,
+      "parent": "G01D13/04",
+      "ja": "可動帯（Ｇ０１Ｄ１３／１０が優先）",
+      "en": "Moving bands(<b>G01D13/10</b> takes precedence)",
+      "count": 207,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D13/08": {
+      "code": "G01D13/08",
+      "level": 3,
+      "parent": "G01D13/04",
+      "ja": "回転筒（Ｇ０１Ｄ１３／１０が優先）",
+      "en": "Rotating drums(<b>G01D13/10</b> takes precedence)",
+      "count": 198,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D13/10": {
+      "code": "G01D13/10",
+      "level": 3,
+      "parent": "G01D13/04",
+      "ja": "調整できる目盛のあるもの；補助目盛のあるもの，例．副尺",
+      "en": "with adjustable scales; with auxiliary scales, e.g. vernier",
+      "count": 275,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D13/12": {
+      "code": "G01D13/12",
+      "level": 2,
+      "parent": "G01D13/02",
+      "ja": "目盛",
+      "en": "Graduation",
+      "count": 596,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D13/14": {
+      "code": "G01D13/14",
+      "level": 3,
+      "parent": "G01D13/12",
+      "ja": "３６０度以上の回転のためのもの",
+      "en": "for rotations of more than 360&deg",
+      "count": 35,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D13/16": {
+      "code": "G01D13/16",
+      "level": 3,
+      "parent": "G01D13/12",
+      "ja": "鋸歯状に目盛線をもつもの",
+      "en": "with staggered markings",
+      "count": 21,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D13/18": {
+      "code": "G01D13/18",
+      "level": 3,
+      "parent": "G01D13/12",
+      "ja": "長短の目盛線をもつもの",
+      "en": "with raised or recessed markings",
+      "count": 26,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D13/20": {
+      "code": "G01D13/20",
+      "level": 3,
+      "parent": "G01D13/12",
+      "ja": "発光性の目盛線をつけたもの",
+      "en": "with luminescent markings",
+      "count": 243,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D13/22": {
+      "code": "G01D13/22",
+      "level": 1,
+      "parent": "G01D13/00",
+      "ja": "指針，例．設定指針",
+      "en": "Pointers, e.g. settable pointer",
+      "count": 2669,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D13/24": {
+      "code": "G01D13/24",
+      "level": 2,
+      "parent": "G01D13/22",
+      "ja": "最大または最小を指示するためのもの",
+      "en": "for indicating a maximum or minimum",
+      "count": 167,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D13/26": {
+      "code": "G01D13/26",
+      "level": 2,
+      "parent": "G01D13/22",
+      "ja": "さらに別の作用を行なうために適合したもの，例．電気接点を作動するもの",
+      "en": "adapted to perform a further operation, e.g. making electrical contact",
+      "count": 621,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D13/28": {
+      "code": "G01D13/28",
+      "level": 2,
+      "parent": "G01D13/22",
+      "ja": "発光性を帯びたもの",
+      "en": "with luminescent markings",
+      "count": 1110,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D15/00": {
+      "code": "G01D15/00",
+      "level": 0,
+      "parent": "G01D",
+      "ja": "特に特定の変量に適用されない測定装置用記録装置の構成部品",
+      "en": "Component parts of recorders for measuring arrangements not specially adapted for a specific variable",
+      "count": 1527,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D15/02": {
+      "code": "G01D15/02",
+      "level": 1,
+      "parent": "G01D15/00",
+      "ja": "記録体表面を機械的に変形させるかまたは記録体表面に穴をあけるスタイラスまたは他の記録素子（プリンティング記録素子Ｇ０１Ｄ１５／２０）",
+      "en": "Styli or other recording elements acting to mechanically deform or perforate the recording surface(printing recording elements <b>G01D15/20</b>)",
+      "count": 213,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D15/04": {
+      "code": "G01D15/04",
+      "level": 2,
+      "parent": "G01D15/02",
+      "ja": "記録体表面にパンチするもの",
+      "en": "acting to punch holes in the recording surface",
+      "count": 61,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D15/06": {
+      "code": "G01D15/06",
+      "level": 1,
+      "parent": "G01D15/00",
+      "ja": "電気的記録素子，例．電解質のもの",
+      "en": "Electric recording elements, e.g. electrolytic",
+      "count": 706,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D15/08": {
+      "code": "G01D15/08",
+      "level": 2,
+      "parent": "G01D15/06",
+      "ja": "放電破壊用",
+      "en": "for spark erosion",
+      "count": 273,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D15/10": {
+      "code": "G01D15/10",
+      "level": 1,
+      "parent": "G01D15/00",
+      "ja": "感熱記録層に作用する熱記録素子",
+      "en": "Heated recording elements acting on heat-sensitive layers",
+      "count": 925,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D15/12": {
+      "code": "G01D15/12",
+      "level": 1,
+      "parent": "G01D15/00",
+      "ja": "磁気的記録素子",
+      "en": "Magnetic recording elements",
+      "count": 201,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D15/14": {
+      "code": "G01D15/14",
+      "level": 1,
+      "parent": "G01D15/00",
+      "ja": "光学的記録素子；Ｘ線または放射線を用いた記録素子",
+      "en": "Optical recording elements; Recording elements using X- or nuclear radiation",
+      "count": 890,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D15/16": {
+      "code": "G01D15/16",
+      "level": 1,
+      "parent": "G01D15/00",
+      "ja": "記録体表面に記録剤，例．インキ，を移す記録素子（プリンティング記録素子Ｇ０１Ｄ１５／２０）",
+      "en": "Recording elements transferring recording material, e.g. ink, to the recording surface(printing recording elements <b>G01D15/20</b>)",
+      "count": 1510,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D15/18": {
+      "code": "G01D15/18",
+      "level": 2,
+      "parent": "G01D15/16",
+      "ja": "記録剤をノズルから噴射するもの",
+      "en": "Nozzles emitting recording material",
+      "count": 1018,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D15/20": {
+      "code": "G01D15/20",
+      "level": 1,
+      "parent": "G01D15/00",
+      "ja": "インキを用いてプリントするか記録体表面の変形または穴あけによってプリントするための記録素子，例．エンボス加工",
+      "en": "Recording elements for printing with ink or for printing by deformation or perforation of the recording surface, e.g. embossing",
+      "count": 484,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D15/22": {
+      "code": "G01D15/22",
+      "level": 1,
+      "parent": "G01D15/00",
+      "ja": "記録素子を記録体表面に接触させるための打杆",
+      "en": "Chopper bars for bringing recording element into contact with recording surface",
+      "count": 99,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D15/24": {
+      "code": "G01D15/24",
+      "level": 1,
+      "parent": "G01D15/00",
+      "ja": "５／００に包含されない記録素子または記録体表面のための駆動",
+      "en": "Drives for recording elements or surfaces, not covered by group <b>G01D5/00</b>",
+      "count": 1578,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D15/26": {
+      "code": "G01D15/26",
+      "level": 2,
+      "parent": "G01D15/24",
+      "ja": "時計機構により動作するもの",
+      "en": "operating by clockwork",
+      "count": 109,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D15/28": {
+      "code": "G01D15/28",
+      "level": 1,
+      "parent": "G01D15/00",
+      "ja": "記録体表面の保持手段；記録体表面の案内手段；記録体表面の取替え手段",
+      "en": "Holding means for recording surfaces; Guiding means for recording surfaces; Exchanging means for recording surfaces",
+      "count": 1395,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D15/30": {
+      "code": "G01D15/30",
+      "level": 2,
+      "parent": "G01D15/28",
+      "ja": "折りたたみ式帯状記録紙用",
+      "en": "for foldable strip charts",
+      "count": 262,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D15/32": {
+      "code": "G01D15/32",
+      "level": 2,
+      "parent": "G01D15/28",
+      "ja": "円形記録紙用",
+      "en": "for circular charts",
+      "count": 174,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D15/34": {
+      "code": "G01D15/34",
+      "level": 1,
+      "parent": "G01D15/00",
+      "ja": "記録体表面",
+      "en": "Recording surfaces",
+      "count": 426,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D18/00": {
+      "code": "G01D18/00",
+      "level": 0,
+      "parent": "G01D",
+      "ja": "グループＧ０１Ｄ１／００からＧ０１Ｄ１５／００に分類された装置の試験または較正",
+      "en": "Testing or calibrating apparatus or arrangements provided for in groups <b>G01D1/00 to G01D15/00</b> ",
+      "count": 14298,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D21/00": {
+      "code": "G01D21/00",
+      "level": 0,
+      "parent": "G01D",
+      "ja": "他に分類されない測定または試験",
+      "en": "Measuring or testing not otherwise provided for",
+      "count": 22963,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    },
+    "G01D21/02": {
+      "code": "G01D21/02",
+      "level": 1,
+      "parent": "G01D21/00",
+      "ja": "単一の他のサブクラスに包含されない手段による２以上の変量の測定",
+      "en": "Measuring two or more variables by means not covered by a single other subclass",
+      "count": 132015,
+      "sourceFile": "ipc_G01D.txt",
+      "kind": "ipc"
+    }
+  }
+}

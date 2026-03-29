@@ -1,0 +1,196 @@
+window.IPC_SHARD_F17B = {
+  "generatedAt": "2026-03-20T02:17:46.860Z",
+  "total": 19,
+  "entries": {
+    "F17B": {
+      "code": "F17B",
+      "level": 0,
+      "parent": "F17",
+      "ja": "容量可変のガスホルダ（自動ガス遮断装置Ａ４７Ｊ２７／６２，Ｇ０５Ｄ；火炎トラップＡ６２Ｃ４／００；ガス混合機Ｂ０１Ｆ，Ｆ１６Ｋ１１／００，Ｇ０５Ｄ１１／００；土木工学を用いた大量貯蔵容器の建造または組立てＥ０４Ｈ７／００；ガス圧縮機Ｆ０４；弁Ｆ１６Ｋ；弁または管の振動防止Ｆ１６Ｋ，Ｆ１６Ｌ；管Ｆ１６Ｌ；ガス主管の遮断装置Ｆ１６Ｌ５５／１０；圧縮，液化又は固化ガス所蔵用に適用された容器Ｆ１７Ｃ；ガス分配系Ｆ１７Ｄ１／０４；漏洩検知Ｆ１７Ｄ５／０２，Ｇ０１Ｍ；監視または警報装置Ｆ１７Ｄ５／０２，Ｇ０８Ｂ；パーナにおける燃焼の制御Ｆ２３Ｎ；ガスの量容または圧力調節装置Ｇ０５Ｄ）",
+      "en": "GAS-HOLDERS OF VARIABLE CAPACITY(self-acting gas cut-off devices <b>A47J27/62</b>, <b>G05D</b>; flame traps <b>A62C4/00</b>; gas mixers <b>B01F</b>, <b>F16K11/00</b>, <b>G05D11/00</b>; construction or assembling of bulk storage containers employing civil-engineering techniques <b>E04H7/00</b>; gas compressors <b>F04</b>; valves <b>F16K</b>; damping pulsations in valves or pipes <b>F16K</b>, <b>F16L</b>; pipes <b>F16L</b>; stopping devices for gas mains <b>F16L55/10</b>; vessels adapted for storing compressed, liquefied, or solidified gases <b>F17C</b>; gas distribution systems <b>F17D1/04</b>; detecting leakage <b>F17D5/02</b>, <b>G01M</b>; supervising or alarm devices <b>F17D5/02</b>, <b>G08B</b>; control of combustion in burners <b>F23N</b>; gas flow or pressure regulators <b>G05D</b>)",
+      "count": 47,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F17": {
+      "code": "F17",
+      "level": 0,
+      "parent": "F",
+      "ja": "ガスまたは液体の貯蔵または分配",
+      "en": "STORING OR DISTRIBUTING GASES OR LIQUIDS",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F": {
+      "code": "F",
+      "level": 0,
+      "parent": null,
+      "ja": "機械工学；照明；加熱；武器；爆破",
+      "en": "MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F17B1/00": {
+      "code": "F17B1/00",
+      "level": 0,
+      "parent": "F17B",
+      "ja": "可変容量のガスホルダ（大型容器一般Ｂ６５Ｄ８８／００；自然または人工的な地中の穴または室での流体貯蔵Ｂ６５Ｇ５／００）",
+      "en": "Gas-holders of variable capacity(large containers in general <b>B65D88/00</b>; storing fluids in natural or artificial cavities or chambers in the earth <b>B65G5/00</b>)",
+      "count": 750,
+      "sourceFile": "ipc_F17B.txt",
+      "kind": "ipc"
+    },
+    "F17B1/007": {
+      "code": "F17B1/007",
+      "level": 1,
+      "parent": "F17B1/00",
+      "ja": "入れこ式に可動のリング状部材をもつもの（Ｆ１７Ｂ１／１０が優先；リングの密封Ｆ１７Ｂ１／０４）［２］",
+      "en": "with telescopically movable ring-shaped parts(<b>F17B1/10</b> takes precedence; sealing of rings <b>F17B1/04</b>)",
+      "count": 115,
+      "sourceFile": "ipc_F17B.txt",
+      "kind": "ipc"
+    },
+    "F17B1/013": {
+      "code": "F17B1/013",
+      "level": 1,
+      "parent": "F17B1/00",
+      "ja": "可動デイスクをもつもの（Ｆ１７Ｂ１／１０が優先；デイスクの密封Ｆ１７Ｂ１／０４）［２］",
+      "en": "with movables discs(<b>F17B1/10</b> takes precedence; sealing of discs <b>F17B1/04</b>)",
+      "count": 214,
+      "sourceFile": "ipc_F17B.txt",
+      "kind": "ipc"
+    },
+    "F17B1/02": {
+      "code": "F17B1/02",
+      "level": 1,
+      "parent": "F17B1/00",
+      "ja": "細部",
+      "en": "Details",
+      "count": 993,
+      "sourceFile": "ipc_F17B.txt",
+      "kind": "ipc"
+    },
+    "F17B1/04": {
+      "code": "F17B1/04",
+      "level": 2,
+      "parent": "F17B1/02",
+      "ja": "スライド部材のためのシール装置（密封装置一般Ｆ１６Ｊ１５／００）",
+      "en": "Sealing devices for sliding parts(in general <b>F16J15/00</b>)",
+      "count": 450,
+      "sourceFile": "ipc_F17B.txt",
+      "kind": "ipc"
+    },
+    "F17B1/06": {
+      "code": "F17B1/06",
+      "level": 3,
+      "parent": "F17B1/04",
+      "ja": "シール液を用いるもの",
+      "en": "using sealing liquids",
+      "count": 250,
+      "sourceFile": "ipc_F17B.txt",
+      "kind": "ipc"
+    },
+    "F17B1/08": {
+      "code": "F17B1/08",
+      "level": 3,
+      "parent": "F17B1/04",
+      "ja": "パッキングのために弾性材料を用いるもの，例．革",
+      "en": "using resilient materials for packing, e.g. leather",
+      "count": 223,
+      "sourceFile": "ipc_F17B.txt",
+      "kind": "ipc"
+    },
+    "F17B1/10": {
+      "code": "F17B1/10",
+      "level": 2,
+      "parent": "F17B1/02",
+      "ja": "動く部材を案内するもの",
+      "en": "Guiding moving parts",
+      "count": 140,
+      "sourceFile": "ipc_F17B.txt",
+      "kind": "ipc"
+    },
+    "F17B1/12": {
+      "code": "F17B1/12",
+      "level": 2,
+      "parent": "F17B1/02",
+      "ja": "ガス吸入装置またはガス排出装置",
+      "en": "Gas admission or discharge arrangements",
+      "count": 442,
+      "sourceFile": "ipc_F17B.txt",
+      "kind": "ipc"
+    },
+    "F17B1/14": {
+      "code": "F17B1/14",
+      "level": 2,
+      "parent": "F17B1/02",
+      "ja": "安全装置，例．過圧防止",
+      "en": "Safety devices, e.g. prevention of excess pressure",
+      "count": 547,
+      "sourceFile": "ipc_F17B.txt",
+      "kind": "ipc"
+    },
+    "F17B1/16": {
+      "code": "F17B1/16",
+      "level": 1,
+      "parent": "F17B1/00",
+      "ja": "湿式形",
+      "en": "of wet type",
+      "count": 140,
+      "sourceFile": "ipc_F17B.txt",
+      "kind": "ipc"
+    },
+    "F17B1/18": {
+      "code": "F17B1/18",
+      "level": 2,
+      "parent": "F17B1/16",
+      "ja": "ベル形のもの",
+      "en": "bell-shaped",
+      "count": 83,
+      "sourceFile": "ipc_F17B.txt",
+      "kind": "ipc"
+    },
+    "F17B1/20": {
+      "code": "F17B1/20",
+      "level": 2,
+      "parent": "F17B1/16",
+      "ja": "入れ子状に伸縮自在のもの",
+      "en": "telescopic",
+      "count": 76,
+      "sourceFile": "ipc_F17B.txt",
+      "kind": "ipc"
+    },
+    "F17B1/22": {
+      "code": "F17B1/22",
+      "level": 3,
+      "parent": "F17B1/20",
+      "ja": "ら旋状に案内されているもの",
+      "en": "spirally-guided",
+      "count": 11,
+      "sourceFile": "ipc_F17B.txt",
+      "kind": "ipc"
+    },
+    "F17B1/24": {
+      "code": "F17B1/24",
+      "level": 1,
+      "parent": "F17B1/00",
+      "ja": "乾式形",
+      "en": "of dry type",
+      "count": 298,
+      "sourceFile": "ipc_F17B.txt",
+      "kind": "ipc"
+    },
+    "F17B1/26": {
+      "code": "F17B1/26",
+      "level": 2,
+      "parent": "F17B1/24",
+      "ja": "可撓壁，例．ベローズ，をもつもの（膨脹可能な弾性体への弁の取り付けＢ６０Ｃ２９／００）",
+      "en": "with flexible walls, e.g. bellows(connection of valves to inflatable elastic bodies <b>B60C29/00</b>)",
+      "count": 425,
+      "sourceFile": "ipc_F17B.txt",
+      "kind": "ipc"
+    }
+  }
+};

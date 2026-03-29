@@ -1,0 +1,2856 @@
+{
+  "generatedAt": "2026-03-20T02:17:46.115Z",
+  "total": 285,
+  "entries": {
+    "B23K": {
+      "code": "B23K",
+      "level": 0,
+      "parent": "B23",
+      "ja": "ハンダ付またはハンダ離脱；溶接；ハンダ付または溶接によるクラッドまたは被せ金；局部加熱による切断，例．火炎切断：レーザービームによる加工<br><br><b><ul>注</ul></b><br>（１）このサブクラスは，サブクラスタイトルに包含される目的に適した電気回路も包含する。<br>（２）このサブクラスにおいては，下記の用語は以下に示す意味で用いる：<br>―“ハンダ付”はハンダを用い接合されるどちらの部品も溶かさずに加熱し金属を接合することを意味する。［５］<br>（３）グループＢ２３Ｋ１／００～Ｂ２３Ｋ３１／００においては，グループＢ２３Ｋ１０１／００またはＢ２３Ｋ１０３／００のインデキシンングコードを付加することが望ましい。［５］<br><br><b><ul>サブクラス内の索引</ul></b><br>ハンダ付　１／００，３／００<br>溶接<br>熱発生に用いられる手段に特徴があるもの<br>火炎によるもの　５／００<br>電気によるもの　９／００，１１／００，１３／００<br>プラズマによるもの　１０／００<br>核微粒子によるもの　１５／００，１７／００<br>テルミット反応によるもの　２３／００<br>レーザービームによるもの　２６／００<br>その他　２５／００，２８／００<br>衝撃または加圧を特徴とするもの　２０／００<br>他の特色を特徴とするもの；このサブクラスの１つの特殊なグループに拘束されない方法　２８／００<br>局部加熱による切断；切り離し　７／００，９／００，１５／００，２６／００，２８／００；１１／００<br>スカーフィング，デサーフェーシング　７／００<br>材料；補助装置　３５／００；３７／００<br>特殊な方法　３１／００，３３／００",
+      "en": "SOLDERING OR UNSOLDERING; WELDING; CLADDING OR PLATING BY SOLDERING OR WELDING; CUTTING BY APPLYING HEAT LOCALLY, e.g. FLAME CUTTING; WORKING BY LASER BEAM; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This subclass <u>covers</u> also electric circuits specially adapted for the purposes covered by the title of the subclass. </li><li>In this subclass, the following term is used with the meaning indicated: <ul><li>\"soldering\" means uniting metals using solder and applying heat without melting either of the parts to be united.   </li></ul></li><li>In groups <b>B23K1/00 to B23K31/00</b> , it is desirable to add the indexing codes of groups <b>B23K101/00</b> or <b>B23K103/00</b>.    </li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">SOLDERING </td><td><b><b>1/00</b>, <b>3/00</b></b></td></tr></tr><tr><td width=\"70%\">WELDING<tr><td width=\"70%\">Characterised by the means used to produce heat<tr><td width=\"70%\">by flame </td><td><b><b>5/00</b></b></td></tr></tr><tr><td width=\"70%\">by electricity </td><td><b><b>9/00</b>, <b>11/00</b>, <b>13/00</b></b></td></tr></tr><tr><td width=\"70%\">by means of plasma </td><td><b><b>10/00</b></b></td></tr></tr><tr><td width=\"70%\">by nuclear particles </td><td><b><b>15/00</b>, <b>17/00</b></b></td></tr></tr><tr><td width=\"70%\">by alumino-thermic means </td><td><b><b>23/00</b></b></td></tr></tr><tr><td width=\"70%\">by laser beam </td><td><b><b>26/00</b></b></td></tr></tr><tr><td width=\"70%\">otherwise </td><td><b><b>25/00</b>, <b>28/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">Characterised by the use of impact or pressure </td><td><b><b>20/00</b></b></td></tr></tr><tr><td width=\"70%\">Characterised by other features, processes not restricted to one particular group of this subclass </td><td><b><b>28/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">CUTTING BY APPLYING HEAT LOCALLY; SEVERING </td><td><b><b>7/00</b>, <b>9/00</b>, <b>15/00</b>, <b>26/00</b>, <b>28/00</b>; <b>11/00</b></b></td></tr></tr><tr><td width=\"70%\">SCARFING, DESURFACING </td><td><b><b>7/00</b></b></td></tr></tr><tr><td width=\"70%\">MATERIALS; AUXILIARY DEVICES </td><td><b><b>35/00</b>; <b>37/00</b></b></td></tr></tr><tr><td width=\"70%\">SPECIAL PROCESSES </td><td><b><b>31/00</b>, <b>33/00</b></b></td></tr></tr></table>",
+      "count": 3452,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B23": {
+      "code": "B23",
+      "level": 0,
+      "parent": "B",
+      "ja": "工作機械；他に分類されない金属加工<br><br><b><ul>注</ul></b><br>（１）このクラスは以下のものを包含する：<br>―金属材料の加工；［２０１５．０１］<br>―適用される方法が金属材料加工に用いられるものと類似し且つ他の分類箇所に包含されないものに限る非金属材料の加工；［２０１５．０１］<br>―サブクラスＢ２３Ｑに包含されるものであって工作機械の個々の種類に特有でない性質の要請または問題，例．加工物の供給，に関する特徴。もっともその特徴の実施形態は適用される機械の種類に応じて異ってもよい。たとえ，その特徴または特定の機能が，実際上ある特定の作業用に設計された工作機械にかなりな程度特有であり，またはその工作機械用にのみクレームされていても，その特徴は一般に前記サブクラスに分類され，例外的にのみ関係する工作機械のサブクラスに分類される。しかしながら，この一般的性質をもつ特徴のあるものは個々の金属加工作業に関するサブクラス，特にＢ２３Ｂに分類される。この場合，当該サブクラスはこれらの特徴に関しては主に関係する工作機械の種類に制限されない。<br>（２）このサブクラスにおいては，下記の用語または表現は以下の意味で用いる：<br>―“作業の種類”という用語およびそれに類する表現は中ぐり，穴あけ，フライス削りおよび研削のような金属加工作業に関する；<br>―“機械の種類”という用語は１つの特定の金属加工作業のために設計された機械を意味する（例．旋盤）；<br>―“機械の形式”という用語は加工の特定の方法または特定の工作物のために適用または構成される特定種類の機械，例．正面旋盤，心押台旋盤，タレット旋盤，を意味する；<br>―“種々の機械”は同種の金属加工を行う種々の形式の工作機械全部，たとえば立て中ぐり盤と横中ぐり盤とを含む。<br>（３）もし，細部，構成部分または付属品が工作機械に固有の本質的特徴をもたないならばさらに一般的なクラス，例．Ｆ１６，が優先する。",
+      "en": "MACHINE TOOLS; METAL-WORKING NOT OTHERWISE PROVIDED FOR; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This class <u>covers  </u>: <ul><li>working of metallic materials;</li><li>working of non-metallic materials, provided that the methods applied are similar to those used in metal-working and not provided for elsewhere;</li><li>features, specific to machine tools, which relate to a requirement or problem of a nature which is not peculiar to a particular kind of machine tool, e.g. feeding work, which are covered by subclass <b>B23Q</b>, although the realisation of these features may differ according to the kind of machine tool concerned. The said subclass covers such features, in general, even if the feature or a specific function, in any particular case, is to some extent peculiar to, or is claimed only for, machine tools designed for one particular operation; only in exceptional cases are such features classified in the subclass for the machine tool concerned. Certain features of this general nature are, however, referred to subclasses relating to particular metal-working operations, especially <b>B23B</b>, in which case the subclasses in question are not restricted, in respect of those features, to the kind of machine tool with which they are primarily concerned.</li></ul></li><li>In this class, the following terms or expressions are used with the meanings indicated: <ul><li>\"kind of operations\" and similar expressions relate to such metal-working operations as boring, drilling, milling and grinding;</li><li>\"kind of machine\" means a machine designed for a particular kind of metal-working operation (e.g. a lathe);</li><li>\"form of machine\" means a machine of a particular kind adapted or arranged for a particular way of working or for particular work, e.g. face-plate lathe, tailstock lathe, turret lathe;</li><li>\"different machines\" covers different forms of machines for performing the same type of metal-working operation, e.g. vertical and horizontal boring machines.</li></ul></li><li>If details, components, or accessories have no essential feature specific to machine tools, the more general class, e.g. <b>F16</b>, takes precedence.</li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B": {
+      "code": "B",
+      "level": 0,
+      "parent": null,
+      "ja": "処理操作；運輸",
+      "en": "PERFORMING OPERATIONS; TRANSPORTING",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B23K1/00": {
+      "code": "B23K1/00",
+      "level": 0,
+      "parent": "B23K",
+      "ja": "ハンダ付，例．ロー付，またはハンダ離脱（Ｂ２３Ｋ３／００が優先）［２００６．０１］",
+      "en": "Soldering, e.g. brazing, or unsoldering(<b>B23K3/00</b> takes precedence)",
+      "count": 21960,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K1/002": {
+      "code": "B23K1/002",
+      "level": 1,
+      "parent": "B23K1/00",
+      "ja": "誘導加熱によるハンダ付［５］",
+      "en": "Soldering by means of induction heating",
+      "count": 1729,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K1/005": {
+      "code": "B23K1/005",
+      "level": 1,
+      "parent": "B23K1/00",
+      "ja": "放射エネルギによるハンダ付［５］",
+      "en": "Soldering by means of radiant energy",
+      "count": 3879,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K1/008": {
+      "code": "B23K1/008",
+      "level": 1,
+      "parent": "B23K1/00",
+      "ja": "炉内のハンダ付（Ｂ２３Ｋ１／０１２が優先）［５］",
+      "en": "Soldering within a furnace(<b>B23K1/012</b> takes precedence)",
+      "count": 6485,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K1/012": {
+      "code": "B23K1/012",
+      "level": 1,
+      "parent": "B23K1/00",
+      "ja": "高温ガスの使用によるハンダ付［５］",
+      "en": "Soldering with the use of hot gas",
+      "count": 1252,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K1/015": {
+      "code": "B23K1/015",
+      "level": 2,
+      "parent": "B23K1/012",
+      "ja": "蒸気凝縮ハンダ付［５］",
+      "en": "Vapour-condensation soldering",
+      "count": 576,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K1/018": {
+      "code": "B23K1/018",
+      "level": 1,
+      "parent": "B23K1/00",
+      "ja": "ハンダ離脱；溶けたハンダまたは他の残渣の除去［５］",
+      "en": "Unsoldering; Removal of melted solder or other residues",
+      "count": 2028,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K1/06": {
+      "code": "B23K1/06",
+      "level": 1,
+      "parent": "B23K1/00",
+      "ja": "振動を用いるもの，例．超音波振動",
+      "en": "making use of vibrations, e.g. supersonic vibrations",
+      "count": 1212,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K1/08": {
+      "code": "B23K1/08",
+      "level": 1,
+      "parent": "B23K1/00",
+      "ja": "溶融ハンダ中への浸漬によるハンダ付",
+      "en": "Soldering by means of dipping in molten solder",
+      "count": 6225,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K1/14": {
+      "code": "B23K1/14",
+      "level": 1,
+      "parent": "B23K1/00",
+      "ja": "継目のハンダ付に特に適したもの［２００６．０１］",
+      "en": "specially adapted for soldering seams",
+      "count": 1270,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K1/16": {
+      "code": "B23K1/16",
+      "level": 2,
+      "parent": "B23K1/14",
+      "ja": "長さの方向の継手，例．殻体のもの［５］",
+      "en": "longitudinal seams, e.g. of shells",
+      "count": 462,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K1/18": {
+      "code": "B23K1/18",
+      "level": 2,
+      "parent": "B23K1/14",
+      "ja": "円周方向の継手，例．殻体のもの［５］",
+      "en": "circumferential seams, e.g. of shells",
+      "count": 1259,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K1/19": {
+      "code": "B23K1/19",
+      "level": 1,
+      "parent": "B23K1/00",
+      "ja": "ハンダ付される材料の性質を考慮したもの［３］",
+      "en": "taking account of the properties of the materials to be soldered",
+      "count": 5683,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K1/20": {
+      "code": "B23K1/20",
+      "level": 1,
+      "parent": "B23K1/00",
+      "ja": "ハンダ付物品又はハンダ付部の予備処理，例．電解被覆に関するもの［２００６．０１］",
+      "en": "Preliminary treatment of work or areas to be soldered, e.g. in respect of a galvanic coating",
+      "count": 7899,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K3/00": {
+      "code": "B23K3/00",
+      "level": 0,
+      "parent": "B23K",
+      "ja": "特殊な用途に適合したものではないハンダ付け，例．ロー付，またはハンダ離脱のための工具，装置または冶具［２００６．０１］",
+      "en": "Tools, devices or special appurtenances for soldering, e.g. brazing, or unsoldering, not specially adapted for particular methods",
+      "count": 17041,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K3/02": {
+      "code": "B23K3/02",
+      "level": 1,
+      "parent": "B23K3/00",
+      "ja": "ハンダコテ；コテ先",
+      "en": "Soldering irons; Bits",
+      "count": 5136,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K3/03": {
+      "code": "B23K3/03",
+      "level": 2,
+      "parent": "B23K3/02",
+      "ja": "電気的に加熱されるもの［５］",
+      "en": "electrically heated",
+      "count": 4739,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K3/04": {
+      "code": "B23K3/04",
+      "level": 1,
+      "parent": "B23K3/00",
+      "ja": "加熱装置［２００６．０１］",
+      "en": "Heating appliances",
+      "count": 4833,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K3/047": {
+      "code": "B23K3/047",
+      "level": 2,
+      "parent": "B23K3/04",
+      "ja": "電気的なもの［５］",
+      "en": "electric",
+      "count": 1616,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K3/053": {
+      "code": "B23K3/053",
+      "level": 3,
+      "parent": "B23K3/047",
+      "ja": "抵抗線を用いるもの［５］",
+      "en": "using resistance wires",
+      "count": 305,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K3/06": {
+      "code": "B23K3/06",
+      "level": 1,
+      "parent": "B23K3/00",
+      "ja": "ハンダ送給装置；ハンダ溶解鍋",
+      "en": "Solder feeding devices; Solder melting pans",
+      "count": 13549,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K3/08": {
+      "code": "B23K3/08",
+      "level": 1,
+      "parent": "B23K3/00",
+      "ja": "そのための補助装置［２００６．０１］",
+      "en": "Auxiliary devices therefor",
+      "count": 31872,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K5/00": {
+      "code": "B23K5/00",
+      "level": 0,
+      "parent": "B23K",
+      "ja": "ガス溶接",
+      "en": "Gas flame welding",
+      "count": 2365,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K5/02": {
+      "code": "B23K5/02",
+      "level": 1,
+      "parent": "B23K5/00",
+      "ja": "シーム溶接［２００６．０１］",
+      "en": "Seam welding",
+      "count": 171,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K5/04": {
+      "code": "B23K5/04",
+      "level": 2,
+      "parent": "B23K5/02",
+      "ja": "溶接すべき材料の継ぎ目端部に沿うならいストリップまたは類似物を用いるもの",
+      "en": "using additional profiled strips or like of welding metal along seam edges",
+      "count": 20,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K5/06": {
+      "code": "B23K5/06",
+      "level": 2,
+      "parent": "B23K5/02",
+      "ja": "長さ方向の継目の溶接",
+      "en": "Welding longitudinal seams",
+      "count": 198,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K5/08": {
+      "code": "B23K5/08",
+      "level": 2,
+      "parent": "B23K5/02",
+      "ja": "円周方向の継目の溶接",
+      "en": "Welding circumferential seams",
+      "count": 221,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K5/10": {
+      "code": "B23K5/10",
+      "level": 1,
+      "parent": "B23K5/00",
+      "ja": "異種金属の被覆層を有する加工物，例．メッキされた加工物，の溶接",
+      "en": "Welding workpieces essentially comprising layers of different metals, e.g. plated workpieces",
+      "count": 28,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K5/12": {
+      "code": "B23K5/12",
+      "level": 1,
+      "parent": "B23K5/00",
+      "ja": "溶接される材料の特性を考慮したもの",
+      "en": "taking account of the properties of the material to be welded",
+      "count": 162,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K5/14": {
+      "code": "B23K5/14",
+      "level": 2,
+      "parent": "B23K5/12",
+      "ja": "非鉄金属に関するもの（Ｂ２３Ｋ５／１６が優先）",
+      "en": "of non-ferrous metals(<b>B23K5/16</b> takes precedence)",
+      "count": 49,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K5/16": {
+      "code": "B23K5/16",
+      "level": 2,
+      "parent": "B23K5/12",
+      "ja": "異種金属に関するもの",
+      "en": "of different metals",
+      "count": 62,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K5/18": {
+      "code": "B23K5/18",
+      "level": 1,
+      "parent": "B23K5/00",
+      "ja": "加工物接合以外の目的の溶接，例．肉盛溶接",
+      "en": "for purposes other than joining parts, e.g. built-up welding",
+      "count": 485,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K5/20": {
+      "code": "B23K5/20",
+      "level": 1,
+      "parent": "B23K5/00",
+      "ja": "振動を用いるもの，例．超音波振動",
+      "en": "making use of vibrations, e.g. supersonic vibrations",
+      "count": 74,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K5/213": {
+      "code": "B23K5/213",
+      "level": 1,
+      "parent": "B23K5/00",
+      "ja": "予備処理［３］",
+      "en": "Preliminary treatment",
+      "count": 166,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K5/22": {
+      "code": "B23K5/22",
+      "level": 1,
+      "parent": "B23K5/00",
+      "ja": "補助装置，例．バッキング，ガイド",
+      "en": "Auxiliary equipment, e.g. backings, guides",
+      "count": 2178,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K5/24": {
+      "code": "B23K5/24",
+      "level": 2,
+      "parent": "B23K5/22",
+      "ja": "トーチ保持具の構成［２００６．０１］",
+      "en": "Arrangements for supporting torches",
+      "count": 682,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K7/00": {
+      "code": "B23K7/00",
+      "level": 0,
+      "parent": "B23K",
+      "ja": "火炎による切断，スカーフィング，デサーフェーシング",
+      "en": "Cutting, scarfing, or desurfacing by applying flames",
+      "count": 11463,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K7/06": {
+      "code": "B23K7/06",
+      "level": 1,
+      "parent": "B23K7/00",
+      "ja": "スカーフィング，デザーフェーシング用機械，装置，器具",
+      "en": "Machines, apparatus, or equipment specially designed for scarfing or desurfacing",
+      "count": 1580,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K7/08": {
+      "code": "B23K7/08",
+      "level": 1,
+      "parent": "B23K7/00",
+      "ja": "切断，スカーフィング，デサーフェーシングを援助するための付加的な化合物または手段を利用するもの",
+      "en": "by applying additional compounds or means favouring the cutting, scarfing, or desurfacing procedure",
+      "count": 860,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K7/10": {
+      "code": "B23K7/10",
+      "level": 1,
+      "parent": "B23K7/00",
+      "ja": "補助装置，例．トーチの案内，保持［２００６．０１］",
+      "en": "Auxiliary devices, e.g. for guiding or supporting the torch",
+      "count": 12036,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K9/00": {
+      "code": "B23K9/00",
+      "level": 0,
+      "parent": "B23K",
+      "ja": "アーク溶接または切断［２００６．０１］",
+      "en": "Arc welding or cutting",
+      "count": 20815,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K9/007": {
+      "code": "B23K9/007",
+      "level": 1,
+      "parent": "B23K9/00",
+      "ja": "スポットアーク溶接［５］",
+      "en": "Spot arc welding",
+      "count": 1129,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K9/013": {
+      "code": "B23K9/013",
+      "level": 1,
+      "parent": "B23K9/00",
+      "ja": "アーク切断，ガウジング，スカーフィングまたはデサーフェーシング［５］",
+      "en": "Arc cutting, gouging, scarfing or desurfacing",
+      "count": 1499,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K9/02": {
+      "code": "B23K9/02",
+      "level": 1,
+      "parent": "B23K9/00",
+      "ja": "シーム溶接；裏当て手段；インサート",
+      "en": "Seam welding; Backing means; Inserts",
+      "count": 7223,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K9/022": {
+      "code": "B23K9/022",
+      "level": 2,
+      "parent": "B23K9/02",
+      "ja": "電極の振動を用いる溶接［５］",
+      "en": "Welding by making use of electrode vibrations",
+      "count": 787,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K9/025": {
+      "code": "B23K9/025",
+      "level": 2,
+      "parent": "B23K9/02",
+      "ja": "直線状シームのためのもの［５］",
+      "en": "for rectilinear seams",
+      "count": 2866,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K9/028": {
+      "code": "B23K9/028",
+      "level": 2,
+      "parent": "B23K9/02",
+      "ja": "同一平面上の曲線状シームのためのもの［５］",
+      "en": "for curved planar seams",
+      "count": 5876,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K9/032": {
+      "code": "B23K9/032",
+      "level": 2,
+      "parent": "B23K9/02",
+      "ja": "三次元状シームのためのもの［２００６．０１］",
+      "en": "for three-dimensional [3D] seams",
+      "count": 1036,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K9/035": {
+      "code": "B23K9/035",
+      "level": 2,
+      "parent": "B23K9/02",
+      "ja": "シームの下に配置された裏当て手段を使用するもの［５］",
+      "en": "with backing means disposed under the seam",
+      "count": 1801,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K9/038": {
+      "code": "B23K9/038",
+      "level": 2,
+      "parent": "B23K9/02",
+      "ja": "モールド手段を用いるもの［２００６．０１］",
+      "en": "using moulding means",
+      "count": 522,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K9/04": {
+      "code": "B23K9/04",
+      "level": 1,
+      "parent": "B23K9/00",
+      "ja": "結合以外の目的で用いられる溶接，例．肉盛溶接",
+      "en": "Welding for other purposes than joining, e.g. built-up welding",
+      "count": 9179,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K9/06": {
+      "code": "B23K9/06",
+      "level": 1,
+      "parent": "B23K9/00",
+      "ja": "アークスタートのための，例．点弧電圧の発生による，またはアーク安定のための装置または回路［２００６．０１］",
+      "en": "Arrangements or circuits for starting the arc, e.g. by generating ignition voltage, or for stabilising the arc",
+      "count": 3097,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K9/067": {
+      "code": "B23K9/067",
+      "level": 2,
+      "parent": "B23K9/06",
+      "ja": "アークスタートのためのもの［５］",
+      "en": "Starting the arc",
+      "count": 2149,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K9/073": {
+      "code": "B23K9/073",
+      "level": 2,
+      "parent": "B23K9/06",
+      "ja": "アーク安定のためのもの［５］",
+      "en": "Stabilising the arc",
+      "count": 4484,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K9/08": {
+      "code": "B23K9/08",
+      "level": 1,
+      "parent": "B23K9/00",
+      "ja": "アークの磁性制御のための装置または電気回路",
+      "en": "Arrangements or circuits for magnetic control of the arc",
+      "count": 1593,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K9/09": {
+      "code": "B23K9/09",
+      "level": 1,
+      "parent": "B23K9/00",
+      "ja": "パルス電流または電圧によるアーク溶接のための装置または回路［３］",
+      "en": "Arrangements or circuits for arc welding with pulsed current or voltage",
+      "count": 3276,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K9/095": {
+      "code": "B23K9/095",
+      "level": 1,
+      "parent": "B23K9/00",
+      "ja": "溶接条件の監視または自動制御［５］",
+      "en": "Monitoring or automatic control of welding parameters",
+      "count": 9365,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K9/10": {
+      "code": "B23K9/10",
+      "level": 1,
+      "parent": "B23K9/00",
+      "ja": "他の電気回路；電撃防止回路；遠隔制御",
+      "en": "Other electric circuits therefor; Protective circuits; Remote controls",
+      "count": 11886,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K9/12": {
+      "code": "B23K9/12",
+      "level": 1,
+      "parent": "B23K9/00",
+      "ja": "スポット溶接，シーム溶接または切断のための電極または加工物の自動的な送給または移動",
+      "en": "Automatic feeding or moving of electrodes or work for spot or seam welding or cutting",
+      "count": 17204,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K9/127": {
+      "code": "B23K9/127",
+      "level": 2,
+      "parent": "B23K9/12",
+      "ja": "アーク溶接または切断中，加工線を追跡するための手段［２００６．０１］",
+      "en": "Means for tracking lines during arc welding or cutting",
+      "count": 7568,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K9/133": {
+      "code": "B23K9/133",
+      "level": 2,
+      "parent": "B23K9/12",
+      "ja": "電極送給手段，例．ドラム，ロール，モーター［５］",
+      "en": "Means for feeding electrodes, e.g. drums, rolls, motors",
+      "count": 7481,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K9/14": {
+      "code": "B23K9/14",
+      "level": 1,
+      "parent": "B23K9/00",
+      "ja": "被覆溶接棒を用いるもの",
+      "en": "making use of insulated electrodes",
+      "count": 1086,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K9/16": {
+      "code": "B23K9/16",
+      "level": 1,
+      "parent": "B23K9/00",
+      "ja": "シールドガスを用いるもの",
+      "en": "making use of shielding gas",
+      "count": 17134,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K9/167": {
+      "code": "B23K9/167",
+      "level": 2,
+      "parent": "B23K9/16",
+      "ja": "非消耗電極を用いるもの［５］",
+      "en": "and of a non-consumable electrode",
+      "count": 6794,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K9/173": {
+      "code": "B23K9/173",
+      "level": 2,
+      "parent": "B23K9/16",
+      "ja": "消耗電極を用いるもの［５］",
+      "en": "and of consumable electrode",
+      "count": 6611,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K9/18": {
+      "code": "B23K9/18",
+      "level": 1,
+      "parent": "B23K9/00",
+      "ja": "サブマージアーク溶接",
+      "en": "Submerged-arc welding",
+      "count": 8079,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K9/20": {
+      "code": "B23K9/20",
+      "level": 1,
+      "parent": "B23K9/00",
+      "ja": "スタッド溶接",
+      "en": "Stud welding",
+      "count": 4122,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K9/22": {
+      "code": "B23K9/22",
+      "level": 1,
+      "parent": "B23K9/00",
+      "ja": "パーカッション溶接",
+      "en": "Percussion welding",
+      "count": 200,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K9/23": {
+      "code": "B23K9/23",
+      "level": 1,
+      "parent": "B23K9/00",
+      "ja": "溶接される材料の性質を考慮したもの［３］",
+      "en": "taking account of the properties of the materials to be welded",
+      "count": 5189,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K9/235": {
+      "code": "B23K9/235",
+      "level": 1,
+      "parent": "B23K9/00",
+      "ja": "予備処理［３］",
+      "en": "Preliminary treatment",
+      "count": 5827,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K9/24": {
+      "code": "B23K9/24",
+      "level": 1,
+      "parent": "B23K9/00",
+      "ja": "電極に関連した特徴を有するもの［２００６．０１］",
+      "en": "Features related to electrodes",
+      "count": 924,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K9/26": {
+      "code": "B23K9/26",
+      "level": 2,
+      "parent": "B23K9/24",
+      "ja": "電極の付属具，例．点弧チップ",
+      "en": "Accessories for electrodes, e.g. ignition tips",
+      "count": 3612,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K9/28": {
+      "code": "B23K9/28",
+      "level": 2,
+      "parent": "B23K9/24",
+      "ja": "電極の保持装置［２００６．０１］",
+      "en": "Supporting devices for electrodes",
+      "count": 11099,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K9/29": {
+      "code": "B23K9/29",
+      "level": 3,
+      "parent": "B23K9/28",
+      "ja": "シールド手段の使用に適応させた保持装置［５］",
+      "en": "Supporting devices adapted for making use of shielding means",
+      "count": 4697,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K9/30": {
+      "code": "B23K9/30",
+      "level": 3,
+      "parent": "B23K9/28",
+      "ja": "電極の振動ホルダ（Ｂ２３Ｋ９／０２２が優先）［５］",
+      "en": "Vibrating holders for electrodes(<b>B23K9/022</b> takes precedence)",
+      "count": 953,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K9/32": {
+      "code": "B23K9/32",
+      "level": 1,
+      "parent": "B23K9/00",
+      "ja": "付属具［２００６．０１］",
+      "en": "Accessories",
+      "count": 31429,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K10/00": {
+      "code": "B23K10/00",
+      "level": 0,
+      "parent": "B23K",
+      "ja": "プラズマによる溶接または切断［５］",
+      "en": "Welding or cutting by means of a plasma",
+      "count": 11505,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K10/02": {
+      "code": "B23K10/02",
+      "level": 1,
+      "parent": "B23K10/00",
+      "ja": "プラズマ溶接［５］",
+      "en": "Plasma welding",
+      "count": 3981,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K11/00": {
+      "code": "B23K11/00",
+      "level": 0,
+      "parent": "B23K",
+      "ja": "抵抗溶接；抵抗加熱による切り離し",
+      "en": "Resistance welding; Severing by resistance heating",
+      "count": 10520,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K11/02": {
+      "code": "B23K11/02",
+      "level": 1,
+      "parent": "B23K11/00",
+      "ja": "加圧バツト溶接",
+      "en": "Pressure butt welding",
+      "count": 2229,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K11/04": {
+      "code": "B23K11/04",
+      "level": 1,
+      "parent": "B23K11/00",
+      "ja": "フラッシュバツト溶接",
+      "en": "Flash butt welding",
+      "count": 3327,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K11/06": {
+      "code": "B23K11/06",
+      "level": 1,
+      "parent": "B23K11/00",
+      "ja": "ローラ型電極を用いるもの",
+      "en": "using roller electrodes",
+      "count": 4105,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K11/08": {
+      "code": "B23K11/08",
+      "level": 1,
+      "parent": "B23K11/00",
+      "ja": "先行するサブグループの１つに限定されないシーム溶接",
+      "en": "Seam welding not restricted to one of the preceding subgroups",
+      "count": 1138,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K11/087": {
+      "code": "B23K11/087",
+      "level": 2,
+      "parent": "B23K11/08",
+      "ja": "直線状シームのためのもの［５］",
+      "en": "for rectilinear seams",
+      "count": 498,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K11/093": {
+      "code": "B23K11/093",
+      "level": 2,
+      "parent": "B23K11/08",
+      "ja": "同一平面上の曲線状シームのためのもの［５］",
+      "en": "for curved planar seams",
+      "count": 398,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K11/10": {
+      "code": "B23K11/10",
+      "level": 1,
+      "parent": "B23K11/00",
+      "ja": "スポット溶接；スティッチ溶接",
+      "en": "Spot welding; Stitch welding",
+      "count": 4493,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K11/11": {
+      "code": "B23K11/11",
+      "level": 2,
+      "parent": "B23K11/10",
+      "ja": "スポット溶接［５］",
+      "en": "Spot welding",
+      "count": 15364,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K11/12": {
+      "code": "B23K11/12",
+      "level": 2,
+      "parent": "B23K11/10",
+      "ja": "振動を用いるもの",
+      "en": "making use of vibrations",
+      "count": 130,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K11/14": {
+      "code": "B23K11/14",
+      "level": 1,
+      "parent": "B23K11/00",
+      "ja": "プロジェクション溶接",
+      "en": "Projection welding",
+      "count": 4194,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K11/16": {
+      "code": "B23K11/16",
+      "level": 1,
+      "parent": "B23K11/00",
+      "ja": "溶接される材料の性質を考慮したもの",
+      "en": "taking account of the properties of the material to be welded",
+      "count": 2040,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K11/18": {
+      "code": "B23K11/18",
+      "level": 2,
+      "parent": "B23K11/16",
+      "ja": "非鉄金属に関するもの（Ｂ２３Ｋ１１／２０が優先）",
+      "en": "of non-ferrous metals(<b>B23K11/20</b> takes precedence)",
+      "count": 633,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K11/20": {
+      "code": "B23K11/20",
+      "level": 2,
+      "parent": "B23K11/16",
+      "ja": "異種金属に関するもの",
+      "en": "of different metals",
+      "count": 1071,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K11/22": {
+      "code": "B23K11/22",
+      "level": 1,
+      "parent": "B23K11/00",
+      "ja": "抵抗加熱による切り離し",
+      "en": "Severing by resistance heating",
+      "count": 255,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K11/24": {
+      "code": "B23K11/24",
+      "level": 1,
+      "parent": "B23K11/00",
+      "ja": "そのための電源または制御回路",
+      "en": "Electric supply or control circuits therefor",
+      "count": 8868,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K11/25": {
+      "code": "B23K11/25",
+      "level": 2,
+      "parent": "B23K11/24",
+      "ja": "監視装置［５］",
+      "en": "Monitoring devices",
+      "count": 2781,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K11/26": {
+      "code": "B23K11/26",
+      "level": 2,
+      "parent": "B23K11/24",
+      "ja": "充電放電溶接",
+      "en": "Storage discharge welding",
+      "count": 1162,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K11/28": {
+      "code": "B23K11/28",
+      "level": 1,
+      "parent": "B23K11/00",
+      "ja": "携帯可能な溶接装置",
+      "en": "Portable welding equipment",
+      "count": 747,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K11/30": {
+      "code": "B23K11/30",
+      "level": 1,
+      "parent": "B23K11/00",
+      "ja": "電極に関して特徴のあるもの［２００６．０１］",
+      "en": "Features relating to electrodes",
+      "count": 7805,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K11/31": {
+      "code": "B23K11/31",
+      "level": 2,
+      "parent": "B23K11/30",
+      "ja": "電極ホルダ［２００６．０１］",
+      "en": "Electrode holders",
+      "count": 5965,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K11/34": {
+      "code": "B23K11/34",
+      "level": 1,
+      "parent": "B23K11/00",
+      "ja": "予備処理［３］",
+      "en": "Preliminary treatment",
+      "count": 1074,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K11/36": {
+      "code": "B23K11/36",
+      "level": 1,
+      "parent": "B23K11/00",
+      "ja": "補助装置（Ｂ２３Ｋ１１／３１が優先）［３，５］",
+      "en": "Auxiliary equipment(<b>B23K11/31</b> takes precedence)",
+      "count": 14327,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K13/00": {
+      "code": "B23K13/00",
+      "level": 0,
+      "parent": "B23K",
+      "ja": "高周波電流加熱による溶接［５］",
+      "en": "Welding by high-frequency current heating",
+      "count": 2913,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K13/01": {
+      "code": "B23K13/01",
+      "level": 1,
+      "parent": "B23K13/00",
+      "ja": "誘導加熱によるもの［５］",
+      "en": "by induction heating",
+      "count": 1724,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K13/02": {
+      "code": "B23K13/02",
+      "level": 2,
+      "parent": "B23K13/01",
+      "ja": "シーム溶接",
+      "en": "Seam welding",
+      "count": 1478,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K13/04": {
+      "code": "B23K13/04",
+      "level": 1,
+      "parent": "B23K13/00",
+      "ja": "伝導加熱によるもの［５］",
+      "en": "by conduction heating",
+      "count": 520,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K13/06": {
+      "code": "B23K13/06",
+      "level": 1,
+      "parent": "B23K13/00",
+      "ja": "雰囲気の影響に対する溶接区域のシールドを特徴とするもの［２００６．０１］",
+      "en": "characterised by the shielding of the welding zone against influence of the surrounding atmosphere",
+      "count": 315,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K13/08": {
+      "code": "B23K13/08",
+      "level": 1,
+      "parent": "B23K13/00",
+      "ja": "給電またはそのための制御回路［５］",
+      "en": "Electric supply or control circuits therefor",
+      "count": 916,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K15/00": {
+      "code": "B23K15/00",
+      "level": 0,
+      "parent": "B23K",
+      "ja": "電子ビーム溶接または切断［２００６．０１］",
+      "en": "Electron-beam welding or cutting",
+      "count": 7993,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K15/02": {
+      "code": "B23K15/02",
+      "level": 1,
+      "parent": "B23K15/00",
+      "ja": "そのための制御回路［５］",
+      "en": "Control circuits therefor",
+      "count": 708,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K15/04": {
+      "code": "B23K15/04",
+      "level": 1,
+      "parent": "B23K15/00",
+      "ja": "環状継目の溶接のためのもの［５］",
+      "en": "for welding annular seams",
+      "count": 385,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K15/06": {
+      "code": "B23K15/06",
+      "level": 1,
+      "parent": "B23K15/00",
+      "ja": "真空室（Ｂ２３Ｋ１５／０４が優先）［５］",
+      "en": "within a vacuum chamber(<b>B23K15/04</b> takes precedence)",
+      "count": 1498,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K15/08": {
+      "code": "B23K15/08",
+      "level": 1,
+      "parent": "B23K15/00",
+      "ja": "材料の除去，例．切断によるもの，穴あけによるもの［５］",
+      "en": "Removing material, e.g. by cutting, by hole drilling",
+      "count": 473,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K15/10": {
+      "code": "B23K15/10",
+      "level": 1,
+      "parent": "B23K15/00",
+      "ja": "非真空電子ビーム溶接または切断［５］",
+      "en": "Non-vacuum electron beam-welding or cutting",
+      "count": 211,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K17/00": {
+      "code": "B23K17/00",
+      "level": 0,
+      "parent": "B23K",
+      "ja": "溶接または関連する技術において核微粒子のエネルギを用いるもの",
+      "en": "Use of the energy of nuclear particles in welding or related techniques",
+      "count": 117,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K20/00": {
+      "code": "B23K20/00",
+      "level": 0,
+      "parent": "B23K",
+      "ja": "加熱するかまたは加熱することなく，衝撃または他の圧力を加えることによる非電気的接合，例．クラッド法または被せ金法［３］",
+      "en": "Non-electric welding by applying impact or other pressure, with or without the application of heat, e.g. cladding or plating",
+      "count": 12239,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K20/02": {
+      "code": "B23K20/02",
+      "level": 1,
+      "parent": "B23K20/00",
+      "ja": "プレスの手段によるもの［３］",
+      "en": "by means of a press",
+      "count": 4257,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K20/04": {
+      "code": "B23K20/04",
+      "level": 1,
+      "parent": "B23K20/00",
+      "ja": "圧延機の手段によるもの［３］",
+      "en": "by means of a rolling mill",
+      "count": 3336,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K20/06": {
+      "code": "B23K20/06",
+      "level": 1,
+      "parent": "B23K20/00",
+      "ja": "高エネルギ衝撃，例．磁気エネルギー，の手段によるもの［３］",
+      "en": "by means of high energy impulses, e.g. magnetic energy",
+      "count": 754,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K20/08": {
+      "code": "B23K20/08",
+      "level": 2,
+      "parent": "B23K20/06",
+      "ja": "爆発接合［３］",
+      "en": "Explosive welding",
+      "count": 2469,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K20/10": {
+      "code": "B23K20/10",
+      "level": 1,
+      "parent": "B23K20/00",
+      "ja": "振動を利用するもの，例．超音波接合［３］",
+      "en": "making use of vibrations, e.g. ultrasonic welding",
+      "count": 10275,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K20/12": {
+      "code": "B23K20/12",
+      "level": 1,
+      "parent": "B23K20/00",
+      "ja": "熱が摩擦により発生されるもの；摩擦接合［３］",
+      "en": "the heat being generated by friction; Friction welding",
+      "count": 16469,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K20/14": {
+      "code": "B23K20/14",
+      "level": 1,
+      "parent": "B23K20/00",
+      "ja": "接合中気体の接近を防止または最少限にするもの，あるいは保護気体または真空を利用するもの（工作片間にそう入した材料により形成されたものＢ２３Ｋ２０／１８）［３］",
+      "en": "Preventing or minimising gas access, or using protective gases or vacuum during welding(formed by material interposed between workpieces <b>B23K20/18</b>)",
+      "count": 1639,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K20/16": {
+      "code": "B23K20/16",
+      "level": 1,
+      "parent": "B23K20/00",
+      "ja": "部品の接続を促進するために特別の材料を挿入するもの，例．ガス吸収または発生剤［３］",
+      "en": "with interposition of special material to facilitate connection of the parts, e.g. material for absorbing or producing gas",
+      "count": 1266,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K20/18": {
+      "code": "B23K20/18",
+      "level": 1,
+      "parent": "B23K20/00",
+      "ja": "接合すべきでない区域間に接合防止物質をそう入することによる部分接合［３］",
+      "en": "Zonal welding by interposing weld-preventing substances between zones not to be welded",
+      "count": 297,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K20/20": {
+      "code": "B23K20/20",
+      "level": 1,
+      "parent": "B23K20/00",
+      "ja": "後で分離し得るようにした特別の方法，例．廃物材から高品位の金属の分離を可能とする方法［３］",
+      "en": "Special methods allowing subsequent separation, e.g. of metals of high quality from scrap material",
+      "count": 36,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K20/22": {
+      "code": "B23K20/22",
+      "level": 1,
+      "parent": "B23K20/00",
+      "ja": "溶接される材料の性質を考慮したもの［３］",
+      "en": "taking account of the properties of the materials to be welded",
+      "count": 939,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K20/227": {
+      "code": "B23K20/227",
+      "level": 2,
+      "parent": "B23K20/22",
+      "ja": "鉄の層を有するもの［５］",
+      "en": "with ferrous layer",
+      "count": 1051,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K20/233": {
+      "code": "B23K20/233",
+      "level": 2,
+      "parent": "B23K20/22",
+      "ja": "鉄の層を有しないもの［５］",
+      "en": "without ferrous layer",
+      "count": 1186,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K20/24": {
+      "code": "B23K20/24",
+      "level": 1,
+      "parent": "B23K20/00",
+      "ja": "予備処理［３］",
+      "en": "Preliminary treatment",
+      "count": 2760,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K20/26": {
+      "code": "B23K20/26",
+      "level": 1,
+      "parent": "B23K20/00",
+      "ja": "補助装置［３］",
+      "en": "Auxiliary equipment",
+      "count": 11444,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K23/00": {
+      "code": "B23K23/00",
+      "level": 0,
+      "parent": "B23K",
+      "ja": "テルミット溶接",
+      "en": "Alumino-thermic welding",
+      "count": 1627,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K25/00": {
+      "code": "B23K25/00",
+      "level": 0,
+      "parent": "B23K",
+      "ja": "スラグ溶接，すなわち接合される材料に接する粉末，スラグまたは類似物の加熱された層または量体を用いるもの［２００６．０１］",
+      "en": "Slag welding, i.e. using a heated layer or mass of powder, slag or the like in contact with the material to be joined",
+      "count": 2238,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K26/00": {
+      "code": "B23K26/00",
+      "level": 0,
+      "parent": "B23K",
+      "ja": "レーザービームによる加工，例．溶接，切断または穴あけ［２，３，２０１４．０１］<br><br><b><ul>注</ul></b><br>１．このメイングループは以下のものを包含する：<br>―材料を除去するかまたは除去しないで，弱化された層を形成するためのレーザー加工；［２０１４．０１］<br>―レーザー照射の結果生じる衝撃力による加工；［２０１４．０１］<br>―レーザーによる表面処理のための装置；［２０１４．０１］<br>―レーザーアブレーション。［２０１４．０１］<br>２．このメイングループは以下のものを包含しない：<br>―レーザーを用いる蒸着Ｃ２３Ｃ；［２０１４．０１］<br>―金属粉末のためのレーザー焼結Ｂ２２Ｆ３／１０５，プラスチックのためのレーザー焼結Ｂ２９Ｃ６７／０４，ガラスのためのレーザー焼結Ｃ０３Ｂ１９／０６，セラミックのためのレーザー焼結Ｃ０４Ｂ３５／６４；［２０１４．０１］<br>―レーザーを用いる化学的エッチングＣ２３Ｆ１／００［２０１４．０１］",
+      "en": "Working by laser beam, e.g. welding, cutting or boring; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This main group <u>covers </u>: <ul><li>laser working for making a weakened layer, with or without removing material; </li><li>laser shock processing; </li><li>apparatus for laser surface treatment; </li><li>laser ablation. </li></ul></li><li>This main group <u>does not cover </u>: <ul><li>laser assisted deposition which is covered by subclass <b>C23C</b>; </li><li>laser sintering which is covered by group <b>B22F3/105</b> for metallic powder, by group <b>B29C67/04</b> for plastics, by group <b>C03B19/06</b> for glass or by group <b>C04B35/64</b> for ceramics; </li><li>laser assisted chemical etching which is covered by group <b>C23F1/00</b>. </li></ul></li></ul>",
+      "count": 28971,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K26/02": {
+      "code": "B23K26/02",
+      "level": 1,
+      "parent": "B23K26/00",
+      "ja": "加工物の位置決めまたは観察，例．照射点に関するもの；レーザービームの軸合せ，照準または焦点合せ［３，２０１４．０１］",
+      "en": "Positioning or observing the workpiece, e.g. with respect to the point of impact; Aligning, aiming or focusing the laser beam",
+      "count": 5875,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K26/03": {
+      "code": "B23K26/03",
+      "level": 2,
+      "parent": "B23K26/02",
+      "ja": "加工物の観察，例．加工物の監視［７］",
+      "en": "Observing, e.g. monitoring, the workpiece",
+      "count": 7460,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K26/035": {
+      "code": "B23K26/035",
+      "level": 2,
+      "parent": "B23K26/02",
+      "ja": "レーザービームの軸合せ（自動軸合せＢ２３Ｋ２６／０４２）［２０１４．０１］",
+      "en": "Aligning the laser beam(automatically <b>B23K26/042</b>)",
+      "count": 694,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K26/04": {
+      "code": "B23K26/04",
+      "level": 2,
+      "parent": "B23K26/02",
+      "ja": "レーザービームの自動軸合せ，自動照準，または自動焦点合せ，例．後散乱光を用いるもの［３，２０１４．０１］",
+      "en": "Automatically aligning, aiming or focusing the laser beam, e.g. using the back-scattered light",
+      "count": 4414,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K26/042": {
+      "code": "B23K26/042",
+      "level": 3,
+      "parent": "B23K26/04",
+      "ja": "レーザービームの自動軸合せ［２０１４．０１］",
+      "en": "Automatically aligning the laser beam",
+      "count": 1225,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K26/044": {
+      "code": "B23K26/044",
+      "level": 4,
+      "parent": "B23K26/042",
+      "ja": "追従［２０１４．０１］",
+      "en": "Seam tracking",
+      "count": 420,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K26/046": {
+      "code": "B23K26/046",
+      "level": 3,
+      "parent": "B23K26/04",
+      "ja": "レーザービームの自動焦点合せ［２０１４．０１］",
+      "en": "Automatically focusing the laser beam",
+      "count": 4449,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K26/06": {
+      "code": "B23K26/06",
+      "level": 2,
+      "parent": "B23K26/02",
+      "ja": "レーザービームの成形，例．マスクまたは多焦点合せによるもの［３，２０１４．０１］",
+      "en": "Shaping the laser beam, e.g. by masks or multi-focusing",
+      "count": 10780,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K26/062": {
+      "code": "B23K26/062",
+      "level": 3,
+      "parent": "B23K26/06",
+      "ja": "レーザービームを直接制御するもの［２０１４．０１］",
+      "en": "by direct control of the laser beam",
+      "count": 974,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K26/0622": {
+      "code": "B23K26/0622",
+      "level": 4,
+      "parent": "B23K26/062",
+      "ja": "パルス波形の形成によるもの［２０１４．０１］",
+      "en": "by shaping pulses",
+      "count": 3230,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K26/064": {
+      "code": "B23K26/064",
+      "level": 3,
+      "parent": "B23K26/06",
+      "ja": "光学素子によるもの，例．レンズ，鏡またはプリズム［２０１４．０１］",
+      "en": "by means of optical elements, e.g. lenses, mirrors or prisms",
+      "count": 12361,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K26/066": {
+      "code": "B23K26/066",
+      "level": 4,
+      "parent": "B23K26/064",
+      "ja": "マスクを使用するもの［２０１４．０１］",
+      "en": "by using masks",
+      "count": 1386,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K26/067": {
+      "code": "B23K26/067",
+      "level": 3,
+      "parent": "B23K26/06",
+      "ja": "ビームの分割，例．多焦点装置（マルチ・フォーカシング）［７］",
+      "en": "Dividing the beam into multiple beams, e.g. multi-focusing",
+      "count": 4348,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K26/073": {
+      "code": "B23K26/073",
+      "level": 3,
+      "parent": "B23K26/06",
+      "ja": "レーザースポットの成形［７］",
+      "en": "Shaping the laser spot",
+      "count": 4427,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K26/08": {
+      "code": "B23K26/08",
+      "level": 1,
+      "parent": "B23K26/00",
+      "ja": "レーザービームと加工物とが相対移動する装置［３，２０１４．０１］",
+      "en": "Devices involving relative movement between laser beam and workpiece",
+      "count": 29612,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K26/082": {
+      "code": "B23K26/082",
+      "level": 2,
+      "parent": "B23K26/08",
+      "ja": "スキャニング装置，すなわちレーザーヘッドに対してレーザービームが移動する装置［２０１４．０１］",
+      "en": "Scanning systems, i.e. devices involving movement of the laser beam relative to the laser head",
+      "count": 6122,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K26/10": {
+      "code": "B23K26/10",
+      "level": 2,
+      "parent": "B23K26/08",
+      "ja": "固定支持装置を用いるもの［３］",
+      "en": "using a fixed support",
+      "count": 4364,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K26/12": {
+      "code": "B23K26/12",
+      "level": 1,
+      "parent": "B23K26/00",
+      "ja": "特定の環境または雰囲気で行なうもの，例．容器内で行なうもの［３，２０１４．０１］",
+      "en": "in a special environment or atmosphere, e.g. in an enclosure",
+      "count": 4836,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K26/122": {
+      "code": "B23K26/122",
+      "level": 2,
+      "parent": "B23K26/12",
+      "ja": "液体中で行うもの，例．水中［２０１４．０１］",
+      "en": "in a liquid, e.g. underwater",
+      "count": 370,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K26/14": {
+      "code": "B23K26/14",
+      "level": 1,
+      "parent": "B23K26/00",
+      "ja": "レーザービームと流体の流れを併用するもの，例．ガスジェット流との併用；そのためのノズル（Ｂ２３Ｋ２６／１２が優先）［３，２０１４．０１］",
+      "en": "using a fluid stream, e.g. a jet of gas, in conjunction with the laser beam; Nozzles therefor(<b>B23K26/12</b> takes precedence)",
+      "count": 9008,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K26/142": {
+      "code": "B23K26/142",
+      "level": 2,
+      "parent": "B23K26/14",
+      "ja": "副次物の除去のためのもの［２０１４．０１］",
+      "en": "for the removal of by-products",
+      "count": 11199,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K26/144": {
+      "code": "B23K26/144",
+      "level": 2,
+      "parent": "B23K26/14",
+      "ja": "流体の流れが微粒子を含むもの，例．粉末を含むもの［２０１４．０１］",
+      "en": "the fluid stream containing particles, e.g. powder",
+      "count": 624,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K26/146": {
+      "code": "B23K26/146",
+      "level": 2,
+      "parent": "B23K26/14",
+      "ja": "流体の流れが液体を含むもの［２０１４．０１］",
+      "en": "the fluid stream containing a liquid",
+      "count": 1454,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K26/16": {
+      "code": "B23K26/16",
+      "level": 1,
+      "parent": "B23K26/00",
+      "ja": "副次物の除去，例．加工中に生ずる微粒子または蒸気の除去（流体の流れを用いるものＢ２３Ｋ２６／１４２）［３］",
+      "en": "Removal of by-products, e.g. particles or vapours produced during treatment of a workpiece(by a fluid stream <b>B23K26/142</b>)",
+      "count": 9077,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K26/18": {
+      "code": "B23K26/18",
+      "level": 1,
+      "parent": "B23K26/00",
+      "ja": "加工物に吸収層を設けるもの，例．対象物をマーキングまたは保護するためのもの［３］",
+      "en": "using absorbing layers on the workpiece, e.g. for marking or protecting purposes",
+      "count": 2494,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K26/20": {
+      "code": "B23K26/20",
+      "level": 1,
+      "parent": "B23K26/00",
+      "ja": "接合（放射エネルギーによるハンダ付Ｂ２３Ｋ１／００５）［２０１４．０１］",
+      "en": "Bonding (soldering by means of radiant energy <b>B23K1/005</b>)",
+      "count": 2852,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K26/21": {
+      "code": "B23K26/21",
+      "level": 2,
+      "parent": "B23K26/20",
+      "ja": "溶接［２０１４．０１］",
+      "en": "by welding",
+      "count": 29537,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K26/211": {
+      "code": "B23K26/211",
+      "level": 3,
+      "parent": "B23K26/21",
+      "ja": "部品の接続を促進するために特別の材料を挿入するもの［２０１４．０１］",
+      "en": "with interposition of special material to facilitate connection of the parts",
+      "count": 513,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K26/22": {
+      "code": "B23K26/22",
+      "level": 3,
+      "parent": "B23K26/21",
+      "ja": "スポット溶接［７］",
+      "en": "Spot welding",
+      "count": 1525,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K26/24": {
+      "code": "B23K26/24",
+      "level": 3,
+      "parent": "B23K26/21",
+      "ja": "シーム溶接［７，２０１４．０１］",
+      "en": "Seam welding",
+      "count": 3762,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K26/242": {
+      "code": "B23K26/242",
+      "level": 4,
+      "parent": "B23K26/24",
+      "ja": "隅肉溶接，すなわち２部品を接合している実質的に三角形断面の溶接部を形成する溶接［２０１４．０１］",
+      "en": "Fillet welding, i.e. involving a weld of substantially triangular cross section joining two parts",
+      "count": 332,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K26/244": {
+      "code": "B23K26/244",
+      "level": 4,
+      "parent": "B23K26/24",
+      "ja": "重ねシーム溶接［２０１４．０１］",
+      "en": "Overlap seam welding",
+      "count": 825,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K26/26": {
+      "code": "B23K26/26",
+      "level": 4,
+      "parent": "B23K26/24",
+      "ja": "直線状シーム溶接［７，２０１４．０１］",
+      "en": "of rectilinear seams",
+      "count": 1111,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K26/262": {
+      "code": "B23K26/262",
+      "level": 5,
+      "parent": "B23K26/26",
+      "ja": "管の長手方向の溶接［２０１４．０１］",
+      "en": "of longitudinal seams of tubes",
+      "count": 201,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K26/28": {
+      "code": "B23K26/28",
+      "level": 4,
+      "parent": "B23K26/24",
+      "ja": "軌跡が同一平面上に存在する曲線状シーム溶接［７，２０１４．０１］",
+      "en": "of curved planar seams",
+      "count": 1087,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K26/282": {
+      "code": "B23K26/282",
+      "level": 5,
+      "parent": "B23K26/28",
+      "ja": "管の周方向の溶接［２０１４．０１］",
+      "en": "of tube sections",
+      "count": 444,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K26/30": {
+      "code": "B23K26/30",
+      "level": 4,
+      "parent": "B23K26/24",
+      "ja": "３次元状のシーム溶接［２０１４．０１］",
+      "en": "of three-dimensional [3D] seams",
+      "count": 313,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K26/302": {
+      "code": "B23K26/302",
+      "level": 5,
+      "parent": "B23K26/30",
+      "ja": "螺旋状シーム溶接［２０１４．０１］",
+      "en": "of helicoidal seams",
+      "count": 47,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K26/32": {
+      "code": "B23K26/32",
+      "level": 2,
+      "parent": "B23K26/20",
+      "ja": "材料の性質を考慮したもの［７，２０１４．０１］",
+      "en": "taking account of the properties of the material involved",
+      "count": 3043,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K26/322": {
+      "code": "B23K26/322",
+      "level": 3,
+      "parent": "B23K26/32",
+      "ja": "被覆金属を含むもの（加工物に吸収層を設けるものＢ２３Ｋ２６／１８）［２０１４．０１］",
+      "en": "involving coated metal parts(using absorbing layers on the workpiece <b>B23K26/18</b>)",
+      "count": 434,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K26/323": {
+      "code": "B23K26/323",
+      "level": 3,
+      "parent": "B23K26/32",
+      "ja": "異種金属材料を含むもの［２０１４．０１］",
+      "en": "involving parts made of dissimilar metallic material",
+      "count": 537,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K26/324": {
+      "code": "B23K26/324",
+      "level": 3,
+      "parent": "B23K26/32",
+      "ja": "非金属材料を含むもの［２０１４．０１］",
+      "en": "involving non-metallic parts",
+      "count": 449,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K26/34": {
+      "code": "B23K26/34",
+      "level": 1,
+      "parent": "B23K26/00",
+      "ja": "接合以外を目的としたレーザー溶接［７，２０１４．０１］",
+      "en": "Laser welding for purposes other than joining",
+      "count": 3571,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K26/342": {
+      "code": "B23K26/342",
+      "level": 2,
+      "parent": "B23K26/34",
+      "ja": "肉盛溶接［２０１４．０１］",
+      "en": "Build-up welding",
+      "count": 3721,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K26/346": {
+      "code": "B23K26/346",
+      "level": 1,
+      "parent": "B23K26/00",
+      "ja": "グループＢ２３Ｋ５／００～Ｂ２３Ｋ２５／００に包含される溶接または切断との組み合わせ，例．抵抗溶接との組み合わせ［２０１４．０１］",
+      "en": "in combination with welding or cutting covered by groups <b>B23K5/00 to B23K25/00</b> , e.g. in combination with resistance welding",
+      "count": 961,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K26/348": {
+      "code": "B23K26/348",
+      "level": 2,
+      "parent": "B23K26/346",
+      "ja": "アーク加熱との組み合わせ，例．タングステン不活性ガス［ＴＩＧ］溶接，金属不活性ガス［ＭＩＧ］溶接またはプラズマ溶接との組み合わせ［２０１４．０１］",
+      "en": "in combination with arc heating, e.g. tungsten inert gas [TIG], metal inert gas [MIG] or plasma welding",
+      "count": 1690,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K26/351": {
+      "code": "B23K26/351",
+      "level": 1,
+      "parent": "B23K26/00",
+      "ja": "電気部品のトリミングまたは調整のためのもの［２０１４．０１］",
+      "en": "for trimming or tuning of electrical components",
+      "count": 955,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K26/352": {
+      "code": "B23K26/352",
+      "level": 1,
+      "parent": "B23K26/00",
+      "ja": "表面処理のためのもの［２０１４．０１］",
+      "en": "for surface treatment",
+      "count": 4888,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K26/354": {
+      "code": "B23K26/354",
+      "level": 2,
+      "parent": "B23K26/352",
+      "ja": "溶融によるもの［２０１４．０１］",
+      "en": "by melting",
+      "count": 1006,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K26/356": {
+      "code": "B23K26/356",
+      "level": 2,
+      "parent": "B23K26/352",
+      "ja": "レーザー照射の結果生じる衝撃力によるもの［２０１４．０１］",
+      "en": "by shock processing",
+      "count": 548,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K26/359": {
+      "code": "B23K26/359",
+      "level": 2,
+      "parent": "B23K26/352",
+      "ja": "線または線状パターンの付与，例．破断の起点となる破線の付与［２０１４．０１］",
+      "en": "by providing a line or line pattern, e.g. a dotted break initiation line",
+      "count": 628,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K26/36": {
+      "code": "B23K26/36",
+      "level": 1,
+      "parent": "B23K26/00",
+      "ja": "材料の除去（Ｂ２３Ｋ２６／５５，Ｂ２３Ｋ２６／５７が優先）［７，２０１４．０１］",
+      "en": "Removing material(<b>B23K26/55</b>, <b>B23K26/57</b> take precedence)",
+      "count": 7548,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K26/361": {
+      "code": "B23K26/361",
+      "level": 2,
+      "parent": "B23K26/36",
+      "ja": "ばり取りまたは機械的トリミングのためのもの（Ｂ２３Ｋ２６／３５１が優先）［２０１４．０１］",
+      "en": "for deburring or mechanical trimming(<b>B23K26/351</b> takes precedence)",
+      "count": 1328,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K26/362": {
+      "code": "B23K26/362",
+      "level": 2,
+      "parent": "B23K26/36",
+      "ja": "レーザーエッチング［２０１４．０１］",
+      "en": "Laser etching",
+      "count": 23644,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K26/364": {
+      "code": "B23K26/364",
+      "level": 3,
+      "parent": "B23K26/362",
+      "ja": "溝の形成のためのもの，例．破断の起点となる溝を刻むためのもの［２０１４．０１］",
+      "en": "for making a groove or trench, e.g. for scribing a break initiation groove",
+      "count": 3490,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K26/38": {
+      "code": "B23K26/38",
+      "level": 2,
+      "parent": "B23K26/36",
+      "ja": "穴あけまたは切断［７，２０１４．０１］",
+      "en": "by boring or cutting",
+      "count": 57144,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K26/382": {
+      "code": "B23K26/382",
+      "level": 3,
+      "parent": "B23K26/38",
+      "ja": "穴あけ［２０１４．０１］",
+      "en": "by boring",
+      "count": 7541,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K26/384": {
+      "code": "B23K26/384",
+      "level": 4,
+      "parent": "B23K26/382",
+      "ja": "特殊な形状の穴の形成［２０１４．０１］",
+      "en": "of specially shaped holes",
+      "count": 375,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K26/386": {
+      "code": "B23K26/386",
+      "level": 4,
+      "parent": "B23K26/382",
+      "ja": "ブラインドホールの形成［２０１４．０１］",
+      "en": "of blind holes",
+      "count": 282,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K26/388": {
+      "code": "B23K26/388",
+      "level": 4,
+      "parent": "B23K26/382",
+      "ja": "トレパニング，すなわち軸を中心にしてビームスポットを動かして穴あけするもの［２０１４．０１］",
+      "en": "Trepanning, i.e. boring by moving the beam spot about an axis",
+      "count": 139,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K26/40": {
+      "code": "B23K26/40",
+      "level": 2,
+      "parent": "B23K26/36",
+      "ja": "材料の性質を考慮したもの［７，２０１４．０１］",
+      "en": "taking account of the properties of the material involved",
+      "count": 5401,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K26/402": {
+      "code": "B23K26/402",
+      "level": 3,
+      "parent": "B23K26/40",
+      "ja": "非金属材料を含むもの，例．絶縁体［２０１４．０１］",
+      "en": "involving non-metallic material, e.g. isolators",
+      "count": 6920,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K26/50": {
+      "code": "B23K26/50",
+      "level": 1,
+      "parent": "B23K26/00",
+      "ja": "レーザービームに対して透明である加工物の加工［２０１４．０１］",
+      "en": "Working by transmitting the laser beam through or within the workpiece",
+      "count": 465,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K26/53": {
+      "code": "B23K26/53",
+      "level": 2,
+      "parent": "B23K26/50",
+      "ja": "加工物の内部に改質または変質部を形成するためのもの，例．破断の起点となる亀裂の形成［２０１４．０１］",
+      "en": "for modifying or reforming the material inside the workpiece, e.g. for producing break initiation cracks",
+      "count": 2888,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K26/55": {
+      "code": "B23K26/55",
+      "level": 2,
+      "parent": "B23K26/50",
+      "ja": "加工物の内部に空間を形成するためのもの，例．流路または流体回路を形成するためのもの［２０１４．０１］",
+      "en": "for creating voids inside the workpiece, e.g. for forming flow passages or flow patterns",
+      "count": 218,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K26/57": {
+      "code": "B23K26/57",
+      "level": 2,
+      "parent": "B23K26/50",
+      "ja": "レーザービームが加工物の一方の面から入射して貫通し，他の加工物の表面に加工を行うもの，例．材料の除去，溶融接続，改質又は変質のためのもの［２０１４．０１］",
+      "en": "the laser beam entering a face of the workpiece from which it is transmitted through the workpiece material to work on a different workpiece face, e.g. for effecting removal, fusion splicing, modifying or reforming",
+      "count": 681,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K26/60": {
+      "code": "B23K26/60",
+      "level": 1,
+      "parent": "B23K26/00",
+      "ja": "予備処理［２０１４．０１］",
+      "en": "Preliminary treatment",
+      "count": 3493,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K26/70": {
+      "code": "B23K26/70",
+      "level": 1,
+      "parent": "B23K26/00",
+      "ja": "補助作業または器具［２０１４．０１］",
+      "en": "Auxiliary operations or equipment",
+      "count": 96684,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K28/00": {
+      "code": "B23K28/00",
+      "level": 0,
+      "parent": "B23K",
+      "ja": "グループＢ２３Ｋ５／００～Ｂ２３Ｋ２６／００に含まれない溶接または切断［２００６．０１］",
+      "en": "Welding or cutting not covered by groups <b>B23K5/00 to B23K26/00</b> ",
+      "count": 2143,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K28/02": {
+      "code": "B23K28/02",
+      "level": 1,
+      "parent": "B23K28/00",
+      "ja": "複数の技術を組み合わせた溶接または切断を行う方法または装置［２，２０１４．０１］",
+      "en": "Combined welding or cutting procedures or apparatus",
+      "count": 2993,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K31/00": {
+      "code": "B23K31/00",
+      "level": 0,
+      "parent": "B23K",
+      "ja": "このサブクラスに関連する方法であって，特殊な物品または目的のために特に適合するが，メイングループＢ２３Ｋ１／００～Ｂ２３Ｋ２８／００のいずれか１つのみには包含されないもの［２００６．０１］",
+      "en": "Processes relevant to this subclass, specially adapted for particular articles or purposes, but not covered by any single one of main groups <b>B23K1/00 to B23K28/00</b> ",
+      "count": 11133,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K31/02": {
+      "code": "B23K31/02",
+      "level": 1,
+      "parent": "B23K31/00",
+      "ja": "ハンダ付または溶接に関連するもの［２００６．０１］",
+      "en": "relating to soldering or welding",
+      "count": 34207,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K31/10": {
+      "code": "B23K31/10",
+      "level": 1,
+      "parent": "B23K31/00",
+      "ja": "切断またはデザーフエーシングに関連するもの",
+      "en": "relating to cutting or desurfacing",
+      "count": 508,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K31/12": {
+      "code": "B23K31/12",
+      "level": 1,
+      "parent": "B23K31/00",
+      "ja": "材料の特性，例．溶接性，の調査に関連するもの［５］",
+      "en": "relating to investigating the properties, e.g. the weldability, of materials",
+      "count": 3904,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K33/00": {
+      "code": "B23K33/00",
+      "level": 0,
+      "parent": "B23K",
+      "ja": "ハンダ付，または溶接により結合を得るための加工材の特殊な形状の開先部；それによってできる継ぎ目の充填",
+      "en": "Specially-profiled edge portions of workpieces for making soldering or welding connections; Filling the seams formed thereby",
+      "count": 7852,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K35/00": {
+      "code": "B23K35/00",
+      "level": 0,
+      "parent": "B23K",
+      "ja": "ハンダ付，溶接または切断のために用いられる溶加棒，溶接電極，材料，媒剤",
+      "en": "Rods, electrodes, materials, or media, for use in soldering, welding, or cutting",
+      "count": 3670,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K35/02": {
+      "code": "B23K35/02",
+      "level": 1,
+      "parent": "B23K35/00",
+      "ja": "機械的形状，例．形，を特徴とするもの",
+      "en": "characterised by mechanical features, e.g. shape",
+      "count": 10486,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K35/04": {
+      "code": "B23K35/04",
+      "level": 2,
+      "parent": "B23K35/02",
+      "ja": "溶接電極として用いるために特に形状が工夫されたもの［２００６．０１］",
+      "en": "specially designed for use as electrodes",
+      "count": 2241,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K35/06": {
+      "code": "B23K35/06",
+      "level": 3,
+      "parent": "B23K35/04",
+      "ja": "断面が非円形のもの；特殊な配置，例．内部配置をもつもの",
+      "en": "of non-circular cross-section; with special arrangement, e.g. internal",
+      "count": 290,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K35/08": {
+      "code": "B23K35/08",
+      "level": 4,
+      "parent": "B23K35/06",
+      "ja": "複合芯のもの；複数",
+      "en": "multi-cored; multiple",
+      "count": 156,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K35/10": {
+      "code": "B23K35/10",
+      "level": 4,
+      "parent": "B23K35/06",
+      "ja": "二層以上の被覆層またはシース材料をもつもの",
+      "en": "with more than one layer of coating or sheathing material",
+      "count": 235,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K35/12": {
+      "code": "B23K35/12",
+      "level": 2,
+      "parent": "B23K35/02",
+      "ja": "溶接電極として一般的なもの",
+      "en": "not specially designed for use as electrodes",
+      "count": 521,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K35/14": {
+      "code": "B23K35/14",
+      "level": 3,
+      "parent": "B23K35/12",
+      "ja": "ハンダ付用",
+      "en": "for soldering",
+      "count": 3174,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K35/16": {
+      "code": "B23K35/16",
+      "level": 3,
+      "parent": "B23K35/12",
+      "ja": "断面が非円形のもの；特殊な配置，例．内部配置をもつもの（Ｂ２３Ｋ３５／１４が優先）",
+      "en": "of non-circular cross-section; with special arrangement, e.g. internal(<b>B23K35/14</b> takes precedence)",
+      "count": 193,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K35/18": {
+      "code": "B23K35/18",
+      "level": 4,
+      "parent": "B23K35/16",
+      "ja": "複合芯のもの；複合電極",
+      "en": "multi-cored; multiple",
+      "count": 131,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K35/20": {
+      "code": "B23K35/20",
+      "level": 4,
+      "parent": "B23K35/16",
+      "ja": "二層以上の被覆層またはシース材料をもつもの",
+      "en": "with more than one layer of coating or sheathing material",
+      "count": 179,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K35/22": {
+      "code": "B23K35/22",
+      "level": 1,
+      "parent": "B23K35/00",
+      "ja": "材料の組成または性質を特徴とするもの",
+      "en": "characterised by the composition or nature of the material",
+      "count": 6020,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K35/24": {
+      "code": "B23K35/24",
+      "level": 2,
+      "parent": "B23K35/22",
+      "ja": "適当なハンダ付材料または溶接材料の選定（Ｂ２３Ｋ３５／３４が優先）",
+      "en": "Selection of soldering or welding materials proper(<b>B23K35/34</b> takes precedence)",
+      "count": 2171,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K35/26": {
+      "code": "B23K35/26",
+      "level": 3,
+      "parent": "B23K35/24",
+      "ja": "主成分が４００°Ｃ以下の融点をもつもの",
+      "en": "with the principal constituent melting at less than 400&deg;C",
+      "count": 6697,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K35/28": {
+      "code": "B23K35/28",
+      "level": 3,
+      "parent": "B23K35/24",
+      "ja": "主成分が９５０°Ｃ以下の融点をもつもの",
+      "en": "with the principal constituent melting at less than 950&deg;C",
+      "count": 4610,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K35/30": {
+      "code": "B23K35/30",
+      "level": 3,
+      "parent": "B23K35/24",
+      "ja": "主成分が１５５０°Ｃ以下の融点をもつもの",
+      "en": "with the principal constituent melting at less than 1550&deg;C",
+      "count": 17736,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K35/32": {
+      "code": "B23K35/32",
+      "level": 3,
+      "parent": "B23K35/24",
+      "ja": "主成分が１５５０°Ｃ以上の融点をもつもの",
+      "en": "with the principal constituent melting at more than 1550&deg;C",
+      "count": 2301,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K35/34": {
+      "code": "B23K35/34",
+      "level": 2,
+      "parent": "B23K35/22",
+      "ja": "加熱した時に金属となる化合物からなるもの",
+      "en": "comprising compounds which yield metals when heated",
+      "count": 667,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K35/36": {
+      "code": "B23K35/36",
+      "level": 2,
+      "parent": "B23K35/22",
+      "ja": "非金属組成物の選定，例．被覆またはフラックス（Ｂ２３Ｋ３５／３４が優先）；非金属組成物の選定に関連するハンダ付け材料または溶接材料の選定，両者の選定に関係するもの［２００６．０１］",
+      "en": "Selection of non-metallic compositions, e.g. coatings or fluxes (<b>B23K35/34</b> takes precedence);Selection of soldering or welding materials, conjoint with selection of non-metallic compositions, both selections being of interest",
+      "count": 7563,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K35/362": {
+      "code": "B23K35/362",
+      "level": 3,
+      "parent": "B23K35/36",
+      "ja": "フラックス組成物の選定（Ｂ２３Ｋ３５／３６５，Ｂ２３Ｋ３５／３６８が優先）［２］",
+      "en": "Selection of compositions of fluxes(<b>B23K35/365</b>, <b>B23K35/368</b> take precedence)",
+      "count": 4286,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K35/363": {
+      "code": "B23K35/363",
+      "level": 4,
+      "parent": "B23K35/362",
+      "ja": "ハンダ付けまたはろうづけ用のもの［４］",
+      "en": "for soldering or brazing",
+      "count": 3844,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K35/365": {
+      "code": "B23K35/365",
+      "level": 3,
+      "parent": "B23K35/36",
+      "ja": "被覆材料の非金属組成物の選定，またはハンダ付け材料または溶接材料の選定に関係するもの［２］",
+      "en": "Selection of non-metallic compositions of coating materials either alone or conjoint with selection of soldering or welding materials",
+      "count": 2976,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K35/368": {
+      "code": "B23K35/368",
+      "level": 3,
+      "parent": "B23K35/36",
+      "ja": "芯材料の非金属組成物の選定，またはハンダ付け材料または溶接材料の選定に関係するもの［２］",
+      "en": "Selection of non-metallic compositions of core materials either alone or conjoint with selection of soldering or welding materials",
+      "count": 2718,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K35/38": {
+      "code": "B23K35/38",
+      "level": 2,
+      "parent": "B23K35/22",
+      "ja": "媒質の選定，例．加工域を包囲するための特殊な雰囲気",
+      "en": "Selection of media, e.g. special atmospheres for surrounding the working area",
+      "count": 1754,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K35/40": {
+      "code": "B23K35/40",
+      "level": 1,
+      "parent": "B23K35/00",
+      "ja": "ハンダ付または溶接のための線または棒の製造［２００６．０１］",
+      "en": "Making wire or rods for soldering or welding",
+      "count": 11852,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K37/00": {
+      "code": "B23K37/00",
+      "level": 0,
+      "parent": "B23K",
+      "ja": "このサブクラスの他のメイングループの１つのみにより包含される１つの工程に特に適合しない補助装置または方法［２０２５．０１］",
+      "en": "Auxiliary devices or processes, not specially adapted for a procedure covered by only one of the other main groups of this subclass",
+      "count": 105745,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K37/003": {
+      "code": "B23K37/003",
+      "level": 1,
+      "parent": "B23K37/00",
+      "ja": "溶接または切断のための冷却手段［２０２５．０１］",
+      "en": "Cooling means for welding or cutting",
+      "count": 1055,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K37/006": {
+      "code": "B23K37/006",
+      "level": 1,
+      "parent": "B23K37/00",
+      "ja": "溶接または切断のための安全装置［２０２５．０１］",
+      "en": "Safety devices for welding or cutting",
+      "count": 669,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K37/02": {
+      "code": "B23K37/02",
+      "level": 1,
+      "parent": "B23K37/00",
+      "ja": "溶接または切断要素を保持するための台車",
+      "en": "Carriages for supporting the welding or cutting element",
+      "count": 48214,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K37/04": {
+      "code": "B23K37/04",
+      "level": 1,
+      "parent": "B23K37/00",
+      "ja": "加工物を保持または配置するためのもの",
+      "en": "for holding or positioning work",
+      "count": 144648,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K37/047": {
+      "code": "B23K37/047",
+      "level": 2,
+      "parent": "B23K37/04",
+      "ja": "ハンダ付，溶接または切断ステップ間の位置調整のための加工物の移動（Ｂ２３Ｋ３７／０５３が優先）［５］",
+      "en": "moving work to adjust its position between soldering, welding or cutting steps(<b>B23K37/053</b> takes precedence)",
+      "count": 36559,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K37/053": {
+      "code": "B23K37/053",
+      "level": 2,
+      "parent": "B23K37/04",
+      "ja": "円筒加工物の軸合せ；そのためのクランプ装置［２０２５．０１］",
+      "en": "aligning cylindrical work; Clamping devices therefor",
+      "count": 31068,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K37/0531": {
+      "code": "B23K37/0531",
+      "level": 3,
+      "parent": "B23K37/053",
+      "ja": "管の円周溶接用内面クランプ治具・装置［２０２５．０１］",
+      "en": "Internal pipe alignment clamps",
+      "count": 198,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K37/0533": {
+      "code": "B23K37/0533",
+      "level": 3,
+      "parent": "B23K37/053",
+      "ja": "管の円周溶接用外面クランプ治具・装置［２０２５．０１］",
+      "en": "External pipe alignment clamps",
+      "count": 1954,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K37/0535": {
+      "code": "B23K37/0535",
+      "level": 3,
+      "parent": "B23K37/053",
+      "ja": "管の縦継手溶接用クランプ治具・装置［２０２５．０１］",
+      "en": "Longitudinal pipe seam alignment clamps",
+      "count": 15,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K37/0536": {
+      "code": "B23K37/0536",
+      "level": 3,
+      "parent": "B23K37/053",
+      "ja": "管とフランジ用［２０２５．０１］",
+      "en": "for maintaining flanges on tubes",
+      "count": 58,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K37/0538": {
+      "code": "B23K37/0538",
+      "level": 3,
+      "parent": "B23K37/053",
+      "ja": "管の回転のためのもの，例．ローラー［２０２５．０１］",
+      "en": "for rotating tubes, e.g. rollers",
+      "count": 543,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K37/06": {
+      "code": "B23K37/06",
+      "level": 1,
+      "parent": "B23K37/00",
+      "ja": "溶融金属の位置ぎめのためのもの，例．望ましい区域内に保持するためのもの",
+      "en": "for positioning the molten material, e.g. confining it to a desired area",
+      "count": 3691,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K37/08": {
+      "code": "B23K37/08",
+      "level": 1,
+      "parent": "B23K37/00",
+      "ja": "ばり取りのためのもの［５］",
+      "en": "for flash removal",
+      "count": 2939,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K101/00": {
+      "code": "B23K101/00",
+      "level": 0,
+      "parent": "B23K",
+      "ja": "ハンダ付，溶接または切断により製造される物品［５］",
+      "en": "Articles made by soldering, welding or cutting",
+      "count": 2503,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K101/02": {
+      "code": "B23K101/02",
+      "level": 1,
+      "parent": "B23K101/00",
+      "ja": "ハニカム構造［５］",
+      "en": "Honeycomb structures",
+      "count": 319,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K101/04": {
+      "code": "B23K101/04",
+      "level": 1,
+      "parent": "B23K101/00",
+      "ja": "管状または中空物品［５］",
+      "en": "Tubular or hollow articles",
+      "count": 1762,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K101/06": {
+      "code": "B23K101/06",
+      "level": 2,
+      "parent": "B23K101/04",
+      "ja": "管［５］",
+      "en": "Tubes",
+      "count": 15958,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K101/08": {
+      "code": "B23K101/08",
+      "level": 3,
+      "parent": "B23K101/06",
+      "ja": "フィンまたはリブ付のもの［５］",
+      "en": "finned or ribbed",
+      "count": 148,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K101/10": {
+      "code": "B23K101/10",
+      "level": 2,
+      "parent": "B23K101/04",
+      "ja": "パイプライン［５］",
+      "en": "Pipe-lines",
+      "count": 760,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K101/12": {
+      "code": "B23K101/12",
+      "level": 2,
+      "parent": "B23K101/04",
+      "ja": "容器［５］",
+      "en": "Vessels",
+      "count": 2160,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K101/14": {
+      "code": "B23K101/14",
+      "level": 2,
+      "parent": "B23K101/04",
+      "ja": "熱交換器［５］",
+      "en": "Heat exchangers",
+      "count": 2835,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K101/16": {
+      "code": "B23K101/16",
+      "level": 1,
+      "parent": "B23K101/00",
+      "ja": "無制限長さのバンドまたはシート［５］",
+      "en": "Bands or sheets of indefinite length",
+      "count": 711,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K101/18": {
+      "code": "B23K101/18",
+      "level": 1,
+      "parent": "B23K101/00",
+      "ja": "シートパネル［５］",
+      "en": "Sheet panels",
+      "count": 2243,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K101/20": {
+      "code": "B23K101/20",
+      "level": 1,
+      "parent": "B23K101/00",
+      "ja": "工具［５］",
+      "en": "Tools",
+      "count": 528,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K101/22": {
+      "code": "B23K101/22",
+      "level": 1,
+      "parent": "B23K101/00",
+      "ja": "金網，線材編物または類似物［５］",
+      "en": "Nets, wire fabrics or the like",
+      "count": 733,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K101/24": {
+      "code": "B23K101/24",
+      "level": 1,
+      "parent": "B23K101/00",
+      "ja": "枠組［５］",
+      "en": "Frameworks",
+      "count": 628,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K101/26": {
+      "code": "B23K101/26",
+      "level": 1,
+      "parent": "B23K101/00",
+      "ja": "軌道レールまたは類似のレール［５］",
+      "en": "Railway- or like rails",
+      "count": 483,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K101/28": {
+      "code": "B23K101/28",
+      "level": 1,
+      "parent": "B23K101/00",
+      "ja": "梁［５］",
+      "en": "Beams",
+      "count": 752,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K101/30": {
+      "code": "B23K101/30",
+      "level": 1,
+      "parent": "B23K101/00",
+      "ja": "鎖，輪または環［５］",
+      "en": "Chains, hoops or rings",
+      "count": 114,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K101/32": {
+      "code": "B23K101/32",
+      "level": 1,
+      "parent": "B23K101/00",
+      "ja": "針金［５］",
+      "en": "Wires",
+      "count": 505,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K101/34": {
+      "code": "B23K101/34",
+      "level": 1,
+      "parent": "B23K101/00",
+      "ja": "被覆された物品［５］",
+      "en": "Coated articles",
+      "count": 688,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K101/36": {
+      "code": "B23K101/36",
+      "level": 1,
+      "parent": "B23K101/00",
+      "ja": "電気または電子装置［５］",
+      "en": "Electric or electronic devices",
+      "count": 9283,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K101/38": {
+      "code": "B23K101/38",
+      "level": 2,
+      "parent": "B23K101/36",
+      "ja": "導体［５］",
+      "en": "Conductors",
+      "count": 1560,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K101/40": {
+      "code": "B23K101/40",
+      "level": 2,
+      "parent": "B23K101/36",
+      "ja": "半導体装置［５］",
+      "en": "Semiconductor devices",
+      "count": 3790,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K101/42": {
+      "code": "B23K101/42",
+      "level": 2,
+      "parent": "B23K101/36",
+      "ja": "印刷回路［５］",
+      "en": "Printed circuits",
+      "count": 7261,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K103/00": {
+      "code": "B23K103/00",
+      "level": 0,
+      "parent": "B23K",
+      "ja": "ハンダ付，溶接または切断される材料［５］",
+      "en": "Materials to be soldered, welded or cut",
+      "count": 2687,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K103/02": {
+      "code": "B23K103/02",
+      "level": 1,
+      "parent": "B23K103/00",
+      "ja": "鉄または鉄合金［５］",
+      "en": "Iron or ferrous alloys",
+      "count": 352,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K103/04": {
+      "code": "B23K103/04",
+      "level": 2,
+      "parent": "B23K103/02",
+      "ja": "鋼［５］",
+      "en": "Steel alloys",
+      "count": 6046,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K103/06": {
+      "code": "B23K103/06",
+      "level": 2,
+      "parent": "B23K103/02",
+      "ja": "鋳鉄［５］",
+      "en": "Cast-iron alloys",
+      "count": 154,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K103/08": {
+      "code": "B23K103/08",
+      "level": 1,
+      "parent": "B23K103/00",
+      "ja": "非鉄金属またはその合金［５］",
+      "en": "Non-ferrous metals or alloys",
+      "count": 1054,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K103/10": {
+      "code": "B23K103/10",
+      "level": 2,
+      "parent": "B23K103/08",
+      "ja": "アルミニウムまたはその合金［５］",
+      "en": "Aluminium or alloys thereof",
+      "count": 4446,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K103/12": {
+      "code": "B23K103/12",
+      "level": 2,
+      "parent": "B23K103/08",
+      "ja": "銅またはその合金［５］",
+      "en": "Copper or alloys thereof",
+      "count": 1253,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K103/14": {
+      "code": "B23K103/14",
+      "level": 2,
+      "parent": "B23K103/08",
+      "ja": "チタンまたはその合金［５］",
+      "en": "Titanium or alloys thereof",
+      "count": 1192,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K103/16": {
+      "code": "B23K103/16",
+      "level": 1,
+      "parent": "B23K103/00",
+      "ja": "複合材料［５］",
+      "en": "Composite materials",
+      "count": 1290,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K103/18": {
+      "code": "B23K103/18",
+      "level": 1,
+      "parent": "B23K103/00",
+      "ja": "異種材料［５］",
+      "en": "Dissimilar materials",
+      "count": 2531,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K103/20": {
+      "code": "B23K103/20",
+      "level": 2,
+      "parent": "B23K103/18",
+      "ja": "鉄合金とアルミニウムまたはその合金［５］",
+      "en": "Ferrous alloys and aluminium or alloys thereof",
+      "count": 916,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K103/22": {
+      "code": "B23K103/22",
+      "level": 2,
+      "parent": "B23K103/18",
+      "ja": "鉄合金と銅またはその合金［５］",
+      "en": "Ferrous alloys and copper or alloys thereof",
+      "count": 245,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    },
+    "B23K103/24": {
+      "code": "B23K103/24",
+      "level": 2,
+      "parent": "B23K103/18",
+      "ja": "鉄合金とチタニウムまたはその合金［５］",
+      "en": "Ferrous alloys and titanium or alloys thereof",
+      "count": 209,
+      "sourceFile": "ipc_B23K.txt",
+      "kind": "ipc"
+    }
+  }
+}

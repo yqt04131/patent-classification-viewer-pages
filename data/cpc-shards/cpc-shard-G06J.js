@@ -1,0 +1,97 @@
+window.CPC_SHARD_G06J = {
+  "generatedAt": "2026-03-20T02:17:58.910Z",
+  "total": 7,
+  "entries": {
+    "G06J": {
+      "code": "G06J",
+      "level": 5,
+      "parent": "G06",
+      "ja": "ハイブリッド計算装置（光学的ハイブリッド計算装置Ｇ０６Ｅ３／００；｛ファジー計算Ｇ０６Ｎ７／０２｝；イメージデータ処理用のニューラルネットワークＧ０６Ｔ；アナログ／デジタル変換，一般Ｈ０３Ｍ１／００）注．このサブクラスにおいては，下記の表現は以下に示す意味で用いる:　－ハイブリッド計算装置は計算の一部はデジタルであり一部はアナログである装置",
+      "en": "HYBRID COMPUTING ARRANGEMENTS (optical hybrid computing devices G06E3/00)<br><br><u>NOTE</u><br><br>In this subclass, the following expression is used with the meaning indicated: <br>\"hybrid computing arrangement\" is an arrangement in which part of the computation is digital and part is analogue.",
+      "count": 0,
+      "ipcCode": "",
+      "coreCode": "",
+      "note": "",
+      "sourceFile": "cpc_G.txt",
+      "kind": "cpc"
+    },
+    "G06": {
+      "code": "G06",
+      "level": 4,
+      "parent": "G",
+      "ja": "計算；計数<br>（１）このクラスは以下のものを包含する:<br>―実際の装置またはシステム内での現存するかまたは予想される諸条件を計算するための数学的なものに関するシミュレータ；<br>―計算を含む手段により，システムまたは装置の機能を実現するシミュレータであって，他に分類箇所がないもの；<br>―イメージデータ処理または発生<br>（２）このクラスは以下のものを包含しない。<br>―筆記具に計算装置を結合したもの。それらはグループＢ４３Ｋ２９／０８に包含される；<br>―シミュレータから得られる制御機能一般，ただし，これはクラスＧ０５に包含されるけれども，そのような機能は，制御される装置のためのこのクラスのサブクラスに包含されることもある；<br>―シミュレータへの入力となる独立変数の測定または分析，ただし，これはＧ０１に包含される；<br>―訓練を受ける者によってなされた行動に応じて，実際に経験するような感じに似た知覚的感じを与える場合の教習具または訓練具とみなされるシミュレータ。そのようなシミュレータはクラスＧ０９に包含される；<br>―シミュレータの構成要素であってしかもなにかの装置あるいは機械と同等のもの，ただし，これはその装置また機械のための適切なサブクラスに分類する（そしてクラスＧ０９には分類しない）。<br>（３）このクラスにおいては，下記の用語または表現は以下に示す意味で用いる:<br>―データとは情報と同義語として使用される。それゆえ，情報という用語はサブクラスＧ０６Ｃ，Ｇ０６Ｆ，Ｇ０６Ｑのいずれにおいても使用しない；<br>―カルキュレーティングまたはコンピューティングとは，とりわけ，数値および数値形式で表現されたデータについての演算を含む。これらの用語のうち，コンピューティングはクラス全体にわたって使用される；<br>―コンピューテーションという用語はコンピューティングから派生している。フランス語ではカルキュルという用語はいずれの意味にも使用される；<br>―シミュレータとは，実際の装置と同じ時間スケールを使用するかまたは拡大もしくは縮小した時間スケールで動作する装置である；<br>―記録担体とはシリンダ，ディスク，カード，テープ，ワイヤのような永久的に情報を保持できる物体を意味し，記録された情報に対して相対的に移動しうる感知素子によって読出しのできるものである。<br>（４）セクションＧのタイトルに続く注，特に変量という用語の定義については注意すること。",
+      "en": "COMPUTING OR CALCULATING; COUNTING<br><br><u>NOTE</u><br><br> This class covers: <br> simulators which are concerned with the mathematics of computing the existing or anticipated conditions within the real device or system; <br> simulators which demonstrate, by means involving computing, the function of apparatus or of a system, if no provision exists elsewhere; <br> image data processing or generation. <br> This class does not cover: <br> combinations of writing implements with computing devices, which are covered by group B43K29/08; <br> control functions derived from simulators, in general, which are covered by class G05, although such functions may be covered by the subclass of this class for the device controlled; <br> measurement or analysis of an individual variable to serve as an input to a simulator, which is covered by class G01; <br> simulators regarded as teaching or training devices which is the case if they give perceptible sensations having a likeness to the sensations a student would experience in reality in response to actions taken by him. Such simulators are covered by class G09; <br> components of simulators, if identical with real devices or machines, which are covered by the relevant subclass for these devices or machines and not by class G09. <br> In this class, the following terms or expressions are used with the meanings indicated: <br> \"data\" is used as the synonym of \"information\". Therefore, the term \"information\" is not used in subclass G06C;<br>\"ICT [information and communication technology]\" also covers \"IT [information technology]\"; <br> \"calculating or computing\" includes, inter alia, operations on numerical values and on data expressed in numerical form. Of these terms \"computing\" is used throughout the class; <br> \"computation\" is derived from this interpretation of \"computing\". In the French language, the term \"calcul\" will serve for either term; <br> \"simulator\" is a device which may use the same time scale as the real device or operate on an expanded or compressed time scale. In interpreting this term models of real devices to reduced or expanded scales are not regarded as simulators; <br> \"record carrier\" means a body, such as a cylinder, disc, card, tape or wire, capable of permanently holding information, which can be read-off by a sensing element movable relative to the recorded information. <br> Attention is drawn to the Notes following the title of section G, especially as regards the definition of the term \"variable\". ",
+      "count": 0,
+      "ipcCode": "",
+      "coreCode": "",
+      "note": "",
+      "sourceFile": "cpc_G.txt",
+      "kind": "cpc"
+    },
+    "G": {
+      "code": "G",
+      "level": 2,
+      "parent": null,
+      "ja": "物理学<br>（１）このセクションにおいては，下記の用語は以下に示す意味で用いる:<br>―変量（名詞）は特定の実在物（例．物体，ある量の物質，光ビーム）に関し特定の瞬間に測定することの可能な特性又は特質（例．寸法，温度等の物理的状態，密度又は色等の性質）を意味する。変量が変化すると，その数値的表現は異なる時点で又は異なる状態もしくは個々の状況において異なる値をとることもあり，また，ある状態のもとで又は実用上特定の実在物に関して変わらない（例．バーの長さが多くの目的のために一定とみなされる場合）こともある。<br>（２）このセクションにおけるいくつかのクラスの注に使用されている用語又は表現，特にクラスＧ０１の測定，クラスＧ０５の制御及び調整の定義に注意すること。<br>（３）このセクションにおける分類は他のセクションにおけるよりもめんどうな場合があり得る，というのは，その一つは，いろいろな使用分野の差異の判別には構造上の差異又は使用形態上の差異よりも寧ろ使用者の意図における差異の方にかなりの程度影響されてしまうからであり，もう一つは，扱う主題が容易に全体として識別できるものであるよりも，特性又は部品が他の主題のものと共通のものを有しているシステム又は組合わせであることが実際上多いからである。例えば，情報（例．一連の数値）をディスプレイするのは教育又は広告（Ｇ０９）のためなどであり，その目的を記述するために使用する言葉は，当該装置の形態に無関係なこともあり得る特性－例えば，ディスプレイを見る者にとって望ましい効果とか，ディスプレイが遠隔地点から制御されるかどうかという特性－によって決定される。さらに，ある状態，例えば流体圧の変化に応答する装置は，その装置そのものには変更を加えずして，圧力（Ｇ０１Ｌ）又は圧力に関連した他の何らかの状態（Ｇ０１の他のサブクラス，例．温度に関しＧ０１Ｋ）についての情報を与えるため，圧力または圧力発生の記録をする（Ｇ０７Ｃ）ため，警報を発する（Ｇ０８Ｂ）ため，又は他の何らかの装置を制御する（Ｇ０５）ために用いられることがある。<br>本分類構成は同一の性質のもの（前述したように）は同一箇所に分類し得るようにしたものであって，従って，技術主題が適切箇所に分類されるためには予めその真正な本質を把握することが特に必要である。",
+      "en": "PHYSICS<br><br><u>NOTE</u><br><br>In this section, the following term is used with the meaning indicated : <br>\"variable\" (as a noun) means a feature or property, (e.g. a  dimension, a physical condition such as temperature, a  quality such as density or colour) which, in respect of a  particular entity (e.g. an object, a quantity of a  substance, a beam of light) and at a particular instant, is  capable of being measured; the variable may change, so that  its numerical expression may assume different values at  different times or in different conditions or individual  cases, but may be constant in respect of a particular  entity in certain conditions or for practical purposes,  (e.g. the len gth of a bar may be regarded as constant for  many purposes).<br>Attention is drawn to the definitions of terms used appearing in the notes of several of the classes in this Section, particularly of \"measuring\" in class G01 and \"control\" and \"regulation\" in class G05.<br>The classification of inventions in this Section may present more difficulty than in others because the distinction between different fields of use rests to a considerable extent on differences in the intention of the user rather than on any constructional differences or differences in the manner of use of inventions, and also because the subjects dealt with are often in effect systems or combinations which have features or parts in common rather than \"things\" which are readily distinguishable as a whole. For example, information, (e.g. a set of figures) may be displayed for the purpose of education or advertising (G09), for enabling the result of a measurement to be known (G01), for signalling the information to a distant point or for giving information which has been signalled from a distant point (G08); the words used to describe the purpose depend on features which may be irrelevant to the form of the apparatus concerned - such features as the desired effect on the person who sees the display or whether the display is controlled from a remote point. Again, a device which responds to some change in a condition, e.g. in the pressure of a fluid, may be used, without modification of the device itself, to give information about the pressure (G01L) or about some other condition connected with the pressure (another subclass of G01, e.g. G01K for temperature), to make a record of the pressure or of its occurrence (G07C), to give an alarm (G08B), or to control some other apparatus (G05). The classification scheme is intended to enable things of a similar nature (as indicated above) to be classified together, and it is therefore particularly necessary for the real nature of any invention to be decided before it can be properly classified.",
+      "count": 0,
+      "ipcCode": "",
+      "coreCode": "",
+      "note": "",
+      "sourceFile": "cpc.txt",
+      "kind": "cpc"
+    },
+    "G06J1/00": {
+      "code": "G06J1/00",
+      "level": 7,
+      "parent": null,
+      "ja": "ハイブリッド計算装置（デジタル的にプログラムされたアナログ計算機Ｇ０６Ｇ７／０６）",
+      "en": "Hybrid computing arrangements",
+      "count": 1158,
+      "ipcCode": "G06J1/00",
+      "coreCode": "G06J1/00",
+      "note": "",
+      "sourceFile": "cpc_G06J.txt",
+      "kind": "cpc"
+    },
+    "G06J1/005": {
+      "code": "G06J1/005",
+      "level": 8,
+      "parent": "G06J1/00",
+      "ja": "｛相関関係のためのもの；Ｚまたはフーリエ変換のためのもの｝",
+      "en": "{for correlation; for convolution; for Z or Fourier Transform}",
+      "count": 74,
+      "ipcCode": "G06J1/00",
+      "coreCode": "G06J1/00",
+      "note": "",
+      "sourceFile": "cpc_G06J.txt",
+      "kind": "cpc"
+    },
+    "G06J1/02": {
+      "code": "G06J1/02",
+      "level": 8,
+      "parent": "G06J1/00",
+      "ja": "微分解析機｛（増分量表現を用いるデジタル微分解析器および他の計算装置Ｇ０６Ｆ７／６４）｝",
+      "en": "Differential analysers",
+      "count": 4,
+      "ipcCode": "G06J1/02",
+      "coreCode": "G06J1/02",
+      "note": "",
+      "sourceFile": "cpc_G06J.txt",
+      "kind": "cpc"
+    },
+    "G06J3/00": {
+      "code": "G06J3/00",
+      "level": 7,
+      "parent": null,
+      "ja": "完全なデジタル計算機と完全なアナログ計算機の連動システム",
+      "en": "Systems for conjoint operation of complete digital and complete analogue computers",
+      "count": 20,
+      "ipcCode": "G06J3/00",
+      "coreCode": "G06J3/00",
+      "note": "",
+      "sourceFile": "cpc_G06J.txt",
+      "kind": "cpc"
+    }
+  }
+};

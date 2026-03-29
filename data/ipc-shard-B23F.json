@@ -1,0 +1,786 @@
+{
+  "generatedAt": "2026-03-20T02:17:46.110Z",
+  "total": 78,
+  "entries": {
+    "B23F": {
+      "code": "B23F",
+      "level": 0,
+      "parent": "B23",
+      "ja": "歯車またはラックの製造（型打鍛造によるものＢ２１Ｄ；転造によるものＢ２１Ｈ；鍛造またはプレスによるものＢ２１Ｋ；鋳造によるものＢ２２；倣い装置または制御装置Ｂ２３Ｑ；研削または研磨のための機械または装置一般Ｂ２４）<br><br><b><ul>注</ul></b><br>（１）このサブクラスは，以下のものを包含する：<br>―確実な相対運動を得るために歯車装置の適正な噛み合いには不可欠の歯形を正確に製造するための特に考案された方法および装置；<br>―歯状または類似した形状の物品，例．かみ合いクラッチ，スプライン軸，フライス，の製造における類似した製造方法並びに装置<br>（２）このサブクラスは，上記注（１）で述べられている以外の手段または装置を用いた歯状または類似した他の形状の物品の製造は包含しない。<br>（３）このサブクラスにおいては，下記の用語または表現は以下の意味で用いる：<br>―“歯車の歯”はロータリーポンプおよびロータリーブロアーのローターのように類似した相対運動を行ない，正確にかみ合う部材の歯または突起をも含む；<br>―“歯形”は１つの歯の両面または片面の外形または隣接する歯の対抗する面の外形を含んでも良い；<br>―“直歯”は歯全体が（歯面のみの曲りは考慮しない，例．クラウニング）たとえば平歯車を半径方向に見た場合のようにその長さ方向に垂直なものを意味する。したがって，ハスバ歯車および通常の傘歯車の歯も直歯に含まれる；<br>―“ブローチミーリング”は順次深さおよび幅が増大する多数の歯を備えた回転カッターによるフライス削りを意味する。<br><br><b><ul>サブクラス内の索引</ul></b><br>歯の製造<br>一般的方法　１／００，３／００，１７／００<br>特殊な形状の歯の製造　５／００，７／００，９／００，１５／００，１７／００<br>仕上げ　１９／００<br>工具；付属品　２１／００；２３／００<br>ウォームの製造<br>方法　１３／００<br>ウォームホイール　１１／００<br>付属品　２３／００<br>その他の特殊形状の歯車の製造　１５／００",
+      "en": "MAKING GEARS OR TOOTHED RACKS(by stamping <b>B21D</b>; by rolling <b>B21H</b>; by forging or pressing <b>B21K</b>; by casting <b>B22</b>; arrangements for copying or controlling <b>B23Q</b>; machines or devices for grinding or polishing, in general <b>B24B</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>This subclass <u>covers</u>:<ul><li>the use of methods or apparatus specially designed to produce accurately the shapes of gear teeth which are essential for proper intermeshing of toothed gearing elements to ensure the required relative motions;</li><li>the use of similar methods or apparatus in the production of other articles of toothed or like form, e.g. dog clutches, splined shafts, milling cutters.</li></ul></li><li>This subclass <u>does not cover</u> the production of such other articles of toothed or like form using methods or apparatus other than those mentioned under Note (1) above.</li><li>In this subclass, the following terms or expressions are used with the meanings indicated:<ul><li>\"gear teeth\" covers the teeth or lobes of other accurately-intermeshing members having relative movement of a similar kind, such as rotors of rotary pumps and blowers;</li><li>\"profile\" may include the outline of both faces or only one face of a tooth, or the opposing faces of adjacent teeth;</li><li>\"straight\" means that a tooth as a whole (ignoring any curvature of the tooth-face alone, e.g. crowning) is straight in the direction of its length, for example as seen in the direction of a radius of a spur wheel. It accordingly includes the teeth of helical gears and of the normal type of bevel gear;</li><li>\"broach-milling\" means milling with a rotary cutter having a number of teeth of progressively increasing depth or width.</li></ul></li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">MAKING GEAR TEETH<tr><td width=\"70%\">General methods </td><td><b><b>1/00</b>, <b>3/00</b>, <b>17/00</b></b></td></tr></tr><tr><td width=\"70%\">Making teeth with special shape </td><td><b><b>5/00</b>, <b>7/00</b>, <b>9/00</b>, <b>15/00</b>, <b>17/00</b></b></td></tr></tr><tr><td width=\"70%\">Finishing </td><td><b><b>19/00</b></b></td></tr></tr><tr><td width=\"70%\">Tools; accessories </td><td><b><b>21/00</b>; <b>23/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">MAKING WORMS<tr><td width=\"70%\">Methods </td><td><b><b>13/00</b></b></td></tr></tr><tr><td width=\"70%\">Worm wheels </td><td><b><b>11/00</b></b></td></tr></tr><tr><td width=\"70%\">Accessories </td><td><b><b>23/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">MAKING OTHER GEARING WHEELS OF SPECIAL TYPE </td><td><b><b>15/00</b></b></td></tr></tr></table>",
+      "count": 194,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B23": {
+      "code": "B23",
+      "level": 0,
+      "parent": "B",
+      "ja": "工作機械；他に分類されない金属加工<br><br><b><ul>注</ul></b><br>（１）このクラスは以下のものを包含する：<br>―金属材料の加工；［２０１５．０１］<br>―適用される方法が金属材料加工に用いられるものと類似し且つ他の分類箇所に包含されないものに限る非金属材料の加工；［２０１５．０１］<br>―サブクラスＢ２３Ｑに包含されるものであって工作機械の個々の種類に特有でない性質の要請または問題，例．加工物の供給，に関する特徴。もっともその特徴の実施形態は適用される機械の種類に応じて異ってもよい。たとえ，その特徴または特定の機能が，実際上ある特定の作業用に設計された工作機械にかなりな程度特有であり，またはその工作機械用にのみクレームされていても，その特徴は一般に前記サブクラスに分類され，例外的にのみ関係する工作機械のサブクラスに分類される。しかしながら，この一般的性質をもつ特徴のあるものは個々の金属加工作業に関するサブクラス，特にＢ２３Ｂに分類される。この場合，当該サブクラスはこれらの特徴に関しては主に関係する工作機械の種類に制限されない。<br>（２）このサブクラスにおいては，下記の用語または表現は以下の意味で用いる：<br>―“作業の種類”という用語およびそれに類する表現は中ぐり，穴あけ，フライス削りおよび研削のような金属加工作業に関する；<br>―“機械の種類”という用語は１つの特定の金属加工作業のために設計された機械を意味する（例．旋盤）；<br>―“機械の形式”という用語は加工の特定の方法または特定の工作物のために適用または構成される特定種類の機械，例．正面旋盤，心押台旋盤，タレット旋盤，を意味する；<br>―“種々の機械”は同種の金属加工を行う種々の形式の工作機械全部，たとえば立て中ぐり盤と横中ぐり盤とを含む。<br>（３）もし，細部，構成部分または付属品が工作機械に固有の本質的特徴をもたないならばさらに一般的なクラス，例．Ｆ１６，が優先する。",
+      "en": "MACHINE TOOLS; METAL-WORKING NOT OTHERWISE PROVIDED FOR; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This class <u>covers  </u>: <ul><li>working of metallic materials;</li><li>working of non-metallic materials, provided that the methods applied are similar to those used in metal-working and not provided for elsewhere;</li><li>features, specific to machine tools, which relate to a requirement or problem of a nature which is not peculiar to a particular kind of machine tool, e.g. feeding work, which are covered by subclass <b>B23Q</b>, although the realisation of these features may differ according to the kind of machine tool concerned. The said subclass covers such features, in general, even if the feature or a specific function, in any particular case, is to some extent peculiar to, or is claimed only for, machine tools designed for one particular operation; only in exceptional cases are such features classified in the subclass for the machine tool concerned. Certain features of this general nature are, however, referred to subclasses relating to particular metal-working operations, especially <b>B23B</b>, in which case the subclasses in question are not restricted, in respect of those features, to the kind of machine tool with which they are primarily concerned.</li></ul></li><li>In this class, the following terms or expressions are used with the meanings indicated: <ul><li>\"kind of operations\" and similar expressions relate to such metal-working operations as boring, drilling, milling and grinding;</li><li>\"kind of machine\" means a machine designed for a particular kind of metal-working operation (e.g. a lathe);</li><li>\"form of machine\" means a machine of a particular kind adapted or arranged for a particular way of working or for particular work, e.g. face-plate lathe, tailstock lathe, turret lathe;</li><li>\"different machines\" covers different forms of machines for performing the same type of metal-working operation, e.g. vertical and horizontal boring machines.</li></ul></li><li>If details, components, or accessories have no essential feature specific to machine tools, the more general class, e.g. <b>F16</b>, takes precedence.</li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B": {
+      "code": "B",
+      "level": 0,
+      "parent": null,
+      "ja": "処理操作；運輸",
+      "en": "PERFORMING OPERATIONS; TRANSPORTING",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B23F1/00": {
+      "code": "B23F1/00",
+      "level": 0,
+      "parent": "B23F",
+      "ja": "要求された歯形と同形の工具による歯の製造（曲り歯を製造するのに特に適したものＢ２３Ｆ９／００）",
+      "en": "Making gear teeth by tools of which the profile matches the profile of the required surface(special adaptations for making curved teeth <b>B23F9/00</b>)",
+      "count": 270,
+      "sourceFile": "ipc_B23F.txt",
+      "kind": "ipc"
+    },
+    "B23F1/02": {
+      "code": "B23F1/02",
+      "level": 1,
+      "parent": "B23F1/00",
+      "ja": "研削によるもの",
+      "en": "by grinding",
+      "count": 596,
+      "sourceFile": "ipc_B23F.txt",
+      "kind": "ipc"
+    },
+    "B23F1/04": {
+      "code": "B23F1/04",
+      "level": 1,
+      "parent": "B23F1/00",
+      "ja": "平削りまたは立削りによるもの",
+      "en": "by planing or slotting",
+      "count": 442,
+      "sourceFile": "ipc_B23F.txt",
+      "kind": "ipc"
+    },
+    "B23F1/06": {
+      "code": "B23F1/06",
+      "level": 1,
+      "parent": "B23F1/00",
+      "ja": "フライス削りによるもの",
+      "en": "by milling",
+      "count": 638,
+      "sourceFile": "ipc_B23F.txt",
+      "kind": "ipc"
+    },
+    "B23F1/08": {
+      "code": "B23F1/08",
+      "level": 1,
+      "parent": "B23F1/00",
+      "ja": "ブローチ削りによるもの；ブローチミーリングによるもの",
+      "en": "by broaching; by broach-milling",
+      "count": 245,
+      "sourceFile": "ipc_B23F.txt",
+      "kind": "ipc"
+    },
+    "B23F3/00": {
+      "code": "B23F3/00",
+      "level": 0,
+      "parent": "B23F",
+      "ja": "要求された歯形またはその一部分の形状と同形状の型板によって制御される倣い作業，または異なった寸法での倣い作業を含む歯の製造（倣い方法または倣い装置それ自体Ｂ２３Ｑ３５／００）",
+      "en": "Making gear teeth involving copying operations controlled by templates having a profile which matches that of the required tooth face or part thereof or a copy thereof to a different scale(copying systems or devices <u>per se</u><b>B23Q35/00</b>)",
+      "count": 168,
+      "sourceFile": "ipc_B23F.txt",
+      "kind": "ipc"
+    },
+    "B23F5/00": {
+      "code": "B23F5/00",
+      "level": 0,
+      "parent": "B23F",
+      "ja": "製造されるべき歯に対する工作物のローリングオフ運動または包絡運動に連動して工具を移動させる直歯の製造",
+      "en": "Making straight gear teeth involving moving a tool relatively to a workpiece with a rolling-off or an enveloping motion with respect to the gear teeth to be made",
+      "count": 751,
+      "sourceFile": "ipc_B23F.txt",
+      "kind": "ipc"
+    },
+    "B23F5/02": {
+      "code": "B23F5/02",
+      "level": 1,
+      "parent": "B23F5/00",
+      "ja": "研削によるもの",
+      "en": "by grinding",
+      "count": 1162,
+      "sourceFile": "ipc_B23F.txt",
+      "kind": "ipc"
+    },
+    "B23F5/04": {
+      "code": "B23F5/04",
+      "level": 2,
+      "parent": "B23F5/02",
+      "ja": "ウオーム形の研削工具を用いるもの",
+      "en": "the tool being a grinding worm",
+      "count": 487,
+      "sourceFile": "ipc_B23F.txt",
+      "kind": "ipc"
+    },
+    "B23F5/06": {
+      "code": "B23F5/06",
+      "level": 2,
+      "parent": "B23F5/02",
+      "ja": "皿形の研削工具を用いるもの",
+      "en": "the tool being a grinding disc with a plane front surface",
+      "count": 284,
+      "sourceFile": "ipc_B23F.txt",
+      "kind": "ipc"
+    },
+    "B23F5/08": {
+      "code": "B23F5/08",
+      "level": 2,
+      "parent": "B23F5/02",
+      "ja": "ラックの歯形と同じ断面形状を持つ円板状の研削工具を用いるもの",
+      "en": "the tool being a grinding disc having the same profile as the tooth or teeth of a rack",
+      "count": 206,
+      "sourceFile": "ipc_B23F.txt",
+      "kind": "ipc"
+    },
+    "B23F5/10": {
+      "code": "B23F5/10",
+      "level": 2,
+      "parent": "B23F5/02",
+      "ja": "冠歯車または傘歯車の歯形と同じ断面形状をもつ円板状の研削工具を用いるもの",
+      "en": "the tool being a grinding disc having the same profile as the tooth or teeth of a crown or bevel wheel",
+      "count": 31,
+      "sourceFile": "ipc_B23F.txt",
+      "kind": "ipc"
+    },
+    "B23F5/12": {
+      "code": "B23F5/12",
+      "level": 1,
+      "parent": "B23F5/00",
+      "ja": "平削りまたは立削りによるもの",
+      "en": "by planing or slotting",
+      "count": 1023,
+      "sourceFile": "ipc_B23F.txt",
+      "kind": "ipc"
+    },
+    "B23F5/14": {
+      "code": "B23F5/14",
+      "level": 2,
+      "parent": "B23F5/12",
+      "ja": "ラックカッターを用いるもの",
+      "en": "the tool having the same profile as a tooth or teeth of a rack",
+      "count": 206,
+      "sourceFile": "ipc_B23F.txt",
+      "kind": "ipc"
+    },
+    "B23F5/16": {
+      "code": "B23F5/16",
+      "level": 2,
+      "parent": "B23F5/12",
+      "ja": "平歯車または部分歯車形の切削工具を用いるもの",
+      "en": "the tool having a shape similar to that of a spur wheel or part thereof",
+      "count": 718,
+      "sourceFile": "ipc_B23F.txt",
+      "kind": "ipc"
+    },
+    "B23F5/18": {
+      "code": "B23F5/18",
+      "level": 2,
+      "parent": "B23F5/12",
+      "ja": "冠歯車の歯形と同形状の切削工具を用いるもの",
+      "en": "the tool having the same profile as a tooth of a crown wheel",
+      "count": 12,
+      "sourceFile": "ipc_B23F.txt",
+      "kind": "ipc"
+    },
+    "B23F5/20": {
+      "code": "B23F5/20",
+      "level": 1,
+      "parent": "B23F5/00",
+      "ja": "フライス削りによるもの",
+      "en": "by milling",
+      "count": 1836,
+      "sourceFile": "ipc_B23F.txt",
+      "kind": "ipc"
+    },
+    "B23F5/22": {
+      "code": "B23F5/22",
+      "level": 2,
+      "parent": "B23F5/20",
+      "ja": "平歯車製造用ホブを用いるもの",
+      "en": "the tool being a hob for making spur gears",
+      "count": 730,
+      "sourceFile": "ipc_B23F.txt",
+      "kind": "ipc"
+    },
+    "B23F5/24": {
+      "code": "B23F5/24",
+      "level": 2,
+      "parent": "B23F5/20",
+      "ja": "傘歯車製造用ホブを用いるもの",
+      "en": "the tool being a hob for making bevel gears",
+      "count": 117,
+      "sourceFile": "ipc_B23F.txt",
+      "kind": "ipc"
+    },
+    "B23F5/26": {
+      "code": "B23F5/26",
+      "level": 2,
+      "parent": "B23F5/20",
+      "ja": "ラック形断面形状を持つフライスを用いるもの",
+      "en": "the tool having the same profile as a tooth or teeth of a rack, for making spur gears",
+      "count": 47,
+      "sourceFile": "ipc_B23F.txt",
+      "kind": "ipc"
+    },
+    "B23F5/27": {
+      "code": "B23F5/27",
+      "level": 2,
+      "parent": "B23F5/20",
+      "ja": "冠歯車または傘歯車の歯形と同じ断面形状をもつ切削工具を用いるもの［２］",
+      "en": "the tool having the same profile as a tooth or teeth of a crown or bevel wheel",
+      "count": 19,
+      "sourceFile": "ipc_B23F.txt",
+      "kind": "ipc"
+    },
+    "B23F5/28": {
+      "code": "B23F5/28",
+      "level": 1,
+      "parent": "B23F5/00",
+      "ja": "ブローチ削りによるもの；ブローチミーリングによるもの",
+      "en": "by broaching; by broach-milling",
+      "count": 129,
+      "sourceFile": "ipc_B23F.txt",
+      "kind": "ipc"
+    },
+    "B23F7/00": {
+      "code": "B23F7/00",
+      "level": 0,
+      "parent": "B23F",
+      "ja": "山歯歯車の歯の製造",
+      "en": "Making herring-bone gear teeth",
+      "count": 180,
+      "sourceFile": "ipc_B23F.txt",
+      "kind": "ipc"
+    },
+    "B23F9/00": {
+      "code": "B23F9/00",
+      "level": 0,
+      "parent": "B23F",
+      "ja": "長手方向に曲った歯を持つ歯車の製造",
+      "en": "Making gears having teeth curved in their longitudinal direction",
+      "count": 362,
+      "sourceFile": "ipc_B23F.txt",
+      "kind": "ipc"
+    },
+    "B23F9/02": {
+      "code": "B23F9/02",
+      "level": 1,
+      "parent": "B23F9/00",
+      "ja": "研削によるもの",
+      "en": "by grinding",
+      "count": 384,
+      "sourceFile": "ipc_B23F.txt",
+      "kind": "ipc"
+    },
+    "B23F9/04": {
+      "code": "B23F9/04",
+      "level": 1,
+      "parent": "B23F9/00",
+      "ja": "切削工具を往復動させる平削りまたは立削りによるもの",
+      "en": "by planing or slotting with reciprocating cutting tools",
+      "count": 99,
+      "sourceFile": "ipc_B23F.txt",
+      "kind": "ipc"
+    },
+    "B23F9/06": {
+      "code": "B23F9/06",
+      "level": 2,
+      "parent": "B23F9/04",
+      "ja": "平歯車または部分歯車形の切削工具を用いるもの",
+      "en": "having a shape similar to a spur wheel of part thereof",
+      "count": 42,
+      "sourceFile": "ipc_B23F.txt",
+      "kind": "ipc"
+    },
+    "B23F9/07": {
+      "code": "B23F9/07",
+      "level": 2,
+      "parent": "B23F9/04",
+      "ja": "冠歯車またはその一部分と類似の形状を有するもの［２］",
+      "en": "having a shape similar to a crown wheel or a part thereof",
+      "count": 5,
+      "sourceFile": "ipc_B23F.txt",
+      "kind": "ipc"
+    },
+    "B23F9/08": {
+      "code": "B23F9/08",
+      "level": 1,
+      "parent": "B23F9/00",
+      "ja": "フライス削りによるもの，例．ヘリコイダルホブによるもの",
+      "en": "by milling, e.g. with helicoidal hob",
+      "count": 550,
+      "sourceFile": "ipc_B23F.txt",
+      "kind": "ipc"
+    },
+    "B23F9/10": {
+      "code": "B23F9/10",
+      "level": 2,
+      "parent": "B23F9/08",
+      "ja": "正面フライスによるもの",
+      "en": "with a face-mill",
+      "count": 490,
+      "sourceFile": "ipc_B23F.txt",
+      "kind": "ipc"
+    },
+    "B23F9/12": {
+      "code": "B23F9/12",
+      "level": 3,
+      "parent": "B23F9/10",
+      "ja": "非連続的な創成加工用［２］",
+      "en": "for non-continuous generating processes",
+      "count": 55,
+      "sourceFile": "ipc_B23F.txt",
+      "kind": "ipc"
+    },
+    "B23F9/14": {
+      "code": "B23F9/14",
+      "level": 3,
+      "parent": "B23F9/10",
+      "ja": "連続的な創成加工用［２］",
+      "en": "for continuous generating processes",
+      "count": 56,
+      "sourceFile": "ipc_B23F.txt",
+      "kind": "ipc"
+    },
+    "B23F11/00": {
+      "code": "B23F11/00",
+      "level": 0,
+      "parent": "B23F",
+      "ja": "ウォームホイールの製造，例．ホブ切りによるもの",
+      "en": "Making worm wheels, e.g. by hobbing",
+      "count": 525,
+      "sourceFile": "ipc_B23F.txt",
+      "kind": "ipc"
+    },
+    "B23F13/00": {
+      "code": "B23F13/00",
+      "level": 0,
+      "parent": "B23F",
+      "ja": "歯切盤を使用しなければならないような方法によるウォームの製造（ネジ切りＢ２３Ｇ）",
+      "en": "Making worms by methods essentially requiring the use of machines of the gear-cutting type(making screw-thread <b>B23G</b>)",
+      "count": 348,
+      "sourceFile": "ipc_B23F.txt",
+      "kind": "ipc"
+    },
+    "B23F13/02": {
+      "code": "B23F13/02",
+      "level": 1,
+      "parent": "B23F13/00",
+      "ja": "円筒形ウォームの製造",
+      "en": "Making worms of cylindrical shape",
+      "count": 134,
+      "sourceFile": "ipc_B23F.txt",
+      "kind": "ipc"
+    },
+    "B23F13/04": {
+      "code": "B23F13/04",
+      "level": 2,
+      "parent": "B23F13/02",
+      "ja": "研削によるもの",
+      "en": "by grinding",
+      "count": 135,
+      "sourceFile": "ipc_B23F.txt",
+      "kind": "ipc"
+    },
+    "B23F13/06": {
+      "code": "B23F13/06",
+      "level": 1,
+      "parent": "B23F13/00",
+      "ja": "鼓形ウォームの製造",
+      "en": "Making worms of globoidal shape",
+      "count": 147,
+      "sourceFile": "ipc_B23F.txt",
+      "kind": "ipc"
+    },
+    "B23F13/08": {
+      "code": "B23F13/08",
+      "level": 2,
+      "parent": "B23F13/06",
+      "ja": "研削によるもの",
+      "en": "by grinding",
+      "count": 60,
+      "sourceFile": "ipc_B23F.txt",
+      "kind": "ipc"
+    },
+    "B23F15/00": {
+      "code": "B23F15/00",
+      "level": 0,
+      "parent": "B23F",
+      "ja": "Ｂ２３Ｆ７／００～Ｂ２３Ｆ１３／００に含まれない特殊歯車の製造方法または装置",
+      "en": "Methods or machines for making gear wheels of special kinds, not covered by groups <b>B23F7/00 to B23F13/00</b> ",
+      "count": 534,
+      "sourceFile": "ipc_B23F.txt",
+      "kind": "ipc"
+    },
+    "B23F15/02": {
+      "code": "B23F15/02",
+      "level": 1,
+      "parent": "B23F15/00",
+      "ja": "作用半径の変動するホイール周面の歯切り，例．楕円ホイール周面",
+      "en": "Making gear teeth on wheels of varying radius of operation, e.g. on elliptical wheels",
+      "count": 119,
+      "sourceFile": "ipc_B23F.txt",
+      "kind": "ipc"
+    },
+    "B23F15/04": {
+      "code": "B23F15/04",
+      "level": 1,
+      "parent": "B23F15/00",
+      "ja": "特殊な機械加工法による時計用ホィールまたは類似したものの周面の小ピッチ歯切り",
+      "en": "Making fine-pitch gear teeth on clock wheels or the like by special machining",
+      "count": 19,
+      "sourceFile": "ipc_B23F.txt",
+      "kind": "ipc"
+    },
+    "B23F15/06": {
+      "code": "B23F15/06",
+      "level": 1,
+      "parent": "B23F15/00",
+      "ja": "ホィール正面の歯切り，例．歯面を持つクラッチまたは接手のためのもの",
+      "en": "Making gear teeth on the front surface of wheels, e.g. for clutches or couplings with toothed faces",
+      "count": 247,
+      "sourceFile": "ipc_B23F.txt",
+      "kind": "ipc"
+    },
+    "B23F15/08": {
+      "code": "B23F15/08",
+      "level": 1,
+      "parent": "B23F15/00",
+      "ja": "かみ合いローターの製造",
+      "en": "Making intermeshing rotors, e.g. of pumps",
+      "count": 137,
+      "sourceFile": "ipc_B23F.txt",
+      "kind": "ipc"
+    },
+    "B23F17/00": {
+      "code": "B23F17/00",
+      "level": 0,
+      "parent": "B23F",
+      "ja": "グループＢ２３Ｆ１／００～Ｂ２３Ｆ１５／００に含まれない歯を製造するための特殊な方法または装置",
+      "en": "Special methods or machines for making gear teeth, not covered by groups <b>B23F1/00 to B23F15/00</b> ",
+      "count": 1182,
+      "sourceFile": "ipc_B23F.txt",
+      "kind": "ipc"
+    },
+    "B23F19/00": {
+      "code": "B23F19/00",
+      "level": 0,
+      "parent": "B23F",
+      "ja": "歯を製造するために使用される工具とは別の工具による歯の仕上げ",
+      "en": "Finishing gear teeth by other tools than those used for manufacturing gear teeth",
+      "count": 2433,
+      "sourceFile": "ipc_B23F.txt",
+      "kind": "ipc"
+    },
+    "B23F19/02": {
+      "code": "B23F19/02",
+      "level": 1,
+      "parent": "B23F19/00",
+      "ja": "歯のラッピング加工",
+      "en": "Lapping gear teeth",
+      "count": 1076,
+      "sourceFile": "ipc_B23F.txt",
+      "kind": "ipc"
+    },
+    "B23F19/04": {
+      "code": "B23F19/04",
+      "level": 2,
+      "parent": "B23F19/02",
+      "ja": "対応して形作られた噛み合う相手の利用による平歯車のラッピング加工",
+      "en": "Lapping spur gears by making use of a correspondingly shaped counterpart",
+      "count": 256,
+      "sourceFile": "ipc_B23F.txt",
+      "kind": "ipc"
+    },
+    "B23F19/05": {
+      "code": "B23F19/05",
+      "level": 1,
+      "parent": "B23F19/00",
+      "ja": "歯のホーニング加工［２］",
+      "en": "Honing gear teeth",
+      "count": 536,
+      "sourceFile": "ipc_B23F.txt",
+      "kind": "ipc"
+    },
+    "B23F19/06": {
+      "code": "B23F19/06",
+      "level": 1,
+      "parent": "B23F19/00",
+      "ja": "歯のシェービング加工",
+      "en": "Shaving the faces of gear teeth",
+      "count": 879,
+      "sourceFile": "ipc_B23F.txt",
+      "kind": "ipc"
+    },
+    "B23F19/10": {
+      "code": "B23F19/10",
+      "level": 1,
+      "parent": "B23F19/00",
+      "ja": "歯の端縁の面取り",
+      "en": "Chamfering the end edges of gear teeth",
+      "count": 1469,
+      "sourceFile": "ipc_B23F.txt",
+      "kind": "ipc"
+    },
+    "B23F19/12": {
+      "code": "B23F19/12",
+      "level": 2,
+      "parent": "B23F19/10",
+      "ja": "研削によるもの",
+      "en": "by grinding",
+      "count": 506,
+      "sourceFile": "ipc_B23F.txt",
+      "kind": "ipc"
+    },
+    "B23F21/00": {
+      "code": "B23F21/00",
+      "level": 0,
+      "parent": "B23F",
+      "ja": "歯切盤で使用するのに特に適した工具",
+      "en": "Tools specially adapted for use in machines for manufacturing gear teeth",
+      "count": 852,
+      "sourceFile": "ipc_B23F.txt",
+      "kind": "ipc"
+    },
+    "B23F21/02": {
+      "code": "B23F21/02",
+      "level": 1,
+      "parent": "B23F21/00",
+      "ja": "円板形の研削工具；ウォーム形の研削工具（研削工具の修正Ｂ２４Ｂ，研削工具一般Ｂ２４Ｄ）",
+      "en": "Grinding discs; Grinding worms(truing grinding tools <b>B24B</b>; grinding tools in general <b>B24D</b>)",
+      "count": 450,
+      "sourceFile": "ipc_B23F.txt",
+      "kind": "ipc"
+    },
+    "B23F21/03": {
+      "code": "B23F21/03",
+      "level": 1,
+      "parent": "B23F21/00",
+      "ja": "ホーニング工具［２］",
+      "en": "Honing tools",
+      "count": 342,
+      "sourceFile": "ipc_B23F.txt",
+      "kind": "ipc"
+    },
+    "B23F21/04": {
+      "code": "B23F21/04",
+      "level": 1,
+      "parent": "B23F21/00",
+      "ja": "平削りまたは立削り工具",
+      "en": "Planing or slotting tools",
+      "count": 303,
+      "sourceFile": "ipc_B23F.txt",
+      "kind": "ipc"
+    },
+    "B23F21/06": {
+      "code": "B23F21/06",
+      "level": 2,
+      "parent": "B23F21/04",
+      "ja": "歯車の歯形と同形状のもの",
+      "en": "having a profile which matches a gear tooth profile",
+      "count": 108,
+      "sourceFile": "ipc_B23F.txt",
+      "kind": "ipc"
+    },
+    "B23F21/08": {
+      "code": "B23F21/08",
+      "level": 2,
+      "parent": "B23F21/04",
+      "ja": "ラックの歯形と同形状のもの",
+      "en": "having the same profile as a tooth or teeth of a rack",
+      "count": 70,
+      "sourceFile": "ipc_B23F.txt",
+      "kind": "ipc"
+    },
+    "B23F21/10": {
+      "code": "B23F21/10",
+      "level": 2,
+      "parent": "B23F21/04",
+      "ja": "平歯車または部分歯車形のギヤシェーパーカッター",
+      "en": "Gear-shaper cutters having a shape similar to a spur wheel or part thereof",
+      "count": 386,
+      "sourceFile": "ipc_B23F.txt",
+      "kind": "ipc"
+    },
+    "B23F21/12": {
+      "code": "B23F21/12",
+      "level": 1,
+      "parent": "B23F21/00",
+      "ja": "フライス",
+      "en": "Milling tools",
+      "count": 586,
+      "sourceFile": "ipc_B23F.txt",
+      "kind": "ipc"
+    },
+    "B23F21/14": {
+      "code": "B23F21/14",
+      "level": 2,
+      "parent": "B23F21/12",
+      "ja": "円板形の総型フライス",
+      "en": "Profile cutters of disc type",
+      "count": 254,
+      "sourceFile": "ipc_B23F.txt",
+      "kind": "ipc"
+    },
+    "B23F21/16": {
+      "code": "B23F21/16",
+      "level": 2,
+      "parent": "B23F21/12",
+      "ja": "ホブ",
+      "en": "Hobs",
+      "count": 1698,
+      "sourceFile": "ipc_B23F.txt",
+      "kind": "ipc"
+    },
+    "B23F21/18": {
+      "code": "B23F21/18",
+      "level": 3,
+      "parent": "B23F21/16",
+      "ja": "テーパーホブ，例．傘歯車用",
+      "en": "Taper hobs, e.g. for bevel gears",
+      "count": 98,
+      "sourceFile": "ipc_B23F.txt",
+      "kind": "ipc"
+    },
+    "B23F21/20": {
+      "code": "B23F21/20",
+      "level": 2,
+      "parent": "B23F21/12",
+      "ja": "フライングカッター",
+      "en": "Fly cutters",
+      "count": 46,
+      "sourceFile": "ipc_B23F.txt",
+      "kind": "ipc"
+    },
+    "B23F21/22": {
+      "code": "B23F21/22",
+      "level": 2,
+      "parent": "B23F21/12",
+      "ja": "長手方向に曲った歯を削るための正面フライス",
+      "en": "Face-mills for longitudinally-curved gear teeth",
+      "count": 402,
+      "sourceFile": "ipc_B23F.txt",
+      "kind": "ipc"
+    },
+    "B23F21/23": {
+      "code": "B23F21/23",
+      "level": 3,
+      "parent": "B23F21/22",
+      "ja": "連続的な工程のために螺旋曲線上に配置された切断刃を有するもの［２］",
+      "en": "with cutter teeth arranged on a spiral curve for continuous generating processes",
+      "count": 46,
+      "sourceFile": "ipc_B23F.txt",
+      "kind": "ipc"
+    },
+    "B23F21/24": {
+      "code": "B23F21/24",
+      "level": 1,
+      "parent": "B23F21/00",
+      "ja": "ブローチミーリング用切削工具",
+      "en": "Broach-milling tools",
+      "count": 88,
+      "sourceFile": "ipc_B23F.txt",
+      "kind": "ipc"
+    },
+    "B23F21/26": {
+      "code": "B23F21/26",
+      "level": 1,
+      "parent": "B23F21/00",
+      "ja": "ブローチ",
+      "en": "Broaching tools",
+      "count": 346,
+      "sourceFile": "ipc_B23F.txt",
+      "kind": "ipc"
+    },
+    "B23F21/28": {
+      "code": "B23F21/28",
+      "level": 1,
+      "parent": "B23F21/00",
+      "ja": "シェービングカッター",
+      "en": "Shaving cutters",
+      "count": 604,
+      "sourceFile": "ipc_B23F.txt",
+      "kind": "ipc"
+    },
+    "B23F23/00": {
+      "code": "B23F23/00",
+      "level": 0,
+      "parent": "B23F",
+      "ja": "歯切盤と結合されるかまたは組み込まれる付属品または装置，または歯切盤の一部を形成するために特に考案された付属品または装置（歯切り装置に制限されない付属品または装置Ｂ２３Ｑ）［２００６．０１］",
+      "en": "Accessories or equipment combined with or arranged in, or specially designed to form part of, gear-cutting machines(accessories or equipment not restricted to gear-cutting machines <b>B23Q</b>)",
+      "count": 5702,
+      "sourceFile": "ipc_B23F.txt",
+      "kind": "ipc"
+    },
+    "B23F23/02": {
+      "code": "B23F23/02",
+      "level": 1,
+      "parent": "B23F23/00",
+      "ja": "工作物用の供給または把持装置",
+      "en": "Loading or chucking arrangements for workpieces",
+      "count": 540,
+      "sourceFile": "ipc_B23F.txt",
+      "kind": "ipc"
+    },
+    "B23F23/04": {
+      "code": "B23F23/04",
+      "level": 2,
+      "parent": "B23F23/02",
+      "ja": "供給装置",
+      "en": "Loading arrangements",
+      "count": 962,
+      "sourceFile": "ipc_B23F.txt",
+      "kind": "ipc"
+    },
+    "B23F23/06": {
+      "code": "B23F23/06",
+      "level": 2,
+      "parent": "B23F23/02",
+      "ja": "把持装置",
+      "en": "Chucking arrangements",
+      "count": 8112,
+      "sourceFile": "ipc_B23F.txt",
+      "kind": "ipc"
+    },
+    "B23F23/08": {
+      "code": "B23F23/08",
+      "level": 1,
+      "parent": "B23F23/00",
+      "ja": "割出し機構",
+      "en": "Index mechanisms",
+      "count": 814,
+      "sourceFile": "ipc_B23F.txt",
+      "kind": "ipc"
+    },
+    "B23F23/10": {
+      "code": "B23F23/10",
+      "level": 1,
+      "parent": "B23F23/00",
+      "ja": "動力伝達または割出し機構中の不規則性を補償するための装置",
+      "en": "Arrangements for compensating irregularities in drives or indexing mechanisms",
+      "count": 415,
+      "sourceFile": "ipc_B23F.txt",
+      "kind": "ipc"
+    },
+    "B23F23/12": {
+      "code": "B23F23/12",
+      "level": 1,
+      "parent": "B23F23/00",
+      "ja": "其の他の装置，例．工具ホルダ；歯切り装置中での工作物を制御するための検査装置",
+      "en": "Other devices, e.g. tool holders; Checking devices for controlling workpieces in machines for manufacturing gear teeth",
+      "count": 4173,
+      "sourceFile": "ipc_B23F.txt",
+      "kind": "ipc"
+    }
+  }
+}

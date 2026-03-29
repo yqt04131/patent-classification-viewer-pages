@@ -1,0 +1,2666 @@
+window.IPC_SHARD_A47C = {
+  "generatedAt": "2026-03-20T02:17:45.923Z",
+  "total": 266,
+  "entries": {
+    "A47C": {
+      "code": "A47C",
+      "level": 0,
+      "parent": "A47",
+      "ja": "いす；ソファー；寝台<br><br><b><ul>サブクラス内の索引</ul></b><br>腰掛用家具<br>一般構造　３／００，１１／００<br>特殊材質によるいす　５／００<br>折りたたみまたは折り重ねができるいす　４／００<br>特殊用途のいす　１／００，９／００，１１／００<br>ステップストゥール，転換できるいす，他の腰掛用家具　１２／００～１５／００<br>細部または付属具　７／００，１６／００<br>ソファ，カウチ，ベッド<br>一般構造　１７／００，１９／００<br>細部；付属具　１９／００，２０／００，２３／００；２１／００<br>腰掛用家具および寝台に共通な細部または付属具　２５／００～３１／００",
+      "en": "CHAIRS; SOFAS; BEDS; <br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">SEATING FURNITURE<tr><td width=\"70%\">General structure </td><td><b><b>3/00</b>, <b>11/00</b></b></td></tr></tr><tr><td width=\"70%\">Chairs of special materials </td><td><b><b>5/00</b></b></td></tr></tr><tr><td width=\"70%\">Folding or collapsible chairs </td><td><b><b>4/00</b></b></td></tr></tr><tr><td width=\"70%\">For special uses </td><td><b><b>1/00</b>, <b>9/00</b>, <b>11/00</b></b></td></tr></tr><tr><td width=\"70%\">Step-stools, convertible chairs, other seating furniture </td><td><b><b>12/00 to 15/00</b> </b></td></tr></tr><tr><td width=\"70%\">Details or accessories </td><td><b><b>7/00</b>, <b>16/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">SOFAS, COUCHES, BEDS<tr><td width=\"70%\">General structure </td><td><b><b>17/00</b>, <b>19/00</b></b></td></tr></tr><tr><td width=\"70%\">Details; accessories </td><td><b><b>19/00</b>, <b>20/00</b>, <b>23/00</b>; <b>21/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">DETAILS OR ACCESSORIES COMMON TO SEATING FURNITURE AND BEDS </td><td><b><b>23/00 to 31/00</b> </b></td></tr></tr></table>",
+      "count": 7993,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A47": {
+      "code": "A47",
+      "level": 0,
+      "parent": "A",
+      "ja": "家具；家庭用品または家庭用設備；コーヒーひき；香辛料ひき；真空掃除機一般<br><br><b><ul>注</ul></b><br>このクラスにおいては，下記の用語は以下に示す意味で用いる：<br>―“家具”はイーゼルまたはスタンド，例．黒板用または製図テーブル，をも包含する。",
+      "en": "FURNITURE; DOMESTIC ARTICLES OR APPLIANCES; COFFEE MILLS; SPICE MILLS; SUCTION CLEANERS IN GENERAL; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this class, the following term is used with the meaning indicated:<ul><li>\"furniture\" covers also easels or stands, e.g. for blackboards or drawing tables.</li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A": {
+      "code": "A",
+      "level": 0,
+      "parent": null,
+      "ja": "生活必需品",
+      "en": "HUMAN NECESSITIES",
+      "count": 0,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A47C1/00": {
+      "code": "A47C1/00",
+      "level": 0,
+      "parent": "A47C",
+      "ja": "特殊目的に適用するいす（病人または身体障害者に特に適したいすまたは個人輸送手段，例．車いすＡ６１Ｇ５／００；治療用いすまたは歯科用いすＡ６１Ｇ１５／００）［２００６．０１］",
+      "en": "Chairs adapted for special purposes (chairs or personal conveyances specially adapted for patients or disabled persons, e.g. wheelchairs, <b>A61G5/00</b>;  operating chairs or dental chairs <b>A61G15/00</b>)",
+      "count": 8770,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C1/02": {
+      "code": "A47C1/02",
+      "level": 1,
+      "parent": "A47C1/00",
+      "ja": "リクライニングまたは安楽いす［２００６．０１］",
+      "en": "Reclining or easy chairs",
+      "count": 2894,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C1/022": {
+      "code": "A47C1/022",
+      "level": 2,
+      "parent": "A47C1/02",
+      "ja": "独立に調整可能な支持部分を持つもの",
+      "en": "having independently-adjustable supporting parts",
+      "count": 1846,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C1/023": {
+      "code": "A47C1/023",
+      "level": 3,
+      "parent": "A47C1/022",
+      "ja": "支持部分が水平調節可能な座席（シート）であるもの",
+      "en": "the parts being horizontally-adjustable seats",
+      "count": 1398,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C1/024": {
+      "code": "A47C1/024",
+      "level": 3,
+      "parent": "A47C1/022",
+      "ja": "支持部分が傾動調節可能な背もたれまたは背もたれと座席（シート）ユニットであるもの",
+      "en": "the parts, being the back-rest, or the back-rest and seat unit, having adjustable inclination",
+      "count": 8350,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C1/025": {
+      "code": "A47C1/025",
+      "level": 4,
+      "parent": "A47C1/024",
+      "ja": "ラック・アンド・ピニオンまたは類似の連動機構によるもの",
+      "en": "by means of a rack-and-pinion or like gearing mechanism",
+      "count": 3366,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C1/026": {
+      "code": "A47C1/026",
+      "level": 4,
+      "parent": "A47C1/024",
+      "ja": "くぎと切欠きまたはつめとラチェットの機構によるもの",
+      "en": "by means of a peg-and-notch or pawl-and-ratchet mechanism",
+      "count": 1862,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C1/027": {
+      "code": "A47C1/027",
+      "level": 4,
+      "parent": "A47C1/024",
+      "ja": "締付けまたは摩擦ロック部材によるもの",
+      "en": "by means of clamps or friction locking members",
+      "count": 776,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C1/028": {
+      "code": "A47C1/028",
+      "level": 3,
+      "parent": "A47C1/022",
+      "ja": "直立いすを安楽いすに変えるもの",
+      "en": "for changing a straight chair into an easy chair",
+      "count": 518,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C1/029": {
+      "code": "A47C1/029",
+      "level": 4,
+      "parent": "A47C1/028",
+      "ja": "脚の長さまたは傾きを変えるもの",
+      "en": "by changing the length or the inclination of the legs",
+      "count": 186,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C1/03": {
+      "code": "A47C1/03",
+      "level": 3,
+      "parent": "A47C1/022",
+      "ja": "支持部分がアームレストであるもの",
+      "en": "the parts being arm-rests",
+      "count": 1393,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C1/031": {
+      "code": "A47C1/031",
+      "level": 2,
+      "parent": "A47C1/02",
+      "ja": "結合された調節可能な支持部分を持つもの",
+      "en": "having coupled adjustable supporting parts",
+      "count": 929,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C1/032": {
+      "code": "A47C1/032",
+      "level": 3,
+      "parent": "A47C1/031",
+      "ja": "支持部分が可動に結合された座席（シート）と背もたれであるもの（Ａ４７Ｃ１／０３５が優先）",
+      "en": "the parts being movably-coupled seat and back-rest(<b>A47C1/035</b> takes precedence)",
+      "count": 3948,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C1/033": {
+      "code": "A47C1/033",
+      "level": 4,
+      "parent": "A47C1/032",
+      "ja": "結合部材が可撓性片であるもの",
+      "en": "the coupling member being a flexible strip",
+      "count": 86,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C1/034": {
+      "code": "A47C1/034",
+      "level": 3,
+      "parent": "A47C1/031",
+      "ja": "支持部分がレッグレストまたはフートレストを含むもの（Ａ４７Ｃ１／０３７が優先）",
+      "en": "the parts including a leg-rest or foot-rest(<b>A47C1/037</b> takes precedence)",
+      "count": 1646,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C1/035": {
+      "code": "A47C1/035",
+      "level": 4,
+      "parent": "A47C1/034",
+      "ja": "可動に結合された座席（シート）と背もたれに組合されたもの",
+      "en": "in combination with movably-coupled seat and back-rest",
+      "count": 1675,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C1/0355": {
+      "code": "A47C1/0355",
+      "level": 5,
+      "parent": "A47C1/035",
+      "ja": "リンク機構，例．レージータング（ｌａｚｙｔｏｎｇｓ）機構，により操作されるもの［２０１３．０１］",
+      "en": "actuated by linkages, e.g. lazy-tongs mechanisms",
+      "count": 887,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C1/036": {
+      "code": "A47C1/036",
+      "level": 3,
+      "parent": "A47C1/031",
+      "ja": "支持部分がヘッドレストを含むもの",
+      "en": "the parts including a head-rest",
+      "count": 508,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C1/037": {
+      "code": "A47C1/037",
+      "level": 4,
+      "parent": "A47C1/036",
+      "ja": "レッグレストまたはフートレストとの組合せ",
+      "en": "the combination with a leg-rest or foot-rest",
+      "count": 296,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C1/04": {
+      "code": "A47C1/04",
+      "level": 1,
+      "parent": "A47C1/00",
+      "ja": "髪ゆいまたは類似のいす",
+      "en": "Hairdressers' or similar chairs",
+      "count": 543,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C1/06": {
+      "code": "A47C1/06",
+      "level": 2,
+      "parent": "A47C1/04",
+      "ja": "調節可能なもの",
+      "en": "adjustable",
+      "count": 922,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C1/08": {
+      "code": "A47C1/08",
+      "level": 2,
+      "parent": "A47C1/04",
+      "ja": "補助いす付［２００６．０１］",
+      "en": "with auxiliary seats",
+      "count": 374,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C1/10": {
+      "code": "A47C1/10",
+      "level": 2,
+      "parent": "A47C1/04",
+      "ja": "頭受台付；紙保持具付",
+      "en": "with head-rests; with paper holders",
+      "count": 512,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C1/11": {
+      "code": "A47C1/11",
+      "level": 2,
+      "parent": "A47C1/04",
+      "ja": "他類に属しない付属具，例．子供用いす",
+      "en": "Accessories not otherwise provided for, e.g. seats for children",
+      "count": 478,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C1/12": {
+      "code": "A47C1/12",
+      "level": 1,
+      "parent": "A47C1/00",
+      "ja": "劇場，講堂，または類似のいす（競技場のベンチに分離可能に取付けられるいすＡ４７Ｃ１／１６）［２００６．０１］",
+      "en": "Theatre, auditorium or similar chairs (detachable seats for mounting on stadium benches <b>A47C1/16</b>)",
+      "count": 2667,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C1/121": {
+      "code": "A47C1/121",
+      "level": 2,
+      "parent": "A47C1/12",
+      "ja": "上げ起すシートをもついす［３］",
+      "en": "having tipping-up seats",
+      "count": 1354,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C1/122": {
+      "code": "A47C1/122",
+      "level": 3,
+      "parent": "A47C1/121",
+      "ja": "横方向に上げ起すいす［３］",
+      "en": "tipping-up sideways",
+      "count": 63,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C1/124": {
+      "code": "A47C1/124",
+      "level": 2,
+      "parent": "A47C1/12",
+      "ja": "一列に連結できる分離いす",
+      "en": "Separate chairs, connectible together into a row",
+      "count": 1304,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C1/126": {
+      "code": "A47C1/126",
+      "level": 2,
+      "parent": "A47C1/12",
+      "ja": "床または壁に収容できるいす",
+      "en": "stowable in floor or wall",
+      "count": 703,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C1/13": {
+      "code": "A47C1/13",
+      "level": 2,
+      "parent": "A47C1/12",
+      "ja": "表示器；予約などのための装置",
+      "en": "Indicators; Devices for reserving or the like",
+      "count": 199,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C1/14": {
+      "code": "A47C1/14",
+      "level": 1,
+      "parent": "A47C1/00",
+      "ja": "海岸用いす",
+      "en": "Beach chairs",
+      "count": 2081,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C1/16": {
+      "code": "A47C1/16",
+      "level": 1,
+      "parent": "A47C1/00",
+      "ja": "競技場のベンチに分離可能に取付けられるいす［２００６．０１］",
+      "en": "Seats detachably mounted on stadium benches",
+      "count": 919,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C3/00": {
+      "code": "A47C3/00",
+      "level": 0,
+      "parent": "A47C",
+      "ja": "構造を特徴とするいす；回転または垂直に調節可能な座席をもついすまたは腰かけ（Ａ４７Ｃ１／００，Ａ４７Ｃ４／００が優先）",
+      "en": "Chairs characterised by structural features; Chairs or stools with rotatable or vertically-adjustable seats(<b>A47C1/00</b>, <b>A47C4/00</b> take precedence)",
+      "count": 7482,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C3/02": {
+      "code": "A47C3/02",
+      "level": 1,
+      "parent": "A47C3/00",
+      "ja": "揺動いす［２００６．０１］",
+      "en": "Rocking chairs",
+      "count": 3472,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C3/021": {
+      "code": "A47C3/021",
+      "level": 2,
+      "parent": "A47C3/02",
+      "ja": "弾力枠をもつもの",
+      "en": "having elastic frames",
+      "count": 382,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C3/023": {
+      "code": "A47C3/023",
+      "level": 3,
+      "parent": "A47C3/021",
+      "ja": "管材製",
+      "en": "made of tubular material",
+      "count": 301,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C3/025": {
+      "code": "A47C3/025",
+      "level": 2,
+      "parent": "A47C3/02",
+      "ja": "座部または座部と背もたれからなるユニットが固定枠に弾性的に取り付けられたもの",
+      "en": "with seat, or seat and back-rest unit, elastically mounted in a rigid frame",
+      "count": 1854,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C3/026": {
+      "code": "A47C3/026",
+      "level": 3,
+      "parent": "A47C3/025",
+      "ja": "中央円柱付，例．揺動オフィスいす；傾くいす",
+      "en": "with a central column, e.g. rocking office chairs; Tilting chairs",
+      "count": 2380,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C3/027": {
+      "code": "A47C3/027",
+      "level": 3,
+      "parent": "A47C3/025",
+      "ja": "座席と枠の間の曲った揺動部材付",
+      "en": "with curved rocking members between seat and frame",
+      "count": 472,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C3/029": {
+      "code": "A47C3/029",
+      "level": 2,
+      "parent": "A47C3/02",
+      "ja": "床上におく曲った揺動部材付",
+      "en": "with curved rocking members resting on the floor",
+      "count": 1483,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C3/03": {
+      "code": "A47C3/03",
+      "level": 2,
+      "parent": "A47C3/02",
+      "ja": "固定部材（Ａ４７Ｃ３／０２７が優先）",
+      "en": "Locking members(<b>A47C3/027</b> takes precedence)",
+      "count": 312,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C3/04": {
+      "code": "A47C3/04",
+      "level": 1,
+      "parent": "A47C3/00",
+      "ja": "積重いすまたは入子（いれこ）に組んだ一そろいのいす",
+      "en": "Stackable chairs or nesting chairs",
+      "count": 2052,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C3/12": {
+      "code": "A47C3/12",
+      "level": 1,
+      "parent": "A47C3/00",
+      "ja": "座部と背もたれからなるユニットが貝の形をしたもの，例．肘かけをもつもの",
+      "en": "with shell-shaped seat and back-rest unit, e.g. having arm-rests",
+      "count": 931,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C3/14": {
+      "code": "A47C3/14",
+      "level": 1,
+      "parent": "A47C3/00",
+      "ja": "非対称形いす",
+      "en": "of asymmetrical shape",
+      "count": 63,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C3/16": {
+      "code": "A47C3/16",
+      "level": 1,
+      "parent": "A47C3/00",
+      "ja": "脚のない形式のいす，例．直接床面におくいす（Ａ４７Ｃ３／１４が優先）；ひざぶとん；ふとん付きのいす［２００６．０１］",
+      "en": "of legless type, e.g. with seat directly resting on the floor(<b>A47C3/14</b> takes precedence);Hassocks; Pouffes",
+      "count": 4358,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C3/18": {
+      "code": "A47C3/18",
+      "level": 1,
+      "parent": "A47C3/00",
+      "ja": "回転座席を有するいすまたは腰かけ（回転により高さを調節するいすＡ４７Ｃ３／２４）",
+      "en": "Chairs or stools with rotatable seat(adjustable in height by rotation <b>A47C3/24</b>)",
+      "count": 5055,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C3/20": {
+      "code": "A47C3/20",
+      "level": 1,
+      "parent": "A47C3/00",
+      "ja": "垂直調節座席を有するいすまたは腰かけ［２００６．０１］",
+      "en": "Chairs or stools with vertically-adjustable seats",
+      "count": 5696,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C3/22": {
+      "code": "A47C3/22",
+      "level": 2,
+      "parent": "A47C3/20",
+      "ja": "バランス装置を有するもの，例．バネによるもの，重錘によるもの",
+      "en": "with balancing device, e.g. by spring, by weight",
+      "count": 622,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C3/24": {
+      "code": "A47C3/24",
+      "level": 2,
+      "parent": "A47C3/20",
+      "ja": "垂直軸を有するもの",
+      "en": "with vertical spindle",
+      "count": 2181,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C3/26": {
+      "code": "A47C3/26",
+      "level": 2,
+      "parent": "A47C3/20",
+      "ja": "垂直な歯付ラックを有するもの",
+      "en": "with vertical toothed rack",
+      "count": 355,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C3/28": {
+      "code": "A47C3/28",
+      "level": 2,
+      "parent": "A47C3/20",
+      "ja": "垂直棒上に作動するクランプを有するもの",
+      "en": "with clamps acting on vertical rods",
+      "count": 671,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C3/30": {
+      "code": "A47C3/30",
+      "level": 2,
+      "parent": "A47C3/20",
+      "ja": "垂直作動の流体シリンダ一を有するもの",
+      "en": "with vertically-acting fluid cylinder",
+      "count": 2842,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C3/32": {
+      "code": "A47C3/32",
+      "level": 2,
+      "parent": "A47C3/20",
+      "ja": "可撓性の高さ調節装置，例．ロープ，チェーン，を有するもの",
+      "en": "with flexible height-adjusting means, e.g. rope, chain",
+      "count": 129,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C3/34": {
+      "code": "A47C3/34",
+      "level": 2,
+      "parent": "A47C3/20",
+      "ja": "穴と共働するピンを有するもの",
+      "en": "with pins coacting with holes",
+      "count": 1269,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C3/36": {
+      "code": "A47C3/36",
+      "level": 2,
+      "parent": "A47C3/20",
+      "ja": "シートの高さを変えるためにいすまたは腰かけの脚部を傾斜させる装置を有しまたは適用したもの",
+      "en": "with means, or adapted, for inclining the legs of the chair or stool for varying height of seat",
+      "count": 765,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C3/38": {
+      "code": "A47C3/38",
+      "level": 2,
+      "parent": "A47C3/20",
+      "ja": "シートの高さを変えるための付加的なシートまたは付加的な脚部を有するもの",
+      "en": "with additional seat or additional legs for varying height of seat",
+      "count": 479,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C3/40": {
+      "code": "A47C3/40",
+      "level": 2,
+      "parent": "A47C3/20",
+      "ja": "伸縮自在のガイド",
+      "en": "Telescopic guides",
+      "count": 491,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C4/00": {
+      "code": "A47C4/00",
+      "level": 0,
+      "parent": "A47C",
+      "ja": "折りたたみ，折り重ねまたは分解可能ないす（金属管状形のものＡ４７Ｃ５／１０）［２００６．０１］",
+      "en": "Foldable, collapsible or dismountable chairs(of tubular metal type <b>A47C5/10</b>)",
+      "count": 5312,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C4/02": {
+      "code": "A47C4/02",
+      "level": 1,
+      "parent": "A47C4/00",
+      "ja": "分解可能ないす",
+      "en": "Dismountable chairs",
+      "count": 6769,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C4/03": {
+      "code": "A47C4/03",
+      "level": 2,
+      "parent": "A47C4/02",
+      "ja": "詰め物のない木製のいす［２］",
+      "en": "Non-upholstered wooden chairs",
+      "count": 492,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C4/04": {
+      "code": "A47C4/04",
+      "level": 1,
+      "parent": "A47C4/00",
+      "ja": "不撓性座席を有する折りたたみいす",
+      "en": "Folding chairs with inflexible seats",
+      "count": 4955,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C4/06": {
+      "code": "A47C4/06",
+      "level": 2,
+      "parent": "A47C4/04",
+      "ja": "フレームへの詰め物，布（革）張りまたは生地の取付け［２００６．０１］",
+      "en": "Attachment of upholstery or fabric to frames",
+      "count": 276,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C4/08": {
+      "code": "A47C4/08",
+      "level": 2,
+      "parent": "A47C4/04",
+      "ja": "木または合成樹脂製のフレームを有するもの",
+      "en": "having a frame made of wood or plastics",
+      "count": 348,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C4/10": {
+      "code": "A47C4/10",
+      "level": 3,
+      "parent": "A47C4/08",
+      "ja": "シートまたは下枠に回転可能に結合された脚部を有するもの",
+      "en": "with legs pivotably connected to seat or underframe",
+      "count": 454,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C4/12": {
+      "code": "A47C4/12",
+      "level": 4,
+      "parent": "A47C4/10",
+      "ja": "調節可能のもの（Ａ４７Ｃ４／１４が優先）",
+      "en": "of adjustable type(<b>A47C4/14</b> takes precedence)",
+      "count": 117,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C4/14": {
+      "code": "A47C4/14",
+      "level": 4,
+      "parent": "A47C4/10",
+      "ja": "交叉脚を有するもの",
+      "en": "with cross legs",
+      "count": 605,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C4/16": {
+      "code": "A47C4/16",
+      "level": 5,
+      "parent": "A47C4/14",
+      "ja": "調節可能のもの",
+      "en": "of adjustable type",
+      "count": 154,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C4/18": {
+      "code": "A47C4/18",
+      "level": 2,
+      "parent": "A47C4/04",
+      "ja": "金属製の枠を有するもの",
+      "en": "having a frame made of metal",
+      "count": 323,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C4/20": {
+      "code": "A47C4/20",
+      "level": 3,
+      "parent": "A47C4/18",
+      "ja": "シートまたは下枠に回転可能に結合された脚部を有するもの",
+      "en": "with legs pivotably connected to seat or underframe",
+      "count": 420,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C4/22": {
+      "code": "A47C4/22",
+      "level": 4,
+      "parent": "A47C4/20",
+      "ja": "調節可能のもの（Ａ４７Ｃ４／２４が優先）",
+      "en": "of adjustable type(<b>A47C4/24</b> takes precedence)",
+      "count": 133,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C4/24": {
+      "code": "A47C4/24",
+      "level": 4,
+      "parent": "A47C4/20",
+      "ja": "交叉脚を有するもの",
+      "en": "with cross legs",
+      "count": 571,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C4/26": {
+      "code": "A47C4/26",
+      "level": 5,
+      "parent": "A47C4/24",
+      "ja": "調節可能のもの",
+      "en": "of adjustable type",
+      "count": 120,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C4/28": {
+      "code": "A47C4/28",
+      "level": 1,
+      "parent": "A47C4/00",
+      "ja": "シートまたはバックシートの可撓性カバーを有する折りたたみいす",
+      "en": "Folding chairs with flexible coverings for the seat or back elements",
+      "count": 2597,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C4/30": {
+      "code": "A47C4/30",
+      "level": 2,
+      "parent": "A47C4/28",
+      "ja": "フレームへの詰め物，布（革）張りまたは生地の取付け［２００６．０１］",
+      "en": "Attachment of upholstery or fabric to frames",
+      "count": 1255,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C4/32": {
+      "code": "A47C4/32",
+      "level": 2,
+      "parent": "A47C4/28",
+      "ja": "木または合成樹脂製の枠をもつもの",
+      "en": "having a frame made of wood or plastics",
+      "count": 176,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C4/34": {
+      "code": "A47C4/34",
+      "level": 3,
+      "parent": "A47C4/32",
+      "ja": "シートまたは下枠に回転可能に結合された脚部を有するもの",
+      "en": "with legs pivotably connected to seat or underframe",
+      "count": 160,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C4/36": {
+      "code": "A47C4/36",
+      "level": 4,
+      "parent": "A47C4/34",
+      "ja": "調節可能のもの（Ａ４７Ｃ４／３８が優先）",
+      "en": "of adjustable type(<b>A47C4/38</b> takes precedence)",
+      "count": 89,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C4/38": {
+      "code": "A47C4/38",
+      "level": 4,
+      "parent": "A47C4/34",
+      "ja": "交叉脚を有するもの",
+      "en": "with cross legs",
+      "count": 265,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C4/40": {
+      "code": "A47C4/40",
+      "level": 5,
+      "parent": "A47C4/38",
+      "ja": "調節可能のもの",
+      "en": "of adjustable type",
+      "count": 413,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C4/42": {
+      "code": "A47C4/42",
+      "level": 2,
+      "parent": "A47C4/28",
+      "ja": "金属製の枠を有するもの",
+      "en": "having a frame made of metal",
+      "count": 473,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C4/44": {
+      "code": "A47C4/44",
+      "level": 3,
+      "parent": "A47C4/42",
+      "ja": "シートまたは下枠に回転可能に取り付けられた脚部を有するもの",
+      "en": "with legs pivotably connected to seat or underframe",
+      "count": 272,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C4/46": {
+      "code": "A47C4/46",
+      "level": 4,
+      "parent": "A47C4/44",
+      "ja": "調節可能なもの（Ａ４７Ｃ４／４８が優先）",
+      "en": "of adjustable type(<b>A47C4/48</b> takes precedence)",
+      "count": 147,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C4/48": {
+      "code": "A47C4/48",
+      "level": 4,
+      "parent": "A47C4/44",
+      "ja": "交叉脚を有するもの",
+      "en": "with cross legs",
+      "count": 453,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C4/50": {
+      "code": "A47C4/50",
+      "level": 5,
+      "parent": "A47C4/48",
+      "ja": "調節可能のもの",
+      "en": "of adjustable type",
+      "count": 235,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C4/52": {
+      "code": "A47C4/52",
+      "level": 1,
+      "parent": "A47C4/00",
+      "ja": "トランクいす，すなわちトランクの形に折り重ね可能ないす［２００６．０１］",
+      "en": "Trunk chairs, i.e. chairs collapsible to trunk shape",
+      "count": 676,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C4/54": {
+      "code": "A47C4/54",
+      "level": 1,
+      "parent": "A47C4/00",
+      "ja": "膨脹可能ないす［２００６．０１］",
+      "en": "Inflatable chairs",
+      "count": 1261,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C5/00": {
+      "code": "A47C5/00",
+      "level": 0,
+      "parent": "A47C",
+      "ja": "特殊材料のいす",
+      "en": "Chairs of special materials",
+      "count": 2819,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C5/02": {
+      "code": "A47C5/02",
+      "level": 1,
+      "parent": "A47C5/00",
+      "ja": "バスケットいす",
+      "en": "Basket chairs",
+      "count": 489,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C5/04": {
+      "code": "A47C5/04",
+      "level": 1,
+      "parent": "A47C5/00",
+      "ja": "金属いす，例．管状のもの（管材製の弾力枠をもつ揺動いすＡ４７Ｃ３／０２３）［２００６．０１］",
+      "en": "Metal chairs, e.g. tubular  (rocking chairs having elastic frames made of tubular material <b>A47C3/023</b>)",
+      "count": 1586,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C5/06": {
+      "code": "A47C5/06",
+      "level": 2,
+      "parent": "A47C5/04",
+      "ja": "パイプいすに座席の詰め物，布（革）張りや生地を取付けるための特別な方法を採用したもの",
+      "en": "Special adaptation of seat upholstery or fabric for attachment to tubular chairs",
+      "count": 1031,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C5/08": {
+      "code": "A47C5/08",
+      "level": 2,
+      "parent": "A47C5/04",
+      "ja": "被覆管を有する管状いす；それに対する被覆管の適用",
+      "en": "Tubular chairs having sheathed tubes; Adaptation of sheathed tubes thereto",
+      "count": 133,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C5/10": {
+      "code": "A47C5/10",
+      "level": 2,
+      "parent": "A47C5/04",
+      "ja": "折りたたみ，折り重ねまたは分解可能な管状いす",
+      "en": "Tubular chairs of foldable, collapsible, or dismountable type",
+      "count": 2077,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C5/12": {
+      "code": "A47C5/12",
+      "level": 1,
+      "parent": "A47C5/00",
+      "ja": "補強を有しまたは有しないプラスチック製のもの",
+      "en": "of plastics, with or without reinforcement",
+      "count": 1636,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C5/14": {
+      "code": "A47C5/14",
+      "level": 1,
+      "parent": "A47C5/00",
+      "ja": "木の薄片を積み重ねて使用したものに特徴を有するもの",
+      "en": "characterised by the use of laminated wood",
+      "count": 233,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C7/00": {
+      "code": "A47C7/00",
+      "level": 0,
+      "parent": "A47C",
+      "ja": "いすまたは腰かけの部品，細部または付属具［２００６．０１］",
+      "en": "Parts, details, or accessories of chairs or stools",
+      "count": 32183,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C7/02": {
+      "code": "A47C7/02",
+      "level": 1,
+      "parent": "A47C7/00",
+      "ja": "座部［２００６．０１］",
+      "en": "Seat parts",
+      "count": 17697,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C7/14": {
+      "code": "A47C7/14",
+      "level": 2,
+      "parent": "A47C7/02",
+      "ja": "調節可能な形状のもの；弾性的に取り付けられたもの",
+      "en": "of adjustable shape; elastically mounted",
+      "count": 5446,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C7/16": {
+      "code": "A47C7/16",
+      "level": 2,
+      "parent": "A47C7/02",
+      "ja": "木，プラスチック，または金属板材料で作られた座部；パネルシート",
+      "en": "Seats made of wooden, plastics, or metal sheet material; Panel seats",
+      "count": 1824,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C7/18": {
+      "code": "A47C7/18",
+      "level": 2,
+      "parent": "A47C7/02",
+      "ja": "クッションに含まれる発泡材を有するもの［２００６．０１］",
+      "en": "having foamed material included in cushioning part",
+      "count": 3767,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C7/20": {
+      "code": "A47C7/20",
+      "level": 3,
+      "parent": "A47C7/18",
+      "ja": "補強を有するもの",
+      "en": "with reinforcement",
+      "count": 568,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C7/22": {
+      "code": "A47C7/22",
+      "level": 2,
+      "parent": "A47C7/02",
+      "ja": "詰め物，布（革）張りを支えるための皮帯または類似物",
+      "en": "Straps or the like for carrying upholstery",
+      "count": 675,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C7/24": {
+      "code": "A47C7/24",
+      "level": 2,
+      "parent": "A47C7/02",
+      "ja": "詰め物，布（革）張りからなる座部（Ａ４７Ｃ７／１８が優先）",
+      "en": "Upholstered seats(<b>A47C7/18</b> takes precedence)",
+      "count": 2765,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C7/26": {
+      "code": "A47C7/26",
+      "level": 3,
+      "parent": "A47C7/24",
+      "ja": "補強を有するもの",
+      "en": "with reinforcement",
+      "count": 387,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C7/28": {
+      "code": "A47C7/28",
+      "level": 2,
+      "parent": "A47C7/02",
+      "ja": "張力スプリング，例．フラットスプリング，を有するもの",
+      "en": "with tensioned springs, e.g. of flat type",
+      "count": 1432,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C7/30": {
+      "code": "A47C7/30",
+      "level": 3,
+      "parent": "A47C7/28",
+      "ja": "平面上で曲折したスプリングを有するもの",
+      "en": "with springs meandering in a flat plane",
+      "count": 836,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C7/32": {
+      "code": "A47C7/32",
+      "level": 3,
+      "parent": "A47C7/28",
+      "ja": "平面上に張力コード，例．弾性コード，を有するもの",
+      "en": "with tensioned cords, e.g. of elastic type, in a flat plane",
+      "count": 616,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C7/34": {
+      "code": "A47C7/34",
+      "level": 2,
+      "parent": "A47C7/02",
+      "ja": "圧縮力をうけるスプリング，例．コイルスプリング，を有するもの",
+      "en": "with springs in compression, e.g. coiled",
+      "count": 1159,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C7/35": {
+      "code": "A47C7/35",
+      "level": 2,
+      "parent": "A47C7/02",
+      "ja": "異なる型のスプリングの組み合せ；調節可能なスプリング；他のスプリングまたは枠へのスプリングの連結［２］",
+      "en": "Combinations of different types of springs; Adjustable springs; Attachment of springs to other springs or to frame",
+      "count": 1032,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C7/36": {
+      "code": "A47C7/36",
+      "level": 1,
+      "parent": "A47C7/00",
+      "ja": "頭部または背中の支持［２００６．０１］",
+      "en": "Supports for the head or the back",
+      "count": 1249,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C7/38": {
+      "code": "A47C7/38",
+      "level": 2,
+      "parent": "A47C7/36",
+      "ja": "頭部の支持，例．取りはずし可能のもの",
+      "en": "for the head, e.g. detachable",
+      "count": 10582,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C7/40": {
+      "code": "A47C7/40",
+      "level": 2,
+      "parent": "A47C7/36",
+      "ja": "背中の支持",
+      "en": "for the back",
+      "count": 19868,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C7/42": {
+      "code": "A47C7/42",
+      "level": 3,
+      "parent": "A47C7/40",
+      "ja": "取りはずし可能なもの",
+      "en": "of detachable type",
+      "count": 3246,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C7/44": {
+      "code": "A47C7/44",
+      "level": 3,
+      "parent": "A47C7/40",
+      "ja": "弾性的に取りつけられた枠を有するもの",
+      "en": "with elastically-mounted frame",
+      "count": 2878,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C7/46": {
+      "code": "A47C7/46",
+      "level": 3,
+      "parent": "A47C7/40",
+      "ja": "特別な，例．調節可能な，形状のもの；“エッカーブロム”形のいす",
+      "en": "with special, e.g. adjustable, profile; \"Ackerblom\" profile chairs",
+      "count": 10033,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C7/48": {
+      "code": "A47C7/48",
+      "level": 3,
+      "parent": "A47C7/40",
+      "ja": "自由に回転できるもの",
+      "en": "of freely-rotatable type",
+      "count": 731,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C7/50": {
+      "code": "A47C7/50",
+      "level": 1,
+      "parent": "A47C7/00",
+      "ja": "足または脚部の支持（支持部分がレッグレストまたはフットレストを含む結合された調節可能な支持部分を持つリクライニングまたは安楽いすＡ４７Ｃ１／０３４，レッグレストまたはフットレストと組み合わされたヘッドレストを含む、結合された調節可能な支持部を有するリクライニングまたは安楽いすＡ４７Ｃ１／０３７）［２００６．０１］",
+      "en": "Supports for the feet or the legs  (reclining or easy chairs having coupled adjustable supporting parts including a leg-rest or foot-rest <b>A47C1/034</b>;  reclining or easy chairs having coupled adjustable supporting parts including a head-rest in combination with a leg-rest or foot-rest <b>A47C1/037</b>)",
+      "count": 8203,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C7/52": {
+      "code": "A47C7/52",
+      "level": 2,
+      "parent": "A47C7/50",
+      "ja": "取りはずし可能なもの",
+      "en": "of detachable type",
+      "count": 605,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C7/54": {
+      "code": "A47C7/54",
+      "level": 1,
+      "parent": "A47C7/00",
+      "ja": "腕の支持",
+      "en": "Supports for the arms",
+      "count": 12878,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C7/56": {
+      "code": "A47C7/56",
+      "level": 1,
+      "parent": "A47C7/00",
+      "ja": "はね上げ型いす，例．劇場用いす，の部品または細部",
+      "en": "Parts or details of tipping-up chairs, e.g. of theatre chairs",
+      "count": 1745,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C7/58": {
+      "code": "A47C7/58",
+      "level": 2,
+      "parent": "A47C7/56",
+      "ja": "蝶番，例．曲がった列にいすを取りつけるためのもの［２００６．０１］",
+      "en": "Hinges, e.g. for mounting chairs in a curved row",
+      "count": 441,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C7/60": {
+      "code": "A47C7/60",
+      "level": 2,
+      "parent": "A47C7/56",
+      "ja": "座の動きを制限するために錠または突出部を使用したもの",
+      "en": "Use of locks or ledges for limiting the seat movement",
+      "count": 317,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C7/62": {
+      "code": "A47C7/62",
+      "level": 1,
+      "parent": "A47C7/00",
+      "ja": "いすの付属物",
+      "en": "Accessories for chairs",
+      "count": 22105,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C7/64": {
+      "code": "A47C7/64",
+      "level": 2,
+      "parent": "A47C7/62",
+      "ja": "帽子または上衣かけ",
+      "en": "Hat or coat holders",
+      "count": 891,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C7/66": {
+      "code": "A47C7/66",
+      "level": 2,
+      "parent": "A47C7/62",
+      "ja": "風雨よけの装置",
+      "en": "Means to protect against weather",
+      "count": 2157,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C7/68": {
+      "code": "A47C7/68",
+      "level": 2,
+      "parent": "A47C7/62",
+      "ja": "アームレストテーブル",
+      "en": "Arm-rest tables",
+      "count": 1924,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C7/70": {
+      "code": "A47C7/70",
+      "level": 3,
+      "parent": "A47C7/68",
+      "ja": "折りたたみ可能のもの",
+      "en": "of foldable type",
+      "count": 1859,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C7/72": {
+      "code": "A47C7/72",
+      "level": 2,
+      "parent": "A47C7/62",
+      "ja": "ランプ，ラジオ，バー，電話，換気扇，冷暖房装置または類似物を結合するために適用するもの",
+      "en": "Adaptations for incorporating lamps, radio sets, bars, telephones, ventilation, heating or cooling arrangements or the like",
+      "count": 5475,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C7/74": {
+      "code": "A47C7/74",
+      "level": 3,
+      "parent": "A47C7/72",
+      "ja": "換気または冷暖房用のもの",
+      "en": "for ventilation, heating or cooling",
+      "count": 9249,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C9/00": {
+      "code": "A47C9/00",
+      "level": 0,
+      "parent": "A47C",
+      "ja": "特別な目的のための腰かけ［２００６．０１］",
+      "en": "Stools for specified purposes",
+      "count": 8942,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C9/02": {
+      "code": "A47C9/02",
+      "level": 1,
+      "parent": "A47C9/00",
+      "ja": "事務用腰かけ；仕事場用腰かけ",
+      "en": "Office stools; Workshop stools",
+      "count": 2350,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C9/04": {
+      "code": "A47C9/04",
+      "level": 1,
+      "parent": "A47C9/00",
+      "ja": "乳しぼり用腰かけ",
+      "en": "Milking stools",
+      "count": 74,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C9/06": {
+      "code": "A47C9/06",
+      "level": 1,
+      "parent": "A47C9/00",
+      "ja": "壁に備え付けられている腰かけ",
+      "en": "Wall stools",
+      "count": 811,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C9/08": {
+      "code": "A47C9/08",
+      "level": 1,
+      "parent": "A47C9/00",
+      "ja": "音楽用腰かけ",
+      "en": "Music stools",
+      "count": 639,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C9/10": {
+      "code": "A47C9/10",
+      "level": 1,
+      "parent": "A47C9/00",
+      "ja": "キャンプ，旅行，スポーツ用腰かけ",
+      "en": "Camp, travelling, or sports stools",
+      "count": 3848,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C11/00": {
+      "code": "A47C11/00",
+      "level": 0,
+      "parent": "A47C",
+      "ja": "他類に属しないベンチ［２００６．０１］",
+      "en": "Benches not otherwise provided for",
+      "count": 3096,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C11/02": {
+      "code": "A47C11/02",
+      "level": 1,
+      "parent": "A47C11/00",
+      "ja": "教会用ベンチ；ざんげ用ベンチ",
+      "en": "Church benches; Confessionals",
+      "count": 124,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C12/00": {
+      "code": "A47C12/00",
+      "level": 0,
+      "parent": "A47C",
+      "ja": "ステップストゥール［５］<br><br><b><ul>注</ul></b><br>踏み台と座席機能との間の転換とは別の，折りたたみまたは折り重ね作用はグループ４／００に分類する。［５］",
+      "en": "Step-stools; <br><br><b><u>Note(s)</u></b><br><br><ul><li>Folding or collapsing actions, of interest apart from any conversion between the step and seat functions, are classified in group <b>A47C4/00</b>. </li></ul>",
+      "count": 655,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C12/02": {
+      "code": "A47C12/02",
+      "level": 1,
+      "parent": "A47C12/00",
+      "ja": "踏み台と座席機能との間の転換を要するもの［５］",
+      "en": "requiring conversion between the step and seat functions",
+      "count": 925,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C13/00": {
+      "code": "A47C13/00",
+      "level": 0,
+      "parent": "A47C",
+      "ja": "転換可能ないす，腰掛けまたはベンチ（踏み台と座席機能との間の転換を要するステップストゥールＡ４７Ｃ１２／０２）［５］",
+      "en": "Convertible chairs, stools or benches(step-stools requiring conversion between the step and seat functions <b>A47C12/02</b>)",
+      "count": 6471,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C15/00": {
+      "code": "A47C15/00",
+      "level": 0,
+      "parent": "A47C",
+      "ja": "他の腰かけ用の家具［２００６．０１］",
+      "en": "Other seating furniture",
+      "count": 2194,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C16/00": {
+      "code": "A47C16/00",
+      "level": 0,
+      "parent": "A47C",
+      "ja": "足，脚，腕，背もしくは頭用の独立型の台または支持［２００６．０１］",
+      "en": "Stand-alone rests or supports for feet, legs, arms, back or head",
+      "count": 3977,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C16/02": {
+      "code": "A47C16/02",
+      "level": 1,
+      "parent": "A47C16/00",
+      "ja": "足台；足掛け台；脚台［２］",
+      "en": "Footstools; Foot-rests; Leg-rests",
+      "count": 1847,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C16/04": {
+      "code": "A47C16/04",
+      "level": 1,
+      "parent": "A47C16/00",
+      "ja": "祈り用ひざつき台；ひざをつくための台；ひざをつくための支持具［２００６．０１］",
+      "en": "Prayer stools; Kneeling stools; Kneeling supports",
+      "count": 307,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C17/00": {
+      "code": "A47C17/00",
+      "level": 0,
+      "parent": "A47C",
+      "ja": "ソファー；カウチ；ベッド［２００６．０１］",
+      "en": "Sofas; Couches; Beds",
+      "count": 7933,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C17/02": {
+      "code": "A47C17/02",
+      "level": 1,
+      "parent": "A47C17/00",
+      "ja": "可動部を有しないソファー，カウチ，背付長いすまたは類似物",
+      "en": "Sofas, couches, settees, or the like, without movable parts",
+      "count": 1787,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C17/04": {
+      "code": "A47C17/04",
+      "level": 1,
+      "parent": "A47C17/00",
+      "ja": "可動部を有するソファー，カウチ，背付長いすまたは類似物；チェアーベッド",
+      "en": "Sofas, couches, settees, or the like, with movable parts; Chair beds",
+      "count": 10177,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C17/12": {
+      "code": "A47C17/12",
+      "level": 2,
+      "parent": "A47C17/04",
+      "ja": "ひじかけを傾斜または拡張させることによってベッドに変えられるもの",
+      "en": "changeable to beds by tilting or extending the arm-rests",
+      "count": 506,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C17/13": {
+      "code": "A47C17/13",
+      "level": 2,
+      "parent": "A47C17/04",
+      "ja": "有効な部分を増加することによって，例．前方へ引き出すことによって，変えられるもの",
+      "en": "changeable by increasing the available part, e.g. by drawing forward",
+      "count": 3386,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C17/14": {
+      "code": "A47C17/14",
+      "level": 2,
+      "parent": "A47C17/04",
+      "ja": "部品のみを取りはずすことによりベッドに変えられるもの",
+      "en": "changeable to beds by removing parts only",
+      "count": 358,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C17/16": {
+      "code": "A47C17/16",
+      "level": 2,
+      "parent": "A47C17/04",
+      "ja": "背もたれを傾斜または回転させることによりベッドに変えられるもの",
+      "en": "changeable to beds by tilting or pivoting the back-rest",
+      "count": 3177,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C17/165": {
+      "code": "A47C17/165",
+      "level": 3,
+      "parent": "A47C17/16",
+      "ja": "前方に傾斜しうる背もたれを有するもの，例．バッククッション［２］",
+      "en": "with forward tiltable back-rest, e.g. back cushion",
+      "count": 634,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C17/17": {
+      "code": "A47C17/17",
+      "level": 3,
+      "parent": "A47C17/16",
+      "ja": "座席と背もたれが連動するもの［２］",
+      "en": "with coupled movement of back-rest and seat",
+      "count": 865,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C17/175": {
+      "code": "A47C17/175",
+      "level": 4,
+      "parent": "A47C17/17",
+      "ja": "傾斜または上昇する座席－背もたれの軸を有するもの［２］",
+      "en": "with tilting or lifting seat-back-rest pivot",
+      "count": 719,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C17/18": {
+      "code": "A47C17/18",
+      "level": 3,
+      "parent": "A47C17/16",
+      "ja": "およびひじかけを傾斜または回転させるもの",
+      "en": "and tilting or pivoting the arm-rest",
+      "count": 295,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C17/20": {
+      "code": "A47C17/20",
+      "level": 3,
+      "parent": "A47C17/16",
+      "ja": "予め隠された１つまたはそれ以上の補助部をあらわすことによるもの（Ａ４７Ｃ１７／２２が優先）",
+      "en": "thereby uncovering one or more auxiliary parts previously hidden(<b>A47C17/22</b> takes precedence)",
+      "count": 295,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C17/207": {
+      "code": "A47C17/207",
+      "level": 4,
+      "parent": "A47C17/20",
+      "ja": "重なった部分からなり，少なくとも一つの下方の部分が外面の部分として用いられる座席のクッションを有するもの［２］",
+      "en": "with seat cushion consisting of superposed parts, at least one lower part being used to form part of the surface",
+      "count": 707,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C17/213": {
+      "code": "A47C17/213",
+      "level": 4,
+      "parent": "A47C17/20",
+      "ja": "横になるために使う時，外面が座席の枠と背もたれの枠の一つの面からなるもの［２］",
+      "en": "the surface, when used for lying down, consisting of one side of the seat frame and the back-rest frame",
+      "count": 223,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C17/22": {
+      "code": "A47C17/22",
+      "level": 2,
+      "parent": "A47C17/04",
+      "ja": "予め隠されたマットレスまたは同様のベッド部をあらわす装置を有するもの",
+      "en": "with means for uncovering a previously hidden mattress or similar bed part",
+      "count": 1133,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C17/23": {
+      "code": "A47C17/23",
+      "level": 3,
+      "parent": "A47C17/22",
+      "ja": "横になる時の外面が部分的に座席の一つの面からなるもの［２］",
+      "en": "the lying down surface partly consisting of one side of the seat",
+      "count": 506,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C17/24": {
+      "code": "A47C17/24",
+      "level": 3,
+      "parent": "A47C17/22",
+      "ja": "水平軸に関し傾斜しうる唯一の可動部を有するもの",
+      "en": "with only one movable part being tiltable about a horizontal axis",
+      "count": 77,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C17/26": {
+      "code": "A47C17/26",
+      "level": 4,
+      "parent": "A47C17/24",
+      "ja": "裏返しに回転できるもの",
+      "en": "tiltable to an overturned position",
+      "count": 114,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C17/28": {
+      "code": "A47C17/28",
+      "level": 4,
+      "parent": "A47C17/24",
+      "ja": "傾斜軸上昇装置を有するもの",
+      "en": "having means to lift the tilting axis",
+      "count": 74,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C17/30": {
+      "code": "A47C17/30",
+      "level": 3,
+      "parent": "A47C17/22",
+      "ja": "２つまたはそれ以上の部分が垂直軸に関し回転可能なもの",
+      "en": "two or more parts being rotatable about a vertical axis",
+      "count": 77,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C17/32": {
+      "code": "A47C17/32",
+      "level": 2,
+      "parent": "A47C17/04",
+      "ja": "予め隠された第２マットレスまたは他のベッド部の伸長，回転，傾斜によってシングルベッドからダブルベッドへ変化するもの",
+      "en": "Changing a single bed into a double bed by extending, pivoting, or tilting a previously hidden second mattress or other bed part",
+      "count": 593,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C17/34": {
+      "code": "A47C17/34",
+      "level": 2,
+      "parent": "A47C17/04",
+      "ja": "ベッド形成のための座部，いす，カウチの接続",
+      "en": "Joining seats, chairs, or couches to form beds",
+      "count": 368,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C17/36": {
+      "code": "A47C17/36",
+      "level": 3,
+      "parent": "A47C17/34",
+      "ja": "コーナーカウチからダブルベッドへ変化するもの",
+      "en": "Changing corner couches into a double bed",
+      "count": 191,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C17/37": {
+      "code": "A47C17/37",
+      "level": 2,
+      "parent": "A47C17/04",
+      "ja": "座部またはいす以外の家具によりソファーまたは類似物からベッドへ変化するもの",
+      "en": "Changing sofas or the like into beds by means of furniture other than seats or chairs",
+      "count": 186,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C17/38": {
+      "code": "A47C17/38",
+      "level": 1,
+      "parent": "A47C17/00",
+      "ja": "壁に備え付けられたベッド",
+      "en": "Wall beds",
+      "count": 756,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C17/40": {
+      "code": "A47C17/40",
+      "level": 2,
+      "parent": "A47C17/38",
+      "ja": "バランス材，例．錘，スプリング，を有するもの",
+      "en": "having balancing members, e.g. weights, springs",
+      "count": 545,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C17/42": {
+      "code": "A47C17/42",
+      "level": 2,
+      "parent": "A47C17/38",
+      "ja": "床上の固定位置による，例．床に取り付けられた，支持脚を有するもの",
+      "en": "having supporting legs with fixed position on the floor, e.g. attached thereto",
+      "count": 113,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C17/44": {
+      "code": "A47C17/44",
+      "level": 3,
+      "parent": "A47C17/42",
+      "ja": "支持脚にベッドの着脱を容易にする装置を有するもの",
+      "en": "having means on the supporting legs facilitating the removal of the bed from its place",
+      "count": 72,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C17/46": {
+      "code": "A47C17/46",
+      "level": 2,
+      "parent": "A47C17/38",
+      "ja": "剛性のマットレス支持材に特徴のあるもの",
+      "en": "characterised by a rigid mattress-supporting member",
+      "count": 183,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C17/48": {
+      "code": "A47C17/48",
+      "level": 2,
+      "parent": "A47C17/38",
+      "ja": "２つまたはそれ以上の相対的可動部に特徴のあるもの",
+      "en": "characterised by two or more relatively-movable parts",
+      "count": 366,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C17/50": {
+      "code": "A47C17/50",
+      "level": 2,
+      "parent": "A47C17/38",
+      "ja": "形状に特徴のあるもの，例．壁に備えつけられた多段型ベッド",
+      "en": "characterised by their shape, e.g. multiple-wall beds",
+      "count": 234,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C17/52": {
+      "code": "A47C17/52",
+      "level": 1,
+      "parent": "A47C17/00",
+      "ja": "キャビネットベッド；テーブルベッドまたは同様のベッド；ワードローブベッド",
+      "en": "Cabinet beds; Table beds, or like beds; Wardrobe beds",
+      "count": 2105,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C17/54": {
+      "code": "A47C17/54",
+      "level": 2,
+      "parent": "A47C17/52",
+      "ja": "キャビネットまたは類似物がベッドにより傾くもの",
+      "en": "in which the cabinet or the like is tilted with the bed",
+      "count": 314,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C17/56": {
+      "code": "A47C17/56",
+      "level": 2,
+      "parent": "A47C17/52",
+      "ja": "水平及び垂直軸の双方の回りに回転可能なもの",
+      "en": "pivotable on both horizontal and vertical axis",
+      "count": 223,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C17/58": {
+      "code": "A47C17/58",
+      "level": 2,
+      "parent": "A47C17/52",
+      "ja": "伸長可能なマットレス支持を有するもの",
+      "en": "with extensible mattress support",
+      "count": 465,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C17/60": {
+      "code": "A47C17/60",
+      "level": 2,
+      "parent": "A47C17/52",
+      "ja": "ベッドになった状態でキャビネットの形状が本質的に変化するもの",
+      "en": "the cabinet being essentially changed in shape in sleeping position of the bed",
+      "count": 152,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C17/62": {
+      "code": "A47C17/62",
+      "level": 2,
+      "parent": "A47C17/52",
+      "ja": "テーブルベッド；撞球台ベッドまたは同様のベッド",
+      "en": "Table beds; Billiard table beds, or like beds",
+      "count": 849,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C17/64": {
+      "code": "A47C17/64",
+      "level": 1,
+      "parent": "A47C17/00",
+      "ja": "旅行用またはキャンプ用ベッド［２００６．０１］",
+      "en": "Travelling or camp beds(stretchers <b>A61G1/00</b>)",
+      "count": 1342,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C17/66": {
+      "code": "A47C17/66",
+      "level": 2,
+      "parent": "A47C17/64",
+      "ja": "特別に適用された人体支持面を有するもの",
+      "en": "having specially-adapted body-carrying surfaces",
+      "count": 269,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C17/68": {
+      "code": "A47C17/68",
+      "level": 2,
+      "parent": "A47C17/64",
+      "ja": "脚部のみ折りたたみ可能なもの",
+      "en": "only the legs being foldable",
+      "count": 230,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C17/70": {
+      "code": "A47C17/70",
+      "level": 2,
+      "parent": "A47C17/64",
+      "ja": "ベッド枠が水平軸に関し折りたたみ可能なもの",
+      "en": "the bed frame being foldable about a horizontal axis",
+      "count": 574,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C17/72": {
+      "code": "A47C17/72",
+      "level": 3,
+      "parent": "A47C17/70",
+      "ja": "交叉脚を有するもの（Ａ４７Ｃ１７／８２が優先）［２００６．０１］",
+      "en": "having cross legs(<b>A47C17/82</b> takes precedence)",
+      "count": 179,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C17/74": {
+      "code": "A47C17/74",
+      "level": 2,
+      "parent": "A47C17/64",
+      "ja": "ベッドが垂直軸に関し折りたたみ可能なもの",
+      "en": "the bed being foldable about a vertical axis",
+      "count": 96,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C17/76": {
+      "code": "A47C17/76",
+      "level": 2,
+      "parent": "A47C17/64",
+      "ja": "伸長可能な，例．入れ子式の，部分を有するもの",
+      "en": "having extensible, e.g. telescopic parts",
+      "count": 170,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C17/78": {
+      "code": "A47C17/78",
+      "level": 2,
+      "parent": "A47C17/64",
+      "ja": "応力コードによって形状を保つもの",
+      "en": "held in shape by stressed cords",
+      "count": 63,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C17/80": {
+      "code": "A47C17/80",
+      "level": 2,
+      "parent": "A47C17/64",
+      "ja": "車両内での使用または車両との結合に適したもの",
+      "en": "adapted to be used in or connected to vehicles",
+      "count": 936,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C17/82": {
+      "code": "A47C17/82",
+      "level": 2,
+      "parent": "A47C17/64",
+      "ja": "トランクベッド；旅行ケースまたは同様のベッド",
+      "en": "Trunk beds; Travelling-case or like beds",
+      "count": 294,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C17/84": {
+      "code": "A47C17/84",
+      "level": 1,
+      "parent": "A47C17/00",
+      "ja": "宙吊りベッド，例．天井から吊り下げられたもの（ハンモックＡ４５Ｆ３／２２）",
+      "en": "Suspended beds, e.g. suspended from ceiling(hammocks <b>A45F3/22</b>)",
+      "count": 909,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C17/86": {
+      "code": "A47C17/86",
+      "level": 1,
+      "parent": "A47C17/00",
+      "ja": "グループＡ４７Ｃ１７／０２－Ａ４７Ｃ１７／８４のうちのいずれの単一のグループでは完全に包含されないベッド，ソファー，カウチに特に適合する部品または細部［２００６．０１］",
+      "en": "Parts or details specially adapted for beds, sofas or couches not fully covered by any single one of groups <b>A47C17/02 to A47C17/84</b> ",
+      "count": 19745,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C19/00": {
+      "code": "A47C19/00",
+      "level": 0,
+      "parent": "A47C",
+      "ja": "ベッドステッド［２００６．０１］",
+      "en": "Bedsteads",
+      "count": 6369,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C19/02": {
+      "code": "A47C19/02",
+      "level": 1,
+      "parent": "A47C19/00",
+      "ja": "以下のサブグループの中で単一のグループでは完全に含めないベッドステッドの部品または細部，例．ベッドの横枠，柱",
+      "en": "Parts or details of bedsteads not fully covered in a single one of the following subgroups, e.g. bed rails, post rails",
+      "count": 12498,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C19/04": {
+      "code": "A47C19/04",
+      "level": 1,
+      "parent": "A47C19/00",
+      "ja": "伸長可能なベッドステッド，例．長さ，幅，高さの調節可能なもの",
+      "en": "Extensible bedsteads, e.g. with adjustment of length, width, height",
+      "count": 4135,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C19/12": {
+      "code": "A47C19/12",
+      "level": 1,
+      "parent": "A47C19/00",
+      "ja": "折りたたみ式ベッドステッド［２００６．０１］",
+      "en": "Folding bedsteads",
+      "count": 5886,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C19/14": {
+      "code": "A47C19/14",
+      "level": 2,
+      "parent": "A47C19/12",
+      "ja": "レージートングタイプのもの",
+      "en": "of the lazy-tongs type",
+      "count": 437,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C19/20": {
+      "code": "A47C19/20",
+      "level": 1,
+      "parent": "A47C19/00",
+      "ja": "多段形ベッドステッド；多段堆積形ベッドステッド［２００６．０１］",
+      "en": "Multi-stage bedsteads; Bedsteads stackable to multi-stage bedsteads",
+      "count": 2850,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C19/22": {
+      "code": "A47C19/22",
+      "level": 1,
+      "parent": "A47C19/00",
+      "ja": "ベッドステッドと他の家具または付属品，例．ベッド側部のキャビネット，との結合［２００６．０１］",
+      "en": "Combinations of bedsteads with other furniture or with accessories, e.g. with bedside cabinets",
+      "count": 7595,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C20/00": {
+      "code": "A47C20/00",
+      "level": 0,
+      "parent": "A47C",
+      "ja": "ベッド，ソファーまたは類似のものの頭，足または類似の受台［２００６．０１］",
+      "en": "Head-, foot- or like rests for beds, sofas or the like",
+      "count": 3257,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C20/02": {
+      "code": "A47C20/02",
+      "level": 1,
+      "parent": "A47C20/00",
+      "ja": "分離可能な形式のもの（Ａ４７Ｃ２０／０４，Ａ４７Ｃ２０／０８が優先）［２］",
+      "en": "of detachable type(<b>A47C20/04</b>, <b>A47C20/08</b> take precedence)",
+      "count": 2070,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C20/04": {
+      "code": "A47C20/04",
+      "level": 1,
+      "parent": "A47C20/00",
+      "ja": "調節可能な傾斜によるもの（Ａ４７Ｃ２０／０８が優先）［２］",
+      "en": "with adjustable inclination(<b>A47C20/08</b> takes precedence)",
+      "count": 5910,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C20/06": {
+      "code": "A47C20/06",
+      "level": 2,
+      "parent": "A47C20/04",
+      "ja": "調節可能な部分が折りたたみ可能な脚を固定するもの［２］",
+      "en": "the adjustable part immobilising foldable legs",
+      "count": 115,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C20/08": {
+      "code": "A47C20/08",
+      "level": 1,
+      "parent": "A47C20/00",
+      "ja": "二つ以上の受台を同時に調節するための手段を有するもの［２］",
+      "en": "with means for adjusting two or more rests simultaneously",
+      "count": 1921,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C20/10": {
+      "code": "A47C20/10",
+      "level": 2,
+      "parent": "A47C20/08",
+      "ja": "ロッドを用いるもの［２］",
+      "en": "using rods",
+      "count": 302,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C20/12": {
+      "code": "A47C20/12",
+      "level": 3,
+      "parent": "A47C20/10",
+      "ja": "入れ子式のロッドを用いるもの［２］",
+      "en": "using telescopic rods",
+      "count": 286,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C20/14": {
+      "code": "A47C20/14",
+      "level": 2,
+      "parent": "A47C20/08",
+      "ja": "平板と留金を用いるもの［２］",
+      "en": "using plate and catch",
+      "count": 52,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C20/16": {
+      "code": "A47C20/16",
+      "level": 2,
+      "parent": "A47C20/08",
+      "ja": "歯状の部品，例．ラック，を用いるもの［２］",
+      "en": "using toothed parts, e.g. racks",
+      "count": 128,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C20/18": {
+      "code": "A47C20/18",
+      "level": 2,
+      "parent": "A47C20/08",
+      "ja": "摩擦伝動装置を用いるもの［２］",
+      "en": "using friction gearing",
+      "count": 19,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C21/00": {
+      "code": "A47C21/00",
+      "level": 0,
+      "parent": "A47C",
+      "ja": "ベッドの附属品，例．敷布留めまたはベッドカバー留め（ベッドステッドに支持されたベッドテーブルＡ４７Ｂ２３／０２）；ベッドステッドまたはマットレスと組合わせて換気，冷却，または加熱する装置［２００６．０１］",
+      "en": "Attachments for beds, e.g. sheet holders or bed-cover holders (bed tables supported on the bedstead <b>A47B23/02</b>);Ventilating, cooling or heating means in connection with bedsteads or mattresses",
+      "count": 9142,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C21/02": {
+      "code": "A47C21/02",
+      "level": 1,
+      "parent": "A47C21/00",
+      "ja": "敷布留め；ベッドカバー留め",
+      "en": "Sheet holders; Bed-cover holders",
+      "count": 2314,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C21/04": {
+      "code": "A47C21/04",
+      "level": 1,
+      "parent": "A47C21/00",
+      "ja": "換気，冷暖房装置",
+      "en": "Devices for ventilating, cooling or heating",
+      "count": 13355,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C21/06": {
+      "code": "A47C21/06",
+      "level": 1,
+      "parent": "A47C21/00",
+      "ja": "マットレスの下に敷くもの",
+      "en": "Mattress underlays",
+      "count": 1080,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C21/08": {
+      "code": "A47C21/08",
+      "level": 1,
+      "parent": "A47C21/00",
+      "ja": "落下防止装置，例．取外し可能な側壁［２００６．０１］",
+      "en": "Devices for prevention against falling-out, e.g. detachable side walls",
+      "count": 4297,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C23/00": {
+      "code": "A47C23/00",
+      "level": 0,
+      "parent": "A47C",
+      "ja": "剛性枠付またはベッドステッドの部分を形成するスプリングマットレス，例．ボックススプリング；寝いす基部スラットベッド基部",
+      "en": "Spring mattresses with rigid frame or forming part of the bedstead, e.g. box springs; Divan bases; Slatted bed bases",
+      "count": 3217,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C23/02": {
+      "code": "A47C23/02",
+      "level": 1,
+      "parent": "A47C23/00",
+      "ja": "板バネ，例．金属の帯状体，を用いるもの（木のバネＡ４７Ｃ２３／０６）［２］",
+      "en": "using leaf springs, e.g. metal strips(wooden springs <b>A47C23/06</b>)",
+      "count": 396,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C23/04": {
+      "code": "A47C23/04",
+      "level": 1,
+      "parent": "A47C23/00",
+      "ja": "圧縮力を受けるバネ，例．コイル状バネ，を用いるもの",
+      "en": "using springs in compression, e.g. coiled",
+      "count": 1199,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C23/043": {
+      "code": "A47C23/043",
+      "level": 2,
+      "parent": "A47C23/04",
+      "ja": "つる巻バネを用いるもの［２］",
+      "en": "using wound springs",
+      "count": 1063,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C23/047": {
+      "code": "A47C23/047",
+      "level": 2,
+      "parent": "A47C23/04",
+      "ja": "膨脹可能な要素と一体となったもの［２］",
+      "en": "incorporating inflatable elements",
+      "count": 112,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C23/05": {
+      "code": "A47C23/05",
+      "level": 2,
+      "parent": "A47C23/04",
+      "ja": "そのための枠；バネと枠の結合",
+      "en": "Frames therefor; Connecting the springs to the frame",
+      "count": 558,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C23/053": {
+      "code": "A47C23/053",
+      "level": 3,
+      "parent": "A47C23/05",
+      "ja": "枠またはスプリングユニットにおけるスプリングの取付けまたは結合［２］",
+      "en": "Attachment or interconnection of springs in frames or in spring units",
+      "count": 937,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C23/055": {
+      "code": "A47C23/055",
+      "level": 3,
+      "parent": "A47C23/05",
+      "ja": "コードを用いるもの；繊維またはゴムの紐を用いるもの［２］",
+      "en": "using cords; using textile or rubber bands",
+      "count": 129,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C23/057": {
+      "code": "A47C23/057",
+      "level": 3,
+      "parent": "A47C23/05",
+      "ja": "スプリングユニットを枠に固定する留具または支持具［２］",
+      "en": "Hangers or supports for fastening spring units to frame",
+      "count": 95,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C23/06": {
+      "code": "A47C23/06",
+      "level": 1,
+      "parent": "A47C23/00",
+      "ja": "木のバネ，例．小割板式，を使用したもの",
+      "en": "using wooden springs, e.g. of slat type",
+      "count": 2258,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C23/12": {
+      "code": "A47C23/12",
+      "level": 1,
+      "parent": "A47C23/00",
+      "ja": "張力バネ，例．フラット型，を用いるもの（Ａ４７Ｃ２３／０２が優先）［２］",
+      "en": "using tensioned springs, e.g. of flat type(<b>A47C23/02</b> takes precedence)",
+      "count": 215,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C23/14": {
+      "code": "A47C23/14",
+      "level": 2,
+      "parent": "A47C23/12",
+      "ja": "網を形成するもの；網と結合したもの",
+      "en": "forming nets; combined with nets",
+      "count": 231,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C23/145": {
+      "code": "A47C23/145",
+      "level": 3,
+      "parent": "A47C23/14",
+      "ja": "水平に連結されたつる巻バネを有するもの；それの枠への取り付け［２］",
+      "en": "with horizontal interlocking wound springs; Attachment thereof to the frame",
+      "count": 148,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C23/15": {
+      "code": "A47C23/15",
+      "level": 3,
+      "parent": "A47C23/14",
+      "ja": "編まれたまたは組まれた板バネまたはコードを有するもの；水平なつる巻きバネを有するもの（Ａ４７Ｃ２３／１４５が優先）［２］",
+      "en": "with braided or crossed flat springs or cords; with horizontal wound springs(<b>A47C23/145</b> takes precedence)",
+      "count": 158,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C23/155": {
+      "code": "A47C23/155",
+      "level": 3,
+      "parent": "A47C23/14",
+      "ja": "板バネまたはリンクチェーンとつる巻きばねとの結合［２］",
+      "en": "with combinations of flat springs or link chains with wound springs",
+      "count": 142,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C23/16": {
+      "code": "A47C23/16",
+      "level": 2,
+      "parent": "A47C23/12",
+      "ja": "曲折画形のもの",
+      "en": "of plane meandering type",
+      "count": 215,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C23/18": {
+      "code": "A47C23/18",
+      "level": 2,
+      "parent": "A47C23/12",
+      "ja": "弾性の帯紐によるもの",
+      "en": "of resilient webbing",
+      "count": 146,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C23/20": {
+      "code": "A47C23/20",
+      "level": 2,
+      "parent": "A47C23/12",
+      "ja": "弾性のシート形のもの",
+      "en": "of resilient sheet form",
+      "count": 118,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C23/22": {
+      "code": "A47C23/22",
+      "level": 2,
+      "parent": "A47C23/12",
+      "ja": "張力を有するゴムコードまたは同様のコードによるもの",
+      "en": "of tensioned rubber cords or like cords",
+      "count": 106,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C23/24": {
+      "code": "A47C23/24",
+      "level": 2,
+      "parent": "A47C23/12",
+      "ja": "張力を付与した織物または他の非弾性の細片を用いたもの",
+      "en": "using tensioned textile or other non-resilient strips",
+      "count": 136,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C23/26": {
+      "code": "A47C23/26",
+      "level": 2,
+      "parent": "A47C23/12",
+      "ja": "そのための枠；バネと枠の結合",
+      "en": "Frames therefor; Connecting the springs to the frame",
+      "count": 293,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C23/28": {
+      "code": "A47C23/28",
+      "level": 2,
+      "parent": "A47C23/12",
+      "ja": "そのための引張り装置",
+      "en": "Tensioning devices therefor",
+      "count": 217,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C23/30": {
+      "code": "A47C23/30",
+      "level": 1,
+      "parent": "A47C23/00",
+      "ja": "グループＡ４７Ｃ２３／０２－Ａ４７Ｃ２３／１２の二つ以上に含まれるバネの組合せを用いるもの；その枠［２００６．０１］",
+      "en": "using combinations of springs covered by more than one of the groups <b>A47C23/02 to A47C23/12</b> ; Frames therefor",
+      "count": 434,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C23/32": {
+      "code": "A47C23/32",
+      "level": 2,
+      "parent": "A47C23/30",
+      "ja": "網と圧縮をうけるバネとの結合；そのための枠",
+      "en": "Combinations of nets with springs in compression; Frames therefor",
+      "count": 296,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C23/34": {
+      "code": "A47C23/34",
+      "level": 1,
+      "parent": "A47C23/00",
+      "ja": "頭または脚部を特に支持するための装置を有するもの",
+      "en": "with provisions for giving extra support for the head or the legs",
+      "count": 143,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C27/00": {
+      "code": "A47C27/00",
+      "level": 0,
+      "parent": "A47C",
+      "ja": "特にいす，ベッド，またはソファに使用されるスプリングマットレス，詰め物マットレスまたは流体マットレス［５］",
+      "en": "Spring, stuffed or fluid mattresses specially adapted for chairs, beds or sofas",
+      "count": 24266,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C27/04": {
+      "code": "A47C27/04",
+      "level": 1,
+      "parent": "A47C27/00",
+      "ja": "ばねを内蔵したもの（Ａ４７Ｃ２７／２０が優先）",
+      "en": "with spring inlays(<b>A47C27/20</b> takes precedence)",
+      "count": 3304,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C27/045": {
+      "code": "A47C27/045",
+      "level": 2,
+      "parent": "A47C27/04",
+      "ja": "バネのはめ込みの覆いへの取付け；内部ばねの下に硬化したシート，格子または金格子の使用［２００６．０１］",
+      "en": "Attachment of spring inlays to coverings; Use of stiffening sheets, lattices or grids under spring inlays",
+      "count": 662,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C27/05": {
+      "code": "A47C27/05",
+      "level": 2,
+      "parent": "A47C27/04",
+      "ja": "頂部，底部，または側部に発泡材を有するもの",
+      "en": "with foamed material in top, bottom, or side layers",
+      "count": 2293,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C27/06": {
+      "code": "A47C27/06",
+      "level": 2,
+      "parent": "A47C27/04",
+      "ja": "内部ばねまたはそのためのばねユニット",
+      "en": "Spring inlays or spring units therefor",
+      "count": 4326,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C27/07": {
+      "code": "A47C27/07",
+      "level": 3,
+      "parent": "A47C27/06",
+      "ja": "内部ばねにおけるバネの取付けまたは連結［２］",
+      "en": "Attaching, or interconnecting of, springs in spring inlays",
+      "count": 1516,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C27/08": {
+      "code": "A47C27/08",
+      "level": 1,
+      "parent": "A47C27/00",
+      "ja": "流体マットレス［２００６．０１］",
+      "en": "Fluid mattresses",
+      "count": 11269,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C27/10": {
+      "code": "A47C27/10",
+      "level": 2,
+      "parent": "A47C27/08",
+      "ja": "２つまたはそれ以上の独立して充填可能な室を有するもの［５］",
+      "en": "with two or more independently-fillable chambers",
+      "count": 4856,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C27/12": {
+      "code": "A47C27/12",
+      "level": 1,
+      "parent": "A47C27/00",
+      "ja": "繊維，例．羊毛，木綿製のもの，を内蔵したもの",
+      "en": "with fibrous inlays, e.g. made of wool, of cotton",
+      "count": 8622,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C27/14": {
+      "code": "A47C27/14",
+      "level": 1,
+      "parent": "A47C27/00",
+      "ja": "発泡材を内蔵したもの",
+      "en": "with foamed material inlays",
+      "count": 8484,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C27/15": {
+      "code": "A47C27/15",
+      "level": 2,
+      "parent": "A47C27/14",
+      "ja": "２つ以上の層からなるもの（Ａ４７Ｃ２７／１６が優先）［２］",
+      "en": "consisting of two or more layers(<b>A47C27/16</b> takes precedence)",
+      "count": 4566,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C27/16": {
+      "code": "A47C27/16",
+      "level": 2,
+      "parent": "A47C27/14",
+      "ja": "シート状物体で補強されたもの，例．外形が形成されたもの",
+      "en": "reinforced with sheet-like elements, e.g. profiled",
+      "count": 748,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C27/18": {
+      "code": "A47C27/18",
+      "level": 2,
+      "parent": "A47C27/14",
+      "ja": "膨脹体と結合されたもの",
+      "en": "in combination with inflatable bodies",
+      "count": 942,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C27/20": {
+      "code": "A47C27/20",
+      "level": 2,
+      "parent": "A47C27/14",
+      "ja": "発泡材に埋設されるか発泡材の空所に置かれたばねを有するもの",
+      "en": "with springs moulded in, or situated in openings in foamed material",
+      "count": 816,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C27/22": {
+      "code": "A47C27/22",
+      "level": 1,
+      "parent": "A47C27/00",
+      "ja": "繊維および発泡材を内蔵したもの",
+      "en": "with both fibrous and foamed material inlays",
+      "count": 3139,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C29/00": {
+      "code": "A47C29/00",
+      "level": 0,
+      "parent": "A47C",
+      "ja": "いすまたはベッドに備え付けられた蚊帳；ベッド用天蓋［２００６．０１］",
+      "en": "Nets for protection against insects in connection with chairs or beds; Bed canopies",
+      "count": 5075,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C31/00": {
+      "code": "A47C31/00",
+      "level": 0,
+      "parent": "A47C",
+      "ja": "このサブクラスの他のグループに分類されない，いす，ベッドまたは類似のものの細部または付属具，例．詰め物，布（革）張りを用いた室内装飾品の留め具，マットレス保護具，マットレスネット用の伸長装置",
+      "en": "Details or accessories for chairs, beds, or the like, not provided for in other groups of this subclass, e.g. upholstery fasteners, mattress protectors, stretching devices for mattress nets",
+      "count": 10586,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C31/02": {
+      "code": "A47C31/02",
+      "level": 1,
+      "parent": "A47C31/00",
+      "ja": "詰め物材料の取り付け手段［２００６．０１］",
+      "en": "Upholstery attaching means",
+      "count": 6152,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C31/04": {
+      "code": "A47C31/04",
+      "level": 2,
+      "parent": "A47C31/02",
+      "ja": "平坦弾性片または平坦曲折ばねの枠への止め具",
+      "en": "Clamps for attaching flat elastic strips or flat meandering springs to frames",
+      "count": 303,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C31/06": {
+      "code": "A47C31/06",
+      "level": 3,
+      "parent": "A47C31/04",
+      "ja": "平坦曲折ばね用",
+      "en": "for attaching flat meandering springs",
+      "count": 154,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C31/08": {
+      "code": "A47C31/08",
+      "level": 1,
+      "parent": "A47C31/00",
+      "ja": "マットレス用取手",
+      "en": "Mattress hand-straps",
+      "count": 269,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C31/10": {
+      "code": "A47C31/10",
+      "level": 1,
+      "parent": "A47C31/00",
+      "ja": "取外し自由な家具カバー",
+      "en": "Loose furniture covers",
+      "count": 2340,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C31/11": {
+      "code": "A47C31/11",
+      "level": 2,
+      "parent": "A47C31/10",
+      "ja": "いすのためのもの［２］",
+      "en": "for chairs",
+      "count": 3400,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    },
+    "A47C31/12": {
+      "code": "A47C31/12",
+      "level": 1,
+      "parent": "A47C31/00",
+      "ja": "いす，ベッドまたはマットレスを体型または体重に適応させるための手段，例．測定手段［２００６．０１］",
+      "en": "Means, e.g. measuring means, for adapting chairs, beds or mattresses to the shape or weight of persons",
+      "count": 5321,
+      "sourceFile": "ipc_A47C.txt",
+      "kind": "ipc"
+    }
+  }
+};

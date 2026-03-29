@@ -1,0 +1,2366 @@
+window.IPC_SHARD_H04M = {
+  "generatedAt": "2026-03-20T02:17:47.299Z",
+  "total": 236,
+  "entries": {
+    "H04M": {
+      "code": "H04M",
+      "level": 0,
+      "parent": "H04",
+      "ja": "電話通信（電話ケーブルを通して他の装置を制御するための回路であって電話機開閉装置に関わらないものＧ０８）<br><br><b><ul>注</ul></b><br>（１）このサブクラスは以下のものを包含する：<br>―サブステーションの装置<br>―他の電気的方式と結合された電話通信方式；<br>―電話通信方式に特に適用される試験装置<br>（２）このサブクラスにおいては，下記の用語または表現は以下に示す意味で用いる：<br>―“加入者”とは，端末装置，例．固定電話，無線電話，携帯電話またはセルラー方式の無線携帯電話の総称，または端末装置の利用者の総称である；　<br>―“サブステーション”とは，単一の加入者をあれこれと区別せずに回線に接続できる端末装置または監視装置を意味する；<br>―“従局”とは，交換局の一形式であってその動作が監視交換局から受信された制御信号に依存するものである；<br>―“交換点”とは，交換局および従局を包含する。<br><br><b><ul>サブクラス内の索引</ul></b><br>電話方式<br>他の電気システムとの結合；共同線方式；料金前納方式　１１／００；１３／００；１７／００<br>装置と配置<br>装置　１／００<br>交換：自動：手動　３／００；５／００<br>相互接続配置：中央集中交換；中央集中交換でないもの　７／００；９／００<br>監視および制御；電流供給配置　１５／００；１９／００<br>このサブクラスの他のグループに分類されない主題事項　９９／００",
+      "en": "TELEPHONIC COMMUNICATION(circuits for controlling other apparatus <u>via</u> a telephone cable and not involving telephone switching apparatus <b>G08</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>This subclass <u>covers</u>: <ul><li>substation equipment;</li><li>telephonic communication systems combined with other electrical systems;</li><li>testing arrangements specially adapted for telephonic communication systems.</li></ul></li><li>In this subclass, the following terms or expressions are used with the meanings indicated: <ul><li>\"subscriber\" is a general term for terminal equipment, e.g. fixed, wireless, mobile or cellular phones, or for a user of terminal equipment;</li><li>\"substation\" means subscriber or monitoring equipment which may connect a single subscriber to a line without choice as to subscriber;</li><li>\"satellite\" is a type of exchange the operation of which depends upon control signals received from a supervisory exchange;</li><li>\"switching centres\" include exchanges and satellites.</li></ul></li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">TELEPHONIC SYSTEMS<tr><td width=\"70%\">Combined; party-line systems; prepayment systems </td><td><b><b>11/00</b>; <b>13/00</b>; <b>17/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">EQUIPMENT AND ARRANGEMENTS<tr><td width=\"70%\">Equipment </td><td><b><b>1/00</b></b></td></tr></tr><tr><td width=\"70%\">Exchanges: automatic; manual </td><td><b><b>3/00</b>; <b>5/00</b></b></td></tr></tr><tr><td width=\"70%\">Interconnection arrangements: centralised; non-centralised </td><td><b><b>7/00</b>; <b>9/00</b></b></td></tr></tr><tr><td width=\"70%\">Monitoring and control; supply arrangements </td><td><b><b>15/00</b>; <b>19/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">SUBJECT MATTER NOT PROVIDED FOR IN OTHER GROUPS OF THIS SUBCLASS </td><td><b><b>99/00</b></b></td></tr></tr></table>",
+      "count": 5195,
+      "sourceFile": "ipc_H.txt",
+      "kind": "ipc"
+    },
+    "H04": {
+      "code": "H04",
+      "level": 0,
+      "parent": "H",
+      "ja": "電気通信技術<br><br><b><ul>注</ul></b><br>このクラスは，伝搬路として，微粒子放射線，音波または電磁波を使用する電気通信方式，例，無線または光通信，を包含する。［４］",
+      "en": "ELECTRIC COMMUNICATION TECHNIQUE; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This class <u>covers</u> electrical communication systems with propagation paths employing beams of corpuscular radiation, acoustic waves or electromagnetic waves, e.g. radio or optical communication. </li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_H.txt",
+      "kind": "ipc"
+    },
+    "H": {
+      "code": "H",
+      "level": 0,
+      "parent": null,
+      "ja": "電気<br><br><b><ul>注</ul></b><br>（利用にあたっての基本原則と一般的指示）<br>Ｉ．セクションＨは以下のものを包含する：<br>（ａ）基本的電気素子，これは全ての電気ユニットと，装置や回路の一般的な機械的構成を包含しており，その中にはプリント配線と称されるものに各種の基本素子を組み立てたものも含まれる。またこれは他に包含されない場合には，ある程度までこれらの素子の製造をも包含する；<br>（ｂ）発電，これは，発電，変換および配電と共にそのための装置の制御を包含する；<br>（ｃ）電気の応用，これは以下のものを包含する：<br>（ｉ）一般的な利用技術，すなわち．電気加熱と電気照明回路の利用技術；<br>（ｉｉ）厳密な意味で電気的か電子的かいずれかの特定の利用技術で国際特許分類の他のセクションに包含されないもの，これは以下のものを含んでいる：<br>（１）電気的光源，これはレーザーを含む；<br>（２）電気的なＸ線技術；<br>（３）電気的なプラズマ技術，および帯電粒子または中性子の発生および加速；<br>（ｄ）基本電子回路およびその制御；<br>（ｅ）電気通信技術；これは電気―機械変換器一般を含む；<br>（ｆ）物品や上記素子を作るための特定の材料の使用，この点については指針の８８項から９０項を参照されたい。<br>ＩＩ．このセクションにおいては，下記の一般規則が適用される：<br>（ａ）上記Ｉ（ｃ）で述べた例外を除いて，国際特許分類のセクションＨ以外のいずれかのセクションに分類される特殊な操作，方法，装置，物体または物品に特有の電気的観点または部分は，常にその操作，方法，装置，物体または物品のためのサブクラスに分類されるか，または類似の性質を有する技術主題に関する共通的な特徴がクラス・レベルで展開されている場合には，それは，該技術主題のための一般的電気的な応用を完全に包含するサブクラスに，その操作，方法，装置，物体または物品と関連して分類される；<br>（ｂ）この様な電気的な応用には，一般的なものであれ特殊なものであれ，次の事項が含まれる。<br>（ｉ）Ａ６１における治療方法および装置；<br>（ｉｉ）Ｂ０１，Ｂ０３およびＢ２３Ｋにおける各種の実験室または工業的操作に用いられる電気的方法および装置；<br>（ｉｉｉ）セクションＢの“運輸”のサブセクションにおける車両一般および特殊な車両への電気の供給，電気的推進および電気照明；<br>（ｉｖ）Ｆ０２Ｐにおける内燃機関の電気点火系，およびＦ２３Ｑにおける燃焼装置一般のもの；<br>（ｖ）セクションＧにおける全ての電気的部分，すなわち，電気変量の測定器を含む測定装置，検査，信号および計算。このＧセクションにおいて電気とは，一般に手段として扱われるものでそれ自体目的として扱われるものではない；<br>（ｃ）全ての電気的な応用は一般的なものであれ特殊なものであれ，それが含んでいる電気的“基本的素子”に関して言えば，“基本的な電気”の観点がセクションＨ（上記Ｉ（ａ）参照）にあることを前提としている。この規則は，セクションＨ自身にある上記Ｉ（ｃ）で示した電気の応用に対しても有効である。",
+      "en": "ELECTRICITY; <br><br><b><u>Note(s)</u></b><br><br><ul><li>These Notes cover the basic principles and general instructions for use of section <b>H</b>.<ul><li>Section <b>H</b> <u>covers</u>: <ul><li>basic electric elements, which cover all electric units and the general mechanical structure of apparatus and circuits, including the assembly of various basic elements into what are called printed circuits and also cover to a certain extent the manufacture of these elements (when not covered elsewhere);</li><li>generation of electricity, which covers the generation, conversion and distribution of electricity together with the controlling of the corresponding gear;</li><li>applied electricity, which <u>covers</u>: <ul><li>general utilisation techniques, viz. those of electric heating and electric lighting circuits;</li><li>some special utilisation techniques, either electric or electronic in the strict sense, which are not covered by other sections of the Classification, including: <ul><li>electric light sources, including lasers;</li><li>electric X-ray technique;</li><li>electric plasma technique and the generation and acceleration of electrically charged particles or neutrons;</li></ul></li></ul></li><li>basic electronic circuits and their control;</li><li>radio or electric communication technique;</li><li>the use of a specified material for the manufacture of the article or element described. In this connection, paragraphs 88 to 90 of the Guide should be referred to.</li></ul></li><li>In this section, the following general rules apply: <ul><li>Subject to the exceptions stated in I(c), above, any electric aspect or part peculiar to a particular operation, process, apparatus, object or article, classified in one of the sections of the Classification other than section <b>H</b>, is always classified in the subclass for that operation, process, apparatus, object or article. Where common characteristics concerning technical subjects of similar nature have been brought out at class level, the electric aspect or part is classified, in conjunction with the operation, process, apparatus, object or article, in a subclass which covers entirely the general electrical applications for the technical subject in question;</li><li>The electrical applications referred to under (a), above, either general or particular, include: <ul><li>the therapeutic processes and apparatus, in class <b>A61</b>;</li><li>the electric processes and apparatus used in various laboratory or industrial operations, in classes <b>B01</b> and <b>B03</b> and in subclass <b>B23K</b>;</li><li>the electricity supply, electric propulsion and electric lighting of vehicles in general and of particular vehicles, in the subsection \"Transporting\" of section <b>B</b>;</li><li>the electric ignition systems of internal-combustion engines, in subclass <b>F02P</b>, and of combustion apparatus in general, in subclass <b>F23Q</b>;</li><li>the whole electrical part of section <b>G</b>, i.e. measuring devices including apparatus for measuring electric variables, checking, signalling and calculating. Electricity in that section is generally dealt with as a means and not as an end in itself;</li></ul></li><li>All electrical applications, both general and particular, presuppose that the \"basic electricity\" aspect appears in section <b>H</b> (see I(a) above) as regards the electric \"basic elements\" which they comprise. This rule is also valid for applied electricity, referred to in I(c), above, which appears in section <b>H</b> itself.</li></ul></li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_H.txt",
+      "kind": "ipc"
+    },
+    "H04M1/00": {
+      "code": "H04M1/00",
+      "level": 0,
+      "parent": "H04M",
+      "ja": "サブステーション装置，例．加入者が使用するもの（交換機によって提供される加入者向けのサービスや設備Ｈ０４Ｍ３／００；前納式電話機用料金箱Ｈ０４Ｍ１７／００；電流供給装置Ｈ０４Ｍ１９／０８）［１，７］",
+      "en": "Substation equipment, e.g. for use by subscribers(subscriber services or facilities provided at exchanges <b>H04M3/00</b>; prepayment telephone coin boxes <b>H04M17/00</b>; current supply arrangements <b>H04M19/08</b>)",
+      "count": 70526,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/02": {
+      "code": "H04M1/02",
+      "level": 1,
+      "parent": "H04M1/00",
+      "ja": "電話機の構造的態様",
+      "en": "Constructional features of telephone sets",
+      "count": 102676,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/03": {
+      "code": "H04M1/03",
+      "level": 2,
+      "parent": "H04M1/02",
+      "ja": "送話器または受話器の構造的形態，例．送受器［２］",
+      "en": "Constructional features of telephone transmitters or receivers, e.g. telephone hand-sets",
+      "count": 8815,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/04": {
+      "code": "H04M1/04",
+      "level": 2,
+      "parent": "H04M1/02",
+      "ja": "送話器または受話器の支持体",
+      "en": "Supports for telephone transmitters or receivers",
+      "count": 27236,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/05": {
+      "code": "H04M1/05",
+      "level": 3,
+      "parent": "H04M1/04",
+      "ja": "頭，のどまたは胸での使用に特に適合したもの",
+      "en": "specially adapted for use on head, throat or breast",
+      "count": 3259,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/06": {
+      "code": "H04M1/06",
+      "level": 3,
+      "parent": "H04M1/04",
+      "ja": "フック；クレイドル",
+      "en": "Hooks; Cradles",
+      "count": 1352,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/08": {
+      "code": "H04M1/08",
+      "level": 4,
+      "parent": "H04M1/06",
+      "ja": "受話器または送受器の重量により動作されるスイッチと連合されたもの",
+      "en": "associated with switches operated by the weight of the receiver or hand-set",
+      "count": 897,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/10": {
+      "code": "H04M1/10",
+      "level": 4,
+      "parent": "H04M1/06",
+      "ja": "受話器または送受器の接近に基づく磁気効果により動作されるスイッチと連合されたもの",
+      "en": "associated with switches operated by magnetic effect due to proximity of receiver or hand-set",
+      "count": 227,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/11": {
+      "code": "H04M1/11",
+      "level": 2,
+      "parent": "H04M1/02",
+      "ja": "電話機用支持体，例．腕木受けと合体したもの",
+      "en": "Supports for sets, e.g. incorporating armrests",
+      "count": 7300,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/12": {
+      "code": "H04M1/12",
+      "level": 3,
+      "parent": "H04M1/11",
+      "ja": "可調節支持体，例．伸張できるもの",
+      "en": "Adjustable supports, e.g. extensible",
+      "count": 2598,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/13": {
+      "code": "H04M1/13",
+      "level": 4,
+      "parent": "H04M1/12",
+      "ja": "パンタグラフ式",
+      "en": "pantographic",
+      "count": 577,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/14": {
+      "code": "H04M1/14",
+      "level": 3,
+      "parent": "H04M1/11",
+      "ja": "外部振動を除去するための弾性的手段を備えたもの",
+      "en": "with resilient means to eliminate extraneous vibrations",
+      "count": 130,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/15": {
+      "code": "H04M1/15",
+      "level": 2,
+      "parent": "H04M1/02",
+      "ja": "電話機コードの保護または案内［５］",
+      "en": "Protecting or guiding telephone cords",
+      "count": 1484,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/17": {
+      "code": "H04M1/17",
+      "level": 2,
+      "parent": "H04M1/02",
+      "ja": "電話機の清浄または衛生具（送話器口または受話器口のためのものＨ０４Ｒ１／１２）［２］",
+      "en": "Hygienic or sanitary devices on telephone equipment(for mouthpieces or earpieces <b>H04R1/12</b>)",
+      "count": 2155,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/18": {
+      "code": "H04M1/18",
+      "level": 2,
+      "parent": "H04M1/02",
+      "ja": "船舶，鉱山，または悪環境にさられる場所での使用に特に適合した電話機（Ｈ０４Ｍ１／１９が優先）",
+      "en": "Telephone sets specially adapted for use in ships, mines, or other places exposed to adverse environment(<b>H04M1/19</b> takes precedence)",
+      "count": 18261,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/19": {
+      "code": "H04M1/19",
+      "level": 2,
+      "parent": "H04M1/02",
+      "ja": "立聞き防止，局部雑音減衰または不要送話防止のための送話器，受話器または全送受器の配置；そのために特に適合した送話口または受話器（立聞き防止用回路配置Ｈ０４Ｍ１／６８；電話室Ｅ０４Ｈ１／１４）",
+      "en": "Arrangements of transmitters, receivers, or complete sets to prevent eavesdropping, to attenuate local noise or to prevent undesired transmission; Mouthpieces or receivers specially adapted therefor(circuit arrangements for preventing eavesdropping <b>H04M1/68</b>; telephone cabinets <b>E04H1/14</b>)",
+      "count": 2049,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/20": {
+      "code": "H04M1/20",
+      "level": 2,
+      "parent": "H04M1/02",
+      "ja": "音声帰還防止のための配置（Ｈ０４Ｍ１／６２が優先）",
+      "en": "Arrangements for preventing acoustic feedback(<b>H04M1/62</b> takes precedence)",
+      "count": 378,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/21": {
+      "code": "H04M1/21",
+      "level": 2,
+      "parent": "H04M1/02",
+      "ja": "補助装置，例．時計またはメモ用紙，との結合",
+      "en": "Combinations with auxiliary equipment, e.g. with clocks or memoranda pads",
+      "count": 15866,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/215": {
+      "code": "H04M1/215",
+      "level": 3,
+      "parent": "H04M1/21",
+      "ja": "結合手段が電話機に対して非侵入なもの，例．音響カプラ［７］",
+      "en": "by non-intrusive coupling means, e.g. acoustic couplers",
+      "count": 572,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/22": {
+      "code": "H04M1/22",
+      "level": 2,
+      "parent": "H04M1/02",
+      "ja": "照明装置；ダイヤル上の文字を見易くするための配置",
+      "en": "Illumination; Arrangements for improving the visibility of characters on dials",
+      "count": 4853,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/23": {
+      "code": "H04M1/23",
+      "level": 2,
+      "parent": "H04M1/02",
+      "ja": "ダイヤルのまたはそれと同等な装置の組立てまたは取り付け；その使用を容易にするための手段（見易くすることによるものＨ０４Ｍ１／２２）",
+      "en": "Construction or mounting of dials or of equivalent devices; Means for facilitating the use thereof(by improving visibility <b>H04M1/22</b>)",
+      "count": 12170,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/24": {
+      "code": "H04M1/24",
+      "level": 1,
+      "parent": "H04M1/00",
+      "ja": "試験装置",
+      "en": "Arrangements for testing",
+      "count": 7462,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/247": {
+      "code": "H04M1/247",
+      "level": 1,
+      "parent": "H04M1/00",
+      "ja": "利用しやすくするためのユーザー・ガイダンスまたは特性選択手段を有する電話機（コードレス電話または携帯電話に特に適したユーザーインターフェースＨ０４Ｍ１／７２４）［２０２１．０１］",
+      "en": "Telephone sets including user guidance or feature selection means facilitating their use  (user interfaces specially adapted for cordless or mobile telephones <b>H04M1/724</b>)",
+      "count": 5662,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/253": {
+      "code": "H04M1/253",
+      "level": 1,
+      "parent": "H04M1/00",
+      "ja": "デジタル音声通信を用いる電話機［７］",
+      "en": "Telephone sets using digital voice transmission",
+      "count": 3418,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/26": {
+      "code": "H04M1/26",
+      "level": 1,
+      "parent": "H04M1/00",
+      "ja": "加入者を呼び出すための装置（Ｈ０４Ｍ１／６６が優先）［１，７］",
+      "en": "Devices for calling a subscriber(<b>H04M1/66</b> takes precedence)",
+      "count": 3787,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/27": {
+      "code": "H04M1/27",
+      "level": 2,
+      "parent": "H04M1/26",
+      "ja": "複数の信号が同時に蓄積され得る装置［２］",
+      "en": "Devices whereby a plurality of signals may be stored simultaneously",
+      "count": 6180,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/272": {
+      "code": "H04M1/272",
+      "level": 3,
+      "parent": "H04M1/27",
+      "ja": "一時に一つの加入者番号のみを蓄積するための備えをもつもの，例．けん盤またはダイヤルによるもの［２］",
+      "en": "with provision for storing only one subscriber number at a time, e.g. by keyboard or dial",
+      "count": 1394,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/274": {
+      "code": "H04M1/274",
+      "level": 3,
+      "parent": "H04M1/27",
+      "ja": "一時に２つ以上の加入者番号を蓄積するための備えをもつもの［２］",
+      "en": "with provision for storing more than one subscriber number at a time",
+      "count": 5466,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/2745": {
+      "code": "H04M1/2745",
+      "level": 4,
+      "parent": "H04M1/274",
+      "ja": "静的な電子メモリを用いるもの，例．チップ［２０２０．０１］",
+      "en": "using static electronic memories, e.g. chips ",
+      "count": 7393,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/27453": {
+      "code": "H04M1/27453",
+      "level": 5,
+      "parent": "H04M1/2745",
+      "ja": "付加的な加入者データ，例．メタデータ，の保存が可能な電話帳［２０２０．０１］",
+      "en": "Directories allowing storage of additional subscriber data, e.g. metadata",
+      "count": 518,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/27457": {
+      "code": "H04M1/27457",
+      "level": 6,
+      "parent": "H04M1/27453",
+      "ja": "その管理，例．データの手動による編集［２０２０．０１］",
+      "en": "Management thereof, e.g. manual editing of data",
+      "count": 387,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/2746": {
+      "code": "H04M1/2746",
+      "level": 6,
+      "parent": "H04M1/27453",
+      "ja": "ソート，例．履歴または使用頻度に応じたもの［２０２０．０１］",
+      "en": "Sorting, e.g. according to history or frequency of use",
+      "count": 324,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/27467": {
+      "code": "H04M1/27467",
+      "level": 5,
+      "parent": "H04M1/2745",
+      "ja": "データを取り出す方法［２０２０．０１］",
+      "en": "Methods of retrieving data",
+      "count": 145,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/2747": {
+      "code": "H04M1/2747",
+      "level": 6,
+      "parent": "H04M1/27467",
+      "ja": "ディスプレイ上をスクロールするもの［２０２０．０１］",
+      "en": "Scrolling on a display",
+      "count": 290,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/27475": {
+      "code": "H04M1/27475",
+      "level": 6,
+      "parent": "H04M1/27467",
+      "ja": "対話的グラフィック手段またはピクト表示を用いるもの［２０２０．０１］",
+      "en": "using interactive graphical means or pictorial representations",
+      "count": 431,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/2748": {
+      "code": "H04M1/2748",
+      "level": 6,
+      "parent": "H04M1/27467",
+      "ja": "文字列の照合によるもの［２０２０．０１］",
+      "en": "by matching character strings",
+      "count": 391,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/27485": {
+      "code": "H04M1/27485",
+      "level": 5,
+      "parent": "H04M1/2745",
+      "ja": "ダイヤルシーケンスへのプレフィックスの付加またはポーズの挿入［２０２０．０１］",
+      "en": "Appending a prefix to or inserting a pause into a dialling sequence",
+      "count": 401,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/2749": {
+      "code": "H04M1/2749",
+      "level": 5,
+      "parent": "H04M1/2745",
+      "ja": "自動ダイヤルまたはリダイヤル装置，例．オフフック時，または，ビジー中のリダイヤル［２０２０．０１］",
+      "en": "Automatic dialling or redialling systems, e.g. on off-hook or redial on busy",
+      "count": 287,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/27495": {
+      "code": "H04M1/27495",
+      "level": 5,
+      "parent": "H04M1/2745",
+      "ja": "ディスクリート電子部品による実装，すなわちプログラム可能でもマイクロプロセッサ制御でもない（Ｈ０４Ｍ１／２７４５７～Ｈ０４Ｍ１／２７４９が優先）［２０２０．０１］",
+      "en": "implemented by means of discrete electronic components, i.e. neither programmable nor microprocessor-controlled(<b>H04M1/27457 to H04M1/2749</b>  take precedence)",
+      "count": 246,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/275": {
+      "code": "H04M1/275",
+      "level": 5,
+      "parent": "H04M1/2745",
+      "ja": "携帯型電子電話帳を備えるもの［７］",
+      "en": "implemented by means of portable electronic directories",
+      "count": 1638,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/2753": {
+      "code": "H04M1/2753",
+      "level": 5,
+      "parent": "H04M1/2745",
+      "ja": "データ内容の提供［２０２０．０１］",
+      "en": "providing data content",
+      "count": 72,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/2755": {
+      "code": "H04M1/2755",
+      "level": 6,
+      "parent": "H04M1/2753",
+      "ja": "光学式スキャンによるもの［２００６．０１］",
+      "en": "by optical scanning",
+      "count": 855,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/2757": {
+      "code": "H04M1/2757",
+      "level": 6,
+      "parent": "H04M1/2753",
+      "ja": "データ伝送によるもの，例．ダウンロード［２０２０．０１］",
+      "en": "by data transmission, e.g. downloading",
+      "count": 797,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/276": {
+      "code": "H04M1/276",
+      "level": 4,
+      "parent": "H04M1/274",
+      "ja": "磁気記録を用いるもの，例．テープにおけるもの［２］",
+      "en": "using magnetic recording, e.g. on tape",
+      "count": 367,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/278": {
+      "code": "H04M1/278",
+      "level": 4,
+      "parent": "H04M1/274",
+      "ja": "パンチカードまたはテープを用いるもの［２］",
+      "en": "using punched cards or tapes",
+      "count": 138,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/30": {
+      "code": "H04M1/30",
+      "level": 2,
+      "parent": "H04M1/26",
+      "ja": "一時に１数字だけを設定して送出することができる装置",
+      "en": "Devices which can set up and transmit only one digit at a time",
+      "count": 185,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/31": {
+      "code": "H04M1/31",
+      "level": 3,
+      "parent": "H04M1/30",
+      "ja": "パルス列を発生するため電流を断続することによるもの；パルス列を発生するため接点を周期的に開路および閉路することによるもの［２］",
+      "en": "by interrupting current to generate trains of pulses; by periodically opening and closing contacts to generate trains of pulses",
+      "count": 952,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/315": {
+      "code": "H04M1/315",
+      "level": 4,
+      "parent": "H04M1/31",
+      "ja": "クラッチ；スプリング組立体；速度調整器，例．遠心ブレーキ（Ｈ０４Ｍ１／３２～Ｈ０４Ｍ１／４０が優先）［３］",
+      "en": "Clutches; Spring assemblies; Speed regulators, e.g. centrifugal brakes(<b>H04M1/32 to H04M1/40</b>  take precedence)",
+      "count": 158,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/32": {
+      "code": "H04M1/32",
+      "level": 4,
+      "parent": "H04M1/31",
+      "ja": "利用者による混信を防止するための送出中の設定装置の閉塞",
+      "en": "Locking setting devices during transmission to prevent interference by user",
+      "count": 67,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/34": {
+      "code": "H04M1/34",
+      "level": 4,
+      "parent": "H04M1/31",
+      "ja": "連続して送出される数字と数字の間の休止期間を正しく保つためのから動きまたはその他の配置",
+      "en": "Lost-motion or other arrangements for ensuring a pause between successive digit transmissions",
+      "count": 104,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/38": {
+      "code": "H04M1/38",
+      "level": 4,
+      "parent": "H04M1/31",
+      "ja": "停止片の設定により可変的に制限される運動によってパルスが送出されるもの",
+      "en": "Pulses transmitted by a movement variably limited by the setting of a stop",
+      "count": 163,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/40": {
+      "code": "H04M1/40",
+      "level": 4,
+      "parent": "H04M1/31",
+      "ja": "設定動作が１サイクル中の可変部分の間，送出機構を開路または閉路するもの",
+      "en": "wherein the setting-operation short-circuits or open-circuits the transmitting mechanism during a variable part of a cycle",
+      "count": 52,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/50": {
+      "code": "H04M1/50",
+      "level": 3,
+      "parent": "H04M1/30",
+      "ja": "所定の周波数または周波数の組み合せをもつ電流の発生または選択によるもの［２］",
+      "en": "by generating or selecting currents of predetermined frequencies or combinations of frequencies",
+      "count": 1132,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/515": {
+      "code": "H04M1/515",
+      "level": 2,
+      "parent": "H04M1/26",
+      "ja": "同様な波形のパルス列以外の信号または１つ以上の異った周波数をもつ電流以外の信号の発生または選択によるもの，例．直流転極信号の発生，符号化されたパルスまたはインピーダンスダイヤリング［２］",
+      "en": "by generating or selecting signals other than trains of pulses of similar shape, or signals other than currents of one or more different frequencies, e.g. generation of DC signals of alternating polarity, coded pulses or impedance dialling",
+      "count": 251,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/52": {
+      "code": "H04M1/52",
+      "level": 2,
+      "parent": "H04M1/26",
+      "ja": "ダイヤルまたは類似のものがラインセレクタへ機械的に結合されている配置",
+      "en": "Arrangements wherein a dial or the like is mechanically coupled to a line selector",
+      "count": 152,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/53": {
+      "code": "H04M1/53",
+      "level": 2,
+      "parent": "H04M1/26",
+      "ja": "付加信号の発生，例．付加パルス［２］",
+      "en": "Generation of additional signals, e.g. additional pulses",
+      "count": 264,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/54": {
+      "code": "H04M1/54",
+      "level": 3,
+      "parent": "H04M1/53",
+      "ja": "ダイヤルまたは類似のものが識別信号を発生する装置，例．共同線方式におけるもの［２］",
+      "en": "Arrangements wherein a dial or the like generates identifying signals, e.g. in party-line systems",
+      "count": 147,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/56": {
+      "code": "H04M1/56",
+      "level": 1,
+      "parent": "H04M1/00",
+      "ja": "発呼加入者装置において被呼加入者番号を表示または記録するための配置",
+      "en": "Arrangements for indicating or recording the called number at the calling subscriber's set",
+      "count": 4037,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/57": {
+      "code": "H04M1/57",
+      "level": 1,
+      "parent": "H04M1/00",
+      "ja": "被呼加入者装置において発呼加入者番号を表示または記録するための配置（手動交換機における扱者装置におけるものＨ０４Ｍ５／２０）［２］",
+      "en": "Arrangements for indicating or recording the number of the calling subscriber at the called subscriber's set(at the operator set in a manual exchange <b>H04M5/20</b>)",
+      "count": 8175,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/58": {
+      "code": "H04M1/58",
+      "level": 1,
+      "parent": "H04M1/00",
+      "ja": "防側音回路",
+      "en": "Anti-side-tone circuits",
+      "count": 979,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/60": {
+      "code": "H04M1/60",
+      "level": 1,
+      "parent": "H04M1/00",
+      "ja": "音声増幅器を含むもの",
+      "en": "including speech amplifiers",
+      "count": 13111,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/62": {
+      "code": "H04M1/62",
+      "level": 2,
+      "parent": "H04M1/60",
+      "ja": "構造的配置",
+      "en": "Constructional arrangements",
+      "count": 983,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/64": {
+      "code": "H04M1/64",
+      "level": 1,
+      "parent": "H04M1/00",
+      "ja": "呼びに対する自動応答装置；不在加入者に対するメッセージの自動記録装置；会話記録装置（中央集中書取り方式Ｈ０４Ｍ１１／１０）［１，７］",
+      "en": "Automatic arrangements for answering calls; Automatic arrangements for recording messages for absent subscribers; Arrangements for recording conversations(centralised dictation systems <b>H04M11/10</b>)",
+      "count": 9140,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/65": {
+      "code": "H04M1/65",
+      "level": 2,
+      "parent": "H04M1/64",
+      "ja": "記録装置［２，７］",
+      "en": "Recording arrangements",
+      "count": 7392,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/652": {
+      "code": "H04M1/652",
+      "level": 3,
+      "parent": "H04M1/65",
+      "ja": "電話回線を介したリモート・コントロールによって，記録されたメッセージを再生する手段（Ｈ０４Ｍ１／６５８が優先）［７］",
+      "en": "Means for playing back the recorded messages by remote control over a telephone line(<b>H04M1/658</b> takes precedence)",
+      "count": 959,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/654": {
+      "code": "H04M1/654",
+      "level": 3,
+      "parent": "H04M1/65",
+      "ja": "電話回線モニター回路，例．着信検出器［７］",
+      "en": "Telephone line monitoring circuits therefor, e.g. ring detectors",
+      "count": 421,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/656": {
+      "code": "H04M1/656",
+      "level": 3,
+      "parent": "H04M1/65",
+      "ja": "会話を録音するためのもの［７］",
+      "en": "for recording conversations",
+      "count": 1399,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/658": {
+      "code": "H04M1/658",
+      "level": 3,
+      "parent": "H04M1/65",
+      "ja": "記録したメッセージを他の内線または装置に転送する手段［７］",
+      "en": "Means for redirecting recorded messages to other extensions or equipment",
+      "count": 961,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/66": {
+      "code": "H04M1/66",
+      "level": 1,
+      "parent": "H04M1/00",
+      "ja": "不当または不正な呼びを防止する手段を備えたもの（秘密または安全なデジタル通信における，利用者の身元または権限の照合Ｈ０４Ｌ９／３２）［１，７］",
+      "en": "with means for preventing unauthorised or fraudulent calling(verifying user identity or authority in secret or secure digital communications <b>H04L9/32</b>)",
+      "count": 7245,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/663": {
+      "code": "H04M1/663",
+      "level": 2,
+      "parent": "H04M1/66",
+      "ja": "権限のない相手からの電話を防止する［７］",
+      "en": "Preventing unauthorised calls to a telephone set",
+      "count": 2879,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/665": {
+      "code": "H04M1/665",
+      "level": 3,
+      "parent": "H04M1/663",
+      "ja": "暗号の正当性をチェックすることによる［７］",
+      "en": "by checking the validity of a code",
+      "count": 548,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/667": {
+      "code": "H04M1/667",
+      "level": 2,
+      "parent": "H04M1/66",
+      "ja": "権限のない人が電話をかけることを防止する（Ｈ０４Ｍ１／６７７が優先）［７］",
+      "en": "Preventing unauthorised calls from a telephone set(<b>H04M1/677</b> takes precedence)",
+      "count": 1127,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/67": {
+      "code": "H04M1/67",
+      "level": 3,
+      "parent": "H04M1/667",
+      "ja": "電子的手段によるもの［７］",
+      "en": "by electronic means",
+      "count": 2722,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/673": {
+      "code": "H04M1/673",
+      "level": 4,
+      "parent": "H04M1/67",
+      "ja": "使用者が暗号をキー入力する必要があるもの［７］",
+      "en": "the user being required to key in a code",
+      "count": 952,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/675": {
+      "code": "H04M1/675",
+      "level": 4,
+      "parent": "H04M1/67",
+      "ja": "使用者が暗号カード，例．集積回路チップを組み込んだスマート・カード，を挿入する必要があるもの［７］",
+      "en": "the user being required to insert a coded card, e.g. a smart card carrying an integrated circuit chip",
+      "count": 851,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/677": {
+      "code": "H04M1/677",
+      "level": 2,
+      "parent": "H04M1/66",
+      "ja": "あらかじめ決めてある電話番号または選んだ種類の電話番号，例．長距離電話番号，をダイアルまたは送信することを防止するもの［７］",
+      "en": "Preventing the dialling or sending of predetermined telephone numbers or selected types of telephone numbers, e.g. long distance numbers",
+      "count": 766,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/68": {
+      "code": "H04M1/68",
+      "level": 1,
+      "parent": "H04M1/00",
+      "ja": "盗聴防止のための回路配置",
+      "en": "Circuit arrangements for preventing eavesdropping",
+      "count": 1549,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/70": {
+      "code": "H04M1/70",
+      "level": 2,
+      "parent": "H04M1/68",
+      "ja": "共同線方式における閉塞または秘話配置",
+      "en": "Lock-out or secrecy arrangements in party-line systems",
+      "count": 469,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/71": {
+      "code": "H04M1/71",
+      "level": 1,
+      "parent": "H04M1/00",
+      "ja": "サブステーション増設配置［２０２１．０１］",
+      "en": "Substation extension arrangements",
+      "count": 169,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/715": {
+      "code": "H04M1/715",
+      "level": 2,
+      "parent": "H04M1/71",
+      "ja": "回線ごとに２台以上の増設をしたもの（コードレス電話Ｈ０４Ｍ１／７２５）［２０２１．０１］",
+      "en": "using two or more extensions per line(cordless telephones <b>H04M1/725</b>)",
+      "count": 823,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/72": {
+      "code": "H04M1/72",
+      "level": 1,
+      "parent": "H04M1/00",
+      "ja": "携帯電話；コードレス電話，すなわちルートを選ぶことなく，ベースステーションにワイヤレス接続するための装置［２０２１．０１］",
+      "en": "Mobile telephones; Cordless telephones, i.e. devices for establishing wireless links to base stations without route selection",
+      "count": 2938,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/724": {
+      "code": "H04M1/724",
+      "level": 2,
+      "parent": "H04M1/72",
+      "ja": "コードレス電話または携帯電話に特に適したユーザーインターフェース［２０２１．０１］",
+      "en": "User interfaces specially adapted for cordless or mobile telephones",
+      "count": 4399,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/72403": {
+      "code": "H04M1/72403",
+      "level": 3,
+      "parent": "H04M1/724",
+      "ja": "機能向上のためのアプリケーションをローカルで利用するための手段を有するもの［２０２１．０１］",
+      "en": "with means for local support of applications that increase the functionality",
+      "count": 7693,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/72406": {
+      "code": "H04M1/72406",
+      "level": 4,
+      "parent": "H04M1/72403",
+      "ja": "ソフトウェアのアップグレードまたはダウンロードによるもの［２０２１．０１］",
+      "en": "by software upgrading or downloading ",
+      "count": 2743,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/72409": {
+      "code": "H04M1/72409",
+      "level": 4,
+      "parent": "H04M1/72403",
+      "ja": "外部アクセサリとの接続によるもの（ハンズフリーＨ０４Ｍ１／６０）［２０２１．０１］",
+      "en": "by interfacing with external accessories(hands-free <b>H04M1/60</b>)",
+      "count": 4959,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/72412": {
+      "code": "H04M1/72412",
+      "level": 5,
+      "parent": "H04M1/72409",
+      "ja": "双方向の近距離無線通信インターフェースを利用するもの［２０２１．０１］",
+      "en": "using two-way short-range wireless interfaces",
+      "count": 8245,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/72415": {
+      "code": "H04M1/72415",
+      "level": 5,
+      "parent": "H04M1/72409",
+      "ja": "機器の遠隔制御のためのもの［２０２１．０１］",
+      "en": "for remote control of appliances",
+      "count": 4640,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/72418": {
+      "code": "H04M1/72418",
+      "level": 4,
+      "parent": "H04M1/72403",
+      "ja": "緊急サービスのためのもの［２０２１．０１］",
+      "en": "for supporting emergency services",
+      "count": 534,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/72421": {
+      "code": "H04M1/72421",
+      "level": 5,
+      "parent": "H04M1/72418",
+      "ja": "緊急サービス機能を自動作動させるもの，例．警報の検知に応じて［２０２１．０１］",
+      "en": "with automatic activation of emergency service functions, e.g. upon sensing an alarm ",
+      "count": 804,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/72424": {
+      "code": "H04M1/72424",
+      "level": 5,
+      "parent": "H04M1/72418",
+      "ja": "緊急サービス機能を手動作動させるもの［２０２１．０１］",
+      "en": "with manual activation of emergency-service functions",
+      "count": 594,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/72427": {
+      "code": "H04M1/72427",
+      "level": 4,
+      "parent": "H04M1/72403",
+      "ja": "ゲームまたはアニメーションのためのもの［２０２１．０１］",
+      "en": "for supporting games or graphical animations",
+      "count": 2043,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/7243": {
+      "code": "H04M1/7243",
+      "level": 4,
+      "parent": "H04M1/72403",
+      "ja": "メッセージの内部管理のための対話的手段を有するもの［２０２１．０１］",
+      "en": "with interactive means for internal management of messages",
+      "count": 3463,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/72433": {
+      "code": "H04M1/72433",
+      "level": 5,
+      "parent": "H04M1/7243",
+      "ja": "音声メッセージのためのもの，例．ディクタフォン（着信に応答するためのものＨ０４Ｍ１／６４）［２０２１．０１］",
+      "en": "for voice messaging, e.g. dictaphones(for answering incoming calls <b>H04M1/64</b>)",
+      "count": 1823,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/72436": {
+      "code": "H04M1/72436",
+      "level": 5,
+      "parent": "H04M1/7243",
+      "ja": "文字メッセージ，例．ショートメッセージサービス［ＳＭＳ］または電子メール，のためのもの［２０２１．０１］",
+      "en": "for text messaging, e.g. short messaging services [SMS] or e-mails",
+      "count": 4045,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/72439": {
+      "code": "H04M1/72439",
+      "level": 5,
+      "parent": "H04M1/7243",
+      "ja": "画像または動画メッセージのためのもの［２０２１．０１］",
+      "en": "for image or video messaging",
+      "count": 2997,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/72442": {
+      "code": "H04M1/72442",
+      "level": 4,
+      "parent": "H04M1/72403",
+      "ja": "音楽ファイル再生のためのもの［２０２１．０１］",
+      "en": "for playing music files",
+      "count": 1609,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/72445": {
+      "code": "H04M1/72445",
+      "level": 4,
+      "parent": "H04M1/72403",
+      "ja": "インターネットブラウザアプリケーションのためのもの［２０２１．０１］",
+      "en": "for supporting Internet browser applications",
+      "count": 1486,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/72448": {
+      "code": "H04M1/72448",
+      "level": 3,
+      "parent": "H04M1/724",
+      "ja": "特定の条件に応じて装置の機能を適応させるための手段を有するもの［２０２１．０１］",
+      "en": "with means for adapting the functionality of the device according to specific conditions",
+      "count": 4068,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/72451": {
+      "code": "H04M1/72451",
+      "level": 4,
+      "parent": "H04M1/72448",
+      "ja": "スケジュールに応じるもの，例．カレンダーアプリケーションの利用［２０２１．０１］",
+      "en": "according to schedules, e.g. using calendar applications",
+      "count": 2455,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/72454": {
+      "code": "H04M1/72454",
+      "level": 4,
+      "parent": "H04M1/72448",
+      "ja": "状況または環境に関連する条件に応じるもの［２０２１．０１］",
+      "en": "according to context-related or environment-related conditions   ",
+      "count": 10376,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/72457": {
+      "code": "H04M1/72457",
+      "level": 4,
+      "parent": "H04M1/72448",
+      "ja": "地理的位置に応じるもの［２０２１．０１］",
+      "en": "according to geographic location",
+      "count": 3397,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/7246": {
+      "code": "H04M1/7246",
+      "level": 4,
+      "parent": "H04M1/72448",
+      "ja": "交換可能なハウジング部品の接続によるもの［２０２１．０１］",
+      "en": "by connection of exchangeable housing parts",
+      "count": 461,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/72463": {
+      "code": "H04M1/72463",
+      "level": 4,
+      "parent": "H04M1/72448",
+      "ja": "装置の機能制限を行うもの［２０２１．０１］",
+      "en": "to restrict the functionality of the device",
+      "count": 2967,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/72466": {
+      "code": "H04M1/72466",
+      "level": 3,
+      "parent": "H04M1/724",
+      "ja": "装置のモードまたはステータスにより定義される機能を有する選択手段，例．キー，を有するもの［２０２１．０１］",
+      "en": "with selection means, e.g. keys, having functions defined by the mode or the status of the device",
+      "count": 1553,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/72469": {
+      "code": "H04M1/72469",
+      "level": 3,
+      "parent": "H04M1/724",
+      "ja": "２つ以上の数の表示アイテム，例．メニューまたはアイコン，から機能を選択することにより装置を操作するためのもの［２０２１．０１］",
+      "en": "for operating the device by selecting functions from two or more displayed items, e.g. menus or icons",
+      "count": 3308,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/72472": {
+      "code": "H04M1/72472",
+      "level": 4,
+      "parent": "H04M1/72469",
+      "ja": "特定の基準，例．利用頻度，に従ってアイテムがソートされるもの［２０２１．０１］",
+      "en": "wherein the items are sorted according to specific criteria, e.g. frequency of use",
+      "count": 483,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/72475": {
+      "code": "H04M1/72475",
+      "level": 3,
+      "parent": "H04M1/724",
+      "ja": "障害者に特に適したもの［２０２１．０１］",
+      "en": "specially adapted for disabled users",
+      "count": 148,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/72478": {
+      "code": "H04M1/72478",
+      "level": 4,
+      "parent": "H04M1/72475",
+      "ja": "聴覚障害者のためのもの［２０２１．０１］",
+      "en": "for hearing-impaired users",
+      "count": 225,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/72481": {
+      "code": "H04M1/72481",
+      "level": 4,
+      "parent": "H04M1/72475",
+      "ja": "視覚障害者のためのもの［２０２１．０１］",
+      "en": "for visually impaired users  ",
+      "count": 279,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/72484": {
+      "code": "H04M1/72484",
+      "level": 3,
+      "parent": "H04M1/724",
+      "ja": "着信イベントにより機能がトリガされるもの［２０２１．０１］",
+      "en": "wherein functions are triggered by incoming communication events",
+      "count": 2473,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/725": {
+      "code": "H04M1/725",
+      "level": 2,
+      "parent": "H04M1/72",
+      "ja": "コードレス電話（コードレス電話に特に適したユーザーインターフェースＨ０４Ｍ１／７２４）［２０２１．０１］",
+      "en": "Cordless telephones  (user interfaces specially adapted therefor <b>H04M1/724</b>)",
+      "count": 44007,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/72502": {
+      "code": "H04M1/72502",
+      "level": 3,
+      "parent": "H04M1/725",
+      "ja": "一回線に接続されたベースステーションとともに利用されるもの［２０２１．０１］",
+      "en": "with one base station connected to a single line",
+      "count": 682,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/72505": {
+      "code": "H04M1/72505",
+      "level": 4,
+      "parent": "H04M1/72502",
+      "ja": "無線リンクのセットアップ手順［２０２１．０１］",
+      "en": "Radio link set-up procedures",
+      "count": 376,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/72508": {
+      "code": "H04M1/72508",
+      "level": 5,
+      "parent": "H04M1/72505",
+      "ja": "制御チャネルを利用するもの［２０２１．０１］",
+      "en": "using a control channel",
+      "count": 39,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/72511": {
+      "code": "H04M1/72511",
+      "level": 5,
+      "parent": "H04M1/72505",
+      "ja": "利用可能なチャネルを探索するもの［２０２１．０１］",
+      "en": "Searching for available channels",
+      "count": 126,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/72513": {
+      "code": "H04M1/72513",
+      "level": 5,
+      "parent": "H04M1/72505",
+      "ja": "保留，インターホンまたは転送モード［２０２１．０１］",
+      "en": "On-hold, intercom or transfer communication modes",
+      "count": 207,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/72516": {
+      "code": "H04M1/72516",
+      "level": 4,
+      "parent": "H04M1/72502",
+      "ja": "圏外警告のための手段を有するもの［２０２１．０１］",
+      "en": "with means for out-of-range alerting",
+      "count": 74,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/727": {
+      "code": "H04M1/727",
+      "level": 3,
+      "parent": "H04M1/725",
+      "ja": "身分証明コード（ＩＤコード）転送のための装置［７］",
+      "en": "Identification code transfer arrangements",
+      "count": 417,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/73": {
+      "code": "H04M1/73",
+      "level": 3,
+      "parent": "H04M1/725",
+      "ja": "バッテリー節約のための装置［７］",
+      "en": "Battery saving arrangements",
+      "count": 5419,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/733": {
+      "code": "H04M1/733",
+      "level": 3,
+      "parent": "H04M1/725",
+      "ja": "複数の回線に接続した複数のベースステーションがあるもの［７］",
+      "en": "with a plurality of base stations connected to a plurality of lines",
+      "count": 277,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/737": {
+      "code": "H04M1/737",
+      "level": 3,
+      "parent": "H04M1/725",
+      "ja": "電波以外の電磁波，例．赤外線，の送信に特徴があるもの［７］",
+      "en": "characterised by transmission of electromagnetic waves other than radio waves, e.g. infrared waves",
+      "count": 331,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/738": {
+      "code": "H04M1/738",
+      "level": 1,
+      "parent": "H04M1/00",
+      "ja": "サブステーションと外部電話回線とをつなぐためのインターフェース回路（Ｈ０４Ｍ１／７８が優先）［７］",
+      "en": "Interface circuits for coupling substations to external telephone lines(<b>H04M1/78</b> takes precedence)",
+      "count": 1959,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/74": {
+      "code": "H04M1/74",
+      "level": 2,
+      "parent": "H04M1/738",
+      "ja": "混信を低減させるための手段を備えたもの；線路障害による影響を低減させるための手段を備えたもの",
+      "en": "with means for reducing interference; with means for reducing effects due to line faults",
+      "count": 896,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/76": {
+      "code": "H04M1/76",
+      "level": 2,
+      "parent": "H04M1/738",
+      "ja": "線路インピーダンスの差の補償",
+      "en": "Compensating for differences in line impedance",
+      "count": 659,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/78": {
+      "code": "H04M1/78",
+      "level": 1,
+      "parent": "H04M1/00",
+      "ja": "低周波音声信号が線上を一方向に進み，同時に他方向に進む音声信号は高周波搬送波信号で変調されている回路配置［２］",
+      "en": "Circuit arrangements in which low-frequency speech signals proceed in one direction on the line, while speech signals proceeding in the other direction on the line are modulated on a high-frequency carrier signal",
+      "count": 152,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/80": {
+      "code": "H04M1/80",
+      "level": 1,
+      "parent": "H04M1/00",
+      "ja": "保留回路［７］",
+      "en": "Telephone line holding circuits",
+      "count": 655,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M1/82": {
+      "code": "H04M1/82",
+      "level": 1,
+      "parent": "H04M1/00",
+      "ja": "通話の進展または状況識別のための回線モニター回路［７］",
+      "en": "Line monitoring circuits for call progress or status discrimination",
+      "count": 1277,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M3/00": {
+      "code": "H04M3/00",
+      "level": 0,
+      "parent": "H04M",
+      "ja": "自動または半自動交換機［２０２４．０１］",
+      "en": "Automatic or semi-automatic exchanges",
+      "count": 26240,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M3/02": {
+      "code": "H04M3/02",
+      "level": 1,
+      "parent": "H04M3/00",
+      "ja": "サブステーションの呼出し，例．電鈴による（選択呼出Ｈ０４Ｑ）",
+      "en": "Calling substations, e.g. by ringing(selective calling <b>H04Q</b>)",
+      "count": 2069,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M3/04": {
+      "code": "H04M3/04",
+      "level": 2,
+      "parent": "H04M3/02",
+      "ja": "呼出信号が最終セレクタから供給されるもの",
+      "en": "the calling signal being supplied from the final selector",
+      "count": 57,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M3/06": {
+      "code": "H04M3/06",
+      "level": 2,
+      "parent": "H04M3/02",
+      "ja": "呼出信号が加入者線回路から供給されるもの",
+      "en": "the calling signal being supplied from the subscriber's line circuit",
+      "count": 360,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M3/08": {
+      "code": "H04M3/08",
+      "level": 1,
+      "parent": "H04M3/00",
+      "ja": "回路または装置における障害の表示",
+      "en": "Indicating faults in circuits or apparatus",
+      "count": 1849,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M3/10": {
+      "code": "H04M3/10",
+      "level": 2,
+      "parent": "H04M3/08",
+      "ja": "障害または故障信号の供給によるもの",
+      "en": "Providing fault- or trouble-signals",
+      "count": 491,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M3/12": {
+      "code": "H04M3/12",
+      "level": 2,
+      "parent": "H04M3/08",
+      "ja": "故障回路を“話中”にマークすること；故障回路から装置を切断すべくそれ自体に機能を与えること",
+      "en": "Marking faulty circuits \"busy\"; Enabling equipment to disengage itself from faulty circuits",
+      "count": 844,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M3/14": {
+      "code": "H04M3/14",
+      "level": 2,
+      "parent": "H04M3/08",
+      "ja": "永続的な“フック外し”状態の存在を報知するもの",
+      "en": "Signalling existence of persistent \"off-hook\" condition",
+      "count": 267,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M3/16": {
+      "code": "H04M3/16",
+      "level": 1,
+      "parent": "H04M3/00",
+      "ja": "共同線方式における閉塞または秘話装置を備えたもの",
+      "en": "with lock-out or secrecy provision in party-line systems",
+      "count": 1253,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M3/18": {
+      "code": "H04M3/18",
+      "level": 1,
+      "parent": "H04M3/00",
+      "ja": "混信を低減させる手段を備えたもの；線路故障に基づく影響を低減させる手段を備えたもの",
+      "en": "with means for reducing interference; with means for reducing effects due to line faults",
+      "count": 895,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M3/20": {
+      "code": "H04M3/20",
+      "level": 1,
+      "parent": "H04M3/00",
+      "ja": "既成の接続を中断する手段を備えたもの；通話に割込む手段を備えたもの",
+      "en": "with means for interrupting existing connections; with means for breaking-in on conversations",
+      "count": 659,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M3/22": {
+      "code": "H04M3/22",
+      "level": 1,
+      "parent": "H04M3/00",
+      "ja": "監視，聴話または試験のための配置",
+      "en": "Arrangements for supervision, monitoring or testing",
+      "count": 15398,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M3/24": {
+      "code": "H04M3/24",
+      "level": 2,
+      "parent": "H04M3/22",
+      "ja": "通常動作をチェックする装置を備えたもの",
+      "en": "with provision for checking the normal operation",
+      "count": 2010,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M3/26": {
+      "code": "H04M3/26",
+      "level": 2,
+      "parent": "H04M3/22",
+      "ja": "試験信号を印加するための手段をもつもの",
+      "en": "with means for applying test signals",
+      "count": 3155,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M3/28": {
+      "code": "H04M3/28",
+      "level": 3,
+      "parent": "H04M3/26",
+      "ja": "自動的な定期試験",
+      "en": "Automatic routine testing",
+      "count": 582,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M3/30": {
+      "code": "H04M3/30",
+      "level": 4,
+      "parent": "H04M3/28",
+      "ja": "加入者線に対するもの",
+      "en": "for subscribers' lines",
+      "count": 2807,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M3/32": {
+      "code": "H04M3/32",
+      "level": 4,
+      "parent": "H04M3/28",
+      "ja": "交換機間の線路に対するもの",
+      "en": "for lines between exchanges",
+      "count": 953,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M3/34": {
+      "code": "H04M3/34",
+      "level": 3,
+      "parent": "H04M3/26",
+      "ja": "漏話に対する試験",
+      "en": "Testing for cross-talk",
+      "count": 145,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M3/36": {
+      "code": "H04M3/36",
+      "level": 2,
+      "parent": "H04M3/22",
+      "ja": "統計的登算，例．トラヒックがトランク容量をこえた場合の記録",
+      "en": "Statistical metering, e.g. recording occasions when traffic exceeds capacity of trunks",
+      "count": 2771,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M3/38": {
+      "code": "H04M3/38",
+      "level": 1,
+      "parent": "H04M3/00",
+      "ja": "グレージングサービス装置，すなわち，一定の加入者群は一定の接続の完成を防止されるもの（出線装置Ｈ０４Ｑ３／６４）",
+      "en": "Graded-service arrangements, i.e. some subscribers prevented from establishing certain connections(queuing arrangements <b>H04Q3/64</b>)",
+      "count": 2256,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M3/40": {
+      "code": "H04M3/40",
+      "level": 1,
+      "parent": "H04M3/00",
+      "ja": "音声増幅器の適用",
+      "en": "Applications of speech amplifiers",
+      "count": 673,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M3/42": {
+      "code": "H04M3/42",
+      "level": 1,
+      "parent": "H04M3/00",
+      "ja": "加入者に対する特殊なサービスを備えた方式（無線通信ネットワークに特に適合したものＨ０４Ｗ４／００）",
+      "en": "Systems providing special services or facilities to subscribers(specially adapted for wireless communication networks <b>H04W4/00</b>)",
+      "count": 53370,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M3/424": {
+      "code": "H04M3/424",
+      "level": 2,
+      "parent": "H04M3/42",
+      "ja": "自動リダイヤル装置（加入者の電話機におけるものＨ０４Ｍ１／２７）［７］",
+      "en": "Arrangements for automatic redialling(at the subscriber's set <b>H04M1/27</b>)",
+      "count": 264,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M3/428": {
+      "code": "H04M3/428",
+      "level": 2,
+      "parent": "H04M3/42",
+      "ja": "着呼を保留にするための配置［７］",
+      "en": "Arrangements for placing incoming calls on hold",
+      "count": 1375,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M3/432": {
+      "code": "H04M3/432",
+      "level": 2,
+      "parent": "H04M3/42",
+      "ja": "特定の時間に加入者に発呼するための配置，例．モーニングコールサービス［７］",
+      "en": "Arrangements for calling a subscriber at a specific time, e.g. morning call service",
+      "count": 644,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M3/436": {
+      "code": "H04M3/436",
+      "level": 2,
+      "parent": "H04M3/42",
+      "ja": "着呼を選別するための配置［７］",
+      "en": "Arrangements for screening incoming calls",
+      "count": 3209,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M3/44": {
+      "code": "H04M3/44",
+      "level": 2,
+      "parent": "H04M3/42",
+      "ja": "頻繁に呼ぶ相手にアクセスするための付加的な接続配置，例．短縮ダイヤル（加入者の電話機におけるものＨ０４Ｍ１／２７；自動リダイヤルＨ０４Ｍ３／４２４）［１，７］",
+      "en": "Additional connecting arrangements for providing access to frequently-wanted subscribers, e.g. abbreviated dialling(at the subscriber's set <b>H04M1/27</b>; automatic redialling <b>H04M3/424</b>)",
+      "count": 1284,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M3/46": {
+      "code": "H04M3/46",
+      "level": 2,
+      "parent": "H04M3/42",
+      "ja": "１つの応答があるまで一定の順序で一群の加入者を呼ぶための配置",
+      "en": "Arrangements for calling a number of substations in a predetermined sequence until an answer is obtained",
+      "count": 1024,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M3/48": {
+      "code": "H04M3/48",
+      "level": 2,
+      "parent": "H04M3/42",
+      "ja": "所望の加入者が話中でなくなったときに，発呼加入者を呼び戻すための配置",
+      "en": "Arrangements for recalling a calling subscriber when the wanted subscriber ceases to be busy",
+      "count": 1205,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M3/487": {
+      "code": "H04M3/487",
+      "level": 2,
+      "parent": "H04M3/42",
+      "ja": "情報サービス，例．録音された音声サービスまたは時報，を提供するための配置［７］",
+      "en": "Arrangements for providing information services, e.g. recorded voice services or time announcements",
+      "count": 3675,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M3/493": {
+      "code": "H04M3/493",
+      "level": 3,
+      "parent": "H04M3/487",
+      "ja": "相互的な情報サービス，例．番号案内［７］",
+      "en": "Interactive information services, e.g. directory enquiries",
+      "count": 7243,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M3/50": {
+      "code": "H04M3/50",
+      "level": 2,
+      "parent": "H04M3/42",
+      "ja": "呼びに応答するための中央集中装置；不在または話中の加入者のための中央集中配置（Ｈ０４Ｍ３／４８７が優先；中央集中書取りシステムＨ０４Ｍ１１／１０）［１，７］",
+      "en": "Centralised arrangements for answering calls; Centralised arrangements for recording messages for absent or busy subscribers(<b>H04M3/487</b> takes precedence; centralised dictation systems <b>H04M11/10</b>)",
+      "count": 4042,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M3/51": {
+      "code": "H04M3/51",
+      "level": 3,
+      "parent": "H04M3/50",
+      "ja": "オペレーターの仲介が必要な中央集中電話応答配置［７］",
+      "en": "Centralised call answering arrangements requiring operator intervention",
+      "count": 9270,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M3/52": {
+      "code": "H04M3/52",
+      "level": 4,
+      "parent": "H04M3/51",
+      "ja": "空き番号にかかった電話をオペレーターに回す装置",
+      "en": "Arrangements for routing dead number calls to operators",
+      "count": 102,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M3/523": {
+      "code": "H04M3/523",
+      "level": 4,
+      "parent": "H04M3/51",
+      "ja": "呼の分配またはキューイング［７］",
+      "en": "with call distribution or queuing",
+      "count": 4636,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M3/527": {
+      "code": "H04M3/527",
+      "level": 3,
+      "parent": "H04M3/50",
+      "ja": "オペレーターの仲介を必要としない中央集中電話応答配置［７］",
+      "en": "Centralised call answering arrangements not requiring operator intervention",
+      "count": 1474,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M3/53": {
+      "code": "H04M3/53",
+      "level": 3,
+      "parent": "H04M3/50",
+      "ja": "メッセージを記録するための中央集中配置［７］",
+      "en": "Centralised arrangements for recording incoming messages",
+      "count": 2030,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M3/533": {
+      "code": "H04M3/533",
+      "level": 4,
+      "parent": "H04M3/53",
+      "ja": "ボイスメールシステム［７］",
+      "en": "Voice mail systems",
+      "count": 4847,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M3/537": {
+      "code": "H04M3/537",
+      "level": 4,
+      "parent": "H04M3/53",
+      "ja": "記録したメッセージがあることを知らせるための配置［７］",
+      "en": "Arrangements for indicating the presence of a recorded message",
+      "count": 819,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M3/54": {
+      "code": "H04M3/54",
+      "level": 2,
+      "parent": "H04M3/42",
+      "ja": "ある加入者に対する呼びを他のあらかじめ決められた加入者に転送するための配置",
+      "en": "Arrangements for diverting calls for one subscriber to another predetermined subscriber",
+      "count": 5054,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M3/56": {
+      "code": "H04M3/56",
+      "level": 2,
+      "parent": "H04M3/42",
+      "ja": "幾人かの加入者を１つの共通回路に接続するための配置，会議ができるようにするための配置（テレビ会議システムＨ０４Ｎ７／１５）",
+      "en": "Arrangements for connecting several subscribers to a common circuit, i.e. affording conference facilities(video conference systems <b>H04N7/15</b>)",
+      "count": 12020,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M3/58": {
+      "code": "H04M3/58",
+      "level": 2,
+      "parent": "H04M3/42",
+      "ja": "受けた呼びを１つの加入者から他の加入者へ転送するための配置；発呼者または被呼者のいずれかと，第３者との間の中間通話を可能にするための配置（サブステーションの保留回路Ｈ０４Ｍ１／８０）［１，７］",
+      "en": "Arrangements for transferring received calls from one subscriber to another; Arrangements affording interim conversations between either the calling or the called party and a third party(substation line holding circuits <b>H04M1/80</b>)",
+      "count": 2333,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M3/60": {
+      "code": "H04M3/60",
+      "level": 1,
+      "parent": "H04M3/00",
+      "ja": "半自動方式，すなわち出線の数字選択が扱い者の制御下にある方式",
+      "en": "Semi-automatic systems, i.e. systems in which the numerical selection of the outgoing line is under the control of an operator",
+      "count": 2193,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M3/62": {
+      "code": "H04M3/62",
+      "level": 2,
+      "parent": "H04M3/60",
+      "ja": "けん盤装置",
+      "en": "Keyboard equipment",
+      "count": 307,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M3/64": {
+      "code": "H04M3/64",
+      "level": 2,
+      "parent": "H04M3/60",
+      "ja": "発呼線の番号またはクラスを扱者に報知するための配置（交換機間動作における扱者間Ｈ０４Ｍ５／１８）",
+      "en": "Arrangements for signalling the number or class of the calling line to the operator(between operators in inter-exchange working <b>H04M5/18</b>)",
+      "count": 434,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M5/00": {
+      "code": "H04M5/00",
+      "level": 0,
+      "parent": "H04M",
+      "ja": "手動交換機（サブステーション一般Ｈ０４Ｍ１／００）",
+      "en": "Manual exchanges(substation equipment in general <b>H04M1/00</b>)",
+      "count": 1413,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M5/02": {
+      "code": "H04M5/02",
+      "level": 1,
+      "parent": "H04M5/00",
+      "ja": "構造的な細部（ジャック，ジャック－プラグ，Ｈ０１Ｒ２４／５８）",
+      "en": "Constructional details(jacks, jack-plugs <b>H01R24/58</b>)",
+      "count": 223,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M5/04": {
+      "code": "H04M5/04",
+      "level": 1,
+      "parent": "H04M5/00",
+      "ja": "発呼を表示するための，または発呼または終話のための接続を監視するための配置",
+      "en": "Arrangements for indicating calls or supervising connections for calling or clearing",
+      "count": 244,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M5/06": {
+      "code": "H04M5/06",
+      "level": 2,
+      "parent": "H04M5/04",
+      "ja": "呼びの自動的分配をもたらすもの",
+      "en": "affording automatic call distribution",
+      "count": 83,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M5/08": {
+      "code": "H04M5/08",
+      "level": 1,
+      "parent": "H04M5/00",
+      "ja": "接続紐以外の接続手段を用いるもの",
+      "en": "using connecting means other than cords",
+      "count": 303,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M5/10": {
+      "code": "H04M5/10",
+      "level": 1,
+      "parent": "H04M5/00",
+      "ja": "各加入者に対し別個のプラグを使用するもの",
+      "en": "using separate plug for each subscriber",
+      "count": 172,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M5/12": {
+      "code": "H04M5/12",
+      "level": 1,
+      "parent": "H04M5/00",
+      "ja": "サブステーションの呼出し，例．電鈴による",
+      "en": "Calling substations, e.g. by ringing",
+      "count": 212,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M5/14": {
+      "code": "H04M5/14",
+      "level": 1,
+      "parent": "H04M5/00",
+      "ja": "音声増幅器の適用",
+      "en": "Applications of speech amplifiers",
+      "count": 20,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M5/16": {
+      "code": "H04M5/16",
+      "level": 1,
+      "parent": "H04M5/00",
+      "ja": "混信を低減する手段を備えたもの；線路故障による影響を低減する手段を備えたもの",
+      "en": "with means for reducing interference; with means for reducing effects due to line faults",
+      "count": 13,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M5/18": {
+      "code": "H04M5/18",
+      "level": 1,
+      "parent": "H04M5/00",
+      "ja": "被呼線もしくは発呼線のクラスまたは番号を１つの交換機から他の交換機に報知する装置",
+      "en": "Arrangements for signalling the class or number of called or calling line from one exchange to another",
+      "count": 30,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M5/20": {
+      "code": "H04M5/20",
+      "level": 2,
+      "parent": "H04M5/18",
+      "ja": "入線の番号を表示するための配置",
+      "en": "Arrangements for indicating the numbers of the incoming lines",
+      "count": 19,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M7/00": {
+      "code": "H04M7/00",
+      "level": 0,
+      "parent": "H04M",
+      "ja": "中央交換点間の相互接続のための配置",
+      "en": "Arrangements for interconnection between switching centres",
+      "count": 14558,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M7/02": {
+      "code": "H04M7/02",
+      "level": 1,
+      "parent": "H04M7/00",
+      "ja": "地気電位の差を補償するために変形されたもの",
+      "en": "for compensating differences of ground potential",
+      "count": 30,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M7/04": {
+      "code": "H04M7/04",
+      "level": 1,
+      "parent": "H04M7/00",
+      "ja": "線路インピーダンスの差を補償するために変形されたもの",
+      "en": "for compensating differences of line impedance",
+      "count": 121,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M7/06": {
+      "code": "H04M7/06",
+      "level": 1,
+      "parent": "H04M7/00",
+      "ja": "制御または監視用の補助接続を用いるもの",
+      "en": "using auxiliary connections for control or supervision",
+      "count": 1012,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M7/08": {
+      "code": "H04M7/08",
+      "level": 1,
+      "parent": "H04M7/00",
+      "ja": "重信回線動作に適合されたもの",
+      "en": "for phantom working",
+      "count": 132,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M7/10": {
+      "code": "H04M7/10",
+      "level": 1,
+      "parent": "H04M7/00",
+      "ja": "２方向動作に適合されたもの，すなわち同一接続を経て各々の方向に呼びが供給されるもの",
+      "en": "for two-way working, i.e. calls may be set-up in either direction over the same connection",
+      "count": 356,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M7/12": {
+      "code": "H04M7/12",
+      "level": 1,
+      "parent": "H04M7/00",
+      "ja": "別々の形式のスイッチ装置を有する交換機間の動作のために適合されたもの，例．パワドリブン式とステップバイステップ式または１０進型と非１０進型",
+      "en": "for working between exchanges having different types of switching equipment, e.g. power-driven and step by step or decimal and non-decimal",
+      "count": 2065,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M7/14": {
+      "code": "H04M7/14",
+      "level": 1,
+      "parent": "H04M7/00",
+      "ja": "主および従交換点を含む方式におけるもの（主交換機から充電される従交換機の電流供給源Ｈ０４Ｍ１９／０６）",
+      "en": "in systems involving main and subordinate switching centres(current supply source at subordinate switching centre charged from main exchange <b>H04M19/06</b>)",
+      "count": 324,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M7/16": {
+      "code": "H04M7/16",
+      "level": 1,
+      "parent": "H04M7/00",
+      "ja": "搬送周波数を用いる方式におけるもの",
+      "en": "in systems employing carrier frequencies",
+      "count": 250,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M9/00": {
+      "code": "H04M9/00",
+      "level": 0,
+      "parent": "H04M",
+      "ja": "中央集中交換を含まない相互接続のための配置",
+      "en": "Arrangements for interconnection not involving centralised switching",
+      "count": 12937,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M9/02": {
+      "code": "H04M9/02",
+      "level": 1,
+      "parent": "H04M9/00",
+      "ja": "全共同加入者用の１本の共通線路を含むもの",
+      "en": "involving a common line for all parties",
+      "count": 1272,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M9/04": {
+      "code": "H04M9/04",
+      "level": 1,
+      "parent": "H04M9/00",
+      "ja": "２共同加入者の組ごとの別々の線路を含むもの",
+      "en": "involving a separate line for each pair of parties",
+      "count": 109,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M9/06": {
+      "code": "H04M9/06",
+      "level": 1,
+      "parent": "H04M9/00",
+      "ja": "相互接続線の結合を含むもの",
+      "en": "involving combinations of interconnecting lines",
+      "count": 156,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M9/08": {
+      "code": "H04M9/08",
+      "level": 1,
+      "parent": "H04M9/00",
+      "ja": "信号を調節するため，例．トラヒックの１方向または双方向の反響を抑制するため，の手段を備えた２方向拡声電話方式",
+      "en": "Two-way loud-speaking telephone systems with means for conditioning the signal, e.g.  for suppressing echoes for one or both directions of traffic",
+      "count": 4277,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M9/10": {
+      "code": "H04M9/10",
+      "level": 2,
+      "parent": "H04M9/08",
+      "ja": "音声周波数により伝送の方向を切換える手段を備えたもの",
+      "en": "with switching of direction of transmission by voice frequency",
+      "count": 504,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M11/00": {
+      "code": "H04M11/00",
+      "level": 0,
+      "parent": "H04M",
+      "ja": "他の電気システムとの結合のために特に適合した電話通信方式",
+      "en": "Telephonic communication systems specially adapted for combination with other electrical systems",
+      "count": 75273,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M11/02": {
+      "code": "H04M11/02",
+      "level": 1,
+      "parent": "H04M11/00",
+      "ja": "ベルまたは表示器方式と結合されたもの",
+      "en": "with bell or annunciator systems",
+      "count": 3613,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M11/04": {
+      "code": "H04M11/04",
+      "level": 1,
+      "parent": "H04M11/00",
+      "ja": "警報方式，例．火災，警察または盗難警報方式，と結合されたもの",
+      "en": "with alarm systems, e.g. fire, police or burglar alarm systems",
+      "count": 15613,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M11/06": {
+      "code": "H04M11/06",
+      "level": 1,
+      "parent": "H04M11/00",
+      "ja": "音声とデータの同時伝送，例．同一線路上の電信送信",
+      "en": "Simultaneous speech and data transmission, e.g. telegraphic transmission over the same conductors",
+      "count": 13558,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M11/08": {
+      "code": "H04M11/08",
+      "level": 1,
+      "parent": "H04M11/00",
+      "ja": "娯楽または連絡事項の選択的受信のために特に適合したもの",
+      "en": "specially adapted for optional reception of entertainment or informative matter",
+      "count": 4492,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M11/10": {
+      "code": "H04M11/10",
+      "level": 1,
+      "parent": "H04M11/00",
+      "ja": "記録および再生方式と結合されたもの",
+      "en": "with dictation recording and playback systems",
+      "count": 2125,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M13/00": {
+      "code": "H04M13/00",
+      "level": 0,
+      "parent": "H04M",
+      "ja": "共同線方式（サブステーション装置Ｈ０４Ｍ１／００；交換機設備Ｈ０４Ｍ３／００，Ｈ０４Ｍ５／００；登算配置Ｈ０４Ｍ１５／３６）",
+      "en": "Party-line systems(substation equipment <b>H04M1/00</b>; exchange equipment <b>H04M3/00</b>, <b>H04M5/00</b>; metering arrangements <b>H04M15/36</b>)",
+      "count": 453,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M15/00": {
+      "code": "H04M15/00",
+      "level": 0,
+      "parent": "H04M",
+      "ja": "登算，時間制御または時間表示のための配置［２０２４．０１］",
+      "en": "Arrangements for metering, time-control or time-indication",
+      "count": 13738,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M15/02": {
+      "code": "H04M15/02",
+      "level": 1,
+      "parent": "H04M15/00",
+      "ja": "所定時間後の切断",
+      "en": "Severing connection after a predetermined time",
+      "count": 258,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M15/04": {
+      "code": "H04M15/04",
+      "level": 1,
+      "parent": "H04M15/00",
+      "ja": "印刷，さん孔またはその他永久的な形での呼びの記録",
+      "en": "Recording calls in printed, perforated, or other permanent form",
+      "count": 704,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M15/06": {
+      "code": "H04M15/06",
+      "level": 2,
+      "parent": "H04M15/04",
+      "ja": "発呼者または被呼者のクラスまたは番号の記録",
+      "en": "Recording class or number of calling party or called party",
+      "count": 1188,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M15/08": {
+      "code": "H04M15/08",
+      "level": 1,
+      "parent": "H04M15/00",
+      "ja": "被呼者への呼びの登算",
+      "en": "Metering calls to called party",
+      "count": 924,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M15/10": {
+      "code": "H04M15/10",
+      "level": 1,
+      "parent": "H04M15/00",
+      "ja": "発呼者からの呼びの登算",
+      "en": "Metering calls from calling party",
+      "count": 1133,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M15/12": {
+      "code": "H04M15/12",
+      "level": 2,
+      "parent": "H04M15/10",
+      "ja": "識別登算",
+      "en": "Discriminative metering",
+      "count": 328,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M15/14": {
+      "code": "H04M15/14",
+      "level": 3,
+      "parent": "H04M15/12",
+      "ja": "発呼者のクラスによるもの",
+      "en": "according to class of calling party",
+      "count": 75,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M15/16": {
+      "code": "H04M15/16",
+      "level": 3,
+      "parent": "H04M15/12",
+      "ja": "行なわれた接続によるもの",
+      "en": "according to connection obtained",
+      "count": 631,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M15/18": {
+      "code": "H04M15/18",
+      "level": 3,
+      "parent": "H04M15/12",
+      "ja": "呼びの時間によるもの",
+      "en": "according to duration of call",
+      "count": 210,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M15/20": {
+      "code": "H04M15/20",
+      "level": 4,
+      "parent": "H04M15/18",
+      "ja": "扱い者の必要な時間の記録または表示配置",
+      "en": "Operator's time recording or indicating arrangements",
+      "count": 78,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M15/22": {
+      "code": "H04M15/22",
+      "level": 3,
+      "parent": "H04M15/12",
+      "ja": "時刻によるもの",
+      "en": "according to time of day",
+      "count": 67,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M15/24": {
+      "code": "H04M15/24",
+      "level": 3,
+      "parent": "H04M15/12",
+      "ja": "ある回線，例．消防署や救急病院，に対する無料呼びの登算の防止によるもの",
+      "en": "preventing metering of tax-free calls to certain lines, e.g. to fire or ambulance stations",
+      "count": 47,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M15/26": {
+      "code": "H04M15/26",
+      "level": 2,
+      "parent": "H04M15/10",
+      "ja": "オペレータによって制御される交換機における計量器によるもの",
+      "en": "with a meter at the exchange controlled by an operator",
+      "count": 48,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M15/28": {
+      "code": "H04M15/28",
+      "level": 1,
+      "parent": "H04M15/00",
+      "ja": "サブステーションに計量器を備えたもの",
+      "en": "with meter at substation",
+      "count": 1629,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M15/30": {
+      "code": "H04M15/30",
+      "level": 2,
+      "parent": "H04M15/28",
+      "ja": "交換機からの制御を受けていない計量器",
+      "en": "the meter not being controlled from an exchange",
+      "count": 1191,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M15/32": {
+      "code": "H04M15/32",
+      "level": 1,
+      "parent": "H04M15/00",
+      "ja": "１本または複数本の交換機線路を市内線路群に接続するところの従局または集線装置のための登算配置",
+      "en": "Metering arrangements for satellites or concentrators which connect one or more exchange lines with a group of local lines",
+      "count": 72,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M15/34": {
+      "code": "H04M15/34",
+      "level": 1,
+      "parent": "H04M15/00",
+      "ja": "構内交換機用登算配置",
+      "en": "Metering arrangements for private branch exchanges",
+      "count": 598,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M15/36": {
+      "code": "H04M15/36",
+      "level": 1,
+      "parent": "H04M15/00",
+      "ja": "共同線用登算配置",
+      "en": "Metering arrangements for party-lines",
+      "count": 119,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M15/38": {
+      "code": "H04M15/38",
+      "level": 1,
+      "parent": "H04M15/00",
+      "ja": "機械的ステップバイステップ式計数器型以外の装置による登算",
+      "en": "Metering by apparatus other than mechanical step-by-step counter type",
+      "count": 329,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M17/00": {
+      "code": "H04M17/00",
+      "level": 0,
+      "parent": "H04M",
+      "ja": "料金前納式電話システム（電話から正当な電話をかけるのに暗号カードを使用するものＨ０４Ｍ１／６７５）［２０２４．０１］",
+      "en": "Prepayment telephone systems(using a coded card to authorise calls from a telephone set <b>H04M1/675</b>)",
+      "count": 4063,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M17/02": {
+      "code": "H04M17/02",
+      "level": 1,
+      "parent": "H04M17/00",
+      "ja": "コイン解放または合札解放方式",
+      "en": "Coin-freed or check-freed systems",
+      "count": 3466,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M19/00": {
+      "code": "H04M19/00",
+      "level": 0,
+      "parent": "H04M",
+      "ja": "電話方式のための電流供給配置（選択装置のためのものＨ０４Ｑ１／２８）",
+      "en": "Current supply arrangements for telephone systems(for selecting equipment <b>H04Q1/28</b>)",
+      "count": 3196,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M19/02": {
+      "code": "H04M19/02",
+      "level": 1,
+      "parent": "H04M19/00",
+      "ja": "信号電流または監視信号音，例．発信音または話中音，の供給",
+      "en": "providing ringing current or supervisory tones, e.g. dialling tone or busy tone",
+      "count": 2180,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M19/04": {
+      "code": "H04M19/04",
+      "level": 2,
+      "parent": "H04M19/02",
+      "ja": "サブステーションにおいて発生される信号電流",
+      "en": "the ringing-current being generated at the substations",
+      "count": 3595,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M19/06": {
+      "code": "H04M19/06",
+      "level": 1,
+      "parent": "H04M19/00",
+      "ja": "従交換点の電流供給源が主交換局から充電されているもの",
+      "en": "in which current supply sources at subordinate switching centres are charged from the main exchange",
+      "count": 115,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M19/08": {
+      "code": "H04M19/08",
+      "level": 1,
+      "parent": "H04M19/00",
+      "ja": "サブステーションに電流供給源を有するもの（呼出し信号電流の発生Ｈ０４Ｍ１９／０４）［１，７］",
+      "en": "with current supply sources at the substations(generating ringing current <b>H04M19/04</b>)",
+      "count": 2209,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    },
+    "H04M99/00": {
+      "code": "H04M99/00",
+      "level": 0,
+      "parent": "H04M",
+      "ja": "このサブクラスの他のグループに分類されない主題事項［８］",
+      "en": "Subject matter not provided for in other groups of this subclass",
+      "count": 63,
+      "sourceFile": "ipc_H04M.txt",
+      "kind": "ipc"
+    }
+  }
+};

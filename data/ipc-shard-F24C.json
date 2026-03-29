@@ -1,0 +1,616 @@
+{
+  "generatedAt": "2026-03-20T02:17:46.908Z",
+  "total": 61,
+  "entries": {
+    "F24C": {
+      "code": "F24C",
+      "level": 0,
+      "parent": "F24",
+      "ja": "家庭用ストーブまたはレンジ（固体燃料のみを使用するものＦ２４Ｂ）；一般的に適用される家庭用ストーブまたはレンジの細部<br><br><b><ul>サブクラス内の索引</ul></b><br>固体燃料に制限されないストーブまたはレンジ<br>一般的特徴　１／００<br>燃料またはエネルギーが単一の形のもの　３／００～９／００<br>燃料またはエネルギの供給が２つ以上または特定されていないような形のもの　１／００<br>水加熱用に付加的手段をもつもの　１３／００<br>セルフクリーニング設備を有するもの　１４／００<br>ストーブまたはレンジの組み合わせ　１１／００<br>ストーブまたはレンジの細部一般　１５／００",
+      "en": "DOMESTIC STOVES OR RANGES(exclusively for solid fuels <b>F24B</b>);DETAILS OF DOMESTIC STOVES OR RANGES, OF GENERAL APPLICATION; <br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">STOVES OR RANGES, NOT RESTRICTED TO SOLID FUEL<tr><td width=\"70%\">General characteristics </td><td><b><b>1/00</b></b></td></tr></tr><tr><td width=\"70%\">With single kind of fuel or energy supply </td><td><b><b>3/00 to 9/00</b> </b></td></tr></tr><tr><td width=\"70%\">With more than one, or unspecified kind of fuel or energy supply </td><td><b><b>1/00</b></b></td></tr></tr><tr><td width=\"70%\">With additional means for heating water </td><td><b><b>13/00</b></b></td></tr></tr><tr><td width=\"70%\">With self-cleaning provisions </td><td><b><b>14/00</b></b></td></tr></tr><tr><td width=\"70%\">Combinations of stoves or ranges </td><td><b><b>11/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">DETAILS OF STOVES OR RANGES IN GENERAL </td><td><b><b>15/00</b></b></td></tr></tr></table>",
+      "count": 1584,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F24": {
+      "code": "F24",
+      "level": 0,
+      "parent": "F",
+      "ja": "加熱；レンジ；換気<br><br><b><ul>注</ul></b><br>このクラスにおいては，下記の用語は以下に示す意味で用いる：<br>―“ストーブ”は開放式炉，例．暖炉，を持つような装置を包含する；<br>―“レンジ”は種々の調理操作または調理と加熱操作をする要素をもった調理装置を意味する。",
+      "en": "HEATING; RANGES; VENTILATING; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this class, the following terms are used with the meanings indicated:<ul><li>\"stove\" includes apparatus which may have an open fire, e.g. fireplace;</li><li>\"range\" means an apparatus for cooking having elements that perform different cooking operations or cooking and heating operations.</li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F": {
+      "code": "F",
+      "level": 0,
+      "parent": null,
+      "ja": "機械工学；照明；加熱；武器；爆破",
+      "en": "MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F24C1/00": {
+      "code": "F24C1/00",
+      "level": 0,
+      "parent": "F24C",
+      "ja": "燃料またはエネルギの供給が固体燃料またはグループＦ２４Ｃ３／００～Ｆ２４Ｃ９／００の単一のグループに包含される型に限定されないストーブまたはレンジ；燃料またはエネルギの供給の型が明記されないストーブまたはレンジ",
+      "en": "Stoves or ranges in which the fuel or energy supply is not restricted to solid fuel or to a type covered by a single one of groups <b>F24C3/00 to F24C9/00</b> ; Stoves or ranges in which the type of fuel or energy supply is not specified",
+      "count": 8103,
+      "sourceFile": "ipc_F24C.txt",
+      "kind": "ipc"
+    },
+    "F24C1/02": {
+      "code": "F24C1/02",
+      "level": 1,
+      "parent": "F24C1/00",
+      "ja": "燃料またはエネルギの供給を２種またはそれ以上使用するものに適用されるもの（おのおのが燃料またはエネルギの異なった種類の供給を受けている，２個またはそれ以上のストーブまたはレンジの結合Ｆ２４Ｃ１１／００）［２０２１．０１］",
+      "en": "adapted for the use of two or more kinds of fuel or energy supply  (combinations of two or more stoves or ranges each having a different kind of fuel or energy supply <b>F24C11/00</b>)",
+      "count": 2078,
+      "sourceFile": "ipc_F24C.txt",
+      "kind": "ipc"
+    },
+    "F24C1/04": {
+      "code": "F24C1/04",
+      "level": 2,
+      "parent": "F24C1/02",
+      "ja": "同時に［２０２１．０１］",
+      "en": "simultaneously",
+      "count": 774,
+      "sourceFile": "ipc_F24C.txt",
+      "kind": "ipc"
+    },
+    "F24C1/06": {
+      "code": "F24C1/06",
+      "level": 2,
+      "parent": "F24C1/02",
+      "ja": "部品の置換によるもの，例．バーナーを電気加熱器に置き換えることによるもの［２０２１．０１］",
+      "en": "by replacing parts, e.g. replacing burners by electric heaters",
+      "count": 250,
+      "sourceFile": "ipc_F24C.txt",
+      "kind": "ipc"
+    },
+    "F24C1/08": {
+      "code": "F24C1/08",
+      "level": 1,
+      "parent": "F24C1/00",
+      "ja": "輻射暖房に特に適したもの［２０２１．０１］",
+      "en": "solely adapted for radiation heating ",
+      "count": 285,
+      "sourceFile": "ipc_F24C.txt",
+      "kind": "ipc"
+    },
+    "F24C1/10": {
+      "code": "F24C1/10",
+      "level": 2,
+      "parent": "F24C1/08",
+      "ja": "反射鏡をもつもの  ［２０２１．０１］",
+      "en": "with reflectors",
+      "count": 209,
+      "sourceFile": "ipc_F24C.txt",
+      "kind": "ipc"
+    },
+    "F24C1/12": {
+      "code": "F24C1/12",
+      "level": 3,
+      "parent": "F24C1/10",
+      "ja": "円形のもの  ［２０２１．０１］",
+      "en": "of circular shape",
+      "count": 105,
+      "sourceFile": "ipc_F24C.txt",
+      "kind": "ipc"
+    },
+    "F24C1/14": {
+      "code": "F24C1/14",
+      "level": 1,
+      "parent": "F24C1/00",
+      "ja": "対流加熱用の付属設備をもつ輻射加熱式ストーブまたはレンジ［２０２１．０１］",
+      "en": "Radiation heating stoves or ranges, with additional provision for convection heating",
+      "count": 1322,
+      "sourceFile": "ipc_F24C.txt",
+      "kind": "ipc"
+    },
+    "F24C1/16": {
+      "code": "F24C1/16",
+      "level": 1,
+      "parent": "F24C1/00",
+      "ja": "旅行用に特に適する構造をもつもの，例．折りたたみ可能なもの［２０２１．０１］",
+      "en": "with special adaptation for travelling, e.g. collapsible",
+      "count": 1639,
+      "sourceFile": "ipc_F24C.txt",
+      "kind": "ipc"
+    },
+    "F24C3/00": {
+      "code": "F24C3/00",
+      "level": 0,
+      "parent": "F24C",
+      "ja": "気体燃料用ストーブまたはレンジ（２種またはそれ以上の燃料またはエネルギー供給に特に適したストーブまたはレンジＦ２４Ｃ１／０２）［２００６．０１］",
+      "en": "Stoves or ranges for gaseous fuels  (stoves or ranges specially adapted for the use of two or more kinds of fuel or energy supply <b>F24C1/02</b>)",
+      "count": 12177,
+      "sourceFile": "ipc_F24C.txt",
+      "kind": "ipc"
+    },
+    "F24C3/02": {
+      "code": "F24C3/02",
+      "level": 1,
+      "parent": "F24C3/00",
+      "ja": "火炎のみによって熱を発生するもの  ［２０２１．０１］",
+      "en": "with heat produced solely by flame ",
+      "count": 3776,
+      "sourceFile": "ipc_F24C.txt",
+      "kind": "ipc"
+    },
+    "F24C3/04": {
+      "code": "F24C3/04",
+      "level": 1,
+      "parent": "F24C3/00",
+      "ja": "輻射体によって全部または一部の熱を発生させるもの，例．有孔板［２０２１．０１］",
+      "en": "with heat produced wholly or partly by a radiant body, e.g. by a perforated plate ",
+      "count": 2683,
+      "sourceFile": "ipc_F24C.txt",
+      "kind": "ipc"
+    },
+    "F24C3/06": {
+      "code": "F24C3/06",
+      "level": 2,
+      "parent": "F24C3/04",
+      "ja": "目に見える火炎がほとんど無いもの  ［２０２１．０１］",
+      "en": "without any visible flame",
+      "count": 1641,
+      "sourceFile": "ipc_F24C.txt",
+      "kind": "ipc"
+    },
+    "F24C3/08": {
+      "code": "F24C3/08",
+      "level": 1,
+      "parent": "F24C3/00",
+      "ja": "バーナの配列またはすえ付け［２００６．０１］",
+      "en": "Arrangement or mounting of burners",
+      "count": 14124,
+      "sourceFile": "ipc_F24C.txt",
+      "kind": "ipc"
+    },
+    "F24C3/10": {
+      "code": "F24C3/10",
+      "level": 1,
+      "parent": "F24C3/00",
+      "ja": "点火装置の配列またはすえ付け［２００６．０１］",
+      "en": "Arrangement or mounting of ignition devices",
+      "count": 5475,
+      "sourceFile": "ipc_F24C.txt",
+      "kind": "ipc"
+    },
+    "F24C3/12": {
+      "code": "F24C3/12",
+      "level": 1,
+      "parent": "F24C3/00",
+      "ja": "制御または安全装置の配置または据え付け［２００６．０１］",
+      "en": "Arrangement or mounting of control or safety devices ",
+      "count": 24259,
+      "sourceFile": "ipc_F24C.txt",
+      "kind": "ipc"
+    },
+    "F24C3/14": {
+      "code": "F24C3/14",
+      "level": 1,
+      "parent": "F24C3/00",
+      "ja": "旅行用に特に適する構造をもつもの，例．折りたたみ可能なもの［２０２１．０１］",
+      "en": "with special adaptation for travelling, e.g. collapsible",
+      "count": 3342,
+      "sourceFile": "ipc_F24C.txt",
+      "kind": "ipc"
+    },
+    "F24C5/00": {
+      "code": "F24C5/00",
+      "level": 0,
+      "parent": "F24C",
+      "ja": "液体燃料用ストーブまたはレンジ（２種またはそれ以上の燃料またはエネルギー供給に特に適したストーブまたはレンジＦ２４Ｃ１／０２）［２００６．０１］",
+      "en": "Stoves or ranges for liquid fuels  (stoves or ranges specially adapted for the use of two or more kinds of fuel or energy supply <b>F24C1/02</b>)",
+      "count": 1764,
+      "sourceFile": "ipc_F24C.txt",
+      "kind": "ipc"
+    },
+    "F24C5/02": {
+      "code": "F24C5/02",
+      "level": 1,
+      "parent": "F24C5/00",
+      "ja": "蒸発式バーナをもつもの，例．皿型［２０２１．０１］",
+      "en": "with evaporation burners, e.g. of dish type",
+      "count": 2105,
+      "sourceFile": "ipc_F24C.txt",
+      "kind": "ipc"
+    },
+    "F24C5/04": {
+      "code": "F24C5/04",
+      "level": 2,
+      "parent": "F24C5/02",
+      "ja": "灯心式［２０２１．０１］",
+      "en": "wick type",
+      "count": 633,
+      "sourceFile": "ipc_F24C.txt",
+      "kind": "ipc"
+    },
+    "F24C5/06": {
+      "code": "F24C5/06",
+      "level": 3,
+      "parent": "F24C5/04",
+      "ja": "調整可能なもの［２０２１．０１］",
+      "en": "adjustable",
+      "count": 424,
+      "sourceFile": "ipc_F24C.txt",
+      "kind": "ipc"
+    },
+    "F24C5/08": {
+      "code": "F24C5/08",
+      "level": 2,
+      "parent": "F24C5/02",
+      "ja": "輻射体によって全部または一部の熱を発生させるもの  ［２０２１．０１］",
+      "en": "with heat produced wholly or partly by a radiant body",
+      "count": 620,
+      "sourceFile": "ipc_F24C.txt",
+      "kind": "ipc"
+    },
+    "F24C5/10": {
+      "code": "F24C5/10",
+      "level": 1,
+      "parent": "F24C5/00",
+      "ja": "噴霧式バーナをもつもの［２０２１．０１］",
+      "en": "with atomising burners ",
+      "count": 600,
+      "sourceFile": "ipc_F24C.txt",
+      "kind": "ipc"
+    },
+    "F24C5/12": {
+      "code": "F24C5/12",
+      "level": 1,
+      "parent": "F24C5/00",
+      "ja": "バーナの配列またはすえ付け［２００６．０１］",
+      "en": "Arrangement or mounting of burners  ",
+      "count": 1145,
+      "sourceFile": "ipc_F24C.txt",
+      "kind": "ipc"
+    },
+    "F24C5/14": {
+      "code": "F24C5/14",
+      "level": 1,
+      "parent": "F24C5/00",
+      "ja": "点火装置の配列またはすえ付け［２００６．０１］",
+      "en": "Arrangement or mounting of ignition devices ",
+      "count": 857,
+      "sourceFile": "ipc_F24C.txt",
+      "kind": "ipc"
+    },
+    "F24C5/16": {
+      "code": "F24C5/16",
+      "level": 1,
+      "parent": "F24C5/00",
+      "ja": "制御または安全装置の配置または据え付け［２００６．０１］",
+      "en": "Arrangement or mounting of control or safety devices ",
+      "count": 3069,
+      "sourceFile": "ipc_F24C.txt",
+      "kind": "ipc"
+    },
+    "F24C5/18": {
+      "code": "F24C5/18",
+      "level": 1,
+      "parent": "F24C5/00",
+      "ja": "ストーブまたはレンジの部分を構成している液体燃料供給装置［２００６．０１］",
+      "en": "Liquid-fuel supply arrangements forming parts of stoves or ranges ",
+      "count": 2464,
+      "sourceFile": "ipc_F24C.txt",
+      "kind": "ipc"
+    },
+    "F24C5/20": {
+      "code": "F24C5/20",
+      "level": 1,
+      "parent": "F24C5/00",
+      "ja": "旅行用に特に適する構造をもつもの，例．折りたたみ可能なもの［２０２１．０１］",
+      "en": "with special adaptation for travelling, e.g. collapsible",
+      "count": 1010,
+      "sourceFile": "ipc_F24C.txt",
+      "kind": "ipc"
+    },
+    "F24C7/00": {
+      "code": "F24C7/00",
+      "level": 0,
+      "parent": "F24C",
+      "ja": "電気エネルギにより加熱されるストーブまたはレンジ（２種またはそれ以上の燃料またはエネルギー供給に特に適したストーブまたはレンジＦ２４Ｃ１／０２）［２００６．０１］",
+      "en": "Stoves or ranges heated by electric energy  (stoves or ranges specially adapted for the use of two or more kinds of fuel or energy supply <b>F24C1/02</b>)",
+      "count": 11334,
+      "sourceFile": "ipc_F24C.txt",
+      "kind": "ipc"
+    },
+    "F24C7/02": {
+      "code": "F24C7/02",
+      "level": 1,
+      "parent": "F24C7/00",
+      "ja": "マイクロ波を用いるもの［２００６．０１］",
+      "en": "using microwaves ",
+      "count": 32971,
+      "sourceFile": "ipc_F24C.txt",
+      "kind": "ipc"
+    },
+    "F24C7/04": {
+      "code": "F24C7/04",
+      "level": 1,
+      "parent": "F24C7/00",
+      "ja": "加熱要素から直接に輻射加熱をするもの［２０２１．０１］",
+      "en": "with heat radiated directly from the heating element",
+      "count": 10497,
+      "sourceFile": "ipc_F24C.txt",
+      "kind": "ipc"
+    },
+    "F24C7/06": {
+      "code": "F24C7/06",
+      "level": 1,
+      "parent": "F24C7/00",
+      "ja": "電熱要素の配列またはすえ付け",
+      "en": "Arrangement or mounting of electric heating elements",
+      "count": 11653,
+      "sourceFile": "ipc_F24C.txt",
+      "kind": "ipc"
+    },
+    "F24C7/08": {
+      "code": "F24C7/08",
+      "level": 1,
+      "parent": "F24C7/00",
+      "ja": "制御または安全装置の配置または据え付け［２００６．０１］",
+      "en": "Arrangement or mounting of control or safety devices",
+      "count": 24639,
+      "sourceFile": "ipc_F24C.txt",
+      "kind": "ipc"
+    },
+    "F24C7/10": {
+      "code": "F24C7/10",
+      "level": 1,
+      "parent": "F24C7/00",
+      "ja": "旅行用に特に適する構造をもつもの，例．折りたたみ可能なもの［２０２１．０１］",
+      "en": "with special adaptation for travelling, e.g. collapsible",
+      "count": 613,
+      "sourceFile": "ipc_F24C.txt",
+      "kind": "ipc"
+    },
+    "F24C9/00": {
+      "code": "F24C9/00",
+      "level": 0,
+      "parent": "F24C",
+      "ja": "グループＦ２４Ｃ３／００～Ｆ２４Ｃ７／００またはサブクラスＦ２４Ｂに包含されないエネルギ供給の単一の型式により加熱されるストーブまたはレンジ（対象物を加熱する太陽熱集熱器，例．太陽熱調理器Ｆ２４Ｓ２０／３０）［２００６．０１］",
+      "en": "Stoves or ranges heated by a single type of energy supply not covered by groups <b>F24C3/00 to F24C7/00</b>  or subclass <b>F24B</b>(solar heat collectors for heating objects, e.g. solar cookers, <b>F24S20/30</b>)",
+      "count": 802,
+      "sourceFile": "ipc_F24C.txt",
+      "kind": "ipc"
+    },
+    "F24C11/00": {
+      "code": "F24C11/00",
+      "level": 0,
+      "parent": "F24C",
+      "ja": "２個またはそれ以上の，ストーブまたはレンジの結合，例．おのおのが異なった種類のエネルギの供給をもっているもの",
+      "en": "Combinations of two or more stoves or ranges, e.g. each having a different kind of energy supply",
+      "count": 1674,
+      "sourceFile": "ipc_F24C.txt",
+      "kind": "ipc"
+    },
+    "F24C13/00": {
+      "code": "F24C13/00",
+      "level": 0,
+      "parent": "F24C",
+      "ja": "水加熱用付属設備をもつストーブまたはレンジ［３］",
+      "en": "Stoves or ranges with additional provisions for heating water",
+      "count": 5497,
+      "sourceFile": "ipc_F24C.txt",
+      "kind": "ipc"
+    },
+    "F24C14/00": {
+      "code": "F24C14/00",
+      "level": 0,
+      "parent": "F24C",
+      "ja": "セルフクリーニング設備，例．連続的な触媒式クリーニングまたは静電気によるクリーニング，をもつストーブまたはレンジ［２００６．０１］",
+      "en": "Stoves or ranges having self-cleaning provisions, e.g. continuous catalytic cleaning or electrostatic cleaning",
+      "count": 1470,
+      "sourceFile": "ipc_F24C.txt",
+      "kind": "ipc"
+    },
+    "F24C14/02": {
+      "code": "F24C14/02",
+      "level": 1,
+      "parent": "F24C14/00",
+      "ja": "熱分解型［３］",
+      "en": "pyrolytic type",
+      "count": 592,
+      "sourceFile": "ipc_F24C.txt",
+      "kind": "ipc"
+    },
+    "F24C15/00": {
+      "code": "F24C15/00",
+      "level": 0,
+      "parent": "F24C",
+      "ja": "細部［２００６．０１］",
+      "en": "Details",
+      "count": 20211,
+      "sourceFile": "ipc_F24C.txt",
+      "kind": "ipc"
+    },
+    "F24C15/02": {
+      "code": "F24C15/02",
+      "level": 1,
+      "parent": "F24C15/00",
+      "ja": "ストーブまたはレンジに特に適用する扉［２００６．０１］",
+      "en": "Doors specially adapted for stoves or ranges ",
+      "count": 7825,
+      "sourceFile": "ipc_F24C.txt",
+      "kind": "ipc"
+    },
+    "F24C15/04": {
+      "code": "F24C15/04",
+      "level": 2,
+      "parent": "F24C15/02",
+      "ja": "透明板をもつもの",
+      "en": "with transparent panels",
+      "count": 2307,
+      "sourceFile": "ipc_F24C.txt",
+      "kind": "ipc"
+    },
+    "F24C15/06": {
+      "code": "F24C15/06",
+      "level": 1,
+      "parent": "F24C15/00",
+      "ja": "装飾風のもの，例．火格子の前または周囲［２００６．０１］",
+      "en": "Ornamental features, e.g. grate fronts or surrounds",
+      "count": 1468,
+      "sourceFile": "ipc_F24C.txt",
+      "kind": "ipc"
+    },
+    "F24C15/08": {
+      "code": "F24C15/08",
+      "level": 1,
+      "parent": "F24C15/00",
+      "ja": "土台または支持板；脚または柱；外箱；車（上部，例．こんろＦ２４Ｃ１５／１０）［２００６．０１］",
+      "en": "Foundations or support plates; Legs or pillars; Casings; Wheels  (tops, e.g. hot plates, <b>F24C15/10</b>)",
+      "count": 10853,
+      "sourceFile": "ipc_F24C.txt",
+      "kind": "ipc"
+    },
+    "F24C15/10": {
+      "code": "F24C15/10",
+      "level": 1,
+      "parent": "F24C15/00",
+      "ja": "上部，例．こんろ；五徳（おおいをするふたまたははねかけ防具Ｆ２４Ｃ１５／１２；こぼれものの受け皿または溝Ｆ２４Ｃ１５／１４）［２００６．０１］",
+      "en": "Tops, e.g. hot plates; Rings  (cover lids or splash guards <b>F24C15/12</b>;  spillage trays or grooves <b>F24C15/14</b>)",
+      "count": 18331,
+      "sourceFile": "ipc_F24C.txt",
+      "kind": "ipc"
+    },
+    "F24C15/12": {
+      "code": "F24C15/12",
+      "level": 1,
+      "parent": "F24C15/00",
+      "ja": "側台；側板；おおいをするふた；はねかけ防具；天火外部の棚，例．乾燥板用",
+      "en": "Side rests; Side plates; Cover lids; Splash guards; Racks outside ovens, e.g. for drying plates",
+      "count": 3666,
+      "sourceFile": "ipc_F24C.txt",
+      "kind": "ipc"
+    },
+    "F24C15/14": {
+      "code": "F24C15/14",
+      "level": 1,
+      "parent": "F24C15/00",
+      "ja": "こぼれものの受け皿または溝",
+      "en": "Spillage trays or grooves",
+      "count": 3932,
+      "sourceFile": "ipc_F24C.txt",
+      "kind": "ipc"
+    },
+    "F24C15/16": {
+      "code": "F24C15/16",
+      "level": 1,
+      "parent": "F24C15/00",
+      "ja": "天火の内部の棚，網だなまたは皿；それらのための支持部材［２００６．０１］",
+      "en": "Shelves, racks or trays inside ovens; Supports therefor",
+      "count": 7663,
+      "sourceFile": "ipc_F24C.txt",
+      "kind": "ipc"
+    },
+    "F24C15/18": {
+      "code": "F24C15/18",
+      "level": 1,
+      "parent": "F24C15/00",
+      "ja": "調理用区画に付属する，例．加温用または貯蔵具，または燃料容器用，区画の配置；付加的加熱または調理装置，例．グリル［２００６．０１］",
+      "en": "Arrangement of compartments additional to cooking compartments, e.g. for warming or for storing utensils or fuel containers; Arrangement of additional heating or cooking apparatus, e.g. grills",
+      "count": 4060,
+      "sourceFile": "ipc_F24C.txt",
+      "kind": "ipc"
+    },
+    "F24C15/20": {
+      "code": "F24C15/20",
+      "level": 1,
+      "parent": "F24C15/00",
+      "ja": "調理時のくん煙の除去（調理時の蒸気を抜き出しするまたは凝縮するための加熱調理容器の部品，細部または付属具Ａ４７Ｊ３６／３８）［５］",
+      "en": "Removing cooking fumes(parts, details or accessories of cooking-vessels for withdrawing or condensing cooking vapours from such vessels <b>A47J36/38</b>)",
+      "count": 68528,
+      "sourceFile": "ipc_F24C.txt",
+      "kind": "ipc"
+    },
+    "F24C15/22": {
+      "code": "F24C15/22",
+      "level": 1,
+      "parent": "F24C15/00",
+      "ja": "輻射式加熱器用反射板",
+      "en": "Reflectors for radiation heaters",
+      "count": 1688,
+      "sourceFile": "ipc_F24C.txt",
+      "kind": "ipc"
+    },
+    "F24C15/24": {
+      "code": "F24C15/24",
+      "level": 1,
+      "parent": "F24C15/00",
+      "ja": "輻射式加熱器用輻射体または板（輻射ガスバーナＦ２３Ｄ１４／１２）",
+      "en": "Radiant bodies or panels for radiation heaters(radiant gas burners <b>F23D14/12</b>)",
+      "count": 2114,
+      "sourceFile": "ipc_F24C.txt",
+      "kind": "ipc"
+    },
+    "F24C15/26": {
+      "code": "F24C15/26",
+      "level": 1,
+      "parent": "F24C15/00",
+      "ja": "運搬用ハンドル",
+      "en": "Handles for carrying",
+      "count": 295,
+      "sourceFile": "ipc_F24C.txt",
+      "kind": "ipc"
+    },
+    "F24C15/28": {
+      "code": "F24C15/28",
+      "level": 1,
+      "parent": "F24C15/00",
+      "ja": "すきま風しゃへい物",
+      "en": "Draught shields",
+      "count": 1015,
+      "sourceFile": "ipc_F24C.txt",
+      "kind": "ipc"
+    },
+    "F24C15/30": {
+      "code": "F24C15/30",
+      "level": 1,
+      "parent": "F24C15/00",
+      "ja": "特殊位置にストーブまたはレンジをすえ付けるための装置",
+      "en": "Arrangements for mounting stoves or ranges in particular locations",
+      "count": 1334,
+      "sourceFile": "ipc_F24C.txt",
+      "kind": "ipc"
+    },
+    "F24C15/32": {
+      "code": "F24C15/32",
+      "level": 1,
+      "parent": "F24C15/00",
+      "ja": "熱ガス用通風管の，例．ベイキング用天火の中または周囲における，配置",
+      "en": "Arrangements of ducts for hot gases, e.g. in or around baking ovens",
+      "count": 4751,
+      "sourceFile": "ipc_F24C.txt",
+      "kind": "ipc"
+    },
+    "F24C15/34": {
+      "code": "F24C15/34",
+      "level": 1,
+      "parent": "F24C15/00",
+      "ja": "蓄熱または断熱用の要素または装置",
+      "en": "Elements or arrangements for heat storage or insulation",
+      "count": 4887,
+      "sourceFile": "ipc_F24C.txt",
+      "kind": "ipc"
+    },
+    "F24C15/36": {
+      "code": "F24C15/36",
+      "level": 1,
+      "parent": "F24C15/00",
+      "ja": "防護装置，例．加熱部分への接近を防ぐもの",
+      "en": "Protective guards, e.g. for preventing access to heated parts",
+      "count": 2998,
+      "sourceFile": "ipc_F24C.txt",
+      "kind": "ipc"
+    }
+  }
+}

@@ -1,0 +1,3966 @@
+{
+  "generatedAt": "2026-03-20T02:17:46.255Z",
+  "total": 396,
+  "entries": {
+    "B63B": {
+      "code": "B63B",
+      "level": 0,
+      "parent": "B63",
+      "ja": "船舶またはその他の水上浮揚構造物；艤装品（船舶の換気装置，暖房装置，冷房装置または空気調和装置Ｂ６３Ｊ２／００；掘削機または土砂移送機械の支持物としての浮上構造物Ｅ０２Ｆ９／０６）［２］<br><br><b><ul>サブクラス内の索引</ul></b><br>船体<br>流体力学的または流体静力学的特徴　Ｂ６３Ｂ１／００<br>構造または構成部品；調整自在のキール；保護　Ｂ６３Ｂ３／００；Ｂ６３Ｂ４１／００；Ｂ６３Ｂ５９／００<br>特殊な形式　Ｂ６３Ｂ５／００，Ｂ６３Ｂ７／００<br>区画；タンクの清掃　Ｂ６３Ｂ１１／００；Ｂ６３Ｂ５７／００<br>上部構造物；船体または上部構造物の開口部　Ｂ６３Ｂ１５／００；Ｂ６３Ｂ１９／００<br>空荷，バラスト；復原性；安全性　Ｂ６３Ｂ１３／００，Ｂ６３Ｂ２９／１６；Ｂ６３Ｂ３９／００；Ｂ６３Ｂ４３／００<br>係船，移動；救命艇の操作　Ｂ６３Ｂ２１／００；Ｂ６３Ｂ２３／００<br>貨物または乗員のための設備　Ｂ６３Ｂ２５／００，Ｂ６３Ｂ２７／００，Ｂ６３Ｂ２９／００<br>信号，照明器具，航海用具の設備　Ｂ６３Ｂ４５／００，Ｂ６３Ｂ４９／００<br>船舶の部品および付属品　Ｂ６３Ｂ１７／００<br>船舶<br>設計またはそれらの性能予測　Ｂ６３Ｂ７１／００<br>建造または組み立て　Ｂ６３Ｂ７３／００<br>特性の監視またはパラメーターの操作　Ｂ６３Ｂ７９／００<br>修理または保守　Ｂ６３Ｂ８１／００<br>再建造または改造<br>船舶の分解または解体　Ｂ６３Ｂ８５／００<br>浮揚海洋構造物<br>建造または組み立て　Ｂ６３Ｂ７５／００<br>浮力を用いる現場の輸送または搬入　Ｂ６３Ｂ７７／００<br>水上スポーツボード；それらのための付属品　Ｂ６３Ｂ３２／００<br>水上スポーツまたはレジャーに特に適合される船舶；水上スポーツまたはレジャーに特に適合される身体支持具　Ｂ６３Ｂ３４／００<br>特定の目的に特に適合され他に分類されない船舶または類似する浮揚構造物　Ｂ６３Ｂ３５／００<br>ブイ；航路指示　Ｂ６３Ｂ２２／００；Ｂ６３Ｂ５１／００",
+      "en": "SHIPS OR OTHER WATERBORNE VESSELS; EQUIPMENT FOR SHIPPING(arrangements of vessel ventilation, heating, cooling, or air-conditioning <b>B63J2/00</b>; floating substructures as supports of dredgers or soil-shifting machines <b>E02F9/06</b>);<br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">HULLS<tr><td width=\"70%\">Hydrodynamic or hydrostatic features</td><td><b><b>1/00</b></b></td></tr></tr><tr><td width=\"70%\">Structure or component parts; adjustable keels; protection</td><td><b><b>3/00</b>; <b>41/00</b>; <b>59/00</b></b></td></tr></tr><tr><td width=\"70%\">Particular types</td><td><b><b>5/00</b>, <b>7/00</b></b></td></tr></tr><tr><td width=\"70%\">Subdivision; cleaning of tanks</td><td><b><b>11/00</b>; <b>57/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">SUPERSTRUCTURES; HULL OR SUPERSTRUCTURE OPENINGS</td><td><b><b>15/00</b>; <b>19/00</b></b></td></tr></tr><tr><td width=\"70%\">EMPTYING, BALLASTING; STABILITY; SAFETY</td><td><b><b>13/00</b>, <b>29/16</b>; <b>39/00</b>; <b>43/00</b></b></td></tr></tr><tr><td width=\"70%\">MOORING, SHIFTING; HANDLING LIFEBOATS</td><td><b><b>21/00</b>; <b>23/00</b></b></td></tr></tr><tr><td width=\"70%\">ACCOMMODATION FOR CARGO OR PERSONS</td><td><b><b>25/00</b>, <b>27/00</b>, <b>29/00</b></b></td></tr></tr><tr><td width=\"70%\">ARRANGEMENTS OR ADAPTATIONS OF SIGNALLING OR LIGHTING DEVICES OR OF NAUTICAL INSTRUMENTS</td><td><b><b>45/00</b>, <b>49/00</b></b></td></tr></tr><tr><td width=\"70%\">DETAILS AND ACCESSORIES FOR SHIPS</td><td><b><b>17/00</b></b></td></tr></tr><tr><td width=\"70%\">VESSELS<tr><td width=\"70%\">Designing or predicting their performance</td><td><b><b>71/00</b></b></td></tr></tr><tr><td width=\"70%\">Building or assembling</td><td><b><b>73/00</b></b></td></tr></tr><tr><td width=\"70%\">Monitoring properties or operating parameters</td><td><b><b>79/00</b></b></td></tr></tr><tr><td width=\"70%\">Repairing or maintaining</td><td><b><b>81/00</b></b></td></tr></tr><tr><td width=\"70%\">Rebuilding or retrofitting</td><td><b><b>83/00</b></b></td></tr></tr><tr><td width=\"70%\">Dismantling or scrapping</td><td><b><b>85/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">FLOATING OFFSHORE STRUCTURES<tr><td width=\"70%\">Building or assembling</td><td><b><b>75/00</b></b></td></tr></tr><tr><td width=\"70%\">Transporting or installing on site using buoyancy forces</td><td><b><b>77/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">WATER SPORTS BOARDS; ACCESSORIES THEREFOR</td><td><b><b>32/00</b></b></td></tr></tr><tr><td width=\"70%\">VESSELS SPECIALLY ADAPTED FOR WATER SPORTS OR LEISURE; BODY-SUPPORTING DEVICES SPECIALLY ADAPTED FOR WATER SPORTS OR LEISURE</td><td><b><b>34/00</b></b></td></tr></tr><tr><td width=\"70%\">VESSELS OR SIMILAR FLOATING STRUCTURES SPECIALLY ADAPTED FOR SPECIFIC PURPOSES AND NOT OTHERWISE PROVIDED FOR</td><td><b><b>35/00</b></b></td></tr></tr><tr><td width=\"70%\">BUOYS; MARKING NAVIGATION ROUTES</td><td><b><b>22/00</b>; <b>51/00</b></b></td></tr></tr></table>",
+      "count": 5010,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B63": {
+      "code": "B63",
+      "level": 0,
+      "parent": "B",
+      "ja": "船舶またはその他の水上浮揚構造物；関連艤装品",
+      "en": "SHIPS OR OTHER WATERBORNE VESSELS; RELATED EQUIPMENT",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B": {
+      "code": "B",
+      "level": 0,
+      "parent": null,
+      "ja": "処理操作；運輸",
+      "en": "PERFORMING OPERATIONS; TRANSPORTING",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B63B1/00": {
+      "code": "B63B1/00",
+      "level": 0,
+      "parent": "B63B",
+      "ja": "船体または水中翼の流体力学的または流体静力学的特徴（潜水艦特有の船体Ｂ６３Ｂ３／１３；キールＢ６３Ｂ３／３８）",
+      "en": "Hydrodynamic or hydrostatic features of hulls or of hydrofoils(hulls peculiar to submarines <b>B63B3/13</b>; keels <b>B63B3/38</b>)",
+      "count": 947,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B1/02": {
+      "code": "B63B1/02",
+      "level": 1,
+      "parent": "B63B1/00",
+      "ja": "主に水位の変化によって揚力が誘起されるもの（Ｂ６３Ｂ１／１６が優先）",
+      "en": "deriving lift mainly from water displacement(<b>B63B1/16</b> takes precedence)",
+      "count": 287,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B1/04": {
+      "code": "B63B1/04",
+      "level": 2,
+      "parent": "B63B1/02",
+      "ja": "単船体からなるもの",
+      "en": "with single hull",
+      "count": 1709,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B1/06": {
+      "code": "B63B1/06",
+      "level": 3,
+      "parent": "B63B1/04",
+      "ja": "船首部形状",
+      "en": "Shape of fore part",
+      "count": 1209,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B1/08": {
+      "code": "B63B1/08",
+      "level": 3,
+      "parent": "B63B1/04",
+      "ja": "船尾部形状",
+      "en": "Shape of aft part",
+      "count": 1097,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B1/10": {
+      "code": "B63B1/10",
+      "level": 2,
+      "parent": "B63B1/02",
+      "ja": "複船体からなるもの",
+      "en": "with multiple hulls",
+      "count": 1920,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B1/12": {
+      "code": "B63B1/12",
+      "level": 3,
+      "parent": "B63B1/10",
+      "ja": "互に剛性的に連結されている船体",
+      "en": "the hulls being interconnected rigidly",
+      "count": 3414,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B1/14": {
+      "code": "B63B1/14",
+      "level": 3,
+      "parent": "B63B1/10",
+      "ja": "互に弾性的に連結されている船体",
+      "en": "the hulls being interconnected resiliently",
+      "count": 746,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B1/16": {
+      "code": "B63B1/16",
+      "level": 1,
+      "parent": "B63B1/00",
+      "ja": "流体力学的力によって付加揚力が誘起されるもの",
+      "en": "deriving additional lift from hydrodynamic forces",
+      "count": 493,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B1/18": {
+      "code": "B63B1/18",
+      "level": 2,
+      "parent": "B63B1/16",
+      "ja": "滑走艇型のもの",
+      "en": "of hydroplane type",
+      "count": 963,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B1/20": {
+      "code": "B63B1/20",
+      "level": 3,
+      "parent": "B63B1/18",
+      "ja": "一個所以上の滑走面をもつもの（Ｂ６３Ｂ１／２２が優先）",
+      "en": "having more than one planing surface(<b>B63B1/22</b> takes precedence)",
+      "count": 863,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B1/22": {
+      "code": "B63B1/22",
+      "level": 3,
+      "parent": "B63B1/18",
+      "ja": "調節自在な滑走面をもつもの",
+      "en": "with adjustable planing surfaces",
+      "count": 482,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B1/24": {
+      "code": "B63B1/24",
+      "level": 2,
+      "parent": "B63B1/16",
+      "ja": "水中翼型のもの（水上スポーツボードのための水中翼Ｂ６３Ｂ３２／６０；他の水上スポーツの身体支持具のための水中翼Ｂ６３Ｂ３４／４０）［２０２０．０１］",
+      "en": "of hydrofoil type  (hydrofoils for water sports boards <b>B63B32/60</b>;   hydrofoils for other water sports body supporting devices <b>B63B34/40</b>)",
+      "count": 1469,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B1/26": {
+      "code": "B63B1/26",
+      "level": 3,
+      "parent": "B63B1/24",
+      "ja": "二個以上の水中翼をもつもの（Ｂ６３Ｂ１／２８が優先）",
+      "en": "having more than one hydrofoil(<b>B63B1/28</b> takes precedence)",
+      "count": 663,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B1/28": {
+      "code": "B63B1/28",
+      "level": 3,
+      "parent": "B63B1/24",
+      "ja": "可動自在の水中翼をもつもの",
+      "en": "with movable hydrofoils",
+      "count": 1162,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B1/30": {
+      "code": "B63B1/30",
+      "level": 4,
+      "parent": "B63B1/28",
+      "ja": "収納自在または折たたみ自在のもの",
+      "en": "retracting or folding",
+      "count": 463,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B1/32": {
+      "code": "B63B1/32",
+      "level": 1,
+      "parent": "B63B1/00",
+      "ja": "船体に固有な流体力学的特徴を変える他の装置",
+      "en": "Other means for varying the inherent hydrodynamic characteristics of hulls",
+      "count": 2370,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B1/34": {
+      "code": "B63B1/34",
+      "level": 2,
+      "parent": "B63B1/32",
+      "ja": "表面摩擦の減少によるもの",
+      "en": "by reducing surface friction",
+      "count": 800,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B1/36": {
+      "code": "B63B1/36",
+      "level": 3,
+      "parent": "B63B1/34",
+      "ja": "機械的装置を使用したもの",
+      "en": "using mechanical means",
+      "count": 472,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B1/38": {
+      "code": "B63B1/38",
+      "level": 3,
+      "parent": "B63B1/34",
+      "ja": "空気泡または空気層を使用したもの",
+      "en": "using air bubbles or air layers",
+      "count": 2530,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B1/40": {
+      "code": "B63B1/40",
+      "level": 2,
+      "parent": "B63B1/32",
+      "ja": "造波抵抗の減少によるもの",
+      "en": "by diminishing wave resistance",
+      "count": 1370,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B3/00": {
+      "code": "B63B3/00",
+      "level": 0,
+      "parent": "B63B",
+      "ja": "その構造または構成部品により特徴付けられた船体（非金属製の船体Ｂ６３Ｂ５／００；設計，建造，保守または修理の方法Ｂ６３Ｂ７１／００～Ｂ６３Ｂ８３／００）［２００６．０１］",
+      "en": "Hulls characterised by their structure or component parts(non-metallic hulls <b>B63B5/00</b>;  designing, building, maintaining or repairing methods <b>B63B71/00 to B63B83/00</b> )",
+      "count": 1950,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B3/02": {
+      "code": "B63B3/02",
+      "level": 1,
+      "parent": "B63B3/00",
+      "ja": "地上組されたブロックから組立てられた船体",
+      "en": "Hulls assembled from prefabricated sub-units",
+      "count": 324,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B3/04": {
+      "code": "B63B3/04",
+      "level": 2,
+      "parent": "B63B3/02",
+      "ja": "永久的に結合されたブロックをもつもの",
+      "en": "with permanently-connected sub-units",
+      "count": 181,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B3/06": {
+      "code": "B63B3/06",
+      "level": 3,
+      "parent": "B63B3/04",
+      "ja": "実質的に一体のブロック",
+      "en": "the sub-units being substantially identical",
+      "count": 125,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B3/08": {
+      "code": "B63B3/08",
+      "level": 2,
+      "parent": "B63B3/02",
+      "ja": "着脱自在に結合されたブロックをもつもの",
+      "en": "with detachably-connected sub-units",
+      "count": 887,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B3/09": {
+      "code": "B63B3/09",
+      "level": 1,
+      "parent": "B63B3/00",
+      "ja": "非磁性金属で作られた船体",
+      "en": "Hulls constructed of non-magnetic metal",
+      "count": 98,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B3/10": {
+      "code": "B63B3/10",
+      "level": 1,
+      "parent": "B63B3/00",
+      "ja": "装甲船体",
+      "en": "Armoured hulls",
+      "count": 149,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B3/12": {
+      "code": "B63B3/12",
+      "level": 1,
+      "parent": "B63B3/00",
+      "ja": "フレームのない船体",
+      "en": "Frameless hulls",
+      "count": 63,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B3/13": {
+      "code": "B63B3/13",
+      "level": 1,
+      "parent": "B63B3/00",
+      "ja": "潜水時に静水圧に耐えるように建造された船体，例．潜水艦の船体",
+      "en": "Hulls built to withstand hydrostatic pressure when fully submerged, e.g. submarine hulls",
+      "count": 1185,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B3/14": {
+      "code": "B63B3/14",
+      "level": 1,
+      "parent": "B63B3/00",
+      "ja": "船体の部分（装甲船体Ｂ６３Ｂ３／１０）",
+      "en": "Hull parts(hull armour <b>B63B3/10</b>)",
+      "count": 2789,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B3/16": {
+      "code": "B63B3/16",
+      "level": 2,
+      "parent": "B63B3/14",
+      "ja": "外板（載貨門またはそれの閉鎖Ｂ６３Ｂ１９／００）",
+      "en": "Shells(ports or closures therefor <b>B63B19/00</b>)",
+      "count": 638,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B3/18": {
+      "code": "B63B3/18",
+      "level": 3,
+      "parent": "B63B3/16",
+      "ja": "平面に展開できる主な構成部分を特徴とするもの",
+      "en": "characterised by being formed predominantly of parts that may be developed into plane surfaces",
+      "count": 144,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B3/20": {
+      "code": "B63B3/20",
+      "level": 3,
+      "parent": "B63B3/16",
+      "ja": "二重構造のもの",
+      "en": "of double type",
+      "count": 580,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B3/22": {
+      "code": "B63B3/22",
+      "level": 3,
+      "parent": "B63B3/16",
+      "ja": "波型のしわをもつもの",
+      "en": "with corrugations",
+      "count": 74,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B3/24": {
+      "code": "B63B3/24",
+      "level": 3,
+      "parent": "B63B3/16",
+      "ja": "外面の隆起または突起の軽減装置",
+      "en": "Means for diminishing external ridges or protrusions",
+      "count": 72,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B3/26": {
+      "code": "B63B3/26",
+      "level": 2,
+      "parent": "B63B3/14",
+      "ja": "フレーム",
+      "en": "Frames",
+      "count": 532,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B3/28": {
+      "code": "B63B3/28",
+      "level": 3,
+      "parent": "B63B3/26",
+      "ja": "横式のもの；縦材",
+      "en": "of transverse type; Stringers",
+      "count": 147,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B3/30": {
+      "code": "B63B3/30",
+      "level": 4,
+      "parent": "B63B3/28",
+      "ja": "ビルジニー；ビームニー",
+      "en": "Bilge knees; Beam knees",
+      "count": 15,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B3/32": {
+      "code": "B63B3/32",
+      "level": 3,
+      "parent": "B63B3/26",
+      "ja": "ウエツブフレーム；ウエツブビーム",
+      "en": "Web frames; Web beams",
+      "count": 165,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B3/34": {
+      "code": "B63B3/34",
+      "level": 3,
+      "parent": "B63B3/26",
+      "ja": "縦式のもの；隔壁の結合部",
+      "en": "of longitudinal type; Bulkhead connections",
+      "count": 162,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B3/36": {
+      "code": "B63B3/36",
+      "level": 3,
+      "parent": "B63B3/26",
+      "ja": "混合式のもの",
+      "en": "Combined frame systems",
+      "count": 64,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B3/38": {
+      "code": "B63B3/38",
+      "level": 2,
+      "parent": "B63B3/14",
+      "ja": "キール（可動型キールＢ６３Ｂ４１／００）",
+      "en": "Keels(movable keels <b>B63B41/00</b>)",
+      "count": 696,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B3/40": {
+      "code": "B63B3/40",
+      "level": 2,
+      "parent": "B63B3/14",
+      "ja": "船尾材；船尾骨材",
+      "en": "Stern posts; Stern frames",
+      "count": 284,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B3/42": {
+      "code": "B63B3/42",
+      "level": 2,
+      "parent": "B63B3/14",
+      "ja": "軸ブラケット",
+      "en": "Shaft brackets",
+      "count": 131,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B3/44": {
+      "code": "B63B3/44",
+      "level": 2,
+      "parent": "B63B3/14",
+      "ja": "ビルジキール（安定翼Ｂ６３Ｂ３９／０６）",
+      "en": "Bilge keels(stabilising aspect <b>B63B39/06</b>)",
+      "count": 277,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B3/46": {
+      "code": "B63B3/46",
+      "level": 2,
+      "parent": "B63B3/14",
+      "ja": "船首材",
+      "en": "Stems",
+      "count": 461,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B3/48": {
+      "code": "B63B3/48",
+      "level": 2,
+      "parent": "B63B3/14",
+      "ja": "甲板（板張りＢ６３Ｂ５／０６）",
+      "en": "Decks(planking <b>B63B5/06</b>)",
+      "count": 2115,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B3/50": {
+      "code": "B63B3/50",
+      "level": 3,
+      "parent": "B63B3/48",
+      "ja": "アーチ型のもの",
+      "en": "of vaulted type",
+      "count": 19,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B3/52": {
+      "code": "B63B3/52",
+      "level": 3,
+      "parent": "B63B3/48",
+      "ja": "柱；甲板下ガーダ",
+      "en": "Pillars; Deck girders",
+      "count": 202,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B3/54": {
+      "code": "B63B3/54",
+      "level": 3,
+      "parent": "B63B3/48",
+      "ja": "ハッチ開口",
+      "en": "Hatch openings",
+      "count": 334,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B3/56": {
+      "code": "B63B3/56",
+      "level": 2,
+      "parent": "B63B3/14",
+      "ja": "隔壁；隔壁補強材（水密扉の使用Ｂ６３Ｂ４３／２４）",
+      "en": "Bulkheads; Bulkhead reinforcements(arrangements of watertight doors <b>B63B43/24</b>)",
+      "count": 1286,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B3/58": {
+      "code": "B63B3/58",
+      "level": 3,
+      "parent": "B63B3/56",
+      "ja": "平板からなるもの",
+      "en": "with flat plating",
+      "count": 115,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B3/60": {
+      "code": "B63B3/60",
+      "level": 3,
+      "parent": "B63B3/56",
+      "ja": "彎曲型または波型の板からなるもの",
+      "en": "with curved or corrugated plating",
+      "count": 204,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B3/62": {
+      "code": "B63B3/62",
+      "level": 2,
+      "parent": "B63B3/14",
+      "ja": "二重底；タンク頂",
+      "en": "Double bottoms; Tank tops",
+      "count": 483,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B3/64": {
+      "code": "B63B3/64",
+      "level": 3,
+      "parent": "B63B3/62",
+      "ja": "キールソン",
+      "en": "Keelsons",
+      "count": 14,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B3/66": {
+      "code": "B63B3/66",
+      "level": 2,
+      "parent": "B63B3/14",
+      "ja": "グレーチング",
+      "en": "Gratings",
+      "count": 139,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B3/68": {
+      "code": "B63B3/68",
+      "level": 2,
+      "parent": "B63B3/14",
+      "ja": "羽目板；ライニング，例．防熱を目的とするもの",
+      "en": "Panellings; Linings, e.g. for insulating purposes",
+      "count": 1601,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B3/70": {
+      "code": "B63B3/70",
+      "level": 2,
+      "parent": "B63B3/14",
+      "ja": "局部的な荷重，例．推進装置，大砲を支持するための補強装置",
+      "en": "Reinforcements for carrying localised loads, e.g. propulsion plant, guns",
+      "count": 401,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B5/00": {
+      "code": "B63B5/00",
+      "level": 0,
+      "parent": "B63B",
+      "ja": "非金属製の船体",
+      "en": "Hulls characterised by their construction of non-metallic material",
+      "count": 633,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B5/02": {
+      "code": "B63B5/02",
+      "level": 1,
+      "parent": "B63B5/00",
+      "ja": "主に木材からなるもの",
+      "en": "made predominantly of wood",
+      "count": 113,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B5/04": {
+      "code": "B63B5/04",
+      "level": 2,
+      "parent": "B63B5/02",
+      "ja": "骨組材",
+      "en": "Carcasses",
+      "count": 31,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B5/06": {
+      "code": "B63B5/06",
+      "level": 2,
+      "parent": "B63B5/02",
+      "ja": "甲板；外板",
+      "en": "Decks; Shells",
+      "count": 198,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B5/08": {
+      "code": "B63B5/08",
+      "level": 3,
+      "parent": "B63B5/06",
+      "ja": "単層の板張りからなるもの",
+      "en": "with single-layer planking",
+      "count": 38,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B5/10": {
+      "code": "B63B5/10",
+      "level": 3,
+      "parent": "B63B5/06",
+      "ja": "複層の板張りからなるもの",
+      "en": "with multiple-layer planking",
+      "count": 41,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B5/12": {
+      "code": "B63B5/12",
+      "level": 1,
+      "parent": "B63B5/00",
+      "ja": "主に金属の補強材をもつ木材からなるもの，すなわち，金属と木材の混合された構造",
+      "en": "made predominantly of wood with metal reinforcement, i.e. composite construction",
+      "count": 40,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B5/14": {
+      "code": "B63B5/14",
+      "level": 1,
+      "parent": "B63B5/00",
+      "ja": "主にコンクリートからなるもの，例．鉄筋コンクリート",
+      "en": "made predominantly of concrete, e.g. reinforced",
+      "count": 311,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B5/16": {
+      "code": "B63B5/16",
+      "level": 2,
+      "parent": "B63B5/14",
+      "ja": "一体構造のもの",
+      "en": "monolithic",
+      "count": 266,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B5/18": {
+      "code": "B63B5/18",
+      "level": 2,
+      "parent": "B63B5/14",
+      "ja": "複数の部片から製作されたもの",
+      "en": "built-up from elements",
+      "count": 96,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B5/20": {
+      "code": "B63B5/20",
+      "level": 3,
+      "parent": "B63B5/18",
+      "ja": "他の材料の部片と結合されたもの",
+      "en": "in combination with elements of other materials",
+      "count": 112,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B5/22": {
+      "code": "B63B5/22",
+      "level": 2,
+      "parent": "B63B5/14",
+      "ja": "外板の表面に補強材をもつもの",
+      "en": "with reinforcing members external to shell",
+      "count": 29,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B5/24": {
+      "code": "B63B5/24",
+      "level": 1,
+      "parent": "B63B5/00",
+      "ja": "主にプラスチックからなるもの",
+      "en": "made predominantly of plastics",
+      "count": 2318,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B7/00": {
+      "code": "B63B7/00",
+      "level": 0,
+      "parent": "B63B",
+      "ja": "折たたみ自在，折重ね自在，膨張自在またはそれに類する船舶（折たたみ自在，折重ね自在または膨張自在の水上スポーツボードＢ６３Ｂ３２／５３；折たたみ自在，折重ね自在または膨張自在のカヌー，カイヤックまたは類似のものＢ６３Ｂ３４／２３；折重ね自在のポンツーンＢ６３Ｂ３５／３６）［２０２０．０１］",
+      "en": "Collapsible, foldable, inflatable or like vessels(collapsible, foldable or inflatable water sports boards <b>B63B32/53</b>;   collapsible, foldable or inflatable canoes, kayaks or the like <b>B63B34/23</b>;   foldable pontoons <b>B63B35/36</b>)",
+      "count": 1211,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B7/02": {
+      "code": "B63B7/02",
+      "level": 1,
+      "parent": "B63B7/00",
+      "ja": "剛性な部分のみからなるもの［２０２０．０１］",
+      "en": "comprising only rigid parts",
+      "count": 757,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B7/04": {
+      "code": "B63B7/04",
+      "level": 2,
+      "parent": "B63B7/02",
+      "ja": "区分されたもの（区分された水上スポーツボードＢ６３Ｂ３２／５３；区分されたカヌー，カヤックまたは類似のものＢ６３Ｂ３４／２３）［２０２０．０１］",
+      "en": "sectionalised  (sectionalised water sports boards <b>B63B32/53</b>;   sectionalised canoes, kayaks or the like <b>B63B34/23</b>)",
+      "count": 1163,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B7/06": {
+      "code": "B63B7/06",
+      "level": 1,
+      "parent": "B63B7/00",
+      "ja": "剛性のない材料からなる部分をもつもの［２０２０．０１］",
+      "en": "having parts of non-rigid material",
+      "count": 1027,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B7/08": {
+      "code": "B63B7/08",
+      "level": 2,
+      "parent": "B63B7/06",
+      "ja": "膨張可能なもの（膨張可能な水上スポーツボードＢ６３Ｂ３２／５１；膨張可能なカヌー，カヤックまたは膨張可能な部品付のその類Ｂ６３Ｂ３４／２２）［２０２０．０１］",
+      "en": "Inflatable  (inflatable water sports boards <b>B63B32/51</b>;  canoes, kayaks or the like being inflatable or having inflatable parts <b>B63B34/22</b>)",
+      "count": 4312,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B11/00": {
+      "code": "B63B11/00",
+      "level": 0,
+      "parent": "B63B",
+      "ja": "船体の内部区画（隔壁部の構造Ｂ６３Ｂ３／５６）",
+      "en": "Interior subdivision of hulls(bulkhead space construction <b>B63B3/56</b>)",
+      "count": 1744,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B11/02": {
+      "code": "B63B11/02",
+      "level": 1,
+      "parent": "B63B11/00",
+      "ja": "隔壁の配置，例．船倉の区画",
+      "en": "Arrangement of bulkheads, e.g. defining cargo spaces",
+      "count": 1237,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B11/04": {
+      "code": "B63B11/04",
+      "level": 1,
+      "parent": "B63B11/00",
+      "ja": "燃料庫またはバラストタンクの構造的特徴，例．弾性壁をもつもの（タンクの清掃Ｂ６３Ｂ５７／００）",
+      "en": "Constructional features of bunkers or ballast tanks, e.g. with elastic walls",
+      "count": 2376,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B11/06": {
+      "code": "B63B11/06",
+      "level": 1,
+      "parent": "B63B11/00",
+      "ja": "プロペラ軸路",
+      "en": "Propeller-shaft tunnels",
+      "count": 57,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B13/00": {
+      "code": "B63B13/00",
+      "level": 0,
+      "parent": "B63B",
+      "ja": "バラスト水注排水のための導管；自動あかとり装置；排水口",
+      "en": "Conduits for emptying or ballasting; Self-bailing equipment; Scuppers",
+      "count": 6093,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B13/02": {
+      "code": "B63B13/02",
+      "level": 1,
+      "parent": "B63B13/00",
+      "ja": "船舶の玄側を通過する水の開口",
+      "en": "Ports for passing water through vessels' sides",
+      "count": 579,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B15/00": {
+      "code": "B63B15/00",
+      "level": 0,
+      "parent": "B63B",
+      "ja": "上部構造；マスト装置または設備",
+      "en": "Superstructures; Arrangements or adaptations of masts",
+      "count": 4236,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B15/02": {
+      "code": "B63B15/02",
+      "level": 1,
+      "parent": "B63B15/00",
+      "ja": "マストまたは他の上部構造の支柱",
+      "en": "Staying of masts or of other superstructures",
+      "count": 1540,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B17/00": {
+      "code": "B63B17/00",
+      "level": 0,
+      "parent": "B63B",
+      "ja": "他に分類されない船舶の部分，部品，付属品",
+      "en": "Vessels parts, details, or accessories, not otherwise provided for",
+      "count": 12760,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B17/02": {
+      "code": "B63B17/02",
+      "level": 1,
+      "parent": "B63B17/00",
+      "ja": "天幕",
+      "en": "Awnings",
+      "count": 2075,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B17/04": {
+      "code": "B63B17/04",
+      "level": 1,
+      "parent": "B63B17/00",
+      "ja": "支柱；ガードレール",
+      "en": "Stanchions; Guard-rails",
+      "count": 1930,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B17/06": {
+      "code": "B63B17/06",
+      "level": 1,
+      "parent": "B63B17/00",
+      "ja": "廃棄物の排出，例．灰",
+      "en": "Refuse discharge, e.g. for ash",
+      "count": 267,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B19/00": {
+      "code": "B63B19/00",
+      "level": 0,
+      "parent": "B63B",
+      "ja": "載貨門，扉，窓，舷窓または他の開口または蓋の装置または設備（排水口Ｂ６３Ｂ１３／００；隔壁用の水密扉装置Ｂ６３Ｂ４３／２４）",
+      "en": "Arrangements or adaptations of ports, doors, windows, port-holes, or other openings or covers(scuppers <b>B63B13/00</b>; arrangements of watertight doors in bulkheads <b>B63B43/24</b>)",
+      "count": 3551,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B19/02": {
+      "code": "B63B19/02",
+      "level": 1,
+      "parent": "B63B19/00",
+      "ja": "船舶またはその他の水上浮揚構造物のために特別に適合された窓，例．透明なスクリーンまたは舷窓",
+      "en": "Windows specially adapted for ships or other waterborne vessels, e.g. clear-view screens or portholes",
+      "count": 745,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B19/04": {
+      "code": "B63B19/04",
+      "level": 1,
+      "parent": "B63B19/00",
+      "ja": "窓または舷窓に関連した空気採入れ装置",
+      "en": "Air-catching equipment related to windows or port-holes",
+      "count": 160,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B19/06": {
+      "code": "B63B19/06",
+      "level": 2,
+      "parent": "B63B19/04",
+      "ja": "取外し自在のもの",
+      "en": "readily detachable",
+      "count": 26,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B19/08": {
+      "code": "B63B19/08",
+      "level": 1,
+      "parent": "B63B19/00",
+      "ja": "船舶の舷側の載貨門またはそれに類する開口（船舶の舷側を通過する水の開口Ｂ６３Ｂ１３／０２）",
+      "en": "Ports or like openings in vessels' sides(ports for passing water through vessels' sides <b>B63B13/02</b>)",
+      "count": 696,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B19/10": {
+      "code": "B63B19/10",
+      "level": 2,
+      "parent": "B63B19/08",
+      "ja": "石炭取入口",
+      "en": "Coal ports",
+      "count": 3,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B19/12": {
+      "code": "B63B19/12",
+      "level": 1,
+      "parent": "B63B19/00",
+      "ja": "ハッチ装置；ハッチ（ハッチコーミングＢ６３Ｂ３／５４）",
+      "en": "Hatches; Hatchways(hatch coamings <b>B63B3/54</b>)",
+      "count": 773,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B19/14": {
+      "code": "B63B19/14",
+      "level": 2,
+      "parent": "B63B19/12",
+      "ja": "ハッチカバー",
+      "en": "Hatch covers",
+      "count": 2213,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B19/16": {
+      "code": "B63B19/16",
+      "level": 3,
+      "parent": "B63B19/14",
+      "ja": "取外し自在の板をもつもの",
+      "en": "with detachable boards",
+      "count": 276,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B19/18": {
+      "code": "B63B19/18",
+      "level": 3,
+      "parent": "B63B19/14",
+      "ja": "滑動自在のもの",
+      "en": "slidable",
+      "count": 922,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B19/19": {
+      "code": "B63B19/19",
+      "level": 3,
+      "parent": "B63B19/14",
+      "ja": "折りたたみ自在のもの［３］",
+      "en": "foldable",
+      "count": 315,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B19/197": {
+      "code": "B63B19/197",
+      "level": 4,
+      "parent": "B63B19/19",
+      "ja": "流体圧力によって作動されるもの［３］",
+      "en": "actuated by fluid pressure",
+      "count": 388,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B19/203": {
+      "code": "B63B19/203",
+      "level": 4,
+      "parent": "B63B19/19",
+      "ja": "ケーブルまたはこれに類するものにより作動されるもの［３］",
+      "en": "actuated by cables or the like",
+      "count": 249,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B19/21": {
+      "code": "B63B19/21",
+      "level": 3,
+      "parent": "B63B19/14",
+      "ja": "巻上げ式のもの［３］",
+      "en": "of roll-up type",
+      "count": 101,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B19/22": {
+      "code": "B63B19/22",
+      "level": 2,
+      "parent": "B63B19/12",
+      "ja": "ハッチビーム",
+      "en": "Hatch beams",
+      "count": 67,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B19/24": {
+      "code": "B63B19/24",
+      "level": 2,
+      "parent": "B63B19/12",
+      "ja": "ハッチ緊締具，例．クリート",
+      "en": "Hatch fastenings, e.g. cleats",
+      "count": 938,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B19/26": {
+      "code": "B63B19/26",
+      "level": 2,
+      "parent": "B63B19/12",
+      "ja": "ガスケット；排水装置",
+      "en": "Gaskets; Draining means",
+      "count": 708,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B19/28": {
+      "code": "B63B19/28",
+      "level": 2,
+      "parent": "B63B19/12",
+      "ja": "その他の安全装置",
+      "en": "Other safety devices",
+      "count": 386,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B21/00": {
+      "code": "B63B21/00",
+      "level": 0,
+      "parent": "B63B",
+      "ja": "係船；移動，曳船，または押船用装置；錨泊（動的停留Ｂ６３Ｈ２５／００；海岸，港湾またはその他の固定海洋構造物のための船舶用設備，例．揚陸目的のため，Ｅ０２Ｂ）［２００６．０１］",
+      "en": "Tying-up; Shifting, towing, or pushing equipment; Anchoring(dynamic anchoring <b>B63H25/00</b>; equipment for shipping on coasts, in harbours or on other fixed marine structures, e.g. for landing purposes, <b>E02B</b>)",
+      "count": 4467,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B21/02": {
+      "code": "B63B21/02",
+      "level": 1,
+      "parent": "B63B21/00",
+      "ja": "磁力式係船装置",
+      "en": "Magnetic mooring equipment",
+      "count": 246,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B21/04": {
+      "code": "B63B21/04",
+      "level": 1,
+      "parent": "B63B21/00",
+      "ja": "チェーン，ロープ，大綱，それに類するものの緊締または案内の装置",
+      "en": "Fastening or guiding equipment for chains, ropes, hawsers, or the like",
+      "count": 2855,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B21/06": {
+      "code": "B63B21/06",
+      "level": 2,
+      "parent": "B63B21/04",
+      "ja": "ボラード",
+      "en": "Bollards",
+      "count": 708,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B21/08": {
+      "code": "B63B21/08",
+      "level": 2,
+      "parent": "B63B21/04",
+      "ja": "締付け装置",
+      "en": "Clamping devices",
+      "count": 696,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B21/10": {
+      "code": "B63B21/10",
+      "level": 2,
+      "parent": "B63B21/04",
+      "ja": "フェアリーダ",
+      "en": "Fairleads",
+      "count": 1442,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B21/12": {
+      "code": "B63B21/12",
+      "level": 2,
+      "parent": "B63B21/04",
+      "ja": "ねずみよけ",
+      "en": "Rat guards",
+      "count": 118,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B21/14": {
+      "code": "B63B21/14",
+      "level": 2,
+      "parent": "B63B21/04",
+      "ja": "ホース孔；ホースパイプ；ホース孔閉鎖装置",
+      "en": "Hawse-holes; Hawse-pipes; Hawse-hole closures",
+      "count": 488,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B21/16": {
+      "code": "B63B21/16",
+      "level": 1,
+      "parent": "B63B21/00",
+      "ja": "ウインチを使用するもの",
+      "en": "using winches",
+      "count": 2077,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B21/18": {
+      "code": "B63B21/18",
+      "level": 1,
+      "parent": "B63B21/00",
+      "ja": "アンカーチェーンのストッパー",
+      "en": "Stoppers for anchor chains",
+      "count": 860,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B21/20": {
+      "code": "B63B21/20",
+      "level": 1,
+      "parent": "B63B21/00",
+      "ja": "チェーン，ロープ，ハウザーまたはこれに類するもの，またはそれの部分の装置",
+      "en": "Adaptations of chains, ropes, hawsers, or the like, or of parts thereof",
+      "count": 2780,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B21/22": {
+      "code": "B63B21/22",
+      "level": 1,
+      "parent": "B63B21/00",
+      "ja": "いかりの取扱いまたは捕縛",
+      "en": "Handling or lashing anchors",
+      "count": 2136,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B21/24": {
+      "code": "B63B21/24",
+      "level": 1,
+      "parent": "B63B21/00",
+      "ja": "いかり",
+      "en": "Anchors",
+      "count": 1210,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B21/26": {
+      "code": "B63B21/26",
+      "level": 2,
+      "parent": "B63B21/24",
+      "ja": "水底に固定されているもの",
+      "en": "securing to bed",
+      "count": 1216,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B21/27": {
+      "code": "B63B21/27",
+      "level": 3,
+      "parent": "B63B21/26",
+      "ja": "吸引によるもの［２］",
+      "en": "by suction",
+      "count": 349,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B21/28": {
+      "code": "B63B21/28",
+      "level": 3,
+      "parent": "B63B21/26",
+      "ja": "爆発物により駆動されるもの",
+      "en": "driven-in by explosive charge",
+      "count": 94,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B21/29": {
+      "code": "B63B21/29",
+      "level": 3,
+      "parent": "B63B21/26",
+      "ja": "重量によるもの，例．爪なし重量いかり［２］",
+      "en": "by weight, e.g. flukeless weight anchors",
+      "count": 489,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B21/30": {
+      "code": "B63B21/30",
+      "level": 2,
+      "parent": "B63B21/24",
+      "ja": "使用時に固定されているもの［３］",
+      "en": "rigid when in use",
+      "count": 267,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B21/32": {
+      "code": "B63B21/32",
+      "level": 3,
+      "parent": "B63B21/30",
+      "ja": "１本つめのもの",
+      "en": "with one fluke",
+      "count": 202,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B21/34": {
+      "code": "B63B21/34",
+      "level": 3,
+      "parent": "B63B21/30",
+      "ja": "２本以上のつめのもの",
+      "en": "with two or more flukes",
+      "count": 331,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B21/36": {
+      "code": "B63B21/36",
+      "level": 4,
+      "parent": "B63B21/34",
+      "ja": "折たたみ自在のもの",
+      "en": "foldable",
+      "count": 394,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B21/38": {
+      "code": "B63B21/38",
+      "level": 2,
+      "parent": "B63B21/24",
+      "ja": "使用時に回転するもの［３］",
+      "en": "pivoting when in use",
+      "count": 212,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B21/40": {
+      "code": "B63B21/40",
+      "level": 3,
+      "parent": "B63B21/38",
+      "ja": "１本つめのもの",
+      "en": "with one fluke",
+      "count": 73,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B21/42": {
+      "code": "B63B21/42",
+      "level": 4,
+      "parent": "B63B21/40",
+      "ja": "すき刃式のもの",
+      "en": "of ploughshare type",
+      "count": 83,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B21/44": {
+      "code": "B63B21/44",
+      "level": 3,
+      "parent": "B63B21/38",
+      "ja": "２本以上のつめのもの",
+      "en": "with two or more flukes",
+      "count": 643,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B21/46": {
+      "code": "B63B21/46",
+      "level": 2,
+      "parent": "B63B21/24",
+      "ja": "チェーンへの可変の，例．滑動型の連結部を有するもの［２］",
+      "en": "with variable, e.g. sliding, connection to chain",
+      "count": 319,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B21/48": {
+      "code": "B63B21/48",
+      "level": 2,
+      "parent": "B63B21/24",
+      "ja": "シーアンカー；抵抗体",
+      "en": "Sea-anchors; Drogues",
+      "count": 462,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B21/50": {
+      "code": "B63B21/50",
+      "level": 1,
+      "parent": "B63B21/00",
+      "ja": "特殊船舶用，例．穿孔用浮きプラットフォームまたは浚渫船用，のいかり装置",
+      "en": "Anchoring arrangements for special vessels, e.g. for floating drilling platforms or dredgers",
+      "count": 7746,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B21/54": {
+      "code": "B63B21/54",
+      "level": 1,
+      "parent": "B63B21/00",
+      "ja": "ポートフックまたはそれに類するもの",
+      "en": "Boat-hooks or the like",
+      "count": 427,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B21/56": {
+      "code": "B63B21/56",
+      "level": 1,
+      "parent": "B63B21/00",
+      "ja": "曳航または押航の装置（曳船Ｂ６３Ｂ３５／６６；水上スポーツ用途の器具の曳航Ｂ６３Ｂ３４／６０）［２００６．０１］",
+      "en": "Towing or pushing equipment(tugs <b>B63B35/66</b>; towing arrangements for water sports use <b>B63B34/60</b>)",
+      "count": 2315,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B21/58": {
+      "code": "B63B21/58",
+      "level": 2,
+      "parent": "B63B21/56",
+      "ja": "曳航用フック装置；曳航用フックの取付け",
+      "en": "Adaptations of hooks for towing; Towing-hook mountings",
+      "count": 324,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B21/60": {
+      "code": "B63B21/60",
+      "level": 3,
+      "parent": "B63B21/58",
+      "ja": "緊急解脱",
+      "en": "Quick releases",
+      "count": 255,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B21/62": {
+      "code": "B63B21/62",
+      "level": 2,
+      "parent": "B63B21/56",
+      "ja": "二隻以上の船舶の移動を特徴とするもの",
+      "en": "characterised by moving of more than one vessel",
+      "count": 252,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B21/64": {
+      "code": "B63B21/64",
+      "level": 2,
+      "parent": "B63B21/56",
+      "ja": "水路に沿って地上の通路上を前進移動する車両または動物によって船舶を曳きまたは押すための装置（ボートフックまたはそれに類するものＢ６３Ｂ２１／５４）［２］",
+      "en": "Equipment for towing or pushing vessels by vehicles or beings moving forward on ground-based paths along water-way(boat-hooks or the like <b>B63B21/54</b>)",
+      "count": 153,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B21/66": {
+      "code": "B63B21/66",
+      "level": 2,
+      "parent": "B63B21/56",
+      "ja": "水中の物体または船舶の曳航に特に適した装置，例．曳航ケーブルの為の整形体［３］",
+      "en": "Equipment specially adapted for towing underwater objects or vessels, e.g. fairings for tow-cables",
+      "count": 1467,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B22/00": {
+      "code": "B63B22/00",
+      "level": 0,
+      "parent": "B63B",
+      "ja": "ブイ（水中物の位置表示装置Ｂ６３Ｃ７／２６；救命ブイ，例．浮輪，Ｂ６３Ｃ９／０８）［４］",
+      "en": "Buoys(means for indicating the location of underwater objects <b>B63C7/26</b>; life-buoys, e.g. rings, <b>B63C9/08</b>)",
+      "count": 8499,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B22/02": {
+      "code": "B63B22/02",
+      "level": 1,
+      "parent": "B63B22/00",
+      "ja": "船舶の係留に特に適合したもの［４］",
+      "en": "specially adapted for mooring a vessel",
+      "count": 1866,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B22/04": {
+      "code": "B63B22/04",
+      "level": 1,
+      "parent": "B63B22/00",
+      "ja": "錨泊装置［４］",
+      "en": "Anchoring arrangements",
+      "count": 1757,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B22/06": {
+      "code": "B63B22/06",
+      "level": 2,
+      "parent": "B63B22/04",
+      "ja": "受信信号に応答してブイを水面に浮上させる手段を備えたもの［４］",
+      "en": "with means to cause the buoy to surface in response to a transmitted signal",
+      "count": 299,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B22/08": {
+      "code": "B63B22/08",
+      "level": 2,
+      "parent": "B63B22/04",
+      "ja": "ブイが水中に沈むとき，ブイを解放するか，またはブイを水面に浮上させる手段をもつもの，例．沈んでいる物体の位置を表示するためのもの［４］",
+      "en": "having means to release or urge to the surface a buoy on submergence thereof, e.g. to mark location of a sunken object",
+      "count": 485,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B22/10": {
+      "code": "B63B22/10",
+      "level": 3,
+      "parent": "B63B22/08",
+      "ja": "水に溶解する，または水によつて弱化する手段，例．ブイ―物体固定手段が水と接触したとき破壊されて解放されるブイ［４］",
+      "en": "Water soluble or water weakened means, i.e. buoy released by buoy-to-object securing means being destroyed on contact with water",
+      "count": 64,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B22/12": {
+      "code": "B63B22/12",
+      "level": 3,
+      "parent": "B63B22/08",
+      "ja": "ブイが水中に沈むときに放出される，または作り出されるガスによってブイの浮上が助けられるもの［４］",
+      "en": "the surfacing of the buoy being assisted by a gas released or generated on submergence of the buoy",
+      "count": 144,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B22/14": {
+      "code": "B63B22/14",
+      "level": 3,
+      "parent": "B63B22/08",
+      "ja": "静水圧に応答するブイ―物体固定装置［４］",
+      "en": "Buoy-to-object securing means responsive to hydrostatic pressure",
+      "count": 108,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B22/16": {
+      "code": "B63B22/16",
+      "level": 1,
+      "parent": "B63B22/00",
+      "ja": "航路を表示するために特に適合したもの［４］",
+      "en": "specially adapted for marking a navigational route",
+      "count": 2390,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B22/18": {
+      "code": "B63B22/18",
+      "level": 1,
+      "parent": "B63B22/00",
+      "ja": "姿勢または位置を制御する手段，例．反動面または係留鎖，を持つもの［４］",
+      "en": "having means to control attitude or position, e.g. reaction surfaces or tether",
+      "count": 1723,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B22/20": {
+      "code": "B63B22/20",
+      "level": 2,
+      "parent": "B63B22/18",
+      "ja": "バラスト手段［４］",
+      "en": "Ballast means",
+      "count": 1164,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B22/22": {
+      "code": "B63B22/22",
+      "level": 1,
+      "parent": "B63B22/00",
+      "ja": "ガス発生手段で膨張可能なブイ（Ｂ６３Ｂ２２／１２が優先）［４］",
+      "en": "Inflatable buoys with gas generating means(<b>B63B22/12</b> takes precedence)",
+      "count": 363,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B22/24": {
+      "code": "B63B22/24",
+      "level": 1,
+      "parent": "B63B22/00",
+      "ja": "コンテナ型，すなわち．物品貯蔵用設備を有するもの［４］",
+      "en": "container type, i.e. having provision for the storage of material",
+      "count": 757,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B22/26": {
+      "code": "B63B22/26",
+      "level": 2,
+      "parent": "B63B22/24",
+      "ja": "内容物を選択的に解放する手段，例．回り継手，を持つもの［４］",
+      "en": "having means to selectively release contents, e.g. swivel couplings",
+      "count": 72,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B22/28": {
+      "code": "B63B22/28",
+      "level": 2,
+      "parent": "B63B22/24",
+      "ja": "不使用時沈められているもの［４］",
+      "en": "submerged when not in use",
+      "count": 64,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B23/00": {
+      "code": "B63B23/00",
+      "level": 0,
+      "parent": "B63B",
+      "ja": "救命艇またはそれに類するものの操作装置",
+      "en": "Equipment for handling lifeboats or the like",
+      "count": 748,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B23/02": {
+      "code": "B63B23/02",
+      "level": 1,
+      "parent": "B63B23/00",
+      "ja": "ダビット，すなわち，ケーブルまたはそれに類するものによるボートを降下させるアームを備えた装置",
+      "en": "Davits, i.e. devices having arms for lowering boats by cables or the like",
+      "count": 400,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B23/04": {
+      "code": "B63B23/04",
+      "level": 2,
+      "parent": "B63B23/02",
+      "ja": "水平軸の周りに回動するアームを備えたもの，例．重力型",
+      "en": "with arms pivoting on substantially-horizontal axes, e.g. gravity type",
+      "count": 881,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B23/06": {
+      "code": "B63B23/06",
+      "level": 3,
+      "parent": "B63B23/04",
+      "ja": "旋回軸を備えたもの",
+      "en": "with actual pivots",
+      "count": 65,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B23/08": {
+      "code": "B63B23/08",
+      "level": 4,
+      "parent": "B63B23/06",
+      "ja": "アームが関節接合であるもの",
+      "en": "the arms being articulated",
+      "count": 82,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B23/10": {
+      "code": "B63B23/10",
+      "level": 4,
+      "parent": "B63B23/06",
+      "ja": "アーム自体の駆動装置を備えたもの",
+      "en": "with positive drive of the arms",
+      "count": 61,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B23/12": {
+      "code": "B63B23/12",
+      "level": 3,
+      "parent": "B63B23/04",
+      "ja": "仮想旋回軸を備えたもの",
+      "en": "with simulated pivots",
+      "count": 4,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B23/14": {
+      "code": "B63B23/14",
+      "level": 4,
+      "parent": "B63B23/12",
+      "ja": "リンク機構を使用したもの",
+      "en": "using linkages",
+      "count": 9,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B23/16": {
+      "code": "B63B23/16",
+      "level": 4,
+      "parent": "B63B23/12",
+      "ja": "案内軌条を使用したもの",
+      "en": "using guide tracks",
+      "count": 28,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B23/18": {
+      "code": "B63B23/18",
+      "level": 2,
+      "parent": "B63B23/02",
+      "ja": "垂直軸の周りに回動するアームを備えたもの",
+      "en": "with arms pivoting on substantially-vertical axes",
+      "count": 680,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B23/20": {
+      "code": "B63B23/20",
+      "level": 3,
+      "parent": "B63B23/18",
+      "ja": "一本アームのダビット",
+      "en": "Davits with single arms",
+      "count": 43,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B23/22": {
+      "code": "B63B23/22",
+      "level": 4,
+      "parent": "B63B23/20",
+      "ja": "スリングまたはその代りとなるそれに類するもの",
+      "en": "Slings or the like therefor",
+      "count": 17,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B23/24": {
+      "code": "B63B23/24",
+      "level": 3,
+      "parent": "B63B23/18",
+      "ja": "ダビットの回動装置",
+      "en": "Slewing equipment therefor",
+      "count": 35,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B23/26": {
+      "code": "B63B23/26",
+      "level": 2,
+      "parent": "B63B23/02",
+      "ja": "降下前におけるボートの直線的移動を伴うもの",
+      "en": "with rectilinear translation of boat before lowering",
+      "count": 65,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B23/28": {
+      "code": "B63B23/28",
+      "level": 1,
+      "parent": "B63B23/00",
+      "ja": "自由降下のためのボートの放出または解放の装置",
+      "en": "Devices for projecting or releasing boats for free fall",
+      "count": 366,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B23/30": {
+      "code": "B63B23/30",
+      "level": 1,
+      "parent": "B63B23/00",
+      "ja": "水面にボートを案内する装置",
+      "en": "Devices for guiding boats to water surface",
+      "count": 237,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B23/32": {
+      "code": "B63B23/32",
+      "level": 2,
+      "parent": "B63B23/30",
+      "ja": "固定されている案内具，例．水線近くで回動するアームを備えたもの",
+      "en": "Rigid guides, e.g. having arms pivoted near waterline",
+      "count": 255,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B23/34": {
+      "code": "B63B23/34",
+      "level": 2,
+      "parent": "B63B23/30",
+      "ja": "ケーブルによる降下のための案内装置，例．船を傾けるもの",
+      "en": "Guiding means for lowering by cables, e.g. for listing ships",
+      "count": 137,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B23/36": {
+      "code": "B63B23/36",
+      "level": 3,
+      "parent": "B63B23/34",
+      "ja": "滑り止めフエンダ",
+      "en": "Skid fenders",
+      "count": 54,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B23/38": {
+      "code": "B63B23/38",
+      "level": 1,
+      "parent": "B63B23/00",
+      "ja": "ダビットまたはそれに類するものへのボートの移送",
+      "en": "Transport of boats to davits or the like",
+      "count": 51,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B23/40": {
+      "code": "B63B23/40",
+      "level": 1,
+      "parent": "B63B23/00",
+      "ja": "揚降装置の使用",
+      "en": "Use of lowering or hoisting gear",
+      "count": 380,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B23/42": {
+      "code": "B63B23/42",
+      "level": 2,
+      "parent": "B63B23/40",
+      "ja": "ブレーキ装置を備えたもの",
+      "en": "with braking equipment",
+      "count": 21,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B23/44": {
+      "code": "B63B23/44",
+      "level": 3,
+      "parent": "B63B23/42",
+      "ja": "本船上のもの",
+      "en": "on the ship",
+      "count": 35,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B23/46": {
+      "code": "B63B23/46",
+      "level": 3,
+      "parent": "B63B23/42",
+      "ja": "ボート内のもの",
+      "en": "in the boat",
+      "count": 12,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B23/48": {
+      "code": "B63B23/48",
+      "level": 2,
+      "parent": "B63B23/40",
+      "ja": "ボートを取扱うウインチを使用したもの（ウインチそれ自体Ｂ６６Ｄ）",
+      "en": "using winches for boat handling",
+      "count": 366,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B23/50": {
+      "code": "B63B23/50",
+      "level": 3,
+      "parent": "B63B23/48",
+      "ja": "引張り装置を備えたもの",
+      "en": "with tensioning gear",
+      "count": 47,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B23/52": {
+      "code": "B63B23/52",
+      "level": 3,
+      "parent": "B63B23/48",
+      "ja": "ボート上にウインチ操作装置を備えたもの",
+      "en": "with control of winches from boat",
+      "count": 51,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B23/54": {
+      "code": "B63B23/54",
+      "level": 2,
+      "parent": "B63B23/40",
+      "ja": "姿勢調整装置を備えたもの",
+      "en": "with trimming equipment",
+      "count": 47,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B23/56": {
+      "code": "B63B23/56",
+      "level": 3,
+      "parent": "B63B23/54",
+      "ja": "ボート上から操作されるもの",
+      "en": "controlled from boat",
+      "count": 8,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B23/58": {
+      "code": "B63B23/58",
+      "level": 2,
+      "parent": "B63B23/40",
+      "ja": "索具に係合または解脱する装置を備えたもの",
+      "en": "with tackle-engaging or release gear",
+      "count": 407,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B23/60": {
+      "code": "B63B23/60",
+      "level": 2,
+      "parent": "B63B23/40",
+      "ja": "ボートとダビット間の付加的結合",
+      "en": "Additional connections between boat and davit",
+      "count": 88,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B23/62": {
+      "code": "B63B23/62",
+      "level": 1,
+      "parent": "B63B23/00",
+      "ja": "甲板上のボートの固縛または格納",
+      "en": "Fastening or storing of boats on deck",
+      "count": 215,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B23/64": {
+      "code": "B63B23/64",
+      "level": 2,
+      "parent": "B63B23/62",
+      "ja": "ラッシング；おおい",
+      "en": "Lashings; Covers",
+      "count": 54,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B23/66": {
+      "code": "B63B23/66",
+      "level": 2,
+      "parent": "B63B23/62",
+      "ja": "台木；チョック",
+      "en": "Blocks; Chocks",
+      "count": 76,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B23/68": {
+      "code": "B63B23/68",
+      "level": 3,
+      "parent": "B63B23/66",
+      "ja": "ボートの積重ねのためのもの",
+      "en": "for stacking boats",
+      "count": 117,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B23/70": {
+      "code": "B63B23/70",
+      "level": 1,
+      "parent": "B63B23/00",
+      "ja": "条件に応答する取扱い装置，例．着水により下降下テークルからボートを自動的に解放するもの［４］",
+      "en": "Condition-responsive handling equipment, e.g. automatic release of boat from lowering tackle upon contact with water",
+      "count": 133,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B25/00": {
+      "code": "B63B25/00",
+      "level": 0,
+      "parent": "B63B",
+      "ja": "貨物収容装置，例．積付けまたは積荷ならし；それを特徴とする船舶（漁船の魚倉Ｂ６３Ｂ３５／２４；荷分けによる以外の調整，例．バラストの使用によるもの，Ｂ６３Ｂ４３／０６，Ｂ６３Ｂ４３／０８）",
+      "en": "Load-accommodating arrangements, e.g. stowing or trimming; Vessels characterised thereby(fishing vessel fish holds <b>B63B35/24</b>; trimming otherwise than by cargo division. e.g. by use of ballast, <b>B63B43/06</b>, <b>B63B43/08</b>)",
+      "count": 5178,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B25/02": {
+      "code": "B63B25/02",
+      "level": 1,
+      "parent": "B63B25/00",
+      "ja": "不定形貨物のためのもの",
+      "en": "for bulk goods",
+      "count": 1103,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B25/04": {
+      "code": "B63B25/04",
+      "level": 2,
+      "parent": "B63B25/02",
+      "ja": "固体のもの",
+      "en": "solid",
+      "count": 1889,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B25/06": {
+      "code": "B63B25/06",
+      "level": 3,
+      "parent": "B63B25/04",
+      "ja": "穀物のためのもの",
+      "en": "for cereals",
+      "count": 93,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B25/08": {
+      "code": "B63B25/08",
+      "level": 2,
+      "parent": "B63B25/02",
+      "ja": "流体のもの",
+      "en": "fluid",
+      "count": 4086,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B25/10": {
+      "code": "B63B25/10",
+      "level": 3,
+      "parent": "B63B25/08",
+      "ja": "大気中にさらされたもの",
+      "en": "open to ambient air",
+      "count": 153,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B25/12": {
+      "code": "B63B25/12",
+      "level": 3,
+      "parent": "B63B25/08",
+      "ja": "密閉されたもの",
+      "en": "closed",
+      "count": 1392,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B25/14": {
+      "code": "B63B25/14",
+      "level": 4,
+      "parent": "B63B25/12",
+      "ja": "与圧されたもの",
+      "en": "pressurised",
+      "count": 673,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B25/16": {
+      "code": "B63B25/16",
+      "level": 4,
+      "parent": "B63B25/12",
+      "ja": "防熱されたもの",
+      "en": "heat-insulated",
+      "count": 8733,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B25/18": {
+      "code": "B63B25/18",
+      "level": 1,
+      "parent": "B63B25/00",
+      "ja": "取外し自在の甲板",
+      "en": "Detachable decks",
+      "count": 647,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B25/20": {
+      "code": "B63B25/20",
+      "level": 2,
+      "parent": "B63B25/18",
+      "ja": "自動車またはそれに類するもののためのもの",
+      "en": "for motor vehicles or the like",
+      "count": 471,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B25/22": {
+      "code": "B63B25/22",
+      "level": 1,
+      "parent": "B63B25/00",
+      "ja": "パレットにのせられた品物のためのもの",
+      "en": "for palletised articles",
+      "count": 597,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B25/24": {
+      "code": "B63B25/24",
+      "level": 1,
+      "parent": "B63B25/00",
+      "ja": "望まない積荷の移動の防止装置，例．ダンネイジ",
+      "en": "Means for preventing unwanted cargo movement, e.g. dunnage",
+      "count": 2175,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B25/26": {
+      "code": "B63B25/26",
+      "level": 1,
+      "parent": "B63B25/00",
+      "ja": "冷蔵貨物のためのもの",
+      "en": "for frozen goods",
+      "count": 422,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B25/28": {
+      "code": "B63B25/28",
+      "level": 1,
+      "parent": "B63B25/00",
+      "ja": "甲板積みのためのもの",
+      "en": "for deck loads",
+      "count": 1469,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B27/00": {
+      "code": "B63B27/00",
+      "level": 0,
+      "parent": "B63B",
+      "ja": "乗客または貨物の積込み，積降しのための船体付きの装置の配置（自動荷役のバージまたははしけＢ６３Ｂ３５／３０；浮きクレーンＢ６６Ｃ２３／５２）［３］<br><br><b><ul>注</ul></b><br>グループ２７／３０から２７／３６は，グループ２７／０４から２７／２８に優先する。［３］",
+      "en": "Arrangement of ship-based loading or unloading equipment for cargo or passengers(self-discharging barges or lighters <b>B63B35/30</b>; floating cranes <b>B66C23/52</b>)",
+      "count": 2699,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B27/04": {
+      "code": "B63B27/04",
+      "level": 1,
+      "parent": "B63B27/00",
+      "ja": "デリックの配置および取付［３］",
+      "en": "of derricks",
+      "count": 629,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B27/08": {
+      "code": "B63B27/08",
+      "level": 1,
+      "parent": "B63B27/00",
+      "ja": "ウインチの配置および取付［３］",
+      "en": "of winches",
+      "count": 1112,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B27/10": {
+      "code": "B63B27/10",
+      "level": 1,
+      "parent": "B63B27/00",
+      "ja": "クレーンの配置および取付［３］",
+      "en": "of cranes",
+      "count": 2131,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B27/12": {
+      "code": "B63B27/12",
+      "level": 2,
+      "parent": "B63B27/10",
+      "ja": "ガントリクレーンの配置および取付［３］",
+      "en": "of gantry type",
+      "count": 535,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B27/14": {
+      "code": "B63B27/14",
+      "level": 1,
+      "parent": "B63B27/00",
+      "ja": "斜道，ガングウエーまたは船外のはしごの配置および取付［３］",
+      "en": "of ramps, gangways or outboard ladders",
+      "count": 5840,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B27/16": {
+      "code": "B63B27/16",
+      "level": 1,
+      "parent": "B63B27/00",
+      "ja": "リフトまたはホイストの配置および取付け［３］",
+      "en": "of lifts or hoists",
+      "count": 1962,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B27/18": {
+      "code": "B63B27/18",
+      "level": 1,
+      "parent": "B63B27/00",
+      "ja": "索道の配置および取付，例．二又ブイを備えたもの［３］",
+      "en": "of cableways, e.g. with breeches-buoys",
+      "count": 308,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B27/22": {
+      "code": "B63B27/22",
+      "level": 1,
+      "parent": "B63B27/00",
+      "ja": "コンベアの配置および取付け，例．無限帯またはスクリュー型の［３，６］",
+      "en": "of conveyors, e.g. of endless-belt or screw-type",
+      "count": 1402,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B27/24": {
+      "code": "B63B27/24",
+      "level": 1,
+      "parent": "B63B27/00",
+      "ja": "パイプラインの配置および取付［３］",
+      "en": "of pipe-lines",
+      "count": 3111,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B27/25": {
+      "code": "B63B27/25",
+      "level": 2,
+      "parent": "B63B27/24",
+      "ja": "流動化されたバラ積み荷物のためのもの［３］",
+      "en": "for fluidised bulk material",
+      "count": 539,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B27/26": {
+      "code": "B63B27/26",
+      "level": 1,
+      "parent": "B63B27/00",
+      "ja": "投入機能をもつ装置の配置［３］",
+      "en": "of devices with throwing action",
+      "count": 164,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B27/28": {
+      "code": "B63B27/28",
+      "level": 1,
+      "parent": "B63B27/00",
+      "ja": "シュートの配置［３］",
+      "en": "of chutes",
+      "count": 281,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B27/30": {
+      "code": "B63B27/30",
+      "level": 1,
+      "parent": "B63B27/00",
+      "ja": "海上での船舶間または船舶と海洋構造物間の移送のためのもの［３］",
+      "en": "for transfer at sea between ships or between ships and off-shore structures",
+      "count": 1096,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B27/32": {
+      "code": "B63B27/32",
+      "level": 2,
+      "parent": "B63B27/30",
+      "ja": "索道を使用するもの［３］",
+      "en": "using cableways",
+      "count": 125,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B27/34": {
+      "code": "B63B27/34",
+      "level": 2,
+      "parent": "B63B27/30",
+      "ja": "パイプラインを使用するもの［３］",
+      "en": "using pipe-lines",
+      "count": 1821,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B27/36": {
+      "code": "B63B27/36",
+      "level": 1,
+      "parent": "B63B27/00",
+      "ja": "浮遊荷物のためのもの（［３］",
+      "en": "for floating cargo",
+      "count": 631,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B29/00": {
+      "code": "B63B29/00",
+      "level": 0,
+      "parent": "B63B",
+      "ja": "他に分類されない乗組員または乗客の居住設備",
+      "en": "Accommodation for crew or passengers not otherwise provided for",
+      "count": 860,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B29/02": {
+      "code": "B63B29/02",
+      "level": 1,
+      "parent": "B63B29/00",
+      "ja": "船室または他の居住区画；その構造，配置",
+      "en": "Cabins or other living spaces; Construction or arrangement thereof",
+      "count": 2235,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B29/04": {
+      "code": "B63B29/04",
+      "level": 2,
+      "parent": "B63B29/02",
+      "ja": "船舶に特別に適合した調度品",
+      "en": "Furniture specially adapted for vessels",
+      "count": 2296,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B29/06": {
+      "code": "B63B29/06",
+      "level": 3,
+      "parent": "B63B29/04",
+      "ja": "床に固定のもの",
+      "en": "Fastening to floors",
+      "count": 318,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B29/08": {
+      "code": "B63B29/08",
+      "level": 3,
+      "parent": "B63B29/04",
+      "ja": "テーブル上の荒天時の防具，例．とめ枠",
+      "en": "Storm guards on tables, e.g. fiddles",
+      "count": 55,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B29/10": {
+      "code": "B63B29/10",
+      "level": 3,
+      "parent": "B63B29/04",
+      "ja": "寝台；取はずし自在のはしご",
+      "en": "Berths; Mounting ladders therefor",
+      "count": 499,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B29/12": {
+      "code": "B63B29/12",
+      "level": 3,
+      "parent": "B63B29/04",
+      "ja": "自動水平保持装置",
+      "en": "Self-levelling mountings",
+      "count": 423,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B29/14": {
+      "code": "B63B29/14",
+      "level": 2,
+      "parent": "B63B29/02",
+      "ja": "便所またはそれに類する水洗装置；船舶に特有な洗面または入浴設備",
+      "en": "Closet or like flushing arrangements; Washing or bathing facilities peculiar to ships",
+      "count": 686,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B29/16": {
+      "code": "B63B29/16",
+      "level": 1,
+      "parent": "B63B29/00",
+      "ja": "汚水排出装置",
+      "en": "Soil-water discharges",
+      "count": 540,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B29/18": {
+      "code": "B63B29/18",
+      "level": 1,
+      "parent": "B63B29/00",
+      "ja": "水泳プールの設備",
+      "en": "Arrangements or adaptations of swimming pools",
+      "count": 146,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B29/20": {
+      "code": "B63B29/20",
+      "level": 1,
+      "parent": "B63B29/00",
+      "ja": "はしごの装置または設備（寝台の取付けはしごＢ６３Ｂ２９／１０）",
+      "en": "Arrangements or adaptations of ladders(mounting ladders for berths <b>B63B29/10</b>)",
+      "count": 835,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B29/22": {
+      "code": "B63B29/22",
+      "level": 1,
+      "parent": "B63B29/00",
+      "ja": "厨房［２］",
+      "en": "Galleys",
+      "count": 196,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B32/00": {
+      "code": "B63B32/00",
+      "level": 0,
+      "parent": "B63B",
+      "ja": "水上スポーツボード；それらのための付属具［２０２０．０１］<br><br><b><ul>注</ul></b><br>このグループは：<br>―幅に対して薄い胴体を持ち，たいてい一人の使用者を乗せ、水上スポーツまたはレジャー，例．サーフボード，ウィンドサーフィンボード，ウェークボード，スタンドアップパドル［ＳＵＰ］ボードまたは水上スキーに特に適合される浮揚構造物；<br>―そのような構造のための付属具を包含する。",
+      "en": "Water sports boards; Accessories therefor; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This group <u>covers</u>:<ul><li>floating structures having a substantially thin body with respect to the width, usually meant to carry one user, which are specially adapted for water sports or leisure, e.g. surfboards, windsurfing boards, wakeboards, stand-up paddle [SUP] boards or water skis;</li><li>accessories for such structures.</li></ul></li></ul>",
+      "count": 328,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B32/10": {
+      "code": "B63B32/10",
+      "level": 1,
+      "parent": "B63B32/00",
+      "ja": "モーター推進の水上スポーツボード（動力駆動の個人用水上クラフトＢ６３Ｂ３４／１０）［２０２０．０１］",
+      "en": "Motor-propelled water sports boards (power-driven personal watercraft <b>B63B34/10</b>)",
+      "count": 680,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B32/20": {
+      "code": "B63B32/20",
+      "level": 1,
+      "parent": "B63B32/00",
+      "ja": "うつ伏せの使用に特に適合されるボード，例．急流そり（牽引水そりＢ６３Ｂ３４／５４）［２０２０．０１］",
+      "en": "Boards specially adapted for use in a prone position, e.g. wild-water sledges (towed water sledges <b>B63B34/54</b>)",
+      "count": 83,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B32/22": {
+      "code": "B63B32/22",
+      "level": 2,
+      "parent": "B63B32/20",
+      "ja": "サーフィンのためのボディーボード；それらのために特に適合される付属具［２０２０．０１］",
+      "en": "Bodyboards for surfing; Accessories specially adapted therefor",
+      "count": 51,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B32/30": {
+      "code": "B63B32/30",
+      "level": 1,
+      "parent": "B63B32/00",
+      "ja": "使用者の足を固定する水上スキー；それらのために特に適合される付属具［２０２０．０１］",
+      "en": "Water skis fastened to the user&rsquo;s feet; Accessories specially adapted therefor",
+      "count": 119,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B32/40": {
+      "code": "B63B32/40",
+      "level": 1,
+      "parent": "B63B32/00",
+      "ja": "ツインチップボード；ウェイクボード；サーフボード；ウィンドサーフィンボード；パドルボード，例．ＳＵＰボード；それらのために特に適合される付属具［２０２０．０１］",
+      "en": "Twintip boards; Wakeboards; Surfboards; Windsurfing boards; Paddle boards, e.g. SUP boards; Accessories specially adapted therefor",
+      "count": 1097,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B32/50": {
+      "code": "B63B32/50",
+      "level": 1,
+      "parent": "B63B32/00",
+      "ja": "それらの構造的特徴に特徴付けられるボード［２０２０．０１］",
+      "en": "Boards characterised by their constructional features",
+      "count": 226,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B32/51": {
+      "code": "B63B32/51",
+      "level": 2,
+      "parent": "B63B32/50",
+      "ja": "膨張可能なボード，例．ドロップステッチの膨張可能なボード［２０２０．０１］",
+      "en": "Inflatable boards, e.g. drop-stitch inflatable boards",
+      "count": 385,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B32/53": {
+      "code": "B63B32/53",
+      "level": 2,
+      "parent": "B63B32/50",
+      "ja": "区画化されたボード，例．モジュール式，分解可能なまたは折重ね自在なボード［２０２０．０１］",
+      "en": "Sectionalised boards, e.g. modular, dismountable or foldable boards",
+      "count": 146,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B32/55": {
+      "code": "B63B32/55",
+      "level": 2,
+      "parent": "B63B32/50",
+      "ja": "多胴のボード，例．双胴形の［２０２０．０１］",
+      "en": "Multihull boards, e.g. of catamaran type",
+      "count": 47,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B32/56": {
+      "code": "B63B32/56",
+      "level": 2,
+      "parent": "B63B32/50",
+      "ja": "船舶または他の種類の水上スポーツボード，例．ヨット，カヌーまたは水上サイクルに変化できるボード［２０２０．０１］",
+      "en": "Boards convertible into vessels or other types of water sports boards, e.g. into sailboats, canoes or water-cycles",
+      "count": 23,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B32/57": {
+      "code": "B63B32/57",
+      "level": 1,
+      "parent": "B63B32/00",
+      "ja": "材料，例．積層材料に特徴づけられるボード［２０２０．０１］",
+      "en": "Boards characterised by the material, e.g. laminated materials",
+      "count": 143,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B32/59": {
+      "code": "B63B32/59",
+      "level": 1,
+      "parent": "B63B32/00",
+      "ja": "それらの製造工程，例．成形または３Ｄ印刷に特徴づけられるボード［２０２０．０１］",
+      "en": "Boards characterised by their manufacturing process, e.g. moulding or three-dimensional [3D] printing",
+      "count": 73,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B32/60": {
+      "code": "B63B32/60",
+      "level": 1,
+      "parent": "B63B32/00",
+      "ja": "ボード付加物，例．フィン，水中翼またはセンターボード［２０２０．０１］",
+      "en": "Board appendages, e.g. fins, hydrofoils or centre boards",
+      "count": 717,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B32/62": {
+      "code": "B63B32/62",
+      "level": 2,
+      "parent": "B63B32/60",
+      "ja": "材料，例．積層材料に特徴づけられるもの；それらの製造工程に特徴づけられるもの［２０２０．０１］",
+      "en": "characterised by the material, e.g. laminated materials; characterised by their manufacturing process",
+      "count": 50,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B32/64": {
+      "code": "B63B32/64",
+      "level": 2,
+      "parent": "B63B32/60",
+      "ja": "調整できる，例．部品を加えることによる，部品を除くことによるまたは方向または外形を変更することによる［２０２０．０１］",
+      "en": "Adjustable, e.g. by adding sections, by removing sections or by changing orientation or profile",
+      "count": 183,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B32/66": {
+      "code": "B63B32/66",
+      "level": 2,
+      "parent": "B63B32/60",
+      "ja": "ボードに固定するための装備，例．フィン箱または翼箱［２０２０．０１］",
+      "en": "Arrangements for fixation to the board, e.g. fin boxes or foil boxes",
+      "count": 266,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B32/68": {
+      "code": "B63B32/68",
+      "level": 1,
+      "parent": "B63B32/00",
+      "ja": "マストフット付属品，例．マストフットレール［２０２０．０１］",
+      "en": "Mast foot attachments, e.g. mast foot rails",
+      "count": 22,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B32/70": {
+      "code": "B63B32/70",
+      "level": 1,
+      "parent": "B63B32/00",
+      "ja": "特定の種類のボード，例．パッドまたは浮力要素に特に適合される付属具［２０２０．０１］",
+      "en": "Accessories not specially adapted for a particular type of board, e.g. paddings or buoyancy elements  ",
+      "count": 198,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B32/73": {
+      "code": "B63B32/73",
+      "level": 2,
+      "parent": "B63B32/70",
+      "ja": "使用者または物体とボードをつなぐためのもの，例．リーシュコード［２０２０．０１］",
+      "en": "for tethering users or objects to the board, e.g. leashes",
+      "count": 102,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B32/77": {
+      "code": "B63B32/77",
+      "level": 1,
+      "parent": "B63B32/00",
+      "ja": "ボードへの付属具固定用の装備，例．挿入具またはレール［２０２０．０１］",
+      "en": "Arrangements for fixation of accessories to the board, e.g. inserts or rails",
+      "count": 131,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B32/80": {
+      "code": "B63B32/80",
+      "level": 1,
+      "parent": "B63B32/00",
+      "ja": "水上スポーツボードの収容または搬送に特に適合される装備［２０２０．０１］",
+      "en": "Arrangements specially adapted for stowing or transporting water sports boards",
+      "count": 35,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B32/83": {
+      "code": "B63B32/83",
+      "level": 2,
+      "parent": "B63B32/80",
+      "ja": "収容のためのもの，例．ラックまたはストラップ［２０２０．０１］",
+      "en": "for stowing, e.g. racks or straps",
+      "count": 53,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B32/87": {
+      "code": "B63B32/87",
+      "level": 2,
+      "parent": "B63B32/80",
+      "ja": "運搬のためのもの，例．ボードバッグ［２０２０．０１］",
+      "en": "for carrying, e.g. board bags",
+      "count": 61,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B34/00": {
+      "code": "B63B34/00",
+      "level": 0,
+      "parent": "B63B",
+      "ja": "水上スポーツまたはレジャーに特に適合される船舶；水上スポーツまたはレジャーに特に適合される身体支持具（水上スポーツボードＢ６３Ｂ　３２／００；水泳装置Ａ６３Ｂ３５／００；人力によって作動する推進装置Ｂ６３Ｈ１６／００）［２０２０．０１］<br><br><b><ul>注</ul></b><br>このグループは水上スポーツまたはレジャーに特に適合され，使用者の身体を支持し水面上を移動する浮揚構造物を包含する。",
+      "en": "Vessels specially adapted for water sports or leisure; Body-supporting devices specially adapted for water sports or leisure(water sports boards <b>B63B32/00</b>; swimming frameworks <b>A63B35/00</b>; propulsion arrangements actuated by muscle power <b>B63H16/00</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>This group <u>covers</u> floating structures supporting the user&rsquo;s body and moving on the water surface, which are specially adapted for water sports or leisure.</li></ul>",
+      "count": 1226,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B34/10": {
+      "code": "B63B34/10",
+      "level": 1,
+      "parent": "B63B34/00",
+      "ja": "動力駆動の個人用水上クラフト，例．水上スクーター（ウォータージェット推進Ｂ６３Ｈ１１／００；ジェットの操舵Ｂ６３Ｈ２５／４６）；それらのため付属具［２０２０．０１］",
+      "en": "Power-driven personal watercraft, e.g. water scooters  (water jet propulsion <b>B63H11/00</b>;  jet steering <b>B63H25/46</b>);Accessories therefor",
+      "count": 509,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B34/15": {
+      "code": "B63B34/15",
+      "level": 2,
+      "parent": "B63B34/10",
+      "ja": "水力飛行スポーツのためのもの［２０２０．０１］",
+      "en": "for hydroflight sports",
+      "count": 21,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B34/20": {
+      "code": "B63B34/20",
+      "level": 1,
+      "parent": "B63B34/00",
+      "ja": "カヌー，カヤックまたは類似のもの［２０２０．０１］",
+      "en": "Canoes, kayaks or the like",
+      "count": 239,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B34/21": {
+      "code": "B63B34/21",
+      "level": 2,
+      "parent": "B63B34/20",
+      "ja": "構造面で特徴づけられるもの［２０２０．０１］",
+      "en": "characterised by constructional features",
+      "count": 140,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B34/22": {
+      "code": "B63B34/22",
+      "level": 3,
+      "parent": "B63B34/21",
+      "ja": "膨張可能なもの；膨張可能な部分をもつもの［２０２０．０１］",
+      "en": "Inflatable; having inflatable parts",
+      "count": 376,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B34/23": {
+      "code": "B63B34/23",
+      "level": 3,
+      "parent": "B63B34/21",
+      "ja": "区画化されたもの，例．モジュール式または折り畳み可能［２０２０．０１］",
+      "en": "Sectionalised, e.g. modular, collapsible or foldable",
+      "count": 151,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B34/26": {
+      "code": "B63B34/26",
+      "level": 1,
+      "parent": "B63B34/00",
+      "ja": "カヌー，カヤックまたは類似のもののための付属具（人力により推進させるものＢ６３Ｈ１６／００；船外推進装置Ｂ６３Ｈ２０／００）［２０２０．０１］",
+      "en": "Accessories for canoes, kayaks or the like(effecting propulsion by muscle power <b>B63H16/00</b>; outboard propulsion units <b>B63H20/00</b>)",
+      "count": 330,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B34/30": {
+      "code": "B63B34/30",
+      "level": 1,
+      "parent": "B63B34/00",
+      "ja": "競技に特に適合される手漕ぎボート；それらのための付属具（操櫂により推進させるものＢ６３Ｈ１６／００）［２０２０．０１］",
+      "en": "Rowing boats specially adapted for racing; Accessories therefor(effecting propulsion by rowing <b>B63H16/00</b>)",
+      "count": 124,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B34/40": {
+      "code": "B63B34/40",
+      "level": 1,
+      "parent": "B63B34/00",
+      "ja": "水中の翼により動的に支持される身体支持構造［２０２０．０１］",
+      "en": "Body-supporting structures dynamically supported by foils under water",
+      "count": 29,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B34/45": {
+      "code": "B63B34/45",
+      "level": 2,
+      "parent": "B63B34/40",
+      "ja": "それらのための付属具［２０２０．０１］",
+      "en": "Accessories therefor",
+      "count": 17,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B34/50": {
+      "code": "B63B34/50",
+      "level": 1,
+      "parent": "B63B34/00",
+      "ja": "身体を支持する浮力装置，例．水浴用ボートまたは水上自転車（水泳補助具Ａ６３Ｂ３１／００）［２０２０．０１］",
+      "en": "Body-supporting buoyant devices, e.g. bathing boats or water cycles(swimming aids <b>A63B31/00</b>)",
+      "count": 228,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B34/52": {
+      "code": "B63B34/52",
+      "level": 2,
+      "parent": "B63B34/50",
+      "ja": "膨張可能なまたは部分的に膨張可能な［２０２０．０１］",
+      "en": "Inflatable or partly inflatable",
+      "count": 145,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B34/54": {
+      "code": "B63B34/54",
+      "level": 2,
+      "parent": "B63B34/50",
+      "ja": "曳航されることに特に適合したもの，例．バナナボート，水上そりまたは曳航ブイ（曳航のための装置Ｂ６３Ｂ３４／６０）［２０２０．０１］",
+      "en": "specially adapted for being towed, e.g. banana boats, water sledges or towed buoys (arrangements for towing <b>B63B34/60</b>)",
+      "count": 21,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B34/56": {
+      "code": "B63B34/56",
+      "level": 2,
+      "parent": "B63B34/50",
+      "ja": "立位，例．水上靴，水上歩行装置または浮力スキーでの使用のためのもの［２０２０．０１］",
+      "en": "for use in a standing position, e.g. water shoes, water walking devices or buoyant skis",
+      "count": 703,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B34/565": {
+      "code": "B63B34/565",
+      "level": 2,
+      "parent": "B63B34/50",
+      "ja": "付属具，例．水上歩行のための杖［２０２０．０１］",
+      "en": "Accessories, e.g. sticks for water walking",
+      "count": 96,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B34/60": {
+      "code": "B63B34/60",
+      "level": 1,
+      "parent": "B63B34/00",
+      "ja": "曳航用の配置，例．水上スキーまたはウェイクボードに用いるためのもの［２０２０．０１］",
+      "en": "Arrangements for towing, e.g. for use with water-skis or wakeboards",
+      "count": 39,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B34/63": {
+      "code": "B63B34/63",
+      "level": 2,
+      "parent": "B63B34/60",
+      "ja": "使用者のための保持手段，例．ハンドルバーまたはハーネス［２０２０．０１］",
+      "en": "Holding means for the user, e.g. handle bars or harnesses",
+      "count": 16,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B34/67": {
+      "code": "B63B34/67",
+      "level": 2,
+      "parent": "B63B34/60",
+      "ja": "曳航船の接続手段，例．パイロン，サイドポールまたは巻上げ機［２０２０．０１］",
+      "en": "Connection means on the towing watercraft, e.g. pylons, side poles or winches",
+      "count": 30,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B34/70": {
+      "code": "B63B34/70",
+      "level": 1,
+      "parent": "B63B34/00",
+      "ja": "サーフィン，ウェイクボードまたは類似のもののための造波用に特に適合された船舶上の配置，例．バラストタンク［２０２０．０１］",
+      "en": "Arrangements on vessels specially adapted for generating waves for surfing, wakeboarding or the like, e.g. ballast tanks",
+      "count": 64,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B34/75": {
+      "code": "B63B34/75",
+      "level": 2,
+      "parent": "B63B34/70",
+      "ja": "ウェイクプレートの配置［２０２０．０１］",
+      "en": "Arrangements of wake plates",
+      "count": 41,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B35/00": {
+      "code": "B63B35/00",
+      "level": 0,
+      "parent": "B63B",
+      "ja": "特定の目的のため特に適用され他に分類されない船舶またはそれに類する浮揚構造物［２０２０．０１］",
+      "en": "Vessels or similar floating structures specially adapted for specific purposes and not otherwise provided for",
+      "count": 20242,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B35/03": {
+      "code": "B63B35/03",
+      "level": 1,
+      "parent": "B63B35/00",
+      "ja": "パイプ敷設船［５］",
+      "en": "Pipe-laying vessels",
+      "count": 602,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B35/04": {
+      "code": "B63B35/04",
+      "level": 1,
+      "parent": "B63B35/00",
+      "ja": "海底電線敷設船［５］",
+      "en": "Cable-laying vessels",
+      "count": 686,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B35/06": {
+      "code": "B63B35/06",
+      "level": 2,
+      "parent": "B63B35/04",
+      "ja": "船舶から岸壁までケーブル端を移動させるためのもの［５］",
+      "en": "for moving cable-ends from ship to shore",
+      "count": 29,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B35/08": {
+      "code": "B63B35/08",
+      "level": 1,
+      "parent": "B63B35/00",
+      "ja": "砕氷船［５］",
+      "en": "Ice-breakers",
+      "count": 1573,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B35/10": {
+      "code": "B63B35/10",
+      "level": 2,
+      "parent": "B63B35/08",
+      "ja": "縦揺れまたは横揺れを行わせる装置をもつもの［５］",
+      "en": "having forced pitching or rolling equipment",
+      "count": 70,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B35/12": {
+      "code": "B63B35/12",
+      "level": 2,
+      "parent": "B63B35/08",
+      "ja": "氷切断装置をもつもの［５］",
+      "en": "having ice-cutters",
+      "count": 503,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B35/14": {
+      "code": "B63B35/14",
+      "level": 1,
+      "parent": "B63B35/00",
+      "ja": "漁船［５］",
+      "en": "Fishing vessels",
+      "count": 1725,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B35/16": {
+      "code": "B63B35/16",
+      "level": 2,
+      "parent": "B63B35/14",
+      "ja": "トロール船［５］",
+      "en": "Trawlers",
+      "count": 276,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B35/18": {
+      "code": "B63B35/18",
+      "level": 3,
+      "parent": "B63B35/16",
+      "ja": "舷側に網を引き寄せるようにしたもの［５］",
+      "en": "adapted to dragging nets aboard",
+      "count": 319,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B35/20": {
+      "code": "B63B35/20",
+      "level": 3,
+      "parent": "B63B35/16",
+      "ja": "舷側に網を巻き上げるようにしたもの［５］",
+      "en": "adapted to hoisting nets aboard",
+      "count": 288,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B35/22": {
+      "code": "B63B35/22",
+      "level": 2,
+      "parent": "B63B35/14",
+      "ja": "捕鯨船；鯨工船［５］",
+      "en": "Whale catchers; Whale factory vessels",
+      "count": 33,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B35/24": {
+      "code": "B63B35/24",
+      "level": 2,
+      "parent": "B63B35/14",
+      "ja": "魚倉［５］",
+      "en": "Fish holds",
+      "count": 392,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B35/26": {
+      "code": "B63B35/26",
+      "level": 3,
+      "parent": "B63B35/24",
+      "ja": "活魚のためのもの［５］",
+      "en": "for live fish",
+      "count": 607,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B35/28": {
+      "code": "B63B35/28",
+      "level": 1,
+      "parent": "B63B35/00",
+      "ja": "バーシまたははしけ［５］",
+      "en": "Barges or lighters",
+      "count": 1805,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B35/30": {
+      "code": "B63B35/30",
+      "level": 2,
+      "parent": "B63B35/28",
+      "ja": "自動荷役を行うもの［５］",
+      "en": "self-discharging",
+      "count": 604,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B35/32": {
+      "code": "B63B35/32",
+      "level": 1,
+      "parent": "B63B35/00",
+      "ja": "水上の汚物を収集するためのもの［５］<br><br><b><ul>注</ul></b><br>もし水上の汚物を収集するための装置が，船舶構造の特徴とは別に重要であれば，それはグループＥ０２Ｂ１５／００にも分類する。［５］",
+      "en": "for collecting pollution from open water; <br><br><b><u>Note(s)</u></b><br><br><ul><li>If the apparatus for collecting pollution from open water is of interest apart from ship construction aspects, it is also classified in group <b>E02B15/00</b>. </li></ul>",
+      "count": 9597,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B35/34": {
+      "code": "B63B35/34",
+      "level": 1,
+      "parent": "B63B35/00",
+      "ja": "ポンツーン［５］",
+      "en": "Pontoons",
+      "count": 2260,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B35/36": {
+      "code": "B63B35/36",
+      "level": 2,
+      "parent": "B63B35/34",
+      "ja": "折りたたみ自在のもの［５］",
+      "en": "foldable",
+      "count": 233,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B35/38": {
+      "code": "B63B35/38",
+      "level": 2,
+      "parent": "B63B35/34",
+      "ja": "互いに剛性的に連結されたもの［５］",
+      "en": "Rigidly-interconnected pontoons",
+      "count": 1509,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B35/40": {
+      "code": "B63B35/40",
+      "level": 1,
+      "parent": "B63B35/00",
+      "ja": "船舶を海上輸送するためのもの［５］",
+      "en": "for transporting marine vessels",
+      "count": 758,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B35/42": {
+      "code": "B63B35/42",
+      "level": 2,
+      "parent": "B63B35/40",
+      "ja": "吃水が調整自在のもの［５］",
+      "en": "with adjustable draught",
+      "count": 327,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B35/44": {
+      "code": "B63B35/44",
+      "level": 1,
+      "parent": "B63B35/00",
+      "ja": "浮揚構造物，浮倉庫，穿孔用浮プラットフォームまたは作業場，例．油水分離装置を支持するもの［５］",
+      "en": "Floating buildings, stores, drilling platforms, or workshops, e.g. carrying water-oil separating devices",
+      "count": 22510,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B35/50": {
+      "code": "B63B35/50",
+      "level": 1,
+      "parent": "B63B35/00",
+      "ja": "航空機用船舶または浮揚構造物（航空母艦Ｂ６３Ｇ１１／００）［５］",
+      "en": "Vessels or floating structures for aircraft(aircraft carriers <b>B63G11/00</b>)",
+      "count": 1164,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B35/52": {
+      "code": "B63B35/52",
+      "level": 2,
+      "parent": "B63B35/50",
+      "ja": "水面からの飛行機の回収のためのネット，スリップウェイまたは類似のもの［５］",
+      "en": "Nets, slipways or the like, for recovering aircraft from the water",
+      "count": 250,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B35/53": {
+      "code": "B63B35/53",
+      "level": 2,
+      "parent": "B63B35/50",
+      "ja": "浮き滑走路［３，５］",
+      "en": "Floating runways",
+      "count": 238,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B35/54": {
+      "code": "B63B35/54",
+      "level": 1,
+      "parent": "B63B35/00",
+      "ja": "渡船［５］",
+      "en": "Ferries",
+      "count": 394,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B35/56": {
+      "code": "B63B35/56",
+      "level": 1,
+      "parent": "B63B35/00",
+      "ja": "燈船（錨泊された航路指示Ｂ６３Ｂ５１／０２）［５］",
+      "en": "Lightships(marking of navigational route with anchored lightships <b>B63B51/02</b>)",
+      "count": 8,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B35/58": {
+      "code": "B63B35/58",
+      "level": 1,
+      "parent": "B63B35/00",
+      "ja": "いかだ，すなわち，自由に浮遊し，吃水が浅く，乾舷が無いかほとんど無く，かつ使用者を支持するプラットフォームまたは床を持つ水上船（救命いかだまたは類似のものＢ６３Ｃ９／０２）［４，５］",
+      "en": "Rafts, i.e. free floating waterborne vessels, of shallow draft, with little or no freeboard, and having a platform or floor for supporting a user(life-rafts or the like <b>B63C9/02</b>)",
+      "count": 627,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B35/607": {
+      "code": "B63B35/607",
+      "level": 2,
+      "parent": "B63B35/58",
+      "ja": "浮力装置の位置より下方にプラットフォームまたは床を有するもの，例．垂下バスケット型［４，５］",
+      "en": "having a platform or floor below the level of the buoyancy means, e.g. suspended basket type",
+      "count": 68,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B35/613": {
+      "code": "B63B35/613",
+      "level": 2,
+      "parent": "B63B35/58",
+      "ja": "チューブ状浮力部材を持つもの［４，５］",
+      "en": "with tubular shaped flotation members",
+      "count": 212,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B35/62": {
+      "code": "B63B35/62",
+      "level": 2,
+      "parent": "B63B35/58",
+      "ja": "丸太または類似のものから形成されたもの［４，５］",
+      "en": "formed from logs or the like",
+      "count": 181,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B35/66": {
+      "code": "B63B35/66",
+      "level": 1,
+      "parent": "B63B35/00",
+      "ja": "曳船［５］",
+      "en": "Tugs",
+      "count": 526,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B35/68": {
+      "code": "B63B35/68",
+      "level": 2,
+      "parent": "B63B35/66",
+      "ja": "曳航のためのもの［５］",
+      "en": "for towing",
+      "count": 452,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B35/70": {
+      "code": "B63B35/70",
+      "level": 2,
+      "parent": "B63B35/66",
+      "ja": "押航のためのもの［５］",
+      "en": "for pushing",
+      "count": 510,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B39/00": {
+      "code": "B63B39/00",
+      "level": 0,
+      "parent": "B63B",
+      "ja": "縦揺，横揺，またはそれに類する望まない船舶の動揺の軽減装置；船舶の姿勢の指示装置",
+      "en": "Equipment to decrease pitch, roll, or like unwanted vessel movements; Apparatus for indicating vessel attitude",
+      "count": 2941,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B39/02": {
+      "code": "B63B39/02",
+      "level": 1,
+      "parent": "B63B39/00",
+      "ja": "質量の移動によって船舶の動揺を軽減するもの［２］",
+      "en": "to decrease vessel movements by displacement of masses",
+      "count": 757,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B39/03": {
+      "code": "B63B39/03",
+      "level": 2,
+      "parent": "B63B39/02",
+      "ja": "液体の移しかえによるもの［２］",
+      "en": "by transferring liquids",
+      "count": 1786,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B39/04": {
+      "code": "B63B39/04",
+      "level": 1,
+      "parent": "B63B39/00",
+      "ja": "ジャイロスコープを使用して船舶の動揺を軽減するもの",
+      "en": "to decrease vessel movements by using gyroscopes directly",
+      "count": 444,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B39/06": {
+      "code": "B63B39/06",
+      "level": 1,
+      "parent": "B63B39/00",
+      "ja": "水中で作動する翼を使用して船舶の動揺を軽減するもの（ビルジキールの構造Ｂ６３Ｂ３／４４）",
+      "en": "to decrease vessel movements by using foils acting on ambient water(constructional aspects of bilge keels <b>B63B3/44</b>)",
+      "count": 3397,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B39/08": {
+      "code": "B63B39/08",
+      "level": 1,
+      "parent": "B63B39/00",
+      "ja": "補助のジェットまたはプロペラを作用して船舶の動揺を軽減するもの（操舵または動的停留のために補助のジェットまたはプロペラを使用するものＢ６３Ｈ２５／００）",
+      "en": "to decrease vessel movements by using auxiliary jets or propellers(using auxiliary jets or propellers for steering or dynamic anchoring <b>B63H25/00</b>)",
+      "count": 348,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B39/10": {
+      "code": "B63B39/10",
+      "level": 1,
+      "parent": "B63B39/00",
+      "ja": "波を弱めることにより，例．水上に油を注ぐことにより，船舶の動揺を軽減するもの［２］",
+      "en": "to decrease vessel movements by damping the waves, e.g. by pouring oil on water",
+      "count": 351,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B39/12": {
+      "code": "B63B39/12",
+      "level": 1,
+      "parent": "B63B39/00",
+      "ja": "吃水または積荷を指示するためのもの",
+      "en": "for indicating draught or load",
+      "count": 1182,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B39/14": {
+      "code": "B63B39/14",
+      "level": 1,
+      "parent": "B63B39/00",
+      "ja": "傾斜または動揺周期を指示するためのもの",
+      "en": "for indicating inclination or duration of roll",
+      "count": 676,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B41/00": {
+      "code": "B63B41/00",
+      "level": 0,
+      "parent": "B63B",
+      "ja": "落下キール，例．センターボードまたはサイドボード",
+      "en": "Drop keels, e.g. centre boards or side boards",
+      "count": 1161,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B43/00": {
+      "code": "B63B43/00",
+      "level": 0,
+      "parent": "B63B",
+      "ja": "船舶の安全性を改善するもの，例．損傷の抑制，であって他に分類されないもの",
+      "en": "Improving safety of vessels, e.g. damage control, not otherwise provided for",
+      "count": 1416,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B43/02": {
+      "code": "B63B43/02",
+      "level": 1,
+      "parent": "B63B43/00",
+      "ja": "転覆または沈没の危険性を軽減するもの（隔壁の水密扉装置によるものＢ６３Ｂ４３／２４）",
+      "en": "reducing risk of capsizing or sinking(by means of watertight doors in bulkheads <b>B63B43/24</b>)",
+      "count": 608,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B43/04": {
+      "code": "B63B43/04",
+      "level": 2,
+      "parent": "B63B43/02",
+      "ja": "復原性の改善によるもの",
+      "en": "by improving stability",
+      "count": 1581,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B43/06": {
+      "code": "B63B43/06",
+      "level": 3,
+      "parent": "B63B43/04",
+      "ja": "バラストタンクを使用するもの",
+      "en": "using ballast tanks",
+      "count": 1899,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B43/08": {
+      "code": "B63B43/08",
+      "level": 3,
+      "parent": "B63B43/04",
+      "ja": "固形バラストの移動によるもの",
+      "en": "by transfer of solid ballast",
+      "count": 498,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B43/10": {
+      "code": "B63B43/10",
+      "level": 2,
+      "parent": "B63B43/02",
+      "ja": "浮力の改善によるもの",
+      "en": "by improving buoyancy",
+      "count": 788,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B43/12": {
+      "code": "B63B43/12",
+      "level": 3,
+      "parent": "B63B43/10",
+      "ja": "船内の空気容器を使用したもの",
+      "en": "using inboard air containers",
+      "count": 777,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B43/14": {
+      "code": "B63B43/14",
+      "level": 3,
+      "parent": "B63B43/10",
+      "ja": "船外の浮力部材を使用したもの",
+      "en": "using outboard floating members",
+      "count": 2442,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B43/16": {
+      "code": "B63B43/16",
+      "level": 3,
+      "parent": "B63B43/10",
+      "ja": "漏水止めのための応急装置，例．防水マット",
+      "en": "Temporary equipment for stopping leaks, e.g. collision mats",
+      "count": 1137,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B43/18": {
+      "code": "B63B43/18",
+      "level": 1,
+      "parent": "B63B43/00",
+      "ja": "衝突防止；衝突による損傷の軽減",
+      "en": "preventing collision; reducing collision damage",
+      "count": 2696,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B43/20": {
+      "code": "B63B43/20",
+      "level": 2,
+      "parent": "B63B43/18",
+      "ja": "感知装置",
+      "en": "Feelers",
+      "count": 289,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B43/24": {
+      "code": "B63B43/24",
+      "level": 1,
+      "parent": "B63B43/00",
+      "ja": "隔壁の水密扉装置",
+      "en": "Arrangements of watertight doors in bulkheads",
+      "count": 371,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B43/26": {
+      "code": "B63B43/26",
+      "level": 2,
+      "parent": "B63B43/24",
+      "ja": "スライド式のもの",
+      "en": "of sliding type",
+      "count": 91,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B43/28": {
+      "code": "B63B43/28",
+      "level": 3,
+      "parent": "B63B43/26",
+      "ja": "機械駆動のもの",
+      "en": "with mechanical drive",
+      "count": 34,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B43/30": {
+      "code": "B63B43/30",
+      "level": 3,
+      "parent": "B63B43/26",
+      "ja": "流体駆動のもの",
+      "en": "with fluid drive",
+      "count": 65,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B43/32": {
+      "code": "B63B43/32",
+      "level": 2,
+      "parent": "B63B43/24",
+      "ja": "スライド式でないもの",
+      "en": "of non-sliding type",
+      "count": 228,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B45/00": {
+      "code": "B63B45/00",
+      "level": 0,
+      "parent": "B63B",
+      "ja": "信号または照明装置の配置または適合（救命ブイ，救命ベルト，救命ジャケット，救命スーツまたは類似のものＢ６３Ｃ９／２０）［４］",
+      "en": "Arrangements or adaptations of signalling or lighting devices(life-buoys, life-belts, life-jackets, life-suits or the like, characterised by signalling means <b>B63C9/20</b>)",
+      "count": 2409,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B45/02": {
+      "code": "B63B45/02",
+      "level": 1,
+      "parent": "B63B45/00",
+      "ja": "航路の前方またはその他の周囲を照らす装置",
+      "en": "the devices being intended to illuminate the way ahead or other areas of environments",
+      "count": 702,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B45/04": {
+      "code": "B63B45/04",
+      "level": 1,
+      "parent": "B63B45/00",
+      "ja": "その船舶自体またはそれの一部をはっきり示す装置",
+      "en": "the devices being intended to indicate the vessel or parts thereof",
+      "count": 1055,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B45/06": {
+      "code": "B63B45/06",
+      "level": 1,
+      "parent": "B63B45/00",
+      "ja": "船舶の甲板または内部を照らす装置",
+      "en": "the devices being intended to illuminate vessels' decks or interior",
+      "count": 419,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B45/08": {
+      "code": "B63B45/08",
+      "level": 1,
+      "parent": "B63B45/00",
+      "ja": "音響装置",
+      "en": "the devices being acoustic",
+      "count": 753,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B49/00": {
+      "code": "B63B49/00",
+      "level": 0,
+      "parent": "B63B",
+      "ja": "航海用具または航行用補助具の配置",
+      "en": "Arrangements of nautical instruments or navigational aids",
+      "count": 5269,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B51/00": {
+      "code": "B63B51/00",
+      "level": 0,
+      "parent": "B63B",
+      "ja": "ブイを用いない航路の表示［４］",
+      "en": "Marking of navigational routes otherwise than with buoys",
+      "count": 454,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B51/02": {
+      "code": "B63B51/02",
+      "level": 1,
+      "parent": "B63B51/00",
+      "ja": "錨泊された灯船；灯台の使用によるもの［４］",
+      "en": "with anchored lightships; by use of lighthouses",
+      "count": 748,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B51/04": {
+      "code": "B63B51/04",
+      "level": 1,
+      "parent": "B63B51/00",
+      "ja": "自由浮揚の炎火をもつもの",
+      "en": "with free-floating flares",
+      "count": 147,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B57/00": {
+      "code": "B63B57/00",
+      "level": 0,
+      "parent": "B63B",
+      "ja": "特に船舶に適用されるタンクの清掃，",
+      "en": "Tank cleaning specially adapted for vessels",
+      "count": 508,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B57/02": {
+      "code": "B63B57/02",
+      "level": 1,
+      "parent": "B63B57/00",
+      "ja": "洗浄によるもの",
+      "en": "by washing",
+      "count": 511,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B57/04": {
+      "code": "B63B57/04",
+      "level": 1,
+      "parent": "B63B57/00",
+      "ja": "通気によるもの",
+      "en": "by ventilating",
+      "count": 131,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B59/00": {
+      "code": "B63B59/00",
+      "level": 0,
+      "parent": "B63B",
+      "ja": "船舶に特別に適合した船殻の保護；船舶に特別に適合した清掃装置",
+      "en": "Hull protection specially adapted for vessels; Cleaning devices specially adapted for vessels",
+      "count": 2247,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B59/02": {
+      "code": "B63B59/02",
+      "level": 1,
+      "parent": "B63B59/00",
+      "ja": "船舶に取り付けられた，またそれに特に適した防げん材；摩擦用の外板の条列（救命ボート用の滑り止めフェンダＢ６３Ｂ２３／３６）",
+      "en": "Fenders integral with waterborne vessels or specially adapted therefor; Rubbing-strakes(skid fenders for lifeboats <b>B63B23/36</b>)",
+      "count": 4158,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B59/04": {
+      "code": "B63B59/04",
+      "level": 1,
+      "parent": "B63B59/00",
+      "ja": "船殻の防汚［３］",
+      "en": "Preventing hull fouling",
+      "count": 2035,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B59/06": {
+      "code": "B63B59/06",
+      "level": 1,
+      "parent": "B63B59/00",
+      "ja": "船殻の清掃装置［３］",
+      "en": "Cleaning devices for hulls",
+      "count": 2131,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B59/08": {
+      "code": "B63B59/08",
+      "level": 2,
+      "parent": "B63B59/06",
+      "ja": "海上での浸水船殻面の清掃装置（Ｂ６３Ｂ５９／１０が優先）［３］",
+      "en": "of underwater surfaces while afloat(<b>B63B59/10</b> takes precedence)",
+      "count": 1396,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B59/10": {
+      "code": "B63B59/10",
+      "level": 2,
+      "parent": "B63B59/06",
+      "ja": "船殻面にそって動くトロリー及びそれに類するものを使用するもの［３］",
+      "en": "using trolleys or the like driven along the surface",
+      "count": 1232,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B69/00": {
+      "code": "B63B69/00",
+      "level": 0,
+      "parent": "B63B",
+      "ja": "他に分類されない艤装品［２０１３．０１］",
+      "en": "Equipment for shipping not otherwise provided for",
+      "count": 242,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B71/00": {
+      "code": "B63B71/00",
+      "level": 0,
+      "parent": "B63B",
+      "ja": "船舶の設計；性能予測［２０２０．０１］",
+      "en": "Designing vessels; Predicting their performance",
+      "count": 1710,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B71/10": {
+      "code": "B63B71/10",
+      "level": 1,
+      "parent": "B63B71/00",
+      "ja": "コンピュータシミュレーション，例．有限要素法［ＦＥＭ］または数値流体力学［ＣＦＤ］，を用いるもの［２０２０．０１］",
+      "en": "using computer simulation, e.g. finite element method [FEM] or computational fluid dynamics [CFD]",
+      "count": 704,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B71/20": {
+      "code": "B63B71/20",
+      "level": 1,
+      "parent": "B63B71/00",
+      "ja": "設計用の曳航タンクまたは試験タンクを使用するもの　［２０２０．０１］",
+      "en": "using towing tanks or model basins for designing",
+      "count": 1037,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B73/00": {
+      "code": "B63B73/00",
+      "level": 0,
+      "parent": "B63B",
+      "ja": "船舶または海洋構造物，例．船体または海上基地，の建造または組立［２０２０．０１］",
+      "en": "Building or assembling vessels or marine structures, e.g. hulls or offshore platforms",
+      "count": 1482,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B73/10": {
+      "code": "B63B73/10",
+      "level": 1,
+      "parent": "B63B73/00",
+      "ja": "地上組された船体ブロック，すなわち完全な船舶を横断するセクション，からの船舶の建造または組み立て［２０２０．０１］",
+      "en": "Building or assembling vessels from prefabricated hull blocks, i.e. complete hull cross-sections",
+      "count": 1136,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B73/20": {
+      "code": "B63B73/20",
+      "level": 1,
+      "parent": "B63B73/00",
+      "ja": "船体ブロック以外の，地上組された船舶用モジュールまたはパーツ，例．機関室，舵，プロペラ，上部構造，段ベッド，貯蔵庫またはタンク，の建造または組み立て［２０２０．０１］",
+      "en": "Building or assembling prefabricated vessel modules or parts other than hull blocks, e.g. engine rooms, rudders, propellers, superstructures, berths, holds or tanks",
+      "count": 3373,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B73/30": {
+      "code": "B63B73/30",
+      "level": 1,
+      "parent": "B63B73/00",
+      "ja": "区分モジュールまたは船体ブロックを組立現場に移動または搬送すること，例．転がす，持ち上げるまたは浮かすことによるもの［２０２０．０１］",
+      "en": "Moving or transporting modules or hull blocks to assembly sites, e.g. by rolling, lifting or floating",
+      "count": 1071,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B73/40": {
+      "code": "B63B73/40",
+      "level": 1,
+      "parent": "B63B73/00",
+      "ja": "接合手段により特徴づけられるもの［２０２０．０１］",
+      "en": "characterised by joining methods",
+      "count": 928,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B73/43": {
+      "code": "B63B73/43",
+      "level": 2,
+      "parent": "B63B73/40",
+      "ja": "溶接，例．レーザ溶接［２０２０．０１］",
+      "en": "Welding, e.g. laser welding",
+      "count": 1262,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B73/46": {
+      "code": "B63B73/46",
+      "level": 2,
+      "parent": "B63B73/40",
+      "ja": "接着；テーピング；コールドボンディング［２０２０．０１］",
+      "en": "Gluing; Taping; Cold-bonding",
+      "count": 171,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B73/50": {
+      "code": "B63B73/50",
+      "level": 1,
+      "parent": "B63B73/00",
+      "ja": "形成手段，例．曲面ブロックの製造，に特徴があるもの［２０２０．０１］",
+      "en": "characterised by forming methods, e.g. manufacturing of curved blocks",
+      "count": 225,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B73/60": {
+      "code": "B63B73/60",
+      "level": 1,
+      "parent": "B63B73/00",
+      "ja": "特殊工具の使用に特徴があるもの；オートメーション，例．ロボットの使用，に特徴があるもの［２０２０．０１］",
+      "en": "characterised by the use of specific tools or equipment; characterised by automation, e.g. use of robots",
+      "count": 2245,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B73/70": {
+      "code": "B63B73/70",
+      "level": 1,
+      "parent": "B63B73/00",
+      "ja": "原型の使用に特徴があるもの；そのための型またはプラグ［２０２０．０１］",
+      "en": "characterised by using moulds; Moulds or plugs therefor",
+      "count": 73,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B73/72": {
+      "code": "B63B73/72",
+      "level": 2,
+      "parent": "B63B73/70",
+      "ja": "プラスティック成形，例．射出成形，押出成形またはブロー成形，に特徴があるもの［２０２０．０１］",
+      "en": "characterised by plastic moulding, e.g. injection moulding, extrusion moulding or blow moulding",
+      "count": 54,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B73/74": {
+      "code": "B63B73/74",
+      "level": 2,
+      "parent": "B63B73/70",
+      "ja": "材料の積層に特徴を有するもの［２０２０．０１］",
+      "en": "characterised by lamination of materials",
+      "count": 24,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B75/00": {
+      "code": "B63B75/00",
+      "level": 0,
+      "parent": "B63B",
+      "ja": "浮き海洋構造物，例．半潜水可プラットフォーム，ＳＰＡＲプラットフォームまたは風力タービンプラットフォーム，の建造または組み立て［２０２０．０１］",
+      "en": "Building or assembling floating offshore structures, e.g. semi-submersible platforms, SPAR platforms or wind turbine platforms",
+      "count": 977,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B77/00": {
+      "code": "B63B77/00",
+      "level": 0,
+      "parent": "B63B",
+      "ja": "浮力を用いて海洋構造物を現場に輸送または設置すること，例．半潜水可作業船の使用，構造物のバラスト調整または石油・天然ガス搬送のためのプラットフォームの輸送［２０２０．０１］",
+      "en": "Transporting or installing offshore structures on site using buoyancy forces, e.g. using semi-submersible barges, ballasting the structure or transporting of oil-and-gas platforms",
+      "count": 153,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B77/10": {
+      "code": "B63B77/10",
+      "level": 1,
+      "parent": "B63B77/00",
+      "ja": "発電所，例．風力タービンまたは潮流タービン発電機，のために特別に適合するもの［２０２０．０１］",
+      "en": "specially adapted for electric power plants, e.g. wind turbines or tidal turbine generators",
+      "count": 383,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B79/00": {
+      "code": "B63B79/00",
+      "level": 0,
+      "parent": "B63B",
+      "ja": "作動中の船舶の特性または作動状態の監視［２０２０．０１］",
+      "en": "Monitoring properties or operating parameters of vessels in operation",
+      "count": 431,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B79/10": {
+      "code": "B63B79/10",
+      "level": 1,
+      "parent": "B63B79/00",
+      "ja": "センサ，例．圧力センサ，ひずみ計または加速度計，を用いるもの［２０２０．０１］",
+      "en": "using sensors, e.g. pressure sensors, strain gauges or accelerometers",
+      "count": 1454,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B79/15": {
+      "code": "B63B79/15",
+      "level": 2,
+      "parent": "B63B79/10",
+      "ja": "環境に関する変数，例．波高または天候データ，を監視するためのもの［２０２０．０１］",
+      "en": "for monitoring environmental variables, e.g. wave height or weather data",
+      "count": 414,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B79/20": {
+      "code": "B63B79/20",
+      "level": 1,
+      "parent": "B63B79/00",
+      "ja": "モデルまたはシミュレーション，例．統計モデルまたは確率モデル，を用いるもの［２０２０．０１］",
+      "en": "using models or simulation, e.g. statistical models or stochastic models",
+      "count": 592,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B79/30": {
+      "code": "B63B79/30",
+      "level": 1,
+      "parent": "B63B79/00",
+      "ja": "船舶の保全性または性能を診断，試験または予測するためのもの［２０２０．０１］",
+      "en": "for diagnosing, testing or predicting the integrity or performance of vessels",
+      "count": 929,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B79/40": {
+      "code": "B63B79/40",
+      "level": 1,
+      "parent": "B63B79/00",
+      "ja": "船舶の運行を制御するためのもの，例．速度，航路または保全スケジュールを監視するもの［２０２０．０１］",
+      "en": "for controlling the operation of vessels, e.g. monitoring their speed, routing or maintenance schedules",
+      "count": 1412,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B81/00": {
+      "code": "B63B81/00",
+      "level": 0,
+      "parent": "B63B",
+      "ja": "船舶の修理または保守［２０２０．０１］",
+      "en": "Repairing or maintaining vessels",
+      "count": 1146,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B83/00": {
+      "code": "B63B83/00",
+      "level": 0,
+      "parent": "B63B",
+      "ja": "船舶を改造または修復すること，例．バラスト水の処理システムの改善［２０２０．０１］",
+      "en": "Rebuilding or retrofitting vessels, e.g. retrofitting ballast water treatment systems",
+      "count": 85,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B83/10": {
+      "code": "B63B83/10",
+      "level": 1,
+      "parent": "B63B83/00",
+      "ja": "貨物の積載可能量増加のためのもの［２０２０．０１］",
+      "en": "for increasing cargo capacity",
+      "count": 12,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B83/20": {
+      "code": "B63B83/20",
+      "level": 1,
+      "parent": "B63B83/00",
+      "ja": "異なる使用に転換するためのもの，例．タンカーをＦＰＳＯ－ＦＬＮＧ構成体に変換するためのもの［２０２０．０１］",
+      "en": "for conversion to a different use, e.g. for converting tankers into a FPSO-FLNG units",
+      "count": 36,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B83/30": {
+      "code": "B63B83/30",
+      "level": 1,
+      "parent": "B63B83/00",
+      "ja": "エネルギー効率を向上するためのもの，例．流体力学の改善または発電所のアップグレードによるもの［２０２０．０１］",
+      "en": "for improving energy efficiency, e.g. by improving hydrodynamics or by upgrading the power plant",
+      "count": 21,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B83/40": {
+      "code": "B63B83/40",
+      "level": 1,
+      "parent": "B63B83/00",
+      "ja": "汚染または汚濁の危険性を軽減するためのもの；安全性を向上するためのもの［２０２０．０１］",
+      "en": "for reducing risks of pollution or contamination; for improving safety",
+      "count": 24,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    },
+    "B63B85/00": {
+      "code": "B63B85/00",
+      "level": 0,
+      "parent": "B63B",
+      "ja": "船舶を解体または廃棄すること［２０２０．０１］",
+      "en": "Dismantling or scrapping vessels",
+      "count": 78,
+      "sourceFile": "ipc_B63B.txt",
+      "kind": "ipc"
+    }
+  }
+}

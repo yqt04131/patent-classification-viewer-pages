@@ -1,0 +1,1646 @@
+window.IPC_SHARD_E04B = {
+  "generatedAt": "2026-03-20T02:17:46.682Z",
+  "total": 164,
+  "entries": {
+    "E04B": {
+      "code": "E04B",
+      "level": 0,
+      "parent": "E04",
+      "ja": "建築構造一般；壁，例．間仕切り；屋根；床；天井；建築物の絶縁またはその他の保護（壁，床，または天井内の開口部の縁構造Ｅ０６Ｂ１／００）<br><br><b><ul>注</ul></b><br>（１）このサブクラスは，建築物の新築に用いられる作業方法および現存する建築物についての類似の作業方法を包含する。<br>現存する建築物についての他の方法は，絶縁のための作業方法を除き，グループＥ０４Ｇ２３／００に分類する。［５］<br>（２）このサブクラスにおいては，下記の用語は以下に示す意味で用いる：<br>―“天井”は荷重保持天井構造または屋根構造の下面を被覆する全ての仕上げ材料を含む。",
+      "en": "GENERAL BUILDING CONSTRUCTIONS; WALLS, e.g. PARTITIONS; ROOFS; FLOORS; CEILINGS; INSULATION OR OTHER PROTECTION OF BUILDINGS(border constructions of openings in walls, floors, or ceilings <b>E06B1/00</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>This subclass <u>covers</u> working methods used in constructing new buildings and analogous working methods on existing buildings. Other working methods on existing buildings, except those for insulating, are classified in group <b>E04G23/00</b>.</li><li>In this subclass, the following term is used with the meaning indicated:<ul><li>\"ceiling\" includes all the finishing material concealing the underside of the load-carrying ceiling structure or roof structure.</li></ul></li></ul>",
+      "count": 9046,
+      "sourceFile": "ipc_E.txt",
+      "kind": "ipc"
+    },
+    "E04": {
+      "code": "E04",
+      "level": 0,
+      "parent": "E",
+      "ja": "建築物",
+      "en": "BUILDING",
+      "count": 0,
+      "sourceFile": "ipc_E.txt",
+      "kind": "ipc"
+    },
+    "E": {
+      "code": "E",
+      "level": 0,
+      "parent": null,
+      "ja": "固定構造物",
+      "en": "FIXED CONSTRUCTIONS",
+      "count": 0,
+      "sourceFile": "ipc_E.txt",
+      "kind": "ipc"
+    },
+    "E04B1/00": {
+      "code": "E04B1/00",
+      "level": 0,
+      "parent": "E04B",
+      "ja": "建築構造一般；壁，例．間仕切り，床，天井，屋根のいずれにも限定されない構造（足場，せき板Ｅ０４Ｇ；特殊な目的をもつ建築物，建築物のレイアウト，例．モデュラーコーディネイションＥ０４Ｈ）［２００６．０１］",
+      "en": "Constructions in general; Structures which are not restricted either to walls, e.g. partitions, or floors or ceilings or roofs(scaffolds, shutterings <b>E04G</b>; structures specially adapted for buildings for special purposes, general layout of buildings, e.g. modular co-ordination, <b>E04H</b>)",
+      "count": 30227,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B1/02": {
+      "code": "E04B1/02",
+      "level": 1,
+      "parent": "E04B1/00",
+      "ja": "主として荷重支持用の塊状または厚板状要素よりなる構造（Ｅ０４Ｂ１／３２～Ｅ０４Ｂ１／３６が優先）",
+      "en": "Structures consisting primarily of load-supporting, block-shaped or slab-shaped elements(<b>E04B1/32 to E04B1/36</b>  take precedence)",
+      "count": 3008,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B1/04": {
+      "code": "E04B1/04",
+      "level": 2,
+      "parent": "E04B1/02",
+      "ja": "コンクリートからなる要素のもの，例．補強コンクリートまたは他の石材類似材料のもの",
+      "en": "the elements consisting of concrete, e.g. reinforced concrete, or other stone-like material",
+      "count": 5465,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B1/06": {
+      "code": "E04B1/06",
+      "level": 3,
+      "parent": "E04B1/04",
+      "ja": "プレストレスが導入された要素のもの",
+      "en": "the elements being prestressed",
+      "count": 584,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B1/08": {
+      "code": "E04B1/08",
+      "level": 2,
+      "parent": "E04B1/02",
+      "ja": "金属からなる要素のもの",
+      "en": "the elements consisting of metal",
+      "count": 1575,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B1/10": {
+      "code": "E04B1/10",
+      "level": 2,
+      "parent": "E04B1/02",
+      "ja": "木材からなる要素のもの",
+      "en": "the elements consisting of wood",
+      "count": 2884,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B1/12": {
+      "code": "E04B1/12",
+      "level": 2,
+      "parent": "E04B1/02",
+      "ja": "その他の材料からなる要素のもの",
+      "en": "the elements consisting of other material",
+      "count": 796,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B1/14": {
+      "code": "E04B1/14",
+      "level": 2,
+      "parent": "E04B1/02",
+      "ja": "二以上の材料から構成される要素（補強コンクリートＥ０４Ｂ１／０４）",
+      "en": "the elements being composed of two or more materials(of reinforced concrete <b>E04B1/04</b>)",
+      "count": 1712,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B1/16": {
+      "code": "E04B1/16",
+      "level": 1,
+      "parent": "E04B1/00",
+      "ja": "塊からなる構造，例．永久型枠，荷重支持材料で覆われた仮設構造物のような付加的要素を使用し，または使用しないで現場で打ち込まれるコンクリートのもの（Ｅ０４Ｂ１／３２～Ｅ０４Ｂ１／３６が優先）",
+      "en": "Structures made from masses, e.g. concrete, cast or similarly formed <u>in situ</u> with or without making use of additional elements, such as permanent forms, sub-structures to be coated with load-bearing material(<b>E04B1/32 to E04B1/36</b>  take precedence)",
+      "count": 6964,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B1/18": {
+      "code": "E04B1/18",
+      "level": 1,
+      "parent": "E04B1/00",
+      "ja": "長い荷重支持部材からなる構造，例．柱，梁（はり），骨組のもの（Ｅ０４Ｂ１／３２～Ｅ０４Ｂ１／３６が優先；要素としての荷重支持部材，トラス，トラス状構造Ｅ０４Ｃ３／００）",
+      "en": "Structures comprising elongated load-supporting parts, e.g. columns, girders, skeletons(<b>E04B1/32 to E04B1/36</b>  take precedence; elongated load-supporting parts as elements, trusses, truss-like structures <b>E04C3/00</b>)",
+      "count": 7325,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B1/19": {
+      "code": "E04B1/19",
+      "level": 2,
+      "parent": "E04B1/18",
+      "ja": "立体わく組構造［２００６．０１］<br><br><b><ul>注</ul></b><br>注［２］<br>グループＥ０４Ｂ１／１９はＥ０４Ｂ１／２０からＥ０４Ｂ１／３０に優先する。",
+      "en": "Three-dimensional [3D] framework structures",
+      "count": 10743,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B1/20": {
+      "code": "E04B1/20",
+      "level": 2,
+      "parent": "E04B1/18",
+      "ja": "コンクリート，例．補強コンクリートまたは他の石材類似材料，からなる支持部材のもの",
+      "en": "the supporting parts consisting of concrete, e.g. reinforced concrete, or other stone-like material",
+      "count": 5263,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B1/21": {
+      "code": "E04B1/21",
+      "level": 3,
+      "parent": "E04B1/20",
+      "ja": "特にそのために用いられる接合［２］",
+      "en": "Connections specially adapted therefor",
+      "count": 8283,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B1/22": {
+      "code": "E04B1/22",
+      "level": 3,
+      "parent": "E04B1/20",
+      "ja": "プレストレスされた部材を有するもの",
+      "en": "with parts being prestressed",
+      "count": 1184,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B1/24": {
+      "code": "E04B1/24",
+      "level": 2,
+      "parent": "E04B1/18",
+      "ja": "金属からなる支持部材のもの",
+      "en": "the supporting parts consisting of metal",
+      "count": 35635,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B1/26": {
+      "code": "E04B1/26",
+      "level": 2,
+      "parent": "E04B1/18",
+      "ja": "木材からなる支持部材のもの",
+      "en": "the supporting parts consisting of wood",
+      "count": 9162,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B1/28": {
+      "code": "E04B1/28",
+      "level": 2,
+      "parent": "E04B1/18",
+      "ja": "他の材料からなる支持部材のもの",
+      "en": "the supporting parts consisting of other material",
+      "count": 371,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B1/30": {
+      "code": "E04B1/30",
+      "level": 2,
+      "parent": "E04B1/18",
+      "ja": "二以上の材料から構成される支持部材のもの；鋼とコンクリートとの合成による構造（補強コンクリートによるものＥ０４Ｂ１／２０）",
+      "en": "the supporting parts being composed of two or more materials; Composite steel and concrete constructions(of reinforced concrete <b>E04B1/20</b>)",
+      "count": 6977,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B1/32": {
+      "code": "E04B1/32",
+      "level": 1,
+      "parent": "E04B1/00",
+      "ja": "アーチ構造；ボールト構造；折り板構造（ボールト屋根Ｅ０４Ｂ７／０８）",
+      "en": "Arched structures; Vaulted structures; Folded structures(vaulted roofs <b>E04B7/08</b>)",
+      "count": 7185,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B1/34": {
+      "code": "E04B1/34",
+      "level": 1,
+      "parent": "E04B1/00",
+      "ja": "特殊構造，例．エレベータあるいは階段を囲むマストや塔状構造によって支持されたつり部材または片持梁部材を有するもの；弾性安定性に関する構造（Ｅ０４Ｂ１／３４２，Ｅ０４Ｂ１／３４３，Ｅ０４Ｂ１／３４８が優先；床用Ｅ０４Ｂ５／４３；特殊目的の建築物，例．耐震Ｅ０４Ｈ）",
+      "en": "Extraordinary structures, e.g. with suspended or cantilever parts supported by masts or tower-like structures enclosing elevators or stairs; Features relating to the elastic stability(<b>E04B1/342</b>, <b>E04B1/343</b>, <b>E04B1/348</b> take precedence; for floors <b>E04B5/43</b>; buildings for special purposes, e.g. withstanding earthquake, <b>E04H</b>)",
+      "count": 5927,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B1/342": {
+      "code": "E04B1/342",
+      "level": 1,
+      "parent": "E04B1/00",
+      "ja": "側面が開口し，あるいは開口していない大きい自由な広域を覆う構造，例．格納庫，ホール（屋根トラスＥ０４Ｃ３／００；指定された目的のための構造的な特徴がないものはＥ０４Ｈの関係グループ参照）",
+      "en": "Structures covering a large free area, whether open-sided or not, e.g. hangars, halls(roof trusses <b>E04C3/00</b>; non-structural features for specified purposes, <u>see</u> the relevant groups of <b>E04H</b>)",
+      "count": 5141,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B1/343": {
+      "code": "E04B1/343",
+      "level": 1,
+      "parent": "E04B1/00",
+      "ja": "可動，分離，または折りたたみができる部分に特徴がある構造，例．移動用（可動屋根Ｅ０４Ｂ７／１６；水上浮揚構造物Ｂ６３Ｂ；全体として移動可能な小形プレハブ建築物Ｅ０４Ｈ１／１２；小ガレージＥ０４Ｈ６／０２；テントまたは天蓋一般Ｅ０４Ｈ１５／００）",
+      "en": "Structures characterised by movable, separable, or collapsible parts, e.g. for transport(movable roof parts <b>E04B7/16</b>; floatable buildings <b>B63B</b>; small prefabricated buildings, transportable as a whole, <b>E04H1/12</b>; small garages <b>E04H6/02</b>; tents or canopies, in general <b>E04H15/00</b>)",
+      "count": 45180,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B1/344": {
+      "code": "E04B1/344",
+      "level": 2,
+      "parent": "E04B1/343",
+      "ja": "蝶着（ヒンヂ）部材を有するもの",
+      "en": "with hinged parts",
+      "count": 6924,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B1/346": {
+      "code": "E04B1/346",
+      "level": 2,
+      "parent": "E04B1/343",
+      "ja": "回転建築物；回転ユニット，例．室を有する建築物",
+      "en": "Rotary buildings; Buildings with rotary units, e.g. rooms",
+      "count": 1386,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B1/348": {
+      "code": "E04B1/348",
+      "level": 1,
+      "parent": "E04B1/00",
+      "ja": "少なくとも室の重要な二側面部分からなるユニットで構成される構造，例．閉鎖されているか骨組形状の箱状または隔室状ユニット（導管またはその類似物を配した壁ユニットＥ０４Ｃ２／５２）",
+      "en": "Structures composed of units comprising at least considerable parts of two sides of a room, e.g. box-like or cell-like units closed or in skeleton form(wall units locating conduits or the like <b>E04C2/52</b>)",
+      "count": 14759,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B1/35": {
+      "code": "E04B1/35",
+      "level": 1,
+      "parent": "E04B1/00",
+      "ja": "特殊な構築方法，例．リフトスラブ，ジャックブロック（Ｅ０４Ｂ１／３４が優先；現場における特殊な形態構造の壁，床，天井または屋根の成形のための仮設工事，型枠工事Ｅ０４Ｇ１１／０４；建築材料の運搬または組立Ｅ０４Ｇ２１／００；現存する建築物への作業Ｅ０４Ｇ２３／００）［２００６．０１］",
+      "en": "Extraordinary methods of construction, e.g. lift-slab, jack-block(<b>E04B1/34</b> takes precedence; falsework, shuttering for shaping walls, floors, ceilings or roofs for structures of particular shape <u>in situ</u><b>E04G11/04</b>; conveying or assembling of building materials <b>E04G21/00</b>; working measures on existing buildings <b>E04G23/00</b>)",
+      "count": 6063,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B1/36": {
+      "code": "E04B1/36",
+      "level": 1,
+      "parent": "E04B1/00",
+      "ja": "移動を許容する支承または類似の支持体（橋りょう用Ｅ０１Ｄ１９／０４；耐震建築物Ｅ０４Ｈ９／０２）",
+      "en": "Bearings or like supports allowing movement(for bridges <b>E01D19/04</b>; buildings withstanding earthquake <b>E04H9/02</b>)",
+      "count": 10073,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B1/38": {
+      "code": "E04B1/38",
+      "level": 1,
+      "parent": "E04B1/00",
+      "ja": "建築構造の接合一般<br><br><b><ul>注</ul></b><br>特殊な建造物の部位または特殊な建造物の構造に特に適合する接合装置はそれらの部位または構造のグループ，例．１／２１，２／００，５／００，７／００または９／００に分類される。建造物の構造に特別には適合しない，または一般的な用途向の継ぎ手は適当なサブクラス，例．Ｆ１６Ｂ，などに分類される。［５］",
+      "en": "Connections for building structures in general; <br><br><b><u>Note(s)</u></b><br><br><ul><li>Connections specially adapted for particular building parts or for particular building structures are classified in the groups for those parts or structures, e.g. in groups <b>E04B1/21</b>, <b>E04B2/00</b>, <b>E04B5/00</b>, <b>E04B7/00</b> or <b>E04B9/00</b>. Joints not specially adapted for building construction, or of more general application, are classified in the appropriate subclasses, e.g. <b>F16B</b>. </li></ul>",
+      "count": 41874,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B1/41": {
+      "code": "E04B1/41",
+      "level": 2,
+      "parent": "E04B1/38",
+      "ja": "コンクリートまたは石積みへの埋込みに特に適合した接合装置（中空壁用のスペーサＥ０４Ｂ２／３０，Ｅ０４Ｂ２／４４；補強要素の接合具Ｅ０４Ｃ５／１６；開口部縁の枠体の取り付けＥ０６Ｂ１／５６）",
+      "en": "Connecting devices specially adapted for embedding in concrete or masonry(spacers for cavity walls <b>E04B2/30</b>, <b>E04B2/44</b>; connectors for reinforcing elements <b>E04C5/16</b>; fastening frames to the border of openings <b>E06B1/56</b>)",
+      "count": 26884,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B1/48": {
+      "code": "E04B1/48",
+      "level": 2,
+      "parent": "E04B1/38",
+      "ja": "だぼ，すなわち二部材の表面を貫通し，剪（せん）断力を受けるために適用される部材",
+      "en": "Dowels, i.e. members adapted to penetrate the surfaces of two parts and to take the shear stresses",
+      "count": 3359,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B1/49": {
+      "code": "E04B1/49",
+      "level": 3,
+      "parent": "E04B1/48",
+      "ja": "それ自体が貫通する部材を有するもの，例．つめ状だぼ",
+      "en": "with self-penetrating parts, e.g. claw dowels",
+      "count": 760,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B1/58": {
+      "code": "E04B1/58",
+      "level": 2,
+      "parent": "E04B1/38",
+      "ja": "棒状建築要素用",
+      "en": "of bar-shaped building elements",
+      "count": 61470,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B1/61": {
+      "code": "E04B1/61",
+      "level": 2,
+      "parent": "E04B1/38",
+      "ja": "板状（スラブ状）建築要素相互用［５］",
+      "en": "of slab-shaped building elements with each other",
+      "count": 32061,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B1/62": {
+      "code": "E04B1/62",
+      "level": 1,
+      "parent": "E04B1/00",
+      "ja": "絶縁または他の保護；要素またはそのための特殊な材料の使用（化学的組成物Ｃ０１～Ｃ１１；絶縁またはシーリングに適用する器具Ｅ０４Ｆ２１／００；望ましくない外部の影響に対する耐性を持つか保護を提供する建築物Ｅ０４Ｈ９／００；壁または間仕切り中の管の密封Ｆ１６Ｌ５／０２；有害な放射線に対する遮蔽Ｇ２１Ｆ；建築物の特殊部分の構造は，それらの関連グループ参照）［２００６．０１］",
+      "en": "Insulation or other protection; Elements or use of specified material therefor(chemical compositions <b>C01 to C11</b> ; implements for applying insulation or sealings <b>E04F21/00</b>; buildings to withstand, or to provide protection against, external undesired influences <b>E04H9/00</b>; sealing pipes in walls or partitions <b>F16L5/02</b>; shielding against dangerous radiation <b>G21F</b>)",
+      "count": 8917,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B1/64": {
+      "code": "E04B1/64",
+      "level": 2,
+      "parent": "E04B1/62",
+      "ja": "防湿処理；腐食に対する保護（シーリングＥ０４Ｂ１／６６）",
+      "en": "for making damp-proof; Protection against corrosion(sealings <b>E04B1/66</b>)",
+      "count": 21091,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B1/66": {
+      "code": "E04B1/66",
+      "level": 2,
+      "parent": "E04B1/62",
+      "ja": "シーリング（プラスターへの耐漏性付与Ｃ０４Ｂ；れき青シーリング材Ｃ０８Ｌ９５；水工のためのシーリング一般Ｅ０２Ｂ３／１６；地面の湿気または地下水に対するものＥ０２Ｄ３１／０２；雨露に対する被覆Ｅ０４Ｄ）［２００６．０１］",
+      "en": "Sealings (additions of anti-leak properties to plaster <b>C04B</b>;  bituminous sealing masses <b>C08L95/00</b>;  sealings for hydraulic engineering work in general <b>E02B3/16</b>;  against ground humidity or ground water <b>E02D31/02</b>;  coverings against rain or other precipitations of the atmosphere <b>E04D</b>)",
+      "count": 36888,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B1/68": {
+      "code": "E04B1/68",
+      "level": 3,
+      "parent": "E04B1/66",
+      "ja": "継ぎ目のシーリング，例．拡張継ぎ手（道路または飛行場用の継ぎ目への充てんＥ０１Ｃ１１／０２；橋梁用の拡張継ぎ手Ｅ０１Ｄ１９／０６；基礎抗間のシーリング継ぎ手Ｅ０２Ｄ５／１４；基礎構造物中の継ぎ手Ｅ０２Ｄ２９／１６；屋根ふき要素間の空げきまたは継ぎ目のシーリング装置Ｅ０４Ｄ１／３６；屋根ふき要素間のシーリング継ぎ手Ｅ０４Ｄ３／３８；現場で用意された材料から作られる床仕上げ材または床被膜のための継ぎ目の造成Ｅ０４Ｆ１５／１４）",
+      "en": "of joints, e.g. expansion joints(packing for joints in roads or airfields <b>E01C11/02</b>; expansion joints for bridges <b>E01D19/06</b>; sealing joints between foundation piles <b>E02D5/14</b>; joints in foundation structures <b>E02D29/16</b>; devices for sealing the spaces or joints between roof-covering elements <b>E04D1/36</b>; sealing joints between roof-covering elements <b>E04D3/38</b>; construction of joints for flooring or floor layers made of masses <u>in situ</u><b>E04F15/14</b>)",
+      "count": 23744,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B1/682": {
+      "code": "E04B1/682",
+      "level": 4,
+      "parent": "E04B1/68",
+      "ja": "現場で形成されるもの［５］",
+      "en": "formed <u>in situ</u>",
+      "count": 5128,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B1/684": {
+      "code": "E04B1/684",
+      "level": 4,
+      "parent": "E04B1/68",
+      "ja": "予備成形されたエラストマー系素材を使用するもの［５］",
+      "en": "using preformed elastomeric elements",
+      "count": 9697,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B1/686": {
+      "code": "E04B1/686",
+      "level": 5,
+      "parent": "E04B1/684",
+      "ja": "多数の中空，変形し得る内部セルから成るもの［５］",
+      "en": "comprising a plurality of hollow, deformable internal cells",
+      "count": 246,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B1/70": {
+      "code": "E04B1/70",
+      "level": 2,
+      "parent": "E04B1/62",
+      "ja": "乾燥または乾燥状態の保持，例．換気によるもの（シーリングによるものＥ０４Ｂ１／６６；建築中のものＥ０４Ｇ２１／２８）",
+      "en": "Drying or keeping dry, e.g. by air vents(by sealings <b>E04B1/66</b>; during erection <b>E04G21/28</b>)",
+      "count": 14195,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B1/72": {
+      "code": "E04B1/72",
+      "level": 2,
+      "parent": "E04B1/62",
+      "ja": "防虫（乾燥保持によるものＥ０４Ｂ１／７０；木材およびそれに類似した材料の含浸Ｂ２７Ｋ）",
+      "en": "Pest control(by keeping dry <b>E04B1/70</b>; impregnation of wood or like materials <b>B27K</b>)",
+      "count": 2535,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B1/74": {
+      "code": "E04B1/74",
+      "level": 2,
+      "parent": "E04B1/62",
+      "ja": "熱，音または騒音の絶縁，吸収または反射（音に作用するまたは音を誘導するための部屋の形状または装置Ｅ０４Ｂ１／９９）；適切な熱的または音響的条件を与える他の建築方法，例．壁体内の蓄熱（防火Ｅ０４Ｂ１／９４；主として構造的目的に適合される要素Ｅ０４Ｃ１／００～Ｅ０４Ｃ３／００；主として表面被覆に適合されるものＥ０４Ｆ１３／００；床被覆のための下地用Ｅ０４Ｆ１５／１８；壁体または壁体と類似物の開口部の閉鎖物Ｅ０６Ｂ）",
+      "en": "Heat, sound or noise insulation, absorption, or reflection(forms of, or arrangements in, rooms for influencing or directing sound <b>E04B1/99</b>);Other building methods affording favourable thermal or acoustical conditions, e.g. accumulating of heat within walls(fire protection <b>E04B1/94</b>; elements chiefly adapted for structural purposes <b>E04C1/00 to E04C3/00</b> ; chiefly adapted for surface coverings <b>E04F13/00</b>; as underlayers for floor coverings <b>E04F15/18</b>; closures for wall or like openings <b>E06B</b>)",
+      "count": 9628,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B1/76": {
+      "code": "E04B1/76",
+      "level": 3,
+      "parent": "E04B1/74",
+      "ja": "特に熱のみに関するもの（熱絶縁一般Ｆ１６Ｌ５９／００）",
+      "en": "specifically with respect to heat only(heat insulation in general <b>F16L59/00</b>)",
+      "count": 41151,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B1/78": {
+      "code": "E04B1/78",
+      "level": 4,
+      "parent": "E04B1/76",
+      "ja": "熱絶縁要素",
+      "en": "Heat insulating elements",
+      "count": 7724,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B1/80": {
+      "code": "E04B1/80",
+      "level": 5,
+      "parent": "E04B1/78",
+      "ja": "板状（スラブ状）のもの",
+      "en": "slab-shaped",
+      "count": 39372,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B1/82": {
+      "code": "E04B1/82",
+      "level": 3,
+      "parent": "E04B1/74",
+      "ja": "特に音のみに関するもの（ダクトまたはみぞの騒音減衰Ｅ０４Ｆ１７／００；騒音減衰一般Ｇ１０Ｋ１１／１６）",
+      "en": "specifically with respect to sound only(noise damping in ducts or channels <b>E04F17/00</b>; noise damping in general <b>G10K11/16</b>)",
+      "count": 18319,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B1/84": {
+      "code": "E04B1/84",
+      "level": 4,
+      "parent": "E04B1/82",
+      "ja": "吸音要素",
+      "en": "Sound-absorbing elements",
+      "count": 12748,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B1/86": {
+      "code": "E04B1/86",
+      "level": 5,
+      "parent": "E04B1/84",
+      "ja": "板状（スラブ状）のもの",
+      "en": "slab-shaped",
+      "count": 18889,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B1/88": {
+      "code": "E04B1/88",
+      "level": 3,
+      "parent": "E04B1/74",
+      "ja": "熱と音の両者のための絶縁要素",
+      "en": "Insulating elements for both heat and sound",
+      "count": 4714,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B1/90": {
+      "code": "E04B1/90",
+      "level": 4,
+      "parent": "E04B1/88",
+      "ja": "板状（スラブ状）のもの",
+      "en": "slab-shaped",
+      "count": 7864,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B1/92": {
+      "code": "E04B1/92",
+      "level": 2,
+      "parent": "E04B1/62",
+      "ja": "その他の望ましくない影響または危険に対する保護（外的な危険に対する保護を施した建築物Ｅ０４Ｈ９／００；有害放射線の遮蔽Ｇ２１Ｆ）",
+      "en": "Protection against other undesired influences or dangers(buildings providing protection against external dangers <b>E04H9/00</b>; shielding against dangerous radiation <b>G21F</b>)",
+      "count": 11045,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B1/94": {
+      "code": "E04B1/94",
+      "level": 3,
+      "parent": "E04B1/92",
+      "ja": "火災に対するもの（消防Ａ６２Ｃ；木材または類似材料の含侵Ｂ２７Ｋ；耐火戸Ｅ０６Ｂ５／１６）",
+      "en": "against fire(fire-fighting <b>A62C</b>; impregnation of wood or similar materials <b>B27K</b>; fireproof doors <b>E06B5/16</b>)",
+      "count": 38812,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B1/98": {
+      "code": "E04B1/98",
+      "level": 3,
+      "parent": "E04B1/92",
+      "ja": "震動または衝撃に対するもの（基礎に関するものＥ０２Ｄ３１／０８）；機械的破壊に対するもの，例．空襲に対するもの（放火損害のみに対するものＥ０４Ｂ１／９４；それらのための仕上げＥ０４Ｆ；耐震またはそれに類するものに対する建築物，遮蔽物，破片捕そく壁装置Ｅ０４Ｈ９／００）",
+      "en": "against vibrations or shocks(on foundations <b>E02D31/08</b>);against mechanical destruction, e.g. by air-raids(against incendiary damage only <b>E04B1/94</b>; finishing work therefor <b>E04F</b>; buildings withstanding earthquake or the like, shelters, arrangements of splinter-catching walls <b>E04H9/00</b>)",
+      "count": 51232,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B1/99": {
+      "code": "E04B1/99",
+      "level": 1,
+      "parent": "E04B1/00",
+      "ja": "室内音響，すなわち音に作用するまたは音を誘導するための部屋の形状または装置（Ｅ０４Ｂ１／８２が優先；音響一般Ｇ１０Ｋ１１／００；反響効果のための電気的信号処理Ｇ１０Ｋ１５／０８）",
+      "en": "Room acoustics, i.e. forms of, or arrangements in, rooms for influencing or directing sound(<b>E04B1/82</b> takes precedence; acoustics in general <b>G10K11/00</b>; electric signal processing for producing a reverberation or echo sound <b>G10K15/08</b>)",
+      "count": 1543,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B2/00": {
+      "code": "E04B2/00",
+      "level": 0,
+      "parent": "E04B",
+      "ja": "建築物の壁，例．間仕切り；絶縁に関する壁構造；特に壁に適用する接合（建築構造の接合一般Ｅ０４Ｂ１／３８；建築物用絶縁一般Ｅ０４Ｂ１／６２；建築物の部分構造のための比較的薄い形状の建築要素Ｅ０４Ｃ２／００）",
+      "en": "Walls, e.g. partitions, for buildings; Wall construction with regard to insulation; Connections specially adapted to walls(connections for building structures in general <b>E04B1/38</b>; insulation for building in general <b>E04B1/62</b>; building elements of relatively thin form for parts of buildings <b>E04C2/00</b>)",
+      "count": 45708,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B2/02": {
+      "code": "E04B2/02",
+      "level": 1,
+      "parent": "E04B2/00",
+      "ja": "建築要素の層によって建てられるもの",
+      "en": "built-up from layers of building elements",
+      "count": 15078,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B2/04": {
+      "code": "E04B2/04",
+      "level": 2,
+      "parent": "E04B2/02",
+      "ja": "要素中にも要素間にも中空部を有しない壁，充実壁",
+      "en": "Walls having neither cavities between, nor in, the solid elements",
+      "count": 1146,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B2/06": {
+      "code": "E04B2/06",
+      "level": 3,
+      "parent": "E04B2/04",
+      "ja": "特に設計された定着手段を有する要素を使用するもの",
+      "en": "using elements having specially-designed means for stabilising the position",
+      "count": 981,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B2/08": {
+      "code": "E04B2/08",
+      "level": 4,
+      "parent": "E04B2/06",
+      "ja": "くぼみ，例．さね，みぞまたはありほぞ，と突起またはそう入物との相互接合によるもの",
+      "en": "by interlocking of projections or inserts with indentations, e.g. of tongues, grooves, dovetails",
+      "count": 2779,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B2/10": {
+      "code": "E04B2/10",
+      "level": 4,
+      "parent": "E04B2/06",
+      "ja": "要素の中または溝相互の中の小さな溝の中の補強材を有するかまたは有しない充てん材料によるもの",
+      "en": "by filling material with or without reinforcements in small channels in, or in grooves between, the elements",
+      "count": 796,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B2/12": {
+      "code": "E04B2/12",
+      "level": 3,
+      "parent": "E04B2/04",
+      "ja": "平行六面体のものとは異なる一般的な形状を有する要素を使用するもの",
+      "en": "using elements having a general shape differing from that of a parallelepiped",
+      "count": 583,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B2/14": {
+      "code": "E04B2/14",
+      "level": 2,
+      "parent": "E04B2/02",
+      "ja": "要素間にはなく要素中に中空部を有する壁，すなわち各々の中空部は少なくともその四面が１個の単材からなる形成部材で囲まれているもの",
+      "en": "Walls having cavities in, but not between, the elements, i.e. each cavity being enclosed by at least four sides forming part of one single element",
+      "count": 2599,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B2/16": {
+      "code": "E04B2/16",
+      "level": 3,
+      "parent": "E04B2/14",
+      "ja": "特に設計された定着手段を有する要素を使用するもの",
+      "en": "using elements having specially designed means for stabilising the position",
+      "count": 979,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B2/18": {
+      "code": "E04B2/18",
+      "level": 4,
+      "parent": "E04B2/16",
+      "ja": "くぼみ，例．さね，みぞ，ありほぞ，と突起またはそう入物との相互結合によるもの",
+      "en": "by interlocking of projections or inserts with indentations, e.g. of tongues, grooves, dovetails",
+      "count": 2722,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B2/20": {
+      "code": "E04B2/20",
+      "level": 4,
+      "parent": "E04B2/16",
+      "ja": "要素の中または溝相互の中の小さな溝の中の補強材を有するかまたは有しない充てん材料によるもの",
+      "en": "by filling material with or without reinforcements in small channels in, or in grooves between, the elements",
+      "count": 821,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B2/22": {
+      "code": "E04B2/22",
+      "level": 3,
+      "parent": "E04B2/14",
+      "ja": "平行六面体のものとは異なる一般的形状を有する要素を使用するもの",
+      "en": "using elements having a general shape differing from that of a parallelepiped",
+      "count": 469,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B2/24": {
+      "code": "E04B2/24",
+      "level": 3,
+      "parent": "E04B2/14",
+      "ja": "耐荷重柱または梁を形成するいくつかの中空部への充てんによって特徴づけられる壁",
+      "en": "the walls being characterised by fillings in some of the cavities forming load-bearing pillars or beams",
+      "count": 454,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B2/26": {
+      "code": "E04B2/26",
+      "level": 3,
+      "parent": "E04B2/14",
+      "ja": "壁体構造を成形するためにすべての中空部への充てんによって特徴づけられる壁",
+      "en": "the walls being characterised by fillings in all cavities in order to form a wall construction",
+      "count": 775,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B2/28": {
+      "code": "E04B2/28",
+      "level": 2,
+      "parent": "E04B2/02",
+      "ja": "要素中にはなく要素間に中空部を有する壁；すべての部材が充実でスペーサによって間隔を保たれている２以上の部材からそれぞれが成り立っている要素の壁",
+      "en": "Walls having cavities between, but not in, the elements; Walls of elements each consisting of two or more parts kept in distance by means of spacers, all parts being solid",
+      "count": 1613,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B2/30": {
+      "code": "E04B2/30",
+      "level": 3,
+      "parent": "E04B2/28",
+      "ja": "特に設計された定着手段を有する要素を使用するもの；中空壁に対するスペーサ",
+      "en": "using elements having specially designed means for stabilising the position; Spacers for cavity walls",
+      "count": 1332,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B2/32": {
+      "code": "E04B2/32",
+      "level": 4,
+      "parent": "E04B2/30",
+      "ja": "くぼみ，例．さね，みぞ，ありほぞ，と突起またはそう入物との相互結合によるもの",
+      "en": "by interlocking of projections or inserts with indentations, e.g. of tongues, grooves, dovetails",
+      "count": 558,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B2/34": {
+      "code": "E04B2/34",
+      "level": 4,
+      "parent": "E04B2/30",
+      "ja": "要素の中または溝相互の中の小さな溝の中の補強材を有するかまたは有しない充てん材料によるもの",
+      "en": "by filling material with or without reinforcements in small channels in, or in grooves between, the elements",
+      "count": 259,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B2/36": {
+      "code": "E04B2/36",
+      "level": 3,
+      "parent": "E04B2/28",
+      "ja": "平行六面体のものとは異なる一般的形状を有する要素を使用するもの",
+      "en": "using elements having a general shape differing from that of a parallelepiped",
+      "count": 211,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B2/38": {
+      "code": "E04B2/38",
+      "level": 3,
+      "parent": "E04B2/28",
+      "ja": "耐荷重柱または梁を形成するいくつかの中空部への充てんによって特徴づけられる壁",
+      "en": "the walls being characterised by fillings in some of the cavities forming load-bearing pillars or beams",
+      "count": 198,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B2/40": {
+      "code": "E04B2/40",
+      "level": 3,
+      "parent": "E04B2/28",
+      "ja": "壁体構造を成形するためにすべての中空部への充てんによって特徴づけられる壁",
+      "en": "the walls being characterised by fillings in all cavities in order to form a wall construction",
+      "count": 439,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B2/42": {
+      "code": "E04B2/42",
+      "level": 2,
+      "parent": "E04B2/02",
+      "ja": "要素中および要素間に中空部を有する壁；少なくとも部材の１つは中空部をもつ部材によって距離を保つようにした２以上の部材よりなる壁",
+      "en": "Walls having cavities between, as well as in, the elements; Walls of elements each consisting of two or more parts, kept in distance by means of spacers, at least one of the parts having cavities",
+      "count": 1717,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B2/44": {
+      "code": "E04B2/44",
+      "level": 3,
+      "parent": "E04B2/42",
+      "ja": "特に設計された定着手段を有する要素を使用するもの；中空壁に対するスペーサ",
+      "en": "using elements having specially designed means for stabilising the position; Spacers for cavity walls",
+      "count": 464,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B2/46": {
+      "code": "E04B2/46",
+      "level": 4,
+      "parent": "E04B2/44",
+      "ja": "くぼみ，例．さね，みぞ，ありみぞ，と突起またはそう入物との相互結合によるもの",
+      "en": "by interlocking of projections or inserts with indentations, e.g. of tongues, grooves, dovetails",
+      "count": 824,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B2/48": {
+      "code": "E04B2/48",
+      "level": 4,
+      "parent": "E04B2/44",
+      "ja": "要素の中または溝相互の中の小さな溝の中の補強材を有するかまたは有しない充てん材料によるもの",
+      "en": "by filling material with or without reinforcements in small channels in, or in grooves between, the elements",
+      "count": 367,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B2/50": {
+      "code": "E04B2/50",
+      "level": 3,
+      "parent": "E04B2/42",
+      "ja": "平行六面体のものとは異なる一般的形状を有する要素を使用するもの",
+      "en": "using elements having a general shape differing from that of a parallelepiped",
+      "count": 188,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B2/52": {
+      "code": "E04B2/52",
+      "level": 3,
+      "parent": "E04B2/42",
+      "ja": "耐荷重柱または梁を形成するいくつかの中空部への充てんによって特徴づけられる壁",
+      "en": "the walls being characterised by fillings in some of the cavities forming load-bearing pillars or beams",
+      "count": 418,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B2/54": {
+      "code": "E04B2/54",
+      "level": 3,
+      "parent": "E04B2/42",
+      "ja": "壁体構造を成形するためにすべての中空部への充てんによって特徴づけられる壁",
+      "en": "the walls being characterised by fillings in all cavities in order to form a wall construction",
+      "count": 462,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B2/56": {
+      "code": "E04B2/56",
+      "level": 1,
+      "parent": "E04B2/00",
+      "ja": "枠組または柱組からなる壁；耐荷重性の長い部材と結合した壁（Ｅ０４Ｂ２／７４，Ｅ０４Ｂ２／８８が優先；柱Ｅ０４Ｃ３／３０）",
+      "en": "Walls of framework or pillarwork; Walls incorporating load-bearing elongated members(<b>E04B2/74</b>, <b>E04B2/88</b> take precedence; pillars <b>E04C3/30</b>)",
+      "count": 20775,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B2/58": {
+      "code": "E04B2/58",
+      "level": 2,
+      "parent": "E04B2/56",
+      "ja": "金属製の長い部材によるもの",
+      "en": "with elongated members of metal",
+      "count": 6310,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B2/60": {
+      "code": "E04B2/60",
+      "level": 3,
+      "parent": "E04B2/58",
+      "ja": "長い部材の特殊な横断面によって特徴づけられるもの",
+      "en": "characterised by special cross-section of the elongated members",
+      "count": 2497,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B2/62": {
+      "code": "E04B2/62",
+      "level": 4,
+      "parent": "E04B2/60",
+      "ja": "並列関係にある２以上の要素によって形成された部材",
+      "en": "the members being formed of two or more elements in side-by-side relationship",
+      "count": 678,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B2/64": {
+      "code": "E04B2/64",
+      "level": 2,
+      "parent": "E04B2/56",
+      "ja": "コンクリート製の長い部材によるもの",
+      "en": "with elongated members of concrete",
+      "count": 1766,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B2/66": {
+      "code": "E04B2/66",
+      "level": 3,
+      "parent": "E04B2/64",
+      "ja": "長い部材の特殊な横断面によって特徴づけられるもの",
+      "en": "characterised by special cross-section of the elongated members",
+      "count": 365,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B2/68": {
+      "code": "E04B2/68",
+      "level": 3,
+      "parent": "E04B2/64",
+      "ja": "壁中空部を充てんして作られるもの（Ｅ０４Ｂ２／２４，Ｅ０４Ｂ２／３８，Ｅ０４Ｂ２／５２が優先）",
+      "en": "made by filling-up wall cavities(<b>E04B2/24</b>, <b>E04B2/38</b>, <b>E04B2/52</b> take precedence)",
+      "count": 910,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B2/70": {
+      "code": "E04B2/70",
+      "level": 2,
+      "parent": "E04B2/56",
+      "ja": "木製の長い部材によるもの",
+      "en": "with elongated members of wood",
+      "count": 3049,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B2/72": {
+      "code": "E04B2/72",
+      "level": 1,
+      "parent": "E04B2/00",
+      "ja": "比較的薄い形状の要素から成る壁（Ｅ０４Ｂ２／５６，Ｅ０４Ｂ２／７４，Ｅ０４Ｂ２／８８が優先；枠組または柱として作用する継ぎ手充てん物を有するものＥ０４Ｂ２／６８；要素Ｅ０４Ｃ２／００）",
+      "en": "Walls of elements of relatively thin form(<b>E04B2/56</b>, <b>E04B2/74</b>, <b>E04B2/88</b> take precedence; with joint fillings acting as framework or pillars <b>E04B2/68</b>; elements <b>E04C2/00</b>)",
+      "count": 6601,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B2/74": {
+      "code": "E04B2/74",
+      "level": 1,
+      "parent": "E04B2/00",
+      "ja": "移動自在な荷重を支承しない間仕切り；自由な上縁を有す間仕切り（骨組み付きパネルＥ０４Ｃ２／３８）",
+      "en": "Removable non-load-bearing partitions; Partitions with a free upper edge(framed panels <b>E04C2/38</b>)",
+      "count": 34515,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B2/76": {
+      "code": "E04B2/76",
+      "level": 2,
+      "parent": "E04B2/74",
+      "ja": "金属製の枠組または柱を有するもの",
+      "en": "with framework or posts of metal",
+      "count": 5647,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B2/78": {
+      "code": "E04B2/78",
+      "level": 3,
+      "parent": "E04B2/76",
+      "ja": "枠組部材の特別な断面に特徴のあるもの",
+      "en": "characterised by special cross-section of the frame members",
+      "count": 4524,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B2/80": {
+      "code": "E04B2/80",
+      "level": 2,
+      "parent": "E04B2/74",
+      "ja": "木製の枠組または柱を有するもの",
+      "en": "with framework or posts of wood",
+      "count": 536,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B2/82": {
+      "code": "E04B2/82",
+      "level": 2,
+      "parent": "E04B2/74",
+      "ja": "縁が建築物に結合する方法に特徴のあるもの；そのための手段；容易に移動自在な間仕切りの特別な細部",
+      "en": "characterised by the manner in which edges are connected to the building; Means therefor; Special details of easily-removable partitions",
+      "count": 18162,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B2/84": {
+      "code": "E04B2/84",
+      "level": 1,
+      "parent": "E04B2/00",
+      "ja": "現場で打込み，注入またはつき固めによって作られる壁（Ｅ０４Ｂ２／０２，Ｅ０４Ｂ２／５６が優先；そのための型枠Ｅ０４Ｇ１１／０６；コンクリートまたは現場で打ち込みあるいは注入ができる同様な塊状物の作業Ｅ０４Ｇ２１／０２）［２００６．０１］",
+      "en": "Walls made by casting, pouring, or tamping <u>in situ</u>(<b>E04B2/02</b>, <b>E04B2/56</b> take precedence; forms therefor <b>E04G11/06</b>; working of concrete or similar masses able to be cast or poured <u>in situ</u><b>E04G21/02</b>)",
+      "count": 6165,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B2/86": {
+      "code": "E04B2/86",
+      "level": 2,
+      "parent": "E04B2/84",
+      "ja": "永久型枠で作られたもの",
+      "en": "made in permanent forms",
+      "count": 10461,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B2/88": {
+      "code": "E04B2/88",
+      "level": 1,
+      "parent": "E04B2/00",
+      "ja": "カーテンウォール",
+      "en": "Curtain walls",
+      "count": 40209,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B2/90": {
+      "code": "E04B2/90",
+      "level": 2,
+      "parent": "E04B2/88",
+      "ja": "構造体に直接取り付けられるパネルからなるもの［４］",
+      "en": "comprising panels directly attached to the structure",
+      "count": 4220,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B2/92": {
+      "code": "E04B2/92",
+      "level": 3,
+      "parent": "E04B2/90",
+      "ja": "サンドイッチ形式のパネル［４］",
+      "en": "Sandwich-type panels",
+      "count": 1694,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B2/94": {
+      "code": "E04B2/94",
+      "level": 3,
+      "parent": "E04B2/90",
+      "ja": "コンクリートパネル（Ｅ０４Ｂ２／９２が優先）［４］",
+      "en": "Concrete panels(<b>E04B2/92</b> takes precedence)",
+      "count": 2317,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B2/96": {
+      "code": "E04B2/96",
+      "level": 2,
+      "parent": "E04B2/88",
+      "ja": "方立または無目を介して構造材に取り付けられるパネルからなるもの［４］",
+      "en": "comprising panels attached to the structure through mullions or transoms",
+      "count": 25184,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B5/00": {
+      "code": "E04B5/00",
+      "level": 0,
+      "parent": "E04B",
+      "ja": "床；絶縁に関する床構造；そのために特別に適用される接合（床のための要素，例．煉瓦，石，充填体，桁，Ｅ０４Ｃ；仕上げ作業としての床張り，床張りの絶縁，部分的な二重床，例．計算機用Ｅ０４Ｆ１５／００）［５］",
+      "en": "Floors; Floor construction with regard to insulation; Connections specially adapted therefor(elements for floors, e.g. bricks, stones, filling bodies, girders, <b>E04C</b>; flooring as finishing work, insulation of flooring, sectional false floors, e.g. for computers, <b>E04F15/00</b>)",
+      "count": 4598,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B5/02": {
+      "code": "E04B5/02",
+      "level": 1,
+      "parent": "E04B5/00",
+      "ja": "大体において既製ユニットで形成される荷重保持床構造（Ｅ０４Ｂ５／４３～Ｅ０４Ｂ５／４８が優先）",
+      "en": "Load-carrying floor structures formed substantially of prefabricated units(<b>E04B5/43 to E04B5/48</b>  take precedence)",
+      "count": 10882,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B5/04": {
+      "code": "E04B5/04",
+      "level": 2,
+      "parent": "E04B5/02",
+      "ja": "コンクリートまたはその他の石状材料，例．アスベストセメント，の小梁を有するもの（Ｅ０４Ｂ５／０８，Ｅ０４Ｂ５／１４が優先）",
+      "en": "with beams of concrete or other stone-like material, e.g. asbestos cement(<b>E04B5/08</b>, <b>E04B5/14</b> take precedence)",
+      "count": 1858,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B5/06": {
+      "code": "E04B5/06",
+      "level": 3,
+      "parent": "E04B5/04",
+      "ja": "相互に相対しておかれるもの",
+      "en": "placed against one another",
+      "count": 716,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B5/08": {
+      "code": "E04B5/08",
+      "level": 2,
+      "parent": "E04B5/02",
+      "ja": "ブロック状要素，例．中空石材，で組み立てられるもの（Ｅ０４Ｂ５／１４が優先；補強煉瓦工事からなる床Ｅ０４Ｂ５／４４）",
+      "en": "assembled of block-shaped elements, e.g. hollow stones(<b>E04B5/14</b> takes precedence; floors composed of reinforced brickwork <b>E04B5/44</b>)",
+      "count": 541,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B5/10": {
+      "code": "E04B5/10",
+      "level": 2,
+      "parent": "E04B5/02",
+      "ja": "金属製梁または大梁を有するもの，例．鋼製ラチス梁を有するもの（Ｅ０４Ｂ５／１４が優先）",
+      "en": "with metal beams or girders, e.g. with steel lattice girders(<b>E04B5/14</b> takes precedence)",
+      "count": 2316,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B5/12": {
+      "code": "E04B5/12",
+      "level": 2,
+      "parent": "E04B5/02",
+      "ja": "木製梁を有するもの（Ｅ０４Ｂ５／１４が優先）",
+      "en": "with wooden beams(<b>E04B5/14</b> takes precedence)",
+      "count": 1185,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B5/14": {
+      "code": "E04B5/14",
+      "level": 2,
+      "parent": "E04B5/02",
+      "ja": "２方向に置かれた梁または大梁を有するもの",
+      "en": "with beams or girders laid in two directions",
+      "count": 1167,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B5/16": {
+      "code": "E04B5/16",
+      "level": 1,
+      "parent": "E04B5/00",
+      "ja": "現場で全体的にまたは部分的に打設されまたは同様に形成された荷重保持床構造（Ｅ０４Ｂ５／４３～Ｅ０４Ｂ５／４８が優先；組み立て要素にのみ特徴のある床Ｅ０４Ｃ）",
+      "en": "Load-carrying floor structures wholly or partly cast or similarly formed <u>in situ</u>(<b>E04B5/43 to E04B5/48</b>  take precedence; floors merely characterised by the prefabricated elements <b>E04C</b>)",
+      "count": 2142,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B5/17": {
+      "code": "E04B5/17",
+      "level": 2,
+      "parent": "E04B5/16",
+      "ja": "現場で部分的に形成される床構造",
+      "en": "Floor structures partly formed <u>in situ</u>",
+      "count": 4276,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B5/18": {
+      "code": "E04B5/18",
+      "level": 3,
+      "parent": "E04B5/17",
+      "ja": "閉塞部材間に全体的に打設されている補強リブまたは他の梁状の形成物を有するもの",
+      "en": "with stiffening ribs or other beam-like formations wholly cast between filling members",
+      "count": 2227,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B5/19": {
+      "code": "E04B5/19",
+      "level": 4,
+      "parent": "E04B5/18",
+      "ja": "自己支持永久型枠として作用する閉塞部材（Ｅ０４Ｂ５／２１が優先）",
+      "en": "the filling members acting as self-supporting permanent forms(<b>E04B5/21</b> takes precedence)",
+      "count": 1032,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B5/21": {
+      "code": "E04B5/21",
+      "level": 4,
+      "parent": "E04B5/18",
+      "ja": "交さ状リブ付き床",
+      "en": "Cross-ribbed floors",
+      "count": 547,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B5/23": {
+      "code": "E04B5/23",
+      "level": 3,
+      "parent": "E04B5/17",
+      "ja": "全体的または部分的に既製されている補強リブまたは他の梁状の形成物を有するもの（大体において既製ユニットからなる全荷重保持部材を有するものＥ０４Ｂ５／０２）",
+      "en": "with stiffening ribs or other beam-like formations wholly or partly prefabricated(with all load-carrying parts substantially consisting of prefabricated units <b>E04B5/02</b>)",
+      "count": 1802,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B5/26": {
+      "code": "E04B5/26",
+      "level": 4,
+      "parent": "E04B5/23",
+      "ja": "梁間に閉塞部材を有するもの（Ｅ０４Ｂ５／２８が優先）",
+      "en": "with filling members between the beams(<b>E04B5/28</b> takes precedence)",
+      "count": 1254,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B5/28": {
+      "code": "E04B5/28",
+      "level": 4,
+      "parent": "E04B5/23",
+      "ja": "交さ状リブ付き床",
+      "en": "Cross-ribbed floors",
+      "count": 382,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B5/29": {
+      "code": "E04B5/29",
+      "level": 4,
+      "parent": "E04B5/23",
+      "ja": "全体が金属からなる既製梁部材（Ｅ０４Ｂ５／２８が優先）",
+      "en": "the prefabricated parts of the beams consisting wholly of metal(<b>E04B5/28</b> takes precedence)",
+      "count": 1158,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B5/32": {
+      "code": "E04B5/32",
+      "level": 2,
+      "parent": "E04B5/16",
+      "ja": "型枠ユニットまたは補強材を有しまたは有さない，現場で全体的に打設されている床構造",
+      "en": "Floor structures wholly cast <u>in situ</u> with or without form units or reinforcements",
+      "count": 4648,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B5/36": {
+      "code": "E04B5/36",
+      "level": 3,
+      "parent": "E04B5/32",
+      "ja": "床の役目としての型枠ユニットを有するもの",
+      "en": "with form units as part of the floor",
+      "count": 6755,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B5/38": {
+      "code": "E04B5/38",
+      "level": 4,
+      "parent": "E04B5/36",
+      "ja": "補強材として同時に作用する厚板状型枠ユニットを有するもの；要素の側外部に伸びている補強材を有する型枠厚板",
+      "en": "with slab-shaped form units acting simultaneously as reinforcement; Form slabs with reinforcements extending laterally outside the element",
+      "count": 4029,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B5/40": {
+      "code": "E04B5/40",
+      "level": 5,
+      "parent": "E04B5/38",
+      "ja": "金属型枠厚板を有するもの",
+      "en": "with metal form slabs",
+      "count": 4320,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B5/43": {
+      "code": "E04B5/43",
+      "level": 1,
+      "parent": "E04B5/00",
+      "ja": "特殊な設計の床構造；弾性的安定に関連する形状；柱のみでささえるための特別に設計された床構造，例．マッシュルーム床（特殊な構造一般Ｅ０４Ｂ１／３４）",
+      "en": "Floor structures of extraordinary design; Features relating to the elastic stability; Floor structures specially designed for resting on columns only, e.g. mushroom floors(extraordinary constructions in general <b>E04B1/34</b>)",
+      "count": 5981,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B5/44": {
+      "code": "E04B5/44",
+      "level": 1,
+      "parent": "E04B5/00",
+      "ja": "石，モルタルおよび補強要素からなる床（ガラス挿入体を有するものＥ０４Ｂ５／４６）",
+      "en": "Floors composed of stones, mortar, and reinforcing elements(with inserts of glass <b>E04B5/46</b>)",
+      "count": 312,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B5/46": {
+      "code": "E04B5/46",
+      "level": 1,
+      "parent": "E04B5/00",
+      "ja": "光の伝達のための床への特別な適用，例．ガラスの挿入体によるもの（天井への適用Ｅ０４Ｂ９／３２；ブロック状の要素Ｅ０４Ｃ１／４２；厚板または薄板状の要素Ｅ０４Ｃ２／５４；屋根被覆のためのものＥ０４Ｄ３／０６）［５］",
+      "en": "Special adaptation of floors for transmission of light, e.g. by inserts of glass(of ceilings <b>E04B9/32</b>; block- shaped elements <b>E04C1/42</b>; slab- or sheet-shaped elements <b>E04C2/54</b>; for roof covering <b>E04D3/06</b>)",
+      "count": 386,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B5/48": {
+      "code": "E04B5/48",
+      "level": 1,
+      "parent": "E04B5/00",
+      "ja": "ダクトを組み込むための床への特別な適用，例．暖房または換気のためのもの（ブロック状要素に対してＥ０４Ｃ１／３９；厚板状または薄板状要素に対してＥ０４Ｃ２／５２）",
+      "en": "Special adaptations of floors for incorporating ducts, e.g. for heating or ventilating(in block-shaped elements <b>E04C1/39</b>; in slab- or sheet-shaped elements <b>E04C2/52</b>)",
+      "count": 4261,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B7/00": {
+      "code": "E04B7/00",
+      "level": 0,
+      "parent": "E04B",
+      "ja": "屋根；絶縁に関する屋根構造（床同様の屋根の構造Ｅ０４Ｂ５／００；天井Ｅ０４Ｂ９／００；温室Ａ０１Ｇ９／１４；容器のための浮屋根Ｂ６５Ｄ８８／３４；屋根トラス，トラス状構造，梁Ｅ０４Ｃ３／０２；屋根ぶきＥ０４Ｄ）［５］",
+      "en": "Roofs; Roof construction with regard to insulation(structures for roofs as well as for floors <b>E04B5/00</b>; ceilings <b>E04B9/00</b>; greenhouses <b>A01G9/14</b>; large containers having floating covers <b>B65D88/34</b>; roof trusses, truss-like structures, joists <b>E04C3/02</b>; roof coverings <b>E04D</b>)",
+      "count": 6951,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B7/02": {
+      "code": "E04B7/02",
+      "level": 1,
+      "parent": "E04B7/00",
+      "ja": "傾斜平面を有するもの，例．サドル屋根（Ｅ０４Ｂ７／１２が優先）",
+      "en": "with plane sloping surfaces, e.g. saddle roofs(<b>E04B7/12</b> takes precedence)",
+      "count": 10196,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B7/04": {
+      "code": "E04B7/04",
+      "level": 2,
+      "parent": "E04B7/02",
+      "ja": "水平梁または壁の上の同等の支持材によって支持されるもの（Ｅ０４Ｂ７／０６が優先）",
+      "en": "supported by horizontal beams or the equivalent resting on the walls(<b>E04B7/06</b> takes precedence)",
+      "count": 2251,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B7/06": {
+      "code": "E04B7/06",
+      "level": 2,
+      "parent": "E04B7/02",
+      "ja": "屋根交さまたは上昇端部の構造",
+      "en": "Constructions of roof intersections or hopped ends",
+      "count": 2222,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B7/08": {
+      "code": "E04B7/08",
+      "level": 1,
+      "parent": "E04B7/00",
+      "ja": "丸天井（ボールト）屋根（Ｅ０４Ｂ７／１４が優先；丸天井（ボールト）構造一般Ｅ０４Ｂ１／３２；膨張可能なテントまたは天蓋一般Ｅ０４Ｈ１５／２０；現場における成形のための膨張可能な型枠Ｅ０４Ｇ１１／０４）",
+      "en": "Vaulted roofs(<b>E04B7/14</b> takes precedence; vaulted structures in general <b>E04B1/32</b>; inflatable tents or canopies, in general <b>E04H15/20</b>; inflatable forms for shaping <u>in situ</u><b>E04G11/04</b>)",
+      "count": 2922,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B7/10": {
+      "code": "E04B7/10",
+      "level": 2,
+      "parent": "E04B7/08",
+      "ja": "殻（シェル）構造，例．双曲放物形；殻（シェル）構造として作用する格子状構造；折り板構造",
+      "en": "Shell structures, e.g. of hyperbolic-parabolic shape; Grid-like formations acting as shell structures; Folded structures",
+      "count": 2500,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B7/12": {
+      "code": "E04B7/12",
+      "level": 1,
+      "parent": "E04B7/00",
+      "ja": "凹凸状に形成されるもの，例．のこぎり屋根（Ｅ０４Ｂ７／１０が優先）",
+      "en": "formed in bays, e.g. sawtooth roofs(<b>E04B7/10</b> takes precedence)",
+      "count": 576,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B7/14": {
+      "code": "E04B7/14",
+      "level": 1,
+      "parent": "E04B7/00",
+      "ja": "つり屋根（吊り下げられたテントまたは天蓋一般Ｅ０４Ｈ１５／０４）",
+      "en": "Suspended roofs(suspended tents or canopies, in general <b>E04H15/04</b>)",
+      "count": 1941,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B7/16": {
+      "code": "E04B7/16",
+      "level": 1,
+      "parent": "E04B7/00",
+      "ja": "可動屋根部分を有する屋根構造（特別な目的のための建築物Ｅ０４Ｈ）",
+      "en": "Roof structures with movable roof parts(buildings for special purposes <b>E04H</b>)",
+      "count": 6002,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B7/18": {
+      "code": "E04B7/18",
+      "level": 1,
+      "parent": "E04B7/00",
+      "ja": "屋根内または屋根上の特別な構造，例．屋根窓（屋根被覆に関連するものＥ０４Ｄ１３／００，特にドームＥ０４Ｄ１３／０３）",
+      "en": "Special structures in or on roofs, e.g. dormer windows(in connection with roof coverings <b>E04D13/00</b>, especially domes <b>E04D13/03</b>)",
+      "count": 3182,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B7/20": {
+      "code": "E04B7/20",
+      "level": 1,
+      "parent": "E04B7/00",
+      "ja": "自己支持スラブから成る屋根，例．積載可能の［５］",
+      "en": "Roofs consisting of self-supporting slabs, e.g. able to be loaded",
+      "count": 1581,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B7/22": {
+      "code": "E04B7/22",
+      "level": 2,
+      "parent": "E04B7/20",
+      "ja": "絶縁特性を有するスラブ，例；絶縁材の層が積層されているもの（Ｅ０４Ｂ７／２４が優先）［６］",
+      "en": "the slabs having insulating properties, e.g. being laminated with layers of insulating material(<b>E04B7/24</b> takes precedence)",
+      "count": 1478,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B7/24": {
+      "code": "E04B7/24",
+      "level": 2,
+      "parent": "E04B7/20",
+      "ja": "折りたためるスラブ，例．移送用［６］",
+      "en": "the slabs being collapsible, e.g. for transport",
+      "count": 160,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B9/00": {
+      "code": "E04B9/00",
+      "level": 0,
+      "parent": "E04B",
+      "ja": "天井；天井の構造，例．二重天井；絶縁に関する天井構造（床を作るための型枠として使用される天井Ｅ０４Ｂ５／００；天井のための被覆またはライニングＥ０４Ｆ１３／００）［５］",
+      "en": "Ceilings; Construction of ceilings, e.g. false ceilings; Ceiling construction with regard to insulation(ceilings used as forms for making floors <b>E04B5/00</b>; coverings or linings for ceilings <b>E04F13/00</b>)",
+      "count": 17925,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B9/02": {
+      "code": "E04B9/02",
+      "level": 1,
+      "parent": "E04B9/00",
+      "ja": "換気または蒸気放散のための手段を有するもの［５］",
+      "en": "having means for ventilation or vapour discharge",
+      "count": 2619,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B9/04": {
+      "code": "E04B9/04",
+      "level": 1,
+      "parent": "E04B9/00",
+      "ja": "厚板，薄板または類似物からなるもの（Ｅ０４Ｂ９／０６～Ｅ０４Ｂ９／３４が優先；厚板，薄板または類似物それ自体Ｅ０４Ｃ２／００）［５］",
+      "en": "comprising slabs, sheets or the like(<b>E04B9/06 to E04B9/34</b>  take precedence; slabs, sheets or the like <u>per se</u><b>E04C2/00</b>)",
+      "count": 8973,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B9/06": {
+      "code": "E04B9/06",
+      "level": 1,
+      "parent": "E04B9/00",
+      "ja": "支持構造の構造的形状に特徴のあるもの［５］",
+      "en": "characterised by constructional features of the supporting construction",
+      "count": 15897,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B9/08": {
+      "code": "E04B9/08",
+      "level": 2,
+      "parent": "E04B9/06",
+      "ja": "伸張可能なもの［５］",
+      "en": "having the capability of expansion",
+      "count": 374,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B9/10": {
+      "code": "E04B9/10",
+      "level": 2,
+      "parent": "E04B9/06",
+      "ja": "支持構造の平行部材間の接合（Ｅ０４Ｂ９／０８が優先）［５］",
+      "en": "Connections between parallel members of the supporting construction(<b>E04B9/08</b> takes precedence)",
+      "count": 965,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B9/12": {
+      "code": "E04B9/12",
+      "level": 2,
+      "parent": "E04B9/06",
+      "ja": "支持構造の非平行部材間の接合（Ｅ０４Ｂ９／０８が優先）［５］",
+      "en": "Connections between non-parallel members of the supporting construction(<b>E04B9/08</b> takes precedence)",
+      "count": 2459,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B9/14": {
+      "code": "E04B9/14",
+      "level": 3,
+      "parent": "E04B9/12",
+      "ja": "不連続で，少なくとも部分的に同一面内に横たわるすべての部材［５］",
+      "en": "all the members being discontinuous and lying at least partly in the same plane",
+      "count": 1622,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B9/16": {
+      "code": "E04B9/16",
+      "level": 3,
+      "parent": "E04B9/12",
+      "ja": "異なる面内に横たわる部材［５］",
+      "en": "the members lying in different planes",
+      "count": 2644,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B9/18": {
+      "code": "E04B9/18",
+      "level": 1,
+      "parent": "E04B9/00",
+      "ja": "支持構造の懸架手段［５］",
+      "en": "Means for suspending the supporting construction",
+      "count": 10578,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B9/20": {
+      "code": "E04B9/20",
+      "level": 2,
+      "parent": "E04B9/18",
+      "ja": "調節できるもの［５］",
+      "en": "adjustable",
+      "count": 3725,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B9/22": {
+      "code": "E04B9/22",
+      "level": 1,
+      "parent": "E04B9/00",
+      "ja": "支持構造への厚板，薄板または類似物の接合［５］",
+      "en": "Connection of slabs, sheets or the like to the supporting construction",
+      "count": 8493,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B9/24": {
+      "code": "E04B9/24",
+      "level": 2,
+      "parent": "E04B9/22",
+      "ja": "支持構造の水平フランジ上に位置するかまたは保持される厚板，薄板または類似物を有するもの［５］",
+      "en": "with the slabs, sheets or the like positioned on, or held against, horizontal flanges of the supporting construction",
+      "count": 3567,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B9/26": {
+      "code": "E04B9/26",
+      "level": 3,
+      "parent": "E04B9/24",
+      "ja": "弾性変形する要素のスナップ作用によるもの［５］",
+      "en": "by means of snap action of elastically deformable elements",
+      "count": 1352,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B9/28": {
+      "code": "E04B9/28",
+      "level": 2,
+      "parent": "E04B9/22",
+      "ja": "支持構造の水平フランジまたはそれに接合した補助的手段と係合する溝をもつ厚板，薄板または類似物を有するもの［５］",
+      "en": "with the slabs, sheets or the like having grooves engaging with horizontal flanges of the supporting construction or accessory means connected thereto",
+      "count": 1481,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B9/30": {
+      "code": "E04B9/30",
+      "level": 1,
+      "parent": "E04B9/00",
+      "ja": "天井の縁細部に特徴あるもの，例．隣接の壁に固着するもの［５］",
+      "en": "characterised by edge details of the ceiling, e.g. securing to an adjacent wall",
+      "count": 4941,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B9/32": {
+      "code": "E04B9/32",
+      "level": 1,
+      "parent": "E04B9/00",
+      "ja": "半透明の天井，すなわち，光の透過と拡散の両方を可能にするもの（Ｅ０４Ｂ９／３４が優先；照明Ｆ２１）［５］",
+      "en": "Translucent ceilings, i.e. permitting both the transmission and diffusion of light(<b>E04B9/34</b> takes precedence; lighting <b>F21</b>)",
+      "count": 972,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B9/34": {
+      "code": "E04B9/34",
+      "level": 1,
+      "parent": "E04B9/00",
+      "ja": "透かし細工天井，例．格子型（Ｅ０４Ｂ９／３０が優先）［５］",
+      "en": "Open-work ceilings, e.g. lattice type(<b>E04B9/30</b> takes precedence)",
+      "count": 1275,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    },
+    "E04B9/36": {
+      "code": "E04B9/36",
+      "level": 2,
+      "parent": "E04B9/34",
+      "ja": "平行な細長い薄板からなるもの［５］",
+      "en": "consisting of parallel slats",
+      "count": 1015,
+      "sourceFile": "ipc_E04B.txt",
+      "kind": "ipc"
+    }
+  }
+};

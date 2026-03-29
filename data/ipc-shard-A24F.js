@@ -1,0 +1,1356 @@
+window.IPC_SHARD_A24F = {
+  "generatedAt": "2026-03-20T02:17:45.893Z",
+  "total": 135,
+  "entries": {
+    "A24F": {
+      "code": "A24F",
+      "level": 0,
+      "parent": "A24",
+      "ja": "喫煙用具；マッチ箱；擬似喫煙具（医療用のための葉巻，紙巻タバコまたはパイプのような形状の吸入装置Ａ６１Ｍ１５／０６）［２００６．０１］<br><br><b><ul>サブクラス内の索引</ul></b><br>タバコパイプ；マウスピース<br>一般的構造　Ａ２４Ｆ１／００<br>特別なパイプ　Ａ２４Ｆ１／２８，Ａ２４Ｆ１／３０，Ａ２４Ｆ３／００<br>火ざら；マウスピース　Ａ２４Ｆ５／００；Ａ２４Ｆ７／００<br>付属品；シーズニング　Ａ２４Ｆ９／００；Ａ２４Ｆ１１／００<br>葉巻タバコ，紙巻タバコまたは擬似喫煙具の喫煙用具　Ａ２４Ｆ１３／００，Ａ２４Ｆ１５／００，Ａ２４Ｆ１７／００<br>マッチ容器または箱　Ａ２４Ｆ２７／００，Ａ２４Ｆ２９／００<br>電気的に作動される疑似喫煙具　Ａ２４Ｆ４０／００<br>電気的に作動されるもの以外の擬似喫煙具　Ａ２４Ｆ４２／００<br>その他の喫煙必要品　Ａ２４Ｆ１９／００～Ａ２４Ｆ２５／００，Ａ２４Ｆ３１／００，Ａ２４Ｆ４７／００",
+      "en": "SMOKERS&rsquo; REQUISITES; MATCH BOXES; SIMULATED SMOKING DEVICES(inhaling appliances for medical purposes, shaped like cigars, cigarettes or pipes <b>A61M15/06</b>);<br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">TOBACCO PIPES; MOUTHPIECES<tr><td width=\"70%\">General structure</td><td><b><b>1/00</b></b></td></tr></tr><tr><td width=\"70%\">Special pipes</td><td><b><b>1/28</b>, <b>1/30</b>, <b>3/00</b></b></td></tr></tr><tr><td width=\"70%\">Bowls; mouthpieces</td><td><b><b>5/00</b>; <b>7/00</b></b></td></tr></tr><tr><td width=\"70%\">Accessories; seasoning</td><td><b><b>9/00</b>; <b>11/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">APPLIANCES FOR SMOKING CIGARS, CIGARETTES OR SIMULATED SMOKING DEVICES</td><td><b><b>13/00</b>, <b>15/00</b>, <b>17/00</b></b></td></tr></tr><tr><td width=\"70%\">MATCH RECEPTACLES OR BOXES</td><td><b><b>27/00</b>, <b>29/00</b></b></td></tr></tr><tr><td width=\"70%\">ELECTRICALLY OPERATED SMOKING DEVICES</td><td><b><b>40/00</b></b></td></tr></tr><tr><td width=\"70%\">SIMULATED SMOKING DEVICES OTHER THAN ELECTRICALLY OPERATED</td><td><b><b>42/00</b></b></td></tr></tr><tr><td width=\"70%\">OTHER SMOKERS' REQUISITES</td><td><b><b>19/00 to 25/00</b> , <b>31/00</b>, <b>47/00</b></b></td></tr></tr></table>",
+      "count": 1314,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A24": {
+      "code": "A24",
+      "level": 0,
+      "parent": "A",
+      "ja": "たばこ；葉巻たばこ；紙巻たばこ；擬似喫煙具；喫煙具<br><br><b><ul>注</ul></b><br>このクラスにおいては，下記の用語または表現は以下に示す意味で用いる：<br>―“擬似喫煙具”とは，たばこを燃焼させることなく喫煙を擬似する装置，例．いわゆる電子たばこ，を意味する。<br>―“紙巻たばこ”とは：<br>―たばこ（またはたばこ代替物）を直接的に発火して燃やされた状態にすることにより人々が喫煙するたばこまたはたばこ代替物を含む上巻きの小さなチューブを意味する。；<br>―広義には製造時に加熱源と結合されてまたは使用者により加熱源を含む装置に挿入されてたばこ（またはたばこ代替物）を発火することなく加熱された状態にするたばこまたはたばこ代替物を含む上巻きの小さなチューブも意味する。この広義では，紙巻たばこに代わり用語”棒状体”もしばしば用いられる。",
+      "en": "TOBACCO; CIGARS; CIGARETTES; SIMULATED SMOKING DEVICES; SMOKERS' REQUISITES; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this class, the following terms or expressions are used with the meaning indicated:<ul><li>&ldquo;simulated smoking devices&rdquo; means devices simulating the act of smoking without burning tobacco, e.g. so called electronic cigarettes;</li><li>&ldquo;cigarette&rdquo; means: <ul><li>a small tube of wrapper containing tobacco or tobacco substitutes which people smoke by igniting it directly and where the tobacco (or the tobacco substitute) is burned;</li><li>in a broader sense it also means a small tube of wrapper containing tobacco or tobacco substitutes which is associated with a heat source at manufacturing or inserted by the user in a device containing a heat source and where the tobacco (or the tobacco substitute) is heated without being burned. In this broader sense, the word &ldquo;rod&rdquo; is also often used in place of cigarette.</li></ul></li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A": {
+      "code": "A",
+      "level": 0,
+      "parent": null,
+      "ja": "生活必需品",
+      "en": "HUMAN NECESSITIES",
+      "count": 0,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A24F1/00": {
+      "code": "A24F1/00",
+      "level": 0,
+      "parent": "A24F",
+      "ja": "たばこパイプ  ［２００６．０１］",
+      "en": "Tobacco pipes",
+      "count": 1885,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F1/02": {
+      "code": "A24F1/02",
+      "level": 1,
+      "parent": "A24F1/00",
+      "ja": "煙の除去または冷却用の装置を有するもの（水ぎせるＡ２４Ｆ１／３０）",
+      "en": "with arrangements for cleaning or cooling the smoke(hookahs <b>A24F1/30</b>)",
+      "count": 469,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F1/04": {
+      "code": "A24F1/04",
+      "level": 2,
+      "parent": "A24F1/02",
+      "ja": "煙室またはよだれ止めＶ字管を有するもの",
+      "en": "with smoke chamber or slobber traps",
+      "count": 41,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F1/06": {
+      "code": "A24F1/06",
+      "level": 3,
+      "parent": "A24F1/04",
+      "ja": "パイプ内部",
+      "en": "inside the pipe",
+      "count": 105,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F1/08": {
+      "code": "A24F1/08",
+      "level": 4,
+      "parent": "A24F1/06",
+      "ja": "軸内部",
+      "en": "inside the stem",
+      "count": 433,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F1/10": {
+      "code": "A24F1/10",
+      "level": 4,
+      "parent": "A24F1/06",
+      "ja": "火ざら内部",
+      "en": "inside the bowl",
+      "count": 170,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F1/12": {
+      "code": "A24F1/12",
+      "level": 3,
+      "parent": "A24F1/04",
+      "ja": "パイプ外側",
+      "en": "outside the pipe",
+      "count": 19,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F1/14": {
+      "code": "A24F1/14",
+      "level": 4,
+      "parent": "A24F1/12",
+      "ja": "液体―コンテナを有するもの",
+      "en": "with liquid-container",
+      "count": 114,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F1/16": {
+      "code": "A24F1/16",
+      "level": 2,
+      "parent": "A24F1/02",
+      "ja": "煙に適したジグザグまたは同様な煙道を有するもの",
+      "en": "with zigzag or like passages for the smoke",
+      "count": 190,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F1/18": {
+      "code": "A24F1/18",
+      "level": 2,
+      "parent": "A24F1/02",
+      "ja": "非吸収性ライニングを有するもの",
+      "en": "with non-absorbent linings",
+      "count": 6,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F1/20": {
+      "code": "A24F1/20",
+      "level": 2,
+      "parent": "A24F1/02",
+      "ja": "吸収性ライニングを有するもの",
+      "en": "with absorbent linings",
+      "count": 172,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F1/22": {
+      "code": "A24F1/22",
+      "level": 2,
+      "parent": "A24F1/02",
+      "ja": "空気によって冷却する装置を有するもの，例．二重壁を有するパイプ",
+      "en": "with arrangements for cooling by air, e.g. pipes with double walls",
+      "count": 258,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F1/24": {
+      "code": "A24F1/24",
+      "level": 1,
+      "parent": "A24F1/00",
+      "ja": "下部からたばこを燃焼させるもの",
+      "en": "for burning the tobacco from below",
+      "count": 106,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F1/26": {
+      "code": "A24F1/26",
+      "level": 1,
+      "parent": "A24F1/00",
+      "ja": "充填装置を有するもの",
+      "en": "with filling devices",
+      "count": 128,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F1/28": {
+      "code": "A24F1/28",
+      "level": 1,
+      "parent": "A24F1/00",
+      "ja": "管状パイプ，例．葉巻たばこの形状",
+      "en": "Tubular pipes, e.g. in the form of cigars",
+      "count": 354,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F1/30": {
+      "code": "A24F1/30",
+      "level": 1,
+      "parent": "A24F1/00",
+      "ja": "水ぎせる",
+      "en": "Hookahs",
+      "count": 2507,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F1/32": {
+      "code": "A24F1/32",
+      "level": 1,
+      "parent": "A24F1/00",
+      "ja": "パイプに適した材料の選択",
+      "en": "Selection of materials for pipes",
+      "count": 398,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F3/00": {
+      "code": "A24F3/00",
+      "level": 0,
+      "parent": "A24F",
+      "ja": "他のものと結合したたばこパイプ（歩行杖またはステッキについた喫煙用具Ａ４５Ｂ３／１６）",
+      "en": "Tobacco pipes combined with other objects(smoking appliances on walking sticks or canes <b>A45B3/16</b>)",
+      "count": 356,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F3/02": {
+      "code": "A24F3/02",
+      "level": 1,
+      "parent": "A24F3/00",
+      "ja": "掃除用具を有するもの",
+      "en": "with cleaning appliances",
+      "count": 218,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F5/00": {
+      "code": "A24F5/00",
+      "level": 0,
+      "parent": "A24F",
+      "ja": "パイプ用火ざら",
+      "en": "Bowls for pipes",
+      "count": 451,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F5/02": {
+      "code": "A24F5/02",
+      "level": 1,
+      "parent": "A24F5/00",
+      "ja": "しまっておく時に，まっすぐに保持するのに適した装置を有するもの",
+      "en": "with arrangements for keeping upright, when put aside",
+      "count": 21,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F5/04": {
+      "code": "A24F5/04",
+      "level": 1,
+      "parent": "A24F5/00",
+      "ja": "空気導入口を有するもの",
+      "en": "with holes for admitting air",
+      "count": 164,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F5/06": {
+      "code": "A24F5/06",
+      "level": 1,
+      "parent": "A24F5/00",
+      "ja": "陶製または類似物のそう入物を有するもの",
+      "en": "with insets of clay or the like",
+      "count": 202,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F5/08": {
+      "code": "A24F5/08",
+      "level": 2,
+      "parent": "A24F5/06",
+      "ja": "格子，ふるい，または類似物を有するもの",
+      "en": "with grates, sieves, or the like",
+      "count": 195,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F5/10": {
+      "code": "A24F5/10",
+      "level": 1,
+      "parent": "A24F5/00",
+      "ja": "取り付けたものおよび取りはずし可能な火ざらカバー",
+      "en": "Bowl-covers, attached and removable",
+      "count": 224,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F5/12": {
+      "code": "A24F5/12",
+      "level": 2,
+      "parent": "A24F5/10",
+      "ja": "取り付けたストッパーを有するもの",
+      "en": "with attached stoppers",
+      "count": 17,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F5/14": {
+      "code": "A24F5/14",
+      "level": 2,
+      "parent": "A24F5/10",
+      "ja": "風よけを有するもの",
+      "en": "with wind screens",
+      "count": 16,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F7/00": {
+      "code": "A24F7/00",
+      "level": 0,
+      "parent": "A24F",
+      "ja": "パイプ用マウスピース；葉巻たばこまたは紙巻たばこホルダー用マウスピース",
+      "en": "Mouthpieces for pipes; Mouthpieces for cigar or cigarette holders",
+      "count": 1172,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F7/02": {
+      "code": "A24F7/02",
+      "level": 1,
+      "parent": "A24F7/00",
+      "ja": "取りはずし可能な結合部材を有するもの",
+      "en": "with detachable connecting members",
+      "count": 504,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F7/04": {
+      "code": "A24F7/04",
+      "level": 1,
+      "parent": "A24F7/00",
+      "ja": "煙フィルタを有するもの［２００６．０１］",
+      "en": "with smoke filters",
+      "count": 853,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F9/00": {
+      "code": "A24F9/00",
+      "level": 0,
+      "parent": "A24F",
+      "ja": "喫煙パイプ用付属品",
+      "en": "Accessories for smokers' pipes",
+      "count": 229,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F9/02": {
+      "code": "A24F9/02",
+      "level": 1,
+      "parent": "A24F9/00",
+      "ja": "たばこストッパー，すなわち，たばこをパイプの中につめるための装置（たばこケースと結合したものＡ２４Ｆ２３／０４）",
+      "en": "Tobacco stoppers, i.e. devices for tamping tobacco down into the pipe(combined with tobacco cases <b>A24F23/04</b>)",
+      "count": 172,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F9/04": {
+      "code": "A24F9/04",
+      "level": 1,
+      "parent": "A24F9/00",
+      "ja": "パイプ用掃除装置（パイプと結合したものＡ２４Ｆ３／０２）",
+      "en": "Cleaning devices for pipes(combined with pipes <b>A24F3/02</b>)",
+      "count": 155,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F9/06": {
+      "code": "A24F9/06",
+      "level": 2,
+      "parent": "A24F9/04",
+      "ja": "軸用のもの，例．ブラシ，針，ひも",
+      "en": "for stems, e.g. brushes, needles, strings",
+      "count": 122,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F9/08": {
+      "code": "A24F9/08",
+      "level": 2,
+      "parent": "A24F9/04",
+      "ja": "掃除セット",
+      "en": "Cleaning-sets",
+      "count": 42,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F9/10": {
+      "code": "A24F9/10",
+      "level": 2,
+      "parent": "A24F9/04",
+      "ja": "火ざら用のもの，例．こする道具，切断刃を有する火ざら掃除具",
+      "en": "for bowls, e.g. scrapers, bowl-cleaners with cutting-teeth",
+      "count": 241,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F9/12": {
+      "code": "A24F9/12",
+      "level": 2,
+      "parent": "A24F9/04",
+      "ja": "蒸気，空気，または水によってたばこパイプを掃除する装置",
+      "en": "Devices for cleaning tobacco pipes by steam, air, or water",
+      "count": 125,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F9/14": {
+      "code": "A24F9/14",
+      "level": 1,
+      "parent": "A24F9/00",
+      "ja": "たばこパイプ用スタンドまたは支持体",
+      "en": "Stands or supports for tobacco pipes",
+      "count": 318,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F9/16": {
+      "code": "A24F9/16",
+      "level": 1,
+      "parent": "A24F9/00",
+      "ja": "パイプまたはそれの部品用保護カバーまたはケース",
+      "en": "Protective coverings or cases for pipes or parts thereof",
+      "count": 189,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F11/00": {
+      "code": "A24F11/00",
+      "level": 0,
+      "parent": "A24F",
+      "ja": "たばこパイプのシーズニング",
+      "en": "Seasoning of tobacco pipes",
+      "count": 123,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F13/00": {
+      "code": "A24F13/00",
+      "level": 0,
+      "parent": "A24F",
+      "ja": "葉巻たばこまたは紙巻たばこの喫煙用具",
+      "en": "Appliances for smoking cigars or cigarettes",
+      "count": 1431,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F13/02": {
+      "code": "A24F13/02",
+      "level": 1,
+      "parent": "A24F13/00",
+      "ja": "葉巻たばこまたは紙巻たばこのホルダー（マウスピースＡ２４Ｆ７／００；プラスチックまたは可塑状態物質から筒状の葉巻たばこまたは紙巻たばこホルダーの製造　Ｂ２９Ｄ２３／１４）［２００６．０１］",
+      "en": "Cigar or cigarette holders(mouthpieces <b>A24F7/00</b>; producing tubular cigar or cigarette holders from plastics or from substances in a plastic state <b>B29D23/14</b>)",
+      "count": 1236,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F13/04": {
+      "code": "A24F13/04",
+      "level": 2,
+      "parent": "A24F13/02",
+      "ja": "煙を掃除または冷却する装置を有するもの［２００６．０１］",
+      "en": "with arrangements for cleaning or cooling the smoke",
+      "count": 1035,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F13/06": {
+      "code": "A24F13/06",
+      "level": 3,
+      "parent": "A24F13/04",
+      "ja": "煙フィルターを有するもの（フィルター自体Ａ２４Ｄ３／００）",
+      "en": "with smoke filters(filters therefor <b>A24D3/00</b>)",
+      "count": 2496,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F13/08": {
+      "code": "A24F13/08",
+      "level": 2,
+      "parent": "A24F13/02",
+      "ja": "特殊装置を有するもの，例．葉巻たばこまたは紙巻たばこを保持するための火門せん，または握り",
+      "en": "with special devices, e.g. spikes or grippers, for holding the cigars or cigarettes",
+      "count": 540,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F13/10": {
+      "code": "A24F13/10",
+      "level": 2,
+      "parent": "A24F13/02",
+      "ja": "端部排出口を有するもの",
+      "en": "with end-ejectors",
+      "count": 293,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F13/12": {
+      "code": "A24F13/12",
+      "level": 2,
+      "parent": "A24F13/02",
+      "ja": "他のもの，例．筆記具，と結合したもの（歩行用または傘用ステッキと結合したものＡ４５Ｂ３／１６）",
+      "en": "combined with other objects, e.g. writing utensils(combined with walking or umbrella sticks <b>A45B3/16</b>)",
+      "count": 354,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F13/14": {
+      "code": "A24F13/14",
+      "level": 2,
+      "parent": "A24F13/02",
+      "ja": "保護ケース",
+      "en": "Protecting cases",
+      "count": 531,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F13/16": {
+      "code": "A24F13/16",
+      "level": 1,
+      "parent": "A24F13/00",
+      "ja": "灼熱の灰による損害を防ぐ葉巻たばこまたは紙巻たばこ用安全スリーブ",
+      "en": "Safety sleeves for cigars or cigarettes preventing damage by glowing ash",
+      "count": 960,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F13/18": {
+      "code": "A24F13/18",
+      "level": 1,
+      "parent": "A24F13/00",
+      "ja": "葉巻たばこまたは紙巻たばこ用消火具",
+      "en": "Extinguishers for cigars or cigarettes",
+      "count": 1178,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F13/20": {
+      "code": "A24F13/20",
+      "level": 2,
+      "parent": "A24F13/18",
+      "ja": "灼熱の灰を切り取る装置",
+      "en": "Means for cutting-off the glowing ash",
+      "count": 82,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F13/22": {
+      "code": "A24F13/22",
+      "level": 1,
+      "parent": "A24F13/00",
+      "ja": "喫煙の時に葉巻たばこまたは紙巻たばこを保持する支持体",
+      "en": "Supports for holding cigars or cigarettes while smoking",
+      "count": 736,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F13/24": {
+      "code": "A24F13/24",
+      "level": 1,
+      "parent": "A24F13/00",
+      "ja": "葉巻カッター，スリットまたは穴あけ器，例．ライターと結合したもの［２００６．０１］",
+      "en": "Cigar cutters, slitters, or perforators, e.g. combined with lighters ",
+      "count": 575,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F13/26": {
+      "code": "A24F13/26",
+      "level": 2,
+      "parent": "A24F13/24",
+      "ja": "ポケット用に形成した装置",
+      "en": "formed as pocket devices",
+      "count": 328,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F13/28": {
+      "code": "A24F13/28",
+      "level": 1,
+      "parent": "A24F13/00",
+      "ja": "葉巻たばこを通じて吹きつける装置",
+      "en": "Devices for blowing through cigars",
+      "count": 15,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F13/30": {
+      "code": "A24F13/30",
+      "level": 1,
+      "parent": "A24F13/00",
+      "ja": "煙に似たものまたは輪状のものを製造する装置［２００６．０１］",
+      "en": "Arrangements for producing smoke images or rings",
+      "count": 25,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F15/00": {
+      "code": "A24F15/00",
+      "level": 0,
+      "parent": "A24F",
+      "ja": "葉巻タバコ，紙巻タバコ，擬似喫煙具または疑似喫煙具のための紙巻タバコに特に適合される容器または箱（車の中で使用するものＢ６０Ｎ３／１２；紙巻タバコに特に適合される包装Ｂ６５Ｄ８５／１０）［２０２０．０１］",
+      "en": "Receptacles or boxes specially adapted for cigars, cigarettes, simulated smoking devices or cigarettes therefor(adaptations for use in vehicles <b>B60N3/12</b>; packages specially adapted for cigarettes <b>B65D85/10</b>)",
+      "count": 1328,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F15/01": {
+      "code": "A24F15/01",
+      "level": 1,
+      "parent": "A24F15/00",
+      "ja": "擬似喫煙具または疑似喫煙具のための紙巻タバコに特に適合されるもの（ケースと構造的に結合したバッテリー充電手段Ａ２４Ｆ４０／９５）［２０２０．０１］",
+      "en": "specially adapted for simulated smoking devices or cigarettes therefor(battery charging means structurally associated with the case <b>A24F40/95</b>)",
+      "count": 529,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F15/015": {
+      "code": "A24F15/015",
+      "level": 2,
+      "parent": "A24F15/01",
+      "ja": "液状の吸入可能な前駆体を補充する手段付きのもの［２０２０．０１］",
+      "en": "with means for refilling of liquid inhalable precursors",
+      "count": 488,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F15/02": {
+      "code": "A24F15/02",
+      "level": 1,
+      "parent": "A24F15/00",
+      "ja": "家庭用のもの",
+      "en": "for domestic use",
+      "count": 447,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F15/04": {
+      "code": "A24F15/04",
+      "level": 2,
+      "parent": "A24F15/02",
+      "ja": "一本の葉巻たばこまたは紙巻たばこを放出するための器具を有するもの",
+      "en": "with appliances for releasing a single cigar or cigarette",
+      "count": 1053,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F15/06": {
+      "code": "A24F15/06",
+      "level": 2,
+      "parent": "A24F15/02",
+      "ja": "さし出し装置を有するもの（Ａ２４Ｆ１５／０４が優先）［２］",
+      "en": "with means for offering(<b>A24F15/04</b> takes precedence)",
+      "count": 145,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F15/08": {
+      "code": "A24F15/08",
+      "level": 2,
+      "parent": "A24F15/02",
+      "ja": "他のものと結合したもの",
+      "en": "combined with other objects",
+      "count": 751,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F15/10": {
+      "code": "A24F15/10",
+      "level": 3,
+      "parent": "A24F15/08",
+      "ja": "ライターを有するもの",
+      "en": "with lighters",
+      "count": 1034,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F15/12": {
+      "code": "A24F15/12",
+      "level": 1,
+      "parent": "A24F15/00",
+      "ja": "ポケット用のもの",
+      "en": "for pocket use",
+      "count": 2191,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F15/14": {
+      "code": "A24F15/14",
+      "level": 2,
+      "parent": "A24F15/12",
+      "ja": "一本の葉巻たばこまたは紙巻たばこを放出するための器具を有するもの",
+      "en": "with appliances for releasing a single cigar or cigarette",
+      "count": 745,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F15/16": {
+      "code": "A24F15/16",
+      "level": 2,
+      "parent": "A24F15/12",
+      "ja": "さし出し装置を有するもの（Ａ２４Ｆ１５／１４が優先）［２］",
+      "en": "with means for offering(<b>A24F15/14</b> takes precedence)",
+      "count": 189,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F15/18": {
+      "code": "A24F15/18",
+      "level": 2,
+      "parent": "A24F15/12",
+      "ja": "他のものと結合したもの",
+      "en": "combined with other objects",
+      "count": 3234,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F15/20": {
+      "code": "A24F15/20",
+      "level": 1,
+      "parent": "A24F15/00",
+      "ja": "おのおのの葉巻たばこまたは紙巻たばこのために区分室を有するもの",
+      "en": "with separate compartments for each cigar or cigarette",
+      "count": 334,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F17/00": {
+      "code": "A24F17/00",
+      "level": 0,
+      "parent": "A24F",
+      "ja": "紙巻たばこ用紙の容器",
+      "en": "Receptacles for cigarette papers",
+      "count": 593,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F19/00": {
+      "code": "A24F19/00",
+      "level": 0,
+      "parent": "A24F",
+      "ja": "灰ざら（車両乗客設備における配置Ｂ６０Ｎ３／０８）",
+      "en": "Ash-trays(arrangements in vehicle passenger accommodation <b>B60N3/08</b>)",
+      "count": 8727,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F19/02": {
+      "code": "A24F19/02",
+      "level": 1,
+      "parent": "A24F19/00",
+      "ja": "移動可能なそう入物を有するもの",
+      "en": "with removable insets",
+      "count": 481,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F19/04": {
+      "code": "A24F19/04",
+      "level": 1,
+      "parent": "A24F19/00",
+      "ja": "押し下げ可能な仮の灰受けを有するもの",
+      "en": "with depressible false floor",
+      "count": 147,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F19/06": {
+      "code": "A24F19/06",
+      "level": 1,
+      "parent": "A24F19/00",
+      "ja": "傾斜可能な灰ざらまたは仮の灰受けを有するもの",
+      "en": "with tiltable bowl or false floor",
+      "count": 363,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F19/08": {
+      "code": "A24F19/08",
+      "level": 1,
+      "parent": "A24F19/00",
+      "ja": "仮の灰受けに摺動可能に取り付けたものを有するもの",
+      "en": "with slidably mounted false floor",
+      "count": 182,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F19/09": {
+      "code": "A24F19/09",
+      "level": 1,
+      "parent": "A24F19/00",
+      "ja": "自動的に動作する安全装置を有するもの，例．熱感応のもの",
+      "en": "with automatically-acting safety devices, e.g. heat-responsive",
+      "count": 290,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F19/10": {
+      "code": "A24F19/10",
+      "level": 1,
+      "parent": "A24F19/00",
+      "ja": "他の物品と結合したもの（Ａ２４Ｆ１５／０８が優先）",
+      "en": "combined with other articles(<b>A24F15/08</b> takes precedence)",
+      "count": 3219,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F19/12": {
+      "code": "A24F19/12",
+      "level": 2,
+      "parent": "A24F19/10",
+      "ja": "マッチ箱を有するもの",
+      "en": "with match-boxes",
+      "count": 157,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F19/14": {
+      "code": "A24F19/14",
+      "level": 2,
+      "parent": "A24F19/10",
+      "ja": "消火装置を有するもの",
+      "en": "with extinguishers",
+      "count": 4517,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F21/00": {
+      "code": "A24F21/00",
+      "level": 0,
+      "parent": "A24F",
+      "ja": "喫煙用具のスタンド",
+      "en": "Stands for smokers' requisites",
+      "count": 125,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F23/00": {
+      "code": "A24F23/00",
+      "level": 0,
+      "parent": "A24F",
+      "ja": "たばこ，かぎたばこ，またはかみたばこ用ケース",
+      "en": "Cases for tobacco, snuff, or chewing tobacco",
+      "count": 504,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F23/02": {
+      "code": "A24F23/02",
+      "level": 1,
+      "parent": "A24F23/00",
+      "ja": "たばこ入れ",
+      "en": "Tobacco pouches",
+      "count": 561,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F23/04": {
+      "code": "A24F23/04",
+      "level": 2,
+      "parent": "A24F23/02",
+      "ja": "他のものと結合したもの，例．パイプ用充填装置を有するもの",
+      "en": "combined with other objects, e.g. with filling devices for pipes",
+      "count": 313,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F25/00": {
+      "code": "A24F25/00",
+      "level": 0,
+      "parent": "A24F",
+      "ja": "葉巻たばこ，紙巻たばこ，またはたばこの水分量の調整または加香するのに喫煙者によって使用される装置［２００６．０１］",
+      "en": "Devices used by the smoker for controlling the moisture content of, or for scenting, cigars, cigarettes or tobacco",
+      "count": 952,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F25/02": {
+      "code": "A24F25/02",
+      "level": 1,
+      "parent": "A24F25/00",
+      "ja": "水分調整装置",
+      "en": "Moistening devices",
+      "count": 548,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F27/00": {
+      "code": "A24F27/00",
+      "level": 0,
+      "parent": "A24F",
+      "ja": "マッチ容器または箱（点火表面の成分，マッチＣ０６Ｆ）［２００６．０１］",
+      "en": "Match receptacles or boxes(composition of strike-surfaces, matches <b>C06F</b>)",
+      "count": 1802,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F27/02": {
+      "code": "A24F27/02",
+      "level": 1,
+      "parent": "A24F27/00",
+      "ja": "マッチを別に収納するための装置を有するもの",
+      "en": "with means for storing the matches separately",
+      "count": 74,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F27/04": {
+      "code": "A24F27/04",
+      "level": 1,
+      "parent": "A24F27/00",
+      "ja": "マッチ容器の保護カバー",
+      "en": "Protective coverings for match receptacles",
+      "count": 221,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F27/06": {
+      "code": "A24F27/06",
+      "level": 1,
+      "parent": "A24F27/00",
+      "ja": "風よけを有するもの",
+      "en": "with wind-guards",
+      "count": 89,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F27/08": {
+      "code": "A24F27/08",
+      "level": 1,
+      "parent": "A24F27/00",
+      "ja": "マッチ箱用スタンド［２００６．０１］",
+      "en": "Stands for match-boxes",
+      "count": 442,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F27/10": {
+      "code": "A24F27/10",
+      "level": 1,
+      "parent": "A24F27/00",
+      "ja": "壁に支持されるマッチ容器またはマッチ箱",
+      "en": "Receptacles for matches or match-boxes to be supported on the wall",
+      "count": 156,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F27/12": {
+      "code": "A24F27/12",
+      "level": 1,
+      "parent": "A24F27/00",
+      "ja": "マッチ－ブック",
+      "en": "Match-books",
+      "count": 709,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F27/14": {
+      "code": "A24F27/14",
+      "level": 1,
+      "parent": "A24F27/00",
+      "ja": "マッチ分配具；帯状に配置したマッチの分配具  ［２００６．０１］",
+      "en": "Match dispensers; Dispensers for matches arranged on strips",
+      "count": 168,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F27/16": {
+      "code": "A24F27/16",
+      "level": 2,
+      "parent": "A24F27/14",
+      "ja": "ポケット用のもの",
+      "en": "for pocket use",
+      "count": 211,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F27/18": {
+      "code": "A24F27/18",
+      "level": 3,
+      "parent": "A24F27/16",
+      "ja": "自然発火を防ぐ装置を有するもの",
+      "en": "with means preventing spontaneous ignition",
+      "count": 13,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F27/20": {
+      "code": "A24F27/20",
+      "level": 3,
+      "parent": "A24F27/16",
+      "ja": "分配された時にマッチを発火する装置を有するもの",
+      "en": "with means for igniting the match as it is dispensed",
+      "count": 409,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F27/22": {
+      "code": "A24F27/22",
+      "level": 2,
+      "parent": "A24F27/14",
+      "ja": "家庭用のもの",
+      "en": "for domestic use",
+      "count": 175,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F27/24": {
+      "code": "A24F27/24",
+      "level": 3,
+      "parent": "A24F27/22",
+      "ja": "自然発火を防ぐ装置を有するもの",
+      "en": "with means preventing spontaneous ignition",
+      "count": 1,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F27/26": {
+      "code": "A24F27/26",
+      "level": 3,
+      "parent": "A24F27/22",
+      "ja": "分配された時にマッチを発火する装置を有するもの；マッチ小片点火器",
+      "en": "with means for igniting the match as it is dispensed; Match strip lighters",
+      "count": 308,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F29/00": {
+      "code": "A24F29/00",
+      "level": 0,
+      "parent": "A24F",
+      "ja": "マッチ発火装置；発火したマッチの保持具",
+      "en": "Devices for igniting matches; Holders for ignited matches",
+      "count": 179,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F31/00": {
+      "code": "A24F31/00",
+      "level": 0,
+      "parent": "A24F",
+      "ja": "パイプ火付具；マッチを分裂させる装置",
+      "en": "Pipe-spills; Devices for splitting matches",
+      "count": 13,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F40/00": {
+      "code": "A24F40/00",
+      "level": 0,
+      "parent": "A24F",
+      "ja": "電気的に作動される疑似喫煙具；その構成部品；その製造；その保全または試験；そのために特に適合される充電手段［２０２０．０１］",
+      "en": "Electrically operated smoking devices; Component parts thereof; Manufacture thereof; Maintenance or testing thereof; Charging means specially adapted therefor",
+      "count": 768,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F40/05": {
+      "code": "A24F40/05",
+      "level": 1,
+      "parent": "A24F40/00",
+      "ja": "加熱手段がない装置［２０２０．０１］",
+      "en": "Devices without heating means",
+      "count": 614,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F40/10": {
+      "code": "A24F40/10",
+      "level": 1,
+      "parent": "A24F40/00",
+      "ja": "液状の吸入可能な前駆体を用いる装置［２０２０．０１］",
+      "en": "Devices using liquid inhalable precursors",
+      "count": 20201,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F40/20": {
+      "code": "A24F40/20",
+      "level": 1,
+      "parent": "A24F40/00",
+      "ja": "固体状の吸入可能な前駆体を用いる装置［２０２０．０１］",
+      "en": "Devices using solid inhalable precursors",
+      "count": 7580,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F40/30": {
+      "code": "A24F40/30",
+      "level": 1,
+      "parent": "A24F40/00",
+      "ja": "二以上の構造的に分離された吸入可能な前駆体を用いる装置，例．二つのカートリッジに二つの液状の前駆体を用いるもの［２０２０．０１］",
+      "en": "Devices using two or more structurally separated inhalable precursors, e.g. using two liquid precursors in two cartridges",
+      "count": 2205,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F40/40": {
+      "code": "A24F40/40",
+      "level": 1,
+      "parent": "A24F40/00",
+      "ja": "構造的細部，例．カートリッジとバッテリー部品の接続［２０２０．０１］",
+      "en": "Constructional details, e.g. connection of cartridges and battery parts",
+      "count": 34502,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F40/42": {
+      "code": "A24F40/42",
+      "level": 2,
+      "parent": "A24F40/40",
+      "ja": "吸入可能な前駆体のためのカートリッジまたは容器［２０２０．０１］",
+      "en": "Cartridges or containers for inhalable precursors",
+      "count": 15734,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F40/44": {
+      "code": "A24F40/44",
+      "level": 2,
+      "parent": "A24F40/40",
+      "ja": "ウィック［２０２０．０１］",
+      "en": "Wicks",
+      "count": 3644,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F40/46": {
+      "code": "A24F40/46",
+      "level": 2,
+      "parent": "A24F40/40",
+      "ja": "電気的加熱手段の形状または構造［２０２０．０１］",
+      "en": "Shape or structure of electric heating means",
+      "count": 24776,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F40/465": {
+      "code": "A24F40/465",
+      "level": 3,
+      "parent": "A24F40/46",
+      "ja": "誘導加熱に特に適合されるもの［２０２０．０１］",
+      "en": "specially adapted for induction heating",
+      "count": 3374,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F40/48": {
+      "code": "A24F40/48",
+      "level": 2,
+      "parent": "A24F40/40",
+      "ja": "流体輸送手段，例．ポンプ［２０２０．０１］",
+      "en": "Fluid transfer means, e.g. pumps",
+      "count": 5016,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F40/485": {
+      "code": "A24F40/485",
+      "level": 3,
+      "parent": "A24F40/48",
+      "ja": "弁；孔［２０２０．０１］",
+      "en": "Valves; Apertures",
+      "count": 5361,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F40/49": {
+      "code": "A24F40/49",
+      "level": 2,
+      "parent": "A24F40/40",
+      "ja": "チャイルドプルーフ［２０２０．０１］",
+      "en": "Child proofing",
+      "count": 742,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F40/50": {
+      "code": "A24F40/50",
+      "level": 1,
+      "parent": "A24F40/00",
+      "ja": "制御または監視［２０２０．０１］",
+      "en": "Control or monitoring ",
+      "count": 11678,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F40/51": {
+      "code": "A24F40/51",
+      "level": 2,
+      "parent": "A24F40/50",
+      "ja": "センサーの配置［２０２０．０１］",
+      "en": "Arrangement of sensors",
+      "count": 5681,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F40/53": {
+      "code": "A24F40/53",
+      "level": 2,
+      "parent": "A24F40/50",
+      "ja": "監視，例．障害検知［２０２０．０１］",
+      "en": "Monitoring, e.g. fault detection",
+      "count": 3569,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F40/57": {
+      "code": "A24F40/57",
+      "level": 2,
+      "parent": "A24F40/50",
+      "ja": "温度制御［２０２０．０１］",
+      "en": "Temperature control",
+      "count": 4163,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F40/60": {
+      "code": "A24F40/60",
+      "level": 1,
+      "parent": "A24F40/00",
+      "ja": "ユーザインターフェースと一体化された装置［２０２０．０１］",
+      "en": "Devices with integrated user interfaces",
+      "count": 2995,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F40/65": {
+      "code": "A24F40/65",
+      "level": 1,
+      "parent": "A24F40/00",
+      "ja": "通信手段と一体化された装置，例．無線通信手段［２０２０．０１］",
+      "en": "Devices with integrated communication means, e.g. wireless communication means",
+      "count": 1664,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F40/70": {
+      "code": "A24F40/70",
+      "level": 1,
+      "parent": "A24F40/00",
+      "ja": "製造［２０２０．０１］",
+      "en": "Manufacture ",
+      "count": 3316,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F40/80": {
+      "code": "A24F40/80",
+      "level": 1,
+      "parent": "A24F40/00",
+      "ja": "試験［２０２０．０１］",
+      "en": "Testing ",
+      "count": 448,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F40/85": {
+      "code": "A24F40/85",
+      "level": 1,
+      "parent": "A24F40/00",
+      "ja": "保全，例．掃除［２０２０．０１］",
+      "en": "Maintenance, e.g. cleaning",
+      "count": 1885,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F40/90": {
+      "code": "A24F40/90",
+      "level": 1,
+      "parent": "A24F40/00",
+      "ja": "バッテリー充電に特に適合される配置または方法［２０２０．０１］",
+      "en": "Arrangements or methods specially adapted for charging batteries thereof",
+      "count": 3254,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F40/95": {
+      "code": "A24F40/95",
+      "level": 2,
+      "parent": "A24F40/90",
+      "ja": "ケースと構造的に結合したもの［２０２０．０１］",
+      "en": "structurally associated with cases",
+      "count": 917,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F42/00": {
+      "code": "A24F42/00",
+      "level": 0,
+      "parent": "A24F",
+      "ja": "電気的に作動されるもの以外の擬似喫煙具；その構成部品；その製造または試験［２０２０．０１］",
+      "en": "Simulated smoking devices other than electrically operated; Component parts thereof; Manufacture or testing thereof",
+      "count": 136,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F42/10": {
+      "code": "A24F42/10",
+      "level": 1,
+      "parent": "A24F42/00",
+      "ja": "化学的加熱手段付きの装置［２０２０．０１］",
+      "en": "Devices with chemical heating means",
+      "count": 289,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F42/20": {
+      "code": "A24F42/20",
+      "level": 1,
+      "parent": "A24F42/00",
+      "ja": "加熱手段のない装置［２０２０．０１］",
+      "en": "Devices without heating means",
+      "count": 457,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F42/60": {
+      "code": "A24F42/60",
+      "level": 1,
+      "parent": "A24F42/00",
+      "ja": "構造的細部［２０２０．０１］",
+      "en": "Constructional details",
+      "count": 690,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F42/80": {
+      "code": "A24F42/80",
+      "level": 1,
+      "parent": "A24F42/00",
+      "ja": "製造［２０２０．０１］",
+      "en": "Manufacture ",
+      "count": 113,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F42/90": {
+      "code": "A24F42/90",
+      "level": 1,
+      "parent": "A24F42/00",
+      "ja": "試験［２０２０．０１］",
+      "en": "Testing ",
+      "count": 37,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    },
+    "A24F47/00": {
+      "code": "A24F47/00",
+      "level": 0,
+      "parent": "A24F",
+      "ja": "他に分類されない喫煙具［２０２０．０１］",
+      "en": "Smokers&rsquo; requisites not otherwise provided for",
+      "count": 18225,
+      "sourceFile": "ipc_A24F.txt",
+      "kind": "ipc"
+    }
+  }
+};

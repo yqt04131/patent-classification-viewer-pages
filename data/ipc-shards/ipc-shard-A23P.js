@@ -1,0 +1,336 @@
+window.IPC_SHARD_A23P = {
+  "generatedAt": "2026-03-20T02:17:45.888Z",
+  "total": 33,
+  "entries": {
+    "A23P": {
+      "code": "A23P",
+      "level": 0,
+      "parent": "A23",
+      "ja": "他の単一のサブクラスには完全に包含されない，食品の成形または加工<br><br><b><ul>注</ul></b><br>食品の成形，加工に関連する他のサブクラスとしてはＡ２３の外にＡ０１Ｊ，Ａ２１Ｃ，Ａ２２Ｃ，Ａ４７Ｊ，Ｂ０２Ｃに注意すること。",
+      "en": "SHAPING OR WORKING OF FOODSTUFFS, NOT FULLY COVERED BY A SINGLE OTHER SUBCLASS; <br><br><b><u>Note(s)</u></b><br><br><ul><li>Attention is drawn to subclasses <b>A01J</b>, <b>A21C</b>, <b>A22C</b>, <b>A47J</b>, <b>B02C</b>, in addition to other subclasses of <b>A23</b>, in connection with the shaping or working of foodstuffs.</li></ul>",
+      "count": 375,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A23": {
+      "code": "A23",
+      "level": 0,
+      "parent": "A",
+      "ja": "食品，食料品または非アルコール飲料；それらの調製，処理または保存<br><br><b><ul>注</ul></b><br>下記の箇所に注意すること：<br>Ｃ０８Ｂ　　多糖類，その誘導体<br>Ｃ１１　動物性または植物性油，脂肪，脂肪性物質またはろう<br>Ｃ１２　生化学，ビール，酒精，ぶどう酒，酢<br>Ｃ１３　糖工業［４］",
+      "en": "FOODS, FOODSTUFFS OR NON-ALCOHOLIC BEVERAGES; PREPARATION, TREATMENT OR PRESERVATION THEREOF; <br><br><b><u>Note(s)</u></b><br><br><ul><li>Attention is drawn to the following places:<ul><li>Polysaccharides, derivatives thereof</li><li>Animal or vegetable oils, fats, fatty substances or waxes</li><li>Biochemistry, beer, spirits, wine, vinegar</li><li>Sugar industry.  </li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A": {
+      "code": "A",
+      "level": 0,
+      "parent": null,
+      "ja": "生活必需品",
+      "en": "HUMAN NECESSITIES",
+      "count": 0,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A23P10/00": {
+      "code": "A23P10/00",
+      "level": 0,
+      "parent": "A23P",
+      "ja": "製造物によって特徴付けられる，食品材料の成形または加工［２０１６．０１］",
+      "en": "Shaping or working of foodstuffs characterised by the products",
+      "count": 1670,
+      "sourceFile": "ipc_A23P.txt",
+      "kind": "ipc"
+    },
+    "A23P10/10": {
+      "code": "A23P10/10",
+      "level": 1,
+      "parent": "A23P10/00",
+      "ja": "食用でない支持部材への食品材料の固定［２０１６．０１］",
+      "en": "Securing foodstuffs on a non-edible supporting member",
+      "count": 913,
+      "sourceFile": "ipc_A23P.txt",
+      "kind": "ipc"
+    },
+    "A23P10/20": {
+      "code": "A23P10/20",
+      "level": 1,
+      "parent": "A23P10/00",
+      "ja": "塊状化；粒状化；錠剤化［２０１６．０１］",
+      "en": "Agglomerating; Granulating; Tabletting",
+      "count": 2071,
+      "sourceFile": "ipc_A23P.txt",
+      "kind": "ipc"
+    },
+    "A23P10/22": {
+      "code": "A23P10/22",
+      "level": 2,
+      "parent": "A23P10/20",
+      "ja": "固形粒子の微粉化による塊状化または粒状化，例．フリーフォーリングカーテンによる［２０１６．０１］",
+      "en": "Agglomeration or granulation with pulverisation of solid particles, e.g. in a free-falling curtain",
+      "count": 544,
+      "sourceFile": "ipc_A23P.txt",
+      "kind": "ipc"
+    },
+    "A23P10/25": {
+      "code": "A23P10/25",
+      "level": 2,
+      "parent": "A23P10/20",
+      "ja": "押出しまたはプレスによる塊状化または粒状化，例．小孔，ふるいまたは面の間を通すことによる［２０１６．０１］",
+      "en": "Agglomeration or granulation by extrusion or by pressing, e.g. through small holes, through sieves or between surfaces",
+      "count": 1177,
+      "sourceFile": "ipc_A23P.txt",
+      "kind": "ipc"
+    },
+    "A23P10/28": {
+      "code": "A23P10/28",
+      "level": 2,
+      "parent": "A23P10/20",
+      "ja": "錠剤化；乾燥粉末混合物の圧縮による棒状食品の製造［２０１６．０１］",
+      "en": "Tabletting; Making food bars by compression of a dry powdered mixture",
+      "count": 3059,
+      "sourceFile": "ipc_A23P.txt",
+      "kind": "ipc"
+    },
+    "A23P10/30": {
+      "code": "A23P10/30",
+      "level": 1,
+      "parent": "A23P10/00",
+      "ja": "粒子，例．食品添加物，のカプセル化［２０１６．０１］",
+      "en": "Encapsulation of particles, e.g. foodstuff additives",
+      "count": 6121,
+      "sourceFile": "ipc_A23P.txt",
+      "kind": "ipc"
+    },
+    "A23P10/35": {
+      "code": "A23P10/35",
+      "level": 2,
+      "parent": "A23P10/30",
+      "ja": "油，脂質，モノグリセリドまたはジグリセリドを有するもの［２０１６．０１］",
+      "en": "with oils, lipids, monoglycerides or diglycerides",
+      "count": 740,
+      "sourceFile": "ipc_A23P.txt",
+      "kind": "ipc"
+    },
+    "A23P10/40": {
+      "code": "A23P10/40",
+      "level": 1,
+      "parent": "A23P10/00",
+      "ja": "流動自在な粉末またはインスタント粉末，すなわち液体ですぐに戻る粉末，の製造（Ａ２３Ｐ１０／２０，Ａ２３Ｐ１０／３０が優先）［２０１６．０１］",
+      "en": "Making free-flowing powder or instant powder, i.e. powder which is reconstituted rapidly when liquid is added(<b>A23P10/20</b>, <b>A23P10/30</b> take precedence)",
+      "count": 2076,
+      "sourceFile": "ipc_A23P.txt",
+      "kind": "ipc"
+    },
+    "A23P10/43": {
+      "code": "A23P10/43",
+      "level": 2,
+      "parent": "A23P10/40",
+      "ja": "粉末の形成中または形成後に加えられる，固化防止剤または流動性改良剤を使用するもの［２０１６．０１］",
+      "en": "using anti-caking agents or agents improving flowability, added during or after formation of the powder",
+      "count": 139,
+      "sourceFile": "ipc_A23P.txt",
+      "kind": "ipc"
+    },
+    "A23P10/47": {
+      "code": "A23P10/47",
+      "level": 2,
+      "parent": "A23P10/40",
+      "ja": "添加物，例．乳化剤，湿潤剤または粉末結合剤，を使用するもの［２０１６．０１］",
+      "en": "using additives, e.g. emulsifiers, wetting agents or dust-binding agents",
+      "count": 308,
+      "sourceFile": "ipc_A23P.txt",
+      "kind": "ipc"
+    },
+    "A23P20/00": {
+      "code": "A23P20/00",
+      "level": 0,
+      "parent": "A23P",
+      "ja": "食品材料の被覆；そのための被覆物；積層した，多層の，中身が詰まったまたは中空の食品材料の製造［２０１６．０１］",
+      "en": "Coating of foodstuffs; Coatings therefor; Making laminated, multi-layered, stuffed or hollow foodstuffs",
+      "count": 646,
+      "sourceFile": "ipc_A23P.txt",
+      "kind": "ipc"
+    },
+    "A23P20/10": {
+      "code": "A23P20/10",
+      "level": 1,
+      "parent": "A23P20/00",
+      "ja": "可食の被覆物，例．油脂，による被覆［２０１６．０１］",
+      "en": "Coating with edible coatings, e.g. with oils or fats",
+      "count": 2044,
+      "sourceFile": "ipc_A23P.txt",
+      "kind": "ipc"
+    },
+    "A23P20/12": {
+      "code": "A23P20/12",
+      "level": 2,
+      "parent": "A23P20/10",
+      "ja": "粉末または粒子を食品材料に塗布するための装置またはプロセス，例．パン粉をつける装置；予め湿らせる手段または衣をつける手段と組合せられるような装置［２０１６．０１］",
+      "en": "Apparatus or processes for applying powders or particles to foodstuffs, e.g. for breading; Such apparatus combined with means for pre-moistening or battering",
+      "count": 1507,
+      "sourceFile": "ipc_A23P.txt",
+      "kind": "ipc"
+    },
+    "A23P20/13": {
+      "code": "A23P20/13",
+      "level": 3,
+      "parent": "A23P20/12",
+      "ja": "回転装置，例．ドラム，内での食品材料の撹拌を伴うもの［２０１６．０１］",
+      "en": "involving agitation of the foodstuff inside a rotating apparatus, e.g. a drum",
+      "count": 371,
+      "sourceFile": "ipc_A23P.txt",
+      "kind": "ipc"
+    },
+    "A23P20/15": {
+      "code": "A23P20/15",
+      "level": 2,
+      "parent": "A23P20/10",
+      "ja": "液体または半液体の物質で被覆するための装置またはプロセス［２０１６．０１］",
+      "en": "Apparatus or processes for coating with liquid or semi-liquid products",
+      "count": 904,
+      "sourceFile": "ipc_A23P.txt",
+      "kind": "ipc"
+    },
+    "A23P20/17": {
+      "code": "A23P20/17",
+      "level": 3,
+      "parent": "A23P20/15",
+      "ja": "槽の中に浸けることによるもの［２０１６．０１］",
+      "en": "by dipping in a bath",
+      "count": 618,
+      "sourceFile": "ipc_A23P.txt",
+      "kind": "ipc"
+    },
+    "A23P20/18": {
+      "code": "A23P20/18",
+      "level": 3,
+      "parent": "A23P20/15",
+      "ja": "吹き付け，流動床または一体成形によるもの（パン粉つけとの組合せＡ２３Ｐ２０／１２）［２０１６．０１］",
+      "en": "by spray-coating, fluidised-bed coating or coating by casting(combined with breading <b>A23P20/12</b>)",
+      "count": 1308,
+      "sourceFile": "ipc_A23P.txt",
+      "kind": "ipc"
+    },
+    "A23P20/20": {
+      "code": "A23P20/20",
+      "level": 1,
+      "parent": "A23P20/00",
+      "ja": "積層した，多層の，中身が詰まったまたは中空の食品材料の製造，例．予め形成された可食のシート状の生地の中または可食の食品容器の中に包むことによるもの［２０１６．０１］",
+      "en": "Making of laminated, multi-layered, stuffed or hollow foodstuffs, e.g. by wrapping in preformed edible dough sheets or in edible food containers",
+      "count": 2762,
+      "sourceFile": "ipc_A23P.txt",
+      "kind": "ipc"
+    },
+    "A23P20/25": {
+      "code": "A23P20/25",
+      "level": 2,
+      "parent": "A23P20/20",
+      "ja": "くりぬかれた食品片に具を挟むまたは詰め込むもの，例．くりぬきまたは空洞形成との組合せ［２０１６．０１］",
+      "en": "Filling or stuffing cored food pieces, e.g. combined with coring or making cavities",
+      "count": 3428,
+      "sourceFile": "ipc_A23P.txt",
+      "kind": "ipc"
+    },
+    "A23P30/00": {
+      "code": "A23P30/00",
+      "level": 0,
+      "parent": "A23P",
+      "ja": "プロセスまたは装置により特徴付けられる，食品材料の成形または加工（Ａ２３Ｐ１０／００，Ａ２３Ｐ２０／００が優先）［２０１６．０１］",
+      "en": "Shaping or working of foodstuffs characterised by the process or apparatus(<b>A23P10/00</b>, <b>A23P20/00</b> take precedence)",
+      "count": 20513,
+      "sourceFile": "ipc_A23P.txt",
+      "kind": "ipc"
+    },
+    "A23P30/10": {
+      "code": "A23P30/10",
+      "level": 1,
+      "parent": "A23P30/00",
+      "ja": "モールド成形［２０１６．０１］",
+      "en": "Moulding",
+      "count": 5558,
+      "sourceFile": "ipc_A23P.txt",
+      "kind": "ipc"
+    },
+    "A23P30/20": {
+      "code": "A23P30/20",
+      "level": 1,
+      "parent": "A23P30/00",
+      "ja": "押出し成形［２０１６．０１］",
+      "en": "Extruding",
+      "count": 4844,
+      "sourceFile": "ipc_A23P.txt",
+      "kind": "ipc"
+    },
+    "A23P30/25": {
+      "code": "A23P30/25",
+      "level": 2,
+      "parent": "A23P30/20",
+      "ja": "異なる食品材料の共押出し成形［２０１６．０１］",
+      "en": "Co-extrusion of different foodstuffs",
+      "count": 659,
+      "sourceFile": "ipc_A23P.txt",
+      "kind": "ipc"
+    },
+    "A23P30/30": {
+      "code": "A23P30/30",
+      "level": 1,
+      "parent": "A23P30/00",
+      "ja": "膨化または膨張［２０１６．０１］",
+      "en": "Puffing or expanding",
+      "count": 888,
+      "sourceFile": "ipc_A23P.txt",
+      "kind": "ipc"
+    },
+    "A23P30/32": {
+      "code": "A23P30/32",
+      "level": 2,
+      "parent": "A23P30/30",
+      "ja": "圧力解放によるもの，例．破裂膨化；真空処理によるもの［２０１６．０１］",
+      "en": "by pressure release, e.g. explosion puffing; by vacuum treatment",
+      "count": 685,
+      "sourceFile": "ipc_A23P.txt",
+      "kind": "ipc"
+    },
+    "A23P30/34": {
+      "code": "A23P30/34",
+      "level": 3,
+      "parent": "A23P30/32",
+      "ja": "押出して膨張させることによるもの［２０１６．０１］",
+      "en": "by extrusion-expansion",
+      "count": 1279,
+      "sourceFile": "ipc_A23P.txt",
+      "kind": "ipc"
+    },
+    "A23P30/36": {
+      "code": "A23P30/36",
+      "level": 3,
+      "parent": "A23P30/32",
+      "ja": "断続的に作動する装置によるもの［２０１６．０１］",
+      "en": "in discontinuously working apparatus",
+      "count": 43,
+      "sourceFile": "ipc_A23P.txt",
+      "kind": "ipc"
+    },
+    "A23P30/38": {
+      "code": "A23P30/38",
+      "level": 2,
+      "parent": "A23P30/30",
+      "ja": "加熱によるもの（圧力解放または真空処理を伴うものはＡ２３Ｐ３０／３２）［２０１６．０１］",
+      "en": "by heating(combined with pressure release or vacuum treatment <b>A23P30/32</b>)",
+      "count": 694,
+      "sourceFile": "ipc_A23P.txt",
+      "kind": "ipc"
+    },
+    "A23P30/40": {
+      "code": "A23P30/40",
+      "level": 1,
+      "parent": "A23P30/00",
+      "ja": "発泡または泡立て［２０１６．０１］",
+      "en": "Foaming or whipping",
+      "count": 2532,
+      "sourceFile": "ipc_A23P.txt",
+      "kind": "ipc"
+    }
+  }
+};

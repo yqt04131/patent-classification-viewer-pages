@@ -1,0 +1,1986 @@
+{
+  "generatedAt": "2026-03-20T02:17:46.227Z",
+  "total": 198,
+  "entries": {
+    "B60T": {
+      "code": "B60T",
+      "level": 0,
+      "parent": "B60",
+      "ja": "車両用制動制御方式またはそれらの部品；制動制御方式またはそれらの部品一般（電気的制動方式の制御一般Ｂ６０Ｌ７／００；乗物の制動その他の駆動ユニットの関連制御Ｂ６０Ｗ）；車両への制動要素の構成一般；車両が不意に動くのを阻止するためのもち運びできる装置；制動装置の冷却を助長するための車両の改造［２００６．０１］<br><br><b><ul>注</ul></b><br>このサブクラスにおいては下記の表現は以下に示す意味で用いる：<br>―“制動制御方式”は，乗物用のまたは一般性のある制動制御方式を含む。<br><br><b><ul>サブクラス内の索引</ul></b><br>移動阻止装置<br>もち運べるもの　３／００<br>制動<br>制動要素および制動要素に関連する部品の種類　１／００<br>制動装置を冷却するための車両の改造　５／００<br>制動制御方式の種類<br>初動装置；路面状況や負荷状況によって制動力またはその配分を変えるもの　７／００；８／００<br>連続制動　１０／００<br>初動装置と制動装置との間の動作伝達　１１／００，１３／００<br>流体圧制動制御のための部品または付属品<br>弁の構造，配置，および作動　１５／００<br>その他の部品または付属品　１７／００",
+      "en": "VEHICLE BRAKE CONTROL SYSTEMS OR PARTS THEREOF; BRAKE CONTROL SYSTEMS OR PARTS THEREOF, IN GENERAL(control of electrodynamic brake systems <b>B60L7/00</b>; conjoint control of brakes and other drive units of vehicles <b>B60W</b>);ARRANGEMENT OF BRAKING ELEMENTS ON VEHICLES IN GENERAL; PORTABLE DEVICES FOR PREVENTING UNWANTED MOVEMENT OF VEHICLES; VEHICLE MODIFICATIONS TO FACILITATE COOLING OF BRAKES; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this subclass, the following expression is used with the meaning indicated:<ul><li>\"brake control systems\" includes brake control systems for vehicles or of general applicability.</li></ul></li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">IMMOBILISATION<tr><td width=\"70%\">Portable devices </td><td><b><b>3/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">BRAKING<tr><td width=\"70%\">Kind of braking and corresponding arrangements </td><td><b><b>1/00</b></b></td></tr></tr><tr><td width=\"70%\">Vehicle modifications for cooling brakes </td><td><b><b>5/00</b></b></td></tr></tr><tr><td width=\"70%\">Kinds of brake control<tr><td width=\"70%\">initiating means; varying braking force or its distribution according to road or load conditions </td><td><b><b>7/00</b>; <b>8/00</b></b></td></tr></tr><tr><td width=\"70%\">continuous braking </td><td><b><b>10/00</b></b></td></tr></tr><tr><td width=\"70%\">transmission of control between initiating means and brakes </td><td><b><b>11/00</b>, <b>13/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">Parts or accessories for fluid-pressure brake control:<tr><td width=\"70%\">valve structure, disposition, and operation </td><td><b><b>15/00</b></b></td></tr></tr><tr><td width=\"70%\">other parts or accessories </td><td><b><b>17/00</b></b></td></tr></tr></tr></tr></table>",
+      "count": 2143,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B60": {
+      "code": "B60",
+      "level": 0,
+      "parent": "B",
+      "ja": "車両一般<br><br><b><ul>注</ul></b><br>このクラスにおいては，下記の用語は以下に示す意味で用いる：<br>―“車両”は次の形の車両にのみ限定されるものを除いてすべての車両を意味する：鉄道車両，水上輸送船，航空機，宇宙乗物，手動運搬車，自転車，動物牽引車両およびそり；これらは，これに関連するサブクラスＢ６１からＢ６４に包含される。<br>用語“車両”は以下のものを包含する：<br>―上掲の二以上の形に共通な車両的特徴のあるもの；<br>―自動車もしくは道路またはクロスカントリー用のトレーラに限定される特徴あるもの。<br>―次の例外に注意されたい：<br>（ａ）サブクラスＢ６０ＢとＢ６０Ｃは，ローラースケート用車輪Ａ６３Ｃ１７／２２，鉄道模型用車輪Ａ６３Ｈ１９／２２および航空機用に特別に用いられる車輪またはタイヤＢ６４Ｃ２５／３６を除いて，すべての車両の車輪およびタイヤを含む；<br>（ｂ）サブクラスＢ６０Ｃは膨張可能な弾性体一般へのバルブの取付けを含み，この点は車両に限定されない；<br>（ｃ）サブクラスＢ６０Ｌはすべての電動車両の電気装置を含む；<br>（ｄ）サブクラスＢ６０Ｍは，外部の，すべての種類の電動車両の動力供給装置を含む；<br>（ｅ）サブクラスＢ６０Ｒは陸用車両の全型式に用いられる安全ベルトまたは身体用ハーネスを含む；［４］<br>（ｆ）サブクラスＢ６０Ｓは，グループＢ６１Ｋ１１／００に分類される鉄道機関車の施設，サブクラスＢ６４Ｆに分類される航空機の地上設備またはグループＢ６３Ｂ５７／００，Ｂ６３Ｂ５９／００に分類される水上浮揚構造物に特有な洗浄装置を除いて，すべての種類の車両に関する；<br>（ｇ）サブクラスＢ６０Ｔは一般に適用できる制動制御装置を含み，かつこの意味においてこれは車両に限定されない。また鉄道車両の動力制動装置および鉄道車両の制動装置の他の構造をも含む。；<br>（ｈ）サブクラスＢ６０Ｖは空気クッション車両自体，および空気クッション車両としても運用可能な特徴を有するまたは部分的に空気クッションによって支持される地上用車両，水上用車両または航空機を含む。［２００９．０１］",
+      "en": "VEHICLES IN GENERAL; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this class, the following term is used with the meaning indicated: <ul><li>\"vehicle\" means all vehicles except those restricted to one of the following types of vehicles: rail vehicles, waterborne vessels, aircraft, space vehicles, hand carts, cycles, animal-drawn vehicles, and sledges, which are covered by the relevant subclasses of <b>B61 to B64</b> . <ul><li>Thus the term \"vehicle\" includes: <ul><li>vehicular characteristics which are common to more than one of the above-listed types;</li><li>certain characteristics restricted to automobiles, road or cross-country trailers.</li><li>The following exceptions to the above should be noted: <ul><li>subclass <b>B60B</b> or <b>B60C</b> embrace all vehicle wheels and tyres, except wheels for roller skates <b>A63C17/22</b>, wheels for model railway vehicles <b>A63H19/22</b>, and special adaptations of wheels or tyres for aircraft <b>B64C25/36</b>;</li><li>subclass <b>B60C</b> embraces the connection of valves to inflatable elastic bodies in general, and in this respect it is not limited to vehicles;</li><li>subclass <b>B60L</b> embraces certain electric equipment of all electrically-propelled vehicles;</li><li>subclass <b>B60M</b> embraces certain power supply equipment for, but external to, any kind of electrically-propelled vehicle;</li><li>subclass <b>B60R</b> embraces safety belts or body harnesses used in all types of land vehicles;</li><li>subclass <b>B60S</b> relates to all kinds of vehicles, except the servicing of rail locomotives <b>B61K11/00</b>, ground equipment for aircraft <b>B64F</b>, or cleaning apparatus peculiar to waterborne vessels <b>B63B57/00</b>, <b>B63B59/00</b>;</li><li>subclass <b>B60T</b> includes brake control systems of general applicability, and in this respect it is not limited to vehicles. It also includes rail-vehicle power-brake systems and some other features of rail-vehicle brake systems;</li><li>subclass <b>B60V</b> embraces air-cushion vehicles <u>per se</u> and land vehicles, waterborne vessels or aircraft combined with features allowing them to alternatively operate as air-cushion vehicles or to be partially supported by an air cushion.</li></ul></li></ul></li></ul></li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B": {
+      "code": "B",
+      "level": 0,
+      "parent": null,
+      "ja": "処理操作；運輸",
+      "en": "PERFORMING OPERATIONS; TRANSPORTING",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B60T1/00": {
+      "code": "B60T1/00",
+      "level": 0,
+      "parent": "B60T",
+      "ja": "制動要素，すなわち制動効果を起す部品の構成",
+      "en": "Arrangements of braking elements, i.e. of those parts where braking effect occurs",
+      "count": 1941,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T1/02": {
+      "code": "B60T1/02",
+      "level": 1,
+      "parent": "B60T1/00",
+      "ja": "車輪を減速させることにより動作するもの",
+      "en": "acting by retarding wheels",
+      "count": 646,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T1/04": {
+      "code": "B60T1/04",
+      "level": 2,
+      "parent": "B60T1/02",
+      "ja": "踏面部分に直接動作するもの",
+      "en": "acting directly on tread",
+      "count": 1092,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T1/06": {
+      "code": "B60T1/06",
+      "level": 2,
+      "parent": "B60T1/02",
+      "ja": "踏面とは異なるところに動作するもの，例．リム，ドラム，ディスクあるいはトランスミッション",
+      "en": "acting otherwise than on tread, e.g. employing rim, drum, disc, or transmission",
+      "count": 12992,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T1/08": {
+      "code": "B60T1/08",
+      "level": 2,
+      "parent": "B60T1/02",
+      "ja": "流体または粉体の媒体を用いるもの",
+      "en": "using fluid or powdered medium",
+      "count": 597,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T1/087": {
+      "code": "B60T1/087",
+      "level": 3,
+      "parent": "B60T1/08",
+      "ja": "流体動力学的，すなわち非容積型，減速機におけるもの［３］",
+      "en": "in hydrodynamic, i.e. non-positive displacement, retarders",
+      "count": 809,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T1/093": {
+      "code": "B60T1/093",
+      "level": 3,
+      "parent": "B60T1/08",
+      "ja": "流体静力学的，すなわち容積型，減速機におけるもの［３］",
+      "en": "in hydrostatic, i.e. positive displacement, retarders",
+      "count": 158,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T1/10": {
+      "code": "B60T1/10",
+      "level": 2,
+      "parent": "B60T1/02",
+      "ja": "エネルギーを蓄積するため車輪の動きを用いることによるもの，例．空気圧縮機を駆動するもの［２００６．０１］",
+      "en": "by utilising wheel movement for accumulating energy, e.g. driving air compressors",
+      "count": 2326,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T1/12": {
+      "code": "B60T1/12",
+      "level": 1,
+      "parent": "B60T1/00",
+      "ja": "車輪減速機構によらないで動作するもの，例．ジェット作用",
+      "en": "acting otherwise than by retarding wheels, e.g. jet- action",
+      "count": 456,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T1/14": {
+      "code": "B60T1/14",
+      "level": 2,
+      "parent": "B60T1/12",
+      "ja": "路面上に直接行なうもの（もち運べるもの，例．止め木Ｂ６０Ｔ３／００）",
+      "en": "directly on road(portable devices, e.g. chocks, <b>B60T3/00</b>)",
+      "count": 3210,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T1/16": {
+      "code": "B60T1/16",
+      "level": 2,
+      "parent": "B60T1/12",
+      "ja": "空気抵抗を増大して行なうもの，例．下げ翼",
+      "en": "by increasing air resistance, e.g. flaps",
+      "count": 513,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T3/00": {
+      "code": "B60T3/00",
+      "level": 0,
+      "parent": "B60T",
+      "ja": "車両が不意に動くのを阻止するためのもち運びできる装置，例．止め木［２００６．０１］",
+      "en": "Portable devices for preventing unwanted movement of vehicles, e.g. chocks",
+      "count": 2638,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T5/00": {
+      "code": "B60T5/00",
+      "level": 0,
+      "parent": "B60T",
+      "ja": "制動装置の冷却を助長するための車両の改造",
+      "en": "Vehicle modifications to facilitate cooling of brakes",
+      "count": 3476,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T7/00": {
+      "code": "B60T7/00",
+      "level": 0,
+      "parent": "B60T",
+      "ja": "制動をきかせる初動装置",
+      "en": "Brake-action initiating means",
+      "count": 1512,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T7/02": {
+      "code": "B60T7/02",
+      "level": 1,
+      "parent": "B60T7/00",
+      "ja": "人力で初動を行うためのもの",
+      "en": "for personal initiation",
+      "count": 2481,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T7/04": {
+      "code": "B60T7/04",
+      "level": 2,
+      "parent": "B60T7/02",
+      "ja": "足で行なうもの",
+      "en": "foot-actuated",
+      "count": 8331,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T7/06": {
+      "code": "B60T7/06",
+      "level": 3,
+      "parent": "B60T7/04",
+      "ja": "ペダルの配置",
+      "en": "Disposition of pedal",
+      "count": 10520,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T7/08": {
+      "code": "B60T7/08",
+      "level": 2,
+      "parent": "B60T7/02",
+      "ja": "手で行なうもの",
+      "en": "hand-actuated",
+      "count": 3601,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T7/10": {
+      "code": "B60T7/10",
+      "level": 3,
+      "parent": "B60T7/08",
+      "ja": "手動操作部品の配置",
+      "en": "Disposition of hand control",
+      "count": 6534,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T7/12": {
+      "code": "B60T7/12",
+      "level": 1,
+      "parent": "B60T7/00",
+      "ja": "自動初動のためのもの；運転者や乗客の意志によらない初動のためのもの",
+      "en": "for automatic initiation; for initiation not subject to will of driver or passenger",
+      "count": 20845,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T7/14": {
+      "code": "B60T7/14",
+      "level": 2,
+      "parent": "B60T7/12",
+      "ja": "運転者が倒れたときに作動するもの",
+      "en": "operated upon collapse of driver",
+      "count": 531,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T7/16": {
+      "code": "B60T7/16",
+      "level": 2,
+      "parent": "B60T7/12",
+      "ja": "遠隔制御によって作動するもの，すなわち初動装置が乗物にとりつけられていないもの",
+      "en": "operated by remote control, i.e. initiating means not mounted on vehicle",
+      "count": 787,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T7/18": {
+      "code": "B60T7/18",
+      "level": 3,
+      "parent": "B60T7/16",
+      "ja": "路傍装置によって作動するもの",
+      "en": "operated by wayside apparatus",
+      "count": 603,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T7/20": {
+      "code": "B60T7/20",
+      "level": 2,
+      "parent": "B60T7/12",
+      "ja": "トレーラ用の特別なもの，例．トレーラの連結解除の場合（慣性作動されるオーバーランブレーキＢ６０Ｔ１３／０８）",
+      "en": "specially adapted for trailers, e.g. in case of uncoupling of trailer(inertia-actuated overrun brakes <b>B60T13/08</b>)",
+      "count": 2811,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T7/22": {
+      "code": "B60T7/22",
+      "level": 2,
+      "parent": "B60T7/12",
+      "ja": "車両，例．バンパー，と外部物体，例．別の車両，との接触により始動されるもの［４］",
+      "en": "initiated by contact of vehicle, e.g. bumper, with an external object, e.g. another vehicle",
+      "count": 3813,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T8/00": {
+      "code": "B60T8/00",
+      "level": 0,
+      "parent": "B60T",
+      "ja": "車両の状態または路面状況の変化に適合するための車輪制動力の調整装置，例．制動力の配分を制限または変更するための装置（動力制動方式において有効な制動シリンダの数を変えることによるものＢ６０Ｔ１７／１０）",
+      "en": "Arrangements for adjusting wheel-braking force to meet varying vehicular or ground-surface conditions, e.g. limiting or varying distribution of braking force(by changing number of effective brake cylinders in power brake systems <b>B60T17/10</b>)",
+      "count": 8191,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T8/17": {
+      "code": "B60T8/17",
+      "level": 1,
+      "parent": "B60T8/00",
+      "ja": "ブレーキを制御するために電気調整手段または電子調整手段を用いるもの［８］<br><br><b><ul>注</ul></b><br>グループ８／１７に分類する際に，電子制御以外の他の観点が重要である場合は，グループ８／１８，８／２４，８／２６または８／３２の適切な箇所にも分類する。［８］",
+      "en": "Using electrical or electronic regulation means to control braking; <br><br><b><u>Note(s)</u></b><br><br><ul><li>When classifying in group <b>B60T8/17</b>, classification is also made in appropriate places in groups <b>B60T8/18</b>, <b>B60T8/24</b>, <b>B60T8/26</b> or <b>B60T8/32</b> if other aspects than electronic control are of interest.</li></ul>",
+      "count": 11587,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T8/171": {
+      "code": "B60T8/171",
+      "level": 2,
+      "parent": "B60T8/17",
+      "ja": "この調整で使用されるパラメータを検知するもの；この調整で使用される値を測定するもの［８］",
+      "en": "Detecting parameters used in the regulation; Measuring values used in the regulation",
+      "count": 4603,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T8/172": {
+      "code": "B60T8/172",
+      "level": 2,
+      "parent": "B60T8/17",
+      "ja": "この調整で使用される制御パラメータを決定するもの，例．測定または検知されたパラメータに関する計算によるもの［８］",
+      "en": "Determining control parameters used in the regulation, e.g. by calculations involving measured or detected parameters",
+      "count": 8565,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T8/173": {
+      "code": "B60T8/173",
+      "level": 2,
+      "parent": "B60T8/17",
+      "ja": "望ましくない信号による影響，例．振動または電子ノイズによるもの，を除去または減少させるもの［８］",
+      "en": "Eliminating or reducing the effect of unwanted signals, e.g. due to vibrations or electrical noise",
+      "count": 665,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T8/174": {
+      "code": "B60T8/174",
+      "level": 2,
+      "parent": "B60T8/17",
+      "ja": "特殊な制御理論の使用に特徴を有するもの，例．ファジー理論［８］",
+      "en": "characterised by using special control logic, e.g. fuzzy logic",
+      "count": 1057,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T8/175": {
+      "code": "B60T8/175",
+      "level": 2,
+      "parent": "B60T8/17",
+      "ja": "車両の加速時の過度な車輪回転の防止に特に適したブレーキ調整，例．トラクション制御のためのもの［８］",
+      "en": "Brake regulation specially adapted to prevent excessive wheel spin during vehicle acceleration, e.g. for traction control",
+      "count": 2935,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T8/1755": {
+      "code": "B60T8/1755",
+      "level": 2,
+      "parent": "B60T8/17",
+      "ja": "車両の安定の制御に特に適したブレーキ調整，例．カーブでのヨーレートまたは横加速度を考慮したもの（特定のサブユニットの制御以外の方法による車両の安定の制御のための，路面車両の制御方式Ｂ６０Ｗ３０／０２）［８］",
+      "en": "Brake regulation specially adapted to control the stability of the vehicle, e.g. taking into account yaw rate or transverse acceleration in a curve(road vehicle drive control systems for control of driving stability otherwise than by controlling a particular sub-unit <b>B60W30/02</b>)",
+      "count": 6669,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T8/176": {
+      "code": "B60T8/176",
+      "level": 2,
+      "parent": "B60T8/17",
+      "ja": "車両の減速時の，過度の車輪のスリップの防止に特に適したブレーキ調整，例．ＡＢＳ（Ｂ６０Ｔ８／１７５５が優先）［８］",
+      "en": "Brake regulation specially adapted to prevent excessive wheel slip during vehicle deceleration, e.g. ABS(<b>B60T8/1755</b> takes precedence)",
+      "count": 2320,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T8/1761": {
+      "code": "B60T8/1761",
+      "level": 3,
+      "parent": "B60T8/176",
+      "ja": "車輪またはブレーキ力学に応じるもの，例．車輪のスリップ，車輪の加速，またはブレーキ液圧の変化率［８］",
+      "en": "responsive to wheel or brake dynamics, e.g. wheel slip, wheel acceleration or rate of change of brake fluid pressure",
+      "count": 5347,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T8/1763": {
+      "code": "B60T8/1763",
+      "level": 3,
+      "parent": "B60T8/176",
+      "ja": "車輪と地面との摩擦係数に応じるもの（Ｂ６０Ｔ８／１７６４が優先）［８］",
+      "en": "responsive to the coefficient of friction between the wheels and the ground surface(<b>B60T8/1764</b> takes precedence)",
+      "count": 2265,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T8/1764": {
+      "code": "B60T8/1764",
+      "level": 3,
+      "parent": "B60T8/176",
+      "ja": "摩擦係数が異なる路面，例．右側と左側との間のもの，μスプリット，を走行する際の調整［８］",
+      "en": "Regulation during travel on surface with different coefficients of friction, e.g. between left and right sides, mu-split",
+      "count": 1284,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T8/1766": {
+      "code": "B60T8/1766",
+      "level": 3,
+      "parent": "B60T8/176",
+      "ja": "車両の軸重に応じたブレーキ力の配分，例．車両の前方から後方への配分［８］",
+      "en": "Proportioning of brake forces according to vehicle axle loads, e.g. front to rear of vehicle",
+      "count": 1197,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T8/1769": {
+      "code": "B60T8/1769",
+      "level": 3,
+      "parent": "B60T8/176",
+      "ja": "１より多い駆動軸を有する車両に特に適したもの，例．四輪駆動車［８］",
+      "en": "specially adapted for vehicles having more than one driven axle, e.g. four-wheel drive vehicles",
+      "count": 490,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T8/18": {
+      "code": "B60T8/18",
+      "level": 1,
+      "parent": "B60T8/00",
+      "ja": "車両の重量または積荷，例．積荷分布，に応ずるもの（Ｂ６０Ｔ８／３０が優先；重量および速度条件によるものＢ６０Ｔ８／５８）［４］",
+      "en": "responsive to vehicle weight or load, e.g. load distribution(<b>B60T8/30</b> takes precedence; responsive to weight and speed condition <b>B60T8/58</b>)",
+      "count": 3724,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T8/20": {
+      "code": "B60T8/20",
+      "level": 2,
+      "parent": "B60T8/18",
+      "ja": "段階的制御動作をもつもの",
+      "en": "with stepwise control action",
+      "count": 149,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T8/22": {
+      "code": "B60T8/22",
+      "level": 2,
+      "parent": "B60T8/18",
+      "ja": "連続的制御動作をもつもの",
+      "en": "with continuous control action",
+      "count": 195,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T8/24": {
+      "code": "B60T8/24",
+      "level": 1,
+      "parent": "B60T8/00",
+      "ja": "車両の傾斜または方向の変化，例．カーブの通過，に応ずるもの",
+      "en": "responsive to vehicle inclination or change of direction, e.g. negotiating bends",
+      "count": 2899,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T8/26": {
+      "code": "B60T8/26",
+      "level": 1,
+      "parent": "B60T8/00",
+      "ja": "前輪と後輪の間に異なる制動力を発生することを特徴とするもの",
+      "en": "characterised by producing differential braking between front and rear wheels",
+      "count": 5338,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T8/28": {
+      "code": "B60T8/28",
+      "level": 2,
+      "parent": "B60T8/26",
+      "ja": "減速度に応ずるもの［４］",
+      "en": "responsive to deceleration",
+      "count": 1103,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T8/30": {
+      "code": "B60T8/30",
+      "level": 2,
+      "parent": "B60T8/26",
+      "ja": "積荷に応ずるもの［４］",
+      "en": "responsive to load",
+      "count": 1311,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T8/32": {
+      "code": "B60T8/32",
+      "level": 1,
+      "parent": "B60T8/00",
+      "ja": "速度条件，例．加速度または減速度，に応ずるもの（Ｂ６０Ｔ８／２８が優先）［４］",
+      "en": "responsive to a speed condition, e.g. acceleration or deceleration(<b>B60T8/28</b> takes precedence)",
+      "count": 7927,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T8/34": {
+      "code": "B60T8/34",
+      "level": 2,
+      "parent": "B60T8/32",
+      "ja": "速度条件に応ずる流体圧力調整器を有するもの［４］",
+      "en": "having a fluid pressure regulator responsive to a speed condition",
+      "count": 4112,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T8/36": {
+      "code": "B60T8/36",
+      "level": 3,
+      "parent": "B60T8/34",
+      "ja": "電磁力に応ずるパイロットバルブを含むもの［４］",
+      "en": "including a pilot valve responding to an electromagnetic force",
+      "count": 4962,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T8/38": {
+      "code": "B60T8/38",
+      "level": 3,
+      "parent": "B60T8/34",
+      "ja": "リレーまたは運転者制御型のバルブ装置を含むもの［４］",
+      "en": "including valve means of the relay or driver controlled type",
+      "count": 342,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T8/40": {
+      "code": "B60T8/40",
+      "level": 3,
+      "parent": "B60T8/34",
+      "ja": "ブレーキ流体の圧力を修正するための流体加圧装置，例．速度条件を検知するため車輪に駆動されるポンプ，またはブレーキ装置と独立した装置により制御されるポンプ，を含むもの，を含む追加流体回路を有するもの［４］",
+      "en": "comprising an additional fluid circuit including fluid pressurising means for modifying the pressure of the braking fluid, e.g. including wheel driven pumps for detecting a speed condition, or pumps which are controlled by means independent of the braking system",
+      "count": 6436,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T8/42": {
+      "code": "B60T8/42",
+      "level": 3,
+      "parent": "B60T8/34",
+      "ja": "圧力制御用膨張室を有するもの［４］",
+      "en": "having expanding chambers for controlling pressure",
+      "count": 2374,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T8/44": {
+      "code": "B60T8/44",
+      "level": 3,
+      "parent": "B60T8/34",
+      "ja": "動力アシスト装置との共動によりブレーキ圧の解除および再加圧を制御するため，マスターシリンダに関連する動力アシストブースタと共動するもの［４］",
+      "en": "co-operating with a power-assist booster means associated with a master cylinder for controlling the release and reapplication of brake pressure through an interaction with the power assist device",
+      "count": 1954,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T8/46": {
+      "code": "B60T8/46",
+      "level": 3,
+      "parent": "B60T8/34",
+      "ja": "圧力が流体排出により減じられるもの［４］",
+      "en": "the pressure being reduced by exhausting fluid",
+      "count": 678,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T8/48": {
+      "code": "B60T8/48",
+      "level": 3,
+      "parent": "B60T8/34",
+      "ja": "ブレーキ作動装置を別のまたは追加の流体圧供給源に接続するもの［４］",
+      "en": "connecting the brake actuator to an alternative or additional source of fluid pressure",
+      "count": 4966,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T8/50": {
+      "code": "B60T8/50",
+      "level": 3,
+      "parent": "B60T8/34",
+      "ja": "ブレーキ再加圧の速さを制御する装置を有するもの［４］",
+      "en": "having means for controlling the rate at which pressure is reapplied to the brake",
+      "count": 1113,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T8/52": {
+      "code": "B60T8/52",
+      "level": 2,
+      "parent": "B60T8/32",
+      "ja": "トルク検知，すなわち．制動作用が制動された回転部材にねじりまた回転運動を起こしまたは起こさせようとする力により制御されるもの［４］",
+      "en": "Torque sensing, i.e. wherein the braking action is controlled by forces producing or tending to produce a twisting or rotating motion on a braked rotating member",
+      "count": 512,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T8/54": {
+      "code": "B60T8/54",
+      "level": 2,
+      "parent": "B60T8/32",
+      "ja": "機械的装置によるもの［４］",
+      "en": "by mechanical means",
+      "count": 311,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T8/56": {
+      "code": "B60T8/56",
+      "level": 2,
+      "parent": "B60T8/32",
+      "ja": "摩擦係数を変化させる装置を有するもの［４］",
+      "en": "having means for changing the coefficient of friction",
+      "count": 138,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T8/58": {
+      "code": "B60T8/58",
+      "level": 2,
+      "parent": "B60T8/32",
+      "ja": "速度および別の条件または複数の速度条件に応ずるもの［４］<br><br><b><ul>注</ul></b><br>このグループにおいては，ある条件が別の単一条件に応答するか，それに置き換わり得る単一条件は，複数の条件とは見なさない。［４］",
+      "en": "responsive to speed and another condition or to plural speed conditions; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this group, a single condition which is itself responsive to, or representative of, another single condition is not regarded as plural conditions. </li></ul>",
+      "count": 5850,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T8/60": {
+      "code": "B60T8/60",
+      "level": 3,
+      "parent": "B60T8/58",
+      "ja": "ブレーキ作用を制御するため電気回路を使用し，この回路はブレーキのかけられる車両または車輪の動特性に関する制御機能をもつもの［４］",
+      "en": "using electrical circuitry for controlling the braking action, the circuitry deriving a control function relating to the dynamic of the braked vehicle or wheel",
+      "count": 787,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T8/62": {
+      "code": "B60T8/62",
+      "level": 4,
+      "parent": "B60T8/60",
+      "ja": "個々の車輪に以下のものが設けられたもの（ｉ）個々の車輪をその動力状態により作動させる内蔵型制動系統，または（ｉｉ）個々の車輪または車輪群から入力を受け，個々の車輪または車輪群を別々に作動する複数の制御信号を発する中央処理ユニット［４］",
+      "en": "wherein the individual vehicle wheels are provided (i) with self-contained braking systems operating the individual wheels in accordance with its dynamic state or (ii) with a central processing unit which receives input from individual wheels or wheel groups and produces a plurality of control signals for separately operating individual wheels or groups of wheels",
+      "count": 362,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T8/64": {
+      "code": "B60T8/64",
+      "level": 4,
+      "parent": "B60T8/60",
+      "ja": "制御されたブレーキ作用が，ブレーキ流体圧が減少または再加圧される方法により特徴づけられるもの［４］",
+      "en": "wherein the controlled braking action is characterised by the manner in which the braking fluid pressure is reduced or reapplied",
+      "count": 348,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T8/66": {
+      "code": "B60T8/66",
+      "level": 4,
+      "parent": "B60T8/60",
+      "ja": "ブレーキ作用が，計算されたまたは他の理論車両速度とその実際の車輪速度との差に応じるもの［４］",
+      "en": "wherein the braking action is responsive to the difference between a computed or other theoretical vehicle speed and an actual speed of a wheel thereof",
+      "count": 1718,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T8/68": {
+      "code": "B60T8/68",
+      "level": 5,
+      "parent": "B60T8/66",
+      "ja": "ブレーキ作用が，車両速度の変化割合と車輪速度の変化割合との差により制御されるもの［４］",
+      "en": "wherein the braking action is controlled by a difference between the rate of change of vehicle velocity and the rate of change of wheel velocity",
+      "count": 109,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T8/70": {
+      "code": "B60T8/70",
+      "level": 5,
+      "parent": "B60T8/66",
+      "ja": "車両または車輪の加速度または減速度の両方を検知するもの［４］",
+      "en": "sensing both acceleration and deceleration of either the vehicle or the wheel",
+      "count": 693,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T8/72": {
+      "code": "B60T8/72",
+      "level": 2,
+      "parent": "B60T8/32",
+      "ja": "速度条件，例．減速度，と定基準値との差に応ずるもの（Ｂ６０Ｔ８／６６が優先）［４］",
+      "en": "responsive to a difference between a speed condition, e.g. deceleration, and a fixed reference(<b>B60T8/66</b> takes precedence)",
+      "count": 1064,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T8/74": {
+      "code": "B60T8/74",
+      "level": 3,
+      "parent": "B60T8/72",
+      "ja": "速度の変化割合を検知するもの［４］",
+      "en": "sensing a rate of change of velocity",
+      "count": 674,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T8/76": {
+      "code": "B60T8/76",
+      "level": 3,
+      "parent": "B60T8/72",
+      "ja": "信号を異なる車輪から得るものであって，同じ種類の速度条件を表示する二つまたはそれ以上の検知装置を有するもの［４］",
+      "en": "two or more sensing means from different wheels indicative of the same type of speed condition",
+      "count": 42,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T8/78": {
+      "code": "B60T8/78",
+      "level": 3,
+      "parent": "B60T8/72",
+      "ja": "ブレーキ作用を制御するため電気回路を使用し，この回路はブレーキのかけられる車両または車輪の動特性に関する制御機能をもつもの［４］",
+      "en": "using electrical circuitry for controlling the braking action, the circuitry deriving a control function relating to the dynamics of the braked vehicle or wheel",
+      "count": 129,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T8/80": {
+      "code": "B60T8/80",
+      "level": 4,
+      "parent": "B60T8/78",
+      "ja": "速度の変化割合を検知する装置［４］",
+      "en": "Means sensing a rate of change of velocity",
+      "count": 17,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T8/82": {
+      "code": "B60T8/82",
+      "level": 4,
+      "parent": "B60T8/78",
+      "ja": "信号を異なる車輪から得るものであって，同一型式の速度条件を表示する二つまたはそれ以上の検知装置を有するもの［４］",
+      "en": "two or more sensing means from different wheels indicative of the same type of speed condition",
+      "count": 102,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T8/84": {
+      "code": "B60T8/84",
+      "level": 4,
+      "parent": "B60T8/78",
+      "ja": "２つの車輪または車輪群が，基準車輪の変更，例．“選択高，選択低”操作，をする装置により，基準車輪または車輪群の動作に従って制御されるもの［４］",
+      "en": "wherein two wheels or wheel groups are controlled in dependence on the behaviour of a reference wheel or wheel group, with means for changing the reference wheel, e.g. \"select high, select low\" operation",
+      "count": 227,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T8/86": {
+      "code": "B60T8/86",
+      "level": 2,
+      "parent": "B60T8/32",
+      "ja": "ブレーキが速度条件により自動的に加圧され，スキッド状態の発生により自動ブレーキ装置に優先する装置を有するもの［４］",
+      "en": "wherein the brakes are automatically applied in accordance with a speed condition and having means for overriding the automatic braking device when a skid condition occurs",
+      "count": 136,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T8/88": {
+      "code": "B60T8/88",
+      "level": 2,
+      "parent": "B60T8/32",
+      "ja": "作動不良応答装置，すなわち．速度応答制御装置の作動不良を検知しそれを表示する装置，を有するもの［４］",
+      "en": "with failure responsive means, i.e. means for detecting and indicating faulty operation of the speed responsive control means",
+      "count": 3171,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T8/90": {
+      "code": "B60T8/90",
+      "level": 3,
+      "parent": "B60T8/88",
+      "ja": "速度応答制御装置のテストのため，模擬速度信号を用いるもの［４］",
+      "en": "using a simulated speed signal to test speed responsive control means",
+      "count": 251,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T8/92": {
+      "code": "B60T8/92",
+      "level": 3,
+      "parent": "B60T8/88",
+      "ja": "自動的に修正作動を行なうもの［４］",
+      "en": "automatically taking corrective action",
+      "count": 579,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T8/94": {
+      "code": "B60T8/94",
+      "level": 4,
+      "parent": "B60T8/92",
+      "ja": "流体圧力調整器に対するもの［４］",
+      "en": "on a fluid pressure regulator",
+      "count": 877,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T8/96": {
+      "code": "B60T8/96",
+      "level": 4,
+      "parent": "B60T8/92",
+      "ja": "速度応答制御装置に対するもの［４］",
+      "en": "on speed responsive control means",
+      "count": 598,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T10/00": {
+      "code": "B60T10/00",
+      "level": 0,
+      "parent": "B60T",
+      "ja": "流体または粉体媒体を用いて連続制動するための制御または調整，例．長い斜面を下降する時に用いるもの［４］",
+      "en": "Control or regulation for continuous braking making use of fluid or powdered medium, e.g. for use when descending a long slope",
+      "count": 550,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T10/02": {
+      "code": "B60T10/02",
+      "level": 1,
+      "parent": "B60T10/00",
+      "ja": "流体動力学的制動［４］",
+      "en": "with hydrodynamic brake",
+      "count": 725,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T10/04": {
+      "code": "B60T10/04",
+      "level": 1,
+      "parent": "B60T10/00",
+      "ja": "流体静力学的制動［４］",
+      "en": "with hydrostatic brake",
+      "count": 196,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T11/00": {
+      "code": "B60T11/00",
+      "level": 0,
+      "parent": "B60T",
+      "ja": "補助動力または駆動力のないまたはそのような補助動力や駆動力と無関係なところでの初動装置から最終制動作動器への制動動作の伝達［５］",
+      "en": "Transmitting braking action from initiating means to ultimate brake actuator without power assistance or drive or where such assistance or drive is irrelevant",
+      "count": 411,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T11/04": {
+      "code": "B60T11/04",
+      "level": 1,
+      "parent": "B60T11/00",
+      "ja": "機械的に伝達するもの［５］",
+      "en": "transmitting mechanically",
+      "count": 4091,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T11/06": {
+      "code": "B60T11/06",
+      "level": 2,
+      "parent": "B60T11/04",
+      "ja": "制動力を均一にする装置［５］",
+      "en": "Equalising arrangements",
+      "count": 901,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T11/08": {
+      "code": "B60T11/08",
+      "level": 2,
+      "parent": "B60T11/04",
+      "ja": "可変レバーをもつもの［５］",
+      "en": "providing variable leverage",
+      "count": 349,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T11/10": {
+      "code": "B60T11/10",
+      "level": 1,
+      "parent": "B60T11/00",
+      "ja": "流体手段，例．液圧，によって伝達するもの［５］",
+      "en": "transmitting by fluid means, e.g. hydraulic",
+      "count": 4096,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T11/12": {
+      "code": "B60T11/12",
+      "level": 2,
+      "parent": "B60T11/10",
+      "ja": "そのうちで伝達力が変化するもの（Ｂ６０Ｔ１１／１６～Ｂ６０Ｔ１１／２８が優先）［５］",
+      "en": "the transmitted force being varied therein(<b>B60T11/16 to B60T11/28</b>  take precedence)",
+      "count": 141,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T11/14": {
+      "code": "B60T11/14",
+      "level": 2,
+      "parent": "B60T11/10",
+      "ja": "実質的に伝達力が変化しないもの［５］",
+      "en": "the transmitted force being substantially unchanged",
+      "count": 36,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T11/16": {
+      "code": "B60T11/16",
+      "level": 2,
+      "parent": "B60T11/10",
+      "ja": "マスタコントロール，例．マスタシリンダ［５］",
+      "en": "Master control, e.g. master cylinders",
+      "count": 4659,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T11/18": {
+      "code": "B60T11/18",
+      "level": 3,
+      "parent": "B60T11/16",
+      "ja": "初動装置との関連［５］",
+      "en": "Connection thereof to initiating means",
+      "count": 1378,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T11/20": {
+      "code": "B60T11/20",
+      "level": 3,
+      "parent": "B60T11/16",
+      "ja": "タンデム式，並列式，または他の複式マスタシリンダユニット［５］",
+      "en": "Tandem, side-by-side, or other multiple master-cylinder units",
+      "count": 2387,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T11/21": {
+      "code": "B60T11/21",
+      "level": 4,
+      "parent": "B60T11/20",
+      "ja": "それぞれの回路で作動する２つのペダルを有し，両方のペダルが同時に作動するときそのなかの圧力が等しくなるもの，例．操向用［５］",
+      "en": "with two pedals operating on respective circuits, pressures therein being equalised when both pedals are operated together, e.g. for steering",
+      "count": 193,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T11/22": {
+      "code": "B60T11/22",
+      "level": 3,
+      "parent": "B60T11/16",
+      "ja": "貯蔵器リザーバとの組み付けに関して特徴づけられるもの［５］",
+      "en": "characterised by being integral with reservoir",
+      "count": 1739,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T11/224": {
+      "code": "B60T11/224",
+      "level": 3,
+      "parent": "B60T11/16",
+      "ja": "圧力変化手段を有するもの，例．両端の直径が異なるピストンにより初期に低圧多量の油を供給するもの，直径が連続的に変化するピストンを含む［５］",
+      "en": "with pressure-varying means, e.g. with two stage operation provided by use of different piston diameters including continuous variation from one diameter to another",
+      "count": 1074,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T11/228": {
+      "code": "B60T11/228",
+      "level": 3,
+      "parent": "B60T11/16",
+      "ja": "圧力維持装置，例．貯蔵器リザーバからの流体をマスターシリンダ室に補充するためのもの（Ｂ６０Ｔ１１／２３２が優先）［５］",
+      "en": "Pressure-maintaining arrangements, e.g. for replenishing the master cylinder chamber with fluid from a reservoir(<b>B60T11/232</b> takes precedence)",
+      "count": 264,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T11/232": {
+      "code": "B60T11/232",
+      "level": 3,
+      "parent": "B60T11/16",
+      "ja": "貯蔵器リザーバとマスタシリンダとの間を制動操作解除時に連通して，流体を貯蔵器リザーバに戻す弁［５］",
+      "en": "Recuperation valves",
+      "count": 326,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T11/236": {
+      "code": "B60T11/236",
+      "level": 3,
+      "parent": "B60T11/16",
+      "ja": "ピストン密封装置とその配置［５］",
+      "en": "Piston sealing arrangements",
+      "count": 689,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T11/24": {
+      "code": "B60T11/24",
+      "level": 2,
+      "parent": "B60T11/10",
+      "ja": "２以上の回路，例．２回路，に作動する制動をきかせる単一の初動装置（複式マスタシリンダユニットＢ６０Ｔ１１／２０）［５］",
+      "en": "Single initiating means operating on more than one circuit, e.g. dual circuits(multiple master-cylinder units <b>B60T11/20</b>)",
+      "count": 612,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T11/26": {
+      "code": "B60T11/26",
+      "level": 2,
+      "parent": "B60T11/10",
+      "ja": "貯蔵器リザーバ（マスタシリンダへの組み付け１１／２２）［５］",
+      "en": "Reservoirs(integral with master controls <b>B60T11/22</b>)",
+      "count": 2128,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T11/28": {
+      "code": "B60T11/28",
+      "level": 2,
+      "parent": "B60T11/10",
+      "ja": "特に流体，例．液体，により伝達するものに用いる弁（マスタシリンダから貯蔵器リザーバへ流体を戻す弁Ｂ６０Ｔ１１／２３２）［５］",
+      "en": "Valves specially adapted therefor(recuperation valves <b>B60T11/232</b>)",
+      "count": 1282,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T11/30": {
+      "code": "B60T11/30",
+      "level": 3,
+      "parent": "B60T11/28",
+      "ja": "液圧制動系のための逃し弁［５］",
+      "en": "Bleed valves for hydraulic brake systems",
+      "count": 290,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T11/32": {
+      "code": "B60T11/32",
+      "level": 3,
+      "parent": "B60T11/28",
+      "ja": "破損した管に対して自動的に流れを閉止する弁［５］",
+      "en": "Automatic cut-off valves for defective pipes",
+      "count": 866,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T11/34": {
+      "code": "B60T11/34",
+      "level": 3,
+      "parent": "B60T11/28",
+      "ja": "圧力を減少または制限するための弁［５］",
+      "en": "Pressure-reducing or limiting valves",
+      "count": 963,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T13/00": {
+      "code": "B60T13/00",
+      "level": 0,
+      "parent": "B60T",
+      "ja": "補助動力または駆動動力を用いて初動装置から最終制動作動器への制動動作の伝達；そのような伝達装置が組み込まれた制動方式，例．空気圧制動方式",
+      "en": "Transmitting braking action from initiating means to ultimate brake actuator with power assistance or drive; Brake systems incorporating such transmitting means, e.g. air-pressure brake systems",
+      "count": 1025,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T13/02": {
+      "code": "B60T13/02",
+      "level": 1,
+      "parent": "B60T13/00",
+      "ja": "機械的補助または駆動装置を有するもの",
+      "en": "with mechanical assistance or drive",
+      "count": 445,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T13/04": {
+      "code": "B60T13/04",
+      "level": 2,
+      "parent": "B60T13/02",
+      "ja": "ばねまたは重りによるもの（流体の放出Ｂ６０Ｔ１３／１０）",
+      "en": "by spring or weight(fluid-released <b>B60T13/10</b>)",
+      "count": 425,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T13/06": {
+      "code": "B60T13/06",
+      "level": 2,
+      "parent": "B60T13/02",
+      "ja": "慣性によるもの，例．フライホイール",
+      "en": "by inertia, e.g. flywheel",
+      "count": 265,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T13/08": {
+      "code": "B60T13/08",
+      "level": 3,
+      "parent": "B60T13/06",
+      "ja": "オーバーラン制動装置",
+      "en": "Overrun brakes",
+      "count": 434,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T13/10": {
+      "code": "B60T13/10",
+      "level": 1,
+      "parent": "B60T13/00",
+      "ja": "流体の補助，駆動または放出によるもの",
+      "en": "with fluid assistance, drive, or release",
+      "count": 736,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T13/12": {
+      "code": "B60T13/12",
+      "level": 2,
+      "parent": "B60T13/10",
+      "ja": "流体が液体であるもの",
+      "en": "the fluid being liquid",
+      "count": 4576,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T13/122": {
+      "code": "B60T13/122",
+      "level": 3,
+      "parent": "B60T13/12",
+      "ja": "マスターシリンダと分配器弁の両方を用いる方式；マスターシリンダと分配器弁の構造的結合［６］",
+      "en": "Systems using both master cylinder and distributor valve; Structural associations of master cylinder with distributor valve",
+      "count": 438,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T13/125": {
+      "code": "B60T13/125",
+      "level": 3,
+      "parent": "B60T13/12",
+      "ja": "マスターシリンダなしで制動圧力分配器弁を用いる方式［６］",
+      "en": "Systems using brake pressure distributor valve without master cylinder",
+      "count": 29,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T13/128": {
+      "code": "B60T13/128",
+      "level": 3,
+      "parent": "B60T13/12",
+      "ja": "液圧を利用してマスターシリンダと結合させたブースタを用いる方式［６］",
+      "en": "Systems using booster hydraulically combined with master cylinder",
+      "count": 274,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T13/13": {
+      "code": "B60T13/13",
+      "level": 4,
+      "parent": "B60T13/128",
+      "ja": "ブースタから制動回路へ直接油圧出力を付加するもの［６］",
+      "en": "with additional direct hydraulic output from booster to brake circuit",
+      "count": 56,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T13/132": {
+      "code": "B60T13/132",
+      "level": 3,
+      "parent": "B60T13/12",
+      "ja": "機械的出力を有するブースタを用いる方式，例．マスターシリンダへ［６］",
+      "en": "Systems using booster having mechanical output, e.g. to master cylinder",
+      "count": 69,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T13/135": {
+      "code": "B60T13/135",
+      "level": 3,
+      "parent": "B60T13/12",
+      "ja": "ブースタピストンの制御弁に特徴のあるブースタ［６］",
+      "en": "Boosters characterised by control valve in booster piston",
+      "count": 80,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T13/138": {
+      "code": "B60T13/138",
+      "level": 3,
+      "parent": "B60T13/12",
+      "ja": "圧力供給装置［６］",
+      "en": "Pressure supply arrangements",
+      "count": 815,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T13/14": {
+      "code": "B60T13/14",
+      "level": 4,
+      "parent": "B60T13/138",
+      "ja": "蓄圧器または貯蔵器リザーバを使用するもの［６］",
+      "en": "using accumulators or reservoirs",
+      "count": 4866,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T13/16": {
+      "code": "B60T13/16",
+      "level": 4,
+      "parent": "B60T13/138",
+      "ja": "直接ポンプを使用するもの，すなわち蓄圧器または貯蔵器リザーバが介在しないもの［６］",
+      "en": "using pumps directly, i.e. without interposition of accumulators or reservoirs",
+      "count": 2359,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T13/18": {
+      "code": "B60T13/18",
+      "level": 5,
+      "parent": "B60T13/16",
+      "ja": "ポンプの吐出口の制御をもつもの［６］",
+      "en": "with control of pump output delivery",
+      "count": 614,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T13/20": {
+      "code": "B60T13/20",
+      "level": 5,
+      "parent": "B60T13/16",
+      "ja": "ポンプ駆動装置の制御をもつもの［６］",
+      "en": "with control of pump driving means",
+      "count": 348,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T13/22": {
+      "code": "B60T13/22",
+      "level": 3,
+      "parent": "B60T13/12",
+      "ja": "ブレーキがばねまたは重りによってかけられ流体的にブレーキが解除されるもの",
+      "en": "Brakes applied by springs or weights and released hydraulically",
+      "count": 1078,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T13/24": {
+      "code": "B60T13/24",
+      "level": 2,
+      "parent": "B60T13/10",
+      "ja": "流体が気体であるもの",
+      "en": "the fluid being gaseous",
+      "count": 2495,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T13/26": {
+      "code": "B60T13/26",
+      "level": 3,
+      "parent": "B60T13/24",
+      "ja": "圧縮空気方式",
+      "en": "Compressed-air systems",
+      "count": 3059,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T13/36": {
+      "code": "B60T13/36",
+      "level": 4,
+      "parent": "B60T13/26",
+      "ja": "直接方式，すなわちブレーキが直接圧縮空気によってかけられるもの",
+      "en": "direct, i.e. brakes applied directly by compressed air",
+      "count": 1256,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T13/38": {
+      "code": "B60T13/38",
+      "level": 4,
+      "parent": "B60T13/26",
+      "ja": "ブレーキがバネまたは重りによってかけられ圧縮空気によってブレーキが解除されるもの",
+      "en": "Brakes applied by springs or weights and released by compressed air",
+      "count": 1163,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T13/40": {
+      "code": "B60T13/40",
+      "level": 4,
+      "parent": "B60T13/26",
+      "ja": "間接方式，すなわち圧縮空気ブースタ装置",
+      "en": "indirect, i.e. compressed-air booster units",
+      "count": 1388,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T13/44": {
+      "code": "B60T13/44",
+      "level": 5,
+      "parent": "B60T13/40",
+      "ja": "２つの室のブースター装置を有するもの",
+      "en": "with two-chamber booster units",
+      "count": 241,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T13/45": {
+      "code": "B60T13/45",
+      "level": 5,
+      "parent": "B60T13/40",
+      "ja": "複式ブースター装置，例．タンデムブースター装置を有するもの［５］",
+      "en": "with multiple booster units, e.g. tandem booster units",
+      "count": 23,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T13/46": {
+      "code": "B60T13/46",
+      "level": 3,
+      "parent": "B60T13/24",
+      "ja": "真空方式",
+      "en": "Vacuum systems",
+      "count": 1225,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T13/48": {
+      "code": "B60T13/48",
+      "level": 4,
+      "parent": "B60T13/46",
+      "ja": "直接方式，すなわちブレーキが直接真空によってかけられるもの",
+      "en": "direct, i.e. brakes applied directly by vacuum",
+      "count": 189,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T13/50": {
+      "code": "B60T13/50",
+      "level": 4,
+      "parent": "B60T13/46",
+      "ja": "ブレーキがばねまたは重りによってかけられ真空によって解除されるもの",
+      "en": "Brakes applied by springs or weights and released by vacuum",
+      "count": 36,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T13/52": {
+      "code": "B60T13/52",
+      "level": 4,
+      "parent": "B60T13/46",
+      "ja": "間接方式，すなわち真空ブースター装置",
+      "en": "indirect, i.e. vacuum booster units",
+      "count": 4137,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T13/56": {
+      "code": "B60T13/56",
+      "level": 5,
+      "parent": "B60T13/52",
+      "ja": "２つの室のブースター装置を有するもの",
+      "en": "with two-chamber booster units",
+      "count": 1811,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T13/563": {
+      "code": "B60T13/563",
+      "level": 5,
+      "parent": "B60T13/52",
+      "ja": "複式ブースター装置，例．タンデムブースター装置［５］",
+      "en": "with multiple booster units, e.g. tandem booster units",
+      "count": 560,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T13/565": {
+      "code": "B60T13/565",
+      "level": 5,
+      "parent": "B60T13/52",
+      "ja": "マスターシリンダとの結合に特徴を有するもの，例．一体的に形成されるもの［５］",
+      "en": "characterised by being associated with master cylinders, e.g. integrally formed",
+      "count": 647,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T13/567": {
+      "code": "B60T13/567",
+      "level": 5,
+      "parent": "B60T13/52",
+      "ja": "ケーシングの構造またはその強化または装着装置に特徴を有するもの［５］",
+      "en": "characterised by constructional features of the casing or by its strengthening or mounting arrangements",
+      "count": 920,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T13/569": {
+      "code": "B60T13/569",
+      "level": 5,
+      "parent": "B60T13/52",
+      "ja": "ピストンの細部に特徴を有するもの，例．構造，ダイヤフラムの装着［５］",
+      "en": "characterised by piston details, e.g. construction, mounting of diaphragm",
+      "count": 697,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T13/57": {
+      "code": "B60T13/57",
+      "level": 5,
+      "parent": "B60T13/52",
+      "ja": "制御弁の構造に特徴を有するもの［５］",
+      "en": "characterised by constructional features of control valves",
+      "count": 1477,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T13/573": {
+      "code": "B60T13/573",
+      "level": 5,
+      "parent": "B60T13/52",
+      "ja": "反力装置に特徴を有するもの［５］",
+      "en": "characterised by reaction devices",
+      "count": 640,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T13/575": {
+      "code": "B60T13/575",
+      "level": 6,
+      "parent": "B60T13/573",
+      "ja": "弾力デイスクまたはパッドを用するもの［５］",
+      "en": "using resilient discs or pads",
+      "count": 316,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T13/577": {
+      "code": "B60T13/577",
+      "level": 6,
+      "parent": "B60T13/573",
+      "ja": "てこを用いるもの［５］",
+      "en": "using levers",
+      "count": 89,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T13/58": {
+      "code": "B60T13/58",
+      "level": 2,
+      "parent": "B60T13/10",
+      "ja": "結合または転換できる方式",
+      "en": "Combined or convertible systems",
+      "count": 2880,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T13/60": {
+      "code": "B60T13/60",
+      "level": 3,
+      "parent": "B60T13/58",
+      "ja": "流体圧と真空の併用",
+      "en": "both fluid pressure and vacuum",
+      "count": 237,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T13/62": {
+      "code": "B60T13/62",
+      "level": 3,
+      "parent": "B60T13/58",
+      "ja": "直に，又は，自動的に作動させられるものの併用",
+      "en": "both straight and automatic",
+      "count": 204,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T13/64": {
+      "code": "B60T13/64",
+      "level": 3,
+      "parent": "B60T13/58",
+      "ja": "単式と複式との併用，例．単一とタンデム",
+      "en": "both single and multiple, e.g. single and tandem",
+      "count": 43,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T13/66": {
+      "code": "B60T13/66",
+      "level": 2,
+      "parent": "B60T13/10",
+      "ja": "流体圧制動方式における電気的制御",
+      "en": "Electrical control in fluid-pressure brake systems",
+      "count": 10466,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T13/68": {
+      "code": "B60T13/68",
+      "level": 3,
+      "parent": "B60T13/66",
+      "ja": "電気的制御弁によるもの",
+      "en": "by electrically-controlled valves",
+      "count": 7711,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T13/70": {
+      "code": "B60T13/70",
+      "level": 3,
+      "parent": "B60T13/66",
+      "ja": "流体圧制御スイッチによるもの",
+      "en": "by fluid-controlled switches",
+      "count": 289,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T13/72": {
+      "code": "B60T13/72",
+      "level": 3,
+      "parent": "B60T13/66",
+      "ja": "真空方式におけるもの",
+      "en": "in vacuum systems",
+      "count": 864,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T13/74": {
+      "code": "B60T13/74",
+      "level": 1,
+      "parent": "B60T13/00",
+      "ja": "電気的補助力または駆動力をもつもの",
+      "en": "with electrical assistance or drive",
+      "count": 16034,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T15/00": {
+      "code": "B60T15/00",
+      "level": 0,
+      "parent": "B60T",
+      "ja": "動力制動方式に組み込まれ，そしてグループＢ６０Ｔ１１／００またはＢ６０Ｔ１３／００に包含されない弁の構造，配置または作動（速度条件に応答する弁構造Ｂ６０Ｔ８／３４）［４］",
+      "en": "Construction, arrangement, or operation of valves incorporated in power brake systems and not covered by groups <b>B60T11/00</b> or <b>B60T13/00</b>(valve structures responsive to a speed condition <b>B60T8/34</b>)",
+      "count": 714,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T15/02": {
+      "code": "B60T15/02",
+      "level": 1,
+      "parent": "B60T15/00",
+      "ja": "作動弁および解放弁",
+      "en": "Application and release valves",
+      "count": 2966,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T15/04": {
+      "code": "B60T15/04",
+      "level": 2,
+      "parent": "B60T15/02",
+      "ja": "運転者用弁",
+      "en": "Driver's valves",
+      "count": 2956,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T15/06": {
+      "code": "B60T15/06",
+      "level": 3,
+      "parent": "B60T15/04",
+      "ja": "自動制御装置をもたない圧力ブレーキのための単一運転者用弁",
+      "en": "Single driver's valves for pressure brakes without automatic control",
+      "count": 389,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T15/08": {
+      "code": "B60T15/08",
+      "level": 3,
+      "parent": "B60T15/04",
+      "ja": "自動制御装置を有する圧力ブレーキのための運転者用弁",
+      "en": "Driver's valves for pressure brakes having automatic control",
+      "count": 300,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T15/10": {
+      "code": "B60T15/10",
+      "level": 3,
+      "parent": "B60T15/04",
+      "ja": "真空ブレーキのためのもの",
+      "en": "for vacuum brakes",
+      "count": 20,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T15/12": {
+      "code": "B60T15/12",
+      "level": 3,
+      "parent": "B60T15/04",
+      "ja": "中継弁またはそれと同様なものとの結合したもの",
+      "en": "combined with relay valves or the like",
+      "count": 186,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T15/14": {
+      "code": "B60T15/14",
+      "level": 3,
+      "parent": "B60T15/04",
+      "ja": "電気的制御装置に影響をおよぼすもの",
+      "en": "influencing electric control means",
+      "count": 241,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T15/16": {
+      "code": "B60T15/16",
+      "level": 3,
+      "parent": "B60T15/04",
+      "ja": "制動方式が二位置または多位置で制御されることを可能ならしめる装置",
+      "en": "Arrangements enabling systems to be controlled from two or more positions",
+      "count": 198,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T15/18": {
+      "code": "B60T15/18",
+      "level": 2,
+      "parent": "B60T15/02",
+      "ja": "段階的な作動若しくは解放ができ，制動管の圧力変化により作動されて制動シリンダーまたは同等品を圧縮空気源，真空源または大気に接続する三動弁または他の中継弁",
+      "en": "Triple or other relay valves which allow step-wise application or release and which are actuated by brake-pipe pressure variation to connect brake cylinders or equivalent to compressed-air or vacuum source or atmosphere",
+      "count": 2188,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T15/20": {
+      "code": "B60T15/20",
+      "level": 3,
+      "parent": "B60T15/18",
+      "ja": "２つの流体圧によって制御されるもの",
+      "en": "controlled by two fluid pressures",
+      "count": 296,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T15/22": {
+      "code": "B60T15/22",
+      "level": 4,
+      "parent": "B60T15/20",
+      "ja": "制動，解放，貯蔵器リザーバの充填のための１つまたはそれ以上の補助弁をもつもの",
+      "en": "with one or more auxiliary valves, for braking, releasing, filling reservoirs",
+      "count": 158,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T15/24": {
+      "code": "B60T15/24",
+      "level": 3,
+      "parent": "B60T15/18",
+      "ja": "３つの流体圧によって制御されるもの",
+      "en": "controlled by three fluid pressures",
+      "count": 149,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T15/26": {
+      "code": "B60T15/26",
+      "level": 4,
+      "parent": "B60T15/24",
+      "ja": "急速制動動作をもたないもの",
+      "en": "without a quick braking action",
+      "count": 2,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T15/28": {
+      "code": "B60T15/28",
+      "level": 5,
+      "parent": "B60T15/26",
+      "ja": "補助弁をもっているもの",
+      "en": "and having auxiliary valves",
+      "count": 14,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T15/30": {
+      "code": "B60T15/30",
+      "level": 4,
+      "parent": "B60T15/24",
+      "ja": "急速制動動作をもつもの",
+      "en": "with a quick braking action",
+      "count": 617,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T15/32": {
+      "code": "B60T15/32",
+      "level": 5,
+      "parent": "B60T15/30",
+      "ja": "補助弁をもっているもの",
+      "en": "and having auxiliary valves",
+      "count": 17,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T15/34": {
+      "code": "B60T15/34",
+      "level": 3,
+      "parent": "B60T15/18",
+      "ja": "２つまたは３つの流体圧によって交互に制御されるもの",
+      "en": "controlled alternatively by two or three fluid pressures",
+      "count": 17,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T15/36": {
+      "code": "B60T15/36",
+      "level": 2,
+      "parent": "B60T15/02",
+      "ja": "特定の機能によって特徴づけられた他の制御装置もしくは弁",
+      "en": "Other control devices or valves characterised by definite functions",
+      "count": 2483,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T15/38": {
+      "code": "B60T15/38",
+      "level": 3,
+      "parent": "B60T15/36",
+      "ja": "急速作動と重ブレーキのためのもの，例．スラックをとる補助貯蔵タンクをもつもの",
+      "en": "for quick take-up and heavy braking, e.g. with auxiliary reservoir for taking-up slack",
+      "count": 187,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T15/40": {
+      "code": "B60T15/40",
+      "level": 4,
+      "parent": "B60T15/38",
+      "ja": "単独に適用される複数のシリンダをもつもの",
+      "en": "with separate take-up and applying cylinders",
+      "count": 52,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T15/42": {
+      "code": "B60T15/42",
+      "level": 3,
+      "parent": "B60T15/36",
+      "ja": "急速制動動作をもつもの，すなわち制動管の圧力変化によって作動される加速バルブをもつもの",
+      "en": "with a quick braking action, i.e. with accelerating valves actuated by brake-pipe pressure variation",
+      "count": 471,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T15/44": {
+      "code": "B60T15/44",
+      "level": 4,
+      "parent": "B60T15/42",
+      "ja": "更に主制御装置と独立して動作するもの",
+      "en": "and operating independently of the main control device",
+      "count": 16,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T15/46": {
+      "code": "B60T15/46",
+      "level": 3,
+      "parent": "B60T15/36",
+      "ja": "連結車両において後車両が前車両にぶつかることを阻止するための制動動作の遅れのためのもの",
+      "en": "for retarding braking action to prevent rear vehicles of a vehicle train from overtaking the forward ones",
+      "count": 245,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T15/48": {
+      "code": "B60T15/48",
+      "level": 3,
+      "parent": "B60T15/36",
+      "ja": "貯蔵器リザーバを満たすためのもの",
+      "en": "for filling reservoirs",
+      "count": 326,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T15/50": {
+      "code": "B60T15/50",
+      "level": 4,
+      "parent": "B60T15/48",
+      "ja": "貯蔵器リザーバにおける圧力の制限または逃がしのための手段をもつもの",
+      "en": "with means for limiting or relieving pressure in reservoirs",
+      "count": 157,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T15/52": {
+      "code": "B60T15/52",
+      "level": 3,
+      "parent": "B60T15/36",
+      "ja": "ブレーキの急速弛めのためのもの，例．三動弁の背圧に作用するためのものまたはリザーバまたは制動シリンダから制動管へ空気を再循環するためのもの",
+      "en": "for quick release of brakes, e.g. for influencing counter-pressure in triple valve or recirculating air from reservoir or brake cylinder to brake pipe",
+      "count": 284,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T15/54": {
+      "code": "B60T15/54",
+      "level": 3,
+      "parent": "B60T15/36",
+      "ja": "三動弁または制動シリンダからの排出を制御するためのもの",
+      "en": "for controlling exhaust from triple valve or from brake cylinder",
+      "count": 537,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T15/56": {
+      "code": "B60T15/56",
+      "level": 3,
+      "parent": "B60T15/36",
+      "ja": "二次供給管によってリザーバを満たすためのもの",
+      "en": "for filling reservoirs by means of a secondary supply pipe",
+      "count": 45,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T15/58": {
+      "code": "B60T15/58",
+      "level": 3,
+      "parent": "B60T15/36",
+      "ja": "二次空気管を通しての制御インパルスを与えるためのもの",
+      "en": "for supplying control impulses through a secondary air pipe",
+      "count": 29,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T15/60": {
+      "code": "B60T15/60",
+      "level": 3,
+      "parent": "B60T15/36",
+      "ja": "連結車両のそれぞれの車両が離れたときのブレーキを解除または作動させるためのもの",
+      "en": "for releasing or applying brakes when vehicles of a vehicle train are uncoupled",
+      "count": 229,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T17/00": {
+      "code": "B60T17/00",
+      "level": 0,
+      "parent": "B60T",
+      "ja": "グループＢ６０Ｔ８／００，Ｂ６０Ｔ１３／００またはＢ６０Ｔ１５／００に包含されない，またはその他の独特の特色を示す制動方式の構成部品，細部または付属品［４］",
+      "en": "Component parts, details, or accessories of brake systems not covered by groups <b>B60T8/00</b>, <b>B60T13/00</b> or <b>B60T15/00</b>, or presenting other characteristic features",
+      "count": 7995,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T17/02": {
+      "code": "B60T17/02",
+      "level": 1,
+      "parent": "B60T17/00",
+      "ja": "ポンプまたは圧縮機の配備またはそれ等の制御装置",
+      "en": "Arrangements of pumps or compressors, or control devices therefor",
+      "count": 4299,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T17/04": {
+      "code": "B60T17/04",
+      "level": 1,
+      "parent": "B60T17/00",
+      "ja": "管系，管系内の弁，例．遮断弁，継手または空気のホースの配列［４］",
+      "en": "Arrangement of piping, valves in the piping, e.g. cut-off valves, couplings or air hoses",
+      "count": 5829,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T17/06": {
+      "code": "B60T17/06",
+      "level": 1,
+      "parent": "B60T17/00",
+      "ja": "貯蔵器リザーバの適用と配備",
+      "en": "Applications or arrangements of reservoirs",
+      "count": 2675,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T17/08": {
+      "code": "B60T17/08",
+      "level": 1,
+      "parent": "B60T17/00",
+      "ja": "最終段の制動シリンダ以外の制動シリンダ",
+      "en": "Brake cylinders other than ultimate actuators",
+      "count": 2225,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T17/10": {
+      "code": "B60T17/10",
+      "level": 2,
+      "parent": "B60T17/08",
+      "ja": "選択的にまたは連続的に有効になす手段をもった同一のブレーキに作用する２つまたはそれ以上のシリンダ，有効シリンダの数は可変",
+      "en": "Two or more cylinders acting on the same brake with means for rendering them effective selectively or successively, the number of effective cylinders being variable",
+      "count": 204,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T17/12": {
+      "code": "B60T17/12",
+      "level": 3,
+      "parent": "B60T17/10",
+      "ja": "車両の重量によるもの",
+      "en": "according to vehicle weight",
+      "count": 31,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T17/14": {
+      "code": "B60T17/14",
+      "level": 3,
+      "parent": "B60T17/10",
+      "ja": "車両の速度によるもの",
+      "en": "according to vehicle speed",
+      "count": 9,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T17/16": {
+      "code": "B60T17/16",
+      "level": 2,
+      "parent": "B60T17/08",
+      "ja": "制動シリンダの固定",
+      "en": "Locking of brake cylinders",
+      "count": 563,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T17/18": {
+      "code": "B60T17/18",
+      "level": 1,
+      "parent": "B60T17/00",
+      "ja": "安全装置；監視装置",
+      "en": "Safety devices; Monitoring",
+      "count": 6614,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T17/20": {
+      "code": "B60T17/20",
+      "level": 2,
+      "parent": "B60T17/18",
+      "ja": "運転者以外の乗客に作動可能な安全装置",
+      "en": "Safety devices operable by passengers other than the driver",
+      "count": 319,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    },
+    "B60T17/22": {
+      "code": "B60T17/22",
+      "level": 2,
+      "parent": "B60T17/18",
+      "ja": "制動方式の監視または検査装置；信号装置",
+      "en": "Devices for monitoring or checking brake systems; Signal devices",
+      "count": 17917,
+      "sourceFile": "ipc_B60T.txt",
+      "kind": "ipc"
+    }
+  }
+}

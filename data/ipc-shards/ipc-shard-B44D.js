@@ -1,0 +1,206 @@
+window.IPC_SHARD_B44D = {
+  "generatedAt": "2026-03-20T02:17:46.203Z",
+  "total": 20,
+  "entries": {
+    "B44D": {
+      "code": "B44D",
+      "level": 0,
+      "parent": "B44",
+      "ja": "他に分類されない塗装または絵画；絵画の保存；特殊な美術的表面効果または表面仕上げを得るための表面処理（表面処理一般，関連分類，例．液体または他の流動性材料の適用Ｂ０５，参照）［２］",
+      "en": "PAINTING OR ARTISTIC DRAWING, NOT OTHERWISE PROVIDED FOR; PRESERVING PAINTINGS; SURFACE TREATMENT TO OBTAIN SPECIAL ARTISTIC SURFACE EFFECTS OR FINISHES(surface treatment in general, <u>see</u> the relevant places, e.g. applying liquids or other fluent materials <b>B05</b>)",
+      "count": 542,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B44": {
+      "code": "B44",
+      "level": 0,
+      "parent": "B",
+      "ja": "装飾技術<br><br><b><ul>注</ul></b><br>いかなる機械，装置，工具，または方法も，それが目により判断されることを予定された外観またはマークを作り出す限り，そしてこのような機械，装置，工具または方法が他に分類されない限りこのクラスに分類される。［４］",
+      "en": "DECORATIVE ARTS; <br><br><b><u>Note(s)</u></b><br><br><ul><li>Any machine, apparatus, tool or process is classified in this class in so far as it produces an effect or mark meant to be judged by the eye and in so far as such machine, apparatus, tool or process is not provided for elsewhere. </li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B": {
+      "code": "B",
+      "level": 0,
+      "parent": null,
+      "ja": "処理操作；運輸",
+      "en": "PERFORMING OPERATIONS; TRANSPORTING",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B44D2/00": {
+      "code": "B44D2/00",
+      "level": 0,
+      "parent": "B44D",
+      "ja": "美術的塗装または絵画，例．油絵，水彩画，パステル画，浮上ったように描く絵画，の特殊な技法［２］",
+      "en": "Special techniques in artistic painting or drawing, e.g. oil painting, water painting, pastel painting, relief painting",
+      "count": 4217,
+      "sourceFile": "ipc_B44D.txt",
+      "kind": "ipc"
+    },
+    "B44D3/00": {
+      "code": "B44D3/00",
+      "level": 0,
+      "parent": "B44D",
+      "ja": "他類に属さない，塗装または絵画に関連して使用する付属品または器具（液体，例．ペイント，を表面に適用する手工具Ｂ０５Ｃ１７／００；塗装以外の，建築物の仕上げのための器具Ｅ０４Ｆ２１／００）；色の決定，選択，または合成のための方法または装置，例．色彩表の使用（色の測定Ｇ０１Ｊ３／００）［２］",
+      "en": "Accessories or implements for use in connection with painting or artistic drawing, not otherwise provided for(hand tools for applying liquids, e.g. paints, to surfaces <b>B05C17/00</b>; implements for finishing work on buildings, other than painting, <b>E04F21/00</b>);Methods or devices for colour determination, selection, or synthesis, e.g. use of colour tables(colorimetry <b>G01J3/00</b>)",
+      "count": 9030,
+      "sourceFile": "ipc_B44D.txt",
+      "kind": "ipc"
+    },
+    "B44D3/02": {
+      "code": "B44D3/02",
+      "level": 1,
+      "parent": "B44D3/00",
+      "ja": "パレット",
+      "en": "Palettes",
+      "count": 2074,
+      "sourceFile": "ipc_B44D.txt",
+      "kind": "ipc"
+    },
+    "B44D3/04": {
+      "code": "B44D3/04",
+      "level": 1,
+      "parent": "B44D3/00",
+      "ja": "絵の具箱",
+      "en": "Paint boxes",
+      "count": 1814,
+      "sourceFile": "ipc_B44D.txt",
+      "kind": "ipc"
+    },
+    "B44D3/06": {
+      "code": "B44D3/06",
+      "level": 1,
+      "parent": "B44D3/00",
+      "ja": "ペイントを攪拌または混合する器具（混合一般Ｂ０１Ｆ）",
+      "en": "Implements for stirring or mixing paints(mixing in general <b>B01F</b>)",
+      "count": 720,
+      "sourceFile": "ipc_B44D.txt",
+      "kind": "ipc"
+    },
+    "B44D3/08": {
+      "code": "B44D3/08",
+      "level": 2,
+      "parent": "B44D3/06",
+      "ja": "液状，半液状の絵の具のためのもの",
+      "en": "for liquid or semi-liquid paints",
+      "count": 574,
+      "sourceFile": "ipc_B44D.txt",
+      "kind": "ipc"
+    },
+    "B44D3/10": {
+      "code": "B44D3/10",
+      "level": 2,
+      "parent": "B44D3/06",
+      "ja": "こし具，へら",
+      "en": "Sieves; Spatulas",
+      "count": 299,
+      "sourceFile": "ipc_B44D.txt",
+      "kind": "ipc"
+    },
+    "B44D3/12": {
+      "code": "B44D3/12",
+      "level": 1,
+      "parent": "B44D3/00",
+      "ja": "ペイントかん，ブラシ保持具；残ったペイントを入れておくためのもの",
+      "en": "Paint cans; Brush holders; Containers for storing residual paint",
+      "count": 3623,
+      "sourceFile": "ipc_B44D.txt",
+      "kind": "ipc"
+    },
+    "B44D3/14": {
+      "code": "B44D3/14",
+      "level": 2,
+      "parent": "B44D3/12",
+      "ja": "ペイントかんの保持具",
+      "en": "Holders for paint cans",
+      "count": 552,
+      "sourceFile": "ipc_B44D.txt",
+      "kind": "ipc"
+    },
+    "B44D3/16": {
+      "code": "B44D3/16",
+      "level": 1,
+      "parent": "B44D3/00",
+      "ja": "表面から乾燥したペイントを取除くための器具または装置，例．はぎ取りによるもの，焼くことによるもの（化学的なペイント除去剤Ｃ０９Ｄ９／００）［２］",
+      "en": "Implements or apparatus for removing dry paint from surfaces, e.g. by scraping, by burning(chemical paint-removers <b>C09D9/00</b>)",
+      "count": 1743,
+      "sourceFile": "ipc_B44D.txt",
+      "kind": "ipc"
+    },
+    "B44D3/18": {
+      "code": "B44D3/18",
+      "level": 1,
+      "parent": "B44D3/00",
+      "ja": "絵を描く面をもつ板またはシート；カンバスの張り枠［２］",
+      "en": "Boards or sheets with surfaces prepared for painting or drawing pictures; Stretching frames for canvases",
+      "count": 8404,
+      "sourceFile": "ipc_B44D.txt",
+      "kind": "ipc"
+    },
+    "B44D3/22": {
+      "code": "B44D3/22",
+      "level": 1,
+      "parent": "B44D3/00",
+      "ja": "特殊技術のための機械器具，例．線を画くためのもの，ワニス注入のためのもの；ろう染め鉛筆",
+      "en": "Implements or apparatus for special techniques, e.g. for painting lines, for pouring varnish; Batik pencils",
+      "count": 2210,
+      "sourceFile": "ipc_B44D.txt",
+      "kind": "ipc"
+    },
+    "B44D3/24": {
+      "code": "B44D3/24",
+      "level": 1,
+      "parent": "B44D3/00",
+      "ja": "ラッカーを焼きつけるランプ；塗装者の使うベルト；乾いたペイントを溶かす装置；ペイントを温める装置［２］",
+      "en": "Lamps for baking lacquers; Painters' belts; Apparatus for dissolving dried paints, for heating paints",
+      "count": 371,
+      "sourceFile": "ipc_B44D.txt",
+      "kind": "ipc"
+    },
+    "B44D3/38": {
+      "code": "B44D3/38",
+      "level": 1,
+      "parent": "B44D3/00",
+      "ja": "紐線引き",
+      "en": "Cord line chalkers",
+      "count": 283,
+      "sourceFile": "ipc_B44D.txt",
+      "kind": "ipc"
+    },
+    "B44D5/00": {
+      "code": "B44D5/00",
+      "level": 0,
+      "parent": "B44D",
+      "ja": "特殊な美術的表面効果または表面仕上げを得るための表面処理（液体を適用することにより被覆される表面の前処理または後処理Ｂ０５Ｄ３／００；液体または他の流動性材料を表面に適用することにより特殊な表面効果を得るものＢ０５Ｄ５／００；プラスチックの表面成形，例．エンボシング，Ｂ２９Ｃ５９／００）［２］",
+      "en": "Surface treatment to obtain special artistic surface effects or finishes(pretreatment or after-treatment of surface coated by applying liquids <b>B05D3/00</b>; obtaining special surface effects by applying liquids or other fluent materials to surfaces <b>B05D5/00</b>; surface shaping of plastics, e.g. embossing, <b>B29C59/00</b>)",
+      "count": 1579,
+      "sourceFile": "ipc_B44D.txt",
+      "kind": "ipc"
+    },
+    "B44D5/10": {
+      "code": "B44D5/10",
+      "level": 1,
+      "parent": "B44D5/00",
+      "ja": "機械的処理",
+      "en": "Mechanical treatment",
+      "count": 273,
+      "sourceFile": "ipc_B44D.txt",
+      "kind": "ipc"
+    },
+    "B44D7/00": {
+      "code": "B44D7/00",
+      "level": 0,
+      "parent": "B44D",
+      "ja": "絵画の保存，例．ワニスがけによるもの",
+      "en": "Preserving paintings, e.g. by varnishing",
+      "count": 686,
+      "sourceFile": "ipc_B44D.txt",
+      "kind": "ipc"
+    }
+  }
+};

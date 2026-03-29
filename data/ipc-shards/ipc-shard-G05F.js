@@ -1,0 +1,866 @@
+window.IPC_SHARD_G05F = {
+  "generatedAt": "2026-03-20T02:17:47.075Z",
+  "total": 86,
+  "entries": {
+    "G05F": {
+      "code": "G05F",
+      "level": 0,
+      "parent": "G05",
+      "ja": "電気的変量または磁気的変量の調整システム［５］<br><br><b><ul>注</ul></b><br>（１）このサブクラスは以下のものを包含する；<br>―系のみ；<br>―調整量を復元する装置の電気的特性を変えるための水圧式，空気式，機械的，電気的モータの使用<br>―本質的な特徴が組合わせにある場合には，静止変換器と電流または電圧調整器との組合わせ［４］<br>（２）このサブクラスは要素それ自体を包含しない．ただしこれは関連するサブクラスに包含される。",
+      "en": "SYSTEMS FOR REGULATING ELECTRIC OR MAGNETIC VARIABLES; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This subclass <u>covers</u>:<ul><li>systems only;</li><li>use of hydraulic, pneumatic, mechanical, and electrical motors for varying electric characteristics of devices which restore the quantity regulated;</li><li>the combination of static converters and current or voltage regulators, if the essential characteristic resides in the combination. </li></ul></li><li>This subclass <u>does not cover</u> elements <u>per se</u>, which are covered by the relevant subclasses.</li></ul>",
+      "count": 1240,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G05": {
+      "code": "G05",
+      "level": 0,
+      "parent": "G",
+      "ja": "制御；調整<br><br><b><ul>注</ul></b><br>（１）このクラスは一般的制御方法，系および装置を包含する。<br>（２）セクションＧのタイトルに続く注，特に“変量”という用語の定義については注意すること。",
+      "en": "CONTROLLING; REGULATING; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This class <u>covers</u> methods, systems, and apparatus for controlling, in general.</li><li>Attention is drawn to the Notes following the title of section <b>G</b>, especially as regards the definition of the term \"variable\".</li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G": {
+      "code": "G",
+      "level": 0,
+      "parent": null,
+      "ja": "物理学<br><br><b><ul>注</ul></b><br>１．このセクションにおいては，下記の用語は以下に示す意味で用いる：<br>・“変量”は名詞として，特定の実在物，例．物体，ある量の物質，光ビーム，に関し特定の瞬間に測定することの可能な特性又は特質，例．寸法，温度等の物理的状態，密度又は色等の性質，を意味する。変量が変化すると，その数値的表現は異なる時点で，異なる状態又は個々の状況において異なる値をとることもあり，また，ある状態のもとで又は実用上特定の実在物に関して一定でありうる，例．バーの長さが多くの目的のために一定とみなされる，こともある。<br>２．使用される用語または表現の定義に注意すること。このセクションのいくつかのクラスの注に使用されているものについて，特にクラスＧ０１の“測定”を参照されたい．ＩＰＣ指針パラグラフ１８７の中にあるものについて，“制御”及び“調整”の定義に参照されたい。<br>３．このセクションにおける分類は他のセクションにおいてよりもめんどうな場合があり得る，というのは，その一つは，いろいろな使用分野の差異の判別には構造上の差異又は使用形態上の差異よりも寧ろ使用者の意図における差異の方にかなりの程度影響されてしまうからであり，もう一つは，扱う主題が容易に全体として識別できる“もの”であるよりも，特性又は部品が他の主題のものと共通のものを有しているシステム又は組合わせであることが実際上多いからである。例えば，情報（例．一連の数値）をディスプレイするのは，クラスＧ０９に包含される，教育又は広告のため，クラスＧ０１に包含される，測定の結果が通知されうるため，クラスＧ０８に包含される，遠隔地点に情報を合図するため，又は遠隔地点から合図された情報を提供するためである。目的を記述するために使用する言葉は，当該装置の形態に無関係なこともあり得る特性－例えば，ディスプレイを見る者にとって望ましい効果とか，ディスプレイが遠隔地点から制御されるかどうかという特性－によって決定される。さらに，ある状態，例えば流体圧の変化に応答する装置は，その装置そのものには変更を加えずして，サブクラスＧ０１Ｌに包含される圧力又はＧ０１の他のサブクラスに包含される圧力に関連した他の何らかの状態，例．温度に関してＧ０１Ｋ，についての情報を与えるため，サブクラスＧ０７Ｃに包含される圧力または圧力発生の記録をするため，サブクラスＧ０８Ｂに包含される警報を発するため，又はクラスＧ０５に包含される他の何らかの装置を制御するために用いられることがある。<br>　本分類表は，前述したように，同一の性質のものは同一箇所に分類し得るようにしたものである。従って，技術主題が適切箇所に分類されるためには予めその真正な本質を把握することが特に必要である。",
+      "en": "PHYSICS; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this section, the following term is used with the meaning indicated: <ul><li>\"variable\" as a noun means a feature or property, e.g. a dimension, a physical condition such as temperature, a quality such as density or colour, which, in respect of a particular entity, e.g. an object, a quantity of a substance, a beam of light, and at a particular instant, is capable of being measured; the variable may change, so that its numerical expression may assume different values at different times, in different conditions or in individual cases, but may be constant in respect of a particular entity in certain conditions or for practical purposes, e.g. the length of a bar may be regarded as constant for many purposes.</li></ul></li><li>Attention is drawn to the definitions of terms or expressions used. Some appear in the notes of several of the classes in this section, see in particular the definition of \"measuring\" in class <b>G01</b>. Others appear in paragraph 187 of the Guide to the IPC, see in particular the definitions of \"control\" and \"regulation\".</li><li>Classification in this section may present more difficulty than in other sections, because the distinction between different fields of use rests to a considerable extent on differences in the intention of the user rather than on any constructional differences or differences in the manner of use, and because the subjects dealt with are often in effect systems or combinations, which have features or parts in common, rather than \"things\", which are readily distinguishable as a whole. For example, information, e.g. a set of figures, may be displayed for the purpose of education or advertising covered by class <b>G09</b>, for enabling the result of a measurement to be known covered by class <b>G01</b>, for signalling the information to a distant point or for giving information which has been signalled from a distant point covered by class <b>G08</b>. The words used to describe the purpose depend on features that may be irrelevant to the form of the apparatus concerned, for example, such features as the desired effect on the person who sees the display, or whether the display is controlled from a remote point. Again, a device which responds to some change in a condition, e.g. in the pressure of a fluid, may be used, without modification of the device itself, to give information about the pressure covered by subclass <b>G01L</b> or about some other condition linked to the pressure covered by another subclass of class <b>G01</b>, e.g. <b>G01K</b> for temperature, to make a record of the pressure or of its occurrence covered by subclass <b>G07C</b>, to give an alarm covered by subclass <b>G08B</b>, or to control another apparatus covered by class <b>G05</b>. <ul><li>The classification scheme is intended to enable things of a similar nature, as indicated above, to be classified together. It is therefore particularly necessary for the real nature of any technical subject to be decided before it can be properly classified.</li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G05F1/00": {
+      "code": "G05F1/00",
+      "level": 0,
+      "parent": "G05F",
+      "ja": "電気量の単一または複数の所望値からの偏差を系の出力部で検出し，系内の装置へフィードバックし，これにより検出量を単一または複数の所望値へ復元する自動制御系，すなわち反作用系",
+      "en": "Automatic systems in which deviations of an electric quantity from one or more predetermined values are detected at the output of the system and fed back to a device within the system to restore the detected quantity to its predetermined value or values, i.e. retroactive systems",
+      "count": 7735,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F1/02": {
+      "code": "G05F1/02",
+      "level": 1,
+      "parent": "G05F1/00",
+      "ja": "アークの電気的特性の調整［２００６．０１］",
+      "en": "Regulating electric characteristics of arcs",
+      "count": 324,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F1/04": {
+      "code": "G05F1/04",
+      "level": 2,
+      "parent": "G05F1/02",
+      "ja": "可飽和磁気装置によるもの",
+      "en": "by means of saturable magnetic devices",
+      "count": 36,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F1/06": {
+      "code": "G05F1/06",
+      "level": 2,
+      "parent": "G05F1/02",
+      "ja": "電子管装置によるもの",
+      "en": "by means of discharge tubes",
+      "count": 20,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F1/08": {
+      "code": "G05F1/08",
+      "level": 2,
+      "parent": "G05F1/02",
+      "ja": "半導体装置によるもの",
+      "en": "by means of semiconductor devices",
+      "count": 188,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F1/10": {
+      "code": "G05F1/10",
+      "level": 1,
+      "parent": "G05F1/00",
+      "ja": "電圧または電流の調整（Ｇ０５Ｆ１／０２が優先）［２００６．０１］",
+      "en": "Regulating voltage or current(<b>G05F1/02</b> takes precedence)",
+      "count": 17279,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F1/12": {
+      "code": "G05F1/12",
+      "level": 2,
+      "parent": "G05F1/10",
+      "ja": "最終制御装置により実際に調整される変量が交流であるもの（Ｇ０５Ｆ１／６２５が優先）［４］",
+      "en": "wherein the variable is actually regulated by the final control device is AC(<b>G05F1/625</b> takes precedence)",
+      "count": 1481,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F1/13": {
+      "code": "G05F1/13",
+      "level": 3,
+      "parent": "G05F1/12",
+      "ja": "最終制御装置として鉄共振変成器を使用するもの［４］",
+      "en": "using ferroresonant transformers as final control devices",
+      "count": 215,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F1/14": {
+      "code": "G05F1/14",
+      "level": 3,
+      "parent": "G05F1/12",
+      "ja": "最終制御装置としてタップ付変圧器またはタップ切換インダクタを使用するもの［４］",
+      "en": "using tap transformers or tap changing inductors as final control devices",
+      "count": 1631,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F1/147": {
+      "code": "G05F1/147",
+      "level": 4,
+      "parent": "G05F1/14",
+      "ja": "電動機駆動タップスイッチを有するもの［４］",
+      "en": "with motor driven tap switch",
+      "count": 270,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F1/153": {
+      "code": "G05F1/153",
+      "level": 5,
+      "parent": "G05F1/147",
+      "ja": "放電管または半導体装置によって制御されるもの［４］",
+      "en": "controlled by discharge tubes or semiconductor devices",
+      "count": 118,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F1/16": {
+      "code": "G05F1/16",
+      "level": 4,
+      "parent": "G05F1/14",
+      "ja": "電子管または半導体装置と組み合わされたもの",
+      "en": "combined with discharge tubes or semiconductor devices",
+      "count": 171,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F1/20": {
+      "code": "G05F1/20",
+      "level": 5,
+      "parent": "G05F1/16",
+      "ja": "半導体装置のみ",
+      "en": "semiconductor devices only",
+      "count": 929,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F1/22": {
+      "code": "G05F1/22",
+      "level": 4,
+      "parent": "G05F1/14",
+      "ja": "飽和度の制御可能な磁気制御装置と組み合わされたもの",
+      "en": "combined with separate magnetic control devices having a controllable degree of saturation",
+      "count": 143,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F1/24": {
+      "code": "G05F1/24",
+      "level": 3,
+      "parent": "G05F1/12",
+      "ja": "最終制御装置として降圧または昇圧変圧器を用いるもの",
+      "en": "using bucking or boosting transformers as final control devices",
+      "count": 893,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F1/247": {
+      "code": "G05F1/247",
+      "level": 4,
+      "parent": "G05F1/24",
+      "ja": "制御回路において電動機を有するもの［４］",
+      "en": "with motor in control circuit",
+      "count": 187,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F1/253": {
+      "code": "G05F1/253",
+      "level": 4,
+      "parent": "G05F1/24",
+      "ja": "電源と負荷との間に直列の複数の巻線を含む変圧器（Ｇ０５Ｆ１／２４７が優先）［４］",
+      "en": "the transformers including plural windings in series between source and load(<b>G05F1/247</b> takes precedence)",
+      "count": 79,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F1/26": {
+      "code": "G05F1/26",
+      "level": 4,
+      "parent": "G05F1/24",
+      "ja": "電子管または半導体装置と組み合わされたもの",
+      "en": "combined with discharge tubes or semiconductor devices",
+      "count": 127,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F1/30": {
+      "code": "G05F1/30",
+      "level": 5,
+      "parent": "G05F1/26",
+      "ja": "半導体装置のみ",
+      "en": "semiconductor devices only",
+      "count": 428,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F1/32": {
+      "code": "G05F1/32",
+      "level": 3,
+      "parent": "G05F1/12",
+      "ja": "最終制御装置として飽和度の制御可能な磁気装置をもつもの",
+      "en": "using magnetic devices having a controllable degree of saturation as final control devices",
+      "count": 941,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F1/325": {
+      "code": "G05F1/325",
+      "level": 4,
+      "parent": "G05F1/32",
+      "ja": "特定コア構造を有するもの，例．ギャップ，開口，スロット，永久磁石［４］",
+      "en": "with specific core structure, e.g. gap, aperture, slot, permanent magnet",
+      "count": 110,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F1/33": {
+      "code": "G05F1/33",
+      "level": 4,
+      "parent": "G05F1/32",
+      "ja": "制御電流が通過する複線の巻線を有するもの［４］",
+      "en": "with plural windings through which current to be controlled is conducted",
+      "count": 268,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F1/335": {
+      "code": "G05F1/335",
+      "level": 5,
+      "parent": "G05F1/33",
+      "ja": "異なるコアにおけるもの［４］",
+      "en": "on different cores",
+      "count": 28,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F1/34": {
+      "code": "G05F1/34",
+      "level": 4,
+      "parent": "G05F1/32",
+      "ja": "電子管または半導体装置と組み合わされたもの",
+      "en": "combined with discharge tubes or semiconductor devices",
+      "count": 284,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F1/38": {
+      "code": "G05F1/38",
+      "level": 5,
+      "parent": "G05F1/34",
+      "ja": "半導体装置のみ",
+      "en": "semiconductor devices only",
+      "count": 374,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F1/40": {
+      "code": "G05F1/40",
+      "level": 3,
+      "parent": "G05F1/12",
+      "ja": "最終装置として電子管または半導体装置を用いたもの",
+      "en": "using discharge tubes or semiconductor devices as final control devices",
+      "count": 1684,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F1/42": {
+      "code": "G05F1/42",
+      "level": 4,
+      "parent": "G05F1/40",
+      "ja": "電子管のみ",
+      "en": "discharge tubes only",
+      "count": 302,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F1/44": {
+      "code": "G05F1/44",
+      "level": 4,
+      "parent": "G05F1/40",
+      "ja": "半導体装置のみ",
+      "en": "semiconductor devices only",
+      "count": 2297,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F1/445": {
+      "code": "G05F1/445",
+      "level": 5,
+      "parent": "G05F1/44",
+      "ja": "負荷と直列にトランジスタのあるもの［３］",
+      "en": "being transistors in series with the load",
+      "count": 547,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F1/45": {
+      "code": "G05F1/45",
+      "level": 5,
+      "parent": "G05F1/44",
+      "ja": "負荷と直列に制御整流器のあるもの［３］",
+      "en": "being controlled rectifiers in series with the load",
+      "count": 1161,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F1/455": {
+      "code": "G05F1/455",
+      "level": 6,
+      "parent": "G05F1/45",
+      "ja": "位相制御をもつもの［３］",
+      "en": "with phase control",
+      "count": 1854,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F1/46": {
+      "code": "G05F1/46",
+      "level": 2,
+      "parent": "G05F1/10",
+      "ja": "最終制御装置により実際に調整される変量が直流であるもの（Ｇ０５Ｆ１／６２５が優先）［４］",
+      "en": "wherein the variable actually regulated by the final control device is DC(<b>G05F1/625</b> takes precedence)",
+      "count": 7463,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F1/52": {
+      "code": "G05F1/52",
+      "level": 3,
+      "parent": "G05F1/46",
+      "ja": "最終制御装置として負荷と直列の放電管を使用するもの",
+      "en": "using discharge tubes in series with the load as final control devices",
+      "count": 889,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F1/54": {
+      "code": "G05F1/54",
+      "level": 4,
+      "parent": "G05F1/52",
+      "ja": "非調整電源によって付加的に制御されるもの",
+      "en": "additionally controlled by the unregulated supply",
+      "count": 15,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F1/56": {
+      "code": "G05F1/56",
+      "level": 3,
+      "parent": "G05F1/46",
+      "ja": "最終制御装置として負荷と直列の半導体装置を使用するもの",
+      "en": "using semiconductor devices in series with the load as final control devices",
+      "count": 27095,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F1/563": {
+      "code": "G05F1/563",
+      "level": 4,
+      "parent": "G05F1/56",
+      "ja": "２段の調整を含むもので，２段のうち少なくとも１段は出力レベルに応答するもの，例．粗および微調整［４］",
+      "en": "including two stages of regulation, at least one of which is output level responsive, e.g. coarse and fine regulation",
+      "count": 746,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F1/565": {
+      "code": "G05F1/565",
+      "level": 4,
+      "parent": "G05F1/56",
+      "ja": "出力，例．電流，電圧，力率，の偏差に応答する手段に加えて，制御装置または負荷の状態の検知を行うもの（Ｇ０５Ｆ１／５６３が優先）［４］",
+      "en": "sensing a condition of the system or its load in addition to means responsive to deviations in the output of the system, e.g. current, voltage, power factor(<b>G05F1/563</b> takes precedence)",
+      "count": 2412,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F1/567": {
+      "code": "G05F1/567",
+      "level": 5,
+      "parent": "G05F1/565",
+      "ja": "温度補償のためのもの［４］",
+      "en": "for temperature compensation",
+      "count": 2783,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F1/569": {
+      "code": "G05F1/569",
+      "level": 5,
+      "parent": "G05F1/565",
+      "ja": "保護のためのもの［４］",
+      "en": "for protection",
+      "count": 2139,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F1/571": {
+      "code": "G05F1/571",
+      "level": 6,
+      "parent": "G05F1/569",
+      "ja": "過電圧検出器を持つもの［４］",
+      "en": "with overvoltage detector",
+      "count": 607,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F1/573": {
+      "code": "G05F1/573",
+      "level": 6,
+      "parent": "G05F1/569",
+      "ja": "過電流検出器を持つもの［４］",
+      "en": "with overcurrent detector",
+      "count": 1584,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F1/575": {
+      "code": "G05F1/575",
+      "level": 4,
+      "parent": "G05F1/56",
+      "ja": "フイードバック回路によって特徴づけられたもの［４］",
+      "en": "characterised by the feedback circuit",
+      "count": 3026,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F1/577": {
+      "code": "G05F1/577",
+      "level": 4,
+      "parent": "G05F1/56",
+      "ja": "複数の負荷のためのもの［４］",
+      "en": "for plural loads",
+      "count": 671,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F1/585": {
+      "code": "G05F1/585",
+      "level": 5,
+      "parent": "G05F1/577",
+      "ja": "反対極性の電圧を与えるもの［４］",
+      "en": "providing voltages of opposite polarities",
+      "count": 333,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F1/59": {
+      "code": "G05F1/59",
+      "level": 4,
+      "parent": "G05F1/56",
+      "ja": "単一負荷のための最終制御装置として複数の半導体装置を含むもの［４］",
+      "en": "including plural semiconductor devices as final control devices for a single load",
+      "count": 918,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F1/595": {
+      "code": "G05F1/595",
+      "level": 5,
+      "parent": "G05F1/59",
+      "ja": "半導体装置が直列に結合されたもの［４］",
+      "en": "semiconductor devices connected in series",
+      "count": 270,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F1/607": {
+      "code": "G05F1/607",
+      "level": 3,
+      "parent": "G05F1/46",
+      "ja": "最終制御装置として負荷と並列の放電管を使用するもの［３］",
+      "en": "using discharge tubes in parallel with the load as final control devices",
+      "count": 105,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F1/61": {
+      "code": "G05F1/61",
+      "level": 4,
+      "parent": "G05F1/607",
+      "ja": "２段の調整を含むもので，２段のうち少なくとも１段は出力レベルに応答するもの［４］",
+      "en": "including two stages of regulation, at least one of which is output level responsive",
+      "count": 25,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F1/613": {
+      "code": "G05F1/613",
+      "level": 3,
+      "parent": "G05F1/46",
+      "ja": "最終制御装置として負荷と並列の半導体装置を使用するもの［３］",
+      "en": "using semiconductor devices in parallel with the load as final control devices",
+      "count": 1334,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F1/614": {
+      "code": "G05F1/614",
+      "level": 4,
+      "parent": "G05F1/613",
+      "ja": "２段の調整を含むもので，２段のうち少なくとも１段は出力レベルに応答するもの［４］",
+      "en": "including two stages of regulation, at least one of which is output level responsive",
+      "count": 69,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F1/618": {
+      "code": "G05F1/618",
+      "level": 3,
+      "parent": "G05F1/46",
+      "ja": "最終制御装置として負荷と直列および並列の半導体装置を使用するもの［４］",
+      "en": "using semiconductor devices in series and in parallel with the load as final control devices",
+      "count": 897,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F1/62": {
+      "code": "G05F1/62",
+      "level": 3,
+      "parent": "G05F1/46",
+      "ja": "降圧または昇圧直流電源を用いるもの",
+      "en": "using bucking or boosting DC sources",
+      "count": 535,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F1/625": {
+      "code": "G05F1/625",
+      "level": 2,
+      "parent": "G05F1/10",
+      "ja": "実際に調整される変量が交流または直流に無関係なもの［４］",
+      "en": "wherein it is irrelevant whether the variable actually regulated is AC or DC",
+      "count": 1135,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F1/63": {
+      "code": "G05F1/63",
+      "level": 3,
+      "parent": "G05F1/625",
+      "ja": "最終制御装置として負荷と直列の可変インピーダンスを使用するもの［４］",
+      "en": "using variable impedances in series with the load as final control devices",
+      "count": 100,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F1/635": {
+      "code": "G05F1/635",
+      "level": 4,
+      "parent": "G05F1/63",
+      "ja": "ホール効果素子，磁気抵抗またはサーミスタを使うもの［４］",
+      "en": "being Hall effect devices, magnetoresistors or thermistors",
+      "count": 33,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F1/644": {
+      "code": "G05F1/644",
+      "level": 4,
+      "parent": "G05F1/63",
+      "ja": "圧力感知抵抗器を使用するもの［４］",
+      "en": "being pressure-sensitive resistors",
+      "count": 23,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F1/648": {
+      "code": "G05F1/648",
+      "level": 4,
+      "parent": "G05F1/63",
+      "ja": "選択可能な複数の抵抗器を使用するもの［４］",
+      "en": "being plural resistors among which a selection is made",
+      "count": 96,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F1/652": {
+      "code": "G05F1/652",
+      "level": 3,
+      "parent": "G05F1/625",
+      "ja": "最終制御装置として負荷と並列の可変インピーダンスを使用するもの［４］",
+      "en": "using variable impedances in parallel with the load as final control devices",
+      "count": 180,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F1/656": {
+      "code": "G05F1/656",
+      "level": 3,
+      "parent": "G05F1/625",
+      "ja": "最終制御装置として負荷と直列および並列の可変インピーダンスを使用するもの［４］",
+      "en": "using variable impedances in series and in parallel with the load as final control devices",
+      "count": 151,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F1/66": {
+      "code": "G05F1/66",
+      "level": 1,
+      "parent": "G05F1/00",
+      "ja": "電力の調整",
+      "en": "Regulating electric power",
+      "count": 4236,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F1/67": {
+      "code": "G05F1/67",
+      "level": 2,
+      "parent": "G05F1/66",
+      "ja": "発電機から，例．太陽電池から，電力を最大利用するもの［４］",
+      "en": "to the maximum power available from a generator, e.g. from solar cell",
+      "count": 6130,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F1/70": {
+      "code": "G05F1/70",
+      "level": 1,
+      "parent": "G05F1/00",
+      "ja": "力率の調整；無効電流または無効電力の調整［３］",
+      "en": "Regulating power factor; Regulating reactive current or power",
+      "count": 4653,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F3/00": {
+      "code": "G05F3/00",
+      "level": 0,
+      "parent": "G05F",
+      "ja": "自己調整特性を有する一つの非制御素子，または複数の素子から成る組合せであって自己調整特性を有するものによって，電気的変量を調整する非反作用系",
+      "en": "Non-retroactive systems for regulating electric variables by using an uncontrolled element, or an uncontrolled combination of elements, such element or such combination having self-regulating properties",
+      "count": 468,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F3/02": {
+      "code": "G05F3/02",
+      "level": 1,
+      "parent": "G05F3/00",
+      "ja": "電流または電圧の調整",
+      "en": "Regulating voltage or current",
+      "count": 2886,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F3/04": {
+      "code": "G05F3/04",
+      "level": 2,
+      "parent": "G05F3/02",
+      "ja": "交流のもの",
+      "en": "wherein the variable is AC",
+      "count": 673,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F3/06": {
+      "code": "G05F3/06",
+      "level": 3,
+      "parent": "G05F3/04",
+      "ja": "飽和および非飽和のインダクタ装置を組み合わせて使用するもの，例．共振回路と組み合わされているもの",
+      "en": "using combinations of saturated and unsaturated inductive devices, e g. combined with resonant circuit",
+      "count": 1033,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F3/08": {
+      "code": "G05F3/08",
+      "level": 2,
+      "parent": "G05F3/02",
+      "ja": "直流のもの",
+      "en": "wherein the variable is DC",
+      "count": 1152,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F3/10": {
+      "code": "G05F3/10",
+      "level": 3,
+      "parent": "G05F3/08",
+      "ja": "非線形特性を有する非制御素子を使用するもの［４］",
+      "en": "using uncontrolled devices with non-linear characteristics",
+      "count": 201,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F3/12": {
+      "code": "G05F3/12",
+      "level": 4,
+      "parent": "G05F3/10",
+      "ja": "グロー放電管のあるもの",
+      "en": "being glow discharge tubes",
+      "count": 108,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F3/16": {
+      "code": "G05F3/16",
+      "level": 4,
+      "parent": "G05F3/10",
+      "ja": "半導体装置であるもの［３］",
+      "en": "being semiconductor devices",
+      "count": 1979,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F3/18": {
+      "code": "G05F3/18",
+      "level": 5,
+      "parent": "G05F3/16",
+      "ja": "ツエナダイオードを用いるもの［３］",
+      "en": "using Zener diodes",
+      "count": 892,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F3/20": {
+      "code": "G05F3/20",
+      "level": 5,
+      "parent": "G05F3/16",
+      "ja": "ダイオードトランジスタの組合せを用いるもの（Ｇ０５Ｆ３／１８が優先）［３］",
+      "en": "using diode-transistor combinations(<b>G05F3/18</b> takes precedence)",
+      "count": 1321,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F3/22": {
+      "code": "G05F3/22",
+      "level": 6,
+      "parent": "G05F3/20",
+      "ja": "トランジスタはバイポーラ型のみであるもの（Ｇ０５Ｆ３／２６，Ｇ０５Ｆ３／３０が優先）［４］",
+      "en": "wherein the transistors are of the bipolar type only(<b>G05F3/26</b>, <b>G05F3/30</b> take precedence)",
+      "count": 1148,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F3/24": {
+      "code": "G05F3/24",
+      "level": 6,
+      "parent": "G05F3/20",
+      "ja": "トランジスタは電界効果型のみであるもの（Ｇ０５Ｆ３／２６，Ｇ０５Ｆ３／３０が優先）［４］",
+      "en": "wherein the transistors are of the field-effect type only(<b>G05F3/26</b>, <b>G05F3/30</b> take precedence)",
+      "count": 3553,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F3/26": {
+      "code": "G05F3/26",
+      "level": 6,
+      "parent": "G05F3/20",
+      "ja": "カレントミラー［４］",
+      "en": "Current mirrors",
+      "count": 5481,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F3/28": {
+      "code": "G05F3/28",
+      "level": 7,
+      "parent": "G05F3/26",
+      "ja": "非線形電流増幅器と組み合わされたもの［４］",
+      "en": "combined with a non-linear current amplifier",
+      "count": 98,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F3/30": {
+      "code": "G05F3/30",
+      "level": 6,
+      "parent": "G05F3/20",
+      "ja": "異なる電流密度で働く２つのバイポーラトランジスタのベース・エミッタ電圧間の差を用いる調整器（Ｇ０５Ｆ３／２６が優先）［４］",
+      "en": "Regulators using the difference between the base-emitter voltages of two bipolar transistors operating at different current densities(<b>G05F3/26</b> takes precedence)",
+      "count": 2114,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F5/00": {
+      "code": "G05F5/00",
+      "level": 0,
+      "parent": "G05F",
+      "ja": "系の電気入力部において偏差検出を行ない，そして調整出力を得るように系内の装置を制御する電気的変量の調整系",
+      "en": "Systems for regulating electric variables by detecting deviations in the electric input to the system and thereby controlling a device within the system to obtain a regulated output",
+      "count": 2042,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F5/02": {
+      "code": "G05F5/02",
+      "level": 1,
+      "parent": "G05F5/00",
+      "ja": "電子管または３端子以上の半導体素子を使用する位相制御型スイッチング方式［４］",
+      "en": "Phase controlled switching using electronic tubes or three or more terminal semiconductive devices",
+      "count": 107,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F5/04": {
+      "code": "G05F5/04",
+      "level": 1,
+      "parent": "G05F5/00",
+      "ja": "最終制御装置として変圧器またはインダクタを使用するもの［４］",
+      "en": "using a transformer or inductor as the final control device",
+      "count": 76,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F5/06": {
+      "code": "G05F5/06",
+      "level": 2,
+      "parent": "G05F5/04",
+      "ja": "可飽和であるもの［４］",
+      "en": "saturable",
+      "count": 13,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F5/08": {
+      "code": "G05F5/08",
+      "level": 1,
+      "parent": "G05F5/00",
+      "ja": "線形作動最終制御装置を使用するもの［４］",
+      "en": "using a linearly acting final control device",
+      "count": 57,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    },
+    "G05F7/00": {
+      "code": "G05F7/00",
+      "level": 0,
+      "parent": "G05F",
+      "ja": "磁気的変量の調整［２００６．０１］",
+      "en": "Regulating magnetic variables",
+      "count": 542,
+      "sourceFile": "ipc_G05F.txt",
+      "kind": "ipc"
+    }
+  }
+};

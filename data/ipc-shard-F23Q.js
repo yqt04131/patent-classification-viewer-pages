@@ -1,0 +1,756 @@
+window.IPC_SHARD_F23Q = {
+  "generatedAt": "2026-03-20T02:17:46.901Z",
+  "total": 75,
+  "entries": {
+    "F23Q": {
+      "code": "F23Q",
+      "level": 0,
+      "parent": "F23",
+      "ja": "点火（マッチ点火用装置Ａ２４Ｆ；化学的点火器Ｃ０６Ｃ９／００）；消火装置<br><br><b><ul>サブクラス内の索引</ul></b><br>点火器<br>機械的なもの　１／００<br>電気火花を用いるもの　３／００，５／００<br>白熱するものを用いるもの　７／００<br>種火をもつもの　９／００<br>触媒によるもの　１１／００<br>その他のもの　１３／００<br>遠隔点火　２１／００<br>試験　２３／００<br>燃料入りライタ　２／００，３／０１，７／００<br>消火装置　２５／００",
+      "en": "IGNITION(devices for igniting matches <b>A24F</b>;  chemical igniters <b>C06C9/00</b>);EXTINGUISHING DEVICES; <br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">IGNITERS<tr><td width=\"70%\">Mechanical </td><td><b><b>1/00</b></b></td></tr></tr><tr><td width=\"70%\">Using electric sparks </td><td><b><b>3/00</b>, <b>5/00</b></b></td></tr></tr><tr><td width=\"70%\">Incandescent </td><td><b><b>7/00</b></b></td></tr></tr><tr><td width=\"70%\">With pilot flame </td><td><b><b>9/00</b></b></td></tr></tr><tr><td width=\"70%\">By catalysis </td><td><b><b>11/00</b></b></td></tr></tr><tr><td width=\"70%\">Other </td><td><b><b>13/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">REMOTE IGNITION </td><td><b><b>21/00</b></b></td></tr></tr><tr><td width=\"70%\">TESTING </td><td><b><b>23/00</b></b></td></tr></tr><tr><td width=\"70%\">LIGHTERS CONTAINING FUEL </td><td><b><b>2/00</b>, <b>3/01</b>, <b>7/00</b></b></td></tr></tr><tr><td width=\"70%\">EXTINGUISHING DEVICES </td><td><b><b>25/00</b></b></td></tr></tr></table>",
+      "count": 704,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F23": {
+      "code": "F23",
+      "level": 0,
+      "parent": "F",
+      "ja": "燃焼装置；燃焼方法<br><br><b><ul>注</ul></b><br>このクラスにおいては，下記の用語は以下に示す意味で用いる：<br>―“燃焼”は，可燃物質と分子酸素，例．空気中の，との間の発熱を伴う連鎖的な化学反応を意味し，大半の場合に炎または白熱の形式で光を発生させる；<br>―“燃焼室”は，それ自体で維持される火または炎を確立するために燃料がその中で燃焼するものであって，その火または炎を取り囲んでいる室を意味する；<br>―“バーナ”は，それ自体で維持される炎を発生するために流動性燃料が，または空気中に浮遊する固体燃料が，燃焼する燃焼空間へ導かれる装置を意味する；<br>―“空気”は，遊離した酸素を含み，および燃焼を促進または維持させ得る気体の混合物を意味する。",
+      "en": "COMBUSTION APPARATUS; COMBUSTION PROCESSES; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this class, the following terms or expressions are used with the meanings indicated: <ul><li>\"combustion\" means a heat-producing sequence of chemical reactions between a burnable substance and molecular oxygen, e.g. in air, in most cases generating light in the form of flames or a glow;</li><li>\"combustion chamber\" means a chamber in which fuel is burned to establish a self-supporting fire or flame and which surrounds that fire or flame;</li><li>\"burner\" means a device by which fluid fuel, or solid fuel suspended in air, is passed to a combustion space where it burns to produce a self-supporting flame;</li><li>\"air\" means a mixture of gases containing free oxygen and able to promote or support combustion.</li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F": {
+      "code": "F",
+      "level": 0,
+      "parent": null,
+      "ja": "機械工学；照明；加熱；武器；爆破",
+      "en": "MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F23Q1/00": {
+      "code": "F23Q1/00",
+      "level": 0,
+      "parent": "F23Q",
+      "ja": "機械的点火（燃料入りライタＦ２３Ｑ２／００；マッチＣ０６Ｆ）",
+      "en": "Mechanical ignition(lighters containing fuel <b>F23Q2/00</b>; matches <b>C06F</b>)",
+      "count": 218,
+      "sourceFile": "ipc_F23Q.txt",
+      "kind": "ipc"
+    },
+    "F23Q1/02": {
+      "code": "F23Q1/02",
+      "level": 1,
+      "parent": "F23Q1/00",
+      "ja": "摩擦または衝撃作用を用いるもの",
+      "en": "using friction or shock effects",
+      "count": 262,
+      "sourceFile": "ipc_F23Q.txt",
+      "kind": "ipc"
+    },
+    "F23Q1/04": {
+      "code": "F23Q1/04",
+      "level": 2,
+      "parent": "F23Q1/02",
+      "ja": "燃料調節部に連動する部分に配置したもの，例．ガス調理器の栓によるもの",
+      "en": "on a part moved by the fuel-controlling member, e.g. by a tap on a gas cooker",
+      "count": 76,
+      "sourceFile": "ipc_F23Q.txt",
+      "kind": "ipc"
+    },
+    "F23Q1/06": {
+      "code": "F23Q1/06",
+      "level": 2,
+      "parent": "F23Q1/02",
+      "ja": "可搬形点火器",
+      "en": "Portable igniters",
+      "count": 346,
+      "sourceFile": "ipc_F23Q.txt",
+      "kind": "ipc"
+    },
+    "F23Q2/00": {
+      "code": "F23Q2/00",
+      "level": 0,
+      "parent": "F23Q",
+      "ja": "燃料入りライタ，例．たばこ用",
+      "en": "Lighters containing fuel, e.g. for cigarettes",
+      "count": 482,
+      "sourceFile": "ipc_F23Q.txt",
+      "kind": "ipc"
+    },
+    "F23Q2/02": {
+      "code": "F23Q2/02",
+      "level": 1,
+      "parent": "F23Q2/00",
+      "ja": "液体燃料によるライタ",
+      "en": "Lighters with liquid fuel",
+      "count": 708,
+      "sourceFile": "ipc_F23Q.txt",
+      "kind": "ipc"
+    },
+    "F23Q2/04": {
+      "code": "F23Q2/04",
+      "level": 2,
+      "parent": "F23Q2/02",
+      "ja": "セリウム―鉄合金と燈心をもつもの",
+      "en": "with cerium-iron alloy and wick",
+      "count": 14,
+      "sourceFile": "ipc_F23Q.txt",
+      "kind": "ipc"
+    },
+    "F23Q2/06": {
+      "code": "F23Q2/06",
+      "level": 3,
+      "parent": "F23Q2/04",
+      "ja": "摩擦車をもつもの",
+      "en": "with friction wheel",
+      "count": 653,
+      "sourceFile": "ipc_F23Q.txt",
+      "kind": "ipc"
+    },
+    "F23Q2/08": {
+      "code": "F23Q2/08",
+      "level": 4,
+      "parent": "F23Q2/06",
+      "ja": "カバーのばね作動により点火するもの",
+      "en": "with ignition by spring action of the cover",
+      "count": 1080,
+      "sourceFile": "ipc_F23Q.txt",
+      "kind": "ipc"
+    },
+    "F23Q2/10": {
+      "code": "F23Q2/10",
+      "level": 3,
+      "parent": "F23Q2/04",
+      "ja": "他の摩擦部材をもつもの",
+      "en": "with other friction member",
+      "count": 56,
+      "sourceFile": "ipc_F23Q.txt",
+      "kind": "ipc"
+    },
+    "F23Q2/12": {
+      "code": "F23Q2/12",
+      "level": 2,
+      "parent": "F23Q2/02",
+      "ja": "セリウム―鉄合金をもち燈心をもたないもの",
+      "en": "with cerium-iron alloy without wick",
+      "count": 2,
+      "sourceFile": "ipc_F23Q.txt",
+      "kind": "ipc"
+    },
+    "F23Q2/14": {
+      "code": "F23Q2/14",
+      "level": 2,
+      "parent": "F23Q2/02",
+      "ja": "セリウム―鉄合金を用いかつ突きまたは押して接触点火するもの",
+      "en": "with cerium-iron alloy and torch ignited by striking or pushing",
+      "count": 325,
+      "sourceFile": "ipc_F23Q.txt",
+      "kind": "ipc"
+    },
+    "F23Q2/16": {
+      "code": "F23Q2/16",
+      "level": 1,
+      "parent": "F23Q2/00",
+      "ja": "ガス状燃料，例．液相で貯蔵される気体，によるライタ",
+      "en": "Lighters with gaseous fuel, e.g. the gas being stored in liquid phase",
+      "count": 6419,
+      "sourceFile": "ipc_F23Q.txt",
+      "kind": "ipc"
+    },
+    "F23Q2/167": {
+      "code": "F23Q2/167",
+      "level": 2,
+      "parent": "F23Q2/16",
+      "ja": "炎が調節可能なもの［３］",
+      "en": "with adjustable flame",
+      "count": 849,
+      "sourceFile": "ipc_F23Q.txt",
+      "kind": "ipc"
+    },
+    "F23Q2/173": {
+      "code": "F23Q2/173",
+      "level": 3,
+      "parent": "F23Q2/167",
+      "ja": "そのための弁［３］",
+      "en": "Valves therefor",
+      "count": 729,
+      "sourceFile": "ipc_F23Q.txt",
+      "kind": "ipc"
+    },
+    "F23Q2/18": {
+      "code": "F23Q2/18",
+      "level": 1,
+      "parent": "F23Q2/00",
+      "ja": "固体燃料によるライタ",
+      "en": "Lighters with solid fuel",
+      "count": 128,
+      "sourceFile": "ipc_F23Q.txt",
+      "kind": "ipc"
+    },
+    "F23Q2/20": {
+      "code": "F23Q2/20",
+      "level": 2,
+      "parent": "F23Q2/18",
+      "ja": "セリウム―鉄合金と摩擦車をもつもの",
+      "en": "with cerium-iron alloy and friction wheel",
+      "count": 12,
+      "sourceFile": "ipc_F23Q.txt",
+      "kind": "ipc"
+    },
+    "F23Q2/22": {
+      "code": "F23Q2/22",
+      "level": 2,
+      "parent": "F23Q2/18",
+      "ja": "セリウム―鉄合金とほくちをもつもの",
+      "en": "with cerium-iron alloy and tinder",
+      "count": 58,
+      "sourceFile": "ipc_F23Q.txt",
+      "kind": "ipc"
+    },
+    "F23Q2/24": {
+      "code": "F23Q2/24",
+      "level": 2,
+      "parent": "F23Q2/18",
+      "ja": "燃えやすい部分をもつ点火用小球または小片をもつもの",
+      "en": "with ignition pills or strips with inflammable parts",
+      "count": 77,
+      "sourceFile": "ipc_F23Q.txt",
+      "kind": "ipc"
+    },
+    "F23Q2/26": {
+      "code": "F23Q2/26",
+      "level": 2,
+      "parent": "F23Q2/18",
+      "ja": "液体燃料ライタと組み合わせたもの",
+      "en": "combined with liquid-fuel lighters",
+      "count": 19,
+      "sourceFile": "ipc_F23Q.txt",
+      "kind": "ipc"
+    },
+    "F23Q2/28": {
+      "code": "F23Q2/28",
+      "level": 1,
+      "parent": "F23Q2/00",
+      "ja": "燃料を電気的に点火することに特徴があるライタ",
+      "en": "Lighters characterised by electrical ignition of the fuel",
+      "count": 4505,
+      "sourceFile": "ipc_F23Q.txt",
+      "kind": "ipc"
+    },
+    "F23Q2/30": {
+      "code": "F23Q2/30",
+      "level": 1,
+      "parent": "F23Q2/00",
+      "ja": "燃料の触媒点火に特徴があるライタ",
+      "en": "Lighters characterised by catalytic ignition of fuel",
+      "count": 324,
+      "sourceFile": "ipc_F23Q.txt",
+      "kind": "ipc"
+    },
+    "F23Q2/32": {
+      "code": "F23Q2/32",
+      "level": 1,
+      "parent": "F23Q2/00",
+      "ja": "他の目的物と結合されたことに特徴があるライタ（喫煙者用の道具に結合したものＡ２４Ｆ）",
+      "en": "Lighters characterised by being combined with other objects(combinations with smokers' equipment <b>A24F</b>)",
+      "count": 2610,
+      "sourceFile": "ipc_F23Q.txt",
+      "kind": "ipc"
+    },
+    "F23Q2/34": {
+      "code": "F23Q2/34",
+      "level": 1,
+      "parent": "F23Q2/00",
+      "ja": "部分品または付属品",
+      "en": "Component parts or accessories",
+      "count": 4973,
+      "sourceFile": "ipc_F23Q.txt",
+      "kind": "ipc"
+    },
+    "F23Q2/36": {
+      "code": "F23Q2/36",
+      "level": 2,
+      "parent": "F23Q2/34",
+      "ja": "外箱",
+      "en": "Casings",
+      "count": 1634,
+      "sourceFile": "ipc_F23Q.txt",
+      "kind": "ipc"
+    },
+    "F23Q2/38": {
+      "code": "F23Q2/38",
+      "level": 3,
+      "parent": "F23Q2/36",
+      "ja": "ライタ石または道具類の容器をもつもの",
+      "en": "with containers for flints or tools",
+      "count": 107,
+      "sourceFile": "ipc_F23Q.txt",
+      "kind": "ipc"
+    },
+    "F23Q2/40": {
+      "code": "F23Q2/40",
+      "level": 2,
+      "parent": "F23Q2/34",
+      "ja": "カバーの止め具",
+      "en": "Cover fastenings",
+      "count": 688,
+      "sourceFile": "ipc_F23Q.txt",
+      "kind": "ipc"
+    },
+    "F23Q2/42": {
+      "code": "F23Q2/42",
+      "level": 2,
+      "parent": "F23Q2/34",
+      "ja": "燃料容器；燃料容器の閉鎖",
+      "en": "Fuel containers; Closures for fuel containers",
+      "count": 1419,
+      "sourceFile": "ipc_F23Q.txt",
+      "kind": "ipc"
+    },
+    "F23Q2/44": {
+      "code": "F23Q2/44",
+      "level": 2,
+      "parent": "F23Q2/34",
+      "ja": "燈心；燈心の案内具または止具",
+      "en": "Wicks; Wick guides or fastenings",
+      "count": 261,
+      "sourceFile": "ipc_F23Q.txt",
+      "kind": "ipc"
+    },
+    "F23Q2/46": {
+      "code": "F23Q2/46",
+      "level": 2,
+      "parent": "F23Q2/34",
+      "ja": "摩擦車；摩擦車の配置",
+      "en": "Friction wheels; Arrangement of friction wheels",
+      "count": 1078,
+      "sourceFile": "ipc_F23Q.txt",
+      "kind": "ipc"
+    },
+    "F23Q2/48": {
+      "code": "F23Q2/48",
+      "level": 2,
+      "parent": "F23Q2/34",
+      "ja": "ライタ石（組成物，製造Ｃ０６Ｃ１５／００）；ライタ石の支持部または圧接機構",
+      "en": "Flints(composition, manufacture <b>C06C15/00</b>);Guides for, or arrangements of, flints",
+      "count": 699,
+      "sourceFile": "ipc_F23Q.txt",
+      "kind": "ipc"
+    },
+    "F23Q2/50": {
+      "code": "F23Q2/50",
+      "level": 2,
+      "parent": "F23Q2/34",
+      "ja": "保護カバー",
+      "en": "Protecting coverings",
+      "count": 724,
+      "sourceFile": "ipc_F23Q.txt",
+      "kind": "ipc"
+    },
+    "F23Q2/52": {
+      "code": "F23Q2/52",
+      "level": 2,
+      "parent": "F23Q2/34",
+      "ja": "充てん装置",
+      "en": "Filling devices",
+      "count": 906,
+      "sourceFile": "ipc_F23Q.txt",
+      "kind": "ipc"
+    },
+    "F23Q3/00": {
+      "code": "F23Q3/00",
+      "level": 0,
+      "parent": "F23Q",
+      "ja": "電気的に生じる火花を用いる点火（燃料入りライタＦ２３Ｑ２／２８；火花点火プラグＨ０１Ｔ１３／００）",
+      "en": "Ignition using electrically-produced sparks(lighters containing fuel <b>F23Q2/28</b>; sparking-plugs <b>H01T13/00</b>)",
+      "count": 11364,
+      "sourceFile": "ipc_F23Q.txt",
+      "kind": "ipc"
+    },
+    "F23Q3/01": {
+      "code": "F23Q3/01",
+      "level": 1,
+      "parent": "F23Q3/00",
+      "ja": "手持ちライタ，例．たばこ用",
+      "en": "Hand-held lighters, e.g. for cigarettes",
+      "count": 940,
+      "sourceFile": "ipc_F23Q.txt",
+      "kind": "ipc"
+    },
+    "F23Q5/00": {
+      "code": "F23Q5/00",
+      "level": 0,
+      "parent": "F23Q",
+      "ja": "断続点火，すなわち接触電極が離れる際にそれらの間に発生する火花によるもの",
+      "en": "Make-and-break ignition, i.e. with spark generated between electrodes by breaking contact therebetween",
+      "count": 560,
+      "sourceFile": "ipc_F23Q.txt",
+      "kind": "ipc"
+    },
+    "F23Q7/00": {
+      "code": "F23Q7/00",
+      "level": 0,
+      "parent": "F23Q",
+      "ja": "白熱点火；電熱を利用する点火，例．たばこ用ライタ；電気的に加熱されるグロープラグ",
+      "en": "Incandescent ignition; Ignition using electrically-produced heat, e.g. lighters for cigarettes; Electrically-heated glowing plugs",
+      "count": 6144,
+      "sourceFile": "ipc_F23Q.txt",
+      "kind": "ipc"
+    },
+    "F23Q7/02": {
+      "code": "F23Q7/02",
+      "level": 1,
+      "parent": "F23Q7/00",
+      "ja": "固体燃料点火用のもの",
+      "en": "for igniting solid fuel",
+      "count": 1116,
+      "sourceFile": "ipc_F23Q.txt",
+      "kind": "ipc"
+    },
+    "F23Q7/04": {
+      "code": "F23Q7/04",
+      "level": 2,
+      "parent": "F23Q7/02",
+      "ja": "燃料へ熱を送る送風機をもつもの",
+      "en": "with fans for transfer of heat to fuel",
+      "count": 257,
+      "sourceFile": "ipc_F23Q.txt",
+      "kind": "ipc"
+    },
+    "F23Q7/06": {
+      "code": "F23Q7/06",
+      "level": 1,
+      "parent": "F23Q7/00",
+      "ja": "流体燃料バーナと構造的に結合されている点火器（燃料入りライタＦ２３Ｑ２／００）",
+      "en": "Igniters structurally associated with fluid-fuel burners(lighters containing fuel <b>F23Q2/00</b>)",
+      "count": 615,
+      "sourceFile": "ipc_F23Q.txt",
+      "kind": "ipc"
+    },
+    "F23Q7/08": {
+      "code": "F23Q7/08",
+      "level": 2,
+      "parent": "F23Q7/06",
+      "ja": "液体燃料の気化および点火用のもの，例．暴風雨用カンテラ",
+      "en": "for evaporating and igniting liquid fuel, e.g. in hurricane lanterns",
+      "count": 1217,
+      "sourceFile": "ipc_F23Q.txt",
+      "kind": "ipc"
+    },
+    "F23Q7/10": {
+      "code": "F23Q7/10",
+      "level": 2,
+      "parent": "F23Q7/06",
+      "ja": "気体燃料用，例．溶接用",
+      "en": "for gaseous fuel, e.g. in welding appliances",
+      "count": 599,
+      "sourceFile": "ipc_F23Q.txt",
+      "kind": "ipc"
+    },
+    "F23Q7/12": {
+      "code": "F23Q7/12",
+      "level": 3,
+      "parent": "F23Q7/10",
+      "ja": "気体調節装置により作動されるもの",
+      "en": "actuated by gas-controlling device",
+      "count": 230,
+      "sourceFile": "ipc_F23Q.txt",
+      "kind": "ipc"
+    },
+    "F23Q7/14": {
+      "code": "F23Q7/14",
+      "level": 1,
+      "parent": "F23Q7/00",
+      "ja": "可搬形点火器",
+      "en": "Portable igniters",
+      "count": 408,
+      "sourceFile": "ipc_F23Q.txt",
+      "kind": "ipc"
+    },
+    "F23Q7/16": {
+      "code": "F23Q7/16",
+      "level": 2,
+      "parent": "F23Q7/14",
+      "ja": "内蔵電池をもつもの",
+      "en": "with built-in battery",
+      "count": 1019,
+      "sourceFile": "ipc_F23Q.txt",
+      "kind": "ipc"
+    },
+    "F23Q7/18": {
+      "code": "F23Q7/18",
+      "level": 2,
+      "parent": "F23Q7/14",
+      "ja": "内蔵発電機をもつもの",
+      "en": "with built-in generator",
+      "count": 110,
+      "sourceFile": "ipc_F23Q.txt",
+      "kind": "ipc"
+    },
+    "F23Q7/20": {
+      "code": "F23Q7/20",
+      "level": 2,
+      "parent": "F23Q7/14",
+      "ja": "内蔵変圧器をもつもの",
+      "en": "with built-in mains transformer",
+      "count": 31,
+      "sourceFile": "ipc_F23Q.txt",
+      "kind": "ipc"
+    },
+    "F23Q7/22": {
+      "code": "F23Q7/22",
+      "level": 1,
+      "parent": "F23Q7/00",
+      "ja": "細部",
+      "en": "Details",
+      "count": 2527,
+      "sourceFile": "ipc_F23Q.txt",
+      "kind": "ipc"
+    },
+    "F23Q7/24": {
+      "code": "F23Q7/24",
+      "level": 2,
+      "parent": "F23Q7/22",
+      "ja": "安全装置",
+      "en": "Safety arrangements",
+      "count": 526,
+      "sourceFile": "ipc_F23Q.txt",
+      "kind": "ipc"
+    },
+    "F23Q7/26": {
+      "code": "F23Q7/26",
+      "level": 3,
+      "parent": "F23Q7/24",
+      "ja": "再点火のための装置",
+      "en": "Provision for re-ignition",
+      "count": 44,
+      "sourceFile": "ipc_F23Q.txt",
+      "kind": "ipc"
+    },
+    "F23Q9/00": {
+      "code": "F23Q9/00",
+      "level": 0,
+      "parent": "F23Q",
+      "ja": "種火による点火",
+      "en": "Ignition by a pilot flame",
+      "count": 3004,
+      "sourceFile": "ipc_F23Q.txt",
+      "kind": "ipc"
+    },
+    "F23Q9/02": {
+      "code": "F23Q9/02",
+      "level": 1,
+      "parent": "F23Q9/00",
+      "ja": "主燃料の供給に連動しないもの",
+      "en": "without interlock with main fuel supply",
+      "count": 407,
+      "sourceFile": "ipc_F23Q.txt",
+      "kind": "ipc"
+    },
+    "F23Q9/04": {
+      "code": "F23Q9/04",
+      "level": 2,
+      "parent": "F23Q9/02",
+      "ja": "上向きバーナ用，例．ガス調理器のバーナ",
+      "en": "for upright burners, e.g. gas-cooker burners",
+      "count": 487,
+      "sourceFile": "ipc_F23Q.txt",
+      "kind": "ipc"
+    },
+    "F23Q9/06": {
+      "code": "F23Q9/06",
+      "level": 2,
+      "parent": "F23Q9/02",
+      "ja": "下向きバーナ用，例．ガス燈",
+      "en": "for inverted burners, e.g. gas lamps",
+      "count": 25,
+      "sourceFile": "ipc_F23Q.txt",
+      "kind": "ipc"
+    },
+    "F23Q9/08": {
+      "code": "F23Q9/08",
+      "level": 1,
+      "parent": "F23Q9/00",
+      "ja": "主燃料供給と連動するもの",
+      "en": "with interlock with main fuel supply",
+      "count": 526,
+      "sourceFile": "ipc_F23Q.txt",
+      "kind": "ipc"
+    },
+    "F23Q9/10": {
+      "code": "F23Q9/10",
+      "level": 2,
+      "parent": "F23Q9/08",
+      "ja": "種火および主バーナへの燃料供給の順序を定めるもの",
+      "en": "to determine the sequence of supply of fuel to pilot and main burners",
+      "count": 706,
+      "sourceFile": "ipc_F23Q.txt",
+      "kind": "ipc"
+    },
+    "F23Q9/12": {
+      "code": "F23Q9/12",
+      "level": 2,
+      "parent": "F23Q9/08",
+      "ja": "種火の存在によって主バーナへの供給を許すもの",
+      "en": "to permit the supply to the main burner in dependence upon existence of pilot flame",
+      "count": 887,
+      "sourceFile": "ipc_F23Q.txt",
+      "kind": "ipc"
+    },
+    "F23Q9/14": {
+      "code": "F23Q9/14",
+      "level": 3,
+      "parent": "F23Q9/12",
+      "ja": "電気的手段，例．感光素子によるもの，を用いるもの",
+      "en": "using electric means, e.g. by light-sensitive elements",
+      "count": 642,
+      "sourceFile": "ipc_F23Q.txt",
+      "kind": "ipc"
+    },
+    "F23Q11/00": {
+      "code": "F23Q11/00",
+      "level": 0,
+      "parent": "F23Q",
+      "ja": "触媒点火器の配置",
+      "en": "Arrangement of catalytic igniters",
+      "count": 152,
+      "sourceFile": "ipc_F23Q.txt",
+      "kind": "ipc"
+    },
+    "F23Q11/04": {
+      "code": "F23Q11/04",
+      "level": 1,
+      "parent": "F23Q11/00",
+      "ja": "バーナに配置したもの",
+      "en": "at the burner",
+      "count": 66,
+      "sourceFile": "ipc_F23Q.txt",
+      "kind": "ipc"
+    },
+    "F23Q11/06": {
+      "code": "F23Q11/06",
+      "level": 1,
+      "parent": "F23Q11/00",
+      "ja": "バーナからはなして，例．ランプのチムニに，配置したもの",
+      "en": "remote from the burner, e.g. on the chimney of a lamp",
+      "count": 6,
+      "sourceFile": "ipc_F23Q.txt",
+      "kind": "ipc"
+    },
+    "F23Q11/08": {
+      "code": "F23Q11/08",
+      "level": 1,
+      "parent": "F23Q11/00",
+      "ja": "燃料調節部に連動する部分に配置したもの",
+      "en": "on a part moved by the fuel-controlling member",
+      "count": 4,
+      "sourceFile": "ipc_F23Q.txt",
+      "kind": "ipc"
+    },
+    "F23Q11/10": {
+      "code": "F23Q11/10",
+      "level": 2,
+      "parent": "F23Q11/08",
+      "ja": "さらに点火後に炎の外へ移動するもの",
+      "en": "and moving out of the flame after ignition",
+      "count": 2,
+      "sourceFile": "ipc_F23Q.txt",
+      "kind": "ipc"
+    },
+    "F23Q13/00": {
+      "code": "F23Q13/00",
+      "level": 0,
+      "parent": "F23Q",
+      "ja": "他に分類されない点火",
+      "en": "Ignition not otherwise provided for",
+      "count": 2209,
+      "sourceFile": "ipc_F23Q.txt",
+      "kind": "ipc"
+    },
+    "F23Q13/02": {
+      "code": "F23Q13/02",
+      "level": 1,
+      "parent": "F23Q13/00",
+      "ja": "ガスバーナ，例．ガスポーカ，を用いるもの",
+      "en": "using gas burners, e.g. gas pokers",
+      "count": 756,
+      "sourceFile": "ipc_F23Q.txt",
+      "kind": "ipc"
+    },
+    "F23Q13/04": {
+      "code": "F23Q13/04",
+      "level": 1,
+      "parent": "F23Q13/00",
+      "ja": "可搬形バーナ，例．トーチ，火皿，を用いるもの",
+      "en": "using portable burners, e.g. torches, fire pots",
+      "count": 316,
+      "sourceFile": "ipc_F23Q.txt",
+      "kind": "ipc"
+    },
+    "F23Q21/00": {
+      "code": "F23Q21/00",
+      "level": 0,
+      "parent": "F23Q",
+      "ja": "遠隔点火装置",
+      "en": "Devices for effecting ignition from a remote location",
+      "count": 1149,
+      "sourceFile": "ipc_F23Q.txt",
+      "kind": "ipc"
+    },
+    "F23Q23/00": {
+      "code": "F23Q23/00",
+      "level": 0,
+      "parent": "F23Q",
+      "ja": "点火装置の試験（内燃機関特有のものＦ０２Ｐ１７／００；火花点火プラグの試験Ｈ０１Ｔ１３／５８）",
+      "en": "Testing of ignition installations(peculiar to internal-combustion engines <b>F02P17/00</b>; testing of sparking plugs <b>H01T13/58</b>)",
+      "count": 274,
+      "sourceFile": "ipc_F23Q.txt",
+      "kind": "ipc"
+    },
+    "F23Q23/02": {
+      "code": "F23Q23/02",
+      "level": 1,
+      "parent": "F23Q23/00",
+      "ja": "点火時期の試験",
+      "en": "Testing of ignition timing",
+      "count": 22,
+      "sourceFile": "ipc_F23Q.txt",
+      "kind": "ipc"
+    },
+    "F23Q23/08": {
+      "code": "F23Q23/08",
+      "level": 1,
+      "parent": "F23Q23/00",
+      "ja": "構成部分の試験",
+      "en": "Testing of components",
+      "count": 67,
+      "sourceFile": "ipc_F23Q.txt",
+      "kind": "ipc"
+    },
+    "F23Q23/10": {
+      "code": "F23Q23/10",
+      "level": 2,
+      "parent": "F23Q23/08",
+      "ja": "電気的に行なうもの",
+      "en": "electrically",
+      "count": 80,
+      "sourceFile": "ipc_F23Q.txt",
+      "kind": "ipc"
+    },
+    "F23Q25/00": {
+      "code": "F23Q25/00",
+      "level": 0,
+      "parent": "F23Q",
+      "ja": "消火装置，例．ろうそくの吹き消し用",
+      "en": "Extinguishing devices, e.g. for blowing-out or snuffing candle flames",
+      "count": 4506,
+      "sourceFile": "ipc_F23Q.txt",
+      "kind": "ipc"
+    }
+  }
+};

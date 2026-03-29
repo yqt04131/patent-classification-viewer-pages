@@ -1,0 +1,746 @@
+{
+  "generatedAt": "2026-03-20T02:17:46.090Z",
+  "total": 74,
+  "entries": {
+    "B21F": {
+      "code": "B21F",
+      "level": 0,
+      "parent": "B21",
+      "ja": "金属線材の加工または処理（金属の圧延Ｂ２１Ｂ１／１６；引抜によるもの，材料を実質的に除去しない金属加工に関連して行う補助操作Ｂ２１Ｃ）<br><br><b><ul>サブクラス内の索引</ul></b><br>遂行される操作によって特徴づけられる線材の加工<br>曲げ加工，矯正；コイル状化；ねじり　１／００；３／００；７／００<br>据込加工，ストレイニング　５／００，９／００<br>切断加工，分断加工，接合　１１／００，１３／００，１５／００<br>線材で包被または補強した物品　１７／００<br>線材の被覆　１９／００<br>その他の処理　９９／００<br>装置への線材の供給　２３／００<br>特殊な製品を特徴とする線材の加工<br>有刺線；網織物，柵，線材構造物　２５／００；２７／００～３３／００<br>ばね，リング　３５／００，３７／００<br>その他の物品　３９／００～４５／００",
+      "en": "WORKING OR PROCESSING OF METAL WIRE  (rolling of metal wire <b>B21B1/16</b>;   by drawing, auxiliary operations used in connection with metal-working without essentially removing material <b>B21C</b>);<br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">WIRE WORKING CHARACTERISED BY OPERATIONS PERFORMED<tr><td width=\"70%\">Bending, straightening; coiling; twisting </td><td><b><b>1/00</b>; <b>3/00</b>; <b>7/00</b></b></td></tr></tr><tr><td width=\"70%\">Upsetting, straining </td><td><b><b>5/00</b>, <b>9/00</b></b></td></tr></tr><tr><td width=\"70%\">Cutting, splitting, connecting </td><td><b><b>11/00</b>, <b>13/00</b>, <b>15/00</b></b></td></tr></tr><tr><td width=\"70%\">Articles jacketed or reinforced with wire </td><td><b><b>17/00</b></b></td></tr></tr><tr><td width=\"70%\">Coating of wire </td><td><b><b>19/00</b></b></td></tr></tr><tr><td width=\"70%\">Other treatments </td><td><b><b>99/00</b></b></td></tr></tr><tr><td width=\"70%\">Feeding wire into apparatus </td><td><b><b>23/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">WIRE WORKING CHARACTERISED BY THE PARTICULAR ARTICLES PRODUCED<tr><td width=\"70%\">Barbed wire;network, fencing, wire fabrics </td><td><b><b>25/00</b>;   <b>27/00 to 33/00</b> </b></td></tr></tr><tr><td width=\"70%\">Springs, rings </td><td><b><b>35/00</b>, <b>37/00</b></b></td></tr></tr><tr><td width=\"70%\">other articles </td><td><b><b>39/00 to 45/00</b> </b></td></tr></tr></tr></table>",
+      "count": 654,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B21": {
+      "code": "B21",
+      "level": 0,
+      "parent": "B",
+      "ja": "本質的には材料の除去が行なわれない機械的金属加工；金属の打抜き<br><br><b><ul>注</ul></b><br>（１）このクラスは，以下のものを包含する：<br>―金属材料の加工；［２０１５．０１］<br>―適用される方法が金属材料加工に用いられるものと類似し且つ他の分類箇所に包含されないものに限る非金属材料の加工。［２０１５．０１］<br>（２）このクラスは，以下のものを包含しない：<br>―クラスＢ２１の異ったサブクラスによって包含される作業の組合せ，これはサブクラスＢ２３Ｐに包含される；<br>―クラスＢ２１のどれか特定のサブクラスによって包含される作業と，他のクラスによって包含される作業，例．材料の除去を伴う作業，の組合せ，これもサブクラスＢ２３Ｐに包含される。ただし，もし他のクラスによって包含される作業がＢ２１の単一のサブクラスに適正に包含される作業に対し補助的である場合は，その組合せはＢ２１のサブクラスに分類される。",
+      "en": "MECHANICAL METAL-WORKING WITHOUT ESSENTIALLY REMOVING MATERIAL; PUNCHING METAL; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This class <u>covers</u>: <ul><li>working of metallic materials;</li><li>working of non-metallic materials, provided that the methods applied are similar to those used in metal-working and not provided for elsewhere.</li></ul></li><li>This class <u>does not cover</u>: <ul><li>combinations of operations covered by different subclasses of class <b>B21</b>, which are covered by subclass <b>B23P</b>;</li><li>combinations of operations covered by any particular subclass of class <b>B21</b> with operations covered by other classes, e.g. with operations involving removal of material, which are also covered by subclass <b>B23P</b>, except that if the operations covered by the other classes are subsidiary to the operations properly covered by a single subclass of <b>B21</b> the combination is classified in that subclass.</li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B": {
+      "code": "B",
+      "level": 0,
+      "parent": null,
+      "ja": "処理操作；運輸",
+      "en": "PERFORMING OPERATIONS; TRANSPORTING",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B21F1/00": {
+      "code": "B21F1/00",
+      "level": 0,
+      "parent": "B21F",
+      "ja": "コイル状化以外の線材の曲げ加工；線材の矯正",
+      "en": "Bending wire other than coiling; Straightening wire",
+      "count": 21587,
+      "sourceFile": "ipc_B21F.txt",
+      "kind": "ipc"
+    },
+    "B21F1/02": {
+      "code": "B21F1/02",
+      "level": 1,
+      "parent": "B21F1/00",
+      "ja": "矯正",
+      "en": "Straightening",
+      "count": 14434,
+      "sourceFile": "ipc_B21F.txt",
+      "kind": "ipc"
+    },
+    "B21F1/04": {
+      "code": "B21F1/04",
+      "level": 1,
+      "parent": "B21F1/00",
+      "ja": "うねり加工",
+      "en": "Undulating",
+      "count": 522,
+      "sourceFile": "ipc_B21F.txt",
+      "kind": "ipc"
+    },
+    "B21F1/06": {
+      "code": "B21F1/06",
+      "level": 1,
+      "parent": "B21F1/00",
+      "ja": "ワイヤーアイの曲げ加工",
+      "en": "Bending wire-eyes",
+      "count": 388,
+      "sourceFile": "ipc_B21F.txt",
+      "kind": "ipc"
+    },
+    "B21F3/00": {
+      "code": "B21F3/00",
+      "level": 0,
+      "parent": "B21F",
+      "ja": "特殊な形への線材のコイル状化",
+      "en": "Coiling wire into particular forms",
+      "count": 1954,
+      "sourceFile": "ipc_B21F.txt",
+      "kind": "ipc"
+    },
+    "B21F3/02": {
+      "code": "B21F3/02",
+      "level": 1,
+      "parent": "B21F3/00",
+      "ja": "ヘリカル状",
+      "en": "helically",
+      "count": 1641,
+      "sourceFile": "ipc_B21F.txt",
+      "kind": "ipc"
+    },
+    "B21F3/027": {
+      "code": "B21F3/027",
+      "level": 2,
+      "parent": "B21F3/02",
+      "ja": "特殊形状に成形した伸ばされた端をもつもの，例．洗たくばさみのためのもの",
+      "en": "with extended ends formed in a special shape, e.g. for clothes-pegs",
+      "count": 264,
+      "sourceFile": "ipc_B21F.txt",
+      "kind": "ipc"
+    },
+    "B21F3/04": {
+      "code": "B21F3/04",
+      "level": 2,
+      "parent": "B21F3/02",
+      "ja": "マンドレルまたは類似物の表面に沿わせるもの",
+      "en": "externally on a mandrel or the like",
+      "count": 2920,
+      "sourceFile": "ipc_B21F.txt",
+      "kind": "ipc"
+    },
+    "B21F3/06": {
+      "code": "B21F3/06",
+      "level": 2,
+      "parent": "B21F3/02",
+      "ja": "凹型の内面に沿わせるもの",
+      "en": "internally on a hollow form",
+      "count": 680,
+      "sourceFile": "ipc_B21F.txt",
+      "kind": "ipc"
+    },
+    "B21F3/08": {
+      "code": "B21F3/08",
+      "level": 1,
+      "parent": "B21F3/00",
+      "ja": "平坦なスパイラル状に［２００６．０１］",
+      "en": "to flat spiral",
+      "count": 258,
+      "sourceFile": "ipc_B21F.txt",
+      "kind": "ipc"
+    },
+    "B21F3/10": {
+      "code": "B21F3/10",
+      "level": 1,
+      "parent": "B21F3/00",
+      "ja": "平面以外のスパイラル状に，例．円錐状",
+      "en": "to spirals other than flat, e.g. conical",
+      "count": 168,
+      "sourceFile": "ipc_B21F.txt",
+      "kind": "ipc"
+    },
+    "B21F3/12": {
+      "code": "B21F3/12",
+      "level": 1,
+      "parent": "B21F3/00",
+      "ja": "相互に連結したヘリカル状のばねのもの",
+      "en": "of interconnected helical springs",
+      "count": 143,
+      "sourceFile": "ipc_B21F.txt",
+      "kind": "ipc"
+    },
+    "B21F5/00": {
+      "code": "B21F5/00",
+      "level": 0,
+      "parent": "B21F",
+      "ja": "線材の据込加工［２００６．０１］",
+      "en": "Upsetting wire",
+      "count": 1106,
+      "sourceFile": "ipc_B21F.txt",
+      "kind": "ipc"
+    },
+    "B21F7/00": {
+      "code": "B21F7/00",
+      "level": 0,
+      "parent": "B21F",
+      "ja": "線材のねじり；線材のよりあわせ（限定した寸法の接合のためのものＢ２１Ｆ１５／０４）",
+      "en": "Twisting wire; Twisting wire together(for connections of limited size <b>B21F15/04</b>)",
+      "count": 1959,
+      "sourceFile": "ipc_B21F.txt",
+      "kind": "ipc"
+    },
+    "B21F9/00": {
+      "code": "B21F9/00",
+      "level": 0,
+      "parent": "B21F",
+      "ja": "線材のストレイニング［２００６．０１］",
+      "en": "Straining wire",
+      "count": 992,
+      "sourceFile": "ipc_B21F.txt",
+      "kind": "ipc"
+    },
+    "B21F9/02": {
+      "code": "B21F9/02",
+      "level": 1,
+      "parent": "B21F9/00",
+      "ja": "接合させるのにも適した工具によるもの",
+      "en": "by tools adapted also for making connections",
+      "count": 145,
+      "sourceFile": "ipc_B21F.txt",
+      "kind": "ipc"
+    },
+    "B21F11/00": {
+      "code": "B21F11/00",
+      "level": 0,
+      "parent": "B21F",
+      "ja": "線材の切断加工［２００６．０１］",
+      "en": "Cutting wire",
+      "count": 33918,
+      "sourceFile": "ipc_B21F.txt",
+      "kind": "ipc"
+    },
+    "B21F13/00": {
+      "code": "B21F13/00",
+      "level": 0,
+      "parent": "B21F",
+      "ja": "線材の分断加工",
+      "en": "Splitting wire",
+      "count": 280,
+      "sourceFile": "ipc_B21F.txt",
+      "kind": "ipc"
+    },
+    "B21F15/00": {
+      "code": "B21F15/00",
+      "level": 0,
+      "parent": "B21F",
+      "ja": "線材と線材または線材と他の金属材料または物品との接合；線材による部品の接合（ストレイニングおよび接合両方用の工具Ｂ２１Ｆ９／０２；包被または補強Ｂ２１Ｆ１７／００；金網の製造Ｂ２１Ｆ２７／００；バンドの製造におけるものＢ２１Ｆ４３／００）［２００６．０１］",
+      "en": "Connecting wire to wire or other metallic material or objects; Connecting parts by means of wire  (tools for both straining and connecting <b>B21F9/02</b>; jacketing or reinforcing <b>B21F17/00</b>; manufacture of wire network <b>B21F27/00</b>; in making bands <b>B21F43/00</b>)",
+      "count": 1658,
+      "sourceFile": "ipc_B21F.txt",
+      "kind": "ipc"
+    },
+    "B21F15/02": {
+      "code": "B21F15/02",
+      "level": 1,
+      "parent": "B21F15/00",
+      "ja": "線材と線材",
+      "en": "wire with wire",
+      "count": 358,
+      "sourceFile": "ipc_B21F.txt",
+      "kind": "ipc"
+    },
+    "B21F15/04": {
+      "code": "B21F15/04",
+      "level": 2,
+      "parent": "B21F15/02",
+      "ja": "接合要素または材料の付加のないもの，例．ねじりによるもの",
+      "en": "without additional connecting elements or material, e.g. by twisting",
+      "count": 841,
+      "sourceFile": "ipc_B21F.txt",
+      "kind": "ipc"
+    },
+    "B21F15/06": {
+      "code": "B21F15/06",
+      "level": 2,
+      "parent": "B21F15/02",
+      "ja": "接合要素または材料の付加をもつもの",
+      "en": "with additional connecting elements or material",
+      "count": 917,
+      "sourceFile": "ipc_B21F.txt",
+      "kind": "ipc"
+    },
+    "B21F15/08": {
+      "code": "B21F15/08",
+      "level": 3,
+      "parent": "B21F15/06",
+      "ja": "はんだ付または溶接を用いるもの",
+      "en": "making use of soldering or welding",
+      "count": 1427,
+      "sourceFile": "ipc_B21F.txt",
+      "kind": "ipc"
+    },
+    "B21F15/10": {
+      "code": "B21F15/10",
+      "level": 1,
+      "parent": "B21F15/00",
+      "ja": "線材と金属板",
+      "en": "wire with sheet metal",
+      "count": 195,
+      "sourceFile": "ipc_B21F.txt",
+      "kind": "ipc"
+    },
+    "B21F17/00": {
+      "code": "B21F17/00",
+      "level": 0,
+      "parent": "B21F",
+      "ja": "線材による物品の包被または補強［２００６．０１］",
+      "en": "Jacketing or reinforcing articles with wire",
+      "count": 628,
+      "sourceFile": "ipc_B21F.txt",
+      "kind": "ipc"
+    },
+    "B21F19/00": {
+      "code": "B21F19/00",
+      "level": 0,
+      "parent": "B21F",
+      "ja": "線材の金属被覆（押出しによるものＢ２１Ｃ２３／２４；ハンダ付けまたは溶接技術によるもの，例．クラッドまたは被せ金，Ｂ２３Ｋ）［２００６．０１］",
+      "en": "Metallic coating of wire(by extruding <b>B21C23/24</b>; by soldering or welding, e.g. cladding or plating, <b>B23K</b>)",
+      "count": 1117,
+      "sourceFile": "ipc_B21F.txt",
+      "kind": "ipc"
+    },
+    "B21F23/00": {
+      "code": "B21F23/00",
+      "level": 0,
+      "parent": "B21F",
+      "ja": "線材加工機械または装置への線材の供給［２００６．０１］",
+      "en": "Feeding wire in wire-working machines or apparatus",
+      "count": 18682,
+      "sourceFile": "ipc_B21F.txt",
+      "kind": "ipc"
+    },
+    "B21F25/00": {
+      "code": "B21F25/00",
+      "level": 0,
+      "parent": "B21F",
+      "ja": "有刺線材の製造",
+      "en": "Making barbed wire",
+      "count": 442,
+      "sourceFile": "ipc_B21F.txt",
+      "kind": "ipc"
+    },
+    "B21F27/00": {
+      "code": "B21F27/00",
+      "level": 0,
+      "parent": "B21F",
+      "ja": "線材網織物の製造，例．金網（線材からのメッシュ―リング網の製造Ｂ２１Ｆ３１／００；バンドの製造におけるものＢ２１Ｆ４３／００）［２００６．０１］",
+      "en": "Making wire network, i.e. wire nets (making meshed-ring network from wire <b>B21F31/00</b>;  in making bands <b>B21F43/00</b>)",
+      "count": 1507,
+      "sourceFile": "ipc_B21F.txt",
+      "kind": "ipc"
+    },
+    "B21F27/02": {
+      "code": "B21F27/02",
+      "level": 1,
+      "parent": "B21F27/00",
+      "ja": "交差点で接合要素または材料の付加のないもの，例．編糸細工による接合",
+      "en": "without additional connecting elements or material at crossings, e.g. connected by knitting",
+      "count": 1307,
+      "sourceFile": "ipc_B21F.txt",
+      "kind": "ipc"
+    },
+    "B21F27/04": {
+      "code": "B21F27/04",
+      "level": 2,
+      "parent": "B21F27/02",
+      "ja": "回転ブレードまたは成形具を備えた機械による製造",
+      "en": "Manufacturing on machines with rotating blades or formers",
+      "count": 192,
+      "sourceFile": "ipc_B21F.txt",
+      "kind": "ipc"
+    },
+    "B21F27/06": {
+      "code": "B21F27/06",
+      "level": 2,
+      "parent": "B21F27/02",
+      "ja": "より糸機による製造",
+      "en": "Manufacturing on twister-gear machines",
+      "count": 280,
+      "sourceFile": "ipc_B21F.txt",
+      "kind": "ipc"
+    },
+    "B21F27/08": {
+      "code": "B21F27/08",
+      "level": 1,
+      "parent": "B21F27/00",
+      "ja": "交差点で接合要素または材料を付加するもの",
+      "en": "with additional connecting elements or material at crossings",
+      "count": 653,
+      "sourceFile": "ipc_B21F.txt",
+      "kind": "ipc"
+    },
+    "B21F27/10": {
+      "code": "B21F27/10",
+      "level": 2,
+      "parent": "B21F27/08",
+      "ja": "はんだ付または溶接によるもの",
+      "en": "with soldered or welded crossings",
+      "count": 2920,
+      "sourceFile": "ipc_B21F.txt",
+      "kind": "ipc"
+    },
+    "B21F27/12": {
+      "code": "B21F27/12",
+      "level": 1,
+      "parent": "B21F27/00",
+      "ja": "特別な方法または手段による網織物の特殊な形または部分の製造",
+      "en": "Making special types or portions of network by methods or means specially adapted therefor",
+      "count": 2109,
+      "sourceFile": "ipc_B21F.txt",
+      "kind": "ipc"
+    },
+    "B21F27/14": {
+      "code": "B21F27/14",
+      "level": 2,
+      "parent": "B21F27/12",
+      "ja": "線材の自由端の特殊な曲げ加工または変形",
+      "en": "Specially bending or deforming free wire ends",
+      "count": 329,
+      "sourceFile": "ipc_B21F.txt",
+      "kind": "ipc"
+    },
+    "B21F27/16": {
+      "code": "B21F27/16",
+      "level": 2,
+      "parent": "B21F27/12",
+      "ja": "スプリングマットレスのためのもの",
+      "en": "for spring mattresses",
+      "count": 193,
+      "sourceFile": "ipc_B21F.txt",
+      "kind": "ipc"
+    },
+    "B21F27/18": {
+      "code": "B21F27/18",
+      "level": 2,
+      "parent": "B21F27/12",
+      "ja": "フィルターまたはふるいのための細い目加工のもの",
+      "en": "of meshed work for filters or sieves",
+      "count": 409,
+      "sourceFile": "ipc_B21F.txt",
+      "kind": "ipc"
+    },
+    "B21F27/20": {
+      "code": "B21F27/20",
+      "level": 2,
+      "parent": "B21F27/12",
+      "ja": "しっくい壁用網のもの",
+      "en": "of plaster-carrying network",
+      "count": 2014,
+      "sourceFile": "ipc_B21F.txt",
+      "kind": "ipc"
+    },
+    "B21F27/22": {
+      "code": "B21F27/22",
+      "level": 2,
+      "parent": "B21F27/12",
+      "ja": "ガラスまたは類似物の補強線用の網のもの",
+      "en": "of network for wire-reinforced glass or the like",
+      "count": 30,
+      "sourceFile": "ipc_B21F.txt",
+      "kind": "ipc"
+    },
+    "B21F29/00": {
+      "code": "B21F29/00",
+      "level": 0,
+      "parent": "B21F",
+      "ja": "部分的に線材で造っている柵または類似の材料の製造（Ｂ２１Ｆ２５／００が優先）［２００６．０１］",
+      "en": "Making fencing or like material made partly of wire(<b>B21F25/00</b> takes precedence)",
+      "count": 168,
+      "sourceFile": "ipc_B21F.txt",
+      "kind": "ipc"
+    },
+    "B21F29/02": {
+      "code": "B21F29/02",
+      "level": 1,
+      "parent": "B21F29/00",
+      "ja": "線材で接合されている棒または類似物より成るもの",
+      "en": "comprising bars or the like connected by wires",
+      "count": 104,
+      "sourceFile": "ipc_B21F.txt",
+      "kind": "ipc"
+    },
+    "B21F31/00": {
+      "code": "B21F31/00",
+      "level": 0,
+      "parent": "B21F",
+      "ja": "線材からなるメッシューリング網織物の製造",
+      "en": "Making meshed-ring network from wire",
+      "count": 1180,
+      "sourceFile": "ipc_B21F.txt",
+      "kind": "ipc"
+    },
+    "B21F33/00": {
+      "code": "B21F33/00",
+      "level": 0,
+      "parent": "B21F",
+      "ja": "線材編物または類似物の取り扱いまたは処理に適するように特に設計された工具または装置",
+      "en": "Tools or devices specially designed for handling or processing wire fabrics or the like",
+      "count": 1634,
+      "sourceFile": "ipc_B21F.txt",
+      "kind": "ipc"
+    },
+    "B21F33/02": {
+      "code": "B21F33/02",
+      "level": 1,
+      "parent": "B21F33/00",
+      "ja": "フレーム上への線材網織物のすえつけ",
+      "en": "Mounting of wire network on frames",
+      "count": 299,
+      "sourceFile": "ipc_B21F.txt",
+      "kind": "ipc"
+    },
+    "B21F33/04": {
+      "code": "B21F33/04",
+      "level": 1,
+      "parent": "B21F33/00",
+      "ja": "マットレス用ら旋ばねの端の接合",
+      "en": "Connecting ends of helical springs for mattresses",
+      "count": 625,
+      "sourceFile": "ipc_B21F.txt",
+      "kind": "ipc"
+    },
+    "B21F35/00": {
+      "code": "B21F35/00",
+      "level": 0,
+      "parent": "B21F",
+      "ja": "線材からのばねの製造［２００６．０１］",
+      "en": "Making springs from wire",
+      "count": 5728,
+      "sourceFile": "ipc_B21F.txt",
+      "kind": "ipc"
+    },
+    "B21F35/02": {
+      "code": "B21F35/02",
+      "level": 1,
+      "parent": "B21F35/00",
+      "ja": "特殊形状にコイルばねの端を曲げ加工または変形するもの",
+      "en": "Bending or deforming ends of coil springs to special shape",
+      "count": 668,
+      "sourceFile": "ipc_B21F.txt",
+      "kind": "ipc"
+    },
+    "B21F35/04": {
+      "code": "B21F35/04",
+      "level": 1,
+      "parent": "B21F35/00",
+      "ja": "平坦なばねの製造，例．わん曲ばね［２００６．０１］",
+      "en": "Making flat springs, e.g. sinus springs",
+      "count": 263,
+      "sourceFile": "ipc_B21F.txt",
+      "kind": "ipc"
+    },
+    "B21F37/00": {
+      "code": "B21F37/00",
+      "level": 0,
+      "parent": "B21F",
+      "ja": "線材からのリングの製造［２００６．０１］",
+      "en": "Manufacture of rings from wire",
+      "count": 1128,
+      "sourceFile": "ipc_B21F.txt",
+      "kind": "ipc"
+    },
+    "B21F37/02": {
+      "code": "B21F37/02",
+      "level": 1,
+      "parent": "B21F37/00",
+      "ja": "弾性リングの製造，例．キーリング［２００６．０１］",
+      "en": "of resilient rings, e.g. key-rings",
+      "count": 201,
+      "sourceFile": "ipc_B21F.txt",
+      "kind": "ipc"
+    },
+    "B21F37/04": {
+      "code": "B21F37/04",
+      "level": 1,
+      "parent": "B21F37/00",
+      "ja": "ワッシャーの製造（Ｂ２１Ｆ３７／０２が優先）",
+      "en": "of washers(<b>B21F37/02</b> takes precedence)",
+      "count": 113,
+      "sourceFile": "ipc_B21F.txt",
+      "kind": "ipc"
+    },
+    "B21F39/00": {
+      "code": "B21F39/00",
+      "level": 0,
+      "parent": "B21F",
+      "ja": "線材から車輪用スポークの製造",
+      "en": "Making wheel spokes from wire",
+      "count": 74,
+      "sourceFile": "ipc_B21F.txt",
+      "kind": "ipc"
+    },
+    "B21F41/00": {
+      "code": "B21F41/00",
+      "level": 0,
+      "parent": "B21F",
+      "ja": "線材から傘の骨組または部材の製造",
+      "en": "Making umbrella frames or members from wire",
+      "count": 31,
+      "sourceFile": "ipc_B21F.txt",
+      "kind": "ipc"
+    },
+    "B21F43/00": {
+      "code": "B21F43/00",
+      "level": 0,
+      "parent": "B21F",
+      "ja": "線材からのバンドの製造，例．腕輪［２００６．０１］",
+      "en": "Making bands, e.g. bracelets, from wire",
+      "count": 365,
+      "sourceFile": "ipc_B21F.txt",
+      "kind": "ipc"
+    },
+    "B21F45/00": {
+      "code": "B21F45/00",
+      "level": 0,
+      "parent": "B21F",
+      "ja": "その他の特殊物品の製造における線材の加工（ピン，縫針，くぎ，ヘアーピンの製造Ｂ２１Ｇ；チェーンの製造Ｂ２１Ｌ）",
+      "en": "Wire-working in the manufacture of other particular articles(of pins, needles, nails, hairpins <b>B21G</b>; of chains <b>B21L</b>)",
+      "count": 2414,
+      "sourceFile": "ipc_B21F.txt",
+      "kind": "ipc"
+    },
+    "B21F45/02": {
+      "code": "B21F45/02",
+      "level": 1,
+      "parent": "B21F45/00",
+      "ja": "衣服ハンガー用",
+      "en": "of clothes hangers",
+      "count": 205,
+      "sourceFile": "ipc_B21F.txt",
+      "kind": "ipc"
+    },
+    "B21F45/04": {
+      "code": "B21F45/04",
+      "level": 1,
+      "parent": "B21F45/00",
+      "ja": "ビン用栓の要素，例．レバーまたはリンク",
+      "en": "of elements, e.g. levers or links, for bottle stoppers",
+      "count": 86,
+      "sourceFile": "ipc_B21F.txt",
+      "kind": "ipc"
+    },
+    "B21F45/06": {
+      "code": "B21F45/06",
+      "level": 1,
+      "parent": "B21F45/00",
+      "ja": "可撓性シャフトまたは中空導管，例．ボーデン機構のもの",
+      "en": "of flexible shafts or hollow conduits, e.g. for Bowden mechanisms",
+      "count": 116,
+      "sourceFile": "ipc_B21F.txt",
+      "kind": "ipc"
+    },
+    "B21F45/08": {
+      "code": "B21F45/08",
+      "level": 1,
+      "parent": "B21F45/00",
+      "ja": "織機のあや取りのもの",
+      "en": "of loom heddles",
+      "count": 55,
+      "sourceFile": "ipc_B21F.txt",
+      "kind": "ipc"
+    },
+    "B21F45/10": {
+      "code": "B21F45/10",
+      "level": 1,
+      "parent": "B21F45/00",
+      "ja": "織物けば立て機械用カードのもの",
+      "en": "of cards for fabric-napping machines",
+      "count": 54,
+      "sourceFile": "ipc_B21F.txt",
+      "kind": "ipc"
+    },
+    "B21F45/12": {
+      "code": "B21F45/12",
+      "level": 1,
+      "parent": "B21F45/00",
+      "ja": "釣針のもの",
+      "en": "of fishing hooks",
+      "count": 261,
+      "sourceFile": "ipc_B21F.txt",
+      "kind": "ipc"
+    },
+    "B21F45/14": {
+      "code": "B21F45/14",
+      "level": 1,
+      "parent": "B21F45/00",
+      "ja": "レースまたはロープ用エンドピースのもの",
+      "en": "of end-pieces for laces or ropes",
+      "count": 18,
+      "sourceFile": "ipc_B21F.txt",
+      "kind": "ipc"
+    },
+    "B21F45/16": {
+      "code": "B21F45/16",
+      "level": 1,
+      "parent": "B21F45/00",
+      "ja": "締付用装置のもの",
+      "en": "of devices for fastening or securing purposes",
+      "count": 458,
+      "sourceFile": "ipc_B21F.txt",
+      "kind": "ipc"
+    },
+    "B21F45/18": {
+      "code": "B21F45/18",
+      "level": 2,
+      "parent": "B21F45/16",
+      "ja": "スライドファスナー要素のもの",
+      "en": "of slide fastener elements",
+      "count": 140,
+      "sourceFile": "ipc_B21F.txt",
+      "kind": "ipc"
+    },
+    "B21F45/20": {
+      "code": "B21F45/20",
+      "level": 2,
+      "parent": "B21F45/16",
+      "ja": "ホックのもの；安全ホックのもの",
+      "en": "of spring hooks; of spring safety hooks",
+      "count": 30,
+      "sourceFile": "ipc_B21F.txt",
+      "kind": "ipc"
+    },
+    "B21F45/22": {
+      "code": "B21F45/22",
+      "level": 2,
+      "parent": "B21F45/16",
+      "ja": "紙用ファスナまたはクリップのもの（ステープルＢ２１Ｆ４５／２４）",
+      "en": "of paper fasteners or clips(staples <b>B21F45/24</b>)",
+      "count": 75,
+      "sourceFile": "ipc_B21F.txt",
+      "kind": "ipc"
+    },
+    "B21F45/24": {
+      "code": "B21F45/24",
+      "level": 2,
+      "parent": "B21F45/16",
+      "ja": "ステープルのもの；ベルト締付用要素のもの",
+      "en": "of staples; of belt-fastening elements",
+      "count": 330,
+      "sourceFile": "ipc_B21F.txt",
+      "kind": "ipc"
+    },
+    "B21F45/26": {
+      "code": "B21F45/26",
+      "level": 2,
+      "parent": "B21F45/16",
+      "ja": "ボタンのもの",
+      "en": "of buttons",
+      "count": 74,
+      "sourceFile": "ipc_B21F.txt",
+      "kind": "ipc"
+    },
+    "B21F45/28": {
+      "code": "B21F45/28",
+      "level": 3,
+      "parent": "B21F45/26",
+      "ja": "“パテント－ファスナー”またはプレスボタン形のもの",
+      "en": "of \"patent-fastener\" or press-button type",
+      "count": 22,
+      "sourceFile": "ipc_B21F.txt",
+      "kind": "ipc"
+    },
+    "B21F99/00": {
+      "code": "B21F99/00",
+      "level": 0,
+      "parent": "B21F",
+      "ja": "このサブクラスの他のグループに分類されない主題事項　［２００９．０１］",
+      "en": "Subject matter not provided for in other groups of this subclass",
+      "count": 1620,
+      "sourceFile": "ipc_B21F.txt",
+      "kind": "ipc"
+    }
+  }
+}

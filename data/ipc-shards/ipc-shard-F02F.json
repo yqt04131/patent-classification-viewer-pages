@@ -1,0 +1,436 @@
+{
+  "generatedAt": "2026-03-20T02:17:46.801Z",
+  "total": 43,
+  "entries": {
+    "F02F": {
+      "code": "F02F",
+      "level": 0,
+      "parent": "F02",
+      "ja": "燃焼機関のシリンダ，ピストンまたはケーシング；燃焼機関の密封装置の構成［２］<br><br><b><ul>注</ul></b><br>（１）クラスＦ０１の前の注に注意すること。<br>（２）主題事項が燃焼機関特有のものを除いてクラスＦ１６がこのサブクラスに優先。",
+      "en": "CYLINDERS, PISTONS, OR CASINGS FOR COMBUSTION ENGINES; ARRANGEMENTS OF SEALINGS IN COMBUSTION ENGINES; <br><br><b><u>Note(s)</u></b><br><br><ul><li>Attention is drawn to the Notes preceding class <b>F01</b>.</li><li>Class <b>F16</b> takes precedence over this subclass, except for subject matter specific to combustion engines.</li></ul>",
+      "count": 711,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F02": {
+      "code": "F02",
+      "level": 0,
+      "parent": "F",
+      "ja": "燃焼機関；熱ガスまたは燃焼生成物を利用する機関設備",
+      "en": "COMBUSTION ENGINES; HOT-GAS OR COMBUSTION-PRODUCT ENGINE PLANTS",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F": {
+      "code": "F",
+      "level": 0,
+      "parent": null,
+      "ja": "機械工学；照明；加熱；武器；爆破",
+      "en": "MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F02F1/00": {
+      "code": "F02F1/00",
+      "level": 0,
+      "parent": "F02F",
+      "ja": "シリンダ；シリンダヘッド［２００６．０１］",
+      "en": "Cylinders; Cylinder heads",
+      "count": 9712,
+      "sourceFile": "ipc_F02F.txt",
+      "kind": "ipc"
+    },
+    "F02F1/02": {
+      "code": "F02F1/02",
+      "level": 1,
+      "parent": "F02F1/00",
+      "ja": "冷却手段があるもの（シリンダヘッドＦ０２Ｆ１／２６）",
+      "en": "having cooling means(cylinder heads <b>F02F1/26</b>)",
+      "count": 253,
+      "sourceFile": "ipc_F02F.txt",
+      "kind": "ipc"
+    },
+    "F02F1/04": {
+      "code": "F02F1/04",
+      "level": 2,
+      "parent": "F02F1/02",
+      "ja": "空気冷却",
+      "en": "for air cooling",
+      "count": 646,
+      "sourceFile": "ipc_F02F.txt",
+      "kind": "ipc"
+    },
+    "F02F1/06": {
+      "code": "F02F1/06",
+      "level": 3,
+      "parent": "F02F1/04",
+      "ja": "冷却フィンの形または構成；フィン付きシリンダ",
+      "en": "Shape or arrangement of cooling fins; Finned cylinders",
+      "count": 1341,
+      "sourceFile": "ipc_F02F.txt",
+      "kind": "ipc"
+    },
+    "F02F1/08": {
+      "code": "F02F1/08",
+      "level": 4,
+      "parent": "F02F1/06",
+      "ja": "ライナおよびシリンダ冷却部が別体となったものまたは異種の材料から成るもの",
+      "en": "running-liner and cooling-part of cylinder being different parts or of different material",
+      "count": 774,
+      "sourceFile": "ipc_F02F.txt",
+      "kind": "ipc"
+    },
+    "F02F1/10": {
+      "code": "F02F1/10",
+      "level": 2,
+      "parent": "F02F1/02",
+      "ja": "液体冷却",
+      "en": "for liquid cooling",
+      "count": 4041,
+      "sourceFile": "ipc_F02F.txt",
+      "kind": "ipc"
+    },
+    "F02F1/12": {
+      "code": "F02F1/12",
+      "level": 3,
+      "parent": "F02F1/10",
+      "ja": "液体接触面の腐食を防止したもの",
+      "en": "Preventing corrosion of liquid-swept surfaces",
+      "count": 180,
+      "sourceFile": "ipc_F02F.txt",
+      "kind": "ipc"
+    },
+    "F02F1/14": {
+      "code": "F02F1/14",
+      "level": 3,
+      "parent": "F02F1/10",
+      "ja": "液体の流れを方向付け，案内しまたは配分する手段をもつシリンダ",
+      "en": "Cylinders with means for directing, guiding, or distributing liquid stream",
+      "count": 3018,
+      "sourceFile": "ipc_F02F.txt",
+      "kind": "ipc"
+    },
+    "F02F1/16": {
+      "code": "F02F1/16",
+      "level": 3,
+      "parent": "F02F1/10",
+      "ja": "湿式シリンダライナ",
+      "en": "Cylinder liners of wet type",
+      "count": 2547,
+      "sourceFile": "ipc_F02F.txt",
+      "kind": "ipc"
+    },
+    "F02F1/18": {
+      "code": "F02F1/18",
+      "level": 1,
+      "parent": "F02F1/00",
+      "ja": "他のシリンダ",
+      "en": "Other cylinders",
+      "count": 3173,
+      "sourceFile": "ipc_F02F.txt",
+      "kind": "ipc"
+    },
+    "F02F1/20": {
+      "code": "F02F1/20",
+      "level": 2,
+      "parent": "F02F1/18",
+      "ja": "潤滑を備えた構成を特徴とするもの",
+      "en": "characterised by constructional features providing for lubrication",
+      "count": 1648,
+      "sourceFile": "ipc_F02F.txt",
+      "kind": "ipc"
+    },
+    "F02F1/22": {
+      "code": "F02F1/22",
+      "level": 2,
+      "parent": "F02F1/18",
+      "ja": "シリンダ壁に掃気または給気の口があることを特徴とするもの",
+      "en": "characterised by having ports in cylinder wall for scavenging or charging",
+      "count": 2148,
+      "sourceFile": "ipc_F02F.txt",
+      "kind": "ipc"
+    },
+    "F02F1/24": {
+      "code": "F02F1/24",
+      "level": 1,
+      "parent": "F02F1/00",
+      "ja": "シリンダヘッド",
+      "en": "Cylinder heads",
+      "count": 14907,
+      "sourceFile": "ipc_F02F.txt",
+      "kind": "ipc"
+    },
+    "F02F1/26": {
+      "code": "F02F1/26",
+      "level": 2,
+      "parent": "F02F1/24",
+      "ja": "冷却手段のあるもの",
+      "en": "having cooling means",
+      "count": 283,
+      "sourceFile": "ipc_F02F.txt",
+      "kind": "ipc"
+    },
+    "F02F1/28": {
+      "code": "F02F1/28",
+      "level": 3,
+      "parent": "F02F1/26",
+      "ja": "空気冷却",
+      "en": "for air cooling",
+      "count": 246,
+      "sourceFile": "ipc_F02F.txt",
+      "kind": "ipc"
+    },
+    "F02F1/30": {
+      "code": "F02F1/30",
+      "level": 4,
+      "parent": "F02F1/28",
+      "ja": "フィン付きシリンダヘッド",
+      "en": "Finned cylinder heads",
+      "count": 478,
+      "sourceFile": "ipc_F02F.txt",
+      "kind": "ipc"
+    },
+    "F02F1/32": {
+      "code": "F02F1/32",
+      "level": 5,
+      "parent": "F02F1/30",
+      "ja": "頭上弁形式のシリンダヘッド",
+      "en": "the cylinder heads being of overhead-valve type",
+      "count": 447,
+      "sourceFile": "ipc_F02F.txt",
+      "kind": "ipc"
+    },
+    "F02F1/34": {
+      "code": "F02F1/34",
+      "level": 5,
+      "parent": "F02F1/30",
+      "ja": "冷却媒体の方向付けまたは配分の手段をもつもの［２００６．０１］",
+      "en": "with means for directing or distributing cooling medium",
+      "count": 329,
+      "sourceFile": "ipc_F02F.txt",
+      "kind": "ipc"
+    },
+    "F02F1/36": {
+      "code": "F02F1/36",
+      "level": 3,
+      "parent": "F02F1/26",
+      "ja": "液体冷却",
+      "en": "for liquid cooling",
+      "count": 2538,
+      "sourceFile": "ipc_F02F.txt",
+      "kind": "ipc"
+    },
+    "F02F1/38": {
+      "code": "F02F1/38",
+      "level": 4,
+      "parent": "F02F1/36",
+      "ja": "頭上弁形のシリンダヘッド",
+      "en": "the cylinder heads being of overhead-valve type",
+      "count": 1538,
+      "sourceFile": "ipc_F02F.txt",
+      "kind": "ipc"
+    },
+    "F02F1/40": {
+      "code": "F02F1/40",
+      "level": 4,
+      "parent": "F02F1/36",
+      "ja": "液体の流れを方向付け，案内し，または配分する手段をもつシリンダ［２００６．０１］",
+      "en": "cylinder heads with means for directing, guiding, or distributing liquid stream",
+      "count": 2920,
+      "sourceFile": "ipc_F02F.txt",
+      "kind": "ipc"
+    },
+    "F02F1/42": {
+      "code": "F02F1/42",
+      "level": 2,
+      "parent": "F02F1/24",
+      "ja": "シリンダヘッドにおける吸気または排気径路の形状または配置",
+      "en": "Shape or arrangement of intake or exhaust channels in cylinder heads",
+      "count": 9450,
+      "sourceFile": "ipc_F02F.txt",
+      "kind": "ipc"
+    },
+    "F02F3/00": {
+      "code": "F02F3/00",
+      "level": 0,
+      "parent": "F02F",
+      "ja": "ピストン［２００６．０１］",
+      "en": "Pistons",
+      "count": 12590,
+      "sourceFile": "ipc_F02F.txt",
+      "kind": "ipc"
+    },
+    "F02F3/02": {
+      "code": "F02F3/02",
+      "level": 1,
+      "parent": "F02F3/00",
+      "ja": "熱膨張を調節または制御する手段があるもの",
+      "en": "having means for accommodating or controlling heat expansion",
+      "count": 1223,
+      "sourceFile": "ipc_F02F.txt",
+      "kind": "ipc"
+    },
+    "F02F3/04": {
+      "code": "F02F3/04",
+      "level": 2,
+      "parent": "F02F3/02",
+      "ja": "熱膨張を制御する挿入物のあるもの",
+      "en": "having expansion-controlling inserts",
+      "count": 563,
+      "sourceFile": "ipc_F02F.txt",
+      "kind": "ipc"
+    },
+    "F02F3/06": {
+      "code": "F02F3/06",
+      "level": 3,
+      "parent": "F02F3/04",
+      "ja": "バイメタル効果のある挿入物",
+      "en": "the inserts having bimetallic effect",
+      "count": 57,
+      "sourceFile": "ipc_F02F.txt",
+      "kind": "ipc"
+    },
+    "F02F3/08": {
+      "code": "F02F3/08",
+      "level": 3,
+      "parent": "F02F3/04",
+      "ja": "環状の挿入物",
+      "en": "the inserts being ring-shaped",
+      "count": 386,
+      "sourceFile": "ipc_F02F.txt",
+      "kind": "ipc"
+    },
+    "F02F3/10": {
+      "code": "F02F3/10",
+      "level": 1,
+      "parent": "F02F3/00",
+      "ja": "表面被覆のあるもの（Ｆ０２Ｆ３／０２が優先）",
+      "en": "having surface coverings(<b>F02F3/02</b> takes precedence)",
+      "count": 1666,
+      "sourceFile": "ipc_F02F.txt",
+      "kind": "ipc"
+    },
+    "F02F3/12": {
+      "code": "F02F3/12",
+      "level": 2,
+      "parent": "F02F3/10",
+      "ja": "ピストンヘッドにあるもの",
+      "en": "on piston heads",
+      "count": 942,
+      "sourceFile": "ipc_F02F.txt",
+      "kind": "ipc"
+    },
+    "F02F3/14": {
+      "code": "F02F3/14",
+      "level": 3,
+      "parent": "F02F3/12",
+      "ja": "燃焼室内にあるもの",
+      "en": "within combustion chambers",
+      "count": 487,
+      "sourceFile": "ipc_F02F.txt",
+      "kind": "ipc"
+    },
+    "F02F3/16": {
+      "code": "F02F3/16",
+      "level": 1,
+      "parent": "F02F3/00",
+      "ja": "冷却手段のあるもの",
+      "en": "having cooling means",
+      "count": 647,
+      "sourceFile": "ipc_F02F.txt",
+      "kind": "ipc"
+    },
+    "F02F3/18": {
+      "code": "F02F3/18",
+      "level": 2,
+      "parent": "F02F3/16",
+      "ja": "ピストン内の密閉された空所内にある液体または固体の冷却剤，例．ナトリウム，によるもの",
+      "en": "the means being a liquid or solid coolant, e.g. sodium, in a closed chamber in piston",
+      "count": 398,
+      "sourceFile": "ipc_F02F.txt",
+      "kind": "ipc"
+    },
+    "F02F3/20": {
+      "code": "F02F3/20",
+      "level": 2,
+      "parent": "F02F3/16",
+      "ja": "ピストンに沿うまたは貫通する流体の流れによる冷却手段",
+      "en": "the means being a fluid flowing through or along piston",
+      "count": 405,
+      "sourceFile": "ipc_F02F.txt",
+      "kind": "ipc"
+    },
+    "F02F3/22": {
+      "code": "F02F3/22",
+      "level": 3,
+      "parent": "F02F3/20",
+      "ja": "その流体が液体であるもの",
+      "en": "the fluid being liquid",
+      "count": 2983,
+      "sourceFile": "ipc_F02F.txt",
+      "kind": "ipc"
+    },
+    "F02F3/24": {
+      "code": "F02F3/24",
+      "level": 1,
+      "parent": "F02F3/00",
+      "ja": "シリンダ内の気体を案内する手段のあるもの，例．２サイクル機関における掃気を案内する手段",
+      "en": "having means for guiding gases in cylinders, e.g. for guiding scavenging charge in two-stroke engines",
+      "count": 757,
+      "sourceFile": "ipc_F02F.txt",
+      "kind": "ipc"
+    },
+    "F02F3/26": {
+      "code": "F02F3/26",
+      "level": 1,
+      "parent": "F02F3/00",
+      "ja": "ピストンヘッドに燃焼室があるもの（その表面の被覆Ｆ０２Ｆ３／１４）",
+      "en": "having combustion chamber in piston head(the surface thereof being covered <b>F02F3/14</b>)",
+      "count": 4327,
+      "sourceFile": "ipc_F02F.txt",
+      "kind": "ipc"
+    },
+    "F02F3/28": {
+      "code": "F02F3/28",
+      "level": 1,
+      "parent": "F02F3/00",
+      "ja": "特殊形状のヘッドをもつ他のピストン",
+      "en": "Other pistons with specially-shaped head",
+      "count": 2041,
+      "sourceFile": "ipc_F02F.txt",
+      "kind": "ipc"
+    },
+    "F02F5/00": {
+      "code": "F02F5/00",
+      "level": 0,
+      "parent": "F02F",
+      "ja": "ピストンリング，例．ピストンヘッドと組み合わされたもの",
+      "en": "Piston rings, e.g. associated with piston crown",
+      "count": 6359,
+      "sourceFile": "ipc_F02F.txt",
+      "kind": "ipc"
+    },
+    "F02F7/00": {
+      "code": "F02F7/00",
+      "level": 0,
+      "parent": "F02F",
+      "ja": "ケーシング，例．クランク室［２００６．０１］",
+      "en": "Casings, e.g. crankcases",
+      "count": 20658,
+      "sourceFile": "ipc_F02F.txt",
+      "kind": "ipc"
+    },
+    "F02F11/00": {
+      "code": "F02F11/00",
+      "level": 0,
+      "parent": "F02F",
+      "ja": "燃焼機関の密封装置の構成（ピストンリングＦ０２Ｆ５／００）［２００６．０１］",
+      "en": "Arrangements of sealings in combustion engines(piston rings <b>F02F5/00</b>)",
+      "count": 11161,
+      "sourceFile": "ipc_F02F.txt",
+      "kind": "ipc"
+    }
+  }
+}

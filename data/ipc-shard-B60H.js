@@ -1,0 +1,256 @@
+window.IPC_SHARD_B60H = {
+  "generatedAt": "2026-03-20T02:17:46.212Z",
+  "total": 25,
+  "entries": {
+    "B60H": {
+      "code": "B60H",
+      "level": 0,
+      "parent": "B60",
+      "ja": "特に車両の座席または荷物用スペースに適した暖房，冷房，換気装置または他の空気処理装置<br><br><b><ul>注</ul></b><br>クラスＢ６０のタイトルに続く注に注意すること。",
+      "en": "ARRANGEMENTS OF HEATING, COOLING, VENTILATING OR OTHER AIR-TREATING DEVICES SPECIALLY ADAPTED FOR PASSENGER OR GOODS SPACES OF VEHICLES; <br><br><b><u>Note(s)</u></b><br><br><ul><li>Attention is drawn to the Note following the title of class <b>B60</b>.</li></ul>",
+      "count": 860,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B60": {
+      "code": "B60",
+      "level": 0,
+      "parent": "B",
+      "ja": "車両一般<br><br><b><ul>注</ul></b><br>このクラスにおいては，下記の用語は以下に示す意味で用いる：<br>―“車両”は次の形の車両にのみ限定されるものを除いてすべての車両を意味する：鉄道車両，水上輸送船，航空機，宇宙乗物，手動運搬車，自転車，動物牽引車両およびそり；これらは，これに関連するサブクラスＢ６１からＢ６４に包含される。<br>用語“車両”は以下のものを包含する：<br>―上掲の二以上の形に共通な車両的特徴のあるもの；<br>―自動車もしくは道路またはクロスカントリー用のトレーラに限定される特徴あるもの。<br>―次の例外に注意されたい：<br>（ａ）サブクラスＢ６０ＢとＢ６０Ｃは，ローラースケート用車輪Ａ６３Ｃ１７／２２，鉄道模型用車輪Ａ６３Ｈ１９／２２および航空機用に特別に用いられる車輪またはタイヤＢ６４Ｃ２５／３６を除いて，すべての車両の車輪およびタイヤを含む；<br>（ｂ）サブクラスＢ６０Ｃは膨張可能な弾性体一般へのバルブの取付けを含み，この点は車両に限定されない；<br>（ｃ）サブクラスＢ６０Ｌはすべての電動車両の電気装置を含む；<br>（ｄ）サブクラスＢ６０Ｍは，外部の，すべての種類の電動車両の動力供給装置を含む；<br>（ｅ）サブクラスＢ６０Ｒは陸用車両の全型式に用いられる安全ベルトまたは身体用ハーネスを含む；［４］<br>（ｆ）サブクラスＢ６０Ｓは，グループＢ６１Ｋ１１／００に分類される鉄道機関車の施設，サブクラスＢ６４Ｆに分類される航空機の地上設備またはグループＢ６３Ｂ５７／００，Ｂ６３Ｂ５９／００に分類される水上浮揚構造物に特有な洗浄装置を除いて，すべての種類の車両に関する；<br>（ｇ）サブクラスＢ６０Ｔは一般に適用できる制動制御装置を含み，かつこの意味においてこれは車両に限定されない。また鉄道車両の動力制動装置および鉄道車両の制動装置の他の構造をも含む。；<br>（ｈ）サブクラスＢ６０Ｖは空気クッション車両自体，および空気クッション車両としても運用可能な特徴を有するまたは部分的に空気クッションによって支持される地上用車両，水上用車両または航空機を含む。［２００９．０１］",
+      "en": "VEHICLES IN GENERAL; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this class, the following term is used with the meaning indicated: <ul><li>\"vehicle\" means all vehicles except those restricted to one of the following types of vehicles: rail vehicles, waterborne vessels, aircraft, space vehicles, hand carts, cycles, animal-drawn vehicles, and sledges, which are covered by the relevant subclasses of <b>B61 to B64</b> . <ul><li>Thus the term \"vehicle\" includes: <ul><li>vehicular characteristics which are common to more than one of the above-listed types;</li><li>certain characteristics restricted to automobiles, road or cross-country trailers.</li><li>The following exceptions to the above should be noted: <ul><li>subclass <b>B60B</b> or <b>B60C</b> embrace all vehicle wheels and tyres, except wheels for roller skates <b>A63C17/22</b>, wheels for model railway vehicles <b>A63H19/22</b>, and special adaptations of wheels or tyres for aircraft <b>B64C25/36</b>;</li><li>subclass <b>B60C</b> embraces the connection of valves to inflatable elastic bodies in general, and in this respect it is not limited to vehicles;</li><li>subclass <b>B60L</b> embraces certain electric equipment of all electrically-propelled vehicles;</li><li>subclass <b>B60M</b> embraces certain power supply equipment for, but external to, any kind of electrically-propelled vehicle;</li><li>subclass <b>B60R</b> embraces safety belts or body harnesses used in all types of land vehicles;</li><li>subclass <b>B60S</b> relates to all kinds of vehicles, except the servicing of rail locomotives <b>B61K11/00</b>, ground equipment for aircraft <b>B64F</b>, or cleaning apparatus peculiar to waterborne vessels <b>B63B57/00</b>, <b>B63B59/00</b>;</li><li>subclass <b>B60T</b> includes brake control systems of general applicability, and in this respect it is not limited to vehicles. It also includes rail-vehicle power-brake systems and some other features of rail-vehicle brake systems;</li><li>subclass <b>B60V</b> embraces air-cushion vehicles <u>per se</u> and land vehicles, waterborne vessels or aircraft combined with features allowing them to alternatively operate as air-cushion vehicles or to be partially supported by an air cushion.</li></ul></li></ul></li></ul></li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B": {
+      "code": "B",
+      "level": 0,
+      "parent": null,
+      "ja": "処理操作；運輸",
+      "en": "PERFORMING OPERATIONS; TRANSPORTING",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B60H1/00": {
+      "code": "B60H1/00",
+      "level": 0,
+      "parent": "B60H",
+      "ja": "暖房，冷房または換気装置［２００６．０１］",
+      "en": "Heating, cooling or ventilating devices",
+      "count": 86959,
+      "sourceFile": "ipc_B60H.txt",
+      "kind": "ipc"
+    },
+    "B60H1/02": {
+      "code": "B60H1/02",
+      "level": 1,
+      "parent": "B60H1/00",
+      "ja": "推進設備から熱の出るもの",
+      "en": "the heat being derived from the propulsion plant",
+      "count": 1609,
+      "sourceFile": "ipc_B60H.txt",
+      "kind": "ipc"
+    },
+    "B60H1/03": {
+      "code": "B60H1/03",
+      "level": 2,
+      "parent": "B60H1/02",
+      "ja": "そして推進設備以外の給源からのもの［４］",
+      "en": "and from a source other than the propulsion plant",
+      "count": 3550,
+      "sourceFile": "ipc_B60H.txt",
+      "kind": "ipc"
+    },
+    "B60H1/04": {
+      "code": "B60H1/04",
+      "level": 2,
+      "parent": "B60H1/02",
+      "ja": "設備の冷却液から出るもの",
+      "en": "from cooling liquid of the plant",
+      "count": 2095,
+      "sourceFile": "ipc_B60H.txt",
+      "kind": "ipc"
+    },
+    "B60H1/06": {
+      "code": "B60H1/06",
+      "level": 3,
+      "parent": "B60H1/04",
+      "ja": "主ラジエーターから直接に出るもの",
+      "en": "directly from main radiator",
+      "count": 824,
+      "sourceFile": "ipc_B60H.txt",
+      "kind": "ipc"
+    },
+    "B60H1/08": {
+      "code": "B60H1/08",
+      "level": 3,
+      "parent": "B60H1/04",
+      "ja": "主ラジエーターでない他のラジエーターから出るもの",
+      "en": "from other radiator than main radiator",
+      "count": 3851,
+      "sourceFile": "ipc_B60H.txt",
+      "kind": "ipc"
+    },
+    "B60H1/10": {
+      "code": "B60H1/10",
+      "level": 4,
+      "parent": "B60H1/08",
+      "ja": "車外空気に連通できるダクト内に配置されている他のラジエーター",
+      "en": "the other radiator being situated in a duct capable of being connected to atmosphere outside vehicle",
+      "count": 533,
+      "sourceFile": "ipc_B60H.txt",
+      "kind": "ipc"
+    },
+    "B60H1/12": {
+      "code": "B60H1/12",
+      "level": 5,
+      "parent": "B60H1/10",
+      "ja": "送風機を用いるもの",
+      "en": "using an air blower",
+      "count": 3480,
+      "sourceFile": "ipc_B60H.txt",
+      "kind": "ipc"
+    },
+    "B60H1/14": {
+      "code": "B60H1/14",
+      "level": 2,
+      "parent": "B60H1/02",
+      "ja": "設備の冷却液から以外のもの［２００６．０１］",
+      "en": "other than from cooling liquid of the plant",
+      "count": 2357,
+      "sourceFile": "ipc_B60H.txt",
+      "kind": "ipc"
+    },
+    "B60H1/16": {
+      "code": "B60H1/16",
+      "level": 3,
+      "parent": "B60H1/14",
+      "ja": "空気が直接設備に接触して熱せられるもの，例．空冷エンジン",
+      "en": "the air being heated by direct contact with the plant, e.g. air-cooled motor",
+      "count": 261,
+      "sourceFile": "ipc_B60H.txt",
+      "kind": "ipc"
+    },
+    "B60H1/18": {
+      "code": "B60H1/18",
+      "level": 3,
+      "parent": "B60H1/14",
+      "ja": "空気が排気ガス設備で熱せられるもの",
+      "en": "the air being heated from the plant exhaust gases",
+      "count": 1525,
+      "sourceFile": "ipc_B60H.txt",
+      "kind": "ipc"
+    },
+    "B60H1/20": {
+      "code": "B60H1/20",
+      "level": 4,
+      "parent": "B60H1/18",
+      "ja": "熱交換媒体を介在しているもの",
+      "en": "using an intermediate heat-transferring medium",
+      "count": 1048,
+      "sourceFile": "ipc_B60H.txt",
+      "kind": "ipc"
+    },
+    "B60H1/22": {
+      "code": "B60H1/22",
+      "level": 1,
+      "parent": "B60H1/00",
+      "ja": "熱源が推進設備以外であるもの  ［２００６．０１］",
+      "en": "the heat source being other than the propulsion plant",
+      "count": 14606,
+      "sourceFile": "ipc_B60H.txt",
+      "kind": "ipc"
+    },
+    "B60H1/24": {
+      "code": "B60H1/24",
+      "level": 1,
+      "parent": "B60H1/00",
+      "ja": "暖房または冷房に無関係な場所のための換気装置（ノズルまたは空気拡散装置Ｂ６０Ｈ１／３４）［２００６．０１］",
+      "en": "Ventilating devices where the heating or cooling is irrelevant  (nozzles or air-diffusers <b>B60H1/34</b>)",
+      "count": 10543,
+      "sourceFile": "ipc_B60H.txt",
+      "kind": "ipc"
+    },
+    "B60H1/26": {
+      "code": "B60H1/26",
+      "level": 2,
+      "parent": "B60H1/24",
+      "ja": "車両の外面にある換気口；換気空気を運ぶダクト",
+      "en": "Ventilating openings in vehicle exterior; Ducts for conveying ventilating air",
+      "count": 7456,
+      "sourceFile": "ipc_B60H.txt",
+      "kind": "ipc"
+    },
+    "B60H1/28": {
+      "code": "B60H1/28",
+      "level": 3,
+      "parent": "B60H1/26",
+      "ja": "換気口を車両前面窓に直接取付けるもの",
+      "en": "the openings being situated directly in front of vehicle front window",
+      "count": 1021,
+      "sourceFile": "ipc_B60H.txt",
+      "kind": "ipc"
+    },
+    "B60H1/30": {
+      "code": "B60H1/30",
+      "level": 3,
+      "parent": "B60H1/26",
+      "ja": "空気穴",
+      "en": "Air scoops",
+      "count": 843,
+      "sourceFile": "ipc_B60H.txt",
+      "kind": "ipc"
+    },
+    "B60H1/32": {
+      "code": "B60H1/32",
+      "level": 1,
+      "parent": "B60H1/00",
+      "ja": "冷房装置［２００６．０１］",
+      "en": "Cooling devices",
+      "count": 39881,
+      "sourceFile": "ipc_B60H.txt",
+      "kind": "ipc"
+    },
+    "B60H1/34": {
+      "code": "B60H1/34",
+      "level": 1,
+      "parent": "B60H1/00",
+      "ja": "ノズル；空気拡散装置［４］",
+      "en": "Nozzles; Air-diffusers",
+      "count": 14468,
+      "sourceFile": "ipc_B60H.txt",
+      "kind": "ipc"
+    },
+    "B60H3/00": {
+      "code": "B60H3/00",
+      "level": 0,
+      "parent": "B60H",
+      "ja": "他の空気処理装置［４］",
+      "en": "Other air-treating devices",
+      "count": 19124,
+      "sourceFile": "ipc_B60H.txt",
+      "kind": "ipc"
+    },
+    "B60H3/02": {
+      "code": "B60H3/02",
+      "level": 1,
+      "parent": "B60H3/00",
+      "ja": "加湿",
+      "en": "Moistening",
+      "count": 2726,
+      "sourceFile": "ipc_B60H.txt",
+      "kind": "ipc"
+    },
+    "B60H3/06": {
+      "code": "B60H3/06",
+      "level": 1,
+      "parent": "B60H3/00",
+      "ja": "ろ過",
+      "en": "Filtering",
+      "count": 12413,
+      "sourceFile": "ipc_B60H.txt",
+      "kind": "ipc"
+    }
+  }
+};

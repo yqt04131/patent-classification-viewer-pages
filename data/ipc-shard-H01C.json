@@ -1,0 +1,1146 @@
+{
+  "generatedAt": "2026-03-20T02:17:47.207Z",
+  "total": 114,
+  "entries": {
+    "H01C": {
+      "code": "H01C",
+      "level": 0,
+      "parent": "H01",
+      "ja": "抵抗器<br><br><b><ul>注</ul></b><br>（１）このサブクラスにおいては，下記の用語は以下に示す意味で用いる：<br>―“可調整”とは，機械的に調整が可能なことを意味する。［２］<br>（２）抵抗値を機械的に変化できない可変抵抗器，例．電圧または熱によるものはグループ７／００に分類される。［２］<br><br><b><ul>サブクラス内の索引</ul></b><br>固定抵抗器　３／００，７／００，８／００，１１／００<br>可変抵抗器　１０／００<br>他の抵抗器　１３／００<br>細部　１／００<br>製造　１７／００",
+      "en": "RESISTORS; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this subclass, the following term is used with the meaning indicated:<ul><li>\"adjustable\" means mechanically adjustable. </li></ul></li><li>Variable resistors, the value of which is changed non-mechanically, e.g. by voltage or temperature, are classified in group <b>H01C7/00</b>. </li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">NON-ADJUSTABLE RESISTORS </td><td><b><b>3/00</b>, <b>7/00</b>, <b>8/00</b>, <b>11/00</b></b></td></tr></tr><tr><td width=\"70%\">ADJUSTABLE RESISTORS </td><td><b><b>10/00</b></b></td></tr></tr><tr><td width=\"70%\">OTHER RESISTORS </td><td><b><b>13/00</b></b></td></tr></tr><tr><td width=\"70%\">DETAILS </td><td><b><b>1/00</b></b></td></tr></tr><tr><td width=\"70%\">MANUFACTURE </td><td><b><b>17/00</b></b></td></tr></tr></table>",
+      "count": 506,
+      "sourceFile": "ipc_H.txt",
+      "kind": "ipc"
+    },
+    "H01": {
+      "code": "H01",
+      "level": 0,
+      "parent": "H",
+      "ja": "電気素子<br><br><b><ul>注</ul></b><br>（１）他に項目が存在する単一の技術のみを含む方法，例．乾燥，被覆，はその技術に関連するクラスに分類される。<br>（２）“マイクロ構造の装置”および“マイクロ構造のシステム”に関する，クラスＢ８１およびサブクラスＢ８１Ｂの両タイトルの後の注に注意すること。［７］",
+      "en": "ELECTRIC ELEMENTS; <br><br><b><u>Note(s)</u></b><br><br><ul><li>Processes involving only a single technical art, e.g. drying, coating, for which provision exists elsewhere are classified in the relevant class for that art.</li><li>Attention is drawn to the Notes following the titles of class <b>B81</b> and subclass <b>B81B</b> relating to \"microstructural devices\" and \"microstructural systems\".</li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_H.txt",
+      "kind": "ipc"
+    },
+    "H": {
+      "code": "H",
+      "level": 0,
+      "parent": null,
+      "ja": "電気<br><br><b><ul>注</ul></b><br>（利用にあたっての基本原則と一般的指示）<br>Ｉ．セクションＨは以下のものを包含する：<br>（ａ）基本的電気素子，これは全ての電気ユニットと，装置や回路の一般的な機械的構成を包含しており，その中にはプリント配線と称されるものに各種の基本素子を組み立てたものも含まれる。またこれは他に包含されない場合には，ある程度までこれらの素子の製造をも包含する；<br>（ｂ）発電，これは，発電，変換および配電と共にそのための装置の制御を包含する；<br>（ｃ）電気の応用，これは以下のものを包含する：<br>（ｉ）一般的な利用技術，すなわち．電気加熱と電気照明回路の利用技術；<br>（ｉｉ）厳密な意味で電気的か電子的かいずれかの特定の利用技術で国際特許分類の他のセクションに包含されないもの，これは以下のものを含んでいる：<br>（１）電気的光源，これはレーザーを含む；<br>（２）電気的なＸ線技術；<br>（３）電気的なプラズマ技術，および帯電粒子または中性子の発生および加速；<br>（ｄ）基本電子回路およびその制御；<br>（ｅ）電気通信技術；これは電気―機械変換器一般を含む；<br>（ｆ）物品や上記素子を作るための特定の材料の使用，この点については指針の８８項から９０項を参照されたい。<br>ＩＩ．このセクションにおいては，下記の一般規則が適用される：<br>（ａ）上記Ｉ（ｃ）で述べた例外を除いて，国際特許分類のセクションＨ以外のいずれかのセクションに分類される特殊な操作，方法，装置，物体または物品に特有の電気的観点または部分は，常にその操作，方法，装置，物体または物品のためのサブクラスに分類されるか，または類似の性質を有する技術主題に関する共通的な特徴がクラス・レベルで展開されている場合には，それは，該技術主題のための一般的電気的な応用を完全に包含するサブクラスに，その操作，方法，装置，物体または物品と関連して分類される；<br>（ｂ）この様な電気的な応用には，一般的なものであれ特殊なものであれ，次の事項が含まれる。<br>（ｉ）Ａ６１における治療方法および装置；<br>（ｉｉ）Ｂ０１，Ｂ０３およびＢ２３Ｋにおける各種の実験室または工業的操作に用いられる電気的方法および装置；<br>（ｉｉｉ）セクションＢの“運輸”のサブセクションにおける車両一般および特殊な車両への電気の供給，電気的推進および電気照明；<br>（ｉｖ）Ｆ０２Ｐにおける内燃機関の電気点火系，およびＦ２３Ｑにおける燃焼装置一般のもの；<br>（ｖ）セクションＧにおける全ての電気的部分，すなわち，電気変量の測定器を含む測定装置，検査，信号および計算。このＧセクションにおいて電気とは，一般に手段として扱われるものでそれ自体目的として扱われるものではない；<br>（ｃ）全ての電気的な応用は一般的なものであれ特殊なものであれ，それが含んでいる電気的“基本的素子”に関して言えば，“基本的な電気”の観点がセクションＨ（上記Ｉ（ａ）参照）にあることを前提としている。この規則は，セクションＨ自身にある上記Ｉ（ｃ）で示した電気の応用に対しても有効である。",
+      "en": "ELECTRICITY; <br><br><b><u>Note(s)</u></b><br><br><ul><li>These Notes cover the basic principles and general instructions for use of section <b>H</b>.<ul><li>Section <b>H</b> <u>covers</u>: <ul><li>basic electric elements, which cover all electric units and the general mechanical structure of apparatus and circuits, including the assembly of various basic elements into what are called printed circuits and also cover to a certain extent the manufacture of these elements (when not covered elsewhere);</li><li>generation of electricity, which covers the generation, conversion and distribution of electricity together with the controlling of the corresponding gear;</li><li>applied electricity, which <u>covers</u>: <ul><li>general utilisation techniques, viz. those of electric heating and electric lighting circuits;</li><li>some special utilisation techniques, either electric or electronic in the strict sense, which are not covered by other sections of the Classification, including: <ul><li>electric light sources, including lasers;</li><li>electric X-ray technique;</li><li>electric plasma technique and the generation and acceleration of electrically charged particles or neutrons;</li></ul></li></ul></li><li>basic electronic circuits and their control;</li><li>radio or electric communication technique;</li><li>the use of a specified material for the manufacture of the article or element described. In this connection, paragraphs 88 to 90 of the Guide should be referred to.</li></ul></li><li>In this section, the following general rules apply: <ul><li>Subject to the exceptions stated in I(c), above, any electric aspect or part peculiar to a particular operation, process, apparatus, object or article, classified in one of the sections of the Classification other than section <b>H</b>, is always classified in the subclass for that operation, process, apparatus, object or article. Where common characteristics concerning technical subjects of similar nature have been brought out at class level, the electric aspect or part is classified, in conjunction with the operation, process, apparatus, object or article, in a subclass which covers entirely the general electrical applications for the technical subject in question;</li><li>The electrical applications referred to under (a), above, either general or particular, include: <ul><li>the therapeutic processes and apparatus, in class <b>A61</b>;</li><li>the electric processes and apparatus used in various laboratory or industrial operations, in classes <b>B01</b> and <b>B03</b> and in subclass <b>B23K</b>;</li><li>the electricity supply, electric propulsion and electric lighting of vehicles in general and of particular vehicles, in the subsection \"Transporting\" of section <b>B</b>;</li><li>the electric ignition systems of internal-combustion engines, in subclass <b>F02P</b>, and of combustion apparatus in general, in subclass <b>F23Q</b>;</li><li>the whole electrical part of section <b>G</b>, i.e. measuring devices including apparatus for measuring electric variables, checking, signalling and calculating. Electricity in that section is generally dealt with as a means and not as an end in itself;</li></ul></li><li>All electrical applications, both general and particular, presuppose that the \"basic electricity\" aspect appears in section <b>H</b> (see I(a) above) as regards the electric \"basic elements\" which they comprise. This rule is also valid for applied electricity, referred to in I(c), above, which appears in section <b>H</b> itself.</li></ul></li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_H.txt",
+      "kind": "ipc"
+    },
+    "H01C1/00": {
+      "code": "H01C1/00",
+      "level": 0,
+      "parent": "H01C",
+      "ja": "細部",
+      "en": "Details",
+      "count": 677,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C1/01": {
+      "code": "H01C1/01",
+      "level": 1,
+      "parent": "H01C1/00",
+      "ja": "取り付け；支持［２］",
+      "en": "Mounting; Supporting",
+      "count": 4532,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C1/012": {
+      "code": "H01C1/012",
+      "level": 2,
+      "parent": "H01C1/01",
+      "ja": "抵抗素子に沿って延び抵抗素子の固定または補強を行なう基板（Ｈ０１Ｃ１／０１６が優先；２つまたはそれ以上のコイルまたはループで１個のうず巻き状，ら旋状または環状の巻線を形成する抵抗素子Ｈ０１Ｃ３／１８，Ｈ０１Ｃ３／２０；基板上に１以上の層または被覆状に形成された抵抗素子Ｈ０１Ｃ７／００）［２］",
+      "en": "the base extending along, and imparting rigidity or reinforcement to, the resistive element(<b>H01C1/016</b> takes precedence; the resistive element being formed in two or more coils or loops as a spiral, helical, or toroidal winding <b>H01C3/18</b>, <b>H01C3/20</b>; the resistive element being formed as one or more layers or coatings on a base <b>H01C7/00</b>)",
+      "count": 800,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C1/014": {
+      "code": "H01C1/014",
+      "level": 2,
+      "parent": "H01C1/01",
+      "ja": "２個の支持部分の間につるされ，支持されている抵抗器（Ｈ０１Ｃ１／０１６が優先）［２］",
+      "en": "the resistor being suspended between, and being supported by, two supporting sections(<b>H01C1/016</b> takes precedence)",
+      "count": 623,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C1/016": {
+      "code": "H01C1/016",
+      "level": 2,
+      "parent": "H01C1/01",
+      "ja": "抵抗器の膨張または収縮の補償を有するもの［２］",
+      "en": "with compensation for resistor expansion or contraction",
+      "count": 100,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C1/02": {
+      "code": "H01C1/02",
+      "level": 1,
+      "parent": "H01C1/00",
+      "ja": "容器；囲い；埋設；容器または囲いの充てん［２］",
+      "en": "Housing; Enclosing; Embedding; Filling the housing or enclosure",
+      "count": 4732,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C1/022": {
+      "code": "H01C1/022",
+      "level": 2,
+      "parent": "H01C1/02",
+      "ja": "抵抗素子を開放または取り外しできる容器［２］",
+      "en": "the housing or enclosure being openable or separable from the resistive element",
+      "count": 715,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C1/024": {
+      "code": "H01C1/024",
+      "level": 2,
+      "parent": "H01C1/02",
+      "ja": "気密密閉された容器または囲い（Ｈ０１Ｃ１／０２８，Ｈ０１Ｃ１／０３２と１Ｈ０１Ｃ／０３４が優先）［２］",
+      "en": "the housing or enclosure being hermetically sealed(<b>H01C1/028</b>, <b>H01C1/032</b>, <b>H01C1/034</b> take precedence)",
+      "count": 1390,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C1/026": {
+      "code": "H01C1/026",
+      "level": 3,
+      "parent": "H01C1/024",
+      "ja": "抵抗素子と容器またはケースとの空間にガス体または真空を有するもの［２］",
+      "en": "with gaseous or vacuum spacing between the resistive element and the housing or casing",
+      "count": 204,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C1/028": {
+      "code": "H01C1/028",
+      "level": 2,
+      "parent": "H01C1/02",
+      "ja": "外部外装と共に絶縁体に埋設された抵抗素子［２］",
+      "en": "the resistive element being embedded in insulation with outer enclosing sheath",
+      "count": 819,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C1/03": {
+      "code": "H01C1/03",
+      "level": 3,
+      "parent": "H01C1/028",
+      "ja": "粉末絶縁体を有するもの［２］",
+      "en": "with powdered insulation",
+      "count": 153,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C1/032": {
+      "code": "H01C1/032",
+      "level": 2,
+      "parent": "H01C1/02",
+      "ja": "抵抗素子を複数の層で包囲するもの（Ｈ０１Ｃ１／０２８が優先）［２］",
+      "en": "plural layers surrounding the resistive element(<b>H01C1/028</b> takes precedence)",
+      "count": 580,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C1/034": {
+      "code": "H01C1/034",
+      "level": 2,
+      "parent": "H01C1/02",
+      "ja": "外部外装をもたないで被覆またはモールドして形成された容器または囲い（Ｈ０１Ｃ１／０３２が優先）［２］",
+      "en": "the housing or enclosure being formed as coating or mould without outer sheath(<b>H01C1/032</b> takes precedence)",
+      "count": 862,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C1/036": {
+      "code": "H01C1/036",
+      "level": 3,
+      "parent": "H01C1/034",
+      "ja": "巻線抵抗素子上にあるもの［２］",
+      "en": "on wound resistive element",
+      "count": 119,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C1/04": {
+      "code": "H01C1/04",
+      "level": 1,
+      "parent": "H01C1/00",
+      "ja": "分類マークの配列，例．カラーコード",
+      "en": "Arrangements of distinguishing marks, e.g. colour coding",
+      "count": 629,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C1/06": {
+      "code": "H01C1/06",
+      "level": 1,
+      "parent": "H01C1/00",
+      "ja": "静電または電磁遮へい装置",
+      "en": "Electrostatic or electromagnetic shielding arrangements",
+      "count": 274,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C1/08": {
+      "code": "H01C1/08",
+      "level": 1,
+      "parent": "H01C1/00",
+      "ja": "冷却，加熱または通風装置",
+      "en": "Cooling, heating or ventilating arrangements ",
+      "count": 1777,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C1/082": {
+      "code": "H01C1/082",
+      "level": 2,
+      "parent": "H01C1/08",
+      "ja": "流体の強制流通を用いるもの［２］",
+      "en": "using forced fluid flow",
+      "count": 1313,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C1/084": {
+      "code": "H01C1/084",
+      "level": 2,
+      "parent": "H01C1/08",
+      "ja": "自然冷却を用いるもの，例．フィン，ヒートシンク［２］",
+      "en": "using self-cooling, e.g. fins, heat sinks",
+      "count": 1771,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C1/12": {
+      "code": "H01C1/12",
+      "level": 1,
+      "parent": "H01C1/00",
+      "ja": "集電装置",
+      "en": "Arrangements of current collectors",
+      "count": 1003,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C1/125": {
+      "code": "H01C1/125",
+      "level": 2,
+      "parent": "H01C1/12",
+      "ja": "流体接点のもの［２］",
+      "en": "of fluid contacts",
+      "count": 42,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C1/14": {
+      "code": "H01C1/14",
+      "level": 1,
+      "parent": "H01C1/00",
+      "ja": "抵抗器のために特に適用される端子またはタップポイント；抵抗器上の端子またはタップポイントの配列",
+      "en": "Terminals or tapping points specially adapted for resistors; Arrangements of terminals or tapping points on resistors",
+      "count": 7893,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C1/142": {
+      "code": "H01C1/142",
+      "level": 2,
+      "parent": "H01C1/14",
+      "ja": "抵抗素子上に被覆された端子またはタップポイント［２］",
+      "en": "the terminals or tapping points being coated on the resistive element",
+      "count": 1150,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C1/144": {
+      "code": "H01C1/144",
+      "level": 2,
+      "parent": "H01C1/14",
+      "ja": "溶接またはろう接された端子またはタップポイント［２］",
+      "en": "the terminals or tapping points being welded or soldered",
+      "count": 1163,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C1/146": {
+      "code": "H01C1/146",
+      "level": 2,
+      "parent": "H01C1/14",
+      "ja": "端子を取り囲む抵抗素子［２］",
+      "en": "the resistive element surrounding the terminal",
+      "count": 299,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C1/148": {
+      "code": "H01C1/148",
+      "level": 2,
+      "parent": "H01C1/14",
+      "ja": "抵抗素子を包含または取り囲む端子（Ｈ０１Ｃ１／１４２が優先）［２］",
+      "en": "the terminals embracing or surrounding the resistive element(<b>H01C1/142</b> takes precedence)",
+      "count": 1201,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C1/16": {
+      "code": "H01C1/16",
+      "level": 1,
+      "parent": "H01C1/00",
+      "ja": "他に項目のない抵抗回路網",
+      "en": "Resistor networks not otherwise provided for",
+      "count": 1281,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C3/00": {
+      "code": "H01C3/00",
+      "level": 0,
+      "parent": "H01C",
+      "ja": "線またはリボンで形成された非可調整金属抵抗器，例．コイル状，編組み状またはグリッド状に形成されたもの",
+      "en": "Non-adjustable metal resistors made of wire or ribbon, e.g. coiled, woven, or formed as grids",
+      "count": 1516,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C3/02": {
+      "code": "H01C3/02",
+      "level": 1,
+      "parent": "H01C3/00",
+      "ja": "自己誘導，キャパシタンスまたは周波数による変化を減少させるために配置されまたは構成されたもの",
+      "en": "arranged or constructed for reducing self-induction, capacitance, or variation with frequency",
+      "count": 315,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C3/04": {
+      "code": "H01C3/04",
+      "level": 1,
+      "parent": "H01C3/00",
+      "ja": "鉄線条安定抵抗器；可変温度係数を有する他の抵抗器",
+      "en": "Iron-filament ballast resistors; Other resistors having variable temperature coefficient",
+      "count": 180,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C3/06": {
+      "code": "H01C3/06",
+      "level": 1,
+      "parent": "H01C3/00",
+      "ja": "柔軟性または折りたたみ状の抵抗器，そのため抵抗体自体を締め付けまたは折りたたみできるもの［２］",
+      "en": "Flexible or folding resistors, whereby such a resistor can be looped or collapsed upon itself",
+      "count": 129,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C3/08": {
+      "code": "H01C3/08",
+      "level": 1,
+      "parent": "H01C3/00",
+      "ja": "１つの端子から他方まで抵抗素子の大きさまたは特性が漸次にまたは段階的に変化しているもの［２］",
+      "en": "Dimension or characteristic of resistive element changing gradually or in discrete steps from one terminal to another",
+      "count": 40,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C3/10": {
+      "code": "H01C3/10",
+      "level": 1,
+      "parent": "H01C3/00",
+      "ja": "ジグザグまたは折曲状に構成された抵抗素子［２］",
+      "en": "the resistive element having zig-zag or sinusoidal configuration",
+      "count": 568,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C3/12": {
+      "code": "H01C3/12",
+      "level": 2,
+      "parent": "H01C3/10",
+      "ja": "１平面に設けられているもの［２］",
+      "en": "lying in one plane",
+      "count": 275,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C3/14": {
+      "code": "H01C3/14",
+      "level": 1,
+      "parent": "H01C3/00",
+      "ja": "２以上のコイルまたはループで連続的に巻かれ１個のうず巻き状，ら旋状または環状の巻線を形成する抵抗素子（Ｈ０１Ｃ３／０２～Ｈ０１Ｃ３／１２が優先）［２］",
+      "en": "the resistive element being formed in two or more coils or loops continuously wound as a spiral, helical, or toroidal winding(<b>H01C3/02 to H01C3/12</b>  take precedence)",
+      "count": 498,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C3/16": {
+      "code": "H01C3/16",
+      "level": 2,
+      "parent": "H01C3/14",
+      "ja": "２以上の異なった巻線素子または２以上の巻き型を含むもの［２］",
+      "en": "including two or more distinct wound elements, or two or more winding patterns",
+      "count": 130,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C3/18": {
+      "code": "H01C3/18",
+      "level": 2,
+      "parent": "H01C3/14",
+      "ja": "平坦なまたはリボン状の基板上に巻かれたもの（Ｈ０１Ｃ３／１６が優先）［２］",
+      "en": "wound on a flat or ribbon base(<b>H01C3/16</b> takes precedence)",
+      "count": 113,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C3/20": {
+      "code": "H01C3/20",
+      "level": 2,
+      "parent": "H01C3/14",
+      "ja": "円筒状または角柱状の基板に巻かれたもの（Ｈ０１Ｃ３／１６が優先）［２］",
+      "en": "wound on cylindrical or prismatic base(<b>H01C3/16</b> takes precedence)",
+      "count": 708,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C7/00": {
+      "code": "H01C7/00",
+      "level": 0,
+      "parent": "H01C",
+      "ja": "１以上の層または被覆状に形成された非可調整抵抗器；粉末絶縁材料を含むかまたは含まない粉末導電材料または粉末半導体材料で形成された非可調整抵抗器（ルーズな粉末状または顆粒状の物質より成るものＨ０１Ｃ８／００；電位障壁を有する抵抗器，例．電界効果による抵抗器，Ｈ１０Ｄ１／４０－Ｈ１０Ｄ１／４３，Ｈ１０Ｋ１０／１０；電磁波または粒子線輻射に感応する半導体装置，例．光抵抗器Ｈ１０Ｆ３０／００；磁界制御抵抗Ｈ１０ＮＬ５０／１０；バルク負性抵抗効果装置Ｈ１０Ｎ８０／００）［２００６．０１］",
+      "en": "Non-adjustable resistors formed as one or more layers or coatings; Non-adjustable resistors made from powdered conducting material or powdered semi-conducting material with or without insulating material  (consisting of loose powdered or granular material <b>H01C8/00</b>;   resistors having potential barriers, e.g. field-effect resistors, <b>H10D1/40 to H10D1/43</b> , <b>H10K10/10</b>;   semiconductor devices sensitive to electromagnetic or corpuscular radiation, e.g. photoresistors, <b>H10F30/00</b>;   magnetic field controlled resistors <b>H10N50/10</b>;   bulk negative resistance effect devices <b>H10N80/00</b>)",
+      "count": 13290,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C7/02": {
+      "code": "H01C7/02",
+      "level": 1,
+      "parent": "H01C7/00",
+      "ja": "正温度係数をもつもの",
+      "en": "having positive temperature coefficient",
+      "count": 8477,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C7/04": {
+      "code": "H01C7/04",
+      "level": 1,
+      "parent": "H01C7/00",
+      "ja": "負温度係数をもつもの",
+      "en": "having negative temperature coefficient",
+      "count": 6359,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C7/06": {
+      "code": "H01C7/06",
+      "level": 1,
+      "parent": "H01C7/00",
+      "ja": "温度変化による抵抗値変化を最小にするための手段を含むもの",
+      "en": "including means to minimise changes in resistance with changes in temperature",
+      "count": 569,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C7/10": {
+      "code": "H01C7/10",
+      "level": 1,
+      "parent": "H01C7/00",
+      "ja": "電圧に応答するもの，すなわち，バリスター［６］",
+      "en": "voltage responsive, i.e. varistors",
+      "count": 7553,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C7/102": {
+      "code": "H01C7/102",
+      "level": 2,
+      "parent": "H01C7/10",
+      "ja": "バリスター境界，例．表面層（Ｈ０１Ｃ７／１２が優先）［６］",
+      "en": "Varistor boundary, e.g. surface layers(<b>H01C7/12</b> takes precedence)",
+      "count": 398,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C7/105": {
+      "code": "H01C7/105",
+      "level": 2,
+      "parent": "H01C7/10",
+      "ja": "バリスターコア（Ｈ０１Ｃ７／１２が優先）［６］",
+      "en": "Varistor cores(<b>H01C7/12</b> takes precedence)",
+      "count": 258,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C7/108": {
+      "code": "H01C7/108",
+      "level": 3,
+      "parent": "H01C7/105",
+      "ja": "金属の酸化物［６］",
+      "en": "Metal oxide",
+      "count": 328,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C7/112": {
+      "code": "H01C7/112",
+      "level": 4,
+      "parent": "H01C7/108",
+      "ja": "酸化亜鉛タイプ［６］",
+      "en": "ZnO type",
+      "count": 1294,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C7/115": {
+      "code": "H01C7/115",
+      "level": 4,
+      "parent": "H01C7/108",
+      "ja": "二酸化チタンタイプまたはチタン酸塩タイプ［６］",
+      "en": "Titanium dioxide- or titanate type",
+      "count": 118,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C7/118": {
+      "code": "H01C7/118",
+      "level": 3,
+      "parent": "H01C7/105",
+      "ja": "炭化物，例．炭化珪素タイプ［６］",
+      "en": "Carbide, e.g. SiC type",
+      "count": 130,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C7/12": {
+      "code": "H01C7/12",
+      "level": 2,
+      "parent": "H01C7/10",
+      "ja": "過電圧保護抵抗器；避雷器［３］",
+      "en": "Overvoltage protection resistors; Arresters",
+      "count": 8558,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C7/13": {
+      "code": "H01C7/13",
+      "level": 1,
+      "parent": "H01C7/00",
+      "ja": "電流に応答するもの［２］<br><br><b><ul>注</ul></b><br>グループ７／０２から７／１３はグループ７／１８から７／２２に優先する。［２］",
+      "en": "current-responsive",
+      "count": 1128,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C7/18": {
+      "code": "H01C7/18",
+      "level": 1,
+      "parent": "H01C7/00",
+      "ja": "端子間に積み重ねられた複数の層よりなるもの［２］",
+      "en": "comprising a plurality of layers stacked between terminals",
+      "count": 765,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C7/20": {
+      "code": "H01C7/20",
+      "level": 1,
+      "parent": "H01C7/00",
+      "ja": "抵抗層または抵抗被覆が先細り状のもの［２］",
+      "en": "the resistive layer or coating being tapered",
+      "count": 49,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C7/22": {
+      "code": "H01C7/22",
+      "level": 1,
+      "parent": "H01C7/00",
+      "ja": "屈曲または湾曲して延びる，例．折曲状または螺旋状の，抵抗素子［２］",
+      "en": "Elongated resistive element being bent or curved, e.g. sinusoidal, helical",
+      "count": 385,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C8/00": {
+      "code": "H01C8/00",
+      "level": 0,
+      "parent": "H01C",
+      "ja": "ルーズな粉末状または顆粒状の導体，または粉末状または顆粒状の半導体物質より成る非可調整抵抗器［２］",
+      "en": "Non-adjustable resistors consisting of loose powdered or granular conducting, or powdered or granular semi-conducting material",
+      "count": 88,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C8/02": {
+      "code": "H01C8/02",
+      "level": 1,
+      "parent": "H01C8/00",
+      "ja": "電磁波を検出するためのコヒーラまたは同様の不完全抵抗器［２］",
+      "en": "Coherers or like imperfect resistors for detecting electromagnetic waves",
+      "count": 40,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C8/04": {
+      "code": "H01C8/04",
+      "level": 1,
+      "parent": "H01C8/00",
+      "ja": "過電圧保護抵抗器；避雷器［２，３］",
+      "en": "Overvoltage protection resistors; Arresters",
+      "count": 459,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C10/00": {
+      "code": "H01C10/00",
+      "level": 0,
+      "parent": "H01C",
+      "ja": "可調整抵抗器［２］",
+      "en": "Adjustable resistors",
+      "count": 4812,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C10/02": {
+      "code": "H01C10/02",
+      "level": 1,
+      "parent": "H01C10/00",
+      "ja": "液体抵抗器［２］",
+      "en": "Liquid resistors",
+      "count": 902,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C10/04": {
+      "code": "H01C10/04",
+      "level": 1,
+      "parent": "H01C10/00",
+      "ja": "直線比例関係ではなく抵抗駆動手段の動作と抵抗値との間に特殊な数学的関係があるもの［２］",
+      "en": "with specified mathematical relationship between movement of resistor actuating means and value of resistance, other than direct proportional relationship",
+      "count": 321,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C10/06": {
+      "code": "H01C10/06",
+      "level": 1,
+      "parent": "H01C10/00",
+      "ja": "抵抗素子の値の違ったものを短絡することにより調整できるもの［２］",
+      "en": "adjustable by short-circuiting different amounts of the resistive element",
+      "count": 285,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C10/08": {
+      "code": "H01C10/08",
+      "level": 2,
+      "parent": "H01C10/06",
+      "ja": "抵抗素子と短絡手段との間に導電構造を介在させるもの，例．タップ［２］",
+      "en": "with intervening conducting structure between the resistive element and the short-circuiting means, e.g. taps",
+      "count": 364,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C10/10": {
+      "code": "H01C10/10",
+      "level": 1,
+      "parent": "H01C10/00",
+      "ja": "機械的圧力または力により調整できるもの［２］",
+      "en": "adjustable by mechanical pressure or force",
+      "count": 1194,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C10/12": {
+      "code": "H01C10/12",
+      "level": 2,
+      "parent": "H01C10/10",
+      "ja": "抵抗塊間または抵抗と導体塊間の表面圧力の変化によるもの，例．パイル型［２］",
+      "en": "by changing surface pressure between resistive masses or resistive and conductive masses, e.g. pile type",
+      "count": 376,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C10/14": {
+      "code": "H01C10/14",
+      "level": 1,
+      "parent": "H01C10/00",
+      "ja": "補助駆動手段により調整できるもの［２］",
+      "en": "adjustable by auxiliary driving means",
+      "count": 1303,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C10/16": {
+      "code": "H01C10/16",
+      "level": 1,
+      "parent": "H01C10/00",
+      "ja": "複数の抵抗素子を含むもの［２］",
+      "en": "including plural resistive elements",
+      "count": 1168,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C10/18": {
+      "code": "H01C10/18",
+      "level": 2,
+      "parent": "H01C10/16",
+      "ja": "粗または微細抵抗素子を含むもの［２］",
+      "en": "including coarse and fine resistive elements",
+      "count": 105,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C10/20": {
+      "code": "H01C10/20",
+      "level": 2,
+      "parent": "H01C10/16",
+      "ja": "接点構造または可動抵抗素子が集合しているもの［２］",
+      "en": "Contact structure or movable resistive elements being ganged",
+      "count": 1362,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C10/22": {
+      "code": "H01C10/22",
+      "level": 1,
+      "parent": "H01C10/00",
+      "ja": "１方向に大きさが漸次に変化する抵抗素子，例．テーパ状抵抗素子（Ｈ０１Ｃ１０／０４が優先）［２］",
+      "en": "resistive-element dimensions changing gradually in one direction, e.g. tapered resistive element(<b>H01C10/04</b> takes precedence)",
+      "count": 80,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C10/23": {
+      "code": "H01C10/23",
+      "level": 1,
+      "parent": "H01C10/00",
+      "ja": "不連続的，歩進的に大きさの変化する抵抗素子［２］",
+      "en": "resistive-element dimensions changing in a series of discrete, progressive steps",
+      "count": 175,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C10/24": {
+      "code": "H01C10/24",
+      "level": 1,
+      "parent": "H01C10/00",
+      "ja": "１つのら旋抵抗素子の曲線に沿って接点が移動するもの，またはその逆のもの［２］",
+      "en": "the contact moving along turns of a helical resistive element, or <u>vice versa</u>",
+      "count": 430,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C10/26": {
+      "code": "H01C10/26",
+      "level": 1,
+      "parent": "H01C10/00",
+      "ja": "抵抗素子が移動するもの（Ｈ０１Ｃ１０／１６，Ｈ０１Ｃ１０／２４が優先）［２］<br><br><b><ul>注</ul></b><br>グループ１０／０２から１０／２６はグループ１０／２８から１０／５０に優先する。［２］",
+      "en": "resistive element moving(<b>H01C10/16</b>, <b>H01C10/24</b> take precedence)",
+      "count": 166,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C10/28": {
+      "code": "H01C10/28",
+      "level": 1,
+      "parent": "H01C10/00",
+      "ja": "抵抗素子またはタップに沿って振動または回転する接点［２］",
+      "en": "the contact rocking or rolling along resistive element or taps",
+      "count": 412,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C10/30": {
+      "code": "H01C10/30",
+      "level": 1,
+      "parent": "H01C10/00",
+      "ja": "抵抗素子に沿って滑動する接点［２］",
+      "en": "the contact sliding along resistive element",
+      "count": 1649,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C10/32": {
+      "code": "H01C10/32",
+      "level": 2,
+      "parent": "H01C10/30",
+      "ja": "アーチ形の通路を移動する接点［２］",
+      "en": "the contact moving in an arcuate path",
+      "count": 4124,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C10/34": {
+      "code": "H01C10/34",
+      "level": 3,
+      "parent": "H01C10/32",
+      "ja": "１つの輪状またはその一部として形成された集電体上に乗って移動する接点または関連した導電構造［２］",
+      "en": "the contact or the associated conducting structure riding on collector formed as a ring or portion thereof",
+      "count": 1613,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C10/36": {
+      "code": "H01C10/36",
+      "level": 3,
+      "parent": "H01C10/32",
+      "ja": "構造的にスイッチ装置と結合されたもの［２］",
+      "en": "structurally combined with switching arrangements",
+      "count": 1123,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C10/38": {
+      "code": "H01C10/38",
+      "level": 2,
+      "parent": "H01C10/30",
+      "ja": "直線状の通路を移動する接点［２］",
+      "en": "the contact moving along a straight path",
+      "count": 2073,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C10/40": {
+      "code": "H01C10/40",
+      "level": 3,
+      "parent": "H01C10/38",
+      "ja": "ねじ駆動するもの［２］",
+      "en": "screw-operated",
+      "count": 466,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C10/42": {
+      "code": "H01C10/42",
+      "level": 4,
+      "parent": "H01C10/40",
+      "ja": "抵抗素子と平行の導体棒または集電体に沿って橋絡または滑動する接点［２］",
+      "en": "the contact bridging and sliding along resistive element and parallel conducting bar or collector",
+      "count": 252,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C10/44": {
+      "code": "H01C10/44",
+      "level": 3,
+      "parent": "H01C10/38",
+      "ja": "抵抗素子と平行の導体棒または集電体に沿って橋絡または滑動する接点（Ｈ０１Ｃ１０／４２が優先）［２］",
+      "en": "the contact bridging and sliding along resistive element and parallel conducting bar or collector(<b>H01C10/42</b> takes precedence)",
+      "count": 568,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C10/46": {
+      "code": "H01C10/46",
+      "level": 1,
+      "parent": "H01C10/00",
+      "ja": "接続子，例．タップ，を中間にもつ固定抵抗器の配列（Ｈ０１Ｃ１０／２８，Ｈ０１Ｃ１０／３０が優先）［２］",
+      "en": "Arrangements of fixed resistors with intervening connectors, e.g. taps(<b>H01C10/28</b>, <b>H01C10/30</b> take precedence)",
+      "count": 287,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C10/48": {
+      "code": "H01C10/48",
+      "level": 2,
+      "parent": "H01C10/46",
+      "ja": "アーチ形の通路を移動できる接点を含むもの［２］",
+      "en": "including contact movable in an arcuate path",
+      "count": 240,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C10/50": {
+      "code": "H01C10/50",
+      "level": 1,
+      "parent": "H01C10/00",
+      "ja": "構造的にスイッチ装置と結合されたもの（Ｈ０１Ｃ１０／３６が優先）［２］",
+      "en": "structurally combined with switching arrangement(<b>H01C10/36</b> takes precedence)",
+      "count": 760,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C11/00": {
+      "code": "H01C11/00",
+      "level": 0,
+      "parent": "H01C",
+      "ja": "非可調整液体抵抗器［２］",
+      "en": "Non-adjustable liquid resistors",
+      "count": 171,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C13/00": {
+      "code": "H01C13/00",
+      "level": 0,
+      "parent": "H01C",
+      "ja": "他に属さない抵抗器",
+      "en": "Resistors not provided for elsewhere",
+      "count": 3476,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C13/02": {
+      "code": "H01C13/02",
+      "level": 1,
+      "parent": "H01C13/00",
+      "ja": "抵抗器の構造的組合せ［２］",
+      "en": "Structural combinations of resistors",
+      "count": 2540,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C17/00": {
+      "code": "H01C17/00",
+      "level": 0,
+      "parent": "H01C",
+      "ja": "抵抗器を製造するために特に適用される装置または方法（容器または囲いに充てん物を供給するものＨ０１Ｃ１／０２；抵抗体を取り囲む絶縁物を粉末に変えるものＨ０１Ｃ１／０３；熱可変抵抗器の製造Ｈ０１Ｃ７／０２，Ｈ０１Ｃ７／０４）［２］",
+      "en": "Apparatus or processes specially adapted for manufacturing resistors(providing fillings for housings or enclosures <b>H01C1/02</b>; reducing insulation surrounding a resistor to powder <b>H01C1/03</b>; manufacture of thermally variable resistors <b>H01C7/02</b>, <b>H01C7/04</b>)",
+      "count": 6016,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C17/02": {
+      "code": "H01C17/02",
+      "level": 1,
+      "parent": "H01C17/00",
+      "ja": "外被または容器のある抵抗器の製造に適用されるもの（加熱要素管の中に絶縁物質を充てんもしくは圧縮する装置または方法Ｈ０５Ｂ３／５２）［２］",
+      "en": "adapted for manufacturing resistors with envelope or housing(apparatus or processes for filling or compressing insulating material in heating element tubes <b>H05B3/52</b>)",
+      "count": 2144,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C17/04": {
+      "code": "H01C17/04",
+      "level": 1,
+      "parent": "H01C17/00",
+      "ja": "抵抗素子の巻き付けに適用されるもの［２］",
+      "en": "adapted for winding the resistive element",
+      "count": 879,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C17/06": {
+      "code": "H01C17/06",
+      "level": 1,
+      "parent": "H01C17/00",
+      "ja": "基板上に抵抗物質を被覆するために適用されるもの［２］",
+      "en": "adapted for coating resistive material on a base",
+      "count": 3756,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C17/065": {
+      "code": "H01C17/065",
+      "level": 2,
+      "parent": "H01C17/06",
+      "ja": "厚膜技術によるもの，例．シルクスクリーン彩色画印刷法［６］",
+      "en": "by thick-film techniques, e.g. serigraphy",
+      "count": 1771,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C17/07": {
+      "code": "H01C17/07",
+      "level": 2,
+      "parent": "H01C17/06",
+      "ja": "抵抗薄片の接合によるもの，例．クラッド法［６］",
+      "en": "by resistor foil bonding, e.g. cladding",
+      "count": 135,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C17/075": {
+      "code": "H01C17/075",
+      "level": 2,
+      "parent": "H01C17/06",
+      "ja": "薄膜技術によるもの［６］",
+      "en": "by thin-film techniques",
+      "count": 317,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C17/08": {
+      "code": "H01C17/08",
+      "level": 3,
+      "parent": "H01C17/075",
+      "ja": "蒸着によるもの［２］",
+      "en": "by vapour deposition",
+      "count": 414,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C17/10": {
+      "code": "H01C17/10",
+      "level": 3,
+      "parent": "H01C17/075",
+      "ja": "焔熔射によるもの［２］",
+      "en": "by flame spraying",
+      "count": 67,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C17/12": {
+      "code": "H01C17/12",
+      "level": 3,
+      "parent": "H01C17/075",
+      "ja": "スパッタリングによるもの［２］",
+      "en": "by sputtering",
+      "count": 818,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C17/14": {
+      "code": "H01C17/14",
+      "level": 3,
+      "parent": "H01C17/075",
+      "ja": "化学的析出によるもの［２］",
+      "en": "by chemical deposition",
+      "count": 151,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C17/16": {
+      "code": "H01C17/16",
+      "level": 4,
+      "parent": "H01C17/14",
+      "ja": "電流を用いるもの［２］",
+      "en": "using electric current",
+      "count": 111,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C17/18": {
+      "code": "H01C17/18",
+      "level": 4,
+      "parent": "H01C17/14",
+      "ja": "電流を用いないもの［２］",
+      "en": "without using electric current",
+      "count": 114,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C17/20": {
+      "code": "H01C17/20",
+      "level": 2,
+      "parent": "H01C17/06",
+      "ja": "熱分解方法によるもの［２］",
+      "en": "by pyrolytic processes",
+      "count": 201,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C17/22": {
+      "code": "H01C17/22",
+      "level": 1,
+      "parent": "H01C17/00",
+      "ja": "トリミングに適用されるもの［２］",
+      "en": "adapted for trimming",
+      "count": 1293,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C17/23": {
+      "code": "H01C17/23",
+      "level": 2,
+      "parent": "H01C17/22",
+      "ja": "あらかじめ決めた抵抗値の抵抗器の溝の開放または閉鎖によるもの［６］",
+      "en": "by opening or closing resistor tracks of predetermined resistive values",
+      "count": 137,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C17/232": {
+      "code": "H01C17/232",
+      "level": 2,
+      "parent": "H01C17/22",
+      "ja": "温度係数を調整するもの；温度係数の調整により抵抗値を調整するもの［６］",
+      "en": "Adjusting the temperature coefficient; Adjusting value of resistance by adjusting temperature coefficient",
+      "count": 113,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C17/235": {
+      "code": "H01C17/235",
+      "level": 2,
+      "parent": "H01C17/22",
+      "ja": "較正のための電位差計部分の初期調整［６］",
+      "en": "Initial adjustment of potentiometer parts for calibration",
+      "count": 47,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C17/24": {
+      "code": "H01C17/24",
+      "level": 2,
+      "parent": "H01C17/22",
+      "ja": "抵抗物質の除去または付加によるもの（Ｈ０１Ｃ１７／２３，Ｈ０１Ｃ１７／２３２，Ｈ０１Ｃ１７／２３５が優先）［２，６］",
+      "en": "by removing or adding resistive material(<b>H01C17/23</b>, <b>H01C17/232</b>, <b>H01C17/235</b> take precedence)",
+      "count": 1869,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C17/242": {
+      "code": "H01C17/242",
+      "level": 3,
+      "parent": "H01C17/24",
+      "ja": "レーザーによるもの［６］",
+      "en": "by laser",
+      "count": 1305,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C17/245": {
+      "code": "H01C17/245",
+      "level": 3,
+      "parent": "H01C17/24",
+      "ja": "機械的手段によるもの，例．砂吹き，切断，超音波処理［２００６．０１］",
+      "en": "by mechanical means, e.g. sand-blasting, cutting or ultrasonic treatment",
+      "count": 336,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C17/26": {
+      "code": "H01C17/26",
+      "level": 2,
+      "parent": "H01C17/22",
+      "ja": "抵抗物質の変化によるもの［２］",
+      "en": "by converting resistive material",
+      "count": 362,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C17/28": {
+      "code": "H01C17/28",
+      "level": 1,
+      "parent": "H01C17/00",
+      "ja": "端子付けに適用されるもの［２］",
+      "en": "adapted for applying terminals",
+      "count": 2976,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    },
+    "H01C17/30": {
+      "code": "H01C17/30",
+      "level": 1,
+      "parent": "H01C17/00",
+      "ja": "焼き付けに適用されるもの［２］",
+      "en": "adapted for baking",
+      "count": 922,
+      "sourceFile": "ipc_H01C.txt",
+      "kind": "ipc"
+    }
+  }
+}

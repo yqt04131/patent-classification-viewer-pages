@@ -1,0 +1,836 @@
+{
+  "generatedAt": "2026-03-20T02:17:46.190Z",
+  "total": 83,
+  "entries": {
+    "B41M": {
+      "code": "B41M",
+      "level": 0,
+      "parent": "B41",
+      "ja": "印刷，複製，マーキングまたは複写方法；カラー印刷（誤植の修正Ｂ４１Ｊ；移し絵または類似のものを適用する方法Ｂ４４Ｃ１／１６；被覆することによって誤印字を修正する液体媒体Ｃ０９Ｄ１０／００；なっ染Ｄ０６Ｐ）",
+      "en": "PRINTING, DUPLICATING, MARKING, OR COPYING PROCESSES; COLOUR PRINTING(correction of typographical errors <b>B41J</b>; processes for applying transfer pictures or the like <b>B44C1/16</b>; fluid media for correction of typographical errors by coating <b>C09D10/00</b>; printing textiles <b>D06P</b>)",
+      "count": 1083,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B41": {
+      "code": "B41",
+      "level": 0,
+      "parent": "B",
+      "ja": "印刷；線画機；タイプライター；スタンプ［４］",
+      "en": "PRINTING; LINING MACHINES; TYPEWRITERS; STAMPS",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B": {
+      "code": "B",
+      "level": 0,
+      "parent": null,
+      "ja": "処理操作；運輸",
+      "en": "PERFORMING OPERATIONS; TRANSPORTING",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B41M1/00": {
+      "code": "B41M1/00",
+      "level": 0,
+      "parent": "B41M",
+      "ja": "版を備えた印刷機のインキ付けおよび印刷",
+      "en": "Inking and printing with a printer's forme",
+      "count": 1606,
+      "sourceFile": "ipc_B41M.txt",
+      "kind": "ipc"
+    },
+    "B41M1/02": {
+      "code": "B41M1/02",
+      "level": 1,
+      "parent": "B41M1/00",
+      "ja": "凸版印刷，例．活版印刷",
+      "en": "Letterpress printing, e.g. book printing",
+      "count": 628,
+      "sourceFile": "ipc_B41M.txt",
+      "kind": "ipc"
+    },
+    "B41M1/04": {
+      "code": "B41M1/04",
+      "level": 2,
+      "parent": "B41M1/02",
+      "ja": "フレキソ印刷",
+      "en": "Flexographic printing",
+      "count": 1005,
+      "sourceFile": "ipc_B41M.txt",
+      "kind": "ipc"
+    },
+    "B41M1/06": {
+      "code": "B41M1/06",
+      "level": 1,
+      "parent": "B41M1/00",
+      "ja": "平版印刷",
+      "en": "Lithographic printing",
+      "count": 1851,
+      "sourceFile": "ipc_B41M.txt",
+      "kind": "ipc"
+    },
+    "B41M1/08": {
+      "code": "B41M1/08",
+      "level": 2,
+      "parent": "B41M1/06",
+      "ja": "水無し平版印刷",
+      "en": "Dry printing",
+      "count": 278,
+      "sourceFile": "ipc_B41M.txt",
+      "kind": "ipc"
+    },
+    "B41M1/10": {
+      "code": "B41M1/10",
+      "level": 1,
+      "parent": "B41M1/00",
+      "ja": "凹版印刷",
+      "en": "Intaglio printing",
+      "count": 2677,
+      "sourceFile": "ipc_B41M.txt",
+      "kind": "ipc"
+    },
+    "B41M1/12": {
+      "code": "B41M1/12",
+      "level": 1,
+      "parent": "B41M1/00",
+      "ja": "ステンシル印刷；シルクスクリーン印刷",
+      "en": "Stencil printing; Silk-screen printing",
+      "count": 6767,
+      "sourceFile": "ipc_B41M.txt",
+      "kind": "ipc"
+    },
+    "B41M1/14": {
+      "code": "B41M1/14",
+      "level": 1,
+      "parent": "B41M1/00",
+      "ja": "多色印刷",
+      "en": "Multicolour printing",
+      "count": 1391,
+      "sourceFile": "ipc_B41M.txt",
+      "kind": "ipc"
+    },
+    "B41M1/16": {
+      "code": "B41M1/16",
+      "level": 2,
+      "parent": "B41M1/14",
+      "ja": "虹効果を出すために互に混じりあって異なったインキを使用するもの",
+      "en": "using different inks which flow into one another to produce iridescent effects",
+      "count": 68,
+      "sourceFile": "ipc_B41M.txt",
+      "kind": "ipc"
+    },
+    "B41M1/18": {
+      "code": "B41M1/18",
+      "level": 2,
+      "parent": "B41M1/14",
+      "ja": "他のインキの上への印刷",
+      "en": "Printing one ink over another",
+      "count": 772,
+      "sourceFile": "ipc_B41M.txt",
+      "kind": "ipc"
+    },
+    "B41M1/20": {
+      "code": "B41M1/20",
+      "level": 2,
+      "parent": "B41M1/14",
+      "ja": "印刷版の異なる部分に同時に多色インキを適用するもの",
+      "en": "by applying differently-coloured inks simultaneously to different parts of the printing surface",
+      "count": 218,
+      "sourceFile": "ipc_B41M.txt",
+      "kind": "ipc"
+    },
+    "B41M1/22": {
+      "code": "B41M1/22",
+      "level": 1,
+      "parent": "B41M1/00",
+      "ja": "メタリック印刷；粉末インクによる印刷",
+      "en": "Metallic printing; Printing with powdered inks",
+      "count": 956,
+      "sourceFile": "ipc_B41M.txt",
+      "kind": "ipc"
+    },
+    "B41M1/24": {
+      "code": "B41M1/24",
+      "level": 1,
+      "parent": "B41M1/00",
+      "ja": "エンボシングと結びついたもの（エンボシングと結合された印刷操作を行なう印刷機械Ｂ４１Ｆ１９／０２）［２］",
+      "en": "combined with embossing(printing machines for carrying out printing operations combined with embossing <b>B41F19/02</b>)",
+      "count": 921,
+      "sourceFile": "ipc_B41M.txt",
+      "kind": "ipc"
+    },
+    "B41M1/26": {
+      "code": "B41M1/26",
+      "level": 1,
+      "parent": "B41M1/00",
+      "ja": "普通の紙以外の表面への印刷（Ｂ４１Ｍ１／４０が優先）",
+      "en": "Printing on other surfaces than ordinary paper(<b>B41M1/40</b> takes precedence)",
+      "count": 2714,
+      "sourceFile": "ipc_B41M.txt",
+      "kind": "ipc"
+    },
+    "B41M1/28": {
+      "code": "B41M1/28",
+      "level": 2,
+      "parent": "B41M1/26",
+      "ja": "金属への印刷",
+      "en": "on metals",
+      "count": 1403,
+      "sourceFile": "ipc_B41M.txt",
+      "kind": "ipc"
+    },
+    "B41M1/30": {
+      "code": "B41M1/30",
+      "level": 2,
+      "parent": "B41M1/26",
+      "ja": "プラスチック有機材，角製のもの，または同様のものへの印刷",
+      "en": "on organic plastics, horn, or like materials",
+      "count": 3975,
+      "sourceFile": "ipc_B41M.txt",
+      "kind": "ipc"
+    },
+    "B41M1/32": {
+      "code": "B41M1/32",
+      "level": 2,
+      "parent": "B41M1/26",
+      "ja": "ゴムへの印刷",
+      "en": "on rubber",
+      "count": 177,
+      "sourceFile": "ipc_B41M.txt",
+      "kind": "ipc"
+    },
+    "B41M1/34": {
+      "code": "B41M1/34",
+      "level": 2,
+      "parent": "B41M1/26",
+      "ja": "ガラスまたは陶器表面への印刷",
+      "en": "on glass or ceramic surfaces",
+      "count": 2096,
+      "sourceFile": "ipc_B41M.txt",
+      "kind": "ipc"
+    },
+    "B41M1/36": {
+      "code": "B41M1/36",
+      "level": 2,
+      "parent": "B41M1/26",
+      "ja": "前処理紙への印刷，例．羊皮紙，油紙，登録目的用紙への印刷",
+      "en": "on pretreated paper, e.g. on parchment, oiled paper, paper for registration purposes",
+      "count": 496,
+      "sourceFile": "ipc_B41M.txt",
+      "kind": "ipc"
+    },
+    "B41M1/38": {
+      "code": "B41M1/38",
+      "level": 2,
+      "parent": "B41M1/26",
+      "ja": "木製表面，レザー，またはリノリウムへの印刷（マッチ製造と結びついたマッチやマッチ箱への印刷Ｃ０６Ｆ１／１８）",
+      "en": "on wooden surfaces, leather, or linoleum(printing on matches or match boxes when combined with match manufacture <b>C06F1/18</b>)",
+      "count": 429,
+      "sourceFile": "ipc_B41M.txt",
+      "kind": "ipc"
+    },
+    "B41M1/40": {
+      "code": "B41M1/40",
+      "level": 1,
+      "parent": "B41M1/00",
+      "ja": "特定の形をした物体への印刷",
+      "en": "Printing on bodies of particular shapes",
+      "count": 1972,
+      "sourceFile": "ipc_B41M.txt",
+      "kind": "ipc"
+    },
+    "B41M1/42": {
+      "code": "B41M1/42",
+      "level": 1,
+      "parent": "B41M1/00",
+      "ja": "版と印刷される表面との間の接触がない印刷，例．静電界の使用によるもの［２］",
+      "en": "Printing without contact between forme and surface to be printed, e.g. by using electrostatic fields",
+      "count": 714,
+      "sourceFile": "ipc_B41M.txt",
+      "kind": "ipc"
+    },
+    "B41M3/00": {
+      "code": "B41M3/00",
+      "level": 0,
+      "parent": "B41M",
+      "ja": "特定の種類の印刷品を生産する印刷方法，例．パターン（特別のデザインまたは絵画それ自体Ｂ４４Ｆ；印刷技術を用いる印刷回路の製造Ｈ０５Ｋ３／１２）［５］",
+      "en": "Printing processes to produce particular kinds of printed work, e.g. patterns(special designs or pictures <u>per se</u><b>B44F</b>; manufacturing printed circuits using printing techniques <b>H05K3/12</b>)",
+      "count": 6097,
+      "sourceFile": "ipc_B41M.txt",
+      "kind": "ipc"
+    },
+    "B41M3/02": {
+      "code": "B41M3/02",
+      "level": 1,
+      "parent": "B41M3/00",
+      "ja": "地図；海図または天気図",
+      "en": "Maps; Sea or meteorological charts",
+      "count": 142,
+      "sourceFile": "ipc_B41M.txt",
+      "kind": "ipc"
+    },
+    "B41M3/04": {
+      "code": "B41M3/04",
+      "level": 1,
+      "parent": "B41M3/00",
+      "ja": "楽譜",
+      "en": "Music",
+      "count": 71,
+      "sourceFile": "ipc_B41M.txt",
+      "kind": "ipc"
+    },
+    "B41M3/06": {
+      "code": "B41M3/06",
+      "level": 1,
+      "parent": "B41M3/00",
+      "ja": "木目印刷；蛍光印刷；立体像；模造パターン，例．薄葉紙，織物［５］",
+      "en": "Veined printings; Fluorescent printings; Stereoscopic images; Imitated patterns, e.g. tissues, textiles",
+      "count": 3896,
+      "sourceFile": "ipc_B41M.txt",
+      "kind": "ipc"
+    },
+    "B41M3/10": {
+      "code": "B41M3/10",
+      "level": 1,
+      "parent": "B41M3/00",
+      "ja": "すき入れ印刷",
+      "en": "Watermarks",
+      "count": 371,
+      "sourceFile": "ipc_B41M.txt",
+      "kind": "ipc"
+    },
+    "B41M3/12": {
+      "code": "B41M3/12",
+      "level": 1,
+      "parent": "B41M3/00",
+      "ja": "移し絵または類似物，例．デカルコマニア",
+      "en": "Transfer pictures or the like, e.g. decalcomanias",
+      "count": 4415,
+      "sourceFile": "ipc_B41M.txt",
+      "kind": "ipc"
+    },
+    "B41M3/14": {
+      "code": "B41M3/14",
+      "level": 1,
+      "parent": "B41M3/00",
+      "ja": "偽造防止印刷",
+      "en": "Security printing",
+      "count": 7451,
+      "sourceFile": "ipc_B41M.txt",
+      "kind": "ipc"
+    },
+    "B41M3/16": {
+      "code": "B41M3/16",
+      "level": 1,
+      "parent": "B41M3/00",
+      "ja": "点字印刷（点字印刷用のタイプライタまたは選択的印字機構Ｂ４１Ｊ３／３２）［２］",
+      "en": "Braille printing(typewriters or selective printing mechanisms for Braille printing <b>B41J3/32</b>)",
+      "count": 597,
+      "sourceFile": "ipc_B41M.txt",
+      "kind": "ipc"
+    },
+    "B41M3/18": {
+      "code": "B41M3/18",
+      "level": 1,
+      "parent": "B41M3/00",
+      "ja": "特定の種類の壁紙",
+      "en": "Particular kinds of wallpapers",
+      "count": 402,
+      "sourceFile": "ipc_B41M.txt",
+      "kind": "ipc"
+    },
+    "B41M5/00": {
+      "code": "B41M5/00",
+      "level": 0,
+      "parent": "B41M",
+      "ja": "複製またはマーキング方法；それに使用するシート材料（感光剤を使用するものＧ０３；エレクトログラフィー，磁気写真Ｇ０３Ｇ）",
+      "en": "Duplicating or marking methods; Sheet materials for use therein(by using light-sensitive materials <b>G03</b>; electrography, magnetography <b>G03G</b>)",
+      "count": 46941,
+      "sourceFile": "ipc_B41M.txt",
+      "kind": "ipc"
+    },
+    "B41M5/025": {
+      "code": "B41M5/025",
+      "level": 1,
+      "parent": "B41M5/00",
+      "ja": "マスターシートからインクを転写するもの［４］",
+      "en": "by transferring ink from the master sheet",
+      "count": 2331,
+      "sourceFile": "ipc_B41M.txt",
+      "kind": "ipc"
+    },
+    "B41M5/03": {
+      "code": "B41M5/03",
+      "level": 2,
+      "parent": "B41M5/025",
+      "ja": "圧力によるもの［４］",
+      "en": "by pressure",
+      "count": 729,
+      "sourceFile": "ipc_B41M.txt",
+      "kind": "ipc"
+    },
+    "B41M5/035": {
+      "code": "B41M5/035",
+      "level": 2,
+      "parent": "B41M5/025",
+      "ja": "デザインの昇華または揮発によるもの［４］",
+      "en": "by sublimation or volatilisation of design",
+      "count": 2128,
+      "sourceFile": "ipc_B41M.txt",
+      "kind": "ipc"
+    },
+    "B41M5/04": {
+      "code": "B41M5/04",
+      "level": 2,
+      "parent": "B41M5/025",
+      "ja": "マスターシートに溶剤可溶性染料を使用するもの，例．アルコール可溶物［５］",
+      "en": "using solvent-soluble dyestuffs on the master sheet, e.g. alcohol-soluble",
+      "count": 407,
+      "sourceFile": "ipc_B41M.txt",
+      "kind": "ipc"
+    },
+    "B41M5/06": {
+      "code": "B41M5/06",
+      "level": 2,
+      "parent": "B41M5/025",
+      "ja": "ゼリー状材料，例．ゼラチン，で被覆されたマスターシートを使用するもの",
+      "en": "using master sheets coated with jelly-like materials, e.g. gelatin",
+      "count": 129,
+      "sourceFile": "ipc_B41M.txt",
+      "kind": "ipc"
+    },
+    "B41M5/08": {
+      "code": "B41M5/08",
+      "level": 3,
+      "parent": "B41M5/06",
+      "ja": "そのシート材料",
+      "en": "Sheet materials therefor",
+      "count": 126,
+      "sourceFile": "ipc_B41M.txt",
+      "kind": "ipc"
+    },
+    "B41M5/10": {
+      "code": "B41M5/10",
+      "level": 1,
+      "parent": "B41M5/00",
+      "ja": "カーボン紙または類似のものを使用するもの",
+      "en": "by using carbon paper or the like",
+      "count": 1607,
+      "sourceFile": "ipc_B41M.txt",
+      "kind": "ipc"
+    },
+    "B41M5/124": {
+      "code": "B41M5/124",
+      "level": 1,
+      "parent": "B41M5/00",
+      "ja": "マスクされた色を目に見えるようにするため，例．着色された支持体を目に見えるようにするため，不透明または透明パターンを生じさせるため，または発色剤と結合することにより発色させるため，圧力を用いるもの［５］",
+      "en": "using pressure to make a masked colour visible, e.g. to make a coloured support visible, to create an opaque or transparent pattern, or to form colour by uniting colour-forming components",
+      "count": 2217,
+      "sourceFile": "ipc_B41M.txt",
+      "kind": "ipc"
+    },
+    "B41M5/128": {
+      "code": "B41M5/128",
+      "level": 2,
+      "parent": "B41M5/124",
+      "ja": "減感剤；層の誤りを修正，検出または確認するための成分［５］",
+      "en": "Desensitisers; Compositions for fault correction, detection or identification of the layers",
+      "count": 300,
+      "sourceFile": "ipc_B41M.txt",
+      "kind": "ipc"
+    },
+    "B41M5/132": {
+      "code": "B41M5/132",
+      "level": 2,
+      "parent": "B41M5/124",
+      "ja": "化学発色剤；その添加剤または結合剤［５］",
+      "en": "Chemical colour-forming components; Additives or binders therefor",
+      "count": 1281,
+      "sourceFile": "ipc_B41M.txt",
+      "kind": "ipc"
+    },
+    "B41M5/136": {
+      "code": "B41M5/136",
+      "level": 3,
+      "parent": "B41M5/132",
+      "ja": "有機発色剤，例．ロイコ染料［５］",
+      "en": "Organic colour formers, e.g. leuco dyes",
+      "count": 667,
+      "sourceFile": "ipc_B41M.txt",
+      "kind": "ipc"
+    },
+    "B41M5/145": {
+      "code": "B41M5/145",
+      "level": 4,
+      "parent": "B41M5/136",
+      "ja": "ラクトンまたはラクタム環をもつもの［５］",
+      "en": "with a lactone or lactam ring",
+      "count": 1127,
+      "sourceFile": "ipc_B41M.txt",
+      "kind": "ipc"
+    },
+    "B41M5/15": {
+      "code": "B41M5/15",
+      "level": 4,
+      "parent": "B41M5/136",
+      "ja": "スピロピラン［５］",
+      "en": "Spiro-pyrans",
+      "count": 33,
+      "sourceFile": "ipc_B41M.txt",
+      "kind": "ipc"
+    },
+    "B41M5/155": {
+      "code": "B41M5/155",
+      "level": 3,
+      "parent": "B41M5/132",
+      "ja": "顕色剤，例．酸化合物；その添加剤または結合剤；その顕色剤を含む層，添加剤または結合剤［５］",
+      "en": "Colour-developing components, e.g. acidic compounds; Additives or binders therefor; Layers containing such colour-developing components, additives or binders",
+      "count": 1762,
+      "sourceFile": "ipc_B41M.txt",
+      "kind": "ipc"
+    },
+    "B41M5/165": {
+      "code": "B41M5/165",
+      "level": 2,
+      "parent": "B41M5/124",
+      "ja": "マイクロカプセルの使用を特徴とするもの；成分を混和するための特殊な溶剤［５］",
+      "en": "characterised by the use of microcapsules; Special solvents for incorporating the ingredients",
+      "count": 1558,
+      "sourceFile": "ipc_B41M.txt",
+      "kind": "ipc"
+    },
+    "B41M5/20": {
+      "code": "B41M5/20",
+      "level": 1,
+      "parent": "B41M5/00",
+      "ja": "電流を用いるもの（Ｂ４１Ｍ５／２４が優先）［５］",
+      "en": "using electric current(<b>B41M5/24</b> takes precedence)",
+      "count": 1695,
+      "sourceFile": "ipc_B41M.txt",
+      "kind": "ipc"
+    },
+    "B41M5/24": {
+      "code": "B41M5/24",
+      "level": 1,
+      "parent": "B41M5/00",
+      "ja": "除去による記録，例．マークを焼きつけるもの；放電による記録［５］",
+      "en": "Ablative recording, e.g. by burning marks; Spark recording",
+      "count": 2745,
+      "sourceFile": "ipc_B41M.txt",
+      "kind": "ipc"
+    },
+    "B41M5/26": {
+      "code": "B41M5/26",
+      "level": 1,
+      "parent": "B41M5/00",
+      "ja": "サーモグラフィー（Ｂ４１Ｍ５／２０，Ｂ４１Ｍ５／２４が優先；光熱写真方式Ｇ０３Ｃ１／４９８）［５］",
+      "en": "Thermography(<b>B41M5/20</b>, <b>B41M5/24</b> take precedence; photothermographic systems <b>G03C1/498</b>)",
+      "count": 28083,
+      "sourceFile": "ipc_B41M.txt",
+      "kind": "ipc"
+    },
+    "B41M5/28": {
+      "code": "B41M5/28",
+      "level": 2,
+      "parent": "B41M5/26",
+      "ja": "サーモクロミック化合物または液晶，マイクロカプセル，漂白可能染料または熱分解可能化合物，例．ガスを遊離させるものを含む層を用いるもの［５］",
+      "en": "using thermo-chromic compounds or layers containing liquid crystals, microcapsules, bleachable dyes or heat decomposable compounds, e.g. gas liberating",
+      "count": 7619,
+      "sourceFile": "ipc_B41M.txt",
+      "kind": "ipc"
+    },
+    "B41M5/30": {
+      "code": "B41M5/30",
+      "level": 2,
+      "parent": "B41M5/26",
+      "ja": "化学的色形成剤を用いるもの（Ｂ４１Ｍ５／３４が優先）［５］",
+      "en": "using chemical colour formers(<b>B41M5/34</b> takes precedence)",
+      "count": 12164,
+      "sourceFile": "ipc_B41M.txt",
+      "kind": "ipc"
+    },
+    "B41M5/32": {
+      "code": "B41M5/32",
+      "level": 3,
+      "parent": "B41M5/30",
+      "ja": "その一成分が重金属化合物であるもの［５］",
+      "en": "one component thereof being a heavy metal compound",
+      "count": 386,
+      "sourceFile": "ipc_B41M.txt",
+      "kind": "ipc"
+    },
+    "B41M5/323": {
+      "code": "B41M5/323",
+      "level": 3,
+      "parent": "B41M5/30",
+      "ja": "有機発色剤，例．ロイコ染料［８］",
+      "en": "Organic colour formers, e.g. leuco dyes",
+      "count": 2980,
+      "sourceFile": "ipc_B41M.txt",
+      "kind": "ipc"
+    },
+    "B41M5/327": {
+      "code": "B41M5/327",
+      "level": 4,
+      "parent": "B41M5/323",
+      "ja": "ラクトンまたはラクタム環をもつもの［８］",
+      "en": "with a lactone or lactam ring",
+      "count": 1946,
+      "sourceFile": "ipc_B41M.txt",
+      "kind": "ipc"
+    },
+    "B41M5/333": {
+      "code": "B41M5/333",
+      "level": 3,
+      "parent": "B41M5/30",
+      "ja": "その顕色剤，例．酸化合物［８］",
+      "en": "Colour developing components therefor, e.g. acidic compounds",
+      "count": 4799,
+      "sourceFile": "ipc_B41M.txt",
+      "kind": "ipc"
+    },
+    "B41M5/337": {
+      "code": "B41M5/337",
+      "level": 3,
+      "parent": "B41M5/30",
+      "ja": "添加剤；結合剤［８］",
+      "en": "Additives; Binders",
+      "count": 9271,
+      "sourceFile": "ipc_B41M.txt",
+      "kind": "ipc"
+    },
+    "B41M5/34": {
+      "code": "B41M5/34",
+      "level": 2,
+      "parent": "B41M5/26",
+      "ja": "多色サーモグラフィ［５］",
+      "en": "Multicolour thermography",
+      "count": 1817,
+      "sourceFile": "ipc_B41M.txt",
+      "kind": "ipc"
+    },
+    "B41M5/36": {
+      "code": "B41M5/36",
+      "level": 2,
+      "parent": "B41M5/26",
+      "ja": "微粒子であってもよく，およびその特性，例．光学的特性，疎水性―親水性，溶解性または浸透性，の変化を伴い変形または構造的に変わるポリマー層を用いるもの［５］",
+      "en": "using a polymeric layer, which may be particulate and which is deformed or structurally changed with modification of its properties, e.g. of its optical, hydrophobic-hydrophilic, solubility or permeability properties",
+      "count": 2906,
+      "sourceFile": "ipc_B41M.txt",
+      "kind": "ipc"
+    },
+    "B41M5/382": {
+      "code": "B41M5/382",
+      "level": 2,
+      "parent": "B41M5/26",
+      "ja": "密着転写または昇華法（昇華印刷Ｂ４１Ｍ５／０３５；インク，染料，または顔料を受け入れるコーティングＢ４１Ｍ５／５０）［８］",
+      "en": "Contact transfer or sublimation processes(sublistatic printing <b>B41M5/035</b>; ink-, dye- or pigment-receptive coatings <b>B41M5/50</b>)",
+      "count": 17971,
+      "sourceFile": "ipc_B41M.txt",
+      "kind": "ipc"
+    },
+    "B41M5/385": {
+      "code": "B41M5/385",
+      "level": 3,
+      "parent": "B41M5/382",
+      "ja": "転写可能な染料または顔料に特徴のあるもの［８］",
+      "en": "characterised by the transferable dyes or pigments",
+      "count": 2665,
+      "sourceFile": "ipc_B41M.txt",
+      "kind": "ipc"
+    },
+    "B41M5/388": {
+      "code": "B41M5/388",
+      "level": 4,
+      "parent": "B41M5/385",
+      "ja": "アゾ染料［８］",
+      "en": "Azo dyes",
+      "count": 1656,
+      "sourceFile": "ipc_B41M.txt",
+      "kind": "ipc"
+    },
+    "B41M5/39": {
+      "code": "B41M5/39",
+      "level": 4,
+      "parent": "B41M5/385",
+      "ja": "炭素－窒素二重結合を有する染料，例．アゾメチン［８］",
+      "en": "Dyes containing one or more carbon-to-nitrogen double bonds, e.g. azomethine",
+      "count": 2100,
+      "sourceFile": "ipc_B41M.txt",
+      "kind": "ipc"
+    },
+    "B41M5/392": {
+      "code": "B41M5/392",
+      "level": 3,
+      "parent": "B41M5/382",
+      "ja": "発色物質，染料または顔料以外の添加剤，例．増感剤，転写促進剤［８］",
+      "en": "Additives other than colour forming substances, dyes or pigments, e.g. sensitisers, transfer promoting agents",
+      "count": 3056,
+      "sourceFile": "ipc_B41M.txt",
+      "kind": "ipc"
+    },
+    "B41M5/395": {
+      "code": "B41M5/395",
+      "level": 4,
+      "parent": "B41M5/392",
+      "ja": "高分子添加剤，例．結合剤［８］",
+      "en": "Macromolecular additives, e.g. binders",
+      "count": 2041,
+      "sourceFile": "ipc_B41M.txt",
+      "kind": "ipc"
+    },
+    "B41M5/398": {
+      "code": "B41M5/398",
+      "level": 2,
+      "parent": "B41M5/26",
+      "ja": "粉末を用いる粘着性パターンの形成に基づくプロセス［８］",
+      "en": "Processes based on the production of stickiness patterns using powders",
+      "count": 365,
+      "sourceFile": "ipc_B41M.txt",
+      "kind": "ipc"
+    },
+    "B41M5/40": {
+      "code": "B41M5/40",
+      "level": 2,
+      "parent": "B41M5/26",
+      "ja": "支持体，中間層または被覆層に特徴をもつもの；熱，輻射線をフィルタまたは吸収する手段または層；他の像記録法に適した層または組成と結合されたもの；サーモグラフィによる複写のための特別の原稿［５］",
+      "en": "characterised by the base, intermediate or covering layers; Heat, radiation filtering or absorbing means or layers; combined with layers or compositions suitable for other methods of image registration; Special originals for reproduction by thermography",
+      "count": 11300,
+      "sourceFile": "ipc_B41M.txt",
+      "kind": "ipc"
+    },
+    "B41M5/41": {
+      "code": "B41M5/41",
+      "level": 3,
+      "parent": "B41M5/40",
+      "ja": "ベース層［８］",
+      "en": "Base layers",
+      "count": 3521,
+      "sourceFile": "ipc_B41M.txt",
+      "kind": "ipc"
+    },
+    "B41M5/42": {
+      "code": "B41M5/42",
+      "level": 3,
+      "parent": "B41M5/40",
+      "ja": "中間層または被覆層［８］",
+      "en": "Intermediate or covering layers",
+      "count": 6326,
+      "sourceFile": "ipc_B41M.txt",
+      "kind": "ipc"
+    },
+    "B41M5/44": {
+      "code": "B41M5/44",
+      "level": 4,
+      "parent": "B41M5/42",
+      "ja": "高分子化合物に特徴のあるもの［８］",
+      "en": "characterised by the macromolecular compounds",
+      "count": 3010,
+      "sourceFile": "ipc_B41M.txt",
+      "kind": "ipc"
+    },
+    "B41M5/46": {
+      "code": "B41M5/46",
+      "level": 3,
+      "parent": "B41M5/40",
+      "ja": "光から熱へ変換する手段に特徴のあるもの；熱または輻射線をフィルタリングまたは吸収する手段または層に特徴のあるもの［８］",
+      "en": "characterised by the light-to-heat converting means; characterised by the heat or radiation filtering or absorbing means or layers",
+      "count": 2221,
+      "sourceFile": "ipc_B41M.txt",
+      "kind": "ipc"
+    },
+    "B41M5/48": {
+      "code": "B41M5/48",
+      "level": 3,
+      "parent": "B41M5/40",
+      "ja": "他の像記録層または組成と結合されたもの；サーモグラフィによる複写のための特別の原稿［８］",
+      "en": "combined with other image registration layers or compositions; Special originals for reproduction by thermography",
+      "count": 145,
+      "sourceFile": "ipc_B41M.txt",
+      "kind": "ipc"
+    },
+    "B41M5/50": {
+      "code": "B41M5/50",
+      "level": 1,
+      "parent": "B41M5/00",
+      "ja": "インク，染料または顔料の受け入れを高めるために使用される被覆に特徴のある記録シート，例．インクジェットまたは熱染料転写記録のためのもの（前処理紙への印刷　Ｂ４１Ｍ１／３６）［８］",
+      "en": "Recording sheets characterised by the coating used to improve ink, dye or pigment receptivity, e.g. for ink-jet or thermal dye transfer recording(printing on pretreated paper <b>B41M1/36</b>)",
+      "count": 19907,
+      "sourceFile": "ipc_B41M.txt",
+      "kind": "ipc"
+    },
+    "B41M5/52": {
+      "code": "B41M5/52",
+      "level": 2,
+      "parent": "B41M5/50",
+      "ja": "高分子被覆［８］",
+      "en": "Macromolecular coatings",
+      "count": 21940,
+      "sourceFile": "ipc_B41M.txt",
+      "kind": "ipc"
+    },
+    "B41M7/00": {
+      "code": "B41M7/00",
+      "level": 0,
+      "parent": "B41M",
+      "ja": "印刷物の後処理，例．加熱，光照射",
+      "en": "After-treatment of printed works, e.g. heating, irradiating",
+      "count": 8809,
+      "sourceFile": "ipc_B41M.txt",
+      "kind": "ipc"
+    },
+    "B41M7/02": {
+      "code": "B41M7/02",
+      "level": 1,
+      "parent": "B41M7/00",
+      "ja": "散粉；ニス引き（印刷に関連する紙葉，巻取紙または他の物品の表面を処理する装置Ｂ４１Ｆ２３／００，Ｂ４１Ｌ２３／００）",
+      "en": "Dusting; Varnishing(devices for treating the surfaces of sheets, webs, or other articles in connection with printing <b>B41F23/00</b>, <b>B41L23/00</b>)",
+      "count": 879,
+      "sourceFile": "ipc_B41M.txt",
+      "kind": "ipc"
+    },
+    "B41M9/00": {
+      "code": "B41M9/00",
+      "level": 0,
+      "parent": "B41M",
+      "ja": "メイクレディ装置が用いられる方法（メイクレディ装置それ自体Ｂ４１Ｎ６／００）［５］",
+      "en": "Processes wherein make-ready devices are used(make-ready devices <u>per se</u><b>B41N6/00</b>)",
+      "count": 150,
+      "sourceFile": "ipc_B41M.txt",
+      "kind": "ipc"
+    },
+    "B41M9/02": {
+      "code": "B41M9/02",
+      "level": 1,
+      "parent": "B41M9/00",
+      "ja": "凸版のメイクレデイ",
+      "en": "Relief make-readies",
+      "count": 91,
+      "sourceFile": "ipc_B41M.txt",
+      "kind": "ipc"
+    },
+    "B41M9/04": {
+      "code": "B41M9/04",
+      "level": 2,
+      "parent": "B41M9/02",
+      "ja": "写真製版的なもの",
+      "en": "photomechanical",
+      "count": 49,
+      "sourceFile": "ipc_B41M.txt",
+      "kind": "ipc"
+    },
+    "B41M99/00": {
+      "code": "B41M99/00",
+      "level": 0,
+      "parent": "B41M",
+      "ja": "このサブクラスの他のグループに分類されない主題事項［８］",
+      "en": "Subject matter not provided for in other groups of this subclass",
+      "count": 50,
+      "sourceFile": "ipc_B41M.txt",
+      "kind": "ipc"
+    }
+  }
+}

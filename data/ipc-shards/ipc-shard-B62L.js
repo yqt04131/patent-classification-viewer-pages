@@ -1,0 +1,286 @@
+window.IPC_SHARD_B62L = {
+  "generatedAt": "2026-03-20T02:17:46.252Z",
+  "total": 28,
+  "entries": {
+    "B62L": {
+      "code": "B62L",
+      "level": 0,
+      "parent": "B62",
+      "ja": "自転車用制動装置<br><br><b><ul>注</ul></b><br>（１）このサブクラスは自転車に特有の制動装置または作動機構を包含する。<br>（２）このサブクラスは自転車用のみとして記述しているか否かに関係なく広範に適用できる制動装置または作動機構は一般型とみなし包含しない。ただし，これらはサブクラスＢ６０ＴまたはクラスＦ１６に関係するサブクラスに包含される。",
+      "en": "BRAKES SPECIALLY ADAPTED FOR CYCLES; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This subclass <u>covers</u> only adaptations of brakes or actuating mechanisms peculiar to their use on cycles.</li><li>This subclass <u>does not cover</u> brakes or actuating mechanisms of wider applicability, which are regarded as of general type, irrespective of whether described or claimed only for cycles, which are covered by subclass <b>B60T</b> or the relevant subclasses of class <b>F16</b>.</li></ul>",
+      "count": 202,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B62": {
+      "code": "B62",
+      "level": 0,
+      "parent": "B",
+      "ja": "鉄道以外の路面車両",
+      "en": "LAND VEHICLES FOR TRAVELLING OTHERWISE THAN ON RAILS",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B": {
+      "code": "B",
+      "level": 0,
+      "parent": null,
+      "ja": "処理操作；運輸",
+      "en": "PERFORMING OPERATIONS; TRANSPORTING",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B62L1/00": {
+      "code": "B62L1/00",
+      "level": 0,
+      "parent": "B62L",
+      "ja": "制動装置；それらの配置（逆踏み制動装置Ｂ６２Ｌ５／００）",
+      "en": "Brakes; Arrangements thereof(back-pedalling brakes <b>B62L5/00</b>)",
+      "count": 4553,
+      "sourceFile": "ipc_B62L.txt",
+      "kind": "ipc"
+    },
+    "B62L1/02": {
+      "code": "B62L1/02",
+      "level": 1,
+      "parent": "B62L1/00",
+      "ja": "車輪が制動構成要素と触れるもの",
+      "en": "in which cycle wheels are engaged by brake elements",
+      "count": 2487,
+      "sourceFile": "ipc_B62L.txt",
+      "kind": "ipc"
+    },
+    "B62L1/04": {
+      "code": "B62L1/04",
+      "level": 2,
+      "parent": "B62L1/02",
+      "ja": "タイヤ表面に触れるもの",
+      "en": "the tyre surfaces being engaged",
+      "count": 489,
+      "sourceFile": "ipc_B62L.txt",
+      "kind": "ipc"
+    },
+    "B62L1/06": {
+      "code": "B62L1/06",
+      "level": 2,
+      "parent": "B62L1/02",
+      "ja": "車輪リムに触れるもの",
+      "en": "the wheel-rim being engaged",
+      "count": 1087,
+      "sourceFile": "ipc_B62L.txt",
+      "kind": "ipc"
+    },
+    "B62L1/08": {
+      "code": "B62L1/08",
+      "level": 3,
+      "parent": "B62L1/06",
+      "ja": "構成要素が車輪に対し半径方向に移動するもの",
+      "en": "by the elements moving radially relative to the wheel",
+      "count": 245,
+      "sourceFile": "ipc_B62L.txt",
+      "kind": "ipc"
+    },
+    "B62L1/10": {
+      "code": "B62L1/10",
+      "level": 3,
+      "parent": "B62L1/06",
+      "ja": "構成要素が車輪軸に対し実質的に平行に移動するもの",
+      "en": "by the elements moving substantially parallel to the wheel axis",
+      "count": 755,
+      "sourceFile": "ipc_B62L.txt",
+      "kind": "ipc"
+    },
+    "B62L1/12": {
+      "code": "B62L1/12",
+      "level": 4,
+      "parent": "B62L1/10",
+      "ja": "構成要素が共通軸に枢着したレバーに支持されているもの",
+      "en": "the elements being mounted on levers pivotable about a common axis",
+      "count": 768,
+      "sourceFile": "ipc_B62L.txt",
+      "kind": "ipc"
+    },
+    "B62L1/14": {
+      "code": "B62L1/14",
+      "level": 4,
+      "parent": "B62L1/10",
+      "ja": "構成要素が異軸に枢着したレバーに支持されているもの",
+      "en": "the elements being mounted on levers pivotable about different axes",
+      "count": 674,
+      "sourceFile": "ipc_B62L.txt",
+      "kind": "ipc"
+    },
+    "B62L1/16": {
+      "code": "B62L1/16",
+      "level": 5,
+      "parent": "B62L1/14",
+      "ja": "レバー軸がレバーの中間に位置するもの",
+      "en": "the axes being located intermediate the ends of the levers",
+      "count": 402,
+      "sourceFile": "ipc_B62L.txt",
+      "kind": "ipc"
+    },
+    "B62L3/00": {
+      "code": "B62L3/00",
+      "level": 0,
+      "parent": "B62L",
+      "ja": "制動作動機構（逆踏み制動装置の作動機構Ｂ６２Ｌ５／００；ボーテン機構Ｆ１６Ｃ１／１０）；それらの配置",
+      "en": "Brake-actuating mechanisms(actuating mechanisms for back-pedalling brakes <b>B62L5/00</b>; Bowden mechanisms <b>F16C1/10</b>);Arrangements thereof",
+      "count": 3557,
+      "sourceFile": "ipc_B62L.txt",
+      "kind": "ipc"
+    },
+    "B62L3/02": {
+      "code": "B62L3/02",
+      "level": 1,
+      "parent": "B62L3/00",
+      "ja": "ハンドレバーによる制御用のもの（一般的な自転車の制御用ハンドレバーＢ６２Ｋ２３／０６）",
+      "en": "for control by a hand lever(hand levers for control of cycles in general <b>B62K23/06</b>)",
+      "count": 8870,
+      "sourceFile": "ipc_B62L.txt",
+      "kind": "ipc"
+    },
+    "B62L3/04": {
+      "code": "B62L3/04",
+      "level": 1,
+      "parent": "B62L3/00",
+      "ja": "足レバーによる制御用のもの（一般的な自転車の制御用足レバーＢ６２Ｋ２３／０８）",
+      "en": "for control by a foot lever(foot levers for control of cycles in general <b>B62K23/08</b>)",
+      "count": 1671,
+      "sourceFile": "ipc_B62L.txt",
+      "kind": "ipc"
+    },
+    "B62L3/06": {
+      "code": "B62L3/06",
+      "level": 1,
+      "parent": "B62L3/00",
+      "ja": "作動機構のロック装置（自転車の制動装置を直接鎖錠するものＢ６２Ｈ５／１８）",
+      "en": "Means for locking the actuating mechanisms(locking a cycle braking device directly <b>B62H5/18</b>)",
+      "count": 446,
+      "sourceFile": "ipc_B62L.txt",
+      "kind": "ipc"
+    },
+    "B62L3/08": {
+      "code": "B62L3/08",
+      "level": 1,
+      "parent": "B62L3/00",
+      "ja": "二輪以上の制動装置に適用した機構",
+      "en": "Mechanisms specially adapted for braking more than one wheel",
+      "count": 1889,
+      "sourceFile": "ipc_B62L.txt",
+      "kind": "ipc"
+    },
+    "B62L5/00": {
+      "code": "B62L5/00",
+      "level": 0,
+      "parent": "B62L",
+      "ja": "逆踏みにより制御される制動装置，その作動機構（自転車用に特に適合したフリーホイール装置Ｆ１６Ｄ４１／００）",
+      "en": "Brakes, or actuating mechanisms therefor, controlled by back-pedalling(free-wheel devices specially adapted for cycles <b>F16D41/00</b>)",
+      "count": 833,
+      "sourceFile": "ipc_B62L.txt",
+      "kind": "ipc"
+    },
+    "B62L5/02": {
+      "code": "B62L5/02",
+      "level": 1,
+      "parent": "B62L5/00",
+      "ja": "共軸の円錐体の作動を通じて作動される制動",
+      "en": "the brakes being actuated through coacting coaxial cones",
+      "count": 119,
+      "sourceFile": "ipc_B62L.txt",
+      "kind": "ipc"
+    },
+    "B62L5/04": {
+      "code": "B62L5/04",
+      "level": 2,
+      "parent": "B62L5/02",
+      "ja": "制動体を拡開する型の制動",
+      "en": "the brakes being of expanding-brake-bushing type",
+      "count": 299,
+      "sourceFile": "ipc_B62L.txt",
+      "kind": "ipc"
+    },
+    "B62L5/06": {
+      "code": "B62L5/06",
+      "level": 2,
+      "parent": "B62L5/02",
+      "ja": "ディスク型の制動",
+      "en": "the brakes being of disc type",
+      "count": 58,
+      "sourceFile": "ipc_B62L.txt",
+      "kind": "ipc"
+    },
+    "B62L5/08": {
+      "code": "B62L5/08",
+      "level": 2,
+      "parent": "B62L5/02",
+      "ja": "シュー型の制動",
+      "en": "the brakes being of shoe type",
+      "count": 92,
+      "sourceFile": "ipc_B62L.txt",
+      "kind": "ipc"
+    },
+    "B62L5/10": {
+      "code": "B62L5/10",
+      "level": 1,
+      "parent": "B62L5/00",
+      "ja": "カムおよびボールまたはローラーを介して作動する制動",
+      "en": "the brakes being actuated through coacting cams and balls or rollers",
+      "count": 157,
+      "sourceFile": "ipc_B62L.txt",
+      "kind": "ipc"
+    },
+    "B62L5/12": {
+      "code": "B62L5/12",
+      "level": 2,
+      "parent": "B62L5/10",
+      "ja": "制動体を拡開する型の制動",
+      "en": "the brakes being of expanding-brake-bushing type",
+      "count": 96,
+      "sourceFile": "ipc_B62L.txt",
+      "kind": "ipc"
+    },
+    "B62L5/14": {
+      "code": "B62L5/14",
+      "level": 2,
+      "parent": "B62L5/10",
+      "ja": "ディスク型の制動",
+      "en": "the brakes being of disc type",
+      "count": 136,
+      "sourceFile": "ipc_B62L.txt",
+      "kind": "ipc"
+    },
+    "B62L5/16": {
+      "code": "B62L5/16",
+      "level": 2,
+      "parent": "B62L5/10",
+      "ja": "シュー型の制動",
+      "en": "the brakes being of shoe type",
+      "count": 87,
+      "sourceFile": "ipc_B62L.txt",
+      "kind": "ipc"
+    },
+    "B62L5/18": {
+      "code": "B62L5/18",
+      "level": 1,
+      "parent": "B62L5/00",
+      "ja": "どちらか一方の手段により追加的に制御される制動",
+      "en": "the brakes being additionally controlled by alternative means",
+      "count": 32,
+      "sourceFile": "ipc_B62L.txt",
+      "kind": "ipc"
+    },
+    "B62L5/20": {
+      "code": "B62L5/20",
+      "level": 1,
+      "parent": "B62L5/00",
+      "ja": "制動力調整装置をもつ制動",
+      "en": "the brakes having adjustable braking power",
+      "count": 85,
+      "sourceFile": "ipc_B62L.txt",
+      "kind": "ipc"
+    }
+  }
+};

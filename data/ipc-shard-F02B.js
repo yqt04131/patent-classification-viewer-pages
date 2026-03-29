@@ -1,0 +1,2436 @@
+window.IPC_SHARD_F02B = {
+  "generatedAt": "2026-03-20T02:17:46.796Z",
+  "total": 243,
+  "entries": {
+    "F02B": {
+      "code": "F02B",
+      "level": 0,
+      "parent": "F02",
+      "ja": "内燃式ピストン機関；燃焼機関一般（ガスタービン設備Ｆ０２Ｃ；燃焼生成物を利用する設備Ｆ０２Ｇ）<br><br><b><ul>注</ul></b><br>（１）このサブクラスにおいては，下記の用語または表現は以下に示す意味で用いる：<br>―“外部式点火”は動作流体に対して外的原因による点火，例．電気火花または白熱源によるもの，を意味する；<br>―“給気（Ｃｈａｒｇｉｎｇ）”は機関シリンダ内へ強制的に空気または燃料―空気混合気を入れることを意味し，過給のようなものも含む；<br>―“掃気”はシリンダから動作ピストンの運動による以外の強制的に燃焼残留物を排気することを意味し，排気方式を適合させるようなものも含む。<br>（２）クラスＦ０１の前の注，特に注（１）に注意すること。<br>（３）特殊なサイクルや多シリンダをもつ機関は他の特徴の分類が優先しないかぎり，グループ７５／０２または７５／１６に分類される。<br><br><b><ul>サブクラス内の索引</ul></b><br>流体燃料を利用する機関<br>加圧流体を特徴とするものまたは点火に特徴のあるもの　１／００～１１／００<br>燃焼，吸入口または給気，または排気に特徴のあるもの<br>燃焼<br>予燃焼室；空気室；燃焼室　１９／００；２１／００；２３／００<br>給気；層状給気；給気の回転　１７／００；３１／００<br>燃料供給　１３／００，１５／００，４９／００<br>吸入口または給気，または掃気<br>一般的な特徴；細部　２５／００～２９／００；２９／００<br>ポンプ；細部　３３／００～３７／００；３９／００<br>効率改善のための特殊な手段　４１／００<br>液体でない燃料を利用する機関；燃料生成装置との組み合わせ　４３／００，４５／００<br>燃料，空気，混合気の処理または前処理に特徴のある操作　７／００，４７／００，４９／００，５１／００<br>特殊な形またはその応用<br>機関の種別<br>ピストンの種別：回転式，揺動式；回転式機関または可動シリンダ内で往復動するもの；自由ピストンまたは回転する主軸のないもの　５３／００，５５／００；５７／００，５９／００；７１／００<br>転用または相互に交換できる部品　６９／００<br>特殊な補助装置をもつもの　６７／００<br>その他の種別；構成部分，細部または付属部分　７５／００；７７／００<br>２つまたはそれ以上の機関の組み合わせでその他に分類されないもの　７３／００<br>特別な用途のための機関，その他の装置との組み合わせ　６１／００～６７／００<br>運転　７９／００",
+      "en": "INTERNAL-COMBUSTION PISTON ENGINES; COMBUSTION ENGINES IN GENERAL(gas-turbine plants <b>F02C</b>; hot-gas or combustion-product positive-displacement engine plants <b>F02G</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>In this subclass, the following terms or expression are used with the meanings indicated:<ul><li>\"positive ignition\" means ignition by a source external to the working fluid, e.g. by spark or incandescent source;</li><li>\"charging\" means forcing air or fuel-air mixture into engine cylinders, and thus includes supercharging;</li><li>\"scavenging\" means forcing the combustion residues from the cylinders other than by movement of the working pistons, and thus includes tuned exhaust systems.</li></ul></li><li>Attention is drawn to the Notes preceding class <b>F01</b>, especially as regards Note (1).</li><li>Engines with specified cycles or number of cylinders are classified in group <b>F02B75/02</b> or <b>F02B75/16</b>, unless other classifying features predominate.</li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">ENGINES USING FLUID FUEL<tr><td width=\"70%\">Characterised by fluid to be compressed or by ignition </td><td><b><b>1/00 to 11/00</b> </b></td></tr></tr><tr><td width=\"70%\">Characterised by the combustion, inlet or charging, or evacuation<tr><td width=\"70%\">combustion<tr><td width=\"70%\">chambers for: precombustion; air storage; combustion </td><td><b><b>19/00</b>; <b>21/00</b>; <b>23/00</b></b></td></tr></tr><tr><td width=\"70%\">charge: stratification; rotation </td><td><b><b>17/00</b>; <b>31/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">introduction of fuel </td><td><b><b>13/00</b>, <b>15/00</b>, <b>49/00</b></b></td></tr></tr><tr><td width=\"70%\">inlet or charging, or scavenging<tr><td width=\"70%\">general characteristics; details </td><td><b><b>25/00 to 29/00</b> ; <b>29/00</b></b></td></tr></tr><tr><td width=\"70%\">pumps; details </td><td><b><b>33/00 to 37/00</b> ; <b>39/00</b></b></td></tr></tr></tr></tr><tr><td width=\"70%\">Special means for improving efficiency </td><td><b><b>41/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">ENGINES USING NON-LIQUID FUEL, THEIR COMBINATIONS WITH FUEL-GENERATING APPARATUS </td><td><b><b>43/00</b>, <b>45/00</b></b></td></tr></tr><tr><td width=\"70%\">OPERATION CHARACTERISED BY TREATMENT OR PRETREATMENT OF FUEL, AIR, OR MIXTURE </td><td><b><b>7/00</b>, <b>47/00</b>, <b>49/00</b>, <b>51/00</b></b></td></tr></tr><tr><td width=\"70%\">SPECIAL FORMS OR APPLICATIONS<tr><td width=\"70%\">Kinds of engine<tr><td width=\"70%\">kinds of piston: rotary, oscillating; reciprocating in rotary engines or movable cylinders; free-piston or without rotating main shaft </td><td><b><b>53/00</b>, <b>55/00</b>; <b>57/00</b>, <b>59/00</b>; <b>71/00</b></b></td></tr></tr><tr><td width=\"70%\">convertible or with interchangeable parts </td><td><b><b>69/00</b></b></td></tr></tr><tr><td width=\"70%\">with special auxiliary apparatus </td><td><b><b>67/00</b></b></td></tr></tr><tr><td width=\"70%\">other kinds; component parts, details, or accessories </td><td><b><b>75/00</b>; <b>77/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">Combinations, not otherwise provided for, of two or more engines </td><td><b><b>73/00</b></b></td></tr></tr><tr><td width=\"70%\">Engines for particular use, combinations with other devices </td><td><b><b>61/00 to 67/00</b> </b></td></tr></tr></tr><tr><td width=\"70%\">RUNNING-IN </td><td><b><b>79/00</b></b></td></tr></tr></table>",
+      "count": 2675,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F02": {
+      "code": "F02",
+      "level": 0,
+      "parent": "F",
+      "ja": "燃焼機関；熱ガスまたは燃焼生成物を利用する機関設備",
+      "en": "COMBUSTION ENGINES; HOT-GAS OR COMBUSTION-PRODUCT ENGINE PLANTS",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F": {
+      "code": "F",
+      "level": 0,
+      "parent": null,
+      "ja": "機械工学；照明；加熱；武器；爆破",
+      "en": "MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F02B1/00": {
+      "code": "F02B1/00",
+      "level": 0,
+      "parent": "F02B",
+      "ja": "燃料―空気の混合気の圧縮に特徴のある機関（燃料―空気混合気の圧縮および空気圧縮の両方に特徴のあるもの，または外部式点火および圧縮点火の両方に特徴のあるものＦ０２Ｂ１１／００）",
+      "en": "Engines characterised by fuel-air mixture compression (characterised by both fuel-air mixture compression and air compression, or characterised by both positive ignition and compression ignition <b>F02B11/00</b>)",
+      "count": 2127,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B1/02": {
+      "code": "F02B1/02",
+      "level": 1,
+      "parent": "F02B1/00",
+      "ja": "外部式点火方式をもつもの（時期調整されない外部式点火Ｆ０２Ｂ９／０６）",
+      "en": "with positive ignition(with non-timed positive ignition <b>F02B9/06</b>)",
+      "count": 429,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B1/04": {
+      "code": "F02B1/04",
+      "level": 2,
+      "parent": "F02B1/02",
+      "ja": "シリンダに燃料―空気の混合気を吸入するもの",
+      "en": "with fuel-air mixture admission into cylinder",
+      "count": 7925,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B1/06": {
+      "code": "F02B1/06",
+      "level": 3,
+      "parent": "F02B1/04",
+      "ja": "その作動方法",
+      "en": "Methods of operating",
+      "count": 196,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B1/08": {
+      "code": "F02B1/08",
+      "level": 2,
+      "parent": "F02B1/02",
+      "ja": "シリンダへの空気および燃料の吸入が別々であるもの",
+      "en": "with separate admission of air and fuel into cylinder",
+      "count": 189,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B1/10": {
+      "code": "F02B1/10",
+      "level": 3,
+      "parent": "F02B1/08",
+      "ja": "その作動方法",
+      "en": "Methods of operating",
+      "count": 105,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B1/12": {
+      "code": "F02B1/12",
+      "level": 1,
+      "parent": "F02B1/00",
+      "ja": "圧縮点火方式をもつもの（付加された燃料の圧縮点火により燃料―空気の給気を点火するものＦ０２Ｂ７／００）",
+      "en": "with compression ignition(with fuel-air charge ignited by compression ignition of an additional fuel <b>F02B7/00</b>)",
+      "count": 1723,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B1/14": {
+      "code": "F02B1/14",
+      "level": 2,
+      "parent": "F02B1/12",
+      "ja": "その作動方法",
+      "en": "Methods of operating",
+      "count": 263,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B3/00": {
+      "code": "F02B3/00",
+      "level": 0,
+      "parent": "F02B",
+      "ja": "空気圧縮後に燃料を供給することに特徴のある機関（燃料―空気混合気の圧縮および空気圧縮の両方に特徴のあるもの，または外部式点火および圧縮点火の両方に特徴のあるものＦ０２Ｂ１１／００）",
+      "en": "Engines characterised by air compression and subsequent fuel addition (characterised by both fuel-air mixture compression and air compression, or characterised by both positive ignition and compression ignition <b>F02B11/00</b>)",
+      "count": 1462,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B3/02": {
+      "code": "F02B3/02",
+      "level": 1,
+      "parent": "F02B3/00",
+      "ja": "外部式点火方式をもつもの（時期調整されない外部式点火Ｆ０２Ｂ９／０６）",
+      "en": "with positive ignition(with non-timed positive ignition <b>F02B9/06</b>)",
+      "count": 325,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B3/04": {
+      "code": "F02B3/04",
+      "level": 2,
+      "parent": "F02B3/02",
+      "ja": "その作動方法",
+      "en": "Methods of operating",
+      "count": 163,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B3/06": {
+      "code": "F02B3/06",
+      "level": 1,
+      "parent": "F02B3/00",
+      "ja": "圧縮点火方式をもつもの（シリンダ内の圧縮空気に燃料を吹き込むために空気または気体を利用する圧縮点火機関Ｆ０２Ｂ１３／０２）",
+      "en": "with compression ignition(compression ignition engines using air or gas for blowing fuel into compressed air in cylinder <b>F02B13/02</b>)",
+      "count": 21598,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B3/08": {
+      "code": "F02B3/08",
+      "level": 2,
+      "parent": "F02B3/06",
+      "ja": "その作動方法（Ｆ０２Ｂ３／１２が優先）",
+      "en": "Methods of operating(<b>F02B3/12</b> takes precedence)",
+      "count": 161,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B3/10": {
+      "code": "F02B3/10",
+      "level": 2,
+      "parent": "F02B3/06",
+      "ja": "間欠的な燃料供給をもつもの",
+      "en": "with intermittent fuel introduction",
+      "count": 139,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B3/12": {
+      "code": "F02B3/12",
+      "level": 3,
+      "parent": "F02B3/10",
+      "ja": "その作動方法",
+      "en": "Methods of operating",
+      "count": 150,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B5/00": {
+      "code": "F02B5/00",
+      "level": 0,
+      "parent": "F02B",
+      "ja": "外部式点火に特徴のある機関（燃料―空気の混合気の圧縮に特徴のある機関Ｆ０２Ｂ１／０２；空気圧縮後に燃料を供給することに特徴のある機関Ｆ０２Ｂ３／０２；時期調整されない外部式点火Ｆ０２Ｂ９／０６；燃料―空気混合気の圧縮および空気圧縮の両方に特徴のあるもの，または外部式点火および圧縮点火の両方に特徴のあるものＦ０２Ｂ１１／００）",
+      "en": "Engines characterised by positive ignition  (engines characterised by fuel-air mixture compression with positive ignition <b>F02B1/02</b>; engines characterised by air compression and subsequent fuel addition with positive ignition <b>F02B3/02</b>;  with non-timed positive ignition <b>F02B9/06</b>;   characterised by both fuel-air mixture compression and air compression, or characterised by both positive ignition and compression ignition <b>F02B11/00</b>)",
+      "count": 432,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B5/02": {
+      "code": "F02B5/02",
+      "level": 1,
+      "parent": "F02B5/00",
+      "ja": "その作動方法",
+      "en": "Methods of operating",
+      "count": 188,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B7/00": {
+      "code": "F02B7/00",
+      "level": 0,
+      "parent": "F02B",
+      "ja": "付加された燃料の圧縮点火によって燃料―空気の給気を点火することに特徴のある機関（燃料―空気混合気の圧縮および空気圧縮の両方に特徴のあるもの，または外部式点火および圧縮点火の両方に特徴のあるものＦ０２Ｂ１１／００）",
+      "en": "Engines characterised by the fuel-air charge being ignited by compression ignition of an additional fuel (characterised by both fuel-air mixture compression and air compression, or characterised by both positive ignition and compression ignition <b>F02B11/00</b>)",
+      "count": 296,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B7/02": {
+      "code": "F02B7/02",
+      "level": 1,
+      "parent": "F02B7/00",
+      "ja": "その給気内の燃料が液体であるもの",
+      "en": "the fuel in the charge being liquid",
+      "count": 173,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B7/04": {
+      "code": "F02B7/04",
+      "level": 2,
+      "parent": "F02B7/02",
+      "ja": "その作動方法",
+      "en": "Methods of operating",
+      "count": 78,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B7/06": {
+      "code": "F02B7/06",
+      "level": 1,
+      "parent": "F02B7/00",
+      "ja": "その給気内の燃料が気体であるもの",
+      "en": "the fuel in the charge being gaseous",
+      "count": 175,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B7/08": {
+      "code": "F02B7/08",
+      "level": 2,
+      "parent": "F02B7/06",
+      "ja": "その作動方法",
+      "en": "Methods of operating",
+      "count": 86,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B9/00": {
+      "code": "F02B9/00",
+      "level": 0,
+      "parent": "F02B",
+      "ja": "その他の点火形式に特徴のある機関（燃料―空気混合気の圧縮および空気圧縮の両方に特徴のあるもの，または外部式点火および圧縮点火の両方に特徴のあるものＦ０２Ｂ１１／００）",
+      "en": "Engines characterised by other types of ignition (characterised by both fuel-air mixture compression and air compression, or characterised by both positive ignition and compression ignition <b>F02B11/00</b>)",
+      "count": 358,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B9/02": {
+      "code": "F02B9/02",
+      "level": 1,
+      "parent": "F02B9/00",
+      "ja": "圧縮点火させるもの（燃料―空気の混合気の圧縮に特徴のある機関Ｆ０２Ｂ１／１２；空気圧縮後に燃料を供給することに特徴のある機関Ｆ０２Ｂ３／０６）",
+      "en": "with compression ignition (engines characterised by fuel-air mixture compression with compression ignition <b>F02B1/12</b>; engines characterised by air compression and subsequent fuel addition with compression ignition <b>F02B3/06</b>)",
+      "count": 123,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B9/04": {
+      "code": "F02B9/04",
+      "level": 2,
+      "parent": "F02B9/02",
+      "ja": "その作動方法",
+      "en": "Methods of operating",
+      "count": 84,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B9/06": {
+      "code": "F02B9/06",
+      "level": 1,
+      "parent": "F02B9/00",
+      "ja": "時期調整されない外部式点火をするもの，例．焼き玉をもつもの",
+      "en": "with non-timed positive ignition, e.g. with hot-spots",
+      "count": 171,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B9/08": {
+      "code": "F02B9/08",
+      "level": 2,
+      "parent": "F02B9/06",
+      "ja": "熱源室をもつもの",
+      "en": "with incandescent chambers",
+      "count": 64,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B9/10": {
+      "code": "F02B9/10",
+      "level": 3,
+      "parent": "F02B9/08",
+      "ja": "その室の形状または構造",
+      "en": "Chamber shapes or constructions",
+      "count": 146,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B11/00": {
+      "code": "F02B11/00",
+      "level": 0,
+      "parent": "F02B",
+      "ja": "燃料－空気混合気の圧縮および空気圧縮の両方に特徴のある機関、あるいは外部式点火および圧縮点火の両方に特徴のある機関，例．別々のシリンダ内におけるもの",
+      "en": "Engines characterised by both fuel-air mixture compression and air compression, or characterised by both positive ignition and compression ignition, e.g. in different cylinders",
+      "count": 1104,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B11/02": {
+      "code": "F02B11/02",
+      "level": 1,
+      "parent": "F02B11/00",
+      "ja": "燃料－空気の混合気の圧縮から空気圧縮にまたはその逆に変換し得るもの",
+      "en": "convertible from fuel-air mixture compression to air compression or <u>vice versa</u>",
+      "count": 201,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B13/00": {
+      "code": "F02B13/00",
+      "level": 0,
+      "parent": "F02B",
+      "ja": "補助流体の利用によりシリンダ内へ液体燃料を供給することに特徴のある機関",
+      "en": "Engines characterised by the introduction of liquid fuel into cylinders by use of auxiliary fluid",
+      "count": 307,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B13/02": {
+      "code": "F02B13/02",
+      "level": 1,
+      "parent": "F02B13/00",
+      "ja": "シリンダ内の圧縮空気に燃料を吹き込むために空気または気体を利用する圧縮点火機関",
+      "en": "Compression ignition engines using air or gas for blowing fuel into compressed air in cylinder",
+      "count": 78,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B13/04": {
+      "code": "F02B13/04",
+      "level": 2,
+      "parent": "F02B13/02",
+      "ja": "そのポンプの装置または応用",
+      "en": "Arrangements or adaptations of pumps",
+      "count": 17,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B13/06": {
+      "code": "F02B13/06",
+      "level": 1,
+      "parent": "F02B13/00",
+      "ja": "ポンプ内で補助的空気および燃料が混合され，その中で点火されずに圧縮され，そしてその燃料－空気の混合気がシリンダ内の空気中へ噴射される機関",
+      "en": "Engines having secondary air mixed with fuel in pump, compressed therein without ignition, and fuel-air mixture being injected into air in cylinder",
+      "count": 56,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B13/08": {
+      "code": "F02B13/08",
+      "level": 2,
+      "parent": "F02B13/06",
+      "ja": "そのポンプの装置または応用",
+      "en": "Arrangements or adaptations of pumps",
+      "count": 18,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B13/10": {
+      "code": "F02B13/10",
+      "level": 1,
+      "parent": "F02B13/00",
+      "ja": "特別な補助流体，例．蒸気，燃焼ガス，を利用するもの",
+      "en": "Use of specific auxiliary fluids, e.g. steam, combustion gas",
+      "count": 97,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B15/00": {
+      "code": "F02B15/00",
+      "level": 0,
+      "parent": "F02B",
+      "ja": "シリンダへの液体燃料供給方法に特徴のあるもので，その他に分類されない機関",
+      "en": "Engines characterised by the method of introducing liquid fuel into cylinders and not otherwise provided for",
+      "count": 913,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B15/02": {
+      "code": "F02B15/02",
+      "level": 1,
+      "parent": "F02B15/00",
+      "ja": "シリンダに燃料を直接吸入するための手段をもつもの",
+      "en": "having means for sucking fuel directly into cylinder",
+      "count": 52,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B17/00": {
+      "code": "F02B17/00",
+      "level": 0,
+      "parent": "F02B",
+      "ja": "シリンダ内の給気の層状化を効果的にするための手段に特徴がある機関",
+      "en": "Engines characterised by means for effecting stratification of charge in cylinders",
+      "count": 3451,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B19/00": {
+      "code": "F02B19/00",
+      "level": 0,
+      "parent": "F02B",
+      "ja": "予燃焼室を有することに特徴がある機関",
+      "en": "Engines characterised by precombustion chambers",
+      "count": 1124,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B19/02": {
+      "code": "F02B19/02",
+      "level": 1,
+      "parent": "F02B19/00",
+      "ja": "予燃焼室がシリンダから周期的にしゃ断されるもの",
+      "en": "the chamber being periodically isolated from its cylinder",
+      "count": 713,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B19/04": {
+      "code": "F02B19/04",
+      "level": 2,
+      "parent": "F02B19/02",
+      "ja": "そのしゃ断がピストン上またはシリンダヘッドの突起より生ずるもの",
+      "en": "the isolation being effected by a protuberance on piston or cylinder head",
+      "count": 682,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B19/06": {
+      "code": "F02B19/06",
+      "level": 1,
+      "parent": "F02B19/00",
+      "ja": "シリンダ空間に点火された給気を移動させるためにその室内に補助的なピストンをもつもの",
+      "en": "with auxiliary piston in chamber for transferring ignited charge to cylinder space",
+      "count": 308,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B19/08": {
+      "code": "F02B19/08",
+      "level": 1,
+      "parent": "F02B19/00",
+      "ja": "空気旋回形の予燃焼室であるもの",
+      "en": "the chamber being of air-swirl type",
+      "count": 2014,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B19/10": {
+      "code": "F02B19/10",
+      "level": 1,
+      "parent": "F02B19/00",
+      "ja": "予燃焼室に幾分かの燃料を，そしてシリンダ内にも幾分かの燃料を供給するもの",
+      "en": "with fuel introduced partly into pre-combustion chamber, and partly into cylinder",
+      "count": 2935,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B19/12": {
+      "code": "F02B19/12",
+      "level": 1,
+      "parent": "F02B19/00",
+      "ja": "外部式点火方式をもつもの（時期調整されない外部式点火をするもののうち熱源室をもつものＦ０２Ｂ９／０８）",
+      "en": "with positive ignition(engines with non-timed positive ignition, and with incandescent chambers <b>F02B9/08</b>)",
+      "count": 2783,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B19/14": {
+      "code": "F02B19/14",
+      "level": 1,
+      "parent": "F02B19/00",
+      "ja": "圧縮点火方式をもつもの",
+      "en": "with compression ignition",
+      "count": 2531,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B19/16": {
+      "code": "F02B19/16",
+      "level": 1,
+      "parent": "F02B19/00",
+      "ja": "サブクラスＦ０２Ｂ１９／０２～Ｆ０２Ｂ１９／１０に特有でない予燃焼室の形状または構造",
+      "en": "Chamber shapes or constructions not specific to groups <b>F02B19/02 to F02B19/10</b> ",
+      "count": 2238,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B19/18": {
+      "code": "F02B19/18",
+      "level": 2,
+      "parent": "F02B19/16",
+      "ja": "その室とシリンダ間の移送通路",
+      "en": "Transfer passages between chamber and cylinder",
+      "count": 1213,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B21/00": {
+      "code": "F02B21/00",
+      "level": 0,
+      "parent": "F02B",
+      "ja": "空気室を有することに特徴がある機関",
+      "en": "Engines characterised by air-storage chambers",
+      "count": 865,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B21/02": {
+      "code": "F02B21/02",
+      "level": 1,
+      "parent": "F02B21/00",
+      "ja": "その室の形状または構造",
+      "en": "Chamber shapes or constructions",
+      "count": 249,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B23/00": {
+      "code": "F02B23/00",
+      "level": 0,
+      "parent": "F02B",
+      "ja": "作動改善のための燃焼室の特殊な形状または構造に特徴があるその他の機関（熱源室をもつ機関Ｆ０２Ｂ９／０８）",
+      "en": "Other engines characterised by special shape or construction of combustion chambers to improve operation(engines with incandescent chambers <b>F02B9/08</b>)",
+      "count": 3285,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B23/02": {
+      "code": "F02B23/02",
+      "level": 1,
+      "parent": "F02B23/00",
+      "ja": "圧縮点火によるもの",
+      "en": "with compression ignition",
+      "count": 1006,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B23/04": {
+      "code": "F02B23/04",
+      "level": 2,
+      "parent": "F02B23/02",
+      "ja": "燃焼空間が２つまたはそれ以上の室に小分けにされているもの（予燃焼室をもつものＦ０２Ｂ１９／００）",
+      "en": "the combustion space being subdivided into two or more chambers(with pre-combustion chambers <b>F02B19/00</b>)",
+      "count": 750,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B23/06": {
+      "code": "F02B23/06",
+      "level": 2,
+      "parent": "F02B23/02",
+      "ja": "燃焼空間が動作ピストン内にあるもの（Ｆ０２Ｂ２３／０４が優先）",
+      "en": "the combustion space being arranged in working piston(<b>F02B23/04</b> takes precedence)",
+      "count": 4814,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B23/08": {
+      "code": "F02B23/08",
+      "level": 1,
+      "parent": "F02B23/00",
+      "ja": "外部点火方式をもつもの",
+      "en": "with positive ignition",
+      "count": 4628,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B23/10": {
+      "code": "F02B23/10",
+      "level": 2,
+      "parent": "F02B23/08",
+      "ja": "シリンダ内に空気および燃料が別々に吸入されるもの",
+      "en": "with separate admission of air and fuel into cylinder",
+      "count": 4598,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B25/00": {
+      "code": "F02B25/00",
+      "level": 0,
+      "parent": "F02B",
+      "ja": "シリンダ掃気のために新気を利用することに特徴のある機関",
+      "en": "Engines characterised by using fresh charge for scavenging cylinders",
+      "count": 3974,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B25/02": {
+      "code": "F02B25/02",
+      "level": 1,
+      "parent": "F02B25/00",
+      "ja": "単一方向掃気を利用するもの",
+      "en": "using unidirectional scavenging",
+      "count": 411,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B25/04": {
+      "code": "F02B25/04",
+      "level": 2,
+      "parent": "F02B25/02",
+      "ja": "シリンダヘッド内およびピストン行程の底部近くのシリンダ壁内の両方にその開口部をもっている機関",
+      "en": "Engines having ports both in cylinder head and in cylinder wall near bottom of piston stroke",
+      "count": 916,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B25/06": {
+      "code": "F02B25/06",
+      "level": 3,
+      "parent": "F02B25/04",
+      "ja": "そのシリンダヘッド側の開口部が動作ピストンにより制御されるもの，例．動作ピストンのスリーブ形状をした延長部分によるもの",
+      "en": "the cylinder-head ports being controlled by working pistons, e.g. by sleeve-shaped extensions thereof",
+      "count": 472,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B25/08": {
+      "code": "F02B25/08",
+      "level": 2,
+      "parent": "F02B25/02",
+      "ja": "対向往復動作ピストンをもつ機関",
+      "en": "Engines with oppositely-moving reciprocating working pistons",
+      "count": 397,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B25/10": {
+      "code": "F02B25/10",
+      "level": 3,
+      "parent": "F02B25/08",
+      "ja": "他のものより小さい直径かまたは短行程の１つのピストンをもつもの",
+      "en": "with one piston having a smaller diameter or shorter stroke than the other",
+      "count": 81,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B25/12": {
+      "code": "F02B25/12",
+      "level": 2,
+      "parent": "F02B25/02",
+      "ja": "Ｕ形のシリンダをもつ機関で，その各腕にその開口部をもつもの",
+      "en": "Engines with U-shaped cylinders, having ports in each arm",
+      "count": 249,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B25/14": {
+      "code": "F02B25/14",
+      "level": 1,
+      "parent": "F02B25/00",
+      "ja": "反転形掃撓気法を利用するもの，例．吸入口および排気口の両方がピストン行程の底部近くにあるもの",
+      "en": "using reverse-flow scavenging, e.g. with both inlet and outlet ports arranged near bottom of piston stroke",
+      "count": 1373,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B25/16": {
+      "code": "F02B25/16",
+      "level": 2,
+      "parent": "F02B25/14",
+      "ja": "その給気が実質的に吸入口の反対側のシリンダ壁にそって上方へ流れるもの",
+      "en": "the charge flowing upward essentially along cylinder wall opposite the inlet ports",
+      "count": 1085,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B25/18": {
+      "code": "F02B25/18",
+      "level": 2,
+      "parent": "F02B25/14",
+      "ja": "その給気が実質的に吸入口側のシリンダ壁にそって流れるもの，例．ピストン上の偏向リブによるもの",
+      "en": "the charge flowing upward essentially along cylinder wall adjacent the inlet ports, e.g. by means of deflection rib on piston",
+      "count": 226,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B25/20": {
+      "code": "F02B25/20",
+      "level": 1,
+      "parent": "F02B25/00",
+      "ja": "その給気および燃焼残留物との混合を減少させまたは排気口を通じて新気の逃げを防止するための手段で，サブグループＦ０２Ｂ２５／０２～Ｆ０２Ｂ２５／１８に分類されないもの",
+      "en": "Means for reducing the mixing of charge and combustion residues or for preventing escape of fresh charge through outlet ports, not provided for in, or of interest apart from, groups <b>F02B25/02 to F02B25/18</b> ",
+      "count": 1868,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B25/22": {
+      "code": "F02B25/22",
+      "level": 2,
+      "parent": "F02B25/20",
+      "ja": "給気と燃焼残留物との間に空気クッションを形成して行うもの",
+      "en": "by forming air cushion between charge and combustion residues",
+      "count": 503,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B25/24": {
+      "code": "F02B25/24",
+      "level": 2,
+      "parent": "F02B25/20",
+      "ja": "吸入口または排気口の開きが下死点に関して非対称な関係で時期調整されたもの",
+      "en": "Inlet or outlet openings being timed asymmetrically relative to bottom dead-centre",
+      "count": 163,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B25/26": {
+      "code": "F02B25/26",
+      "level": 1,
+      "parent": "F02B25/00",
+      "ja": "サブグループＦ０２Ｂ２５／０２～Ｆ０２Ｂ２５／２４に分類されないまたはそれ以外に特徴のある多シリンダ機関（回転式機関の内部燃焼に関するものＦ０２Ｂ５７／００）",
+      "en": "Multi-cylinder engines other than those provided for in, or of interest apart from, groups <b>F02B25/02 to F02B25/24</b>  (internal-combustion aspects of rotary engines <b>F02B57/00</b>)",
+      "count": 234,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B25/28": {
+      "code": "F02B25/28",
+      "level": 2,
+      "parent": "F02B25/26",
+      "ja": "Ｖ形，扇形または星形配列のシリンダをもつもの",
+      "en": "with V-, fan-, or star-arrangement of cylinders",
+      "count": 117,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B27/00": {
+      "code": "F02B27/00",
+      "level": 0,
+      "parent": "F02B",
+      "ja": "給気量を改善し，または燃焼残留物の排出量を増大させるために，吸入系統の給気の，または排気系統における燃焼残留物の運動または波動エネルギの利用",
+      "en": "Use of kinetic or wave energy of charge in induction systems, or of combustion residues in exhaust systems, for improving quantity of charge or for increasing removal of combustion residues",
+      "count": 2247,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B27/02": {
+      "code": "F02B27/02",
+      "level": 1,
+      "parent": "F02B27/00",
+      "ja": "可変の，すなわち調整可能な横断面積，可変の容積の室，またはその様な可変手段を有する系統（排気系統内だけのものＦ０２Ｂ２７／０６）",
+      "en": "the systems having variable, i.e. adjustable, cross-sectional areas, chambers of variable volume, or like variable means(in exhaust systems only <b>F02B27/06</b>)",
+      "count": 3886,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B27/04": {
+      "code": "F02B27/04",
+      "level": 1,
+      "parent": "F02B27/00",
+      "ja": "排気系統だけにあるもの，例．燃焼ガスを吸い出すためのもの",
+      "en": "in exhaust systems only, e.g. for sucking-off combustion gases",
+      "count": 1080,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B27/06": {
+      "code": "F02B27/06",
+      "level": 2,
+      "parent": "F02B27/04",
+      "ja": "可変の，すなわち調整可能な横断面積，可変の容積の室，またはその様な可変手段を有する系統",
+      "en": "the systems having variable, i.e. adjustable, cross-sectional areas, chambers of variable volume, or like variable means",
+      "count": 1094,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B29/00": {
+      "code": "F02B29/00",
+      "level": 0,
+      "parent": "F02B",
+      "ja": "給気または掃気のための装備に特徴のある機関でグループＦ０２Ｂ２５／００，Ｆ０２Ｂ２７／００またはＦ０２Ｂ３３／００～Ｆ０２Ｂ３９／００に分類されないもの；その細部",
+      "en": "Engines characterised by provision for charging or scavenging not provided for in groups <b>F02B25/00</b>, <b>F02B27/00</b> or <b>F02B33/00 to F02B39/00</b> ; Details thereof",
+      "count": 2157,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B29/02": {
+      "code": "F02B29/02",
+      "level": 1,
+      "parent": "F02B29/00",
+      "ja": "給気量を改善するために吸入系統に他の流体力学的な特徴を有するもの（同様にシリンダ内の給気に回転を与えるものＦ０２Ｂ３１／００）",
+      "en": "Other fluid-dynamic features of induction systems for improving quantity of charge (for also imparting a rotation to the charge in the cylinder <b>F02B31/00</b>)",
+      "count": 1342,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B29/04": {
+      "code": "F02B29/04",
+      "level": 1,
+      "parent": "F02B29/00",
+      "ja": "供給する吸入空気の冷却",
+      "en": "Cooling of air intake supply",
+      "count": 11102,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B29/06": {
+      "code": "F02B29/06",
+      "level": 1,
+      "parent": "F02B29/00",
+      "ja": "後給気するもの，すなわち掃気の後補助の給気をするもの",
+      "en": "After-charging, i.e. supplementary charging after scavenging",
+      "count": 635,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B29/08": {
+      "code": "F02B29/08",
+      "level": 1,
+      "parent": "F02B29/00",
+      "ja": "給気の目的のために分配弁の開閉時期の改良を行うもの（Ｆ０２Ｂ２９／０６が優先）",
+      "en": "Modifying distribution valve timing for charging purposes(<b>F02B29/06</b> takes precedence)",
+      "count": 1811,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B31/00": {
+      "code": "F02B31/00",
+      "level": 0,
+      "parent": "F02B",
+      "ja": "シリンダ内の給気に回転を与えるために改良された吸入系統（内燃機関に適用される空気の取入や吸入系統Ｆ０２Ｍ３５／１０）",
+      "en": "Modifying induction systems for imparting a rotation to the charge in the cylinder  (air intakes or induction systems for internal-combustion engines <b>F02M35/10</b>)",
+      "count": 6236,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B31/02": {
+      "code": "F02B31/02",
+      "level": 1,
+      "parent": "F02B31/00",
+      "ja": "機関内にシリンダ軸に偏心して配置された吸入弁をもつもの（Ｆ０２Ｂ３１／０８が優先）［６］",
+      "en": "in engines having inlet valves arranged eccentrically to cylinder axis(<b>F02B31/08</b> takes precedence)",
+      "count": 2410,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B31/04": {
+      "code": "F02B31/04",
+      "level": 1,
+      "parent": "F02B31/00",
+      "ja": "吸入経路内の手段によるもの，例．デフレクタ［６］",
+      "en": "by means within the induction channel, e.g. deflectors",
+      "count": 1046,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B31/06": {
+      "code": "F02B31/06",
+      "level": 2,
+      "parent": "F02B31/04",
+      "ja": "可動手段によるもの，例．バタフライ弁［６］",
+      "en": "Movable means, e.g. butterfly valves",
+      "count": 895,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B31/08": {
+      "code": "F02B31/08",
+      "level": 1,
+      "parent": "F02B31/00",
+      "ja": "多数の空気取入口をもつもの［６］",
+      "en": "having multiple air inlets",
+      "count": 1168,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B33/00": {
+      "code": "F02B33/00",
+      "level": 0,
+      "parent": "F02B",
+      "ja": "給気用または掃気用のポンプの装備に特徴のある機関",
+      "en": "Engines characterised by provision of pumps for charging or scavenging",
+      "count": 4482,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B33/02": {
+      "code": "F02B33/02",
+      "level": 1,
+      "parent": "F02B33/00",
+      "ja": "往復動ピストン式ポンプをもつ機関；クランクケースのポンプをもつ機関",
+      "en": "Engines with reciprocating-piston pumps; Engines with crankcase pumps",
+      "count": 465,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B33/04": {
+      "code": "F02B33/04",
+      "level": 2,
+      "parent": "F02B33/02",
+      "ja": "単純なクランクケースのポンプをもつもの，すなわちそのクランクケースと協動して唯一のポンプ部材として働く段の付かない動作ピストンの背面をもつもの",
+      "en": "with simple crankcase pumps, i.e. with the rear face of a non-stepped working piston acting as sole pumping member in co-operation with the crankcase",
+      "count": 1140,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B33/06": {
+      "code": "F02B33/06",
+      "level": 2,
+      "parent": "F02B33/02",
+      "ja": "単純なクランクケースのポンプ以外の往復動ピストン式ポンプをもつもの",
+      "en": "with reciprocating-piston pumps other than simple crankcase pumps",
+      "count": 352,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B33/08": {
+      "code": "F02B33/08",
+      "level": 3,
+      "parent": "F02B33/06",
+      "ja": "動作用シリンダとポンプ用シリンダの間に配置された動作シリンダヘッドをもつもの",
+      "en": "with the working-cylinder head arranged between working and pumping cylinders",
+      "count": 98,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B33/10": {
+      "code": "F02B33/10",
+      "level": 3,
+      "parent": "F02B33/06",
+      "ja": "動作用シリンダとクランクケースとの間に配置されたポンプ用シリンダをもつもの，または動作用シリンダの周囲にポンプ用シリンダをもつもの",
+      "en": "with the pumping cylinder situated between working cylinder and crankcase, or with the pumping cylinder surrounding working cylinder",
+      "count": 151,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B33/12": {
+      "code": "F02B33/12",
+      "level": 4,
+      "parent": "F02B33/10",
+      "ja": "動作ピストンの背面がポンプ部材として働き，クランクケースから分離されたポンプ室と協動するもので，連接棒がその室を貫通し，可動の分離部材と協働するもの",
+      "en": "the rear face of working piston acting as pumping member and co-operating with a pumping chamber isolated from crankcase, the connecting-rod passing through the chamber and co-operating with movable isolating member",
+      "count": 195,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B33/14": {
+      "code": "F02B33/14",
+      "level": 4,
+      "parent": "F02B33/10",
+      "ja": "段付きピストンの形状をした動作用ピストンおよびポンプ用ピストンを有するもの",
+      "en": "working and pumping pistons forming stepped piston",
+      "count": 315,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B33/16": {
+      "code": "F02B33/16",
+      "level": 4,
+      "parent": "F02B33/10",
+      "ja": "異なった運動をする動作用ピストンおよびポンプ用ピストンを有するもの",
+      "en": "working and pumping pistons having differing movements",
+      "count": 55,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B33/18": {
+      "code": "F02B33/18",
+      "level": 3,
+      "parent": "F02B33/06",
+      "ja": "動作用シリンダとポンプ用シリンダの間に配置されたクランク軸をもつもの",
+      "en": "with crankshaft being arranged between working and pumping cylinders",
+      "count": 68,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B33/20": {
+      "code": "F02B33/20",
+      "level": 3,
+      "parent": "F02B33/06",
+      "ja": "動作用シリンダ軸にある角度をもって配置されたポンプ用シリンダ軸をもつもの，例．９０度の角度のもの",
+      "en": "with pumping-cylinder axis arranged at an angle to working-cylinder axis, e.g. at an angle of 90&deg",
+      "count": 168,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B33/22": {
+      "code": "F02B33/22",
+      "level": 3,
+      "parent": "F02B33/06",
+      "ja": "動作用シリンダの側面に配置されたポンプ用シリンダをもつもの，例．並行になっているシリンダ",
+      "en": "with pumping cylinder situated at side of working cylinder, e.g. the cylinders being parallel",
+      "count": 671,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B33/24": {
+      "code": "F02B33/24",
+      "level": 2,
+      "parent": "F02B33/02",
+      "ja": "往復動式ピストンだけをもつポンプとは異ったクランクケースのポンプをもつもの",
+      "en": "with crankcase pumps other than with reciprocating pistons only",
+      "count": 94,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B33/26": {
+      "code": "F02B33/26",
+      "level": 2,
+      "parent": "F02B33/02",
+      "ja": "クランクケースのポンプを有することに特徴のある４サイクル機関",
+      "en": "Four-stroke engines characterised by having crankcase pumps",
+      "count": 317,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B33/28": {
+      "code": "F02B33/28",
+      "level": 2,
+      "parent": "F02B33/02",
+      "ja": "クランクケースのポンプの構成部分，細部または付属品で，サブグループＦ０２Ｂ３３／０２～Ｆ０２Ｂ３３／２６に分類されないまたはそれ以外に特徴のあるもの",
+      "en": "Component parts, details, or accessories of crankcase pumps not provided for in, or of interest apart from, groups <b>F02B33/02 to F02B33/26</b> ",
+      "count": 139,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B33/30": {
+      "code": "F02B33/30",
+      "level": 3,
+      "parent": "F02B33/28",
+      "ja": "吸入口または排気口の制御",
+      "en": "Control of inlet or outlet ports",
+      "count": 896,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B33/32": {
+      "code": "F02B33/32",
+      "level": 1,
+      "parent": "F02B33/00",
+      "ja": "往復動式ピストン形以外のポンプのある機関（クランクケースのポンプをもつものＦ０２Ｂ３３／０２）",
+      "en": "Engines with pumps other than of reciprocating-piston type(with crankcase pumps <b>F02B33/02</b>)",
+      "count": 256,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B33/34": {
+      "code": "F02B33/34",
+      "level": 2,
+      "parent": "F02B33/32",
+      "ja": "回転式ポンプをもつもの（セル形圧力変換器またはそれに類するものＦ０２Ｂ３３／４２）",
+      "en": "with rotary pumps(with cell-type pressure exchangers or the like <b>F02B33/42</b>)",
+      "count": 612,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B33/36": {
+      "code": "F02B33/36",
+      "level": 3,
+      "parent": "F02B33/34",
+      "ja": "容積形のもの",
+      "en": "of positive-displacement type",
+      "count": 793,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B33/38": {
+      "code": "F02B33/38",
+      "level": 4,
+      "parent": "F02B33/36",
+      "ja": "ルーツ形のもの",
+      "en": "of Roots type",
+      "count": 468,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B33/40": {
+      "code": "F02B33/40",
+      "level": 3,
+      "parent": "F02B33/34",
+      "ja": "容積形でないもの",
+      "en": "of non-positive-displacement type",
+      "count": 1441,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B33/42": {
+      "code": "F02B33/42",
+      "level": 2,
+      "parent": "F02B33/32",
+      "ja": "燃焼ガス圧力を新気の圧力に直接変換するための駆動装置をもつもの，例．セル形圧力交換器をもつもの",
+      "en": "with driven apparatus for immediate conversion of combustion gas pressure into pressure of fresh charge, e.g. with cell-type pressure exchangers",
+      "count": 438,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B33/44": {
+      "code": "F02B33/44",
+      "level": 1,
+      "parent": "F02B33/00",
+      "ja": "ポンプから機関吸入口に給気を導入する通路，例．空気だめ",
+      "en": "Passages conducting the charge from the pump to the engine inlet, e.g. reservoirs",
+      "count": 4592,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B35/00": {
+      "code": "F02B35/00",
+      "level": 0,
+      "parent": "F02B",
+      "ja": "シリンダから燃焼残留物を吸い出すためのポンプの装備に特徴のある機関",
+      "en": "Engines characterised by provision of pumps for sucking combustion residues from cylinders",
+      "count": 143,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B35/02": {
+      "code": "F02B35/02",
+      "level": 1,
+      "parent": "F02B35/00",
+      "ja": "回転式ポンプを利用するもの",
+      "en": "using rotary pumps",
+      "count": 141,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B37/00": {
+      "code": "F02B37/00",
+      "level": 0,
+      "parent": "F02B",
+      "ja": "排気により少くなくとも一時期駆動されるポンプの装備に特徴のある機関",
+      "en": "Engines characterised by provision of pumps driven at least for part of the time by exhaust",
+      "count": 13488,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B37/007": {
+      "code": "F02B37/007",
+      "level": 1,
+      "parent": "F02B37/00",
+      "ja": "並列に配列した排気駆動ポンプをもつもの［６］",
+      "en": "with exhaust-driven pumps arranged in parallel",
+      "count": 2100,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B37/013": {
+      "code": "F02B37/013",
+      "level": 1,
+      "parent": "F02B37/00",
+      "ja": "直列に配列した排気駆動ポンプをもつもの［６］",
+      "en": "with exhaust-driven pumps arranged in series",
+      "count": 1879,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B37/02": {
+      "code": "F02B37/02",
+      "level": 1,
+      "parent": "F02B37/00",
+      "ja": "機関排気口とポンプ駆動との間のガス通路を有するもの，例．ガスだめ",
+      "en": "Gas passages between engine outlet and pump drive, e.g. reservoirs",
+      "count": 2827,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B37/04": {
+      "code": "F02B37/04",
+      "level": 1,
+      "parent": "F02B37/00",
+      "ja": "排気によるポンプの駆動およびその他の駆動をもつ機関，例．排気による駆動ポンプおよび機械駆動の補助ポンプをもつもの",
+      "en": "Engines with exhaust drive and other drive of pumps, e.g. with exhaust-driven pump and mechanically-driven second pump",
+      "count": 2483,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B37/10": {
+      "code": "F02B37/10",
+      "level": 2,
+      "parent": "F02B37/04",
+      "ja": "少くとも１個のポンプが排気とその他の駆動手段とにより交代的に駆動されるもの［３］",
+      "en": "at least one pump being alternately driven by exhaust and other drive",
+      "count": 2435,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B37/11": {
+      "code": "F02B37/11",
+      "level": 3,
+      "parent": "F02B37/10",
+      "ja": "始動時のみ他の駆動手段により駆動するもの［６］",
+      "en": "driven by other drive at starting only",
+      "count": 150,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B37/12": {
+      "code": "F02B37/12",
+      "level": 1,
+      "parent": "F02B37/00",
+      "ja": "ポンプの制御［３］",
+      "en": "Control of the pumps",
+      "count": 7324,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B37/14": {
+      "code": "F02B37/14",
+      "level": 2,
+      "parent": "F02B37/12",
+      "ja": "排気によるポンプの駆動とその他の駆動手段との切り換えに関するもの，例．速度によるもの［３］",
+      "en": "of the alternation between exhaust drive and other drive of a pump, e.g. dependent on speed",
+      "count": 862,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B37/16": {
+      "code": "F02B37/16",
+      "level": 2,
+      "parent": "F02B37/12",
+      "ja": "吸気のバイパスによるもの［６］",
+      "en": "by bypassing charging air",
+      "count": 3379,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B37/18": {
+      "code": "F02B37/18",
+      "level": 2,
+      "parent": "F02B37/12",
+      "ja": "排気のバイパスによるもの［６］",
+      "en": "by bypassing exhaust",
+      "count": 7716,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B37/20": {
+      "code": "F02B37/20",
+      "level": 2,
+      "parent": "F02B37/12",
+      "ja": "排気エネルギーの増加によるもの，例．燃焼室を用いるもの［６］",
+      "en": "by increasing exhaust energy, e.g. using combustion chambers",
+      "count": 390,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B37/22": {
+      "code": "F02B37/22",
+      "level": 2,
+      "parent": "F02B37/12",
+      "ja": "排気通路または空気通路の断面積の変化によるもの［６］（Ｆ０２Ｂ３７／２４優先）",
+      "en": "by varying the cross-section of exhaust passages or air passages (<b>F02B37/24</b> takes precedence)",
+      "count": 2755,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B37/24": {
+      "code": "F02B37/24",
+      "level": 2,
+      "parent": "F02B37/12",
+      "ja": "調節可能なガイドベーンをもつポンプまたはタービンの使用によるもの［６］",
+      "en": "by using pumps or turbines with adjustable guide vanes",
+      "count": 3924,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B39/00": {
+      "code": "F02B39/00",
+      "level": 0,
+      "parent": "F02B",
+      "ja": "駆動される給気または掃気ポンプに関連する構成部品，細部または付属品で、グループＦ０２Ｂ３３／００～Ｆ０２Ｂ３７／００に分類されないもの",
+      "en": "Component parts, details, or accessories relating to driven charging or scavenging pumps, not provided for in groups <b>F02B33/00 to F02B37/00</b> ",
+      "count": 9207,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B39/02": {
+      "code": "F02B39/02",
+      "level": 1,
+      "parent": "F02B39/00",
+      "ja": "ポンプの駆動（排気駆動または排気と他の駆動するものとの組み合わせＦ０２Ｂ３７／００）；ポンプ駆動歯車比を変化しうるもの",
+      "en": "Drives of pumps (exhaust drives or combined exhaust and other drives <b>F02B37/00</b>);Varying pump drive gear ratio",
+      "count": 308,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B39/04": {
+      "code": "F02B39/04",
+      "level": 2,
+      "parent": "F02B39/02",
+      "ja": "機械的駆動；歯車比可変の駆動装置（可変歯車比を有する非機械駆動ポンプＦ０２Ｂ３９／０８）",
+      "en": "Mechanical drives; Variable-gear-ratio drives(non-mechanical pump drives having variable gear ratio <b>F02B39/08</b>)",
+      "count": 1185,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B39/06": {
+      "code": "F02B39/06",
+      "level": 3,
+      "parent": "F02B39/04",
+      "ja": "機関のトルクがポンプおよびその機関の出力軸を駆動するために差動歯車により分配されるもの",
+      "en": "the engine torque being divided by a differential gear for driving a pump and the engine output shaft",
+      "count": 126,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B39/08": {
+      "code": "F02B39/08",
+      "level": 2,
+      "parent": "F02B39/02",
+      "ja": "非機械的駆動，例．可変歯車比を有する流体駆動",
+      "en": "Non-mechanical drives, e.g. fluid drives having variable gear ratio",
+      "count": 383,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B39/10": {
+      "code": "F02B39/10",
+      "level": 3,
+      "parent": "F02B39/08",
+      "ja": "電気的なもの",
+      "en": "electric",
+      "count": 2425,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B39/12": {
+      "code": "F02B39/12",
+      "level": 2,
+      "parent": "F02B39/02",
+      "ja": "継手またはクラッチの利用に特徴のある駆動装置（歯車比を変えるため流体摩擦継手を利用するものＦ０２Ｂ３９／０８）",
+      "en": "Drives characterised by use of couplings or clutches therein(using fluid slip couplings for varying gear ratio <b>F02B39/08</b>)",
+      "count": 897,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B39/14": {
+      "code": "F02B39/14",
+      "level": 1,
+      "parent": "F02B39/00",
+      "ja": "ポンプの潤滑；それらのための保護方法",
+      "en": "Lubrication of pumps; Safety measures therefor",
+      "count": 3024,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B39/16": {
+      "code": "F02B39/16",
+      "level": 1,
+      "parent": "F02B39/00",
+      "ja": "ポンプの他の保護方法または他の制御",
+      "en": "Other safety measures for, or other control of, pumps",
+      "count": 2778,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B41/00": {
+      "code": "F02B41/00",
+      "level": 0,
+      "parent": "F02B",
+      "ja": "熱または圧力エネルギの機械力への変換を改善するための特殊な手段に特徴のある機関",
+      "en": "Engines characterised by special means for improving conversion of heat or pressure energy into mechanical power",
+      "count": 1338,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B41/02": {
+      "code": "F02B41/02",
+      "level": 1,
+      "parent": "F02B41/00",
+      "ja": "膨張を長びかせるもの",
+      "en": "Engines with prolonged expansion",
+      "count": 366,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B41/04": {
+      "code": "F02B41/04",
+      "level": 2,
+      "parent": "F02B41/02",
+      "ja": "主シリンダ内にあるもの",
+      "en": "in main cylinders",
+      "count": 878,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B41/06": {
+      "code": "F02B41/06",
+      "level": 2,
+      "parent": "F02B41/02",
+      "ja": "複合シリンダ内にあるもの",
+      "en": "in compound cylinders",
+      "count": 692,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B41/08": {
+      "code": "F02B41/08",
+      "level": 3,
+      "parent": "F02B41/06",
+      "ja": "２サイクル複合機関",
+      "en": "Two-stroke compound engines",
+      "count": 164,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B41/10": {
+      "code": "F02B41/10",
+      "level": 2,
+      "parent": "F02B41/02",
+      "ja": "排気タービンを用いるもの（給気用に排気タービンを利用するものＦ０２Ｂ３７／００）",
+      "en": "using exhaust turbines(use of exhaust turbines for charging <b>F02B37/00</b>)",
+      "count": 1516,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B43/00": {
+      "code": "F02B43/00",
+      "level": 0,
+      "parent": "F02B",
+      "ja": "ガス状の燃料で作動することに特徴のある機関；そのような機関を含む設備（付加された燃料の圧縮点火により点火されるガス―空気の給気に特徴のある機関Ｆ０２Ｂ７／０６；ガスから他の燃料消費に転換可能な機関Ｆ０２Ｂ６９／０４）",
+      "en": "Engines characterised by operating on gaseous fuels; Plants including such engines(engines characterised by the gas-air charge being ignited by compression ignition of an additional fuel <b>F02B7/06</b>; engines convertible from gas to other fuel consumption <b>F02B69/04</b>)",
+      "count": 4285,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B43/02": {
+      "code": "F02B43/02",
+      "level": 1,
+      "parent": "F02B43/00",
+      "ja": "作動効率向上のための手段に特徴のある機関",
+      "en": "Engines characterised by means for increasing operating efficiency",
+      "count": 248,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B43/04": {
+      "code": "F02B43/04",
+      "level": 2,
+      "parent": "F02B43/02",
+      "ja": "燃焼効率改善のためのもの",
+      "en": "for improving efficiency of combustion",
+      "count": 360,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B43/06": {
+      "code": "F02B43/06",
+      "level": 2,
+      "parent": "F02B43/02",
+      "ja": "給気量を増大させるためのもの",
+      "en": "for enlarging charge",
+      "count": 81,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B43/08": {
+      "code": "F02B43/08",
+      "level": 1,
+      "parent": "F02B43/00",
+      "ja": "機関がその設備内で固体燃料，例．まき，から発生させた気体燃料を利用することに特徴のある設備",
+      "en": "Plants characterised by the engines using gaseous fuel generated in the plant from solid fuel, e.g. wood",
+      "count": 702,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B43/10": {
+      "code": "F02B43/10",
+      "level": 1,
+      "parent": "F02B43/00",
+      "ja": "他の特殊な気体，例．アセチレンガス，酸水素ガス，の利用に特徴のある機関または設備",
+      "en": "Engines or plants characterised by use of other specific gases, e.g. acetylene, oxyhydrogen",
+      "count": 3851,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B43/12": {
+      "code": "F02B43/12",
+      "level": 2,
+      "parent": "F02B43/10",
+      "ja": "その作動方法",
+      "en": "Methods of operating",
+      "count": 502,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B45/00": {
+      "code": "F02B45/00",
+      "level": 0,
+      "parent": "F02B",
+      "ja": "ガス以外の非液体燃料で作動することに特徴がある機関；そのような機関を含む設備（固体燃料から気体燃料の発生装置を含む設備Ｆ０２Ｂ４３／０８；ガスから他の燃料消費へ転換可能な機関Ｆ０２Ｂ６９／０４）",
+      "en": "Engines characterised by operating on non-liquid fuels other than gas; Plants including such engines(plants involving generation of gaseous fuel from solid fuel <b>F02B43/08</b>; engines convertible from gas to other fuel consumption <b>F02B69/04</b>)",
+      "count": 134,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B45/02": {
+      "code": "F02B45/02",
+      "level": 1,
+      "parent": "F02B45/00",
+      "ja": "粉末燃料，例．微粉炭，で作動するもの，（酸化剤を含む燃料で作動するものＦ０２Ｂ４５／０６）",
+      "en": "operating on powdered fuel, e.g. powdered coal(operating on fuel containing oxidant <b>F02B45/06</b>)",
+      "count": 424,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B45/04": {
+      "code": "F02B45/04",
+      "level": 2,
+      "parent": "F02B45/02",
+      "ja": "その設備，例．石炭粉砕装置を有するもの",
+      "en": "Plants, e.g. having coal-grinding apparatus",
+      "count": 19,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B45/06": {
+      "code": "F02B45/06",
+      "level": 1,
+      "parent": "F02B45/00",
+      "ja": "酸化剤を含む燃料で作動するもの",
+      "en": "operating on fuel containing oxidant",
+      "count": 64,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B45/08": {
+      "code": "F02B45/08",
+      "level": 1,
+      "parent": "F02B45/00",
+      "ja": "その他の固体燃料で作動するもの",
+      "en": "operating on other solid fuels",
+      "count": 96,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B45/10": {
+      "code": "F02B45/10",
+      "level": 1,
+      "parent": "F02B45/00",
+      "ja": "液体燃料および非液体燃料との混合物，例．のり状または発泡状の混合物，で作動するもの",
+      "en": "operating on mixtures of liquid and non-liquid fuels, e.g. in pasty or foamed state",
+      "count": 98,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B47/00": {
+      "code": "F02B47/00",
+      "level": 0,
+      "parent": "F02B",
+      "ja": "機関の燃焼すべき空気，燃料または燃料－空気の混合気に非燃料物質またはアンチノック剤を添加させる機関の作動方法",
+      "en": "Methods of operating engines involving adding non-fuel substances or anti-knock agents to combustion air, fuel, or fuel-air mixtures of engines",
+      "count": 522,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B47/02": {
+      "code": "F02B47/02",
+      "level": 1,
+      "parent": "F02B47/00",
+      "ja": "その物質が水または水蒸気であるもの",
+      "en": "the substances being water or steam",
+      "count": 2113,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B47/04": {
+      "code": "F02B47/04",
+      "level": 1,
+      "parent": "F02B47/00",
+      "ja": "その物質が水または水蒸気だけでないもの",
+      "en": "the substances being other than water or steam only",
+      "count": 382,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B47/06": {
+      "code": "F02B47/06",
+      "level": 2,
+      "parent": "F02B47/04",
+      "ja": "その物質が空気中の酸素以外の酸素を含むもの（Ｆ０２Ｂ４７／１０が優先）",
+      "en": "the substances including non-airborne oxygen(<b>F02B47/10</b> takes precedence)",
+      "count": 250,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B47/08": {
+      "code": "F02B47/08",
+      "level": 2,
+      "parent": "F02B47/04",
+      "ja": "排気ガスを含む物質",
+      "en": "the substances including exhaust gas",
+      "count": 1956,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B47/10": {
+      "code": "F02B47/10",
+      "level": 3,
+      "parent": "F02B47/08",
+      "ja": "密閉または半密閉回路における排気ガスの循環，例．同時に酸素を添加するもの",
+      "en": "Circulation of exhaust gas in closed or semi-closed circuits, e.g. with simultaneous addition of oxygen",
+      "count": 430,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B49/00": {
+      "code": "F02B49/00",
+      "level": 0,
+      "parent": "F02B",
+      "ja": "機関の吸入口に微細な霧状の少量の燃料を供給する空気圧縮点火機関の作動方法",
+      "en": "Methods of operating air-compressing compression-ignition engines involving introduction of small quantities of fuel in the form of a fine mist into the air in the engine's intake",
+      "count": 100,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B51/00": {
+      "code": "F02B51/00",
+      "level": 0,
+      "parent": "F02B",
+      "ja": "機関の燃焼すべき空気，燃料または燃料－空気の混合気を前処理する，またはそれらに添加剤を与える機関の他の作動方法",
+      "en": "Other methods of operating engines involving pre-treating of, or adding substances to, combustion air, fuel, or fuel-air mixture of the engines",
+      "count": 479,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B51/02": {
+      "code": "F02B51/02",
+      "level": 1,
+      "parent": "F02B51/00",
+      "ja": "触媒を含むもの",
+      "en": "involving catalysts",
+      "count": 501,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B51/04": {
+      "code": "F02B51/04",
+      "level": 1,
+      "parent": "F02B51/00",
+      "ja": "電気または励磁を与えるもの",
+      "en": "involving electricity or magnetism",
+      "count": 454,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B51/06": {
+      "code": "F02B51/06",
+      "level": 1,
+      "parent": "F02B51/00",
+      "ja": "光線または音波を与えるもの",
+      "en": "involving rays or sound waves",
+      "count": 145,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B53/00": {
+      "code": "F02B53/00",
+      "level": 0,
+      "parent": "F02B",
+      "ja": "回転ピストン式または揺動ピストン式機関の内部燃焼（回転ピストンまたはそれと共に協働する外側部材Ｆ０２Ｂ５５／００）に関するもの",
+      "en": "Internal-combustion aspects of rotary-piston or oscillating-piston engines(internal-combustion aspects of rotary pistons or outer members for co-operation therewith <b>F02B55/00</b>)",
+      "count": 9743,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B53/02": {
+      "code": "F02B53/02",
+      "level": 1,
+      "parent": "F02B53/00",
+      "ja": "その作動方法",
+      "en": "Methods of operating",
+      "count": 1762,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B53/04": {
+      "code": "F02B53/04",
+      "level": 1,
+      "parent": "F02B53/00",
+      "ja": "給気の吸入または燃焼ガスの排気",
+      "en": "Charge admission or combustion-gas discharge",
+      "count": 1930,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B53/06": {
+      "code": "F02B53/06",
+      "level": 2,
+      "parent": "F02B53/04",
+      "ja": "それらのための弁制御",
+      "en": "Valve control therefor",
+      "count": 678,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B53/08": {
+      "code": "F02B53/08",
+      "level": 2,
+      "parent": "F02B53/04",
+      "ja": "給気（ｃｈａｒｇｉｎｇ），例．回転ピストンのポンプ作用によるもの",
+      "en": "Charging, e.g. by means of rotary-piston pump",
+      "count": 1108,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B53/10": {
+      "code": "F02B53/10",
+      "level": 1,
+      "parent": "F02B53/00",
+      "ja": "燃料供給；燃焼空間に燃料を供給するもの",
+      "en": "Fuel supply; Introducing fuel to combustion space",
+      "count": 1121,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B53/12": {
+      "code": "F02B53/12",
+      "level": 1,
+      "parent": "F02B53/00",
+      "ja": "点火",
+      "en": "Ignition",
+      "count": 879,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B53/14": {
+      "code": "F02B53/14",
+      "level": 1,
+      "parent": "F02B53/00",
+      "ja": "他の装置を駆動するための機関の応用，または機関と他の装置との組み合わせ",
+      "en": "Adaptations of engines for driving, or engine combinations with, other devices",
+      "count": 423,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B55/00": {
+      "code": "F02B55/00",
+      "level": 0,
+      "parent": "F02B",
+      "ja": "回転ピストンの内部燃焼；回転ピストンと協働する外側部材に関するもの",
+      "en": "Internal-combustion aspects of rotary pistons; Outer members for co-operation with rotary pistons",
+      "count": 637,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B55/02": {
+      "code": "F02B55/02",
+      "level": 1,
+      "parent": "F02B55/00",
+      "ja": "ピストン",
+      "en": "Pistons",
+      "count": 1997,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B55/04": {
+      "code": "F02B55/04",
+      "level": 2,
+      "parent": "F02B55/02",
+      "ja": "それらの冷却",
+      "en": "Cooling thereof",
+      "count": 292,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B55/06": {
+      "code": "F02B55/06",
+      "level": 3,
+      "parent": "F02B55/04",
+      "ja": "空気またはその他の気体によるもの",
+      "en": "by air or other gas",
+      "count": 112,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B55/08": {
+      "code": "F02B55/08",
+      "level": 1,
+      "parent": "F02B55/00",
+      "ja": "回転ピストンと協動する外側部材；ケーシング",
+      "en": "Outer members for co-operation with rotary pistons; Casings",
+      "count": 1629,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B55/10": {
+      "code": "F02B55/10",
+      "level": 2,
+      "parent": "F02B55/08",
+      "ja": "それらの冷却",
+      "en": "Cooling thereof",
+      "count": 382,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B55/12": {
+      "code": "F02B55/12",
+      "level": 3,
+      "parent": "F02B55/10",
+      "ja": "空気またはその他の気体によるもの",
+      "en": "by air or other gas",
+      "count": 110,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B55/14": {
+      "code": "F02B55/14",
+      "level": 1,
+      "parent": "F02B55/00",
+      "ja": "燃焼室の形状または構造",
+      "en": "Shapes or constructions of combustion chambers",
+      "count": 1240,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B55/16": {
+      "code": "F02B55/16",
+      "level": 1,
+      "parent": "F02B55/00",
+      "ja": "ピストン内または外側部材内の給気または排気通路",
+      "en": "Admission or exhaust passages in pistons or outer members",
+      "count": 672,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B57/00": {
+      "code": "F02B57/00",
+      "level": 0,
+      "parent": "F02B",
+      "ja": "燃焼ガスが１個またはそれ以上の往復動ピストンを作動する回転式機関の内部燃焼に関するもの",
+      "en": "Internal-combustion aspects of rotary engines in which the combusted gases displace one or more reciprocating pistons",
+      "count": 808,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B57/02": {
+      "code": "F02B57/02",
+      "level": 1,
+      "parent": "F02B57/00",
+      "ja": "燃料または燃焼空気の供給（シリンダの給気吸入または排気を制御するものＦ０２Ｂ５７／０４）",
+      "en": "Fuel or combustion-air supply(cylinder-charge admission or exhaust control <b>F02B57/04</b>)",
+      "count": 82,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B57/04": {
+      "code": "F02B57/04",
+      "level": 1,
+      "parent": "F02B57/00",
+      "ja": "シリンダの給気吸入または排気の制御（動作ピストンで制御された給気吸入または排気を有する２サイクル機関またはその他の機関に特有なものＦ０２Ｂ５７／０６）",
+      "en": "Control of cylinder-charge admission or exhaust(peculiar to two-stroke engines or to other engines with working-piston-controlled charge admission or exhaust <b>F02B57/06</b>)",
+      "count": 135,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B57/06": {
+      "code": "F02B57/06",
+      "level": 1,
+      "parent": "F02B57/00",
+      "ja": "作動ピストンで制御されたシリンダへの給気吸入または排気を有する２サイクル機関またはその他の機関（星形の中心に燃焼空間をもつものＦ０２Ｂ５７／１０）",
+      "en": "Two-stroke engines or other engines with working-piston-controlled cylinder-charge admission or exhaust(with combustion space in centre of star <b>F02B57/10</b>)",
+      "count": 146,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B57/08": {
+      "code": "F02B57/08",
+      "level": 1,
+      "parent": "F02B57/00",
+      "ja": "星形のシリンダ配列をもつ機関",
+      "en": "Engines with star-shaped cylinder arrangements",
+      "count": 1312,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B57/10": {
+      "code": "F02B57/10",
+      "level": 2,
+      "parent": "F02B57/08",
+      "ja": "星形の中心に燃焼空間をもつもの",
+      "en": "with combustion space in centre of star",
+      "count": 261,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B59/00": {
+      "code": "F02B59/00",
+      "level": 0,
+      "parent": "F02B",
+      "ja": "可動シリンダ，例．揺動シリンダ，を有するその他の往復動ピストン式機関の内部燃焼に関するもの（壁がたわむものＦ０２Ｂ７５／３８）",
+      "en": "Internal-combustion aspects of other reciprocating-piston engines with movable, e.g. oscillating, cylinders(with yieldable walls <b>F02B75/38</b>)",
+      "count": 412,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B61/00": {
+      "code": "F02B61/00",
+      "level": 0,
+      "parent": "F02B",
+      "ja": "車両の駆動またはプロペラの駆動のための機関の応用；機関と伝動装置との組合せ（機関のトルクが掃気または給気ポンプおよびその機関の出力軸を駆動するために差動歯車により分配されるものＦ０２Ｂ３９／０６；回転式ピストンまたは揺動式ピストン機関の応用または組み合わせＦ０２Ｂ５３／１４）",
+      "en": "Adaptations of engines for driving vehicles or for driving propellers; Combinations of engines with gearing (the engine torque being divided by a differential gear for driving a scavenging or charging pump and the engine output shaft <b>F02B39/06</b>;  adaptations or combinations of rotary-piston or oscillating-piston engines <b>F02B53/14</b>)",
+      "count": 1159,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B61/02": {
+      "code": "F02B61/02",
+      "level": 1,
+      "parent": "F02B61/00",
+      "ja": "２輪または３輪車を駆動するためのもの",
+      "en": "for driving cycles",
+      "count": 3552,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B61/04": {
+      "code": "F02B61/04",
+      "level": 1,
+      "parent": "F02B61/00",
+      "ja": "プロペラを駆動するためのもの",
+      "en": "for driving propellers",
+      "count": 6526,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B61/06": {
+      "code": "F02B61/06",
+      "level": 1,
+      "parent": "F02B61/00",
+      "ja": "機関と機械的伝動装置との組み合わせ（Ｆ０２Ｂ６１／０２，Ｆ０２Ｂ６１／０４が優先）",
+      "en": "Combinations of engines with mechanical gearing(<b>F02B61/02</b>, <b>F02B61/04</b> take precedence)",
+      "count": 2620,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B63/00": {
+      "code": "F02B63/00",
+      "level": 0,
+      "parent": "F02B",
+      "ja": "ポンプ，手持ち工具，または発電機を駆動するための機関の応用；機関と機関により駆動される装置との携帯可能な組み合わせ（回転ピストン式または揺動ピストン式機関のものＦ０２Ｂ５３／１４）",
+      "en": "Adaptations of engines for driving pumps, hand-held tools or electric generators; Portable combinations of engines with engine-driven devices(of rotary-piston or oscillating-piston engines <b>F02B53/14</b>)",
+      "count": 1642,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B63/02": {
+      "code": "F02B63/02",
+      "level": 1,
+      "parent": "F02B63/00",
+      "ja": "手持ち工具のためのもの",
+      "en": "for hand-held tools",
+      "count": 1780,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B63/04": {
+      "code": "F02B63/04",
+      "level": 1,
+      "parent": "F02B63/00",
+      "ja": "発電機のためのもの",
+      "en": "for electric generators",
+      "count": 15523,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B63/06": {
+      "code": "F02B63/06",
+      "level": 1,
+      "parent": "F02B63/00",
+      "ja": "ポンプのためのもの",
+      "en": "for pumps",
+      "count": 2574,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B65/00": {
+      "code": "F02B65/00",
+      "level": 0,
+      "parent": "F02B",
+      "ja": "グループＦ０２Ｂ６１／００またはＦ０２Ｂ６３／００に分類されない特殊な用途のための機関の応用；機関と他の装置，例．駆動されない装置，との組み合わせ（回転ピストン式または揺動ピストン式機関のものＦ０２Ｂ５３／１４；相互または共同の推進のための電動機と内燃機関からなる原動力の組み合わせＢ６０Ｋ６／２０）",
+      "en": "Adaptations of engines for special uses not provided for in groups <b>F02B61/00</b> or <b>F02B63/00</b>; Combinations of engines with other devices, e.g. with non-driven apparatus(of rotary-piston or oscillating-piston engines <b>F02B53/14</b>; combinations of prime-movers consisting of electric motors and internal combustion engines for mutual or common propulsion <b>B60K6/20</b>)",
+      "count": 992,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B67/00": {
+      "code": "F02B67/00",
+      "level": 0,
+      "parent": "F02B",
+      "ja": "他に分類されない補助装置の配置に特徴のある機関，例．異なった機能を有する装置；機関から補助装置を駆動するもので，他に分類されないもの",
+      "en": "Engines characterised by the arrangement of auxiliary apparatus not being otherwise provided for, e.g. the apparatus having different functions; Driving auxiliary apparatus from engines, not otherwise provided for",
+      "count": 5220,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B67/04": {
+      "code": "F02B67/04",
+      "level": 1,
+      "parent": "F02B67/00",
+      "ja": "機械駆動の補助装置",
+      "en": "of mechanically-driven auxiliary apparatus",
+      "count": 3181,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B67/06": {
+      "code": "F02B67/06",
+      "level": 2,
+      "parent": "F02B67/04",
+      "ja": "チェーン，ベルトまたはそのような無端可撓部材によって駆動されるもの",
+      "en": "driven by means of chains, belts, or like endless members",
+      "count": 7863,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B67/08": {
+      "code": "F02B67/08",
+      "level": 1,
+      "parent": "F02B67/00",
+      "ja": "非機械駆動の補助装置",
+      "en": "of non-mechanically driven auxiliary apparatus",
+      "count": 285,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B67/10": {
+      "code": "F02B67/10",
+      "level": 1,
+      "parent": "F02B67/00",
+      "ja": "給気もしくは掃気装置［５］",
+      "en": "of charging or scavenging apparatus",
+      "count": 571,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B69/00": {
+      "code": "F02B69/00",
+      "level": 0,
+      "parent": "F02B",
+      "ja": "１１／００に分類されないもので，他の燃焼機関形式に変換可能な内燃機関；異なる形式で同一の主要機関部品を容易に利用し得る構造に特徴のある内燃機関",
+      "en": "Internal-combustion engines convertible into other combustion-engine type, not provided for in group <b>F02B11/00</b>; Internal-combustion engines of different types characterised by constructions facilitating use of same main engine-parts in different types",
+      "count": 332,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B69/02": {
+      "code": "F02B69/02",
+      "level": 1,
+      "parent": "F02B69/00",
+      "ja": "消費される燃料に無関係の機関を除いた異なった燃料形式のためのもの，例．軽質燃料から重質燃料に転換し得るもの",
+      "en": "for different fuel types, other than engines indifferent to fuel consumed, e.g. convertible from light to heavy fuel",
+      "count": 426,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B69/04": {
+      "code": "F02B69/04",
+      "level": 2,
+      "parent": "F02B69/02",
+      "ja": "気体状燃料およびそうでない燃料のためのもの",
+      "en": "for gaseous and non-gaseous fuels",
+      "count": 682,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B69/06": {
+      "code": "F02B69/06",
+      "level": 1,
+      "parent": "F02B69/00",
+      "ja": "異なったサイクルのためのもの，例．２サイクルから４サイクルに変換し得るもの",
+      "en": "for different cycles, e.g. convertible from two-stroke to four-stroke",
+      "count": 439,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B71/00": {
+      "code": "F02B71/00",
+      "level": 0,
+      "parent": "F02B",
+      "ja": "自由ピストン機関；回転する主軸のない機関",
+      "en": "Free-piston engines; Engines without rotary main shaft",
+      "count": 1415,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B71/02": {
+      "code": "F02B71/02",
+      "level": 1,
+      "parent": "F02B71/00",
+      "ja": "その始動",
+      "en": "Starting",
+      "count": 241,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B71/04": {
+      "code": "F02B71/04",
+      "level": 1,
+      "parent": "F02B71/00",
+      "ja": "特殊な用途のためのそのような機関の応用；それにより駆動される装置とそのような機関との組み合わせ",
+      "en": "Adaptations of such engines for special use; Combinations of such engines with apparatus driven thereby",
+      "count": 1585,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B71/06": {
+      "code": "F02B71/06",
+      "level": 2,
+      "parent": "F02B71/04",
+      "ja": "自由ピストン燃焼ガス発生装置",
+      "en": "Free-piston combustion gas generators",
+      "count": 495,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B73/00": {
+      "code": "F02B73/00",
+      "level": 0,
+      "parent": "F02B",
+      "ja": "２つまたはそれ以上の機関の組み合わせで，他に分類されないもの",
+      "en": "Combinations of two or more engines, not otherwise provided for",
+      "count": 1190,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B75/00": {
+      "code": "F02B75/00",
+      "level": 0,
+      "parent": "F02B",
+      "ja": "その他の機関，例．単シリンダ機関",
+      "en": "Other engines, e.g. single-cylinder engines",
+      "count": 2467,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B75/02": {
+      "code": "F02B75/02",
+      "level": 1,
+      "parent": "F02B75/00",
+      "ja": "サイクルに特徴のある機関，例．６サイクルのもの",
+      "en": "Engines characterised by their cycles, e.g. six-stroke",
+      "count": 22167,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B75/04": {
+      "code": "F02B75/04",
+      "level": 1,
+      "parent": "F02B75/00",
+      "ja": "上死点位置におけるピストンとシリンダヘッドの間の距離を変化し得る機関",
+      "en": "Engines with variable distances between pistons at top dead-centre positions and cylinder heads",
+      "count": 4992,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B75/06": {
+      "code": "F02B75/06",
+      "level": 1,
+      "parent": "F02B75/00",
+      "ja": "トルクを一定にするための手段を有する機関",
+      "en": "Engines with means for equalising torque",
+      "count": 1474,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B75/08": {
+      "code": "F02B75/08",
+      "level": 1,
+      "parent": "F02B75/00",
+      "ja": "ガスにさらされる空間における腐食防止のための手段を有する機関",
+      "en": "Engines with means for preventing corrosion in gas-swept spaces",
+      "count": 77,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B75/10": {
+      "code": "F02B75/10",
+      "level": 1,
+      "parent": "F02B75/00",
+      "ja": "排気を無害にするための手段を有する機関（装置それ自体Ｆ０１Ｎ３／００）",
+      "en": "Engines with means for rendering exhaust gases innocuous (apparatus <u>per se</u> <b>F01N3/00</b>)",
+      "count": 799,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B75/12": {
+      "code": "F02B75/12",
+      "level": 1,
+      "parent": "F02B75/00",
+      "ja": "その他の作動方法",
+      "en": "Other methods of operation",
+      "count": 3130,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B75/16": {
+      "code": "F02B75/16",
+      "level": 1,
+      "parent": "F02B75/00",
+      "ja": "シリンダ数に特徴のある機関，例．単シリンダ機関（Ｆ０２Ｂ７５／２６が優先）",
+      "en": "Engines characterised by number of cylinders, e.g. single-cylinder engines(<b>F02B75/26</b> takes precedence)",
+      "count": 1685,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B75/18": {
+      "code": "F02B75/18",
+      "level": 2,
+      "parent": "F02B75/16",
+      "ja": "多シリンダ機関（掃気装置に着目する場合Ｆ０２Ｂ２５／００）",
+      "en": "Multi-cylinder engines(scavenging aspects <b>F02B25/00</b>)",
+      "count": 7447,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B75/20": {
+      "code": "F02B75/20",
+      "level": 3,
+      "parent": "F02B75/18",
+      "ja": "すべてのシリンダが１列にならんだもの",
+      "en": "with cylinders all in one line",
+      "count": 2207,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B75/22": {
+      "code": "F02B75/22",
+      "level": 3,
+      "parent": "F02B75/18",
+      "ja": "Ｖ形，扇形，または星形配列のシリンダをもつもの",
+      "en": "with cylinders in V-, fan-, or star-arrangement",
+      "count": 7022,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B75/24": {
+      "code": "F02B75/24",
+      "level": 3,
+      "parent": "F02B75/18",
+      "ja": "主軸に対し向いあって配列されたシリンダで“平形”のもの",
+      "en": "with cylinders arranged oppositely relative to main shaft and of \"flat\" type",
+      "count": 2319,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B75/26": {
+      "code": "F02B75/26",
+      "level": 1,
+      "parent": "F02B75/00",
+      "ja": "シリンダ軸心が主軸軸心と同軸，または平行あるいは傾斜している機関；実質的に主軸軸心に中心を置く円の接線方向に配列されたシリンダ軸心をもつ機関",
+      "en": "Engines with cylinder axes coaxial with, or parallel or inclined to, main-shaft axis; Engines with cylinder axes arranged substantially tangentially to a circle centred on main-shaft axis",
+      "count": 1734,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B75/28": {
+      "code": "F02B75/28",
+      "level": 1,
+      "parent": "F02B75/00",
+      "ja": "同一シリンダ内または本質的に同軸のシリンダ内で往復動する２つまたはそれ以上のピストンをもつ機関（主軸に対し向いあって配列してあるものＦ０２Ｂ７５／２４）",
+      "en": "Engines with two or more pistons reciprocating within same cylinder or within essentially coaxial cylinders(arranged oppositely relative to main shaft <b>F02B75/24</b>)",
+      "count": 3428,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B75/30": {
+      "code": "F02B75/30",
+      "level": 2,
+      "parent": "F02B75/28",
+      "ja": "他のピストン内部でしゅう動する動作ピストンをもつもの",
+      "en": "with one working piston sliding inside another",
+      "count": 338,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B75/32": {
+      "code": "F02B75/32",
+      "level": 1,
+      "parent": "F02B75/00",
+      "ja": "ピストンと主軸との間の連結に特徴のある機関で前記メイングループに属しないもの",
+      "en": "Engines characterised by connections between pistons and main shafts and not specific to preceding main groups",
+      "count": 6588,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B75/34": {
+      "code": "F02B75/34",
+      "level": 1,
+      "parent": "F02B75/00",
+      "ja": "極端に小さい機関，例．模型を駆動するもの",
+      "en": "Ultra-small engines, e.g. for driving models",
+      "count": 830,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B75/36": {
+      "code": "F02B75/36",
+      "level": 1,
+      "parent": "F02B75/00",
+      "ja": "圧力下で弾性変形する燃焼室または作動室の壁の部分をもつ機関",
+      "en": "Engines with parts of combustion- or working-chamber walls resiliently yielding under pressure",
+      "count": 191,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B75/38": {
+      "code": "F02B75/38",
+      "level": 2,
+      "parent": "F02B75/36",
+      "ja": "往復動ピストン式機関（Ｆ０２Ｂ７５／０４が優先；予燃焼室の中に弾性的に押される補助ピストンをもつものＦ０２Ｂ１９／０６）",
+      "en": "Reciprocating-piston engines(<b>F02B75/04</b> takes precedence; with resiliently-urged auxiliary piston in pre-combustion chamber <b>F02B19/06</b>)",
+      "count": 139,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B75/40": {
+      "code": "F02B75/40",
+      "level": 1,
+      "parent": "F02B75/00",
+      "ja": "その他の往復動ピストン式機関",
+      "en": "Other reciprocating-piston engines",
+      "count": 1002,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B77/00": {
+      "code": "F02B77/00",
+      "level": 0,
+      "parent": "F02B",
+      "ja": "構成部品，細部または付属品で他に分類されないもの",
+      "en": "Component parts, details, or accessories, not otherwise provided for",
+      "count": 12840,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B77/02": {
+      "code": "F02B77/02",
+      "level": 1,
+      "parent": "F02B77/00",
+      "ja": "燃焼ガスにさらされる部分の表面をカバーするもの（ピストンＦ０２Ｆ３／１０；シリンダまたはシリンダヘッドＦ０２Ｆ１／００）",
+      "en": "Surface coverings of combustion-gas-swept parts (of pistons <b>F02F3/10</b>;  of cylinders and cylinder heads <b>F02F1/00</b>)",
+      "count": 812,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B77/04": {
+      "code": "F02B77/04",
+      "level": 1,
+      "parent": "F02B77/00",
+      "ja": "燃焼機関の清掃，その内部の腐食または侵食防止または内部の望ましからざる付着物の付着防止",
+      "en": "Cleaning of, preventing corrosion or erosion in, or preventing unwanted deposits in, combustion engines",
+      "count": 4135,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B77/08": {
+      "code": "F02B77/08",
+      "level": 1,
+      "parent": "F02B77/00",
+      "ja": "安全装置，指示装置または管理装置（断熱材についてＦ０２Ｂ７７／１１；排気ガスの処理装置を監視または診断する装置Ｆ０１Ｎ１１／００）",
+      "en": "Safety, indicating, or supervising devices(thermal insulation <b>F02B77/11</b>; monitoring or diagnostic devices for exhaust-gas treatment apparatus <b>F01N11/00</b>)",
+      "count": 11297,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B77/10": {
+      "code": "F02B77/10",
+      "level": 2,
+      "parent": "F02B77/08",
+      "ja": "クランクケースの破裂に関する安全装置",
+      "en": "Safety means relating to crankcase explosions",
+      "count": 232,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B77/11": {
+      "code": "F02B77/11",
+      "level": 1,
+      "parent": "F02B77/00",
+      "ja": "断熱または遮音［３］",
+      "en": "Thermal or acoustic insulation",
+      "count": 3027,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B77/13": {
+      "code": "F02B77/13",
+      "level": 2,
+      "parent": "F02B77/11",
+      "ja": "遮音［３］",
+      "en": "Acoustic insulation",
+      "count": 8019,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B77/14": {
+      "code": "F02B77/14",
+      "level": 1,
+      "parent": "F02B77/00",
+      "ja": "ユニットとして組み合わされた機関駆動補助装置",
+      "en": "Engine-driven auxiliary devices combined into units",
+      "count": 382,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    },
+    "F02B79/00": {
+      "code": "F02B79/00",
+      "level": 0,
+      "parent": "F02B",
+      "ja": "内燃機関のなじみ運転（それらの潤滑Ｆ０１Ｍ７／００）",
+      "en": "Running-in of internal-combustion engines (lubrication thereof <b>F01M7/00</b>)",
+      "count": 321,
+      "sourceFile": "ipc_F02B.txt",
+      "kind": "ipc"
+    }
+  }
+};

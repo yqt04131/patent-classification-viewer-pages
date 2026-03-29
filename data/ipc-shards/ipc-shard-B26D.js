@@ -1,0 +1,1086 @@
+window.IPC_SHARD_B26D = {
+  "generatedAt": "2026-03-20T02:17:46.137Z",
+  "total": 108,
+  "entries": {
+    "B26D": {
+      "code": "B26D",
+      "level": 0,
+      "parent": "B26",
+      "ja": "切断；穿孔，押抜，切抜，型抜または切断のための機械に共通の細部（原料を砕片に切り刻むナイフまたは他の切断または裂断による粉砕Ｂ０２Ｃ１８／００；研削性流体噴射による切断Ｂ２４Ｃ５／０２；手持ち切断工具Ｂ２６Ｂ）［２，５］<br><br><b><ul>注</ul></b><br>（１）このサブクラスは，以下のものを包含する：<br>―非金属シートまたは金属箔の切断一般；<br>―他に分類されていない非金属物質の他の形態のものの切断；<br>―切断，穴あけ，打抜，切抜，型抜，または切断刃以外の手段による切断機に特有で，それらの目的のために独特でない種類の必要性または課題に関係のある特徴，すなわち．そのような特徴が機種によって具体的に異なるかもしれないが，それらの機械を操作および制御する細部または装置。このサブクラスはたとえ，その特徴がある特別の場合，各々の機種にある程度独特であったりあるいは各々にのみ要求されるものであっても，そのような特徴が一般に包含される。<br>（２）細部あるいは装置が各々の機種に実質的に特有な特徴を持っていないならばより一般的なクラス，例．Ｆ１６，が優先する。<br><br><b><ul>サブクラス内の索引</ul></b><br>切断刃部または切断加工の種類に特徴のある切断　１／００，３／００<br>操作および制御装置；切断装置の細部　５／００；７／００<br>組合せ装置　９／００，１１／００",
+      "en": "CUTTING; DETAILS COMMON TO MACHINES FOR PERFORATING, PUNCHING, CUTTING-OUT, STAMPING-OUT OR SEVERING(disintegrating by knives or other cutting or tearing members which chop material into fragments <b>B02C18/00</b>; cutting by abrasive fluid jets <b>B24C5/02</b>; hand-held cutting tools <b>B26B</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>This subclass <u>covers</u> :<ul><li>cutting non-metallic sheet material or metal foil in general;</li><li>cutting other forms of non-metallic material not otherwise provided for;</li><li>features specific to machines for cutting, perforating, punching, cutting-out, stamping-out, or severing by means other than cutting, which relate to a requirement or problem of a nature which is not peculiar to a machine for these purposes, that is, details of or arrangements for operating or controlling such machines, although the realisation of such features may differ according to the kind of machine concerned. This subclass <u>covers</u> such features in general even if the feature, in any particular case, is to some extent peculiar to, or is claimed only for, a machine designed for perforating, punching, cutting-out, stamping-out, or for severing other than by cutting.</li></ul></li><li>If the details or arrangements have no essential features specific to cutting, perforating, punching, cutting-out, stamping-out or severing machines, the more general classes, e.g. <b>F16</b>, take precedence.</li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">CUTTING CHARACTERISED BY THE CUTTING MEMBER OR BY THE NATURE OF THE CUT PERFORMED </td><td><b><b>1/00</b>, <b>3/00</b></b></td></tr></tr><tr><td width=\"70%\">ARRANGEMENTS FOR OPERATING AND CONTROLLING; DETAILS OF APPARATUS FOR SEVERING </td><td><b><b>5/00</b>; <b>7/00</b></b></td></tr></tr><tr><td width=\"70%\">COMBINED APPARATUS </td><td><b><b>9/00</b>, <b>11/00</b></b></td></tr></tr></table>",
+      "count": 2159,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B26": {
+      "code": "B26",
+      "level": 0,
+      "parent": "B",
+      "ja": "切断手工具；切断；切断機",
+      "en": "HAND CUTTING TOOLS; CUTTING; SEVERING",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B": {
+      "code": "B",
+      "level": 0,
+      "parent": null,
+      "ja": "処理操作；運輸",
+      "en": "PERFORMING OPERATIONS; TRANSPORTING",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B26D1/00": {
+      "code": "B26D1/00",
+      "level": 0,
+      "parent": "B26D",
+      "ja": "切断刃部の種類または動作によって特徴づけられた被加工材の切断；そのための装置または機械；そのための切断刃部［３］",
+      "en": "Cutting through work characterised by the nature or movement of the cutting member; Apparatus or machines therefor; Cutting members therefor",
+      "count": 10657,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D1/01": {
+      "code": "B26D1/01",
+      "level": 1,
+      "parent": "B26D1/00",
+      "ja": "被加工材とともに移動しない切断刃部を具備するもの［３］",
+      "en": "involving a cutting member which does not travel with the work",
+      "count": 1085,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D1/02": {
+      "code": "B26D1/02",
+      "level": 2,
+      "parent": "B26D1/01",
+      "ja": "固定切断刃部を具備するもの（Ｂ２６Ｄ１／５４７が優先）［３］",
+      "en": "having a stationary cutting member(<b>B26D1/547</b> takes precedence)",
+      "count": 6137,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D1/03": {
+      "code": "B26D1/03",
+      "level": 3,
+      "parent": "B26D1/02",
+      "ja": "複数の切断刃部を有するもの［３］",
+      "en": "with a plurality of cutting members",
+      "count": 5107,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D1/04": {
+      "code": "B26D1/04",
+      "level": 2,
+      "parent": "B26D1/01",
+      "ja": "直線状に可動の切断刃部を具備するもの（Ｂ２６Ｄ１／４６，Ｂ２６Ｄ１／５４７が優先）［３］",
+      "en": "having a linearly-movable cutting member(<b>B26D1/46</b>, <b>B26D1/547</b> take precedence)",
+      "count": 6656,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D1/06": {
+      "code": "B26D1/06",
+      "level": 3,
+      "parent": "B26D1/04",
+      "ja": "切断刃部が往復動するもの［３］",
+      "en": "wherein the cutting member reciprocates",
+      "count": 32852,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D1/08": {
+      "code": "B26D1/08",
+      "level": 4,
+      "parent": "B26D1/06",
+      "ja": "ギロチン式のもの［３］",
+      "en": "of the guillotine type",
+      "count": 23892,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D1/09": {
+      "code": "B26D1/09",
+      "level": 5,
+      "parent": "B26D1/08",
+      "ja": "複数の切断刃部を有するもの［３］",
+      "en": "with a plurality of cutting members",
+      "count": 6904,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D1/10": {
+      "code": "B26D1/10",
+      "level": 4,
+      "parent": "B26D1/06",
+      "ja": "刃先に実質的に平行な方向に動くもの［３］",
+      "en": "in, or substantially in, a direction parallel to the cutting edge",
+      "count": 2699,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D1/11": {
+      "code": "B26D1/11",
+      "level": 5,
+      "parent": "B26D1/10",
+      "ja": "複数の切断刃部を有するもの［３］",
+      "en": "with a plurality of cutting members",
+      "count": 997,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D1/12": {
+      "code": "B26D1/12",
+      "level": 2,
+      "parent": "B26D1/01",
+      "ja": "軸のまわりを動く切断刃部を具備するもの（Ｂ２６Ｄ１／５４７が優先）［３］",
+      "en": "having a cutting member moving about an axis(<b>B26D1/547</b> takes precedence)",
+      "count": 5645,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D1/14": {
+      "code": "B26D1/14",
+      "level": 3,
+      "parent": "B26D1/12",
+      "ja": "円形切断刃部を有するもの，例．円板刃［３］",
+      "en": "with a circular cutting member, e.g. disc cutter",
+      "count": 6804,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D1/143": {
+      "code": "B26D1/143",
+      "level": 4,
+      "parent": "B26D1/14",
+      "ja": "固定軸のまわりを回転するもの（Ｂ２６Ｄ１／２０～Ｂ２６Ｄ１／２４が優先）［３］",
+      "en": "rotating about a stationary axis(<b>B26D1/20 to B26D1/24</b>  take precedence)",
+      "count": 2166,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D1/147": {
+      "code": "B26D1/147",
+      "level": 5,
+      "parent": "B26D1/143",
+      "ja": "水平な切断刃部を有するもの［３］",
+      "en": "with horizontal cutting member",
+      "count": 1241,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D1/15": {
+      "code": "B26D1/15",
+      "level": 5,
+      "parent": "B26D1/143",
+      "ja": "垂直な切断刃部を有するもの［３］",
+      "en": "with vertical cutting member",
+      "count": 12309,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D1/153": {
+      "code": "B26D1/153",
+      "level": 5,
+      "parent": "B26D1/143",
+      "ja": "傾斜した切断刃部を有するもの［３］",
+      "en": "with inclined cutting member",
+      "count": 353,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D1/157": {
+      "code": "B26D1/157",
+      "level": 4,
+      "parent": "B26D1/14",
+      "ja": "可動軸のまわりを回転するもの（Ｂ２６Ｄ１／２０～Ｂ２６Ｄ１／２４が優先）［３］",
+      "en": "rotating about a movable axis(<b>B26D1/20 to B26D1/24</b>  take precedence)",
+      "count": 1974,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D1/16": {
+      "code": "B26D1/16",
+      "level": 5,
+      "parent": "B26D1/157",
+      "ja": "可動腕またはそれと類似のものに取付けられたもの［３］",
+      "en": "mounted on a movable arm or the like",
+      "count": 2823,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D1/18": {
+      "code": "B26D1/18",
+      "level": 5,
+      "parent": "B26D1/157",
+      "ja": "移動台車上に取付けられたもの［３］",
+      "en": "mounted on a movable carriage",
+      "count": 11181,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D1/20": {
+      "code": "B26D1/20",
+      "level": 4,
+      "parent": "B26D1/14",
+      "ja": "固定部材と協働するもの［３］",
+      "en": "coacting with a fixed member",
+      "count": 1381,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D1/22": {
+      "code": "B26D1/22",
+      "level": 4,
+      "parent": "B26D1/14",
+      "ja": "可動部材と協働するもの，例．ローラ（Ｂ２６Ｄ１／２４が優先）［３］",
+      "en": "coacting with a movable member, e.g. a roller(<b>B26D1/24</b> takes precedence)",
+      "count": 2205,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D1/24": {
+      "code": "B26D1/24",
+      "level": 4,
+      "parent": "B26D1/14",
+      "ja": "他の円板刃と協働するもの［３］",
+      "en": "coacting with another disc cutter",
+      "count": 5339,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D1/25": {
+      "code": "B26D1/25",
+      "level": 3,
+      "parent": "B26D1/12",
+      "ja": "非円形切断刃部を有するもの［３］",
+      "en": "with a non-circular cutting member",
+      "count": 3025,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D1/26": {
+      "code": "B26D1/26",
+      "level": 4,
+      "parent": "B26D1/25",
+      "ja": "切断線に実質的に垂直な軸のまわりを動くもの［３］",
+      "en": "moving about an axis substantially perpendicular to the line of cut",
+      "count": 1038,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D1/28": {
+      "code": "B26D1/28",
+      "level": 5,
+      "parent": "B26D1/26",
+      "ja": "切断中連続的に一方向に回転するもの［３］",
+      "en": "and rotating continuously in one direction during cutting",
+      "count": 5842,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D1/29": {
+      "code": "B26D1/29",
+      "level": 6,
+      "parent": "B26D1/28",
+      "ja": "回転円板の面に取付られた切断刃部を有するもの，例．豆をスライスするためのもの［３］",
+      "en": "with cutting member mounted in the plane of a rotating disc, e.g. for slicing beans",
+      "count": 2413,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D1/30": {
+      "code": "B26D1/30",
+      "level": 5,
+      "parent": "B26D1/26",
+      "ja": "切断を行うために限定された範囲内で枢動するもの［３］",
+      "en": "with limited pivotal movement to effect cut",
+      "count": 5841,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D1/34": {
+      "code": "B26D1/34",
+      "level": 4,
+      "parent": "B26D1/25",
+      "ja": "切断線に平行な軸のまわりを動くもの［３］",
+      "en": "moving about an axis parallel to the line of cut",
+      "count": 436,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D1/36": {
+      "code": "B26D1/36",
+      "level": 5,
+      "parent": "B26D1/34",
+      "ja": "切断中連続的に一方向に回転するもの，例．回転円筒上に取付られたもの［３］",
+      "en": "and rotating continuously in one direction during cutting, e.g. mounted on a rotary cylinder",
+      "count": 2542,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D1/38": {
+      "code": "B26D1/38",
+      "level": 5,
+      "parent": "B26D1/34",
+      "ja": "固定刃または他の固定部材と協働するもの［３］",
+      "en": "and coacting with a fixed blade or other fixed member",
+      "count": 2169,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D1/40": {
+      "code": "B26D1/40",
+      "level": 5,
+      "parent": "B26D1/34",
+      "ja": "回転部材と協働するもの［３］",
+      "en": "and coacting with a rotary member",
+      "count": 2383,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D1/42": {
+      "code": "B26D1/42",
+      "level": 5,
+      "parent": "B26D1/34",
+      "ja": "回転部材に滑動可能に取付けられたもの［３］",
+      "en": "and slidably mounted in a rotary member",
+      "count": 162,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D1/43": {
+      "code": "B26D1/43",
+      "level": 4,
+      "parent": "B26D1/25",
+      "ja": "切断線に垂直または平行な軸以外の他の軸のまわりを動くもの，例．円錐または曲状体の表面に取付られたもの［３］",
+      "en": "moving about another axis, e.g. mounted on the surface of a cone or curved body",
+      "count": 261,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D1/44": {
+      "code": "B26D1/44",
+      "level": 2,
+      "parent": "B26D1/01",
+      "ja": "カップ状または類似の切断刃部を具備するもの［３］",
+      "en": "having a cup or like cutting member",
+      "count": 622,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D1/45": {
+      "code": "B26D1/45",
+      "level": 2,
+      "parent": "B26D1/01",
+      "ja": "切断刃部の動作がどの先行グループにも包含されない切断刃部を具備するもの［３］",
+      "en": "having a cutting member the movement of which is not covered by any preceding group",
+      "count": 873,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D1/46": {
+      "code": "B26D1/46",
+      "level": 2,
+      "parent": "B26D1/01",
+      "ja": "無端帯刃またはそれに類似の刃を具備するもの［３］",
+      "en": "having an endless band-knife or the like",
+      "count": 1860,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D1/48": {
+      "code": "B26D1/48",
+      "level": 3,
+      "parent": "B26D1/46",
+      "ja": "緊張手段を有するもの［３］",
+      "en": "with tensioning means",
+      "count": 361,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D1/50": {
+      "code": "B26D1/50",
+      "level": 3,
+      "parent": "B26D1/46",
+      "ja": "複数の帯刃またはそれに類似の刃を有するもの［３］",
+      "en": "with a plurality of band-knives or the like",
+      "count": 265,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D1/52": {
+      "code": "B26D1/52",
+      "level": 4,
+      "parent": "B26D1/50",
+      "ja": "帯刃の間隔を調整できる手段を有するもの［３］",
+      "en": "having adjustable spacing between knives",
+      "count": 148,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D1/54": {
+      "code": "B26D1/54",
+      "level": 3,
+      "parent": "B26D1/46",
+      "ja": "帯刃またはそれに類似の刃の案内［３］",
+      "en": "Guides for band-knives or the like",
+      "count": 228,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D1/547": {
+      "code": "B26D1/547",
+      "level": 2,
+      "parent": "B26D1/01",
+      "ja": "ワイヤ状切断刃部を具備するもの（無端ワイヤＢ２６Ｄ１／４６；加熱ワイヤを用いた切断Ｂ２６Ｆ３／１２）［３］",
+      "en": "having a wire-like cutting member(endless wire <b>B26D1/46</b>; severing using a heated wire <b>B26F3/12</b>)",
+      "count": 2083,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D1/553": {
+      "code": "B26D1/553",
+      "level": 3,
+      "parent": "B26D1/547",
+      "ja": "複数のワイヤ状切断刃部を有するもの［３］",
+      "en": "with a plurality of wire-like cutting members",
+      "count": 1722,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D1/56": {
+      "code": "B26D1/56",
+      "level": 1,
+      "parent": "B26D1/00",
+      "ja": "被加工材とともに移動する切断刃部を具備するもの，すなわち，フライング切断機［３］",
+      "en": "involving a cutting member which travels with the work, i.e. flying cutter",
+      "count": 1209,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D1/58": {
+      "code": "B26D1/58",
+      "level": 2,
+      "parent": "B26D1/56",
+      "ja": "可動腕またはそれと類似のものに取付けられたもの［３］",
+      "en": "and is mounted on a movable arm or the like",
+      "count": 223,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D1/60": {
+      "code": "B26D1/60",
+      "level": 2,
+      "parent": "B26D1/56",
+      "ja": "移動台車上に取付られたもの［３］",
+      "en": "and is mounted on a movable carriage",
+      "count": 1058,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D1/62": {
+      "code": "B26D1/62",
+      "level": 2,
+      "parent": "B26D1/56",
+      "ja": "切断線に平行な軸のまわりを回転するもの，例．回転円筒に取付られたもの［３］",
+      "en": "and is rotating about an axis parallel to the line of cut, e.g. mounted on a rotary cylinder",
+      "count": 1001,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D3/00": {
+      "code": "B26D3/00",
+      "level": 0,
+      "parent": "B26D",
+      "ja": "切断加工の種類によって特徴づけられた切断作業；そのための装置［３］",
+      "en": "Cutting work characterised by the nature of the cut made; Apparatus therefor",
+      "count": 6411,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D3/02": {
+      "code": "B26D3/02",
+      "level": 1,
+      "parent": "B26D3/00",
+      "ja": "斜め切り加工",
+      "en": "Bevelling",
+      "count": 1704,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D3/06": {
+      "code": "B26D3/06",
+      "level": 1,
+      "parent": "B26D3/00",
+      "ja": "被加工材表面より材料を除去するものを含む溝切り加工",
+      "en": "Grooving involving removal of material from the surface of the work",
+      "count": 3326,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D3/08": {
+      "code": "B26D3/08",
+      "level": 1,
+      "parent": "B26D3/00",
+      "ja": "被加工材表面より材料を除去しない浅い切断加工，例．切目加工，切り込み加工",
+      "en": "Making a superficial cut in the surface of the work without removal of material, e.g. scoring, incising",
+      "count": 4125,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D3/10": {
+      "code": "B26D3/10",
+      "level": 1,
+      "parent": "B26D3/00",
+      "ja": "単一直線型以外の切断加工（切抜または型抜Ｂ２６Ｆ１／３８）",
+      "en": "Making cuts of other than simple rectilinear form(cutting-out or stamping-out <b>B26F1/38</b>)",
+      "count": 2135,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D3/11": {
+      "code": "B26D3/11",
+      "level": 2,
+      "parent": "B26D3/10",
+      "ja": "うず巻またはらせん形状の切片を得るためのもの［３］",
+      "en": "to obtain pieces of spiral or helical form",
+      "count": 548,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D3/12": {
+      "code": "B26D3/12",
+      "level": 1,
+      "parent": "B26D3/00",
+      "ja": "被加工材端部への切込み加工，すなわち材料を除去しないである角度，例．９０°，で被加工材端部に切断加工するもの",
+      "en": "Slitting marginal portions of the work, i.e. forming cuts, without removal of material, at an angle, e.g. a right angle, to the edge of the work",
+      "count": 480,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D3/14": {
+      "code": "B26D3/14",
+      "level": 1,
+      "parent": "B26D3/00",
+      "ja": "切断による被加工材端部への切欠加工",
+      "en": "Forming notches in marginal portion of work by cutting",
+      "count": 612,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D3/16": {
+      "code": "B26D3/16",
+      "level": 1,
+      "parent": "B26D3/00",
+      "ja": "棒，管の横方向切断",
+      "en": "Cutting rods or tubes transversely",
+      "count": 9164,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D3/18": {
+      "code": "B26D3/18",
+      "level": 1,
+      "parent": "B26D3/00",
+      "ja": "立方体またはそれと類似のものを得るためのもの［３］",
+      "en": "to obtain cubes or the like",
+      "count": 3326,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D3/20": {
+      "code": "B26D3/20",
+      "level": 2,
+      "parent": "B26D3/18",
+      "ja": "往復動ナイフを用いるもの",
+      "en": "using reciprocating knives",
+      "count": 1724,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D3/22": {
+      "code": "B26D3/22",
+      "level": 2,
+      "parent": "B26D3/18",
+      "ja": "回転ナイフを用いるもの",
+      "en": "using rotating knives",
+      "count": 1301,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D3/24": {
+      "code": "B26D3/24",
+      "level": 1,
+      "parent": "B26D3/00",
+      "ja": "スライス以外の切片を得るためのもの，例．パイ切断",
+      "en": "to obtain segments other than slices, e.g. cutting pies",
+      "count": 2108,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D3/26": {
+      "code": "B26D3/26",
+      "level": 2,
+      "parent": "B26D3/24",
+      "ja": "果物または野菜を切断するのに特に用いられるもの，例．タマネギ用",
+      "en": "specially adapted for cutting fruit or vegetables, e.g. for onions",
+      "count": 4584,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D3/28": {
+      "code": "B26D3/28",
+      "level": 1,
+      "parent": "B26D3/00",
+      "ja": "被加工材を層状に分割するもの；切断により層状物を相互に分離するもの（Ｂ２６Ｄ３／３０が優先）［３］",
+      "en": "Splitting layers from work; Mutually separating layers by cutting(<b>B26D3/30</b> takes precedence)",
+      "count": 5966,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D3/30": {
+      "code": "B26D3/30",
+      "level": 1,
+      "parent": "B26D3/00",
+      "ja": "２分割装置，例．甘パンを２分割するためのもの［３］",
+      "en": "Halving devices, e.g. for halving buns",
+      "count": 739,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D5/00": {
+      "code": "B26D5/00",
+      "level": 0,
+      "parent": "B26D",
+      "ja": "切断，切抜，型抜，打抜，穴あけ，または切断刃以外の手段による切断のための装置を操作および制御する装置",
+      "en": "Arrangements for operating and controlling machines or devices for cutting, cutting-out, stamping-out, punching, perforating, or severing by means other than cutting",
+      "count": 11374,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D5/02": {
+      "code": "B26D5/02",
+      "level": 1,
+      "parent": "B26D5/00",
+      "ja": "切断操作位置に刃部を移動させる装置",
+      "en": "Means for moving the cutting member into its operative position for cutting",
+      "count": 3629,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D5/04": {
+      "code": "B26D5/04",
+      "level": 2,
+      "parent": "B26D5/02",
+      "ja": "流体圧式によるもの",
+      "en": "by fluid pressure",
+      "count": 2835,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D5/06": {
+      "code": "B26D5/06",
+      "level": 2,
+      "parent": "B26D5/02",
+      "ja": "電気式によるもの",
+      "en": "by electrical means",
+      "count": 4414,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D5/08": {
+      "code": "B26D5/08",
+      "level": 1,
+      "parent": "B26D5/00",
+      "ja": "切断刃を切断を遂行すべく動かす手段",
+      "en": "Means for actuating the cutting member to effect the cut",
+      "count": 28475,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D5/10": {
+      "code": "B26D5/10",
+      "level": 2,
+      "parent": "B26D5/08",
+      "ja": "手動または足踏式",
+      "en": "Hand or foot actuated means",
+      "count": 5640,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D5/12": {
+      "code": "B26D5/12",
+      "level": 2,
+      "parent": "B26D5/08",
+      "ja": "流体圧式",
+      "en": "Fluid-pressure means",
+      "count": 14242,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D5/14": {
+      "code": "B26D5/14",
+      "level": 2,
+      "parent": "B26D5/08",
+      "ja": "クランクまたはピン式",
+      "en": "Crank and pin means",
+      "count": 1596,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D5/16": {
+      "code": "B26D5/16",
+      "level": 2,
+      "parent": "B26D5/08",
+      "ja": "カム式",
+      "en": "Cam means",
+      "count": 3511,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D5/18": {
+      "code": "B26D5/18",
+      "level": 2,
+      "parent": "B26D5/08",
+      "ja": "トグルーリンク式（Ｂ２６Ｄ５／１０～Ｂ２６Ｄ５／１６が優先）",
+      "en": "Toggle-link means(<b>B26D5/10 to B26D5/16</b>  take precedence)",
+      "count": 819,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D5/20": {
+      "code": "B26D5/20",
+      "level": 1,
+      "parent": "B26D5/00",
+      "ja": "刃部および材料供給とが関連動作を行うもの",
+      "en": "with interrelated action between the cutting member and work feed",
+      "count": 3040,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D5/22": {
+      "code": "B26D5/22",
+      "level": 2,
+      "parent": "B26D5/20",
+      "ja": "機械的に関連動作を行うもの",
+      "en": "having the cutting member and work feed mechanically connected",
+      "count": 1415,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D5/24": {
+      "code": "B26D5/24",
+      "level": 3,
+      "parent": "B26D5/22",
+      "ja": "計器を含むもの",
+      "en": "including a metering device",
+      "count": 593,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D5/26": {
+      "code": "B26D5/26",
+      "level": 2,
+      "parent": "B26D5/20",
+      "ja": "材料供給手段側の制御手段が刃部を駆動させるもの",
+      "en": "wherein control means on the work feed means renders the cutting member operative",
+      "count": 1313,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D5/28": {
+      "code": "B26D5/28",
+      "level": 3,
+      "parent": "B26D5/26",
+      "ja": "材料の存在の有無に応じて反応する制御手段",
+      "en": "the control means being responsive to presence or absence of work",
+      "count": 786,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D5/30": {
+      "code": "B26D5/30",
+      "level": 2,
+      "parent": "B26D5/20",
+      "ja": "記録保持部の走査によって制御される刃部をもつもの",
+      "en": "having the cutting member controlled by scanning a record carrier",
+      "count": 1041,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D5/32": {
+      "code": "B26D5/32",
+      "level": 3,
+      "parent": "B26D5/30",
+      "ja": "材料自体によって形成された記録保持部をもつもの",
+      "en": "with the record carrier formed by the work itself",
+      "count": 677,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D5/34": {
+      "code": "B26D5/34",
+      "level": 3,
+      "parent": "B26D5/30",
+      "ja": "光電感応手段による走査",
+      "en": "scanning being effected by a photosensitive device",
+      "count": 1425,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D5/36": {
+      "code": "B26D5/36",
+      "level": 3,
+      "parent": "B26D5/30",
+      "ja": "磁気手段による走査",
+      "en": "scanning being effected by magnetic means",
+      "count": 73,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D5/38": {
+      "code": "B26D5/38",
+      "level": 1,
+      "parent": "B26D5/00",
+      "ja": "材料の移動により刃部の切断動作を開始させる手段をもつもの",
+      "en": "with means operable by the moving work to initiate the cutting action",
+      "count": 599,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D5/40": {
+      "code": "B26D5/40",
+      "level": 2,
+      "parent": "B26D5/38",
+      "ja": "計器を含むもの",
+      "en": "including a metering device",
+      "count": 338,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D5/42": {
+      "code": "B26D5/42",
+      "level": 1,
+      "parent": "B26D5/00",
+      "ja": "材料の供給および把持とが関連動作を行うもの",
+      "en": "with interrelated action between work feed and clamp",
+      "count": 501,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D7/00": {
+      "code": "B26D7/00",
+      "level": 0,
+      "parent": "B26D",
+      "ja": "切断，切抜，型抜，打抜，穴あけ，または切断刃以外の手段による切断装置の細部［５］",
+      "en": "Details of apparatus for cutting, cutting-out, stamping-out, punching, perforating, or severing by means other than cutting",
+      "count": 42397,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D7/01": {
+      "code": "B26D7/01",
+      "level": 1,
+      "parent": "B26D7/00",
+      "ja": "被加工材を保持または位置決めするための手段［３］",
+      "en": "Means for holding or positioning work",
+      "count": 43308,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D7/02": {
+      "code": "B26D7/02",
+      "level": 2,
+      "parent": "B26D7/01",
+      "ja": "把持手段を有するもの［３］",
+      "en": "with clamping means",
+      "count": 67409,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D7/04": {
+      "code": "B26D7/04",
+      "level": 3,
+      "parent": "B26D7/02",
+      "ja": "締付圧を調整できるもの［３］",
+      "en": "providing adjustable clamping pressure",
+      "count": 3196,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D7/06": {
+      "code": "B26D7/06",
+      "level": 1,
+      "parent": "B26D7/00",
+      "ja": "シート，ウェブ，または線状材料以外の材料の供給と送り装置",
+      "en": "Arrangements for feeding or delivering work of other than sheet, web, or filamentary form",
+      "count": 67073,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D7/08": {
+      "code": "B26D7/08",
+      "level": 1,
+      "parent": "B26D7/00",
+      "ja": "切断を容易にするための材料および刃部処理装置（帯刃緊張装置Ｂ２６Ｄ１／４８）",
+      "en": "Means for treating work or cutting member to facilitate cutting(tensioning band cutters <b>B26D1/48</b>)",
+      "count": 19873,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D7/10": {
+      "code": "B26D7/10",
+      "level": 2,
+      "parent": "B26D7/08",
+      "ja": "加熱によるもの（加熱部材による切断Ｂ２６Ｆ３／０８）",
+      "en": "by heating(severing with heated members <b>B26F3/08</b>)",
+      "count": 5278,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D7/12": {
+      "code": "B26D7/12",
+      "level": 2,
+      "parent": "B26D7/08",
+      "ja": "刃先研磨によるもの",
+      "en": "by sharpening the cutting member",
+      "count": 2032,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D7/14": {
+      "code": "B26D7/14",
+      "level": 2,
+      "parent": "B26D7/08",
+      "ja": "材料に張力を与えることによるもの",
+      "en": "by tensioning the work",
+      "count": 4792,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D7/18": {
+      "code": "B26D7/18",
+      "level": 1,
+      "parent": "B26D7/00",
+      "ja": "成形品または切屑を排出させる装置",
+      "en": "Means for removing cut-out material or waste",
+      "count": 57030,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D7/20": {
+      "code": "B26D7/20",
+      "level": 1,
+      "parent": "B26D7/00",
+      "ja": "切断台",
+      "en": "Cutting beds",
+      "count": 12104,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D7/22": {
+      "code": "B26D7/22",
+      "level": 1,
+      "parent": "B26D7/00",
+      "ja": "切断機特有の安全装置",
+      "en": "Safety devices specially adapted for cutting machines",
+      "count": 15751,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D7/24": {
+      "code": "B26D7/24",
+      "level": 2,
+      "parent": "B26D7/22",
+      "ja": "刃部の操作手段を非作動するもの",
+      "en": "arranged to disable the operating means for the cutting member",
+      "count": 1059,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D7/26": {
+      "code": "B26D7/26",
+      "level": 1,
+      "parent": "B26D7/00",
+      "ja": "刃部の取付または調整装置；刃部の作動量調整装置",
+      "en": "Means for mounting or adjusting the cutting member; Means for adjusting the stroke of the cutting member",
+      "count": 71681,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D7/27": {
+      "code": "B26D7/27",
+      "level": 1,
+      "parent": "B26D7/00",
+      "ja": "切断と結合した他の操作を行うための手段（Ｂ２６Ｄ９／００が優先）［３］",
+      "en": "Means for performing other operations combined with cutting(<b>B26D9/00</b> takes precedence)",
+      "count": 11504,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D7/28": {
+      "code": "B26D7/28",
+      "level": 2,
+      "parent": "B26D7/27",
+      "ja": "切断回数の計数または切断長さの測定をするためのもの（Ｂ２６Ｄ５／２４，Ｂ２６Ｄ５／４０が優先）［３］",
+      "en": "for counting the number of cuts or measuring cut lengths(<b>B26D5/24</b>, <b>B26D5/40</b> take precedence)",
+      "count": 9268,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D7/30": {
+      "code": "B26D7/30",
+      "level": 2,
+      "parent": "B26D7/27",
+      "ja": "製品の重さをはかるためのもの［３］",
+      "en": "for weighing cut product",
+      "count": 936,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D7/32": {
+      "code": "B26D7/32",
+      "level": 2,
+      "parent": "B26D7/27",
+      "ja": "製品を搬送しまたは積み重ねるためのもの（成形品または切屑を取り除く手段Ｂ２６Ｄ７／１８）［３］",
+      "en": "for conveying or stacking cut product(means for removing cut-out material or waste <b>B26D7/18</b>)",
+      "count": 25604,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D7/34": {
+      "code": "B26D7/34",
+      "level": 2,
+      "parent": "B26D7/27",
+      "ja": "切断した製品にバターのような塗付物を供給するためのもの［３］",
+      "en": "for applying a coating, such as butter, to cut product",
+      "count": 518,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D9/00": {
+      "code": "B26D9/00",
+      "level": 0,
+      "parent": "B26D",
+      "ja": "打抜または穴あけ装置と，または，非類似の切断装置と組合った切断装置",
+      "en": "Cutting apparatus combined with punching or perforating apparatus or with dissimilar cutting apparatus",
+      "count": 4956,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    },
+    "B26D11/00": {
+      "code": "B26D11/00",
+      "level": 0,
+      "parent": "B26D",
+      "ja": "複数の類似切断装置が組合ったもの",
+      "en": "Combinations of several similar cutting apparatus",
+      "count": 5645,
+      "sourceFile": "ipc_B26D.txt",
+      "kind": "ipc"
+    }
+  }
+};

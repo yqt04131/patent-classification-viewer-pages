@@ -1,0 +1,1486 @@
+window.IPC_SHARD_D04H = {
+  "generatedAt": "2026-03-20T02:17:46.583Z",
+  "total": 148,
+  "entries": {
+    "D04H": {
+      "code": "D04H",
+      "level": 0,
+      "parent": "D04",
+      "ja": "布帛（はく）の製造，例．繊維またはフィラメント状材料から（織成Ｄ０３；編成Ｄ０４Ｂ；組成Ｄ０４Ｃ；製網Ｄ０４Ｇ；縫成Ｄ０５Ｂ；タフティングＤ０５Ｃ；不織布の仕上げＤ０６）；そのような方法または装置で製造された布帛，例．フェルト，不織布；コットンウール；詰め物（異種の中間層または外層，例．織成による織物，をもつ不織物Ｂ３２Ｂ）<br><br><b><ul>注</ul></b><br>（１）このサブクラスにおいては，下記の用語または表現は以下に示す意味で用いる：<br>―“不織布”は，セクションＤの他のサブクラスで準備された紡績糸，より糸またはフィラメントの織成，編成，組成，レース製造または製網とは異った操作からなる方法によって全部または一部の繊維原料で形成された布帛を意味する。この表現はフェルト，コットンウールおよび詰め物を包含する；<br>―“繊維”は比較的短く，細長い天然または人造の物質よりなるものを意味する；［２０１４．０１］<br>―“フィラメント”はエンドレスまたは準エンドレスで，細長い天然または人造の物質よりなるものを意味する；［２０１４．０１］<br>―“糸”は繊維の単一の集合体を意味し，通常紡績によって製造される；［２０１４．０１］<br>―“より糸”は糸またはフィラメントの集合体を意味し，通常加ねんによって製造される；［２０１４．０１］<br>―“合成”繊維またはフィラメントはポリマーまたは低分子を合成させたものから製造される繊維またはフィラメントまたは類似物を意味する。例は，ポリアミド，アクリル，ポリエステルまたは炭素繊維である；［２０１４．０１］<br>―“人工”繊維またはフィラメントは天然ポリマーまたはその派生物から人が製造した繊維またはフィラメントまたは類似物を意味する。例は，再生セルロース繊維または半合成繊維である；［２０１４．０１］<br>―“人造”繊維またはフィラメントは人が製造した繊維またはフィラメントを意味し，“合成”繊維または“人工”繊維を含む。［２０１４．０１］<br>（２）このサブクラスにおいては：<br>―不織布のいくつかは，サブクラスＢ３２Ｂの意味内で“積層体”とみなすこともでき，そこに記載されている前書きおよび説明にしたがってそのサブクラスの中においてさらに分類（ｆｕｒｔｈｅｒ　ｃｌａｓｓｉｆｉｃａｔｉｏｎ）を考慮すべきである。<br>―不織布の製造が，たとえば繊維，フィラメントまたは糸の処理または接着のために特別な化合物または組成物の使用を含む場合には，他の適切なサブクラスへのさらなる分類（ｆｕｒｔｈｅｒ　ｃｌａｓｓｉｆｉｃａｔｉｏｎ）を考慮すべきである。<br>（３）繊維またはより糸と，化合物または組成物との割合を変えることにより，最終製品は紙，厚紙，皮革またはその他の同様な外観をもつことができる。<br><br><b><ul>サブクラス内の索引</ul></b><br>不織布の類形と構造上の特徴；その製造装置と製造方法<br>短繊維から；長繊維から；短繊維と長繊維との混合物から　１／００；３／００；５／００<br>パイル布　１１／００<br>その他の不織布　１３／００<br>フエルト製造装置；ニードリング機械　１７／００；１８／００",
+      "en": "MAKING TEXTILE FABRICS, e.g. FROM FIBRES OR FILAMENTARY MATERIAL(weaving <b>D03</b>; knitting <b>D04B</b>; braiding <b>D04C</b>; net-making <b>D04G</b>; sewing <b>D05B</b>; tufting <b>D05C</b>; finishing non-woven fabrics <b>D06</b>);FABRICS MADE BY SUCH PROCESSES OR APPARATUS, e.g. FELTS, NON-WOVEN FABRICS; COTTON-WOOL; WADDING(non-woven fabrics having an intermediate or external layer of a different kind, e.g. of woven fabric, <b>B32B</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>In this subclass, the following terms or expressions are used with the meaning indicated: <ul><li>\"non-woven fabrics\" means fabrics formed wholly or partly of textile material by processes comprising operations other than the weaving, knitting, braiding, lacing or knotting of yarns, threads or filaments for which provision is made in other subclasses of section <b>D</b>. This expression includes felts, cotton-wool and wadding;</li><li>\"fibre\" means a relatively-short, elongated member of natural or man-made material;</li><li>\"filament\" means an endless or quasi-endless, elongated member of natural or man-made material;</li><li>\"yarn\" means a unitary assembly of fibres, usually produced by spinning;</li><li>\"thread\" means an assembly of yarns or filaments, usually produced by twisting;</li><li>\"synthetic\" fibres or filaments means fibres or filaments or the like manufactured from synthesising polymers or small molecules. Examples are polyamide, acrylic, polyester or carbon fibres;</li><li>\"artificial\" fibres or filaments means fibres or filaments or the like manufactured by man from natural polymers or their derivatives. Examples are regenerated cellulosic fibres or semi-synthetic fibres;</li><li>&ldquo;man-made&rdquo; fibres or filaments means fibres or filaments which are manufactured by man including &ldquo;synthetic&rdquo; or &ldquo;artificial&rdquo; fibres.</li></ul></li><li>In this subclass: <ul><li>some of the non-woven fabrics can also be regarded as \"layered products\" within the meaning of subclass <b>B32B</b>, and further classification in that subclass should be considered in accordance with the notes thereto;</li><li>in cases where the making of non-woven fabrics involves the use of particular chemical compounds or compositions, e.g. for treating or bonding fibres, filaments or yarns, further classification in other appropriate subclasses should also be considered.</li></ul></li><li>By varying the proportions of fibres or threads, and the chemical compounds or compositions, the final products may be given the appearance of paper, cardboard, leather or the like.</li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">TYPES AND CONSTRUCTIONAL FEATURES OF NON-WOVEN FABRICS; APPARATUS AND PROCESSES FOR PRODUCING THEM<tr><td width=\"70%\">From short fibres; from long fibres; from mixture of short and long fibres </td><td><b><b>1/00</b>; <b>3/00</b>; <b>5/00</b></b></td></tr></tr><tr><td width=\"70%\">Pile fabrics </td><td><b><b>11/00</b></b></td></tr></tr><tr><td width=\"70%\">Other non-woven fabrics </td><td><b><b>13/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">FELTING APPARATUS; NEEDLING MACHINES </td><td><b><b>17/00</b>; <b>18/00</b></b></td></tr></tr></table>",
+      "count": 936,
+      "sourceFile": "ipc_D.txt",
+      "kind": "ipc"
+    },
+    "D04": {
+      "code": "D04",
+      "level": 0,
+      "parent": "D",
+      "ja": "組みひも；レース編み；メリヤス編成；縁とり；不織布",
+      "en": "BRAIDING; LACE-MAKING; KNITTING; TRIMMINGS; NON-WOVEN FABRICS",
+      "count": 0,
+      "sourceFile": "ipc_D.txt",
+      "kind": "ipc"
+    },
+    "D": {
+      "code": "D",
+      "level": 0,
+      "parent": null,
+      "ja": "繊維；紙<br><br><b><ul>注</ul></b><br>このセクションにおいては，下記の用語は以下に示す意味で用いる：<br>―“繊維”は比較的短く，細長い天然または人造の物質よりなるものを意味する；［２０１４．０１］<br>―“フィラメント”はエンドレスまたは準エンドレスで，細長い天然または人造の物質よりなるものを意味する；［２０１４．０１］<br>―“糸”は繊維の単一の集合体を意味し，通常紡績によって製造される；［２０１４．０１］<br>―“より糸”は糸またはフィラメントの集合体を意味し，通常加ねんによって製造される；［２０１４．０１］<br>―“合成”繊維またはフィラメントはポリマーまたは低分子を合成させたものから製造される繊維またはフィラメントまたは類似物を意味する。例は，ポリアミド，アクリル，ポリエステルまたは炭素繊維である；［２０１４．０１］<br>―“人工”繊維またはフィラメントは天然ポリマーまたはその派生物から人が製造した繊維またはフィラメントまたは類似物を意味する。例は，再生セルロース繊維または半合成繊維である；［２０１４．０１］<br>―“人造”繊維またはフィラメントは人が製造した繊維またはフィラメントを意味し，“合成”繊維または“人工”繊維を含む。［２０１４．０１］",
+      "en": "TEXTILES; PAPER; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this section, the following terms are used with the meanings indicated: <ul><li>\"fibre\" means a relatively-short, elongated member of natural or man-made material;    </li><li>\"filament\" means an endless or quasi-endless, elongated member of natural or man-made material;    </li><li>\"yarn\" means a unitary assembly of fibres, usually produced by spinning;    </li><li>\"thread\" means an assembly of yarns or filaments, usually produced by twisting;    </li><li>\"synthetic\" fibres or filaments means fibres or filaments or the like manufactured from synthesising polymers or small molecules. Examples are polyamide, acrylic, polyester or carbon fibres;    </li><li>\"artificial\" fibres or filaments means fibres or filaments or the like manufactured by man from natural polymers or their derivatives. Examples are regenerated cellulosic fibres or semi-synthetic fibres;    </li><li>\"man-made&rdquo; fibres or filaments means fibres or filaments which are manufactured by man including &ldquo;synthetic&rdquo; or &ldquo;artificial&rdquo; fibres.    </li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_D.txt",
+      "kind": "ipc"
+    },
+    "D04H1/00": {
+      "code": "D04H1/00",
+      "level": 0,
+      "parent": "D04H",
+      "ja": "全部または大部分がステープルファイバまたは類似の比較的短い繊維で構成された不織布",
+      "en": "Non-woven fabrics formed wholly or mainly of staple fibres or like relatively short fibres",
+      "count": 3343,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/02": {
+      "code": "D04H1/02",
+      "level": 1,
+      "parent": "D04H1/00",
+      "ja": "コットンウール；詰め物",
+      "en": "Cotton wool; Wadding",
+      "count": 1957,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/04": {
+      "code": "D04H1/04",
+      "level": 1,
+      "parent": "D04H1/00",
+      "ja": "凝集性または潜在凝集性を有する繊維，例．天然繊維，延伸したまたはフィブリル化した人造繊維，で構成されたフリースまたは層からのもの（フェルト製造装置Ｄ０４Ｈ１７／００）［１，２０１２．０１］",
+      "en": "from fleeces or layers composed of fibres having existing or potential cohesive properties, e.g. natural fibres, prestretched or fibrillated man-made fibres(felting apparatus <b>D04H17/00</b>)",
+      "count": 476,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/06": {
+      "code": "D04H1/06",
+      "level": 2,
+      "parent": "D04H1/04",
+      "ja": "繊維に収縮，膨潤，巻縮を生じさせるための処理によるもの［１，２０１２．０１］",
+      "en": "by treatment to produce shrinking, swelling, crimping or curling of fibres",
+      "count": 318,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/067": {
+      "code": "D04H1/067",
+      "level": 3,
+      "parent": "D04H1/06",
+      "ja": "再生セルロース系［２０１２．０１］",
+      "en": "Regenerated cellulose series",
+      "count": 43,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/073": {
+      "code": "D04H1/073",
+      "level": 3,
+      "parent": "D04H1/06",
+      "ja": "アクリロニトリル系［２０１２．０１］",
+      "en": "Acrylonitrile series",
+      "count": 13,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/08": {
+      "code": "D04H1/08",
+      "level": 2,
+      "parent": "D04H1/04",
+      "ja": "および縮じゅうによる固化；フェルトまたは縮じゅうした製品［１，２０１２．０１］",
+      "en": "and hardened by felting; Felts or felted products",
+      "count": 484,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/09": {
+      "code": "D04H1/09",
+      "level": 3,
+      "parent": "D04H1/08",
+      "ja": "生糸［２０１２．０１］",
+      "en": "Silk",
+      "count": 43,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/10": {
+      "code": "D04H1/10",
+      "level": 3,
+      "parent": "D04H1/08",
+      "ja": "繊維の混合物から製造されたフェルト",
+      "en": "Felts made from mixtures of fibres",
+      "count": 151,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/12": {
+      "code": "D04H1/12",
+      "level": 4,
+      "parent": "D04H1/10",
+      "ja": "および人造有機繊維を混入したもの",
+      "en": "and incorporating man-made organic fibres",
+      "count": 116,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/14": {
+      "code": "D04H1/14",
+      "level": 4,
+      "parent": "D04H1/10",
+      "ja": "および無機繊維を混入したもの",
+      "en": "and incorporating inorganic fibres",
+      "count": 75,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/16": {
+      "code": "D04H1/16",
+      "level": 3,
+      "parent": "D04H1/08",
+      "ja": "別々の繊維層を縮じゅう処理によって一体となした成層フェルト",
+      "en": "Laminated felts in which the separate layers are united by a felting process",
+      "count": 122,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/20": {
+      "code": "D04H1/20",
+      "level": 3,
+      "parent": "D04H1/08",
+      "ja": "そう入物または付着物を混入したフェルト，例．装飾の目的で",
+      "en": "Felts incorporating inserts or attachments, e.g. for ornamental purposes",
+      "count": 83,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/22": {
+      "code": "D04H1/22",
+      "level": 3,
+      "parent": "D04H1/08",
+      "ja": "縮じゅう処理で形成された三次元構造の物品  ［２００６．０１］",
+      "en": "Three-dimensional [3D] articles formed by felting processes",
+      "count": 244,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/24": {
+      "code": "D04H1/24",
+      "level": 3,
+      "parent": "D04H1/08",
+      "ja": "三次元構造の物品上へ縮じゅうされた被覆物［２００６．０１］",
+      "en": "Covers felted on to three-dimensional [3D] articles",
+      "count": 31,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/26": {
+      "code": "D04H1/26",
+      "level": 2,
+      "parent": "D04H1/04",
+      "ja": "木材パルプ［２０１２．０１］",
+      "en": "Wood pulp",
+      "count": 507,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/28": {
+      "code": "D04H1/28",
+      "level": 2,
+      "parent": "D04H1/04",
+      "ja": "再生セルロース系［２０１２．０１］",
+      "en": "Regenerated cellulose series",
+      "count": 140,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/30": {
+      "code": "D04H1/30",
+      "level": 2,
+      "parent": "D04H1/04",
+      "ja": "コラーゲン［２０１２．０１］",
+      "en": "Collagen",
+      "count": 85,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/32": {
+      "code": "D04H1/32",
+      "level": 2,
+      "parent": "D04H1/04",
+      "ja": "合成パルプ［２０１２．０１］",
+      "en": "Synthetic pulp",
+      "count": 143,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/40": {
+      "code": "D04H1/40",
+      "level": 1,
+      "parent": "D04H1/00",
+      "ja": "凝集性または潜在凝集性を有しない繊維で構成されたフリースまたは層からのもの［１，２０１２．０１］",
+      "en": "from fleeces or layers composed of fibres without existing or potential cohesive properties",
+      "count": 564,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/407": {
+      "code": "D04H1/407",
+      "level": 2,
+      "parent": "D04H1/40",
+      "ja": "吸着性物質を含むもの，例．活性炭素［２０１２．０１］",
+      "en": "containing absorbing substances, e.g. activated carbon",
+      "count": 546,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/413": {
+      "code": "D04H1/413",
+      "level": 2,
+      "parent": "D04H1/40",
+      "ja": "吸着性物質以外の粒状物を含むもの［２０１２．０１］",
+      "en": "containing granules other than absorbent substances",
+      "count": 915,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/42": {
+      "code": "D04H1/42",
+      "level": 2,
+      "parent": "D04H1/40",
+      "ja": "特定繊維の使用に特徴があり，その使用がフリースの結合に圧倒的な影響をおよぼさない範囲のもの［１，２０１２．０１］",
+      "en": "characterised by the use of certain kinds of fibres insofar as this use has no preponderant influence on the consolidation of the fleece",
+      "count": 4094,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/4209": {
+      "code": "D04H1/4209",
+      "level": 3,
+      "parent": "D04H1/42",
+      "ja": "無機繊維［２０１２．０１］",
+      "en": "Inorganic fibres",
+      "count": 1743,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/4218": {
+      "code": "D04H1/4218",
+      "level": 4,
+      "parent": "D04H1/4209",
+      "ja": "ガラス繊維［２０１２．０１］",
+      "en": "Glass fibres",
+      "count": 1738,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/4226": {
+      "code": "D04H1/4226",
+      "level": 5,
+      "parent": "D04H1/4218",
+      "ja": "ガラスフリースを製造する装置に特徴のあるもの［２０１２．０１］",
+      "en": "characterised by the apparatus for manufacturing the glass fleece",
+      "count": 386,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/4234": {
+      "code": "D04H1/4234",
+      "level": 4,
+      "parent": "D04H1/4209",
+      "ja": "金属繊維［２０１２．０１］",
+      "en": "Metal fibres",
+      "count": 438,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/4242": {
+      "code": "D04H1/4242",
+      "level": 4,
+      "parent": "D04H1/4209",
+      "ja": "炭素繊維［２０１２．０１］",
+      "en": "Carbon fibres",
+      "count": 1491,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/425": {
+      "code": "D04H1/425",
+      "level": 3,
+      "parent": "D04H1/42",
+      "ja": "セルロース系［２０１２．０１］",
+      "en": "Cellulose series",
+      "count": 2909,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/4258": {
+      "code": "D04H1/4258",
+      "level": 4,
+      "parent": "D04H1/425",
+      "ja": "再生セルロース系［２０１２．０１］",
+      "en": "Regenerated cellulose series",
+      "count": 1780,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/4266": {
+      "code": "D04H1/4266",
+      "level": 3,
+      "parent": "D04H1/42",
+      "ja": "グループＤ０４Ｈ１／４２５に分類されない天然繊維［２０１２．０１］",
+      "en": "Natural fibres not provided for in group <b>D04H1/425</b> ",
+      "count": 1474,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/4274": {
+      "code": "D04H1/4274",
+      "level": 3,
+      "parent": "D04H1/42",
+      "ja": "ボロ，反毛［２０１２．０１］",
+      "en": "Rags; Fabric scraps",
+      "count": 494,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/4282": {
+      "code": "D04H1/4282",
+      "level": 3,
+      "parent": "D04H1/42",
+      "ja": "付加ポリマー［２０１２．０１］",
+      "en": "Addition polymers",
+      "count": 647,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/4291": {
+      "code": "D04H1/4291",
+      "level": 4,
+      "parent": "D04H1/4282",
+      "ja": "オレフイン系［２０１２．０１］",
+      "en": "Olefin series",
+      "count": 2983,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/43": {
+      "code": "D04H1/43",
+      "level": 4,
+      "parent": "D04H1/4282",
+      "ja": "アクリロニトリル系［２０１２．０１］",
+      "en": "Acrylonitrile series",
+      "count": 1204,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/4309": {
+      "code": "D04H1/4309",
+      "level": 4,
+      "parent": "D04H1/4282",
+      "ja": "ポリビニルアルコール［２０１２．０１］",
+      "en": "Polyvinyl alcohol",
+      "count": 743,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/4318": {
+      "code": "D04H1/4318",
+      "level": 4,
+      "parent": "D04H1/4282",
+      "ja": "フツ素系［２０１２．０１］",
+      "en": "Fluorine series",
+      "count": 799,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/4326": {
+      "code": "D04H1/4326",
+      "level": 3,
+      "parent": "D04H1/42",
+      "ja": "縮合ポリマー［２０１２．０１］",
+      "en": "Condensation or reaction polymers",
+      "count": 1191,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/4334": {
+      "code": "D04H1/4334",
+      "level": 4,
+      "parent": "D04H1/4326",
+      "ja": "ポリアミド［２０１２．０１］",
+      "en": "Polyamides",
+      "count": 1205,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/4342": {
+      "code": "D04H1/4342",
+      "level": 5,
+      "parent": "D04H1/4334",
+      "ja": "芳香族ポリアミド［２０１２．０１］",
+      "en": "Aromatic polyamides",
+      "count": 590,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/435": {
+      "code": "D04H1/435",
+      "level": 4,
+      "parent": "D04H1/4326",
+      "ja": "ポリエステル［２０１２．０１］",
+      "en": "Polyesters",
+      "count": 4625,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/4358": {
+      "code": "D04H1/4358",
+      "level": 4,
+      "parent": "D04H1/4326",
+      "ja": "ポリウレタン［２０１２．０１］",
+      "en": "Polyurethanes",
+      "count": 738,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/4366": {
+      "code": "D04H1/4366",
+      "level": 4,
+      "parent": "D04H1/4326",
+      "ja": "フエノール系［２０１２．０１］",
+      "en": "Phenol series",
+      "count": 51,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/4374": {
+      "code": "D04H1/4374",
+      "level": 3,
+      "parent": "D04H1/42",
+      "ja": "異なる種類のウエブを用いるもの，例．ウエブ積層化によるもの［２０１２．０１］",
+      "en": "using different kinds of webs, e.g. by layering webs",
+      "count": 3167,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/4382": {
+      "code": "D04H1/4382",
+      "level": 3,
+      "parent": "D04H1/42",
+      "ja": "高分子配列体，複合繊維，混合繊維，極細繊維，人工皮革のための繊維［２０１２．０１］",
+      "en": "Stretched reticular film fibres; Composite fibres; Mixed fibres; Ultrafine fibres; Fibres for artificial leather",
+      "count": 8160,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/4391": {
+      "code": "D04H1/4391",
+      "level": 3,
+      "parent": "D04H1/42",
+      "ja": "繊維の形状に特徴のあるもの［２０１２．０１］",
+      "en": "characterised by the shape of the fibres",
+      "count": 1027,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/44": {
+      "code": "D04H1/44",
+      "level": 2,
+      "parent": "D04H1/40",
+      "ja": "フリースまたは層を機械的手段で結合させるもの，例．ローラ処理によるもの",
+      "en": "the fleeces or layers being consolidated by mechanical means, e.g. by rolling",
+      "count": 1162,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/45": {
+      "code": "D04H1/45",
+      "level": 3,
+      "parent": "D04H1/44",
+      "ja": "若干の繊維で交絡したループまたはステッチの形成によるもの［４］",
+      "en": "by forming intermeshing loops or stitches from some of the fibres",
+      "count": 321,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/46": {
+      "code": "D04H1/46",
+      "level": 3,
+      "parent": "D04H1/44",
+      "ja": "繊維にからみ合いを生じさせるニードリングまたは類似の操作によるもの（Ｄ０４Ｈ１／４５が優先；ニードリング機械Ｄ０４Ｈ１８／００）［４，２０１２．０１］",
+      "en": "by needling or like operations to cause entanglement of fibres(<b>D04H1/45</b> takes precedence; needling machines <b>D04H18/00</b>)",
+      "count": 4985,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/48": {
+      "code": "D04H1/48",
+      "level": 4,
+      "parent": "D04H1/46",
+      "ja": "その他の結合手段を少なくとも一種組み合わせたもの［１，２０１２．０１］",
+      "en": "in combination with at least one other method of consolidation",
+      "count": 959,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/482": {
+      "code": "D04H1/482",
+      "level": 5,
+      "parent": "D04H1/48",
+      "ja": "収縮との組合せ［２０１２．０１］",
+      "en": "in combination with shrinkage",
+      "count": 180,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/485": {
+      "code": "D04H1/485",
+      "level": 5,
+      "parent": "D04H1/48",
+      "ja": "溶着との組合せ［２０１２．０１］",
+      "en": "in combination with weld-bonding",
+      "count": 1372,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/488": {
+      "code": "D04H1/488",
+      "level": 5,
+      "parent": "D04H1/48",
+      "ja": "結合剤との組合せ［２０１２．０１］",
+      "en": "in combination with bonding agents",
+      "count": 704,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/49": {
+      "code": "D04H1/49",
+      "level": 5,
+      "parent": "D04H1/48",
+      "ja": "流体噴射と他の１つの結合手段との組合せによる交絡［２０１２．０１］",
+      "en": "entanglement by fluid jet in combination with another consolidation means",
+      "count": 358,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/492": {
+      "code": "D04H1/492",
+      "level": 4,
+      "parent": "D04H1/46",
+      "ja": "流体噴射による（Ｄ０４Ｈ１／４９が優先）［２０１２．０１］",
+      "en": "by fluid jet(<b>D04H1/49</b> takes precedence)",
+      "count": 3296,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/495": {
+      "code": "D04H1/495",
+      "level": 5,
+      "parent": "D04H1/492",
+      "ja": "模様の形成を主体とするもの，例．穴あけまたは再配列［２０１２．０１］",
+      "en": "for formation of patterns, e.g. drilling or rearrangement",
+      "count": 458,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/498": {
+      "code": "D04H1/498",
+      "level": 4,
+      "parent": "D04H1/46",
+      "ja": "積層ウエブの交絡［２０１２．０１］",
+      "en": "entanglement of layered webs",
+      "count": 2347,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/50": {
+      "code": "D04H1/50",
+      "level": 3,
+      "parent": "D04H1/44",
+      "ja": "繊維に収縮，膨潤，巻縮を生じさせるための処理によるもの（ニードリングとの組み合わせＤ０４Ｈ１／４８２）［１，２０１２．０１］",
+      "en": "by treatment to produce shrinking, swelling, crimping or curling of fibres(in combination with needling <b>D04H1/482</b>)",
+      "count": 467,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/52": {
+      "code": "D04H1/52",
+      "level": 3,
+      "parent": "D04H1/44",
+      "ja": "フィラメント状の結合要素の適用または差し込みによるもの",
+      "en": "by applying or inserting filamentary binding elements",
+      "count": 450,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/54": {
+      "code": "D04H1/54",
+      "level": 2,
+      "parent": "D04H1/40",
+      "ja": "繊維を相互に溶着させることによるもの，例．部分的な溶融または溶解によるもの（ニードリングとの組み合わせＤ０４Ｈ１／４８５）［１，２０１２．０１］",
+      "en": "by welding together the fibres, e.g. by partially melting or dissolving(in combination with needling <b>D04H1/485</b>)",
+      "count": 3962,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/541": {
+      "code": "D04H1/541",
+      "level": 3,
+      "parent": "D04H1/54",
+      "ja": "複合繊維，例．芯さや，海島またはサイドバイサイド；混合繊維［２０１２．０１］",
+      "en": "Composite fibres e.g. sheath-core, sea-island or side-by-side; Mixed fibres",
+      "count": 3871,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/542": {
+      "code": "D04H1/542",
+      "level": 3,
+      "parent": "D04H1/54",
+      "ja": "接着繊維［２０１２．０１］",
+      "en": "Adhesive fibres",
+      "count": 1256,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/544": {
+      "code": "D04H1/544",
+      "level": 4,
+      "parent": "D04H1/542",
+      "ja": "オレフイン系［２０１２．０１］",
+      "en": "Olefin series",
+      "count": 1336,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/545": {
+      "code": "D04H1/545",
+      "level": 4,
+      "parent": "D04H1/542",
+      "ja": "ポリビニルアルコール［２０１２．０１］",
+      "en": "Polyvinyl alcohol",
+      "count": 151,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/546": {
+      "code": "D04H1/546",
+      "level": 4,
+      "parent": "D04H1/542",
+      "ja": "ポリビニルアセテート［２０１２．０１］",
+      "en": "Polyvinyl acetate",
+      "count": 17,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/548": {
+      "code": "D04H1/548",
+      "level": 4,
+      "parent": "D04H1/542",
+      "ja": "アクリロニトリル系［２０１２．０１］",
+      "en": "Acrylonitrile series",
+      "count": 85,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/549": {
+      "code": "D04H1/549",
+      "level": 4,
+      "parent": "D04H1/542",
+      "ja": "ポリアミド［２０１２．０１］",
+      "en": "Polyamides",
+      "count": 285,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/55": {
+      "code": "D04H1/55",
+      "level": 4,
+      "parent": "D04H1/542",
+      "ja": "ポリエステル［２０１２．０１］",
+      "en": "Polyesters",
+      "count": 1625,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/551": {
+      "code": "D04H1/551",
+      "level": 4,
+      "parent": "D04H1/542",
+      "ja": "グループＤ０４Ｈ１／５４４からＤ０４Ｈ１／５５に分類されない樹脂［２０１２．０１］",
+      "en": "Resins thereof not provided for in groups <b>D04H1/544 to D04H1/55</b> ",
+      "count": 246,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/552": {
+      "code": "D04H1/552",
+      "level": 3,
+      "parent": "D04H1/54",
+      "ja": "溶剤または助剤の適用による［２０１２．０１］",
+      "en": "by applying solvents or auxiliary agents ",
+      "count": 159,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/554": {
+      "code": "D04H1/554",
+      "level": 3,
+      "parent": "D04H1/54",
+      "ja": "高周波加熱による［２０１２．０１］",
+      "en": "by radio-frequency heating",
+      "count": 39,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/555": {
+      "code": "D04H1/555",
+      "level": 3,
+      "parent": "D04H1/54",
+      "ja": "超音波加熱による［２０１２．０１］",
+      "en": "by ultrasonic heating",
+      "count": 173,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/556": {
+      "code": "D04H1/556",
+      "level": 3,
+      "parent": "D04H1/54",
+      "ja": "赤外線加熱による［２０１２．０１］",
+      "en": "by infrared heating",
+      "count": 47,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/558": {
+      "code": "D04H1/558",
+      "level": 3,
+      "parent": "D04H1/54",
+      "ja": "エンボスを除く機械的または物理的処理との組合せ［２０１２．０１］",
+      "en": "in combination with mechanical or physical treatments other than embossing",
+      "count": 941,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/559": {
+      "code": "D04H1/559",
+      "level": 3,
+      "parent": "D04H1/54",
+      "ja": "接着繊維が積層ウエブの中にあるもの［２０１２．０１］",
+      "en": "the fibres being within layered webs ",
+      "count": 1985,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/56": {
+      "code": "D04H1/56",
+      "level": 3,
+      "parent": "D04H1/54",
+      "ja": "繊維形成と関連するもの，例．ステープルファイバの押出し成形に引き続いて",
+      "en": "in association with fibre formation, e.g. immediately following extrusion of staple fibres",
+      "count": 3097,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/58": {
+      "code": "D04H1/58",
+      "level": 2,
+      "parent": "D04H1/40",
+      "ja": "化学的または熱可塑性結合剤，例．結合剤，の適用，混入または活性化によるもの（ニードリングとの組み合わせＤ０４Ｈ１／４８８）［１，２０１２．０１］",
+      "en": "by applying, incorporating or activating chemical or thermoplastic bonding agents, e.g. adhesives(in combination with needling <b>D04H1/488</b>)",
+      "count": 2073,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/587": {
+      "code": "D04H1/587",
+      "level": 3,
+      "parent": "D04H1/58",
+      "ja": "使用された結合剤に特徴のあるもの［２０１２．０１］",
+      "en": "characterised by the bonding agents used",
+      "count": 2232,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/593": {
+      "code": "D04H1/593",
+      "level": 3,
+      "parent": "D04H1/58",
+      "ja": "積層ウエブへの適用［２０１２．０１］",
+      "en": "to layered webs ",
+      "count": 782,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/60": {
+      "code": "D04H1/60",
+      "level": 3,
+      "parent": "D04H1/58",
+      "ja": "結合剤を乾燥状態で適用させるもの，例．固体状または溶融状態の熱活性化結合剤を適用し，その後熱が適用されるもの",
+      "en": "the bonding agent being applied in dry state, e.g. thermo-activatable agents in solid or molten state, and heat being applied subsequently",
+      "count": 1191,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/62": {
+      "code": "D04H1/62",
+      "level": 4,
+      "parent": "D04H1/60",
+      "ja": "間隔を置いた点または位置に",
+      "en": "at spaced points or locations",
+      "count": 148,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/64": {
+      "code": "D04H1/64",
+      "level": 3,
+      "parent": "D04H1/58",
+      "ja": "結合剤を湿潤状態で適用させるもの，例．分散液状または溶液状の化学薬剤［１，２０１２．０１］",
+      "en": "the bonding agent being applied in wet state, e.g. chemical agents in dispersions or solutions",
+      "count": 2521,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/645": {
+      "code": "D04H1/645",
+      "level": 4,
+      "parent": "D04H1/64",
+      "ja": "含浸とそれに続く凝固処理［２０１２．０１］",
+      "en": "Impregnation followed by a solidification process",
+      "count": 977,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/65": {
+      "code": "D04H1/65",
+      "level": 5,
+      "parent": "D04H1/645",
+      "ja": "混合または複合繊維を用いたもの［２０１２．０１］",
+      "en": "using mixed or composite fibres",
+      "count": 201,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/655": {
+      "code": "D04H1/655",
+      "level": 4,
+      "parent": "D04H1/64",
+      "ja": "結合剤を塗布する装置に特徴のあるもの［２０１２．０１］",
+      "en": "characterised by the apparatus for applying bonding agents",
+      "count": 434,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/66": {
+      "code": "D04H1/66",
+      "level": 4,
+      "parent": "D04H1/64",
+      "ja": "間隔を置いた点または位置に（Ｄ０４Ｈ１／６８が優先）［１，２０１２．０１］",
+      "en": "at spaced points or locations(<b>D04H1/68</b> takes precedence)",
+      "count": 236,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/68": {
+      "code": "D04H1/68",
+      "level": 4,
+      "parent": "D04H1/64",
+      "ja": "結合剤を泡状で適用させるもの［１，２０１２．０１］",
+      "en": "the bonding agent being applied in the form of foam",
+      "count": 279,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/70": {
+      "code": "D04H1/70",
+      "level": 1,
+      "parent": "D04H1/00",
+      "ja": "フリースまたは層の形成方法を特徴とするもの，例．繊維の再配列［４，２０１２．０１］",
+      "en": "characterised by the method of forming fleeces or layers, e.g. reorientation of fibres",
+      "count": 2686,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/72": {
+      "code": "D04H1/72",
+      "level": 2,
+      "parent": "D04H1/70",
+      "ja": "繊維が不規則に配列されたもの［１，２０１２．０１］",
+      "en": "the fibres being randomly arranged",
+      "count": 1784,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/724": {
+      "code": "D04H1/724",
+      "level": 3,
+      "parent": "D04H1/72",
+      "ja": "繊維形成中のウエブ形成，例．フラッシュ紡糸［２０１２．０１］",
+      "en": "forming webs during fibre formation, e.g. flash-spinning",
+      "count": 634,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/728": {
+      "code": "D04H1/728",
+      "level": 3,
+      "parent": "D04H1/72",
+      "ja": "静電紡糸によるもの［２０１２．０１］",
+      "en": "by electro-spinning",
+      "count": 8815,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/732": {
+      "code": "D04H1/732",
+      "level": 3,
+      "parent": "D04H1/72",
+      "ja": "流体の流れ，例．エアレイ，によるもの［２０１２．０１］",
+      "en": "by fluid current, e.g. air-lay",
+      "count": 2330,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/736": {
+      "code": "D04H1/736",
+      "level": 3,
+      "parent": "D04H1/72",
+      "ja": "繊維を配列する装置に特徴のあるもの（Ｄ０４Ｈ１／７２８，Ｄ０４Ｈ１／７３２が優先）［２０１２．０１］",
+      "en": "characterised by the apparatus for arranging fibres(<b>D04H1/728</b>, <b>D04H1/732</b> take precedence)",
+      "count": 1173,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/74": {
+      "code": "D04H1/74",
+      "level": 2,
+      "parent": "D04H1/70",
+      "ja": "繊維が方向づけられているもの，例．平行",
+      "en": "the fibres being orientated, e.g. in parallel",
+      "count": 1871,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H1/76": {
+      "code": "D04H1/76",
+      "level": 2,
+      "parent": "D04H1/70",
+      "ja": "平面状以外の方法，例．管状の方法［２０１２．０１］",
+      "en": "otherwise than in a plane, e.g. in a tubular way",
+      "count": 691,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H3/00": {
+      "code": "D04H3/00",
+      "level": 0,
+      "parent": "D04H",
+      "ja": "全部または大部分が糸または類似の実質的に長いフィラメント状材料で構成された不織布［１，２０１２．０１］",
+      "en": "Non woven fabrics formed wholly or mainly of yarns or like filamentary material of substantial length",
+      "count": 1405,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H3/002": {
+      "code": "D04H3/002",
+      "level": 1,
+      "parent": "D04H3/00",
+      "ja": "無機繊維［２０１２．０１］",
+      "en": "Inorganic yarns or filaments",
+      "count": 511,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H3/004": {
+      "code": "D04H3/004",
+      "level": 2,
+      "parent": "D04H3/002",
+      "ja": "ガラス繊維［２０１２．０１］",
+      "en": "Glass yarns or filaments",
+      "count": 538,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H3/005": {
+      "code": "D04H3/005",
+      "level": 1,
+      "parent": "D04H3/00",
+      "ja": "合成繊維（Ｄ０４Ｈ３／０１３が優先［２０１２．０１］",
+      "en": "Synthetic yarns or filaments(<b>D04H3/013</b> takes precedence)",
+      "count": 999,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H3/007": {
+      "code": "D04H3/007",
+      "level": 2,
+      "parent": "D04H3/005",
+      "ja": "付加ポリマー［２０１２．０１］",
+      "en": "Addition polymers",
+      "count": 2533,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H3/009": {
+      "code": "D04H3/009",
+      "level": 2,
+      "parent": "D04H3/005",
+      "ja": "縮合ポリマー［２０１２．０１］",
+      "en": "Condensation or reaction polymers",
+      "count": 927,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H3/011": {
+      "code": "D04H3/011",
+      "level": 3,
+      "parent": "D04H3/009",
+      "ja": "ポリエステル［２０１２．０１］",
+      "en": "Polyesters",
+      "count": 1893,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H3/013": {
+      "code": "D04H3/013",
+      "level": 1,
+      "parent": "D04H3/00",
+      "ja": "再生セルロース系［２０１２．０１］",
+      "en": "Regenerated cellulose series",
+      "count": 373,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H3/015": {
+      "code": "D04H3/015",
+      "level": 1,
+      "parent": "D04H3/00",
+      "ja": "天然繊維［２０１２．０１］",
+      "en": "Natural yarns or filaments",
+      "count": 251,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H3/016": {
+      "code": "D04H3/016",
+      "level": 1,
+      "parent": "D04H3/00",
+      "ja": "繊度に特徴のあるもの［２０１２．０１］",
+      "en": "characterised by the fineness",
+      "count": 595,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H3/018": {
+      "code": "D04H3/018",
+      "level": 1,
+      "parent": "D04H3/00",
+      "ja": "形状に特徴のあるもの［２０１２．０１］",
+      "en": "characterised by the shape",
+      "count": 514,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H3/02": {
+      "code": "D04H3/02",
+      "level": 1,
+      "parent": "D04H3/00",
+      "ja": "フリースまたは層の形成方法を特徴とするもの，例．糸またはフィラメントの再配列［４］",
+      "en": "characterised by the method of forming fleeces or layers, e.g. reorientation of yarns or filaments",
+      "count": 2152,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H3/03": {
+      "code": "D04H3/03",
+      "level": 2,
+      "parent": "D04H3/02",
+      "ja": "不規則に配列したもの［１，２０１２．０１］",
+      "en": "at random",
+      "count": 939,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H3/033": {
+      "code": "D04H3/033",
+      "level": 3,
+      "parent": "D04H3/03",
+      "ja": "繊維形成直後の再配列［２０１２．０１］",
+      "en": "reorientation immediately after yarn or filament formation",
+      "count": 806,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H3/037": {
+      "code": "D04H3/037",
+      "level": 3,
+      "parent": "D04H3/03",
+      "ja": "液体による再配列［２０１２．０１］",
+      "en": "reorientation by liquid",
+      "count": 119,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H3/04": {
+      "code": "D04H3/04",
+      "level": 2,
+      "parent": "D04H3/02",
+      "ja": "直線状に配列したもの，例．直角に交さするもの［１，２０１２．０１］",
+      "en": "in rectilinear paths, e.g. crossing at right angles",
+      "count": 1827,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H3/045": {
+      "code": "D04H3/045",
+      "level": 3,
+      "parent": "D04H3/04",
+      "ja": "ネットの製造のため［２０１２．０１］",
+      "en": "for net manufacturing",
+      "count": 596,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H3/05": {
+      "code": "D04H3/05",
+      "level": 2,
+      "parent": "D04H3/02",
+      "ja": "その他の模様，例．ジグザグ状，波状",
+      "en": "in another pattern, e.g. zig-zag, sinusoidal",
+      "count": 464,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H3/07": {
+      "code": "D04H3/07",
+      "level": 2,
+      "parent": "D04H3/02",
+      "ja": "平面状以外のもの，例．管状の方法で［１，２０１２．０１］",
+      "en": "otherwise than in a plane, e.g. in a tubular way",
+      "count": 599,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H3/073": {
+      "code": "D04H3/073",
+      "level": 3,
+      "parent": "D04H3/07",
+      "ja": "中空円筒状のもの［２０１２．０１］",
+      "en": "Hollow cylinder shaped",
+      "count": 243,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H3/077": {
+      "code": "D04H3/077",
+      "level": 3,
+      "parent": "D04H3/07",
+      "ja": "杖状，棒状または中実円筒状のもの［２０１２．０１］",
+      "en": "Stick, rod or solid cylinder shaped",
+      "count": 56,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H3/08": {
+      "code": "D04H3/08",
+      "level": 1,
+      "parent": "D04H3/00",
+      "ja": "強化または結合方法に特徴のあるもの",
+      "en": "characterised by the method of strengthening or consolidating",
+      "count": 464,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H3/10": {
+      "code": "D04H3/10",
+      "level": 2,
+      "parent": "D04H3/08",
+      "ja": "機械的につくられた糸またはフィラメント相互間の結合をもつもの［１，２０１２．０１］",
+      "en": "with bonds between yarns or filaments made mechanically",
+      "count": 877,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H3/105": {
+      "code": "D04H3/105",
+      "level": 3,
+      "parent": "D04H3/10",
+      "ja": "ニードリングによるもの（ニードリング機械Ｄ０４Ｈ１８／００）［２０１２．０１］",
+      "en": "by needling(needling machines <b>D04H18/00</b>)",
+      "count": 820,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H3/11": {
+      "code": "D04H3/11",
+      "level": 3,
+      "parent": "D04H3/10",
+      "ja": "流体噴射によるもの［２０１２．０１］",
+      "en": "by fluid jet",
+      "count": 828,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H3/115": {
+      "code": "D04H3/115",
+      "level": 3,
+      "parent": "D04H3/10",
+      "ja": "フィラメント状結合要素の添加または挿入による［２０１２．０１］",
+      "en": "by applying or inserting filamentary binding elements",
+      "count": 219,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H3/12": {
+      "code": "D04H3/12",
+      "level": 2,
+      "parent": "D04H3/08",
+      "ja": "液体状または固体状で適用または混入された化学的または熱活性化結合剤，例．接着剤，で相互に固着されたフィラメントまたは糸をもつもの",
+      "en": "with filaments or yarns secured together by chemical or thermo-activatable bonding agents, e.g. adhesives, applied or incorporated in liquid or solid form",
+      "count": 1661,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H3/14": {
+      "code": "D04H3/14",
+      "level": 2,
+      "parent": "D04H3/08",
+      "ja": "溶着によりつくられた熱可塑性の糸またはフィラメント相互間の結合をもつもの［１，２０１２．０１］",
+      "en": "with bonds between thermoplastic yarns or filaments produced by welding",
+      "count": 2894,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H3/147": {
+      "code": "D04H3/147",
+      "level": 3,
+      "parent": "D04H3/14",
+      "ja": "複合繊維［２０１２．０１］",
+      "en": "Composite yarns or filaments",
+      "count": 1522,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H3/153": {
+      "code": "D04H3/153",
+      "level": 3,
+      "parent": "D04H3/14",
+      "ja": "混合繊維［２０１２．０１］",
+      "en": "Mixed yarns or filaments",
+      "count": 834,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H3/16": {
+      "code": "D04H3/16",
+      "level": 3,
+      "parent": "D04H3/14",
+      "ja": "フィラメント形成と関連してつくられた熱可塑性フィラメント相互間の結合をもつもの，例．押出し成形に引き続いて［４］",
+      "en": "with bonds between thermoplastic filaments produced in association with filament formation, e.g. immediately following extrusion",
+      "count": 6046,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H5/00": {
+      "code": "D04H5/00",
+      "level": 0,
+      "parent": "D04H",
+      "ja": "比較的短い繊維と糸または類似の実質的に長いフィラメント状材料の混合物で構成された不織布［１，２０１２．０１］",
+      "en": "Non woven fabrics formed of mixtures of relatively short fibres and yarns or like filamentary material of substantial length",
+      "count": 667,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H5/02": {
+      "code": "D04H5/02",
+      "level": 1,
+      "parent": "D04H5/00",
+      "ja": "機械的方法によって強化または結合されたもの，例．ニードリング（ニードリング機械Ｄ０４Ｈ１８／００）［１，２０１２．０１］",
+      "en": "strengthened or consolidated by mechanical methods, e.g. needling(needling machines <b>D04H18/00</b>)",
+      "count": 832,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H5/03": {
+      "code": "D04H5/03",
+      "level": 2,
+      "parent": "D04H5/02",
+      "ja": "流体噴射によるもの［２０１２．０１］",
+      "en": "by fluid jet",
+      "count": 413,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H5/04": {
+      "code": "D04H5/04",
+      "level": 1,
+      "parent": "D04H5/00",
+      "ja": "固体状または液体状の化学的または熱活性化結合剤を適用または混合して強化または結合したもの",
+      "en": "strengthened or consolidated by applying or incorporating chemical or thermo-activatable bonding agents in solid or liquid form",
+      "count": 414,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H5/06": {
+      "code": "D04H5/06",
+      "level": 1,
+      "parent": "D04H5/00",
+      "ja": "熱可塑性の繊維，フィラメントまたは糸を相互に溶着して強化または結合したもの",
+      "en": "strengthened or consolidated by welding-together thermoplastic fibres, filaments, or yarns",
+      "count": 1071,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H5/08": {
+      "code": "D04H5/08",
+      "level": 1,
+      "parent": "D04H5/00",
+      "ja": "フリースまたは層の形成方法を特徴とするもの，例．繊維または糸の再配列［４，２０１２．０１］",
+      "en": "characterised by the method of forming fleeces or layers, e.g. reorientation of fibres or yarns",
+      "count": 814,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H5/10": {
+      "code": "D04H5/10",
+      "level": 2,
+      "parent": "D04H5/08",
+      "ja": "平面状以外の方法，例．管状の方法［２０１２．０１］",
+      "en": "otherwise than in a plane, e.g. in a tubular way",
+      "count": 53,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H5/12": {
+      "code": "D04H5/12",
+      "level": 1,
+      "parent": "D04H5/00",
+      "ja": "ガラス繊維［２０１２．０１］",
+      "en": "Glass fibres",
+      "count": 114,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H11/00": {
+      "code": "D04H11/00",
+      "level": 0,
+      "parent": "D04H",
+      "ja": "不織パイル布（不織パイル布を形成する積層体Ｂ３２Ｂ）",
+      "en": "Non-woven pile fabrics(layered products forming non-woven pile fabrics <b>B32B</b>)",
+      "count": 1724,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H11/04": {
+      "code": "D04H11/04",
+      "level": 1,
+      "parent": "D04H11/00",
+      "ja": "ステープルファイバ，フィラメントまたは糸のフリースまたは層をジグザグ状に折りたたみ，折り目を強化または結合して形成したもの",
+      "en": "formed by zig-zag folding of a fleece or layer of staple fibres, filaments, or yarns, strengthened or consolidated at the folds",
+      "count": 471,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H11/08": {
+      "code": "D04H11/08",
+      "level": 1,
+      "parent": "D04H11/00",
+      "ja": "パイル形成材料を付加することなく，不織布の少なくとも一面にパイルを創設したもの，例．ニードリングまたは収縮差によるもの（ニードリング機械Ｄ０４Ｈ１８／００）",
+      "en": "formed by creation of a pile on at least one surface of a non-woven fabric without addition of pile-forming material, e.g. by needling, by differential shrinking(needling machines <b>D04H18/00</b>)",
+      "count": 913,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H13/00": {
+      "code": "D04H13/00",
+      "level": 0,
+      "parent": "D04H",
+      "ja": "その他の不織布",
+      "en": "Other non-woven fabrics",
+      "count": 8982,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H13/02": {
+      "code": "D04H13/02",
+      "level": 1,
+      "parent": "D04H13/00",
+      "ja": "配向された熱可塑性フィルムの部分的フィブリル化による不織布の製造［４］",
+      "en": "Production of non-woven fabrics by partial defibrillating of oriented thermoplastics films",
+      "count": 453,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H17/00": {
+      "code": "D04H17/00",
+      "level": 0,
+      "parent": "D04H",
+      "ja": "フエルト製造装置",
+      "en": "Felting apparatus",
+      "count": 711,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H17/10": {
+      "code": "D04H17/10",
+      "level": 1,
+      "parent": "D04H17/00",
+      "ja": "ローラ間で縮じゅうするためのもの，例．加熱ローラ",
+      "en": "for felting between rollers, e.g. heated rollers",
+      "count": 157,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H17/12": {
+      "code": "D04H17/12",
+      "level": 2,
+      "parent": "D04H17/10",
+      "ja": "多重ローラ装置",
+      "en": "Multi-roller apparatus",
+      "count": 218,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H18/00": {
+      "code": "D04H18/00",
+      "level": 0,
+      "parent": "D04H",
+      "ja": "ニードリング機械［１，２０１２．０１］",
+      "en": "Needling machines",
+      "count": 947,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H18/02": {
+      "code": "D04H18/02",
+      "level": 1,
+      "parent": "D04H18/00",
+      "ja": "針のあるもの［２０１２．０１］",
+      "en": "with needles",
+      "count": 2642,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    },
+    "D04H18/04": {
+      "code": "D04H18/04",
+      "level": 1,
+      "parent": "D04H18/00",
+      "ja": "ウォータージェットのあるもの［２０１２．０１］",
+      "en": "with water jets",
+      "count": 811,
+      "sourceFile": "ipc_D04H.txt",
+      "kind": "ipc"
+    }
+  }
+};

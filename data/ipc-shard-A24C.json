@@ -1,0 +1,666 @@
+{
+  "generatedAt": "2026-03-20T02:17:45.890Z",
+  "total": 66,
+  "entries": {
+    "A24C": {
+      "code": "A24C",
+      "level": 0,
+      "parent": "A24",
+      "ja": "葉巻たばこまたは紙巻たばこの製造機械",
+      "en": "MACHINES FOR MAKING CIGARS OR CIGARETTES",
+      "count": 466,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A24": {
+      "code": "A24",
+      "level": 0,
+      "parent": "A",
+      "ja": "たばこ；葉巻たばこ；紙巻たばこ；擬似喫煙具；喫煙具<br><br><b><ul>注</ul></b><br>このクラスにおいては，下記の用語または表現は以下に示す意味で用いる：<br>―“擬似喫煙具”とは，たばこを燃焼させることなく喫煙を擬似する装置，例．いわゆる電子たばこ，を意味する。<br>―“紙巻たばこ”とは：<br>―たばこ（またはたばこ代替物）を直接的に発火して燃やされた状態にすることにより人々が喫煙するたばこまたはたばこ代替物を含む上巻きの小さなチューブを意味する。；<br>―広義には製造時に加熱源と結合されてまたは使用者により加熱源を含む装置に挿入されてたばこ（またはたばこ代替物）を発火することなく加熱された状態にするたばこまたはたばこ代替物を含む上巻きの小さなチューブも意味する。この広義では，紙巻たばこに代わり用語”棒状体”もしばしば用いられる。",
+      "en": "TOBACCO; CIGARS; CIGARETTES; SIMULATED SMOKING DEVICES; SMOKERS' REQUISITES; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this class, the following terms or expressions are used with the meaning indicated:<ul><li>&ldquo;simulated smoking devices&rdquo; means devices simulating the act of smoking without burning tobacco, e.g. so called electronic cigarettes;</li><li>&ldquo;cigarette&rdquo; means: <ul><li>a small tube of wrapper containing tobacco or tobacco substitutes which people smoke by igniting it directly and where the tobacco (or the tobacco substitute) is burned;</li><li>in a broader sense it also means a small tube of wrapper containing tobacco or tobacco substitutes which is associated with a heat source at manufacturing or inserted by the user in a device containing a heat source and where the tobacco (or the tobacco substitute) is heated without being burned. In this broader sense, the word &ldquo;rod&rdquo; is also often used in place of cigarette.</li></ul></li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A": {
+      "code": "A",
+      "level": 0,
+      "parent": null,
+      "ja": "生活必需品",
+      "en": "HUMAN NECESSITIES",
+      "count": 0,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A24C1/00": {
+      "code": "A24C1/00",
+      "level": 0,
+      "parent": "A24C",
+      "ja": "葉巻たばこの製造要素（２以上の葉巻たばこの製造要素の組合わせＡ２４Ｃ３／００；フィルタまたはマウスピースの装着または組込みＡ２４Ｃ５／４７，Ａ２４Ｃ５／５２；切断機械一般Ｂ２６Ｄ）",
+      "en": "Elements of cigar manufacture(combinations of two or more elements of cigar manufacture <b>A24C3/00</b>; attaching or incorporating filters or mouthpieces <b>A24C5/47</b>, <b>A24C5/52</b>; cutting machines in general <b>B26D</b>)",
+      "count": 192,
+      "sourceFile": "ipc_A24C.txt",
+      "kind": "ipc"
+    },
+    "A24C1/02": {
+      "code": "A24C1/02",
+      "level": 1,
+      "parent": "A24C1/00",
+      "ja": "たばこを定量に分配する手段を有するまたは有しないたばこ供給装置",
+      "en": "Tobacco-feeding devices with or without means for dividing the tobacco into measured quantities",
+      "count": 511,
+      "sourceFile": "ipc_A24C.txt",
+      "kind": "ipc"
+    },
+    "A24C1/04": {
+      "code": "A24C1/04",
+      "level": 1,
+      "parent": "A24C1/00",
+      "ja": "葉巻たばこの中巻き葉または上巻き葉を切断する装置",
+      "en": "Devices for cutting cigar binders or wrappers",
+      "count": 326,
+      "sourceFile": "ipc_A24C.txt",
+      "kind": "ipc"
+    },
+    "A24C1/08": {
+      "code": "A24C1/08",
+      "level": 1,
+      "parent": "A24C1/00",
+      "ja": "葉巻バンチの製造",
+      "en": "Making tobacco bunches",
+      "count": 81,
+      "sourceFile": "ipc_A24C.txt",
+      "kind": "ipc"
+    },
+    "A24C1/10": {
+      "code": "A24C1/10",
+      "level": 2,
+      "parent": "A24C1/08",
+      "ja": "上巻き用のエプロンとテーブルを有するバンチ製造機",
+      "en": "Bunch-making machines with aprons and tables for wrapping",
+      "count": 150,
+      "sourceFile": "ipc_A24C.txt",
+      "kind": "ipc"
+    },
+    "A24C1/12": {
+      "code": "A24C1/12",
+      "level": 2,
+      "parent": "A24C1/08",
+      "ja": "上巻きローラを有するバンチ製造機",
+      "en": "Bunch-making machines with wrapping rollers",
+      "count": 34,
+      "sourceFile": "ipc_A24C.txt",
+      "kind": "ipc"
+    },
+    "A24C1/14": {
+      "code": "A24C1/14",
+      "level": 2,
+      "parent": "A24C1/08",
+      "ja": "取っ手を有するバンチ製造機",
+      "en": "Bunch-making machines with grippers",
+      "count": 21,
+      "sourceFile": "ipc_A24C.txt",
+      "kind": "ipc"
+    },
+    "A24C1/16": {
+      "code": "A24C1/16",
+      "level": 1,
+      "parent": "A24C1/00",
+      "ja": "バンチの処理",
+      "en": "Treating bunches",
+      "count": 72,
+      "sourceFile": "ipc_A24C.txt",
+      "kind": "ipc"
+    },
+    "A24C1/18": {
+      "code": "A24C1/18",
+      "level": 2,
+      "parent": "A24C1/16",
+      "ja": "葉巻バンチ用のモールドまたはプレス",
+      "en": "Moulds or presses for cigar bunches",
+      "count": 129,
+      "sourceFile": "ipc_A24C.txt",
+      "kind": "ipc"
+    },
+    "A24C1/20": {
+      "code": "A24C1/20",
+      "level": 3,
+      "parent": "A24C1/18",
+      "ja": "葉巻バンチ用の回転モールド",
+      "en": "Rotating moulds for cigar bunches",
+      "count": 112,
+      "sourceFile": "ipc_A24C.txt",
+      "kind": "ipc"
+    },
+    "A24C1/22": {
+      "code": "A24C1/22",
+      "level": 2,
+      "parent": "A24C1/16",
+      "ja": "成形したバンチを回転するもの",
+      "en": "Rolling formed bunches",
+      "count": 41,
+      "sourceFile": "ipc_A24C.txt",
+      "kind": "ipc"
+    },
+    "A24C1/24": {
+      "code": "A24C1/24",
+      "level": 2,
+      "parent": "A24C1/16",
+      "ja": "一定の長さにバンチを切断するもの",
+      "en": "Cutting bunches to length",
+      "count": 26,
+      "sourceFile": "ipc_A24C.txt",
+      "kind": "ipc"
+    },
+    "A24C1/26": {
+      "code": "A24C1/26",
+      "level": 1,
+      "parent": "A24C1/00",
+      "ja": "上巻葉の装着",
+      "en": "Applying the wrapper",
+      "count": 92,
+      "sourceFile": "ipc_A24C.txt",
+      "kind": "ipc"
+    },
+    "A24C1/28": {
+      "code": "A24C1/28",
+      "level": 2,
+      "parent": "A24C1/26",
+      "ja": "上巻葉の移送機構",
+      "en": "Wrapper transferring mechanisms",
+      "count": 176,
+      "sourceFile": "ipc_A24C.txt",
+      "kind": "ipc"
+    },
+    "A24C1/30": {
+      "code": "A24C1/30",
+      "level": 2,
+      "parent": "A24C1/26",
+      "ja": "上巻葉をバンチに装着する装置",
+      "en": "Devices for applying the wrapper to the bunch",
+      "count": 270,
+      "sourceFile": "ipc_A24C.txt",
+      "kind": "ipc"
+    },
+    "A24C1/32": {
+      "code": "A24C1/32",
+      "level": 2,
+      "parent": "A24C1/26",
+      "ja": "葉巻たばこのチップの形成装置（フィルタチップ，マウスピースＡ２４Ｄ３／００）",
+      "en": "Devices for forming the tips of cigars(filter tips, mouthpieces <b>A24D3/00</b>)",
+      "count": 147,
+      "sourceFile": "ipc_A24C.txt",
+      "kind": "ipc"
+    },
+    "A24C1/34": {
+      "code": "A24C1/34",
+      "level": 2,
+      "parent": "A24C1/26",
+      "ja": "接着剤の供給手段",
+      "en": "Adhesive-applying means",
+      "count": 83,
+      "sourceFile": "ipc_A24C.txt",
+      "kind": "ipc"
+    },
+    "A24C1/36": {
+      "code": "A24C1/36",
+      "level": 2,
+      "parent": "A24C1/26",
+      "ja": "一定の長さに上巻きずみバンチを切断するもの",
+      "en": "Cutting wrapped bunches to length",
+      "count": 47,
+      "sourceFile": "ipc_A24C.txt",
+      "kind": "ipc"
+    },
+    "A24C1/38": {
+      "code": "A24C1/38",
+      "level": 1,
+      "parent": "A24C1/00",
+      "ja": "葉巻たばこの最終処理，例．選別（葉巻たばこの乾燥Ａ２４Ｂ９／００）",
+      "en": "Final treatment of cigars, e.g. sorting(drying cigars <b>A24B9/00</b>)",
+      "count": 228,
+      "sourceFile": "ipc_A24C.txt",
+      "kind": "ipc"
+    },
+    "A24C1/40": {
+      "code": "A24C1/40",
+      "level": 2,
+      "parent": "A24C1/38",
+      "ja": "葉巻たばこのつや消しまたは粉付け",
+      "en": "Delustering or powdering cigars",
+      "count": 61,
+      "sourceFile": "ipc_A24C.txt",
+      "kind": "ipc"
+    },
+    "A24C1/42": {
+      "code": "A24C1/42",
+      "level": 2,
+      "parent": "A24C1/38",
+      "ja": "葉巻たばこのマーク付け，印刷，または装飾",
+      "en": "Marking, printing, or decorating cigars",
+      "count": 45,
+      "sourceFile": "ipc_A24C.txt",
+      "kind": "ipc"
+    },
+    "A24C1/44": {
+      "code": "A24C1/44",
+      "level": 2,
+      "parent": "A24C1/38",
+      "ja": "葉巻たばこ用の結束および圧縮装置",
+      "en": "Bundling and pressing devices for cigars",
+      "count": 145,
+      "sourceFile": "ipc_A24C.txt",
+      "kind": "ipc"
+    },
+    "A24C3/00": {
+      "code": "A24C3/00",
+      "level": 0,
+      "parent": "A24C",
+      "ja": "葉巻たばこの製造方式；葉巻たばこの２つまたはそれ以上の製造要素の組み合せ",
+      "en": "Complete manufacture of cigars; Combinations of two or more elements of cigar manufacture",
+      "count": 179,
+      "sourceFile": "ipc_A24C.txt",
+      "kind": "ipc"
+    },
+    "A24C5/00": {
+      "code": "A24C5/00",
+      "level": 0,
+      "parent": "A24C",
+      "ja": "紙巻たばこの製造；葉巻たばこまたは紙巻たばこのチップ材料の製造，葉巻たばこまたは紙巻たばこへのフィルタまたはマウスピースの装着［２０２０．０１］",
+      "en": "Making cigarettes; Making tipping materials for, or attaching filters or mouthpieces to, cigars or cigarettes",
+      "count": 4174,
+      "sourceFile": "ipc_A24C.txt",
+      "kind": "ipc"
+    },
+    "A24C5/01": {
+      "code": "A24C5/01",
+      "level": 1,
+      "parent": "A24C5/00",
+      "ja": "擬似喫煙具の紙巻たばこの製造［２０２０．０１］",
+      "en": "Making cigarettes for simulated smoking devices",
+      "count": 1003,
+      "sourceFile": "ipc_A24C.txt",
+      "kind": "ipc"
+    },
+    "A24C5/02": {
+      "code": "A24C5/02",
+      "level": 1,
+      "parent": "A24C5/00",
+      "ja": "紙巻たばこ充填機械",
+      "en": "Cigarette-filling machines",
+      "count": 522,
+      "sourceFile": "ipc_A24C.txt",
+      "kind": "ipc"
+    },
+    "A24C5/04": {
+      "code": "A24C5/04",
+      "level": 2,
+      "parent": "A24C5/02",
+      "ja": "連続棒状体を有するもの（Ａ２４Ｃ５／１４が優先）",
+      "en": "with continuous rod(<b>A24C5/14</b> takes precedence)",
+      "count": 39,
+      "sourceFile": "ipc_A24C.txt",
+      "kind": "ipc"
+    },
+    "A24C5/06": {
+      "code": "A24C5/06",
+      "level": 2,
+      "parent": "A24C5/02",
+      "ja": "加圧室を有するもの",
+      "en": "with pressing-chamber",
+      "count": 157,
+      "sourceFile": "ipc_A24C.txt",
+      "kind": "ipc"
+    },
+    "A24C5/08": {
+      "code": "A24C5/08",
+      "level": 1,
+      "parent": "A24C5/00",
+      "ja": "巻き上げ用のエプロンとテーブルを有する機械",
+      "en": "Machines with aprons and tables for wrapping",
+      "count": 50,
+      "sourceFile": "ipc_A24C.txt",
+      "kind": "ipc"
+    },
+    "A24C5/10": {
+      "code": "A24C5/10",
+      "level": 1,
+      "parent": "A24C5/00",
+      "ja": "巻き上げローラを有する機械",
+      "en": "Machines with wrapping rollers",
+      "count": 104,
+      "sourceFile": "ipc_A24C.txt",
+      "kind": "ipc"
+    },
+    "A24C5/12": {
+      "code": "A24C5/12",
+      "level": 1,
+      "parent": "A24C5/00",
+      "ja": "充填して巻き上げた紙巻たばこの端部の切断",
+      "en": "Cutting the ends of filled and rolled cigarettes",
+      "count": 119,
+      "sourceFile": "ipc_A24C.txt",
+      "kind": "ipc"
+    },
+    "A24C5/14": {
+      "code": "A24C5/14",
+      "level": 1,
+      "parent": "A24C5/00",
+      "ja": "連続棒状体形の機械（たばこ供給装置Ａ２４Ｃ５／３９）",
+      "en": "Machines of the continuous-rod type(tobacco feeding devices <b>A24C5/39</b>)",
+      "count": 476,
+      "sourceFile": "ipc_A24C.txt",
+      "kind": "ipc"
+    },
+    "A24C5/18": {
+      "code": "A24C5/18",
+      "level": 2,
+      "parent": "A24C5/14",
+      "ja": "棒状体の形成",
+      "en": "Forming the rod",
+      "count": 1856,
+      "sourceFile": "ipc_A24C.txt",
+      "kind": "ipc"
+    },
+    "A24C5/20": {
+      "code": "A24C5/20",
+      "level": 2,
+      "parent": "A24C5/14",
+      "ja": "リール；ボビン用の支持体；他の付属品",
+      "en": "Reels; Supports for bobbins; Other accessories",
+      "count": 360,
+      "sourceFile": "ipc_A24C.txt",
+      "kind": "ipc"
+    },
+    "A24C5/22": {
+      "code": "A24C5/22",
+      "level": 2,
+      "parent": "A24C5/14",
+      "ja": "巻紙の継ぎ目に折り目を付けるもの",
+      "en": "Creasing the paper seam",
+      "count": 29,
+      "sourceFile": "ipc_A24C.txt",
+      "kind": "ipc"
+    },
+    "A24C5/24": {
+      "code": "A24C5/24",
+      "level": 2,
+      "parent": "A24C5/14",
+      "ja": "継ぎ目に糊を付けるもの",
+      "en": "Pasting the seam",
+      "count": 506,
+      "sourceFile": "ipc_A24C.txt",
+      "kind": "ipc"
+    },
+    "A24C5/26": {
+      "code": "A24C5/26",
+      "level": 2,
+      "parent": "A24C5/14",
+      "ja": "継ぎ目を乾燥するもの",
+      "en": "Drying the seam",
+      "count": 102,
+      "sourceFile": "ipc_A24C.txt",
+      "kind": "ipc"
+    },
+    "A24C5/28": {
+      "code": "A24C5/28",
+      "level": 2,
+      "parent": "A24C5/14",
+      "ja": "たばこ棒状体の切断",
+      "en": "Cutting-off the tobacco rod",
+      "count": 1105,
+      "sourceFile": "ipc_A24C.txt",
+      "kind": "ipc"
+    },
+    "A24C5/30": {
+      "code": "A24C5/30",
+      "level": 3,
+      "parent": "A24C5/28",
+      "ja": "刃をとぐ装置を結合した機械",
+      "en": "Machines combined with devices for grinding the knives",
+      "count": 79,
+      "sourceFile": "ipc_A24C.txt",
+      "kind": "ipc"
+    },
+    "A24C5/31": {
+      "code": "A24C5/31",
+      "level": 2,
+      "parent": "A24C5/14",
+      "ja": "機械の始動，減速または故障時に操作を受けもつ特殊な装置を有するもの，例．連続棒状体を転換したり中断したりするための装置を有するもの",
+      "en": "with special arrangements coming into operation during starting, slowing-down, or breakdown of the machine, e.g. for diverting or breaking the continuous rod",
+      "count": 241,
+      "sourceFile": "ipc_A24C.txt",
+      "kind": "ipc"
+    },
+    "A24C5/32": {
+      "code": "A24C5/32",
+      "level": 1,
+      "parent": "A24C5/00",
+      "ja": "紙巻たばこの分離，配列，計数または検査（包装に関してはＢ６５Ｂ１９／００）；棒状体または紙巻たばこの状態によってたばこの供給を調整すること［２００６．０１］",
+      "en": "Separating, ordering, counting or examining cigarettes (in relation to packaging <b>B65B19/00</b>);Regulating the feeding of tobacco according to rod or cigarette condition",
+      "count": 1354,
+      "sourceFile": "ipc_A24C.txt",
+      "kind": "ipc"
+    },
+    "A24C5/33": {
+      "code": "A24C5/33",
+      "level": 2,
+      "parent": "A24C5/32",
+      "ja": "集収または配列装置",
+      "en": "Catching or ordering devices",
+      "count": 383,
+      "sourceFile": "ipc_A24C.txt",
+      "kind": "ipc"
+    },
+    "A24C5/34": {
+      "code": "A24C5/34",
+      "level": 2,
+      "parent": "A24C5/32",
+      "ja": "紙巻たばこまたは棒状体の検査，例．たばこの供給を調整するもの；不良紙巻たばこを排除するもの",
+      "en": "Examining cigarettes or the rod, e.g. for regulating the feeding of tobacco; Removing defective cigarettes",
+      "count": 2820,
+      "sourceFile": "ipc_A24C.txt",
+      "kind": "ipc"
+    },
+    "A24C5/343": {
+      "code": "A24C5/343",
+      "level": 3,
+      "parent": "A24C5/34",
+      "ja": "機械的な手段，例．触子，によるもの",
+      "en": "by mechanical means, e.g. feelers",
+      "count": 165,
+      "sourceFile": "ipc_A24C.txt",
+      "kind": "ipc"
+    },
+    "A24C5/345": {
+      "code": "A24C5/345",
+      "level": 3,
+      "parent": "A24C5/34",
+      "ja": "不良紙巻たばこの排除（Ａ２４Ｃ５／３１が優先）",
+      "en": "Removing defective cigarettes(<b>A24C5/31</b> takes precedence)",
+      "count": 698,
+      "sourceFile": "ipc_A24C.txt",
+      "kind": "ipc"
+    },
+    "A24C5/35": {
+      "code": "A24C5/35",
+      "level": 1,
+      "parent": "A24C5/00",
+      "ja": "紙巻たばこを製造機から包装機へ移送するためコンベア装置を用いたもの",
+      "en": "Adaptations of conveying apparatus for transporting cigarettes from making machine to packaging machine",
+      "count": 1135,
+      "sourceFile": "ipc_A24C.txt",
+      "kind": "ipc"
+    },
+    "A24C5/352": {
+      "code": "A24C5/352",
+      "level": 2,
+      "parent": "A24C5/35",
+      "ja": "コンテナ，例．舟形の容器，を使用するもの",
+      "en": "using containers, i.e. boats",
+      "count": 244,
+      "sourceFile": "ipc_A24C.txt",
+      "kind": "ipc"
+    },
+    "A24C5/354": {
+      "code": "A24C5/354",
+      "level": 3,
+      "parent": "A24C5/352",
+      "ja": "製造機で舟形の容器に充填するもの",
+      "en": "Filling the boats at the making machine",
+      "count": 262,
+      "sourceFile": "ipc_A24C.txt",
+      "kind": "ipc"
+    },
+    "A24C5/356": {
+      "code": "A24C5/356",
+      "level": 3,
+      "parent": "A24C5/352",
+      "ja": "舟形の容器から包装機のホッパーの中に移すもの（ホッパー構造Ｂ６５Ｂ１９／０４）",
+      "en": "Emptying the boats into the hopper of the packaging machine(hopper construction <b>B65B19/04</b>)",
+      "count": 197,
+      "sourceFile": "ipc_A24C.txt",
+      "kind": "ipc"
+    },
+    "A24C5/358": {
+      "code": "A24C5/358",
+      "level": 3,
+      "parent": "A24C5/352",
+      "ja": "舟形の容器の構造",
+      "en": "Boat constructions",
+      "count": 99,
+      "sourceFile": "ipc_A24C.txt",
+      "kind": "ipc"
+    },
+    "A24C5/36": {
+      "code": "A24C5/36",
+      "level": 1,
+      "parent": "A24C5/00",
+      "ja": "不良紙巻たばこから紙または他の部品を除去するもの",
+      "en": "Removing papers or other parts from defective cigarettes",
+      "count": 651,
+      "sourceFile": "ipc_A24C.txt",
+      "kind": "ipc"
+    },
+    "A24C5/38": {
+      "code": "A24C5/38",
+      "level": 1,
+      "parent": "A24C5/00",
+      "ja": "印刷装置を結合した機械",
+      "en": "Machines combined with printing devices",
+      "count": 77,
+      "sourceFile": "ipc_A24C.txt",
+      "kind": "ipc"
+    },
+    "A24C5/39": {
+      "code": "A24C5/39",
+      "level": 1,
+      "parent": "A24C5/00",
+      "ja": "たばこ供給装置（棒状体または紙巻たばこの状態によって供給を調整するものＡ２４Ｃ５／３４）",
+      "en": "Tobacco feeding devices(regulating feed according to rod or cigarette condition <b>A24C5/34</b>)",
+      "count": 2923,
+      "sourceFile": "ipc_A24C.txt",
+      "kind": "ipc"
+    },
+    "A24C5/40": {
+      "code": "A24C5/40",
+      "level": 1,
+      "parent": "A24C5/00",
+      "ja": "紙巻たばこの製造用手動装置",
+      "en": "Hand-driven apparatus for making cigarettes",
+      "count": 511,
+      "sourceFile": "ipc_A24C.txt",
+      "kind": "ipc"
+    },
+    "A24C5/42": {
+      "code": "A24C5/42",
+      "level": 2,
+      "parent": "A24C5/40",
+      "ja": "ポケット形紙巻たばこ充填器",
+      "en": "Pocket cigarette-fillers",
+      "count": 590,
+      "sourceFile": "ipc_A24C.txt",
+      "kind": "ipc"
+    },
+    "A24C5/44": {
+      "code": "A24C5/44",
+      "level": 2,
+      "parent": "A24C5/40",
+      "ja": "ポケット形紙巻たばこローラー",
+      "en": "Pocket cigarette-rollers",
+      "count": 424,
+      "sourceFile": "ipc_A24C.txt",
+      "kind": "ipc"
+    },
+    "A24C5/46": {
+      "code": "A24C5/46",
+      "level": 1,
+      "parent": "A24C5/00",
+      "ja": "紙巻たばこ用の紙チューブの製造（紙チューブ一般Ｂ３１Ｃ）",
+      "en": "Making paper tubes for cigarettes(making paper tubes in general <b>B31C</b>)",
+      "count": 511,
+      "sourceFile": "ipc_A24C.txt",
+      "kind": "ipc"
+    },
+    "A24C5/47": {
+      "code": "A24C5/47",
+      "level": 1,
+      "parent": "A24C5/00",
+      "ja": "葉巻たばこまたは紙巻たばこへのフィルタまたはマウスピースの装着，例．紙巻たばこまたはそのマウスピースへのフィルタの挿入（Ａ２４Ｃ５／５２が優先）［２００６．０１］",
+      "en": "Attaching filters or mouthpieces to cigars or cigarettes, e.g. inserting filters into cigarettes or their mouthpieces(<b>A24C5/52</b> takes precedence)",
+      "count": 2290,
+      "sourceFile": "ipc_A24C.txt",
+      "kind": "ipc"
+    },
+    "A24C5/52": {
+      "code": "A24C5/52",
+      "level": 1,
+      "parent": "A24C5/00",
+      "ja": "紙巻たばこまたはたばこ棒状体中へのフィルタまたはマウスピースの組込み［２００６．０１］",
+      "en": "Incorporating filters or mouthpieces into a cigarette rod or a tobacco rod",
+      "count": 939,
+      "sourceFile": "ipc_A24C.txt",
+      "kind": "ipc"
+    },
+    "A24C5/54": {
+      "code": "A24C5/54",
+      "level": 1,
+      "parent": "A24C5/00",
+      "ja": "たばことともにそれらを充填したのちに紙巻たばこ紙チューブの端部を包むもの",
+      "en": "Folding the ends of cigarette paper tubes after filling them with tobacco",
+      "count": 120,
+      "sourceFile": "ipc_A24C.txt",
+      "kind": "ipc"
+    },
+    "A24C5/56": {
+      "code": "A24C5/56",
+      "level": 1,
+      "parent": "A24C5/00",
+      "ja": "機械的手段によるチップ材料，例．葉巻たばこまたは紙巻たばこのマウスピース用シートコルク，の製造［２００６．０１］",
+      "en": "Making tipping materials, e.g. sheet cork for mouthpieces of cigars or cigarettes, by mechanical means",
+      "count": 235,
+      "sourceFile": "ipc_A24C.txt",
+      "kind": "ipc"
+    },
+    "A24C5/58": {
+      "code": "A24C5/58",
+      "level": 2,
+      "parent": "A24C5/56",
+      "ja": "チップ材料の取付",
+      "en": "Applying the tipping materials",
+      "count": 188,
+      "sourceFile": "ipc_A24C.txt",
+      "kind": "ipc"
+    },
+    "A24C5/60": {
+      "code": "A24C5/60",
+      "level": 1,
+      "parent": "A24C5/00",
+      "ja": "紙巻たばこの最終処理，例．マーク付け，印刷，商標付け，装飾",
+      "en": "Final treatment of cigarettes, e.g. marking, printing, branding, decorating",
+      "count": 735,
+      "sourceFile": "ipc_A24C.txt",
+      "kind": "ipc"
+    }
+  }
+}

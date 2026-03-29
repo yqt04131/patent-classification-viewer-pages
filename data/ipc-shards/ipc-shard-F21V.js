@@ -1,0 +1,2016 @@
+window.IPC_SHARD_F21V = {
+  "generatedAt": "2026-03-20T02:17:46.872Z",
+  "total": 201,
+  "entries": {
+    "F21V": {
+      "code": "F21V",
+      "level": 0,
+      "parent": "F21",
+      "ja": "照明装置またはそのシステムの機能的特徴あるいは細部；他に分類されない，その他の物品と照明装置との構造的な組み合わせ［１，７］<br><br><b><ul>注</ul></b><br>（１）グループＦ２１Ｖ１／００からＦ２１Ｖ１４／００は、光の発散または分配に関する観点を包含する。グループＦ２１Ｖ１５／００からＦ２１Ｖ３１／００は、光の発散または分配に関しない観点を包含する。［２００９．０１］<br>（２）非電気的照明装置またはシステムは、非電気的な光源の使用に関連した特別な適応が重要である場合にのみグループＦ２１Ｖ３５／００からＦ２１Ｖ３７／００に分類する。［２００９．０１］<br>（３）このサブクラスにおいては，サブクラスＦ２１ＷおよびＦ２１Ｙのインデキシングコードを付与することが望ましい。［７］<br><br><b><ul>サブクラス内の索引</ul></b><br>光の発散または分配に関する要素の細部<br>笠；グローブ；屈折器；反射器　１／００；３／００；５／００；７／００<br>ライトガイド　８／００<br>放射光の分光特性，偏光または強度を修正する要素　９／００<br>その他のスクリーン　１１／００<br>素子の組み合わせ　１３／００<br>光の分配を変えるもの　１４／００<br>光の発散または分配に関しない要素の細部<br>締め付け　１７／００；１９／００<br>支持またはつり下げ装置　２１／００<br>電気回路素子の配置　２３／００<br>ケーブル収納　２７／００<br>防護；保安；冷却；締め付け　１５／００；２５／００；２９／００；３１／００<br>その他の物品との組み合わせ　３３／００<br>ろうそく立て　３５／００<br>マントルまたはバーナの配置　３６／００<br>燃焼照明の細部　３７／００<br>このサブクラスの他のグループに分類されない主題事項　９９／００",
+      "en": "FUNCTIONAL FEATURES OR DETAILS OF LIGHTING DEVICES OR SYSTEMS THEREOF; STRUCTURAL COMBINATIONS OF LIGHTING DEVICES WITH OTHER ARTICLES, NOT OTHERWISE PROVIDED FOR; <br><br><b><u>Note(s)</u></b><br><br><ul><li>Groups <b>F21V1/00 to F21V14/00</b>  cover aspects related to light emission or distribution. Groups <b>F21V15/00 to F21V31/00</b>  cover aspects not related to light emission or distribution.  </li><li>Details of non-electric lighting devices or systems are classified in groups <b>F21V35/00 to F21V37/00</b>  only if a special adaptation related to the use of a non-electric light source is of interest.  </li><li>In this subclass, it is desirable to add the indexing codes of subclasses <b>F21W</b> and <b>F21Y</b>.  </li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">DETAILS OF ELEMENTS INVOLVED IN LIGHT EMISSION OR DISTRIBUTION<tr><td width=\"70%\">Shades; globes; refractors; reflectors</td><td><b><b>1/00</b>; <b>3/00</b>; <b>5/00</b>; <b>7/00</b></b></td></tr></tr><tr><td width=\"70%\">Light guides</td><td><b><b>8/00</b></b></td></tr></tr><tr><td width=\"70%\">Elements for modifying spectral properties, polarisation or intensity of the light emitted</td><td><b><b>9/00</b></b></td></tr></tr><tr><td width=\"70%\">Other screens</td><td><b><b>11/00</b></b></td></tr></tr><tr><td width=\"70%\">Combinations of elements</td><td><b><b>13/00</b></b></td></tr></tr><tr><td width=\"70%\">Controlling the distribution of the light</td><td><b><b>14/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">DETAILS OF ELEMENTS NOT INVOLVED IN LIGHT EMISSION OR DISTRIBUTION<tr><td width=\"70%\">Fastening</td><td><b><b>17/00</b>; <b>19/00</b></b></td></tr></tr><tr><td width=\"70%\">Arrangements for supporting or suspending</td><td><b><b>21/00</b></b></td></tr></tr><tr><td width=\"70%\">Arrangements of electric circuit elements</td><td><b><b>23/00</b></b></td></tr></tr><tr><td width=\"70%\">Cable stowing</td><td><b><b>27/00</b></b></td></tr></tr><tr><td width=\"70%\">Protection; safety; cooling; tightness</td><td><b><b>15/00</b>; <b>25/00</b>; <b>29/00</b>; <b>31/00</b></b></td></tr></tr><tr><td width=\"70%\">Combinations with other articles</td><td><b><b>33/00</b></b></td></tr></tr><tr><td width=\"70%\">Candle holders</td><td><b><b>35/00</b></b></td></tr></tr><tr><td width=\"70%\">Arrangements of mantles or burners</td><td><b><b>36/00</b></b></td></tr></tr><tr><td width=\"70%\">Details of combustion lighting</td><td><b><b>37/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">SUBJECT MATTER NOT PROVIDED FOR IN OTHER GROUPS OF THIS SUBCLASS</td><td><b><b>99/00</b></b></td></tr></tr></table>",
+      "count": 2661,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F21": {
+      "code": "F21",
+      "level": 0,
+      "parent": "F",
+      "ja": "照明<br><br><b><ul>注</ul></b><br>セクションＨの注ＩＩＩ、特にクラスＦ２１に包含されるものと同じ技術主題の電気的な観点はサブクラスＨ０５Ｂに包含されることに、注意すること。",
+      "en": "LIGHTING",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F": {
+      "code": "F",
+      "level": 0,
+      "parent": null,
+      "ja": "機械工学；照明；加熱；武器；爆破",
+      "en": "MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F21V1/00": {
+      "code": "F21V1/00",
+      "level": 0,
+      "parent": "F21V",
+      "ja": "光源用のかさ",
+      "en": "Shades for light sources",
+      "count": 7670,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V1/02": {
+      "code": "F21V1/02",
+      "level": 1,
+      "parent": "F21V1/00",
+      "ja": "フレーム",
+      "en": "Frames",
+      "count": 1152,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V1/04": {
+      "code": "F21V1/04",
+      "level": 2,
+      "parent": "F21V1/02",
+      "ja": "形の変わらないもの（Ｆ２１Ｖ１／０８が優先）",
+      "en": "rigid(<b>F21V1/08</b> takes precedence)",
+      "count": 358,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V1/06": {
+      "code": "F21V1/06",
+      "level": 2,
+      "parent": "F21V1/02",
+      "ja": "折りたたみできるもの",
+      "en": "foldable or collapsible",
+      "count": 1020,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V1/08": {
+      "code": "F21V1/08",
+      "level": 2,
+      "parent": "F21V1/02",
+      "ja": "調整できるもの",
+      "en": "adjustable",
+      "count": 1137,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V1/10": {
+      "code": "F21V1/10",
+      "level": 1,
+      "parent": "F21V1/00",
+      "ja": "回転かさ",
+      "en": "Rotating shades",
+      "count": 1005,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V1/12": {
+      "code": "F21V1/12",
+      "level": 1,
+      "parent": "F21V1/00",
+      "ja": "組み立てかさ",
+      "en": "Composite shades",
+      "count": 1360,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V1/14": {
+      "code": "F21V1/14",
+      "level": 1,
+      "parent": "F21V1/00",
+      "ja": "フレーム用カバー；フレームをもたないかさ",
+      "en": "Covers for frames; Frameless shades",
+      "count": 2112,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V1/16": {
+      "code": "F21V1/16",
+      "level": 2,
+      "parent": "F21V1/14",
+      "ja": "材料に特徴のあるもの［２０１８．０１］",
+      "en": "characterised by the material",
+      "count": 1246,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V1/17": {
+      "code": "F21V1/17",
+      "level": 3,
+      "parent": "F21V1/16",
+      "ja": "フォトルミネセンス物質からなる材料［２０１８．０１］",
+      "en": "the material comprising photoluminescent substances",
+      "count": 67,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V1/18": {
+      "code": "F21V1/18",
+      "level": 3,
+      "parent": "F21V1/16",
+      "ja": "材料が紙であるもの",
+      "en": "the material being paper",
+      "count": 238,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V1/20": {
+      "code": "F21V1/20",
+      "level": 3,
+      "parent": "F21V1/16",
+      "ja": "材料がガラスであるもの",
+      "en": "the material being glass",
+      "count": 242,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V1/22": {
+      "code": "F21V1/22",
+      "level": 3,
+      "parent": "F21V1/16",
+      "ja": "材料がプラスチックであるもの",
+      "en": "the material being plastics",
+      "count": 582,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V1/24": {
+      "code": "F21V1/24",
+      "level": 3,
+      "parent": "F21V1/16",
+      "ja": "材料が金属であるもの",
+      "en": "the material being metal",
+      "count": 196,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V1/26": {
+      "code": "F21V1/26",
+      "level": 1,
+      "parent": "F21V1/00",
+      "ja": "かさの製法",
+      "en": "Manufacturing shades",
+      "count": 691,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V3/00": {
+      "code": "F21V3/00",
+      "level": 0,
+      "parent": "F21V",
+      "ja": "グローブ；ボール；おおいガラス（屈折特性をもつものＦ２１Ｖ５／００；反射特性をもつものＦ２１Ｖ７／００；冷却手段に特徴のあるものＦ２１Ｖ２９／５０６）［１，２０１５．０１］",
+      "en": "Globes; Bowls; Cover glasses(with refracting properties <b>F21V5/00</b>; with reflecting properties <b>F21V7/00</b>; characterised by cooling arrangements <b>F21V29/506</b>)",
+      "count": 26914,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V3/02": {
+      "code": "F21V3/02",
+      "level": 1,
+      "parent": "F21V3/00",
+      "ja": "形状に特徴のあるもの",
+      "en": "characterised by the shape",
+      "count": 20054,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V3/04": {
+      "code": "F21V3/04",
+      "level": 1,
+      "parent": "F21V3/00",
+      "ja": "材料，表面処理またはコーティングに特徴のあるもの［２０１８．０１］",
+      "en": "characterised by materials, surface treatments or coatings",
+      "count": 16422,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V3/06": {
+      "code": "F21V3/06",
+      "level": 2,
+      "parent": "F21V3/04",
+      "ja": "材料に特徴のあるもの［２０１８．０１］",
+      "en": "characterised by the material",
+      "count": 7526,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V3/08": {
+      "code": "F21V3/08",
+      "level": 3,
+      "parent": "F21V3/06",
+      "ja": "フォトルミネセンス物質からなる材料［２０１８．０１］",
+      "en": "the material comprising photoluminescent substances",
+      "count": 365,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V3/10": {
+      "code": "F21V3/10",
+      "level": 2,
+      "parent": "F21V3/04",
+      "ja": "コーティングに特徴のあるもの［２０１８．０１］",
+      "en": "characterised by coatings",
+      "count": 1695,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V3/12": {
+      "code": "F21V3/12",
+      "level": 3,
+      "parent": "F21V3/10",
+      "ja": "フォトルミネセンス物質からなるコーティング［２０１８．０１］",
+      "en": "the coatings comprising photoluminescent substances",
+      "count": 345,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V5/00": {
+      "code": "F21V5/00",
+      "level": 0,
+      "parent": "F21V",
+      "ja": "光源用の屈折器（冷却手段に特徴のあるものＦ２１Ｖ２９／５０４）［２０１８．０１］",
+      "en": "Refractors for light sources(characterised by cooling arrangements <b>F21V29/504</b>)",
+      "count": 24943,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V5/02": {
+      "code": "F21V5/02",
+      "level": 1,
+      "parent": "F21V5/00",
+      "ja": "プリズム形状のもの（Ｆ２１Ｖ５／０４が優先）",
+      "en": "of prismatic shape(<b>F21V5/04</b> takes precedence)",
+      "count": 5249,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V5/04": {
+      "code": "F21V5/04",
+      "level": 1,
+      "parent": "F21V5/00",
+      "ja": "レンズ形状のもの",
+      "en": "of lens shape",
+      "count": 40020,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V5/06": {
+      "code": "F21V5/06",
+      "level": 1,
+      "parent": "F21V5/00",
+      "ja": "シャンデリアのつり下げガラス",
+      "en": "Hanging lustres for chandeliers",
+      "count": 293,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V5/08": {
+      "code": "F21V5/08",
+      "level": 1,
+      "parent": "F21V5/00",
+      "ja": "非対称配光を出すもの［１，７］",
+      "en": "producing an asymmetric light distribution",
+      "count": 5073,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V5/10": {
+      "code": "F21V5/10",
+      "level": 1,
+      "parent": "F21V5/00",
+      "ja": "フォトルミネセンス材料からなるもの［２０１８．０１］",
+      "en": "comprising photoluminescent material",
+      "count": 197,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V7/00": {
+      "code": "F21V7/00",
+      "level": 0,
+      "parent": "F21V",
+      "ja": "光源用の反射器（冷却手段に特徴のあるものＦ２１Ｖ２９／５０５）",
+      "en": "Reflectors for light sources(characterised by cooling arrangements <b>F21V29/505</b>)",
+      "count": 34738,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V7/04": {
+      "code": "F21V7/04",
+      "level": 1,
+      "parent": "F21V7/00",
+      "ja": "光学的デザイン［１，７］",
+      "en": "Optical design",
+      "count": 18689,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V7/05": {
+      "code": "F21V7/05",
+      "level": 2,
+      "parent": "F21V7/04",
+      "ja": "平面［１，７］",
+      "en": "plane",
+      "count": 1836,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V7/06": {
+      "code": "F21V7/06",
+      "level": 2,
+      "parent": "F21V7/04",
+      "ja": "放物線面をもつもの［１，７］",
+      "en": "with parabolic curvature",
+      "count": 2738,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V7/07": {
+      "code": "F21V7/07",
+      "level": 2,
+      "parent": "F21V7/04",
+      "ja": "双曲線面をもつもの［１，７］",
+      "en": "with hyperbolic curvature",
+      "count": 238,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V7/08": {
+      "code": "F21V7/08",
+      "level": 2,
+      "parent": "F21V7/04",
+      "ja": "だ円面をもつもの［１，７］",
+      "en": "with elliptical curvature",
+      "count": 1153,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V7/09": {
+      "code": "F21V7/09",
+      "level": 2,
+      "parent": "F21V7/04",
+      "ja": "異なる形状面を組み合わせたもの［１，７］",
+      "en": "with a combination of different curvatures",
+      "count": 4478,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V7/10": {
+      "code": "F21V7/10",
+      "level": 1,
+      "parent": "F21V7/00",
+      "ja": "構造［１，７］",
+      "en": "Construction",
+      "count": 6358,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V7/16": {
+      "code": "F21V7/16",
+      "level": 2,
+      "parent": "F21V7/10",
+      "ja": "曲面の調整できるもの［１，７］",
+      "en": "with provision for adjusting the curvature",
+      "count": 1051,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V7/18": {
+      "code": "F21V7/18",
+      "level": 2,
+      "parent": "F21V7/10",
+      "ja": "折りたたみできるもの［１，７］",
+      "en": "with provision for folding or collapsing",
+      "count": 441,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V7/22": {
+      "code": "F21V7/22",
+      "level": 1,
+      "parent": "F21V7/00",
+      "ja": "材料，表面処理またはコーティングに特徴のあるもの，例．ダイクロイックリフレクタ［２０１８．０１］",
+      "en": "characterised by materials, surface treatments or coatings, e.g. dichroic reflectors",
+      "count": 11507,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V7/24": {
+      "code": "F21V7/24",
+      "level": 2,
+      "parent": "F21V7/22",
+      "ja": "材料に特徴のあるもの［２０１８．０１］",
+      "en": "characterised by the material",
+      "count": 1515,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V7/26": {
+      "code": "F21V7/26",
+      "level": 3,
+      "parent": "F21V7/24",
+      "ja": "フォトルミネセンス物質からなる材料［２０１８．０１］",
+      "en": "the material comprising photoluminescent substances",
+      "count": 467,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V7/28": {
+      "code": "F21V7/28",
+      "level": 2,
+      "parent": "F21V7/22",
+      "ja": "コーティングに特徴のあるもの［２０１８．０１］",
+      "en": "characterised by coatings",
+      "count": 3141,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V7/30": {
+      "code": "F21V7/30",
+      "level": 3,
+      "parent": "F21V7/28",
+      "ja": "フォトルミネセンス物質からなるコーティング［２０１８．０１］",
+      "en": "the coatings comprising photoluminescent substances",
+      "count": 614,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V8/00": {
+      "code": "F21V8/00",
+      "level": 0,
+      "parent": "F21V",
+      "ja": "照明装置またはその系におけるライトガイド，例．光学繊維を用いた装置，の使用［４］",
+      "en": "Use of light guides, e.g. fibre optic devices, in lighting devices or systems",
+      "count": 59140,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V9/00": {
+      "code": "F21V9/00",
+      "level": 0,
+      "parent": "F21V",
+      "ja": "放射光の分光特性，偏光または強度を修正する要素，例．フィルタ（色付きかさＦ２１Ｖ１／００；冷却手段に特徴のあるものＦ２１Ｖ２９／５０２）［２０１８．０１］",
+      "en": "Elements for modifying spectral properties, polarisation or intensity of the light emitted, e.g. filters(coloured shades <b>F21V1/00</b>;   elements characterised by cooling arrangements <b>F21V29/502</b>)",
+      "count": 6748,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V9/02": {
+      "code": "F21V9/02",
+      "level": 1,
+      "parent": "F21V9/00",
+      "ja": "昼光に似せたもの（Ｆ２１Ｖ９／０４，Ｆ２１Ｖ９／０６が優先）［２０１８．０１］",
+      "en": "for simulating daylight  (<b>F21V9/04</b>, <b>F21V9/06</b> take precedence)",
+      "count": 790,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V9/04": {
+      "code": "F21V9/04",
+      "level": 1,
+      "parent": "F21V9/00",
+      "ja": "赤外線カットフィルタ（ダイクロイックリフレクタＦ２１Ｖ７／２２；液体を満たした容器を用いるものＦ２１Ｖ９／１２）［２０１８．０１］",
+      "en": "for filtering out infrared radiation  (dichroic reflectors <b>F21V7/22</b>;  using liquid-filled chambers <b>F21V9/12</b>)",
+      "count": 1200,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V9/06": {
+      "code": "F21V9/06",
+      "level": 1,
+      "parent": "F21V9/00",
+      "ja": "紫外線カットフィルタ［２０１８．０１］",
+      "en": "for filtering out ultraviolet radiation",
+      "count": 1125,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V9/08": {
+      "code": "F21V9/08",
+      "level": 1,
+      "parent": "F21V9/00",
+      "ja": "色光，例．単色光，を作るもの；光の強度を減少するもの（色を制御するものＦ２１Ｖ９／４０）［２０１８．０１］",
+      "en": "for producing coloured light, e.g. monochromatic; for reducing intensity of light(with provision for controlling the colour <b>F21V9/40</b>)",
+      "count": 5475,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V9/12": {
+      "code": "F21V9/12",
+      "level": 2,
+      "parent": "F21V9/08",
+      "ja": "液体を満たした容器を用いるもの",
+      "en": "with liquid-filled chambers",
+      "count": 365,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V9/14": {
+      "code": "F21V9/14",
+      "level": 1,
+      "parent": "F21V9/00",
+      "ja": "偏光を作るもの",
+      "en": "for producing polarised light",
+      "count": 1650,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V9/20": {
+      "code": "F21V9/20",
+      "level": 1,
+      "parent": "F21V9/00",
+      "ja": "ダイクロイックフィルタ，すなわち，電波干渉の原理に基づき作動し，他をキャンセルする一方で波長の特定範囲を通過させるための装置［２０１８．０１］",
+      "en": "Dichroic filters, i.e. devices operating on the principle of wave interference to pass specific ranges of wavelengths while cancelling others",
+      "count": 445,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V9/30": {
+      "code": "F21V9/30",
+      "level": 1,
+      "parent": "F21V9/00",
+      "ja": "光源とは異なる，または間隔がある，フォトルミネセンス材質を含有する要素（シェードＦ２１Ｖ１／１７；グローブ，ボウルまたは被覆ガラスＦ２１Ｖ３／０８，Ｆ２１Ｖ３／１２；屈折器Ｆ２１Ｖ５／１０；反射器Ｆ２１Ｖ７／２６，Ｆ２１Ｖ７／３０；分光特性または強度を制御するための装備Ｆ２１Ｖ９／４０）［２０１８．０１］",
+      "en": "Elements containing photoluminescent material distinct from or spaced from the light source (shades <b>F21V1/17</b>;  globes, bowls or cover glasses <b>F21V3/08</b>, <b>F21V3/12</b>;  refractors <b>F21V5/10</b>; reflectors <b>F21V7/26</b>, <b>F21V7/30</b>;  elements with provision for controlling spectral properties or intensity <b>F21V9/40</b>)",
+      "count": 2316,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V9/32": {
+      "code": "F21V9/32",
+      "level": 2,
+      "parent": "F21V9/30",
+      "ja": "フォトルミネセンス素材の配置に特徴のあるもの［２０１８．０１］",
+      "en": "characterised by the arrangement of the photoluminescent material",
+      "count": 1948,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V9/35": {
+      "code": "F21V9/35",
+      "level": 3,
+      "parent": "F21V9/32",
+      "ja": "焦点位置における，例．屈折器，レンズ，反射器または光源列のもの［２０１８．０１］",
+      "en": "at focal points, e.g. of refractors, lenses, reflectors or arrays of light sources",
+      "count": 368,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V9/38": {
+      "code": "F21V9/38",
+      "level": 2,
+      "parent": "F21V9/30",
+      "ja": "異なる材質の２以上のフォトルミネセンス要素の組み合わせ［２０１８．０１］",
+      "en": "Combination of two or more photoluminescent elements of different materials",
+      "count": 801,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V9/40": {
+      "code": "F21V9/40",
+      "level": 1,
+      "parent": "F21V9/00",
+      "ja": "分光特性，例．色彩，または強度，を制御するための装備［２０１８．０１］",
+      "en": "with provision for controlling spectral properties, e.g. colour, or intensity",
+      "count": 7298,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V9/45": {
+      "code": "F21V9/45",
+      "level": 2,
+      "parent": "F21V9/40",
+      "ja": "フォトルミネセンス要素の調整によるもの［２０１８．０１］",
+      "en": "by adjustment of photoluminescent elements",
+      "count": 473,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V11/00": {
+      "code": "F21V11/00",
+      "level": 0,
+      "parent": "F21V",
+      "ja": "グループＦ２１Ｖ１／００，Ｆ２１Ｖ３／００，Ｆ２１Ｖ７／００またはＦ２１Ｖ９／００に包含されないスクリーン（冷却手段に特徴のあるものＦ２１Ｖ２９／５０２）［１，２０１５．０１］",
+      "en": "Screens not covered by groups <b>F21V1/00</b>, <b>F21V3/00</b>, <b>F21V7/00</b> or <b>F21V9/00</b> (characterised by cooling arrangements <b>F21V29/502</b>)",
+      "count": 6174,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V11/02": {
+      "code": "F21V11/02",
+      "level": 1,
+      "parent": "F21V11/00",
+      "ja": "平行な薄片または条片，例．ベネチアンブラインド形，を用いるもの（Ｆ２１Ｖ１１／０６が優先）",
+      "en": "using parallel laminae or strips, e.g. of Venetian-blind type(<b>F21V11/06</b> takes precedence)",
+      "count": 1664,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V11/04": {
+      "code": "F21V11/04",
+      "level": 2,
+      "parent": "F21V11/02",
+      "ja": "調整できるもの",
+      "en": "adjustable",
+      "count": 453,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V11/06": {
+      "code": "F21V11/06",
+      "level": 1,
+      "parent": "F21V11/00",
+      "ja": "交差する薄片または条片を用いるもの；格子状またはハニカム状のものを用いるもの",
+      "en": "using crossed laminae or strips; using lattices or honeycombs",
+      "count": 1849,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V11/08": {
+      "code": "F21V11/08",
+      "level": 1,
+      "parent": "F21V11/00",
+      "ja": "開口のある絞りを用いるもの",
+      "en": "using diaphragms containing one or more apertures",
+      "count": 779,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V11/10": {
+      "code": "F21V11/10",
+      "level": 2,
+      "parent": "F21V11/08",
+      "ja": "アイリス型のもの",
+      "en": "of iris type",
+      "count": 234,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V11/12": {
+      "code": "F21V11/12",
+      "level": 2,
+      "parent": "F21V11/08",
+      "ja": "スロット型のもの",
+      "en": "of slot type",
+      "count": 245,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V11/14": {
+      "code": "F21V11/14",
+      "level": 2,
+      "parent": "F21V11/08",
+      "ja": "多くの小さな開口をもつもの",
+      "en": "with many small apertures",
+      "count": 798,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V11/16": {
+      "code": "F21V11/16",
+      "level": 1,
+      "parent": "F21V11/00",
+      "ja": "穴のない板を用いるもの，例．固定されたもの",
+      "en": "using sheets without apertures, e.g. fixed",
+      "count": 2259,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V11/18": {
+      "code": "F21V11/18",
+      "level": 2,
+      "parent": "F21V11/16",
+      "ja": "可動のもの，例．フラップ，スライド",
+      "en": "movable, e.g. flaps, slides",
+      "count": 969,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V13/00": {
+      "code": "F21V13/00",
+      "level": 0,
+      "parent": "F21V",
+      "ja": "メイングループＦ２１Ｖ１／００～Ｆ２１Ｖ１１／００までの２以上にわたる要素の組み合わせにより，光の特有な性質または配光を得るもの（要素を調整して配光を制御するものＦ２１Ｖ１４／００）［１，７］",
+      "en": "Producing particular characteristics or distribution of the light emitted by means of a combination of elements specified in two or more of main groups <b>F21V1/00 to F21V11/00</b> (controlling the distribution of the light emitted by adjustment of elements <b>F21V14/00</b>)",
+      "count": 7471,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V13/02": {
+      "code": "F21V13/02",
+      "level": 1,
+      "parent": "F21V13/00",
+      "ja": "２種類のみの要素の組み合わせ",
+      "en": "Combinations of only two kinds of elements",
+      "count": 4824,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V13/04": {
+      "code": "F21V13/04",
+      "level": 2,
+      "parent": "F21V13/02",
+      "ja": "要素が反射器および屈折器であるもの",
+      "en": "the elements being reflectors and refractors",
+      "count": 7524,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V13/06": {
+      "code": "F21V13/06",
+      "level": 3,
+      "parent": "F21V13/04",
+      "ja": "反射器が回転できるもの",
+      "en": "a reflector being rotatable",
+      "count": 249,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V13/08": {
+      "code": "F21V13/08",
+      "level": 2,
+      "parent": "F21V13/02",
+      "ja": "要素がフィルタまたはフォトルミネセンス要素および反射器であるもの",
+      "en": "the elements being filters or photoluminescent elements and reflectors",
+      "count": 762,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V13/10": {
+      "code": "F21V13/10",
+      "level": 2,
+      "parent": "F21V13/02",
+      "ja": "要素が反射器およびスクリーンであるもの",
+      "en": "the elements being reflectors and screens",
+      "count": 1120,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V13/12": {
+      "code": "F21V13/12",
+      "level": 1,
+      "parent": "F21V13/00",
+      "ja": "３種類のみの要素の組み合わせ",
+      "en": "Combinations of only three kinds of elements",
+      "count": 2653,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V13/14": {
+      "code": "F21V13/14",
+      "level": 2,
+      "parent": "F21V13/12",
+      "ja": "要素がフィルタまたはフォトルミネセンス要素，反射器および屈折器であるもの",
+      "en": "the elements being filters or photoluminescent elements, reflectors and refractors",
+      "count": 587,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V14/00": {
+      "code": "F21V14/00",
+      "level": 0,
+      "parent": "F21V",
+      "ja": "要素を調整して配光を制御するもの（曲面を調整できる反射器Ｆ２１Ｖ７／１６；色または強度を制御する光フィルタ等Ｆ２１Ｖ９／４０；調整可能な平行な薄片または条片を用いるスクリーンＦ２１Ｖ１１／０４；アイリス型絞りを用いるスクリーンＦ２１Ｖ１１／１０；穴のない可動板を用いるスクリーンＦ２１Ｖ１１／１８；照明装置の調整可能な取付具Ｆ２１Ｖ２１／１４）［２０１８．０１］",
+      "en": "Controlling the distribution of the light emitted by adjustment of elements(reflectors with provision for adjusting the curvature <b>F21V7/16</b>;   light filters or the like with provision for controlling the colour or intensity <b>F21V9/40</b>;   screens using adjustable parallel laminae or strips <b>F21V11/04</b>;   screens using iris-type diaphragms <b>F21V11/10</b>;   screens using movable sheets without apertures <b>F21V11/18</b>;   adjustable mountings for lighting devices <b>F21V21/14</b>)",
+      "count": 11168,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V14/02": {
+      "code": "F21V14/02",
+      "level": 1,
+      "parent": "F21V14/00",
+      "ja": "光源を動かすことによるもの［７］",
+      "en": "by movement of light sources",
+      "count": 17235,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V14/04": {
+      "code": "F21V14/04",
+      "level": 1,
+      "parent": "F21V14/00",
+      "ja": "反射器を動かすことによるもの［７］",
+      "en": "by movement of reflectors",
+      "count": 7684,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V14/06": {
+      "code": "F21V14/06",
+      "level": 1,
+      "parent": "F21V14/00",
+      "ja": "屈折器を動かすことによるもの［７］",
+      "en": "by movement of refractors",
+      "count": 6350,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V14/08": {
+      "code": "F21V14/08",
+      "level": 1,
+      "parent": "F21V14/00",
+      "ja": "スクリーンを動かすことによるもの［７］",
+      "en": "by movement of screens",
+      "count": 5819,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V15/00": {
+      "code": "F21V15/00",
+      "level": 0,
+      "parent": "F21V",
+      "ja": "照明装置の防護（熱的損傷からの防護Ｆ２１Ｖ２９／００；気密または水密装置Ｆ２１Ｖ３１／００）［１，２０１５．０１］",
+      "en": "Protecting lighting devices from damage(protection from thermal damage <b>F21V29/00</b>; gas-tight or water-tight arrangements <b>F21V31/00</b>)",
+      "count": 18060,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V15/01": {
+      "code": "F21V15/01",
+      "level": 1,
+      "parent": "F21V15/00",
+      "ja": "ハウジング，例．ハウジング部品の素材または組立（Ｆ２１Ｖ１５／０２が優先）［７］",
+      "en": "Housings, e.g. material or assembling of housing parts(<b>F21V15/02</b> takes precedence)",
+      "count": 30795,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V15/015": {
+      "code": "F21V15/015",
+      "level": 2,
+      "parent": "F21V15/01",
+      "ja": "隣接する照明装置間の接続部を覆う装置；端部の覆い［７］",
+      "en": "Devices for covering joints between adjacent lighting devices; End coverings",
+      "count": 2329,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V15/02": {
+      "code": "F21V15/02",
+      "level": 1,
+      "parent": "F21V15/00",
+      "ja": "かご",
+      "en": "Cages",
+      "count": 15281,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V15/04": {
+      "code": "F21V15/04",
+      "level": 1,
+      "parent": "F21V15/00",
+      "ja": "弾性体，例．衝撃緩衝体",
+      "en": "Resilient mountings, e.g. shock-absorbers",
+      "count": 11504,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V17/00": {
+      "code": "F21V17/00",
+      "level": 0,
+      "parent": "F21V",
+      "ja": "照明装置の部品の固定，例．かさ，グローブ，屈折器，反射器，フィルター，スクリーン，グリッド，または保護かごの固定（光源またはランプホルダーの固定Ｆ２１Ｖ１９／００）",
+      "en": "Fastening of component parts of lighting devices, e.g. shades, globes, refractors, reflectors, filters, screens, grids or protective cages(of light sources or light holders <b>F21V19/00</b>)",
+      "count": 37975,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V17/02": {
+      "code": "F21V17/02",
+      "level": 1,
+      "parent": "F21V17/00",
+      "ja": "調整できるもの（Ｆ２１Ｖ１７／０４～Ｆ２１Ｖ１７／０８が優先）［１，７］",
+      "en": "with provision for adjustment(<b>F21V17/04 to F21V17/08</b>  take precedence)",
+      "count": 9215,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V17/04": {
+      "code": "F21V17/04",
+      "level": 1,
+      "parent": "F21V17/00",
+      "ja": "光源の表面，または近傍への部品の固定",
+      "en": "onto or by the light source",
+      "count": 1879,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V17/06": {
+      "code": "F21V17/06",
+      "level": 1,
+      "parent": "F21V17/00",
+      "ja": "ランプホルダの表面，または近傍への部品の固定",
+      "en": "onto or by the lamp holder",
+      "count": 3270,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V17/08": {
+      "code": "F21V17/08",
+      "level": 1,
+      "parent": "F21V17/00",
+      "ja": "照明装置の支持またはつり下げ装置への部品の固定，例．電源コード，支柱への部品の固定［７］",
+      "en": "onto the supporting or suspending arrangements of the lighting device, e.g. power cords, standards",
+      "count": 1047,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V17/10": {
+      "code": "F21V17/10",
+      "level": 1,
+      "parent": "F21V17/00",
+      "ja": "特に固定手段または方法に特徴のあるもの（Ｆ２１Ｖ１７／０２～Ｆ２１Ｖ１７／０８が優先）［７］",
+      "en": "characterised by specific fastening means or way of fastening(<b>F21V17/02 to F21V17/08</b>  take precedence)",
+      "count": 63332,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V17/12": {
+      "code": "F21V17/12",
+      "level": 2,
+      "parent": "F21V17/10",
+      "ja": "ねじによるもの［７］",
+      "en": "by screwing",
+      "count": 50113,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V17/14": {
+      "code": "F21V17/14",
+      "level": 2,
+      "parent": "F21V17/10",
+      "ja": "バヨネット結合によるもの［７］",
+      "en": "Bayonet-type fastening",
+      "count": 2180,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V17/16": {
+      "code": "F21V17/16",
+      "level": 2,
+      "parent": "F21V17/10",
+      "ja": "照明装置の部品の変形によるもの；スナップ［７］",
+      "en": "by deformation of parts of the lighting device; Snap action mounting",
+      "count": 45951,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V17/18": {
+      "code": "F21V17/18",
+      "level": 2,
+      "parent": "F21V17/10",
+      "ja": "掛け金によるもの，例．回転動作して掛けるもの［７］",
+      "en": "Latch-type fastening, e.g. with rotary action",
+      "count": 1532,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V17/20": {
+      "code": "F21V17/20",
+      "level": 2,
+      "parent": "F21V17/10",
+      "ja": "トグルレバーによるもの［７］",
+      "en": "by toggle-action levers",
+      "count": 213,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V19/00": {
+      "code": "F21V19/00",
+      "level": 0,
+      "parent": "F21V",
+      "ja": "光源またはランプホルダの固定（嵌合装置だけで光源を固定するものＨ０１Ｒ３３／００）",
+      "en": "Fastening of light sources or lamp holders(fastening electric light source solely by the coupling device <b>H01R33/00</b>)",
+      "count": 132366,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V19/02": {
+      "code": "F21V19/02",
+      "level": 1,
+      "parent": "F21V19/00",
+      "ja": "調整できるもの，例．焦点調整［１，７］",
+      "en": "with provision for adjustment, e.g. for focusing",
+      "count": 14259,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V19/04": {
+      "code": "F21V19/04",
+      "level": 1,
+      "parent": "F21V19/00",
+      "ja": "光源を交換するための手段を備えたもの，例．ターレット",
+      "en": "with provision for changing light source, e.g. turret",
+      "count": 3740,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V19/06": {
+      "code": "F21V19/06",
+      "level": 1,
+      "parent": "F21V19/00",
+      "ja": "白熱マントルまたはその他の白熱体のランプ部への固定；白熱マントルまたはその他の白熱体のつりさげ具（バーナ上のマントルまたはそれ以外の白熱体の配置Ｆ２１Ｖ３６／００）［１，７］",
+      "en": "Fastening incandescent mantles or other incandescent bodies to lamp parts; Suspension devices for incandescent mantles or other incandescent bodies(arrangements of mantles or other incandescent bodies on burners <b>F21V36/00</b>)",
+      "count": 255,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V21/00": {
+      "code": "F21V21/00",
+      "level": 0,
+      "parent": "F21V",
+      "ja": "照明装置の支持，つり下げ，または取付手段（Ｆ２１Ｖ１７／００，Ｆ２１Ｖ１９／００が優先）；グリップ［１，７］",
+      "en": "Supporting, suspending, or attaching arrangements for lighting devices(<b>F21V17/00</b>, <b>F21V19/00</b> take precedence);Hand grips",
+      "count": 33842,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V21/002": {
+      "code": "F21V21/002",
+      "level": 1,
+      "parent": "F21V21/00",
+      "ja": "直接，電気的接触をするもの，例．突き刺すことによるもの（Ｆ２１Ｖ２１／３５が優先）［７］",
+      "en": "making direct electrical contact, e.g. by piercing(<b>F21V21/35</b> takes precedence)",
+      "count": 6964,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V21/005": {
+      "code": "F21V21/005",
+      "level": 1,
+      "parent": "F21V21/00",
+      "ja": "端部を連結した複数の照明装置のためのもの，すなわち，ライト・トラック［７］",
+      "en": "for several lighting devices in an end-to-end arrangement, i.e. light tracks",
+      "count": 3454,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V21/008": {
+      "code": "F21V21/008",
+      "level": 1,
+      "parent": "F21V21/00",
+      "ja": "ケーブルまたはつり下げ綱でつり下げるもの［７］",
+      "en": "Suspending from a cable or suspension line",
+      "count": 980,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V21/02": {
+      "code": "F21V21/02",
+      "level": 1,
+      "parent": "F21V21/00",
+      "ja": "壁用，天井用，床用取付台；ペンダント，またはアームの取付台（Ｆ２１Ｖ２１／０８が優先；移動可能なスタンドランプ取付台Ｆ２１Ｖ２１／０６）",
+      "en": "Wall, ceiling, or floor bases; Fixing pendants or arms to the bases(<b>F21V21/08</b> takes precedence; bases for movable standing lamps <b>F21V21/06</b>)",
+      "count": 20464,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V21/03": {
+      "code": "F21V21/03",
+      "level": 2,
+      "parent": "F21V21/02",
+      "ja": "天井用取付台，例．天井用ローゼット（Ｆ２１Ｖ２１／０４が優先）［７］",
+      "en": "Ceiling bases, e.g. ceiling roses(<b>F21V21/04</b> takes precedence)",
+      "count": 4359,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V21/04": {
+      "code": "F21V21/04",
+      "level": 2,
+      "parent": "F21V21/02",
+      "ja": "埋め込み取り付け台",
+      "en": "Recessed bases",
+      "count": 7923,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V21/06": {
+      "code": "F21V21/06",
+      "level": 1,
+      "parent": "F21V21/00",
+      "ja": "移動可能なスタンドランプ用取り付け台；支柱の取り付け台への取り付け（Ｆ２１Ｖ２１／０８が優先）",
+      "en": "Bases for movable standing lamps; Fixing standards to the bases(<b>F21V21/08</b> takes precedence)",
+      "count": 9409,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V21/08": {
+      "code": "F21V21/08",
+      "level": 1,
+      "parent": "F21V21/00",
+      "ja": "任意の場所に容易に取り付けるための装置",
+      "en": "Devices for easy attachment to a desired place",
+      "count": 9884,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V21/084": {
+      "code": "F21V21/084",
+      "level": 2,
+      "parent": "F21V21/08",
+      "ja": "頭部用取り付け具［７］",
+      "en": "Head fittings",
+      "count": 2451,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V21/088": {
+      "code": "F21V21/088",
+      "level": 2,
+      "parent": "F21V21/08",
+      "ja": "クリップ，クランプ［７］",
+      "en": "Clips; Clamps",
+      "count": 5848,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V21/092": {
+      "code": "F21V21/092",
+      "level": 2,
+      "parent": "F21V21/08",
+      "ja": "吸引装置［７］",
+      "en": "Suction devices",
+      "count": 3585,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V21/096": {
+      "code": "F21V21/096",
+      "level": 2,
+      "parent": "F21V21/08",
+      "ja": "マグネット装置［７］",
+      "en": "Magnetic devices",
+      "count": 6605,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V21/10": {
+      "code": "F21V21/10",
+      "level": 1,
+      "parent": "F21V21/00",
+      "ja": "ペンダント，アームまたは支柱；それらのものへの照明装置の取り付け（調整可能な取り付け具Ｆ２１Ｖ２１／１４）",
+      "en": "Pendants, arms or standards; Fixing lighting devices to pendants, arms or standards(adjustable mounting <b>F21V21/14</b>)",
+      "count": 18374,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V21/104": {
+      "code": "F21V21/104",
+      "level": 2,
+      "parent": "F21V21/10",
+      "ja": "ペンダント［７］",
+      "en": "Pendants",
+      "count": 3871,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V21/108": {
+      "code": "F21V21/108",
+      "level": 2,
+      "parent": "F21V21/10",
+      "ja": "アーム［７］",
+      "en": "Arms",
+      "count": 5946,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V21/112": {
+      "code": "F21V21/112",
+      "level": 2,
+      "parent": "F21V21/10",
+      "ja": "ペンダントへの照明装置の取り付け（Ｆ２１Ｖ２１／００２が優先）［７］",
+      "en": "Fixing lighting devices to pendants(<b>F21V21/002</b> takes precedence)",
+      "count": 1453,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V21/116": {
+      "code": "F21V21/116",
+      "level": 2,
+      "parent": "F21V21/10",
+      "ja": "アームまたは支柱への照明装置の取り付け（Ｆ２１Ｖ２１／００２が優先）［７］",
+      "en": "Fixing lighting devices to arms or standards(<b>F21V21/002</b> takes precedence)",
+      "count": 5794,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V21/12": {
+      "code": "F21V21/12",
+      "level": 2,
+      "parent": "F21V21/10",
+      "ja": "中間部品をそう入または除去することにより伸縮可能なもの",
+      "en": "capable of being elongated or shortened by the insertion or removal of intermediate pieces",
+      "count": 738,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V21/13": {
+      "code": "F21V21/13",
+      "level": 1,
+      "parent": "F21V21/00",
+      "ja": "両端で取付けるスプリングを内蔵したポール［７］",
+      "en": "Spring-loaded poles fixed at both ends",
+      "count": 73,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V21/14": {
+      "code": "F21V21/14",
+      "level": 1,
+      "parent": "F21V21/00",
+      "ja": "調整可能な取り付け具",
+      "en": "Adjustable mountings",
+      "count": 33985,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V21/15": {
+      "code": "F21V21/15",
+      "level": 2,
+      "parent": "F21V21/14",
+      "ja": "動力操作に特に適合させたもの，例．リモート・コントロールによるもの［７］",
+      "en": "specially adapted for power operation, e.g. by remote control",
+      "count": 13346,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V21/16": {
+      "code": "F21V21/16",
+      "level": 2,
+      "parent": "F21V21/14",
+      "ja": "ワイヤまたはコードを用いるもの",
+      "en": "using wires or cords",
+      "count": 2658,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V21/18": {
+      "code": "F21V21/18",
+      "level": 3,
+      "parent": "F21V21/16",
+      "ja": "スプリングで操作するもの",
+      "en": "operated by springs",
+      "count": 608,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V21/20": {
+      "code": "F21V21/20",
+      "level": 3,
+      "parent": "F21V21/16",
+      "ja": "錘で操作するもの",
+      "en": "operated by weights",
+      "count": 385,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V21/22": {
+      "code": "F21V21/22",
+      "level": 2,
+      "parent": "F21V21/14",
+      "ja": "伸縮自在のもの",
+      "en": "telescopic",
+      "count": 18268,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V21/24": {
+      "code": "F21V21/24",
+      "level": 2,
+      "parent": "F21V21/14",
+      "ja": "レジートング",
+      "en": "Lazy-tongs",
+      "count": 185,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V21/26": {
+      "code": "F21V21/26",
+      "level": 2,
+      "parent": "F21V21/14",
+      "ja": "回転するアーム",
+      "en": "Pivoted arms",
+      "count": 8243,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V21/28": {
+      "code": "F21V21/28",
+      "level": 3,
+      "parent": "F21V21/26",
+      "ja": "一平面以上で調整できるもの",
+      "en": "adjustable in more than one plane",
+      "count": 1382,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V21/29": {
+      "code": "F21V21/29",
+      "level": 4,
+      "parent": "F21V21/28",
+      "ja": "ユニバーサルジョイントを用いるもの",
+      "en": "employing universal joints",
+      "count": 1763,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V21/30": {
+      "code": "F21V21/30",
+      "level": 2,
+      "parent": "F21V21/14",
+      "ja": "回転する外箱またはフレーム",
+      "en": "Pivoted housings or frames",
+      "count": 30139,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V21/32": {
+      "code": "F21V21/32",
+      "level": 2,
+      "parent": "F21V21/14",
+      "ja": "可とう管",
+      "en": "Flexible tubes",
+      "count": 3569,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V21/34": {
+      "code": "F21V21/34",
+      "level": 1,
+      "parent": "F21V21/00",
+      "ja": "ガイド部材に沿って移動可能な支持手段",
+      "en": "Supporting elements displaceable along a guiding element",
+      "count": 11095,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V21/35": {
+      "code": "F21V21/35",
+      "level": 2,
+      "parent": "F21V21/34",
+      "ja": "ガイド部材に沿った電線と支持手段との間で，直接，電気的接触をするもの［７］",
+      "en": "with direct electrical contact between the supporting element and electric conductors running along the guiding element",
+      "count": 2834,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V21/36": {
+      "code": "F21V21/36",
+      "level": 1,
+      "parent": "F21V21/00",
+      "ja": "昇降装置，例．保守用",
+      "en": "Hoisting or lowering devices, e.g. for maintenance",
+      "count": 17036,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V21/38": {
+      "code": "F21V21/38",
+      "level": 2,
+      "parent": "F21V21/36",
+      "ja": "ケーブルによるもの",
+      "en": "with a cable",
+      "count": 3207,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V21/40": {
+      "code": "F21V21/40",
+      "level": 1,
+      "parent": "F21V21/00",
+      "ja": "取っ手［７］",
+      "en": "Hand grips",
+      "count": 5669,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V23/00": {
+      "code": "F21V23/00",
+      "level": 0,
+      "parent": "F21V",
+      "ja": "照明装置内外への電気回路素子の配置（熱的損傷からの照明装置の防護Ｆ２１Ｖ２９／００）［１，２０１５．０１］",
+      "en": "Arrangement of electric circuit elements in or on lighting devices(protecting lighting devices from thermal damage <b>F21V29/00</b>)",
+      "count": 134888,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V23/02": {
+      "code": "F21V23/02",
+      "level": 1,
+      "parent": "F21V23/00",
+      "ja": "素子が変圧器またはインピーダンスであるもの",
+      "en": "the elements being transformers or impedances",
+      "count": 12046,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V23/04": {
+      "code": "F21V23/04",
+      "level": 1,
+      "parent": "F21V23/00",
+      "ja": "素子がスイッチであるもの（保安装置Ｆ２１Ｖ２５／００）",
+      "en": "the elements being switches(safety devices <b>F21V25/00</b>)",
+      "count": 71093,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V23/06": {
+      "code": "F21V23/06",
+      "level": 1,
+      "parent": "F21V23/00",
+      "ja": "素子がコネクタであるもの",
+      "en": "the elements being coupling devices",
+      "count": 44416,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V25/00": {
+      "code": "F21V25/00",
+      "level": 0,
+      "parent": "F21V",
+      "ja": "照明装置に組み込まれた保安装置（気密または水密手段Ｆ２１Ｖ３１／００）",
+      "en": "Safety devices structurally associated with lighting devices(gas-tight or water-tight arrangements <b>F21V31/00</b>)",
+      "count": 5258,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V25/02": {
+      "code": "F21V25/02",
+      "level": 1,
+      "parent": "F21V25/00",
+      "ja": "照明装置が故障，脱落または破壊した時に動作するもの",
+      "en": "coming into action when lighting device is disturbed, dismounted, or broken",
+      "count": 852,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V25/04": {
+      "code": "F21V25/04",
+      "level": 2,
+      "parent": "F21V25/02",
+      "ja": "電気回路のしゃ断",
+      "en": "breaking the electric circuit",
+      "count": 1259,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V25/06": {
+      "code": "F21V25/06",
+      "level": 2,
+      "parent": "F21V25/02",
+      "ja": "光源への消火液の供給",
+      "en": "feeding a quenching fluid to the light source",
+      "count": 96,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V25/08": {
+      "code": "F21V25/08",
+      "level": 2,
+      "parent": "F21V25/02",
+      "ja": "白熱フィラメントの切断",
+      "en": "cutting the incandescent filament",
+      "count": 13,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V25/10": {
+      "code": "F21V25/10",
+      "level": 1,
+      "parent": "F21V25/00",
+      "ja": "照明装置が過負荷になると作動するもの，例．サーマルスイッチ",
+      "en": "coming into action when lighting device is over-loaded, e.g. thermal switch",
+      "count": 746,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V25/12": {
+      "code": "F21V25/12",
+      "level": 1,
+      "parent": "F21V25/00",
+      "ja": "防炎または防爆装置",
+      "en": "Flameproof or explosion-proof arrangements",
+      "count": 5693,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V27/00": {
+      "code": "F21V27/00",
+      "level": 0,
+      "parent": "F21V",
+      "ja": "照明器具に組み込まれたケーブル収納手段，例．リール",
+      "en": "Cable-stowing arrangements structurally associated with lighting devices, e.g. reels",
+      "count": 5160,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V27/02": {
+      "code": "F21V27/02",
+      "level": 1,
+      "parent": "F21V27/00",
+      "ja": "ケーブル収納口［７］",
+      "en": "Cable inlets",
+      "count": 693,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V29/00": {
+      "code": "F21V29/00",
+      "level": 0,
+      "parent": "F21V",
+      "ja": "熱的損傷からの照明装置の防護；照明装置またはシステムに特に適合した冷却または加熱手段（空気処理システム用の吹出口と組み合わされた照明器具Ｆ２４Ｆ１３／０７８）［１，７，２０１５．０１］",
+      "en": "Protecting lighting devices from thermal damage; Cooling or heating arrangements specially adapted for lighting devices or systems(lighting fixtures combined with outlets for air-treatment systems <b>F24F13/078</b>)",
+      "count": 26266,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V29/10": {
+      "code": "F21V29/10",
+      "level": 1,
+      "parent": "F21V29/00",
+      "ja": "熱的損傷を減少するための発熱部品の配置，例．保護すべき部品から距離を置いて発熱部品を配置することによるもの［２０１５．０１］",
+      "en": "Arrangement of heat-generating components to reduce thermal damage, e.g. by distancing heat-generating components from other components to be protected",
+      "count": 1676,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V29/15": {
+      "code": "F21V29/15",
+      "level": 1,
+      "parent": "F21V29/00",
+      "ja": "断熱［２０１５．０１］",
+      "en": "Thermal insulation",
+      "count": 2358,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V29/50": {
+      "code": "F21V29/50",
+      "level": 1,
+      "parent": "F21V29/00",
+      "ja": "冷却手段（照明器具の熱を放散または使用する空気処理システムＦ２４Ｆ３／０５６）［２０１５．０１］",
+      "en": "Cooling arrangements(air-treatment systems dissipating or using the heat of lighting fixtures <b>F24F3/056</b>)",
+      "count": 7208,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V29/502": {
+      "code": "F21V29/502",
+      "level": 2,
+      "parent": "F21V29/50",
+      "ja": "特定部品の冷却に特徴のあるもの［２０１５．０１］",
+      "en": "characterised by the adaptation for cooling of specific components",
+      "count": 1555,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V29/503": {
+      "code": "F21V29/503",
+      "level": 3,
+      "parent": "F21V29/502",
+      "ja": "光源の冷却（ガス放電または蒸気放電ランプと構造的に関連する冷却装置Ｈ０１Ｊ６１／５２；電気発熱灯と構造的に関連する冷却装置Ｈ０１Ｋ１／５８；発光ダイオードと構造的に関連する冷却装置Ｈ１０Ｈ２０／８５８）［２０１５．０１］",
+      "en": "of light sources (cooling arrangements structurally associated with gas-discharge or vapour-discharge lamps <b>H01J61/52</b>;  cooling arrangements structurally associated with electric incandescent lamps <b>H01K1/58</b>;  cooling arrangements structurally associated with light-emitting diodes <b>H10H20/858</b>)",
+      "count": 19811,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V29/504": {
+      "code": "F21V29/504",
+      "level": 3,
+      "parent": "F21V29/502",
+      "ja": "屈折器の冷却［２０１５．０１］",
+      "en": "of refractors",
+      "count": 264,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V29/505": {
+      "code": "F21V29/505",
+      "level": 3,
+      "parent": "F21V29/502",
+      "ja": "反射器の冷却［２０１５．０１］",
+      "en": "of reflectors",
+      "count": 1364,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V29/506": {
+      "code": "F21V29/506",
+      "level": 3,
+      "parent": "F21V29/502",
+      "ja": "グローブ，ボールまたはおおいガラスの冷却［２０１５．０１］",
+      "en": "of globes, bowls or cover glasses",
+      "count": 2337,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V29/507": {
+      "code": "F21V29/507",
+      "level": 3,
+      "parent": "F21V29/502",
+      "ja": "照明装置の防護手段，例．ハウジング，の冷却［２０１５．０１］",
+      "en": "of means for protecting lighting devices from damage, e.g. housings",
+      "count": 2939,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V29/508": {
+      "code": "F21V29/508",
+      "level": 3,
+      "parent": "F21V29/502",
+      "ja": "電気回路の冷却［２０１５．０１］",
+      "en": "of electrical circuits",
+      "count": 6160,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V29/51": {
+      "code": "F21V29/51",
+      "level": 2,
+      "parent": "F21V29/50",
+      "ja": "流体の凝縮または蒸発を使用するもの，例．ヒートパイプ［２０１５．０１］",
+      "en": "using condensation or evaporation of a fluid, e.g. heat pipes",
+      "count": 3270,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V29/52": {
+      "code": "F21V29/52",
+      "level": 3,
+      "parent": "F21V29/51",
+      "ja": "電気駆動のもの［２０１５．０１］",
+      "en": "electrically powered, e.g. refrigeration systems",
+      "count": 153,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V29/54": {
+      "code": "F21V29/54",
+      "level": 2,
+      "parent": "F21V29/50",
+      "ja": "熱電手段を使用するもの，例．ペルチェ素子［２０１５．０１］",
+      "en": "using thermoelectric means, e.g. Peltier elements",
+      "count": 1219,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V29/56": {
+      "code": "F21V29/56",
+      "level": 2,
+      "parent": "F21V29/50",
+      "ja": "冷却液を使用するもの（Ｆ２１Ｖ２９／５１が優先）［２０１５．０１］",
+      "en": "using liquid coolants(<b>F21V29/51</b> takes precedence)",
+      "count": 5191,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V29/57": {
+      "code": "F21V29/57",
+      "level": 3,
+      "parent": "F21V29/56",
+      "ja": "制御手段に特徴のあるもの［２０１５．０１］",
+      "en": "characterised by control arrangements",
+      "count": 659,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V29/58": {
+      "code": "F21V29/58",
+      "level": 3,
+      "parent": "F21V29/56",
+      "ja": "冷却液に特徴のあるもの［２０１５．０１］",
+      "en": "characterised by the coolants",
+      "count": 1098,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V29/60": {
+      "code": "F21V29/60",
+      "level": 2,
+      "parent": "F21V29/50",
+      "ja": "気体，例．空気，の強制流動の使用に特徴のあるもの［２０１５．０１］",
+      "en": "characterised by the use of a forced flow of gas, e.g. air",
+      "count": 5675,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V29/61": {
+      "code": "F21V29/61",
+      "level": 3,
+      "parent": "F21V29/60",
+      "ja": "制御手段に特徴のあるもの［２０１５．０１］",
+      "en": "characterised by control arrangements",
+      "count": 1820,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V29/63": {
+      "code": "F21V29/63",
+      "level": 3,
+      "parent": "F21V29/60",
+      "ja": "電気駆動振動手段を使用するもの；イオン風を使用するもの［２０１５．０１］",
+      "en": "using electrically-powered vibrating means; using ionic wind",
+      "count": 108,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V29/65": {
+      "code": "F21V29/65",
+      "level": 3,
+      "parent": "F21V29/60",
+      "ja": "閉回路の中で気体を流動させるもの［２０１５．０１］",
+      "en": "the gas flowing in a closed circuit",
+      "count": 191,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V29/67": {
+      "code": "F21V29/67",
+      "level": 3,
+      "parent": "F21V29/60",
+      "ja": "ファンの配置に特徴のあるもの［２０１５．０１］",
+      "en": "characterised by the arrangement of fans",
+      "count": 18299,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V29/70": {
+      "code": "F21V29/70",
+      "level": 2,
+      "parent": "F21V29/50",
+      "ja": "自然冷却による放熱体に特徴のあるもの，例．ヒートシンク［２０１５．０１］",
+      "en": "characterised by passive heat-dissipating elements, e.g. heat-sinks",
+      "count": 25286,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V29/71": {
+      "code": "F21V29/71",
+      "level": 3,
+      "parent": "F21V29/70",
+      "ja": "別々の放熱体を熱伝導手段により相互接続したもの，例．別々のヒートシンクの間をヒートパイプまたは熱伝導棒で接続したもの［２０１５．０１］",
+      "en": "using a combination of separate elements interconnected by heat-conducting means, e.g. with heat pipes or thermally conductive bars between separate heat-sink elements",
+      "count": 9265,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V29/73": {
+      "code": "F21V29/73",
+      "level": 3,
+      "parent": "F21V29/70",
+      "ja": "放熱体が相互に調節可能なもの，例．ヒンジ結合されたもの［２０１５．０１］",
+      "en": "the elements being adjustable with respect to each other, e.g. hinged",
+      "count": 154,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V29/74": {
+      "code": "F21V29/74",
+      "level": 3,
+      "parent": "F21V29/70",
+      "ja": "フィンまたはブレードのあるもの［２０１５．０１］",
+      "en": "with fins or blades",
+      "count": 17798,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V29/75": {
+      "code": "F21V29/75",
+      "level": 4,
+      "parent": "F21V29/74",
+      "ja": "異なる形状，厚みまたは間隔をもつフィンまたはブレードのあるもの［２０１５．０１］",
+      "en": "with fins or blades having different shapes, thicknesses or spacing",
+      "count": 580,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V29/76": {
+      "code": "F21V29/76",
+      "level": 4,
+      "parent": "F21V29/74",
+      "ja": "実質的に同一のフィンまたはブレードが平行に配置されるもの，例．櫛のような横断面をもつもの［２０１５．０１］",
+      "en": "with essentially identical parallel planar fins or blades, e.g. with comb-like cross-section",
+      "count": 10843,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V29/77": {
+      "code": "F21V29/77",
+      "level": 4,
+      "parent": "F21V29/74",
+      "ja": "実質的に同一のフィンまたはブレードが放射状に配置されるもの，例．ファンまたは星のような横断面をもつもの［２０１５．０１］",
+      "en": "with essentially identical diverging planar fins or blades, e.g. with fan-like or star-like cross-section",
+      "count": 7808,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V29/78": {
+      "code": "F21V29/78",
+      "level": 4,
+      "parent": "F21V29/74",
+      "ja": "フィンまたはブレードがらせん状または渦巻き状に配置されるもの［２０１５．０１］",
+      "en": "with helically or spirally arranged fins or blades",
+      "count": 400,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V29/80": {
+      "code": "F21V29/80",
+      "level": 3,
+      "parent": "F21V29/70",
+      "ja": "ピンまたはワイヤのあるもの［２０１５．０１］",
+      "en": "with pins or wires",
+      "count": 385,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V29/81": {
+      "code": "F21V29/81",
+      "level": 4,
+      "parent": "F21V29/80",
+      "ja": "形状，長さまたは間隔が異なるピンまたはワイヤのあるもの［２０１５．０１］",
+      "en": "with pins or wires having different shapes, lengths or spacing",
+      "count": 53,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V29/83": {
+      "code": "F21V29/83",
+      "level": 3,
+      "parent": "F21V29/70",
+      "ja": "放熱体が開口部，ダクトまたは溝をもつもの，例．熱放射孔［２０１５．０１］",
+      "en": "the elements having apertures, ducts or channels, e.g. heat radiation holes",
+      "count": 31488,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V29/85": {
+      "code": "F21V29/85",
+      "level": 1,
+      "parent": "F21V29/00",
+      "ja": "材料に特徴のあるもの（冷却液Ｆ２１Ｖ２９／５６）［２０１５．０１］",
+      "en": "characterised by the material(liquid coolants <b>F21V29/56</b>)",
+      "count": 4034,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V29/87": {
+      "code": "F21V29/87",
+      "level": 2,
+      "parent": "F21V29/85",
+      "ja": "有機材料，例．ポリマー充填複合材；そのための熱伝導性添加剤またはコーティング［２０１５．０１］",
+      "en": "Organic material, e.g. filled polymer composites; Thermo-conductive additives or coatings therefor",
+      "count": 2402,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V29/89": {
+      "code": "F21V29/89",
+      "level": 2,
+      "parent": "F21V29/85",
+      "ja": "金属［２０１５．０１］",
+      "en": "Metals",
+      "count": 14835,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V29/90": {
+      "code": "F21V29/90",
+      "level": 1,
+      "parent": "F21V29/00",
+      "ja": "加熱手段［２０１５．０１］",
+      "en": "Heating arrangements",
+      "count": 1071,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V31/00": {
+      "code": "F21V31/00",
+      "level": 0,
+      "parent": "F21V",
+      "ja": "気密または水密手段",
+      "en": "Gas-tight or water-tight arrangements",
+      "count": 57945,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V31/03": {
+      "code": "F21V31/03",
+      "level": 1,
+      "parent": "F21V31/00",
+      "ja": "通気できるもの［７］",
+      "en": "with provision for venting",
+      "count": 3275,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V31/04": {
+      "code": "F21V31/04",
+      "level": 1,
+      "parent": "F21V31/00",
+      "ja": "充てん物の供給",
+      "en": "Provision of filling media",
+      "count": 2614,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V33/00": {
+      "code": "F21V33/00",
+      "level": 0,
+      "parent": "F21V",
+      "ja": "他に分類されない，その他の物品と照明装置との構造的な組み合わせ［１，７］",
+      "en": "Structural combinations of lighting devices with other articles, not otherwise provided for",
+      "count": 172053,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V35/00": {
+      "code": "F21V35/00",
+      "level": 0,
+      "parent": "F21V",
+      "ja": "ろうそく立て",
+      "en": "Candle holders",
+      "count": 5990,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V36/00": {
+      "code": "F21V36/00",
+      "level": 0,
+      "parent": "F21V",
+      "ja": "バーナ上のマントルまたはそれ以外の白熱体の配置",
+      "en": "Arrangements of mantles or other incandescent bodies on burners",
+      "count": 177,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V36/02": {
+      "code": "F21V36/02",
+      "level": 1,
+      "parent": "F21V36/00",
+      "ja": "天井灯におけるもの",
+      "en": "in ceiling lamps",
+      "count": 9,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V37/00": {
+      "code": "F21V37/00",
+      "level": 0,
+      "parent": "F21V",
+      "ja": "他に分類されない，光源として燃焼を用いる照明装置の細部［１，７］",
+      "en": "Details of lighting devices employing combustion as light source, not otherwise provided for",
+      "count": 2071,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V37/02": {
+      "code": "F21V37/02",
+      "level": 1,
+      "parent": "F21V37/00",
+      "ja": "特別な風防手段［７］",
+      "en": "Special adaptation for protection against draughts",
+      "count": 297,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    },
+    "F21V99/00": {
+      "code": "F21V99/00",
+      "level": 0,
+      "parent": "F21V",
+      "ja": "このサブクラスの他のグループに分類されない主題事項［８］",
+      "en": "Subject matter not provided for in other groups of this subclass",
+      "count": 287,
+      "sourceFile": "ipc_F21V.txt",
+      "kind": "ipc"
+    }
+  }
+};

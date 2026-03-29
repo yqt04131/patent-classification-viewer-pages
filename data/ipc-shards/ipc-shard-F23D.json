@@ -1,0 +1,1106 @@
+{
+  "generatedAt": "2026-03-20T02:17:46.888Z",
+  "total": 110,
+  "entries": {
+    "F23D": {
+      "code": "F23D",
+      "level": 0,
+      "parent": "F23",
+      "ja": "バーナ<br><br><b><ul>サブクラス内の索引</ul></b><br>バーナ（高圧または高速の燃焼生成物の生成Ｆ２３Ｒ）<br>粉状燃料用バーナ　１／００<br>液体燃焼用バーナ<br>毛細管現象を用いるもの　３／００<br>燃料の気化を用いるもの；直接的噴霧作用を用いるもの　５／００；１１／００<br>面に対する燃料の衝撃を用いるもの　７／００，９／００<br>ガス燃焼用バーナ　１４／００<br>ガス状，液体または粉状の燃料の燃焼用バーナ　１７／００<br>２またはそれ以上のバーナの組み合わせ　２３／００<br>その他のバーナ　９９／００",
+      "en": "BURNERS; <br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">BURNERS FOR PULVERULENT FUEL </td><td><b><b>1/00</b></b></td></tr></tr><tr><td width=\"70%\">BURNERS FOR COMBUSTION OF A LIQUID<tr><td width=\"70%\">Using capillary action </td><td><b><b>3/00</b></b></td></tr></tr><tr><td width=\"70%\">Using fuel evaporation; direct spraying action </td><td><b><b>5/00</b>; <b>11/00</b></b></td></tr></tr><tr><td width=\"70%\">Using fuel impingement on a surface </td><td><b><b>7/00</b>, <b>9/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">BURNERS FOR COMBUSTION OF A GAS </td><td><b><b>14/00</b></b></td></tr></tr><tr><td width=\"70%\">BURNERS FOR COMBUSTION OF GASEOUS OR LIQUID OR PULVERULENT FUEL </td><td><b><b>17/00</b></b></td></tr></tr><tr><td width=\"70%\">ASSEMBLIES OF TWO OR MORE BURNERS </td><td><b><b>23/00</b></b></td></tr></tr><tr><td width=\"70%\">OTHER BURNERS </td><td><b><b>99/00</b></b></td></tr></tr></table>",
+      "count": 1685,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F23": {
+      "code": "F23",
+      "level": 0,
+      "parent": "F",
+      "ja": "燃焼装置；燃焼方法<br><br><b><ul>注</ul></b><br>このクラスにおいては，下記の用語は以下に示す意味で用いる：<br>―“燃焼”は，可燃物質と分子酸素，例．空気中の，との間の発熱を伴う連鎖的な化学反応を意味し，大半の場合に炎または白熱の形式で光を発生させる；<br>―“燃焼室”は，それ自体で維持される火または炎を確立するために燃料がその中で燃焼するものであって，その火または炎を取り囲んでいる室を意味する；<br>―“バーナ”は，それ自体で維持される炎を発生するために流動性燃料が，または空気中に浮遊する固体燃料が，燃焼する燃焼空間へ導かれる装置を意味する；<br>―“空気”は，遊離した酸素を含み，および燃焼を促進または維持させ得る気体の混合物を意味する。",
+      "en": "COMBUSTION APPARATUS; COMBUSTION PROCESSES; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this class, the following terms or expressions are used with the meanings indicated: <ul><li>\"combustion\" means a heat-producing sequence of chemical reactions between a burnable substance and molecular oxygen, e.g. in air, in most cases generating light in the form of flames or a glow;</li><li>\"combustion chamber\" means a chamber in which fuel is burned to establish a self-supporting fire or flame and which surrounds that fire or flame;</li><li>\"burner\" means a device by which fluid fuel, or solid fuel suspended in air, is passed to a combustion space where it burns to produce a self-supporting flame;</li><li>\"air\" means a mixture of gases containing free oxygen and able to promote or support combustion.</li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F": {
+      "code": "F",
+      "level": 0,
+      "parent": null,
+      "ja": "機械工学；照明；加熱；武器；爆破",
+      "en": "MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F23D1/00": {
+      "code": "F23D1/00",
+      "level": 0,
+      "parent": "F23D",
+      "ja": "粉状燃料燃焼用バーナ",
+      "en": "Burners for combustion of pulverulent fuel",
+      "count": 5461,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D1/02": {
+      "code": "F23D1/02",
+      "level": 1,
+      "parent": "F23D1/00",
+      "ja": "渦流バーナ，例．サイクロン形燃焼装置",
+      "en": "Vortex burners, e.g. for cyclone-type combustion apparatus",
+      "count": 2504,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D1/04": {
+      "code": "F23D1/04",
+      "level": 1,
+      "parent": "F23D1/00",
+      "ja": "遠心力の作用によらずに円筒状の火炎を発生させるバーナ",
+      "en": "Burners producing cylindrical flames without centrifugal action",
+      "count": 158,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D1/06": {
+      "code": "F23D1/06",
+      "level": 1,
+      "parent": "F23D1/00",
+      "ja": "薄板状の火炎を発生させるバーナ",
+      "en": "Burners producing sheet flames",
+      "count": 97,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D3/00": {
+      "code": "F23D3/00",
+      "level": 0,
+      "parent": "F23D",
+      "ja": "毛細管現象を用いるバーナ",
+      "en": "Burners using capillary action",
+      "count": 1477,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D3/02": {
+      "code": "F23D3/02",
+      "level": 1,
+      "parent": "F23D3/00",
+      "ja": "燈心式バーナ",
+      "en": "Wick burners",
+      "count": 2176,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D3/04": {
+      "code": "F23D3/04",
+      "level": 2,
+      "parent": "F23D3/02",
+      "ja": "フレームスプレッダをもつもの（Ｆ２３Ｄ３／１２が優先）",
+      "en": "with flame spreaders(<b>F23D3/12</b> takes precedence)",
+      "count": 268,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D3/06": {
+      "code": "F23D3/06",
+      "level": 2,
+      "parent": "F23D3/02",
+      "ja": "燈心式下向きバーナ，例．照明用",
+      "en": "Inverted wick burners, e.g. for illumination",
+      "count": 12,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D3/08": {
+      "code": "F23D3/08",
+      "level": 2,
+      "parent": "F23D3/02",
+      "ja": "燈心の形，構造，材質に特徴のあるもの",
+      "en": "characterised by shape, construction, or material, of wick",
+      "count": 1241,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D3/10": {
+      "code": "F23D3/10",
+      "level": 2,
+      "parent": "F23D3/02",
+      "ja": "青炎型バーナ",
+      "en": "Blue-flame burners",
+      "count": 1566,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D3/12": {
+      "code": "F23D3/12",
+      "level": 3,
+      "parent": "F23D3/10",
+      "ja": "フレームスプレッダをもつもの",
+      "en": "with flame spreaders",
+      "count": 77,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D3/14": {
+      "code": "F23D3/14",
+      "level": 3,
+      "parent": "F23D3/10",
+      "ja": "空気および燃料蒸気を炎の前にある室内で混合するもの",
+      "en": "with mixing of air and fuel vapour in a chamber before the flame",
+      "count": 241,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D3/16": {
+      "code": "F23D3/16",
+      "level": 2,
+      "parent": "F23D3/02",
+      "ja": "ろうそくを用いるもの",
+      "en": "using candles",
+      "count": 505,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D3/18": {
+      "code": "F23D3/18",
+      "level": 2,
+      "parent": "F23D3/02",
+      "ja": "燈心式バーナの細部",
+      "en": "Details of wick burners",
+      "count": 3450,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D3/20": {
+      "code": "F23D3/20",
+      "level": 3,
+      "parent": "F23D3/18",
+      "ja": "フレームスプレッダ",
+      "en": "Flame spreaders",
+      "count": 65,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D3/22": {
+      "code": "F23D3/22",
+      "level": 3,
+      "parent": "F23D3/18",
+      "ja": "気化した燃料と空気の混合装置",
+      "en": "Devices for mixing evaporated fuel with air",
+      "count": 132,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D3/24": {
+      "code": "F23D3/24",
+      "level": 3,
+      "parent": "F23D3/18",
+      "ja": "燈心の支持装置",
+      "en": "Carriers for wicks",
+      "count": 398,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D3/26": {
+      "code": "F23D3/26",
+      "level": 4,
+      "parent": "F23D3/24",
+      "ja": "その安全装置",
+      "en": "Safety devices thereon",
+      "count": 108,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D3/28": {
+      "code": "F23D3/28",
+      "level": 3,
+      "parent": "F23D3/18",
+      "ja": "燈心調整装置",
+      "en": "Wick-adjusting devices",
+      "count": 724,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D3/30": {
+      "code": "F23D3/30",
+      "level": 4,
+      "parent": "F23D3/28",
+      "ja": "燈心に直接係合するもの",
+      "en": "directly engaging with the wick",
+      "count": 48,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D3/32": {
+      "code": "F23D3/32",
+      "level": 4,
+      "parent": "F23D3/28",
+      "ja": "燈心の支持筒に係合するもの",
+      "en": "engaging with a tube carrying the wick",
+      "count": 719,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D3/34": {
+      "code": "F23D3/34",
+      "level": 4,
+      "parent": "F23D3/28",
+      "ja": "燈心停止装置；燈心固定装置",
+      "en": "Wick stop devices; Wick-fixing devices",
+      "count": 143,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D3/36": {
+      "code": "F23D3/36",
+      "level": 3,
+      "parent": "F23D3/18",
+      "ja": "燈心の手入れ装置",
+      "en": "Devices for trimming wicks",
+      "count": 44,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D3/38": {
+      "code": "F23D3/38",
+      "level": 3,
+      "parent": "F23D3/18",
+      "ja": "燈心取り換え用の装置",
+      "en": "Devices for replacement of wicks",
+      "count": 66,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D3/40": {
+      "code": "F23D3/40",
+      "level": 1,
+      "parent": "F23D3/00",
+      "ja": "１個またはそれ以上のかたい多孔質材の毛細管現象を用いるもの",
+      "en": "the capillary action taking place in one or more rigid porous bodies",
+      "count": 1018,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D5/00": {
+      "code": "F23D5/00",
+      "level": 0,
+      "parent": "F23D",
+      "ja": "燃焼空間において液体燃料が化学変化を伴いまたは伴うことなく気化されるバーナ",
+      "en": "Burners in which liquid fuel evaporates in the combustion space, with or without chemical conversion of evaporated fuel",
+      "count": 2334,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D5/02": {
+      "code": "F23D5/02",
+      "level": 1,
+      "parent": "F23D5/00",
+      "ja": "液体の溜，例．鉢形の蒸発器，皿形の蒸発器，を形成するもの",
+      "en": "the liquid forming a pool, e.g. bowl-type evaporators, dish-type evaporators",
+      "count": 1085,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D5/04": {
+      "code": "F23D5/04",
+      "level": 2,
+      "parent": "F23D5/02",
+      "ja": "ポット形蒸発器，すなわち部分的に囲われた燃焼空間を用いるもの",
+      "en": "Pot-type evaporators, i.e. using a partially-enclosed combustion space",
+      "count": 2121,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D5/06": {
+      "code": "F23D5/06",
+      "level": 1,
+      "parent": "F23D5/00",
+      "ja": "液体が１つまたはそれ以上の平らなまたは中高の面上で膜を形成するもの",
+      "en": "the liquid forming a film on one or more plane or convex surfaces",
+      "count": 203,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D5/08": {
+      "code": "F23D5/08",
+      "level": 2,
+      "parent": "F23D5/06",
+      "ja": "階段状に接続した面上で膜を形成するもの",
+      "en": "on cascaded surfaces",
+      "count": 22,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D5/10": {
+      "code": "F23D5/10",
+      "level": 2,
+      "parent": "F23D5/06",
+      "ja": "格子上で膜を形成するもの",
+      "en": "on grids",
+      "count": 101,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D5/12": {
+      "code": "F23D5/12",
+      "level": 1,
+      "parent": "F23D5/00",
+      "ja": "細部",
+      "en": "Details",
+      "count": 790,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D5/14": {
+      "code": "F23D5/14",
+      "level": 2,
+      "parent": "F23D5/12",
+      "ja": "蒸発器における燃料予定量の保持",
+      "en": "Maintaining predetermined amount of fuel in evaporator",
+      "count": 458,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D5/16": {
+      "code": "F23D5/16",
+      "level": 2,
+      "parent": "F23D5/12",
+      "ja": "安全装置",
+      "en": "Safety devices",
+      "count": 358,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D5/18": {
+      "code": "F23D5/18",
+      "level": 2,
+      "parent": "F23D5/12",
+      "ja": "予熱装置",
+      "en": "Preheating devices",
+      "count": 376,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D7/00": {
+      "code": "F23D7/00",
+      "level": 0,
+      "parent": "F23D",
+      "ja": "液体燃料の滴が面に対して衝突するバーナ",
+      "en": "Burners in which drops of liquid fuel impinge on a surface",
+      "count": 206,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D9/00": {
+      "code": "F23D9/00",
+      "level": 0,
+      "parent": "F23D",
+      "ja": "液体燃料の流れが熱面に対して間欠的に衝突するバーナ",
+      "en": "Burners in which a stream of liquid fuel impinges intermittently on a hot surface",
+      "count": 140,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D11/00": {
+      "code": "F23D11/00",
+      "level": 0,
+      "parent": "F23D",
+      "ja": "燃焼空間へ小液滴または気化した液体として直接噴霧する作用を用いたバーナ",
+      "en": "Burners using a direct spraying action of liquid droplets or vaporised liquid into the combustion space",
+      "count": 5020,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D11/02": {
+      "code": "F23D11/02",
+      "level": 1,
+      "parent": "F23D11/00",
+      "ja": "燃焼空間が実質的に大気圧の室であるもの",
+      "en": "the combustion space being a chamber substantially at atmospheric pressure",
+      "count": 2376,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D11/04": {
+      "code": "F23D11/04",
+      "level": 1,
+      "parent": "F23D11/00",
+      "ja": "噴霧作用が遠心力の作用で行なわれるもの",
+      "en": "the spraying action being obtained by centrifugal action",
+      "count": 3119,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D11/06": {
+      "code": "F23D11/06",
+      "level": 2,
+      "parent": "F23D11/04",
+      "ja": "水平軸を用いるもの",
+      "en": "using a horizontal shaft",
+      "count": 1346,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D11/08": {
+      "code": "F23D11/08",
+      "level": 2,
+      "parent": "F23D11/04",
+      "ja": "垂直軸を用いるもの",
+      "en": "using a vertical shaft",
+      "count": 1803,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D11/10": {
+      "code": "F23D11/10",
+      "level": 1,
+      "parent": "F23D11/00",
+      "ja": "噴霧がガス状の媒体，例．水蒸気，によって引き起されるもの",
+      "en": "the spraying being induced by a gaseous medium, e.g. water vapour",
+      "count": 6350,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D11/12": {
+      "code": "F23D11/12",
+      "level": 2,
+      "parent": "F23D11/10",
+      "ja": "ノズルからの出口の形または配列に特徴があるもの",
+      "en": "characterised by the shape or arrangement of the outlets from the nozzle",
+      "count": 919,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D11/14": {
+      "code": "F23D11/14",
+      "level": 3,
+      "parent": "F23D11/12",
+      "ja": "単一の出口，例．スリット，をもつもの",
+      "en": "with a single outlet, e.g. slit",
+      "count": 133,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D11/16": {
+      "code": "F23D11/16",
+      "level": 2,
+      "parent": "F23D11/10",
+      "ja": "水と燃料のエマルジョンが噴射されるもの",
+      "en": "in which an emulsion of water and fuel is sprayed",
+      "count": 603,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D11/18": {
+      "code": "F23D11/18",
+      "level": 2,
+      "parent": "F23D11/10",
+      "ja": "ガス状媒体がノズルで発生した水蒸気であるもの",
+      "en": "the gaseous medium being water vapour generated at the nozzle",
+      "count": 207,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D11/20": {
+      "code": "F23D11/20",
+      "level": 3,
+      "parent": "F23D11/18",
+      "ja": "過熱された水蒸気を用いるもの",
+      "en": "the water vapour being superheated",
+      "count": 74,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D11/22": {
+      "code": "F23D11/22",
+      "level": 2,
+      "parent": "F23D11/10",
+      "ja": "ガス状の媒体として気化した燃料を用いるもの，例．はんだ付けランプ用",
+      "en": "the gaseous medium being vaporised fuel, e.g. for a soldering lamp",
+      "count": 365,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D11/24": {
+      "code": "F23D11/24",
+      "level": 1,
+      "parent": "F23D11/00",
+      "ja": "ノズルに入る以前に燃料を加圧し実質上の圧力降下によって空間へそれを噴霧するもの",
+      "en": "by pressurisation of the fuel before a nozzle through which it is sprayed by a substantial pressure reduction into a space",
+      "count": 4807,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D11/26": {
+      "code": "F23D11/26",
+      "level": 2,
+      "parent": "F23D11/24",
+      "ja": "燃料が噴霧される割合を変える装置をもつもの",
+      "en": "with provision for varying the rate at which the fuel is sprayed",
+      "count": 341,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D11/28": {
+      "code": "F23D11/28",
+      "level": 3,
+      "parent": "F23D11/26",
+      "ja": "バーナに燃料の還流路をもつもの，例．側路を用いるもの",
+      "en": "with flow-back of fuel at the burner, e.g. using by-pass",
+      "count": 637,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D11/30": {
+      "code": "F23D11/30",
+      "level": 3,
+      "parent": "F23D11/26",
+      "ja": "噴霧された未燃焼の燃料を貯槽へ返送するもの",
+      "en": "with return feed of uncombusted sprayed fuel to reservoir",
+      "count": 191,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D11/32": {
+      "code": "F23D11/32",
+      "level": 1,
+      "parent": "F23D11/00",
+      "ja": "静電気装置によるもの",
+      "en": "by electrostatic means",
+      "count": 225,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D11/34": {
+      "code": "F23D11/34",
+      "level": 1,
+      "parent": "F23D11/00",
+      "ja": "超音波装置によるもの［２００６．０１］",
+      "en": "by ultrasonic means",
+      "count": 1490,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D11/36": {
+      "code": "F23D11/36",
+      "level": 1,
+      "parent": "F23D11/00",
+      "ja": "細部",
+      "en": "Details",
+      "count": 3866,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D11/38": {
+      "code": "F23D11/38",
+      "level": 2,
+      "parent": "F23D11/36",
+      "ja": "ノズル；その掃除装置",
+      "en": "Nozzles; Cleaning devices therefor",
+      "count": 4930,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D11/40": {
+      "code": "F23D11/40",
+      "level": 2,
+      "parent": "F23D11/36",
+      "ja": "混合管；バーナ頭部",
+      "en": "Mixing tubes; Burner heads",
+      "count": 4816,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D11/42": {
+      "code": "F23D11/42",
+      "level": 2,
+      "parent": "F23D11/36",
+      "ja": "始動装置（点火Ｆ２３Ｑ）",
+      "en": "Starting devices(igniting <b>F23Q</b>)",
+      "count": 457,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D11/44": {
+      "code": "F23D11/44",
+      "level": 2,
+      "parent": "F23D11/36",
+      "ja": "予熱装置；気化装置",
+      "en": "Preheating devices; Vaporising devices",
+      "count": 7642,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D11/46": {
+      "code": "F23D11/46",
+      "level": 2,
+      "parent": "F23D11/36",
+      "ja": "気化装置の燃料供給調節装置",
+      "en": "Devices on the vaporiser for controlling the feeding of the fuel",
+      "count": 572,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D14/00": {
+      "code": "F23D14/00",
+      "level": 0,
+      "parent": "F23D",
+      "ja": "ガス，例．加圧下で液体として貯蔵されたガス，の燃焼用バーナ［４］",
+      "en": "Burners for combustion of a gas, e.g. of a gas stored under pressure as a liquid",
+      "count": 6525,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D14/02": {
+      "code": "F23D14/02",
+      "level": 1,
+      "parent": "F23D14/00",
+      "ja": "予混合ガスバーナ，すなわち．ガス状燃料が燃焼域の上流で燃焼空気と混合されるもの［４］",
+      "en": "Premix gas burners, i.e. in which gaseous fuel is mixed with combustion air upstream of the combustion zone",
+      "count": 16024,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D14/04": {
+      "code": "F23D14/04",
+      "level": 2,
+      "parent": "F23D14/02",
+      "ja": "誘導型，例．ブンゼンバーナ［４］",
+      "en": "induction type, e.g. Bunsen burner",
+      "count": 5784,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D14/06": {
+      "code": "F23D14/06",
+      "level": 3,
+      "parent": "F23D14/04",
+      "ja": "バーナヘッドに放射状出口をもつもの［４］",
+      "en": "with radial outlets at the burner head",
+      "count": 4041,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D14/08": {
+      "code": "F23D14/08",
+      "level": 3,
+      "parent": "F23D14/04",
+      "ja": "バーナヘッドに軸方向出口をもつもの［４］",
+      "en": "with axial outlets at the burner head",
+      "count": 3095,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D14/10": {
+      "code": "F23D14/10",
+      "level": 3,
+      "parent": "F23D14/04",
+      "ja": "細長い管状のバーナヘッドをもつもの［４］",
+      "en": "with elongated tubular burner head",
+      "count": 1537,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D14/12": {
+      "code": "F23D14/12",
+      "level": 1,
+      "parent": "F23D14/00",
+      "ja": "輻射バーナ［４］",
+      "en": "Radiant burners",
+      "count": 3157,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D14/14": {
+      "code": "F23D14/14",
+      "level": 2,
+      "parent": "F23D14/12",
+      "ja": "スクリーンまたは多孔板を用いるもの［４］",
+      "en": "using screens or perforated plates",
+      "count": 3104,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D14/16": {
+      "code": "F23D14/16",
+      "level": 2,
+      "parent": "F23D14/12",
+      "ja": "透過性ブロックを用いるもの［４］",
+      "en": "using permeable blocks",
+      "count": 1077,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D14/18": {
+      "code": "F23D14/18",
+      "level": 2,
+      "parent": "F23D14/12",
+      "ja": "無炎燃焼のための触媒を用いるもの［４］",
+      "en": "using catalysis for flameless combustion",
+      "count": 2042,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D14/20": {
+      "code": "F23D14/20",
+      "level": 1,
+      "parent": "F23D14/00",
+      "ja": "非予混合ガスバーナ，すなわち．ガス状燃料が燃焼域へ到達時に燃焼空気と混合されるもの（Ｆ２３Ｄ１４／３８が優先）［４］",
+      "en": "Non-premix gas burners, i.e. in which gaseous fuel is mixed with combustion air on arrival at the combustion zone(<b>F23D14/38</b> takes precedence)",
+      "count": 1478,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D14/22": {
+      "code": "F23D14/22",
+      "level": 2,
+      "parent": "F23D14/20",
+      "ja": "独立した空気供給ダクトおよびガス供給ダクトをもつもの，例．両ダクトが平行するかまたは交差するもの［４］",
+      "en": "with separate air and gas feed ducts, e.g. with ducts running parallel or crossing each other",
+      "count": 3961,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D14/24": {
+      "code": "F23D14/24",
+      "level": 3,
+      "parent": "F23D14/22",
+      "ja": "流体のうちの少なくとも一方が旋回運動に従うもの［４］",
+      "en": "at least one of the fluids being submitted to a swirling motion",
+      "count": 2128,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D14/26": {
+      "code": "F23D14/26",
+      "level": 1,
+      "parent": "F23D14/00",
+      "ja": "保炎用炎のための備えをもつもの（種火点火器Ｆ２３Ｑ９／００）［４］",
+      "en": "with provision for a retention flame(pilot flame igniters <b>F23Q9/00</b>)",
+      "count": 2941,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D14/28": {
+      "code": "F23D14/28",
+      "level": 1,
+      "parent": "F23D14/00",
+      "ja": "ガス状燃料源，例．アセチレン発生器，または液化ガス容器と結合しているもの［４］",
+      "en": "in association with a gaseous fuel source, e.g. acetylene generator, or a container for liquefied gas",
+      "count": 1790,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D14/30": {
+      "code": "F23D14/30",
+      "level": 1,
+      "parent": "F23D14/00",
+      "ja": "倒立バーナ，例．照明用［４］",
+      "en": "Inverted burners, e.g. for illumination",
+      "count": 710,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D14/32": {
+      "code": "F23D14/32",
+      "level": 1,
+      "parent": "F23D14/00",
+      "ja": "ガス状燃料と純酸素または酸素富化空気との混合物を用いるもの（Ｆ２３Ｄ１４／３８が優先）［４］",
+      "en": "using a mixture of gaseous fuel and pure oxygen or oxygen-enriched air(<b>F23D14/38</b> takes precedence)",
+      "count": 1321,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D14/34": {
+      "code": "F23D14/34",
+      "level": 1,
+      "parent": "F23D14/00",
+      "ja": "ガス状燃料または燃焼用空気の加圧手段と一緒に用いるのに特に適合したバーナ［４］",
+      "en": "Burners specially adapted for use with means for pressurising the gaseous fuel or the combustion air",
+      "count": 940,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D14/36": {
+      "code": "F23D14/36",
+      "level": 2,
+      "parent": "F23D14/34",
+      "ja": "圧縮機およびバーナが単一のユニットを形成するもの［４］",
+      "en": "in which the compressor and burner form a single unit",
+      "count": 464,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D14/38": {
+      "code": "F23D14/38",
+      "level": 1,
+      "parent": "F23D14/00",
+      "ja": "トーチ，例．ろう付けまたは加熱用（ノズルＦ２３Ｄ１４／４８）［４］",
+      "en": "Torches, e.g. for brazing or heating(nozzles <b>F23D14/48</b>)",
+      "count": 1856,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D14/40": {
+      "code": "F23D14/40",
+      "level": 2,
+      "parent": "F23D14/38",
+      "ja": "溶接用（Ｆ２３Ｄ１４／４４が優先）［４］",
+      "en": "for welding(<b>F23D14/44</b> takes precedence)",
+      "count": 658,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D14/42": {
+      "code": "F23D14/42",
+      "level": 2,
+      "parent": "F23D14/38",
+      "ja": "切断用（Ｆ２３Ｄ１４／４４が優先）［４］",
+      "en": "for cutting(<b>F23D14/44</b> takes precedence)",
+      "count": 1210,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D14/44": {
+      "code": "F23D14/44",
+      "level": 2,
+      "parent": "F23D14/38",
+      "ja": "水中使用用［４］",
+      "en": "for use under water",
+      "count": 253,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D14/46": {
+      "code": "F23D14/46",
+      "level": 1,
+      "parent": "F23D14/00",
+      "ja": "細部［４］",
+      "en": "Details",
+      "count": 21752,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D14/48": {
+      "code": "F23D14/48",
+      "level": 2,
+      "parent": "F23D14/46",
+      "ja": "ノズル［４］",
+      "en": "Nozzles",
+      "count": 6707,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D14/50": {
+      "code": "F23D14/50",
+      "level": 3,
+      "parent": "F23D14/48",
+      "ja": "そのための清浄装置［４］",
+      "en": "Cleaning devices therefor",
+      "count": 318,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D14/52": {
+      "code": "F23D14/52",
+      "level": 3,
+      "parent": "F23D14/48",
+      "ja": "トーチ用；ブローパイプ［４］",
+      "en": "for torches; for blow-pipes",
+      "count": 752,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D14/54": {
+      "code": "F23D14/54",
+      "level": 4,
+      "parent": "F23D14/52",
+      "ja": "金属の切断または溶接用［４］",
+      "en": "for cutting or welding metal",
+      "count": 1443,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D14/56": {
+      "code": "F23D14/56",
+      "level": 3,
+      "parent": "F23D14/48",
+      "ja": "ある範囲にわたって炎を展開させるためのもの，例．固体表面の溶削用，表面焼き入れ用または加工片加熱用［４］",
+      "en": "for spreading the flame over an area, e.g. for desurfacing of solid material, for surface hardening or for heating workpieces",
+      "count": 702,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D14/58": {
+      "code": "F23D14/58",
+      "level": 3,
+      "parent": "F23D14/48",
+      "ja": "ノズルの出口の形状または配置に特徴があるもの，例．環状の形態［４］",
+      "en": "characterised by the shape or arrangement of the outlet or outlets from the nozzle, e.g. of annular configuration",
+      "count": 9501,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D14/60": {
+      "code": "F23D14/60",
+      "level": 2,
+      "parent": "F23D14/46",
+      "ja": "ガスおよび燃焼空気の同時制御用装置［４］",
+      "en": "Devices for simultaneous control of gas and combustion air",
+      "count": 4579,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D14/62": {
+      "code": "F23D14/62",
+      "level": 2,
+      "parent": "F23D14/46",
+      "ja": "混合装置；混合管［４］",
+      "en": "Mixing devices; Mixing tubes",
+      "count": 9700,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D14/64": {
+      "code": "F23D14/64",
+      "level": 3,
+      "parent": "F23D14/62",
+      "ja": "インジェクタをもつもの［４］",
+      "en": "with injectors",
+      "count": 5933,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D14/66": {
+      "code": "F23D14/66",
+      "level": 2,
+      "parent": "F23D14/46",
+      "ja": "燃焼空気または燃焼ガスの予熱［４］",
+      "en": "Preheating the combustion air or gas",
+      "count": 3896,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D14/68": {
+      "code": "F23D14/68",
+      "level": 2,
+      "parent": "F23D14/46",
+      "ja": "燃焼空気または燃焼ガスの処理，例．ろ過または加湿によるもの［４］",
+      "en": "Treating the combustion air or gas, e.g. by filtering or moistening",
+      "count": 1541,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D14/70": {
+      "code": "F23D14/70",
+      "level": 2,
+      "parent": "F23D14/46",
+      "ja": "バッフルまたは類似の乱流発生装置［４］",
+      "en": "Baffles or like flow-disturbing devices",
+      "count": 4407,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D14/72": {
+      "code": "F23D14/72",
+      "level": 2,
+      "parent": "F23D14/46",
+      "ja": "安全装置，例．ガス供給の支障時に作動するもの［４］",
+      "en": "Safety devices, e.g. operative in case of failure of gas supply",
+      "count": 2866,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D14/74": {
+      "code": "F23D14/74",
+      "level": 3,
+      "parent": "F23D14/72",
+      "ja": "炎のリフトの防止［４］",
+      "en": "Preventing flame lift-off",
+      "count": 1202,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D14/76": {
+      "code": "F23D14/76",
+      "level": 3,
+      "parent": "F23D14/72",
+      "ja": "炎およびバーナ部品の保護［４］",
+      "en": "Protecting flame and burner parts",
+      "count": 755,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D14/78": {
+      "code": "F23D14/78",
+      "level": 3,
+      "parent": "F23D14/72",
+      "ja": "バーナ部品の冷却［４］",
+      "en": "Cooling burner parts",
+      "count": 2068,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D14/80": {
+      "code": "F23D14/80",
+      "level": 3,
+      "parent": "F23D14/72",
+      "ja": "無毒ガスの選択［４］",
+      "en": "Selection of a non-toxic gas",
+      "count": 10,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D14/82": {
+      "code": "F23D14/82",
+      "level": 3,
+      "parent": "F23D14/72",
+      "ja": "フラッシュバックまたはブローバックの防止［４］",
+      "en": "Preventing flashback or blowback",
+      "count": 2804,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D14/84": {
+      "code": "F23D14/84",
+      "level": 2,
+      "parent": "F23D14/46",
+      "ja": "炎の拡散またはその他の整形（Ｆ２３Ｄ１４／７０が優先）［４］",
+      "en": "Flame spreading or otherwise shaping(<b>F23D14/70</b> takes precedence)",
+      "count": 2483,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D17/00": {
+      "code": "F23D17/00",
+      "level": 0,
+      "parent": "F23D",
+      "ja": "ガス状または液体または粉状の燃料を同時にあるいは交互に燃焼させるバーナ",
+      "en": "Burners for combustion simultaneously or alternately of gaseous or liquid or pulverulent fuel",
+      "count": 4175,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D23/00": {
+      "code": "F23D23/00",
+      "level": 0,
+      "parent": "F23D",
+      "ja": "２またはそれ以上のバーナの組合せ（炎を保持するための装備をもつガスバーナＦ２３Ｄ１４／２６）",
+      "en": "Assemblies of two or more burners(gas burners with provision for a retention flame <b>F23D14/26</b>)",
+      "count": 1180,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    },
+    "F23D99/00": {
+      "code": "F23D99/00",
+      "level": 0,
+      "parent": "F23D",
+      "ja": "このサブクラスの他のグループに分類されない主題事項［２０１０．０１］",
+      "en": "Subject matter not provided for in other groups of this subclass",
+      "count": 4990,
+      "sourceFile": "ipc_F23D.txt",
+      "kind": "ipc"
+    }
+  }
+}

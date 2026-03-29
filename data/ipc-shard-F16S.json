@@ -1,0 +1,176 @@
+{
+  "generatedAt": "2026-03-20T02:17:46.857Z",
+  "total": 17,
+  "entries": {
+    "F16S": {
+      "code": "F16S",
+      "level": 0,
+      "parent": "F16",
+      "ja": "構造用要素一般；この要素より組み立てた構造物一般<br><br><b><ul>注</ul></b><br>このサブクラスは建築用に限定された同様の要素および構造物を包含しない。ただし，それらは，サブクラスＥ０４Ｃに包含される。",
+      "en": "CONSTRUCTIONAL ELEMENTS IN GENERAL; STRUCTURES BUILT-UP FROM SUCH ELEMENTS, IN GENERAL; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This subclass <u>does not cover</u> similar elements and structures, restricted to use in the building art, which are covered by subclass <b>E04C</b>.</li></ul>",
+      "count": 767,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F16": {
+      "code": "F16",
+      "level": 0,
+      "parent": "F",
+      "ja": "機械要素または単位；機械または装置の効果的機能を生じ維持するための一般的手段",
+      "en": "ENGINEERING ELEMENTS OR UNITS; GENERAL MEASURES FOR PRODUCING AND MAINTAINING EFFECTIVE FUNCTIONING OF MACHINES OR INSTALLATIONS; THERMAL INSULATION IN GENERAL",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F": {
+      "code": "F",
+      "level": 0,
+      "parent": null,
+      "ja": "機械工学；照明；加熱；武器；爆破",
+      "en": "MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F16S1/00": {
+      "code": "F16S1/00",
+      "level": 0,
+      "parent": "F16S",
+      "ja": "シート，パネルまたは類似物；これらを組み合わせた構造物（組み立てた格子Ｆ１６Ｓ３／００；積層体Ｂ３２Ｂ）<br><br><b><ul>注</ul></b><br>部材は概ね平であるかまたはわん曲しているが，細部においては部分または全面がその形状から外れていてもよい，例．波つき，リブつき，フランジつき；リブ，フランジなどは別々に成形してもよい。",
+      "en": "Sheets, panels, or other members of similar proportions; Constructions comprising assemblies of such members(built-up gratings <b>F16S3/00</b>; layered products <b>B32B</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>In this group, the members may be generally flat or curved, but they may depart from such shape in detail over part or all of their area, e.g. they may be corrugated, ribbed, flanged; ribs, flanges, or the like may be separately formed.</li></ul>",
+      "count": 2068,
+      "sourceFile": "ipc_F16S.txt",
+      "kind": "ipc"
+    },
+    "F16S1/02": {
+      "code": "F16S1/02",
+      "level": 1,
+      "parent": "F16S1/00",
+      "ja": "端部と端部を一個所に固定するように設計したもの，例．ある角度で固定したもの；これらの組み立て体",
+      "en": "designed for being secured together edge to edge, e.g. at an angle; Assemblies thereof",
+      "count": 1074,
+      "sourceFile": "ipc_F16S.txt",
+      "kind": "ipc"
+    },
+    "F16S1/04": {
+      "code": "F16S1/04",
+      "level": 1,
+      "parent": "F16S1/00",
+      "ja": "平らな板から変形または他の工程により作るもの（積層体のためのハニカムまたは他のコア部材Ｂ３２Ｂ３／００，例．Ｂ３２Ｂ３／１２，Ｂ３２Ｂ３／２４，Ｂ３２Ｂ３／２６）",
+      "en": "produced by deforming or otherwise working a flat sheet(honeycomb or other core members for layered products <b>B32B3/00</b>, e.g. <b>B32B3/12</b>, <b>B32B3/24</b>, <b>B32B3/26</b>)",
+      "count": 442,
+      "sourceFile": "ipc_F16S.txt",
+      "kind": "ipc"
+    },
+    "F16S1/06": {
+      "code": "F16S1/06",
+      "level": 2,
+      "parent": "F16S1/04",
+      "ja": "変形だけによるもの",
+      "en": "by deforming only",
+      "count": 146,
+      "sourceFile": "ipc_F16S.txt",
+      "kind": "ipc"
+    },
+    "F16S1/08": {
+      "code": "F16S1/08",
+      "level": 2,
+      "parent": "F16S1/04",
+      "ja": "切断または穴あけによるもので変形がともないまたはともなわないもの",
+      "en": "by cutting or perforating, with or without deformation",
+      "count": 167,
+      "sourceFile": "ipc_F16S.txt",
+      "kind": "ipc"
+    },
+    "F16S1/10": {
+      "code": "F16S1/10",
+      "level": 1,
+      "parent": "F16S1/00",
+      "ja": "組み合わせ部材，例．リブまたはフランジを取り付けたもの（Ｆ１６Ｓ１／０２が優先）",
+      "en": "Composite members, e.g. with ribs or flanges attached(<b>F16S1/02</b> takes precedence)",
+      "count": 1939,
+      "sourceFile": "ipc_F16S.txt",
+      "kind": "ipc"
+    },
+    "F16S1/12": {
+      "code": "F16S1/12",
+      "level": 1,
+      "parent": "F16S1/00",
+      "ja": "かなりの厚さをもつもの，例．厚さが変化するもの，溝がついたもの",
+      "en": "of substantial thickness, e.g. with varying thickness, with channels",
+      "count": 279,
+      "sourceFile": "ipc_F16S.txt",
+      "kind": "ipc"
+    },
+    "F16S1/14": {
+      "code": "F16S1/14",
+      "level": 1,
+      "parent": "F16S1/00",
+      "ja": "グループＦ１６Ｓ３／００またはＦ１６Ｓ５／００に分類された形状の部材との組み合わせ（そのような他の部材が接合用のみのものＦ１６Ｓ１／０２）",
+      "en": "Assemblies of such members with members of forms covered by group <b>F16S3/00</b> or <b>F16S5/00</b>(such other members being for jointing only <b>F16S1/02</b>)",
+      "count": 446,
+      "sourceFile": "ipc_F16S.txt",
+      "kind": "ipc"
+    },
+    "F16S3/00": {
+      "code": "F16S3/00",
+      "level": 0,
+      "parent": "F16S",
+      "ja": "長い部材，例．輪郭のついた部材；その組立体；格子類（シートまたは類似物から作った格子Ｆ１６Ｓ１／００，特にＦ１６Ｓ１／０８；ドア用枠，窓または類似のものＥ０６Ｂ１／００，Ｅ０６Ｂ３／００）",
+      "en": "Elongated members, e.g. profiled members; Assemblies thereof; Gratings or grilles(gratings or grilles formed from a sheet or the like <b>F16S1/00</b>, particularly <b>F16S1/08</b>; frames for doors, windows or the like <b>E06B1/00</b>, <b>E06B3/00</b>)",
+      "count": 5964,
+      "sourceFile": "ipc_F16S.txt",
+      "kind": "ipc"
+    },
+    "F16S3/02": {
+      "code": "F16S3/02",
+      "level": 1,
+      "parent": "F16S3/00",
+      "ja": "二つ以上の長い部材を並べて固定して組み立てたもの",
+      "en": "composed of two or more elongated members secured together side by side",
+      "count": 974,
+      "sourceFile": "ipc_F16S.txt",
+      "kind": "ipc"
+    },
+    "F16S3/04": {
+      "code": "F16S3/04",
+      "level": 1,
+      "parent": "F16S3/00",
+      "ja": "類似した部材をさまざまな関係位置で接続されるように設計されたもの",
+      "en": "designed for being joined to similar members in various relative positions",
+      "count": 1148,
+      "sourceFile": "ipc_F16S.txt",
+      "kind": "ipc"
+    },
+    "F16S3/06": {
+      "code": "F16S3/06",
+      "level": 1,
+      "parent": "F16S3/00",
+      "ja": "長い部材の組み立て体（Ｆ１６Ｓ３／０２，Ｆ１６Ｓ３／０４が優先）",
+      "en": "Assemblies of elongated members(<b>F16S3/02</b>, <b>F16S3/04</b> take precedence)",
+      "count": 1105,
+      "sourceFile": "ipc_F16S.txt",
+      "kind": "ipc"
+    },
+    "F16S3/08": {
+      "code": "F16S3/08",
+      "level": 2,
+      "parent": "F16S3/06",
+      "ja": "枠組みを形成するもの，例．格子",
+      "en": "forming frameworks, e.g. gratings",
+      "count": 1200,
+      "sourceFile": "ipc_F16S.txt",
+      "kind": "ipc"
+    },
+    "F16S5/00": {
+      "code": "F16S5/00",
+      "level": 0,
+      "parent": "F16S",
+      "ja": "単一クラスに属する応用に制限されないその他の構造部材",
+      "en": "Other constructional members not restricted to an application fully provided for in a single class",
+      "count": 2569,
+      "sourceFile": "ipc_F16S.txt",
+      "kind": "ipc"
+    }
+  }
+}

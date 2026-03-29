@@ -1,0 +1,1076 @@
+window.IPC_SHARD_G07F = {
+  "generatedAt": "2026-03-20T02:17:47.105Z",
+  "total": 107,
+  "entries": {
+    "G07F": {
+      "code": "G07F",
+      "level": 0,
+      "parent": "G07",
+      "ja": "コイン解放装置または類似装置（コイン選別Ｇ０７Ｄ３／００；コイン検査Ｇ０７Ｄ５／００）［１，７］<br><br><b><ul>注</ul></b><br>（１）このサブクラスには，コイン作動機構を含むかまたはこれと結合された装置の構造または細部であっても，コイン作動機構とともに使用されるために特に適合されていないかまたは変形されていなければ，その装置の構造または細部は包含されない。そのような構造または細部は特定の装置に対応するサブクラスに包含される。<br>（２）このサブグラスにおいては，下記の用語は以下に示す意味で用いる；<br>―“コイン”とは，代用貨幣または類似のものをも包含する。<br><br><b><ul>サブクラス内の索引</ul></b><br>一般的装置または機構<br>コインの挿入；コインの作動；その他　１／００；５／００；７／００<br>応用に特徴をもつ装置<br>送出；計量；賃貸　１１／００，１３／００；１５／００；１７／００<br>完全バンキングシステム　１９／００<br>装置の特別な種類または型に特定されない部品　９／００",
+      "en": "COIN-FREED OR LIKE APPARATUS(coin sorting <b>G07D3/00</b>; coin testing <b>G07D5/00</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>This subclass <u>does not cover</u> constructions or details of apparatus which includes, or is combined with, coin-actuated mechanisms but is not specially adapted or modified for use therewith. Such constructions or details are covered by the relevant subclass for the particular apparatus.</li><li>In this subclass, the following term is used with the meaning indicated:<ul><li>\"coins\" covers also tokens or the like.</li></ul></li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">ARRANGEMENTS OR MECHANISMS IN GENERAL<tr><td width=\"70%\">Coin inlet; coin actuation; others </td><td><b><b>1/00</b>; <b>5/00</b>; <b>7/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">APPARATUS CHARACTERISED BY THE APPLICATION<tr><td width=\"70%\">Dispensing; metering; hiring </td><td><b><b>11/00</b>, <b>13/00</b>; <b>15/00</b>; <b>17/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">COMPLETE BANKING SYSTEMS </td><td><b><b>19/00</b></b></td></tr></tr><tr><td width=\"70%\">DETAILS NOT PECULIAR TO SPECIAL KINDS OR TYPES OF APPARATUS </td><td><b><b>9/00</b></b></td></tr></tr></table>",
+      "count": 2046,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G07": {
+      "code": "G07",
+      "level": 0,
+      "parent": "G",
+      "ja": "チェック装置",
+      "en": "CHECKING-DEVICES",
+      "count": 0,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G": {
+      "code": "G",
+      "level": 0,
+      "parent": null,
+      "ja": "物理学<br><br><b><ul>注</ul></b><br>１．このセクションにおいては，下記の用語は以下に示す意味で用いる：<br>・“変量”は名詞として，特定の実在物，例．物体，ある量の物質，光ビーム，に関し特定の瞬間に測定することの可能な特性又は特質，例．寸法，温度等の物理的状態，密度又は色等の性質，を意味する。変量が変化すると，その数値的表現は異なる時点で，異なる状態又は個々の状況において異なる値をとることもあり，また，ある状態のもとで又は実用上特定の実在物に関して一定でありうる，例．バーの長さが多くの目的のために一定とみなされる，こともある。<br>２．使用される用語または表現の定義に注意すること。このセクションのいくつかのクラスの注に使用されているものについて，特にクラスＧ０１の“測定”を参照されたい．ＩＰＣ指針パラグラフ１８７の中にあるものについて，“制御”及び“調整”の定義に参照されたい。<br>３．このセクションにおける分類は他のセクションにおいてよりもめんどうな場合があり得る，というのは，その一つは，いろいろな使用分野の差異の判別には構造上の差異又は使用形態上の差異よりも寧ろ使用者の意図における差異の方にかなりの程度影響されてしまうからであり，もう一つは，扱う主題が容易に全体として識別できる“もの”であるよりも，特性又は部品が他の主題のものと共通のものを有しているシステム又は組合わせであることが実際上多いからである。例えば，情報（例．一連の数値）をディスプレイするのは，クラスＧ０９に包含される，教育又は広告のため，クラスＧ０１に包含される，測定の結果が通知されうるため，クラスＧ０８に包含される，遠隔地点に情報を合図するため，又は遠隔地点から合図された情報を提供するためである。目的を記述するために使用する言葉は，当該装置の形態に無関係なこともあり得る特性－例えば，ディスプレイを見る者にとって望ましい効果とか，ディスプレイが遠隔地点から制御されるかどうかという特性－によって決定される。さらに，ある状態，例えば流体圧の変化に応答する装置は，その装置そのものには変更を加えずして，サブクラスＧ０１Ｌに包含される圧力又はＧ０１の他のサブクラスに包含される圧力に関連した他の何らかの状態，例．温度に関してＧ０１Ｋ，についての情報を与えるため，サブクラスＧ０７Ｃに包含される圧力または圧力発生の記録をするため，サブクラスＧ０８Ｂに包含される警報を発するため，又はクラスＧ０５に包含される他の何らかの装置を制御するために用いられることがある。<br>　本分類表は，前述したように，同一の性質のものは同一箇所に分類し得るようにしたものである。従って，技術主題が適切箇所に分類されるためには予めその真正な本質を把握することが特に必要である。",
+      "en": "PHYSICS; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this section, the following term is used with the meaning indicated: <ul><li>\"variable\" as a noun means a feature or property, e.g. a dimension, a physical condition such as temperature, a quality such as density or colour, which, in respect of a particular entity, e.g. an object, a quantity of a substance, a beam of light, and at a particular instant, is capable of being measured; the variable may change, so that its numerical expression may assume different values at different times, in different conditions or in individual cases, but may be constant in respect of a particular entity in certain conditions or for practical purposes, e.g. the length of a bar may be regarded as constant for many purposes.</li></ul></li><li>Attention is drawn to the definitions of terms or expressions used. Some appear in the notes of several of the classes in this section, see in particular the definition of \"measuring\" in class <b>G01</b>. Others appear in paragraph 187 of the Guide to the IPC, see in particular the definitions of \"control\" and \"regulation\".</li><li>Classification in this section may present more difficulty than in other sections, because the distinction between different fields of use rests to a considerable extent on differences in the intention of the user rather than on any constructional differences or differences in the manner of use, and because the subjects dealt with are often in effect systems or combinations, which have features or parts in common, rather than \"things\", which are readily distinguishable as a whole. For example, information, e.g. a set of figures, may be displayed for the purpose of education or advertising covered by class <b>G09</b>, for enabling the result of a measurement to be known covered by class <b>G01</b>, for signalling the information to a distant point or for giving information which has been signalled from a distant point covered by class <b>G08</b>. The words used to describe the purpose depend on features that may be irrelevant to the form of the apparatus concerned, for example, such features as the desired effect on the person who sees the display, or whether the display is controlled from a remote point. Again, a device which responds to some change in a condition, e.g. in the pressure of a fluid, may be used, without modification of the device itself, to give information about the pressure covered by subclass <b>G01L</b> or about some other condition linked to the pressure covered by another subclass of class <b>G01</b>, e.g. <b>G01K</b> for temperature, to make a record of the pressure or of its occurrence covered by subclass <b>G07C</b>, to give an alarm covered by subclass <b>G08B</b>, or to control another apparatus covered by class <b>G05</b>. <ul><li>The classification scheme is intended to enable things of a similar nature, as indicated above, to be classified together. It is therefore particularly necessary for the real nature of any technical subject to be decided before it can be properly classified.</li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G07F1/00": {
+      "code": "G07F1/00",
+      "level": 0,
+      "parent": "G07F",
+      "ja": "コイン挿入装置；コイン解放機構の作用に特に適したコイン",
+      "en": "Coin inlet arrangements; Coins specially adapted to operate coin-freed mechanisms",
+      "count": 685,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F1/02": {
+      "code": "G07F1/02",
+      "level": 1,
+      "parent": "G07F1/00",
+      "ja": "コインの投入口",
+      "en": "Coin slots",
+      "count": 1328,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F1/04": {
+      "code": "G07F1/04",
+      "level": 1,
+      "parent": "G07F1/00",
+      "ja": "コインの軌道",
+      "en": "Coin chutes",
+      "count": 2230,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F1/06": {
+      "code": "G07F1/06",
+      "level": 1,
+      "parent": "G07F1/00",
+      "ja": "コイン解放機構の作用に特に適したコイン",
+      "en": "Coins specially adapted to operate coin-freed mechanisms",
+      "count": 686,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F5/00": {
+      "code": "G07F5/00",
+      "level": 0,
+      "parent": "G07F",
+      "ja": "コイン作動機構；インターロック",
+      "en": "Coin-actuated mechanisms; Interlocks",
+      "count": 670,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F5/02": {
+      "code": "G07F5/02",
+      "level": 1,
+      "parent": "G07F5/00",
+      "ja": "コインによって機械的に作動されるもの，例．１個のコインによるもの",
+      "en": "actuated mechanically by coins, e.g. by a single coin",
+      "count": 1052,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F5/04": {
+      "code": "G07F5/04",
+      "level": 2,
+      "parent": "G07F5/02",
+      "ja": "各取引に対し２個以上の同一種類のコインを必要とするもの",
+      "en": "wherein two or more coins of the same denomination are required for each transaction",
+      "count": 271,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F5/06": {
+      "code": "G07F5/06",
+      "level": 2,
+      "parent": "G07F5/02",
+      "ja": "各取引に対し２個以上の異なった種類のコインを必要とするもの",
+      "en": "wherein two or more coins of different denominations are required for each transaction",
+      "count": 187,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F5/08": {
+      "code": "G07F5/08",
+      "level": 2,
+      "parent": "G07F5/02",
+      "ja": "各取引に対し２個以上のコインまたはそれと同等の１個のコインを任意に使用するもの；各取引に対し２個以上のコインまたは他の同等のコインの組み合わせを任意に使用するもの",
+      "en": "wherein the use of two or more coins or an equivalent single coin is optional for each transaction; wherein the use of two or more coins or an alternative equivalent combination of coins is optional for each transaction",
+      "count": 217,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F5/10": {
+      "code": "G07F5/10",
+      "level": 1,
+      "parent": "G07F5/00",
+      "ja": "コインによって電気的に作動されるもの，例．１個のコインによるもの",
+      "en": "actuated electrically by the coin, e.g. by a single coin",
+      "count": 570,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F5/12": {
+      "code": "G07F5/12",
+      "level": 2,
+      "parent": "G07F5/10",
+      "ja": "各取引に対し２個以上の同一種類のコインを必要とするもの",
+      "en": "wherein two or more coins of the same denomination are required for each transaction",
+      "count": 76,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F5/14": {
+      "code": "G07F5/14",
+      "level": 2,
+      "parent": "G07F5/10",
+      "ja": "各取引に対し２個以上の異なった種類のコインを必要とするもの",
+      "en": "wherein two or more coins of different denominations are required for each transaction",
+      "count": 48,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F5/16": {
+      "code": "G07F5/16",
+      "level": 2,
+      "parent": "G07F5/10",
+      "ja": "各取引に対し２個以上のコインまたはそれと同等の１個のコインを任意に使用するもの；各取引に対し２個以上のコインまたは他の同等のコインの組み合わせを任意に使用するもの",
+      "en": "wherein the use of two or more coins or an equivalent single coin is optional for each transaction; wherein the use of two or more coins or an alternative equivalent combination of coins is optional for each transaction",
+      "count": 74,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F5/18": {
+      "code": "G07F5/18",
+      "level": 1,
+      "parent": "G07F5/00",
+      "ja": "一つの場所から数個のコイン解放装置を制御するのに特に適したもの",
+      "en": "specially adapted for controlling several coin-freed apparatus from one place",
+      "count": 1509,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F5/20": {
+      "code": "G07F5/20",
+      "level": 1,
+      "parent": "G07F5/00",
+      "ja": "信用貸としてコインの登録に特に適したもの，例．機械的に作動されるもの",
+      "en": "specially adapted for registering coins as credit, e.g. mechanically actuated",
+      "count": 297,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F5/22": {
+      "code": "G07F5/22",
+      "level": 2,
+      "parent": "G07F5/20",
+      "ja": "電気的に作動されるもの",
+      "en": "electrically actuated",
+      "count": 2735,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F5/24": {
+      "code": "G07F5/24",
+      "level": 1,
+      "parent": "G07F5/00",
+      "ja": "釣銭払出手段をもつもの",
+      "en": "with change-giving",
+      "count": 1644,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F5/26": {
+      "code": "G07F5/26",
+      "level": 1,
+      "parent": "G07F5/00",
+      "ja": "インターロック，例．使用するものとは別の仕切ドアーをロックしたもの",
+      "en": "Interlocks, e.g. for locking the doors of compartments other than that to be used",
+      "count": 481,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F7/00": {
+      "code": "G07F7/00",
+      "level": 0,
+      "parent": "G07F",
+      "ja": "自動販売用，賃貸用，コインまたは紙幣分配用もしくは払戻し用装置を解放または作動するためにコイン以外の物によって作動される機構［２］",
+      "en": "Mechanisms actuated by objects other than coins to free or to actuate vending, hiring, coin or paper currency dispensing or refunding apparatus",
+      "count": 5517,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F7/02": {
+      "code": "G07F7/02",
+      "level": 1,
+      "parent": "G07F7/00",
+      "ja": "鍵または他の信用ある登録装置によるもの［２］",
+      "en": "by keys or other credit registering devices",
+      "count": 4048,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F7/04": {
+      "code": "G07F7/04",
+      "level": 1,
+      "parent": "G07F7/00",
+      "ja": "紙幣によるもの",
+      "en": "by paper currency",
+      "count": 1911,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F7/06": {
+      "code": "G07F7/06",
+      "level": 1,
+      "parent": "G07F7/00",
+      "ja": "返却しうる容器，例．びん，によるもの",
+      "en": "by returnable containers, e.g. bottles",
+      "count": 3727,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F7/08": {
+      "code": "G07F7/08",
+      "level": 1,
+      "parent": "G07F7/00",
+      "ja": "ＩＤカードまたはクレジットカードによるもの［２］",
+      "en": "by coded identity card or credit card",
+      "count": 16550,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F7/10": {
+      "code": "G07F7/10",
+      "level": 2,
+      "parent": "G07F7/08",
+      "ja": "符号化された信号をともなうもの［２］",
+      "en": "together with a coded signal",
+      "count": 8960,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F7/12": {
+      "code": "G07F7/12",
+      "level": 2,
+      "parent": "G07F7/08",
+      "ja": "カード照合［５］",
+      "en": "Card verification",
+      "count": 3471,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F9/00": {
+      "code": "G07F9/00",
+      "level": 0,
+      "parent": "G07F",
+      "ja": "装置の特別な種類または型に特定されない細部（コインの挿入装置Ｇ０７Ｆ１／００；コイン作動機構，連動機構Ｇ０７Ｆ５／００）",
+      "en": "Details other than those peculiar to special kinds or types of apparatus(coin inlet arrangements <b>G07F1/00</b>; coin-actuated mechanisms, interlocks <b>G07F5/00</b>)",
+      "count": 18583,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F9/02": {
+      "code": "G07F9/02",
+      "level": 1,
+      "parent": "G07F9/00",
+      "ja": "警報または表示装置，例．売切れのとき，コイン解放装置の広告装置（計量される流体の中断を表示する警報または警告装置Ｇ０７Ｆ１５／１０）",
+      "en": "Devices for alarm or indication, e.g. when empty; Advertising arrangements in coin-freed apparatus(alarms or warning devices indicating the interruption of flow to be metered <b>G07F15/10</b>)",
+      "count": 13470,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F9/04": {
+      "code": "G07F9/04",
+      "level": 1,
+      "parent": "G07F9/00",
+      "ja": "余剰または使用しないコインの返却手段",
+      "en": "Means for returning surplus or unused coins",
+      "count": 1188,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F9/06": {
+      "code": "G07F9/06",
+      "level": 1,
+      "parent": "G07F9/00",
+      "ja": "コインボックス",
+      "en": "Coin boxes",
+      "count": 1841,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F9/08": {
+      "code": "G07F9/08",
+      "level": 1,
+      "parent": "G07F9/00",
+      "ja": "挿入されたコインの総額の計数積算",
+      "en": "Counting total of coins inserted",
+      "count": 710,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F9/10": {
+      "code": "G07F9/10",
+      "level": 1,
+      "parent": "G07F9/00",
+      "ja": "筐体，例．加熱または冷却手段をもつもの",
+      "en": "Casings, e.g. with means for heating or cooling",
+      "count": 15688,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F11/00": {
+      "code": "G07F11/00",
+      "level": 0,
+      "parent": "G07F",
+      "ja": "別個の品物を送出するコイン解放装置または同様なもの",
+      "en": "Coin-freed apparatus for dispensing, or the like, discrete articles",
+      "count": 18114,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F11/02": {
+      "code": "G07F11/02",
+      "level": 1,
+      "parent": "G07F11/00",
+      "ja": "マガジンが動かないものからなるもの",
+      "en": "from non-movable magazines",
+      "count": 1432,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F11/04": {
+      "code": "G07F11/04",
+      "level": 2,
+      "parent": "G07F11/02",
+      "ja": "マガジン内に他の品物の上に垂直に貯えられているもの",
+      "en": "in which magazines the articles are stored one vertically above the other",
+      "count": 2508,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F11/06": {
+      "code": "G07F11/06",
+      "level": 3,
+      "parent": "G07F11/04",
+      "ja": "枢着されているフラップまたは棚上に個々に支持されているもの",
+      "en": "supported individually on pivotally-mounted flaps or shelves",
+      "count": 655,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F11/08": {
+      "code": "G07F11/08",
+      "level": 3,
+      "parent": "G07F11/04",
+      "ja": "２個の支柱の間に互い違いの関係に並べられたもの",
+      "en": "arranged in two columns in staggered relationship",
+      "count": 216,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F11/10": {
+      "code": "G07F11/10",
+      "level": 3,
+      "parent": "G07F11/04",
+      "ja": "共通の取出し用の軌道をもった２個以上のマガジン",
+      "en": "two or more magazines having a common delivery chute",
+      "count": 774,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F11/12": {
+      "code": "G07F11/12",
+      "level": 3,
+      "parent": "G07F11/04",
+      "ja": "貯えの積み重ねを自動的に変える手段をもつもの",
+      "en": "with means for automatically changing to reserve stacks",
+      "count": 161,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F11/14": {
+      "code": "G07F11/14",
+      "level": 3,
+      "parent": "G07F11/04",
+      "ja": "一番上の取出しができるように積載物を引き上げる手段をもつもの",
+      "en": "with means for raising the stack of articles to permit delivery of the topmost",
+      "count": 509,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F11/16": {
+      "code": "G07F11/16",
+      "level": 3,
+      "parent": "G07F11/04",
+      "ja": "取出し手段",
+      "en": "Delivery means",
+      "count": 8529,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F11/18": {
+      "code": "G07F11/18",
+      "level": 4,
+      "parent": "G07F11/16",
+      "ja": "奥まった位置に待機する引出し",
+      "en": "Recessed drawers",
+      "count": 770,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F11/20": {
+      "code": "G07F11/20",
+      "level": 4,
+      "parent": "G07F11/16",
+      "ja": "直接手で作動される押し手",
+      "en": "Pushers actuated directly by hand",
+      "count": 206,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F11/22": {
+      "code": "G07F11/22",
+      "level": 4,
+      "parent": "G07F11/16",
+      "ja": "間接に手で作動される押し手，例．クランクまたはレバーを介したもの",
+      "en": "Pushers actuated indirectly by hand, e.g. through cranks or levers",
+      "count": 460,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F11/24": {
+      "code": "G07F11/24",
+      "level": 4,
+      "parent": "G07F11/16",
+      "ja": "回転または揺動部材",
+      "en": "Rotary or oscillatory members",
+      "count": 2812,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F11/26": {
+      "code": "G07F11/26",
+      "level": 4,
+      "parent": "G07F11/16",
+      "ja": "エンドレスバンド",
+      "en": "Endless bands",
+      "count": 995,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F11/28": {
+      "code": "G07F11/28",
+      "level": 2,
+      "parent": "G07F11/02",
+      "ja": "マガジンが傾斜しているもの",
+      "en": "in which the magazines are inclined",
+      "count": 828,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F11/30": {
+      "code": "G07F11/30",
+      "level": 3,
+      "parent": "G07F11/28",
+      "ja": "各々独立した取出し装置をもつ２個以上のマガジン",
+      "en": "two or more magazines having independent delivery",
+      "count": 344,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F11/32": {
+      "code": "G07F11/32",
+      "level": 3,
+      "parent": "G07F11/28",
+      "ja": "共通の取出し軌道をもつ２個以上のマガジン",
+      "en": "two or more magazines having a common delivery chute",
+      "count": 380,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F11/34": {
+      "code": "G07F11/34",
+      "level": 2,
+      "parent": "G07F11/02",
+      "ja": "マガジンがジグザグ形をしているもの",
+      "en": "in which the magazines are of zig-zag form",
+      "count": 1695,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F11/36": {
+      "code": "G07F11/36",
+      "level": 2,
+      "parent": "G07F11/02",
+      "ja": "マガジンがヘリカル形かまたはスパイラル形をしているもの",
+      "en": "in which the magazines are of helical or spiral form",
+      "count": 672,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F11/38": {
+      "code": "G07F11/38",
+      "level": 2,
+      "parent": "G07F11/02",
+      "ja": "マガジンが水平なもの",
+      "en": "in which the magazines are horizontal",
+      "count": 377,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F11/40": {
+      "code": "G07F11/40",
+      "level": 3,
+      "parent": "G07F11/38",
+      "ja": "品物が手動手段によって取り出されるもの",
+      "en": "the articles being delivered by hand-operated means",
+      "count": 155,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F11/42": {
+      "code": "G07F11/42",
+      "level": 3,
+      "parent": "G07F11/38",
+      "ja": "品物がモーター駆動手段によって取り出されるもの",
+      "en": "the articles being delivered by motor-driven means",
+      "count": 1172,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F11/44": {
+      "code": "G07F11/44",
+      "level": 2,
+      "parent": "G07F11/02",
+      "ja": "マガジン内に品物がばらのままで貯えられているもの",
+      "en": "in which magazines the articles are stored in bulk",
+      "count": 1210,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F11/46": {
+      "code": "G07F11/46",
+      "level": 1,
+      "parent": "G07F11/00",
+      "ja": "移動できる貯蔵容器または支持体からなるもの",
+      "en": "from movable storage containers or supports",
+      "count": 774,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F11/48": {
+      "code": "G07F11/48",
+      "level": 2,
+      "parent": "G07F11/46",
+      "ja": "枢着された貯蔵容器または支持体，例．マガジン",
+      "en": "the storage containers or supports, e.g. magazine, being pivotally mounted",
+      "count": 186,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F11/50": {
+      "code": "G07F11/50",
+      "level": 2,
+      "parent": "G07F11/46",
+      "ja": "貯蔵容器または支持体が回転自在に支持されたもの",
+      "en": "the storage containers or supports being rotatably mounted",
+      "count": 326,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F11/52": {
+      "code": "G07F11/52",
+      "level": 3,
+      "parent": "G07F11/50",
+      "ja": "水平軸のまわりに回転するもの",
+      "en": "about horizontal axes",
+      "count": 535,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F11/54": {
+      "code": "G07F11/54",
+      "level": 3,
+      "parent": "G07F11/50",
+      "ja": "垂直軸のまわりに回転するもの",
+      "en": "about vertical axes",
+      "count": 1368,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F11/56": {
+      "code": "G07F11/56",
+      "level": 4,
+      "parent": "G07F11/54",
+      "ja": "貯蔵容器または支持体が回転と軸方向の移動とをするもの",
+      "en": "the storage containers or supports both rotating and moving axially",
+      "count": 279,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F11/58": {
+      "code": "G07F11/58",
+      "level": 2,
+      "parent": "G07F11/46",
+      "ja": "品物がエンドレスベルトまたは同様のコンベアの上に（またはよって）支持されたもの",
+      "en": "the articles being supported on or by endless belts or like conveyors",
+      "count": 2556,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F11/60": {
+      "code": "G07F11/60",
+      "level": 2,
+      "parent": "G07F11/46",
+      "ja": "貯蔵容器または支持体が直線状に移動するもの",
+      "en": "the storage containers or supports being rectilinearly movable",
+      "count": 543,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F11/62": {
+      "code": "G07F11/62",
+      "level": 1,
+      "parent": "G07F11/00",
+      "ja": "固定した容器内の仕切り室内に品物が貯められたもの",
+      "en": "in which the articles are stored in compartments in fixed receptacles",
+      "count": 2412,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F11/64": {
+      "code": "G07F11/64",
+      "level": 1,
+      "parent": "G07F11/00",
+      "ja": "静止した支持体から品物が個別に吊り下げられたもの",
+      "en": "in which the articles are individually suspended from stationary supports",
+      "count": 409,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F11/66": {
+      "code": "G07F11/66",
+      "level": 1,
+      "parent": "G07F11/00",
+      "ja": "品物がかたまりから切断されて送出されるもの",
+      "en": "in which the articles are dispensed by cutting from a mass",
+      "count": 198,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F11/68": {
+      "code": "G07F11/68",
+      "level": 1,
+      "parent": "G07F11/00",
+      "ja": "細長い片またはシーツから品物が裂かれまたは分離されるもの",
+      "en": "in which the articles are torn or severed from strips or sheets",
+      "count": 920,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F11/70": {
+      "code": "G07F11/70",
+      "level": 1,
+      "parent": "G07F11/00",
+      "ja": "品物が装置内で成分，半加工品または原材料から作成されるもの",
+      "en": "in which the articles are formed in the apparatus from components, blanks, or material constituents",
+      "count": 1776,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F11/72": {
+      "code": "G07F11/72",
+      "level": 1,
+      "parent": "G07F11/00",
+      "ja": "補助装置，例．葉巻タバコの火つけ，びんの蓋あけ",
+      "en": "Auxiliary equipments, e.g. for lighting cigars, opening bottles",
+      "count": 1730,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F13/00": {
+      "code": "G07F13/00",
+      "level": 0,
+      "parent": "G07F",
+      "ja": "流体，半液体または粒状物の貯蔵所からの送出を制御するためのコイン解放装置",
+      "en": "Coin-freed apparatus for controlling dispensing of fluids, semiliquids or granular material from reservoirs",
+      "count": 5532,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F13/02": {
+      "code": "G07F13/02",
+      "level": 1,
+      "parent": "G07F13/00",
+      "ja": "体積によるもの",
+      "en": "by volume",
+      "count": 2693,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F13/04": {
+      "code": "G07F13/04",
+      "level": 1,
+      "parent": "G07F13/00",
+      "ja": "重量によるもの",
+      "en": "by weight",
+      "count": 551,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F13/06": {
+      "code": "G07F13/06",
+      "level": 1,
+      "parent": "G07F13/00",
+      "ja": "異なった液体，または物質，またはこれらの混合物を選択的に送出するもの",
+      "en": "with selective dispensing of different fluids or materials or mixtures thereof",
+      "count": 5552,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F13/08": {
+      "code": "G07F13/08",
+      "level": 1,
+      "parent": "G07F13/00",
+      "ja": "噴霧式のもの",
+      "en": "in the form of a spray",
+      "count": 195,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F13/10": {
+      "code": "G07F13/10",
+      "level": 1,
+      "parent": "G07F13/00",
+      "ja": "容器と組み合って送出されるもの，例．コップその他の物品",
+      "en": "with associated dispensing of containers, e.g. cups or other articles",
+      "count": 4205,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F15/00": {
+      "code": "G07F15/00",
+      "level": 0,
+      "parent": "G07F",
+      "ja": "液体，気体または電気の計量制御された送出に関するコイン解放装置",
+      "en": "Coin-freed apparatus with meter-controlled dispensing of liquid, gas, or electricity",
+      "count": 7719,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F15/02": {
+      "code": "G07F15/02",
+      "level": 1,
+      "parent": "G07F15/00",
+      "ja": "コイン挿入後手によって分量機構が働かされるもの",
+      "en": "in which the quantity mechanism is set forward by hand after insertion of a coin",
+      "count": 474,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F15/04": {
+      "code": "G07F15/04",
+      "level": 1,
+      "parent": "G07F15/00",
+      "ja": "コイン挿入によって自動的に分量機構が働かされるもの",
+      "en": "in which the quantity mechanism is set forward automatically by the insertion of a coin",
+      "count": 514,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F15/06": {
+      "code": "G07F15/06",
+      "level": 1,
+      "parent": "G07F15/00",
+      "ja": "基本料金，例．計器の使用料，の先払い手段をもつもの",
+      "en": "with means for prepaying basic charges, e.g. rent for meters",
+      "count": 5009,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F15/08": {
+      "code": "G07F15/08",
+      "level": 1,
+      "parent": "G07F15/00",
+      "ja": "料金変更または価格変更に対する手段をもつもの",
+      "en": "with means for varying the tariff or changing the price",
+      "count": 596,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F15/10": {
+      "code": "G07F15/10",
+      "level": 1,
+      "parent": "G07F15/00",
+      "ja": "警報または警告装置をもつもの，例．供給の中断を知らせるもの",
+      "en": "with alarm or warning devices, e.g. indicating the interrupting of the supply",
+      "count": 867,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F15/12": {
+      "code": "G07F15/12",
+      "level": 1,
+      "parent": "G07F15/00",
+      "ja": "計量が時間により行われるもの",
+      "en": "in which metering is on a time basis",
+      "count": 722,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F17/00": {
+      "code": "G07F17/00",
+      "level": 0,
+      "parent": "G07F",
+      "ja": "物品の賃貸用コイン解放装置；コイン解放設備または施設",
+      "en": "Coin-freed apparatus for hiring articles; Coin-freed facilities or services",
+      "count": 18502,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F17/02": {
+      "code": "G07F17/02",
+      "level": 1,
+      "parent": "G07F17/00",
+      "ja": "光学装置，例．望遠鏡，に関するもの",
+      "en": "for optical devices, e.g. telescopes",
+      "count": 198,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F17/04": {
+      "code": "G07F17/04",
+      "level": 1,
+      "parent": "G07F17/00",
+      "ja": "体重，身長，力などの人体測定機に関するもの",
+      "en": "for anthropometrical measurements such as weight, height, strength",
+      "count": 473,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F17/06": {
+      "code": "G07F17/06",
+      "level": 1,
+      "parent": "G07F17/00",
+      "ja": "空気入れに関するもの",
+      "en": "for inflating-pumps",
+      "count": 77,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F17/08": {
+      "code": "G07F17/08",
+      "level": 1,
+      "parent": "G07F17/00",
+      "ja": "椅子または足台に関するもの",
+      "en": "for seats or footstools",
+      "count": 142,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F17/10": {
+      "code": "G07F17/10",
+      "level": 1,
+      "parent": "G07F17/00",
+      "ja": "一時的に放置する所有物の安全保管のための手段に関するもの，例．所有物の締付具",
+      "en": "for means for safe-keeping of property, left temporarily, e.g. by fastening the property",
+      "count": 1907,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F17/12": {
+      "code": "G07F17/12",
+      "level": 2,
+      "parent": "G07F17/10",
+      "ja": "錠のかかる容器を含むもの，例．洗濯衣類の引受けに関するもの",
+      "en": "comprising lockable containers, e.g. for accepting clothes to be cleaned",
+      "count": 10529,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F17/14": {
+      "code": "G07F17/14",
+      "level": 1,
+      "parent": "G07F17/00",
+      "ja": "扉の締付けに関するもの（安全保管のための容器に関するものＧ０７Ｆ１７／１２）；廻り木戸に関するもの",
+      "en": "for fastenings for doors(of containers for safe-keeping <b>G07F17/12</b>);for turnstiles",
+      "count": 917,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F17/16": {
+      "code": "G07F17/16",
+      "level": 1,
+      "parent": "G07F17/00",
+      "ja": "広告，通知，絵画またはこれと同様のものの展示装置に関するもの",
+      "en": "for devices exhibiting advertisements, announcements, pictures, or the like",
+      "count": 1807,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F17/18": {
+      "code": "G07F17/18",
+      "level": 1,
+      "parent": "G07F17/00",
+      "ja": "身体の洗じょうまたは乾燥に関するもの",
+      "en": "for washing or drying persons",
+      "count": 424,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F17/20": {
+      "code": "G07F17/20",
+      "level": 1,
+      "parent": "G07F17/00",
+      "ja": "物品，例．衣類，車，の洗じょうまたは乾燥に関するもの",
+      "en": "for washing or drying articles, e.g. clothes, motor cars",
+      "count": 1516,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F17/22": {
+      "code": "G07F17/22",
+      "level": 1,
+      "parent": "G07F17/00",
+      "ja": "長靴または短靴のクリーニングと磨きに関するもの",
+      "en": "for cleaning and polishing boots or shoes",
+      "count": 76,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F17/24": {
+      "code": "G07F17/24",
+      "level": 1,
+      "parent": "G07F17/00",
+      "ja": "パーキングメーターに関するもの",
+      "en": "for parking meters",
+      "count": 2049,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F17/26": {
+      "code": "G07F17/26",
+      "level": 1,
+      "parent": "G07F17/00",
+      "ja": "印刷，スタンプ，署名，タイプまたはテレ印刷装置に関するもの（チケット印刷機またはこれと同様の装置Ｇ０７Ｆ１７／４２）",
+      "en": "for printing, stamping, franking, typing, or teleprinting apparatus(ticket printing or like apparatus <b>G07F17/42</b>)",
+      "count": 4900,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F17/28": {
+      "code": "G07F17/28",
+      "level": 1,
+      "parent": "G07F17/00",
+      "ja": "ラジオ器具に関するもの",
+      "en": "for radio apparatus",
+      "count": 355,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F17/30": {
+      "code": "G07F17/30",
+      "level": 1,
+      "parent": "G07F17/00",
+      "ja": "楽器に関するもの",
+      "en": "for musical instruments",
+      "count": 968,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F17/32": {
+      "code": "G07F17/32",
+      "level": 1,
+      "parent": "G07F17/00",
+      "ja": "ゲーム用具，玩具，スポーツ用具，または娯楽用具に関するもの",
+      "en": "for games, toys, sports, or amusements",
+      "count": 22071,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F17/34": {
+      "code": "G07F17/34",
+      "level": 2,
+      "parent": "G07F17/32",
+      "ja": "移動部材の停止によるもの，例．スロットマシン",
+      "en": "depending on the stopping of moving members, e.g. \"fruit\" machines",
+      "count": 5547,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F17/36": {
+      "code": "G07F17/36",
+      "level": 2,
+      "parent": "G07F17/32",
+      "ja": "年令，性格，運命をつげる機器",
+      "en": "Age, character, or fortune telling apparatus",
+      "count": 73,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F17/38": {
+      "code": "G07F17/38",
+      "level": 2,
+      "parent": "G07F17/32",
+      "ja": "球技用具；射撃用具",
+      "en": "Ball games; Shooting apparatus",
+      "count": 1380,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F17/40": {
+      "code": "G07F17/40",
+      "level": 1,
+      "parent": "G07F17/00",
+      "ja": "注文，広告またはこれと同様のものを受ける装置に関するもの",
+      "en": "for devices for accepting orders, advertisements, or the like",
+      "count": 1666,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F17/42": {
+      "code": "G07F17/42",
+      "level": 1,
+      "parent": "G07F17/00",
+      "ja": "チケット印刷機または同様な装置に関するもの",
+      "en": "for ticket printing or like apparatus",
+      "count": 3626,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    },
+    "G07F19/00": {
+      "code": "G07F19/00",
+      "level": 0,
+      "parent": "G07F",
+      "ja": "完全バンキングシステム；現金または類似のものの支払いまたは受け取り，かつそのような取り引きを現存する口座に記帳するために適合されたコード付カード解放装置，例．ＡＴＭ（現金自動取引機）（銀行経理業務のためのデータ処理装置Ｇ０６Ｑ４０／０２）［２００６．０１］",
+      "en": "Complete banking systems; Coded card-freed arrangements adapted for dispensing or receiving monies or the like and posting such transactions to existing accounts, e.g. automatic teller machines(data processing equipment for bank accounting <b>G06Q40/02</b>)",
+      "count": 23205,
+      "sourceFile": "ipc_G07F.txt",
+      "kind": "ipc"
+    }
+  }
+};

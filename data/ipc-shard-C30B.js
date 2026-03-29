@@ -1,0 +1,1736 @@
+window.IPC_SHARD_C30B = {
+  "generatedAt": "2026-03-20T02:17:46.539Z",
+  "total": 173,
+  "entries": {
+    "C30B": {
+      "code": "C30B",
+      "level": 0,
+      "parent": "C30",
+      "ja": "単結晶成長（超高圧を用いるもの，例．ダイヤモンド生成用Ｂ０１Ｊ３／０６）；共晶物質の一方向固化または共析晶物質の一方向析出；物質のゾーンメルティングによる精製（金属または合金のゾーン精製Ｃ２２Ｂ）；特定構造を有する均質多結晶物質の製造（金属の鋳造，同じ方法と装置による他の物質の鋳造Ｂ２２Ｄ；プラスチックの加工Ｂ２９；金属または合金の物理的構造の改良Ｃ２１Ｄ，Ｃ２２Ｆ）；単結晶または特定構造を有する均質多結晶物質；単結晶または特定構造を有する均質多結晶物質の後処理（半導体装置またはその部品を製造するためのものＨ１０）；そのための装置［３］<br><br><b><ul>注</ul></b><br>（１）このサブクラスにおいては，下記の表現は以下に示す意味で用いる：<br>―“単結晶”は双晶およびほぼ単結晶状の生成物も含む；［３］<br>―“均質多結晶物質”はそのすべてが同じ化学組成を有する結晶粒子をもつ物質を意味する；［５］<br>―“特定構造”は選択方向に配向された結晶粒または通常得られるものよりも大きい結晶粒からなる物質の構造を意味する。［５］<br>（２）このサブクラスにおいては多観点分類が適用されるので，主題事項がサブクラス中の複数のグループに包含される観点に特徴のあるものであれば，その主題事項はそれらのグループそれぞれに分類する。［２０１２．０１］<br>（３）このサブクラスにおいては：<br>―特殊な材料または形状の単結晶または特定構造を有する均質多結晶物質の製造は，グループＣ３０Ｂ２９／００だけでなくプロセスに関するグループにも分類する；［３］<br>―特定のプロセスに特に適合した装置はそのプロセスに関する適当なグループに分類する。２種以上のプロセスに用いられる装置はグループＣ３０Ｂ３５／００に分類する。［３］<br><br><b><ul>サブクラス内の索引</ul></b><br>サブクラス内の索引<br>単結晶成長<br>固体またはゲルからの　１／００，３／００，５／００<br>液体からの　７／００～２１／００，２７／００<br>蒸気からの　２３／００，２５／００<br>単結晶または特定構造を有する均質多結晶物質の製造　２８／００，３０／００<br>単結晶または特定構造を有する均質多結晶物質　２９／００<br>後処理　３１／００，３３／００<br>装置　３５／００",
+      "en": "SINGLE-CRYSTAL GROWTH (by using ultra-high pressure, e.g. for the formation of diamonds, <b>B01J3/06</b>);UNIDIRECTIONAL SOLIDIFICATION OF EUTECTIC MATERIAL OR UNIDIRECTIONAL DEMIXING OF EUTECTOID MATERIAL; REFINING BY ZONE-MELTING OF MATERIAL (zone-refining of metals or alloys <b>C22B</b>);PRODUCTION OF A HOMOGENEOUS POLYCRYSTALLINE MATERIAL WITH DEFINED STRUCTURE (casting of metals, casting of other substances by the same processes or devices <b>B22D</b>;  working of plastics <b>B29</b>;  modifying the physical structure of metals or alloys <b>C21D</b>, <b>C22F</b>);SINGLE CRYSTALS OR HOMOGENEOUS POLYCRYSTALLINE MATERIAL WITH DEFINED STRUCTURE; AFTER-TREATMENT OF SINGLE CRYSTALS OR A HOMOGENEOUS POLYCRYSTALLINE MATERIAL WITH DEFINED STRUCTURE (for producing semiconductor devices or parts thereof <b>H10</b>);APPARATUS THEREFOR; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this subclass, the following expressions are used with the meaning indicated: <ul><li>\"single crystal\" includes also twin crystals and a predominantly single crystal product;</li><li>\"homogeneous polycrystalline material\" means a material with crystal particles, all of which have the same chemical composition;</li><li>\"defined structure\" means the structure of a material with grains which are oriented in a preferential way or have larger dimensions than normally obtained.</li></ul></li><li>In this subclass: <ul><li>the preparation of single crystals or a homogeneous polycrystalline material with defined structure of particular materials or shapes is classified in the group for the process as well as in group <b>C30B29/00</b>;</li><li>an apparatus specially adapted for a specific process is classified in the appropriate group for the process. Apparatus to be used in more than one kind of process is classified in group <b>C30B35/00</b>.</li></ul></li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">SINGLE-CRYSTAL GROWTH<tr><td width=\"70%\">from solids or gels </td><td><b><b>1/00</b>, <b>3/00</b>, <b>5/00</b></b></td></tr></tr><tr><td width=\"70%\">from liquids </td><td><b><b>7/00 to 21/00</b> , <b>27/00</b></b></td></tr></tr><tr><td width=\"70%\">from vapours </td><td><b><b>23/00</b>, <b>25/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">PRODUCTION OF SINGLE CRYSTALS OR HOMOGENEOUS POLYCRYSTALLINE MATERIAL WITH DEFINED STRUCTURE </td><td><b><b>28/00</b>, <b>30/00</b></b></td></tr></tr><tr><td width=\"70%\">SINGLE CRYSTALS OR HOMOGENEOUS POLYCRYSTALLINE MATERIAL WITH DEFINED STRUCTURE </td><td><b><b>29/00</b></b></td></tr></tr><tr><td width=\"70%\">AFTER-TREATMENT </td><td><b><b>31/00</b>, <b>33/00</b></b></td></tr></tr><tr><td width=\"70%\">APPARATUS </td><td><b><b>35/00</b></b></td></tr></tr></table>",
+      "count": 269,
+      "sourceFile": "ipc_C.txt",
+      "kind": "ipc"
+    },
+    "C30": {
+      "code": "C30",
+      "level": 0,
+      "parent": "C",
+      "ja": "結晶成長［３］",
+      "en": "CRYSTAL GROWTH",
+      "count": 0,
+      "sourceFile": "ipc_C.txt",
+      "kind": "ipc"
+    },
+    "C": {
+      "code": "C",
+      "level": 0,
+      "parent": null,
+      "ja": "化学；冶金<br><br><b><ul>注</ul></b><br>（１）セクションＣにおいて，化学元素の種類に関する定義は次の通りである：<br>アルカリ金属：Ｌｉ，Ｎａ，Ｋ，Ｒｂ，Ｃｓ，Ｆｒ<br>アルカリ土類金属：Ｃａ，Ｓｒ，Ｂａ，Ｒａ<br>ランタニド：原子番号５７から７１までの元素<br>希土類：Ｓｃ，Ｙ，ランタニド<br>アクチニド：原子番号８９から１０３までの元素<br>耐火金属：Ｔｉ，Ｖ，Ｃｒ，Ｚｒ，Ｎｂ，Ｍｏ，Ｈｆ，Ｔａ，Ｗ<br>ハロゲン：Ｆ，Ｃｌ，Ｂｒ，Ｉ，Ａｔ<br>希ガス：Ｈｅ，Ｎｅ，Ａｒ，Ｋｒ，Ｘｅ，Ｒｎ<br>白金族：Ｏｓ，Ｉｒ，Ｐｔ，Ｒｕ，Ｒｈ，Ｐｄ<br>貴金属：Ａｇ，Ａｕ，白金族<br>軽金属：アルカリ金属，アルカリ土類金属，Ｂｅ，Ａｌ，Ｍｇ<br>重金属：軽金属以外の金属<br>鉄族：Ｆｅ，Ｃｏ，Ｎｉ<br>非金属：Ｈ，Ｂ，Ｃ，Ｓｉ，Ｎ，Ｐ，Ｏ，Ｓ，Ｓｅ，Ｔｅ，希ガス，ハロゲン<br>金属：非金属以外の元素<br>遷移元素：原子番号２１から３０まで，３９から４８まで，５７から８０まで，８９以上の元素<br>（２）Ｃセクションは以下のものを包含する：<br>（ａ）無機化合物，有機化合物，高分子化合物およびそれらの調製法を包含する純粋化学；<br>（ｂ）たとえばガラス，セラミック，肥料，プラスチック組成物，ペイント，石油工業の製品のような上記化合物を含有する組成物を包含する応用化学。それはまた，爆発物，染料，接着剤，潤滑剤および洗剤のように，ある目的に適した特別の性質をもつための組成物をも包含する；<br>（ｃ）コークスの製造，固体または気体燃料の製造，油脂およびろうの製造および精製，発酵工業（例．ビールおよびぶどう酒の製造），製糖工業のようなある境界工業；<br>（ｄ）ある操作または処理であって，純粋に機械的な処理，例．レザーおよび皮の機械的処理，または部分的機械的処理，例．水処理，または腐食防止一般であるもの；<br>（ｅ）冶金，鉄または非鉄合金<br>（３）ＩＰＣの全てのセクションにおいて，相反する指示がない限り，元素記号周期表への言及は，以下に示す１８のグループを表す。［２００９．０１］<br>’「図」’<br>’「図」’<br>（４）<br>（ａ）化学的部分または面および非化学的部分または面の両方を有する操作，処理，製品または物品の場合に，一般規則として，化学的部分または面はＣセクションに包含される。<br>（ｂ）これらのうちのある場合には，化学的部分または面には非化学的部分または面を伴い，純粋に機械的部分または面を伴うことさえある，というのは非化学的面は操作または処理にとって本質的であるかまたはそれらの重要な要素を構成するからである；実際，全体のさまざまな部分または面を分割しないのがより論理的と思える。これは応用化学や上記注（１）（ｃ），（ｄ）および（ｅ）の工業，操作および処理の場合に適用される。例えば，ガラス製造用特殊炉はＣ０３に包含されＦ２７には包含されない。<br>（ｃ）しかしながら，機械的面（または非化学的面）に非化学的な面が伴うという例外もある，例えば：<br>―サブクラスＡ６１Ｋにおけるある抽出プロセス；<br>―サブクラスＡ６１Ｌにおける空気の化学的精製；<br>―サブクラスＡ６２Ｄにおける化学的消火方法；<br>―クラスＢ０１における化学的プロセスおよび装置；<br>―サブクラスＢ２７Ｋにおける木材の含浸；<br>―サブクラスＧ０１Ｎにおける化学的分析または試験法；<br>―クラスＧ０３における写真材料またはプロセス，そして一般に，Ｄセクションにおける繊維の化学的処理および繊維素，紙等の製造<br>（ｄ）さらに他の場合，純粋化学的面はＣセクションに包含され，応用化学的面はＡ，Ｂ，Ｆセクションのような他のセクションに包含される，例．以下の物質または組成物の使用：<br>―サブクラスＡ０１Ｎに包含される植物または動物の処理；<br>―クラスＡ２３に包含される食物；<br>―クラスＦ４２に包含される弾薬または爆薬<br>（ｅ）化学的面および機械的面が非常に交錯して，簡単明確な分割ができない時，または化学的処理が自然なまたは論理的な延長として機械的プロセスを要する時は，化学的面に加えて，Ｃセクションは機械的面の一部のみ，例．クラスＣ０４に包含される人造石の後処理，を包含する。この後者の場合に，たとえその区別がむしろ任意であってもその位置を明確にするよう注または参照を通常設けている。",
+      "en": "CHEMISTRY; METALLURGY; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In section <b>C</b>, the definitions of groups of chemical elements are as follows: <ul><li><u>Alkali metals:</u> Li, Na, K, Rb, Cs, Fr</li><li><u>Alkaline earth metals:</u> Ca, Sr, Ba, Ra</li><li><u>Lanthanides:</u> elements with atomic numbers 57 to 71 inclusive</li><li><u>Rare earths:</u> Sc, Y, Lanthanides</li><li><u>Actinides:</u> elements with atomic numbers 89 to 103 inclusive</li><li><u>Refractory metals:</u> Ti, V, Cr, Zr, Nb, Mo, Hf, Ta, W</li><li><u>Halogens:</u> F, Cl, Br, I, At</li><li><u>Noble gases:</u> He, Ne, Ar, Kr, Xe, Rn</li><li><u>Platinum group:</u> Os, Ir, Pt, Ru, Rh, Pd</li><li><u>Noble metals:</u> Ag, Au, Platinum group</li><li><u>Light metals:</u> alkali metals, alkaline earth metals, Be, Al, Mg</li><li><u>Heavy metals:</u> metals other than light metals</li><li><u>Iron group:</u> Fe, Co, Ni</li><li><u>Non-metals:</u> H, B, C, Si, N, P, O, S, Se, Te, noble gases, halogens</li><li><u>Metals:</u> elements other than non-metals</li><li><u>Transition elements:</u> elements with atomic numbers 21 to 30 inclusive, 39 to 48 inclusive, 57 to 80 inclusive, 89 upwards</li></ul></li><li>Section <b>C</b> <u>covers</u> : <ul><li>pure chemistry, which covers inorganic compounds, organic compounds, macromolecular compounds, and their methods of preparation;</li><li>applied chemistry, which covers compositions containing the above compounds, such as: glass, ceramics, fertilisers, plastics compositions, paints, products of the petroleum industry. It also <u>covers</u> certain compositions on account of their having particular properties rendering them suitable for certain purposes, as in the case of explosives, dyestuffs, adhesives, lubricants, and detergents;</li><li>certain marginal industries, such as the manufacture of coke and of solid or gaseous fuels, the production and refining of oils, fats and waxes, the fermentation industry (e.g., brewing and wine-making), the sugar industry;</li><li>certain operations or treatments, which are either purely mechanical, e.g., the mechanical treatment of leather and skins, or partly mechanical, e.g., the treatment of water or the prevention of corrosion in general;</li><li>metallurgy, ferrous or non-ferrous alloys.</li></ul></li><li>In all sections of the IPC, in the absence of an indication to the contrary, the Periodic Table of chemical elements referred to is the one with 18 groups as represented in the table below. [figure]</li><li><ul><li>In the case of operations, treatments, products or articles having both a chemical and a non-chemical part or aspect, the general rule is that the chemical part or aspect is covered by section <b>C</b>.</li><li>In some of these cases, the chemical part or aspect brings with it a non-chemical one, even though purely mechanical, because this latter aspect either is essential to the operation or treatment or constitutes an important element thereof. It has seemed, in fact, more logical not to dissociate the different parts or aspects of a coherent whole. This is the case for applied chemistry and for the industries, operations and treatments mentioned in Notes (1)(c), (d) and (e). For example, furnaces peculiar to the manufacture of glass are covered by class <b>C03</b> and not by class <b>F27</b>.</li><li>There are, however, some exceptions in which the mechanical (or non-chemical) aspect carries with it the chemical aspect, for example: <ul><li>certain extractive processes, in subclass <b>A61K</b>;</li><li>the chemical purification of air, in subclass <b>A61L</b>;</li><li>chemical methods of fire-fighting, in subclass <b>A62D</b>;</li><li>chemical processes and apparatus, in class <b>B01</b>;</li><li>impregnation of wood, in subclass <b>B27K</b>;</li><li>chemical methods of analysis or testing, in subclass <b>G01N</b>;</li><li>photographic materials and processes, in class <b>G03</b>, and, generally, the chemical treatment of textiles and the production of cellulose or paper, in section <b>D</b>.</li></ul></li><li>In still other cases, the pure chemical aspect is covered by section <b>C</b> and the applied chemical aspect by another section, such as <b>A</b>, <b>B</b> or <b>F</b>, e.g., the use of a substance or composition for: <ul><li>treatment of plants or animals, covered by subclass <b>A01N</b>;</li><li>foodstuffs, covered by class <b>A23</b>;</li><li>ammunition or explosives, covered by class <b>F42</b>.</li></ul></li><li>When the chemical and mechanical aspects are so closely interlocked that a neat and simple division is not possible, or when certain mechanical processes follow as a natural or logical continuation of a chemical treatment, section <b>C</b> may cover, in addition to the chemical aspect, a part only of the mechanical aspect, e.g., after-treatment of artificial stone, covered by class <b>C04</b>. In this latter case, a note or a reference is usually given to make the position clear, even if sometimes the division is rather arbitrary.</li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_C.txt",
+      "kind": "ipc"
+    },
+    "C30B1/00": {
+      "code": "C30B1/00",
+      "level": 0,
+      "parent": "C30B",
+      "ja": "固相からの直接単結晶成長（共析晶物質の一方向析出Ｃ３０Ｂ３／００；保護流体下で行うものＣ３０Ｂ２７／００）［３］",
+      "en": "Single-crystal growth directly from the solid state(unidirectional demixing of eutectoid materials <b>C30B3/00</b>; under a protective fluid <b>C30B27/00</b>)",
+      "count": 588,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B1/02": {
+      "code": "C30B1/02",
+      "level": 1,
+      "parent": "C30B1/00",
+      "ja": "熱処理によるもの，例．歪焼鈍（Ｃ３０Ｂ１／１２が優先）［３］",
+      "en": "by thermal treatment, e.g. strain annealing(<b>C30B1/12</b> takes precedence)",
+      "count": 1443,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B1/04": {
+      "code": "C30B1/04",
+      "level": 2,
+      "parent": "C30B1/02",
+      "ja": "等温再結晶化［３］",
+      "en": "Isothermal recrystallisation",
+      "count": 173,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B1/06": {
+      "code": "C30B1/06",
+      "level": 2,
+      "parent": "C30B1/02",
+      "ja": "温度勾配下での再結晶化［３］",
+      "en": "Recrystallisation under a temperature gradient",
+      "count": 103,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B1/08": {
+      "code": "C30B1/08",
+      "level": 3,
+      "parent": "C30B1/06",
+      "ja": "ゾーン再結晶化［３］",
+      "en": "Zone recrystallisation",
+      "count": 174,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B1/10": {
+      "code": "C30B1/10",
+      "level": 1,
+      "parent": "C30B1/00",
+      "ja": "固相反応または多相拡散によるもの［３］",
+      "en": "by solid state reactions or multi-phase diffusion",
+      "count": 1070,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B1/12": {
+      "code": "C30B1/12",
+      "level": 1,
+      "parent": "C30B1/00",
+      "ja": "成長中の圧力処理によるもの［３］",
+      "en": "by pressure treatment during the growth",
+      "count": 336,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B3/00": {
+      "code": "C30B3/00",
+      "level": 0,
+      "parent": "C30B",
+      "ja": "共析晶物質の一方向析出［３］",
+      "en": "Unidirectional demixing of eutectoid materials",
+      "count": 50,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B5/00": {
+      "code": "C30B5/00",
+      "level": 0,
+      "parent": "C30B",
+      "ja": "ゲルからの単結晶成長（保護流体下で行うものＣ３０Ｂ２７／００）［３］",
+      "en": "Single-crystal growth from gels(under a protective fluid <b>C30B27/00</b>)",
+      "count": 308,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B5/02": {
+      "code": "C30B5/02",
+      "level": 1,
+      "parent": "C30B5/00",
+      "ja": "ドープ物質を加えるもの［３］",
+      "en": "with addition of doping materials",
+      "count": 26,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B7/00": {
+      "code": "C30B7/00",
+      "level": 0,
+      "parent": "C30B",
+      "ja": "常温で液体の溶媒を用いる溶液からの単結晶成長，例．水溶液（溶融溶媒からのものＣ３０Ｂ９／００；ノーマル・フリージングまたは温度勾配凝固によるものＣ３０Ｂ１１／００；保護流体下で行うものＣ３０Ｂ２７／００）［３］",
+      "en": "Single-crystal growth from solutions using solvents which are liquid at normal temperature, e.g. aqueous solutions(from molten solvents <b>C30B9/00</b>; by normal or gradient freezing <b>C30B11/00</b>; under a protective fluid <b>C30B27/00</b>)",
+      "count": 1769,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B7/02": {
+      "code": "C30B7/02",
+      "level": 1,
+      "parent": "C30B7/00",
+      "ja": "溶媒の蒸発によるもの［３］",
+      "en": "by evaporation of the solvent",
+      "count": 234,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B7/04": {
+      "code": "C30B7/04",
+      "level": 2,
+      "parent": "C30B7/02",
+      "ja": "水性溶媒を用いるもの［３］",
+      "en": "using aqueous solvents",
+      "count": 279,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B7/06": {
+      "code": "C30B7/06",
+      "level": 2,
+      "parent": "C30B7/02",
+      "ja": "非水性溶媒を用いるもの［３］",
+      "en": "using non-aqueous solvents",
+      "count": 334,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B7/08": {
+      "code": "C30B7/08",
+      "level": 1,
+      "parent": "C30B7/00",
+      "ja": "溶液の冷却によるもの［３］",
+      "en": "by cooling of the solution",
+      "count": 604,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B7/10": {
+      "code": "C30B7/10",
+      "level": 1,
+      "parent": "C30B7/00",
+      "ja": "圧力を加えるもの，例．水熱法［３］",
+      "en": "by application of pressure, e.g. hydrothermal processes",
+      "count": 1975,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B7/12": {
+      "code": "C30B7/12",
+      "level": 1,
+      "parent": "C30B7/00",
+      "ja": "電解によるもの［３］",
+      "en": "by electrolysis",
+      "count": 170,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B7/14": {
+      "code": "C30B7/14",
+      "level": 1,
+      "parent": "C30B7/00",
+      "ja": "結晶化物質が溶液中の化学反応により形成されるもの［３］",
+      "en": "the crystallising materials being formed by chemical reactions in the solution",
+      "count": 2138,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B9/00": {
+      "code": "C30B9/00",
+      "level": 0,
+      "parent": "C30B",
+      "ja": "溶融溶媒を用いる融液からの単結晶成長（ノーマル・フリージングまたは温度勾配凝固によるものはＣ３０Ｂ１１／００；ゾーンメルティングによるものＣ３０Ｂ１３／００；結晶引出しによるものＣ３０Ｂ１５／００；浸漬された種結晶上に成長するものＣ３０Ｂ１７／００；液相エピタキシャル成長によるものＣ３０Ｂ１９／００；保護流体下で行うものＣ３０Ｂ２７／００）［３］",
+      "en": "Single-crystal growth from melt solutions using molten solvents(by normal or gradient freezing <b>C30B11/00</b>; by zone-melting <b>C30B13/00</b>; by crystal pulling <b>C30B15/00</b>; on immersed seed crystal <b>C30B17/00</b>; by liquid phase epitaxial growth <b>C30B19/00</b>; under a protective fluid <b>C30B27/00</b>)",
+      "count": 996,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B9/02": {
+      "code": "C30B9/02",
+      "level": 1,
+      "parent": "C30B9/00",
+      "ja": "溶融溶媒の蒸発によるもの［３］",
+      "en": "by evaporation of the molten solvent",
+      "count": 58,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B9/04": {
+      "code": "C30B9/04",
+      "level": 1,
+      "parent": "C30B9/00",
+      "ja": "溶液の冷却によるもの［３］",
+      "en": "by cooling of the solution",
+      "count": 162,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B9/06": {
+      "code": "C30B9/06",
+      "level": 2,
+      "parent": "C30B9/04",
+      "ja": "溶媒として結晶組成の一成分を用いるもの［３］",
+      "en": "using as solvent a component of the crystal composition",
+      "count": 294,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B9/08": {
+      "code": "C30B9/08",
+      "level": 2,
+      "parent": "C30B9/04",
+      "ja": "他の溶媒を用いるもの［３］",
+      "en": "using other solvents",
+      "count": 58,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B9/10": {
+      "code": "C30B9/10",
+      "level": 3,
+      "parent": "C30B9/08",
+      "ja": "金属溶媒［３］",
+      "en": "Metal solvents",
+      "count": 307,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B9/12": {
+      "code": "C30B9/12",
+      "level": 3,
+      "parent": "C30B9/08",
+      "ja": "塩溶媒，例．フラックス成長［３］",
+      "en": "Salt solvents, e.g. flux growth",
+      "count": 952,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B9/14": {
+      "code": "C30B9/14",
+      "level": 1,
+      "parent": "C30B9/00",
+      "ja": "電解によるもの［３］",
+      "en": "by electrolysis",
+      "count": 56,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B11/00": {
+      "code": "C30B11/00",
+      "level": 0,
+      "parent": "C30B",
+      "ja": "ノーマル・フリージングまたは温度勾配凝固による単結晶成長，例．ブリッジマン―ストックバーガー法（Ｃ３０Ｂ１３／００，Ｃ３０Ｂ１５／００，Ｃ３０Ｂ１７／００，Ｃ３０Ｂ１９／００が優先；保護流体下で行うものＣ３０Ｂ２７／００）［３］",
+      "en": "Single-crystal-growth by normal freezing or freezing under temperature gradient, e.g. Bridgman- Stockbarger method(<b>C30B13/00</b>, <b>C30B15/00</b>, <b>C30B17/00</b>, <b>C30B19/00</b> take precedence; under a protective fluid <b>C30B27/00</b>)",
+      "count": 7414,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B11/02": {
+      "code": "C30B11/02",
+      "level": 1,
+      "parent": "C30B11/00",
+      "ja": "溶媒を使用しないもの（Ｃ３０Ｂ１１／０６が優先）［３］",
+      "en": "without using solvents(<b>C30B11/06</b> takes precedence)",
+      "count": 708,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B11/04": {
+      "code": "C30B11/04",
+      "level": 1,
+      "parent": "C30B11/00",
+      "ja": "融液中に結晶化物質またはそれをその場所で生成する反応剤を添加するもの［３］",
+      "en": "adding crystallising materials or reactants forming it <u>in situ</u> to the melt",
+      "count": 359,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B11/06": {
+      "code": "C30B11/06",
+      "level": 2,
+      "parent": "C30B11/04",
+      "ja": "結晶組成の全成分ではなく少なくとも１つの成分を加えるもの［３］",
+      "en": "at least one but not all components of the crystal composition being added",
+      "count": 347,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B11/08": {
+      "code": "C30B11/08",
+      "level": 2,
+      "parent": "C30B11/04",
+      "ja": "結晶化中に結晶組成の全ての成分を加えるもの［３］",
+      "en": "every component of the crystal composition being added during the crystallisation",
+      "count": 128,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B11/10": {
+      "code": "C30B11/10",
+      "level": 3,
+      "parent": "C30B11/08",
+      "ja": "固体または液体成分，例．ベルヌーイ法［３］",
+      "en": "Solid or liquid components, e.g. Verneuil method",
+      "count": 431,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B11/12": {
+      "code": "C30B11/12",
+      "level": 3,
+      "parent": "C30B11/08",
+      "ja": "蒸気成分，例．気相―液相―固相成長（ＶＬＳ）［３］",
+      "en": "Vaporous components, e.g. vapour-liquid-solid-growth",
+      "count": 266,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B11/14": {
+      "code": "C30B11/14",
+      "level": 1,
+      "parent": "C30B11/00",
+      "ja": "種結晶によって特徴づけられたもの，例．その結晶方位［３］",
+      "en": "characterised by the seed, e.g. its crystallographic orientation",
+      "count": 695,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B13/00": {
+      "code": "C30B13/00",
+      "level": 0,
+      "parent": "C30B",
+      "ja": "ゾーンメルティングによる単結晶成長；ゾーンメルティングによる精製（Ｃ３０Ｂ１７／００が優先；処理された固体の断面積を変化させるものＣ３０Ｂ１５／００；保護流体下で行なうものＣ３０Ｂ２７／００；特定構造を有する均質多結晶物質の成長のためのものＣ３０Ｂ２８／００）［２００６．０１］",
+      "en": "Single-crystal growth by zone-melting; Refining by zone-melting(<b>C30B17/00</b> takes precedence; by changing the cross-section of the treated solid <b>C30B15/00</b>; under a protective fluid <b>C30B27/00</b>; for the growth of homogeneous polycrystalline material with defined structure <b>C30B28/00</b>)",
+      "count": 1955,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B13/02": {
+      "code": "C30B13/02",
+      "level": 1,
+      "parent": "C30B13/00",
+      "ja": "溶媒を用いるゾーンメルティング，例．移動溶媒法［３］",
+      "en": "Zone-melting with a solvent, e.g. travelling solvent process",
+      "count": 235,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B13/04": {
+      "code": "C30B13/04",
+      "level": 1,
+      "parent": "C30B13/00",
+      "ja": "ゾーンレベリングによる均質化［３］",
+      "en": "Homogenisation by zone-levelling",
+      "count": 52,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B13/06": {
+      "code": "C30B13/06",
+      "level": 1,
+      "parent": "C30B13/00",
+      "ja": "溶融ゾーンが全断面にわたって広がらないもの［３］",
+      "en": "the molten zone not extending over the whole cross-section",
+      "count": 211,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B13/08": {
+      "code": "C30B13/08",
+      "level": 1,
+      "parent": "C30B13/00",
+      "ja": "溶融ゾーンに結晶化物質またはそれをその場所で生成する反応剤を添加するもの［３］",
+      "en": "adding crystallising materials or reactants forming it <u>in situ</u> to the molten zone",
+      "count": 124,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B13/10": {
+      "code": "C30B13/10",
+      "level": 2,
+      "parent": "C30B13/08",
+      "ja": "ドープ物質を加えるもの［３］",
+      "en": "with addition of doping materials",
+      "count": 191,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B13/12": {
+      "code": "C30B13/12",
+      "level": 3,
+      "parent": "C30B13/10",
+      "ja": "ガスまたは蒸気状態で［３］",
+      "en": "in the gaseous or vapour state",
+      "count": 126,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B13/14": {
+      "code": "C30B13/14",
+      "level": 1,
+      "parent": "C30B13/00",
+      "ja": "るつぼまたは容器［３］",
+      "en": "Crucibles or vessels",
+      "count": 294,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B13/16": {
+      "code": "C30B13/16",
+      "level": 1,
+      "parent": "C30B13/00",
+      "ja": "溶融ゾーンの加熱［３］",
+      "en": "Heating of the molten zone",
+      "count": 334,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B13/18": {
+      "code": "C30B13/18",
+      "level": 2,
+      "parent": "C30B13/16",
+      "ja": "加熱素子が溶融ゾーンに接触または浸漬されるもの［３］",
+      "en": "the heating element being in contact with, or immersed in, the molten zone",
+      "count": 89,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B13/20": {
+      "code": "C30B13/20",
+      "level": 2,
+      "parent": "C30B13/16",
+      "ja": "誘導によるもの，例．ホットワイヤ技術（Ｃ３０Ｂ１３／１８が優先）［３］",
+      "en": "by induction, e.g. hot wire technique(<b>C30B13/18</b> takes precedence)",
+      "count": 569,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B13/22": {
+      "code": "C30B13/22",
+      "level": 2,
+      "parent": "C30B13/16",
+      "ja": "照射または電気放電によるもの［３］",
+      "en": "by irradiation or electric discharge",
+      "count": 318,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B13/24": {
+      "code": "C30B13/24",
+      "level": 3,
+      "parent": "C30B13/22",
+      "ja": "電磁波を用いるもの［３］",
+      "en": "using electromagnetic waves",
+      "count": 529,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B13/26": {
+      "code": "C30B13/26",
+      "level": 1,
+      "parent": "C30B13/00",
+      "ja": "溶融ゾーンの攪拌［３］",
+      "en": "Stirring of the molten zone",
+      "count": 89,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B13/28": {
+      "code": "C30B13/28",
+      "level": 1,
+      "parent": "C30B13/00",
+      "ja": "制御または調整［３］",
+      "en": "Controlling or regulating",
+      "count": 598,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B13/30": {
+      "code": "C30B13/30",
+      "level": 2,
+      "parent": "C30B13/28",
+      "ja": "溶融ゾーンの安定化または形状の制御，例．コンセントレイターによるもの，電磁界によるもの；結晶断面の制御［３］",
+      "en": "Stabilisation or shape controlling of the molten zone, e.g. by concentrators, by electromagnetic fields; Controlling the section of the crystal",
+      "count": 346,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B13/32": {
+      "code": "C30B13/32",
+      "level": 1,
+      "parent": "C30B13/00",
+      "ja": "材料またはヒーターの移動機構［３］",
+      "en": "Mechanisms for moving either the charge or the heater",
+      "count": 288,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B13/34": {
+      "code": "C30B13/34",
+      "level": 1,
+      "parent": "C30B13/00",
+      "ja": "種結晶によって特徴づけられたもの，例．その結晶方位［３］",
+      "en": "characterised by the seed, e.g. by its crystallographic orientation",
+      "count": 157,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B15/00": {
+      "code": "C30B15/00",
+      "level": 0,
+      "parent": "C30B",
+      "ja": "融液からの引出しによる単結晶成長，例．チョクラルスキー法（保護流体下で行うものＣ３０Ｂ２７／００）［３］",
+      "en": "Single-crystal growth by pulling from a melt, e.g. Czochralski method(under a protective fluid <b>C30B27/00</b>)",
+      "count": 10959,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B15/02": {
+      "code": "C30B15/02",
+      "level": 1,
+      "parent": "C30B15/00",
+      "ja": "融液に結晶化物質またはそれをその場所で生成する反応剤を添加するもの［３］",
+      "en": "adding crystallising materials or reactants forming it <u>in situ</u> to the melt",
+      "count": 2059,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B15/04": {
+      "code": "C30B15/04",
+      "level": 2,
+      "parent": "C30B15/02",
+      "ja": "ドープ物質を加えるもの，例．ＰＮ接合用［３］",
+      "en": "adding doping materials, e.g. for n&ndash;p-junction",
+      "count": 1378,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B15/06": {
+      "code": "C30B15/06",
+      "level": 1,
+      "parent": "C30B15/00",
+      "ja": "非垂直引出し［３］",
+      "en": "Non-vertical pulling",
+      "count": 170,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B15/08": {
+      "code": "C30B15/08",
+      "level": 1,
+      "parent": "C30B15/00",
+      "ja": "下方引出し［３］",
+      "en": "Downward pulling",
+      "count": 309,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B15/10": {
+      "code": "C30B15/10",
+      "level": 1,
+      "parent": "C30B15/00",
+      "ja": "融液を支持するためのるつぼまたは容器［３］",
+      "en": "Crucibles or containers for supporting the melt",
+      "count": 3863,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B15/12": {
+      "code": "C30B15/12",
+      "level": 2,
+      "parent": "C30B15/10",
+      "ja": "二重るつぼ法［３］",
+      "en": "Double crucible methods",
+      "count": 615,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B15/14": {
+      "code": "C30B15/14",
+      "level": 1,
+      "parent": "C30B15/00",
+      "ja": "融液または結晶化した物質の加熱［３］",
+      "en": "Heating of the melt or the crystallised materials",
+      "count": 3280,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B15/16": {
+      "code": "C30B15/16",
+      "level": 2,
+      "parent": "C30B15/14",
+      "ja": "照射または電気放電によるもの［３］",
+      "en": "by irradiation or electric discharge",
+      "count": 179,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B15/18": {
+      "code": "C30B15/18",
+      "level": 2,
+      "parent": "C30B15/14",
+      "ja": "直接抵抗加熱に加えて他の加熱方法を用いるもの，例．ペルチェ加熱を用いるもの［３］",
+      "en": "using direct resistance heating in addition to other methods of heating, e.g. using Peltier heat",
+      "count": 121,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B15/20": {
+      "code": "C30B15/20",
+      "level": 1,
+      "parent": "C30B15/00",
+      "ja": "制御または調整（制御または調整一般Ｇ０５）［３］",
+      "en": "Controlling or regulating(controlling or regulating in general <b>G05</b>)",
+      "count": 4487,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B15/22": {
+      "code": "C30B15/22",
+      "level": 2,
+      "parent": "C30B15/20",
+      "ja": "引出された結晶近傍の溶融ゾーンの安定化または形状の制御；結晶断面の制御［３］",
+      "en": "Stabilisation or shape controlling of the molten zone near the pulled crystal; Controlling the section of the crystal",
+      "count": 1203,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B15/24": {
+      "code": "C30B15/24",
+      "level": 3,
+      "parent": "C30B15/22",
+      "ja": "機械的手段を用いるもの，例．成形ガイド（縁部限定薄膜供給結晶成長［ＥＦＧ］用の成形型Ｃ３０Ｂ１５／３４）［３］",
+      "en": "using mechanical means, e.g. shaping guides(shaping dies for edge-defined film-fed crystal growth <b>C30B15/34</b>)",
+      "count": 319,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B15/26": {
+      "code": "C30B15/26",
+      "level": 3,
+      "parent": "C30B15/22",
+      "ja": "テレビジョン検出器を用いるもの；光またはＸ線検出器を用いるもの［３］",
+      "en": "using television detectors; using photo or X-ray detectors",
+      "count": 781,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B15/28": {
+      "code": "C30B15/28",
+      "level": 3,
+      "parent": "C30B15/22",
+      "ja": "結晶または融液の重量変化を用いるもの，例．フローテーション法［３］",
+      "en": "using weight changes of the crystal or the melt, e.g. flotation methods",
+      "count": 411,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B15/30": {
+      "code": "C30B15/30",
+      "level": 1,
+      "parent": "C30B15/00",
+      "ja": "融液または結晶を回転または移動させるための機構（フローテーション法Ｃ３０Ｂ１５／２８）［３］",
+      "en": "Mechanisms for rotating or moving either the melt or the crystal(flotation methods <b>C30B15/28</b>)",
+      "count": 1859,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B15/32": {
+      "code": "C30B15/32",
+      "level": 1,
+      "parent": "C30B15/00",
+      "ja": "種結晶保持器，例．チャック［３］",
+      "en": "Seed holders, e.g. chucks",
+      "count": 893,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B15/34": {
+      "code": "C30B15/34",
+      "level": 1,
+      "parent": "C30B15/00",
+      "ja": "型またはスリットを用いる縁部限定薄膜供給結晶成長（ＥＦＧ）［３］",
+      "en": "Edge-defined film-fed crystal growth using dies or slits",
+      "count": 967,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B15/36": {
+      "code": "C30B15/36",
+      "level": 1,
+      "parent": "C30B15/00",
+      "ja": "種結晶により特徴づけられたもの，例．その結晶方位［３］",
+      "en": "characterised by the seed, e.g. its crystallographic orientation",
+      "count": 723,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B17/00": {
+      "code": "C30B17/00",
+      "level": 0,
+      "parent": "C30B",
+      "ja": "成長中融液に浸した種結晶上への単結晶成長，例．ナッケン―キロポロス法（Ｃ３０Ｂ１５／００が優先）［３］",
+      "en": "Single-crystal growth on to a seed which remains in the melt during growth, e.g. Nacken-Kyropoulos method(<b>C30B15/00</b> takes precedence)",
+      "count": 1153,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B19/00": {
+      "code": "C30B19/00",
+      "level": 0,
+      "parent": "C30B",
+      "ja": "液相エピタキシャル成長［３］",
+      "en": "Liquid-phase epitaxial-layer growth",
+      "count": 1790,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B19/02": {
+      "code": "C30B19/02",
+      "level": 1,
+      "parent": "C30B19/00",
+      "ja": "溶融溶媒を用いるもの，例．フラックス［３］",
+      "en": "using molten solvents, e.g. flux",
+      "count": 738,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B19/04": {
+      "code": "C30B19/04",
+      "level": 2,
+      "parent": "C30B19/02",
+      "ja": "溶媒が結晶組成の一成分であるもの［３］",
+      "en": "the solvent being a component of the crystal composition",
+      "count": 668,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B19/06": {
+      "code": "C30B19/06",
+      "level": 1,
+      "parent": "C30B19/00",
+      "ja": "反応室；融液支持用ボート；基板保持体［３］",
+      "en": "Reaction chambers; Boats for supporting the melt; Substrate holders",
+      "count": 1728,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B19/08": {
+      "code": "C30B19/08",
+      "level": 1,
+      "parent": "C30B19/00",
+      "ja": "反応室または基板の加熱［３］",
+      "en": "Heating of the reaction chamber or the substrate",
+      "count": 211,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B19/10": {
+      "code": "C30B19/10",
+      "level": 1,
+      "parent": "C30B19/00",
+      "ja": "制御または調整（制御または調整一般Ｇ０５）［３］",
+      "en": "Controlling or regulating(controlling or regulating in general <b>G05</b>)",
+      "count": 514,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B19/12": {
+      "code": "C30B19/12",
+      "level": 1,
+      "parent": "C30B19/00",
+      "ja": "基板によって特徴づけられたもの［３］",
+      "en": "characterised by the substrate",
+      "count": 799,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B21/00": {
+      "code": "C30B21/00",
+      "level": 0,
+      "parent": "C30B",
+      "ja": "共晶物質の一方向固化［３］",
+      "en": "Unidirectional solidification of eutectic materials",
+      "count": 56,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B21/02": {
+      "code": "C30B21/02",
+      "level": 1,
+      "parent": "C30B21/00",
+      "ja": "通常の鋳造または温度勾配凝固によるもの［３］",
+      "en": "by normal casting or gradient freezing",
+      "count": 499,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B21/04": {
+      "code": "C30B21/04",
+      "level": 1,
+      "parent": "C30B21/00",
+      "ja": "ゾーンメルティングによるもの［３］",
+      "en": "by zone-melting",
+      "count": 138,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B21/06": {
+      "code": "C30B21/06",
+      "level": 1,
+      "parent": "C30B21/00",
+      "ja": "融液からの引出しによるもの［３］",
+      "en": "by pulling from a melt",
+      "count": 209,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B23/00": {
+      "code": "C30B23/00",
+      "level": 0,
+      "parent": "C30B",
+      "ja": "蒸発または昇華した物質の凝固による単結晶成長［３］",
+      "en": "Single-crystal growth by condensing evaporated or sublimed materials",
+      "count": 4087,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B23/02": {
+      "code": "C30B23/02",
+      "level": 1,
+      "parent": "C30B23/00",
+      "ja": "エピタキシャル層成長［３］",
+      "en": "Epitaxial-layer growth",
+      "count": 3651,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B23/04": {
+      "code": "C30B23/04",
+      "level": 2,
+      "parent": "C30B23/02",
+      "ja": "パターン成膜，例．マスクを用いるもの［３］",
+      "en": "Pattern deposit, e.g. by using masks",
+      "count": 198,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B23/06": {
+      "code": "C30B23/06",
+      "level": 2,
+      "parent": "C30B23/02",
+      "ja": "成膜室，基板または被蒸発物質の加熱［３］",
+      "en": "Heating of the deposition chamber, the substrate, or the materials to be evaporated",
+      "count": 1452,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B23/08": {
+      "code": "C30B23/08",
+      "level": 2,
+      "parent": "C30B23/02",
+      "ja": "イオン化蒸気の凝縮によるもの（反応スパッタリングによるものＣ３０Ｂ２５／０６）［３］",
+      "en": "by condensing ionised vapours(by reactive sputtering <b>C30B25/06</b>)",
+      "count": 2457,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B25/00": {
+      "code": "C30B25/00",
+      "level": 0,
+      "parent": "C30B",
+      "ja": "反応ガスの化学反応による単結晶成長，例．化学蒸着（ＣＶＤ）による成長［３］",
+      "en": "Single-crystal growth by chemical reaction of reactive gases, e.g. chemical vapour deposition growth",
+      "count": 3054,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B25/02": {
+      "code": "C30B25/02",
+      "level": 1,
+      "parent": "C30B25/00",
+      "ja": "エピタキシャル層成長［３］",
+      "en": "Epitaxial-layer growth",
+      "count": 6704,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B25/04": {
+      "code": "C30B25/04",
+      "level": 2,
+      "parent": "C30B25/02",
+      "ja": "パターン成膜，例．マスクを用いるもの［３］",
+      "en": "Pattern deposit, e.g. by using masks",
+      "count": 696,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B25/06": {
+      "code": "C30B25/06",
+      "level": 2,
+      "parent": "C30B25/02",
+      "ja": "反応スパッタリングによるもの［３］",
+      "en": "by reactive sputtering",
+      "count": 348,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B25/08": {
+      "code": "C30B25/08",
+      "level": 2,
+      "parent": "C30B25/02",
+      "ja": "反応室；そのための材料の選択［３］",
+      "en": "Reaction chambers; Selection of materials therefor",
+      "count": 1608,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B25/10": {
+      "code": "C30B25/10",
+      "level": 2,
+      "parent": "C30B25/02",
+      "ja": "反応室または基板の加熱［３］",
+      "en": "Heating of the reaction chamber or the substrate",
+      "count": 2444,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B25/12": {
+      "code": "C30B25/12",
+      "level": 2,
+      "parent": "C30B25/02",
+      "ja": "基板保持体またはサセプタ［３］",
+      "en": "Substrate holders or susceptors",
+      "count": 2891,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B25/14": {
+      "code": "C30B25/14",
+      "level": 2,
+      "parent": "C30B25/02",
+      "ja": "ガスの供給および排出手段；反応ガス流の調節［３］",
+      "en": "Feed and outlet means for the gases; Modifying the flow of the reactive gases",
+      "count": 4514,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B25/16": {
+      "code": "C30B25/16",
+      "level": 2,
+      "parent": "C30B25/02",
+      "ja": "制御または調整（制御または調整一般Ｇ０５）［３］",
+      "en": "Controlling or regulating(controlling or regulating in general <b>G05</b>)",
+      "count": 2765,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B25/18": {
+      "code": "C30B25/18",
+      "level": 2,
+      "parent": "C30B25/02",
+      "ja": "基板によって特徴づけられたもの［３］",
+      "en": "characterised by the substrate",
+      "count": 4665,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B25/20": {
+      "code": "C30B25/20",
+      "level": 3,
+      "parent": "C30B25/18",
+      "ja": "基板がエピタキシャル層と同一物質であるもの［３］",
+      "en": "the substrate being of the same materials as the epitaxial layer",
+      "count": 1505,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B25/22": {
+      "code": "C30B25/22",
+      "level": 2,
+      "parent": "C30B25/02",
+      "ja": "サンドイッチプロセス［３］",
+      "en": "Sandwich processes",
+      "count": 158,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B27/00": {
+      "code": "C30B27/00",
+      "level": 0,
+      "parent": "C30B",
+      "ja": "保護流体下における単結晶成長［３］",
+      "en": "Single-crystal growth under a protective fluid",
+      "count": 413,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B27/02": {
+      "code": "C30B27/02",
+      "level": 1,
+      "parent": "C30B27/00",
+      "ja": "融液からの引出しによるもの［３］",
+      "en": "by pulling from a melt",
+      "count": 1947,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B28/00": {
+      "code": "C30B28/00",
+      "level": 0,
+      "parent": "C30B",
+      "ja": "特定構造を有する均質多結晶物質の製造［５］",
+      "en": "Production of homogeneous polycrystalline material with defined structure",
+      "count": 208,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B28/02": {
+      "code": "C30B28/02",
+      "level": 1,
+      "parent": "C30B28/00",
+      "ja": "固相から直接に［５］",
+      "en": "directly from the solid state",
+      "count": 609,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B28/04": {
+      "code": "C30B28/04",
+      "level": 1,
+      "parent": "C30B28/00",
+      "ja": "液体から［５］",
+      "en": "from liquids",
+      "count": 538,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B28/06": {
+      "code": "C30B28/06",
+      "level": 2,
+      "parent": "C30B28/04",
+      "ja": "ノーマル・フリージングまたは温度勾配凝固によるもの［５］",
+      "en": "by normal freezing or freezing under temperature gradient",
+      "count": 3353,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B28/08": {
+      "code": "C30B28/08",
+      "level": 2,
+      "parent": "C30B28/04",
+      "ja": "ゾーンメルティングによるもの［５］",
+      "en": "by zone-melting",
+      "count": 194,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B28/10": {
+      "code": "C30B28/10",
+      "level": 2,
+      "parent": "C30B28/04",
+      "ja": "融液からの引出しによるもの［５］",
+      "en": "by pulling from a melt",
+      "count": 481,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B28/12": {
+      "code": "C30B28/12",
+      "level": 1,
+      "parent": "C30B28/00",
+      "ja": "気相から直接に［５］",
+      "en": "directly from the gas state",
+      "count": 694,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B28/14": {
+      "code": "C30B28/14",
+      "level": 2,
+      "parent": "C30B28/12",
+      "ja": "反応ガスの化学反応によるもの［５］",
+      "en": "by chemical reaction of reactive gases",
+      "count": 1113,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B29/00": {
+      "code": "C30B29/00",
+      "level": 0,
+      "parent": "C30B",
+      "ja": "材料または形状によって特徴づけられた単結晶または特定構造を有する均質多結晶物質［３，５］<br><br><b><ul>注</ul></b><br>（１）グループＣ３０Ｂ２９／０２～Ｃ３０Ｂ２９／５４においては，ラストプレイス優先ルールが適用される，すなわち各階層レベルにおいて相反する指示がない限り，物質は最後の適切な箇所に分類する。<br>（２）ＩＰＣがどの版の化学元素周期表を参照しているかを示すセクションＣのタイトルに続く注（３）に注意すること。このグループで用いられるシステムは，周期表においてローマ数字で表示された８つのグループからなるシステムである。",
+      "en": "Single crystals or homogeneous polycrystalline material with defined structure characterised by the material or by their shape",
+      "count": 318,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B29/02": {
+      "code": "C30B29/02",
+      "level": 1,
+      "parent": "C30B29/00",
+      "ja": "元素［３］",
+      "en": "Elements",
+      "count": 1624,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B29/04": {
+      "code": "C30B29/04",
+      "level": 2,
+      "parent": "C30B29/02",
+      "ja": "ダイヤモンド［３］",
+      "en": "Diamond",
+      "count": 4819,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B29/06": {
+      "code": "C30B29/06",
+      "level": 2,
+      "parent": "C30B29/02",
+      "ja": "シリコン［３］",
+      "en": "Silicon",
+      "count": 21924,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B29/08": {
+      "code": "C30B29/08",
+      "level": 2,
+      "parent": "C30B29/02",
+      "ja": "ゲルマニウム［３］",
+      "en": "Germanium",
+      "count": 541,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B29/10": {
+      "code": "C30B29/10",
+      "level": 1,
+      "parent": "C30B29/00",
+      "ja": "無機化合物または組成物［３］",
+      "en": "Inorganic compounds or compositions",
+      "count": 1430,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B29/12": {
+      "code": "C30B29/12",
+      "level": 2,
+      "parent": "C30B29/10",
+      "ja": "ハロゲン化物［３］",
+      "en": "Halides",
+      "count": 1984,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B29/14": {
+      "code": "C30B29/14",
+      "level": 2,
+      "parent": "C30B29/10",
+      "ja": "りん酸塩［３］",
+      "en": "Phosphates",
+      "count": 476,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B29/16": {
+      "code": "C30B29/16",
+      "level": 2,
+      "parent": "C30B29/10",
+      "ja": "酸化物［３］",
+      "en": "Oxides",
+      "count": 3187,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B29/18": {
+      "code": "C30B29/18",
+      "level": 3,
+      "parent": "C30B29/16",
+      "ja": "石英［３］",
+      "en": "Quartz",
+      "count": 532,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B29/20": {
+      "code": "C30B29/20",
+      "level": 3,
+      "parent": "C30B29/16",
+      "ja": "酸化アルミニウム［３］",
+      "en": "Aluminium oxides",
+      "count": 3063,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B29/22": {
+      "code": "C30B29/22",
+      "level": 3,
+      "parent": "C30B29/16",
+      "ja": "複合酸化物［３］",
+      "en": "Complex oxides",
+      "count": 5359,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B29/24": {
+      "code": "C30B29/24",
+      "level": 4,
+      "parent": "C30B29/22",
+      "ja": "式ＡＭｅＯ↓３を有するもの，ここでＡは希土類金属またはＭｅはＦｅ，Ｇａ，Ｓｃ，Ｃｒ，ＣｏまたはＡｌ，例．オルソフェライト［３］",
+      "en": "with formula AMeO<sub>3</sub>, wherein A is a rare earth metal and Me is Fe, Ga, Sc, Cr, Co, or Al, e.g. ortho ferrites",
+      "count": 307,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B29/26": {
+      "code": "C30B29/26",
+      "level": 4,
+      "parent": "C30B29/22",
+      "ja": "式ＢＭｅ↓２Ｏ↓４を有するもの，ここでＢはＭｇ，Ｎｉ，Ｃｏ，Ａｌ，ＺｎまたはＣｄまたＭｅはＦｅ，Ｇａ，Ｓｃ，Ｃｒ，ＣｏまたはＡｌ［３］",
+      "en": "with formula BMe<sub>2</sub>O<sub>4</sub>, wherein B is Mg, Ni, Co, Al, Zn or Cd and Me is Fe, Ga, Sc, Cr, Co, or Al",
+      "count": 445,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B29/28": {
+      "code": "C30B29/28",
+      "level": 4,
+      "parent": "C30B29/22",
+      "ja": "式Ａ↓３Ｍｅ↓５Ｏ↓１↓２を有するもの，ここでＡは希土類金属またＭｅはＦｅ，Ｇａ，Ｓｃ，Ｃｒ，ＣｏまたはＡｌ，例．ガーネット［３］",
+      "en": "with formula A<sub>3</sub>Me<sub>5</sub>O<sub>12</sub>, wherein A is a rare earth metal and Me is Fe, Ga, Sc, Cr, Co or Al, e.g. garnets",
+      "count": 1691,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B29/30": {
+      "code": "C30B29/30",
+      "level": 4,
+      "parent": "C30B29/22",
+      "ja": "ニオブ酸塩；バナジン酸塩；タンタル酸塩［３］",
+      "en": "Niobates; Vanadates; Tantalates",
+      "count": 1941,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B29/32": {
+      "code": "C30B29/32",
+      "level": 4,
+      "parent": "C30B29/22",
+      "ja": "チタン酸塩；ゲルマニウム酸塩；モリブデン酸塩；タングステン酸塩［３］",
+      "en": "Titanates; Germanates; Molybdates; Tungstates",
+      "count": 1455,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B29/34": {
+      "code": "C30B29/34",
+      "level": 2,
+      "parent": "C30B29/10",
+      "ja": "けい酸塩［３］",
+      "en": "Silicates",
+      "count": 752,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B29/36": {
+      "code": "C30B29/36",
+      "level": 2,
+      "parent": "C30B29/10",
+      "ja": "炭化物［３］",
+      "en": "Carbides",
+      "count": 7634,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B29/38": {
+      "code": "C30B29/38",
+      "level": 2,
+      "parent": "C30B29/10",
+      "ja": "窒化物［３］",
+      "en": "Nitrides",
+      "count": 5154,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B29/40": {
+      "code": "C30B29/40",
+      "level": 2,
+      "parent": "C30B29/10",
+      "ja": "ＡＩＩＩＢＶ化合物［３］",
+      "en": "A<sub>III</sub>B<sub>V</sub> compounds",
+      "count": 6885,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B29/42": {
+      "code": "C30B29/42",
+      "level": 3,
+      "parent": "C30B29/40",
+      "ja": "ひ化ガリウム［３］",
+      "en": "Gallium arsenide",
+      "count": 1717,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B29/44": {
+      "code": "C30B29/44",
+      "level": 3,
+      "parent": "C30B29/40",
+      "ja": "りん化ガリウム［３］",
+      "en": "Gallium phosphide",
+      "count": 227,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B29/46": {
+      "code": "C30B29/46",
+      "level": 2,
+      "parent": "C30B29/10",
+      "ja": "硫黄，セレンまたはテルルを含む化合物［３］",
+      "en": "Sulfur-, selenium- or tellurium-containing compounds",
+      "count": 2449,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B29/48": {
+      "code": "C30B29/48",
+      "level": 3,
+      "parent": "C30B29/46",
+      "ja": "ＡＩＩＢＶＩ化合物［３］",
+      "en": "A<sub>II</sub>B<sub>VI</sub> compounds",
+      "count": 1488,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B29/50": {
+      "code": "C30B29/50",
+      "level": 4,
+      "parent": "C30B29/48",
+      "ja": "硫化カドミウム［３］",
+      "en": "Cadmium sulfide",
+      "count": 76,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B29/52": {
+      "code": "C30B29/52",
+      "level": 2,
+      "parent": "C30B29/10",
+      "ja": "合金［３］",
+      "en": "Alloys",
+      "count": 1768,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B29/54": {
+      "code": "C30B29/54",
+      "level": 1,
+      "parent": "C30B29/00",
+      "ja": "有機化合物［３］",
+      "en": "Organic compounds",
+      "count": 1588,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B29/56": {
+      "code": "C30B29/56",
+      "level": 2,
+      "parent": "C30B29/54",
+      "ja": "酒石酸塩［３］",
+      "en": "Tartrates",
+      "count": 21,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B29/58": {
+      "code": "C30B29/58",
+      "level": 2,
+      "parent": "C30B29/54",
+      "ja": "高分子化合物［３］",
+      "en": "Macromolecular compounds",
+      "count": 640,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B29/60": {
+      "code": "C30B29/60",
+      "level": 1,
+      "parent": "C30B29/00",
+      "ja": "形状により特徴づけられたもの［３］",
+      "en": "characterised by shape",
+      "count": 1369,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B29/62": {
+      "code": "C30B29/62",
+      "level": 2,
+      "parent": "C30B29/60",
+      "ja": "ひげ結晶または針状結晶［３］",
+      "en": "Whiskers or needles",
+      "count": 3273,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B29/64": {
+      "code": "C30B29/64",
+      "level": 2,
+      "parent": "C30B29/60",
+      "ja": "平型結晶，例．板，帯状体または円板［５］",
+      "en": "Flat crystals, e.g. plates, strips or discs",
+      "count": 1006,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B29/66": {
+      "code": "C30B29/66",
+      "level": 2,
+      "parent": "C30B29/60",
+      "ja": "複雑な幾何学的形状の結晶，例．管，円筒［５］",
+      "en": "Crystals of complex geometrical shape, e.g. tubes, cylinders",
+      "count": 611,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B29/68": {
+      "code": "C30B29/68",
+      "level": 2,
+      "parent": "C30B29/60",
+      "ja": "層構造からなる結晶，例．“超格子”［５］",
+      "en": "Crystals with laminate structure, e.g. \"superlattices\"",
+      "count": 702,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B30/00": {
+      "code": "C30B30/00",
+      "level": 0,
+      "parent": "C30B",
+      "ja": "電場，磁場，波動エネルギーまたはその他の特殊な物理的条件の作用により特徴づけられる単結晶または特定構造を有する均質多結晶物質の製造［５］<br><br><b><ul>注</ul></b><br>このグループに分類する場合，結晶成長の工程に従い，グループ１／００～２８／００にも分類する。［５］",
+      "en": "Production of single crystals or homogeneous polycrystalline material with defined structure characterised by the action of electric or magnetic fields, wave energy or other specific physical conditions; <br><br><b><u>Note(s)</u></b><br><br><ul><li>When classifying in this group, classification is also made in groups <b>C30B1/00 to C30B28/00</b>  according to the process of crystal growth. </li></ul>",
+      "count": 394,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B30/02": {
+      "code": "C30B30/02",
+      "level": 1,
+      "parent": "C30B30/00",
+      "ja": "電場を用いるもの，例．電気分解［５］",
+      "en": "using electric fields, e.g. electrolysis",
+      "count": 407,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B30/04": {
+      "code": "C30B30/04",
+      "level": 1,
+      "parent": "C30B30/00",
+      "ja": "磁場を用いるもの［５］",
+      "en": "using magnetic fields",
+      "count": 756,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B30/06": {
+      "code": "C30B30/06",
+      "level": 1,
+      "parent": "C30B30/00",
+      "ja": "機械的振動を用いるもの［５］",
+      "en": "using mechanical vibrations",
+      "count": 92,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B30/08": {
+      "code": "C30B30/08",
+      "level": 1,
+      "parent": "C30B30/00",
+      "ja": "無重力または低重力の条件下のもの［５］",
+      "en": "in conditions of zero-gravity or low gravity",
+      "count": 206,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B31/00": {
+      "code": "C30B31/00",
+      "level": 0,
+      "parent": "C30B",
+      "ja": "単結晶または特定構造を有する均質多結晶物質への拡散またはドーブ工程；そのための装置［３，５］",
+      "en": "Diffusion or doping processes for single crystals or homogeneous polycrystalline material with defined structure; Apparatus therefor",
+      "count": 411,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B31/02": {
+      "code": "C30B31/02",
+      "level": 1,
+      "parent": "C30B31/00",
+      "ja": "固相状態の拡散物質と接触させるもの［３］",
+      "en": "by contacting with diffusion materials in the solid state",
+      "count": 519,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B31/04": {
+      "code": "C30B31/04",
+      "level": 1,
+      "parent": "C30B31/00",
+      "ja": "液相状態の拡散物質と接触させるもの［３］",
+      "en": "by contacting with diffusion materials in the liquid state",
+      "count": 333,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B31/06": {
+      "code": "C30B31/06",
+      "level": 1,
+      "parent": "C30B31/00",
+      "ja": "ガス状態の拡散物質と接触させるもの［２００６．０１］",
+      "en": "by contacting with diffusion material in the gaseous state",
+      "count": 702,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B31/08": {
+      "code": "C30B31/08",
+      "level": 2,
+      "parent": "C30B31/06",
+      "ja": "拡散物質が被拡散元素の化合物であるもの［３］",
+      "en": "the diffusion materials being a compound of the elements to be diffused",
+      "count": 136,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B31/10": {
+      "code": "C30B31/10",
+      "level": 2,
+      "parent": "C30B31/06",
+      "ja": "反応室；そのための材料の選択［３］",
+      "en": "Reaction chambers; Selection of materials therefor",
+      "count": 530,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B31/12": {
+      "code": "C30B31/12",
+      "level": 2,
+      "parent": "C30B31/06",
+      "ja": "反応室の加熱［３］",
+      "en": "Heating of the reaction chamber",
+      "count": 301,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B31/14": {
+      "code": "C30B31/14",
+      "level": 2,
+      "parent": "C30B31/06",
+      "ja": "基板保持体またはサセプタ［３］",
+      "en": "Substrate holders or susceptors",
+      "count": 383,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B31/16": {
+      "code": "C30B31/16",
+      "level": 2,
+      "parent": "C30B31/06",
+      "ja": "ガスの供給および排出手段；ガス流の調節［３］",
+      "en": "Feed and outlet means for the gases; Modifying the flow of the gases",
+      "count": 780,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B31/18": {
+      "code": "C30B31/18",
+      "level": 2,
+      "parent": "C30B31/06",
+      "ja": "制御または調整［３］",
+      "en": "Controlling or regulating",
+      "count": 263,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B31/20": {
+      "code": "C30B31/20",
+      "level": 1,
+      "parent": "C30B31/00",
+      "ja": "電磁波照射または粒子線放射によるドービング［３］",
+      "en": "Doping by irradiation with electromagnetic waves or by particle radiation",
+      "count": 207,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B31/22": {
+      "code": "C30B31/22",
+      "level": 2,
+      "parent": "C30B31/20",
+      "ja": "イオン注入によるもの［３］",
+      "en": "by ion-implantation",
+      "count": 552,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B33/00": {
+      "code": "C30B33/00",
+      "level": 0,
+      "parent": "C30B",
+      "ja": "単結晶または特定構造を有する均質多結晶物質の後処理（Ｃ３０Ｂ３１／００が優先）［３，５］",
+      "en": "After-treatment of single crystals or homogeneous polycrystalline material with defined structure(<b>C30B31/00</b> takes precedence)",
+      "count": 4809,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B33/02": {
+      "code": "C30B33/02",
+      "level": 1,
+      "parent": "C30B33/00",
+      "ja": "熱処理（Ｃ３０Ｂ３３／０４，Ｃ３０Ｂ３３／０６が優先）［５］",
+      "en": "Heat treatment(<b>C30B33/04</b>, <b>C30B33/06</b> take precedence)",
+      "count": 4223,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B33/04": {
+      "code": "C30B33/04",
+      "level": 1,
+      "parent": "C30B33/00",
+      "ja": "電場，磁場または粒子線放射を用いるもの［５］",
+      "en": "using electric or magnetic fields or particle radiation",
+      "count": 789,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B33/06": {
+      "code": "C30B33/06",
+      "level": 1,
+      "parent": "C30B33/00",
+      "ja": "結晶の結合［５］",
+      "en": "Joining of crystals",
+      "count": 1008,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B33/08": {
+      "code": "C30B33/08",
+      "level": 1,
+      "parent": "C30B33/00",
+      "ja": "エッチング［５］",
+      "en": "Etching",
+      "count": 588,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B33/10": {
+      "code": "C30B33/10",
+      "level": 2,
+      "parent": "C30B33/08",
+      "ja": "溶液または融液中で［５］",
+      "en": "in solutions or melts",
+      "count": 2400,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B33/12": {
+      "code": "C30B33/12",
+      "level": 2,
+      "parent": "C30B33/08",
+      "ja": "気体雰囲気またはプラズマ下で［５］",
+      "en": "in gas atmosphere or plasma",
+      "count": 672,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    },
+    "C30B35/00": {
+      "code": "C30B35/00",
+      "level": 0,
+      "parent": "C30B",
+      "ja": "単結晶または特定構造を有する均質多結晶物質の成長，製造または後処理のために特に適合した他に分類されない装置［３，５］",
+      "en": "Apparatus not otherwise provided for, specially adapted for the growth, production or after-treatment of single crystals or of a homogeneous polycrystalline material with defined structure",
+      "count": 6464,
+      "sourceFile": "ipc_C30B.txt",
+      "kind": "ipc"
+    }
+  }
+};

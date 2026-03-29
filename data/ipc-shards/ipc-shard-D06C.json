@@ -1,0 +1,436 @@
+{
+  "generatedAt": "2026-03-20T02:17:46.591Z",
+  "total": 43,
+  "entries": {
+    "D06C": {
+      "code": "D06C",
+      "level": 0,
+      "parent": "D06",
+      "ja": "布帛の仕上げ，化粧仕上げ，幅出しまたは伸張［２］<br><br><b><ul>注</ul></b><br>（１）このサブクラスにおいては，下記の用語は以下に示す意味で用いる：<br>―“布帛（はく）”は整経糸状またはシート状に並んだ糸を包含する。<br>（２）このサブクラスは，サブクラスＤ０６Ｌ－Ｄ０６Ｑに包含される純粋に化学的手段による繊維の処理は包含しない。<br><br><br><b><ul>サブクラス内の索引</ul></b><br>一般処理<br>材料を除去しないもの<br>加熱または冷却　７／００<br>伸張または幅出し；整形または伸張；加圧収縮　３／００；５／００；２１／００<br>カレンダがけ，アイロンがけまたはつや出し；縮じゅう；もみ布または柔軟化　１５／００；１７／００；１９／００<br>材料を軽度に除去するもの<br>毛焼き；起毛；切断または剪毛　９／００；１１／００；１３／００<br>装飾　２３／００<br>特殊処理<br>模様または意匠の現出　２３／００<br>布耳または縁の処理　２５／００<br>他に分類されない仕上げまたは化粧仕上げ<br>方法または装置の組み合わせ；その他の処理　２７／００；２９／００",
+      "en": "FINISHING, DRESSING, TENTERING OR STRETCHING TEXTILE FABRICS; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this subclass, the following term is used with meaning indicated: <ul><li>\"fabric\" includes yarns in warp or sheet form.</li></ul></li><li>This subclass <u>does not cover</u> treatment of textiles by purely chemical means, which is covered by subclasses <b>D06L to D06Q</b> .</li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">GENERAL TREATMENTS<tr><td width=\"70%\">Without elimination of material<tr><td width=\"70%\">heating or cooling </td><td><b><b>7/00</b></b></td></tr></tr><tr><td width=\"70%\">stretching or tentering; shaping or stretching; shrinking by compressing </td><td><b><b>3/00</b>; <b>5/00</b>; <b>21/00</b></b></td></tr></tr><tr><td width=\"70%\">calendering, ironing, or glazing; fulling; breaking or softening </td><td><b><b>15/00</b>; <b>17/00</b>; <b>19/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">With slight elimination of material<tr><td width=\"70%\">singeing; teasing or napping; shearing or cropping </td><td><b><b>9/00</b>; <b>11/00</b>; <b>13/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">For decoration </td><td><b><b>23/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">SPECIAL TREATMENTS<tr><td width=\"70%\">Making patterns or designs </td><td><b><b>23/00</b></b></td></tr></tr><tr><td width=\"70%\">Treating selvedges or edges </td><td><b><b>25/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">FINISHING OR DRESSING NOT OTHERWISE PROVIDED FOR<tr><td width=\"70%\">Compound processes or apparatus; other treatments </td><td><b><b>27/00</b>; <b>29/00</b></b></td></tr></tr></tr></table>",
+      "count": 821,
+      "sourceFile": "ipc_D.txt",
+      "kind": "ipc"
+    },
+    "D06": {
+      "code": "D06",
+      "level": 0,
+      "parent": "D",
+      "ja": "繊維または類似のものの処理；洗濯；他に分類されない可とう性材料",
+      "en": "TREATMENT OF TEXTILES OR THE LIKE; LAUNDERING; FLEXIBLE MATERIALS NOT OTHERWISE PROVIDED FOR",
+      "count": 0,
+      "sourceFile": "ipc_D.txt",
+      "kind": "ipc"
+    },
+    "D": {
+      "code": "D",
+      "level": 0,
+      "parent": null,
+      "ja": "繊維；紙<br><br><b><ul>注</ul></b><br>このセクションにおいては，下記の用語は以下に示す意味で用いる：<br>―“繊維”は比較的短く，細長い天然または人造の物質よりなるものを意味する；［２０１４．０１］<br>―“フィラメント”はエンドレスまたは準エンドレスで，細長い天然または人造の物質よりなるものを意味する；［２０１４．０１］<br>―“糸”は繊維の単一の集合体を意味し，通常紡績によって製造される；［２０１４．０１］<br>―“より糸”は糸またはフィラメントの集合体を意味し，通常加ねんによって製造される；［２０１４．０１］<br>―“合成”繊維またはフィラメントはポリマーまたは低分子を合成させたものから製造される繊維またはフィラメントまたは類似物を意味する。例は，ポリアミド，アクリル，ポリエステルまたは炭素繊維である；［２０１４．０１］<br>―“人工”繊維またはフィラメントは天然ポリマーまたはその派生物から人が製造した繊維またはフィラメントまたは類似物を意味する。例は，再生セルロース繊維または半合成繊維である；［２０１４．０１］<br>―“人造”繊維またはフィラメントは人が製造した繊維またはフィラメントを意味し，“合成”繊維または“人工”繊維を含む。［２０１４．０１］",
+      "en": "TEXTILES; PAPER; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this section, the following terms are used with the meanings indicated: <ul><li>\"fibre\" means a relatively-short, elongated member of natural or man-made material;    </li><li>\"filament\" means an endless or quasi-endless, elongated member of natural or man-made material;    </li><li>\"yarn\" means a unitary assembly of fibres, usually produced by spinning;    </li><li>\"thread\" means an assembly of yarns or filaments, usually produced by twisting;    </li><li>\"synthetic\" fibres or filaments means fibres or filaments or the like manufactured from synthesising polymers or small molecules. Examples are polyamide, acrylic, polyester or carbon fibres;    </li><li>\"artificial\" fibres or filaments means fibres or filaments or the like manufactured by man from natural polymers or their derivatives. Examples are regenerated cellulosic fibres or semi-synthetic fibres;    </li><li>\"man-made&rdquo; fibres or filaments means fibres or filaments which are manufactured by man including &ldquo;synthetic&rdquo; or &ldquo;artificial&rdquo; fibres.    </li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_D.txt",
+      "kind": "ipc"
+    },
+    "D06C3/00": {
+      "code": "D06C3/00",
+      "level": 0,
+      "parent": "D06C",
+      "ja": "布帛の伸張，幅出しまたは拡布；布帛の弾性付与（芯体または内挿幅出し枠による筒状布帛の整形または伸張Ｄ０６Ｃ５／００）［２００６．０１］",
+      "en": "Stretching, tentering or spreading textile fabrics; Producing elasticity in textile fabrics(shaping or stretching tubular fabrics upon cores or internal frames <b>D06C5/00</b>)",
+      "count": 4207,
+      "sourceFile": "ipc_D06C.txt",
+      "kind": "ipc"
+    },
+    "D06C3/02": {
+      "code": "D06C3/02",
+      "level": 1,
+      "parent": "D06C3/00",
+      "ja": "無端チェンまたはそれと類似の装置によるもの［２００６．０１］",
+      "en": "by endless chain or like apparatus",
+      "count": 845,
+      "sourceFile": "ipc_D06C.txt",
+      "kind": "ipc"
+    },
+    "D06C3/04": {
+      "code": "D06C3/04",
+      "level": 2,
+      "parent": "D06C3/02",
+      "ja": "テンタクリップ",
+      "en": "Tentering clips",
+      "count": 726,
+      "sourceFile": "ipc_D06C.txt",
+      "kind": "ipc"
+    },
+    "D06C3/06": {
+      "code": "D06C3/06",
+      "level": 1,
+      "parent": "D06C3/00",
+      "ja": "回転円板，ローラまたは類似装置によるもの",
+      "en": "by rotary disc, roller, or like apparatus",
+      "count": 2640,
+      "sourceFile": "ipc_D06C.txt",
+      "kind": "ipc"
+    },
+    "D06C3/08": {
+      "code": "D06C3/08",
+      "level": 1,
+      "parent": "D06C3/00",
+      "ja": "幅出し枠または類似の装置によるもの",
+      "en": "by frames or like apparatus",
+      "count": 372,
+      "sourceFile": "ipc_D06C.txt",
+      "kind": "ipc"
+    },
+    "D06C3/10": {
+      "code": "D06C3/10",
+      "level": 1,
+      "parent": "D06C3/00",
+      "ja": "フック，ピンブロックまたは類似物",
+      "en": "Hooks, pin-blocks, or like apparatus",
+      "count": 506,
+      "sourceFile": "ipc_D06C.txt",
+      "kind": "ipc"
+    },
+    "D06C5/00": {
+      "code": "D06C5/00",
+      "level": 0,
+      "parent": "D06C",
+      "ja": "芯体または内挿幅出し枠による筒状布帛の整形または伸張［２００６．０１］",
+      "en": "Shaping or stretching of tubular fabrics upon cores or internal frames",
+      "count": 2622,
+      "sourceFile": "ipc_D06C.txt",
+      "kind": "ipc"
+    },
+    "D06C7/00": {
+      "code": "D06C7/00",
+      "level": 0,
+      "parent": "D06C",
+      "ja": "布帛の加熱または冷却［２００６．０１］",
+      "en": "Heating or cooling textile fabrics",
+      "count": 7175,
+      "sourceFile": "ipc_D06C.txt",
+      "kind": "ipc"
+    },
+    "D06C7/02": {
+      "code": "D06C7/02",
+      "level": 1,
+      "parent": "D06C7/00",
+      "ja": "固定（セット）",
+      "en": "Setting",
+      "count": 12618,
+      "sourceFile": "ipc_D06C.txt",
+      "kind": "ipc"
+    },
+    "D06C7/04": {
+      "code": "D06C7/04",
+      "level": 1,
+      "parent": "D06C7/00",
+      "ja": "炭化または酸化",
+      "en": "Carbonising or oxidising",
+      "count": 804,
+      "sourceFile": "ipc_D06C.txt",
+      "kind": "ipc"
+    },
+    "D06C9/00": {
+      "code": "D06C9/00",
+      "level": 0,
+      "parent": "D06C",
+      "ja": "毛焼き（模様または意匠を現出するものＤ０６Ｃ２３／０２）",
+      "en": "Singeing(for making patterns or designs <b>D06C23/02</b>)",
+      "count": 900,
+      "sourceFile": "ipc_D06C.txt",
+      "kind": "ipc"
+    },
+    "D06C9/02": {
+      "code": "D06C9/02",
+      "level": 1,
+      "parent": "D06C9/00",
+      "ja": "火炎によるもの",
+      "en": "by flame",
+      "count": 1360,
+      "sourceFile": "ipc_D06C.txt",
+      "kind": "ipc"
+    },
+    "D06C9/04": {
+      "code": "D06C9/04",
+      "level": 1,
+      "parent": "D06C9/00",
+      "ja": "熱板との接触によるもの",
+      "en": "by contact with heated elements",
+      "count": 507,
+      "sourceFile": "ipc_D06C.txt",
+      "kind": "ipc"
+    },
+    "D06C11/00": {
+      "code": "D06C11/00",
+      "level": 0,
+      "parent": "D06C",
+      "ja": "布帛の起毛，その他の粗面化またはパイル起毛（模様または意匠を現出するものＤ０６Ｃ２３／０２）  ［２００６．０１］",
+      "en": "Teasing, napping or otherwise roughening or raising pile of textile fabrics(for making patterns or designs <b>D06C23/02</b>)",
+      "count": 6858,
+      "sourceFile": "ipc_D06C.txt",
+      "kind": "ipc"
+    },
+    "D06C13/00": {
+      "code": "D06C13/00",
+      "level": 0,
+      "parent": "D06C",
+      "ja": "布帛表面の剪毛［せん毛］，刈り込み；わなパイルの切断；接合縁のトリミング（模様または意匠を現出するものＤ０６Ｃ２３／０２）［２００６．０１］",
+      "en": "Shearing, clipping or cropping surfaces of textile fabrics; Pile cutting; Trimming seamed edges(for making patterns or designs <b>D06C23/02</b>)",
+      "count": 3417,
+      "sourceFile": "ipc_D06C.txt",
+      "kind": "ipc"
+    },
+    "D06C13/02": {
+      "code": "D06C13/02",
+      "level": 1,
+      "parent": "D06C13/00",
+      "ja": "剪毛刃を上昇させるための，布帛の継ぎ目の検出装置",
+      "en": "Arrangements for detecting the presence of a seam in the fabric to lift the shearing blade",
+      "count": 129,
+      "sourceFile": "ipc_D06C.txt",
+      "kind": "ipc"
+    },
+    "D06C13/04": {
+      "code": "D06C13/04",
+      "level": 1,
+      "parent": "D06C13/00",
+      "ja": "レースまたは刺しゅう布の剪毛，例．けば糸の切断",
+      "en": "Shearing lace or embroidery, e.g. cutting loose threads",
+      "count": 169,
+      "sourceFile": "ipc_D06C.txt",
+      "kind": "ipc"
+    },
+    "D06C13/06": {
+      "code": "D06C13/06",
+      "level": 1,
+      "parent": "D06C13/00",
+      "ja": "浮糸の除去",
+      "en": "Removing floats",
+      "count": 839,
+      "sourceFile": "ipc_D06C.txt",
+      "kind": "ipc"
+    },
+    "D06C13/08": {
+      "code": "D06C13/08",
+      "level": 1,
+      "parent": "D06C13/00",
+      "ja": "わなパイルの切断（織機上で行なうものＤ０３Ｄ３９／２４）",
+      "en": "Cutting pile loops(on the loom <b>D03D39/24</b>)",
+      "count": 541,
+      "sourceFile": "ipc_D06C.txt",
+      "kind": "ipc"
+    },
+    "D06C13/10": {
+      "code": "D06C13/10",
+      "level": 1,
+      "parent": "D06C13/00",
+      "ja": "２重パイル布の切り開き（織機上で行なうものＤ０３Ｄ３９／１６）",
+      "en": "Splitting double pile fabrics(on the loom <b>D03D39/16</b>)",
+      "count": 138,
+      "sourceFile": "ipc_D06C.txt",
+      "kind": "ipc"
+    },
+    "D06C13/12": {
+      "code": "D06C13/12",
+      "level": 1,
+      "parent": "D06C13/00",
+      "ja": "布帛の接合縁またはくつ下のトリミング",
+      "en": "Trimming hosiery or seamed edges of fabrics",
+      "count": 234,
+      "sourceFile": "ipc_D06C.txt",
+      "kind": "ipc"
+    },
+    "D06C15/00": {
+      "code": "D06C15/00",
+      "level": 0,
+      "parent": "D06C",
+      "ja": "布帛のカレンダーがけ，プレス，アイロンがけまたはつや出し（模様または意匠の現出Ｄ０６Ｃ２３／００）",
+      "en": "Calendering, pressing, ironing, glossing or glazing textile fabrics(for making patterns or designs <b>D06C23/00</b>)",
+      "count": 8104,
+      "sourceFile": "ipc_D06C.txt",
+      "kind": "ipc"
+    },
+    "D06C15/02": {
+      "code": "D06C15/02",
+      "level": 1,
+      "parent": "D06C15/00",
+      "ja": "共動する押圧板またはカレンダロール間を利用するもの",
+      "en": "between co-operating press or calender rolls",
+      "count": 3669,
+      "sourceFile": "ipc_D06C.txt",
+      "kind": "ipc"
+    },
+    "D06C15/04": {
+      "code": "D06C15/04",
+      "level": 1,
+      "parent": "D06C15/00",
+      "ja": "ロールおよびそれと共動する凹曲面間を利用するもの（Ｄ０６Ｃ１５／０６が優先）",
+      "en": "between rollers and co-operating concave surfaces(<b>D06C15/06</b> takes precedence)",
+      "count": 197,
+      "sourceFile": "ipc_D06C.txt",
+      "kind": "ipc"
+    },
+    "D06C15/06": {
+      "code": "D06C15/06",
+      "level": 1,
+      "parent": "D06C15/00",
+      "ja": "ロールおよびそれと共動する可とう性材からなる運動表面，例．帯，の間を利用するもの",
+      "en": "between rollers and co-operating moving surfaces formed of flexible material, e.g. bands",
+      "count": 352,
+      "sourceFile": "ipc_D06C.txt",
+      "kind": "ipc"
+    },
+    "D06C15/08": {
+      "code": "D06C15/08",
+      "level": 1,
+      "parent": "D06C15/00",
+      "ja": "ロール",
+      "en": "Rollers therefor",
+      "count": 2908,
+      "sourceFile": "ipc_D06C.txt",
+      "kind": "ipc"
+    },
+    "D06C15/10": {
+      "code": "D06C15/10",
+      "level": 1,
+      "parent": "D06C15/00",
+      "ja": "プレス機の平板間を利用するもの",
+      "en": "between flat plates of a press",
+      "count": 2237,
+      "sourceFile": "ipc_D06C.txt",
+      "kind": "ipc"
+    },
+    "D06C15/12": {
+      "code": "D06C15/12",
+      "level": 2,
+      "parent": "D06C15/10",
+      "ja": "布帛の立毛のプレス",
+      "en": "for pressing a pile of fabrics",
+      "count": 36,
+      "sourceFile": "ipc_D06C.txt",
+      "kind": "ipc"
+    },
+    "D06C15/14": {
+      "code": "D06C15/14",
+      "level": 1,
+      "parent": "D06C15/00",
+      "ja": "打布",
+      "en": "Beetling",
+      "count": 103,
+      "sourceFile": "ipc_D06C.txt",
+      "kind": "ipc"
+    },
+    "D06C17/00": {
+      "code": "D06C17/00",
+      "level": 0,
+      "parent": "D06C",
+      "ja": "縮じゅう",
+      "en": "Fulling",
+      "count": 795,
+      "sourceFile": "ipc_D06C.txt",
+      "kind": "ipc"
+    },
+    "D06C17/02": {
+      "code": "D06C17/02",
+      "level": 1,
+      "parent": "D06C17/00",
+      "ja": "ロールによるもの",
+      "en": "by rollers",
+      "count": 356,
+      "sourceFile": "ipc_D06C.txt",
+      "kind": "ipc"
+    },
+    "D06C17/04": {
+      "code": "D06C17/04",
+      "level": 1,
+      "parent": "D06C17/00",
+      "ja": "ハンマまたはビータによるもの",
+      "en": "by hammers or beaters",
+      "count": 73,
+      "sourceFile": "ipc_D06C.txt",
+      "kind": "ipc"
+    },
+    "D06C19/00": {
+      "code": "D06C19/00",
+      "level": 0,
+      "parent": "D06C",
+      "ja": "柔布または布帛の柔軟化（伸張によるものＤ０６Ｃ３／００；カレンダがけ，プレスまたは打布によるものＤ０６Ｃ１５／００；縮じゅうによるものＤ０６Ｃ１７／００）",
+      "en": "Breaking or softening of fabrics(by stretching <b>D06C3/00</b>; by calendering, pressing, or beetling <b>D06C15/00</b>; by fulling <b>D06C17/00</b>)",
+      "count": 1397,
+      "sourceFile": "ipc_D06C.txt",
+      "kind": "ipc"
+    },
+    "D06C21/00": {
+      "code": "D06C21/00",
+      "level": 0,
+      "parent": "D06C",
+      "ja": "加圧収縮",
+      "en": "Shrinking by compressing",
+      "count": 1111,
+      "sourceFile": "ipc_D06C.txt",
+      "kind": "ipc"
+    },
+    "D06C23/00": {
+      "code": "D06C23/00",
+      "level": 0,
+      "parent": "D06C",
+      "ja": "布帛への模様または意匠の付与［２００６．０１］",
+      "en": "Making patterns or design on fabrics",
+      "count": 2175,
+      "sourceFile": "ipc_D06C.txt",
+      "kind": "ipc"
+    },
+    "D06C23/02": {
+      "code": "D06C23/02",
+      "level": 1,
+      "parent": "D06C23/00",
+      "ja": "毛焼き，起毛，剪毛，腐食またはブラッシングによるもの",
+      "en": "by singeing, teasing, shearing, etching, or brushing",
+      "count": 908,
+      "sourceFile": "ipc_D06C.txt",
+      "kind": "ipc"
+    },
+    "D06C23/04": {
+      "code": "D06C23/04",
+      "level": 1,
+      "parent": "D06C23/00",
+      "ja": "収縮，エンボス，もく目出しまたはしぼ出しによるもの",
+      "en": "by shrinking, embossing, moireing, or cr&ecirc;ping",
+      "count": 4426,
+      "sourceFile": "ipc_D06C.txt",
+      "kind": "ipc"
+    },
+    "D06C25/00": {
+      "code": "D06C25/00",
+      "level": 0,
+      "parent": "D06C",
+      "ja": "布耳またはその他の側縁の処理，例．硬化［２００６．０１］",
+      "en": "Treating selvedges or other edges, e.g. stiffening",
+      "count": 2032,
+      "sourceFile": "ipc_D06C.txt",
+      "kind": "ipc"
+    },
+    "D06C27/00": {
+      "code": "D06C27/00",
+      "level": 0,
+      "parent": "D06C",
+      "ja": "他に分類されない，布帛の仕上げまたは化粧仕上げのための方法または装置の組み合わせ",
+      "en": "Compound processes or apparatus, for finishing or dressing textile fabrics, not otherwise provided for",
+      "count": 2440,
+      "sourceFile": "ipc_D06C.txt",
+      "kind": "ipc"
+    },
+    "D06C29/00": {
+      "code": "D06C29/00",
+      "level": 0,
+      "parent": "D06C",
+      "ja": "このサブクラスの他のグループに分類されない，布帛の仕上げまたは化粧仕上げ",
+      "en": "Finishing or dressing, of textile fabrics, not provided for in the other groups of this subclass",
+      "count": 2838,
+      "sourceFile": "ipc_D06C.txt",
+      "kind": "ipc"
+    }
+  }
+}

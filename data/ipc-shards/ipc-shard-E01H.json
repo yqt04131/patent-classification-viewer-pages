@@ -1,0 +1,386 @@
+{
+  "generatedAt": "2026-03-20T02:17:46.659Z",
+  "total": 38,
+  "entries": {
+    "E01H": {
+      "code": "E01H",
+      "level": 0,
+      "parent": "E01",
+      "ja": "街路の清掃；軌道の清掃；海岸の清掃；地面の清掃；霧の消散一般（芝生やその他の表面を，例．除雪のために，掃くあるいは清掃するための装置に転換できるモーア，あるいは芝生やその他の表面を掃く，または清掃することができるモーアＡ０１Ｄ４２／０６；清掃一般Ｂ０８Ｂ）［４］<br><br><b><ul>サブクラス内の索引</ul></b><br>街路の清掃　１／００，３／００，５／００，６／００，１１／００<br>雪面または氷面の整備または維持；すべり止めの増進　４／００；１０／００<br>軌道の清掃　８／００，１１／００<br>海岸の清掃　１２／００<br>他の清掃　１５／００<br>霧の消散　１３／００",
+      "en": "STREET CLEANING; CLEANING OF PERMANENT WAYS; CLEANING BEACHES; CLEANING LAND; DISPERSING FOG IN GENERAL(mowers convertible to apparatus for sweeping or cleaning lawns or other surfaces, e.g. to remove snow, or capable of sweeping or cleaning lawns or other surfaces <b>A01D42/06</b>; cleaning in general <b>B08B</b>);<br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">STREET CLEANING </td><td><b><b>1/00</b>, <b>3/00</b>, <b>5/00</b>, <b>6/00</b>, <b>11/00</b></b></td></tr></tr><tr><td width=\"70%\">MAKING OR MAINTAINING SURFACES OF SNOW OR ICE; IMPROVING GRIPPING POWER </td><td><b><b>4/00</b>; <b>10/00</b></b></td></tr></tr><tr><td width=\"70%\">CLEANING OF PERMANENT WAYS </td><td><b><b>8/00</b>, <b>11/00</b></b></td></tr></tr><tr><td width=\"70%\">CLEANING BEACHES </td><td><b><b>12/00</b></b></td></tr></tr><tr><td width=\"70%\">OTHER CLEANING OF LAND </td><td><b><b>15/00</b></b></td></tr></tr><tr><td width=\"70%\">DISPERSING FOG </td><td><b><b>13/00</b></b></td></tr></tr></table>",
+      "count": 878,
+      "sourceFile": "ipc_E.txt",
+      "kind": "ipc"
+    },
+    "E01": {
+      "code": "E01",
+      "level": 0,
+      "parent": "E",
+      "ja": "道路，鉄道または橋りょうの建設",
+      "en": "CONSTRUCTION OF ROADS, RAILWAYS, OR BRIDGES",
+      "count": 0,
+      "sourceFile": "ipc_E.txt",
+      "kind": "ipc"
+    },
+    "E": {
+      "code": "E",
+      "level": 0,
+      "parent": null,
+      "ja": "固定構造物",
+      "en": "FIXED CONSTRUCTIONS",
+      "count": 0,
+      "sourceFile": "ipc_E.txt",
+      "kind": "ipc"
+    },
+    "E01H1/00": {
+      "code": "E01H1/00",
+      "level": 0,
+      "parent": "E01H",
+      "ja": "道路またはその類似物の表面をしめらせるかしめらせないで行なう表面からの無用物の除去（雪または氷に対するものＥ０１Ｈ５／００；路面軌道レールの清掃Ｅ０１Ｈ８／００；車両に付着した邪魔物除去機Ｂ６０Ｒ１９／００；ビチューメンまたはその類似物の適用との組み合わせによるものＥ０１Ｃ１９／１６；交通上の適用との組み合わせによるものＥ０１Ｃ２３／１６）",
+      "en": "Removing undesirable matter from roads or like surfaces, with or without moistening of the surface(for snow or ice <b>E01H5/00</b>; cleaning tramway rails <b>E01H8/00</b>; obstruction-removers on vehicles <b>B60R19/00</b>; in combination with application of bitumen or the like <b>E01C19/16</b>; in combination with application of traffic lines <b>E01C23/16</b>)",
+      "count": 9420,
+      "sourceFile": "ipc_E01H.txt",
+      "kind": "ipc"
+    },
+    "E01H1/02": {
+      "code": "E01H1/02",
+      "level": 1,
+      "parent": "E01H1/00",
+      "ja": "ブラッシング装置（Ｅ０１Ｈ１／０８～Ｅ０１Ｈ１／１４が優先；ブラシ一般Ａ４６Ｂ）",
+      "en": "Brushing apparatus(<b>E01H1/08 to E01H1/14</b>  take precedence; brushes in general <b>A46B</b>)",
+      "count": 1837,
+      "sourceFile": "ipc_E01H.txt",
+      "kind": "ipc"
+    },
+    "E01H1/04": {
+      "code": "E01H1/04",
+      "level": 2,
+      "parent": "E01H1/02",
+      "ja": "掃き寄せたごみの収容，例．収集用または積み込み用",
+      "en": "taking-up the sweepings, e.g. for collecting, for loading",
+      "count": 4848,
+      "sourceFile": "ipc_E01H.txt",
+      "kind": "ipc"
+    },
+    "E01H1/05": {
+      "code": "E01H1/05",
+      "level": 2,
+      "parent": "E01H1/02",
+      "ja": "駆動ブラシによるもの（Ｅ０１Ｈ１／０４が優先）",
+      "en": "with driven brushes(<b>E01H1/04</b> takes precedence)",
+      "count": 10308,
+      "sourceFile": "ipc_E01H.txt",
+      "kind": "ipc"
+    },
+    "E01H1/08": {
+      "code": "E01H1/08",
+      "level": 1,
+      "parent": "E01H1/00",
+      "ja": "無用物の空気利用による除去または収容（吸い込み清掃具一般Ａ４７Ｌ５／００～Ａ４７Ｌ９／００）；加熱のみによる乾燥またはガス流による乾燥（定置式加熱または送風装置Ｅ０１Ｃ１１／２６；道路の構築または修復用の加熱または乾燥Ｅ０１Ｃ２３／１４）；研摩材の噴射による清掃（砂吹き一般Ｂ２４Ｃ）",
+      "en": "Pneumatically dislodging or taking-up undesirable matter(suction cleaners in general <b>A47L5/00 to A47L9/00</b> );Drying by heat only, or by streams of gas(permanently-installed heating or blowing devices <b>E01C11/26</b>; heating or drying for road building or repairing <b>E01C23/14</b>);Cleaning by projecting abrasive particles(sand-blasting in general <b>B24C</b>)",
+      "count": 18806,
+      "sourceFile": "ipc_E01H.txt",
+      "kind": "ipc"
+    },
+    "E01H1/10": {
+      "code": "E01H1/10",
+      "level": 1,
+      "parent": "E01H1/00",
+      "ja": "無用物の水力によるゆるめまたは除去（定置式噴射装置Ｅ０１Ｈ３／０４）；かき集めまたはそり落し装置（手道具Ｅ０１Ｈ１／１２）",
+      "en": "Hydraulically loosening or dislodging undesirable matter(stationary flushing devices <b>E01H3/04</b>);Raking or scraping apparatus(hand implements <b>E01H1/12</b>)",
+      "count": 9141,
+      "sourceFile": "ipc_E01H.txt",
+      "kind": "ipc"
+    },
+    "E01H1/12": {
+      "code": "E01H1/12",
+      "level": 1,
+      "parent": "E01H1/00",
+      "ja": "手道具，例．くず拾い（レーキＡ０１Ｄ７／００）",
+      "en": "Hand implements, e.g. litter pickers(rakes <b>A01D7/00</b>)",
+      "count": 4385,
+      "sourceFile": "ipc_E01H.txt",
+      "kind": "ipc"
+    },
+    "E01H1/14": {
+      "code": "E01H1/14",
+      "level": 1,
+      "parent": "E01H1/00",
+      "ja": "磁力による除去",
+      "en": "Removing by magnetic effect",
+      "count": 896,
+      "sourceFile": "ipc_E01H.txt",
+      "kind": "ipc"
+    },
+    "E01H3/00": {
+      "code": "E01H3/00",
+      "level": 0,
+      "parent": "E01H",
+      "ja": "道路またはその類似物の表面への液体の適用，例．防塵用；定置式噴射装置（無用物の除去と組み合わせたものＥ０１Ｈ１／００；噴霧頭部その他の噴出口Ｂ０５Ｂ）",
+      "en": "Applying liquids to roads or like surfaces, e.g. for dust control; Stationary flushing devices(combined with removal of undesirable matter <b>E01H1/00</b>; spray heads, other outlets <b>B05B</b>)",
+      "count": 515,
+      "sourceFile": "ipc_E01H.txt",
+      "kind": "ipc"
+    },
+    "E01H3/02": {
+      "code": "E01H3/02",
+      "level": 1,
+      "parent": "E01H3/00",
+      "ja": "移動式装置，例．散水車（車両に特徴のあるものＢ６０Ｐ３／２２；道路舗装材料に対する液体材料の適用Ｅ０１Ｃ１９／１６）",
+      "en": "Mobile apparatus, e.g. watering-vehicles(vehicle features <b>B60P3/22</b>; applying liquid materials for road paving <b>E01C19/16</b>)",
+      "count": 8637,
+      "sourceFile": "ipc_E01H.txt",
+      "kind": "ipc"
+    },
+    "E01H3/04": {
+      "code": "E01H3/04",
+      "level": 1,
+      "parent": "E01H3/00",
+      "ja": "固定式装置，例．定置式噴射装置（給水せんＥ０３Ｂ９／０２）",
+      "en": "Fixed devices, e.g. permanently-installed flushing means(hydrants <b>E03B9/02</b>)",
+      "count": 3071,
+      "sourceFile": "ipc_E01H.txt",
+      "kind": "ipc"
+    },
+    "E01H4/00": {
+      "code": "E01H4/00",
+      "level": 0,
+      "parent": "E01H",
+      "ja": "交通またはスポーツ目的に適するように雪面または氷面への作業，例．雪の締め固めによるもの（人工雪の製造Ｆ２５Ｃ３／０４）［４］",
+      "en": "Working on surfaces of snow or ice in order to make them suitable for traffic or sporting purposes, e.g. by compacting snow(production of artificial snow <b>F25C3/04</b>)",
+      "count": 377,
+      "sourceFile": "ipc_E01H.txt",
+      "kind": "ipc"
+    },
+    "E01H4/02": {
+      "code": "E01H4/02",
+      "level": 1,
+      "parent": "E01H4/00",
+      "ja": "スポーツ目的のためのもの，例．スキー跡の整備（ウィンタースポーツまたは類似のレクレーション目的のための雪または氷の製造Ｆ２５Ｃ３／００）［４］",
+      "en": "for sporting purposes, e.g. preparation of ski trails(production of snow or ice for winter sports or similar recreational purposes <b>F25C3/00</b>)",
+      "count": 940,
+      "sourceFile": "ipc_E01H.txt",
+      "kind": "ipc"
+    },
+    "E01H5/00": {
+      "code": "E01H5/00",
+      "level": 0,
+      "parent": "E01H",
+      "ja": "道路または類似物の表面からの雪または氷の除去；雪または氷をならしまたは粗面化すること（結氷防止剤の適用によるものＥ０１Ｈ１０／００；車両に付着した無用物除去機Ｂ６０Ｒ１９／００；砂，砂利または塩の散布機Ｅ０１Ｃ１９／２０）［４］",
+      "en": "Removing snow or ice from roads or like surfaces; Grading or roughening snow or ice(by applying de-icing agents <b>E01H10/00</b>; obstruction removers on vehicles <b>B60R19/00</b>; sand, gravel or salt spreaders <b>E01C19/20</b>)",
+      "count": 2005,
+      "sourceFile": "ipc_E01H.txt",
+      "kind": "ipc"
+    },
+    "E01H5/02": {
+      "code": "E01H5/02",
+      "level": 1,
+      "parent": "E01H5/00",
+      "ja": "手道具（Ｅ０１Ｈ５／０４，Ｅ０１Ｈ５／１０，Ｅ０１Ｈ５／１２が優先）",
+      "en": "Hand implements(<b>E01H5/04</b>, <b>E01H5/10</b>, <b>E01H5/12</b> take precedence)",
+      "count": 2082,
+      "sourceFile": "ipc_E01H.txt",
+      "kind": "ipc"
+    },
+    "E01H5/04": {
+      "code": "E01H5/04",
+      "level": 1,
+      "parent": "E01H5/00",
+      "ja": "動物またはエンジンにより推進される装置；手によって推進され，駆動式の除去または運搬要素，例．空気利用によるもの，を備えた装置（Ｅ０１Ｈ５／１０，Ｅ０１Ｈ５／１２が優先）",
+      "en": "Apparatus propelled by animal or engine power; Apparatus propelled by hand with driven dislodging or conveying elements, e.g. conveying pneumatically(<b>E01H5/10</b>, <b>E01H5/12</b> take precedence)",
+      "count": 3614,
+      "sourceFile": "ipc_E01H.txt",
+      "kind": "ipc"
+    },
+    "E01H5/06": {
+      "code": "E01H5/06",
+      "level": 2,
+      "parent": "E01H5/04",
+      "ja": "非駆動要素により実質的に除去するもの，例．そり落し刃",
+      "en": "dislodging essentially by non-driven elements, e.g. scraper blades",
+      "count": 5246,
+      "sourceFile": "ipc_E01H.txt",
+      "kind": "ipc"
+    },
+    "E01H5/07": {
+      "code": "E01H5/07",
+      "level": 3,
+      "parent": "E01H5/06",
+      "ja": "駆動または空気利用の方法による除去物の運搬",
+      "en": "and conveying dislodged material by driven or pneumatic means",
+      "count": 1072,
+      "sourceFile": "ipc_E01H.txt",
+      "kind": "ipc"
+    },
+    "E01H5/08": {
+      "code": "E01H5/08",
+      "level": 2,
+      "parent": "E01H5/04",
+      "ja": "駆動要素による実質的な除去",
+      "en": "dislodging essentially by driven elements",
+      "count": 1272,
+      "sourceFile": "ipc_E01H.txt",
+      "kind": "ipc"
+    },
+    "E01H5/09": {
+      "code": "E01H5/09",
+      "level": 3,
+      "parent": "E01H5/08",
+      "ja": "回転または閉ざされた円形路に沿って移動または回転する要素，例．ロータリカッタ，穴掘り車",
+      "en": "the elements being rotary or moving along a closed circular path, e.g. rotary cutter, digging wheels",
+      "count": 4477,
+      "sourceFile": "ipc_E01H.txt",
+      "kind": "ipc"
+    },
+    "E01H5/10": {
+      "code": "E01H5/10",
+      "level": 1,
+      "parent": "E01H5/00",
+      "ja": "熱の適用によるもの（定置式送風または舗装の加熱手段Ｅ０１Ｃ１１／２６）",
+      "en": "by application of heat(stationary blowing or paving-heating means <b>E01C11/26</b>)",
+      "count": 5571,
+      "sourceFile": "ipc_E01H.txt",
+      "kind": "ipc"
+    },
+    "E01H5/12": {
+      "code": "E01H5/12",
+      "level": 1,
+      "parent": "E01H5/00",
+      "ja": "氷または堅い雪の層を破砕，崩壊またはゆるめるために特に適合される装置または手道具",
+      "en": "Apparatus or implements specially adapted for breaking, disintegrating, or loosening layers of ice or hard snow",
+      "count": 3887,
+      "sourceFile": "ipc_E01H.txt",
+      "kind": "ipc"
+    },
+    "E01H6/00": {
+      "code": "E01H6/00",
+      "level": 0,
+      "parent": "E01H",
+      "ja": "無用物または類似物の除去用要素と，雪または氷の除去用要素との双方を備えているかまたは備える用意のある装置（Ｅ０１Ｈ８／１０が優先）",
+      "en": "Apparatus equipped with, or having provisions for equipping with, both elements for removal of refuse or the like and elements for removal of snow or ice(<b>E01H8/10</b> takes precedence)",
+      "count": 278,
+      "sourceFile": "ipc_E01H.txt",
+      "kind": "ipc"
+    },
+    "E01H8/00": {
+      "code": "E01H8/00",
+      "level": 0,
+      "parent": "E01H",
+      "ja": "鉄道軌道からの無用物の除去：路面軌道レールからの無用物の除去（Ｅ０１Ｈ１／００～Ｅ０１Ｈ６／００が優先）",
+      "en": "Removing undesirable matter from the permanent way of railways; Removing undesirable matter from tramway rails(<b>E01H1/00 to E01H6/00</b>  take precedence)",
+      "count": 566,
+      "sourceFile": "ipc_E01H.txt",
+      "kind": "ipc"
+    },
+    "E01H8/02": {
+      "code": "E01H8/02",
+      "level": 1,
+      "parent": "E01H8/00",
+      "ja": "鉄道線路から氷または雪を除去する方法または装置，例．除雪プラウの使用（単にレール上またはフランジウエイのみに作用するものＥ０１Ｈ８／１０）",
+      "en": "Methods or apparatus for removing ice or snow from railway tracks, e.g. using snow-ploughs(operating only on rails or flange grooves <b>E01H8/10</b>)",
+      "count": 388,
+      "sourceFile": "ipc_E01H.txt",
+      "kind": "ipc"
+    },
+    "E01H8/04": {
+      "code": "E01H8/04",
+      "level": 2,
+      "parent": "E01H8/02",
+      "ja": "実質的に非駆動要素によるもの",
+      "en": "essentially by non-driven elements",
+      "count": 283,
+      "sourceFile": "ipc_E01H.txt",
+      "kind": "ipc"
+    },
+    "E01H8/06": {
+      "code": "E01H8/06",
+      "level": 2,
+      "parent": "E01H8/02",
+      "ja": "実質的に駆動工具によるもの",
+      "en": "essentially by driven tools",
+      "count": 524,
+      "sourceFile": "ipc_E01H.txt",
+      "kind": "ipc"
+    },
+    "E01H8/08": {
+      "code": "E01H8/08",
+      "level": 2,
+      "parent": "E01H8/02",
+      "ja": "熱の適用によるもの（加熱軌道Ｅ０１Ｂ１９／００）",
+      "en": "by application of heat(heated track <b>E01B19/00</b>)",
+      "count": 545,
+      "sourceFile": "ipc_E01H.txt",
+      "kind": "ipc"
+    },
+    "E01H8/10": {
+      "code": "E01H8/10",
+      "level": 1,
+      "parent": "E01H8/00",
+      "ja": "レール，フランジウエイまたはその類似物からの無用物の除去，例．接触レールからの氷の除去，フランジウエイからの泥土の除去（軌道内に設置された加熱，送風または液体供給装置Ｅ０１Ｂ１９／００；レール用に組み込まれた排水装置Ｅ０１Ｂ２１／０２；レールからの砂利の除去Ｅ０１Ｂ２７／０４）",
+      "en": "Removing undesirable matter from rails, flange grooves, or the like, e.g. removing ice from contact rails, removing mud from flange grooves(heating, blowing, or fluid-applying devices installed in the track <b>E01B19/00</b>; built-in draining devices for rails <b>E01B21/02</b>; removing ballast from rails <b>E01B27/04</b>)",
+      "count": 1997,
+      "sourceFile": "ipc_E01H.txt",
+      "kind": "ipc"
+    },
+    "E01H8/12": {
+      "code": "E01H8/12",
+      "level": 2,
+      "parent": "E01H8/10",
+      "ja": "みぞレール，フランジウエイまたはその類似物に特に適用されるもの",
+      "en": "specially adapted to grooved rails, flangeways, or the like",
+      "count": 228,
+      "sourceFile": "ipc_E01H.txt",
+      "kind": "ipc"
+    },
+    "E01H10/00": {
+      "code": "E01H10/00",
+      "level": 0,
+      "parent": "E01H",
+      "ja": "氷域内のまたは他のすべりやすい交通路面のすべり止めの増進，例．粉末または融解剤の使用によるもの（工具を用いて氷面を粗面化するものＥ０１Ｈ５／１２；レールへの結氷防止剤の適用Ｅ０１Ｈ８／１０；融解剤Ｃ０９Ｋ３／１８；構造的な特徴によるものＥ０１Ｃ１１／２４）",
+      "en": "Improving gripping of ice-bound or other slippery traffic surfaces, e.g. using gritting or thawing materials(roughening ice by means of tools <b>E01H5/12</b>; applying de-icing agents to rails <b>E01H8/10</b>; thawing materials <b>C09K3/18</b>; by constructional features <b>E01C11/24</b>)",
+      "count": 3841,
+      "sourceFile": "ipc_E01H.txt",
+      "kind": "ipc"
+    },
+    "E01H11/00": {
+      "code": "E01H11/00",
+      "level": 0,
+      "parent": "E01H",
+      "ja": "道路または鉄道軌道上の無用植物の発生防止（無用植物の駆除一般Ａ０１Ｍ７／００～Ａ０１Ｍ１５／００，Ａ０１Ｍ２１／００；道床作業を含めた除草Ｅ０１Ｂ２７／００）；液体，例．水，除草剤，ビチューメン，の軌道への適用（特にレールへのものＥ０１Ｈ８／１０；まくら木の保存用のものＥ０１Ｂ３１／２０）",
+      "en": "Control of undesirable vegetation on roads or permanent ways of railways(destruction of undesirable vegetation in general <b>A01M7/00 to A01M15/00</b> , <b>A01M21/00</b>; weeding involving working the ballast <b>E01B27/00</b>);Applying liquids, e.g. water, weed-killer, bitumen, to permanent ways(specially to rails <b>E01H8/10</b>; for preserving sleepers <b>E01B31/20</b>)",
+      "count": 1220,
+      "sourceFile": "ipc_E01H.txt",
+      "kind": "ipc"
+    },
+    "E01H12/00": {
+      "code": "E01H12/00",
+      "level": 0,
+      "parent": "E01H",
+      "ja": "海岸の清掃",
+      "en": "Cleaning beaches",
+      "count": 1106,
+      "sourceFile": "ipc_E01H.txt",
+      "kind": "ipc"
+    },
+    "E01H13/00": {
+      "code": "E01H13/00",
+      "level": 0,
+      "parent": "E01H",
+      "ja": "霧の消散一般，例．道路，飛行場におけるもの",
+      "en": "Dispersing fog in general, e.g. on roads, on airfields",
+      "count": 729,
+      "sourceFile": "ipc_E01H.txt",
+      "kind": "ipc"
+    },
+    "E01H15/00": {
+      "code": "E01H15/00",
+      "level": 0,
+      "parent": "E01H",
+      "ja": "他に分類されない，好ましくないもの，例．廃物，の地面からの除去（石，草木の根または類似のものを土壌から除去するための収集機Ａ０１Ｂ４３／００）［４］",
+      "en": "Removing undesirable matter, e.g. rubbish, from the land, not otherwise provided for(gatherers for removing stones, roots or the like from the soil <b>A01B43/00</b>)",
+      "count": 565,
+      "sourceFile": "ipc_E01H.txt",
+      "kind": "ipc"
+    }
+  }
+}

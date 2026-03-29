@@ -1,0 +1,1016 @@
+window.IPC_SHARD_A44B = {
+  "generatedAt": "2026-03-20T02:17:45.909Z",
+  "total": 101,
+  "entries": {
+    "A44B": {
+      "code": "A44B",
+      "level": 0,
+      "parent": "A44",
+      "ja": "ボタン，ピン，バックル，スライドファスナーまたは類似のもの（履物に特に適合する緊締具Ａ４３Ｃ）<br><br><b><ul>注</ul></b><br>このサブクラスは小間物またはその他のものに使用されるか否かを問わず，バックルおよびスライドファスナーを包含する。<br><br><b><ul>サブクラス内の索引</ul></b><br>ボタン；ボタン用厚紙　１／００～５／００；７／００<br>スライドファスナー　１９／００<br>他の締め具または止め具　６／００～１８／００，９９／００",
+      "en": "BUTTONS, PINS, BUCKLES, SLIDE FASTENERS, OR THE LIKE(fastenings specially adapted for footwear <b>A43C</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>This subclass <u>covers</u> buckles or slide fasteners whether used as haberdashery or otherwise.</li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">BUTTONS; CARDS THEREFOR </td><td><b><b>1/00 to 5/00</b> ; <b>7/00</b></b></td></tr></tr><tr><td width=\"70%\">SLIDE FASTENERS </td><td><b><b>19/00</b></b></td></tr></tr><tr><td width=\"70%\">OTHER CLAMPING OR HOLDING DEVICES </td><td><b><b>6/00 to 18/00</b> , <b>99/00</b></b></td></tr></tr></table>",
+      "count": 1980,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A44": {
+      "code": "A44",
+      "level": 0,
+      "parent": "A",
+      "ja": "小間物；貴金属宝石類",
+      "en": "HABERDASHERY; JEWELLERY",
+      "count": 0,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A": {
+      "code": "A",
+      "level": 0,
+      "parent": null,
+      "ja": "生活必需品",
+      "en": "HUMAN NECESSITIES",
+      "count": 0,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A44B1/00": {
+      "code": "A44B1/00",
+      "level": 0,
+      "parent": "A44B",
+      "ja": "ボタン",
+      "en": "Buttons",
+      "count": 1338,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B1/02": {
+      "code": "A44B1/02",
+      "level": 1,
+      "parent": "A44B1/00",
+      "ja": "材料に特徴があるもの",
+      "en": "characterised by their material",
+      "count": 1358,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B1/04": {
+      "code": "A44B1/04",
+      "level": 1,
+      "parent": "A44B1/00",
+      "ja": "装飾用ボタン",
+      "en": "Ornamental buttons",
+      "count": 2767,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B1/06": {
+      "code": "A44B1/06",
+      "level": 1,
+      "parent": "A44B1/00",
+      "ja": "ボタンの組合せ",
+      "en": "Assembling of buttons",
+      "count": 792,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B1/08": {
+      "code": "A44B1/08",
+      "level": 1,
+      "parent": "A44B1/00",
+      "ja": "構造上の特徴があるもの",
+      "en": "Constructional characteristics",
+      "count": 3013,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B1/10": {
+      "code": "A44B1/10",
+      "level": 2,
+      "parent": "A44B1/08",
+      "ja": "洗濯がきくもの",
+      "en": "washable",
+      "count": 21,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B1/12": {
+      "code": "A44B1/12",
+      "level": 2,
+      "parent": "A44B1/08",
+      "ja": "布で被覆されているもの",
+      "en": "covered by fabric",
+      "count": 535,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B1/14": {
+      "code": "A44B1/14",
+      "level": 2,
+      "parent": "A44B1/08",
+      "ja": "被覆物の取り替えができるもの",
+      "en": "with replaceable coverings",
+      "count": 467,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B1/16": {
+      "code": "A44B1/16",
+      "level": 2,
+      "parent": "A44B1/08",
+      "ja": "保護被覆の施されているもの",
+      "en": "with protective coverings",
+      "count": 173,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B1/18": {
+      "code": "A44B1/18",
+      "level": 1,
+      "parent": "A44B1/00",
+      "ja": "止め方に特徴のあるもの",
+      "en": "adapted for special ways of fastening",
+      "count": 1375,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B1/20": {
+      "code": "A44B1/20",
+      "level": 2,
+      "parent": "A44B1/18",
+      "ja": "取付ける糸が表面から見えるもの",
+      "en": "attached by thread visible to the front",
+      "count": 242,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B1/22": {
+      "code": "A44B1/22",
+      "level": 2,
+      "parent": "A44B1/18",
+      "ja": "取付ける糸が表面から見えないもの",
+      "en": "attached by thread not visible to the front",
+      "count": 209,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B1/24": {
+      "code": "A44B1/24",
+      "level": 3,
+      "parent": "A44B1/22",
+      "ja": "アイボタン",
+      "en": "Eye-buttons",
+      "count": 305,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B1/26": {
+      "code": "A44B1/26",
+      "level": 2,
+      "parent": "A44B1/18",
+      "ja": "弾性のある脚部を有するもの",
+      "en": "with resilient shank",
+      "count": 68,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B1/28": {
+      "code": "A44B1/28",
+      "level": 2,
+      "parent": "A44B1/18",
+      "ja": "脚および対応部片を有するもの",
+      "en": "with shank and counterpiece",
+      "count": 1199,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B1/30": {
+      "code": "A44B1/30",
+      "level": 3,
+      "parent": "A44B1/28",
+      "ja": "ねじ合せボタン",
+      "en": "Screw-buttons",
+      "count": 328,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B1/32": {
+      "code": "A44B1/32",
+      "level": 3,
+      "parent": "A44B1/28",
+      "ja": "脚部が対応部片にそう入され，滑りまたはねじりなどによって係止されるもの",
+      "en": "Shank inserted into counterpiece and locked by sliding or rotating",
+      "count": 375,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B1/34": {
+      "code": "A44B1/34",
+      "level": 3,
+      "parent": "A44B1/28",
+      "ja": "スナップ作用で対応部片に係止するもの",
+      "en": "with snap-action counterpiece",
+      "count": 774,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B1/36": {
+      "code": "A44B1/36",
+      "level": 3,
+      "parent": "A44B1/28",
+      "ja": "対応部片がくさび，割ピンまたは類似の形状をしているもの",
+      "en": "with counterpiece in the form of cotter, split-pin, or the like",
+      "count": 256,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B1/38": {
+      "code": "A44B1/38",
+      "level": 2,
+      "parent": "A44B1/18",
+      "ja": "ばねの作用で係止するもの",
+      "en": "Clamping by spring action",
+      "count": 175,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B1/40": {
+      "code": "A44B1/40",
+      "level": 2,
+      "parent": "A44B1/18",
+      "ja": "螺旋状の針金の脚部が材料中にねじ込まれるもの",
+      "en": "with helical wire-shank screwed into material",
+      "count": 111,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B1/42": {
+      "code": "A44B1/42",
+      "level": 2,
+      "parent": "A44B1/18",
+      "ja": "変形しうる尖った先端部を有するもの",
+      "en": "with deformable prongs",
+      "count": 288,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B1/44": {
+      "code": "A44B1/44",
+      "level": 2,
+      "parent": "A44B1/18",
+      "ja": "変形しうる対応部片を有するもの",
+      "en": "with deformable counterpiece",
+      "count": 411,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B3/00": {
+      "code": "A44B3/00",
+      "level": 0,
+      "parent": "A44B",
+      "ja": "カラーボタン",
+      "en": "Collar-studs",
+      "count": 294,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B3/02": {
+      "code": "A44B3/02",
+      "level": 1,
+      "parent": "A44B3/00",
+      "ja": "全く動かないもの",
+      "en": "completely rigid",
+      "count": 151,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B3/04": {
+      "code": "A44B3/04",
+      "level": 1,
+      "parent": "A44B3/00",
+      "ja": "全体として傾斜できる頭部を有するもの",
+      "en": "with head tiltable as a whole",
+      "count": 87,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B3/06": {
+      "code": "A44B3/06",
+      "level": 1,
+      "parent": "A44B3/00",
+      "ja": "２箇の傾斜できるフラップとして形成された頭部を有するもの",
+      "en": "with head formed as two tiltable flaps",
+      "count": 33,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B3/08": {
+      "code": "A44B3/08",
+      "level": 1,
+      "parent": "A44B3/00",
+      "ja": "分離できる頭部および基部を有するもの",
+      "en": "with head and base separable",
+      "count": 94,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B5/00": {
+      "code": "A44B5/00",
+      "level": 0,
+      "parent": "A44B",
+      "ja": "カフスボタン",
+      "en": "Sleeve-links",
+      "count": 1088,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B5/02": {
+      "code": "A44B5/02",
+      "level": 1,
+      "parent": "A44B5/00",
+      "ja": "分離部片を有するもの",
+      "en": "with separable parts",
+      "count": 435,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B6/00": {
+      "code": "A44B6/00",
+      "level": 0,
+      "parent": "A44B",
+      "ja": "ネクタイ，えり飾り，ネッカチーフまたは類似のもののための保持物またはつなぎひも，例．タイクリップ，結びひもを取付けてあるスプリングクリップ，ウォグル，衣類につなぐことができ，関連した被覆する部分をもったピン（ネクタイピンＡ４４Ｂ９／０８；装飾的なものＡ４４Ｃ）［２００６．０１］",
+      "en": "Retainers or tethers for neckties, cravats, neckerchiefs, or the like, e.g. tie-clips, spring clips with attached tie-tethers, woggles, pins with associated sheathing members tetherable to clothing(tie-pins <b>A44B9/08</b>; decorative or ornamental aspects <b>A44C</b>)",
+      "count": 1606,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B7/00": {
+      "code": "A44B7/00",
+      "level": 0,
+      "parent": "A44B",
+      "ja": "ボタン，カラーボタン，またはカフスボタン用厚紙",
+      "en": "Cards for buttons, collar-studs, or sleeve-links",
+      "count": 97,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B9/00": {
+      "code": "A44B9/00",
+      "level": 0,
+      "parent": "A44B",
+      "ja": "ハットピン，スカーフピン，安全ピンまたは類似物（装飾的なものＡ４４Ｃ；ヘアピンＡ４５Ｄ８／０２）",
+      "en": "Hat, scarf, or safety pins or the like(decorative or ornamental aspect <b>A44C</b>; hair pins <b>A45D8/02</b>)",
+      "count": 496,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B9/02": {
+      "code": "A44B9/02",
+      "level": 1,
+      "parent": "A44B9/00",
+      "ja": "単一ピン",
+      "en": "Simple pins",
+      "count": 93,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B9/04": {
+      "code": "A44B9/04",
+      "level": 2,
+      "parent": "A44B9/02",
+      "ja": "普通のピン",
+      "en": "Ordinary pins",
+      "count": 68,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B9/06": {
+      "code": "A44B9/06",
+      "level": 2,
+      "parent": "A44B9/02",
+      "ja": "ハットピン",
+      "en": "Hat-pins",
+      "count": 155,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B9/08": {
+      "code": "A44B9/08",
+      "level": 2,
+      "parent": "A44B9/02",
+      "ja": "ネクタイピン（衣類につなぐことができ，関連した被覆する部分をもったピンＡ４４Ｂ６／００）",
+      "en": "Tie-pins(pins with associated sheathing members tetherable to clothing <b>A44B6/00</b>)",
+      "count": 334,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B9/10": {
+      "code": "A44B9/10",
+      "level": 2,
+      "parent": "A44B9/02",
+      "ja": "安全具",
+      "en": "Safety devices",
+      "count": 409,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B9/12": {
+      "code": "A44B9/12",
+      "level": 1,
+      "parent": "A44B9/00",
+      "ja": "安全ピン",
+      "en": "Safety-pins",
+      "count": 701,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B9/14": {
+      "code": "A44B9/14",
+      "level": 2,
+      "parent": "A44B9/12",
+      "ja": "普通の安全ピン",
+      "en": "Ordinary safety-pins",
+      "count": 468,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B9/16": {
+      "code": "A44B9/16",
+      "level": 2,
+      "parent": "A44B9/12",
+      "ja": "ブローチ；胸飾りピン",
+      "en": "Brooches; Breast-pins",
+      "count": 347,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B9/18": {
+      "code": "A44B9/18",
+      "level": 2,
+      "parent": "A44B9/12",
+      "ja": "関節部；止め部",
+      "en": "Hinges; Locking devices",
+      "count": 699,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B9/20": {
+      "code": "A44B9/20",
+      "level": 1,
+      "parent": "A44B9/00",
+      "ja": "ピンの軸にガラスまたは類似物の頭部を取り着けたもの",
+      "en": "Attaching heads of glass or the like to pin shafts",
+      "count": 18,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B11/00": {
+      "code": "A44B11/00",
+      "level": 0,
+      "parent": "A44B",
+      "ja": "バックル；帯片または類似物を互に連結させるための同様の止め具，例．安全ベルト用",
+      "en": "Buckles; Similar fasteners for interconnecting straps or the like, e.g. for safety belts",
+      "count": 5948,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B11/02": {
+      "code": "A44B11/02",
+      "level": 1,
+      "parent": "A44B11/00",
+      "ja": "帯片の面に摩擦的に係合するもの",
+      "en": "frictionally engaging surface of straps",
+      "count": 935,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B11/04": {
+      "code": "A44B11/04",
+      "level": 2,
+      "parent": "A44B11/02",
+      "ja": "可動部分を有しないもの",
+      "en": "without movable parts",
+      "count": 957,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B11/06": {
+      "code": "A44B11/06",
+      "level": 2,
+      "parent": "A44B11/02",
+      "ja": "締め具を有するもの",
+      "en": "with clamping devices",
+      "count": 1660,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B11/08": {
+      "code": "A44B11/08",
+      "level": 3,
+      "parent": "A44B11/06",
+      "ja": "楔形溝中でローラが移動するもの",
+      "en": "roller displaceable in wedge-shaped slot",
+      "count": 151,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B11/10": {
+      "code": "A44B11/10",
+      "level": 3,
+      "parent": "A44B11/06",
+      "ja": "楔が滑動するもの",
+      "en": "sliding wedge",
+      "count": 604,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B11/12": {
+      "code": "A44B11/12",
+      "level": 3,
+      "parent": "A44B11/06",
+      "ja": "締め具が回転するもの",
+      "en": "turnable clamp",
+      "count": 1226,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B11/14": {
+      "code": "A44B11/14",
+      "level": 4,
+      "parent": "A44B11/12",
+      "ja": "スナップ作用によるもの",
+      "en": "with snap-action",
+      "count": 619,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B11/16": {
+      "code": "A44B11/16",
+      "level": 2,
+      "parent": "A44B11/02",
+      "ja": "ばね作用により帯片を保持するもの",
+      "en": "Strap held by spring action",
+      "count": 577,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B11/18": {
+      "code": "A44B11/18",
+      "level": 2,
+      "parent": "A44B11/02",
+      "ja": "結合された環に帯片を縫うように進ませることにより保持するもの",
+      "en": "Strap held by threading through linked rings",
+      "count": 369,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B11/20": {
+      "code": "A44B11/20",
+      "level": 1,
+      "parent": "A44B11/00",
+      "ja": "帯片の穴または類似物に係合するもの",
+      "en": "engaging holes or the like in strap",
+      "count": 728,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B11/22": {
+      "code": "A44B11/22",
+      "level": 2,
+      "parent": "A44B11/20",
+      "ja": "固定された突起を有するバックル",
+      "en": "Buckle with fixed prong",
+      "count": 988,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B11/24": {
+      "code": "A44B11/24",
+      "level": 2,
+      "parent": "A44B11/20",
+      "ja": "可動突起を有するバックル",
+      "en": "Buckle with movable prong",
+      "count": 1300,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B11/25": {
+      "code": "A44B11/25",
+      "level": 1,
+      "parent": "A44B11/00",
+      "ja": "２つまたはそれ以上の分離可能な部品からなるもの",
+      "en": "with two or more separable parts",
+      "count": 8886,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B11/26": {
+      "code": "A44B11/26",
+      "level": 2,
+      "parent": "A44B11/25",
+      "ja": "押ボタン式の留め具を有するもの",
+      "en": "with push-button fastenings",
+      "count": 1600,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B11/28": {
+      "code": "A44B11/28",
+      "level": 2,
+      "parent": "A44B11/25",
+      "ja": "帯片の端部と係合するフックを有するもの",
+      "en": "with hooks engaging end-pieces on the strap",
+      "count": 643,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B13/00": {
+      "code": "A44B13/00",
+      "level": 0,
+      "parent": "A44B",
+      "ja": "フックまたは環からなる止め具",
+      "en": "Hook or eye fasteners",
+      "count": 3091,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B13/02": {
+      "code": "A44B13/02",
+      "level": 1,
+      "parent": "A44B13/00",
+      "ja": "フックがばねによる留め具を有するもの",
+      "en": "with spring closure of hook",
+      "count": 378,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B15/00": {
+      "code": "A44B15/00",
+      "level": 0,
+      "parent": "A44B",
+      "ja": "鍵輪",
+      "en": "Key-rings",
+      "count": 5459,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B17/00": {
+      "code": "A44B17/00",
+      "level": 0,
+      "parent": "A44B",
+      "ja": "押ボタンまたはスナップボタン",
+      "en": "Press-button or snap fasteners",
+      "count": 5014,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B18/00": {
+      "code": "A44B18/00",
+      "level": 0,
+      "parent": "A44B",
+      "ja": "タッチクローズ型のファスナー；この種のファスナーの製造［３］",
+      "en": "Fasteners of the touch-and-close type; Making such fasteners",
+      "count": 6569,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B19/00": {
+      "code": "A44B19/00",
+      "level": 0,
+      "parent": "A44B",
+      "ja": "スライドファスナー",
+      "en": "Slide fasteners",
+      "count": 2707,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B19/02": {
+      "code": "A44B19/02",
+      "level": 1,
+      "parent": "A44B19/00",
+      "ja": "それぞれのテープに止着された一連の分離した咬合子を有するもの",
+      "en": "with a series of separate interlocking members secured to each stringer tape",
+      "count": 839,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B19/04": {
+      "code": "A44B19/04",
+      "level": 2,
+      "parent": "A44B19/02",
+      "ja": "係止時にそれぞれのテープの側縁同士が接するように配置されるもの",
+      "en": "Stringers arranged edge-to-edge when fastened",
+      "count": 853,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B19/06": {
+      "code": "A44B19/06",
+      "level": 3,
+      "parent": "A44B19/04",
+      "ja": "咬合するための突出部および片を持った実質的に長方形の咬合子からなるもの",
+      "en": "with substantially rectangular members having interlocking projections and pieces",
+      "count": 573,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B19/08": {
+      "code": "A44B19/08",
+      "level": 2,
+      "parent": "A44B19/02",
+      "ja": "係止時にそれぞれのテープの面と面が接するように配置されるもの",
+      "en": "Stringers arranged side-by-side when fastened",
+      "count": 229,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B19/10": {
+      "code": "A44B19/10",
+      "level": 1,
+      "parent": "A44B19/00",
+      "ja": "それぞれのテープに一体の咬合子を有するもの",
+      "en": "with a one-piece interlocking member on each stringer tape",
+      "count": 297,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B19/12": {
+      "code": "A44B19/12",
+      "level": 2,
+      "parent": "A44B19/10",
+      "ja": "連続したらせん形状の咬合子",
+      "en": "Interlocking member in the shape of a continuous helix",
+      "count": 526,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B19/14": {
+      "code": "A44B19/14",
+      "level": 2,
+      "parent": "A44B19/10",
+      "ja": "輪郭を与えられたまたはハニカム状の側縁によって形成された咬合子",
+      "en": "Interlocking member formed by a profiled or castellated edge",
+      "count": 350,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B19/16": {
+      "code": "A44B19/16",
+      "level": 2,
+      "parent": "A44B19/10",
+      "ja": "テープの全長に亘って一様な断面を有する咬合子［３］",
+      "en": "Interlocking member having uniform section throughout the length of the stringer",
+      "count": 1446,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B19/18": {
+      "code": "A44B19/18",
+      "level": 1,
+      "parent": "A44B19/00",
+      "ja": "係止時においてスライダー以外の第３の部材または複数の部材が近接したテープの側縁に結合されたもの，例．第３の部材がスライダーによって適所に移動するもの［３］",
+      "en": "with a third member or members, other than the slider, connected to the edges of adjacent stringers when closed, e.g. third member moved into position by a slider",
+      "count": 193,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B19/20": {
+      "code": "A44B19/20",
+      "level": 2,
+      "parent": "A44B19/18",
+      "ja": "第３の部材がテープによって囲まれているもの［３］",
+      "en": "the third member being embraced by the stringers",
+      "count": 30,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B19/22": {
+      "code": "A44B19/22",
+      "level": 2,
+      "parent": "A44B19/18",
+      "ja": "第３の部材がテープを囲んでいるもの［３］",
+      "en": "the third member embracing the stringers",
+      "count": 152,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B19/24": {
+      "code": "A44B19/24",
+      "level": 1,
+      "parent": "A44B19/00",
+      "ja": "細部",
+      "en": "Details",
+      "count": 2986,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B19/26": {
+      "code": "A44B19/26",
+      "level": 2,
+      "parent": "A44B19/24",
+      "ja": "スライダー",
+      "en": "Sliders",
+      "count": 6209,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B19/28": {
+      "code": "A44B19/28",
+      "level": 3,
+      "parent": "A44B19/26",
+      "ja": "少くとも１つのテープから取りはずせるように構成されたもの［３］",
+      "en": "constructed to be removable from at least one stringer",
+      "count": 474,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B19/30": {
+      "code": "A44B19/30",
+      "level": 3,
+      "parent": "A44B19/26",
+      "ja": "適所に係止するための手段を有するもの",
+      "en": "with means for locking in position",
+      "count": 2777,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B19/32": {
+      "code": "A44B19/32",
+      "level": 2,
+      "parent": "A44B19/24",
+      "ja": "スライドファスナーを気密または水密にする手段",
+      "en": "Means for making slide fasteners gas- or watertight",
+      "count": 1520,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B19/34": {
+      "code": "A44B19/34",
+      "level": 2,
+      "parent": "A44B19/24",
+      "ja": "テープ（Ａ４４Ｂ１９／４０が優先）；咬合子を被覆するためのテープに取付けられた縁布（Ａ４４Ｂ１９／３２が優先）［３］",
+      "en": "Stringer tapes(<b>A44B19/40</b> takes precedence);Flaps secured to stringers for covering the interlocking members(<b>A44B19/32</b> takes precedence)",
+      "count": 2584,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B19/36": {
+      "code": "A44B19/36",
+      "level": 2,
+      "parent": "A44B19/24",
+      "ja": "テープを端部において永久的に一体化する手段；スライダーの運動を端部において停止させる手段",
+      "en": "Means for permanently uniting the stringers at the end; Means for stopping movement of slider at the end",
+      "count": 1511,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B19/38": {
+      "code": "A44B19/38",
+      "level": 2,
+      "parent": "A44B19/24",
+      "ja": "テープの端部においてスライダーを一つのテープから離脱させる手段，例．テープがおのおの完全に離れるもの",
+      "en": "Means at the end of stringer by which the slider can be freed from one stringer, e.g. stringers can be completely separated from each other",
+      "count": 983,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B19/40": {
+      "code": "A44B19/40",
+      "level": 2,
+      "parent": "A44B19/24",
+      "ja": "分離したまたは一体の咬合子のテープへの結合；そのような結合の補強，例．縫製によるもの",
+      "en": "Connection of separate, or one-piece, interlocking members to stringer tapes; Reinforcing such connections, e.g. by stitching",
+      "count": 1262,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B19/42": {
+      "code": "A44B19/42",
+      "level": 1,
+      "parent": "A44B19/00",
+      "ja": "他の単独のクラス，例．Ｂ２１Ｄ５３／５０，Ｂ２１Ｆ４５／１８，Ｂ２２Ｄ１７／１６，Ｂ２９Ｄ５／００，では充分に特定することのできない方法による製造",
+      "en": "Making by processes not fully provided for in one other class, e.g. <b>B21D53/50</b>, <b>B21F45/18</b>, <b>B22D17/16</b>, <b>B29D5/00</b>",
+      "count": 3004,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B19/44": {
+      "code": "A44B19/44",
+      "level": 2,
+      "parent": "A44B19/42",
+      "ja": "既製のテープへの金属の咬合子の止着（付属品を取り付けてから金属のスライドファスナー部品を製造するものＢ２１Ｄ５３／５２）［３］",
+      "en": "Securing metal interlocking members to ready-made stringer tapes(making metal slide fastener parts combined with attaching <b>B21D53/52</b>)",
+      "count": 313,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B19/46": {
+      "code": "A44B19/46",
+      "level": 3,
+      "parent": "A44B19/44",
+      "ja": "分離した咬合子の止着［３］",
+      "en": "Securing separate interlocking members",
+      "count": 255,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B19/48": {
+      "code": "A44B19/48",
+      "level": 4,
+      "parent": "A44B19/46",
+      "ja": "取り付ける前の咬合子の配列［３］",
+      "en": "Arranging interlocking members before securing",
+      "count": 81,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B19/50": {
+      "code": "A44B19/50",
+      "level": 3,
+      "parent": "A44B19/44",
+      "ja": "一体の咬合子の止着［３］",
+      "en": "Securing one-piece interlocking members",
+      "count": 36,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B19/52": {
+      "code": "A44B19/52",
+      "level": 2,
+      "parent": "A44B19/42",
+      "ja": "テープを製造しながらのテープへの咬合子の止着［３］",
+      "en": "Securing the interlocking members to stringer tapes while making the latter",
+      "count": 73,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B19/54": {
+      "code": "A44B19/54",
+      "level": 3,
+      "parent": "A44B19/52",
+      "ja": "テープを織成により製造するもの［３］",
+      "en": "while weaving the stringer tapes",
+      "count": 326,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B19/56": {
+      "code": "A44B19/56",
+      "level": 3,
+      "parent": "A44B19/52",
+      "ja": "テープを編成により製造するもの［３］",
+      "en": "while knitting the stringer tapes",
+      "count": 109,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B19/58": {
+      "code": "A44B19/58",
+      "level": 2,
+      "parent": "A44B19/42",
+      "ja": "ギャップを作るための咬合子の除去［３］",
+      "en": "Removing interlocking members to produce gaps",
+      "count": 386,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B19/60": {
+      "code": "A44B19/60",
+      "level": 2,
+      "parent": "A44B19/42",
+      "ja": "テープへの端止め具の装着［３］",
+      "en": "Applying end stops upon stringer tapes",
+      "count": 735,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B19/62": {
+      "code": "A44B19/62",
+      "level": 2,
+      "parent": "A44B19/42",
+      "ja": "テープの位置へのスライダー組込み［３］",
+      "en": "Assembling sliders in position on stringer tapes",
+      "count": 1015,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B19/64": {
+      "code": "A44B19/64",
+      "level": 3,
+      "parent": "A44B19/62",
+      "ja": "スライドファスナーの組立の為のスライダーのホルダー［３］",
+      "en": "Slider holders for assemblage of slide fasteners",
+      "count": 152,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    },
+    "A44B99/00": {
+      "code": "A44B99/00",
+      "level": 0,
+      "parent": "A44B",
+      "ja": "このサブクラスの他のグループに分類されない主題事項［２０１０．０１］",
+      "en": "Subject matter not provided for in other groups of this subclass",
+      "count": 4940,
+      "sourceFile": "ipc_A44B.txt",
+      "kind": "ipc"
+    }
+  }
+};

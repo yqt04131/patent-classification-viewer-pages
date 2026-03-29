@@ -1,0 +1,196 @@
+window.IPC_SHARD_B44B = {
+  "generatedAt": "2026-03-20T02:17:46.201Z",
+  "total": 19,
+  "entries": {
+    "B44B": {
+      "code": "B44B",
+      "level": 0,
+      "parent": "B44",
+      "ja": "美術作業，例．造形，組紐飾り彫り，彫刻，焼印または，はめこみ加工，に用いる機械，装置または工具（装飾なめし革Ｃ１４Ｂ）<br><br><b><ul>サブクラス内の索引</ul></b><br>立体加工；エンボシング　１／００；５／００<br>平面加工；焼印；はめ込み加工　３／００；７／００；９／００<br>手工具　１１／００",
+      "en": "MACHINES, APPARATUS OR TOOLS FOR ARTISTIC WORK, e.g. FOR SCULPTURING, GUILLOCHING, CARVING, BRANDING OR INLAYING(ornamenting leather <b>C14B</b>);<br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">THREE-DIMENSIONAL WORK; EMBOSSING </td><td><b><b>1/00</b>; <b>5/00</b></b></td></tr></tr><tr><td width=\"70%\">TWO-DIMENSIONAL WORK; BRANDING; INLAYING </td><td><b><b>3/00</b>; <b>7/00</b>; <b>9/00</b></b></td></tr></tr><tr><td width=\"70%\">HAND TOOLS </td><td><b><b>11/00</b></b></td></tr></tr></table>",
+      "count": 302,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B44": {
+      "code": "B44",
+      "level": 0,
+      "parent": "B",
+      "ja": "装飾技術<br><br><b><ul>注</ul></b><br>いかなる機械，装置，工具，または方法も，それが目により判断されることを予定された外観またはマークを作り出す限り，そしてこのような機械，装置，工具または方法が他に分類されない限りこのクラスに分類される。［４］",
+      "en": "DECORATIVE ARTS; <br><br><b><u>Note(s)</u></b><br><br><ul><li>Any machine, apparatus, tool or process is classified in this class in so far as it produces an effect or mark meant to be judged by the eye and in so far as such machine, apparatus, tool or process is not provided for elsewhere. </li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B": {
+      "code": "B",
+      "level": 0,
+      "parent": null,
+      "ja": "処理操作；運輸",
+      "en": "PERFORMING OPERATIONS; TRANSPORTING",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B44B1/00": {
+      "code": "B44B1/00",
+      "level": 0,
+      "parent": "B44B",
+      "ja": "単一の彫刻物または型を作るために三次元方向に可動のまたは制御され得る工具または装置（工作機械用倣い装置Ｂ２３Ｑ３５／００）［２００６．０１］",
+      "en": "Artists' machines or apparatus equipped with tools or work holders moving, or able to be controlled, three-dimensionally for making single sculptures or models(copying devices for machine-tool use <b>B23Q35/00</b>)",
+      "count": 4880,
+      "sourceFile": "ipc_B44B.txt",
+      "kind": "ipc"
+    },
+    "B44B1/02": {
+      "code": "B44B1/02",
+      "level": 1,
+      "parent": "B44B1/00",
+      "ja": "立体的倣い［２００６．０１］",
+      "en": "wherein three-dimensional [3D] copies are made",
+      "count": 462,
+      "sourceFile": "ipc_B44B.txt",
+      "kind": "ipc"
+    },
+    "B44B1/04": {
+      "code": "B44B1/04",
+      "level": 2,
+      "parent": "B44B1/02",
+      "ja": "原型からの形を変える，例．比例的に拡大，縮小する，装置をもつもの",
+      "en": "having devices for changing, e.g. proportionally enlarging or reducing, the shape from an original pattern",
+      "count": 107,
+      "sourceFile": "ipc_B44B.txt",
+      "kind": "ipc"
+    },
+    "B44B1/06": {
+      "code": "B44B1/06",
+      "level": 1,
+      "parent": "B44B1/00",
+      "ja": "付属具",
+      "en": "Accessories",
+      "count": 6457,
+      "sourceFile": "ipc_B44B.txt",
+      "kind": "ipc"
+    },
+    "B44B3/00": {
+      "code": "B44B3/00",
+      "level": 0,
+      "parent": "B44B",
+      "ja": "浅い装飾またはマークを彫刻，彫付けまたは組紐飾り彫りするための二次元方向に可動のまたは制御され得る工具または工作物保持具を備えた美術作業用機械または装置（高密度電流の作用による金属のマーク付けまたは彫付けＢ２３Ｈ９／０６；組版彫込みＢ４１Ｃ１／０２；写真製版法の複写による彫込みＧ０３Ｆ７／２０）",
+      "en": "Artists' machines or apparatus equipped with tools or work holders moving or able to be controlled substantially two-dimensionally for carving, engraving, or guilloching shallow ornamenting or markings(marking or engraving metal by the action of a high concentration of electric current <b>B23H9/06</b>; forme engraving <b>B41C1/02</b>; engraving by photomechanical reproduction <b>G03F7/20</b>)",
+      "count": 5251,
+      "sourceFile": "ipc_B44B.txt",
+      "kind": "ipc"
+    },
+    "B44B3/02": {
+      "code": "B44B3/02",
+      "level": 1,
+      "parent": "B44B3/00",
+      "ja": "平面加工",
+      "en": "wherein plane surfaces are worked",
+      "count": 1420,
+      "sourceFile": "ipc_B44B.txt",
+      "kind": "ipc"
+    },
+    "B44B3/04": {
+      "code": "B44B3/04",
+      "level": 1,
+      "parent": "B44B3/00",
+      "ja": "非平面加工",
+      "en": "wherein non-plane surfaces are worked",
+      "count": 656,
+      "sourceFile": "ipc_B44B.txt",
+      "kind": "ipc"
+    },
+    "B44B3/06": {
+      "code": "B44B3/06",
+      "level": 1,
+      "parent": "B44B3/00",
+      "ja": "付属具，例．工具ホルダまたは工作物ホルダ",
+      "en": "Accessories, e.g. tool or work holders",
+      "count": 7439,
+      "sourceFile": "ipc_B44B.txt",
+      "kind": "ipc"
+    },
+    "B44B5/00": {
+      "code": "B44B5/00",
+      "level": 0,
+      "parent": "B44B",
+      "ja": "装飾またはマークをエンボシングする機械または装置，例．貨幣をエンボシングする機械または装置（板金または金属管の波形加工，板金加工と結合したエンボシングＢ２１Ｄ；プラスチックまたは可塑状態の物質のエンボシング一般Ｂ２９Ｃ５９／０２；紙または厚紙のエンボシング一般Ｂ３１Ｆ１／０７；組版エンボシングＢ４１Ｃ１／０８；エンボスと結合された印刷操作を行う印刷機械Ｂ４１Ｆ１９／０２；エンボシング用のタイプライターまたは選択的プリンティングまたはマーキング機構Ｂ４１Ｊ３／３８；凹板押し印器具または装置Ｂ４１Ｋ１／３０，Ｂ４１Ｋ３／１６；コピー事項を変形する手段を有する押し印装置Ｂ４１Ｋ３／３６；エンボス用の皮革Ｃ１４Ｂ１／５６）",
+      "en": "Machines or apparatus for embossing decorations or marks, e.g. embossing coins(corrugating sheet metal or metal tubes, embossing combined with sheet-metal-working operations <b>B21D</b>; embossing plastics or substances in a plastic state, in general <b>B29C59/02</b>; embossing of paper or cardboard in general <b>B31F1/07</b>; forme embossing <b>B41C1/08</b>; printing machines for carrying out printing operations combined with embossing <b>B41F19/02</b>; typewriters or selective printing or marking mechanisms adapted for embossing <b>B41J3/38</b>; intaglio stamping devices or apparatus <b>B41K1/30</b>, <b>B41K3/16</b>; stamping apparatus with means for deforming the copy matter <b>B41K3/36</b>;  embossing leather <b>C14B1/56</b>)",
+      "count": 7175,
+      "sourceFile": "ipc_B44B.txt",
+      "kind": "ipc"
+    },
+    "B44B5/02": {
+      "code": "B44B5/02",
+      "level": 1,
+      "parent": "B44B5/00",
+      "ja": "ダイス型；付属具",
+      "en": "Dies; Accessories",
+      "count": 5247,
+      "sourceFile": "ipc_B44B.txt",
+      "kind": "ipc"
+    },
+    "B44B7/00": {
+      "code": "B44B7/00",
+      "level": 0,
+      "parent": "B44B",
+      "ja": "焼印用機械，装置または手工具",
+      "en": "Machines, apparatus, or hand tools for branding",
+      "count": 966,
+      "sourceFile": "ipc_B44B.txt",
+      "kind": "ipc"
+    },
+    "B44B7/02": {
+      "code": "B44B7/02",
+      "level": 1,
+      "parent": "B44B7/00",
+      "ja": "焼金",
+      "en": "Branding irons",
+      "count": 127,
+      "sourceFile": "ipc_B44B.txt",
+      "kind": "ipc"
+    },
+    "B44B9/00": {
+      "code": "B44B9/00",
+      "level": 0,
+      "parent": "B44B",
+      "ja": "装飾構造物をはめ込み加工，例．寄せ木細工，モザイク細工，する機械または装置",
+      "en": "Machines or apparatus for inlaying with ornamental structures, e.g. tarsia or mosaic work",
+      "count": 290,
+      "sourceFile": "ipc_B44B.txt",
+      "kind": "ipc"
+    },
+    "B44B11/00": {
+      "code": "B44B11/00",
+      "level": 0,
+      "parent": "B44B",
+      "ja": "造形，彫塑，彫付け，組紐飾り彫りまたはエンボシング用美術作業用手工具および付属具",
+      "en": "Artists' hand tools for sculpturing, kneading, carving, engraving, guilloching, or embossing; Accessories therefor",
+      "count": 1429,
+      "sourceFile": "ipc_B44B.txt",
+      "kind": "ipc"
+    },
+    "B44B11/02": {
+      "code": "B44B11/02",
+      "level": 1,
+      "parent": "B44B11/00",
+      "ja": "二次元彫刻，彫付け，組紐飾り彫り用［２００６．０１］",
+      "en": "for substantially two-dimensional [2D] carving, engraving, or guilloching",
+      "count": 1156,
+      "sourceFile": "ipc_B44B.txt",
+      "kind": "ipc"
+    },
+    "B44B11/04": {
+      "code": "B44B11/04",
+      "level": 1,
+      "parent": "B44B11/00",
+      "ja": "エンボシング用",
+      "en": "for embossing",
+      "count": 196,
+      "sourceFile": "ipc_B44B.txt",
+      "kind": "ipc"
+    }
+  }
+};

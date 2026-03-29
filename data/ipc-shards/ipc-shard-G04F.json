@@ -1,0 +1,436 @@
+{
+  "generatedAt": "2026-03-20T02:17:47.062Z",
+  "total": 43,
+  "entries": {
+    "G04F": {
+      "code": "G04F",
+      "level": 0,
+      "parent": "G04",
+      "ja": "時間間隔の測定（パルス特性の測定Ｇ０１Ｒ，例．Ｇ０１Ｒ２９／０２；レーダまたは類似方式におけるものＧ０１Ｓ）［２］<br><br><b><ul>注</ul></b><br>このサブクラスは以下のものを包含する：<br>―あらかじめ設定された時間間隔に計り分けるための装置；［２］<br>―時間標準のような間隔を作り出すための装置，例．メトロノーム；［２］<br>―未知の間隔を測定するための装置，例．短時間間隔測定のための精密測定方式［２］<br><br><b><ul>サブクラス内の索引</ul></b><br>予め定められた時間間隔を測定するもの<br>時間標準を発生するもの　５／００<br>装置：駆動機構を持たないもの；駆動機構をもつもの　１／００；３／００<br>未知の時間間隔を測定するもの<br>機械的；電子機械的；電気的；その他　７／００；８／００；１０／００；１３／００",
+      "en": "TIME-INTERVAL MEASURING(measuring pulse characteristics <b>G01R</b>, e.g. <b>G01R29/02</b>; in radar or like systems <b>G01S</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>This subclass <u>covers</u>:<ul><li>apparatus for measuring-off predetermined time intervals; </li><li>apparatus for producing such intervals as timing standards, e.g. metronomes; </li><li>apparatus for measuring unknown intervals, e.g. precision systems for short-time-interval measurement. </li></ul></li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">MEASURING PREDETERMINED TIME INTERVALS<tr><td width=\"70%\">Producing time standards </td><td><b><b>5/00</b></b></td></tr></tr><tr><td width=\"70%\">Apparatus: without driving mechanisms; with driving mechanisms </td><td><b><b>1/00</b>; <b>3/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">MEASURING UNKNOWN TIME INTERVALS<tr><td width=\"70%\">Mechanically; electromechanically; electrically; otherwise </td><td><b><b>7/00</b>; <b>8/00</b>; <b>10/00</b>; <b>13/00</b></b></td></tr></tr></tr></table>",
+      "count": 207,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G04": {
+      "code": "G04",
+      "level": 0,
+      "parent": "G",
+      "ja": "時計",
+      "en": "HOROLOGY",
+      "count": 0,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G": {
+      "code": "G",
+      "level": 0,
+      "parent": null,
+      "ja": "物理学<br><br><b><ul>注</ul></b><br>１．このセクションにおいては，下記の用語は以下に示す意味で用いる：<br>・“変量”は名詞として，特定の実在物，例．物体，ある量の物質，光ビーム，に関し特定の瞬間に測定することの可能な特性又は特質，例．寸法，温度等の物理的状態，密度又は色等の性質，を意味する。変量が変化すると，その数値的表現は異なる時点で，異なる状態又は個々の状況において異なる値をとることもあり，また，ある状態のもとで又は実用上特定の実在物に関して一定でありうる，例．バーの長さが多くの目的のために一定とみなされる，こともある。<br>２．使用される用語または表現の定義に注意すること。このセクションのいくつかのクラスの注に使用されているものについて，特にクラスＧ０１の“測定”を参照されたい．ＩＰＣ指針パラグラフ１８７の中にあるものについて，“制御”及び“調整”の定義に参照されたい。<br>３．このセクションにおける分類は他のセクションにおいてよりもめんどうな場合があり得る，というのは，その一つは，いろいろな使用分野の差異の判別には構造上の差異又は使用形態上の差異よりも寧ろ使用者の意図における差異の方にかなりの程度影響されてしまうからであり，もう一つは，扱う主題が容易に全体として識別できる“もの”であるよりも，特性又は部品が他の主題のものと共通のものを有しているシステム又は組合わせであることが実際上多いからである。例えば，情報（例．一連の数値）をディスプレイするのは，クラスＧ０９に包含される，教育又は広告のため，クラスＧ０１に包含される，測定の結果が通知されうるため，クラスＧ０８に包含される，遠隔地点に情報を合図するため，又は遠隔地点から合図された情報を提供するためである。目的を記述するために使用する言葉は，当該装置の形態に無関係なこともあり得る特性－例えば，ディスプレイを見る者にとって望ましい効果とか，ディスプレイが遠隔地点から制御されるかどうかという特性－によって決定される。さらに，ある状態，例えば流体圧の変化に応答する装置は，その装置そのものには変更を加えずして，サブクラスＧ０１Ｌに包含される圧力又はＧ０１の他のサブクラスに包含される圧力に関連した他の何らかの状態，例．温度に関してＧ０１Ｋ，についての情報を与えるため，サブクラスＧ０７Ｃに包含される圧力または圧力発生の記録をするため，サブクラスＧ０８Ｂに包含される警報を発するため，又はクラスＧ０５に包含される他の何らかの装置を制御するために用いられることがある。<br>　本分類表は，前述したように，同一の性質のものは同一箇所に分類し得るようにしたものである。従って，技術主題が適切箇所に分類されるためには予めその真正な本質を把握することが特に必要である。",
+      "en": "PHYSICS; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this section, the following term is used with the meaning indicated: <ul><li>\"variable\" as a noun means a feature or property, e.g. a dimension, a physical condition such as temperature, a quality such as density or colour, which, in respect of a particular entity, e.g. an object, a quantity of a substance, a beam of light, and at a particular instant, is capable of being measured; the variable may change, so that its numerical expression may assume different values at different times, in different conditions or in individual cases, but may be constant in respect of a particular entity in certain conditions or for practical purposes, e.g. the length of a bar may be regarded as constant for many purposes.</li></ul></li><li>Attention is drawn to the definitions of terms or expressions used. Some appear in the notes of several of the classes in this section, see in particular the definition of \"measuring\" in class <b>G01</b>. Others appear in paragraph 187 of the Guide to the IPC, see in particular the definitions of \"control\" and \"regulation\".</li><li>Classification in this section may present more difficulty than in other sections, because the distinction between different fields of use rests to a considerable extent on differences in the intention of the user rather than on any constructional differences or differences in the manner of use, and because the subjects dealt with are often in effect systems or combinations, which have features or parts in common, rather than \"things\", which are readily distinguishable as a whole. For example, information, e.g. a set of figures, may be displayed for the purpose of education or advertising covered by class <b>G09</b>, for enabling the result of a measurement to be known covered by class <b>G01</b>, for signalling the information to a distant point or for giving information which has been signalled from a distant point covered by class <b>G08</b>. The words used to describe the purpose depend on features that may be irrelevant to the form of the apparatus concerned, for example, such features as the desired effect on the person who sees the display, or whether the display is controlled from a remote point. Again, a device which responds to some change in a condition, e.g. in the pressure of a fluid, may be used, without modification of the device itself, to give information about the pressure covered by subclass <b>G01L</b> or about some other condition linked to the pressure covered by another subclass of class <b>G01</b>, e.g. <b>G01K</b> for temperature, to make a record of the pressure or of its occurrence covered by subclass <b>G07C</b>, to give an alarm covered by subclass <b>G08B</b>, or to control another apparatus covered by class <b>G05</b>. <ul><li>The classification scheme is intended to enable things of a similar nature, as indicated above, to be classified together. It is therefore particularly necessary for the real nature of any technical subject to be decided before it can be properly classified.</li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G04F1/00": {
+      "code": "G04F1/00",
+      "level": 0,
+      "parent": "G04F",
+      "ja": "駆動機構を持たない，予定または調節可能な固定時間間隔を区切るためにセットおよびスタートができる装置，例．エッグタイマー［２００６．０１］",
+      "en": "Apparatus which can be set and started to measure-off predetermined or adjustably-fixed time intervals without driving mechanisms, e.g. egg timers",
+      "count": 1471,
+      "sourceFile": "ipc_G04F.txt",
+      "kind": "ipc"
+    },
+    "G04F1/02": {
+      "code": "G04F1/02",
+      "level": 1,
+      "parent": "G04F1/00",
+      "ja": "一定量の物質を消費するもの，例．ろうそくの燃焼によるもの",
+      "en": "by consuming prefixed quantities of materials, e.g. by burning candle",
+      "count": 79,
+      "sourceFile": "ipc_G04F.txt",
+      "kind": "ipc"
+    },
+    "G04F1/04": {
+      "code": "G04F1/04",
+      "level": 1,
+      "parent": "G04F1/00",
+      "ja": "重力による運動または加速によるもの",
+      "en": "by movement or acceleration due to gravity",
+      "count": 132,
+      "sourceFile": "ipc_G04F.txt",
+      "kind": "ipc"
+    },
+    "G04F1/06": {
+      "code": "G04F1/06",
+      "level": 2,
+      "parent": "G04F1/04",
+      "ja": "一定量の微粒子状物質または液体の流出によるもの，例．砂時計，水時計",
+      "en": "by flowing-away of a prefixed quantity of fine-granular or liquid materials, e.g. sand-glass, water-clock",
+      "count": 1221,
+      "sourceFile": "ipc_G04F.txt",
+      "kind": "ipc"
+    },
+    "G04F1/08": {
+      "code": "G04F1/08",
+      "level": 2,
+      "parent": "G04F1/04",
+      "ja": "一定距離の空気中または粘性物質中を落下する物体によるもの",
+      "en": "by a body falling a prefixed distance in air or in a viscous material",
+      "count": 133,
+      "sourceFile": "ipc_G04F.txt",
+      "kind": "ipc"
+    },
+    "G04F3/00": {
+      "code": "G04F3/00",
+      "level": 0,
+      "parent": "G04F",
+      "ja": "駆動機構を持つ，予定または調節可能な固定時間間隔を区切るためにセットおよびスタートができる装置，例．時計仕掛けを持つ放射線量計［２００６．０１］",
+      "en": "Apparatus which can be set and started to measure-off predetermined or adjustably-fixed time intervals with driving mechanisms, e.g. dosimeters with clockwork",
+      "count": 2262,
+      "sourceFile": "ipc_G04F.txt",
+      "kind": "ipc"
+    },
+    "G04F3/02": {
+      "code": "G04F3/02",
+      "level": 1,
+      "parent": "G04F3/00",
+      "ja": "機械的駆動機構を持つもの",
+      "en": "with mechanical driving mechanisms",
+      "count": 1763,
+      "sourceFile": "ipc_G04F.txt",
+      "kind": "ipc"
+    },
+    "G04F3/04": {
+      "code": "G04F3/04",
+      "level": 2,
+      "parent": "G04F3/02",
+      "ja": "普通の非電気時計に結合した付加装置",
+      "en": "Additional arrangements in connection with ordinary non-electric clocks for this purpose",
+      "count": 145,
+      "sourceFile": "ipc_G04F.txt",
+      "kind": "ipc"
+    },
+    "G04F3/06": {
+      "code": "G04F3/06",
+      "level": 1,
+      "parent": "G04F3/00",
+      "ja": "電気的駆動機構を持つもの",
+      "en": "with electric driving mechanisms",
+      "count": 1531,
+      "sourceFile": "ipc_G04F.txt",
+      "kind": "ipc"
+    },
+    "G04F3/08": {
+      "code": "G04F3/08",
+      "level": 2,
+      "parent": "G04F3/06",
+      "ja": "普通の電気時計に結合した付加装置",
+      "en": "Additional arrangements in connection with ordinary electric clocks for this purpose",
+      "count": 174,
+      "sourceFile": "ipc_G04F.txt",
+      "kind": "ipc"
+    },
+    "G04F5/00": {
+      "code": "G04F5/00",
+      "level": 0,
+      "parent": "G04F",
+      "ja": "時間標準として使用するあらかじめ選定された時間間隔を発生するための装置（電気的デジタル計算機のためのクロック信号の発生Ｇ０６Ｆ１／０４）［２００６．０１］",
+      "en": "Apparatus for producing preselected time intervals for use as timing standards(generating clock signals for electric digital computers <b>G06F1/04</b>)",
+      "count": 594,
+      "sourceFile": "ipc_G04F.txt",
+      "kind": "ipc"
+    },
+    "G04F5/02": {
+      "code": "G04F5/02",
+      "level": 1,
+      "parent": "G04F5/00",
+      "ja": "メトロノーム",
+      "en": "Metronomes",
+      "count": 1424,
+      "sourceFile": "ipc_G04F.txt",
+      "kind": "ipc"
+    },
+    "G04F5/04": {
+      "code": "G04F5/04",
+      "level": 1,
+      "parent": "G04F5/00",
+      "ja": "電気機械的共振器を有する振動子を用いるもの［２］",
+      "en": "using oscillators with electromechanical resonators",
+      "count": 131,
+      "sourceFile": "ipc_G04F.txt",
+      "kind": "ipc"
+    },
+    "G04F5/06": {
+      "code": "G04F5/06",
+      "level": 2,
+      "parent": "G04F5/04",
+      "ja": "ピエゾ電気共振器を用いるもの［２］",
+      "en": "using piezoelectric resonators",
+      "count": 660,
+      "sourceFile": "ipc_G04F.txt",
+      "kind": "ipc"
+    },
+    "G04F5/08": {
+      "code": "G04F5/08",
+      "level": 2,
+      "parent": "G04F5/04",
+      "ja": "磁わい共振器を用いるもの［２］",
+      "en": "using magnetostrictive resonators",
+      "count": 2,
+      "sourceFile": "ipc_G04F.txt",
+      "kind": "ipc"
+    },
+    "G04F5/10": {
+      "code": "G04F5/10",
+      "level": 1,
+      "parent": "G04F5/00",
+      "ja": "電気的または電子的共振器を用いるもの（Ｇ０４Ｆ５／１４が優先）［２］",
+      "en": "using electric or electronic resonators(<b>G04F5/14</b> takes precedence)",
+      "count": 120,
+      "sourceFile": "ipc_G04F.txt",
+      "kind": "ipc"
+    },
+    "G04F5/12": {
+      "code": "G04F5/12",
+      "level": 1,
+      "parent": "G04F5/00",
+      "ja": "流体的装置を用いるもの［２］",
+      "en": "using fluidic devices",
+      "count": 14,
+      "sourceFile": "ipc_G04F.txt",
+      "kind": "ipc"
+    },
+    "G04F5/14": {
+      "code": "G04F5/14",
+      "level": 1,
+      "parent": "G04F5/00",
+      "ja": "原子時計を用いるもの［２］",
+      "en": "using atomic clocks",
+      "count": 1432,
+      "sourceFile": "ipc_G04F.txt",
+      "kind": "ipc"
+    },
+    "G04F5/16": {
+      "code": "G04F5/16",
+      "level": 1,
+      "parent": "G04F5/00",
+      "ja": "ラジオアイソトープにより発生したパルスを用いるもの［２］",
+      "en": "using pulses produced by radio-isotopes",
+      "count": 39,
+      "sourceFile": "ipc_G04F.txt",
+      "kind": "ipc"
+    },
+    "G04F7/00": {
+      "code": "G04F7/00",
+      "level": 0,
+      "parent": "G04F",
+      "ja": "非電気的手段によって未知時間間隔を測定する装置（流体的手段を用いるものＧ０４Ｆ１３／０６）［２００６．０１］",
+      "en": "Apparatus for measuring unknown time intervals by non-electric means (using fluidic means <b>G04F13/06</b>)",
+      "count": 250,
+      "sourceFile": "ipc_G04F.txt",
+      "kind": "ipc"
+    },
+    "G04F7/02": {
+      "code": "G04F7/02",
+      "level": 1,
+      "parent": "G04F7/00",
+      "ja": "落下体の落下距離または最終速度を測定するもの",
+      "en": "by measuring the distance of fall or the final velocity of a falling body",
+      "count": 16,
+      "sourceFile": "ipc_G04F.txt",
+      "kind": "ipc"
+    },
+    "G04F7/04": {
+      "code": "G04F7/04",
+      "level": 1,
+      "parent": "G04F7/00",
+      "ja": "機械的振動子を用いるもの［２］",
+      "en": "using a mechanical oscillator",
+      "count": 479,
+      "sourceFile": "ipc_G04F.txt",
+      "kind": "ipc"
+    },
+    "G04F7/06": {
+      "code": "G04F7/06",
+      "level": 2,
+      "parent": "G04F7/04",
+      "ja": "被測定時間間隔の期間のみ動作するもの，例．ストップウォッチ",
+      "en": "running only during the time interval to be measured, e.g. stopwatches",
+      "count": 478,
+      "sourceFile": "ipc_G04F.txt",
+      "kind": "ipc"
+    },
+    "G04F7/08": {
+      "code": "G04F7/08",
+      "level": 2,
+      "parent": "G04F7/04",
+      "ja": "停止装置を持つ時計，例．クロノグラフ",
+      "en": "Watches or clocks with stop devices, e.g. chronograph",
+      "count": 1198,
+      "sourceFile": "ipc_G04F.txt",
+      "kind": "ipc"
+    },
+    "G04F7/10": {
+      "code": "G04F7/10",
+      "level": 1,
+      "parent": "G04F7/00",
+      "ja": "起動，停止のために時計とは別個に使用される手段［２］",
+      "en": "Means used apart from the time-piece for starting or stopping same",
+      "count": 84,
+      "sourceFile": "ipc_G04F.txt",
+      "kind": "ipc"
+    },
+    "G04F8/00": {
+      "code": "G04F8/00",
+      "level": 0,
+      "parent": "G04F",
+      "ja": "電気機械的手段によって未知時間間隔を測定する装置［２］",
+      "en": "Apparatus for measuring unknown time intervals by electromechanical means",
+      "count": 773,
+      "sourceFile": "ipc_G04F.txt",
+      "kind": "ipc"
+    },
+    "G04F8/02": {
+      "code": "G04F8/02",
+      "level": 1,
+      "parent": "G04F8/00",
+      "ja": "電気機械的振動子を用いるもの［２］",
+      "en": "using an electromechanical oscillator",
+      "count": 256,
+      "sourceFile": "ipc_G04F.txt",
+      "kind": "ipc"
+    },
+    "G04F8/04": {
+      "code": "G04F8/04",
+      "level": 2,
+      "parent": "G04F8/02",
+      "ja": "ピエゾ電気振動子を用いるもの［２］",
+      "en": "using a piezoelectric oscillator",
+      "count": 21,
+      "sourceFile": "ipc_G04F.txt",
+      "kind": "ipc"
+    },
+    "G04F8/06": {
+      "code": "G04F8/06",
+      "level": 2,
+      "parent": "G04F8/02",
+      "ja": "磁わい振動子を用いるもの［２］",
+      "en": "using a magnetostrictive oscillator",
+      "count": 2,
+      "sourceFile": "ipc_G04F.txt",
+      "kind": "ipc"
+    },
+    "G04F8/08": {
+      "code": "G04F8/08",
+      "level": 1,
+      "parent": "G04F8/00",
+      "ja": "起動，停止のために時計とは別個に使用される手段［２］",
+      "en": "Means used apart from the time-piece for starting or stopping same",
+      "count": 339,
+      "sourceFile": "ipc_G04F.txt",
+      "kind": "ipc"
+    },
+    "G04F10/00": {
+      "code": "G04F10/00",
+      "level": 0,
+      "parent": "G04F",
+      "ja": "電気的手段によって未知時間間隔を測定する装置［２］",
+      "en": "Apparatus for measuring unknown time intervals by electric means",
+      "count": 5298,
+      "sourceFile": "ipc_G04F.txt",
+      "kind": "ipc"
+    },
+    "G04F10/02": {
+      "code": "G04F10/02",
+      "level": 1,
+      "parent": "G04F10/00",
+      "ja": "受動電気共振器，例．集中定数ＬＣ，を有する振動子を用いるもの［２］",
+      "en": "using oscillators with passive electric resonator, e.g. lumped LC",
+      "count": 49,
+      "sourceFile": "ipc_G04F.txt",
+      "kind": "ipc"
+    },
+    "G04F10/04": {
+      "code": "G04F10/04",
+      "level": 1,
+      "parent": "G04F10/00",
+      "ja": "パルスまたは交流の半周期の計数によるもの［２］",
+      "en": "by counting pulses or half-cycles of an AC",
+      "count": 3054,
+      "sourceFile": "ipc_G04F.txt",
+      "kind": "ipc"
+    },
+    "G04F10/06": {
+      "code": "G04F10/06",
+      "level": 1,
+      "parent": "G04F10/00",
+      "ja": "位相の測定によるもの［２］",
+      "en": "by measuring phase",
+      "count": 320,
+      "sourceFile": "ipc_G04F.txt",
+      "kind": "ipc"
+    },
+    "G04F10/08": {
+      "code": "G04F10/08",
+      "level": 1,
+      "parent": "G04F10/00",
+      "ja": "ラジオアイソトープにより発生したパルスを用いるもの［２］",
+      "en": "using pulses produced by radio-isotopes",
+      "count": 14,
+      "sourceFile": "ipc_G04F.txt",
+      "kind": "ipc"
+    },
+    "G04F10/10": {
+      "code": "G04F10/10",
+      "level": 1,
+      "parent": "G04F10/00",
+      "ja": "時間に比例して変化する電気量または磁気量の測定によるもの［２］",
+      "en": "by measuring electric or magnetic quantities changing in proportion to time",
+      "count": 522,
+      "sourceFile": "ipc_G04F.txt",
+      "kind": "ipc"
+    },
+    "G04F13/00": {
+      "code": "G04F13/00",
+      "level": 0,
+      "parent": "G04F",
+      "ja": "グループＧ０４Ｆ５／００～Ｇ０４Ｆ１０／００までに分類されない手段によって未知時間間隔を測定する装置［２］",
+      "en": "Apparatus for measuring unknown time intervals by means not provided for in groups <b>G04F5/00 to G04F10/00</b> ",
+      "count": 303,
+      "sourceFile": "ipc_G04F.txt",
+      "kind": "ipc"
+    },
+    "G04F13/02": {
+      "code": "G04F13/02",
+      "level": 1,
+      "parent": "G04F13/00",
+      "ja": "光学的手段を用いるもの［２］",
+      "en": "using optical means",
+      "count": 586,
+      "sourceFile": "ipc_G04F.txt",
+      "kind": "ipc"
+    },
+    "G04F13/04": {
+      "code": "G04F13/04",
+      "level": 1,
+      "parent": "G04F13/00",
+      "ja": "電気化学的手段を用いるもの［２］",
+      "en": "using electrochemical means",
+      "count": 212,
+      "sourceFile": "ipc_G04F.txt",
+      "kind": "ipc"
+    },
+    "G04F13/06": {
+      "code": "G04F13/06",
+      "level": 1,
+      "parent": "G04F13/00",
+      "ja": "流体的手段を用いるもの［２］",
+      "en": "using fluidic means",
+      "count": 54,
+      "sourceFile": "ipc_G04F.txt",
+      "kind": "ipc"
+    }
+  }
+}

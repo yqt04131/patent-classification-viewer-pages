@@ -1,0 +1,596 @@
+window.IPC_SHARD_F27D = {
+  "generatedAt": "2026-03-20T02:17:46.934Z",
+  "total": 59,
+  "entries": {
+    "F27D": {
+      "code": "F27D",
+      "level": 0,
+      "parent": "F27",
+      "ja": "２種以上の炉に見出される種類のものである限りにおける，炉，キルン，窯またはレトルトの細部または付属品<br><br><b><ul>注</ul></b><br>クラスＦ２７のタイトルに続く注に注意すること。<br><br><b><ul>サブクラス内の索引</ul></b><br>構造上の特徴  Ｆ２７Ｄ  １／００              <br>装入物の取り扱いまたは支持  Ｆ２７Ｄ  ３／００，  Ｆ２７Ｄ  ５／００，  Ｆ２７Ｄ  １５／００              <br>装入物の予熱；冷却；廃熱または廃ガス利用  Ｆ２７Ｄ  １３／００；  Ｆ２７Ｄ  ９／００，  Ｆ２７Ｄ  １５／０２；  Ｆ２７Ｄ  １７／００              <br>電気加熱の要素の配置  Ｆ２７Ｄ  １１／００              <br>制御，  監視または安全装置の配置  Ｆ２７Ｄ  １９／００，  Ｆ２７Ｄ  ２１／００        <br>その他の特徴；他の細部  Ｆ２７Ｄ  ７／００；  Ｆ２７Ｄ  ２５／００，  Ｆ２７Ｄ  ２７／００，  Ｆ２７Ｄ  ９９／００",
+      "en": "DETAILS OR ACCESSORIES OF FURNACES, KILNS, OVENS OR RETORTS, IN SO FAR AS THEY ARE OF KINDS OCCURRING IN MORE THAN ONE KIND OF FURNACE; <br><br><b><u>Note(s)</u></b><br><br><ul><li>Attention is drawn to the Notes following the title of class <b>F27</b>.</li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">CONSTRUCTIONAL FEATURES</td><td><b><b>1/00</b></b></td></tr></tr><tr><td width=\"70%\">HANDLING OR SUPPORTING THE CHARGE</td><td><b><b>3/00</b>, <b>5/00</b>, <b>15/00</b></b></td></tr></tr><tr><td width=\"70%\">PREHEATING CHARGES; COOLING; USING WASTE HEAT OR WASTE GASES</td><td><b><b>13/00</b>; <b>9/00</b>, <b>15/02</b>; <b>17/00</b></b></td></tr></tr><tr><td width=\"70%\">ARRANGEMENT OF ELECTRIC HEATING ELEMENTS</td><td><b><b>11/00</b></b></td></tr></tr><tr><td width=\"70%\">ARRANGEMENT OF CONTROL, MONITORING OR SAFETY DEVICES</td><td><b><b>19/00</b>, <b>21/00</b></b></td></tr></tr><tr><td width=\"70%\">OTHER FEATURES; OTHER DETAILS</td><td><b><b>7/00</b>; <b>25/00</b>, <b>27/00</b>, <b>99/00</b></b></td></tr></tr></table>",
+      "count": 1051,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F27": {
+      "code": "F27",
+      "level": 0,
+      "parent": "F",
+      "ja": "炉；キルン，窯（かま）またはレトルト［４］<br><br><b><ul>注</ul></b><br>（１）このクラスは以下のものを包含する：<br>―炉，キルン，窯，レトルト，解放式焼結用装置，および材料または物品の熱処理をするための同様の装置，ならびに細部または付属物一般の配置；<br>―炉中または炉上の電熱要素の配列<br>（２）このクラスは以下のものは包含しない：<br>―燃焼装置それ自体，すなわち酸素ガスと可燃物質を直接燃焼する装置；［７］<br>―電熱要素それ自体；<br>―炉の内部で行なわれるプロセス。<br>（３）このクラスにおいては，下記の用語は以下に示す意味で用いる：<br>―“炉”はキルン，窯およびレトルトを包含する。",
+      "en": "FURNACES; KILNS, OVENS OR RETORTS; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This class <u>covers</u>:<ul><li>furnaces, kilns, ovens, retorts, open sintering apparatus and other similar apparatus for heat treatment of materials or articles, and details or accessories therefor, in general;</li><li>the arrangement of electrical heating elements in or on furnaces.</li></ul></li><li>This class <u>does not cover</u>:<ul><li>combustion apparatus <u>per se</u>, i.e. apparatus for direct combination of oxygen gas and a burnable substance;</li><li>electrical heating elements <u>per se</u>;</li><li>processes carried on within the furnaces.</li></ul></li><li>In this class, the following term is used with the meaning indicated:<ul><li>\"furnaces\" covers kilns, ovens, or retorts.</li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F": {
+      "code": "F",
+      "level": 0,
+      "parent": null,
+      "ja": "機械工学；照明；加熱；武器；爆破",
+      "en": "MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F27D1/00": {
+      "code": "F27D1/00",
+      "level": 0,
+      "parent": "F27D",
+      "ja": "外套；ライニング；壁；天井［２００６．０１］",
+      "en": "Casings; Linings; Walls; Roofs",
+      "count": 12741,
+      "sourceFile": "ipc_F27D.txt",
+      "kind": "ipc"
+    },
+    "F27D1/02": {
+      "code": "F27D1/02",
+      "level": 1,
+      "parent": "F27D1/00",
+      "ja": "炉頂；天井",
+      "en": "Crowns; Roofs",
+      "count": 2354,
+      "sourceFile": "ipc_F27D.txt",
+      "kind": "ipc"
+    },
+    "F27D1/04": {
+      "code": "F27D1/04",
+      "level": 1,
+      "parent": "F27D1/00",
+      "ja": "使用したれんがまたはブロックの形態に特徴のあるもの",
+      "en": "characterised by the form of the bricks or blocks used",
+      "count": 4526,
+      "sourceFile": "ipc_F27D.txt",
+      "kind": "ipc"
+    },
+    "F27D1/06": {
+      "code": "F27D1/06",
+      "level": 2,
+      "parent": "F27D1/04",
+      "ja": "複合したれんがまたはブロック",
+      "en": "Composite bricks or blocks",
+      "count": 1400,
+      "sourceFile": "ipc_F27D.txt",
+      "kind": "ipc"
+    },
+    "F27D1/08": {
+      "code": "F27D1/08",
+      "level": 3,
+      "parent": "F27D1/06",
+      "ja": "内部の補強材または金属の裏打ちをもつれんがまたはブロック",
+      "en": "Bricks or blocks with internal reinforcement or metal backing",
+      "count": 1085,
+      "sourceFile": "ipc_F27D.txt",
+      "kind": "ipc"
+    },
+    "F27D1/10": {
+      "code": "F27D1/10",
+      "level": 1,
+      "parent": "F27D1/00",
+      "ja": "モノリシックライニング；その支持装置",
+      "en": "Monolithic linings; Supports therefor",
+      "count": 2244,
+      "sourceFile": "ipc_F27D.txt",
+      "kind": "ipc"
+    },
+    "F27D1/12": {
+      "code": "F27D1/12",
+      "level": 1,
+      "parent": "F27D1/00",
+      "ja": "冷却装置を結合したもの［２００６．０１］",
+      "en": "incorporating cooling arrangements",
+      "count": 3122,
+      "sourceFile": "ipc_F27D.txt",
+      "kind": "ipc"
+    },
+    "F27D1/14": {
+      "code": "F27D1/14",
+      "level": 1,
+      "parent": "F27D1/00",
+      "ja": "ライニングのための支持装置（一体構造のライニングのための支持体Ｆ２７Ｄ１／１０）［２００６．０１］",
+      "en": "Supports for linings (supports for monolithic linings <b>F27D1/10</b>)",
+      "count": 2426,
+      "sourceFile": "ipc_F27D.txt",
+      "kind": "ipc"
+    },
+    "F27D1/16": {
+      "code": "F27D1/16",
+      "level": 1,
+      "parent": "F27D1/00",
+      "ja": "ライニングの施工または補修",
+      "en": "Making or repairing linings",
+      "count": 8851,
+      "sourceFile": "ipc_F27D.txt",
+      "kind": "ipc"
+    },
+    "F27D1/18": {
+      "code": "F27D1/18",
+      "level": 1,
+      "parent": "F27D1/00",
+      "ja": "炉扉（ひ）のフレーム；炉扉，ふたまたは移動可能なおおい［２００６．０１］",
+      "en": "Door frames; Doors, lids or removable covers",
+      "count": 13381,
+      "sourceFile": "ipc_F27D.txt",
+      "kind": "ipc"
+    },
+    "F27D3/00": {
+      "code": "F27D3/00",
+      "level": 0,
+      "parent": "F27D",
+      "ja": "装入；排出；装入物の取り扱い［２００６．０１］",
+      "en": "Charging; Discharging; Manipulation of charge",
+      "count": 15323,
+      "sourceFile": "ipc_F27D.txt",
+      "kind": "ipc"
+    },
+    "F27D3/02": {
+      "code": "F27D3/02",
+      "level": 1,
+      "parent": "F27D3/00",
+      "ja": "重量物のためのスキッドまたは軌道",
+      "en": "Skids or tracks for heavy objects",
+      "count": 2749,
+      "sourceFile": "ipc_F27D.txt",
+      "kind": "ipc"
+    },
+    "F27D3/04": {
+      "code": "F27D3/04",
+      "level": 1,
+      "parent": "F27D3/00",
+      "ja": "ラムまたはプッシャ装置",
+      "en": "Ram or pusher apparatus",
+      "count": 1975,
+      "sourceFile": "ipc_F27D.txt",
+      "kind": "ipc"
+    },
+    "F27D3/06": {
+      "code": "F27D3/06",
+      "level": 1,
+      "parent": "F27D3/00",
+      "ja": "移動キャリッジに取り付けた装入または排出用機械",
+      "en": "Charging or discharging machines on travelling carriages",
+      "count": 1199,
+      "sourceFile": "ipc_F27D.txt",
+      "kind": "ipc"
+    },
+    "F27D3/08": {
+      "code": "F27D3/08",
+      "level": 1,
+      "parent": "F27D3/00",
+      "ja": "スクリュ式供給機；スクリュ式排出機",
+      "en": "Screw feeders; Screw dischargers",
+      "count": 1121,
+      "sourceFile": "ipc_F27D.txt",
+      "kind": "ipc"
+    },
+    "F27D3/10": {
+      "code": "F27D3/10",
+      "level": 1,
+      "parent": "F27D3/00",
+      "ja": "ホッパまたはシュートからの直接装入",
+      "en": "Charging directly from hoppers or shoots",
+      "count": 2071,
+      "sourceFile": "ipc_F27D.txt",
+      "kind": "ipc"
+    },
+    "F27D3/12": {
+      "code": "F27D3/12",
+      "level": 1,
+      "parent": "F27D3/00",
+      "ja": "装入物のための移動するか可動の支持装置または容器",
+      "en": "Travelling or movable supports or containers for the charge",
+      "count": 9613,
+      "sourceFile": "ipc_F27D.txt",
+      "kind": "ipc"
+    },
+    "F27D3/14": {
+      "code": "F27D3/14",
+      "level": 1,
+      "parent": "F27D3/00",
+      "ja": "流体または溶融した材料の装入または排出",
+      "en": "Charging or discharging liquid or molten material",
+      "count": 3747,
+      "sourceFile": "ipc_F27D.txt",
+      "kind": "ipc"
+    },
+    "F27D3/15": {
+      "code": "F27D3/15",
+      "level": 1,
+      "parent": "F27D3/00",
+      "ja": "タッピング装置；スラグを除去するための装置",
+      "en": "Tapping equipment; Equipment for removing slag",
+      "count": 6695,
+      "sourceFile": "ipc_F27D.txt",
+      "kind": "ipc"
+    },
+    "F27D3/16": {
+      "code": "F27D3/16",
+      "level": 1,
+      "parent": "F27D3/00",
+      "ja": "装入物への流体ジェットまたは流体流れの導入（Ｆ２７Ｄ３／１８が優先）［３］",
+      "en": "Introducing a fluid jet or current into the charge(<b>F27D3/18</b> takes precedence)",
+      "count": 2748,
+      "sourceFile": "ipc_F27D.txt",
+      "kind": "ipc"
+    },
+    "F27D3/18": {
+      "code": "F27D3/18",
+      "level": 1,
+      "parent": "F27D3/00",
+      "ja": "流体キャリアを用いる粒状物質の装入［３］",
+      "en": "Charging particulate material using a fluid carrier",
+      "count": 1521,
+      "sourceFile": "ipc_F27D.txt",
+      "kind": "ipc"
+    },
+    "F27D5/00": {
+      "code": "F27D5/00",
+      "level": 0,
+      "parent": "F27D",
+      "ja": "炉内の装入物のための支持装置，隔壁，または類似のもの［２００６．０１］",
+      "en": "Supports, screens or the like for the charge within the furnace",
+      "count": 8515,
+      "sourceFile": "ipc_F27D.txt",
+      "kind": "ipc"
+    },
+    "F27D7/00": {
+      "code": "F27D7/00",
+      "level": 0,
+      "parent": "F27D",
+      "ja": "加熱室内の雰囲気の生成，維持または循環［２００６．０１］",
+      "en": "Forming, maintaining or circulating atmospheres in heating chambers",
+      "count": 1364,
+      "sourceFile": "ipc_F27D.txt",
+      "kind": "ipc"
+    },
+    "F27D7/02": {
+      "code": "F27D7/02",
+      "level": 1,
+      "parent": "F27D7/00",
+      "ja": "水蒸気，蒸気，ガスまたは液体の供給［２００６．０１］",
+      "en": "Supplying steam, vapour, gases or liquids",
+      "count": 5424,
+      "sourceFile": "ipc_F27D.txt",
+      "kind": "ipc"
+    },
+    "F27D7/04": {
+      "code": "F27D7/04",
+      "level": 1,
+      "parent": "F27D7/00",
+      "ja": "機械的な方法での雰囲気の循環",
+      "en": "Circulating atmospheres by mechanical means",
+      "count": 1905,
+      "sourceFile": "ipc_F27D.txt",
+      "kind": "ipc"
+    },
+    "F27D7/06": {
+      "code": "F27D7/06",
+      "level": 1,
+      "parent": "F27D7/00",
+      "ja": "加熱室内での特殊の雰囲気または真空の生成または維持（水蒸気，蒸気，ガスまたは液体の供給Ｆ２７Ｄ７／０２）［２００６．０１］",
+      "en": "Forming or maintaining special atmospheres or vacuum within heating chambers (supplying steam, vapour, gases or liquids <b>F27D7/02</b>)",
+      "count": 5301,
+      "sourceFile": "ipc_F27D.txt",
+      "kind": "ipc"
+    },
+    "F27D9/00": {
+      "code": "F27D9/00",
+      "level": 0,
+      "parent": "F27D",
+      "ja": "炉または炉内の装入物の冷却（冷却装置を組み込んだ外套，ライニング，壁または天井Ｆ２７Ｄ１／１２）［２００６．０１］",
+      "en": "Cooling of furnaces or of charges therein (casings, linings, walls or roofs incorporating cooling arrangements <b>F27D1/12</b>)",
+      "count": 11952,
+      "sourceFile": "ipc_F27D.txt",
+      "kind": "ipc"
+    },
+    "F27D11/00": {
+      "code": "F27D11/00",
+      "level": 0,
+      "parent": "F27D",
+      "ja": "炉内または炉に付設する電気加熱要素の配置［２００６．０１］",
+      "en": "Arrangement of elements for electric heating in or on furnaces",
+      "count": 3017,
+      "sourceFile": "ipc_F27D.txt",
+      "kind": "ipc"
+    },
+    "F27D11/02": {
+      "code": "F27D11/02",
+      "level": 1,
+      "parent": "F27D11/00",
+      "ja": "電気抵抗加熱",
+      "en": "Ohmic resistance heating",
+      "count": 6419,
+      "sourceFile": "ipc_F27D.txt",
+      "kind": "ipc"
+    },
+    "F27D11/04": {
+      "code": "F27D11/04",
+      "level": 2,
+      "parent": "F27D11/02",
+      "ja": "被加熱物中に直接の電流路をもつもの",
+      "en": "with direct passage of current through the material being heated",
+      "count": 697,
+      "sourceFile": "ipc_F27D.txt",
+      "kind": "ipc"
+    },
+    "F27D11/06": {
+      "code": "F27D11/06",
+      "level": 1,
+      "parent": "F27D11/00",
+      "ja": "誘導加熱，すなわち被加熱物，またはその容器または容器中に含まれている要素が変圧器の２次側を形成しているもの",
+      "en": "Induction heating, i.e. in which the material being heated, or its container or elements embodied therein, form the secondary of a transformer",
+      "count": 3130,
+      "sourceFile": "ipc_F27D.txt",
+      "kind": "ipc"
+    },
+    "F27D11/08": {
+      "code": "F27D11/08",
+      "level": 1,
+      "parent": "F27D11/00",
+      "ja": "電気放電，例．アーク放電，による加熱",
+      "en": "Heating by electric discharge, e.g. arc discharge",
+      "count": 2678,
+      "sourceFile": "ipc_F27D.txt",
+      "kind": "ipc"
+    },
+    "F27D11/10": {
+      "code": "F27D11/10",
+      "level": 2,
+      "parent": "F27D11/08",
+      "ja": "電極の配置［２００６．０１］",
+      "en": "Disposition of electrodes",
+      "count": 2973,
+      "sourceFile": "ipc_F27D.txt",
+      "kind": "ipc"
+    },
+    "F27D11/12": {
+      "code": "F27D11/12",
+      "level": 1,
+      "parent": "F27D11/00",
+      "ja": "被加熱物に直接作用する電磁場をもつもの",
+      "en": "with electromagnetic fields acting directly on the material being heated",
+      "count": 640,
+      "sourceFile": "ipc_F27D.txt",
+      "kind": "ipc"
+    },
+    "F27D13/00": {
+      "code": "F27D13/00",
+      "level": 0,
+      "parent": "F27D",
+      "ja": "装入物の予熱のための装置；装入物の予熱のための設備",
+      "en": "Apparatus for preheating charges; Arrangements for preheating charges",
+      "count": 7119,
+      "sourceFile": "ipc_F27D.txt",
+      "kind": "ipc"
+    },
+    "F27D15/00": {
+      "code": "F27D15/00",
+      "level": 0,
+      "parent": "F27D",
+      "ja": "排出された材料の取り扱いまたは処理；その支持装置または受け室",
+      "en": "Handling or treating discharged material; Supports or receiving chambers therefor",
+      "count": 1890,
+      "sourceFile": "ipc_F27D.txt",
+      "kind": "ipc"
+    },
+    "F27D15/02": {
+      "code": "F27D15/02",
+      "level": 1,
+      "parent": "F27D15/00",
+      "ja": "冷却",
+      "en": "Cooling",
+      "count": 10012,
+      "sourceFile": "ipc_F27D.txt",
+      "kind": "ipc"
+    },
+    "F27D17/00": {
+      "code": "F27D17/00",
+      "level": 0,
+      "parent": "F27D",
+      "ja": "廃熱利用装置；廃ガスの利用または処理装置［２０２５．０１］",
+      "en": "Arrangements for using waste heat; Arrangements for using, or disposing of, waste gases",
+      "count": 46498,
+      "sourceFile": "ipc_F27D.txt",
+      "kind": "ipc"
+    },
+    "F27D17/10": {
+      "code": "F27D17/10",
+      "level": 1,
+      "parent": "F27D17/00",
+      "ja": "廃熱利用装置［２０２５．０１］",
+      "en": "Arrangements for using waste heat",
+      "count": 1303,
+      "sourceFile": "ipc_F27D.txt",
+      "kind": "ipc"
+    },
+    "F27D17/12": {
+      "code": "F27D17/12",
+      "level": 2,
+      "parent": "F27D17/10",
+      "ja": "蓄熱を利用するもの［２０２５．０１］",
+      "en": "using heat storage",
+      "count": 81,
+      "sourceFile": "ipc_F27D.txt",
+      "kind": "ipc"
+    },
+    "F27D17/13": {
+      "code": "F27D17/13",
+      "level": 3,
+      "parent": "F27D17/12",
+      "ja": "再生熱交換器を利用するもの［２０２５．０１］",
+      "en": "using regenerative heat exchangers",
+      "count": 12,
+      "sourceFile": "ipc_F27D.txt",
+      "kind": "ipc"
+    },
+    "F27D17/15": {
+      "code": "F27D17/15",
+      "level": 2,
+      "parent": "F27D17/10",
+      "ja": "ボイラーを利用するもの［２０２５．０１］",
+      "en": "using boilers",
+      "count": 226,
+      "sourceFile": "ipc_F27D.txt",
+      "kind": "ipc"
+    },
+    "F27D17/17": {
+      "code": "F27D17/17",
+      "level": 2,
+      "parent": "F27D17/10",
+      "ja": "流体，例．空気または気体，を予熱するためのもの［２０２５．０１］",
+      "en": "for preheating fluids, e.g. air or gases",
+      "count": 510,
+      "sourceFile": "ipc_F27D.txt",
+      "kind": "ipc"
+    },
+    "F27D17/18": {
+      "code": "F27D17/18",
+      "level": 2,
+      "parent": "F27D17/10",
+      "ja": "固体を予熱するためのもの［２０２５．０１］",
+      "en": "for preheating solid materials",
+      "count": 321,
+      "sourceFile": "ipc_F27D.txt",
+      "kind": "ipc"
+    },
+    "F27D17/20": {
+      "code": "F27D17/20",
+      "level": 1,
+      "parent": "F27D17/00",
+      "ja": "廃ガス処理装置または廃ガス浄化装置［２０２５．０１］",
+      "en": "Arrangements for treatment or cleaning of waste gases",
+      "count": 803,
+      "sourceFile": "ipc_F27D.txt",
+      "kind": "ipc"
+    },
+    "F27D17/22": {
+      "code": "F27D17/22",
+      "level": 2,
+      "parent": "F27D17/20",
+      "ja": "固体成分を取り除くためのもの［２０２５．０１］",
+      "en": "for removing solid constituents",
+      "count": 1317,
+      "sourceFile": "ipc_F27D.txt",
+      "kind": "ipc"
+    },
+    "F27D17/25": {
+      "code": "F27D17/25",
+      "level": 3,
+      "parent": "F27D17/22",
+      "ja": "サイクロンを用いるもの［２０２５．０１］",
+      "en": "using cyclones",
+      "count": 101,
+      "sourceFile": "ipc_F27D.txt",
+      "kind": "ipc"
+    },
+    "F27D17/28": {
+      "code": "F27D17/28",
+      "level": 2,
+      "parent": "F27D17/20",
+      "ja": "廃ガスを冷却するためのもの［２０２５．０１］",
+      "en": "for cooling waste gases",
+      "count": 345,
+      "sourceFile": "ipc_F27D.txt",
+      "kind": "ipc"
+    },
+    "F27D17/30": {
+      "code": "F27D17/30",
+      "level": 1,
+      "parent": "F27D17/00",
+      "ja": "廃ガス抽出装置または廃ガス回収装置；それらのフード［２０２５．０１］",
+      "en": "Arrangements for extraction or collection of waste gases; Hoods therefor",
+      "count": 863,
+      "sourceFile": "ipc_F27D.txt",
+      "kind": "ipc"
+    },
+    "F27D19/00": {
+      "code": "F27D19/00",
+      "level": 0,
+      "parent": "F27D",
+      "ja": "制御装置の配置",
+      "en": "Arrangement of controlling devices",
+      "count": 15257,
+      "sourceFile": "ipc_F27D.txt",
+      "kind": "ipc"
+    },
+    "F27D21/00": {
+      "code": "F27D21/00",
+      "level": 0,
+      "parent": "F27D",
+      "ja": "監視装置の配置；安全装置の配置［２００６．０１］",
+      "en": "Arrangement of monitoring devices; Arrangement of safety devices",
+      "count": 9290,
+      "sourceFile": "ipc_F27D.txt",
+      "kind": "ipc"
+    },
+    "F27D21/02": {
+      "code": "F27D21/02",
+      "level": 1,
+      "parent": "F27D21/00",
+      "ja": "観察または照明装置",
+      "en": "Observation or illuminating devices",
+      "count": 2366,
+      "sourceFile": "ipc_F27D.txt",
+      "kind": "ipc"
+    },
+    "F27D21/04": {
+      "code": "F27D21/04",
+      "level": 1,
+      "parent": "F27D21/00",
+      "ja": "指示器または警報器の配置［２００６．０１］",
+      "en": "Arrangement of indicators or alarms",
+      "count": 1739,
+      "sourceFile": "ipc_F27D.txt",
+      "kind": "ipc"
+    },
+    "F27D25/00": {
+      "code": "F27D25/00",
+      "level": 0,
+      "parent": "F27D",
+      "ja": "インクラステーションの除去装置［２０１０．０１］",
+      "en": "Devices for removing incrustations",
+      "count": 6775,
+      "sourceFile": "ipc_F27D.txt",
+      "kind": "ipc"
+    },
+    "F27D27/00": {
+      "code": "F27D27/00",
+      "level": 0,
+      "parent": "F27D",
+      "ja": "溶融物のためのかき混ぜ装置（液体または溶融物を装入または排出するものＦ２７Ｄ３／１４）［２０１０．０１］",
+      "en": "Stirring devices for molten material (charging or discharging liquid or molten material <b>F27D3/14</b>)",
+      "count": 4205,
+      "sourceFile": "ipc_F27D.txt",
+      "kind": "ipc"
+    },
+    "F27D99/00": {
+      "code": "F27D99/00",
+      "level": 0,
+      "parent": "F27D",
+      "ja": "このサブクラスの他のグループに分類されない主題事項［２０１０．０１］",
+      "en": "Subject matter not provided for in other groups of this subclass",
+      "count": 7281,
+      "sourceFile": "ipc_F27D.txt",
+      "kind": "ipc"
+    }
+  }
+};

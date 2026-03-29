@@ -1,0 +1,876 @@
+window.IPC_SHARD_A23C = {
+  "generatedAt": "2026-03-20T02:17:45.876Z",
+  "total": 87,
+  "entries": {
+    "A23C": {
+      "code": "A23C",
+      "level": 0,
+      "parent": "A23",
+      "ja": "乳製品，例．乳，バターまたはチーズ；乳またはチーズ代用品；それらの調製（それらの保存Ａ２３Ｂ１１／００）<br><br><b><ul>注</ul></b><br>注［３］<br>このサブクラスは以下を包含する：<br>・乳製品製造の化学的な面；<br>・このサブクラスに分類されている技術を遂行するために使用される装置，例．濃縮のためのもの，蒸発のためのものまたは乾燥のためのもの，その様な装置が特に他のサブクラスに分類されている場合，例．バターまたはチーズ製造のための乳またはクリームの処理に対するＡ０１Ｊ，を除く。<br><br><b><ul>サブクラス内の索引</ul></b><br>乳業技術　１／００～７／００<br>乳調製品；乳代用品；クリーム；バター　９／００；１１／００；１３／００；１５／００<br>チーズ；チーズ代用品　１９／００；２０／００<br>バターミルク；ホエー；その他の乳製品　１７／００；２１／００；２３／００",
+      "en": "DAIRY PRODUCTS, e.g. MILK, BUTTER OR CHEESE; MILK OR CHEESE SUBSTITUTES; PREPARATION THEREOF (preservation thereof <b>A23B11/00</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>This subclass <u>covers</u>:<ul><li>the chemical aspects of making dairy products;</li><li>the apparatus used for performing techniques provided for therein, e.g. for concentration, evaporation or drying, unless such apparatus is specifically provided for in another subclass, e.g. in subclass <b>A01J</b> for treatment of milk or cream for manufacture of butter or cheese.</li></ul></li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">DAIRY TECHNOLOGY </td><td><b><b>1/00 to 7/00</b> </b></td></tr></tr><tr><td width=\"70%\">MILK PREPARATIONS; MILK SUBSTITUTES; CREAM; BUTTER </td><td><b><b>9/00</b>; <b>11/00</b>; <b>13/00</b>; <b>15/00</b></b></td></tr></tr><tr><td width=\"70%\">CHEESE; CHEESE SUBSTITUTES </td><td><b><b>19/00</b>; <b>20/00</b></b></td></tr></tr><tr><td width=\"70%\">BUTTERMILK; WHEY; OTHER DAIRY PRODUCTS </td><td><b><b>17/00</b>; <b>21/00</b>; <b>23/00</b></b></td></tr></tr></table>",
+      "count": 1251,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A23": {
+      "code": "A23",
+      "level": 0,
+      "parent": "A",
+      "ja": "食品，食料品または非アルコール飲料；それらの調製，処理または保存<br><br><b><ul>注</ul></b><br>下記の箇所に注意すること：<br>Ｃ０８Ｂ　　多糖類，その誘導体<br>Ｃ１１　動物性または植物性油，脂肪，脂肪性物質またはろう<br>Ｃ１２　生化学，ビール，酒精，ぶどう酒，酢<br>Ｃ１３　糖工業［４］",
+      "en": "FOODS, FOODSTUFFS OR NON-ALCOHOLIC BEVERAGES; PREPARATION, TREATMENT OR PRESERVATION THEREOF; <br><br><b><u>Note(s)</u></b><br><br><ul><li>Attention is drawn to the following places:<ul><li>Polysaccharides, derivatives thereof</li><li>Animal or vegetable oils, fats, fatty substances or waxes</li><li>Biochemistry, beer, spirits, wine, vinegar</li><li>Sugar industry.  </li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A": {
+      "code": "A",
+      "level": 0,
+      "parent": null,
+      "ja": "生活必需品",
+      "en": "HUMAN NECESSITIES",
+      "count": 0,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A23C1/00": {
+      "code": "A23C1/00",
+      "level": 0,
+      "parent": "A23C",
+      "ja": "濃縮，蒸発または乾燥（それによって得られる製品Ａ２３Ｃ９／００）［２００６．０１］",
+      "en": "Concentration, evaporation or drying(products obtained thereby <b>A23C9/00</b>)",
+      "count": 610,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C1/01": {
+      "code": "A23C1/01",
+      "level": 1,
+      "parent": "A23C1/00",
+      "ja": "薄膜法による乾燥［３］",
+      "en": "Drying in thin layers",
+      "count": 77,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C1/03": {
+      "code": "A23C1/03",
+      "level": 2,
+      "parent": "A23C1/01",
+      "ja": "ドラムまたはローラー上でのもの［３］",
+      "en": "on drums or rollers",
+      "count": 152,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C1/04": {
+      "code": "A23C1/04",
+      "level": 1,
+      "parent": "A23C1/00",
+      "ja": "ガス流中への噴霧によるもの",
+      "en": "by spraying into a gas stream",
+      "count": 705,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C1/05": {
+      "code": "A23C1/05",
+      "level": 2,
+      "parent": "A23C1/04",
+      "ja": "集塊化と組み合されたもの［３］",
+      "en": "combined with agglomeration",
+      "count": 76,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C1/06": {
+      "code": "A23C1/06",
+      "level": 1,
+      "parent": "A23C1/00",
+      "ja": "水分を凍結させて分離することによる濃縮",
+      "en": "Concentration by freezing out the water",
+      "count": 140,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C1/08": {
+      "code": "A23C1/08",
+      "level": 2,
+      "parent": "A23C1/06",
+      "ja": "凍結乾燥［３］",
+      "en": "Freeze drying",
+      "count": 280,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C1/10": {
+      "code": "A23C1/10",
+      "level": 1,
+      "parent": "A23C1/00",
+      "ja": "泡沫乾燥（Ａ２３Ｃ１／０４，Ａ２３Ｃ１／０８が優先）［３］",
+      "en": "Foam drying(<b>A23C1/04</b>, <b>A23C1/08</b> take precedence)",
+      "count": 34,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C1/12": {
+      "code": "A23C1/12",
+      "level": 1,
+      "parent": "A23C1/00",
+      "ja": "蒸発による濃縮［３］",
+      "en": "Concentration by evaporation",
+      "count": 610,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C1/14": {
+      "code": "A23C1/14",
+      "level": 1,
+      "parent": "A23C1/00",
+      "ja": "他の処理と組み合わされたもの［３］",
+      "en": "combined with other treatment",
+      "count": 195,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C1/16": {
+      "code": "A23C1/16",
+      "level": 2,
+      "parent": "A23C1/14",
+      "ja": "添加物を使用するもの［３］",
+      "en": "using additives",
+      "count": 174,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C7/00": {
+      "code": "A23C7/00",
+      "level": 0,
+      "parent": "A23C",
+      "ja": "他の乳業技術（乳または乳製品の保存Ａ２３Ｂ１１／００）［２０２５．０１］",
+      "en": "Other dairy technology(preservation of milk or dairy products <b>A23B11/00</b>)",
+      "count": 792,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C7/02": {
+      "code": "A23C7/02",
+      "level": 1,
+      "parent": "A23C7/00",
+      "ja": "乳業装置の化学的な清掃；そのための殺菌方法の使用［２００６．０１］",
+      "en": "Chemical cleaning of dairy apparatus; Use of sterilisation methods therefor",
+      "count": 264,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C7/04": {
+      "code": "A23C7/04",
+      "level": 1,
+      "parent": "A23C7/00",
+      "ja": "乳からの不要物質の除去［２００６．０１］",
+      "en": "Removing unwanted substances from milk",
+      "count": 1653,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C9/00": {
+      "code": "A23C9/00",
+      "level": 0,
+      "parent": "A23C",
+      "ja": "乳調製品；粉乳または粉乳調製品（ホエーと乳製品または乳成分の混合物Ａ２３Ｃ２１／０６；乳または乳調製品の保存Ａ２３Ｂ１１／１０）［２００６．０１］",
+      "en": "Milk preparations; Milk powder or milk powder preparations (mixtures of whey with milk products or milk components <b>A23C21/06</b>;  preservation of milk or milk preparations <b>A23B11/10</b>)",
+      "count": 2392,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C9/12": {
+      "code": "A23C9/12",
+      "level": 1,
+      "parent": "A23C9/00",
+      "ja": "発酵乳調製品；微生物または酵素を使用する処理［２００６．０１］",
+      "en": "Fermented milk preparations; Treatment using microorganisms or enzymes",
+      "count": 6153,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C9/123": {
+      "code": "A23C9/123",
+      "level": 2,
+      "parent": "A23C9/12",
+      "ja": "乳酸菌のみを使用するもの；ヨーグルト（Ａ２３Ｃ９／１３が優先）［３］",
+      "en": "using only microorganisms of the genus lactobacteriaceae; Yoghurt(<b>A23C9/13</b> takes precedence)",
+      "count": 5566,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C9/127": {
+      "code": "A23C9/127",
+      "level": 2,
+      "parent": "A23C9/12",
+      "ja": "乳酸菌と他の微生物または酵素を併用するもの，例．ケフィア，クミス（Ａ２３Ｃ９／１３が優先）［３］",
+      "en": "using microorganisms of the genus lactobacteriaceae and other microorganisms or enzymes, e.g. kefir, koumiss(<b>A23C9/13</b> takes precedence)",
+      "count": 1770,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C9/13": {
+      "code": "A23C9/13",
+      "level": 2,
+      "parent": "A23C9/12",
+      "ja": "添加物を使用するもの［３］",
+      "en": "using additives",
+      "count": 8990,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C9/133": {
+      "code": "A23C9/133",
+      "level": 3,
+      "parent": "A23C9/13",
+      "ja": "果実または野菜［３］",
+      "en": "Fruit or vegetables",
+      "count": 2528,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C9/137": {
+      "code": "A23C9/137",
+      "level": 3,
+      "parent": "A23C9/13",
+      "ja": "濃化物質［３］",
+      "en": "Thickening substances",
+      "count": 1061,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C9/14": {
+      "code": "A23C9/14",
+      "level": 1,
+      "parent": "A23C9/00",
+      "ja": "乳の化学的組成が非化学的処理により変えられるもの［３］<br><br><b><ul>注</ul></b><br>このグループに分類するとき，クロマトグラフィーに関する一般分野の主題事項が関係している限り，グループＢ０１Ｄ１５／０８にも分類する。［８］",
+      "en": "in which the chemical composition of the milk is modified by non-chemical treatment",
+      "count": 501,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C9/142": {
+      "code": "A23C9/142",
+      "level": 2,
+      "parent": "A23C9/14",
+      "ja": "透析によるもの，逆浸透によるものまたは限外ろ過によるもの（Ａ２３Ｃ９／１４４が優先）［３］",
+      "en": "by dialysis, reverse osmosis or ultrafiltration(<b>A23C9/144</b> takes precedence)",
+      "count": 1213,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C9/144": {
+      "code": "A23C9/144",
+      "level": 2,
+      "parent": "A23C9/14",
+      "ja": "電気的手段，例．電気透析，によるもの［３］",
+      "en": "by electrical means, e.g. electrodialysis",
+      "count": 246,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C9/146": {
+      "code": "A23C9/146",
+      "level": 2,
+      "parent": "A23C9/14",
+      "ja": "イオン交換によるもの［３］",
+      "en": "by ion-exchange",
+      "count": 404,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C9/148": {
+      "code": "A23C9/148",
+      "level": 2,
+      "parent": "A23C9/14",
+      "ja": "分子ふるいまたはゲルろ過によるもの［３］",
+      "en": "by molecular sieve or gel filtration",
+      "count": 57,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C9/15": {
+      "code": "A23C9/15",
+      "level": 1,
+      "parent": "A23C9/00",
+      "ja": "非乳脂肪または非乳蛋白質のいずれも含有しない再構成または再結合された乳製品［２００６．０１］",
+      "en": "Reconstituted or recombined milk products containing neither non-milk fat nor non-milk proteins",
+      "count": 1224,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C9/152": {
+      "code": "A23C9/152",
+      "level": 1,
+      "parent": "A23C9/00",
+      "ja": "添加物を含有するもの（添加物を含有する発酵乳調製品Ａ２３Ｃ９／１３）［３］",
+      "en": "containing additives(fermented milk preparations containing additives <b>A23C9/13</b>)",
+      "count": 9617,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C9/154": {
+      "code": "A23C9/154",
+      "level": 2,
+      "parent": "A23C9/152",
+      "ja": "濃化物質，卵または穀類調製品を含有するもの；ミルクゲル［３］",
+      "en": "containing thickening substances, eggs or cereal preparations; Milk gels",
+      "count": 2498,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C9/156": {
+      "code": "A23C9/156",
+      "level": 2,
+      "parent": "A23C9/152",
+      "ja": "風味づけされた乳調製品［２００６．０１］",
+      "en": "Flavoured milk preparations",
+      "count": 4535,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C9/158": {
+      "code": "A23C9/158",
+      "level": 2,
+      "parent": "A23C9/152",
+      "ja": "ビタミンまたは抗生物質を含有するもの［３］",
+      "en": "containing vitamins or antibiotics",
+      "count": 1478,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C9/16": {
+      "code": "A23C9/16",
+      "level": 1,
+      "parent": "A23C9/00",
+      "ja": "粉乳の集塊化または粒化；インスタント粉乳の製造；それによって得られた製品（Ａ２３Ｃ９／１８が優先）［２００６．０１］",
+      "en": "Agglomerating or granulating milk powder; Making instant milk powder; Products obtained thereby(<b>A23C9/18</b> takes precedence)",
+      "count": 3100,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C9/18": {
+      "code": "A23C9/18",
+      "level": 1,
+      "parent": "A23C9/00",
+      "ja": "乾燥および圧縮されたかあるいは半固体状の乳［３］",
+      "en": "Milk in dried and compressed or semi-solid form",
+      "count": 1306,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C9/20": {
+      "code": "A23C9/20",
+      "level": 1,
+      "parent": "A23C9/00",
+      "ja": "Ａ２３Ｃ９／１２～Ａ２３Ｃ９／１８までのグループに包含されないダイエット乳製品［３］",
+      "en": "Dietetic milk products not covered by groups <b>A23C9/12 to A23C9/18</b> ",
+      "count": 1372,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C11/00": {
+      "code": "A23C11/00",
+      "level": 0,
+      "parent": "A23C",
+      "ja": "乳代用品，例．コーヒーホワイト（チーズ代用品Ａ２３Ｃ２０／００；乳代用品の保存Ａ２３Ｂ１１／２０；バター代用品Ａ２３Ｄ）［２０２５．０１］",
+      "en": "Milk substitutes, e.g. coffee whitener compositions (cheese substitutes <b>A23C20/00</b>;  preservation of milk substitutes <b>A23B11/20</b>;  butter substitutes <b>A23D</b>)",
+      "count": 1128,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C11/02": {
+      "code": "A23C11/02",
+      "level": 1,
+      "parent": "A23C11/00",
+      "ja": "脂肪または蛋白質源として少なくとも一つの非乳成分を含有するもの（チーズカードの製造における非乳脂肪または非乳蛋白質の添加Ａ２３Ｃ１９／０５５；脂肪または蛋白質源として非乳成分を含有するホエーまたはホエー調製品Ａ２３Ｃ２１／０４）［２０２５．０１］",
+      "en": "containing at least one non-milk component as source of fats or proteins(addition of non-milk fats or non-milk proteins in making cheese curd <b>A23C19/055</b>; whey or whey preparations containing non-milk components as source of fats or proteins <b>A23C21/04</b>)",
+      "count": 591,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C11/04": {
+      "code": "A23C11/04",
+      "level": 2,
+      "parent": "A23C11/02",
+      "ja": "非乳脂肪を含有するが非乳蛋白質を含有しないもの（Ａ２３Ｃ１１／０８，Ａ２３Ｃ１１／１０が優先）［２０２５．０１］",
+      "en": "containing non-milk fats but no non-milk proteins(<b>A23C11/08</b>, <b>A23C11/10</b> take precedence)",
+      "count": 747,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C11/06": {
+      "code": "A23C11/06",
+      "level": 2,
+      "parent": "A23C11/02",
+      "ja": "非乳蛋白質を含有するもの（Ａ２３Ｃ１１／０８，Ａ２３Ｃ１１／１０が優先）［２０２５．０１］",
+      "en": "containing non-milk proteins(<b>A23C11/08</b>, <b>A23C11/10</b> take precedence)",
+      "count": 952,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C11/08": {
+      "code": "A23C11/08",
+      "level": 2,
+      "parent": "A23C11/02",
+      "ja": "カゼイン化合物を含有するが他の乳蛋白質あるいは乳脂肪のいずれも含有しないもの［２０２５．０１］",
+      "en": "containing caseinates but no other milk proteins nor milk fats",
+      "count": 200,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C11/10": {
+      "code": "A23C11/10",
+      "level": 2,
+      "parent": "A23C11/02",
+      "ja": "ラクトースを含有するかあるいはしないが，脂肪，炭水化物または蛋白質源としての他のいかなる乳成分も含有しないもの［２０２５．０１］",
+      "en": "containing or not lactose but no other milk components as source of fats, carbohydrates or proteins",
+      "count": 4236,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C13/00": {
+      "code": "A23C13/00",
+      "level": 0,
+      "parent": "A23C",
+      "ja": "クリーム；クリーム調製品（クリームまたはクリーム調製品の保存Ａ２３Ｂ１１／３０；アイスクリームＡ２３Ｇ９／００）；その製造［２００６．０１］",
+      "en": "Cream; Cream preparations(preservation of cream or cream preparations <b>A23B11/30</b>; ice-cream <b>A23G9/00</b>);Making thereof",
+      "count": 662,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C13/12": {
+      "code": "A23C13/12",
+      "level": 1,
+      "parent": "A23C13/00",
+      "ja": "クリーム調製品",
+      "en": "Cream preparations",
+      "count": 1320,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C13/14": {
+      "code": "A23C13/14",
+      "level": 2,
+      "parent": "A23C13/12",
+      "ja": "乳製品または乳成分を含有するもの［３］",
+      "en": "containing milk products or milk components",
+      "count": 861,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C13/16": {
+      "code": "A23C13/16",
+      "level": 2,
+      "parent": "A23C13/12",
+      "ja": "微生物，酵素または抗生物質を含有するもの，あるいはこれらで処理されたもの；サワークリーム［３］",
+      "en": "containing, or treated with, microorganisms, enzymes, or antibiotics; Sour cream",
+      "count": 619,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C15/00": {
+      "code": "A23C15/00",
+      "level": 0,
+      "parent": "A23C",
+      "ja": "バター；バター調製品；その製造（バターまたはバター調製品の保存Ａ２３Ｂ１１／４０；バター代用品Ａ２３Ｄ）［２００６．０１］",
+      "en": "Butter; Butter preparations; Making thereof(preservation of butter or butter preparations <b>A23B11/40</b>; butter substitutes <b>A23D</b>)",
+      "count": 420,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C15/02": {
+      "code": "A23C15/02",
+      "level": 1,
+      "parent": "A23C15/00",
+      "ja": "その製造",
+      "en": "Making thereof",
+      "count": 495,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C15/04": {
+      "code": "A23C15/04",
+      "level": 2,
+      "parent": "A23C15/02",
+      "ja": "バターオイルまたは無水バターからのもの［３］",
+      "en": "from butter oil or anhydrous butter",
+      "count": 99,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C15/06": {
+      "code": "A23C15/06",
+      "level": 2,
+      "parent": "A23C15/02",
+      "ja": "相転換以前のクリームの処理［３］",
+      "en": "Treating cream prior to phase inversion",
+      "count": 181,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C15/12": {
+      "code": "A23C15/12",
+      "level": 1,
+      "parent": "A23C15/00",
+      "ja": "バターの調製品",
+      "en": "Butter preparations",
+      "count": 637,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C15/14": {
+      "code": "A23C15/14",
+      "level": 2,
+      "parent": "A23C15/12",
+      "ja": "粉末バター；バターオイル，すなわち溶融バター，例．ギイー［３］",
+      "en": "Butter powder; Butter oil, i.e. melted butter, e.g. ghee",
+      "count": 320,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C15/16": {
+      "code": "A23C15/16",
+      "level": 2,
+      "parent": "A23C15/12",
+      "ja": "脂肪含量を減らしたバター［３］",
+      "en": "Butter having reduced fat content",
+      "count": 313,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C17/00": {
+      "code": "A23C17/00",
+      "level": 0,
+      "parent": "A23C",
+      "ja": "バターミルク；バターミルク調製品（乳の化学組成が非化学的処理により変えられる乳調製品，粉乳または粉乳調製品Ａ２３Ｃ９／１４；バターミルクまたはバターミルク調製品の保存Ａ２３Ｂ１１／５０）［２０２５．０１］",
+      "en": "Buttermilk; Buttermilk preparations(milk preparations, milk powder or milk powder preparations in which the chemical composition of the milk is modified by non-chemical treatment <b>A23C9/14</b>;  preservation of buttermilk or buttermilk preparations <b>A23B11/50</b>)",
+      "count": 270,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C17/02": {
+      "code": "A23C17/02",
+      "level": 1,
+      "parent": "A23C17/00",
+      "ja": "微生物または酵素を含有するもの，あるいはこれらで処理されたもの［２０２５．０１］",
+      "en": "containing, or treated with, microorganisms or enzymes",
+      "count": 144,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C19/00": {
+      "code": "A23C19/00",
+      "level": 0,
+      "parent": "A23C",
+      "ja": "チーズ；チーズ調製品；その製造（チーズ代用品Ａ２３Ｃ２０／００；チーズまたはチーズ調製品の保存Ａ２３Ｂ１１／６０）［２００６．０１］",
+      "en": "Cheese; Cheese preparations; Making thereof (cheese substitutes <b>A23C20/00</b>;  preservation of cheese or cheese preparations <b>A23B11/60</b>)",
+      "count": 1902,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C19/02": {
+      "code": "A23C19/02",
+      "level": 1,
+      "parent": "A23C19/00",
+      "ja": "チーズカードの製造［３］",
+      "en": "Making cheese curd",
+      "count": 795,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C19/024": {
+      "code": "A23C19/024",
+      "level": 2,
+      "parent": "A23C19/02",
+      "ja": "連続処理を使用するもの［３］",
+      "en": "using continuous procedure",
+      "count": 190,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C19/028": {
+      "code": "A23C19/028",
+      "level": 2,
+      "parent": "A23C19/02",
+      "ja": "凝固乳からの実質的なホエー分離を行なわないもの［３］",
+      "en": "without substantial whey separation from coagulated milk",
+      "count": 326,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C19/032": {
+      "code": "A23C19/032",
+      "level": 2,
+      "parent": "A23C19/02",
+      "ja": "特定の微生物，または微生物起源の酵素の使用によって特徴づけられたもの［３］",
+      "en": "characterised by the use of specific microorganisms, or enzymes of microbial origin",
+      "count": 1561,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C19/04": {
+      "code": "A23C19/04",
+      "level": 2,
+      "parent": "A23C19/02",
+      "ja": "植物または動物起源の特定酵素の使用によって特徴づけられたもの（Ａ２３Ｃ１９／０３２が優先）［３］",
+      "en": "characterised by the use of specific enzymes of vegetable or animal origin(<b>A23C19/032</b> takes precedence)",
+      "count": 257,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C19/045": {
+      "code": "A23C19/045",
+      "level": 2,
+      "parent": "A23C19/02",
+      "ja": "レンネットまたはレンネット代用品を使用しない乳の凝固［３］",
+      "en": "Coagulation of milk without rennet or rennet substitutes",
+      "count": 189,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C19/05": {
+      "code": "A23C19/05",
+      "level": 2,
+      "parent": "A23C19/02",
+      "ja": "凝固前の乳の処理；カードからのホエー分離［２００６．０１］",
+      "en": "Treating milk before coagulation; Separating whey from curd",
+      "count": 1142,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C19/055": {
+      "code": "A23C19/055",
+      "level": 2,
+      "parent": "A23C19/02",
+      "ja": "非乳脂肪または非乳蛋白質の添加［３］",
+      "en": "Addition of non-milk fats or non-milk proteins",
+      "count": 251,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C19/06": {
+      "code": "A23C19/06",
+      "level": 1,
+      "parent": "A23C19/00",
+      "ja": "ホエー分離後のチーズカードの処理；それにより得られた製品［２００６．０１］",
+      "en": "Treating cheese curd after whey separation; Products obtained thereby",
+      "count": 903,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C19/064": {
+      "code": "A23C19/064",
+      "level": 2,
+      "parent": "A23C19/06",
+      "ja": "加塩［３］",
+      "en": "Salting",
+      "count": 312,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C19/068": {
+      "code": "A23C19/068",
+      "level": 2,
+      "parent": "A23C19/06",
+      "ja": "チーズの特定のタイプ［３］",
+      "en": "Particular types of cheese",
+      "count": 1272,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C19/072": {
+      "code": "A23C19/072",
+      "level": 3,
+      "parent": "A23C19/068",
+      "ja": "チェダータイプ［３］",
+      "en": "Cheddar type",
+      "count": 213,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C19/076": {
+      "code": "A23C19/076",
+      "level": 3,
+      "parent": "A23C19/068",
+      "ja": "軟質の未熟成チーズ，例．カテージまたはクリームチーズ［３］",
+      "en": "Soft unripened cheese, e.g. cottage or cream cheese",
+      "count": 1211,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C19/08": {
+      "code": "A23C19/08",
+      "level": 3,
+      "parent": "A23C19/068",
+      "ja": "プロセスチーズ調製品；その製造，例．融解，乳化，殺菌［３］",
+      "en": "Process cheese preparations; Making thereof, e.g. melting, emulsifying, sterilizing",
+      "count": 905,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C19/082": {
+      "code": "A23C19/082",
+      "level": 4,
+      "parent": "A23C19/08",
+      "ja": "融解中またはそれ以前のカードへの物質の添加；融解塩［３］",
+      "en": "Adding substances to the curd before or during melting; Melting salts",
+      "count": 818,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C19/084": {
+      "code": "A23C19/084",
+      "level": 4,
+      "parent": "A23C19/08",
+      "ja": "融解後のカードの処理またはそれに物質を添加するもの（非乳成分を添加するものＡ２３Ｃ１９／０９３）［３］",
+      "en": "Treating the curd, or adding substances thereto, after melting(adding non-milk components <b>A23C19/093</b>)",
+      "count": 290,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C19/086": {
+      "code": "A23C19/086",
+      "level": 2,
+      "parent": "A23C19/06",
+      "ja": "粉末チーズ；乾燥されたチーズ調製品［３］",
+      "en": "Cheese powder; Dried cheese preparations",
+      "count": 475,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C19/09": {
+      "code": "A23C19/09",
+      "level": 2,
+      "parent": "A23C19/06",
+      "ja": "他のチーズ調製品；他の食品とチーズとの混合物［２００６．０１］",
+      "en": "Other cheese preparations; Mixtures of cheese with other foodstuffs",
+      "count": 2659,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C19/093": {
+      "code": "A23C19/093",
+      "level": 3,
+      "parent": "A23C19/09",
+      "ja": "非乳脂肪または非乳蛋白質の添加［３］",
+      "en": "Addition of non-milk fats or non-milk proteins",
+      "count": 588,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C19/14": {
+      "code": "A23C19/14",
+      "level": 1,
+      "parent": "A23C19/00",
+      "ja": "所定の形状を形成させた後のチーズの処理，例．熟成または燻煙［２００６．０１］",
+      "en": "Treating cheese after having reached its definite form, e.g. ripening or smoking",
+      "count": 554,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C19/16": {
+      "code": "A23C19/16",
+      "level": 2,
+      "parent": "A23C19/14",
+      "ja": "チーズ表面の被覆，例．ワックス被覆組成物によるもの［２００６．０１］",
+      "en": "Covering the cheese surface, e.g. with wax coating compositions",
+      "count": 636,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C20/00": {
+      "code": "A23C20/00",
+      "level": 0,
+      "parent": "A23C",
+      "ja": "チーズ代用品（Ａ２３Ｃ１９／０５５，Ａ２３Ｃ１９／０９３が優先；チーズ代用品の保存Ａ２３Ｂ１１／７０）［２０２５．０１］",
+      "en": "Cheese substitutes (<b>A23C19/055</b>, <b>A23C19/093</b> take precedence;  preservation of cheese substitutes <b>A23B11/70</b>)",
+      "count": 806,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C20/02": {
+      "code": "A23C20/02",
+      "level": 1,
+      "parent": "A23C20/00",
+      "ja": "脂肪，蛋白質または炭水化物源としての乳成分，カゼイン化合物あるいはラクトースのいずれも含有しないもの［２０２５．０１］",
+      "en": "containing neither milk components, nor caseinate, nor lactose, as sources of fats, proteins or carbohydrates",
+      "count": 1681,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C21/00": {
+      "code": "A23C21/00",
+      "level": 0,
+      "parent": "A23C",
+      "ja": "ホエー；ホエー調製品（濃縮，蒸発または乾燥Ａ２３Ｃ１／００；乳の化学組成が非化学的処理により変えられる乳調製品，粉乳または粉乳調製品Ａ２３Ｃ９／１４；ホエーまたはホエー調製品の保存Ａ２３Ｂ１１／８０）［２０２５．０１］",
+      "en": "Whey; Whey preparations (concentration, evaporation or drying <b>A23C1/00</b>;  milk preparations, milk powder or milk powder preparations in which the chemical composition of the milk is modified by non-chemical treatment <b>A23C9/14</b>;  preservation of whey or whey preparations <b>A23B11/80</b>)",
+      "count": 1421,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C21/02": {
+      "code": "A23C21/02",
+      "level": 1,
+      "parent": "A23C21/00",
+      "ja": "微生物または酵素を含有するもの，あるいはこれらで処理されたもの［２０２５．０１］",
+      "en": "containing, or treated with, microorganisms or enzymes",
+      "count": 1034,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C21/04": {
+      "code": "A23C21/04",
+      "level": 1,
+      "parent": "A23C21/00",
+      "ja": "脂肪または蛋白質源としての非乳成分を含有するもの［２０２５．０１］",
+      "en": "containing non-milk components as source of fats or proteins",
+      "count": 465,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C21/06": {
+      "code": "A23C21/06",
+      "level": 1,
+      "parent": "A23C21/00",
+      "ja": "ホエーと乳製品または乳成分の混合物［２０２５．０１］",
+      "en": "Mixtures of whey with milk products or milk components",
+      "count": 822,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C21/08": {
+      "code": "A23C21/08",
+      "level": 1,
+      "parent": "A23C21/00",
+      "ja": "他の有機質の添加物，例．植物または動物製品，を含有するもの［２０２５．０１］",
+      "en": "containing other organic additives, e.g. vegetable or animal products",
+      "count": 1082,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C21/10": {
+      "code": "A23C21/10",
+      "level": 1,
+      "parent": "A23C21/00",
+      "ja": "無機質の添加物を含有するもの［２０２５．０１］",
+      "en": "containing inorganic additives",
+      "count": 402,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    },
+    "A23C23/00": {
+      "code": "A23C23/00",
+      "level": 0,
+      "parent": "A23C",
+      "ja": "他の乳製品",
+      "en": "Other dairy products",
+      "count": 1385,
+      "sourceFile": "ipc_A23C.txt",
+      "kind": "ipc"
+    }
+  }
+};

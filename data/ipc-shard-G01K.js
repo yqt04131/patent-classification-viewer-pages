@@ -1,0 +1,1396 @@
+window.IPC_SHARD_G01K = {
+  "generatedAt": "2026-03-20T02:17:47.013Z",
+  "total": 139,
+  "entries": {
+    "G01K": {
+      "code": "G01K",
+      "level": 0,
+      "parent": "G01",
+      "ja": "温度の測定；熱量の測定；他に分類されない感温素子（放射温度計Ｇ０１Ｊ５／００）<br><br><b><ul>注</ul></b><br>（１）このサブクラスにおいては，下記の用語は以下に示す意味で用いる：<br>―“温度計”とは，他のサブクラスに分類されない感温素子を含む。<br>（２）クラスＧ０１のタイトルに続く注に注意すること。<br><br><b><ul>サブクラス内の索引</ul></b><br>温度測定<br>動作原理に特徴のあるもの　５／００，７／００，９／００，１１／００<br>瞬時値以外の値を指示する温度計　３／００<br>特定の型に適用されないものの細部　１／００<br>特定の目的に特に適した温度計　１３／００<br>温度計の試験および較正　１５／００<br>熱量測定；熱量計の試験および較正　１７／００；１９／００",
+      "en": "MEASURING TEMPERATURE; MEASURING QUANTITY OF HEAT; THERMALLY-SENSITIVE ELEMENTS NOT OTHERWISE PROVIDED FOR(radiation pyrometry <b>G01J5/00</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>In this subclass, the following term is used with the meaning indicated:<ul><li>\"thermometer\" includes thermally-sensitive elements not provided for in other subclasses.</li></ul></li><li>Attention is drawn to the Notes following the title of class <b>G01</b>.</li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">MEASURING TEMPERATURE<tr><td width=\"70%\">characterised by principle of operation</td><td><b><b>5/00</b>, <b>7/00</b>, <b>9/00</b>, <b>11/00</b></b></td></tr></tr><tr><td width=\"70%\">Thermometers giving an indication other than the instantaneous value</td><td><b><b>3/00</b></b></td></tr></tr><tr><td width=\"70%\">Details of thermometers not specially adapted for particular types of thermometers</td><td><b><b>1/00</b></b></td></tr></tr><tr><td width=\"70%\">Thermometers specially adapted for specific purposes</td><td><b><b>13/00</b></b></td></tr></tr><tr><td width=\"70%\">Testing and calibrating of thermometers</td><td><b><b>15/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">MEASURING QUANTITY OF HEAT; TESTING AND CALIBRATING OF CALORIMETERS</td><td><b><b>17/00</b>; <b>19/00</b></b></td></tr></tr></table>",
+      "count": 1287,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G01": {
+      "code": "G01",
+      "level": 0,
+      "parent": "G",
+      "ja": "測定；試験<br><br><b><ul>注</ul></b><br>（１）このクラスは“真”の測定計器のほかに類似構造の他の指示表示装置又は記録装置を含み，また更に，信号化装置又は制御装置についてはそれが測定に関するものであって（以下の注（２）で定義するように）特定の信号化目的または特定の制御目的に特に適合しないものである限り，含まれる。<br>（２）このクラスにおいては，下記の用語は以下に示す意味で用いる：<br>―“測定”はその第一義的意味又は基本的な意味よりもかなり広い意味を含むものとして用いる。この語の第一義的な意味においては，変量値を単位もしくはデータに関して又は同じ性質の別の変量に関して数値的に表現することを見い出すこと，例えば長さをスケールで測定するなどある長さを別の長さの表現で表わすこと，を意味する。この変量値は直接的に得る（すぐ前で言及したように）こともあり，また，水銀柱の長さの変化を測定することにより温度変化を測定するなど求める変量値に関連づけることのできる他の変量値を測定することよって得ることもある。しかしながら，同じ装置又は計器が，直接的な表示を行う代りに，記録をとったり，指示効果又は制御効果を奏すべく信号を発生するために用いられたり，或いは，他の装置又は計器と組み合わせて同種又は異種の二以上の変量の測定から一つのまとまった結果を得るために用いられることもあるので，“測定”はかかる数値的表現を変量を数値に変換する何らかの手段の付加的使用によって得ることを可能とするような操作をも含むものとして解釈することが必要である。従って，数値での表現は実際的にはデジタル的表現によって行なうこともありスケールを読むことによって行なうこともあり，また，その指示は数値を用いないで，例えば測定されている変量が特性又は状態であるところの実在物（例．物体，物質，光ビーム）について感知し得る何らかの特性（変量）によって又はそのような特性に類似するもの（例．スケールをもたない部材の対応位置，何らかの手段によって発生される対応電圧）によって，与えられることがある。<br>また，上記のような変量値指示が行なわれずに単に基準又はデータ（その値は数値的に既知のこともあり未知のこともある）に関しての異同を示すだけのことも多くある。この基準又はデータは同一性質であるが異なる実在物（例．標準器）の値のこともあり，或いは異なる時点での同一実在物の値であることもある。その最も単純な形態においては，測定は単にある状態又は性質，例えば運動（いずれかの方向又は特定の方向における）の有無を指示するだけのこともあるし，また，変量が既定値を超えるかどうかを指示するだけのこともある。<br>（３）“マイクロ構造の装置”および“マイクロ構造のシステム”に関する，クラスＢ８１およびサブクラスＢ８１Ｂの両タイトルの後の注に注意すること。［７］<br>（４）セクションＧのタイトルに続く注，特に“変量”という用語の定義については注意はすること。<br>（５）多くの測定装置において，測定すべき第一の変量は第二の変量またはさらなる変量に変換される。第二の変量またはさらなる変量は，第一の変量に関係して構成部材に生じた状態，または構成部材の変位であるかもしれない。そして，さらに変換が必要となるかもしれない。［６］<br>このような装置を分類するときは，（ｉ）重要である特定の変換ステップ，または重要である個々の変換ステップを分類するか，または（ｉｉ）全体としてのシステムのみが重要な場合は，第一の変量を該当する箇所に分類する。［６］<br>これは２つ以上の変換が起こる場合に特に重要である。たとえば，第一の変量（例．圧力）が第二の変量（例．感知体の光学的特性）に変換され，さらにその第二の変量が第三の変量（例．電気的効果）で示されるような場合である。このような場合には，次の分類箇所を考慮しなければならない：<br>第一の変量の変換についての分類場所，その変量により生じた状態を感知することについての分類場所，測定を示すＧ０１Ｄ，そして最後に，該当する場合は，システム全体を分類する場所である。［６］<br>（６）物理的特性の値の変化の測定は，その物理的特性の測定と同一のサブクラスに分類する。例えば，長さの伸びの測定はサブクラスＧ０１Ｂに分類する。",
+      "en": "MEASURING; TESTING; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This class <u>covers</u>, in addition to \"true\" measuring instruments, other indicating or recording devices of analogous construction, and also signalling or control devices insofar as they are concerned with measurement (as defined in Note 2 below) and are not specially adapted to the particular purpose of signalling or control.</li><li>In this class, the following term is used with the meaning indicated: <ul><li>\"measuring\" is used to cover considerably more than its primary or basic meaning. In this primary sense, it means finding a numerical expression of the value of a variable in relation to a unit or datum or to another variable of the same nature, e.g. expressing a length in terms of another length as in measuring a length with a scale; the value may be obtained directly (as just suggested) or by measuring some other variable of which the value can be related to the value of the required variable, as in measuring a change in temperature by measuring a resultant change in the length of a column of mercury. However, since the same device or instrument may, instead of giving an immediate indication, be used to produce a record or to initiate a signal to produce an indication or control effect, or may be used in combination with other devices or instruments to give a conjoint result from measurement of two or more variables of the same or different kinds, it is necessary to interpret \"measuring\" as including also any operation that would make it possible to obtain such a numerical expression by the additional use of some way of converting a value into figures. Thus the expression in figures may be actually made by a digital presentation or by reading a scale, or an indication of it may be given without the use of figures, e.g. by some perceptible feature (variable) of the entity (e.g. object, substance, beam of light) of which the variable being measured is a property or condition or by an analogue of such a feature (e.g. the corresponding position of a member without any scale, a corresponding voltage generated in some way). In many cases there is no such value indication but only an indication of difference or equality in relation to a standard or datum (of which the value may or may not be known in figures); the standard or datum may be the value of another variable of the same nature but of a different entity (e.g. a standard measure) or of the same entity at a different time. <ul><li>In its simplest form, measurement may give merely an indication of presence or absence of a certain condition or quality, e.g. movement (in any direction or in a particular direction), or whether a variable exceeds a predetermined value.</li></ul></li></ul></li><li>Attention is drawn to the Notes following the titles of class <b>B81</b> and subclass <b>B81B</b> relating to \"microstructural devices\" and \"microstructural systems\" and the Notes following the title of subclass <b>B82B</b> relating to \"nanostructures\".</li><li>Attention is drawn to the Notes following the title of section <b>G</b>, especially as regards the definition of the term \"variable\".</li><li>In many measuring arrangements, a first variable to be measured is transformed into a second, or further, variables. The second, or further, variables may be (a) a condition related to the first variable and produced in a member, or (b) a displacement of a member. Further transformation may be needed. <ul><li>When classifying such an arrangement, (i) the transformation step, or each transformation step, that is of interest is classified, or (ii) if interest lies only in the system as a whole, the first variable is classified in the appropriate place.</li><li>This is particularly important where two or more conversions take place, for instance where a first variable, for example pressure, is transformed into a second variable, for example an optical property of a sensing body, and that second variable is expressed by means of a third variable, for example an electric effect. In such a case, the following classification places should be considered: the place for the transformation of the first variable, that for sensing the condition caused by that variable, subclass <b>G01D</b> for expression of the measurement, and finally the place for the overall system, if any.</li></ul></li><li>The measurement of change in the value of a physical property is classified in the same subclass as the measurement of that physical property, e.g. measurement of expansion of length is classified in subclass <b>G01B</b>.</li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G": {
+      "code": "G",
+      "level": 0,
+      "parent": null,
+      "ja": "物理学<br><br><b><ul>注</ul></b><br>１．このセクションにおいては，下記の用語は以下に示す意味で用いる：<br>・“変量”は名詞として，特定の実在物，例．物体，ある量の物質，光ビーム，に関し特定の瞬間に測定することの可能な特性又は特質，例．寸法，温度等の物理的状態，密度又は色等の性質，を意味する。変量が変化すると，その数値的表現は異なる時点で，異なる状態又は個々の状況において異なる値をとることもあり，また，ある状態のもとで又は実用上特定の実在物に関して一定でありうる，例．バーの長さが多くの目的のために一定とみなされる，こともある。<br>２．使用される用語または表現の定義に注意すること。このセクションのいくつかのクラスの注に使用されているものについて，特にクラスＧ０１の“測定”を参照されたい．ＩＰＣ指針パラグラフ１８７の中にあるものについて，“制御”及び“調整”の定義に参照されたい。<br>３．このセクションにおける分類は他のセクションにおいてよりもめんどうな場合があり得る，というのは，その一つは，いろいろな使用分野の差異の判別には構造上の差異又は使用形態上の差異よりも寧ろ使用者の意図における差異の方にかなりの程度影響されてしまうからであり，もう一つは，扱う主題が容易に全体として識別できる“もの”であるよりも，特性又は部品が他の主題のものと共通のものを有しているシステム又は組合わせであることが実際上多いからである。例えば，情報（例．一連の数値）をディスプレイするのは，クラスＧ０９に包含される，教育又は広告のため，クラスＧ０１に包含される，測定の結果が通知されうるため，クラスＧ０８に包含される，遠隔地点に情報を合図するため，又は遠隔地点から合図された情報を提供するためである。目的を記述するために使用する言葉は，当該装置の形態に無関係なこともあり得る特性－例えば，ディスプレイを見る者にとって望ましい効果とか，ディスプレイが遠隔地点から制御されるかどうかという特性－によって決定される。さらに，ある状態，例えば流体圧の変化に応答する装置は，その装置そのものには変更を加えずして，サブクラスＧ０１Ｌに包含される圧力又はＧ０１の他のサブクラスに包含される圧力に関連した他の何らかの状態，例．温度に関してＧ０１Ｋ，についての情報を与えるため，サブクラスＧ０７Ｃに包含される圧力または圧力発生の記録をするため，サブクラスＧ０８Ｂに包含される警報を発するため，又はクラスＧ０５に包含される他の何らかの装置を制御するために用いられることがある。<br>　本分類表は，前述したように，同一の性質のものは同一箇所に分類し得るようにしたものである。従って，技術主題が適切箇所に分類されるためには予めその真正な本質を把握することが特に必要である。",
+      "en": "PHYSICS; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this section, the following term is used with the meaning indicated: <ul><li>\"variable\" as a noun means a feature or property, e.g. a dimension, a physical condition such as temperature, a quality such as density or colour, which, in respect of a particular entity, e.g. an object, a quantity of a substance, a beam of light, and at a particular instant, is capable of being measured; the variable may change, so that its numerical expression may assume different values at different times, in different conditions or in individual cases, but may be constant in respect of a particular entity in certain conditions or for practical purposes, e.g. the length of a bar may be regarded as constant for many purposes.</li></ul></li><li>Attention is drawn to the definitions of terms or expressions used. Some appear in the notes of several of the classes in this section, see in particular the definition of \"measuring\" in class <b>G01</b>. Others appear in paragraph 187 of the Guide to the IPC, see in particular the definitions of \"control\" and \"regulation\".</li><li>Classification in this section may present more difficulty than in other sections, because the distinction between different fields of use rests to a considerable extent on differences in the intention of the user rather than on any constructional differences or differences in the manner of use, and because the subjects dealt with are often in effect systems or combinations, which have features or parts in common, rather than \"things\", which are readily distinguishable as a whole. For example, information, e.g. a set of figures, may be displayed for the purpose of education or advertising covered by class <b>G09</b>, for enabling the result of a measurement to be known covered by class <b>G01</b>, for signalling the information to a distant point or for giving information which has been signalled from a distant point covered by class <b>G08</b>. The words used to describe the purpose depend on features that may be irrelevant to the form of the apparatus concerned, for example, such features as the desired effect on the person who sees the display, or whether the display is controlled from a remote point. Again, a device which responds to some change in a condition, e.g. in the pressure of a fluid, may be used, without modification of the device itself, to give information about the pressure covered by subclass <b>G01L</b> or about some other condition linked to the pressure covered by another subclass of class <b>G01</b>, e.g. <b>G01K</b> for temperature, to make a record of the pressure or of its occurrence covered by subclass <b>G07C</b>, to give an alarm covered by subclass <b>G08B</b>, or to control another apparatus covered by class <b>G05</b>. <ul><li>The classification scheme is intended to enable things of a similar nature, as indicated above, to be classified together. It is therefore particularly necessary for the real nature of any technical subject to be decided before it can be properly classified.</li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G01K1/00": {
+      "code": "G01K1/00",
+      "level": 0,
+      "parent": "G01K",
+      "ja": "特に温度計の特殊なタイプに適用されない温度計の細部（熱慣性減少用回路Ｇ０１Ｋ７／４２）［６］",
+      "en": "Details of thermometers not specially adapted for particular types of thermometer(circuits for reducing thermal inertia <b>G01K7/42</b>)",
+      "count": 6040,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K1/02": {
+      "code": "G01K1/02",
+      "level": 1,
+      "parent": "G01K1/00",
+      "ja": "温度計に特に適した指示または記録手段［２０２１．０１］",
+      "en": "Means for indicating or recording specially adapted for thermometers",
+      "count": 17648,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K1/022": {
+      "code": "G01K1/022",
+      "level": 2,
+      "parent": "G01K1/02",
+      "ja": "記録のためのもの［２０２１．０１］",
+      "en": "for recording",
+      "count": 1556,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K1/024": {
+      "code": "G01K1/024",
+      "level": 2,
+      "parent": "G01K1/02",
+      "ja": "遠隔指示のためのもの［２０２１．０１］",
+      "en": "for remote indication",
+      "count": 8838,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K1/04": {
+      "code": "G01K1/04",
+      "level": 2,
+      "parent": "G01K1/02",
+      "ja": "目盛",
+      "en": "Scales",
+      "count": 400,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K1/06": {
+      "code": "G01K1/06",
+      "level": 3,
+      "parent": "G01K1/04",
+      "ja": "読取りを容易にするための装置，例．照明，拡大鏡",
+      "en": "Arrangements for facilitating reading, e.g. illumination, magnifying glass",
+      "count": 559,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K1/08": {
+      "code": "G01K1/08",
+      "level": 1,
+      "parent": "G01K1/00",
+      "ja": "保護装置，例．ケーシング［２０２１．０１］",
+      "en": "Protective devices, e.g. casings",
+      "count": 16348,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K1/10": {
+      "code": "G01K1/10",
+      "level": 2,
+      "parent": "G01K1/08",
+      "ja": "化学的侵蝕を防ぐもの",
+      "en": "for preventing chemical attack",
+      "count": 1285,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K1/12": {
+      "code": "G01K1/12",
+      "level": 2,
+      "parent": "G01K1/08",
+      "ja": "過熱による損傷を防ぐもの",
+      "en": "for preventing damage due to heat overloading",
+      "count": 2641,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K1/14": {
+      "code": "G01K1/14",
+      "level": 1,
+      "parent": "G01K1/00",
+      "ja": "支持物；固定装置；特定の場所に温度計を装着するための構造［２０２１．０１］",
+      "en": "Supports; Fastening devices; Arrangements for mounting thermometers in particular locations",
+      "count": 34531,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K1/143": {
+      "code": "G01K1/143",
+      "level": 2,
+      "parent": "G01K1/14",
+      "ja": "表面温度を測定するためのもの［２０２１．０１］",
+      "en": "for measuring surface temperatures",
+      "count": 2364,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K1/16": {
+      "code": "G01K1/16",
+      "level": 1,
+      "parent": "G01K1/00",
+      "ja": "対象物から感応素子へ熱を導びくための特別な機構",
+      "en": "Special arrangements for conducting heat from the object to the sensitive element",
+      "count": 3844,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K1/18": {
+      "code": "G01K1/18",
+      "level": 2,
+      "parent": "G01K1/16",
+      "ja": "熱慣性を減ずるもの",
+      "en": "for reducing thermal inertia",
+      "count": 656,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K1/20": {
+      "code": "G01K1/20",
+      "level": 1,
+      "parent": "G01K1/00",
+      "ja": "測定対象以外の温度変化，例．周囲温度変化，の影響を補償するもの",
+      "en": "Compensating for effects of temperature changes other than those to be measured, e.g. changes in ambient temperature",
+      "count": 1540,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K1/22": {
+      "code": "G01K1/22",
+      "level": 2,
+      "parent": "G01K1/20",
+      "ja": "流体によって生じた圧力で変形または変位しうる部材をもつ中空体に入れられた液体によるもの",
+      "en": "by means of fluid contained in a hollow body having parts which are deformable or displaceable under the pressure developed by the fluid",
+      "count": 66,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K1/24": {
+      "code": "G01K1/24",
+      "level": 2,
+      "parent": "G01K1/20",
+      "ja": "条片または板の複合体，例．バイメタル条片，によるもの",
+      "en": "by means of compounded strips or plates, e.g. bimetallic strips",
+      "count": 131,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K1/26": {
+      "code": "G01K1/26",
+      "level": 1,
+      "parent": "G01K1/00",
+      "ja": "圧力変化の影響を補償するもの",
+      "en": "Compensating for effects of pressure changes",
+      "count": 108,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K3/00": {
+      "code": "G01K3/00",
+      "level": 0,
+      "parent": "G01K",
+      "ja": "温度の瞬時値以外の結果を示す温度計（Ｇ０１Ｋ７／４２が優先）［６］",
+      "en": "Thermometers giving results other than momentary value of temperature(<b>G01K7/42</b> takes precedence)",
+      "count": 2371,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K3/02": {
+      "code": "G01K3/02",
+      "level": 1,
+      "parent": "G01K3/00",
+      "ja": "平均値を与えるもの；積算値を与えるもの",
+      "en": "giving mean values; giving integrated values",
+      "count": 544,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K3/04": {
+      "code": "G01K3/04",
+      "level": 2,
+      "parent": "G01K3/02",
+      "ja": "時間に関するもの",
+      "en": "in respect of time",
+      "count": 1146,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K3/06": {
+      "code": "G01K3/06",
+      "level": 2,
+      "parent": "G01K3/02",
+      "ja": "空間に関するもの",
+      "en": "in respect of space",
+      "count": 492,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K3/08": {
+      "code": "G01K3/08",
+      "level": 1,
+      "parent": "G01K3/00",
+      "ja": "差の値を与えるもの；微分値を与えるもの",
+      "en": "giving differences of values; giving differentiated values",
+      "count": 667,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K3/10": {
+      "code": "G01K3/10",
+      "level": 2,
+      "parent": "G01K3/08",
+      "ja": "時間に関するもの，例．温度の急変にのみ反応するもの",
+      "en": "in respect of time, e.g. reacting only to a quick change of temperature",
+      "count": 710,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K3/12": {
+      "code": "G01K3/12",
+      "level": 3,
+      "parent": "G01K3/10",
+      "ja": "物質の膨張収縮を基礎とするもの",
+      "en": "based upon expansion or contraction of materials",
+      "count": 169,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K3/14": {
+      "code": "G01K3/14",
+      "level": 2,
+      "parent": "G01K3/08",
+      "ja": "空間に関するもの",
+      "en": "in respect of space",
+      "count": 934,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K5/00": {
+      "code": "G01K5/00",
+      "level": 0,
+      "parent": "G01K",
+      "ja": "物質の膨張収縮に基づく温度測定（Ｇ０１Ｋ９／００が優先；温度の瞬時値以外の結果を示すものＧ０１Ｋ３／００）",
+      "en": "Measuring temperature based on the expansion or contraction of a material(<b>G01K9/00</b> takes precedence; giving other than momentary value of temperature <b>G01K3/00</b>)",
+      "count": 560,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K5/02": {
+      "code": "G01K5/02",
+      "level": 1,
+      "parent": "G01K5/00",
+      "ja": "物質が液体であるもの（Ｇ０１Ｋ５／３２が優先）",
+      "en": "the material being a liquid(<b>G01K5/32</b> takes precedence)",
+      "count": 1045,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K5/04": {
+      "code": "G01K5/04",
+      "level": 2,
+      "parent": "G01K5/02",
+      "ja": "細部",
+      "en": "Details",
+      "count": 827,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K5/06": {
+      "code": "G01K5/06",
+      "level": 3,
+      "parent": "G01K5/04",
+      "ja": "液柱を押し下げる装置",
+      "en": "Arrangements for driving back the liquid column",
+      "count": 293,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K5/08": {
+      "code": "G01K5/08",
+      "level": 3,
+      "parent": "G01K5/04",
+      "ja": "毛細管",
+      "en": "Capillary tubes",
+      "count": 171,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K5/10": {
+      "code": "G01K5/10",
+      "level": 3,
+      "parent": "G01K5/04",
+      "ja": "液体容器",
+      "en": "Containers for the liquid",
+      "count": 93,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K5/12": {
+      "code": "G01K5/12",
+      "level": 3,
+      "parent": "G01K5/04",
+      "ja": "液体成分の選択",
+      "en": "Selection of liquid compositions",
+      "count": 83,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K5/14": {
+      "code": "G01K5/14",
+      "level": 2,
+      "parent": "G01K5/02",
+      "ja": "液体が他の液柱または固体を変位させるもの（最大または最小を指示するものＧ０１Ｋ５／２０）",
+      "en": "the liquid displacing a further liquid column or a solid body(for maximum or minimum indication <b>G01K5/20</b>)",
+      "count": 71,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K5/16": {
+      "code": "G01K5/16",
+      "level": 2,
+      "parent": "G01K5/02",
+      "ja": "電気接点を持つもの",
+      "en": "with electric contacts",
+      "count": 487,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K5/18": {
+      "code": "G01K5/18",
+      "level": 2,
+      "parent": "G01K5/02",
+      "ja": "最終指示のための電気量に変換する手段を持つもの",
+      "en": "with electric conversion means for final indication",
+      "count": 154,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K5/20": {
+      "code": "G01K5/20",
+      "level": 2,
+      "parent": "G01K5/02",
+      "ja": "最大最小またはその両方を指示する手段を持つもの（Ｇ０１Ｋ５／２２が優先）",
+      "en": "with means for indicating a maximum or a minimum or both(<b>G01K5/22</b> takes precedence)",
+      "count": 102,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K5/22": {
+      "code": "G01K5/22",
+      "level": 2,
+      "parent": "G01K5/02",
+      "ja": "数度を越えない範囲にわたり拡大して指示する機構を持つもの［２０２１．０１］",
+      "en": "with provision for expansion indicating over not more than a few degrees",
+      "count": 1409,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K5/24": {
+      "code": "G01K5/24",
+      "level": 2,
+      "parent": "G01K5/02",
+      "ja": "二温度間の差を測定するための機構を持つもの",
+      "en": "with provision for measuring the difference between two temperatures",
+      "count": 42,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K5/26": {
+      "code": "G01K5/26",
+      "level": 2,
+      "parent": "G01K5/02",
+      "ja": "目盛の零点を調整するための機構を持つもの，例．ベックマン温度計",
+      "en": "with provision for adjusting zero point of scale, e.g. Beckmann thermometer",
+      "count": 85,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K5/28": {
+      "code": "G01K5/28",
+      "level": 1,
+      "parent": "G01K5/00",
+      "ja": "物質がガスであるもの（Ｇ０１Ｋ５／３２が優先）",
+      "en": "the material being a gas(<b>G01K5/32</b> takes precedence)",
+      "count": 224,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K5/30": {
+      "code": "G01K5/30",
+      "level": 2,
+      "parent": "G01K5/28",
+      "ja": "ガスが液柱を変位させるもの",
+      "en": "the gas displacing a liquid column",
+      "count": 43,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K5/32": {
+      "code": "G01K5/32",
+      "level": 1,
+      "parent": "G01K5/00",
+      "ja": "物質によって生じた圧力で変形または変位しうる部材をもつ中空体に入れられる流動状物質（蒸発により発生した圧力によるものＧ０１Ｋ１１／０４）",
+      "en": "the material being a fluid contained in a hollow body having parts which are deformable or displaceable under the pressure developed by the material(under pressure developed by evaporation <b>G01K11/04</b>)",
+      "count": 645,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K5/34": {
+      "code": "G01K5/34",
+      "level": 2,
+      "parent": "G01K5/32",
+      "ja": "部材がカプセルであるもの（Ｇ０１Ｋ５／３６，Ｇ０１Ｋ５／４２が優先）",
+      "en": "the body being a capsule(<b>G01K5/36</b>, <b>G01K5/42</b> take precedence)",
+      "count": 41,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K5/36": {
+      "code": "G01K5/36",
+      "level": 2,
+      "parent": "G01K5/32",
+      "ja": "部材が管状弾性体であるもの，例．ブルドン管",
+      "en": "the body being a tubular spring, e.g. Bourdon tube",
+      "count": 157,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K5/38": {
+      "code": "G01K5/38",
+      "level": 3,
+      "parent": "G01K5/36",
+      "ja": "うず巻構造のもの",
+      "en": "of spiral formation",
+      "count": 46,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K5/40": {
+      "code": "G01K5/40",
+      "level": 3,
+      "parent": "G01K5/36",
+      "ja": "螺旋構造のもの",
+      "en": "of helical formation",
+      "count": 14,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K5/42": {
+      "code": "G01K5/42",
+      "level": 2,
+      "parent": "G01K5/32",
+      "ja": "部材がベローズであるもの",
+      "en": "the body being a bellows",
+      "count": 146,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K5/44": {
+      "code": "G01K5/44",
+      "level": 2,
+      "parent": "G01K5/32",
+      "ja": "部材がシリンダーとピストンからなるもの",
+      "en": "the body being a cylinder and piston",
+      "count": 359,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K5/46": {
+      "code": "G01K5/46",
+      "level": 2,
+      "parent": "G01K5/32",
+      "ja": "最終指示のために電気量に変換する手段を持つもの",
+      "en": "with electric conversion means for final indication",
+      "count": 131,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K5/48": {
+      "code": "G01K5/48",
+      "level": 1,
+      "parent": "G01K5/00",
+      "ja": "物質が固体であるもの",
+      "en": "the material being a solid",
+      "count": 715,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K5/50": {
+      "code": "G01K5/50",
+      "level": 2,
+      "parent": "G01K5/48",
+      "ja": "自由に膨脹または収縮できるもの",
+      "en": "arranged for free expansion or contraction",
+      "count": 215,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K5/52": {
+      "code": "G01K5/52",
+      "level": 3,
+      "parent": "G01K5/50",
+      "ja": "最終指示のために電気量に変換する手段を持つもの",
+      "en": "with electrical conversion means for final indication",
+      "count": 228,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K5/54": {
+      "code": "G01K5/54",
+      "level": 2,
+      "parent": "G01K5/48",
+      "ja": "ピボット接続された素子からなるもの",
+      "en": "consisting of pivotally-connected elements",
+      "count": 32,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K5/56": {
+      "code": "G01K5/56",
+      "level": 2,
+      "parent": "G01K5/48",
+      "ja": "膨脹または収縮が固体に変形を生ずるように拘束するもの",
+      "en": "constrained so that expansion or contraction causes a deformation of the solid",
+      "count": 141,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K5/58": {
+      "code": "G01K5/58",
+      "level": 3,
+      "parent": "G01K5/56",
+      "ja": "固体が２点以上で拘束されているもの，例．桿，板，ダイヤフラム（Ｇ０１Ｋ５／６２が優先）",
+      "en": "the solid body being constrained at more than one point, e.g. rod, plate, diaphragm(<b>G01K5/62</b> takes precedence)",
+      "count": 77,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K5/60": {
+      "code": "G01K5/60",
+      "level": 4,
+      "parent": "G01K5/58",
+      "ja": "部材が可撓性線条または帯片であるもの",
+      "en": "the body being a flexible wire or ribbon",
+      "count": 106,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K5/62": {
+      "code": "G01K5/62",
+      "level": 3,
+      "parent": "G01K5/56",
+      "ja": "固体が複合条片または複合板，例．バイメタル条片から形成されているもの",
+      "en": "the solid body being formed of compounded strips or plates, e.g. bimetallic strip",
+      "count": 1642,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K5/64": {
+      "code": "G01K5/64",
+      "level": 4,
+      "parent": "G01K5/62",
+      "ja": "複合系の細部",
+      "en": "Details of the compound system",
+      "count": 260,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K5/66": {
+      "code": "G01K5/66",
+      "level": 5,
+      "parent": "G01K5/64",
+      "ja": "系の構成要素の配合の選択",
+      "en": "Selection of composition of the components of the system",
+      "count": 167,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K5/68": {
+      "code": "G01K5/68",
+      "level": 5,
+      "parent": "G01K5/64",
+      "ja": "系の形状",
+      "en": "Shape of the system",
+      "count": 195,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K5/70": {
+      "code": "G01K5/70",
+      "level": 4,
+      "parent": "G01K5/62",
+      "ja": "指示または記録に特に適合するもの",
+      "en": "specially adapted for indicating or recording",
+      "count": 541,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K5/72": {
+      "code": "G01K5/72",
+      "level": 5,
+      "parent": "G01K5/70",
+      "ja": "最終指示のための電気的伝送手段をもつもの",
+      "en": "with electric transmission means for final indication",
+      "count": 297,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K7/00": {
+      "code": "G01K7/00",
+      "level": 0,
+      "parent": "G01K",
+      "ja": "熱に直接感応する電気的または磁気的素子の使用を基礎とした温度測定（温度の瞬時値以外の結果を示すものＧ０１Ｋ３／００）",
+      "en": "Measuring temperature based on the use of electric or magnetic elements directly sensitive to heat(giving results other than momentary value of temperature <b>G01K3/00</b>)",
+      "count": 13336,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K7/01": {
+      "code": "G01K7/01",
+      "level": 1,
+      "parent": "G01K7/00",
+      "ja": "ＰＮ接合をもつ半導体素子を用いるもの（Ｇ０１Ｋ７／０２，Ｇ０１Ｋ７／１６，Ｇ０１Ｋ７／３０が優先）［６］",
+      "en": "using semiconducting elements having PN junctions(<b>G01K7/02</b>, <b>G01K7/16</b>, <b>G01K7/30</b> take precedence)",
+      "count": 3252,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K7/02": {
+      "code": "G01K7/02",
+      "level": 1,
+      "parent": "G01K7/00",
+      "ja": "熱電素子によるもの，例．熱電対［２０２１．０１］",
+      "en": "using thermoelectric elements, e.g. thermocouples",
+      "count": 18476,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K7/026": {
+      "code": "G01K7/026",
+      "level": 2,
+      "parent": "G01K7/02",
+      "ja": "熱電対の故障または断線を検知するための装置［２０２１．０１］",
+      "en": "Arrangements for signalling failure or disconnection of thermocouples",
+      "count": 155,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K7/04": {
+      "code": "G01K7/04",
+      "level": 2,
+      "parent": "G01K7/02",
+      "ja": "測定対象物が熱電物質の一方を形成しないもの［２００６．０１］",
+      "en": "the object to be measured not forming one of the thermoelectric materials",
+      "count": 2129,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K7/06": {
+      "code": "G01K7/06",
+      "level": 3,
+      "parent": "G01K7/04",
+      "ja": "１方の素子が他方の素子の内部に配置され、端部において接合点が対象物にさらされている熱電物質，例．鞘型［２００６．０１］",
+      "en": "the thermoelectric materials being arranged one within the other with the junction at one end exposed to the object, e.g. sheathed type",
+      "count": 687,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K7/08": {
+      "code": "G01K7/08",
+      "level": 2,
+      "parent": "G01K7/02",
+      "ja": "測定対象物が熱電物質の一方を形成するもの，例．指示型［２００６．０１］",
+      "en": "the object to be measured forming one of the thermoelectric materials, e.g. pointed type",
+      "count": 192,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K7/10": {
+      "code": "G01K7/10",
+      "level": 2,
+      "parent": "G01K7/02",
+      "ja": "補助変数，例．導線の長さ，に対する補償機構",
+      "en": "Arrangements for compensating for auxiliary variables, e.g. length of lead",
+      "count": 367,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K7/12": {
+      "code": "G01K7/12",
+      "level": 3,
+      "parent": "G01K7/10",
+      "ja": "冷接点に関する機構，例．周囲の大気温度の影響を防止するもの",
+      "en": "Arrangements with respect to the cold junction, e.g. preventing influence of temperature of surrounding air",
+      "count": 730,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K7/13": {
+      "code": "G01K7/13",
+      "level": 4,
+      "parent": "G01K7/12",
+      "ja": "冷接点補償用回路［６］",
+      "en": "Circuits for cold-junction compensation",
+      "count": 472,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K7/14": {
+      "code": "G01K7/14",
+      "level": 2,
+      "parent": "G01K7/02",
+      "ja": "出力特性を修正する機構，例．線形にするもの",
+      "en": "Arrangements for modifying the output characteristic, e.g. linearising",
+      "count": 451,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K7/16": {
+      "code": "G01K7/16",
+      "level": 1,
+      "parent": "G01K7/00",
+      "ja": "抵抗素子を使うもの",
+      "en": "using resistive elements",
+      "count": 7975,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K7/18": {
+      "code": "G01K7/18",
+      "level": 2,
+      "parent": "G01K7/16",
+      "ja": "素子が線形抵抗体であるもの，例．白金抵抗温度計（Ｇ０１Ｋ７／２６が優先）",
+      "en": "the element being a linear resistance, e.g. platinum resistance thermometer(<b>G01K7/26</b> takes precedence)",
+      "count": 5290,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K7/20": {
+      "code": "G01K7/20",
+      "level": 3,
+      "parent": "G01K7/18",
+      "ja": "特に適合する回路，例．ブリッジ回路，中におけるもの",
+      "en": "in a specially-adapted circuit, e.g. bridge circuit",
+      "count": 1866,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K7/21": {
+      "code": "G01K7/21",
+      "level": 4,
+      "parent": "G01K7/20",
+      "ja": "出力特性を修正するためのもの，例．線形にするもの［６］",
+      "en": "for modifying the output characteristic, e.g. linearising",
+      "count": 418,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K7/22": {
+      "code": "G01K7/22",
+      "level": 2,
+      "parent": "G01K7/16",
+      "ja": "素子が非線形抵抗体，例．サーミスタ，であるもの（Ｇ０１Ｋ７／２６が優先）",
+      "en": "the element being a non-linear resistance, e.g. thermistor(<b>G01K7/26</b> takes precedence)",
+      "count": 13523,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K7/24": {
+      "code": "G01K7/24",
+      "level": 3,
+      "parent": "G01K7/22",
+      "ja": "特に適合する回路，例．ブリッジ回路，中におけるもの",
+      "en": "in a specially-adapted circuit, e.g. bridge circuit",
+      "count": 3864,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K7/25": {
+      "code": "G01K7/25",
+      "level": 4,
+      "parent": "G01K7/24",
+      "ja": "出力特性を修正するためのもの，例．線形にするもの［６］",
+      "en": "for modifying the output characteristic, e.g. linearising",
+      "count": 656,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K7/26": {
+      "code": "G01K7/26",
+      "level": 2,
+      "parent": "G01K7/16",
+      "ja": "素子が電解質であるもの",
+      "en": "the element being an electrolyte",
+      "count": 119,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K7/28": {
+      "code": "G01K7/28",
+      "level": 3,
+      "parent": "G01K7/26",
+      "ja": "特に適合する回路，例．ブリッジ回路，中におけるもの",
+      "en": "in a specially-adapted circuit, e.g. bridge circuit",
+      "count": 24,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K7/30": {
+      "code": "G01K7/30",
+      "level": 1,
+      "parent": "G01K7/00",
+      "ja": "抵抗体または導体の熱雑音を利用するもの",
+      "en": "using thermal noise of resistances or conductors",
+      "count": 160,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K7/32": {
+      "code": "G01K7/32",
+      "level": 1,
+      "parent": "G01K7/00",
+      "ja": "結晶の共振周波数の変化を利用するもの",
+      "en": "using change of resonant frequency of a crystal",
+      "count": 1203,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K7/34": {
+      "code": "G01K7/34",
+      "level": 1,
+      "parent": "G01K7/00",
+      "ja": "容量素子を使うもの",
+      "en": "using capacitative elements",
+      "count": 900,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K7/36": {
+      "code": "G01K7/36",
+      "level": 1,
+      "parent": "G01K7/00",
+      "ja": "磁気素子，例．磁石，コイル，を使うもの",
+      "en": "using magnetic elements, e.g. magnets, coils",
+      "count": 1402,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K7/38": {
+      "code": "G01K7/38",
+      "level": 2,
+      "parent": "G01K7/36",
+      "ja": "温度変化が透磁率に影響するもの",
+      "en": "the variations of temperature influencing the magnetic permeability",
+      "count": 545,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K7/40": {
+      "code": "G01K7/40",
+      "level": 1,
+      "parent": "G01K7/00",
+      "ja": "ガスのイオン化を利用するもの",
+      "en": "using ionisation of gases",
+      "count": 92,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K7/42": {
+      "code": "G01K7/42",
+      "level": 1,
+      "parent": "G01K7/00",
+      "ja": "熱慣性の補正を実施する回路；温度の定常値を予測するための回路［２００６．０１］",
+      "en": "Circuits effecting compensation of thermal inertia; Circuits for predicting the stationary value of a temperature",
+      "count": 1376,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K9/00": {
+      "code": "G01K9/00",
+      "level": 0,
+      "parent": "G01K",
+      "ja": "重量の再配分によって生じた動きに基づく温度測定，例．傾斜温度計（温度の瞬時値を与えないものＧ０１Ｋ３／００）",
+      "en": "Measuring temperature based on movements caused by redistribution of weight, e.g. tilting thermometer(not giving momentary value of temperature <b>G01K3/00</b>)",
+      "count": 136,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K11/00": {
+      "code": "G01K11/00",
+      "level": 0,
+      "parent": "G01K",
+      "ja": "グループＧ０１Ｋ３／００，Ｇ０１Ｋ５／００，Ｇ０１Ｋ７／００，またはＧ０１Ｋ９／００に包含されない物理的または化学的変化に基づく温度測定",
+      "en": "Measuring temperature based on physical or chemical changes not covered by group <b>G01K3/00</b>, <b>G01K5/00</b>, <b>G01K7/00</b>, or <b>G01K9/00</b>",
+      "count": 3996,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K11/02": {
+      "code": "G01K11/02",
+      "level": 1,
+      "parent": "G01K11/00",
+      "ja": "気化または昇華を利用するもの，例．沸騰の観察によるもの",
+      "en": "using evaporation or sublimation, e.g. by observing boiling",
+      "count": 170,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K11/04": {
+      "code": "G01K11/04",
+      "level": 2,
+      "parent": "G01K11/02",
+      "ja": "蒸気によって生じた圧力で変形または変位しうる部材をもつ中空体に入っている物質からなるもの",
+      "en": "from material contained in a hollow body having parts which are deformable or displaceable under the pressure developed by the vapour",
+      "count": 78,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K11/06": {
+      "code": "G01K11/06",
+      "level": 1,
+      "parent": "G01K11/00",
+      "ja": "溶解，氷結，軟化を利用するもの",
+      "en": "using melting, freezing, or softening",
+      "count": 2052,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K11/08": {
+      "code": "G01K11/08",
+      "level": 2,
+      "parent": "G01K11/06",
+      "ja": "処分できる試験体に関するもの，例．ゼーゲルコーン",
+      "en": "of disposable test bodies, e.g. cone",
+      "count": 86,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K11/10": {
+      "code": "G01K11/10",
+      "level": 1,
+      "parent": "G01K11/00",
+      "ja": "焼結を使用するもの",
+      "en": "using sintering",
+      "count": 25,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K11/12": {
+      "code": "G01K11/12",
+      "level": 1,
+      "parent": "G01K11/00",
+      "ja": "色、透明度または反射率の変化を利用するもの［２０２１．０１］",
+      "en": "using changes in colour, translucency or reflectance",
+      "count": 6447,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K11/125": {
+      "code": "G01K11/125",
+      "level": 2,
+      "parent": "G01K11/12",
+      "ja": "反射率の変化を利用するもの［２０２１．０１］",
+      "en": "using changes in reflectance",
+      "count": 197,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K11/14": {
+      "code": "G01K11/14",
+      "level": 2,
+      "parent": "G01K11/12",
+      "ja": "無機物に関するもの",
+      "en": "of inorganic materials",
+      "count": 344,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K11/16": {
+      "code": "G01K11/16",
+      "level": 2,
+      "parent": "G01K11/12",
+      "ja": "有機物質に関するもの［２０２１．０１］",
+      "en": "of organic materials",
+      "count": 1235,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K11/165": {
+      "code": "G01K11/165",
+      "level": 3,
+      "parent": "G01K11/16",
+      "ja": "有機液晶に関するもの［２０２１．０１］",
+      "en": "of organic liquid crystals",
+      "count": 129,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K11/18": {
+      "code": "G01K11/18",
+      "level": 2,
+      "parent": "G01K11/12",
+      "ja": "透明度が変化する物質に関するもの",
+      "en": "of materials which change translucency",
+      "count": 248,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K11/20": {
+      "code": "G01K11/20",
+      "level": 1,
+      "parent": "G01K11/00",
+      "ja": "熱発光物質を使用するもの（Ｇ０１Ｋ１１／３２が優先）［６］",
+      "en": "using thermoluminescent materials(<b>G01K11/32</b> takes precedence)",
+      "count": 995,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K11/22": {
+      "code": "G01K11/22",
+      "level": 1,
+      "parent": "G01K11/00",
+      "ja": "音響効果の測定を利用するもの",
+      "en": "using measurement of acoustic effects",
+      "count": 1026,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K11/24": {
+      "code": "G01K11/24",
+      "level": 2,
+      "parent": "G01K11/22",
+      "ja": "音の伝播速度によるもの",
+      "en": "of the velocity of propagation of sound",
+      "count": 873,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K11/26": {
+      "code": "G01K11/26",
+      "level": 2,
+      "parent": "G01K11/22",
+      "ja": "共振周波数によるもの",
+      "en": "of resonant frequencies",
+      "count": 773,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K11/28": {
+      "code": "G01K11/28",
+      "level": 1,
+      "parent": "G01K11/00",
+      "ja": "密度の測定を利用するもの",
+      "en": "using measurements of density",
+      "count": 78,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K11/30": {
+      "code": "G01K11/30",
+      "level": 1,
+      "parent": "G01K11/00",
+      "ja": "Ｘ線，ガンマ線，粒子線が物質に及ぼす効果の測定を利用するもの［５］",
+      "en": "using measurement of the effect of a material on X-radiation, gamma radiation or particle radiation",
+      "count": 269,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K11/32": {
+      "code": "G01K11/32",
+      "level": 1,
+      "parent": "G01K11/00",
+      "ja": "光ファイバーにおける透過率、散乱または発光の変化を利用するもの［２０２１．０１］",
+      "en": "using changes in transmittance, scattering or luminescence in optical fibres",
+      "count": 6684,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K11/3206": {
+      "code": "G01K11/3206",
+      "level": 2,
+      "parent": "G01K11/32",
+      "ja": "ファイバー内の離散した位置におけるもの，例．ブラッグ散乱を用いるもの［２０２１．０１］",
+      "en": "at discrete locations in the fibre, e.g. using Bragg scattering",
+      "count": 2622,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K11/3213": {
+      "code": "G01K11/3213",
+      "level": 3,
+      "parent": "G01K11/3206",
+      "ja": "発光の変化を利用するもの，例．ファイバー遠位端の発光の変化を利用するもの［２０２１．０１］",
+      "en": "using changes in luminescence, e.g. at the distal end of the fibres",
+      "count": 166,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K11/322": {
+      "code": "G01K11/322",
+      "level": 2,
+      "parent": "G01K11/32",
+      "ja": "ブリルアン散乱を用いるもの［２０２１．０１］",
+      "en": "using Brillouin scattering",
+      "count": 645,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K11/324": {
+      "code": "G01K11/324",
+      "level": 2,
+      "parent": "G01K11/32",
+      "ja": "ラマン散乱を用いるもの［２０２１．０１］",
+      "en": "using Raman scattering",
+      "count": 1177,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K13/00": {
+      "code": "G01K13/00",
+      "level": 0,
+      "parent": "G01K",
+      "ja": "特定の目的に特に適した温度計［２０２１．０１］",
+      "en": "Thermometers specially adapted for specific purposes",
+      "count": 35999,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K13/02": {
+      "code": "G01K13/02",
+      "level": 1,
+      "parent": "G01K13/00",
+      "ja": "動いている流体または流動可能な粒体の温度を測定するためのもの［２０２１．０１］",
+      "en": "for measuring temperature of moving fluids or granular materials capable of flow",
+      "count": 6976,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K13/024": {
+      "code": "G01K13/024",
+      "level": 2,
+      "parent": "G01K13/02",
+      "ja": "流動する気体の温度を測定するためのもの［２０２１．０１］",
+      "en": "of moving gases",
+      "count": 1941,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K13/04": {
+      "code": "G01K13/04",
+      "level": 1,
+      "parent": "G01K13/00",
+      "ja": "移動する固体の温度を測定するもの",
+      "en": "for measuring temperature of moving solid bodies",
+      "count": 574,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K13/06": {
+      "code": "G01K13/06",
+      "level": 2,
+      "parent": "G01K13/04",
+      "ja": "直線移動中のもの",
+      "en": "in linear movement",
+      "count": 446,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K13/08": {
+      "code": "G01K13/08",
+      "level": 2,
+      "parent": "G01K13/04",
+      "ja": "回転移動中のもの",
+      "en": "in rotary movement",
+      "count": 2029,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K13/10": {
+      "code": "G01K13/10",
+      "level": 1,
+      "parent": "G01K13/00",
+      "ja": "堆積物の内部温度を測定するもの（対象物から感応素子へ熱を導びくための特別な機構によるものＧ０１Ｋ１／１６）",
+      "en": "for measuring temperature within piled or stacked materials(by special arrangements for conducting heat from the object to the sensitive element <b>G01K1/16</b>)",
+      "count": 1453,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K13/12": {
+      "code": "G01K13/12",
+      "level": 1,
+      "parent": "G01K13/00",
+      "ja": "試料の温度を測定するためにサンプリング装置と結合したもの",
+      "en": "combined with sampling devices for measuring temperatures of samples of material",
+      "count": 1089,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K13/20": {
+      "code": "G01K13/20",
+      "level": 1,
+      "parent": "G01K13/00",
+      "ja": "人または動物に用いる、接触型体温計［２０２１．０１］",
+      "en": "Clinical contact thermometers for use with humans or animals ",
+      "count": 2823,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K13/25": {
+      "code": "G01K13/25",
+      "level": 2,
+      "parent": "G01K13/20",
+      "ja": "体温計の保護装置，例．汚染防止のためのスリーブ［２０２１．０１］",
+      "en": "Protective devices therefor, e.g. sleeves preventing contamination",
+      "count": 704,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K15/00": {
+      "code": "G01K15/00",
+      "level": 0,
+      "parent": "G01K",
+      "ja": "温度計の試験または較正",
+      "en": "Testing or calibrating of thermometers",
+      "count": 8854,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K17/00": {
+      "code": "G01K17/00",
+      "level": 0,
+      "parent": "G01K",
+      "ja": "熱量の測定",
+      "en": "Measuring quantity of heat",
+      "count": 4350,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K17/02": {
+      "code": "G01K17/02",
+      "level": 1,
+      "parent": "G01K17/00",
+      "ja": "指示物質の移送を利用する熱量計，例．気化熱量計",
+      "en": "Calorimeters using transport of an indicating substance, e.g. evaporation calorimeters",
+      "count": 376,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K17/04": {
+      "code": "G01K17/04",
+      "level": 1,
+      "parent": "G01K17/00",
+      "ja": "補償法を利用する熱量計",
+      "en": "Calorimeters using compensation methods",
+      "count": 221,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K17/06": {
+      "code": "G01K17/06",
+      "level": 1,
+      "parent": "G01K17/00",
+      "ja": "流動媒体によって運ばれる熱量の測定，例．加熱系におけるもの（Ｇ０１Ｋ１７／０２，Ｇ０１Ｋ１７／０４が優先）",
+      "en": "Measuring quantity of heat conveyed by flowing media, e.g. in heating systems(<b>G01K17/02</b>, <b>G01K17/04</b> take precedence)",
+      "count": 2242,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K17/08": {
+      "code": "G01K17/08",
+      "level": 2,
+      "parent": "G01K17/06",
+      "ja": "温度差の測定を基礎とするもの",
+      "en": "based upon measurement of temperature difference",
+      "count": 1547,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K17/10": {
+      "code": "G01K17/10",
+      "level": 3,
+      "parent": "G01K17/08",
+      "ja": "流入点と流出点間の温度差測定と媒体の流速測定とを組み合わせたもの",
+      "en": "between an inlet and an outlet point, combined with measurement of rate of flow of the medium",
+      "count": 955,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K17/12": {
+      "code": "G01K17/12",
+      "level": 4,
+      "parent": "G01K17/10",
+      "ja": "流量と温度差の積を直接指示するもの",
+      "en": "Indicating product of flow and temperature difference directly",
+      "count": 431,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K17/14": {
+      "code": "G01K17/14",
+      "level": 5,
+      "parent": "G01K17/12",
+      "ja": "両方の測定に機械的手段を使用するもの",
+      "en": "using mechanical means for both measurements",
+      "count": 238,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K17/16": {
+      "code": "G01K17/16",
+      "level": 5,
+      "parent": "G01K17/12",
+      "ja": "両方の測定に電気的手段を使用するもの",
+      "en": "using electrical means for both measurements",
+      "count": 443,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K17/18": {
+      "code": "G01K17/18",
+      "level": 5,
+      "parent": "G01K17/12",
+      "ja": "一方の測定には電気的手段を，他方の測定には機械的手段を使うもの",
+      "en": "using electrical means for one measurement and mechanical means for the other",
+      "count": 78,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K17/20": {
+      "code": "G01K17/20",
+      "level": 3,
+      "parent": "G01K17/08",
+      "ja": "輻射表面を横切る温度差測定と熱伝導率の確認とを組み合わせたもの",
+      "en": "across a radiating surface, combined with ascertainment of the heat-transmission coefficient",
+      "count": 601,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    },
+    "G01K19/00": {
+      "code": "G01K19/00",
+      "level": 0,
+      "parent": "G01K",
+      "ja": "熱量計の試験または較正",
+      "en": "Testing or calibrating calorimeters",
+      "count": 760,
+      "sourceFile": "ipc_G01K.txt",
+      "kind": "ipc"
+    }
+  }
+};

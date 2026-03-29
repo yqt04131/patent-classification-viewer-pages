@@ -1,0 +1,1006 @@
+{
+  "generatedAt": "2026-03-20T02:17:45.879Z",
+  "total": 100,
+  "entries": {
+    "A23G": {
+      "code": "A23G",
+      "level": 0,
+      "parent": "A23",
+      "ja": "ココア；カカオ製品，例．チョコレート；ココアまたはカカオ製品の代用品；菓子；チュウインガム；アイスクリーム；それらの製造［１，８］<br><br><b><ul>注</ul></b><br>（１）このサブクラスにおいては，下記の用語は以下に示す意味で用いる：<br>―“アイスクリーム”は凍結あるいは凝結した半液体あるいはペースト状の物質，例．スラッシューアイス，を包含する。<br>（２）このサブクラスにおいては，１つのメイングループに完全に分類できない主題事項は，それぞれ関連しているメイングループに分類すべきである。［８］",
+      "en": "COCOA; COCOA PRODUCTS, e.g. CHOCOLATE; SUBSTITUTES FOR COCOA OR COCOA PRODUCTS; CONFECTIONERY; CHEWING GUM; ICE-CREAM; PREPARATION THEREOF; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this subclass, the following term is used with the meaning indicated:<ul><li>\"ice-cream\" includes any edible frozen or congealed semi-liquid or pasty substance, e.g. slush-ice.</li></ul></li><li>In this subclass, subject matter which cannot be completely classified in a single one of the main groups should be classified in each relevant main group.</li></ul>",
+      "count": 1838,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A23": {
+      "code": "A23",
+      "level": 0,
+      "parent": "A",
+      "ja": "食品，食料品または非アルコール飲料；それらの調製，処理または保存<br><br><b><ul>注</ul></b><br>下記の箇所に注意すること：<br>Ｃ０８Ｂ　　多糖類，その誘導体<br>Ｃ１１　動物性または植物性油，脂肪，脂肪性物質またはろう<br>Ｃ１２　生化学，ビール，酒精，ぶどう酒，酢<br>Ｃ１３　糖工業［４］",
+      "en": "FOODS, FOODSTUFFS OR NON-ALCOHOLIC BEVERAGES; PREPARATION, TREATMENT OR PRESERVATION THEREOF; <br><br><b><u>Note(s)</u></b><br><br><ul><li>Attention is drawn to the following places:<ul><li>Polysaccharides, derivatives thereof</li><li>Animal or vegetable oils, fats, fatty substances or waxes</li><li>Biochemistry, beer, spirits, wine, vinegar</li><li>Sugar industry.  </li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A": {
+      "code": "A",
+      "level": 0,
+      "parent": null,
+      "ja": "生活必需品",
+      "en": "HUMAN NECESSITIES",
+      "count": 0,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A23G1/00": {
+      "code": "A23G1/00",
+      "level": 0,
+      "parent": "A23G",
+      "ja": "ココア；カカオ製品，例．チョコレート；それらの代用品（それらの保存Ａ２３Ｂ８０／００）［２０２５．０１］",
+      "en": "Cocoa; Cocoa products, e.g. chocolate; Substitutes therefor(preservation thereof <b>A23B80/00</b>)",
+      "count": 6683,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G1/02": {
+      "code": "A23G1/02",
+      "level": 1,
+      "parent": "A23G1/00",
+      "ja": "前処理，例．カカオの発酵",
+      "en": "Preliminary treatment, e.g. fermentation of cocoa",
+      "count": 567,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G1/04": {
+      "code": "A23G1/04",
+      "level": 1,
+      "parent": "A23G1/00",
+      "ja": "カカオまたはカカオ製品の製造または処理に特に適合した装置（カカオ豆焙煎機Ａ２３Ｎ１２／００）［３］",
+      "en": "Apparatus specially adapted for manufacture or treatment of cocoa or cocoa products(machines for roasting cocoa <b>A23N12/00</b>)",
+      "count": 1779,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G1/06": {
+      "code": "A23G1/06",
+      "level": 2,
+      "parent": "A23G1/04",
+      "ja": "カカオ豆またはカカオニブの調製または処理の装置",
+      "en": "Apparatus for preparing or treating cocoa beans or nibs",
+      "count": 187,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G1/08": {
+      "code": "A23G1/08",
+      "level": 2,
+      "parent": "A23G1/04",
+      "ja": "カカオバターの圧搾機",
+      "en": "Cocoa butter presses",
+      "count": 70,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G1/10": {
+      "code": "A23G1/10",
+      "level": 2,
+      "parent": "A23G1/04",
+      "ja": "混合装置；チョコレート製造用のロールミル",
+      "en": "Mixing apparatus; Roller mills for preparing chocolate",
+      "count": 841,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G1/12": {
+      "code": "A23G1/12",
+      "level": 2,
+      "parent": "A23G1/04",
+      "ja": "チョコレート精練粉砕機，すなわちロールリファイナー",
+      "en": "Chocolate-refining mills, i.e. roll refiners",
+      "count": 449,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G1/14": {
+      "code": "A23G1/14",
+      "level": 2,
+      "parent": "A23G1/04",
+      "ja": "縦形コンチェ",
+      "en": "Longitudinal conches",
+      "count": 92,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G1/16": {
+      "code": "A23G1/16",
+      "level": 2,
+      "parent": "A23G1/04",
+      "ja": "円筒形回転式コンチェ",
+      "en": "Circular conches",
+      "count": 103,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G1/18": {
+      "code": "A23G1/18",
+      "level": 2,
+      "parent": "A23G1/04",
+      "ja": "成形するためのチョコレートマスを調整する装置",
+      "en": "Apparatus for conditioning chocolate masses for moulding",
+      "count": 652,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G1/20": {
+      "code": "A23G1/20",
+      "level": 2,
+      "parent": "A23G1/04",
+      "ja": "チョコレートの成形，切断，または分配する装置",
+      "en": "Apparatus for moulding, cutting, or dispensing chocolate",
+      "count": 1622,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G1/21": {
+      "code": "A23G1/21",
+      "level": 3,
+      "parent": "A23G1/20",
+      "ja": "空洞のある製品，開放型の外皮，またはその他の空所，例．解放空所のあるものを成形するための装置［３，７］",
+      "en": "Apparatus for moulding hollow products, open shells or other articles having cavities, e.g. open cavities",
+      "count": 489,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G1/22": {
+      "code": "A23G1/22",
+      "level": 3,
+      "parent": "A23G1/20",
+      "ja": "チョコレートの成形型（Ａ２３Ｇ１／２１が優先）［３］",
+      "en": "Chocolate moulds(<b>A23G1/21</b> takes precedence)",
+      "count": 730,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G1/24": {
+      "code": "A23G1/24",
+      "level": 3,
+      "parent": "A23G1/20",
+      "ja": "タッピングテーブルまたは揺動テーブル［１，７］",
+      "en": "Tapping or jolting tables",
+      "count": 113,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G1/26": {
+      "code": "A23G1/26",
+      "level": 3,
+      "parent": "A23G1/20",
+      "ja": "チョコレート型を運搬する装置［１，７］",
+      "en": "Conveying devices for chocolate moulds",
+      "count": 179,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G1/28": {
+      "code": "A23G1/28",
+      "level": 3,
+      "parent": "A23G1/20",
+      "ja": "型からチョコレートを抜き出す装置［１，７］",
+      "en": "Apparatus for removing chocolate from the moulds",
+      "count": 247,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G1/30": {
+      "code": "A23G1/30",
+      "level": 1,
+      "parent": "A23G1/00",
+      "ja": "カカオ製品，例．チョコレート；その代用品［８］",
+      "en": "Cocoa products, e.g. chocolate; Substitutes therefor",
+      "count": 4189,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G1/32": {
+      "code": "A23G1/32",
+      "level": 2,
+      "parent": "A23G1/30",
+      "ja": "組成に特徴があるもの［８］",
+      "en": "characterised by the composition",
+      "count": 1360,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G1/34": {
+      "code": "A23G1/34",
+      "level": 3,
+      "parent": "A23G1/32",
+      "ja": "カカオの代用品［８］",
+      "en": "Cocoa substitutes",
+      "count": 95,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G1/36": {
+      "code": "A23G1/36",
+      "level": 3,
+      "parent": "A23G1/32",
+      "ja": "使用される脂質に特徴があるもの（乳製品を含むものＡ２３Ｇ１／４６）［８］",
+      "en": "characterised by the fats used(containing dairy products <b>A23G1/46</b>)",
+      "count": 1094,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G1/38": {
+      "code": "A23G1/38",
+      "level": 4,
+      "parent": "A23G1/36",
+      "ja": "カカオバターの代用品［８］",
+      "en": "Cocoa butter substitutes",
+      "count": 396,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G1/40": {
+      "code": "A23G1/40",
+      "level": 3,
+      "parent": "A23G1/32",
+      "ja": "使用した糖質に特徴があるもの，例．多糖類（乳製品を含むものＡ２３Ｇ１／４６）［８］",
+      "en": "characterised by the carbohydrates used, e.g. polysaccharides(containing dairy products <b>A23G1/46</b>)",
+      "count": 919,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G1/42": {
+      "code": "A23G1/42",
+      "level": 3,
+      "parent": "A23G1/32",
+      "ja": "微生物または酵素を含むもの；医療補助または栄養剤，例．ビタミン剤（乳製品を含むものＡ２３Ｇ１／４６）［８］",
+      "en": "containing microorganisms or enzymes; containing paramedical or dietetical agents, e.g. vitamins(containing dairy products <b>A23G1/46</b>)",
+      "count": 689,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G1/44": {
+      "code": "A23G1/44",
+      "level": 3,
+      "parent": "A23G1/32",
+      "ja": "ペプチドまたは蛋白質を含むもの（乳製品を含むものＡ２３Ｇ１／４６）［８］",
+      "en": "containing peptides or proteins(containing dairy products <b>A23G1/46</b>)",
+      "count": 333,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G1/46": {
+      "code": "A23G1/46",
+      "level": 3,
+      "parent": "A23G1/32",
+      "ja": "乳製品を含むもの［８］",
+      "en": "containing dairy products",
+      "count": 625,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G1/48": {
+      "code": "A23G1/48",
+      "level": 3,
+      "parent": "A23G1/32",
+      "ja": "植物またはその一部を含むもの，例．果物，種子または抽出物（ガムを含むものＡ２３Ｇ１／４０）［８］",
+      "en": "containing plants or parts thereof, e.g. fruits, seeds, extracts(containing gums <b>A23G1/40</b>)",
+      "count": 1775,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G1/50": {
+      "code": "A23G1/50",
+      "level": 2,
+      "parent": "A23G1/30",
+      "ja": "形状，構造または物理的形態に特徴があるもの，例．非食用支持物を有する製品（液体製品，液体製品を製造するための粉末，フレークまたは顆粒状の固体製品Ａ２３Ｇ１／５６）［８］",
+      "en": "characterised by shape, structure or physical form, e.g. products with an inedible support(liquid products, solid products in the form of powders, flakes or granules for making liquid products <b>A23G1/56</b>)",
+      "count": 679,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G1/52": {
+      "code": "A23G1/52",
+      "level": 3,
+      "parent": "A23G1/50",
+      "ja": "空気泡込，発泡，組織に間隔のあるまたは多孔性の製品［８］",
+      "en": "Aerated, foamed, cellular or porous products",
+      "count": 245,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G1/54": {
+      "code": "A23G1/54",
+      "level": 3,
+      "parent": "A23G1/50",
+      "ja": "複合製品，例．積層物，被覆物または詰物［８］",
+      "en": "Composite products, e.g. layered, coated, filled",
+      "count": 1488,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G1/56": {
+      "code": "A23G1/56",
+      "level": 2,
+      "parent": "A23G1/30",
+      "ja": "液体製品；液体製品を製造するための粉末，フレークまたは顆粒状の固体製品，例．チョコレートミルクを製造するためのもの［８］",
+      "en": "Liquid products; Solid products in the form of powders, flakes or granules for making liquid products, e.g. for making chocolate milk",
+      "count": 1441,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G3/00": {
+      "code": "A23G3/00",
+      "level": 0,
+      "parent": "A23G",
+      "ja": "糖菓；菓子；マジパン；被覆物または詰物製品（チュウインガムＡ２３Ｇ４／００）［１，８］",
+      "en": "Sweetmeats; Confectionery; Marzipan; Coated or filled products(chewing gum <b>A23G4/00</b>)",
+      "count": 16189,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G3/02": {
+      "code": "A23G3/02",
+      "level": 1,
+      "parent": "A23G3/00",
+      "ja": "糖菓または菓子の製造または処理のために特に適合した装置；その付属具",
+      "en": "Apparatus specially adapted for manufacture or treatment of sweetmeats or confectionery; Accessories therefor",
+      "count": 9371,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G3/04": {
+      "code": "A23G3/04",
+      "level": 2,
+      "parent": "A23G3/02",
+      "ja": "砂糖煮詰機",
+      "en": "Sugar-cookers",
+      "count": 865,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G3/06": {
+      "code": "A23G3/06",
+      "level": 2,
+      "parent": "A23G3/02",
+      "ja": "バッチロール，ロープ成形，またはサイジング装置",
+      "en": "Batch-rolling, rope-forming, or sizing machines",
+      "count": 361,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G3/08": {
+      "code": "A23G3/08",
+      "level": 2,
+      "parent": "A23G3/02",
+      "ja": "キャンデーバッチの冷却盤",
+      "en": "Candy batch cooling tables",
+      "count": 80,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G3/10": {
+      "code": "A23G3/10",
+      "level": 2,
+      "parent": "A23G3/02",
+      "ja": "引飴機",
+      "en": "Candy-pulling machines",
+      "count": 659,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G3/12": {
+      "code": "A23G3/12",
+      "level": 2,
+      "parent": "A23G3/02",
+      "ja": "可塑性の状態の飴を成形する装置",
+      "en": "Apparatus for moulding candy in the plastic state",
+      "count": 493,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G3/14": {
+      "code": "A23G3/14",
+      "level": 2,
+      "parent": "A23G3/02",
+      "ja": "フォンダント製造用のビーター，またはクリーマー",
+      "en": "Fondant beating or creaming machines",
+      "count": 113,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G3/16": {
+      "code": "A23G3/16",
+      "level": 2,
+      "parent": "A23G3/02",
+      "ja": "フォンダントを大量に注型成形する装置",
+      "en": "Apparatus for casting fondant in bulk",
+      "count": 133,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G3/18": {
+      "code": "A23G3/18",
+      "level": 2,
+      "parent": "A23G3/02",
+      "ja": "フォンダントの成形装置",
+      "en": "Apparatus for moulding fondants",
+      "count": 135,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G3/20": {
+      "code": "A23G3/20",
+      "level": 2,
+      "parent": "A23G3/02",
+      "ja": "糖菓または菓子の被覆または充填装置",
+      "en": "Apparatus for coating or filling sweetmeats or confectionery",
+      "count": 4106,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G3/22": {
+      "code": "A23G3/22",
+      "level": 3,
+      "parent": "A23G3/20",
+      "ja": "流し込みによる被覆装置",
+      "en": "Apparatus for coating by casting",
+      "count": 438,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G3/24": {
+      "code": "A23G3/24",
+      "level": 3,
+      "parent": "A23G3/20",
+      "ja": "浸漬法による被覆装置",
+      "en": "Apparatus for coating by dipping",
+      "count": 399,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G3/26": {
+      "code": "A23G3/26",
+      "level": 3,
+      "parent": "A23G3/20",
+      "ja": "転動による被覆装置",
+      "en": "Apparatus for coating by tumbling",
+      "count": 767,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G3/28": {
+      "code": "A23G3/28",
+      "level": 2,
+      "parent": "A23G3/02",
+      "ja": "糖菓または菓子のデコレーション装置",
+      "en": "Apparatus for decorating sweetmeats or confectionery",
+      "count": 1477,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G3/32": {
+      "code": "A23G3/32",
+      "level": 1,
+      "parent": "A23G3/00",
+      "ja": "カラメルまたはシュガーカラーの調製方法",
+      "en": "Processes for preparing caramel or sugar colours",
+      "count": 418,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G3/34": {
+      "code": "A23G3/34",
+      "level": 1,
+      "parent": "A23G3/00",
+      "ja": "糖菓，菓子またはマジパン；その製造過程［８］",
+      "en": "Sweetmeats, confectionery or marzipan; Processes for the preparation thereof",
+      "count": 12969,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G3/36": {
+      "code": "A23G3/36",
+      "level": 2,
+      "parent": "A23G3/34",
+      "ja": "配合に特徴があるもの［８］",
+      "en": "characterised by the composition",
+      "count": 7563,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G3/38": {
+      "code": "A23G3/38",
+      "level": 3,
+      "parent": "A23G3/36",
+      "ja": "蔗糖を使わない製品［８］",
+      "en": "Sucrose-free products",
+      "count": 1088,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G3/40": {
+      "code": "A23G3/40",
+      "level": 3,
+      "parent": "A23G3/36",
+      "ja": "使用した脂質に特徴があるもの（乳製品を含むものＡ２３Ｇ３／４６）［８］",
+      "en": "characterised by the fats used(containing dairy products <b>A23G3/46</b>)",
+      "count": 1096,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G3/42": {
+      "code": "A23G3/42",
+      "level": 3,
+      "parent": "A23G3/36",
+      "ja": "使用した炭水化物に特徴があるもの，例．多糖類（乳製品を含むものＡ２３Ｇ３／４６）［８］",
+      "en": "characterised by the carbohydrates used, e.g. polysaccharides(containing dairy products <b>A23G3/46</b>)",
+      "count": 4721,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G3/44": {
+      "code": "A23G3/44",
+      "level": 3,
+      "parent": "A23G3/36",
+      "ja": "ペプチドまたは蛋白質を含むもの（乳製品を含むものＡ２３Ｇ３／４６）［８］",
+      "en": "containing peptides or proteins(containing dairy products <b>A23G3/46</b>)",
+      "count": 1467,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G3/46": {
+      "code": "A23G3/46",
+      "level": 3,
+      "parent": "A23G3/36",
+      "ja": "乳製品を含むもの［８］",
+      "en": "containing dairy products",
+      "count": 972,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G3/48": {
+      "code": "A23G3/48",
+      "level": 3,
+      "parent": "A23G3/36",
+      "ja": "植物またはその一部を含むもの，例．果実，種子または抽出物（ガムを含むものＡ２３Ｇ３／４２）［８］",
+      "en": "containing plants or parts thereof, e.g. fruits, seeds, extracts(containing gums <b>A23G3/42</b>)",
+      "count": 14519,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G3/50": {
+      "code": "A23G3/50",
+      "level": 2,
+      "parent": "A23G3/34",
+      "ja": "形状，構造または物理的形態に特徴があるもの，例．支持構造を有する製品［８］",
+      "en": "characterised by shape, structure or physical form, e.g. products with supported structure",
+      "count": 4157,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G3/52": {
+      "code": "A23G3/52",
+      "level": 3,
+      "parent": "A23G3/50",
+      "ja": "空気泡込，発泡，組織に間隔のあるまたは多孔性の製品［８］",
+      "en": "Aerated, foamed, cellular or porous products",
+      "count": 1048,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G3/54": {
+      "code": "A23G3/54",
+      "level": 3,
+      "parent": "A23G3/50",
+      "ja": "複合製品，例．積層物，被覆物または詰物［８］",
+      "en": "Composite products, e.g. layered, coated, filled",
+      "count": 3266,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G3/56": {
+      "code": "A23G3/56",
+      "level": 3,
+      "parent": "A23G3/50",
+      "ja": "食用または非食用支持物を有する製品，例．棒付きキャンディー［８］",
+      "en": "Products with edible or inedible supports, e.g. lollipops",
+      "count": 1399,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G4/00": {
+      "code": "A23G4/00",
+      "level": 0,
+      "parent": "A23G",
+      "ja": "チュウインガム［８］",
+      "en": "Chewing gum",
+      "count": 3878,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G4/02": {
+      "code": "A23G4/02",
+      "level": 1,
+      "parent": "A23G4/00",
+      "ja": "チュウインガムの製造または処理に特に適した装置［８］",
+      "en": "Apparatus specially adapted for manufacture or treatment of chewing gum",
+      "count": 538,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G4/04": {
+      "code": "A23G4/04",
+      "level": 2,
+      "parent": "A23G4/02",
+      "ja": "成形または型取りのためのもの［８］",
+      "en": "for moulding or shaping",
+      "count": 372,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G4/06": {
+      "code": "A23G4/06",
+      "level": 1,
+      "parent": "A23G4/00",
+      "ja": "配合に特徴があるもの［８］",
+      "en": "characterised by the composition",
+      "count": 2670,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G4/08": {
+      "code": "A23G4/08",
+      "level": 2,
+      "parent": "A23G4/06",
+      "ja": "チュウインガムに基づくもの［８］",
+      "en": "of the chewing gum base",
+      "count": 844,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G4/10": {
+      "code": "A23G4/10",
+      "level": 2,
+      "parent": "A23G4/06",
+      "ja": "使用した炭水化物に特徴があるもの，例．多糖類（乳製品を含むものＡ２３Ｇ４／１６）［８］",
+      "en": "characterised by the carbohydrates used, e.g. polysaccharides(containing dairy products <b>A23G4/16</b>)",
+      "count": 1032,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G4/12": {
+      "code": "A23G4/12",
+      "level": 2,
+      "parent": "A23G4/06",
+      "ja": "微生物または酵素を含むもの；医療補助または栄養剤，例．ビタミン剤（乳製品を含むものＡ２３Ｇ４／１６）［８］",
+      "en": "containing microorganisms or enzymes; containing paramedical or dietetical agents, e.g. vitamins(containing dairy products <b>A23G4/16</b>)",
+      "count": 1115,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G4/14": {
+      "code": "A23G4/14",
+      "level": 2,
+      "parent": "A23G4/06",
+      "ja": "ペプチドまたは蛋白質を含むもの（乳製品を含むものＡ２３Ｇ４／１６）［８］",
+      "en": "containing peptides or proteins(containing dairy products <b>A23G4/16</b>)",
+      "count": 279,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G4/16": {
+      "code": "A23G4/16",
+      "level": 2,
+      "parent": "A23G4/06",
+      "ja": "乳製品を含むもの［８］",
+      "en": "containing dairy products",
+      "count": 37,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G4/18": {
+      "code": "A23G4/18",
+      "level": 1,
+      "parent": "A23G4/00",
+      "ja": "形状，構造または物理的形態に特徴があるもの，例．空気泡込製品［８］",
+      "en": "characterised by shape, structure or physical form, e.g. aerated products",
+      "count": 464,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G4/20": {
+      "code": "A23G4/20",
+      "level": 2,
+      "parent": "A23G4/18",
+      "ja": "複合製品，例．中心に詰め込まれたもの［８］",
+      "en": "Composite products, e.g. centre-filled",
+      "count": 1037,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G7/00": {
+      "code": "A23G7/00",
+      "level": 0,
+      "parent": "A23G",
+      "ja": "チョコレートまたは菓子工業用に特に適したその他の装置",
+      "en": "Other apparatus specially adapted for the chocolate or confectionery industry",
+      "count": 1854,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G7/02": {
+      "code": "A23G7/02",
+      "level": 1,
+      "parent": "A23G7/00",
+      "ja": "冷却または乾燥装置",
+      "en": "Cooling or drying apparatus",
+      "count": 1145,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G9/00": {
+      "code": "A23G9/00",
+      "level": 0,
+      "parent": "A23G",
+      "ja": "冷菓，例．氷菓子，アイスクリーム；そのための混合物［２］",
+      "en": "Frozen sweets, e.g. ice confectionery, ice-cream; Mixtures therefor",
+      "count": 2786,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G9/04": {
+      "code": "A23G9/04",
+      "level": 1,
+      "parent": "A23G9/00",
+      "ja": "冷菓，例．アイスクリーム，の製造［２］",
+      "en": "Production of frozen sweets, e.g. ice-cream",
+      "count": 4794,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G9/06": {
+      "code": "A23G9/06",
+      "level": 2,
+      "parent": "A23G9/04",
+      "ja": "冷媒として二酸化炭素あるいはドライアイスを用いることを特徴とするもの［２］<br><br><b><ul>注</ul></b><br>グループ９／０６はグループ９／０８～９／１４に優先する［２］",
+      "en": "characterised by using carbon dioxide or carbon dioxide snow as cooling medium",
+      "count": 217,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G9/08": {
+      "code": "A23G9/08",
+      "level": 2,
+      "parent": "A23G9/04",
+      "ja": "バッチ式製造［２］",
+      "en": "Batch production",
+      "count": 1208,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G9/10": {
+      "code": "A23G9/10",
+      "level": 3,
+      "parent": "A23G9/08",
+      "ja": "冷媒中で回転あるいは他の方法で動かされる容器を使用するもの［２］",
+      "en": "using containers which are rotated or otherwise moved in a cooling medium",
+      "count": 567,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G9/12": {
+      "code": "A23G9/12",
+      "level": 3,
+      "parent": "A23G9/08",
+      "ja": "動かない容器中で内容物を攪拌する手段を使用するもの［２］",
+      "en": "using means for stirring the contents in a non-moving container",
+      "count": 1967,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G9/14": {
+      "code": "A23G9/14",
+      "level": 2,
+      "parent": "A23G9/04",
+      "ja": "連続製造（Ａ２３Ｇ９／２０が優先）［２］",
+      "en": "Continuous production(<b>A23G9/20</b> takes precedence)",
+      "count": 701,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G9/16": {
+      "code": "A23G9/16",
+      "level": 3,
+      "parent": "A23G9/14",
+      "ja": "冷却室，例．ドラム，内に製品があるもの［２］",
+      "en": "the products being within a cooled chamber, e.g. drum",
+      "count": 858,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G9/18": {
+      "code": "A23G9/18",
+      "level": 3,
+      "parent": "A23G9/14",
+      "ja": "冷却体，例．ドラムあるいはエンドレスバンド，の外壁上に製品があるもの［２］",
+      "en": "the products being on the outer wall of a cooled body, e.g. drum or endless band",
+      "count": 217,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G9/20": {
+      "code": "A23G9/20",
+      "level": 2,
+      "parent": "A23G9/04",
+      "ja": "製品が気体と混合されているもの，例．ソフトアイス［２］",
+      "en": "the products being mixed with gas, e.g. soft-ice",
+      "count": 1551,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G9/22": {
+      "code": "A23G9/22",
+      "level": 2,
+      "parent": "A23G9/04",
+      "ja": "前のどのグループにも特有でない装置の細部，構成要素あるいは付属品［２］",
+      "en": "Details, component parts or accessories of apparatus insofar as not peculiar to a single one of the preceding groups",
+      "count": 5224,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G9/24": {
+      "code": "A23G9/24",
+      "level": 3,
+      "parent": "A23G9/22",
+      "ja": "製品の被覆あるいは充填のためのもの［２］",
+      "en": "for coating or filling the products",
+      "count": 1209,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G9/26": {
+      "code": "A23G9/26",
+      "level": 3,
+      "parent": "A23G9/22",
+      "ja": "棒上に冷菓を製造するためのもの［２］",
+      "en": "for producing frozen sweets on sticks",
+      "count": 1285,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G9/28": {
+      "code": "A23G9/28",
+      "level": 3,
+      "parent": "A23G9/22",
+      "ja": "小分けあるいは分配のためのもの［２］",
+      "en": "for portioning or dispensing",
+      "count": 3848,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G9/30": {
+      "code": "A23G9/30",
+      "level": 3,
+      "parent": "A23G9/22",
+      "ja": "清浄；その保持；滅菌［２］",
+      "en": "Cleaning; Keeping clean; Sterilisation",
+      "count": 912,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G9/32": {
+      "code": "A23G9/32",
+      "level": 1,
+      "parent": "A23G9/00",
+      "ja": "組成に特徴があるもの［８］",
+      "en": "characterised by the composition",
+      "count": 5745,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G9/34": {
+      "code": "A23G9/34",
+      "level": 2,
+      "parent": "A23G9/32",
+      "ja": "使用された炭水化物に特徴があるもの，例．多糖類（使用された乳製品に特徴があるものＡ２３Ｇ９／４０）［８］",
+      "en": "characterised by carbohydrates used, e.g. polysaccharides(characterised by the dairy products used <b>A23G9/40</b>)",
+      "count": 1585,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G9/36": {
+      "code": "A23G9/36",
+      "level": 2,
+      "parent": "A23G9/32",
+      "ja": "微生物または酵素を含むもの；医療補助または栄養剤，例．ビタミン剤，を含むもの（使用された乳製品に特徴があるものＡ２３Ｇ９／４０）［８］",
+      "en": "containing microorganisms or enzymes; containing paramedical or dietetical agents, e.g. vitamins(characterised by the dairy products used <b>A23G9/40</b>)",
+      "count": 1180,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G9/38": {
+      "code": "A23G9/38",
+      "level": 2,
+      "parent": "A23G9/32",
+      "ja": "ペプチドまたは蛋白質を含むもの（使用された乳製品に特徴があるものＡ２３Ｇ９／４０）［８］",
+      "en": "containing peptides or proteins(characterised by the dairy products used <b>A23G9/40</b>)",
+      "count": 704,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G9/40": {
+      "code": "A23G9/40",
+      "level": 2,
+      "parent": "A23G9/32",
+      "ja": "使用された乳製品に特徴があるもの［８］",
+      "en": "characterised by the dairy products used",
+      "count": 1298,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G9/42": {
+      "code": "A23G9/42",
+      "level": 2,
+      "parent": "A23G9/32",
+      "ja": "植物またはその一部を含むもの，例．果物，種子または抽出物（ガムを含むものＡ２３Ｇ９／３４）［８］",
+      "en": "containing plants or parts thereof, e.g. fruits, seeds, extracts(containing gums <b>A23G9/34</b>)",
+      "count": 3811,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G9/44": {
+      "code": "A23G9/44",
+      "level": 1,
+      "parent": "A23G9/00",
+      "ja": "形状，構造または物理的形態に特徴があるもの（液体製品，液体製品を製造するための粉末，フレークまたは顆粒状の固体製品Ａ２３Ｇ９／５２）［８］",
+      "en": "characterised by shape, structure or physical form(liquid products, solid products in the form of powders, flakes or granules for making liquid products <b>A23G9/52</b>)",
+      "count": 2425,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G9/46": {
+      "code": "A23G9/46",
+      "level": 2,
+      "parent": "A23G9/44",
+      "ja": "空気泡込，発泡，組織に間隔のあるまたは多孔性の製品［８］",
+      "en": "Aerated, foamed, cellular or porous products",
+      "count": 542,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G9/48": {
+      "code": "A23G9/48",
+      "level": 2,
+      "parent": "A23G9/44",
+      "ja": "複合製品，例．積層物，被覆物または詰物［８］",
+      "en": "Composite products, e.g. layered, coated, filled",
+      "count": 1282,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G9/50": {
+      "code": "A23G9/50",
+      "level": 2,
+      "parent": "A23G9/44",
+      "ja": "食用または非食用支持物を有する製品，例．アイスクリームコーン［８］",
+      "en": "Products with edible or inedible supports, e.g. cornets",
+      "count": 1339,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    },
+    "A23G9/52": {
+      "code": "A23G9/52",
+      "level": 1,
+      "parent": "A23G9/00",
+      "ja": "液体製品；液体製品を製造するための粉末，フレークまたは顆粒状の固体製品［８］",
+      "en": "Liquid products; Solid products in the form of powders, flakes or granules for making liquid products",
+      "count": 2665,
+      "sourceFile": "ipc_A23G.txt",
+      "kind": "ipc"
+    }
+  }
+}

@@ -1,0 +1,216 @@
+window.IPC_SHARD_A63J = {
+  "generatedAt": "2026-03-20T02:17:45.977Z",
+  "total": 21,
+  "entries": {
+    "A63J": {
+      "code": "A63J",
+      "level": 0,
+      "parent": "A63",
+      "ja": "劇場，サーカス，またはその類似物用の装置；奇術用設備またはその類似物<br><br><b><ul>サブクラス内の索引</ul></b><br>舞台またはサーカス装置　１／００～５／００<br>その他の目で見る娯楽　１３／００～１９／００，９９／００<br>その他の娯楽　９／００，１１／００，９９／００<br>演芸者のための装置　７／００，２１／００",
+      "en": "DEVICES FOR THEATRES, CIRCUSES, OR THE LIKE; CONJURING APPLIANCES OR THE LIKE; <br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">STAGE OR CIRCUS ARRANGEMENTS </td><td><b><b>1/00 to 5/00</b> </b></td></tr></tr><tr><td width=\"70%\">OTHER VISUAL ENTERTAINMENT </td><td><b><b>13/00 to 19/00</b> , <b>25/00</b>, <b>99/00</b></b></td></tr></tr><tr><td width=\"70%\">OTHER ENTERTAINMENT </td><td><b><b>9/00</b>, <b>11/00</b>, <b>99/00</b></b></td></tr></tr><tr><td width=\"70%\">APPARATUS FOR ARTISTES </td><td><b><b>7/00</b>, <b>21/00</b></b></td></tr></tr></table>",
+      "count": 151,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A63": {
+      "code": "A63",
+      "level": 0,
+      "parent": "A",
+      "ja": "スポーツ；ゲーム；娯楽",
+      "en": "SPORTS; GAMES; AMUSEMENTS",
+      "count": 0,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A": {
+      "code": "A",
+      "level": 0,
+      "parent": null,
+      "ja": "生活必需品",
+      "en": "HUMAN NECESSITIES",
+      "count": 0,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A63J1/00": {
+      "code": "A63J1/00",
+      "level": 0,
+      "parent": "A63J",
+      "ja": "舞台装置",
+      "en": "Stage arrangements",
+      "count": 1439,
+      "sourceFile": "ipc_A63J.txt",
+      "kind": "ipc"
+    },
+    "A63J1/02": {
+      "code": "A63J1/02",
+      "level": 1,
+      "parent": "A63J1/00",
+      "ja": "背景；幕；その他の装飾；これを動かすための手段",
+      "en": "Scenery; Curtains; Other decorations; Means for moving same",
+      "count": 2284,
+      "sourceFile": "ipc_A63J.txt",
+      "kind": "ipc"
+    },
+    "A63J3/00": {
+      "code": "A63J3/00",
+      "level": 0,
+      "parent": "A63J",
+      "ja": "サーカスまたは試合場の装置または設備",
+      "en": "Equipment for, or arrangement of, circuses or arenas",
+      "count": 163,
+      "sourceFile": "ipc_A63J.txt",
+      "kind": "ipc"
+    },
+    "A63J5/00": {
+      "code": "A63J5/00",
+      "level": 0,
+      "parent": "A63J",
+      "ja": "舞台上，またはサーカスまたは試合場内で特殊な効果を出すための補助装置",
+      "en": "Auxiliaries for producing special effects on stages, or in circuses or arenas",
+      "count": 1107,
+      "sourceFile": "ipc_A63J.txt",
+      "kind": "ipc"
+    },
+    "A63J5/02": {
+      "code": "A63J5/02",
+      "level": 1,
+      "parent": "A63J5/00",
+      "ja": "舞台効果をつくる装置；舞台設備の補助装置",
+      "en": "Arrangements for making stage effects; Auxiliary stage appliances",
+      "count": 2959,
+      "sourceFile": "ipc_A63J.txt",
+      "kind": "ipc"
+    },
+    "A63J5/04": {
+      "code": "A63J5/04",
+      "level": 2,
+      "parent": "A63J5/02",
+      "ja": "音響効果をつくるための装置",
+      "en": "Arrangements for making sound-effects",
+      "count": 334,
+      "sourceFile": "ipc_A63J.txt",
+      "kind": "ipc"
+    },
+    "A63J5/10": {
+      "code": "A63J5/10",
+      "level": 1,
+      "parent": "A63J5/00",
+      "ja": "会話を眼で見ることができるまたは聞くことができる装置",
+      "en": "Arrangements for making visible or audible the words spoken",
+      "count": 98,
+      "sourceFile": "ipc_A63J.txt",
+      "kind": "ipc"
+    },
+    "A63J5/12": {
+      "code": "A63J5/12",
+      "level": 1,
+      "parent": "A63J5/00",
+      "ja": "人を昇降するための装置",
+      "en": "Apparatus for raising or lowering persons",
+      "count": 499,
+      "sourceFile": "ipc_A63J.txt",
+      "kind": "ipc"
+    },
+    "A63J7/00": {
+      "code": "A63J7/00",
+      "level": 0,
+      "parent": "A63J",
+      "ja": "演芸者のための補助装置",
+      "en": "Auxiliary apparatus for artistes",
+      "count": 575,
+      "sourceFile": "ipc_A63J.txt",
+      "kind": "ipc"
+    },
+    "A63J9/00": {
+      "code": "A63J9/00",
+      "level": 0,
+      "parent": "A63J",
+      "ja": "遠心力を利用した軌道，宙乗り，または類似のもの",
+      "en": "Centrifugal tracks, loop-the-loops or the like",
+      "count": 28,
+      "sourceFile": "ipc_A63J.txt",
+      "kind": "ipc"
+    },
+    "A63J11/00": {
+      "code": "A63J11/00",
+      "level": 0,
+      "parent": "A63J",
+      "ja": "迷路",
+      "en": "Labyrinths",
+      "count": 499,
+      "sourceFile": "ipc_A63J.txt",
+      "kind": "ipc"
+    },
+    "A63J13/00": {
+      "code": "A63J13/00",
+      "level": 0,
+      "parent": "A63J",
+      "ja": "パノラマ，ディオラマ，ステレオラマ，または類似のもの",
+      "en": "Panoramas, dioramas, stereoramas, or the like",
+      "count": 233,
+      "sourceFile": "ipc_A63J.txt",
+      "kind": "ipc"
+    },
+    "A63J15/00": {
+      "code": "A63J15/00",
+      "level": 0,
+      "parent": "A63J",
+      "ja": "のぞきからくり，例．のぞき眼鏡；万華鏡的なまたはその他の乳白光を出す見せ物",
+      "en": "Peep-shows, e.g. raree-shows; Kaleidoscopic or other opalescence exhibitions",
+      "count": 181,
+      "sourceFile": "ipc_A63J.txt",
+      "kind": "ipc"
+    },
+    "A63J17/00": {
+      "code": "A63J17/00",
+      "level": 0,
+      "parent": "A63J",
+      "ja": "色彩楽を演ずる装置",
+      "en": "Apparatus for performing colour-music",
+      "count": 736,
+      "sourceFile": "ipc_A63J.txt",
+      "kind": "ipc"
+    },
+    "A63J19/00": {
+      "code": "A63J19/00",
+      "level": 0,
+      "parent": "A63J",
+      "ja": "あやつり人形，からくり人形，または影絵芝居または劇場",
+      "en": "Puppet, marionette, or shadow shows or theatres",
+      "count": 852,
+      "sourceFile": "ipc_A63J.txt",
+      "kind": "ipc"
+    },
+    "A63J21/00": {
+      "code": "A63J21/00",
+      "level": 0,
+      "parent": "A63J",
+      "ja": "奇術用設備；奇術師のための補助装置",
+      "en": "Conjuring appliances; Auxiliary apparatus for conjurers",
+      "count": 933,
+      "sourceFile": "ipc_A63J.txt",
+      "kind": "ipc"
+    },
+    "A63J25/00": {
+      "code": "A63J25/00",
+      "level": 0,
+      "parent": "A63J",
+      "ja": "特に映画館で用いられる設備（映写手段Ｇ０３Ｂ）［２００９．０１］",
+      "en": "Equipment specially adapted for cinemas(cinematographic projection means <b>G03B</b>)",
+      "count": 1503,
+      "sourceFile": "ipc_A63J.txt",
+      "kind": "ipc"
+    },
+    "A63J99/00": {
+      "code": "A63J99/00",
+      "level": 0,
+      "parent": "A63J",
+      "ja": "このサブクラスの他のグループには分類されない主題事項［２００９．０１］",
+      "en": "Subject matter not provided for in other groups of this subclass",
+      "count": 725,
+      "sourceFile": "ipc_A63J.txt",
+      "kind": "ipc"
+    }
+  }
+};

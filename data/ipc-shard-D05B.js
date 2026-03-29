@@ -1,0 +1,2186 @@
+window.IPC_SHARD_D05B = {
+  "generatedAt": "2026-03-20T02:17:46.585Z",
+  "total": 218,
+  "entries": {
+    "D05B": {
+      "code": "D05B",
+      "level": 0,
+      "parent": "D05",
+      "ja": "縫製（裁縫師のための器具Ａ４１Ｈ；裁縫台Ａ４７Ｂ２９／００；製本におけるとじ付けＢ４２Ｂ２／００；編み物用に変形されたミシンＤ０４Ｂ３９／０８）<br><br><b><ul>注</ul></b><br>注<br>このサブクラスにおいては，縫製装置または機械を示しているグループは，それらを用いることによる縫製工程とそれらによって作られる縫い目とを包含する。<br><br><b><ul>サブクラス内の索引</ul></b><br>サブクラス内の索引<br>機械の型<br>横方向の運動なしに縫い目を作るための一般形　１／００<br>特殊目的または自動機械<br>針または被縫製物が横方向の運動をするもの　３／００<br>キルティングのためのものまたはマットレス，袋，皮革製品を縫うためのもの　１１／００，１３／００，１５／００<br>物品を一時的に連結しておくためのもの　５／００<br>リンキングマシン；ヘムステッチミシン；縫い目と溶着縫い目を作るためのもの　７／００；９／００；１７／００<br>プログラム制御されるもの　１９／００，２１／００<br>ミシンの他の形　２３／００<br>ミシンの組合せ；縫製と関係のない目的のための装置を取り付けたミシン　２５／００；８１／００<br>被縫製物；それに関連した機械要素<br>被縫製物を送り，押え，保持し，供給または除去するためのもの　２７／００，２９／００，３１／００，３３／００<br>被縫製物にスリット，みぞ付けまたは切断するための装置　３７／００<br>被縫製物支持体，被縫製物収集装置　３９／００，４１／００<br>被縫製物に関連したその他の要素　３５／００<br>縫い糸；それに関連した機械要素<br>針糸<br>糸立棒装置　４３／００<br>使用される糸の長さの測定；張力の調整；糸の切断　４５／００；４７／００；６５／００<br>天びん，針糸保護，糸切れ感知器，糸掛け；針支持具　４９／００，５１／００，５３／００；５５／００<br>下糸<br>ループ捕そく器；ループ操作部材；張力；糸の切断　５７／００；６１／００；６３／００；６５／００<br>ボビンへの巻き取り，またはボビンの交換　５９／００<br>糸の潤滑，ろう引きまたは着色　６７／００<br>ミシンのその他の要素および付属品<br>駆動または制御；潤滑または冷却；照明装置　６９／００；７１／００；７９／００<br>付属品<br>作業者のための防護装置　８３／００<br>ケーシング；枠体またはテーブル；カバーまたは携帯用ケース　７３／００；７５／００；７７／００<br>手縫い<br>道具および付属品；縫い目または縫い目列　９１／００；９３／００<br>準備作業または仕上げ作業　９５／００<br>特殊な被縫製物のため手縫い工程および手縫い装置または他に分類されないもの　９７／００ｖ針；針の糸通し装置；縫い目解き器　８５／００；８７／００；８９／００",
+      "en": "SEWING(appliances for the tailoring trade <b>A41H</b>; sewing tables <b>A47B29/00</b>; sewing in bookbinding <b>B42B2/00</b>; sewing machines modified for knitting <b>D04B39/08</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>In this subclass, the groups designating sewing apparatus or machines <u>cover</u> also sewing processes dependent on their use, and the thread seams produced thereby.</li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">TYPES OF MACHINES<tr><td width=\"70%\">General types for making thread seams without lateral movement</td><td><b><b>1/00</b></b></td></tr></tr><tr><td width=\"70%\">Special-purpose or automatic machines<tr><td width=\"70%\">with lateral movement of needle or work</td><td><b><b>3/00</b></b></td></tr></tr><tr><td width=\"70%\">for sewing quilts or mattresses, sacks or leather goods</td><td><b><b>11/00</b>, <b>13/00</b>, <b>15/00</b></b></td></tr></tr><tr><td width=\"70%\">for temporarily connecting articles</td><td><b><b>5/00</b></b></td></tr></tr><tr><td width=\"70%\">linking machines; hem-stitch machines; for making thread and welded seams</td><td><b><b>7/00</b>; <b>9/00</b>; <b>17/00</b></b></td></tr></tr><tr><td width=\"70%\">program-controlled</td><td><b><b>19/00</b>, <b>21/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">Other types of sewing machines</td><td><b><b>23/00</b></b></td></tr></tr><tr><td width=\"70%\">Combination of machines; machines incorporating devices for other purposes than sewing</td><td><b><b>25/00</b>; <b>81/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">THE WORK; MACHINE ELEMENTS RELATING THERETO<tr><td width=\"70%\">for feeding, pressing, holding, supplying or removing the work</td><td><b><b>27/00</b>, <b>29/00</b>, <b>31/00</b>, <b>33/00</b></b></td></tr></tr><tr><td width=\"70%\">Devices for slitting, grooving or cutting the work</td><td><b><b>37/00</b></b></td></tr></tr><tr><td width=\"70%\">Work-piece carriers, work-collecting devices</td><td><b><b>39/00</b>, <b>41/00</b></b></td></tr></tr><tr><td width=\"70%\">Other elements relating to the work</td><td><b><b>35/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">SEWING-THREAD; MACHINE ELEMENTS RELATING THERETO<tr><td width=\"70%\">Needle thread<tr><td width=\"70%\">spool-pin assemblies</td><td><b><b>43/00</b></b></td></tr></tr><tr><td width=\"70%\">measuring length of thread used; regulating tension; severing thread</td><td><b><b>45/00</b>; <b>47/00</b>; <b>65/00</b></b></td></tr></tr><tr><td width=\"70%\">take-up, needle-thread guard, break detectors, thread laying; needle holders</td><td><b><b>49/00</b>, <b>51/00</b>, <b>53/00</b>; <b>55/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">Lower thread<tr><td width=\"70%\">loop takers; loop manipulators; tension; severing thread</td><td><b><b>57/00</b>; <b>61/00</b>; <b>63/00</b>; <b>65/00</b></b></td></tr></tr><tr><td width=\"70%\">bobbin winding or changing</td><td><b><b>59/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">Lubricating, waxing or colouring thread</td><td><b><b>67/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">OTHER ELEMENTS OF SEWING MACHINES; ACCESSORIES<tr><td width=\"70%\">Driving or control; lubricating or cooling; lighting equipment</td><td><b><b>69/00</b>; <b>71/00</b>; <b>79/00</b></b></td></tr></tr><tr><td width=\"70%\">Accessories<tr><td width=\"70%\">guards for operator</td><td><b><b>83/00</b></b></td></tr></tr><tr><td width=\"70%\">casings; frames or tables; covers or portable enclosures</td><td><b><b>73/00</b>; <b>75/00</b>; <b>77/00</b></b></td></tr></tr></tr></tr><tr><td width=\"70%\">HAND SEWING<tr><td width=\"70%\">Tools and accessories; stitches or stitch seams</td><td><b><b>91/00</b>; <b>93/00</b></b></td></tr></tr><tr><td width=\"70%\">Preparatory or finishing operations</td><td><b><b>95/00</b></b></td></tr></tr><tr><td width=\"70%\">Hand-sewing processes and apparatus for other special work or not otherwise provided for</td><td><b><b>97/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">NEEDLES; NEEDLE-THREADING DEVICES; SEAM-RIPPING</td><td><b><b>85/00</b>; <b>87/00</b>; <b>89/00</b></b></td></tr></tr></table>",
+      "count": 1335,
+      "sourceFile": "ipc_D.txt",
+      "kind": "ipc"
+    },
+    "D05": {
+      "code": "D05",
+      "level": 0,
+      "parent": "D",
+      "ja": "縫製；刺しゅう；タフティング",
+      "en": "SEWING; EMBROIDERING; TUFTING",
+      "count": 0,
+      "sourceFile": "ipc_D.txt",
+      "kind": "ipc"
+    },
+    "D": {
+      "code": "D",
+      "level": 0,
+      "parent": null,
+      "ja": "繊維；紙<br><br><b><ul>注</ul></b><br>このセクションにおいては，下記の用語は以下に示す意味で用いる：<br>―“繊維”は比較的短く，細長い天然または人造の物質よりなるものを意味する；［２０１４．０１］<br>―“フィラメント”はエンドレスまたは準エンドレスで，細長い天然または人造の物質よりなるものを意味する；［２０１４．０１］<br>―“糸”は繊維の単一の集合体を意味し，通常紡績によって製造される；［２０１４．０１］<br>―“より糸”は糸またはフィラメントの集合体を意味し，通常加ねんによって製造される；［２０１４．０１］<br>―“合成”繊維またはフィラメントはポリマーまたは低分子を合成させたものから製造される繊維またはフィラメントまたは類似物を意味する。例は，ポリアミド，アクリル，ポリエステルまたは炭素繊維である；［２０１４．０１］<br>―“人工”繊維またはフィラメントは天然ポリマーまたはその派生物から人が製造した繊維またはフィラメントまたは類似物を意味する。例は，再生セルロース繊維または半合成繊維である；［２０１４．０１］<br>―“人造”繊維またはフィラメントは人が製造した繊維またはフィラメントを意味し，“合成”繊維または“人工”繊維を含む。［２０１４．０１］",
+      "en": "TEXTILES; PAPER; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this section, the following terms are used with the meanings indicated: <ul><li>\"fibre\" means a relatively-short, elongated member of natural or man-made material;    </li><li>\"filament\" means an endless or quasi-endless, elongated member of natural or man-made material;    </li><li>\"yarn\" means a unitary assembly of fibres, usually produced by spinning;    </li><li>\"thread\" means an assembly of yarns or filaments, usually produced by twisting;    </li><li>\"synthetic\" fibres or filaments means fibres or filaments or the like manufactured from synthesising polymers or small molecules. Examples are polyamide, acrylic, polyester or carbon fibres;    </li><li>\"artificial\" fibres or filaments means fibres or filaments or the like manufactured by man from natural polymers or their derivatives. Examples are regenerated cellulosic fibres or semi-synthetic fibres;    </li><li>\"man-made&rdquo; fibres or filaments means fibres or filaments which are manufactured by man including &ldquo;synthetic&rdquo; or &ldquo;artificial&rdquo; fibres.    </li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_D.txt",
+      "kind": "ipc"
+    },
+    "D05B1/00": {
+      "code": "D05B1/00",
+      "level": 0,
+      "parent": "D05B",
+      "ja": "針または被縫製物またはその双方が横方向運動のための機構を有しない一般の形の縫製装置または機械",
+      "en": "General types of sewing apparatus or machines without mechanism for lateral movement of the needle or the work or both",
+      "count": 674,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B1/02": {
+      "code": "D05B1/02",
+      "level": 1,
+      "parent": "D05B1/00",
+      "ja": "１本糸の縫い目を作るためのもの",
+      "en": "for making single-thread seams",
+      "count": 250,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B1/04": {
+      "code": "D05B1/04",
+      "level": 2,
+      "parent": "D05B1/02",
+      "ja": "波状縫い目",
+      "en": "Running-stitch seams",
+      "count": 132,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B1/06": {
+      "code": "D05B1/06",
+      "level": 2,
+      "parent": "D05B1/02",
+      "ja": "単環縫い目",
+      "en": "Single chain-stitch seams",
+      "count": 423,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B1/08": {
+      "code": "D05B1/08",
+      "level": 1,
+      "parent": "D05B1/00",
+      "ja": "複数糸の縫い目を作るためのもの",
+      "en": "for making multi-thread seams",
+      "count": 359,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B1/10": {
+      "code": "D05B1/10",
+      "level": 2,
+      "parent": "D05B1/08",
+      "ja": "２重環縫いの縫い目",
+      "en": "Double chain-stitch seams",
+      "count": 568,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B1/12": {
+      "code": "D05B1/12",
+      "level": 2,
+      "parent": "D05B1/08",
+      "ja": "本縫いの縫い目",
+      "en": "Lock-stitch seams",
+      "count": 397,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B1/14": {
+      "code": "D05B1/14",
+      "level": 2,
+      "parent": "D05B1/08",
+      "ja": "環縫いの縫い目と本縫いの縫い目とを組み合わせたものまたは両者のいずれかを選択できるもの",
+      "en": "Combined or alternative chain-stitch and lock-stitch seams",
+      "count": 210,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B1/16": {
+      "code": "D05B1/16",
+      "level": 2,
+      "parent": "D05B1/08",
+      "ja": "ループが確実にからみ合わない疑似本縫いの縫い目（靴または細皮を縫うミシンＤ０５Ｂ１５／０２）",
+      "en": "Pseudo-lock-stitch seams in which the thread loops do not positively interlock(shoe or welt sewing machines <b>D05B15/02</b>)",
+      "count": 18,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B1/18": {
+      "code": "D05B1/18",
+      "level": 2,
+      "parent": "D05B1/08",
+      "ja": "縁を保護または補強するための縫い目（ジグザグミシンＤ０５Ｂ３／０２，Ｄ０５Ｂ３／０４）",
+      "en": "Seams for protecting or securing edges(zig-zag sewing machines <b>D05B3/02</b>, <b>D05B3/04</b>)",
+      "count": 322,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B1/20": {
+      "code": "D05B1/20",
+      "level": 3,
+      "parent": "D05B1/18",
+      "ja": "縁かがり縫いの縫い目",
+      "en": "Overedge seams",
+      "count": 1560,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B1/22": {
+      "code": "D05B1/22",
+      "level": 4,
+      "parent": "D05B1/20",
+      "ja": "綴じ合わせまたは補強用の縫い目を組み合わせたもの",
+      "en": "combined with joining or securing seams",
+      "count": 74,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B1/24": {
+      "code": "D05B1/24",
+      "level": 1,
+      "parent": "D05B1/00",
+      "ja": "ブラインドステッチ縫い目を作るためのもの",
+      "en": "for making blind-stitch seams",
+      "count": 692,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B1/26": {
+      "code": "D05B1/26",
+      "level": 1,
+      "parent": "D05B1/00",
+      "ja": "防水縫い目を作るためのもの（糸の縫い目と溶着縫い目とを同時に作るためのミシンＤ０５Ｂ１７／００）",
+      "en": "for making fluid-tight seams(sewing machines for concurrently making thread and welded seams <b>D05B17/00</b>)",
+      "count": 180,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B3/00": {
+      "code": "D05B3/00",
+      "level": 0,
+      "parent": "D05B",
+      "ja": "飾り縫い目を作るため，ボタン穴を縫うため，開孔を補強するためまたは物品，例．ボタン，を縫い付けるために針または被縫製物またはその双方が横方向運動するための機構を有する縫製装置または機械（プログラム制御されるミシンＤ０５Ｂ１９／００；被縫製物支持体の運動を自動的に制御する装置を有するものＤ０５Ｂ２１／００）［２００６．０１］",
+      "en": "Sewing apparatus or machines with mechanism for lateral movement of the needle or the work or both for making ornamental pattern seams, for sewing buttonholes, for reinforcing openings or for fastening articles, e.g. buttons, by sewing(program-controlled sewing machines <b>D05B19/00</b>; with devices for automatically controlling movement of work-carrier <b>D05B21/00</b>)",
+      "count": 1003,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B3/02": {
+      "code": "D05B3/02",
+      "level": 1,
+      "parent": "D05B3/00",
+      "ja": "針棒運動機構を有するもの",
+      "en": "with mechanisms for needle-bar movement",
+      "count": 3032,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B3/04": {
+      "code": "D05B3/04",
+      "level": 1,
+      "parent": "D05B3/00",
+      "ja": "被縫製物の送り機構を有するもの",
+      "en": "with mechanisms for work feed",
+      "count": 524,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B3/06": {
+      "code": "D05B3/06",
+      "level": 1,
+      "parent": "D05B3/00",
+      "ja": "ボタン穴を縫うためのもの（ボタン穴Ａ４１Ｆ１／０２）",
+      "en": "for sewing buttonholes(buttonholes <b>A41F1/02</b>)",
+      "count": 1659,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B3/08": {
+      "code": "D05B3/08",
+      "level": 2,
+      "parent": "D05B3/06",
+      "ja": "はと目つきボタン穴のためのもの",
+      "en": "for buttonholes with eyelet ends",
+      "count": 536,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B3/10": {
+      "code": "D05B3/10",
+      "level": 1,
+      "parent": "D05B3/00",
+      "ja": "玉縁穴を作るためのもの",
+      "en": "for making piped openings",
+      "count": 413,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B3/12": {
+      "code": "D05B3/12",
+      "level": 1,
+      "parent": "D05B3/00",
+      "ja": "物品を縫い付けるためのもの",
+      "en": "for fastening articles by sewing",
+      "count": 793,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B3/14": {
+      "code": "D05B3/14",
+      "level": 2,
+      "parent": "D05B3/12",
+      "ja": "穴付きボタンまたはプレスボタンを縫い付けるもの",
+      "en": "perforated or press buttons",
+      "count": 889,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B3/16": {
+      "code": "D05B3/16",
+      "level": 2,
+      "parent": "D05B3/12",
+      "ja": "足付きボタンを縫い付けるためのもの",
+      "en": "shank buttons",
+      "count": 141,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B3/18": {
+      "code": "D05B3/18",
+      "level": 2,
+      "parent": "D05B3/12",
+      "ja": "フックまたははと目を縫い付けるためのもの",
+      "en": "hooks or eyelets",
+      "count": 332,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B3/20": {
+      "code": "D05B3/20",
+      "level": 2,
+      "parent": "D05B3/12",
+      "ja": "ラベル（縫製によらない他の方法で布にラベルを付けるものＢ６５Ｃ５／００；ラベルまたはその取り付け手段一般Ｇ０９Ｆ３／００）",
+      "en": "labels(labelling fabrics otherwise than by sewing <b>B65C5/00</b>; labels or securing means therefor, in general <b>G09F3/00</b>)",
+      "count": 307,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B3/22": {
+      "code": "D05B3/22",
+      "level": 2,
+      "parent": "D05B3/12",
+      "ja": "物品，例．ボタン，の供給機構",
+      "en": "Article-, e.g. button-, feed mechanisms therefor",
+      "count": 840,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B3/24": {
+      "code": "D05B3/24",
+      "level": 1,
+      "parent": "D05B3/00",
+      "ja": "アタッチメント，例．分離できる装置，によって変更される一般目的用のミシンにより形成されたもの",
+      "en": "formed by general-purpose sewing machines modified by attachments, e.g. by detachable devices",
+      "count": 677,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B5/00": {
+      "code": "D05B5/00",
+      "level": 0,
+      "parent": "D05B",
+      "ja": "物品，例．一組の靴下，を一時的に連結しておくためのミシン",
+      "en": "Sewing machines for temporarily connecting articles, e.g. pairs of socks",
+      "count": 172,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B7/00": {
+      "code": "D05B7/00",
+      "level": 0,
+      "parent": "D05B",
+      "ja": "リンキングマシン，例．編み物を綴（と）じ合わすためのもの",
+      "en": "Linking machines, e.g. for joining knitted fabrics",
+      "count": 1132,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B9/00": {
+      "code": "D05B9/00",
+      "level": 0,
+      "parent": "D05B",
+      "ja": "ヘムステッチミシン",
+      "en": "Hem-stitch sewing machines",
+      "count": 458,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B11/00": {
+      "code": "D05B11/00",
+      "level": 0,
+      "parent": "D05B",
+      "ja": "キルティングマシンまたはマットレスを縫うための機械（特定の輪郭を縫うための被縫製物保持枠またはミシンの制御Ｄ０５Ｂ２１／００）",
+      "en": "Machines for sewing quilts or mattresses(control of workpiece-holding frames, or of sewing machines, in order to obtain particular seam configuration <b>D05B21/00</b>)",
+      "count": 2618,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B13/00": {
+      "code": "D05B13/00",
+      "level": 0,
+      "parent": "D05B",
+      "ja": "袋を縫うためのミシン",
+      "en": "Machines for sewing sacks",
+      "count": 858,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B13/02": {
+      "code": "D05B13/02",
+      "level": 1,
+      "parent": "D05B13/00",
+      "ja": "内容が詰められたバッグまたは袋をとじるためのもの（バッグまたは袋に内容物を詰める装置を組み合わせたものＢ６５Ｂ）",
+      "en": "for closing filled bags or sacks(combined with bag- or sack-filling apparatus <b>B65B</b>)",
+      "count": 188,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B15/00": {
+      "code": "D05B15/00",
+      "level": 0,
+      "parent": "D05B",
+      "ja": "皮革製品を縫うためのミシン（疑似本縫い縫い目を形成するものＤ０５Ｂ１／１６）",
+      "en": "Machines for sewing leather goods(making pseudo-lock-stitch seams <b>D05B1/16</b>)",
+      "count": 1151,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B15/02": {
+      "code": "D05B15/02",
+      "level": 1,
+      "parent": "D05B15/00",
+      "ja": "靴縫製用ミシン",
+      "en": "Shoe sewing machines",
+      "count": 576,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B15/04": {
+      "code": "D05B15/04",
+      "level": 2,
+      "parent": "D05B15/02",
+      "ja": "本縫い加工のためのもの（Ｄ０５Ｂ１５／０８が優先）",
+      "en": "for lock-stitch work(<b>D05B15/08</b> takes precedence)",
+      "count": 557,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B15/06": {
+      "code": "D05B15/06",
+      "level": 2,
+      "parent": "D05B15/02",
+      "ja": "細皮縫製用ミシン",
+      "en": "Welt sewing machines",
+      "count": 114,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B15/08": {
+      "code": "D05B15/08",
+      "level": 3,
+      "parent": "D05B15/06",
+      "ja": "本縫い加工のためのもの",
+      "en": "for lock-stitch work",
+      "count": 15,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B15/10": {
+      "code": "D05B15/10",
+      "level": 2,
+      "parent": "D05B15/02",
+      "ja": "裏張り用ミシン",
+      "en": "Lining sewing machines",
+      "count": 10,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B17/00": {
+      "code": "D05B17/00",
+      "level": 0,
+      "parent": "D05B",
+      "ja": "糸の縫い目と溶着縫い目とを同時的に作るためのミシン（溶着しない防水縫目を作るためのものＤ０５Ｂ１／２６）",
+      "en": "Sewing machines for concurrently making thread and welded seams(for making non-welded fluid-tight seams <b>D05B1/26</b>)",
+      "count": 206,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B19/00": {
+      "code": "D05B19/00",
+      "level": 0,
+      "parent": "D05B",
+      "ja": "プログラム制御されるミシン（被縫製物支持体の運動を自動的に制御する装置を有するものＤ０５Ｂ２１／００；縫い目が予定位置に達したとき駆動を停止する装置Ｄ０５Ｂ６９／２２）［２００６．０１］",
+      "en": "Program-controlled sewing machines(with devices for automatically controlling movement of work-carrier <b>D05B21/00</b>; devices for stopping drive when sewing tools have reached a predetermined position <b>D05B69/22</b>)",
+      "count": 1946,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B19/02": {
+      "code": "D05B19/02",
+      "level": 1,
+      "parent": "D05B19/00",
+      "ja": "電子メモリまたはマイクロプロセッサ制御ユニットを有するミシン［６］",
+      "en": "Sewing machines having electronic memory or microprocessor control unit",
+      "count": 1280,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B19/04": {
+      "code": "D05B19/04",
+      "level": 2,
+      "parent": "D05B19/02",
+      "ja": "メモリ観点に特徴のあるもの［６］",
+      "en": "characterised by memory aspects",
+      "count": 299,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B19/06": {
+      "code": "D05B19/06",
+      "level": 3,
+      "parent": "D05B19/04",
+      "ja": "メモリの物理的交換［６］",
+      "en": "Physical exchange of memory",
+      "count": 77,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B19/08": {
+      "code": "D05B19/08",
+      "level": 3,
+      "parent": "D05B19/04",
+      "ja": "メモリに縫い目または模様データを入力する装置［６］",
+      "en": "Arrangements for inputting stitch or pattern data to memory",
+      "count": 967,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B19/10": {
+      "code": "D05B19/10",
+      "level": 3,
+      "parent": "D05B19/04",
+      "ja": "メモリから縫い目または模様データの組合せを選ぶ装置［６］",
+      "en": "Arrangements for selecting combinations of stitch or pattern data from memory",
+      "count": 860,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B19/12": {
+      "code": "D05B19/12",
+      "level": 2,
+      "parent": "D05B19/02",
+      "ja": "機械の操作制御に特徴のあるもの［６］",
+      "en": "characterised by control of operation of machine",
+      "count": 1535,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B19/14": {
+      "code": "D05B19/14",
+      "level": 3,
+      "parent": "D05B19/12",
+      "ja": "針の運動の制御，例．針運動の振幅または周期を変えるもの［６］",
+      "en": "Control of needle movement, e.g. varying amplitude or period of needle movement",
+      "count": 535,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B19/16": {
+      "code": "D05B19/16",
+      "level": 3,
+      "parent": "D05B19/12",
+      "ja": "被縫製物の運動の制御，例．送り歯の移動の調節［６］",
+      "en": "Control of workpiece movement, e.g. modulation of travel of feed dog",
+      "count": 911,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B21/00": {
+      "code": "D05B21/00",
+      "level": 0,
+      "parent": "D05B",
+      "ja": "特定な輪郭を縫うために縫い目形成機構に関して被縫製物支持体の運動を自動的に制御する装置を備えたミシン，例．えりを縫うため，ポケット付けのためにプログラム制御されるミシン［２００６．０１］",
+      "en": "Sewing machines with devices for automatically controlling movement of work-carrier relative to stitch-forming mechanism in order to obtain particular configuration of seam, e.g. program-controlled for sewing collars or for attaching pockets",
+      "count": 4315,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B23/00": {
+      "code": "D05B23/00",
+      "level": 0,
+      "parent": "D05B",
+      "ja": "他に分類されない縫製装置または機械（ファスナを作るためのものＡ４４Ｂ１９／００）",
+      "en": "Sewing apparatus or machines not otherwise provided for(for making zip closures <b>A44B19/00</b>)",
+      "count": 3522,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B25/00": {
+      "code": "D05B25/00",
+      "level": 0,
+      "parent": "D05B",
+      "ja": "複数のミシンの組合せからなる縫製ユニット",
+      "en": "Sewing units consisting of combinations of several sewing machines",
+      "count": 1330,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B27/00": {
+      "code": "D05B27/00",
+      "level": 0,
+      "parent": "D05B",
+      "ja": "ミシンの被縫製物送り装置",
+      "en": "Work-feeding means for sewing machines",
+      "count": 2304,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B27/02": {
+      "code": "D05B27/02",
+      "level": 1,
+      "parent": "D05B27/00",
+      "ja": "水平および垂直運動する送り歯を有するもの",
+      "en": "with feed dogs having horizontal and vertical movements",
+      "count": 2083,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B27/04": {
+      "code": "D05B27/04",
+      "level": 2,
+      "parent": "D05B27/02",
+      "ja": "被縫製物の上方に配置されたもの",
+      "en": "arranged above the workpieces",
+      "count": 723,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B27/06": {
+      "code": "D05B27/06",
+      "level": 2,
+      "parent": "D05B27/02",
+      "ja": "被縫製物の上方および下方に配置されたもの",
+      "en": "arranged above and below the workpieces",
+      "count": 307,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B27/08": {
+      "code": "D05B27/08",
+      "level": 2,
+      "parent": "D05B27/02",
+      "ja": "差動送り運動を行うもの",
+      "en": "with differential feed motions",
+      "count": 644,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B27/10": {
+      "code": "D05B27/10",
+      "level": 1,
+      "parent": "D05B27/00",
+      "ja": "回転円形送り部材を有するもの",
+      "en": "with rotary circular feed members",
+      "count": 1426,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B27/12": {
+      "code": "D05B27/12",
+      "level": 2,
+      "parent": "D05B27/10",
+      "ja": "連続的に回転するもの",
+      "en": "rotating continuously",
+      "count": 218,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B27/14": {
+      "code": "D05B27/14",
+      "level": 2,
+      "parent": "D05B27/10",
+      "ja": "非連続的に回転するもの",
+      "en": "rotating discontinuously",
+      "count": 340,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B27/16": {
+      "code": "D05B27/16",
+      "level": 2,
+      "parent": "D05B27/10",
+      "ja": "差動送り運動を行うもの",
+      "en": "with differential feed motions",
+      "count": 156,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B27/18": {
+      "code": "D05B27/18",
+      "level": 2,
+      "parent": "D05B27/10",
+      "ja": "フィードカップによるもの",
+      "en": "Feed cups",
+      "count": 1047,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B27/20": {
+      "code": "D05B27/20",
+      "level": 1,
+      "parent": "D05B27/00",
+      "ja": "縫い針によって構成されたもの",
+      "en": "constituted by sewing needles",
+      "count": 176,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B27/22": {
+      "code": "D05B27/22",
+      "level": 1,
+      "parent": "D05B27/00",
+      "ja": "縫い目長さを設定するための装置を有するもの",
+      "en": "with means for setting length of stitch",
+      "count": 1596,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B27/24": {
+      "code": "D05B27/24",
+      "level": 1,
+      "parent": "D05B27/00",
+      "ja": "送り歯昇降装置",
+      "en": "Feed-dog lifting and lowering devices",
+      "count": 653,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B27/26": {
+      "code": "D05B27/26",
+      "level": 1,
+      "parent": "D05B27/00",
+      "ja": "皮革縫製用ミシンのためのもの",
+      "en": "in machines for sewing leather",
+      "count": 47,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B29/00": {
+      "code": "D05B29/00",
+      "level": 0,
+      "parent": "D05B",
+      "ja": "ミシンの押えまたは押え足（送りのためのものＤ０５Ｂ２７／０４）",
+      "en": "Pressers or presser feet for sewing machines(for feeding <b>D05B27/04</b>)",
+      "count": 3101,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B29/02": {
+      "code": "D05B29/02",
+      "level": 1,
+      "parent": "D05B29/00",
+      "ja": "押え調節装置",
+      "en": "Presser-control devices",
+      "count": 4714,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B29/04": {
+      "code": "D05B29/04",
+      "level": 1,
+      "parent": "D05B29/00",
+      "ja": "皮革縫製用ミシンの押え",
+      "en": "Pressers in machines for sewing leather",
+      "count": 67,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B29/06": {
+      "code": "D05B29/06",
+      "level": 1,
+      "parent": "D05B29/00",
+      "ja": "押え足",
+      "en": "Presser feet",
+      "count": 4815,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B29/08": {
+      "code": "D05B29/08",
+      "level": 2,
+      "parent": "D05B29/06",
+      "ja": "相対的に動きうる部材からなるもの",
+      "en": "comprising relatively-movable parts",
+      "count": 583,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B29/10": {
+      "code": "D05B29/10",
+      "level": 2,
+      "parent": "D05B29/06",
+      "ja": "ローラを有するもの",
+      "en": "with rollers",
+      "count": 275,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B29/12": {
+      "code": "D05B29/12",
+      "level": 1,
+      "parent": "D05B29/00",
+      "ja": "押え足の取り付け",
+      "en": "Presser-foot attachment",
+      "count": 857,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B31/00": {
+      "code": "D05B31/00",
+      "level": 0,
+      "parent": "D05B",
+      "ja": "皮革縫製用ミシンの被縫製物の保持体または押えつけ体",
+      "en": "Workpiece holders or hold-downs in machines for sewing leather",
+      "count": 251,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B31/02": {
+      "code": "D05B31/02",
+      "level": 1,
+      "parent": "D05B31/00",
+      "ja": "細皮案内",
+      "en": "Welt guides",
+      "count": 29,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B33/00": {
+      "code": "D05B33/00",
+      "level": 0,
+      "parent": "D05B",
+      "ja": "被縫製物の供給または縫製物除去のためのミシンに取り付けられた装置",
+      "en": "Devices incorporated in sewing machines for supplying or removing the work",
+      "count": 3865,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B33/02": {
+      "code": "D05B33/02",
+      "level": 1,
+      "parent": "D05B33/00",
+      "ja": "ミシンの被縫製物送り装置と同期して作動するように連結されたもの",
+      "en": "and connected, for synchronous operation, with the work-feeding devices of the sewing machine",
+      "count": 633,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B35/00": {
+      "code": "D05B35/00",
+      "level": 0,
+      "parent": "D05B",
+      "ja": "他に分類されないミシンの被縫製物の送りまたは取り扱い要素",
+      "en": "Work-feeding or work-handling elements for sewing machines, not otherwise provided for",
+      "count": 11476,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B35/02": {
+      "code": "D05B35/02",
+      "level": 1,
+      "parent": "D05B35/00",
+      "ja": "縫い合わせを容易にするためのもの；縁折り要素；縁付け機",
+      "en": "for facilitating seaming; Hem-turning elements; Hemmers",
+      "count": 4368,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B35/04": {
+      "code": "D05B35/04",
+      "level": 2,
+      "parent": "D05B35/02",
+      "ja": "動きうる加工具を有するもの",
+      "en": "with movable tools",
+      "count": 453,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B35/06": {
+      "code": "D05B35/06",
+      "level": 1,
+      "parent": "D05B35/00",
+      "ja": "バンド，リボン，細片またはテープを取り付けるためのもの，または縁付けのためのもの",
+      "en": "for attaching bands, ribbons, strips, or tapes or for binding",
+      "count": 7363,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B35/08": {
+      "code": "D05B35/08",
+      "level": 1,
+      "parent": "D05B35/00",
+      "ja": "ルーシュかざり，ギャザつけ，ケーシングつけもしくはレース，リボンまたは縁取り材料のとりつけのためのもの；プリーツつけ器；カットラー；ギャザつけ用押え金；クリンプつけ器；カーラー；ひだ取り器",
+      "en": "for ruching, gathering, casing, or filling lace, ribbons, or bindings; Pleating devices; Cuttlers; Gathering feet; Crimpers; Curlers; Rufflers",
+      "count": 2679,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B35/10": {
+      "code": "D05B35/10",
+      "level": 1,
+      "parent": "D05B35/00",
+      "ja": "縁案内",
+      "en": "Edge guides",
+      "count": 2296,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B35/12": {
+      "code": "D05B35/12",
+      "level": 1,
+      "parent": "D05B35/00",
+      "ja": "被縫製物の位置決めのための指示具，例．目盛付きものさしを有するもの",
+      "en": "Indicators for positioning work, e.g. with graduated scales",
+      "count": 954,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B37/00": {
+      "code": "D05B37/00",
+      "level": 0,
+      "parent": "D05B",
+      "ja": "スリット，みぞ付けまたは切断をするためのミシンに取り付けられた装置（縫い糸を切断するものＤ０５Ｂ６５／００）",
+      "en": "Devices incorporated in sewing machines for slitting, grooving, or cutting(severing sewing-threads <b>D05B65/00</b>)",
+      "count": 401,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B37/02": {
+      "code": "D05B37/02",
+      "level": 1,
+      "parent": "D05B37/00",
+      "ja": "スリットまたはみぞ付け装置",
+      "en": "Slitting or grooving devices",
+      "count": 617,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B37/04": {
+      "code": "D05B37/04",
+      "level": 1,
+      "parent": "D05B37/00",
+      "ja": "切断装置",
+      "en": "Cutting devices",
+      "count": 2821,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B37/06": {
+      "code": "D05B37/06",
+      "level": 2,
+      "parent": "D05B37/04",
+      "ja": "揺動工具を有するもの",
+      "en": "with oscillating tools",
+      "count": 848,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B37/08": {
+      "code": "D05B37/08",
+      "level": 2,
+      "parent": "D05B37/04",
+      "ja": "回転工具を有するもの",
+      "en": "with rotatable tools",
+      "count": 301,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B37/10": {
+      "code": "D05B37/10",
+      "level": 2,
+      "parent": "D05B37/04",
+      "ja": "加熱された工具を有するもの",
+      "en": "with heated tools",
+      "count": 244,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B39/00": {
+      "code": "D05B39/00",
+      "level": 0,
+      "parent": "D05B",
+      "ja": "ミシンの被縫製物支持体（特定の輪郭を縫うために被縫製物支持体の運動を自動的に制御するためのものＤ０５Ｂ２１／００；一般Ａ４１Ｈ１５／００）",
+      "en": "Workpiece carriers for sewing machines(for automatically controlling movement of work-carrier to obtain particular configuration of seam <b>D05B21/00</b>; in general <b>A41H15/00</b>)",
+      "count": 3453,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B41/00": {
+      "code": "D05B41/00",
+      "level": 0,
+      "parent": "D05B",
+      "ja": "ミシンの縫製物収集装置",
+      "en": "Work-collecting devices for sewing machines",
+      "count": 1584,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B43/00": {
+      "code": "D05B43/00",
+      "level": 0,
+      "parent": "D05B",
+      "ja": "ミシンに取り付けられた糸立棒装置",
+      "en": "Spool-pin assemblies incorporated in sewing machines",
+      "count": 1428,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B45/00": {
+      "code": "D05B45/00",
+      "level": 0,
+      "parent": "D05B",
+      "ja": "ミシンに使用される糸の長さを決定するための測定装置の適用（刺しゅう機の測定装置Ｄ０５Ｃ，一般Ｇ０１Ｂ）",
+      "en": "Applications of measuring devices for determining the length of threads used in sewing machines(measuring devices in embroidery machines <b>D05C</b>, in general <b>G01B</b>)",
+      "count": 565,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B47/00": {
+      "code": "D05B47/00",
+      "level": 0,
+      "parent": "D05B",
+      "ja": "ミシンの針糸張力装置；ミシンにおける張力計の適用",
+      "en": "Needle-thread tensioning devices for sewing machines; Applications of tensometers in sewing machines",
+      "count": 1082,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B47/02": {
+      "code": "D05B47/02",
+      "level": 1,
+      "parent": "D05B47/00",
+      "ja": "手動張力調節装置",
+      "en": "Manually-controlled tensioning devices",
+      "count": 649,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B47/04": {
+      "code": "D05B47/04",
+      "level": 1,
+      "parent": "D05B47/00",
+      "ja": "自動張力調節装置",
+      "en": "Automatically-controlled tensioning devices",
+      "count": 1563,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B47/06": {
+      "code": "D05B47/06",
+      "level": 1,
+      "parent": "D05B47/00",
+      "ja": "張力計の適用（薄い材料またはフィラメント状材料の取り扱いにおける張力指示器の適用Ｂ６５Ｈ５９／４０；刺しゅう機に対するものＤ０５Ｃ１１／０８；張力計一般Ｇ０１Ｌ）",
+      "en": "Applications of tensometers(application of tension indicators in handling thin or filamentary material <b>B65H59/40</b>; for embroidery machines <b>D05C11/08</b>; tensometers in general <b>G01L</b>)",
+      "count": 112,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B49/00": {
+      "code": "D05B49/00",
+      "level": 0,
+      "parent": "D05B",
+      "ja": "ミシンの天びん装置，例．針糸のためのレバー",
+      "en": "Take-up devices, e.g. levers, for the needle thread of sewing machines",
+      "count": 776,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B49/02": {
+      "code": "D05B49/02",
+      "level": 1,
+      "parent": "D05B49/00",
+      "ja": "カムまたはリンクにより作動されるもの",
+      "en": "operated by cams or linkages",
+      "count": 418,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B49/04": {
+      "code": "D05B49/04",
+      "level": 1,
+      "parent": "D05B49/00",
+      "ja": "回転するもの",
+      "en": "rotary",
+      "count": 165,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B49/06": {
+      "code": "D05B49/06",
+      "level": 1,
+      "parent": "D05B49/00",
+      "ja": "皮革縫製用ミシンのためのもの",
+      "en": "for machines for sewing leather",
+      "count": 6,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B51/00": {
+      "code": "D05B51/00",
+      "level": 0,
+      "parent": "D05B",
+      "ja": "ミシンにおける針糸保護の適用；ミシンの糸切れ検出器（刺しゅう機のためのものＤ０５Ｃ１１／００）",
+      "en": "Applications of needle-thread guards in sewing machines; Thread-break detectors for sewing machines(for embroidery machines <b>D05C11/00</b>)",
+      "count": 1884,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B53/00": {
+      "code": "D05B53/00",
+      "level": 0,
+      "parent": "D05B",
+      "ja": "ミシンの糸またはコードを掛ける機構；ミシンの糸指片",
+      "en": "Thread- or cord-laying mechanisms for sewing machines; Thread fingers for sewing machines",
+      "count": 1048,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B55/00": {
+      "code": "D05B55/00",
+      "level": 0,
+      "parent": "D05B",
+      "ja": "ミシンの針支持具；ミシンの針棒（針Ｄ０５Ｂ８５／００）",
+      "en": "Needle holders for sewing machines; Needle bars for sewing machines(needles <b>D05B85/00</b>)",
+      "count": 929,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B55/02": {
+      "code": "D05B55/02",
+      "level": 1,
+      "parent": "D05B55/00",
+      "ja": "針棒に針を固定する装置",
+      "en": "Devices for fastening needles to needle bars",
+      "count": 675,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B55/04": {
+      "code": "D05B55/04",
+      "level": 1,
+      "parent": "D05B55/00",
+      "ja": "針をそう入する装置",
+      "en": "Devices for inserting needles",
+      "count": 74,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B55/06": {
+      "code": "D05B55/06",
+      "level": 1,
+      "parent": "D05B55/00",
+      "ja": "針案内；針保護具（手指保護装置Ｄ０５Ｂ８３／００）",
+      "en": "Needle guides; Needle protectors(finger-protecting devices <b>D05B83/00</b>)",
+      "count": 388,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B55/08": {
+      "code": "D05B55/08",
+      "level": 1,
+      "parent": "D05B55/00",
+      "ja": "曲がり針のための駆動装置",
+      "en": "Driving arrangements for curved needles",
+      "count": 43,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B55/10": {
+      "code": "D05B55/10",
+      "level": 1,
+      "parent": "D05B55/00",
+      "ja": "多針ミシンのための針棒",
+      "en": "Needle bars for multiple-needle sewing machines",
+      "count": 330,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B55/12": {
+      "code": "D05B55/12",
+      "level": 2,
+      "parent": "D05B55/10",
+      "ja": "針の間隔を変更する装置を有するもの",
+      "en": "with provision for varying the distance between the needles",
+      "count": 241,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B55/14": {
+      "code": "D05B55/14",
+      "level": 1,
+      "parent": "D05B55/00",
+      "ja": "針棒の駆動",
+      "en": "Needle-bar drives",
+      "count": 2359,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B55/16": {
+      "code": "D05B55/16",
+      "level": 2,
+      "parent": "D05B55/14",
+      "ja": "個々の針棒を作動しないようにする装置を有するもの",
+      "en": "with provision for disengaging individual needle bars",
+      "count": 321,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B57/00": {
+      "code": "D05B57/00",
+      "level": 0,
+      "parent": "D05B",
+      "ja": "ミシンのループ捕そく器，例．ルーパー",
+      "en": "Loop takers, e.g. loopers, for sewing machines",
+      "count": 760,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B57/02": {
+      "code": "D05B57/02",
+      "level": 1,
+      "parent": "D05B57/00",
+      "ja": "環縫いミシンのためのもの，例．揺動するもの",
+      "en": "for chain-stitch sewing machines, e.g. oscillating",
+      "count": 988,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B57/04": {
+      "code": "D05B57/04",
+      "level": 2,
+      "parent": "D05B57/02",
+      "ja": "回転するもの",
+      "en": "rotary",
+      "count": 78,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B57/06": {
+      "code": "D05B57/06",
+      "level": 1,
+      "parent": "D05B57/00",
+      "ja": "縁かがり縫いミシンのためのもの",
+      "en": "for overedge-stitch sewing machines",
+      "count": 217,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B57/08": {
+      "code": "D05B57/08",
+      "level": 1,
+      "parent": "D05B57/00",
+      "ja": "本縫いミシンのためのもの",
+      "en": "for lock-stitch sewing machines",
+      "count": 178,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B57/10": {
+      "code": "D05B57/10",
+      "level": 2,
+      "parent": "D05B57/08",
+      "ja": "シャットル",
+      "en": "Shuttles",
+      "count": 390,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B57/12": {
+      "code": "D05B57/12",
+      "level": 3,
+      "parent": "D05B57/10",
+      "ja": "揺動するもの",
+      "en": "oscillating",
+      "count": 204,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B57/14": {
+      "code": "D05B57/14",
+      "level": 3,
+      "parent": "D05B57/10",
+      "ja": "回転鉤（かぎ）を有するもの",
+      "en": "with rotary hooks",
+      "count": 2186,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B57/16": {
+      "code": "D05B57/16",
+      "level": 3,
+      "parent": "D05B57/10",
+      "ja": "みぞの中に案内されたボビンケースを有するもの",
+      "en": "with bobbin casings guided in tracks",
+      "count": 73,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B57/18": {
+      "code": "D05B57/18",
+      "level": 3,
+      "parent": "D05B57/10",
+      "ja": "取り外し得るふたによって保持されたボビンケースを有するもの",
+      "en": "with bobbin casings held by removable caps",
+      "count": 79,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B57/20": {
+      "code": "D05B57/20",
+      "level": 3,
+      "parent": "D05B57/10",
+      "ja": "磁力によって保持されたボビンケースを有するもの",
+      "en": "with bobbin casings held by magnetic forces",
+      "count": 70,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B57/22": {
+      "code": "D05B57/22",
+      "level": 2,
+      "parent": "D05B57/08",
+      "ja": "下糸のためのスプール形ボビンを有するもの",
+      "en": "with spool-size bobbin for lower thread",
+      "count": 107,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B57/24": {
+      "code": "D05B57/24",
+      "level": 3,
+      "parent": "D05B57/22",
+      "ja": "すべり運動を調節するために取り付けられた下糸パッケージを有するもの",
+      "en": "with lower-thread packages mounted for controlled sliding movements",
+      "count": 24,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B57/26": {
+      "code": "D05B57/26",
+      "level": 1,
+      "parent": "D05B57/00",
+      "ja": "ボビン支持具またはボビンケース；ボビン支持具もしくはボビンケースの保護具；ボビン放出装置",
+      "en": "Bobbin holders or casings; Bobbin holder or case guards; Bobbin discharge devices",
+      "count": 1547,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B57/28": {
+      "code": "D05B57/28",
+      "level": 1,
+      "parent": "D05B57/00",
+      "ja": "下糸を貯蔵するためのボビンの適用",
+      "en": "Applications of bobbins for storing the lower thread",
+      "count": 345,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B57/30": {
+      "code": "D05B57/30",
+      "level": 1,
+      "parent": "D05B57/00",
+      "ja": "ループ捕そく器のための駆動装置",
+      "en": "Driving-gear for loop takers",
+      "count": 610,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B57/32": {
+      "code": "D05B57/32",
+      "level": 2,
+      "parent": "D05B57/30",
+      "ja": "環縫いミシンにおけるもの",
+      "en": "in chain-stitch sewing machines",
+      "count": 213,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B57/34": {
+      "code": "D05B57/34",
+      "level": 2,
+      "parent": "D05B57/30",
+      "ja": "縁かがり縫いミシンにおけるもの",
+      "en": "in overedge-stitch sewing machines",
+      "count": 166,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B57/36": {
+      "code": "D05B57/36",
+      "level": 2,
+      "parent": "D05B57/30",
+      "ja": "本縫いミシンにおけるもの",
+      "en": "in lock-stitch sewing machines",
+      "count": 253,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B57/38": {
+      "code": "D05B57/38",
+      "level": 3,
+      "parent": "D05B57/36",
+      "ja": "シャットルの駆動",
+      "en": "Shuttle drives",
+      "count": 266,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B59/00": {
+      "code": "D05B59/00",
+      "level": 0,
+      "parent": "D05B",
+      "ja": "ミシンの下糸巻き取り装置またはボビンの交換装置の適用；それらと組み合わされた指示装置または制御装置",
+      "en": "Applications of bobbin-winding or -changing devices in sewing machines; Indicating or control devices associated therewith",
+      "count": 1501,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B59/02": {
+      "code": "D05B59/02",
+      "level": 1,
+      "parent": "D05B59/00",
+      "ja": "ボビンに残された糸の長さの測定または指示のための装置",
+      "en": "Devices for determining or indicating the length of thread still on the bobbin",
+      "count": 641,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B59/04": {
+      "code": "D05B59/04",
+      "level": 1,
+      "parent": "D05B59/00",
+      "ja": "ボビンの交換装置",
+      "en": "Devices for changing the bobbin",
+      "count": 498,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B61/00": {
+      "code": "D05B61/00",
+      "level": 0,
+      "parent": "D05B",
+      "ja": "ループ保持部片；ミシンのループ拡開部片；ミシンの縫い目形成指片",
+      "en": "Loop holders; Loop spreaders for sewing machines; Stitch-forming fingers for sewing machines",
+      "count": 305,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B63/00": {
+      "code": "D05B63/00",
+      "level": 0,
+      "parent": "D05B",
+      "ja": "ミシンのループ捕そく器の糸と関連した装置，例．糸緊張のためのもの",
+      "en": "Devices associated with the loop-taker thread of sewing machines, e.g. for tensioning",
+      "count": 785,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B63/02": {
+      "code": "D05B63/02",
+      "level": 1,
+      "parent": "D05B63/00",
+      "ja": "ループ捕そく器の糸の取り上げレバー",
+      "en": "Loop-taker thread take-up levers",
+      "count": 51,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B63/04": {
+      "code": "D05B63/04",
+      "level": 1,
+      "parent": "D05B63/00",
+      "ja": "ループ捕そく器の糸の保護",
+      "en": "Loop-taker thread guards",
+      "count": 113,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B65/00": {
+      "code": "D05B65/00",
+      "level": 0,
+      "parent": "D05B",
+      "ja": "ミシンにおける針糸または下糸を切断するための装置",
+      "en": "Devices for severing the needle or lower thread in sewing machines",
+      "count": 4865,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B65/02": {
+      "code": "D05B65/02",
+      "level": 1,
+      "parent": "D05B65/00",
+      "ja": "ミシンの機構によって制御されるもの",
+      "en": "controlled by the sewing mechanisms",
+      "count": 1939,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B65/04": {
+      "code": "D05B65/04",
+      "level": 1,
+      "parent": "D05B65/00",
+      "ja": "被縫製物によって制御されるもの",
+      "en": "controlled by the workpieces",
+      "count": 99,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B65/06": {
+      "code": "D05B65/06",
+      "level": 1,
+      "parent": "D05B65/00",
+      "ja": "切断された糸を処理するためのもの",
+      "en": "and for disposing of the severed thread end",
+      "count": 1420,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B67/00": {
+      "code": "D05B67/00",
+      "level": 0,
+      "parent": "D05B",
+      "ja": "ミシンに取り付けられた糸の潤滑，ろう引きまたは着色のための装置",
+      "en": "Devices incorporated in sewing machines for lubricating, waxing, or colouring the threads",
+      "count": 403,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B69/00": {
+      "code": "D05B69/00",
+      "level": 0,
+      "parent": "D05B",
+      "ja": "ミシンの駆動装置または制御装置",
+      "en": "Driving-gear or control devices for sewing machines",
+      "count": 3148,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B69/02": {
+      "code": "D05B69/02",
+      "level": 1,
+      "parent": "D05B69/00",
+      "ja": "機械的駆動",
+      "en": "Mechanical drives",
+      "count": 2107,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B69/04": {
+      "code": "D05B69/04",
+      "level": 2,
+      "parent": "D05B69/02",
+      "ja": "手廻し駆動",
+      "en": "Manual drives",
+      "count": 283,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B69/06": {
+      "code": "D05B69/06",
+      "level": 2,
+      "parent": "D05B69/02",
+      "ja": "足踏み駆動",
+      "en": "Pedal drives",
+      "count": 512,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B69/08": {
+      "code": "D05B69/08",
+      "level": 1,
+      "parent": "D05B69/00",
+      "ja": "流体駆動，例．空気による",
+      "en": "Fluid drives, e.g. pneumatic",
+      "count": 431,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B69/10": {
+      "code": "D05B69/10",
+      "level": 1,
+      "parent": "D05B69/00",
+      "ja": "電気または電磁駆動",
+      "en": "Electrical or electromagnetic drives",
+      "count": 3306,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B69/12": {
+      "code": "D05B69/12",
+      "level": 2,
+      "parent": "D05B69/10",
+      "ja": "回転電動機を用いるもの",
+      "en": "using rotary electric motors",
+      "count": 1946,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B69/14": {
+      "code": "D05B69/14",
+      "level": 1,
+      "parent": "D05B69/00",
+      "ja": "変速またはは逆転装置",
+      "en": "Devices for changing speed or for reversing direction of rotation",
+      "count": 235,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B69/16": {
+      "code": "D05B69/16",
+      "level": 2,
+      "parent": "D05B69/14",
+      "ja": "機械的なもの",
+      "en": "mechanical",
+      "count": 392,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B69/18": {
+      "code": "D05B69/18",
+      "level": 2,
+      "parent": "D05B69/14",
+      "ja": "電気的なもの",
+      "en": "electric",
+      "count": 1654,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B69/20": {
+      "code": "D05B69/20",
+      "level": 1,
+      "parent": "D05B69/00",
+      "ja": "形成された縫い目数に応答する制御装置",
+      "en": "Control devices responsive to the number of stitches made",
+      "count": 745,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B69/22": {
+      "code": "D05B69/22",
+      "level": 1,
+      "parent": "D05B69/00",
+      "ja": "縫い具が予定位置に達した時，駆動を停止する装置（電動機制御システム一般Ｈ０２Ｐ）",
+      "en": "Devices for stopping drive when sewing tools have reached a predetermined position(electric motor control systems in general <b>H02P</b>)",
+      "count": 1315,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B69/24": {
+      "code": "D05B69/24",
+      "level": 2,
+      "parent": "D05B69/22",
+      "ja": "縫い具位置の指示または確認のための装置の適用",
+      "en": "Applications of devices for indicating or ascertaining sewing-tool position",
+      "count": 428,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B69/26": {
+      "code": "D05B69/26",
+      "level": 2,
+      "parent": "D05B69/22",
+      "ja": "駆動速度を減少させるための自動装置を有するもの，例．一段または数段階の減速",
+      "en": "with automatic means to reduce speed of drive, e.g. in one or more steps",
+      "count": 406,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B69/28": {
+      "code": "D05B69/28",
+      "level": 1,
+      "parent": "D05B69/00",
+      "ja": "縫い具を位置決めさせる目的のためのサーボ装置の適用",
+      "en": "Applications of servo devices for tool-positioning purposes",
+      "count": 207,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B69/30": {
+      "code": "D05B69/30",
+      "level": 1,
+      "parent": "D05B69/00",
+      "ja": "細部（被縫製物の送り装置Ｄ０５Ｂ２７／００；針棒の駆動Ｄ０５Ｂ５５／１４；ループ捕そく器の駆動Ｄ０５Ｂ５７／３０）",
+      "en": "Details(work-feeding drives <b>D05B27/00</b>; needle-bar drives <b>D05B55/14</b>; loop-taker drives <b>D05B57/30</b>)",
+      "count": 2009,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B69/32": {
+      "code": "D05B69/32",
+      "level": 2,
+      "parent": "D05B69/30",
+      "ja": "防振装置",
+      "en": "Vibration-minimising devices",
+      "count": 303,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B69/34": {
+      "code": "D05B69/34",
+      "level": 2,
+      "parent": "D05B69/30",
+      "ja": "手動輪のクラッチ",
+      "en": "Hand-wheel clutches",
+      "count": 200,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B69/36": {
+      "code": "D05B69/36",
+      "level": 1,
+      "parent": "D05B69/00",
+      "ja": "異常事態発生時，例．糸切れ，の駆動停止装置",
+      "en": "Devices for stopping drive when abnormal conditions occur, e.g. thread breakage",
+      "count": 1086,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B71/00": {
+      "code": "D05B71/00",
+      "level": 0,
+      "parent": "D05B",
+      "ja": "ミシンの潤滑または冷却装置",
+      "en": "Lubricating or cooling devices for sewing machines",
+      "count": 2683,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B71/02": {
+      "code": "D05B71/02",
+      "level": 1,
+      "parent": "D05B71/00",
+      "ja": "ループ捕そく器の潤滑装置",
+      "en": "Loop-taker lubricating devices",
+      "count": 620,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B71/04": {
+      "code": "D05B71/04",
+      "level": 1,
+      "parent": "D05B71/00",
+      "ja": "針の冷却装置",
+      "en": "Needle cooling devices",
+      "count": 235,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B73/00": {
+      "code": "D05B73/00",
+      "level": 0,
+      "parent": "D05B",
+      "ja": "ミシンのケーシング",
+      "en": "Casings for sewing machines",
+      "count": 1247,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B73/02": {
+      "code": "D05B73/02",
+      "level": 1,
+      "parent": "D05B73/00",
+      "ja": "上部ケーシング",
+      "en": "Upper casings",
+      "count": 560,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B73/04": {
+      "code": "D05B73/04",
+      "level": 1,
+      "parent": "D05B73/00",
+      "ja": "下部ケーシング",
+      "en": "Lower casings",
+      "count": 450,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B73/06": {
+      "code": "D05B73/06",
+      "level": 2,
+      "parent": "D05B73/04",
+      "ja": "筒形ベッドミシンのためのもの",
+      "en": "for free-arm sewing machines",
+      "count": 127,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B73/08": {
+      "code": "D05B73/08",
+      "level": 2,
+      "parent": "D05B73/04",
+      "ja": "柱状ベッドミシンのためのもの",
+      "en": "for column-type sewing machines",
+      "count": 64,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B73/10": {
+      "code": "D05B73/10",
+      "level": 2,
+      "parent": "D05B73/04",
+      "ja": "筒形ベッドミシンを平形ベッドミシンに改変するための装置",
+      "en": "Devices for converting free-arm sewing machines into flat-bed machines",
+      "count": 229,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B73/12": {
+      "code": "D05B73/12",
+      "level": 2,
+      "parent": "D05B73/04",
+      "ja": "滑り板；針板",
+      "en": "Slides; Needle plates",
+      "count": 2868,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B75/00": {
+      "code": "D05B75/00",
+      "level": 0,
+      "parent": "D05B",
+      "ja": "ミシンを支持するための枠体，脚部，テーブルまたはその他の備品（家具向きのものＡ４７Ｂ，Ｃ）",
+      "en": "Frames, stands, tables, or other furniture adapted to carry sewing machines(furniture aspects <b>A47B</b>, <b>A47C</b>)",
+      "count": 4341,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B75/02": {
+      "code": "D05B75/02",
+      "level": 1,
+      "parent": "D05B75/00",
+      "ja": "ミシンを格納するためのもの",
+      "en": "for drop-head sewing machines",
+      "count": 369,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B75/04": {
+      "code": "D05B75/04",
+      "level": 1,
+      "parent": "D05B75/00",
+      "ja": "騒音を抑制する装置を有するもの",
+      "en": "with noise-suppressing devices",
+      "count": 151,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B75/06": {
+      "code": "D05B75/06",
+      "level": 1,
+      "parent": "D05B75/00",
+      "ja": "枠体，脚部またはテーブルにミシンのケーシングを取り付けるための装置，例．ちょう番",
+      "en": "Arrangements, e.g. hinges, for mounting sewing-machine casings to frames, stands, or tables",
+      "count": 481,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B77/00": {
+      "code": "D05B77/00",
+      "level": 0,
+      "parent": "D05B",
+      "ja": "ミシン用カバーまたは携帯用ケース",
+      "en": "Covers, or portable enclosures, for sewing machines",
+      "count": 583,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B79/00": {
+      "code": "D05B79/00",
+      "level": 0,
+      "parent": "D05B",
+      "ja": "ミシンの照明装置の取り付けまたは適用",
+      "en": "Incorporations or adaptations of lighting equipment for sewing machines",
+      "count": 1055,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B81/00": {
+      "code": "D05B81/00",
+      "level": 0,
+      "parent": "D05B",
+      "ja": "縫製と関係のない目的，例．送風，研摩，に役立たせる装置を取り付けたミシン",
+      "en": "Sewing machines incorporating devices serving purposes other than sewing, e.g. for blowing air, for grinding",
+      "count": 3742,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B83/00": {
+      "code": "D05B83/00",
+      "level": 0,
+      "parent": "D05B",
+      "ja": "ミシンの作業者に対する傷害を防ぐための防護装置またはその類似装置（機械の安全装置一般Ｆ１６Ｐ）",
+      "en": "Guards or like devices for preventing injury to operator of sewing machines(machine safety devices in general <b>F16P</b>)",
+      "count": 969,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B85/00": {
+      "code": "D05B85/00",
+      "level": 0,
+      "parent": "D05B",
+      "ja": "針（外科用針Ａ６１Ｂ１７／０６；針の製造Ｂ２１Ｇ１／００）",
+      "en": "Needles(surgical needles <b>A61B17/06</b>; manufacture of needles <b>B21G1/00</b>)",
+      "count": 1124,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B85/02": {
+      "code": "D05B85/02",
+      "level": 1,
+      "parent": "D05B85/00",
+      "ja": "目穴を有するもの",
+      "en": "with slotted eyes",
+      "count": 887,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B85/04": {
+      "code": "D05B85/04",
+      "level": 1,
+      "parent": "D05B85/00",
+      "ja": "スプリング針またはひげ針",
+      "en": "Spring or bearded needles",
+      "count": 41,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B85/06": {
+      "code": "D05B85/06",
+      "level": 1,
+      "parent": "D05B85/00",
+      "ja": "曲り針",
+      "en": "Curved needles",
+      "count": 578,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B85/08": {
+      "code": "D05B85/08",
+      "level": 1,
+      "parent": "D05B85/00",
+      "ja": "可とう針",
+      "en": "Flexible needles",
+      "count": 33,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B85/10": {
+      "code": "D05B85/10",
+      "level": 1,
+      "parent": "D05B85/00",
+      "ja": "中空針",
+      "en": "Hollow needles",
+      "count": 49,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B85/12": {
+      "code": "D05B85/12",
+      "level": 1,
+      "parent": "D05B85/00",
+      "ja": "コーティングされた針",
+      "en": "Coated needles",
+      "count": 38,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B85/14": {
+      "code": "D05B85/14",
+      "level": 1,
+      "parent": "D05B85/00",
+      "ja": "ベラ針",
+      "en": "Latch needles",
+      "count": 37,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B87/00": {
+      "code": "D05B87/00",
+      "level": 0,
+      "parent": "D05B",
+      "ja": "針糸通し装置",
+      "en": "Needle-threading devices",
+      "count": 722,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B87/02": {
+      "code": "D05B87/02",
+      "level": 1,
+      "parent": "D05B87/00",
+      "ja": "針の目穴に糸を通すための機械的手段を有するもの",
+      "en": "with mechanical means for moving thread through needle eye",
+      "count": 1073,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B87/04": {
+      "code": "D05B87/04",
+      "level": 1,
+      "parent": "D05B87/00",
+      "ja": "糸通しを補助する光学的装置を有するもの",
+      "en": "with optical devices to assist threading",
+      "count": 141,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B89/00": {
+      "code": "D05B89/00",
+      "level": 0,
+      "parent": "D05B",
+      "ja": "縫い目解き具",
+      "en": "Seam-ripping devices",
+      "count": 126,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B91/00": {
+      "code": "D05B91/00",
+      "level": 0,
+      "parent": "D05B",
+      "ja": "手縫いのための道具，器具または付属品（針，針糸通し具Ｄ０５Ｂ８５／００，Ｄ０５Ｂ８７／００；裁縫師のための器具Ａ４１Ｈ）",
+      "en": "Tools, implements, or accessories for hand sewing(needles, needle threaders <b>D05B85/00</b>, <b>D05B87/00</b>; appliances for the tailoring trade <b>A41H</b>)",
+      "count": 339,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B91/02": {
+      "code": "D05B91/02",
+      "level": 1,
+      "parent": "D05B91/00",
+      "ja": "目打ち",
+      "en": "Bodkins",
+      "count": 69,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B91/04": {
+      "code": "D05B91/04",
+      "level": 1,
+      "parent": "D05B91/00",
+      "ja": "指抜き；指保護物；てのひら保護物",
+      "en": "Thimbles; Finger shields; Palm protectors",
+      "count": 319,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B91/06": {
+      "code": "D05B91/06",
+      "level": 1,
+      "parent": "D05B91/00",
+      "ja": "被縫製物の保持具または支持具",
+      "en": "Work holders or supports",
+      "count": 124,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B91/08": {
+      "code": "D05B91/08",
+      "level": 2,
+      "parent": "D05B91/06",
+      "ja": "キノコ状具；卵形繕い具",
+      "en": "Mushrooms; Darning eggs",
+      "count": 53,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B91/10": {
+      "code": "D05B91/10",
+      "level": 2,
+      "parent": "D05B91/06",
+      "ja": "輪または枠（刺しゅうのためのものＤ０５Ｃ）",
+      "en": "Hoops or frames(for embroidery <b>D05C</b>)",
+      "count": 40,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B91/12": {
+      "code": "D05B91/12",
+      "level": 1,
+      "parent": "D05B91/00",
+      "ja": "道具箱",
+      "en": "Tool receptacles",
+      "count": 716,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B91/14": {
+      "code": "D05B91/14",
+      "level": 1,
+      "parent": "D05B91/00",
+      "ja": "糸巻き立て",
+      "en": "Thread-spool pins",
+      "count": 607,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B91/16": {
+      "code": "D05B91/16",
+      "level": 1,
+      "parent": "D05B91/00",
+      "ja": "糸巻き容器",
+      "en": "Thread-spool receptacles",
+      "count": 207,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B93/00": {
+      "code": "D05B93/00",
+      "level": 0,
+      "parent": "D05B",
+      "ja": "縫い目；手縫いの縫い目列",
+      "en": "Stitches; Stitch seams for hand sewing",
+      "count": 439,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B93/02": {
+      "code": "D05B93/02",
+      "level": 1,
+      "parent": "D05B93/00",
+      "ja": "補助部材，例．びょう，止め金，により補強されたもの",
+      "en": "strengthened by auxiliary elements, e.g. rivets, staples",
+      "count": 26,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B95/00": {
+      "code": "D05B95/00",
+      "level": 0,
+      "parent": "D05B",
+      "ja": "手縫いに関連する準備作業または仕上げ作業",
+      "en": "Preparatory or finishing operations in connection with hand sewing",
+      "count": 35,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B95/04": {
+      "code": "D05B95/04",
+      "level": 1,
+      "parent": "D05B95/00",
+      "ja": "裁縫に先だって材料を柔くすること",
+      "en": "Softening material prior to sewing",
+      "count": 1,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B95/06": {
+      "code": "D05B95/06",
+      "level": 1,
+      "parent": "D05B95/00",
+      "ja": "縫い目を偏平にするもの，たたき打つものまたはプレスするもの（靴の製造におけるものＡ４３Ｄ８／４４）",
+      "en": "Flattening, pounding, or pressing stitched seams(in shoemaking <b>A43D8/44</b>)",
+      "count": 1,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B97/00": {
+      "code": "D05B97/00",
+      "level": 0,
+      "parent": "D05B",
+      "ja": "特殊な被縫製物のための手縫い方法または手縫い装置または他に分類されないもの",
+      "en": "Hand sewing processes or apparatus for special work or not otherwise provided for",
+      "count": 205,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B97/02": {
+      "code": "D05B97/02",
+      "level": 1,
+      "parent": "D05B97/00",
+      "ja": "案内装置",
+      "en": "Hand-guided apparatus",
+      "count": 86,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B97/04": {
+      "code": "D05B97/04",
+      "level": 1,
+      "parent": "D05B97/00",
+      "ja": "繕いのためのもの",
+      "en": "for darning",
+      "count": 22,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B97/06": {
+      "code": "D05B97/06",
+      "level": 2,
+      "parent": "D05B97/04",
+      "ja": "ベラ針またはひげ針を有する装置を用いるもの",
+      "en": "using apparatus with latch or bearded needles",
+      "count": 6,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B97/08": {
+      "code": "D05B97/08",
+      "level": 1,
+      "parent": "D05B97/00",
+      "ja": "特殊糸または特殊ワイヤーを用いるもの",
+      "en": "using special threads or wires",
+      "count": 27,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B97/10": {
+      "code": "D05B97/10",
+      "level": 1,
+      "parent": "D05B97/00",
+      "ja": "ボタンまたはファスナを取り付けるためのもの",
+      "en": "for attaching buttons or fasteners",
+      "count": 77,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    },
+    "D05B97/12": {
+      "code": "D05B97/12",
+      "level": 1,
+      "parent": "D05B97/00",
+      "ja": "あて布または類似の布の小片を取り付けるためのもの",
+      "en": "for attaching patches or like small pieces of fabric",
+      "count": 103,
+      "sourceFile": "ipc_D05B.txt",
+      "kind": "ipc"
+    }
+  }
+};

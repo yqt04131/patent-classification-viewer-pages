@@ -1,0 +1,856 @@
+window.IPC_SHARD_C01D = {
+  "generatedAt": "2026-03-20T02:17:46.378Z",
+  "total": 85,
+  "entries": {
+    "C01D": {
+      "code": "C01D",
+      "level": 0,
+      "parent": "C01",
+      "ja": "アルカリ金属，すなわちリチウム，ナトリウム，カリウム，ルビジウム，セシウムまたはフランシウムの化合物（金属水素化物Ｃ０１Ｂ６／００；ハロゲンのオキシ酸塩Ｃ０１Ｂ１１／００；過酸化物，ペルオキシ酸塩Ｃ０１Ｂ１５／００；硫化物または多硫化物Ｃ０１Ｂ１７／２２；チオ硫酸塩，亜二チオン酸塩，多チオン酸塩Ｃ０１Ｂ１７／６４；セレンまたはテルル含有化合物Ｃ０１Ｂ１９／００；金属と窒素から成る二元化合物Ｃ０１Ｂ２１／０６；アジ化物Ｃ０１Ｂ２１／０８；金属アミドＣ０１Ｂ２１／０９２；亜硝酸塩Ｃ０１Ｂ２１／５０；りん化物Ｃ０１Ｂ２５／０８；りんのオキシ酸塩Ｃ０１Ｂ２５／１６；炭化物Ｃ０１Ｂ３２／９０；けい素含有化合物Ｃ０１Ｂ３３／００；ほう素含有化合物Ｃ０１Ｂ３５／００；シアン化物Ｃ０１Ｃ３／０８；シアン酸塩Ｃ０１Ｃ３／１４；シアナミドの塩Ｃ０１Ｃ３／１６；チオシアン酸塩Ｃ０１Ｃ３／２０；発酵によるかまたは酵素を使用した元素または二酸化炭素以外の無機化合物の製造Ｃ１２Ｐ３／００；混合物，例．鉱石，からの金属化合物，すなわち単体金属を取得するための冶金的方法における中間体化合物の取得Ｃ２２Ｂ；電気分解または電気泳動による非金属元素または無機化合物の製造Ｃ２５Ｂ）<br><br><b><ul>注</ul></b><br>（１）サブクラスＣ０１ＢからＣ０１Ｇに適用するラストプレイス優先ルールを規定するクラスＣ０１に続くクラス注（１）に注意すること［８］<br>（２）化合物の治療活性は，サブクラスＡ６１Ｐにさらに分類する。［７］",
+      "en": "COMPOUNDS OF ALKALI METALS, i.e. LITHIUM, SODIUM, POTASSIUM, RUBIDIUM, CAESIUM, OR FRANCIUM(metal hydrides <b>C01B6/00</b>;  salts of oxyacids of halogens <b>C01B11/00</b>;  peroxides, salts of peroxyacids <b>C01B15/00</b>;  sulfides or polysulfides <b>C01B17/22</b>;  thiosulfates, dithionites, polythionates <b>C01B17/64</b>;  compounds containing selenium or tellurium <b>C01B19/00</b>;  binary compounds of nitrogen with metals <b>C01B21/06</b>;  azides <b>C01B21/08</b>;  metal amides <b>C01B21/092</b>;  nitrites <b>C01B21/50</b>;  phosphides <b>C01B25/08</b>;  salts of oxyacids of phosphorus <b>C01B25/16</b>;  carbides <b>C01B32/90</b>;  compounds containing silicon <b>C01B33/00</b>;  compounds containing boron <b>C01B35/00</b>;  cyanides <b>C01C3/08</b>;  salts of cyanic acid <b>C01C3/14</b>;  salts of cyanamide <b>C01C3/16</b>;  thiocyanates <b>C01C3/20</b>;  fermentation or enzyme-using processes for the preparation of elements or inorganic compounds except carbon dioxide <b>C12P3/00</b>;  obtaining metal compounds from mixtures, e.g. ores, which are intermediate compounds in a metallurgical process for obtaining a free metal <b>C22B</b>;  production of non-metallic elements or inorganic compounds by electrolysis or electrophoresis <b>C25B</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>Attention is drawn to Note (1) after class <b>C01</b>, which defines the last place priority rule applied in this class, i.e. in the range of subclasses <b>C01B to C01G</b>  and within these subclasses.</li><li>Therapeutic activity of compounds is further classified in subclass <b>A61P</b>.</li></ul>",
+      "count": 347,
+      "sourceFile": "ipc_C.txt",
+      "kind": "ipc"
+    },
+    "C01": {
+      "code": "C01",
+      "level": 0,
+      "parent": "C",
+      "ja": "無機化学<br><br><b><ul>注</ul></b><br>（１）サブクラスＣ０１Ｂ～Ｃ０１Ｇにおいては，ラストプレイス優先ルールが適用される，すなわち各階層レベルにおいて相反する指示のない限り，化合物は最後の適切な箇所に分類する，例．過マンガン酸カリウムは，サブクラスＣ０１Ｇに過マンガン酸塩としてのみ分類する［３］<br>（２）化合物または組成物の殺生物，有害生物忌避，有害生物誘引または植物生長調節活性は，さらにサブクラスＡ０１Ｐに分類する。［８］",
+      "en": "INORGANIC CHEMISTRY; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In subclasses <b>C01B to C01G</b> , the last place priority rule is applied, i.e. at each hierarchical level, in the absence of an indication to the contrary, a compound is classified in the last appropriate place, e.g. potassium permanganate is classified only as a permanganate compound, in subclass <b>C01G</b>.  </li><li>Biocidal, pest repellant, pest attractant or plant growth regulatory activity of compounds or preparations is further classified in subclass <b>A01P</b>.  </li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_C.txt",
+      "kind": "ipc"
+    },
+    "C": {
+      "code": "C",
+      "level": 0,
+      "parent": null,
+      "ja": "化学；冶金<br><br><b><ul>注</ul></b><br>（１）セクションＣにおいて，化学元素の種類に関する定義は次の通りである：<br>アルカリ金属：Ｌｉ，Ｎａ，Ｋ，Ｒｂ，Ｃｓ，Ｆｒ<br>アルカリ土類金属：Ｃａ，Ｓｒ，Ｂａ，Ｒａ<br>ランタニド：原子番号５７から７１までの元素<br>希土類：Ｓｃ，Ｙ，ランタニド<br>アクチニド：原子番号８９から１０３までの元素<br>耐火金属：Ｔｉ，Ｖ，Ｃｒ，Ｚｒ，Ｎｂ，Ｍｏ，Ｈｆ，Ｔａ，Ｗ<br>ハロゲン：Ｆ，Ｃｌ，Ｂｒ，Ｉ，Ａｔ<br>希ガス：Ｈｅ，Ｎｅ，Ａｒ，Ｋｒ，Ｘｅ，Ｒｎ<br>白金族：Ｏｓ，Ｉｒ，Ｐｔ，Ｒｕ，Ｒｈ，Ｐｄ<br>貴金属：Ａｇ，Ａｕ，白金族<br>軽金属：アルカリ金属，アルカリ土類金属，Ｂｅ，Ａｌ，Ｍｇ<br>重金属：軽金属以外の金属<br>鉄族：Ｆｅ，Ｃｏ，Ｎｉ<br>非金属：Ｈ，Ｂ，Ｃ，Ｓｉ，Ｎ，Ｐ，Ｏ，Ｓ，Ｓｅ，Ｔｅ，希ガス，ハロゲン<br>金属：非金属以外の元素<br>遷移元素：原子番号２１から３０まで，３９から４８まで，５７から８０まで，８９以上の元素<br>（２）Ｃセクションは以下のものを包含する：<br>（ａ）無機化合物，有機化合物，高分子化合物およびそれらの調製法を包含する純粋化学；<br>（ｂ）たとえばガラス，セラミック，肥料，プラスチック組成物，ペイント，石油工業の製品のような上記化合物を含有する組成物を包含する応用化学。それはまた，爆発物，染料，接着剤，潤滑剤および洗剤のように，ある目的に適した特別の性質をもつための組成物をも包含する；<br>（ｃ）コークスの製造，固体または気体燃料の製造，油脂およびろうの製造および精製，発酵工業（例．ビールおよびぶどう酒の製造），製糖工業のようなある境界工業；<br>（ｄ）ある操作または処理であって，純粋に機械的な処理，例．レザーおよび皮の機械的処理，または部分的機械的処理，例．水処理，または腐食防止一般であるもの；<br>（ｅ）冶金，鉄または非鉄合金<br>（３）ＩＰＣの全てのセクションにおいて，相反する指示がない限り，元素記号周期表への言及は，以下に示す１８のグループを表す。［２００９．０１］<br>’「図」’<br>’「図」’<br>（４）<br>（ａ）化学的部分または面および非化学的部分または面の両方を有する操作，処理，製品または物品の場合に，一般規則として，化学的部分または面はＣセクションに包含される。<br>（ｂ）これらのうちのある場合には，化学的部分または面には非化学的部分または面を伴い，純粋に機械的部分または面を伴うことさえある，というのは非化学的面は操作または処理にとって本質的であるかまたはそれらの重要な要素を構成するからである；実際，全体のさまざまな部分または面を分割しないのがより論理的と思える。これは応用化学や上記注（１）（ｃ），（ｄ）および（ｅ）の工業，操作および処理の場合に適用される。例えば，ガラス製造用特殊炉はＣ０３に包含されＦ２７には包含されない。<br>（ｃ）しかしながら，機械的面（または非化学的面）に非化学的な面が伴うという例外もある，例えば：<br>―サブクラスＡ６１Ｋにおけるある抽出プロセス；<br>―サブクラスＡ６１Ｌにおける空気の化学的精製；<br>―サブクラスＡ６２Ｄにおける化学的消火方法；<br>―クラスＢ０１における化学的プロセスおよび装置；<br>―サブクラスＢ２７Ｋにおける木材の含浸；<br>―サブクラスＧ０１Ｎにおける化学的分析または試験法；<br>―クラスＧ０３における写真材料またはプロセス，そして一般に，Ｄセクションにおける繊維の化学的処理および繊維素，紙等の製造<br>（ｄ）さらに他の場合，純粋化学的面はＣセクションに包含され，応用化学的面はＡ，Ｂ，Ｆセクションのような他のセクションに包含される，例．以下の物質または組成物の使用：<br>―サブクラスＡ０１Ｎに包含される植物または動物の処理；<br>―クラスＡ２３に包含される食物；<br>―クラスＦ４２に包含される弾薬または爆薬<br>（ｅ）化学的面および機械的面が非常に交錯して，簡単明確な分割ができない時，または化学的処理が自然なまたは論理的な延長として機械的プロセスを要する時は，化学的面に加えて，Ｃセクションは機械的面の一部のみ，例．クラスＣ０４に包含される人造石の後処理，を包含する。この後者の場合に，たとえその区別がむしろ任意であってもその位置を明確にするよう注または参照を通常設けている。",
+      "en": "CHEMISTRY; METALLURGY; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In section <b>C</b>, the definitions of groups of chemical elements are as follows: <ul><li><u>Alkali metals:</u> Li, Na, K, Rb, Cs, Fr</li><li><u>Alkaline earth metals:</u> Ca, Sr, Ba, Ra</li><li><u>Lanthanides:</u> elements with atomic numbers 57 to 71 inclusive</li><li><u>Rare earths:</u> Sc, Y, Lanthanides</li><li><u>Actinides:</u> elements with atomic numbers 89 to 103 inclusive</li><li><u>Refractory metals:</u> Ti, V, Cr, Zr, Nb, Mo, Hf, Ta, W</li><li><u>Halogens:</u> F, Cl, Br, I, At</li><li><u>Noble gases:</u> He, Ne, Ar, Kr, Xe, Rn</li><li><u>Platinum group:</u> Os, Ir, Pt, Ru, Rh, Pd</li><li><u>Noble metals:</u> Ag, Au, Platinum group</li><li><u>Light metals:</u> alkali metals, alkaline earth metals, Be, Al, Mg</li><li><u>Heavy metals:</u> metals other than light metals</li><li><u>Iron group:</u> Fe, Co, Ni</li><li><u>Non-metals:</u> H, B, C, Si, N, P, O, S, Se, Te, noble gases, halogens</li><li><u>Metals:</u> elements other than non-metals</li><li><u>Transition elements:</u> elements with atomic numbers 21 to 30 inclusive, 39 to 48 inclusive, 57 to 80 inclusive, 89 upwards</li></ul></li><li>Section <b>C</b> <u>covers</u> : <ul><li>pure chemistry, which covers inorganic compounds, organic compounds, macromolecular compounds, and their methods of preparation;</li><li>applied chemistry, which covers compositions containing the above compounds, such as: glass, ceramics, fertilisers, plastics compositions, paints, products of the petroleum industry. It also <u>covers</u> certain compositions on account of their having particular properties rendering them suitable for certain purposes, as in the case of explosives, dyestuffs, adhesives, lubricants, and detergents;</li><li>certain marginal industries, such as the manufacture of coke and of solid or gaseous fuels, the production and refining of oils, fats and waxes, the fermentation industry (e.g., brewing and wine-making), the sugar industry;</li><li>certain operations or treatments, which are either purely mechanical, e.g., the mechanical treatment of leather and skins, or partly mechanical, e.g., the treatment of water or the prevention of corrosion in general;</li><li>metallurgy, ferrous or non-ferrous alloys.</li></ul></li><li>In all sections of the IPC, in the absence of an indication to the contrary, the Periodic Table of chemical elements referred to is the one with 18 groups as represented in the table below. [figure]</li><li><ul><li>In the case of operations, treatments, products or articles having both a chemical and a non-chemical part or aspect, the general rule is that the chemical part or aspect is covered by section <b>C</b>.</li><li>In some of these cases, the chemical part or aspect brings with it a non-chemical one, even though purely mechanical, because this latter aspect either is essential to the operation or treatment or constitutes an important element thereof. It has seemed, in fact, more logical not to dissociate the different parts or aspects of a coherent whole. This is the case for applied chemistry and for the industries, operations and treatments mentioned in Notes (1)(c), (d) and (e). For example, furnaces peculiar to the manufacture of glass are covered by class <b>C03</b> and not by class <b>F27</b>.</li><li>There are, however, some exceptions in which the mechanical (or non-chemical) aspect carries with it the chemical aspect, for example: <ul><li>certain extractive processes, in subclass <b>A61K</b>;</li><li>the chemical purification of air, in subclass <b>A61L</b>;</li><li>chemical methods of fire-fighting, in subclass <b>A62D</b>;</li><li>chemical processes and apparatus, in class <b>B01</b>;</li><li>impregnation of wood, in subclass <b>B27K</b>;</li><li>chemical methods of analysis or testing, in subclass <b>G01N</b>;</li><li>photographic materials and processes, in class <b>G03</b>, and, generally, the chemical treatment of textiles and the production of cellulose or paper, in section <b>D</b>.</li></ul></li><li>In still other cases, the pure chemical aspect is covered by section <b>C</b> and the applied chemical aspect by another section, such as <b>A</b>, <b>B</b> or <b>F</b>, e.g., the use of a substance or composition for: <ul><li>treatment of plants or animals, covered by subclass <b>A01N</b>;</li><li>foodstuffs, covered by class <b>A23</b>;</li><li>ammunition or explosives, covered by class <b>F42</b>.</li></ul></li><li>When the chemical and mechanical aspects are so closely interlocked that a neat and simple division is not possible, or when certain mechanical processes follow as a natural or logical continuation of a chemical treatment, section <b>C</b> may cover, in addition to the chemical aspect, a part only of the mechanical aspect, e.g., after-treatment of artificial stone, covered by class <b>C04</b>. In this latter case, a note or a reference is usually given to make the position clear, even if sometimes the division is rather arbitrary.</li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_C.txt",
+      "kind": "ipc"
+    },
+    "C01D1/00": {
+      "code": "C01D1/00",
+      "level": 0,
+      "parent": "C01D",
+      "ja": "ナトリウム，カリウムまたは他のアルカリ金属の酸化物または水酸化物一般［２］",
+      "en": "Oxides or hydroxides of sodium, potassium, or alkali metals in general",
+      "count": 162,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D1/02": {
+      "code": "C01D1/02",
+      "level": 1,
+      "parent": "C01D1/00",
+      "ja": "酸化物",
+      "en": "Oxides",
+      "count": 408,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D1/04": {
+      "code": "C01D1/04",
+      "level": 1,
+      "parent": "C01D1/00",
+      "ja": "水酸化物",
+      "en": "Hydroxides",
+      "count": 850,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D1/20": {
+      "code": "C01D1/20",
+      "level": 2,
+      "parent": "C01D1/04",
+      "ja": "アルカリ金属の塩と酸化物または水酸化物との反応による製造",
+      "en": "Preparation by reacting oxides or hydroxides with alkali metal salts",
+      "count": 304,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D1/22": {
+      "code": "C01D1/22",
+      "level": 3,
+      "parent": "C01D1/20",
+      "ja": "炭酸塩または重炭酸塩との",
+      "en": "with carbonates or bicarbonates",
+      "count": 285,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D1/24": {
+      "code": "C01D1/24",
+      "level": 3,
+      "parent": "C01D1/20",
+      "ja": "ふっ化物またはけいふっ化物からのまたはそれを経由するもの",
+      "en": "from or <u>via</u> fluorides or silico-fluorides",
+      "count": 44,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D1/26": {
+      "code": "C01D1/26",
+      "level": 2,
+      "parent": "C01D1/04",
+      "ja": "シアノ化合物，例．シアン化物，シアナミド，からの，またはそれを経由しての製造",
+      "en": "Preparation from or <u>via</u> cyano compounds, e.g. cyanides, cyanamides",
+      "count": 25,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D1/28": {
+      "code": "C01D1/28",
+      "level": 2,
+      "parent": "C01D1/04",
+      "ja": "精製；分離",
+      "en": "Purification; Separation",
+      "count": 413,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D1/30": {
+      "code": "C01D1/30",
+      "level": 3,
+      "parent": "C01D1/28",
+      "ja": "結晶化によるもの",
+      "en": "by crystallisation",
+      "count": 218,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D1/32": {
+      "code": "C01D1/32",
+      "level": 3,
+      "parent": "C01D1/28",
+      "ja": "吸着または沈殿によるもの",
+      "en": "by adsorption or precipitation",
+      "count": 284,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D1/34": {
+      "code": "C01D1/34",
+      "level": 3,
+      "parent": "C01D1/28",
+      "ja": "選択的溶剤によるもの",
+      "en": "with selective solvents",
+      "count": 53,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D1/36": {
+      "code": "C01D1/36",
+      "level": 3,
+      "parent": "C01D1/28",
+      "ja": "酸化によるもの",
+      "en": "by oxidation",
+      "count": 45,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D1/38": {
+      "code": "C01D1/38",
+      "level": 3,
+      "parent": "C01D1/28",
+      "ja": "透析によるもの",
+      "en": "by dialysis",
+      "count": 179,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D1/40": {
+      "code": "C01D1/40",
+      "level": 3,
+      "parent": "C01D1/28",
+      "ja": "電解によるもの",
+      "en": "by electrolysis",
+      "count": 128,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D1/42": {
+      "code": "C01D1/42",
+      "level": 2,
+      "parent": "C01D1/04",
+      "ja": "濃縮；脱水",
+      "en": "Concentration; Dehydration",
+      "count": 513,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D1/44": {
+      "code": "C01D1/44",
+      "level": 2,
+      "parent": "C01D1/04",
+      "ja": "粒，小片または他の成形品の製造",
+      "en": "Preparation in the form of granules, pieces, or other shaped products",
+      "count": 265,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D3/00": {
+      "code": "C01D3/00",
+      "level": 0,
+      "parent": "C01D",
+      "ja": "ナトリウム，カリウムまたは他のアルカリ金属のハロゲン化物一般［２］",
+      "en": "Halides of sodium, potassium, or alkali metals in general",
+      "count": 254,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D3/02": {
+      "code": "C01D3/02",
+      "level": 1,
+      "parent": "C01D3/00",
+      "ja": "ふっ化物",
+      "en": "Fluorides",
+      "count": 889,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D3/04": {
+      "code": "C01D3/04",
+      "level": 1,
+      "parent": "C01D3/00",
+      "ja": "塩化物",
+      "en": "Chlorides",
+      "count": 3126,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D3/06": {
+      "code": "C01D3/06",
+      "level": 2,
+      "parent": "C01D3/04",
+      "ja": "かん水，海水またはあく廃液の処理による製造",
+      "en": "Preparation by working up brines, seawater or spent lyes",
+      "count": 3439,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D3/08": {
+      "code": "C01D3/08",
+      "level": 2,
+      "parent": "C01D3/04",
+      "ja": "天然産もしくは工業の塩混合物またはけい酸質鉱物の処理による製造",
+      "en": "Preparation by working up natural or industrial salt mixtures or siliceous minerals",
+      "count": 1211,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D3/10": {
+      "code": "C01D3/10",
+      "level": 1,
+      "parent": "C01D3/00",
+      "ja": "臭化物",
+      "en": "Bromides",
+      "count": 262,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D3/12": {
+      "code": "C01D3/12",
+      "level": 1,
+      "parent": "C01D3/00",
+      "ja": "よう化物",
+      "en": "Iodides",
+      "count": 221,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D3/14": {
+      "code": "C01D3/14",
+      "level": 1,
+      "parent": "C01D3/00",
+      "ja": "精製",
+      "en": "Purification",
+      "count": 2179,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D3/16": {
+      "code": "C01D3/16",
+      "level": 2,
+      "parent": "C01D3/14",
+      "ja": "沈でんまたは吸着によるもの",
+      "en": "by precipitation or adsorption",
+      "count": 770,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D3/18": {
+      "code": "C01D3/18",
+      "level": 2,
+      "parent": "C01D3/14",
+      "ja": "選択的溶剤によるもの",
+      "en": "with selective solvents",
+      "count": 121,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D3/20": {
+      "code": "C01D3/20",
+      "level": 2,
+      "parent": "C01D3/14",
+      "ja": "融解によるもの",
+      "en": "by melting",
+      "count": 94,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D3/22": {
+      "code": "C01D3/22",
+      "level": 1,
+      "parent": "C01D3/00",
+      "ja": "粒，小片または他の成形品の製造",
+      "en": "Preparation in the form of granules, pieces, or other shaped products",
+      "count": 421,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D3/24": {
+      "code": "C01D3/24",
+      "level": 2,
+      "parent": "C01D3/22",
+      "ja": "結晶工程への影響",
+      "en": "Influencing the crystallisation process",
+      "count": 222,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D3/26": {
+      "code": "C01D3/26",
+      "level": 1,
+      "parent": "C01D3/00",
+      "ja": "吸湿防止または結晶の固結防止",
+      "en": "Preventing the absorption of moisture or caking of the crystals",
+      "count": 333,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D5/00": {
+      "code": "C01D5/00",
+      "level": 0,
+      "parent": "C01D",
+      "ja": "ナトリウム，カリウムまたは他のアルカリ金属の硫酸塩または亜硫酸塩一般［２］",
+      "en": "Sulfates or sulfites of sodium, potassium, or alkali metals in general",
+      "count": 2852,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D5/02": {
+      "code": "C01D5/02",
+      "level": 1,
+      "parent": "C01D5/00",
+      "ja": "アルカリ金属の塩および硫酸または重硫酸塩からの硫酸塩の製造；重硫酸塩の製造",
+      "en": "Preparation of sulfates from alkali metal salts and sulfuric acid or bisulfates; Preparation of bisulfates",
+      "count": 808,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D5/04": {
+      "code": "C01D5/04",
+      "level": 1,
+      "parent": "C01D5/00",
+      "ja": "亜硫酸または亜硫酸塩の助けによる硫酸塩の製造，例．ハーグリーブズ（Ｈａｒｇｒｅａｖｅｓ）プロセス",
+      "en": "Preparation of sulfates with the aid of sulfurous acid or sulfites, e.g. Hargreaves process",
+      "count": 238,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D5/06": {
+      "code": "C01D5/06",
+      "level": 1,
+      "parent": "C01D5/00",
+      "ja": "複分解による硫酸塩の製造",
+      "en": "Preparation of sulfates by double decomposition",
+      "count": 358,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D5/08": {
+      "code": "C01D5/08",
+      "level": 2,
+      "parent": "C01D5/06",
+      "ja": "個々のものを用いるものまたは硫酸アンモニウムを用いるもの",
+      "en": "with each other or with ammonium sulfate",
+      "count": 230,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D5/10": {
+      "code": "C01D5/10",
+      "level": 2,
+      "parent": "C01D5/06",
+      "ja": "マグネシウム，カルシウム，ストロンチウムまたはバリウムの硫酸塩を用いるもの",
+      "en": "with sulfates of magnesium, calcium, strontium, or barium",
+      "count": 308,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D5/12": {
+      "code": "C01D5/12",
+      "level": 1,
+      "parent": "C01D5/00",
+      "ja": "マグネシウムとナトリウムまたはカリウムとの硫酸複塩の製造［２］",
+      "en": "Preparation of double sulfates of magnesium with sodium or potassium",
+      "count": 162,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D5/14": {
+      "code": "C01D5/14",
+      "level": 1,
+      "parent": "C01D5/00",
+      "ja": "亜硫酸塩の製造（Ｃ０１Ｄ５／０４が優先）",
+      "en": "Preparation of sulfites(<b>C01D5/04</b> takes precedence)",
+      "count": 783,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D5/16": {
+      "code": "C01D5/16",
+      "level": 1,
+      "parent": "C01D5/00",
+      "ja": "精製",
+      "en": "Purification",
+      "count": 1563,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D5/18": {
+      "code": "C01D5/18",
+      "level": 1,
+      "parent": "C01D5/00",
+      "ja": "脱水",
+      "en": "Dehydration",
+      "count": 368,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D7/00": {
+      "code": "C01D7/00",
+      "level": 0,
+      "parent": "C01D",
+      "ja": "ナトリウム，カリウムまたはアルカリ金属の炭酸塩一般［２］",
+      "en": "Carbonates of sodium, potassium, or alkali metals in general",
+      "count": 1794,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D7/02": {
+      "code": "C01D7/02",
+      "level": 1,
+      "parent": "C01D7/00",
+      "ja": "複分解による製造",
+      "en": "Preparation by double decomposition",
+      "count": 342,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D7/04": {
+      "code": "C01D7/04",
+      "level": 2,
+      "parent": "C01D7/02",
+      "ja": "ふっ化物またはけいふっ化物との複分解（Ｃ０１Ｄ１／２４が優先）",
+      "en": "with a fluoride or silico-fluoride(<b>C01D1/24</b> takes precedence)",
+      "count": 14,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D7/06": {
+      "code": "C01D7/06",
+      "level": 1,
+      "parent": "C01D7/00",
+      "ja": "炭酸マグネシウム－ナトリウムまたはカリウムを経由する製造",
+      "en": "Preparation <u>via</u> sodium or potassium magnesium carbonate",
+      "count": 74,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D7/07": {
+      "code": "C01D7/07",
+      "level": 1,
+      "parent": "C01D7/00",
+      "ja": "水酸化物からの製造［２］",
+      "en": "Preparation from the hydroxides",
+      "count": 523,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D7/08": {
+      "code": "C01D7/08",
+      "level": 1,
+      "parent": "C01D7/00",
+      "ja": "ナトリウムまたはカリウムのシアノ化合物からの，またはそれを経由する製造（Ｃ０１Ｄ１／２６が優先）",
+      "en": "Preparation from or <u>via</u> cyano compounds of sodium or potassium(<b>C01D1/26</b> takes precedence)",
+      "count": 30,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D7/10": {
+      "code": "C01D7/10",
+      "level": 1,
+      "parent": "C01D7/00",
+      "ja": "炭酸塩から重炭酸塩の製造（アンモニア―ソーダ法Ｃ０１Ｄ７／１８）",
+      "en": "Preparation of bicarbonates from carbonates(ammonia-soda process <b>C01D7/18</b>)",
+      "count": 374,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D7/12": {
+      "code": "C01D7/12",
+      "level": 1,
+      "parent": "C01D7/00",
+      "ja": "重炭酸塩から炭酸塩の製造",
+      "en": "Preparation of carbonates from bicarbonates",
+      "count": 566,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D7/14": {
+      "code": "C01D7/14",
+      "level": 1,
+      "parent": "C01D7/00",
+      "ja": "セスキ炭酸塩の製造",
+      "en": "Preparation of sesquicarbonates",
+      "count": 107,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D7/16": {
+      "code": "C01D7/16",
+      "level": 1,
+      "parent": "C01D7/00",
+      "ja": "アミンと二酸化炭素とを用いるナトリウムまたはカリウム化合物からの製造",
+      "en": "Preparation from compounds of sodium or potassium with amines and carbon dioxide",
+      "count": 262,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D7/18": {
+      "code": "C01D7/18",
+      "level": 1,
+      "parent": "C01D7/00",
+      "ja": "アンモニア―ソーダ法による製造",
+      "en": "Preparation by the ammonia-soda process",
+      "count": 700,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D7/22": {
+      "code": "C01D7/22",
+      "level": 1,
+      "parent": "C01D7/00",
+      "ja": "精製",
+      "en": "Purification",
+      "count": 339,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D7/24": {
+      "code": "C01D7/24",
+      "level": 2,
+      "parent": "C01D7/22",
+      "ja": "結晶化",
+      "en": "Crystallisation",
+      "count": 317,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D7/26": {
+      "code": "C01D7/26",
+      "level": 2,
+      "parent": "C01D7/22",
+      "ja": "沈でんまたは吸着によるもの",
+      "en": "by precipitation or adsorption",
+      "count": 177,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D7/28": {
+      "code": "C01D7/28",
+      "level": 2,
+      "parent": "C01D7/22",
+      "ja": "選択的溶剤によるもの",
+      "en": "with selective solvents",
+      "count": 22,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D7/30": {
+      "code": "C01D7/30",
+      "level": 2,
+      "parent": "C01D7/22",
+      "ja": "酸化によるもの",
+      "en": "by oxidation",
+      "count": 30,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D7/32": {
+      "code": "C01D7/32",
+      "level": 2,
+      "parent": "C01D7/22",
+      "ja": "透析によるもの",
+      "en": "by dialysis",
+      "count": 21,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D7/34": {
+      "code": "C01D7/34",
+      "level": 2,
+      "parent": "C01D7/22",
+      "ja": "電解によるもの",
+      "en": "by electrolysis",
+      "count": 14,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D7/35": {
+      "code": "C01D7/35",
+      "level": 1,
+      "parent": "C01D7/00",
+      "ja": "結晶水含量または比重の変更［２］",
+      "en": "Varying the content of water of crystallisation or the specific gravity",
+      "count": 177,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D7/37": {
+      "code": "C01D7/37",
+      "level": 2,
+      "parent": "C01D7/35",
+      "ja": "炭酸ナトリウムの濃密化［２］",
+      "en": "Densifying sodium carbonate",
+      "count": 100,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D7/38": {
+      "code": "C01D7/38",
+      "level": 1,
+      "parent": "C01D7/00",
+      "ja": "粒，小片または他の成形品の製造",
+      "en": "Preparation in the form of granules, pieces, or other shaped products",
+      "count": 166,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D7/40": {
+      "code": "C01D7/40",
+      "level": 2,
+      "parent": "C01D7/38",
+      "ja": "結晶化工程への影響",
+      "en": "Influencing the crystallisation process",
+      "count": 95,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D7/42": {
+      "code": "C01D7/42",
+      "level": 1,
+      "parent": "C01D7/00",
+      "ja": "吸湿防止または固結防止",
+      "en": "Preventing the absorption of moisture or caking",
+      "count": 75,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D9/00": {
+      "code": "C01D9/00",
+      "level": 0,
+      "parent": "C01D",
+      "ja": "ナトリウム，カリウムまたは他のアルカリ金属の硝酸塩一般［２］",
+      "en": "Nitrates of sodium, potassium, or alkali metals in general",
+      "count": 424,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D9/02": {
+      "code": "C01D9/02",
+      "level": 1,
+      "parent": "C01D9/00",
+      "ja": "天然産塩混合物の処理による製造",
+      "en": "Preparation by working-up natural salt mixtures",
+      "count": 79,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D9/04": {
+      "code": "C01D9/04",
+      "level": 1,
+      "parent": "C01D9/00",
+      "ja": "硝酸液を用いる製造",
+      "en": "Preparation with liquid nitric acid",
+      "count": 349,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D9/06": {
+      "code": "C01D9/06",
+      "level": 1,
+      "parent": "C01D9/00",
+      "ja": "気体状硝酸または酸化窒素を用いる製造",
+      "en": "Preparation with gaseous nitric acid or nitrogen oxides",
+      "count": 180,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D9/08": {
+      "code": "C01D9/08",
+      "level": 1,
+      "parent": "C01D9/00",
+      "ja": "複分解による製造",
+      "en": "Preparation by double decomposition",
+      "count": 114,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D9/10": {
+      "code": "C01D9/10",
+      "level": 2,
+      "parent": "C01D9/08",
+      "ja": "硝酸アンモニウムを用いるもの",
+      "en": "with ammonium nitrate",
+      "count": 153,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D9/12": {
+      "code": "C01D9/12",
+      "level": 2,
+      "parent": "C01D9/08",
+      "ja": "マグネシウム，カルシウム，ストロンチウムまたはバリウムの硝酸塩を用いるもの",
+      "en": "with nitrates of magnesium, calcium, strontium, or barium",
+      "count": 151,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D9/14": {
+      "code": "C01D9/14",
+      "level": 2,
+      "parent": "C01D9/08",
+      "ja": "硝酸ナトリウムを用いるカリウム塩の製造",
+      "en": "of salts of potassium with sodium nitrate",
+      "count": 58,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D9/16": {
+      "code": "C01D9/16",
+      "level": 1,
+      "parent": "C01D9/00",
+      "ja": "精製",
+      "en": "Purification",
+      "count": 321,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D9/18": {
+      "code": "C01D9/18",
+      "level": 1,
+      "parent": "C01D9/00",
+      "ja": "成形品，例．粒，の製造",
+      "en": "Preparation in the form of shaped products, e.g. granules",
+      "count": 77,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D9/20": {
+      "code": "C01D9/20",
+      "level": 1,
+      "parent": "C01D9/00",
+      "ja": "吸湿防止または固結防止",
+      "en": "Preventing the absorption of moisture or caking",
+      "count": 39,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D13/00": {
+      "code": "C01D13/00",
+      "level": 0,
+      "parent": "C01D",
+      "ja": "他のどこにも分類されないナトリウムまたはカリウム化合物［２］",
+      "en": "Compounds of sodium or potassium not provided for elsewhere",
+      "count": 481,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D15/00": {
+      "code": "C01D15/00",
+      "level": 0,
+      "parent": "C01D",
+      "ja": "リチウム化合物［２］",
+      "en": "Lithium compounds",
+      "count": 2513,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D15/02": {
+      "code": "C01D15/02",
+      "level": 1,
+      "parent": "C01D15/00",
+      "ja": "酸化物；水酸化物［２］",
+      "en": "Oxides; Hydroxides",
+      "count": 1708,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D15/04": {
+      "code": "C01D15/04",
+      "level": 1,
+      "parent": "C01D15/00",
+      "ja": "ハロゲン化物［２］",
+      "en": "Halides",
+      "count": 1241,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D15/06": {
+      "code": "C01D15/06",
+      "level": 1,
+      "parent": "C01D15/00",
+      "ja": "硫酸塩；亜硫酸塩［２］",
+      "en": "Sulfates; Sulfites",
+      "count": 444,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D15/08": {
+      "code": "C01D15/08",
+      "level": 1,
+      "parent": "C01D15/00",
+      "ja": "炭酸塩；重炭酸塩［２］",
+      "en": "Carbonates; Bicarbonates",
+      "count": 3592,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D15/10": {
+      "code": "C01D15/10",
+      "level": 1,
+      "parent": "C01D15/00",
+      "ja": "硝酸塩［２］",
+      "en": "Nitrates",
+      "count": 63,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    },
+    "C01D17/00": {
+      "code": "C01D17/00",
+      "level": 0,
+      "parent": "C01D",
+      "ja": "ルビジウム，セシウムまたはフランシウム化合物［２］",
+      "en": "Rubidium, caesium, or francium compounds",
+      "count": 639,
+      "sourceFile": "ipc_C01D.txt",
+      "kind": "ipc"
+    }
+  }
+};

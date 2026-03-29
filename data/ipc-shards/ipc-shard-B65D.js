@@ -1,0 +1,8326 @@
+window.IPC_SHARD_B65D = {
+  "generatedAt": "2026-03-20T02:17:46.276Z",
+  "total": 832,
+  "entries": {
+    "B65D": {
+      "code": "B65D",
+      "level": 0,
+      "parent": "B65",
+      "ja": "物品または材料の貯蔵または輸送用の容器，例．袋，樽，ボトル，箱，缶，カートン，クレート，ドラム缶，広口ボトル，タンク，ホッパー，運送コンテナ；付属品，閉鎖具，または閉鎖具のための付属品；包装要素；包装体<br><br><b><ul>注</ul></b><br>１．このサブクラスは以下のものを包含する：<br>・物品または材料を展示する補助手段または装備を有する容器，包装要素または包装体；<br>・製造された包装体の形態あるいは使用された容器または包装要素の形態によって全体的に特徴づけられた包装方法は，実施された操作または適用された装置から区別される際には，サブクラスＢ６５Ｂよりむしろこのサブクラスの適切なグループに分類される。<br>２．このサブクラスは，できるだけ包括的であるように意図されており，容器または包装体の特徴によって他の一つのサブクラスに明らかに限定されるものを含んでおらず，それらは当該サブクラスに分類される。<br>３．このサブクラスにおいては，グループ５／００，２７／００，３０／００または６５／００はブランク等を折り曲げたり組み立てたりすることによって作られた容器または被包装材を含むばかりでなく，折り曲げまたは組み立てが可能な容器ブランクまたは被包ブランクの構造的特徴をも含む。<br>４．グループ８５／００に分類される容器，包装要素または包装体は，構造的または機能的特徴があれば，それらの特徴に従っても分類する。<br>５．以下の注６に定義される大型容器は，８８／００または９０／００に分類する。検索に有用な情報を表していると思われる容器一般の特徴は，Ｂ６５Ｄの他のグループにも分類してよい。<br>６．このサブクラスにおいては，下記の用語または表現は以下に示す意味で用いる：<br>・“剛性または準剛性容器”は以下の意味を含む：<br>ａ．内容物により変形されないか，または内容物の形態を取らない容器：<br>ｂ．内容物を取り出すために一時的に変形されるように適合した容器：<br>ｃ．パレット；<br>ｄ．トレー；<br>・“可撓性容器”は以下の意味を含む：<br>ａ．内容物により変形されるか，または内容物の形態を取る容器；<br>ｂ．内容物を取り出すために恒久的に変形されるよう適合した容器；<br>・“包装要素”は以下の意味を含む：<br>ａ．保管または輸送される物品または材料を被覆，保護，補強または結合保持するための，容器とは別の要素；<br>ｂ．他のサブクラスに分類されない特定形態の包装材料；<br>・”包装体”は以下の意味を含む：<br>ａ．保管または輸送される物品または材料と，容器または包装要素との結合体；<br>ｂ．保管または輸送の利便のために相互連結された物品；<br>・“紙”は紙の加工と類似した加工が行われる材料，例．ボール紙，プラスチックシート材，ラミネート材，金属箔，を含む；<br>・グループ８８／００または９０／００における，“大型容器”は，ときとして貨物，運送または“ＩＳＯ”［国際標準化機構］容器と呼ばれる，コンテナ運輸に用いられる容器ぐらいの大きさをもつ容器，またはそれより大きい容器を意味する。<br>７．容器または閉蓋のための無断開封表示手段は容器または閉蓋具の型に対応した適当なグループ，例．５／４３，５／５４，１７／００，２７／３０，２７／３４，３３／３４，４１／３２，４７／３６，４９／１２，５１／２０，５５／０６，に分類される。<br><br><b><ul>サブクラス内の索引</ul></b><br>容器一般<br>剛性または準剛性<br>構造または材料に特徴のあるもの　１／００～１３／００<br>容器の種類に特徴のあるもの　１９／００，２１／００<br>切断や引裂きで開口のできるもの　１７／００<br>特殊用途に特徴のあるもの　８１／００～８５／００<br>他に分類できない細部　２３／００，２５／００<br>可撓性<br>容器の種類に特徴のあるもの　２７／００～３７／００<br>特定用途に特徴のあるもの　８１／００～８５／００<br>大型容器　８８／００，９０／００<br>可動または蝶番式の閉蓋具<br>閉蓋具の種類　３９／００，４１／００，４３／００，５０／００，５１／００<br>かすがい用または充てん用　４５／００，４７／００，４９／００<br>付属品　５３／００，５５／００<br>包装要素<br>材料　６５／００，６７／００<br>特殊使用　８１／００，８５／００<br>付属品<br>内部　５７／００，５９／００<br>外部　６１／００，６３／００<br>他に分類されないもの　６７／００<br>包装の種類<br>貨物；運搬体上の物品；チューブ，シートまたはウェブで包むもの；あらかじめ形成された容器を用いるもの　７１／００；７３／００；７５／００；７７／００<br>物の組立て　６９／００，７１／００<br>特殊使用　８１／００，８３／００，８５／００<br>他に分類されないものまたは細部　７９／００",
+      "en": "CONTAINERS FOR STORAGE OR TRANSPORT OF ARTICLES OR MATERIALS, e.g. BAGS, BARRELS, BOTTLES, BOXES, CANS, CARTONS, CRATES, DRUMS, JARS, TANKS, HOPPERS, FORWARDING CONTAINERS; ACCESSORIES, CLOSURES, OR FITTINGS THEREFOR; PACKAGING ELEMENTS; PACKAGES; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This subclass <u>covers</u>: <ul><li>containers, packaging elements or packages with auxiliary means or provision for displaying articles or materials;</li><li>methods of packaging which are wholly characterised by the form of the package produced or the form of the container or packaging element used, as distinct from the operations performed or the apparatus employed, which are covered by subclass <b>B65B</b>.</li></ul></li><li>This subclass, which is intended to be as comprehensive as possible, <u>only excludes</u> containers or packages of a nature clearly confined to a single other subclass, which are classified in that subclass.</li><li>In this subclass, groups <b>B65D5/00</b>, <b>B65D27/00</b>, <b>B65D30/00</b> or <b>B65D65/00</b> include constructional features of foldable or erectable container or wrapper blanks as well as the containers or wrappers formed by folding or erecting such blanks.</li><li>Containers, packaging elements or packages classified in group <b>B65D85/00</b> are also classified according to the constructional or functional features if such features are of interest.</li><li>Large containers, as defined in Note (6) below, are classified in groups <b>B65D88/00</b> or <b>B65D90/00</b>. Features that are of interest for containers in general may also be classified in other groups of subclass <b>B65D</b> when they are considered to represent information of interest for search.</li><li>In this subclass, the following terms or expressions are used with the meanings indicated: <ul><li>\"rigid or semi-rigid containers\" includes: <ul><li>containers not deformed by, or not taking-up the shape of, their contents;</li><li>containers adapted to be temporarily deformed to expel their contents;</li><li>pallets;</li><li>trays;</li></ul></li><li>\"flexible containers\" includes: <ul><li>containers deformed by, or taking-up the shape of, their contents;</li><li>containers adapted to be permanently deformed to expel their contents;</li></ul></li><li>\"packaging elements\" includes: <ul><li>elements, other than containers, for covering, protecting, stiffening or holding together articles or materials to be stored or transported;</li><li>packaging materials of special type or form not provided for in other subclasses;</li></ul></li><li>\"packages\" includes: <ul><li>combinations of containers or packaging elements with articles or materials to be stored or transported;</li><li>articles joined together for convenience of storage or transport;</li></ul></li><li>\"paper\" includes materials, e.g. cardboard, plastic sheet materials, laminated materials or metal foils, worked in a manner analogous to paper;</li><li>\"large containers\", in groups <b>B65D88/00</b> or <b>B65D90/00</b>, means containers having about the size of containers used in container traffic, sometimes referred to as freight, forwarding or \"ISO\" [International Organization for Standardization] containers or larger containers.</li></ul></li><li>Tamper-indicating means for containers or closures are classified in the group appropriate to the type of container or closure, e.g. <b>B65D5/43</b>, <b>B65D5/54</b>, <b>B65D17/00</b>, <b>B65D27/30</b>, <b>B65D27/34</b>, <b>B65D33/34</b>, <b>B65D41/32</b>, <b>B65D47/36</b>, <b>B65D49/12</b>, <b>B65D51/20</b>, <b>B65D55/06</b>.</li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">GENERAL CONTAINERS<tr><td width=\"70%\">Rigid or semi-rigid characterised by<tr><td width=\"70%\">their structure or material </td><td><b><b>1/00 to 13/00</b> </b></td></tr></tr><tr><td width=\"70%\">their kind </td><td><b><b>19/00</b>, <b>21/00</b></b></td></tr></tr><tr><td width=\"70%\">opening by cutting or tearing </td><td><b><b>17/00</b></b></td></tr></tr><tr><td width=\"70%\">their particular use </td><td><b><b>81/00 to 85/00</b> </b></td></tr></tr><tr><td width=\"70%\">details not otherwise provided for </td><td><b><b>23/00</b>, <b>25/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">Flexible characterised by<tr><td width=\"70%\">their kind </td><td><b><b>27/00 to 37/00</b> </b></td></tr></tr><tr><td width=\"70%\">their particular use </td><td><b><b>81/00 to 85/00</b> </b></td></tr></tr></tr></tr><tr><td width=\"70%\">LARGE CONTAINERS </td><td><b><b>88/00</b>, <b>90/00</b></b></td></tr></tr><tr><td width=\"70%\">MOVABLE OR HINGED CLOSURES<tr><td width=\"70%\">Kinds of closure </td><td><b><b>39/00</b>, <b>41/00</b>, <b>43/00</b>, <b>50/00</b>, <b>51/00</b></b></td></tr></tr><tr><td width=\"70%\">Clamping or using closures </td><td><b><b>45/00</b>, <b>47/00</b>, <b>49/00</b></b></td></tr></tr><tr><td width=\"70%\">Accessories </td><td><b><b>53/00</b>, <b>55/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">PACKAGING ELEMENTS<tr><td width=\"70%\">Material </td><td><b><b>65/00</b>, <b>67/00</b></b></td></tr></tr><tr><td width=\"70%\">For particular use </td><td><b><b>81/00</b>, <b>85/00</b></b></td></tr></tr><tr><td width=\"70%\">Accessories<tr><td width=\"70%\">internal </td><td><b><b>57/00</b>, <b>59/00</b></b></td></tr></tr><tr><td width=\"70%\">external </td><td><b><b>61/00</b>, <b>63/00</b></b></td></tr></tr><tr><td width=\"70%\">not otherwise provided for </td><td><b><b>67/00</b></b></td></tr></tr></tr></tr><tr><td width=\"70%\">KINDS OF PACKAGES<tr><td width=\"70%\">Bales; articles on carriers; with enclosing tube, sheet, or web; using preformed containers </td><td><b><b>71/00</b>; <b>73/00</b>; <b>75/00</b>; <b>77/00</b></b></td></tr></tr><tr><td width=\"70%\">Assemblies of objects </td><td><b><b>69/00</b>, <b>71/00</b></b></td></tr></tr><tr><td width=\"70%\">For particular use </td><td><b><b>81/00</b>, <b>83/00</b>, <b>85/00</b></b></td></tr></tr><tr><td width=\"70%\">Kinds or details not otherwise provided for </td><td><b><b>79/00</b></b></td></tr></tr></tr></table>",
+      "count": 27956,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B65": {
+      "code": "B65",
+      "level": 0,
+      "parent": "B",
+      "ja": "運搬；包装；貯蔵；薄板状または線条材料の取扱い",
+      "en": "CONVEYING; PACKING; STORING; HANDLING THIN OR FILAMENTARY MATERIAL",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B": {
+      "code": "B",
+      "level": 0,
+      "parent": null,
+      "ja": "処理操作；運輸",
+      "en": "PERFORMING OPERATIONS; TRANSPORTING",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B65D1/00": {
+      "code": "B65D1/00",
+      "level": 0,
+      "parent": "B65D",
+      "ja": "一体に形成された本体をもつ剛性または準剛性容器，例．金属材料の鋳造，合成樹脂の成形，ガラス状材料のブロー，陶磁器のろくろ製造，パルプ状の繊維材の成形またはシート材における深絞りによるもの（紙を巻くか曲げて作った曲断面または一部曲断面をもつものＢ６５Ｄ３／００；折り曲げて形成する多角形断面をもつものＢ６５Ｄ５／００；壁部の切断，穿孔または引裂きにより開口するように構成されたものＢ６５Ｄ１７／００；側壁をもつ剛性パレットＢ６５Ｄ１９／０２）［２００６．０１］",
+      "en": "Rigid or semi-rigid containers having bodies formed in one piece, e.g. by casting metallic material, by moulding plastics, by blowing vitreous material, by throwing ceramic material, by moulding pulped fibrous material or by deep-drawing operations performed on sheet material  (with curved or partially-curved cross-section made by winding or bending paper <b>B65D3/00</b>;   with polygonal cross-section formed by folding <b>B65D5/00</b>;   specially constructed to be opened by cutting, piercing or tearing of wall portions <b>B65D17/00</b>;   rigid pallets with side walls <b>B65D19/02</b>)",
+      "count": 12389,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D1/02": {
+      "code": "B65D1/02",
+      "level": 1,
+      "parent": "B65D1/00",
+      "ja": "ボトル，または，内容物を注ぎ出すようデザインされた，首部または首部類似に狭められた小口を有する類似の容器［２００６．０１］",
+      "en": "Bottles or similar containers with necks or like restricted apertures, designed for pouring contents",
+      "count": 20596,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D1/04": {
+      "code": "B65D1/04",
+      "level": 2,
+      "parent": "B65D1/02",
+      "ja": "多数の空間をもつボトル［２００６．０１］",
+      "en": "Multi-cavity bottles",
+      "count": 2730,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D1/06": {
+      "code": "B65D1/06",
+      "level": 2,
+      "parent": "B65D1/02",
+      "ja": "底部に閉鎖可能な口をもつもの",
+      "en": "with closable apertures at bottom",
+      "count": 970,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D1/08": {
+      "code": "B65D1/08",
+      "level": 2,
+      "parent": "B65D1/02",
+      "ja": "液滴排出に適するもの［２００６．０１］",
+      "en": "adapted to discharge drops",
+      "count": 481,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D1/09": {
+      "code": "B65D1/09",
+      "level": 1,
+      "parent": "B65D1/00",
+      "ja": "アンプル［２００６．０１］",
+      "en": "Ampoules",
+      "count": 3506,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D1/10": {
+      "code": "B65D1/10",
+      "level": 1,
+      "parent": "B65D1/00",
+      "ja": "広口ボトル，例．食糧保存用［２００６．０１］",
+      "en": "Jars, e.g. for preserving foodstuffs",
+      "count": 2288,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D1/12": {
+      "code": "B65D1/12",
+      "level": 1,
+      "parent": "B65D1/00",
+      "ja": "缶，大樽，樽またはドラム缶",
+      "en": "Cans, casks, barrels, or drums",
+      "count": 2970,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D1/14": {
+      "code": "B65D1/14",
+      "level": 2,
+      "parent": "B65D1/12",
+      "ja": "形状に特徴のあるもの",
+      "en": "characterised by shape",
+      "count": 1013,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D1/16": {
+      "code": "B65D1/16",
+      "level": 3,
+      "parent": "B65D1/14",
+      "ja": "曲断面状であるもの，例．円筒状",
+      "en": "of curved cross-section, e.g. cylindrical",
+      "count": 2346,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D1/18": {
+      "code": "B65D1/18",
+      "level": 3,
+      "parent": "B65D1/14",
+      "ja": "多角形断面状であるもの",
+      "en": "of polygonal cross-section",
+      "count": 479,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D1/20": {
+      "code": "B65D1/20",
+      "level": 2,
+      "parent": "B65D1/12",
+      "ja": "充てん口または排出口の配置または配列に特徴のあるもの",
+      "en": "characterised by location or arrangement of filling or discharge apertures",
+      "count": 1700,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D1/22": {
+      "code": "B65D1/22",
+      "level": 1,
+      "parent": "B65D1/00",
+      "ja": "箱，または，内容物を囲いこむ深さの側壁をもつ類似の容器",
+      "en": "Boxes or like containers with side walls of substantial depth for enclosing contents",
+      "count": 4505,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D1/24": {
+      "code": "B65D1/24",
+      "level": 2,
+      "parent": "B65D1/22",
+      "ja": "成形された区画または仕切りをもつもの",
+      "en": "with moulded compartments or partitions",
+      "count": 3744,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D1/26": {
+      "code": "B65D1/26",
+      "level": 2,
+      "parent": "B65D1/22",
+      "ja": "薄壁容器，例．深絞りによるもの",
+      "en": "Thin-walled containers, e.g. formed by deep-drawing operations",
+      "count": 6482,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D1/28": {
+      "code": "B65D1/28",
+      "level": 3,
+      "parent": "B65D1/26",
+      "ja": "ラミネート材により形成されるもの",
+      "en": "formed of laminated material",
+      "count": 1482,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D1/30": {
+      "code": "B65D1/30",
+      "level": 3,
+      "parent": "B65D1/26",
+      "ja": "端部と端部，または側部と側部を一体につないだ容器の集合体",
+      "en": "Groups of containers joined together end-to-end or side-by-side",
+      "count": 779,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D1/32": {
+      "code": "B65D1/32",
+      "level": 1,
+      "parent": "B65D1/00",
+      "ja": "外力により一時的に変形して内容物を押し出すことに適合した容器［２００６．０１］",
+      "en": "Containers adapted to be temporarily deformed by external pressure to expel contents",
+      "count": 1922,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D1/34": {
+      "code": "B65D1/34",
+      "level": 1,
+      "parent": "B65D1/00",
+      "ja": "トレーまたは類似の浅い容器",
+      "en": "Trays or like shallow containers",
+      "count": 4712,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D1/36": {
+      "code": "B65D1/36",
+      "level": 2,
+      "parent": "B65D1/34",
+      "ja": "成形された仕切または区画をもつもの",
+      "en": "with moulded compartments or partitions",
+      "count": 3778,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D1/38": {
+      "code": "B65D1/38",
+      "level": 1,
+      "parent": "B65D1/00",
+      "ja": "バスケット，または，骨組構造か穴あき構造をもつ類似の容器",
+      "en": "Baskets or like containers of skeleton or apertured construction",
+      "count": 1454,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D1/40": {
+      "code": "B65D1/40",
+      "level": 1,
+      "parent": "B65D1/00",
+      "ja": "壁部の細部",
+      "en": "Details of walls",
+      "count": 5942,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D1/42": {
+      "code": "B65D1/42",
+      "level": 2,
+      "parent": "B65D1/40",
+      "ja": "補強または強化の部分または部材",
+      "en": "Reinforcing or strengthening parts or members",
+      "count": 2932,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D1/44": {
+      "code": "B65D1/44",
+      "level": 3,
+      "parent": "B65D1/42",
+      "ja": "波形",
+      "en": "Corrugations",
+      "count": 721,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D1/46": {
+      "code": "B65D1/46",
+      "level": 3,
+      "parent": "B65D1/42",
+      "ja": "局部的な補強，例．閉蓋具付近の補強",
+      "en": "Local reinforcements, e.g. adjacent closures",
+      "count": 1285,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D1/48": {
+      "code": "B65D1/48",
+      "level": 3,
+      "parent": "B65D1/42",
+      "ja": "異種の材料の補強，例．合成樹脂壁における金属骨組",
+      "en": "Reinforcements of dissimilar materials, e.g. metal frames in plastic walls",
+      "count": 463,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D3/00": {
+      "code": "B65D3/00",
+      "level": 0,
+      "parent": "B65D",
+      "ja": "限定線に沿って折り曲げずに紙を巻くか曲げて作った曲断面または一部曲断面の本体や周壁をもつ剛性または準剛性容器",
+      "en": "Rigid or semi-rigid containers having bodies or peripheral walls of curved or partially-curved cross-section made by winding or bending paper without folding along defined lines",
+      "count": 1413,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D3/02": {
+      "code": "B65D3/02",
+      "level": 1,
+      "parent": "B65D3/00",
+      "ja": "形状に特徴のあるもの",
+      "en": "characterised by shape",
+      "count": 1357,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D3/04": {
+      "code": "B65D3/04",
+      "level": 2,
+      "parent": "B65D3/02",
+      "ja": "本質的に円筒形のもの",
+      "en": "essentially cylindrical",
+      "count": 1596,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D3/06": {
+      "code": "B65D3/06",
+      "level": 2,
+      "parent": "B65D3/02",
+      "ja": "本質的に円錐形または円錘台形のもの",
+      "en": "essentially conical or frusto-conical",
+      "count": 2452,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D3/08": {
+      "code": "B65D3/08",
+      "level": 2,
+      "parent": "B65D3/02",
+      "ja": "一定ではない，例．円形状が正方形状または長方形状へと徐々に変化する，形状の断面形状を有するもの",
+      "en": "having a cross-section of varying shape, e.g. circular merging into square or rectangular",
+      "count": 345,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D3/10": {
+      "code": "B65D3/10",
+      "level": 1,
+      "parent": "B65D3/00",
+      "ja": "一体となったまたは恒久的に固着された端部の閉鎖部の形に特徴のあるもの",
+      "en": "characterised by form of integral or permanently- secured end closure",
+      "count": 1193,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D3/12": {
+      "code": "B65D3/12",
+      "level": 2,
+      "parent": "B65D3/10",
+      "ja": "恒久的に固着されたフランジ付ディスク，例．接着または熱溶着によるもの",
+      "en": "Flanged discs permanently secured, e.g. by adhesives or by heat-sealing",
+      "count": 641,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D3/14": {
+      "code": "B65D3/14",
+      "level": 3,
+      "parent": "B65D3/12",
+      "ja": "容器端部内にはめ込み，曲げ，巻き込み，折り曲げ操作により固着されるデイスク",
+      "en": "Discs fitting within container end and secured by bending, rolling, or folding operations",
+      "count": 789,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D3/16": {
+      "code": "B65D3/16",
+      "level": 2,
+      "parent": "B65D3/10",
+      "ja": "容器本体内の溝と係合するフランジをもたないデイスク",
+      "en": "Discs without flanges engaging a groove in the container body",
+      "count": 132,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D3/18": {
+      "code": "B65D3/18",
+      "level": 3,
+      "parent": "B65D3/16",
+      "ja": "さらに容器本体の端部内に巻き込みにより固着されるもの",
+      "en": "and secured by rolling in the end of the body",
+      "count": 121,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D3/20": {
+      "code": "B65D3/20",
+      "level": 2,
+      "parent": "B65D3/10",
+      "ja": "平らにするかまたは折り曲げ操作により閉鎖される本体端部をもつもの，例．折目線やフラップにより形成されるもの",
+      "en": "with end portion of body adapted to be closed, by flattening or folding operations, e.g. formed with crease lines or flaps",
+      "count": 493,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D3/22": {
+      "code": "B65D3/22",
+      "level": 1,
+      "parent": "B65D3/00",
+      "ja": "２重壁をもつもの；空気室を組込んだ壁部をもつもの；ラミネート材から作られた壁をもつもの",
+      "en": "with double walls; with walls incorporating air-chambers; with walls made of laminated material",
+      "count": 3393,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D3/24": {
+      "code": "B65D3/24",
+      "level": 1,
+      "parent": "B65D3/00",
+      "ja": "数個の区画をもつもの",
+      "en": "with several compartments",
+      "count": 352,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D3/26": {
+      "code": "B65D3/26",
+      "level": 1,
+      "parent": "B65D3/00",
+      "ja": "容器と一体となったまたは取り付けられた開口装置",
+      "en": "Opening arrangements or devices incorporated in, or attached to, containers",
+      "count": 1117,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D3/28": {
+      "code": "B65D3/28",
+      "level": 1,
+      "parent": "B65D3/00",
+      "ja": "壁部の他の細部",
+      "en": "Other details of walls",
+      "count": 2691,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D3/30": {
+      "code": "B65D3/30",
+      "level": 2,
+      "parent": "B65D3/28",
+      "ja": "局部的補強，例．金属製リム",
+      "en": "Local reinforcements, e.g. metallic rims",
+      "count": 576,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D5/00": {
+      "code": "B65D5/00",
+      "level": 0,
+      "parent": "B65D",
+      "ja": "一以上の紙製のブランクを折り曲げたり，組立てたりして形成する多角形断面の剛性または準剛性容器，例．箱，カートンまたはトレー（側壁をもつ剛性パレットＢ６５Ｄ１９／０２）［５］",
+      "en": "Rigid or semi-rigid containers of polygonal cross-section, e.g. boxes, cartons or trays, formed by folding or erecting one or more blanks made of paper(rigid pallets with side walls <b>B65D19/02</b>)",
+      "count": 9401,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D5/02": {
+      "code": "B65D5/02",
+      "level": 1,
+      "parent": "B65D5/00",
+      "ja": "１枚のブランクを折り曲げたり，組立てたりして，筒状本体を形成し，引き続いて本体の端部を閉鎖するための折り曲げ操作をまたは別体の部材の付加をするか，しないもの（側壁または底部の連結を解かずに折りたたみまたは再組立を可能とするように特に構成されたものＢ６５Ｄ５／３６）［２００６．０１］",
+      "en": "by folding or erecting a single blank to form a tubular body with or without subsequent folding operations, or the addition of separate elements, to close the ends of the body  (specially constructed to allow collapsing and re-erecting without disengagement of side or bottom connections <b>B65D5/36</b>)",
+      "count": 9989,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D5/04": {
+      "code": "B65D5/04",
+      "level": 2,
+      "parent": "B65D5/02",
+      "ja": "筒状本体が，端部閉鎖部を持たないもの",
+      "en": "the tubular body having no end closures",
+      "count": 999,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D5/06": {
+      "code": "B65D5/06",
+      "level": 2,
+      "parent": "B65D5/02",
+      "ja": "筒状本体の端部から延びるとともに全周に連続する壁部を内側に折り曲げることにより形成される端部閉鎖要素または内容物支持要素をもつもの",
+      "en": "with end-closing or contents-supporting elements formed by folding inwardly a wall extending from, and continuously around, an end of the tubular body",
+      "count": 4952,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D5/08": {
+      "code": "B65D5/08",
+      "level": 2,
+      "parent": "B65D5/02",
+      "ja": "折込片により連結されるかまたは一体となっている本体の一部，例．フラップ，を内側に折り曲げて，形成される端部閉鎖部をもつもの（筒状本体の端部から延びるとともに全周に連続する壁部を内側に折り曲げることにより形成される端部閉鎖要素または内容物支持要素をもつものＢ６５Ｄ５／０６）",
+      "en": "with end closures formed by inward-folding of portions of body, e.g. flaps, interconnected by, or incorporating, gusset folds(by inward-folding of a wall extending continuously around an end of the body and incorporating gusset folds <b>B65D5/06</b>)",
+      "count": 1777,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D5/10": {
+      "code": "B65D5/10",
+      "level": 2,
+      "parent": "B65D5/02",
+      "ja": "筒状本体に折り曲げ自在にされた自己ロック式フラップを内側に折り曲げて形成される端部閉鎖部をもつもの",
+      "en": "with end closures formed by inward-folding of self-locking flaps hinged to tubular body",
+      "count": 4106,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D5/12": {
+      "code": "B65D5/12",
+      "level": 2,
+      "parent": "B65D5/02",
+      "ja": "筒状本体と別体に形成された端部閉鎖部をもつもの",
+      "en": "with end closures formed separately from tubular body",
+      "count": 1666,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D5/14": {
+      "code": "B65D5/14",
+      "level": 3,
+      "parent": "B65D5/12",
+      "ja": "端部閉鎖部を筒状本体に差し込んで固着するもの",
+      "en": "with inset end closures",
+      "count": 503,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D5/16": {
+      "code": "B65D5/16",
+      "level": 2,
+      "parent": "B65D5/02",
+      "ja": "筒状本体の１以上の側壁に内容物を出し入れするための穴または取りはずしできる部分を設けるもの［２００６．０１］",
+      "en": "the tubular body being formed with an aperture or removable portion arranged to allow removal or insertion of contents through one or more sides",
+      "count": 780,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D5/18": {
+      "code": "B65D5/18",
+      "level": 1,
+      "parent": "B65D5/00",
+      "ja": "一枚のブランクをＵ型に折り曲げて，容器の底部及び本体の対向側壁を形成し，残りの側壁が主にこれらの対向側壁の延長部，例．対向側壁に折り曲げ自在に連接したフラップ，により形成されるもの（側壁または底部の連結を解かずに折りたたみまたは再組立を可能とするように特に構成されたものＢ６５Ｄ５／３６）［２００６．０１］",
+      "en": "by folding a single blank to U-shape to form the base of the container and opposite sides of the body portion, the remaining sides being formed primarily by extensions of one or more of these opposite sides, e.g. flaps hinged thereto (specially constructed to allow collapsing and re-erecting without disengagement of side or bottom connections <b>B65D5/36</b>)",
+      "count": 4676,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D5/20": {
+      "code": "B65D5/20",
+      "level": 1,
+      "parent": "B65D5/00",
+      "ja": "底板に連結されたすべての側壁を折り立てて容器を形成するもの，例．トレー状のもの（側壁または底部の連結を解かずに折りたたみまたは再組立を可能とするように特に構成されたものＢ６５Ｄ５／３６）［２００６．０１］",
+      "en": "by folding-up portions connected to a central panel from all sides to form a container body, e.g. of tray-like form  (specially constructed to allow collapsing and re-erecting without disengagement of side or bottom connections <b>B65D5/36</b>)",
+      "count": 8870,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D5/22": {
+      "code": "B65D5/22",
+      "level": 2,
+      "parent": "B65D5/20",
+      "ja": "一以上の側壁の延長部が折り返されて隣接する側壁の延長部を包むようにして起立状態を保つもの",
+      "en": "held erect by extensions of one or more sides being doubled-over to enclose extensions of adjacent sides",
+      "count": 3870,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D5/24": {
+      "code": "B65D5/24",
+      "level": 2,
+      "parent": "B65D5/20",
+      "ja": "隣接する側壁が折込片により連結されているもの",
+      "en": "with adjacent sides interconnected by gusset folds",
+      "count": 3649,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D5/26": {
+      "code": "B65D5/26",
+      "level": 2,
+      "parent": "B65D5/20",
+      "ja": "対向側壁の延長部どうしが互いに係合して，他の側壁に重なるようにしたもの",
+      "en": "with extensions of opposite sides mutually interlocking to lie against other sides",
+      "count": 1072,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D5/28": {
+      "code": "B65D5/28",
+      "level": 2,
+      "parent": "B65D5/20",
+      "ja": "側壁の延長部が隣接する側壁と永久的に固着されているか，側壁が接着片によって永久に固着されているかまたは側壁が材料の剛性だけで起立状態を保つもの",
+      "en": "with extensions of sides permanently secured to adjacent sides, with sides permanently secured together by adhesive strips, or with sides held in place solely by rigidity of material",
+      "count": 2079,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D5/30": {
+      "code": "B65D5/30",
+      "level": 2,
+      "parent": "B65D5/20",
+      "ja": "側壁と他の側壁の延長部との間に舌片と溝または同様の係合手段をもつもの",
+      "en": "with tongue-and-slot or like connections between sides and extensions of other sides",
+      "count": 3285,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D5/32": {
+      "code": "B65D5/32",
+      "level": 1,
+      "parent": "B65D5/00",
+      "ja": "２以上のブランクを折り曲げ，相互に連結することにより，本体が形成されるもの（側壁または底部の連結を解かずに折りたたみまたは再組立を可能とするように特に構成されたものＢ６５Ｄ５／３６が優先）［２００６．０１］",
+      "en": "having bodies formed by folding and interconnecting two or more blanks  (specially constructed to allow collapsing and re-erecting without disengagement of side or bottom connections <b>B65D5/36</b>)",
+      "count": 5621,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D5/34": {
+      "code": "B65D5/34",
+      "level": 2,
+      "parent": "B65D5/32",
+      "ja": "１つのブランクが本体の３側壁を形成し，他方のブランクが残りの側壁と折り曲げ自在の蓋と対向する端部閉鎖部を形成するもの",
+      "en": "one blank forming three sides of the body, and the other blank forming the remaining sides, a hinged lid, and the opposite end closure",
+      "count": 262,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D5/35": {
+      "code": "B65D5/35",
+      "level": 3,
+      "parent": "B65D5/34",
+      "ja": "１つのブランクが４側壁体の３側壁を形成し，他方のブランクが残りの１側壁，折り曲げ自在のふた，および対向する端部閉鎖部を形成するもの［２］",
+      "en": "one blank forming three sides of a four-sided body, and the other blank forming the remaining side, a hinged lid, and the opposite end closure",
+      "count": 116,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D5/355": {
+      "code": "B65D5/355",
+      "level": 1,
+      "parent": "B65D5/00",
+      "ja": "可変容量であるように特に作られたもの［６］",
+      "en": "specially adapted to be of variable capacity",
+      "count": 1185,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D5/36": {
+      "code": "B65D5/36",
+      "level": 1,
+      "parent": "B65D5/00",
+      "ja": "側壁または底部の連結を解かずに折りたたみまたは再組立を可能とするように特に構成されたもの",
+      "en": "specially constructed to allow collapsing and re-erecting without disengagement of side or bottom connections",
+      "count": 6092,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D5/38": {
+      "code": "B65D5/38",
+      "level": 1,
+      "parent": "B65D5/00",
+      "ja": "引出し型の容器",
+      "en": "Drawer-and-shell type containers",
+      "count": 3354,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D5/40": {
+      "code": "B65D5/40",
+      "level": 1,
+      "parent": "B65D5/00",
+      "ja": "液体を入れるよう特に作られたもの",
+      "en": "specially constructed to contain liquids",
+      "count": 2783,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D5/42": {
+      "code": "B65D5/42",
+      "level": 1,
+      "parent": "B65D5/00",
+      "ja": "容器の細部または折りたたみか組立ができる容器ブランクの細部",
+      "en": "Details of containers or of foldable or erectable container blanks",
+      "count": 21327,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D5/43": {
+      "code": "B65D5/43",
+      "level": 2,
+      "parent": "B65D5/42",
+      "ja": "不正な開封を妨げる，または，不正に開封されたことを指示する手段によって特徴付けられた容器［６］",
+      "en": "Containers characterised by means discouraging or indicating unauthorised opening of the container",
+      "count": 2214,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D5/44": {
+      "code": "B65D5/44",
+      "level": 2,
+      "parent": "B65D5/42",
+      "ja": "一体の，挿入されたまたは取付けられた内外の付属部分［６］",
+      "en": "Integral, inserted or attached portions forming internal or external fittings",
+      "count": 13147,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D5/46": {
+      "code": "B65D5/46",
+      "level": 3,
+      "parent": "B65D5/44",
+      "ja": "取手",
+      "en": "Handles",
+      "count": 7458,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D5/462": {
+      "code": "B65D5/462",
+      "level": 4,
+      "parent": "B65D5/46",
+      "ja": "ブランクを折りたたむことで形成されたもの［６］",
+      "en": "formed by folding a blank",
+      "count": 3423,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D5/465": {
+      "code": "B65D5/465",
+      "level": 5,
+      "parent": "B65D5/462",
+      "ja": "容器と一体でないもの［６］",
+      "en": "not integral with the container",
+      "count": 1336,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D5/468": {
+      "code": "B65D5/468",
+      "level": 4,
+      "parent": "B65D5/46",
+      "ja": "容器本体に設けられる手掛け部［６］",
+      "en": "Handholds in container body",
+      "count": 1848,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D5/472": {
+      "code": "B65D5/472",
+      "level": 4,
+      "parent": "B65D5/46",
+      "ja": "金属によるもの，例．ワイヤ［６］",
+      "en": "of metal, e.g. wire",
+      "count": 840,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D5/475": {
+      "code": "B65D5/475",
+      "level": 4,
+      "parent": "B65D5/46",
+      "ja": "プラスチックによるもの［６］",
+      "en": "of plastics",
+      "count": 1021,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D5/478": {
+      "code": "B65D5/478",
+      "level": 4,
+      "parent": "B65D5/46",
+      "ja": "コードによるもの［６］",
+      "en": "of cord",
+      "count": 512,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D5/48": {
+      "code": "B65D5/48",
+      "level": 3,
+      "parent": "B65D5/44",
+      "ja": "仕切り",
+      "en": "Partitions",
+      "count": 4282,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D5/4805": {
+      "code": "B65D5/4805",
+      "level": 4,
+      "parent": "B65D5/48",
+      "ja": "一体的なもの［６］",
+      "en": "integral",
+      "count": 1733,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D5/481": {
+      "code": "B65D5/481",
+      "level": 5,
+      "parent": "B65D5/4805",
+      "ja": "区画をすくなくとも二列形成するもの［６］",
+      "en": "forming compartments in at least two rows",
+      "count": 266,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D5/482": {
+      "code": "B65D5/482",
+      "level": 6,
+      "parent": "B65D5/481",
+      "ja": "垂直に折り曲げた切断フラップを有する縦の仕切り［６］",
+      "en": "Longitudinal partition provided with cut flaps which are folded perpendicular to the partition",
+      "count": 45,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D5/483": {
+      "code": "B65D5/483",
+      "level": 6,
+      "parent": "B65D5/481",
+      "ja": "筒状容器本体の上端または下端からの延長部を折り曲げて形成されるもの（Ｂ６５Ｄ５／４８２が優先）［６］",
+      "en": "formed by folding extensions hinged to the upper or lower edges of a tubular container body(<b>B65D5/482</b> takes precedence)",
+      "count": 234,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D5/484": {
+      "code": "B65D5/484",
+      "level": 6,
+      "parent": "B65D5/481",
+      "ja": "トレー状容器の本体ブランクの側面パネル延長部を折り曲げて形成されるもの［６］",
+      "en": "formed by folding extensions of side panels of a tray-like container body blank",
+      "count": 63,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D5/485": {
+      "code": "B65D5/485",
+      "level": 6,
+      "parent": "B65D5/481",
+      "ja": "挿入仕切り片と組み合わされるもの［６］",
+      "en": "combined with inserted partitions",
+      "count": 68,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D5/486": {
+      "code": "B65D5/486",
+      "level": 5,
+      "parent": "B65D5/4805",
+      "ja": "筒状容器の本体に、容器本体の軸に平行なヒンジ線に沿ってヒンジ接続された延長部を、折り曲げて形成されるもの（Ｂ６５Ｄ５／４８１が優先）［６］",
+      "en": "formed by folding extensions hinged to a tubular container body along hinge lines parallel to its axis(<b>B65D5/481</b> takes precedence)",
+      "count": 336,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D5/487": {
+      "code": "B65D5/487",
+      "level": 5,
+      "parent": "B65D5/4805",
+      "ja": "筒状容器本体の上端または下端からの延長部を折り曲げて形成されるもの（Ｂ６５Ｄ５／４８３が優先）［６］",
+      "en": "formed by folding extensions hinged to the upper or lower edges of a tubular container body(<b>B65D5/483</b> takes precedence)",
+      "count": 473,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D5/488": {
+      "code": "B65D5/488",
+      "level": 5,
+      "parent": "B65D5/4805",
+      "ja": "トレー状容器の本体ブランクの側面パネル延長部を折り曲げて形成されるもの（Ｂ６５Ｄ５／４８４が優先）［６］",
+      "en": "formed by folding extensions of side panels of a tray-like container body blank(<b>B65D5/484</b> takes precedence)",
+      "count": 427,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D5/489": {
+      "code": "B65D5/489",
+      "level": 5,
+      "parent": "B65D5/4805",
+      "ja": "容器本体の切断部分を内部に折り曲げて形成されるもの（Ｂ６５Ｄ５／４８１が優先）［６］",
+      "en": "formed by folding inwardly portions cut in the container body(<b>B65D5/481</b> takes precedence)",
+      "count": 422,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D5/49": {
+      "code": "B65D5/49",
+      "level": 4,
+      "parent": "B65D5/48",
+      "ja": "挿入されるもの［６］",
+      "en": "inserted",
+      "count": 2625,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D5/491": {
+      "code": "B65D5/491",
+      "level": 5,
+      "parent": "B65D5/49",
+      "ja": "区画をすくなくとも二列形成するもの（Ｂ６５Ｄ５／４８５が優先）［６］",
+      "en": "forming compartments in at least two rows(<b>B65D5/485</b> takes precedence)",
+      "count": 640,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D5/492": {
+      "code": "B65D5/492",
+      "level": 6,
+      "parent": "B65D5/491",
+      "ja": "単一のブランクを折り曲げて形成されるもの（Ｂ６５Ｄ５／４９３，Ｂ６５Ｄ５／４９４が優先）［６］",
+      "en": "formed by folding a single blank(<b>B65D5/493</b>, <b>B65D5/494</b> take precedence)",
+      "count": 110,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D5/493": {
+      "code": "B65D5/493",
+      "level": 6,
+      "parent": "B65D5/491",
+      "ja": "すくなくとも部分的には底を設けたもの［６］",
+      "en": "provided with an at least partial bottom",
+      "count": 61,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D5/494": {
+      "code": "B65D5/494",
+      "level": 6,
+      "parent": "B65D5/491",
+      "ja": "垂直に折り曲げた切断フラップを有する縦の仕切り［６］",
+      "en": "Longitudinal partition provided with cut flaps which are folded perpendicular to the partition",
+      "count": 60,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D5/495": {
+      "code": "B65D5/495",
+      "level": 6,
+      "parent": "B65D5/491",
+      "ja": "係合用スリットを有する交差帯片から形成されるもの［６］",
+      "en": "formed by crossed strips with inter-engaging slots",
+      "count": 1020,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D5/496": {
+      "code": "B65D5/496",
+      "level": 5,
+      "parent": "B65D5/49",
+      "ja": "帯片をＵ字型，Ｓ字型に折り曲げて形成されるもの（Ｂ６５Ｄ５／４９１が優先）［６］",
+      "en": "formed by folding strips into a tubular, U- or S- section(<b>B65D5/491</b> takes precedence)",
+      "count": 256,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D5/497": {
+      "code": "B65D5/497",
+      "level": 5,
+      "parent": "B65D5/49",
+      "ja": "垂直に折り曲げた切断フラップを有するブランク（Ｂ６５Ｄ５／４９１が優先）［６］",
+      "en": "Blank provided with cut flaps which are folded perpendicular to the blank(<b>B65D5/491</b> takes precedence)",
+      "count": 336,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D5/498": {
+      "code": "B65D5/498",
+      "level": 5,
+      "parent": "B65D5/49",
+      "ja": "折り曲げにより形成され、容器本体の側壁に固定されるまたは容器本体の側壁によって保持される１つ以上のフラップをもつ仕切り（Ｂ６５Ｄ５／４９１，Ｂ６５Ｄ５／４９６，Ｂ６５Ｄ５／４９７が優先）［６］",
+      "en": "Partitions with one or more flaps formed by folding, and fixed to, or maintained in position by, the sides of the container body(<b>B65D5/491</b>, <b>B65D5/496</b>, <b>B65D5/497</b> take precedence)",
+      "count": 769,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D5/499": {
+      "code": "B65D5/499",
+      "level": 5,
+      "parent": "B65D5/49",
+      "ja": "容器本体の側壁のスリットか溝に係合する，折り曲げない帯片の仕切り（Ｂ６５Ｄ５／４９１が優先）［６］",
+      "en": "Partitions formed from non-folded strips engaged in slots or grooves in the sides of the container body(<b>B65D5/491</b> takes precedence)",
+      "count": 149,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D5/50": {
+      "code": "B65D5/50",
+      "level": 3,
+      "parent": "B65D5/44",
+      "ja": "内容物を支持するまたは保護する内部要素［２００６．０１］",
+      "en": "Internal supporting or protecting elements for contents",
+      "count": 21870,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D5/52": {
+      "code": "B65D5/52",
+      "level": 3,
+      "parent": "B65D5/44",
+      "ja": "外部支持台または内容物の展示要素",
+      "en": "External stands or display elements for contents",
+      "count": 8639,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D5/54": {
+      "code": "B65D5/54",
+      "level": 2,
+      "parent": "B65D5/42",
+      "ja": "切断または引裂きによって容器の開口をし易くするかまたは容器を個々の部分に分割し易くする弱め線（注出開口を設けるための，破断により形成されるフラップ，あるいは，引き裂きとられるまたは剥がしとられることに適合した部材Ｂ６５Ｄ５／７０）",
+      "en": "Lines of weakness to facilitate opening of container or dividing it into separate parts by cutting or tearing(break-in flaps, or members adapted to be torn-off, to provide pouring openings <b>B65D5/70</b>)",
+      "count": 10726,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D5/56": {
+      "code": "B65D5/56",
+      "level": 2,
+      "parent": "B65D5/42",
+      "ja": "ライニングまたは内部コーテング",
+      "en": "Linings or internal coatings",
+      "count": 4806,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D5/58": {
+      "code": "B65D5/58",
+      "level": 3,
+      "parent": "B65D5/56",
+      "ja": "容器壁から多少間隔のあるライニング",
+      "en": "Linings spaced appreciably from container wall",
+      "count": 278,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D5/60": {
+      "code": "B65D5/60",
+      "level": 3,
+      "parent": "B65D5/56",
+      "ja": "ルーズライニング",
+      "en": "Loose linings",
+      "count": 1614,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D5/62": {
+      "code": "B65D5/62",
+      "level": 2,
+      "parent": "B65D5/42",
+      "ja": "外側の被覆またはコーティング",
+      "en": "External coverings or coatings",
+      "count": 2248,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D5/63": {
+      "code": "B65D5/63",
+      "level": 2,
+      "parent": "B65D5/42",
+      "ja": "２つ以上の別個の受け入れ開口部をもつもの［２００６．０１］",
+      "en": "having two or more separate access openings",
+      "count": 290,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D5/64": {
+      "code": "B65D5/64",
+      "level": 2,
+      "parent": "B65D5/42",
+      "ja": "ふた",
+      "en": "Lids",
+      "count": 5932,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D5/66": {
+      "code": "B65D5/66",
+      "level": 3,
+      "parent": "B65D5/64",
+      "ja": "ヒンジ式のふた（Ｂ６５Ｄ５／３４が優先）",
+      "en": "Hinged lids(<b>B65D5/34</b> takes precedence)",
+      "count": 11740,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D5/68": {
+      "code": "B65D5/68",
+      "level": 3,
+      "parent": "B65D5/64",
+      "ja": "嵌め込み式のフランジ付ふた",
+      "en": "Telescope flanged lids",
+      "count": 1425,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D5/70": {
+      "code": "B65D5/70",
+      "level": 2,
+      "parent": "B65D5/42",
+      "ja": "注出開口を設けるための，破断により形成されるフラップ，あるいは，引き裂きとられるまたは剥がしとられることに適合した部材（Ｂ６５Ｄ５／７４が優先）",
+      "en": "Break-in flaps, or members adapted to be torn-off, to provide pouring openings(<b>B65D5/74</b> takes precedence)",
+      "count": 2564,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D5/72": {
+      "code": "B65D5/72",
+      "level": 2,
+      "parent": "B65D5/42",
+      "ja": "内容物分配装置",
+      "en": "Contents-dispensing means",
+      "count": 5273,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D5/74": {
+      "code": "B65D5/74",
+      "level": 3,
+      "parent": "B65D5/72",
+      "ja": "スパウト",
+      "en": "Spouts",
+      "count": 5153,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D5/76": {
+      "code": "B65D5/76",
+      "level": 3,
+      "parent": "B65D5/72",
+      "ja": "定量取出用",
+      "en": "for discharging metered quantities",
+      "count": 572,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D6/00": {
+      "code": "B65D6/00",
+      "level": 0,
+      "parent": "B65D",
+      "ja": "全体または主要部が金属，プラスチック，木またはそれらの代用品で作られた，剛性または本質的に剛性の２以上の構成要素を相互に連結するかまたは合体させることにより形成される本体をもつ容器（１つの曲断面をもつ容器Ｂ６５Ｄ８／００；壁部の切断，穿孔または引裂くことによって開口されるべく特に構成したものＢ６５Ｄ１７／００；側壁をもつ剛性パレットＢ６５Ｄ１９／０２）［３］",
+      "en": "Containers having bodies formed by interconnecting or uniting two or more rigid, or substantially rigid, components made wholly or mainly of metal, plastics, wood or substitutes therefor(containers having a curved cross-section <b>B65D8/00</b>; specially constructed to be opened by cutting, piercing, or tearing of wall portions <b>B65D17/00</b>; rigid pallets with side walls <b>B65D19/02</b>)",
+      "count": 6626,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D6/02": {
+      "code": "B65D6/02",
+      "level": 1,
+      "parent": "B65D6/00",
+      "ja": "形状に特徴のあるもの［３］",
+      "en": "characterised by shape",
+      "count": 6818,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D6/04": {
+      "code": "B65D6/04",
+      "level": 2,
+      "parent": "B65D6/02",
+      "ja": "蓋なしのトレーまたは類似の容器［３］",
+      "en": "Trays or like containers without lids",
+      "count": 1363,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D6/06": {
+      "code": "B65D6/06",
+      "level": 2,
+      "parent": "B65D6/02",
+      "ja": "引出し式のもの［３］",
+      "en": "of drawer-and-shell type",
+      "count": 9524,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D6/08": {
+      "code": "B65D6/08",
+      "level": 1,
+      "parent": "B65D6/00",
+      "ja": "骨組または類似の穴開き構造のもの，例．織られるかまたは網目にした柔軟性材料で作られるもの［３］",
+      "en": "of skeleton or like apertured construction, e.g. made of interwoven or intermeshing flexible material",
+      "count": 12367,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D6/10": {
+      "code": "B65D6/10",
+      "level": 1,
+      "parent": "B65D6/00",
+      "ja": "間隔があけられて，面と面が向き合った関係にある多数のパネルから構成された壁，例．二重壁，をもつもの［３］",
+      "en": "with walls comprising multiple panels in spaced face-to-face relationship, e.g. double walls",
+      "count": 3889,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D6/12": {
+      "code": "B65D6/12",
+      "level": 2,
+      "parent": "B65D6/10",
+      "ja": "壁，例．底，が内容物の影響の下で可動なもの［３］",
+      "en": "with walls, e.g. bottoms, movable under influence of contents",
+      "count": 463,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D6/14": {
+      "code": "B65D6/14",
+      "level": 1,
+      "parent": "B65D6/00",
+      "ja": "ラミネートされたパネル，例．合板，からなる壁をもつもの［３］",
+      "en": "with walls comprising laminated panels, e.g. plywood",
+      "count": 1313,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D6/16": {
+      "code": "B65D6/16",
+      "level": 1,
+      "parent": "B65D6/00",
+      "ja": "折りたたみできるもの［３］",
+      "en": "collapsible",
+      "count": 8251,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D6/18": {
+      "code": "B65D6/18",
+      "level": 2,
+      "parent": "B65D6/16",
+      "ja": "ヒンジになった構成要素をもつもの［３］",
+      "en": "with hinged components",
+      "count": 9199,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D6/20": {
+      "code": "B65D6/20",
+      "level": 3,
+      "parent": "B65D6/18",
+      "ja": "柔軟性のワイヤまたはストリップ状の要素により結束されるもの［３］",
+      "en": "bound by flexible wire, or strip-like, elements",
+      "count": 270,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D6/22": {
+      "code": "B65D6/22",
+      "level": 3,
+      "parent": "B65D6/18",
+      "ja": "及び取りはずしできる構成要素をもつもの［３］",
+      "en": "and detachable components",
+      "count": 2319,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D6/24": {
+      "code": "B65D6/24",
+      "level": 2,
+      "parent": "B65D6/16",
+      "ja": "取りはずしできる構成要素をもつもの（Ｂ６５Ｄ６／２２が優先）［３］",
+      "en": "with detachable components(<b>B65D6/22</b> takes precedence)",
+      "count": 12030,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D6/26": {
+      "code": "B65D6/26",
+      "level": 2,
+      "parent": "B65D6/16",
+      "ja": "折りたたみできる容器を組立てた状態に保持するための装置［３］",
+      "en": "Devices for holding collapsible containers in erected state",
+      "count": 2772,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D6/28": {
+      "code": "B65D6/28",
+      "level": 1,
+      "parent": "B65D6/00",
+      "ja": "壁間を永久結合したもの，例．隅部の結合［３］",
+      "en": "with permanent connections between walls, e.g. corner connections",
+      "count": 2130,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D6/30": {
+      "code": "B65D6/30",
+      "level": 2,
+      "parent": "B65D6/28",
+      "ja": "巻き込むかまたは巻き締めにより形成されるもの［３］",
+      "en": "formed by rolling or by rolling and pressing",
+      "count": 262,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D6/32": {
+      "code": "B65D6/32",
+      "level": 2,
+      "parent": "B65D6/28",
+      "ja": "対向面を臘付け，溶接，または別の手段で接合することにより形成されるもの［３］",
+      "en": "formed by soldering, welding, or otherwise uniting opposed surfaces",
+      "count": 1014,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D6/34": {
+      "code": "B65D6/34",
+      "level": 1,
+      "parent": "B65D6/00",
+      "ja": "部分または部材の補強または強化［３］",
+      "en": "Reinforcing or strengthening parts or members",
+      "count": 7896,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D6/36": {
+      "code": "B65D6/36",
+      "level": 2,
+      "parent": "B65D6/34",
+      "ja": "小割り板，帯材，ストリップまたは付属品［３］",
+      "en": "Battens, bands, strips or fittings",
+      "count": 2600,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D6/38": {
+      "code": "B65D6/38",
+      "level": 2,
+      "parent": "B65D6/34",
+      "ja": "変形，例．波形［３］",
+      "en": "Deformations, e.g. corrugations",
+      "count": 512,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D6/40": {
+      "code": "B65D6/40",
+      "level": 1,
+      "parent": "B65D6/00",
+      "ja": "充填または排出のための小口が形成された壁をもつもの［３］",
+      "en": "with walls formed with filling or emptying apertures",
+      "count": 1237,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D8/00": {
+      "code": "B65D8/00",
+      "level": 0,
+      "parent": "B65D",
+      "ja": "全体又は主要部が金属，プラスチック，木またはそれらの代用品で作られた，剛性または本質的に剛性の２以上の構成要素を相互に連結するかまたは合体させることにより形成される１つの曲断面をもつ容器（壁部を切断，穿孔または引裂くことによって開口されるべく特に構成したものＢ６５Ｄ１７／００）［２００６．０１］",
+      "en": "Containers having a curved cross-section formed by interconnecting or uniting two or more rigid, or substantially rigid, components made wholly or mainly of metal, plastics, wood or substitutes therefor (specially constructed to be opened by cutting, piercing or tearing of wall portions <b>B65D17/00</b>)",
+      "count": 3927,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D8/02": {
+      "code": "B65D8/02",
+      "level": 1,
+      "parent": "B65D8/00",
+      "ja": "充填または排出口の配置［３］",
+      "en": "Arrangements of filling or discharging apertures",
+      "count": 2184,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D8/04": {
+      "code": "B65D8/04",
+      "level": 1,
+      "parent": "B65D8/00",
+      "ja": "壁構造または壁間の連結に特徴のあるもの［３］",
+      "en": "characterised by wall construction or by connection between walls",
+      "count": 7079,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D8/06": {
+      "code": "B65D8/06",
+      "level": 2,
+      "parent": "B65D8/04",
+      "ja": "間隔があけられて，面と面が向き合った関係にある複数の壁，例．二重壁，をもつもの",
+      "en": "with multiple walls in spaced face-to-face relationship, e.g. double walls",
+      "count": 2491,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D8/08": {
+      "code": "B65D8/08",
+      "level": 2,
+      "parent": "B65D8/04",
+      "ja": "補強もしくは強化部分または部材［３］",
+      "en": "Reinforcing or strengthening parts or members",
+      "count": 1298,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D8/10": {
+      "code": "B65D8/10",
+      "level": 3,
+      "parent": "B65D8/08",
+      "ja": "小割り板，帯材，ストリップまたは付属品［３］",
+      "en": "Battens, bands, strips or fittings",
+      "count": 364,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D8/12": {
+      "code": "B65D8/12",
+      "level": 2,
+      "parent": "B65D8/04",
+      "ja": "変形，例．波形［３］",
+      "en": "Deformations, e.g. corrugations",
+      "count": 825,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D8/14": {
+      "code": "B65D8/14",
+      "level": 2,
+      "parent": "B65D8/04",
+      "ja": "折りたたみできるもの［３］",
+      "en": "collapsible",
+      "count": 1859,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D8/16": {
+      "code": "B65D8/16",
+      "level": 2,
+      "parent": "B65D8/04",
+      "ja": "ラミネートされたパネル，例．合板，よりなる壁をもつもの［３］",
+      "en": "with walls comprising laminated panels, e.g. plywood",
+      "count": 864,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D8/18": {
+      "code": "B65D8/18",
+      "level": 2,
+      "parent": "B65D8/04",
+      "ja": "壁間を永久連結するもの［３］",
+      "en": "with permanent connections between walls",
+      "count": 1021,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D8/20": {
+      "code": "B65D8/20",
+      "level": 3,
+      "parent": "B65D8/18",
+      "ja": "巻き込むかまたは巻き締めにより形成されるもの［３］",
+      "en": "formed by rolling or by rolling and pressing",
+      "count": 1117,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D8/22": {
+      "code": "B65D8/22",
+      "level": 3,
+      "parent": "B65D8/18",
+      "ja": "対向面を臘付け，溶接または別の手段で接合することにより形成されるもの（Ｂ６５Ｄ８／２０が優先）［３］",
+      "en": "formed by soldering, welding, or otherwise uniting opposed surfaces(<b>B65D8/20</b> takes precedence)",
+      "count": 822,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D13/00": {
+      "code": "B65D13/00",
+      "level": 0,
+      "parent": "B65D",
+      "ja": "全体または主要部が金属，プラスチック，木またはそれらの代用品以外の同一材料で作られた，剛性または本質的に剛性の２以上の構成要素を相互に連結することにより形成される本体をもつ容器［２００６．０１］",
+      "en": "Containers having bodies formed by interconnecting two or more rigid, or substantially rigid, components made wholly or mainly of the same material, other than metal, plastics, wood or substitutes therefor",
+      "count": 3952,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D13/02": {
+      "code": "B65D13/02",
+      "level": 1,
+      "parent": "B65D13/00",
+      "ja": "ガラス製，陶器製，または他の陶器材料製",
+      "en": "of glass, pottery, or other ceramic material",
+      "count": 1195,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D17/00": {
+      "code": "B65D17/00",
+      "level": 0,
+      "parent": "B65D",
+      "ja": "切断もしくは穿孔によって，または脆弱な部材もしくは部分を引裂くもしくは引き剥がすことによって開口されるべく特に構成された，剛性または準剛性容器（キャップ，蓋またはカバーと組み合わされた脆弱な内部閉鎖部材Ｂ６５Ｄ５１／２０）",
+      "en": "Rigid or semi-rigid containers specially constructed to be opened by cutting or piercing, or by tearing of frangible members or portions(frangible inner closure members associated with caps, lids or covers <b>B65D51/20</b>)",
+      "count": 3019,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D17/28": {
+      "code": "B65D17/28",
+      "level": 1,
+      "parent": "B65D17/00",
+      "ja": "弱められた線または点で開口するもの［３］",
+      "en": "at lines or points of weakness",
+      "count": 2836,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D17/30": {
+      "code": "B65D17/30",
+      "level": 2,
+      "parent": "B65D17/28",
+      "ja": "切断装置を用いるもの［３］",
+      "en": "using cutting devices",
+      "count": 152,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D17/32": {
+      "code": "B65D17/32",
+      "level": 2,
+      "parent": "B65D17/28",
+      "ja": "取りはずせない部材または部分をもつもの［３］",
+      "en": "having non-detachable members or portions",
+      "count": 1808,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D17/34": {
+      "code": "B65D17/34",
+      "level": 2,
+      "parent": "B65D17/28",
+      "ja": "引っぱり摘み片または持上げ摘み片の配置または構造（Ｂ６５Ｄ１７／３２が優先）［３］",
+      "en": "Arrangement or construction of pull or lift tabs(<b>B65D17/32</b> takes precedence)",
+      "count": 5011,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D17/347": {
+      "code": "B65D17/347",
+      "level": 3,
+      "parent": "B65D17/34",
+      "ja": "容器の取りはずせる部材または部分と摘み片との間の接続に特徴があるもの［６］",
+      "en": "characterised by the connection between the tab and a detachable member or portion of the container",
+      "count": 1890,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D17/353": {
+      "code": "B65D17/353",
+      "level": 4,
+      "parent": "B65D17/347",
+      "ja": "接続手段が，摘み片または容器の部材もしくは部分と一体であるもの［６］",
+      "en": "the connecting means being integral with the tab or with the detachable member or portion",
+      "count": 1498,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D17/36": {
+      "code": "B65D17/36",
+      "level": 3,
+      "parent": "B65D17/34",
+      "ja": "開口具，例．細長い孔のある鍵，と係合することに適合したもの［２００６．０１］",
+      "en": "adapted for engagement with opening tools, e.g. slotted keys",
+      "count": 186,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D17/38": {
+      "code": "B65D17/38",
+      "level": 4,
+      "parent": "B65D17/36",
+      "ja": "ストリップまたは開口具案内をもつもの［３］",
+      "en": "with strip or tool guides",
+      "count": 54,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D17/40": {
+      "code": "B65D17/40",
+      "level": 2,
+      "parent": "B65D17/28",
+      "ja": "容器口部に周縁を周回するように延びる弱め線を持つことに特徴のあるもの［３］",
+      "en": "characterised by having the line of weakness extending circumferentially of the container mouth",
+      "count": 1429,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D17/42": {
+      "code": "B65D17/42",
+      "level": 1,
+      "parent": "B65D17/00",
+      "ja": "切断，穿孔またはカッター補助手段をもつもの（弱め線または弱め部分にある開口用Ｂ６５Ｄ１７／２８）［３］",
+      "en": "with cutting, punching, or cutter accommodating means (for opening at lines or points of weakness <b>B65D17/28</b>)",
+      "count": 410,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D17/44": {
+      "code": "B65D17/44",
+      "level": 2,
+      "parent": "B65D17/42",
+      "ja": "その中で閉鎖具として役立つ穿孔具［３］",
+      "en": "in which the puncturing tool serves as closure",
+      "count": 225,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D17/46": {
+      "code": "B65D17/46",
+      "level": 2,
+      "parent": "B65D17/42",
+      "ja": "針金，紐または類似物，例．引裂き紐［３］",
+      "en": "Wires, strings or the like, e.g. rip cords",
+      "count": 95,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D17/48": {
+      "code": "B65D17/48",
+      "level": 3,
+      "parent": "B65D17/46",
+      "ja": "容器のシームに隣接した部分に位置するもの［３］",
+      "en": "located in the seam-adjoining parts of the container",
+      "count": 25,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D17/50": {
+      "code": "B65D17/50",
+      "level": 1,
+      "parent": "B65D17/00",
+      "ja": "あらかじめ形成された開口部に取りつけられるかまたは挿入された，別体の脆弱な部材，例．引裂きまたは引き剥がしできるストリップまたはプラスチックプラグ（充てん用小口または排出用小口をシールするのに適合した可撓性粘着ストリップ  Ｂ６５Ｄ５３／０８）［２００６．０１］",
+      "en": "Non-integral frangible members applied to, or inserted in, preformed openings, e.g. tearable strips or plastic plugs  (flexible adhesive strips adapted to seal filling or discharging apertures <b>B65D53/08</b>)",
+      "count": 2102,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D17/52": {
+      "code": "B65D17/52",
+      "level": 1,
+      "parent": "B65D17/00",
+      "ja": "開口具，例．細長い孔のある鍵，の容器への取付け［３］",
+      "en": "Attachment of opening tools, e.g. slotted keys, to containers",
+      "count": 251,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D19/00": {
+      "code": "B65D19/00",
+      "level": 0,
+      "parent": "B65D",
+      "ja": "パレット，または，荷物を支持して持ち上げまたは下降されるための，側壁をもつかまたはもたない類似の荷台［２００６．０１］",
+      "en": "Pallets or like platforms, with or without side walls, for supporting loads to be lifted or lowered",
+      "count": 7380,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D19/02": {
+      "code": "B65D19/02",
+      "level": 1,
+      "parent": "B65D19/00",
+      "ja": "側壁をもつ剛性パレット，例．箱パレット",
+      "en": "Rigid pallets with side walls, e.g. box pallets",
+      "count": 1834,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D19/04": {
+      "code": "B65D19/04",
+      "level": 2,
+      "parent": "B65D19/02",
+      "ja": "成型または他の手段で一体に造られた本体をもつもの",
+      "en": "with bodies moulded or otherwise fabricated in one piece",
+      "count": 492,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D19/06": {
+      "code": "B65D19/06",
+      "level": 2,
+      "parent": "B65D19/02",
+      "ja": "２以上の構成要素を連結または結合して，形成された本体をもつもの",
+      "en": "with bodies formed by uniting or interconnecting two or more components",
+      "count": 4100,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D19/08": {
+      "code": "B65D19/08",
+      "level": 3,
+      "parent": "B65D19/06",
+      "ja": "全部または大部分が金属製のもの",
+      "en": "made wholly or mainly of metal",
+      "count": 1034,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D19/10": {
+      "code": "B65D19/10",
+      "level": 4,
+      "parent": "B65D19/08",
+      "ja": "骨組構造，例．針金製のもの",
+      "en": "of skeleton construction, e.g. made of wire",
+      "count": 1132,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D19/12": {
+      "code": "B65D19/12",
+      "level": 4,
+      "parent": "B65D19/08",
+      "ja": "折りたたみ可能なパレット",
+      "en": "Collapsible pallets",
+      "count": 2761,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D19/14": {
+      "code": "B65D19/14",
+      "level": 3,
+      "parent": "B65D19/06",
+      "ja": "全部または大部分が木製のもの",
+      "en": "made wholly or mainly of wood",
+      "count": 480,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D19/16": {
+      "code": "B65D19/16",
+      "level": 4,
+      "parent": "B65D19/14",
+      "ja": "折りたたみ可能なパレット",
+      "en": "Collapsible pallets",
+      "count": 693,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D19/18": {
+      "code": "B65D19/18",
+      "level": 3,
+      "parent": "B65D19/06",
+      "ja": "全部または大部分が合成樹脂製のもの",
+      "en": "made wholly or mainly of plastics material",
+      "count": 1356,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D19/20": {
+      "code": "B65D19/20",
+      "level": 3,
+      "parent": "B65D19/06",
+      "ja": "全部または大部分が紙製のもの",
+      "en": "made wholly or mainly of paper",
+      "count": 1492,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D19/22": {
+      "code": "B65D19/22",
+      "level": 1,
+      "parent": "B65D19/00",
+      "ja": "側壁をもたない剛性のパレット",
+      "en": "Rigid pallets without side walls",
+      "count": 2605,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D19/24": {
+      "code": "B65D19/24",
+      "level": 2,
+      "parent": "B65D19/22",
+      "ja": "成形または他の手段で一体に作られた本体をもつもの",
+      "en": "with bodies moulded or otherwise fabricated in one piece",
+      "count": 2143,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D19/26": {
+      "code": "B65D19/26",
+      "level": 2,
+      "parent": "B65D19/22",
+      "ja": "構成要素を連結または相互に結合して形成された本体をもつもの",
+      "en": "with bodies formed by uniting or interconnecting two or more components",
+      "count": 5461,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D19/28": {
+      "code": "B65D19/28",
+      "level": 3,
+      "parent": "B65D19/26",
+      "ja": "全部または大部分が金属製のもの",
+      "en": "made wholly or mainly of metal",
+      "count": 1653,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D19/30": {
+      "code": "B65D19/30",
+      "level": 4,
+      "parent": "B65D19/28",
+      "ja": "骨組構造，例．針金製のもの",
+      "en": "of skeleton construction, e.g. made of wire",
+      "count": 401,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D19/31": {
+      "code": "B65D19/31",
+      "level": 3,
+      "parent": "B65D19/26",
+      "ja": "全部または大部分が木製のもの［４］",
+      "en": "made wholly or mainly of wood",
+      "count": 1373,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D19/32": {
+      "code": "B65D19/32",
+      "level": 3,
+      "parent": "B65D19/26",
+      "ja": "全部または大部分が合成樹脂製のもの",
+      "en": "made wholly or mainly of plastics material",
+      "count": 3491,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D19/34": {
+      "code": "B65D19/34",
+      "level": 3,
+      "parent": "B65D19/26",
+      "ja": "全部または大部分が紙製のもの",
+      "en": "made wholly or mainly of paper",
+      "count": 2174,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D19/36": {
+      "code": "B65D19/36",
+      "level": 1,
+      "parent": "B65D19/00",
+      "ja": "案内要素，例．ガイドチューブ，間に延びている可撓性を有する荷物支持具を有するパレット",
+      "en": "Pallets comprising a flexible load carrier extending between guide elements, e.g. guide tubes",
+      "count": 568,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D19/38": {
+      "code": "B65D19/38",
+      "level": 1,
+      "parent": "B65D19/00",
+      "ja": "細部または附属品",
+      "en": "Details or accessories",
+      "count": 22729,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D19/40": {
+      "code": "B65D19/40",
+      "level": 2,
+      "parent": "B65D19/38",
+      "ja": "支持面から板面を離すための要素",
+      "en": "Elements for spacing platforms from supporting surface",
+      "count": 5703,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D19/42": {
+      "code": "B65D19/42",
+      "level": 3,
+      "parent": "B65D19/40",
+      "ja": "ローラまたは車輪の配置または応用",
+      "en": "Arrangements or applications of rollers or wheels",
+      "count": 2013,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D19/44": {
+      "code": "B65D19/44",
+      "level": 2,
+      "parent": "B65D19/38",
+      "ja": "荷台上に物品を位置付けるための要素または装置",
+      "en": "Elements or devices for locating articles on platforms",
+      "count": 12543,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D21/00": {
+      "code": "B65D21/00",
+      "level": 0,
+      "parent": "B65D",
+      "ja": "重ねてはめ込むか，積重ねられるかまたは結合できる容器；可変容量の容器",
+      "en": "Nestable, stackable or joinable containers; Containers of variable capacity",
+      "count": 2512,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D21/02": {
+      "code": "B65D21/02",
+      "level": 1,
+      "parent": "B65D21/00",
+      "ja": "特別な形状にするかまたは付属品もしくは固着具を設けて，容器をはめ込み易くするか積み重ねし易くするかまたは結合し易くした容器［５］",
+      "en": "Containers specially shaped, or provided with fittings or attachments, to facilitate nesting, stacking, or joining together",
+      "count": 19526,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D21/024": {
+      "code": "B65D21/024",
+      "level": 2,
+      "parent": "B65D21/02",
+      "ja": "容器が通常の姿勢にある際に側部にある手段により，容器を横向きにして積重ねるかまたは容器の側面同士を結合させるためのもの［６］",
+      "en": "for stacking containers lying on their sides, or for joining containers side-by-side, by means which are lateral with respect to the normal orientation of the containers",
+      "count": 1461,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D21/028": {
+      "code": "B65D21/028",
+      "level": 3,
+      "parent": "B65D21/024",
+      "ja": "容器の一部を形成する相互連結手段，例．ありつぎ形状，スナップコネクタまたはフック要素，をもつもの［６］",
+      "en": "with interconnecting means forming part of the containers, e.g. dovetails, snap connectors or hook elements",
+      "count": 2390,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D21/032": {
+      "code": "B65D21/032",
+      "level": 2,
+      "parent": "B65D21/02",
+      "ja": "正立姿勢または上下逆転姿勢の容器を，１つの容器の上に別の１つの容器を載せて積み重ねていくためのもの，例．垂直方向に突出する要素または溝を用いて［６］",
+      "en": "for stacking containers one upon another in the upright or upside down position, e.g. with vertically projecting elements or recesses",
+      "count": 12019,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D21/036": {
+      "code": "B65D21/036",
+      "level": 3,
+      "parent": "B65D21/032",
+      "ja": "積み重ねを補助することに特に適合した閉鎖手段を有するもの［６］",
+      "en": "having closure means specially adapted for facilitating stacking",
+      "count": 4396,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D21/04": {
+      "code": "B65D21/04",
+      "level": 2,
+      "parent": "B65D21/02",
+      "ja": "空の際にはめ込まれ，一杯の際には重ねられるように，形づくられる開放端をもつ容器",
+      "en": "Open-ended containers shaped to be nested when empty and to be superposed when full",
+      "count": 2110,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D21/06": {
+      "code": "B65D21/06",
+      "level": 2,
+      "parent": "B65D21/02",
+      "ja": "空の際に容器をはめ込み，一杯の際にそれらを積み重ねるために，選択的位置に置かれるようにされた可動部材をもつもの",
+      "en": "with movable parts adapted to be placed in alternative positions for nesting the containers when empty and for stacking them when full",
+      "count": 1166,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D21/08": {
+      "code": "B65D21/08",
+      "level": 1,
+      "parent": "B65D21/00",
+      "ja": "可変容量の容器（紙製のブランクを折りたたみまたは組立てることにより可変容量を形成するのに適合した多角形断面の容器Ｂ６５Ｄ５／３５５）",
+      "en": "Containers of variable capacity(containers of polygonal cross-section adapted to be of variable capacity formed by folding or erecting blanks made of paper <b>B65D5/355</b>)",
+      "count": 9850,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D23/00": {
+      "code": "B65D23/00",
+      "level": 0,
+      "parent": "B65D",
+      "ja": "他に分類されないボトルまたは広口ボトルの細部［２００６．０１］",
+      "en": "Details of bottles or jars not otherwise provided for",
+      "count": 16558,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D23/02": {
+      "code": "B65D23/02",
+      "level": 1,
+      "parent": "B65D23/00",
+      "ja": "ライニングまたは内部コーテング",
+      "en": "Linings or internal coatings",
+      "count": 1781,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D23/04": {
+      "code": "B65D23/04",
+      "level": 1,
+      "parent": "B65D23/00",
+      "ja": "内容物の混合または流動促進の手段",
+      "en": "Means for mixing or for promoting flow of contents",
+      "count": 1154,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D23/06": {
+      "code": "B65D23/06",
+      "level": 1,
+      "parent": "B65D23/00",
+      "ja": "一体的に設けられた液垂れ受け部または液垂れ防止手段",
+      "en": "Integral drip catchers or drip-preventing means",
+      "count": 1457,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D23/08": {
+      "code": "B65D23/08",
+      "level": 1,
+      "parent": "B65D23/00",
+      "ja": "被覆または外部コーテング",
+      "en": "Coverings or external coatings",
+      "count": 5838,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D23/10": {
+      "code": "B65D23/10",
+      "level": 1,
+      "parent": "B65D23/00",
+      "ja": "取手",
+      "en": "Handles",
+      "count": 4458,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D23/12": {
+      "code": "B65D23/12",
+      "level": 1,
+      "parent": "B65D23/00",
+      "ja": "比較的小さい物品を取りつけるための手段",
+      "en": "Means for the attachment of smaller articles",
+      "count": 1688,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D23/14": {
+      "code": "B65D23/14",
+      "level": 2,
+      "parent": "B65D23/12",
+      "ja": "付け札",
+      "en": "of tags",
+      "count": 1033,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D23/16": {
+      "code": "B65D23/16",
+      "level": 2,
+      "parent": "B65D23/12",
+      "ja": "温度計",
+      "en": "of thermometers",
+      "count": 164,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D25/00": {
+      "code": "B65D25/00",
+      "level": 0,
+      "parent": "B65D",
+      "ja": "他の種類または形式の剛性または準剛性容器の細部",
+      "en": "Details of other kinds or types of rigid or semi-rigid containers",
+      "count": 20220,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D25/02": {
+      "code": "B65D25/02",
+      "level": 1,
+      "parent": "B65D25/00",
+      "ja": "内部の付属部分（紙製ブランクの折りたたみまたは組立により作られる容器のものＢ６５Ｄ５／４４）",
+      "en": "Internal fittings(of containers made by folding or erecting blanks made of paper <b>B65D5/44</b>)",
+      "count": 83669,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D25/04": {
+      "code": "B65D25/04",
+      "level": 2,
+      "parent": "B65D25/02",
+      "ja": "仕切り",
+      "en": "Partitions",
+      "count": 38098,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D25/06": {
+      "code": "B65D25/06",
+      "level": 3,
+      "parent": "B65D25/04",
+      "ja": "２以上の位置に選択的に適合するようにしたもの",
+      "en": "adapted to be fitted in two or more alternative positions",
+      "count": 9136,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D25/08": {
+      "code": "B65D25/08",
+      "level": 3,
+      "parent": "B65D25/04",
+      "ja": "除去または破壊するための手段をもつもの，例．内容物の混合を容易にするためのもの",
+      "en": "with provisions for removing or destroying, e.g. to facilitate mixing of contents",
+      "count": 3516,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D25/10": {
+      "code": "B65D25/10",
+      "level": 2,
+      "parent": "B65D25/02",
+      "ja": "容器に内容物を位置づけるための装置",
+      "en": "Devices to locate articles in containers",
+      "count": 91086,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D25/14": {
+      "code": "B65D25/14",
+      "level": 1,
+      "parent": "B65D25/00",
+      "ja": "ライニングまたは内部コーテング（紙製ブランクの折りたたみまたは組立てによる容器のものＢ６５Ｄ５／５６）",
+      "en": "Linings or internal coatings(of containers made by folding or erecting blanks made of paper <b>B65D5/56</b>)",
+      "count": 9383,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D25/16": {
+      "code": "B65D25/16",
+      "level": 2,
+      "parent": "B65D25/14",
+      "ja": "密着してないか，またはゆるく取付けられた，ライニング",
+      "en": "Loose, or loosely-attached, linings",
+      "count": 1356,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D25/18": {
+      "code": "B65D25/18",
+      "level": 2,
+      "parent": "B65D25/14",
+      "ja": "容器壁より幾分間隔を置かれたもの",
+      "en": "spaced appreciably from container wall",
+      "count": 416,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D25/20": {
+      "code": "B65D25/20",
+      "level": 1,
+      "parent": "B65D25/00",
+      "ja": "外部の付属部分（紙製ブランクの折りたたみまたは組立てにより作られる容器のものＢ６５Ｄ５／４４）",
+      "en": "External fittings(of containers made by folding or erecting blanks made of paper <b>B65D5/44</b>)",
+      "count": 44097,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D25/22": {
+      "code": "B65D25/22",
+      "level": 2,
+      "parent": "B65D25/20",
+      "ja": "容器の持上げや吊下げを容易にするためのもの",
+      "en": "for facilitating lifting or suspending of containers",
+      "count": 8328,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D25/24": {
+      "code": "B65D25/24",
+      "level": 2,
+      "parent": "B65D25/20",
+      "ja": "容器底部を支持面から距離をおくためのもの，例．脚（パレット用Ｂ６５Ｄ１９／４０）",
+      "en": "for spacing bases of containers from supporting surfaces, e.g. legs(for pallets <b>B65D19/40</b>)",
+      "count": 51079,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D25/26": {
+      "code": "B65D25/26",
+      "level": 2,
+      "parent": "B65D25/20",
+      "ja": "衝撃に対し内容物を保護するための装置",
+      "en": "Devices for protecting contents against shock",
+      "count": 4134,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D25/28": {
+      "code": "B65D25/28",
+      "level": 1,
+      "parent": "B65D25/00",
+      "ja": "取手（紙製ブランクの折りたたみまたは組立てにより作られる容器のものＢ６５Ｄ５／４６；ボトルまたはつぼのものＢ６５Ｄ２３／１０）［２００６．０１］",
+      "en": "Handles(of containers made by folding or erecting blanks made of paper <b>B65D5/46</b>; of bottles or jars <b>B65D23/10</b>)",
+      "count": 28565,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D25/30": {
+      "code": "B65D25/30",
+      "level": 2,
+      "parent": "B65D25/28",
+      "ja": "取手穴",
+      "en": "Hand holes",
+      "count": 2231,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D25/32": {
+      "code": "B65D25/32",
+      "level": 2,
+      "parent": "B65D25/28",
+      "ja": "ベイルハンドル，すなわち，概して半円形の枢着された取手",
+      "en": "Bail handles, i.e. pivoted handles of generally semi-circular shape",
+      "count": 3402,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D25/34": {
+      "code": "B65D25/34",
+      "level": 1,
+      "parent": "B65D25/00",
+      "ja": "被覆または外部コーティング（紙製ブランクの折りたたみまたは組立てにより作られる容器のものＢ６５Ｄ５／６２；他に分類されないボトルまたは広口ボトル用の被覆または外部コーテングＢ６５Ｄ２３／０８；被包材Ｂ６５Ｄ６５／００）［２００６．０１］",
+      "en": "Coverings or external coatings (of containers made by folding or erecting blanks made of paper <b>B65D5/62</b>;  covering or external coating for bottles or jars not otherwise provided for <b>B65D23/08</b>;  wrappers <b>B65D65/00</b>)",
+      "count": 6634,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D25/36": {
+      "code": "B65D25/36",
+      "level": 2,
+      "parent": "B65D25/34",
+      "ja": "シート材を用いることにより形成されるもの",
+      "en": "formed by applying sheet material",
+      "count": 1802,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D25/38": {
+      "code": "B65D25/38",
+      "level": 1,
+      "parent": "B65D25/00",
+      "ja": "内容物排出装置（取り外し可能なまたは一時的に固定された閉鎖具と一体となっているものＢ６５Ｄ４７／００；薄い板状の物品を取出すためのものＢ６５Ｄ８３／０８）",
+      "en": "Devices for discharging contents(incorporated in removable or non-permanently-secured closure members <b>B65D47/00</b>; for discharging thin flat articles <b>B65D83/08</b>)",
+      "count": 17394,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D25/40": {
+      "code": "B65D25/40",
+      "level": 2,
+      "parent": "B65D25/38",
+      "ja": "ノズルまたはスパウト",
+      "en": "Nozzles or spouts",
+      "count": 1897,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D25/42": {
+      "code": "B65D25/42",
+      "level": 3,
+      "parent": "B65D25/40",
+      "ja": "一体となったまたは取り付けられたノズルまたはスパウト",
+      "en": "Integral or attached nozzles or spouts",
+      "count": 2789,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D25/44": {
+      "code": "B65D25/44",
+      "level": 4,
+      "parent": "B65D25/42",
+      "ja": "伸縮自在または引込められるノズルまたはスパウト",
+      "en": "Telescopic or retractable nozzles or spouts",
+      "count": 722,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D25/46": {
+      "code": "B65D25/46",
+      "level": 4,
+      "parent": "B65D25/42",
+      "ja": "ヒンジ式に取付けられたまたは枢着されたノズルまたはスパウト",
+      "en": "Hinged or pivoted nozzles or spouts",
+      "count": 277,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D25/48": {
+      "code": "B65D25/48",
+      "level": 3,
+      "parent": "B65D25/40",
+      "ja": "分離できるノズルまたはスパウト",
+      "en": "Separable nozzles or spouts",
+      "count": 1992,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D25/50": {
+      "code": "B65D25/50",
+      "level": 4,
+      "parent": "B65D25/48",
+      "ja": "２つの位置に選択的に差し込まれるようにされたもの",
+      "en": "arranged to be plugged in two alternate positions",
+      "count": 109,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D25/52": {
+      "code": "B65D25/52",
+      "level": 2,
+      "parent": "B65D25/38",
+      "ja": "連続状の物品または内容物の一部分を排出する装置",
+      "en": "Devices for discharging successive articles or portions of contents",
+      "count": 19139,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D25/54": {
+      "code": "B65D25/54",
+      "level": 1,
+      "parent": "B65D25/00",
+      "ja": "検査用開口または窓",
+      "en": "Inspection openings or windows",
+      "count": 9800,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D25/56": {
+      "code": "B65D25/56",
+      "level": 2,
+      "parent": "B65D25/54",
+      "ja": "内容物のレベル指示手段をもつもの",
+      "en": "with means for indicating level of contents",
+      "count": 2186,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D27/00": {
+      "code": "B65D27/00",
+      "level": 0,
+      "parent": "B65D",
+      "ja": "封筒または内容物の厚さのための構造をもたない，郵便その他の目的のための本質的に矩形で可撓性のある類似の容器（衝撃吸収特性を有するものＢ６５Ｄ８１／０３）［２００６．０１］",
+      "en": "Envelopes or like essentially-rectangular flexible containers for postal or other purposes having no structural provision for thickness of contents(with shock-absorbing properties <b>B65D81/03</b>)",
+      "count": 5411,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D27/02": {
+      "code": "B65D27/02",
+      "level": 1,
+      "parent": "B65D27/00",
+      "ja": "補強挿入物をもつもの",
+      "en": "with stiffening inserts",
+      "count": 345,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D27/04": {
+      "code": "B65D27/04",
+      "level": 1,
+      "parent": "B65D27/00",
+      "ja": "内容物を見るための小口または窓をもつもの",
+      "en": "with apertures or windows for viewing contents",
+      "count": 1323,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D27/06": {
+      "code": "B65D27/06",
+      "level": 1,
+      "parent": "B65D27/00",
+      "ja": "繰返し再使用するための構造をもつもの",
+      "en": "with provisions for repeated re-use",
+      "count": 1379,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D27/08": {
+      "code": "B65D27/08",
+      "level": 1,
+      "parent": "B65D27/00",
+      "ja": "２以上の区画をもつもの",
+      "en": "with two or more compartments",
+      "count": 796,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D27/10": {
+      "code": "B65D27/10",
+      "level": 1,
+      "parent": "B65D27/00",
+      "ja": "相互に結合される封筒の連続体",
+      "en": "Chains of interconnected envelopes",
+      "count": 844,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D27/12": {
+      "code": "B65D27/12",
+      "level": 1,
+      "parent": "B65D27/00",
+      "ja": "閉鎖具［２００６．０１］",
+      "en": "Closures",
+      "count": 455,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D27/14": {
+      "code": "B65D27/14",
+      "level": 2,
+      "parent": "B65D27/12",
+      "ja": "一体部分，例．フラップ，に塗られた接着剤を使用するもの",
+      "en": "using adhesive applied to integral parts, e.g. flaps",
+      "count": 963,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D27/16": {
+      "code": "B65D27/16",
+      "level": 3,
+      "parent": "B65D27/14",
+      "ja": "感圧性接着剤を使用するもの",
+      "en": "using pressure-sensitive adhesive",
+      "count": 767,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D27/18": {
+      "code": "B65D27/18",
+      "level": 3,
+      "parent": "B65D27/14",
+      "ja": "熱溶着性接着剤を使用するもの",
+      "en": "using heat-activatable adhesive",
+      "count": 158,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D27/20": {
+      "code": "B65D27/20",
+      "level": 2,
+      "parent": "B65D27/12",
+      "ja": "一体または取り付けられた自己閉鎖要素を使用するもの",
+      "en": "using self-locking integral or attached elements",
+      "count": 261,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D27/22": {
+      "code": "B65D27/22",
+      "level": 3,
+      "parent": "B65D27/20",
+      "ja": "舌片とスロット型，または類似の閉鎖具；押し込みフラップ",
+      "en": "Tongue-and-slot or like closures; Tuck-in flaps",
+      "count": 595,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D27/24": {
+      "code": "B65D27/24",
+      "level": 3,
+      "parent": "B65D27/20",
+      "ja": "紐条体の閉鎖具",
+      "en": "String closures",
+      "count": 145,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D27/26": {
+      "code": "B65D27/26",
+      "level": 3,
+      "parent": "B65D27/20",
+      "ja": "変形できる金属要素",
+      "en": "Deformable metallic elements",
+      "count": 74,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D27/28": {
+      "code": "B65D27/28",
+      "level": 2,
+      "parent": "B65D27/12",
+      "ja": "別体の閉鎖要素の適用",
+      "en": "Applications of separate closing elements",
+      "count": 252,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D27/30": {
+      "code": "B65D27/30",
+      "level": 2,
+      "parent": "B65D27/12",
+      "ja": "無断で開口されたことを示す特殊手段をもつもの",
+      "en": "with special means for indicating unauthorised opening",
+      "count": 806,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D27/32": {
+      "code": "B65D27/32",
+      "level": 1,
+      "parent": "B65D27/00",
+      "ja": "封筒の製造中に組み入れられた開封装置",
+      "en": "Opening devices incorporated during envelope manufacture",
+      "count": 309,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D27/34": {
+      "code": "B65D27/34",
+      "level": 2,
+      "parent": "B65D27/32",
+      "ja": "弱め線",
+      "en": "Lines of weakness",
+      "count": 1236,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D27/36": {
+      "code": "B65D27/36",
+      "level": 2,
+      "parent": "B65D27/32",
+      "ja": "指掛け口，切り溝，摘み片",
+      "en": "Finger openings, slots, or gripping tabs",
+      "count": 282,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D27/38": {
+      "code": "B65D27/38",
+      "level": 2,
+      "parent": "B65D27/32",
+      "ja": "引裂き紐状体または引裂き片",
+      "en": "Tearing-strings or -strips",
+      "count": 1331,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D30/00": {
+      "code": "B65D30/00",
+      "level": 0,
+      "parent": "B65D",
+      "ja": "大袋，袋または類似の容器［３］",
+      "en": "Sacks, bags or like containers",
+      "count": 3262,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D30/02": {
+      "code": "B65D30/02",
+      "level": 1,
+      "parent": "B65D30/00",
+      "ja": "使用される材料に特徴のあるもの［３］",
+      "en": "characterised by the material used",
+      "count": 8780,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D30/04": {
+      "code": "B65D30/04",
+      "level": 2,
+      "parent": "B65D30/02",
+      "ja": "織物でできたもの［３］",
+      "en": "made of fabric",
+      "count": 1743,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D30/06": {
+      "code": "B65D30/06",
+      "level": 3,
+      "parent": "B65D30/04",
+      "ja": "網状のもの［３］",
+      "en": "net-like",
+      "count": 1187,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D30/08": {
+      "code": "B65D30/08",
+      "level": 2,
+      "parent": "B65D30/02",
+      "ja": "間隔があけられ，面と面が向き合った関係にあるラミネートされた壁または多数の壁をもつもの，例．二重壁（Ｂ６５Ｄ３０／１４，Ｂ６５Ｄ３０／２６が優先；衝撃吸収特性を有するものＢ６５Ｄ８１／０３）［３］",
+      "en": "with laminated or multiple walls in spaced face-to-face relationship, e.g. double walls(<b>B65D30/14</b>, <b>B65D30/26</b> take precedence; with shock-absorbing properties <b>B65D81/03</b>)",
+      "count": 10541,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D30/10": {
+      "code": "B65D30/10",
+      "level": 1,
+      "parent": "B65D30/00",
+      "ja": "形状，構造に特徴のあるもの［３］",
+      "en": "characterised by shape or construction",
+      "count": 13203,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D30/12": {
+      "code": "B65D30/12",
+      "level": 2,
+      "parent": "B65D30/10",
+      "ja": "クロスボトム袋［３］",
+      "en": "Cross bottom bags",
+      "count": 434,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D30/14": {
+      "code": "B65D30/14",
+      "level": 3,
+      "parent": "B65D30/12",
+      "ja": "多層のもの［３］",
+      "en": "multi-layered",
+      "count": 532,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D30/16": {
+      "code": "B65D30/16",
+      "level": 2,
+      "parent": "B65D30/10",
+      "ja": "剛性の端壁をもつもの，例．自立袋［３］",
+      "en": "with rigid end walls, e.g. free standing bags",
+      "count": 3453,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D30/18": {
+      "code": "B65D30/18",
+      "level": 2,
+      "parent": "B65D30/10",
+      "ja": "ブロック状の底面をもつもの［３］",
+      "en": "with block bottoms",
+      "count": 1440,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D30/20": {
+      "code": "B65D30/20",
+      "level": 2,
+      "parent": "B65D30/10",
+      "ja": "折り目をもつもの，例．折畳み易すくするもの［３］",
+      "en": "with folds, e.g. to facilitate collapsing",
+      "count": 3851,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D30/22": {
+      "code": "B65D30/22",
+      "level": 2,
+      "parent": "B65D30/10",
+      "ja": "２以上の区画をもつもの［３］",
+      "en": "with two or more compartments",
+      "count": 6429,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D30/24": {
+      "code": "B65D30/24",
+      "level": 2,
+      "parent": "B65D30/10",
+      "ja": "弁袋［３］",
+      "en": "Bags having valves",
+      "count": 4622,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D30/26": {
+      "code": "B65D30/26",
+      "level": 3,
+      "parent": "B65D30/24",
+      "ja": "多層のもの［３］",
+      "en": "multi-layered",
+      "count": 435,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D30/28": {
+      "code": "B65D30/28",
+      "level": 2,
+      "parent": "B65D30/10",
+      "ja": "三角形または円錐状の袋［３］",
+      "en": "Triangular- or conical-shaped bags",
+      "count": 893,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D33/00": {
+      "code": "B65D33/00",
+      "level": 0,
+      "parent": "B65D",
+      "ja": "大袋または袋の細部または附属品",
+      "en": "Details of, or accessories for, sacks or bags",
+      "count": 23553,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D33/01": {
+      "code": "B65D33/01",
+      "level": 1,
+      "parent": "B65D33/00",
+      "ja": "袋の通気または排水［３］",
+      "en": "Ventilation or draining of bags",
+      "count": 5836,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D33/02": {
+      "code": "B65D33/02",
+      "level": 1,
+      "parent": "B65D33/00",
+      "ja": "局部的な補強または補強芯材，例．針金，紐，ストリップまたは枠",
+      "en": "Local reinforcements or stiffening inserts, e.g. wires, strings, strips or frames",
+      "count": 6388,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D33/04": {
+      "code": "B65D33/04",
+      "level": 1,
+      "parent": "B65D33/00",
+      "ja": "窓または他の穴部，例．内容物観察用",
+      "en": "Windows or other apertures, e.g. for viewing contents",
+      "count": 2053,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D33/06": {
+      "code": "B65D33/06",
+      "level": 1,
+      "parent": "B65D33/00",
+      "ja": "取手",
+      "en": "Handles",
+      "count": 6652,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D33/08": {
+      "code": "B65D33/08",
+      "level": 2,
+      "parent": "B65D33/06",
+      "ja": "取手穴",
+      "en": "Hand holes",
+      "count": 2497,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D33/10": {
+      "code": "B65D33/10",
+      "level": 2,
+      "parent": "B65D33/06",
+      "ja": "袋で使用されている材料と類似の材料で形成されたもの",
+      "en": "formed of similar material to that used for the bag",
+      "count": 1539,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D33/12": {
+      "code": "B65D33/12",
+      "level": 2,
+      "parent": "B65D33/06",
+      "ja": "紐状体の取手",
+      "en": "String handles",
+      "count": 2360,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D33/14": {
+      "code": "B65D33/14",
+      "level": 1,
+      "parent": "B65D33/00",
+      "ja": "吊り下げ手段（取手Ｂ６５Ｄ３３／０６）",
+      "en": "Suspension means(handles <b>B65D33/06</b>)",
+      "count": 4707,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D33/16": {
+      "code": "B65D33/16",
+      "level": 1,
+      "parent": "B65D33/00",
+      "ja": "端部または小口を閉鎖するための構成または装置（バルブバッグの弁Ｂ６５Ｄ３０／２４；充てんされた袋の閉鎖具Ｂ６５Ｄ７７／１０）［２００６．０１］",
+      "en": "End- or aperture-closing arrangements or devices(valves of valve bags <b>B65D30/24</b>; closures of filled bags <b>B65D77/10</b>)",
+      "count": 12258,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D33/17": {
+      "code": "B65D33/17",
+      "level": 2,
+      "parent": "B65D33/16",
+      "ja": "ブラケット，リングまたはロックを有するもの［４］",
+      "en": "with brackets, rings or locks",
+      "count": 866,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D33/18": {
+      "code": "B65D33/18",
+      "level": 2,
+      "parent": "B65D33/16",
+      "ja": "一体部分，例．フラップ，に塗られた接着剤を用いるもの",
+      "en": "using adhesive applied to integral parts, e.g. to flaps",
+      "count": 1565,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D33/20": {
+      "code": "B65D33/20",
+      "level": 3,
+      "parent": "B65D33/18",
+      "ja": "感圧接着材を用いたもの",
+      "en": "using pressure-sensitive adhesive",
+      "count": 1892,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D33/22": {
+      "code": "B65D33/22",
+      "level": 3,
+      "parent": "B65D33/18",
+      "ja": "熱溶着性接着材を使用するもの",
+      "en": "using heat-activatable adhesive",
+      "count": 1325,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D33/24": {
+      "code": "B65D33/24",
+      "level": 2,
+      "parent": "B65D33/16",
+      "ja": "自己ロック式の一体または取付けられた閉鎖要素，例．フラップ，を使用するもの（Ｂ６５Ｄ３３／２５が優先）［４］",
+      "en": "using self-locking integral or attached closure elements, e.g. flaps(<b>B65D33/25</b> takes precedence)",
+      "count": 2599,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D33/25": {
+      "code": "B65D33/25",
+      "level": 2,
+      "parent": "B65D33/16",
+      "ja": "リベット；アリ溝；ねじ；押込みボタンまたはスライドファスナーを用いるもの［４］",
+      "en": "Riveting; Dovetailing; Screwing; using press buttons or slide fasteners",
+      "count": 9979,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D33/26": {
+      "code": "B65D33/26",
+      "level": 2,
+      "parent": "B65D33/16",
+      "ja": "留め金（ｓｔａｐｌｅｓ）またはひと縫い（ｓｔｉｔｃｈｅｓ）によるもの",
+      "en": "using staples or stitches",
+      "count": 387,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D33/28": {
+      "code": "B65D33/28",
+      "level": 2,
+      "parent": "B65D33/16",
+      "ja": "紐状または帯状閉鎖具［４］",
+      "en": "Strings or strip-like closures",
+      "count": 3618,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D33/30": {
+      "code": "B65D33/30",
+      "level": 2,
+      "parent": "B65D33/16",
+      "ja": "変形可能なもしくは弾性のある金属または類似のストリップもしくはバンド",
+      "en": "Deformable or resilient metal or like strips or bands",
+      "count": 1731,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D33/32": {
+      "code": "B65D33/32",
+      "level": 2,
+      "parent": "B65D33/16",
+      "ja": "金属鎖の閉鎖具",
+      "en": "Metallic chain closures",
+      "count": 128,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D33/34": {
+      "code": "B65D33/34",
+      "level": 2,
+      "parent": "B65D33/16",
+      "ja": "無断で開口されたことを示す特殊手段をもつもの",
+      "en": "with special means for indicating unauthorised opening",
+      "count": 1178,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D33/36": {
+      "code": "B65D33/36",
+      "level": 1,
+      "parent": "B65D33/00",
+      "ja": "内容物排出手段",
+      "en": "Means for discharging contents",
+      "count": 5014,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D33/38": {
+      "code": "B65D33/38",
+      "level": 2,
+      "parent": "B65D33/36",
+      "ja": "スパウト",
+      "en": "Spouts",
+      "count": 4835,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D35/00": {
+      "code": "B65D35/00",
+      "level": 0,
+      "parent": "B65D",
+      "ja": "内容物を排出するために恒久的に変形されるように適合した柔軟な管状容器，例．練歯磨または他の可塑性もしくは準液状材料のための押出しチューブ；そのための保持具",
+      "en": "Pliable tubular containers adapted to be permanently deformed to expel contents, e.g. collapsible tubes for toothpaste or other plastic or semi-liquid material; Holders therefor",
+      "count": 1352,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D35/02": {
+      "code": "B65D35/02",
+      "level": 1,
+      "parent": "B65D35/00",
+      "ja": "本体構造",
+      "en": "Body construction",
+      "count": 2877,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D35/04": {
+      "code": "B65D35/04",
+      "level": 2,
+      "parent": "B65D35/02",
+      "ja": "一体に作られたもの",
+      "en": "made in one piece",
+      "count": 417,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D35/06": {
+      "code": "B65D35/06",
+      "level": 3,
+      "parent": "B65D35/04",
+      "ja": "金属材料からなるもの",
+      "en": "from metallic material",
+      "count": 325,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D35/08": {
+      "code": "B65D35/08",
+      "level": 3,
+      "parent": "B65D35/04",
+      "ja": "プラスチック材料からなるもの",
+      "en": "from plastics material",
+      "count": 1382,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D35/10": {
+      "code": "B65D35/10",
+      "level": 2,
+      "parent": "B65D35/02",
+      "ja": "２以上の構成要素の結合または相互連結により作られたもの",
+      "en": "made by uniting or interconnecting two or more components",
+      "count": 1658,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D35/12": {
+      "code": "B65D35/12",
+      "level": 2,
+      "parent": "B65D35/02",
+      "ja": "本体と閉鎖具の受部との連結",
+      "en": "Connections between body and closure-receiving bush",
+      "count": 728,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D35/14": {
+      "code": "B65D35/14",
+      "level": 1,
+      "parent": "B65D35/00",
+      "ja": "ライニングまたは挿入物をもつもの",
+      "en": "with linings or inserts",
+      "count": 716,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D35/16": {
+      "code": "B65D35/16",
+      "level": 2,
+      "parent": "B65D35/14",
+      "ja": "本体の腐食を最小化するまたは防止するためのもの",
+      "en": "for minimising or preventing corrosion of body",
+      "count": 107,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D35/18": {
+      "code": "B65D35/18",
+      "level": 2,
+      "parent": "B65D35/14",
+      "ja": "内容物の部分的な排出後，巻かれた状態に本体を維持するためのもの",
+      "en": "for keeping body in rolled state after partial expulsion of contents",
+      "count": 207,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D35/20": {
+      "code": "B65D35/20",
+      "level": 2,
+      "parent": "B65D35/14",
+      "ja": "内容物を引き込ませるためのもの",
+      "en": "for retracting contents",
+      "count": 91,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D35/22": {
+      "code": "B65D35/22",
+      "level": 1,
+      "parent": "B65D35/00",
+      "ja": "２以上の区画のあるもの",
+      "en": "with two or more compartments",
+      "count": 1293,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D35/24": {
+      "code": "B65D35/24",
+      "level": 1,
+      "parent": "B65D35/00",
+      "ja": "補助的装置をもつもの［２００６．０１］",
+      "en": "with auxiliary devices",
+      "count": 1224,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D35/26": {
+      "code": "B65D35/26",
+      "level": 2,
+      "parent": "B65D35/24",
+      "ja": "充てん用のもの",
+      "en": "for filling",
+      "count": 81,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D35/28": {
+      "code": "B65D35/28",
+      "level": 2,
+      "parent": "B65D35/24",
+      "ja": "内容物を押出すためのもの",
+      "en": "for expelling contents",
+      "count": 4514,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D35/30": {
+      "code": "B65D35/30",
+      "level": 3,
+      "parent": "B65D35/28",
+      "ja": "ピストン",
+      "en": "Pistons",
+      "count": 745,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D35/32": {
+      "code": "B65D35/32",
+      "level": 2,
+      "parent": "B65D35/24",
+      "ja": "巻きキー",
+      "en": "Winding keys",
+      "count": 531,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D35/34": {
+      "code": "B65D35/34",
+      "level": 3,
+      "parent": "B65D35/32",
+      "ja": "チューブ保持具に結合，または組み合さっているもの",
+      "en": "connected to, or associated with, tube holders",
+      "count": 438,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D35/36": {
+      "code": "B65D35/36",
+      "level": 2,
+      "parent": "B65D35/24",
+      "ja": "表面に内容物を塗布するためのもの",
+      "en": "for applying contents to surfaces",
+      "count": 695,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D35/38": {
+      "code": "B65D35/38",
+      "level": 3,
+      "parent": "B65D35/36",
+      "ja": "ノズル",
+      "en": "Nozzles",
+      "count": 1292,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D35/40": {
+      "code": "B65D35/40",
+      "level": 2,
+      "parent": "B65D35/24",
+      "ja": "定量排出するためのもの",
+      "en": "for metering discharge",
+      "count": 456,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D35/42": {
+      "code": "B65D35/42",
+      "level": 2,
+      "parent": "B65D35/24",
+      "ja": "取り外し可能な閉鎖部材の紛失を防止するためのもの",
+      "en": "for preventing loss of removable closure members",
+      "count": 436,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D35/44": {
+      "code": "B65D35/44",
+      "level": 1,
+      "parent": "B65D35/00",
+      "ja": "閉鎖具",
+      "en": "Closures",
+      "count": 3178,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D35/46": {
+      "code": "B65D35/46",
+      "level": 2,
+      "parent": "B65D35/44",
+      "ja": "弁を有するもの",
+      "en": "with valves",
+      "count": 449,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D35/48": {
+      "code": "B65D35/48",
+      "level": 3,
+      "parent": "B65D35/46",
+      "ja": "手動弁",
+      "en": "Hand-operated valves",
+      "count": 351,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D35/50": {
+      "code": "B65D35/50",
+      "level": 3,
+      "parent": "B65D35/46",
+      "ja": "管状容器が変形される時に開くもの",
+      "en": "opening when tubular containers is deformed",
+      "count": 801,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D35/52": {
+      "code": "B65D35/52",
+      "level": 3,
+      "parent": "B65D35/46",
+      "ja": "スリット",
+      "en": "Slits",
+      "count": 218,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D35/54": {
+      "code": "B65D35/54",
+      "level": 3,
+      "parent": "B65D35/46",
+      "ja": "内容物が塗布される面に対して閉鎖具が押圧される時に開くもの［２００６．０１］",
+      "en": "opening when closure is pressed against a surface to which contents are applied",
+      "count": 90,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D35/56": {
+      "code": "B65D35/56",
+      "level": 1,
+      "parent": "B65D35/00",
+      "ja": "押出しチューブのための保持具",
+      "en": "Holders for collapsible tubes",
+      "count": 970,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D37/00": {
+      "code": "B65D37/00",
+      "level": 0,
+      "parent": "B65D",
+      "ja": "他に分類されない持ち運び可能な可撓性容器",
+      "en": "Portable flexible containers not otherwise provided for",
+      "count": 2345,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D39/00": {
+      "code": "B65D39/00",
+      "level": 0,
+      "parent": "B65D",
+      "ja": "首部，注出用開口または排出用小口の内側に配置される閉鎖具，例．ボトル栓（蓋またはカバーＢ６５Ｄ４３／００）［２００６．０１］",
+      "en": "Closures arranged within necks or pouring openings or in discharge apertures, e.g. stoppers(lids or covers <b>B65D43/00</b>)",
+      "count": 6907,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D39/02": {
+      "code": "B65D39/02",
+      "level": 1,
+      "parent": "B65D39/00",
+      "ja": "円板状閉鎖具［２００６．０１］",
+      "en": "Disc closures",
+      "count": 1061,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D39/04": {
+      "code": "B65D39/04",
+      "level": 1,
+      "parent": "B65D39/00",
+      "ja": "カップ形状の栓部または類似の中空のフランジ付部材",
+      "en": "Cup-shaped plugs or like hollow flanged members",
+      "count": 3376,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D39/06": {
+      "code": "B65D39/06",
+      "level": 1,
+      "parent": "B65D39/00",
+      "ja": "球",
+      "en": "Balls",
+      "count": 433,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D39/08": {
+      "code": "B65D39/08",
+      "level": 1,
+      "parent": "B65D39/00",
+      "ja": "回転により固定される，ネジ付きまたはそれに類似する閉鎖部材；それらの受部",
+      "en": "Threaded or like closure members secured by rotation; Bushes therefor",
+      "count": 3248,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D39/10": {
+      "code": "B65D39/10",
+      "level": 2,
+      "parent": "B65D39/08",
+      "ja": "バヨネットカムをもつもの",
+      "en": "with bayonet cams",
+      "count": 163,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D39/12": {
+      "code": "B65D39/12",
+      "level": 1,
+      "parent": "B65D39/00",
+      "ja": "膨張可能なもの，例．空気で膨らませるもの",
+      "en": "expansible, e.g. inflatable",
+      "count": 1381,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D39/14": {
+      "code": "B65D39/14",
+      "level": 1,
+      "parent": "B65D39/00",
+      "ja": "首部の側面の開口を通って延びるもの",
+      "en": "extending through lateral openings in necks",
+      "count": 78,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D39/16": {
+      "code": "B65D39/16",
+      "level": 1,
+      "parent": "B65D39/00",
+      "ja": "取手または手動操作を容易にするためのその他の特殊手段をもつもの",
+      "en": "with handles or other special means facilitating manual actuation",
+      "count": 2307,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D39/18": {
+      "code": "B65D39/18",
+      "level": 1,
+      "parent": "B65D39/00",
+      "ja": "減摩性または耐摩耗性のコーティングまたは被覆をもつもの",
+      "en": "with anti-friction or wear-resistant coatings or coverings",
+      "count": 156,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D41/00": {
+      "code": "B65D41/00",
+      "level": 0,
+      "parent": "B65D",
+      "ja": "キャップ，例．王冠，クラウンシール，すなわち，注出用開口または排出用小口を画定する首部または壁部の外側周面と係合するようにされた部分をもつ部材；閉鎖部材のための保護用キャップ状カバー，例．金属箔製または紙製の装飾カバー（閉鎖部材を固定または保持するための締付けまたは他の加圧装置Ｂ６５Ｄ４５／００）［２００６．０１］",
+      "en": "Caps, e.g. crown caps or crown seals, i.e. members having parts arranged for engagement with the external periphery of a neck or wall defining a pouring opening or discharge aperture; Protective cap-like covers for closure members, e.g. decorative covers of metal foil or paper (clamping or other pressure-applying devices for securing or retaining closure members <b>B65D45/00</b>)",
+      "count": 3214,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D41/01": {
+      "code": "B65D41/01",
+      "level": 1,
+      "parent": "B65D41/00",
+      "ja": "複数のサイズに順応することに特に適合するもの［６］",
+      "en": "specially adapted for accommodating plural sizes",
+      "count": 57,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D41/02": {
+      "code": "B65D41/02",
+      "level": 1,
+      "parent": "B65D41/00",
+      "ja": "弱め線，ティアーストリップ，摘みまたは類似の開口装置もしくは除去装置のないキャップまたはキャップ状カバー",
+      "en": "Caps or cap-like covers without lines of weakness, tearing strips, tags, or like opening or removal devices",
+      "count": 3145,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D41/04": {
+      "code": "B65D41/04",
+      "level": 2,
+      "parent": "B65D41/02",
+      "ja": "回転により固定される，ねじ付きまたはそれに類似するキャップまたはキャップ状カバー",
+      "en": "Threaded or like caps or cap-like covers secured by rotation",
+      "count": 18775,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D41/06": {
+      "code": "B65D41/06",
+      "level": 3,
+      "parent": "B65D41/04",
+      "ja": "バヨネットカムをもつもの",
+      "en": "with bayonet cams",
+      "count": 757,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D41/08": {
+      "code": "B65D41/08",
+      "level": 3,
+      "parent": "B65D41/04",
+      "ja": "首部または壁部の外側周面上に締止されるねじ付きリングと係合するもの",
+      "en": "engaging a threaded ring clamped on the external periphery of the neck or wall",
+      "count": 730,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D41/10": {
+      "code": "B65D41/10",
+      "level": 2,
+      "parent": "B65D41/02",
+      "ja": "壁との係合部の永久変形により所定位置に固定されることに適合するキャップまたはキャップ状カバー",
+      "en": "Caps or cap-like covers adapted to be secured in position by permanent deformation of the wall-engaging parts",
+      "count": 509,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D41/12": {
+      "code": "B65D41/12",
+      "level": 3,
+      "parent": "B65D41/10",
+      "ja": "比較的硬い金属材製のもの，例．王冠",
+      "en": "made of relatively-stiff metallic materials, e.g. crown caps",
+      "count": 1142,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D41/14": {
+      "code": "B65D41/14",
+      "level": 3,
+      "parent": "B65D41/10",
+      "ja": "金属箔製または類似の薄い可撓性材料製のもの",
+      "en": "made of metallic foil or like thin flexible material",
+      "count": 337,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D41/16": {
+      "code": "B65D41/16",
+      "level": 2,
+      "parent": "B65D41/02",
+      "ja": "スナップ式のキャップまたはキャップ状カバー",
+      "en": "Snap-on caps or cap-like covers",
+      "count": 2482,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D41/17": {
+      "code": "B65D41/17",
+      "level": 3,
+      "parent": "B65D41/16",
+      "ja": "プッシュオンツイストオフ［６］",
+      "en": "push-on and twist-off",
+      "count": 540,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D41/18": {
+      "code": "B65D41/18",
+      "level": 3,
+      "parent": "B65D41/16",
+      "ja": "非金属のもの，例．紙またはプラスチック製",
+      "en": "non-metallic, e.g. made of paper or plastics",
+      "count": 1536,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D41/20": {
+      "code": "B65D41/20",
+      "level": 2,
+      "parent": "B65D41/02",
+      "ja": "薄膜，例．穿孔されるようにしたもの，をもつキャップまたはキャップ状カバー",
+      "en": "Caps or cap-like covers with membranes, e.g. arranged to be pierced",
+      "count": 565,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D41/22": {
+      "code": "B65D41/22",
+      "level": 2,
+      "parent": "B65D41/02",
+      "ja": "容器上に伸ばされることに適合した弾性部分をもつキャップまたはキャップ状カバー",
+      "en": "Caps or cap-like covers with elastic parts adapted to be stretched over the container",
+      "count": 486,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D41/24": {
+      "code": "B65D41/24",
+      "level": 2,
+      "parent": "B65D41/02",
+      "ja": "収縮性材料からなる，または，浸漬法によって，例．ゼラチンまたはセルロイドを使用し，その場で形成されるキャップまたはキャップ状カバー",
+      "en": "Caps or cap-like covers made of shrinkable material or formed <u>in situ</u> by dipping, e.g. using gelatine or celluloid",
+      "count": 181,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D41/26": {
+      "code": "B65D41/26",
+      "level": 2,
+      "parent": "B65D41/02",
+      "ja": "飲用容器または計量容器として働く，または，それらの容器を組み込んだキャップまたはキャップ状カバー",
+      "en": "Caps or cap-like covers serving as, or incorporating, drinking or measuring vessels",
+      "count": 1769,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D41/28": {
+      "code": "B65D41/28",
+      "level": 2,
+      "parent": "B65D41/02",
+      "ja": "栓と結合したキャップ",
+      "en": "Caps combined with stoppers",
+      "count": 2729,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D41/30": {
+      "code": "B65D41/30",
+      "level": 3,
+      "parent": "B65D41/28",
+      "ja": "弾性栓体と結合して一時的な閉鎖具としての再利用を許容する，変形可能なキャップ",
+      "en": "Deformable caps combined with resilient stoppers to permit re-use as temporary closures",
+      "count": 140,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D41/32": {
+      "code": "B65D41/32",
+      "level": 1,
+      "parent": "B65D41/00",
+      "ja": "弱め線，ティアーストリップ，摘みまたは類似の開口装置もしくは除去装置をもつキャップまたはキャップ状カバー，例．注出開口の形成を容易にするためのもの",
+      "en": "Caps or cap-like covers with lines of weakness, tearing-strips, tags, or like opening or removal devices, e.g. to facilitate formation of pouring openings",
+      "count": 4473,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D41/34": {
+      "code": "B65D41/34",
+      "level": 2,
+      "parent": "B65D41/32",
+      "ja": "ねじ付きまたはそれに類似するキャップまたはキャップ状カバー",
+      "en": "Threaded or like caps or cap-like covers",
+      "count": 6548,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D41/36": {
+      "code": "B65D41/36",
+      "level": 3,
+      "parent": "B65D41/34",
+      "ja": "バヨネットカムをもつもの",
+      "en": "with bayonet cams",
+      "count": 111,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D41/38": {
+      "code": "B65D41/38",
+      "level": 3,
+      "parent": "B65D41/34",
+      "ja": "首部または壁部の外側周面上に締止されるねじ付リングと係合するもの",
+      "en": "engaging a threaded ring clamped on the external periphery of the neck or wall",
+      "count": 305,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D41/40": {
+      "code": "B65D41/40",
+      "level": 2,
+      "parent": "B65D41/32",
+      "ja": "壁との係合部の永久変形により所定位置に固定されることに適合するキャップまたはキャップ状カバー",
+      "en": "Caps or cap-like covers adapted to be secured in position by permanent deformation of the wall-engaging parts",
+      "count": 531,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D41/42": {
+      "code": "B65D41/42",
+      "level": 3,
+      "parent": "B65D41/40",
+      "ja": "比較的硬い金属材製のもの，例．王冠",
+      "en": "made of relatively-stiff metallic material, e.g. crown caps",
+      "count": 1099,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D41/44": {
+      "code": "B65D41/44",
+      "level": 3,
+      "parent": "B65D41/40",
+      "ja": "金属箔製または類似の薄い可撓性材料製のもの",
+      "en": "made of metallic foil or like thin flexible material",
+      "count": 287,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D41/46": {
+      "code": "B65D41/46",
+      "level": 2,
+      "parent": "B65D41/32",
+      "ja": "スナップ式のキャップまたはキャップ状カバー",
+      "en": "Snap-on caps or cap-like covers",
+      "count": 488,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D41/47": {
+      "code": "B65D41/47",
+      "level": 3,
+      "parent": "B65D41/46",
+      "ja": "プッシュオンツイストオフ［６］",
+      "en": "push-on and twist-off",
+      "count": 74,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D41/48": {
+      "code": "B65D41/48",
+      "level": 3,
+      "parent": "B65D41/46",
+      "ja": "非金属のもの，例．紙またはプラスチック製",
+      "en": "non-metallic, e.g. made of paper or plastics",
+      "count": 1380,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D41/50": {
+      "code": "B65D41/50",
+      "level": 2,
+      "parent": "B65D41/32",
+      "ja": "薄膜，例．穿孔されるようにしたもの，をもつキャップまたはキャップ状カバー",
+      "en": "Caps or cap-like covers with membranes, e.g. arranged to be pierced",
+      "count": 385,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D41/52": {
+      "code": "B65D41/52",
+      "level": 2,
+      "parent": "B65D41/32",
+      "ja": "容器上に伸ばされることに適合した弾性部分をもつキャップまたはキャップ状カバー",
+      "en": "Caps or cap-like covers with elastic parts adapted to be stretched over the container",
+      "count": 93,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D41/54": {
+      "code": "B65D41/54",
+      "level": 2,
+      "parent": "B65D41/32",
+      "ja": "収縮性材料からなる，または，浸漬法によって，例．ゼラチンまたはセルロイドを使用し，その場で形成されるキャップまたはキャップ状カバー",
+      "en": "Caps or cap-like covers made of shrinkable material or formed in situ by dipping, e.g. using gelatine or celluloid",
+      "count": 90,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D41/56": {
+      "code": "B65D41/56",
+      "level": 2,
+      "parent": "B65D41/32",
+      "ja": "飲用容器または計量容器として働く，または，それらの容器を組み込んだキャップまたはキャップ状カバー",
+      "en": "Caps or cap-like covers serving as, or incorporating, drinking or measuring vessels",
+      "count": 347,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D41/58": {
+      "code": "B65D41/58",
+      "level": 2,
+      "parent": "B65D41/32",
+      "ja": "栓と結合したキャップまたはキャップ状カバー",
+      "en": "Caps or cap-like covers combined with stoppers",
+      "count": 1059,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D41/60": {
+      "code": "B65D41/60",
+      "level": 3,
+      "parent": "B65D41/58",
+      "ja": "弾性栓体と結合して一時的な閉鎖具としての再利用を許容する，変形可能なキャップ",
+      "en": "Deformable caps combined with resilient stoppers to permit re-use as temporary closures",
+      "count": 115,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D41/62": {
+      "code": "B65D41/62",
+      "level": 1,
+      "parent": "B65D41/00",
+      "ja": "閉鎖部材のための二次的保護用キャップ状外側カバー",
+      "en": "Secondary protective cap-like outer covers for closure members",
+      "count": 3252,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D43/00": {
+      "code": "B65D43/00",
+      "level": 0,
+      "parent": "B65D",
+      "ja": "剛性または準剛性容器用の蓋またはカバー［２００６．０１］",
+      "en": "Lids or covers for rigid or semi-rigid containers",
+      "count": 2913,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D43/02": {
+      "code": "B65D43/02",
+      "level": 1,
+      "parent": "B65D43/00",
+      "ja": "取り外し可能な蓋またはカバー（脆弱な内側閉鎖具の穿孔，切断，引裂きまたは引き剥がしのための手段をもつものＢ６５Ｄ５１／２２）",
+      "en": "Removable lids or covers(with means for piercing, cutting, or tearing a frangible inner closure <b>B65D51/22</b>)",
+      "count": 23250,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D43/03": {
+      "code": "B65D43/03",
+      "level": 2,
+      "parent": "B65D43/02",
+      "ja": "重ねてはめ込むことのできるものまたは積重ねできるもの［３］",
+      "en": "nestable or stackable",
+      "count": 762,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D43/04": {
+      "code": "B65D43/04",
+      "level": 2,
+      "parent": "B65D43/02",
+      "ja": "容器の口部内に係合して，摩擦または重力により保持される一部分または複数部分をもつもの",
+      "en": "having a part, or parts, engaging within the mouth of the container and retained by friction or gravity",
+      "count": 2144,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D43/06": {
+      "code": "B65D43/06",
+      "level": 2,
+      "parent": "B65D43/02",
+      "ja": "容器の縁を取り囲む周辺溝をもつもの",
+      "en": "having a peripheral channel embracing the rim of the container",
+      "count": 3163,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D43/08": {
+      "code": "B65D43/08",
+      "level": 2,
+      "parent": "B65D43/02",
+      "ja": "容器の縁に嵌まる周辺フランジをもつもの",
+      "en": "having a peripheral flange fitting over the rim of the container",
+      "count": 2591,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D43/10": {
+      "code": "B65D43/10",
+      "level": 3,
+      "parent": "B65D43/08",
+      "ja": "さらにビードまたは突出部にスナップ式に保持されるもの",
+      "en": "and retained by snapping over beads or projections",
+      "count": 2275,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D43/12": {
+      "code": "B65D43/12",
+      "level": 2,
+      "parent": "B65D43/02",
+      "ja": "摺動による取り外しが案内されるもの",
+      "en": "guided for removal by sliding",
+      "count": 1707,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D43/14": {
+      "code": "B65D43/14",
+      "level": 1,
+      "parent": "B65D43/00",
+      "ja": "取り外し不能の蓋またはカバー",
+      "en": "Non-removable lids or covers",
+      "count": 2893,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D43/16": {
+      "code": "B65D43/16",
+      "level": 2,
+      "parent": "B65D43/14",
+      "ja": "上方または下方に動くようにヒンジ接続されたもの［２００６．０１］",
+      "en": "hinged for upward or downward movement",
+      "count": 25759,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D43/18": {
+      "code": "B65D43/18",
+      "level": 2,
+      "parent": "B65D43/14",
+      "ja": "容器口部の面内で動くように枢着されたもの",
+      "en": "pivoted for movement in plane of container mouth",
+      "count": 824,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D43/20": {
+      "code": "B65D43/20",
+      "level": 2,
+      "parent": "B65D43/14",
+      "ja": "直線方向に摺動可能なもの",
+      "en": "linearly slidable",
+      "count": 2312,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D43/22": {
+      "code": "B65D43/22",
+      "level": 2,
+      "parent": "B65D43/14",
+      "ja": "閉鎖位置に保持するための装置，例．クリップ［４］",
+      "en": "Devices for holding in closed position, e.g. clips",
+      "count": 7379,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D43/24": {
+      "code": "B65D43/24",
+      "level": 2,
+      "parent": "B65D43/14",
+      "ja": "開かれた位置に保持するための装置",
+      "en": "Devices for retaining in open position",
+      "count": 2261,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D43/26": {
+      "code": "B65D43/26",
+      "level": 1,
+      "parent": "B65D43/00",
+      "ja": "開けるまたは閉じるための機構，例．ペダルで操作されるもの",
+      "en": "Mechanisms for opening or closing, e.g. pedal- operated",
+      "count": 8091,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D45/00": {
+      "code": "B65D45/00",
+      "level": 0,
+      "parent": "B65D",
+      "ja": "閉鎖部材を固定または保持するための締付けまたは他の加圧装置（膨張可能なボトル栓Ｂ６５Ｄ３９／１２）［２００６．０１］",
+      "en": "Clamping or other pressure-applying devices for securing or retaining closure members(expansible stoppers <b>B65D39/12</b>)",
+      "count": 1720,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D45/02": {
+      "code": "B65D45/02",
+      "level": 1,
+      "parent": "B65D45/00",
+      "ja": "閉鎖具を密閉面に係合させるために軸圧をかけるためのもの",
+      "en": "for applying axial pressure to engage closure with sealing surface",
+      "count": 3198,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D45/04": {
+      "code": "B65D45/04",
+      "level": 2,
+      "parent": "B65D45/02",
+      "ja": "容器と協働するＵ字形または二又状部材から構成されるもの，例．枢着されたＵ字形部材",
+      "en": "comprising U-shaped or bifurcated members coacting with containers, e.g. pivoted bails",
+      "count": 483,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D45/06": {
+      "code": "B65D45/06",
+      "level": 3,
+      "parent": "B65D45/04",
+      "ja": "トグルレバーと組み合わせたもの，例．スイング栓装置",
+      "en": "associated with toggle levers, e.g. swing stopper arrangements",
+      "count": 611,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D45/08": {
+      "code": "B65D45/08",
+      "level": 3,
+      "parent": "B65D45/04",
+      "ja": "ばねを組み込んだもの",
+      "en": "incorporating springs",
+      "count": 209,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D45/10": {
+      "code": "B65D45/10",
+      "level": 3,
+      "parent": "B65D45/04",
+      "ja": "締付けねじを組み込んだもの",
+      "en": "incorporating tightening screws",
+      "count": 163,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D45/12": {
+      "code": "B65D45/12",
+      "level": 3,
+      "parent": "B65D45/04",
+      "ja": "加圧力を変えるためにラック歯と係合するロックレバーと組み合わせたもの",
+      "en": "associated with locking levers engaging rack teeth for varying the applied pressure",
+      "count": 31,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D45/14": {
+      "code": "B65D45/14",
+      "level": 3,
+      "parent": "B65D45/04",
+      "ja": "加圧力を変えるために容器壁中の傾斜溝と協働するもの",
+      "en": "coacting with inclined grooves in container wall for varying the applied pressure",
+      "count": 53,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D45/16": {
+      "code": "B65D45/16",
+      "level": 2,
+      "parent": "B65D45/02",
+      "ja": "クリップ，フックまたはクランプ，例．Ｃ字形のもの（Ｕ字形または二又状部材Ｂ６５Ｄ４５／０４）",
+      "en": "Clips, hooks, or clamps, e.g. C-shaped(U-shaped or bifurcated members <b>B65D45/04</b>)",
+      "count": 2184,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D45/18": {
+      "code": "B65D45/18",
+      "level": 3,
+      "parent": "B65D45/16",
+      "ja": "スナップ式のもの",
+      "en": "of snap-over type",
+      "count": 1741,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D45/20": {
+      "code": "B65D45/20",
+      "level": 3,
+      "parent": "B65D45/16",
+      "ja": "枢着されたもの",
+      "en": "pivoted",
+      "count": 717,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D45/22": {
+      "code": "B65D45/22",
+      "level": 4,
+      "parent": "B65D45/20",
+      "ja": "弾性のもの",
+      "en": "resilient",
+      "count": 547,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D45/24": {
+      "code": "B65D45/24",
+      "level": 4,
+      "parent": "B65D45/20",
+      "ja": "加圧手段，例．ねじまたはトグル，を組み込んだもの",
+      "en": "incorporating pressure-applying means, e.g. screws or toggles",
+      "count": 778,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D45/26": {
+      "code": "B65D45/26",
+      "level": 4,
+      "parent": "B65D45/20",
+      "ja": "張力をかける鎖を組み込んだもの",
+      "en": "incorporating tensioning chains",
+      "count": 26,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D45/28": {
+      "code": "B65D45/28",
+      "level": 2,
+      "parent": "B65D45/02",
+      "ja": "閉鎖具の軸に対して，実質的に直角に配置され，閉鎖具の面と容器の受け部との間で作用する細長部材，例．板ばね",
+      "en": "Elongated members, e.g. leaf springs, located substantially at right angles to closure axis and acting between the face of the closure and abutments on container",
+      "count": 797,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D45/30": {
+      "code": "B65D45/30",
+      "level": 2,
+      "parent": "B65D45/02",
+      "ja": "環状部材，例．スナップ式のものまたはねじ付きのもの",
+      "en": "Annular members, e.g. with snap-over action or screw-threaded",
+      "count": 558,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D45/32": {
+      "code": "B65D45/32",
+      "level": 1,
+      "parent": "B65D45/00",
+      "ja": "半径方向圧力をかけるためのもの，例．閉鎖部材を囲む収縮可能なバンド",
+      "en": "for applying radial pressure, e.g. contractible bands encircling closure member",
+      "count": 2331,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D45/34": {
+      "code": "B65D45/34",
+      "level": 2,
+      "parent": "B65D45/32",
+      "ja": "レバーで操作されるもの",
+      "en": "lever-operated",
+      "count": 903,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D47/00": {
+      "code": "B65D47/00",
+      "level": 0,
+      "parent": "B65D",
+      "ja": "充てんおよび排出装置または排出装置をもつ閉鎖具［２００６．０１］",
+      "en": "Closures with filling and discharging, or with discharging, devices",
+      "count": 2841,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D47/02": {
+      "code": "B65D47/02",
+      "level": 1,
+      "parent": "B65D47/00",
+      "ja": "最初に充てんするためのものであり，かつ，その後の再充てんを防止するためのもの",
+      "en": "for initially filling and for preventing subsequent refilling",
+      "count": 540,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D47/04": {
+      "code": "B65D47/04",
+      "level": 1,
+      "parent": "B65D47/00",
+      "ja": "ポンプ以外の排出装置をもつ閉鎖具",
+      "en": "Closures with discharging devices other than pumps",
+      "count": 1536,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D47/06": {
+      "code": "B65D47/06",
+      "level": 2,
+      "parent": "B65D47/04",
+      "ja": "注出のためのスパウトまたは管をもつもの；排出のためのノズルまたは流路をもつもの（スライド可能なスパウトをもつものＢ６５Ｄ４７／２６）",
+      "en": "with pouring spouts or tubes; with discharge nozzles or passages(with slidable spouts <b>B65D47/26</b>)",
+      "count": 17431,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D47/08": {
+      "code": "B65D47/08",
+      "level": 3,
+      "parent": "B65D47/06",
+      "ja": "関節連結されたまたはヒンジ接続された閉鎖具をもつもの",
+      "en": "having articulated or hinged closures",
+      "count": 9153,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D47/10": {
+      "code": "B65D47/10",
+      "level": 3,
+      "parent": "B65D47/06",
+      "ja": "脆弱な閉鎖具をもつもの",
+      "en": "having frangible closures",
+      "count": 1614,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D47/12": {
+      "code": "B65D47/12",
+      "level": 3,
+      "parent": "B65D47/06",
+      "ja": "取り外し可能な閉鎖具をもつもの",
+      "en": "having removable closures",
+      "count": 3558,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D47/14": {
+      "code": "B65D47/14",
+      "level": 4,
+      "parent": "B65D47/12",
+      "ja": "さらに閉鎖具保持手段をもつもの",
+      "en": "and closure-retaining means",
+      "count": 1102,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D47/16": {
+      "code": "B65D47/16",
+      "level": 3,
+      "parent": "B65D47/06",
+      "ja": "スパウトが排出液体に浸る時に，自動的に作動する閉鎖具をもつもの",
+      "en": "with closures operating automatically when spout is immersed in discharged liquid",
+      "count": 87,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D47/18": {
+      "code": "B65D47/18",
+      "level": 3,
+      "parent": "B65D47/06",
+      "ja": "液滴を排出するためのもの；点滴器",
+      "en": "for discharging drops; Droppers",
+      "count": 2185,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D47/20": {
+      "code": "B65D47/20",
+      "level": 2,
+      "parent": "B65D47/04",
+      "ja": "排出を制御するための手動部材を含むもの（ポンプを用いて排出が行われる閉鎖具Ｂ６５Ｄ４７／３４）［２００６．０１］",
+      "en": "comprising hand-operated members for controlling discharge (closures with discharge by pumping <b>B65D47/34</b>)",
+      "count": 10375,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D47/22": {
+      "code": "B65D47/22",
+      "level": 3,
+      "parent": "B65D47/20",
+      "ja": "可撓性の管を挟んで締め付ける動作により作動するもの",
+      "en": "operating with pinching action on flexible tubes",
+      "count": 605,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D47/24": {
+      "code": "B65D47/24",
+      "level": 3,
+      "parent": "B65D47/20",
+      "ja": "ポペット弁をもつもの",
+      "en": "with poppet valves",
+      "count": 3124,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D47/26": {
+      "code": "B65D47/26",
+      "level": 3,
+      "parent": "B65D47/20",
+      "ja": "スライド弁をもつもの，例．スライド可能なスパウトで形成されるもの",
+      "en": "with slide valves, e.g. formed with slidable spouts",
+      "count": 4034,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D47/28": {
+      "code": "B65D47/28",
+      "level": 4,
+      "parent": "B65D47/26",
+      "ja": "直線運動をするもの",
+      "en": "having linear movement",
+      "count": 2411,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D47/30": {
+      "code": "B65D47/30",
+      "level": 3,
+      "parent": "B65D47/20",
+      "ja": "プラグ弁をもつもの",
+      "en": "with plug valves",
+      "count": 831,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D47/32": {
+      "code": "B65D47/32",
+      "level": 2,
+      "parent": "B65D47/04",
+      "ja": "通気手段をもつもの［３］",
+      "en": "with means for venting",
+      "count": 2329,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D47/34": {
+      "code": "B65D47/34",
+      "level": 1,
+      "parent": "B65D47/00",
+      "ja": "ポンプを用いて排出が行われる閉鎖具",
+      "en": "Closures with discharge by pumping",
+      "count": 13902,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D47/36": {
+      "code": "B65D47/36",
+      "level": 1,
+      "parent": "B65D47/00",
+      "ja": "排出口を設けるために穿孔，引裂き，引き剥がしまたは除去されるのに適合した脆弱部分をもつ閉鎖具（穿孔可能な薄膜をもつキャップＢ６５Ｄ４１／２０，Ｂ６５Ｄ４１／５０；保護用外側キャップ状カバーをもつ閉鎖具の配置，または，二以上の協働する閉鎖具の配置Ｂ６５Ｄ５１／１８）［２００６．０１］",
+      "en": "Closures with frangible parts adapted to be pierced, torn or removed, to provide discharge openings  (caps with pierceable membranes <b>B65D41/20</b>, <b>B65D41/50</b>;   arrangements of closures with protective outer cap-like covers or of two or more co-operating closures  <b>B65D51/18</b>)",
+      "count": 5022,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D47/38": {
+      "code": "B65D47/38",
+      "level": 2,
+      "parent": "B65D47/36",
+      "ja": "引き続き排出口の制御弁として働く穿孔手段をもつもの",
+      "en": "with piercing means arranged to act subsequently as a valve to control the opening",
+      "count": 250,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D47/40": {
+      "code": "B65D47/40",
+      "level": 1,
+      "parent": "B65D47/00",
+      "ja": "液垂れ受部または液垂れ防止手段をもつもの",
+      "en": "with drip catchers or drip-preventing means",
+      "count": 2241,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D47/42": {
+      "code": "B65D47/42",
+      "level": 1,
+      "parent": "B65D47/00",
+      "ja": "パッドまたは類似の内容物塗布手段をもつもの［２００６．０１］",
+      "en": "with pads or like contents-applying means",
+      "count": 3213,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D47/44": {
+      "code": "B65D47/44",
+      "level": 2,
+      "parent": "B65D47/42",
+      "ja": "容器が変形される時または内容物を塗布すべき面に対してパッドが押圧される時に開くスリットと結合しているもの（閉鎖具が面に対して押圧される時に開く弁を有する柔軟な管状容器Ｂ６５Ｄ３５／５４）",
+      "en": "combined with slits opening when container is deformed or when pad is pressed against surface to which contents are to be applied(pliable tubular containers with valves opening when closure is pressed against surface <b>B65D35/54</b>)",
+      "count": 485,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D49/00": {
+      "code": "B65D49/00",
+      "level": 0,
+      "parent": "B65D",
+      "ja": "容器の再充てんを防止する装置または器具（最初に充てんするためのものであり，かつ，その後の再充てんを防止するためのものＢ６５Ｄ４７／０２）",
+      "en": "Arrangements or devices for preventing refilling of containers(for initial filling and for preventing subsequent refilling <b>B65D47/02</b>)",
+      "count": 849,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D49/02": {
+      "code": "B65D49/02",
+      "level": 1,
+      "parent": "B65D49/00",
+      "ja": "逆止弁",
+      "en": "One-way valves",
+      "count": 804,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D49/04": {
+      "code": "B65D49/04",
+      "level": 2,
+      "parent": "B65D49/02",
+      "ja": "重力式弁",
+      "en": "Weighted valves",
+      "count": 723,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D49/06": {
+      "code": "B65D49/06",
+      "level": 3,
+      "parent": "B65D49/04",
+      "ja": "付加的な負荷重りをもつもの",
+      "en": "with additional loading weights",
+      "count": 548,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D49/08": {
+      "code": "B65D49/08",
+      "level": 2,
+      "parent": "B65D49/02",
+      "ja": "スプリング式弁",
+      "en": "Spring-loaded valves",
+      "count": 159,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D49/10": {
+      "code": "B65D49/10",
+      "level": 2,
+      "parent": "B65D49/02",
+      "ja": "複数の弁の配置",
+      "en": "Arrangements of several valves",
+      "count": 163,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D49/12": {
+      "code": "B65D49/12",
+      "level": 1,
+      "parent": "B65D49/00",
+      "ja": "容器の開口動作において，容器の一体部分を破壊することによるもの",
+      "en": "by destroying, in the act of opening the container, an integral portion thereof",
+      "count": 3051,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D50/00": {
+      "code": "B65D50/00",
+      "level": 0,
+      "parent": "B65D",
+      "ja": "表示手段の有無を問わず，不正な開口または取り外しを妨げる手段をもつ閉鎖具，例．チャイルドプルーフ閉鎖具［２００６．０１］",
+      "en": "Closures with means for discouraging unauthorised opening or removal thereof, with or without indicating means, e.g. child-proof closures",
+      "count": 1448,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D50/02": {
+      "code": "B65D50/02",
+      "level": 1,
+      "parent": "B65D50/00",
+      "ja": "複数の動作の組合せにより開口または取り外しできるもの［５］",
+      "en": "openable or removable by the combination of plural actions",
+      "count": 423,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D50/04": {
+      "code": "B65D50/04",
+      "level": 2,
+      "parent": "B65D50/02",
+      "ja": "同時動作，例．押し下げながら回す，持ち上げながら回す，一部を保持しながら他部を回す，の組合せを必要とするもの（Ｂ６５Ｄ５０／１０が優先）［２００６．０１］",
+      "en": "requiring the combination of simultaneous actions, e.g. depressing and turning, lifting and turning, maintaining a part and turning another one(<b>B65D50/10</b> takes precedence)",
+      "count": 2695,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D50/06": {
+      "code": "B65D50/06",
+      "level": 2,
+      "parent": "B65D50/02",
+      "ja": "連続する異なる動作の組合せを必要とするもの（Ｂ６５Ｄ５０／１０が優先）［５］",
+      "en": "requiring the combination of different actions in succession(<b>B65D50/10</b> takes precedence)",
+      "count": 1396,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D50/08": {
+      "code": "B65D50/08",
+      "level": 2,
+      "parent": "B65D50/02",
+      "ja": "閉鎖具または容器の変形により開口または取り外しできるもの［５］",
+      "en": "openable or removable by closure or container deformation",
+      "count": 120,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D50/10": {
+      "code": "B65D50/10",
+      "level": 2,
+      "parent": "B65D50/02",
+      "ja": "閉鎖具の一部を容器と位置合わせした後でのみ取り外し得るもの［５］",
+      "en": "disengageable only after alignment of closure parts with container",
+      "count": 96,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D50/12": {
+      "code": "B65D50/12",
+      "level": 1,
+      "parent": "B65D50/00",
+      "ja": "閉鎖具を偽装したまたは隠蔽した形態，例．容器の底を形成する取り外し可能な閉鎖具とともに用いられるダミーの閉鎖具［５］",
+      "en": "Disguised or hidden forms of closures, e.g. dummy closure in association with removable closure forming container base",
+      "count": 105,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D50/14": {
+      "code": "B65D50/14",
+      "level": 1,
+      "parent": "B65D50/00",
+      "ja": "特別な開口用部材を用いてのみ開口または取り外しできるもの［２００６．０１］",
+      "en": "openable or removable only by means of special opening member",
+      "count": 216,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D51/00": {
+      "code": "B65D51/00",
+      "level": 0,
+      "parent": "B65D",
+      "ja": "他に分類されない閉鎖具［２００６．０１］",
+      "en": "Closures not otherwise provided for",
+      "count": 5527,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D51/02": {
+      "code": "B65D51/02",
+      "level": 1,
+      "parent": "B65D51/00",
+      "ja": "液体用の広口ボトル，缶または類似の容器のためのゆるく係合する蓋またはカバーであって，容器を密封する手段をもたないもの［２００６．０１］",
+      "en": "Loosely-engaging lids or covers for jars, cans or like containers for liquids without means for effecting sealing of container",
+      "count": 428,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D51/04": {
+      "code": "B65D51/04",
+      "level": 2,
+      "parent": "B65D51/02",
+      "ja": "ヒンジ接続されたもの（Ｂ６５Ｄ５１／１０が優先）",
+      "en": "hinged(<b>B65D51/10</b> takes precedence)",
+      "count": 1068,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D51/06": {
+      "code": "B65D51/06",
+      "level": 2,
+      "parent": "B65D51/02",
+      "ja": "折りたたみ可能なもの",
+      "en": "collapsible",
+      "count": 116,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D51/08": {
+      "code": "B65D51/08",
+      "level": 2,
+      "parent": "B65D51/02",
+      "ja": "容器の開口部を画定する壁部の内側または周囲に嵌まる軸方向突出部をもつもの，例．大型牛乳缶用",
+      "en": "with axial projections fitting within, or around, the walls defining the container openings, e.g. for milk churns",
+      "count": 196,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D51/10": {
+      "code": "B65D51/10",
+      "level": 2,
+      "parent": "B65D51/02",
+      "ja": "注出のために容器が傾けられたときに自動的に開くもの",
+      "en": "opening automatically when container is tilted for pouring",
+      "count": 263,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D51/12": {
+      "code": "B65D51/12",
+      "level": 2,
+      "parent": "B65D51/02",
+      "ja": "可撓性の非弾性カバー",
+      "en": "Flexible non-elastic covers",
+      "count": 92,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D51/14": {
+      "code": "B65D51/14",
+      "level": 1,
+      "parent": "B65D51/00",
+      "ja": "容器の口部と密に係合して保持されるのに適合した剛性の円板または球状部材，例．保存用広口ボトルのための閉鎖板［２００６．０１］",
+      "en": "Rigid discs or spherical members adapted to be held in sealing engagement with mouth of container, e.g. closure plates for preserving jars",
+      "count": 1136,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D51/16": {
+      "code": "B65D51/16",
+      "level": 1,
+      "parent": "B65D51/00",
+      "ja": "空気またはガスの通気手段をもつもの",
+      "en": "with means for venting air or gas",
+      "count": 14454,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D51/18": {
+      "code": "B65D51/18",
+      "level": 1,
+      "parent": "B65D51/00",
+      "ja": "保護用外側キャップ状カバーをもつ閉鎖具の配置，または，二以上の協働する閉鎖具の配置",
+      "en": "Arrangements of closures with protective outer cap-like covers or of two or more co-operating closures",
+      "count": 10885,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D51/20": {
+      "code": "B65D51/20",
+      "level": 2,
+      "parent": "B65D51/18",
+      "ja": "穿孔する，切断する，引き裂くまたは引き剥がすことにより開口される内側閉鎖具と協働するキャップ，蓋またはカバー",
+      "en": "Caps, lids, or covers co-operating with an inner closure arranged to be opened by piercing, cutting, or tearing",
+      "count": 3151,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D51/22": {
+      "code": "B65D51/22",
+      "level": 3,
+      "parent": "B65D51/20",
+      "ja": "内側閉鎖具を穿孔する，切断する，引き裂くまたは引き剥がすための手段をもつもの",
+      "en": "having means for piercing, cutting, or tearing the inner closure",
+      "count": 3669,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D51/24": {
+      "code": "B65D51/24",
+      "level": 1,
+      "parent": "B65D51/00",
+      "ja": "非閉鎖目的の補助装置と組み合わせたもの",
+      "en": "combined with auxiliary devices for non-closing purposes",
+      "count": 27285,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D51/26": {
+      "code": "B65D51/26",
+      "level": 2,
+      "parent": "B65D51/24",
+      "ja": "内容物を適切な位置に保つための手段，例．弾性手段，をもつもの",
+      "en": "with means for keeping contents in position, e.g. resilient means",
+      "count": 2401,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D51/28": {
+      "code": "B65D51/28",
+      "level": 2,
+      "parent": "B65D51/24",
+      "ja": "付加物品または付加材料のための副容器をもつもの",
+      "en": "with auxiliary containers for additional articles or materials",
+      "count": 10064,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D51/30": {
+      "code": "B65D51/30",
+      "level": 3,
+      "parent": "B65D51/28",
+      "ja": "乾燥器のためのもの",
+      "en": "for desiccators",
+      "count": 1384,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D51/32": {
+      "code": "B65D51/32",
+      "level": 2,
+      "parent": "B65D51/24",
+      "ja": "内容物を塗布または撹拌するためのブラシまたはロッドをもつもの（点滴器Ｂ６５Ｄ４７／１８）",
+      "en": "with brushes or rods for applying or stirring contents",
+      "count": 2298,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D53/00": {
+      "code": "B65D53/00",
+      "level": 0,
+      "parent": "B65D",
+      "ja": "シール要素またはパッキング要素；液体または可塑的な材料により形成されるシーリング",
+      "en": "Sealing or packing elements; Sealings formed by liquid or plastic material",
+      "count": 14546,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D53/02": {
+      "code": "B65D53/02",
+      "level": 1,
+      "parent": "B65D53/00",
+      "ja": "環または輪",
+      "en": "Collars or rings",
+      "count": 17148,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D53/04": {
+      "code": "B65D53/04",
+      "level": 1,
+      "parent": "B65D53/00",
+      "ja": "円板",
+      "en": "Discs",
+      "count": 5204,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D53/06": {
+      "code": "B65D53/06",
+      "level": 1,
+      "parent": "B65D53/00",
+      "ja": "液体または可塑的な材料により形成されるシーリング",
+      "en": "Sealings formed by liquid or plastic material",
+      "count": 2501,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D53/08": {
+      "code": "B65D53/08",
+      "level": 1,
+      "parent": "B65D53/00",
+      "ja": "充てん用小口または排出用小口をシールするのに適合した可撓性粘着ストリップ",
+      "en": "Flexible adhesive strips adapted to seal filling or discharging apertures",
+      "count": 913,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D53/10": {
+      "code": "B65D53/10",
+      "level": 1,
+      "parent": "B65D53/00",
+      "ja": "耐酸容器に特に適合することに特徴のあるもの",
+      "en": "characterised by special adaptation to acid-proof vessels",
+      "count": 39,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D55/00": {
+      "code": "B65D55/00",
+      "level": 0,
+      "parent": "B65D",
+      "ja": "他に分類されない容器閉鎖具用付属品",
+      "en": "Accessories for container closures not otherwise provided for",
+      "count": 3879,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D55/02": {
+      "code": "B65D55/02",
+      "level": 1,
+      "parent": "B65D55/00",
+      "ja": "ロック装置；閉鎖具の不正な開口または取り外しを妨げるまたは示すための手段［２００６．０１］",
+      "en": "Locking devices; Means for discouraging or indicating unauthorised opening or removal of closure",
+      "count": 25694,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D55/04": {
+      "code": "B65D55/04",
+      "level": 2,
+      "parent": "B65D55/02",
+      "ja": "ばねクリップ，例．金属線製または金属薄板製",
+      "en": "Spring clips, e.g. of wire or of sheet metal",
+      "count": 255,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D55/06": {
+      "code": "B65D55/06",
+      "level": 2,
+      "parent": "B65D55/02",
+      "ja": "変形可能，引裂き可能または引き剥がし可能な金属線，ひもまたはストリップ（ティアーストリップをもつキャップまたはキャップ状閉鎖具Ｂ６５Ｄ４１／３２）；シールの使用［２００６．０１］",
+      "en": "Deformable or tearable wires, strings or strips (caps or cap-like closures with tear-strips <b>B65D41/32</b>); Use of seals",
+      "count": 2900,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D55/08": {
+      "code": "B65D55/08",
+      "level": 3,
+      "parent": "B65D55/06",
+      "ja": "容器首部を囲む環状要素",
+      "en": "Annular elements encircling container necks",
+      "count": 2416,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D55/10": {
+      "code": "B65D55/10",
+      "level": 2,
+      "parent": "B65D55/02",
+      "ja": "ロックピン",
+      "en": "Locking pins",
+      "count": 1194,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D55/12": {
+      "code": "B65D55/12",
+      "level": 2,
+      "parent": "B65D55/02",
+      "ja": "ボトルまたは広口ボトル上の受け部と協働する相対移動部分をもつ装置または手段［２００６．０１］",
+      "en": "Devices or means with relatively-moving parts co-operating with abutments on bottle or jar",
+      "count": 449,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D55/14": {
+      "code": "B65D55/14",
+      "level": 2,
+      "parent": "B65D55/02",
+      "ja": "錠，例．符号錠または鍵操作錠，の適用",
+      "en": "Applications of locks, e.g. of permutation or key-controlled locks",
+      "count": 6157,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D55/16": {
+      "code": "B65D55/16",
+      "level": 1,
+      "parent": "B65D55/00",
+      "ja": "取り外し可能な閉鎖部材の紛失を防止する装置",
+      "en": "Devices preventing loss of removable closure members",
+      "count": 2447,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D57/00": {
+      "code": "B65D57/00",
+      "level": 0,
+      "parent": "B65D",
+      "ja": "可撓性物品用の内部枠，または内部支持部材，例．スチフナー；積重ねまたは一まとめで包装される物品用の隔離部材，例．接着性物品の粘着防止用のもの",
+      "en": "Internal frames or supports for flexible articles, e.g. stiffeners; Separators for articles packaged in stacks or groups, e.g. for preventing adhesion of sticky articles",
+      "count": 3692,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D59/00": {
+      "code": "B65D59/00",
+      "level": 0,
+      "parent": "B65D",
+      "ja": "物品の部分の保護または物品をてん束するための差込栓，スリーブ，キャップまたは同様の剛性若しくは準剛性の要素，例．ねじ山保護部材，コーナー保護部材，チューブ用または棒状物品をてん束するための端部キャップ",
+      "en": "Plugs, sleeves, caps, or like rigid or semi-rigid elements for protecting parts of articles or for bundling articles, e.g. protectors for screw-threads, corner protectors, end caps for tubes or for bundling rod-shaped articles",
+      "count": 5783,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D59/02": {
+      "code": "B65D59/02",
+      "level": 1,
+      "parent": "B65D59/00",
+      "ja": "差込栓",
+      "en": "Plugs",
+      "count": 937,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D59/04": {
+      "code": "B65D59/04",
+      "level": 1,
+      "parent": "B65D59/00",
+      "ja": "スリーブ，例．郵便物用チューブ",
+      "en": "Sleeves, e.g. postal tubes",
+      "count": 765,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D59/06": {
+      "code": "B65D59/06",
+      "level": 1,
+      "parent": "B65D59/00",
+      "ja": "キャップ",
+      "en": "Caps",
+      "count": 1745,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D59/08": {
+      "code": "B65D59/08",
+      "level": 2,
+      "parent": "B65D59/06",
+      "ja": "多角断面のもの",
+      "en": "of polygonal cross-section",
+      "count": 113,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D61/00": {
+      "code": "B65D61/00",
+      "level": 0,
+      "parent": "B65D",
+      "ja": "物品周囲に組み立てられるようにした，または物品に使用されるようにした外部枠組または外部支持部材［２００６．０１］",
+      "en": "External frames or supports adapted to be assembled around, or applied to, articles",
+      "count": 19855,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D61/02": {
+      "code": "B65D61/02",
+      "level": 1,
+      "parent": "B65D61/00",
+      "ja": "弾性継手付の管状枠組",
+      "en": "Tubular frames with resilient joints",
+      "count": 62,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D63/00": {
+      "code": "B65D63/00",
+      "level": 0,
+      "parent": "B65D",
+      "ja": "物品の結束または支持のための可撓性長尺要素，例．ストラップ",
+      "en": "Flexible elongated elements, e.g. straps, for bundling or supporting articles",
+      "count": 1960,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D63/02": {
+      "code": "B65D63/02",
+      "level": 1,
+      "parent": "B65D63/00",
+      "ja": "金属製のストラップ，テープ，またはバンド；それらの端部間の継手",
+      "en": "Metallic straps, tapes, or bands; Joints between ends thereof",
+      "count": 750,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D63/04": {
+      "code": "B65D63/04",
+      "level": 2,
+      "parent": "B65D63/02",
+      "ja": "要素の端部の変形により作られる継手",
+      "en": "Joints produced by deformation of ends of elements",
+      "count": 260,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D63/06": {
+      "code": "B65D63/06",
+      "level": 2,
+      "parent": "B65D63/02",
+      "ja": "別体の固定部材の使用により作られる継手，例．それらの変形によるもの",
+      "en": "Joints produced by application of separate securing members, e.g. by deformation thereof",
+      "count": 546,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D63/08": {
+      "code": "B65D63/08",
+      "level": 3,
+      "parent": "B65D63/06",
+      "ja": "要素端部に取りつけたバックル，くさびまたは類似の鎖錠部材を用いる継手",
+      "en": "Joints using buckles, wedges, or like locking members attached to the ends of the elements",
+      "count": 760,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D63/10": {
+      "code": "B65D63/10",
+      "level": 1,
+      "parent": "B65D63/00",
+      "ja": "非金属製のストラップ，テープ，またはバンド；線状要素，例．紐，糸または金属線；それらの端部間の継手",
+      "en": "Non-metallic straps, tapes, or bands; Filamentary elements, e.g. strings, threads or wires; Joints between ends thereof",
+      "count": 6690,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D63/12": {
+      "code": "B65D63/12",
+      "level": 2,
+      "parent": "B65D63/10",
+      "ja": "要素端部の変形または結びにより作られる継手",
+      "en": "Joints produced by deformation or tying of ends of elements",
+      "count": 1471,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D63/14": {
+      "code": "B65D63/14",
+      "level": 2,
+      "parent": "B65D63/10",
+      "ja": "別体の固定部材の使用により作られる継手",
+      "en": "Joints produced by application of separate securing members",
+      "count": 1967,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D63/16": {
+      "code": "B65D63/16",
+      "level": 3,
+      "parent": "B65D63/14",
+      "ja": "要素端部に取りつけたバックル，くさびまたは類似の鎖錠部材を用いる継手",
+      "en": "Joints using buckles, wedges, or like locking members attached to the end of the element",
+      "count": 2678,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D63/18": {
+      "code": "B65D63/18",
+      "level": 1,
+      "parent": "B65D63/00",
+      "ja": "取手または他の吊下げ手段を備えた要素",
+      "en": "Elements provided with handles or other suspension means",
+      "count": 912,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D65/00": {
+      "code": "B65D65/00",
+      "level": 0,
+      "parent": "B65D",
+      "ja": "被包材または可撓性カバー；特殊な型または形の包装材（衝撃吸収特性を有する被包材または封筒Ｂ６５Ｄ８１／０３）<br><br><b><ul>注</ul></b><br>このサブクラスのタイトルに続く注（６）の“包装要素”の定義に注意する。",
+      "en": "Wrappers or flexible covers; Packaging materials of special type or form(wrappers or envelopes with shock-absorbing properties <b>B65D81/03</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>Attention is drawn to the definition of \"packaging elements\" in Note (6) following the title of this subclass.</li></ul>",
+      "count": 1762,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D65/02": {
+      "code": "B65D65/02",
+      "level": 1,
+      "parent": "B65D65/00",
+      "ja": "被包材または可撓性カバー",
+      "en": "Wrappers or flexible covers",
+      "count": 5475,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D65/04": {
+      "code": "B65D65/04",
+      "level": 2,
+      "parent": "B65D65/02",
+      "ja": "矩形でないもの",
+      "en": "non-rectangular",
+      "count": 880,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D65/06": {
+      "code": "B65D65/06",
+      "level": 3,
+      "parent": "B65D65/04",
+      "ja": "折りたたみできるフラップ，例．相互にかみあうフラップ，をもつもの",
+      "en": "formed with foldable flaps, e.g. interlocking flaps",
+      "count": 476,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D65/08": {
+      "code": "B65D65/08",
+      "level": 3,
+      "parent": "B65D65/04",
+      "ja": "固定要素，例．スライドファスナ，をもつもの",
+      "en": "with fastening elements, e.g. slide fasteners",
+      "count": 502,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D65/10": {
+      "code": "B65D65/10",
+      "level": 2,
+      "parent": "B65D65/02",
+      "ja": "矩形のもの",
+      "en": "rectangular",
+      "count": 1828,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D65/12": {
+      "code": "B65D65/12",
+      "level": 3,
+      "parent": "B65D65/10",
+      "ja": "折りたたみやすくするための折り目をもつもの",
+      "en": "formed with crease lines to facilitate folding",
+      "count": 629,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D65/14": {
+      "code": "B65D65/14",
+      "level": 2,
+      "parent": "B65D65/02",
+      "ja": "接着材がぬられた部分をもつもの",
+      "en": "with areas coated with adhesive",
+      "count": 1309,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D65/16": {
+      "code": "B65D65/16",
+      "level": 2,
+      "parent": "B65D65/02",
+      "ja": "光線の遮断部または透過部をもつもの［２００６．０１］",
+      "en": "with provision for excluding or admitting light",
+      "count": 656,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D65/18": {
+      "code": "B65D65/18",
+      "level": 3,
+      "parent": "B65D65/16",
+      "ja": "透明部と不透明部をもつもの",
+      "en": "with some areas transparent and others opaque",
+      "count": 451,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D65/20": {
+      "code": "B65D65/20",
+      "level": 3,
+      "parent": "B65D65/16",
+      "ja": "特殊波長の光線の遮断部をもつもの",
+      "en": "with provision for excluding light of a particular wavelength",
+      "count": 267,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D65/22": {
+      "code": "B65D65/22",
+      "level": 2,
+      "parent": "B65D65/02",
+      "ja": "細部",
+      "en": "Details",
+      "count": 1874,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D65/24": {
+      "code": "B65D65/24",
+      "level": 3,
+      "parent": "B65D65/22",
+      "ja": "内容物を位置決めるための突片やその突起物",
+      "en": "Tabs or other projections for locating contents",
+      "count": 235,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D65/26": {
+      "code": "B65D65/26",
+      "level": 3,
+      "parent": "B65D65/22",
+      "ja": "開封装置",
+      "en": "Opening devices",
+      "count": 878,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D65/28": {
+      "code": "B65D65/28",
+      "level": 4,
+      "parent": "B65D65/26",
+      "ja": "ミシン目または弱め線",
+      "en": "Perforations or lines of weakness",
+      "count": 1272,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D65/30": {
+      "code": "B65D65/30",
+      "level": 4,
+      "parent": "B65D65/26",
+      "ja": "細溝，細穴または切り目",
+      "en": "Slits, slots, or cuts",
+      "count": 488,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D65/32": {
+      "code": "B65D65/32",
+      "level": 4,
+      "parent": "B65D65/26",
+      "ja": "指でつまむための突片または類似の突起物",
+      "en": "Tabs or like projections for gripping by the fingers",
+      "count": 408,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D65/34": {
+      "code": "B65D65/34",
+      "level": 4,
+      "parent": "B65D65/26",
+      "ja": "引裂き糸または類似の可撓性要素を取付けたもの",
+      "en": "Attached tearing-strings or like flexible elements",
+      "count": 533,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D65/36": {
+      "code": "B65D65/36",
+      "level": 4,
+      "parent": "B65D65/26",
+      "ja": "引裂きを案内するための補強",
+      "en": "Reinforcements to guide tearing",
+      "count": 74,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D65/38": {
+      "code": "B65D65/38",
+      "level": 1,
+      "parent": "B65D65/00",
+      "ja": "特殊な型または形の包装材",
+      "en": "Packaging materials of special type or form",
+      "count": 6366,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D65/40": {
+      "code": "B65D65/40",
+      "level": 2,
+      "parent": "B65D65/38",
+      "ja": "特定の包装目的のためのラミネート材の応用",
+      "en": "Applications of laminates for particular packaging purposes",
+      "count": 36189,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D65/42": {
+      "code": "B65D65/42",
+      "level": 2,
+      "parent": "B65D65/38",
+      "ja": "塗装されまたは浸み込まされた材料の応用",
+      "en": "Applications of coated or impregnated materials",
+      "count": 4679,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D65/46": {
+      "code": "B65D65/46",
+      "level": 2,
+      "parent": "B65D65/38",
+      "ja": "分解できる，溶解できるまたは食べられる材料の応用［３］",
+      "en": "Applications of disintegrable, dissolvable or edible materials",
+      "count": 8144,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D67/00": {
+      "code": "B65D67/00",
+      "level": 0,
+      "parent": "B65D",
+      "ja": "他に分類されない包装要素の種類または形式",
+      "en": "Kinds or types of packaging elements not otherwise provided for",
+      "count": 1458,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D67/02": {
+      "code": "B65D67/02",
+      "level": 1,
+      "parent": "B65D67/00",
+      "ja": "保管または輸送の利便のため，物品を一体に保持するクリップまたはクランプ",
+      "en": "Clips or clamps for holding articles together for convenience of storage or transport",
+      "count": 2218,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D69/00": {
+      "code": "B65D69/00",
+      "level": 0,
+      "parent": "B65D",
+      "ja": "包装要素の使用なしで保管または輸送する便宜上，一緒に結合されている物品［２００６．０１］",
+      "en": "Articles joined together for convenience of storage or transport without the use of packaging elements",
+      "count": 2136,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D71/00": {
+      "code": "B65D71/00",
+      "level": 0,
+      "parent": "B65D",
+      "ja": "貯蔵または輸送の便宜のために，包装要素により一緒に保持される物品の束，例．ビールの缶または炭酸飲料のボトルのような複数の容器を互いに隔離する持運び可能なキャリア；ベール梱包体［２００６．０１］",
+      "en": "Bundles of articles held together by packaging elements for convenience of storage or transport, e.g. portable segregating carrier for plural receptacles such as beer cans or pop bottles; Bales of material",
+      "count": 9193,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D71/02": {
+      "code": "B65D71/02",
+      "level": 1,
+      "parent": "B65D71/00",
+      "ja": "可撓性結束帯の配置",
+      "en": "Arrangements of flexible binders",
+      "count": 2810,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D71/04": {
+      "code": "B65D71/04",
+      "level": 2,
+      "parent": "B65D71/02",
+      "ja": "結束帯と物品または材料との間に配置される保護または支持要素，例．結束帯の擦り切れを防ぐためのもの，をもつもの",
+      "en": "with protecting or supporting elements arranged between binder and articles or materials, e.g. for preventing chafing of binder",
+      "count": 1421,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D71/06": {
+      "code": "B65D71/06",
+      "level": 1,
+      "parent": "B65D71/00",
+      "ja": "包装要素，例．張力のかかったもの，により完全にまたは大部分が一緒に保持される複数の物品からなるもの［３］",
+      "en": "comprising a plurality of articles completely or mainly held together by packaging elements, e.g. under tension",
+      "count": 1106,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D71/08": {
+      "code": "B65D71/08",
+      "level": 2,
+      "parent": "B65D71/06",
+      "ja": "熱によって収縮した被包材［３］",
+      "en": "Wrappers shrunk by heat",
+      "count": 2147,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D71/10": {
+      "code": "B65D71/10",
+      "level": 3,
+      "parent": "B65D71/08",
+      "ja": "挿入物を備えたもの［５］",
+      "en": "and provided with inserts",
+      "count": 419,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D71/12": {
+      "code": "B65D71/12",
+      "level": 2,
+      "parent": "B65D71/06",
+      "ja": "単一のブランクを折り曲げることにより形成される包装要素［５］",
+      "en": "the packaging elements being formed by folding a single blank",
+      "count": 1072,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D71/14": {
+      "code": "B65D71/14",
+      "level": 3,
+      "parent": "B65D71/12",
+      "ja": "端壁がない，または端壁によって特徴付けられない筒形状のもの［２００６．０１］",
+      "en": "having the shape of a tube, without, or not being characterised by, end walls",
+      "count": 288,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D71/16": {
+      "code": "B65D71/16",
+      "level": 4,
+      "parent": "B65D71/14",
+      "ja": "物品位置決め要素をもつもの（Ｂ６５Ｄ７１／２４が優先）［５］",
+      "en": "with article-locating elements(<b>B65D71/24</b> takes precedence)",
+      "count": 724,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D71/18": {
+      "code": "B65D71/18",
+      "level": 5,
+      "parent": "B65D71/16",
+      "ja": "上部または下部の壁から内側へ折り曲げられるタブ［５］",
+      "en": "Tabs inwardly folded from upper or lower wall",
+      "count": 255,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D71/20": {
+      "code": "B65D71/20",
+      "level": 5,
+      "parent": "B65D71/16",
+      "ja": "筒形状の本体の折り曲げ線に沿ったスリットまたは開口［５］",
+      "en": "Slits or openings along the foldline of the tubular body",
+      "count": 301,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D71/22": {
+      "code": "B65D71/22",
+      "level": 5,
+      "parent": "B65D71/16",
+      "ja": "側壁に形成された開口［５］",
+      "en": "Openings formed in the sidewall",
+      "count": 150,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D71/24": {
+      "code": "B65D71/24",
+      "level": 4,
+      "parent": "B65D71/14",
+      "ja": "仕切りをもつもの［５］",
+      "en": "with partitions",
+      "count": 365,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D71/26": {
+      "code": "B65D71/26",
+      "level": 5,
+      "parent": "B65D71/24",
+      "ja": "上部または下部の壁から伸びるもの［５］",
+      "en": "extending from upper or lower wall",
+      "count": 244,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D71/28": {
+      "code": "B65D71/28",
+      "level": 4,
+      "parent": "B65D71/14",
+      "ja": "取手に特徴のあるもの［５］",
+      "en": "characterised by the handle",
+      "count": 603,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D71/30": {
+      "code": "B65D71/30",
+      "level": 5,
+      "parent": "B65D71/28",
+      "ja": "筒形状の包装要素と一体であるもの（Ｂ６５Ｄ７１／３２が優先）［５］",
+      "en": "unitary with the tubular packaging elements(<b>B65D71/32</b> takes precedence)",
+      "count": 311,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D71/32": {
+      "code": "B65D71/32",
+      "level": 5,
+      "parent": "B65D71/28",
+      "ja": "指を入れる穴が形成されたもの［２００６．０１］",
+      "en": "formed by finger-holes",
+      "count": 345,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D71/34": {
+      "code": "B65D71/34",
+      "level": 4,
+      "parent": "B65D71/14",
+      "ja": "弱め線または類似のものに特徴のあるもの［５］",
+      "en": "characterised by lines of weakness or the like",
+      "count": 280,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D71/36": {
+      "code": "B65D71/36",
+      "level": 3,
+      "parent": "B65D71/12",
+      "ja": "端壁を有することに特徴のあるもの［５］",
+      "en": "characterised by having end walls",
+      "count": 849,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D71/38": {
+      "code": "B65D71/38",
+      "level": 2,
+      "parent": "B65D71/06",
+      "ja": "二枚以上のブランクを折り曲げて連結することにより形成される包装要素［５］",
+      "en": "the packaging elements being formed by folding and interconnecting two or more blanks",
+      "count": 263,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D71/40": {
+      "code": "B65D71/40",
+      "level": 1,
+      "parent": "B65D71/00",
+      "ja": "一枚のブランクを折り曲げることにより形成される包装要素によって部分的にのみ一緒に保持される複数の物品からなるもの［５］",
+      "en": "comprising a plurality of articles held together only partially by packaging elements formed by folding a blank",
+      "count": 535,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D71/42": {
+      "code": "B65D71/42",
+      "level": 2,
+      "parent": "B65D71/40",
+      "ja": "単一のブランクを折り曲げて単層の要素が形成されるもの［５］",
+      "en": "formed by folding a single blank into a single layer element",
+      "count": 482,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D71/44": {
+      "code": "B65D71/44",
+      "level": 3,
+      "parent": "B65D71/42",
+      "ja": "取手に特徴のあるもの［５］",
+      "en": "characterised by the handle",
+      "count": 258,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D71/46": {
+      "code": "B65D71/46",
+      "level": 2,
+      "parent": "B65D71/40",
+      "ja": "単一のブランクを折り曲げて筒形状の要素が形成されるもの［５］",
+      "en": "formed by folding a single blank into a tubular element",
+      "count": 443,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D71/48": {
+      "code": "B65D71/48",
+      "level": 3,
+      "parent": "B65D71/46",
+      "ja": "取手に特徴のあるもの［５］",
+      "en": "characterised by the handle",
+      "count": 291,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D71/50": {
+      "code": "B65D71/50",
+      "level": 1,
+      "parent": "B65D71/00",
+      "ja": "一枚のブランクを折り曲げることとは別の方法で形成される包装要素によって部分的にのみ一緒に保持される複数の物品からなるもの［５］",
+      "en": "comprising a plurality of articles held together only partially by packaging elements formed otherwise than by folding a blank",
+      "count": 1958,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D71/52": {
+      "code": "B65D71/52",
+      "level": 1,
+      "parent": "B65D71/00",
+      "ja": "取手を備えたトレー状の包装要素であって，複数の物品を貯蔵または輸送するためのもの（Ｂ６５Ｄ７１／１２，Ｂ６５Ｄ７１／３８，Ｂ６５Ｄ７１／４０，Ｂ６５Ｄ７１／５０が優先）［５］",
+      "en": "Tray-like packaging elements provided with handles for storage or transport of a plurality of articles(<b>B65D71/12</b>, <b>B65D71/38</b>, <b>B65D71/40</b>, <b>B65D71/50</b> take precedence)",
+      "count": 608,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D71/54": {
+      "code": "B65D71/54",
+      "level": 2,
+      "parent": "B65D71/52",
+      "ja": "仕切りのないもの（Ｂ６５Ｄ７１／６０，Ｂ６５Ｄ７１／６８が優先）［５］",
+      "en": "without partitions(<b>B65D71/60</b>, <b>B65D71/68</b> take precedence)",
+      "count": 149,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D71/56": {
+      "code": "B65D71/56",
+      "level": 2,
+      "parent": "B65D71/52",
+      "ja": "単一の長手方向仕切りのあるもの（Ｂ６５Ｄ７１／６０，Ｂ６５Ｄ７１／６８が優先）［５］",
+      "en": "with a single longitudinal partition(<b>B65D71/60</b>, <b>B65D71/68</b> take precedence)",
+      "count": 158,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D71/58": {
+      "code": "B65D71/58",
+      "level": 2,
+      "parent": "B65D71/52",
+      "ja": "一枚のブランクを折り曲げることにより形成され，かつ直立する仕切りのあるもの（Ｂ６５Ｄ７１／６０が優先）［５］",
+      "en": "formed by folding one blank and having vertical partitions(<b>B65D71/60</b> takes precedence)",
+      "count": 597,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D71/60": {
+      "code": "B65D71/60",
+      "level": 2,
+      "parent": "B65D71/52",
+      "ja": "一枚のブランクを折り曲げることにより，開口部を備えた上部壁を有する筒形状の要素に形成され，開口部を通して物品が伸びるもの［５］",
+      "en": "formed by folding one blank into a tubular element, having upper wall portions provided with openings, through which the articles extend",
+      "count": 71,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D71/62": {
+      "code": "B65D71/62",
+      "level": 3,
+      "parent": "B65D71/60",
+      "ja": "二列の物品の間に長手方向仕切りを形成するように，互いに向けて曲げられた壁の部分をもつもの（Ｂ６５Ｄ７１／６４，Ｂ６５Ｄ７１／６６が優先）［５］",
+      "en": "with parts of the walls bent against one another to form a longitudinal partition between two rows of articles(<b>B65D71/64</b>, <b>B65D71/66</b> take precedence)",
+      "count": 168,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D71/64": {
+      "code": "B65D71/64",
+      "level": 3,
+      "parent": "B65D71/60",
+      "ja": "物品をほぼ完全に取り囲む壁をもつもの（Ｂ６５Ｄ７１／６６が優先）［５］",
+      "en": "with walls enclosing the articles almost completely(<b>B65D71/66</b> takes precedence)",
+      "count": 119,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D71/66": {
+      "code": "B65D71/66",
+      "level": 3,
+      "parent": "B65D71/60",
+      "ja": "一列のみの物品を保持するためのもの［５］",
+      "en": "for holding only one row of articles",
+      "count": 56,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D71/68": {
+      "code": "B65D71/68",
+      "level": 2,
+      "parent": "B65D71/52",
+      "ja": "二枚以上のブランクを折り曲げて連結することにより形成されるもの（Ｂ６５Ｄ７１／７２が優先）［５］",
+      "en": "formed by folding and interconnecting two or more blanks(<b>B65D71/72</b> takes precedence)",
+      "count": 192,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D71/70": {
+      "code": "B65D71/70",
+      "level": 1,
+      "parent": "B65D71/00",
+      "ja": "多数の物品をまとめるための凸部または凹部を備えたトレイ，例．積み重ねのための中間要素［５］",
+      "en": "Trays provided with projections or recesses in order to assemble multiple articles, e.g. intermediate elements for stacking",
+      "count": 2169,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D71/72": {
+      "code": "B65D71/72",
+      "level": 2,
+      "parent": "B65D71/70",
+      "ja": "一枚以上のブランクを折り曲げることにより形成され，物品が壁の開口部に挿入されるもの［５］",
+      "en": "formed by folding one or more blanks, the articles being inserted in openings in a wall",
+      "count": 423,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D73/00": {
+      "code": "B65D73/00",
+      "level": 0,
+      "parent": "B65D",
+      "ja": "カード，シートまたはウエブに取付けられた物品からなる包装体",
+      "en": "Packages comprising articles attached to cards, sheets or webs",
+      "count": 5564,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D73/02": {
+      "code": "B65D73/02",
+      "level": 1,
+      "parent": "B65D73/00",
+      "ja": "ウエブに取付けられた物品，例．小型電気部品",
+      "en": "Articles, e.g. small electrical components, attached to webs",
+      "count": 4805,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D75/00": {
+      "code": "B65D75/00",
+      "level": 0,
+      "parent": "B65D",
+      "ja": "柔軟シート材料のストリップ，シート，ブランク，チューブまたはウェブ，例．折りたたまれた被包材，で一部または全体が包まれた物品または材料からなる包装体（貯蔵または輸送の便宜のために，包装要素により一緒に保持される物品の束，例．ビールの缶または炭酸飲料のボトルのような複数の容器を互いに隔離する持運び可能なキャリアまたはベール梱包体Ｂ６５Ｄ７１／００）［２００６．０１］",
+      "en": "Packages comprising articles or materials partially or wholly enclosed in strips, sheets, blanks, tubes or webs of flexible sheet material, e.g. in folded wrappers (bundles of articles held together by packaging elements for convenience of storage or transport, e.g. portable segregating carrier for plural receptacles such as beer cans or pop bottles, or bales of material <b>B65D71/00</b>)",
+      "count": 3857,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D75/02": {
+      "code": "B65D75/02",
+      "level": 1,
+      "parent": "B65D75/00",
+      "ja": "折りたたみまたは巻かれたストリップまたはシートで，部分的に包まれた物品，例．被包新聞紙",
+      "en": "Articles partially enclosed in folded or wound strips or sheets, e.g. wrapped newspapers",
+      "count": 1329,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D75/04": {
+      "code": "B65D75/04",
+      "level": 1,
+      "parent": "B65D75/00",
+      "ja": "単一のシートまたは被包材のブランクにより完全に包まれた物品または材料",
+      "en": "Articles or materials wholly enclosed in single sheets or wrapper blanks",
+      "count": 1513,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D75/06": {
+      "code": "B65D75/06",
+      "level": 2,
+      "parent": "B65D75/04",
+      "ja": "最初からチューブ状に形成された単一のシートまたはブランクにおけるもの",
+      "en": "in sheets or blanks initially folded to form tubes",
+      "count": 717,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D75/08": {
+      "code": "B65D75/08",
+      "level": 3,
+      "parent": "B65D75/06",
+      "ja": "折りたたみにより密封されたチューブの端部をもつもの",
+      "en": "with the ends of the tube closed by folding",
+      "count": 384,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D75/10": {
+      "code": "B65D75/10",
+      "level": 3,
+      "parent": "B65D75/06",
+      "ja": "ねじりにより密封されたチューブの端部をもつもの",
+      "en": "with the ends of the tube closed by twisting",
+      "count": 227,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D75/12": {
+      "code": "B65D75/12",
+      "level": 3,
+      "parent": "B65D75/06",
+      "ja": "偏平化してさらに熱溶着により密封されたチューブ端部をもつもの",
+      "en": "with the ends of the tube closed by flattening and heat-sealing",
+      "count": 721,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D75/14": {
+      "code": "B65D75/14",
+      "level": 2,
+      "parent": "B65D75/04",
+      "ja": "内容物が置かれた部分から，内容物の全側面周囲に折りまげられた，単一のシートまたはブランクにおけるもの",
+      "en": "in sheets or blanks folded-up around all sides of the contents from a portion on which the contents are placed",
+      "count": 1027,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D75/16": {
+      "code": "B65D75/16",
+      "level": 3,
+      "parent": "B65D75/14",
+      "ja": "被包材の直立する部分がひねりにより密封されるもの",
+      "en": "the upstanding portion of the wrapper being closed by twisting",
+      "count": 58,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D75/18": {
+      "code": "B65D75/18",
+      "level": 3,
+      "parent": "B65D75/14",
+      "ja": "被包材の直立する部分が一定または不定の折り目やひだにより密封されるもの，例．一体に包まれた包装",
+      "en": "the upstanding portion of the wrapper being closed by regular or irregular folds or pleats, e.g. bunch-wrapped packages",
+      "count": 165,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D75/20": {
+      "code": "B65D75/20",
+      "level": 2,
+      "parent": "B65D75/04",
+      "ja": "内容物の周りで折り重ねそして対向自由縁部を，例えば感圧性接着剤，クリンプ，熱溶着または溶着によって，結合したシートやブランクにおけるもの",
+      "en": "in sheets or blanks doubled around contents and having their opposed free margins united, e.g. by pressure-sensitive adhesive, crimping, heat-sealing, or welding",
+      "count": 1170,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D75/22": {
+      "code": "B65D75/22",
+      "level": 3,
+      "parent": "B65D75/20",
+      "ja": "内容物収納のための凹部が設けられるシートまたはブランク",
+      "en": "the sheet or blank being recessed to accommodate contents",
+      "count": 480,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D75/24": {
+      "code": "B65D75/24",
+      "level": 4,
+      "parent": "B65D75/22",
+      "ja": "さらに一連の物品または多量の資材を収納する数個の凹部で形成されたもの",
+      "en": "and formed with several recesses to accommodate a series of articles or quantities of material",
+      "count": 247,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D75/26": {
+      "code": "B65D75/26",
+      "level": 1,
+      "parent": "B65D75/00",
+      "ja": "積層シートまたは被包材のブランクに全体が包まれた物品または材料",
+      "en": "Articles or materials wholly enclosed in laminated sheets or wrapper blanks",
+      "count": 1526,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D75/28": {
+      "code": "B65D75/28",
+      "level": 1,
+      "parent": "B65D75/00",
+      "ja": "複合，すなわち連繋または相互連結する２以上のシートまたはブランクにより形成された被包材に全体が包まれた物品または材料",
+      "en": "Articles or materials wholly enclosed in composite wrappers, i.e. wrappers formed by associating or interconnecting two or more sheets or blanks",
+      "count": 1317,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D75/30": {
+      "code": "B65D75/30",
+      "level": 2,
+      "parent": "B65D75/28",
+      "ja": "縁部を，例えば感圧性接着剤，クリンプ，熱溶着または溶接によって結合した２つの対向シートまたはブランク間に包まれた物品",
+      "en": "Articles or materials enclosed between two opposed sheets or blanks having their margins united, e.g. by pressure-sensitive adhesive, crimping, heat-sealing, or welding",
+      "count": 3075,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D75/32": {
+      "code": "B65D75/32",
+      "level": 3,
+      "parent": "B65D75/30",
+      "ja": "１方または両方のシートまたはブランクに内容物収納のための凹部が設けられたもの",
+      "en": "one or both sheets or blanks being recessed to accommodate contents",
+      "count": 3658,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D75/34": {
+      "code": "B65D75/34",
+      "level": 4,
+      "parent": "B65D75/32",
+      "ja": "さらに一連の物品または多量の資材の収納に数個の凹部をもつもの",
+      "en": "and having several recesses to accommodate a series of articles or quantities of material",
+      "count": 2470,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D75/36": {
+      "code": "B65D75/36",
+      "level": 4,
+      "parent": "B65D75/32",
+      "ja": "１方のシートまたはブランクが凹部をもち他方が比較的堅い平らなシート状であるもの，例．ブリスターパッケイジ",
+      "en": "one sheet or blank being recessed and the other formed of relatively stiff flat sheet material, e.g. blister packages",
+      "count": 5107,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D75/38": {
+      "code": "B65D75/38",
+      "level": 1,
+      "parent": "B65D75/00",
+      "ja": "一方を他方の内側に配置した２以上の被包材に包まれた物品または材料",
+      "en": "Articles or materials enclosed in two or more wrappers disposed one inside the other",
+      "count": 1407,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D75/40": {
+      "code": "B65D75/40",
+      "level": 1,
+      "parent": "B65D75/00",
+      "ja": "供給された連続物品または材料の一定量をウエブ，例．折りたたまれたまたは管状のウエブ，に包むことにより，または液体，準液体もしくは可塑物で満たされたチューブを細分することにより，形成された包装体",
+      "en": "Packages formed by enclosing successive articles, or increments of material, in webs, e.g. folded or tubular webs, or by subdividing tubes filled with liquid, semi-liquid, or plastic materials",
+      "count": 359,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D75/42": {
+      "code": "B65D75/42",
+      "level": 2,
+      "parent": "B65D75/40",
+      "ja": "連結包装体の鎖",
+      "en": "Chains of interconnected packages",
+      "count": 905,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D75/44": {
+      "code": "B65D75/44",
+      "level": 2,
+      "parent": "B65D75/40",
+      "ja": "ウエブや管から切断された個々の包装体",
+      "en": "Individual packages cut from webs or tubes",
+      "count": 293,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D75/46": {
+      "code": "B65D75/46",
+      "level": 3,
+      "parent": "B65D75/44",
+      "ja": "物品を包含するもの",
+      "en": "containing articles",
+      "count": 238,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D75/48": {
+      "code": "B65D75/48",
+      "level": 3,
+      "parent": "B65D75/44",
+      "ja": "液体，準液体またはペーストを含むもの，例．クッション形包装体",
+      "en": "containing liquids, semiliquids, or pastes, e.g. cushion-shaped packages",
+      "count": 491,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D75/50": {
+      "code": "B65D75/50",
+      "level": 4,
+      "parent": "B65D75/48",
+      "ja": "四面体包装体",
+      "en": "Tetrahedral packages",
+      "count": 260,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D75/52": {
+      "code": "B65D75/52",
+      "level": 1,
+      "parent": "B65D75/00",
+      "ja": "細部",
+      "en": "Details",
+      "count": 2810,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D75/54": {
+      "code": "B65D75/54",
+      "level": 2,
+      "parent": "B65D75/52",
+      "ja": "カード，引換券類または他の差込物あるいは附属品［２００６．０１］",
+      "en": "Cards, coupons or other inserts or accessories",
+      "count": 1669,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D75/56": {
+      "code": "B65D75/56",
+      "level": 3,
+      "parent": "B65D75/54",
+      "ja": "取手または他の吊下手段",
+      "en": "Handles or other suspension means",
+      "count": 1793,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D75/58": {
+      "code": "B65D75/58",
+      "level": 2,
+      "parent": "B65D75/52",
+      "ja": "包装体製造中に附加または一体とされる開口または内容物排出装置",
+      "en": "Opening or contents-removing devices added or incorporated during package manufacture",
+      "count": 9896,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D75/60": {
+      "code": "B65D75/60",
+      "level": 3,
+      "parent": "B65D75/58",
+      "ja": "脆弱な閉鎖シーム",
+      "en": "Weakened closure seams",
+      "count": 775,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D75/62": {
+      "code": "B65D75/62",
+      "level": 3,
+      "parent": "B65D75/58",
+      "ja": "切断または穿孔部，例．閉鎖合せ目におけるもの",
+      "en": "Cuts or perforations, e.g. in closure seams",
+      "count": 3075,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D75/64": {
+      "code": "B65D75/64",
+      "level": 3,
+      "parent": "B65D75/58",
+      "ja": "被包材の固着されていない部分により形成される摘み",
+      "en": "Tabs formed by unsecured portion of wrapper",
+      "count": 483,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D75/66": {
+      "code": "B65D75/66",
+      "level": 3,
+      "parent": "B65D75/58",
+      "ja": "挿入されたまたは適用された引裂き糸または類似の可撓性要素",
+      "en": "Inserted or applied tearing-strings or like flexible elements",
+      "count": 1034,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D75/68": {
+      "code": "B65D75/68",
+      "level": 4,
+      "parent": "B65D75/66",
+      "ja": "被包材の閉塞部を通り，または被包材の層間に延長するもの",
+      "en": "extending through wrapper closure or between wrapper layers",
+      "count": 559,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D75/70": {
+      "code": "B65D75/70",
+      "level": 3,
+      "parent": "B65D75/58",
+      "ja": "剛性の切断または引裂き装置",
+      "en": "Rigid cutting or tearing devices",
+      "count": 233,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D77/00": {
+      "code": "B65D77/00",
+      "level": 0,
+      "parent": "B65D",
+      "ja": "予め形成された容器，例．箱，カートン，大袋または袋，に物品または材料を収納することにより形成された包装体",
+      "en": "Packages formed by enclosing articles or materials in preformed containers, e.g. boxes, cartons, sacks or bags",
+      "count": 5846,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D77/02": {
+      "code": "B65D77/02",
+      "level": 1,
+      "parent": "B65D77/00",
+      "ja": "剛性または準剛性容器に収納された被包物品",
+      "en": "Wrapped articles enclosed in rigid or semi-rigid containers",
+      "count": 3146,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D77/04": {
+      "code": "B65D77/04",
+      "level": 1,
+      "parent": "B65D77/00",
+      "ja": "一方が他方内に配置された２以上の容器に収納された物品または材料",
+      "en": "Articles or materials enclosed in two or more containers disposed one within another",
+      "count": 13738,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D77/06": {
+      "code": "B65D77/06",
+      "level": 2,
+      "parent": "B65D77/04",
+      "ja": "剛性容器内に配置された可撓性容器に収納された液体または準液体",
+      "en": "Liquids or semiliquids enclosed in flexible containers disposed within rigid containers",
+      "count": 7353,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D77/08": {
+      "code": "B65D77/08",
+      "level": 1,
+      "parent": "B65D77/00",
+      "ja": "単一容器の充てん中形成される別個の区画に収納された材料，例．異種材料",
+      "en": "Materials, e.g. different materials, enclosed in separate compartments formed during filling of a single container",
+      "count": 3617,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D77/10": {
+      "code": "B65D77/10",
+      "level": 1,
+      "parent": "B65D77/00",
+      "ja": "充てん後形成される容器の密封部",
+      "en": "Container closures formed after filling",
+      "count": 920,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D77/12": {
+      "code": "B65D77/12",
+      "level": 2,
+      "parent": "B65D77/10",
+      "ja": "容器の口部を潰し平滑にしそして折り曲げずに固着することによるもの，例．感圧性接着剤，熱溶着，溶接または別体の固着部材を取りつけることによるもの",
+      "en": "by collapsing and flattening the mouth portion of the container and securing without folding, e.g. by pressure-sensitive adhesive, heat-sealing, welding or applying separate securing members",
+      "count": 1288,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D77/14": {
+      "code": "B65D77/14",
+      "level": 2,
+      "parent": "B65D77/10",
+      "ja": "口部を平滑にし，引き続いて折り曲げるかロールをかけることによるもの",
+      "en": "by flattening and subsequently folding or rolling the mouth portion",
+      "count": 173,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D77/16": {
+      "code": "B65D77/16",
+      "level": 2,
+      "parent": "B65D77/10",
+      "ja": "口部を潰しそしてねじることによるもの",
+      "en": "by collapsing and twisting mouth portion",
+      "count": 47,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D77/18": {
+      "code": "B65D77/18",
+      "level": 3,
+      "parent": "B65D77/16",
+      "ja": "さらに変形可能なクリップや結束具により固着されるもの",
+      "en": "and securing by a deformable clip or binder",
+      "count": 334,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D77/20": {
+      "code": "B65D77/20",
+      "level": 2,
+      "parent": "B65D77/10",
+      "ja": "別体の蓋またはカバーを取付けることによるもの",
+      "en": "by applying separate lids or covers",
+      "count": 11079,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D77/22": {
+      "code": "B65D77/22",
+      "level": 1,
+      "parent": "B65D77/00",
+      "ja": "細部",
+      "en": "Details",
+      "count": 3121,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D77/24": {
+      "code": "B65D77/24",
+      "level": 2,
+      "parent": "B65D77/22",
+      "ja": "容器充てん中付加または組み込まれる挿入物や附属品（開口装置Ｂ６５Ｄ７７／３０）",
+      "en": "Inserts or accessories added or incorporated during filling of containers(opening devices <b>B65D77/30</b>)",
+      "count": 3561,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D77/26": {
+      "code": "B65D77/26",
+      "level": 3,
+      "parent": "B65D77/24",
+      "ja": "物品の位置決めまたは保護用の要素または装置",
+      "en": "Elements or devices for locating or protecting articles",
+      "count": 9849,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D77/28": {
+      "code": "B65D77/28",
+      "level": 3,
+      "parent": "B65D77/24",
+      "ja": "カード，引換券類または飲用ストロー",
+      "en": "Cards, coupons, or drinking straws",
+      "count": 4722,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D77/30": {
+      "code": "B65D77/30",
+      "level": 2,
+      "parent": "B65D77/22",
+      "ja": "容器の充てんまたは密封中に付加または組み込まれる開口または内容物取出装置",
+      "en": "Opening or contents-removing devices added or incorporated during filling or closing of containers",
+      "count": 6168,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D77/32": {
+      "code": "B65D77/32",
+      "level": 3,
+      "parent": "B65D77/30",
+      "ja": "引裂き紐または類似の可撓性要素",
+      "en": "Tearing-strings or like flexible elements",
+      "count": 1389,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D77/34": {
+      "code": "B65D77/34",
+      "level": 4,
+      "parent": "B65D77/32",
+      "ja": "口部の密封で包まれたもの",
+      "en": "enclosed in a mouth seal",
+      "count": 64,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D77/36": {
+      "code": "B65D77/36",
+      "level": 4,
+      "parent": "B65D77/32",
+      "ja": "蓋，カバーまたは容器口部を固着する被包材，ラベルまたは他のシート材料の要素の下部に設けられたもの",
+      "en": "disposed beneath a wrapper, label, or other element of sheet material securing a lid, cover, or container mouth",
+      "count": 269,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D77/38": {
+      "code": "B65D77/38",
+      "level": 3,
+      "parent": "B65D77/30",
+      "ja": "脆弱な閉鎖シーム",
+      "en": "Weakened closure seams",
+      "count": 1552,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D77/40": {
+      "code": "B65D77/40",
+      "level": 3,
+      "parent": "B65D77/30",
+      "ja": "剛性な切断または引裂き装置",
+      "en": "Rigid cutting or tearing devices",
+      "count": 591,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D79/00": {
+      "code": "B65D79/00",
+      "level": 0,
+      "parent": "B65D",
+      "ja": "他類に分類されない包装体の種類または細部",
+      "en": "Kinds or details of packages, not otherwise provided for",
+      "count": 4031,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D79/02": {
+      "code": "B65D79/02",
+      "level": 1,
+      "parent": "B65D79/00",
+      "ja": "誤った貯蔵または輸送を指示する装置",
+      "en": "Arrangements or devices for indicating incorrect storage or transport",
+      "count": 1919,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D81/00": {
+      "code": "B65D81/00",
+      "level": 0,
+      "parent": "B65D",
+      "ja": "特別な輸送もしくは貯蔵の問題を示す内容物のための，または，内容物の取出後に包装目的以外に使用されるのに適合した，容器，包装要素または包装体",
+      "en": "Containers, packaging elements, or packages, for contents presenting particular transport or storage problems, or adapted to be used for non-packaging purposes after removal of contents",
+      "count": 5691,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D81/02": {
+      "code": "B65D81/02",
+      "level": 1,
+      "parent": "B65D81/00",
+      "ja": "内容物を機械的損傷から保護するのに特に適合したもの［６］",
+      "en": "specially adapted to protect contents from mechanical damage",
+      "count": 25795,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D81/03": {
+      "code": "B65D81/03",
+      "level": 2,
+      "parent": "B65D81/02",
+      "ja": "衝撃吸収特性を有する被包材または封筒，例．気泡フィルム［６］",
+      "en": "Wrappers or envelopes with shock-absorbing properties, e.g. bubble films",
+      "count": 8272,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D81/05": {
+      "code": "B65D81/05",
+      "level": 2,
+      "parent": "B65D81/02",
+      "ja": "包装体の壁または他の内容物から間隔をおいて内容物を保持するもの（Ｂ６５Ｄ８１／０３が優先）［６］",
+      "en": "maintaining contents at spaced relation from package walls, or from other contents(<b>B65D81/03</b> takes precedence)",
+      "count": 50903,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D81/07": {
+      "code": "B65D81/07",
+      "level": 3,
+      "parent": "B65D81/05",
+      "ja": "弾性懸架手段を用いるもの［６］",
+      "en": "using resilient suspension means",
+      "count": 19302,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D81/09": {
+      "code": "B65D81/09",
+      "level": 3,
+      "parent": "B65D81/05",
+      "ja": "衝撃吸収材料からなり，流動性を有するばらばらの要素，例．ペレットまたはポップコーン，を用いるもの［６］",
+      "en": "using flowable discrete elements of shock-absorbing material, e.g. pellets or popcorn",
+      "count": 708,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D81/107": {
+      "code": "B65D81/107",
+      "level": 3,
+      "parent": "B65D81/05",
+      "ja": "衝撃吸収材料からなるブロックを用いるもの［６］",
+      "en": "using blocks of shock-absorbing material",
+      "count": 5938,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D81/113": {
+      "code": "B65D81/113",
+      "level": 4,
+      "parent": "B65D81/107",
+      "ja": "内容物を収容するのに特に適合した形状のもの［６］",
+      "en": "of a shape specially adapted to accommodate contents",
+      "count": 9272,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D81/127": {
+      "code": "B65D81/127",
+      "level": 3,
+      "parent": "B65D81/05",
+      "ja": "衝撃吸収材料からなる剛性または準剛性のシートを用いるもの［６］",
+      "en": "using rigid or semi-rigid sheets of shock-absorbing material",
+      "count": 1930,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D81/133": {
+      "code": "B65D81/133",
+      "level": 4,
+      "parent": "B65D81/127",
+      "ja": "内容物を収容するのに特に適合した形状のもの，例．トレー［６］",
+      "en": "of a shape specially adapted to accommodate contents, e.g. trays",
+      "count": 3281,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D81/15": {
+      "code": "B65D81/15",
+      "level": 3,
+      "parent": "B65D81/05",
+      "ja": "液体を用いるもの［６］",
+      "en": "using liquids",
+      "count": 101,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D81/17": {
+      "code": "B65D81/17",
+      "level": 2,
+      "parent": "B65D81/02",
+      "ja": "内容物への損傷なしにくしゃくしゃにするのに特に適合したもの［２００６．０１］",
+      "en": "specially adapted to crumple without damage to contents",
+      "count": 144,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D81/18": {
+      "code": "B65D81/18",
+      "level": 1,
+      "parent": "B65D81/00",
+      "ja": "内容物のための特定の環境，例．周囲より上または下の温度，を提供するもの（断熱効果をもつものＢ６５Ｄ８１／３８）［２００６．０１］",
+      "en": "providing specific environment for contents, e.g. temperature above or below ambient(with thermal insulation <b>B65D81/38</b>)",
+      "count": 50145,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D81/20": {
+      "code": "B65D81/20",
+      "level": 2,
+      "parent": "B65D81/18",
+      "ja": "真空下もしくは超大気圧下におくもの，または，特殊雰囲気，例．不活性ガスの，中におくもの",
+      "en": "under vacuum or superatmospheric pressure, or in a special atmosphere, e.g. of inert gas",
+      "count": 16797,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D81/22": {
+      "code": "B65D81/22",
+      "level": 2,
+      "parent": "B65D81/18",
+      "ja": "湿潤状態とするもの，または，液体に浸された状態とするもの",
+      "en": "in moist conditions or immersed in liquids",
+      "count": 4191,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D81/24": {
+      "code": "B65D81/24",
+      "level": 1,
+      "parent": "B65D81/00",
+      "ja": "内容物の悪化または腐敗防止のための適合；食品防腐剤，防かび剤，殺虫剤または動物忌避剤の容器または包装材料への適用（断熱効果をもつものＢ６５Ｄ８１／３８）［６］",
+      "en": "Adaptations for preventing deterioration or decay of contents; Applications to the container or packaging material of food preservatives, fungicides, pesticides or animal repellants(with thermal insulation <b>B65D81/38</b>)",
+      "count": 16533,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D81/26": {
+      "code": "B65D81/26",
+      "level": 2,
+      "parent": "B65D81/24",
+      "ja": "流体，例．内容物からにじみ出るもの，の排出または吸収のための備えをもつもの；腐食抑制剤または乾燥器の適用",
+      "en": "with provision for draining away, or absorbing, fluids, e.g. exuded by contents; Applications of corrosion inhibitors or desiccators",
+      "count": 37915,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D81/28": {
+      "code": "B65D81/28",
+      "level": 2,
+      "parent": "B65D81/24",
+      "ja": "食品防腐剤，防かび剤，殺虫剤または動物忌避剤の適用［２００６．０１］",
+      "en": "Applications of food preservatives, fungicides, pesticides or animal repellants",
+      "count": 4277,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D81/30": {
+      "code": "B65D81/30",
+      "level": 2,
+      "parent": "B65D81/24",
+      "ja": "光または他の外部照射を遮断することによるもの",
+      "en": "by excluding light or other outside radiation",
+      "count": 2981,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D81/32": {
+      "code": "B65D81/32",
+      "level": 1,
+      "parent": "B65D81/00",
+      "ja": "混合して使用する前に別々に保持すべき２以上の異種の材料を包装するためのもの［２００６．０１］",
+      "en": "for packaging two or more different materials which must be maintained separate prior to use in admixture",
+      "count": 16751,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D81/34": {
+      "code": "B65D81/34",
+      "level": 1,
+      "parent": "B65D81/00",
+      "ja": "包装体中で加熱調理または加熱されるようにした食品を包装するためのもの［６］",
+      "en": "for packaging foodstuffs intended to be cooked or heated within the package",
+      "count": 19324,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D81/36": {
+      "code": "B65D81/36",
+      "level": 1,
+      "parent": "B65D81/00",
+      "ja": "内容物取出後に包装以外の目的で使用するように適合したもの",
+      "en": "adapted to be used for non-packaging purposes after removal of contents",
+      "count": 12980,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D81/38": {
+      "code": "B65D81/38",
+      "level": 1,
+      "parent": "B65D81/00",
+      "ja": "断熱効果をもつもの［２００６．０１］",
+      "en": "with thermal insulation",
+      "count": 28787,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D83/00": {
+      "code": "B65D83/00",
+      "level": 0,
+      "parent": "B65D",
+      "ja": "内容物分配のための特殊手段をもつ容器や包装体（閉鎖具に組み込まれた分配手段Ｂ６５Ｄ４７／００）［２００６．０１］",
+      "en": "Containers or packages with special means for dispensing contents(dispensing means incorporated in closures <b>B65D47/00</b>)",
+      "count": 24069,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D83/02": {
+      "code": "B65D83/02",
+      "level": 1,
+      "parent": "B65D83/00",
+      "ja": "棒形の物品，例．針，の分配用［２００６．０１］",
+      "en": "for dispensing rod-shaped articles, e.g. needles",
+      "count": 2579,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D83/04": {
+      "code": "B65D83/04",
+      "level": 1,
+      "parent": "B65D83/00",
+      "ja": "環状，円板形，球状または類似の小物品，例．錠剤または丸薬，の分配用［２００６．０１］",
+      "en": "for dispensing annular, disc-shaped, spherical or like small articles, e.g. tablets or pills",
+      "count": 9727,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D83/06": {
+      "code": "B65D83/06",
+      "level": 1,
+      "parent": "B65D83/00",
+      "ja": "粉状または粒状材料の分配用",
+      "en": "for dispensing powdered or granular material",
+      "count": 8365,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D83/08": {
+      "code": "B65D83/08",
+      "level": 1,
+      "parent": "B65D83/00",
+      "ja": "薄い平坦な物品の連続分配用（外科手術用メスの刃のためのものＡ６１Ｂ１７／３２１５）［２００６．０１］",
+      "en": "for dispensing thin flat articles in succession(for surgical scalpel blades <b>A61B17/3215</b>)",
+      "count": 14434,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D83/10": {
+      "code": "B65D83/10",
+      "level": 2,
+      "parent": "B65D83/08",
+      "ja": "かみそり刃またはかみそりのカートリッジのためのもの［２００６．０１］",
+      "en": "for razor blades or razor cartridges",
+      "count": 1276,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D83/12": {
+      "code": "B65D83/12",
+      "level": 2,
+      "parent": "B65D83/08",
+      "ja": "切符または代用貨幣のためのもの［２００６．０１］",
+      "en": "for tickets or tokens",
+      "count": 248,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D83/14": {
+      "code": "B65D83/14",
+      "level": 1,
+      "parent": "B65D83/00",
+      "ja": "内部ガス圧による液体または準液体状内容物の分配用，すなわち推進剤を含むエアゾール容器［２０２５．０１］",
+      "en": "Containers for dispensing liquid or semi-liquid contents by internal gaseous pressure, i.e. aerosol containers comprising propellant",
+      "count": 13925,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D83/141": {
+      "code": "B65D83/141",
+      "level": 2,
+      "parent": "B65D83/14",
+      "ja": "特定の内容物または推進剤に特に適したもの［２０２５．０１］",
+      "en": "specially adapted for specific contents or propellants",
+      "count": 31,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D83/145": {
+      "code": "B65D83/145",
+      "level": 2,
+      "parent": "B65D83/14",
+      "ja": "不正開封を知らせる手段を有するもの，例．ノズルの出口の前に設置されるもの（最初の作動を妨害する，不正開封を知らせる手段Ｂ６５Ｄ８３／２２４）［２０２５．０１］",
+      "en": "with tamper-indicating means, e.g. located in front of nozzle outlets(tamper-indicating means obstructing initial actuation <b>B65D83/224</b>)",
+      "count": 1,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D83/16": {
+      "code": "B65D83/16",
+      "level": 2,
+      "parent": "B65D83/14",
+      "ja": "作動手段［２００６．０１］",
+      "en": "Actuating means",
+      "count": 4254,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D83/18": {
+      "code": "B65D83/18",
+      "level": 3,
+      "parent": "B65D83/16",
+      "ja": "手動レバーのアクチュエーター（アクチュエーターキャップに取り付けられるものＢ６５Ｄ８３／２０６）［２０２５．０１］",
+      "en": "Hand lever actuators(attached to actuator caps <b>B65D83/206</b>)",
+      "count": 187,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D83/182": {
+      "code": "B65D83/182",
+      "level": 4,
+      "parent": "B65D83/18",
+      "ja": "取っ手と組み合わされるもの［２０２５．０１］",
+      "en": "combined with hand grips",
+      "count": 5,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D83/184": {
+      "code": "B65D83/184",
+      "level": 5,
+      "parent": "B65D83/182",
+      "ja": "延長ロッドの端にあるもの［２０２５．０１］",
+      "en": "at the end of extension rods",
+      "count": 4,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D83/20": {
+      "code": "B65D83/20",
+      "level": 3,
+      "parent": "B65D83/16",
+      "ja": "アクチュエーターキャップ［２０２５．０１］",
+      "en": "Actuator caps",
+      "count": 1270,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D83/206": {
+      "code": "B65D83/206",
+      "level": 4,
+      "parent": "B65D83/20",
+      "ja": "片持ち式の作動要素を含むもの，例．リビングヒンジの周りを旋回するレバー［２０２５．０１］",
+      "en": "comprising cantilevered actuating elements, e.g. levers pivoting about living hinges",
+      "count": 14,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D83/22": {
+      "code": "B65D83/22",
+      "level": 3,
+      "parent": "B65D83/16",
+      "ja": "作動できなくする手段をもつもの（不正な開口または取り外しを妨げる手段をもつ閉鎖具Ｂ６５Ｄ５０／００）［２０２５．０１］",
+      "en": "with means to disable actuation(closures with means for discouraging unauthorized opening or removal thereof <b>B65D50/00</b>)",
+      "count": 415,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D83/222": {
+      "code": "B65D83/222",
+      "level": 4,
+      "parent": "B65D83/22",
+      "ja": "作動の都度，作動の後で自動的に固定されるアクチュエーター固定手段［２０２５．０１］",
+      "en": "Actuator locking means that are automatically engaged after each actuation",
+      "count": 0,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D83/224": {
+      "code": "B65D83/224",
+      "level": 4,
+      "parent": "B65D83/22",
+      "ja": "最初の作動を妨害する，不正開封を知らせる手段［２０２５．０１］",
+      "en": "Tamper-indicating means obstructing initial actuation",
+      "count": 1,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D83/24": {
+      "code": "B65D83/24",
+      "level": 3,
+      "parent": "B65D83/16",
+      "ja": "作動手段を作動位置に維持するための装置，例．連続して分配するためのもの［２００６．０１］",
+      "en": "Arrangements for keeping the actuating means in the active position, e.g. for continuous dispensing",
+      "count": 109,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D83/26": {
+      "code": "B65D83/26",
+      "level": 3,
+      "parent": "B65D83/16",
+      "ja": "自動的に動作するもの，例．周期的に動作するもの［２００６．０１］",
+      "en": "operating automatically, e.g. periodically",
+      "count": 202,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D83/28": {
+      "code": "B65D83/28",
+      "level": 2,
+      "parent": "B65D83/14",
+      "ja": "ノズル，ノズルに特に適合したノズルへの装着具又は付属品［２０２５．０１］",
+      "en": "Nozzles, nozzle fittings or accessories specially adapted therefor",
+      "count": 2036,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D83/285": {
+      "code": "B65D83/285",
+      "level": 3,
+      "parent": "B65D83/28",
+      "ja": "内容物を塗布するためのもの，例．ブラシまたはパッド［２０２５．０１］",
+      "en": "for applying the content, e.g. brushes or pads",
+      "count": 1,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D83/30": {
+      "code": "B65D83/30",
+      "level": 3,
+      "parent": "B65D83/28",
+      "ja": "分配された内容物の流れを案内するためのもの，例．じょうごまたはフード［２０２５．０１］",
+      "en": "for guiding the flow of the dispensed content, e.g. funnels or hoods",
+      "count": 453,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D83/303": {
+      "code": "B65D83/303",
+      "level": 4,
+      "parent": "B65D83/30",
+      "ja": "ノズルの出口の中に，またはノズルの出口に設置される延長チューブを用いるもの［２０２５．０１］",
+      "en": "using extension tubes located in or at the nozzle outlets",
+      "count": 7,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D83/32": {
+      "code": "B65D83/32",
+      "level": 2,
+      "parent": "B65D83/14",
+      "ja": "ディップチューブ［５］",
+      "en": "Dip-tubes",
+      "count": 553,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D83/34": {
+      "code": "B65D83/34",
+      "level": 2,
+      "parent": "B65D83/14",
+      "ja": "放出通路の清掃または放出通路の詰まり防止［５］",
+      "en": "Cleaning or preventing clogging of the discharge passage",
+      "count": 687,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D83/36": {
+      "code": "B65D83/36",
+      "level": 2,
+      "parent": "B65D83/14",
+      "ja": "どのような姿勢であっても吐出を可能とするもの［５］",
+      "en": "allowing operation in any orientation",
+      "count": 932,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D83/38": {
+      "code": "B65D83/38",
+      "level": 2,
+      "parent": "B65D83/14",
+      "ja": "容器本体の細部（圧力逃がし装置Ｂ６５Ｄ８３／７０）［２０２５．０１］",
+      "en": "Details of the container body(pressure relief devices <b>B65D83/70</b>)",
+      "count": 2648,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D83/384": {
+      "code": "B65D83/384",
+      "level": 3,
+      "parent": "B65D83/38",
+      "ja": "外殻または外部の容器の中に設置されるエアロゾル容器である容器本体［２０２５．０１］",
+      "en": "the container body being an aerosol container located in an outer shell or in an external container",
+      "count": 15,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D83/40": {
+      "code": "B65D83/40",
+      "level": 2,
+      "parent": "B65D83/14",
+      "ja": "閉蓋キャップ（アクチュエータキャップＢ６５Ｄ８３／２０）［５］",
+      "en": "Closure caps(actuator caps <b>B65D83/20</b>)",
+      "count": 1966,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D83/42": {
+      "code": "B65D83/42",
+      "level": 2,
+      "parent": "B65D83/14",
+      "ja": "充填手段［５］",
+      "en": "Filling or charging means",
+      "count": 1026,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D83/44": {
+      "code": "B65D83/44",
+      "level": 2,
+      "parent": "B65D83/14",
+      "ja": "内容物の放出に特に適した弁；圧力調整装置（圧力逃がし装置ＢＢ６５Ｄ８３／７０）［２００６．０１］",
+      "en": "Valves specially adapted for the discharge of contents; Regulating devices(pressure relief devices <b>B65D83/70</b>)",
+      "count": 2022,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D83/46": {
+      "code": "B65D83/46",
+      "level": 3,
+      "parent": "B65D83/44",
+      "ja": "チルト弁（再閉鎖できない弁Ｂ６５Ｄ８３／５０）［２００６．０１］",
+      "en": "Tilt valves(non-reclosable valves <b>B65D83/50</b>)",
+      "count": 178,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D83/48": {
+      "code": "B65D83/48",
+      "level": 3,
+      "parent": "B65D83/44",
+      "ja": "リフト弁，例．押すことにより操作するもの（再閉鎖できない弁Ｂ６５Ｄ８３／５０）［２００６．０１］",
+      "en": "Lift valves, e.g. operated by push action(non-reclosable valves <b>B65D83/50</b>)",
+      "count": 354,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D83/50": {
+      "code": "B65D83/50",
+      "level": 3,
+      "parent": "B65D83/44",
+      "ja": "再閉鎖できない弁，例．単回投与の用量で分配するためのもの［２００６．０１］",
+      "en": "Non-reclosable valves, e.g. for dispensing in a single dose",
+      "count": 12,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D83/52": {
+      "code": "B65D83/52",
+      "level": 3,
+      "parent": "B65D83/44",
+      "ja": "定量弁；計量装置［２０２５．０１］",
+      "en": "Metering valves; Metering devices",
+      "count": 165,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D83/53": {
+      "code": "B65D83/53",
+      "level": 4,
+      "parent": "B65D83/52",
+      "ja": "計量された量を調整するための手段を有するもの［２０２５．０１］",
+      "en": "with means for adjusting the metered quantity",
+      "count": 3,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D83/56": {
+      "code": "B65D83/56",
+      "level": 2,
+      "parent": "B65D83/14",
+      "ja": "容器が誤った向きにされた時に分配を中断する装置を有するもの［２００６．０１］",
+      "en": "with arrangements for interruption of dispensing when the container is inverted",
+      "count": 58,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D83/58": {
+      "code": "B65D83/58",
+      "level": 2,
+      "parent": "B65D83/14",
+      "ja": "分配弁のダクトの上流に，内容物と推進剤を供給するための個別の入口を有するもの（内容物と推進剤が分離しているものＢ６５Ｄ８３／６０）［２００６．０１］",
+      "en": "with separate inlets for contents and propellant feeding into a duct upstream of the dispensing valve(with contents and propellant separated <b>B65D83/60</b>)",
+      "count": 593,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D83/60": {
+      "code": "B65D83/60",
+      "level": 2,
+      "parent": "B65D83/14",
+      "ja": "内容物と推進剤が分離しているもの［２００６．０１］",
+      "en": "with contents and propellant separated",
+      "count": 161,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D83/62": {
+      "code": "B65D83/62",
+      "level": 3,
+      "parent": "B65D83/60",
+      "ja": "薄膜，袋，または類似物により分離しているもの［２００６．０１］",
+      "en": "by membranes, bags or the like",
+      "count": 561,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D83/64": {
+      "code": "B65D83/64",
+      "level": 3,
+      "parent": "B65D83/60",
+      "ja": "ピストンによるもの［２００６．０１］",
+      "en": "by pistons",
+      "count": 151,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D83/66": {
+      "code": "B65D83/66",
+      "level": 3,
+      "parent": "B65D83/60",
+      "ja": "最初分離しており，その後で混合されるもの，例．分配ヘッドの中で混合されるもの［２０２５．０１］",
+      "en": "initially separated and subsequently mixed, e.g. in a dispensing head",
+      "count": 190,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D83/666": {
+      "code": "B65D83/666",
+      "level": 4,
+      "parent": "B65D83/66",
+      "ja": "最初に使用する際，または使用する前に内容物と推進剤が十分に混ぜ合わされているもの，例．これらの構成要素の１つを含むアンプルを壊すことによるもの［２０２５．０１］",
+      "en": "with contents and the propellant being fully mixed on, or prior to, first use, e.g. by breaking an ampoule containing one of those components",
+      "count": 0,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D83/68": {
+      "code": "B65D83/68",
+      "level": 2,
+      "parent": "B65D83/14",
+      "ja": "２以上の内容物を分配するもの［２０２５．０１］",
+      "en": "Dispensing two or more contents",
+      "count": 533,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D83/682": {
+      "code": "B65D83/682",
+      "level": 3,
+      "parent": "B65D83/68",
+      "ja": "最初は分離しており，その後で混合されるもの［２０２５．０１］",
+      "en": "initially separated and subsequently mixed",
+      "count": 7,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D83/685": {
+      "code": "B65D83/685",
+      "level": 4,
+      "parent": "B65D83/682",
+      "ja": "分配ヘッドと関連付けられているチャンバに少なくとも１つの内容物が保存されているもの，例．分配中に混合するためのもの［２０２５．０１］",
+      "en": "with at least one of the contents stored in a chamber associated with the dispensing head, e.g. for mixing during dispensing",
+      "count": 1,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D83/687": {
+      "code": "B65D83/687",
+      "level": 4,
+      "parent": "B65D83/682",
+      "ja": "最初に使用する際，または使用する前に内容物と推進剤が十分に混ぜ合わされているもの，例．これらの構成要素の１つを含むアンプルを壊すことによるもの［２０２５．０１］",
+      "en": "with contents and the propellant being fully mixed on, or prior to, first use, e.g. by breaking an ampoule containing one of those components",
+      "count": 5,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D83/70": {
+      "code": "B65D83/70",
+      "level": 2,
+      "parent": "B65D83/14",
+      "ja": "圧力逃がし装置［５］",
+      "en": "Pressure relief devices",
+      "count": 178,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D83/72": {
+      "code": "B65D83/72",
+      "level": 2,
+      "parent": "B65D83/14",
+      "ja": "加熱または冷却装置を有するもの，例．熱交換器［２００６．０１］",
+      "en": "with heating or cooling devices, e.g. heat exchangers",
+      "count": 146,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D83/74": {
+      "code": "B65D83/74",
+      "level": 3,
+      "parent": "B65D83/72",
+      "ja": "発熱反応による加熱［２００６．０１］",
+      "en": "with heating by exothermic reaction",
+      "count": 25,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D83/76": {
+      "code": "B65D83/76",
+      "level": 1,
+      "parent": "B65D83/00",
+      "ja": "ピストンにより流動性材料を分配するためのもの［２０２５．０１］",
+      "en": "for dispensing fluent contents by means of a piston",
+      "count": 7744,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D83/761": {
+      "code": "B65D83/761",
+      "level": 2,
+      "parent": "B65D83/76",
+      "ja": "スクリュー軸により作動するピストン［２０２５．０１］",
+      "en": "the piston being actuated by a screw-shaft",
+      "count": 23,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D83/762": {
+      "code": "B65D83/762",
+      "level": 3,
+      "parent": "B65D83/761",
+      "ja": "スクリュー軸の内部通路を通って強制的に排出される内容物［２０２５．０１］",
+      "en": "the contents being forced out through an internal passage in the screw-shaft",
+      "count": 7,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D83/763": {
+      "code": "B65D83/763",
+      "level": 2,
+      "parent": "B65D83/76",
+      "ja": "ピストンを固定するシャフトの往復軸運動により作動するピストン，例．ラチェット機構によるもの［２０２５．０１］",
+      "en": "the piston being actuated by a reciprocating axial motion of a shaft which engages the piston, e.g. using a ratchet mechanism",
+      "count": 14,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D83/764": {
+      "code": "B65D83/764",
+      "level": 2,
+      "parent": "B65D83/76",
+      "ja": "容器の側壁にあるネジ山と協働するピストン［２０２５．０１］",
+      "en": "the piston cooperating with a screw-thread in the side wall of the container",
+      "count": 6,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D83/766": {
+      "code": "B65D83/766",
+      "level": 2,
+      "parent": "B65D83/76",
+      "ja": "ばね状の機構により作動するピストン［２０２５．０１］",
+      "en": "the piston being actuated by a spring-like mechanism",
+      "count": 7,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D83/767": {
+      "code": "B65D83/767",
+      "level": 2,
+      "parent": "B65D83/76",
+      "ja": "一体化された分配用の開口部を有するピストン（Ｂ６５Ｄ８３／７６２が優先）［２０２５．０１］",
+      "en": "the piston having an integrated dispensing opening(<b>B65D83/762</b> takes precedence)",
+      "count": 3,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D85/00": {
+      "code": "B65D85/00",
+      "level": 0,
+      "parent": "B65D",
+      "ja": "特定の物品または材料に特に適合する容器，包装要素または包装体（貯蔵または輸送の便宜のために，包装要素により一緒に保持される物品の束Ｂ６５Ｄ７１／００）［２００６．０１］<br><br><b><ul>注</ul></b><br>このグループに分類される容器，包装要素または包装体は，構造的または機能的特徴があれば，それらの特徴に従っても分類する。［６］",
+      "en": "Containers, packaging elements or packages, specially adapted for particular articles or materials  (bundles of articles held together by packaging elements for convenience of storage or transport <b>B65D71/00</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>Containers, packaging elements or packages classified in this group, are also classified according to the constructional or functional features, if such features are of interest. </li></ul>",
+      "count": 25710,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D85/02": {
+      "code": "B65D85/02",
+      "level": 1,
+      "parent": "B65D85/00",
+      "ja": "環状物品用（平坦なうず巻状ウエブやテープのようなもののためのものＢ６５Ｄ８５／６７１）［２００６．０１］",
+      "en": "for annular articles(for web or tape-like material wound in flat spiral form <b>B65D85/671</b>)",
+      "count": 1613,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D85/04": {
+      "code": "B65D85/04",
+      "level": 2,
+      "parent": "B65D85/02",
+      "ja": "針金，ロープまたはホースのコイル用",
+      "en": "for coils of wire, rope or hose",
+      "count": 2852,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D85/06": {
+      "code": "B65D85/06",
+      "level": 2,
+      "parent": "B65D85/02",
+      "ja": "タイヤ用",
+      "en": "for tyres",
+      "count": 931,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D85/07": {
+      "code": "B65D85/07",
+      "level": 1,
+      "parent": "B65D85/00",
+      "ja": "圧縮性または可撓性の物品用（衣料品用Ｂ６５Ｄ８５／１８）",
+      "en": "for compressible or flexible articles(for wearing apparel <b>B65D85/18</b>)",
+      "count": 2919,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D85/08": {
+      "code": "B65D85/08",
+      "level": 2,
+      "parent": "B65D85/07",
+      "ja": "棒状または管状",
+      "en": "rod-shaped or tubular",
+      "count": 759,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D85/10": {
+      "code": "B65D85/10",
+      "level": 3,
+      "parent": "B65D85/08",
+      "ja": "紙巻きタバコ用",
+      "en": "for cigarettes",
+      "count": 8670,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D85/12": {
+      "code": "B65D85/12",
+      "level": 3,
+      "parent": "B65D85/08",
+      "ja": "葉巻用",
+      "en": "for cigars",
+      "count": 582,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D85/14": {
+      "code": "B65D85/14",
+      "level": 3,
+      "parent": "B65D85/08",
+      "ja": "押潰可能なチューブ用",
+      "en": "for collapsible tubes",
+      "count": 228,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D85/18": {
+      "code": "B65D85/18",
+      "level": 1,
+      "parent": "B65D85/00",
+      "ja": "衣料品用，頭部に着用するものまたは履物",
+      "en": "for wearing apparel, headwear or footwear",
+      "count": 7754,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D85/20": {
+      "code": "B65D85/20",
+      "level": 1,
+      "parent": "B65D85/00",
+      "ja": "非圧縮性または剛性の棒状または管状の物品用",
+      "en": "for incompressible or rigid rod-shaped or tubular articles",
+      "count": 7988,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D85/22": {
+      "code": "B65D85/22",
+      "level": 2,
+      "parent": "B65D85/20",
+      "ja": "マカロニ，スパゲッティまたは類似の小麦粉製品用",
+      "en": "for macaroni, spaghetti or like flour products",
+      "count": 352,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D85/24": {
+      "code": "B65D85/24",
+      "level": 2,
+      "parent": "B65D85/20",
+      "ja": "針，釘または類似の長尺小物品用",
+      "en": "for needles, nails or like elongate small articles",
+      "count": 1694,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D85/26": {
+      "code": "B65D85/26",
+      "level": 2,
+      "parent": "B65D85/20",
+      "ja": "溶接棒用",
+      "en": "for welding electrodes",
+      "count": 257,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D85/28": {
+      "code": "B65D85/28",
+      "level": 2,
+      "parent": "B65D85/20",
+      "ja": "鉛筆またはペン用［２００６．０１］",
+      "en": "for pencils or pens",
+      "count": 776,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D85/30": {
+      "code": "B65D85/30",
+      "level": 1,
+      "parent": "B65D85/00",
+      "ja": "衝撃または圧力による損傷に特に鋭敏な物品用",
+      "en": "for articles particularly sensitive to damage by shock or pressure",
+      "count": 21898,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D85/32": {
+      "code": "B65D85/32",
+      "level": 2,
+      "parent": "B65D85/30",
+      "ja": "卵用",
+      "en": "for eggs",
+      "count": 5552,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D85/34": {
+      "code": "B65D85/34",
+      "level": 2,
+      "parent": "B65D85/30",
+      "ja": "果実用，例．りんご，みかんまたはトマト",
+      "en": "for fruit, e.g. apples, oranges or tomatoes",
+      "count": 11032,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D85/36": {
+      "code": "B65D85/36",
+      "level": 2,
+      "parent": "B65D85/30",
+      "ja": "ベーカリー製品用，例．ビスケット",
+      "en": "for bakery products, e.g. biscuits",
+      "count": 5373,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D85/38": {
+      "code": "B65D85/38",
+      "level": 2,
+      "parent": "B65D85/30",
+      "ja": "精密光学，計測，計算または制御装置用",
+      "en": "for delicate optical, measuring, calculating or control apparatus",
+      "count": 7666,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D85/40": {
+      "code": "B65D85/40",
+      "level": 3,
+      "parent": "B65D85/38",
+      "ja": "腕時計もしくは置時計用；それらの構成部品用",
+      "en": "for watches or clocks; for components thereof",
+      "count": 438,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D85/42": {
+      "code": "B65D85/42",
+      "level": 2,
+      "parent": "B65D85/30",
+      "ja": "アンプル用；電球用；真空管類用",
+      "en": "for ampoules; for lamp bulbs; for electronic valves or tubes",
+      "count": 4395,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D85/44": {
+      "code": "B65D85/44",
+      "level": 2,
+      "parent": "B65D85/30",
+      "ja": "陶磁器類用",
+      "en": "for crockery",
+      "count": 1124,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D85/46": {
+      "code": "B65D85/46",
+      "level": 2,
+      "parent": "B65D85/30",
+      "ja": "れんが，タイルまたは建築ブロック用",
+      "en": "for bricks, tiles or building blocks",
+      "count": 1362,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D85/48": {
+      "code": "B65D85/48",
+      "level": 2,
+      "parent": "B65D85/30",
+      "ja": "ガラス板用",
+      "en": "for glass sheets",
+      "count": 9562,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D85/50": {
+      "code": "B65D85/50",
+      "level": 1,
+      "parent": "B65D85/00",
+      "ja": "環境または大気の状態の変化に敏感な生物体，物品または材料用，例．陸上動物，鳥類，魚，水生植物，非水生植物，球根，切花または群葉［２００６．０１］",
+      "en": "for living organisms, articles or materials sensitive to changes of environment or atmospheric conditions, e.g. land animals, birds, fish, water plants, non-aquatic plants, flower bulbs, cut flowers or foliage",
+      "count": 16505,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D85/52": {
+      "code": "B65D85/52",
+      "level": 2,
+      "parent": "B65D85/50",
+      "ja": "成育中の植物用；成長中の球根用",
+      "en": "for living plants; for growing bulbs",
+      "count": 3637,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D85/57": {
+      "code": "B65D85/57",
+      "level": 1,
+      "parent": "B65D85/00",
+      "ja": "記録用ディスク用［３］",
+      "en": "for recording discs",
+      "count": 8377,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D85/575": {
+      "code": "B65D85/575",
+      "level": 1,
+      "parent": "B65D85/00",
+      "ja": "記録テープカセット用［５］",
+      "en": "for recording-tape cassettes",
+      "count": 3348,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D85/58": {
+      "code": "B65D85/58",
+      "level": 1,
+      "parent": "B65D85/00",
+      "ja": "球軸受，ワッシャー，ボタンまたは類似の球状または円板状物品用［２００６．０１］",
+      "en": "for ball bearings, washers, buttons or like spherical or disc-shaped articles",
+      "count": 1047,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D85/60": {
+      "code": "B65D85/60",
+      "level": 1,
+      "parent": "B65D85/00",
+      "ja": "糖菓または類似の菓子製品用［３］",
+      "en": "for sweets or like confectionery products",
+      "count": 4046,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D85/62": {
+      "code": "B65D85/62",
+      "level": 1,
+      "parent": "B65D85/00",
+      "ja": "積重ねた物品用；物品のグループの特殊な配列用［３］",
+      "en": "for stacks of articles; for special arrangements of groups of articles",
+      "count": 5042,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D85/64": {
+      "code": "B65D85/64",
+      "level": 1,
+      "parent": "B65D85/00",
+      "ja": "かさばった物品用［３］",
+      "en": "for bulky articles",
+      "count": 1381,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D85/66": {
+      "code": "B65D85/66",
+      "level": 1,
+      "parent": "B65D85/00",
+      "ja": "大型ロール用；床被いのロール用［３］",
+      "en": "for jumbo rolls; for rolls of floor covering",
+      "count": 2153,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D85/67": {
+      "code": "B65D85/67",
+      "level": 1,
+      "parent": "B65D85/00",
+      "ja": "ウェブまたはテープ状物質用［２００６．０１］",
+      "en": "for web or tape-like material",
+      "count": 2344,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D85/671": {
+      "code": "B65D85/671",
+      "level": 2,
+      "parent": "B65D85/67",
+      "ja": "平坦な渦巻形に巻かれたもの［２００６．０１］",
+      "en": "wound in flat spiral form",
+      "count": 2163,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D85/672": {
+      "code": "B65D85/672",
+      "level": 3,
+      "parent": "B65D85/671",
+      "ja": "芯上に巻かれたもの［３］",
+      "en": "on cores",
+      "count": 4293,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D85/675": {
+      "code": "B65D85/675",
+      "level": 2,
+      "parent": "B65D85/67",
+      "ja": "螺旋形に巻かれたもの［３］",
+      "en": "wound in helical form",
+      "count": 144,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D85/676": {
+      "code": "B65D85/676",
+      "level": 3,
+      "parent": "B65D85/675",
+      "ja": "芯上に巻かれたもの［３］",
+      "en": "on cores",
+      "count": 339,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D85/677": {
+      "code": "B65D85/677",
+      "level": 4,
+      "parent": "B65D85/676",
+      "ja": "平坦なカード上に巻かれたもの［２００６．０１］",
+      "en": "on flat cards",
+      "count": 25,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D85/68": {
+      "code": "B65D85/68",
+      "level": 1,
+      "parent": "B65D85/00",
+      "ja": "組立てまたは解体された形状の機械，機関または乗物用［３］",
+      "en": "for machines, engines or vehicles in assembled or dismantled form",
+      "count": 23863,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D85/72": {
+      "code": "B65D85/72",
+      "level": 1,
+      "parent": "B65D85/00",
+      "ja": "食用または飲用の液体，準液体，または，可塑性なもしくは練状の物質用［３］",
+      "en": "for edible or potable liquids, semiliquids, or plastic or pasty materials",
+      "count": 21168,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D85/73": {
+      "code": "B65D85/73",
+      "level": 2,
+      "parent": "B65D85/72",
+      "ja": "液体を泡立てるために特に適合させた手段をもつもの，例．泡またはビールの泡を作るための手段［７］",
+      "en": "with means specially adapted for effervescing the liquids, e.g. for forming bubbles or beer head",
+      "count": 399,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D85/74": {
+      "code": "B65D85/74",
+      "level": 2,
+      "parent": "B65D85/72",
+      "ja": "バター，マーガリンまたはラード用［３］",
+      "en": "for butter, margarine or lard",
+      "count": 646,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D85/76": {
+      "code": "B65D85/76",
+      "level": 2,
+      "parent": "B65D85/72",
+      "ja": "チーズ用［３］",
+      "en": "for cheese",
+      "count": 1136,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D85/78": {
+      "code": "B65D85/78",
+      "level": 2,
+      "parent": "B65D85/72",
+      "ja": "アイスクリーム用［３］",
+      "en": "for ice-cream",
+      "count": 2845,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D85/80": {
+      "code": "B65D85/80",
+      "level": 2,
+      "parent": "B65D85/72",
+      "ja": "ミルク用［３］",
+      "en": "for milk",
+      "count": 1131,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D85/804": {
+      "code": "B65D85/804",
+      "level": 1,
+      "parent": "B65D85/00",
+      "ja": "浸出するまたは溶解するものを入れた使い捨ての容器または包装体［７］",
+      "en": "Disposable containers or packages with contents which are infused or dissolved <u>in situ</u>",
+      "count": 4162,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D85/808": {
+      "code": "B65D85/808",
+      "level": 2,
+      "parent": "B65D85/804",
+      "ja": "液体に浸して用いるもの，例．ティーバッグ［７］",
+      "en": "for immersion in the liquid, e.g. tea bags",
+      "count": 2187,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D85/812": {
+      "code": "B65D85/812",
+      "level": 3,
+      "parent": "B65D85/808",
+      "ja": "吊下げを容易にする特徴を有するもの［７］",
+      "en": "with features facilitating their suspension",
+      "count": 1009,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D85/816": {
+      "code": "B65D85/816",
+      "level": 2,
+      "parent": "B65D85/804",
+      "ja": "その中に液体が加えられるもの，例．粉末にした，または乾燥させた食品を前もって入れてあるカップ［７］",
+      "en": "into which liquid is added, e.g. cups preloaded with powder or dehydrated food",
+      "count": 1861,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D85/82": {
+      "code": "B65D85/82",
+      "level": 1,
+      "parent": "B65D85/00",
+      "ja": "有毒性物質用［３］",
+      "en": "for poisons",
+      "count": 693,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D85/84": {
+      "code": "B65D85/84",
+      "level": 1,
+      "parent": "B65D85/00",
+      "ja": "腐食性化学製品用［３］",
+      "en": "for corrosive chemicals",
+      "count": 1997,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D85/86": {
+      "code": "B65D85/86",
+      "level": 1,
+      "parent": "B65D85/00",
+      "ja": "電気部品用（カード，シートまたはウエブに取付けた小型電気部品Ｂ６５Ｄ７３／０２；衝撃または圧力による損傷に特に鋭敏な物品用Ｂ６５Ｄ８５／３０；アンプル用，電球用真空管類用Ｂ６５Ｄ８５／４２）［６］",
+      "en": "for electrical components(small electrical components attached to cards, sheets or webs <b>B65D73/02</b>; for articles particularly sensitive to damage by shock or pressure <b>B65D85/30</b>; for ampoules, lamp bulbs, electronic valves or tubes <b>B65D85/42</b>)",
+      "count": 15197,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D85/88": {
+      "code": "B65D85/88",
+      "level": 2,
+      "parent": "B65D85/86",
+      "ja": "電池用［６］",
+      "en": "for batteries",
+      "count": 3703,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D85/90": {
+      "code": "B65D85/90",
+      "level": 2,
+      "parent": "B65D85/86",
+      "ja": "集積回路用［６］",
+      "en": "for integrated circuits",
+      "count": 2114,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D88/00": {
+      "code": "B65D88/00",
+      "level": 0,
+      "parent": "B65D",
+      "ja": "大形容器［２００６．０１］",
+      "en": "Large containers",
+      "count": 2876,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D88/02": {
+      "code": "B65D88/02",
+      "level": 1,
+      "parent": "B65D88/00",
+      "ja": "剛性のもの（Ｂ６５Ｄ８８／３４～Ｂ６５Ｄ８８／７８が優先）［２００６．０１］",
+      "en": "rigid(<b>B65D88/34 to B65D88/78</b>  take precedence)",
+      "count": 4331,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D88/04": {
+      "code": "B65D88/04",
+      "level": 2,
+      "parent": "B65D88/02",
+      "ja": "球状（Ｂ６５Ｄ８８／１２が優先）［３］",
+      "en": "spherical(<b>B65D88/12</b> takes precedence)",
+      "count": 462,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D88/06": {
+      "code": "B65D88/06",
+      "level": 2,
+      "parent": "B65D88/02",
+      "ja": "円筒状（Ｂ６５Ｄ８８／１２が優先）［３］",
+      "en": "cylindrical(<b>B65D88/12</b> takes precedence)",
+      "count": 3452,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D88/08": {
+      "code": "B65D88/08",
+      "level": 3,
+      "parent": "B65D88/06",
+      "ja": "垂直軸を有するもの［３］",
+      "en": "with a vertical axis",
+      "count": 1164,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D88/10": {
+      "code": "B65D88/10",
+      "level": 2,
+      "parent": "B65D88/02",
+      "ja": "平行六面体状（Ｂ６５Ｄ８８／１２が優先）［３］",
+      "en": "parallelepipedic(<b>B65D88/12</b> takes precedence)",
+      "count": 1981,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D88/12": {
+      "code": "B65D88/12",
+      "level": 2,
+      "parent": "B65D88/02",
+      "ja": "特に輸送に適用されるもの［３］",
+      "en": "specially adapted for transport",
+      "count": 15025,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D88/14": {
+      "code": "B65D88/14",
+      "level": 3,
+      "parent": "B65D88/12",
+      "ja": "航空機用［３］",
+      "en": "by air",
+      "count": 551,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D88/16": {
+      "code": "B65D88/16",
+      "level": 1,
+      "parent": "B65D88/00",
+      "ja": "可撓性のもの（Ｂ６５Ｄ８８／３４～Ｂ６５Ｄ８８／７８が優先）［２００６．０１］",
+      "en": "flexible(<b>B65D88/34 to B65D88/78</b>  take precedence)",
+      "count": 4259,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D88/18": {
+      "code": "B65D88/18",
+      "level": 2,
+      "parent": "B65D88/16",
+      "ja": "ベローズ形（Ｂ６５Ｄ８８／２２が優先）［３］",
+      "en": "bellows-shaped(<b>B65D88/22</b> takes precedence)",
+      "count": 180,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D88/20": {
+      "code": "B65D88/20",
+      "level": 2,
+      "parent": "B65D88/16",
+      "ja": "剛性端壁を有するもの（Ｂ６５Ｄ８８／１８，Ｂ６５Ｄ８８／２２が優先）［３］",
+      "en": "with rigid end-walls(<b>B65D88/18</b>, <b>B65D88/22</b> take precedence)",
+      "count": 423,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D88/22": {
+      "code": "B65D88/22",
+      "level": 2,
+      "parent": "B65D88/16",
+      "ja": "特に輸送に適用されるもの［３］",
+      "en": "specially adapted for transport",
+      "count": 3214,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D88/24": {
+      "code": "B65D88/24",
+      "level": 3,
+      "parent": "B65D88/22",
+      "ja": "航空機用［３］",
+      "en": "by air",
+      "count": 67,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D88/26": {
+      "code": "B65D88/26",
+      "level": 1,
+      "parent": "B65D88/00",
+      "ja": "ホッパー，すなわち，漏斗形の排出部をもつ容器（Ｂ６５Ｄ８８／３４～Ｂ６５Ｄ８８／７８が優先）［３］",
+      "en": "Hoppers, i.e. containers having funnel-shaped discharge sections(<b>B65D88/34 to B65D88/78</b>  take precedence)",
+      "count": 5237,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D88/28": {
+      "code": "B65D88/28",
+      "level": 2,
+      "parent": "B65D88/26",
+      "ja": "排出部の構造または形状［３］",
+      "en": "Construction or shape of discharge section",
+      "count": 5739,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D88/30": {
+      "code": "B65D88/30",
+      "level": 2,
+      "parent": "B65D88/26",
+      "ja": "ある利用場所から他への輸送を容易にすることに特に適合したもの（Ｂ６５Ｄ８８／５２が優先）［３］",
+      "en": "specially adapted to facilitate transportation from one utilisation site to another(<b>B65D88/52</b> takes precedence)",
+      "count": 859,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D88/32": {
+      "code": "B65D88/32",
+      "level": 2,
+      "parent": "B65D88/26",
+      "ja": "複数の組合せ［３］",
+      "en": "in multiple arrangement",
+      "count": 556,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D88/34": {
+      "code": "B65D88/34",
+      "level": 1,
+      "parent": "B65D88/00",
+      "ja": "浮きカバーをもつもの，例．浮屋根またはブランケット［２００６．０１］",
+      "en": "having floating covers, e.g. floating roofs or blankets",
+      "count": 2925,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D88/36": {
+      "code": "B65D88/36",
+      "level": 2,
+      "parent": "B65D88/34",
+      "ja": "相対的な可動部分を有するもの［３］",
+      "en": "with relatively movable sections",
+      "count": 345,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D88/38": {
+      "code": "B65D88/38",
+      "level": 2,
+      "parent": "B65D88/34",
+      "ja": "表面水受器を有するもの，例．排水路［３］",
+      "en": "with surface water receiver, e.g. drain",
+      "count": 322,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D88/40": {
+      "code": "B65D88/40",
+      "level": 2,
+      "parent": "B65D88/34",
+      "ja": "のりあげカバーのための支持部を有するもの［３］",
+      "en": "with support for aground cover",
+      "count": 99,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D88/42": {
+      "code": "B65D88/42",
+      "level": 2,
+      "parent": "B65D88/34",
+      "ja": "カバー外縁と容器との間に密封手段を有するもの［３］",
+      "en": "with sealing means between cover rim and receptacle",
+      "count": 781,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D88/44": {
+      "code": "B65D88/44",
+      "level": 3,
+      "parent": "B65D88/42",
+      "ja": "シールに作用する磁気的手段を有するもの［３］",
+      "en": "with magnetic means acting on the seal",
+      "count": 25,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D88/46": {
+      "code": "B65D88/46",
+      "level": 3,
+      "parent": "B65D88/42",
+      "ja": "シールに作用する機械的手段を有するもの［３］",
+      "en": "with mechanical means acting on the seal",
+      "count": 535,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D88/48": {
+      "code": "B65D88/48",
+      "level": 3,
+      "parent": "B65D88/42",
+      "ja": "シールに作用する流体的手段を有するもの［３］",
+      "en": "with fluid means acting on the seal",
+      "count": 205,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D88/50": {
+      "code": "B65D88/50",
+      "level": 3,
+      "parent": "B65D88/42",
+      "ja": "弾力のある発泡体または充填されたシールを有するもの［３］",
+      "en": "with resilient foam or stuffed seal",
+      "count": 344,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D88/52": {
+      "code": "B65D88/52",
+      "level": 1,
+      "parent": "B65D88/00",
+      "ja": "折りたたみ可能なもの，すなわち，ヒンジ連結された壁または取り外し可能に結合された壁を有するもの［３］",
+      "en": "collapsible, i.e. with walls hinged together or detachably connected",
+      "count": 3686,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D88/54": {
+      "code": "B65D88/54",
+      "level": 1,
+      "parent": "B65D88/00",
+      "ja": "充満または荷あけを容易にする手段によって特徴づけられたもの［２００６．０１］",
+      "en": "characterised by means facilitating filling or emptying",
+      "count": 22719,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D88/56": {
+      "code": "B65D88/56",
+      "level": 2,
+      "parent": "B65D88/54",
+      "ja": "傾けることによるもの［３］",
+      "en": "by tilting",
+      "count": 1271,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D88/58": {
+      "code": "B65D88/58",
+      "level": 2,
+      "parent": "B65D88/54",
+      "ja": "壁の移動によるもの",
+      "en": "by displacement of walls",
+      "count": 469,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D88/60": {
+      "code": "B65D88/60",
+      "level": 3,
+      "parent": "B65D88/58",
+      "ja": "内部壁によるもの［３］",
+      "en": "of internal walls",
+      "count": 280,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D88/62": {
+      "code": "B65D88/62",
+      "level": 4,
+      "parent": "B65D88/60",
+      "ja": "壁が変形するもの［３］",
+      "en": "the walls being deformable",
+      "count": 590,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D88/64": {
+      "code": "B65D88/64",
+      "level": 2,
+      "parent": "B65D88/54",
+      "ja": "架橋形成を防止するもの［３］",
+      "en": "preventing bridge formation",
+      "count": 5658,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D88/66": {
+      "code": "B65D88/66",
+      "level": 3,
+      "parent": "B65D88/64",
+      "ja": "振動またはつち打装置を用いるもの［３］",
+      "en": "using vibrating or knocking devices",
+      "count": 9530,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D88/68": {
+      "code": "B65D88/68",
+      "level": 3,
+      "parent": "B65D88/64",
+      "ja": "回転装置を用いるもの［３］",
+      "en": "using rotating devices",
+      "count": 12671,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D88/70": {
+      "code": "B65D88/70",
+      "level": 3,
+      "parent": "B65D88/64",
+      "ja": "流体噴射を用いるもの（Ｂ６５Ｄ８８／７２が優先）［３］",
+      "en": "using fluid jets(<b>B65D88/72</b> takes precedence)",
+      "count": 3380,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D88/72": {
+      "code": "B65D88/72",
+      "level": 2,
+      "parent": "B65D88/54",
+      "ja": "流動装置［３］",
+      "en": "Fluidising devices",
+      "count": 2115,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D88/74": {
+      "code": "B65D88/74",
+      "level": 1,
+      "parent": "B65D88/00",
+      "ja": "加熱，冷却，エアレイティングまたはその他の内容物のためのコンディショニングのための手段をもつもの［３］",
+      "en": "having means for heating, cooling, aerating or other conditioning of contents",
+      "count": 24774,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D88/76": {
+      "code": "B65D88/76",
+      "level": 1,
+      "parent": "B65D88/00",
+      "ja": "地下で使用するためのもの［３］",
+      "en": "for use underground",
+      "count": 2665,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D88/78": {
+      "code": "B65D88/78",
+      "level": 1,
+      "parent": "B65D88/00",
+      "ja": "水中で使用するためのもの［３］",
+      "en": "for use in or under water",
+      "count": 1343,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D90/00": {
+      "code": "B65D90/00",
+      "level": 0,
+      "parent": "B65D",
+      "ja": "大形容器の構成要素，細部または付属品（Ｂ６５Ｄ８８／３４～Ｂ６５Ｄ８８／７８が優先）［２００６．０１］",
+      "en": "Component parts, details or accessories for large containers(<b>B65D88/34 to B65D88/78</b>  take precedence)",
+      "count": 57629,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D90/02": {
+      "code": "B65D90/02",
+      "level": 1,
+      "parent": "B65D90/00",
+      "ja": "壁構造（壁内部に中空空間を含む漏洩指示装置の配置Ｂ６５Ｄ９０／５０１；壁内に多孔空間または多孔層を含む漏洩指示装置の配置Ｂ６５Ｄ９０／５０５；壁内に導電層を含む漏洩指示装置の配置Ｂ６５Ｄ９０／５１３）［２０１９．０１］",
+      "en": "Wall construction",
+      "count": 19334,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D90/04": {
+      "code": "B65D90/04",
+      "level": 2,
+      "parent": "B65D90/02",
+      "ja": "ライニング［２００６．０１］",
+      "en": "Linings",
+      "count": 5435,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D90/06": {
+      "code": "B65D90/06",
+      "level": 2,
+      "parent": "B65D90/02",
+      "ja": "被覆，例．断熱目的のためのもの［２００６．０１］",
+      "en": "Coverings, e.g. for insulating purposes",
+      "count": 3798,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D90/08": {
+      "code": "B65D90/08",
+      "level": 2,
+      "parent": "B65D90/02",
+      "ja": "壁部分の相互接合；そのための密封手段［２００６．０１］",
+      "en": "Interconnections of wall parts; Sealing means therefor",
+      "count": 6661,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D90/10": {
+      "code": "B65D90/10",
+      "level": 1,
+      "parent": "B65D90/00",
+      "ja": "マンホール；検査用の開口；そのためのカバー［２００６．０１］",
+      "en": "Manholes; Inspection openings; Covers therefor",
+      "count": 6219,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D90/12": {
+      "code": "B65D90/12",
+      "level": 1,
+      "parent": "B65D90/00",
+      "ja": "支持装置［２００６．０１］",
+      "en": "Supports",
+      "count": 11147,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D90/14": {
+      "code": "B65D90/14",
+      "level": 2,
+      "parent": "B65D90/12",
+      "ja": "支持脚，例．取外し可能なもの［２００６．０１］",
+      "en": "Legs, e.g. detachable",
+      "count": 3327,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D90/16": {
+      "code": "B65D90/16",
+      "level": 2,
+      "parent": "B65D90/12",
+      "ja": "スキッド［２００６．０１］",
+      "en": "Skids",
+      "count": 278,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D90/18": {
+      "code": "B65D90/18",
+      "level": 2,
+      "parent": "B65D90/12",
+      "ja": "キャスター，コロ，または類似のもの，例．取外し可能なもの［２００６．０１］",
+      "en": "Castors, rolls, or the like, e.g. detachable",
+      "count": 4521,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D90/20": {
+      "code": "B65D90/20",
+      "level": 2,
+      "parent": "B65D90/12",
+      "ja": "骨組または網，例．可撓性容器のためのもの［２００６．０１］",
+      "en": "Frames or nets, e.g. for flexible containers",
+      "count": 3020,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D90/22": {
+      "code": "B65D90/22",
+      "level": 1,
+      "parent": "B65D90/00",
+      "ja": "安全に特徴のあるもの［２００６．０１］",
+      "en": "Safety features",
+      "count": 6739,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D90/24": {
+      "code": "B65D90/24",
+      "level": 2,
+      "parent": "B65D90/22",
+      "ja": "漏洩液保留手段，例．回収池［２００６．０１］",
+      "en": "Spillage-retaining means, e.g. recovery ponds",
+      "count": 2026,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D90/26": {
+      "code": "B65D90/26",
+      "level": 2,
+      "parent": "B65D90/22",
+      "ja": "過充填防止［２００６．０１］",
+      "en": "Overfill prevention",
+      "count": 724,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D90/28": {
+      "code": "B65D90/28",
+      "level": 2,
+      "parent": "B65D90/22",
+      "ja": "蒸気漏出防止または最小化のための手段［２００６．０１］",
+      "en": "Means for preventing or minimising the escape of vapours",
+      "count": 721,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D90/30": {
+      "code": "B65D90/30",
+      "level": 2,
+      "parent": "B65D90/22",
+      "ja": "漏出蒸気の回収［２００６．０１］",
+      "en": "Recovery of escaped vapours",
+      "count": 1567,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D90/32": {
+      "code": "B65D90/32",
+      "level": 2,
+      "parent": "B65D90/22",
+      "ja": "過度または不足圧の影響を防止，または最小化するための装置［２００６．０１］",
+      "en": "Arrangements for preventing, or minimising the effect of, excessive or insufficient pressure",
+      "count": 3206,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D90/34": {
+      "code": "B65D90/34",
+      "level": 3,
+      "parent": "B65D90/32",
+      "ja": "通気手段［２００６．０１］",
+      "en": "Venting means",
+      "count": 1989,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D90/36": {
+      "code": "B65D90/36",
+      "level": 3,
+      "parent": "B65D90/32",
+      "ja": "脆弱部分［２００６．０１］",
+      "en": "Weakened parts",
+      "count": 875,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D90/38": {
+      "code": "B65D90/38",
+      "level": 2,
+      "parent": "B65D90/22",
+      "ja": "容器内の蒸気スペースを減少または容器内の蒸気の形成を減少させるための手段［２００６．０１］",
+      "en": "Means for reducing the vapour space or for reducing the formation of vapour within containers",
+      "count": 391,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D90/40": {
+      "code": "B65D90/40",
+      "level": 3,
+      "parent": "B65D90/38",
+      "ja": "多孔性物質の充填物の使用によるもの［２００６．０１］",
+      "en": "by use of fillings of porous materials",
+      "count": 109,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D90/42": {
+      "code": "B65D90/42",
+      "level": 3,
+      "parent": "B65D90/38",
+      "ja": "液体面を覆うための特別な物質の使用によるもの［２００６．０１］",
+      "en": "by use of particular materials for covering surface of liquids",
+      "count": 297,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D90/44": {
+      "code": "B65D90/44",
+      "level": 3,
+      "parent": "B65D90/38",
+      "ja": "液上方または内容物の間の空間を満たす不活性ガスの使用によるもの［２００６．０１］",
+      "en": "by use of inert gas for filling space above liquid or between contents",
+      "count": 699,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D90/46": {
+      "code": "B65D90/46",
+      "level": 2,
+      "parent": "B65D90/22",
+      "ja": "静電荷を除去するか，またはその形成を防ぐための装置［２００６．０１］",
+      "en": "Arrangements for carrying off, or preventing the formation of electrostatic charges",
+      "count": 854,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D90/48": {
+      "code": "B65D90/48",
+      "level": 1,
+      "parent": "B65D90/00",
+      "ja": "指示または測定装置の配置［２００６．０１］",
+      "en": "Arrangements of indicating or measuring devices",
+      "count": 16119,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D90/50": {
+      "code": "B65D90/50",
+      "level": 2,
+      "parent": "B65D90/48",
+      "ja": "漏洩指示装置［２０１９．０１］",
+      "en": "of leakage-indicating devices",
+      "count": 1257,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D90/501": {
+      "code": "B65D90/501",
+      "level": 3,
+      "parent": "B65D90/50",
+      "ja": "壁内部に中空空間を含むもの［２０１９．０１］",
+      "en": "comprising hollow spaces within walls",
+      "count": 293,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D90/503": {
+      "code": "B65D90/503",
+      "level": 4,
+      "parent": "B65D90/501",
+      "ja": "圧力下または真空下［２０１９．０１］",
+      "en": "under pressure or vacuum",
+      "count": 242,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D90/505": {
+      "code": "B65D90/505",
+      "level": 3,
+      "parent": "B65D90/50",
+      "ja": "壁内に多孔空間または多孔層を含むもの［２０１９．０１］",
+      "en": "comprising porous spaces or porous layers in walls",
+      "count": 102,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D90/507": {
+      "code": "B65D90/507",
+      "level": 4,
+      "parent": "B65D90/505",
+      "ja": "圧力下または真空下［２０１９．０１］",
+      "en": "under pressure or vacuum",
+      "count": 67,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D90/51": {
+      "code": "B65D90/51",
+      "level": 3,
+      "parent": "B65D90/50",
+      "ja": "センサに特徴のあるもの［２０１９．０１］",
+      "en": "characterised by sensors",
+      "count": 260,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D90/511": {
+      "code": "B65D90/511",
+      "level": 4,
+      "parent": "B65D90/51",
+      "ja": "浮き型指示装置［２０１９．０１］",
+      "en": "Float-type indicators",
+      "count": 58,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D90/513": {
+      "code": "B65D90/513",
+      "level": 3,
+      "parent": "B65D90/50",
+      "ja": "壁内に導電層を含むもの［２０１９．０１］",
+      "en": "comprising electrically conductive layers in walls",
+      "count": 48,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D90/52": {
+      "code": "B65D90/52",
+      "level": 1,
+      "parent": "B65D90/00",
+      "ja": "スロッシング防止装置［２００６．０１］",
+      "en": "Anti-slosh devices",
+      "count": 2831,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D90/54": {
+      "code": "B65D90/54",
+      "level": 1,
+      "parent": "B65D90/00",
+      "ja": "ゲートまたは閉鎖装置［２００６．０１］",
+      "en": "Gates or closures",
+      "count": 12298,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D90/56": {
+      "code": "B65D90/56",
+      "level": 2,
+      "parent": "B65D90/54",
+      "ja": "可撓性の壁の変形により作動するもの［２００６．０１］",
+      "en": "operating by deformation of flexible walls",
+      "count": 348,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D90/58": {
+      "code": "B65D90/58",
+      "level": 2,
+      "parent": "B65D90/54",
+      "ja": "開口のなす面の中でスライドする閉鎖部材をもつもの［２００６．０１］",
+      "en": "having closure members sliding in the plane of the opening",
+      "count": 2849,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D90/60": {
+      "code": "B65D90/60",
+      "level": 3,
+      "parent": "B65D90/58",
+      "ja": "１以上の開口をもつもの［２００６．０１］",
+      "en": "and having one or more openings",
+      "count": 253,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D90/62": {
+      "code": "B65D90/62",
+      "level": 2,
+      "parent": "B65D90/54",
+      "ja": "開口のなす面から外れて移動可能な閉鎖部材をもつもの［２００６．０１］",
+      "en": "having closure members movable out of the plane of the opening",
+      "count": 3188,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D90/64": {
+      "code": "B65D90/64",
+      "level": 2,
+      "parent": "B65D90/54",
+      "ja": "複数パーツからなる閉鎖部材であって，パーツが必要に応じて一つ一つ閉鎖位置に動かされるもの［２００６．０１］",
+      "en": "having multipart closure members, the parts being brought into closing position one by one according to need",
+      "count": 719,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    },
+    "B65D90/66": {
+      "code": "B65D90/66",
+      "level": 2,
+      "parent": "B65D90/54",
+      "ja": "そのための操作装置［２００６．０１］",
+      "en": "Operating devices therefor",
+      "count": 5847,
+      "sourceFile": "ipc_B65D.txt",
+      "kind": "ipc"
+    }
+  }
+};

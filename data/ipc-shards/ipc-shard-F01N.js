@@ -1,0 +1,656 @@
+window.IPC_SHARD_F01N = {
+  "generatedAt": "2026-03-20T02:17:46.793Z",
+  "total": 65,
+  "entries": {
+    "F01N": {
+      "code": "F01N",
+      "level": 0,
+      "parent": "F01",
+      "ja": "機械または機関のためのガス流消音器または排気装置一般；内燃機関用ガス流消音器または排気装置（車両の推進装置の排気に関する配置Ｂ６０Ｋ１３／００；特に内燃機関に応用され，結合される燃焼空気入口消音器Ｆ０２Ｍ３５／００；雑音の防止あるいは軽減一般Ｇ１０Ｋ１１／１６）<br><br><b><ul>注</ul></b><br>クラスＦ０１の前の注，特に注（３）に注意すること。",
+      "en": "GAS-FLOW SILENCERS OR EXHAUST APPARATUS FOR MACHINES OR ENGINES IN GENERAL; GAS-FLOW SILENCERS OR EXHAUST APPARATUS FOR INTERNAL-COMBUSTION ENGINES(arrangements in connection with gas exhaust of propulsion units in vehicles <b>B60K13/00</b>; combustion-air intake silencers specially adapted for, or arranged on, internal-combustion engines <b>F02M35/00</b>; protecting against, or damping, noise in general <b>G10K11/16</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>Attention is drawn to the Notes preceding class <b>F01</b>, especially as regards Note (3).</li></ul>",
+      "count": 1152,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F01": {
+      "code": "F01",
+      "level": 0,
+      "parent": "F",
+      "ja": "機械または機関一般；機関設備一般；蒸気機関<br><br><b><ul>注</ul></b><br>このサブセクション，すなわちクラスＦ０１からＦ０４，の利用のための手引き<br>以下の注は，この部分の分類体系の利用を助けるためのものである；これらはいかなる場合にも分類体系を変更するものとして解釈すべきではない。<br>１．このサブセクションにおいては，“機関”または“ポンプ”を明示するサブクラスまたはグループは，他に特に分類されない限りそれらの操作方法を包含する。<br>２．このサブセクションにおいては，下記の用語または表現は以下に示す意味で用いる：<br>　・“機関”は流体エネルギを連続的に機械的動力に変換する装置を意味する。それ故，この語はそれ自体で，たとえば蒸気ピストン機関，蒸気タービン，または，内燃機関を含むが，一行程装置を除外する。“機関”はまた，それが特に計器に用いるのに適しているものを除き計器の流体作動部分をも包含する；<br>　・“ポンプ”は機械的または他の手段によって流体を連続的に押し揚げ，押圧し，圧縮または排出する装置を意味する；そしてこの用語はファンまたは送風機を含む；<br>　・“機械”は同様に機関およびポンプであり得る装置を意味し，かつ機関に限定された装置またはポンプに限定されたものを意味しない；<br>　・“容積形”は，作動流体エネルギの機械的エネルギへの変換およびその逆の変換において，作動流体の内容積変化が機械部材の変位に相当し，流体の動的影響が重要でないエネルギ変換方法を意味する；<br>　・“非容積形”は，作動流体エネルギの運動エネルギへの変換によって，作動流体のエネルギを機械的エネルギに変換する方法を意味する；その逆の変換の場合も同様である；<br>　・“揺動ピストン機械”とは流体と係合する仕事伝達部材が揺動する容積形機械を意味する。この定義は機関またはポンプに同様に適用する；<br>　・“回転ピストン機械”とは流体と係合する仕事伝達部材が固定軸のまわりに，もしくは円または同様の軌道に沿って移動する軸のまわりに，回転する容積形機械を意味する。この定義は機関またはポンプに同様に適用する；<br>　・“回転ピストン”とは回転ピストン機械の仕事伝達部材を意味し，適当な形式のもの，例．歯車のようなもの，でよい；<br>　・“共動部材”とは揺動ピストンまたは回転ピストンと，駆動作用またはポンプ作用を補助する他の部材，例．作動室壁，とを意味する；<br>　・“共動部材の運動”は，相対的，すなわち，たとえ文面上は“回転軸”とされていても，共動部材の一方は静止していることもあり，両方とも動くこともあると解釈すべきである；<br>　・“歯または歯に相当する部分”とは突出部，突起部，または係合部を含む；<br>　・“内部軸”形式とは内外の共動部材の回転軸がつねに外側部材内にあることを意味する，例．環状歯車の内歯とかみ合うピニオンと類似の態様であるもの<br>　・“自由ピストン”は行程の長さがそれによって駆動される部材によって限定されないピストンを意味する；<br>　・“シリンダ”は容積形作動室一般を意味し，そしてこの用語は円形断面のシリンダに限定されない；<br>　・“主軸”はピストンの往復運動を回転運動にまたはその反対に変換する軸を意味する；<br>　・“設備”は機関と機関を運転するのに必要な付加的装置を一緒にした意味である。たとえば，蒸気機関設備は蒸気機関および蒸気発生装置を含む；<br>　・“作動流体”はポンプにおける被駆動流体または機関における駆動流体を意味する。作動流体は圧縮性流体と呼ばれる圧縮性のガス体，例．蒸気，または液体でありうる。あるいは圧縮性流体と液相の共存も可能である。<br>　・“蒸気”は凝縮性蒸気一般を含み，また“特殊蒸気”は水蒸気以外の場合に用いる；<br>　・非容積形機械または機関に適用される“反動形”は圧力―速度変換が完全にまたは部分的に回転子において行なわれる機械または機関を意味し；回転子内における圧力―速度変換が全くないかわずかである機械または機関は“衝動形”と称する。<br>３．このサブセクションにおいては：<br>　・周期的に作動する弁，潤滑，ガス流消音器もしくは排気装置，または冷却はそれらの記述された応用に関係なくＦ０１Ｌ，Ｆ０１Ｍ，Ｆ０１Ｎ，Ｆ０１Ｐに分類する。ただしその分類の特徴がその応用に独特のものであるならば，その場合Ｆ０１ないしＦ０４の関連したサブクラスのみに分類する；<br>　・機械または機関の潤滑，ガス流消音器もしくは排気装置，または冷却はＦ０１Ｂに分類される蒸気機関に特有なものを除いてＦ０１Ｍ，Ｆ０１Ｎ，Ｆ０１Ｐに分類する。<br>４．このサブセクションを十分に理解して利用するため，この骨格をなす，Ｆ０１Ｂ，Ｆ０１Ｃ，Ｆ０１Ｄ，Ｆ０３ＢおよびＦ０４Ｂ，Ｆ０４Ｃ，Ｆ０４Ｄ，に関するかぎり<br>　・この分類表に存在する原則；<br>　・その要求する分類の特徴；および<br>　・その補足<br>を記憶しておくことが肝要である。<br>　　ｉ．原則<br>　　　これは上に挙げたサブグラスに本質的に関連している。より限定された事項を包含する他のサブグラス，特にＦ０２のものはここで考慮しない。<br>　　　各サブグラスは基本的に装置（機関またはポンプ）の類を包含し，また拡張によって同種の“機械”を同様に包含する。それ故に一方が他方より，より一般的性質を有する，２つの異なった主題は同じサブグラスに包含される。<br>　　　サブクラスが包含する２つの異なった主題の範囲をこえて，サブクラスＦ０１Ｂ，Ｆ０３Ｂ，Ｆ０４Ｂはさらに関連した類での異なった種類の装置に関係する他のサブクラスに関して一般性を有する。<br>　　　この一般性は，つねに同じサブクラスに関するものを除いて，異なった２つの主題の取り扱いに対しても同様に適用する。<br>　　　それ故，Ｆ０３Ｂはその機械を扱う部分においてＦ０４Ｂ，Ｆ０４Ｃに関する一般的クラスとして，および，その機関を扱う部分においてＦ０３Ｃに関する一般的クラスとして考えられるべきである。<br>　　ｉｉ．特徴<br>　　　ａ．サブグラスの主要な分類の特徴には機械；機関；ポンプの３つの可能性がある装置を級付けしていることである。<br>　　　ｂ．上記のごとく，“機械”はつねに他の２つの一方と関連している。これらの主分類は装置の一般的作動理論に従って：容積形；非容積形に再分類される。<br>　　　ｃ．容積形装置は作用理論を奏功する方法，すなわち，装置の種類に従って：単純往復ピストン；回転または揺動ピストン；その他にさらに再分類される。<br>　　　ｄ．他の分類の特徴は，すなわち：液体および圧縮性流体；圧縮性流体；流体の３種の装置が可能である，作動流体に関するものである。<br>　　ｉｉｉ．補足<br>　　　これは，装置または作動流体の種類に関し考慮のうえ特徴に従って，上に挙げたサブクラスの対との関連において存在する。<br>　　　種々の原則，特徴，補足と関連するサブクラスが下記のサブセクション内の索引に示されている。<br>次のようなことが索引から理解される。<br>・与えられた類の中の同種の装置に対して，“作動流体”の特徴が関連している：<br>　　Ｆ０１ＢおよびＦ０４Ｂ　機械<br>　　Ｆ０１ＣおよびＦ０４Ｃ　機械<br>　　Ｆ０１ＤおよびＦ０３Ｂ　機械<br>　　Ｆ０１ＢおよびＦ０３Ｃ　機関<br>　　Ｆ０１ＣおよびＦ０３Ｃ　機関<br>　　Ｆ０１ＤおよびＦ０３Ｂ　機関<br>・同じ種類の作動流体に対して，“装置”の特徴が相対的一般性から考えて同様にサブクラスに関連する。<br><br><b><ul>サブクラス内の索引</ul></b><br>機械<br>　容積形<br>　回転または揺動ピストン<br>　　液体および弾性流体または弾性流体　Ｆ０１Ｃ<br>　　流体のみ　Ｆ０４Ｃ<br>　往復ピストンまたはその他<br>　　液体および弾性流体または弾性流体　Ｆ０１Ｂ<br>　　流体のみ　Ｆ０４Ｂ<br>　非容積形<br>　　液体および弾性流体または弾性流体　Ｆ０１Ｄ<br>　　流体のみ　Ｆ０３Ｂ<br>機関<br>　容積形<br>　回転または揺動ピストン<br>　　液体および弾性流体または弾性流体　Ｆ０１Ｃ<br>　　流体のみ　Ｆ０３Ｃ<br>　往復ピストンまたはその他<br>　　液体および弾性流体または弾性流体　Ｆ０１Ｂ<br>　　流体のみ　Ｆ０３Ｃ<br>　非容積形<br>　　液体および弾性流体または弾性流体　Ｆ０１Ｄ<br>　　流体のみ　Ｆ０３Ｂ<br>ポンプ<br>　容積形<br>　　回転または揺動ピストン　Ｆ０４Ｃ<br>　　往復ピストンまたはその他　Ｆ０４Ｂ<br>　非容積形　Ｆ０４Ｄ",
+      "en": "<br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">MACHINES<tr><td width=\"70%\">positive displacement<tr><td width=\"70%\">rotary or oscillating piston<tr><td width=\"70%\">liquid <u>and</u> elastic fluid or elastic fluid</td><td><b><b>F01C</b></b></td></tr></tr><tr><td width=\"70%\">liquid only</td><td><b><b>F04C</b></b></td></tr></tr></tr><tr><td width=\"70%\">reciprocating piston or other<tr><td width=\"70%\">liquid <u>and</u> elastic fluid or elastic fluid</td><td><b><b>F01B</b></b></td></tr></tr><tr><td width=\"70%\">liquid only</td><td><b><b>F04B</b></b></td></tr></tr></tr></tr><tr><td width=\"70%\">non-positive displacement<tr><td width=\"70%\">liquid <u>and</u> elastic fluid or elastic fluid</td><td><b><b>F01D</b></b></td></tr></tr><tr><td width=\"70%\">liquid only</td><td><b><b>F03B</b></b></td></tr></tr></tr></tr><tr><td width=\"70%\">ENGINES<tr><td width=\"70%\">positive displacement<tr><td width=\"70%\">rotary or oscillating piston<tr><td width=\"70%\">liquid <u>and</u> elastic fluid or elastic fluid</td><td><b><b>F01C</b></b></td></tr></tr><tr><td width=\"70%\">liquid only</td><td><b><b>F03C</b></b></td></tr></tr></tr><tr><td width=\"70%\">reciprocating piston or other<tr><td width=\"70%\">liquid <u>and</u> elastic fluid or elastic fluid</td><td><b><b>F01B</b></b></td></tr></tr><tr><td width=\"70%\">liquid only</td><td><b><b>F03C</b></b></td></tr></tr></tr></tr><tr><td width=\"70%\">non-positive displacement<tr><td width=\"70%\">liquid <u>and</u> elastic fluid or elastic fluid</td><td><b><b>F01D</b></b></td></tr></tr><tr><td width=\"70%\">liquid only</td><td><b><b>F03B</b></b></td></tr></tr></tr></tr><tr><td width=\"70%\">PUMPS<tr><td width=\"70%\">positive displacement<tr><td width=\"70%\">rotary or oscillating piston</td><td><b><b>F04C</b></b></td></tr></tr><tr><td width=\"70%\">reciprocating piston or other</td><td><b><b>F04B</b></b></td></tr></tr></tr><tr><td width=\"70%\">non-positive displacement</td><td><b><b>F04D</b></b></td></tr></tr></tr></table>MACHINES OR ENGINES IN GENERAL; ENGINE PLANTS IN GENERAL; STEAM ENGINES",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F": {
+      "code": "F",
+      "level": 0,
+      "parent": null,
+      "ja": "機械工学；照明；加熱；武器；爆破",
+      "en": "MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F01N1/00": {
+      "code": "F01N1/00",
+      "level": 0,
+      "parent": "F01N",
+      "ja": "消音方法によって特徴づけられた消音装置",
+      "en": "Silencing apparatus characterised by method of silencing",
+      "count": 6315,
+      "sourceFile": "ipc_F01N.txt",
+      "kind": "ipc"
+    },
+    "F01N1/02": {
+      "code": "F01N1/02",
+      "level": 1,
+      "parent": "F01N1/00",
+      "ja": "共鳴を利用するもの",
+      "en": "by using resonance",
+      "count": 5218,
+      "sourceFile": "ipc_F01N.txt",
+      "kind": "ipc"
+    },
+    "F01N1/04": {
+      "code": "F01N1/04",
+      "level": 2,
+      "parent": "F01N1/02",
+      "ja": "共鳴室内に吸音物質をもつもの",
+      "en": "having sound-absorbing materials in resonance chambers",
+      "count": 1857,
+      "sourceFile": "ipc_F01N.txt",
+      "kind": "ipc"
+    },
+    "F01N1/06": {
+      "code": "F01N1/06",
+      "level": 1,
+      "parent": "F01N1/00",
+      "ja": "干渉効果を利用するもの",
+      "en": "by using interference effect",
+      "count": 2583,
+      "sourceFile": "ipc_F01N.txt",
+      "kind": "ipc"
+    },
+    "F01N1/08": {
+      "code": "F01N1/08",
+      "level": 1,
+      "parent": "F01N1/00",
+      "ja": "絞りまたは渦流によって排気エネルギを減少させるもの",
+      "en": "by reducing exhaust energy by throttling or whirling",
+      "count": 11768,
+      "sourceFile": "ipc_F01N.txt",
+      "kind": "ipc"
+    },
+    "F01N1/10": {
+      "code": "F01N1/10",
+      "level": 2,
+      "parent": "F01N1/08",
+      "ja": "吸音物質と組み合わせたもの",
+      "en": "in combination with sound-absorbing materials",
+      "count": 4597,
+      "sourceFile": "ipc_F01N.txt",
+      "kind": "ipc"
+    },
+    "F01N1/12": {
+      "code": "F01N1/12",
+      "level": 2,
+      "parent": "F01N1/08",
+      "ja": "ら旋形状のチャネルを利用するもの（Ｆ０１Ｎ１／１０が優先；サイクロンＢ０４Ｃ）",
+      "en": "using spirally- or helically-shaped channels(<b>F01N1/10</b> takes precedence; cyclones <b>B04C</b>)",
+      "count": 1161,
+      "sourceFile": "ipc_F01N.txt",
+      "kind": "ipc"
+    },
+    "F01N1/14": {
+      "code": "F01N1/14",
+      "level": 1,
+      "parent": "F01N1/00",
+      "ja": "排ガスに空気を加えるもの",
+      "en": "by adding air to exhaust gases",
+      "count": 682,
+      "sourceFile": "ipc_F01N.txt",
+      "kind": "ipc"
+    },
+    "F01N1/16": {
+      "code": "F01N1/16",
+      "level": 1,
+      "parent": "F01N1/00",
+      "ja": "可動部材を用いるもの",
+      "en": "by using movable parts",
+      "count": 1786,
+      "sourceFile": "ipc_F01N.txt",
+      "kind": "ipc"
+    },
+    "F01N1/18": {
+      "code": "F01N1/18",
+      "level": 2,
+      "parent": "F01N1/16",
+      "ja": "回転運動するもの",
+      "en": "having rotary movement",
+      "count": 598,
+      "sourceFile": "ipc_F01N.txt",
+      "kind": "ipc"
+    },
+    "F01N1/20": {
+      "code": "F01N1/20",
+      "level": 2,
+      "parent": "F01N1/16",
+      "ja": "揺動または振動するもの（部材が弾力壁であるものＦ０１Ｎ１／２２）",
+      "en": "having oscillating or vibrating movement(the parts being resilient walls <b>F01N1/22</b>)",
+      "count": 263,
+      "sourceFile": "ipc_F01N.txt",
+      "kind": "ipc"
+    },
+    "F01N1/22": {
+      "code": "F01N1/22",
+      "level": 2,
+      "parent": "F01N1/16",
+      "ja": "部材が弾力壁であるもの",
+      "en": "the parts being resilient walls",
+      "count": 353,
+      "sourceFile": "ipc_F01N.txt",
+      "kind": "ipc"
+    },
+    "F01N1/24": {
+      "code": "F01N1/24",
+      "level": 1,
+      "parent": "F01N1/00",
+      "ja": "吸音物質を用いるもの（Ｆ０１Ｎ１／０４，Ｆ０１Ｎ１／０６，Ｆ０１Ｎ１／１０，Ｆ０１Ｎ１／１４，Ｆ０１Ｎ１／１６が優先）",
+      "en": "by using sound-absorbing materials(<b>F01N1/04</b>, <b>F01N1/06</b>, <b>F01N1/10</b>, <b>F01N1/14</b>, <b>F01N1/16</b> take precedence)",
+      "count": 3906,
+      "sourceFile": "ipc_F01N.txt",
+      "kind": "ipc"
+    },
+    "F01N3/00": {
+      "code": "F01N3/00",
+      "level": 0,
+      "parent": "F01N",
+      "ja": "排気の清浄，無害化または他の処理をする手段をもつ排気もしくは消音装置（電気的制御Ｆ０１Ｎ９／００；排気処理装置を監視または診断する装置Ｆ０１Ｎ１１／００）［４］",
+      "en": "Exhaust or silencing apparatus having means for purifying, rendering innocuous, or otherwise treating exhaust(electric control <b>F01N9/00</b>; monitoring or diagnostic devices for exhaust-gas treatment apparatus <b>F01N11/00</b>)",
+      "count": 10171,
+      "sourceFile": "ipc_F01N.txt",
+      "kind": "ipc"
+    },
+    "F01N3/01": {
+      "code": "F01N3/01",
+      "level": 1,
+      "parent": "F01N3/00",
+      "ja": "電気または静電気による分離器を用いるもの［７］",
+      "en": "by means of electric or electrostatic separators",
+      "count": 1353,
+      "sourceFile": "ipc_F01N.txt",
+      "kind": "ipc"
+    },
+    "F01N3/02": {
+      "code": "F01N3/02",
+      "level": 1,
+      "parent": "F01N3/00",
+      "ja": "排気を冷却するためのもの，または排気の固体成分を除去するためのもの（電気または静電力による分離器を使うものＦ０１Ｎ３／０１）［１，７］",
+      "en": "for cooling, or for removing solid constituents of, exhaust(by means of electric or electrostatic separators <b>F01N3/01</b>)",
+      "count": 17952,
+      "sourceFile": "ipc_F01N.txt",
+      "kind": "ipc"
+    },
+    "F01N3/021": {
+      "code": "F01N3/021",
+      "level": 2,
+      "parent": "F01N3/02",
+      "ja": "フィルタを用いるもの［７］",
+      "en": "by means of filters",
+      "count": 7615,
+      "sourceFile": "ipc_F01N.txt",
+      "kind": "ipc"
+    },
+    "F01N3/022": {
+      "code": "F01N3/022",
+      "level": 3,
+      "parent": "F01N3/021",
+      "ja": "特にフィルタの構造に特徴のあるもの，例．ハニカム状，網目状，または繊維状［７］",
+      "en": "characterised by specially adapted filtering structure, e.g. honeycomb, mesh or fibrous",
+      "count": 6639,
+      "sourceFile": "ipc_F01N.txt",
+      "kind": "ipc"
+    },
+    "F01N3/023": {
+      "code": "F01N3/023",
+      "level": 3,
+      "parent": "F01N3/021",
+      "ja": "フィルタの再生手段を有するもの，例．捕集成分を燃焼させるもの［７］",
+      "en": "using means for regenerating the filters, e.g. by burning trapped particles",
+      "count": 8352,
+      "sourceFile": "ipc_F01N.txt",
+      "kind": "ipc"
+    },
+    "F01N3/025": {
+      "code": "F01N3/025",
+      "level": 4,
+      "parent": "F01N3/023",
+      "ja": "バーナを用いるもの，または排気に燃料を添加するもの［７］",
+      "en": "using fuel burner or by adding fuel to exhaust",
+      "count": 4109,
+      "sourceFile": "ipc_F01N.txt",
+      "kind": "ipc"
+    },
+    "F01N3/027": {
+      "code": "F01N3/027",
+      "level": 4,
+      "parent": "F01N3/023",
+      "ja": "電気または磁気によるヒータを用いるもの［７］",
+      "en": "using electric or magnetic heating",
+      "count": 1886,
+      "sourceFile": "ipc_F01N.txt",
+      "kind": "ipc"
+    },
+    "F01N3/028": {
+      "code": "F01N3/028",
+      "level": 5,
+      "parent": "F01N3/027",
+      "ja": "マイクロ波を用いるもの［７］",
+      "en": "using microwaves",
+      "count": 321,
+      "sourceFile": "ipc_F01N.txt",
+      "kind": "ipc"
+    },
+    "F01N3/029": {
+      "code": "F01N3/029",
+      "level": 4,
+      "parent": "F01N3/023",
+      "ja": "排気に非燃料物質を添加するもの［７］",
+      "en": "by adding non-fuel substances to exhaust",
+      "count": 1558,
+      "sourceFile": "ipc_F01N.txt",
+      "kind": "ipc"
+    },
+    "F01N3/031": {
+      "code": "F01N3/031",
+      "level": 3,
+      "parent": "F01N3/021",
+      "ja": "フィルタをバイパスする手段を持つもの，例．目詰まり時，または冷間始動時［７］",
+      "en": "having means for by-passing filters, e.g. when clogged or during cold engine start",
+      "count": 458,
+      "sourceFile": "ipc_F01N.txt",
+      "kind": "ipc"
+    },
+    "F01N3/032": {
+      "code": "F01N3/032",
+      "level": 4,
+      "parent": "F01N3/031",
+      "ja": "フィルタ再生時のみ［７］",
+      "en": "during filter regeneration only",
+      "count": 321,
+      "sourceFile": "ipc_F01N.txt",
+      "kind": "ipc"
+    },
+    "F01N3/033": {
+      "code": "F01N3/033",
+      "level": 3,
+      "parent": "F01N3/021",
+      "ja": "他の装置と組み合わせたもの［７］",
+      "en": "in combination with other devices",
+      "count": 1750,
+      "sourceFile": "ipc_F01N.txt",
+      "kind": "ipc"
+    },
+    "F01N3/035": {
+      "code": "F01N3/035",
+      "level": 4,
+      "parent": "F01N3/033",
+      "ja": "触媒反応装置を備えたもの［７］",
+      "en": "with catalytic reactors",
+      "count": 7091,
+      "sourceFile": "ipc_F01N.txt",
+      "kind": "ipc"
+    },
+    "F01N3/037": {
+      "code": "F01N3/037",
+      "level": 2,
+      "parent": "F01N3/02",
+      "ja": "慣性力または遠心力による分離器を用いるもの，例．アグロメレータと関連するもの［７］",
+      "en": "by means of inertial or centrifugal separators, e.g. associated with agglomerators",
+      "count": 671,
+      "sourceFile": "ipc_F01N.txt",
+      "kind": "ipc"
+    },
+    "F01N3/038": {
+      "code": "F01N3/038",
+      "level": 2,
+      "parent": "F01N3/02",
+      "ja": "穴の開いたプレートにより形成される拡張室によるもの［７］",
+      "en": "by means of perforated plates defining expansion chambers associated with condensation and collection chambers",
+      "count": 103,
+      "sourceFile": "ipc_F01N.txt",
+      "kind": "ipc"
+    },
+    "F01N3/04": {
+      "code": "F01N3/04",
+      "level": 2,
+      "parent": "F01N3/02",
+      "ja": "液体を用いるもの",
+      "en": "by means of liquids",
+      "count": 6887,
+      "sourceFile": "ipc_F01N.txt",
+      "kind": "ipc"
+    },
+    "F01N3/05": {
+      "code": "F01N3/05",
+      "level": 2,
+      "parent": "F01N3/02",
+      "ja": "空気を用いるもの，例．排気に空気を混ぜるもの（排気に空気を加える消音器Ｆ０１Ｎ１／１４；排気の有害成分の熱または触媒反応装置への添加空気供給装置Ｆ０１Ｎ３／３０）［７］",
+      "en": "by means of air, e.g. by mixing exhaust with air(silencers working by addition of air to exhaust <b>F01N1/14</b>; arrangements for the supply of additional air for the thermal or catalytic conversion of noxious components of exhaust <b>F01N3/30</b>)",
+      "count": 1553,
+      "sourceFile": "ipc_F01N.txt",
+      "kind": "ipc"
+    },
+    "F01N3/06": {
+      "code": "F01N3/06",
+      "level": 1,
+      "parent": "F01N3/00",
+      "ja": "火花を消すためのもの",
+      "en": "for extinguishing sparks",
+      "count": 1439,
+      "sourceFile": "ipc_F01N.txt",
+      "kind": "ipc"
+    },
+    "F01N3/08": {
+      "code": "F01N3/08",
+      "level": 1,
+      "parent": "F01N3/00",
+      "ja": "無害にするためのもの（電気または静電気による分離器を使うものＦ０１Ｎ３／０１，化学的特徴があるものＢ０１Ｄ５３／９２）［１，７］",
+      "en": "for rendering innocuous(using electric or electrostatic separators <b>F01N3/01</b>; chemical aspects <b>B01D53/92</b>)",
+      "count": 21834,
+      "sourceFile": "ipc_F01N.txt",
+      "kind": "ipc"
+    },
+    "F01N3/10": {
+      "code": "F01N3/10",
+      "level": 2,
+      "parent": "F01N3/08",
+      "ja": "排気の有害成分を熱または触媒で変換することによるもの［３］",
+      "en": "by thermal or catalytic conversion of noxious components of exhaust",
+      "count": 18202,
+      "sourceFile": "ipc_F01N.txt",
+      "kind": "ipc"
+    },
+    "F01N3/18": {
+      "code": "F01N3/18",
+      "level": 3,
+      "parent": "F01N3/10",
+      "ja": "操作の方法に特徴をもつもの；調整［３］",
+      "en": "characterised by methods of operation; Control",
+      "count": 4096,
+      "sourceFile": "ipc_F01N.txt",
+      "kind": "ipc"
+    },
+    "F01N3/20": {
+      "code": "F01N3/20",
+      "level": 4,
+      "parent": "F01N3/18",
+      "ja": "特に触媒による変換に適用されるもの（Ｆ０１Ｎ３／２２が優先）［３］",
+      "en": "specially adapted for catalytic conversion(<b>F01N3/22</b> takes precedence)",
+      "count": 32460,
+      "sourceFile": "ipc_F01N.txt",
+      "kind": "ipc"
+    },
+    "F01N3/22": {
+      "code": "F01N3/22",
+      "level": 4,
+      "parent": "F01N3/18",
+      "ja": "添加空気の供給のみの調整，例．バイパスあるいは可変の空気ポンプ駆動手段によるもの［３］",
+      "en": "Control of additional air supply only, e.g. using by-passes or variable air pump drives",
+      "count": 4352,
+      "sourceFile": "ipc_F01N.txt",
+      "kind": "ipc"
+    },
+    "F01N3/24": {
+      "code": "F01N3/24",
+      "level": 3,
+      "parent": "F01N3/10",
+      "ja": "変換装置の構造的な面に特徴をもつもの（触媒反応装置と組み合わせた濾過装置Ｆ０１Ｎ３／０３５）［３，７］",
+      "en": "characterised by constructional aspects of converting apparatus(filtering in combination with catalytic reactors <b>F01N3/035</b>)",
+      "count": 17281,
+      "sourceFile": "ipc_F01N.txt",
+      "kind": "ipc"
+    },
+    "F01N3/26": {
+      "code": "F01N3/26",
+      "level": 4,
+      "parent": "F01N3/24",
+      "ja": "熱反応装置の構造［３］",
+      "en": "Construction of thermal reactors",
+      "count": 2088,
+      "sourceFile": "ipc_F01N.txt",
+      "kind": "ipc"
+    },
+    "F01N3/28": {
+      "code": "F01N3/28",
+      "level": 4,
+      "parent": "F01N3/24",
+      "ja": "触媒反応装置の構造［３］",
+      "en": "Construction of catalytic reactors",
+      "count": 32357,
+      "sourceFile": "ipc_F01N.txt",
+      "kind": "ipc"
+    },
+    "F01N3/30": {
+      "code": "F01N3/30",
+      "level": 4,
+      "parent": "F01N3/24",
+      "ja": "添加空気の供給のための装置（調整，例．バイパスあるいは可変の空気ポンプ駆動手段によるもの，Ｆ０１Ｎ３／２２）［３］",
+      "en": "Arrangements for supply of additional air(control, e.g. using by-passes or variable air pump drives, <b>F01N3/22</b>)",
+      "count": 2612,
+      "sourceFile": "ipc_F01N.txt",
+      "kind": "ipc"
+    },
+    "F01N3/32": {
+      "code": "F01N3/32",
+      "level": 5,
+      "parent": "F01N3/30",
+      "ja": "空気ポンプを用いるもの（噴流式空気ポンプを用いるものＦ０１Ｎ３／３４；ポンプ一般Ｆ０４）［３］",
+      "en": "using air pumps(using jet air pumps <b>F01N3/34</b>; pumps in general <b>F04</b>)",
+      "count": 1884,
+      "sourceFile": "ipc_F01N.txt",
+      "kind": "ipc"
+    },
+    "F01N3/34": {
+      "code": "F01N3/34",
+      "level": 5,
+      "parent": "F01N3/30",
+      "ja": "空気導管または噴流式空気ポンプを用いるもの，例．機関の排気孔の近傍［３］",
+      "en": "using air conduits or jet air pumps, e.g. near the engine exhaust port",
+      "count": 2253,
+      "sourceFile": "ipc_F01N.txt",
+      "kind": "ipc"
+    },
+    "F01N3/36": {
+      "code": "F01N3/36",
+      "level": 4,
+      "parent": "F01N3/24",
+      "ja": "添加燃料の供給のための装置［３］",
+      "en": "Arrangements for supply of additional fuel",
+      "count": 4356,
+      "sourceFile": "ipc_F01N.txt",
+      "kind": "ipc"
+    },
+    "F01N3/38": {
+      "code": "F01N3/38",
+      "level": 4,
+      "parent": "F01N3/24",
+      "ja": "点火のための装置［３］",
+      "en": "Arrangements for igniting",
+      "count": 710,
+      "sourceFile": "ipc_F01N.txt",
+      "kind": "ipc"
+    },
+    "F01N5/00": {
+      "code": "F01N5/00",
+      "level": 0,
+      "parent": "F01N",
+      "ja": "排気エネルギを利用する装置と結合または組み合わされる排気または消音装置（給気のための，排気系における排気ガスの運動または波動エネルギの利用Ｆ０２Ｂ）［２００６．０１］",
+      "en": "Exhaust or silencing apparatus combined or associated with devices profiting by exhaust energy(using kinetic or wave energy of exhaust gases in exhaust systems for charging <b>F02B</b>)",
+      "count": 1344,
+      "sourceFile": "ipc_F01N.txt",
+      "kind": "ipc"
+    },
+    "F01N5/02": {
+      "code": "F01N5/02",
+      "level": 1,
+      "parent": "F01N5/00",
+      "ja": "熱を利用する装置",
+      "en": "the devices using heat",
+      "count": 10385,
+      "sourceFile": "ipc_F01N.txt",
+      "kind": "ipc"
+    },
+    "F01N5/04": {
+      "code": "F01N5/04",
+      "level": 1,
+      "parent": "F01N5/00",
+      "ja": "運動エネルギを利用する装置",
+      "en": "the devices using kinetic energy",
+      "count": 2249,
+      "sourceFile": "ipc_F01N.txt",
+      "kind": "ipc"
+    },
+    "F01N9/00": {
+      "code": "F01N9/00",
+      "level": 0,
+      "parent": "F01N",
+      "ja": "排気ガス処理装置の電気的制御（排気ガス処理装置を監視または診断する装置Ｆ０１Ｎ１１／００；２個以上の燃焼機関機能の共同電気的制御Ｆ０２Ｄ４３／００）［４］",
+      "en": "Electrical control of exhaust gas treating apparatus(monitoring or diagnostic devices for exhaust-gas treatment apparatus <b>F01N11/00</b>; conjoint electrical control of two or more combustion engine functions <b>F02D43/00</b>)",
+      "count": 14084,
+      "sourceFile": "ipc_F01N.txt",
+      "kind": "ipc"
+    },
+    "F01N11/00": {
+      "code": "F01N11/00",
+      "level": 0,
+      "parent": "F01N",
+      "ja": "排気ガス処理装置を監視または診断する装置［７］",
+      "en": "Monitoring or diagnostic devices for exhaust-gas treatment apparatus",
+      "count": 13364,
+      "sourceFile": "ipc_F01N.txt",
+      "kind": "ipc"
+    },
+    "F01N13/00": {
+      "code": "F01N13/00",
+      "level": 0,
+      "parent": "F01N",
+      "ja": "構造上の特色によって特徴づけられた排気または消音装置［２０１０．０１］",
+      "en": "Exhaust or silencing apparatus characterised by constructional features",
+      "count": 17720,
+      "sourceFile": "ipc_F01N.txt",
+      "kind": "ipc"
+    },
+    "F01N13/02": {
+      "code": "F01N13/02",
+      "level": 1,
+      "parent": "F01N13/00",
+      "ja": "２つまたはそれ以上の独立した消音器を直列にした装置［２０１０．０１］",
+      "en": "having two or more separate silencers in series",
+      "count": 4095,
+      "sourceFile": "ipc_F01N.txt",
+      "kind": "ipc"
+    },
+    "F01N13/04": {
+      "code": "F01N13/04",
+      "level": 1,
+      "parent": "F01N13/00",
+      "ja": "２つまたはそれ以上の消音器を並列にした装置，例．多気筒機関用の中間連結材をもつもの［２０１０．０１］",
+      "en": "having two or more silencers in parallel, e.g. having interconnections for multi-cylinder engines",
+      "count": 1463,
+      "sourceFile": "ipc_F01N.txt",
+      "kind": "ipc"
+    },
+    "F01N13/06": {
+      "code": "F01N13/06",
+      "level": 1,
+      "parent": "F01N13/00",
+      "ja": "特に星形シリンダに適用されるもの，例．排気マニホルド［２０１０．０１］",
+      "en": "specially adapted for star-arrangement of cylinders, e.g. exhaust manifolds",
+      "count": 148,
+      "sourceFile": "ipc_F01N.txt",
+      "kind": "ipc"
+    },
+    "F01N13/08": {
+      "code": "F01N13/08",
+      "level": 1,
+      "parent": "F01N13/00",
+      "ja": "排気管のその他の構成または適用［２０１０．０１］",
+      "en": "Other arrangements or adaptations of exhaust conduits",
+      "count": 25178,
+      "sourceFile": "ipc_F01N.txt",
+      "kind": "ipc"
+    },
+    "F01N13/10": {
+      "code": "F01N13/10",
+      "level": 2,
+      "parent": "F01N13/08",
+      "ja": "排気集合管に対するもの［２０１０．０１］",
+      "en": "of exhaust manifolds",
+      "count": 7064,
+      "sourceFile": "ipc_F01N.txt",
+      "kind": "ipc"
+    },
+    "F01N13/12": {
+      "code": "F01N13/12",
+      "level": 1,
+      "parent": "F01N13/00",
+      "ja": "特に浸水排気に適用されるもの［２０１０．０１］",
+      "en": "specially adapted for submerged exhausting",
+      "count": 1019,
+      "sourceFile": "ipc_F01N.txt",
+      "kind": "ipc"
+    },
+    "F01N13/14": {
+      "code": "F01N13/14",
+      "level": 1,
+      "parent": "F01N13/00",
+      "ja": "断熱手段をもつもの［２０１０．０１］",
+      "en": "having thermal insulation",
+      "count": 7864,
+      "sourceFile": "ipc_F01N.txt",
+      "kind": "ipc"
+    },
+    "F01N13/16": {
+      "code": "F01N13/16",
+      "level": 1,
+      "parent": "F01N13/00",
+      "ja": "特殊な物質を選択したもの［２０１０．０１］",
+      "en": "Selection of particular materials",
+      "count": 3078,
+      "sourceFile": "ipc_F01N.txt",
+      "kind": "ipc"
+    },
+    "F01N13/18": {
+      "code": "F01N13/18",
+      "level": 1,
+      "parent": "F01N13/00",
+      "ja": "製造，組立，分解を容易にするための構造［２０１０．０１］",
+      "en": "Construction facilitating manufacture, assembly or disassembly",
+      "count": 17593,
+      "sourceFile": "ipc_F01N.txt",
+      "kind": "ipc"
+    },
+    "F01N13/20": {
+      "code": "F01N13/20",
+      "level": 1,
+      "parent": "F01N13/00",
+      "ja": "拡開出口をもつもの，例．魚の尾ひれ形［２０１０．０１］",
+      "en": "having flared outlets, e.g. of fish-tail shape",
+      "count": 2146,
+      "sourceFile": "ipc_F01N.txt",
+      "kind": "ipc"
+    },
+    "F01N99/00": {
+      "code": "F01N99/00",
+      "level": 0,
+      "parent": "F01N",
+      "ja": "このサブクラスの他のグループに分類されない主題事項［２０１０．０１］",
+      "en": "Subject matter not provided for in other groups of this subclass",
+      "count": 3462,
+      "sourceFile": "ipc_F01N.txt",
+      "kind": "ipc"
+    }
+  }
+};

@@ -1,0 +1,536 @@
+{
+  "generatedAt": "2026-03-20T02:17:46.079Z",
+  "total": 53,
+  "entries": {
+    "B09B": {
+      "code": "B09B",
+      "level": 0,
+      "parent": "B09",
+      "ja": "他の分類箇所に包含されない固体廃棄物の処理［３］<br><br><b><ul>注</ul></b><br>１．このサブクラスは，単一の作業または組合せの操作のみを包含する，例．他の単一のサブクラスには完全に包含されない多段階の操作<br>２．このサブクラスにおいては，下記の用語または表現は以下に示す意味で用いる。<br>・「処理」とは，廃棄すること，例．廃棄物の投棄，破壊，あるいは廃棄物を有用物化するか無害化すること，を意味する<br>・「固体廃棄物」には，たとえ液体を含んでいても実際には固体として処理できるような廃棄物も含まれる。<br>このサブクラスでは，グループＢ０９Ｂ１０１／００に設置されているインデキシングコードを添付するのが望ましい。",
+      "en": "DISPOSAL OF SOLID WASTE NOT OTHERWISE PROVIDED FOR; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This subclass <u>covers</u> only single or combined operations, e.g. multistage operations, not fully classifiable in a single other subclass.</li><li>In this subclass, the following terms or expressions are used with the meanings indicated: <ul><li>\"disposal\" means the discarding, e.g. dumping, or destroying of waste or its transformation into something useful or harmless;</li><li>\"solid waste\" includes waste which, although it has liquid content, is for practical purposes handled as solid.</li></ul></li><li>In this subclass, it is desirable to add the indexing codes of group <b>B09B101/00</b>.</li></ul>",
+      "count": 593,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B09": {
+      "code": "B09",
+      "level": 0,
+      "parent": "B",
+      "ja": "固体廃棄物の処理；汚染土壌の再生［３，６］",
+      "en": "DISPOSAL OF SOLID WASTE; RECLAMATION OF CONTAMINATED SOIL",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B": {
+      "code": "B",
+      "level": 0,
+      "parent": null,
+      "ja": "処理操作；運輸",
+      "en": "PERFORMING OPERATIONS; TRANSPORTING",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B09B1/00": {
+      "code": "B09B1/00",
+      "level": 0,
+      "parent": "B09B",
+      "ja": "固体廃棄物の投棄［３］",
+      "en": "Dumping solid waste",
+      "count": 8134,
+      "sourceFile": "ipc_B09B.txt",
+      "kind": "ipc"
+    },
+    "B09B3/00": {
+      "code": "B09B3/00",
+      "level": 0,
+      "parent": "B09B",
+      "ja": "固体廃棄物の破壊あるいは固体廃棄物の有用物化もしくは無害化［２０２２．０１］",
+      "en": "Destroying solid waste or transforming solid waste into something useful or harmless",
+      "count": 93107,
+      "sourceFile": "ipc_B09B.txt",
+      "kind": "ipc"
+    },
+    "B09B3/10": {
+      "code": "B09B3/10",
+      "level": 1,
+      "parent": "B09B3/00",
+      "ja": "吸着工程を含むもの［２０２２．０１］",
+      "en": "involving an adsorption step",
+      "count": 162,
+      "sourceFile": "ipc_B09B.txt",
+      "kind": "ipc"
+    },
+    "B09B3/20": {
+      "code": "B09B3/20",
+      "level": 1,
+      "parent": "B09B3/00",
+      "ja": "固体廃棄物の固化，固結または不溶化［２０２２．０１］",
+      "en": "Agglomeration, binding or encapsulation of solid waste",
+      "count": 509,
+      "sourceFile": "ipc_B09B.txt",
+      "kind": "ipc"
+    },
+    "B09B3/21": {
+      "code": "B09B3/21",
+      "level": 2,
+      "parent": "B09B3/20",
+      "ja": "有機バインダーまたは有機マトリックスを用いるもの［２０２２．０１］",
+      "en": "using organic binders or matrix",
+      "count": 102,
+      "sourceFile": "ipc_B09B.txt",
+      "kind": "ipc"
+    },
+    "B09B3/23": {
+      "code": "B09B3/23",
+      "level": 3,
+      "parent": "B09B3/21",
+      "ja": "アスファルトを含むバインダー［２０２２．０１］",
+      "en": "Binders with asphalt",
+      "count": 18,
+      "sourceFile": "ipc_B09B.txt",
+      "kind": "ipc"
+    },
+    "B09B3/24": {
+      "code": "B09B3/24",
+      "level": 3,
+      "parent": "B09B3/21",
+      "ja": "合成樹脂を含むバインダー［２０２２．０１］",
+      "en": "Binders with plastic",
+      "count": 75,
+      "sourceFile": "ipc_B09B.txt",
+      "kind": "ipc"
+    },
+    "B09B3/25": {
+      "code": "B09B3/25",
+      "level": 2,
+      "parent": "B09B3/20",
+      "ja": "無機バインダーまたは無機マトリックスを用いるもの［２０２２．０１］",
+      "en": "using mineral binders or matrix",
+      "count": 167,
+      "sourceFile": "ipc_B09B.txt",
+      "kind": "ipc"
+    },
+    "B09B3/27": {
+      "code": "B09B3/27",
+      "level": 3,
+      "parent": "B09B3/25",
+      "ja": "ケイ酸ナトリウムを含むバインダー，例．接着剤または水ガラス［２０２２．０１］",
+      "en": "Binding by sodium silicate, e.g. cement or water glass",
+      "count": 168,
+      "sourceFile": "ipc_B09B.txt",
+      "kind": "ipc"
+    },
+    "B09B3/29": {
+      "code": "B09B3/29",
+      "level": 3,
+      "parent": "B09B3/25",
+      "ja": "溶融または軟化工程を含むもの［２０２２．０１］",
+      "en": "involving a melting or softening step",
+      "count": 60,
+      "sourceFile": "ipc_B09B.txt",
+      "kind": "ipc"
+    },
+    "B09B3/30": {
+      "code": "B09B3/30",
+      "level": 1,
+      "parent": "B09B3/00",
+      "ja": "機械的処理を含むもの（抽出工程を含むものＢ０９Ｂ３／８０）［２０２２．０１］",
+      "en": "involving mechanical treatment(involving an extraction step <b>B09B3/80</b>)",
+      "count": 5354,
+      "sourceFile": "ipc_B09B.txt",
+      "kind": "ipc"
+    },
+    "B09B3/32": {
+      "code": "B09B3/32",
+      "level": 2,
+      "parent": "B09B3/30",
+      "ja": "圧縮または押し固めるもの［２０２２．０１］",
+      "en": "Compressing or compacting",
+      "count": 6283,
+      "sourceFile": "ipc_B09B.txt",
+      "kind": "ipc"
+    },
+    "B09B3/35": {
+      "code": "B09B3/35",
+      "level": 2,
+      "parent": "B09B3/30",
+      "ja": "破砕，粉砕または切断するもの［２０２２．０１］",
+      "en": "Shredding, crushing or cutting",
+      "count": 15894,
+      "sourceFile": "ipc_B09B.txt",
+      "kind": "ipc"
+    },
+    "B09B3/38": {
+      "code": "B09B3/38",
+      "level": 2,
+      "parent": "B09B3/30",
+      "ja": "攪拌または混練するもの［２０２２．０１］",
+      "en": "Stirring or kneading",
+      "count": 3988,
+      "sourceFile": "ipc_B09B.txt",
+      "kind": "ipc"
+    },
+    "B09B3/40": {
+      "code": "B09B3/40",
+      "level": 1,
+      "parent": "B09B3/00",
+      "ja": "熱処理を含むもの，例．蒸発（無機バインダーを用いる，溶融または軟化工程を含むものＢ０９Ｂ３／２９；放射線照射を含むものＢ０９Ｂ３／５０）［２０２２．０１］",
+      "en": "involving thermal treatment, e.g. evaporation  (processes using mineral binders involving a melting or softening step <b>B09B3/29</b>;   involving radiation <b>B09B3/50</b>)",
+      "count": 8094,
+      "sourceFile": "ipc_B09B.txt",
+      "kind": "ipc"
+    },
+    "B09B3/45": {
+      "code": "B09B3/45",
+      "level": 2,
+      "parent": "B09B3/40",
+      "ja": "蒸気処理，例．超臨界水ガス化または超臨界水酸化［２０２２．０１］",
+      "en": "Steam treatment, e.g. supercritical water gasification or oxidation",
+      "count": 705,
+      "sourceFile": "ipc_B09B.txt",
+      "kind": "ipc"
+    },
+    "B09B3/50": {
+      "code": "B09B3/50",
+      "level": 1,
+      "parent": "B09B3/00",
+      "ja": "放射線照射を含むもの，例．電磁波［２０２２．０１］",
+      "en": "involving radiation, e.g. electro-magnetic waves",
+      "count": 565,
+      "sourceFile": "ipc_B09B.txt",
+      "kind": "ipc"
+    },
+    "B09B3/60": {
+      "code": "B09B3/60",
+      "level": 1,
+      "parent": "B09B3/00",
+      "ja": "生化学的処理を含むもの，例．酵素の利用によるもの［２０２２．０１］",
+      "en": "Biochemical treatment, e.g. by using enzymes",
+      "count": 3142,
+      "sourceFile": "ipc_B09B.txt",
+      "kind": "ipc"
+    },
+    "B09B3/65": {
+      "code": "B09B3/65",
+      "level": 2,
+      "parent": "B09B3/60",
+      "ja": "嫌気性処理［２０２２．０１］",
+      "en": "Anaerobic treatment",
+      "count": 927,
+      "sourceFile": "ipc_B09B.txt",
+      "kind": "ipc"
+    },
+    "B09B3/70": {
+      "code": "B09B3/70",
+      "level": 1,
+      "parent": "B09B3/00",
+      "ja": "化学的処理，例．ｐＨの調整または酸化（Ｂ０９Ｂ３／８０の抽出段階を含む）［２０２２．０１］",
+      "en": "Chemical treatment, e.g. pH adjustment or oxidation(involving an extraction step <b>B09B3/80</b>)",
+      "count": 5182,
+      "sourceFile": "ipc_B09B.txt",
+      "kind": "ipc"
+    },
+    "B09B3/80": {
+      "code": "B09B3/80",
+      "level": 1,
+      "parent": "B09B3/00",
+      "ja": "抽出工程を含むもの［２０２２．０１］",
+      "en": "involving an extraction step",
+      "count": 960,
+      "sourceFile": "ipc_B09B.txt",
+      "kind": "ipc"
+    },
+    "B09B5/00": {
+      "code": "B09B5/00",
+      "level": 0,
+      "parent": "B09B",
+      "ja": "他の単一サブクラスまたはこのサブクラス内の他の単一グループに包含されない操作［３］",
+      "en": "Operations not covered by a single other subclass or by a single other group in this subclass",
+      "count": 33263,
+      "sourceFile": "ipc_B09B.txt",
+      "kind": "ipc"
+    },
+    "B09B101/00": {
+      "code": "B09B101/00",
+      "level": 0,
+      "parent": "B09B",
+      "ja": "固体廃棄物の種類［２０２２．０１］",
+      "en": "Type of solid waste",
+      "count": 697,
+      "sourceFile": "ipc_B09B.txt",
+      "kind": "ipc"
+    },
+    "B09B101/02": {
+      "code": "B09B101/02",
+      "level": 1,
+      "parent": "B09B101/00",
+      "ja": "気体または液体を封入したままの廃棄物，例．エアゾール缶または冷蔵庫の冷却系統［２０２２．０１］",
+      "en": "Gases or liquids enclosed in discarded articles, e.g. aerosol cans or cooling systems of refrigerators",
+      "count": 457,
+      "sourceFile": "ipc_B09B.txt",
+      "kind": "ipc"
+    },
+    "B09B101/05": {
+      "code": "B09B101/05",
+      "level": 1,
+      "parent": "B09B101/00",
+      "ja": "車両；車両部品［２０２２．０１］",
+      "en": "Vehicles; Vehicle parts",
+      "count": 133,
+      "sourceFile": "ipc_B09B.txt",
+      "kind": "ipc"
+    },
+    "B09B101/10": {
+      "code": "B09B101/10",
+      "level": 1,
+      "parent": "B09B101/00",
+      "ja": "缶［２０２２．０１］",
+      "en": "Cans",
+      "count": 110,
+      "sourceFile": "ipc_B09B.txt",
+      "kind": "ipc"
+    },
+    "B09B101/15": {
+      "code": "B09B101/15",
+      "level": 1,
+      "parent": "B09B101/00",
+      "ja": "電子廃棄物［２０２２．０１］",
+      "en": "Electronic waste",
+      "count": 741,
+      "sourceFile": "ipc_B09B.txt",
+      "kind": "ipc"
+    },
+    "B09B101/16": {
+      "code": "B09B101/16",
+      "level": 2,
+      "parent": "B09B101/15",
+      "ja": "電池［２０２２．０１］",
+      "en": "Batteries",
+      "count": 1839,
+      "sourceFile": "ipc_B09B.txt",
+      "kind": "ipc"
+    },
+    "B09B101/17": {
+      "code": "B09B101/17",
+      "level": 2,
+      "parent": "B09B101/15",
+      "ja": "プリント基板［ＰＣＢ］［２０２２．０１］",
+      "en": "Printed circuit boards [PCB]",
+      "count": 221,
+      "sourceFile": "ipc_B09B.txt",
+      "kind": "ipc"
+    },
+    "B09B101/18": {
+      "code": "B09B101/18",
+      "level": 2,
+      "parent": "B09B101/15",
+      "ja": "携帯電話；タブレット［２０２２．０１］",
+      "en": "Mobile phones; Tablets",
+      "count": 30,
+      "sourceFile": "ipc_B09B.txt",
+      "kind": "ipc"
+    },
+    "B09B101/20": {
+      "code": "B09B101/20",
+      "level": 1,
+      "parent": "B09B101/00",
+      "ja": "フィルター，例．オイルフィルター［２０２２．０１］",
+      "en": "Filters, e.g. oil filters",
+      "count": 48,
+      "sourceFile": "ipc_B09B.txt",
+      "kind": "ipc"
+    },
+    "B09B101/25": {
+      "code": "B09B101/25",
+      "level": 1,
+      "parent": "B09B101/00",
+      "ja": "一般廃棄物，例．家庭ごみ［２０２２．０１］",
+      "en": "Non-industrial waste, e.g. household waste",
+      "count": 1390,
+      "sourceFile": "ipc_B09B.txt",
+      "kind": "ipc"
+    },
+    "B09B101/30": {
+      "code": "B09B101/30",
+      "level": 1,
+      "parent": "B09B101/00",
+      "ja": "焼却灰［２０２２．０１］",
+      "en": "Incineration ashes",
+      "count": 1101,
+      "sourceFile": "ipc_B09B.txt",
+      "kind": "ipc"
+    },
+    "B09B101/35": {
+      "code": "B09B101/35",
+      "level": 1,
+      "parent": "B09B101/00",
+      "ja": "石綿［２０２２．０１］",
+      "en": "Asbestos",
+      "count": 32,
+      "sourceFile": "ipc_B09B.txt",
+      "kind": "ipc"
+    },
+    "B09B101/40": {
+      "code": "B09B101/40",
+      "level": 1,
+      "parent": "B09B101/00",
+      "ja": "アスファルト［２０２２．０１］",
+      "en": "Asphalt",
+      "count": 84,
+      "sourceFile": "ipc_B09B.txt",
+      "kind": "ipc"
+    },
+    "B09B101/45": {
+      "code": "B09B101/45",
+      "level": 1,
+      "parent": "B09B101/00",
+      "ja": "コンクリート［２０２２．０１］",
+      "en": "Concrete",
+      "count": 531,
+      "sourceFile": "ipc_B09B.txt",
+      "kind": "ipc"
+    },
+    "B09B101/50": {
+      "code": "B09B101/50",
+      "level": 1,
+      "parent": "B09B101/00",
+      "ja": "ガラス［２０２２．０１］",
+      "en": "Glass",
+      "count": 254,
+      "sourceFile": "ipc_B09B.txt",
+      "kind": "ipc"
+    },
+    "B09B101/55": {
+      "code": "B09B101/55",
+      "level": 1,
+      "parent": "B09B101/00",
+      "ja": "スラグ［２０２２．０１］",
+      "en": "Slag",
+      "count": 810,
+      "sourceFile": "ipc_B09B.txt",
+      "kind": "ipc"
+    },
+    "B09B101/60": {
+      "code": "B09B101/60",
+      "level": 1,
+      "parent": "B09B101/00",
+      "ja": "セラミック，例．陶器［２０２２．０１］",
+      "en": "Ceramics, e.g. pottery",
+      "count": 43,
+      "sourceFile": "ipc_B09B.txt",
+      "kind": "ipc"
+    },
+    "B09B101/65": {
+      "code": "B09B101/65",
+      "level": 1,
+      "parent": "B09B101/00",
+      "ja": "医療廃棄物［２０２２．０１］",
+      "en": "Medical waste",
+      "count": 822,
+      "sourceFile": "ipc_B09B.txt",
+      "kind": "ipc"
+    },
+    "B09B101/67": {
+      "code": "B09B101/67",
+      "level": 2,
+      "parent": "B09B101/65",
+      "ja": "おむつまたはおしめ［２０２２．０１］",
+      "en": "Diapers or nappies",
+      "count": 46,
+      "sourceFile": "ipc_B09B.txt",
+      "kind": "ipc"
+    },
+    "B09B101/68": {
+      "code": "B09B101/68",
+      "level": 2,
+      "parent": "B09B101/65",
+      "ja": "経皮パッチ［２０２２．０１］",
+      "en": "Transdermal patches",
+      "count": 2,
+      "sourceFile": "ipc_B09B.txt",
+      "kind": "ipc"
+    },
+    "B09B101/70": {
+      "code": "B09B101/70",
+      "level": 1,
+      "parent": "B09B101/00",
+      "ja": "生ごみ；食品廃棄物［２０２２．０１］",
+      "en": "Kitchen refuse; Food waste",
+      "count": 3506,
+      "sourceFile": "ipc_B09B.txt",
+      "kind": "ipc"
+    },
+    "B09B101/75": {
+      "code": "B09B101/75",
+      "level": 1,
+      "parent": "B09B101/00",
+      "ja": "プラスチック廃棄物［２０２２．０１］",
+      "en": "Plastic waste",
+      "count": 1188,
+      "sourceFile": "ipc_B09B.txt",
+      "kind": "ipc"
+    },
+    "B09B101/77": {
+      "code": "B09B101/77",
+      "level": 2,
+      "parent": "B09B101/75",
+      "ja": "塩素を含有するもの［２０２２．０１］",
+      "en": "containing chlorine",
+      "count": 28,
+      "sourceFile": "ipc_B09B.txt",
+      "kind": "ipc"
+    },
+    "B09B101/78": {
+      "code": "B09B101/78",
+      "level": 2,
+      "parent": "B09B101/75",
+      "ja": "発泡プラスチック，例．ポリスチレンを含有するもの［２０２２．０１］",
+      "en": "containing foamed plastics, e.g. polystyrol",
+      "count": 89,
+      "sourceFile": "ipc_B09B.txt",
+      "kind": "ipc"
+    },
+    "B09B101/80": {
+      "code": "B09B101/80",
+      "level": 1,
+      "parent": "B09B101/00",
+      "ja": "屑ゴム，例．廃タイヤ［２０２２．０１］",
+      "en": "Rubber waste, e.g. scrap tyres",
+      "count": 209,
+      "sourceFile": "ipc_B09B.txt",
+      "kind": "ipc"
+    },
+    "B09B101/85": {
+      "code": "B09B101/85",
+      "level": 1,
+      "parent": "B09B101/00",
+      "ja": "紙；木；織物，例．布［２０２２．０１］",
+      "en": "Paper; Wood; Fabrics, e.g. cloths",
+      "count": 1499,
+      "sourceFile": "ipc_B09B.txt",
+      "kind": "ipc"
+    },
+    "B09B101/90": {
+      "code": "B09B101/90",
+      "level": 1,
+      "parent": "B09B101/00",
+      "ja": "土壌，例．建築現場からの掘削土［２０２２．０１］",
+      "en": "Soil, e.g. excavated soil from construction sites",
+      "count": 148,
+      "sourceFile": "ipc_B09B.txt",
+      "kind": "ipc"
+    },
+    "B09B101/95": {
+      "code": "B09B101/95",
+      "level": 1,
+      "parent": "B09B101/00",
+      "ja": "廃触媒；廃イオン交換体；廃吸着剤［２０２２．０１］",
+      "en": "Waste catalysts; Waste ion exchange materials; Waste adsorbents",
+      "count": 98,
+      "sourceFile": "ipc_B09B.txt",
+      "kind": "ipc"
+    }
+  }
+}

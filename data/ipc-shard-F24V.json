@@ -1,0 +1,86 @@
+{
+  "generatedAt": "2026-03-20T02:17:46.919Z",
+  "total": 8,
+  "entries": {
+    "F24V": {
+      "code": "F24V",
+      "level": 0,
+      "parent": "F24",
+      "ja": "他に分類されない熱の収集，生成または使用［２０１８．０１］",
+      "en": "COLLECTION, PRODUCTION OR USE OF HEAT NOT OTHERWISE PROVIDED FOR",
+      "count": 4,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F24": {
+      "code": "F24",
+      "level": 0,
+      "parent": "F",
+      "ja": "加熱；レンジ；換気<br><br><b><ul>注</ul></b><br>このクラスにおいては，下記の用語は以下に示す意味で用いる：<br>―“ストーブ”は開放式炉，例．暖炉，を持つような装置を包含する；<br>―“レンジ”は種々の調理操作または調理と加熱操作をする要素をもった調理装置を意味する。",
+      "en": "HEATING; RANGES; VENTILATING; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this class, the following terms are used with the meanings indicated:<ul><li>\"stove\" includes apparatus which may have an open fire, e.g. fireplace;</li><li>\"range\" means an apparatus for cooking having elements that perform different cooking operations or cooking and heating operations.</li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F": {
+      "code": "F",
+      "level": 0,
+      "parent": null,
+      "ja": "機械工学；照明；加熱；武器；爆破",
+      "en": "MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F24V30/00": {
+      "code": "F24V30/00",
+      "level": 0,
+      "parent": "F24V",
+      "ja": "燃焼以外の発熱化学反応によって生成する熱を使用する器具または装置［２０１８．０１］",
+      "en": "Apparatus or devices using heat produced by exothermal chemical reactions other than by combustion",
+      "count": 3166,
+      "sourceFile": "ipc_F24V.txt",
+      "kind": "ipc"
+    },
+    "F24V40/00": {
+      "code": "F24V40/00",
+      "level": 0,
+      "parent": "F24V",
+      "ja": "動く流体の内部摩擦あるいは流体と動いている物体の間の摩擦による熱の発生または使用［２０１８．０１］",
+      "en": "Production or use of heat resulting from internal friction of moving fluids or from friction between fluids and moving bodies",
+      "count": 410,
+      "sourceFile": "ipc_F24V.txt",
+      "kind": "ipc"
+    },
+    "F24V40/10": {
+      "code": "F24V40/10",
+      "level": 1,
+      "parent": "F24V40/00",
+      "ja": "流体が制限的手段を通過するもの［２０１８．０１］",
+      "en": "the fluid passing through restriction means",
+      "count": 68,
+      "sourceFile": "ipc_F24V.txt",
+      "kind": "ipc"
+    },
+    "F24V50/00": {
+      "code": "F24V50/00",
+      "level": 0,
+      "parent": "F24V",
+      "ja": "自然の源から，例．海から，の熱の利用［２０１８．０１］",
+      "en": "Use of heat from natural sources, e.g. from the sea",
+      "count": 666,
+      "sourceFile": "ipc_F24V.txt",
+      "kind": "ipc"
+    },
+    "F24V99/00": {
+      "code": "F24V99/00",
+      "level": 0,
+      "parent": "F24V",
+      "ja": "このサブクラスの他のメイングループに分類されない主題事項［２０１８．０１］",
+      "en": "Subject matter not provided for in other main groups of this subclass",
+      "count": 196,
+      "sourceFile": "ipc_F24V.txt",
+      "kind": "ipc"
+    }
+  }
+}

@@ -1,0 +1,746 @@
+{
+  "generatedAt": "2026-03-20T02:17:46.076Z",
+  "total": 74,
+  "entries": {
+    "B07B": {
+      "code": "B07B",
+      "level": 0,
+      "parent": "B07",
+      "ja": "ふるい分け，スクリーン分け，シフト分けによる，または気体流の利用による固体相互の分離；ばらの材料に適応可能な他の乾式による分離，例．ばらの材料と同様の扱いに適したばらの物品に適応可能な他の乾式による分離（湿式分離工程，同分離工程における液体と同様の方法で流動物質を用いる方法による選別Ｂ０３；乾式分離装置と湿式分離装置との組合せＢ０３Ｂ；液体を使用するものＢ０３Ｂ，Ｂ０３Ｄ；固体物質または流体からの固体物質の磁気または静電気による分離を用いた仕分け，高圧電界による分離Ｂ０３Ｃ；物理的工程を行なうための処理遠心分離機または渦装置Ｂ０４；手による選別，郵便に関する選別，切り換え，または物品もしくは材料のサンプルのある特徴を検知または測定することにより作動するその他の装置による選別Ｂ０７Ｃ）<br><br><b><ul>注</ul></b><br>このサブクラスは以下のものを包含する：<br>―装置の構造および材料の性質から自動的に起因するばらの材料またはばらの材料と同様に扱われる物品のふるい分けまたは等級付け，例．最低重量の目的物の下で開くトラップによるもの，累進的な大きさの開孔によるもの；<br>―同じ条件が適用される限りの物品のふるい分け，例．連続的に長くなる開孔の上を通過させて材木をふるい分けするもの；その物品はふるい分けの目的のために方向付けをされていてもいなくてもよい。<br><br><b><ul>サブクラス内の索引</ul></b><br>金網，格子またはグリッドを使用する固体相互の分離　１／００<br>気体の流れを使用する固体相互の分離　４／００，７／００，９／００，１１／００<br>その他の分離；組合せ　１３／００；１５／００",
+      "en": "SEPARATING SOLIDS FROM SOLIDS BY SIEVING, SCREENING, SIFTING OR BY USING GAS CURRENTS; SEPARATING BY OTHER DRY METHODS APPLICABLE TO BULK MATERIAL, e.g. LOOSE ARTICLES FIT TO BE HANDLED LIKE BULK MATERIAL(wet separating processes, sorting by processes using fluent material in the same way as liquid <b>B03</b>; combinations of dry separating apparatus with wet separating apparatus <b>B03B</b>; using liquids <b>B03B</b>, <b>B03D</b>; sorting by magnetic or electrostatic separation of solid materials from solid materials or fluids, separation by high voltage electric fields <b>B03C</b>; centrifuges or vortex apparatus for carrying out physical processes <b>B04</b>; hand sorting, postal sorting, sorting by switching or other devices actuated in response to detection or measurement of some feature of articles or samples of material <b>B07C</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>This subclass <u>covers</u>:<ul><li>any sorting or grading of bulk material or loose articles fit to be handled like bulk material which results automatically from the construction of the apparatus and properties of the material, e.g. by a trap opening under an object of a certain minimum weight, by an aperture of graduated size;</li><li>sorting of articles in so far as the same conditions apply, e.g. sorting of timber by passing it over successively longer openings; the articles may or may not be orientated for the purpose of sorting.</li></ul></li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">SEPARATING SOLIDS FROM SOLIDS USING NETWORKS, GRATINGS, OR GRIDS </td><td><b><b>1/00</b></b></td></tr></tr><tr><td width=\"70%\">SEPARATING SOLIDS FROM SOLIDS USING GAS CURRENTS </td><td><b><b>4/00</b>, <b>7/00</b>, <b>9/00</b>, <b>11/00</b></b></td></tr></tr><tr><td width=\"70%\">OTHER SEPARATING; COMBINATIONS </td><td><b><b>13/00</b>; <b>15/00</b></b></td></tr></tr></table>",
+      "count": 1096,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B07": {
+      "code": "B07",
+      "level": 0,
+      "parent": "B",
+      "ja": "固体相互の分離；仕分け",
+      "en": "SEPARATING SOLIDS FROM SOLIDS; SORTING",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B": {
+      "code": "B",
+      "level": 0,
+      "parent": null,
+      "ja": "処理操作；運輸",
+      "en": "PERFORMING OPERATIONS; TRANSPORTING",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B07B1/00": {
+      "code": "B07B1/00",
+      "level": 0,
+      "parent": "B07B",
+      "ja": "金網または格子またはグリット等を使用する固体相互のふるい分け",
+      "en": "Sieving, screening, sifting, or sorting solid materials using networks, gratings, grids, or the like",
+      "count": 8692,
+      "sourceFile": "ipc_B07B.txt",
+      "kind": "ipc"
+    },
+    "B07B1/02": {
+      "code": "B07B1/02",
+      "level": 1,
+      "parent": "B07B1/00",
+      "ja": "手ふるい",
+      "en": "Hand screens",
+      "count": 971,
+      "sourceFile": "ipc_B07B.txt",
+      "kind": "ipc"
+    },
+    "B07B1/04": {
+      "code": "B07B1/04",
+      "level": 1,
+      "parent": "B07B1/00",
+      "ja": "固定平面ふるい",
+      "en": "Stationary flat screens",
+      "count": 21212,
+      "sourceFile": "ipc_B07B.txt",
+      "kind": "ipc"
+    },
+    "B07B1/06": {
+      "code": "B07B1/06",
+      "level": 1,
+      "parent": "B07B1/00",
+      "ja": "円すい形もしくは円板状ふるい",
+      "en": "Cone or disc shaped screens",
+      "count": 3272,
+      "sourceFile": "ipc_B07B.txt",
+      "kind": "ipc"
+    },
+    "B07B1/08": {
+      "code": "B07B1/08",
+      "level": 1,
+      "parent": "B07B1/00",
+      "ja": "ふるいをその平面内において回転させるもの",
+      "en": "Screens rotating within their own plane",
+      "count": 3423,
+      "sourceFile": "ipc_B07B.txt",
+      "kind": "ipc"
+    },
+    "B07B1/10": {
+      "code": "B07B1/10",
+      "level": 1,
+      "parent": "B07B1/00",
+      "ja": "無端ベルト状ふるい",
+      "en": "Screens in the form of endless moving bands",
+      "count": 3282,
+      "sourceFile": "ipc_B07B.txt",
+      "kind": "ipc"
+    },
+    "B07B1/12": {
+      "code": "B07B1/12",
+      "level": 1,
+      "parent": "B07B1/00",
+      "ja": "平行な部材のみを有した装置",
+      "en": "Apparatus having only parallel elements",
+      "count": 2362,
+      "sourceFile": "ipc_B07B.txt",
+      "kind": "ipc"
+    },
+    "B07B1/14": {
+      "code": "B07B1/14",
+      "level": 2,
+      "parent": "B07B1/12",
+      "ja": "ローラースクリーン",
+      "en": "Roller screens",
+      "count": 2888,
+      "sourceFile": "ipc_B07B.txt",
+      "kind": "ipc"
+    },
+    "B07B1/15": {
+      "code": "B07B1/15",
+      "level": 3,
+      "parent": "B07B1/14",
+      "ja": "波形，みぞ付きまたはリブ付きのローラーを用いるもの［２］",
+      "en": "using corrugated, grooved or ribbed rollers",
+      "count": 1701,
+      "sourceFile": "ipc_B07B.txt",
+      "kind": "ipc"
+    },
+    "B07B1/16": {
+      "code": "B07B1/16",
+      "level": 2,
+      "parent": "B07B1/12",
+      "ja": "部材が可動で，その形状がローラ以外のもの",
+      "en": "the elements being movable and in other than roller form",
+      "count": 609,
+      "sourceFile": "ipc_B07B.txt",
+      "kind": "ipc"
+    },
+    "B07B1/18": {
+      "code": "B07B1/18",
+      "level": 1,
+      "parent": "B07B1/00",
+      "ja": "ドラムスクリーン",
+      "en": "Drum screens",
+      "count": 2359,
+      "sourceFile": "ipc_B07B.txt",
+      "kind": "ipc"
+    },
+    "B07B1/20": {
+      "code": "B07B1/20",
+      "level": 2,
+      "parent": "B07B1/18",
+      "ja": "内部攪拌機を有した固定ドラムスクリーン",
+      "en": "Stationary drums with moving interior agitators",
+      "count": 3613,
+      "sourceFile": "ipc_B07B.txt",
+      "kind": "ipc"
+    },
+    "B07B1/22": {
+      "code": "B07B1/22",
+      "level": 2,
+      "parent": "B07B1/18",
+      "ja": "回転ドラム",
+      "en": "Revolving drums",
+      "count": 21843,
+      "sourceFile": "ipc_B07B.txt",
+      "kind": "ipc"
+    },
+    "B07B1/24": {
+      "code": "B07B1/24",
+      "level": 3,
+      "parent": "B07B1/22",
+      "ja": "固定もしくは可動の内部攪拌機を有したもの",
+      "en": "with fixed or moving interior agitators",
+      "count": 6355,
+      "sourceFile": "ipc_B07B.txt",
+      "kind": "ipc"
+    },
+    "B07B1/26": {
+      "code": "B07B1/26",
+      "level": 3,
+      "parent": "B07B1/22",
+      "ja": "円筒に軸方向または半径方向の運動を加えたもの",
+      "en": "with additional axial or radial movement of the drum",
+      "count": 1118,
+      "sourceFile": "ipc_B07B.txt",
+      "kind": "ipc"
+    },
+    "B07B1/28": {
+      "code": "B07B1/28",
+      "level": 1,
+      "parent": "B07B1/00",
+      "ja": "他に分類されない可動ふるい，例．揺動，往復動，ロッキング，ティルティング，ウオップリングするふるい<br><br><b><ul>注</ul></b><br>グループ１／４０は１／３０から１／３８に優先。",
+      "en": "Moving screens not otherwise provided for, e.g. swinging, reciprocating, rocking, tilting, or wobbling screens",
+      "count": 116741,
+      "sourceFile": "ipc_B07B.txt",
+      "kind": "ipc"
+    },
+    "B07B1/30": {
+      "code": "B07B1/30",
+      "level": 2,
+      "parent": "B07B1/28",
+      "ja": "移送方向を前後するようにもしくはその方向にほぼ一致するように振動もしくは揺動させるもの",
+      "en": "jigging or moving to-and-fro in or approximately in the direction of conveyance",
+      "count": 3241,
+      "sourceFile": "ipc_B07B.txt",
+      "kind": "ipc"
+    },
+    "B07B1/32": {
+      "code": "B07B1/32",
+      "level": 2,
+      "parent": "B07B1/28",
+      "ja": "移送方向を横切る平面内において振動もしくは揺動させるもの",
+      "en": "jigging or moving to-and-fro within their own plane transverse to the direction of conveyance",
+      "count": 2042,
+      "sourceFile": "ipc_B07B.txt",
+      "kind": "ipc"
+    },
+    "B07B1/34": {
+      "code": "B07B1/34",
+      "level": 2,
+      "parent": "B07B1/28",
+      "ja": "ふるい面に対して直角方向またはほぼ直角方向に振動もしくは揺動させるもの",
+      "en": "jigging or moving to-and-fro perpendicularly or approximately perpendicularly to the plane of the screen",
+      "count": 16295,
+      "sourceFile": "ipc_B07B.txt",
+      "kind": "ipc"
+    },
+    "B07B1/36": {
+      "code": "B07B1/36",
+      "level": 2,
+      "parent": "B07B1/28",
+      "ja": "２つ以上の方向に振動もしくは揺動させるもの",
+      "en": "jigging or moving to-and-fro in more than one direction",
+      "count": 1906,
+      "sourceFile": "ipc_B07B.txt",
+      "kind": "ipc"
+    },
+    "B07B1/38": {
+      "code": "B07B1/38",
+      "level": 2,
+      "parent": "B07B1/28",
+      "ja": "ふるい面内において円弧状に振動させるもの；プランシフター",
+      "en": "oscillating in a circular arc in their own plane; Plansifters",
+      "count": 1755,
+      "sourceFile": "ipc_B07B.txt",
+      "kind": "ipc"
+    },
+    "B07B1/40": {
+      "code": "B07B1/40",
+      "level": 2,
+      "parent": "B07B1/28",
+      "ja": "共振ふるい",
+      "en": "Resonant vibration screens",
+      "count": 1650,
+      "sourceFile": "ipc_B07B.txt",
+      "kind": "ipc"
+    },
+    "B07B1/42": {
+      "code": "B07B1/42",
+      "level": 1,
+      "parent": "B07B1/00",
+      "ja": "ふるいに特別に取り付けられる駆動機構，調節または制御装置，または平衡装置",
+      "en": "Drive mechanisms, regulating or controlling devices, or balancing devices, specially adapted for screens",
+      "count": 93668,
+      "sourceFile": "ipc_B07B.txt",
+      "kind": "ipc"
+    },
+    "B07B1/44": {
+      "code": "B07B1/44",
+      "level": 2,
+      "parent": "B07B1/42",
+      "ja": "平衡装置",
+      "en": "Balancing devices",
+      "count": 351,
+      "sourceFile": "ipc_B07B.txt",
+      "kind": "ipc"
+    },
+    "B07B1/46": {
+      "code": "B07B1/46",
+      "level": 1,
+      "parent": "B07B1/00",
+      "ja": "ふるいの細部構造一般；ふるいの清掃または加熱手段",
+      "en": "Constructional details of screens in general; Cleaning or heating of screens",
+      "count": 141238,
+      "sourceFile": "ipc_B07B.txt",
+      "kind": "ipc"
+    },
+    "B07B1/48": {
+      "code": "B07B1/48",
+      "level": 2,
+      "parent": "B07B1/46",
+      "ja": "スクリーンの緊張機構",
+      "en": "Stretching devices for screens",
+      "count": 2387,
+      "sourceFile": "ipc_B07B.txt",
+      "kind": "ipc"
+    },
+    "B07B1/49": {
+      "code": "B07B1/49",
+      "level": 3,
+      "parent": "B07B1/48",
+      "ja": "同一のまたは異なる緊張手段による２個以上のスクリーンまたはスクリーン部分の緊張［２］",
+      "en": "stretching more than one screen or screen section by the same or different stretching means",
+      "count": 883,
+      "sourceFile": "ipc_B07B.txt",
+      "kind": "ipc"
+    },
+    "B07B1/50": {
+      "code": "B07B1/50",
+      "level": 2,
+      "parent": "B07B1/46",
+      "ja": "清掃",
+      "en": "Cleaning",
+      "count": 6998,
+      "sourceFile": "ipc_B07B.txt",
+      "kind": "ipc"
+    },
+    "B07B1/52": {
+      "code": "B07B1/52",
+      "level": 3,
+      "parent": "B07B1/50",
+      "ja": "ブラシまたは掻取板によるもの",
+      "en": "with brushes or scrapers",
+      "count": 16037,
+      "sourceFile": "ipc_B07B.txt",
+      "kind": "ipc"
+    },
+    "B07B1/54": {
+      "code": "B07B1/54",
+      "level": 3,
+      "parent": "B07B1/50",
+      "ja": "たたき落し手段によるもの",
+      "en": "with beating devices",
+      "count": 4544,
+      "sourceFile": "ipc_B07B.txt",
+      "kind": "ipc"
+    },
+    "B07B1/55": {
+      "code": "B07B1/55",
+      "level": 3,
+      "parent": "B07B1/50",
+      "ja": "流体ジェットによるもの［３］",
+      "en": "with fluid jets",
+      "count": 5188,
+      "sourceFile": "ipc_B07B.txt",
+      "kind": "ipc"
+    },
+    "B07B1/56": {
+      "code": "B07B1/56",
+      "level": 2,
+      "parent": "B07B1/46",
+      "ja": "スクリーンの加熱",
+      "en": "Heated screens",
+      "count": 203,
+      "sourceFile": "ipc_B07B.txt",
+      "kind": "ipc"
+    },
+    "B07B1/58": {
+      "code": "B07B1/58",
+      "level": 3,
+      "parent": "B07B1/56",
+      "ja": "高温流体による加熱",
+      "en": "heated by heated fluid",
+      "count": 74,
+      "sourceFile": "ipc_B07B.txt",
+      "kind": "ipc"
+    },
+    "B07B1/60": {
+      "code": "B07B1/60",
+      "level": 3,
+      "parent": "B07B1/56",
+      "ja": "火炎による加熱",
+      "en": "heated by flame heating",
+      "count": 17,
+      "sourceFile": "ipc_B07B.txt",
+      "kind": "ipc"
+    },
+    "B07B1/62": {
+      "code": "B07B1/62",
+      "level": 3,
+      "parent": "B07B1/56",
+      "ja": "電気熱による加熱",
+      "en": "heated by direct electric heating",
+      "count": 144,
+      "sourceFile": "ipc_B07B.txt",
+      "kind": "ipc"
+    },
+    "B07B4/00": {
+      "code": "B07B4/00",
+      "level": 0,
+      "parent": "B07B",
+      "ja": "気体流れに固体混合物を随伴させることによる固体相互の分離（テーブルまたはジグを用いるものＢ０３Ｂ）",
+      "en": "Separating solids from solids by subjecting their mixture to gas currents(using tables or jigs <b>B03B</b>)",
+      "count": 4421,
+      "sourceFile": "ipc_B07B.txt",
+      "kind": "ipc"
+    },
+    "B07B4/02": {
+      "code": "B07B4/02",
+      "level": 1,
+      "parent": "B07B4/00",
+      "ja": "混合物の落下中に行なうもの",
+      "en": "while the mixtures fall",
+      "count": 12048,
+      "sourceFile": "ipc_B07B.txt",
+      "kind": "ipc"
+    },
+    "B07B4/04": {
+      "code": "B07B4/04",
+      "level": 2,
+      "parent": "B07B4/02",
+      "ja": "カスケード内において行なうもの",
+      "en": "in cascades",
+      "count": 792,
+      "sourceFile": "ipc_B07B.txt",
+      "kind": "ipc"
+    },
+    "B07B4/06": {
+      "code": "B07B4/06",
+      "level": 2,
+      "parent": "B07B4/02",
+      "ja": "回転ドラムを用いるもの",
+      "en": "using revolving drums",
+      "count": 704,
+      "sourceFile": "ipc_B07B.txt",
+      "kind": "ipc"
+    },
+    "B07B4/08": {
+      "code": "B07B4/08",
+      "level": 1,
+      "parent": "B07B4/00",
+      "ja": "ふるいまたはそれに類する他の機械的要素により混合物を保持している間に行なうもの",
+      "en": "while the mixtures are supported by sieves, screens, or like mechanical elements",
+      "count": 6333,
+      "sourceFile": "ipc_B07B.txt",
+      "kind": "ipc"
+    },
+    "B07B7/00": {
+      "code": "B07B7/00",
+      "level": 0,
+      "parent": "B07B",
+      "ja": "気体流れにより固体材料を運搬または分散して選別するもの（気体または蒸気から分散粒子の分離のためのふるいまたはフィルターＢ０１Ｄ）",
+      "en": "Selective separation of solid materials carried by, or dispersed in, gas currents(sieves or filters for separating dispersed particles from gases or vapours <b>B01D</b>)",
+      "count": 1910,
+      "sourceFile": "ipc_B07B.txt",
+      "kind": "ipc"
+    },
+    "B07B7/01": {
+      "code": "B07B7/01",
+      "level": 1,
+      "parent": "B07B7/00",
+      "ja": "重力を用いるもの",
+      "en": "using gravity",
+      "count": 7421,
+      "sourceFile": "ipc_B07B.txt",
+      "kind": "ipc"
+    },
+    "B07B7/02": {
+      "code": "B07B7/02",
+      "level": 1,
+      "parent": "B07B7/00",
+      "ja": "流れの方向の反転によるもの",
+      "en": "by reversal of direction of flow",
+      "count": 384,
+      "sourceFile": "ipc_B07B.txt",
+      "kind": "ipc"
+    },
+    "B07B7/04": {
+      "code": "B07B7/04",
+      "level": 1,
+      "parent": "B07B7/00",
+      "ja": "パッフルセパレータに対して衝突させるもの",
+      "en": "by impingement against baffle separators",
+      "count": 697,
+      "sourceFile": "ipc_B07B.txt",
+      "kind": "ipc"
+    },
+    "B07B7/06": {
+      "code": "B07B7/06",
+      "level": 1,
+      "parent": "B07B7/00",
+      "ja": "ふるいに対して衝突させるもの",
+      "en": "by impingement against sieves",
+      "count": 2814,
+      "sourceFile": "ipc_B07B.txt",
+      "kind": "ipc"
+    },
+    "B07B7/08": {
+      "code": "B07B7/08",
+      "level": 1,
+      "parent": "B07B7/00",
+      "ja": "遠心力を用いるもの",
+      "en": "using centrifugal force",
+      "count": 2049,
+      "sourceFile": "ipc_B07B.txt",
+      "kind": "ipc"
+    },
+    "B07B7/083": {
+      "code": "B07B7/083",
+      "level": 2,
+      "parent": "B07B7/08",
+      "ja": "回転翼，回転盤，回転ドラムまたは回転ブラシにより発生させるもの",
+      "en": "generated by rotating vanes, discs, drums, or brushes",
+      "count": 4292,
+      "sourceFile": "ipc_B07B.txt",
+      "kind": "ipc"
+    },
+    "B07B7/086": {
+      "code": "B07B7/086",
+      "level": 2,
+      "parent": "B07B7/08",
+      "ja": "気体流れの彎曲経路により発生させるもの",
+      "en": "generated by the winding course of the gas stream",
+      "count": 770,
+      "sourceFile": "ipc_B07B.txt",
+      "kind": "ipc"
+    },
+    "B07B7/10": {
+      "code": "B07B7/10",
+      "level": 2,
+      "parent": "B07B7/08",
+      "ja": "装置内を再循環する空気流を有したもの",
+      "en": "having air recirculating within the apparatus",
+      "count": 217,
+      "sourceFile": "ipc_B07B.txt",
+      "kind": "ipc"
+    },
+    "B07B7/12": {
+      "code": "B07B7/12",
+      "level": 1,
+      "parent": "B07B7/00",
+      "ja": "空気流の脈動手段を有するもの",
+      "en": "with pulsating air currents",
+      "count": 149,
+      "sourceFile": "ipc_B07B.txt",
+      "kind": "ipc"
+    },
+    "B07B9/00": {
+      "code": "B07B9/00",
+      "level": 0,
+      "parent": "B07B",
+      "ja": "ふるい分け装置または気体流を用いる固体相互の分離装置の組合せ；プラントの全般的な配列，例．系統図",
+      "en": "Combinations of apparatus for screening or sifting or for separating solids from solids using gas currents; General arrangement of plant, e.g. flow sheets",
+      "count": 28495,
+      "sourceFile": "ipc_B07B.txt",
+      "kind": "ipc"
+    },
+    "B07B9/02": {
+      "code": "B07B9/02",
+      "level": 1,
+      "parent": "B07B9/00",
+      "ja": "類似のまたは異なった気体流を用いる固体相互の分離装置の組合せ",
+      "en": "Combinations of similar or different apparatus for separating solids from solids using gas currents",
+      "count": 2799,
+      "sourceFile": "ipc_B07B.txt",
+      "kind": "ipc"
+    },
+    "B07B11/00": {
+      "code": "B07B11/00",
+      "level": 0,
+      "parent": "B07B",
+      "ja": "気体流を用いる固体相互の分離装置内の付属品の配置",
+      "en": "Arrangement of accessories in apparatus for separating solids from solids using gas currents",
+      "count": 6724,
+      "sourceFile": "ipc_B07B.txt",
+      "kind": "ipc"
+    },
+    "B07B11/02": {
+      "code": "B07B11/02",
+      "level": 1,
+      "parent": "B07B11/00",
+      "ja": "空気または材料の調質付属品の配置",
+      "en": "Arrangement of air or material conditioning accessories",
+      "count": 6004,
+      "sourceFile": "ipc_B07B.txt",
+      "kind": "ipc"
+    },
+    "B07B11/04": {
+      "code": "B07B11/04",
+      "level": 1,
+      "parent": "B07B11/00",
+      "ja": "制御装置",
+      "en": "Control arrangements",
+      "count": 1544,
+      "sourceFile": "ipc_B07B.txt",
+      "kind": "ipc"
+    },
+    "B07B11/06": {
+      "code": "B07B11/06",
+      "level": 1,
+      "parent": "B07B11/00",
+      "ja": "供給，排出装置",
+      "en": "Feeding or discharging arrangements",
+      "count": 11683,
+      "sourceFile": "ipc_B07B.txt",
+      "kind": "ipc"
+    },
+    "B07B11/08": {
+      "code": "B07B11/08",
+      "level": 1,
+      "parent": "B07B11/00",
+      "ja": "清掃装置",
+      "en": "Cleaning arrangements",
+      "count": 1950,
+      "sourceFile": "ipc_B07B.txt",
+      "kind": "ipc"
+    },
+    "B07B13/00": {
+      "code": "B07B13/00",
+      "level": 0,
+      "parent": "B07B",
+      "ja": "他に分類されない乾式による固体材料のふるい分け；間接的制御装置によらない物品のふるい分け",
+      "en": "Grading or sorting solid materials by dry methods, not otherwise provided for; Sorting articles otherwise than by indirectly controlled devices",
+      "count": 6431,
+      "sourceFile": "ipc_B07B.txt",
+      "kind": "ipc"
+    },
+    "B07B13/02": {
+      "code": "B07B13/02",
+      "level": 1,
+      "parent": "B07B13/00",
+      "ja": "粒子の集合体からポケットを使用して粒子を等級付ける装置",
+      "en": "Apparatus for grading using pockets for taking out particles from aggregates",
+      "count": 1986,
+      "sourceFile": "ipc_B07B.txt",
+      "kind": "ipc"
+    },
+    "B07B13/04": {
+      "code": "B07B13/04",
+      "level": 1,
+      "parent": "B07B13/00",
+      "ja": "大きさによるもの",
+      "en": "according to size",
+      "count": 6664,
+      "sourceFile": "ipc_B07B.txt",
+      "kind": "ipc"
+    },
+    "B07B13/05": {
+      "code": "B07B13/05",
+      "level": 2,
+      "parent": "B07B13/04",
+      "ja": "保持器，偏向板または排出器と協働する材料移送機を用いるもの（Ｂ０７Ｂ１３／０６５～Ｂ０７Ｂ１３／０７５が優先）［３］",
+      "en": "using material mover cooperating with retainer, deflector or discharger(<b>B07B13/065 to B07B13/075</b>  take precedence)",
+      "count": 2785,
+      "sourceFile": "ipc_B07B.txt",
+      "kind": "ipc"
+    },
+    "B07B13/065": {
+      "code": "B07B13/065",
+      "level": 2,
+      "parent": "B07B13/04",
+      "ja": "分岐コンベアベルトまたはケーブルを使用して等級付けまたはふるい分けをする装置［３］",
+      "en": "Apparatus for grading or sorting using divergent conveyor belts or cables",
+      "count": 686,
+      "sourceFile": "ipc_B07B.txt",
+      "kind": "ipc"
+    },
+    "B07B13/07": {
+      "code": "B07B13/07",
+      "level": 2,
+      "parent": "B07B13/04",
+      "ja": "粒子の集合体または物品が移動方向に従って寸法の増大する開孔に沿って移動してまたはその開孔を通過する装置［３］",
+      "en": "Apparatus in which aggregates or articles are moved along or past openings which increase in size in the direction of movement",
+      "count": 2800,
+      "sourceFile": "ipc_B07B.txt",
+      "kind": "ipc"
+    },
+    "B07B13/075": {
+      "code": "B07B13/075",
+      "level": 2,
+      "parent": "B07B13/04",
+      "ja": "移動する物品受け開孔を包含し，その開孔の移動により開孔の寸法が変化する装置［３］",
+      "en": "Apparatus comprising moving article-receiving openings, the size of which varies as they move",
+      "count": 588,
+      "sourceFile": "ipc_B07B.txt",
+      "kind": "ipc"
+    },
+    "B07B13/08": {
+      "code": "B07B13/08",
+      "level": 1,
+      "parent": "B07B13/00",
+      "ja": "重さによるもの（Ｂ０７Ｂ１３／１０が優先）",
+      "en": "according to weight(<b>B07B13/10</b> takes precedence)",
+      "count": 1999,
+      "sourceFile": "ipc_B07B.txt",
+      "kind": "ipc"
+    },
+    "B07B13/10": {
+      "code": "B07B13/10",
+      "level": 1,
+      "parent": "B07B13/00",
+      "ja": "運動量効果を用いるもの",
+      "en": "using momentum effects",
+      "count": 966,
+      "sourceFile": "ipc_B07B.txt",
+      "kind": "ipc"
+    },
+    "B07B13/11": {
+      "code": "B07B13/11",
+      "level": 2,
+      "parent": "B07B13/10",
+      "ja": "遠心力または粒子と表面との間の相対的摩擦により分離する表面上の粒子の移動を含むもの，例．らせん形選別機［２］",
+      "en": "involving travel of particles over surfaces which separate by centrifugal force or by relative friction between particles and such surfaces, e.g. helical sorters",
+      "count": 3277,
+      "sourceFile": "ipc_B07B.txt",
+      "kind": "ipc"
+    },
+    "B07B13/14": {
+      "code": "B07B13/14",
+      "level": 1,
+      "parent": "B07B13/00",
+      "ja": "付属品または細部",
+      "en": "Details or accessories",
+      "count": 6601,
+      "sourceFile": "ipc_B07B.txt",
+      "kind": "ipc"
+    },
+    "B07B13/16": {
+      "code": "B07B13/16",
+      "level": 2,
+      "parent": "B07B13/14",
+      "ja": "供給，排出装置",
+      "en": "Feed or discharge arrangements",
+      "count": 9292,
+      "sourceFile": "ipc_B07B.txt",
+      "kind": "ipc"
+    },
+    "B07B13/18": {
+      "code": "B07B13/18",
+      "level": 2,
+      "parent": "B07B13/14",
+      "ja": "制御",
+      "en": "Control",
+      "count": 1908,
+      "sourceFile": "ipc_B07B.txt",
+      "kind": "ipc"
+    },
+    "B07B15/00": {
+      "code": "B07B15/00",
+      "level": 0,
+      "parent": "B07B",
+      "ja": "ばらの材料，例．ばらの材料と同様に扱われる物品，に適応する乾式による固体相互の分離装置の組合せ（気体流れを用いるものＢ０７Ｂ９／００）",
+      "en": "Combinations of apparatus for separating solids from solids by dry methods applicable to bulk material, e.g. loose articles fit to be handled like bulk material(using gas currents <b>B07B9/00</b>)",
+      "count": 5135,
+      "sourceFile": "ipc_B07B.txt",
+      "kind": "ipc"
+    }
+  }
+}

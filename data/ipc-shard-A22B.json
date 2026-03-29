@@ -1,0 +1,236 @@
+{
+  "generatedAt": "2026-03-20T02:17:45.872Z",
+  "total": 23,
+  "entries": {
+    "A22B": {
+      "code": "A22B",
+      "level": 0,
+      "parent": "A22",
+      "ja": "屠殺",
+      "en": "SLAUGHTERING",
+      "count": 291,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A22": {
+      "code": "A22",
+      "level": 0,
+      "parent": "A",
+      "ja": "屠殺；肉処理；家禽または魚の処理",
+      "en": "BUTCHERING; MEAT TREATMENT; PROCESSING POULTRY OR FISH",
+      "count": 0,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A": {
+      "code": "A",
+      "level": 0,
+      "parent": null,
+      "ja": "生活必需品",
+      "en": "HUMAN NECESSITIES",
+      "count": 0,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A22B1/00": {
+      "code": "A22B1/00",
+      "level": 0,
+      "parent": "A22B",
+      "ja": "屠殺される動物を束縛するための装置",
+      "en": "Apparatus for fettering animals to be slaughtered",
+      "count": 653,
+      "sourceFile": "ipc_A22B.txt",
+      "kind": "ipc"
+    },
+    "A22B3/00": {
+      "code": "A22B3/00",
+      "level": 0,
+      "parent": "A22B",
+      "ja": "屠殺または気絶の方法（切断一般Ｂ２６）",
+      "en": "Slaughtering or stunning(cutting in general <b>B26</b>)",
+      "count": 668,
+      "sourceFile": "ipc_A22B.txt",
+      "kind": "ipc"
+    },
+    "A22B3/02": {
+      "code": "A22B3/02",
+      "level": 1,
+      "parent": "A22B3/00",
+      "ja": "ボルト，例．屠殺用ピストル，屠殺用ボルト，によるもの",
+      "en": "by means of bolts, e.g. slaughtering pistols, cartridges",
+      "count": 375,
+      "sourceFile": "ipc_A22B.txt",
+      "kind": "ipc"
+    },
+    "A22B3/04": {
+      "code": "A22B3/04",
+      "level": 1,
+      "parent": "A22B3/00",
+      "ja": "屠殺される動物のためのマスク；気絶させる装置と結合されたマスク",
+      "en": "Masks for animals to be slaughtered; Masks combined with stunning arrangements",
+      "count": 25,
+      "sourceFile": "ipc_A22B.txt",
+      "kind": "ipc"
+    },
+    "A22B3/06": {
+      "code": "A22B3/06",
+      "level": 1,
+      "parent": "A22B3/00",
+      "ja": "電流による屠殺または気絶（そのための電気回路Ｈ０５Ｃ）",
+      "en": "Slaughtering or stunning by electric current(electric circuits therefor <b>H05C</b>)",
+      "count": 796,
+      "sourceFile": "ipc_A22B.txt",
+      "kind": "ipc"
+    },
+    "A22B3/08": {
+      "code": "A22B3/08",
+      "level": 1,
+      "parent": "A22B3/00",
+      "ja": "家禽または魚用のもの，例．屠殺用ペンチ，屠殺用大ばさみ",
+      "en": "for poultry or fish, e.g. slaughtering pliers, slaughtering shears",
+      "count": 926,
+      "sourceFile": "ipc_A22B.txt",
+      "kind": "ipc"
+    },
+    "A22B3/10": {
+      "code": "A22B3/10",
+      "level": 1,
+      "parent": "A22B3/00",
+      "ja": "屠殺具；屠殺用ナイフ",
+      "en": "Slaughtering tools; Slaughtering knives",
+      "count": 372,
+      "sourceFile": "ipc_A22B.txt",
+      "kind": "ipc"
+    },
+    "A22B3/12": {
+      "code": "A22B3/12",
+      "level": 1,
+      "parent": "A22B3/00",
+      "ja": "清浄な屠殺器具",
+      "en": "Kosher slaughtering devices",
+      "count": 29,
+      "sourceFile": "ipc_A22B.txt",
+      "kind": "ipc"
+    },
+    "A22B5/00": {
+      "code": "A22B5/00",
+      "level": 0,
+      "parent": "A22B",
+      "ja": "屠殺中または屠殺後に使用する付属具",
+      "en": "Accessories for use during or after slaughtering",
+      "count": 3204,
+      "sourceFile": "ipc_A22B.txt",
+      "kind": "ipc"
+    },
+    "A22B5/02": {
+      "code": "A22B5/02",
+      "level": 1,
+      "parent": "A22B5/00",
+      "ja": "屠殺囲い",
+      "en": "Slaughtering pens",
+      "count": 181,
+      "sourceFile": "ipc_A22B.txt",
+      "kind": "ipc"
+    },
+    "A22B5/04": {
+      "code": "A22B5/04",
+      "level": 1,
+      "parent": "A22B5/00",
+      "ja": "採血装置；血液攪拌具",
+      "en": "Blood-collecting apparatus; Blood-stirring devices",
+      "count": 950,
+      "sourceFile": "ipc_A22B.txt",
+      "kind": "ipc"
+    },
+    "A22B5/06": {
+      "code": "A22B5/06",
+      "level": 1,
+      "parent": "A22B5/00",
+      "ja": "牛のための屠殺台またはスプレッター",
+      "en": "Slaughtering stands or spreaders for cattle",
+      "count": 498,
+      "sourceFile": "ipc_A22B.txt",
+      "kind": "ipc"
+    },
+    "A22B5/08": {
+      "code": "A22B5/08",
+      "level": 1,
+      "parent": "A22B5/00",
+      "ja": "湯剥ぎ；こすり道具；脱毛；毛焼（皮の処理Ｃ１４Ｂ）",
+      "en": "Scalding; Scraping; Dehairing; Singeing(treatment of hides or skins <b>C14B</b>)",
+      "count": 1903,
+      "sourceFile": "ipc_A22B.txt",
+      "kind": "ipc"
+    },
+    "A22B5/10": {
+      "code": "A22B5/10",
+      "level": 2,
+      "parent": "A22B5/08",
+      "ja": "手動器具",
+      "en": "Hand-operated instruments",
+      "count": 175,
+      "sourceFile": "ipc_A22B.txt",
+      "kind": "ipc"
+    },
+    "A22B5/12": {
+      "code": "A22B5/12",
+      "level": 2,
+      "parent": "A22B5/08",
+      "ja": "湯剥釜",
+      "en": "Scalding kettles",
+      "count": 123,
+      "sourceFile": "ipc_A22B.txt",
+      "kind": "ipc"
+    },
+    "A22B5/14": {
+      "code": "A22B5/14",
+      "level": 1,
+      "parent": "A22B5/00",
+      "ja": "舌ばさみ；のどを閉めるための装置",
+      "en": "Clips for the tongue; Arrangements for closing the throat",
+      "count": 79,
+      "sourceFile": "ipc_A22B.txt",
+      "kind": "ipc"
+    },
+    "A22B5/16": {
+      "code": "A22B5/16",
+      "level": 1,
+      "parent": "A22B5/00",
+      "ja": "皮を剥ぐ器具またはナイフ",
+      "en": "Skinning instruments or knives",
+      "count": 1320,
+      "sourceFile": "ipc_A22B.txt",
+      "kind": "ipc"
+    },
+    "A22B5/18": {
+      "code": "A22B5/18",
+      "level": 1,
+      "parent": "A22B5/00",
+      "ja": "屠殺動物の胃の洗浄",
+      "en": "Cleaning the stomach of slaughtered animals",
+      "count": 234,
+      "sourceFile": "ipc_A22B.txt",
+      "kind": "ipc"
+    },
+    "A22B5/20": {
+      "code": "A22B5/20",
+      "level": 1,
+      "parent": "A22B5/00",
+      "ja": "分割器具",
+      "en": "Splitting instruments",
+      "count": 1050,
+      "sourceFile": "ipc_A22B.txt",
+      "kind": "ipc"
+    },
+    "A22B7/00": {
+      "code": "A22B7/00",
+      "level": 0,
+      "parent": "A22B",
+      "ja": "屠殺場の装備",
+      "en": "Slaughterhouse arrangements",
+      "count": 2533,
+      "sourceFile": "ipc_A22B.txt",
+      "kind": "ipc"
+    }
+  }
+}

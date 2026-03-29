@@ -1,0 +1,516 @@
+window.IPC_SHARD_D06L = {
+  "generatedAt": "2026-03-20T02:17:46.598Z",
+  "total": 51,
+  "entries": {
+    "D06L": {
+      "code": "D06L",
+      "level": 0,
+      "parent": "D06",
+      "ja": "繊維，フィラメント，より糸，糸，布帛，羽毛または繊維製品のドライクリーニング，洗浄または漂白；皮革または毛皮の漂白<br><br><b><ul>注</ul></b><br>１．このサブクラスでは，「漂白」という用語は，「けい光漂白」を包含する。<br>２．このサブクラスは，純粋に機械的な手段による布帛の処理を包含しない。それはサブクラスＤ０６Ｂ，Ｄ０６ＣまたはＤ０６Ｆに包含される。",
+      "en": "DRY-CLEANING, WASHING OR BLEACHING FIBRES, FILAMENTS, THREADS, YARNS, FABRICS, FEATHERS OR MADE-UP FIBROUS GOODS; BLEACHING LEATHER OR FURS; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this subclass, the term &ldquo;bleaching&rdquo; also <u>covers</u> &ldquo;optical bleaching&rdquo;.     </li><li>This subclass <u>does not cover</u> treatment of textiles by purely mechanical means, which is covered by subclasses <b>D06B</b>, <b>D06C</b> or <b>D06F</b>.    </li></ul>",
+      "count": 322,
+      "sourceFile": "ipc_D.txt",
+      "kind": "ipc"
+    },
+    "D06": {
+      "code": "D06",
+      "level": 0,
+      "parent": "D",
+      "ja": "繊維または類似のものの処理；洗濯；他に分類されない可とう性材料",
+      "en": "TREATMENT OF TEXTILES OR THE LIKE; LAUNDERING; FLEXIBLE MATERIALS NOT OTHERWISE PROVIDED FOR",
+      "count": 0,
+      "sourceFile": "ipc_D.txt",
+      "kind": "ipc"
+    },
+    "D": {
+      "code": "D",
+      "level": 0,
+      "parent": null,
+      "ja": "繊維；紙<br><br><b><ul>注</ul></b><br>このセクションにおいては，下記の用語は以下に示す意味で用いる：<br>―“繊維”は比較的短く，細長い天然または人造の物質よりなるものを意味する；［２０１４．０１］<br>―“フィラメント”はエンドレスまたは準エンドレスで，細長い天然または人造の物質よりなるものを意味する；［２０１４．０１］<br>―“糸”は繊維の単一の集合体を意味し，通常紡績によって製造される；［２０１４．０１］<br>―“より糸”は糸またはフィラメントの集合体を意味し，通常加ねんによって製造される；［２０１４．０１］<br>―“合成”繊維またはフィラメントはポリマーまたは低分子を合成させたものから製造される繊維またはフィラメントまたは類似物を意味する。例は，ポリアミド，アクリル，ポリエステルまたは炭素繊維である；［２０１４．０１］<br>―“人工”繊維またはフィラメントは天然ポリマーまたはその派生物から人が製造した繊維またはフィラメントまたは類似物を意味する。例は，再生セルロース繊維または半合成繊維である；［２０１４．０１］<br>―“人造”繊維またはフィラメントは人が製造した繊維またはフィラメントを意味し，“合成”繊維または“人工”繊維を含む。［２０１４．０１］",
+      "en": "TEXTILES; PAPER; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this section, the following terms are used with the meanings indicated: <ul><li>\"fibre\" means a relatively-short, elongated member of natural or man-made material;    </li><li>\"filament\" means an endless or quasi-endless, elongated member of natural or man-made material;    </li><li>\"yarn\" means a unitary assembly of fibres, usually produced by spinning;    </li><li>\"thread\" means an assembly of yarns or filaments, usually produced by twisting;    </li><li>\"synthetic\" fibres or filaments means fibres or filaments or the like manufactured from synthesising polymers or small molecules. Examples are polyamide, acrylic, polyester or carbon fibres;    </li><li>\"artificial\" fibres or filaments means fibres or filaments or the like manufactured by man from natural polymers or their derivatives. Examples are regenerated cellulosic fibres or semi-synthetic fibres;    </li><li>\"man-made&rdquo; fibres or filaments means fibres or filaments which are manufactured by man including &ldquo;synthetic&rdquo; or &ldquo;artificial&rdquo; fibres.    </li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_D.txt",
+      "kind": "ipc"
+    },
+    "D06L1/00": {
+      "code": "D06L1/00",
+      "level": 0,
+      "parent": "D06L",
+      "ja": "繊維，フィラメント，より糸，糸，布帛，羽毛または繊維製品のドライクリーニングまたは洗浄［２０１７．０１］",
+      "en": "Dry-cleaning or washing fibres, filaments, threads, yarns, fabrics, feathers or made-up fibrous goods",
+      "count": 1145,
+      "sourceFile": "ipc_D06L.txt",
+      "kind": "ipc"
+    },
+    "D06L1/01": {
+      "code": "D06L1/01",
+      "level": 1,
+      "parent": "D06L1/00",
+      "ja": "固体または糊状の剤のみ使用するもの［２０１７．０１］",
+      "en": "using only solid or pasty agents",
+      "count": 69,
+      "sourceFile": "ipc_D06L.txt",
+      "kind": "ipc"
+    },
+    "D06L1/02": {
+      "code": "D06L1/02",
+      "level": 1,
+      "parent": "D06L1/00",
+      "ja": "有機溶剤を用いるもの",
+      "en": "using organic solvents",
+      "count": 633,
+      "sourceFile": "ipc_D06L.txt",
+      "kind": "ipc"
+    },
+    "D06L1/04": {
+      "code": "D06L1/04",
+      "level": 2,
+      "parent": "D06L1/02",
+      "ja": "特定の添加剤と組み合わせるもの（Ｄ０６Ｌ１／０６が優先）",
+      "en": "combined with specific additives(                <b>D06L1/06</b> takes precedence)",
+      "count": 1008,
+      "sourceFile": "ipc_D06L.txt",
+      "kind": "ipc"
+    },
+    "D06L1/06": {
+      "code": "D06L1/06",
+      "level": 2,
+      "parent": "D06L1/02",
+      "ja": "のり抜きをするもの",
+      "en": "De-sizing",
+      "count": 162,
+      "sourceFile": "ipc_D06L.txt",
+      "kind": "ipc"
+    },
+    "D06L1/08": {
+      "code": "D06L1/08",
+      "level": 2,
+      "parent": "D06L1/02",
+      "ja": "多段階工程によるもの",
+      "en": "Multi-step processes",
+      "count": 151,
+      "sourceFile": "ipc_D06L.txt",
+      "kind": "ipc"
+    },
+    "D06L1/10": {
+      "code": "D06L1/10",
+      "level": 2,
+      "parent": "D06L1/02",
+      "ja": "使用済みのケミカル浴の再生によるもの",
+      "en": "Regeneration of used chemical baths",
+      "count": 225,
+      "sourceFile": "ipc_D06L.txt",
+      "kind": "ipc"
+    },
+    "D06L1/12": {
+      "code": "D06L1/12",
+      "level": 1,
+      "parent": "D06L1/00",
+      "ja": "水性溶媒を用いるもの",
+      "en": "using aqueous solvents",
+      "count": 2373,
+      "sourceFile": "ipc_D06L.txt",
+      "kind": "ipc"
+    },
+    "D06L1/14": {
+      "code": "D06L1/14",
+      "level": 2,
+      "parent": "D06L1/12",
+      "ja": "のり抜きをするもの",
+      "en": "De-sizing",
+      "count": 1611,
+      "sourceFile": "ipc_D06L.txt",
+      "kind": "ipc"
+    },
+    "D06L1/16": {
+      "code": "D06L1/16",
+      "level": 2,
+      "parent": "D06L1/12",
+      "ja": "多段階工程によるもの",
+      "en": "Multi-step processes",
+      "count": 1069,
+      "sourceFile": "ipc_D06L.txt",
+      "kind": "ipc"
+    },
+    "D06L1/18": {
+      "code": "D06L1/18",
+      "level": 2,
+      "parent": "D06L1/12",
+      "ja": "密閉容器中で加圧下に操作するもの",
+      "en": "Working under pressure in closed vessels",
+      "count": 123,
+      "sourceFile": "ipc_D06L.txt",
+      "kind": "ipc"
+    },
+    "D06L1/20": {
+      "code": "D06L1/20",
+      "level": 2,
+      "parent": "D06L1/12",
+      "ja": "機械的手段と結合したもの",
+      "en": "combined with mechanical means",
+      "count": 424,
+      "sourceFile": "ipc_D06L.txt",
+      "kind": "ipc"
+    },
+    "D06L1/22": {
+      "code": "D06L1/22",
+      "level": 1,
+      "parent": "D06L1/00",
+      "ja": "水性および有機材料を使用する連続処理を伴う工程",
+      "en": "Processes involving successive treatments with aqueous and organic agents",
+      "count": 193,
+      "sourceFile": "ipc_D06L.txt",
+      "kind": "ipc"
+    },
+    "D06L4/00": {
+      "code": "D06L4/00",
+      "level": 0,
+      "parent": "D06L",
+      "ja": "繊維，フィラメント，より糸，糸，布帛，羽毛または繊維製品の漂白；皮革または毛皮の漂白［２０１７．０１］",
+      "en": "Bleaching fibres, filaments, threads, yarns, fabrics, feathers or made-up fibrous goods; Bleaching leather or furs",
+      "count": 360,
+      "sourceFile": "ipc_D06L.txt",
+      "kind": "ipc"
+    },
+    "D06L4/10": {
+      "code": "D06L4/10",
+      "level": 1,
+      "parent": "D06L4/00",
+      "ja": "酸素を発生する剤を用いるもの（Ｄ０６Ｌ４／２０が優先）［２０１７．０１］",
+      "en": "using agents which develop oxygen(<b>D06L4/20</b> takes precedence)",
+      "count": 326,
+      "sourceFile": "ipc_D06L.txt",
+      "kind": "ipc"
+    },
+    "D06L4/12": {
+      "code": "D06L4/12",
+      "level": 2,
+      "parent": "D06L4/10",
+      "ja": "特定の添加剤と組み合わせるもの［２０１７．０１］",
+      "en": "combined with specific additives",
+      "count": 2044,
+      "sourceFile": "ipc_D06L.txt",
+      "kind": "ipc"
+    },
+    "D06L4/13": {
+      "code": "D06L4/13",
+      "level": 2,
+      "parent": "D06L4/10",
+      "ja": "無機剤を用いるもの［２０１７．０１］",
+      "en": "using inorganic agents",
+      "count": 2350,
+      "sourceFile": "ipc_D06L.txt",
+      "kind": "ipc"
+    },
+    "D06L4/15": {
+      "code": "D06L4/15",
+      "level": 2,
+      "parent": "D06L4/10",
+      "ja": "有機剤を用いるもの［２０１７．０１］",
+      "en": "using organic agents",
+      "count": 163,
+      "sourceFile": "ipc_D06L.txt",
+      "kind": "ipc"
+    },
+    "D06L4/17": {
+      "code": "D06L4/17",
+      "level": 2,
+      "parent": "D06L4/10",
+      "ja": "不活性溶媒の中で［２０１７．０１］",
+      "en": "in an inert solvent",
+      "count": 50,
+      "sourceFile": "ipc_D06L.txt",
+      "kind": "ipc"
+    },
+    "D06L4/18": {
+      "code": "D06L4/18",
+      "level": 2,
+      "parent": "D06L4/10",
+      "ja": "気体環境の中で［２０１７．０１］",
+      "en": "in a gaseous environment",
+      "count": 23,
+      "sourceFile": "ipc_D06L.txt",
+      "kind": "ipc"
+    },
+    "D06L4/20": {
+      "code": "D06L4/20",
+      "level": 1,
+      "parent": "D06L4/00",
+      "ja": "ハロゲン含有化合物を用いるもの［２０１７．０１］",
+      "en": "using agents which contain halogen",
+      "count": 88,
+      "sourceFile": "ipc_D06L.txt",
+      "kind": "ipc"
+    },
+    "D06L4/21": {
+      "code": "D06L4/21",
+      "level": 2,
+      "parent": "D06L4/20",
+      "ja": "特定の添加剤と組み合わせるもの（Ｄ０６Ｌ４／２４が優先）［２０１７．０１］",
+      "en": "combined with specific additives(<b>D06L4/24</b> takes precedence)",
+      "count": 89,
+      "sourceFile": "ipc_D06L.txt",
+      "kind": "ipc"
+    },
+    "D06L4/22": {
+      "code": "D06L4/22",
+      "level": 2,
+      "parent": "D06L4/20",
+      "ja": "無機剤を用いるもの［２０１７．０１］",
+      "en": "using inorganic agents",
+      "count": 42,
+      "sourceFile": "ipc_D06L.txt",
+      "kind": "ipc"
+    },
+    "D06L4/23": {
+      "code": "D06L4/23",
+      "level": 3,
+      "parent": "D06L4/22",
+      "ja": "次亜ハロゲン酸を用いるもの［２０１７．０１］",
+      "en": "using hypohalogenites",
+      "count": 376,
+      "sourceFile": "ipc_D06L.txt",
+      "kind": "ipc"
+    },
+    "D06L4/24": {
+      "code": "D06L4/24",
+      "level": 3,
+      "parent": "D06L4/22",
+      "ja": "亜塩素酸塩または二酸化塩素を用いるもの［２０１７．０１］",
+      "en": "using chlorites or chlorine dioxide",
+      "count": 251,
+      "sourceFile": "ipc_D06L.txt",
+      "kind": "ipc"
+    },
+    "D06L4/26": {
+      "code": "D06L4/26",
+      "level": 4,
+      "parent": "D06L4/24",
+      "ja": "特定の添加剤と組み合わせるもの［２０１７．０１］",
+      "en": "combined with specific additives",
+      "count": 142,
+      "sourceFile": "ipc_D06L.txt",
+      "kind": "ipc"
+    },
+    "D06L4/27": {
+      "code": "D06L4/27",
+      "level": 2,
+      "parent": "D06L4/20",
+      "ja": "有機剤を用いるもの［２０１７．０１］",
+      "en": "using organic agents",
+      "count": 67,
+      "sourceFile": "ipc_D06L.txt",
+      "kind": "ipc"
+    },
+    "D06L4/28": {
+      "code": "D06L4/28",
+      "level": 2,
+      "parent": "D06L4/20",
+      "ja": "不活性溶媒の中で（Ｄ０６Ｌ４／２４が優先）［２０１７．０１］",
+      "en": "in an inert solvent(<b>D06L4/24</b> takes precedence)",
+      "count": 10,
+      "sourceFile": "ipc_D06L.txt",
+      "kind": "ipc"
+    },
+    "D06L4/29": {
+      "code": "D06L4/29",
+      "level": 2,
+      "parent": "D06L4/20",
+      "ja": "気体環境の中で（Ｄ０６Ｌ４／２４が優先）［２０１７．０１］",
+      "en": "in a gaseous environment(<b>D06L4/24</b> takes precedence)",
+      "count": 23,
+      "sourceFile": "ipc_D06L.txt",
+      "kind": "ipc"
+    },
+    "D06L4/30": {
+      "code": "D06L4/30",
+      "level": 1,
+      "parent": "D06L4/00",
+      "ja": "還元剤を用いるもの［２０１７．０１］",
+      "en": "using reducing agents",
+      "count": 449,
+      "sourceFile": "ipc_D06L.txt",
+      "kind": "ipc"
+    },
+    "D06L4/40": {
+      "code": "D06L4/40",
+      "level": 1,
+      "parent": "D06L4/00",
+      "ja": "酵素を用いるもの［２０１７．０１］",
+      "en": "using enzymes",
+      "count": 523,
+      "sourceFile": "ipc_D06L.txt",
+      "kind": "ipc"
+    },
+    "D06L4/50": {
+      "code": "D06L4/50",
+      "level": 1,
+      "parent": "D06L4/00",
+      "ja": "放射線照射またはオゾン処理によるもの［２０１７．０１］",
+      "en": "by irradiation or ozonisation",
+      "count": 295,
+      "sourceFile": "ipc_D06L.txt",
+      "kind": "ipc"
+    },
+    "D06L4/60": {
+      "code": "D06L4/60",
+      "level": 1,
+      "parent": "D06L4/00",
+      "ja": "けい光漂白またはけい光増白するもの［２０１７．０１］",
+      "en": "Optical bleaching or brightening",
+      "count": 329,
+      "sourceFile": "ipc_D06L.txt",
+      "kind": "ipc"
+    },
+    "D06L4/607": {
+      "code": "D06L4/607",
+      "level": 2,
+      "parent": "D06L4/60",
+      "ja": "有機溶媒の中で［２０１７．０１］",
+      "en": "in organic solvents",
+      "count": 24,
+      "sourceFile": "ipc_D06L.txt",
+      "kind": "ipc"
+    },
+    "D06L4/614": {
+      "code": "D06L4/614",
+      "level": 2,
+      "parent": "D06L4/60",
+      "ja": "水性溶媒の中で［２０１７．０１］",
+      "en": "in aqueous solvents",
+      "count": 143,
+      "sourceFile": "ipc_D06L.txt",
+      "kind": "ipc"
+    },
+    "D06L4/621": {
+      "code": "D06L4/621",
+      "level": 3,
+      "parent": "D06L4/614",
+      "ja": "陰イオン増白剤を用いるもの［２０１７．０１］",
+      "en": "with anionic brighteners",
+      "count": 82,
+      "sourceFile": "ipc_D06L.txt",
+      "kind": "ipc"
+    },
+    "D06L4/629": {
+      "code": "D06L4/629",
+      "level": 3,
+      "parent": "D06L4/614",
+      "ja": "陽イオン増白剤を用いるもの［２０１７．０１］",
+      "en": "with cationic brighteners",
+      "count": 33,
+      "sourceFile": "ipc_D06L.txt",
+      "kind": "ipc"
+    },
+    "D06L4/636": {
+      "code": "D06L4/636",
+      "level": 3,
+      "parent": "D06L4/614",
+      "ja": "分散増白剤を用いるもの［２０１７．０１］",
+      "en": "with disperse brighteners",
+      "count": 45,
+      "sourceFile": "ipc_D06L.txt",
+      "kind": "ipc"
+    },
+    "D06L4/643": {
+      "code": "D06L4/643",
+      "level": 2,
+      "parent": "D06L4/60",
+      "ja": "増白剤を気体環境中でまたは固相中に導入するもの，例．移動による，粉末の使用によるまたは超臨界流体の使用による［２０１７．０１］",
+      "en": "wherein the brightener is introduced in a gaseous environment or in solid phase, e.g. by transfer, by use of powders or by use of super-critical fluids",
+      "count": 22,
+      "sourceFile": "ipc_D06L.txt",
+      "kind": "ipc"
+    },
+    "D06L4/65": {
+      "code": "D06L4/65",
+      "level": 2,
+      "parent": "D06L4/60",
+      "ja": "けい光増白剤との混合［２０１７．０１］",
+      "en": "with mixtures of optical brighteners",
+      "count": 109,
+      "sourceFile": "ipc_D06L.txt",
+      "kind": "ipc"
+    },
+    "D06L4/657": {
+      "code": "D06L4/657",
+      "level": 2,
+      "parent": "D06L4/60",
+      "ja": "他の処理との組合せ，例．仕上げ，漂白，柔軟，染色または顔料捺染［２０１７．０１］",
+      "en": "combined with other treatments, e.g. finishing, bleaching, softening, dyeing or pigment printing",
+      "count": 250,
+      "sourceFile": "ipc_D06L.txt",
+      "kind": "ipc"
+    },
+    "D06L4/664": {
+      "code": "D06L4/664",
+      "level": 2,
+      "parent": "D06L4/60",
+      "ja": "けい光増白剤の調整；エアロゾル状態のけい光増白剤；けい光増白剤の物理的処理［２０１７．０１］",
+      "en": "Preparations of optical brighteners; Optical brighteners in aerosol form; Physical treatment of optical brighteners",
+      "count": 216,
+      "sourceFile": "ipc_D06L.txt",
+      "kind": "ipc"
+    },
+    "D06L4/671": {
+      "code": "D06L4/671",
+      "level": 2,
+      "parent": "D06L4/60",
+      "ja": "けい光増白剤の補助剤，例．増強剤または促進剤［２０１７．０１］",
+      "en": "Optical brightening assistants, e.g. enhancers or boosters",
+      "count": 80,
+      "sourceFile": "ipc_D06L.txt",
+      "kind": "ipc"
+    },
+    "D06L4/679": {
+      "code": "D06L4/679",
+      "level": 2,
+      "parent": "D06L4/60",
+      "ja": "けい光増白剤の定着処理，例．加熱，スチーミングまたはアシッドショック［２０１７．０１］",
+      "en": "Fixing treatments in optical brightening, e.g. heating, steaming or acid shock",
+      "count": 26,
+      "sourceFile": "ipc_D06L.txt",
+      "kind": "ipc"
+    },
+    "D06L4/686": {
+      "code": "D06L4/686",
+      "level": 2,
+      "parent": "D06L4/60",
+      "ja": "退色性けい光増白の使用；抜染ペースト中のけい光増白剤の抜染；ブルーイング；特異的けい光増白［２０１７．０１］",
+      "en": "Fugitive optical brightening; Discharge of optical brighteners in discharge paste; Blueing; Differential optical brightening",
+      "count": 44,
+      "sourceFile": "ipc_D06L.txt",
+      "kind": "ipc"
+    },
+    "D06L4/693": {
+      "code": "D06L4/693",
+      "level": 3,
+      "parent": "D06L4/686",
+      "ja": "混合染料でのブルーイング；染料とけい光増白剤との混合物でのブルーイング［２０１７．０１］",
+      "en": "Blueing with mixtures of dyes; Blueing with mixtures of dyes and optical brighteners",
+      "count": 11,
+      "sourceFile": "ipc_D06L.txt",
+      "kind": "ipc"
+    },
+    "D06L4/70": {
+      "code": "D06L4/70",
+      "level": 1,
+      "parent": "D06L4/00",
+      "ja": "多段階工程によるもの［２０１７．０１］",
+      "en": "Multi-step processes",
+      "count": 397,
+      "sourceFile": "ipc_D06L.txt",
+      "kind": "ipc"
+    },
+    "D06L4/75": {
+      "code": "D06L4/75",
+      "level": 2,
+      "parent": "D06L4/70",
+      "ja": "クリーニングまたは洗浄と組み合わせたもの［２０１７．０１］",
+      "en": "combined with cleaning or washing",
+      "count": 295,
+      "sourceFile": "ipc_D06L.txt",
+      "kind": "ipc"
+    }
+  }
+};

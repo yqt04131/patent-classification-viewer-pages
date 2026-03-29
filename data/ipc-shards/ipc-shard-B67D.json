@@ -1,0 +1,636 @@
+{
+  "generatedAt": "2026-03-20T02:17:46.298Z",
+  "total": 63,
+  "entries": {
+    "B67D": {
+      "code": "B67D",
+      "level": 0,
+      "parent": "B67",
+      "ja": "他に分類されない液体の分与，配達，または移送（管またはチューブの洗浄または管チューブ系の洗浄Ｂ０８Ｂ９／０２；他に分類されない瓶，広口びん，缶，桶，樽または類似の容器からの排除または充填Ｂ６７Ｃ；水の供給Ｅ０３；配管装置Ｆ１７Ｄ；屋内湯供給装置Ｆ２４Ｄ；体積，体積流量，質量流量または液位測定，体積による計量Ｇ０１Ｆ；コイン解放または類する装置Ｇ０７Ｆ）［５］",
+      "en": "DISPENSING, DELIVERING, OR TRANSFERRING LIQUIDS, NOT OTHERWISE PROVIDED FOR(cleaning pipes or tubes or systems of pipes or tubes <b>B08B9/02</b>; emptying or filling of bottles, jars, cans, casks, barrels, or similar containers, not otherwise provided for <b>B67C</b>; water supply <b>E03</b>; pipe systems <b>F17D</b>; domestic hot-water supply systems <b>F24D</b>; measuring volume, volume flow, mass flow or liquid level, metering by volume <b>G01F</b>; coin-freed or like apparatus <b>G07F</b>)",
+      "count": 1992,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B67": {
+      "code": "B67",
+      "level": 0,
+      "parent": "B",
+      "ja": "びん，広口びんまたは類似の容器の開封または密封；液体の取扱い",
+      "en": "OPENING OR CLOSING BOTTLES, JARS OR SIMILAR CONTAINERS; LIQUID HANDLING",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B": {
+      "code": "B",
+      "level": 0,
+      "parent": null,
+      "ja": "処理操作；運輸",
+      "en": "PERFORMING OPERATIONS; TRANSPORTING",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B67D1/00": {
+      "code": "B67D1/00",
+      "level": 0,
+      "parent": "B67D",
+      "ja": "容器から飲料をつぎ出す装置または器具（Ｂ６７Ｄ３／００が優先；飲料製造装置Ａ４７Ｊ３１／００）［３］",
+      "en": "Apparatus or devices for dispensing beverages on draught(<b>B67D3/00</b> takes precedence; apparatus for making beverages <b>A47J31/00</b>)",
+      "count": 7467,
+      "sourceFile": "ipc_B67D.txt",
+      "kind": "ipc"
+    },
+    "B67D1/02": {
+      "code": "B67D1/02",
+      "level": 1,
+      "parent": "B67D1/00",
+      "ja": "ビールエンジンまたはこれに類似の手動ポンプ装置",
+      "en": "Beer engines or like manually-operable pumping apparatus",
+      "count": 817,
+      "sourceFile": "ipc_B67D.txt",
+      "kind": "ipc"
+    },
+    "B67D1/04": {
+      "code": "B67D1/04",
+      "level": 1,
+      "parent": "B67D1/00",
+      "ja": "貯蔵容器内の飲料に直接または間接に圧縮空気または他のガスを作用させる装置",
+      "en": "Apparatus utilising compressed air or other gas acting directly or indirectly on beverages in storage containers",
+      "count": 5692,
+      "sourceFile": "ipc_B67D.txt",
+      "kind": "ipc"
+    },
+    "B67D1/06": {
+      "code": "B67D1/06",
+      "level": 1,
+      "parent": "B67D1/00",
+      "ja": "商店または酒場のカウンターにおける分配装置の据付または配置（商店または酒場のカウンターそれ自体Ａ４７Ｆ９／００）",
+      "en": "Mountings or arrangements of dispensing apparatus in or on shop or bar counters(shop or bar counters <u>per se</u><b>A47F9/00</b>)",
+      "count": 1331,
+      "sourceFile": "ipc_B67D.txt",
+      "kind": "ipc"
+    },
+    "B67D1/07": {
+      "code": "B67D1/07",
+      "level": 1,
+      "parent": "B67D1/00",
+      "ja": "飲料分与装置の洗浄［５］",
+      "en": "Cleaning beverage-dispensing apparatus",
+      "count": 2499,
+      "sourceFile": "ipc_B67D.txt",
+      "kind": "ipc"
+    },
+    "B67D1/08": {
+      "code": "B67D1/08",
+      "level": 1,
+      "parent": "B67D1/00",
+      "ja": "細部",
+      "en": "Details",
+      "count": 10248,
+      "sourceFile": "ipc_B67D.txt",
+      "kind": "ipc"
+    },
+    "B67D1/10": {
+      "code": "B67D1/10",
+      "level": 2,
+      "parent": "B67D1/08",
+      "ja": "ポンプ機構（一般Ｆ０４）",
+      "en": "Pump mechanisms(in general <b>F04</b>)",
+      "count": 1346,
+      "sourceFile": "ipc_B67D.txt",
+      "kind": "ipc"
+    },
+    "B67D1/12": {
+      "code": "B67D1/12",
+      "level": 2,
+      "parent": "B67D1/08",
+      "ja": "流量または圧力制御装置または方法",
+      "en": "Flow- or pressure-control devices or systems",
+      "count": 3915,
+      "sourceFile": "ipc_B67D.txt",
+      "kind": "ipc"
+    },
+    "B67D1/14": {
+      "code": "B67D1/14",
+      "level": 3,
+      "parent": "B67D1/12",
+      "ja": "減圧弁または制御栓",
+      "en": "Reducing valves or control taps",
+      "count": 2095,
+      "sourceFile": "ipc_B67D.txt",
+      "kind": "ipc"
+    },
+    "B67D1/16": {
+      "code": "B67D1/16",
+      "level": 2,
+      "parent": "B67D1/08",
+      "ja": "こぼれた飲料を集める装置",
+      "en": "Devices for collecting spilled beverages",
+      "count": 591,
+      "sourceFile": "ipc_B67D.txt",
+      "kind": "ipc"
+    },
+    "B67D3/00": {
+      "code": "B67D3/00",
+      "level": 0,
+      "parent": "B67D",
+      "ja": "分与の目的で貯蔵容器からの重力による液体の流れを制御するための装置または器具（計量された液体の分離と分配Ｇ０１Ｆ）",
+      "en": "Apparatus or devices for controlling flow of liquids under gravity from storage containers for dispensing purposes(separating and dispensing metered quantities of liquids <b>G01F</b>)",
+      "count": 8053,
+      "sourceFile": "ipc_B67D.txt",
+      "kind": "ipc"
+    },
+    "B67D3/02": {
+      "code": "B67D3/02",
+      "level": 1,
+      "parent": "B67D3/00",
+      "ja": "弁を押し上げるための操作部材をもつ液体分配弁，例．放出口の下方に保持した容器の縁によるもの",
+      "en": "Liquid-dispensing valves having operating members arranged to be pressed upwards, e.g. by the rims of receptacles held below the delivery orifice",
+      "count": 1154,
+      "sourceFile": "ipc_B67D.txt",
+      "kind": "ipc"
+    },
+    "B67D3/04": {
+      "code": "B67D3/04",
+      "level": 1,
+      "parent": "B67D3/00",
+      "ja": "たるの放出口の開閉に適した液体分与栓またはコック，例．ビール用のもの",
+      "en": "Liquid-dispensing taps or cocks adapted to seal and open tapping-holes of casks, e.g. for beer",
+      "count": 2831,
+      "sourceFile": "ipc_B67D.txt",
+      "kind": "ipc"
+    },
+    "B67D7/00": {
+      "code": "B67D7/00",
+      "level": 0,
+      "parent": "B67D",
+      "ja": "大型貯蔵容器または貯蔵槽から車両または携帯用容器へ液体移送するための装置または器具，例．小売り用のもの（車両の燃料供給所における設備の一般的配置Ｂ６０Ｓ５／０２；機関車の水タンクの充填または排除のためのもの，例．給水柱Ｂ６１Ｋ１１／００；飛行中の航空機に補給するためのものＢ６４Ｄ３９／００；静止している航空機に燃料を供給するのに特に適した液体操作地上設備Ｂ６４Ｆ１／２８）［２０１０．０１］",
+      "en": "Apparatus or devices for transferring liquids from bulk storage containers or reservoirs into vehicles or into portable containers, e.g. for retail sale purposes(general disposition of plant in stations for supplying fuel to vehicles <b>B60S5/02</b>; for filling or emptying locomotive water tanks, e.g. water columns, <b>B61K11/00</b>; for refuelling aircraft during flight <b>B64D39/00</b>; liquid-handling ground installations specially adapted for fuelling stationary aircraft <b>B64F1/28</b>)",
+      "count": 1823,
+      "sourceFile": "ipc_B67D.txt",
+      "kind": "ipc"
+    },
+    "B67D7/02": {
+      "code": "B67D7/02",
+      "level": 1,
+      "parent": "B67D7/00",
+      "ja": "燃料または潤滑油以外の液体の移送のためのもの［２０１０．０１］",
+      "en": "for transferring liquids other than fuel or lubricants",
+      "count": 7022,
+      "sourceFile": "ipc_B67D.txt",
+      "kind": "ipc"
+    },
+    "B67D7/04": {
+      "code": "B67D7/04",
+      "level": 1,
+      "parent": "B67D7/00",
+      "ja": "燃料，潤滑油または燃料と潤滑油の混合油の移送のためのもの［２０１０．０１］",
+      "en": "for transferring fuels, lubricants or mixed fuels and lubricants",
+      "count": 7408,
+      "sourceFile": "ipc_B67D.txt",
+      "kind": "ipc"
+    },
+    "B67D7/06": {
+      "code": "B67D7/06",
+      "level": 1,
+      "parent": "B67D7/00",
+      "ja": "細部または付属品［２０１０．０１］",
+      "en": "Details or accessories",
+      "count": 8038,
+      "sourceFile": "ipc_B67D.txt",
+      "kind": "ipc"
+    },
+    "B67D7/08": {
+      "code": "B67D7/08",
+      "level": 2,
+      "parent": "B67D7/06",
+      "ja": "移送された液体の量または価格の制御，指示，計量または記録装置の配置（流量または圧力制御弁の配置Ｂ６７Ｄ７／３６；計算，計数に関するものＧ０６；流体分配のためのコイン解放装置Ｇ０７Ｆ１３／００；液体計量のための料金先払い装置Ｇ０７Ｆ１５／００）［２０１０．０１］",
+      "en": "Arrangements of devices for controlling, indicating, metering or registering quantity or price of liquid transferred(arrangement of flow- or pressure-control valves <b>B67D7/36</b>; computing, calculating, counting <b>G06</b>; coin-freed apparatus for dispensing fluids <b>G07F13/00</b>; prepayment devices for metering liquids <b>G07F15/00</b>)",
+      "count": 4650,
+      "sourceFile": "ipc_B67D.txt",
+      "kind": "ipc"
+    },
+    "B67D7/10": {
+      "code": "B67D7/10",
+      "level": 3,
+      "parent": "B67D7/08",
+      "ja": "かぎ，押しボタンまたは金銭登録機により操作されるもの［２０１０．０１］",
+      "en": "operated by keys, push-buttons or cash registers",
+      "count": 320,
+      "sourceFile": "ipc_B67D.txt",
+      "kind": "ipc"
+    },
+    "B67D7/12": {
+      "code": "B67D7/12",
+      "level": 3,
+      "parent": "B67D7/08",
+      "ja": "供給ホースまたはノズルの動作，またはそれらに係合する装置により操作されるもの［２０１０．０１］",
+      "en": "operated by movement of delivery hose or nozzle or by devices associated therewith",
+      "count": 437,
+      "sourceFile": "ipc_B67D.txt",
+      "kind": "ipc"
+    },
+    "B67D7/14": {
+      "code": "B67D7/14",
+      "level": 3,
+      "parent": "B67D7/08",
+      "ja": "プログラムされた記録情報，例．パンチカード，の入力により応答するもの［２０１０．０１］",
+      "en": "responsive to input of recorded programmed information, e.g. on punched cards",
+      "count": 961,
+      "sourceFile": "ipc_B67D.txt",
+      "kind": "ipc"
+    },
+    "B67D7/16": {
+      "code": "B67D7/16",
+      "level": 3,
+      "parent": "B67D7/08",
+      "ja": "液体計量装置の配置［２０１０．０１］",
+      "en": "Arrangements of liquid meters",
+      "count": 2345,
+      "sourceFile": "ipc_B67D.txt",
+      "kind": "ipc"
+    },
+    "B67D7/18": {
+      "code": "B67D7/18",
+      "level": 4,
+      "parent": "B67D7/16",
+      "ja": "ピストン型のもの［２０１０．０１］",
+      "en": "of piston type",
+      "count": 99,
+      "sourceFile": "ipc_B67D.txt",
+      "kind": "ipc"
+    },
+    "B67D7/20": {
+      "code": "B67D7/20",
+      "level": 4,
+      "parent": "B67D7/16",
+      "ja": "回転型のもの［２０１０．０１］",
+      "en": "of rotary type",
+      "count": 88,
+      "sourceFile": "ipc_B67D.txt",
+      "kind": "ipc"
+    },
+    "B67D7/22": {
+      "code": "B67D7/22",
+      "level": 3,
+      "parent": "B67D7/08",
+      "ja": "表示器または記録器の配置（流体計量装置の表示または記録Ｇ０１Ｆ１５／０６）［２０１０．０１］",
+      "en": "Arrangements of indicators or registers(indicating or recording in fluid meters <b>G01F15/06</b>)",
+      "count": 1665,
+      "sourceFile": "ipc_B67D.txt",
+      "kind": "ipc"
+    },
+    "B67D7/24": {
+      "code": "B67D7/24",
+      "level": 4,
+      "parent": "B67D7/22",
+      "ja": "売上の受領証または記録書を作成または発行する手段を有するもの［２０１０．０１］",
+      "en": "with means for producing or issuing a receipt or record of sale",
+      "count": 744,
+      "sourceFile": "ipc_B67D.txt",
+      "kind": "ipc"
+    },
+    "B67D7/26": {
+      "code": "B67D7/26",
+      "level": 4,
+      "parent": "B67D7/22",
+      "ja": "リセットまたはゼロ復帰手段を有するもの［２０１０．０１］",
+      "en": "with resetting or zeroing means",
+      "count": 172,
+      "sourceFile": "ipc_B67D.txt",
+      "kind": "ipc"
+    },
+    "B67D7/28": {
+      "code": "B67D7/28",
+      "level": 3,
+      "parent": "B67D7/08",
+      "ja": "供給終了前の流出を減少または流出を間欠的に中断する，例．小きざみ供給を行なう，自動的な手段をもつもの［２０１０．０１］",
+      "en": "with automatic means for reducing or intermittently interrupting flow before completion of delivery, e.g. to produce dribble feed",
+      "count": 370,
+      "sourceFile": "ipc_B67D.txt",
+      "kind": "ipc"
+    },
+    "B67D7/30": {
+      "code": "B67D7/30",
+      "level": 3,
+      "parent": "B67D7/08",
+      "ja": "移送されるべき液体の量を予め定める手段を有するもの（Ｂ６７Ｄ７／１０，Ｂ６７Ｄ７／１４が優先）［２０１０．０１］",
+      "en": "with means for predetermining quantity of liquid to be transferred(<b>B67D7/10</b>, <b>B67D7/14</b> take precedence)",
+      "count": 1399,
+      "sourceFile": "ipc_B67D.txt",
+      "kind": "ipc"
+    },
+    "B67D7/32": {
+      "code": "B67D7/32",
+      "level": 2,
+      "parent": "B67D7/06",
+      "ja": "安全または警告装置の配置；液体の無断放出防止のための手段［２０１０．０１］",
+      "en": "Arrangements of safety or warning devices; Means for preventing unauthorised delivery of liquid",
+      "count": 5497,
+      "sourceFile": "ipc_B67D.txt",
+      "kind": "ipc"
+    },
+    "B67D7/34": {
+      "code": "B67D7/34",
+      "level": 3,
+      "parent": "B67D7/32",
+      "ja": "液体の無断放出防止のための手段［２０１０．０１］",
+      "en": "Means for preventing unauthorised delivery of liquid",
+      "count": 976,
+      "sourceFile": "ipc_B67D.txt",
+      "kind": "ipc"
+    },
+    "B67D7/36": {
+      "code": "B67D7/36",
+      "level": 2,
+      "parent": "B67D7/06",
+      "ja": "流量または圧力制御弁の配置（ノズルの中に組込まれたものＢ６７Ｄ７／４２）［２０１０．０１］",
+      "en": "Arrangements of flow- or pressure-control valves(associated with nozzles <b>B67D7/42</b>)",
+      "count": 2078,
+      "sourceFile": "ipc_B67D.txt",
+      "kind": "ipc"
+    },
+    "B67D7/38": {
+      "code": "B67D7/38",
+      "level": 2,
+      "parent": "B67D7/06",
+      "ja": "ホース，例．ポンプモータと関連して運転されるもの，の配置（ホース一般Ｆ１６Ｌ１１／００）［２０１０．０１］",
+      "en": "Arrangements of hoses, e.g. operative connection with pump motor(hoses in general <b>F16L11/00</b>)",
+      "count": 1214,
+      "sourceFile": "ipc_B67D.txt",
+      "kind": "ipc"
+    },
+    "B67D7/40": {
+      "code": "B67D7/40",
+      "level": 3,
+      "parent": "B67D7/38",
+      "ja": "吊り下げ，巻取りまたは収納装置（長尺ホース収納のための支持具一般Ｂ６５Ｈ７５／３４）［２０１０．０１］",
+      "en": "Suspending, reeling or storing devices(supports for storing lengths of hoses, in general <b>B65H75/34</b>)",
+      "count": 1223,
+      "sourceFile": "ipc_B67D.txt",
+      "kind": "ipc"
+    },
+    "B67D7/42": {
+      "code": "B67D7/42",
+      "level": 2,
+      "parent": "B67D7/06",
+      "ja": "充填ノズル［２０１０．０１］",
+      "en": "Filling nozzles",
+      "count": 4756,
+      "sourceFile": "ipc_B67D.txt",
+      "kind": "ipc"
+    },
+    "B67D7/44": {
+      "code": "B67D7/44",
+      "level": 3,
+      "parent": "B67D7/42",
+      "ja": "自動閉止［２０１０．０１］",
+      "en": "automatically closing",
+      "count": 464,
+      "sourceFile": "ipc_B67D.txt",
+      "kind": "ipc"
+    },
+    "B67D7/46": {
+      "code": "B67D7/46",
+      "level": 4,
+      "parent": "B67D7/44",
+      "ja": "容器内に充填された液体が規定のレベルに達する時自動閉止するもの［２０１０．０１］",
+      "en": "when liquid in container to be filled reaches a predetermined level",
+      "count": 538,
+      "sourceFile": "ipc_B67D.txt",
+      "kind": "ipc"
+    },
+    "B67D7/48": {
+      "code": "B67D7/48",
+      "level": 5,
+      "parent": "B67D7/46",
+      "ja": "上昇する液体により閉止される開口を通る空気吸引の利用によるもの［２０１０．０１］",
+      "en": "by making use of air suction through an opening closed by the rising liquid",
+      "count": 622,
+      "sourceFile": "ipc_B67D.txt",
+      "kind": "ipc"
+    },
+    "B67D7/50": {
+      "code": "B67D7/50",
+      "level": 4,
+      "parent": "B67D7/44",
+      "ja": "さらに付加的な手動レバーを備えるもの［２０１０．０１］",
+      "en": "and provided with an additional hand lever",
+      "count": 183,
+      "sourceFile": "ipc_B67D.txt",
+      "kind": "ipc"
+    },
+    "B67D7/52": {
+      "code": "B67D7/52",
+      "level": 4,
+      "parent": "B67D7/44",
+      "ja": "さらに付加的な流量制御弁手段を備えるもの［２０１０．０１］",
+      "en": "and provided with additional flow-controlling valve means",
+      "count": 285,
+      "sourceFile": "ipc_B67D.txt",
+      "kind": "ipc"
+    },
+    "B67D7/54": {
+      "code": "B67D7/54",
+      "level": 3,
+      "parent": "B67D7/42",
+      "ja": "液体または蒸気の漏洩防止のためまたは漏洩した液体または蒸気を回収するための手段を有するもの（Ｂ６７Ｄ７／４４が優先）［２０１０．０１］",
+      "en": "with means for preventing escape of liquid or vapour or for recovering escaped liquid or vapour(<b>B67D7/44</b> takes precedence)",
+      "count": 2233,
+      "sourceFile": "ipc_B67D.txt",
+      "kind": "ipc"
+    },
+    "B67D7/56": {
+      "code": "B67D7/56",
+      "level": 2,
+      "parent": "B67D7/06",
+      "ja": "流量指示器，例．透明な区画，窓，回転翼，の配置（流動の有無または方向の指示または記録Ｇ０１Ｐ１３／００）［２０１０．０１］",
+      "en": "Arrangements of flow-indicators, e.g. transparent compartments, windows, rotary vanes(indicating or recording presence, absence or direction of movement <b>G01P13/00</b>)",
+      "count": 653,
+      "sourceFile": "ipc_B67D.txt",
+      "kind": "ipc"
+    },
+    "B67D7/58": {
+      "code": "B67D7/58",
+      "level": 2,
+      "parent": "B67D7/06",
+      "ja": "ポンプの配置［２０１０．０１］",
+      "en": "Arrangements of pumps",
+      "count": 2045,
+      "sourceFile": "ipc_B67D.txt",
+      "kind": "ipc"
+    },
+    "B67D7/60": {
+      "code": "B67D7/60",
+      "level": 3,
+      "parent": "B67D7/58",
+      "ja": "手動のもの［２０１０．０１］",
+      "en": "manually operable",
+      "count": 1101,
+      "sourceFile": "ipc_B67D.txt",
+      "kind": "ipc"
+    },
+    "B67D7/62": {
+      "code": "B67D7/62",
+      "level": 3,
+      "parent": "B67D7/58",
+      "ja": "動力によるもの［２０１０．０１］",
+      "en": "power operated",
+      "count": 961,
+      "sourceFile": "ipc_B67D.txt",
+      "kind": "ipc"
+    },
+    "B67D7/64": {
+      "code": "B67D7/64",
+      "level": 4,
+      "parent": "B67D7/62",
+      "ja": "ピストン型のもの［２０１０．０１］",
+      "en": "of piston type",
+      "count": 336,
+      "sourceFile": "ipc_B67D.txt",
+      "kind": "ipc"
+    },
+    "B67D7/66": {
+      "code": "B67D7/66",
+      "level": 4,
+      "parent": "B67D7/62",
+      "ja": "回転型のもの［２０１０．０１］",
+      "en": "of rotary type",
+      "count": 195,
+      "sourceFile": "ipc_B67D.txt",
+      "kind": "ipc"
+    },
+    "B67D7/68": {
+      "code": "B67D7/68",
+      "level": 3,
+      "parent": "B67D7/58",
+      "ja": "貯蔵タンクまたは貯蔵槽の中に沈めるもの［２０１０．０１］",
+      "en": "submerged in storage tank or reservoir",
+      "count": 179,
+      "sourceFile": "ipc_B67D.txt",
+      "kind": "ipc"
+    },
+    "B67D7/70": {
+      "code": "B67D7/70",
+      "level": 3,
+      "parent": "B67D7/58",
+      "ja": "直列または並列に配列した二個以上のポンプをもつもの［２０１０．０１］",
+      "en": "of two or more pumps in series or parallel",
+      "count": 593,
+      "sourceFile": "ipc_B67D.txt",
+      "kind": "ipc"
+    },
+    "B67D7/72": {
+      "code": "B67D7/72",
+      "level": 2,
+      "parent": "B67D7/06",
+      "ja": "供給点まで液体を押圧するため空気またはその他のガス圧力を利用する装置［２０１０．０１］",
+      "en": "Devices for applying air or other gas pressure for forcing liquid to delivery point",
+      "count": 1398,
+      "sourceFile": "ipc_B67D.txt",
+      "kind": "ipc"
+    },
+    "B67D7/74": {
+      "code": "B67D7/74",
+      "level": 2,
+      "parent": "B67D7/06",
+      "ja": "移送されるべき二以上の相違する液体を混合する装置（コインにより解放される装置Ｇ０７Ｆ１３／０６）［２０１０．０１］",
+      "en": "Devices for mixing two or more different liquids to be transferred(coin-freed apparatus <b>G07F13/06</b>)",
+      "count": 2123,
+      "sourceFile": "ipc_B67D.txt",
+      "kind": "ipc"
+    },
+    "B67D7/76": {
+      "code": "B67D7/76",
+      "level": 2,
+      "parent": "B67D7/06",
+      "ja": "移送されるべき液体を浄化する装置，例．ろ過機，空気または水の分離機，の配置［２０１０．０１］",
+      "en": "Arrangements of devices for purifying liquids to be transferred, e.g. of filters, of air or water separators",
+      "count": 2504,
+      "sourceFile": "ipc_B67D.txt",
+      "kind": "ipc"
+    },
+    "B67D7/78": {
+      "code": "B67D7/78",
+      "level": 2,
+      "parent": "B67D7/06",
+      "ja": "貯蔵タンク，貯蔵槽またはパイプラインの配置［２０１０．０１］",
+      "en": "Arrangements of storage tanks, reservoirs or pipe-lines",
+      "count": 6012,
+      "sourceFile": "ipc_B67D.txt",
+      "kind": "ipc"
+    },
+    "B67D7/80": {
+      "code": "B67D7/80",
+      "level": 2,
+      "parent": "B67D7/06",
+      "ja": "移送されるべき液体の加熱または冷却装置の配置［２０１０．０１］",
+      "en": "Arrangements of heating or cooling devices for liquids to be transferred",
+      "count": 1818,
+      "sourceFile": "ipc_B67D.txt",
+      "kind": "ipc"
+    },
+    "B67D7/82": {
+      "code": "B67D7/82",
+      "level": 3,
+      "parent": "B67D7/80",
+      "ja": "加熱のみ［２０１０．０１］",
+      "en": "Heating only",
+      "count": 609,
+      "sourceFile": "ipc_B67D.txt",
+      "kind": "ipc"
+    },
+    "B67D7/84": {
+      "code": "B67D7/84",
+      "level": 2,
+      "parent": "B67D7/06",
+      "ja": "ケーシング，キャビネットまたは骨組；台車または類似の可動支持具［２０１０．０１］",
+      "en": "Casings, cabinets or frameworks; Trolleys or like movable supports",
+      "count": 2286,
+      "sourceFile": "ipc_B67D.txt",
+      "kind": "ipc"
+    },
+    "B67D7/86": {
+      "code": "B67D7/86",
+      "level": 2,
+      "parent": "B67D7/06",
+      "ja": "照明設備［２０１０．０１］",
+      "en": "Illuminating arrangements",
+      "count": 165,
+      "sourceFile": "ipc_B67D.txt",
+      "kind": "ipc"
+    },
+    "B67D9/00": {
+      "code": "B67D9/00",
+      "level": 0,
+      "parent": "B67D",
+      "ja": "船への積込み，船からの荷上げ（船に付いた装置Ｂ６３Ｂ２７／００）［２０１０．０１］",
+      "en": "Apparatus or devices for transferring liquids when loading or unloading ships(ship-based equipment <b>B63B27/00</b>)",
+      "count": 843,
+      "sourceFile": "ipc_B67D.txt",
+      "kind": "ipc"
+    },
+    "B67D9/02": {
+      "code": "B67D9/02",
+      "level": 1,
+      "parent": "B67D9/00",
+      "ja": "関節のあるパイプを使用するもの［２０１０．０１］",
+      "en": "using articulated pipes",
+      "count": 739,
+      "sourceFile": "ipc_B67D.txt",
+      "kind": "ipc"
+    },
+    "B67D99/00": {
+      "code": "B67D99/00",
+      "level": 0,
+      "parent": "B67D",
+      "ja": "このサブクラスの他のグループに分類されない主題事項［２０１０．０１］",
+      "en": "Subject matter not provided for in other groups of this subclass",
+      "count": 3180,
+      "sourceFile": "ipc_B67D.txt",
+      "kind": "ipc"
+    }
+  }
+}

@@ -1,0 +1,123 @@
+window.FI_SHARD_D06Q = {
+  "generatedAt": "2026-03-20T02:17:50.716Z",
+  "total": 9,
+  "entries": {
+    "D06Q": {
+      "code": "D06Q",
+      "level": 0,
+      "parent": null,
+      "ja": "",
+      "en": "",
+      "count": 0,
+      "ipcCode": "",
+      "fTerm": "DECORATING TEXTILES (textile threads, filaments, yarns or tow, glued on macromolecular material <b>D06N 7/00</b>)<b>[5]</b><br><br><b><u>Note(s)</u></b><br><br><ul type=\"\"1\"\"><li>In this subclass, the following term is used with the meaning indicated:<b>[5]</b><ul type=\"\"disc\"\"><li>&quot;decorating&quot; means &quot;local treatment&quot; or &quot;local effects produced&quot; as to change, e.g. optically, the appearance or the properties of textile materials.</li></ul></li><li>This subclass <u>does not cover</u> treatment of textiles by purely mechanical means, which is covered by subclasses <b>D06B-D06J</b>.</li></ul>",
+      "childFlag": 0,
+      "sourceFile": "fi_D.txt",
+      "kind": "fi"
+    },
+    "D06Q1/00\\": {
+      "code": "D06Q1/00\\",
+      "level": 0,
+      "parent": null,
+      "ja": "繊維製品の装飾［２００６．０１］",
+      "en": "Decorating textiles",
+      "count": 1400,
+      "ipcCode": "D06Q1/00",
+      "fTerm": "4L049",
+      "childFlag": 0,
+      "sourceFile": "fi_D06Q.txt",
+      "kind": "fi"
+    },
+    "D06Q1/02\\": {
+      "code": "D06Q1/02\\",
+      "level": 1,
+      "parent": "D06Q1/00\\",
+      "ja": "化学作用によってウエブの繊維を部分的に破壊または変性することにより模様を作るもの，例．半透明にするもの",
+      "en": "Producing patterns by locally destroying or modifying the fibres of a web by chemical actions, e.g. making translucent",
+      "count": 796,
+      "ipcCode": "D06Q1/02",
+      "fTerm": "4L049",
+      "childFlag": 1,
+      "sourceFile": "fi_D06Q.txt",
+      "kind": "fi"
+    },
+    "D06Q1/04\\": {
+      "code": "D06Q1/04\\",
+      "level": 1,
+      "parent": "D06Q1/00\\",
+      "ja": "金属処理によるもの（金属粒子の転写Ｄ０６Ｑ１／１２）［５］",
+      "en": "by metallising (transfer of metal particles D06Q 1/12) [5]",
+      "count": 303,
+      "ipcCode": "D06Q1/04",
+      "fTerm": "4L049",
+      "childFlag": 1,
+      "sourceFile": "fi_D06Q.txt",
+      "kind": "fi"
+    },
+    "D06Q1/06\\": {
+      "code": "D06Q1/06\\",
+      "level": 1,
+      "parent": "D06Q1/00\\",
+      "ja": "化学的手段を用いるパイル織物の部分的処理によるもの［５］",
+      "en": "by local treatment of pile fabrics with chemical means [5]",
+      "count": 68,
+      "ipcCode": "D06Q1/06",
+      "fTerm": "4L049",
+      "childFlag": 1,
+      "sourceFile": "fi_D06Q.txt",
+      "kind": "fi"
+    },
+    "D06Q1/08\\": {
+      "code": "D06Q1/08\\",
+      "level": 1,
+      "parent": "D06Q1/00\\",
+      "ja": "化学的手段を用いる機械的効果，例．カレンダー掛け，エンボスまたはチンツ効果，の固定によるもの［５］",
+      "en": "by fixation of mechanical effects, e.g. calendering, embossing or Chintz effects, using chemical means [5]",
+      "count": 59,
+      "ipcCode": "D06Q1/08",
+      "fTerm": "4L049",
+      "childFlag": 1,
+      "sourceFile": "fi_D06Q.txt",
+      "kind": "fi"
+    },
+    "D06Q1/10\\": {
+      "code": "D06Q1/10\\",
+      "level": 1,
+      "parent": "D06Q1/00\\",
+      "ja": "特定材料，例．雲母，ガラスビーズ，を用いる処理またはそれらの固定によるもの（金属処理によるものＤ０６Ｑ１／０４；転写によるものＤ０６Ｑ１／１２）［５］",
+      "en": "by treatment with, or fixation of, a particulate material, e.g. mica, glass beads (by metallising D06Q 1/04; by transferring D06Q 1/12) [5]",
+      "count": 341,
+      "ipcCode": "D06Q1/10",
+      "fTerm": "4L049",
+      "childFlag": 1,
+      "sourceFile": "fi_D06Q.txt",
+      "kind": "fi"
+    },
+    "D06Q1/12\\": {
+      "code": "D06Q1/12\\",
+      "level": 1,
+      "parent": "D06Q1/00\\",
+      "ja": "微粒子または他の形態の化学剤または金属性あるいは非金属材料を一時的な固体キャリアーから繊維製品に転写することによるもの［５］",
+      "en": "by transferring a chemical agent or a metallic or non-metallic material in particulate or other form, from a solid temporary carrier to the textile [5]",
+      "count": 120,
+      "ipcCode": "D06Q1/12",
+      "fTerm": "4L049",
+      "childFlag": 1,
+      "sourceFile": "fi_D06Q.txt",
+      "kind": "fi"
+    },
+    "D06Q1/14\\": {
+      "code": "D06Q1/14\\",
+      "level": 2,
+      "parent": "D06Q1/12\\",
+      "ja": "繊維または繊維用接着剤を繊維製品に転写することによるもの［５］",
+      "en": "by transferring fibres, or adhesives for fibres, to the textile [5]",
+      "count": 105,
+      "ipcCode": "D06Q1/14",
+      "fTerm": "4L049",
+      "childFlag": 2,
+      "sourceFile": "fi_D06Q.txt",
+      "kind": "fi"
+    }
+  }
+};

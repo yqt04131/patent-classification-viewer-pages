@@ -1,0 +1,326 @@
+{
+  "generatedAt": "2026-03-20T02:17:46.942Z",
+  "total": 32,
+  "entries": {
+    "F28G": {
+      "code": "F28G",
+      "level": 0,
+      "parent": "F28",
+      "ja": "熱交換管または熱伝達管，例．ボイラの水管，の内面または外面の清掃（パイプまたはチューブの清掃一般Ｂ０８Ｂ９／０２；ボイラが作動中にボイラから水，無機物，またはスラッジを除去する機器または装置，またはボイラが運転されている間所定位置にとどまる同上の機器または装置，または他のどのような効用も伴わないボイラーに特に適用された同上の機器または装置Ｆ２２Ｂ３７／４８；燃焼生成物または燃焼残滓の除去または処理Ｆ２３Ｊ；熱交換装置からの氷の除去Ｆ２８Ｆ１７／００）<br><br><b><ul>サブクラス内の索引</ul></b><br>清掃の機器：非回転；回転；その他；細部　１／００；３／００；１３／００；１５／００<br>清掃の方法：ねじり；振動；フラッシングまたは洗浄；燃焼によるもの；その他　５／００；７／００；９／００；１１／００；１３／００<br>方法の組み合わせ　１３／００",
+      "en": "CLEANING OF INTERNAL OR EXTERNAL SURFACES OF HEAT-EXCHANGE OR HEAT-TRANSFER CONDUITS, e.g. WATER TUBES OF BOILERS(cleaning pipes or tubes in general <b>B08B9/02</b>; devices or arrangements for removing water, minerals, or sludge from boilers while the boiler is in operation, or which remain in position while the boiler is in operation, or are specifically adapted to boilers without any other utility <b>F22B37/48</b>; removal or treatment of combustion products or combustion residues <b>F23J</b>; removing ice from heat-exchange apparatus <b>F28F17/00</b>);<br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">APPLIANCES FOR CLEANING: NON-ROTARY; ROTARY; OTHERS; DETAILS </td><td><b><b>1/00</b>; <b>3/00</b>; <b>13/00</b>; <b>15/00</b></b></td></tr></tr><tr><td width=\"70%\">CLEANING PROCESSES BY: DISTORTION; VIBRATION; FLUSHING OR WASHING; COMBUSTION; OTHERS </td><td><b><b>5/00</b>; <b>7/00</b>; <b>9/00</b>; <b>11/00</b>; <b>13/00</b></b></td></tr></tr><tr><td width=\"70%\">COMBINATION OF PROCESSES </td><td><b><b>13/00</b></b></td></tr></tr></table>",
+      "count": 117,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F28": {
+      "code": "F28",
+      "level": 0,
+      "parent": "F",
+      "ja": "熱交換一般<br><br><b><ul>注</ul></b><br>（１）このクラスにおいては，下記の表現は以下に示す意味で用いる：<br>―“熱交換”とは，加熱または冷却流体または流動固体との直接または間接の接触によって，流体または流動固体を加熱または冷却することを意味する；<br>―“熱伝達”とは，加熱または冷却された表面または物体との直接接触によって，流体または流動固体を加熱または冷却することを意味する。<br>（２）熱交換または熱伝達（注（１）に規定されているような）を特別な目的に対して用いる装置は，サブクラスＦ２８Ｂ，または，たとえばクラスＦ２２，Ｆ２４，Ｆ２５，Ｆ２６またはＦ２７内の適当なサブクラスに分類される；これらのサブクラスが適当でない場合には，そのような装置は，Ｆ２８ＣまたはＤに分類される。",
+      "en": "HEAT EXCHANGE IN GENERAL; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this class, the following expressions are used with the meanings indicated:<ul><li>\"heat exchange\" means the heating or cooling of a fluid or fluent solid by direct or indirect contact with a heated or cooled fluid or fluent solid;</li><li>\"heat transfer\" means the heating or cooling of a fluid or fluent solid by direct contact with a heated or cooled surface or body.</li></ul></li><li>Apparatus using heat exchange or heat transfer (as defined in Note (1) above) for specific purposes is classified either in subclass <b>F28B</b> or in the appropriate subclasses of, for example, classes <b>F22</b>, <b>F24</b>, <b>F25</b>, <b>F26</b>, or <b>F27</b>; if no such other subclass is appropriate, such apparatus is classified in subclass <b>F28C</b> or <b>F28D</b>.</li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F": {
+      "code": "F",
+      "level": 0,
+      "parent": null,
+      "ja": "機械工学；照明；加熱；武器；爆破",
+      "en": "MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F28G1/00": {
+      "code": "F28G1/00",
+      "level": 0,
+      "parent": "F28G",
+      "ja": "非回転，例．往復動，機器（Ｆ２８Ｇ３／００が優先）",
+      "en": "Non-rotary, e.g. reciprocated, appliances(<b>F28G3/00</b> takes precedence)",
+      "count": 824,
+      "sourceFile": "ipc_F28G.txt",
+      "kind": "ipc"
+    },
+    "F28G1/02": {
+      "code": "F28G1/02",
+      "level": 1,
+      "parent": "F28G1/00",
+      "ja": "はけをもつもの（はけＡ４６Ｂ）",
+      "en": "having brushes(brushes <b>A46B</b>)",
+      "count": 2220,
+      "sourceFile": "ipc_F28G.txt",
+      "kind": "ipc"
+    },
+    "F28G1/04": {
+      "code": "F28G1/04",
+      "level": 1,
+      "parent": "F28G1/00",
+      "ja": "関節のある道具をもつもの，例．鎖状に組み立てられたもの",
+      "en": "having articulated tools, e.g. assembled in chain manner",
+      "count": 72,
+      "sourceFile": "ipc_F28G.txt",
+      "kind": "ipc"
+    },
+    "F28G1/06": {
+      "code": "F28G1/06",
+      "level": 1,
+      "parent": "F28G1/00",
+      "ja": "コイル状針金道具をもつもの，すなわちかご形",
+      "en": "having coiled wire tools, i.e. basket type",
+      "count": 74,
+      "sourceFile": "ipc_F28G.txt",
+      "kind": "ipc"
+    },
+    "F28G1/08": {
+      "code": "F28G1/08",
+      "level": 1,
+      "parent": "F28G1/00",
+      "ja": "スクレーパ，ハンマまたはカッタをもつもの，例．固定的に取り付けたもの",
+      "en": "having scrapers, hammers, or cutters, e.g. rigidly mounted",
+      "count": 2148,
+      "sourceFile": "ipc_F28G.txt",
+      "kind": "ipc"
+    },
+    "F28G1/10": {
+      "code": "F28G1/10",
+      "level": 2,
+      "parent": "F28G1/08",
+      "ja": "弾性的に取り付けたもの",
+      "en": "resiliently mounted",
+      "count": 118,
+      "sourceFile": "ipc_F28G.txt",
+      "kind": "ipc"
+    },
+    "F28G1/12": {
+      "code": "F28G1/12",
+      "level": 1,
+      "parent": "F28G1/00",
+      "ja": "流体推進スクレーパ，弾丸または固体様のもの",
+      "en": "Fluid-propelled scrapers, bullets, or like solid bodies",
+      "count": 2938,
+      "sourceFile": "ipc_F28G.txt",
+      "kind": "ipc"
+    },
+    "F28G1/14": {
+      "code": "F28G1/14",
+      "level": 1,
+      "parent": "F28G1/00",
+      "ja": "引き通し棒",
+      "en": "Pull-through rods",
+      "count": 74,
+      "sourceFile": "ipc_F28G.txt",
+      "kind": "ipc"
+    },
+    "F28G1/16": {
+      "code": "F28G1/16",
+      "level": 1,
+      "parent": "F28G1/00",
+      "ja": "くずを除去するため流体噴射を用いるもの（Ｆ２８Ｇ１／１２が優先）",
+      "en": "using jets of fluid for removing debris(<b>F28G1/12</b> takes precedence)",
+      "count": 3385,
+      "sourceFile": "ipc_F28G.txt",
+      "kind": "ipc"
+    },
+    "F28G3/00": {
+      "code": "F28G3/00",
+      "level": 0,
+      "parent": "F28G",
+      "ja": "回転機器",
+      "en": "Rotary appliances",
+      "count": 523,
+      "sourceFile": "ipc_F28G.txt",
+      "kind": "ipc"
+    },
+    "F28G3/02": {
+      "code": "F28G3/02",
+      "level": 1,
+      "parent": "F28G3/00",
+      "ja": "研摩具をもつもの",
+      "en": "having abrasive tools",
+      "count": 74,
+      "sourceFile": "ipc_F28G.txt",
+      "kind": "ipc"
+    },
+    "F28G3/04": {
+      "code": "F28G3/04",
+      "level": 1,
+      "parent": "F28G3/00",
+      "ja": "はけをもつもの（はけＡ４６Ｂ）",
+      "en": "having brushes(brushes <b>A46B</b>)",
+      "count": 1656,
+      "sourceFile": "ipc_F28G.txt",
+      "kind": "ipc"
+    },
+    "F28G3/06": {
+      "code": "F28G3/06",
+      "level": 1,
+      "parent": "F28G3/00",
+      "ja": "関節のある道具をもつもの，例．鎖状に組み立てられたもの",
+      "en": "having articulated tools, e.g. assembled in chain manner",
+      "count": 34,
+      "sourceFile": "ipc_F28G.txt",
+      "kind": "ipc"
+    },
+    "F28G3/08": {
+      "code": "F28G3/08",
+      "level": 1,
+      "parent": "F28G3/00",
+      "ja": "コイル状針金道具をもつもの，すなわちかご形",
+      "en": "having coiled wire tools, i.e. basket type",
+      "count": 56,
+      "sourceFile": "ipc_F28G.txt",
+      "kind": "ipc"
+    },
+    "F28G3/10": {
+      "code": "F28G3/10",
+      "level": 1,
+      "parent": "F28G3/00",
+      "ja": "スクレーパ，ハンマまたはカッタをもつもの，例．固定的に取り付けたもの",
+      "en": "having scrapers, hammers, or cutters, e.g. rigidly mounted",
+      "count": 1403,
+      "sourceFile": "ipc_F28G.txt",
+      "kind": "ipc"
+    },
+    "F28G3/12": {
+      "code": "F28G3/12",
+      "level": 2,
+      "parent": "F28G3/10",
+      "ja": "弾性的に取り付けたもの",
+      "en": "resiliently mounted",
+      "count": 103,
+      "sourceFile": "ipc_F28G.txt",
+      "kind": "ipc"
+    },
+    "F28G3/14": {
+      "code": "F28G3/14",
+      "level": 2,
+      "parent": "F28G3/10",
+      "ja": "遠心力により動作位置に投入されるもの",
+      "en": "thrown into working position by centrifugal force",
+      "count": 197,
+      "sourceFile": "ipc_F28G.txt",
+      "kind": "ipc"
+    },
+    "F28G3/16": {
+      "code": "F28G3/16",
+      "level": 1,
+      "parent": "F28G3/00",
+      "ja": "くずを除去するための流体噴射を用いるもの",
+      "en": "using jets of fluid for removing debris",
+      "count": 1296,
+      "sourceFile": "ipc_F28G.txt",
+      "kind": "ipc"
+    },
+    "F28G5/00": {
+      "code": "F28G5/00",
+      "level": 0,
+      "parent": "F28G",
+      "ja": "ねじりによる清掃（振動によるものＦ２８Ｇ７／００）",
+      "en": "Cleaning by distortion(by vibration <b>F28G7/00</b>)",
+      "count": 105,
+      "sourceFile": "ipc_F28G.txt",
+      "kind": "ipc"
+    },
+    "F28G7/00": {
+      "code": "F28G7/00",
+      "level": 0,
+      "parent": "F28G",
+      "ja": "振動による清掃",
+      "en": "Cleaning by vibration",
+      "count": 2139,
+      "sourceFile": "ipc_F28G.txt",
+      "kind": "ipc"
+    },
+    "F28G9/00": {
+      "code": "F28G9/00",
+      "level": 0,
+      "parent": "F28G",
+      "ja": "フラッシングまたは洗浄による清掃，例．化学的溶剤による（くずを除去するため流体噴射を用いる機器Ｆ２８Ｇ１／１６，Ｆ２８Ｇ３／１６）",
+      "en": "Cleaning by flushing or washing, e.g. with chemical solvents(appliances using jets of fluid for removing debris <b>F28G1/16</b>, <b>F28G3/16</b>)",
+      "count": 11283,
+      "sourceFile": "ipc_F28G.txt",
+      "kind": "ipc"
+    },
+    "F28G11/00": {
+      "code": "F28G11/00",
+      "level": 0,
+      "parent": "F28G",
+      "ja": "燃焼法による清掃，例．爆竹（ｓｑｕｉｂｓ）を用いるもの，移動バーナを用いるもの",
+      "en": "Cleaning by combustion processes, e.g. using squibs, using travelling burners",
+      "count": 172,
+      "sourceFile": "ipc_F28G.txt",
+      "kind": "ipc"
+    },
+    "F28G13/00": {
+      "code": "F28G13/00",
+      "level": 0,
+      "parent": "F28G",
+      "ja": "グループＦ２８Ｇ１／００～Ｆ２８Ｇ１１／００に包含されない機器または方法；グループＦ２８Ｇ１／００～Ｆ２８Ｇ１１／００に包含される機器または方法の組み合わせ",
+      "en": "Appliances or processes not covered by groups <b>F28G1/00 to F28G11/00</b> ; Combinations of appliances or processes covered by groups <b>F28G1/00 to F28G11/00</b> ",
+      "count": 2709,
+      "sourceFile": "ipc_F28G.txt",
+      "kind": "ipc"
+    },
+    "F28G15/00": {
+      "code": "F28G15/00",
+      "level": 0,
+      "parent": "F28G",
+      "ja": "細部（沈積物の厚さの測定Ｇ０１Ｂ）",
+      "en": "Details(measuring thickness of deposit <b>G01B</b>)",
+      "count": 5711,
+      "sourceFile": "ipc_F28G.txt",
+      "kind": "ipc"
+    },
+    "F28G15/02": {
+      "code": "F28G15/02",
+      "level": 1,
+      "parent": "F28G15/00",
+      "ja": "清掃具の支持装置，例．フレーム",
+      "en": "Supports for cleaning appliances, e.g. frames",
+      "count": 1321,
+      "sourceFile": "ipc_F28G.txt",
+      "kind": "ipc"
+    },
+    "F28G15/04": {
+      "code": "F28G15/04",
+      "level": 1,
+      "parent": "F28G15/00",
+      "ja": "供給または駆動装置，例．動力駆動",
+      "en": "Feeding or driving arrangements, e.g. power operation",
+      "count": 4444,
+      "sourceFile": "ipc_F28G.txt",
+      "kind": "ipc"
+    },
+    "F28G15/06": {
+      "code": "F28G15/06",
+      "level": 2,
+      "parent": "F28G15/04",
+      "ja": "自動的逆動装置",
+      "en": "Automatic reversing devices",
+      "count": 488,
+      "sourceFile": "ipc_F28G.txt",
+      "kind": "ipc"
+    },
+    "F28G15/08": {
+      "code": "F28G15/08",
+      "level": 1,
+      "parent": "F28G15/00",
+      "ja": "導管内の清掃具の配置場所",
+      "en": "Locating position of cleaning appliances within conduits",
+      "count": 131,
+      "sourceFile": "ipc_F28G.txt",
+      "kind": "ipc"
+    },
+    "F28G15/10": {
+      "code": "F28G15/10",
+      "level": 1,
+      "parent": "F28G15/00",
+      "ja": "被清掃面の境界を定めるための覆い",
+      "en": "Masks for delimiting area to be cleaned",
+      "count": 81,
+      "sourceFile": "ipc_F28G.txt",
+      "kind": "ipc"
+    }
+  }
+}

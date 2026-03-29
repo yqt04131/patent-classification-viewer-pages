@@ -1,0 +1,656 @@
+window.IPC_SHARD_F03D = {
+  "generatedAt": "2026-03-20T02:17:46.813Z",
+  "total": 65,
+  "entries": {
+    "F03D": {
+      "code": "F03D",
+      "level": 0,
+      "parent": "F03",
+      "ja": "風力原動機<br><br><b><ul>注</ul></b><br>（１）このサブクラスは風力原動機，すなわち風力のエネルギーを有用な機械的動力に変換するための機構と，その使用目的のための変換された動力の伝達，を包含する。［２０１２．０１］<br>（２）このサブクラスは電力の発電または風力発電所の配電の観点は包含しない。それらはセクションＨ，例．Ｈ０２ＪまたはＨ０２Ｐ，に包含される。［２０１２．０１］<br>（３）このサブクラスにおいては，下記の用語または表現は以下に示す意味で用いる：<br>―“回転子”は風力原動機において風力の作用する部品とそれらを保持する回転部材を意味する；<br>―“回転軸”は回転子の回転軸を意味する。",
+      "en": "WIND MOTORS; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This subclass <u>covers</u> wind motors, i.e. mechanisms for converting the energy of wind into useful mechanical power, and the transmission of such power to its point of use.</li><li>This subclass <u>does not cover</u> electrical power generation or distribution aspects of wind-power plants, which are covered by section <b>H</b>, e.g. <b>H02J</b> or <b>H02P</b>.</li><li>In this subclass, the following terms or expressions are used with the meanings indicated: <ul><li>\"rotor\" means the wind-engaging parts of the wind motor and the rotary member carrying them;</li><li>\"rotation axis\" means the axis of rotation of the rotor.</li></ul></li></ul>",
+      "count": 1128,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F03": {
+      "code": "F03",
+      "level": 0,
+      "parent": "F",
+      "ja": "液体用機械または機関；風力原動機，ばね原動機，重力原動機；他類に属さない機械動力または反動推進力を発生するもの",
+      "en": "MACHINES OR ENGINES FOR LIQUIDS; WIND, SPRING, OR WEIGHT MOTORS; PRODUCING MECHANICAL POWER OR A REACTIVE PROPULSIVE THRUST, NOT OTHERWISE PROVIDED FOR",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F": {
+      "code": "F",
+      "level": 0,
+      "parent": null,
+      "ja": "機械工学；照明；加熱；武器；爆破",
+      "en": "MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F03D1/00": {
+      "code": "F03D1/00",
+      "level": 0,
+      "parent": "F03D",
+      "ja": "回転子に流れ込む空気の流れと実質的に平行な回転軸をもつ風力原動機（その制御Ｆ０３Ｄ７／０２）",
+      "en": "Wind motors with rotation axis substantially parallel to the air flow entering the rotor(controlling thereof <b>F03D7/02</b>)",
+      "count": 5824,
+      "sourceFile": "ipc_F03D.txt",
+      "kind": "ipc"
+    },
+    "F03D1/02": {
+      "code": "F03D1/02",
+      "level": 1,
+      "parent": "F03D1/00",
+      "ja": "多数の回転子をもつもの",
+      "en": "having a plurality of rotors",
+      "count": 3183,
+      "sourceFile": "ipc_F03D.txt",
+      "kind": "ipc"
+    },
+    "F03D1/04": {
+      "code": "F03D1/04",
+      "level": 1,
+      "parent": "F03D1/00",
+      "ja": "固定的風力誘導手段をもつもの，例．側板またはみぞをもつもの（Ｆ０３Ｄ９／３５が優先）",
+      "en": "having stationary wind-guiding means, e.g. with shrouds or channels(<b>F03D9/35</b> takes precedence)",
+      "count": 4451,
+      "sourceFile": "ipc_F03D.txt",
+      "kind": "ipc"
+    },
+    "F03D1/06": {
+      "code": "F03D1/06",
+      "level": 1,
+      "parent": "F03D1/00",
+      "ja": "回転子",
+      "en": "Rotors",
+      "count": 16189,
+      "sourceFile": "ipc_F03D.txt",
+      "kind": "ipc"
+    },
+    "F03D3/00": {
+      "code": "F03D3/00",
+      "level": 0,
+      "parent": "F03D",
+      "ja": "回転子に流れ込む空気の流れと実質的に垂直な回転軸をもつ風力原動機（その制御Ｆ０３Ｄ７／０６）",
+      "en": "Wind motors with rotation axis substantially perpendicular to the air flow entering the rotor(controlling thereof <b>F03D7/06</b>)",
+      "count": 8377,
+      "sourceFile": "ipc_F03D.txt",
+      "kind": "ipc"
+    },
+    "F03D3/02": {
+      "code": "F03D3/02",
+      "level": 1,
+      "parent": "F03D3/00",
+      "ja": "多数の回転子をもつもの",
+      "en": "having a plurality of rotors",
+      "count": 3751,
+      "sourceFile": "ipc_F03D.txt",
+      "kind": "ipc"
+    },
+    "F03D3/04": {
+      "code": "F03D3/04",
+      "level": 1,
+      "parent": "F03D3/00",
+      "ja": "固定的風力誘導手段をもつもの，例．側板またはみぞをもつもの（Ｆ０３Ｄ９／３５が優先）",
+      "en": "having stationary wind-guiding means, e.g. with shrouds or channels(<b>F03D9/35</b> takes precedence)",
+      "count": 5806,
+      "sourceFile": "ipc_F03D.txt",
+      "kind": "ipc"
+    },
+    "F03D3/06": {
+      "code": "F03D3/06",
+      "level": 1,
+      "parent": "F03D3/00",
+      "ja": "回転子",
+      "en": "Rotors",
+      "count": 14543,
+      "sourceFile": "ipc_F03D.txt",
+      "kind": "ipc"
+    },
+    "F03D5/00": {
+      "code": "F03D5/00",
+      "level": 0,
+      "parent": "F03D",
+      "ja": "他の風力原動機（その制御Ｆ０３Ｄ７／００）",
+      "en": "Other wind motors(controlling thereof <b>F03D7/00</b>)",
+      "count": 2120,
+      "sourceFile": "ipc_F03D.txt",
+      "kind": "ipc"
+    },
+    "F03D5/02": {
+      "code": "F03D5/02",
+      "level": 1,
+      "parent": "F03D5/00",
+      "ja": "無限鎖帯またはそれに類するものに取り付けられている風力を働かせる部品",
+      "en": "the wind-engaging parts being attached to endless chains or the like",
+      "count": 585,
+      "sourceFile": "ipc_F03D.txt",
+      "kind": "ipc"
+    },
+    "F03D5/04": {
+      "code": "F03D5/04",
+      "level": 1,
+      "parent": "F03D5/00",
+      "ja": "軌道上を走行する架台またはそれに類するものに取り付けられている風力を働かせる部品",
+      "en": "the wind-engaging parts being attached to carriages running on tracks or the like",
+      "count": 453,
+      "sourceFile": "ipc_F03D.txt",
+      "kind": "ipc"
+    },
+    "F03D5/06": {
+      "code": "F03D5/06",
+      "level": 1,
+      "parent": "F03D5/00",
+      "ja": "回転しないで前後方向に揺動して風力を働かせる部品",
+      "en": "the wind-engaging parts swinging to-and-fro and not rotating",
+      "count": 914,
+      "sourceFile": "ipc_F03D.txt",
+      "kind": "ipc"
+    },
+    "F03D7/00": {
+      "code": "F03D7/00",
+      "level": 0,
+      "parent": "F03D",
+      "ja": "風力原動機の制御（電力給電または電力配電Ｈ０２Ｊ，例．回路網内の無効電力を調整，除去，補償するための装置Ｈ０２Ｊ３／１８；発電機の制御Ｈ０２Ｐ，例．所望出力を得るための発電機制御装置Ｈ０２Ｐ９／００）",
+      "en": "Controlling wind motors(supplying or distributing electrical power <b>H02J</b>, e.g. arrangements for adjusting, eliminating or compensating reactive power in networks <b>H02J3/18</b>; controlling electric generators <b>H02P</b>, e.g. arrangements for controlling electric generators for the purpose of obtaining a desired output <b>H02P9/00</b>)",
+      "count": 8407,
+      "sourceFile": "ipc_F03D.txt",
+      "kind": "ipc"
+    },
+    "F03D7/02": {
+      "code": "F03D7/02",
+      "level": 1,
+      "parent": "F03D7/00",
+      "ja": "回転子に流れ込む空気の流れと実質的に平行な回転軸をもつ風力原動機",
+      "en": "the wind motors having rotation axis substantially parallel to the air flow entering the rotor",
+      "count": 12326,
+      "sourceFile": "ipc_F03D.txt",
+      "kind": "ipc"
+    },
+    "F03D7/04": {
+      "code": "F03D7/04",
+      "level": 2,
+      "parent": "F03D7/02",
+      "ja": "自動制御；調整",
+      "en": "Automatic control; Regulation",
+      "count": 9960,
+      "sourceFile": "ipc_F03D.txt",
+      "kind": "ipc"
+    },
+    "F03D7/06": {
+      "code": "F03D7/06",
+      "level": 1,
+      "parent": "F03D7/00",
+      "ja": "回転子に流れ込む空気の流れと実質的に垂直な回転軸をもつ風力原動機",
+      "en": "the wind motors having rotation axis substantially perpendicular to the air flow entering the rotor",
+      "count": 4798,
+      "sourceFile": "ipc_F03D.txt",
+      "kind": "ipc"
+    },
+    "F03D9/00": {
+      "code": "F03D9/00",
+      "level": 0,
+      "parent": "F03D",
+      "ja": "風力原動機の特殊用途への適応；風力原動機とそれにより駆動される装置との組み合わせ；特殊な場所に設置するために特に適合した風力原動機（電力生成のためのハイブリッド風力―光起電力エネルギーシステムＨ０２Ｓ１０／１２）［１，２０１６．０１］",
+      "en": "Adaptations of wind motors for special use; Combinations of wind motors with apparatus driven thereby; Wind motors specially adapted for installation in particular locations(hybrid wind-photovoltaic energy systems for the generation of electric power <b>H02S10/12</b>)",
+      "count": 18401,
+      "sourceFile": "ipc_F03D.txt",
+      "kind": "ipc"
+    },
+    "F03D9/10": {
+      "code": "F03D9/10",
+      "level": 1,
+      "parent": "F03D9/00",
+      "ja": "動力をたくわえる装置と風力原動機の組み合わせ［２０１６．０１］",
+      "en": "Combinations of wind motors with apparatus storing energy",
+      "count": 480,
+      "sourceFile": "ipc_F03D.txt",
+      "kind": "ipc"
+    },
+    "F03D9/11": {
+      "code": "F03D9/11",
+      "level": 2,
+      "parent": "F03D9/10",
+      "ja": "電気的エネルギーをたくわえるもの［２０１６．０１］",
+      "en": "storing electrical energy",
+      "count": 7945,
+      "sourceFile": "ipc_F03D.txt",
+      "kind": "ipc"
+    },
+    "F03D9/12": {
+      "code": "F03D9/12",
+      "level": 2,
+      "parent": "F03D9/10",
+      "ja": "運動エネルギーをたくわえるもの，例．はずみ車を使用するもの［２０１６．０１］",
+      "en": "storing kinetic energy, e.g. using flywheels",
+      "count": 307,
+      "sourceFile": "ipc_F03D.txt",
+      "kind": "ipc"
+    },
+    "F03D9/13": {
+      "code": "F03D9/13",
+      "level": 2,
+      "parent": "F03D9/10",
+      "ja": "重力的潜在エネルギーをたくわえるもの［２０１６．０１］",
+      "en": "storing gravitational potential energy",
+      "count": 35,
+      "sourceFile": "ipc_F03D.txt",
+      "kind": "ipc"
+    },
+    "F03D9/14": {
+      "code": "F03D9/14",
+      "level": 3,
+      "parent": "F03D9/13",
+      "ja": "液体を使用するもの［２０１６．０１］",
+      "en": "using liquids",
+      "count": 207,
+      "sourceFile": "ipc_F03D.txt",
+      "kind": "ipc"
+    },
+    "F03D9/16": {
+      "code": "F03D9/16",
+      "level": 3,
+      "parent": "F03D9/13",
+      "ja": "重りを使用するもの［２０１６．０１］",
+      "en": "using weights",
+      "count": 121,
+      "sourceFile": "ipc_F03D.txt",
+      "kind": "ipc"
+    },
+    "F03D9/17": {
+      "code": "F03D9/17",
+      "level": 2,
+      "parent": "F03D9/10",
+      "ja": "加圧流体内にエネルギーをたくわえるもの［２０１６．０１］",
+      "en": "storing energy in pressurised fluids",
+      "count": 869,
+      "sourceFile": "ipc_F03D.txt",
+      "kind": "ipc"
+    },
+    "F03D9/18": {
+      "code": "F03D9/18",
+      "level": 2,
+      "parent": "F03D9/10",
+      "ja": "熱をたくわえるもの［２０１６．０１］",
+      "en": "storing heat",
+      "count": 312,
+      "sourceFile": "ipc_F03D.txt",
+      "kind": "ipc"
+    },
+    "F03D9/19": {
+      "code": "F03D9/19",
+      "level": 2,
+      "parent": "F03D9/10",
+      "ja": "化学的エネルギーをたくわえるもの，例．電気分解を使用するもの［２０１６．０１］",
+      "en": "storing chemical energy, e.g. using electrolysis",
+      "count": 397,
+      "sourceFile": "ipc_F03D.txt",
+      "kind": "ipc"
+    },
+    "F03D9/20": {
+      "code": "F03D9/20",
+      "level": 1,
+      "parent": "F03D9/00",
+      "ja": "駆動される装置により特徴付けられる風力原動機（Ｆ０３Ｄ９／１０が優先）［２０１６．０１］",
+      "en": "Wind motors characterised by the driven apparatus(<b>F03D9/10</b> takes precedence)",
+      "count": 1184,
+      "sourceFile": "ipc_F03D.txt",
+      "kind": "ipc"
+    },
+    "F03D9/22": {
+      "code": "F03D9/22",
+      "level": 2,
+      "parent": "F03D9/20",
+      "ja": "熱を発生させる装置［２０１６．０１］",
+      "en": "the apparatus producing heat",
+      "count": 313,
+      "sourceFile": "ipc_F03D.txt",
+      "kind": "ipc"
+    },
+    "F03D9/25": {
+      "code": "F03D9/25",
+      "level": 2,
+      "parent": "F03D9/20",
+      "ja": "装置が電気的発電機であるもの（Ｆ０３Ｄ９／２２が優先）［２０１６．０１］",
+      "en": "the apparatus being an electrical generator(<b>F03D9/22</b> takes precedence)",
+      "count": 18019,
+      "sourceFile": "ipc_F03D.txt",
+      "kind": "ipc"
+    },
+    "F03D9/28": {
+      "code": "F03D9/28",
+      "level": 2,
+      "parent": "F03D9/20",
+      "ja": "装置がポンプまたは圧縮機であるもの［２０１６．０１］",
+      "en": "the apparatus being a pump or a compressor",
+      "count": 1390,
+      "sourceFile": "ipc_F03D.txt",
+      "kind": "ipc"
+    },
+    "F03D9/30": {
+      "code": "F03D9/30",
+      "level": 1,
+      "parent": "F03D9/00",
+      "ja": "特殊な場所に設置するために特に適合した風力原動機（風力原動機を取付または支持する手段Ｆ０３Ｄ１３／２０）［２０１６．０１］",
+      "en": "Wind motors specially adapted for installation in particular locations(means for mounting or supporting wind motors <b>F03D13/20</b>)",
+      "count": 890,
+      "sourceFile": "ipc_F03D.txt",
+      "kind": "ipc"
+    },
+    "F03D9/32": {
+      "code": "F03D9/32",
+      "level": 2,
+      "parent": "F03D9/30",
+      "ja": "移動物体に設置するもの，例．車両［２０１６．０１］",
+      "en": "on moving objects, e.g. vehicles",
+      "count": 3320,
+      "sourceFile": "ipc_F03D.txt",
+      "kind": "ipc"
+    },
+    "F03D9/34": {
+      "code": "F03D9/34",
+      "level": 2,
+      "parent": "F03D9/30",
+      "ja": "静止物体または静止人工構造物に設置するもの［２０１６．０１］",
+      "en": "on stationary objects or on stationary man-made structures",
+      "count": 953,
+      "sourceFile": "ipc_F03D.txt",
+      "kind": "ipc"
+    },
+    "F03D9/35": {
+      "code": "F03D9/35",
+      "level": 3,
+      "parent": "F03D9/34",
+      "ja": "塔内に設置するもの，例．煙突効果を利用するもの［２０１６．０１］",
+      "en": "within towers, e.g. using chimney effects",
+      "count": 294,
+      "sourceFile": "ipc_F03D.txt",
+      "kind": "ipc"
+    },
+    "F03D9/37": {
+      "code": "F03D9/37",
+      "level": 4,
+      "parent": "F03D9/35",
+      "ja": "塔内の空気の流れを促進する手段を伴うもの，例．加熱によるもの［２０１６．０１］",
+      "en": "with means for enhancing the air flow within the tower, e.g. by heating",
+      "count": 414,
+      "sourceFile": "ipc_F03D.txt",
+      "kind": "ipc"
+    },
+    "F03D9/39": {
+      "code": "F03D9/39",
+      "level": 5,
+      "parent": "F03D9/37",
+      "ja": "循環または渦形成によるもの［２０１６．０１］",
+      "en": "by circulation or vortex formation",
+      "count": 61,
+      "sourceFile": "ipc_F03D.txt",
+      "kind": "ipc"
+    },
+    "F03D9/41": {
+      "code": "F03D9/41",
+      "level": 5,
+      "parent": "F03D9/37",
+      "ja": "塔外の風の利用によるもの，例．エジェクタを使用するもの［２０１６．０１］",
+      "en": "by using the wind outside the tower, e.g. using ejectors",
+      "count": 67,
+      "sourceFile": "ipc_F03D.txt",
+      "kind": "ipc"
+    },
+    "F03D9/43": {
+      "code": "F03D9/43",
+      "level": 3,
+      "parent": "F03D9/34",
+      "ja": "主に他の目的のために使用される基本的施設を使用，例．鉄道電力線の柱［２０１６．０１］",
+      "en": "using infrastructure primarily used for other purposes, e.g. masts for overhead railway power lines",
+      "count": 1118,
+      "sourceFile": "ipc_F03D.txt",
+      "kind": "ipc"
+    },
+    "F03D9/45": {
+      "code": "F03D9/45",
+      "level": 4,
+      "parent": "F03D9/43",
+      "ja": "ビル構成物［２０１６．０１］",
+      "en": "Building formations",
+      "count": 719,
+      "sourceFile": "ipc_F03D.txt",
+      "kind": "ipc"
+    },
+    "F03D9/46": {
+      "code": "F03D9/46",
+      "level": 4,
+      "parent": "F03D9/43",
+      "ja": "トンネルまたは街路［２０１６．０１］",
+      "en": "Tunnels or streets",
+      "count": 540,
+      "sourceFile": "ipc_F03D.txt",
+      "kind": "ipc"
+    },
+    "F03D9/48": {
+      "code": "F03D9/48",
+      "level": 2,
+      "parent": "F03D9/30",
+      "ja": "景観地形を使用するもの，例．谷［２０１６．０１］",
+      "en": "using landscape topography, e.g. valleys",
+      "count": 99,
+      "sourceFile": "ipc_F03D.txt",
+      "kind": "ipc"
+    },
+    "F03D13/00": {
+      "code": "F03D13/00",
+      "level": 0,
+      "parent": "F03D",
+      "ja": "風力原動機の組立，取付または立ち上げ；風力原動機の構成部品の運搬に特に適合する配置［２０１６．０１］",
+      "en": "Assembly, mounting or commissioning of wind motors; Arrangements specially adapted for transporting wind motor components",
+      "count": 586,
+      "sourceFile": "ipc_F03D.txt",
+      "kind": "ipc"
+    },
+    "F03D13/10": {
+      "code": "F03D13/10",
+      "level": 1,
+      "parent": "F03D13/00",
+      "ja": "風力原動機の組立；風力原動機を立ち上げるための調整［２０１６．０１］",
+      "en": "Assembly of wind motors; Arrangements for erecting wind motors",
+      "count": 5829,
+      "sourceFile": "ipc_F03D.txt",
+      "kind": "ipc"
+    },
+    "F03D13/20": {
+      "code": "F03D13/20",
+      "level": 1,
+      "parent": "F03D13/00",
+      "ja": "風力原動機を取付または支持するための手段；風力原動機のための柱または塔［２０１６．０１］",
+      "en": "Arrangements for mounting or supporting wind motors; Masts or towers for wind motors",
+      "count": 13256,
+      "sourceFile": "ipc_F03D.txt",
+      "kind": "ipc"
+    },
+    "F03D13/25": {
+      "code": "F03D13/25",
+      "level": 2,
+      "parent": "F03D13/20",
+      "ja": "洋上に設置するために特徴づけられるもの［２０１６．０１］",
+      "en": "specially adapted for offshore installation",
+      "count": 5764,
+      "sourceFile": "ipc_F03D.txt",
+      "kind": "ipc"
+    },
+    "F03D13/30": {
+      "code": "F03D13/30",
+      "level": 1,
+      "parent": "F03D13/00",
+      "ja": "立ち上げ，例．製造開始前の検査，試験または最終調整［２０１６．０１］",
+      "en": "Commissioning, e.g. inspection, testing or final adjustment before releasing for production",
+      "count": 242,
+      "sourceFile": "ipc_F03D.txt",
+      "kind": "ipc"
+    },
+    "F03D13/35": {
+      "code": "F03D13/35",
+      "level": 2,
+      "parent": "F03D13/30",
+      "ja": "静的または動的不均衡のバランス調整［２０１６．０１］",
+      "en": "Balancing static or dynamic imbalances",
+      "count": 89,
+      "sourceFile": "ipc_F03D.txt",
+      "kind": "ipc"
+    },
+    "F03D13/40": {
+      "code": "F03D13/40",
+      "level": 1,
+      "parent": "F03D13/00",
+      "ja": "風力原動機の構成部品を運搬することに特徴づけられる配置または方法［２０１６．０１］",
+      "en": "Arrangements or methods specially adapted for transporting wind motor components",
+      "count": 1949,
+      "sourceFile": "ipc_F03D.txt",
+      "kind": "ipc"
+    },
+    "F03D15/00": {
+      "code": "F03D15/00",
+      "level": 0,
+      "parent": "F03D",
+      "ja": "機械動力の伝達［２０１６．０１］",
+      "en": "Transmission of mechanical power",
+      "count": 4849,
+      "sourceFile": "ipc_F03D.txt",
+      "kind": "ipc"
+    },
+    "F03D15/10": {
+      "code": "F03D15/10",
+      "level": 1,
+      "parent": "F03D15/00",
+      "ja": "回転運動に限定されない伝動装置を使用するもの，例．振動または往復する部材［２０１６．０１］",
+      "en": "using gearing not limited to rotary motion, e.g. with oscillating or reciprocating members",
+      "count": 1585,
+      "sourceFile": "ipc_F03D.txt",
+      "kind": "ipc"
+    },
+    "F03D15/20": {
+      "code": "F03D15/20",
+      "level": 1,
+      "parent": "F03D15/00",
+      "ja": "ギヤレス伝動装置，すなわち，ダイレクトドライブ［２０１６．０１］",
+      "en": "Gearless transmission, i.e. direct-drive",
+      "count": 317,
+      "sourceFile": "ipc_F03D.txt",
+      "kind": "ipc"
+    },
+    "F03D17/00": {
+      "code": "F03D17/00",
+      "level": 0,
+      "parent": "F03D",
+      "ja": "風力原動機の監視または試験，例．診断（風力原動機の立ち上げ中の試験Ｆ０３Ｄ１３／３０）［２０１６．０１］",
+      "en": "Monitoring or testing of wind motors, e.g. diagnostics(testing during commissioning of wind motors <b>F03D13/30</b>)",
+      "count": 12467,
+      "sourceFile": "ipc_F03D.txt",
+      "kind": "ipc"
+    },
+    "F03D80/00": {
+      "code": "F03D80/00",
+      "level": 0,
+      "parent": "F03D",
+      "ja": "グループＦ０３Ｄ１／００～Ｆ０３Ｄ１７／００に分類されない細部，構成要素または付属品［２０１６．０１］",
+      "en": "Details, components or accessories not provided for in groups <b>F03D1/00 to F03D17/00</b> ",
+      "count": 15335,
+      "sourceFile": "ipc_F03D.txt",
+      "kind": "ipc"
+    },
+    "F03D80/10": {
+      "code": "F03D80/10",
+      "level": 1,
+      "parent": "F03D80/00",
+      "ja": "航空交通に警告するための手段［２０１６．０１］",
+      "en": "Arrangements for warning air traffic",
+      "count": 175,
+      "sourceFile": "ipc_F03D.txt",
+      "kind": "ipc"
+    },
+    "F03D80/20": {
+      "code": "F03D80/20",
+      "level": 1,
+      "parent": "F03D80/00",
+      "ja": "シャドーフリッカーを回避するための手段［２０１６．０１］",
+      "en": "Arrangements for avoiding shadow flicker",
+      "count": 29,
+      "sourceFile": "ipc_F03D.txt",
+      "kind": "ipc"
+    },
+    "F03D80/30": {
+      "code": "F03D80/30",
+      "level": 1,
+      "parent": "F03D80/00",
+      "ja": "落雷対策［２０１６．０１］",
+      "en": "Lightning protection",
+      "count": 2029,
+      "sourceFile": "ipc_F03D.txt",
+      "kind": "ipc"
+    },
+    "F03D80/40": {
+      "code": "F03D80/40",
+      "level": 1,
+      "parent": "F03D80/00",
+      "ja": "氷検知；除氷手段［２０１６．０１］",
+      "en": "Ice detection; De-icing means",
+      "count": 1884,
+      "sourceFile": "ipc_F03D.txt",
+      "kind": "ipc"
+    },
+    "F03D80/50": {
+      "code": "F03D80/50",
+      "level": 1,
+      "parent": "F03D80/00",
+      "ja": "保全または修理［２０１６．０１］",
+      "en": "Maintenance or repair",
+      "count": 3499,
+      "sourceFile": "ipc_F03D.txt",
+      "kind": "ipc"
+    },
+    "F03D80/55": {
+      "code": "F03D80/55",
+      "level": 2,
+      "parent": "F03D80/50",
+      "ja": "障害物除去（Ｆ０３Ｄ８０／４０が優先）［２０１６．０１］",
+      "en": "Cleaning(<b>F03D80/40</b> takes precedence)",
+      "count": 1629,
+      "sourceFile": "ipc_F03D.txt",
+      "kind": "ipc"
+    },
+    "F03D80/60": {
+      "code": "F03D80/60",
+      "level": 1,
+      "parent": "F03D80/00",
+      "ja": "風力原動機の冷却または加熱［２０１６．０１］",
+      "en": "Cooling or heating of wind motors",
+      "count": 4310,
+      "sourceFile": "ipc_F03D.txt",
+      "kind": "ipc"
+    },
+    "F03D80/70": {
+      "code": "F03D80/70",
+      "level": 1,
+      "parent": "F03D80/00",
+      "ja": "軸受または潤滑手段［２０１６．０１］",
+      "en": "Bearing or lubricating arrangements",
+      "count": 4373,
+      "sourceFile": "ipc_F03D.txt",
+      "kind": "ipc"
+    },
+    "F03D80/80": {
+      "code": "F03D80/80",
+      "level": 1,
+      "parent": "F03D80/00",
+      "ja": "ナセルまたは塔内の構成部品［２０１６．０１］",
+      "en": "Arrangement of components within nacelles or towers",
+      "count": 2864,
+      "sourceFile": "ipc_F03D.txt",
+      "kind": "ipc"
+    }
+  }
+};

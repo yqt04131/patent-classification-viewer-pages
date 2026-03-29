@@ -1,0 +1,426 @@
+{
+  "generatedAt": "2026-03-20T02:17:46.891Z",
+  "total": 42,
+  "entries": {
+    "F23G": {
+      "code": "F23G",
+      "level": 0,
+      "parent": "F23",
+      "ja": "火葬炉；燃焼により廃棄物または低級燃料を焼却するもの<br><br><b><ul>サブクラス内の索引</ul></b><br>火葬　１／００<br>燃焼により廃棄物または低級燃料を焼却するもの<br>処理；装置の機能別の種類　５／００<br>特定の廃棄物または燃料に適合したもの　７／００<br>細部；付属装置　５／４４<br>制御または安全装置　５／５０",
+      "en": "CREMATION FURNACES; CONSUMING WASTE OR LOW GRADE FUELS BY COMBUSTION; <br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">CREMATION </td><td><b><b>1/00</b></b></td></tr></tr><tr><td width=\"70%\">CONSUMING WASTE OR LOW-GRADE FUELS BY COMBUSTION<tr><td width=\"70%\">Processes; Functional types of apparatus </td><td><b><b>5/00</b></b></td></tr></tr><tr><td width=\"70%\">Adaptation for specific waste or fuels </td><td><b><b>7/00</b></b></td></tr></tr><tr><td width=\"70%\">Details; Accessories </td><td><b><b>5/44</b></b></td></tr></tr><tr><td width=\"70%\">Control or safety arrangements </td><td><b><b>5/50</b></b></td></tr></tr></tr></table>",
+      "count": 593,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F23": {
+      "code": "F23",
+      "level": 0,
+      "parent": "F",
+      "ja": "燃焼装置；燃焼方法<br><br><b><ul>注</ul></b><br>このクラスにおいては，下記の用語は以下に示す意味で用いる：<br>―“燃焼”は，可燃物質と分子酸素，例．空気中の，との間の発熱を伴う連鎖的な化学反応を意味し，大半の場合に炎または白熱の形式で光を発生させる；<br>―“燃焼室”は，それ自体で維持される火または炎を確立するために燃料がその中で燃焼するものであって，その火または炎を取り囲んでいる室を意味する；<br>―“バーナ”は，それ自体で維持される炎を発生するために流動性燃料が，または空気中に浮遊する固体燃料が，燃焼する燃焼空間へ導かれる装置を意味する；<br>―“空気”は，遊離した酸素を含み，および燃焼を促進または維持させ得る気体の混合物を意味する。",
+      "en": "COMBUSTION APPARATUS; COMBUSTION PROCESSES; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this class, the following terms or expressions are used with the meanings indicated: <ul><li>\"combustion\" means a heat-producing sequence of chemical reactions between a burnable substance and molecular oxygen, e.g. in air, in most cases generating light in the form of flames or a glow;</li><li>\"combustion chamber\" means a chamber in which fuel is burned to establish a self-supporting fire or flame and which surrounds that fire or flame;</li><li>\"burner\" means a device by which fluid fuel, or solid fuel suspended in air, is passed to a combustion space where it burns to produce a self-supporting flame;</li><li>\"air\" means a mixture of gases containing free oxygen and able to promote or support combustion.</li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F": {
+      "code": "F",
+      "level": 0,
+      "parent": null,
+      "ja": "機械工学；照明；加熱；武器；爆破",
+      "en": "MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F23G1/00": {
+      "code": "F23G1/00",
+      "level": 0,
+      "parent": "F23G",
+      "ja": "人または動物の死体の火葬に特に適合した方法または装置",
+      "en": "Methods or apparatus specially adapted for cremation of human or animal carcasses",
+      "count": 3193,
+      "sourceFile": "ipc_F23G.txt",
+      "kind": "ipc"
+    },
+    "F23G5/00": {
+      "code": "F23G5/00",
+      "level": 0,
+      "parent": "F23G",
+      "ja": "廃棄物または低級燃料の焼却に特に適合した方法または装置，例．焼却炉［４］",
+      "en": "Methods or apparatus, e.g. incinerators, specially adapted for combustion of waste or low-grade fuels",
+      "count": 17990,
+      "sourceFile": "ipc_F23G.txt",
+      "kind": "ipc"
+    },
+    "F23G5/02": {
+      "code": "F23G5/02",
+      "level": 1,
+      "parent": "F23G5/00",
+      "ja": "前処理を含むもの［４］",
+      "en": "including pretreatment",
+      "count": 5168,
+      "sourceFile": "ipc_F23G.txt",
+      "kind": "ipc"
+    },
+    "F23G5/027": {
+      "code": "F23G5/027",
+      "level": 2,
+      "parent": "F23G5/02",
+      "ja": "熱分解またはガス化（汚泥の熱分解Ｃ０２Ｆ１１／００；炭素質物の乾留Ｃ１０Ｂ５３／００）［４］",
+      "en": "pyrolising or gasifying(pyrolisation of sludge <b>C02F11/00</b>; destructive distillation of carbonaceous materials <b>C10B53/00</b>)",
+      "count": 11786,
+      "sourceFile": "ipc_F23G.txt",
+      "kind": "ipc"
+    },
+    "F23G5/033": {
+      "code": "F23G5/033",
+      "level": 2,
+      "parent": "F23G5/02",
+      "ja": "粉砕または破砕するもの［４］",
+      "en": "comminuting or crushing",
+      "count": 5936,
+      "sourceFile": "ipc_F23G.txt",
+      "kind": "ipc"
+    },
+    "F23G5/04": {
+      "code": "F23G5/04",
+      "level": 2,
+      "parent": "F23G5/02",
+      "ja": "乾燥するもの［４］",
+      "en": "drying",
+      "count": 6739,
+      "sourceFile": "ipc_F23G.txt",
+      "kind": "ipc"
+    },
+    "F23G5/05": {
+      "code": "F23G5/05",
+      "level": 3,
+      "parent": "F23G5/04",
+      "ja": "乾燥用火格子を用いるもの［４］",
+      "en": "using drying grates",
+      "count": 232,
+      "sourceFile": "ipc_F23G.txt",
+      "kind": "ipc"
+    },
+    "F23G5/08": {
+      "code": "F23G5/08",
+      "level": 1,
+      "parent": "F23G5/00",
+      "ja": "補助加熱を含むもの［４］",
+      "en": "including supplementary heating",
+      "count": 2259,
+      "sourceFile": "ipc_F23G.txt",
+      "kind": "ipc"
+    },
+    "F23G5/10": {
+      "code": "F23G5/10",
+      "level": 2,
+      "parent": "F23G5/08",
+      "ja": "電気的方法を用いるもの［４］",
+      "en": "using electric means",
+      "count": 1738,
+      "sourceFile": "ipc_F23G.txt",
+      "kind": "ipc"
+    },
+    "F23G5/12": {
+      "code": "F23G5/12",
+      "level": 2,
+      "parent": "F23G5/08",
+      "ja": "ガス状または液体燃料を用いるもの（Ｆ２３Ｇ５／１４が優先）［４］",
+      "en": "using gaseous or liquid fuel(<b>F23G5/14</b> takes precedence)",
+      "count": 2524,
+      "sourceFile": "ipc_F23G.txt",
+      "kind": "ipc"
+    },
+    "F23G5/14": {
+      "code": "F23G5/14",
+      "level": 2,
+      "parent": "F23G5/08",
+      "ja": "２次燃焼を含むもの［４］",
+      "en": "including secondary combustion",
+      "count": 3070,
+      "sourceFile": "ipc_F23G.txt",
+      "kind": "ipc"
+    },
+    "F23G5/16": {
+      "code": "F23G5/16",
+      "level": 3,
+      "parent": "F23G5/14",
+      "ja": "分離した燃焼室内で行なうもの［４］",
+      "en": "in a separate combustion chamber",
+      "count": 6470,
+      "sourceFile": "ipc_F23G.txt",
+      "kind": "ipc"
+    },
+    "F23G5/18": {
+      "code": "F23G5/18",
+      "level": 3,
+      "parent": "F23G5/14",
+      "ja": "煙突内で行うもの［４］",
+      "en": "in a stack",
+      "count": 248,
+      "sourceFile": "ipc_F23G.txt",
+      "kind": "ipc"
+    },
+    "F23G5/20": {
+      "code": "F23G5/20",
+      "level": 1,
+      "parent": "F23G5/00",
+      "ja": "回転または揺動ドラム中の燃焼によるもの［４］",
+      "en": "with combustion in rotating or oscillating drums",
+      "count": 3471,
+      "sourceFile": "ipc_F23G.txt",
+      "kind": "ipc"
+    },
+    "F23G5/22": {
+      "code": "F23G5/22",
+      "level": 2,
+      "parent": "F23G5/20",
+      "ja": "ドラムが円錐形状のもの［４］",
+      "en": "the drums being conically shaped",
+      "count": 86,
+      "sourceFile": "ipc_F23G.txt",
+      "kind": "ipc"
+    },
+    "F23G5/24": {
+      "code": "F23G5/24",
+      "level": 1,
+      "parent": "F23G5/00",
+      "ja": "垂直で，ほぼ円筒状の燃焼室中の燃焼によるもの［４］",
+      "en": "with combustion in a vertical, substantially cylindrical, combustion chamber",
+      "count": 2341,
+      "sourceFile": "ipc_F23G.txt",
+      "kind": "ipc"
+    },
+    "F23G5/26": {
+      "code": "F23G5/26",
+      "level": 2,
+      "parent": "F23G5/24",
+      "ja": "回転する底部をもつもの［４］",
+      "en": "having rotating bottom",
+      "count": 314,
+      "sourceFile": "ipc_F23G.txt",
+      "kind": "ipc"
+    },
+    "F23G5/28": {
+      "code": "F23G5/28",
+      "level": 2,
+      "parent": "F23G5/24",
+      "ja": "かき出しアームをもつもの［４］",
+      "en": "having raking arms",
+      "count": 586,
+      "sourceFile": "ipc_F23G.txt",
+      "kind": "ipc"
+    },
+    "F23G5/30": {
+      "code": "F23G5/30",
+      "level": 1,
+      "parent": "F23G5/00",
+      "ja": "流動層中の燃焼によるもの［４］",
+      "en": "with combustion in a fluidised bed",
+      "count": 4405,
+      "sourceFile": "ipc_F23G.txt",
+      "kind": "ipc"
+    },
+    "F23G5/32": {
+      "code": "F23G5/32",
+      "level": 1,
+      "parent": "F23G5/00",
+      "ja": "そこで廃棄物または低級燃料が旋回運動を受けるもの，例．サイクロン式焼却炉［４］",
+      "en": "in which the waste or low-grade fuel is subjected to a whirling movement, e.g. cyclonic incinerators",
+      "count": 1269,
+      "sourceFile": "ipc_F23G.txt",
+      "kind": "ipc"
+    },
+    "F23G5/34": {
+      "code": "F23G5/34",
+      "level": 1,
+      "parent": "F23G5/00",
+      "ja": "廃棄物または低級燃料がピット内で燃焼するもの，または燃焼のために山積みにされるもの［４］",
+      "en": "in which the waste or low-grade fuel is burnt in a pit or arranged in a heap for combustion",
+      "count": 248,
+      "sourceFile": "ipc_F23G.txt",
+      "kind": "ipc"
+    },
+    "F23G5/36": {
+      "code": "F23G5/36",
+      "level": 1,
+      "parent": "F23G5/00",
+      "ja": "円錐形燃焼室，例．“円錐形テント”型焼却炉，中の燃焼によるもの（Ｆ２３Ｇ５／２２が優先）［４］",
+      "en": "with combustion in a conical combustion chamber, e.g. \"teepee\" incinerators(<b>F23G5/22</b> takes precedence)",
+      "count": 116,
+      "sourceFile": "ipc_F23G.txt",
+      "kind": "ipc"
+    },
+    "F23G5/38": {
+      "code": "F23G5/38",
+      "level": 1,
+      "parent": "F23G5/00",
+      "ja": "多段炉床装置を有するもの［４］",
+      "en": "having multi-hearth arrangements",
+      "count": 445,
+      "sourceFile": "ipc_F23G.txt",
+      "kind": "ipc"
+    },
+    "F23G5/40": {
+      "code": "F23G5/40",
+      "level": 1,
+      "parent": "F23G5/00",
+      "ja": "携帯または移動可能な装置［４］",
+      "en": "Portable or mobile apparatus",
+      "count": 996,
+      "sourceFile": "ipc_F23G.txt",
+      "kind": "ipc"
+    },
+    "F23G5/42": {
+      "code": "F23G5/42",
+      "level": 2,
+      "parent": "F23G5/40",
+      "ja": "バスケット型のもの［４］",
+      "en": "of the basket type",
+      "count": 161,
+      "sourceFile": "ipc_F23G.txt",
+      "kind": "ipc"
+    },
+    "F23G5/44": {
+      "code": "F23G5/44",
+      "level": 1,
+      "parent": "F23G5/00",
+      "ja": "細部；付属装置［４］",
+      "en": "Details; Accessories",
+      "count": 37919,
+      "sourceFile": "ipc_F23G.txt",
+      "kind": "ipc"
+    },
+    "F23G5/46": {
+      "code": "F23G5/46",
+      "level": 2,
+      "parent": "F23G5/44",
+      "ja": "熱の回収［４］",
+      "en": "Recuperation of heat",
+      "count": 15252,
+      "sourceFile": "ipc_F23G.txt",
+      "kind": "ipc"
+    },
+    "F23G5/48": {
+      "code": "F23G5/48",
+      "level": 2,
+      "parent": "F23G5/44",
+      "ja": "腐食の防止［４］",
+      "en": "Preventing corrosion",
+      "count": 556,
+      "sourceFile": "ipc_F23G.txt",
+      "kind": "ipc"
+    },
+    "F23G5/50": {
+      "code": "F23G5/50",
+      "level": 1,
+      "parent": "F23G5/00",
+      "ja": "制御または安全装置［４］",
+      "en": "Control or safety arrangements",
+      "count": 12674,
+      "sourceFile": "ipc_F23G.txt",
+      "kind": "ipc"
+    },
+    "F23G7/00": {
+      "code": "F23G7/00",
+      "level": 0,
+      "parent": "F23G",
+      "ja": "特定の廃棄物または低級燃料，例．化学薬品，の燃焼に特に適合した方法または装置，例．焼却炉（Ｆ２３Ｇ１／００が優先；焼却便所Ａ４７Ｋ１１／０２；汚泥の酸化Ｃ０２Ｆ１１／０６；放射性廃棄物の焼却Ｇ２１Ｆ９／００）［４，８］",
+      "en": "Methods or apparatus, e.g. incinerators, specially adapted for combustion of specific waste or low grade fuels, e.g. chemicals(<b>F23G1/00</b> takes precedence; incinerator closets <b>A47K11/02</b>; oxidation of sludge <b>C02F11/06</b>; incinerating radioactive waste <b>G21F9/00</b>)",
+      "count": 13985,
+      "sourceFile": "ipc_F23G.txt",
+      "kind": "ipc"
+    },
+    "F23G7/02": {
+      "code": "F23G7/02",
+      "level": 1,
+      "parent": "F23G7/00",
+      "ja": "バガス，メガスまたはその類似物のためのもの［４］",
+      "en": "of bagasse, megasse or the like",
+      "count": 408,
+      "sourceFile": "ipc_F23G.txt",
+      "kind": "ipc"
+    },
+    "F23G7/04": {
+      "code": "F23G7/04",
+      "level": 1,
+      "parent": "F23G7/00",
+      "ja": "廃液，例．亜硫酸液，のためのもの［４］",
+      "en": "of waste liquors, e.g. sulfite liquors",
+      "count": 5696,
+      "sourceFile": "ipc_F23G.txt",
+      "kind": "ipc"
+    },
+    "F23G7/05": {
+      "code": "F23G7/05",
+      "level": 1,
+      "parent": "F23G7/00",
+      "ja": "廃油のためのもの［４］",
+      "en": "of waste oils",
+      "count": 1428,
+      "sourceFile": "ipc_F23G.txt",
+      "kind": "ipc"
+    },
+    "F23G7/06": {
+      "code": "F23G7/06",
+      "level": 1,
+      "parent": "F23G7/00",
+      "ja": "廃ガスまたは有害ガス，例．排気ガス，のためのもの（機関のための排気装置で，排気を無害にする手段，例．熱または触媒による変換，のあるものＦ０１Ｎ３／０８；固体または液体燃料の燃焼用装置内での１次燃焼からの未燃焼物の燃焼Ｆ２３Ｂ，Ｆ２３Ｃ）［４］",
+      "en": "of waste gases or noxious gases, e.g. exhaust gases(exhaust apparatus for engines with means for rendering the exhaust innocuous, e.g. by thermal or catalytic conversion, <b>F01N3/08</b>; combustion of uncombusted material from primary combustion within apparatus for combustion of solid or fluid fuel <b>F23B</b>, <b>F23C</b>)",
+      "count": 23297,
+      "sourceFile": "ipc_F23G.txt",
+      "kind": "ipc"
+    },
+    "F23G7/07": {
+      "code": "F23G7/07",
+      "level": 2,
+      "parent": "F23G7/06",
+      "ja": "触媒物質の存在下で燃焼が発生するもの［８］",
+      "en": "in which combustion takes place in the presence of catalytic material",
+      "count": 8314,
+      "sourceFile": "ipc_F23G.txt",
+      "kind": "ipc"
+    },
+    "F23G7/08": {
+      "code": "F23G7/08",
+      "level": 2,
+      "parent": "F23G7/06",
+      "ja": "フレアを用いるもの，例．煙突内にあるもの［４］",
+      "en": "using flares, e.g. in stacks",
+      "count": 1530,
+      "sourceFile": "ipc_F23G.txt",
+      "kind": "ipc"
+    },
+    "F23G7/10": {
+      "code": "F23G7/10",
+      "level": 1,
+      "parent": "F23G7/00",
+      "ja": "野原または庭園の廃棄物のためのもの［４］",
+      "en": "of field or garden waste",
+      "count": 1946,
+      "sourceFile": "ipc_F23G.txt",
+      "kind": "ipc"
+    },
+    "F23G7/12": {
+      "code": "F23G7/12",
+      "level": 1,
+      "parent": "F23G7/00",
+      "ja": "プラスチック，例．ゴム，のためのもの［４］",
+      "en": "of plastics, e.g. rubber",
+      "count": 2198,
+      "sourceFile": "ipc_F23G.txt",
+      "kind": "ipc"
+    },
+    "F23G7/14": {
+      "code": "F23G7/14",
+      "level": 1,
+      "parent": "F23G7/00",
+      "ja": "汚染した土壌のためのもの，例．油により汚染した土壌［４］",
+      "en": "of contaminated soil, e.g. soil contaminated by oil",
+      "count": 503,
+      "sourceFile": "ipc_F23G.txt",
+      "kind": "ipc"
+    }
+  }
+}

@@ -1,0 +1,1526 @@
+window.IPC_SHARD_H04H = {
+  "generatedAt": "2026-03-20T02:17:47.291Z",
+  "total": 152,
+  "entries": {
+    "H04H": {
+      "code": "H04H",
+      "level": 0,
+      "parent": "H04",
+      "ja": "放送通信（多重通信Ｈ０４Ｊ；放送方式における画像通信の観点Ｈ０４Ｎ）<br><br><b><ul>注</ul></b><br>このサブクラスにおいては，下記の表現は以下に示す意味で用いる：<br>・“放送”とは，複数の受信局への同一信号の同時配信である。“放送”には，受信局自身からの要求または応答によって制御される受信局への配信は含まれない。<br>・“放送情報”とは，放送システムを使って配信されるあらゆる種類の情報を包含する。<br>・“放送関連情報”とは，放送情報ではないが，放送システムを介して提供されるサービスのために必要な情報である。<br>・“放送時間”とは，特定の放送情報が存在し，利用可能となっている時間である。<br>・“放送チャネル”とは，放送情報を配送する際に介するチャネル，例．搬送波，放送時間帯，ケーブルまたは無線放送サービスエリア，である。<br>・“放送空間”とは，特定の放送情報が存在し利用可能となっている放送チャネルの集合か，または，その放送チャネルの集合によって決定される地理的範囲である。<br>・“放送時空”とは，特定の放送情報が存在し利用可能となっている放送空間および放送時間によって決定される時空である。<br>・“放送システム”とは，放送のための送信機，中継器および受信機からなるシステムである。<br>・“放送関連システム”とは，放送情報の作成，放送，受信または利用による影響を直接受けるシステムである。<br>・“放送サービス”とは，放送システムによって直接提供されるサービス，すなわち，放送情報の分配サービスである。<br>・“放送関連サービス”とは，放送関連システムによって提供されるサービスである。<br>・“ＡがＢに直接結合する”とは，ＡがＢに直接影響を与えるか，または，ＡがＢから直接影響を受けることである。",
+      "en": "BROADCAST COMMUNICATION(multiplex communication <b>H04J</b>; pictorial communication aspects of broadcast systems <b>H04N</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>In this subclass, the following terms or expressions are used with the meaning indicated:<ul><li>&ldquo;broadcast&rdquo; is simultaneous distribution of identical signals to plural receiving stations. The term \"broadcast\" does not include distribution to receiving stations which is controlled by requests or responses from the receiving stations;</li><li>&ldquo;broadcast information&rdquo; covers all kinds of information distributed by broadcast systems;</li><li>&ldquo;broadcast-related information&rdquo; is information required by services provided via broadcast systems, other than broadcast information;</li><li>&ldquo;broadcast time&rdquo; is a time when particular broadcast information exists and is available;</li><li>&ldquo;broadcast channel&rdquo; is a channel via which broadcast information is distributed, e.g. carrier waves, time slots, cables or wireless broadcast service areas;</li><li>&ldquo;broadcast space&rdquo; is either a set of broadcast channels in which particular broadcast information exists and is available or a geographical area determined by the set of broadcast channels;</li><li>&ldquo;broadcast space-time&rdquo; is space-time determined by broadcast space and broadcast time in which particular broadcast information exists and is available;</li><li>&ldquo;broadcast system&rdquo; is a system which consists of transmitter, transponder and receiver for broadcast;</li><li>&ldquo;broadcast-related system&rdquo; is a system which is directly affected by generation, broadcast, reception or use of broadcast information;</li><li>&ldquo;broadcast service&rdquo; is a service directly provided by a broadcast system, i.e. distribution service of broadcast information;</li><li>&ldquo;broadcast-related service&rdquo; is a service provided by broadcast-related systems;</li><li>&ldquo;A with a direct linkage to B&rdquo; means that A directly affects B or that A is directly affected by B.</li></ul></li></ul>",
+      "count": 433,
+      "sourceFile": "ipc_H.txt",
+      "kind": "ipc"
+    },
+    "H04": {
+      "code": "H04",
+      "level": 0,
+      "parent": "H",
+      "ja": "電気通信技術<br><br><b><ul>注</ul></b><br>このクラスは，伝搬路として，微粒子放射線，音波または電磁波を使用する電気通信方式，例，無線または光通信，を包含する。［４］",
+      "en": "ELECTRIC COMMUNICATION TECHNIQUE; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This class <u>covers</u> electrical communication systems with propagation paths employing beams of corpuscular radiation, acoustic waves or electromagnetic waves, e.g. radio or optical communication. </li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_H.txt",
+      "kind": "ipc"
+    },
+    "H": {
+      "code": "H",
+      "level": 0,
+      "parent": null,
+      "ja": "電気<br><br><b><ul>注</ul></b><br>（利用にあたっての基本原則と一般的指示）<br>Ｉ．セクションＨは以下のものを包含する：<br>（ａ）基本的電気素子，これは全ての電気ユニットと，装置や回路の一般的な機械的構成を包含しており，その中にはプリント配線と称されるものに各種の基本素子を組み立てたものも含まれる。またこれは他に包含されない場合には，ある程度までこれらの素子の製造をも包含する；<br>（ｂ）発電，これは，発電，変換および配電と共にそのための装置の制御を包含する；<br>（ｃ）電気の応用，これは以下のものを包含する：<br>（ｉ）一般的な利用技術，すなわち．電気加熱と電気照明回路の利用技術；<br>（ｉｉ）厳密な意味で電気的か電子的かいずれかの特定の利用技術で国際特許分類の他のセクションに包含されないもの，これは以下のものを含んでいる：<br>（１）電気的光源，これはレーザーを含む；<br>（２）電気的なＸ線技術；<br>（３）電気的なプラズマ技術，および帯電粒子または中性子の発生および加速；<br>（ｄ）基本電子回路およびその制御；<br>（ｅ）電気通信技術；これは電気―機械変換器一般を含む；<br>（ｆ）物品や上記素子を作るための特定の材料の使用，この点については指針の８８項から９０項を参照されたい。<br>ＩＩ．このセクションにおいては，下記の一般規則が適用される：<br>（ａ）上記Ｉ（ｃ）で述べた例外を除いて，国際特許分類のセクションＨ以外のいずれかのセクションに分類される特殊な操作，方法，装置，物体または物品に特有の電気的観点または部分は，常にその操作，方法，装置，物体または物品のためのサブクラスに分類されるか，または類似の性質を有する技術主題に関する共通的な特徴がクラス・レベルで展開されている場合には，それは，該技術主題のための一般的電気的な応用を完全に包含するサブクラスに，その操作，方法，装置，物体または物品と関連して分類される；<br>（ｂ）この様な電気的な応用には，一般的なものであれ特殊なものであれ，次の事項が含まれる。<br>（ｉ）Ａ６１における治療方法および装置；<br>（ｉｉ）Ｂ０１，Ｂ０３およびＢ２３Ｋにおける各種の実験室または工業的操作に用いられる電気的方法および装置；<br>（ｉｉｉ）セクションＢの“運輸”のサブセクションにおける車両一般および特殊な車両への電気の供給，電気的推進および電気照明；<br>（ｉｖ）Ｆ０２Ｐにおける内燃機関の電気点火系，およびＦ２３Ｑにおける燃焼装置一般のもの；<br>（ｖ）セクションＧにおける全ての電気的部分，すなわち，電気変量の測定器を含む測定装置，検査，信号および計算。このＧセクションにおいて電気とは，一般に手段として扱われるものでそれ自体目的として扱われるものではない；<br>（ｃ）全ての電気的な応用は一般的なものであれ特殊なものであれ，それが含んでいる電気的“基本的素子”に関して言えば，“基本的な電気”の観点がセクションＨ（上記Ｉ（ａ）参照）にあることを前提としている。この規則は，セクションＨ自身にある上記Ｉ（ｃ）で示した電気の応用に対しても有効である。",
+      "en": "ELECTRICITY; <br><br><b><u>Note(s)</u></b><br><br><ul><li>These Notes cover the basic principles and general instructions for use of section <b>H</b>.<ul><li>Section <b>H</b> <u>covers</u>: <ul><li>basic electric elements, which cover all electric units and the general mechanical structure of apparatus and circuits, including the assembly of various basic elements into what are called printed circuits and also cover to a certain extent the manufacture of these elements (when not covered elsewhere);</li><li>generation of electricity, which covers the generation, conversion and distribution of electricity together with the controlling of the corresponding gear;</li><li>applied electricity, which <u>covers</u>: <ul><li>general utilisation techniques, viz. those of electric heating and electric lighting circuits;</li><li>some special utilisation techniques, either electric or electronic in the strict sense, which are not covered by other sections of the Classification, including: <ul><li>electric light sources, including lasers;</li><li>electric X-ray technique;</li><li>electric plasma technique and the generation and acceleration of electrically charged particles or neutrons;</li></ul></li></ul></li><li>basic electronic circuits and their control;</li><li>radio or electric communication technique;</li><li>the use of a specified material for the manufacture of the article or element described. In this connection, paragraphs 88 to 90 of the Guide should be referred to.</li></ul></li><li>In this section, the following general rules apply: <ul><li>Subject to the exceptions stated in I(c), above, any electric aspect or part peculiar to a particular operation, process, apparatus, object or article, classified in one of the sections of the Classification other than section <b>H</b>, is always classified in the subclass for that operation, process, apparatus, object or article. Where common characteristics concerning technical subjects of similar nature have been brought out at class level, the electric aspect or part is classified, in conjunction with the operation, process, apparatus, object or article, in a subclass which covers entirely the general electrical applications for the technical subject in question;</li><li>The electrical applications referred to under (a), above, either general or particular, include: <ul><li>the therapeutic processes and apparatus, in class <b>A61</b>;</li><li>the electric processes and apparatus used in various laboratory or industrial operations, in classes <b>B01</b> and <b>B03</b> and in subclass <b>B23K</b>;</li><li>the electricity supply, electric propulsion and electric lighting of vehicles in general and of particular vehicles, in the subsection \"Transporting\" of section <b>B</b>;</li><li>the electric ignition systems of internal-combustion engines, in subclass <b>F02P</b>, and of combustion apparatus in general, in subclass <b>F23Q</b>;</li><li>the whole electrical part of section <b>G</b>, i.e. measuring devices including apparatus for measuring electric variables, checking, signalling and calculating. Electricity in that section is generally dealt with as a means and not as an end in itself;</li></ul></li><li>All electrical applications, both general and particular, presuppose that the \"basic electricity\" aspect appears in section <b>H</b> (see I(a) above) as regards the electric \"basic elements\" which they comprise. This rule is also valid for applied electricity, referred to in I(c), above, which appears in section <b>H</b> itself.</li></ul></li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_H.txt",
+      "kind": "ipc"
+    },
+    "H04H20/00": {
+      "code": "H04H20/00",
+      "level": 0,
+      "parent": "H04H",
+      "ja": "放送または放送と協働する配信のための配置［２００８．１］",
+      "en": "Arrangements for broadcast or for distribution combined with broadcast",
+      "count": 8986,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H20/02": {
+      "code": "H04H20/02",
+      "level": 1,
+      "parent": "H04H20/00",
+      "ja": "放送における中継［２００８．１］",
+      "en": "Arrangements for relaying broadcast information",
+      "count": 1095,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H20/04": {
+      "code": "H04H20/04",
+      "level": 2,
+      "parent": "H04H20/02",
+      "ja": "フィールドピックアップユニットからの中継［２００８．１］",
+      "en": "from field pickup units [FPU]",
+      "count": 103,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H20/06": {
+      "code": "H04H20/06",
+      "level": 2,
+      "parent": "H04H20/02",
+      "ja": "放送局間中継［２００８．１］",
+      "en": "among broadcast stations",
+      "count": 635,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H20/08": {
+      "code": "H04H20/08",
+      "level": 2,
+      "parent": "H04H20/02",
+      "ja": "端末機器間中継［２００８．１］",
+      "en": "among terminal devices",
+      "count": 411,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H20/10": {
+      "code": "H04H20/10",
+      "level": 1,
+      "parent": "H04H20/00",
+      "ja": "配信時に情報を差し替えまたは切り替えるためのもの［２００８．１］",
+      "en": "Arrangements for replacing or switching information during the broadcast or during the distribution",
+      "count": 1089,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H20/12": {
+      "code": "H04H20/12",
+      "level": 1,
+      "parent": "H04H20/00",
+      "ja": "監視，試験または故障対策［２００８．１］",
+      "en": "Arrangements for monitoring, testing or troubleshooting",
+      "count": 1523,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H20/14": {
+      "code": "H04H20/14",
+      "level": 2,
+      "parent": "H04H20/12",
+      "ja": "プログラムの監視［２００８．１］",
+      "en": "for monitoring programmes",
+      "count": 480,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H20/16": {
+      "code": "H04H20/16",
+      "level": 1,
+      "parent": "H04H20/00",
+      "ja": "同一の情報を繰り返し配信するもの［２００８．１］",
+      "en": "Arrangements for broadcast or distribution of identical information repeatedly",
+      "count": 579,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H20/18": {
+      "code": "H04H20/18",
+      "level": 1,
+      "parent": "H04H20/00",
+      "ja": "複数のシステムにおける配信の同期をとるもの［２００８．１］",
+      "en": "Arrangements for synchronising broadcast or distribution via plural systems",
+      "count": 590,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H20/20": {
+      "code": "H04H20/20",
+      "level": 1,
+      "parent": "H04H20/00",
+      "ja": "同一の情報を複数のシステムそれぞれで配信するもの［２００８．１］",
+      "en": "Arrangements for broadcast or distribution of identical information via plural systems",
+      "count": 228,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H20/22": {
+      "code": "H04H20/22",
+      "level": 2,
+      "parent": "H04H20/20",
+      "ja": "複数の放送システムによる同一の情報の配信［２００８．１］",
+      "en": "Arrangements for broadcast of identical information via plural broadcast systems",
+      "count": 407,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H20/24": {
+      "code": "H04H20/24",
+      "level": 2,
+      "parent": "H04H20/20",
+      "ja": "放送システムと非放送システムによる同一の情報の配信［２００８．１］",
+      "en": "Arrangements for distribution of identical information via broadcast system and non-broadcast system",
+      "count": 427,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H20/26": {
+      "code": "H04H20/26",
+      "level": 1,
+      "parent": "H04H20/00",
+      "ja": "配信システムの切り替え［２００８．１］",
+      "en": "Arrangements for switching distribution systems",
+      "count": 791,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H20/28": {
+      "code": "H04H20/28",
+      "level": 1,
+      "parent": "H04H20/00",
+      "ja": "複数の情報を一のシステムで同時に放送するもの［２００８．１］",
+      "en": "Arrangements for simultaneous broadcast of plural pieces of information",
+      "count": 3663,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H20/30": {
+      "code": "H04H20/30",
+      "level": 2,
+      "parent": "H04H20/28",
+      "ja": "単一チャネルによるもの［２００８．１］",
+      "en": "by a single channel",
+      "count": 496,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H20/31": {
+      "code": "H04H20/31",
+      "level": 3,
+      "parent": "H04H20/30",
+      "ja": "帯域内信号，例．可聴下周波，キュー信号，を用いるもの［２００８．１］",
+      "en": "using in-band signals, e.g. subsonic or cue signal",
+      "count": 445,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H20/33": {
+      "code": "H04H20/33",
+      "level": 2,
+      "parent": "H04H20/28",
+      "ja": "複数チャネルによるもの［２００８．１］",
+      "en": "by plural channels",
+      "count": 491,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H20/34": {
+      "code": "H04H20/34",
+      "level": 3,
+      "parent": "H04H20/33",
+      "ja": "帯域外副搬送波信号を用いるもの［２００８．１］",
+      "en": "using an out-of-band subcarrier signal",
+      "count": 322,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H20/36": {
+      "code": "H04H20/36",
+      "level": 2,
+      "parent": "H04H20/28",
+      "ja": "ＡＭ放送のためのもの［２００８．１］",
+      "en": "for AM broadcasts",
+      "count": 65,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H20/38": {
+      "code": "H04H20/38",
+      "level": 1,
+      "parent": "H04H20/00",
+      "ja": "下流局，例．受信機，の影響を受ける放送のための配置［２００８．１］",
+      "en": "Arrangements for distribution where lower stations, e.g. receivers, interact with the broadcast",
+      "count": 992,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H20/40": {
+      "code": "H04H20/40",
+      "level": 1,
+      "parent": "H04H20/00",
+      "ja": "蓄積型の受信機に特に適合した放送のための配置［２００８．１］",
+      "en": "Arrangements for broadcast specially adapted for accumulation-type receivers",
+      "count": 420,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H20/42": {
+      "code": "H04H20/42",
+      "level": 1,
+      "parent": "H04H20/00",
+      "ja": "資源管理のための配置［２００８．１］",
+      "en": "Arrangements for resource management",
+      "count": 769,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H20/44": {
+      "code": "H04H20/44",
+      "level": 1,
+      "parent": "H04H20/00",
+      "ja": "放送に特に適合する回路または要素技術によって特徴づけられるもの［２００８．１］",
+      "en": "Arrangements characterised by circuits or components specially adapted for broadcast",
+      "count": 500,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H20/46": {
+      "code": "H04H20/46",
+      "level": 2,
+      "parent": "H04H20/44",
+      "ja": "グループＨ０４Ｈ２０／５３～Ｈ０４Ｈ２０／８６に分類される放送方式に特に適合する回路または要素技術によって特徴づけられるもの［２００８．０１］",
+      "en": "specially adapted for broadcast systems covered by groups <b>H04H20/53 to H04H20/86</b> ",
+      "count": 358,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H20/47": {
+      "code": "H04H20/47",
+      "level": 3,
+      "parent": "H04H20/46",
+      "ja": "ステレオ放送方式に特に適合するもの［２００８．１］",
+      "en": "specially adapted for stereophonic broadcast systems",
+      "count": 608,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H20/48": {
+      "code": "H04H20/48",
+      "level": 4,
+      "parent": "H04H20/47",
+      "ja": "ＦＭステレオ放送方式に特に適合するもの［２００８．１］",
+      "en": "for FM stereophonic broadcast systems",
+      "count": 548,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H20/49": {
+      "code": "H04H20/49",
+      "level": 4,
+      "parent": "H04H20/47",
+      "ja": "ＡＭステレオ放送方式に特に適合するもの［２００８．１］",
+      "en": "for AM stereophonic broadcast systems",
+      "count": 189,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H20/51": {
+      "code": "H04H20/51",
+      "level": 3,
+      "parent": "H04H20/46",
+      "ja": "衛星放送方式に特に適合するもの［２００８．１］",
+      "en": "specially adapted for satellite broadcast systems",
+      "count": 213,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H20/53": {
+      "code": "H04H20/53",
+      "level": 1,
+      "parent": "H04H20/00",
+      "ja": "特定用途放送方式，例．交通情報または移動する受信局のためのもの［２００８．１］",
+      "en": "Arrangements specially adapted for specific applications, e.g. for traffic information or for mobile receivers",
+      "count": 640,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H20/55": {
+      "code": "H04H20/55",
+      "level": 2,
+      "parent": "H04H20/53",
+      "ja": "交通情報放送［２００８．１］",
+      "en": "for traffic information",
+      "count": 806,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H20/57": {
+      "code": "H04H20/57",
+      "level": 2,
+      "parent": "H04H20/53",
+      "ja": "移動する受信局に対するもの［２００８．１］",
+      "en": "for mobile receivers",
+      "count": 1089,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H20/59": {
+      "code": "H04H20/59",
+      "level": 2,
+      "parent": "H04H20/53",
+      "ja": "緊急または非常放送［２００８．１］",
+      "en": "for emergency or urgency",
+      "count": 3836,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H20/61": {
+      "code": "H04H20/61",
+      "level": 2,
+      "parent": "H04H20/53",
+      "ja": "局所的放送，例．店内放送［２００８．１］",
+      "en": "for local area broadcast, e.g. instore broadcast",
+      "count": 2239,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H20/62": {
+      "code": "H04H20/62",
+      "level": 3,
+      "parent": "H04H20/61",
+      "ja": "交通機関用，例．車両内［２００８．１］",
+      "en": "for transportation systems, e.g. in vehicles",
+      "count": 1475,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H20/63": {
+      "code": "H04H20/63",
+      "level": 3,
+      "parent": "H04H20/61",
+      "ja": "限定された敷地内の複数地点への放送，例．ＭＡＴＶ［２００８．１］",
+      "en": "to plural spots in a confined site, e.g. MATV [Master Antenna Television]",
+      "count": 536,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H20/65": {
+      "code": "H04H20/65",
+      "level": 1,
+      "parent": "H04H20/00",
+      "ja": "放送用の伝送システムによって特徴づけられるもの［２００８．１］",
+      "en": "Arrangements characterised by transmission systems for broadcast",
+      "count": 235,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H20/67": {
+      "code": "H04H20/67",
+      "level": 2,
+      "parent": "H04H20/65",
+      "ja": "同一周波方式，すなわち実質的に同一の周波数で動作する別々の送信機を用いるもの［２００８．１］",
+      "en": "Common-wave systems, i.e. using separate transmitters operating on substantially the same frequency",
+      "count": 920,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H20/69": {
+      "code": "H04H20/69",
+      "level": 2,
+      "parent": "H04H20/65",
+      "ja": "光方式［２００８．１］",
+      "en": "Optical systems",
+      "count": 279,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H20/71": {
+      "code": "H04H20/71",
+      "level": 2,
+      "parent": "H04H20/65",
+      "ja": "無線方式［２００８．１］",
+      "en": "Wireless systems",
+      "count": 2822,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H20/72": {
+      "code": "H04H20/72",
+      "level": 3,
+      "parent": "H04H20/71",
+      "ja": "地上網［２００８．１］",
+      "en": "of terrestrial networks",
+      "count": 828,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H20/74": {
+      "code": "H04H20/74",
+      "level": 3,
+      "parent": "H04H20/71",
+      "ja": "衛星網［２００８．１］",
+      "en": "of satellite networks",
+      "count": 1487,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H20/76": {
+      "code": "H04H20/76",
+      "level": 2,
+      "parent": "H04H20/65",
+      "ja": "有線方式［２００８．１］",
+      "en": "Wired systems",
+      "count": 1782,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H20/77": {
+      "code": "H04H20/77",
+      "level": 3,
+      "parent": "H04H20/76",
+      "ja": "搬送波を使用するもの［２００８．１］",
+      "en": "using carrier waves",
+      "count": 400,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H20/78": {
+      "code": "H04H20/78",
+      "level": 4,
+      "parent": "H04H20/77",
+      "ja": "ＣＡＴＶ方式［２００８．１］",
+      "en": "CATV [Community Antenna Television] systems",
+      "count": 586,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H20/79": {
+      "code": "H04H20/79",
+      "level": 5,
+      "parent": "H04H20/78",
+      "ja": "ＣＡＴＶのダウンリンクを使用するもの，例．ＣＡＴＶ網を介したオーディオ放送［２００８．１］",
+      "en": "using downlink of the CATV systems, e.g. audio broadcast via CATV network",
+      "count": 438,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H20/80": {
+      "code": "H04H20/80",
+      "level": 4,
+      "parent": "H04H20/77",
+      "ja": "２以上の周波数帯，例．中波および短波帯，における周波数を有するもの［２００８．１］",
+      "en": "having frequencies in two or more frequency bands, e.g. medium wave and VHF",
+      "count": 87,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H20/81": {
+      "code": "H04H20/81",
+      "level": 4,
+      "parent": "H04H20/77",
+      "ja": "電話網に結合し，その電話網上で放送が絶えず可能となるもの［２００８．１］",
+      "en": "combined with telephone network over which the broadcast is continuously available",
+      "count": 676,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H20/82": {
+      "code": "H04H20/82",
+      "level": 3,
+      "parent": "H04H20/76",
+      "ja": "搬送波に乗せられていない信号を用いるもの［２００８．１］",
+      "en": "using signals not modulated onto a carrier",
+      "count": 360,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H20/83": {
+      "code": "H04H20/83",
+      "level": 4,
+      "parent": "H04H20/82",
+      "ja": "回線網を他のサービスと共用しないもの［２００８．１］",
+      "en": "not sharing the network with any other service",
+      "count": 264,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H20/84": {
+      "code": "H04H20/84",
+      "level": 3,
+      "parent": "H04H20/76",
+      "ja": "配電網と結合したもの［２００８．１］",
+      "en": "combined with power distribution network",
+      "count": 149,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H20/86": {
+      "code": "H04H20/86",
+      "level": 1,
+      "parent": "H04H20/00",
+      "ja": "放送情報の特別な技術的特徴，例．信号形式または情報フォーマット，によって特徴づけられるもの［２００８．１］",
+      "en": "Arrangements characterised by special technical features of the broadcast information, e.g. signal form or information format",
+      "count": 477,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H20/88": {
+      "code": "H04H20/88",
+      "level": 2,
+      "parent": "H04H20/86",
+      "ja": "ステレオ放送方式［２００８．１］",
+      "en": "Stereophonic broadcast systems",
+      "count": 925,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H20/89": {
+      "code": "H04H20/89",
+      "level": 3,
+      "parent": "H04H20/88",
+      "ja": "３以上のオーディオチャンネルを用いるもの，例．三元または四元ステレオ［２００８．１］",
+      "en": "using three or more audio channels, e.g. triphonic or quadraphonic",
+      "count": 794,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H20/91": {
+      "code": "H04H20/91",
+      "level": 2,
+      "parent": "H04H20/86",
+      "ja": "コンピュータプログラムを放送するもの［２００８．１］",
+      "en": "broadcasting computer programmes",
+      "count": 520,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H20/93": {
+      "code": "H04H20/93",
+      "level": 2,
+      "parent": "H04H20/86",
+      "ja": "放送情報が他の情報の在処を示すもの，例．ＵＲＬ［２００８．１］",
+      "en": "which locates resources of other pieces of information, e.g. URL [Uniform Resource Locator]",
+      "count": 969,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H20/95": {
+      "code": "H04H20/95",
+      "level": 2,
+      "parent": "H04H20/86",
+      "ja": "特定のフォーマット，例．エンコードされた音声ストリーム，によって特徴づけられるもの［２００８．０１］",
+      "en": "characterised by a specific format, e.g. an encoded audio stream",
+      "count": 687,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H40/00": {
+      "code": "H04H40/00",
+      "level": 0,
+      "parent": "H04H",
+      "ja": "放送情報の受信に特に適合する配置［２００８．１］",
+      "en": "Arrangements specially adapted for receiving broadcast information",
+      "count": 828,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H40/09": {
+      "code": "H04H40/09",
+      "level": 1,
+      "parent": "H04H40/00",
+      "ja": "タイムテーブルに合わせて必要な情報を自動的に受信するもの［２００８．１］",
+      "en": "Arrangements for receiving desired information automatically according to timetables",
+      "count": 305,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H40/18": {
+      "code": "H04H40/18",
+      "level": 1,
+      "parent": "H04H40/00",
+      "ja": "受信に特に適合する回路または要素技術によって特徴づけられるもの［２００８．１］",
+      "en": "Arrangements characterised by circuits or components specially adapted for receiving",
+      "count": 2992,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H40/27": {
+      "code": "H04H40/27",
+      "level": 2,
+      "parent": "H04H40/18",
+      "ja": "グループＨ０４Ｈ２０／５３～Ｈ０４Ｈ２０／８６に分類される放送方式に特に適合する回路または要素技術によって特徴づけられるもの［２００８．０１］",
+      "en": "specially adapted for broadcast systems covered by groups <b>H04H20/53 to H04H20/86</b> ",
+      "count": 884,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H40/36": {
+      "code": "H04H40/36",
+      "level": 3,
+      "parent": "H04H40/27",
+      "ja": "ステレオ放送受信に特に適合するもの［２００８．１］",
+      "en": "specially adapted for stereophonic broadcast receiving",
+      "count": 986,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H40/45": {
+      "code": "H04H40/45",
+      "level": 4,
+      "parent": "H04H40/36",
+      "ja": "ＦＭステレオ放送の受信に特に適合するもの［２００８．１］",
+      "en": "for FM stereophonic broadcast receiving",
+      "count": 1464,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H40/54": {
+      "code": "H04H40/54",
+      "level": 5,
+      "parent": "H04H40/45",
+      "ja": "副搬送波の発生［２００８．１］",
+      "en": "generating subcarriers",
+      "count": 173,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H40/63": {
+      "code": "H04H40/63",
+      "level": 5,
+      "parent": "H04H40/45",
+      "ja": "分離度の改善または調整［２００８．１］",
+      "en": "for separation improvements or adjustments",
+      "count": 196,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H40/72": {
+      "code": "H04H40/72",
+      "level": 5,
+      "parent": "H04H40/45",
+      "ja": "雑音の抑圧［２００８．１］",
+      "en": "for noise suppression",
+      "count": 1021,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H40/81": {
+      "code": "H04H40/81",
+      "level": 5,
+      "parent": "H04H40/45",
+      "ja": "ステレオ・モノラル切替［２００８．１］",
+      "en": "for stereo-monaural switching",
+      "count": 236,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H40/90": {
+      "code": "H04H40/90",
+      "level": 3,
+      "parent": "H04H40/27",
+      "ja": "衛星放送受信に特に適合するもの［２００８．１］",
+      "en": "specially adapted for satellite broadcast receiving",
+      "count": 1073,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/00": {
+      "code": "H04H60/00",
+      "level": 0,
+      "parent": "H04H",
+      "ja": "放送の応用のための配置であってその応用が放送情報または放送時空に直接結合するもの；放送関連システム［２００８．１］",
+      "en": "Arrangements for broadcast applications with a direct linkage to broadcast information or to broadcast space-time; Broadcast-related systems",
+      "count": 179,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/02": {
+      "code": "H04H60/02",
+      "level": 1,
+      "parent": "H04H60/00",
+      "ja": "放送情報の作成のための配置；放送情報または放送時空に直接結合する放送関連情報の作成のための配置；放送情報と放送関連情報の同時作成のための配置［２００８．１］",
+      "en": "Arrangements for generating broadcast information; Arrangements for generating broadcast-related information with a direct linkage to broadcast information or to broadcast space-time; Arrangements for simultaneous generation of broadcast information and broadcast-related information",
+      "count": 247,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/04": {
+      "code": "H04H60/04",
+      "level": 2,
+      "parent": "H04H60/02",
+      "ja": "スタジオ設備；複数のスタジオ間の相互連結［２００８．１］",
+      "en": "Studio equipment; Interconnection of studios",
+      "count": 2947,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/05": {
+      "code": "H04H60/05",
+      "level": 3,
+      "parent": "H04H60/04",
+      "ja": "移動スタジオ［２００８．１］",
+      "en": "Mobile studios",
+      "count": 145,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/06": {
+      "code": "H04H60/06",
+      "level": 2,
+      "parent": "H04H60/02",
+      "ja": "放送サービスまたは放送関連サービスのスケジューリングのための配置［２００８．１］",
+      "en": "Arrangements for scheduling broadcast services or broadcast-related services",
+      "count": 710,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/07": {
+      "code": "H04H60/07",
+      "level": 2,
+      "parent": "H04H60/02",
+      "ja": "作成の過程または方法によって特徴付けられるもの［２００８．１］",
+      "en": "characterised by processes or methods for the generation",
+      "count": 1349,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/09": {
+      "code": "H04H60/09",
+      "level": 1,
+      "parent": "H04H60/00",
+      "ja": "機器の制御のための配置であってその制御が放送情報または放送時空に直接結合するもの；放送関連サービスを制御するための配置［２００８．１］",
+      "en": "Arrangements for device control with a direct linkage to broadcast information or to broadcast space-time; Arrangements for control of broadcast-related services",
+      "count": 786,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/11": {
+      "code": "H04H60/11",
+      "level": 2,
+      "parent": "H04H60/09",
+      "ja": "放送情報の一部分が利用できないときの対策のための配置［２００８．１］",
+      "en": "Arrangements for counter-measures when a portion of broadcast information is unavailable",
+      "count": 444,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/12": {
+      "code": "H04H60/12",
+      "level": 3,
+      "parent": "H04H60/11",
+      "ja": "その放送情報の一部分を他の情報で代替するもの［２００８．１］",
+      "en": "wherein another information is substituted for the portion of broadcast information",
+      "count": 491,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/13": {
+      "code": "H04H60/13",
+      "level": 2,
+      "parent": "H04H60/09",
+      "ja": "機器の制御が放送情報によって影響を受けるもの［２００８．１］",
+      "en": "Arrangements for device control affected by the broadcast information",
+      "count": 1773,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/14": {
+      "code": "H04H60/14",
+      "level": 2,
+      "parent": "H04H60/09",
+      "ja": "放送情報または放送関連サービスの制限利用のための配置［２００８．１］",
+      "en": "Arrangements for conditional access to broadcast information or to broadcast-related services",
+      "count": 460,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/15": {
+      "code": "H04H60/15",
+      "level": 3,
+      "parent": "H04H60/14",
+      "ja": "受信を制限するもの［２００８．１］",
+      "en": "on receiving information",
+      "count": 1127,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/16": {
+      "code": "H04H60/16",
+      "level": 3,
+      "parent": "H04H60/14",
+      "ja": "再生を制限するもの［２００８．１］",
+      "en": "on playing information",
+      "count": 502,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/17": {
+      "code": "H04H60/17",
+      "level": 3,
+      "parent": "H04H60/14",
+      "ja": "記録を制限するもの［２００８．１］",
+      "en": "on recording information",
+      "count": 220,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/18": {
+      "code": "H04H60/18",
+      "level": 3,
+      "parent": "H04H60/14",
+      "ja": "複製を制限するもの［２００８．１］",
+      "en": "on copying information",
+      "count": 154,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/19": {
+      "code": "H04H60/19",
+      "level": 3,
+      "parent": "H04H60/14",
+      "ja": "送信を制限するもの［２００８．１］",
+      "en": "on transmission of information",
+      "count": 145,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/20": {
+      "code": "H04H60/20",
+      "level": 3,
+      "parent": "H04H60/14",
+      "ja": "二次加工を制限するもの［２００８．１］",
+      "en": "on secondary editing information",
+      "count": 29,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/21": {
+      "code": "H04H60/21",
+      "level": 3,
+      "parent": "H04H60/14",
+      "ja": "放送情報または放送関連情報の使用に対して課金するもの［２００８．１］",
+      "en": "Billing for the use of broadcast information or broadcast-related information",
+      "count": 431,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/22": {
+      "code": "H04H60/22",
+      "level": 4,
+      "parent": "H04H60/21",
+      "ja": "使用ごとに課金するもの［２００８．１］",
+      "en": "per use",
+      "count": 139,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/23": {
+      "code": "H04H60/23",
+      "level": 3,
+      "parent": "H04H60/14",
+      "ja": "暗号技術，例．暗号化，認証または鍵配送，を用いるもの［２００８．１］",
+      "en": "using cryptography, e.g. encryption, authentication or key distribution",
+      "count": 1484,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/25": {
+      "code": "H04H60/25",
+      "level": 1,
+      "parent": "H04H60/00",
+      "ja": "放送情報または放送関連情報をアップデートするための配置［２００８．１］",
+      "en": "Arrangements for updating broadcast information or broadcast-related information",
+      "count": 737,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/27": {
+      "code": "H04H60/27",
+      "level": 1,
+      "parent": "H04H60/00",
+      "ja": "放送情報または放送関連情報の記録または蓄積のための配置［２００８．１］",
+      "en": "Arrangements for recording or accumulating broadcast information or broadcast-related information",
+      "count": 2205,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/29": {
+      "code": "H04H60/29",
+      "level": 1,
+      "parent": "H04H60/00",
+      "ja": "放送サービスまたは放送関連サービスの監視のための配置［２００８．１］",
+      "en": "Arrangements for monitoring broadcast services or broadcast-related services",
+      "count": 493,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/31": {
+      "code": "H04H60/31",
+      "level": 2,
+      "parent": "H04H60/29",
+      "ja": "放送サービスの利用状態の監視のためのもの［２００８．１］",
+      "en": "Arrangements for monitoring the use made of the broadcast services",
+      "count": 1635,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/32": {
+      "code": "H04H60/32",
+      "level": 2,
+      "parent": "H04H60/29",
+      "ja": "受信局の状態，例．受信局の不調又は故障，の監視のためのもの［２００８．１］",
+      "en": "Arrangements for monitoring conditions of receiving stations, e.g. malfunction or breakdown of receiving stations",
+      "count": 1468,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/33": {
+      "code": "H04H60/33",
+      "level": 2,
+      "parent": "H04H60/29",
+      "ja": "利用者の挙動または意識を観測するためのもの［２００８．１］",
+      "en": "Arrangements for monitoring the users' behaviour or opinions",
+      "count": 2055,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/35": {
+      "code": "H04H60/35",
+      "level": 1,
+      "parent": "H04H60/00",
+      "ja": "放送情報または放送時空に直接結合する物事を識別または認識するための配置，例．放送局又は利用者の識別のためのもの［２００８．１］",
+      "en": "Arrangements for identifying or recognising characteristics with a direct linkage to broadcast information or to broadcast space-time, e.g. for identifying broadcast stations or for identifying users",
+      "count": 308,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/37": {
+      "code": "H04H60/37",
+      "level": 2,
+      "parent": "H04H60/35",
+      "ja": "放送情報の部分を識別するためのもの，例．シーンまたはプログラムＩＤの抽出［２００８．１］",
+      "en": "for identifying segments of broadcast information, e.g. scenes or extracting programme ID",
+      "count": 2193,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/38": {
+      "code": "H04H60/38",
+      "level": 2,
+      "parent": "H04H60/35",
+      "ja": "放送時間または放送空間の識別のためのもの［２００８．１］",
+      "en": "for identifying broadcast time or space",
+      "count": 66,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/39": {
+      "code": "H04H60/39",
+      "level": 3,
+      "parent": "H04H60/38",
+      "ja": "放送時空の識別のためのもの（ＥＰＧの利用Ｈ０４Ｈ６０／７２）［２００８．０１］",
+      "en": "for identifying broadcast space-time(use of Electronic Programme Guides <b>H04H60/72</b>)",
+      "count": 335,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/40": {
+      "code": "H04H60/40",
+      "level": 3,
+      "parent": "H04H60/38",
+      "ja": "放送時間の識別のためのもの［２００８．１］",
+      "en": "for identifying broadcast time",
+      "count": 836,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/41": {
+      "code": "H04H60/41",
+      "level": 3,
+      "parent": "H04H60/38",
+      "ja": "放送空間，すなわち，放送チャネル，放送局または放送地域，の識別のためのもの［２００８．１］",
+      "en": "for identifying broadcast space, i.e. broadcast channels, broadcast stations or broadcast areas",
+      "count": 217,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/42": {
+      "code": "H04H60/42",
+      "level": 4,
+      "parent": "H04H60/41",
+      "ja": "放送地域の識別のためのもの［２００８．１］",
+      "en": "for identifying broadcast areas",
+      "count": 378,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/43": {
+      "code": "H04H60/43",
+      "level": 4,
+      "parent": "H04H60/41",
+      "ja": "放送チャネルの識別のためのもの［２００８．１］",
+      "en": "for identifying broadcast channels",
+      "count": 1161,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/44": {
+      "code": "H04H60/44",
+      "level": 4,
+      "parent": "H04H60/41",
+      "ja": "放送局の識別のためのもの［２００８．１］",
+      "en": "for identifying broadcast stations",
+      "count": 423,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/45": {
+      "code": "H04H60/45",
+      "level": 2,
+      "parent": "H04H60/35",
+      "ja": "利用者を識別するためのもの［２００８．１］",
+      "en": "for identifying users",
+      "count": 639,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/46": {
+      "code": "H04H60/46",
+      "level": 2,
+      "parent": "H04H60/35",
+      "ja": "利用者の嗜好を認識するためのもの［２００８．１］",
+      "en": "for recognising users' preferences",
+      "count": 1162,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/47": {
+      "code": "H04H60/47",
+      "level": 2,
+      "parent": "H04H60/35",
+      "ja": "ジャンルを認識するためのもの［２００８．１］",
+      "en": "for recognising genres",
+      "count": 451,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/48": {
+      "code": "H04H60/48",
+      "level": 2,
+      "parent": "H04H60/35",
+      "ja": "放送情報に表現された事物を認識するためのもの［２００８．１］",
+      "en": "for recognising items expressed in broadcast information",
+      "count": 332,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/49": {
+      "code": "H04H60/49",
+      "level": 2,
+      "parent": "H04H60/35",
+      "ja": "位置を認識するためのもの［２００８．１］",
+      "en": "for identifying locations",
+      "count": 97,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/50": {
+      "code": "H04H60/50",
+      "level": 3,
+      "parent": "H04H60/49",
+      "ja": "放送局または中継局の位置［２００８．１］",
+      "en": "of broadcast or relay stations",
+      "count": 140,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/51": {
+      "code": "H04H60/51",
+      "level": 3,
+      "parent": "H04H60/49",
+      "ja": "受信局の位置［２００８．１］",
+      "en": "of receiving stations",
+      "count": 918,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/52": {
+      "code": "H04H60/52",
+      "level": 3,
+      "parent": "H04H60/49",
+      "ja": "利用者の位置［２００８．１］",
+      "en": "of users",
+      "count": 148,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/53": {
+      "code": "H04H60/53",
+      "level": 3,
+      "parent": "H04H60/49",
+      "ja": "目的地の位置［２００８．１］",
+      "en": "of destinations",
+      "count": 101,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/54": {
+      "code": "H04H60/54",
+      "level": 3,
+      "parent": "H04H60/49",
+      "ja": "放送情報が作成された位置［２００８．１］",
+      "en": "where broadcast information is generated",
+      "count": 55,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/56": {
+      "code": "H04H60/56",
+      "level": 1,
+      "parent": "H04H60/00",
+      "ja": "グループＨ０４Ｈ６０／２９またはＨ０４Ｈ６０／３５に分類される監視，識別または認識に特に適合する要素技術によって特徴づけられるもの［２００８．０１］",
+      "en": "Arrangements characterised by components specially adapted for monitoring, identification or recognition covered by groups <b>H04H60/29</b> or <b>H04H60/35</b>",
+      "count": 304,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/58": {
+      "code": "H04H60/58",
+      "level": 2,
+      "parent": "H04H60/56",
+      "ja": "音声の監視，識別または認識に特に適合する要素技術によるもの［２００８．１］",
+      "en": "of audio",
+      "count": 660,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/59": {
+      "code": "H04H60/59",
+      "level": 2,
+      "parent": "H04H60/56",
+      "ja": "画像の監視，識別または認識に特に適合する要素技術によるもの［２００８．１］",
+      "en": "of video",
+      "count": 359,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/61": {
+      "code": "H04H60/61",
+      "level": 1,
+      "parent": "H04H60/00",
+      "ja": "グループＨ０４Ｈ６０／２９またはＨ０４Ｈ６０／３５に分類される監視，識別または認識の結果を利用するサービスのための配置［２００８．０１］",
+      "en": "Arrangements for services using the result of monitoring, identification or recognition covered by groups <b>H04H60/29</b> or <b>H04H60/35</b>",
+      "count": 113,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/63": {
+      "code": "H04H60/63",
+      "level": 2,
+      "parent": "H04H60/61",
+      "ja": "販売サービスのためのもの［２００８．１］",
+      "en": "for services of sales",
+      "count": 447,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/64": {
+      "code": "H04H60/64",
+      "level": 2,
+      "parent": "H04H60/61",
+      "ja": "詳細情報を提供するためのもの［２００８．１］",
+      "en": "for providing detail information",
+      "count": 415,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/65": {
+      "code": "H04H60/65",
+      "level": 2,
+      "parent": "H04H60/61",
+      "ja": "利用者側で利用するためのもの［２００８．１］",
+      "en": "for using the result on users' side",
+      "count": 1102,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/66": {
+      "code": "H04H60/66",
+      "level": 2,
+      "parent": "H04H60/61",
+      "ja": "配信者側で利用するためのもの［２００８．１］",
+      "en": "for using the result on distributors' side",
+      "count": 708,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/68": {
+      "code": "H04H60/68",
+      "level": 1,
+      "parent": "H04H60/00",
+      "ja": "特定の情報，例．地理情報または気象情報，の利用に特に適合するシステム［２００８．１］",
+      "en": "Systems specially adapted for using specific information, e.g. geographical or meteorological information",
+      "count": 235,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/70": {
+      "code": "H04H60/70",
+      "level": 2,
+      "parent": "H04H60/68",
+      "ja": "地理情報，例．地図，海図または地図帳，を利用するもの［２００８．１］",
+      "en": "using geographical information, e.g. maps, charts or atlases",
+      "count": 258,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/71": {
+      "code": "H04H60/71",
+      "level": 2,
+      "parent": "H04H60/68",
+      "ja": "気象情報を利用するもの［２００８．１］",
+      "en": "using meteorological information",
+      "count": 129,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/72": {
+      "code": "H04H60/72",
+      "level": 2,
+      "parent": "H04H60/68",
+      "ja": "電子番組表［ＥＰＧ］を利用するもの（放送時間または放送空間の識別を主眼とするものＨ０４Ｈ６０／３９）［２００８．０１］",
+      "en": "using electronic programme guides [EPG](focusing on identifying broadcast space time <b>H04H60/39</b>)",
+      "count": 1573,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/73": {
+      "code": "H04H60/73",
+      "level": 2,
+      "parent": "H04H60/68",
+      "ja": "メタ情報を利用するもの［２００８．１］",
+      "en": "using meta-information",
+      "count": 706,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/74": {
+      "code": "H04H60/74",
+      "level": 3,
+      "parent": "H04H60/73",
+      "ja": "番組関連情報，例．タイトル，作曲者または翻訳者，を利用するもの［２００８．１］",
+      "en": "using programme related information, e.g. title, composer or interpreter",
+      "count": 486,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/76": {
+      "code": "H04H60/76",
+      "level": 1,
+      "parent": "H04H60/00",
+      "ja": "放送用でない伝送システム，例．インターネット，によって特徴づけられるもの［２００８．１］",
+      "en": "Arrangements characterised by transmission systems other than for broadcast, e.g. the Internet",
+      "count": 274,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/78": {
+      "code": "H04H60/78",
+      "level": 2,
+      "parent": "H04H60/76",
+      "ja": "始点または終点によって特徴づけられるもの［２００８．１］",
+      "en": "characterised by source locations or destination locations",
+      "count": 77,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/79": {
+      "code": "H04H60/79",
+      "level": 3,
+      "parent": "H04H60/78",
+      "ja": "放送局間伝送［２００８．１］",
+      "en": "characterised by transmission among broadcast stations",
+      "count": 62,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/80": {
+      "code": "H04H60/80",
+      "level": 3,
+      "parent": "H04H60/78",
+      "ja": "端末機器間伝送［２００８．１］",
+      "en": "characterised by transmission among terminal devices",
+      "count": 794,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/81": {
+      "code": "H04H60/81",
+      "level": 2,
+      "parent": "H04H60/76",
+      "ja": "伝送システムそれ自身によって特徴づけられるもの［２００８．１］",
+      "en": "characterised by the transmission system itself",
+      "count": 126,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/82": {
+      "code": "H04H60/82",
+      "level": 3,
+      "parent": "H04H60/81",
+      "ja": "インターネット［２００８．１］",
+      "en": "the transmission system being the Internet",
+      "count": 1996,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/83": {
+      "code": "H04H60/83",
+      "level": 4,
+      "parent": "H04H60/82",
+      "ja": "電話網を介してアクセスされるインターネット［２００８．１］",
+      "en": "accessed over telephonic networks",
+      "count": 51,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/84": {
+      "code": "H04H60/84",
+      "level": 5,
+      "parent": "H04H60/83",
+      "ja": "固定電話網を介してアクセスされるもの［２００８．１］",
+      "en": "which are fixed telephone networks",
+      "count": 45,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/85": {
+      "code": "H04H60/85",
+      "level": 5,
+      "parent": "H04H60/83",
+      "ja": "移動体通信網を介してアクセスされるもの［２００８．１］",
+      "en": "which are mobile communication networks",
+      "count": 464,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/86": {
+      "code": "H04H60/86",
+      "level": 4,
+      "parent": "H04H60/82",
+      "ja": "ＣＡＴＶ網を介してアクセスされるインターネット［２００８．１］",
+      "en": "accessed over CATV networks",
+      "count": 46,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/87": {
+      "code": "H04H60/87",
+      "level": 4,
+      "parent": "H04H60/82",
+      "ja": "計算機網を介してアクセスされるインターネット［２００８．１］",
+      "en": "accessed over computer networks",
+      "count": 90,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/88": {
+      "code": "H04H60/88",
+      "level": 5,
+      "parent": "H04H60/87",
+      "ja": "無線計算機網［２００８．１］",
+      "en": "which are wireless networks",
+      "count": 67,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/89": {
+      "code": "H04H60/89",
+      "level": 5,
+      "parent": "H04H60/87",
+      "ja": "有線計算機網［２００８．１］",
+      "en": "which are wired networks",
+      "count": 24,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/90": {
+      "code": "H04H60/90",
+      "level": 3,
+      "parent": "H04H60/81",
+      "ja": "無線伝送方式［２００８．１］",
+      "en": "Wireless transmission systems",
+      "count": 285,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/91": {
+      "code": "H04H60/91",
+      "level": 4,
+      "parent": "H04H60/90",
+      "ja": "移動体通信網（インターネットへのアクセスに用いられるものＨ０４Ｈ６０／８５）［２００８．０１］",
+      "en": "Mobile communication networks(for accessing the Internet <b>H04H60/85</b>)",
+      "count": 1030,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/92": {
+      "code": "H04H60/92",
+      "level": 4,
+      "parent": "H04H60/90",
+      "ja": "局所無線伝送方式［２００８．１］",
+      "en": "for local area",
+      "count": 197,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/93": {
+      "code": "H04H60/93",
+      "level": 3,
+      "parent": "H04H60/81",
+      "ja": "有線伝送方式［２００８．１］",
+      "en": "Wired transmission systems",
+      "count": 96,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/94": {
+      "code": "H04H60/94",
+      "level": 4,
+      "parent": "H04H60/93",
+      "ja": "電話網（インターネットへのアクセスに用いられるものＨ０４Ｈ６０／８４）［２００８．０１］",
+      "en": "Telephonic networks(for accessing the Internet <b>H04H60/84</b>)",
+      "count": 591,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/95": {
+      "code": "H04H60/95",
+      "level": 4,
+      "parent": "H04H60/93",
+      "ja": "局所有線伝送方式［２００８．１］",
+      "en": "for local area",
+      "count": 158,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/96": {
+      "code": "H04H60/96",
+      "level": 4,
+      "parent": "H04H60/93",
+      "ja": "ＣＡＴＶ方式（インターネットへのアクセスに用いられるものＨ０４Ｈ６０／８６）［２００８．０１］",
+      "en": "CATV systems(for accessing the Internet <b>H04H60/86</b>)",
+      "count": 65,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/97": {
+      "code": "H04H60/97",
+      "level": 5,
+      "parent": "H04H60/96",
+      "ja": "ＣＡＴＶのアップリンクを使用するもの［２００８．１］",
+      "en": "using uplink of the CATV systems",
+      "count": 202,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    },
+    "H04H60/98": {
+      "code": "H04H60/98",
+      "level": 3,
+      "parent": "H04H60/81",
+      "ja": "記録媒体の物流による伝送システム，例．葉書，ＣＤまたはＤＶＤ［２００８．１］",
+      "en": "Physical distribution of media, e.g. postcards, CDs or DVDs",
+      "count": 146,
+      "sourceFile": "ipc_H04H.txt",
+      "kind": "ipc"
+    }
+  }
+};

@@ -1,0 +1,536 @@
+window.IPC_SHARD_B23G = {
+  "generatedAt": "2026-03-20T02:17:46.111Z",
+  "total": 53,
+  "entries": {
+    "B23G": {
+      "code": "B23G",
+      "level": 0,
+      "parent": "B23",
+      "ja": "ねじ切り；ねじ切りと関連した，ねじ，ボルト頭，またはナットの加工（管を波形に縮めることによるねじ形成Ｂ２１Ｄ１５／０４，転造によるねじ形成Ｂ２１Ｈ３／０２，鍛造，圧搾，またはハンマリングによるらせん溝の作成Ｂ２１Ｋ１／５６；旋削によるらせん溝の作成Ｂ２３Ｂ５／４８，フライス削りによるらせん溝の作成Ｂ２３Ｃ３／３２，研削によるらせん溝の作成Ｂ２４Ｂ１９／０２；ならい削りまたは制御のための装置Ｂ２３Ｑ）<br><br><b><ul>注</ul></b><br>このサブクラスにおいては，下記の表現は以下の意味で用いる：<br>―“ねじ切り”は，形状および使用方法の両方においてねじ切り工具と類似した工具により，工作物から材料を取り去ることなしにねじを形成するものも含む。<br><br><b><ul>サブクラス内の索引</ul></b><br>ねじ切り方法，そのための機械または装置　１／００，３／００，７／００，９／００<br>仕上げ　９／００<br>工具　５／００，７／０２<br>付属装置　１１／００",
+      "en": "THREAD CUTTING; WORKING OF SCREWS, BOLT HEADS OR NUTS, IN CONJUNCTION THEREWITH(thread-forming by corrugating tubes <b>B21D15/04</b>;  by rolling <b>B21H3/02</b>; by forging, pressing or hammering <b>B21K1/56</b>;  making helical grooves by turning <b>B23B5/48</b>; by milling <b>B23C3/32</b>; by grinding <b>B24B19/02</b>;  arrangements for copying or controlling <b>B23Q</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>In this subclass, the following expression is used with the meaning indicated:<ul><li>\"thread cutting\" includes the use of tools similar both in form and in manner of use to thread-cutting tools, but without removing any material.</li></ul></li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">THREAD-CUTTING METHODS, MACHINES OR DEVICES THEREFOR </td><td><b><b>1/00</b>, <b>3/00</b>, <b>7/00</b>, <b>9/00</b></b></td></tr></tr><tr><td width=\"70%\">FINISHING </td><td><b><b>9/00</b></b></td></tr></tr><tr><td width=\"70%\">TOOLS </td><td><b><b>5/00</b>, <b>7/02</b></b></td></tr></tr><tr><td width=\"70%\">ACCESSORIES </td><td><b><b>11/00</b></b></td></tr></tr></table>",
+      "count": 351,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B23": {
+      "code": "B23",
+      "level": 0,
+      "parent": "B",
+      "ja": "工作機械；他に分類されない金属加工<br><br><b><ul>注</ul></b><br>（１）このクラスは以下のものを包含する：<br>―金属材料の加工；［２０１５．０１］<br>―適用される方法が金属材料加工に用いられるものと類似し且つ他の分類箇所に包含されないものに限る非金属材料の加工；［２０１５．０１］<br>―サブクラスＢ２３Ｑに包含されるものであって工作機械の個々の種類に特有でない性質の要請または問題，例．加工物の供給，に関する特徴。もっともその特徴の実施形態は適用される機械の種類に応じて異ってもよい。たとえ，その特徴または特定の機能が，実際上ある特定の作業用に設計された工作機械にかなりな程度特有であり，またはその工作機械用にのみクレームされていても，その特徴は一般に前記サブクラスに分類され，例外的にのみ関係する工作機械のサブクラスに分類される。しかしながら，この一般的性質をもつ特徴のあるものは個々の金属加工作業に関するサブクラス，特にＢ２３Ｂに分類される。この場合，当該サブクラスはこれらの特徴に関しては主に関係する工作機械の種類に制限されない。<br>（２）このサブクラスにおいては，下記の用語または表現は以下の意味で用いる：<br>―“作業の種類”という用語およびそれに類する表現は中ぐり，穴あけ，フライス削りおよび研削のような金属加工作業に関する；<br>―“機械の種類”という用語は１つの特定の金属加工作業のために設計された機械を意味する（例．旋盤）；<br>―“機械の形式”という用語は加工の特定の方法または特定の工作物のために適用または構成される特定種類の機械，例．正面旋盤，心押台旋盤，タレット旋盤，を意味する；<br>―“種々の機械”は同種の金属加工を行う種々の形式の工作機械全部，たとえば立て中ぐり盤と横中ぐり盤とを含む。<br>（３）もし，細部，構成部分または付属品が工作機械に固有の本質的特徴をもたないならばさらに一般的なクラス，例．Ｆ１６，が優先する。",
+      "en": "MACHINE TOOLS; METAL-WORKING NOT OTHERWISE PROVIDED FOR; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This class <u>covers  </u>: <ul><li>working of metallic materials;</li><li>working of non-metallic materials, provided that the methods applied are similar to those used in metal-working and not provided for elsewhere;</li><li>features, specific to machine tools, which relate to a requirement or problem of a nature which is not peculiar to a particular kind of machine tool, e.g. feeding work, which are covered by subclass <b>B23Q</b>, although the realisation of these features may differ according to the kind of machine tool concerned. The said subclass covers such features, in general, even if the feature or a specific function, in any particular case, is to some extent peculiar to, or is claimed only for, machine tools designed for one particular operation; only in exceptional cases are such features classified in the subclass for the machine tool concerned. Certain features of this general nature are, however, referred to subclasses relating to particular metal-working operations, especially <b>B23B</b>, in which case the subclasses in question are not restricted, in respect of those features, to the kind of machine tool with which they are primarily concerned.</li></ul></li><li>In this class, the following terms or expressions are used with the meanings indicated: <ul><li>\"kind of operations\" and similar expressions relate to such metal-working operations as boring, drilling, milling and grinding;</li><li>\"kind of machine\" means a machine designed for a particular kind of metal-working operation (e.g. a lathe);</li><li>\"form of machine\" means a machine of a particular kind adapted or arranged for a particular way of working or for particular work, e.g. face-plate lathe, tailstock lathe, turret lathe;</li><li>\"different machines\" covers different forms of machines for performing the same type of metal-working operation, e.g. vertical and horizontal boring machines.</li></ul></li><li>If details, components, or accessories have no essential feature specific to machine tools, the more general class, e.g. <b>F16</b>, takes precedence.</li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B": {
+      "code": "B",
+      "level": 0,
+      "parent": null,
+      "ja": "処理操作；運輸",
+      "en": "PERFORMING OPERATIONS; TRANSPORTING",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B23G1/00": {
+      "code": "B23G1/00",
+      "level": 0,
+      "parent": "B23G",
+      "ja": "ねじ切り；そのために特に設計された自動機械",
+      "en": "Thread cutting; Automatic machines specially designed therefor",
+      "count": 2035,
+      "sourceFile": "ipc_B23G.txt",
+      "kind": "ipc"
+    },
+    "B23G1/02": {
+      "code": "B23G1/02",
+      "level": 1,
+      "parent": "B23G1/00",
+      "ja": "外向きまたは内向きの円筒または円錐面，例．奥まった所，にねじ切りするもの（Ｂ２３Ｇ１／１６，Ｂ２３Ｇ１／２２，Ｂ２３Ｇ１／３２，Ｂ２３Ｇ１／３６が優先）",
+      "en": "on an external or internal cylindrical or conical surface, e.g. on recesses(<b>B23G1/16</b>, <b>B23G1/22</b>, <b>B23G1/32</b>, <b>B23G1/36</b> take precedence)",
+      "count": 1437,
+      "sourceFile": "ipc_B23G.txt",
+      "kind": "ipc"
+    },
+    "B23G1/04": {
+      "code": "B23G1/04",
+      "level": 2,
+      "parent": "B23G1/02",
+      "ja": "１個の加工主軸を備えた機械",
+      "en": "Machines with one working-spindle",
+      "count": 1119,
+      "sourceFile": "ipc_B23G.txt",
+      "kind": "ipc"
+    },
+    "B23G1/06": {
+      "code": "B23G1/06",
+      "level": 3,
+      "parent": "B23G1/04",
+      "ja": "円錐ねじ，例．木ねじを作成するために特に適合させられたもの",
+      "en": "specially adapted for making conical screws, e.g. wood-screws",
+      "count": 103,
+      "sourceFile": "ipc_B23G.txt",
+      "kind": "ipc"
+    },
+    "B23G1/08": {
+      "code": "B23G1/08",
+      "level": 2,
+      "parent": "B23G1/02",
+      "ja": "複数個の加工主軸を備えた機械",
+      "en": "Machines with a plurality of working-spindles",
+      "count": 235,
+      "sourceFile": "ipc_B23G.txt",
+      "kind": "ipc"
+    },
+    "B23G1/10": {
+      "code": "B23G1/10",
+      "level": 3,
+      "parent": "B23G1/08",
+      "ja": "円錐ねじ，例．木ねじを作成するために特に適合させられたもの",
+      "en": "specially adapted for making conical screws, e.g. wood-screws",
+      "count": 19,
+      "sourceFile": "ipc_B23G.txt",
+      "kind": "ipc"
+    },
+    "B23G1/12": {
+      "code": "B23G1/12",
+      "level": 2,
+      "parent": "B23G1/02",
+      "ja": "工作物の回転に伴ってねじ山の輪郭を創成するように回転する平歯車またはそれと同様な形状の歯付き刃物を備えた機械",
+      "en": "Machines with a toothed cutter in the shape of a spur gear or the like which is rotated to generate the thread profile as the work rotates",
+      "count": 94,
+      "sourceFile": "ipc_B23G.txt",
+      "kind": "ipc"
+    },
+    "B23G1/14": {
+      "code": "B23G1/14",
+      "level": 3,
+      "parent": "B23G1/12",
+      "ja": "円錐ねじ，例．木ねじを作成するために特に適合させられたもの",
+      "en": "specially adapted for making conical screws, e.g. wood-screws",
+      "count": 20,
+      "sourceFile": "ipc_B23G.txt",
+      "kind": "ipc"
+    },
+    "B23G1/16": {
+      "code": "B23G1/16",
+      "level": 1,
+      "parent": "B23G1/00",
+      "ja": "タップによって工作物の穴内にねじ切りするもの（Ｂ２３Ｇ１／２６，Ｂ２３Ｇ１／３２，Ｂ２３Ｇ１／３６が優先）",
+      "en": "in holes of workpieces by taps(<b>B23G1/26</b>, <b>B23G1/32</b>, <b>B23G1/36</b> take precedence)",
+      "count": 3403,
+      "sourceFile": "ipc_B23G.txt",
+      "kind": "ipc"
+    },
+    "B23G1/18": {
+      "code": "B23G1/18",
+      "level": 2,
+      "parent": "B23G1/16",
+      "ja": "１個の加工主軸を備えた機械",
+      "en": "Machines with one working-spindle",
+      "count": 2979,
+      "sourceFile": "ipc_B23G.txt",
+      "kind": "ipc"
+    },
+    "B23G1/20": {
+      "code": "B23G1/20",
+      "level": 2,
+      "parent": "B23G1/16",
+      "ja": "複数個の加工主軸を備えた機械",
+      "en": "Machines with a plurality of working-spindles",
+      "count": 1472,
+      "sourceFile": "ipc_B23G.txt",
+      "kind": "ipc"
+    },
+    "B23G1/22": {
+      "code": "B23G1/22",
+      "level": 1,
+      "parent": "B23G1/00",
+      "ja": "管体または筒体に対して加工するために特に設計された機械",
+      "en": "Machines specially designed for operating on pipes or tubes",
+      "count": 1730,
+      "sourceFile": "ipc_B23G.txt",
+      "kind": "ipc"
+    },
+    "B23G1/24": {
+      "code": "B23G1/24",
+      "level": 2,
+      "parent": "B23G1/22",
+      "ja": "ポータブルのもの",
+      "en": "portable",
+      "count": 196,
+      "sourceFile": "ipc_B23G.txt",
+      "kind": "ipc"
+    },
+    "B23G1/26": {
+      "code": "B23G1/26",
+      "level": 1,
+      "parent": "B23G1/00",
+      "ja": "手動で操作されるねじ切り装置（ねじ切り工具の特徴Ｂ２３Ｇ５／００）",
+      "en": "Manually-operated thread-cutting devices(features of the threading tool <b>B23G5/00</b>)",
+      "count": 909,
+      "sourceFile": "ipc_B23G.txt",
+      "kind": "ipc"
+    },
+    "B23G1/28": {
+      "code": "B23G1/28",
+      "level": 2,
+      "parent": "B23G1/26",
+      "ja": "ねじ切り工具を調整する手段をもつもの",
+      "en": "with means for adjusting the threading tool",
+      "count": 139,
+      "sourceFile": "ipc_B23G.txt",
+      "kind": "ipc"
+    },
+    "B23G1/30": {
+      "code": "B23G1/30",
+      "level": 2,
+      "parent": "B23G1/26",
+      "ja": "ねじ切り工具を調整する手段をもたないもの，例．ダイ床をもつもの（タップレンチＢ２５Ｂ）",
+      "en": "without means for adjusting the threading tool, e.g. with die-stocks(tap wrenches <b>B25B</b>)",
+      "count": 317,
+      "sourceFile": "ipc_B23G.txt",
+      "kind": "ipc"
+    },
+    "B23G1/32": {
+      "code": "B23G1/32",
+      "level": 1,
+      "parent": "B23G1/00",
+      "ja": "フライス削りによるもの",
+      "en": "by milling",
+      "count": 1092,
+      "sourceFile": "ipc_B23G.txt",
+      "kind": "ipc"
+    },
+    "B23G1/34": {
+      "code": "B23G1/34",
+      "level": 2,
+      "parent": "B23G1/32",
+      "ja": "工作物の回転軸に関して偏心して配置された閉じた径路内を動く切削ビットをもつもの",
+      "en": "with a cutting bit moving in a closed path arranged eccentrically with respect to the axis of the rotating workpiece",
+      "count": 154,
+      "sourceFile": "ipc_B23G.txt",
+      "kind": "ipc"
+    },
+    "B23G1/36": {
+      "code": "B23G1/36",
+      "level": 1,
+      "parent": "B23G1/00",
+      "ja": "研削によるもの",
+      "en": "by grinding",
+      "count": 821,
+      "sourceFile": "ipc_B23G.txt",
+      "kind": "ipc"
+    },
+    "B23G1/38": {
+      "code": "B23G1/38",
+      "level": 2,
+      "parent": "B23G1/36",
+      "ja": "所要のねじピッチに従って工作物に沿って案内される研削と石をもつもの",
+      "en": "with grinding discs guided along the workpiece in accordance with the pitch of the required thread",
+      "count": 167,
+      "sourceFile": "ipc_B23G.txt",
+      "kind": "ipc"
+    },
+    "B23G1/40": {
+      "code": "B23G1/40",
+      "level": 2,
+      "parent": "B23G1/36",
+      "ja": "工作物に対して半径方向に案内される研削と石をもつもの",
+      "en": "with grinding discs guided radially to the workpiece",
+      "count": 27,
+      "sourceFile": "ipc_B23G.txt",
+      "kind": "ipc"
+    },
+    "B23G1/42": {
+      "code": "B23G1/42",
+      "level": 1,
+      "parent": "B23G1/00",
+      "ja": "芯なし研削",
+      "en": "Centreless grinding",
+      "count": 20,
+      "sourceFile": "ipc_B23G.txt",
+      "kind": "ipc"
+    },
+    "B23G1/44": {
+      "code": "B23G1/44",
+      "level": 1,
+      "parent": "B23G1/00",
+      "ja": "ねじ切り用の機械または装置のために特に設計された備品またはアクセサリ",
+      "en": "Equipment or accessories specially designed for machines or devices for thread cutting",
+      "count": 11686,
+      "sourceFile": "ipc_B23G.txt",
+      "kind": "ipc"
+    },
+    "B23G1/46": {
+      "code": "B23G1/46",
+      "level": 2,
+      "parent": "B23G1/44",
+      "ja": "ねじ切り工具を保持するもの",
+      "en": "for holding the threading tools",
+      "count": 2526,
+      "sourceFile": "ipc_B23G.txt",
+      "kind": "ipc"
+    },
+    "B23G1/48": {
+      "code": "B23G1/48",
+      "level": 2,
+      "parent": "B23G1/44",
+      "ja": "ねじ切り工具を案内するもの",
+      "en": "for guiding the threading tools",
+      "count": 644,
+      "sourceFile": "ipc_B23G.txt",
+      "kind": "ipc"
+    },
+    "B23G1/50": {
+      "code": "B23G1/50",
+      "level": 2,
+      "parent": "B23G1/44",
+      "ja": "繰返し操作によってねじを切削するためのもの",
+      "en": "for cutting thread by successive operations",
+      "count": 61,
+      "sourceFile": "ipc_B23G.txt",
+      "kind": "ipc"
+    },
+    "B23G1/52": {
+      "code": "B23G1/52",
+      "level": 2,
+      "parent": "B23G1/44",
+      "ja": "管体または筒体に対して加工するためのもの",
+      "en": "for operating on pipes or tubes",
+      "count": 855,
+      "sourceFile": "ipc_B23G.txt",
+      "kind": "ipc"
+    },
+    "B23G3/00": {
+      "code": "B23G3/00",
+      "level": 0,
+      "parent": "B23G",
+      "ja": "ねじ切りのためのみに特に設計されたものではない工作機械を，ねじ切りのために使用できるようにするための装置または付属装置，例．加工主軸を逆転させるための装置",
+      "en": "Arrangements or accessories for enabling machine tools not specially designed only for thread cutting to be used for this purpose, e.g. arrangements for reversing the working-spindle",
+      "count": 1110,
+      "sourceFile": "ipc_B23G.txt",
+      "kind": "ipc"
+    },
+    "B23G3/02": {
+      "code": "B23G3/02",
+      "level": 1,
+      "parent": "B23G3/00",
+      "ja": "ねじ切り工具の引戻しまたは再セッティングのためのもの",
+      "en": "for withdrawing or resetting the threading tool",
+      "count": 119,
+      "sourceFile": "ipc_B23G.txt",
+      "kind": "ipc"
+    },
+    "B23G3/04": {
+      "code": "B23G3/04",
+      "level": 2,
+      "parent": "B23G3/02",
+      "ja": "ねじ切り工具をあらかじめ定められた加工位置に反覆してセッティングするためのもの",
+      "en": "for repeatedly setting the threading tool in a predetermined working position",
+      "count": 117,
+      "sourceFile": "ipc_B23G.txt",
+      "kind": "ipc"
+    },
+    "B23G3/06": {
+      "code": "B23G3/06",
+      "level": 1,
+      "parent": "B23G3/00",
+      "ja": "親ねじのピッチ誤差を補償するためのもの",
+      "en": "for compensating inaccuracies in the pitch of the lead-screw",
+      "count": 47,
+      "sourceFile": "ipc_B23G.txt",
+      "kind": "ipc"
+    },
+    "B23G3/08": {
+      "code": "B23G3/08",
+      "level": 1,
+      "parent": "B23G3/00",
+      "ja": "ねじ切り工具または工作物を，型板，カム，または同様な手段によって前進または制御するためのもの",
+      "en": "for advancing or controlling the threading tool or the work by templates, cams, or the like",
+      "count": 179,
+      "sourceFile": "ipc_B23G.txt",
+      "kind": "ipc"
+    },
+    "B23G3/10": {
+      "code": "B23G3/10",
+      "level": 2,
+      "parent": "B23G3/08",
+      "ja": "可変ピッチのねじを切削するためのもの",
+      "en": "for cutting thread of variable pitch",
+      "count": 78,
+      "sourceFile": "ipc_B23G.txt",
+      "kind": "ipc"
+    },
+    "B23G3/12": {
+      "code": "B23G3/12",
+      "level": 2,
+      "parent": "B23G3/08",
+      "ja": "数個の近接して配置されたねじ切り工具，例．数個のチェーザ，を使用するためのもの",
+      "en": "for using several adjacently-arranged threading tools, e.g. using several chasers",
+      "count": 54,
+      "sourceFile": "ipc_B23G.txt",
+      "kind": "ipc"
+    },
+    "B23G3/14": {
+      "code": "B23G3/14",
+      "level": 2,
+      "parent": "B23G3/08",
+      "ja": "円錐形状のねじ山を切削するためのもの",
+      "en": "for cutting thread of conical shape",
+      "count": 29,
+      "sourceFile": "ipc_B23G.txt",
+      "kind": "ipc"
+    },
+    "B23G5/00": {
+      "code": "B23G5/00",
+      "level": 0,
+      "parent": "B23G",
+      "ja": "ねじ切削工具；ダイヘッド",
+      "en": "Thread-cutting tools; Die-heads",
+      "count": 1415,
+      "sourceFile": "ipc_B23G.txt",
+      "kind": "ipc"
+    },
+    "B23G5/02": {
+      "code": "B23G5/02",
+      "level": 1,
+      "parent": "B23G5/00",
+      "ja": "調整用手段のないもの",
+      "en": "without means for adjustment",
+      "count": 158,
+      "sourceFile": "ipc_B23G.txt",
+      "kind": "ipc"
+    },
+    "B23G5/04": {
+      "code": "B23G5/04",
+      "level": 2,
+      "parent": "B23G5/02",
+      "ja": "ダイス",
+      "en": "Dies",
+      "count": 926,
+      "sourceFile": "ipc_B23G.txt",
+      "kind": "ipc"
+    },
+    "B23G5/06": {
+      "code": "B23G5/06",
+      "level": 2,
+      "parent": "B23G5/02",
+      "ja": "タップ（そのためのチャックＢ２３Ｂ３１／００）",
+      "en": "Taps(chucks therefor <b>B23B31/00</b>)",
+      "count": 3129,
+      "sourceFile": "ipc_B23G.txt",
+      "kind": "ipc"
+    },
+    "B23G5/08": {
+      "code": "B23G5/08",
+      "level": 1,
+      "parent": "B23G5/00",
+      "ja": "調整用手段をもつもの",
+      "en": "with means for adjustment",
+      "count": 418,
+      "sourceFile": "ipc_B23G.txt",
+      "kind": "ipc"
+    },
+    "B23G5/10": {
+      "code": "B23G5/10",
+      "level": 2,
+      "parent": "B23G5/08",
+      "ja": "ダイヘッド",
+      "en": "Die-heads",
+      "count": 574,
+      "sourceFile": "ipc_B23G.txt",
+      "kind": "ipc"
+    },
+    "B23G5/12": {
+      "code": "B23G5/12",
+      "level": 3,
+      "parent": "B23G5/10",
+      "ja": "自己解放形",
+      "en": "self-releasing",
+      "count": 616,
+      "sourceFile": "ipc_B23G.txt",
+      "kind": "ipc"
+    },
+    "B23G5/14": {
+      "code": "B23G5/14",
+      "level": 2,
+      "parent": "B23G5/08",
+      "ja": "タッピングヘッド",
+      "en": "Tapping-heads",
+      "count": 350,
+      "sourceFile": "ipc_B23G.txt",
+      "kind": "ipc"
+    },
+    "B23G5/16": {
+      "code": "B23G5/16",
+      "level": 3,
+      "parent": "B23G5/14",
+      "ja": "自己解放形",
+      "en": "self-releasing",
+      "count": 26,
+      "sourceFile": "ipc_B23G.txt",
+      "kind": "ipc"
+    },
+    "B23G5/18": {
+      "code": "B23G5/18",
+      "level": 1,
+      "parent": "B23G5/00",
+      "ja": "フライス",
+      "en": "Milling cutters",
+      "count": 786,
+      "sourceFile": "ipc_B23G.txt",
+      "kind": "ipc"
+    },
+    "B23G5/20": {
+      "code": "B23G5/20",
+      "level": 1,
+      "parent": "B23G5/00",
+      "ja": "他の工具，例．ドリル，と結合したもの",
+      "en": "combined with other tools, e.g. drills",
+      "count": 622,
+      "sourceFile": "ipc_B23G.txt",
+      "kind": "ipc"
+    },
+    "B23G7/00": {
+      "code": "B23G7/00",
+      "level": 0,
+      "parent": "B23G",
+      "ja": "形状および使用方法の両方においてねじ切り工具と類似した工具を用いて，材料を工作物から取り去ることなしにねじを形成するもの（ねじ形成の特殊な方法に適用されない機械または装置の特徴Ｂ２３Ｇ１／００）",
+      "en": "Forming thread by means of tools similar both in form and in manner of use to thread-cutting tools, but without removing any material(features of machines or devices not specially adapted to the particular mode of forming the thread <b>B23G1/00</b>)",
+      "count": 772,
+      "sourceFile": "ipc_B23G.txt",
+      "kind": "ipc"
+    },
+    "B23G7/02": {
+      "code": "B23G7/02",
+      "level": 1,
+      "parent": "B23G7/00",
+      "ja": "その目的のための工具",
+      "en": "Tools for this purpose",
+      "count": 354,
+      "sourceFile": "ipc_B23G.txt",
+      "kind": "ipc"
+    },
+    "B23G9/00": {
+      "code": "B23G9/00",
+      "level": 0,
+      "parent": "B23G",
+      "ja": "ねじ切りに関連した，ねじ，ボルト頭またはナットの加工，例．ねじ頭またはシャンクのみぞ加工，ばり取り；仕上げ，例．ねじ山のつや出し（金属板，金属管または金属プロフィルの加工によって，本質的に材料を取り去ることなしにワッシャーまたはナットを製造するものＢ２１Ｄ５３／２０，Ｂ２１Ｄ５３／２４）",
+      "en": "Working screws, bolt heads or nuts in conjunction with thread cutting, e.g. slotting screw heads or shanks, removing burrs from screw heads or shanks; Finishing, e.g. polishing, any screw thread(making washers or nuts by processing metal sheets, tubes or profiles without essentially removing material <b>B21D53/20</b>, <b>B21D53/24</b>)",
+      "count": 2361,
+      "sourceFile": "ipc_B23G.txt",
+      "kind": "ipc"
+    },
+    "B23G11/00": {
+      "code": "B23G11/00",
+      "level": 0,
+      "parent": "B23G",
+      "ja": "ねじ切り機械と結合された，またはねじ切り機械中に配置された，またはねじ切り機械と接続して用いるために特に適合させられた供給または排除機構（工作機械用一般Ｂ２３Ｑ）",
+      "en": "Feeding or discharging mechanisms combined with, or arranged in, or specially adapted for use in connection with, thread-cutting machines(for machine tools in general <b>B23Q</b>)",
+      "count": 3502,
+      "sourceFile": "ipc_B23G.txt",
+      "kind": "ipc"
+    }
+  }
+};

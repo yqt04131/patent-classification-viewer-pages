@@ -1,0 +1,123 @@
+window.FI_SHARD_C08H = {
+  "generatedAt": "2026-03-20T02:17:50.419Z",
+  "total": 9,
+  "entries": {
+    "C08H": {
+      "code": "C08H",
+      "level": 0,
+      "parent": null,
+      "ja": "",
+      "en": "",
+      "count": 0,
+      "ipcCode": "",
+      "fTerm": "DERIVATIVES OF NATURAL MACROMOLECULAR COMPOUNDS (polysaccharides <b>C08B</b>; natural rubber <b>C08C</b>; natural resins or their derivatives <b>C09F</b>; working up pitch, asphalt or bitumen <b>C10C 3/00</b>)<br><br><b><u>Note(s)</u></b><br><br><ul type=\"\"1\"\"><li>Therapeutic activity of compounds is further classified in subclass <b>A61P</b>.<b>[7]</b></li></ul>",
+      "childFlag": 0,
+      "sourceFile": "fi_C.txt",
+      "kind": "fi"
+    },
+    "C08H1/00\\": {
+      "code": "C08H1/00\\",
+      "level": 0,
+      "parent": null,
+      "ja": "蛋白質から誘導される高分子物質（食品蛋白質Ａ２３，例．Ａ２３Ｊ；にかわまたはゼラチンの製造方法Ｃ０９Ｈ）",
+      "en": "Macromolecular products derived from proteins (food proteins A23, e.g. A23J; glue, gelatine C09H)",
+      "count": 733,
+      "ipcCode": "C08H1/00",
+      "fTerm": "4J042",
+      "childFlag": 0,
+      "sourceFile": "fi_C08H.txt",
+      "kind": "fi"
+    },
+    "C08H1/02\\": {
+      "code": "C08H1/02\\",
+      "level": 1,
+      "parent": "C08H1/00\\",
+      "ja": "蛋白質―アルデヒド縮合物",
+      "en": "Protein-aldehyde condensates",
+      "count": 15,
+      "ipcCode": "C08H1/02",
+      "fTerm": "4J042",
+      "childFlag": 1,
+      "sourceFile": "fi_C08H.txt",
+      "kind": "fi"
+    },
+    "C08H1/04\\": {
+      "code": "C08H1/04\\",
+      "level": 2,
+      "parent": "C08H1/02\\",
+      "ja": "カゼイン―アルデヒド縮合物",
+      "en": "Casein-aldehyde condensates",
+      "count": 1,
+      "ipcCode": "C08H1/04",
+      "fTerm": "4J042",
+      "childFlag": 2,
+      "sourceFile": "fi_C08H.txt",
+      "kind": "fi"
+    },
+    "C08H1/06\\": {
+      "code": "C08H1/06\\",
+      "level": 1,
+      "parent": "C08H1/00\\",
+      "ja": "角，ひづめ，毛，皮膚または皮革から誘導されるもの",
+      "en": "derived from horn, hoofs, hair, skin, or leather",
+      "count": 82,
+      "ipcCode": "C08H1/06",
+      "fTerm": "4J042",
+      "childFlag": 1,
+      "sourceFile": "fi_C08H.txt",
+      "kind": "fi"
+    },
+    "C08H3/00\\": {
+      "code": "C08H3/00\\",
+      "level": 0,
+      "parent": null,
+      "ja": "加硫油，例．ファクチス",
+      "en": "Vulcanised oils, e.g. factice",
+      "count": 176,
+      "ipcCode": "C08H3/00",
+      "fTerm": "4J042",
+      "childFlag": 0,
+      "sourceFile": "fi_C08H.txt",
+      "kind": "fi"
+    },
+    "C08H7/00\\": {
+      "code": "C08H7/00\\",
+      "level": 0,
+      "parent": null,
+      "ja": "リグニン；変性リグニン；そこから誘導された高分子量生成物（リグニンの低分子量誘導体Ｃ０７Ｇ１／００）［２０１１．０１］",
+      "en": "Lignin; Modified lignin; High-molecular-weight products derived therefrom (low-molecular-weight derivatives of lignin C07G 1/00) [2011.01]",
+      "count": 336,
+      "ipcCode": "C08H7/00",
+      "fTerm": "4J042",
+      "childFlag": 0,
+      "sourceFile": "fi_C08H.txt",
+      "kind": "fi"
+    },
+    "C08H8/00\\": {
+      "code": "C08H8/00\\",
+      "level": 0,
+      "parent": null,
+      "ja": "リグノセルロース材料から誘導される高分子化合物［２０１０．０１］",
+      "en": "Macromolecular compounds derived from lignocellulosic materials [2010.01]",
+      "count": 150,
+      "ipcCode": "C08H8/00",
+      "fTerm": "4J042",
+      "childFlag": 0,
+      "sourceFile": "fi_C08H.txt",
+      "kind": "fi"
+    },
+    "C08H99/00\\": {
+      "code": "C08H99/00\\",
+      "level": 0,
+      "parent": null,
+      "ja": "このサブクラスの他のグループに分類されない主題事項［２０１０．０１］",
+      "en": "Subject matter not provided for in other groups of this subclass [2010.01]",
+      "count": 151,
+      "ipcCode": "C08H99/00",
+      "fTerm": "4J042",
+      "childFlag": 0,
+      "sourceFile": "fi_C08H.txt",
+      "kind": "fi"
+    }
+  }
+};

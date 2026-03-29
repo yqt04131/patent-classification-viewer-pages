@@ -1,0 +1,2626 @@
+window.IPC_SHARD_B64C = {
+  "generatedAt": "2026-03-20T02:17:46.264Z",
+  "total": 262,
+  "entries": {
+    "B64C": {
+      "code": "B64C",
+      "level": 0,
+      "parent": "B64",
+      "ja": "飛行機；ヘリコプタ<br><br><b><ul>注</ul></b><br>できるかぎり，構造的特徴に従って分類する；航空機の個々の種類による分類は，これが特有な特徴であると考慮される場合を除き通常二次的な重要性のものと見做される。［３］<br><br><b><ul>サブクラス内の索引</ul></b><br>形状，構造，整形<br>共通構造　１／００<br>胴体；翼；安定板　１／００，３／００，５／００<br>その他の構造要素　７／００<br>プロペラ，飛行制御<br>プロペラ　１１／００<br>調整可能な操縦翼面または部材；操縦系統　９／００，１３／００<br>ジェット反動による操縦　１５／００<br>安定および操縦に関するもので他の分類に属しないもの　１７／００，１９／００<br>空気流の変更による揚力制御　１３／００，２１／００，２３／００<br>降着装置　２５／００<br>各種の航空機およびそれらの構成要素で他の分類に属しないもの<br>超音速　３０／００<br>水上機　３５／００<br>原動機無しに飛行するよう考えられた航空機；原動機付ハングライダ型航空機；超軽量型航空機　３１／００<br>転換式航空機　３７／００<br>垂直離着陸航空機　２９／００<br>回転翼航空機；羽ばたき航空機　２７／００；３３／００<br>その他の航空機　３９／００",
+      "en": "AEROPLANES; HELICOPTERS ; <br><br><b><u>Note(s)</u></b><br><br><ul><li>As far as possible, classification is made according to constructional features; classification according to particular kinds of aircraft is normally regarded as being of secondary importance, except in cases where this is considered to be the characteristic feature. </li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">STRUCTURES, FAIRINGS<tr><td width=\"70%\">Features common to different elements</td><td><b><b>1/00</b></b></td></tr></tr><tr><td width=\"70%\">Fuselages; wings; stabilising surfaces</td><td><b><b>1/00</b>; <b>3/00</b>; <b>5/00</b></b></td></tr></tr><tr><td width=\"70%\">Other structural elements</td><td><b><b>7/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">PROPELLERS, FLIGHT CONTROL<tr><td width=\"70%\">Propellers</td><td><b><b>11/00</b></b></td></tr></tr><tr><td width=\"70%\">Adjustable control surfaces or members; control systems</td><td><b><b>9/00</b>; <b>13/00</b></b></td></tr></tr><tr><td width=\"70%\">Control by jet reaction</td><td><b><b>15/00</b></b></td></tr></tr><tr><td width=\"70%\">Stabilisation and controls not otherwise provided for</td><td><b><b>17/00</b>, <b>19/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">MODIFYING LIFT BY ACTION ON AIR FLOW</td><td><b><b>13/00</b>, <b>21/00</b>, <b>23/00</b></b></td></tr></tr><tr><td width=\"70%\">ALIGHTING GEAR</td><td><b><b>25/00</b></b></td></tr></tr><tr><td width=\"70%\">AIRCRAFT KINDS AND THEIR COMPONENTS NOT OTHERWISE PROVIDED FOR<tr><td width=\"70%\">Supersonic</td><td><b><b>30/00</b></b></td></tr></tr><tr><td width=\"70%\">Seaplanes</td><td><b><b>35/00</b></b></td></tr></tr><tr><td width=\"70%\">Aircraft intended to be sustained without power plant; powered hand-glider-type aircraft; microlight aircraft</td><td><b><b>31/00</b></b></td></tr></tr><tr><td width=\"70%\">Convertible aircraft</td><td><b><b>37/00</b></b></td></tr></tr><tr><td width=\"70%\">Vertical-take-off or landing aircraft</td><td><b><b>29/00</b></b></td></tr></tr><tr><td width=\"70%\">Rotorcraft; ornithopters</td><td><b><b>27/00</b>; <b>33/00</b></b></td></tr></tr><tr><td width=\"70%\">Others</td><td><b><b>39/00</b></b></td></tr></tr></tr></table>",
+      "count": 857,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B64": {
+      "code": "B64",
+      "level": 0,
+      "parent": "B",
+      "ja": "航空機；飛行；宇宙工学",
+      "en": "AIRCRAFT; AVIATION; COSMONAUTICS",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B": {
+      "code": "B",
+      "level": 0,
+      "parent": null,
+      "ja": "処理操作；運輸",
+      "en": "PERFORMING OPERATIONS; TRANSPORTING",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B64C1/00": {
+      "code": "B64C1/00",
+      "level": 0,
+      "parent": "B64C",
+      "ja": "胴体；胴体，翼，安定板またはそれらと類似のものに共通の構造的特徴［２００６．０１］",
+      "en": "Fuselages; Constructional features common to fuselages, wings, stabilising surfaces or the like",
+      "count": 9612,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C1/06": {
+      "code": "B64C1/06",
+      "level": 1,
+      "parent": "B64C1/00",
+      "ja": "フレーム；ストリンガ；縦通材",
+      "en": "Frames; Stringers; Longerons",
+      "count": 6721,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C1/08": {
+      "code": "B64C1/08",
+      "level": 2,
+      "parent": "B64C1/06",
+      "ja": "ジャカゴ構造またはその他の輪郭形成骨組構造体",
+      "en": "Geodetic or other open-frame structures",
+      "count": 381,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C1/10": {
+      "code": "B64C1/10",
+      "level": 2,
+      "parent": "B64C1/06",
+      "ja": "隔壁",
+      "en": "Bulkheads",
+      "count": 612,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C1/12": {
+      "code": "B64C1/12",
+      "level": 2,
+      "parent": "B64C1/06",
+      "ja": "外皮の構造または装着",
+      "en": "Construction or attachment of skin panels",
+      "count": 2379,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C1/14": {
+      "code": "B64C1/14",
+      "level": 1,
+      "parent": "B64C1/00",
+      "ja": "窓；扉；開口部覆いまたは点検扉；開口部周囲の骨組構造体；キャノピー；風防（脚装置構成部材と連動する整形部材Ｂ６４Ｃ２５／１６；爆弾扉Ｂ６４Ｄ１／０６）",
+      "en": "Windows; Doors; Hatch covers or access panels; Surrounding frame structures; Canopies; Windscreens(fairings movable in conjunction with undercarriage elements <b>B64C25/16</b>; bomb doors <b>B64D1/06</b>)",
+      "count": 6114,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C1/16": {
+      "code": "B64C1/16",
+      "level": 1,
+      "parent": "B64C1/00",
+      "ja": "原動機装備のために特に配慮されたもの",
+      "en": "specially adapted for mounting power plant",
+      "count": 451,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C1/18": {
+      "code": "B64C1/18",
+      "level": 1,
+      "parent": "B64C1/00",
+      "ja": "床",
+      "en": "Floors",
+      "count": 902,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C1/20": {
+      "code": "B64C1/20",
+      "level": 2,
+      "parent": "B64C1/18",
+      "ja": "貨物用に特に配慮されたもの",
+      "en": "specially adapted for freight",
+      "count": 757,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C1/22": {
+      "code": "B64C1/22",
+      "level": 1,
+      "parent": "B64C1/00",
+      "ja": "積荷のための胴体と一体なその他の構造体",
+      "en": "Other structures integral with fuselages to facilitate loading",
+      "count": 997,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C1/24": {
+      "code": "B64C1/24",
+      "level": 1,
+      "parent": "B64C1/00",
+      "ja": "胴体に引込み可能に装備されたステップ［２００６．０１］",
+      "en": "Steps mounted on, and retractable within, fuselages",
+      "count": 376,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C1/26": {
+      "code": "B64C1/26",
+      "level": 1,
+      "parent": "B64C1/00",
+      "ja": "主翼，尾翼または安定板の装着",
+      "en": "Attaching the wing or tail units or stabilising surfaces",
+      "count": 1491,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C1/28": {
+      "code": "B64C1/28",
+      "level": 1,
+      "parent": "B64C1/00",
+      "ja": "操縦士の視界を広げるために相対的に可動の胴体部分",
+      "en": "Parts of fuselage relatively movable to improve pilots view",
+      "count": 79,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C1/30": {
+      "code": "B64C1/30",
+      "level": 1,
+      "parent": "B64C1/00",
+      "ja": "航空機の全体の大きさを縮小するために相対的に可動の胴体部分［２００６．０１］",
+      "en": "Parts of fuselage relatively movable to reduce overall dimensions of aircraft",
+      "count": 4032,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C1/32": {
+      "code": "B64C1/32",
+      "level": 1,
+      "parent": "B64C1/00",
+      "ja": "非常脱出のための分離または投下可能な胴体部分［２００６．０１］",
+      "en": "Severable or jettisonable parts of fuselage facilitating emergency escape",
+      "count": 396,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C1/34": {
+      "code": "B64C1/34",
+      "level": 1,
+      "parent": "B64C1/00",
+      "ja": "膨張可能な構造要素からなるもの［２００６．０１］",
+      "en": "comprising inflatable structural components",
+      "count": 177,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C1/36": {
+      "code": "B64C1/36",
+      "level": 1,
+      "parent": "B64C1/00",
+      "ja": "アンテナまたはレドームを装備できるようにしたもの［２００６．０１］",
+      "en": "adapted to receive antennas or radomes",
+      "count": 946,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C1/38": {
+      "code": "B64C1/38",
+      "level": 1,
+      "parent": "B64C1/00",
+      "ja": "空気力学的またはその他の外的要因による熱の影響を軽減するようにした構造",
+      "en": "Constructions adapted to reduce effects of aerodynamic or other external heating",
+      "count": 876,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C1/40": {
+      "code": "B64C1/40",
+      "level": 1,
+      "parent": "B64C1/00",
+      "ja": "音または熱のしゃ断",
+      "en": "Sound or heat insulation",
+      "count": 1867,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C3/00": {
+      "code": "B64C3/00",
+      "level": 0,
+      "parent": "B64C",
+      "ja": "翼（羽ばたき翼Ｂ６４Ｃ３３／０２）［２００６．０１］",
+      "en": "Wings(ornithopter wings <b>B64C33/02</b>)",
+      "count": 3659,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C3/10": {
+      "code": "B64C3/10",
+      "level": 1,
+      "parent": "B64C3/00",
+      "ja": "翼の形状",
+      "en": "Shape of wings",
+      "count": 1039,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C3/14": {
+      "code": "B64C3/14",
+      "level": 2,
+      "parent": "B64C3/10",
+      "ja": "翼形",
+      "en": "Aerofoil profile",
+      "count": 1118,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C3/16": {
+      "code": "B64C3/16",
+      "level": 2,
+      "parent": "B64C3/10",
+      "ja": "前面形状",
+      "en": "Frontal aspect",
+      "count": 184,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C3/18": {
+      "code": "B64C3/18",
+      "level": 1,
+      "parent": "B64C3/00",
+      "ja": "桁；翼小骨；ストリンガ［２００６．０１］",
+      "en": "Spars; Ribs; Stringers",
+      "count": 2308,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C3/20": {
+      "code": "B64C3/20",
+      "level": 1,
+      "parent": "B64C3/00",
+      "ja": "一体またはサンドウィッチ構造体［２００６．０１］",
+      "en": "Integral or sandwich constructions",
+      "count": 695,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C3/22": {
+      "code": "B64C3/22",
+      "level": 1,
+      "parent": "B64C3/00",
+      "ja": "ジャカゴ構造またはその他の輪郭形成骨組構造体",
+      "en": "Geodetic or other open-frame structures",
+      "count": 87,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C3/24": {
+      "code": "B64C3/24",
+      "level": 1,
+      "parent": "B64C3/00",
+      "ja": "成形または鋳造構造",
+      "en": "Moulded or cast structures",
+      "count": 192,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C3/26": {
+      "code": "B64C3/26",
+      "level": 1,
+      "parent": "B64C3/00",
+      "ja": "分割された外皮，例．パネル，の構造，形状，または装着",
+      "en": "Construction, shape, or attachment of separate skins, e.g. panels",
+      "count": 1957,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C3/28": {
+      "code": "B64C3/28",
+      "level": 1,
+      "parent": "B64C3/00",
+      "ja": "翼の主構造部分に装着された前縁または後縁，例．固定スロットの形成",
+      "en": "Leading or trailing edges attached to primary structures, e.g. forming fixed slots",
+      "count": 736,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C3/30": {
+      "code": "B64C3/30",
+      "level": 1,
+      "parent": "B64C3/00",
+      "ja": "膨張可能な構造要素からなるもの［２００６．０１］",
+      "en": "comprising inflatable structural components",
+      "count": 273,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C3/32": {
+      "code": "B64C3/32",
+      "level": 1,
+      "parent": "B64C3/00",
+      "ja": "原動機装備のために特に配慮されたもの",
+      "en": "specially adapted for mounting power plant",
+      "count": 438,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C3/34": {
+      "code": "B64C3/34",
+      "level": 1,
+      "parent": "B64C3/00",
+      "ja": "翼と一体的に構成されるタンク，例．燃料または水用タンク［２００６．０１］",
+      "en": "Tanks constructed integrally with wings, e.g. for fuel or water",
+      "count": 410,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C3/36": {
+      "code": "B64C3/36",
+      "level": 1,
+      "parent": "B64C3/00",
+      "ja": "空気力学的またはその他の外的要因による熱の影響を軽減するようにした構造",
+      "en": "Structures adapted to reduce effects of aerodynamic or other external heating",
+      "count": 596,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C3/38": {
+      "code": "B64C3/38",
+      "level": 1,
+      "parent": "B64C3/00",
+      "ja": "翼全体またはその部分の調整",
+      "en": "Adjustment of complete wings or parts thereof",
+      "count": 2424,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C3/40": {
+      "code": "B64C3/40",
+      "level": 2,
+      "parent": "B64C3/38",
+      "ja": "後退角の変更",
+      "en": "Varying angle of sweep",
+      "count": 603,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C3/42": {
+      "code": "B64C3/42",
+      "level": 2,
+      "parent": "B64C3/38",
+      "ja": "翼弦方向軸回りの調整",
+      "en": "Adjusting about chordwise axes",
+      "count": 231,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C3/44": {
+      "code": "B64C3/44",
+      "level": 2,
+      "parent": "B64C3/38",
+      "ja": "カンバーの変更",
+      "en": "Varying camber",
+      "count": 419,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C3/46": {
+      "code": "B64C3/46",
+      "level": 3,
+      "parent": "B64C3/44",
+      "ja": "膨張可能の部材によるもの［２００６．０１］",
+      "en": "by inflatable elements",
+      "count": 137,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C3/48": {
+      "code": "B64C3/48",
+      "level": 3,
+      "parent": "B64C3/44",
+      "ja": "翼構造の相対的に移動可能な部分によるもの",
+      "en": "by relatively-movable parts of wing structures",
+      "count": 703,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C3/50": {
+      "code": "B64C3/50",
+      "level": 3,
+      "parent": "B64C3/44",
+      "ja": "前縁または後縁フラップによるもの［２００６．０１］",
+      "en": "by leading or trailing edge flaps",
+      "count": 956,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C3/52": {
+      "code": "B64C3/52",
+      "level": 2,
+      "parent": "B64C3/38",
+      "ja": "そらせ",
+      "en": "Warping",
+      "count": 237,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C3/54": {
+      "code": "B64C3/54",
+      "level": 2,
+      "parent": "B64C3/38",
+      "ja": "面積の変更［２００６．０１］",
+      "en": "Varying in area",
+      "count": 1450,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C3/56": {
+      "code": "B64C3/56",
+      "level": 2,
+      "parent": "B64C3/38",
+      "ja": "航空機全体の大きさを縮小するための折り畳みまたは分解",
+      "en": "Folding or collapsing to reduce overall dimensions of aircraft",
+      "count": 2754,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C3/58": {
+      "code": "B64C3/58",
+      "level": 1,
+      "parent": "B64C3/00",
+      "ja": "突壁またはスポイラを備えたもの（操縦する目的で調整できるようにしたものＢ６４Ｃ９／００）",
+      "en": "provided with fences or spoilers(adjustable for control purposes <b>B64C9/00</b>)",
+      "count": 407,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C5/00": {
+      "code": "B64C5/00",
+      "level": 0,
+      "parent": "B64C",
+      "ja": "安定板［２００６．０１］",
+      "en": "Stabilising surfaces",
+      "count": 649,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C5/02": {
+      "code": "B64C5/02",
+      "level": 1,
+      "parent": "B64C5/00",
+      "ja": "水平安定板［２００６．０１］",
+      "en": "Tailplanes",
+      "count": 1087,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C5/04": {
+      "code": "B64C5/04",
+      "level": 1,
+      "parent": "B64C5/00",
+      "ja": "頭部安定板",
+      "en": "Noseplanes",
+      "count": 393,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C5/06": {
+      "code": "B64C5/06",
+      "level": 1,
+      "parent": "B64C5/00",
+      "ja": "垂直安定板（Ｂ６４Ｃ５／０８が優先）［２００６．０１］",
+      "en": "Fins (<b>B64C5/08</b> takes precedence)",
+      "count": 898,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C5/08": {
+      "code": "B64C5/08",
+      "level": 1,
+      "parent": "B64C5/00",
+      "ja": "翼に装着されたものまたは翼によって支持されたもの",
+      "en": "mounted on, or supported by, wings",
+      "count": 400,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C5/10": {
+      "code": "B64C5/10",
+      "level": 1,
+      "parent": "B64C5/00",
+      "ja": "調整できるもの",
+      "en": "adjustable",
+      "count": 704,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C5/12": {
+      "code": "B64C5/12",
+      "level": 2,
+      "parent": "B64C5/10",
+      "ja": "胴体またはナセルに対してまたはそれらの中に引き込むためのもの",
+      "en": "for retraction against or within fuselage or nacelle",
+      "count": 222,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C5/14": {
+      "code": "B64C5/14",
+      "level": 2,
+      "parent": "B64C5/10",
+      "ja": "後退角の変更",
+      "en": "Varying angle of sweep",
+      "count": 55,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C5/16": {
+      "code": "B64C5/16",
+      "level": 2,
+      "parent": "B64C5/10",
+      "ja": "スパン方向軸回りのもの",
+      "en": "about spanwise axes",
+      "count": 97,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C5/18": {
+      "code": "B64C5/18",
+      "level": 2,
+      "parent": "B64C5/10",
+      "ja": "面積の調整",
+      "en": "in area",
+      "count": 69,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C7/00": {
+      "code": "B64C7/00",
+      "level": 0,
+      "parent": "B64C",
+      "ja": "形状，構造または整形に関するもので他に該当分類のないもの",
+      "en": "Structures or fairings not otherwise provided for",
+      "count": 1357,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C7/02": {
+      "code": "B64C7/02",
+      "level": 1,
+      "parent": "B64C7/00",
+      "ja": "ナセル",
+      "en": "Nacelles",
+      "count": 548,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C9/00": {
+      "code": "B64C9/00",
+      "level": 0,
+      "parent": "B64C",
+      "ja": "調整可能な操縦翼面または部材，例．方向舵（安定板の調整Ｂ６４Ｃ５／１０）［２００６．０１］",
+      "en": "Adjustable control surfaces or members, e.g. rudders(trimming stabilising surfaces <b>B64C5/10</b>)",
+      "count": 2458,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C9/02": {
+      "code": "B64C9/02",
+      "level": 1,
+      "parent": "B64C9/00",
+      "ja": "その装着または支持",
+      "en": "Mounting or supporting thereof",
+      "count": 1613,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C9/04": {
+      "code": "B64C9/04",
+      "level": 1,
+      "parent": "B64C9/00",
+      "ja": "複合運動をする",
+      "en": "with compound dependent movements",
+      "count": 219,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C9/06": {
+      "code": "B64C9/06",
+      "level": 1,
+      "parent": "B64C9/00",
+      "ja": "二つ以上の独立した運動をするもの",
+      "en": "with two or more independent movements",
+      "count": 225,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C9/08": {
+      "code": "B64C9/08",
+      "level": 1,
+      "parent": "B64C9/00",
+      "ja": "全体的に移動できるもの［２００６．０１］",
+      "en": "bodily displaceable",
+      "count": 180,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C9/10": {
+      "code": "B64C9/10",
+      "level": 1,
+      "parent": "B64C9/00",
+      "ja": "別の操縦翼面，例．サーボタブ，の運動によって調整されるもの，例．サーボタブ（Ｂ６４Ｃ９／０４が優先；相互に異なった型または機能を有する操縦翼面Ｂ６４Ｃ９／１２）",
+      "en": "one surface adjusted by movement of another, e.g. servo tabs(<b>B64C9/04</b> takes precedence; adjusting surfaces of different type or function <b>B64C9/12</b>)",
+      "count": 114,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C9/12": {
+      "code": "B64C9/12",
+      "level": 1,
+      "parent": "B64C9/00",
+      "ja": "同時に調整される相互に異なった型または機能を有する操縦翼面",
+      "en": "surfaces of different type or function being simultaneously adjusted",
+      "count": 191,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C9/14": {
+      "code": "B64C9/14",
+      "level": 1,
+      "parent": "B64C9/00",
+      "ja": "スロットの形成［２００６．０１］",
+      "en": "forming slots",
+      "count": 397,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C9/16": {
+      "code": "B64C9/16",
+      "level": 2,
+      "parent": "B64C9/14",
+      "ja": "翼の後部におけるもの",
+      "en": "at the rear of the wing",
+      "count": 727,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C9/18": {
+      "code": "B64C9/18",
+      "level": 3,
+      "parent": "B64C9/16",
+      "ja": "単一のフラップによるもの",
+      "en": "by single flaps",
+      "count": 371,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C9/20": {
+      "code": "B64C9/20",
+      "level": 3,
+      "parent": "B64C9/16",
+      "ja": "多段フラップによるもの",
+      "en": "by multiple flaps",
+      "count": 394,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C9/22": {
+      "code": "B64C9/22",
+      "level": 2,
+      "parent": "B64C9/14",
+      "ja": "翼の前部におけるもの",
+      "en": "at the front of the wing",
+      "count": 472,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C9/24": {
+      "code": "B64C9/24",
+      "level": 3,
+      "parent": "B64C9/22",
+      "ja": "単一のフラップによるもの",
+      "en": "by single flap",
+      "count": 393,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C9/26": {
+      "code": "B64C9/26",
+      "level": 3,
+      "parent": "B64C9/22",
+      "ja": "多段フラップによるもの",
+      "en": "by multiple flaps",
+      "count": 98,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C9/28": {
+      "code": "B64C9/28",
+      "level": 2,
+      "parent": "B64C9/14",
+      "ja": "翼の前縁および後縁にあって協働するようなフラップによるもの",
+      "en": "by flaps at both the front and rear of the wing operating in unison",
+      "count": 78,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C9/30": {
+      "code": "B64C9/30",
+      "level": 1,
+      "parent": "B64C9/00",
+      "ja": "枢軸連結された操縦翼面の平衡，例．動力学的になされるもの",
+      "en": "Balancing hinged surfaces, e.g. dynamically",
+      "count": 70,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C9/32": {
+      "code": "B64C9/32",
+      "level": 1,
+      "parent": "B64C9/00",
+      "ja": "空気制動板［２００６．０１］",
+      "en": "Air braking surfaces",
+      "count": 620,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C9/34": {
+      "code": "B64C9/34",
+      "level": 1,
+      "parent": "B64C9/00",
+      "ja": "他の操縦翼面または部材に対してまたはそれらの中に折り畳みまたは引込み可能なものに特徴のあるもの",
+      "en": "collapsing or retracting against or within other surfaces or other members",
+      "count": 239,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C9/36": {
+      "code": "B64C9/36",
+      "level": 2,
+      "parent": "B64C9/34",
+      "ja": "部材が胴体またはナセルであるもの",
+      "en": "the members being fuselages or nacelles",
+      "count": 101,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C9/38": {
+      "code": "B64C9/38",
+      "level": 1,
+      "parent": "B64C9/00",
+      "ja": "ジェットフラップ",
+      "en": "Jet flaps",
+      "count": 532,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C11/00": {
+      "code": "B64C11/00",
+      "level": 0,
+      "parent": "B64C",
+      "ja": "プロペラ，例．ダクト型プロペラ；プロペラおよび回転翼航空機用回転翼に共通な事項［２００６．０１］",
+      "en": "Propellers, e.g. of ducted type; Features common to propellers and rotors for rotorcraft",
+      "count": 3956,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C11/02": {
+      "code": "B64C11/02",
+      "level": 1,
+      "parent": "B64C11/00",
+      "ja": "ハブ構造",
+      "en": "Hub construction",
+      "count": 475,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C11/04": {
+      "code": "B64C11/04",
+      "level": 2,
+      "parent": "B64C11/02",
+      "ja": "羽根の装着",
+      "en": "Blade mountings",
+      "count": 1079,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C11/06": {
+      "code": "B64C11/06",
+      "level": 3,
+      "parent": "B64C11/04",
+      "ja": "可変ピッチ羽根の装着",
+      "en": "for variable-pitch blades",
+      "count": 971,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C11/08": {
+      "code": "B64C11/08",
+      "level": 3,
+      "parent": "B64C11/04",
+      "ja": "固定ピッチ羽根の装着",
+      "en": "for non-adjustable blades",
+      "count": 51,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C11/10": {
+      "code": "B64C11/10",
+      "level": 4,
+      "parent": "B64C11/08",
+      "ja": "剛固な装着",
+      "en": "rigid",
+      "count": 45,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C11/12": {
+      "code": "B64C11/12",
+      "level": 4,
+      "parent": "B64C11/08",
+      "ja": "可撓性をもたせた装着",
+      "en": "flexible",
+      "count": 62,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C11/14": {
+      "code": "B64C11/14",
+      "level": 2,
+      "parent": "B64C11/02",
+      "ja": "スピナ",
+      "en": "Spinners",
+      "count": 425,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C11/16": {
+      "code": "B64C11/16",
+      "level": 1,
+      "parent": "B64C11/00",
+      "ja": "羽根",
+      "en": "Blades",
+      "count": 875,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C11/18": {
+      "code": "B64C11/18",
+      "level": 2,
+      "parent": "B64C11/16",
+      "ja": "空気力学的に特徴のあるもの",
+      "en": "Aerodynamic features",
+      "count": 814,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C11/20": {
+      "code": "B64C11/20",
+      "level": 2,
+      "parent": "B64C11/16",
+      "ja": "構造に特徴のあるもの",
+      "en": "Constructional features",
+      "count": 1258,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C11/22": {
+      "code": "B64C11/22",
+      "level": 3,
+      "parent": "B64C11/20",
+      "ja": "中実一体構造の羽根",
+      "en": "Solid blades",
+      "count": 92,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C11/24": {
+      "code": "B64C11/24",
+      "level": 3,
+      "parent": "B64C11/20",
+      "ja": "中空羽根",
+      "en": "Hollow blades",
+      "count": 425,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C11/26": {
+      "code": "B64C11/26",
+      "level": 3,
+      "parent": "B64C11/20",
+      "ja": "組立構造羽根",
+      "en": "Fabricated blades",
+      "count": 392,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C11/28": {
+      "code": "B64C11/28",
+      "level": 3,
+      "parent": "B64C11/20",
+      "ja": "収縮または折り畳みのできる羽根",
+      "en": "Collapsible or foldable blades",
+      "count": 635,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C11/30": {
+      "code": "B64C11/30",
+      "level": 1,
+      "parent": "B64C11/00",
+      "ja": "羽根ピッチ変更機構",
+      "en": "Blade pitch-changing mechanisms",
+      "count": 1568,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C11/32": {
+      "code": "B64C11/32",
+      "level": 2,
+      "parent": "B64C11/30",
+      "ja": "機械的なもの",
+      "en": "mechanical",
+      "count": 729,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C11/34": {
+      "code": "B64C11/34",
+      "level": 3,
+      "parent": "B64C11/32",
+      "ja": "自動的なもの",
+      "en": "automatic",
+      "count": 861,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C11/36": {
+      "code": "B64C11/36",
+      "level": 3,
+      "parent": "B64C11/32",
+      "ja": "非自動的なもの",
+      "en": "non-automatic",
+      "count": 640,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C11/38": {
+      "code": "B64C11/38",
+      "level": 2,
+      "parent": "B64C11/30",
+      "ja": "流体によるもの，例．水圧作動によるもの",
+      "en": "fluid, e.g. hydraulic",
+      "count": 553,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C11/40": {
+      "code": "B64C11/40",
+      "level": 3,
+      "parent": "B64C11/38",
+      "ja": "自動的なもの",
+      "en": "automatic",
+      "count": 329,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C11/42": {
+      "code": "B64C11/42",
+      "level": 3,
+      "parent": "B64C11/38",
+      "ja": "非自動的なもの",
+      "en": "non-automatic",
+      "count": 525,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C11/44": {
+      "code": "B64C11/44",
+      "level": 2,
+      "parent": "B64C11/30",
+      "ja": "電気的なもの",
+      "en": "electric",
+      "count": 598,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C11/46": {
+      "code": "B64C11/46",
+      "level": 1,
+      "parent": "B64C11/00",
+      "ja": "２つ以上のプロペラに特有の設備または構造",
+      "en": "Arrangements of, or constructional features peculiar to, multiple propellers",
+      "count": 558,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C11/48": {
+      "code": "B64C11/48",
+      "level": 2,
+      "parent": "B64C11/46",
+      "ja": "共軸プロペラ",
+      "en": "Units of two or more coaxial propellers",
+      "count": 743,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C11/50": {
+      "code": "B64C11/50",
+      "level": 2,
+      "parent": "B64C11/46",
+      "ja": "プロペラ間の位相同期",
+      "en": "Phase synchronisation between multiple propellers",
+      "count": 136,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C13/00": {
+      "code": "B64C13/00",
+      "level": 0,
+      "parent": "B64C",
+      "ja": "飛行操縦翼面，揚力増加フラップ，空気制動装置，またはスポイラを作動するための操縦系統または伝達系統",
+      "en": "Control systems or transmitting systems for actuating flying-control surfaces, lift-increasing flaps, air brakes, or spoilers",
+      "count": 3417,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C13/02": {
+      "code": "B64C13/02",
+      "level": 1,
+      "parent": "B64C13/00",
+      "ja": "入力装置",
+      "en": "Initiating means",
+      "count": 473,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C13/04": {
+      "code": "B64C13/04",
+      "level": 2,
+      "parent": "B64C13/02",
+      "ja": "人為的に作動されるもの",
+      "en": "actuated personally",
+      "count": 1715,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C13/06": {
+      "code": "B64C13/06",
+      "level": 3,
+      "parent": "B64C13/04",
+      "ja": "適当な一人の操縦者が操作するように調整できるもの",
+      "en": "adjustable to suit individual persons",
+      "count": 168,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C13/08": {
+      "code": "B64C13/08",
+      "level": 3,
+      "parent": "B64C13/04",
+      "ja": "中立位置へのトリム調整",
+      "en": "Trimming zero positions",
+      "count": 88,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C13/10": {
+      "code": "B64C13/10",
+      "level": 3,
+      "parent": "B64C13/04",
+      "ja": "警報装置を有しているもの",
+      "en": "comprising warning devices",
+      "count": 182,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C13/12": {
+      "code": "B64C13/12",
+      "level": 3,
+      "parent": "B64C13/04",
+      "ja": "複操縦装置",
+      "en": "Dual control apparatus",
+      "count": 279,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C13/14": {
+      "code": "B64C13/14",
+      "level": 3,
+      "parent": "B64C13/04",
+      "ja": "鎖錠できるもの［２００６．０１］",
+      "en": "lockable",
+      "count": 119,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C13/16": {
+      "code": "B64C13/16",
+      "level": 2,
+      "parent": "B64C13/02",
+      "ja": "自動的に作動されるもの，例．突風検出器に応答するもの",
+      "en": "actuated automatically, e.g. responsive to gust detectors",
+      "count": 1127,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C13/18": {
+      "code": "B64C13/18",
+      "level": 3,
+      "parent": "B64C13/16",
+      "ja": "自動操縦装置を使用するもの［２００６．０１］",
+      "en": "using automatic pilot",
+      "count": 2447,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C13/20": {
+      "code": "B64C13/20",
+      "level": 3,
+      "parent": "B64C13/16",
+      "ja": "無線信号を使用するもの",
+      "en": "using radiated signals",
+      "count": 1455,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C13/22": {
+      "code": "B64C13/22",
+      "level": 3,
+      "parent": "B64C13/16",
+      "ja": "即座に手動操作に切換えできるもの",
+      "en": "readily revertible to personal control",
+      "count": 135,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C13/24": {
+      "code": "B64C13/24",
+      "level": 1,
+      "parent": "B64C13/00",
+      "ja": "伝達装置",
+      "en": "Transmitting means",
+      "count": 1261,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C13/26": {
+      "code": "B64C13/26",
+      "level": 2,
+      "parent": "B64C13/24",
+      "ja": "伝達力の増幅を伴わないものまたは伝達力の増幅が適切でないもの",
+      "en": "without power amplification or where power amplification is irrelevant",
+      "count": 77,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C13/28": {
+      "code": "B64C13/28",
+      "level": 3,
+      "parent": "B64C13/26",
+      "ja": "機械的なもの",
+      "en": "mechanical",
+      "count": 1050,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C13/30": {
+      "code": "B64C13/30",
+      "level": 4,
+      "parent": "B64C13/28",
+      "ja": "索，鎖，または連結棒機構を使用するもの",
+      "en": "using cable, chain, or rod mechanisms",
+      "count": 866,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C13/32": {
+      "code": "B64C13/32",
+      "level": 4,
+      "parent": "B64C13/28",
+      "ja": "カム機構を使用するもの",
+      "en": "using cam mechanisms",
+      "count": 72,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C13/34": {
+      "code": "B64C13/34",
+      "level": 4,
+      "parent": "B64C13/28",
+      "ja": "歯車機構を使用するもの",
+      "en": "using toothed gearing",
+      "count": 432,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C13/36": {
+      "code": "B64C13/36",
+      "level": 3,
+      "parent": "B64C13/26",
+      "ja": "流体によるもの",
+      "en": "fluid",
+      "count": 325,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C13/38": {
+      "code": "B64C13/38",
+      "level": 2,
+      "parent": "B64C13/24",
+      "ja": "伝達力の増幅を伴うもの",
+      "en": "with power amplification",
+      "count": 268,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C13/40": {
+      "code": "B64C13/40",
+      "level": 3,
+      "parent": "B64C13/38",
+      "ja": "流体圧力を使用するもの",
+      "en": "using fluid pressure",
+      "count": 643,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C13/42": {
+      "code": "B64C13/42",
+      "level": 4,
+      "parent": "B64C13/40",
+      "ja": "二重装置または予備装置をもつもの",
+      "en": "having duplication or stand-by provisions",
+      "count": 490,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C13/44": {
+      "code": "B64C13/44",
+      "level": 4,
+      "parent": "B64C13/40",
+      "ja": "手動操縦の無力化；不作動位置への自動切換装置をもつもの",
+      "en": "overriding of personal controls; with automatic return to inoperative position",
+      "count": 34,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C13/46": {
+      "code": "B64C13/46",
+      "level": 4,
+      "parent": "B64C13/40",
+      "ja": "操縦感覚付与装置",
+      "en": "with artificial feel",
+      "count": 219,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C13/48": {
+      "code": "B64C13/48",
+      "level": 4,
+      "parent": "B64C13/40",
+      "ja": "ガス化された流体を特徴とするもの",
+      "en": "characterised by the fluid being gaseous",
+      "count": 53,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C13/50": {
+      "code": "B64C13/50",
+      "level": 3,
+      "parent": "B64C13/38",
+      "ja": "電気的エネルギーを使用するもの",
+      "en": "using electrical energy",
+      "count": 2048,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C15/00": {
+      "code": "B64C15/00",
+      "level": 0,
+      "parent": "B64C",
+      "ja": "ジェット反動による姿勢，飛行方向または高度の制御［２００６．０１］",
+      "en": "Attitude, flight direction or altitude control by jet reaction",
+      "count": 440,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C15/02": {
+      "code": "B64C15/02",
+      "level": 1,
+      "parent": "B64C15/00",
+      "ja": "推進用ジェットによるもの",
+      "en": "the jets being propulsion jets",
+      "count": 722,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C15/12": {
+      "code": "B64C15/12",
+      "level": 2,
+      "parent": "B64C15/02",
+      "ja": "傾動する原動機によるもの",
+      "en": "the power plant being tiltable",
+      "count": 286,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C15/14": {
+      "code": "B64C15/14",
+      "level": 1,
+      "parent": "B64C15/00",
+      "ja": "主推進ジェット以外のジェットによるもの（ジェットフラップＢ６４Ｃ９／３８）",
+      "en": "the jets being other than main propulsion jets(jet flaps <b>B64C9/38</b>)",
+      "count": 443,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C17/00": {
+      "code": "B64C17/00",
+      "level": 0,
+      "parent": "B64C",
+      "ja": "航空機の安定に関するもので他に該当分類のないもの",
+      "en": "Aircraft stabilisation not otherwise provided for",
+      "count": 1771,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C17/02": {
+      "code": "B64C17/02",
+      "level": 1,
+      "parent": "B64C17/00",
+      "ja": "重力または慣性力によって作用される装置によるもの",
+      "en": "by gravity or inertia-actuated apparatus",
+      "count": 626,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C17/04": {
+      "code": "B64C17/04",
+      "level": 2,
+      "parent": "B64C17/02",
+      "ja": "振り子体によるもの",
+      "en": "by pendular bodies",
+      "count": 80,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C17/06": {
+      "code": "B64C17/06",
+      "level": 2,
+      "parent": "B64C17/02",
+      "ja": "ジャイロ装置によるもの［２００６．０１］",
+      "en": "by gyroscopic apparatus",
+      "count": 422,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C17/08": {
+      "code": "B64C17/08",
+      "level": 1,
+      "parent": "B64C17/00",
+      "ja": "バラストの供給または放出によるもの［２００６．０１］",
+      "en": "by ballast supply or discharge",
+      "count": 68,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C17/10": {
+      "code": "B64C17/10",
+      "level": 1,
+      "parent": "B64C17/00",
+      "ja": "トリム調整のために燃料移動を行なうもの",
+      "en": "Transferring fuel to adjust trim",
+      "count": 132,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C19/00": {
+      "code": "B64C19/00",
+      "level": 0,
+      "parent": "B64C",
+      "ja": "航空機の操縦に関するもので他に該当分類のないもの",
+      "en": "Aircraft control not otherwise provided for",
+      "count": 1789,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C19/02": {
+      "code": "B64C19/02",
+      "level": 1,
+      "parent": "B64C19/00",
+      "ja": "連帯操縦",
+      "en": "Conjoint controls",
+      "count": 429,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C21/00": {
+      "code": "B64C21/00",
+      "level": 0,
+      "parent": "B64C",
+      "ja": "境界層制御による航空機の外表面上の空気流の変更［２０２３．０１］",
+      "en": "Influencing air flow over aircraft surfaces by affecting boundary layer flow",
+      "count": 699,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C21/01": {
+      "code": "B64C21/01",
+      "level": 1,
+      "parent": "B64C21/00",
+      "ja": "境界層吸い込み［ＢＬＩ］推進［２０２３．０１］",
+      "en": "Boundary layer ingestion [BLI] propulsion",
+      "count": 38,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C21/02": {
+      "code": "B64C21/02",
+      "level": 1,
+      "parent": "B64C21/00",
+      "ja": "スロット，ダクト，多孔表面，またはそれらと同様なものの使用によるもの［２０２３．０１］",
+      "en": "by use of slot, ducts, porous areas or the like",
+      "count": 1082,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C21/04": {
+      "code": "B64C21/04",
+      "level": 2,
+      "parent": "B64C21/02",
+      "ja": "吹出しのためのもの［２０２３．０１］",
+      "en": "for blowing",
+      "count": 639,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C21/06": {
+      "code": "B64C21/06",
+      "level": 2,
+      "parent": "B64C21/02",
+      "ja": "吸引のためのもの（ＢＬＩ推進Ｂ６４Ｃ２１／０１）［２０２３．０１］",
+      "en": "for sucking (BLI propulsion <b>B64C21/01</b>)",
+      "count": 619,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C21/08": {
+      "code": "B64C21/08",
+      "level": 2,
+      "parent": "B64C21/02",
+      "ja": "調整できるもの　［２０２３．０１］",
+      "en": "adjustable",
+      "count": 456,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C21/10": {
+      "code": "B64C21/10",
+      "level": 1,
+      "parent": "B64C21/00",
+      "ja": "その他の表面装置，例．粗面，を使用するもの",
+      "en": "using other surface properties, e.g. roughness",
+      "count": 674,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C23/00": {
+      "code": "B64C23/00",
+      "level": 0,
+      "parent": "B64C",
+      "ja": "航空機の外表面上の空気流の変更に関するもので他に該当分類のないもの［２００６．０１］",
+      "en": "Influencing air flow over aircraft surfaces, not otherwise provided for",
+      "count": 2819,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C23/02": {
+      "code": "B64C23/02",
+      "level": 1,
+      "parent": "B64C23/00",
+      "ja": "円筒またはそれと同等な形状をもつ回転体によるもの",
+      "en": "by means of rotating members of cylindrical or similar form",
+      "count": 212,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C23/04": {
+      "code": "B64C23/04",
+      "level": 1,
+      "parent": "B64C23/00",
+      "ja": "衝撃波の発生によるもの",
+      "en": "by generating shock waves",
+      "count": 193,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C23/06": {
+      "code": "B64C23/06",
+      "level": 1,
+      "parent": "B64C23/00",
+      "ja": "渦の発生によるもの",
+      "en": "by generating vortices",
+      "count": 1348,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C23/08": {
+      "code": "B64C23/08",
+      "level": 1,
+      "parent": "B64C23/00",
+      "ja": "マグヌス効果を使用するもの",
+      "en": "using Magnus effect",
+      "count": 228,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C25/00": {
+      "code": "B64C25/00",
+      "level": 0,
+      "parent": "B64C",
+      "ja": "降着装置（空気クッション降着装置Ｂ６０Ｖ３／０８）",
+      "en": "Alighting gear(air-cushion alighting gear <b>B60V3/08</b>)",
+      "count": 1645,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C25/02": {
+      "code": "B64C25/02",
+      "level": 1,
+      "parent": "B64C25/00",
+      "ja": "脚装置",
+      "en": "Undercarriages",
+      "count": 844,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C25/04": {
+      "code": "B64C25/04",
+      "level": 2,
+      "parent": "B64C25/02",
+      "ja": "機体上の設備または配置",
+      "en": "Arrangement or disposition on aircraft",
+      "count": 1056,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C25/06": {
+      "code": "B64C25/06",
+      "level": 2,
+      "parent": "B64C25/02",
+      "ja": "固定されたもの",
+      "en": "fixed",
+      "count": 423,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C25/08": {
+      "code": "B64C25/08",
+      "level": 2,
+      "parent": "B64C25/02",
+      "ja": "固定されないもの，例．放出できるもの",
+      "en": "non-fixed, e.g. jettisonable",
+      "count": 536,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C25/10": {
+      "code": "B64C25/10",
+      "level": 3,
+      "parent": "B64C25/08",
+      "ja": "引込み式のもの，折り畳み式のもの，または類似のもの",
+      "en": "retractable, foldable, or the like",
+      "count": 2291,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C25/12": {
+      "code": "B64C25/12",
+      "level": 4,
+      "parent": "B64C25/10",
+      "ja": "横方向に動作するもの",
+      "en": "sideways",
+      "count": 718,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C25/14": {
+      "code": "B64C25/14",
+      "level": 4,
+      "parent": "B64C25/10",
+      "ja": "前後方向に動作するもの",
+      "en": "fore-and-aft",
+      "count": 549,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C25/16": {
+      "code": "B64C25/16",
+      "level": 4,
+      "parent": "B64C25/10",
+      "ja": "脚装置構成部材と連動する整形部材",
+      "en": "Fairings movable in conjunction with undercarriage elements",
+      "count": 373,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C25/18": {
+      "code": "B64C25/18",
+      "level": 4,
+      "parent": "B64C25/10",
+      "ja": "作動機構",
+      "en": "Operating mechanisms",
+      "count": 319,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C25/20": {
+      "code": "B64C25/20",
+      "level": 5,
+      "parent": "B64C25/18",
+      "ja": "機械的なもの",
+      "en": "mechanical",
+      "count": 676,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C25/22": {
+      "code": "B64C25/22",
+      "level": 5,
+      "parent": "B64C25/18",
+      "ja": "流体によるもの",
+      "en": "fluid",
+      "count": 1181,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C25/24": {
+      "code": "B64C25/24",
+      "level": 5,
+      "parent": "B64C25/18",
+      "ja": "電気的なもの",
+      "en": "electric",
+      "count": 949,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C25/26": {
+      "code": "B64C25/26",
+      "level": 5,
+      "parent": "B64C25/18",
+      "ja": "そのための制御または鎖錠システム",
+      "en": "Control or locking systems therefor",
+      "count": 837,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C25/28": {
+      "code": "B64C25/28",
+      "level": 6,
+      "parent": "B64C25/26",
+      "ja": "指示または警報装置をもつもの",
+      "en": "with indicating or warning devices",
+      "count": 230,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C25/30": {
+      "code": "B64C25/30",
+      "level": 6,
+      "parent": "B64C25/26",
+      "ja": "非常時に働くもの",
+      "en": "emergency actuated",
+      "count": 183,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C25/32": {
+      "code": "B64C25/32",
+      "level": 1,
+      "parent": "B64C25/00",
+      "ja": "地面またはそれと同様なものと接触する部材に特徴のあるもの（降着フックＢ６４Ｃ２５／６８）［２００６．０１］",
+      "en": "characterised by elements which contact the ground or similar surface (arrester hooks <b>B64C25/68</b>)",
+      "count": 2165,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C25/34": {
+      "code": "B64C25/34",
+      "level": 2,
+      "parent": "B64C25/32",
+      "ja": "車輪型のもの，例．多数の車輪を備えるボギー車",
+      "en": "wheeled type, e.g. multi-wheeled bogies",
+      "count": 1763,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C25/36": {
+      "code": "B64C25/36",
+      "level": 3,
+      "parent": "B64C25/34",
+      "ja": "車輪，タイヤまたは車軸の設備または装備［２００６．０１］",
+      "en": "Arrangements or adaptations of wheels, tyres or axles in general",
+      "count": 1510,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C25/38": {
+      "code": "B64C25/38",
+      "level": 2,
+      "parent": "B64C25/32",
+      "ja": "無限軌道型のもの",
+      "en": "endless-track type",
+      "count": 161,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C25/40": {
+      "code": "B64C25/40",
+      "level": 2,
+      "parent": "B64C25/32",
+      "ja": "着地前に回転を与えられる部材",
+      "en": "the elements being rotated before touch-down",
+      "count": 1107,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C25/42": {
+      "code": "B64C25/42",
+      "level": 2,
+      "parent": "B64C25/32",
+      "ja": "ブレーキの配置または適用［２００６．０１］",
+      "en": "Arrangement or adaptation of brakes",
+      "count": 1845,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C25/44": {
+      "code": "B64C25/44",
+      "level": 3,
+      "parent": "B64C25/42",
+      "ja": "作動機構",
+      "en": "Actuating mechanisms",
+      "count": 1274,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C25/46": {
+      "code": "B64C25/46",
+      "level": 4,
+      "parent": "B64C25/44",
+      "ja": "空滑りまたはのめり防止のための制動調整装置",
+      "en": "Brake regulators for preventing skidding or aircraft somersaulting",
+      "count": 486,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C25/48": {
+      "code": "B64C25/48",
+      "level": 4,
+      "parent": "B64C25/44",
+      "ja": "操向のために差動的に操作されるもの",
+      "en": "differentially operated for steering purposes",
+      "count": 328,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C25/50": {
+      "code": "B64C25/50",
+      "level": 2,
+      "parent": "B64C25/32",
+      "ja": "操向可能な脚装置；シミーダンパー［２００６．０１］",
+      "en": "Steerable undercarriages; Shimmy-damping",
+      "count": 1330,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C25/52": {
+      "code": "B64C25/52",
+      "level": 2,
+      "parent": "B64C25/32",
+      "ja": "スキーまたは滑走着陸装置",
+      "en": "Skis or runners",
+      "count": 734,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C25/54": {
+      "code": "B64C25/54",
+      "level": 2,
+      "parent": "B64C25/32",
+      "ja": "フロート",
+      "en": "Floats",
+      "count": 573,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C25/56": {
+      "code": "B64C25/56",
+      "level": 3,
+      "parent": "B64C25/54",
+      "ja": "膨張できるもの［２００６．０１］",
+      "en": "inflatable",
+      "count": 682,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C25/58": {
+      "code": "B64C25/58",
+      "level": 2,
+      "parent": "B64C25/32",
+      "ja": "緩衝装置またはバネの設備または装備（シミーダンパーＢ６４Ｃ２５／５０）［２００６．０１］",
+      "en": "Arrangements or adaptations of shock-absorbers or springs(shimmy-dampers <b>B64C25/50</b>)",
+      "count": 2452,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C25/60": {
+      "code": "B64C25/60",
+      "level": 3,
+      "parent": "B64C25/58",
+      "ja": "オレオ緩衝装置",
+      "en": "Oleo legs",
+      "count": 1454,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C25/62": {
+      "code": "B64C25/62",
+      "level": 3,
+      "parent": "B64C25/58",
+      "ja": "バネ緩衝装置；バネ",
+      "en": "Spring shock-absorbers; Springs",
+      "count": 6657,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C25/64": {
+      "code": "B64C25/64",
+      "level": 4,
+      "parent": "B64C25/62",
+      "ja": "ゴムまたはそれと同等な材料の部材を使用したもの",
+      "en": "using rubber or like elements",
+      "count": 1435,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C25/66": {
+      "code": "B64C25/66",
+      "level": 2,
+      "parent": "B64C25/32",
+      "ja": "転換可能な降着装置；地面またはそれと同様なものと接触する部材の各種のものの組合わせ",
+      "en": "Convertible alighting gear; Combinations of different kinds of ground or like engaging elements",
+      "count": 218,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C25/68": {
+      "code": "B64C25/68",
+      "level": 1,
+      "parent": "B64C25/00",
+      "ja": "降着拘束フック［２００６．０１］",
+      "en": "Arrester hooks",
+      "count": 295,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C27/00": {
+      "code": "B64C27/00",
+      "level": 0,
+      "parent": "B64C",
+      "ja": "回転翼航空機；回転翼航空機特有の回転翼［２００６．０１］",
+      "en": "Rotorcraft; Rotors peculiar thereto",
+      "count": 3569,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C27/02": {
+      "code": "B64C27/02",
+      "level": 1,
+      "parent": "B64C27/00",
+      "ja": "ジャイロプレイン",
+      "en": "Gyroplanes",
+      "count": 1583,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C27/04": {
+      "code": "B64C27/04",
+      "level": 1,
+      "parent": "B64C27/00",
+      "ja": "ヘリコプタ",
+      "en": "Helicopters",
+      "count": 3300,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C27/06": {
+      "code": "B64C27/06",
+      "level": 2,
+      "parent": "B64C27/04",
+      "ja": "一つの回転翼をもつもの",
+      "en": "with single rotor",
+      "count": 982,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C27/08": {
+      "code": "B64C27/08",
+      "level": 2,
+      "parent": "B64C27/04",
+      "ja": "二つ以上の回転翼をもつもの［２０２３．０１］",
+      "en": "with two or more rotors",
+      "count": 16583,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C27/10": {
+      "code": "B64C27/10",
+      "level": 3,
+      "parent": "B64C27/08",
+      "ja": "共軸に配列されたもの［２０２３．０１］",
+      "en": "arranged coaxially",
+      "count": 2170,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C27/12": {
+      "code": "B64C27/12",
+      "level": 2,
+      "parent": "B64C27/04",
+      "ja": "回転翼の駆動",
+      "en": "Rotor drives",
+      "count": 3534,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C27/14": {
+      "code": "B64C27/14",
+      "level": 3,
+      "parent": "B64C27/12",
+      "ja": "原動機と回転翼ハブ間の直接駆動",
+      "en": "Direct drive between power plant and rotor hub",
+      "count": 1795,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C27/16": {
+      "code": "B64C27/16",
+      "level": 3,
+      "parent": "B64C27/12",
+      "ja": "回転翼羽根上に装備された手段，例．プロペラ，による回転翼の駆動",
+      "en": "Drive of rotors by means, e.g. propellers, mounted on rotor blades",
+      "count": 231,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C27/18": {
+      "code": "B64C27/18",
+      "level": 4,
+      "parent": "B64C27/16",
+      "ja": "ジェット反動装置による駆動",
+      "en": "the means being jet-reaction apparatus",
+      "count": 629,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C27/20": {
+      "code": "B64C27/20",
+      "level": 1,
+      "parent": "B64C27/00",
+      "ja": "シュラウド付き回転翼を有することを特徴とする回転翼航空機，例．フライングプラットフォーム［２０２３．０１］",
+      "en": "Rotorcraft characterised by having shrouded rotors, e.g. flying platforms",
+      "count": 3249,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C27/22": {
+      "code": "B64C27/22",
+      "level": 1,
+      "parent": "B64C27/00",
+      "ja": "複合式回転翼航空機，すなわち飛行中に飛行機と回転翼航空機との二態様を採りうる航空機",
+      "en": "Compound rotorcraft, i.e. aircraft using in flight the features of both aeroplane and rotorcraft",
+      "count": 2079,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C27/24": {
+      "code": "B64C27/24",
+      "level": 2,
+      "parent": "B64C27/22",
+      "ja": "飛行中に揚力面として働くように固定される回転翼羽根をもつもの",
+      "en": "with rotor blades fixed in flight to act as lifting surfaces",
+      "count": 360,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C27/26": {
+      "code": "B64C27/26",
+      "level": 2,
+      "parent": "B64C27/22",
+      "ja": "固定翼を備えていることを特徴とするもの",
+      "en": "characterised by provision of fixed wings",
+      "count": 2036,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C27/28": {
+      "code": "B64C27/28",
+      "level": 2,
+      "parent": "B64C27/22",
+      "ja": "揚力発生用回転翼として働くように傾動される前進推力発生用プロペラをもつもの",
+      "en": "with forward-propulsion propellers pivotable to act as lifting rotors",
+      "count": 1810,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C27/30": {
+      "code": "B64C27/30",
+      "level": 2,
+      "parent": "B64C27/22",
+      "ja": "不動作中の回転翼の抗力を減少するための装置をもつもの",
+      "en": "with provision for reducing drag of inoperative rotor",
+      "count": 330,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C27/32": {
+      "code": "B64C27/32",
+      "level": 1,
+      "parent": "B64C27/00",
+      "ja": "回転翼［２００６．０１］",
+      "en": "Rotors",
+      "count": 4424,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C27/33": {
+      "code": "B64C27/33",
+      "level": 2,
+      "parent": "B64C27/32",
+      "ja": "屈折するアームを有するもの［２００６．０１］",
+      "en": "having flexing arms",
+      "count": 334,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C27/35": {
+      "code": "B64C27/35",
+      "level": 2,
+      "parent": "B64C27/32",
+      "ja": "弾性変形の接合部を有するもの［３］",
+      "en": "having elastomeric joints",
+      "count": 485,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C27/37": {
+      "code": "B64C27/37",
+      "level": 2,
+      "parent": "B64C27/32",
+      "ja": "関節のある接合部を有するもの［２００６．０１］",
+      "en": "having articulated joints",
+      "count": 325,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C27/39": {
+      "code": "B64C27/39",
+      "level": 3,
+      "parent": "B64C27/37",
+      "ja": "各々に関節で連結された羽根，すなわち羽ばたきまたは抗力ヒンジを有するもの［３］",
+      "en": "with individually articulated blades, i.e. with flapping or drag hinges",
+      "count": 165,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C27/41": {
+      "code": "B64C27/41",
+      "level": 3,
+      "parent": "B64C27/37",
+      "ja": "羽根に共通する万能接手または羽ばたき用ヒンジ［３］",
+      "en": "with flapping hinge or universal joint, common to the blades",
+      "count": 155,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C27/43": {
+      "code": "B64C27/43",
+      "level": 4,
+      "parent": "B64C27/41",
+      "ja": "シーソー型，すなわち２枚羽根回転翼［３］",
+      "en": "see-saw type, i.e. two-bladed rotor",
+      "count": 142,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C27/45": {
+      "code": "B64C27/45",
+      "level": 3,
+      "parent": "B64C27/37",
+      "ja": "フェザーリングヒンジのみ有するもの［３］",
+      "en": "with a feathering hinge only",
+      "count": 45,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C27/46": {
+      "code": "B64C27/46",
+      "level": 2,
+      "parent": "B64C27/32",
+      "ja": "羽根",
+      "en": "Blades",
+      "count": 1346,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C27/467": {
+      "code": "B64C27/467",
+      "level": 3,
+      "parent": "B64C27/46",
+      "ja": "空気力学的特徴を有するもの［６］",
+      "en": "Aerodynamic features",
+      "count": 692,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C27/473": {
+      "code": "B64C27/473",
+      "level": 3,
+      "parent": "B64C27/46",
+      "ja": "構造的特徴を有するもの［６］",
+      "en": "Constructional features",
+      "count": 1566,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C27/48": {
+      "code": "B64C27/48",
+      "level": 4,
+      "parent": "B64C27/473",
+      "ja": "ローターヘッドへの付け根部分の装着",
+      "en": "Root attachment to rotor head",
+      "count": 683,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C27/50": {
+      "code": "B64C27/50",
+      "level": 4,
+      "parent": "B64C27/473",
+      "ja": "航空機の格納のために折り畳むことのできる羽根",
+      "en": "Blades foldable to facilitate stowage of aircraft",
+      "count": 856,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C27/51": {
+      "code": "B64C27/51",
+      "level": 1,
+      "parent": "B64C27/00",
+      "ja": "羽根の運動の減衰［３］",
+      "en": "Damping of blade movements",
+      "count": 604,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C27/52": {
+      "code": "B64C27/52",
+      "level": 1,
+      "parent": "B64C27/00",
+      "ja": "回転翼全体の航空機胴体に対する傾動（シーソー型のものについてはＢ６４Ｃ２７／４３）",
+      "en": "Tilting of rotor bodily relative to fuselage(of see-saw type construction <b>B64C27/43</b>)",
+      "count": 2008,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C27/54": {
+      "code": "B64C27/54",
+      "level": 1,
+      "parent": "B64C27/00",
+      "ja": "羽根のロータヘッドに対する調整または運動，例．進み遅れ運動を制御するための機構",
+      "en": "Mechanisms for controlling blade adjustment or movement relative to rotor head, e.g. lag-lead movement",
+      "count": 1287,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C27/56": {
+      "code": "B64C27/56",
+      "level": 2,
+      "parent": "B64C27/54",
+      "ja": "制御入力装置，例．人為的に作動されるもの，を特徴とするもの［２００６．０１］",
+      "en": "characterised by the control initiating means, e.g. manually actuated",
+      "count": 289,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C27/57": {
+      "code": "B64C27/57",
+      "level": 3,
+      "parent": "B64C27/56",
+      "ja": "自動または条件応答するもの，例．回転翼の速度，トルクまたはスラストに応答するもの［３］",
+      "en": "automatic or condition responsive, e.g. responsive to rotor speed, torque or thrust",
+      "count": 466,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C27/58": {
+      "code": "B64C27/58",
+      "level": 2,
+      "parent": "B64C27/54",
+      "ja": "伝達装置，例．入力装置または羽根に作用する装置と相互関係のあるもの（羽根に作用する装置Ｂ６４Ｃ２７／７２）［２００６．０１］",
+      "en": "Transmitting means, e.g. interrelated with initiating means or means acting on blades(means acting on blades <b>B64C27/72</b>)",
+      "count": 234,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C27/59": {
+      "code": "B64C27/59",
+      "level": 3,
+      "parent": "B64C27/58",
+      "ja": "機械的なもの［３］",
+      "en": "mechanical",
+      "count": 642,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C27/605": {
+      "code": "B64C27/605",
+      "level": 4,
+      "parent": "B64C27/59",
+      "ja": "スワッシュプレート，スパイダーまたはカム機構を含むもの［３］",
+      "en": "including swash plate, spider or cam mechanisms",
+      "count": 669,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C27/615": {
+      "code": "B64C27/615",
+      "level": 4,
+      "parent": "B64C27/59",
+      "ja": "羽根に装着されたフラップを含むもの［３］",
+      "en": "including flaps mounted on blades",
+      "count": 262,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C27/625": {
+      "code": "B64C27/625",
+      "level": 4,
+      "parent": "B64C27/59",
+      "ja": "回転重鍾またはサーボ回転翼を含むもの［３］",
+      "en": "including rotating masses or servo rotors",
+      "count": 97,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C27/635": {
+      "code": "B64C27/635",
+      "level": 4,
+      "parent": "B64C27/59",
+      "ja": "特に羽根の進み遅れ運動を制御するためのもの［３］",
+      "en": "specially for controlling lag-lead movements of blades",
+      "count": 41,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C27/64": {
+      "code": "B64C27/64",
+      "level": 3,
+      "parent": "B64C27/58",
+      "ja": "流体圧力を使用するもの，例．流体動力の増幅によるもの［３］",
+      "en": "using fluid pressure, e.g. having fluid power amplification",
+      "count": 171,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C27/68": {
+      "code": "B64C27/68",
+      "level": 3,
+      "parent": "B64C27/58",
+      "ja": "電気的エネルギーを使用するもの，例．電力増幅によるもの［３］",
+      "en": "using electrical energy, e.g. having electrical power amplification",
+      "count": 367,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C27/72": {
+      "code": "B64C27/72",
+      "level": 2,
+      "parent": "B64C27/54",
+      "ja": "羽根に作用する装置",
+      "en": "Means acting on blades",
+      "count": 459,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C27/78": {
+      "code": "B64C27/78",
+      "level": 2,
+      "parent": "B64C27/54",
+      "ja": "反トルク回転翼の羽根ピッチ調整と協働するもの",
+      "en": "in association with pitch adjustment of blades of anti-torque rotor",
+      "count": 139,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C27/80": {
+      "code": "B64C27/80",
+      "level": 2,
+      "parent": "B64C27/54",
+      "ja": "二つ以上の揚力発生用回転翼相互間の羽根ピッチの差動調整のためのもの",
+      "en": "for differential adjustment of blade pitch between two or more lifting rotors",
+      "count": 163,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C27/82": {
+      "code": "B64C27/82",
+      "level": 1,
+      "parent": "B64C27/00",
+      "ja": "揚力発生用回転翼のトルクの打消しまたは回転翼航空機の方向転換のための補助回転翼または流体ジェット装置を備えたことを特徴とするもの",
+      "en": "characterised by the provision of an auxiliary rotor or fluid-jet device for counter-balancing lifting-rotor torque or changing direction of rotorcraft",
+      "count": 1744,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C29/00": {
+      "code": "B64C29/00",
+      "level": 0,
+      "parent": "B64C",
+      "ja": "垂直に離着陸できる航空機，例．垂直離着陸［ＶＴＯＬ］機（回転翼機Ｂ６４Ｃ２７／００）［２００６．０１］",
+      "en": "Aircraft capable of landing or taking-off vertically, e.g. vertical take-off and landing [VTOL] aircraft(rotorcraft <b>B64C27/00</b>)",
+      "count": 9084,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C29/02": {
+      "code": "B64C29/02",
+      "level": 1,
+      "parent": "B64C29/00",
+      "ja": "地上にあるときはその飛行方向軸が垂直であるもの",
+      "en": "having its flight directional axis vertical when grounded",
+      "count": 1191,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C29/04": {
+      "code": "B64C29/04",
+      "level": 2,
+      "parent": "B64C29/02",
+      "ja": "ジェット反動推進を特徴とするもの",
+      "en": "characterised by jet-reaction propulsion",
+      "count": 290,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C30/00": {
+      "code": "B64C30/00",
+      "level": 0,
+      "parent": "B64C",
+      "ja": "超音速航空機［３］",
+      "en": "Supersonic type aircraft",
+      "count": 998,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C31/00": {
+      "code": "B64C31/00",
+      "level": 0,
+      "parent": "B64C",
+      "ja": "原動機なしに飛行するよう考えられた航空機；原動機付ハンググライダ型航空機；超軽量型航空機",
+      "en": "Aircraft intended to be sustained without power plant; Powered hang-glider-type aircraft; Microlight-type aircraft",
+      "count": 249,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C31/02": {
+      "code": "B64C31/02",
+      "level": 1,
+      "parent": "B64C31/00",
+      "ja": "グライダ，例．セイルプレイン（ハンググライダＢ６４Ｃ３１／０２８）［６］",
+      "en": "Gliders, e.g. sailplanes(hang-gliders <b>B64C31/028</b>)",
+      "count": 792,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C31/024": {
+      "code": "B64C31/024",
+      "level": 2,
+      "parent": "B64C31/02",
+      "ja": "補助原動機をもつもの［６］",
+      "en": "with auxiliary power plant",
+      "count": 322,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C31/028": {
+      "code": "B64C31/028",
+      "level": 1,
+      "parent": "B64C31/00",
+      "ja": "ハンググライダ型航空機；超軽量型航空機［６］",
+      "en": "Hang-glider-type aircraft; Microlight-type aircraft",
+      "count": 689,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C31/032": {
+      "code": "B64C31/032",
+      "level": 2,
+      "parent": "B64C31/028",
+      "ja": "デルタ型翼をもつもの［６］",
+      "en": "having delta shaped wing",
+      "count": 248,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C31/036": {
+      "code": "B64C31/036",
+      "level": 2,
+      "parent": "B64C31/028",
+      "ja": "パラシュート型翼をもつもの",
+      "en": "having parachute-type wing",
+      "count": 606,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C31/04": {
+      "code": "B64C31/04",
+      "level": 1,
+      "parent": "B64C31/00",
+      "ja": "人力航空機",
+      "en": "Man-powered aircraft",
+      "count": 416,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C31/06": {
+      "code": "B64C31/06",
+      "level": 1,
+      "parent": "B64C31/00",
+      "ja": "凧（おもちゃの凧Ａ６３Ｈ２７／０８；空中に浮揚する曳行標的，例．凧，Ｆ４１Ｊ９／１０）［２０２０．０１］",
+      "en": "Kites (toy aspects <b>A63H27/08</b>; airborne towed targets, e.g. kites, <b>F41J9/10</b>)",
+      "count": 1222,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C33/00": {
+      "code": "B64C33/00",
+      "level": 0,
+      "parent": "B64C",
+      "ja": "羽ばたき航空機",
+      "en": "Ornithopters",
+      "count": 1295,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C33/02": {
+      "code": "B64C33/02",
+      "level": 1,
+      "parent": "B64C33/00",
+      "ja": "翼；その作動機構",
+      "en": "Wings; Actuating mechanisms therefor",
+      "count": 2764,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C35/00": {
+      "code": "B64C35/00",
+      "level": 0,
+      "parent": "B64C",
+      "ja": "飛行艇；水上飛行機［２００６．０１］",
+      "en": "Flying-boats; Seaplanes",
+      "count": 2893,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C35/02": {
+      "code": "B64C35/02",
+      "level": 1,
+      "parent": "B64C35/00",
+      "ja": "飛行艇体［３］",
+      "en": "Flying-boat hulls",
+      "count": 153,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C37/00": {
+      "code": "B64C37/00",
+      "level": 0,
+      "parent": "B64C",
+      "ja": "転換式航空機［２００６．０１］",
+      "en": "Convertible aircraft",
+      "count": 1261,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C37/02": {
+      "code": "B64C37/02",
+      "level": 1,
+      "parent": "B64C37/00",
+      "ja": "分離可能な航空機からなる飛行体（曳航Ｂ６４Ｄ３／００；航空機によって輸送される航空機Ｂ６４Ｄ５／００；空中給油Ｂ６４Ｄ３９／００）［２００６．０１］",
+      "en": "Flying units formed by separate aircraft (towing <b>B64D3/00</b>; aircraft transported by aircraft <b>B64D5/00</b>; air-refuelling <b>B64D39/00</b>)",
+      "count": 543,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C39/00": {
+      "code": "B64C39/00",
+      "level": 0,
+      "parent": "B64C",
+      "ja": "他に分類されない航空機［２０２３．０１］",
+      "en": "Aircraft not otherwise provided for",
+      "count": 5017,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C39/02": {
+      "code": "B64C39/02",
+      "level": 1,
+      "parent": "B64C39/00",
+      "ja": "特殊用途を特徴とするもの［２０２３．０１］",
+      "en": "characterised by special use",
+      "count": 40646,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C39/04": {
+      "code": "B64C39/04",
+      "level": 1,
+      "parent": "B64C39/00",
+      "ja": "多重胴体または尾部支材をもつもの［３］",
+      "en": "having multiple fuselages or tail booms",
+      "count": 345,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C39/06": {
+      "code": "B64C39/06",
+      "level": 1,
+      "parent": "B64C39/00",
+      "ja": "円板または環状形の翼をもつもの［３］",
+      "en": "having disc- or ring-shaped wings",
+      "count": 1345,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C39/08": {
+      "code": "B64C39/08",
+      "level": 1,
+      "parent": "B64C39/00",
+      "ja": "多葉翼をもつもの［３］",
+      "en": "having multiple wings",
+      "count": 801,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C39/10": {
+      "code": "B64C39/10",
+      "level": 1,
+      "parent": "B64C39/00",
+      "ja": "全翼航空機［３］",
+      "en": "All-wing aircraft",
+      "count": 811,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C39/12": {
+      "code": "B64C39/12",
+      "level": 1,
+      "parent": "B64C39/00",
+      "ja": "先尾翼型航空機［３］",
+      "en": "Canard-type aircraft",
+      "count": 454,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    },
+    "B64C99/00": {
+      "code": "B64C99/00",
+      "level": 0,
+      "parent": "B64C",
+      "ja": "このサブクラスの他のグループに分類されない主題事項［２０２３．０１］",
+      "en": "Subject matter not provided for in other groups of this subclass",
+      "count": 103,
+      "sourceFile": "ipc_B64C.txt",
+      "kind": "ipc"
+    }
+  }
+};

@@ -1,0 +1,1336 @@
+window.IPC_SHARD_A63C = {
+  "generatedAt": "2026-03-20T02:17:45.970Z",
+  "total": 133,
+  "entries": {
+    "A63C": {
+      "code": "A63C",
+      "level": 0,
+      "parent": "A63",
+      "ja": "スケート，スキー，ローラースケート；コート，リンクまたは類似のものの設計または配置（水上スキーＢ６３Ｂ３２／００，Ｂ６３Ｂ３４／００）［５］<br><br><b><ul>サブクラス内の索引</ul></b><br>スケート<br>アイススケート　１／００，３／００<br>ローラースケート　１７／００<br>スキー，雪上靴<br>雪上スキー　５／００～１１／００<br>雪上靴　１３／００<br>競技場，リンク，ボーリンググリーン，水上スキー用施設，そのカバー　１９／００",
+      "en": "SKATES; SKIS; ROLLER SKATES; DESIGN OR LAYOUT OF COURTS, RINKS OR THE LIKE(water skis <b>B63B32/00</b>, <b>B63B34/00</b>);<br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">SKATES<tr><td width=\"70%\">Ice skates </td><td><b><b>1/00</b>, <b>3/00</b></b></td></tr></tr><tr><td width=\"70%\">Roller skates </td><td><b><b>17/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">SKIS, SNOW SHOES<tr><td width=\"70%\">Snow skis </td><td><b><b>5/00 to 11/00</b> </b></td></tr></tr><tr><td width=\"70%\">Snow shoes </td><td><b><b>13/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">PLAYING-COURTS, RINKS, BOWLING GREENS OR AREAS FOR WATER-SKIING, COVERS THEREFOR </td><td><b><b>19/00</b></b></td></tr></tr></table>",
+      "count": 2610,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A63": {
+      "code": "A63",
+      "level": 0,
+      "parent": "A",
+      "ja": "スポーツ；ゲーム；娯楽",
+      "en": "SPORTS; GAMES; AMUSEMENTS",
+      "count": 0,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A": {
+      "code": "A",
+      "level": 0,
+      "parent": null,
+      "ja": "生活必需品",
+      "en": "HUMAN NECESSITIES",
+      "count": 0,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A63C1/00": {
+      "code": "A63C1/00",
+      "level": 0,
+      "parent": "A63C",
+      "ja": "スケート（ローラスケートまたはスケートボードＡ６３Ｃ１７／００）",
+      "en": "Skates(roller skates or skate boards <b>A63C17/00</b>)",
+      "count": 732,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C1/02": {
+      "code": "A63C1/02",
+      "level": 1,
+      "parent": "A63C1/00",
+      "ja": "靴底に固定されたもの",
+      "en": "rigidly mounted on the sole of the boot",
+      "count": 198,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C1/04": {
+      "code": "A63C1/04",
+      "level": 1,
+      "parent": "A63C1/00",
+      "ja": "留め金によって固定されたもの",
+      "en": "fastened by means of clamps",
+      "count": 101,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C1/06": {
+      "code": "A63C1/06",
+      "level": 2,
+      "parent": "A63C1/04",
+      "ja": "留め金を備えたソールプレートとヒールプレートを有するもの",
+      "en": "with sole and heel plates each equipped with clamps",
+      "count": 11,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C1/08": {
+      "code": "A63C1/08",
+      "level": 2,
+      "parent": "A63C1/04",
+      "ja": "同時に締め付けられるソールと踵の留め金を有するもの",
+      "en": "with simultaneously-tightened sole and heel clamps",
+      "count": 14,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C1/10": {
+      "code": "A63C1/10",
+      "level": 2,
+      "parent": "A63C1/04",
+      "ja": "足の動きによって締まるもの",
+      "en": "tightened by the movement of the foot",
+      "count": 6,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C1/12": {
+      "code": "A63C1/12",
+      "level": 2,
+      "parent": "A63C1/04",
+      "ja": "ブレードまたはスケート全体を横に揺動させることまたは移動させることにより締まるもの",
+      "en": "tightened by lateral swinging or shifting of the blade or of the whole skate",
+      "count": 7,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C1/14": {
+      "code": "A63C1/14",
+      "level": 2,
+      "parent": "A63C1/04",
+      "ja": "バネ手段によって締まるもの",
+      "en": "tightened by means of springs",
+      "count": 11,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C1/16": {
+      "code": "A63C1/16",
+      "level": 2,
+      "parent": "A63C1/04",
+      "ja": "留め金固定手段の特殊構造",
+      "en": "Special structure of the clamp fastening devices",
+      "count": 41,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C1/18": {
+      "code": "A63C1/18",
+      "level": 1,
+      "parent": "A63C1/00",
+      "ja": "紐によって固定されるもの",
+      "en": "fastened by means of straps",
+      "count": 47,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C1/20": {
+      "code": "A63C1/20",
+      "level": 1,
+      "parent": "A63C1/00",
+      "ja": "特殊金属部分に固定手段を有するもの",
+      "en": "with fastening means on special metal parts",
+      "count": 77,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C1/22": {
+      "code": "A63C1/22",
+      "level": 1,
+      "parent": "A63C1/00",
+      "ja": "特殊な踏み板を有するもの",
+      "en": "with special foot-plates of the boot",
+      "count": 118,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C1/24": {
+      "code": "A63C1/24",
+      "level": 2,
+      "parent": "A63C1/22",
+      "ja": "弾性板",
+      "en": "Elastic plates",
+      "count": 65,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C1/26": {
+      "code": "A63C1/26",
+      "level": 2,
+      "parent": "A63C1/22",
+      "ja": "足の大きさに調節できるように２つの部分に分けられたもの",
+      "en": "divided into two parts permitting adjustment to the size of the foot",
+      "count": 130,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C1/28": {
+      "code": "A63C1/28",
+      "level": 2,
+      "parent": "A63C1/22",
+      "ja": "回転できる取付板",
+      "en": "Pivotally-mounted plates",
+      "count": 161,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C1/30": {
+      "code": "A63C1/30",
+      "level": 1,
+      "parent": "A63C1/00",
+      "ja": "特殊なブレードを有するもの",
+      "en": "with special blades",
+      "count": 513,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C1/32": {
+      "code": "A63C1/32",
+      "level": 2,
+      "parent": "A63C1/30",
+      "ja": "単純なブレードの特殊な構造",
+      "en": "Special constructions of the simple blade",
+      "count": 235,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C1/34": {
+      "code": "A63C1/34",
+      "level": 2,
+      "parent": "A63C1/30",
+      "ja": "多部分からなるブレード",
+      "en": "Multi-part blades",
+      "count": 42,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C1/36": {
+      "code": "A63C1/36",
+      "level": 2,
+      "parent": "A63C1/30",
+      "ja": "複数のブレードを有するもの",
+      "en": "with several blades",
+      "count": 139,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C1/38": {
+      "code": "A63C1/38",
+      "level": 1,
+      "parent": "A63C1/00",
+      "ja": "管状のもの",
+      "en": "of the tubular type",
+      "count": 74,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C1/40": {
+      "code": "A63C1/40",
+      "level": 1,
+      "parent": "A63C1/00",
+      "ja": "単一材料で作られたもの",
+      "en": "manufactured of one piece of material",
+      "count": 34,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C1/42": {
+      "code": "A63C1/42",
+      "level": 1,
+      "parent": "A63C1/00",
+      "ja": "スケートの製造",
+      "en": "Manufacture of skates",
+      "count": 235,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C3/00": {
+      "code": "A63C3/00",
+      "level": 0,
+      "parent": "A63C",
+      "ja": "スケートの付属品",
+      "en": "Accessories for skates",
+      "count": 389,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C3/02": {
+      "code": "A63C3/02",
+      "level": 1,
+      "parent": "A63C3/00",
+      "ja": "足の関節をささえるもの（足支持部分を有する履物Ａ４３Ｂ７／１４）",
+      "en": "Supports for the foot-joint(footwear with foot-supporting parts <b>A43B7/14</b>)",
+      "count": 75,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C3/04": {
+      "code": "A63C3/04",
+      "level": 1,
+      "parent": "A63C3/00",
+      "ja": "スケータ用の支持フレームまたは支持滑走物",
+      "en": "Supporting frames or gliders for skaters",
+      "count": 99,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C3/06": {
+      "code": "A63C3/06",
+      "level": 1,
+      "parent": "A63C3/00",
+      "ja": "靴にスケートを紐でしばるのに用いる支持体",
+      "en": "Supports for use whilst strapping skates on to boots",
+      "count": 19,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C3/08": {
+      "code": "A63C3/08",
+      "level": 1,
+      "parent": "A63C3/00",
+      "ja": "スケートのブレードに用いる特殊なスパイク",
+      "en": "Special spikes for the blades of skates",
+      "count": 10,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C3/10": {
+      "code": "A63C3/10",
+      "level": 1,
+      "parent": "A63C3/00",
+      "ja": "ブレードを研磨する補助装置",
+      "en": "Auxiliary devices for sharpening blades",
+      "count": 164,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C3/12": {
+      "code": "A63C3/12",
+      "level": 1,
+      "parent": "A63C3/00",
+      "ja": "スケートブレード用保護具",
+      "en": "Guards for skate blades",
+      "count": 183,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C3/14": {
+      "code": "A63C3/14",
+      "level": 1,
+      "parent": "A63C3/00",
+      "ja": "スケート用鍵",
+      "en": "Keys for skates",
+      "count": 10,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C5/00": {
+      "code": "A63C5/00",
+      "level": 0,
+      "parent": "A63C",
+      "ja": "スキーまたはスノーボード（滑走部をもつそり，例．スキーボブＢ６２Ｂ１３／００；そりのための滑走部Ｂ６２Ｂ１７／０２；氷上または雪上の走行を容易にするための車輪付車両支持用滑走部Ｂ６２Ｂ１９／００）",
+      "en": "Skis or snowboards(sledges with runners, e.g. ski-bobs, <b>B62B13/00</b>; runners for sledges <b>B62B17/02</b>; runners for carrying wheeled vehicles to facilitate travel on snow or ice <b>B62B19/00</b>)",
+      "count": 2731,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C5/02": {
+      "code": "A63C5/02",
+      "level": 1,
+      "parent": "A63C5/00",
+      "ja": "折りたたみのできるもの；分割のできるもの",
+      "en": "collapsible; divided",
+      "count": 526,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C5/025": {
+      "code": "A63C5/025",
+      "level": 1,
+      "parent": "A63C5/00",
+      "ja": "ショートスキー［４］",
+      "en": "Short skis",
+      "count": 108,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C5/03": {
+      "code": "A63C5/03",
+      "level": 1,
+      "parent": "A63C5/00",
+      "ja": "モノスキー；スノーボード［４］",
+      "en": "Mono skis; Snowboards",
+      "count": 1372,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C5/035": {
+      "code": "A63C5/035",
+      "level": 1,
+      "parent": "A63C5/00",
+      "ja": "地上を滑走するローラーまたはベルトを備えたもの［４］",
+      "en": "with ground engaging rolls or belts",
+      "count": 368,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C5/04": {
+      "code": "A63C5/04",
+      "level": 1,
+      "parent": "A63C5/00",
+      "ja": "表面構造［４］",
+      "en": "Structure of the surface thereof",
+      "count": 1371,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C5/044": {
+      "code": "A63C5/044",
+      "level": 2,
+      "parent": "A63C5/04",
+      "ja": "滑走面の構造［４］",
+      "en": "of the running sole",
+      "count": 425,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C5/048": {
+      "code": "A63C5/048",
+      "level": 2,
+      "parent": "A63C5/04",
+      "ja": "エッジの構造［４］",
+      "en": "of the edges",
+      "count": 817,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C5/052": {
+      "code": "A63C5/052",
+      "level": 2,
+      "parent": "A63C5/04",
+      "ja": "先端部または後端部の構造［４］",
+      "en": "of the tips or rear ends",
+      "count": 303,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C5/056": {
+      "code": "A63C5/056",
+      "level": 2,
+      "parent": "A63C5/04",
+      "ja": "滑走面の材料［４］",
+      "en": "Materials for the running sole",
+      "count": 471,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C5/06": {
+      "code": "A63C5/06",
+      "level": 1,
+      "parent": "A63C5/00",
+      "ja": "特殊装置を備えたもの，例．操舵手段",
+      "en": "with special devices thereon, e.g. steering devices",
+      "count": 1675,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C5/065": {
+      "code": "A63C5/065",
+      "level": 2,
+      "parent": "A63C5/06",
+      "ja": "交差防止装置［４］",
+      "en": "Anti-crossing devices",
+      "count": 159,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C5/07": {
+      "code": "A63C5/07",
+      "level": 2,
+      "parent": "A63C5/06",
+      "ja": "剛性を調節する手段を含むもの",
+      "en": "comprising means for adjusting stiffness",
+      "count": 467,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C5/075": {
+      "code": "A63C5/075",
+      "level": 2,
+      "parent": "A63C5/06",
+      "ja": "防振器［４］",
+      "en": "Vibration-dampers",
+      "count": 519,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C5/08": {
+      "code": "A63C5/08",
+      "level": 1,
+      "parent": "A63C5/00",
+      "ja": "動力駆動されるもの（Ａ６３Ｃ５／０３５が優先）［４］",
+      "en": "motor-driven(<b>A63C5/035</b> takes precedence)",
+      "count": 276,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C5/11": {
+      "code": "A63C5/11",
+      "level": 1,
+      "parent": "A63C5/00",
+      "ja": "帆またはその類似物と組合わせたもの［２０２０．０１］<br><br><b><ul>注</ul></b><br>このグループに分類するとき，海洋風力推進に適した帆または索具の詳細もサブクラスＢ６３Ｈ，例．　グループＢ６３Ｈ８／００，Ｂ６３Ｈ９／０４の関連グループに分類される。",
+      "en": "combined with sails or the like; <br><br><b><u>Note(s)</u></b><br><br><ul><li>When classifying in this group, details of sail or rigging arrangements which are suited for marine wind propulsion are also classified in the relevant groups of subclass <b>B63H</b>, e.g. in groups <b>B63H8/00</b>, <b>B63H9/04</b>.</li></ul>",
+      "count": 132,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C5/12": {
+      "code": "A63C5/12",
+      "level": 1,
+      "parent": "A63C5/00",
+      "ja": "製作方法；特殊材料の選択（滑走面の材料の選択Ａ６３Ｃ５／０５６）［４］",
+      "en": "Making thereof; Selection of particular materials(materials for the running sole <b>A63C5/056</b>)",
+      "count": 2499,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C5/14": {
+      "code": "A63C5/14",
+      "level": 2,
+      "parent": "A63C5/12",
+      "ja": "合成材料を使用するもの；複数の接合層を有するもの［４］",
+      "en": "using synthetic materials; having a plurality of bonded layers",
+      "count": 586,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C5/16": {
+      "code": "A63C5/16",
+      "level": 1,
+      "parent": "A63C5/00",
+      "ja": "お互いが特殊形態を保ちながらスキーが使用できる装置，例．訓練目的［４］",
+      "en": "Devices enabling skis to be used whilst held in a particular configuration with respect to each other, e.g. for training purposes",
+      "count": 265,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C7/00": {
+      "code": "A63C7/00",
+      "level": 0,
+      "parent": "A63C",
+      "ja": "スキーの後滑り防止装置；スキーストッパーまたはスキーブレーキ［４］",
+      "en": "Devices preventing skis from slipping back; Ski-stoppers or ski-brakes",
+      "count": 341,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C7/02": {
+      "code": "A63C7/02",
+      "level": 1,
+      "parent": "A63C7/00",
+      "ja": "皮；皮の代用品",
+      "en": "Skins; Substitutes for skins",
+      "count": 168,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C7/04": {
+      "code": "A63C7/04",
+      "level": 1,
+      "parent": "A63C7/00",
+      "ja": "皮を固定する装置",
+      "en": "Fastening-devices for skins",
+      "count": 200,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C7/06": {
+      "code": "A63C7/06",
+      "level": 1,
+      "parent": "A63C7/00",
+      "ja": "歯状滑走面板",
+      "en": "Tooth-shaped running sole-plates",
+      "count": 176,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C7/08": {
+      "code": "A63C7/08",
+      "level": 1,
+      "parent": "A63C7/00",
+      "ja": "作用する位置から取り外しできないように，取り付け可能な停止刃",
+      "en": "Stoppage blades attachable to the skis in such manner that these blades are permanently in the operative position",
+      "count": 350,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C7/10": {
+      "code": "A63C7/10",
+      "level": 1,
+      "parent": "A63C7/00",
+      "ja": "作用する位置からとり去ることができ，取り付け可能に蝶番止めされている停止刃",
+      "en": "Hinged stoppage blades attachable to the skis in such manner that these blades can be moved out of the operative position",
+      "count": 1101,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C7/12": {
+      "code": "A63C7/12",
+      "level": 1,
+      "parent": "A63C7/00",
+      "ja": "横滑り防止のスキー用のスパイク底",
+      "en": "Ski crampons preventing lateral slipping",
+      "count": 63,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C9/00": {
+      "code": "A63C9/00",
+      "level": 0,
+      "parent": "A63C",
+      "ja": "スキービンディング［１，２０１２．０１］",
+      "en": "Ski bindings",
+      "count": 4351,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C9/02": {
+      "code": "A63C9/02",
+      "level": 1,
+      "parent": "A63C9/00",
+      "ja": "回転底板または回転部分を有する自動的に開放しないビンディング，すなわちエレフゼンタイプ［１，２０１２．０１］",
+      "en": "Non-self-releasing bindings with swivel sole-plate or swivel parts, i.e. Ellefsen-type",
+      "count": 524,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C9/04": {
+      "code": "A63C9/04",
+      "level": 1,
+      "parent": "A63C9/00",
+      "ja": "自動的に解放しないひも式のビンディング［１，２０１２．０１］",
+      "en": "Non-self-releasing long strap bindings",
+      "count": 122,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C9/06": {
+      "code": "A63C9/06",
+      "level": 1,
+      "parent": "A63C9/00",
+      "ja": "スキーの前端に固定され踵と係合する自動的に解放しないケーブルビンディング［１，２０１２．０１］",
+      "en": "Non-self-releasing heel-engaging cable bindings fastened to the front end of the ski",
+      "count": 312,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C9/08": {
+      "code": "A63C9/08",
+      "level": 1,
+      "parent": "A63C9/00",
+      "ja": "事故の場合自動的にはずれるもの，すなわち安全ビンディング［１，２０１２．０１］",
+      "en": "yieldable or self-releasing in the event of an accident, i.e. safety bindings",
+      "count": 2776,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C9/081": {
+      "code": "A63C9/081",
+      "level": 2,
+      "parent": "A63C9/08",
+      "ja": "回転底板を有するもの［１，２０１２．０１］",
+      "en": "with swivel sole-plate",
+      "count": 501,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C9/082": {
+      "code": "A63C9/082",
+      "level": 2,
+      "parent": "A63C9/08",
+      "ja": "回転踵板を有するもの［１，２０１２．０１］",
+      "en": "with swivel heel-plate",
+      "count": 197,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C9/083": {
+      "code": "A63C9/083",
+      "level": 2,
+      "parent": "A63C9/08",
+      "ja": "ゆるめることができる紐を有するもの［１，２０１２．０１］",
+      "en": "with loosenable cable strap",
+      "count": 280,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C9/084": {
+      "code": "A63C9/084",
+      "level": 2,
+      "parent": "A63C9/08",
+      "ja": "踵固定具を有するもの，例．スウインガブル［１，２０１２．０１］",
+      "en": "with heel hold-downs, e.g. swingable",
+      "count": 1990,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C9/085": {
+      "code": "A63C9/085",
+      "level": 2,
+      "parent": "A63C9/08",
+      "ja": "靴底固定具を有するもの，例．スウインガブル［１，２０１２．０１］",
+      "en": "with sole hold-downs, e.g. swingable",
+      "count": 2718,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C9/086": {
+      "code": "A63C9/086",
+      "level": 2,
+      "parent": "A63C9/08",
+      "ja": "使用者の靴に取付けられ，スキービンディングからとりはずせる部品を使用するもの［１，２０１２．０１］",
+      "en": "using parts which are fixed on the shoe of the user and are releasable from the ski binding",
+      "count": 1215,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C9/088": {
+      "code": "A63C9/088",
+      "level": 2,
+      "parent": "A63C9/08",
+      "ja": "電子的に制御された係止装置を有するもの［４，２０１２．０１］",
+      "en": "with electronically controlled locking devices",
+      "count": 282,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C9/10": {
+      "code": "A63C9/10",
+      "level": 1,
+      "parent": "A63C9/00",
+      "ja": "自動的に解放しない爪先ばさみ金具；一体に作られた自動的に解放しないビンディングのフック［１，２０１２．０１］",
+      "en": "Non-self-releasing toe jaw-irons; Non-self-releasing binding hooks made of one piece",
+      "count": 147,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C9/12": {
+      "code": "A63C9/12",
+      "level": 1,
+      "parent": "A63C9/00",
+      "ja": "自動的に解放しない弾性ヒールストラップ［１，２０１２．０１］",
+      "en": "Non-self-releasing elastic heel-straps",
+      "count": 85,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C9/14": {
+      "code": "A63C9/14",
+      "level": 1,
+      "parent": "A63C9/00",
+      "ja": "ヒールストラップを有しないが側面ガイドと爪先紐の両方を有する自動的に解放しないビンディング［１，２０１２．０１］",
+      "en": "Non-self-releasing bindings without heel-straps, but with both guiding cheeks and toe-straps",
+      "count": 27,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C9/16": {
+      "code": "A63C9/16",
+      "level": 1,
+      "parent": "A63C9/00",
+      "ja": "紐を有せず側面ガイドを有する自動的に解放しないビンディング［１，２０１２．０１］",
+      "en": "Non-self-releasing bindings without straps, but with guiding cheeks",
+      "count": 102,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C9/18": {
+      "code": "A63C9/18",
+      "level": 1,
+      "parent": "A63C9/00",
+      "ja": "ヒールストラップを有しないがビンディングの前端または後方に留め金装置を配置した自動的に解放しないビンディング［１，２０１２．０１］",
+      "en": "Non-self-releasing bindings without heel-straps, but with a clamping device arranged at the front end of, or behind, the binding",
+      "count": 298,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C9/20": {
+      "code": "A63C9/20",
+      "level": 1,
+      "parent": "A63C9/00",
+      "ja": "爪先紐の代りに特殊な靴底保持具を有する，自動的に解放しないビンディング［１，２０１２．０１］",
+      "en": "Non-self-releasing bindings with special sole edge holders instead of toe-straps",
+      "count": 961,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C9/22": {
+      "code": "A63C9/22",
+      "level": 1,
+      "parent": "A63C9/00",
+      "ja": "爪先留め金の調節装置［１，２０１２．０１］",
+      "en": "Arrangements for adjusting the toe-clamps",
+      "count": 245,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C9/24": {
+      "code": "A63C9/24",
+      "level": 1,
+      "parent": "A63C9/00",
+      "ja": "スキービンディングの締付具（自動的にはずれるスキービンディングの締付具Ａ６３Ｃ９／０８）［１，２０１２．０１］",
+      "en": "Tighteners for ski bindings(tighteners for self-releasing ski bindings <b>A63C9/08</b>)",
+      "count": 189,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C10/00": {
+      "code": "A63C10/00",
+      "level": 0,
+      "parent": "A63C",
+      "ja": "スノーボード用ビンディング［２０１２．０１］",
+      "en": "Snowboard bindings",
+      "count": 172,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C10/02": {
+      "code": "A63C10/02",
+      "level": 1,
+      "parent": "A63C10/00",
+      "ja": "靴保持具の細部に特徴を有するもの［２０１２．０１］",
+      "en": "characterised by details of the shoe holders",
+      "count": 138,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C10/04": {
+      "code": "A63C10/04",
+      "level": 2,
+      "parent": "A63C10/02",
+      "ja": "靴の上部を跨ぐように設けられた靴保持具［２０１２．０１］",
+      "en": "Shoe holders for passing over the shoe",
+      "count": 349,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C10/06": {
+      "code": "A63C10/06",
+      "level": 3,
+      "parent": "A63C10/04",
+      "ja": "そのためのストラップ，例．調節可能なストラップ［２０１２．０１］",
+      "en": "Straps therefor, e.g. adjustable straps",
+      "count": 233,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C10/08": {
+      "code": "A63C10/08",
+      "level": 2,
+      "parent": "A63C10/02",
+      "ja": "つま先または踵用留め金；クランプ［２０１２．０１］",
+      "en": "Toe or heel stirrups; Clamps",
+      "count": 208,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C10/10": {
+      "code": "A63C10/10",
+      "level": 2,
+      "parent": "A63C10/02",
+      "ja": "靴に固定する部材を用いるもの，例．ステップインを補助する手段［２０１２．０１］",
+      "en": "using parts which are fixed on the shoe, e.g. means to facilitate step-in",
+      "count": 319,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C10/12": {
+      "code": "A63C10/12",
+      "level": 1,
+      "parent": "A63C10/00",
+      "ja": "事故の際に自動的にはずれるもの，すなわち安全ビンディング［２０１２．０１］",
+      "en": "Yieldable or self-releasing in the event of an accident, i.e. safety bindings",
+      "count": 160,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C10/14": {
+      "code": "A63C10/14",
+      "level": 1,
+      "parent": "A63C10/00",
+      "ja": "インターフェース，例．板の形状をしたもの［２０１２．０１］",
+      "en": "Interfaces, e.g. in the shape of a plate",
+      "count": 360,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C10/16": {
+      "code": "A63C10/16",
+      "level": 1,
+      "parent": "A63C10/00",
+      "ja": "ビンディングの方向または位置を調整するシステム［２０１２．０１］",
+      "en": "Systems for adjusting the direction or position of the bindings",
+      "count": 67,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C10/18": {
+      "code": "A63C10/18",
+      "level": 2,
+      "parent": "A63C10/16",
+      "ja": "ボードに対する垂直回転軸に関するもの［２０１２．０１］",
+      "en": "about a vertical rotation axis relative to the board",
+      "count": 480,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C10/20": {
+      "code": "A63C10/20",
+      "level": 2,
+      "parent": "A63C10/16",
+      "ja": "ボードに対して縦方向または横方向の調整［２０１２．０１］",
+      "en": "in longitudinal or lateral direction relative to the board",
+      "count": 163,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C10/22": {
+      "code": "A63C10/22",
+      "level": 2,
+      "parent": "A63C10/16",
+      "ja": "靴のサイズに合わせるためのもの（Ａ６３Ｃ１０／０６が優先）［２０１２．０１］",
+      "en": "to fit the size of the shoe(<b>A63C10/06</b> takes precedence)",
+      "count": 121,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C10/24": {
+      "code": "A63C10/24",
+      "level": 1,
+      "parent": "A63C10/00",
+      "ja": "ふくらはぎまたは踵を保護するもの，例．調節可能なハイバックまたはヒールカップ［２０１２．０１］",
+      "en": "Calf or heel supports, e.g. adjustable high back or heel loops",
+      "count": 423,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C10/26": {
+      "code": "A63C10/26",
+      "level": 1,
+      "parent": "A63C10/00",
+      "ja": "衝撃または振動を吸収するもの［２０１２．０１］",
+      "en": "Shock or vibration dampers",
+      "count": 79,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C10/28": {
+      "code": "A63C10/28",
+      "level": 1,
+      "parent": "A63C10/00",
+      "ja": "ビンディングに付加的に取り付けられる装置またはビンディング上の配置に特徴があるもの［２０１２．０１］",
+      "en": "characterised by auxiliary devices or arrangements on the bindings",
+      "count": 241,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C11/00": {
+      "code": "A63C11/00",
+      "level": 0,
+      "parent": "A63C",
+      "ja": "スキーまたはスノーボードの付属品（スキー運搬用の車への取り付け具Ｂ６０Ｒ９／１２）",
+      "en": "Accessories for skiing or snowboarding(fittings on vehicles for carrying skis <b>B60R9/12</b>)",
+      "count": 1663,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C11/02": {
+      "code": "A63C11/02",
+      "level": 1,
+      "parent": "A63C11/00",
+      "ja": "保管または輸送のためにスキーまたはスノーボードを伸ばしたり締付けたりプレスしたりする装置［４］",
+      "en": "Devices for stretching, clamping or pressing skis or snowboards for transportation or storage",
+      "count": 2042,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C11/04": {
+      "code": "A63C11/04",
+      "level": 1,
+      "parent": "A63C11/00",
+      "ja": "スキーまたはスノーボード処理用",
+      "en": "for treating skis or snowboards",
+      "count": 237,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C11/06": {
+      "code": "A63C11/06",
+      "level": 2,
+      "parent": "A63C11/04",
+      "ja": "エッヂをとぐ道具",
+      "en": "Edge-sharpeners",
+      "count": 273,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C11/08": {
+      "code": "A63C11/08",
+      "level": 2,
+      "parent": "A63C11/04",
+      "ja": "ワックスを塗ったりはがしたりする道具",
+      "en": "Apparatus for waxing or dewaxing",
+      "count": 453,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C11/10": {
+      "code": "A63C11/10",
+      "level": 1,
+      "parent": "A63C11/00",
+      "ja": "けん引するための装置（スキーリフトＢ６１Ｂ１１／００）",
+      "en": "Apparatus for towing(ski-lifts <b>B61B11/00</b>)",
+      "count": 183,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C11/12": {
+      "code": "A63C11/12",
+      "level": 1,
+      "parent": "A63C11/00",
+      "ja": "スキーに靴の踵を引掛けるための装置",
+      "en": "Apparatus for hooking the heel part of the boot to the ski",
+      "count": 34,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C11/14": {
+      "code": "A63C11/14",
+      "level": 1,
+      "parent": "A63C11/00",
+      "ja": "損傷したスキーまたはスノーボードの修繕装置",
+      "en": "Apparatus for repairing damaged skis or snowboards",
+      "count": 110,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C11/16": {
+      "code": "A63C11/16",
+      "level": 1,
+      "parent": "A63C11/00",
+      "ja": "スキーに固定するための靴の特殊手段（Ａ６３Ｃ９／００が優先）",
+      "en": "Special devices on boots for fastening skis thereto(<b>A63C9/00</b> takes precedence)",
+      "count": 96,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C11/18": {
+      "code": "A63C11/18",
+      "level": 1,
+      "parent": "A63C11/00",
+      "ja": "スキー，スノーボード，靴またはビンディングから雪をとり去る装置",
+      "en": "Devices for removing snow from skis, snowboards, boots or bindings",
+      "count": 82,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C11/20": {
+      "code": "A63C11/20",
+      "level": 1,
+      "parent": "A63C11/00",
+      "ja": "スキーまたはスノーボードの雪保護具",
+      "en": "Snow protectors on skis or snowboards",
+      "count": 22,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C11/22": {
+      "code": "A63C11/22",
+      "level": 1,
+      "parent": "A63C11/00",
+      "ja": "スキーストック",
+      "en": "Ski-sticks",
+      "count": 2801,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C11/24": {
+      "code": "A63C11/24",
+      "level": 2,
+      "parent": "A63C11/22",
+      "ja": "スキーストックのリング",
+      "en": "Rings for ski-sticks",
+      "count": 508,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C11/26": {
+      "code": "A63C11/26",
+      "level": 1,
+      "parent": "A63C11/00",
+      "ja": "ビンディングを取り付ける装置，例．ジグ［４］",
+      "en": "Devices for use in mounting bindings, e.g. jigs",
+      "count": 232,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C13/00": {
+      "code": "A63C13/00",
+      "level": 0,
+      "parent": "A63C",
+      "ja": "スノーシュー",
+      "en": "Snow shoes",
+      "count": 623,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C13/02": {
+      "code": "A63C13/02",
+      "level": 1,
+      "parent": "A63C13/00",
+      "ja": "スノーシューのリング",
+      "en": "Snow shoe rings",
+      "count": 44,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C17/00": {
+      "code": "A63C17/00",
+      "level": 0,
+      "parent": "A63C",
+      "ja": "ローラスケート；スケートボード［４］",
+      "en": "Roller skates; Skate-boards",
+      "count": 4505,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C17/01": {
+      "code": "A63C17/01",
+      "level": 1,
+      "parent": "A63C17/00",
+      "ja": "スケートボード（Ａ６３Ｃ１７／０２～Ａ６３Ｃ１７／２８が優先）［４］",
+      "en": "Skate-boards(<b>A63C17/02 to A63C17/28</b>  take precedence)",
+      "count": 3840,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C17/02": {
+      "code": "A63C17/02",
+      "level": 1,
+      "parent": "A63C17/00",
+      "ja": "二組の車輪配置を有するもの",
+      "en": "with wheels arranged in two pairs",
+      "count": 2219,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C17/04": {
+      "code": "A63C17/04",
+      "level": 1,
+      "parent": "A63C17/00",
+      "ja": "二組の車輪配置とは異なる車輪配置を有するもの",
+      "en": "with wheels arranged otherwise than in two pairs",
+      "count": 1419,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C17/06": {
+      "code": "A63C17/06",
+      "level": 2,
+      "parent": "A63C17/04",
+      "ja": "単一軌道型",
+      "en": "single-track type",
+      "count": 2738,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C17/08": {
+      "code": "A63C17/08",
+      "level": 3,
+      "parent": "A63C17/06",
+      "ja": "単一車輪型",
+      "en": "single-wheel type",
+      "count": 421,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C17/10": {
+      "code": "A63C17/10",
+      "level": 1,
+      "parent": "A63C17/00",
+      "ja": "無限軌道を有するもの",
+      "en": "with endless tracks",
+      "count": 239,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C17/12": {
+      "code": "A63C17/12",
+      "level": 1,
+      "parent": "A63C17/00",
+      "ja": "駆動機構を有するもの",
+      "en": "with driving mechanisms",
+      "count": 2382,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C17/14": {
+      "code": "A63C17/14",
+      "level": 1,
+      "parent": "A63C17/00",
+      "ja": "ブレーキ，例．爪先止め，フリーホイールローラクラッチ，を有するもの",
+      "en": "with brakes, e.g. toe stoppers, freewheel roller clutches",
+      "count": 2801,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C17/16": {
+      "code": "A63C17/16",
+      "level": 1,
+      "parent": "A63C17/00",
+      "ja": "特殊形状または配列の滑走路で使用されるもの",
+      "en": "for use on specially shaped or arranged runways",
+      "count": 178,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C17/18": {
+      "code": "A63C17/18",
+      "level": 1,
+      "parent": "A63C17/00",
+      "ja": "氷上または雪上用に変換できるもの",
+      "en": "convertible into ice or snow-running skates",
+      "count": 576,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C17/20": {
+      "code": "A63C17/20",
+      "level": 1,
+      "parent": "A63C17/00",
+      "ja": "歩行用に車輪を固定できるもの",
+      "en": "with fixable wheels permitting the skates to be used for walking",
+      "count": 1086,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C17/22": {
+      "code": "A63C17/22",
+      "level": 1,
+      "parent": "A63C17/00",
+      "ja": "ローラスケート用車輪",
+      "en": "Wheels for roller skates",
+      "count": 2098,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C17/24": {
+      "code": "A63C17/24",
+      "level": 2,
+      "parent": "A63C17/22",
+      "ja": "ボール状または球状滑走面を有するもの",
+      "en": "with ball-shaped or spherical running surfaces",
+      "count": 302,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C17/26": {
+      "code": "A63C17/26",
+      "level": 1,
+      "parent": "A63C17/00",
+      "ja": "特別の補助装置，例．装飾，マークまたは始動装置のあるもの，を有するもの",
+      "en": "with special auxiliary arrangements, e.g. illuminating, marking, or push-off devices",
+      "count": 2827,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C17/28": {
+      "code": "A63C17/28",
+      "level": 1,
+      "parent": "A63C17/00",
+      "ja": "座部を有するもの",
+      "en": "with arrangements for sitting",
+      "count": 186,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C19/00": {
+      "code": "A63C19/00",
+      "level": 0,
+      "parent": "A63C",
+      "ja": "競技場，リンク，ボーリング・グリーン，または水上スキー用施設の設計またはレイアウト；そのカバー［４］",
+      "en": "Design or layout of playing courts, rinks, bowling greens or areas for water-skiing; Covers therefor",
+      "count": 3026,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C19/02": {
+      "code": "A63C19/02",
+      "level": 1,
+      "parent": "A63C19/00",
+      "ja": "異ったゲームに対応できるように表面が成形されているもの",
+      "en": "Shaping of the surface of courts according to the necessities of the different games",
+      "count": 542,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C19/04": {
+      "code": "A63C19/04",
+      "level": 1,
+      "parent": "A63C19/00",
+      "ja": "コート用マットまたはカーペット",
+      "en": "Mats or carpets for courts",
+      "count": 792,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C19/06": {
+      "code": "A63C19/06",
+      "level": 1,
+      "parent": "A63C19/00",
+      "ja": "コートの区画または分割のための装置",
+      "en": "Apparatus for setting-out or dividing courts",
+      "count": 1657,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C19/08": {
+      "code": "A63C19/08",
+      "level": 2,
+      "parent": "A63C19/06",
+      "ja": "区画のための機械的な手段",
+      "en": "Mechanical means for marking-out",
+      "count": 1011,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C19/10": {
+      "code": "A63C19/10",
+      "level": 1,
+      "parent": "A63C19/00",
+      "ja": "アイススケートまたはローラースケートリンク；スキー，スキージャンプまたはトボガンそり用のスロープまたは軌道［４］",
+      "en": "Ice-skating or roller-skating rinks; Slopes or trails for skiing, ski-jumping or tobogganing",
+      "count": 2145,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    },
+    "A63C19/12": {
+      "code": "A63C19/12",
+      "level": 1,
+      "parent": "A63C19/00",
+      "ja": "コート，リンク，ゲームピッチまたは類似施設用の取り外し可能な保護カバー［４］",
+      "en": "Removable protective covers for courts, rinks or games pitches or the like",
+      "count": 543,
+      "sourceFile": "ipc_A63C.txt",
+      "kind": "ipc"
+    }
+  }
+};

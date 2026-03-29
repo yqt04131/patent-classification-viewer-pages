@@ -1,0 +1,1186 @@
+{
+  "generatedAt": "2026-03-20T02:17:46.823Z",
+  "total": 118,
+  "entries": {
+    "F04D": {
+      "code": "F04D",
+      "level": 0,
+      "parent": "F04",
+      "ja": "非容積形ポンプ（機関燃料噴射ポンプＦ０２Ｍ；イオンポンプＨ０１Ｊ４１／１２；電磁ポンプＨ０２Ｋ４４／０２）<br><br><b><ul>注</ul></b><br>（１）このサブクラスは，回転形であろうと純粋な回転をもたないものであろうと，液体用，圧縮性流体用，または液体および圧縮性流体用の非容積形ポンプを包含する。<br>（２）このサブクラスは，非容積形ポンプと他の形式のポンプを組合せたものは包含せず，これらはサブクラスＦ０４Ｂに包含されるが，ただし非容積形ポンプの呼び水用または予圧用のように他の形式のポンプを用いるものは，このサブクラスに包含される。<br>（３）特に“ポンプ”という用語の定義に関して，クラスＦ０１の前の注に注意すること。<br><br><b><ul>サブクラス内の索引</ul></b><br>液体および圧縮流体または液体のみのための回転形ポンプ<br>流れの形：半径またはら旋遠心形；軸方向形；円周または横断形；その他　１／００；３／００；５／００；１１／００<br>特殊な流体を扱うためのもの　７／００<br>呼び水作用するもの，蒸気閉塞を防止するもの　９／００<br>ポンプ装置または系；制御　１３／００；１５／００<br>圧縮性流体のための回転形ポンプ<br>流れの形：半径またはら旋遠心形；軸方向形；その他　１７／００；１９／００；２３／００<br>超音速流体を含むもの　２１／００<br>ポンプ装置；制御　２５／００；２７／００<br>細部または付属品　２９／００<br>その他の種類のポンプ<br>同時に液体および圧縮性流体をポンプするもの　３１／００<br>他の純粋な回転形以外のものをもつもの　３３／００<br>波を発生するもの　３５／００",
+      "en": "NON-POSITIVE-DISPLACEMENT PUMPS(engine fuel-injection pumps <b>F02M</b>; ion pumps <b>H01J41/12</b>; electrodynamic pumps <b>H02K44/02</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>This subclass <u>covers</u> non-positive-displacement pumps for liquids, for elastic fluids, or for liquids and elastic fluids whether rotary or not having pure rotation.</li><li>This subclass <u>does not cover</u> combinations of non-positive-displacement pumps with other pumps, which are covered by subclass <b>F04B</b>, except that the use of such other pumps for priming or boosting non-positive-displacement is covered by this subclass.</li><li>Attention is drawn to the Notes preceding class <b>F01</b>, especially as regards the definition of \"pump\".</li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">ROTARY PUMPS FOR LIQUID AND ELASTIC FLUID OR LIQUID ALONE<tr><td width=\"70%\">Kind of flow: radial or helico-centrifugal; axial; circumferential or transverse; other </td><td><b><b>1/00</b>; <b>3/00</b>; <b>5/00</b>; <b>11/00</b></b></td></tr></tr><tr><td width=\"70%\">For handling specific fluids </td><td><b><b>7/00</b></b></td></tr></tr><tr><td width=\"70%\">Priming, preventing vapour lock </td><td><b><b>9/00</b></b></td></tr></tr><tr><td width=\"70%\">Pumping installations or systems; control </td><td><b><b>13/00</b>; <b>15/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">ROTARY PUMPS FOR ELASTIC FLUID<tr><td width=\"70%\">Kind of flow: radial or helico-centrifugal; axial; other </td><td><b><b>17/00</b>; <b>19/00</b>; <b>23/00</b></b></td></tr></tr><tr><td width=\"70%\">Involving supersonic speed of fluid </td><td><b><b>21/00</b></b></td></tr></tr><tr><td width=\"70%\">Pumping installations; control </td><td><b><b>25/00</b>; <b>27/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">DETAILS OR ACCESSORIES </td><td><b><b>29/00</b></b></td></tr></tr><tr><td width=\"70%\">OTHER KINDS OF PUMPS<tr><td width=\"70%\">Pumping liquid and elastic fluid at the same time </td><td><b><b>31/00</b></b></td></tr></tr><tr><td width=\"70%\">With other than pure rotation </td><td><b><b>33/00</b></b></td></tr></tr><tr><td width=\"70%\">Wave producers </td><td><b><b>35/00</b></b></td></tr></tr></tr></table>",
+      "count": 1696,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F04": {
+      "code": "F04",
+      "level": 0,
+      "parent": "F",
+      "ja": "液体用容積形機械；液体または圧縮性流体用ポンプ<br><br><b><ul>注</ul></b><br>容積形ポンプと非容積形ポンプの組合わせは，ポンプのための一般的なサブクラスとしてはＦ０４Ｂ，サブクラスＦ０４Ｃ，Ｆ０４Ｄに特有な事項に関しては，Ｆ０４Ｃ，Ｆ０４Ｄに分類される。",
+      "en": "POSITIVE-DISPLACEMENT MACHINES FOR LIQUIDS; PUMPS FOR LIQUIDS OR ELASTIC FLUIDS; <br><br><b><u>Note(s)</u></b><br><br><ul><li>Combinations of positive-displacement and non-positive-displacement pumps are classified in subclass <b>F04B</b> as a general subclass for pumps, and in subclasses <b>F04C</b>, <b>F04D</b> in respect of matter specific to those subclasses.</li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F": {
+      "code": "F",
+      "level": 0,
+      "parent": null,
+      "ja": "機械工学；照明；加熱；武器；爆破",
+      "en": "MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F04D1/00": {
+      "code": "F04D1/00",
+      "level": 0,
+      "parent": "F04D",
+      "ja": "半径流ポンプ，例．遠心ポンプ；ら旋遠心ポンプ（特殊な流体をポンプするために適用されるものＦ０４Ｄ７／００；呼び水作用または予圧するものＦ０４Ｄ９／００；液体および圧縮性流体を同時にくみ揚げるものＦ０４Ｄ３１／００）",
+      "en": "Radial-flow pumps, e.g. centrifugal pumps; Helico-centrifugal pumps(adapted for pumping specific fluids <b>F04D7/00</b>; priming or boosting <b>F04D9/00</b>; pumping liquids and elastic fluids at the same time <b>F04D31/00</b>)",
+      "count": 6405,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D1/02": {
+      "code": "F04D1/02",
+      "level": 1,
+      "parent": "F04D1/00",
+      "ja": "非遠心段をもつもの，例．求心のもの",
+      "en": "having non-centrifugal stages, e.g. centripetal",
+      "count": 288,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D1/04": {
+      "code": "F04D1/04",
+      "level": 1,
+      "parent": "F04D1/00",
+      "ja": "ら旋遠心ポンプ",
+      "en": "Helico-centrifugal pumps",
+      "count": 880,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D1/06": {
+      "code": "F04D1/06",
+      "level": 1,
+      "parent": "F04D1/00",
+      "ja": "多段ポンプ（Ｆ０４Ｄ１／０２が優先）",
+      "en": "Multi-stage pumps(<b>F04D1/02</b> takes precedence)",
+      "count": 4119,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D1/08": {
+      "code": "F04D1/08",
+      "level": 2,
+      "parent": "F04D1/06",
+      "ja": "段が同一中心上にあるもの",
+      "en": "the stages being situated concentrically",
+      "count": 1583,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D1/10": {
+      "code": "F04D1/10",
+      "level": 2,
+      "parent": "F04D1/06",
+      "ja": "段を通る流路を変換するための装置をもつもの，例．直列－並列",
+      "en": "with means for changing the flow-path through the stages, e.g. series/parallel",
+      "count": 307,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D1/12": {
+      "code": "F04D1/12",
+      "level": 1,
+      "parent": "F04D1/00",
+      "ja": "容器内で回転している流体に突き出ているへらまたは削りくず状の部材をもつポンプ",
+      "en": "Pumps with scoops or like paring members protruding in the fluid circulating in a bowl",
+      "count": 598,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D1/14": {
+      "code": "F04D1/14",
+      "level": 1,
+      "parent": "F04D1/00",
+      "ja": "垂直軸をもつ円すい形容器内の遠心力によって流体を上昇させるポンプ",
+      "en": "Pumps raising fluids by centrifugal force within a conical rotary bowl with vertical axis",
+      "count": 536,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D3/00": {
+      "code": "F04D3/00",
+      "level": 0,
+      "parent": "F04D",
+      "ja": "軸流ポンプ（呼び水作用または予圧するものＦ０４Ｄ９／００；液体および圧縮性流体を同時にくみ揚げるものＦ０４Ｄ３１／００）",
+      "en": "Axial-flow pumps(priming or boosting <b>F04D9/00</b>; pumping liquids and elastic fluids at the same time <b>F04D31/00</b>)",
+      "count": 2746,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D3/02": {
+      "code": "F04D3/02",
+      "level": 1,
+      "parent": "F04D3/00",
+      "ja": "スクリュウ形のもの",
+      "en": "of screw type",
+      "count": 2277,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D5/00": {
+      "code": "F04D5/00",
+      "level": 0,
+      "parent": "F04D",
+      "ja": "円周または横断流をもつポンプ（液体および圧縮性流体を同時にくみ揚げるものＦ０４Ｄ３１／００）",
+      "en": "Pumps with circumferential or transverse flow(pumping liquids and elastic fluids at the same time <b>F04D31/00</b>)",
+      "count": 3549,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D7/00": {
+      "code": "F04D7/00",
+      "level": 0,
+      "parent": "F04D",
+      "ja": "特殊な流体を扱うために適用したポンプ，例．ポンプまたはポンプ部材のために特殊な材質を選択するもの（液体および圧縮性流体を同時にくみ揚げるものＦ０４Ｄ３１／００）",
+      "en": "Pumps adapted for handling specific fluids, e.g. by selection of specific materials for pumps or pump parts(pumping liquids and elastic fluids at the same time <b>F04D31/00</b>)",
+      "count": 2202,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D7/02": {
+      "code": "F04D7/02",
+      "level": 1,
+      "parent": "F04D7/00",
+      "ja": "遠心形のもの",
+      "en": "of centrifugal type",
+      "count": 1859,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D7/04": {
+      "code": "F04D7/04",
+      "level": 2,
+      "parent": "F04D7/02",
+      "ja": "流体が粘性質または不均質であるもの",
+      "en": "the fluids being viscous or non-homogeneous",
+      "count": 9716,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D7/06": {
+      "code": "F04D7/06",
+      "level": 2,
+      "parent": "F04D7/02",
+      "ja": "流体が高温または腐食性であるもの，例．液体金属",
+      "en": "the fluids being hot or corrosive, e.g. liquid metal",
+      "count": 3170,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D7/08": {
+      "code": "F04D7/08",
+      "level": 2,
+      "parent": "F04D7/02",
+      "ja": "流体が放射能をおびているもの",
+      "en": "the fluids being radioactive",
+      "count": 502,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D9/00": {
+      "code": "F04D9/00",
+      "level": 0,
+      "parent": "F04D",
+      "ja": "呼び水作用するもの；蒸気閉塞を防止するもの",
+      "en": "Priming; Preventing vapour lock",
+      "count": 2598,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D9/02": {
+      "code": "F04D9/02",
+      "level": 1,
+      "parent": "F04D9/00",
+      "ja": "自吸式ポンプ",
+      "en": "Self-priming pumps",
+      "count": 4681,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D9/04": {
+      "code": "F04D9/04",
+      "level": 1,
+      "parent": "F04D9/00",
+      "ja": "呼び水ポンプを使用するもの；蒸気閉塞を防止するために予圧ポンプを使用するもの",
+      "en": "using priming pumps; using booster pumps to prevent vapour lock",
+      "count": 1711,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D9/06": {
+      "code": "F04D9/06",
+      "level": 2,
+      "parent": "F04D9/04",
+      "ja": "ジェット形のもの",
+      "en": "of jet type",
+      "count": 766,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D11/00": {
+      "code": "F04D11/00",
+      "level": 0,
+      "parent": "F04D",
+      "ja": "その他の回転非容積形ポンプ（ポンプ装置または系Ｆ０４Ｄ１３／００；液体および圧縮性流体を同時にくみ揚げるものＦ０４Ｄ３１／００）",
+      "en": "Other rotary non-positive-displacement pumps(pumping installations or systems <b>F04D13/00</b>; pumping liquids and elastic fluids at the same time <b>F04D31/00</b>)",
+      "count": 862,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D13/00": {
+      "code": "F04D13/00",
+      "level": 0,
+      "parent": "F04D",
+      "ja": "ポンプ装置または系（制御するものＦ０４Ｄ１５／００；液体および圧縮性流体を同時にくみ揚げるものＦ０４Ｄ３１／００）",
+      "en": "Pumping installations or systems(controlling <b>F04D15/00</b>; pumping liquids and elastic fluids at the same time <b>F04D31/00</b>)",
+      "count": 2843,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D13/02": {
+      "code": "F04D13/02",
+      "level": 1,
+      "parent": "F04D13/00",
+      "ja": "ポンプおよびその駆動手段を含むユニット［２００６．０１］",
+      "en": "Units comprising pumps and their driving means",
+      "count": 6244,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D13/04": {
+      "code": "F04D13/04",
+      "level": 2,
+      "parent": "F04D13/02",
+      "ja": "流体で駆動されるポンプ",
+      "en": "the pump being fluid-driven",
+      "count": 2061,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D13/06": {
+      "code": "F04D13/06",
+      "level": 2,
+      "parent": "F04D13/02",
+      "ja": "電気で駆動されるポンプ",
+      "en": "the pump being electrically driven",
+      "count": 28283,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D13/08": {
+      "code": "F04D13/08",
+      "level": 3,
+      "parent": "F04D13/06",
+      "ja": "水中で使用するためのもの",
+      "en": "for submerged use",
+      "count": 13649,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D13/10": {
+      "code": "F04D13/10",
+      "level": 4,
+      "parent": "F04D13/08",
+      "ja": "深井戸掘りに使用するために採用されるもの",
+      "en": "adapted for use in mining bore holes",
+      "count": 3561,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D13/12": {
+      "code": "F04D13/12",
+      "level": 1,
+      "parent": "F04D13/00",
+      "ja": "２つ以上のポンプを組み合わせたもの（蒸気閉塞を防止するための呼び水ポンプまたは予圧ポンプとの組み合わせＦ０４Ｄ９／０４）",
+      "en": "Combinations of two or more pumps(combinations with priming pumps or booster pumps to counter-act vapour lock <b>F04D9/04</b>)",
+      "count": 2567,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D13/14": {
+      "code": "F04D13/14",
+      "level": 2,
+      "parent": "F04D13/12",
+      "ja": "すべて遠心形であるポンプ",
+      "en": "the pumps being all of centrifugal type",
+      "count": 1270,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D13/16": {
+      "code": "F04D13/16",
+      "level": 1,
+      "parent": "F04D13/00",
+      "ja": "貯槽をもつもの",
+      "en": "with storage reservoirs",
+      "count": 2505,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D15/00": {
+      "code": "F04D15/00",
+      "level": 0,
+      "parent": "F04D",
+      "ja": "制御，例．ポンプ，ポンプ装置または系の調節",
+      "en": "Control, e.g. regulation, of pumps, pumping installations, or systems",
+      "count": 22497,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D15/02": {
+      "code": "F04D15/02",
+      "level": 1,
+      "parent": "F04D15/00",
+      "ja": "望ましくない状態が起った時にポンプを停止または弁を作動させるもの",
+      "en": "Stopping of pumps, or operating valves, on occurrence of unwanted conditions",
+      "count": 3134,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D17/00": {
+      "code": "F04D17/00",
+      "level": 0,
+      "parent": "F04D",
+      "ja": "圧縮性流体に特に適合した半径流ポンプ，例．圧縮性流体に特に適合した遠心ポンプ；ら旋遠心ポンプ（Ｆ０４Ｄ２１／００が優先）",
+      "en": "Radial-flow pumps specially adapted for elastic fluids, e.g. centrifugal pumps; Helico-centrifugal pumps specially adapted for elastic fluids(<b>F04D21/00</b> takes precedence)",
+      "count": 816,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D17/02": {
+      "code": "F04D17/02",
+      "level": 1,
+      "parent": "F04D17/00",
+      "ja": "非遠心段をもつもの，例．求心のもの",
+      "en": "having non-centrifugal stages, e.g. centripetal",
+      "count": 465,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D17/04": {
+      "code": "F04D17/04",
+      "level": 2,
+      "parent": "F04D17/02",
+      "ja": "横断流形のもの",
+      "en": "of transverse-flow type",
+      "count": 3253,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D17/06": {
+      "code": "F04D17/06",
+      "level": 1,
+      "parent": "F04D17/00",
+      "ja": "ら旋遠心ポンプ",
+      "en": "Helico-centrifugal pumps",
+      "count": 449,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D17/08": {
+      "code": "F04D17/08",
+      "level": 1,
+      "parent": "F04D17/00",
+      "ja": "遠心ポンプ",
+      "en": "Centrifugal pumps",
+      "count": 3430,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D17/10": {
+      "code": "F04D17/10",
+      "level": 2,
+      "parent": "F04D17/08",
+      "ja": "圧縮または排気するもの",
+      "en": "for compressing or evacuating",
+      "count": 4365,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D17/12": {
+      "code": "F04D17/12",
+      "level": 3,
+      "parent": "F04D17/10",
+      "ja": "多段ポンプ",
+      "en": "Multi-stage pumps",
+      "count": 3148,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D17/14": {
+      "code": "F04D17/14",
+      "level": 4,
+      "parent": "F04D17/12",
+      "ja": "段に通じる流路を変換するための装置をもつもの，例．直列－並列（サージ制御Ｆ０４Ｄ２７／０２）",
+      "en": "with means for changing the flow-path through the stages, e.g. series/parallel(surge control <b>F04D27/02</b>)",
+      "count": 174,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D17/16": {
+      "code": "F04D17/16",
+      "level": 2,
+      "parent": "F04D17/08",
+      "ja": "目立った圧縮なしに送出するもの",
+      "en": "for displacing without appreciable compression",
+      "count": 4954,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D17/18": {
+      "code": "F04D17/18",
+      "level": 2,
+      "parent": "F04D17/08",
+      "ja": "ポンプの中に引きこまれた液体の遠心力の利用によって特徴づけられるもの",
+      "en": "characterised by use of centrifugal force of liquids entrained in pumps",
+      "count": 460,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D19/00": {
+      "code": "F04D19/00",
+      "level": 0,
+      "parent": "F04D",
+      "ja": "圧縮性流体に特に適合した軸流ポンプ（Ｆ０４Ｄ２１／００が優先）",
+      "en": "Axial-flow pumps specially adapted for elastic fluids(<b>F04D21/00</b> takes precedence)",
+      "count": 6515,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D19/02": {
+      "code": "F04D19/02",
+      "level": 1,
+      "parent": "F04D19/00",
+      "ja": "多段ポンプ",
+      "en": "Multi-stage pumps",
+      "count": 1624,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D19/04": {
+      "code": "F04D19/04",
+      "level": 2,
+      "parent": "F04D19/02",
+      "ja": "高真空をつくるために特に適合したもの，例．分子ポンプ",
+      "en": "specially adapted to the production of a high vacuum, e.g. molecular pumps",
+      "count": 4730,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D21/00": {
+      "code": "F04D21/00",
+      "level": 0,
+      "parent": "F04D",
+      "ja": "圧縮性流体に特に適合した，超音速のポンプ流体をもつポンプ",
+      "en": "Pumps specially adapted for elastic fluids involving supersonic speed of pumped fluids",
+      "count": 377,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D23/00": {
+      "code": "F04D23/00",
+      "level": 0,
+      "parent": "F04D",
+      "ja": "圧縮性流体に特に適合したその他の回転非容積形ポンプ（ポンプ装置または系統Ｆ０４Ｄ２５／００）",
+      "en": "Other rotary non-positive-displacement pumps specially adapted for elastic fluids(pumping installations or systems <b>F04D25/00</b>)",
+      "count": 2267,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D25/00": {
+      "code": "F04D25/00",
+      "level": 0,
+      "parent": "F04D",
+      "ja": "圧縮性流体に特に適合したポンプ装置または系（制御Ｆ０４Ｄ２７／００）",
+      "en": "Pumping installations or systems specially adapted for elastic fluids(controlling <b>F04D27/00</b>)",
+      "count": 912,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D25/02": {
+      "code": "F04D25/02",
+      "level": 1,
+      "parent": "F04D25/00",
+      "ja": "ポンプおよびその駆動手段を構成するユニット［２００６．０１］",
+      "en": "Units comprising pumps and their driving means",
+      "count": 3215,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D25/04": {
+      "code": "F04D25/04",
+      "level": 2,
+      "parent": "F04D25/02",
+      "ja": "流体駆動ポンプ",
+      "en": "the pump being fluid-driven",
+      "count": 2790,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D25/06": {
+      "code": "F04D25/06",
+      "level": 2,
+      "parent": "F04D25/02",
+      "ja": "電動ポンプ（Ｆ０４Ｄ２５／０８が優先）",
+      "en": "the pump being electrically driven(<b>F04D25/08</b> takes precedence)",
+      "count": 13129,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D25/08": {
+      "code": "F04D25/08",
+      "level": 2,
+      "parent": "F04D25/02",
+      "ja": "作動流体が空気であるもの，例．換気装置のためのもの",
+      "en": "the working fluid being air, e.g. for ventilation",
+      "count": 70272,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D25/10": {
+      "code": "F04D25/10",
+      "level": 3,
+      "parent": "F04D25/08",
+      "ja": "吐出空気の方向を自動的に変えるための設備をもつユニット",
+      "en": "the unit having provisions for automatically changing the direction of output air",
+      "count": 7280,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D25/12": {
+      "code": "F04D25/12",
+      "level": 3,
+      "parent": "F04D25/08",
+      "ja": "穴への据え付けに適用されるユニット",
+      "en": "the unit being adapted for mounting in apertures",
+      "count": 1042,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D25/14": {
+      "code": "F04D25/14",
+      "level": 4,
+      "parent": "F04D25/12",
+      "ja": "しゃ断装置をもつもの，例．使用しない時は，自動的に閉じるもの",
+      "en": "and having shutters, e.g. automatically closed when not in use",
+      "count": 931,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D25/16": {
+      "code": "F04D25/16",
+      "level": 1,
+      "parent": "F04D25/00",
+      "ja": "２つ以上のポンプを組み合わせたもの",
+      "en": "Combinations of two or more pumps",
+      "count": 9093,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D27/00": {
+      "code": "F04D27/00",
+      "level": 0,
+      "parent": "F04D",
+      "ja": "圧縮性流体に特に適合したポンプ，ポンプ装置または系の制御，例．調整［２００６．０１］",
+      "en": "Control, e.g. regulation, of pumps, pumping installations or pumping systems specially adapted for elastic fluids ",
+      "count": 38508,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D27/02": {
+      "code": "F04D27/02",
+      "level": 1,
+      "parent": "F04D27/00",
+      "ja": "サージ制御",
+      "en": "Surge control",
+      "count": 6317,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D29/00": {
+      "code": "F04D29/00",
+      "level": 0,
+      "parent": "F04D",
+      "ja": "細部，構成部材または付属品（機械要素一般Ｆ１６）",
+      "en": "Details, component parts, or accessories(machine elements in general <b>F16</b>)",
+      "count": 45746,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D29/02": {
+      "code": "F04D29/02",
+      "level": 1,
+      "parent": "F04D29/00",
+      "ja": "特殊な材質の選択（特殊な液体を扱うためのものＦ０４Ｄ７／００）",
+      "en": "Selection of particular materials(for handling specific liquids <b>F04D7/00</b>)",
+      "count": 13898,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D29/04": {
+      "code": "F04D29/04",
+      "level": 1,
+      "parent": "F04D29/00",
+      "ja": "軸もしくは軸受，またはその組立物（圧縮性流体ポンプに特に適合したものＦ０４Ｄ２９／０５）［１，８］",
+      "en": "Shafts or bearings, or assemblies thereof(specially adapted for elastic fluid pumps <b>F04D29/05</b>)",
+      "count": 8986,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D29/041": {
+      "code": "F04D29/041",
+      "level": 2,
+      "parent": "F04D29/04",
+      "ja": "軸方向推力バランス装置［８］",
+      "en": "Axial thrust balancing",
+      "count": 2128,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D29/042": {
+      "code": "F04D29/042",
+      "level": 2,
+      "parent": "F04D29/04",
+      "ja": "軸方向に位置を変更可能なロータ（Ｆ０４Ｄ２９／０４１が優先）［８］",
+      "en": "Axially shiftable rotors(<b>F04D29/041</b> takes precedence)",
+      "count": 115,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D29/043": {
+      "code": "F04D29/043",
+      "level": 2,
+      "parent": "F04D29/04",
+      "ja": "軸［８］",
+      "en": "Shafts",
+      "count": 4036,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D29/044": {
+      "code": "F04D29/044",
+      "level": 3,
+      "parent": "F04D29/043",
+      "ja": "軸の接合または組立構造［８］",
+      "en": "Arrangements for joining or assembling shafts",
+      "count": 3078,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D29/046": {
+      "code": "F04D29/046",
+      "level": 2,
+      "parent": "F04D29/04",
+      "ja": "軸受［８］",
+      "en": "Bearings",
+      "count": 7832,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D29/047": {
+      "code": "F04D29/047",
+      "level": 3,
+      "parent": "F04D29/046",
+      "ja": "流体静力学的なもの；流体動力学的なもの［８］",
+      "en": "hydrostatic; hydrodynamic",
+      "count": 1203,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D29/048": {
+      "code": "F04D29/048",
+      "level": 3,
+      "parent": "F04D29/046",
+      "ja": "磁気的なもの；電磁気的なもの［８］",
+      "en": "magnetic; electromagnetic",
+      "count": 685,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D29/049": {
+      "code": "F04D29/049",
+      "level": 3,
+      "parent": "F04D29/046",
+      "ja": "転がり軸受［８］",
+      "en": "Roller bearings",
+      "count": 1219,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D29/05": {
+      "code": "F04D29/05",
+      "level": 1,
+      "parent": "F04D29/00",
+      "ja": "圧縮性流体ポンプに特に適合した軸もしくは軸受，またはその組立物［８］",
+      "en": "Shafts or bearings, or assemblies thereof, specially adapted for elastic fluid pumps",
+      "count": 1530,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D29/051": {
+      "code": "F04D29/051",
+      "level": 2,
+      "parent": "F04D29/05",
+      "ja": "軸方向推力バランス装置［８］",
+      "en": "Axial thrust balancing",
+      "count": 1088,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D29/052": {
+      "code": "F04D29/052",
+      "level": 2,
+      "parent": "F04D29/05",
+      "ja": "軸方向に位置を変更可能なロータ（Ｆ０４Ｄ２９／０５１が優先）［８］",
+      "en": "Axially shiftable rotors(<b>F04D29/051</b> takes precedence)",
+      "count": 57,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D29/053": {
+      "code": "F04D29/053",
+      "level": 2,
+      "parent": "F04D29/05",
+      "ja": "軸［８］",
+      "en": "Shafts",
+      "count": 2883,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D29/054": {
+      "code": "F04D29/054",
+      "level": 3,
+      "parent": "F04D29/053",
+      "ja": "軸の接合または組立構造［８］",
+      "en": "Arrangements for joining or assembling shafts",
+      "count": 1394,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D29/056": {
+      "code": "F04D29/056",
+      "level": 2,
+      "parent": "F04D29/05",
+      "ja": "軸受［８］",
+      "en": "Bearings",
+      "count": 5604,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D29/057": {
+      "code": "F04D29/057",
+      "level": 3,
+      "parent": "F04D29/056",
+      "ja": "流体静力学的なもの；流体動力学的なもの［８］",
+      "en": "hydrostatic; hydrodynamic",
+      "count": 1263,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D29/058": {
+      "code": "F04D29/058",
+      "level": 3,
+      "parent": "F04D29/056",
+      "ja": "磁気的なもの；電磁気的なもの［８］",
+      "en": "magnetic; electromagnetic",
+      "count": 1315,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D29/059": {
+      "code": "F04D29/059",
+      "level": 3,
+      "parent": "F04D29/056",
+      "ja": "転がり軸受［８］",
+      "en": "Roller bearings",
+      "count": 1096,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D29/06": {
+      "code": "F04D29/06",
+      "level": 1,
+      "parent": "F04D29/00",
+      "ja": "潤滑［１，８］",
+      "en": "Lubrication",
+      "count": 4659,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D29/063": {
+      "code": "F04D29/063",
+      "level": 2,
+      "parent": "F04D29/06",
+      "ja": "圧縮性流体ポンプに特に適合したもの［８］",
+      "en": "specially adapted for elastic fluid pumps",
+      "count": 3013,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D29/08": {
+      "code": "F04D29/08",
+      "level": 1,
+      "parent": "F04D29/00",
+      "ja": "シール",
+      "en": "Sealings",
+      "count": 17489,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D29/10": {
+      "code": "F04D29/10",
+      "level": 2,
+      "parent": "F04D29/08",
+      "ja": "軸のシール",
+      "en": "Shaft sealings",
+      "count": 9742,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D29/12": {
+      "code": "F04D29/12",
+      "level": 3,
+      "parent": "F04D29/10",
+      "ja": "シールリングを用いるもの",
+      "en": "using sealing-rings",
+      "count": 8274,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D29/14": {
+      "code": "F04D29/14",
+      "level": 3,
+      "parent": "F04D29/10",
+      "ja": "ポンプが作動しないときのみ作動するもの",
+      "en": "operative only when pump is inoperative",
+      "count": 391,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D29/16": {
+      "code": "F04D29/16",
+      "level": 2,
+      "parent": "F04D29/08",
+      "ja": "高圧側と吸入側の間にあるもの",
+      "en": "between pressure and suction sides",
+      "count": 3062,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D29/18": {
+      "code": "F04D29/18",
+      "level": 1,
+      "parent": "F04D29/00",
+      "ja": "ロータ（圧縮性流体に特に適合したものＦ０４Ｄ２９／２６）",
+      "en": "Rotors(specially adapted for elastic fluids <b>F04D29/26</b>)",
+      "count": 5883,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D29/20": {
+      "code": "F04D29/20",
+      "level": 2,
+      "parent": "F04D29/18",
+      "ja": "軸にロータを装着するもの",
+      "en": "Mounting rotors on shafts",
+      "count": 3376,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D29/22": {
+      "code": "F04D29/22",
+      "level": 2,
+      "parent": "F04D29/18",
+      "ja": "特に遠心ポンプのためのもの",
+      "en": "specially for centrifugal pumps",
+      "count": 15424,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D29/24": {
+      "code": "F04D29/24",
+      "level": 3,
+      "parent": "F04D29/22",
+      "ja": "羽根",
+      "en": "Vanes",
+      "count": 6705,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D29/26": {
+      "code": "F04D29/26",
+      "level": 1,
+      "parent": "F04D29/00",
+      "ja": "圧縮性流体に特に適合したロータ",
+      "en": "Rotors specially adapted for elastic fluids",
+      "count": 5960,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D29/28": {
+      "code": "F04D29/28",
+      "level": 2,
+      "parent": "F04D29/26",
+      "ja": "遠心またはら旋遠心ポンプのためのもの",
+      "en": "for centrifugal or helico-centrifugal pumps",
+      "count": 19770,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D29/30": {
+      "code": "F04D29/30",
+      "level": 3,
+      "parent": "F04D29/28",
+      "ja": "羽根",
+      "en": "Vanes",
+      "count": 11596,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D29/32": {
+      "code": "F04D29/32",
+      "level": 2,
+      "parent": "F04D29/26",
+      "ja": "軸流ポンプのためのもの",
+      "en": "for axial-flow pumps",
+      "count": 12300,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D29/34": {
+      "code": "F04D29/34",
+      "level": 3,
+      "parent": "F04D29/32",
+      "ja": "羽根取り付け具",
+      "en": "Blade mountings",
+      "count": 5193,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D29/36": {
+      "code": "F04D29/36",
+      "level": 4,
+      "parent": "F04D29/34",
+      "ja": "調節可能なもの",
+      "en": "adjustable",
+      "count": 3374,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D29/38": {
+      "code": "F04D29/38",
+      "level": 3,
+      "parent": "F04D29/32",
+      "ja": "羽根",
+      "en": "Blades",
+      "count": 14825,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D29/40": {
+      "code": "F04D29/40",
+      "level": 1,
+      "parent": "F04D29/00",
+      "ja": "ケーシング；作動流体のための配管",
+      "en": "Casings; Connections for working fluid",
+      "count": 17197,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D29/42": {
+      "code": "F04D29/42",
+      "level": 2,
+      "parent": "F04D29/40",
+      "ja": "半径またはら旋遠心ポンプのためのもの",
+      "en": "for radial or helico-centrifugal pumps",
+      "count": 42498,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D29/44": {
+      "code": "F04D29/44",
+      "level": 3,
+      "parent": "F04D29/42",
+      "ja": "流体案内装置，例．ディフューザ",
+      "en": "Fluid-guiding means, e.g. diffusers",
+      "count": 22893,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D29/46": {
+      "code": "F04D29/46",
+      "level": 4,
+      "parent": "F04D29/44",
+      "ja": "調節可能なもの",
+      "en": "adjustable",
+      "count": 4518,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D29/48": {
+      "code": "F04D29/48",
+      "level": 5,
+      "parent": "F04D29/46",
+      "ja": "可逆ポンプにおける単一方向流れのためのもの",
+      "en": "for unidirectional fluid flow in reversible pumps",
+      "count": 216,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D29/50": {
+      "code": "F04D29/50",
+      "level": 5,
+      "parent": "F04D29/46",
+      "ja": "流れを逆にするためのもの",
+      "en": "for reversing fluid flow",
+      "count": 281,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D29/52": {
+      "code": "F04D29/52",
+      "level": 2,
+      "parent": "F04D29/40",
+      "ja": "軸流ポンプのためのもの",
+      "en": "for axial pumps",
+      "count": 13489,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D29/54": {
+      "code": "F04D29/54",
+      "level": 3,
+      "parent": "F04D29/52",
+      "ja": "流体案内装置，例．ディフューザ",
+      "en": "Fluid-guiding means, e.g. diffusers",
+      "count": 12111,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D29/56": {
+      "code": "F04D29/56",
+      "level": 4,
+      "parent": "F04D29/54",
+      "ja": "調節可能なもの",
+      "en": "adjustable",
+      "count": 3143,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D29/58": {
+      "code": "F04D29/58",
+      "level": 1,
+      "parent": "F04D29/00",
+      "ja": "冷却（機械または機関一般のものＦ０１Ｐ）；加熱；熱伝達の減少",
+      "en": "Cooling(of machines or engines in general <b>F01P</b>);Heating; Diminishing heat transfer",
+      "count": 30966,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D29/60": {
+      "code": "F04D29/60",
+      "level": 1,
+      "parent": "F04D29/00",
+      "ja": "装備；組立；分解",
+      "en": "Mounting; Assembling; Disassembling",
+      "count": 19356,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D29/62": {
+      "code": "F04D29/62",
+      "level": 2,
+      "parent": "F04D29/60",
+      "ja": "半径またはら旋遠心ポンプのもの",
+      "en": "of radial or helico-centrifugal pumps",
+      "count": 25928,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D29/64": {
+      "code": "F04D29/64",
+      "level": 2,
+      "parent": "F04D29/60",
+      "ja": "軸流ポンプのもの",
+      "en": "of axial pumps",
+      "count": 18388,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D29/66": {
+      "code": "F04D29/66",
+      "level": 1,
+      "parent": "F04D29/00",
+      "ja": "キャビテーション，うず，騒音，振動または類似のものを防止するもの（機械または機関一般のための気体用消音器Ｆ０１Ｎ）；調節（サージ制御Ｆ０４Ｄ２７／０２）",
+      "en": "Combating cavitation, whirls, noise, vibration, or the like(gas-flow silencers for machines or engines in general <b>F01N</b>);Balancing(surge control <b>F04D27/02</b>)",
+      "count": 53377,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D29/68": {
+      "code": "F04D29/68",
+      "level": 2,
+      "parent": "F04D29/66",
+      "ja": "境界層に作用することによるもの",
+      "en": "by influencing boundary layers",
+      "count": 1905,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D29/70": {
+      "code": "F04D29/70",
+      "level": 1,
+      "parent": "F04D29/00",
+      "ja": "吸込格子；ろ過器；ほこり分離器；清浄器",
+      "en": "Suction grids; Strainers; Dust separation; Cleaning",
+      "count": 41017,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D31/00": {
+      "code": "F04D31/00",
+      "level": 0,
+      "parent": "F04D",
+      "ja": "同時に液体および圧縮性流体をポンプするもの",
+      "en": "Pumping liquids and elastic fluids at the same time",
+      "count": 954,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D33/00": {
+      "code": "F04D33/00",
+      "level": 0,
+      "parent": "F04D",
+      "ja": "純粋な回転以外による非容積形ポンプ，例．揺動形のもの（Ｆ０４Ｄ３５／００が優先；ハンドヘルドファンＡ４５Ｂ）［２］",
+      "en": "Non-positive-displacement pumps with other than pure rotation, e.g. of oscillating type(<b>F04D35/00</b> takes precedence; hand-held fans <b>A45B</b>)",
+      "count": 1004,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    },
+    "F04D35/00": {
+      "code": "F04D35/00",
+      "level": 0,
+      "parent": "F04D",
+      "ja": "液体中に波を発生させるポンプ，例．波発生装置（浴槽用Ａ４７Ｋ３／１０）［２］",
+      "en": "Pumps producing waves in liquids, i.e. wave-producers(for bath tubs <b>A47K3/10</b>)",
+      "count": 377,
+      "sourceFile": "ipc_F04D.txt",
+      "kind": "ipc"
+    }
+  }
+}

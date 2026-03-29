@@ -1,0 +1,546 @@
+{
+  "generatedAt": "2026-03-20T02:17:46.113Z",
+  "total": 54,
+  "entries": {
+    "B23H": {
+      "code": "B23H",
+      "level": 0,
+      "parent": "B23",
+      "ja": "工具としての電極を使用し，工作物に高密度の電流を作用させることにより行う金属加工；このような加工と他の形式の金属加工とを複合させたもの（電解または電気泳動による被覆の形成方法，電気成形，またはそのための装置Ｃ２５Ｄ；対象物からの材料の電解除去方法Ｃ２５Ｆ；所望導電性パターンを形成するために，導電性材料の沈澱技術を用いる印刷回路の製造Ｈ０５Ｋ３／１８）［４］<br><br><b><ul>注</ul></b><br>このサブクラスは“電食”と言われる金属加工を包含する。［４］<br><br><b><ul>サブクラス内の索引</ul></b><br>放電加工　１／００<br>電解加工　３／００<br>複合加工　５／００<br>共通の方法または装置　７／００<br>特定の対象物または特別の効果または結果を達成するための加工　９／００<br>補助装置または細部　１１／００",
+      "en": "WORKING OF METAL BY THE ACTION OF A HIGH CONCENTRATION OF ELECTRIC CURRENT ON A WORKPIECE USING AN ELECTRODE WHICH TAKES THE PLACE OF A TOOL; SUCH WORKING COMBINED WITH OTHER FORMS OF WORKING OF METAL(processes for the electrolytic or electrophoretic production of coatings, electroforming, or apparatus therefor <b>C25D</b>; processes for the electrolytic removal of material from objects <b>C25F</b>; manufacturing printed circuits using precipitation techniques to apply the conductive material to form the desired conductive pattern <b>H05K3/18</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>This subclass <u>covers</u> the working of metal described as \"electroerosion\". </li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">ELECTRICAL DISCHARGE MACHINING </td><td><b><b>1/00</b></b></td></tr></tr><tr><td width=\"70%\">ELECTROCHEMICAL MACHINING </td><td><b><b>3/00</b></b></td></tr></tr><tr><td width=\"70%\">COMBINED MACHINING </td><td><b><b>5/00</b></b></td></tr></tr><tr><td width=\"70%\">COMMON PROCESSES OR APPARATUS </td><td><b><b>7/00</b></b></td></tr></tr><tr><td width=\"70%\">MACHINING PARTICULAR OBJECTS OR OBTAINING SPECIAL EFFECTS OR RESULTS </td><td><b><b>9/00</b></b></td></tr></tr><tr><td width=\"70%\">AUXILIARY APPARATUS OR DETAILS </td><td><b><b>11/00</b></b></td></tr></tr></table>",
+      "count": 95,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B23": {
+      "code": "B23",
+      "level": 0,
+      "parent": "B",
+      "ja": "工作機械；他に分類されない金属加工<br><br><b><ul>注</ul></b><br>（１）このクラスは以下のものを包含する：<br>―金属材料の加工；［２０１５．０１］<br>―適用される方法が金属材料加工に用いられるものと類似し且つ他の分類箇所に包含されないものに限る非金属材料の加工；［２０１５．０１］<br>―サブクラスＢ２３Ｑに包含されるものであって工作機械の個々の種類に特有でない性質の要請または問題，例．加工物の供給，に関する特徴。もっともその特徴の実施形態は適用される機械の種類に応じて異ってもよい。たとえ，その特徴または特定の機能が，実際上ある特定の作業用に設計された工作機械にかなりな程度特有であり，またはその工作機械用にのみクレームされていても，その特徴は一般に前記サブクラスに分類され，例外的にのみ関係する工作機械のサブクラスに分類される。しかしながら，この一般的性質をもつ特徴のあるものは個々の金属加工作業に関するサブクラス，特にＢ２３Ｂに分類される。この場合，当該サブクラスはこれらの特徴に関しては主に関係する工作機械の種類に制限されない。<br>（２）このサブクラスにおいては，下記の用語または表現は以下の意味で用いる：<br>―“作業の種類”という用語およびそれに類する表現は中ぐり，穴あけ，フライス削りおよび研削のような金属加工作業に関する；<br>―“機械の種類”という用語は１つの特定の金属加工作業のために設計された機械を意味する（例．旋盤）；<br>―“機械の形式”という用語は加工の特定の方法または特定の工作物のために適用または構成される特定種類の機械，例．正面旋盤，心押台旋盤，タレット旋盤，を意味する；<br>―“種々の機械”は同種の金属加工を行う種々の形式の工作機械全部，たとえば立て中ぐり盤と横中ぐり盤とを含む。<br>（３）もし，細部，構成部分または付属品が工作機械に固有の本質的特徴をもたないならばさらに一般的なクラス，例．Ｆ１６，が優先する。",
+      "en": "MACHINE TOOLS; METAL-WORKING NOT OTHERWISE PROVIDED FOR; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This class <u>covers  </u>: <ul><li>working of metallic materials;</li><li>working of non-metallic materials, provided that the methods applied are similar to those used in metal-working and not provided for elsewhere;</li><li>features, specific to machine tools, which relate to a requirement or problem of a nature which is not peculiar to a particular kind of machine tool, e.g. feeding work, which are covered by subclass <b>B23Q</b>, although the realisation of these features may differ according to the kind of machine tool concerned. The said subclass covers such features, in general, even if the feature or a specific function, in any particular case, is to some extent peculiar to, or is claimed only for, machine tools designed for one particular operation; only in exceptional cases are such features classified in the subclass for the machine tool concerned. Certain features of this general nature are, however, referred to subclasses relating to particular metal-working operations, especially <b>B23B</b>, in which case the subclasses in question are not restricted, in respect of those features, to the kind of machine tool with which they are primarily concerned.</li></ul></li><li>In this class, the following terms or expressions are used with the meanings indicated: <ul><li>\"kind of operations\" and similar expressions relate to such metal-working operations as boring, drilling, milling and grinding;</li><li>\"kind of machine\" means a machine designed for a particular kind of metal-working operation (e.g. a lathe);</li><li>\"form of machine\" means a machine of a particular kind adapted or arranged for a particular way of working or for particular work, e.g. face-plate lathe, tailstock lathe, turret lathe;</li><li>\"different machines\" covers different forms of machines for performing the same type of metal-working operation, e.g. vertical and horizontal boring machines.</li></ul></li><li>If details, components, or accessories have no essential feature specific to machine tools, the more general class, e.g. <b>F16</b>, takes precedence.</li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B": {
+      "code": "B",
+      "level": 0,
+      "parent": null,
+      "ja": "処理操作；運輸",
+      "en": "PERFORMING OPERATIONS; TRANSPORTING",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B23H1/00": {
+      "code": "B23H1/00",
+      "level": 0,
+      "parent": "B23H",
+      "ja": "放電加工，すなわち，誘電性流体の中に置かれた電極と工作物との間に放電を高速で繰返すことによって行う金属の除去［４］",
+      "en": "Electrical discharge machining, i.e. removing metal with a series of rapidly recurring electrical discharges between an electrode and a workpiece in the presence of a fluid dielectric",
+      "count": 6231,
+      "sourceFile": "ipc_B23H.txt",
+      "kind": "ipc"
+    },
+    "B23H1/02": {
+      "code": "B23H1/02",
+      "level": 1,
+      "parent": "B23H1/00",
+      "ja": "特にそのために適用される電気回路，例．電力供給，制御，短絡または他の異常放電の防止［４］",
+      "en": "Electric circuits specially adapted therefor, e.g. power supply, control, preventing short circuits or other abnormal discharges",
+      "count": 3807,
+      "sourceFile": "ipc_B23H.txt",
+      "kind": "ipc"
+    },
+    "B23H1/04": {
+      "code": "B23H1/04",
+      "level": 1,
+      "parent": "B23H1/00",
+      "ja": "特にそのために適用される電極またはその製造（Ｂ２３Ｈ９／００が優先）［４］",
+      "en": "Electrodes specially adapted therefor or their manufacture(<b>B23H9/00</b> takes precedence)",
+      "count": 2223,
+      "sourceFile": "ipc_B23H.txt",
+      "kind": "ipc"
+    },
+    "B23H1/06": {
+      "code": "B23H1/06",
+      "level": 2,
+      "parent": "B23H1/04",
+      "ja": "電極材料［４］",
+      "en": "Electrode material",
+      "count": 569,
+      "sourceFile": "ipc_B23H.txt",
+      "kind": "ipc"
+    },
+    "B23H1/08": {
+      "code": "B23H1/08",
+      "level": 1,
+      "parent": "B23H1/00",
+      "ja": "加工媒体［４］",
+      "en": "Working media",
+      "count": 535,
+      "sourceFile": "ipc_B23H.txt",
+      "kind": "ipc"
+    },
+    "B23H1/10": {
+      "code": "B23H1/10",
+      "level": 1,
+      "parent": "B23H1/00",
+      "ja": "加工媒体の供給または再生［４］",
+      "en": "Supply or regeneration of working media",
+      "count": 1379,
+      "sourceFile": "ipc_B23H.txt",
+      "kind": "ipc"
+    },
+    "B23H3/00": {
+      "code": "B23H3/00",
+      "level": 0,
+      "parent": "B23H",
+      "ja": "電解加工，すなわち．電解液中に置かれた電極と工作物との間に電流を流すことによって行う金属の除去［４］",
+      "en": "Electrochemical machining, i.e. removing metal by passing current between an electrode and a workpiece in the presence of an electrolyte",
+      "count": 3058,
+      "sourceFile": "ipc_B23H.txt",
+      "kind": "ipc"
+    },
+    "B23H3/02": {
+      "code": "B23H3/02",
+      "level": 1,
+      "parent": "B23H3/00",
+      "ja": "特にそのために適用される電気回路，例．電力供給，制御，短絡の防止［４］",
+      "en": "Electric circuits specially adapted therefor, e.g. power supply, control, preventing short circuits",
+      "count": 869,
+      "sourceFile": "ipc_B23H.txt",
+      "kind": "ipc"
+    },
+    "B23H3/04": {
+      "code": "B23H3/04",
+      "level": 1,
+      "parent": "B23H3/00",
+      "ja": "特にそのために適用される電極またはその製造（Ｂ２３Ｈ９／００が優先）［４］",
+      "en": "Electrodes specially adapted therefor or their manufacture(<b>B23H9/00</b> takes precedence)",
+      "count": 1575,
+      "sourceFile": "ipc_B23H.txt",
+      "kind": "ipc"
+    },
+    "B23H3/06": {
+      "code": "B23H3/06",
+      "level": 2,
+      "parent": "B23H3/04",
+      "ja": "電極材料［４］",
+      "en": "Electrode material",
+      "count": 176,
+      "sourceFile": "ipc_B23H.txt",
+      "kind": "ipc"
+    },
+    "B23H3/08": {
+      "code": "B23H3/08",
+      "level": 1,
+      "parent": "B23H3/00",
+      "ja": "加工媒体［４］",
+      "en": "Working media",
+      "count": 578,
+      "sourceFile": "ipc_B23H.txt",
+      "kind": "ipc"
+    },
+    "B23H3/10": {
+      "code": "B23H3/10",
+      "level": 1,
+      "parent": "B23H3/00",
+      "ja": "加工媒体の供給または再生［４］",
+      "en": "Supply or regeneration of working media",
+      "count": 946,
+      "sourceFile": "ipc_B23H.txt",
+      "kind": "ipc"
+    },
+    "B23H5/00": {
+      "code": "B23H5/00",
+      "level": 0,
+      "parent": "B23H",
+      "ja": "複合加工［４］",
+      "en": "Combined machining",
+      "count": 1355,
+      "sourceFile": "ipc_B23H.txt",
+      "kind": "ipc"
+    },
+    "B23H5/02": {
+      "code": "B23H5/02",
+      "level": 1,
+      "parent": "B23H5/00",
+      "ja": "電解加工と組合わされた放電加工［４］",
+      "en": "Electrical discharge machining combined with electrochemical machining",
+      "count": 305,
+      "sourceFile": "ipc_B23H.txt",
+      "kind": "ipc"
+    },
+    "B23H5/04": {
+      "code": "B23H5/04",
+      "level": 1,
+      "parent": "B23H5/00",
+      "ja": "機械加工と組合わされた放電加工［４］",
+      "en": "Electrical discharge machining combined with mechanical working",
+      "count": 593,
+      "sourceFile": "ipc_B23H.txt",
+      "kind": "ipc"
+    },
+    "B23H5/06": {
+      "code": "B23H5/06",
+      "level": 1,
+      "parent": "B23H5/00",
+      "ja": "機械加工，例．研削またはホーニング加工，と組合わされた電解加工［４］",
+      "en": "Electrochemical machining combined with mechanical working, e.g. grinding or honing",
+      "count": 847,
+      "sourceFile": "ipc_B23H.txt",
+      "kind": "ipc"
+    },
+    "B23H5/08": {
+      "code": "B23H5/08",
+      "level": 2,
+      "parent": "B23H5/06",
+      "ja": "電解研削［４］",
+      "en": "Electrolytic grinding",
+      "count": 917,
+      "sourceFile": "ipc_B23H.txt",
+      "kind": "ipc"
+    },
+    "B23H5/10": {
+      "code": "B23H5/10",
+      "level": 1,
+      "parent": "B23H5/00",
+      "ja": "特にそのために適用される電極またはその製造（Ｂ２３Ｈ１／０４，Ｂ２３Ｈ３／０４が優先）［４］",
+      "en": "Electrodes specially adapted therefor or their manufacture(<b>B23H1/04</b>, <b>B23H3/04</b> take precedence)",
+      "count": 478,
+      "sourceFile": "ipc_B23H.txt",
+      "kind": "ipc"
+    },
+    "B23H5/12": {
+      "code": "B23H5/12",
+      "level": 1,
+      "parent": "B23H5/00",
+      "ja": "加工媒体［４］",
+      "en": "Working media",
+      "count": 147,
+      "sourceFile": "ipc_B23H.txt",
+      "kind": "ipc"
+    },
+    "B23H5/14": {
+      "code": "B23H5/14",
+      "level": 1,
+      "parent": "B23H5/00",
+      "ja": "加工媒体の供給または再生［４］",
+      "en": "Supply or regeneration of working media",
+      "count": 190,
+      "sourceFile": "ipc_B23H.txt",
+      "kind": "ipc"
+    },
+    "B23H7/00": {
+      "code": "B23H7/00",
+      "level": 0,
+      "parent": "B23H",
+      "ja": "放電加工および電解加工に共に適用できる方法または装置［４］",
+      "en": "Processes or apparatus applicable to both electrical discharge machining and electrochemical machining",
+      "count": 968,
+      "sourceFile": "ipc_B23H.txt",
+      "kind": "ipc"
+    },
+    "B23H7/02": {
+      "code": "B23H7/02",
+      "level": 1,
+      "parent": "B23H7/00",
+      "ja": "ワイヤーカット加工［４］",
+      "en": "Wire-cutting",
+      "count": 11612,
+      "sourceFile": "ipc_B23H.txt",
+      "kind": "ipc"
+    },
+    "B23H7/04": {
+      "code": "B23H7/04",
+      "level": 2,
+      "parent": "B23H7/02",
+      "ja": "加工間隙に電流を供給する装置；特にそのために適用される電気回路［４］",
+      "en": "Apparatus for supplying current to working gap; Electric circuits specially adapted therefor",
+      "count": 975,
+      "sourceFile": "ipc_B23H.txt",
+      "kind": "ipc"
+    },
+    "B23H7/06": {
+      "code": "B23H7/06",
+      "level": 2,
+      "parent": "B23H7/02",
+      "ja": "電極と工作物との間の相対移動の経路曲線の制御［４］",
+      "en": "Control of the travel curve of the relative movement between electrode and workpiece",
+      "count": 1133,
+      "sourceFile": "ipc_B23H.txt",
+      "kind": "ipc"
+    },
+    "B23H7/08": {
+      "code": "B23H7/08",
+      "level": 2,
+      "parent": "B23H7/02",
+      "ja": "ワイヤー電極［４］",
+      "en": "Wire electrodes",
+      "count": 1030,
+      "sourceFile": "ipc_B23H.txt",
+      "kind": "ipc"
+    },
+    "B23H7/10": {
+      "code": "B23H7/10",
+      "level": 3,
+      "parent": "B23H7/08",
+      "ja": "ワイヤー電極の支持，巻き取りまたは通電［４］",
+      "en": "Supporting, winding or electrical connection of wire-electrode",
+      "count": 5180,
+      "sourceFile": "ipc_B23H.txt",
+      "kind": "ipc"
+    },
+    "B23H7/12": {
+      "code": "B23H7/12",
+      "level": 1,
+      "parent": "B23H7/00",
+      "ja": "回転円板電極［４］",
+      "en": "Rotating-disc electrodes",
+      "count": 239,
+      "sourceFile": "ipc_B23H.txt",
+      "kind": "ipc"
+    },
+    "B23H7/14": {
+      "code": "B23H7/14",
+      "level": 1,
+      "parent": "B23H7/00",
+      "ja": "特にそのために適用される電気回路，例．電力供給［４］",
+      "en": "Electric circuits specially adapted therefor, e.g. power supply",
+      "count": 603,
+      "sourceFile": "ipc_B23H.txt",
+      "kind": "ipc"
+    },
+    "B23H7/16": {
+      "code": "B23H7/16",
+      "level": 2,
+      "parent": "B23H7/14",
+      "ja": "短絡または他の異常放電を防止するためのもの［４］",
+      "en": "for preventing short circuits or other abnormal discharges",
+      "count": 352,
+      "sourceFile": "ipc_B23H.txt",
+      "kind": "ipc"
+    },
+    "B23H7/18": {
+      "code": "B23H7/18",
+      "level": 2,
+      "parent": "B23H7/14",
+      "ja": "電極と工作物間に所望間隔を維持または制御するためのもの［４］",
+      "en": "for maintaining or controlling the desired spacing between electrode and workpiece",
+      "count": 800,
+      "sourceFile": "ipc_B23H.txt",
+      "kind": "ipc"
+    },
+    "B23H7/20": {
+      "code": "B23H7/20",
+      "level": 2,
+      "parent": "B23H7/14",
+      "ja": "プログラム制御のためのもの，例．適用制御［２００６．０１］",
+      "en": "for program control, e.g. adaptive",
+      "count": 1223,
+      "sourceFile": "ipc_B23H.txt",
+      "kind": "ipc"
+    },
+    "B23H7/22": {
+      "code": "B23H7/22",
+      "level": 1,
+      "parent": "B23H7/00",
+      "ja": "特にそのために適用される電極またはその製造，例．修正または調整（Ｂ２３Ｈ７／０８，Ｂ２３Ｈ７／１２，Ｂ２３Ｈ９／００が優先）［４］",
+      "en": "Electrodes specially adapted therefor or their manufacture(<b>B23H7/08</b>, <b>B23H7/12</b>, <b>B23H9/00</b> take precedence)",
+      "count": 1060,
+      "sourceFile": "ipc_B23H.txt",
+      "kind": "ipc"
+    },
+    "B23H7/24": {
+      "code": "B23H7/24",
+      "level": 2,
+      "parent": "B23H7/22",
+      "ja": "電極材料［４］",
+      "en": "Electrode material",
+      "count": 162,
+      "sourceFile": "ipc_B23H.txt",
+      "kind": "ipc"
+    },
+    "B23H7/26": {
+      "code": "B23H7/26",
+      "level": 1,
+      "parent": "B23H7/00",
+      "ja": "工作物に対して電極を移動または位置決めする装置；電極の取付け［４］",
+      "en": "Apparatus for moving or positioning electrode relatively to workpiece; Mounting of electrode",
+      "count": 3538,
+      "sourceFile": "ipc_B23H.txt",
+      "kind": "ipc"
+    },
+    "B23H7/28": {
+      "code": "B23H7/28",
+      "level": 2,
+      "parent": "B23H7/26",
+      "ja": "送り方向に垂直な平面内での電極の移動，例．寄せ加工［４］",
+      "en": "Moving electrode in a plane normal to the feed direction, e.g. orbiting",
+      "count": 534,
+      "sourceFile": "ipc_B23H.txt",
+      "kind": "ipc"
+    },
+    "B23H7/30": {
+      "code": "B23H7/30",
+      "level": 2,
+      "parent": "B23H7/26",
+      "ja": "送り方向での電極の移動（Ｂ２３Ｈ７／３２が優先）［４］",
+      "en": "Moving electrode in the feed direction(<b>B23H7/32</b> takes precedence)",
+      "count": 613,
+      "sourceFile": "ipc_B23H.txt",
+      "kind": "ipc"
+    },
+    "B23H7/32": {
+      "code": "B23H7/32",
+      "level": 2,
+      "parent": "B23H7/26",
+      "ja": "電極と工作物の所望間隔維持［４］",
+      "en": "Maintaining desired spacing between electrode and workpiece",
+      "count": 257,
+      "sourceFile": "ipc_B23H.txt",
+      "kind": "ipc"
+    },
+    "B23H7/34": {
+      "code": "B23H7/34",
+      "level": 1,
+      "parent": "B23H7/00",
+      "ja": "加工媒体［４］",
+      "en": "Working media",
+      "count": 110,
+      "sourceFile": "ipc_B23H.txt",
+      "kind": "ipc"
+    },
+    "B23H7/36": {
+      "code": "B23H7/36",
+      "level": 1,
+      "parent": "B23H7/00",
+      "ja": "加工媒体の供給または再生［４］",
+      "en": "Supply or regeneration of working media",
+      "count": 1907,
+      "sourceFile": "ipc_B23H.txt",
+      "kind": "ipc"
+    },
+    "B23H7/38": {
+      "code": "B23H7/38",
+      "level": 1,
+      "parent": "B23H7/00",
+      "ja": "直接には金属の除去を行わない手段，例．超音波，磁場又はレーザー，を特別に適用することによって金属加工に影響を及ぼすもの［２００６．０１］",
+      "en": "Influencing metal working by using specially adapted means not directly involved in the removal of metal, e.g. ultrasonic waves, magnetic fields or laser irradiation",
+      "count": 436,
+      "sourceFile": "ipc_B23H.txt",
+      "kind": "ipc"
+    },
+    "B23H9/00": {
+      "code": "B23H9/00",
+      "level": 0,
+      "parent": "B23H",
+      "ja": "特定の金属対象物を取扱うかまたは金属対象物に特別の効果または結果を達成するために特に適用される加工（陰極放電による熱処理Ｃ２１Ｄ１／３８）［４］",
+      "en": "Machining specially adapted for treating particular metal objects or for obtaining special effects or results on metal objects(heat treatment by cathodic discharge <b>C21D1/38</b>)",
+      "count": 3497,
+      "sourceFile": "ipc_B23H.txt",
+      "kind": "ipc"
+    },
+    "B23H9/02": {
+      "code": "B23H9/02",
+      "level": 1,
+      "parent": "B23H9/00",
+      "ja": "トリミングまたはバリの除去［４］",
+      "en": "Trimming or deburring",
+      "count": 586,
+      "sourceFile": "ipc_B23H.txt",
+      "kind": "ipc"
+    },
+    "B23H9/04": {
+      "code": "B23H9/04",
+      "level": 1,
+      "parent": "B23H9/00",
+      "ja": "ロールの表面処理［４］",
+      "en": "Treating surfaces of rolls",
+      "count": 302,
+      "sourceFile": "ipc_B23H.txt",
+      "kind": "ipc"
+    },
+    "B23H9/06": {
+      "code": "B23H9/06",
+      "level": 1,
+      "parent": "B23H9/00",
+      "ja": "マーク付けまたは刻印［４］",
+      "en": "Marking or engraving",
+      "count": 528,
+      "sourceFile": "ipc_B23H.txt",
+      "kind": "ipc"
+    },
+    "B23H9/08": {
+      "code": "B23H9/08",
+      "level": 1,
+      "parent": "B23H9/00",
+      "ja": "尖鋭化［４］",
+      "en": "Sharpening",
+      "count": 187,
+      "sourceFile": "ipc_B23H.txt",
+      "kind": "ipc"
+    },
+    "B23H9/10": {
+      "code": "B23H9/10",
+      "level": 1,
+      "parent": "B23H9/00",
+      "ja": "タービンブレードまたはノズルの加工［４］",
+      "en": "Working turbine blades or nozzles",
+      "count": 780,
+      "sourceFile": "ipc_B23H.txt",
+      "kind": "ipc"
+    },
+    "B23H9/12": {
+      "code": "B23H9/12",
+      "level": 1,
+      "parent": "B23H9/00",
+      "ja": "相補形状部品，例．パンチおよびダイス，の成形［４］",
+      "en": "Forming parts of complementary shape, e.g. punch-and-die",
+      "count": 317,
+      "sourceFile": "ipc_B23H.txt",
+      "kind": "ipc"
+    },
+    "B23H9/14": {
+      "code": "B23H9/14",
+      "level": 1,
+      "parent": "B23H9/00",
+      "ja": "孔あけ［４］",
+      "en": "Making holes",
+      "count": 2717,
+      "sourceFile": "ipc_B23H.txt",
+      "kind": "ipc"
+    },
+    "B23H9/16": {
+      "code": "B23H9/16",
+      "level": 2,
+      "parent": "B23H9/14",
+      "ja": "電解液ジェットによるもの［４］",
+      "en": "using an electrolytic jet",
+      "count": 236,
+      "sourceFile": "ipc_B23H.txt",
+      "kind": "ipc"
+    },
+    "B23H9/18": {
+      "code": "B23H9/18",
+      "level": 1,
+      "parent": "B23H9/00",
+      "ja": "外部円錐面またはスパイクの製造（Ｂ２３Ｈ９／０８が優先）［４］",
+      "en": "Producing external conical surfaces or spikes(<b>B23H9/08</b> takes precedence)",
+      "count": 48,
+      "sourceFile": "ipc_B23H.txt",
+      "kind": "ipc"
+    },
+    "B23H11/00": {
+      "code": "B23H11/00",
+      "level": 0,
+      "parent": "B23H",
+      "ja": "他に分類されない補助装置または細部［４］",
+      "en": "Auxiliary apparatus or details, not otherwise provided for",
+      "count": 13517,
+      "sourceFile": "ipc_B23H.txt",
+      "kind": "ipc"
+    }
+  }
+}

@@ -1,0 +1,746 @@
+{
+  "generatedAt": "2026-03-20T02:17:47.268Z",
+  "total": 74,
+  "entries": {
+    "H03B": {
+      "code": "H03B",
+      "level": 0,
+      "parent": "H03",
+      "ja": "振動の発生，直接のまたは周波数変換による振動の発生，スイッチング動作を行なわない能動素子を用いた回路による振動の発生；このような回路による雑音の発生（電気機械的手段による楽器に特別に適合する発生器Ｇ１０Ｈ；メーザまたはレーザＨ０１Ｓ；プラズマにおける振動の発生Ｈ０５Ｈ）<br><br><b><ul>サブクラス内の索引</ul></b><br>周波数変換によらない発生<br>増巾と帰還による手段；負性抵抗　５／００；７／００<br>電子走行時間による手段；電子ビーム管　９／００；１３／００<br>衝撃励振によるもの；ホール効果；放射源と検出器の組み合わせ　１１／００；１５／００；１７／００<br>周波数変換による発生<br>信号の逓倍または逓降によるもの　１９／００<br>非変調信号の結合によるもの　２１／００<br>発生した振動の特殊性<br>周波数範囲の掃引；多重周波数；多重位相；雑音　２３／００；２５／００；２７／００；２９／００<br>その他の発生方法　２８／００<br>細部　１／００",
+      "en": "GENERATION OF OSCILLATIONS, DIRECTLY OR BY FREQUENCY-CHANGING, BY CIRCUITS EMPLOYING ACTIVE ELEMENTS WHICH OPERATE IN A NON-SWITCHING MANNER; GENERATION OF NOISE BY SUCH CIRCUITS(generators specially adapted for electrophonic musical instruments <b>G10H</b>; masers or lasers <b>H01S</b>;  generation of oscillations in plasma <b>H05H</b>);<br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">GENERATION WITHOUT FREQUENCY-CHANGING<tr><td width=\"70%\">By means of amplification and feedback; negative resistance </td><td><b><b>5/00</b>; <b>7/00</b></b></td></tr></tr><tr><td width=\"70%\">By means of transit-time tubes; electron-beam tubes </td><td><b><b>9/00</b>; <b>13/00</b></b></td></tr></tr><tr><td width=\"70%\">By shock-exciting; Hall effect; radiation source and detectors </td><td><b><b>11/00</b>; <b>15/00</b>; <b>17/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">GENERATION WITH FREQUENCY- CHANGING<tr><td width=\"70%\">By multiplication or division of a signal </td><td><b><b>19/00</b></b></td></tr></tr><tr><td width=\"70%\">By combining unmodulated signals </td><td><b><b>21/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">PARTICULARITIES OF GENERATED OSCILLATIONS<tr><td width=\"70%\">Swept-over frequency range; multi-frequency; multiphase; noise </td><td><b><b>23/00</b>; <b>25/00</b>; <b>27/00</b>; <b>29/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">OTHER METHODS OF GENERATION </td><td><b><b>28/00</b></b></td></tr></tr><tr><td width=\"70%\">DETAILS </td><td><b><b>1/00</b></b></td></tr></tr></table>",
+      "count": 427,
+      "sourceFile": "ipc_H.txt",
+      "kind": "ipc"
+    },
+    "H03": {
+      "code": "H03",
+      "level": 0,
+      "parent": "H",
+      "ja": "電子回路",
+      "en": "ELECTRONIC CIRCUITRY",
+      "count": 0,
+      "sourceFile": "ipc_H.txt",
+      "kind": "ipc"
+    },
+    "H": {
+      "code": "H",
+      "level": 0,
+      "parent": null,
+      "ja": "電気<br><br><b><ul>注</ul></b><br>（利用にあたっての基本原則と一般的指示）<br>Ｉ．セクションＨは以下のものを包含する：<br>（ａ）基本的電気素子，これは全ての電気ユニットと，装置や回路の一般的な機械的構成を包含しており，その中にはプリント配線と称されるものに各種の基本素子を組み立てたものも含まれる。またこれは他に包含されない場合には，ある程度までこれらの素子の製造をも包含する；<br>（ｂ）発電，これは，発電，変換および配電と共にそのための装置の制御を包含する；<br>（ｃ）電気の応用，これは以下のものを包含する：<br>（ｉ）一般的な利用技術，すなわち．電気加熱と電気照明回路の利用技術；<br>（ｉｉ）厳密な意味で電気的か電子的かいずれかの特定の利用技術で国際特許分類の他のセクションに包含されないもの，これは以下のものを含んでいる：<br>（１）電気的光源，これはレーザーを含む；<br>（２）電気的なＸ線技術；<br>（３）電気的なプラズマ技術，および帯電粒子または中性子の発生および加速；<br>（ｄ）基本電子回路およびその制御；<br>（ｅ）電気通信技術；これは電気―機械変換器一般を含む；<br>（ｆ）物品や上記素子を作るための特定の材料の使用，この点については指針の８８項から９０項を参照されたい。<br>ＩＩ．このセクションにおいては，下記の一般規則が適用される：<br>（ａ）上記Ｉ（ｃ）で述べた例外を除いて，国際特許分類のセクションＨ以外のいずれかのセクションに分類される特殊な操作，方法，装置，物体または物品に特有の電気的観点または部分は，常にその操作，方法，装置，物体または物品のためのサブクラスに分類されるか，または類似の性質を有する技術主題に関する共通的な特徴がクラス・レベルで展開されている場合には，それは，該技術主題のための一般的電気的な応用を完全に包含するサブクラスに，その操作，方法，装置，物体または物品と関連して分類される；<br>（ｂ）この様な電気的な応用には，一般的なものであれ特殊なものであれ，次の事項が含まれる。<br>（ｉ）Ａ６１における治療方法および装置；<br>（ｉｉ）Ｂ０１，Ｂ０３およびＢ２３Ｋにおける各種の実験室または工業的操作に用いられる電気的方法および装置；<br>（ｉｉｉ）セクションＢの“運輸”のサブセクションにおける車両一般および特殊な車両への電気の供給，電気的推進および電気照明；<br>（ｉｖ）Ｆ０２Ｐにおける内燃機関の電気点火系，およびＦ２３Ｑにおける燃焼装置一般のもの；<br>（ｖ）セクションＧにおける全ての電気的部分，すなわち，電気変量の測定器を含む測定装置，検査，信号および計算。このＧセクションにおいて電気とは，一般に手段として扱われるものでそれ自体目的として扱われるものではない；<br>（ｃ）全ての電気的な応用は一般的なものであれ特殊なものであれ，それが含んでいる電気的“基本的素子”に関して言えば，“基本的な電気”の観点がセクションＨ（上記Ｉ（ａ）参照）にあることを前提としている。この規則は，セクションＨ自身にある上記Ｉ（ｃ）で示した電気の応用に対しても有効である。",
+      "en": "ELECTRICITY; <br><br><b><u>Note(s)</u></b><br><br><ul><li>These Notes cover the basic principles and general instructions for use of section <b>H</b>.<ul><li>Section <b>H</b> <u>covers</u>: <ul><li>basic electric elements, which cover all electric units and the general mechanical structure of apparatus and circuits, including the assembly of various basic elements into what are called printed circuits and also cover to a certain extent the manufacture of these elements (when not covered elsewhere);</li><li>generation of electricity, which covers the generation, conversion and distribution of electricity together with the controlling of the corresponding gear;</li><li>applied electricity, which <u>covers</u>: <ul><li>general utilisation techniques, viz. those of electric heating and electric lighting circuits;</li><li>some special utilisation techniques, either electric or electronic in the strict sense, which are not covered by other sections of the Classification, including: <ul><li>electric light sources, including lasers;</li><li>electric X-ray technique;</li><li>electric plasma technique and the generation and acceleration of electrically charged particles or neutrons;</li></ul></li></ul></li><li>basic electronic circuits and their control;</li><li>radio or electric communication technique;</li><li>the use of a specified material for the manufacture of the article or element described. In this connection, paragraphs 88 to 90 of the Guide should be referred to.</li></ul></li><li>In this section, the following general rules apply: <ul><li>Subject to the exceptions stated in I(c), above, any electric aspect or part peculiar to a particular operation, process, apparatus, object or article, classified in one of the sections of the Classification other than section <b>H</b>, is always classified in the subclass for that operation, process, apparatus, object or article. Where common characteristics concerning technical subjects of similar nature have been brought out at class level, the electric aspect or part is classified, in conjunction with the operation, process, apparatus, object or article, in a subclass which covers entirely the general electrical applications for the technical subject in question;</li><li>The electrical applications referred to under (a), above, either general or particular, include: <ul><li>the therapeutic processes and apparatus, in class <b>A61</b>;</li><li>the electric processes and apparatus used in various laboratory or industrial operations, in classes <b>B01</b> and <b>B03</b> and in subclass <b>B23K</b>;</li><li>the electricity supply, electric propulsion and electric lighting of vehicles in general and of particular vehicles, in the subsection \"Transporting\" of section <b>B</b>;</li><li>the electric ignition systems of internal-combustion engines, in subclass <b>F02P</b>, and of combustion apparatus in general, in subclass <b>F23Q</b>;</li><li>the whole electrical part of section <b>G</b>, i.e. measuring devices including apparatus for measuring electric variables, checking, signalling and calculating. Electricity in that section is generally dealt with as a means and not as an end in itself;</li></ul></li><li>All electrical applications, both general and particular, presuppose that the \"basic electricity\" aspect appears in section <b>H</b> (see I(a) above) as regards the electric \"basic elements\" which they comprise. This rule is also valid for applied electricity, referred to in I(c), above, which appears in section <b>H</b> itself.</li></ul></li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_H.txt",
+      "kind": "ipc"
+    },
+    "H03B1/00": {
+      "code": "H03B1/00",
+      "level": 0,
+      "parent": "H03B",
+      "ja": "細部",
+      "en": "Details",
+      "count": 4022,
+      "sourceFile": "ipc_H03B.txt",
+      "kind": "ipc"
+    },
+    "H03B1/02": {
+      "code": "H03B1/02",
+      "level": 1,
+      "parent": "H03B1/00",
+      "ja": "電力発振器，例．加熱用発振器，の構造上の細部（電磁界による加熱のための発生器Ｈ０５Ｂ６／００）",
+      "en": "Structural details of power oscillators, e.g. for heating(generators for heating by electromagnetic fields <b>H05B6/00</b>)",
+      "count": 267,
+      "sourceFile": "ipc_H03B.txt",
+      "kind": "ipc"
+    },
+    "H03B1/04": {
+      "code": "H03B1/04",
+      "level": 1,
+      "parent": "H03B1/00",
+      "ja": "不要発振，例．高調波，の低減",
+      "en": "Reducing undesired oscillations, e.g. harmonics",
+      "count": 800,
+      "sourceFile": "ipc_H03B.txt",
+      "kind": "ipc"
+    },
+    "H03B5/00": {
+      "code": "H03B5/00",
+      "level": 0,
+      "parent": "H03B",
+      "ja": "出力から入力への再生帰還による増幅器を用いた振動の発生（Ｈ０３Ｂ９／００，Ｈ０３Ｂ１５／００が優先）",
+      "en": "Generation of oscillations using amplifier with regenerative feedback from output to input(<b>H03B9/00</b>, <b>H03B15/00</b> take precedence)",
+      "count": 923,
+      "sourceFile": "ipc_H03B.txt",
+      "kind": "ipc"
+    },
+    "H03B5/02": {
+      "code": "H03B5/02",
+      "level": 1,
+      "parent": "H03B5/00",
+      "ja": "細部",
+      "en": "Details",
+      "count": 1309,
+      "sourceFile": "ipc_H03B.txt",
+      "kind": "ipc"
+    },
+    "H03B5/04": {
+      "code": "H03B5/04",
+      "level": 2,
+      "parent": "H03B5/02",
+      "ja": "物理的な値，例．電源，負荷，温度，の変化を補償するための発振器の変形",
+      "en": "Modifications of generator to compensate for variations in physical values, e.g. power supply, load, temperature",
+      "count": 3810,
+      "sourceFile": "ipc_H03B.txt",
+      "kind": "ipc"
+    },
+    "H03B5/06": {
+      "code": "H03B5/06",
+      "level": 2,
+      "parent": "H03B5/02",
+      "ja": "発振の起動を確実にするための発振器の変形（発生器の起動Ｈ０３Ｌ３／００）",
+      "en": "Modifications of generator to ensure starting of oscillations(starting of generators <b>H03L3/00</b>)",
+      "count": 753,
+      "sourceFile": "ipc_H03B.txt",
+      "kind": "ipc"
+    },
+    "H03B5/08": {
+      "code": "H03B5/08",
+      "level": 1,
+      "parent": "H03B5/00",
+      "ja": "周波数決定素子が集中定数インダクタンスと集中定数キャパシタンスとからなるもの",
+      "en": "with frequency-determining element comprising lumped inductance and capacitance",
+      "count": 1545,
+      "sourceFile": "ipc_H03B.txt",
+      "kind": "ipc"
+    },
+    "H03B5/10": {
+      "code": "H03B5/10",
+      "level": 2,
+      "parent": "H03B5/08",
+      "ja": "増幅器の能動素子が真空管であるもの（Ｈ０３Ｂ５／１４が優先）",
+      "en": "active element in amplifier being vacuum tube(<b>H03B5/14</b> takes precedence)",
+      "count": 988,
+      "sourceFile": "ipc_H03B.txt",
+      "kind": "ipc"
+    },
+    "H03B5/12": {
+      "code": "H03B5/12",
+      "level": 2,
+      "parent": "H03B5/08",
+      "ja": "増幅器の能動素子が半導体装置であるもの（Ｈ０３Ｂ５／１４，Ｈ０３Ｂ７／０６が優先）",
+      "en": "active element in amplifier being semiconductor device(<b>H03B5/14</b>, <b>H03B7/06</b> take precedence)",
+      "count": 6047,
+      "sourceFile": "ipc_H03B.txt",
+      "kind": "ipc"
+    },
+    "H03B5/14": {
+      "code": "H03B5/14",
+      "level": 2,
+      "parent": "H03B5/08",
+      "ja": "周波数決定素子がブリッジ回路を経て信号が伝送される閉ループに結合されているもの",
+      "en": "the frequency-determining element being connected <u>via</u> a bridge circuit to a closed loop in which the signal is transmitted",
+      "count": 65,
+      "sourceFile": "ipc_H03B.txt",
+      "kind": "ipc"
+    },
+    "H03B5/16": {
+      "code": "H03B5/16",
+      "level": 3,
+      "parent": "H03B5/14",
+      "ja": "増幅器の能動素子が真空管であるもの",
+      "en": "active element in amplifier being vacuum tube",
+      "count": 25,
+      "sourceFile": "ipc_H03B.txt",
+      "kind": "ipc"
+    },
+    "H03B5/18": {
+      "code": "H03B5/18",
+      "level": 1,
+      "parent": "H03B5/00",
+      "ja": "周波数決定素子が分布定数インダクタンスと分布定数キャパシタンスとからなるもの",
+      "en": "with frequency-determining element comprising distributed inductance and capacitance",
+      "count": 4025,
+      "sourceFile": "ipc_H03B.txt",
+      "kind": "ipc"
+    },
+    "H03B5/20": {
+      "code": "H03B5/20",
+      "level": 1,
+      "parent": "H03B5/00",
+      "ja": "周波数決定素子が抵抗とキャパシタンスまたはインダクタンスのいずれか一方とからなるもの，例．位相発振器",
+      "en": "with frequency-determining element comprising resistance and either capacitance or inductance, e.g. phase-shift oscillator",
+      "count": 1013,
+      "sourceFile": "ipc_H03B.txt",
+      "kind": "ipc"
+    },
+    "H03B5/22": {
+      "code": "H03B5/22",
+      "level": 2,
+      "parent": "H03B5/20",
+      "ja": "増幅器の能動素子が真空管であるもの（Ｈ０３Ｂ５／２６が優先）",
+      "en": "active element in amplifier being vacuum tube(<b>H03B5/26</b> takes precedence)",
+      "count": 156,
+      "sourceFile": "ipc_H03B.txt",
+      "kind": "ipc"
+    },
+    "H03B5/24": {
+      "code": "H03B5/24",
+      "level": 2,
+      "parent": "H03B5/20",
+      "ja": "増幅器の能動素子が半導体装置であるもの（Ｈ０３Ｂ５／２６が優先）",
+      "en": "active element in amplifier being semiconductor device(<b>H03B5/26</b> takes precedence)",
+      "count": 1003,
+      "sourceFile": "ipc_H03B.txt",
+      "kind": "ipc"
+    },
+    "H03B5/26": {
+      "code": "H03B5/26",
+      "level": 2,
+      "parent": "H03B5/20",
+      "ja": "周波数決定素子が，信号が伝送される閉ループ中のブリッジ回路の一部であるもの；周波数決定素子がブリッジ回路を経て，上記閉ループに結合されているもの，例．ウイーンブリッジ発振器，並列Ｔ型発振器",
+      "en": "the frequency-determining element being part of a bridge circuit in a closed loop in which the signal is transmitted; the frequency-determining element being connected <u>via</u> a bridge circuit to such a closed loop, e.g. Wien-Bridge oscillator, parallel-T oscillator",
+      "count": 372,
+      "sourceFile": "ipc_H03B.txt",
+      "kind": "ipc"
+    },
+    "H03B5/28": {
+      "code": "H03B5/28",
+      "level": 3,
+      "parent": "H03B5/26",
+      "ja": "増幅器の能動素子が真空管であるもの",
+      "en": "active element in amplifier being vacuum tube",
+      "count": 48,
+      "sourceFile": "ipc_H03B.txt",
+      "kind": "ipc"
+    },
+    "H03B5/30": {
+      "code": "H03B5/30",
+      "level": 1,
+      "parent": "H03B5/00",
+      "ja": "周波数決定素子が電気機械的振動子であるもの",
+      "en": "with frequency-determining element being electromechanical resonator",
+      "count": 2070,
+      "sourceFile": "ipc_H03B.txt",
+      "kind": "ipc"
+    },
+    "H03B5/32": {
+      "code": "H03B5/32",
+      "level": 2,
+      "parent": "H03B5/30",
+      "ja": "圧電気振動子であるもの",
+      "en": "being a piezoelectric resonator",
+      "count": 10961,
+      "sourceFile": "ipc_H03B.txt",
+      "kind": "ipc"
+    },
+    "H03B5/34": {
+      "code": "H03B5/34",
+      "level": 3,
+      "parent": "H03B5/32",
+      "ja": "増幅器の能動素子が真空管であるもの（Ｈ０３Ｂ５／３８が優先）",
+      "en": "active element in amplifier being vacuum tube(<b>H03B5/38</b> takes precedence)",
+      "count": 768,
+      "sourceFile": "ipc_H03B.txt",
+      "kind": "ipc"
+    },
+    "H03B5/36": {
+      "code": "H03B5/36",
+      "level": 3,
+      "parent": "H03B5/32",
+      "ja": "増幅器の能動素子が半導体装置であるもの（Ｈ０３Ｂ５／３８が優先）",
+      "en": "active element in amplifier being semiconductor device(<b>H03B5/38</b> takes precedence)",
+      "count": 2973,
+      "sourceFile": "ipc_H03B.txt",
+      "kind": "ipc"
+    },
+    "H03B5/38": {
+      "code": "H03B5/38",
+      "level": 3,
+      "parent": "H03B5/32",
+      "ja": "周波数決定素子がブリッジ回路を経て信号が伝送される閉ループに結合されているもの",
+      "en": "the frequency-determining element being connected <u>via</u> a bridge circuit to a closed loop in which the signal is transmitted",
+      "count": 42,
+      "sourceFile": "ipc_H03B.txt",
+      "kind": "ipc"
+    },
+    "H03B5/40": {
+      "code": "H03B5/40",
+      "level": 2,
+      "parent": "H03B5/30",
+      "ja": "磁わい振動子であるもの（Ｈ０３Ｂ５／４２が優先）",
+      "en": "being a magnetostrictive resonator(<b>H03B5/42</b> takes precedence)",
+      "count": 132,
+      "sourceFile": "ipc_H03B.txt",
+      "kind": "ipc"
+    },
+    "H03B5/42": {
+      "code": "H03B5/42",
+      "level": 2,
+      "parent": "H03B5/30",
+      "ja": "周波数決定素子がブリッジ回路を経て，信号が伝送される閉ループに結合されているもの",
+      "en": "the frequency-determining element being connected <u>via</u> a bridge circuit to a closed loop in which the signal is transmitted",
+      "count": 15,
+      "sourceFile": "ipc_H03B.txt",
+      "kind": "ipc"
+    },
+    "H03B7/00": {
+      "code": "H03B7/00",
+      "level": 0,
+      "parent": "H03B",
+      "ja": "２つの電極間に負性抵抗をもつ能動素子を用いた振動の発生（Ｈ０３Ｂ９／００が優先）",
+      "en": "Generation of oscillations using active element having a negative resistance between two of its electrodes(<b>H03B9/00</b> takes precedence)",
+      "count": 175,
+      "sourceFile": "ipc_H03B.txt",
+      "kind": "ipc"
+    },
+    "H03B7/02": {
+      "code": "H03B7/02",
+      "level": 1,
+      "parent": "H03B7/00",
+      "ja": "集中定数インダクタンスと集中定数キャパシタンスとからなる周波数決定素子を有するもの",
+      "en": "with frequency-determining element comprising lumped inductance and capacitance",
+      "count": 52,
+      "sourceFile": "ipc_H03B.txt",
+      "kind": "ipc"
+    },
+    "H03B7/04": {
+      "code": "H03B7/04",
+      "level": 2,
+      "parent": "H03B7/02",
+      "ja": "能動素子が真空管であるもの",
+      "en": "active element being vacuum tube",
+      "count": 107,
+      "sourceFile": "ipc_H03B.txt",
+      "kind": "ipc"
+    },
+    "H03B7/06": {
+      "code": "H03B7/06",
+      "level": 2,
+      "parent": "H03B7/02",
+      "ja": "能動素子が半導体装置であるもの",
+      "en": "active element being semiconductor device",
+      "count": 332,
+      "sourceFile": "ipc_H03B.txt",
+      "kind": "ipc"
+    },
+    "H03B7/08": {
+      "code": "H03B7/08",
+      "level": 3,
+      "parent": "H03B7/06",
+      "ja": "トンネルダイオードであるもの",
+      "en": "being a tunnel diode",
+      "count": 283,
+      "sourceFile": "ipc_H03B.txt",
+      "kind": "ipc"
+    },
+    "H03B7/10": {
+      "code": "H03B7/10",
+      "level": 2,
+      "parent": "H03B7/02",
+      "ja": "能動素子がガス放電管またはアーク放電管であるもの",
+      "en": "active element being gas-discharge or arc-discharge tube",
+      "count": 94,
+      "sourceFile": "ipc_H03B.txt",
+      "kind": "ipc"
+    },
+    "H03B7/12": {
+      "code": "H03B7/12",
+      "level": 1,
+      "parent": "H03B7/00",
+      "ja": "分布定数インダクタンスと分布定数キャパシタンスとからなる周波数決定素子を有するもの",
+      "en": "with frequency-determining element comprising distributed inductance and capacitance",
+      "count": 74,
+      "sourceFile": "ipc_H03B.txt",
+      "kind": "ipc"
+    },
+    "H03B7/14": {
+      "code": "H03B7/14",
+      "level": 2,
+      "parent": "H03B7/12",
+      "ja": "能動素子が半導体装置であるもの",
+      "en": "active element being semiconductor device",
+      "count": 548,
+      "sourceFile": "ipc_H03B.txt",
+      "kind": "ipc"
+    },
+    "H03B9/00": {
+      "code": "H03B9/00",
+      "level": 0,
+      "parent": "H03B",
+      "ja": "走行時間効果を用いた振動の発生［２］",
+      "en": "Generation of oscillations using transit-time effects",
+      "count": 83,
+      "sourceFile": "ipc_H03B.txt",
+      "kind": "ipc"
+    },
+    "H03B9/01": {
+      "code": "H03B9/01",
+      "level": 1,
+      "parent": "H03B9/00",
+      "ja": "電子管を用いるもの［２］",
+      "en": "using discharge tubes",
+      "count": 215,
+      "sourceFile": "ipc_H03B.txt",
+      "kind": "ipc"
+    },
+    "H03B9/02": {
+      "code": "H03B9/02",
+      "level": 2,
+      "parent": "H03B9/01",
+      "ja": "遅延電磁界電子管を用いるもの（クライストロンを用いるものＨ０３Ｂ９／０４）［２］",
+      "en": "using a retarding-field tube(using klystrons <b>H03B9/04</b>)",
+      "count": 58,
+      "sourceFile": "ipc_H03B.txt",
+      "kind": "ipc"
+    },
+    "H03B9/04": {
+      "code": "H03B9/04",
+      "level": 2,
+      "parent": "H03B9/01",
+      "ja": "クライストロンを用いるもの［２］",
+      "en": "using a klystron",
+      "count": 48,
+      "sourceFile": "ipc_H03B.txt",
+      "kind": "ipc"
+    },
+    "H03B9/06": {
+      "code": "H03B9/06",
+      "level": 3,
+      "parent": "H03B9/04",
+      "ja": "反射型クライストロンを用いるもの［２］",
+      "en": "using a reflex klystron",
+      "count": 12,
+      "sourceFile": "ipc_H03B.txt",
+      "kind": "ipc"
+    },
+    "H03B9/08": {
+      "code": "H03B9/08",
+      "level": 2,
+      "parent": "H03B9/01",
+      "ja": "進行波管を用いるもの［２］",
+      "en": "using a travelling-wave tube",
+      "count": 46,
+      "sourceFile": "ipc_H03B.txt",
+      "kind": "ipc"
+    },
+    "H03B9/10": {
+      "code": "H03B9/10",
+      "level": 2,
+      "parent": "H03B9/01",
+      "ja": "マグネトロンを用いるもの［２］",
+      "en": "using a magnetron",
+      "count": 1125,
+      "sourceFile": "ipc_H03B.txt",
+      "kind": "ipc"
+    },
+    "H03B9/12": {
+      "code": "H03B9/12",
+      "level": 1,
+      "parent": "H03B9/00",
+      "ja": "固体装置を用いるもの，例．ガン効果装置［２］",
+      "en": "using solid state devices, e.g. Gunn-effect devices",
+      "count": 1431,
+      "sourceFile": "ipc_H03B.txt",
+      "kind": "ipc"
+    },
+    "H03B9/14": {
+      "code": "H03B9/14",
+      "level": 2,
+      "parent": "H03B9/12",
+      "ja": "分布インダクタンスとキャパシタンスとを構成する素子をも用いるもの［３］",
+      "en": "and elements comprising distributed inductance and capacitance",
+      "count": 966,
+      "sourceFile": "ipc_H03B.txt",
+      "kind": "ipc"
+    },
+    "H03B11/00": {
+      "code": "H03B11/00",
+      "level": 0,
+      "parent": "H03B",
+      "ja": "衝動励振同調回路を用いた振動の発生（帰還をもつものＨ０３Ｂ５／００）",
+      "en": "Generation of oscillations using a shock-excited tuned circuit(with feedback <b>H03B5/00</b>)",
+      "count": 121,
+      "sourceFile": "ipc_H03B.txt",
+      "kind": "ipc"
+    },
+    "H03B11/02": {
+      "code": "H03B11/02",
+      "level": 1,
+      "parent": "H03B11/00",
+      "ja": "スパークにより励振されるもの",
+      "en": "excited by spark",
+      "count": 318,
+      "sourceFile": "ipc_H03B.txt",
+      "kind": "ipc"
+    },
+    "H03B11/04": {
+      "code": "H03B11/04",
+      "level": 1,
+      "parent": "H03B11/00",
+      "ja": "断続器により励振されるもの",
+      "en": "excited by interrupter",
+      "count": 21,
+      "sourceFile": "ipc_H03B.txt",
+      "kind": "ipc"
+    },
+    "H03B11/06": {
+      "code": "H03B11/06",
+      "level": 2,
+      "parent": "H03B11/04",
+      "ja": "機械的断続器によるもの",
+      "en": "by mechanical interrupter",
+      "count": 122,
+      "sourceFile": "ipc_H03B.txt",
+      "kind": "ipc"
+    },
+    "H03B11/08": {
+      "code": "H03B11/08",
+      "level": 2,
+      "parent": "H03B11/04",
+      "ja": "断続器が電子管であるもの",
+      "en": "interrupter being discharge tube",
+      "count": 173,
+      "sourceFile": "ipc_H03B.txt",
+      "kind": "ipc"
+    },
+    "H03B11/10": {
+      "code": "H03B11/10",
+      "level": 2,
+      "parent": "H03B11/04",
+      "ja": "断続器が半導体装置であるもの",
+      "en": "interrupter being semiconductor device",
+      "count": 140,
+      "sourceFile": "ipc_H03B.txt",
+      "kind": "ipc"
+    },
+    "H03B13/00": {
+      "code": "H03B13/00",
+      "level": 0,
+      "parent": "H03B",
+      "ja": "陰極線管中の電子ビームの偏向を用いた振動の発生",
+      "en": "Generation of oscillations using deflection of electron beam in a cathode-ray tube",
+      "count": 161,
+      "sourceFile": "ipc_H03B.txt",
+      "kind": "ipc"
+    },
+    "H03B15/00": {
+      "code": "H03B15/00",
+      "level": 0,
+      "parent": "H03B",
+      "ja": "電流磁気効果装置，例．ホール効果装置，スピントランスファー効果を用いた装置，巨大磁気抵抗を用いた装置，または超伝導効果を用いた振動の発生",
+      "en": "Generation of oscillations using galvano-magnetic devices, e.g. Hall-effect devices, devices using spin transfer effects, devices using giant magnetoresistance, or using super-conductivity effects",
+      "count": 499,
+      "sourceFile": "ipc_H03B.txt",
+      "kind": "ipc"
+    },
+    "H03B17/00": {
+      "code": "H03B17/00",
+      "level": 0,
+      "parent": "H03B",
+      "ja": "放射源と検出器とを用いた振動の発生",
+      "en": "Generation of oscillations using a radiation source and a detector",
+      "count": 402,
+      "sourceFile": "ipc_H03B.txt",
+      "kind": "ipc"
+    },
+    "H03B19/00": {
+      "code": "H03B19/00",
+      "level": 0,
+      "parent": "H03B",
+      "ja": "別個の発生源からの信号周波数の非再生的，逓倍または逓降による振動の発生",
+      "en": "Generation of oscillations by non-regenerative frequency multiplication or division of a signal from a separate source",
+      "count": 2376,
+      "sourceFile": "ipc_H03B.txt",
+      "kind": "ipc"
+    },
+    "H03B19/03": {
+      "code": "H03B19/03",
+      "level": 1,
+      "parent": "H03B19/00",
+      "ja": "非線形インダクタンスを用いるもの［３］",
+      "en": "using non-linear inductance",
+      "count": 500,
+      "sourceFile": "ipc_H03B.txt",
+      "kind": "ipc"
+    },
+    "H03B19/05": {
+      "code": "H03B19/05",
+      "level": 1,
+      "parent": "H03B19/00",
+      "ja": "非線形キャパシタンス，例．バラクタダイオード，を用いるもの［３］",
+      "en": "using non-linear capacitance, e.g. varactor diodes",
+      "count": 201,
+      "sourceFile": "ipc_H03B.txt",
+      "kind": "ipc"
+    },
+    "H03B19/06": {
+      "code": "H03B19/06",
+      "level": 1,
+      "parent": "H03B19/00",
+      "ja": "２以上の電極をもつ電子管または半導体装置によるもの",
+      "en": "by means of discharge device or semiconductor device with more than two electrodes",
+      "count": 123,
+      "sourceFile": "ipc_H03B.txt",
+      "kind": "ipc"
+    },
+    "H03B19/08": {
+      "code": "H03B19/08",
+      "level": 2,
+      "parent": "H03B19/06",
+      "ja": "電子管によるもの",
+      "en": "by means of a discharge device",
+      "count": 37,
+      "sourceFile": "ipc_H03B.txt",
+      "kind": "ipc"
+    },
+    "H03B19/10": {
+      "code": "H03B19/10",
+      "level": 3,
+      "parent": "H03B19/08",
+      "ja": "逓倍のみを用いるもの",
+      "en": "using multiplication only",
+      "count": 542,
+      "sourceFile": "ipc_H03B.txt",
+      "kind": "ipc"
+    },
+    "H03B19/12": {
+      "code": "H03B19/12",
+      "level": 3,
+      "parent": "H03B19/08",
+      "ja": "逓降のみを用いるもの",
+      "en": "using division only",
+      "count": 273,
+      "sourceFile": "ipc_H03B.txt",
+      "kind": "ipc"
+    },
+    "H03B19/14": {
+      "code": "H03B19/14",
+      "level": 2,
+      "parent": "H03B19/06",
+      "ja": "半導体装置によるもの",
+      "en": "by means of a semiconductor device",
+      "count": 1297,
+      "sourceFile": "ipc_H03B.txt",
+      "kind": "ipc"
+    },
+    "H03B19/16": {
+      "code": "H03B19/16",
+      "level": 1,
+      "parent": "H03B19/00",
+      "ja": "無制御の整流装置を用いるもの，例．整流ダイオードまたはショットキーダイオードを用いるもの［３］",
+      "en": "using uncontrolled rectifying devices, e.g. rectifying diodes or Schottky diodes",
+      "count": 359,
+      "sourceFile": "ipc_H03B.txt",
+      "kind": "ipc"
+    },
+    "H03B19/18": {
+      "code": "H03B19/18",
+      "level": 2,
+      "parent": "H03B19/16",
+      "ja": "分布インダクタンスとキャパシタンスとを構成する素子をも用いるもの［３］",
+      "en": "and elements comprising distributed inductance and capacitance",
+      "count": 279,
+      "sourceFile": "ipc_H03B.txt",
+      "kind": "ipc"
+    },
+    "H03B19/20": {
+      "code": "H03B19/20",
+      "level": 2,
+      "parent": "H03B19/16",
+      "ja": "ダイオードが電荷蓄積またはエンハンスメント効果を示すもの［３］",
+      "en": "being diodes exhibiting charge storage or enhancement effects",
+      "count": 33,
+      "sourceFile": "ipc_H03B.txt",
+      "kind": "ipc"
+    },
+    "H03B21/00": {
+      "code": "H03B21/00",
+      "level": 0,
+      "parent": "H03B",
+      "ja": "相異なる周波数の非変調信号を結合することによる振動の発生（Ｈ０３Ｂ１９／００が優先）［３］",
+      "en": "Generation of oscillations by combining unmodulated signals of different frequencies(<b>H03B19/00</b> takes precedence)",
+      "count": 891,
+      "sourceFile": "ipc_H03B.txt",
+      "kind": "ipc"
+    },
+    "H03B21/01": {
+      "code": "H03B21/01",
+      "level": 1,
+      "parent": "H03B21/00",
+      "ja": "相異なる周波数の非変調信号間のビートによるもの［３］",
+      "en": "by beating unmodulated signals of different frequencies",
+      "count": 243,
+      "sourceFile": "ipc_H03B.txt",
+      "kind": "ipc"
+    },
+    "H03B21/02": {
+      "code": "H03B21/02",
+      "level": 2,
+      "parent": "H03B21/01",
+      "ja": "複数回のビートによるもの，例．周波数合成用［３］",
+      "en": "by plural beating, i.e. for frequency synthesis",
+      "count": 779,
+      "sourceFile": "ipc_H03B.txt",
+      "kind": "ipc"
+    },
+    "H03B21/04": {
+      "code": "H03B21/04",
+      "level": 2,
+      "parent": "H03B21/01",
+      "ja": "いくつかの似かよった段を用いるもの［３］",
+      "en": "using several similar stages",
+      "count": 119,
+      "sourceFile": "ipc_H03B.txt",
+      "kind": "ipc"
+    },
+    "H03B23/00": {
+      "code": "H03B23/00",
+      "level": 0,
+      "parent": "H03B",
+      "ja": "所定周波数範囲を周期的に掃引する振動の発生",
+      "en": "Generation of oscillations periodically swept over a predetermined frequency range",
+      "count": 878,
+      "sourceFile": "ipc_H03B.txt",
+      "kind": "ipc"
+    },
+    "H03B25/00": {
+      "code": "H03B25/00",
+      "level": 0,
+      "parent": "H03B",
+      "ja": "１個の自励発振器による，相異なる複数個の周波数の同時発生",
+      "en": "Simultaneous generation by a free-running oscillator of oscillations having different frequencies",
+      "count": 248,
+      "sourceFile": "ipc_H03B.txt",
+      "kind": "ipc"
+    },
+    "H03B27/00": {
+      "code": "H03B27/00",
+      "level": 0,
+      "parent": "H03B",
+      "ja": "単なる逆相関係の２出力ではなくて，周波数等しく位相相異なる複数個の出力を与える振動の発生",
+      "en": "Generation of oscillations providing a plurality of outputs of the same frequency but differing in phase, other than merely two anti-phase outputs",
+      "count": 984,
+      "sourceFile": "ipc_H03B.txt",
+      "kind": "ipc"
+    },
+    "H03B28/00": {
+      "code": "H03B28/00",
+      "level": 0,
+      "parent": "H03B",
+      "ja": "正弦波振動を発生するために波形の変形を含み，かつ，波形の修正による正弦波状振動の発生を含み，グループＨ０３Ｂ５／００～Ｈ０３Ｂ２７／００に包含されない方法による振動の発生（計算動作を行うためのアナログ関数発生器Ｇ０６Ｇ７／２６）［４］",
+      "en": "Generation of oscillations by methods not covered by groups <b>H03B5/00 to H03B27/00</b> , including modification of the waveform to produce sinusoidal oscillations(analogue function generators for performing computing operations <b>G06G7/26</b>)",
+      "count": 2049,
+      "sourceFile": "ipc_H03B.txt",
+      "kind": "ipc"
+    },
+    "H03B29/00": {
+      "code": "H03B29/00",
+      "level": 0,
+      "parent": "H03B",
+      "ja": "雑音電流および雑音電圧の発生（雑音発生器として特別に適合する固体陰極をもつガス入り電子管Ｈ０１Ｊ１７／００）",
+      "en": "Generation of noise currents and voltages(gas-filled discharge tubes with solid cathode specially adapted as noise generators <b>H01J17/00</b>)",
+      "count": 1631,
+      "sourceFile": "ipc_H03B.txt",
+      "kind": "ipc"
+    }
+  }
+}

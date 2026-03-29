@@ -1,0 +1,7216 @@
+window.IPC_SHARD_B29C = {
+  "generatedAt": "2026-03-20T02:17:46.158Z",
+  "total": 721,
+  "entries": {
+    "B29C": {
+      "code": "B29C",
+      "level": 0,
+      "parent": "B29",
+      "ja": "プラスチックの成形または接合；他に分類されない可塑状態の材料の成形；成形品の後処理，例．補修（予備成形品の製造Ｂ２９Ｂ１１／００；それ以前には結合されていなかった層を連結することによってラミネート製品を作成し、やがてそれは一つの製品となり、その層は一体化するものＢ３２Ｂ３７／００～Ｂ３２Ｂ４１／００）［４］<br><br><b><ul>注</ul></b><br>１．このサブクラスは以下のものを包含する：<br>・プラスチックの成形または接合；<br>・可塑状態の材料の成形で具体的な材料が特定されないもの；<br>・可塑状態の材料の成形で他に分類されないもの。<br>２．このサブクラスは以下のものを包含しない：<br>・クラスＢ３１で包含される，紙の加工と同様な方法で行われるプラスチックシート材の加工；<br>・他に分類される材料の成形，例．金属，粘土または食料品。<br>３．クラスＢ２９のタイトルに続く注（３）に注意すること。［４］<br>４．このサブクラスにおいては：<br>―プラスチックまたは可塑状態の材料から作られた物品の補修，例．このサブクラスまたはサブクラスＢ２９Ｄに包含される技術を用いて成形または製造された物品の補修，はグループＢ２９Ｃ７３／００に分類する；<br>―複数の成形技術に適用できる構成部品，細部，付属装置または補助操作はグループＢ２９Ｃ３１／００からＢ２９Ｃ３７／００に分類する；<br>―単一の特定成形技術のみ適用でき，また使用できる構成部品，細部または付属装置はグループＢ２９Ｃ３９／００からＢ２９Ｃ７１／００の関連サブグループのみに分類する。（ＩＰＣの指針の６９項参照）［４，５］<br>５．このサブクラスにおいては，サブクラスＢ２９ＫおよびＢ２９Ｌのインデキシングコードを付与することが望ましい。［４］<br><br><b><ul>サブクラス内の索引</ul></b><br>構成部品，細部，付属装置，補助装置<br>型またはコア　３３／００<br>加熱，冷却，硬化　３５／００<br>他の特色　３１／００，３７／００<br>成形<br>注型によるもの，型を被覆するもの　３９／００，４１／００<br>圧縮成形　４３／００<br>内部圧力による　４４／００<br>射出成形　４５／００<br>押出成形　４８／００<br>ブロー成形　４９／００<br>熱成形　５１／００<br>その他の成形技術<br>曲げ，折りたたみ，ひねり，直線化，平面化　５３／００<br>延伸　５５／００<br>内部応力の解放　６１／００<br>その他の技術　６７／００<br>接合　６５／００<br>特別な適用<br>管端部の成形　５７／００<br>表面成形　５９／００<br>ライニングまたは被覆　６３／００<br>複合材料の成形　７０／００<br>複合成形技術　６９／００<br>後処理　７１／００<br>補修　７３／００",
+      "en": "SHAPING OR JOINING OF PLASTICS; SHAPING OF MATERIAL IN A PLASTIC STATE, NOT OTHERWISE PROVIDED FOR; AFTER-TREATMENT OF THE SHAPED PRODUCTS, e.g. REPAIRING(making preforms <b>B29B11/00</b>;   making laminated products by combining previously unconnected layers which become one product whose layers will remain together <b>B32B37/00 to B32B41/00</b> );<br><br><b><u>Note(s)</u></b><br><br><ul><li>This subclass <u>covers</u>: <ul><li>shaping or joining of plastics;</li><li>shaping of material in a plastic state when a specific material is not identified;</li><li>shaping of material in a plastic state, not otherwise provided for.</li></ul></li><li>This subclass <u>does not cover</u>: <ul><li>working of plastics sheet material in a manner analogous to the working of paper, which is covered by class <b>B31</b>;</li><li>shaping of materials provided for elsewhere, e.g. of metal, clay or foodstuffs.</li></ul></li><li>Attention is drawn to Note (3) following the title of class <b>B29</b>.</li><li>In this subclass: <ul><li>repairing of articles made from plastics or material in a plastic state, e.g. of articles shaped or produced by using techniques covered by this subclass or subclass <b>B29D</b>, is classified in group <b>B29C73/00</b>;</li><li>component parts, details, accessories or auxiliary operations which are applicable to more than one moulding technique are classified in groups <b>B29C31/00 to B29C37/00</b> ;</li><li>component parts, details, accessories or auxiliary operations which are only applicable or only of use for one specific shaping technique are classified only in the relevant subgroups of groups <b>B29C39/00 to B29C71/00</b> .</li></ul></li><li>In this subclass, it is desirable to add the indexing codes of subclasses <b>B29K</b> and <b>B29L</b>.</li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">COMPONENT PARTS, DETAILS ACCESSORIES, AUXILIARY OPERATIONS<tr><td width=\"70%\">Moulds or cores</td><td><b><b>33/00</b></b></td></tr></tr><tr><td width=\"70%\">Heating, cooling, curing</td><td><b><b>35/00</b></b></td></tr></tr><tr><td width=\"70%\">Other features</td><td><b><b>31/00</b>, <b>37/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">MOULDING<tr><td width=\"70%\">by casting, by coating a mould</td><td><b><b>39/00</b>, <b>41/00</b></b></td></tr></tr><tr><td width=\"70%\">Compression moulding</td><td><b><b>43/00</b></b></td></tr></tr><tr><td width=\"70%\">by internal pressure</td><td><b><b>44/00</b></b></td></tr></tr><tr><td width=\"70%\">Injection moulding</td><td><b><b>45/00</b></b></td></tr></tr><tr><td width=\"70%\">Extrusion moulding</td><td><b><b>48/00</b></b></td></tr></tr><tr><td width=\"70%\">Blow-moulding</td><td><b><b>49/00</b></b></td></tr></tr><tr><td width=\"70%\">Thermoforming</td><td><b><b>51/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">OTHER SHAPING TECHNIQUES<tr><td width=\"70%\">Bending, folding, twisting, straightening, flattening</td><td><b><b>53/00</b></b></td></tr></tr><tr><td width=\"70%\">Stretching</td><td><b><b>55/00</b></b></td></tr></tr><tr><td width=\"70%\">Liberation of internal stresses</td><td><b><b>61/00</b></b></td></tr></tr><tr><td width=\"70%\">Additive manufacturing</td><td><b><b>64/00</b></b></td></tr></tr><tr><td width=\"70%\">Other techniques</td><td><b><b>67/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">JOINING</td><td><b><b>65/00</b></b></td></tr></tr><tr><td width=\"70%\">PARTICULAR APPLICATIONS<tr><td width=\"70%\">Shaping tube ends</td><td><b><b>57/00</b></b></td></tr></tr><tr><td width=\"70%\">Surface shaping</td><td><b><b>59/00</b></b></td></tr></tr><tr><td width=\"70%\">Lining or sheathing</td><td><b><b>63/00</b></b></td></tr></tr><tr><td width=\"70%\">Shaping composites</td><td><b><b>70/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">COMBINATIONS OF SHAPING TECHNIQUES</td><td><b><b>69/00</b></b></td></tr></tr><tr><td width=\"70%\">AFTER-TREATMENT</td><td><b><b>71/00</b></b></td></tr></tr><tr><td width=\"70%\">REPAIRING</td><td><b><b>73/00</b></b></td></tr></tr></table>",
+      "count": 5562,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B29": {
+      "code": "B29",
+      "level": 0,
+      "parent": "B",
+      "ja": "プラスチックの加工；可塑状態の物質の加工一般<br><br><b><ul>注</ul></b><br>（１）このサブクラスは，紙の加工と類似の方法によるプラスチックシート材料の加工を包含せず，該加工はクラスＢ３１に包含される。［４］<br>（２）このクラスにおいては，下記の用語は以下に示す意味で用いる：<br>―“プラスチック”は高分子化合物またはそのような化合物に基づく組成物を意味する。<br>（３）このクラスにおいては，下記の規則が適用される：<br>（ａ）プラスチックの加工は可能な限り，主として例えばサブクラスＢ２９Ｃで用いられる特定の成形技術にしたがって分類される。［４］<br>（ｂ）Ｂ２９Ｄの特定物品の製造にしたがう分類は，以下のものに限定される：<br>（ｉ）特定物品の製造に特徴を有し，サブクラスＢ２９ＢまたはＢ２９Ｃに分類されないもの；<br>（ｉｉ）サブクラスＢ２９Ｃで完全には分類されない特定物品を製作するための結合された操作。［４］<br>（ｃ）生産物それ自体はこのクラスに分類されない。ただし，ある生産物が生産される方法に特徴があって生産物の構造または組成には特徴がない場合，その生産方法はこのクラスに分類されるものとする。［２０１０．０１］<br>（４）サブクラスＢ２９Ｋのコードは，成形材または補強材，充填材または予備成形部品，（例．挿入物）に関する情報を提供するために，サブクラスＢ２９Ｂ，Ｂ２９ＣまたはＢ２９Ｄと関連するインデキシングコードとしてのみ使用される。［４］<br>（５）サブクラスＢ２９Ｌのコードは，サブクラスＢ２９Ｃに分類される技術によって製造される物品に関する情報を提供するために，サブクラスＢ２９Ｃと関連するインデキシングコードとしてのみ使用される。［４］",
+      "en": "WORKING OF PLASTICS; WORKING OF SUBSTANCES IN A PLASTIC STATE IN GENERAL; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This class <u>does not cover</u> the working of plastics sheet material in a manner analogous to the working of paper, which is covered by class <b>B31</b>.   </li><li>In this class, the following term is used with the meaning indicated: <ul><li>\"plastics\" means macromolecular compounds or compositions based on such compounds. </li></ul></li><li>In this class, the following rules apply: <ul><li>The working of plastics is, as far as possible, classified primarily according to the particular shaping technique used, e.g. in subclass <b>B29C</b>.   </li><li>Classification according to production of particular articles in subclass <b>B29D</b> is restricted to: <ul><li>aspects which are characteristic for the production of a particular article, and not classifiable in subclass <b>B29B</b> or <b>B29C</b>; </li><li>combined operations for making the particular article which are not fully classifiable in subclass <b>B29C</b>.  </li></ul></li><li>Products <u>per se</u> are not classified in this class. However, if a product is characterised by the way it is produced and not by its structure or composition, the production method should be classified in this class.  </li></ul></li><li>The codes of subclass <b>B29K</b> are <u>only</u> for use as indexing codes associated with subclasses <b>B29B</b>, <b>B29C</b>, or <b>B29D</b> so as to provide information concerning moulding materials or materials for reinforcements, fillers or preformed parts, e.g. inserts.   </li><li>The codes of subclass <b>B29L</b> are <u>only</u> for use as indexing codes associated with subclass <b>B29C</b>, so as to provide information concerning the articles produced by the techniques classified in subclass <b>B29C</b>.   </li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B": {
+      "code": "B",
+      "level": 0,
+      "parent": null,
+      "ja": "処理操作；運輸",
+      "en": "PERFORMING OPERATIONS; TRANSPORTING",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B29C31/00": {
+      "code": "B29C31/00",
+      "level": 0,
+      "parent": "B29C",
+      "ja": "取り扱い，例．成形材料の供給［４］",
+      "en": "Handling, e.g. feeding of the material to be shaped",
+      "count": 11651,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C31/02": {
+      "code": "B29C31/02",
+      "level": 1,
+      "parent": "B29C31/00",
+      "ja": "容器，例．ホッパー，からの分配［４］",
+      "en": "Dispensing from vessels, e.g. hoppers",
+      "count": 3617,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C31/04": {
+      "code": "B29C31/04",
+      "level": 1,
+      "parent": "B29C31/00",
+      "ja": "供給，例．型キャビティー中への供給［４］",
+      "en": "Feeding, e.g. into a mould cavity",
+      "count": 6875,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C31/06": {
+      "code": "B29C31/06",
+      "level": 2,
+      "parent": "B29C31/04",
+      "ja": "計量されたものの［４］",
+      "en": "in measured doses",
+      "count": 1984,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C31/08": {
+      "code": "B29C31/08",
+      "level": 2,
+      "parent": "B29C31/04",
+      "ja": "予備成形品の［４］",
+      "en": "of preforms",
+      "count": 4444,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C31/10": {
+      "code": "B29C31/10",
+      "level": 2,
+      "parent": "B29C31/04",
+      "ja": "数種の材料の［４］",
+      "en": "of several materials",
+      "count": 814,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C33/00": {
+      "code": "B29C33/00",
+      "level": 0,
+      "parent": "B29C",
+      "ja": "型またはコア；その細部または付属装置［４］",
+      "en": "Moulds or cores; Details thereof or accessories therefor",
+      "count": 24129,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C33/02": {
+      "code": "B29C33/02",
+      "level": 1,
+      "parent": "B29C33/00",
+      "ja": "加熱または冷却装置が組み込まれたもの［４］",
+      "en": "with incorporated heating or cooling means",
+      "count": 10511,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C33/04": {
+      "code": "B29C33/04",
+      "level": 2,
+      "parent": "B29C33/02",
+      "ja": "液体，ガスまたは蒸気を利用するもの［４］",
+      "en": "using liquids, gas or steam",
+      "count": 8293,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C33/06": {
+      "code": "B29C33/06",
+      "level": 2,
+      "parent": "B29C33/02",
+      "ja": "照射を利用するもの［４］",
+      "en": "using radiation",
+      "count": 656,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C33/08": {
+      "code": "B29C33/08",
+      "level": 2,
+      "parent": "B29C33/02",
+      "ja": "誘電加熱によるもの［４］",
+      "en": "for dielectric heating",
+      "count": 574,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C33/10": {
+      "code": "B29C33/10",
+      "level": 1,
+      "parent": "B29C33/00",
+      "ja": "ベント装置を一体に備えたもの［４］",
+      "en": "with incorporated venting means",
+      "count": 5047,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C33/12": {
+      "code": "B29C33/12",
+      "level": 1,
+      "parent": "B29C33/00",
+      "ja": "挿入物，例．ラベル，を位置決めする装置が組み込まれたもの［４］",
+      "en": "with incorporated means for positioning inserts, e.g. labels",
+      "count": 5762,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C33/14": {
+      "code": "B29C33/14",
+      "level": 2,
+      "parent": "B29C33/12",
+      "ja": "型壁に対して［４］",
+      "en": "against the mould wall",
+      "count": 1637,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C33/16": {
+      "code": "B29C33/16",
+      "level": 3,
+      "parent": "B29C33/14",
+      "ja": "磁力を利用するもの［４］",
+      "en": "using magnetic means",
+      "count": 475,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C33/18": {
+      "code": "B29C33/18",
+      "level": 3,
+      "parent": "B29C33/14",
+      "ja": "真空を利用するもの［４］",
+      "en": "using vacuum",
+      "count": 891,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C33/20": {
+      "code": "B29C33/20",
+      "level": 1,
+      "parent": "B29C33/00",
+      "ja": "型開き，型閉めまたはクランプ［４］",
+      "en": "Opening, closing or clamping",
+      "count": 4478,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C33/22": {
+      "code": "B29C33/22",
+      "level": 2,
+      "parent": "B29C33/20",
+      "ja": "直線運動によるもの［４］",
+      "en": "by rectilinear movement",
+      "count": 2637,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C33/24": {
+      "code": "B29C33/24",
+      "level": 3,
+      "parent": "B29C33/22",
+      "ja": "流体圧または空気圧装置を利用するもの［４］",
+      "en": "using hydraulic or pneumatic means",
+      "count": 2039,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C33/26": {
+      "code": "B29C33/26",
+      "level": 2,
+      "parent": "B29C33/20",
+      "ja": "旋回運動によるもの［４］",
+      "en": "by pivotal movement",
+      "count": 1040,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C33/28": {
+      "code": "B29C33/28",
+      "level": 3,
+      "parent": "B29C33/26",
+      "ja": "流体圧または空気圧装置を利用するもの［４］",
+      "en": "using hydraulic or pneumatic means",
+      "count": 427,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C33/30": {
+      "code": "B29C33/30",
+      "level": 1,
+      "parent": "B29C33/00",
+      "ja": "取付け，交換または心合わせ［４］",
+      "en": "Mounting, exchanging or centering",
+      "count": 21871,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C33/32": {
+      "code": "B29C33/32",
+      "level": 2,
+      "parent": "B29C33/30",
+      "ja": "磁力を利用するもの［４］",
+      "en": "using magnetic means",
+      "count": 395,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C33/34": {
+      "code": "B29C33/34",
+      "level": 1,
+      "parent": "B29C33/00",
+      "ja": "可動のもの，例．成形ステーションへまたは成形ステーションから［４］",
+      "en": "movable, e.g. to or from the moulding station",
+      "count": 1601,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C33/36": {
+      "code": "B29C33/36",
+      "level": 2,
+      "parent": "B29C33/34",
+      "ja": "連続的に可動なもの［４］",
+      "en": "continuously movable",
+      "count": 924,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C33/38": {
+      "code": "B29C33/38",
+      "level": 1,
+      "parent": "B29C33/00",
+      "ja": "材料または製造方法に特徴があるもの（Ｂ２９Ｃ３３／４４が優先）［２００６．０１］",
+      "en": "characterised by the material or the manufacturing process(                <b>B29C33/44</b> takes precedence)",
+      "count": 16955,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C33/40": {
+      "code": "B29C33/40",
+      "level": 2,
+      "parent": "B29C33/38",
+      "ja": "プラスチック，例．発泡体またはゴム［４］",
+      "en": "Plastics, e.g. foam or rubber",
+      "count": 4499,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C33/42": {
+      "code": "B29C33/42",
+      "level": 1,
+      "parent": "B29C33/00",
+      "ja": "成形面の形状，例．リブまたは溝，に特徴があるもの［４］",
+      "en": "characterised by the shape of the moulding surface, e.g. ribs or grooves",
+      "count": 10089,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C33/44": {
+      "code": "B29C33/44",
+      "level": 1,
+      "parent": "B29C33/00",
+      "ja": "成形品，例．アンダカット成形品，の取出しのための装置を備えるもの，または成形品の取出しを容易にするための特別の構造を有するもの［４］",
+      "en": "with means for, or specially constructed to facilitate, the removal of articles, e.g. of undercut articles",
+      "count": 17715,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C33/46": {
+      "code": "B29C33/46",
+      "level": 2,
+      "parent": "B29C33/44",
+      "ja": "流体圧を利用するもの［４］",
+      "en": "using fluid pressure",
+      "count": 1507,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C33/48": {
+      "code": "B29C33/48",
+      "level": 2,
+      "parent": "B29C33/44",
+      "ja": "押しつぶすまたは解体する手段を有するもの［４］",
+      "en": "with means for collapsing or disassembling",
+      "count": 1508,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C33/50": {
+      "code": "B29C33/50",
+      "level": 3,
+      "parent": "B29C33/48",
+      "ja": "弾性を有するもの［４］",
+      "en": "elastic",
+      "count": 1235,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C33/52": {
+      "code": "B29C33/52",
+      "level": 2,
+      "parent": "B29C33/44",
+      "ja": "可溶性または可融性のもの［４］",
+      "en": "soluble or fusible",
+      "count": 1189,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C33/54": {
+      "code": "B29C33/54",
+      "level": 2,
+      "parent": "B29C33/44",
+      "ja": "粉末または粒状材料から形成されたもの［４］",
+      "en": "made of powdered or granular material",
+      "count": 138,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C33/56": {
+      "code": "B29C33/56",
+      "level": 1,
+      "parent": "B29C33/00",
+      "ja": "被覆剤；離型剤，潤滑剤または分離剤［４］",
+      "en": "Coatings; Releasing, lubricating or separating agents",
+      "count": 1981,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C33/58": {
+      "code": "B29C33/58",
+      "level": 2,
+      "parent": "B29C33/56",
+      "ja": "離型剤の適用［４］",
+      "en": "Applying the releasing agents",
+      "count": 2439,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C33/60": {
+      "code": "B29C33/60",
+      "level": 2,
+      "parent": "B29C33/56",
+      "ja": "離型剤，潤滑剤または分離剤［４］",
+      "en": "Releasing, lubricating or separating agents",
+      "count": 1806,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C33/62": {
+      "code": "B29C33/62",
+      "level": 3,
+      "parent": "B29C33/60",
+      "ja": "ポリマーまたはオリゴマーに基づくもの［４］",
+      "en": "based on polymers or oligomers",
+      "count": 1111,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C33/64": {
+      "code": "B29C33/64",
+      "level": 4,
+      "parent": "B29C33/62",
+      "ja": "シリコーン［４］",
+      "en": "Silicone",
+      "count": 879,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C33/66": {
+      "code": "B29C33/66",
+      "level": 4,
+      "parent": "B29C33/62",
+      "ja": "セルロース；その誘導体［４］",
+      "en": "Cellulose; Derivatives thereof",
+      "count": 63,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C33/68": {
+      "code": "B29C33/68",
+      "level": 2,
+      "parent": "B29C33/56",
+      "ja": "離型シート［４］",
+      "en": "Release sheets",
+      "count": 1630,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C33/70": {
+      "code": "B29C33/70",
+      "level": 1,
+      "parent": "B29C33/00",
+      "ja": "保守［４］",
+      "en": "Maintenance",
+      "count": 505,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C33/72": {
+      "code": "B29C33/72",
+      "level": 2,
+      "parent": "B29C33/70",
+      "ja": "洗浄［４］",
+      "en": "Cleaning",
+      "count": 6148,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C33/74": {
+      "code": "B29C33/74",
+      "level": 2,
+      "parent": "B29C33/70",
+      "ja": "補修［４］",
+      "en": "Repairing",
+      "count": 335,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C33/76": {
+      "code": "B29C33/76",
+      "level": 1,
+      "parent": "B29C33/00",
+      "ja": "コア（Ｂ２９Ｃ３３／０２～Ｂ２９Ｃ３３／７０が優先）［４］",
+      "en": "Cores(<b>B29C33/02 to B29C33/70</b>  take precedence)",
+      "count": 5201,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C35/00": {
+      "code": "B29C35/00",
+      "level": 0,
+      "parent": "B29C",
+      "ja": "加熱，冷却または硬化，例．架橋または加硫；そのための装置（加熱または冷却装置が組み込まれた型Ｂ２９Ｃ３３／０２；プラスチック歯科補綴のための硬化装置Ａ６１Ｃ１３／１４；成形前のものＢ２９Ｂ１３／００）［４］",
+      "en": "Heating, cooling or curing, e.g. crosslinking or vulcanising; Apparatus therefor(moulds with incorporated heating or cooling means <b>B29C33/02</b>;  curing devices for plastics dental prostheses <b>A61C13/14</b>;  before moulding <b>B29B13/00</b>)",
+      "count": 12873,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C35/02": {
+      "code": "B29C35/02",
+      "level": 1,
+      "parent": "B29C35/00",
+      "ja": "加熱または硬化，例．架橋または加硫（低温加硫Ｂ２９Ｃ３５／１８）［４］",
+      "en": "Heating or curing, e.g. crosslinking or vulcanising (cold vulcanisation <b>B29C35/18</b>)",
+      "count": 29188,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C35/04": {
+      "code": "B29C35/04",
+      "level": 2,
+      "parent": "B29C35/02",
+      "ja": "液体，気体または蒸気を用いるもの［４］",
+      "en": "using liquids, gas or steam",
+      "count": 8817,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C35/06": {
+      "code": "B29C35/06",
+      "level": 3,
+      "parent": "B29C35/04",
+      "ja": "不定長の物品のためのもの［４］",
+      "en": "for articles of indefinite length",
+      "count": 1976,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C35/08": {
+      "code": "B29C35/08",
+      "level": 2,
+      "parent": "B29C35/02",
+      "ja": "波動エネルギーまたは粒子線照射によるもの［４］",
+      "en": "by wave energy or particle radiation",
+      "count": 12338,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C35/10": {
+      "code": "B29C35/10",
+      "level": 3,
+      "parent": "B29C35/08",
+      "ja": "不定長の物品のためのもの［４］",
+      "en": "for articles of indefinite length",
+      "count": 1176,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C35/12": {
+      "code": "B29C35/12",
+      "level": 2,
+      "parent": "B29C35/02",
+      "ja": "誘電加熱［４］",
+      "en": "Dielectric heating",
+      "count": 1181,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C35/14": {
+      "code": "B29C35/14",
+      "level": 3,
+      "parent": "B29C35/12",
+      "ja": "不定長の物品のためのもの［４］",
+      "en": "for articles of indefinite length",
+      "count": 224,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C35/16": {
+      "code": "B29C35/16",
+      "level": 1,
+      "parent": "B29C35/00",
+      "ja": "冷却［４］",
+      "en": "Cooling",
+      "count": 18706,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C35/18": {
+      "code": "B29C35/18",
+      "level": 1,
+      "parent": "B29C35/00",
+      "ja": "低温加硫［４］",
+      "en": "Cold vulcanisation",
+      "count": 188,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C37/00": {
+      "code": "B29C37/00",
+      "level": 0,
+      "parent": "B29C",
+      "ja": "グループＢ２９Ｃ３３／００またはＢ２９Ｃ３５／００に包含されない構成部品，細部，付属装置または補助操作［４］",
+      "en": "Component parts, details, accessories or auxiliary operations, not covered by group <b>B29C33/00</b> or <b>B29C35/00</b>",
+      "count": 25277,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C37/02": {
+      "code": "B29C37/02",
+      "level": 1,
+      "parent": "B29C37/00",
+      "ja": "突起またはバリの除去［４］",
+      "en": "Deburring or deflashing",
+      "count": 10300,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C37/04": {
+      "code": "B29C37/04",
+      "level": 2,
+      "parent": "B29C37/02",
+      "ja": "溶接物品のためのもの，例．溶接と組み合わされた突起またはバリの除去［４］",
+      "en": "of welded articles, e.g. deburring or deflashing in combination with welding",
+      "count": 737,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C39/00": {
+      "code": "B29C39/00",
+      "level": 0,
+      "parent": "B29C",
+      "ja": "注型成形，すなわち，型内または限定された表面間に成形材料を大きな圧力を加えないで導入する成形；そのための装置（Ｂ２９Ｃ４１／００が優先）［４］",
+      "en": "Shaping by casting, i.e. introducing the moulding material into a mould or between confining surfaces without significant moulding pressure; Apparatus therefor(<b>B29C41/00</b> takes precedence)",
+      "count": 10372,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C39/02": {
+      "code": "B29C39/02",
+      "level": 1,
+      "parent": "B29C39/00",
+      "ja": "一定長の物品，すなわち．不連続物品，を製造するためのもの［４］",
+      "en": "for making articles of definite length, i.e. discrete articles",
+      "count": 8985,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C39/04": {
+      "code": "B29C39/04",
+      "level": 2,
+      "parent": "B29C39/02",
+      "ja": "可動型を用いるもの［４］",
+      "en": "using movable moulds(<b>B29C41/02</b> takes precedence)",
+      "count": 647,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C39/06": {
+      "code": "B29C39/06",
+      "level": 3,
+      "parent": "B29C39/04",
+      "ja": "連続的に移動できるもの，例．製造ラインに沿って移動できるもの［４］",
+      "en": "continuously movable, e.g. along a production line",
+      "count": 545,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C39/08": {
+      "code": "B29C39/08",
+      "level": 3,
+      "parent": "B29C39/04",
+      "ja": "成形材料を遠心力によって型内へ導入するもの［４］",
+      "en": "Introducing the material into the mould by centrifugal force",
+      "count": 523,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C39/10": {
+      "code": "B29C39/10",
+      "level": 2,
+      "parent": "B29C39/02",
+      "ja": "あらかじめ形成された部品または層状物品と一体化するもの，例．挿入物の周囲へまたは物品を被覆するための［４］",
+      "en": "incorporating preformed parts or layers, e.g. casting around inserts or for coating articles",
+      "count": 15848,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C39/12": {
+      "code": "B29C39/12",
+      "level": 2,
+      "parent": "B29C39/02",
+      "ja": "多層または多色物品の製造［４］",
+      "en": "Making multilayered or multicoloured articles",
+      "count": 2950,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C39/14": {
+      "code": "B29C39/14",
+      "level": 1,
+      "parent": "B29C39/00",
+      "ja": "不定長の物品を製造するためのもの［４］",
+      "en": "for making articles of indefinite length",
+      "count": 778,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C39/16": {
+      "code": "B29C39/16",
+      "level": 2,
+      "parent": "B29C39/14",
+      "ja": "エンドレスベルト間で［４］",
+      "en": "between endless belts",
+      "count": 987,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C39/18": {
+      "code": "B29C39/18",
+      "level": 2,
+      "parent": "B29C39/14",
+      "ja": "あらかじめ形成された部品または層状物品と一体化するもの，例．挿入物の周囲へまたは物品を被覆するための［４］",
+      "en": "incorporating preformed parts or layers, e.g. casting around inserts or for coating articles",
+      "count": 1713,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C39/20": {
+      "code": "B29C39/20",
+      "level": 2,
+      "parent": "B29C39/14",
+      "ja": "多層または多色物品の製造［４］",
+      "en": "Making multilayered or multicoloured articles",
+      "count": 567,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C39/22": {
+      "code": "B29C39/22",
+      "level": 1,
+      "parent": "B29C39/00",
+      "ja": "構成部品，細部または付属装置；補助操作［４］",
+      "en": "Component parts, details or accessories; Auxiliary operations",
+      "count": 5919,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C39/24": {
+      "code": "B29C39/24",
+      "level": 2,
+      "parent": "B29C39/22",
+      "ja": "型内への材料の供給［４］",
+      "en": "Feeding the material into the mould",
+      "count": 6482,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C39/26": {
+      "code": "B29C39/26",
+      "level": 2,
+      "parent": "B29C39/22",
+      "ja": "型またはコア［４］",
+      "en": "Moulds or cores",
+      "count": 12985,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C39/28": {
+      "code": "B29C39/28",
+      "level": 3,
+      "parent": "B29C39/26",
+      "ja": "バリ発生の防止手段を有するもの［４］",
+      "en": "with means to avoid flashes",
+      "count": 633,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C39/30": {
+      "code": "B29C39/30",
+      "level": 3,
+      "parent": "B29C39/26",
+      "ja": "成型品の切断手段を有するもの［４］",
+      "en": "with means for cutting the article",
+      "count": 185,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C39/32": {
+      "code": "B29C39/32",
+      "level": 3,
+      "parent": "B29C39/26",
+      "ja": "型を不透過性にするための継ぎ手またはその類似のものを有するもの［４］",
+      "en": "with joints or the like for making the mould impervious",
+      "count": 256,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C39/34": {
+      "code": "B29C39/34",
+      "level": 3,
+      "parent": "B29C39/26",
+      "ja": "アンダーカット製品のためのもの［４］",
+      "en": "for undercut articles",
+      "count": 423,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C39/36": {
+      "code": "B29C39/36",
+      "level": 2,
+      "parent": "B29C39/22",
+      "ja": "成形品の取出し［４］",
+      "en": "Removing moulded articles",
+      "count": 3341,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C39/38": {
+      "code": "B29C39/38",
+      "level": 2,
+      "parent": "B29C39/22",
+      "ja": "加熱または冷却［４］",
+      "en": "Heating or cooling",
+      "count": 4411,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C39/40": {
+      "code": "B29C39/40",
+      "level": 2,
+      "parent": "B29C39/22",
+      "ja": "体積の変化，例．収縮，の補償［４］",
+      "en": "Compensating volume change, e.g. retraction",
+      "count": 644,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C39/42": {
+      "code": "B29C39/42",
+      "level": 2,
+      "parent": "B29C39/22",
+      "ja": "特別の条件，例．真空，下での注型成形［４］",
+      "en": "Casting under special conditions, e.g. vacuum",
+      "count": 2825,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C39/44": {
+      "code": "B29C39/44",
+      "level": 2,
+      "parent": "B29C39/22",
+      "ja": "計量，制御または調整［４］",
+      "en": "Measuring, controlling or regulating",
+      "count": 2278,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C41/00": {
+      "code": "B29C41/00",
+      "level": 0,
+      "parent": "B29C",
+      "ja": "型，コアまたはその他の基体を被覆することによる成形，すなわち，材料を付着し成形品を剥離することによる成形；そのための装置（加圧によるものＢ２９Ｃ４３／００）［４］",
+      "en": "Shaping by coating a mould, core or other substrate, i.e. by depositing material and stripping-off the shaped article; Apparatus therefor(with compacting pressure <b>B29C43/00</b>)",
+      "count": 7448,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C41/02": {
+      "code": "B29C41/02",
+      "level": 1,
+      "parent": "B29C41/00",
+      "ja": "一定長の物品，すなわち．不連続物品，を製造するためのもの［４］",
+      "en": "for making articles of definite length, i.e. discrete articles",
+      "count": 1381,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C41/04": {
+      "code": "B29C41/04",
+      "level": 2,
+      "parent": "B29C41/02",
+      "ja": "回転または遠心成形，すなわち．型を回転させることにより型内面を被覆するもの［４］",
+      "en": "Rotational or centrifugal casting, i.e. coating the inside of a mould by rotating the mould",
+      "count": 4946,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C41/06": {
+      "code": "B29C41/06",
+      "level": 3,
+      "parent": "B29C41/04",
+      "ja": "二軸またはそれ以上の多軸のもの［４］",
+      "en": "about two or more axes",
+      "count": 1009,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C41/08": {
+      "code": "B29C41/08",
+      "level": 2,
+      "parent": "B29C41/02",
+      "ja": "噴霧または流動化により型体，コアまたはその他の基体を被覆するもの，例．粉体噴霧［４］",
+      "en": "Coating a former, core or other substrate by spraying or fluidisation, e.g. spraying powder",
+      "count": 1910,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C41/10": {
+      "code": "B29C41/10",
+      "level": 3,
+      "parent": "B29C41/08",
+      "ja": "流動化によるもの［４］",
+      "en": "by fluidisation",
+      "count": 193,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C41/12": {
+      "code": "B29C41/12",
+      "level": 2,
+      "parent": "B29C41/02",
+      "ja": "材料を基体上に延展することによるもの［４］",
+      "en": "Spreading-out the material on a substrate",
+      "count": 2326,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C41/14": {
+      "code": "B29C41/14",
+      "level": 2,
+      "parent": "B29C41/02",
+      "ja": "コアの浸漬によるもの［４］",
+      "en": "Dipping a core",
+      "count": 4243,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C41/16": {
+      "code": "B29C41/16",
+      "level": 2,
+      "parent": "B29C41/02",
+      "ja": "スリップ成形，すなわち．スリップまたはスラリーを有孔，多孔または吸収性の表面上へ適用し，液体成分を排出することによる成形［４］",
+      "en": "Slip casting, i.e. applying a slip or slurry on a perforated or porous or absorbent surface with the liquid being drained away",
+      "count": 140,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C41/18": {
+      "code": "B29C41/18",
+      "level": 2,
+      "parent": "B29C41/02",
+      "ja": "スラッシュ成形，すなわち．成形材料を中空の型内へ注入して過剰の材料を排出するもの［４］",
+      "en": "Slush casting, i.e. pouring moulding material into a hollow mould with excess material being poured off",
+      "count": 1569,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C41/20": {
+      "code": "B29C41/20",
+      "level": 2,
+      "parent": "B29C41/02",
+      "ja": "あらかじめ形成された部品または層状物品と一体化するもの，例．挿入物の周囲へまたは物品を被覆するための［４］",
+      "en": "incorporating preformed parts or layers, e.g. moulding around inserts or for coating articles",
+      "count": 1986,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C41/22": {
+      "code": "B29C41/22",
+      "level": 2,
+      "parent": "B29C41/02",
+      "ja": "多層または多色物品の製造［４］",
+      "en": "Making multilayered or multicoloured articles",
+      "count": 1950,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C41/24": {
+      "code": "B29C41/24",
+      "level": 1,
+      "parent": "B29C41/00",
+      "ja": "不定長の物品を製造するためのもの［４］",
+      "en": "for making articles of indefinite length",
+      "count": 2718,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C41/26": {
+      "code": "B29C41/26",
+      "level": 2,
+      "parent": "B29C41/24",
+      "ja": "流動性材料を回転ドラム上に付着させることによるもの［４］",
+      "en": "by depositing flowable material on a rotating drum",
+      "count": 1827,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C41/28": {
+      "code": "B29C41/28",
+      "level": 2,
+      "parent": "B29C41/24",
+      "ja": "流動性材料をエンドレスベルト上に付着させることによるもの［４］",
+      "en": "by depositing flowable material on an endless belt",
+      "count": 1678,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C41/30": {
+      "code": "B29C41/30",
+      "level": 2,
+      "parent": "B29C41/24",
+      "ja": "あらかじめ形成された部品または層状物品と一体化するもの，例．挿入物の周囲へまたは物品を被覆するための［４］",
+      "en": "incorporating preformed parts or layers, e.g. moulding around inserts or for coating articles",
+      "count": 798,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C41/32": {
+      "code": "B29C41/32",
+      "level": 2,
+      "parent": "B29C41/24",
+      "ja": "多層または多色物品の製造［４］",
+      "en": "Making multilayered or multicoloured articles",
+      "count": 781,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C41/34": {
+      "code": "B29C41/34",
+      "level": 1,
+      "parent": "B29C41/00",
+      "ja": "構成部品，細部または付属装置；補助操作［４］",
+      "en": "Component parts, details or accessories; Auxiliary operations",
+      "count": 6322,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C41/36": {
+      "code": "B29C41/36",
+      "level": 2,
+      "parent": "B29C41/34",
+      "ja": "型，コアまたはその他の基体上への成形材料の供給［４］",
+      "en": "Feeding the material on to the mould, core or other substrate",
+      "count": 2572,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C41/38": {
+      "code": "B29C41/38",
+      "level": 2,
+      "parent": "B29C41/34",
+      "ja": "型，コアまたはその他の基体［４］",
+      "en": "Moulds, cores or other substrates",
+      "count": 2204,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C41/40": {
+      "code": "B29C41/40",
+      "level": 3,
+      "parent": "B29C41/38",
+      "ja": "型［４］",
+      "en": "Cores",
+      "count": 1532,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C41/42": {
+      "code": "B29C41/42",
+      "level": 2,
+      "parent": "B29C41/34",
+      "ja": "型，コアまたはその他の基体からの成形品の取り外し［４］",
+      "en": "Removing articles from moulds, cores or other substrates",
+      "count": 1842,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C41/44": {
+      "code": "B29C41/44",
+      "level": 3,
+      "parent": "B29C41/42",
+      "ja": "不定長の物品の［４］",
+      "en": "Articles of indefinite length",
+      "count": 235,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C41/46": {
+      "code": "B29C41/46",
+      "level": 2,
+      "parent": "B29C41/34",
+      "ja": "加熱または冷却［４］",
+      "en": "Heating or cooling",
+      "count": 4092,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C41/48": {
+      "code": "B29C41/48",
+      "level": 2,
+      "parent": "B29C41/34",
+      "ja": "体積の変化，例．収縮，の補償［４］",
+      "en": "Compensating volume change, e.g. retraction",
+      "count": 70,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C41/50": {
+      "code": "B29C41/50",
+      "level": 2,
+      "parent": "B29C41/34",
+      "ja": "特別の条件，例．真空，下での成形［４］",
+      "en": "Shaping under special conditions, e.g. vacuum",
+      "count": 522,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C41/52": {
+      "code": "B29C41/52",
+      "level": 2,
+      "parent": "B29C41/34",
+      "ja": "計量，制御または調整［４］",
+      "en": "Measuring, controlling or regulating",
+      "count": 2128,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C43/00": {
+      "code": "B29C43/00",
+      "level": 0,
+      "parent": "B29C",
+      "ja": "圧縮成形，すなわち付加された外部圧で成形材料を流動させるもの；そのための装置［４，６］",
+      "en": "Compression moulding, i.e. applying external pressure to flow the moulding material; Apparatus therefor",
+      "count": 13137,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C43/02": {
+      "code": "B29C43/02",
+      "level": 1,
+      "parent": "B29C43/00",
+      "ja": "一定長の物品，すなわち．不連続物品，の圧縮成形［４］",
+      "en": "of articles of definite length, i.e. discrete articles",
+      "count": 18925,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C43/04": {
+      "code": "B29C43/04",
+      "level": 2,
+      "parent": "B29C43/02",
+      "ja": "可動型を用いるもの［４］",
+      "en": "using movable moulds",
+      "count": 1597,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C43/06": {
+      "code": "B29C43/06",
+      "level": 3,
+      "parent": "B29C43/04",
+      "ja": "連続運動するもの［４］",
+      "en": "continuously movable",
+      "count": 408,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C43/08": {
+      "code": "B29C43/08",
+      "level": 4,
+      "parent": "B29C43/06",
+      "ja": "円運動［４］",
+      "en": "with circular movement",
+      "count": 1083,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C43/10": {
+      "code": "B29C43/10",
+      "level": 2,
+      "parent": "B29C43/02",
+      "ja": "均等圧によるもの，すなわち．剛性部品またはダイスに対して非剛性圧力を作用させるもの［４］",
+      "en": "Isostatic pressing, i.e. using non-rigid pressure-exerting members against rigid parts or dies",
+      "count": 1472,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C43/12": {
+      "code": "B29C43/12",
+      "level": 3,
+      "parent": "B29C43/10",
+      "ja": "成形材料を包囲する袋を使用するもの［４］",
+      "en": "using bags surrounding the moulding material",
+      "count": 2147,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C43/14": {
+      "code": "B29C43/14",
+      "level": 2,
+      "parent": "B29C43/02",
+      "ja": "数段階で行うもの［４］",
+      "en": "in several steps",
+      "count": 1735,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C43/16": {
+      "code": "B29C43/16",
+      "level": 2,
+      "parent": "B29C43/02",
+      "ja": "鍛造［４］",
+      "en": "Forging",
+      "count": 353,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C43/18": {
+      "code": "B29C43/18",
+      "level": 2,
+      "parent": "B29C43/02",
+      "ja": "あらかじめ形成された部品または層状物品と一体化するもの，例．挿入物の周囲へまたは物品を被覆するための［４］",
+      "en": "incorporating preformed parts or layers, e.g. compression moulding around inserts or for coating articles",
+      "count": 9741,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C43/20": {
+      "code": "B29C43/20",
+      "level": 2,
+      "parent": "B29C43/02",
+      "ja": "多層または多色物品の製造［４］",
+      "en": "Making multilayered or multicoloured articles",
+      "count": 6725,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C43/22": {
+      "code": "B29C43/22",
+      "level": 1,
+      "parent": "B29C43/00",
+      "ja": "不定長の物品の圧縮成形［４］",
+      "en": "of articles of indefinite length",
+      "count": 3195,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C43/24": {
+      "code": "B29C43/24",
+      "level": 2,
+      "parent": "B29C43/22",
+      "ja": "カレンダー成形［４］",
+      "en": "Calendering",
+      "count": 9487,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C43/26": {
+      "code": "B29C43/26",
+      "level": 2,
+      "parent": "B29C43/22",
+      "ja": "数段階によるもの（Ｂ２９Ｃ４３／３０が優先）［４］",
+      "en": "in several steps(<b>B29C43/30</b> takes precedence)",
+      "count": 267,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C43/28": {
+      "code": "B29C43/28",
+      "level": 2,
+      "parent": "B29C43/22",
+      "ja": "あらかじめ形成された部品または層状物品と一体化するもの，例．挿入物の周囲へまたは物品を被覆するための［４］",
+      "en": "incorporating preformed parts or layers, e.g. compression moulding around inserts or for coating articles",
+      "count": 1291,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C43/30": {
+      "code": "B29C43/30",
+      "level": 2,
+      "parent": "B29C43/22",
+      "ja": "多層または多色物品の製造［４］",
+      "en": "Making multilayered or multicoloured articles",
+      "count": 1609,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C43/32": {
+      "code": "B29C43/32",
+      "level": 1,
+      "parent": "B29C43/00",
+      "ja": "構成部品，細部または付属装置；補助操作［４］",
+      "en": "Component parts, details or accessories; Auxiliary operations",
+      "count": 13994,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C43/34": {
+      "code": "B29C43/34",
+      "level": 2,
+      "parent": "B29C43/32",
+      "ja": "型または圧縮装置への成形材料の供給［４］",
+      "en": "Feeding the material to the mould or the compression means",
+      "count": 9588,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C43/36": {
+      "code": "B29C43/36",
+      "level": 2,
+      "parent": "B29C43/32",
+      "ja": "一定長の物品，即ち不連続物品，を製造するための型［４］",
+      "en": "Moulds for making articles of definite length, i.e. discrete articles",
+      "count": 15377,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C43/38": {
+      "code": "B29C43/38",
+      "level": 3,
+      "parent": "B29C43/36",
+      "ja": "バリの除去手段を有するもの［４］",
+      "en": "with means to avoid flashes",
+      "count": 479,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C43/40": {
+      "code": "B29C43/40",
+      "level": 3,
+      "parent": "B29C43/36",
+      "ja": "成形品の切断手段を有するもの［４］",
+      "en": "with means for cutting the article",
+      "count": 924,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C43/42": {
+      "code": "B29C43/42",
+      "level": 3,
+      "parent": "B29C43/36",
+      "ja": "アンダーカット成形品のためのもの［４］",
+      "en": "for undercut articles",
+      "count": 708,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C43/44": {
+      "code": "B29C43/44",
+      "level": 2,
+      "parent": "B29C43/32",
+      "ja": "不定長の物品を製造するための圧縮手段［４］",
+      "en": "Compression means for making articles of indefinite length",
+      "count": 552,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C43/46": {
+      "code": "B29C43/46",
+      "level": 3,
+      "parent": "B29C43/44",
+      "ja": "ローラ［４］",
+      "en": "Rollers",
+      "count": 3267,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C43/48": {
+      "code": "B29C43/48",
+      "level": 3,
+      "parent": "B29C43/44",
+      "ja": "エンドレスベルト［４］",
+      "en": "Endless belts",
+      "count": 591,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C43/50": {
+      "code": "B29C43/50",
+      "level": 2,
+      "parent": "B29C43/32",
+      "ja": "成形品の取り出し［４］",
+      "en": "Removing moulded articles",
+      "count": 6154,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C43/52": {
+      "code": "B29C43/52",
+      "level": 2,
+      "parent": "B29C43/32",
+      "ja": "加熱または冷却［４］",
+      "en": "Heating or cooling",
+      "count": 11319,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C43/54": {
+      "code": "B29C43/54",
+      "level": 2,
+      "parent": "B29C43/32",
+      "ja": "体積の変化，例．収縮，の補償［４］",
+      "en": "Compensating volume change, e.g. retraction",
+      "count": 235,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C43/56": {
+      "code": "B29C43/56",
+      "level": 2,
+      "parent": "B29C43/32",
+      "ja": "特別の条件，例．真空，下での圧縮成形［４］",
+      "en": "Compression moulding under special conditions, e.g. vacuum",
+      "count": 2093,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C43/58": {
+      "code": "B29C43/58",
+      "level": 2,
+      "parent": "B29C43/32",
+      "ja": "計量，制御または調整［４］",
+      "en": "Measuring, controlling or regulating",
+      "count": 8147,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C44/00": {
+      "code": "B29C44/00",
+      "level": 0,
+      "parent": "B29C",
+      "ja": "材料の中で発生した内部圧による成形，例．膨張または発泡［６］",
+      "en": "Shaping by internal pressure generated in the material, e.g. swelling or foaming",
+      "count": 8395,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C44/02": {
+      "code": "B29C44/02",
+      "level": 1,
+      "parent": "B29C44/00",
+      "ja": "一定長の，つまり不連続の物品のための［６］",
+      "en": "for articles of definite length, i.e. discrete articles",
+      "count": 4586,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C44/04": {
+      "code": "B29C44/04",
+      "level": 2,
+      "parent": "B29C44/02",
+      "ja": "化学的もしくは物理的に異なる少なくとも２種の材料からなる，例．異なる密度を持った［６］",
+      "en": "consisting of at least two parts of chemically or physically different materials, e.g. having different densities",
+      "count": 2231,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C44/06": {
+      "code": "B29C44/06",
+      "level": 3,
+      "parent": "B29C44/04",
+      "ja": "多層の物品を作成する［６］",
+      "en": "Making multilayered articles",
+      "count": 1142,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C44/08": {
+      "code": "B29C44/08",
+      "level": 2,
+      "parent": "B29C44/02",
+      "ja": "複数の膨張段階を用いる［６］",
+      "en": "using several expanding steps",
+      "count": 864,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C44/10": {
+      "code": "B29C44/10",
+      "level": 2,
+      "parent": "B29C44/02",
+      "ja": "膨張中に逆圧を用いる［６］",
+      "en": "Applying counter-pressure during expanding",
+      "count": 401,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C44/12": {
+      "code": "B29C44/12",
+      "level": 2,
+      "parent": "B29C44/02",
+      "ja": "予備成形品の上に混入あるいは成形する，例．挿入物または補強材［６］",
+      "en": "Incorporating or moulding on preformed parts, e.g. inserts or reinforcements",
+      "count": 6241,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C44/14": {
+      "code": "B29C44/14",
+      "level": 3,
+      "parent": "B29C44/12",
+      "ja": "ライニングであるような予備成形品［６］",
+      "en": "the preformed part being a lining",
+      "count": 1643,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C44/16": {
+      "code": "B29C44/16",
+      "level": 4,
+      "parent": "B29C44/14",
+      "ja": "材料の膨張によって成形された［６］",
+      "en": "shaped by the expansion of the material",
+      "count": 390,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C44/18": {
+      "code": "B29C44/18",
+      "level": 3,
+      "parent": "B29C44/12",
+      "ja": "あらかじめ作ってあった空洞を埋める［６］",
+      "en": "Filling preformed cavities",
+      "count": 2072,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C44/20": {
+      "code": "B29C44/20",
+      "level": 1,
+      "parent": "B29C44/00",
+      "ja": "不定長の物品のための［６］",
+      "en": "for articles of indefinite length",
+      "count": 838,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C44/22": {
+      "code": "B29C44/22",
+      "level": 2,
+      "parent": "B29C44/20",
+      "ja": "化学的もしくは物理的に異なる少なくとも２種の材料からなる，例．異なる密度を持った［６］",
+      "en": "consisting of at least two parts of chemically or physically different materials, e.g. having different densities",
+      "count": 495,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C44/24": {
+      "code": "B29C44/24",
+      "level": 3,
+      "parent": "B29C44/22",
+      "ja": "多層の物品を作成する［６］",
+      "en": "Making multilayered articles",
+      "count": 423,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C44/26": {
+      "code": "B29C44/26",
+      "level": 2,
+      "parent": "B29C44/20",
+      "ja": "複数の膨張段階を用いる［６］",
+      "en": "using several expanding steps",
+      "count": 99,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C44/28": {
+      "code": "B29C44/28",
+      "level": 2,
+      "parent": "B29C44/20",
+      "ja": "連続的に動く表面上で成形材料を膨張させる［６］",
+      "en": "Expanding the moulding material on continuous moving surfaces",
+      "count": 424,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C44/30": {
+      "code": "B29C44/30",
+      "level": 2,
+      "parent": "B29C44/20",
+      "ja": "エンドレス・ベルトとローラーとの間で成形材料を膨張させる［６］",
+      "en": "Expanding the moulding material between endless belts or rollers",
+      "count": 752,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C44/32": {
+      "code": "B29C44/32",
+      "level": 2,
+      "parent": "B29C44/20",
+      "ja": "予備成形品の上に混入あるいは成形する，例．ライニング，挿入物または補強材［６］",
+      "en": "Incorporating or moulding on preformed parts, e.g. linings, inserts or reinforcements",
+      "count": 1446,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C44/34": {
+      "code": "B29C44/34",
+      "level": 1,
+      "parent": "B29C44/00",
+      "ja": "構成部品，細部，または付属装置；補助操作［６］",
+      "en": "Component parts, details or accessories; Auxiliary operations",
+      "count": 16864,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C44/36": {
+      "code": "B29C44/36",
+      "level": 2,
+      "parent": "B29C44/34",
+      "ja": "形成すべき材料の供給［６］",
+      "en": "Feeding the material to be shaped",
+      "count": 1349,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C44/38": {
+      "code": "B29C44/38",
+      "level": 3,
+      "parent": "B29C44/36",
+      "ja": "閉鎖空間への，例．一定長の物品を作るため［６］",
+      "en": "into a closed space, i.e. to make articles of definite length",
+      "count": 1183,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C44/40": {
+      "code": "B29C44/40",
+      "level": 4,
+      "parent": "B29C44/38",
+      "ja": "重力による，例．鋳造による［６］",
+      "en": "by gravity, e.g. by casting",
+      "count": 376,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C44/42": {
+      "code": "B29C44/42",
+      "level": 4,
+      "parent": "B29C44/38",
+      "ja": "圧力差を利用した，例．射出によるまたは真空による［６］",
+      "en": "using pressure difference, e.g. by injection or by vacuum",
+      "count": 2295,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C44/44": {
+      "code": "B29C44/44",
+      "level": 4,
+      "parent": "B29C44/38",
+      "ja": "膨張可能な粒子またはビーズの形で［６］",
+      "en": "in the form of expandable particles or beads",
+      "count": 1007,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C44/46": {
+      "code": "B29C44/46",
+      "level": 3,
+      "parent": "B29C44/36",
+      "ja": "開放空間または動く表面への，つまり，不定長の物品を作成するための［６］",
+      "en": "into an open space or onto moving surfaces, i.e. to make articles of indefinite length",
+      "count": 712,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C44/48": {
+      "code": "B29C44/48",
+      "level": 4,
+      "parent": "B29C44/46",
+      "ja": "重力による，例．動く表面の上，またはその間での鋳造［６］",
+      "en": "by gravity, e.g. casting onto, or between, moving surfaces",
+      "count": 88,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C44/50": {
+      "code": "B29C44/50",
+      "level": 4,
+      "parent": "B29C44/46",
+      "ja": "圧力差を用いた，例．押出しによるまたは吹きつけによる［６］",
+      "en": "using pressure difference, e.g. by extrusion or by spraying",
+      "count": 1165,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C44/52": {
+      "code": "B29C44/52",
+      "level": 5,
+      "parent": "B29C44/50",
+      "ja": "動く表面間の［６］",
+      "en": "between moving surfaces",
+      "count": 48,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C44/54": {
+      "code": "B29C44/54",
+      "level": 4,
+      "parent": "B29C44/46",
+      "ja": "膨張可能な粒子またはビーズの形で［６］",
+      "en": "in the form of expandable particles or beads",
+      "count": 109,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C44/56": {
+      "code": "B29C44/56",
+      "level": 2,
+      "parent": "B29C44/34",
+      "ja": "物品の後処理，例．形を変更するため［６］",
+      "en": "After-treatment of articles, e.g. for altering the shape",
+      "count": 2850,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C44/58": {
+      "code": "B29C44/58",
+      "level": 2,
+      "parent": "B29C44/34",
+      "ja": "型［６］",
+      "en": "Moulds",
+      "count": 7939,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C44/60": {
+      "code": "B29C44/60",
+      "level": 2,
+      "parent": "B29C44/34",
+      "ja": "計量，制御，または調整［６］",
+      "en": "Measuring, controlling or regulating",
+      "count": 3467,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C45/00": {
+      "code": "B29C45/00",
+      "level": 0,
+      "parent": "B29C",
+      "ja": "射出成形，即ち所要量の成形材料をノズルを介して閉鎖型内へ流入させるもの；そのための装置（射出ブロー成形Ｂ２９Ｃ４９／０６）［４］",
+      "en": "Injection moulding, i.e. forcing the required volume of moulding material through a nozzle into a closed mould; Apparatus therefor(injection blow-moulding <b>B29C49/06</b>)",
+      "count": 45180,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C45/02": {
+      "code": "B29C45/02",
+      "level": 1,
+      "parent": "B29C45/00",
+      "ja": "トランスファー成形，即ち所要量の成形材料をプランジャによってショットキャビティから型キャビティへ移送するもの［４］",
+      "en": "Transfer moulding, i.e. transferring the required volume of moulding material by a plunger from a \"shot\" cavity into a mould cavity",
+      "count": 5763,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C45/03": {
+      "code": "B29C45/03",
+      "level": 1,
+      "parent": "B29C45/00",
+      "ja": "射出成形機（トランスファー成形Ｂ２９Ｃ４５／０２）［４］",
+      "en": "Injection moulding apparatus(transfer moulding <b>B29C45/02</b>)",
+      "count": 8075,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C45/04": {
+      "code": "B29C45/04",
+      "level": 2,
+      "parent": "B29C45/03",
+      "ja": "可動金型を用いるもの（Ｂ２９Ｃ４５／０８が優先）［４］",
+      "en": "using movable moulds(<b>B29C45/08</b> takes precedence)",
+      "count": 3051,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C45/06": {
+      "code": "B29C45/06",
+      "level": 3,
+      "parent": "B29C45/04",
+      "ja": "ターンテーブル上にあるもの［４］",
+      "en": "on a turntable",
+      "count": 2934,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C45/07": {
+      "code": "B29C45/07",
+      "level": 2,
+      "parent": "B29C45/03",
+      "ja": "可動な射出ユニットを用いるもの［４］",
+      "en": "using movable injection units",
+      "count": 1359,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C45/08": {
+      "code": "B29C45/08",
+      "level": 3,
+      "parent": "B29C45/07",
+      "ja": "射出工程中に型といっしょに移動するもの［４］",
+      "en": "moving with the mould during the injection operation",
+      "count": 126,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C45/10": {
+      "code": "B29C45/10",
+      "level": 2,
+      "parent": "B29C45/03",
+      "ja": "相互に異った配置もしくは組合わせで使用できる金型または射出ユニットを用いるもの［４］",
+      "en": "using moulds or injection units usable in different arrangements or combinations to each other",
+      "count": 895,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C45/12": {
+      "code": "B29C45/12",
+      "level": 2,
+      "parent": "B29C45/03",
+      "ja": "２つまたはそれ以上の固定金型を用いるもの，例．タンデム式［４］",
+      "en": "using two or more fixed moulds, e.g. in tandem",
+      "count": 965,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C45/13": {
+      "code": "B29C45/13",
+      "level": 2,
+      "parent": "B29C45/03",
+      "ja": "１つの金型と協働する２つまたはそれ以上の射出ユニットを用いるもの［４］",
+      "en": "using two or more injection units co-operating with a single mould",
+      "count": 1108,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C45/14": {
+      "code": "B29C45/14",
+      "level": 1,
+      "parent": "B29C45/00",
+      "ja": "あらかじめ形成された部品または層状物品と一体化するもの，例．挿入物の周囲へまたは物品を被覆するための射出成形［４］",
+      "en": "incorporating preformed parts or layers, e.g. injection moulding around inserts or for coating articles",
+      "count": 60551,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C45/16": {
+      "code": "B29C45/16",
+      "level": 1,
+      "parent": "B29C45/00",
+      "ja": "多層または多色物品の製造［４］",
+      "en": "Making multilayered or multicoloured articles",
+      "count": 19520,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C45/17": {
+      "code": "B29C45/17",
+      "level": 1,
+      "parent": "B29C45/00",
+      "ja": "構成部品，細部または付属装置；補助操作［４］",
+      "en": "Component parts, details or accessories; Auxiliary operations",
+      "count": 55375,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C45/18": {
+      "code": "B29C45/18",
+      "level": 2,
+      "parent": "B29C45/17",
+      "ja": "射出成形機への材料の供給［４］",
+      "en": "Feeding the material into the injection moulding apparatus",
+      "count": 14135,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C45/20": {
+      "code": "B29C45/20",
+      "level": 2,
+      "parent": "B29C45/17",
+      "ja": "射出ノズル［４］",
+      "en": "Injection nozzles",
+      "count": 6115,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C45/22": {
+      "code": "B29C45/22",
+      "level": 3,
+      "parent": "B29C45/20",
+      "ja": "複数ノズル方式［４］",
+      "en": "Multiple nozzle systems",
+      "count": 1040,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C45/23": {
+      "code": "B29C45/23",
+      "level": 3,
+      "parent": "B29C45/20",
+      "ja": "供給停止装置［４］",
+      "en": "Feed stopping equipment",
+      "count": 2327,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C45/24": {
+      "code": "B29C45/24",
+      "level": 3,
+      "parent": "B29C45/20",
+      "ja": "清掃装置［４］",
+      "en": "Cleaning equipment",
+      "count": 808,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C45/26": {
+      "code": "B29C45/26",
+      "level": 2,
+      "parent": "B29C45/17",
+      "ja": "金型［４］",
+      "en": "Moulds",
+      "count": 97717,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C45/27": {
+      "code": "B29C45/27",
+      "level": 3,
+      "parent": "B29C45/26",
+      "ja": "スプルー溝［４］",
+      "en": "Sprue channels",
+      "count": 23226,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C45/28": {
+      "code": "B29C45/28",
+      "level": 4,
+      "parent": "B29C45/27",
+      "ja": "その遮断装置［４］",
+      "en": "Closure devices therefor",
+      "count": 5185,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C45/30": {
+      "code": "B29C45/30",
+      "level": 4,
+      "parent": "B29C45/27",
+      "ja": "スプルー溝内に配置されている流量制御手段，例．“トーピード”［４］",
+      "en": "Flow control means disposed within the sprue channel, e.g. \"torpedo\" construction",
+      "count": 1612,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C45/32": {
+      "code": "B29C45/32",
+      "level": 3,
+      "parent": "B29C45/26",
+      "ja": "軸方向に間隔を置いて配置されている複数の金型キャビティを有するもの［４］",
+      "en": "having several axially spaced mould cavities",
+      "count": 3516,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C45/33": {
+      "code": "B29C45/33",
+      "level": 3,
+      "parent": "B29C45/26",
+      "ja": "横方向，例．放射状，に移動できる金型部品を有するもの［４］",
+      "en": "having transversely, e.g. radially, movable mould parts",
+      "count": 22071,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C45/34": {
+      "code": "B29C45/34",
+      "level": 3,
+      "parent": "B29C45/26",
+      "ja": "ベント装置を有するもの［４］",
+      "en": "having venting means",
+      "count": 7947,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C45/36": {
+      "code": "B29C45/36",
+      "level": 3,
+      "parent": "B29C45/26",
+      "ja": "コアを位置決めまたは心合わせする手段を有するもの［４］",
+      "en": "having means for locating or centering cores",
+      "count": 3938,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C45/37": {
+      "code": "B29C45/37",
+      "level": 3,
+      "parent": "B29C45/26",
+      "ja": "型キャビティ壁［４］",
+      "en": "Mould cavity walls",
+      "count": 5751,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C45/38": {
+      "code": "B29C45/38",
+      "level": 2,
+      "parent": "B29C45/17",
+      "ja": "スプルーまたはインゲートのための切断装置［４］",
+      "en": "Cutting-off equipment for sprues or ingates",
+      "count": 11379,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C45/40": {
+      "code": "B29C45/40",
+      "level": 2,
+      "parent": "B29C45/17",
+      "ja": "成形品の取り出しまたは突き出し［４］",
+      "en": "Removing or ejecting moulded articles",
+      "count": 47189,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C45/42": {
+      "code": "B29C45/42",
+      "level": 3,
+      "parent": "B29C45/40",
+      "ja": "型外から型部品間へ移動する手段を用いるもの［４］",
+      "en": "using means movable from outside the mould between mould parts",
+      "count": 8334,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C45/43": {
+      "code": "B29C45/43",
+      "level": 3,
+      "parent": "B29C45/40",
+      "ja": "加圧流体を用いるもの［４］",
+      "en": "using fluid under pressure",
+      "count": 2950,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C45/44": {
+      "code": "B29C45/44",
+      "level": 3,
+      "parent": "B29C45/40",
+      "ja": "アンダーカット成形品のためのもの［４］",
+      "en": "for undercut articles",
+      "count": 11294,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C45/46": {
+      "code": "B29C45/46",
+      "level": 2,
+      "parent": "B29C45/17",
+      "ja": "成形材料を可塑化，均質化または金型内に圧入するための手段［４］",
+      "en": "Means for plasticising or homogenising the moulding material or forcing it into the mould",
+      "count": 4226,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C45/47": {
+      "code": "B29C45/47",
+      "level": 3,
+      "parent": "B29C45/46",
+      "ja": "スクリューを用いるもの（Ｂ２９Ｃ４５／５４が優先）［４］",
+      "en": "using screws(<b>B29C45/54</b> takes precedence)",
+      "count": 3155,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C45/48": {
+      "code": "B29C45/48",
+      "level": 4,
+      "parent": "B29C45/47",
+      "ja": "可塑化スクリュー及び射出スクリュー［４］",
+      "en": "Plasticising screw and injection screw",
+      "count": 565,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C45/50": {
+      "code": "B29C45/50",
+      "level": 4,
+      "parent": "B29C45/47",
+      "ja": "軸方向に可動なスクリュー［４］",
+      "en": "Axially movable screw",
+      "count": 3975,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C45/52": {
+      "code": "B29C45/52",
+      "level": 5,
+      "parent": "B29C45/50",
+      "ja": "逆流防止装置［４］",
+      "en": "Non-return devices",
+      "count": 926,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C45/53": {
+      "code": "B29C45/53",
+      "level": 3,
+      "parent": "B29C45/46",
+      "ja": "射出ラムまたはピストンを用いるもの［４］",
+      "en": "using injection ram or piston",
+      "count": 3038,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C45/54": {
+      "code": "B29C45/54",
+      "level": 4,
+      "parent": "B29C45/53",
+      "ja": "可塑化スクリューを有するもの［４］",
+      "en": "and plasticising screw",
+      "count": 1897,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C45/56": {
+      "code": "B29C45/56",
+      "level": 3,
+      "parent": "B29C45/46",
+      "ja": "射出中または射出後に可動な金型部品を用いるもの，例．射出圧縮成形［４］",
+      "en": "using mould parts movable during or after injection, e.g. injection-compression moulding",
+      "count": 4783,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C45/57": {
+      "code": "B29C45/57",
+      "level": 3,
+      "parent": "B29C45/46",
+      "ja": "成形材料へ後加工圧力を作用させるもの［４］",
+      "en": "Exerting after-pressure on the moulding material",
+      "count": 1806,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C45/58": {
+      "code": "B29C45/58",
+      "level": 3,
+      "parent": "B29C45/46",
+      "ja": "細部［４］",
+      "en": "Details",
+      "count": 3226,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C45/60": {
+      "code": "B29C45/60",
+      "level": 4,
+      "parent": "B29C45/58",
+      "ja": "スクリュー［４］",
+      "en": "Screws",
+      "count": 2971,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C45/62": {
+      "code": "B29C45/62",
+      "level": 4,
+      "parent": "B29C45/58",
+      "ja": "バレルまたはシリンダー［４］",
+      "en": "Barrels or cylinders",
+      "count": 2149,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C45/63": {
+      "code": "B29C45/63",
+      "level": 4,
+      "parent": "B29C45/58",
+      "ja": "ベントまたはガス抜き手段［４］",
+      "en": "Venting or degassing means",
+      "count": 1370,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C45/64": {
+      "code": "B29C45/64",
+      "level": 2,
+      "parent": "B29C45/17",
+      "ja": "型開き，型閉めまたはクランプ装置［４］",
+      "en": "Mould opening, closing or clamping devices",
+      "count": 6830,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C45/66": {
+      "code": "B29C45/66",
+      "level": 3,
+      "parent": "B29C45/64",
+      "ja": "機械式［４］",
+      "en": "mechanical",
+      "count": 7289,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C45/67": {
+      "code": "B29C45/67",
+      "level": 3,
+      "parent": "B29C45/64",
+      "ja": "液圧式［４］",
+      "en": "hydraulic",
+      "count": 6755,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C45/68": {
+      "code": "B29C45/68",
+      "level": 3,
+      "parent": "B29C45/64",
+      "ja": "液圧―機械式［４］",
+      "en": "hydro-mechanical",
+      "count": 2150,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C45/70": {
+      "code": "B29C45/70",
+      "level": 2,
+      "parent": "B29C45/17",
+      "ja": "型開き，型閉めまたはクランプ装置と組み合わせた，成形材料を可塑化もしくは均質化または型内に圧入するための手段［４］",
+      "en": "Means for plasticising or homogenising the moulding material or forcing it into the mould, combined with mould opening, closing or clamping devices",
+      "count": 1815,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C45/72": {
+      "code": "B29C45/72",
+      "level": 2,
+      "parent": "B29C45/17",
+      "ja": "加熱または冷却［４］",
+      "en": "Heating or cooling",
+      "count": 8831,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C45/73": {
+      "code": "B29C45/73",
+      "level": 3,
+      "parent": "B29C45/72",
+      "ja": "金型の［４］",
+      "en": "of the mould",
+      "count": 35578,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C45/74": {
+      "code": "B29C45/74",
+      "level": 3,
+      "parent": "B29C45/72",
+      "ja": "射出ユニットの［４］",
+      "en": "of the injection unit",
+      "count": 6374,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C45/76": {
+      "code": "B29C45/76",
+      "level": 2,
+      "parent": "B29C45/17",
+      "ja": "計量，制御または調整［４］",
+      "en": "Measuring, controlling or regulating",
+      "count": 21969,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C45/77": {
+      "code": "B29C45/77",
+      "level": 3,
+      "parent": "B29C45/76",
+      "ja": "成形材料の速度または圧力の［４］",
+      "en": "of velocity or pressure of moulding material",
+      "count": 6997,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C45/78": {
+      "code": "B29C45/78",
+      "level": 3,
+      "parent": "B29C45/76",
+      "ja": "温度の［４］",
+      "en": "of temperature",
+      "count": 10199,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C45/80": {
+      "code": "B29C45/80",
+      "level": 3,
+      "parent": "B29C45/76",
+      "ja": "金型部品の相対位置の［４］",
+      "en": "of relative position of mould parts",
+      "count": 3238,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C45/82": {
+      "code": "B29C45/82",
+      "level": 3,
+      "parent": "B29C45/76",
+      "ja": "流体回路の［４］",
+      "en": "Hydraulic circuits",
+      "count": 2644,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C45/83": {
+      "code": "B29C45/83",
+      "level": 2,
+      "parent": "B29C45/17",
+      "ja": "潤滑手段［４］",
+      "en": "Lubricating means",
+      "count": 1380,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C45/84": {
+      "code": "B29C45/84",
+      "level": 2,
+      "parent": "B29C45/17",
+      "ja": "安全装置［４］",
+      "en": "Safety devices",
+      "count": 5873,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/00": {
+      "code": "B29C48/00",
+      "level": 0,
+      "parent": "B29C",
+      "ja": "押出成形，すなわち所定の形状を与えるダイまたはノズルを通して成形材料を押し出すもの；そのための装置（押出ブロー成形Ｂ２９Ｃ４９／０４）［２０１９．０１］",
+      "en": "Extrusion moulding, i.e. expressing the moulding material through a die or nozzle which imparts the desired form; Apparatus therefor(extrusion blow-moulding <b>B29C49/04</b>)",
+      "count": 13574,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/02": {
+      "code": "B29C48/02",
+      "level": 1,
+      "parent": "B29C48/00",
+      "ja": "小型押出機，例．手持ち型，玩具または実験室用押出機［２０１９．０１］",
+      "en": "Small extruding apparatus, e.g. handheld, toy or laboratory extruders",
+      "count": 490,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/025": {
+      "code": "B29C48/025",
+      "level": 1,
+      "parent": "B29C48/00",
+      "ja": "工場内での一般的な配置またはレイアウト［２０１９．０１］",
+      "en": "General arrangement or layout of plant",
+      "count": 883,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/03": {
+      "code": "B29C48/03",
+      "level": 1,
+      "parent": "B29C48/00",
+      "ja": "押出時の押出された材料の形状に特徴のあるもの［２０１９．０１］",
+      "en": "characterised by the shape of the extruded material at extrusion ",
+      "count": 5527,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/04": {
+      "code": "B29C48/04",
+      "level": 2,
+      "parent": "B29C48/03",
+      "ja": "粒状のもの（造粒Ｂ２９Ｂ９／００）［２０１９．０１］",
+      "en": "Particle-shaped(making granules <b>B29B9/00</b>)",
+      "count": 2128,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/05": {
+      "code": "B29C48/05",
+      "level": 2,
+      "parent": "B29C48/03",
+      "ja": "フィラメント状のもの，例．ストランド［２０１９．０１］",
+      "en": "Filamentary, e.g. strands",
+      "count": 7010,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/06": {
+      "code": "B29C48/06",
+      "level": 2,
+      "parent": "B29C48/03",
+      "ja": "棒状のもの［２０１９．０１］",
+      "en": "Rod-shaped",
+      "count": 5412,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/07": {
+      "code": "B29C48/07",
+      "level": 2,
+      "parent": "B29C48/03",
+      "ja": "平面状のもの，例．パネル［２０１９．０１］",
+      "en": "Flat, e.g. panels",
+      "count": 6334,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/08": {
+      "code": "B29C48/08",
+      "level": 3,
+      "parent": "B29C48/07",
+      "ja": "可撓性のもの，例．フィルム［２０１９．０１］",
+      "en": "flexible, e.g. films",
+      "count": 14695,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/09": {
+      "code": "B29C48/09",
+      "level": 2,
+      "parent": "B29C48/03",
+      "ja": "部分的または完全に閉鎖した空洞を断面に有するもの，例．パイプまたはチャンネル［２０１９．０１］",
+      "en": "Articles with cross-sections having partially or fully enclosed cavities, e.g. pipes or channels",
+      "count": 14790,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/10": {
+      "code": "B29C48/10",
+      "level": 3,
+      "parent": "B29C48/09",
+      "ja": "可撓性のもの，例．ブロー成形したフォイル［２０１９．０１］",
+      "en": "flexible, e.g. blown foils",
+      "count": 6565,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/11": {
+      "code": "B29C48/11",
+      "level": 3,
+      "parent": "B29C48/09",
+      "ja": "２つ以上の部分的または完全に閉鎖した空洞を含むもの，例．ハニカム形状のもの［２０１９．０１］",
+      "en": "comprising two or more partially or fully enclosed cavities, e.g. honeycomb-shaped",
+      "count": 1448,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/12": {
+      "code": "B29C48/12",
+      "level": 2,
+      "parent": "B29C48/03",
+      "ja": "断面に不規則な外周を有するもの，例．窓のプロファイル［２０１９．０１］",
+      "en": "Articles with an irregular circumference when viewed in cross-section, e.g. window profiles",
+      "count": 4362,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/13": {
+      "code": "B29C48/13",
+      "level": 2,
+      "parent": "B29C48/03",
+      "ja": "長手方向に変化する断面を有するもの，例．波形管［２０１９．０１］",
+      "en": "Articles with a cross-section varying in the longitudinal direction, e.g. corrugated pipes",
+      "count": 2081,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/14": {
+      "code": "B29C48/14",
+      "level": 1,
+      "parent": "B29C48/00",
+      "ja": "特殊な押出条件に特徴のあるもの，例．調整された雰囲気条件または振動を使用するもの［２０１９．０１］",
+      "en": "characterised by the particular extruding conditions, e.g. in a modified atmosphere or by using vibration",
+      "count": 505,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/15": {
+      "code": "B29C48/15",
+      "level": 1,
+      "parent": "B29C48/00",
+      "ja": "あらかじめ形成された部品または層状物品と一体化するもの，例．挿入物の周囲の押出成形［２０１９．０１］",
+      "en": "incorporating preformed parts or layers, e.g. extrusion moulding around inserts",
+      "count": 3037,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/151": {
+      "code": "B29C48/151",
+      "level": 2,
+      "parent": "B29C48/15",
+      "ja": "中空物品の被覆［２０１９．０１］",
+      "en": "Coating hollow articles",
+      "count": 1395,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/152": {
+      "code": "B29C48/152",
+      "level": 3,
+      "parent": "B29C48/151",
+      "ja": "内面の被覆［２０１９．０１］",
+      "en": "the inner surfaces thereof",
+      "count": 165,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/153": {
+      "code": "B29C48/153",
+      "level": 4,
+      "parent": "B29C48/152",
+      "ja": "内外両面の被覆［２０１９．０１］",
+      "en": "Coating both inner and outer surfaces",
+      "count": 458,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/154": {
+      "code": "B29C48/154",
+      "level": 2,
+      "parent": "B29C48/15",
+      "ja": "中実物品の被覆，すなわち非中空物品［２０１９．０１］",
+      "en": "Coating solid articles, i.e. non-hollow articles",
+      "count": 3586,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/155": {
+      "code": "B29C48/155",
+      "level": 3,
+      "parent": "B29C48/154",
+      "ja": "部分被覆［２０１９．０１］",
+      "en": "Partial coating thereof",
+      "count": 505,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/156": {
+      "code": "B29C48/156",
+      "level": 2,
+      "parent": "B29C48/15",
+      "ja": "２つ以上の物品の同時被覆［２０１９．０１］",
+      "en": "Coating two or more articles simultaneously",
+      "count": 527,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/157": {
+      "code": "B29C48/157",
+      "level": 2,
+      "parent": "B29C48/15",
+      "ja": "連結された挿入物の被覆，例．チェーン［２０１９．０１］",
+      "en": "Coating linked inserts, e.g. chains",
+      "count": 165,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/16": {
+      "code": "B29C48/16",
+      "level": 1,
+      "parent": "B29C48/00",
+      "ja": "２つ以上の構成要素を含むもの，例．共押出層［２０１９．０１］",
+      "en": "Articles comprising two or more components, e.g. co-extruded layers",
+      "count": 1325,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/17": {
+      "code": "B29C48/17",
+      "level": 2,
+      "parent": "B29C48/16",
+      "ja": "異なる色を有するもの［２０１９．０１］",
+      "en": "the components having different colours",
+      "count": 892,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/18": {
+      "code": "B29C48/18",
+      "level": 2,
+      "parent": "B29C48/16",
+      "ja": "複数の層を有するもの［２０１９．０１］",
+      "en": "the components being layers",
+      "count": 3797,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/19": {
+      "code": "B29C48/19",
+      "level": 3,
+      "parent": "B29C48/18",
+      "ja": "層が互いに縁で接合されたもの［２０１９．０１］",
+      "en": "the layers being joined at their edges",
+      "count": 504,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/20": {
+      "code": "B29C48/20",
+      "level": 3,
+      "parent": "B29C48/18",
+      "ja": "層の１つがストリップであるもの，例．部分的に埋め込まれたストリップ［２０１９．０１］",
+      "en": "one of the layers being a strip, e.g. a partially embedded strip",
+      "count": 249,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/21": {
+      "code": "B29C48/21",
+      "level": 3,
+      "parent": "B29C48/18",
+      "ja": "層が互いに面で接合されたもの［２０１９．０１］",
+      "en": "the layers being joined at their surfaces",
+      "count": 5190,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/22": {
+      "code": "B29C48/22",
+      "level": 3,
+      "parent": "B29C48/18",
+      "ja": "層を結合する手段，例．結合層または切り込み，を用いるもの［２０１９．０１］",
+      "en": "with means connecting the layers, e.g. tie layers or undercuts",
+      "count": 190,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/23": {
+      "code": "B29C48/23",
+      "level": 3,
+      "parent": "B29C48/18",
+      "ja": "層の付着を防ぐための手段，例．剥離可能な層の形成のための手段，を用いるもの［２０１９．０１］",
+      "en": "with means for avoiding adhesion of the layers, e.g. for forming peelable layers",
+      "count": 69,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/25": {
+      "code": "B29C48/25",
+      "level": 1,
+      "parent": "B29C48/00",
+      "ja": "構成部品，細部または付属装置；補助操作［２０１９．０１］",
+      "en": "Component parts, details or accessories; Auxiliary operations",
+      "count": 12249,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/255": {
+      "code": "B29C48/255",
+      "level": 2,
+      "parent": "B29C48/25",
+      "ja": "流量制御手段，例．弁（分配器Ｂ２９Ｃ４８／６９５）［２０１９．０１］",
+      "en": "Flow control means, e.g. valves(flow dividers <b>B29C48/695</b>)",
+      "count": 574,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/265": {
+      "code": "B29C48/265",
+      "level": 2,
+      "parent": "B29C48/25",
+      "ja": "支持構造または装置用基台，例．フレーム［２０１９．０１］",
+      "en": "Support structures or bases for apparatus, e.g. frames",
+      "count": 1064,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/27": {
+      "code": "B29C48/27",
+      "level": 2,
+      "parent": "B29C48/25",
+      "ja": "洗浄；パージ；汚染防止［２０１９．０１］",
+      "en": "Cleaning; Purging; Avoiding contamination",
+      "count": 5479,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/275": {
+      "code": "B29C48/275",
+      "level": 2,
+      "parent": "B29C48/25",
+      "ja": "エネルギーまたは材料の再生または再利用［２０１９．０１］",
+      "en": "Recovery or reuse of energy or materials",
+      "count": 974,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/28": {
+      "code": "B29C48/28",
+      "level": 2,
+      "parent": "B29C48/25",
+      "ja": "押出された材料の保管，例．巻き上げまたは積み重ね［２０１９．０１］",
+      "en": "Storing of extruded material, e.g. by winding up or stacking",
+      "count": 2072,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/285": {
+      "code": "B29C48/285",
+      "level": 2,
+      "parent": "B29C48/25",
+      "ja": "押出機への押出材料の供給［２０１９．０１］",
+      "en": "Feeding the extrusion material to the extruder",
+      "count": 12948,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/29": {
+      "code": "B29C48/29",
+      "level": 3,
+      "parent": "B29C48/285",
+      "ja": "液体で［２０１９．０１］",
+      "en": "in liquid form",
+      "count": 1463,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/295": {
+      "code": "B29C48/295",
+      "level": 3,
+      "parent": "B29C48/285",
+      "ja": "気体で［２０１９．０１］",
+      "en": "in gaseous form",
+      "count": 172,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/30": {
+      "code": "B29C48/30",
+      "level": 2,
+      "parent": "B29C48/25",
+      "ja": "押出ノズルまたはダイ（押出物品の形状または断面に特徴のある押出Ｂ２９Ｃ４８／０３）［２０１９．０１］",
+      "en": "Extrusion nozzles or dies(extrusion characterised by the shape or cross-section of the extruded article <b>B29C48/03</b>)",
+      "count": 12219,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/305": {
+      "code": "B29C48/305",
+      "level": 3,
+      "parent": "B29C48/30",
+      "ja": "広い開口部を有するもの，例．シート成形用［２０１９．０１］",
+      "en": "having a wide opening, e.g. for forming sheets",
+      "count": 6669,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/31": {
+      "code": "B29C48/31",
+      "level": 4,
+      "parent": "B29C48/305",
+      "ja": "調節可能なもの［２０１９．０１］",
+      "en": "adjustable",
+      "count": 2366,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/315": {
+      "code": "B29C48/315",
+      "level": 4,
+      "parent": "B29C48/305",
+      "ja": "互いに振動する部分を有するもの［２０１９．０１］",
+      "en": "with parts oscillating relative to each other",
+      "count": 145,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/32": {
+      "code": "B29C48/32",
+      "level": 3,
+      "parent": "B29C48/30",
+      "ja": "管状開口を有するもの，例．管状物品を成形するためのもの［２０１９．０１］",
+      "en": "with annular openings, e.g. for forming tubular articles",
+      "count": 9695,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/325": {
+      "code": "B29C48/325",
+      "level": 4,
+      "parent": "B29C48/32",
+      "ja": "調節可能なもの［２０１９．０１］",
+      "en": "adjustable",
+      "count": 2051,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/33": {
+      "code": "B29C48/33",
+      "level": 4,
+      "parent": "B29C48/32",
+      "ja": "互いに回転する部分を有するもの［２０１９．０１］",
+      "en": "with parts rotatable relative to each other",
+      "count": 1172,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/335": {
+      "code": "B29C48/335",
+      "level": 4,
+      "parent": "B29C48/32",
+      "ja": "同軸配置された多層管状押出ノズル，例．多層管状物品の製造のためのもの［２０１９．０１］",
+      "en": "Multiple annular extrusion nozzles in coaxial arrangement, e.g. for making multi-layered tubular articles",
+      "count": 1716,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/34": {
+      "code": "B29C48/34",
+      "level": 4,
+      "parent": "B29C48/32",
+      "ja": "クロスヘッド管状押出ノズル，すなわち成形材料を受けると同時に予備成形品を被覆するためのもの［２０１９．０１］",
+      "en": "Cross-head annular extrusion nozzles, i.e. for simultaneously receiving moulding material and the preform to be coated",
+      "count": 2997,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/345": {
+      "code": "B29C48/345",
+      "level": 3,
+      "parent": "B29C48/30",
+      "ja": "同時に複数のストランドを押し出すために近接して配置された２つ以上のポートを含む押出ノズル，例．ペレット化のためのもの［２０１９．０１］",
+      "en": "Extrusion nozzles comprising two or more adjacently arranged ports, for simultaneously extruding multiple strands, e.g. for pelletising",
+      "count": 2891,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/35": {
+      "code": "B29C48/35",
+      "level": 3,
+      "parent": "B29C48/30",
+      "ja": "ローラを有するもの［２０１９．０１］",
+      "en": "with rollers",
+      "count": 972,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/355": {
+      "code": "B29C48/355",
+      "level": 2,
+      "parent": "B29C48/25",
+      "ja": "押出された物品用コンベアー［２０１９．０１］",
+      "en": "Conveyors for extruded articles",
+      "count": 6181,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/36": {
+      "code": "B29C48/36",
+      "level": 2,
+      "parent": "B29C48/25",
+      "ja": "成形材料を可塑化もしくは均質化するためまたは押出ノズルもしくはダイに通すための手段［２０１９．０１］",
+      "en": "Means for plasticising or homogenising the moulding material or forcing it through the nozzle or die",
+      "count": 857,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/365": {
+      "code": "B29C48/365",
+      "level": 3,
+      "parent": "B29C48/36",
+      "ja": "ポンプを用いるもの，例．ピストンポンプ［２０１９．０１］",
+      "en": "using pumps, e.g. piston pumps",
+      "count": 235,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/37": {
+      "code": "B29C48/37",
+      "level": 4,
+      "parent": "B29C48/365",
+      "ja": "ギアポンプ［２０１９．０１］",
+      "en": "Gear pumps",
+      "count": 505,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/375": {
+      "code": "B29C48/375",
+      "level": 3,
+      "parent": "B29C48/36",
+      "ja": "２つ以上の段階を含む可塑化装置，均質化装置または供給装置［２０１９．０１］",
+      "en": "Plasticisers, homogenisers or feeders comprising two or more stages",
+      "count": 345,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/38": {
+      "code": "B29C48/38",
+      "level": 4,
+      "parent": "B29C48/375",
+      "ja": "同一バレル内にある２つ以上の連続して配置されたスクリューを用いるもの［２０１９．０１］",
+      "en": "using two or more serially arranged screws in the same barrel",
+      "count": 1559,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/385": {
+      "code": "B29C48/385",
+      "level": 4,
+      "parent": "B29C48/375",
+      "ja": "異なるバレル内にある２つ以上の連続して配置されたスクリューを用いるもの［２０１９．０１］",
+      "en": "using two or more serially arranged screws in separate barrels",
+      "count": 651,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/39": {
+      "code": "B29C48/39",
+      "level": 4,
+      "parent": "B29C48/375",
+      "ja": "第１の押出機により溶融物が第２の押出機の中間位置に供給されるもの［２０１９．０１］",
+      "en": "a first extruder feeding the melt into an intermediate location of a second extruder",
+      "count": 453,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/395": {
+      "code": "B29C48/395",
+      "level": 3,
+      "parent": "B29C48/36",
+      "ja": "協働するバレルに囲まれたスクリューを用いるもの，例．一軸スクリュー押出機［２０１９．０１］",
+      "en": "using screws surrounded by a cooperating barrel, e.g. single screw extruders",
+      "count": 8004,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/40": {
+      "code": "B29C48/40",
+      "level": 4,
+      "parent": "B29C48/395",
+      "ja": "２つ以上の平行なスクリューを用いるもの，例．二軸スクリュー押出機［２０１９．０１］",
+      "en": "using two or more parallel screws, e.g. twin screw extruders",
+      "count": 4413,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/405": {
+      "code": "B29C48/405",
+      "level": 5,
+      "parent": "B29C48/40",
+      "ja": "かみ合う同方向回転スクリュー［２０１９．０１］",
+      "en": "Intermeshing co-rotating screws",
+      "count": 1060,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/41": {
+      "code": "B29C48/41",
+      "level": 5,
+      "parent": "B29C48/40",
+      "ja": "かみ合う反対方向回転スクリュー［２０１９．０１］",
+      "en": "Intermeshing counter-rotating screws",
+      "count": 682,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/415": {
+      "code": "B29C48/415",
+      "level": 5,
+      "parent": "B29C48/40",
+      "ja": "部分的にかみ合わないスクリューを有するもの［２０１９．０１］",
+      "en": "and having partially non-intermeshing screws",
+      "count": 27,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/42": {
+      "code": "B29C48/42",
+      "level": 5,
+      "parent": "B29C48/40",
+      "ja": "同一でないまたは酷似していないスクリュー［２０１９．０１］",
+      "en": "Non-identical or non-mirrored screws",
+      "count": 82,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/425": {
+      "code": "B29C48/425",
+      "level": 5,
+      "parent": "B29C48/40",
+      "ja": "３つ以上のスクリューを用いるもの（連続して配置されたスクリューＢ２９Ｃ４８／３８，Ｂ２９Ｃ４８／３８５）［２０１９．０１］",
+      "en": "using three or more screws(serially arranged screws <b>B29C48/38</b>, <b>B29C48/385</b>)",
+      "count": 246,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/43": {
+      "code": "B29C48/43",
+      "level": 6,
+      "parent": "B29C48/425",
+      "ja": "リング押出機［２０１９．０１］",
+      "en": "Ring extruders",
+      "count": 101,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/435": {
+      "code": "B29C48/435",
+      "level": 5,
+      "parent": "B29C48/40",
+      "ja": "補助スクリュー［２０１９．０１］",
+      "en": "Sub-screws",
+      "count": 97,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/44": {
+      "code": "B29C48/44",
+      "level": 6,
+      "parent": "B29C48/435",
+      "ja": "遊星スクリュー［２０１９．０１］",
+      "en": "Planetary screws",
+      "count": 362,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/445": {
+      "code": "B29C48/445",
+      "level": 4,
+      "parent": "B29C48/395",
+      "ja": "同軸に配置されたスクリュー，すなわち一方が他方の内部に配置されたもの［２０１９．０１］",
+      "en": "Coaxially arranged screws, i.e. one within the other",
+      "count": 220,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/45": {
+      "code": "B29C48/45",
+      "level": 4,
+      "parent": "B29C48/395",
+      "ja": "軸方向に可動なスクリュー［２０１９．０１］",
+      "en": "Axially movable screws",
+      "count": 371,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/455": {
+      "code": "B29C48/455",
+      "level": 4,
+      "parent": "B29C48/395",
+      "ja": "材料を互いの方向に運ぶように配置されたスクリュー，例．別々のスクリューが向き合って配置され，かつ反対方向に供給するもの［２０１９．０１］",
+      "en": "Screws arranged to convey material towards each other, e.g. separate screws arranged after each other and feeding in opposite directions",
+      "count": 184,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/46": {
+      "code": "B29C48/46",
+      "level": 3,
+      "parent": "B29C48/36",
+      "ja": "羽根を用いるもの［２０１９．０１］",
+      "en": "using vanes",
+      "count": 237,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/465": {
+      "code": "B29C48/465",
+      "level": 3,
+      "parent": "B29C48/36",
+      "ja": "ローラを用いるもの［２０１９．０１］",
+      "en": "using rollers",
+      "count": 326,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/47": {
+      "code": "B29C48/47",
+      "level": 3,
+      "parent": "B29C48/36",
+      "ja": "ディスクを用いるもの，例．同軸に配置された固定ディスク及び回転ディスクの間を通過させることにより成形材料を可塑化するもの［２０１９．０１］",
+      "en": "using discs, e.g. plasticising the moulding material by passing it between a fixed and a rotating disc that are coaxially arranged",
+      "count": 256,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/475": {
+      "code": "B29C48/475",
+      "level": 3,
+      "parent": "B29C48/36",
+      "ja": "ピストン，アキュムレータまたはプレスラムを用いるもの［２０１９．０１］",
+      "en": "using pistons, accumulators or press rams",
+      "count": 1280,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/48": {
+      "code": "B29C48/48",
+      "level": 4,
+      "parent": "B29C48/475",
+      "ja": "２つ以上のラムまたはピストンを用いるもの［２０１９．０１］",
+      "en": "Two or more rams or pistons",
+      "count": 171,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/485": {
+      "code": "B29C48/485",
+      "level": 4,
+      "parent": "B29C48/475",
+      "ja": "静水圧による押出［２０１９．０１］",
+      "en": "Hydrostatic extrusion",
+      "count": 14,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/49": {
+      "code": "B29C48/49",
+      "level": 3,
+      "parent": "B29C48/36",
+      "ja": "１つのダイまたはノズルに供給する２つ以上の押出機を用いるもの［２０１９．０１］",
+      "en": "using two or more extruders to feed one die or nozzle",
+      "count": 1653,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/495": {
+      "code": "B29C48/495",
+      "level": 4,
+      "parent": "B29C48/49",
+      "ja": "フィードブロック（複数の構成要素の押出成形Ｂ２９Ｃ４８／１６）［２０１９．０１］",
+      "en": "Feedblocks(extrusion moulding of multi-component articles <b>B29C48/16</b>)",
+      "count": 244,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/50": {
+      "code": "B29C48/50",
+      "level": 3,
+      "parent": "B29C48/36",
+      "ja": "押出機の細部［２０１９．０１］",
+      "en": "Details of extruders",
+      "count": 2449,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/505": {
+      "code": "B29C48/505",
+      "level": 4,
+      "parent": "B29C48/50",
+      "ja": "スクリュー［２０１９．０１］",
+      "en": "Screws",
+      "count": 1674,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/51": {
+      "code": "B29C48/51",
+      "level": 5,
+      "parent": "B29C48/505",
+      "ja": "内部流路を有するもの，例．溶融材料用［２０１９．０１］",
+      "en": "with internal flow passages, e.g. for molten material",
+      "count": 214,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/515": {
+      "code": "B29C48/515",
+      "level": 6,
+      "parent": "B29C48/51",
+      "ja": "補助流体用，例．発泡剤［２０１９．０１］",
+      "en": "for auxiliary fluids, e.g. foaming agents",
+      "count": 349,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/52": {
+      "code": "B29C48/52",
+      "level": 5,
+      "parent": "B29C48/505",
+      "ja": "長手方向に沿って変化する外径を有するもの，例．異なるネジ山クリアランスを得るためのもの［２０１９．０１］",
+      "en": "with an outer diameter varying along the longitudinal axis, e.g. for obtaining different thread clearance",
+      "count": 418,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/525": {
+      "code": "B29C48/525",
+      "level": 6,
+      "parent": "B29C48/52",
+      "ja": "円錐形スクリュー［２０１９．０１］",
+      "en": "Conical screws",
+      "count": 574,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/53": {
+      "code": "B29C48/53",
+      "level": 5,
+      "parent": "B29C48/505",
+      "ja": "深さが変化するチャンネルを有するもの，例．長手方向のスクリュー幹の直径が変わるもの［２０１９．０１］",
+      "en": "having a varying channel depth, e.g. varying the diameter of the longitudinal screw trunk",
+      "count": 954,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/535": {
+      "code": "B29C48/535",
+      "level": 5,
+      "parent": "B29C48/505",
+      "ja": "長手方向に沿ってネジ山ピッチが変化するもの［２０１９．０１］",
+      "en": "with thread pitch varying along the longitudinal axis",
+      "count": 761,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/54": {
+      "code": "B29C48/54",
+      "level": 5,
+      "parent": "B29C48/505",
+      "ja": "供給促進要素を有するもの［２０１９．０１］",
+      "en": "with additional forward-feeding elements",
+      "count": 229,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/55": {
+      "code": "B29C48/55",
+      "level": 5,
+      "parent": "B29C48/505",
+      "ja": "逆流要素を有するもの［２０１９．０１］",
+      "en": "having reverse-feeding elements",
+      "count": 297,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/56": {
+      "code": "B29C48/56",
+      "level": 5,
+      "parent": "B29C48/505",
+      "ja": "ネジ山またはチャンネル以外に溝または空洞を有するもの［２０１９．０１］",
+      "en": "having grooves or cavities other than the thread or the channel",
+      "count": 281,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/565": {
+      "code": "B29C48/565",
+      "level": 5,
+      "parent": "B29C48/505",
+      "ja": "ネジ山以外に突出部を有するもの，例．ピン［２０１９．０１］",
+      "en": "having projections other than the thread, e.g. pins",
+      "count": 419,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/57": {
+      "code": "B29C48/57",
+      "level": 5,
+      "parent": "B29C48/505",
+      "ja": "混錬するディスク状要素を有するもの，例．楕円形状要素［２０１９．０１］",
+      "en": "provided with kneading disc-like elements, e.g. with oval-shaped elements",
+      "count": 547,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/575": {
+      "code": "B29C48/575",
+      "level": 5,
+      "parent": "B29C48/505",
+      "ja": "溶融物をせん断するための概して円形の断面要素，すなわちせん断リング要素，を有するもの［２０１９．０１］",
+      "en": "provided with elements of a generally circular cross-section for shearing the melt, i.e. shear-ring elements",
+      "count": 137,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/58": {
+      "code": "B29C48/58",
+      "level": 5,
+      "parent": "B29C48/505",
+      "ja": "シールリング要素，すなわち溶融物の逆流防止のための概して円形状及びテーパー形状の要素，を有するもの［２０１９．０１］",
+      "en": "provided with seal ring elements, i.e. elements of generally circular and tapered shape for preventing the back flow of the melt",
+      "count": 102,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/585": {
+      "code": "B29C48/585",
+      "level": 5,
+      "parent": "B29C48/505",
+      "ja": "流れと相互作用するギアを有するもの［２０１９．０１］",
+      "en": "provided with gears interacting with the flow",
+      "count": 105,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/59": {
+      "code": "B29C48/59",
+      "level": 5,
+      "parent": "B29C48/505",
+      "ja": "ネジ山の細部，すなわち材料供給スクリューの単一のネジ山形状，に特徴のあるもの［２０１９．０１］",
+      "en": "characterised by details of the thread, i.e. the shape of a single thread of the material-feeding screw",
+      "count": 341,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/595": {
+      "code": "B29C48/595",
+      "level": 6,
+      "parent": "B29C48/59",
+      "ja": "不均一な幅を有するネジ山［２０１９．０１］",
+      "en": "the thread having non-uniform width",
+      "count": 73,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/60": {
+      "code": "B29C48/60",
+      "level": 6,
+      "parent": "B29C48/59",
+      "ja": "ネジ山の頂部［２０１９．０１］",
+      "en": "Thread tops",
+      "count": 190,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/605": {
+      "code": "B29C48/605",
+      "level": 6,
+      "parent": "B29C48/59",
+      "ja": "断続的なネジ山［２０１９．０１］",
+      "en": "the thread being discontinuous",
+      "count": 148,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/61": {
+      "code": "B29C48/61",
+      "level": 6,
+      "parent": "B29C48/59",
+      "ja": "波状プロファイルを有するネジ山［２０１９．０１］",
+      "en": "Threads having wavy profiles",
+      "count": 22,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/615": {
+      "code": "B29C48/615",
+      "level": 6,
+      "parent": "B29C48/59",
+      "ja": "変化するらせん角を有するネジ山［２０１９．０１］",
+      "en": "Threads having varying helix angles",
+      "count": 55,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/62": {
+      "code": "B29C48/62",
+      "level": 5,
+      "parent": "B29C48/505",
+      "ja": "ネジ山チャンネルの形状に特徴のあるもの，例．Ｕ形状のもの［２０１９．０１］",
+      "en": "characterised by the shape of the thread channel, e.g. U-shaped",
+      "count": 218,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/625": {
+      "code": "B29C48/625",
+      "level": 5,
+      "parent": "B29C48/505",
+      "ja": "スクリューの外径に対するスクリューのねじ山部の長さの比率に特徴があるもの［Ｌ／Ｄ比率］［２０１９．０１］",
+      "en": "characterised by  the ratio of the threaded length of the screw to its outside diameter [L/D ratio]",
+      "count": 511,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/63": {
+      "code": "B29C48/63",
+      "level": 5,
+      "parent": "B29C48/505",
+      "ja": "混合要素またはネジ山を含まない部分を有するもの，すなわち円筒状部を有するもの［２０１９．０１］",
+      "en": "having sections without mixing elements or threads, i.e. having cylinder shaped sections",
+      "count": 219,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/635": {
+      "code": "B29C48/635",
+      "level": 5,
+      "parent": "B29C48/505",
+      "ja": "偏心回転スクリュー；中心軸以外の軸の周りを回転するスクリュー［２０１９．０１］",
+      "en": "Eccentrically rotating screws; Screws revolving around an axis other than their central axis",
+      "count": 62,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/64": {
+      "code": "B29C48/64",
+      "level": 5,
+      "parent": "B29C48/505",
+      "ja": "２条以上のネジ山を有するスクリュー［２０１９．０１］",
+      "en": "Screws with two or more threads",
+      "count": 380,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/645": {
+      "code": "B29C48/645",
+      "level": 6,
+      "parent": "B29C48/64",
+      "ja": "隣接するネジ山およびチャンネルが同一の構造形状であるもの［２０１９．０１］",
+      "en": "neighbouring threads and channels having identical configurations",
+      "count": 63,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/65": {
+      "code": "B29C48/65",
+      "level": 6,
+      "parent": "B29C48/64",
+      "ja": "隣接するネジ山およびチャンネルが異なる構造形状であるもの，例．１つのネジ山が隣接したネジ山より低いもの［２０１９．０１］",
+      "en": "neighbouring threads or channels having different configurations, e.g. one thread being lower than its neighbouring thread",
+      "count": 293,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/655": {
+      "code": "B29C48/655",
+      "level": 6,
+      "parent": "B29C48/64",
+      "ja": "３条以上のネジ山を有するもの［２０１９．０１］",
+      "en": "having three or more threads",
+      "count": 176,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/66": {
+      "code": "B29C48/66",
+      "level": 6,
+      "parent": "B29C48/64",
+      "ja": "バリアネジ山，すなわち主ネジ山と副ネジ山とを含み，副ネジ山が材料移動のためにバレルにクリアランスを与えるもの［２０１９．０１］",
+      "en": "Barrier threads, i.e. comprising primary and secondary threads whereby the secondary thread provides clearance to the barrel for material movement",
+      "count": 86,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/67": {
+      "code": "B29C48/67",
+      "level": 5,
+      "parent": "B29C48/505",
+      "ja": "グループＢ２９Ｃ４８／５２～Ｂ２９Ｃ４８／６６に分類されない混合手段と組み合わされたもの［２０１９．０１］",
+      "en": "having incorporated mixing devices not provided for in groups <b>B29C48/52 to B29C48/66</b> ",
+      "count": 1956,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/68": {
+      "code": "B29C48/68",
+      "level": 4,
+      "parent": "B29C48/50",
+      "ja": "バレルまたはシリンダ［２０１９．０１］",
+      "en": "Barrels or cylinders",
+      "count": 1445,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/685": {
+      "code": "B29C48/685",
+      "level": 5,
+      "parent": "B29C48/68",
+      "ja": "それらの内面に特徴のあるもの，例．溝，突出部またはネジ山を有するもの［２０１９．０１］",
+      "en": "characterised by their inner surfaces, e.g. having grooves, projections or threads",
+      "count": 274,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/69": {
+      "code": "B29C48/69",
+      "level": 4,
+      "parent": "B29C48/50",
+      "ja": "成形材料用フィルターまたはスクリーン［２０１９．０１］",
+      "en": "Filters or screens for the moulding material",
+      "count": 1369,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/691": {
+      "code": "B29C48/691",
+      "level": 5,
+      "parent": "B29C48/69",
+      "ja": "フィルター取り換えのための配置，例．交互に使用するための二つの並列に設けられたフィルターを有するもの［２０１９．０１］",
+      "en": "Arrangements for replacing filters, e.g. with two parallel filters for alternate use",
+      "count": 580,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/692": {
+      "code": "B29C48/692",
+      "level": 5,
+      "parent": "B29C48/69",
+      "ja": "隣接する領域を連続して使用するために置換可能なウェブ形状のもの［２０１９．０１］",
+      "en": "in the form of webs displaceable for using adjacent areas consecutively",
+      "count": 139,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/693": {
+      "code": "B29C48/693",
+      "level": 5,
+      "parent": "B29C48/69",
+      "ja": "押出機のスクリューの端部に取り付けられ，スクリュー軸に垂直な実質的に平坦なフィルター［２０１９．０１］",
+      "en": "Substantially flat filters mounted at the end of an extruder screw perpendicular to the feed axis",
+      "count": 497,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/694": {
+      "code": "B29C48/694",
+      "level": 5,
+      "parent": "B29C48/69",
+      "ja": "円筒形または円錐形フィルター［２０１９．０１］",
+      "en": "Cylindrical or conical filters",
+      "count": 278,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/695": {
+      "code": "B29C48/695",
+      "level": 4,
+      "parent": "B29C48/50",
+      "ja": "分配器，例．ブレーカープレート［２０１９．０１］",
+      "en": "Flow dividers, e.g. breaker plates",
+      "count": 326,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/70": {
+      "code": "B29C48/70",
+      "level": 5,
+      "parent": "B29C48/695",
+      "ja": "溶融流れを分割，配分および再結合するための手段を含むもの［２０１９．０１］",
+      "en": "comprising means for dividing, distributing and recombining melt flows",
+      "count": 411,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/71": {
+      "code": "B29C48/71",
+      "level": 6,
+      "parent": "B29C48/70",
+      "ja": "多層化のためのもの（複数の構成要素の押出成形Ｂ２９Ｃ４８／１６）［２０１９．０１］",
+      "en": "for layer multiplication(extrusion of multi-component articles <b>B29C48/16</b>)",
+      "count": 184,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/72": {
+      "code": "B29C48/72",
+      "level": 4,
+      "parent": "B29C48/50",
+      "ja": "フィードバック手段，すなわち溶融材料の一部を押出機の上流にフィードバックするもの［２０１９．０１］",
+      "en": "Feedback means, i.e. part of the molten material being fed back into upstream stages of the extruder",
+      "count": 110,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/74": {
+      "code": "B29C48/74",
+      "level": 4,
+      "parent": "B29C48/50",
+      "ja": "バイパス手段，すなわち溶融材料の一部を押出機の下流へ迂回するもの［２０１９．０１］",
+      "en": "Bypassing means, i.e. part of the molten material being diverted into downstream stages of the extruder",
+      "count": 265,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/76": {
+      "code": "B29C48/76",
+      "level": 4,
+      "parent": "B29C48/50",
+      "ja": "ベント手段；ガス抜き手段［２０１９．０１］",
+      "en": "Venting means; Degassing means",
+      "count": 4348,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/78": {
+      "code": "B29C48/78",
+      "level": 2,
+      "parent": "B29C48/25",
+      "ja": "押出成形材料またはあらかじめ形成された部品もしくは層状物品の熱処理，例．加熱または冷却［２０１９．０１］",
+      "en": "Thermal treatment of the extrusion moulding material or of preformed parts or layers, e.g. by heating or cooling",
+      "count": 558,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/79": {
+      "code": "B29C48/79",
+      "level": 3,
+      "parent": "B29C48/78",
+      "ja": "あらかじめ形成された部品または層状物品の熱処理［２０１９．０１］",
+      "en": "of preformed parts or layers",
+      "count": 201,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/793": {
+      "code": "B29C48/793",
+      "level": 3,
+      "parent": "B29C48/78",
+      "ja": "可塑化部の上流における熱処理，例．ホッパー内での加熱［２０１９．０１］",
+      "en": "upstream of the plasticising zone, e.g. heating in the hopper",
+      "count": 1935,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/797": {
+      "code": "B29C48/797",
+      "level": 4,
+      "parent": "B29C48/793",
+      "ja": "冷却［２０１９．０１］",
+      "en": "Cooling",
+      "count": 255,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/80": {
+      "code": "B29C48/80",
+      "level": 3,
+      "parent": "B29C48/78",
+      "ja": "可塑化部における熱処理，例．シリンダの加熱［２０１９．０１］",
+      "en": "at the plasticising zone, e.g. by heating cylinders",
+      "count": 3378,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/82": {
+      "code": "B29C48/82",
+      "level": 4,
+      "parent": "B29C48/80",
+      "ja": "冷却（Ｂ２９Ｃ４８／８４が優先）［２０１９．０１］",
+      "en": "Cooling(<b>B29C48/84</b> takes precedence)",
+      "count": 1110,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/84": {
+      "code": "B29C48/84",
+      "level": 4,
+      "parent": "B29C48/80",
+      "ja": "スクリューの加熱または冷却によるもの（中空スクリュー用Ｂ２９Ｃ４８／５１５）［２０１９．０１］",
+      "en": "by heating or cooling the feeding screws(for hollow screws <b>B29C48/515</b>)",
+      "count": 322,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/85": {
+      "code": "B29C48/85",
+      "level": 5,
+      "parent": "B29C48/84",
+      "ja": "冷却［２０１９．０１］",
+      "en": "Cooling",
+      "count": 404,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/86": {
+      "code": "B29C48/86",
+      "level": 3,
+      "parent": "B29C48/78",
+      "ja": "ノズル部における熱処理［２０１９．０１］",
+      "en": "at the nozzle zone",
+      "count": 1407,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/87": {
+      "code": "B29C48/87",
+      "level": 4,
+      "parent": "B29C48/86",
+      "ja": "冷却［２０１９．０１］",
+      "en": "Cooling",
+      "count": 1631,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/875": {
+      "code": "B29C48/875",
+      "level": 3,
+      "parent": "B29C48/78",
+      "ja": "不均一温度分布を達成するためのもの，例．冷却部と加熱部とを有するバレルを用いるもの［２０１９．０１］",
+      "en": "for achieving a non-uniform temperature distribution, e.g. using barrels having both cooling and heating zones",
+      "count": 286,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/88": {
+      "code": "B29C48/88",
+      "level": 2,
+      "parent": "B29C48/25",
+      "ja": "押出された材料の流れの熱処理，例．冷却［２０１９．０１］<br><br><b><ul>注</ul></b><br>このグループに分類するとき，製品の形態または形状は，さらにグループＢ２９Ｃ４８／０３～Ｂ２９Ｃ４８／１３にも分類する。",
+      "en": "Thermal treatment of the stream of extruded material, e.g. cooling; <br><br><b><u>Note(s)</u></b><br><br><ul><li>When classifying in this group, forms or shapes of products are further classified in groups <b>B29C48/03 to B29C48/13</b> .</li></ul>",
+      "count": 6509,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/885": {
+      "code": "B29C48/885",
+      "level": 3,
+      "parent": "B29C48/88",
+      "ja": "外側からの処理，例．管状フィルムの冷却のためにエアーリングを用いるもの［２０１９．０１］",
+      "en": "External treatment, e.g. by using air rings for cooling tubular films",
+      "count": 6308,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/89": {
+      "code": "B29C48/89",
+      "level": 3,
+      "parent": "B29C48/88",
+      "ja": "内側からの処理，例．内部冷却流体を用いるもの［２０１９．０１］",
+      "en": "Internal treatment, e.g. by applying an internal cooling fluid stream",
+      "count": 259,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/90": {
+      "code": "B29C48/90",
+      "level": 3,
+      "parent": "B29C48/88",
+      "ja": "キャリブレーションまたはサイジングをおこなうもの，すなわち押出物品の最終寸法の固定または調整と組み合わせたもの［２０１９．０１］",
+      "en": "with calibration or sizing, i.e. combined with fixing or setting of the final dimensions of the extruded article",
+      "count": 6166,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/91": {
+      "code": "B29C48/91",
+      "level": 3,
+      "parent": "B29C48/88",
+      "ja": "加熱，例．架橋のためのもの［２０１９．０１］",
+      "en": "Heating, e.g. for cross linking",
+      "count": 1527,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/92": {
+      "code": "B29C48/92",
+      "level": 2,
+      "parent": "B29C48/25",
+      "ja": "計量，制御または調整［２０１９．０１］",
+      "en": "Measuring, controlling or regulating",
+      "count": 30567,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/94": {
+      "code": "B29C48/94",
+      "level": 2,
+      "parent": "B29C48/25",
+      "ja": "潤滑［２０１９．０１］",
+      "en": "Lubricating",
+      "count": 487,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/95": {
+      "code": "B29C48/95",
+      "level": 3,
+      "parent": "B29C48/94",
+      "ja": "成形材料に潤滑剤を加えるもの［２０１９．０１］",
+      "en": "by adding lubricant to the moulding material",
+      "count": 203,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C48/96": {
+      "code": "B29C48/96",
+      "level": 2,
+      "parent": "B29C48/25",
+      "ja": "安全装置［２０１９．０１］",
+      "en": "Safety devices",
+      "count": 1160,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C49/00": {
+      "code": "B29C49/00",
+      "level": 0,
+      "parent": "B29C",
+      "ja": "ブロー成形，即ちプリフォームまたはパリソンを型内で所定形状にブローするもの；そのための装置［４］",
+      "en": "Blow-moulding, i.e. blowing a preform or parison to a desired shape within a mould; Apparatus therefor",
+      "count": 12163,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C49/02": {
+      "code": "B29C49/02",
+      "level": 1,
+      "parent": "B29C49/00",
+      "ja": "プリフォームまたはパリソンの製造とブロー成形とが組合わされたもの［４］",
+      "en": "Combined blow-moulding and manufacture of the preform or the parison",
+      "count": 2238,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C49/04": {
+      "code": "B29C49/04",
+      "level": 2,
+      "parent": "B29C49/02",
+      "ja": "押出ブロー成形［４］",
+      "en": "Extrusion blow-moulding",
+      "count": 9650,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C49/06": {
+      "code": "B29C49/06",
+      "level": 2,
+      "parent": "B29C49/02",
+      "ja": "射出ブロー成形［４］",
+      "en": "Injection blow-moulding",
+      "count": 8442,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C49/08": {
+      "code": "B29C49/08",
+      "level": 1,
+      "parent": "B29C49/00",
+      "ja": "ブロー成形中における二軸延伸［４］",
+      "en": "Biaxial stretching during blow-moulding",
+      "count": 2597,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C49/10": {
+      "code": "B29C49/10",
+      "level": 2,
+      "parent": "B29C49/08",
+      "ja": "機械的手段を用いるもの［４］",
+      "en": "using mechanical means",
+      "count": 391,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C49/12": {
+      "code": "B29C49/12",
+      "level": 3,
+      "parent": "B29C49/10",
+      "ja": "延伸ロッド［４］",
+      "en": "Stretching rods",
+      "count": 1777,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C49/14": {
+      "code": "B29C49/14",
+      "level": 3,
+      "parent": "B29C49/10",
+      "ja": "クランプ［４］",
+      "en": "Clamps",
+      "count": 243,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C49/16": {
+      "code": "B29C49/16",
+      "level": 2,
+      "parent": "B29C49/08",
+      "ja": "圧力差を用いるもの，例えばプリブローイング［４］",
+      "en": "using pressure difference, e.g. pre-blowing",
+      "count": 427,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C49/18": {
+      "code": "B29C49/18",
+      "level": 1,
+      "parent": "B29C49/00",
+      "ja": "複数段階で実施するもの（Ｂ２９Ｃ４９／１６が優先）［４］",
+      "en": "using several blowing steps(<b>B29C49/16</b> takes precedence)",
+      "count": 908,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C49/20": {
+      "code": "B29C49/20",
+      "level": 1,
+      "parent": "B29C49/00",
+      "ja": "挿入物または補強材を有する物品の製造［４］",
+      "en": "of articles having inserts or reinforcements",
+      "count": 2958,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C49/22": {
+      "code": "B29C49/22",
+      "level": 1,
+      "parent": "B29C49/00",
+      "ja": "多層のプリフォームまたはパリソンを用いるもの［４］",
+      "en": "using multilayered preforms or parisons",
+      "count": 3446,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C49/24": {
+      "code": "B29C49/24",
+      "level": 1,
+      "parent": "B29C49/00",
+      "ja": "ライニングまたはラベリング［４］",
+      "en": "Lining or labelling",
+      "count": 1710,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C49/26": {
+      "code": "B29C49/26",
+      "level": 2,
+      "parent": "B29C49/24",
+      "ja": "管状体内面のライニング［４］",
+      "en": "inner lining of tubes",
+      "count": 212,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C49/28": {
+      "code": "B29C49/28",
+      "level": 1,
+      "parent": "B29C49/00",
+      "ja": "ブロー成形装置［４］",
+      "en": "Blow-moulding apparatus",
+      "count": 2527,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C49/30": {
+      "code": "B29C49/30",
+      "level": 2,
+      "parent": "B29C49/28",
+      "ja": "可動型または可動型部品を用いるもの［４］",
+      "en": "having movable moulds or mould parts",
+      "count": 874,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C49/32": {
+      "code": "B29C49/32",
+      "level": 3,
+      "parent": "B29C49/30",
+      "ja": "往復移動するもの［４］",
+      "en": "moving \"to and fro\"",
+      "count": 560,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C49/34": {
+      "code": "B29C49/34",
+      "level": 4,
+      "parent": "B29C49/32",
+      "ja": "たぐり移動する型部品［４］",
+      "en": "the mould parts moving \"hand-over-hand\"",
+      "count": 68,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C49/36": {
+      "code": "B29C49/36",
+      "level": 3,
+      "parent": "B29C49/30",
+      "ja": "一軸の回りに回転するもの［４］",
+      "en": "rotatable about one axis",
+      "count": 1483,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C49/38": {
+      "code": "B29C49/38",
+      "level": 3,
+      "parent": "B29C49/30",
+      "ja": "可動エンドレス支持体上に載置されたもの［４］",
+      "en": "mounted on movable endless supports",
+      "count": 365,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C49/40": {
+      "code": "B29C49/40",
+      "level": 4,
+      "parent": "B29C49/38",
+      "ja": "ドラムと協動するもの［４］",
+      "en": "on co-operating drums",
+      "count": 36,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C49/42": {
+      "code": "B29C49/42",
+      "level": 1,
+      "parent": "B29C49/00",
+      "ja": "構成部品；細部または付属装置；補助操作［４］",
+      "en": "Component parts, details or accessories; Auxiliary operations",
+      "count": 13451,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C49/44": {
+      "code": "B29C49/44",
+      "level": 2,
+      "parent": "B29C49/42",
+      "ja": "膨脹袋体の壁面によって圧力を作用させるためのもの［４］",
+      "en": "for applying pressure through the walls of an inflated bag",
+      "count": 291,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C49/46": {
+      "code": "B29C49/46",
+      "level": 2,
+      "parent": "B29C49/42",
+      "ja": "特定の環境または空気以外のブロー流体の利用によって特徴づけられるもの［４］",
+      "en": "characterised by using particular environment or blow fluids other than air",
+      "count": 1161,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C49/48": {
+      "code": "B29C49/48",
+      "level": 2,
+      "parent": "B29C49/42",
+      "ja": "金型［４］",
+      "en": "Moulds",
+      "count": 8865,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C49/50": {
+      "code": "B29C49/50",
+      "level": 3,
+      "parent": "B29C49/48",
+      "ja": "切断またはバリの除去手段を有するもの［４］",
+      "en": "having cutting or deflashing means",
+      "count": 1357,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C49/52": {
+      "code": "B29C49/52",
+      "level": 3,
+      "parent": "B29C49/48",
+      "ja": "装飾または印刷手段をもつもの［４］",
+      "en": "having decorating or printing means",
+      "count": 266,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C49/54": {
+      "code": "B29C49/54",
+      "level": 3,
+      "parent": "B29C49/48",
+      "ja": "アンダーカット成形品のためのもの［４］",
+      "en": "for undercut articles",
+      "count": 517,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C49/56": {
+      "code": "B29C49/56",
+      "level": 2,
+      "parent": "B29C49/42",
+      "ja": "型開き，型閉めまたはクランプ手段［４］",
+      "en": "Opening, closing or clamping means",
+      "count": 3291,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C49/58": {
+      "code": "B29C49/58",
+      "level": 2,
+      "parent": "B29C49/42",
+      "ja": "ブロー手段［４］",
+      "en": "Blowing means",
+      "count": 2958,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C49/60": {
+      "code": "B29C49/60",
+      "level": 3,
+      "parent": "B29C49/58",
+      "ja": "ブローニードル［４］",
+      "en": "Blow-needles",
+      "count": 835,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C49/62": {
+      "code": "B29C49/62",
+      "level": 2,
+      "parent": "B29C49/42",
+      "ja": "ベント装置［４］",
+      "en": "Venting means",
+      "count": 571,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C49/64": {
+      "code": "B29C49/64",
+      "level": 2,
+      "parent": "B29C49/42",
+      "ja": "プリフォーム，パリソンまたはブロー成形品の加熱または冷却［４］",
+      "en": "Heating or cooling preforms, parisons or blown articles",
+      "count": 5952,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C49/66": {
+      "code": "B29C49/66",
+      "level": 3,
+      "parent": "B29C49/64",
+      "ja": "ブロー成形品中に導入された冷媒による冷却［４］",
+      "en": "Cooling by refrigerant introduced into the blown article",
+      "count": 660,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C49/68": {
+      "code": "B29C49/68",
+      "level": 3,
+      "parent": "B29C49/64",
+      "ja": "特にプリフォームまたはパリソンを加熱するためのオーブン［４］",
+      "en": "Ovens specially adapted for heating preforms or parisons",
+      "count": 1189,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C49/70": {
+      "code": "B29C49/70",
+      "level": 2,
+      "parent": "B29C49/42",
+      "ja": "ブロー成形品の金型からの取外しまたは突出し［４］",
+      "en": "Removing or ejecting blown articles from the mould",
+      "count": 1820,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C49/72": {
+      "code": "B29C49/72",
+      "level": 2,
+      "parent": "B29C49/42",
+      "ja": "金型外部のバリの除去［４］",
+      "en": "Deflashing outside the mould",
+      "count": 759,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C49/74": {
+      "code": "B29C49/74",
+      "level": 3,
+      "parent": "B29C49/72",
+      "ja": "ネック部のバリの除去［４］",
+      "en": "Deflashing the neck portion",
+      "count": 342,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C49/76": {
+      "code": "B29C49/76",
+      "level": 2,
+      "parent": "B29C49/42",
+      "ja": "ネックキャリブレーション［４］",
+      "en": "Neck calibration",
+      "count": 405,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C49/78": {
+      "code": "B29C49/78",
+      "level": 2,
+      "parent": "B29C49/42",
+      "ja": "計量，制御または調整［４］",
+      "en": "Measuring, controlling or regulating",
+      "count": 3781,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C49/80": {
+      "code": "B29C49/80",
+      "level": 3,
+      "parent": "B29C49/78",
+      "ja": "検査，例．漏洩のための［４］",
+      "en": "Testing, e.g. for leaks",
+      "count": 534,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C51/00": {
+      "code": "B29C51/00",
+      "level": 0,
+      "parent": "B29C",
+      "ja": "熱成形，例．マッチドモールド中におけるシートの成形または深絞りによる成形；そのための装置［４］",
+      "en": "Shaping by thermoforming, e.g. shaping sheets in matched moulds or by deep-drawing; Apparatus therefor",
+      "count": 9149,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C51/02": {
+      "code": "B29C51/02",
+      "level": 1,
+      "parent": "B29C51/00",
+      "ja": "熱成形とプリフォームの製造との組合せ［４］",
+      "en": "Combined thermoforming and manufacture of the preform",
+      "count": 1558,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C51/04": {
+      "code": "B29C51/04",
+      "level": 1,
+      "parent": "B29C51/00",
+      "ja": "熱成形と予備延伸，例．二軸延伸，との組合せ［４］",
+      "en": "Combined thermoforming and prestretching, e.g. biaxial stretching",
+      "count": 972,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C51/06": {
+      "code": "B29C51/06",
+      "level": 2,
+      "parent": "B29C51/04",
+      "ja": "圧力差を用いるもの［４］",
+      "en": "using pressure difference",
+      "count": 423,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C51/08": {
+      "code": "B29C51/08",
+      "level": 1,
+      "parent": "B29C51/00",
+      "ja": "深絞りまたはマッチドモールド成形，即ち機械的手段のみを用いるもの［４］",
+      "en": "Deep-drawing or matched-mould forming, i.e. using mechanical means only",
+      "count": 4821,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C51/10": {
+      "code": "B29C51/10",
+      "level": 1,
+      "parent": "B29C51/00",
+      "ja": "圧力差，例．真空，による成形［４］",
+      "en": "Forming by pressure difference, e.g. vacuum",
+      "count": 10818,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C51/12": {
+      "code": "B29C51/12",
+      "level": 1,
+      "parent": "B29C51/00",
+      "ja": "挿入物または補強材を有する物品の［４］",
+      "en": "of articles having inserts or reinforcements",
+      "count": 1925,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C51/14": {
+      "code": "B29C51/14",
+      "level": 1,
+      "parent": "B29C51/00",
+      "ja": "多層プリフォームまたはシートを用いるもの［４］",
+      "en": "using multilayered preforms or sheets",
+      "count": 4217,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C51/16": {
+      "code": "B29C51/16",
+      "level": 1,
+      "parent": "B29C51/00",
+      "ja": "ライニングまたはラベリング［４］",
+      "en": "Lining or labelling",
+      "count": 1675,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C51/18": {
+      "code": "B29C51/18",
+      "level": 1,
+      "parent": "B29C51/00",
+      "ja": "熱成形用装置［４］",
+      "en": "Thermoforming apparatus",
+      "count": 3469,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C51/20": {
+      "code": "B29C51/20",
+      "level": 2,
+      "parent": "B29C51/18",
+      "ja": "可動金型または可動金型部品を有するもの［４］",
+      "en": "having movable moulds or mould parts",
+      "count": 682,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C51/22": {
+      "code": "B29C51/22",
+      "level": 3,
+      "parent": "B29C51/20",
+      "ja": "一軸の回りに回転可能なもの［４］",
+      "en": "rotatable about an axis",
+      "count": 897,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C51/24": {
+      "code": "B29C51/24",
+      "level": 3,
+      "parent": "B29C51/20",
+      "ja": "可動エンドレス支持体上に載置されたもの［４］",
+      "en": "mounted on movable endless supports",
+      "count": 213,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C51/26": {
+      "code": "B29C51/26",
+      "level": 1,
+      "parent": "B29C51/00",
+      "ja": "構成部品，細部または付属装置；補助操作［４］",
+      "en": "Component parts, details or accessories; Auxiliary operations",
+      "count": 9277,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C51/28": {
+      "code": "B29C51/28",
+      "level": 2,
+      "parent": "B29C51/26",
+      "ja": "膨脹袋体またはダイヤフラムの壁面によって圧力を作用させるためのもの［４］",
+      "en": "for applying pressure through the wall of an inflated bag or diaphragm",
+      "count": 486,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C51/30": {
+      "code": "B29C51/30",
+      "level": 2,
+      "parent": "B29C51/26",
+      "ja": "金型［４］",
+      "en": "Moulds",
+      "count": 4737,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C51/32": {
+      "code": "B29C51/32",
+      "level": 3,
+      "parent": "B29C51/30",
+      "ja": "切断手段を有するもの［４］",
+      "en": "having cutting means",
+      "count": 1479,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C51/34": {
+      "code": "B29C51/34",
+      "level": 3,
+      "parent": "B29C51/30",
+      "ja": "アンダーカット製品のためのもの［４］",
+      "en": "for undercut articles",
+      "count": 808,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C51/36": {
+      "code": "B29C51/36",
+      "level": 3,
+      "parent": "B29C51/30",
+      "ja": "特に真空成形のための［４］",
+      "en": "specially adapted for vacuum forming",
+      "count": 3055,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C51/38": {
+      "code": "B29C51/38",
+      "level": 3,
+      "parent": "B29C51/30",
+      "ja": "型開き，型閉めまたはクランプ手段［４］",
+      "en": "Opening, closing or clamping means",
+      "count": 712,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C51/40": {
+      "code": "B29C51/40",
+      "level": 3,
+      "parent": "B29C51/30",
+      "ja": "ベント装置［４］",
+      "en": "Venting means",
+      "count": 532,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C51/42": {
+      "code": "B29C51/42",
+      "level": 2,
+      "parent": "B29C51/26",
+      "ja": "加熱または冷却［４］",
+      "en": "Heating or cooling",
+      "count": 7617,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C51/44": {
+      "code": "B29C51/44",
+      "level": 2,
+      "parent": "B29C51/26",
+      "ja": "成形物品の取出しまたは突出し［４］",
+      "en": "Removing or ejecting moulded articles",
+      "count": 2833,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C51/46": {
+      "code": "B29C51/46",
+      "level": 2,
+      "parent": "B29C51/26",
+      "ja": "計量，制御または調整［４］",
+      "en": "Measuring, controlling or regulating",
+      "count": 2159,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C53/00": {
+      "code": "B29C53/00",
+      "level": 0,
+      "parent": "B29C",
+      "ja": "曲げ，折たたみ，ひねり，直線化または平面化による成形；そのための装置（Ｂ２９Ｃ６１／１０が優先）［４］",
+      "en": "Shaping by bending, folding, twisting, straightening or flattening; Apparatus therefor(<b>B29C61/10</b> takes precedence)",
+      "count": 6327,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C53/02": {
+      "code": "B29C53/02",
+      "level": 1,
+      "parent": "B29C53/00",
+      "ja": "曲げまたは折たたみ（Ｂ２９Ｃ５３／２２，Ｂ２９Ｃ５３／３４，Ｂ２９Ｃ５３／３６，Ｂ２９Ｃ５３／５６が優先）［４］",
+      "en": "Bending or folding(<b>B29C53/22</b>, <b>B29C53/34</b>, <b>B29C53/36</b>, <b>B29C53/56</b> take precedence)",
+      "count": 1910,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C53/04": {
+      "code": "B29C53/04",
+      "level": 2,
+      "parent": "B29C53/02",
+      "ja": "板またはシートの［４］",
+      "en": "of plates or sheets",
+      "count": 4824,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C53/06": {
+      "code": "B29C53/06",
+      "level": 3,
+      "parent": "B29C53/04",
+      "ja": "プレスまたは溝づけによる折曲げ線の形成［４］",
+      "en": "Forming folding lines by pressing or scoring",
+      "count": 1490,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C53/08": {
+      "code": "B29C53/08",
+      "level": 2,
+      "parent": "B29C53/02",
+      "ja": "管状体の［４］",
+      "en": "of tubes",
+      "count": 2955,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C53/10": {
+      "code": "B29C53/10",
+      "level": 2,
+      "parent": "B29C53/02",
+      "ja": "ブローされた管状フィルムの，例．ひだづけ［４］",
+      "en": "of blown tubular films, e.g. gusseting",
+      "count": 260,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C53/12": {
+      "code": "B29C53/12",
+      "level": 2,
+      "parent": "B29C53/02",
+      "ja": "ら旋巻きの，例．スプリングを製造するための［４］",
+      "en": "helically, e.g. for making springs",
+      "count": 393,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C53/14": {
+      "code": "B29C53/14",
+      "level": 1,
+      "parent": "B29C53/00",
+      "ja": "ひねり［４］",
+      "en": "Twisting",
+      "count": 274,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C53/16": {
+      "code": "B29C53/16",
+      "level": 1,
+      "parent": "B29C53/00",
+      "ja": "直線化または平面化［４］",
+      "en": "Straightening or flattening",
+      "count": 1220,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C53/18": {
+      "code": "B29C53/18",
+      "level": 2,
+      "parent": "B29C53/16",
+      "ja": "板又はシートの［４］",
+      "en": "of plates or sheets",
+      "count": 2297,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C53/20": {
+      "code": "B29C53/20",
+      "level": 2,
+      "parent": "B29C53/16",
+      "ja": "管状体の［４］",
+      "en": "of tubes",
+      "count": 801,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C53/22": {
+      "code": "B29C53/22",
+      "level": 1,
+      "parent": "B29C53/00",
+      "ja": "波形づけ［４］",
+      "en": "Corrugating",
+      "count": 186,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C53/24": {
+      "code": "B29C53/24",
+      "level": 2,
+      "parent": "B29C53/22",
+      "ja": "板またはシートの［４］",
+      "en": "of plates or sheets",
+      "count": 605,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C53/26": {
+      "code": "B29C53/26",
+      "level": 3,
+      "parent": "B29C53/24",
+      "ja": "供給方向に平行な波形づけ［４］",
+      "en": "parallel with direction of feed",
+      "count": 242,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C53/28": {
+      "code": "B29C53/28",
+      "level": 3,
+      "parent": "B29C53/24",
+      "ja": "供給方向に直角な波形づけ［４］",
+      "en": "transverse to direction of feed",
+      "count": 380,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C53/30": {
+      "code": "B29C53/30",
+      "level": 2,
+      "parent": "B29C53/22",
+      "ja": "管状体の（ブロー成形によるものＢ２９Ｃ４９／００）［４］",
+      "en": "of tubes(by blow-moulding <b>B29C49/00</b>)",
+      "count": 860,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C53/32": {
+      "code": "B29C53/32",
+      "level": 1,
+      "parent": "B29C53/00",
+      "ja": "コイル巻き（Ｂ２９Ｃ５３／５６が優先）［４］",
+      "en": "Coiling(<b>B29C53/56</b> takes precedence)",
+      "count": 497,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C53/34": {
+      "code": "B29C53/34",
+      "level": 1,
+      "parent": "B29C53/00",
+      "ja": "リムローリング（管端部のＢ２９Ｃ５７／１２）［４］",
+      "en": "Rim rolling(of tube ends <b>B29C57/12</b>)",
+      "count": 280,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C53/36": {
+      "code": "B29C53/36",
+      "level": 1,
+      "parent": "B29C53/00",
+      "ja": "曲げおよび接合，例．中空物品を製造するための（Ｂ２９Ｃ５３／５６が優先）［４］",
+      "en": "Bending and joining, e.g. for making hollow articles(                <b>B29C53/56</b> takes precedence)",
+      "count": 977,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C53/38": {
+      "code": "B29C53/38",
+      "level": 2,
+      "parent": "B29C53/36",
+      "ja": "製造される物品の縦方向軸に直角にシートまたはストリップを折曲げてその端部を接合するもの［４］",
+      "en": "by bending sheets or strips at right angles to the longitudinal axis of the article being formed and joining the edges",
+      "count": 492,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C53/40": {
+      "code": "B29C53/40",
+      "level": 3,
+      "parent": "B29C53/38",
+      "ja": "一定長の物品，即ち不連続物品，のためのもの［４］",
+      "en": "for articles of definite length, i.e. discrete articles",
+      "count": 416,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C53/42": {
+      "code": "B29C53/42",
+      "level": 4,
+      "parent": "B29C53/40",
+      "ja": "内部二次表面，例．マンドレル，を用いるもの［４］",
+      "en": "using internal forming surfaces, e.g. mandrels",
+      "count": 342,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C53/44": {
+      "code": "B29C53/44",
+      "level": 5,
+      "parent": "B29C53/42",
+      "ja": "物品の軸の回りに回転できるもの［４］",
+      "en": "rotatable about the axis of the article",
+      "count": 122,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C53/46": {
+      "code": "B29C53/46",
+      "level": 4,
+      "parent": "B29C53/40",
+      "ja": "外部二次表面，例．スリーブ，を用いるもの［４］",
+      "en": "using external forming surfaces, e.g. sleeves",
+      "count": 67,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C53/48": {
+      "code": "B29C53/48",
+      "level": 3,
+      "parent": "B29C53/38",
+      "ja": "不定長の製品のためのもの，即ちストリップを段階的に折曲げるもの［４］",
+      "en": "for articles of indefinite length, i.e. bending a strip progressively",
+      "count": 506,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C53/50": {
+      "code": "B29C53/50",
+      "level": 4,
+      "parent": "B29C53/48",
+      "ja": "内部二次表面，例．マンドレル，を用いるもの［４］",
+      "en": "using internal forming surfaces, e.g. mandrels",
+      "count": 450,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C53/52": {
+      "code": "B29C53/52",
+      "level": 4,
+      "parent": "B29C53/48",
+      "ja": "外部二次表面，例．スリーブ，を用いるもの［４］",
+      "en": "using external forming surfaces, e.g. sleeves",
+      "count": 210,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C53/54": {
+      "code": "B29C53/54",
+      "level": 4,
+      "parent": "B29C53/48",
+      "ja": "端部の案内，整合または形づけ［４］",
+      "en": "Guiding, aligning or shaping edges",
+      "count": 52,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C53/56": {
+      "code": "B29C53/56",
+      "level": 1,
+      "parent": "B29C53/00",
+      "ja": "巻付けおよび接合，例．スパイラル状巻付け［４］",
+      "en": "Winding and joining, e.g. winding spirally",
+      "count": 3154,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C53/58": {
+      "code": "B29C53/58",
+      "level": 2,
+      "parent": "B29C53/56",
+      "ja": "ら旋状に［４］",
+      "en": "helically",
+      "count": 2510,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C53/60": {
+      "code": "B29C53/60",
+      "level": 3,
+      "parent": "B29C53/58",
+      "ja": "内部二次表面，例．マンドレル，を用いるもの［４］",
+      "en": "using internal forming surfaces, e.g. mandrels",
+      "count": 2251,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C53/62": {
+      "code": "B29C53/62",
+      "level": 4,
+      "parent": "B29C53/60",
+      "ja": "巻付け軸の回りに回転可能なもの［４］",
+      "en": "rotatable about the winding axis",
+      "count": 594,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C53/64": {
+      "code": "B29C53/64",
+      "level": 5,
+      "parent": "B29C53/62",
+      "ja": "軸方向に移動するもの［４］",
+      "en": "and moving axially",
+      "count": 282,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C53/66": {
+      "code": "B29C53/66",
+      "level": 5,
+      "parent": "B29C53/62",
+      "ja": "軸方向に移動可能な巻付材供給装置［４］",
+      "en": "with axially movable winding feed member",
+      "count": 535,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C53/68": {
+      "code": "B29C53/68",
+      "level": 4,
+      "parent": "B29C53/60",
+      "ja": "回転可能な巻付材供給装置［４］",
+      "en": "with rotatable winding feed member",
+      "count": 247,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C53/70": {
+      "code": "B29C53/70",
+      "level": 5,
+      "parent": "B29C53/68",
+      "ja": "軸方向に移動するもの［４］",
+      "en": "and moving axially",
+      "count": 114,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C53/72": {
+      "code": "B29C53/72",
+      "level": 3,
+      "parent": "B29C53/58",
+      "ja": "外部二次表面を用いるもの［４］",
+      "en": "using external forming surfaces",
+      "count": 212,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C53/74": {
+      "code": "B29C53/74",
+      "level": 3,
+      "parent": "B29C53/58",
+      "ja": "成形操作後に再循環されるエンドレスベルトの形で二次表面を用いるもの［４］",
+      "en": "using a forming surface in the shape of an endless belt which is recycled after the forming operation",
+      "count": 175,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C53/76": {
+      "code": "B29C53/76",
+      "level": 3,
+      "parent": "B29C53/58",
+      "ja": "一つより多い軸の回りの［４］",
+      "en": "about more than one axis",
+      "count": 130,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C53/78": {
+      "code": "B29C53/78",
+      "level": 3,
+      "parent": "B29C53/58",
+      "ja": "異形シートまたはストリップを用いるもの［４］",
+      "en": "using profiled sheets or strips",
+      "count": 1015,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C53/80": {
+      "code": "B29C53/80",
+      "level": 1,
+      "parent": "B29C53/00",
+      "ja": "構成部品，細部または付属装置；補助操作［４］",
+      "en": "Component parts, details or accessories; Auxiliary operations",
+      "count": 8782,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C53/82": {
+      "code": "B29C53/82",
+      "level": 2,
+      "parent": "B29C53/80",
+      "ja": "コアまたはマンドレル［４］",
+      "en": "Cores or mandrels",
+      "count": 2353,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C53/84": {
+      "code": "B29C53/84",
+      "level": 2,
+      "parent": "B29C53/80",
+      "ja": "加熱または冷却［４］",
+      "en": "Heating or cooling",
+      "count": 4468,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C55/00": {
+      "code": "B29C55/00",
+      "level": 0,
+      "parent": "B29C",
+      "ja": "延伸による成形，例．ダイを通して引き抜くもの；そのための装置（Ｂ２９Ｃ６１／０８が優先）［４］",
+      "en": "Shaping by stretching, e.g. drawing through a die; Apparatus therefor(<b>B29C61/08</b> takes precedence)",
+      "count": 10270,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C55/02": {
+      "code": "B29C55/02",
+      "level": 1,
+      "parent": "B29C55/00",
+      "ja": "板またはシートの［４］",
+      "en": "of plates or sheets",
+      "count": 7922,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C55/04": {
+      "code": "B29C55/04",
+      "level": 2,
+      "parent": "B29C55/02",
+      "ja": "一軸延伸，例．斜め方向の［４］",
+      "en": "uniaxial, e.g. oblique",
+      "count": 2250,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C55/06": {
+      "code": "B29C55/06",
+      "level": 3,
+      "parent": "B29C55/04",
+      "ja": "供給方向に平行なもの［４］",
+      "en": "parallel with the direction of feed",
+      "count": 2523,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C55/08": {
+      "code": "B29C55/08",
+      "level": 3,
+      "parent": "B29C55/04",
+      "ja": "供給方向に直角なもの［４］",
+      "en": "transverse to the direction of feed",
+      "count": 1580,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C55/10": {
+      "code": "B29C55/10",
+      "level": 2,
+      "parent": "B29C55/02",
+      "ja": "多軸延伸［４］",
+      "en": "multiaxial",
+      "count": 399,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C55/12": {
+      "code": "B29C55/12",
+      "level": 3,
+      "parent": "B29C55/10",
+      "ja": "二軸延伸［４］",
+      "en": "biaxial",
+      "count": 7505,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C55/14": {
+      "code": "B29C55/14",
+      "level": 4,
+      "parent": "B29C55/12",
+      "ja": "逐次二軸延伸［４］",
+      "en": "successively",
+      "count": 2980,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C55/16": {
+      "code": "B29C55/16",
+      "level": 4,
+      "parent": "B29C55/12",
+      "ja": "同時二軸延伸［４］",
+      "en": "simultaneously",
+      "count": 1499,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C55/18": {
+      "code": "B29C55/18",
+      "level": 2,
+      "parent": "B29C55/02",
+      "ja": "表面間，例．ローラー間，で圧延するもの［４］",
+      "en": "by squeezing between surfaces, e.g. rollers",
+      "count": 1536,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C55/20": {
+      "code": "B29C55/20",
+      "level": 2,
+      "parent": "B29C55/02",
+      "ja": "端部クランプ［４］",
+      "en": "Edge clamps",
+      "count": 1374,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C55/22": {
+      "code": "B29C55/22",
+      "level": 1,
+      "parent": "B29C55/00",
+      "ja": "管状体の［４］",
+      "en": "of tubes",
+      "count": 781,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C55/24": {
+      "code": "B29C55/24",
+      "level": 2,
+      "parent": "B29C55/22",
+      "ja": "半径方向の延伸［４］",
+      "en": "radial",
+      "count": 752,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C55/26": {
+      "code": "B29C55/26",
+      "level": 2,
+      "parent": "B29C55/22",
+      "ja": "二軸延伸［４］",
+      "en": "biaxial",
+      "count": 690,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C55/28": {
+      "code": "B29C55/28",
+      "level": 1,
+      "parent": "B29C55/00",
+      "ja": "ブローされた管状フィルムの，例．インフレーションによるもの［４］",
+      "en": "of blown tubular films, e.g. by inflation",
+      "count": 9435,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C55/30": {
+      "code": "B29C55/30",
+      "level": 1,
+      "parent": "B29C55/00",
+      "ja": "ダイを通して引き抜くもの［４］",
+      "en": "Drawing through a die",
+      "count": 609,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C57/00": {
+      "code": "B29C57/00",
+      "level": 0,
+      "parent": "B29C",
+      "ja": "管端部の成形，例．フランジ加工，ラッパ状加工または封鎖；そのための装置［４］",
+      "en": "Shaping of tube ends, e.g. flanging, belling or closing; Apparatus therefor",
+      "count": 7289,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C57/02": {
+      "code": "B29C57/02",
+      "level": 1,
+      "parent": "B29C57/00",
+      "ja": "ラッパ状加工または拡口加工，例．溝の形成と組合わされたもの［４］",
+      "en": "Belling or enlarging, e.g. combined with forming a groove",
+      "count": 1050,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C57/04": {
+      "code": "B29C57/04",
+      "level": 2,
+      "parent": "B29C57/02",
+      "ja": "機械的手段を用いるもの［４］",
+      "en": "using mechanical means",
+      "count": 2098,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C57/06": {
+      "code": "B29C57/06",
+      "level": 3,
+      "parent": "B29C57/04",
+      "ja": "弾性変形可能なもの［４］",
+      "en": "elastically deformable",
+      "count": 174,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C57/08": {
+      "code": "B29C57/08",
+      "level": 2,
+      "parent": "B29C57/02",
+      "ja": "圧力差を利用するもの［４］",
+      "en": "using pressure difference",
+      "count": 278,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C57/10": {
+      "code": "B29C57/10",
+      "level": 1,
+      "parent": "B29C57/00",
+      "ja": "封鎖［４］",
+      "en": "Closing",
+      "count": 943,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C57/12": {
+      "code": "B29C57/12",
+      "level": 1,
+      "parent": "B29C57/00",
+      "ja": "リムローリング［４］",
+      "en": "Rim rolling",
+      "count": 422,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C59/00": {
+      "code": "B29C59/00",
+      "level": 0,
+      "parent": "B29C",
+      "ja": "表面成形，例．エンボス；そのための装置［４］",
+      "en": "Surface shaping, e.g. embossing; Apparatus therefor",
+      "count": 9336,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C59/02": {
+      "code": "B29C59/02",
+      "level": 1,
+      "parent": "B29C59/00",
+      "ja": "機械的手段，例．プレス，によるもの［４］",
+      "en": "by mechanical means, e.g. pressing",
+      "count": 12971,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C59/04": {
+      "code": "B29C59/04",
+      "level": 2,
+      "parent": "B29C59/02",
+      "ja": "ローラーまたはエンドレスベルトを用いるもの［４］",
+      "en": "using rollers or endless belts",
+      "count": 9312,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C59/06": {
+      "code": "B29C59/06",
+      "level": 2,
+      "parent": "B29C59/02",
+      "ja": "真空ドラムを用いるもの［４］",
+      "en": "using vacuum drums",
+      "count": 204,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C59/08": {
+      "code": "B29C59/08",
+      "level": 1,
+      "parent": "B29C59/00",
+      "ja": "火炎処理によるもの［４］",
+      "en": "by flame treatment",
+      "count": 402,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C59/10": {
+      "code": "B29C59/10",
+      "level": 1,
+      "parent": "B29C59/00",
+      "ja": "放電処理によるもの［４］",
+      "en": "by electric discharge treatment",
+      "count": 1499,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C59/12": {
+      "code": "B29C59/12",
+      "level": 2,
+      "parent": "B29C59/10",
+      "ja": "空気中以外の雰囲気中での［４］",
+      "en": "in an environment other than air",
+      "count": 235,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C59/14": {
+      "code": "B29C59/14",
+      "level": 1,
+      "parent": "B29C59/00",
+      "ja": "プラズマ処理によるもの［４］",
+      "en": "by plasma treatment",
+      "count": 1332,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C59/16": {
+      "code": "B29C59/16",
+      "level": 1,
+      "parent": "B29C59/00",
+      "ja": "波動エネルギーまたは粒子線照射によるもの［４］",
+      "en": "by wave energy or particle radiation",
+      "count": 1984,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C59/18": {
+      "code": "B29C59/18",
+      "level": 1,
+      "parent": "B29C59/00",
+      "ja": "内部応力，例．プラスチックメモリー，の解放によるもの［４］",
+      "en": "by liberation of internal stresses, e.g. plastic memory",
+      "count": 146,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C61/00": {
+      "code": "B29C61/00",
+      "level": 0,
+      "parent": "B29C",
+      "ja": "内部応力の解放による成形；内部応力を有する予備成形体の製造；そのための装置（表面成形のためのものＢ２９Ｃ５９／１８；ライニング物品のためのものＢ２９Ｃ６３／３８；予備成形部品の接合のためのものＢ２９Ｃ６５／６６）［４］",
+      "en": "Shaping by liberation of internal stresses; Making preforms having internal stresses; Apparatus therefor(for surface shaping <b>B29C59/18</b>; for lining articles <b>B29C63/38</b>; for joining preformed parts <b>B29C65/66</b>)",
+      "count": 6669,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C61/02": {
+      "code": "B29C61/02",
+      "level": 1,
+      "parent": "B29C61/00",
+      "ja": "熱収縮［４］",
+      "en": "Thermal shrinking",
+      "count": 2045,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C61/04": {
+      "code": "B29C61/04",
+      "level": 1,
+      "parent": "B29C61/00",
+      "ja": "熱膨脹［４］",
+      "en": "Thermal expansion",
+      "count": 205,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C61/06": {
+      "code": "B29C61/06",
+      "level": 1,
+      "parent": "B29C61/00",
+      "ja": "内部応力，例．プラスチックメモリー，を有する予備成形体の製造［４］",
+      "en": "Making preforms having internal stresses, e.g. plastic memory",
+      "count": 4150,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C61/08": {
+      "code": "B29C61/08",
+      "level": 2,
+      "parent": "B29C61/06",
+      "ja": "管の延伸によるもの［４］",
+      "en": "by stretching tubes",
+      "count": 785,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C61/10": {
+      "code": "B29C61/10",
+      "level": 2,
+      "parent": "B29C61/06",
+      "ja": "板またはシートの曲げによるもの［４］",
+      "en": "by bending plates or sheets",
+      "count": 399,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C63/00": {
+      "code": "B29C63/00",
+      "level": 0,
+      "parent": "B29C",
+      "ja": "ライニングまたは被覆，すなわち，プラスチックからなる予備成形された積層材または被覆材を適用するもの；そのための装置（Ｂ２９Ｃ７３／００が優先；ブロー成形によるものＢ２９Ｃ４９／００；熱成形によるものＢ２９Ｃ５１／００）［４，５］",
+      "en": "Lining or sheathing, i.e. applying preformed layers or sheathings of plastics; Apparatus therefor(<b>B29C73/00</b> takes precedence; by blowing <b>B29C49/00</b>; by thermoforming <b>B29C51/00</b>)",
+      "count": 17474,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C63/02": {
+      "code": "B29C63/02",
+      "level": 1,
+      "parent": "B29C63/00",
+      "ja": "シートまたは帯状材料を用いるもの（Ｂ２９Ｃ６３／２６が優先）［４］",
+      "en": "using sheet or web-like material(<b>B29C63/26</b> takes precedence)",
+      "count": 17461,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C63/04": {
+      "code": "B29C63/04",
+      "level": 2,
+      "parent": "B29C63/02",
+      "ja": "折たたみ，巻付け，曲げまたは類似の手段によるもの［４］",
+      "en": "by folding, winding, bending or the like",
+      "count": 1666,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C63/06": {
+      "code": "B29C63/06",
+      "level": 3,
+      "parent": "B29C63/04",
+      "ja": "管状物品の周囲への［４］",
+      "en": "around tubular articles",
+      "count": 1640,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C63/08": {
+      "code": "B29C63/08",
+      "level": 3,
+      "parent": "B29C63/04",
+      "ja": "ヘリカル巻付けによるもの［４］",
+      "en": "by winding helically",
+      "count": 249,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C63/10": {
+      "code": "B29C63/10",
+      "level": 4,
+      "parent": "B29C63/08",
+      "ja": "管状物品の周囲への［４］",
+      "en": "around tubular articles",
+      "count": 834,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C63/12": {
+      "code": "B29C63/12",
+      "level": 3,
+      "parent": "B29C63/04",
+      "ja": "スパイラル巻付けによるもの［４］",
+      "en": "by winding spirally",
+      "count": 88,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C63/14": {
+      "code": "B29C63/14",
+      "level": 4,
+      "parent": "B29C63/12",
+      "ja": "管状物品の周囲への［４］",
+      "en": "around tubular articles",
+      "count": 207,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C63/16": {
+      "code": "B29C63/16",
+      "level": 2,
+      "parent": "B29C63/02",
+      "ja": "ゴムの袋体またはダイヤフラムによってライニングまたは被覆を施すもの［４］",
+      "en": "applied by \"rubber\" bag or diaphragm",
+      "count": 263,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C63/18": {
+      "code": "B29C63/18",
+      "level": 1,
+      "parent": "B29C63/00",
+      "ja": "管状の積層材または被覆材を用いるもの（Ｂ２９Ｃ６３／２６が優先）［４］",
+      "en": "using tubular layers or sheathings(<b>B29C63/26</b> takes precedence)",
+      "count": 1426,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C63/20": {
+      "code": "B29C63/20",
+      "level": 2,
+      "parent": "B29C63/18",
+      "ja": "圧力差，例．真空，を利用するもの［４］",
+      "en": "using pressure difference, e.g. vacuum",
+      "count": 303,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C63/22": {
+      "code": "B29C63/22",
+      "level": 1,
+      "parent": "B29C63/00",
+      "ja": "物品の形状に適合した形状を有する積層材または被覆材を用いるもの（Ｂ２９Ｃ６３／２６が優先）［４］",
+      "en": "using layers or sheathings having a shape adapted to the shape of the article(<b>B29C63/26</b> takes precedence)",
+      "count": 921,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C63/24": {
+      "code": "B29C63/24",
+      "level": 1,
+      "parent": "B29C63/00",
+      "ja": "糸を用いるもの［４］",
+      "en": "using threads",
+      "count": 336,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C63/26": {
+      "code": "B29C63/26",
+      "level": 1,
+      "parent": "B29C63/00",
+      "ja": "内面のライニングまたは被覆（Ｂ２９Ｃ６３／３８が優先）［４］",
+      "en": "Lining or sheathing of internal surfaces(<b>B29C63/38</b> takes precedence)",
+      "count": 948,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C63/28": {
+      "code": "B29C63/28",
+      "level": 2,
+      "parent": "B29C63/26",
+      "ja": "ゴムの袋体またはダイヤフラムによってライニングまたは被覆を施すもの［４］",
+      "en": "applied by \"rubber\" bag or diaphragm",
+      "count": 193,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C63/30": {
+      "code": "B29C63/30",
+      "level": 2,
+      "parent": "B29C63/26",
+      "ja": "シートまたは帯状材料を用いるもの［４］",
+      "en": "using sheet or web-like material",
+      "count": 459,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C63/32": {
+      "code": "B29C63/32",
+      "level": 3,
+      "parent": "B29C63/30",
+      "ja": "ヘリカル巻付けによるもの［４］",
+      "en": "by winding helically",
+      "count": 573,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C63/34": {
+      "code": "B29C63/34",
+      "level": 2,
+      "parent": "B29C63/26",
+      "ja": "管状の積層材または被覆材を用いるもの［４］",
+      "en": "using tubular layer or sheathings",
+      "count": 2999,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C63/36": {
+      "code": "B29C63/36",
+      "level": 3,
+      "parent": "B29C63/34",
+      "ja": "管状材を裏返すもの［４］",
+      "en": "being turned inside out",
+      "count": 1114,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C63/38": {
+      "code": "B29C63/38",
+      "level": 1,
+      "parent": "B29C63/00",
+      "ja": "内部応力の解放によるもの［４］",
+      "en": "by liberation of internal stresses",
+      "count": 185,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C63/40": {
+      "code": "B29C63/40",
+      "level": 2,
+      "parent": "B29C63/38",
+      "ja": "シートまたは帯状材料を用いるもの［４］",
+      "en": "using sheet or web-like material",
+      "count": 570,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C63/42": {
+      "code": "B29C63/42",
+      "level": 2,
+      "parent": "B29C63/38",
+      "ja": "管状の積層材または被覆材を用いるもの［４］",
+      "en": "using tubular layers or sheathings",
+      "count": 2412,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C63/44": {
+      "code": "B29C63/44",
+      "level": 2,
+      "parent": "B29C63/38",
+      "ja": "物品の形状に適合する積層材または被覆材の形状［４］",
+      "en": "the shape of the layers or sheathings being adapted to the shape of the articles",
+      "count": 121,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C63/46": {
+      "code": "B29C63/46",
+      "level": 2,
+      "parent": "B29C63/38",
+      "ja": "内面の［４］",
+      "en": "of internal surfaces",
+      "count": 148,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C63/48": {
+      "code": "B29C63/48",
+      "level": 1,
+      "parent": "B29C63/00",
+      "ja": "表面の準備［４］",
+      "en": "Preparation of the surfaces",
+      "count": 1276,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C64/00": {
+      "code": "B29C64/00",
+      "level": 0,
+      "parent": "B29C",
+      "ja": "付加製造，すなわち付加堆積，付加凝集または付加積層による３次元［３Ｄ］物体の製造，例．３Ｄ印刷による，ステレオリソグラフィーによるまたは選択的レーザー焼結による［２０１７．０１］",
+      "en": "Additive manufacturing, i.e. manufacturing of three-dimensional [3D] objects by additive deposition, additive agglomeration or additive layering, e.g. by 3D printing, stereolithography or selective laser sintering",
+      "count": 1398,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C64/10": {
+      "code": "B29C64/10",
+      "level": 1,
+      "parent": "B29C64/00",
+      "ja": "付加製造の工程［２０１７．０１］",
+      "en": "Processes of additive manufacturing",
+      "count": 2800,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C64/106": {
+      "code": "B29C64/106",
+      "level": 2,
+      "parent": "B29C64/10",
+      "ja": "液体または粘性材料のみを使用，例．粘性材料による連続したビードの沈着［２０１７．０１］",
+      "en": "using only liquids or viscous materials, e.g. depositing a continuous bead of viscous material",
+      "count": 5669,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C64/112": {
+      "code": "B29C64/112",
+      "level": 3,
+      "parent": "B29C64/106",
+      "ja": "個別の液滴の利用，例．噴射ヘッドから［２０１７．０１］",
+      "en": "using individual droplets, e.g. from jetting heads",
+      "count": 3770,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C64/118": {
+      "code": "B29C64/118",
+      "level": 3,
+      "parent": "B29C64/106",
+      "ja": "溶融したフィラメントの使用，例．熱溶融堆積法［ＦＤＭ］［２０１７．０１］",
+      "en": "using filamentary material being melted, e.g. fused deposition modelling [FDM]",
+      "count": 8597,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C64/124": {
+      "code": "B29C64/124",
+      "level": 3,
+      "parent": "B29C64/106",
+      "ja": "選択的に固化された液体の層を使用［２０１７．０１］",
+      "en": "using layers of liquid which are selectively solidified",
+      "count": 4004,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C64/129": {
+      "code": "B29C64/129",
+      "level": 4,
+      "parent": "B29C64/124",
+      "ja": "そのためのエネルギー源により特徴付けられる，例．マスクを使用した全体への照射［２０１７．０１］",
+      "en": "characterised by the energy source therefor, e.g. by global irradiation combined with a mask",
+      "count": 1721,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C64/135": {
+      "code": "B29C64/135",
+      "level": 5,
+      "parent": "B29C64/129",
+      "ja": "集中されたエネルギー源，例．レーザー走査または焦点の合った光源［２０１７．０１］",
+      "en": "the energy source being concentrated, e.g. scanning lasers or focused light sources",
+      "count": 2393,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C64/141": {
+      "code": "B29C64/141",
+      "level": 2,
+      "parent": "B29C64/10",
+      "ja": "固体材料のみを使用［２０１７．０１］",
+      "en": "using only solid materials",
+      "count": 997,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C64/147": {
+      "code": "B29C64/147",
+      "level": 3,
+      "parent": "B29C64/141",
+      "ja": "シート材料を使用，例．薄膜積層法［ＬＯＭ］または３Ｄ物体の局所断面に合わせてプレカットされたシート材料をラミネート［２０１７．０１］",
+      "en": "using sheet material, e.g. laminated object manufacturing [LOM] or laminating sheet material precut to local cross sections of the 3D object",
+      "count": 388,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C64/153": {
+      "code": "B29C64/153",
+      "level": 3,
+      "parent": "B29C64/141",
+      "ja": "選択的に結合された粉末の層を使用，例．選択的なレーザー焼結または溶融［２０１７．０１］",
+      "en": "using layers of powder being selectively joined, e.g. by selective laser sintering or melting",
+      "count": 6696,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C64/159": {
+      "code": "B29C64/159",
+      "level": 2,
+      "parent": "B29C64/10",
+      "ja": "気体物質のみを利用，例．蒸着［２０１７．０１］",
+      "en": "using only gaseous substances, e.g. vapour deposition",
+      "count": 40,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C64/165": {
+      "code": "B29C64/165",
+      "level": 2,
+      "parent": "B29C64/10",
+      "ja": "固体材料と流体材料の組合せを使用，例．結合剤，触媒，反応抑制剤またはエネルギー吸収体により選択的に結合された粉体［２０１７．０１］",
+      "en": "using a combination of solid and fluid materials, e.g. a powder selectively bound by a liquid binder, catalyst, inhibitor or energy absorber",
+      "count": 3174,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C64/171": {
+      "code": "B29C64/171",
+      "level": 2,
+      "parent": "B29C64/10",
+      "ja": "複数の３Ｄ物体を製造するために特に適合したもの［２０１７．０１］",
+      "en": "specially adapted for manufacturing multiple 3D objects",
+      "count": 349,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C64/176": {
+      "code": "B29C64/176",
+      "level": 3,
+      "parent": "B29C64/171",
+      "ja": "順々に［２０１７．０１］",
+      "en": "sequentially",
+      "count": 202,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C64/182": {
+      "code": "B29C64/182",
+      "level": 3,
+      "parent": "B29C64/171",
+      "ja": "並行して［２０１７．０１］",
+      "en": "in parallel batches",
+      "count": 248,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C64/188": {
+      "code": "B29C64/188",
+      "level": 2,
+      "parent": "B29C64/10",
+      "ja": "追加された層上に追加的な操作を実施するもの，例．平滑化，研削または厚さの制御（表面成形Ｂ２９Ｃ５９／００；物品の形状を変えない後処理；そのための装置Ｂ２９Ｃ７１／００）［２０１７．０１］",
+      "en": "involving additional operations performed on the added layers, e.g. smoothing, grinding or thickness control(surface shaping <b>B29C59/00</b>              ; after-treatment of articles without altering their shape <b>B29C71/00</b>              )",
+      "count": 1241,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C64/194": {
+      "code": "B29C64/194",
+      "level": 3,
+      "parent": "B29C64/188",
+      "ja": "レイアップの最中に［２０１７．０１］",
+      "en": "during lay-up",
+      "count": 479,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C64/20": {
+      "code": "B29C64/20",
+      "level": 1,
+      "parent": "B29C64/00",
+      "ja": "付加製造用装置；その細部またはそのための付属品［２０１７．０１］",
+      "en": "Apparatus for additive manufacturing; Details thereof or accessories therefor",
+      "count": 14807,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C64/205": {
+      "code": "B29C64/205",
+      "level": 2,
+      "parent": "B29C64/20",
+      "ja": "層を塗布する手段［２０１７．０１］",
+      "en": "Means for applying layers",
+      "count": 2189,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C64/209": {
+      "code": "B29C64/209",
+      "level": 3,
+      "parent": "B29C64/205",
+      "ja": "ヘッド；ノズル［２０１７．０１］",
+      "en": "Heads; Nozzles",
+      "count": 10107,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C64/214": {
+      "code": "B29C64/214",
+      "level": 3,
+      "parent": "B29C64/205",
+      "ja": "ドクターブレード［２０１７．０１］",
+      "en": "Doctor blades",
+      "count": 1416,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C64/218": {
+      "code": "B29C64/218",
+      "level": 3,
+      "parent": "B29C64/205",
+      "ja": "ローラー［２０１７．０１］",
+      "en": "Rollers",
+      "count": 710,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C64/223": {
+      "code": "B29C64/223",
+      "level": 3,
+      "parent": "B29C64/205",
+      "ja": "箔またはフィルム，例．積層材層を一つのワークステーションから他に移動するためのもの［２０１７．０１］",
+      "en": "Foils or films, e.g. for transferring layers of building material from one working station to another",
+      "count": 202,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C64/227": {
+      "code": "B29C64/227",
+      "level": 2,
+      "parent": "B29C64/20",
+      "ja": "駆動手段［２０１７．０１］",
+      "en": "Driving means",
+      "count": 2791,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C64/232": {
+      "code": "B29C64/232",
+      "level": 3,
+      "parent": "B29C64/227",
+      "ja": "層平面に対して垂直方向の動きのためのもの［２０１７．０１］",
+      "en": "for motion along the axis orthogonal to the plane of a layer",
+      "count": 2452,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C64/236": {
+      "code": "B29C64/236",
+      "level": 3,
+      "parent": "B29C64/227",
+      "ja": "層平面に対して水平方向の動きのためのもの［２０１７．０１］",
+      "en": "for motion in a direction within the plane of a layer",
+      "count": 2249,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C64/241": {
+      "code": "B29C64/241",
+      "level": 3,
+      "parent": "B29C64/227",
+      "ja": "回転の動きのためのもの［２０１７．０１］",
+      "en": "for rotary motion",
+      "count": 1360,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C64/245": {
+      "code": "B29C64/245",
+      "level": 2,
+      "parent": "B29C64/20",
+      "ja": "プラットフォームまたは基材（製造後に犠牲にすることが意図される支持構造Ｂ２９Ｃ６４／４０）［２０１７．０１］",
+      "en": "Platforms or substrates(support structures intended to be sacrificed after manufacture <b>B29C64/40</b>              )",
+      "count": 7875,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C64/25": {
+      "code": "B29C64/25",
+      "level": 2,
+      "parent": "B29C64/20",
+      "ja": "ハウジング，例．機械のハウジング［２０１７．０１］",
+      "en": "Housings, e.g. machine housings",
+      "count": 1278,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C64/255": {
+      "code": "B29C64/255",
+      "level": 2,
+      "parent": "B29C64/20",
+      "ja": "積層材用の収納容器，例．粉末容器［２０１７．０１］",
+      "en": "Enclosures for the building material, e.g. powder containers",
+      "count": 2912,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C64/259": {
+      "code": "B29C64/259",
+      "level": 3,
+      "parent": "B29C64/255",
+      "ja": "交換可能［２０１７．０１］",
+      "en": "interchangeable",
+      "count": 338,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C64/264": {
+      "code": "B29C64/264",
+      "level": 2,
+      "parent": "B29C64/20",
+      "ja": "放射線照射のための装置［２０１７．０１］",
+      "en": "Arrangements for irradiation",
+      "count": 3019,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C64/268": {
+      "code": "B29C64/268",
+      "level": 3,
+      "parent": "B29C64/264",
+      "ja": "レーザー光を使用；電子ビームを使用［２０１７．０１］",
+      "en": "using laser beams; using electron beams [EB]",
+      "count": 2768,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C64/273": {
+      "code": "B29C64/273",
+      "level": 4,
+      "parent": "B29C64/268",
+      "ja": "パルス；周波数変調［２０１７．０１］",
+      "en": "pulsed; frequency modulated",
+      "count": 171,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C64/277": {
+      "code": "B29C64/277",
+      "level": 3,
+      "parent": "B29C64/264",
+      "ja": "複数の放射手段の使用，例．マイクロミラーまたは複数の発光ダイオード［ＬＥＤ］［２０１７．０１］",
+      "en": "using multiple radiation means, e.g. micromirrors or multiple light-emitting diodes [LED]",
+      "count": 796,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C64/282": {
+      "code": "B29C64/282",
+      "level": 4,
+      "parent": "B29C64/277",
+      "ja": "同じ型式のもの，例．異なるエネルギーレベルを使用［２０１７．０１］",
+      "en": "of the same type, e.g. using different energy levels",
+      "count": 501,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C64/286": {
+      "code": "B29C64/286",
+      "level": 3,
+      "parent": "B29C64/264",
+      "ja": "光学フィルター，例．マスク［２０１７．０１］",
+      "en": "Optical filters, e.g. masks",
+      "count": 368,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C64/291": {
+      "code": "B29C64/291",
+      "level": 3,
+      "parent": "B29C64/264",
+      "ja": "全体を処理するためのもの，例．選択的に適用される活性剤または反応抑制剤と共に［２０１７．０１］",
+      "en": "for operating globally, e.g. together with selectively applied activators or inhibitors",
+      "count": 211,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C64/295": {
+      "code": "B29C64/295",
+      "level": 2,
+      "parent": "B29C64/20",
+      "ja": "加熱素子［２０１７．０１］",
+      "en": "Heating elements",
+      "count": 5053,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C64/30": {
+      "code": "B29C64/30",
+      "level": 1,
+      "parent": "B29C64/00",
+      "ja": "補助操作または補助設備［２０１７．０１］",
+      "en": "Auxiliary operations or equipment",
+      "count": 5762,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C64/307": {
+      "code": "B29C64/307",
+      "level": 2,
+      "parent": "B29C64/30",
+      "ja": "付加製造に使用される材料の取扱［２０１７．０１］",
+      "en": "Handling of material to be used in additive manufacturing",
+      "count": 1226,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C64/314": {
+      "code": "B29C64/314",
+      "level": 3,
+      "parent": "B29C64/307",
+      "ja": "調製［２０１７．０１］",
+      "en": "Preparation",
+      "count": 4135,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C64/321": {
+      "code": "B29C64/321",
+      "level": 3,
+      "parent": "B29C64/307",
+      "ja": "供給［２０１７．０１］",
+      "en": "Feeding",
+      "count": 6246,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C64/329": {
+      "code": "B29C64/329",
+      "level": 4,
+      "parent": "B29C64/321",
+      "ja": "ホッパーの使用［２０１７．０１］",
+      "en": "using hoppers",
+      "count": 609,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C64/336": {
+      "code": "B29C64/336",
+      "level": 4,
+      "parent": "B29C64/321",
+      "ja": "２つ以上の材料の［２０１７．０１］",
+      "en": "of two or more materials",
+      "count": 1833,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C64/343": {
+      "code": "B29C64/343",
+      "level": 3,
+      "parent": "B29C64/307",
+      "ja": "調量［２０１７．０１］",
+      "en": "Metering",
+      "count": 664,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C64/35": {
+      "code": "B29C64/35",
+      "level": 2,
+      "parent": "B29C64/30",
+      "ja": "クリーニング［２０１７．０１］",
+      "en": "Cleaning",
+      "count": 4719,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C64/357": {
+      "code": "B29C64/357",
+      "level": 2,
+      "parent": "B29C64/30",
+      "ja": "再利用［２０１７．０１］",
+      "en": "Recycling",
+      "count": 1745,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C64/364": {
+      "code": "B29C64/364",
+      "level": 2,
+      "parent": "B29C64/30",
+      "ja": "環境の調整［２０１７．０１］",
+      "en": "Conditioning of environment",
+      "count": 1223,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C64/371": {
+      "code": "B29C64/371",
+      "level": 3,
+      "parent": "B29C64/364",
+      "ja": "空気以外の環境の利用，例．不活性ガス［２０１７．０１］",
+      "en": "using an environment other than air, e.g. inert gas",
+      "count": 648,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C64/379": {
+      "code": "B29C64/379",
+      "level": 2,
+      "parent": "B29C64/30",
+      "ja": "付加製造された物体の取扱，例．ロボットの使用［２０１７．０１］",
+      "en": "Handling of additively manufactured objects, e.g. using robots",
+      "count": 3179,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C64/386": {
+      "code": "B29C64/386",
+      "level": 2,
+      "parent": "B29C64/30",
+      "ja": "付加製造のためのデータ取得またはデータ処理［２０１７．０１］",
+      "en": "Data acquisition or data processing for additive manufacturing",
+      "count": 8888,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C64/393": {
+      "code": "B29C64/393",
+      "level": 3,
+      "parent": "B29C64/386",
+      "ja": "付加製造工程を制御または調節するためのもの［２０１７．０１］",
+      "en": "for controlling or regulating additive manufacturing processes",
+      "count": 13274,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C64/40": {
+      "code": "B29C64/40",
+      "level": 1,
+      "parent": "B29C64/00",
+      "ja": "製造中に３Ｄ物体を支持し、かつ、その完成後に犠牲にすることが意図される構造［２０１７．０１］",
+      "en": "Structures for supporting 3D objects during manufacture and intended to be sacrificed after completion thereof",
+      "count": 2269,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C65/00": {
+      "code": "B29C65/00",
+      "level": 0,
+      "parent": "B29C",
+      "ja": "予備成形品の接合；そのための装置［４，５］",
+      "en": "Joining of preformed parts; Apparatus therefor",
+      "count": 40094,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C65/02": {
+      "code": "B29C65/02",
+      "level": 1,
+      "parent": "B29C65/00",
+      "ja": "加圧下または非加圧下での加熱によるもの［４］",
+      "en": "by heating, with or without pressure",
+      "count": 24969,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C65/04": {
+      "code": "B29C65/04",
+      "level": 2,
+      "parent": "B29C65/02",
+      "ja": "誘電加熱，例．高周波溶接［４］",
+      "en": "Dielectric heating, e.g. high-frequency welding",
+      "count": 5126,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C65/06": {
+      "code": "B29C65/06",
+      "level": 2,
+      "parent": "B29C65/02",
+      "ja": "摩擦を利用するもの，例．回転溶接［４］",
+      "en": "using friction, e.g. spin welding",
+      "count": 2897,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C65/08": {
+      "code": "B29C65/08",
+      "level": 2,
+      "parent": "B29C65/02",
+      "ja": "超音波振動を利用するもの［２００６．０１］",
+      "en": "using ultrasonic vibrations",
+      "count": 13546,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C65/10": {
+      "code": "B29C65/10",
+      "level": 2,
+      "parent": "B29C65/02",
+      "ja": "加熱ガスを用いるもの［４］",
+      "en": "using hot gases",
+      "count": 3439,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C65/12": {
+      "code": "B29C65/12",
+      "level": 3,
+      "parent": "B29C65/10",
+      "ja": "溶接棒の併用［４］",
+      "en": "and welding bar",
+      "count": 575,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C65/14": {
+      "code": "B29C65/14",
+      "level": 2,
+      "parent": "B29C65/02",
+      "ja": "波動エネルギーまたは粒子線照射を利用するもの［４］",
+      "en": "using wave energy or particle radiation",
+      "count": 2973,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C65/16": {
+      "code": "B29C65/16",
+      "level": 3,
+      "parent": "B29C65/14",
+      "ja": "レーザー光線［４］",
+      "en": "Laser beam",
+      "count": 3931,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C65/18": {
+      "code": "B29C65/18",
+      "level": 2,
+      "parent": "B29C65/02",
+      "ja": "加熱した工具を用いるもの［４］",
+      "en": "using heated tool",
+      "count": 12706,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C65/20": {
+      "code": "B29C65/20",
+      "level": 3,
+      "parent": "B29C65/18",
+      "ja": "直接接触によるもの，例．鏡を用いて［４］",
+      "en": "with direct contact, e.g. using \"mirror\"",
+      "count": 6352,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C65/22": {
+      "code": "B29C65/22",
+      "level": 3,
+      "parent": "B29C65/18",
+      "ja": "加熱した針金［４］",
+      "en": "Heated wire",
+      "count": 1557,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C65/24": {
+      "code": "B29C65/24",
+      "level": 3,
+      "parent": "B29C65/18",
+      "ja": "工具の加熱手段に特徴があるもの［４］<br><br><b><ul>注</ul></b><br>加熱手段の細部または適用が重要な場合にのみこのグループに分類する。［４］",
+      "en": "characterised by the means for heating the tool; <br><br><b><u>Note(s)</u></b><br><br><ul><li>Classification is made in this group only if the details or adaptations of the heating means are of interest.  </li></ul>",
+      "count": 950,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C65/26": {
+      "code": "B29C65/26",
+      "level": 4,
+      "parent": "B29C65/24",
+      "ja": "加熱流体［４］",
+      "en": "Hot fluid",
+      "count": 422,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C65/28": {
+      "code": "B29C65/28",
+      "level": 4,
+      "parent": "B29C65/24",
+      "ja": "火炎または可燃材料［４］",
+      "en": "Flame or combustible material",
+      "count": 192,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C65/30": {
+      "code": "B29C65/30",
+      "level": 4,
+      "parent": "B29C65/24",
+      "ja": "電気的手段［４］",
+      "en": "Electrical means",
+      "count": 1433,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C65/32": {
+      "code": "B29C65/32",
+      "level": 5,
+      "parent": "B29C65/30",
+      "ja": "誘導［４］",
+      "en": "Induction",
+      "count": 724,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C65/34": {
+      "code": "B29C65/34",
+      "level": 2,
+      "parent": "B29C65/02",
+      "ja": "接合部に残留する加熱部材を用いるもの［４］",
+      "en": "using heated elements which remain in the joint, e.g. \"verlorenes Schweisselement\"",
+      "count": 2977,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C65/36": {
+      "code": "B29C65/36",
+      "level": 3,
+      "parent": "B29C65/34",
+      "ja": "誘導加熱［４］",
+      "en": "heated by induction",
+      "count": 1666,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C65/38": {
+      "code": "B29C65/38",
+      "level": 2,
+      "parent": "B29C65/02",
+      "ja": "インパルス加熱［４］",
+      "en": "Impulse heating",
+      "count": 507,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C65/40": {
+      "code": "B29C65/40",
+      "level": 2,
+      "parent": "B29C65/02",
+      "ja": "溶融可塑物，例．ホットメルト，の適用（溶接棒を使用するものＢ２９Ｃ６５／１２；成形によるものＢ２９Ｃ６５／７０）［４］",
+      "en": "Applying molten plastics, e.g. hot melt(using welding bar <b>B29C65/12</b>; by moulding <b>B29C65/70</b>)",
+      "count": 2394,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C65/42": {
+      "code": "B29C65/42",
+      "level": 3,
+      "parent": "B29C65/40",
+      "ja": "あらかじめ組立てられた部品間で［４］",
+      "en": "between pre-assembled parts",
+      "count": 995,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C65/44": {
+      "code": "B29C65/44",
+      "level": 2,
+      "parent": "B29C65/02",
+      "ja": "加熱された非プラスチック部材のプラスチック部材との接合［４］",
+      "en": "Joining a heated non-plastics element to a plastics element",
+      "count": 1718,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C65/46": {
+      "code": "B29C65/46",
+      "level": 3,
+      "parent": "B29C65/44",
+      "ja": "誘導加熱［４］",
+      "en": "heated by induction",
+      "count": 384,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C65/48": {
+      "code": "B29C65/48",
+      "level": 1,
+      "parent": "B29C65/00",
+      "ja": "接着剤を用いるもの［４］",
+      "en": "using adhesives",
+      "count": 18986,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C65/50": {
+      "code": "B29C65/50",
+      "level": 2,
+      "parent": "B29C65/48",
+      "ja": "接着テープを用いるもの［４］",
+      "en": "using adhesive tape",
+      "count": 4122,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C65/52": {
+      "code": "B29C65/52",
+      "level": 2,
+      "parent": "B29C65/48",
+      "ja": "接着剤の適用［４］",
+      "en": "Applying the adhesive",
+      "count": 7211,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C65/54": {
+      "code": "B29C65/54",
+      "level": 3,
+      "parent": "B29C65/52",
+      "ja": "あらかじめ組立てられた部品間で［４］",
+      "en": "between pre-assembled parts",
+      "count": 2060,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C65/56": {
+      "code": "B29C65/56",
+      "level": 1,
+      "parent": "B29C65/00",
+      "ja": "機械的手段を用いるもの［４］",
+      "en": "using mechanical means",
+      "count": 10310,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C65/58": {
+      "code": "B29C65/58",
+      "level": 2,
+      "parent": "B29C65/56",
+      "ja": "スナップ結合［４］",
+      "en": "Snap connection",
+      "count": 834,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C65/60": {
+      "code": "B29C65/60",
+      "level": 2,
+      "parent": "B29C65/56",
+      "ja": "リベット止め［４］",
+      "en": "Riveting",
+      "count": 2642,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C65/62": {
+      "code": "B29C65/62",
+      "level": 2,
+      "parent": "B29C65/56",
+      "ja": "縫製［４］",
+      "en": "Stitching",
+      "count": 756,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C65/64": {
+      "code": "B29C65/64",
+      "level": 2,
+      "parent": "B29C65/56",
+      "ja": "非プラスチック部材のプラスチック部材との接合，例．加圧によるもの（Ｂ２９Ｃ６５／４４が優先）［４］",
+      "en": "Joining a non-plastics element to a plastics element, e.g. by force(<b>B29C65/44</b> takes precedence)",
+      "count": 3939,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C65/66": {
+      "code": "B29C65/66",
+      "level": 1,
+      "parent": "B29C65/00",
+      "ja": "内部応力の解放によるもの，例．接合される一方の部品の収縮によるもの［４］",
+      "en": "by liberation of internal stresses, e.g. shrinking of one of the parts to be joined",
+      "count": 916,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C65/68": {
+      "code": "B29C65/68",
+      "level": 2,
+      "parent": "B29C65/66",
+      "ja": "補助収縮性部材を用いるもの［４］",
+      "en": "using auxiliary shrinkable element",
+      "count": 438,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C65/70": {
+      "code": "B29C65/70",
+      "level": 1,
+      "parent": "B29C65/00",
+      "ja": "成形によるもの（特定の成形技術を用いるものは，関連技術を参照）［４］",
+      "en": "by moulding(using a particular moulding technique, <u>see</u> the relevant place for that technique)",
+      "count": 4786,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C65/72": {
+      "code": "B29C65/72",
+      "level": 1,
+      "parent": "B29C65/00",
+      "ja": "複合工程による接合，例．溶接と縫製［４］",
+      "en": "by combined operations, e.g. welding and stitching",
+      "count": 2157,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C65/74": {
+      "code": "B29C65/74",
+      "level": 1,
+      "parent": "B29C65/00",
+      "ja": "溶接と切断によるもの［４］",
+      "en": "by welding and severing",
+      "count": 8512,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C65/76": {
+      "code": "B29C65/76",
+      "level": 1,
+      "parent": "B29C65/00",
+      "ja": "非耐久性またははめはずし可能な接合部の形成［４］",
+      "en": "Making non-permanent or releasable joints",
+      "count": 771,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C65/78": {
+      "code": "B29C65/78",
+      "level": 1,
+      "parent": "B29C65/00",
+      "ja": "接合される部品の取扱手段，例．容器または中空物品の製造のためのもの［４］",
+      "en": "Means for handling the parts to be joined, e.g. for making containers or hollow articles",
+      "count": 32475,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C65/80": {
+      "code": "B29C65/80",
+      "level": 2,
+      "parent": "B29C65/78",
+      "ja": "回転可能な移送手段［４］",
+      "en": "Rotatable transfer means",
+      "count": 1414,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C65/82": {
+      "code": "B29C65/82",
+      "level": 1,
+      "parent": "B29C65/00",
+      "ja": "接合部の検査［４］",
+      "en": "Testing the joint",
+      "count": 1639,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C67/00": {
+      "code": "B29C67/00",
+      "level": 0,
+      "parent": "B29C",
+      "ja": "グループＢ２９Ｃ３９／００～Ｂ２９Ｃ６５／００，Ｂ２９Ｃ７０／００またはＢ２９Ｃ７３／００に包含されない成形技術［２０１７．０１］",
+      "en": "Shaping techniques not covered by groups <b>B29C39/00 to B29C65/00</b> , <b>B29C70/00</b> or <b>B29C73/00</b>",
+      "count": 29116,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C67/02": {
+      "code": "B29C67/02",
+      "level": 1,
+      "parent": "B29C67/00",
+      "ja": "凝集による成形［２０１７．０１］",
+      "en": "Moulding by agglomerating",
+      "count": 912,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C67/04": {
+      "code": "B29C67/04",
+      "level": 2,
+      "parent": "B29C67/02",
+      "ja": "焼結（加圧と組み合わされたものＢ２９Ｃ４３／００）［２０１７．０１］",
+      "en": "Sintering(combined with compression <b>B29C43/00</b>)",
+      "count": 2009,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C67/06": {
+      "code": "B29C67/06",
+      "level": 2,
+      "parent": "B29C67/02",
+      "ja": "凝固［２０１７．０１］",
+      "en": "Coagulating",
+      "count": 178,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C67/08": {
+      "code": "B29C67/08",
+      "level": 1,
+      "parent": "B29C67/00",
+      "ja": "スクリーン成形，例．成形材料を有孔スクリーンを介して型表面に押付けるもの［４］",
+      "en": "Screen moulding, e.g. forcing the moulding material through a perforated screen on to a moulding surface",
+      "count": 132,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C67/20": {
+      "code": "B29C67/20",
+      "level": 1,
+      "parent": "B29C67/00",
+      "ja": "多孔質または細胞質物品のための，例．孔の粗い発泡プラスチックの［４］",
+      "en": "for porous or cellular articles, e.g. of foam plastics, coarse-pored",
+      "count": 6778,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C67/24": {
+      "code": "B29C67/24",
+      "level": 1,
+      "parent": "B29C67/00",
+      "ja": "材料の選択によって特徴づけられたもの［４］",
+      "en": "characterised by the choice of material",
+      "count": 5221,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C69/00": {
+      "code": "B29C69/00",
+      "level": 0,
+      "parent": "B29C",
+      "ja": "メイングループＢ２９Ｃ３９／００～Ｂ２９Ｃ６７／００の単一成形技術に展開されない複合成形技術，例．成形と接合技術との組み合わせ；そのための装置［４］",
+      "en": "Combinations of shaping techniques not provided for in a single one of main groups <b>B29C39/00 to B29C67/00</b> , e.g. associations of moulding and joining techniques; Apparatus therefor",
+      "count": 19953,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C69/02": {
+      "code": "B29C69/02",
+      "level": 1,
+      "parent": "B29C69/00",
+      "ja": "成形技術のみからなるもの［４］",
+      "en": "of moulding techniques only",
+      "count": 5796,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C70/00": {
+      "code": "B29C70/00",
+      "level": 0,
+      "parent": "B29C",
+      "ja": "複合材料，すなわち補強材，充填材あるいは予備成形部品からなるプラスチック材料，例．挿入物，の成形（化学的な側面Ｃ０８，たとえばＣ０８Ｊ５／００）［６］<br><br><b><ul>注</ul></b><br>このグループでは，下記の用語や表現は以下に示す意味で用いる：［６］<br>―「補強材」とは，繊維，線，ロッド，バー，切片，板，あるいはブロックなどの形状をした構造を持ち，物品の強度を増すものである。［６］<br>―「充填材」とは，粒子，粉末，ビーズ，薄片，あるいは球などの形状をした比較的不活性な物質で，物品の物理的特性を高めたり，かさや重量を増したりするものである。［６］<br>―「予備成形部品」とは，素材は問わないが完全に規定の形状に合うように作られており，補強材として使われないものである。例．物品の表面だけにはめこまれたワイヤーやネット［６］<br>―「挿入物」とは，成形中に物品に組み込まれた予備成形部品のことである。［６］",
+      "en": "Shaping composites, i.e. plastics material comprising reinforcements, fillers or preformed parts, e.g. inserts; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this group, the following terms or expressions are used with the meanings indicated: <ul><li>\"reinforcement\" means a structure in the form of fibres, wires, rods, bars, sections, plates or blocks, which improves the strength of an article; </li><li>\"filler\" means a relatively inert substance in the form of particles, powder, beads, flakes or spheres, which improves the physical properties or increases the bulk or weight of an article; </li><li>\"preformed part\" means a part made of any material, being completely shaped to have a determined form and which is not used as a reinforcement, e.g. wires or nets forced only into the surface of an article; </li><li>\"insert\" means a preformed part incorporated in an article during moulding. </li></ul></li></ul>",
+      "count": 5232,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C70/02": {
+      "code": "B29C70/02",
+      "level": 1,
+      "parent": "B29C70/00",
+      "ja": "母材の中に補強材と充填材とが組み込まれたもので，一層以上の層をなし，非強化層あるいは非充填層があるもの，あるいはないもの。［６］",
+      "en": "comprising combinations of reinforcements and fillers incorporated in matrix material, forming one or more layers, with or without non-reinforced or non-filled layers",
+      "count": 2090,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C70/04": {
+      "code": "B29C70/04",
+      "level": 1,
+      "parent": "B29C70/00",
+      "ja": "補強材のみを含むもの，例．自己強化プラスチック［６］",
+      "en": "comprising reinforcements only, e.g. self-reinforcing plastics",
+      "count": 601,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C70/06": {
+      "code": "B29C70/06",
+      "level": 2,
+      "parent": "B29C70/04",
+      "ja": "繊維状の補強材のみ［６］",
+      "en": "Fibrous reinforcements only",
+      "count": 11433,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C70/08": {
+      "code": "B29C70/08",
+      "level": 3,
+      "parent": "B29C70/06",
+      "ja": "母材の中に異なる形状の繊維補強材が組み合わされて含まれ，一層以上の層をなしており，非補強層があるもの，あるいはないもの。［６］",
+      "en": "comprising combinations of different forms of fibrous reinforcements incorporated in matrix material, forming one or more layers, with or without non-reinforced layers",
+      "count": 3519,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C70/10": {
+      "code": "B29C70/10",
+      "level": 3,
+      "parent": "B29C70/06",
+      "ja": "繊維状の補強材の構造に特徴があるもの［６］",
+      "en": "characterised by the structure of fibrous reinforcements",
+      "count": 2783,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C70/12": {
+      "code": "B29C70/12",
+      "level": 4,
+      "parent": "B29C70/10",
+      "ja": "短繊維を使ったもの，例．マット状の［６］",
+      "en": "using fibres of short length, e.g. in the form of a mat",
+      "count": 1064,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C70/14": {
+      "code": "B29C70/14",
+      "level": 5,
+      "parent": "B29C70/12",
+      "ja": "配向した［６］",
+      "en": "oriented",
+      "count": 520,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C70/16": {
+      "code": "B29C70/16",
+      "level": 4,
+      "parent": "B29C70/10",
+      "ja": "相当な長さの，あるいは連続した長さの繊維を用いたもの［６］",
+      "en": "using fibres of substantial or continuous length",
+      "count": 4907,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C70/18": {
+      "code": "B29C70/18",
+      "level": 5,
+      "parent": "B29C70/16",
+      "ja": "マットの形で，例．シートモールディングコンパウンド［ＳＭＣ］［６］",
+      "en": "in the form of a mat, e.g. sheet moulding compound [SMC]",
+      "count": 534,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C70/20": {
+      "code": "B29C70/20",
+      "level": 5,
+      "parent": "B29C70/16",
+      "ja": "一軸配向した，例．ロービング，あるいは他の平行な繊維［６］",
+      "en": "oriented in a single direction, e.g. roving or other parallel fibres",
+      "count": 2140,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C70/22": {
+      "code": "B29C70/22",
+      "level": 5,
+      "parent": "B29C70/16",
+      "ja": "少なくとも二軸配向し，二次元構造を持つもの［２００６．０１］",
+      "en": "oriented in at least two directions forming a two-dimensional [2D] structure",
+      "count": 1967,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C70/24": {
+      "code": "B29C70/24",
+      "level": 5,
+      "parent": "B29C70/16",
+      "ja": "少なくとも三軸配向し，三次元の構造を持つもの［２００６．０１］",
+      "en": "oriented in at least three directions forming a three-dimensional [3D] structure",
+      "count": 1547,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C70/26": {
+      "code": "B29C70/26",
+      "level": 2,
+      "parent": "B29C70/04",
+      "ja": "非繊維の補強材のみ［６］",
+      "en": "Non-fibrous reinforcements only",
+      "count": 354,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C70/28": {
+      "code": "B29C70/28",
+      "level": 2,
+      "parent": "B29C70/04",
+      "ja": "そのための成形操作［６］<br><br><b><ul>注</ul></b><br>（１）このグループは以下のものを包含する。<br>―密着性の繊維補強材の成形。この補強材は前もって含浸するか，結合剤なしで使う。あるいは，非密着性の繊維補強材の成形。この補強材は，型の中に入れるか支持体の上に置いて使う。<br>―成形中における補強材中へのプラスチック基質の含浸，あるいは挿入［６］<br>（２）このグループには以下のものは含まれない。<br>―短い繊維の補強材を含んだ，あるいは混ぜ合わせた，プラスチック母材の単独技術による成形であって，その単一技術が，該当する場所に分類されている場合<br>―補強材そのものの含浸といった前処理。つまり，Ｂ２９Ｂ１５／０８のグループに分類されている補強材の成形とは関係がないもの［６］",
+      "en": "Shaping operations therefor; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This group <u>covers</u>: <ul><li>the shaping of coherent fibrous reinforcements which are pre-impregnated or without binder, or of non-coherent reinforcements of fibres placed in a mould or on a support; </li><li>the impregnation or introduction of a plastics matrix in reinforcements during shaping. </li></ul></li><li>This group <u>does not cover</u>: <ul><li>the moulding by a single technique of plastics matrix material mixed with and containing reinforcing fibres of short length, which is covered by the appropriate place for that technique; </li><li>the pretreatment, e.g. impregnation, of reinforcements <u>per se</u>, i.e. independently of their shaping, which is covered by group <b>B29B15/08</b>. </li></ul></li></ul>",
+      "count": 1078,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C70/30": {
+      "code": "B29C70/30",
+      "level": 3,
+      "parent": "B29C70/28",
+      "ja": "レイアップ法（母型，成形型，あるいはコアに，繊維やテープ，シートなどをあてがう）による成形；スプレーアップ法（母型，成形型，あるいはコアに，繊維を吹きつける）による成形［６］",
+      "en": "Shaping by lay-up, i.e. applying fibres, tape or broadsheet on a mould, former or core; Shaping by spray-up, i.e. spraying of fibres on a mould, former or core",
+      "count": 6323,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C70/32": {
+      "code": "B29C70/32",
+      "level": 4,
+      "parent": "B29C70/30",
+      "ja": "回転する母型，成形型，あるいはコアに［６］",
+      "en": "on a rotating mould, former or core",
+      "count": 3303,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C70/34": {
+      "code": "B29C70/34",
+      "level": 4,
+      "parent": "B29C70/30",
+      "ja": "および圧縮による成形または含浸［６］",
+      "en": "and shaping or impregnating by compression",
+      "count": 10118,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C70/36": {
+      "code": "B29C70/36",
+      "level": 4,
+      "parent": "B29C70/30",
+      "ja": "および鋳造による含浸，例．真空鋳造［６］",
+      "en": "and impregnating by casting, e.g. vacuum casting",
+      "count": 1883,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C70/38": {
+      "code": "B29C70/38",
+      "level": 4,
+      "parent": "B29C70/30",
+      "ja": "機械化されたレイアップ法，例．あらかじめ決められた型に合わせてロボットを使う［６］",
+      "en": "Automated lay-up, e.g. using robots, laying filaments according to predetermined patterns",
+      "count": 3921,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C70/40": {
+      "code": "B29C70/40",
+      "level": 3,
+      "parent": "B29C70/28",
+      "ja": "圧縮による成形あるいは含浸（Ｂ２９Ｃ７０／３４が優先）［６］",
+      "en": "Shaping or impregnating by compression(<b>B29C70/34</b> takes precedence)",
+      "count": 1260,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C70/42": {
+      "code": "B29C70/42",
+      "level": 4,
+      "parent": "B29C70/40",
+      "ja": "一定長の物品，つまり不連続物品，を製造するための［６］",
+      "en": "for producing articles of definite length, i.e. discrete articles",
+      "count": 2561,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C70/44": {
+      "code": "B29C70/44",
+      "level": 5,
+      "parent": "B29C70/42",
+      "ja": "均等圧を用いての，例．圧力差による成形，真空バッグによる成形，オートクレーブによる成形または膨張ゴムによる成形［６］",
+      "en": "using isostatic pressure, e.g. pressure difference-moulding, vacuum bag-moulding, autoclave-moulding or expanding rubber-moulding",
+      "count": 5692,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C70/46": {
+      "code": "B29C70/46",
+      "level": 5,
+      "parent": "B29C70/42",
+      "ja": "適合する型を用いるもの，例．シートモールディングコンパウンド［ＳＭＣ］またはプリプレグなどを変形させるための［６］",
+      "en": "using matched moulds, e.g. for deforming sheet moulding compounds [SMC] or prepregs",
+      "count": 4013,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C70/48": {
+      "code": "B29C70/48",
+      "level": 6,
+      "parent": "B29C70/46",
+      "ja": "および閉鎖型において補強材を含浸する，例．樹脂トランスファー成形［ＲＴＭ］［６］",
+      "en": "and impregnating the reinforcements in the closed mould, e.g. resin transfer moulding [RTM]",
+      "count": 3820,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C70/50": {
+      "code": "B29C70/50",
+      "level": 4,
+      "parent": "B29C70/40",
+      "ja": "不定長の物品を製造するための，例．プリプレグ，シートモールディングコンパウンド［ＳＭＣ］またはクロスモールディングコンパウンド［ＸＭＣ］［６］",
+      "en": "for producing articles of indefinite length, e.g. prepregs, sheet moulding compounds [SMC] or cross moulding compounds [XMC]",
+      "count": 3535,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C70/52": {
+      "code": "B29C70/52",
+      "level": 5,
+      "parent": "B29C70/50",
+      "ja": "引抜き，つまり連続してダイを通すことによる成形と圧縮［６］",
+      "en": "Pultrusion, i.e. forming and compressing by continuously pulling through a die",
+      "count": 5541,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C70/54": {
+      "code": "B29C70/54",
+      "level": 3,
+      "parent": "B29C70/28",
+      "ja": "構成部品，細部または付属品；補助操作［６］",
+      "en": "Component parts, details or accessories; Auxiliary operations",
+      "count": 21186,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C70/56": {
+      "code": "B29C70/56",
+      "level": 4,
+      "parent": "B29C70/54",
+      "ja": "成形前あるいは成形中に補強材を伸長する［６］",
+      "en": "Tensioning reinforcements before or during shaping",
+      "count": 890,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C70/58": {
+      "code": "B29C70/58",
+      "level": 1,
+      "parent": "B29C70/00",
+      "ja": "充填材のみからなる［６］<br><br><b><ul>注</ul></b><br>単独の技術による充填材を混ぜたプラスチック母材の成形は，その技術に該当する場所に分類する。［６］",
+      "en": "comprising fillers only; <br><br><b><u>Note(s)</u></b><br><br><ul><li>Moulding of plastics matrix material mixed with fillers by a single technique is classified in the appropriate place for that technique. </li></ul>",
+      "count": 1067,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C70/60": {
+      "code": "B29C70/60",
+      "level": 2,
+      "parent": "B29C70/58",
+      "ja": "母材と一体化されて一層以上の層をなした，異種の充填材の組合せからなるもの。非充填層の有無は問わない［６］",
+      "en": "comprising a combination of distinct filler types incorporated in matrix material, forming one or more layers, and with or without non-filled layers",
+      "count": 191,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C70/62": {
+      "code": "B29C70/62",
+      "level": 2,
+      "parent": "B29C70/58",
+      "ja": "成形中に配向された充填材（短繊維用Ｂ２９Ｃ７０／１４）［６］",
+      "en": "the filler being oriented during moulding(for fibres of short length <b>B29C70/14</b>)",
+      "count": 295,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C70/64": {
+      "code": "B29C70/64",
+      "level": 2,
+      "parent": "B29C70/58",
+      "ja": "素材の表面の性質に影響を与える充填材，例．表面近くで凝縮するか，あるいは加圧によって表面に合体することによる［６］",
+      "en": "the filler influencing the surface characteristics of the material, e.g. by concentrating near the surface or by incorporation into the surface by force",
+      "count": 458,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C70/66": {
+      "code": "B29C70/66",
+      "level": 2,
+      "parent": "B29C70/58",
+      "ja": "中が空洞になった構成要素からなる充填材，例．シンタクティック・フォーム［６］",
+      "en": "the filler comprising hollow constituents, e.g. syntactic foam",
+      "count": 411,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C70/68": {
+      "code": "B29C70/68",
+      "level": 1,
+      "parent": "B29C70/00",
+      "ja": "予備成形部品の上に合体，あるいは成形することによる，例．挿入物または層［６］<br><br><b><ul>注</ul></b><br>このグループには，以下のものは含まれない。<br>―ほかの該当する場所に分類されているような単一の技術を使った，予備成形部品との合体，または予備成形部品の上への成形<br>―予備成形部品そのものの前処理，つまり，Ｂ２９Ｂ１５／００のグループに分類されている「予備成形部品の成形」とは関係がないもの［６］",
+      "en": "by incorporating or moulding on preformed parts, e.g. inserts or layers; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This group <u>does not cover</u>: <ul><li>incorporating, or moulding on, preformed parts by a single technique, which is covered by the appropriate place for that technique; </li><li>pretreatment of preformed parts <u>per se</u>, i.e. independently of their shaping, which is covered by group <b>B29B15/00</b>. </li></ul></li></ul>",
+      "count": 5525,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C70/70": {
+      "code": "B29C70/70",
+      "level": 2,
+      "parent": "B29C70/68",
+      "ja": "完全に被包性の挿入物［６］",
+      "en": "Completely encapsulating inserts",
+      "count": 1485,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C70/72": {
+      "code": "B29C70/72",
+      "level": 2,
+      "parent": "B29C70/68",
+      "ja": "被包されていない突出物のある被包挿入物，例．電気部品の先端，末端部あるいは端子部分［６］",
+      "en": "Encapsulating inserts having non-encapsulated projections, e.g. extremities or terminal portions of electrical components",
+      "count": 923,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C70/74": {
+      "code": "B29C70/74",
+      "level": 2,
+      "parent": "B29C70/68",
+      "ja": "予備成形部品の比較的小さい部分上の成形，例．外部部品（ｏｕｔｓｅｒｔ）成形［６］",
+      "en": "Moulding material on a relatively small portion of the preformed part, e.g. outsert moulding",
+      "count": 1159,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C70/76": {
+      "code": "B29C70/76",
+      "level": 3,
+      "parent": "B29C70/74",
+      "ja": "予備成形部品の縁や突出部における成形［６］",
+      "en": "Moulding on edges or extremities of the preformed part",
+      "count": 959,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C70/78": {
+      "code": "B29C70/78",
+      "level": 2,
+      "parent": "B29C70/68",
+      "ja": "予備成形部品の片側だけの成形［６］",
+      "en": "Moulding material on one side only of the preformed part",
+      "count": 1320,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C70/80": {
+      "code": "B29C70/80",
+      "level": 3,
+      "parent": "B29C70/78",
+      "ja": "封鎖部の封止成形［６］",
+      "en": "Moulding sealing material into closure members",
+      "count": 267,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C70/82": {
+      "code": "B29C70/82",
+      "level": 2,
+      "parent": "B29C70/68",
+      "ja": "物品の表面の一部または全部へのワイヤー，ネットなどの押しつけ，例．切断と圧迫による［６］",
+      "en": "Forcing wires, nets or the like partially or completely into the surface of an article, e.g. by cutting and pressing",
+      "count": 426,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C70/84": {
+      "code": "B29C70/84",
+      "level": 2,
+      "parent": "B29C70/68",
+      "ja": "組み合わせる予備成形部品上の成形［６］",
+      "en": "Moulding material on preformed parts to be joined",
+      "count": 1216,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C70/86": {
+      "code": "B29C70/86",
+      "level": 2,
+      "parent": "B29C70/68",
+      "ja": "凝集性の含浸補強層への合体［６］",
+      "en": "Incorporating in coherent impregnated reinforcing layers",
+      "count": 1908,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C70/88": {
+      "code": "B29C70/88",
+      "level": 1,
+      "parent": "B29C70/00",
+      "ja": "主として特定の性質を持つことによって特徴付けられた，例．電気の伝導性があるまたは局部的に強化された［６］",
+      "en": "characterised primarily by possessing specific properties, e.g. electrically conductive or locally reinforced",
+      "count": 2333,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C71/00": {
+      "code": "B29C71/00",
+      "level": 0,
+      "parent": "B29C",
+      "ja": "物品の形状を変えない後処理；そのための装置（Ｂ２９Ｃ４４／５６，Ｂ２９Ｃ７３／００が優先；表面成形Ｂ２９Ｃ５９／００）［４，５，６］",
+      "en": "After-treatment of articles without altering their shape; Apparatus therefor(                <b>B29C44/56</b>, <b>B29C73/00</b> take precedence; surface shaping <b>B29C59/00</b>              )",
+      "count": 6419,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C71/02": {
+      "code": "B29C71/02",
+      "level": 1,
+      "parent": "B29C71/00",
+      "ja": "加熱によるもの［４］",
+      "en": "Thermal after-treatment",
+      "count": 5831,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C71/04": {
+      "code": "B29C71/04",
+      "level": 1,
+      "parent": "B29C71/00",
+      "ja": "波動エネルギーまたは粒子線照射によるもの［４］",
+      "en": "by wave energy or particle radiation",
+      "count": 3146,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C73/00": {
+      "code": "B29C73/00",
+      "level": 0,
+      "parent": "B29C",
+      "ja": "プラスチックまたは可塑状態の物質から作られた物品の補修，例．このサブクラスまたはサブクラスＢ２９Ｄに包含される技術を用いて成形または製造された物品の補修（タイヤを再生するものＢ２９Ｄ３０／５４；管またはホースにおける漏水を被覆する装置Ｆ１６Ｌ５５／１６）［５］",
+      "en": "Repairing of articles made from plastics or substances in a plastic state, e.g. of articles shaped or produced by using techniques covered by this subclass or subclass <b>B29D</b>(retreading tyres <b>B29D30/54</b>; devices for covering leaks in pipes or hoses <b>F16L55/16</b>)",
+      "count": 1457,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C73/02": {
+      "code": "B29C73/02",
+      "level": 1,
+      "parent": "B29C73/00",
+      "ja": "液体またはペースト材料を用いるもの（Ｂ２９Ｃ７３／１６が優先）［５］",
+      "en": "using liquid or paste-like material(<b>B29C73/16</b> takes precedence)",
+      "count": 2254,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C73/04": {
+      "code": "B29C73/04",
+      "level": 1,
+      "parent": "B29C73/00",
+      "ja": "あらかじめ形成された部材を用いるもの［５］",
+      "en": "using preformed elements",
+      "count": 689,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C73/06": {
+      "code": "B29C73/06",
+      "level": 2,
+      "parent": "B29C73/04",
+      "ja": "穴をシールする栓を用いることもの［５］",
+      "en": "using plugs sealing in the hole",
+      "count": 418,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C73/08": {
+      "code": "B29C73/08",
+      "level": 3,
+      "parent": "B29C73/06",
+      "ja": "そのための装置，例．挿入するためのもの［５］",
+      "en": "Apparatus therefor, e.g. for inserting",
+      "count": 397,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C73/10": {
+      "code": "B29C73/10",
+      "level": 2,
+      "parent": "B29C73/04",
+      "ja": "物品の表面を密封する当て部材を用いるもの（Ｂ２９Ｃ７３／１４が優先）［５］",
+      "en": "using patches sealing on the surface of the article(<b>B29C73/14</b> takes precedence)",
+      "count": 1287,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C73/12": {
+      "code": "B29C73/12",
+      "level": 3,
+      "parent": "B29C73/10",
+      "ja": "そのための装置，例．当てるためのもの（Ｂ２９Ｃ７３／３０が優先）［５］",
+      "en": "Apparatus therefor, e.g. for applying(<b>B29C73/30</b> takes precedence)",
+      "count": 452,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C73/14": {
+      "code": "B29C73/14",
+      "level": 2,
+      "parent": "B29C73/04",
+      "ja": "２つの部品を結合してなる部材を，物品の各側面に配置し使用する［５］",
+      "en": "using elements composed of two parts joined together after having been placed one on each side of the article",
+      "count": 95,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C73/16": {
+      "code": "B29C73/16",
+      "level": 1,
+      "parent": "B29C73/00",
+      "ja": "自動補修または自己密封装置もしくは剤［５］",
+      "en": "Auto-repairing or self-sealing arrangements or agents",
+      "count": 1358,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C73/18": {
+      "code": "B29C73/18",
+      "level": 2,
+      "parent": "B29C73/16",
+      "ja": "物品を構成する材料が自己密封性を有するもの，例．圧縮により［５］",
+      "en": "the article material itself being self-sealing, e.g. by compression",
+      "count": 298,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C73/20": {
+      "code": "B29C73/20",
+      "level": 3,
+      "parent": "B29C73/18",
+      "ja": "物品を構成する材料の一部分が変形可能な密封材料からなるもの［５］",
+      "en": "the article material only consisting in part of a deformable sealing material",
+      "count": 261,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C73/22": {
+      "code": "B29C73/22",
+      "level": 2,
+      "parent": "B29C73/16",
+      "ja": "シール組成物，例．物品が損傷するとき放出される粉末を含む部材を有する物品［５］",
+      "en": "the article containing elements including a sealing composition, e.g. powder being liberated when the article is damaged",
+      "count": 478,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C73/24": {
+      "code": "B29C73/24",
+      "level": 1,
+      "parent": "B29C73/00",
+      "ja": "他に分類されない装置または付属装置［５］",
+      "en": "Apparatus or accessories not otherwise provided for",
+      "count": 1320,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C73/26": {
+      "code": "B29C73/26",
+      "level": 2,
+      "parent": "B29C73/24",
+      "ja": "機械的前処理のためのもの［５］",
+      "en": "for mechanical pretreatment",
+      "count": 736,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C73/28": {
+      "code": "B29C73/28",
+      "level": 2,
+      "parent": "B29C73/24",
+      "ja": "柔軟な材料を締めたり引き伸ばすためのもの，例．内管［５］",
+      "en": "for clamping and stretching flexible material, e.g. inner tubes",
+      "count": 112,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C73/30": {
+      "code": "B29C73/30",
+      "level": 2,
+      "parent": "B29C73/24",
+      "ja": "局部的圧縮または局部的加熱のためのもの［５］",
+      "en": "for local pressing or local heating",
+      "count": 632,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C73/32": {
+      "code": "B29C73/32",
+      "level": 3,
+      "parent": "B29C73/30",
+      "ja": "弾性のある部材を用いるもの，例．膨張可能な袋［５］",
+      "en": "using an elastic element, e.g. inflatable bag",
+      "count": 169,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    },
+    "B29C73/34": {
+      "code": "B29C73/34",
+      "level": 3,
+      "parent": "B29C73/30",
+      "ja": "局部的加熱のためのもの［５］",
+      "en": "for local heating",
+      "count": 750,
+      "sourceFile": "ipc_B29C.txt",
+      "kind": "ipc"
+    }
+  }
+};

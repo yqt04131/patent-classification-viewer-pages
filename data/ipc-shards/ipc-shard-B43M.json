@@ -1,0 +1,226 @@
+{
+  "generatedAt": "2026-03-20T02:17:46.200Z",
+  "total": 22,
+  "entries": {
+    "B43M": {
+      "code": "B43M",
+      "level": 0,
+      "parent": "B43",
+      "ja": "他に分類されない机上付属具（ステープラーＢ２５Ｃ，Ｂ２７Ｆ；シートを一時的に一緒に取付けるための装置Ｂ４２Ｆ；粘着テープ繰り出し器Ｂ６５Ｈ３５／０７）<br><br><b><ul>サブクラス内の索引</ul></b><br>紙片の綴込み；封筒の書類差入れ，開閉　１／００；３／００，５／００，７／００<br>ぶんちん；液を扱うためのもの；スタンプ剤；製図用画鋲，画鋲　９／００；１１／００；１３／００；１５／００<br>他の付属具　９９／００",
+      "en": "BUREAU ACCESSORIES NOT OTHERWISE PROVIDED FOR(stapling devices <b>B25C</b>, <b>B27F</b>; devices for temporarily attaching sheets together <b>B42F</b>; adhesive tape dispensers <b>B65H35/07</b>);<br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">FIXING SEALS; INSERTING DOCUMENTS INTO, CLOSING, OR OPENING, ENVELOPES </td><td><b><b>1/00</b>; <b>3/00</b>, <b>5/00</b>, <b>7/00</b></b></td></tr></tr><tr><td width=\"70%\">PAPER-WEIGHTS; DEVICES FOR APPLYING LIQUIDS; STAMP DISPENSERS; DRAWING-PINS OR THUMB-TACKS </td><td><b><b>9/00</b>; <b>11/00</b>; <b>13/00</b>; <b>15/00</b></b></td></tr></tr><tr><td width=\"70%\">OTHER ACCESSORIES </td><td><b><b>99/00</b></b></td></tr></tr></table>",
+      "count": 542,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B43": {
+      "code": "B43",
+      "level": 0,
+      "parent": "B",
+      "ja": "筆記用または製図用の器具；机上付属具",
+      "en": "WRITING OR DRAWING IMPLEMENTS; BUREAU ACCESSORIES",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B": {
+      "code": "B",
+      "level": 0,
+      "parent": null,
+      "ja": "処理操作；運輸",
+      "en": "PERFORMING OPERATIONS; TRANSPORTING",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B43M1/00": {
+      "code": "B43M1/00",
+      "level": 0,
+      "parent": "B43M",
+      "ja": "書類へのシールの取付け（打出しダイスＢ４４Ｂ；紋章はＧ０９Ｆ３／００を参照）",
+      "en": "Fixing seals on documents(embossing dies <b>B44B</b>; seals <u>per se</u><b>G09F3/00</b>)",
+      "count": 269,
+      "sourceFile": "ipc_B43M.txt",
+      "kind": "ipc"
+    },
+    "B43M1/02": {
+      "code": "B43M1/02",
+      "level": 1,
+      "parent": "B43M1/00",
+      "ja": "封ろうホルダー",
+      "en": "Sealing-wax holders",
+      "count": 55,
+      "sourceFile": "ipc_B43M.txt",
+      "kind": "ipc"
+    },
+    "B43M3/00": {
+      "code": "B43M3/00",
+      "level": 0,
+      "parent": "B43M",
+      "ja": "封筒内に書類を差入れるためのもの（書類の差入れと閉封を兼ねたものＢ４３Ｍ５／００）",
+      "en": "Devices for inserting documents into envelopes(combined devices for inserting documents into, and closing, envelopes <b>B43M5/00</b>)",
+      "count": 168,
+      "sourceFile": "ipc_B43M.txt",
+      "kind": "ipc"
+    },
+    "B43M3/02": {
+      "code": "B43M3/02",
+      "level": 1,
+      "parent": "B43M3/00",
+      "ja": "書類折り曲げ手段を備えたもの（Ｂ４３Ｍ３／０４が優先）",
+      "en": "equipped with document-folding means(<b>B43M3/04</b> takes precedence)",
+      "count": 165,
+      "sourceFile": "ipc_B43M.txt",
+      "kind": "ipc"
+    },
+    "B43M3/04": {
+      "code": "B43M3/04",
+      "level": 1,
+      "parent": "B43M3/00",
+      "ja": "自動的なもの",
+      "en": "automatic",
+      "count": 886,
+      "sourceFile": "ipc_B43M.txt",
+      "kind": "ipc"
+    },
+    "B43M5/00": {
+      "code": "B43M5/00",
+      "level": 0,
+      "parent": "B43M",
+      "ja": "封筒を閉じるためのもの",
+      "en": "Devices for closing envelopes",
+      "count": 263,
+      "sourceFile": "ipc_B43M.txt",
+      "kind": "ipc"
+    },
+    "B43M5/02": {
+      "code": "B43M5/02",
+      "level": 1,
+      "parent": "B43M5/00",
+      "ja": "封筒の蓋片に粘着ゴムを塗って手で封を閉じるためのもの",
+      "en": "Hand devices for both moistening gummed flaps of envelopes and for closing the envelopes",
+      "count": 226,
+      "sourceFile": "ipc_B43M.txt",
+      "kind": "ipc"
+    },
+    "B43M5/04": {
+      "code": "B43M5/04",
+      "level": 1,
+      "parent": "B43M5/00",
+      "ja": "自動的なもの",
+      "en": "automatic",
+      "count": 1139,
+      "sourceFile": "ipc_B43M.txt",
+      "kind": "ipc"
+    },
+    "B43M7/00": {
+      "code": "B43M7/00",
+      "level": 0,
+      "parent": "B43M",
+      "ja": "封筒を開くためのもの（切断具一般Ｂ２６）",
+      "en": "Devices for opening envelopes(cutting tools in general <b>B26</b>)",
+      "count": 983,
+      "sourceFile": "ipc_B43M.txt",
+      "kind": "ipc"
+    },
+    "B43M7/02": {
+      "code": "B43M7/02",
+      "level": 1,
+      "parent": "B43M7/00",
+      "ja": "開封し中味を取出すためのもの",
+      "en": "Devices for both opening envelopes and removing contents",
+      "count": 150,
+      "sourceFile": "ipc_B43M.txt",
+      "kind": "ipc"
+    },
+    "B43M9/00": {
+      "code": "B43M9/00",
+      "level": 0,
+      "parent": "B43M",
+      "ja": "ぶんちん",
+      "en": "Paper-weights",
+      "count": 819,
+      "sourceFile": "ipc_B43M.txt",
+      "kind": "ipc"
+    },
+    "B43M11/00": {
+      "code": "B43M11/00",
+      "level": 0,
+      "parent": "B43M",
+      "ja": "事務室のまたは個人用のインク以外の液体を表面に接触させることにより用いる机上具，例．のり用のもの（封筒閉じ具を持つものＢ４３Ｍ５／０２；ブラシ受けＡ４６Ｂ１１／００；表面に液体または流動体を作用させる装置一般Ｂ０５Ｃ；液体容器Ｂ６５Ｄ）",
+      "en": "Hand or desk devices of the office or personal type for applying liquid, other than ink, by contact to surfaces, e.g. for applying adhesive(combined with envelope-closing devices <b>B43M5/02</b>; reservoir brushes <b>A46B11/00</b>; devices for applying liquids or other fluent materials to surfaces in general <b>B05C</b>; liquid receptacles <b>B65D</b>)",
+      "count": 1504,
+      "sourceFile": "ipc_B43M.txt",
+      "kind": "ipc"
+    },
+    "B43M11/02": {
+      "code": "B43M11/02",
+      "level": 1,
+      "parent": "B43M11/00",
+      "ja": "ローラをもつもの",
+      "en": "with rollers",
+      "count": 362,
+      "sourceFile": "ipc_B43M.txt",
+      "kind": "ipc"
+    },
+    "B43M11/04": {
+      "code": "B43M11/04",
+      "level": 1,
+      "parent": "B43M11/00",
+      "ja": "パッドをもつもの（Ｂ４３Ｍ１１／０６が優先）",
+      "en": "with pads(<b>B43M11/06</b> takes precedence)",
+      "count": 295,
+      "sourceFile": "ipc_B43M.txt",
+      "kind": "ipc"
+    },
+    "B43M11/06": {
+      "code": "B43M11/06",
+      "level": 1,
+      "parent": "B43M11/00",
+      "ja": "保持具",
+      "en": "Hand-held devices",
+      "count": 1601,
+      "sourceFile": "ipc_B43M.txt",
+      "kind": "ipc"
+    },
+    "B43M11/08": {
+      "code": "B43M11/08",
+      "level": 2,
+      "parent": "B43M11/06",
+      "ja": "万年筆型のもの",
+      "en": "of the fountain-pen type",
+      "count": 368,
+      "sourceFile": "ipc_B43M.txt",
+      "kind": "ipc"
+    },
+    "B43M13/00": {
+      "code": "B43M13/00",
+      "level": 0,
+      "parent": "B43M",
+      "ja": "物品に証紙を付設する様調整されたものであって，機構を有しない一枚毎の証紙配布機（手で操作するラベル，スタンプの押し具Ｂ６５Ｃ１１／００）",
+      "en": "Dispensers without mechanisms for single stamps modified for the application of stamps to articles(manually-controlled or manually-operable label or stamp dispensers <b>B65C11/00</b>)",
+      "count": 137,
+      "sourceFile": "ipc_B43M.txt",
+      "kind": "ipc"
+    },
+    "B43M15/00": {
+      "code": "B43M15/00",
+      "level": 0,
+      "parent": "B43M",
+      "ja": "製図用ピンまたは画鋲（抜取器Ｂ２５Ｃ１１／００）",
+      "en": "Drawing-pins or thumb-tacks(extractors <b>B25C11/00</b>)",
+      "count": 1762,
+      "sourceFile": "ipc_B43M.txt",
+      "kind": "ipc"
+    },
+    "B43M99/00": {
+      "code": "B43M99/00",
+      "level": 0,
+      "parent": "B43M",
+      "ja": "このサブクラスの他のグループに分類されない主題事項［２０１０．０１］",
+      "en": "Subject matter not provided for in other groups of this subclass",
+      "count": 10496,
+      "sourceFile": "ipc_B43M.txt",
+      "kind": "ipc"
+    }
+  }
+}

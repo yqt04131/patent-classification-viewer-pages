@@ -1,0 +1,96 @@
+window.IPC_SHARD_B60F = {
+  "generatedAt": "2026-03-20T02:17:46.209Z",
+  "total": 9,
+  "entries": {
+    "B60F": {
+      "code": "B60F",
+      "level": 0,
+      "parent": "B60",
+      "ja": "軌条と路面両用車両；異種の媒体内または媒体上を移動可能な車両，例．水陸両用車両（空気クッション車両Ｂ６０Ｖ）",
+      "en": "VEHICLES FOR USE BOTH ON RAIL AND ON ROAD; VEHICLES CAPABLE OF TRAVELLING IN OR ON DIFFERENT MEDIA, e.g. AMPHIBIOUS VEHICLES(air-cushion vehicles <b>B60V</b>)",
+      "count": 190,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B60": {
+      "code": "B60",
+      "level": 0,
+      "parent": "B",
+      "ja": "車両一般<br><br><b><ul>注</ul></b><br>このクラスにおいては，下記の用語は以下に示す意味で用いる：<br>―“車両”は次の形の車両にのみ限定されるものを除いてすべての車両を意味する：鉄道車両，水上輸送船，航空機，宇宙乗物，手動運搬車，自転車，動物牽引車両およびそり；これらは，これに関連するサブクラスＢ６１からＢ６４に包含される。<br>用語“車両”は以下のものを包含する：<br>―上掲の二以上の形に共通な車両的特徴のあるもの；<br>―自動車もしくは道路またはクロスカントリー用のトレーラに限定される特徴あるもの。<br>―次の例外に注意されたい：<br>（ａ）サブクラスＢ６０ＢとＢ６０Ｃは，ローラースケート用車輪Ａ６３Ｃ１７／２２，鉄道模型用車輪Ａ６３Ｈ１９／２２および航空機用に特別に用いられる車輪またはタイヤＢ６４Ｃ２５／３６を除いて，すべての車両の車輪およびタイヤを含む；<br>（ｂ）サブクラスＢ６０Ｃは膨張可能な弾性体一般へのバルブの取付けを含み，この点は車両に限定されない；<br>（ｃ）サブクラスＢ６０Ｌはすべての電動車両の電気装置を含む；<br>（ｄ）サブクラスＢ６０Ｍは，外部の，すべての種類の電動車両の動力供給装置を含む；<br>（ｅ）サブクラスＢ６０Ｒは陸用車両の全型式に用いられる安全ベルトまたは身体用ハーネスを含む；［４］<br>（ｆ）サブクラスＢ６０Ｓは，グループＢ６１Ｋ１１／００に分類される鉄道機関車の施設，サブクラスＢ６４Ｆに分類される航空機の地上設備またはグループＢ６３Ｂ５７／００，Ｂ６３Ｂ５９／００に分類される水上浮揚構造物に特有な洗浄装置を除いて，すべての種類の車両に関する；<br>（ｇ）サブクラスＢ６０Ｔは一般に適用できる制動制御装置を含み，かつこの意味においてこれは車両に限定されない。また鉄道車両の動力制動装置および鉄道車両の制動装置の他の構造をも含む。；<br>（ｈ）サブクラスＢ６０Ｖは空気クッション車両自体，および空気クッション車両としても運用可能な特徴を有するまたは部分的に空気クッションによって支持される地上用車両，水上用車両または航空機を含む。［２００９．０１］",
+      "en": "VEHICLES IN GENERAL; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this class, the following term is used with the meaning indicated: <ul><li>\"vehicle\" means all vehicles except those restricted to one of the following types of vehicles: rail vehicles, waterborne vessels, aircraft, space vehicles, hand carts, cycles, animal-drawn vehicles, and sledges, which are covered by the relevant subclasses of <b>B61 to B64</b> . <ul><li>Thus the term \"vehicle\" includes: <ul><li>vehicular characteristics which are common to more than one of the above-listed types;</li><li>certain characteristics restricted to automobiles, road or cross-country trailers.</li><li>The following exceptions to the above should be noted: <ul><li>subclass <b>B60B</b> or <b>B60C</b> embrace all vehicle wheels and tyres, except wheels for roller skates <b>A63C17/22</b>, wheels for model railway vehicles <b>A63H19/22</b>, and special adaptations of wheels or tyres for aircraft <b>B64C25/36</b>;</li><li>subclass <b>B60C</b> embraces the connection of valves to inflatable elastic bodies in general, and in this respect it is not limited to vehicles;</li><li>subclass <b>B60L</b> embraces certain electric equipment of all electrically-propelled vehicles;</li><li>subclass <b>B60M</b> embraces certain power supply equipment for, but external to, any kind of electrically-propelled vehicle;</li><li>subclass <b>B60R</b> embraces safety belts or body harnesses used in all types of land vehicles;</li><li>subclass <b>B60S</b> relates to all kinds of vehicles, except the servicing of rail locomotives <b>B61K11/00</b>, ground equipment for aircraft <b>B64F</b>, or cleaning apparatus peculiar to waterborne vessels <b>B63B57/00</b>, <b>B63B59/00</b>;</li><li>subclass <b>B60T</b> includes brake control systems of general applicability, and in this respect it is not limited to vehicles. It also includes rail-vehicle power-brake systems and some other features of rail-vehicle brake systems;</li><li>subclass <b>B60V</b> embraces air-cushion vehicles <u>per se</u> and land vehicles, waterborne vessels or aircraft combined with features allowing them to alternatively operate as air-cushion vehicles or to be partially supported by an air cushion.</li></ul></li></ul></li></ul></li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B": {
+      "code": "B",
+      "level": 0,
+      "parent": null,
+      "ja": "処理操作；運輸",
+      "en": "PERFORMING OPERATIONS; TRANSPORTING",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B60F1/00": {
+      "code": "B60F1/00",
+      "level": 0,
+      "parent": "B60F",
+      "ja": "軌条と路面両用車両；その転換装置",
+      "en": "Vehicles for use both on rail and on road; Conversions therefor",
+      "count": 1297,
+      "sourceFile": "ipc_B60F.txt",
+      "kind": "ipc"
+    },
+    "B60F1/02": {
+      "code": "B60F1/02",
+      "level": 1,
+      "parent": "B60F1/00",
+      "ja": "同軸上に軌条用と路面用車輪をもつもの",
+      "en": "with rail and road wheels on the same axle",
+      "count": 460,
+      "sourceFile": "ipc_B60F.txt",
+      "kind": "ipc"
+    },
+    "B60F1/04": {
+      "code": "B60F1/04",
+      "level": 1,
+      "parent": "B60F1/00",
+      "ja": "異なる軸に軌条用と路面用車輪をもつもの",
+      "en": "with rail and road wheels on different axles",
+      "count": 1797,
+      "sourceFile": "ipc_B60F.txt",
+      "kind": "ipc"
+    },
+    "B60F3/00": {
+      "code": "B60F3/00",
+      "level": 0,
+      "parent": "B60F",
+      "ja": "水陸両用車両，すなわち地上と水上を走行できる車両；水中を走行できる陸上車両［２００６．０１］",
+      "en": "Amphibious vehicles, i.e. vehicles capable of travelling both on land and on water; Land vehicles capable of travelling under water",
+      "count": 7692,
+      "sourceFile": "ipc_B60F.txt",
+      "kind": "ipc"
+    },
+    "B60F5/00": {
+      "code": "B60F5/00",
+      "level": 0,
+      "parent": "B60F",
+      "ja": "異種の媒体内または媒体上を走行できる他の車両（飛行艇または水上機Ｂ６４Ｃ３５／００）  ［２００６．０１］",
+      "en": "Other vehicles capable of travelling in or on different media(flying-boats or seaplanes <b>B64C35/00</b>)",
+      "count": 712,
+      "sourceFile": "ipc_B60F.txt",
+      "kind": "ipc"
+    },
+    "B60F5/02": {
+      "code": "B60F5/02",
+      "level": 1,
+      "parent": "B60F5/00",
+      "ja": "航空機に転換できるもの（転換式航空機Ｂ６４Ｃ３７／００；転換式無人型航空機［ＵＡＶ］，例．陸上車両に転換可能なもの，Ｂ６４Ｕ１０／７０）［２００６．０１］",
+      "en": "convertible into aircraft(convertible aircraft <b>B64C37/00</b>; convertible unmanned aerial vehicle [UAV]-type aircraft, e.g. convertible into land vehicles, <b>B64U10/70</b>)",
+      "count": 3560,
+      "sourceFile": "ipc_B60F.txt",
+      "kind": "ipc"
+    }
+  }
+};

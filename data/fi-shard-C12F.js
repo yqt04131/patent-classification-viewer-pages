@@ -1,0 +1,110 @@
+window.FI_SHARD_C12F = {
+  "generatedAt": "2026-03-20T02:17:50.500Z",
+  "total": 8,
+  "entries": {
+    "C12F": {
+      "code": "C12F",
+      "level": 0,
+      "parent": null,
+      "ja": "",
+      "en": "",
+      "count": 0,
+      "ipcCode": "",
+      "fTerm": "RECOVERY OF BY-PRODUCTS OF FERMENTED SOLUTIONS (removal of yeast from wine or sparkling wine <b>C12G 1/08</b>); DENATURED ALCOHOL; PREPARATION THEREOF<b>[6]</b><br><br><b><u>Note(s)</u></b><br><br><ul type=\"\"1\"\"><li>In this subclass, it is desirable to add the indexing codes of subclass <b>C12R</b>.<b>[6]</b></li></ul>",
+      "childFlag": 0,
+      "sourceFile": "fi_C.txt",
+      "kind": "fi"
+    },
+    "C12F3/00\\": {
+      "code": "C12F3/00\\",
+      "level": 0,
+      "parent": null,
+      "ja": "副産物の採取",
+      "en": "Recovery of by-products",
+      "count": 72,
+      "ipcCode": "C12F3/00",
+      "fTerm": "4B128",
+      "childFlag": 0,
+      "sourceFile": "fi_C12F.txt",
+      "kind": "fi"
+    },
+    "C12F3/02\\": {
+      "code": "C12F3/02\\",
+      "level": 1,
+      "parent": "C12F3/00\\",
+      "ja": "炭酸ガスの",
+      "en": "of carbon dioxide",
+      "count": 8,
+      "ipcCode": "C12F3/02",
+      "fTerm": "4B128",
+      "childFlag": 1,
+      "sourceFile": "fi_C12F.txt",
+      "kind": "fi"
+    },
+    "C12F3/04\\": {
+      "code": "C12F3/04\\",
+      "level": 2,
+      "parent": "C12F3/02\\",
+      "ja": "炭酸ガスから揮発性発酵生産物の採取",
+      "en": "Recovery of volatile fermentation products from carbon dioxide",
+      "count": 5,
+      "ipcCode": "C12F3/04",
+      "fTerm": "4B128",
+      "childFlag": 2,
+      "sourceFile": "fi_C12F.txt",
+      "kind": "fi"
+    },
+    "C12F3/06\\": {
+      "code": "C12F3/06\\",
+      "level": 1,
+      "parent": "C12F3/00\\",
+      "ja": "ビールまたはぶどう酒からのもの（Ｃ１２Ｆ３／０２が優先；ぶどう酒の酵母の除去Ｃ１２Ｇ１／０８）",
+      "en": "from beer or wine (; removal of yeast of wine&nbsp;C12G 1/08)",
+      "count": 39,
+      "ipcCode": "C12F3/06",
+      "fTerm": "4B128",
+      "childFlag": 1,
+      "sourceFile": "fi_C12F.txt",
+      "kind": "fi"
+    },
+    "C12F3/08\\": {
+      "code": "C12F3/08\\",
+      "level": 2,
+      "parent": "C12F3/06\\",
+      "ja": "圧搾残留物または他の廃物質からのアルコール採取（炭酸ガスからＣ１２Ｆ３／０４）",
+      "en": "Recovery of alcohol from press residues or other waste material (from carbon dioxide C12F 3/04)",
+      "count": 22,
+      "ipcCode": "C12F3/08",
+      "fTerm": "4B128",
+      "childFlag": 2,
+      "sourceFile": "fi_C12F.txt",
+      "kind": "fi"
+    },
+    "C12F3/10\\": {
+      "code": "C12F3/10\\",
+      "level": 1,
+      "parent": "C12F3/00\\",
+      "ja": "蒸留かすからのもの",
+      "en": "from distillery slops",
+      "count": 137,
+      "ipcCode": "C12F3/10",
+      "fTerm": "4B128",
+      "childFlag": 1,
+      "sourceFile": "fi_C12F.txt",
+      "kind": "fi"
+    },
+    "C12F5/00\\": {
+      "code": "C12F5/00\\",
+      "level": 0,
+      "parent": null,
+      "ja": "変性アルコールの調製",
+      "en": "Preparation of denatured alcohol",
+      "count": 3,
+      "ipcCode": "C12F5/00",
+      "fTerm": "4B128",
+      "childFlag": 0,
+      "sourceFile": "fi_C12F.txt",
+      "kind": "fi"
+    }
+  }
+};

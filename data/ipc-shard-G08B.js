@@ -1,0 +1,1286 @@
+window.IPC_SHARD_G08B = {
+  "generatedAt": "2026-03-20T02:17:47.108Z",
+  "total": 128,
+  "entries": {
+    "G08B": {
+      "code": "G08B",
+      "level": 0,
+      "parent": "G08",
+      "ja": "信号装置，例．個人呼出し装置；指令発信；警報装置<br><br><b><ul>注</ul></b><br>注<br>１．このサブクラスは，盗みまたはそれと同様な行為を検知するかまたは上記行為を不可能にするための手段をも包含する。<br>２．このサブクラスは以下のものを包含しない：<br>・測定装置または開閉装置のたんなる可聴または可視信号装置にすぎない設備；<br>・特定の変量が予定値を超えたかまたはその値以下になったことを指示するための警報装置，ただしこれは，この変量の測定のためのＧ０１の関連サブクラスに包含される；<br>・特定のプロセスまたは種々の形式の機械または装置のための警報，ただしこれはそのプロセス，機械または装置のための関連サブクラスに包含される。<br>３．このサブクラスにおいては，下記の用語は以下に示す意味で用いる：<br>・“装置”とは，それに特有な装置を包含しうるものである。<br><br><b><ul>サブクラス内の索引</ul></b><br>サブクラス内の索引<br>信号装置および呼出し装置一般<br>信号の伝送によって特徴づけられたもの　１／００<br>表示の性質に特徴があるもの：可聴；可視；可触；組合せ　３／００；５／００；６／００；７／００<br>指令発信装置　９／００<br>警報システム<br>不特定の状態に応答するもの　２３／００<br>２つ以上の異なる状態に応答するもの　１９／００<br>１つの特定の状態に応答するもの：潜入；火災；その他　１３／００，１５／００；１７／００；２１／００<br>中央局からまたは中央局への伝送を行なうもの　２５／００，２６／００，２７／００<br>予報警報システム　３１／００<br>試験，監視　２９／００",
+      "en": "SIGNALLING SYSTEMS, e.g. PERSONAL CALLING SYSTEMS; ORDER TELEGRAPHS; ALARM SYSTEMS; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This subclass <u>covers</u> also means for identifying or incapacitating burglars or the like.</li><li>This subclass <u>does not cover</u>:<ul><li>the mere provision of an audible or visible signalling device on measuring or switching apparatus;</li><li>alarm systems for indicating that a specific variable has exceeded, or fallen below, a predetermined value, which are covered by the relevant subclasses of class <b>G01</b> for the measurement of that variable.</li><li>alarms for specific processes or types of machines or apparatus, which are covered by the relevant subclasses for the processes, machines, or apparatus.</li></ul></li><li>In this subclass, the following term is used with the meaning indicated:<ul><li>\"systems\" may cover also devices peculiar thereto.</li></ul></li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">SIGNALLING OR CALLING SYSTEMS<tr><td width=\"70%\">Characterised by the transmission of the signal </td><td><b><b>1/00</b></b></td></tr></tr><tr><td width=\"70%\">Characterised by the nature of the indication: audible; visible; tactile; combined </td><td><b><b>3/00</b>; <b>5/00</b>; <b>6/00</b>; <b>7/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">ORDER TELEGRAPHS </td><td><b><b>9/00</b></b></td></tr></tr><tr><td width=\"70%\">ALARM SYSTEMS<tr><td width=\"70%\">Responsive to an unspecified condition </td><td><b><b>23/00</b></b></td></tr></tr><tr><td width=\"70%\">Responsive to two or more different conditions </td><td><b><b>19/00</b></b></td></tr></tr><tr><td width=\"70%\">Responsive to one specified condition: intrusion; fire; other </td><td><b><b>13/00</b>, <b>15/00</b>; <b>17/00</b>; <b>21/00</b></b></td></tr></tr><tr><td width=\"70%\">With transmission from or to a central station </td><td><b><b>25/00</b>, <b>26/00</b>, <b>27/00</b></b></td></tr></tr><tr><td width=\"70%\">Predictive alarm systems </td><td><b><b>31/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">CHECKING, MONITORING </td><td><b><b>29/00</b></b></td></tr></tr></table>",
+      "count": 4493,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G08": {
+      "code": "G08",
+      "level": 0,
+      "parent": "G",
+      "ja": "信号",
+      "en": "SIGNALLING",
+      "count": 0,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G": {
+      "code": "G",
+      "level": 0,
+      "parent": null,
+      "ja": "物理学<br><br><b><ul>注</ul></b><br>１．このセクションにおいては，下記の用語は以下に示す意味で用いる：<br>・“変量”は名詞として，特定の実在物，例．物体，ある量の物質，光ビーム，に関し特定の瞬間に測定することの可能な特性又は特質，例．寸法，温度等の物理的状態，密度又は色等の性質，を意味する。変量が変化すると，その数値的表現は異なる時点で，異なる状態又は個々の状況において異なる値をとることもあり，また，ある状態のもとで又は実用上特定の実在物に関して一定でありうる，例．バーの長さが多くの目的のために一定とみなされる，こともある。<br>２．使用される用語または表現の定義に注意すること。このセクションのいくつかのクラスの注に使用されているものについて，特にクラスＧ０１の“測定”を参照されたい．ＩＰＣ指針パラグラフ１８７の中にあるものについて，“制御”及び“調整”の定義に参照されたい。<br>３．このセクションにおける分類は他のセクションにおいてよりもめんどうな場合があり得る，というのは，その一つは，いろいろな使用分野の差異の判別には構造上の差異又は使用形態上の差異よりも寧ろ使用者の意図における差異の方にかなりの程度影響されてしまうからであり，もう一つは，扱う主題が容易に全体として識別できる“もの”であるよりも，特性又は部品が他の主題のものと共通のものを有しているシステム又は組合わせであることが実際上多いからである。例えば，情報（例．一連の数値）をディスプレイするのは，クラスＧ０９に包含される，教育又は広告のため，クラスＧ０１に包含される，測定の結果が通知されうるため，クラスＧ０８に包含される，遠隔地点に情報を合図するため，又は遠隔地点から合図された情報を提供するためである。目的を記述するために使用する言葉は，当該装置の形態に無関係なこともあり得る特性－例えば，ディスプレイを見る者にとって望ましい効果とか，ディスプレイが遠隔地点から制御されるかどうかという特性－によって決定される。さらに，ある状態，例えば流体圧の変化に応答する装置は，その装置そのものには変更を加えずして，サブクラスＧ０１Ｌに包含される圧力又はＧ０１の他のサブクラスに包含される圧力に関連した他の何らかの状態，例．温度に関してＧ０１Ｋ，についての情報を与えるため，サブクラスＧ０７Ｃに包含される圧力または圧力発生の記録をするため，サブクラスＧ０８Ｂに包含される警報を発するため，又はクラスＧ０５に包含される他の何らかの装置を制御するために用いられることがある。<br>　本分類表は，前述したように，同一の性質のものは同一箇所に分類し得るようにしたものである。従って，技術主題が適切箇所に分類されるためには予めその真正な本質を把握することが特に必要である。",
+      "en": "PHYSICS; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this section, the following term is used with the meaning indicated: <ul><li>\"variable\" as a noun means a feature or property, e.g. a dimension, a physical condition such as temperature, a quality such as density or colour, which, in respect of a particular entity, e.g. an object, a quantity of a substance, a beam of light, and at a particular instant, is capable of being measured; the variable may change, so that its numerical expression may assume different values at different times, in different conditions or in individual cases, but may be constant in respect of a particular entity in certain conditions or for practical purposes, e.g. the length of a bar may be regarded as constant for many purposes.</li></ul></li><li>Attention is drawn to the definitions of terms or expressions used. Some appear in the notes of several of the classes in this section, see in particular the definition of \"measuring\" in class <b>G01</b>. Others appear in paragraph 187 of the Guide to the IPC, see in particular the definitions of \"control\" and \"regulation\".</li><li>Classification in this section may present more difficulty than in other sections, because the distinction between different fields of use rests to a considerable extent on differences in the intention of the user rather than on any constructional differences or differences in the manner of use, and because the subjects dealt with are often in effect systems or combinations, which have features or parts in common, rather than \"things\", which are readily distinguishable as a whole. For example, information, e.g. a set of figures, may be displayed for the purpose of education or advertising covered by class <b>G09</b>, for enabling the result of a measurement to be known covered by class <b>G01</b>, for signalling the information to a distant point or for giving information which has been signalled from a distant point covered by class <b>G08</b>. The words used to describe the purpose depend on features that may be irrelevant to the form of the apparatus concerned, for example, such features as the desired effect on the person who sees the display, or whether the display is controlled from a remote point. Again, a device which responds to some change in a condition, e.g. in the pressure of a fluid, may be used, without modification of the device itself, to give information about the pressure covered by subclass <b>G01L</b> or about some other condition linked to the pressure covered by another subclass of class <b>G01</b>, e.g. <b>G01K</b> for temperature, to make a record of the pressure or of its occurrence covered by subclass <b>G07C</b>, to give an alarm covered by subclass <b>G08B</b>, or to control another apparatus covered by class <b>G05</b>. <ul><li>The classification scheme is intended to enable things of a similar nature, as indicated above, to be classified together. It is therefore particularly necessary for the real nature of any technical subject to be decided before it can be properly classified.</li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G08B1/00": {
+      "code": "G08B1/00",
+      "level": 0,
+      "parent": "G08B",
+      "ja": "信号の伝送形態のみを特徴とする信号装置",
+      "en": "Systems for signalling characterised solely by the form of transmission of the signal",
+      "count": 1577,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B1/02": {
+      "code": "G08B1/02",
+      "level": 1,
+      "parent": "G08B1/00",
+      "ja": "機械的伝送手段のみを用いるもの",
+      "en": "using only mechanical transmission",
+      "count": 106,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B1/04": {
+      "code": "G08B1/04",
+      "level": 1,
+      "parent": "G08B1/00",
+      "ja": "液圧式伝送手段を用いるもの；空気式伝送手段を用いるもの",
+      "en": "using hydraulic transmission; using pneumatic transmission",
+      "count": 96,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B1/06": {
+      "code": "G08B1/06",
+      "level": 2,
+      "parent": "G08B1/04",
+      "ja": "液圧式",
+      "en": "hydraulic only",
+      "count": 26,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B1/08": {
+      "code": "G08B1/08",
+      "level": 1,
+      "parent": "G08B1/00",
+      "ja": "電気的伝送手段を用いるもの",
+      "en": "using electric transmission",
+      "count": 7383,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B3/00": {
+      "code": "G08B3/00",
+      "level": 0,
+      "parent": "G08B",
+      "ja": "可聴信号装置，例．可聴個人呼出し装置［２００６．０１］",
+      "en": "Audible signalling systems, e.g. audible personal calling systems",
+      "count": 2537,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B3/02": {
+      "code": "G08B3/02",
+      "level": 1,
+      "parent": "G08B3/00",
+      "ja": "機械的伝送手段のみを用いるもの",
+      "en": "using only mechanical transmission",
+      "count": 923,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B3/06": {
+      "code": "G08B3/06",
+      "level": 1,
+      "parent": "G08B3/00",
+      "ja": "液圧式伝送手段を用いるもの；空気式伝送手段を用いるもの",
+      "en": "using hydraulic transmission; using pneumatic transmission",
+      "count": 640,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B3/10": {
+      "code": "G08B3/10",
+      "level": 1,
+      "parent": "G08B3/00",
+      "ja": "電気的伝送手段を用いるもの；電磁的伝送手段を用いるもの",
+      "en": "using electric transmission; using electromagnetic transmission",
+      "count": 31002,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B3/14": {
+      "code": "G08B3/14",
+      "level": 1,
+      "parent": "G08B3/00",
+      "ja": "爆薬を用いるもの",
+      "en": "using explosives",
+      "count": 107,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B5/00": {
+      "code": "G08B5/00",
+      "level": 0,
+      "parent": "G08B",
+      "ja": "可視信号装置，例．可視個人呼出し装置，または座席占有状態の遠隔表示［２００６．０１］",
+      "en": "Visible signalling systems, e.g. visible personal calling systems or remote indication of seats occupied",
+      "count": 10083,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B5/02": {
+      "code": "G08B5/02",
+      "level": 1,
+      "parent": "G08B5/00",
+      "ja": "機械的伝送手段のみを用いるもの",
+      "en": "using only mechanical transmission",
+      "count": 639,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B5/06": {
+      "code": "G08B5/06",
+      "level": 1,
+      "parent": "G08B5/00",
+      "ja": "液圧式伝送手段を用いるもの；空気式伝送手段を用いるもの",
+      "en": "using hydraulic transmission; using pneumatic transmission",
+      "count": 86,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B5/14": {
+      "code": "G08B5/14",
+      "level": 2,
+      "parent": "G08B5/06",
+      "ja": "軸の周りに移動する表示要素，例．蝶番で止められた板または回転板，をもつもの",
+      "en": "with indicator element moving about a pivot, e.g. hinged flap or rotating vane",
+      "count": 57,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B5/16": {
+      "code": "G08B5/16",
+      "level": 3,
+      "parent": "G08B5/14",
+      "ja": "表示要素を復帰させるために独立の動作を必要とするリセット手段をもつもの",
+      "en": "with reset means necessitating a separate operation to return the indicator element",
+      "count": 6,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B5/18": {
+      "code": "G08B5/18",
+      "level": 2,
+      "parent": "G08B5/06",
+      "ja": "直線的に移動する表示要素をもつもの",
+      "en": "with indicator element moving rectilinearly",
+      "count": 41,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B5/20": {
+      "code": "G08B5/20",
+      "level": 3,
+      "parent": "G08B5/18",
+      "ja": "表示要素を復帰させるために独立の動作を必要とするリセット手段をもつもの",
+      "en": "with reset means necessitating a separate operation to return the indicator element",
+      "count": 5,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B5/22": {
+      "code": "G08B5/22",
+      "level": 1,
+      "parent": "G08B5/00",
+      "ja": "電気的伝送手段を用いるもの；電磁的伝送手段を用いるもの",
+      "en": "using electric transmission; using electromagnetic transmission",
+      "count": 7891,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B5/24": {
+      "code": "G08B5/24",
+      "level": 2,
+      "parent": "G08B5/22",
+      "ja": "軸の周りに移動する表示要素，例．蝶番で止められた板または回転板，をもつもの",
+      "en": "with indicator element moving about a pivot, e.g. hinged flap or rotating vane",
+      "count": 396,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B5/26": {
+      "code": "G08B5/26",
+      "level": 3,
+      "parent": "G08B5/24",
+      "ja": "表示要素を復帰させるために独立した動作を必要とするリセット手段をもつもの",
+      "en": "with reset means necessitating a separate operation to return the indicator element",
+      "count": 36,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B5/28": {
+      "code": "G08B5/28",
+      "level": 3,
+      "parent": "G08B5/24",
+      "ja": "蝶番で止められた板または腕木を有するもの",
+      "en": "with hinged flap or arm",
+      "count": 190,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B5/30": {
+      "code": "G08B5/30",
+      "level": 3,
+      "parent": "G08B5/24",
+      "ja": "回転または振動部材，例．翼板，を有するもの",
+      "en": "with rotating or oscillating members, e.g. vanes",
+      "count": 213,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B5/32": {
+      "code": "G08B5/32",
+      "level": 2,
+      "parent": "G08B5/22",
+      "ja": "直線的に移動する表示要素をもつもの",
+      "en": "with indicator element moving rectilinearly",
+      "count": 121,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B5/34": {
+      "code": "G08B5/34",
+      "level": 3,
+      "parent": "G08B5/32",
+      "ja": "表示要素を復帰するために独立した動作を必要とするリセット手段をもつもの",
+      "en": "with reset means necessitating a separate operation to return the indicator element",
+      "count": 18,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B5/36": {
+      "code": "G08B5/36",
+      "level": 2,
+      "parent": "G08B5/22",
+      "ja": "可視光源を用いるもの",
+      "en": "using visible light sources",
+      "count": 22350,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B5/38": {
+      "code": "G08B5/38",
+      "level": 3,
+      "parent": "G08B5/36",
+      "ja": "閃光する光を用いるもの",
+      "en": "using flashing light",
+      "count": 5467,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B5/40": {
+      "code": "G08B5/40",
+      "level": 1,
+      "parent": "G08B5/00",
+      "ja": "煙，火または着色ガスを用いるもの",
+      "en": "using smoke, fire or coloured gases",
+      "count": 678,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B6/00": {
+      "code": "G08B6/00",
+      "level": 0,
+      "parent": "G08B",
+      "ja": "可触信号装置，例．可触個人呼出し装置［２００６．０１］",
+      "en": "Tactile signalling systems, e.g. tactile personal calling systems",
+      "count": 3927,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B7/00": {
+      "code": "G08B7/00",
+      "level": 0,
+      "parent": "G08B",
+      "ja": "グループＧ０８Ｂ３／００～Ｇ０８Ｂ６／００のうちの２つ以上に従った信号装置［２００６．０１］",
+      "en": "Signalling systems according to two or more of groups <b>G08B3/00 to G08B6/00</b> ",
+      "count": 2481,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B7/02": {
+      "code": "G08B7/02",
+      "level": 1,
+      "parent": "G08B7/00",
+      "ja": "機械的伝送手段を用いるもの",
+      "en": "using mechanical transmission",
+      "count": 179,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B7/04": {
+      "code": "G08B7/04",
+      "level": 1,
+      "parent": "G08B7/00",
+      "ja": "液圧式伝送手段を用いるもの；空気式伝送手段を用いるもの",
+      "en": "using hydraulic transmission; using pneumatic transmission",
+      "count": 64,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B7/06": {
+      "code": "G08B7/06",
+      "level": 1,
+      "parent": "G08B7/00",
+      "ja": "電気的伝送手段を用いるもの",
+      "en": "using electric transmission",
+      "count": 37045,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B7/08": {
+      "code": "G08B7/08",
+      "level": 1,
+      "parent": "G08B7/00",
+      "ja": "爆薬を用いるもの",
+      "en": "using explosives",
+      "count": 44,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B9/00": {
+      "code": "G08B9/00",
+      "level": 0,
+      "parent": "G08B",
+      "ja": "指令発信装置，すなわち使用者の判断で，内容のちがう有限数の指令のうちの１つを伝達するための手段，例．船のブリッジからエンジン室への指令",
+      "en": "Order telegraph apparatus, i.e. means for transmitting one of a finite number of different orders at the discretion of the user, e.g. bridge to engine room orders in ships",
+      "count": 590,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B9/02": {
+      "code": "G08B9/02",
+      "level": 1,
+      "parent": "G08B9/00",
+      "ja": "細部",
+      "en": "Details",
+      "count": 49,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B9/04": {
+      "code": "G08B9/04",
+      "level": 2,
+      "parent": "G08B9/02",
+      "ja": "装置の動作を記録するための装置",
+      "en": "Means for recording operation of the apparatus",
+      "count": 57,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B9/06": {
+      "code": "G08B9/06",
+      "level": 2,
+      "parent": "G08B9/02",
+      "ja": "あたえられた指令と遂行された動作の間の不一致を表示するための手段",
+      "en": "Means for indicating disagreement between orders given and those carried out",
+      "count": 65,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B9/08": {
+      "code": "G08B9/08",
+      "level": 1,
+      "parent": "G08B9/00",
+      "ja": "機械的なもの",
+      "en": "mechanical",
+      "count": 47,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B9/10": {
+      "code": "G08B9/10",
+      "level": 2,
+      "parent": "G08B9/08",
+      "ja": "ラチェットを用いるもの",
+      "en": "using ratchet",
+      "count": 1,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B9/12": {
+      "code": "G08B9/12",
+      "level": 2,
+      "parent": "G08B9/08",
+      "ja": "回転軸を用いるもの",
+      "en": "using rotary shaft",
+      "count": 3,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B9/14": {
+      "code": "G08B9/14",
+      "level": 1,
+      "parent": "G08B9/00",
+      "ja": "液圧式のもの；空気式のもの",
+      "en": "hydraulic; pneumatic",
+      "count": 12,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B9/16": {
+      "code": "G08B9/16",
+      "level": 2,
+      "parent": "G08B9/14",
+      "ja": "ラチェットを用いるもの",
+      "en": "using ratchet",
+      "count": 0,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B9/18": {
+      "code": "G08B9/18",
+      "level": 2,
+      "parent": "G08B9/14",
+      "ja": "流体の押出量を変化させることによるもの",
+      "en": "by varying displacement of the fluid",
+      "count": 2,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B9/20": {
+      "code": "G08B9/20",
+      "level": 2,
+      "parent": "G08B9/14",
+      "ja": "流体圧を変化させることによるもの",
+      "en": "by varying pressure of the fluid",
+      "count": 8,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B13/00": {
+      "code": "G08B13/00",
+      "level": 0,
+      "parent": "G08B",
+      "ja": "夜盗，泥棒または潜入者に対する警報",
+      "en": "Burglar, theft or intruder alarms",
+      "count": 12415,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B13/02": {
+      "code": "G08B13/02",
+      "level": 1,
+      "parent": "G08B13/00",
+      "ja": "機械的に動作するもの",
+      "en": "Mechanical actuation",
+      "count": 5972,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B13/04": {
+      "code": "G08B13/04",
+      "level": 2,
+      "parent": "G08B13/02",
+      "ja": "ガラス破壊によるもの",
+      "en": "by breaking of glass",
+      "count": 1284,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B13/06": {
+      "code": "G08B13/06",
+      "level": 2,
+      "parent": "G08B13/02",
+      "ja": "施錠装置に対する不当な扱いによるもの",
+      "en": "by tampering with fastening",
+      "count": 1652,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B13/08": {
+      "code": "G08B13/08",
+      "level": 2,
+      "parent": "G08B13/02",
+      "ja": "扉，窓，引出し，シャッタ，カーテン，ブラインドなどの開放によるもの",
+      "en": "by opening, e.g. of door, of window, of drawer, of shutter, of curtain, of blind",
+      "count": 8575,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B13/10": {
+      "code": "G08B13/10",
+      "level": 2,
+      "parent": "G08B13/02",
+      "ja": "床，床カバー，階段踏板，カウンター，または金銭入れなどに加えられる外力によるもの",
+      "en": "by pressure on floors, floor coverings, stair treads, counters, or tills",
+      "count": 1430,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B13/12": {
+      "code": "G08B13/12",
+      "level": 2,
+      "parent": "G08B13/02",
+      "ja": "引張った線の切断または障害によるもの",
+      "en": "by the breaking or disturbance of stretched cords or wires",
+      "count": 5486,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B13/14": {
+      "code": "G08B13/14",
+      "level": 2,
+      "parent": "G08B13/02",
+      "ja": "手で持運び可能な物品を持上げまたは移動することによるもの",
+      "en": "by lifting or attempted removal of hand-portable articles",
+      "count": 12663,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B13/16": {
+      "code": "G08B13/16",
+      "level": 1,
+      "parent": "G08B13/00",
+      "ja": "空気または他の流体中の物理的振動との干渉によって動作するもの",
+      "en": "Actuation by interference with mechanical vibrations in air or other fluid",
+      "count": 3767,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B13/18": {
+      "code": "G08B13/18",
+      "level": 1,
+      "parent": "G08B13/00",
+      "ja": "熱，光または短波長の輻射線との干渉によって作動するもの；熱源，光源または短波長の輻射線源への侵入によって動作するもの",
+      "en": "Actuation by interference with heat, light, or radiation of shorter wavelength; Actuation by intruding sources of heat, light, or radiation of shorter wavelength",
+      "count": 4431,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B13/181": {
+      "code": "G08B13/181",
+      "level": 2,
+      "parent": "G08B13/18",
+      "ja": "能動型輻射線検出装置を用いるもの［５］",
+      "en": "using active radiation detection systems",
+      "count": 2069,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B13/183": {
+      "code": "G08B13/183",
+      "level": 3,
+      "parent": "G08B13/181",
+      "ja": "輻射線の遮断または障壁によるもの［５］",
+      "en": "by interruption of a radiation beam or barrier",
+      "count": 2514,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B13/184": {
+      "code": "G08B13/184",
+      "level": 4,
+      "parent": "G08B13/183",
+      "ja": "輻射線反射器を用いるもの［５］",
+      "en": "using radiation reflectors",
+      "count": 590,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B13/186": {
+      "code": "G08B13/186",
+      "level": 4,
+      "parent": "G08B13/183",
+      "ja": "ライトガイドを用いるもの，例．光ファイバ［５］",
+      "en": "using light guides, e.g. optical fibres",
+      "count": 734,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B13/187": {
+      "code": "G08B13/187",
+      "level": 3,
+      "parent": "G08B13/181",
+      "ja": "輻射線領域の干渉に用いるもの［５］",
+      "en": "by interference of a radiation field",
+      "count": 390,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B13/189": {
+      "code": "G08B13/189",
+      "level": 2,
+      "parent": "G08B13/18",
+      "ja": "受動型輻射線検出装置を用いるもの［５］",
+      "en": "using passive radiation detection systems",
+      "count": 936,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B13/19": {
+      "code": "G08B13/19",
+      "level": 3,
+      "parent": "G08B13/189",
+      "ja": "赤外線検出装置を用いるもの［５］",
+      "en": "using infrared-radiation detection systems",
+      "count": 5221,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B13/191": {
+      "code": "G08B13/191",
+      "level": 4,
+      "parent": "G08B13/19",
+      "ja": "焦電型検知手段を用いるもの［５］",
+      "en": "using pyroelectric sensor means",
+      "count": 1923,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B13/193": {
+      "code": "G08B13/193",
+      "level": 4,
+      "parent": "G08B13/19",
+      "ja": "焦点調節手段を用いるもの［５］",
+      "en": "using focusing means",
+      "count": 655,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B13/194": {
+      "code": "G08B13/194",
+      "level": 3,
+      "parent": "G08B13/189",
+      "ja": "画像比較装置を用いるもの［５］",
+      "en": "using image scanning and comparing systems",
+      "count": 1341,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B13/196": {
+      "code": "G08B13/196",
+      "level": 4,
+      "parent": "G08B13/194",
+      "ja": "テレビジョンカメラを用いるもの［５］",
+      "en": "using television cameras",
+      "count": 17788,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B13/20": {
+      "code": "G08B13/20",
+      "level": 1,
+      "parent": "G08B13/00",
+      "ja": "流体圧の変化により動作するもの",
+      "en": "Actuation by change of fluid pressure",
+      "count": 408,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B13/22": {
+      "code": "G08B13/22",
+      "level": 1,
+      "parent": "G08B13/00",
+      "ja": "電気的に動作するもの",
+      "en": "Electrical actuation",
+      "count": 7509,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B13/24": {
+      "code": "G08B13/24",
+      "level": 2,
+      "parent": "G08B13/22",
+      "ja": "電磁場の分布を妨害することにより動作するもの",
+      "en": "by interference with electromagnetic field distribution",
+      "count": 8692,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B13/26": {
+      "code": "G08B13/26",
+      "level": 2,
+      "parent": "G08B13/22",
+      "ja": "潜入者の接近によって生じる回路のキャパシタンスまたはインダクタンスの変化を利用するもの",
+      "en": "by proximity of an intruder causing variation in capacitance or inductance of a circuit",
+      "count": 1314,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B15/00": {
+      "code": "G08B15/00",
+      "level": 0,
+      "parent": "G08B",
+      "ja": "夜盗，泥棒または潜入者を検知するもの，威嚇するものまたはその行為をできなくするもの，例．爆薬などによるもの",
+      "en": "Identifying, scaring or incapacitating burglars, thieves or intruders, e.g. by explosives",
+      "count": 6314,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B15/02": {
+      "code": "G08B15/02",
+      "level": 1,
+      "parent": "G08B15/00",
+      "ja": "煙，ガス，または着色あるいはにおいのついた粉末または液体を用いるもの",
+      "en": "with smoke, gas, or coloured or odorous powder or liquid",
+      "count": 1521,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B17/00": {
+      "code": "G08B17/00",
+      "level": 0,
+      "parent": "G08B",
+      "ja": "火災警報；爆発に応答する警報",
+      "en": "Fire alarms; Alarms responsive to explosion",
+      "count": 24950,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B17/02": {
+      "code": "G08B17/02",
+      "level": 1,
+      "parent": "G08B17/00",
+      "ja": "警報を機械的に動作するもの，例．線を切断することによるもの",
+      "en": "Mechanical actuation of the alarm, e.g. by the breaking of a wire",
+      "count": 868,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B17/04": {
+      "code": "G08B17/04",
+      "level": 1,
+      "parent": "G08B17/00",
+      "ja": "警報を液圧または空気でもって動作するもの，例．流体圧の変化によるもの",
+      "en": "Hydraulic or pneumatic actuation of the alarm, e.g. by change of fluid pressure",
+      "count": 984,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B17/06": {
+      "code": "G08B17/06",
+      "level": 1,
+      "parent": "G08B17/00",
+      "ja": "警報を電気的に動作するもの，例．熱応動開閉器を用いるもの",
+      "en": "Electric actuation of the alarm, e.g. using a thermally-operated switch",
+      "count": 16599,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B17/08": {
+      "code": "G08B17/08",
+      "level": 1,
+      "parent": "G08B17/00",
+      "ja": "爆発的手段の使用を伴って動作するもの",
+      "en": "Actuation involving the use of explosive means",
+      "count": 247,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B17/10": {
+      "code": "G08B17/10",
+      "level": 1,
+      "parent": "G08B17/00",
+      "ja": "煙またはガスの存在によって動作するもの",
+      "en": "Actuation by presence of smoke or gases",
+      "count": 28166,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B17/103": {
+      "code": "G08B17/103",
+      "level": 2,
+      "parent": "G08B17/10",
+      "ja": "光の発光受光装置を用いるもの［５］",
+      "en": "using a light emitting and receiving device",
+      "count": 2342,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B17/107": {
+      "code": "G08B17/107",
+      "level": 3,
+      "parent": "G08B17/103",
+      "ja": "煙による光の散乱を検出するためのもの［５］",
+      "en": "for detecting light-scattering due to smoke",
+      "count": 3186,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B17/11": {
+      "code": "G08B17/11",
+      "level": 2,
+      "parent": "G08B17/10",
+      "ja": "煙またはガスを検出するための電離箱を使用するもの［５］",
+      "en": "using an ionisation chamber for detecting smoke or gas",
+      "count": 912,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B17/113": {
+      "code": "G08B17/113",
+      "level": 3,
+      "parent": "G08B17/11",
+      "ja": "構造細部［５］",
+      "en": "Constructional details",
+      "count": 1127,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B17/117": {
+      "code": "G08B17/117",
+      "level": 2,
+      "parent": "G08B17/10",
+      "ja": "火災により生成する特定のガス，例．燃焼生成物，の検出装置を用いるもの（Ｇ０８Ｂ１７／１０３，Ｇ０８Ｂ１７／１１が優先）［５］",
+      "en": "by using a detection device for specific gases, e.g. combustion products, produced by the fire(<b>G08B17/103</b>, <b>G08B17/11</b> take precedence)",
+      "count": 1616,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B17/12": {
+      "code": "G08B17/12",
+      "level": 1,
+      "parent": "G08B17/00",
+      "ja": "輻射線または粒子，例．赤外線またはイオンの存在によって動作するもの",
+      "en": "Actuation by presence of radiation or particles, e.g. of infrared radiation or of ions",
+      "count": 10770,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B19/00": {
+      "code": "G08B19/00",
+      "level": 0,
+      "parent": "G08B",
+      "ja": "２つ以上の異なる好ましくないまたは異常な状態，例．盗難と火災，異常温度および流量の異常変化，に応答する警報",
+      "en": "Alarms responsive to two or more different undesired or abnormal conditions, e.g. burglary and fire, abnormal temperature and abnormal rate of flow",
+      "count": 11771,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B19/02": {
+      "code": "G08B19/02",
+      "level": 1,
+      "parent": "G08B19/00",
+      "ja": "氷の形成または予想される氷の形成に応答する警報",
+      "en": "Alarm responsive to formation or anticipated formation of ice",
+      "count": 655,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B21/00": {
+      "code": "G08B21/00",
+      "level": 0,
+      "parent": "G08B",
+      "ja": "単一の特定された好ましくない，または異常な状態に応答する警報であって，他に分類されないもの",
+      "en": "Alarms responsive to a single specified undesired or abnormal condition and not otherwise provided for",
+      "count": 34914,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B21/02": {
+      "code": "G08B21/02",
+      "level": 1,
+      "parent": "G08B21/00",
+      "ja": "人の安全確認のための警報［７］",
+      "en": "Alarms for ensuring the safety of persons",
+      "count": 35450,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B21/04": {
+      "code": "G08B21/04",
+      "level": 2,
+      "parent": "G08B21/02",
+      "ja": "動きの無いことによるもの，例．老人（Ｇ０８Ｂ２１／０６が優先）［７］",
+      "en": "responsive to non-activity, e.g. of elderly persons(<b>G08B21/06</b> takes precedence)",
+      "count": 11238,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B21/06": {
+      "code": "G08B21/06",
+      "level": 2,
+      "parent": "G08B21/02",
+      "ja": "睡眠状態を示すもの，例．居眠りに対する警報［７］",
+      "en": "indicating a condition of sleep, e.g. anti-dozing alarms",
+      "count": 5220,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B21/08": {
+      "code": "G08B21/08",
+      "level": 2,
+      "parent": "G08B21/02",
+      "ja": "水中における人の存在によるもの，例．スイミングプール；池，海などの異常状態を検知するもの［７］",
+      "en": "responsive to the presence of persons in a body of water, e.g. a swimming pool; responsive to an abnormal condition of a body of water",
+      "count": 2962,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B21/10": {
+      "code": "G08B21/10",
+      "level": 2,
+      "parent": "G08B21/02",
+      "ja": "災害の発生によるもの，例．竜巻または地震［７］",
+      "en": "responsive to calamitous events, e.g. tornados or earthquakes",
+      "count": 13666,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B21/12": {
+      "code": "G08B21/12",
+      "level": 2,
+      "parent": "G08B21/02",
+      "ja": "物質の望ましくない拡散によるもの，例．汚染警報［７］",
+      "en": "responsive to undesired emission of substances, e.g. pollution alarms",
+      "count": 5427,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B21/14": {
+      "code": "G08B21/14",
+      "level": 3,
+      "parent": "G08B21/12",
+      "ja": "有毒ガス警報（Ｇ０８Ｂ２１／１６が優先）［７］",
+      "en": "Toxic gas alarms(<b>G08B21/16</b> takes precedence)",
+      "count": 3971,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B21/16": {
+      "code": "G08B21/16",
+      "level": 3,
+      "parent": "G08B21/12",
+      "ja": "可燃性ガス警報［７］",
+      "en": "Combustible gas alarms",
+      "count": 11273,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B21/18": {
+      "code": "G08B21/18",
+      "level": 1,
+      "parent": "G08B21/00",
+      "ja": "状態警報（Ｇ０８Ｂ２１／０２が優先）［７］",
+      "en": "Status alarms(<b>G08B21/02</b> takes precedence)",
+      "count": 53377,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B21/20": {
+      "code": "G08B21/20",
+      "level": 2,
+      "parent": "G08B21/18",
+      "ja": "湿気によるもの［７］",
+      "en": "responsive to moisture",
+      "count": 3683,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B21/22": {
+      "code": "G08B21/22",
+      "level": 2,
+      "parent": "G08B21/18",
+      "ja": "人の在不在によるもの［７］",
+      "en": "responsive to presence or absence of persons",
+      "count": 4500,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B21/24": {
+      "code": "G08B21/24",
+      "level": 2,
+      "parent": "G08B21/18",
+      "ja": "注意喚起する警報，例．遺失注意警報（鞄遺失防止装置もしくはそれに類するものＡ４５Ｃ１３／２４）［７］",
+      "en": "Reminder alarms, e.g. anti-loss alarms",
+      "count": 43541,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B23/00": {
+      "code": "G08B23/00",
+      "level": 0,
+      "parent": "G08B",
+      "ja": "不特定の好ましくないまたは異常状態に応答する警報",
+      "en": "Alarms responsive to unspecified undesired or abnormal conditions",
+      "count": 21749,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B25/00": {
+      "code": "G08B25/00",
+      "level": 0,
+      "parent": "G08B",
+      "ja": "警報状態の所在を中央局に通報する警報システム，例．火災または警察通信システム",
+      "en": "Alarm systems in which the location of the alarm condition is signalled to a central station, e.g. fire or police telegraphic systems",
+      "count": 29451,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B25/01": {
+      "code": "G08B25/01",
+      "level": 1,
+      "parent": "G08B25/00",
+      "ja": "伝達媒体によって特徴づけられるもの［５］",
+      "en": "characterised by the transmission medium",
+      "count": 7758,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B25/04": {
+      "code": "G08B25/04",
+      "level": 2,
+      "parent": "G08B25/01",
+      "ja": "専用の信号回線を用いるもの，例．閉ループ状のもの［５］",
+      "en": "using a single signalling line, e.g. in a closed loop",
+      "count": 14895,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B25/06": {
+      "code": "G08B25/06",
+      "level": 2,
+      "parent": "G08B25/01",
+      "ja": "送電線を用いるもの［５］",
+      "en": "using power transmission lines",
+      "count": 588,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B25/08": {
+      "code": "G08B25/08",
+      "level": 2,
+      "parent": "G08B25/01",
+      "ja": "通信回線を用いるもの［５］",
+      "en": "using communication transmission lines",
+      "count": 18309,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B25/10": {
+      "code": "G08B25/10",
+      "level": 2,
+      "parent": "G08B25/01",
+      "ja": "無線伝送システムを使用するもの［５］",
+      "en": "using wireless transmission systems",
+      "count": 30174,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B25/12": {
+      "code": "G08B25/12",
+      "level": 1,
+      "parent": "G08B25/00",
+      "ja": "災害警報伝送装置が人的に作動されるもの［５］",
+      "en": "Manually actuated calamity alarm transmitting arrangements",
+      "count": 2659,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B25/14": {
+      "code": "G08B25/14",
+      "level": 1,
+      "parent": "G08B25/00",
+      "ja": "中央警報受信装置または報知装置［５］",
+      "en": "Central alarm receiver or annunciator arrangements",
+      "count": 5607,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B26/00": {
+      "code": "G08B26/00",
+      "level": 0,
+      "parent": "G08B",
+      "ja": "複数の子局が中央局によって順次質問されていく警報システム",
+      "en": "Alarm systems in which substations are interrogated in succession by a central station",
+      "count": 2256,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B27/00": {
+      "code": "G08B27/00",
+      "level": 0,
+      "parent": "G08B",
+      "ja": "警報状態を中央局から複数の子局に通報する警報システム",
+      "en": "Alarm systems in which the alarm condition is signalled from a central station to a plurality of substations",
+      "count": 7068,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B29/00": {
+      "code": "G08B29/00",
+      "level": 0,
+      "parent": "G08B",
+      "ja": "信号または警報システムの点検または監視；動作中の誤りの防止または修正，例．誤動作の防止",
+      "en": "Checking or monitoring of signalling or alarm systems; Prevention or correction of operating errors, e.g. preventing unauthorised operation",
+      "count": 5855,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B29/02": {
+      "code": "G08B29/02",
+      "level": 1,
+      "parent": "G08B29/00",
+      "ja": "信号または警報システムを連続的に監視するもの［５］",
+      "en": "Monitoring continuously signalling or alarm systems",
+      "count": 1527,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B29/04": {
+      "code": "G08B29/04",
+      "level": 2,
+      "parent": "G08B29/02",
+      "ja": "検出回路を監視するもの［５］",
+      "en": "Monitoring of the detection circuits",
+      "count": 1838,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B29/06": {
+      "code": "G08B29/06",
+      "level": 2,
+      "parent": "G08B29/02",
+      "ja": "回線回路を監視するもの，例．回線の故障の通報［５］",
+      "en": "Monitoring of the line circuits, e.g. signalling of line faults",
+      "count": 1511,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B29/08": {
+      "code": "G08B29/08",
+      "level": 3,
+      "parent": "G08B29/06",
+      "ja": "回線回路への妨害を通報するもの［５］",
+      "en": "Signalling of tampering with the line circuit",
+      "count": 214,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B29/10": {
+      "code": "G08B29/10",
+      "level": 2,
+      "parent": "G08B29/02",
+      "ja": "報知回路を監視するもの［５］",
+      "en": "Monitoring of the annunciator circuits",
+      "count": 418,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B29/12": {
+      "code": "G08B29/12",
+      "level": 1,
+      "parent": "G08B29/00",
+      "ja": "信号または警報システムを間欠的に点検するもの［５］",
+      "en": "Checking intermittently signalling or alarm systems",
+      "count": 1389,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B29/14": {
+      "code": "G08B29/14",
+      "level": 2,
+      "parent": "G08B29/12",
+      "ja": "検出回路を点検するもの［５］",
+      "en": "checking the detection circuits",
+      "count": 1532,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B29/16": {
+      "code": "G08B29/16",
+      "level": 1,
+      "parent": "G08B29/00",
+      "ja": "信号または警報システムの保障，例．冗長システム［５］",
+      "en": "Security signalling or alarm systems, e.g. redundant systems",
+      "count": 958,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B29/18": {
+      "code": "G08B29/18",
+      "level": 1,
+      "parent": "G08B29/00",
+      "ja": "動作の誤りの防止または修正（Ｇ０８Ｂ２９／０２，Ｇ０８Ｂ２９／１２が優先）［５］",
+      "en": "Prevention or correction of operating errors(<b>G08B29/02</b>, <b>G08B29/12</b> take precedence)",
+      "count": 5550,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B29/20": {
+      "code": "G08B29/20",
+      "level": 2,
+      "parent": "G08B29/18",
+      "ja": "較正，自動修正装置を含む［５］",
+      "en": "Calibration, including self-calibrating arrangements",
+      "count": 329,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B29/22": {
+      "code": "G08B29/22",
+      "level": 3,
+      "parent": "G08B29/20",
+      "ja": "手動較正のための設備，例．試験のための入力または出力設備；測定を可能とするために間欠的な値を保持するもの［５］",
+      "en": "Provisions facilitating manual calibration, e.g. input or output provisions for testing; Holding of intermittent values to permit measurement",
+      "count": 127,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B29/24": {
+      "code": "G08B29/24",
+      "level": 3,
+      "parent": "G08B29/20",
+      "ja": "自動較正，例．環境の影響または構成部品の老化を補償するもの［５］",
+      "en": "Self-calibration, e.g. compensating for environmental drift or ageing of components",
+      "count": 295,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B29/26": {
+      "code": "G08B29/26",
+      "level": 4,
+      "parent": "G08B29/24",
+      "ja": "参照する基準値を更新することによるもの［５］",
+      "en": "by updating and storing reference thresholds",
+      "count": 484,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B29/28": {
+      "code": "G08B29/28",
+      "level": 4,
+      "parent": "G08B29/24",
+      "ja": "増幅器の利得を変えることによるもの［５］",
+      "en": "by changing the gain of an amplifier",
+      "count": 45,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    },
+    "G08B31/00": {
+      "code": "G08B31/00",
+      "level": 0,
+      "parent": "G08B",
+      "ja": "最新のデータを使用した推測または他の計算による予報警報システム［５］",
+      "en": "Predictive alarm systems characterised by extrapolation or other computation using updated historic data",
+      "count": 12623,
+      "sourceFile": "ipc_G08B.txt",
+      "kind": "ipc"
+    }
+  }
+};

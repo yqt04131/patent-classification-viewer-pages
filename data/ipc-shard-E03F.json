@@ -1,0 +1,336 @@
+{
+  "generatedAt": "2026-03-20T02:17:46.680Z",
+  "total": 33,
+  "entries": {
+    "E03F": {
+      "code": "E03F",
+      "level": 0,
+      "parent": "E03",
+      "ja": "下水；汚水だめ<br><br><b><ul>サブクラス内の索引</ul></b><br>下水溝　１／００～９／００<br>汚水だめ　１１／００，７／００",
+      "en": "SEWERS; CESSPOOLS; <br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">SEWERS </td><td><b><b>1/00 to 9/00</b> </b></td></tr></tr><tr><td width=\"70%\">CESSPOOLS </td><td><b><b>11/00</b>, <b>7/00</b></b></td></tr></tr></table>",
+      "count": 949,
+      "sourceFile": "ipc_E.txt",
+      "kind": "ipc"
+    },
+    "E03": {
+      "code": "E03",
+      "level": 0,
+      "parent": "E",
+      "ja": "上水；下水",
+      "en": "WATER SUPPLY; SEWERAGE",
+      "count": 0,
+      "sourceFile": "ipc_E.txt",
+      "kind": "ipc"
+    },
+    "E": {
+      "code": "E",
+      "level": 0,
+      "parent": null,
+      "ja": "固定構造物",
+      "en": "FIXED CONSTRUCTIONS",
+      "count": 0,
+      "sourceFile": "ipc_E.txt",
+      "kind": "ipc"
+    },
+    "E03F1/00": {
+      "code": "E03F1/00",
+      "level": 0,
+      "parent": "E03F",
+      "ja": "下水または雨水を排除するための方法，系統または施設",
+      "en": "Methods, systems, or installations for draining-off sewage or storm water",
+      "count": 22593,
+      "sourceFile": "ipc_E03F.txt",
+      "kind": "ipc"
+    },
+    "E03F3/00": {
+      "code": "E03F3/00",
+      "level": 0,
+      "parent": "E03F",
+      "ja": "下水管路系",
+      "en": "Sewer pipe-line systems",
+      "count": 1161,
+      "sourceFile": "ipc_E03F.txt",
+      "kind": "ipc"
+    },
+    "E03F3/02": {
+      "code": "E03F3/02",
+      "level": 1,
+      "parent": "E03F3/00",
+      "ja": "下水管路または管系の配置",
+      "en": "Arrangement of sewer pipe-lines or pipe-line systems",
+      "count": 8566,
+      "sourceFile": "ipc_E03F.txt",
+      "kind": "ipc"
+    },
+    "E03F3/04": {
+      "code": "E03F3/04",
+      "level": 1,
+      "parent": "E03F3/00",
+      "ja": "特に下水用に用いられる管または取り付け具（コンクリート管の製造Ｂ２８；管または管取り付け具一般Ｆ１６Ｌ）",
+      "en": "Pipes or fittings specially adapted to sewers(manufacture of concrete tubes <b>B28</b>; pipes or pipe fittings in general <b>F16L</b>)",
+      "count": 33559,
+      "sourceFile": "ipc_E03F.txt",
+      "kind": "ipc"
+    },
+    "E03F3/06": {
+      "code": "E03F3/06",
+      "level": 1,
+      "parent": "E03F3/00",
+      "ja": "下水管を布設するための方法または装置（管の現場での作製Ｆ１６Ｌ１／０３８）［６］",
+      "en": "Methods of, or installations for, laying sewer pipes(making pipes <u>in situ</u><b>F16L1/038</b>)",
+      "count": 7178,
+      "sourceFile": "ipc_E03F.txt",
+      "kind": "ipc"
+    },
+    "E03F5/00": {
+      "code": "E03F5/00",
+      "level": 0,
+      "parent": "E03F",
+      "ja": "下水道の構造",
+      "en": "Sewerage structures",
+      "count": 6667,
+      "sourceFile": "ipc_E03F.txt",
+      "kind": "ipc"
+    },
+    "E03F5/02": {
+      "code": "E03F5/02",
+      "level": 1,
+      "parent": "E03F5/00",
+      "ja": "マンホール立て坑またはその他の検査室（一般的なものＥ０２Ｄ２９／１２）；雪孔用開口；付属物（マンホールの蓋，枠またはその類似物Ｅ０２Ｄ２９／１４）",
+      "en": "Manhole shafts or other inspection chambers(in general <b>E02D29/12</b>);Snow-filling openings; Accessories(covers or frames for manholes or the like <b>E02D29/14</b>)",
+      "count": 8856,
+      "sourceFile": "ipc_E03F.txt",
+      "kind": "ipc"
+    },
+    "E03F5/04": {
+      "code": "E03F5/04",
+      "level": 1,
+      "parent": "E03F5/00",
+      "ja": "臭気止めまたは沈殿物止めをもったまたはもたない下水溝（Ｇｕｌｌｉｅｓ）",
+      "en": "Gullies with or without odour seals or sediment traps",
+      "count": 40499,
+      "sourceFile": "ipc_E03F.txt",
+      "kind": "ipc"
+    },
+    "E03F5/042": {
+      "code": "E03F5/042",
+      "level": 2,
+      "parent": "E03F5/04",
+      "ja": "排水きょからの逆流，越水に対処するための手段の配置",
+      "en": "Arrangements of means against overflow of water, backing-up from the drain",
+      "count": 2880,
+      "sourceFile": "ipc_E03F.txt",
+      "kind": "ipc"
+    },
+    "E03F5/046": {
+      "code": "E03F5/046",
+      "level": 2,
+      "parent": "E03F5/04",
+      "ja": "縁石と共に使用されるもの（Ｅ０３Ｆ５／０６が優先）",
+      "en": "adapted to be used with kerbs(<b>E03F5/06</b> takes precedence)",
+      "count": 1329,
+      "sourceFile": "ipc_E03F.txt",
+      "kind": "ipc"
+    },
+    "E03F5/06": {
+      "code": "E03F5/06",
+      "level": 2,
+      "parent": "E03F5/04",
+      "ja": "下水溝ちりよけ格子",
+      "en": "Gully gratings",
+      "count": 22517,
+      "sourceFile": "ipc_E03F.txt",
+      "kind": "ipc"
+    },
+    "E03F5/08": {
+      "code": "E03F5/08",
+      "level": 1,
+      "parent": "E03F5/00",
+      "ja": "下水道の換気",
+      "en": "Ventilation of sewers",
+      "count": 1265,
+      "sourceFile": "ipc_E03F.txt",
+      "kind": "ipc"
+    },
+    "E03F5/10": {
+      "code": "E03F5/10",
+      "level": 1,
+      "parent": "E03F5/00",
+      "ja": "捕集槽；流出量を調節するための調整槽；貯留槽",
+      "en": "Collecting-tanks; Equalising-tanks for regulating the run-off; Laying-up basins",
+      "count": 31385,
+      "sourceFile": "ipc_E03F.txt",
+      "kind": "ipc"
+    },
+    "E03F5/12": {
+      "code": "E03F5/12",
+      "level": 1,
+      "parent": "E03F5/00",
+      "ja": "非常用排出口",
+      "en": "Emergency outlets",
+      "count": 463,
+      "sourceFile": "ipc_E03F.txt",
+      "kind": "ipc"
+    },
+    "E03F5/14": {
+      "code": "E03F5/14",
+      "level": 1,
+      "parent": "E03F5/00",
+      "ja": "下水からの液体または固体の分離装置，例．砂止めまたは汚泥止め，レーキまたはちりよけ格子（下水浄化施設に使われるものまたは下水浄化施設および下水系統両用のものＢ０１Ｄ，Ｃ０２Ｆ）",
+      "en": "Devices for separating liquid or solid substances from sewage, e.g. sand or sludge traps, rakes or grates(for use in sewage purification plants or both in sewage purification plants or in sewer systems <b>B01D</b>, <b>C02F</b>)",
+      "count": 36960,
+      "sourceFile": "ipc_E03F.txt",
+      "kind": "ipc"
+    },
+    "E03F5/16": {
+      "code": "E03F5/16",
+      "level": 2,
+      "parent": "E03F5/14",
+      "ja": "幹線下水に導く排水管内の汚物から油，水またはグリース状物を分離する装置",
+      "en": "Devices for separating oil, water, or grease from sewage in drains leading to the main sewer",
+      "count": 2005,
+      "sourceFile": "ipc_E03F.txt",
+      "kind": "ipc"
+    },
+    "E03F5/18": {
+      "code": "E03F5/18",
+      "level": 1,
+      "parent": "E03F5/00",
+      "ja": "下水を消毒，中和または冷却するための水槽（生物学的，化学的事項に関する槽の配置Ｃ０２Ｆ）",
+      "en": "Tanks for disinfecting, neutralising, or cooling sewage(arrangements in tanks as to the biological or chemical aspect <b>C02F</b>)",
+      "count": 951,
+      "sourceFile": "ipc_E03F.txt",
+      "kind": "ipc"
+    },
+    "E03F5/20": {
+      "code": "E03F5/20",
+      "level": 1,
+      "parent": "E03F5/00",
+      "ja": "サイフォン管，逆サイフォン（浴槽，洗面器またはその類似物の連結用Ｅ０３Ｃ１／１２）",
+      "en": "Siphon pipes or inverted siphons(for connections of baths, basins, or the like <b>E03C1/12</b>)",
+      "count": 1339,
+      "sourceFile": "ipc_E03F.txt",
+      "kind": "ipc"
+    },
+    "E03F5/22": {
+      "code": "E03F5/22",
+      "level": 1,
+      "parent": "E03F5/00",
+      "ja": "下水を上昇させるためのポンプ設備の使用（下水きょ，汚水だめをくみ干すための車付き装置Ｅ０３Ｆ７／１０；ポンプ，くみ上げ装置それ自体Ｆ０４）",
+      "en": "Adaptations of pumping plants for lifting sewage(wheeled apparatus for emptying sewers or cesspools <b>E03F7/10</b>; pumps, pumping plants, <u>per se</u><b>F04</b>)",
+      "count": 15351,
+      "sourceFile": "ipc_E03F.txt",
+      "kind": "ipc"
+    },
+    "E03F5/24": {
+      "code": "E03F5/24",
+      "level": 1,
+      "parent": "E03F5/00",
+      "ja": "下水きょにおける爆発を防止するための設備",
+      "en": "Installations for neutralising explosions in sewers",
+      "count": 125,
+      "sourceFile": "ipc_E03F.txt",
+      "kind": "ipc"
+    },
+    "E03F5/26": {
+      "code": "E03F5/26",
+      "level": 1,
+      "parent": "E03F5/00",
+      "ja": "下水をかきまぜる設備",
+      "en": "Installations for stirring-up sewage",
+      "count": 1258,
+      "sourceFile": "ipc_E03F.txt",
+      "kind": "ipc"
+    },
+    "E03F7/00": {
+      "code": "E03F7/00",
+      "level": 0,
+      "parent": "E03F",
+      "ja": "下水系を操作するためのその他の施設または器具，例．つまりの防止または表示用のもの；汚水だめのくみ出し",
+      "en": "Other installations or implements for operating sewer systems, e.g. for preventing or indicating stoppage; Emptying cesspools",
+      "count": 13200,
+      "sourceFile": "ipc_E03F.txt",
+      "kind": "ipc"
+    },
+    "E03F7/02": {
+      "code": "E03F7/02",
+      "level": 1,
+      "parent": "E03F7/00",
+      "ja": "遮断装置（一般的なものＦ１６Ｋ）",
+      "en": "Shut-off devices(in general <b>F16K</b>)",
+      "count": 3792,
+      "sourceFile": "ipc_E03F.txt",
+      "kind": "ipc"
+    },
+    "E03F7/04": {
+      "code": "E03F7/04",
+      "level": 2,
+      "parent": "E03F7/02",
+      "ja": "逆流防止弁",
+      "en": "Valves for preventing return flow",
+      "count": 1688,
+      "sourceFile": "ipc_E03F.txt",
+      "kind": "ipc"
+    },
+    "E03F7/06": {
+      "code": "E03F7/06",
+      "level": 1,
+      "parent": "E03F7/00",
+      "ja": "ねずみまたはその他の動物を防止する装置",
+      "en": "Devices for restraining rats or other animals",
+      "count": 1267,
+      "sourceFile": "ipc_E03F.txt",
+      "kind": "ipc"
+    },
+    "E03F7/08": {
+      "code": "E03F7/08",
+      "level": 1,
+      "parent": "E03F7/00",
+      "ja": "下水きょまたは汚水だめのくみ取り用手道具",
+      "en": "Hand implements for emptying sewers or cesspools",
+      "count": 447,
+      "sourceFile": "ipc_E03F.txt",
+      "kind": "ipc"
+    },
+    "E03F7/10": {
+      "code": "E03F7/10",
+      "level": 1,
+      "parent": "E03F7/00",
+      "ja": "下水きょまたは汚水だめのくみ取り用車付き装置",
+      "en": "Wheeled apparatus for emptying sewers or cesspools",
+      "count": 5817,
+      "sourceFile": "ipc_E03F.txt",
+      "kind": "ipc"
+    },
+    "E03F7/12": {
+      "code": "E03F7/12",
+      "level": 1,
+      "parent": "E03F7/00",
+      "ja": "下水管路に沿って検査員がドライブできるようにした設備",
+      "en": "Installations enabling inspection personnel to drive along sewer canals",
+      "count": 645,
+      "sourceFile": "ipc_E03F.txt",
+      "kind": "ipc"
+    },
+    "E03F9/00": {
+      "code": "E03F9/00",
+      "level": 0,
+      "parent": "E03F",
+      "ja": "下水管を清掃するための装置または固定された設備，例．洗浄による（下水管路に配置された，沈澱物止め，レーキ，ちりよけ格子またはその類似物Ｅ０３Ｆ５／１４；管の清掃一般，管の清掃装置Ｂ０８Ｂ９／０２）",
+      "en": "Arrangements or fixed installations for cleaning sewer pipes, e.g. by flushing(sediment traps, rakes, screens, or the like, arranged in sewer lines <b>E03F5/14</b>; cleaning pipes in general, devices for cleaning pipes <b>B08B9/02</b>)",
+      "count": 11581,
+      "sourceFile": "ipc_E03F.txt",
+      "kind": "ipc"
+    },
+    "E03F11/00": {
+      "code": "E03F11/00",
+      "level": 0,
+      "parent": "E03F",
+      "ja": "汚水だめ（汚水だめのくみ出しＥ０３Ｆ７／００；下水処理に特徴あるものＣ０２Ｆ）",
+      "en": "Cesspools(emptying cesspools <b>E03F7/00</b>; features relating to treatment of sewage <b>C02F</b>)",
+      "count": 2278,
+      "sourceFile": "ipc_E03F.txt",
+      "kind": "ipc"
+    }
+  }
+}

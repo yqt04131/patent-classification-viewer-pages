@@ -1,0 +1,386 @@
+window.IPC_SHARD_C21C = {
+  "generatedAt": "2026-03-20T02:17:46.518Z",
+  "total": 38,
+  "entries": {
+    "C21C": {
+      "code": "C21C",
+      "level": 0,
+      "parent": "C21",
+      "ja": "銑鉄の処理，例．精製，錬鉄または鋼の製造；鉄系合金の溶融状態での処理",
+      "en": "PROCESSING OF PIG-IRON, e.g. REFINING, MANUFACTURE OF WROUGHT-IRON OR STEEL; TREATMENT IN MOLTEN STATE OF FERROUS ALLOYS",
+      "count": 735,
+      "sourceFile": "ipc_C.txt",
+      "kind": "ipc"
+    },
+    "C21": {
+      "code": "C21",
+      "level": 0,
+      "parent": "C",
+      "ja": "鉄冶金",
+      "en": "METALLURGY OF IRON",
+      "count": 0,
+      "sourceFile": "ipc_C.txt",
+      "kind": "ipc"
+    },
+    "C": {
+      "code": "C",
+      "level": 0,
+      "parent": null,
+      "ja": "化学；冶金<br><br><b><ul>注</ul></b><br>（１）セクションＣにおいて，化学元素の種類に関する定義は次の通りである：<br>アルカリ金属：Ｌｉ，Ｎａ，Ｋ，Ｒｂ，Ｃｓ，Ｆｒ<br>アルカリ土類金属：Ｃａ，Ｓｒ，Ｂａ，Ｒａ<br>ランタニド：原子番号５７から７１までの元素<br>希土類：Ｓｃ，Ｙ，ランタニド<br>アクチニド：原子番号８９から１０３までの元素<br>耐火金属：Ｔｉ，Ｖ，Ｃｒ，Ｚｒ，Ｎｂ，Ｍｏ，Ｈｆ，Ｔａ，Ｗ<br>ハロゲン：Ｆ，Ｃｌ，Ｂｒ，Ｉ，Ａｔ<br>希ガス：Ｈｅ，Ｎｅ，Ａｒ，Ｋｒ，Ｘｅ，Ｒｎ<br>白金族：Ｏｓ，Ｉｒ，Ｐｔ，Ｒｕ，Ｒｈ，Ｐｄ<br>貴金属：Ａｇ，Ａｕ，白金族<br>軽金属：アルカリ金属，アルカリ土類金属，Ｂｅ，Ａｌ，Ｍｇ<br>重金属：軽金属以外の金属<br>鉄族：Ｆｅ，Ｃｏ，Ｎｉ<br>非金属：Ｈ，Ｂ，Ｃ，Ｓｉ，Ｎ，Ｐ，Ｏ，Ｓ，Ｓｅ，Ｔｅ，希ガス，ハロゲン<br>金属：非金属以外の元素<br>遷移元素：原子番号２１から３０まで，３９から４８まで，５７から８０まで，８９以上の元素<br>（２）Ｃセクションは以下のものを包含する：<br>（ａ）無機化合物，有機化合物，高分子化合物およびそれらの調製法を包含する純粋化学；<br>（ｂ）たとえばガラス，セラミック，肥料，プラスチック組成物，ペイント，石油工業の製品のような上記化合物を含有する組成物を包含する応用化学。それはまた，爆発物，染料，接着剤，潤滑剤および洗剤のように，ある目的に適した特別の性質をもつための組成物をも包含する；<br>（ｃ）コークスの製造，固体または気体燃料の製造，油脂およびろうの製造および精製，発酵工業（例．ビールおよびぶどう酒の製造），製糖工業のようなある境界工業；<br>（ｄ）ある操作または処理であって，純粋に機械的な処理，例．レザーおよび皮の機械的処理，または部分的機械的処理，例．水処理，または腐食防止一般であるもの；<br>（ｅ）冶金，鉄または非鉄合金<br>（３）ＩＰＣの全てのセクションにおいて，相反する指示がない限り，元素記号周期表への言及は，以下に示す１８のグループを表す。［２００９．０１］<br>’「図」’<br>’「図」’<br>（４）<br>（ａ）化学的部分または面および非化学的部分または面の両方を有する操作，処理，製品または物品の場合に，一般規則として，化学的部分または面はＣセクションに包含される。<br>（ｂ）これらのうちのある場合には，化学的部分または面には非化学的部分または面を伴い，純粋に機械的部分または面を伴うことさえある，というのは非化学的面は操作または処理にとって本質的であるかまたはそれらの重要な要素を構成するからである；実際，全体のさまざまな部分または面を分割しないのがより論理的と思える。これは応用化学や上記注（１）（ｃ），（ｄ）および（ｅ）の工業，操作および処理の場合に適用される。例えば，ガラス製造用特殊炉はＣ０３に包含されＦ２７には包含されない。<br>（ｃ）しかしながら，機械的面（または非化学的面）に非化学的な面が伴うという例外もある，例えば：<br>―サブクラスＡ６１Ｋにおけるある抽出プロセス；<br>―サブクラスＡ６１Ｌにおける空気の化学的精製；<br>―サブクラスＡ６２Ｄにおける化学的消火方法；<br>―クラスＢ０１における化学的プロセスおよび装置；<br>―サブクラスＢ２７Ｋにおける木材の含浸；<br>―サブクラスＧ０１Ｎにおける化学的分析または試験法；<br>―クラスＧ０３における写真材料またはプロセス，そして一般に，Ｄセクションにおける繊維の化学的処理および繊維素，紙等の製造<br>（ｄ）さらに他の場合，純粋化学的面はＣセクションに包含され，応用化学的面はＡ，Ｂ，Ｆセクションのような他のセクションに包含される，例．以下の物質または組成物の使用：<br>―サブクラスＡ０１Ｎに包含される植物または動物の処理；<br>―クラスＡ２３に包含される食物；<br>―クラスＦ４２に包含される弾薬または爆薬<br>（ｅ）化学的面および機械的面が非常に交錯して，簡単明確な分割ができない時，または化学的処理が自然なまたは論理的な延長として機械的プロセスを要する時は，化学的面に加えて，Ｃセクションは機械的面の一部のみ，例．クラスＣ０４に包含される人造石の後処理，を包含する。この後者の場合に，たとえその区別がむしろ任意であってもその位置を明確にするよう注または参照を通常設けている。",
+      "en": "CHEMISTRY; METALLURGY; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In section <b>C</b>, the definitions of groups of chemical elements are as follows: <ul><li><u>Alkali metals:</u> Li, Na, K, Rb, Cs, Fr</li><li><u>Alkaline earth metals:</u> Ca, Sr, Ba, Ra</li><li><u>Lanthanides:</u> elements with atomic numbers 57 to 71 inclusive</li><li><u>Rare earths:</u> Sc, Y, Lanthanides</li><li><u>Actinides:</u> elements with atomic numbers 89 to 103 inclusive</li><li><u>Refractory metals:</u> Ti, V, Cr, Zr, Nb, Mo, Hf, Ta, W</li><li><u>Halogens:</u> F, Cl, Br, I, At</li><li><u>Noble gases:</u> He, Ne, Ar, Kr, Xe, Rn</li><li><u>Platinum group:</u> Os, Ir, Pt, Ru, Rh, Pd</li><li><u>Noble metals:</u> Ag, Au, Platinum group</li><li><u>Light metals:</u> alkali metals, alkaline earth metals, Be, Al, Mg</li><li><u>Heavy metals:</u> metals other than light metals</li><li><u>Iron group:</u> Fe, Co, Ni</li><li><u>Non-metals:</u> H, B, C, Si, N, P, O, S, Se, Te, noble gases, halogens</li><li><u>Metals:</u> elements other than non-metals</li><li><u>Transition elements:</u> elements with atomic numbers 21 to 30 inclusive, 39 to 48 inclusive, 57 to 80 inclusive, 89 upwards</li></ul></li><li>Section <b>C</b> <u>covers</u> : <ul><li>pure chemistry, which covers inorganic compounds, organic compounds, macromolecular compounds, and their methods of preparation;</li><li>applied chemistry, which covers compositions containing the above compounds, such as: glass, ceramics, fertilisers, plastics compositions, paints, products of the petroleum industry. It also <u>covers</u> certain compositions on account of their having particular properties rendering them suitable for certain purposes, as in the case of explosives, dyestuffs, adhesives, lubricants, and detergents;</li><li>certain marginal industries, such as the manufacture of coke and of solid or gaseous fuels, the production and refining of oils, fats and waxes, the fermentation industry (e.g., brewing and wine-making), the sugar industry;</li><li>certain operations or treatments, which are either purely mechanical, e.g., the mechanical treatment of leather and skins, or partly mechanical, e.g., the treatment of water or the prevention of corrosion in general;</li><li>metallurgy, ferrous or non-ferrous alloys.</li></ul></li><li>In all sections of the IPC, in the absence of an indication to the contrary, the Periodic Table of chemical elements referred to is the one with 18 groups as represented in the table below. [figure]</li><li><ul><li>In the case of operations, treatments, products or articles having both a chemical and a non-chemical part or aspect, the general rule is that the chemical part or aspect is covered by section <b>C</b>.</li><li>In some of these cases, the chemical part or aspect brings with it a non-chemical one, even though purely mechanical, because this latter aspect either is essential to the operation or treatment or constitutes an important element thereof. It has seemed, in fact, more logical not to dissociate the different parts or aspects of a coherent whole. This is the case for applied chemistry and for the industries, operations and treatments mentioned in Notes (1)(c), (d) and (e). For example, furnaces peculiar to the manufacture of glass are covered by class <b>C03</b> and not by class <b>F27</b>.</li><li>There are, however, some exceptions in which the mechanical (or non-chemical) aspect carries with it the chemical aspect, for example: <ul><li>certain extractive processes, in subclass <b>A61K</b>;</li><li>the chemical purification of air, in subclass <b>A61L</b>;</li><li>chemical methods of fire-fighting, in subclass <b>A62D</b>;</li><li>chemical processes and apparatus, in class <b>B01</b>;</li><li>impregnation of wood, in subclass <b>B27K</b>;</li><li>chemical methods of analysis or testing, in subclass <b>G01N</b>;</li><li>photographic materials and processes, in class <b>G03</b>, and, generally, the chemical treatment of textiles and the production of cellulose or paper, in section <b>D</b>.</li></ul></li><li>In still other cases, the pure chemical aspect is covered by section <b>C</b> and the applied chemical aspect by another section, such as <b>A</b>, <b>B</b> or <b>F</b>, e.g., the use of a substance or composition for: <ul><li>treatment of plants or animals, covered by subclass <b>A01N</b>;</li><li>foodstuffs, covered by class <b>A23</b>;</li><li>ammunition or explosives, covered by class <b>F42</b>.</li></ul></li><li>When the chemical and mechanical aspects are so closely interlocked that a neat and simple division is not possible, or when certain mechanical processes follow as a natural or logical continuation of a chemical treatment, section <b>C</b> may cover, in addition to the chemical aspect, a part only of the mechanical aspect, e.g., after-treatment of artificial stone, covered by class <b>C04</b>. In this latter case, a note or a reference is usually given to make the position clear, even if sometimes the division is rather arbitrary.</li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_C.txt",
+      "kind": "ipc"
+    },
+    "C21C1/00": {
+      "code": "C21C1/00",
+      "level": 0,
+      "parent": "C21C",
+      "ja": "銑鉄の精製；鋳鉄",
+      "en": "Refining of pig-iron; Cast iron",
+      "count": 2646,
+      "sourceFile": "ipc_C21C.txt",
+      "kind": "ipc"
+    },
+    "C21C1/02": {
+      "code": "C21C1/02",
+      "level": 1,
+      "parent": "C21C1/00",
+      "ja": "脱りんまたは脱硫",
+      "en": "Dephosphorising or desulfurising",
+      "count": 6612,
+      "sourceFile": "ipc_C21C.txt",
+      "kind": "ipc"
+    },
+    "C21C1/04": {
+      "code": "C21C1/04",
+      "level": 1,
+      "parent": "C21C1/00",
+      "ja": "炭素，りんまたはいおう以外の不純物の除去",
+      "en": "Removing impurities other than carbon, phosphorus, or sulfur",
+      "count": 1414,
+      "sourceFile": "ipc_C21C.txt",
+      "kind": "ipc"
+    },
+    "C21C1/06": {
+      "code": "C21C1/06",
+      "level": 1,
+      "parent": "C21C1/00",
+      "ja": "銑鉄用の混銑炉の構造的特徴",
+      "en": "Constructional features of mixers for pig-iron",
+      "count": 1583,
+      "sourceFile": "ipc_C21C.txt",
+      "kind": "ipc"
+    },
+    "C21C1/08": {
+      "code": "C21C1/08",
+      "level": 1,
+      "parent": "C21C1/00",
+      "ja": "鋳鉄の製造",
+      "en": "Manufacture of cast-iron",
+      "count": 2215,
+      "sourceFile": "ipc_C21C.txt",
+      "kind": "ipc"
+    },
+    "C21C1/10": {
+      "code": "C21C1/10",
+      "level": 1,
+      "parent": "C21C1/00",
+      "ja": "球状黒鉛鋳鉄の製造",
+      "en": "Making spheroidal graphite cast-iron",
+      "count": 3844,
+      "sourceFile": "ipc_C21C.txt",
+      "kind": "ipc"
+    },
+    "C21C3/00": {
+      "code": "C21C3/00",
+      "level": 0,
+      "parent": "C21C",
+      "ja": "錬鉄または錬鋼の製造",
+      "en": "Manufacture of wrought-iron or wrought-steel",
+      "count": 254,
+      "sourceFile": "ipc_C21C.txt",
+      "kind": "ipc"
+    },
+    "C21C5/00": {
+      "code": "C21C5/00",
+      "level": 0,
+      "parent": "C21C",
+      "ja": "炭素鋼，例．普通軟鋼，中炭素鋼または鋳鋼，の製造",
+      "en": "Manufacture of carbon steel, e.g. plain mild steel, medium carbon steel, or cast-steel",
+      "count": 1807,
+      "sourceFile": "ipc_C21C.txt",
+      "kind": "ipc"
+    },
+    "C21C5/02": {
+      "code": "C21C5/02",
+      "level": 1,
+      "parent": "C21C5/00",
+      "ja": "るつぼ炉法",
+      "en": "Crucible furnace processes",
+      "count": 59,
+      "sourceFile": "ipc_C21C.txt",
+      "kind": "ipc"
+    },
+    "C21C5/04": {
+      "code": "C21C5/04",
+      "level": 1,
+      "parent": "C21C5/00",
+      "ja": "炉床炉鋼，例．シーメンスマルチン鋼，の製造",
+      "en": "Manufacture of hearth-furnace steel, e.g. Siemens-Martin steel",
+      "count": 1088,
+      "sourceFile": "ipc_C21C.txt",
+      "kind": "ipc"
+    },
+    "C21C5/06": {
+      "code": "C21C5/06",
+      "level": 2,
+      "parent": "C21C5/04",
+      "ja": "特殊な成分組成のスラグをつくる方法",
+      "en": "Processes yielding slags of special composition",
+      "count": 146,
+      "sourceFile": "ipc_C21C.txt",
+      "kind": "ipc"
+    },
+    "C21C5/28": {
+      "code": "C21C5/28",
+      "level": 1,
+      "parent": "C21C5/00",
+      "ja": "転炉による鋼の製造",
+      "en": "Manufacture of steel in the converter",
+      "count": 8050,
+      "sourceFile": "ipc_C21C.txt",
+      "kind": "ipc"
+    },
+    "C21C5/30": {
+      "code": "C21C5/30",
+      "level": 2,
+      "parent": "C21C5/28",
+      "ja": "吹錬の調整または制御",
+      "en": "Regulating or controlling the blowing",
+      "count": 2991,
+      "sourceFile": "ipc_C21C.txt",
+      "kind": "ipc"
+    },
+    "C21C5/32": {
+      "code": "C21C5/32",
+      "level": 3,
+      "parent": "C21C5/30",
+      "ja": "上からの吹錬（Ｃ２１Ｃ５／３５が優先）［５］",
+      "en": "Blowing from above(<b>C21C5/35</b> takes precedence)",
+      "count": 2232,
+      "sourceFile": "ipc_C21C.txt",
+      "kind": "ipc"
+    },
+    "C21C5/34": {
+      "code": "C21C5/34",
+      "level": 3,
+      "parent": "C21C5/30",
+      "ja": "浴を通す吹錬（Ｃ２１Ｃ５／３５が優先）［５］",
+      "en": "Blowing through the bath(<b>C21C5/35</b> takes precedence)",
+      "count": 1523,
+      "sourceFile": "ipc_C21C.txt",
+      "kind": "ipc"
+    },
+    "C21C5/35": {
+      "code": "C21C5/35",
+      "level": 3,
+      "parent": "C21C5/30",
+      "ja": "上からおよび浴を通しての吹錬［５］",
+      "en": "Blowing from above and through the bath",
+      "count": 1929,
+      "sourceFile": "ipc_C21C.txt",
+      "kind": "ipc"
+    },
+    "C21C5/36": {
+      "code": "C21C5/36",
+      "level": 2,
+      "parent": "C21C5/28",
+      "ja": "特殊な成分組成のスラグをつくる方法",
+      "en": "Processes yielding slags of special composition",
+      "count": 2612,
+      "sourceFile": "ipc_C21C.txt",
+      "kind": "ipc"
+    },
+    "C21C5/38": {
+      "code": "C21C5/38",
+      "level": 2,
+      "parent": "C21C5/28",
+      "ja": "廃ガスまたは粉じんの除去",
+      "en": "Removal of waste gases or dust",
+      "count": 1785,
+      "sourceFile": "ipc_C21C.txt",
+      "kind": "ipc"
+    },
+    "C21C5/40": {
+      "code": "C21C5/40",
+      "level": 3,
+      "parent": "C21C5/38",
+      "ja": "転炉廃ガスまたは粉じんの除去または分離装置",
+      "en": "Offtakes or separating apparatus for converter waste gases or dust",
+      "count": 3543,
+      "sourceFile": "ipc_C21C.txt",
+      "kind": "ipc"
+    },
+    "C21C5/42": {
+      "code": "C21C5/42",
+      "level": 2,
+      "parent": "C21C5/28",
+      "ja": "転炉の構造的特徴",
+      "en": "Constructional features of converters",
+      "count": 1198,
+      "sourceFile": "ipc_C21C.txt",
+      "kind": "ipc"
+    },
+    "C21C5/44": {
+      "code": "C21C5/44",
+      "level": 3,
+      "parent": "C21C5/42",
+      "ja": "耐火物ライニング",
+      "en": "Refractory linings",
+      "count": 2693,
+      "sourceFile": "ipc_C21C.txt",
+      "kind": "ipc"
+    },
+    "C21C5/46": {
+      "code": "C21C5/46",
+      "level": 3,
+      "parent": "C21C5/42",
+      "ja": "細部構造または付属物",
+      "en": "Details or accessories",
+      "count": 13981,
+      "sourceFile": "ipc_C21C.txt",
+      "kind": "ipc"
+    },
+    "C21C5/48": {
+      "code": "C21C5/48",
+      "level": 4,
+      "parent": "C21C5/46",
+      "ja": "転炉炉底または羽口",
+      "en": "Bottoms or tuy&egrave;res of converters",
+      "count": 2898,
+      "sourceFile": "ipc_C21C.txt",
+      "kind": "ipc"
+    },
+    "C21C5/50": {
+      "code": "C21C5/50",
+      "level": 4,
+      "parent": "C21C5/46",
+      "ja": "転炉の傾動機構",
+      "en": "Tilting mechanisms for converters",
+      "count": 870,
+      "sourceFile": "ipc_C21C.txt",
+      "kind": "ipc"
+    },
+    "C21C5/52": {
+      "code": "C21C5/52",
+      "level": 1,
+      "parent": "C21C5/00",
+      "ja": "電気炉による鋼の製造",
+      "en": "Manufacture of steel in electric furnaces",
+      "count": 9833,
+      "sourceFile": "ipc_C21C.txt",
+      "kind": "ipc"
+    },
+    "C21C5/54": {
+      "code": "C21C5/54",
+      "level": 2,
+      "parent": "C21C5/52",
+      "ja": "特殊な成分組成のスラグをつくる方法",
+      "en": "Processes yielding slags of special composition",
+      "count": 1226,
+      "sourceFile": "ipc_C21C.txt",
+      "kind": "ipc"
+    },
+    "C21C5/56": {
+      "code": "C21C5/56",
+      "level": 1,
+      "parent": "C21C5/00",
+      "ja": "他の方法による鋼の製造（直接法による溶鋼の製造Ｃ２１Ｂ１３／００）",
+      "en": "Manufacture of steel by other methods(making liquid steel by direct processes <b>C21B13/00</b>)",
+      "count": 2644,
+      "sourceFile": "ipc_C21C.txt",
+      "kind": "ipc"
+    },
+    "C21C7/00": {
+      "code": "C21C7/00",
+      "level": 0,
+      "parent": "C21C",
+      "ja": "グループＣ２１Ｃ１／００～Ｃ２１Ｃ５／００に包含されない溶融鉄系合金，例．鋼，の処理（鋳造中の溶融金属の処理Ｂ２２Ｄ１／００，Ｂ２２Ｄ２７／００）",
+      "en": "Treating molten ferrous alloys, e.g. steel, not covered by groups <b>C21C1/00 to C21C5/00</b> (treating molten metals during moulding <b>B22D1/00</b>, <b>B22D27/00</b>)",
+      "count": 20362,
+      "sourceFile": "ipc_C21C.txt",
+      "kind": "ipc"
+    },
+    "C21C7/04": {
+      "code": "C21C7/04",
+      "level": 1,
+      "parent": "C21C7/00",
+      "ja": "処理剤の添加による不純物の除去",
+      "en": "Removing impurities by adding a treating agent",
+      "count": 4361,
+      "sourceFile": "ipc_C21C.txt",
+      "kind": "ipc"
+    },
+    "C21C7/06": {
+      "code": "C21C7/06",
+      "level": 2,
+      "parent": "C21C7/04",
+      "ja": "脱酸，例．キリング［２］",
+      "en": "Deoxidising, e.g. killing",
+      "count": 9943,
+      "sourceFile": "ipc_C21C.txt",
+      "kind": "ipc"
+    },
+    "C21C7/064": {
+      "code": "C21C7/064",
+      "level": 2,
+      "parent": "C21C7/04",
+      "ja": "脱リン；脱硫［３］",
+      "en": "Dephosphorising; Desulfurising",
+      "count": 7736,
+      "sourceFile": "ipc_C21C.txt",
+      "kind": "ipc"
+    },
+    "C21C7/068": {
+      "code": "C21C7/068",
+      "level": 2,
+      "parent": "C21C7/04",
+      "ja": "脱炭［３］",
+      "en": "Decarburising",
+      "count": 2981,
+      "sourceFile": "ipc_C21C.txt",
+      "kind": "ipc"
+    },
+    "C21C7/072": {
+      "code": "C21C7/072",
+      "level": 2,
+      "parent": "C21C7/04",
+      "ja": "ガスによる処理（Ｃ２１Ｃ７／０６，Ｃ２１Ｃ７／０６４，Ｃ２１Ｃ７／０６８が優先）［３］",
+      "en": "Treatment with gases(<b>C21C7/06</b>, <b>C21C7/064</b>, <b>C21C7/068</b> take precedence)",
+      "count": 7291,
+      "sourceFile": "ipc_C21C.txt",
+      "kind": "ipc"
+    },
+    "C21C7/076": {
+      "code": "C21C7/076",
+      "level": 2,
+      "parent": "C21C7/04",
+      "ja": "処理剤としてのスラグまたは溶剤の使用（Ｃ２１Ｃ７／０６，Ｃ２１Ｃ７／０６４，Ｃ２１Ｃ７／０６８が優先）［３］",
+      "en": "Use of slags or fluxes as treating agents(<b>C21C7/06</b>, <b>C21C7/064</b>, <b>C21C7/068</b> take precedence)",
+      "count": 4127,
+      "sourceFile": "ipc_C21C.txt",
+      "kind": "ipc"
+    },
+    "C21C7/10": {
+      "code": "C21C7/10",
+      "level": 1,
+      "parent": "C21C7/00",
+      "ja": "真空中における処理",
+      "en": "Handling in vacuum",
+      "count": 13357,
+      "sourceFile": "ipc_C21C.txt",
+      "kind": "ipc"
+    }
+  }
+};

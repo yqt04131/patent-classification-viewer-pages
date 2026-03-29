@@ -1,0 +1,406 @@
+window.IPC_SHARD_B60D = {
+  "generatedAt": "2026-03-20T02:17:46.208Z",
+  "total": 40,
+  "entries": {
+    "B60D": {
+      "code": "B60D",
+      "level": 0,
+      "parent": "B60",
+      "ja": "車両連結器<br><br><b><ul>注</ul></b><br>クラスＢ６０のタイトルに続く注に注意すること。",
+      "en": "VEHICLE CONNECTIONS; <br><br><b><u>Note(s)</u></b><br><br><ul><li>Attention is drawn to the Note following the title of class <b>B60</b>.</li></ul>",
+      "count": 592,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B60": {
+      "code": "B60",
+      "level": 0,
+      "parent": "B",
+      "ja": "車両一般<br><br><b><ul>注</ul></b><br>このクラスにおいては，下記の用語は以下に示す意味で用いる：<br>―“車両”は次の形の車両にのみ限定されるものを除いてすべての車両を意味する：鉄道車両，水上輸送船，航空機，宇宙乗物，手動運搬車，自転車，動物牽引車両およびそり；これらは，これに関連するサブクラスＢ６１からＢ６４に包含される。<br>用語“車両”は以下のものを包含する：<br>―上掲の二以上の形に共通な車両的特徴のあるもの；<br>―自動車もしくは道路またはクロスカントリー用のトレーラに限定される特徴あるもの。<br>―次の例外に注意されたい：<br>（ａ）サブクラスＢ６０ＢとＢ６０Ｃは，ローラースケート用車輪Ａ６３Ｃ１７／２２，鉄道模型用車輪Ａ６３Ｈ１９／２２および航空機用に特別に用いられる車輪またはタイヤＢ６４Ｃ２５／３６を除いて，すべての車両の車輪およびタイヤを含む；<br>（ｂ）サブクラスＢ６０Ｃは膨張可能な弾性体一般へのバルブの取付けを含み，この点は車両に限定されない；<br>（ｃ）サブクラスＢ６０Ｌはすべての電動車両の電気装置を含む；<br>（ｄ）サブクラスＢ６０Ｍは，外部の，すべての種類の電動車両の動力供給装置を含む；<br>（ｅ）サブクラスＢ６０Ｒは陸用車両の全型式に用いられる安全ベルトまたは身体用ハーネスを含む；［４］<br>（ｆ）サブクラスＢ６０Ｓは，グループＢ６１Ｋ１１／００に分類される鉄道機関車の施設，サブクラスＢ６４Ｆに分類される航空機の地上設備またはグループＢ６３Ｂ５７／００，Ｂ６３Ｂ５９／００に分類される水上浮揚構造物に特有な洗浄装置を除いて，すべての種類の車両に関する；<br>（ｇ）サブクラスＢ６０Ｔは一般に適用できる制動制御装置を含み，かつこの意味においてこれは車両に限定されない。また鉄道車両の動力制動装置および鉄道車両の制動装置の他の構造をも含む。；<br>（ｈ）サブクラスＢ６０Ｖは空気クッション車両自体，および空気クッション車両としても運用可能な特徴を有するまたは部分的に空気クッションによって支持される地上用車両，水上用車両または航空機を含む。［２００９．０１］",
+      "en": "VEHICLES IN GENERAL; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this class, the following term is used with the meaning indicated: <ul><li>\"vehicle\" means all vehicles except those restricted to one of the following types of vehicles: rail vehicles, waterborne vessels, aircraft, space vehicles, hand carts, cycles, animal-drawn vehicles, and sledges, which are covered by the relevant subclasses of <b>B61 to B64</b> . <ul><li>Thus the term \"vehicle\" includes: <ul><li>vehicular characteristics which are common to more than one of the above-listed types;</li><li>certain characteristics restricted to automobiles, road or cross-country trailers.</li><li>The following exceptions to the above should be noted: <ul><li>subclass <b>B60B</b> or <b>B60C</b> embrace all vehicle wheels and tyres, except wheels for roller skates <b>A63C17/22</b>, wheels for model railway vehicles <b>A63H19/22</b>, and special adaptations of wheels or tyres for aircraft <b>B64C25/36</b>;</li><li>subclass <b>B60C</b> embraces the connection of valves to inflatable elastic bodies in general, and in this respect it is not limited to vehicles;</li><li>subclass <b>B60L</b> embraces certain electric equipment of all electrically-propelled vehicles;</li><li>subclass <b>B60M</b> embraces certain power supply equipment for, but external to, any kind of electrically-propelled vehicle;</li><li>subclass <b>B60R</b> embraces safety belts or body harnesses used in all types of land vehicles;</li><li>subclass <b>B60S</b> relates to all kinds of vehicles, except the servicing of rail locomotives <b>B61K11/00</b>, ground equipment for aircraft <b>B64F</b>, or cleaning apparatus peculiar to waterborne vessels <b>B63B57/00</b>, <b>B63B59/00</b>;</li><li>subclass <b>B60T</b> includes brake control systems of general applicability, and in this respect it is not limited to vehicles. It also includes rail-vehicle power-brake systems and some other features of rail-vehicle brake systems;</li><li>subclass <b>B60V</b> embraces air-cushion vehicles <u>per se</u> and land vehicles, waterborne vessels or aircraft combined with features allowing them to alternatively operate as air-cushion vehicles or to be partially supported by an air cushion.</li></ul></li></ul></li></ul></li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B": {
+      "code": "B",
+      "level": 0,
+      "parent": null,
+      "ja": "処理操作；運輸",
+      "en": "PERFORMING OPERATIONS; TRANSPORTING",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B60D1/00": {
+      "code": "B60D1/00",
+      "level": 0,
+      "parent": "B60D",
+      "ja": "牽引連結器；ヒッチ；ドローギア；引張り装置（第５車輪牽引連結器Ｂ６２Ｄ５３／０８）［２００６．０１］",
+      "en": "Traction couplings; Hitches; Draw-gear; Towing devices (fifth-wheel traction couplings <b>B62D53/08</b>)",
+      "count": 3662,
+      "sourceFile": "ipc_B60D.txt",
+      "kind": "ipc"
+    },
+    "B60D1/01": {
+      "code": "B60D1/01",
+      "level": 1,
+      "parent": "B60D1/00",
+      "ja": "型に特徴のある，牽引連結器またはヒッチ［５］",
+      "en": "Traction couplings or hitches characterised by their type",
+      "count": 1626,
+      "sourceFile": "ipc_B60D.txt",
+      "kind": "ipc"
+    },
+    "B60D1/02": {
+      "code": "B60D1/02",
+      "level": 2,
+      "parent": "B60D1/01",
+      "ja": "ボルトまたはシャックル形連結器［５］",
+      "en": "Bolt or shackle-type couplings",
+      "count": 2272,
+      "sourceFile": "ipc_B60D.txt",
+      "kind": "ipc"
+    },
+    "B60D1/04": {
+      "code": "B60D1/04",
+      "level": 2,
+      "parent": "B60D1/01",
+      "ja": "フックまたはフックつき掛金連結器［５］",
+      "en": "Hook or hook-and-hasp couplings",
+      "count": 2620,
+      "sourceFile": "ipc_B60D.txt",
+      "kind": "ipc"
+    },
+    "B60D1/06": {
+      "code": "B60D1/06",
+      "level": 2,
+      "parent": "B60D1/01",
+      "ja": "ボールつきソケットヒッチ［５］",
+      "en": "Ball-and-socket hitches",
+      "count": 3477,
+      "sourceFile": "ipc_B60D.txt",
+      "kind": "ipc"
+    },
+    "B60D1/07": {
+      "code": "B60D1/07",
+      "level": 2,
+      "parent": "B60D1/01",
+      "ja": "多ヒッチ装置，すなわち同種または異種の数個のヒッチからなるもの；ヒッチアダプター，すなわちヒッチをある型から他の型に転換するためのもの［５］",
+      "en": "Multi-hitch devices, i.e. comprising several hitches of the same or of a different type; Hitch-adaptors, i.e. for converting hitches from one type to another",
+      "count": 655,
+      "sourceFile": "ipc_B60D.txt",
+      "kind": "ipc"
+    },
+    "B60D1/14": {
+      "code": "B60D1/14",
+      "level": 1,
+      "parent": "B60D1/00",
+      "ja": "型に特徴のあるドローギアまたは引張り装置［４］",
+      "en": "Draw-gear or towing devices characterised by their type",
+      "count": 3833,
+      "sourceFile": "ipc_B60D.txt",
+      "kind": "ipc"
+    },
+    "B60D1/145": {
+      "code": "B60D1/145",
+      "level": 2,
+      "parent": "B60D1/14",
+      "ja": "単一の細形棒またはチューブからなるもの［５］",
+      "en": "consisting of an elongated single bar or tube",
+      "count": 851,
+      "sourceFile": "ipc_B60D.txt",
+      "kind": "ipc"
+    },
+    "B60D1/155": {
+      "code": "B60D1/155",
+      "level": 3,
+      "parent": "B60D1/145",
+      "ja": "伸縮自在または折りたためる部品からなるもの［５］",
+      "en": "comprising telescopic or foldable parts",
+      "count": 992,
+      "sourceFile": "ipc_B60D.txt",
+      "kind": "ipc"
+    },
+    "B60D1/167": {
+      "code": "B60D1/167",
+      "level": 2,
+      "parent": "B60D1/14",
+      "ja": "Ｖ型，Ｙ型またはＵ型のドローギアを形成する連結式または組立て固定された棒またはチューブからなるもの［２００６．０１］",
+      "en": "consisting of articulated or rigidly assembled bars or tubes forming a V-, Y- or U-shaped draw gear",
+      "count": 999,
+      "sourceFile": "ipc_B60D.txt",
+      "kind": "ipc"
+    },
+    "B60D1/173": {
+      "code": "B60D1/173",
+      "level": 2,
+      "parent": "B60D1/14",
+      "ja": "互に結合または連結されないすくなくとも２つの棒からなるもの［５］",
+      "en": "consisting of at least two bars which are not connected or articulated to each other",
+      "count": 245,
+      "sourceFile": "ipc_B60D.txt",
+      "kind": "ipc"
+    },
+    "B60D1/18": {
+      "code": "B60D1/18",
+      "level": 2,
+      "parent": "B60D1/14",
+      "ja": "引き縄，チェインまたはこれに類するもの",
+      "en": "Tow ropes, chains, or the like",
+      "count": 1380,
+      "sourceFile": "ipc_B60D.txt",
+      "kind": "ipc"
+    },
+    "B60D1/24": {
+      "code": "B60D1/24",
+      "level": 1,
+      "parent": "B60D1/00",
+      "ja": "特別の機能のための装置に特徴があるもの［５］",
+      "en": "characterised by arrangements for particular functions",
+      "count": 3253,
+      "sourceFile": "ipc_B60D.txt",
+      "kind": "ipc"
+    },
+    "B60D1/26": {
+      "code": "B60D1/26",
+      "level": 2,
+      "parent": "B60D1/24",
+      "ja": "遠隔制御のためのもの，例．離脱用［５］",
+      "en": "for remote control, e.g. for releasing",
+      "count": 807,
+      "sourceFile": "ipc_B60D.txt",
+      "kind": "ipc"
+    },
+    "B60D1/28": {
+      "code": "B60D1/28",
+      "level": 2,
+      "parent": "B60D1/24",
+      "ja": "離脱防止のためのもの，例．安全装置［５］",
+      "en": "for preventing unwanted disengagement, e.g. safety appliances",
+      "count": 1441,
+      "sourceFile": "ipc_B60D.txt",
+      "kind": "ipc"
+    },
+    "B60D1/30": {
+      "code": "B60D1/30",
+      "level": 2,
+      "parent": "B60D1/24",
+      "ja": "動揺制御のためのもの［５］",
+      "en": "for sway control",
+      "count": 920,
+      "sourceFile": "ipc_B60D.txt",
+      "kind": "ipc"
+    },
+    "B60D1/32": {
+      "code": "B60D1/32",
+      "level": 3,
+      "parent": "B60D1/30",
+      "ja": "緩衝装置を含むもの［５］",
+      "en": "involving damping devices",
+      "count": 687,
+      "sourceFile": "ipc_B60D.txt",
+      "kind": "ipc"
+    },
+    "B60D1/34": {
+      "code": "B60D1/34",
+      "level": 3,
+      "parent": "B60D1/30",
+      "ja": "スプリングを含むもの［５］",
+      "en": "involving springs",
+      "count": 530,
+      "sourceFile": "ipc_B60D.txt",
+      "kind": "ipc"
+    },
+    "B60D1/36": {
+      "code": "B60D1/36",
+      "level": 2,
+      "parent": "B60D1/24",
+      "ja": "連結を容易にするためのもの，例．ヒッチキャッチャー［５］",
+      "en": "for facilitating connection, e.g. hitch catchers",
+      "count": 2208,
+      "sourceFile": "ipc_B60D.txt",
+      "kind": "ipc"
+    },
+    "B60D1/38": {
+      "code": "B60D1/38",
+      "level": 3,
+      "parent": "B60D1/36",
+      "ja": "結合前牽引車に付随車を牽引するための補助ケーブルを含むもの［５］",
+      "en": "involving auxiliary cables for drawing the trailer to the tractor before coupling",
+      "count": 226,
+      "sourceFile": "ipc_B60D.txt",
+      "kind": "ipc"
+    },
+    "B60D1/40": {
+      "code": "B60D1/40",
+      "level": 3,
+      "parent": "B60D1/36",
+      "ja": "一時的に伸ばせる部材または一直線になる部材を含むもの（Ｂ６０Ｄ１／３８が優先）［５］",
+      "en": "involving a temporarily extensible or alignable member(<b>B60D1/38</b> takes precedence)",
+      "count": 493,
+      "sourceFile": "ipc_B60D.txt",
+      "kind": "ipc"
+    },
+    "B60D1/42": {
+      "code": "B60D1/42",
+      "level": 2,
+      "parent": "B60D1/24",
+      "ja": "調節できるためのもの［５］",
+      "en": "for being adjustable",
+      "count": 858,
+      "sourceFile": "ipc_B60D.txt",
+      "kind": "ipc"
+    },
+    "B60D1/44": {
+      "code": "B60D1/44",
+      "level": 3,
+      "parent": "B60D1/42",
+      "ja": "水平に［５］",
+      "en": "horizontally",
+      "count": 625,
+      "sourceFile": "ipc_B60D.txt",
+      "kind": "ipc"
+    },
+    "B60D1/46": {
+      "code": "B60D1/46",
+      "level": 3,
+      "parent": "B60D1/42",
+      "ja": "垂直に［５］",
+      "en": "vertically",
+      "count": 1634,
+      "sourceFile": "ipc_B60D.txt",
+      "kind": "ipc"
+    },
+    "B60D1/48": {
+      "code": "B60D1/48",
+      "level": 1,
+      "parent": "B60D1/00",
+      "ja": "取り付けに特徴があるもの［５］",
+      "en": "characterised by the mounting",
+      "count": 1953,
+      "sourceFile": "ipc_B60D.txt",
+      "kind": "ipc"
+    },
+    "B60D1/50": {
+      "code": "B60D1/50",
+      "level": 2,
+      "parent": "B60D1/48",
+      "ja": "弾性的に取り付けられたもの（Ｂ６０Ｄ１／３０が優先）［５］",
+      "en": "resiliently mounted(<b>B60D1/30</b> takes precedence)",
+      "count": 812,
+      "sourceFile": "ipc_B60D.txt",
+      "kind": "ipc"
+    },
+    "B60D1/52": {
+      "code": "B60D1/52",
+      "level": 2,
+      "parent": "B60D1/48",
+      "ja": "取り外しできるように取り付けるもの［２００６．０１］",
+      "en": "removably mounted",
+      "count": 1394,
+      "sourceFile": "ipc_B60D.txt",
+      "kind": "ipc"
+    },
+    "B60D1/54": {
+      "code": "B60D1/54",
+      "level": 2,
+      "parent": "B60D1/48",
+      "ja": "使用しないとき折りたためるまたは引っ込められるもの，例．人目につかないヒッチ［２００６．０１］",
+      "en": "collapsible or retractable when not in use, e.g. hide-away hitches",
+      "count": 1316,
+      "sourceFile": "ipc_B60D.txt",
+      "kind": "ipc"
+    },
+    "B60D1/56": {
+      "code": "B60D1/56",
+      "level": 2,
+      "parent": "B60D1/48",
+      "ja": "車両バンパーに固定するもの［５］",
+      "en": "securing to the vehicle bumper",
+      "count": 824,
+      "sourceFile": "ipc_B60D.txt",
+      "kind": "ipc"
+    },
+    "B60D1/58": {
+      "code": "B60D1/58",
+      "level": 1,
+      "parent": "B60D1/00",
+      "ja": "補助装置［５］",
+      "en": "Auxiliary devices",
+      "count": 1585,
+      "sourceFile": "ipc_B60D.txt",
+      "kind": "ipc"
+    },
+    "B60D1/60": {
+      "code": "B60D1/60",
+      "level": 2,
+      "parent": "B60D1/58",
+      "ja": "カバー，カップまたはカード［５］",
+      "en": "Covers, caps or guards",
+      "count": 1497,
+      "sourceFile": "ipc_B60D.txt",
+      "kind": "ipc"
+    },
+    "B60D1/62": {
+      "code": "B60D1/62",
+      "level": 2,
+      "parent": "B60D1/58",
+      "ja": "供給線，電子回路，または類似物を含むもの［５］",
+      "en": "involving supply lines, electric circuits, or the like",
+      "count": 1804,
+      "sourceFile": "ipc_B60D.txt",
+      "kind": "ipc"
+    },
+    "B60D1/64": {
+      "code": "B60D1/64",
+      "level": 3,
+      "parent": "B60D1/62",
+      "ja": "そのための連結器またはジョイント［５］",
+      "en": "Couplings or joints therefor",
+      "count": 798,
+      "sourceFile": "ipc_B60D.txt",
+      "kind": "ipc"
+    },
+    "B60D1/66": {
+      "code": "B60D1/66",
+      "level": 2,
+      "parent": "B60D1/58",
+      "ja": "支柱［５］",
+      "en": "Props",
+      "count": 928,
+      "sourceFile": "ipc_B60D.txt",
+      "kind": "ipc"
+    },
+    "B60D3/00": {
+      "code": "B60D3/00",
+      "level": 0,
+      "parent": "B60D",
+      "ja": "押圧促進装置［２００６．０１］",
+      "en": "Fittings to facilitate pushing",
+      "count": 248,
+      "sourceFile": "ipc_B60D.txt",
+      "kind": "ipc"
+    },
+    "B60D5/00": {
+      "code": "B60D5/00",
+      "level": 0,
+      "parent": "B60D",
+      "ja": "連結車両用の通路，例．コンサーチナ形のもの",
+      "en": "Gangways for coupled vehicles, e.g. of concertina type",
+      "count": 947,
+      "sourceFile": "ipc_B60D.txt",
+      "kind": "ipc"
+    },
+    "B60D99/00": {
+      "code": "B60D99/00",
+      "level": 0,
+      "parent": "B60D",
+      "ja": "このサブクラスの他のグループに分類されない主題事項　［２００９．０１］",
+      "en": "Subject matter not provided for in other groups of this subclass",
+      "count": 280,
+      "sourceFile": "ipc_B60D.txt",
+      "kind": "ipc"
+    }
+  }
+};

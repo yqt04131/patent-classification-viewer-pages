@@ -1,0 +1,456 @@
+{
+  "generatedAt": "2026-03-20T02:17:46.808Z",
+  "total": 45,
+  "entries": {
+    "F02N": {
+      "code": "F02N",
+      "level": 0,
+      "parent": "F02",
+      "ja": "燃焼機関の始動（自由ピストン燃焼機関の始動Ｆ０２Ｂ７１／０２；ガスタービン装置の始動Ｆ０２Ｃ７／２６）；他類に属しない機関の始動補助<br><br><b><ul>注</ul></b><br>（１）クラスＦ０１の前の注に注意すること。<br>（２）明らかに燃焼機関であるとは必ずしも言えない機関の始動でもそれら機関の始動が燃焼機関の始動に相当する限りこのサブクラスに分類される。<br><br><b><ul>サブクラス内の索引</ul></b><br>人力による始動　１／００，３／００，５／００<br>その他の始動<br>機械的エネルギの蓄積部をもつもの　５／００<br>流体原動機によるもの；電動機によるもの　７／００；１１／００<br>作動室内において直接運動するもの：流体圧力によるもの；爆薬によるもの　９／００；１３／００<br>他の装置によるもの，細部，付属品　１５／００<br>始動のための他の手段または補助　１９／００，９９／００",
+      "en": "STARTING OF COMBUSTION ENGINES; STARTING AIDS FOR SUCH ENGINES, NOT OTHERWISE PROVIDED FOR; <br><br><b><u>Note(s)</u></b><br><br><ul><li>Attention is drawn to the Notes preceding class <b>F01</b>.</li><li>The starting of engines which are not explicitly stated to be combustion engines is classified in this subclass in so far as their starting is equivalent to that of combustion engines.</li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">STARTING BY MUSCLE POWER </td><td><b><b>1/00</b>, <b>3/00</b>, <b>5/00</b></b></td></tr></tr><tr><td width=\"70%\">STARTING OTHERWISE<tr><td width=\"70%\">With mechanical energy storage </td><td><b><b>5/00</b></b></td></tr></tr><tr><td width=\"70%\">By fluid motor; by electric motor </td><td><b><b>7/00</b>; <b>11/00</b></b></td></tr></tr><tr><td width=\"70%\">By direct action in the working chamber: by fluid pressure; by explosives </td><td><b><b>9/00</b>; <b>13/00</b></b></td></tr></tr><tr><td width=\"70%\">By other apparatus, details, accessories </td><td><b><b>15/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">OTHER MEANS OR AIDS FOR STARTING </td><td><b><b>19/00</b>, <b>99/00</b></b></td></tr></tr></table>",
+      "count": 321,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F02": {
+      "code": "F02",
+      "level": 0,
+      "parent": "F",
+      "ja": "燃焼機関；熱ガスまたは燃焼生成物を利用する機関設備",
+      "en": "COMBUSTION ENGINES; HOT-GAS OR COMBUSTION-PRODUCT ENGINE PLANTS",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F": {
+      "code": "F",
+      "level": 0,
+      "parent": null,
+      "ja": "機械工学；照明；加熱；武器；爆破",
+      "en": "MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F02N1/00": {
+      "code": "F02N1/00",
+      "level": 0,
+      "parent": "F02N",
+      "ja": "手回しクランクを有する始動装置（中間動力蓄積部を有するものＦ０２Ｎ５／００～Ｆ０２Ｎ１５／００）",
+      "en": "Starting apparatus having hand cranks(with intermediate power storage <b>F02N5/00 to F02N15/00</b> )",
+      "count": 797,
+      "sourceFile": "ipc_F02N.txt",
+      "kind": "ipc"
+    },
+    "F02N1/02": {
+      "code": "F02N1/02",
+      "level": 1,
+      "parent": "F02N1/00",
+      "ja": "逆回転による損傷を防止する安全手段を有するもの",
+      "en": "having safety means preventing damage caused by reverse rotation",
+      "count": 857,
+      "sourceFile": "ipc_F02N.txt",
+      "kind": "ipc"
+    },
+    "F02N3/00": {
+      "code": "F02N3/00",
+      "level": 0,
+      "parent": "F02N",
+      "ja": "他の人力操作始動装置（中間動力蓄積部を有するものＦ０２Ｎ５／００～Ｆ０２Ｎ１５／００）",
+      "en": "Other muscle-operated starting apparatus(with intermediate power storage <b>F02N5/00 to F02N15/00</b> )",
+      "count": 356,
+      "sourceFile": "ipc_F02N.txt",
+      "kind": "ipc"
+    },
+    "F02N3/02": {
+      "code": "F02N3/02",
+      "level": 1,
+      "parent": "F02N3/00",
+      "ja": "引張りコードを有するもの",
+      "en": "having pull-cords",
+      "count": 2484,
+      "sourceFile": "ipc_F02N.txt",
+      "kind": "ipc"
+    },
+    "F02N3/04": {
+      "code": "F02N3/04",
+      "level": 1,
+      "parent": "F02N3/00",
+      "ja": "足踏みレバーを有するもの",
+      "en": "having foot-actuated levers",
+      "count": 977,
+      "sourceFile": "ipc_F02N.txt",
+      "kind": "ipc"
+    },
+    "F02N5/00": {
+      "code": "F02N5/00",
+      "level": 0,
+      "parent": "F02N",
+      "ja": "機械的動力の蓄積部を有する始動装置",
+      "en": "Starting apparatus having mechanical power storage",
+      "count": 93,
+      "sourceFile": "ipc_F02N.txt",
+      "kind": "ipc"
+    },
+    "F02N5/02": {
+      "code": "F02N5/02",
+      "level": 1,
+      "parent": "F02N5/00",
+      "ja": "ばね形式のもの",
+      "en": "of spring type",
+      "count": 1152,
+      "sourceFile": "ipc_F02N.txt",
+      "kind": "ipc"
+    },
+    "F02N5/04": {
+      "code": "F02N5/04",
+      "level": 1,
+      "parent": "F02N5/00",
+      "ja": "慣性形式のもの",
+      "en": "of inertia type",
+      "count": 620,
+      "sourceFile": "ipc_F02N.txt",
+      "kind": "ipc"
+    },
+    "F02N7/00": {
+      "code": "F02N7/00",
+      "level": 0,
+      "parent": "F02N",
+      "ja": "流体駆動補助機関または装置を有する始動装置",
+      "en": "Starting apparatus having fluid-driven auxiliary engines or apparatus",
+      "count": 545,
+      "sourceFile": "ipc_F02N.txt",
+      "kind": "ipc"
+    },
+    "F02N7/02": {
+      "code": "F02N7/02",
+      "level": 1,
+      "parent": "F02N7/00",
+      "ja": "単動ピストン形，例．ラックまたは引張りコードに作用するピストン，の装置",
+      "en": "the apparatus being of single-stroke piston type, e.g. pistons acting on racks or pull-cords",
+      "count": 77,
+      "sourceFile": "ipc_F02N.txt",
+      "kind": "ipc"
+    },
+    "F02N7/04": {
+      "code": "F02N7/04",
+      "level": 2,
+      "parent": "F02N7/02",
+      "ja": "回転させるためにねじを切った部材に作用するピストン",
+      "en": "the pistons acting on screw-threaded members to effect rotation",
+      "count": 51,
+      "sourceFile": "ipc_F02N.txt",
+      "kind": "ipc"
+    },
+    "F02N7/06": {
+      "code": "F02N7/06",
+      "level": 1,
+      "parent": "F02N7/00",
+      "ja": "往復動ピストン形の機関（内燃式のものＦ０２Ｎ７／１０）",
+      "en": "the engines being of reciprocating-piston type(of internal-combustion type <b>F02N7/10</b>)",
+      "count": 105,
+      "sourceFile": "ipc_F02N.txt",
+      "kind": "ipc"
+    },
+    "F02N7/08": {
+      "code": "F02N7/08",
+      "level": 1,
+      "parent": "F02N7/00",
+      "ja": "回転式の機関",
+      "en": "the engines being of rotary type",
+      "count": 389,
+      "sourceFile": "ipc_F02N.txt",
+      "kind": "ipc"
+    },
+    "F02N7/10": {
+      "code": "F02N7/10",
+      "level": 1,
+      "parent": "F02N7/00",
+      "ja": "燃焼式の補助機関または装置を使用することを特徴とするもの（爆薬薬包を使用するものＦ０２Ｎ１３／００）",
+      "en": "characterised by using auxiliary engines or apparatus of combustion type(by using explosive cartridges <b>F02N13/00</b>)",
+      "count": 141,
+      "sourceFile": "ipc_F02N.txt",
+      "kind": "ipc"
+    },
+    "F02N7/12": {
+      "code": "F02N7/12",
+      "level": 2,
+      "parent": "F02N7/10",
+      "ja": "回転式の機関，例．タービン（Ｆ０２Ｎ７／１４が優先）",
+      "en": "the engines being of rotary type, e.g. turbines(<b>F02N7/14</b> takes precedence)",
+      "count": 58,
+      "sourceFile": "ipc_F02N.txt",
+      "kind": "ipc"
+    },
+    "F02N7/14": {
+      "code": "F02N7/14",
+      "level": 2,
+      "parent": "F02N7/10",
+      "ja": "主機関から簡単に取りはずせる始動機関，例．可搬式のもの",
+      "en": "the starting engines being readily removable from main engines, e.g. of portable type",
+      "count": 42,
+      "sourceFile": "ipc_F02N.txt",
+      "kind": "ipc"
+    },
+    "F02N9/00": {
+      "code": "F02N9/00",
+      "level": 0,
+      "parent": "F02N",
+      "ja": "補助圧力流体の作動室への供給による機関の始動",
+      "en": "Starting of engines by supplying auxiliary pressure fluid to their working chambers",
+      "count": 154,
+      "sourceFile": "ipc_F02N.txt",
+      "kind": "ipc"
+    },
+    "F02N9/02": {
+      "code": "F02N9/02",
+      "level": 1,
+      "parent": "F02N9/00",
+      "ja": "燃焼により直接つくり出される圧力流体（爆薬薬包を使用することによるものＦ０２Ｎ１３／００）",
+      "en": "the pressure fluid being generated directly by combustion(by using explosive cartridges <b>F02N13/00</b>)",
+      "count": 277,
+      "sourceFile": "ipc_F02N.txt",
+      "kind": "ipc"
+    },
+    "F02N9/04": {
+      "code": "F02N9/04",
+      "level": 1,
+      "parent": "F02N9/00",
+      "ja": "他の手段，例．圧縮空気，でつくり出される圧力流体",
+      "en": "the pressure fluid being generated otherwise, e.g. by compressing air",
+      "count": 935,
+      "sourceFile": "ipc_F02N.txt",
+      "kind": "ipc"
+    },
+    "F02N11/00": {
+      "code": "F02N11/00",
+      "level": 0,
+      "parent": "F02N",
+      "ja": "電動機による機関の始動［１］",
+      "en": "Starting of engines by means of electric motors",
+      "count": 7965,
+      "sourceFile": "ipc_F02N.txt",
+      "kind": "ipc"
+    },
+    "F02N11/02": {
+      "code": "F02N11/02",
+      "level": 1,
+      "parent": "F02N11/00",
+      "ja": "縦方向に移動できるロータを有する電動機",
+      "en": "the motors having longitudinally-shiftable rotors",
+      "count": 193,
+      "sourceFile": "ipc_F02N.txt",
+      "kind": "ipc"
+    },
+    "F02N11/04": {
+      "code": "F02N11/04",
+      "level": 1,
+      "parent": "F02N11/00",
+      "ja": "発電機と協働する電動機",
+      "en": "the motors being associated with current generators",
+      "count": 3985,
+      "sourceFile": "ipc_F02N.txt",
+      "kind": "ipc"
+    },
+    "F02N11/06": {
+      "code": "F02N11/06",
+      "level": 2,
+      "parent": "F02N11/04",
+      "ja": "さらに点火装置をもつもの",
+      "en": "and with ignition apparatus",
+      "count": 195,
+      "sourceFile": "ipc_F02N.txt",
+      "kind": "ipc"
+    },
+    "F02N11/08": {
+      "code": "F02N11/08",
+      "level": 1,
+      "parent": "F02N11/00",
+      "ja": "機関の始動に特に適用される回路",
+      "en": "Circuits specially adapted for starting of engines",
+      "count": 14352,
+      "sourceFile": "ipc_F02N.txt",
+      "kind": "ipc"
+    },
+    "F02N11/10": {
+      "code": "F02N11/10",
+      "level": 1,
+      "parent": "F02N11/00",
+      "ja": "安全装置（Ｆ０２Ｎ１１／０８が優先）",
+      "en": "Safety devices(<b>F02N11/08</b> takes precedence)",
+      "count": 2264,
+      "sourceFile": "ipc_F02N.txt",
+      "kind": "ipc"
+    },
+    "F02N11/12": {
+      "code": "F02N11/12",
+      "level": 1,
+      "parent": "F02N11/00",
+      "ja": "移動可能の，例．可搬式，始動セットによる機関の始動",
+      "en": "Starting of engines by means of mobile, e.g. portable, starting sets",
+      "count": 391,
+      "sourceFile": "ipc_F02N.txt",
+      "kind": "ipc"
+    },
+    "F02N11/14": {
+      "code": "F02N11/14",
+      "level": 1,
+      "parent": "F02N11/00",
+      "ja": "外部より電流を供給される電気式始動機による機関の始動（Ｆ０２Ｎ１１／１２が優先）",
+      "en": "Starting of engines by means of electric starters with external current supply(<b>F02N11/12</b> takes precedence)",
+      "count": 489,
+      "sourceFile": "ipc_F02N.txt",
+      "kind": "ipc"
+    },
+    "F02N13/00": {
+      "code": "F02N13/00",
+      "level": 0,
+      "parent": "F02N",
+      "ja": "爆薬，例．薬包に蓄えられたもの，を使用する機関の始動または始動装置の駆動",
+      "en": "Starting of engines, or driving of starting apparatus by use of explosives, e.g. stored in cartridges",
+      "count": 136,
+      "sourceFile": "ipc_F02N.txt",
+      "kind": "ipc"
+    },
+    "F02N13/02": {
+      "code": "F02N13/02",
+      "level": 1,
+      "parent": "F02N13/00",
+      "ja": "そのために特に適用される薬包",
+      "en": "Cartridges specially adapted therefor",
+      "count": 26,
+      "sourceFile": "ipc_F02N.txt",
+      "kind": "ipc"
+    },
+    "F02N15/00": {
+      "code": "F02N15/00",
+      "level": 0,
+      "parent": "F02N",
+      "ja": "他の動力操作始動装置；構成要素部品，細部または付属品であって，グループＦ０２Ｎ５／００～Ｆ０２Ｎ１３／００に分類されないもの，またはそれらのグループにはない点に注目すべきもの",
+      "en": "Other power-operated starting apparatus; Component parts, details, or accessories, not provided for in, or of interest apart from, groups <b>F02N5/00 to F02N13/00</b> ",
+      "count": 4471,
+      "sourceFile": "ipc_F02N.txt",
+      "kind": "ipc"
+    },
+    "F02N15/02": {
+      "code": "F02N15/02",
+      "level": 1,
+      "parent": "F02N15/00",
+      "ja": "始動機関と被始動機関との伝動装置；その掛けはずし",
+      "en": "Gearing between starting-engines and started engines; Engagement or disengagement thereof",
+      "count": 5528,
+      "sourceFile": "ipc_F02N.txt",
+      "kind": "ipc"
+    },
+    "F02N15/04": {
+      "code": "F02N15/04",
+      "level": 2,
+      "parent": "F02N15/02",
+      "ja": "その伝動装置が歯車のかみ合いをはずす手段を含むもの",
+      "en": "the gearing including disengaging toothed gears",
+      "count": 1145,
+      "sourceFile": "ipc_F02N.txt",
+      "kind": "ipc"
+    },
+    "F02N15/06": {
+      "code": "F02N15/06",
+      "level": 3,
+      "parent": "F02N15/04",
+      "ja": "その歯車が軸方向の移動により動かされるもの",
+      "en": "the toothed gears being moved by axial displacement",
+      "count": 4315,
+      "sourceFile": "ipc_F02N.txt",
+      "kind": "ipc"
+    },
+    "F02N15/08": {
+      "code": "F02N15/08",
+      "level": 2,
+      "parent": "F02N15/02",
+      "ja": "その伝動装置が摩擦形式のもの",
+      "en": "the gearing being of friction type",
+      "count": 319,
+      "sourceFile": "ipc_F02N.txt",
+      "kind": "ipc"
+    },
+    "F02N15/10": {
+      "code": "F02N15/10",
+      "level": 1,
+      "parent": "F02N15/00",
+      "ja": "他に分類されない安全装置",
+      "en": "Safety devices not otherwise provided for",
+      "count": 668,
+      "sourceFile": "ipc_F02N.txt",
+      "kind": "ipc"
+    },
+    "F02N19/00": {
+      "code": "F02N19/00",
+      "level": 0,
+      "parent": "F02N",
+      "ja": "燃焼機関のための始動補助で他に分類されないもの［２０１０．０１］",
+      "en": "Starting aids for combustion engines, not otherwise provided for",
+      "count": 2805,
+      "sourceFile": "ipc_F02N.txt",
+      "kind": "ipc"
+    },
+    "F02N19/02": {
+      "code": "F02N19/02",
+      "level": 1,
+      "parent": "F02N19/00",
+      "ja": "熱手段，例．点火された灯心の使用，による機関の始動補助［２０１０．０１］",
+      "en": "Aiding engine start by thermal means, e.g. using lighted wicks",
+      "count": 1502,
+      "sourceFile": "ipc_F02N.txt",
+      "kind": "ipc"
+    },
+    "F02N19/04": {
+      "code": "F02N19/04",
+      "level": 2,
+      "parent": "F02N19/02",
+      "ja": "機関に使用される流体の加熱によるもの［２０１０．０１］",
+      "en": "by heating of fluids used in engines",
+      "count": 2618,
+      "sourceFile": "ipc_F02N.txt",
+      "kind": "ipc"
+    },
+    "F02N19/06": {
+      "code": "F02N19/06",
+      "level": 3,
+      "parent": "F02N19/04",
+      "ja": "炎発生手段による燃焼空気の加熱によるもの，例．炎加熱プラグ［４］［２０１０．０１］",
+      "en": "by heating of combustion-air by flame generating means, e.g. flame glow-plugs",
+      "count": 578,
+      "sourceFile": "ipc_F02N.txt",
+      "kind": "ipc"
+    },
+    "F02N19/08": {
+      "code": "F02N19/08",
+      "level": 4,
+      "parent": "F02N19/06",
+      "ja": "その配置［２０１０．０１］",
+      "en": "Arrangement thereof",
+      "count": 166,
+      "sourceFile": "ipc_F02N.txt",
+      "kind": "ipc"
+    },
+    "F02N19/10": {
+      "code": "F02N19/10",
+      "level": 3,
+      "parent": "F02N19/04",
+      "ja": "機関冷却剤の加熱によるもの［２０１０．０１］",
+      "en": "by heating of engine coolants",
+      "count": 2937,
+      "sourceFile": "ipc_F02N.txt",
+      "kind": "ipc"
+    },
+    "F02N99/00": {
+      "code": "F02N99/00",
+      "level": 0,
+      "parent": "F02N",
+      "ja": "このサブクラスの他のグループに分類されない主題事項［２０１０．０１］",
+      "en": "Subject matter not provided for in the other groups of this subclass",
+      "count": 3333,
+      "sourceFile": "ipc_F02N.txt",
+      "kind": "ipc"
+    }
+  }
+}

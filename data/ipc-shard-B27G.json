@@ -1,0 +1,346 @@
+{
+  "generatedAt": "2026-03-20T02:17:46.144Z",
+  "total": 34,
+  "entries": {
+    "B27G": {
+      "code": "B27G",
+      "level": 0,
+      "parent": "B27",
+      "ja": "木材または類似材料を加工するための付属機械または装置；木材または類似材料を加工するための工具（研削用工具Ｂ２４Ｄ；鋸びき工具Ｂ２７Ｂ３３／００；立て削り盤またはほぞ取り機用工具Ｂ２７Ｆ５／０２；削りくず，経木チップ，木粉または類似物の製造用工具Ｂ２７Ｌ１１／００）；木材加工機械または工具用の安全装置<br><br><b><ul>サブクラス内の索引</ul></b><br>こぶまたはその他不要部分の除去装置または機械　Ｂ２７Ｇ１／００，Ｂ２７Ｇ３／００<br>留め継ぎまたはにかわ付け装置または機械　Ｂ２７Ｇ５／００，Ｂ２７Ｇ１１／００<br>工具　Ｂ２７Ｇ１３／００，Ｂ２７Ｇ１５／００，Ｂ２７Ｇ１７／００<br>安全，ゲージ用または正確な操作のための装置　Ｂ２７Ｇ１９／００，Ｂ２７Ｇ２１／００，Ｂ２７Ｇ２３／００",
+      "en": "ACCESSORY MACHINES OR APPARATUS FOR WORKING WOOD OR SIMILAR MATERIALS; TOOLS FOR WORKING WOOD OR SIMILAR MATERIALS(tools for grinding <b>B24D</b>; sawing tools <b>B27B33/00</b>; tools for slotting or mortising machines <b>B27F5/02</b>; tools for the manufacture of wood shavings, chips, powder or the like <b>B27L11/00</b>);SAFETY DEVICES FOR WOOD WORKING MACHINES OR TOOLS; <br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">DEVICES OR MACHINES FOR REMOVING KNOTS OR OTHER UNUSABLE PARTS </td><td><b><b>1/00</b>, <b>3/00</b></b></td></tr></tr><tr><td width=\"70%\">DEVICES OR MACHINES FOR WORKING MITRE JOINTS OR FOR GLUING </td><td><b><b>5/00</b>, <b>11/00</b></b></td></tr></tr><tr><td width=\"70%\">TOOLS </td><td><b><b>13/00</b>, <b>15/00</b>, <b>17/00</b></b></td></tr></tr><tr><td width=\"70%\">DEVICES FOR SAFETY, GAUGING OR PROPER OPERATION </td><td><b><b>19/00</b>, <b>21/00</b>, <b>23/00</b></b></td></tr></tr></table>",
+      "count": 423,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B27": {
+      "code": "B27",
+      "level": 0,
+      "parent": "B",
+      "ja": "木材または類似の材料の加工または保存；釘打ち機またはステープル打ち機一般",
+      "en": "WORKING OR PRESERVING WOOD OR SIMILAR MATERIAL; NAILING OR STAPLING MACHINES IN GENERAL",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B": {
+      "code": "B",
+      "level": 0,
+      "parent": null,
+      "ja": "処理操作；運輸",
+      "en": "PERFORMING OPERATIONS; TRANSPORTING",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B27G1/00": {
+      "code": "B27G1/00",
+      "level": 0,
+      "parent": "B27G",
+      "ja": "こぶまたはその他の不規則物の除去または孔の埋め込み機械または装置",
+      "en": "Machines or devices for removing knots or other irregularities or for filling-up holes",
+      "count": 1552,
+      "sourceFile": "ipc_B27G.txt",
+      "kind": "ipc"
+    },
+    "B27G3/00": {
+      "code": "B27G3/00",
+      "level": 0,
+      "parent": "B27G",
+      "ja": "木工機械に連結してまたは木工プラントにおいて使用すべく特に設計された樹皮部分，チップ，木屑，またはほこりを除去するための装置",
+      "en": "Arrangements for removing bark-zones, chips, waste, or dust, specially designed for use in connection with wood-working machine or in wood-working plants",
+      "count": 20126,
+      "sourceFile": "ipc_B27G.txt",
+      "kind": "ipc"
+    },
+    "B27G5/00": {
+      "code": "B27G5/00",
+      "level": 0,
+      "parent": "B27G",
+      "ja": "平坦な接合端部を有する留め継ぎを加工する機械または装置［２００６．０１］",
+      "en": "Machines or devices for working mitre joints with even abutting ends",
+      "count": 287,
+      "sourceFile": "ipc_B27G.txt",
+      "kind": "ipc"
+    },
+    "B27G5/02": {
+      "code": "B27G5/02",
+      "level": 1,
+      "parent": "B27G5/00",
+      "ja": "留め継ぎを鋸引きするためのもの；留め継ぎ箱（鋸機械の木材用案内壁Ｂ２７Ｂ２７／００）",
+      "en": "for sawing mitre joints; Mitre boxes(guide fences for timber in sawing machines <b>B27B27/00</b>)",
+      "count": 944,
+      "sourceFile": "ipc_B27G.txt",
+      "kind": "ipc"
+    },
+    "B27G5/04": {
+      "code": "B27G5/04",
+      "level": 1,
+      "parent": "B27G5/00",
+      "ja": "留め継ぎを鉋がけし，切断し，剪断し，またはフライス加工するもの",
+      "en": "for planing, cutting, shearing, or milling mitre joints",
+      "count": 206,
+      "sourceFile": "ipc_B27G.txt",
+      "kind": "ipc"
+    },
+    "B27G11/00": {
+      "code": "B27G11/00",
+      "level": 0,
+      "parent": "B27G",
+      "ja": "接合する木材の表面に接着剤またはにかわを塗付するもの［２］",
+      "en": "Applying adhesives or glue to surfaces of wood to be joined",
+      "count": 4952,
+      "sourceFile": "ipc_B27G.txt",
+      "kind": "ipc"
+    },
+    "B27G11/02": {
+      "code": "B27G11/02",
+      "level": 1,
+      "parent": "B27G11/00",
+      "ja": "にかわの容器；にかわを暖めるかまたは加熱する装置",
+      "en": "Glue vessels; Apparatus for warming or heating glue",
+      "count": 602,
+      "sourceFile": "ipc_B27G.txt",
+      "kind": "ipc"
+    },
+    "B27G13/00": {
+      "code": "B27G13/00",
+      "level": 0,
+      "parent": "B27G",
+      "ja": "切削ブロック；木材または類似材料の加工のために特に適合したその他の回転切削工具（Ｂ２７Ｋ１５／００，Ｂ２７Ｋ１７／００が優先）",
+      "en": "Cutter blocks; Other rotary cutting tools specially adapted for working wood or similar materials(<b>B27G15/00</b>, <b>B27G17/00</b> take precedence)",
+      "count": 1467,
+      "sourceFile": "ipc_B27G.txt",
+      "kind": "ipc"
+    },
+    "B27G13/02": {
+      "code": "B27G13/02",
+      "level": 1,
+      "parent": "B27G13/00",
+      "ja": "長いアーバ状のもの，すなわちシリンダ切削ブロック（Ｂ２７Ｇ１３／１２が優先）",
+      "en": "in the shape of long arbors, i.e. cylinder cutting blocks(<b>B27G13/12</b> takes precedence)",
+      "count": 619,
+      "sourceFile": "ipc_B27G.txt",
+      "kind": "ipc"
+    },
+    "B27G13/04": {
+      "code": "B27G13/04",
+      "level": 2,
+      "parent": "B27G13/02",
+      "ja": "機械的クランプ手段によって切削工具を固定するもの",
+      "en": "Securing the cutters by mechanical clamping means",
+      "count": 878,
+      "sourceFile": "ipc_B27G.txt",
+      "kind": "ipc"
+    },
+    "B27G13/06": {
+      "code": "B27G13/06",
+      "level": 2,
+      "parent": "B27G13/02",
+      "ja": "流体加圧式クランプ手段によって切削工具を固定するもの",
+      "en": "Securing the cutters by fluid-pressure clamping means",
+      "count": 32,
+      "sourceFile": "ipc_B27G.txt",
+      "kind": "ipc"
+    },
+    "B27G13/08": {
+      "code": "B27G13/08",
+      "level": 1,
+      "parent": "B27G13/00",
+      "ja": "円盤状工具のもの；木工フライス削り用工具（Ｂ２７Ｇ１３／１２が優先）",
+      "en": "in the shape of disc-like members; Wood-milling cutters(<b>B27G13/12</b> takes precedence)",
+      "count": 889,
+      "sourceFile": "ipc_B27G.txt",
+      "kind": "ipc"
+    },
+    "B27G13/10": {
+      "code": "B27G13/10",
+      "level": 2,
+      "parent": "B27G13/08",
+      "ja": "切削工具の固定，例．つばでクランプするもの",
+      "en": "Securing the cutters, e.g. by clamping collars",
+      "count": 530,
+      "sourceFile": "ipc_B27G.txt",
+      "kind": "ipc"
+    },
+    "B27G13/12": {
+      "code": "B27G13/12",
+      "level": 1,
+      "parent": "B27G13/00",
+      "ja": "輪郭を切削するためのもの",
+      "en": "for profile cutting",
+      "count": 673,
+      "sourceFile": "ipc_B27G.txt",
+      "kind": "ipc"
+    },
+    "B27G13/14": {
+      "code": "B27G13/14",
+      "level": 2,
+      "parent": "B27G13/12",
+      "ja": "みぞまたはほぞを切削するためのもの",
+      "en": "for cutting grooves or tenons",
+      "count": 663,
+      "sourceFile": "ipc_B27G.txt",
+      "kind": "ipc"
+    },
+    "B27G13/16": {
+      "code": "B27G13/16",
+      "level": 2,
+      "parent": "B27G13/12",
+      "ja": "棒，例．合せくぎ，を円くするためのもの",
+      "en": "for rounding rods, e.g. dowels",
+      "count": 48,
+      "sourceFile": "ipc_B27G.txt",
+      "kind": "ipc"
+    },
+    "B27G15/00": {
+      "code": "B27G15/00",
+      "level": 0,
+      "parent": "B27G",
+      "ja": "くりぬきまたは回転工具；らせんぎり",
+      "en": "Boring or turning tools; Augers",
+      "count": 1737,
+      "sourceFile": "ipc_B27G.txt",
+      "kind": "ipc"
+    },
+    "B27G15/02": {
+      "code": "B27G15/02",
+      "level": 1,
+      "parent": "B27G15/00",
+      "ja": "下からのくりぬき穴用ドリル",
+      "en": "Drills for undercutting holes",
+      "count": 105,
+      "sourceFile": "ipc_B27G.txt",
+      "kind": "ipc"
+    },
+    "B27G17/00": {
+      "code": "B27G17/00",
+      "level": 0,
+      "parent": "B27G",
+      "ja": "手動工具",
+      "en": "Manually-operated tools",
+      "count": 464,
+      "sourceFile": "ipc_B27G.txt",
+      "kind": "ipc"
+    },
+    "B27G17/02": {
+      "code": "B27G17/02",
+      "level": 1,
+      "parent": "B27G17/00",
+      "ja": "手がんな",
+      "en": "Hand planes",
+      "count": 1237,
+      "sourceFile": "ipc_B27G.txt",
+      "kind": "ipc"
+    },
+    "B27G17/04": {
+      "code": "B27G17/04",
+      "level": 1,
+      "parent": "B27G17/00",
+      "ja": "スポーク削り；スクレーパ",
+      "en": "Spokeshaves; Scrapers",
+      "count": 265,
+      "sourceFile": "ipc_B27G.txt",
+      "kind": "ipc"
+    },
+    "B27G17/06": {
+      "code": "B27G17/06",
+      "level": 1,
+      "parent": "B27G17/00",
+      "ja": "石目やすり",
+      "en": "Rasps",
+      "count": 82,
+      "sourceFile": "ipc_B27G.txt",
+      "kind": "ipc"
+    },
+    "B27G17/08": {
+      "code": "B27G17/08",
+      "level": 1,
+      "parent": "B27G17/00",
+      "ja": "ほぞ取り用のみ",
+      "en": "Mortise chisels",
+      "count": 266,
+      "sourceFile": "ipc_B27G.txt",
+      "kind": "ipc"
+    },
+    "B27G19/00": {
+      "code": "B27G19/00",
+      "level": 0,
+      "parent": "B27G",
+      "ja": "木材鋸に特に適合した安全保護具または装置；木材鋸の正確な操作を促進させる補助装置",
+      "en": "Safety guards or devices specially adapted for wood saws; Auxiliary devices facilitating proper operation of wood saws",
+      "count": 1429,
+      "sourceFile": "ipc_B27G.txt",
+      "kind": "ipc"
+    },
+    "B27G19/02": {
+      "code": "B27G19/02",
+      "level": 1,
+      "parent": "B27G19/00",
+      "ja": "丸鋸用のもの",
+      "en": "for circular saws",
+      "count": 3305,
+      "sourceFile": "ipc_B27G.txt",
+      "kind": "ipc"
+    },
+    "B27G19/04": {
+      "code": "B27G19/04",
+      "level": 2,
+      "parent": "B27G19/02",
+      "ja": "手持式動力丸鋸用のもの",
+      "en": "for manually-operated power-driven circular saws",
+      "count": 865,
+      "sourceFile": "ipc_B27G.txt",
+      "kind": "ipc"
+    },
+    "B27G19/06": {
+      "code": "B27G19/06",
+      "level": 1,
+      "parent": "B27G19/00",
+      "ja": "帯状またはひも状の鋸用のもの",
+      "en": "for band or strap saws",
+      "count": 612,
+      "sourceFile": "ipc_B27G.txt",
+      "kind": "ipc"
+    },
+    "B27G19/08": {
+      "code": "B27G19/08",
+      "level": 1,
+      "parent": "B27G19/00",
+      "ja": "鋸による切り目の開度を維持するための補助具，例．割りナイフ，またはくさび板",
+      "en": "Accessories for keeping open the saw kerf, e.g. riving knives or wedge plates",
+      "count": 347,
+      "sourceFile": "ipc_B27G.txt",
+      "kind": "ipc"
+    },
+    "B27G19/10": {
+      "code": "B27G19/10",
+      "level": 1,
+      "parent": "B27G19/00",
+      "ja": "鋸引きされた木材部分の割れを防止するための手段",
+      "en": "Measures preventing splintering of sawn portions of wood",
+      "count": 330,
+      "sourceFile": "ipc_B27G.txt",
+      "kind": "ipc"
+    },
+    "B27G21/00": {
+      "code": "B27G21/00",
+      "level": 0,
+      "parent": "B27G",
+      "ja": "その他の木工機械専用の安全保護具または装置",
+      "en": "Safety guards or devices specially designed for other wood-working machines",
+      "count": 2271,
+      "sourceFile": "ipc_B27G.txt",
+      "kind": "ipc"
+    },
+    "B27G23/00": {
+      "code": "B27G23/00",
+      "level": 0,
+      "parent": "B27G",
+      "ja": "工具または案内具の調整用に特に設計されたゲージ手段，例．切削ブロックの切削刃の調整（手鋸取付け用Ｂ２７Ｂ２１／０８；鋸機械の案内用Ｂ２７Ｂ２７／００）",
+      "en": "Gauging means specially designed for adjusting of tools or guides, e.g. adjusting cutting blades in cutter blocks(for arrangement on manually operated saws <b>B27B21/08</b>; for guides of sawing machines <b>B27B27/00</b>)",
+      "count": 1035,
+      "sourceFile": "ipc_B27G.txt",
+      "kind": "ipc"
+    }
+  }
+}

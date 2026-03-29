@@ -1,0 +1,96 @@
+window.IPC_SHARD_B09C = {
+  "generatedAt": "2026-03-20T02:17:46.080Z",
+  "total": 9,
+  "entries": {
+    "B09C": {
+      "code": "B09C",
+      "level": 0,
+      "parent": "B09",
+      "ja": "汚染土壌の再生（土壌から石などを取り除いて集める機械Ａ０１Ｂ４３／００；蒸気土壌殺菌Ａ０１Ｇ１１／００；分離一般Ｂ０１Ｄ；廃物などの好ましくないものの地面からの除去Ｅ０１Ｈ１５／００）［２００６．０１］<br><br><b><ul>注</ul></b><br>このサブクラスにおいては，下記の用語は以下に示す意味で用いる。［６］<br>―「再生」とは，土壌中の汚染物質の部分的あるいは全面的除去，もしくは固定を意味する。［６］",
+      "en": "RECLAMATION OF CONTAMINATED SOIL(gatherers for removing stones or the like from the soil <b>A01B43/00</b>;   sterilising soil by steam <b>A01G11/00</b>;     removing undesirable matter, e.g. rubbish, from the land <b>E01H15/00</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>In this subclass, the following term is used with the meaning indicated:  <ul><li>\"reclamation\" means the partial or total elimination or the fixing of contaminants in soil.  </li></ul></li></ul>",
+      "count": 80,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B09": {
+      "code": "B09",
+      "level": 0,
+      "parent": "B",
+      "ja": "固体廃棄物の処理；汚染土壌の再生［３，６］",
+      "en": "DISPOSAL OF SOLID WASTE; RECLAMATION OF CONTAMINATED SOIL",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B": {
+      "code": "B",
+      "level": 0,
+      "parent": null,
+      "ja": "処理操作；運輸",
+      "en": "PERFORMING OPERATIONS; TRANSPORTING",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B09C1/00": {
+      "code": "B09C1/00",
+      "level": 0,
+      "parent": "B09C",
+      "ja": "汚染土壌の再生［２００６．０１］",
+      "en": "Reclamation of contaminated soil",
+      "count": 13739,
+      "sourceFile": "ipc_B09C.txt",
+      "kind": "ipc"
+    },
+    "B09C1/02": {
+      "code": "B09C1/02",
+      "level": 1,
+      "parent": "B09C1/00",
+      "ja": "液体を使った抽出，例．洗浄，溶脱［６］",
+      "en": "Extraction using liquids, e.g. washing, leaching",
+      "count": 7106,
+      "sourceFile": "ipc_B09C.txt",
+      "kind": "ipc"
+    },
+    "B09C1/04": {
+      "code": "B09C1/04",
+      "level": 1,
+      "parent": "B09C1/00",
+      "ja": "浮遊選別［６］",
+      "en": "Flotation",
+      "count": 654,
+      "sourceFile": "ipc_B09C.txt",
+      "kind": "ipc"
+    },
+    "B09C1/06": {
+      "code": "B09C1/06",
+      "level": 1,
+      "parent": "B09C1/00",
+      "ja": "熱によるもの［２００６．０１］",
+      "en": "thermally ",
+      "count": 5289,
+      "sourceFile": "ipc_B09C.txt",
+      "kind": "ipc"
+    },
+    "B09C1/08": {
+      "code": "B09C1/08",
+      "level": 1,
+      "parent": "B09C1/00",
+      "ja": "化学的手段を用いるもの［６］",
+      "en": "chemically",
+      "count": 19831,
+      "sourceFile": "ipc_B09C.txt",
+      "kind": "ipc"
+    },
+    "B09C1/10": {
+      "code": "B09C1/10",
+      "level": 1,
+      "parent": "B09C1/00",
+      "ja": "微生物学的な手段あるいは酵素を利用するもの［６］",
+      "en": "microbiologically or by using enzymes",
+      "count": 11743,
+      "sourceFile": "ipc_B09C.txt",
+      "kind": "ipc"
+    }
+  }
+};

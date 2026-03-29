@@ -1,0 +1,58 @@
+{
+  "generatedAt": "2026-03-20T02:17:50.180Z",
+  "total": 4,
+  "entries": {
+    "B81C": {
+      "code": "B81C",
+      "level": 0,
+      "parent": null,
+      "ja": "",
+      "en": "",
+      "count": 0,
+      "ipcCode": "",
+      "fTerm": "PROCESSES OR APPARATUS SPECIALLY ADAPTED FOR THE MANUFACTURE OR TREATMENT OF MICROSTRUCTURAL DEVICES OR SYSTEMS (making microcapsules or microballoons <b>B01J 13/02</b>; processes or apparatus specially adapted for the manufacture or treatment of piezoelectric, electrostrictive or magnetostrictive elements <u>per se</u> <b>H10N 30/01</b>)<b>[7]</b><br><br><b><u>Note(s)</u></b><br><br><ul style=\"\"list-style:none\"\"><li>This subclass <u>does not cover</u>:<b>[7]</b><ul type=\"\"disc\"\"><li>processes or apparatus for the manufacture or treatment of purely electrical or electronic devices, which are covered by section <b>H</b>, e.g. subclass <b>H10P</b>;</li><li>processes or apparatus involving the manipulation of single atoms or molecules, which are covered by group <b>B82B 3/00</b>.</li></ul></li></ul>",
+      "childFlag": 0,
+      "sourceFile": "fi_B.txt",
+      "kind": "fi"
+    },
+    "B81C1/00\\": {
+      "code": "B81C1/00\\",
+      "level": 0,
+      "parent": null,
+      "ja": "基層中または基層上での装置またはシステムの製造または処理（Ｂ８１Ｃ３／００が優先）［７］",
+      "en": "Manufacture or treatment of devices or systems in or on a substrate (B81C 3/00 takes precedence) [7]",
+      "count": 4379,
+      "ipcCode": "B81C1/00",
+      "fTerm": "3C081",
+      "childFlag": 0,
+      "sourceFile": "fi_B81C.txt",
+      "kind": "fi"
+    },
+    "B81C3/00\\": {
+      "code": "B81C3/00\\",
+      "level": 0,
+      "parent": null,
+      "ja": "個別に処理された構成部品からの，装置またはシステムの組立［７］",
+      "en": "Assembling of devices or systems from individually processed components [7]",
+      "count": 1673,
+      "ipcCode": "B81C3/00",
+      "fTerm": "3C081",
+      "childFlag": 0,
+      "sourceFile": "fi_B81C.txt",
+      "kind": "fi"
+    },
+    "B81C99/00\\": {
+      "code": "B81C99/00\\",
+      "level": 0,
+      "parent": null,
+      "ja": "このサブクラスの他のグループに分類されない主題事項［２０１０．０１］",
+      "en": "Subject matter not provided for in other groups of this subclass [2010.01]",
+      "count": 1529,
+      "ipcCode": "B81C99/00",
+      "fTerm": "3C081",
+      "childFlag": 0,
+      "sourceFile": "fi_B81C.txt",
+      "kind": "fi"
+    }
+  }
+}

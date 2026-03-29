@@ -1,0 +1,2296 @@
+window.IPC_SHARD_A61L = {
+  "generatedAt": "2026-03-20T02:17:45.954Z",
+  "total": 229,
+  "entries": {
+    "A61L": {
+      "code": "A61L",
+      "level": 0,
+      "parent": "A61",
+      "ja": "材料またはものを殺菌するための方法または装置一般；空気の消毒，殺菌または脱臭；包帯，被覆用品，吸収性パッドまたは手術用物品の化学的事項；包帯，被覆用品，吸収性パッドまたは手術用物品のための材料（死体の保存，使用する薬剤によって特徴づけられた消毒Ａ０１Ｎ；食品または食料品の保存，例．殺菌，Ａ２３；医療用製剤，歯科用製剤又は化粧用製剤Ａ６１Ｋ）<br><br><b><ul>サブクラス内の索引</ul></b><br>材料の消毒または殺菌<br>一般的な方法または器具　２／００<br>空気の消毒または殺菌　９／００<br>廃棄物の消毒または殺菌　１１／００<br>コンタクトレンズの消毒または殺菌　１２／００<br>材料<br>包帯，被覆用品または吸収性パッドのためのもの　１５／００<br>縫合のためのものまたは血管を結紮するためのもの　１７／００<br>液体包帯のためのもの　２６／００<br>補綴または人工皮膚のためのもの　２７／００<br>人工肛門用具のためのもの　２８／００<br>カテーテルのためのもの　２９／００<br>他の手術用物品のためのもの　３１／００<br>外科用接着剤，セメント，液体包帯　２４／００<br>手術用物品の抗血栓処理　３３／００",
+      "en": "METHODS OR APPARATUS FOR STERILISING MATERIALS OR OBJECTS IN GENERAL; DISINFECTION, STERILISATION OR DEODORISATION OF AIR; CHEMICAL ASPECTS OF BANDAGES, DRESSINGS, ABSORBENT PADS OR SURGICAL ARTICLES; MATERIALS FOR BANDAGES, DRESSINGS, ABSORBENT PADS OR SURGICAL ARTICLES(preservation of bodies or disinfecting characterised by the agents employed <b>A01N</b>; preserving, e.g. sterilising, food or foodstuffs <b>A23</b>; preparations for medical, dental or toiletry purposes <b>A61K</b>);<br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">DISINFECTION OR STERILISATION OF MATERIALS<tr><td width=\"70%\">General methods or apparatus </td><td><b><b>2/00</b></b></td></tr></tr><tr><td width=\"70%\">of air </td><td><b><b>9/00</b></b></td></tr></tr><tr><td width=\"70%\">of refuse </td><td><b><b>11/00</b></b></td></tr></tr><tr><td width=\"70%\">of contact lenses </td><td><b><b>12/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">MATERIALS FOR<tr><td width=\"70%\">Bandages, dressings or absorbent pads </td><td><b><b>15/00</b></b></td></tr></tr><tr><td width=\"70%\">sutures or for ligaturing blood vessels </td><td><b><b>17/00</b></b></td></tr></tr><tr><td width=\"70%\">liquid bandages </td><td><b><b>26/00</b></b></td></tr></tr><tr><td width=\"70%\">prostheses or for coating prostheses </td><td><b><b>27/00</b></b></td></tr></tr><tr><td width=\"70%\">colostomy devices </td><td><b><b>28/00</b></b></td></tr></tr><tr><td width=\"70%\">catheters or for coating catheters </td><td><b><b>29/00</b></b></td></tr></tr><tr><td width=\"70%\">other surgical articles </td><td><b><b>31/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">SURGICAL ADHESIVES OR CEMENTS; ADHESIVES FOR COLOSTOMY DEVICES </td><td><b><b>24/00</b></b></td></tr></tr><tr><td width=\"70%\">ANTITHROMBOGENIC TREATMENT OF SURGICAL ARTICLES </td><td><b><b>33/00</b></b></td></tr></tr></table>",
+      "count": 3892,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A61": {
+      "code": "A61",
+      "level": 0,
+      "parent": "A",
+      "ja": "医学または獣医学；衛生学",
+      "en": "MEDICAL OR VETERINARY SCIENCE; HYGIENE",
+      "count": 0,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A": {
+      "code": "A",
+      "level": 0,
+      "parent": null,
+      "ja": "生活必需品",
+      "en": "HUMAN NECESSITIES",
+      "count": 0,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A61L2/00": {
+      "code": "A61L2/00",
+      "level": 0,
+      "parent": "A61L",
+      "ja": "材料または物の消毒または殺菌一般；その付属品<br><br><b><ul>注</ul></b><br>注［２０２６．０１］<br>このグループにおいては，グループＡ６１Ｌ１０３／００のインデキシングコードを付与することが望ましい",
+      "en": "Disinfection or sterilisation of materials or objects, in general; Accessories therefor; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this group, it is desirable to add the indexing codes of group <b>A61L103/00</b>.</li></ul>",
+      "count": 11772,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L2/02": {
+      "code": "A61L2/02",
+      "level": 1,
+      "parent": "A61L2/00",
+      "ja": "物理過程を利用するもの［２０２６．０１］",
+      "en": "using physical processes",
+      "count": 3870,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L2/022": {
+      "code": "A61L2/022",
+      "level": 2,
+      "parent": "A61L2/02",
+      "ja": "ろ過［２０２６．０１］",
+      "en": "Filtration",
+      "count": 0,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L2/025": {
+      "code": "A61L2/025",
+      "level": 2,
+      "parent": "A61L2/02",
+      "ja": "超音波［２００６．０１］",
+      "en": "Ultrasonic waves",
+      "count": 1318,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L2/03": {
+      "code": "A61L2/03",
+      "level": 2,
+      "parent": "A61L2/02",
+      "ja": "電流［２０２６．０１］",
+      "en": "Electric current",
+      "count": 1472,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L2/035": {
+      "code": "A61L2/035",
+      "level": 3,
+      "parent": "A61L2/03",
+      "ja": "電気分解［２０２６．０１］",
+      "en": "Electrolysis",
+      "count": 0,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L2/04": {
+      "code": "A61L2/04",
+      "level": 2,
+      "parent": "A61L2/02",
+      "ja": "熱（照射　Ａ６１Ｌ２／０８）［２００６．０１］",
+      "en": "Heat(radiation <b>A61L2/08</b>)",
+      "count": 15048,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L2/06": {
+      "code": "A61L2/06",
+      "level": 3,
+      "parent": "A61L2/04",
+      "ja": "熱ガス［２００６．０１］",
+      "en": "Hot gas",
+      "count": 7149,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L2/07": {
+      "code": "A61L2/07",
+      "level": 4,
+      "parent": "A61L2/06",
+      "ja": "水蒸気［２００６．０１］",
+      "en": "Steam",
+      "count": 15636,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L2/08": {
+      "code": "A61L2/08",
+      "level": 2,
+      "parent": "A61L2/02",
+      "ja": "照射［２０２６．０１］",
+      "en": "Radiation",
+      "count": 15338,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L2/081": {
+      "code": "A61L2/081",
+      "level": 3,
+      "parent": "A61L2/08",
+      "ja": "γ線［２０２６．０１］",
+      "en": "Gamma radiation",
+      "count": 0,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L2/082": {
+      "code": "A61L2/082",
+      "level": 3,
+      "parent": "A61L2/08",
+      "ja": "Ｘ線［２０２６．０１］",
+      "en": "X-rays",
+      "count": 0,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L2/084": {
+      "code": "A61L2/084",
+      "level": 3,
+      "parent": "A61L2/08",
+      "ja": "可視光線［２０２６．０１］",
+      "en": "Visible light",
+      "count": 0,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L2/085": {
+      "code": "A61L2/085",
+      "level": 3,
+      "parent": "A61L2/08",
+      "ja": "赤外線［２０２６．０１］",
+      "en": "Infrared radiation",
+      "count": 0,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L2/087": {
+      "code": "A61L2/087",
+      "level": 3,
+      "parent": "A61L2/08",
+      "ja": "粒子線，例．電子線，αまたはβ線［２０２６．０１］",
+      "en": "Particle radiation, e.g. electron-beam, alpha or beta radiation",
+      "count": 0,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L2/088": {
+      "code": "A61L2/088",
+      "level": 3,
+      "parent": "A61L2/08",
+      "ja": "光触媒または光増感剤を使用するもの［２０２６．０１］",
+      "en": "using photocatalysts or photosensitisers",
+      "count": 0,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L2/10": {
+      "code": "A61L2/10",
+      "level": 3,
+      "parent": "A61L2/08",
+      "ja": "紫外線［ＵＶ］照射［２０２６．０１］",
+      "en": "Ultraviolet [UV] radiation",
+      "count": 87046,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L2/101": {
+      "code": "A61L2/101",
+      "level": 4,
+      "parent": "A61L2/10",
+      "ja": "紫外線Ａ［ＵＶＡ］［２０２６．０１］",
+      "en": "Ultraviolet A [UVA]",
+      "count": 0,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L2/102": {
+      "code": "A61L2/102",
+      "level": 4,
+      "parent": "A61L2/10",
+      "ja": "紫外線Ｂ［ＵＶＢ］［２０２６．０１］",
+      "en": "Ultraviolet B [UVB]",
+      "count": 0,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L2/104": {
+      "code": "A61L2/104",
+      "level": 4,
+      "parent": "A61L2/10",
+      "ja": "紫外線Ｃ［ＵＶＣ］［２０２６．０１］",
+      "en": "Ultraviolet C [UVC]",
+      "count": 0,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L2/108": {
+      "code": "A61L2/108",
+      "level": 4,
+      "parent": "A61L2/10",
+      "ja": "複数の紫外線範囲の組み合わせ［２０２６．０１］",
+      "en": "Multiple UV ranges in combination ",
+      "count": 0,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L2/12": {
+      "code": "A61L2/12",
+      "level": 3,
+      "parent": "A61L2/08",
+      "ja": "マイクロ波［２００６．０１］",
+      "en": "Microwaves",
+      "count": 2033,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L2/14": {
+      "code": "A61L2/14",
+      "level": 2,
+      "parent": "A61L2/02",
+      "ja": "プラズマ，すなわち，イオン化したガス［２００６．０１］",
+      "en": "Plasma, i.e. ionised gases",
+      "count": 5496,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L2/16": {
+      "code": "A61L2/16",
+      "level": 1,
+      "parent": "A61L2/00",
+      "ja": "化学物質を使用するもの［３］",
+      "en": "using chemical substances",
+      "count": 7065,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L2/18": {
+      "code": "A61L2/18",
+      "level": 2,
+      "parent": "A61L2/16",
+      "ja": "液状物質［２０２６．０１］",
+      "en": "Liquid substances",
+      "count": 57956,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L2/183": {
+      "code": "A61L2/183",
+      "level": 3,
+      "parent": "A61L2/18",
+      "ja": "オゾン溶存液［２０２６．０１］",
+      "en": "Ozone dissolved in a liquid",
+      "count": 0,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L2/186": {
+      "code": "A61L2/186",
+      "level": 3,
+      "parent": "A61L2/18",
+      "ja": "過酸化物溶液［２０２６．０１］",
+      "en": "Peroxide solutions",
+      "count": 0,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L2/20": {
+      "code": "A61L2/20",
+      "level": 2,
+      "parent": "A61L2/16",
+      "ja": "ガス状物質，例．蒸気［２０２６．０１］",
+      "en": "Gaseous substances, e.g. vapours",
+      "count": 22174,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L2/202": {
+      "code": "A61L2/202",
+      "level": 3,
+      "parent": "A61L2/20",
+      "ja": "オゾン［２０２６．０１］",
+      "en": "Ozone",
+      "count": 0,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L2/204": {
+      "code": "A61L2/204",
+      "level": 3,
+      "parent": "A61L2/20",
+      "ja": "ホルムアルデヒド［２０２６．０１］",
+      "en": "Formaldehyde",
+      "count": 0,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L2/206": {
+      "code": "A61L2/206",
+      "level": 3,
+      "parent": "A61L2/20",
+      "ja": "エチレンオキシド［２０２６．０１］",
+      "en": "Ethylene oxide",
+      "count": 0,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L2/208": {
+      "code": "A61L2/208",
+      "level": 3,
+      "parent": "A61L2/20",
+      "ja": "過酸化水素［２０２６．０１］",
+      "en": "Hydrogen peroxide",
+      "count": 0,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L2/22": {
+      "code": "A61L2/22",
+      "level": 2,
+      "parent": "A61L2/16",
+      "ja": "相物質，例．煙またはエアゾール［２００６．０１］",
+      "en": "Phase substances, e.g. smokes or aerosols",
+      "count": 17782,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L2/23": {
+      "code": "A61L2/23",
+      "level": 2,
+      "parent": "A61L2/16",
+      "ja": "固体物質，例．顆粒，粉末，塊またはタブレット［２００６．０１］",
+      "en": "Solid materials, e.g. granules, powders, blocks or tablets",
+      "count": 1472,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L2/232": {
+      "code": "A61L2/232",
+      "level": 3,
+      "parent": "A61L2/23",
+      "ja": "積層された，または被覆された［２００６．０１］",
+      "en": "layered or coated",
+      "count": 1236,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L2/235": {
+      "code": "A61L2/235",
+      "level": 3,
+      "parent": "A61L2/23",
+      "ja": "多泡性，多孔性，または発泡性化された［２００６．０１］",
+      "en": "cellular, porous or foamed",
+      "count": 235,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L2/238": {
+      "code": "A61L2/238",
+      "level": 3,
+      "parent": "A61L2/23",
+      "ja": "金属または合金の，例．オリゴダイナミック金属［７］",
+      "en": "Metals or alloys, e.g. oligodynamic metals",
+      "count": 1102,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L2/24": {
+      "code": "A61L2/24",
+      "level": 1,
+      "parent": "A61L2/00",
+      "ja": "プログラム化または自動化された操作を利用する装置［３］",
+      "en": "Apparatus using programmed or automatic operation",
+      "count": 25728,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L2/26": {
+      "code": "A61L2/26",
+      "level": 1,
+      "parent": "A61L2/00",
+      "ja": "付属具［３］",
+      "en": "Accessories",
+      "count": 69847,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L2/28": {
+      "code": "A61L2/28",
+      "level": 2,
+      "parent": "A61L2/26",
+      "ja": "殺菌または消毒の効果または完全性をテストするための装置，例．色が変化するインジケーター［２００６．０１］",
+      "en": "Devices for testing the effectiveness or completeness of sterilisation or disinfection, e.g. indicators which change colour",
+      "count": 2470,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L9/00": {
+      "code": "A61L9/00",
+      "level": 0,
+      "parent": "A61L",
+      "ja": "空気の消毒，殺菌または脱臭（マスクによる空気の浄化Ａ６２Ｂ，Ａ６２Ｄ９／００；排ガスの化学的または生物学的浄化Ｂ０１Ｄ５３／３４；殺菌機構を組み込んだ空気調和システムＦ２４Ｆ３／１６，Ｆ２４Ｆ８／２０）［２００６．０１］",
+      "en": "Disinfection, sterilisation or deodorisation of air(purifying air by respirators <b>A62B</b>, <b>A62D9/00</b>; chemical or biological purification of waste gases <b>B01D53/34</b>; air-conditioning systems incorporating sterilisation <b>F24F3/16</b>, <b>F24F8/20</b>)",
+      "count": 14974,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L9/01": {
+      "code": "A61L9/01",
+      "level": 1,
+      "parent": "A61L9/00",
+      "ja": "防臭組成物［２００６．０１］",
+      "en": "Deodorant compositions",
+      "count": 17302,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L9/012": {
+      "code": "A61L9/012",
+      "level": 2,
+      "parent": "A61L9/01",
+      "ja": "特殊な形態であることに特徴があるもの，例．ゲル，エマルジョン［２００６．０１］",
+      "en": "characterised by being in a special form, e.g. gels, emulsions",
+      "count": 1957,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L9/013": {
+      "code": "A61L9/013",
+      "level": 2,
+      "parent": "A61L9/01",
+      "ja": "動物または植物の抽出物，あるいは植物成分を含有するもの［２００６．０１］",
+      "en": "containing animal or plant extracts, or vegetable material",
+      "count": 5104,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L9/014": {
+      "code": "A61L9/014",
+      "level": 2,
+      "parent": "A61L9/01",
+      "ja": "吸着物質，例．活性炭素，を含有するもの［２００６．０１］",
+      "en": "containing sorbent material, e.g. activated carbon",
+      "count": 4763,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L9/015": {
+      "code": "A61L9/015",
+      "level": 1,
+      "parent": "A61L9/00",
+      "ja": "ガス状または蒸気状物質，例．オゾン，を使用するもの（Ａ６１Ｌ９／２０が優先）［２００６．０１］",
+      "en": "using gaseous or vaporous substances, e.g. ozone(<b>A61L9/20</b> takes precedence)",
+      "count": 7976,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L9/02": {
+      "code": "A61L9/02",
+      "level": 2,
+      "parent": "A61L9/015",
+      "ja": "加熱または燃焼によって空気中に発散された物質を使用するもの［２００６．０１］",
+      "en": "using substances evaporated in the air by heating or combustion",
+      "count": 1524,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L9/03": {
+      "code": "A61L9/03",
+      "level": 3,
+      "parent": "A61L9/02",
+      "ja": "そのための装置［２００６．０１］",
+      "en": "Apparatus therefor",
+      "count": 7459,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L9/04": {
+      "code": "A61L9/04",
+      "level": 2,
+      "parent": "A61L9/015",
+      "ja": "加熱することなく空気中に発散された物質を使用するもの［２００６．０１］",
+      "en": "using substances evaporated in the air without heating",
+      "count": 5614,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L9/05": {
+      "code": "A61L9/05",
+      "level": 3,
+      "parent": "A61L9/04",
+      "ja": "液体と接触することで解放されるもの，例．トイレ用のもの［２００６．０１］",
+      "en": "specially adapted to be released by contact with a liquid, e.g. for toilets",
+      "count": 551,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L9/12": {
+      "code": "A61L9/12",
+      "level": 3,
+      "parent": "A61L9/04",
+      "ja": "そのための装置，例．保持具［２００６．０１］",
+      "en": "Apparatus, e.g. holders, therefor",
+      "count": 17822,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L9/14": {
+      "code": "A61L9/14",
+      "level": 1,
+      "parent": "A61L9/00",
+      "ja": "噴霧または微粒子化された物質を使用するもの［２００６．０１］",
+      "en": "using sprayed or atomised substances",
+      "count": 15845,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L9/16": {
+      "code": "A61L9/16",
+      "level": 1,
+      "parent": "A61L9/00",
+      "ja": "物理現象を利用するもの［２００６．０１］",
+      "en": "using physical phenomena",
+      "count": 11283,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L9/18": {
+      "code": "A61L9/18",
+      "level": 2,
+      "parent": "A61L9/16",
+      "ja": "照射（Ａ６１Ｌ９／２２が優先）［２００６．０１］",
+      "en": "Radiation(<b>A61L9/22</b> takes precedence)",
+      "count": 4120,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L9/20": {
+      "code": "A61L9/20",
+      "level": 3,
+      "parent": "A61L9/18",
+      "ja": "紫外線照射［２００６．０１］",
+      "en": "Ultraviolet radiation",
+      "count": 25102,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L9/22": {
+      "code": "A61L9/22",
+      "level": 2,
+      "parent": "A61L9/16",
+      "ja": "イオン化［２００６．０１］",
+      "en": "Ionisation",
+      "count": 13763,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L11/00": {
+      "code": "A61L11/00",
+      "level": 0,
+      "parent": "A61L",
+      "ja": "廃物に特に適合する消毒または殺菌方法",
+      "en": "Disinfection or sterilising methods specially adapted for refuse",
+      "count": 7129,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L12/00": {
+      "code": "A61L12/00",
+      "level": 0,
+      "parent": "A61L",
+      "ja": "コンタクトレンズを消毒または殺菌するための方法や装置；そのための付属品［７］",
+      "en": "Methods or apparatus for disinfecting or sterilising contact lenses; Accessories therefor",
+      "count": 204,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L12/02": {
+      "code": "A61L12/02",
+      "level": 1,
+      "parent": "A61L12/00",
+      "ja": "物理現象を利用するもの，例．電気，超音波または限外濾過［２００６．０１］",
+      "en": "using physical phenomena, e.g. electricity, ultrasound or ultrafiltration",
+      "count": 174,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L12/04": {
+      "code": "A61L12/04",
+      "level": 2,
+      "parent": "A61L12/02",
+      "ja": "熱（Ａ６１Ｌ１２／０６が優先）［７］",
+      "en": "Heat(<b>A61L12/06</b> takes precedence)",
+      "count": 140,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L12/06": {
+      "code": "A61L12/06",
+      "level": 2,
+      "parent": "A61L12/02",
+      "ja": "照射，例．紫外線またはマイクロ波［７］",
+      "en": "Radiation, e.g. ultraviolet or microwaves",
+      "count": 200,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L12/08": {
+      "code": "A61L12/08",
+      "level": 1,
+      "parent": "A61L12/00",
+      "ja": "化学物質を利用するもの［７］",
+      "en": "using chemical substances",
+      "count": 633,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L12/10": {
+      "code": "A61L12/10",
+      "level": 2,
+      "parent": "A61L12/08",
+      "ja": "ハロゲンまたはその化合物［７］",
+      "en": "Halogens or compounds thereof",
+      "count": 175,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L12/12": {
+      "code": "A61L12/12",
+      "level": 2,
+      "parent": "A61L12/08",
+      "ja": "非高分子酸素含有化合物，例．過酸化水素またはオゾン（Ａ６１Ｌ１２／１０が優先）［７］",
+      "en": "Non-macromolecular oxygen-containing compounds, e.g hydrogen peroxide or ozone(<b>A61L12/10</b> takes precedence)",
+      "count": 405,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L12/14": {
+      "code": "A61L12/14",
+      "level": 2,
+      "parent": "A61L12/08",
+      "ja": "Ａ６１Ｌ１２／１０またはＡ６１Ｌ１２／１２に分類されない有機化合物［７］",
+      "en": "Organic compounds not covered by groups <b>A61L12/10</b> or <b>A61L12/12</b>",
+      "count": 579,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L15/00": {
+      "code": "A61L15/00",
+      "level": 0,
+      "parent": "A61L",
+      "ja": "包帯，被覆用品，または吸収性パッドの化学的事項または材料の使用（液体包帯Ａ６１Ｌ２６／００；放射性被覆用品Ａ６１Ｍ３６／１４）",
+      "en": "Chemical aspects of, or use of materials for, bandages, dressings or absorbent pads(for liquid bandages <b>A61L26/00</b>; radioactive dressings <b>A61M36/14</b>)",
+      "count": 3529,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L15/07": {
+      "code": "A61L15/07",
+      "level": 1,
+      "parent": "A61L15/00",
+      "ja": "硬直包帯<br><br><b><ul>注</ul></b><br>（１）グループＡ６１Ｌ１５／０８～Ａ６１Ｌ１５／１２に分類するとき，ラストプレイス優先ルールが適用される，すなわち各階層レベルにおいて相反する指示がない限り，最後の適切な箇所に分類する。［５］<br>（２）グループＡ６１Ｌ１５／０８～Ａ６１Ｌ１５／１２に分類するとき，それらの機能または物理的特性に特徴のある材料の使用が重要であれば，グループＡ６１Ｌ１５／１４にも分類する。［５］",
+      "en": "Stiffening bandages",
+      "count": 568,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L15/08": {
+      "code": "A61L15/08",
+      "level": 2,
+      "parent": "A61L15/07",
+      "ja": "無機物質を含有するもの，例．ギブス包帯［５］",
+      "en": "containing inorganic materials, e.g. plaster of Paris",
+      "count": 347,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L15/10": {
+      "code": "A61L15/10",
+      "level": 2,
+      "parent": "A61L15/07",
+      "ja": "有機物質を含有するもの［５］",
+      "en": "containing organic materials",
+      "count": 172,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L15/12": {
+      "code": "A61L15/12",
+      "level": 2,
+      "parent": "A61L15/07",
+      "ja": "高分子物質を含有するもの［５］",
+      "en": "containing macromolecular materials",
+      "count": 716,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L15/14": {
+      "code": "A61L15/14",
+      "level": 2,
+      "parent": "A61L15/07",
+      "ja": "それらの機能または物理的性質に特徴のある材料の使用［５］",
+      "en": "Use of materials characterised by their function or physical properties",
+      "count": 356,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L15/16": {
+      "code": "A61L15/16",
+      "level": 1,
+      "parent": "A61L15/00",
+      "ja": "尿または血液のような生理学上の体液のための包帯，被覆用品または吸収性パッド，例．月経帯，タンポン［５］<br><br><b><ul>注</ul></b><br>（１）グループＡ６１Ｌ１５／１８～Ａ６１Ｌ１５／４０に分類するとき，ラストプレイス優先ルールが適用される，すなわち各階層レベルにおいて相反する指示がない限り，最後の適切な箇所に分類する。［５］<br>（２）グループＡ６１Ｌ１５／１８～Ａ６１Ｌ１５／４０に分類するとき，それらの機能または物理的特性に特徴のある材料の使用が重要であれば，グループＡ６１Ｌ１５／４２にも分類する。［５］",
+      "en": "Bandages, dressings or absorbent pads for physiological fluids such as urine or blood, e.g. sanitary towels, tampons",
+      "count": 3481,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L15/18": {
+      "code": "A61L15/18",
+      "level": 2,
+      "parent": "A61L15/16",
+      "ja": "無機物質を含有するもの［５］",
+      "en": "containing inorganic materials",
+      "count": 4486,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L15/20": {
+      "code": "A61L15/20",
+      "level": 2,
+      "parent": "A61L15/16",
+      "ja": "有機物質を含有するもの［５］",
+      "en": "containing organic materials",
+      "count": 3417,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L15/22": {
+      "code": "A61L15/22",
+      "level": 2,
+      "parent": "A61L15/16",
+      "ja": "高分子物質を含有するもの［５］",
+      "en": "containing macromolecular materials",
+      "count": 3274,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L15/24": {
+      "code": "A61L15/24",
+      "level": 3,
+      "parent": "A61L15/22",
+      "ja": "炭素－炭素不飽和結合のみが関与する反応によって得られる高分子化合物；それらの誘導体［５］",
+      "en": "Macromolecular compounds obtained by reactions only involving carbon-to-carbon unsaturated bonds; Derivatives thereof",
+      "count": 4222,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L15/26": {
+      "code": "A61L15/26",
+      "level": 3,
+      "parent": "A61L15/22",
+      "ja": "炭素－炭素不飽和結合のみが関与する反応以外の反応によって得られる高分子化合物；それらの誘導体［５］",
+      "en": "Macromolecular compounds obtained otherwise than by reactions only involving carbon-to-carbon unsaturated bonds; Derivatives thereof",
+      "count": 4719,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L15/28": {
+      "code": "A61L15/28",
+      "level": 3,
+      "parent": "A61L15/22",
+      "ja": "多糖類またはそれらの誘導体［５］",
+      "en": "Polysaccharides or their derivatives",
+      "count": 7421,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L15/30": {
+      "code": "A61L15/30",
+      "level": 3,
+      "parent": "A61L15/22",
+      "ja": "ゴムまたはそれらの誘導体［５］",
+      "en": "Rubbers or their derivatives",
+      "count": 187,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L15/32": {
+      "code": "A61L15/32",
+      "level": 3,
+      "parent": "A61L15/22",
+      "ja": "蛋白質，ポリペプチド；それらの分解生成物または誘導体，例．アルブミン，コラーゲン，フィプリン，ゼラチン［５］",
+      "en": "Proteins, polypeptides; Degradation products or derivatives thereof, e.g. albumin, collagen, fibrin, gelatin",
+      "count": 3731,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L15/34": {
+      "code": "A61L15/34",
+      "level": 3,
+      "parent": "A61L15/22",
+      "ja": "脂肪，脂肪油，ろう，または天然樹脂［５］",
+      "en": "Oils, fats, waxes, or natural resins",
+      "count": 633,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L15/36": {
+      "code": "A61L15/36",
+      "level": 2,
+      "parent": "A61L15/16",
+      "ja": "微生物を含有するもの［５］",
+      "en": "containing microorganisms",
+      "count": 236,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L15/38": {
+      "code": "A61L15/38",
+      "level": 2,
+      "parent": "A61L15/16",
+      "ja": "酵素を含有するもの［５］",
+      "en": "containing enzymes",
+      "count": 399,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L15/40": {
+      "code": "A61L15/40",
+      "level": 2,
+      "parent": "A61L15/16",
+      "ja": "構造未定の成分またはそれらの反応生成物を含有するもの［５］",
+      "en": "containing ingredients of undetermined constitution or reaction products thereof",
+      "count": 3476,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L15/42": {
+      "code": "A61L15/42",
+      "level": 2,
+      "parent": "A61L15/16",
+      "ja": "それらの機能または物質的性質に特徴のある材料の使用［５］",
+      "en": "Use of materials characterised by their function or physical properties",
+      "count": 7944,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L15/44": {
+      "code": "A61L15/44",
+      "level": 3,
+      "parent": "A61L15/42",
+      "ja": "薬剤［５］",
+      "en": "Medicaments",
+      "count": 10072,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L15/46": {
+      "code": "A61L15/46",
+      "level": 3,
+      "parent": "A61L15/42",
+      "ja": "脱臭剤または悪臭中和剤，例．アンモニアまたはバクテリアの形成を抑制するためのもの［５］",
+      "en": "Deodorants or malodour counteractants, e.g. to inhibit the formation of ammonia or bacteria",
+      "count": 6385,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L15/48": {
+      "code": "A61L15/48",
+      "level": 3,
+      "parent": "A61L15/42",
+      "ja": "表面活性剤［５］",
+      "en": "Surfactants",
+      "count": 586,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L15/50": {
+      "code": "A61L15/50",
+      "level": 3,
+      "parent": "A61L15/42",
+      "ja": "潤滑剤；粘着防止剤［５］",
+      "en": "Lubricants; Anti-adhesive agents",
+      "count": 270,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L15/52": {
+      "code": "A61L15/52",
+      "level": 3,
+      "parent": "A61L15/42",
+      "ja": "防水剤［２００６．０１］",
+      "en": "Water repellants",
+      "count": 181,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L15/54": {
+      "code": "A61L15/54",
+      "level": 3,
+      "parent": "A61L15/42",
+      "ja": "放射線不透過性物質［５］",
+      "en": "Radio-opaque materials",
+      "count": 91,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L15/56": {
+      "code": "A61L15/56",
+      "level": 3,
+      "parent": "A61L15/42",
+      "ja": "湿り指示薬または着色剤［５］",
+      "en": "Wetness-indicators or colorants",
+      "count": 411,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L15/58": {
+      "code": "A61L15/58",
+      "level": 3,
+      "parent": "A61L15/42",
+      "ja": "接着剤（生体内での治療または検査で使用される導電性接着剤Ａ６１Ｋ５０／００）［５］",
+      "en": "Adhesives(electrically conductive adhesives for use in therapy or testing <u>in vivo</u><b>A61K50/00</b>)",
+      "count": 3747,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L15/60": {
+      "code": "A61L15/60",
+      "level": 3,
+      "parent": "A61L15/42",
+      "ja": "液体で膨らむゲル形成性物質，例．超吸収剤［５］",
+      "en": "Liquid-swellable gel-forming materials, e.g. super-absorbents",
+      "count": 4452,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L15/62": {
+      "code": "A61L15/62",
+      "level": 3,
+      "parent": "A61L15/42",
+      "ja": "水溶性または水分解性物質［５］",
+      "en": "Hydrosoluble or hydrodegradable materials",
+      "count": 1027,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L15/64": {
+      "code": "A61L15/64",
+      "level": 3,
+      "parent": "A61L15/42",
+      "ja": "身体内に再吸収されるように特に適合させたもの［５］",
+      "en": "specially adapted to be resorbable inside the body",
+      "count": 1024,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L17/00": {
+      "code": "A61L17/00",
+      "level": 0,
+      "parent": "A61L",
+      "ja": "外科用縫合材料または血管を結紮する材料［３，４］<br><br><b><ul>注</ul></b><br>グループＡ６１Ｌ１７／００に分類するとき，使用されている材料が抗血栓であれば，Ａ６１Ｌ３３／００にも分類する。［７］<br>グループＡ６１Ｌ１７／０４～Ａ６１Ｌ１７／１４においては，ラストプレイス優先ルールが適用される，すなわち各階層レベルにおいて相反する指示がない限り，最後の適切な箇所に分類する。［７］",
+      "en": "Materials for surgical sutures or for ligaturing blood vessels; <br><br><b><u>Note(s)</u></b><br><br><ul><li>When classifying in group <b>A61L17/00</b>, classification is also made in <b>A61L33/00</b> if the materials used are antithrombogenic.</li></ul>",
+      "count": 2682,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L17/04": {
+      "code": "A61L17/04",
+      "level": 1,
+      "parent": "A61L17/00",
+      "ja": "再吸収されない材料物質［７］",
+      "en": "Non-resorbable materials",
+      "count": 411,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L17/06": {
+      "code": "A61L17/06",
+      "level": 1,
+      "parent": "A61L17/00",
+      "ja": "少なくとも部分的に再吸収する物質［７］",
+      "en": "At least partly resorbable materials",
+      "count": 407,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L17/08": {
+      "code": "A61L17/08",
+      "level": 2,
+      "parent": "A61L17/06",
+      "ja": "動物起源のもの，例．ガット，コラーゲン［７］",
+      "en": "of animal origin, e.g. catgut, collagen",
+      "count": 553,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L17/10": {
+      "code": "A61L17/10",
+      "level": 2,
+      "parent": "A61L17/06",
+      "ja": "高分子物質を含有するもの［７］",
+      "en": "containing macromolecular materials",
+      "count": 1208,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L17/12": {
+      "code": "A61L17/12",
+      "level": 3,
+      "parent": "A61L17/10",
+      "ja": "グリコール酸または乳酸の，単独重合体もしくは共重合体［７］",
+      "en": "Homopolymers or copolymers of glycolic or lactic acid",
+      "count": 706,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L17/14": {
+      "code": "A61L17/14",
+      "level": 1,
+      "parent": "A61L17/00",
+      "ja": "特性改善のための後処理［７］",
+      "en": "Post-treatment to improve physical properties",
+      "count": 1017,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L24/00": {
+      "code": "A61L24/00",
+      "level": 0,
+      "parent": "A61L",
+      "ja": "外科用接着剤またはセメント；人工肛門用具のための接着剤（生体内での治療または検査で使用される導電性接着剤Ａ６１Ｋ５０／００）［７］<br><br><b><ul>注</ul></b><br>グループＡ６１Ｌ２４／００に分類するとき，使用されている材料が抗血栓であれば，グループＡ６１Ｌ３３／００にも分類する。［７］<br>グループＡ６１Ｌ２４／０２～Ａ６１Ｌ２４／０４においては，ラストプレイス優先ルールが適用される，すなわち各階層レベルにおいて相反する指示がない限り，最後の適切な箇所に分類する。［７］",
+      "en": "Surgical adhesives or cements; Adhesives for colostomy devices(electrically conductive adhesives for use in therapy or testing <u>in vivo</u><b>A61K50/00</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>When classifying in group <b>A61L24/00</b>, classification is also made in group <b>A61L33/00</b> if the materials used are antithrombogenic.</li></ul>",
+      "count": 6787,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L24/02": {
+      "code": "A61L24/02",
+      "level": 1,
+      "parent": "A61L24/00",
+      "ja": "無機物質を含有するもの［７］",
+      "en": "containing inorganic materials",
+      "count": 1599,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L24/04": {
+      "code": "A61L24/04",
+      "level": 1,
+      "parent": "A61L24/00",
+      "ja": "高分子物質を含有するもの［７］",
+      "en": "containing macromolecular materials",
+      "count": 2872,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L24/06": {
+      "code": "A61L24/06",
+      "level": 2,
+      "parent": "A61L24/04",
+      "ja": "炭素－炭素不飽和結合のみが関与する反応から得られるもの［７］",
+      "en": "obtained by reactions only involving carbon-to-carbon unsaturated bonds",
+      "count": 1806,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L24/08": {
+      "code": "A61L24/08",
+      "level": 2,
+      "parent": "A61L24/04",
+      "ja": "多糖類［７］",
+      "en": "Polysaccharides",
+      "count": 2232,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L24/10": {
+      "code": "A61L24/10",
+      "level": 2,
+      "parent": "A61L24/04",
+      "ja": "ポリペプチド，蛋白質［７］",
+      "en": "Polypeptides; Proteins",
+      "count": 2130,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L24/12": {
+      "code": "A61L24/12",
+      "level": 2,
+      "parent": "A61L24/04",
+      "ja": "イオノマーセメント，例．ガラスイオノマー，セメント［７］",
+      "en": "Ionomer cements, e.g. glass-ionomer cements",
+      "count": 43,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L26/00": {
+      "code": "A61L26/00",
+      "level": 0,
+      "parent": "A61L",
+      "ja": "液体包帯の化学的事項または材料の使用［７］<br><br><b><ul>注</ul></b><br>グループ２６／００に分類する際に，使用されているのが抗血栓の材料である場合は，３３／００にも分類する。［７］",
+      "en": "Chemical aspects of, or use of materials for, liquid bandages; <br><br><b><u>Note(s)</u></b><br><br><ul><li>When classifying in group <b>A61L26/00</b>, classification is also made in <b>A61L33/00</b> if the materials used are antithrombogenic.</li></ul>",
+      "count": 7406,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L27/00": {
+      "code": "A61L27/00",
+      "level": 0,
+      "parent": "A61L",
+      "ja": "補綴または補綴用品のコーティングのための材料（歯科補綴Ａ６１Ｃ１３／００；補綴の形状または構造Ａ６１Ｆ２／００；義歯のための製剤の使用Ａ６１Ｋ６／８０；人工腎臓Ａ６１Ｍ１／１４）［２００６．０１］<br><br><b><ul>注</ul></b><br>グループＡ６１Ｌ２７／００に分類するとき，使用されている材料が抗血栓であれば，グループＡ６１Ｌ３３／００にも分類する。［７］<br>（１）グループＡ６１Ｌ２７／０２～Ａ６１Ｌ２７／４０においては，ラストプレイス優先ルールが適用される，すなわち各階層レベルにおいて相反する指示がない限り，最後の適切な箇所に分類する。［７］<br>（２）グループＡ６１Ｌ２７／０２～Ａ６１Ｌ２７／４０に分類するとき，それらの機能や物理的特性に特徴のある材料の使用が重要であれば，グループＡ６１Ｌ２７／５０にも分類する。［７］",
+      "en": "Materials for prostheses or for coating prostheses(dental prostheses <b>A61C13/00</b>;  shape or structure of prostheses <b>A61F2/00</b>;  use of preparations for artificial teeth <b>A61K6/80</b>;  artificial kidneys <b>A61M1/14</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>When classifying in group <b>A61L27/00</b>, classification is also made in <b>A61L33/00</b> if the materials used are antithrombogenic.</li></ul>",
+      "count": 15237,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L27/02": {
+      "code": "A61L27/02",
+      "level": 1,
+      "parent": "A61L27/00",
+      "ja": "無機材料［７］",
+      "en": "Inorganic materials",
+      "count": 3337,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L27/04": {
+      "code": "A61L27/04",
+      "level": 2,
+      "parent": "A61L27/02",
+      "ja": "金属または合金［７］",
+      "en": "Metals or alloys",
+      "count": 4566,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L27/06": {
+      "code": "A61L27/06",
+      "level": 3,
+      "parent": "A61L27/04",
+      "ja": "チタンまたはチタン合金［７］",
+      "en": "Titanium or titanium alloys",
+      "count": 3906,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L27/08": {
+      "code": "A61L27/08",
+      "level": 2,
+      "parent": "A61L27/02",
+      "ja": "炭素［７］",
+      "en": "Carbon",
+      "count": 903,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L27/10": {
+      "code": "A61L27/10",
+      "level": 2,
+      "parent": "A61L27/02",
+      "ja": "セラミックまたはガラス［７］",
+      "en": "Ceramics or glasses",
+      "count": 2634,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L27/12": {
+      "code": "A61L27/12",
+      "level": 2,
+      "parent": "A61L27/02",
+      "ja": "リン含有材料，例．アパタイト［７］",
+      "en": "Phosphorus-containing materials, e.g. apatite",
+      "count": 5566,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L27/14": {
+      "code": "A61L27/14",
+      "level": 1,
+      "parent": "A61L27/00",
+      "ja": "高分子材料［７］",
+      "en": "Macromolecular materials",
+      "count": 3050,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L27/16": {
+      "code": "A61L27/16",
+      "level": 2,
+      "parent": "A61L27/14",
+      "ja": "炭素－炭素不飽和結合のみが関与する反応から得られるもの［７］",
+      "en": "obtained by reactions only involving carbon-to-carbon unsaturated bonds",
+      "count": 4682,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L27/18": {
+      "code": "A61L27/18",
+      "level": 2,
+      "parent": "A61L27/14",
+      "ja": "炭素－炭素不飽和結合のみが関与する反応以外の反応から得られるもの［７］",
+      "en": "obtained otherwise than by reactions only involving carbon-to-carbon unsaturated bonds",
+      "count": 10016,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L27/20": {
+      "code": "A61L27/20",
+      "level": 2,
+      "parent": "A61L27/14",
+      "ja": "多糖類［７］",
+      "en": "Polysaccharides",
+      "count": 7594,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L27/22": {
+      "code": "A61L27/22",
+      "level": 2,
+      "parent": "A61L27/14",
+      "ja": "ポリペプチド，またはその誘導体［７］",
+      "en": "Polypeptides or derivatives thereof",
+      "count": 7094,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L27/24": {
+      "code": "A61L27/24",
+      "level": 3,
+      "parent": "A61L27/22",
+      "ja": "コラーゲン［７］",
+      "en": "Collagen",
+      "count": 5397,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L27/26": {
+      "code": "A61L27/26",
+      "level": 2,
+      "parent": "A61L27/14",
+      "ja": "高分子物質の混合物［７］",
+      "en": "Mixtures of macromolecular materials",
+      "count": 2970,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L27/28": {
+      "code": "A61L27/28",
+      "level": 1,
+      "parent": "A61L27/00",
+      "ja": "補綴用品のコーティング用の材料［７］",
+      "en": "Materials for coating prostheses",
+      "count": 1852,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L27/30": {
+      "code": "A61L27/30",
+      "level": 2,
+      "parent": "A61L27/28",
+      "ja": "無機材料［７］",
+      "en": "Inorganic materials",
+      "count": 3528,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L27/32": {
+      "code": "A61L27/32",
+      "level": 3,
+      "parent": "A61L27/30",
+      "ja": "リン含有材料，例．アパタイト［７］",
+      "en": "Phosphorus-containing materials, e.g. apatite",
+      "count": 2153,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L27/34": {
+      "code": "A61L27/34",
+      "level": 2,
+      "parent": "A61L27/28",
+      "ja": "高分子材料［７］",
+      "en": "Macromolecular materials",
+      "count": 6001,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L27/36": {
+      "code": "A61L27/36",
+      "level": 1,
+      "parent": "A61L27/00",
+      "ja": "構造未知の成分またはその反応生成物を含有するもの［７］",
+      "en": "containing ingredients of undetermined constitution or reaction products thereof",
+      "count": 9124,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L27/38": {
+      "code": "A61L27/38",
+      "level": 2,
+      "parent": "A61L27/36",
+      "ja": "動物細胞（人工皮膚に用いるものＡ６１Ｌ２７／６０）［７］",
+      "en": "Animal cells(for use in artificial skin <b>A61L27/60</b>)",
+      "count": 8424,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L27/40": {
+      "code": "A61L27/40",
+      "level": 1,
+      "parent": "A61L27/00",
+      "ja": "複合材料，例．層状のものまたはある物質を同一もしくは異なる物質からなるマトリックスに分散させたもの［７］",
+      "en": "Composite materials, i.e. layered or containing one material dispersed in a matrix of the same or different material",
+      "count": 3459,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L27/42": {
+      "code": "A61L27/42",
+      "level": 2,
+      "parent": "A61L27/40",
+      "ja": "無機物質のマトリックスを持つもの［７］",
+      "en": "having an inorganic matrix",
+      "count": 1314,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L27/44": {
+      "code": "A61L27/44",
+      "level": 2,
+      "parent": "A61L27/40",
+      "ja": "高分子のマトリックスを持つもの［７］",
+      "en": "having a macromolecular matrix",
+      "count": 3097,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L27/46": {
+      "code": "A61L27/46",
+      "level": 3,
+      "parent": "A61L27/44",
+      "ja": "リンを含む無機物質の充填剤を含むもの［７］",
+      "en": "with phosphorus-containing inorganic fillers",
+      "count": 2127,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L27/48": {
+      "code": "A61L27/48",
+      "level": 3,
+      "parent": "A61L27/44",
+      "ja": "高分子の充填剤を含むもの［７］",
+      "en": "with macromolecular fillers",
+      "count": 1523,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L27/50": {
+      "code": "A61L27/50",
+      "level": 1,
+      "parent": "A61L27/00",
+      "ja": "機能または物理的特性に特徴のある材料［７］",
+      "en": "Materials characterised by their function or physical properties",
+      "count": 14793,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L27/52": {
+      "code": "A61L27/52",
+      "level": 2,
+      "parent": "A61L27/50",
+      "ja": "ヒドロゲルまたはハイドロコロイド［７］",
+      "en": "Hydrogels or hydrocolloids",
+      "count": 7653,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L27/54": {
+      "code": "A61L27/54",
+      "level": 2,
+      "parent": "A61L27/50",
+      "ja": "生物学的活性を有する材料，例．治療用物質［７］",
+      "en": "Biologically active materials, e.g. therapeutic substances",
+      "count": 16840,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L27/56": {
+      "code": "A61L27/56",
+      "level": 2,
+      "parent": "A61L27/50",
+      "ja": "多孔性または多泡性材料［７］",
+      "en": "Porous or cellular materials",
+      "count": 11279,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L27/58": {
+      "code": "A61L27/58",
+      "level": 2,
+      "parent": "A61L27/50",
+      "ja": "少なくとも部分的に身体に再吸収される材料［７］",
+      "en": "Materials at least partially resorbable by the body",
+      "count": 8767,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L27/60": {
+      "code": "A61L27/60",
+      "level": 2,
+      "parent": "A61L27/50",
+      "ja": "人工皮膚用材料［７］",
+      "en": "Materials for use in artificial skin",
+      "count": 2555,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L28/00": {
+      "code": "A61L28/00",
+      "level": 0,
+      "parent": "A61L",
+      "ja": "人工肛門用具のための材料（人工肛門用具のための接着剤Ａ６１Ｌ２４／００）［７］<br><br><b><ul>注</ul></b><br>グループ２８／００に分類する際に，使用されているのが抗血栓の材料である場合は，３３／００にも分類する。［７］",
+      "en": "Materials for colostomy devices(adhesives for colostomy devices <b>A61L24/00</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>When classifying in group <b>A61L28/00</b>, classification is also made in <b>A61L33/00</b> if the materials used are antithrombogenic.</li></ul>",
+      "count": 285,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L29/00": {
+      "code": "A61L29/00",
+      "level": 0,
+      "parent": "A61L",
+      "ja": "カテーテルのための，またはカテーテルのコーティング用の材料（カテーテルの形状または構造Ａ６１Ｍ２５／００）［４］<br><br><b><ul>注</ul></b><br>グループＡ６１Ｌ２９／００に分類するとき，使用されている材料が抗血栓であれば，グループＡ６１Ｌ３３／００にも分類する。［７］<br>（１）グループＡ６１Ｌ２９／０２～Ａ６１Ｌ２９／１２に分類するとき，ラストプレイス優先ルールが適用される，すなわち各階層レベルにおいて相反する指示がない限り，最後の適切な箇所に分類する。［７］<br>（２）グループＡ６１Ｌ２９／０２～Ａ６１Ｌ２９／１２に分類するとき，それらの機能または物理的特性に特徴のある材料の使用が重要であれば，グループＡ６１Ｌ２９／１４にも分類する。［７］",
+      "en": "Materials for catheters or for coating catheters(shape or structure of catheters <b>A61M25/00</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>When classifying in group <b>A61L29/00</b>, classification is also made in <b>A61L33/00</b> if the materials used are antithrombogenic.</li></ul>",
+      "count": 3820,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L29/02": {
+      "code": "A61L29/02",
+      "level": 1,
+      "parent": "A61L29/00",
+      "ja": "無機材料［７］",
+      "en": "Inorganic materials",
+      "count": 793,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L29/04": {
+      "code": "A61L29/04",
+      "level": 1,
+      "parent": "A61L29/00",
+      "ja": "高分子材料［７］",
+      "en": "Macromolecular materials",
+      "count": 2101,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L29/06": {
+      "code": "A61L29/06",
+      "level": 2,
+      "parent": "A61L29/04",
+      "ja": "炭素－炭素不飽和結合のみが関与する反応以外から得られるもの［７］",
+      "en": "obtained otherwise than by reactions only involving carbon-to-carbon unsaturated bonds",
+      "count": 1613,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L29/08": {
+      "code": "A61L29/08",
+      "level": 1,
+      "parent": "A61L29/00",
+      "ja": "コーティング用の材料［７］",
+      "en": "Materials for coatings",
+      "count": 3717,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L29/10": {
+      "code": "A61L29/10",
+      "level": 2,
+      "parent": "A61L29/08",
+      "ja": "無機材料［７］",
+      "en": "Inorganic materials",
+      "count": 594,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L29/12": {
+      "code": "A61L29/12",
+      "level": 1,
+      "parent": "A61L29/00",
+      "ja": "複合材料，例．層状のもの，またはある物質を同一もしくは異なる物質のマトリックスに分散させたもの［７］",
+      "en": "Composite materials, i.e. layered or containing one material dispersed in a matrix of the same or different material",
+      "count": 945,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L29/14": {
+      "code": "A61L29/14",
+      "level": 1,
+      "parent": "A61L29/00",
+      "ja": "機能または物理的特性に特徴のある材料［７］",
+      "en": "Materials characterised by their function or physical properties",
+      "count": 2711,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L29/16": {
+      "code": "A61L29/16",
+      "level": 2,
+      "parent": "A61L29/14",
+      "ja": "生物学的活性を有する材料，例．治療用物質［７］",
+      "en": "Biologically active materials, e.g. therapeutic substances",
+      "count": 3259,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L29/18": {
+      "code": "A61L29/18",
+      "level": 2,
+      "parent": "A61L29/14",
+      "ja": "少なくとも部分的にＸ線またはレーザーを通さない材料［７］",
+      "en": "Materials at least partially X-ray or laser opaque",
+      "count": 402,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L31/00": {
+      "code": "A61L31/00",
+      "level": 0,
+      "parent": "A61L",
+      "ja": "他の手術用物品のための材料［４］<br><br><b><ul>注</ul></b><br>グループＡ６１Ｌ３１／００に分類するとき，使用されている材料が抗血栓であれば，グループＡ６１Ｌ３３／００にも分類する。［７］<br>（１）グループＡ６１Ｌ３１／０２～Ａ６１Ｌ３１／１２に分類するとき，ラストプレイス優先ルールが適用される，すなわち各階層レベルにおいて相反する指示がない限り，最後の適切な箇所に分類する。［７］<br>（２）グループＡ６１Ｌ３１／０２～Ａ６１Ｌ３１／１２に分類するとき，それらの機能または物理的特性に特徴のある材料の使用が重要であれば，グループＡ６１Ｌ３１／１４にも分類する。［７］",
+      "en": "Materials for other surgical articles; <br><br><b><u>Note(s)</u></b><br><br><ul><li>When classifying in group <b>A61L31/00</b>, classification is also made in <b>A61L33/00</b> if the materials used are antithrombogenic.</li></ul>",
+      "count": 7250,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L31/02": {
+      "code": "A61L31/02",
+      "level": 1,
+      "parent": "A61L31/00",
+      "ja": "無機材料［７］",
+      "en": "Inorganic materials",
+      "count": 5778,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L31/04": {
+      "code": "A61L31/04",
+      "level": 1,
+      "parent": "A61L31/00",
+      "ja": "高分子材料［７］",
+      "en": "Macromolecular materials",
+      "count": 7111,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L31/06": {
+      "code": "A61L31/06",
+      "level": 2,
+      "parent": "A61L31/04",
+      "ja": "炭素－炭素不飽和結合のみが関与する反応以外から得られるもの［７］",
+      "en": "obtained otherwise than by reactions only involving carbon-to-carbon unsaturated bonds",
+      "count": 5095,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L31/08": {
+      "code": "A61L31/08",
+      "level": 1,
+      "parent": "A61L31/00",
+      "ja": "コーティング用の材料［７］",
+      "en": "Materials for coatings",
+      "count": 3665,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L31/10": {
+      "code": "A61L31/10",
+      "level": 2,
+      "parent": "A61L31/08",
+      "ja": "高分子材料［７］",
+      "en": "Macromolecular materials",
+      "count": 6128,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L31/12": {
+      "code": "A61L31/12",
+      "level": 1,
+      "parent": "A61L31/00",
+      "ja": "複合材料，例．層状のもの，またはある物質を同一もしくは異なる物質のマトリックスに分散させたもの［７］",
+      "en": "Composite materials, i.e. layered or containing one material dispersed in a matrix of the same or different material",
+      "count": 2864,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L31/14": {
+      "code": "A61L31/14",
+      "level": 1,
+      "parent": "A61L31/00",
+      "ja": "機能または物理的特性に特徴のある材料［７］",
+      "en": "Materials characterised by their function or physical properties",
+      "count": 11130,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L31/16": {
+      "code": "A61L31/16",
+      "level": 2,
+      "parent": "A61L31/14",
+      "ja": "生物学的活性を有する材料，例．治療用物質［７］",
+      "en": "Biologically active materials, e.g. therapeutic substances",
+      "count": 9245,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L31/18": {
+      "code": "A61L31/18",
+      "level": 2,
+      "parent": "A61L31/14",
+      "ja": "少なくとも部分的にＸ線またはレーザーを通さない物質［７］",
+      "en": "Materials at least partially X-ray or laser opaque",
+      "count": 1175,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L33/00": {
+      "code": "A61L33/00",
+      "level": 0,
+      "parent": "A61L",
+      "ja": "手術用物品，例．縫合，カテーテル，補綴の，または血液処理または血液調整用物品の，抗血栓処理；こうした処理用の材料［４，７］<br><br><b><ul>注</ul></b><br>グループＡ６１Ｌ３３／０２～Ａ６１Ｌ３３／１８においては，ラストプレイス優先ルールが適用される，すなわち各階層レベルにおいて相反する指示がない限り，最後の適切な箇所に分類する。［７］",
+      "en": "Antithrombogenic treatment of surgical articles, e.g. sutures, catheters, prostheses, or of articles for the manipulation or conditioning of blood; Materials for such treatment",
+      "count": 3497,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L33/02": {
+      "code": "A61L33/02",
+      "level": 1,
+      "parent": "A61L33/00",
+      "ja": "無機材料の利用［７］",
+      "en": "Use of inorganic materials",
+      "count": 282,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L33/04": {
+      "code": "A61L33/04",
+      "level": 1,
+      "parent": "A61L33/00",
+      "ja": "有機材料の利用，例．アセチルサリチル酸［７］",
+      "en": "Use of organic materials, e.g. acetylsalicylic acid",
+      "count": 277,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L33/06": {
+      "code": "A61L33/06",
+      "level": 1,
+      "parent": "A61L33/00",
+      "ja": "高分子材料の利用［７］",
+      "en": "Use of macromolecular materials",
+      "count": 953,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L33/08": {
+      "code": "A61L33/08",
+      "level": 2,
+      "parent": "A61L33/06",
+      "ja": "多糖類［７］",
+      "en": "Polysaccharides",
+      "count": 334,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L33/10": {
+      "code": "A61L33/10",
+      "level": 3,
+      "parent": "A61L33/08",
+      "ja": "ヘパリン，ペハリノイド，またはその誘導体［７］",
+      "en": "Heparin, heparinoid or derivatives thereof",
+      "count": 708,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L33/12": {
+      "code": "A61L33/12",
+      "level": 2,
+      "parent": "A61L33/06",
+      "ja": "ポリペプチド，蛋白質，またはそれらの誘導体［７］",
+      "en": "Polypeptides, proteins or derivatives thereof",
+      "count": 306,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L33/14": {
+      "code": "A61L33/14",
+      "level": 1,
+      "parent": "A61L33/00",
+      "ja": "繊維素溶解剤または血小板の凝集阻害剤の使用［７］",
+      "en": "Use of fibrinolytic agents or platelet aggregation inhibitors",
+      "count": 59,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L33/16": {
+      "code": "A61L33/16",
+      "level": 1,
+      "parent": "A61L33/00",
+      "ja": "酵素，例．ウロキナーゼ，ストレプトキナーゼの使用［７］",
+      "en": "Use of enzymes, e.g. urokinase, streptokinase",
+      "count": 44,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L33/18": {
+      "code": "A61L33/18",
+      "level": 1,
+      "parent": "A61L33/00",
+      "ja": "不特定の構成成分，またはそれらの反応生成物の利用［７］",
+      "en": "Use of ingredients of undertermined constitution or reaction products thereof",
+      "count": 76,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L101/00": {
+      "code": "A61L101/00",
+      "level": 0,
+      "parent": "A61L",
+      "ja": "殺菌，消毒，または脱臭に使われる物質の化学組成［７］",
+      "en": "Chemical composition of materials used in disinfecting, sterilising or deodorising",
+      "count": 84,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L101/02": {
+      "code": "A61L101/02",
+      "level": 1,
+      "parent": "A61L101/00",
+      "ja": "無機物質［７］",
+      "en": "Inorganic materials",
+      "count": 2525,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L101/04": {
+      "code": "A61L101/04",
+      "level": 2,
+      "parent": "A61L101/02",
+      "ja": "炭素，例．活性炭［７］",
+      "en": "Elemental carbon, e.g. active charcoal",
+      "count": 1637,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L101/06": {
+      "code": "A61L101/06",
+      "level": 2,
+      "parent": "A61L101/02",
+      "ja": "ハロゲンを含有するもの［７］",
+      "en": "containing halogen",
+      "count": 2258,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L101/08": {
+      "code": "A61L101/08",
+      "level": 3,
+      "parent": "A61L101/06",
+      "ja": "ハロゲン元素［７］",
+      "en": "Elemental halogen",
+      "count": 147,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L101/10": {
+      "code": "A61L101/10",
+      "level": 2,
+      "parent": "A61L101/02",
+      "ja": "オゾン［７］",
+      "en": "Ozone",
+      "count": 9667,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L101/12": {
+      "code": "A61L101/12",
+      "level": 2,
+      "parent": "A61L101/02",
+      "ja": "シリコンを含有するもの［７］",
+      "en": "containing silicon",
+      "count": 317,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L101/14": {
+      "code": "A61L101/14",
+      "level": 2,
+      "parent": "A61L101/02",
+      "ja": "硫黄を含有するもの［７］",
+      "en": "containing sulfur",
+      "count": 157,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L101/16": {
+      "code": "A61L101/16",
+      "level": 2,
+      "parent": "A61L101/02",
+      "ja": "リンを含有するもの［７］",
+      "en": "containing phosphorus",
+      "count": 123,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L101/18": {
+      "code": "A61L101/18",
+      "level": 2,
+      "parent": "A61L101/02",
+      "ja": "アンモニア［７］",
+      "en": "Ammonia",
+      "count": 37,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L101/20": {
+      "code": "A61L101/20",
+      "level": 2,
+      "parent": "A61L101/02",
+      "ja": "酸［７］",
+      "en": "Acids",
+      "count": 262,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L101/22": {
+      "code": "A61L101/22",
+      "level": 2,
+      "parent": "A61L101/02",
+      "ja": "過酸化物［７］",
+      "en": "Peroxides",
+      "count": 2117,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L101/24": {
+      "code": "A61L101/24",
+      "level": 2,
+      "parent": "A61L101/02",
+      "ja": "アルミニウム含有するもの［７］",
+      "en": "containing aluminium",
+      "count": 250,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L101/26": {
+      "code": "A61L101/26",
+      "level": 2,
+      "parent": "A61L101/02",
+      "ja": "銅を含有するもの［７］",
+      "en": "containing copper",
+      "count": 245,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L101/28": {
+      "code": "A61L101/28",
+      "level": 2,
+      "parent": "A61L101/02",
+      "ja": "鉄を含有するもの［７］",
+      "en": "containing iron",
+      "count": 161,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L101/30": {
+      "code": "A61L101/30",
+      "level": 2,
+      "parent": "A61L101/02",
+      "ja": "亜鉛を含有するもの［７］",
+      "en": "containing zinc",
+      "count": 238,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L101/32": {
+      "code": "A61L101/32",
+      "level": 1,
+      "parent": "A61L101/00",
+      "ja": "有機化合物［７］",
+      "en": "Organic compounds",
+      "count": 1279,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L101/34": {
+      "code": "A61L101/34",
+      "level": 2,
+      "parent": "A61L101/32",
+      "ja": "水酸化合物［７］",
+      "en": "Hydroxy compounds",
+      "count": 3720,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L101/36": {
+      "code": "A61L101/36",
+      "level": 2,
+      "parent": "A61L101/32",
+      "ja": "カルボン酸またはその誘導体［７］",
+      "en": "Carboxylic acids or derivatives thereof",
+      "count": 929,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L101/38": {
+      "code": "A61L101/38",
+      "level": 2,
+      "parent": "A61L101/32",
+      "ja": "エーテル［７］",
+      "en": "Ethers",
+      "count": 130,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L101/40": {
+      "code": "A61L101/40",
+      "level": 2,
+      "parent": "A61L101/32",
+      "ja": "硫黄を含有するもの［７］",
+      "en": "containing sulfur",
+      "count": 188,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L101/42": {
+      "code": "A61L101/42",
+      "level": 2,
+      "parent": "A61L101/32",
+      "ja": "有機金属の化合物または合成物［７］",
+      "en": "Organo-metallic compounds or complexes",
+      "count": 55,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L101/44": {
+      "code": "A61L101/44",
+      "level": 2,
+      "parent": "A61L101/32",
+      "ja": "複素環式の化合物［７］",
+      "en": "Heterocyclic compounds",
+      "count": 985,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L101/46": {
+      "code": "A61L101/46",
+      "level": 2,
+      "parent": "A61L101/32",
+      "ja": "高分子化合物［７］",
+      "en": "Macromolecular compounds",
+      "count": 425,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L101/48": {
+      "code": "A61L101/48",
+      "level": 3,
+      "parent": "A61L101/46",
+      "ja": "炭素－炭素不飽和結合のみが関与する反応から得られるもの［７］",
+      "en": "obtained by reactions only involving carbon-to-carbon unsaturated bonds",
+      "count": 230,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L101/50": {
+      "code": "A61L101/50",
+      "level": 3,
+      "parent": "A61L101/46",
+      "ja": "多糖類化合物［７］",
+      "en": "Polysaccharides or derivatives thereof",
+      "count": 316,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L101/52": {
+      "code": "A61L101/52",
+      "level": 1,
+      "parent": "A61L101/00",
+      "ja": "微生物，または微生物から作られた，または抽出された物質［７］",
+      "en": "Microorganisms or substances produced by or extracted from microorganisms",
+      "count": 440,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L101/54": {
+      "code": "A61L101/54",
+      "level": 1,
+      "parent": "A61L101/00",
+      "ja": "酵素［７］",
+      "en": "Enzymes",
+      "count": 200,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L101/56": {
+      "code": "A61L101/56",
+      "level": 1,
+      "parent": "A61L101/00",
+      "ja": "植物抽出物，または特定されない化学組成の植物製品，例．植物繊維［７］",
+      "en": "Plant extracts or vegetable products of undetermined chemical constitution, e.g. plant fibre",
+      "count": 3505,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L103/00": {
+      "code": "A61L103/00",
+      "level": 0,
+      "parent": "A61L",
+      "ja": "消毒または殺菌の対象となる材料または物［２０２６．０１］",
+      "en": "Materials or objects being the target of disinfection or sterilisation",
+      "count": 0,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L103/05": {
+      "code": "A61L103/05",
+      "level": 1,
+      "parent": "A61L103/00",
+      "ja": "生物または生物材料［２０２６．０１］",
+      "en": "Living organisms or biological materials",
+      "count": 0,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L103/06": {
+      "code": "A61L103/06",
+      "level": 2,
+      "parent": "A61L103/05",
+      "ja": "人体［２０２６．０１］",
+      "en": "The human body",
+      "count": 0,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L103/07": {
+      "code": "A61L103/07",
+      "level": 3,
+      "parent": "A61L103/06",
+      "ja": "手［２０２６．０１］",
+      "en": "Hands",
+      "count": 0,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L103/09": {
+      "code": "A61L103/09",
+      "level": 2,
+      "parent": "A61L103/05",
+      "ja": "血液またはその製剤［２０２６．０１］",
+      "en": "Blood or products thereof",
+      "count": 0,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L103/10": {
+      "code": "A61L103/10",
+      "level": 1,
+      "parent": "A61L103/00",
+      "ja": "生物製剤以外の医薬製剤［２０２６．０１］",
+      "en": "Medicinal preparations other than biologicals",
+      "count": 0,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L103/15": {
+      "code": "A61L103/15",
+      "level": 1,
+      "parent": "A61L103/00",
+      "ja": "実験，医療または歯科用の器具，例．カテーテルまたは針［２０２６．０１］",
+      "en": "Laboratory, medical or dentistry appliances, e.g. catheters or sharps",
+      "count": 0,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L103/20": {
+      "code": "A61L103/20",
+      "level": 2,
+      "parent": "A61L103/15",
+      "ja": "容器，例．ガラス瓶またはフラスコ［２０２６．０１］",
+      "en": "Containers, e.g. vials or flasks",
+      "count": 0,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L103/25": {
+      "code": "A61L103/25",
+      "level": 1,
+      "parent": "A61L103/00",
+      "ja": "個人用電子機器，例．携帯電話［２０２６．０１］",
+      "en": "Personal electronic items, e.g. mobile phones",
+      "count": 0,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L103/30": {
+      "code": "A61L103/30",
+      "level": 1,
+      "parent": "A61L103/00",
+      "ja": "食器類または台所用品［２０２６．０１］",
+      "en": "Tableware or kitchen utensils",
+      "count": 0,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L103/35": {
+      "code": "A61L103/35",
+      "level": 1,
+      "parent": "A61L103/00",
+      "ja": "ベビー用品，例．おしゃぶり、哺乳瓶［２０２６．０１］",
+      "en": "Baby products, e.g. pacifiers or feeding bottles",
+      "count": 0,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L103/40": {
+      "code": "A61L103/40",
+      "level": 1,
+      "parent": "A61L103/00",
+      "ja": "家具類，例．椅子，テーブルまたはベッド［２０２６．０１］",
+      "en": "Furniture, e.g. seats, tables or beds",
+      "count": 0,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L103/45": {
+      "code": "A61L103/45",
+      "level": 1,
+      "parent": "A61L103/00",
+      "ja": "化粧または美容用品［２０２６．０１］",
+      "en": "Toiletry or cosmetic articles",
+      "count": 0,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L103/50": {
+      "code": "A61L103/50",
+      "level": 1,
+      "parent": "A61L103/00",
+      "ja": "織物，例．ベッドウェア、タオル［２０２６．０１］",
+      "en": "Textiles, e.g. bedwear or towels",
+      "count": 0,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L103/55": {
+      "code": "A61L103/55",
+      "level": 1,
+      "parent": "A61L103/00",
+      "ja": "履き物［２０２６．０１］",
+      "en": "Footwear",
+      "count": 0,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L103/60": {
+      "code": "A61L103/60",
+      "level": 1,
+      "parent": "A61L103/00",
+      "ja": "カード類または紙幣［２０２６．０１］",
+      "en": "Cards or paper money",
+      "count": 0,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L103/65": {
+      "code": "A61L103/65",
+      "level": 1,
+      "parent": "A61L103/00",
+      "ja": "個人用保護具，例．顔用マスク［２０２６．０１］",
+      "en": "Personal protective equipment, e.g. facial masks",
+      "count": 0,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L103/70": {
+      "code": "A61L103/70",
+      "level": 1,
+      "parent": "A61L103/00",
+      "ja": "手押し車，例．スーパーのショッピングカート［２０２６．０１］",
+      "en": "Trolleys, e.g. supermarket trolleys",
+      "count": 0,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L103/75": {
+      "code": "A61L103/75",
+      "level": 1,
+      "parent": "A61L103/00",
+      "ja": "部屋の床または壁［２０２６．０１］",
+      "en": "Room floors or walls",
+      "count": 0,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L103/80": {
+      "code": "A61L103/80",
+      "level": 1,
+      "parent": "A61L103/00",
+      "ja": "門またはドアまたはそれらの部品，例．ハンドル［２０２６．０１］",
+      "en": "Gates, doors or parts thereof, e.g. handles",
+      "count": 0,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L103/85": {
+      "code": "A61L103/85",
+      "level": 1,
+      "parent": "A61L103/00",
+      "ja": "動物用小屋［２０２６．０１］",
+      "en": "Animal houses",
+      "count": 0,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L103/90": {
+      "code": "A61L103/90",
+      "level": 1,
+      "parent": "A61L103/00",
+      "ja": "一時的に隔絶した領域，例．移動式テント［２０２６．０１］",
+      "en": "Temporarily isolated areas, e.g. mobile tents",
+      "count": 0,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L103/95": {
+      "code": "A61L103/95",
+      "level": 1,
+      "parent": "A61L103/00",
+      "ja": "輸送機関，例．自動車または飛行機［２０２６．０１］",
+      "en": "Vehicles, e.g. cars or aeroplanes",
+      "count": 0,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    },
+    "A61L103/97": {
+      "code": "A61L103/97",
+      "level": 2,
+      "parent": "A61L103/95",
+      "ja": "輸送機関の客室［２０２６．０１］",
+      "en": "Passenger compartments of vehicles",
+      "count": 0,
+      "sourceFile": "ipc_A61L.txt",
+      "kind": "ipc"
+    }
+  }
+};

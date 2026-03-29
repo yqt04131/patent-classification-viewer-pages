@@ -1,0 +1,916 @@
+{
+  "generatedAt": "2026-03-20T02:17:47.103Z",
+  "total": 91,
+  "entries": {
+    "G07D": {
+      "code": "G07D",
+      "level": 0,
+      "parent": "G07",
+      "ja": "コインまたは有価紙葉の取扱い，例．検査，貨幣単位による選別，計数，取り出し，両替または預託すること［２］<br><br><b><ul>注</ul></b><br>このサブグラスにおいては，下記の用語は以下に示す意味で用いる：<br>・“コイン”とは同様の性質を持つ代用貨幣をも包含する；．<br>・“有価紙葉”とは，使用された材料に関係なく，評価または真正を確認できる金額を表す，紙幣，銀行券，お札，小切手，ヴァウチャー，証券，債券または類似のものを包含する。",
+      "en": "HANDLING OF COINS OR OF VALUABLE PAPERS, e.g. TESTING, SORTING BY DENOMINATIONS, COUNTING, DISPENSING, CHANGING OR DEPOSITING; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this subclass, the following terms or expressions are used with the meaning indicated:<ul><li>\"coins\" also covers tokens of similar nature;</li><li>\"valuable papers\" covers paper currency, banknotes, bills, cheques, vouchers, securities, bonds or similar valuable papers, irrespective of the material used for these, which represent monetary value that can be measured or verified.</li></ul></li></ul>",
+      "count": 849,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G07": {
+      "code": "G07",
+      "level": 0,
+      "parent": "G",
+      "ja": "チェック装置",
+      "en": "CHECKING-DEVICES",
+      "count": 0,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G": {
+      "code": "G",
+      "level": 0,
+      "parent": null,
+      "ja": "物理学<br><br><b><ul>注</ul></b><br>１．このセクションにおいては，下記の用語は以下に示す意味で用いる：<br>・“変量”は名詞として，特定の実在物，例．物体，ある量の物質，光ビーム，に関し特定の瞬間に測定することの可能な特性又は特質，例．寸法，温度等の物理的状態，密度又は色等の性質，を意味する。変量が変化すると，その数値的表現は異なる時点で，異なる状態又は個々の状況において異なる値をとることもあり，また，ある状態のもとで又は実用上特定の実在物に関して一定でありうる，例．バーの長さが多くの目的のために一定とみなされる，こともある。<br>２．使用される用語または表現の定義に注意すること。このセクションのいくつかのクラスの注に使用されているものについて，特にクラスＧ０１の“測定”を参照されたい．ＩＰＣ指針パラグラフ１８７の中にあるものについて，“制御”及び“調整”の定義に参照されたい。<br>３．このセクションにおける分類は他のセクションにおいてよりもめんどうな場合があり得る，というのは，その一つは，いろいろな使用分野の差異の判別には構造上の差異又は使用形態上の差異よりも寧ろ使用者の意図における差異の方にかなりの程度影響されてしまうからであり，もう一つは，扱う主題が容易に全体として識別できる“もの”であるよりも，特性又は部品が他の主題のものと共通のものを有しているシステム又は組合わせであることが実際上多いからである。例えば，情報（例．一連の数値）をディスプレイするのは，クラスＧ０９に包含される，教育又は広告のため，クラスＧ０１に包含される，測定の結果が通知されうるため，クラスＧ０８に包含される，遠隔地点に情報を合図するため，又は遠隔地点から合図された情報を提供するためである。目的を記述するために使用する言葉は，当該装置の形態に無関係なこともあり得る特性－例えば，ディスプレイを見る者にとって望ましい効果とか，ディスプレイが遠隔地点から制御されるかどうかという特性－によって決定される。さらに，ある状態，例えば流体圧の変化に応答する装置は，その装置そのものには変更を加えずして，サブクラスＧ０１Ｌに包含される圧力又はＧ０１の他のサブクラスに包含される圧力に関連した他の何らかの状態，例．温度に関してＧ０１Ｋ，についての情報を与えるため，サブクラスＧ０７Ｃに包含される圧力または圧力発生の記録をするため，サブクラスＧ０８Ｂに包含される警報を発するため，又はクラスＧ０５に包含される他の何らかの装置を制御するために用いられることがある。<br>　本分類表は，前述したように，同一の性質のものは同一箇所に分類し得るようにしたものである。従って，技術主題が適切箇所に分類されるためには予めその真正な本質を把握することが特に必要である。",
+      "en": "PHYSICS; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this section, the following term is used with the meaning indicated: <ul><li>\"variable\" as a noun means a feature or property, e.g. a dimension, a physical condition such as temperature, a quality such as density or colour, which, in respect of a particular entity, e.g. an object, a quantity of a substance, a beam of light, and at a particular instant, is capable of being measured; the variable may change, so that its numerical expression may assume different values at different times, in different conditions or in individual cases, but may be constant in respect of a particular entity in certain conditions or for practical purposes, e.g. the length of a bar may be regarded as constant for many purposes.</li></ul></li><li>Attention is drawn to the definitions of terms or expressions used. Some appear in the notes of several of the classes in this section, see in particular the definition of \"measuring\" in class <b>G01</b>. Others appear in paragraph 187 of the Guide to the IPC, see in particular the definitions of \"control\" and \"regulation\".</li><li>Classification in this section may present more difficulty than in other sections, because the distinction between different fields of use rests to a considerable extent on differences in the intention of the user rather than on any constructional differences or differences in the manner of use, and because the subjects dealt with are often in effect systems or combinations, which have features or parts in common, rather than \"things\", which are readily distinguishable as a whole. For example, information, e.g. a set of figures, may be displayed for the purpose of education or advertising covered by class <b>G09</b>, for enabling the result of a measurement to be known covered by class <b>G01</b>, for signalling the information to a distant point or for giving information which has been signalled from a distant point covered by class <b>G08</b>. The words used to describe the purpose depend on features that may be irrelevant to the form of the apparatus concerned, for example, such features as the desired effect on the person who sees the display, or whether the display is controlled from a remote point. Again, a device which responds to some change in a condition, e.g. in the pressure of a fluid, may be used, without modification of the device itself, to give information about the pressure covered by subclass <b>G01L</b> or about some other condition linked to the pressure covered by another subclass of class <b>G01</b>, e.g. <b>G01K</b> for temperature, to make a record of the pressure or of its occurrence covered by subclass <b>G07C</b>, to give an alarm covered by subclass <b>G08B</b>, or to control another apparatus covered by class <b>G05</b>. <ul><li>The classification scheme is intended to enable things of a similar nature, as indicated above, to be classified together. It is therefore particularly necessary for the real nature of any technical subject to be decided before it can be properly classified.</li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G07D1/00": {
+      "code": "G07D1/00",
+      "level": 0,
+      "parent": "G07D",
+      "ja": "コイン投出装置［２００６．０１］",
+      "en": "Coin dispensers",
+      "count": 8912,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D1/02": {
+      "code": "G07D1/02",
+      "level": 1,
+      "parent": "G07D1/00",
+      "ja": "小銭を支払うもの［２００６．０１］",
+      "en": "giving change",
+      "count": 694,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D1/04": {
+      "code": "G07D1/04",
+      "level": 2,
+      "parent": "G07D1/02",
+      "ja": "挿入金額と等しい金額の小銭を支払うもの［２００６．０１］",
+      "en": "dispensing change equal to a sum deposited",
+      "count": 1175,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D1/06": {
+      "code": "G07D1/06",
+      "level": 2,
+      "parent": "G07D1/02",
+      "ja": "支払金額と請求金額との差額を支払うもの［２００６．０１］",
+      "en": "dispensing the difference between a sum paid and a sum charged",
+      "count": 617,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D1/08": {
+      "code": "G07D1/08",
+      "level": 2,
+      "parent": "G07D1/02",
+      "ja": "手動のもの［２００６．０１］",
+      "en": "hand actuated",
+      "count": 192,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D3/00": {
+      "code": "G07D3/00",
+      "level": 0,
+      "parent": "G07D",
+      "ja": "混在したコインのバルクから貨幣単位に選別するもの［２００６．０１］",
+      "en": "Sorting a mixed bulk of coins into denominations",
+      "count": 3169,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D3/02": {
+      "code": "G07D3/02",
+      "level": 1,
+      "parent": "G07D3/00",
+      "ja": "貨幣単位別に設けた孔によってコインを選別するもの［２００６．０１］",
+      "en": "Sorting coins by means of graded apertures",
+      "count": 1148,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D3/04": {
+      "code": "G07D3/04",
+      "level": 2,
+      "parent": "G07D3/02",
+      "ja": "傾斜したレール上に並べたもの［２００６．０１］",
+      "en": "arranged on an inclined rail",
+      "count": 966,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D3/06": {
+      "code": "G07D3/06",
+      "level": 2,
+      "parent": "G07D3/02",
+      "ja": "円形通路に沿って並べたもの［２００６．０１］",
+      "en": "arranged along a circular path",
+      "count": 425,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D3/08": {
+      "code": "G07D3/08",
+      "level": 2,
+      "parent": "G07D3/02",
+      "ja": "螺線上に並べたもの［２００６．０１］",
+      "en": "arranged on a helix",
+      "count": 144,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D3/10": {
+      "code": "G07D3/10",
+      "level": 2,
+      "parent": "G07D3/02",
+      "ja": "連続して並べられたふるいによるもの［２００６．０１］",
+      "en": "provided by sieves arranged in series",
+      "count": 342,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D3/12": {
+      "code": "G07D3/12",
+      "level": 1,
+      "parent": "G07D3/00",
+      "ja": "段を設けた転向装置によりコインを選別するもの［２００６．０１］",
+      "en": "Sorting coins by means of stepped deflectors",
+      "count": 720,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D3/14": {
+      "code": "G07D3/14",
+      "level": 1,
+      "parent": "G07D3/00",
+      "ja": "コイン感知要素の制御のもとに駆動される装置［２００６．０１］",
+      "en": "Apparatus driven under control of coin-sensing elements",
+      "count": 936,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D3/16": {
+      "code": "G07D3/16",
+      "level": 1,
+      "parent": "G07D3/00",
+      "ja": "コイン計数と組み合わせたもの［２００６．０１］",
+      "en": "in combination with coin-counting",
+      "count": 1584,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D5/00": {
+      "code": "G07D5/00",
+      "level": 0,
+      "parent": "G07D",
+      "ja": "コインが同一であることまたは真正であることを決定するために特に適合した検査，例．貨幣として受け入れられないまたは性質を異にするコインを分離するもの［１，７］<br><br><b><ul>注</ul></b><br>グループＧ０７Ｄ５／０２からＧ０７Ｄ５／１０においては，ラストプレイス優先ルールが適用される，すなわち各階層レベルにおいて相反する指示がない限り，最後の適切な箇所に分類する。［３］",
+      "en": "Testing specially adapted to determine the identity or genuineness of coins, e.g. for segregating coins which are unacceptable or alien to a currency",
+      "count": 2435,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D5/02": {
+      "code": "G07D5/02",
+      "level": 1,
+      "parent": "G07D5/00",
+      "ja": "寸法，例．厚さ，径，を検査するもの；変形を検査するもの［３］",
+      "en": "Testing the dimensions, e.g. thickness, diameter; Testing the deformation",
+      "count": 1920,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D5/04": {
+      "code": "G07D5/04",
+      "level": 1,
+      "parent": "G07D5/00",
+      "ja": "重量を検査するもの［３］",
+      "en": "Testing the weight",
+      "count": 342,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D5/06": {
+      "code": "G07D5/06",
+      "level": 1,
+      "parent": "G07D5/00",
+      "ja": "堅さまたは弾力性を検査するもの［３］",
+      "en": "Testing the hardness or elasticity",
+      "count": 66,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D5/08": {
+      "code": "G07D5/08",
+      "level": 1,
+      "parent": "G07D5/00",
+      "ja": "磁気的または電気的性質を検査するもの［３］",
+      "en": "Testing the magnetic or electric properties",
+      "count": 1988,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D5/10": {
+      "code": "G07D5/10",
+      "level": 1,
+      "parent": "G07D5/00",
+      "ja": "へり，例．へりのぎざぎざを検査するもの［３］",
+      "en": "Testing the rim, e.g. the milling of the rim",
+      "count": 287,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D7/00": {
+      "code": "G07D7/00",
+      "level": 0,
+      "parent": "G07D",
+      "ja": "有価紙葉が同一であること若しくは真正であることを決定するため，または受け入れられない有価紙葉，例．貨幣として性質を異にする銀行券，を分離するために特に適合した検査［２０１６．０１］",
+      "en": "Testing specially adapted to determine the identity or genuineness of valuable papers or for segregating those which are unacceptable, e.g. banknotes that are alien to a currency",
+      "count": 8922,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D7/004": {
+      "code": "G07D7/004",
+      "level": 1,
+      "parent": "G07D7/00",
+      "ja": "デジタルセキュリティ要素を用いるもの，例．磁気スレッドや磁気ストライプ上のコード化された情報［２０１６．０１］",
+      "en": "using digital security elements, e.g. information coded on a magnetic thread or strip",
+      "count": 389,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D7/0043": {
+      "code": "G07D7/0043",
+      "level": 2,
+      "parent": "G07D7/004",
+      "ja": "バーコードを用いるもの［２０１６．０１］",
+      "en": "using barcodes",
+      "count": 256,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D7/0047": {
+      "code": "G07D7/0047",
+      "level": 2,
+      "parent": "G07D7/004",
+      "ja": "チェックコードを用いるもの，例．シリアル番号と額面から得たコードナンバー［２０１６．０１］",
+      "en": "using checkcodes, e.g. coded numbers derived from serial number and denomination",
+      "count": 573,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D7/005": {
+      "code": "G07D7/005",
+      "level": 1,
+      "parent": "G07D7/00",
+      "ja": "目視不可能なセキュリティマークを検査するもの，例．太線や，目立たないマークや改造を確認するもの［２０１６．０１］",
+      "en": "Testing security markings invisible to the naked eye, e.g. verifying thickened lines or unobtrusive markings or alterations",
+      "count": 315,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D7/01": {
+      "code": "G07D7/01",
+      "level": 1,
+      "parent": "G07D7/00",
+      "ja": "対象における電子回路を検査するもの［２０１６．０１］",
+      "en": "Testing electronic circuits therein",
+      "count": 112,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D7/02": {
+      "code": "G07D7/02",
+      "level": 1,
+      "parent": "G07D7/00",
+      "ja": "対象における電気的特性を検査するもの（Ｇ０７Ｄ７／０１が優先）［２０１６．０１］",
+      "en": "Testing electrical properties of the materials thereof(<b>G07D7/01</b> takes precedence)",
+      "count": 412,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D7/023": {
+      "code": "G07D7/023",
+      "level": 2,
+      "parent": "G07D7/02",
+      "ja": "直接接触により導電率を測定するもの［２０１６．０１］",
+      "en": "Measuring conductivity by direct contact",
+      "count": 21,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D7/026": {
+      "code": "G07D7/026",
+      "level": 2,
+      "parent": "G07D7/02",
+      "ja": "静電容量センサを用いるもの［２０１６．０１］",
+      "en": "using capacitive sensors",
+      "count": 80,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D7/04": {
+      "code": "G07D7/04",
+      "level": 1,
+      "parent": "G07D7/00",
+      "ja": "対象における磁気的特性を検査するもの，例．磁気による印の検出（Ｇ０７Ｄ７／０１が優先）［２０１６．０１］",
+      "en": "Testing magnetic properties of the materials thereof, e.g. by detection of magnetic imprint(<b>G07D7/01</b> takes precedence)",
+      "count": 2525,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D7/06": {
+      "code": "G07D7/06",
+      "level": 1,
+      "parent": "G07D7/00",
+      "ja": "波または粒子の照射によるもの［２００６．０１］",
+      "en": "using wave or particle radiation",
+      "count": 777,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D7/08": {
+      "code": "G07D7/08",
+      "level": 2,
+      "parent": "G07D7/06",
+      "ja": "音波［２００６．０１］",
+      "en": "Acoustic waves",
+      "count": 179,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D7/10": {
+      "code": "G07D7/10",
+      "level": 2,
+      "parent": "G07D7/06",
+      "ja": "マイクロ波［２００６．０１］",
+      "en": "Microwaves",
+      "count": 104,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D7/12": {
+      "code": "G07D7/12",
+      "level": 2,
+      "parent": "G07D7/06",
+      "ja": "可視光線，赤外線，または紫外線の照射［２０１６．０１］",
+      "en": "Visible light, infrared or ultraviolet radiation",
+      "count": 6457,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D7/1205": {
+      "code": "G07D7/1205",
+      "level": 3,
+      "parent": "G07D7/12",
+      "ja": "スペクトル特性を検査するもの［２０１６．０１］",
+      "en": "Testing spectral properties",
+      "count": 651,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D7/121": {
+      "code": "G07D7/121",
+      "level": 3,
+      "parent": "G07D7/12",
+      "ja": "センサーの細部により特徴付けられる装置［２０１６．０１］",
+      "en": "Apparatus characterised by sensor details",
+      "count": 652,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D7/128": {
+      "code": "G07D7/128",
+      "level": 3,
+      "parent": "G07D7/12",
+      "ja": "視覚的検査装置［［２０１６．０１］",
+      "en": "Viewing devices",
+      "count": 770,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D7/14": {
+      "code": "G07D7/14",
+      "level": 1,
+      "parent": "G07D7/00",
+      "ja": "化学的手段によるもの［２００６．０１］",
+      "en": "using chemical means",
+      "count": 160,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D7/15": {
+      "code": "G07D7/15",
+      "level": 1,
+      "parent": "G07D7/00",
+      "ja": "加熱手段を用いるもの［２０１６．０１］",
+      "en": "using heating means",
+      "count": 28,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D7/16": {
+      "code": "G07D7/16",
+      "level": 1,
+      "parent": "G07D7/00",
+      "ja": "寸法を検査をするもの［２０１６．０１］",
+      "en": "Testing the dimensions",
+      "count": 951,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D7/162": {
+      "code": "G07D7/162",
+      "level": 2,
+      "parent": "G07D7/16",
+      "ja": "長さまたは幅［２０１６．０１］",
+      "en": "Length or width",
+      "count": 257,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D7/164": {
+      "code": "G07D7/164",
+      "level": 2,
+      "parent": "G07D7/16",
+      "ja": "厚さ［２０１６．０１］",
+      "en": "Thickness",
+      "count": 535,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D7/17": {
+      "code": "G07D7/17",
+      "level": 1,
+      "parent": "G07D7/00",
+      "ja": "位置決め手段または位置決めに対応する手段によって特徴付けられる装置［２０１６．０１］",
+      "en": "Apparatus characterised by positioning means or by means responsive to positioning",
+      "count": 140,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D7/181": {
+      "code": "G07D7/181",
+      "level": 1,
+      "parent": "G07D7/00",
+      "ja": "機械的な特性または状態を検査するもの，例．擦り切れ，裂け目（Ｇ０７Ｄ７／１６が優先）［２０１６．０１］",
+      "en": "Testing mechanical properties or condition, e.g. wear or tear(<b>G07D7/16</b> takes precedence)",
+      "count": 135,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D7/182": {
+      "code": "G07D7/182",
+      "level": 2,
+      "parent": "G07D7/181",
+      "ja": "硬度を検査するもの［２０１６．０１］",
+      "en": "Testing stiffness",
+      "count": 280,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D7/183": {
+      "code": "G07D7/183",
+      "level": 2,
+      "parent": "G07D7/181",
+      "ja": "折りたたみまたは２枚重ねを検出するもの［２０１６．０１］",
+      "en": "Detecting folds or doubles",
+      "count": 129,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D7/185": {
+      "code": "G07D7/185",
+      "level": 2,
+      "parent": "G07D7/181",
+      "ja": "穴または細孔を検出するもの［２０１６．０１］",
+      "en": "Detecting holes or pores",
+      "count": 53,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D7/187": {
+      "code": "G07D7/187",
+      "level": 2,
+      "parent": "G07D7/181",
+      "ja": "摩損または汚れを検出するもの，例．泥［２０１６．０１］",
+      "en": "Detecting defacement or contamination, e.g. dirt",
+      "count": 241,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D7/189": {
+      "code": "G07D7/189",
+      "level": 2,
+      "parent": "G07D7/181",
+      "ja": "付着物を検出するもの，例．テープまたはクリップ（Ｇ０７Ｄ７／１８７が優先）［２０１６．０１］",
+      "en": "Detecting attached objects, e.g. tapes or clips(<b>G07D7/187</b> takes precedence)",
+      "count": 130,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D7/20": {
+      "code": "G07D7/20",
+      "level": 1,
+      "parent": "G07D7/00",
+      "ja": "描かれている模様の検査をするもの（Ｇ０７Ｄ７／００４，Ｇ０７Ｄ７／００５が優先）［２０１６．０１］",
+      "en": "Testing patterns thereon(<b>G07D7/004</b>, <b>G07D7/005</b> take precedence)",
+      "count": 4238,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D7/202": {
+      "code": "G07D7/202",
+      "level": 2,
+      "parent": "G07D7/20",
+      "ja": "模様の照合を用いるもの［２０１６．０１］",
+      "en": "using pattern matching",
+      "count": 518,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D7/2033": {
+      "code": "G07D7/2033",
+      "level": 3,
+      "parent": "G07D7/202",
+      "ja": "特有の模様の照合を行うもの，すなわち，個々の紙幣片ごとに特有の模様［２０１６．０１］",
+      "en": "Matching unique patterns, i.e. patterns that are unique to each individual paper",
+      "count": 166,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D7/206": {
+      "code": "G07D7/206",
+      "level": 3,
+      "parent": "G07D7/202",
+      "ja": "テンプレート模様との照合［２０１６．０１］",
+      "en": "Matching template patterns",
+      "count": 537,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D7/207": {
+      "code": "G07D7/207",
+      "level": 3,
+      "parent": "G07D7/202",
+      "ja": "２以上の層の相互作用により作られる模様との照合，例．モアレ模様［２０１６．０１］",
+      "en": "Matching patterns that are created by the interaction of two or more layers, e.g. moir&eacute; patterns",
+      "count": 63,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D9/00": {
+      "code": "G07D9/00",
+      "level": 0,
+      "parent": "G07D",
+      "ja": "コインの計数（コインの選別との組み合わせＧ０７Ｄ３／１６）；このサブクラスの他のグループに分類されないコインの取扱い［２００６．０１］",
+      "en": "Counting coins(in combination with coin-sorting <b>G07D3/16</b>);Handling of coins not provided for in the other groups of this subclass",
+      "count": 31418,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D9/02": {
+      "code": "G07D9/02",
+      "level": 1,
+      "parent": "G07D9/00",
+      "ja": "つり銭皿［２００６．０１］",
+      "en": "Change trays",
+      "count": 490,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D9/04": {
+      "code": "G07D9/04",
+      "level": 1,
+      "parent": "G07D9/00",
+      "ja": "コインの計数装置として手動またはモーター駆動のもの［２００６．０１］",
+      "en": "Hand- or motor-driven devices for counting coins",
+      "count": 1334,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D9/06": {
+      "code": "G07D9/06",
+      "level": 1,
+      "parent": "G07D9/00",
+      "ja": "支持台上にコインを積み重ね，その他並べる装置，例．コインの計数に使用する穴あき板［２００６．０１］",
+      "en": "Devices for stacking or otherwise arranging coins on a support, e.g. apertured plate for use in counting coins",
+      "count": 1575,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D11/00": {
+      "code": "G07D11/00",
+      "level": 0,
+      "parent": "G07D",
+      "ja": "コインを受け入れる装置；有価紙葉の受け入れ，取り出し，選別または計数を行う装置［２０１９．０１］",
+      "en": "Devices accepting coins; Devices accepting, dispensing, sorting or counting valuable papers",
+      "count": 11107,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D11/10": {
+      "code": "G07D11/10",
+      "level": 1,
+      "parent": "G07D11/00",
+      "ja": "機械的細部［２０１９．０１］",
+      "en": "Mechanical details",
+      "count": 945,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D11/12": {
+      "code": "G07D11/12",
+      "level": 2,
+      "parent": "G07D11/10",
+      "ja": "有価紙葉の収納部［２０１９．０１］",
+      "en": "Containers for valuable papers",
+      "count": 1009,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D11/125": {
+      "code": "G07D11/125",
+      "level": 3,
+      "parent": "G07D11/12",
+      "ja": "セキュア収納部［２０１９．０１］",
+      "en": "Secure containers",
+      "count": 368,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D11/13": {
+      "code": "G07D11/13",
+      "level": 3,
+      "parent": "G07D11/12",
+      "ja": "有価紙葉を取扱うための内部手段を備えるもの［２０１９．０１］",
+      "en": "with internal means for handling valuable papers",
+      "count": 438,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D11/14": {
+      "code": "G07D11/14",
+      "level": 2,
+      "parent": "G07D11/10",
+      "ja": "挿入口または排出口［２０１９．０１］",
+      "en": "Inlet or outlet ports",
+      "count": 976,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D11/16": {
+      "code": "G07D11/16",
+      "level": 2,
+      "parent": "G07D11/10",
+      "ja": "有価紙葉を取扱うもの（収納部内のものＧ０７Ｄ１１／１３）［２０１９．０１］",
+      "en": "Handling of valuable papers(within containers <b>G07D11/13</b>)",
+      "count": 1309,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D11/165": {
+      "code": "G07D11/165",
+      "level": 3,
+      "parent": "G07D11/16",
+      "ja": "選び取るもの［２０１９．０１］",
+      "en": "Picking",
+      "count": 362,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D11/17": {
+      "code": "G07D11/17",
+      "level": 3,
+      "parent": "G07D11/16",
+      "ja": "整列するもの［２０１９．０１］",
+      "en": "Aligning",
+      "count": 165,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D11/175": {
+      "code": "G07D11/175",
+      "level": 3,
+      "parent": "G07D11/16",
+      "ja": "平らにするもの，例．折り目を伸ばすもの［２０１９．０１］",
+      "en": "Flattening, e.g. straightening out folds",
+      "count": 178,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D11/18": {
+      "code": "G07D11/18",
+      "level": 3,
+      "parent": "G07D11/16",
+      "ja": "異なる通路または収納部へと振り分けるもの［２０１９．０１］",
+      "en": "Diverting into different paths or containers",
+      "count": 704,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D11/20": {
+      "code": "G07D11/20",
+      "level": 1,
+      "parent": "G07D11/00",
+      "ja": "装置の動作を制御または監視するもの；データを取扱うもの［２０１９．０１］",
+      "en": "Controlling or monitoring the operation of devices; Data handling",
+      "count": 394,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D11/22": {
+      "code": "G07D11/22",
+      "level": 2,
+      "parent": "G07D11/20",
+      "ja": "センシングまたは検出のための手段［２０１９．０１］",
+      "en": "Means for sensing or detection",
+      "count": 339,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D11/225": {
+      "code": "G07D11/225",
+      "level": 3,
+      "parent": "G07D11/22",
+      "ja": "改ざんを検出または示すためのもの［２０１９．０１］",
+      "en": "for detecting or indicating tampering",
+      "count": 107,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D11/23": {
+      "code": "G07D11/23",
+      "level": 3,
+      "parent": "G07D11/22",
+      "ja": "収納部内の有価紙葉の量を検知するためのもの［２０１９．０１］",
+      "en": "for sensing the quantity of valuable papers in containers",
+      "count": 226,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D11/235": {
+      "code": "G07D11/235",
+      "level": 3,
+      "parent": "G07D11/22",
+      "ja": "動作状態を監視または示すためのもの；異常を検出するためのもの［２０１９．０１］",
+      "en": "for monitoring or indicating operating conditions; for detecting malfunctions",
+      "count": 242,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D11/237": {
+      "code": "G07D11/237",
+      "level": 4,
+      "parent": "G07D11/235",
+      "ja": "搬送異常の検出のためのもの，例．詰まりまたはミスフィード［２０１９．０１］",
+      "en": "for detecting transport malfunctions, e.g. jams or misfeeds",
+      "count": 173,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D11/24": {
+      "code": "G07D11/24",
+      "level": 2,
+      "parent": "G07D11/20",
+      "ja": "有価紙葉の在庫を管理するためのもの［２０１９．０１］",
+      "en": "Managing the inventory of valuable papers",
+      "count": 295,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D11/245": {
+      "code": "G07D11/245",
+      "level": 3,
+      "parent": "G07D11/24",
+      "ja": "補充［２０１９．０１］",
+      "en": "Replenishment",
+      "count": 148,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D11/25": {
+      "code": "G07D11/25",
+      "level": 3,
+      "parent": "G07D11/24",
+      "ja": "装置内での有価紙葉の配置転換［２０１９．０１］",
+      "en": "Relocation of valuable papers within devices",
+      "count": 115,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D11/26": {
+      "code": "G07D11/26",
+      "level": 2,
+      "parent": "G07D11/20",
+      "ja": "保守，修理，または異常への対処，例．停電または破壊行為［２０１９．０１］",
+      "en": "Servicing, repairing or coping with irregularities, e.g. power failure or vandalism",
+      "count": 376,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D11/28": {
+      "code": "G07D11/28",
+      "level": 2,
+      "parent": "G07D11/20",
+      "ja": "パラメーターの設定；ソフトウェアのアップデート［２０１９．０１］",
+      "en": "Setting of parameters; Software updates",
+      "count": 92,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D11/30": {
+      "code": "G07D11/30",
+      "level": 2,
+      "parent": "G07D11/20",
+      "ja": "有価紙葉またはカセットを追跡または突き止めるためのもの［２０１９．０１］",
+      "en": "Tracking or tracing valuable papers or cassettes",
+      "count": 138,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D11/32": {
+      "code": "G07D11/32",
+      "level": 2,
+      "parent": "G07D11/20",
+      "ja": "記録の保持（取り引きに関するものＧ０７Ｆ１９／００）［２０１９．０１］",
+      "en": "Record keeping(transaction aspects <b>G07F19/00</b>)",
+      "count": 175,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D11/34": {
+      "code": "G07D11/34",
+      "level": 3,
+      "parent": "G07D11/32",
+      "ja": "装置の内容量の監視，例．保管された有価紙葉の数［２０１９．０１］",
+      "en": "Monitoring the contents of devices, e.g. the number of stored valuable papers",
+      "count": 179,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D11/36": {
+      "code": "G07D11/36",
+      "level": 3,
+      "parent": "G07D11/32",
+      "ja": "動作の監査［２０１９．０１］",
+      "en": "Auditing of activities",
+      "count": 62,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D11/40": {
+      "code": "G07D11/40",
+      "level": 1,
+      "parent": "G07D11/00",
+      "ja": "装置構成，例．モジュール構成［２０１９．０１］",
+      "en": "Device architecture, e.g. modular construction",
+      "count": 471,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D11/50": {
+      "code": "G07D11/50",
+      "level": 1,
+      "parent": "G07D11/00",
+      "ja": "有価紙葉の選別または計数［２０１９．０１］",
+      "en": "Sorting or counting valuable papers",
+      "count": 833,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D11/60": {
+      "code": "G07D11/60",
+      "level": 1,
+      "parent": "G07D11/00",
+      "ja": "ユーザーインターフェース装置［２０１９．０１］",
+      "en": "User-interface arrangements",
+      "count": 474,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    },
+    "G07D13/00": {
+      "code": "G07D13/00",
+      "level": 0,
+      "parent": "G07D",
+      "ja": "グループＧ０７Ｄ１／００～Ｇ０７Ｄ１１／００までの単一のグループに分類されない組み合わせに特徴づけられるコインまたは有価紙葉の取扱い［２００６．０１］",
+      "en": "Handling of coins or of valuable papers, characterised by a combination of mechanisms not covered by a single one of groups <b>G07D1/00 to G07D11/00</b> ",
+      "count": 3941,
+      "sourceFile": "ipc_G07D.txt",
+      "kind": "ipc"
+    }
+  }
+}

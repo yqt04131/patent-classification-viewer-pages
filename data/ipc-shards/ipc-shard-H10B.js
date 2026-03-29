@@ -1,0 +1,576 @@
+window.IPC_SHARD_H10B = {
+  "generatedAt": "2026-03-20T02:17:47.325Z",
+  "total": 57,
+  "entries": {
+    "H10B": {
+      "code": "H10B",
+      "level": 0,
+      "parent": "H10",
+      "ja": "電子記憶装置［２０２３．０１］<br><br><b><ul>注</ul></b><br>このサブクラスでは、セクションＣの注（３）の周期表中に示されたＩ～ＶＩＩＩ族のシステムが用いられる。<br><br><b><ul>サブクラス内の索引</ul></b><br>揮発性記憶装置<br>ＳＲＡＭ　１０／００<br>ＤＲＡＭ　１２／００<br>不揮発性記憶装置<br>ＲＯＭ；ＰＲＯＭ；ＥＰＲＯＭ　２０／００<br>フローティングゲートを含むＥＥＰＲＯＭ　４１／００<br>電荷トラッピングゲート絶縁体を含むＥＥＰＲＯＭ　４３／００<br>強誘電性のメモリトランジスタを含むＦｅＲＡＭ　５１／００<br>強誘電性のメモリキャパシタを含むＦｅＲＡＭ　５３／００<br>ＭＲＡＭ　６１／００<br>抵抗変化メモリ　６３／００<br>他のＥＰＲＯＭ　６９／００<br>複数の装置の組立体　８０／００<br>他の電子記憶装置<br>このサブクラスの他のグループに分類されない主題事項　９９／００<br>",
+      "en": "ELECTRONIC MEMORY DEVICES; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this subclass, the periodic system used is the I to VIII group system indicated in the Periodic Table under Note (3) of section <b>C</b>.</li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">VOLATILE MEMORY DEVICES<tr><td width=\"70%\">SRAMs</td><td><b><b>10/00</b></b></td></tr></tr><tr><td width=\"70%\">DRAMs</td><td><b><b>12/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">NON-VOLATILE MEMORY DEVICES<tr><td width=\"70%\">ROMs; PROMs; EPROMs</td><td><b><b>20/00</b></b></td></tr></tr><tr><td width=\"70%\">EEPROMs with floating gates</td><td><b><b>41/00</b></b></td></tr></tr><tr><td width=\"70%\">EEPROMs with charge-trapping gate insulators</td><td><b><b>43/00</b></b></td></tr></tr><tr><td width=\"70%\">FeRAMs with ferroelectric memory transistors</td><td><b><b>51/00</b></b></td></tr></tr><tr><td width=\"70%\">FeRAMs with ferroelectric memory capacitors</td><td><b><b>53/00</b></b></td></tr></tr><tr><td width=\"70%\">MRAMs</td><td><b><b>61/00</b></b></td></tr></tr><tr><td width=\"70%\">Resistance change RAMs</td><td><b><b>63/00</b></b></td></tr></tr><tr><td width=\"70%\">Other EPROMs</td><td><b><b>69/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">ASSEMBLIES OF MULTIPLE DEVICES</td><td><b><b>80/00</b></b></td></tr></tr><tr><td width=\"70%\">SUBJECT MATTER NOT PROVIDED FOR IN OTHER GROUPS OF THIS SUBCLASS</td><td><b><b>99/00</b></b></td></tr></tr></table>",
+      "count": 0,
+      "sourceFile": "ipc_H.txt",
+      "kind": "ipc"
+    },
+    "H10": {
+      "code": "H10",
+      "level": 0,
+      "parent": "H",
+      "ja": "半導体装置；他に分類されない電気的固体装置［２０２３．０１］",
+      "en": "SEMICONDUCTOR DEVICES; ELECTRIC SOLID-STATE DEVICES NOT OTHERWISE PROVIDED FOR",
+      "count": 0,
+      "sourceFile": "ipc_H.txt",
+      "kind": "ipc"
+    },
+    "H": {
+      "code": "H",
+      "level": 0,
+      "parent": null,
+      "ja": "電気<br><br><b><ul>注</ul></b><br>（利用にあたっての基本原則と一般的指示）<br>Ｉ．セクションＨは以下のものを包含する：<br>（ａ）基本的電気素子，これは全ての電気ユニットと，装置や回路の一般的な機械的構成を包含しており，その中にはプリント配線と称されるものに各種の基本素子を組み立てたものも含まれる。またこれは他に包含されない場合には，ある程度までこれらの素子の製造をも包含する；<br>（ｂ）発電，これは，発電，変換および配電と共にそのための装置の制御を包含する；<br>（ｃ）電気の応用，これは以下のものを包含する：<br>（ｉ）一般的な利用技術，すなわち．電気加熱と電気照明回路の利用技術；<br>（ｉｉ）厳密な意味で電気的か電子的かいずれかの特定の利用技術で国際特許分類の他のセクションに包含されないもの，これは以下のものを含んでいる：<br>（１）電気的光源，これはレーザーを含む；<br>（２）電気的なＸ線技術；<br>（３）電気的なプラズマ技術，および帯電粒子または中性子の発生および加速；<br>（ｄ）基本電子回路およびその制御；<br>（ｅ）電気通信技術；これは電気―機械変換器一般を含む；<br>（ｆ）物品や上記素子を作るための特定の材料の使用，この点については指針の８８項から９０項を参照されたい。<br>ＩＩ．このセクションにおいては，下記の一般規則が適用される：<br>（ａ）上記Ｉ（ｃ）で述べた例外を除いて，国際特許分類のセクションＨ以外のいずれかのセクションに分類される特殊な操作，方法，装置，物体または物品に特有の電気的観点または部分は，常にその操作，方法，装置，物体または物品のためのサブクラスに分類されるか，または類似の性質を有する技術主題に関する共通的な特徴がクラス・レベルで展開されている場合には，それは，該技術主題のための一般的電気的な応用を完全に包含するサブクラスに，その操作，方法，装置，物体または物品と関連して分類される；<br>（ｂ）この様な電気的な応用には，一般的なものであれ特殊なものであれ，次の事項が含まれる。<br>（ｉ）Ａ６１における治療方法および装置；<br>（ｉｉ）Ｂ０１，Ｂ０３およびＢ２３Ｋにおける各種の実験室または工業的操作に用いられる電気的方法および装置；<br>（ｉｉｉ）セクションＢの“運輸”のサブセクションにおける車両一般および特殊な車両への電気の供給，電気的推進および電気照明；<br>（ｉｖ）Ｆ０２Ｐにおける内燃機関の電気点火系，およびＦ２３Ｑにおける燃焼装置一般のもの；<br>（ｖ）セクションＧにおける全ての電気的部分，すなわち，電気変量の測定器を含む測定装置，検査，信号および計算。このＧセクションにおいて電気とは，一般に手段として扱われるものでそれ自体目的として扱われるものではない；<br>（ｃ）全ての電気的な応用は一般的なものであれ特殊なものであれ，それが含んでいる電気的“基本的素子”に関して言えば，“基本的な電気”の観点がセクションＨ（上記Ｉ（ａ）参照）にあることを前提としている。この規則は，セクションＨ自身にある上記Ｉ（ｃ）で示した電気の応用に対しても有効である。",
+      "en": "ELECTRICITY; <br><br><b><u>Note(s)</u></b><br><br><ul><li>These Notes cover the basic principles and general instructions for use of section <b>H</b>.<ul><li>Section <b>H</b> <u>covers</u>: <ul><li>basic electric elements, which cover all electric units and the general mechanical structure of apparatus and circuits, including the assembly of various basic elements into what are called printed circuits and also cover to a certain extent the manufacture of these elements (when not covered elsewhere);</li><li>generation of electricity, which covers the generation, conversion and distribution of electricity together with the controlling of the corresponding gear;</li><li>applied electricity, which <u>covers</u>: <ul><li>general utilisation techniques, viz. those of electric heating and electric lighting circuits;</li><li>some special utilisation techniques, either electric or electronic in the strict sense, which are not covered by other sections of the Classification, including: <ul><li>electric light sources, including lasers;</li><li>electric X-ray technique;</li><li>electric plasma technique and the generation and acceleration of electrically charged particles or neutrons;</li></ul></li></ul></li><li>basic electronic circuits and their control;</li><li>radio or electric communication technique;</li><li>the use of a specified material for the manufacture of the article or element described. In this connection, paragraphs 88 to 90 of the Guide should be referred to.</li></ul></li><li>In this section, the following general rules apply: <ul><li>Subject to the exceptions stated in I(c), above, any electric aspect or part peculiar to a particular operation, process, apparatus, object or article, classified in one of the sections of the Classification other than section <b>H</b>, is always classified in the subclass for that operation, process, apparatus, object or article. Where common characteristics concerning technical subjects of similar nature have been brought out at class level, the electric aspect or part is classified, in conjunction with the operation, process, apparatus, object or article, in a subclass which covers entirely the general electrical applications for the technical subject in question;</li><li>The electrical applications referred to under (a), above, either general or particular, include: <ul><li>the therapeutic processes and apparatus, in class <b>A61</b>;</li><li>the electric processes and apparatus used in various laboratory or industrial operations, in classes <b>B01</b> and <b>B03</b> and in subclass <b>B23K</b>;</li><li>the electricity supply, electric propulsion and electric lighting of vehicles in general and of particular vehicles, in the subsection \"Transporting\" of section <b>B</b>;</li><li>the electric ignition systems of internal-combustion engines, in subclass <b>F02P</b>, and of combustion apparatus in general, in subclass <b>F23Q</b>;</li><li>the whole electrical part of section <b>G</b>, i.e. measuring devices including apparatus for measuring electric variables, checking, signalling and calculating. Electricity in that section is generally dealt with as a means and not as an end in itself;</li></ul></li><li>All electrical applications, both general and particular, presuppose that the \"basic electricity\" aspect appears in section <b>H</b> (see I(a) above) as regards the electric \"basic elements\" which they comprise. This rule is also valid for applied electricity, referred to in I(c), above, which appears in section <b>H</b> itself.</li></ul></li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_H.txt",
+      "kind": "ipc"
+    },
+    "H10B10/00": {
+      "code": "H10B10/00",
+      "level": 0,
+      "parent": "H10B",
+      "ja": "スタティックランダムアクセスメモリ［ＳＲＡＭ］装置［２０２３．０１］",
+      "en": "Static random access memory [SRAM] devices",
+      "count": 9197,
+      "sourceFile": "ipc_H10B.txt",
+      "kind": "ipc"
+    },
+    "H10B10/10": {
+      "code": "H10B10/10",
+      "level": 1,
+      "parent": "H10B10/00",
+      "ja": "バイポーラ構成部品からなるＳＲＡＭ装置［２０２３．０１］",
+      "en": "SRAM devices comprising bipolar components",
+      "count": 25,
+      "sourceFile": "ipc_H10B.txt",
+      "kind": "ipc"
+    },
+    "H10B12/00": {
+      "code": "H10B12/00",
+      "level": 0,
+      "parent": "H10B",
+      "ja": "ダイナミックランダムアクセスメモリ［ＤＲＡＭ］装置［２０２３．０１］",
+      "en": "Dynamic random access memory [DRAM] devices",
+      "count": 43618,
+      "sourceFile": "ipc_H10B.txt",
+      "kind": "ipc"
+    },
+    "H10B12/10": {
+      "code": "H10B12/10",
+      "level": 1,
+      "parent": "H10B12/00",
+      "ja": "バイポーラ構成部品からなるＤＲＡＭ装置［２０２３．０１］",
+      "en": "DRAM devices comprising bipolar components",
+      "count": 76,
+      "sourceFile": "ipc_H10B.txt",
+      "kind": "ipc"
+    },
+    "H10B20/00": {
+      "code": "H10B20/00",
+      "level": 0,
+      "parent": "H10B",
+      "ja": "読み出し専用メモリ［ＲＯＭ］装置［２０２３．０１］",
+      "en": "Read-only memory [ROM] devices",
+      "count": 10023,
+      "sourceFile": "ipc_H10B.txt",
+      "kind": "ipc"
+    },
+    "H10B20/10": {
+      "code": "H10B20/10",
+      "level": 1,
+      "parent": "H10B20/00",
+      "ja": "バイポーラ構成部品からなるＲＯＭ装置［２０２３．０１］",
+      "en": "ROM devices comprising bipolar components",
+      "count": 6,
+      "sourceFile": "ipc_H10B.txt",
+      "kind": "ipc"
+    },
+    "H10B20/20": {
+      "code": "H10B20/20",
+      "level": 1,
+      "parent": "H10B20/00",
+      "ja": "電界効果構成部品からなる書き込み可能なＲＯＭ［ＰＲＯＭ］装置（Ｈ１０Ｂ２０／１０が優先）［２０２３．０１］",
+      "en": "Programmable ROM [PROM] devices comprising field-effect components(<b>H10B20/10</b> takes precedence)",
+      "count": 175,
+      "sourceFile": "ipc_H10B.txt",
+      "kind": "ipc"
+    },
+    "H10B20/25": {
+      "code": "H10B20/25",
+      "level": 2,
+      "parent": "H10B20/20",
+      "ja": "一回のみ書き込み可能なＲＯＭ［ＯＴＰＲＯＭ］装置，例．電気的に溶断可能なリンクを用いるもの［２０２３．０１］",
+      "en": "One-time programmable ROM [OTPROM] devices, e.g. using electrically-fusible links",
+      "count": 394,
+      "sourceFile": "ipc_H10B.txt",
+      "kind": "ipc"
+    },
+    "H10B41/00": {
+      "code": "H10B41/00",
+      "level": 0,
+      "parent": "H10B",
+      "ja": "フローティングゲートを含む電気的消去・書き込み可能なＲＯＭ［ＥＥＰＲＯＭ］装置［２０２３．０１］",
+      "en": "Electrically erasable-and-programmable ROM [EEPROM] devices comprising floating gates",
+      "count": 871,
+      "sourceFile": "ipc_H10B.txt",
+      "kind": "ipc"
+    },
+    "H10B41/10": {
+      "code": "H10B41/10",
+      "level": 1,
+      "parent": "H10B41/00",
+      "ja": "上から見たレイアウトに特徴のあるもの［２０２３．０１］",
+      "en": "characterised by the top-view layout",
+      "count": 2152,
+      "sourceFile": "ipc_H10B.txt",
+      "kind": "ipc"
+    },
+    "H10B41/20": {
+      "code": "H10B41/20",
+      "level": 1,
+      "parent": "H10B41/00",
+      "ja": "三次元配置，例．異なる高さに配置されたセル，に特徴のあるもの［２０２３．０１］",
+      "en": "characterised by three-dimensional [3D] arrangements, e.g. with cells on different height levels",
+      "count": 2273,
+      "sourceFile": "ipc_H10B.txt",
+      "kind": "ipc"
+    },
+    "H10B41/23": {
+      "code": "H10B41/23",
+      "level": 2,
+      "parent": "H10B41/20",
+      "ja": "異なる高さのソースとドレインを有するもの，例．傾斜チャネルを有するもの［２０２３．０１］",
+      "en": "with source and drain on different levels, e.g. with sloping channels",
+      "count": 95,
+      "sourceFile": "ipc_H10B.txt",
+      "kind": "ipc"
+    },
+    "H10B41/27": {
+      "code": "H10B41/27",
+      "level": 3,
+      "parent": "H10B41/23",
+      "ja": "垂直部分を含むチャネル，例．Ｕ字型チャネル［２０２３．０１］",
+      "en": "the channels comprising vertical portions, e.g. U-shaped channels",
+      "count": 5743,
+      "sourceFile": "ipc_H10B.txt",
+      "kind": "ipc"
+    },
+    "H10B41/30": {
+      "code": "H10B41/30",
+      "level": 1,
+      "parent": "H10B41/00",
+      "ja": "メモリコア領域に特徴のあるもの［２０２３．０１］",
+      "en": "characterised by the memory core region",
+      "count": 3042,
+      "sourceFile": "ipc_H10B.txt",
+      "kind": "ipc"
+    },
+    "H10B41/35": {
+      "code": "H10B41/35",
+      "level": 2,
+      "parent": "H10B41/30",
+      "ja": "セル選択トランジスタを有するもの，例．ＮＡＮＤ［２０２３．０１］",
+      "en": "with a cell select transistor, e.g. NAND",
+      "count": 4805,
+      "sourceFile": "ipc_H10B.txt",
+      "kind": "ipc"
+    },
+    "H10B41/40": {
+      "code": "H10B41/40",
+      "level": 1,
+      "parent": "H10B41/00",
+      "ja": "周辺回路領域に特徴のあるもの［２０２３．０１］",
+      "en": "characterised by the peripheral circuit region",
+      "count": 1723,
+      "sourceFile": "ipc_H10B.txt",
+      "kind": "ipc"
+    },
+    "H10B41/41": {
+      "code": "H10B41/41",
+      "level": 2,
+      "parent": "H10B41/40",
+      "ja": "メモリ領域にセル選択トランジスタを有するもの，例．ＮＡＮＤ［２０２３．０１］",
+      "en": "of a memory region comprising a cell select transistor, e.g. NAND",
+      "count": 1851,
+      "sourceFile": "ipc_H10B.txt",
+      "kind": "ipc"
+    },
+    "H10B41/42": {
+      "code": "H10B41/42",
+      "level": 2,
+      "parent": "H10B41/40",
+      "ja": "周辺セルおよびメモリセルの同時製造［２０２３．０１］",
+      "en": "Simultaneous manufacture of periphery and memory cells",
+      "count": 481,
+      "sourceFile": "ipc_H10B.txt",
+      "kind": "ipc"
+    },
+    "H10B41/43": {
+      "code": "H10B41/43",
+      "level": 3,
+      "parent": "H10B41/42",
+      "ja": "周辺トランジスタを一種類のみ含むもの［２０２３．０１］",
+      "en": "comprising only one type of peripheral transistor",
+      "count": 86,
+      "sourceFile": "ipc_H10B.txt",
+      "kind": "ipc"
+    },
+    "H10B41/44": {
+      "code": "H10B41/44",
+      "level": 4,
+      "parent": "H10B41/43",
+      "ja": "コントロールゲート層を周辺トランジスタの一部としても用いるもの［２０２３．０１］",
+      "en": "with a control gate layer also being used as part of the peripheral transistor",
+      "count": 138,
+      "sourceFile": "ipc_H10B.txt",
+      "kind": "ipc"
+    },
+    "H10B41/46": {
+      "code": "H10B41/46",
+      "level": 4,
+      "parent": "H10B41/43",
+      "ja": "ゲート間誘電体層を周辺トランジスタの一部としても用いるもの［２０２３．０１］",
+      "en": "with an inter-gate dielectric layer also being used as part of the peripheral transistor",
+      "count": 65,
+      "sourceFile": "ipc_H10B.txt",
+      "kind": "ipc"
+    },
+    "H10B41/47": {
+      "code": "H10B41/47",
+      "level": 4,
+      "parent": "H10B41/43",
+      "ja": "フローティングゲート層を周辺トランジスタの一部としても用いるもの［２０２３．０１］",
+      "en": "with a floating-gate layer also being used as part of the peripheral transistor",
+      "count": 62,
+      "sourceFile": "ipc_H10B.txt",
+      "kind": "ipc"
+    },
+    "H10B41/48": {
+      "code": "H10B41/48",
+      "level": 4,
+      "parent": "H10B41/43",
+      "ja": "トンネル誘電体層を周辺トランジスタの一部としても用いるもの［２０２３．０１］",
+      "en": "with a tunnel dielectric layer also being used as part of the peripheral transistor",
+      "count": 59,
+      "sourceFile": "ipc_H10B.txt",
+      "kind": "ipc"
+    },
+    "H10B41/49": {
+      "code": "H10B41/49",
+      "level": 3,
+      "parent": "H10B41/42",
+      "ja": "異なる種類の周辺トランジスタを含むもの［２０２３．０１］",
+      "en": "comprising different types of peripheral transistor",
+      "count": 174,
+      "sourceFile": "ipc_H10B.txt",
+      "kind": "ipc"
+    },
+    "H10B41/50": {
+      "code": "H10B41/50",
+      "level": 1,
+      "parent": "H10B41/00",
+      "ja": "コアと周辺回路領域との間の境界領域に特徴のあるもの［２０２３．０１］",
+      "en": "characterised by the boundary region between the core region and the peripheral circuit region",
+      "count": 1757,
+      "sourceFile": "ipc_H10B.txt",
+      "kind": "ipc"
+    },
+    "H10B41/60": {
+      "code": "H10B41/60",
+      "level": 1,
+      "parent": "H10B41/00",
+      "ja": "コントロールゲートがドープ領域であるもの，例．単層ポリメモリセル［２０２３．０１］",
+      "en": "the control gate being a doped region, e.g. single-poly memory cell",
+      "count": 189,
+      "sourceFile": "ipc_H10B.txt",
+      "kind": "ipc"
+    },
+    "H10B41/70": {
+      "code": "H10B41/70",
+      "level": 1,
+      "parent": "H10B41/00",
+      "ja": "フローティングゲートが複数の構成部品で共有される電極であるもの［２０２３．０１］",
+      "en": "the floating gate being an electrode shared by two or more components",
+      "count": 954,
+      "sourceFile": "ipc_H10B.txt",
+      "kind": "ipc"
+    },
+    "H10B43/00": {
+      "code": "H10B43/00",
+      "level": 0,
+      "parent": "H10B",
+      "ja": "電荷トラッピングゲート絶縁体を含むＥＥＰＲＯＭ装置［２０２３．０１］",
+      "en": "EEPROM devices comprising charge-trapping gate insulators",
+      "count": 600,
+      "sourceFile": "ipc_H10B.txt",
+      "kind": "ipc"
+    },
+    "H10B43/10": {
+      "code": "H10B43/10",
+      "level": 1,
+      "parent": "H10B43/00",
+      "ja": "上から見たレイアウトに特徴のあるもの［２０２３．０１］",
+      "en": "characterised by the top-view layout",
+      "count": 3238,
+      "sourceFile": "ipc_H10B.txt",
+      "kind": "ipc"
+    },
+    "H10B43/20": {
+      "code": "H10B43/20",
+      "level": 1,
+      "parent": "H10B43/00",
+      "ja": "三次元配置，例．異なる高さに配置されたセル，に特徴のあるもの［２０２３．０１］",
+      "en": "characterised by three-dimensional [3D] arrangements, e.g. with cells on different height levels",
+      "count": 2956,
+      "sourceFile": "ipc_H10B.txt",
+      "kind": "ipc"
+    },
+    "H10B43/23": {
+      "code": "H10B43/23",
+      "level": 2,
+      "parent": "H10B43/20",
+      "ja": "異なる高さのソースとドレインを有するもの，例．傾斜チャネルを有するもの［２０２３．０１］",
+      "en": "with source and drain on different levels, e.g. with sloping channels",
+      "count": 147,
+      "sourceFile": "ipc_H10B.txt",
+      "kind": "ipc"
+    },
+    "H10B43/27": {
+      "code": "H10B43/27",
+      "level": 3,
+      "parent": "H10B43/23",
+      "ja": "垂直部分を含むチャネル，例．Ｕ字型チャネル［２０２３．０１］",
+      "en": "the channels comprising vertical portions, e.g. U-shaped channels",
+      "count": 8825,
+      "sourceFile": "ipc_H10B.txt",
+      "kind": "ipc"
+    },
+    "H10B43/30": {
+      "code": "H10B43/30",
+      "level": 1,
+      "parent": "H10B43/00",
+      "ja": "メモリコア領域に特徴のあるもの［２０２３．０１］",
+      "en": "characterised by the memory core region",
+      "count": 2657,
+      "sourceFile": "ipc_H10B.txt",
+      "kind": "ipc"
+    },
+    "H10B43/35": {
+      "code": "H10B43/35",
+      "level": 2,
+      "parent": "H10B43/30",
+      "ja": "セル選択トランジスタを有するもの，例．ＮＡＮＤ［２０２３．０１］",
+      "en": "with cell select transistors, e.g. NAND",
+      "count": 6474,
+      "sourceFile": "ipc_H10B.txt",
+      "kind": "ipc"
+    },
+    "H10B43/40": {
+      "code": "H10B43/40",
+      "level": 1,
+      "parent": "H10B43/00",
+      "ja": "周辺回路領域に特徴のあるもの［２０２３．０１］",
+      "en": "characterised by the peripheral circuit region",
+      "count": 3932,
+      "sourceFile": "ipc_H10B.txt",
+      "kind": "ipc"
+    },
+    "H10B43/50": {
+      "code": "H10B43/50",
+      "level": 1,
+      "parent": "H10B43/00",
+      "ja": "コアと周辺回路領域との間の境界領域に特徴のあるもの［２０２３．０１］",
+      "en": "characterised by the boundary region between the core and peripheral circuit regions",
+      "count": 2922,
+      "sourceFile": "ipc_H10B.txt",
+      "kind": "ipc"
+    },
+    "H10B51/00": {
+      "code": "H10B51/00",
+      "level": 0,
+      "parent": "H10B",
+      "ja": "強誘電性のメモリトランジスタを含む強誘電体メモリ［ＦｅＲＡＭ］装置［２０２３．０１］",
+      "en": "Ferroelectric RAM [FeRAM] devices comprising ferroelectric memory transistors",
+      "count": 362,
+      "sourceFile": "ipc_H10B.txt",
+      "kind": "ipc"
+    },
+    "H10B51/10": {
+      "code": "H10B51/10",
+      "level": 1,
+      "parent": "H10B51/00",
+      "ja": "上から見たレイアウトに特徴のあるもの［２０２３．０１］",
+      "en": "characterised by the top-view layout",
+      "count": 362,
+      "sourceFile": "ipc_H10B.txt",
+      "kind": "ipc"
+    },
+    "H10B51/20": {
+      "code": "H10B51/20",
+      "level": 1,
+      "parent": "H10B51/00",
+      "ja": "三次元配置，例．異なる高さに配置されたセル，に特徴のあるもの［２０２３．０１］",
+      "en": "characterised by the three-dimensional [3D] arrangements, e.g. with cells on different height levels",
+      "count": 885,
+      "sourceFile": "ipc_H10B.txt",
+      "kind": "ipc"
+    },
+    "H10B51/30": {
+      "code": "H10B51/30",
+      "level": 1,
+      "parent": "H10B51/00",
+      "ja": "メモリコア領域に特徴のあるもの［２０２３．０１］",
+      "en": "characterised by the memory core region",
+      "count": 1286,
+      "sourceFile": "ipc_H10B.txt",
+      "kind": "ipc"
+    },
+    "H10B51/40": {
+      "code": "H10B51/40",
+      "level": 1,
+      "parent": "H10B51/00",
+      "ja": "周辺回路領域に特徴のあるもの［２０２３．０１］",
+      "en": "characterised by the peripheral circuit region",
+      "count": 254,
+      "sourceFile": "ipc_H10B.txt",
+      "kind": "ipc"
+    },
+    "H10B51/50": {
+      "code": "H10B51/50",
+      "level": 1,
+      "parent": "H10B51/00",
+      "ja": "コアと周辺回路領域との間の境界領域に特徴のあるもの［２０２３．０１］",
+      "en": "characterised by the boundary region between the core and peripheral circuit regions",
+      "count": 141,
+      "sourceFile": "ipc_H10B.txt",
+      "kind": "ipc"
+    },
+    "H10B53/00": {
+      "code": "H10B53/00",
+      "level": 0,
+      "parent": "H10B",
+      "ja": "強誘電性のメモリキャパシタを含む強誘電体メモリ［ＦｅＲＡＭ］装置［２０２３．０１］",
+      "en": "Ferroelectric RAM [FeRAM] devices comprising ferroelectric memory capacitors",
+      "count": 445,
+      "sourceFile": "ipc_H10B.txt",
+      "kind": "ipc"
+    },
+    "H10B53/10": {
+      "code": "H10B53/10",
+      "level": 1,
+      "parent": "H10B53/00",
+      "ja": "上から見たレイアウトに特徴のあるもの［２０２３．０１］",
+      "en": "characterised by the top-view layout",
+      "count": 160,
+      "sourceFile": "ipc_H10B.txt",
+      "kind": "ipc"
+    },
+    "H10B53/20": {
+      "code": "H10B53/20",
+      "level": 1,
+      "parent": "H10B53/00",
+      "ja": "三次元配置，例．異なる高さに配置されたセル，に特徴のあるもの［２０２３．０１］",
+      "en": "characterised by the three-dimensional [3D] arrangements, e.g. with cells on different height levels",
+      "count": 526,
+      "sourceFile": "ipc_H10B.txt",
+      "kind": "ipc"
+    },
+    "H10B53/30": {
+      "code": "H10B53/30",
+      "level": 1,
+      "parent": "H10B53/00",
+      "ja": "メモリコア領域に特徴のあるもの［２０２３．０１］",
+      "en": "characterised by the memory core region",
+      "count": 1200,
+      "sourceFile": "ipc_H10B.txt",
+      "kind": "ipc"
+    },
+    "H10B53/40": {
+      "code": "H10B53/40",
+      "level": 1,
+      "parent": "H10B53/00",
+      "ja": "周辺回路領域に特徴のあるもの［２０２３．０１］",
+      "en": "characterised by the peripheral circuit region",
+      "count": 228,
+      "sourceFile": "ipc_H10B.txt",
+      "kind": "ipc"
+    },
+    "H10B53/50": {
+      "code": "H10B53/50",
+      "level": 1,
+      "parent": "H10B53/00",
+      "ja": "コアと周辺回路領域との間の境界領域に特徴のあるもの［２０２３．０１］",
+      "en": "characterised by the boundary region between the core and peripheral circuit regions",
+      "count": 94,
+      "sourceFile": "ipc_H10B.txt",
+      "kind": "ipc"
+    },
+    "H10B61/00": {
+      "code": "H10B61/00",
+      "level": 0,
+      "parent": "H10B",
+      "ja": "磁気メモリ装置，例．磁気抵抗ＲＡＭ［ＭＲＡＭ］装置［２０２３．０１］",
+      "en": "Magnetic memory devices, e.g. magnetoresistive RAM [MRAM] devices",
+      "count": 2709,
+      "sourceFile": "ipc_H10B.txt",
+      "kind": "ipc"
+    },
+    "H10B63/00": {
+      "code": "H10B63/00",
+      "level": 0,
+      "parent": "H10B",
+      "ja": "抵抗変化メモリ装置，例．抵抗ＲＡＭ［ＲｅＲＡＭ］装置［２０２３．０１］",
+      "en": "Resistance change memory devices, e.g. resistive RAM [ReRAM] devices",
+      "count": 2619,
+      "sourceFile": "ipc_H10B.txt",
+      "kind": "ipc"
+    },
+    "H10B63/10": {
+      "code": "H10B63/10",
+      "level": 1,
+      "parent": "H10B63/00",
+      "ja": "相変化ＲＡＭ［ＰＣＲＡＭ，ＰＲＡＭ］装置［２０２３．０１］",
+      "en": "Phase change RAM [PCRAM, PRAM] devices",
+      "count": 1108,
+      "sourceFile": "ipc_H10B.txt",
+      "kind": "ipc"
+    },
+    "H10B69/00": {
+      "code": "H10B69/00",
+      "level": 0,
+      "parent": "H10B",
+      "ja": "グループＨ１０Ｂ４１／００～Ｈ１０Ｂ６３／００に包含されない，消去可能でプログラム可能なＲＯＭ［ＥＰＲＯＭ］装置，例．紫外線による消去可能でプログラム可能なＲＯＭ［ＵＶＥＰＲＯＭ］装置［２０２３．０１］",
+      "en": "Erasable-and-programmable ROM [EPROM] devices not provided for in groups <b>H10B41/00 to H10B63/00</b> , e.g. ultraviolet erasable-and-programmable ROM [UVEPROM] devices",
+      "count": 27832,
+      "sourceFile": "ipc_H10B.txt",
+      "kind": "ipc"
+    },
+    "H10B80/00": {
+      "code": "H10B80/00",
+      "level": 0,
+      "parent": "H10B",
+      "ja": "このサブクラスに包含される，少なくとも１つの記憶装置を備える，複数の装置の組立体［２０２３．０１］",
+      "en": "Assemblies of multiple devices comprising at least one memory device covered by this subclass",
+      "count": 3589,
+      "sourceFile": "ipc_H10B.txt",
+      "kind": "ipc"
+    },
+    "H10B99/00": {
+      "code": "H10B99/00",
+      "level": 0,
+      "parent": "H10B",
+      "ja": "このサブクラスの他のグループに分類されない主題事項［２０２３．０１］",
+      "en": "Subject matter not provided for in other groups of this subclass",
+      "count": 3218,
+      "sourceFile": "ipc_H10B.txt",
+      "kind": "ipc"
+    }
+  }
+};

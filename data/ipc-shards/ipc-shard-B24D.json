@@ -1,0 +1,706 @@
+{
+  "generatedAt": "2026-03-20T02:17:46.124Z",
+  "total": 70,
+  "entries": {
+    "B24D": {
+      "code": "B24D",
+      "level": 0,
+      "parent": "B24",
+      "ja": "研削，バフ加工，または刃砥ぎ用工具（回転装置のために特別に設計された研磨体，例．研磨球Ｂ２４Ｂ３１／１４；ホーニング工具Ｂ２４Ｂ３３／０８；ラップ工具Ｂ２４Ｂ３７／１１）<br><br><b><ul>注</ul></b><br>（１）このサブクラスは如何なる物質にも作用する研削工具を包含する。<br>（２）単一の他の箇所に用意された目的のために特に設計された研削工具，バフ工具または刃砥ぎ用工具は，その箇所，例．Ｂ２３Ｆ２１／０２，に分類される。［４］<br><br><b><ul>サブクラス内の索引</ul></b><br>研磨体または研磨シートの物理的特徴または構成成分　３／００<br>砥石車　５／００，７／００，９／００，１３／００<br>可撓性研磨素材　１１／００<br>手工具　１５／００<br>製造　１８／００<br>他の工具　９９／００",
+      "en": "TOOLS FOR GRINDING, BUFFING OR SHARPENING(abrading-bodies specially designed for tumbling apparatus, e.g. abrading-balls <b>B24B31/14</b>; honing tools <b>B24B33/08</b>; lapping tools <b>B24B37/11</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>This subclass <u>covers</u> grinding tools for working on any material.</li><li>Tools for grinding, buffing or sharpening, specially designed for a particular purpose, which purpose is provided for in a single other place, are classified in that place, e.g. <b>B23F21/02</b>. </li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">PHYSICAL FEATURES OR CONSTITUENTS OF ABRASIVE BODIES OR SHEETS </td><td><b><b>3/00</b></b></td></tr></tr><tr><td width=\"70%\">ABRASIVE WHEELS </td><td><b><b>5/00</b>, <b>7/00</b>, <b>9/00</b>, <b>13/00</b></b></td></tr></tr><tr><td width=\"70%\">FLEXIBLE ABRASIVE MATERIALS </td><td><b><b>11/00</b></b></td></tr></tr><tr><td width=\"70%\">HAND TOOLS </td><td><b><b>15/00</b></b></td></tr></tr><tr><td width=\"70%\">MANUFACTURE </td><td><b><b>18/00</b></b></td></tr></tr><tr><td width=\"70%\">OTHER TOOLS </td><td><b><b>99/00</b></b></td></tr></tr></table>",
+      "count": 1023,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B24": {
+      "code": "B24",
+      "level": 0,
+      "parent": "B",
+      "ja": "研削；研磨<br><br><b><ul>注</ul></b><br>このクラスにおいては，下記の表現は以下に示す意味で用いる：<br>―「研削」は機械加工を意味する最も一般的な意味で用いられる。特に「矯正的な」操作を包含する。",
+      "en": "GRINDING; POLISHING; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this class, the following term is used with the meaning indicated:<ul><li>\"grinding\" is used in its most general sense to mean machining and covers, in particular, \"corrective\" operations.</li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B": {
+      "code": "B",
+      "level": 0,
+      "parent": null,
+      "ja": "処理操作；運輸",
+      "en": "PERFORMING OPERATIONS; TRANSPORTING",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B24D3/00": {
+      "code": "B24D3/00",
+      "level": 0,
+      "parent": "B24D",
+      "ja": "研磨体または研磨シートの物理的特徴，例．特別な性質の研磨表面；構成成分により特徴づけられる研磨体または研磨シート",
+      "en": "Physical features of abrasive bodies, or sheets, e.g. abrasive surfaces of special nature; Abrasive bodies or sheets characterised by their constituents",
+      "count": 8398,
+      "sourceFile": "ipc_B24D.txt",
+      "kind": "ipc"
+    },
+    "B24D3/02": {
+      "code": "B24D3/02",
+      "level": 1,
+      "parent": "B24D3/00",
+      "ja": "結合剤として用いられているものにより特徴づけられる研磨体又は研磨シート",
+      "en": "the constituent being used as bonding agent",
+      "count": 2049,
+      "sourceFile": "ipc_B24D.txt",
+      "kind": "ipc"
+    },
+    "B24D3/04": {
+      "code": "B24D3/04",
+      "level": 2,
+      "parent": "B24D3/02",
+      "ja": "実質的に無機質の結合剤を用いているもの",
+      "en": "and being essentially inorganic",
+      "count": 567,
+      "sourceFile": "ipc_B24D.txt",
+      "kind": "ipc"
+    },
+    "B24D3/06": {
+      "code": "B24D3/06",
+      "level": 3,
+      "parent": "B24D3/04",
+      "ja": "金属を用いたもの",
+      "en": "metallic",
+      "count": 3279,
+      "sourceFile": "ipc_B24D.txt",
+      "kind": "ipc"
+    },
+    "B24D3/08": {
+      "code": "B24D3/08",
+      "level": 4,
+      "parent": "B24D3/06",
+      "ja": "稠密な粒子構造のもの，例．低融点の金属を用いたもの",
+      "en": "for close-grained structure, e.g. using metal with low melting point",
+      "count": 431,
+      "sourceFile": "ipc_B24D.txt",
+      "kind": "ipc"
+    },
+    "B24D3/10": {
+      "code": "B24D3/10",
+      "level": 4,
+      "parent": "B24D3/06",
+      "ja": "多孔な又は組織に間隙のある構造のもの，例．砥粒としてダイヤモンドを用いるためのもの",
+      "en": "for porous or cellular structure, e.g. for use with diamonds as abrasives",
+      "count": 1307,
+      "sourceFile": "ipc_B24D.txt",
+      "kind": "ipc"
+    },
+    "B24D3/12": {
+      "code": "B24D3/12",
+      "level": 3,
+      "parent": "B24D3/04",
+      "ja": "水を用いたもの，例．コンクリート",
+      "en": "water-setting, e.g. concrete",
+      "count": 112,
+      "sourceFile": "ipc_B24D.txt",
+      "kind": "ipc"
+    },
+    "B24D3/14": {
+      "code": "B24D3/14",
+      "level": 3,
+      "parent": "B24D3/04",
+      "ja": "セラミックを用いるもの，すなわちガラス状結合剤を用いたもの",
+      "en": "ceramic, i.e. vitrified bondings",
+      "count": 1558,
+      "sourceFile": "ipc_B24D.txt",
+      "kind": "ipc"
+    },
+    "B24D3/16": {
+      "code": "B24D3/16",
+      "level": 4,
+      "parent": "B24D3/14",
+      "ja": "稠密な粒子構造のもの，例．高密度のもの",
+      "en": "for close grained structure, i.e. of high density",
+      "count": 115,
+      "sourceFile": "ipc_B24D.txt",
+      "kind": "ipc"
+    },
+    "B24D3/18": {
+      "code": "B24D3/18",
+      "level": 4,
+      "parent": "B24D3/14",
+      "ja": "多孔な又は組織に間隙のある構造のもの",
+      "en": "for porous or cellular structure",
+      "count": 547,
+      "sourceFile": "ipc_B24D.txt",
+      "kind": "ipc"
+    },
+    "B24D3/20": {
+      "code": "B24D3/20",
+      "level": 2,
+      "parent": "B24D3/02",
+      "ja": "かつ，実質的に有機質の結合剤を用いているもの",
+      "en": "and being essentially organic",
+      "count": 624,
+      "sourceFile": "ipc_B24D.txt",
+      "kind": "ipc"
+    },
+    "B24D3/22": {
+      "code": "B24D3/22",
+      "level": 3,
+      "parent": "B24D3/20",
+      "ja": "ゴムを用いるもの",
+      "en": "Rubbers",
+      "count": 349,
+      "sourceFile": "ipc_B24D.txt",
+      "kind": "ipc"
+    },
+    "B24D3/24": {
+      "code": "B24D3/24",
+      "level": 4,
+      "parent": "B24D3/22",
+      "ja": "稠密な粒子構造のもの",
+      "en": "for close-grained structure",
+      "count": 51,
+      "sourceFile": "ipc_B24D.txt",
+      "kind": "ipc"
+    },
+    "B24D3/26": {
+      "code": "B24D3/26",
+      "level": 4,
+      "parent": "B24D3/22",
+      "ja": "多孔な又は組織に間隙のある構造のもの",
+      "en": "for porous or cellular structure",
+      "count": 135,
+      "sourceFile": "ipc_B24D.txt",
+      "kind": "ipc"
+    },
+    "B24D3/28": {
+      "code": "B24D3/28",
+      "level": 3,
+      "parent": "B24D3/20",
+      "ja": "樹脂を用いたもの",
+      "en": "Resins",
+      "count": 4025,
+      "sourceFile": "ipc_B24D.txt",
+      "kind": "ipc"
+    },
+    "B24D3/30": {
+      "code": "B24D3/30",
+      "level": 4,
+      "parent": "B24D3/28",
+      "ja": "稠密な粒子構造のもの",
+      "en": "for close-grained structure",
+      "count": 138,
+      "sourceFile": "ipc_B24D.txt",
+      "kind": "ipc"
+    },
+    "B24D3/32": {
+      "code": "B24D3/32",
+      "level": 4,
+      "parent": "B24D3/28",
+      "ja": "多孔な又は組織に間隙のある構造のもの",
+      "en": "for porous or cellular structure",
+      "count": 994,
+      "sourceFile": "ipc_B24D.txt",
+      "kind": "ipc"
+    },
+    "B24D3/34": {
+      "code": "B24D3/34",
+      "level": 1,
+      "parent": "B24D3/00",
+      "ja": "特別な物理的性質を一層付加したことにより特徴づけられるもの，例．耐摩耗性，電気伝導性自生作用を一層付加したもの",
+      "en": "characterised by additives enhancing special physical properties, e.g. wear resistance, electric conductivity, self-cleaning properties",
+      "count": 4028,
+      "sourceFile": "ipc_B24D.txt",
+      "kind": "ipc"
+    },
+    "B24D5/00": {
+      "code": "B24D5/00",
+      "level": 0,
+      "parent": "B24D",
+      "ja": "周面のみで加工する砥石車，または砥粒塊を装着した車；そのためのブッシングとその取付け",
+      "en": "Bonded abrasive wheels, or wheels with inserted abrasive blocks, designed for acting only by their periphery; Bushings or mountings therefor",
+      "count": 3060,
+      "sourceFile": "ipc_B24D.txt",
+      "kind": "ipc"
+    },
+    "B24D5/02": {
+      "code": "B24D5/02",
+      "level": 1,
+      "parent": "B24D5/00",
+      "ja": "一塊でできた砥石車",
+      "en": "Wheels in one piece",
+      "count": 1101,
+      "sourceFile": "ipc_B24D.txt",
+      "kind": "ipc"
+    },
+    "B24D5/04": {
+      "code": "B24D5/04",
+      "level": 2,
+      "parent": "B24D5/02",
+      "ja": "補強手段をもったもの",
+      "en": "with reinforcing means",
+      "count": 583,
+      "sourceFile": "ipc_B24D.txt",
+      "kind": "ipc"
+    },
+    "B24D5/06": {
+      "code": "B24D5/06",
+      "level": 1,
+      "parent": "B24D5/00",
+      "ja": "砥粒塊を装着したもの，例．セグメント砥石をもったもの",
+      "en": "with inserted abrasive blocks, e.g. segmental",
+      "count": 1812,
+      "sourceFile": "ipc_B24D.txt",
+      "kind": "ipc"
+    },
+    "B24D5/08": {
+      "code": "B24D5/08",
+      "level": 2,
+      "parent": "B24D5/06",
+      "ja": "補強手段をもったもの",
+      "en": "with reinforcing means",
+      "count": 175,
+      "sourceFile": "ipc_B24D.txt",
+      "kind": "ipc"
+    },
+    "B24D5/10": {
+      "code": "B24D5/10",
+      "level": 1,
+      "parent": "B24D5/00",
+      "ja": "冷却手段をもったもの，例．放射短冊形孔をもったもの",
+      "en": "with cooling provisions, e.g. with radial slots",
+      "count": 1481,
+      "sourceFile": "ipc_B24D.txt",
+      "kind": "ipc"
+    },
+    "B24D5/12": {
+      "code": "B24D5/12",
+      "level": 1,
+      "parent": "B24D5/00",
+      "ja": "切断用砥石車",
+      "en": "Cut-off wheels",
+      "count": 3242,
+      "sourceFile": "ipc_B24D.txt",
+      "kind": "ipc"
+    },
+    "B24D5/14": {
+      "code": "B24D5/14",
+      "level": 1,
+      "parent": "B24D5/00",
+      "ja": "区域により異なった結合度をもつ車；異なった砥粒よりなる車を結合したもの",
+      "en": "Zonally-graded wheels; Composite wheels comprising different abrasives",
+      "count": 937,
+      "sourceFile": "ipc_B24D.txt",
+      "kind": "ipc"
+    },
+    "B24D5/16": {
+      "code": "B24D5/16",
+      "level": 1,
+      "parent": "B24D5/00",
+      "ja": "ブッシング；取付け",
+      "en": "Bushings; Mountings",
+      "count": 1966,
+      "sourceFile": "ipc_B24D.txt",
+      "kind": "ipc"
+    },
+    "B24D7/00": {
+      "code": "B24D7/00",
+      "level": 0,
+      "parent": "B24D",
+      "ja": "周面以外で加工する砥石車または砥粒塊を装着した車，例．前面を使用するもの；そのためのブッシングまたはその取付け",
+      "en": "Bonded abrasive wheels, or wheels with inserted abrasive blocks, designed for acting otherwise than only by their periphery, e.g. by the front face; Bushings or mountings therefor",
+      "count": 2690,
+      "sourceFile": "ipc_B24D.txt",
+      "kind": "ipc"
+    },
+    "B24D7/02": {
+      "code": "B24D7/02",
+      "level": 1,
+      "parent": "B24D7/00",
+      "ja": "一体でできた砥石車",
+      "en": "Wheels in one piece",
+      "count": 845,
+      "sourceFile": "ipc_B24D.txt",
+      "kind": "ipc"
+    },
+    "B24D7/04": {
+      "code": "B24D7/04",
+      "level": 2,
+      "parent": "B24D7/02",
+      "ja": "補強手段をもったもの",
+      "en": "with reinforcing means",
+      "count": 404,
+      "sourceFile": "ipc_B24D.txt",
+      "kind": "ipc"
+    },
+    "B24D7/06": {
+      "code": "B24D7/06",
+      "level": 1,
+      "parent": "B24D7/00",
+      "ja": "砥粒塊を内装したもの，例．セグメント砥石をもったもの",
+      "en": "with inserted abrasive blocks, e.g. segmental",
+      "count": 2577,
+      "sourceFile": "ipc_B24D.txt",
+      "kind": "ipc"
+    },
+    "B24D7/08": {
+      "code": "B24D7/08",
+      "level": 2,
+      "parent": "B24D7/06",
+      "ja": "補強手段をもったもの",
+      "en": "with reinforcing means",
+      "count": 151,
+      "sourceFile": "ipc_B24D.txt",
+      "kind": "ipc"
+    },
+    "B24D7/10": {
+      "code": "B24D7/10",
+      "level": 1,
+      "parent": "B24D7/00",
+      "ja": "冷却手段をもったもの",
+      "en": "with cooling provisions",
+      "count": 1443,
+      "sourceFile": "ipc_B24D.txt",
+      "kind": "ipc"
+    },
+    "B24D7/12": {
+      "code": "B24D7/12",
+      "level": 1,
+      "parent": "B24D7/00",
+      "ja": "研削される面を観察できる孔のあるもの",
+      "en": "with apertures for inspecting the surface to be abraded",
+      "count": 228,
+      "sourceFile": "ipc_B24D.txt",
+      "kind": "ipc"
+    },
+    "B24D7/14": {
+      "code": "B24D7/14",
+      "level": 1,
+      "parent": "B24D7/00",
+      "ja": "区域により異なった結合度をもつ車；異なった砥粒より車を結合したもの",
+      "en": "Zonally-graded wheels; Composite wheels comprising different abrasives",
+      "count": 1064,
+      "sourceFile": "ipc_B24D.txt",
+      "kind": "ipc"
+    },
+    "B24D7/16": {
+      "code": "B24D7/16",
+      "level": 1,
+      "parent": "B24D7/00",
+      "ja": "ブッシング；軸への取付け",
+      "en": "Bushings; Mountings",
+      "count": 1647,
+      "sourceFile": "ipc_B24D.txt",
+      "kind": "ipc"
+    },
+    "B24D7/18": {
+      "code": "B24D7/18",
+      "level": 1,
+      "parent": "B24D7/00",
+      "ja": "特殊な型の車",
+      "en": "Wheels of special form",
+      "count": 2362,
+      "sourceFile": "ipc_B24D.txt",
+      "kind": "ipc"
+    },
+    "B24D9/00": {
+      "code": "B24D9/00",
+      "level": 0,
+      "parent": "B24D",
+      "ja": "可撓性研磨素材の一層を交換可能に保持する磨き車またはドラム，例．サンドペーパーを交換可能に保持する車またはドラム",
+      "en": "Wheels or drums supporting in exchangeable arrangement a layer of flexible abrasive material, e.g. sandpaper",
+      "count": 889,
+      "sourceFile": "ipc_B24D.txt",
+      "kind": "ipc"
+    },
+    "B24D9/02": {
+      "code": "B24D9/02",
+      "level": 1,
+      "parent": "B24D9/00",
+      "ja": "可撓性研磨素材を管状型中に保持するための拡張ドラム，例．遠心力により拡がるもの",
+      "en": "Expansible drums for carrying flexible material in tubular form, e.g. expanded by centrifugal force",
+      "count": 375,
+      "sourceFile": "ipc_B24D.txt",
+      "kind": "ipc"
+    },
+    "B24D9/04": {
+      "code": "B24D9/04",
+      "level": 1,
+      "parent": "B24D9/00",
+      "ja": "可撓性研磨素材を保持するための不変形ドラム",
+      "en": "Rigid drums for carrying flexible material",
+      "count": 639,
+      "sourceFile": "ipc_B24D.txt",
+      "kind": "ipc"
+    },
+    "B24D9/06": {
+      "code": "B24D9/06",
+      "level": 2,
+      "parent": "B24D9/04",
+      "ja": "可撓性研磨素材を巻きつけたものを保有しそれにより可撓性研磨素材を順次取出し使用していくもの",
+      "en": "able to be stripped-off from a built-in delivery spool",
+      "count": 56,
+      "sourceFile": "ipc_B24D.txt",
+      "kind": "ipc"
+    },
+    "B24D9/08": {
+      "code": "B24D9/08",
+      "level": 1,
+      "parent": "B24D9/00",
+      "ja": "可撓性研磨素材を保持するために円形背板をもったもの",
+      "en": "Circular back-plates for carrying flexible material",
+      "count": 1532,
+      "sourceFile": "ipc_B24D.txt",
+      "kind": "ipc"
+    },
+    "B24D9/10": {
+      "code": "B24D9/10",
+      "level": 2,
+      "parent": "B24D9/08",
+      "ja": "可撓性研磨素材を確実に保持するために吸い付ける手段を用いているもの",
+      "en": "with suction means for securing the material",
+      "count": 90,
+      "sourceFile": "ipc_B24D.txt",
+      "kind": "ipc"
+    },
+    "B24D11/00": {
+      "code": "B24D11/00",
+      "level": 0,
+      "parent": "B24D",
+      "ja": "可撓性研磨素材の構造的特徴；そのような素材の製造における特徴",
+      "en": "Constructional features of flexible abrasive materials; Special features in the manufacture of such materials",
+      "count": 8036,
+      "sourceFile": "ipc_B24D.txt",
+      "kind": "ipc"
+    },
+    "B24D11/02": {
+      "code": "B24D11/02",
+      "level": 1,
+      "parent": "B24D11/00",
+      "ja": "裏張りをつけたもの，例．箔，織物，網の目織物をもったもの",
+      "en": "Backings, e.g. foils, webs, mesh fabrics",
+      "count": 1647,
+      "sourceFile": "ipc_B24D.txt",
+      "kind": "ipc"
+    },
+    "B24D11/04": {
+      "code": "B24D11/04",
+      "level": 1,
+      "parent": "B24D11/00",
+      "ja": "区域により異なった性質の面をもったもの",
+      "en": "Zonally-graded surfaces",
+      "count": 347,
+      "sourceFile": "ipc_B24D.txt",
+      "kind": "ipc"
+    },
+    "B24D11/06": {
+      "code": "B24D11/06",
+      "level": 1,
+      "parent": "B24D11/00",
+      "ja": "素材の端を接合したもの，例．研磨ベルトを作るためのもの",
+      "en": "Connecting the ends of materials, e.g. for making abrasive belts",
+      "count": 505,
+      "sourceFile": "ipc_B24D.txt",
+      "kind": "ipc"
+    },
+    "B24D11/08": {
+      "code": "B24D11/08",
+      "level": 1,
+      "parent": "B24D11/00",
+      "ja": "研磨材で被覆された支持体を後処理するための装置，例．支持体に可撓性を与えるためのもの",
+      "en": "Equipment for after-treatment of the coated backings, e.g. for flexing the coating",
+      "count": 122,
+      "sourceFile": "ipc_B24D.txt",
+      "kind": "ipc"
+    },
+    "B24D13/00": {
+      "code": "B24D13/00",
+      "level": 0,
+      "parent": "B24D",
+      "ja": "しなやかに作用する加工部品をもった磨き車，例．バフ車；そのための取付け",
+      "en": "Wheels having flexibly-acting working parts, e.g. buffing wheels; Mountings therefor",
+      "count": 907,
+      "sourceFile": "ipc_B24D.txt",
+      "kind": "ipc"
+    },
+    "B24D13/02": {
+      "code": "B24D13/02",
+      "level": 1,
+      "parent": "B24D13/00",
+      "ja": "周面で加工するもの",
+      "en": "acting by their periphery",
+      "count": 831,
+      "sourceFile": "ipc_B24D.txt",
+      "kind": "ipc"
+    },
+    "B24D13/04": {
+      "code": "B24D13/04",
+      "level": 2,
+      "parent": "B24D13/02",
+      "ja": "軸の周りに多数のフラップまたは条片を配置したもの",
+      "en": "comprising a plurality of flaps or strips arranged around the axis",
+      "count": 1035,
+      "sourceFile": "ipc_B24D.txt",
+      "kind": "ipc"
+    },
+    "B24D13/06": {
+      "code": "B24D13/06",
+      "level": 2,
+      "parent": "B24D13/02",
+      "ja": "フラップまたは条片が独立して取り付けられたもの",
+      "en": "the flaps or strips being individually attached",
+      "count": 519,
+      "sourceFile": "ipc_B24D.txt",
+      "kind": "ipc"
+    },
+    "B24D13/08": {
+      "code": "B24D13/08",
+      "level": 2,
+      "parent": "B24D13/02",
+      "ja": "環状または円形のシートをかさねて一まとめにしてなるもの",
+      "en": "comprising annular or circular sheets packed side by side",
+      "count": 620,
+      "sourceFile": "ipc_B24D.txt",
+      "kind": "ipc"
+    },
+    "B24D13/10": {
+      "code": "B24D13/10",
+      "level": 2,
+      "parent": "B24D13/02",
+      "ja": "刷毛を集合してなるもの",
+      "en": "comprising assemblies of brushes",
+      "count": 1431,
+      "sourceFile": "ipc_B24D.txt",
+      "kind": "ipc"
+    },
+    "B24D13/12": {
+      "code": "B24D13/12",
+      "level": 2,
+      "parent": "B24D13/02",
+      "ja": "フェルト材またはスポンジ材を集合してなるもの，例．フェルト，鋼，羊毛，発泡した生ゴム",
+      "en": "comprising assemblies of felted or spongy material, e.g. felt, steel wool, foamed latex",
+      "count": 449,
+      "sourceFile": "ipc_B24D.txt",
+      "kind": "ipc"
+    },
+    "B24D13/14": {
+      "code": "B24D13/14",
+      "level": 1,
+      "parent": "B24D13/00",
+      "ja": "前面で加工するもの",
+      "en": "acting by the front face",
+      "count": 2870,
+      "sourceFile": "ipc_B24D.txt",
+      "kind": "ipc"
+    },
+    "B24D13/16": {
+      "code": "B24D13/16",
+      "level": 2,
+      "parent": "B24D13/14",
+      "ja": "ひだを付けたフラップまたは条片よりなるもの",
+      "en": "comprising pleated flaps or strips",
+      "count": 424,
+      "sourceFile": "ipc_B24D.txt",
+      "kind": "ipc"
+    },
+    "B24D13/18": {
+      "code": "B24D13/18",
+      "level": 1,
+      "parent": "B24D13/00",
+      "ja": "冷却手段を用いているもの",
+      "en": "with cooling provisions",
+      "count": 328,
+      "sourceFile": "ipc_B24D.txt",
+      "kind": "ipc"
+    },
+    "B24D13/20": {
+      "code": "B24D13/20",
+      "level": 1,
+      "parent": "B24D13/00",
+      "ja": "磨き車への取付け",
+      "en": "Mountings for the wheels",
+      "count": 976,
+      "sourceFile": "ipc_B24D.txt",
+      "kind": "ipc"
+    },
+    "B24D15/00": {
+      "code": "B24D15/00",
+      "level": 0,
+      "parent": "B24D",
+      "ja": "非回転の研削，磨き，皮砥で研ぐための手工具または他の器具",
+      "en": "Hand tools or other devices for non-rotary grinding, polishing, or stropping",
+      "count": 1134,
+      "sourceFile": "ipc_B24D.txt",
+      "kind": "ipc"
+    },
+    "B24D15/02": {
+      "code": "B24D15/02",
+      "level": 1,
+      "parent": "B24D15/00",
+      "ja": "非弾性的なもの；しっかりと支持された作用面をもつもの",
+      "en": "rigid; with rigidly-supported operative surface",
+      "count": 2304,
+      "sourceFile": "ipc_B24D.txt",
+      "kind": "ipc"
+    },
+    "B24D15/04": {
+      "code": "B24D15/04",
+      "level": 1,
+      "parent": "B24D15/00",
+      "ja": "弾性的なもの；弾性的に支持された作用面をもつもの",
+      "en": "resilient; with resiliently-mounted operative surface",
+      "count": 1201,
+      "sourceFile": "ipc_B24D.txt",
+      "kind": "ipc"
+    },
+    "B24D15/06": {
+      "code": "B24D15/06",
+      "level": 1,
+      "parent": "B24D15/00",
+      "ja": "切刃を刃研ぎするために特に作られたもの",
+      "en": "specially designed for sharpening cutting edges",
+      "count": 1261,
+      "sourceFile": "ipc_B24D.txt",
+      "kind": "ipc"
+    },
+    "B24D15/08": {
+      "code": "B24D15/08",
+      "level": 2,
+      "parent": "B24D15/06",
+      "ja": "ナイフの刃研ぎに用いるもの；カミソリの刃研ぎに用いるもの",
+      "en": "of knives; of razors",
+      "count": 3945,
+      "sourceFile": "ipc_B24D.txt",
+      "kind": "ipc"
+    },
+    "B24D15/10": {
+      "code": "B24D15/10",
+      "level": 2,
+      "parent": "B24D15/06",
+      "ja": "安全カミソリの刃を研ぐのに用いるもの（機械的作動部をもったものＢ２４Ｂ３／５０）",
+      "en": "of safety-razor blades(devices with mechanically-operated parts <b>B24B3/50</b>)",
+      "count": 657,
+      "sourceFile": "ipc_B24D.txt",
+      "kind": "ipc"
+    },
+    "B24D18/00": {
+      "code": "B24D18/00",
+      "level": 0,
+      "parent": "B24D",
+      "ja": "他に分類されない研削工具，例．砥石車，の製造［４］",
+      "en": "Manufacture of grinding tools, e.g. wheels, not otherwise provided for",
+      "count": 11922,
+      "sourceFile": "ipc_B24D.txt",
+      "kind": "ipc"
+    },
+    "B24D99/00": {
+      "code": "B24D99/00",
+      "level": 0,
+      "parent": "B24D",
+      "ja": "このサブクラスの他のグループに分類されない主題事項［２０１０．０１］",
+      "en": "Subject matter not provided for in other groups of this subclass",
+      "count": 2394,
+      "sourceFile": "ipc_B24D.txt",
+      "kind": "ipc"
+    }
+  }
+}

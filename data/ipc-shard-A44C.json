@@ -1,0 +1,336 @@
+{
+  "generatedAt": "2026-03-20T02:17:45.910Z",
+  "total": 33,
+  "entries": {
+    "A44C": {
+      "code": "A44C",
+      "level": 0,
+      "parent": "A44",
+      "ja": "身体の装飾，例．宝石；貨幣<br><br><b><ul>サブクラス内の索引</ul></b><br>身体の各部分に使う物品<br>耳に使用するもの　７／００<br>腕または指に使用するもの　５／００，９／００<br>その他の身体の部分に使用するもの　１／００，３／００，１１／００，２３／００，２５／００<br>他の方面に使う物品　１３／００，１５／００，１７／００，２１／００，２５／００<br>宝石またはその他の身体の装飾の製造　２７／００<br>時計または宝石の盗難防止装置　１９／００",
+      "en": "PERSONAL ADORNMENTS, e.g. JEWELLERY; COINS; <br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">ARTICLES ACCORDING TO THE PART OF THE BODY ON WHICH THEY ARE WORN<tr><td width=\"70%\">On the ears </td><td><b><b>7/00</b></b></td></tr></tr><tr><td width=\"70%\">On the arms or fingers </td><td><b><b>5/00</b>, <b>9/00</b></b></td></tr></tr><tr><td width=\"70%\">On other parts of the body </td><td><b><b>1/00</b>, <b>3/00</b>, <b>11/00</b>, <b>23/00</b>, <b>25/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">ARTICLES ACCORDING TO OTHER ASPECTS </td><td><b><b>13/00</b>, <b>15/00</b>, <b>17/00</b>, <b>21/00</b>, <b>25/00</b></b></td></tr></tr><tr><td width=\"70%\">MAKING JEWELLERY OR OTHER PERSONAL ADORNMENTS </td><td><b><b>27/00</b></b></td></tr></tr><tr><td width=\"70%\">ANTI-PILFERING DEVICES FOR WATCHES OR JEWELLERY </td><td><b><b>19/00</b></b></td></tr></tr></table>",
+      "count": 2953,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A44": {
+      "code": "A44",
+      "level": 0,
+      "parent": "A",
+      "ja": "小間物；貴金属宝石類",
+      "en": "HABERDASHERY; JEWELLERY",
+      "count": 0,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A": {
+      "code": "A",
+      "level": 0,
+      "parent": null,
+      "ja": "生活必需品",
+      "en": "HUMAN NECESSITIES",
+      "count": 0,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A44C1/00": {
+      "code": "A44C1/00",
+      "level": 0,
+      "parent": "A44C",
+      "ja": "装飾用のブローチまたは止め具",
+      "en": "Brooches or clips in their decorative or ornamental aspect",
+      "count": 2760,
+      "sourceFile": "ipc_A44C.txt",
+      "kind": "ipc"
+    },
+    "A44C3/00": {
+      "code": "A44C3/00",
+      "level": 0,
+      "parent": "A44C",
+      "ja": "メダル；バッジ",
+      "en": "Medals; Badges",
+      "count": 3705,
+      "sourceFile": "ipc_A44C.txt",
+      "kind": "ipc"
+    },
+    "A44C5/00": {
+      "code": "A44C5/00",
+      "level": 0,
+      "parent": "A44C",
+      "ja": "腕輪；腕時計バンド；腕輪や腕時計バンドの締め金具",
+      "en": "Bracelets; Wrist-watch straps; Fastenings for bracelets or wrist-watch straps",
+      "count": 19158,
+      "sourceFile": "ipc_A44C.txt",
+      "kind": "ipc"
+    },
+    "A44C5/02": {
+      "code": "A44C5/02",
+      "level": 1,
+      "parent": "A44C5/00",
+      "ja": "輪の構成",
+      "en": "Link constructions",
+      "count": 4576,
+      "sourceFile": "ipc_A44C.txt",
+      "kind": "ipc"
+    },
+    "A44C5/04": {
+      "code": "A44C5/04",
+      "level": 2,
+      "parent": "A44C5/02",
+      "ja": "広げることのできるもの",
+      "en": "extensible",
+      "count": 805,
+      "sourceFile": "ipc_A44C.txt",
+      "kind": "ipc"
+    },
+    "A44C5/06": {
+      "code": "A44C5/06",
+      "level": 3,
+      "parent": "A44C5/04",
+      "ja": "不精ばさみをもっているもの",
+      "en": "having lazy-tongs",
+      "count": 145,
+      "sourceFile": "ipc_A44C.txt",
+      "kind": "ipc"
+    },
+    "A44C5/08": {
+      "code": "A44C5/08",
+      "level": 3,
+      "parent": "A44C5/04",
+      "ja": "分離した輪をもっているもの",
+      "en": "having separate links",
+      "count": 996,
+      "sourceFile": "ipc_A44C.txt",
+      "kind": "ipc"
+    },
+    "A44C5/10": {
+      "code": "A44C5/10",
+      "level": 2,
+      "parent": "A44C5/02",
+      "ja": "広げることができないもの",
+      "en": "not extensible",
+      "count": 3912,
+      "sourceFile": "ipc_A44C.txt",
+      "kind": "ipc"
+    },
+    "A44C5/12": {
+      "code": "A44C5/12",
+      "level": 1,
+      "parent": "A44C5/00",
+      "ja": "Ｃ形ばね状腕輪または腕時計の保持具",
+      "en": "C-spring-type bracelets or wrist-watch holders",
+      "count": 630,
+      "sourceFile": "ipc_A44C.txt",
+      "kind": "ipc"
+    },
+    "A44C5/14": {
+      "code": "A44C5/14",
+      "level": 1,
+      "parent": "A44C5/00",
+      "ja": "腕時計または類似物の緊締の方法に特徴があるもの",
+      "en": "characterised by the way of fastening to a wrist-watch or the like",
+      "count": 7967,
+      "sourceFile": "ipc_A44C.txt",
+      "kind": "ipc"
+    },
+    "A44C5/16": {
+      "code": "A44C5/16",
+      "level": 2,
+      "parent": "A44C5/14",
+      "ja": "バンドを折りたたむことによるもの",
+      "en": "by folding the strap",
+      "count": 436,
+      "sourceFile": "ipc_A44C.txt",
+      "kind": "ipc"
+    },
+    "A44C5/18": {
+      "code": "A44C5/18",
+      "level": 1,
+      "parent": "A44C5/00",
+      "ja": "バンドの締め金具（バックルＡ４４Ｂ１１／００）",
+      "en": "Fasteners for straps(buckles <b>A44B11/00</b>)",
+      "count": 2842,
+      "sourceFile": "ipc_A44C.txt",
+      "kind": "ipc"
+    },
+    "A44C5/20": {
+      "code": "A44C5/20",
+      "level": 2,
+      "parent": "A44C5/18",
+      "ja": "開放端をもつバンドのためのもの",
+      "en": "for open straps",
+      "count": 7436,
+      "sourceFile": "ipc_A44C.txt",
+      "kind": "ipc"
+    },
+    "A44C5/22": {
+      "code": "A44C5/22",
+      "level": 2,
+      "parent": "A44C5/18",
+      "ja": "開放端をもたないバンドのためのもの",
+      "en": "for closed straps",
+      "count": 751,
+      "sourceFile": "ipc_A44C.txt",
+      "kind": "ipc"
+    },
+    "A44C5/24": {
+      "code": "A44C5/24",
+      "level": 3,
+      "parent": "A44C5/22",
+      "ja": "折りたたみ装置によるもの",
+      "en": "with folding devices",
+      "count": 1480,
+      "sourceFile": "ipc_A44C.txt",
+      "kind": "ipc"
+    },
+    "A44C7/00": {
+      "code": "A44C7/00",
+      "level": 0,
+      "parent": "A44C",
+      "ja": "耳輪；耳たぶを通す装置",
+      "en": "Ear-rings; Devices for piercing the ear-lobes",
+      "count": 5527,
+      "sourceFile": "ipc_A44C.txt",
+      "kind": "ipc"
+    },
+    "A44C9/00": {
+      "code": "A44C9/00",
+      "level": 0,
+      "parent": "A44C",
+      "ja": "指輪",
+      "en": "Finger-rings",
+      "count": 6791,
+      "sourceFile": "ipc_A44C.txt",
+      "kind": "ipc"
+    },
+    "A44C9/02": {
+      "code": "A44C9/02",
+      "level": 1,
+      "parent": "A44C9/00",
+      "ja": "調節できるもの",
+      "en": "adjustable",
+      "count": 1376,
+      "sourceFile": "ipc_A44C.txt",
+      "kind": "ipc"
+    },
+    "A44C11/00": {
+      "code": "A44C11/00",
+      "level": 0,
+      "parent": "A44C",
+      "ja": "時計用鎖；装飾用鎖",
+      "en": "Watch chains; Ornamental chains",
+      "count": 4589,
+      "sourceFile": "ipc_A44C.txt",
+      "kind": "ipc"
+    },
+    "A44C11/02": {
+      "code": "A44C11/02",
+      "level": 1,
+      "parent": "A44C11/00",
+      "ja": "締付け装置",
+      "en": "Fastening devices",
+      "count": 2177,
+      "sourceFile": "ipc_A44C.txt",
+      "kind": "ipc"
+    },
+    "A44C13/00": {
+      "code": "A44C13/00",
+      "level": 0,
+      "parent": "A44C",
+      "ja": "結合した宝石細工",
+      "en": "Connectible jewellery",
+      "count": 1146,
+      "sourceFile": "ipc_A44C.txt",
+      "kind": "ipc"
+    },
+    "A44C15/00": {
+      "code": "A44C15/00",
+      "level": 0,
+      "parent": "A44C",
+      "ja": "他の形状の宝石細工",
+      "en": "Other forms of jewellery",
+      "count": 3690,
+      "sourceFile": "ipc_A44C.txt",
+      "kind": "ipc"
+    },
+    "A44C17/00": {
+      "code": "A44C17/00",
+      "level": 0,
+      "parent": "A44C",
+      "ja": "宝石または類似物",
+      "en": "Gems or the like",
+      "count": 3064,
+      "sourceFile": "ipc_A44C.txt",
+      "kind": "ipc"
+    },
+    "A44C17/02": {
+      "code": "A44C17/02",
+      "level": 1,
+      "parent": "A44C17/00",
+      "ja": "宝石の支持台",
+      "en": "Settings for holding gems",
+      "count": 4152,
+      "sourceFile": "ipc_A44C.txt",
+      "kind": "ipc"
+    },
+    "A44C17/04": {
+      "code": "A44C17/04",
+      "level": 1,
+      "parent": "A44C17/00",
+      "ja": "宝石細工品に宝石を嵌入するもの；嵌入する道具",
+      "en": "Setting gems in jewellery; Setting-tools",
+      "count": 1756,
+      "sourceFile": "ipc_A44C.txt",
+      "kind": "ipc"
+    },
+    "A44C19/00": {
+      "code": "A44C19/00",
+      "level": 0,
+      "parent": "A44C",
+      "ja": "時計または宝石の盗難防止装置",
+      "en": "Devices for preventing pilfering of watches or jewellery",
+      "count": 290,
+      "sourceFile": "ipc_A44C.txt",
+      "kind": "ipc"
+    },
+    "A44C21/00": {
+      "code": "A44C21/00",
+      "level": 0,
+      "parent": "A44C",
+      "ja": "硬貨（流通機構として働くのに適した貨幣Ｇ０７Ｆ１／０６）；臨時硬貨；ビールまたは賭博用硬貨または代用硬貨，または類似物",
+      "en": "Coins(coins specially adapted to operate coin-freed mechanisms <b>G07F1/06</b>);Emergency money; Beer or gambling coins or tokens, or the like",
+      "count": 851,
+      "sourceFile": "ipc_A44C.txt",
+      "kind": "ipc"
+    },
+    "A44C23/00": {
+      "code": "A44C23/00",
+      "level": 0,
+      "parent": "A44C",
+      "ja": "ロザリオ",
+      "en": "Rosaries",
+      "count": 531,
+      "sourceFile": "ipc_A44C.txt",
+      "kind": "ipc"
+    },
+    "A44C25/00": {
+      "code": "A44C25/00",
+      "level": 0,
+      "parent": "A44C",
+      "ja": "グループＡ４４Ｃ１／００～Ａ４４Ｃ１９／００またはＡ４４Ｃ２３／００に分類されない装身用の装飾品，例．十字架，十字架のキリスト像，時計の鎖などに付ける飾り物",
+      "en": "Fancy ware for personal wear, not provided for in groups <b>A44C1/00 to A44C19/00</b>  or <b>A44C23/00</b>, e.g. crosses, crucifixes, charms",
+      "count": 13410,
+      "sourceFile": "ipc_A44C.txt",
+      "kind": "ipc"
+    },
+    "A44C27/00": {
+      "code": "A44C27/00",
+      "level": 0,
+      "parent": "A44C",
+      "ja": "宝石またはその他の身体の装飾の製造［２］",
+      "en": "Making jewellery or other personal adornments",
+      "count": 8614,
+      "sourceFile": "ipc_A44C.txt",
+      "kind": "ipc"
+    }
+  }
+}

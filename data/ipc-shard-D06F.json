@@ -1,0 +1,3876 @@
+{
+  "generatedAt": "2026-03-20T02:17:46.593Z",
+  "total": 387,
+  "entries": {
+    "D06F": {
+      "code": "D06F",
+      "level": 0,
+      "parent": "D06",
+      "ja": "布帛製品の洗濯，乾燥，アイロンかけ，プレス又は折り畳み<br><br><b><ul>注</ul></b><br>１．  このサブクラスは以下のものを包含する：<br>－  揮発性溶剤を用いた家庭又は業務用ドライクリーニング装置；<br>－  衣料，リンネル製品又はその他の布帛製品の家庭，洗濯業又は仕立業用アイロンかけ又はその他の熱プレス。<br>２．  このサブクラスは以下のものを包含しない：<br>－  Ｄ０６Ｂ，Ｄ０６Ｃに包含される布帛製造工程中の絞搾，洗濯，ドライクリーニング，アイロンかけ又はその他の熱プレス；<br>－  サブクラスＤ０６Ｌ，Ｄ０６Ｍに包含される，純粋な化学的方法による布帛の処理。<br><br><b><ul>サブクラス内の索引</ul></b><br>容器；別個の容器と共に用いる移動可能な器具　１／００；７／００<br>手用道具　５／００<br>手用洗濯道具<br>容器；手用摩擦装置；雑具　１／００；３／００<br>洗たく機<br>ブラシ，ローラを用いるもの　９／００，１１／００<br>不動の容器を備えるもの：かく拌器を用いるもの；打ちたたきまたは圧搾手段を用いるもの；液のかく拌によるもの；付加的な乾燥手段をもつもの　１３／００；１５／００；１７／００；１８／００<br>動く容器を備えるもの<br>回転運動をするもの，例．振動形：洗たくのためのもの；洗たくおよび排水のためのもの；付加的な乾燥手段をもつ洗たくおよび排水のためのもの　２１／００；２３／００；２５／００<br>全体が動くもの，例．往復運動あるいは揺動　２７／００<br>洗たくに震動を用いるもの　１９／００<br>上記機械の細部　１／００，７／００，３７／００，３９／００<br>他の装置または機械との結合　２９／００，３１／００<br>工程の制御　３３／００，３４／００<br>他の洗たく機械または方法　３５／００<br>すすぎ装置　２９／００，４１／００<br>ドライクリーニング　４３／００<br>リンネル製品からの脱水；冷ローラによる平滑加工<br>ローラによるもの；プレスによるもの　４５／００；４７／００<br>容器の運動による遠心力利用によるもの　２３／００，２５／００，４９／００<br>他に分類されない装置　５１／００<br>乾燥；空気乾燥<br>物干し綱；干し物止め；その他の支持手段　５３／００；５５／００；５７／００<br>乾燥器　５８／００<br>乾燥対象物の形を維持する特殊な支持具　５９／００<br>他の乾燥　６０／００<br>アイロンかけ；プレス<br>アイロンかけ<br>手によるもの：<br>アイロン；付属品；アイロンかけ台　７５／００；７７／００，７９／００；８１／００<br>機械によるもの：<br>ローラを用いるもの；平板と協働するローラを用いるもの；曲面と協働するローラを用いるもの　６１／００；６３／００；６５／００<br>細部　６７／００<br>その他のアイロンかけ機械　６９／００<br>プレス<br>熱または冷プレス；加熱または蒸気手段を備える成形機を用いることによる平滑加工　７１／００；７３／００<br>備品のカバーまたはパッド，製品とアイロンかけ面またはプレス面との間に介在させるもの　８３／００，８５／００<br>補助装置；ラウンドリーシステム<br>リンネル製品のプレス準備；折り畳み；のり付け；計数，仕分け，印付け　８７／００；８９／００；９１／００；９３／００<br>ラウンドリーシステム，装置または機械の配置　９５／００",
+      "en": "LAUNDERING, DRYING, IRONING, PRESSING OR FOLDING TEXTILE ARTICLES; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This subclass <u>covers</u>: <ul><li>domestic or laundry dry-cleaning apparatus using volatile solvents;</li><li>domestic, laundry, or tailors' ironing or other hot-pressing of clothes, linen, or other textile articles.</li></ul></li><li>This subclass <u>does not cover</u>: <ul><li>apparatus for wringing, washing, dry-cleaning, ironing, or other hot-pressing of textiles in manufacturing operations, which is covered by subclasses <b>D06B</b>, <b>D06C</b>;</li><li>treatment of textiles by purely chemical means, which is covered by subclasses <b>D06L</b>, <b>D06M</b>.</li></ul></li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">RECEPTACLES; REMOVABLE DEVICES FOR USE WITH DIFFERENT RECEPTACLES</td><td><b><b>1/00</b>; <b>7/00</b></b></td></tr></tr><tr><td width=\"70%\">HAND IMPLEMENTS</td><td><b><b>5/00</b></b></td></tr></tr><tr><td width=\"70%\">IMPLEMENTS FOR WASHING BY HAND<tr><td width=\"70%\">Receptacles; hand rubbing apparatus</td><td><b><b>1/00</b>; <b>3/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">WASHING MACHINES<tr><td width=\"70%\">using brushes, rollers</td><td><b><b>9/00</b>, <b>11/00</b></b></td></tr></tr><tr><td width=\"70%\">with stationary receptacle: using agitators; using beating or squeezing means; with agitation of liquid; with additional drying means</td><td><b><b>13/00</b>; <b>15/00</b>; <b>17/00</b>; <b>18/00</b></b></td></tr></tr><tr><td width=\"70%\">with moving receptacle<tr><td width=\"70%\">with rotary movement, e.g. oscillatory: for washing; for washing and draining; for washing and draining with additional drying means</td><td><b><b>21/00</b>; <b>23/00</b>; <b>25/00</b></b></td></tr></tr><tr><td width=\"70%\">with bodily movements, e.g. reciprocating or swinging</td><td><b><b>27/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">using vibrations for washing</td><td><b><b>19/00</b></b></td></tr></tr><tr><td width=\"70%\">Details of above machines</td><td><b><b>1/00</b>, <b>7/00</b>, <b>37/00</b>, <b>39/00</b></b></td></tr></tr><tr><td width=\"70%\">Combinations with other apparatus or machines</td><td><b><b>29/00</b>, <b>31/00</b></b></td></tr></tr><tr><td width=\"70%\">Control of operations</td><td><b><b>33/00</b>, <b>34/00</b></b></td></tr></tr><tr><td width=\"70%\">Other washing machines or methods</td><td><b><b>35/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">RINSING APPARATUS</td><td><b><b>29/00</b>, <b>41/00</b></b></td></tr></tr><tr><td width=\"70%\">DRY-CLEANING</td><td><b><b>43/00</b></b></td></tr></tr><tr><td width=\"70%\">EXPELLING WATER FROM LINEN; SMOOTHING BY COLD ROLLING<tr><td width=\"70%\">by rollers; by presses</td><td><b><b>45/00</b>; <b>47/00</b></b></td></tr></tr><tr><td width=\"70%\">by centrifugal movement of the receptacle</td><td><b><b>23/00</b>, <b>25/00</b>, <b>49/00</b></b></td></tr></tr><tr><td width=\"70%\">Apparatus not otherwise provided for</td><td><b><b>51/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">DRYING; AIRING<tr><td width=\"70%\">Clothes-lines; clothes-pegs; other supporting means</td><td><b><b>53/00</b>; <b>55/00</b>; <b>57/00</b></b></td></tr></tr><tr><td width=\"70%\">Dryers</td><td><b><b>58/00</b></b></td></tr></tr><tr><td width=\"70%\">Special supports retaining shape of articles to be dried</td><td><b><b>59/00</b></b></td></tr></tr><tr><td width=\"70%\">Other drying</td><td><b><b>60/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">IRONING; PRESSING<tr><td width=\"70%\">Ironing<tr><td width=\"70%\">by hand:<tr><td width=\"70%\">Irons; accessories; ironing boards</td><td><b><b>75/00</b>; <b>77/00</b>, <b>79/00</b>; <b>81/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">by machine:<tr><td width=\"70%\">using rollers; using rollers coacting with table; using rollers coacting with curved surfaces</td><td><b><b>61/00</b>; <b>63/00</b>; <b>65/00</b></b></td></tr></tr><tr><td width=\"70%\">Details</td><td><b><b>67/00</b></b></td></tr></tr><tr><td width=\"70%\">Other ironing machines</td><td><b><b>69/00</b></b></td></tr></tr></tr></tr><tr><td width=\"70%\">Pressing<tr><td width=\"70%\">Hot or cold pressing; smoothing by use of formers with heat or steam</td><td><b><b>71/00</b>; <b>73/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">Coverings or pads for equipment, elements interposed between article and ironing or pressing surface</td><td><b><b>83/00</b>, <b>85/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">AUXILIARY APPARATUS; LAUNDRY SYSTEMS<tr><td width=\"70%\">Conditioning; folding; starching; counting, sorting, marking</td><td><b><b>87/00</b>; <b>89/00</b>; <b>91/00</b>; <b>93/00</b></b></td></tr></tr><tr><td width=\"70%\">Laundry systems, arrangements of apparatus or machines</td><td><b><b>95/00</b></b></td></tr></tr></tr></table>",
+      "count": 3318,
+      "sourceFile": "ipc_D.txt",
+      "kind": "ipc"
+    },
+    "D06": {
+      "code": "D06",
+      "level": 0,
+      "parent": "D",
+      "ja": "繊維または類似のものの処理；洗濯；他に分類されない可とう性材料",
+      "en": "TREATMENT OF TEXTILES OR THE LIKE; LAUNDERING; FLEXIBLE MATERIALS NOT OTHERWISE PROVIDED FOR",
+      "count": 0,
+      "sourceFile": "ipc_D.txt",
+      "kind": "ipc"
+    },
+    "D": {
+      "code": "D",
+      "level": 0,
+      "parent": null,
+      "ja": "繊維；紙<br><br><b><ul>注</ul></b><br>このセクションにおいては，下記の用語は以下に示す意味で用いる：<br>―“繊維”は比較的短く，細長い天然または人造の物質よりなるものを意味する；［２０１４．０１］<br>―“フィラメント”はエンドレスまたは準エンドレスで，細長い天然または人造の物質よりなるものを意味する；［２０１４．０１］<br>―“糸”は繊維の単一の集合体を意味し，通常紡績によって製造される；［２０１４．０１］<br>―“より糸”は糸またはフィラメントの集合体を意味し，通常加ねんによって製造される；［２０１４．０１］<br>―“合成”繊維またはフィラメントはポリマーまたは低分子を合成させたものから製造される繊維またはフィラメントまたは類似物を意味する。例は，ポリアミド，アクリル，ポリエステルまたは炭素繊維である；［２０１４．０１］<br>―“人工”繊維またはフィラメントは天然ポリマーまたはその派生物から人が製造した繊維またはフィラメントまたは類似物を意味する。例は，再生セルロース繊維または半合成繊維である；［２０１４．０１］<br>―“人造”繊維またはフィラメントは人が製造した繊維またはフィラメントを意味し，“合成”繊維または“人工”繊維を含む。［２０１４．０１］",
+      "en": "TEXTILES; PAPER; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this section, the following terms are used with the meanings indicated: <ul><li>\"fibre\" means a relatively-short, elongated member of natural or man-made material;    </li><li>\"filament\" means an endless or quasi-endless, elongated member of natural or man-made material;    </li><li>\"yarn\" means a unitary assembly of fibres, usually produced by spinning;    </li><li>\"thread\" means an assembly of yarns or filaments, usually produced by twisting;    </li><li>\"synthetic\" fibres or filaments means fibres or filaments or the like manufactured from synthesising polymers or small molecules. Examples are polyamide, acrylic, polyester or carbon fibres;    </li><li>\"artificial\" fibres or filaments means fibres or filaments or the like manufactured by man from natural polymers or their derivatives. Examples are regenerated cellulosic fibres or semi-synthetic fibres;    </li><li>\"man-made&rdquo; fibres or filaments means fibres or filaments which are manufactured by man including &ldquo;synthetic&rdquo; or &ldquo;artificial&rdquo; fibres.    </li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_D.txt",
+      "kind": "ipc"
+    },
+    "D06F1/00": {
+      "code": "D06F1/00",
+      "level": 0,
+      "parent": "D06F",
+      "ja": "洗たく容器（洗たく機に関するものＤ０６Ｆ３７／００，Ｄ０６Ｆ３９／００）",
+      "en": "Washing receptacles(of washing machines <b>D06F37/00</b>, <b>D06F39/00</b>)",
+      "count": 989,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F1/02": {
+      "code": "D06F1/02",
+      "level": 1,
+      "parent": "D06F1/00",
+      "ja": "洗たくだらい；その支持具",
+      "en": "Wash-tubs;  Supports therefor",
+      "count": 593,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F1/04": {
+      "code": "D06F1/04",
+      "level": 2,
+      "parent": "D06F1/02",
+      "ja": "波形断面を持ったたらい壁または底［２００６．０１］",
+      "en": "the tub walls or bottom having corrugations",
+      "count": 332,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F1/06": {
+      "code": "D06F1/06",
+      "level": 1,
+      "parent": "D06F1/00",
+      "ja": "洗たくボイラー用容器",
+      "en": "Wash-boiler receptacles",
+      "count": 243,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F1/08": {
+      "code": "D06F1/08",
+      "level": 2,
+      "parent": "D06F1/06",
+      "ja": "加熱による水循環に対する特殊な手段をもつもの，例．水噴射式洗たく機",
+      "en": "with special means for water circulation by heat, e.g. fountain-washers",
+      "count": 504,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F1/10": {
+      "code": "D06F1/10",
+      "level": 1,
+      "parent": "D06F1/00",
+      "ja": "カバー；ハンドル",
+      "en": "Covers; Handles",
+      "count": 67,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F1/12": {
+      "code": "D06F1/12",
+      "level": 1,
+      "parent": "D06F1/00",
+      "ja": "洗たく容器内の衣料を支持する格子たなまたは類似の構造を持った他の硬質開口の骨組み容器",
+      "en": "Racks or other rigid open containers of skeleton or like apertured construction supporting clothes in washing receptacles",
+      "count": 215,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F3/00": {
+      "code": "D06F3/00",
+      "level": 0,
+      "parent": "D06F",
+      "ja": "手用摩擦装置（波形たらい壁Ｄ０６Ｆ１／０４）",
+      "en": "Hand rubbing apparatus(corrugated tub-walls <b>D06F1/04</b>)",
+      "count": 145,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F3/02": {
+      "code": "D06F3/02",
+      "level": 1,
+      "parent": "D06F3/00",
+      "ja": "摩擦板",
+      "en": "Rubbing boards",
+      "count": 859,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F3/04": {
+      "code": "D06F3/04",
+      "level": 1,
+      "parent": "D06F3/00",
+      "ja": "手用摩擦具，例．表面にひだを有する手袋",
+      "en": "Hand rubbers, e.g. gloves with corrugated surfaces",
+      "count": 95,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F5/00": {
+      "code": "D06F5/00",
+      "level": 0,
+      "parent": "D06F",
+      "ja": "洗濯に関する手道具，例．棒（手用摩擦装置Ｄ０６Ｆ３／００）［２００６．０１］",
+      "en": "Hand implements for washing purposes, e.g. sticks(hand rubbing appliances <b>D06F3/00</b>)",
+      "count": 432,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F5/02": {
+      "code": "D06F5/02",
+      "level": 1,
+      "parent": "D06F5/00",
+      "ja": "プランジャ，洗たく棒，杆，圧搾機またはその類似物",
+      "en": "Plungers, dollies, pounders, squeezers, or the like",
+      "count": 444,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F5/04": {
+      "code": "D06F5/04",
+      "level": 2,
+      "parent": "D06F5/02",
+      "ja": "洗たくだらいのような容器に取りはずし自在な取り付け具として適用されるもの",
+      "en": "adapted for removable mounting on receptacles such as wash-tubs",
+      "count": 166,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F5/06": {
+      "code": "D06F5/06",
+      "level": 1,
+      "parent": "D06F5/00",
+      "ja": "把（は）持具",
+      "en": "Grippers",
+      "count": 153,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F7/00": {
+      "code": "D06F7/00",
+      "level": 0,
+      "parent": "D06F",
+      "ja": "どんな特殊な容器にも独立して使用することができる洗たく具，例．洗たくだらい，浴槽等に取りはずし自在に取り付けるもの",
+      "en": "Washing devices adapted to be used independently of any particular receptacle, e.g. for removable mounting on wash-tubs, bath-tubs, or the like",
+      "count": 693,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F7/02": {
+      "code": "D06F7/02",
+      "level": 1,
+      "parent": "D06F7/00",
+      "ja": "回転羽根車形のもの",
+      "en": "of the rotary-impeller type",
+      "count": 164,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F7/04": {
+      "code": "D06F7/04",
+      "level": 1,
+      "parent": "D06F7/00",
+      "ja": "振動形のもの",
+      "en": "of the vibrator type",
+      "count": 253,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F7/06": {
+      "code": "D06F7/06",
+      "level": 1,
+      "parent": "D06F7/00",
+      "ja": "空気による洗たく液かくはん",
+      "en": "agitating the washing liquid by air",
+      "count": 57,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F9/00": {
+      "code": "D06F9/00",
+      "level": 0,
+      "parent": "D06F",
+      "ja": "ブラシ形洗たく機械",
+      "en": "Brushing-type washing machines",
+      "count": 890,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F11/00": {
+      "code": "D06F11/00",
+      "level": 0,
+      "parent": "D06F",
+      "ja": "ローラを用いる洗たく機械，例．マングル形のローラを用いるもの",
+      "en": "Washing machines using rollers, e.g. of the mangle type",
+      "count": 162,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F13/00": {
+      "code": "D06F13/00",
+      "level": 0,
+      "parent": "D06F",
+      "ja": "内部に洗濯物に接触するかくはん器を備えた不動の容器をもつ洗濯機（容器に取り外し自在な取り付け具として適用されるプランジャ又はその類似物Ｄ０６Ｆ５／０４）［２００６．０１］",
+      "en": "Washing machines having receptacles, stationary for washing purposes, with agitators therein contacting the articles being washed(plungers or the like adapted for removable mounting on receptacles <b>D06F5/04</b>)",
+      "count": 1199,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F13/02": {
+      "code": "D06F13/02",
+      "level": 1,
+      "parent": "D06F13/00",
+      "ja": "内部のかくはん器が単に振動回転するもの",
+      "en": "wherein the agitator has an oscillatory rotary motion only",
+      "count": 1210,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F13/04": {
+      "code": "D06F13/04",
+      "level": 1,
+      "parent": "D06F13/00",
+      "ja": "内部のかくはん器が単に軸方向の運動をするもの",
+      "en": "wherein the agitator has an axial motion only",
+      "count": 236,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F13/06": {
+      "code": "D06F13/06",
+      "level": 1,
+      "parent": "D06F13/00",
+      "ja": "内部のかくはん器が回転運動，例．振動回転，と共に軸方向の運動をするもの",
+      "en": "wherein the agitator has both rotary, e.g. oscillating rotary, motion and axial motion",
+      "count": 101,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F13/08": {
+      "code": "D06F13/08",
+      "level": 1,
+      "parent": "D06F13/00",
+      "ja": "内部のかくはん器が旋回または軌道運動をするもの",
+      "en": "wherein the agitator has a gyratory or orbital motion",
+      "count": 145,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F15/00": {
+      "code": "D06F15/00",
+      "level": 0,
+      "parent": "D06F",
+      "ja": "内部に打ちたたき，摩擦または圧搾手段を備えた不動の容器をもつ洗たく機（容器に関する取りはずし自在の取り付け具として適用されるプランジャまたはその類似物Ｄ０６Ｆ５／０４；マングル形洗たく機Ｄ０６Ｆ１１／００）",
+      "en": "Washing machines having beating, rubbing, or squeezing means in receptacles stationary for washing purposes(plungers or the like adapted for removable mounting on receptacles <b>D06F5/04</b>; mangle-type washing machines <b>D06F11/00</b>)",
+      "count": 1708,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F15/02": {
+      "code": "D06F15/02",
+      "level": 1,
+      "parent": "D06F15/00",
+      "ja": "内部の洗たく物が柔軟な仕切り板または袋により圧搾されるもの",
+      "en": "wherein the articles being washed are squeezed by a flexible diaphragm or bag",
+      "count": 248,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F17/00": {
+      "code": "D06F17/00",
+      "level": 0,
+      "parent": "D06F",
+      "ja": "内部における洗濯作用が単に洗濯液の循環，かくはんのみにより行われる不動の容器をもつ洗濯機［２００６．０１］",
+      "en": "Washing machines having receptacles, stationary for washing purposes, wherein the washing action is effected solely by circulation or agitation of the washing liquid",
+      "count": 721,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F17/02": {
+      "code": "D06F17/02",
+      "level": 1,
+      "parent": "D06F17/00",
+      "ja": "ポンプによるもの（Ｄ０６Ｆ１７／０４が優先）",
+      "en": "by pumps(<b>D06F17/04</b> takes precedence)",
+      "count": 294,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F17/04": {
+      "code": "D06F17/04",
+      "level": 1,
+      "parent": "D06F17/00",
+      "ja": "もっぱら水の噴流によるもの",
+      "en": "solely by water jets",
+      "count": 1375,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F17/06": {
+      "code": "D06F17/06",
+      "level": 1,
+      "parent": "D06F17/00",
+      "ja": "回転羽根車によるもの",
+      "en": "by rotary impellers",
+      "count": 3007,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F17/08": {
+      "code": "D06F17/08",
+      "level": 2,
+      "parent": "D06F17/06",
+      "ja": "羽根車の駆動装置",
+      "en": "Driving arrangements for the impeller",
+      "count": 1710,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F17/10": {
+      "code": "D06F17/10",
+      "level": 2,
+      "parent": "D06F17/06",
+      "ja": "羽根車",
+      "en": "Impellers",
+      "count": 2487,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F17/12": {
+      "code": "D06F17/12",
+      "level": 1,
+      "parent": "D06F17/00",
+      "ja": "もっぱら洗たく液内に導入されるガス，例．空気または蒸気によるもの",
+      "en": "solely by gases, e.g. air or steam, introduced into the washing liquid",
+      "count": 895,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F18/00": {
+      "code": "D06F18/00",
+      "level": 0,
+      "parent": "D06F",
+      "ja": "静止の洗濯容器を備え，さらに乾燥手段をもつ洗濯機（洗濯の制御，又は洗濯及び乾燥の制御Ｄ０６Ｆ３３／００，Ｄ０６Ｆ３４／００；家庭用衣類乾燥機Ｄ０６Ｆ５８／００）［２００６．０１］",
+      "en": "Washing machines having receptacles, stationary for washing purposes, and having further drying means(control of washing or of washing and drying <b>D06F33/00</b>, <b>D06F34/00</b>; domestic laundry dryers <b>D06F58/00</b>)",
+      "count": 558,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F19/00": {
+      "code": "D06F19/00",
+      "level": 0,
+      "parent": "D06F",
+      "ja": "振動を用いる洗濯機［２００６．０１］",
+      "en": "Washing machines using vibrations for washing purposes",
+      "count": 1585,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F21/00": {
+      "code": "D06F21/00",
+      "level": 0,
+      "parent": "D06F",
+      "ja": "回転運動，例．振動運動，する容器，例．穴をもつもの，を備えた洗濯機（洗濯及び遠心脱水の両方を行う容器をもつものＤ０６Ｆ２３／００，Ｄ０６Ｆ２５／００；制御に関するものＤ０６Ｆ３３／００）［２００６．０１］",
+      "en": "Washing machines with receptacles, e.g. perforated, having a rotary movement, e.g. oscillatory movement(with receptacles serving both for washing and centrifugally separating water from the laundry <b>D06F23/00</b>, <b>D06F25/00</b>;   programme control aspects <b>D06F33/00</b>)",
+      "count": 787,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F21/02": {
+      "code": "D06F21/02",
+      "level": 1,
+      "parent": "D06F21/00",
+      "ja": "水平軸周り",
+      "en": "about a horizontal axis",
+      "count": 665,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F21/04": {
+      "code": "D06F21/04",
+      "level": 2,
+      "parent": "D06F21/02",
+      "ja": "封入容器内で行われるもの",
+      "en": "within an enclosing receptacle",
+      "count": 789,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F21/06": {
+      "code": "D06F21/06",
+      "level": 1,
+      "parent": "D06F21/00",
+      "ja": "垂直軸周り",
+      "en": "about a vertical axis",
+      "count": 475,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F21/08": {
+      "code": "D06F21/08",
+      "level": 2,
+      "parent": "D06F21/06",
+      "ja": "封入容器内で行われるもの",
+      "en": "within an enclosing receptacle",
+      "count": 314,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F21/10": {
+      "code": "D06F21/10",
+      "level": 1,
+      "parent": "D06F21/00",
+      "ja": "傾斜軸周り",
+      "en": "about an inclined axis",
+      "count": 155,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F21/12": {
+      "code": "D06F21/12",
+      "level": 1,
+      "parent": "D06F21/00",
+      "ja": "動揺運動をするもの",
+      "en": "the receptacle having a wobbling motion",
+      "count": 72,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F21/14": {
+      "code": "D06F21/14",
+      "level": 1,
+      "parent": "D06F21/00",
+      "ja": "容器に固定されていないまたは容器の一部となっていない摩擦または打ちたたき手段をもつもの",
+      "en": "with rubbing or beating means not secured to, or forming part of, the receptacle",
+      "count": 101,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F23/00": {
+      "code": "D06F23/00",
+      "level": 0,
+      "parent": "D06F",
+      "ja": "回転運動，例．振動運動，する容器，例．穴をもつもの，を備えた洗濯機で，その容器が洗濯及び遠心脱水の両方を行うもの（更に乾燥手段をもつものＤ０６Ｆ２５／００；制御に関するものＤ０６Ｆ３３／００）［２００６．０１］",
+      "en": "Washing machines with receptacles, e.g. perforated, having a rotary movement, e.g. oscillatory movement, the receptacle serving both for washing and for centrifugally separating water from the laundry(with further drying means <b>D06F25/00</b>;   programme control aspects <b>D06F33/00</b>)",
+      "count": 1155,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F23/02": {
+      "code": "D06F23/02",
+      "level": 1,
+      "parent": "D06F23/00",
+      "ja": "水平軸周りの回転または振動",
+      "en": "and rotating or oscillating about a horizontal axis",
+      "count": 2728,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F23/04": {
+      "code": "D06F23/04",
+      "level": 1,
+      "parent": "D06F23/00",
+      "ja": "垂直軸周りの回転または振動",
+      "en": "and rotating or oscillating about a vertical axis",
+      "count": 3474,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F23/06": {
+      "code": "D06F23/06",
+      "level": 1,
+      "parent": "D06F23/00",
+      "ja": "傾斜軸周りの回転または振動",
+      "en": "and rotating or oscillating about an inclined axis",
+      "count": 767,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F25/00": {
+      "code": "D06F25/00",
+      "level": 0,
+      "parent": "D06F",
+      "ja": "回転運動，例．振動運動，する容器，例．穴をもつもの，を備えた洗濯機で，その容器が洗濯及び遠心脱水の両方を行い，さらに乾燥手段，例．加熱空気を用いる，を有するもの（洗濯又は洗濯兼乾燥の制御Ｄ０６Ｆ３３／００，Ｄ０６Ｆ３４／００；家庭用衣類乾燥機Ｄ０６Ｆ５８／００）［２００６．０１］",
+      "en": "Washing machines with receptacles, e.g. perforated, having a rotary movement, e.g. oscillatory movement, the receptacle serving both for washing and for centrifugally separating water from the laundry and having further drying means, e.g. using hot air(control of washing or of washing and drying <b>D06F33/00</b>, <b>D06F34/00</b>;   domestic laundry dryers <b>D06F58/00</b>)",
+      "count": 8604,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F27/00": {
+      "code": "D06F27/00",
+      "level": 0,
+      "parent": "D06F",
+      "ja": "一体となって動く，例．往復運動，揺動，容器を備える洗たく機",
+      "en": "Washing machines with receptacles moving bodily, e.g. reciprocating, swinging",
+      "count": 333,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F29/00": {
+      "code": "D06F29/00",
+      "level": 0,
+      "parent": "D06F",
+      "ja": "共通のフレーム内に他の別個な装置，例．すすぎ装置，を備える洗たく機の結合体",
+      "en": "Combinations of a washing machine with other separate apparatus in a common frame or the like, e.g. with rinsing apparatus",
+      "count": 3152,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F29/02": {
+      "code": "D06F29/02",
+      "level": 1,
+      "parent": "D06F29/00",
+      "ja": "流体抽出装置を備えるもの（ローラ絞り器をもつものＤ０６Ｆ４５／１２）",
+      "en": "with liquid-extracting apparatus(with roller wringer <b>D06F45/12</b>)",
+      "count": 659,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F31/00": {
+      "code": "D06F31/00",
+      "level": 0,
+      "parent": "D06F",
+      "ja": "数個の洗たく機または洗たくユニット，例．流水作業装置，からなる洗たく設備",
+      "en": "Washing installations comprising an assembly of several washing machines or washing units, e.g. continuous flow assemblies",
+      "count": 2245,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F33/00": {
+      "code": "D06F33/00",
+      "level": 0,
+      "parent": "D06F",
+      "ja": "洗濯機又は洗濯乾燥機が行う運転の制御（Ｄ０６Ｆ３１／００が優先；そのための制御システムの細部Ｄ０６Ｆ３４／００；家庭用衣類乾燥機が行う運転の制御Ｄ０６Ｆ５８／３２）［２０２０．０１］<br><br><b><ul>注</ul></b><br>このグループにおいては，グループＤ０６Ｆ１０１／００～Ｄ０６Ｆ１０５／００のインデキシングコードを付与することが望ましい。",
+      "en": "Control of operations performed in washing machines or washer-dryers(<b>D06F31/00</b> takes precedence; details of control systems therefor <b>D06F34/00</b>;  control of operations performed in domestic laundry dryers <b>D06F58/32</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>In this group, it is desirable to add the indexing codes of groups <b>D06F101/00 to D06F105/00</b> .</li></ul>",
+      "count": 2385,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F33/04": {
+      "code": "D06F33/04",
+      "level": 1,
+      "parent": "D06F33/00",
+      "ja": "非電気的なもの",
+      "en": "non-electrically",
+      "count": 100,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F33/06": {
+      "code": "D06F33/06",
+      "level": 2,
+      "parent": "D06F33/04",
+      "ja": "事実上機械的なもの",
+      "en": "substantially mechanically",
+      "count": 220,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F33/08": {
+      "code": "D06F33/08",
+      "level": 2,
+      "parent": "D06F33/04",
+      "ja": "事実上水力的なもの",
+      "en": "substantially hydraulically",
+      "count": 114,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F33/10": {
+      "code": "D06F33/10",
+      "level": 2,
+      "parent": "D06F33/04",
+      "ja": "事実上気体の作用によるもの",
+      "en": "substantially pneumatically",
+      "count": 97,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F33/30": {
+      "code": "D06F33/30",
+      "level": 1,
+      "parent": "D06F33/00",
+      "ja": "制御目的又は制御対象に特徴がある洗濯機の制御（洗濯乾燥機の工程の制御Ｄ０６Ｆ３３／５０）［２０２０．０１］",
+      "en": "Control of washing machines characterised by the purpose or target of the control(controlling processes of washer-dryers <b>D06F33/50</b>)",
+      "count": 3629,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F33/32": {
+      "code": "D06F33/32",
+      "level": 2,
+      "parent": "D06F33/30",
+      "ja": "運転工程の制御，例．衣類の状態に応じた運転工程の最適化又は改良［２０２０．０１］",
+      "en": "Control of operational steps, e.g. optimisation or improvement of operational steps depending on the condition of the laundry",
+      "count": 2950,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F33/34": {
+      "code": "D06F33/34",
+      "level": 3,
+      "parent": "D06F33/32",
+      "ja": "給水に関するもの［２０２０．０１］",
+      "en": "of water filling",
+      "count": 1268,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F33/36": {
+      "code": "D06F33/36",
+      "level": 3,
+      "parent": "D06F33/32",
+      "ja": "洗いに関するもの［２０２０．０１］",
+      "en": "of washing",
+      "count": 1568,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F33/37": {
+      "code": "D06F33/37",
+      "level": 3,
+      "parent": "D06F33/32",
+      "ja": "洗剤又は添加剤の計量に関するもの［２０２０．０１］",
+      "en": "of metering of detergents or additives",
+      "count": 1397,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F33/38": {
+      "code": "D06F33/38",
+      "level": 3,
+      "parent": "D06F33/32",
+      "ja": "すすぎに関するもの［２０２０．０１］",
+      "en": "of rinsing",
+      "count": 551,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F33/40": {
+      "code": "D06F33/40",
+      "level": 3,
+      "parent": "D06F33/32",
+      "ja": "衣類の遠心脱水に関するもの［２０２０．０１］",
+      "en": "of centrifugal separation of water from the laundry",
+      "count": 1093,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F33/42": {
+      "code": "D06F33/42",
+      "level": 3,
+      "parent": "D06F33/32",
+      "ja": "排水に関するもの［２０２０．０１］",
+      "en": "of draining",
+      "count": 837,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F33/43": {
+      "code": "D06F33/43",
+      "level": 2,
+      "parent": "D06F33/30",
+      "ja": "洗濯機の部品，例．槽，の洗浄又は殺菌の制御［２０２０．０１］",
+      "en": "Control of cleaning or disinfection of washing machine parts, e.g. of tubs",
+      "count": 666,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F33/44": {
+      "code": "D06F33/44",
+      "level": 2,
+      "parent": "D06F33/30",
+      "ja": "運転時間の制御，例．全体的な運転時間の短縮［２０２０．０１］",
+      "en": "Control of the operating time, e.g. reduction of overall operating time",
+      "count": 805,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F33/46": {
+      "code": "D06F33/46",
+      "level": 2,
+      "parent": "D06F33/30",
+      "ja": "エネルギ又は水の消費量の制御［２０２０．０１］",
+      "en": "Control of the energy or water consumption",
+      "count": 679,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F33/47": {
+      "code": "D06F33/47",
+      "level": 2,
+      "parent": "D06F33/30",
+      "ja": "異常な動作状態，例．ポンプの故障，への対応（安全装置Ｄ０６Ｆ３７／４２）［２０２０．０１］",
+      "en": "Responding to irregular working conditions, e.g. malfunctioning of pumps(safety arrangements <b>D06F37/42</b>)",
+      "count": 1214,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F33/48": {
+      "code": "D06F33/48",
+      "level": 2,
+      "parent": "D06F33/30",
+      "ja": "アンバランス又は騒音の防止又は低減［２０２０．０１］",
+      "en": "Preventing or reducing imbalance or noise",
+      "count": 1362,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F33/50": {
+      "code": "D06F33/50",
+      "level": 1,
+      "parent": "D06F33/00",
+      "ja": "制御目的又は制御対象により特徴づけられる洗濯乾燥機の制御［２０２０．０１］",
+      "en": "Control of washer-dryers characterised by the purpose or target of the control",
+      "count": 513,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F33/52": {
+      "code": "D06F33/52",
+      "level": 2,
+      "parent": "D06F33/50",
+      "ja": "運転工程の制御，例．衣類の状態に応じた運転工程の最適化又は改良［２０２０．０１］",
+      "en": "Control of the operational steps, e.g. optimisation or improvement of operational steps depending on the condition of the laundry",
+      "count": 821,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F33/54": {
+      "code": "D06F33/54",
+      "level": 3,
+      "parent": "D06F33/52",
+      "ja": "給水に関するもの［２０２０．０１］",
+      "en": "of water filling",
+      "count": 177,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F33/56": {
+      "code": "D06F33/56",
+      "level": 3,
+      "parent": "D06F33/52",
+      "ja": "洗いに関するもの［２０２０．０１］",
+      "en": "of washing",
+      "count": 286,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F33/57": {
+      "code": "D06F33/57",
+      "level": 3,
+      "parent": "D06F33/52",
+      "ja": "洗剤又は添加剤の計量に関するもの［２０２０．０１］",
+      "en": "of metering of detergents or additives",
+      "count": 187,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F33/58": {
+      "code": "D06F33/58",
+      "level": 3,
+      "parent": "D06F33/52",
+      "ja": "すすぎに関するもの［２０２０．０１］",
+      "en": "of rinsing",
+      "count": 113,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F33/60": {
+      "code": "D06F33/60",
+      "level": 3,
+      "parent": "D06F33/52",
+      "ja": "衣類の遠心脱水に関するもの［２０２０．０１］",
+      "en": "of centrifugal separation of water from the laundry",
+      "count": 195,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F33/62": {
+      "code": "D06F33/62",
+      "level": 3,
+      "parent": "D06F33/52",
+      "ja": "排水に関するもの［２０２０．０１］",
+      "en": "of draining",
+      "count": 135,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F33/63": {
+      "code": "D06F33/63",
+      "level": 3,
+      "parent": "D06F33/52",
+      "ja": "気流に関するもの，例．衣類の絡まり防止のための洗い工程中の空気吹き込み［２０２０．０１］",
+      "en": "of air flow, e.g. blowing air during the washing process to prevent entanglement of the laundry",
+      "count": 180,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F33/64": {
+      "code": "D06F33/64",
+      "level": 4,
+      "parent": "D06F33/63",
+      "ja": "非加熱空気［２０２０．０１］",
+      "en": "Unheated air",
+      "count": 24,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F33/65": {
+      "code": "D06F33/65",
+      "level": 3,
+      "parent": "D06F33/52",
+      "ja": "コンディショニング又は仕上げ段階に関するもの，例．しわの平滑化又は除去［２０２０．０１］",
+      "en": "of conditioning or finishing phases, e.g. for smoothing or removing creases",
+      "count": 197,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F33/68": {
+      "code": "D06F33/68",
+      "level": 3,
+      "parent": "D06F33/52",
+      "ja": "洗濯工程及び乾燥工程の移行に関するもの［２０２０．０１］",
+      "en": "of the sequence of washing and drying operations",
+      "count": 90,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F33/69": {
+      "code": "D06F33/69",
+      "level": 2,
+      "parent": "D06F33/50",
+      "ja": "洗濯機の部品，例．槽，の洗浄又は殺菌の制御［２０２０．０１］",
+      "en": "Control of cleaning or disinfection of washer-dryer parts, e.g. of tubs",
+      "count": 304,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F33/70": {
+      "code": "D06F33/70",
+      "level": 2,
+      "parent": "D06F33/50",
+      "ja": "運転時間の制御，例．全体的な運転時間の短縮［２０２０．０１］",
+      "en": "Control of the operating time, e.g. reduction of overall operating time",
+      "count": 300,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F33/72": {
+      "code": "D06F33/72",
+      "level": 2,
+      "parent": "D06F33/50",
+      "ja": "エネルギ又は水の消費量の制御［２０２０．０１］",
+      "en": "Control of the energy or water consumption",
+      "count": 190,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F33/74": {
+      "code": "D06F33/74",
+      "level": 2,
+      "parent": "D06F33/50",
+      "ja": "異常な動作状態，例．ポンプの故障，への対応（安全装置Ｄ０６Ｆ３７／４２）［２０２０．０１］",
+      "en": "Responding to irregular working conditions, e.g. malfunctioning of pumps(safety arrangements for washing machines <b>D06F37/42</b>)",
+      "count": 254,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F33/76": {
+      "code": "D06F33/76",
+      "level": 2,
+      "parent": "D06F33/50",
+      "ja": "アンバランス又は騒音の、防止又は低減［２０２０．０１］",
+      "en": "Preventing or reducing imbalance or noise",
+      "count": 189,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F34/00": {
+      "code": "D06F34/00",
+      "level": 0,
+      "parent": "D06F",
+      "ja": "洗濯機，洗濯乾燥機又は衣類乾燥機のための制御システムの細部［２０２０．０１］<br><br><b><ul>注</ul></b><br>このグループにおいては，グループＤ０６Ｆ１０１／００～Ｄ０６Ｆ１０５／００のインデキシングコードを付与することが望ましい。",
+      "en": "Details of control systems for washing machines, washer-dryers or laundry dryers; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this group, it is desirable to add the indexing codes of groups <b>D06F101/00 to D06F105/00</b> .</li></ul>",
+      "count": 576,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F34/04": {
+      "code": "D06F34/04",
+      "level": 1,
+      "parent": "D06F34/00",
+      "ja": "信号伝達装置又はデータ伝送装置［２０２０．０１］",
+      "en": "Signal transfer or data transmission arrangements",
+      "count": 3264,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F34/05": {
+      "code": "D06F34/05",
+      "level": 2,
+      "parent": "D06F34/04",
+      "ja": "部品間の無線通信のためのもの，例．遠隔監視又は遠隔制御のためのもの［２０２０．０１］",
+      "en": "for wireless communication between components, e.g. for remote monitoring or control",
+      "count": 1687,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F34/06": {
+      "code": "D06F34/06",
+      "level": 1,
+      "parent": "D06F34/00",
+      "ja": "時間に関するもの［２０２０．０１］",
+      "en": "Timing arrangements",
+      "count": 687,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F34/08": {
+      "code": "D06F34/08",
+      "level": 1,
+      "parent": "D06F34/00",
+      "ja": "制御回路又は制御装置自体［２０２０．０１］",
+      "en": "Control circuits or arrangements thereof",
+      "count": 2736,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F34/10": {
+      "code": "D06F34/10",
+      "level": 1,
+      "parent": "D06F34/00",
+      "ja": "電源装置，例．待機電源のための回路［２０２０．０１］",
+      "en": "Power supply arrangements, e.g. stand-by circuits",
+      "count": 801,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F34/14": {
+      "code": "D06F34/14",
+      "level": 1,
+      "parent": "D06F34/00",
+      "ja": "特定パラメータの検出又は測定のための装置［２０２０．０１］",
+      "en": "Arrangements for detecting or measuring specific parameters",
+      "count": 3324,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F34/16": {
+      "code": "D06F34/16",
+      "level": 2,
+      "parent": "D06F34/14",
+      "ja": "アンバランス［２０２０．０１］",
+      "en": "Imbalance",
+      "count": 848,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F34/18": {
+      "code": "D06F34/18",
+      "level": 2,
+      "parent": "D06F34/14",
+      "ja": "衣類の状態，例．性質又は重量［２０２０．０１］",
+      "en": "Condition of the laundry, e.g. nature or weight",
+      "count": 2908,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F34/20": {
+      "code": "D06F34/20",
+      "level": 2,
+      "parent": "D06F34/14",
+      "ja": "構造的要素に起因するパラメータ，例．ドアセンサ［２０２０．０１］",
+      "en": "Parameters relating to constructional components, e.g. door sensors",
+      "count": 1163,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F34/22": {
+      "code": "D06F34/22",
+      "level": 2,
+      "parent": "D06F34/14",
+      "ja": "洗濯液の状態，例．濁度［２０２０．０１］",
+      "en": "Condition of the washing liquid, e.g. turbidity",
+      "count": 1315,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F34/24": {
+      "code": "D06F34/24",
+      "level": 3,
+      "parent": "D06F34/22",
+      "ja": "液温［２０２０．０１］",
+      "en": "Liquid temperature",
+      "count": 615,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F34/26": {
+      "code": "D06F34/26",
+      "level": 2,
+      "parent": "D06F34/14",
+      "ja": "乾燥用空気の状態，例．空気の湿度又は温度［２０２０．０１］",
+      "en": "Condition of the drying air, e.g. air humidity or temperature",
+      "count": 1139,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F34/28": {
+      "code": "D06F34/28",
+      "level": 1,
+      "parent": "D06F34/00",
+      "ja": "運転プログラム選択のための装置，例．そのための制御パネル；運転プログラムパラメータ、例．運転プログラムの選択又は運転プログラムの進行状況、を表示する装置［２０２０．０１］",
+      "en": "Arrangements for programme selection, e.g. control panels therefor; Arrangements for indicating programme parameters, e.g. the selected programme or its progress",
+      "count": 2767,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F34/30": {
+      "code": "D06F34/30",
+      "level": 2,
+      "parent": "D06F34/28",
+      "ja": "機械的構成，例．ボタン又は回転式ダイアル，に特徴のあるもの［２０２０．０１］",
+      "en": "characterised by mechanical features, e.g. buttons or rotary dials",
+      "count": 1177,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F34/32": {
+      "code": "D06F34/32",
+      "level": 2,
+      "parent": "D06F34/28",
+      "ja": "グラフィックに関する構成，例．タッチスクリーン，に特徴のあるもの［２０２０．０１］",
+      "en": "characterised by graphical features, e.g. touchscreens",
+      "count": 1413,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F34/34": {
+      "code": "D06F34/34",
+      "level": 2,
+      "parent": "D06F34/28",
+      "ja": "取り付け部分，例．取り外し可能な制御パネル又は取り外し可能な表示パネル，に特徴のあるもの［２０２０．０１］",
+      "en": "characterised by mounting or attachment features, e.g. detachable control panels or detachable display panels",
+      "count": 1039,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F35/00": {
+      "code": "D06F35/00",
+      "level": 0,
+      "parent": "D06F",
+      "ja": "他に分類されない洗たく機械，装置または方法",
+      "en": "Washing machines, apparatus, or methods not otherwise provided for",
+      "count": 9647,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F37/00": {
+      "code": "D06F37/00",
+      "level": 0,
+      "parent": "D06F",
+      "ja": "グループＤ０６Ｆ２１／００～Ｄ０６Ｆ２５／００に包含される洗濯機に特有の細部［２０２０．０１］",
+      "en": "Details specific to washing machines covered by groups <b>D06F21/00 to D06F25/00</b> ",
+      "count": 2884,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F37/02": {
+      "code": "D06F37/02",
+      "level": 1,
+      "parent": "D06F37/00",
+      "ja": "回転容器，例．ドラム",
+      "en": "Rotary receptacles, e.g. drums",
+      "count": 1564,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F37/04": {
+      "code": "D06F37/04",
+      "level": 2,
+      "parent": "D06F37/02",
+      "ja": "水平または傾斜軸周りの回転または振動に適用されるもの",
+      "en": "adapted for rotation or oscillation about a horizontal or inclined axis",
+      "count": 3189,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F37/06": {
+      "code": "D06F37/06",
+      "level": 3,
+      "parent": "D06F37/04",
+      "ja": "容器の要素となる肋（ろく）材，昇降機または摩擦手段",
+      "en": "Ribs, lifters, or rubbing means forming part of the receptacle",
+      "count": 1686,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F37/08": {
+      "code": "D06F37/08",
+      "level": 3,
+      "parent": "D06F37/04",
+      "ja": "仕切り",
+      "en": "Partitions",
+      "count": 373,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F37/10": {
+      "code": "D06F37/10",
+      "level": 3,
+      "parent": "D06F37/04",
+      "ja": "とびら；その取り付け手段",
+      "en": "Doors; Securing means therefor",
+      "count": 1617,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F37/12": {
+      "code": "D06F37/12",
+      "level": 2,
+      "parent": "D06F37/02",
+      "ja": "垂直軸周りの回転または振動に適用されるもの",
+      "en": "adapted for rotation or oscillation about a vertical axis",
+      "count": 3942,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F37/14": {
+      "code": "D06F37/14",
+      "level": 3,
+      "parent": "D06F37/12",
+      "ja": "容器の要素となる肋材，摩擦手段",
+      "en": "Ribs or rubbing means forming part of the receptacle",
+      "count": 1030,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F37/16": {
+      "code": "D06F37/16",
+      "level": 3,
+      "parent": "D06F37/12",
+      "ja": "仕切り",
+      "en": "Partitions",
+      "count": 230,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F37/18": {
+      "code": "D06F37/18",
+      "level": 3,
+      "parent": "D06F37/12",
+      "ja": "とびらまたはカバー；その取り付け手段",
+      "en": "Doors or covers; Securing means therefor",
+      "count": 689,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F37/20": {
+      "code": "D06F37/20",
+      "level": 1,
+      "parent": "D06F37/00",
+      "ja": "回転容器，電動機，槽又はケーシングに関する取り付け具，例．弾性的な据え付け具；振動の防止又は減衰［２００６．０１］",
+      "en": "Mountings, e.g. resilient mountings, for the rotary receptacle, motor, tub or casing; Preventing or damping vibrations",
+      "count": 4713,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F37/22": {
+      "code": "D06F37/22",
+      "level": 2,
+      "parent": "D06F37/20",
+      "ja": "水平軸周りに回転または振動する容器を備える機械におけるもの",
+      "en": "in machines with a receptacle rotating or oscillating about a horizontal axis",
+      "count": 4245,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F37/24": {
+      "code": "D06F37/24",
+      "level": 2,
+      "parent": "D06F37/20",
+      "ja": "垂直軸周りに回転または振動する容器を備える機械におけるもの",
+      "en": "in machines with a receptacle rotating or oscillating about a vertical axis",
+      "count": 3979,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F37/26": {
+      "code": "D06F37/26",
+      "level": 1,
+      "parent": "D06F37/00",
+      "ja": "ケーシング；槽",
+      "en": "Casings; Tubs",
+      "count": 6210,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F37/28": {
+      "code": "D06F37/28",
+      "level": 2,
+      "parent": "D06F37/26",
+      "ja": "とびら；その取り付け手段",
+      "en": "Doors; Security means therefor",
+      "count": 2662,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F37/30": {
+      "code": "D06F37/30",
+      "level": 1,
+      "parent": "D06F37/00",
+      "ja": "駆動装置（制御回路又は制御装置Ｄ０６Ｆ３４／０８）［２０２０．０１］",
+      "en": "Driving arrangements(control circuits or arrangements <b>D06F34/08</b>)",
+      "count": 7004,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F37/32": {
+      "code": "D06F37/32",
+      "level": 2,
+      "parent": "D06F37/30",
+      "ja": "定速でのみ容器を回転させるためのもの",
+      "en": "for rotating the receptacle at one speed only",
+      "count": 44,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F37/34": {
+      "code": "D06F37/34",
+      "level": 3,
+      "parent": "D06F37/32",
+      "ja": "逆転，例．振動",
+      "en": "in opposite directions, e.g. oscillating",
+      "count": 132,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F37/36": {
+      "code": "D06F37/36",
+      "level": 2,
+      "parent": "D06F37/30",
+      "ja": "２以上の速度で容器を回転させるためのもの",
+      "en": "for rotating the receptacle at more than one speed",
+      "count": 1527,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F37/38": {
+      "code": "D06F37/38",
+      "level": 3,
+      "parent": "D06F37/36",
+      "ja": "逆転",
+      "en": "in opposite directions",
+      "count": 204,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F37/40": {
+      "code": "D06F37/40",
+      "level": 2,
+      "parent": "D06F37/30",
+      "ja": "容器およびかく拌器または羽根車の駆動のためのもの，例．交互に駆動するもの",
+      "en": "for driving the receptacle and an agitator or impeller, e.g. alternatively",
+      "count": 5186,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F37/42": {
+      "code": "D06F37/42",
+      "level": 1,
+      "parent": "D06F37/00",
+      "ja": "安全装置，例．箱体のとびらの開放に応じて容器の回転を停止させる装置",
+      "en": "Safety arrangements, e.g. for stopping rotation of the receptacle upon opening of the casing door",
+      "count": 4193,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F39/00": {
+      "code": "D06F39/00",
+      "level": 0,
+      "parent": "D06F",
+      "ja": "グループＤ０６Ｆ９／００～Ｄ０６Ｆ２７／００に包含されるどの個別形式の洗濯機にも特有でない洗濯機の細部（洗濯機の制御Ｄ０６Ｆ３３／００，Ｄ０６Ｆ３４／００）［２０２４．０１］",
+      "en": "Details of washing machines not specific to a single type of machines covered by groups <b>D06F9/00 to D06F27/00</b>   (control of washing machines <b>D06F33/00</b>, <b>D06F34/00</b>)",
+      "count": 17362,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F39/02": {
+      "code": "D06F39/02",
+      "level": 1,
+      "parent": "D06F39/00",
+      "ja": "石けんまたは他の洗剤を添加する装置",
+      "en": "Devices for adding soap or other washing agents",
+      "count": 14609,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F39/04": {
+      "code": "D06F39/04",
+      "level": 1,
+      "parent": "D06F39/00",
+      "ja": "加熱装置",
+      "en": "Heating arrangements",
+      "count": 4054,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F39/06": {
+      "code": "D06F39/06",
+      "level": 1,
+      "parent": "D06F39/00",
+      "ja": "泡の発生防止または泡消しのための装置",
+      "en": "Arrangements for preventing or destroying scum",
+      "count": 1602,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F39/08": {
+      "code": "D06F39/08",
+      "level": 1,
+      "parent": "D06F39/00",
+      "ja": "液の供給又は排出装置（石鹸又は他の洗剤の供給Ｄ０６Ｆ３９／０２）［２００６．０１］",
+      "en": "Liquid supply or discharge arrangements  (supply of soap or other washing agents <b>D06F39/02</b>)",
+      "count": 27025,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F39/10": {
+      "code": "D06F39/10",
+      "level": 1,
+      "parent": "D06F39/00",
+      "ja": "ろ過装置",
+      "en": "Filtering arrangements",
+      "count": 6396,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F39/12": {
+      "code": "D06F39/12",
+      "level": 1,
+      "parent": "D06F39/00",
+      "ja": "ケーシング；槽",
+      "en": "Casings; Tubs",
+      "count": 12581,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F39/14": {
+      "code": "D06F39/14",
+      "level": 2,
+      "parent": "D06F39/12",
+      "ja": "とびらまたはカバー；その取り付け手段",
+      "en": "Doors or covers; Securing means therefor",
+      "count": 8012,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F39/20": {
+      "code": "D06F39/20",
+      "level": 1,
+      "parent": "D06F39/00",
+      "ja": "水分回収装置［２０２４．０１］",
+      "en": "Arrangements for water recovery",
+      "count": 85,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F39/30": {
+      "code": "D06F39/30",
+      "level": 1,
+      "parent": "D06F39/00",
+      "ja": "エネルギー回収装置［２０２４．０１］",
+      "en": "Arrangements for energy recovery",
+      "count": 22,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F39/40": {
+      "code": "D06F39/40",
+      "level": 1,
+      "parent": "D06F39/00",
+      "ja": "蒸気発生装置［２０２４．０１］",
+      "en": "Steam generating arrangements",
+      "count": 88,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F41/00": {
+      "code": "D06F41/00",
+      "level": 0,
+      "parent": "D06F",
+      "ja": "すすぎ装置",
+      "en": "Rinsing apparatus",
+      "count": 1584,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F43/00": {
+      "code": "D06F43/00",
+      "level": 0,
+      "parent": "D06F",
+      "ja": "揮発性溶剤を用いるドライクリーニング装置（Ｄ０６Ｆ９／００～Ｄ０６Ｆ４１／００が優先）",
+      "en": "Dry-cleaning apparatus using volatile solvents(<b>D06F9/00 to D06F41/00</b>  take precedence)",
+      "count": 1927,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F43/02": {
+      "code": "D06F43/02",
+      "level": 1,
+      "parent": "D06F43/00",
+      "ja": "１個の回転清浄容器のみのもの",
+      "en": "having one rotary cleaning receptacle only",
+      "count": 611,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F43/04": {
+      "code": "D06F43/04",
+      "level": 1,
+      "parent": "D06F43/00",
+      "ja": "２個以上の回転清浄容器をもつもの",
+      "en": "having more than one rotary cleaning receptacle",
+      "count": 63,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F43/06": {
+      "code": "D06F43/06",
+      "level": 1,
+      "parent": "D06F43/00",
+      "ja": "内部で清浄対象物が清浄室または槽を通されるもの",
+      "en": "wherein the articles to be cleaned are passed through a cleaning chamber or bath",
+      "count": 129,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F43/08": {
+      "code": "D06F43/08",
+      "level": 1,
+      "parent": "D06F43/00",
+      "ja": "溶剤の取り扱い及び再生に関連した装置［２００６．０１］",
+      "en": "Associated apparatus for handling and recovering the solvents ",
+      "count": 2645,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F45/00": {
+      "code": "D06F45/00",
+      "level": 0,
+      "parent": "D06F",
+      "ja": "２以上の協働するローラを備える絞搾機；類似の冷平滑加工装置",
+      "en": "Wringing machines with two or more co-operating rollers; Similar cold-smoothing apparatus",
+      "count": 567,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F45/02": {
+      "code": "D06F45/02",
+      "level": 1,
+      "parent": "D06F45/00",
+      "ja": "圧力がバネ手段により伝えられるもの",
+      "en": "wherein the pressure is transmitted by spring means",
+      "count": 46,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F45/04": {
+      "code": "D06F45/04",
+      "level": 2,
+      "parent": "D06F45/02",
+      "ja": "手動による急速開放手段をもつもの",
+      "en": "with hand-operated quick-release means",
+      "count": 247,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F45/06": {
+      "code": "D06F45/06",
+      "level": 2,
+      "parent": "D06F45/02",
+      "ja": "自動急速開放手段をもつもの",
+      "en": "with automatically-operated quick-release means",
+      "count": 76,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F45/08": {
+      "code": "D06F45/08",
+      "level": 1,
+      "parent": "D06F45/00",
+      "ja": "圧力が流体の手段により伝えられるもの",
+      "en": "wherein the pressure is applied by fluid means",
+      "count": 22,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F45/10": {
+      "code": "D06F45/10",
+      "level": 1,
+      "parent": "D06F45/00",
+      "ja": "３個以上の協働ローラをもつもの",
+      "en": "with three or more co-operating rollers",
+      "count": 59,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F45/12": {
+      "code": "D06F45/12",
+      "level": 1,
+      "parent": "D06F45/00",
+      "ja": "洗たく機と結合されたもの",
+      "en": "combined with washing machines",
+      "count": 239,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F45/14": {
+      "code": "D06F45/14",
+      "level": 1,
+      "parent": "D06F45/00",
+      "ja": "洗濯機，卓又はその他の支持具に取り外し自在の付属品に関する手段をもつもの［２００６．０１］",
+      "en": "with means for removable attachment to washing machines, tables or other supports",
+      "count": 45,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F45/16": {
+      "code": "D06F45/16",
+      "level": 1,
+      "parent": "D06F45/00",
+      "ja": "細部",
+      "en": "Details",
+      "count": 109,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F45/18": {
+      "code": "D06F45/18",
+      "level": 2,
+      "parent": "D06F45/16",
+      "ja": "ローラ回転の駆動または制御装置",
+      "en": "Driving or control arrangements for rotation of the rollers",
+      "count": 471,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F45/20": {
+      "code": "D06F45/20",
+      "level": 2,
+      "parent": "D06F45/16",
+      "ja": "ローラに圧力を伝えるトグルまたは他のレバー手段",
+      "en": "Toggle or other lever means for transmitting pressure to the rollers",
+      "count": 10,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F45/22": {
+      "code": "D06F45/22",
+      "level": 2,
+      "parent": "D06F45/16",
+      "ja": "ローラ",
+      "en": "Rollers",
+      "count": 137,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F45/24": {
+      "code": "D06F45/24",
+      "level": 2,
+      "parent": "D06F45/16",
+      "ja": "ローラ軸の案内またはさし込み機構；ローラ枠組みを支持するスタンド",
+      "en": "Frames guiding or housing the roller shafts; Stands for supporting the roller framework",
+      "count": 114,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F45/26": {
+      "code": "D06F45/26",
+      "level": 2,
+      "parent": "D06F45/16",
+      "ja": "排水板；給水または排水板；脱水手段",
+      "en": "Draining boards; Feed or discharge boards; Stripping means",
+      "count": 188,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F45/28": {
+      "code": "D06F45/28",
+      "level": 2,
+      "parent": "D06F45/16",
+      "ja": "ローラ間にリンネル製品を導くベルト装置",
+      "en": "Belt arrangements for guiding the linen between the rollers",
+      "count": 77,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F47/00": {
+      "code": "D06F47/00",
+      "level": 0,
+      "parent": "D06F",
+      "ja": "リンネル製品を脱水するためのプレス形の装置",
+      "en": "Apparatus of the press type for expelling water from the linen",
+      "count": 362,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F47/02": {
+      "code": "D06F47/02",
+      "level": 1,
+      "parent": "D06F47/00",
+      "ja": "機械の作動によるラムによるもの",
+      "en": "by a mechanically-actuated ram",
+      "count": 213,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F47/04": {
+      "code": "D06F47/04",
+      "level": 1,
+      "parent": "D06F47/00",
+      "ja": "流体の作動によるラムによるもの",
+      "en": "by a fluid-actuated ram",
+      "count": 192,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F47/06": {
+      "code": "D06F47/06",
+      "level": 1,
+      "parent": "D06F47/00",
+      "ja": "柔軟な仕切板によるもの",
+      "en": "by a flexible diaphragm",
+      "count": 290,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F47/08": {
+      "code": "D06F47/08",
+      "level": 1,
+      "parent": "D06F47/00",
+      "ja": "カバー；その取り付け手段",
+      "en": "Covers; Securing means therefor",
+      "count": 43,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F49/00": {
+      "code": "D06F49/00",
+      "level": 0,
+      "parent": "D06F",
+      "ja": "工業用に適さない家庭用遠心脱水機又は類似の遠心脱水機［２００６．０１］",
+      "en": "Domestic spin-dryers or similar spin-dryers not suitable for industrial use",
+      "count": 2688,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F49/02": {
+      "code": "D06F49/02",
+      "level": 1,
+      "parent": "D06F49/00",
+      "ja": "回転容器の構造",
+      "en": "Bowl construction",
+      "count": 1183,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F49/04": {
+      "code": "D06F49/04",
+      "level": 1,
+      "parent": "D06F49/00",
+      "ja": "回転容器の駆動",
+      "en": "Bowl drive",
+      "count": 1755,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F49/06": {
+      "code": "D06F49/06",
+      "level": 1,
+      "parent": "D06F49/00",
+      "ja": "回転容器又はケーシングの据え付け具，例．弾性的な据え付け具；振動の防止又は減衰［２００６．０１］",
+      "en": "Mountings, e.g. resilient mountings, for the bowl or casings; Preventing or damping vibrations",
+      "count": 1139,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F49/08": {
+      "code": "D06F49/08",
+      "level": 1,
+      "parent": "D06F49/00",
+      "ja": "流体放出装置",
+      "en": "Liquid discharge arrangements",
+      "count": 204,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F51/00": {
+      "code": "D06F51/00",
+      "level": 0,
+      "parent": "D06F",
+      "ja": "グループＤ０６Ｆ４５／００～Ｄ０６Ｆ４９／００に分類されない，リンネル製品からの脱水または排水装置",
+      "en": "Apparatus for expelling or draining water from the linen, not provided for in groups <b>D06F45/00 to D06F49/00</b> ",
+      "count": 208,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F51/02": {
+      "code": "D06F51/02",
+      "level": 1,
+      "parent": "D06F51/00",
+      "ja": "捩（ねじ）りによるもの",
+      "en": "by twisting",
+      "count": 228,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F53/00": {
+      "code": "D06F53/00",
+      "level": 0,
+      "parent": "D06F",
+      "ja": "衣料の物干し綱；その支持具（衣料用物干し綱を結合させた乾燥機構Ｄ０６Ｆ５７／００）［２００６．０１］",
+      "en": "Clothes-lines; Supports therefor(drying frames incorporating clothes-lines <b>D06F57/00</b>)",
+      "count": 1382,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F53/02": {
+      "code": "D06F53/02",
+      "level": 1,
+      "parent": "D06F53/00",
+      "ja": "衣料用物干し綱",
+      "en": "Clothes-lines",
+      "count": 673,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F53/04": {
+      "code": "D06F53/04",
+      "level": 1,
+      "parent": "D06F53/00",
+      "ja": "支持具，例．柱，衣料の物干し綱用支柱［２００６．０１］",
+      "en": "Supports, e.g. poles, props for clothes-lines",
+      "count": 1419,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F55/00": {
+      "code": "D06F55/00",
+      "level": 0,
+      "parent": "D06F",
+      "ja": "干物止め",
+      "en": "Clothes-pegs",
+      "count": 3449,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F55/02": {
+      "code": "D06F55/02",
+      "level": 1,
+      "parent": "D06F55/00",
+      "ja": "枢着された締め具をもつもの",
+      "en": "with pivoted clamping members",
+      "count": 1121,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F57/00": {
+      "code": "D06F57/00",
+      "level": 0,
+      "parent": "D06F",
+      "ja": "単なる物干し綱以外の，乾燥又は干されるリンネル製品又は衣服の支持手段（加熱または強制空気循環手段との組合せＤ０６Ｆ５８／００；特殊な被乾燥物の形状を維持させるために適用されるものＤ０６Ｆ５９／００）［２００６．０１］",
+      "en": "Supporting means, other than simple clothes-lines, for linen or garments to be dried or aired(in combination with means for heating or positive air circulation <b>D06F58/00</b>;  adapted to retain the shape of particular articles being dried <b>D06F59/00</b>)",
+      "count": 12645,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F57/02": {
+      "code": "D06F57/02",
+      "level": 1,
+      "parent": "D06F57/00",
+      "ja": "柱にすえ付けられたもの，例．回転できるようにしたもの",
+      "en": "mounted on pillar, e.g. rotatably",
+      "count": 1819,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F57/04": {
+      "code": "D06F57/04",
+      "level": 2,
+      "parent": "D06F57/02",
+      "ja": "および放射状の腕，例．折りたたみ可能なもの，をもつもの",
+      "en": "and having radial arms, e.g. collapsible",
+      "count": 1365,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F57/06": {
+      "code": "D06F57/06",
+      "level": 1,
+      "parent": "D06F57/00",
+      "ja": "水平の棒に連結された垂直部材を包含するもの",
+      "en": "comprising vertical members connected by horizontal bars",
+      "count": 1984,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F57/08": {
+      "code": "D06F57/08",
+      "level": 1,
+      "parent": "D06F57/00",
+      "ja": "折りたたみ式スタンド（Ｄ０６Ｆ５７／０６が優先）",
+      "en": "Folding stands(<b>D06F57/06</b> takes precedence)",
+      "count": 4490,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F57/10": {
+      "code": "D06F57/10",
+      "level": 2,
+      "parent": "D06F57/08",
+      "ja": "無精ばさみ式",
+      "en": "of the lazy-tongs type",
+      "count": 1119,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F57/12": {
+      "code": "D06F57/12",
+      "level": 1,
+      "parent": "D06F57/00",
+      "ja": "壁，天井，暖房器またはその他の物への取り付けに特に適したもの",
+      "en": "specially adapted for attachment to walls, ceilings, stoves, or other structures or objects",
+      "count": 15257,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F58/00": {
+      "code": "D06F58/00",
+      "level": 0,
+      "parent": "D06F",
+      "ja": "家庭用衣類乾燥機［２０２０．０１］<br><br><b><ul>注</ul></b><br>このグループにおいては，グループＤ０６Ｆ１０１／００～Ｄ０６Ｆ１０５／００のインデキシングコードを付加することが望ましい。",
+      "en": "Domestic laundry dryers; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this group, it is desirable to add the indexing codes of groups <b>D06F101/00 to D06F105/00</b> .</li></ul>",
+      "count": 8083,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F58/02": {
+      "code": "D06F58/02",
+      "level": 1,
+      "parent": "D06F58/00",
+      "ja": "水平軸周りを回転する乾燥ドラムをもつもの［２００６．０１］",
+      "en": "having dryer drums rotating about a horizontal axis",
+      "count": 9853,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F58/04": {
+      "code": "D06F58/04",
+      "level": 2,
+      "parent": "D06F58/02",
+      "ja": "細部（制御又は調整装置Ｄ０６Ｆ３４／００）［２００６．０１］",
+      "en": "Details(controlling or regulating devices <b>D06F34/00</b>)",
+      "count": 5137,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F58/06": {
+      "code": "D06F58/06",
+      "level": 3,
+      "parent": "D06F58/04",
+      "ja": "回転ドラムの支持［３］",
+      "en": "Mountings for the rotating drums",
+      "count": 460,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F58/08": {
+      "code": "D06F58/08",
+      "level": 3,
+      "parent": "D06F58/04",
+      "ja": "駆動装置［３］",
+      "en": "Driving arrangements",
+      "count": 964,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F58/10": {
+      "code": "D06F58/10",
+      "level": 1,
+      "parent": "D06F58/00",
+      "ja": "加熱または換気手段をもつ乾燥キャビネットあるいは乾燥室［３］",
+      "en": "Drying cabinets or drying chambers having heating or ventilating means",
+      "count": 12028,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F58/12": {
+      "code": "D06F58/12",
+      "level": 2,
+      "parent": "D06F58/10",
+      "ja": "衣類を移動させる，例．無端軌道に沿って，搬送手段をもつもの［３］",
+      "en": "having conveying means for moving clothes, e.g. along an endless track",
+      "count": 1018,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F58/14": {
+      "code": "D06F58/14",
+      "level": 2,
+      "parent": "D06F58/10",
+      "ja": "折りたたみ式乾燥キャビネット；壁掛けの折りたたみ式フード［３］",
+      "en": "Collapsible drying cabinets; Wall mounted collapsible hoods",
+      "count": 1096,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F58/16": {
+      "code": "D06F58/16",
+      "level": 1,
+      "parent": "D06F58/00",
+      "ja": "洗たく物が接触する加熱面をもつもの（Ｄ０６Ｆ５９／００が優先）［３］",
+      "en": "having heatable surfaces for contacting the laundry(<b>D06F59/00</b> takes precedence)",
+      "count": 418,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F58/18": {
+      "code": "D06F58/18",
+      "level": 1,
+      "parent": "D06F58/00",
+      "ja": "洗たく機に取外し可能な，または扉に支持された乾燥装置［３］",
+      "en": "Detachable or door-mounted drying arrangements for washing machines",
+      "count": 514,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F58/20": {
+      "code": "D06F58/20",
+      "level": 1,
+      "parent": "D06F58/00",
+      "ja": "家庭用衣類乾燥機の一般的な細部（Ｄ０６Ｆ５９／００が優先）［２００６．０１］",
+      "en": "General details of domestic laundry dryers(<b>D06F59/00</b> takes precedence)",
+      "count": 19295,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F58/22": {
+      "code": "D06F58/22",
+      "level": 2,
+      "parent": "D06F58/20",
+      "ja": "糸屑捕集装置［３］",
+      "en": "Lint collecting arrangements",
+      "count": 3465,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F58/24": {
+      "code": "D06F58/24",
+      "level": 2,
+      "parent": "D06F58/20",
+      "ja": "凝縮装置［３］",
+      "en": "Condensing arrangements",
+      "count": 4588,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F58/26": {
+      "code": "D06F58/26",
+      "level": 2,
+      "parent": "D06F58/20",
+      "ja": "加熱装置，例．ガス加熱機器（Ｄ０６Ｆ５８／１８が優先）［３］",
+      "en": "Heating arrangements, e.g. gas heating equipment(<b>D06F58/18</b> takes precedence)",
+      "count": 7166,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F58/30": {
+      "code": "D06F58/30",
+      "level": 1,
+      "parent": "D06F58/00",
+      "ja": "乾燥工程（家庭用衣類乾燥機における一連の操作の制御Ｄ０６Ｆ５８／３２）［２０２０．０１］",
+      "en": "Drying processes(controlling a series of operations in domestic laundry dryers <b>D06F58/32</b>)",
+      "count": 872,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F58/32": {
+      "code": "D06F58/32",
+      "level": 1,
+      "parent": "D06F58/00",
+      "ja": "家庭用衣類乾燥機で実行される運転の制御（制御システムの細部，例．特定パラメータの検出又は測定，又はプログラムの選択又は指示のためのものＤ０６Ｆ３４／００；洗濯乾燥機で実行される操作の制御Ｄ０６Ｆ３３／５０）［２０２０．０１］",
+      "en": "Control of operations performed in domestic laundry dryers (control of operations performed in washer-dryers <b>D06F33/50</b>;  details of control systems, e.g. for detecting or measuring specific parameters or for selection or indication of programs <b>D06F34/00</b>)",
+      "count": 796,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F58/34": {
+      "code": "D06F58/34",
+      "level": 2,
+      "parent": "D06F58/32",
+      "ja": "制御目的又は制御対象に特徴があるもの［２０２０．０１］",
+      "en": "characterised by the purpose or target of the control",
+      "count": 770,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F58/36": {
+      "code": "D06F58/36",
+      "level": 3,
+      "parent": "D06F58/34",
+      "ja": "運転工程の制御，例．衣類の状態に応じた運転工程の最適化又は改良［２０２０．０１］",
+      "en": "Control of operational steps, e.g. for optimisation or improvement of operational steps depending on the condition of the laundry",
+      "count": 644,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F58/38": {
+      "code": "D06F58/38",
+      "level": 4,
+      "parent": "D06F58/36",
+      "ja": "乾燥工程に関するもの，例．目標湿度の達成［２０２０．０１］",
+      "en": "of drying, e.g. to achieve the target humidity",
+      "count": 2662,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F58/40": {
+      "code": "D06F58/40",
+      "level": 5,
+      "parent": "D06F58/38",
+      "ja": "乾燥室を運転温度に初期加熱する制御［２０２０．０１］",
+      "en": "Control of the initial heating of the drying chamber to its operating temperature",
+      "count": 205,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F58/42": {
+      "code": "D06F58/42",
+      "level": 5,
+      "parent": "D06F58/38",
+      "ja": "非加熱空気によるもの［２０２０．０１］",
+      "en": "by unheated air",
+      "count": 47,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F58/44": {
+      "code": "D06F58/44",
+      "level": 4,
+      "parent": "D06F58/36",
+      "ja": "コンディショニング又は仕上げ段階に関するもの，例．しわの平滑化又は除去［２０２０．０１］",
+      "en": "of conditioning or finishing, e.g. for smoothing or removing creases",
+      "count": 442,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F58/45": {
+      "code": "D06F58/45",
+      "level": 3,
+      "parent": "D06F58/34",
+      "ja": "機械部品，例．熱交換又はフィルタ，の清掃又は殺菌［２０２０．０１］",
+      "en": "Cleaning or disinfection of machine parts, e.g. of heat exchangers or filters",
+      "count": 354,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F58/46": {
+      "code": "D06F58/46",
+      "level": 3,
+      "parent": "D06F58/34",
+      "ja": "運転時間の制御［２０２０．０１］",
+      "en": "Control of the operating time",
+      "count": 577,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F58/48": {
+      "code": "D06F58/48",
+      "level": 3,
+      "parent": "D06F58/34",
+      "ja": "エネルギ消費量の制御［２０２０．０１］",
+      "en": "Control of the energy consumption",
+      "count": 451,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F58/50": {
+      "code": "D06F58/50",
+      "level": 3,
+      "parent": "D06F58/34",
+      "ja": "異常な動作状態，例．ブロワの故障，の対応［２０２０．０１］",
+      "en": "Responding to irregular working conditions, e.g. malfunctioning of blowers",
+      "count": 664,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F58/52": {
+      "code": "D06F58/52",
+      "level": 3,
+      "parent": "D06F58/34",
+      "ja": "騒音の防止又は低減［２０２０．０１］",
+      "en": "Preventing or reducing noise",
+      "count": 108,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F59/00": {
+      "code": "D06F59/00",
+      "level": 0,
+      "parent": "D06F",
+      "ja": "特殊な乾燥対象物の形保持に適用される支持具，例．加熱手段を組み込んだもの",
+      "en": "Supports adapted to retain the shape of particular articles being dried, e.g. incorporating heating means",
+      "count": 671,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F59/02": {
+      "code": "D06F59/02",
+      "level": 1,
+      "parent": "D06F59/00",
+      "ja": "衣服に対するもの",
+      "en": "for garments",
+      "count": 2294,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F59/04": {
+      "code": "D06F59/04",
+      "level": 2,
+      "parent": "D06F59/02",
+      "ja": "手袋に対するもの",
+      "en": "for gloves",
+      "count": 282,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F59/06": {
+      "code": "D06F59/06",
+      "level": 2,
+      "parent": "D06F59/02",
+      "ja": "靴下に対するもの",
+      "en": "for stockings",
+      "count": 471,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F59/08": {
+      "code": "D06F59/08",
+      "level": 1,
+      "parent": "D06F59/00",
+      "ja": "カーテン，テーブル掛け，その他のシート状物に対するもの",
+      "en": "for curtains, table cloths, or other articles of sheet form",
+      "count": 467,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F60/00": {
+      "code": "D06F60/00",
+      "level": 0,
+      "parent": "D06F",
+      "ja": "グループＤ０６Ｆ５３／００～Ｄ０６Ｆ５９／００に分類されない乾燥［２００９．０１］",
+      "en": "Drying not provided for in groups <b>D06F53/00 to D06F59/00</b> ",
+      "count": 142,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F61/00": {
+      "code": "D06F61/00",
+      "level": 0,
+      "parent": "D06F",
+      "ja": "２以上の協動する加圧ローラを用いるアイロンかけ機",
+      "en": "Ironing machines using two or more co-operating pressing rollers",
+      "count": 113,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F61/02": {
+      "code": "D06F61/02",
+      "level": 1,
+      "parent": "D06F61/00",
+      "ja": "２つのローラをもつもの",
+      "en": "with two rollers",
+      "count": 285,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F61/04": {
+      "code": "D06F61/04",
+      "level": 1,
+      "parent": "D06F61/00",
+      "ja": "１つのローラを上にした３つ以上のローラをもつもの",
+      "en": "with three or more rollers one above the other",
+      "count": 60,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F61/06": {
+      "code": "D06F61/06",
+      "level": 1,
+      "parent": "D06F61/00",
+      "ja": "連続的に配置した対ローラをもつもの",
+      "en": "with successive pairs of rollers",
+      "count": 50,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F61/08": {
+      "code": "D06F61/08",
+      "level": 1,
+      "parent": "D06F61/00",
+      "ja": "１つの中心ローラとそれに協働する多数の周囲ローラをもつもの",
+      "en": "with one central roller co-operating with a plurality of circumferential rollers",
+      "count": 61,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F61/10": {
+      "code": "D06F61/10",
+      "level": 1,
+      "parent": "D06F61/00",
+      "ja": "２つ以上の中心ローラとそれに協働する多数の周囲ローラをもつもの",
+      "en": "with two or more central rollers co-operating with a plurality of circumferential rollers",
+      "count": 33,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F63/00": {
+      "code": "D06F63/00",
+      "level": 0,
+      "parent": "D06F",
+      "ja": "固定または運動する平板とそれに協働する１または多数のローラをもつアイロンかけ機（カバーまたはパットＤ０６Ｆ８３／００）",
+      "en": "Ironing machines having a roller or rollers coacting with a fixed or moving flat bed or table(coverings or pads <b>D06F83/00</b>)",
+      "count": 328,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F63/02": {
+      "code": "D06F63/02",
+      "level": 1,
+      "parent": "D06F63/00",
+      "ja": "固定または運動する平板とそれに協働する２以上のローラをもつもの",
+      "en": "with two or more rollers co-acting with a fixed or moving flat bed or table",
+      "count": 108,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F65/00": {
+      "code": "D06F65/00",
+      "level": 0,
+      "parent": "D06F",
+      "ja": "曲面とそれに協働する回転ローラをもったアイロンかけ機",
+      "en": "Ironing machines with rollers rotating against curved surfaces",
+      "count": 172,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F65/02": {
+      "code": "D06F65/02",
+      "level": 1,
+      "parent": "D06F65/00",
+      "ja": "１つのローラのみをもつもの",
+      "en": "with one roller only",
+      "count": 169,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F65/04": {
+      "code": "D06F65/04",
+      "level": 2,
+      "parent": "D06F65/02",
+      "ja": "ローラに対して手動または足踏みでベッドを圧迫させるもの",
+      "en": "the bed being urged against the roller by hand or foot",
+      "count": 107,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F65/06": {
+      "code": "D06F65/06",
+      "level": 2,
+      "parent": "D06F65/02",
+      "ja": "ローラに対して動力でベッドを圧迫させるもの［２００６．０１］",
+      "en": "the bed being urged against the roller by power",
+      "count": 327,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F65/08": {
+      "code": "D06F65/08",
+      "level": 2,
+      "parent": "D06F65/02",
+      "ja": "ベッドに対してローラを圧迫させるもの",
+      "en": "the roller being urged against the bed",
+      "count": 105,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F65/10": {
+      "code": "D06F65/10",
+      "level": 1,
+      "parent": "D06F65/00",
+      "ja": "２以上の曲面とそれに協働する２以上のローラをもつもの",
+      "en": "with two or more rollers co-operating with two or more curved surfaces",
+      "count": 193,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F67/00": {
+      "code": "D06F67/00",
+      "level": 0,
+      "parent": "D06F",
+      "ja": "グループＤ０６Ｆ６１／００，Ｄ０６Ｆ６３／００またはＤ０６Ｆ６５／００に分類されるアイロンかけ機の細部（アイロンかけまたはプレスこてに用いるカバーまたはパットＤ０６Ｆ８３／００）",
+      "en": "Details of ironing machines provided for in groups <b>D06F61/00</b>, <b>D06F63/00</b>, or <b>D06F65/00</b>(coverings or pads for ironing or pressing members <b>D06F83/00</b>)",
+      "count": 719,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F67/02": {
+      "code": "D06F67/02",
+      "level": 1,
+      "parent": "D06F67/00",
+      "ja": "ローラ；その加熱装置",
+      "en": "Rollers; Heating arrangements therefor",
+      "count": 516,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F67/04": {
+      "code": "D06F67/04",
+      "level": 1,
+      "parent": "D06F67/00",
+      "ja": "リンネル製品の送り装置または延展装置",
+      "en": "Arrangements for feeding or spreading the linen",
+      "count": 1000,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F67/06": {
+      "code": "D06F67/06",
+      "level": 1,
+      "parent": "D06F67/00",
+      "ja": "ローラからリンネル製品をはがす装置",
+      "en": "Means for stripping the linen from the rollers",
+      "count": 98,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F67/08": {
+      "code": "D06F67/08",
+      "level": 1,
+      "parent": "D06F67/00",
+      "ja": "ベッド；その加熱装置［２］",
+      "en": "Beds; Heating arrangements therefor",
+      "count": 292,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F67/10": {
+      "code": "D06F67/10",
+      "level": 1,
+      "parent": "D06F67/00",
+      "ja": "駆動装置［２］",
+      "en": "Driving arrangements",
+      "count": 269,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F69/00": {
+      "code": "D06F69/00",
+      "level": 0,
+      "parent": "D06F",
+      "ja": "他に分類されないアイロンかけ機",
+      "en": "Ironing machines not otherwise provided for",
+      "count": 683,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F69/02": {
+      "code": "D06F69/02",
+      "level": 1,
+      "parent": "D06F69/00",
+      "ja": "エンドレスまたはその他のアイロンかけもしくはプレスかけベルトまたはエプロンを用いるもの",
+      "en": "using endless or other ironing or pressing belts or aprons",
+      "count": 319,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F69/04": {
+      "code": "D06F69/04",
+      "level": 1,
+      "parent": "D06F69/00",
+      "ja": "相互に滑動する平面をもつもの",
+      "en": "with relatively-sliding flat surfaces",
+      "count": 651,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F71/00": {
+      "code": "D06F71/00",
+      "level": 0,
+      "parent": "D06F",
+      "ja": "衣服，リンネル製品又はその他の布帛製品をプレスこてと製品が相互に動かないようにして，加熱プレスする装置；衣服，リンネル製品又はその他の布帛製品を加熱しないでプレスする類似の装置［２００６．０１］",
+      "en": "Apparatus for hot-pressing clothes, linen or other textile articles, i.e. wherein there is substantially no relative movement between pressing element and article while pressure is being applied to the article; Similar machines for cold-pressing clothes, linen or other textile articles",
+      "count": 1098,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F71/02": {
+      "code": "D06F71/02",
+      "level": 1,
+      "parent": "D06F71/00",
+      "ja": "すべてが手動または足踏みによって作動されるもの（Ｄ０６Ｆ７１／０８が優先）",
+      "en": "actuated wholly by hand or foot(<b>D06F71/08</b> takes precedence)",
+      "count": 697,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F71/04": {
+      "code": "D06F71/04",
+      "level": 1,
+      "parent": "D06F71/00",
+      "ja": "動力によって作動されるもの（Ｄ０６Ｆ７１／０８が優先）",
+      "en": "power-actuated(<b>D06F71/08</b> takes precedence)",
+      "count": 538,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F71/06": {
+      "code": "D06F71/06",
+      "level": 2,
+      "parent": "D06F71/04",
+      "ja": "流体によって作動されるもの",
+      "en": "fluid-actuated",
+      "count": 746,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F71/08": {
+      "code": "D06F71/08",
+      "level": 1,
+      "parent": "D06F71/00",
+      "ja": "１つ以上のプレスこてが連続するプレス操作の間に横に移動するもの［２００６．０１］",
+      "en": "wherein one or more of the pressing elements is moved laterally between successive pressing operations ",
+      "count": 139,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F71/10": {
+      "code": "D06F71/10",
+      "level": 2,
+      "parent": "D06F71/08",
+      "ja": "垂直軸を中心とする揺動によるもの",
+      "en": "by movement about a vertical axis",
+      "count": 125,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F71/12": {
+      "code": "D06F71/12",
+      "level": 2,
+      "parent": "D06F71/08",
+      "ja": "水平軸を中心とする揺動によるもの",
+      "en": "by movement about a horizontal axis",
+      "count": 93,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F71/14": {
+      "code": "D06F71/14",
+      "level": 2,
+      "parent": "D06F71/08",
+      "ja": "直線運動によるもの",
+      "en": "by a rectilinear movement",
+      "count": 76,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F71/16": {
+      "code": "D06F71/16",
+      "level": 1,
+      "parent": "D06F71/00",
+      "ja": "プレスまたはプレス台をもつもの（Ｄ０６Ｆ７１／１８が優先）",
+      "en": "having a pressing element or buck adapted to provide interior support for a garment to be pressed(<b>D06F71/18</b> takes precedence)",
+      "count": 195,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F71/18": {
+      "code": "D06F71/18",
+      "level": 1,
+      "parent": "D06F71/00",
+      "ja": "特定の衣服又は衣服の部分をプレスする装置［２００６．０１］",
+      "en": "specially adapted for pressing particular garments or parts thereof ",
+      "count": 600,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F71/20": {
+      "code": "D06F71/20",
+      "level": 2,
+      "parent": "D06F71/18",
+      "ja": "シャツのプレス",
+      "en": "for pressing shirts",
+      "count": 330,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F71/22": {
+      "code": "D06F71/22",
+      "level": 2,
+      "parent": "D06F71/18",
+      "ja": "カラーのプレス",
+      "en": "for pressing collars",
+      "count": 447,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F71/24": {
+      "code": "D06F71/24",
+      "level": 2,
+      "parent": "D06F71/18",
+      "ja": "カフスのプレス",
+      "en": "for pressing cuffs",
+      "count": 119,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F71/26": {
+      "code": "D06F71/26",
+      "level": 2,
+      "parent": "D06F71/18",
+      "ja": "肩部または首廻り部のプレス",
+      "en": "for pressing shoulders or necks",
+      "count": 113,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F71/28": {
+      "code": "D06F71/28",
+      "level": 2,
+      "parent": "D06F71/18",
+      "ja": "袖，ズボンまたはその他の筒状の衣服または衣服の部分のプレス",
+      "en": "for pressing sleeves, trousers, or other tubular garments or tubular parts of garments",
+      "count": 414,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F71/29": {
+      "code": "D06F71/29",
+      "level": 3,
+      "parent": "D06F71/28",
+      "ja": "ズボン［４］",
+      "en": "Trousers",
+      "count": 905,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F71/30": {
+      "code": "D06F71/30",
+      "level": 1,
+      "parent": "D06F71/00",
+      "ja": "特に縫い目をプレスする装置（特定の衣服または衣服の部分をプレスするため特に適合するものＤ０６Ｆ７１／１８）［２００６．０１］",
+      "en": "specially adapted for pressing seams (specially adapted for pressing particular garments or parts thereof <b>D06F71/18</b>)",
+      "count": 211,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F71/32": {
+      "code": "D06F71/32",
+      "level": 1,
+      "parent": "D06F71/00",
+      "ja": "細部",
+      "en": "Details",
+      "count": 1053,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F71/34": {
+      "code": "D06F71/34",
+      "level": 2,
+      "parent": "D06F71/32",
+      "ja": "加熱装置；蒸気またはその他のガスを供給または除去する装置",
+      "en": "Heating arrangements; Arrangements for supplying or removing steam or other gases",
+      "count": 1397,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F71/36": {
+      "code": "D06F71/36",
+      "level": 2,
+      "parent": "D06F71/32",
+      "ja": "プレスこて（特定の衣服またはその部分のプレスに使用するものＤ０６Ｆ７１／１８；カバーまたはパットＤ０６Ｆ８３／００）",
+      "en": "Pressing elements(for use in pressing particular garments or parts thereof <b>D06F71/18</b>; coverings or pads therefor <b>D06F83/00</b>)",
+      "count": 919,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F71/38": {
+      "code": "D06F71/38",
+      "level": 2,
+      "parent": "D06F71/32",
+      "ja": "送り装置（プレスこての揺動による送りＤ０６Ｆ７１／０８）",
+      "en": "Feeding arrangements(feeding by lateral movement of pressing elements <b>D06F71/08</b>)",
+      "count": 327,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F71/40": {
+      "code": "D06F71/40",
+      "level": 2,
+      "parent": "D06F71/32",
+      "ja": "プレスされる製品の保持具または伸張具",
+      "en": "Holders or stretchers for the article to be pressed",
+      "count": 796,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F73/00": {
+      "code": "D06F73/00",
+      "level": 0,
+      "parent": "D06F",
+      "ja": "成形台，芯体，伸張具又は内挿組立台を用い，熱又は蒸気を作用させることによって，衣服その他の布帛製品からしわを除去し又は平滑加工する装置（外部圧力手段と結合したものＤ０６Ｆ７１／００）［２００６．０１］",
+      "en": "Apparatus for smoothing or removing creases from garments or other textile articles by formers, cores, stretchers, or internal frames, with the application of heat or steam(combined with external pressure means <b>D06F71/00</b>)",
+      "count": 6489,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F73/02": {
+      "code": "D06F73/02",
+      "level": 1,
+      "parent": "D06F73/00",
+      "ja": "１つ以上の処理室をもつもの［４］",
+      "en": "having one or more treatment chambers",
+      "count": 1693,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F75/00": {
+      "code": "D06F75/00",
+      "level": 0,
+      "parent": "D06F",
+      "ja": "アイロン",
+      "en": "Hand irons",
+      "count": 797,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F75/02": {
+      "code": "D06F75/02",
+      "level": 1,
+      "parent": "D06F75/00",
+      "ja": "外部より加熱されるアイロン；電熱以外，例．固体燃料，蒸気，の手段により内部から加熱されるアイロン",
+      "en": "Externally-heated hand irons; Hand irons internally heated by means other than electricity, e.g. by solid fuel, by steam",
+      "count": 676,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F75/04": {
+      "code": "D06F75/04",
+      "level": 2,
+      "parent": "D06F75/02",
+      "ja": "予備加熱体によるもの",
+      "en": "by pre-heated block",
+      "count": 42,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F75/06": {
+      "code": "D06F75/06",
+      "level": 2,
+      "parent": "D06F75/02",
+      "ja": "アイロンかけされる製品に蒸気または流体を供給する手段をもつもの（Ｄ０６Ｆ７５／３２が優先）",
+      "en": "with means for supplying steam or liquid to the article being ironed(<b>D06F75/32</b> takes precedence)",
+      "count": 471,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F75/08": {
+      "code": "D06F75/08",
+      "level": 1,
+      "parent": "D06F75/00",
+      "ja": "内部より電気で加熱されるアイロン",
+      "en": "Hand irons internally heated by electricity",
+      "count": 1097,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F75/10": {
+      "code": "D06F75/10",
+      "level": 2,
+      "parent": "D06F75/08",
+      "ja": "アイロンかけされる製品に蒸気を供給する手段をもつもの（Ｄ０６Ｆ７５／３２が優先）",
+      "en": "with means for supplying steam to the article being ironed(<b>D06F75/32</b> takes precedence)",
+      "count": 952,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F75/12": {
+      "code": "D06F75/12",
+      "level": 3,
+      "parent": "D06F75/10",
+      "ja": "蒸気が外部からアイロンに供給された水によって発生されるもの",
+      "en": "the steam being produced from water supplied to the iron from an external source",
+      "count": 1063,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F75/14": {
+      "code": "D06F75/14",
+      "level": 3,
+      "parent": "D06F75/10",
+      "ja": "蒸気がアイロンに保持された貯槽内の水から発生するもの",
+      "en": "the steam being produced from water in a reservoir carried by the iron",
+      "count": 2252,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F75/16": {
+      "code": "D06F75/16",
+      "level": 4,
+      "parent": "D06F75/14",
+      "ja": "蒸気を発生させるために貯槽を加熱するもの",
+      "en": "the reservoir being heated to produce the steam",
+      "count": 649,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F75/18": {
+      "code": "D06F75/18",
+      "level": 4,
+      "parent": "D06F75/14",
+      "ja": "貯槽から蒸発室に水がゆっくりと，例．滴下，供給されるもの",
+      "en": "the water being fed slowly, e.g. drop by drop, from the reservoir to a steam generator",
+      "count": 2178,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F75/20": {
+      "code": "D06F75/20",
+      "level": 3,
+      "parent": "D06F75/10",
+      "ja": "アイロンかけする製品に蒸気を噴霧する装置",
+      "en": "Arrangements for discharging the steam to the article being ironed",
+      "count": 1266,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F75/22": {
+      "code": "D06F75/22",
+      "level": 2,
+      "parent": "D06F75/08",
+      "ja": "アイロンかけされる製品に液体を供給する手段をもつもの（Ｄ０６Ｆ７５／１０が優先）",
+      "en": "with means for supplying liquid to the article being ironed(<b>D06F75/10</b> takes precedence)",
+      "count": 570,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F75/24": {
+      "code": "D06F75/24",
+      "level": 2,
+      "parent": "D06F75/08",
+      "ja": "アイロン内の加熱体の配置；熱の分配，熱の伝導又は保熱のための装置［２００６．０１］",
+      "en": "Arrangements of the heating means within the iron; Arrangements for distributing, conducting or storing the heat",
+      "count": 1694,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F75/26": {
+      "code": "D06F75/26",
+      "level": 2,
+      "parent": "D06F75/08",
+      "ja": "温度調節装置又は指示装置［２００６．０１］",
+      "en": "Temperature control or indicating arrangements",
+      "count": 3024,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F75/28": {
+      "code": "D06F75/28",
+      "level": 2,
+      "parent": "D06F75/08",
+      "ja": "電線の取り付け，保護または保持",
+      "en": "Arrangements for attaching, protecting, or supporting the electric supply cable",
+      "count": 736,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F75/30": {
+      "code": "D06F75/30",
+      "level": 1,
+      "parent": "D06F75/00",
+      "ja": "アイロンの特定な外形または形",
+      "en": "Hand irons of special external shape or form",
+      "count": 928,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F75/32": {
+      "code": "D06F75/32",
+      "level": 1,
+      "parent": "D06F75/00",
+      "ja": "アイロンを蒸気アイロンに変えるための付属品",
+      "en": "Attachments for converting hand irons to steam irons",
+      "count": 107,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F75/34": {
+      "code": "D06F75/34",
+      "level": 1,
+      "parent": "D06F75/00",
+      "ja": "取っ手，取っ手の取り付け具",
+      "en": "Handles; Handle mountings",
+      "count": 966,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F75/36": {
+      "code": "D06F75/36",
+      "level": 1,
+      "parent": "D06F75/00",
+      "ja": "ケース",
+      "en": "Casings",
+      "count": 576,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F75/38": {
+      "code": "D06F75/38",
+      "level": 1,
+      "parent": "D06F75/00",
+      "ja": "底板（Ｄ０６Ｆ７５／２０が優先）",
+      "en": "Sole plates(<b>D06F75/20</b> takes precedence)",
+      "count": 1462,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F75/40": {
+      "code": "D06F75/40",
+      "level": 1,
+      "parent": "D06F75/00",
+      "ja": "アイロンに付随するスタンドまたは支持具",
+      "en": "Stands or supports attached to the iron",
+      "count": 815,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F77/00": {
+      "code": "D06F77/00",
+      "level": 0,
+      "parent": "D06F",
+      "ja": "アイロンの加圧，持ち上げ，案内のための装置",
+      "en": "Arrangements for exerting pressure on, lifting, or guiding hand irons",
+      "count": 312,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F79/00": {
+      "code": "D06F79/00",
+      "level": 0,
+      "parent": "D06F",
+      "ja": "アイロンの付属装置",
+      "en": "Accessories for hand irons",
+      "count": 1249,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F79/02": {
+      "code": "D06F79/02",
+      "level": 1,
+      "parent": "D06F79/00",
+      "ja": "アイロンまたはアイロン台に直接取り付けていないスタンドまたは保持具",
+      "en": "Stands or supports neither attached to, nor forming part of, the iron or ironing board",
+      "count": 1700,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F79/04": {
+      "code": "D06F79/04",
+      "level": 1,
+      "parent": "D06F79/00",
+      "ja": "アイロンを外部から加熱するためのストーブ又はその他の加熱手段［２００６．０１］",
+      "en": "Stoves or other heating means specially adapted for heating irons externally",
+      "count": 298,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F79/06": {
+      "code": "D06F79/06",
+      "level": 1,
+      "parent": "D06F79/00",
+      "ja": "アイロンの一部としては組み込まれていない冷却手段",
+      "en": "Means, not forming part of the iron, for cooling the iron",
+      "count": 55,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F81/00": {
+      "code": "D06F81/00",
+      "level": 0,
+      "parent": "D06F",
+      "ja": "アイロンかけ台（カバー又はパットＤ０６Ｆ８３／００；使用位置へ引き出し可能なアイロンかけ台を備えた台所用キャビネットＡ４７Ｂ７７／１０）［２００６．０１］",
+      "en": "Ironing boards(coverings or pads therefor <b>D06F83/00</b>;  kitchen cabinets with ironing boards movable outwards to a position of use <b>A47B77/10</b>)",
+      "count": 2397,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F81/02": {
+      "code": "D06F81/02",
+      "level": 1,
+      "parent": "D06F81/00",
+      "ja": "折りたたみ式の脚枠をもつもの",
+      "en": "with collapsible underframe",
+      "count": 1146,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F81/04": {
+      "code": "D06F81/04",
+      "level": 2,
+      "parent": "D06F81/02",
+      "ja": "高さの調節手段をもつもの",
+      "en": "with means for adjusting height",
+      "count": 607,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F81/06": {
+      "code": "D06F81/06",
+      "level": 1,
+      "parent": "D06F81/00",
+      "ja": "独立した支持体，例．壁，に取り付けられるもの",
+      "en": "attachable to independent supports, e.g. walls",
+      "count": 629,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F81/08": {
+      "code": "D06F81/08",
+      "level": 1,
+      "parent": "D06F81/00",
+      "ja": "加熱，蒸気噴霧，強制通風の手段を兼ね備えたもの",
+      "en": "incorporating heating, steaming, or forced ventilation means",
+      "count": 1437,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F81/10": {
+      "code": "D06F81/10",
+      "level": 1,
+      "parent": "D06F81/00",
+      "ja": "上面板",
+      "en": "Top board elements",
+      "count": 511,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F81/12": {
+      "code": "D06F81/12",
+      "level": 1,
+      "parent": "D06F81/00",
+      "ja": "そで板；その取り付け手段",
+      "en": "Sleeve boards; Attaching means therefor",
+      "count": 268,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F81/14": {
+      "code": "D06F81/14",
+      "level": 1,
+      "parent": "D06F81/00",
+      "ja": "カバー取り付け手段",
+      "en": "Means for attaching covers",
+      "count": 92,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F83/00": {
+      "code": "D06F83/00",
+      "level": 0,
+      "parent": "D06F",
+      "ja": "アイロンかけまたはプレスこてに用いるカバーまたはパット",
+      "en": "Coverings or pads for ironing or pressing members",
+      "count": 971,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F85/00": {
+      "code": "D06F85/00",
+      "level": 0,
+      "parent": "D06F",
+      "ja": "製品とアイロンまたはプレス面間に介在する独立した部材",
+      "en": "Independent elements for interposition between the article and the ironing or pressing surface",
+      "count": 124,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F87/00": {
+      "code": "D06F87/00",
+      "level": 0,
+      "parent": "D06F",
+      "ja": "アイロンかけまたはプレスかけする製品に含湿またはその他の状態を与える装置（成形台，芯体，伸張具または内挿組立台を用い，熱または蒸気を作用させることによって，衣服その他の布帛製品からしわを除去しまたは平滑加工する装置Ｄ０６Ｆ７３／００）",
+      "en": "Apparatus for moistening or otherwise conditioning the article to be ironed or pressed(apparatus for smoothing or removing creases from garments or other textile articles by formers, cores, stretchers or internal frames, with the application of heat or steam <b>D06F73/00</b>)",
+      "count": 975,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F89/00": {
+      "code": "D06F89/00",
+      "level": 0,
+      "parent": "D06F",
+      "ja": "布帛製品のステープル留めをともなうまたはともなわない折り畳み装置［４］",
+      "en": "Apparatus for folding textile articles with or without stapling",
+      "count": 1230,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F89/02": {
+      "code": "D06F89/02",
+      "level": 1,
+      "parent": "D06F89/00",
+      "ja": "着用する布帛製品，例．シャツ［４］",
+      "en": "of textile articles to be worn, e.g. shirts",
+      "count": 1228,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F91/00": {
+      "code": "D06F91/00",
+      "level": 0,
+      "parent": "D06F",
+      "ja": "のり付け装置",
+      "en": "Starching apparatus",
+      "count": 67,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F93/00": {
+      "code": "D06F93/00",
+      "level": 0,
+      "parent": "D06F",
+      "ja": "特にラウンドリーに適合する計数，仕分け，印付け装置",
+      "en": "Counting, sorting, or marking arrangements specially adapted for laundry purposes",
+      "count": 1178,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F95/00": {
+      "code": "D06F95/00",
+      "level": 0,
+      "parent": "D06F",
+      "ja": "ラウンドリーシステム又はその装置あるいは機械の配置；移動式洗濯所（Ｄ０６Ｆ３１／００が優先）［２００６．０１］",
+      "en": "Laundry systems or arrangements of apparatus or machines; Mobile laundries(<b>D06F31/00</b> takes precedence)",
+      "count": 3776,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F101/00": {
+      "code": "D06F101/00",
+      "level": 0,
+      "parent": "D06F",
+      "ja": "家庭用洗濯機，洗濯乾燥機又は衣類乾燥機の制御のためにユーザが入力するもの［２０２０．０１］",
+      "en": "User input for the control of domestic laundry washing machines, washer-dryers or laundry dryers",
+      "count": 136,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F101/02": {
+      "code": "D06F101/02",
+      "level": 1,
+      "parent": "D06F101/00",
+      "ja": "衣類又は負荷の特徴［２０２０．０１］",
+      "en": "Characteristics of laundry or load",
+      "count": 41,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F101/04": {
+      "code": "D06F101/04",
+      "level": 2,
+      "parent": "D06F101/02",
+      "ja": "量，例．重量［２０２０．０１］",
+      "en": "Quantity, e.g. weight",
+      "count": 58,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F101/06": {
+      "code": "D06F101/06",
+      "level": 2,
+      "parent": "D06F101/02",
+      "ja": "種類又は素材［２０２０．０１］",
+      "en": "Type or material",
+      "count": 65,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F101/10": {
+      "code": "D06F101/10",
+      "level": 1,
+      "parent": "D06F101/00",
+      "ja": "回転速度［２０２０．０１］",
+      "en": "Spin speed",
+      "count": 39,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F101/12": {
+      "code": "D06F101/12",
+      "level": 1,
+      "parent": "D06F101/00",
+      "ja": "洗濯温度［２０２０．０１］",
+      "en": "Washing temperature",
+      "count": 41,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F101/14": {
+      "code": "D06F101/14",
+      "level": 1,
+      "parent": "D06F101/00",
+      "ja": "時間設定［２０２０．０１］",
+      "en": "Time settings ",
+      "count": 173,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F101/16": {
+      "code": "D06F101/16",
+      "level": 1,
+      "parent": "D06F101/00",
+      "ja": "乾燥工程のための目標湿度，例．強乾燥サイクル［２０２０．０１］",
+      "en": "Target humidity for the drying process, e.g. very-dry cycles",
+      "count": 10,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F101/18": {
+      "code": "D06F101/18",
+      "level": 1,
+      "parent": "D06F101/00",
+      "ja": "乾燥工程のための目標温度，例．低温サイクル［２０２０．０１］",
+      "en": "Target temperature for the drying process, e.g. low-temperature cycles",
+      "count": 27,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F101/20": {
+      "code": "D06F101/20",
+      "level": 1,
+      "parent": "D06F101/00",
+      "ja": "運転モード，例．繊細な衣類を洗濯するプログラム，点検モード又はリフレッシュサイクル［２０２０．０１］",
+      "en": "Operation modes, e.g. delicate laundry washing programs, service modes or refreshment cycles",
+      "count": 308,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F103/00": {
+      "code": "D06F103/00",
+      "level": 0,
+      "parent": "D06F",
+      "ja": "家庭用洗濯機，洗濯乾燥機又は衣類乾燥機の制御のために監視又は検出されるパラメータ［２０２０．０１］",
+      "en": "Parameters monitored or detected for the control of domestic laundry washing machines, washer-dryers or laundry dryers",
+      "count": 210,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F103/02": {
+      "code": "D06F103/02",
+      "level": 1,
+      "parent": "D06F103/00",
+      "ja": "衣類又は負荷の特徴［２０２０．０１］",
+      "en": "Characteristics of laundry or load",
+      "count": 974,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F103/04": {
+      "code": "D06F103/04",
+      "level": 2,
+      "parent": "D06F103/02",
+      "ja": "量，例．重量又は重量の変動［２０２０．０１］",
+      "en": "Quantity, e.g. weight or variation of weight",
+      "count": 1886,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F103/06": {
+      "code": "D06F103/06",
+      "level": 2,
+      "parent": "D06F103/02",
+      "ja": "種類又は素材［２０２０．０１］",
+      "en": "Type or material",
+      "count": 986,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F103/08": {
+      "code": "D06F103/08",
+      "level": 2,
+      "parent": "D06F103/02",
+      "ja": "湿度［２０２０．０１］",
+      "en": "Humidity",
+      "count": 600,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F103/10": {
+      "code": "D06F103/10",
+      "level": 3,
+      "parent": "D06F103/08",
+      "ja": "容量値又は抵抗値を用いるもの［２０２０．０１］",
+      "en": "expressed as capacitance or resistance",
+      "count": 80,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F103/12": {
+      "code": "D06F103/12",
+      "level": 2,
+      "parent": "D06F103/02",
+      "ja": "温度［２０２０．０１］",
+      "en": "Temperature",
+      "count": 136,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F103/14": {
+      "code": "D06F103/14",
+      "level": 1,
+      "parent": "D06F103/00",
+      "ja": "洗濯液の供給，再循環又は排水［２０２０．０１］",
+      "en": "Supply, recirculation or draining of washing liquid ",
+      "count": 317,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F103/16": {
+      "code": "D06F103/16",
+      "level": 1,
+      "parent": "D06F103/00",
+      "ja": "洗濯液の温度［２０２０．０１］",
+      "en": "Washing liquid temperature",
+      "count": 361,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F103/18": {
+      "code": "D06F103/18",
+      "level": 1,
+      "parent": "D06F103/00",
+      "ja": "洗濯液の水位［２０２０．０１］",
+      "en": "Washing liquid level",
+      "count": 1249,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F103/20": {
+      "code": "D06F103/20",
+      "level": 1,
+      "parent": "D06F103/00",
+      "ja": "洗濯液の状態，例．濁度［２０２０．０１］",
+      "en": "Washing liquid condition, e.g. turbidity",
+      "count": 601,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F103/22": {
+      "code": "D06F103/22",
+      "level": 2,
+      "parent": "D06F103/20",
+      "ja": "洗剤又は添加剤の構成［２０２０．０１］",
+      "en": "Content of detergent or additives",
+      "count": 206,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F103/24": {
+      "code": "D06F103/24",
+      "level": 1,
+      "parent": "D06F103/00",
+      "ja": "回転速度；ドラムの動作［２０２０．０１］",
+      "en": "Spin speed; Drum movements",
+      "count": 600,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F103/26": {
+      "code": "D06F103/26",
+      "level": 1,
+      "parent": "D06F103/00",
+      "ja": "アンバランス；騒音レベル［２０２０．０１］",
+      "en": "Imbalance; Noise level",
+      "count": 570,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F103/28": {
+      "code": "D06F103/28",
+      "level": 1,
+      "parent": "D06F103/00",
+      "ja": "空気の特性［２０２０．０１］",
+      "en": "Air properties",
+      "count": 113,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F103/30": {
+      "code": "D06F103/30",
+      "level": 2,
+      "parent": "D06F103/28",
+      "ja": "圧力［２０２０．０１］",
+      "en": "Pressure",
+      "count": 81,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F103/32": {
+      "code": "D06F103/32",
+      "level": 2,
+      "parent": "D06F103/28",
+      "ja": "温度［２０２０．０１］",
+      "en": "Temperature",
+      "count": 1047,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F103/34": {
+      "code": "D06F103/34",
+      "level": 2,
+      "parent": "D06F103/28",
+      "ja": "湿度［２０２０．０１］",
+      "en": "Humidity",
+      "count": 669,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F103/36": {
+      "code": "D06F103/36",
+      "level": 2,
+      "parent": "D06F103/28",
+      "ja": "流量又は流速［２０２０．０１］",
+      "en": "Flow or velocity",
+      "count": 84,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F103/38": {
+      "code": "D06F103/38",
+      "level": 1,
+      "parent": "D06F103/00",
+      "ja": "時間，例．期間［２０２０．０１］",
+      "en": "Time, e.g. duration",
+      "count": 809,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F103/40": {
+      "code": "D06F103/40",
+      "level": 1,
+      "parent": "D06F103/00",
+      "ja": "ドアの開閉又は施錠状態［２０２０．０１］",
+      "en": "Opening or locking status of doors",
+      "count": 367,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F103/42": {
+      "code": "D06F103/42",
+      "level": 1,
+      "parent": "D06F103/00",
+      "ja": "フィルタ又はポンプに関連するもの［２０２０．０１］",
+      "en": "related to filters or pumps",
+      "count": 209,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F103/44": {
+      "code": "D06F103/44",
+      "level": 1,
+      "parent": "D06F103/00",
+      "ja": "電流又は電圧［２０２０．０１］",
+      "en": "Current or voltage",
+      "count": 299,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F103/46": {
+      "code": "D06F103/46",
+      "level": 2,
+      "parent": "D06F103/44",
+      "ja": "ドラムを駆動する電動機に関するもの［２０２０．０１］",
+      "en": "of the motor driving the drum",
+      "count": 201,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F103/48": {
+      "code": "D06F103/48",
+      "level": 2,
+      "parent": "D06F103/44",
+      "ja": "ポンプを駆動する電動機に関するもの［２０２０．０１］",
+      "en": "of the motor driving the pump",
+      "count": 42,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F103/50": {
+      "code": "D06F103/50",
+      "level": 1,
+      "parent": "D06F103/00",
+      "ja": "ヒートポンプに関連するもの，例．圧力又は流量［２０２０．０１］",
+      "en": "related to heat pumps, e.g. pressure or flow rate",
+      "count": 144,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F103/52": {
+      "code": "D06F103/52",
+      "level": 1,
+      "parent": "D06F103/00",
+      "ja": "電気式加熱手段に関連するもの，例．温度又は電圧［２０２０．０１］",
+      "en": "related to electric heating means, e.g. temperature or voltage ",
+      "count": 126,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F103/54": {
+      "code": "D06F103/54",
+      "level": 1,
+      "parent": "D06F103/00",
+      "ja": "ブロワ又はファンに関連するもの［２０２０．０１］",
+      "en": "related to blowers or fans",
+      "count": 160,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F103/56": {
+      "code": "D06F103/56",
+      "level": 1,
+      "parent": "D06F103/00",
+      "ja": "ダクトに関するもの，例．切換弁の位置［２０２０．０１］",
+      "en": "related to air ducts, e.g. position of flow diverters",
+      "count": 77,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F103/58": {
+      "code": "D06F103/58",
+      "level": 1,
+      "parent": "D06F103/00",
+      "ja": "凝縮に関するもの，例．凝縮水の水位［２０２０．０１］",
+      "en": "related to condensation, e.g. condensate water level",
+      "count": 160,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F103/60": {
+      "code": "D06F103/60",
+      "level": 1,
+      "parent": "D06F103/00",
+      "ja": "補助的なコンディショニング又は仕上げ剤に関連するもの，例．香料タンクの充填水位［２０２０．０１］",
+      "en": "related to auxiliary conditioning or finishing agents, e.g. filling level of perfume tanks",
+      "count": 65,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F103/62": {
+      "code": "D06F103/62",
+      "level": 2,
+      "parent": "D06F103/60",
+      "ja": "コンディショニング又は仕上げに使用される水又は蒸気用システムに関するもの［２０２０．０１］",
+      "en": "related to systems for water or steam used for conditioning or finishing",
+      "count": 51,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F103/64": {
+      "code": "D06F103/64",
+      "level": 1,
+      "parent": "D06F103/00",
+      "ja": "照射，例．マイクロ波［２０２０．０１］",
+      "en": "Radiation, e.g. microwaves",
+      "count": 38,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F103/66": {
+      "code": "D06F103/66",
+      "level": 2,
+      "parent": "D06F103/64",
+      "ja": "乾燥による以外の衣類の処理のためのもの，例．紫外線光を用いるもの［２０２０．０１］",
+      "en": "for treatment of laundry otherwise than by drying, e.g. using UV light",
+      "count": 16,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F103/68": {
+      "code": "D06F103/68",
+      "level": 1,
+      "parent": "D06F103/00",
+      "ja": "運転モード；運転工程［２０２０．０１］",
+      "en": "Operation mode; Programme phase",
+      "count": 492,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F103/70": {
+      "code": "D06F103/70",
+      "level": 1,
+      "parent": "D06F103/00",
+      "ja": "運転サイクルの数［２０２０．０１］",
+      "en": "Number of operational cycles",
+      "count": 55,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F105/00": {
+      "code": "D06F105/00",
+      "level": 0,
+      "parent": "D06F",
+      "ja": "洗濯機，洗濯乾燥機又は衣類乾燥機の制御システムにより制御又は影響を受けるシステム又はパラメータ［２０２０．０１］",
+      "en": "Systems or parameters controlled or affected by the control systems of washing machines, washer-dryers or laundry dryers",
+      "count": 128,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F105/02": {
+      "code": "D06F105/02",
+      "level": 1,
+      "parent": "D06F105/00",
+      "ja": "給水［２０２０．０１］",
+      "en": "Water supply",
+      "count": 1021,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F105/04": {
+      "code": "D06F105/04",
+      "level": 2,
+      "parent": "D06F105/02",
+      "ja": "温水入口と冷水入口とが分離されているもの［２０２０．０１］",
+      "en": "from separate hot and cold water inlets",
+      "count": 35,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F105/06": {
+      "code": "D06F105/06",
+      "level": 1,
+      "parent": "D06F105/00",
+      "ja": "洗濯液の再循環，例．ポンプ又は切換弁によるもの［２０２０．０１］",
+      "en": "Recirculation of washing liquids, e.g. by pumps or diverting valves",
+      "count": 197,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F105/08": {
+      "code": "D06F105/08",
+      "level": 1,
+      "parent": "D06F105/00",
+      "ja": "洗濯液の排水［２０２０．０１］",
+      "en": "Draining of washing liquids",
+      "count": 617,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F105/10": {
+      "code": "D06F105/10",
+      "level": 1,
+      "parent": "D06F105/00",
+      "ja": "洗濯液の温度；そのための加熱手段［２０２０．０１］",
+      "en": "Temperature of washing liquids; Heating means therefor",
+      "count": 318,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F105/12": {
+      "code": "D06F105/12",
+      "level": 1,
+      "parent": "D06F105/00",
+      "ja": "衣類の湿度又は乾燥度［２０２０．０１］",
+      "en": "Humidity or dryness of laundry",
+      "count": 70,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F105/14": {
+      "code": "D06F105/14",
+      "level": 1,
+      "parent": "D06F105/00",
+      "ja": "衣類の温度［２０２０．０１］",
+      "en": "Temperature of laundry",
+      "count": 26,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F105/16": {
+      "code": "D06F105/16",
+      "level": 1,
+      "parent": "D06F105/00",
+      "ja": "空気の特性［２０２０．０１］",
+      "en": "Air properties",
+      "count": 7,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F105/18": {
+      "code": "D06F105/18",
+      "level": 2,
+      "parent": "D06F105/16",
+      "ja": "圧力［２０２０．０１］",
+      "en": "Pressure",
+      "count": 14,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F105/20": {
+      "code": "D06F105/20",
+      "level": 2,
+      "parent": "D06F105/16",
+      "ja": "温度［２０２０．０１］",
+      "en": "Temperature",
+      "count": 206,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F105/22": {
+      "code": "D06F105/22",
+      "level": 2,
+      "parent": "D06F105/16",
+      "ja": "湿度［２０２０．０１］",
+      "en": "Humidity",
+      "count": 62,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F105/24": {
+      "code": "D06F105/24",
+      "level": 2,
+      "parent": "D06F105/16",
+      "ja": "流量又は流速［２０２０．０１］",
+      "en": "Flow or velocity",
+      "count": 83,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F105/26": {
+      "code": "D06F105/26",
+      "level": 1,
+      "parent": "D06F105/00",
+      "ja": "ヒートポンプ［２０２０．０１］",
+      "en": "Heat pumps",
+      "count": 235,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F105/28": {
+      "code": "D06F105/28",
+      "level": 1,
+      "parent": "D06F105/00",
+      "ja": "電気式加熱手段［２０２０．０１］",
+      "en": "Electric heating",
+      "count": 857,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F105/30": {
+      "code": "D06F105/30",
+      "level": 1,
+      "parent": "D06F105/00",
+      "ja": "ブロワ［２０２０．０１］",
+      "en": "Blowers ",
+      "count": 672,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F105/32": {
+      "code": "D06F105/32",
+      "level": 1,
+      "parent": "D06F105/00",
+      "ja": "気流制御手段［２０２０．０１］",
+      "en": "Air flow control means",
+      "count": 510,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F105/34": {
+      "code": "D06F105/34",
+      "level": 1,
+      "parent": "D06F105/00",
+      "ja": "フィルタ，例．糸くず除去装置の制御［２０２０．０１］",
+      "en": "Filtering , e.g. control of lint removal devices",
+      "count": 147,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F105/36": {
+      "code": "D06F105/36",
+      "level": 1,
+      "parent": "D06F105/00",
+      "ja": "凝縮装置，例．そのための水の注入の制御［２０２０．０１］",
+      "en": "Condensing arrangements, e.g. control of water injection therefor",
+      "count": 163,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F105/38": {
+      "code": "D06F105/38",
+      "level": 1,
+      "parent": "D06F105/00",
+      "ja": "コンディショニング又は仕上げ，例．香料の注入の制御［２０２０．０１］",
+      "en": "Conditioning or finishing, e.g. control of perfume injection",
+      "count": 227,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F105/40": {
+      "code": "D06F105/40",
+      "level": 2,
+      "parent": "D06F105/38",
+      "ja": "水又は蒸気を用いるもの［２０２０．０１］",
+      "en": "using water or steam",
+      "count": 194,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F105/42": {
+      "code": "D06F105/42",
+      "level": 1,
+      "parent": "D06F105/00",
+      "ja": "洗剤又は添加剤の供給［２０２０．０１］",
+      "en": "Detergent or additive supply",
+      "count": 773,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F105/44": {
+      "code": "D06F105/44",
+      "level": 1,
+      "parent": "D06F105/00",
+      "ja": "ドアの開閉又は施錠［２０２０．０１］",
+      "en": "Opening, closing or locking of doors",
+      "count": 396,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F105/46": {
+      "code": "D06F105/46",
+      "level": 1,
+      "parent": "D06F105/00",
+      "ja": "ドラムの速度；電動機の作動，例．起動又は中断［２０２０．０１］",
+      "en": "Drum speed; Actuation of motors, e.g. starting or interrupting",
+      "count": 1087,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F105/48": {
+      "code": "D06F105/48",
+      "level": 2,
+      "parent": "D06F105/46",
+      "ja": "ドラムの速度［２０２０．０１］",
+      "en": "Drum speed",
+      "count": 1126,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F105/50": {
+      "code": "D06F105/50",
+      "level": 1,
+      "parent": "D06F105/00",
+      "ja": "起動運転，例．遅延始動又は停電後の再始動［２０２０．０１］",
+      "en": "Starting machine operation, e.g. delayed start or re-start after power cut",
+      "count": 145,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F105/52": {
+      "code": "D06F105/52",
+      "level": 1,
+      "parent": "D06F105/00",
+      "ja": "運転工程の順序変更；追加運転工程の実行；運転工程の修正，例．工程の期間を延ばすもの［２０２０．０１］",
+      "en": "Changing sequence of operational steps; Carrying out additional operational steps; Modifying operational steps, e.g. by extending duration of steps",
+      "count": 580,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F105/54": {
+      "code": "D06F105/54",
+      "level": 1,
+      "parent": "D06F105/00",
+      "ja": "通常運転モードと特殊運転モード間での切替，例．点検モード，部品洗浄モード又は待機モード［２０２０．０１］",
+      "en": "Changing between normal operation mode and special operation modes, e.g. service mode, component cleaning mode or stand-by mode",
+      "count": 343,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F105/56": {
+      "code": "D06F105/56",
+      "level": 1,
+      "parent": "D06F105/00",
+      "ja": "残り運転時間；残り運転サイクル［２０２０．０１］",
+      "en": "Remaining operation time; Remaining operational cycles",
+      "count": 365,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F105/58": {
+      "code": "D06F105/58",
+      "level": 1,
+      "parent": "D06F105/00",
+      "ja": "制御システム又はユーザへの表示又は警報［２０２０．０１］",
+      "en": "Indications or alarms to the control system or to the user",
+      "count": 1802,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F105/60": {
+      "code": "D06F105/60",
+      "level": 2,
+      "parent": "D06F105/58",
+      "ja": "音［２０２０．０１］",
+      "en": "Audible signals",
+      "count": 507,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    },
+    "D06F105/62": {
+      "code": "D06F105/62",
+      "level": 1,
+      "parent": "D06F105/00",
+      "ja": "機械の動作の停止又は無効化［２０２０．０１］",
+      "en": "Stopping or disabling machine operation",
+      "count": 305,
+      "sourceFile": "ipc_D06F.txt",
+      "kind": "ipc"
+    }
+  }
+}

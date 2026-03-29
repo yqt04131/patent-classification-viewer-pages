@@ -1,0 +1,636 @@
+{
+  "generatedAt": "2026-03-20T02:17:46.670Z",
+  "total": 63,
+  "entries": {
+    "E03B": {
+      "code": "E03B",
+      "level": 0,
+      "parent": "E03",
+      "ja": "取水，集水または配水の設備またはその方法（坑井の削孔，坑井からの流体の採取一般Ｅ２１Ｂ；管路系一般Ｆ１７Ｄ）<br><br><b><ul>サブクラス内の索引</ul></b><br>レイアウト　１／００，５／００<br>方法　１／００，３／００，９／００<br>設備　３／００，５／００，９／００<br>管系；水槽　７／００；１１／００",
+      "en": "INSTALLATIONS OR METHODS FOR OBTAINING, COLLECTING, OR DISTRIBUTING WATER(drilling wells, obtaining fluids in general from wells <b>E21B</b>; pipe-line systems in general <b>F17D</b>);<br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">LAYOUT </td><td><b><b>1/00</b>, <b>5/00</b></b></td></tr></tr><tr><td width=\"70%\">METHODS </td><td><b><b>1/00</b>, <b>3/00</b>, <b>9/00</b></b></td></tr></tr><tr><td width=\"70%\">INSTALLATIONS </td><td><b><b>3/00</b>, <b>5/00</b>, <b>9/00</b></b></td></tr></tr><tr><td width=\"70%\">PIPE SYSTEMS; TANKS </td><td><b><b>7/00</b>; <b>11/00</b></b></td></tr></tr></table>",
+      "count": 905,
+      "sourceFile": "ipc_E.txt",
+      "kind": "ipc"
+    },
+    "E03": {
+      "code": "E03",
+      "level": 0,
+      "parent": "E",
+      "ja": "上水；下水",
+      "en": "WATER SUPPLY; SEWERAGE",
+      "count": 0,
+      "sourceFile": "ipc_E.txt",
+      "kind": "ipc"
+    },
+    "E": {
+      "code": "E",
+      "level": 0,
+      "parent": null,
+      "ja": "固定構造物",
+      "en": "FIXED CONSTRUCTIONS",
+      "count": 0,
+      "sourceFile": "ipc_E.txt",
+      "kind": "ipc"
+    },
+    "E03B1/00": {
+      "code": "E03B1/00",
+      "level": 0,
+      "parent": "E03B",
+      "ja": "上水用設備の方法またはレイアウト（Ｅ０３Ｂ３／００，Ｅ０３Ｂ９／００が優先）［４］",
+      "en": "Methods or layout of installations for water supply(<b>E03B3/00</b>, <b>E03B9/00</b> take precedence)",
+      "count": 3440,
+      "sourceFile": "ipc_E03B.txt",
+      "kind": "ipc"
+    },
+    "E03B1/02": {
+      "code": "E03B1/02",
+      "level": 1,
+      "parent": "E03B1/00",
+      "ja": "公共用または類似の主上水道用のもの",
+      "en": "for public or like main supply",
+      "count": 3366,
+      "sourceFile": "ipc_E03B.txt",
+      "kind": "ipc"
+    },
+    "E03B1/04": {
+      "code": "E03B1/04",
+      "level": 1,
+      "parent": "E03B1/00",
+      "ja": "家庭用または類似の部分上水道用のもの",
+      "en": "for domestic or like local supply",
+      "count": 6141,
+      "sourceFile": "ipc_E03B.txt",
+      "kind": "ipc"
+    },
+    "E03B3/00": {
+      "code": "E03B3/00",
+      "level": 0,
+      "parent": "E03B",
+      "ja": "飲料水またはタップウォータを取水または集水する方法または設備（水処理Ｃ０２Ｆ）［４］",
+      "en": "Methods or installations for obtaining or collecting drinking water or tap water(treatment of water <b>C02F</b>)",
+      "count": 1506,
+      "sourceFile": "ipc_E03B.txt",
+      "kind": "ipc"
+    },
+    "E03B3/02": {
+      "code": "E03B3/02",
+      "level": 1,
+      "parent": "E03B3/00",
+      "ja": "雨水からのもの",
+      "en": "from rain-water",
+      "count": 40166,
+      "sourceFile": "ipc_E03B.txt",
+      "kind": "ipc"
+    },
+    "E03B3/03": {
+      "code": "E03B3/03",
+      "level": 2,
+      "parent": "E03B3/02",
+      "ja": "家庭用の雨水集水，貯水用特殊容器，例．天水おけ",
+      "en": "Special vessels for collecting or storing rain-water for use in the household, e.g. water-butts",
+      "count": 3137,
+      "sourceFile": "ipc_E03B.txt",
+      "kind": "ipc"
+    },
+    "E03B3/04": {
+      "code": "E03B3/04",
+      "level": 1,
+      "parent": "E03B3/00",
+      "ja": "地表水からのもの",
+      "en": "from surface water",
+      "count": 2941,
+      "sourceFile": "ipc_E03B.txt",
+      "kind": "ipc"
+    },
+    "E03B3/06": {
+      "code": "E03B3/06",
+      "level": 1,
+      "parent": "E03B3/00",
+      "ja": "地下水からのもの",
+      "en": "from underground",
+      "count": 1034,
+      "sourceFile": "ipc_E03B.txt",
+      "kind": "ipc"
+    },
+    "E03B3/08": {
+      "code": "E03B3/08",
+      "level": 2,
+      "parent": "E03B3/06",
+      "ja": "井戸による取水および集水（水および他の流体との組み合わせに，または他の液体のみに応用し得るものＥ２１Ｂ４３／００）",
+      "en": "Obtaining and confining water by means of wells(applicable to a combination of water and other liquids or to other liquids only <b>E21B43/00</b>)",
+      "count": 981,
+      "sourceFile": "ipc_E03B.txt",
+      "kind": "ipc"
+    },
+    "E03B3/10": {
+      "code": "E03B3/10",
+      "level": 3,
+      "parent": "E03B3/08",
+      "ja": "掘り井戸によるもの",
+      "en": "by means of pit wells",
+      "count": 410,
+      "sourceFile": "ipc_E03B.txt",
+      "kind": "ipc"
+    },
+    "E03B3/11": {
+      "code": "E03B3/11",
+      "level": 4,
+      "parent": "E03B3/10",
+      "ja": "管と組み合わせたもの，例．井戸の外側に穴があき，水平方向または上方に傾いて張り出している管",
+      "en": "in combination with tubes, e.g. perforated, extending horizontally, or upwardly inclined, exterior to the pits",
+      "count": 489,
+      "sourceFile": "ipc_E03B.txt",
+      "kind": "ipc"
+    },
+    "E03B3/12": {
+      "code": "E03B3/12",
+      "level": 3,
+      "parent": "E03B3/08",
+      "ja": "縦の管井戸によるもの",
+      "en": "by means of vertical pipe wells",
+      "count": 537,
+      "sourceFile": "ipc_E03B.txt",
+      "kind": "ipc"
+    },
+    "E03B3/14": {
+      "code": "E03B3/14",
+      "level": 3,
+      "parent": "E03B3/08",
+      "ja": "水平または傾斜井戸によるもの",
+      "en": "by means of horizontal or oblique wells",
+      "count": 86,
+      "sourceFile": "ipc_E03B.txt",
+      "kind": "ipc"
+    },
+    "E03B3/15": {
+      "code": "E03B3/15",
+      "level": 3,
+      "parent": "E03B3/08",
+      "ja": "井戸を良好に保つ方法，例．清掃，修理，再建によるもの；井戸または滞水層の容量の維持または拡張（人工的に豊富にすることＥ０３Ｂ３／３２）",
+      "en": "Keeping wells in good condition, e.g. by cleaning, repairing, regenerating; Maintaining or enlarging the capacity of wells or water-bearing layers(with artificial enrichment <b>E03B3/32</b>)",
+      "count": 1013,
+      "sourceFile": "ipc_E03B.txt",
+      "kind": "ipc"
+    },
+    "E03B3/16": {
+      "code": "E03B3/16",
+      "level": 3,
+      "parent": "E03B3/08",
+      "ja": "井戸の構成部材",
+      "en": "Component parts of wells",
+      "count": 639,
+      "sourceFile": "ipc_E03B.txt",
+      "kind": "ipc"
+    },
+    "E03B3/18": {
+      "code": "E03B3/18",
+      "level": 4,
+      "parent": "E03B3/16",
+      "ja": "井戸ろ過器（ろ過器一般Ｂ０１Ｄ２４／００～Ｂ０１Ｄ３５／００）",
+      "en": "Well filters(filters in general <b>B01D24/00 to B01D35/00</b> )",
+      "count": 867,
+      "sourceFile": "ipc_E03B.txt",
+      "kind": "ipc"
+    },
+    "E03B3/20": {
+      "code": "E03B3/20",
+      "level": 5,
+      "parent": "E03B3/18",
+      "ja": "特殊な形状の要素のもの",
+      "en": "of elements of special shape",
+      "count": 319,
+      "sourceFile": "ipc_E03B.txt",
+      "kind": "ipc"
+    },
+    "E03B3/22": {
+      "code": "E03B3/22",
+      "level": 6,
+      "parent": "E03B3/20",
+      "ja": "特定材料の選択",
+      "en": "Selection of specified materials",
+      "count": 49,
+      "sourceFile": "ipc_E03B.txt",
+      "kind": "ipc"
+    },
+    "E03B3/24": {
+      "code": "E03B3/24",
+      "level": 5,
+      "parent": "E03B3/18",
+      "ja": "ばらばらの材料で形成されるもの，例．砂利",
+      "en": "formed of loose materials, e.g. gravel",
+      "count": 152,
+      "sourceFile": "ipc_E03B.txt",
+      "kind": "ipc"
+    },
+    "E03B3/26": {
+      "code": "E03B3/26",
+      "level": 6,
+      "parent": "E03B3/24",
+      "ja": "詰め込まれたろ過材料をもつもの",
+      "en": "with packed filtering material",
+      "count": 69,
+      "sourceFile": "ipc_E03B.txt",
+      "kind": "ipc"
+    },
+    "E03B3/28": {
+      "code": "E03B3/28",
+      "level": 1,
+      "parent": "E03B3/00",
+      "ja": "湿った空気からのもの（蒸気の圧縮一般Ｂ０１Ｄ５／００；空気調節用の空気の脱湿Ｆ２４Ｆ３／１４）",
+      "en": "from humid air(condensing of vapours in general <b>B01D5/00</b>; dehumidification of air for air-conditioning <b>F24F3/14</b>)",
+      "count": 4755,
+      "sourceFile": "ipc_E03B.txt",
+      "kind": "ipc"
+    },
+    "E03B3/30": {
+      "code": "E03B3/30",
+      "level": 1,
+      "parent": "E03B3/00",
+      "ja": "雪または氷からのもの［４］",
+      "en": "from snow or ice",
+      "count": 354,
+      "sourceFile": "ipc_E03B.txt",
+      "kind": "ipc"
+    },
+    "E03B3/32": {
+      "code": "E03B3/32",
+      "level": 1,
+      "parent": "E03B3/00",
+      "ja": "人工的に豊富にする手段に関するもの，例．池や川からの供給水によるもの",
+      "en": "with artificial enrichment, e.g. by adding water from a pond or a river",
+      "count": 302,
+      "sourceFile": "ipc_E03B.txt",
+      "kind": "ipc"
+    },
+    "E03B3/34": {
+      "code": "E03B3/34",
+      "level": 2,
+      "parent": "E03B3/32",
+      "ja": "地下水についてのもの",
+      "en": "of underground water",
+      "count": 539,
+      "sourceFile": "ipc_E03B.txt",
+      "kind": "ipc"
+    },
+    "E03B3/36": {
+      "code": "E03B3/36",
+      "level": 2,
+      "parent": "E03B3/32",
+      "ja": "地表水についてのもの",
+      "en": "of surface water",
+      "count": 267,
+      "sourceFile": "ipc_E03B.txt",
+      "kind": "ipc"
+    },
+    "E03B3/38": {
+      "code": "E03B3/38",
+      "level": 1,
+      "parent": "E03B3/00",
+      "ja": "源泉用の井げた",
+      "en": "Curbs for springs",
+      "count": 32,
+      "sourceFile": "ipc_E03B.txt",
+      "kind": "ipc"
+    },
+    "E03B3/40": {
+      "code": "E03B3/40",
+      "level": 1,
+      "parent": "E03B3/00",
+      "ja": "集水用の他の装置，例．みぞ，排水管",
+      "en": "Other devices for confining, e.g. trenches, drainage",
+      "count": 466,
+      "sourceFile": "ipc_E03B.txt",
+      "kind": "ipc"
+    },
+    "E03B5/00": {
+      "code": "E03B5/00",
+      "level": 0,
+      "parent": "E03B",
+      "ja": "ポンプ施設またはポンプ設備の使用；そのレイアウト（ポンプ，ポンプ施設またはポンプ設備それ自体Ｆ０４）",
+      "en": "Use of pumping plants or installations; Layouts thereof(pumps, pumping plants or installations <u>per se</u>, <b>F04</b>)",
+      "count": 7132,
+      "sourceFile": "ipc_E03B.txt",
+      "kind": "ipc"
+    },
+    "E03B5/02": {
+      "code": "E03B5/02",
+      "level": 1,
+      "parent": "E03B5/00",
+      "ja": "建物に設備されたもの",
+      "en": "arranged in buildings",
+      "count": 1156,
+      "sourceFile": "ipc_E03B.txt",
+      "kind": "ipc"
+    },
+    "E03B5/04": {
+      "code": "E03B5/04",
+      "level": 1,
+      "parent": "E03B5/00",
+      "ja": "井戸に設備されたもの",
+      "en": "arranged in wells",
+      "count": 571,
+      "sourceFile": "ipc_E03B.txt",
+      "kind": "ipc"
+    },
+    "E03B5/06": {
+      "code": "E03B5/06",
+      "level": 2,
+      "parent": "E03B5/04",
+      "ja": "特殊装置",
+      "en": "Special equipment",
+      "count": 295,
+      "sourceFile": "ipc_E03B.txt",
+      "kind": "ipc"
+    },
+    "E03B7/00": {
+      "code": "E03B7/00",
+      "level": 0,
+      "parent": "E03B",
+      "ja": "主管，引き込み管系統（管一般Ｆ１６Ｌ）",
+      "en": "Water main or service pipe systems(pipes or tubes in general <b>F16L</b>)",
+      "count": 4362,
+      "sourceFile": "ipc_E03B.txt",
+      "kind": "ipc"
+    },
+    "E03B7/02": {
+      "code": "E03B7/02",
+      "level": 1,
+      "parent": "E03B7/00",
+      "ja": "公共用または類似の主管系",
+      "en": "Public or like main pipe systems",
+      "count": 2134,
+      "sourceFile": "ipc_E03B.txt",
+      "kind": "ipc"
+    },
+    "E03B7/04": {
+      "code": "E03B7/04",
+      "level": 1,
+      "parent": "E03B7/00",
+      "ja": "家庭用または類似の局部管系（家庭用配管工事Ｅ０３Ｃ１／０２）",
+      "en": "Domestic or like local pipe systems(domestic plumbing <b>E03C1/02</b>)",
+      "count": 2231,
+      "sourceFile": "ipc_E03B.txt",
+      "kind": "ipc"
+    },
+    "E03B7/07": {
+      "code": "E03B7/07",
+      "level": 1,
+      "parent": "E03B7/00",
+      "ja": "管系における装置の配列，例．管系におけるろ過器，流水制御器，測定装置，サイフォンまたは弁［２００６．０１］",
+      "en": "Arrangement of devices, e.g. filters, flow controls, measuring devices, siphons or valves, in the pipe systems",
+      "count": 20851,
+      "sourceFile": "ipc_E03B.txt",
+      "kind": "ipc"
+    },
+    "E03B7/08": {
+      "code": "E03B7/08",
+      "level": 2,
+      "parent": "E03B7/07",
+      "ja": "排水装置の配列（排水装置一般Ｆ１６Ｋ，Ｌ）",
+      "en": "Arrangement of draining devices(draining devices in general <b>F16K</b>, <b>F16L</b>)",
+      "count": 1860,
+      "sourceFile": "ipc_E03B.txt",
+      "kind": "ipc"
+    },
+    "E03B7/09": {
+      "code": "E03B7/09",
+      "level": 1,
+      "parent": "E03B7/00",
+      "ja": "構成部材または付属物（管清掃用具Ｂ０８Ｂ９／０２；家庭用水道管汚濁防止装置Ｅ０３Ｃ１／１０；管破裂時の損傷防止装置Ｆ１６Ｌ；管の加熱一般Ｆ１６Ｌ５３／００）",
+      "en": "Component parts or accessories(tools for cleaning pipes <b>B08B9/02</b>; devices for preventing contamination of drinking water pipes for domestic use <b>E03C1/10</b>; devices for preventing damage in case of bursts of pipes <b>F16L</b>; heating of pipes in general <b>F16L53/00</b>)",
+      "count": 6950,
+      "sourceFile": "ipc_E03B.txt",
+      "kind": "ipc"
+    },
+    "E03B7/10": {
+      "code": "E03B7/10",
+      "level": 2,
+      "parent": "E03B7/09",
+      "ja": "凍結による管の破裂防止装置（管の破裂防止装置一般Ｆ１６Ｌ５５／００）",
+      "en": "Devices preventing bursting of pipes by freezing(devices preventing bursting of pipes in general <b>F16L55/00</b>)",
+      "count": 2415,
+      "sourceFile": "ipc_E03B.txt",
+      "kind": "ipc"
+    },
+    "E03B7/12": {
+      "code": "E03B7/12",
+      "level": 3,
+      "parent": "E03B7/10",
+      "ja": "凍結を防ぐことによるもの",
+      "en": "by preventing freezing",
+      "count": 2969,
+      "sourceFile": "ipc_E03B.txt",
+      "kind": "ipc"
+    },
+    "E03B7/14": {
+      "code": "E03B7/14",
+      "level": 2,
+      "parent": "E03B7/09",
+      "ja": "凍結した管を解氷するための装置",
+      "en": "Devices for thawing frozen pipes",
+      "count": 331,
+      "sourceFile": "ipc_E03B.txt",
+      "kind": "ipc"
+    },
+    "E03B9/00": {
+      "code": "E03B9/00",
+      "level": 0,
+      "parent": "E03B",
+      "ja": "水を取り出すための方法または設備（家庭用水引き込み装置Ｅ０３Ｃ；栓または弁そのものＦ１６Ｋ）［４］",
+      "en": "Methods or installations for drawing-off water(domestic water-drawing devices <b>E03C</b>; taps or valves <u>per se</u><b>F16K</b>)",
+      "count": 1106,
+      "sourceFile": "ipc_E03B.txt",
+      "kind": "ipc"
+    },
+    "E03B9/02": {
+      "code": "E03B9/02",
+      "level": 1,
+      "parent": "E03B9/00",
+      "ja": "給水栓；その弁装置：給水栓用鍵",
+      "en": "Hydrants; Arrangement of valves therein; Keys for hydrants",
+      "count": 4448,
+      "sourceFile": "ipc_E03B.txt",
+      "kind": "ipc"
+    },
+    "E03B9/04": {
+      "code": "E03B9/04",
+      "level": 2,
+      "parent": "E03B9/02",
+      "ja": "給水栓柱",
+      "en": "Column hydrants",
+      "count": 1852,
+      "sourceFile": "ipc_E03B.txt",
+      "kind": "ipc"
+    },
+    "E03B9/06": {
+      "code": "E03B9/06",
+      "level": 3,
+      "parent": "E03B9/04",
+      "ja": "覆い蓋",
+      "en": "Covers",
+      "count": 902,
+      "sourceFile": "ipc_E03B.txt",
+      "kind": "ipc"
+    },
+    "E03B9/08": {
+      "code": "E03B9/08",
+      "level": 2,
+      "parent": "E03B9/02",
+      "ja": "地下給水栓",
+      "en": "Underground hydrants",
+      "count": 1070,
+      "sourceFile": "ipc_E03B.txt",
+      "kind": "ipc"
+    },
+    "E03B9/10": {
+      "code": "E03B9/10",
+      "level": 3,
+      "parent": "E03B9/08",
+      "ja": "保護板または覆い蓋",
+      "en": "Protective plates or covers",
+      "count": 1881,
+      "sourceFile": "ipc_E03B.txt",
+      "kind": "ipc"
+    },
+    "E03B9/12": {
+      "code": "E03B9/12",
+      "level": 3,
+      "parent": "E03B9/08",
+      "ja": "立ち上り管",
+      "en": "Stand-pipes",
+      "count": 493,
+      "sourceFile": "ipc_E03B.txt",
+      "kind": "ipc"
+    },
+    "E03B9/14": {
+      "code": "E03B9/14",
+      "level": 2,
+      "parent": "E03B9/02",
+      "ja": "給水栓用排水装置",
+      "en": "Draining devices for hydrants",
+      "count": 942,
+      "sourceFile": "ipc_E03B.txt",
+      "kind": "ipc"
+    },
+    "E03B9/16": {
+      "code": "E03B9/16",
+      "level": 2,
+      "parent": "E03B9/02",
+      "ja": "不純物，例．砂，の保留装置",
+      "en": "Devices for retaining foreign matter, e.g. sand",
+      "count": 90,
+      "sourceFile": "ipc_E03B.txt",
+      "kind": "ipc"
+    },
+    "E03B9/18": {
+      "code": "E03B9/18",
+      "level": 2,
+      "parent": "E03B9/02",
+      "ja": "給水栓用清掃用具",
+      "en": "Cleaning tools for hydrants",
+      "count": 76,
+      "sourceFile": "ipc_E03B.txt",
+      "kind": "ipc"
+    },
+    "E03B9/20": {
+      "code": "E03B9/20",
+      "level": 2,
+      "parent": "E03B9/02",
+      "ja": "飲料水を給水するための噴水塔またはその類似装置",
+      "en": "Pillar fountains or like apparatus for dispensing drinking water",
+      "count": 1169,
+      "sourceFile": "ipc_E03B.txt",
+      "kind": "ipc"
+    },
+    "E03B11/00": {
+      "code": "E03B11/00",
+      "level": 0,
+      "parent": "E03B",
+      "ja": "上水用水槽の装置または応用（天水おけＥ０３Ｂ３／０３；貯蔵関係Ｂ６５Ｄ，Ｂ６５Ｇ，Ｆ１７Ｂ，Ｆ１７Ｃ；基礎Ｅ０２Ｄ２７／３８；土木工学技術を用いる大形貯蔵容器の建設または組立てＥ０４Ｈ７／００；塔関係Ｅ０４Ｈ１２／００）",
+      "en": "Arrangements or adaptations of tanks for water supply(water-butts <b>E03B3/03</b>; storage aspects <b>B65D</b>, <b>B65G</b>, <b>F17B</b>, <b>F17C</b>; foundations <b>E02D27/38</b>; construction or assembling of bulk storage containers employing civil engineering techniques <b>E04H7/00</b>; tower aspects <b>E04H12/00</b>)",
+      "count": 12012,
+      "sourceFile": "ipc_E03B.txt",
+      "kind": "ipc"
+    },
+    "E03B11/02": {
+      "code": "E03B11/02",
+      "level": 1,
+      "parent": "E03B11/00",
+      "ja": "家庭用または類似の部分上水道用のもの",
+      "en": "for domestic or like local water supply",
+      "count": 4086,
+      "sourceFile": "ipc_E03B.txt",
+      "kind": "ipc"
+    },
+    "E03B11/04": {
+      "code": "E03B11/04",
+      "level": 2,
+      "parent": "E03B11/02",
+      "ja": "空気調整器をもたないもの",
+      "en": "without air regulator",
+      "count": 581,
+      "sourceFile": "ipc_E03B.txt",
+      "kind": "ipc"
+    },
+    "E03B11/06": {
+      "code": "E03B11/06",
+      "level": 2,
+      "parent": "E03B11/02",
+      "ja": "空気調整器をもつもの",
+      "en": "with air regulator",
+      "count": 2329,
+      "sourceFile": "ipc_E03B.txt",
+      "kind": "ipc"
+    },
+    "E03B11/08": {
+      "code": "E03B11/08",
+      "level": 3,
+      "parent": "E03B11/06",
+      "ja": "空気調整器",
+      "en": "Air regulators",
+      "count": 886,
+      "sourceFile": "ipc_E03B.txt",
+      "kind": "ipc"
+    },
+    "E03B11/10": {
+      "code": "E03B11/10",
+      "level": 1,
+      "parent": "E03B11/00",
+      "ja": "公共用または類似の主上水道用のもの",
+      "en": "for public or like main water supply",
+      "count": 2778,
+      "sourceFile": "ipc_E03B.txt",
+      "kind": "ipc"
+    },
+    "E03B11/12": {
+      "code": "E03B11/12",
+      "level": 2,
+      "parent": "E03B11/10",
+      "ja": "高置水槽",
+      "en": "of high-level tanks",
+      "count": 1606,
+      "sourceFile": "ipc_E03B.txt",
+      "kind": "ipc"
+    },
+    "E03B11/14": {
+      "code": "E03B11/14",
+      "level": 2,
+      "parent": "E03B11/10",
+      "ja": "地下水槽",
+      "en": "of underground tanks",
+      "count": 1869,
+      "sourceFile": "ipc_E03B.txt",
+      "kind": "ipc"
+    },
+    "E03B11/16": {
+      "code": "E03B11/16",
+      "level": 2,
+      "parent": "E03B11/10",
+      "ja": "ポンプ設備設置用装置の応用，例．自動制御装置",
+      "en": "Adaptations of devices for putting pumping plants in and out of operation, e.g. automatic control devices",
+      "count": 7201,
+      "sourceFile": "ipc_E03B.txt",
+      "kind": "ipc"
+    }
+  }
+}

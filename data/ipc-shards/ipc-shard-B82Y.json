@@ -1,0 +1,126 @@
+{
+  "generatedAt": "2026-03-20T02:17:46.309Z",
+  "total": 12,
+  "entries": {
+    "B82Y": {
+      "code": "B82Y",
+      "level": 0,
+      "parent": "B82",
+      "ja": "ナノ構造物の特定の使用または応用；ナノ構造物の測定または分析；ナノ構造物の製造または処理［２０１１．０１］<br><br><b><ul>注</ul></b><br>注［２０２６．０１］<br>１．国際特許分類［ＩＰＣ］指針の第１０７．２項の趣旨において，このサブクラスは二次分類のためのサブクラスである。従ってこのサブクラスの分類記号は，特許文献に付与される際に分類記号の冒頭に列挙されない。二次分類の分類記号は，発明情報としてかあるいは付加情報としてかのいずれか一方に該当するよう付与できる。<br>２．このサブクラスは，いずれかの方法により製造されるナノ構造の応用および観点を包含するが，個別の原子または分子の操作により形成されるナノ構造に限定されない。<br>３．このサブクラスは，他のサブクラスの分類記号とこのサブクラスの分類記号との組み合わせによりナノ構造に関する主題事項の包括的な探索調査が可能になるよう意図されている。従ってこのサブクラスは，国際特許分類［ＩＰＣ］の他の分類箇所にもすべてまたは部分的に存在する可能性のあるナノ構造の観点を包含する。",
+      "en": "SPECIFIC USES OR APPLICATIONS OF NANOSTRUCTURES; MEASUREMENT OR ANALYSIS OF NANOSTRUCTURES; MANUFACTURE  OR TREATMENT OF NANOSTRUCTURES; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This subclass is for obligatory secondary classification in the sense of paragraph 107bis of the Guide to the IPC. Therefore, the classification symbols of this subclass are not listed first when assigned to patent documents. Secondary classification symbols may be assigned for either invention information or additional information, as appropriate.</li><li>This subclass <u>covers</u> applications and aspects of nanostructures which are produced by any method, and is not restricted to those that are formed by manipulation of individual atoms or molecules.</li><li>This subclass is intended to enable a comprehensive search of subject matter related to nanostructures by combination of classification symbols of this subclass with classification symbols from other subclasses. Therefore, this subclass covers aspects of nanostructures that might also be entirely or partially covered elsewhere in the IPC.</li></ul>",
+      "count": 119,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B82": {
+      "code": "B82",
+      "level": 0,
+      "parent": "B",
+      "ja": "ナノテクノロジー［７］<br><br><b><ul>注</ul></b><br>このクラスにおいては，下記の用語は以下に示す意味で用いる：<br>―”ナノサイズ”または”ナノスケール”は，一以上の次元において１００ナノメートル（ｎｍ）より小さい制御された幾何学的な大きさに関係する；［２０１１．０１］<br>―”ナノ構造”は，ナノスケールに独自に起因する物理的，化学的または生物学的特性または効果が得られるようにするナノサイズの機能的要素を少なくとも一つ有している構成要素を意味する［２０１１．０１］",
+      "en": "NANOTECHNOLOGY",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B": {
+      "code": "B",
+      "level": 0,
+      "parent": null,
+      "ja": "処理操作；運輸",
+      "en": "PERFORMING OPERATIONS; TRANSPORTING",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B82Y5/00": {
+      "code": "B82Y5/00",
+      "level": 0,
+      "parent": "B82Y",
+      "ja": "ナノバイオテクノロジーまたはナノ医療，例．タンパク質工学またはドラッグデリバリー［２０１１．０１］",
+      "en": "Nanobiotechnology or nanomedicine, e.g. protein engineering or drug delivery",
+      "count": 11018,
+      "sourceFile": "ipc_B82Y.txt",
+      "kind": "ipc"
+    },
+    "B82Y10/00": {
+      "code": "B82Y10/00",
+      "level": 0,
+      "parent": "B82Y",
+      "ja": "情報処理，情報記憶または情報伝送のためのナノテクノロジー，例．量子コンピューティングまたは単電子論理回路［２０１１．０１］",
+      "en": "Nanotechnology for information processing, storage or transmission, e.g. quantum computing or single electron logic",
+      "count": 6584,
+      "sourceFile": "ipc_B82Y.txt",
+      "kind": "ipc"
+    },
+    "B82Y15/00": {
+      "code": "B82Y15/00",
+      "level": 0,
+      "parent": "B82Y",
+      "ja": "相互作用，感知または駆動のためのナノテクノロジー，例．タンパク質測定のマーカとしての量子ドットまたは分子モータ［２０１１．０１］",
+      "en": "Nanotechnology for interacting, sensing or actuating, e.g. quantum dots as markers in protein assays or molecular motors",
+      "count": 6225,
+      "sourceFile": "ipc_B82Y.txt",
+      "kind": "ipc"
+    },
+    "B82Y20/00": {
+      "code": "B82Y20/00",
+      "level": 0,
+      "parent": "B82Y",
+      "ja": "ナノ光学，例．量子光学またはフォトニック結晶［２０１１．０１］",
+      "en": "Nanooptics, e.g. quantum optics or photonic crystals",
+      "count": 14267,
+      "sourceFile": "ipc_B82Y.txt",
+      "kind": "ipc"
+    },
+    "B82Y25/00": {
+      "code": "B82Y25/00",
+      "level": 0,
+      "parent": "B82Y",
+      "ja": "ナノ磁性，例．磁気インピーダンス，異方性磁気抵抗，巨大磁気抵抗またはトンネル磁気抵抗［２０１１．０１］",
+      "en": "Nanomagnetism, e.g. magnetoimpedance, anisotropic magnetoresistance, giant magnetoresistance or tunneling magnetoresistance",
+      "count": 1404,
+      "sourceFile": "ipc_B82Y.txt",
+      "kind": "ipc"
+    },
+    "B82Y30/00": {
+      "code": "B82Y30/00",
+      "level": 0,
+      "parent": "B82Y",
+      "ja": "材料または表面科学のためのナノテクノロジー，例．ナノ複合材料［２０１１．０１］",
+      "en": "Nanotechnology for materials or surface science, e.g. nanocomposites",
+      "count": 64404,
+      "sourceFile": "ipc_B82Y.txt",
+      "kind": "ipc"
+    },
+    "B82Y35/00": {
+      "code": "B82Y35/00",
+      "level": 0,
+      "parent": "B82Y",
+      "ja": "ナノ構造物の測定または分析のための方法または装置［２０１１．０１］",
+      "en": "Methods or apparatus for measurement or analysis of nanostructures",
+      "count": 1173,
+      "sourceFile": "ipc_B82Y.txt",
+      "kind": "ipc"
+    },
+    "B82Y40/00": {
+      "code": "B82Y40/00",
+      "level": 0,
+      "parent": "B82Y",
+      "ja": "ナノ構造物の製造または処理［２０１１．０１］",
+      "en": "Manufacture or treatment of nanostructures",
+      "count": 72373,
+      "sourceFile": "ipc_B82Y.txt",
+      "kind": "ipc"
+    },
+    "B82Y99/00": {
+      "code": "B82Y99/00",
+      "level": 0,
+      "parent": "B82Y",
+      "ja": "このサブクラスの他のグループに分類されない主題事項［２０１１．０１］",
+      "en": "Subject matter not provided for in other groups of this subclass",
+      "count": 3359,
+      "sourceFile": "ipc_B82Y.txt",
+      "kind": "ipc"
+    }
+  }
+}

@@ -1,0 +1,536 @@
+window.IPC_SHARD_B28C = {
+  "generatedAt": "2026-03-20T02:17:46.154Z",
+  "total": 53,
+  "entries": {
+    "B28C": {
+      "code": "B28C",
+      "level": 0,
+      "parent": "B28",
+      "ja": "粘土の調製；粘土またはセメント類似物，例．プラスター，を含む混合物の製法（鋳型用材料の製法Ｂ２２Ｃ５／００）<br><br><b><ul>注</ul></b><br>このサブクラスにおいては，下記の用語または表現は以下に示す意味で用いる：<br>―“セメント”と”他の物質とセメントとの混合物”はプラスターを含む；<br>―“粘土”は類似のセラミック組成物を含む。",
+      "en": "PREPARING CLAY; PRODUCING MIXTURES CONTAINING CLAY OR CEMENTITIOUS MATERIAL, e.g. PLASTER(preparing material for foundry moulds <b>B22C5/00</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>In this subclass, the following terms or expressions are used with the meanings indicated:<ul><li>\"cement\" or \"mixtures of cement with other substances\" includes plaster;</li><li>\"clay\" includes like ceramic compositions.</li></ul></li></ul>",
+      "count": 838,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B28": {
+      "code": "B28",
+      "level": 0,
+      "parent": "B",
+      "ja": "セメント，粘土，または石材の加工",
+      "en": "WORKING CEMENT, CLAY, OR STONE",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B": {
+      "code": "B",
+      "level": 0,
+      "parent": null,
+      "ja": "処理操作；運輸",
+      "en": "PERFORMING OPERATIONS; TRANSPORTING",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B28C1/00": {
+      "code": "B28C1/00",
+      "level": 0,
+      "parent": "B28C",
+      "ja": "粘土を製造もしくは処理加工する装置または方法（ろ過一般Ｂ０１Ｄ；固体相互の分離Ｂ０３，Ｂ０７；化学的な部分Ｃ０４Ｂ；採鉱または採石によるものＥ２１Ｃ４１／１６，Ｅ２１Ｃ４１／２６，Ｅ２１Ｃ４７／１０）",
+      "en": "Apparatus or methods for obtaining or processing clay(filtration in general <b>B01D</b>; separation of solids from solids <b>B03</b>, <b>B07</b>; chemical part <b>C04B</b>; by mining or quarrying <b>E21C41/16</b>, <b>E21C41/26</b>, <b>E21C47/10</b>)",
+      "count": 431,
+      "sourceFile": "ipc_B28C.txt",
+      "kind": "ipc"
+    },
+    "B28C1/02": {
+      "code": "B28C1/02",
+      "level": 1,
+      "parent": "B28C1/00",
+      "ja": "粘土懸濁液の製造または処理のためのもの（懸濁液の製造または処理一般Ｂ０１）",
+      "en": "for producing or processing clay suspensions(producing or processing suspensions in general <b>B01</b>)",
+      "count": 168,
+      "sourceFile": "ipc_B28C.txt",
+      "kind": "ipc"
+    },
+    "B28C1/04": {
+      "code": "B28C1/04",
+      "level": 2,
+      "parent": "B28C1/02",
+      "ja": "懸濁液の製法，例．水との混合によるもの",
+      "en": "Producing suspensions, e.g. by blunging",
+      "count": 541,
+      "sourceFile": "ipc_B28C.txt",
+      "kind": "ipc"
+    },
+    "B28C1/06": {
+      "code": "B28C1/06",
+      "level": 2,
+      "parent": "B28C1/02",
+      "ja": "懸濁液の処理",
+      "en": "Processing suspensions",
+      "count": 202,
+      "sourceFile": "ipc_B28C.txt",
+      "kind": "ipc"
+    },
+    "B28C1/08": {
+      "code": "B28C1/08",
+      "level": 3,
+      "parent": "B28C1/06",
+      "ja": "懸濁液の分離，例．粘土の製法，石の除去（ろ過一般Ｂ０１Ｄ；固体と固体の分離Ｂ０３，Ｂ０７）",
+      "en": "Separating suspensions, e.g. for obtaining clay, for removing stones(filtration in general <b>B01D</b>; separation of solids from solids <b>B03</b>, <b>B07</b>)",
+      "count": 245,
+      "sourceFile": "ipc_B28C.txt",
+      "kind": "ipc"
+    },
+    "B28C1/10": {
+      "code": "B28C1/10",
+      "level": 1,
+      "parent": "B28C1/00",
+      "ja": "非流動状態の粘土を含む物質の処理のためのもの（粘土スラリーＢ２８Ｃ１／０２）",
+      "en": "for processing clay-containing substances in non-fluid condition(clay slurries <b>B28C1/02</b>)",
+      "count": 197,
+      "sourceFile": "ipc_B28C.txt",
+      "kind": "ipc"
+    },
+    "B28C1/12": {
+      "code": "B28C1/12",
+      "level": 2,
+      "parent": "B28C1/10",
+      "ja": "貯蔵の方法と調整；特に適合される貯蔵場所と充填または排出するための装置（成形装置への粘土供給Ｂ２８Ｂ１３／００）",
+      "en": "Storing and conditioning in storage; Specially adapted storage spaces or devices for their filling or emptying(feeding clay to shaping apparatus <b>B28B13/00</b>)",
+      "count": 76,
+      "sourceFile": "ipc_B28C.txt",
+      "kind": "ipc"
+    },
+    "B28C1/14": {
+      "code": "B28C1/14",
+      "level": 2,
+      "parent": "B28C1/10",
+      "ja": "非流動状態の粘土の均質化，粉砕もしくは調整または前記粘土からの望ましくない混合物の分離に特に適したもの（スラリーへの変化を伴う方法Ｂ２８Ｃ１／０２；貯蔵中の調整Ｂ２８Ｃ１／１２；粉砕一般Ｂ０２Ｃ；鉄または石灰を除去する際化学的特徴のあるものＣ０４Ｂ）",
+      "en": "specially adapted for homogenising, comminuting or conditioning clay in non-fluid condition or for separating undesired admixtures therefrom(processes involving conversion to a slurry <b>B28C1/02</b>; conditioning in storage <b>B28C1/12</b>; comminuting in general <b>B02C</b>; chemical features in eliminating iron or lime <b>C04B</b>)",
+      "count": 240,
+      "sourceFile": "ipc_B28C.txt",
+      "kind": "ipc"
+    },
+    "B28C1/16": {
+      "code": "B28C1/16",
+      "level": 3,
+      "parent": "B28C1/14",
+      "ja": "均質化，例．混合によるもの",
+      "en": "for homogenising, e.g. by mixing, kneading",
+      "count": 1760,
+      "sourceFile": "ipc_B28C.txt",
+      "kind": "ipc"
+    },
+    "B28C1/18": {
+      "code": "B28C1/18",
+      "level": 3,
+      "parent": "B28C1/14",
+      "ja": "粉砕",
+      "en": "for comminuting",
+      "count": 903,
+      "sourceFile": "ipc_B28C.txt",
+      "kind": "ipc"
+    },
+    "B28C1/20": {
+      "code": "B28C1/20",
+      "level": 3,
+      "parent": "B28C1/14",
+      "ja": "望ましくない混合体の分離",
+      "en": "for separating undesired admixed bodies",
+      "count": 419,
+      "sourceFile": "ipc_B28C.txt",
+      "kind": "ipc"
+    },
+    "B28C1/22": {
+      "code": "B28C1/22",
+      "level": 3,
+      "parent": "B28C1/14",
+      "ja": "加熱，湿潤または真空処理による調整手段と結合したもの",
+      "en": "combined with means for conditioning by heating, humidifying, or vacuum treatment",
+      "count": 537,
+      "sourceFile": "ipc_B28C.txt",
+      "kind": "ipc"
+    },
+    "B28C3/00": {
+      "code": "B28C3/00",
+      "level": 0,
+      "parent": "B28C",
+      "ja": "粘土と他の物質との混合装置または方法（粘土懸濁液の製法Ｂ２８Ｃ１／０２；設備の一般的な配置またはレイアウトＢ２８Ｃ９／００）",
+      "en": "Apparatus or methods for mixing clay with other substances(producing clay suspensions <b>B28C1/02</b>; general arrangement or layout of plant <b>B28C9/00</b>)",
+      "count": 3626,
+      "sourceFile": "ipc_B28C.txt",
+      "kind": "ipc"
+    },
+    "B28C5/00": {
+      "code": "B28C5/00",
+      "level": 0,
+      "parent": "B28C",
+      "ja": "セメントと他の物質との混合物，例．スラリー，モルタル，多孔性組成物または繊維組成物，を製造する装置または方法（混合装置の制御と混合成分の供給Ｂ２８Ｃ７／００；設備の一般的な配置またはレイアウトＢ２８Ｃ９／００）",
+      "en": "Apparatus or methods for producing mixtures of cement with other substances, e.g. slurries, mortars, porous or fibrous compositions(controlling the mixing apparatus and supplying the ingredients <b>B28C7/00</b>; general arrangement or layout of plant <b>B28C9/00</b>)",
+      "count": 4861,
+      "sourceFile": "ipc_B28C.txt",
+      "kind": "ipc"
+    },
+    "B28C5/02": {
+      "code": "B28C5/02",
+      "level": 1,
+      "parent": "B28C5/00",
+      "ja": "混合作用をなす被駆動機械的手段を使用しないもの（Ｂ２８Ｃ５／４８が優先）［５］",
+      "en": "without using driven mechanical means effecting the mixing(<b>B28C5/48</b> takes precedence)",
+      "count": 461,
+      "sourceFile": "ipc_B28C.txt",
+      "kind": "ipc"
+    },
+    "B28C5/04": {
+      "code": "B28C5/04",
+      "level": 2,
+      "parent": "B28C5/02",
+      "ja": "重力混合；成分の流れを合流させることによる混合（流体圧力によって成分が投入されるものＢ２８Ｃ５／０６）",
+      "en": "Gravitational mixing; Mixing by intermingling streams of ingredients(ingredients projected by fluid pressure <b>B28C5/06</b>)",
+      "count": 230,
+      "sourceFile": "ipc_B28C.txt",
+      "kind": "ipc"
+    },
+    "B28C5/06": {
+      "code": "B28C5/06",
+      "level": 2,
+      "parent": "B28C5/02",
+      "ja": "流体の作用によってなされる混合（被駆動機械的手段と結びついたものＢ２８Ｃ５／３８）",
+      "en": "the mixing being effected by the action of a fluid(in combination with driven mechanical means <b>B28C5/38</b>)",
+      "count": 577,
+      "sourceFile": "ipc_B28C.txt",
+      "kind": "ipc"
+    },
+    "B28C5/08": {
+      "code": "B28C5/08",
+      "level": 1,
+      "parent": "B28C5/00",
+      "ja": "混合作用をなす被駆動機械的手段を使用するもの（Ｂ２８Ｃ５／４０，Ｂ２８Ｃ５／４２，Ｂ２８Ｃ５／４８が優先；流体の作用との組合せＢ２８Ｃ５／３８）［５］",
+      "en": "using driven mechanical means affecting the mixing(<b>B28C5/40</b>, <b>B28C5/42</b>, <b>B28C5/48</b> take precedence; in combination with the action of a fluid <b>B28C5/38</b>)",
+      "count": 28378,
+      "sourceFile": "ipc_B28C.txt",
+      "kind": "ipc"
+    },
+    "B28C5/10": {
+      "code": "B28C5/10",
+      "level": 2,
+      "parent": "B28C5/08",
+      "ja": "混合作用をしない容器内での混合",
+      "en": "Mixing in containers not actuated to effect the mixing",
+      "count": 500,
+      "sourceFile": "ipc_B28C.txt",
+      "kind": "ipc"
+    },
+    "B28C5/12": {
+      "code": "B28C5/12",
+      "level": 3,
+      "parent": "B28C5/10",
+      "ja": "物質中を動く攪拌具をもつもの",
+      "en": "with stirrers sweeping through the materials",
+      "count": 1875,
+      "sourceFile": "ipc_B28C.txt",
+      "kind": "ipc"
+    },
+    "B28C5/14": {
+      "code": "B28C5/14",
+      "level": 4,
+      "parent": "B28C5/12",
+      "ja": "水平またはほぼ水平な軸のまわりを回転する攪拌具",
+      "en": "the stirrers having motion about a horizontal or substantially horizontal axis",
+      "count": 11886,
+      "sourceFile": "ipc_B28C.txt",
+      "kind": "ipc"
+    },
+    "B28C5/16": {
+      "code": "B28C5/16",
+      "level": 4,
+      "parent": "B28C5/12",
+      "ja": "垂直または急傾斜の軸のまわりを回転する攪拌具",
+      "en": "the stirrers having motion about a vertical or steeply inclined axis",
+      "count": 30187,
+      "sourceFile": "ipc_B28C.txt",
+      "kind": "ipc"
+    },
+    "B28C5/18": {
+      "code": "B28C5/18",
+      "level": 2,
+      "parent": "B28C5/08",
+      "ja": "混合作用をなす運動が付与される容器内での混合",
+      "en": "Mixing in containers to which motion is imparted to effect the mixing",
+      "count": 1501,
+      "sourceFile": "ipc_B28C.txt",
+      "kind": "ipc"
+    },
+    "B28C5/20": {
+      "code": "B28C5/20",
+      "level": 3,
+      "parent": "B28C5/18",
+      "ja": "混合中に水平軸または事実上水平軸のまわりを回転するもの，例．独立した攪拌具をもたないもの",
+      "en": "rotating about a horizontal or substantially horizontal axis during mixing, e.g. without independent stirrers",
+      "count": 1958,
+      "sourceFile": "ipc_B28C.txt",
+      "kind": "ipc"
+    },
+    "B28C5/22": {
+      "code": "B28C5/22",
+      "level": 4,
+      "parent": "B28C5/20",
+      "ja": "静止した攪拌具をもつもの",
+      "en": "with stirrers held stationary",
+      "count": 504,
+      "sourceFile": "ipc_B28C.txt",
+      "kind": "ipc"
+    },
+    "B28C5/24": {
+      "code": "B28C5/24",
+      "level": 4,
+      "parent": "B28C5/20",
+      "ja": "駆動される攪拌具をもつもの",
+      "en": "with driven stirrers",
+      "count": 1199,
+      "sourceFile": "ipc_B28C.txt",
+      "kind": "ipc"
+    },
+    "B28C5/26": {
+      "code": "B28C5/26",
+      "level": 3,
+      "parent": "B28C5/18",
+      "ja": "混合中に垂直または急傾斜の軸のまわりを回転するもの",
+      "en": "rotating about a vertical or steeply inclined axis during the mixing",
+      "count": 358,
+      "sourceFile": "ipc_B28C.txt",
+      "kind": "ipc"
+    },
+    "B28C5/28": {
+      "code": "B28C5/28",
+      "level": 4,
+      "parent": "B28C5/26",
+      "ja": "独立した攪拌具をもたないもの",
+      "en": "without independent stirrers",
+      "count": 81,
+      "sourceFile": "ipc_B28C.txt",
+      "kind": "ipc"
+    },
+    "B28C5/30": {
+      "code": "B28C5/30",
+      "level": 4,
+      "parent": "B28C5/26",
+      "ja": "静止した攪拌具をもつもの",
+      "en": "with stirrers held stationary",
+      "count": 322,
+      "sourceFile": "ipc_B28C.txt",
+      "kind": "ipc"
+    },
+    "B28C5/32": {
+      "code": "B28C5/32",
+      "level": 4,
+      "parent": "B28C5/26",
+      "ja": "駆動される攪伴具をもつもの",
+      "en": "with driven stirrers",
+      "count": 1259,
+      "sourceFile": "ipc_B28C.txt",
+      "kind": "ipc"
+    },
+    "B28C5/34": {
+      "code": "B28C5/34",
+      "level": 2,
+      "parent": "B28C5/08",
+      "ja": "コンベヤー上のまたはコンベヤーによる混合",
+      "en": "Mixing on or by conveyors",
+      "count": 434,
+      "sourceFile": "ipc_B28C.txt",
+      "kind": "ipc"
+    },
+    "B28C5/36": {
+      "code": "B28C5/36",
+      "level": 3,
+      "parent": "B28C5/34",
+      "ja": "エンドレスベルト混合機",
+      "en": "Endless-belt mixers",
+      "count": 103,
+      "sourceFile": "ipc_B28C.txt",
+      "kind": "ipc"
+    },
+    "B28C5/38": {
+      "code": "B28C5/38",
+      "level": 1,
+      "parent": "B28C5/00",
+      "ja": "混合作用が流体の作用と直接的に作用する被駆動機械的手段，例．攪拌手段，との両方によってなされるもの",
+      "en": "wherein the mixing is effected both by the action of a fluid and by directly-acting driven mechanical means, e.g. stirring means",
+      "count": 1836,
+      "sourceFile": "ipc_B28C.txt",
+      "kind": "ipc"
+    },
+    "B28C5/40": {
+      "code": "B28C5/40",
+      "level": 1,
+      "parent": "B28C5/00",
+      "ja": "繊維を含む混合物の調整に特に適用される混合",
+      "en": "Mixing specially adapted for preparing mixtures containing fibres",
+      "count": 1561,
+      "sourceFile": "ipc_B28C.txt",
+      "kind": "ipc"
+    },
+    "B28C5/42": {
+      "code": "B28C5/42",
+      "level": 1,
+      "parent": "B28C5/00",
+      "ja": "輸送中に混合作用をすべく車両上に載架されるように特に適用された装置",
+      "en": "Apparatus specially adapted for being mounted on vehicles with provision for mixing during transport(vehicle aspect <b>B60P3/16</b>)",
+      "count": 7243,
+      "sourceFile": "ipc_B28C.txt",
+      "kind": "ipc"
+    },
+    "B28C5/44": {
+      "code": "B28C5/44",
+      "level": 1,
+      "parent": "B28C5/00",
+      "ja": "腕力によって駆動するように特に適用された装置",
+      "en": "Apparatus specially adapted for drive by muscle power",
+      "count": 338,
+      "sourceFile": "ipc_B28C.txt",
+      "kind": "ipc"
+    },
+    "B28C5/46": {
+      "code": "B28C5/46",
+      "level": 1,
+      "parent": "B28C5/00",
+      "ja": "混合中に大気圧以上または以下の圧力を加えるための装置；混合中に冷却または加熱するための装置",
+      "en": "Arrangements for applying super- or sub-atmospheric pressure during mixing; Arrangements for cooling or heating during mixing",
+      "count": 2530,
+      "sourceFile": "ipc_B28C.txt",
+      "kind": "ipc"
+    },
+    "B28C5/48": {
+      "code": "B28C5/48",
+      "level": 1,
+      "parent": "B28C5/00",
+      "ja": "混合作用が振動によってなされるもの（振動機構を有する混合機一般Ｂ０１Ｆ３１／００）",
+      "en": "wherein the mixing is effected by vibrations(mixers with vibrating mechanisms in general <b>B01F31/00</b>)",
+      "count": 2447,
+      "sourceFile": "ipc_B28C.txt",
+      "kind": "ipc"
+    },
+    "B28C7/00": {
+      "code": "B28C7/00",
+      "level": 0,
+      "parent": "B28C",
+      "ja": "粘土またはセメントと他の物質との混合物を製造する装置の操作制御；粘土またはセメントと他の物質との混合のための成分の供給または配分；混合物の排出",
+      "en": "Controlling the operation of apparatus for producing mixtures of clay or cement with other substances; Supplying or proportioning the ingredients for mixing clay or cement with other substances; Discharging the mixture",
+      "count": 11371,
+      "sourceFile": "ipc_B28C.txt",
+      "kind": "ipc"
+    },
+    "B28C7/02": {
+      "code": "B28C7/02",
+      "level": 1,
+      "parent": "B28C7/00",
+      "ja": "混合の操作制御",
+      "en": "Controlling the operation of the mixing",
+      "count": 4402,
+      "sourceFile": "ipc_B28C.txt",
+      "kind": "ipc"
+    },
+    "B28C7/04": {
+      "code": "B28C7/04",
+      "level": 1,
+      "parent": "B28C7/00",
+      "ja": "成分の供給または配分",
+      "en": "Supplying or proportioning the ingredients",
+      "count": 12829,
+      "sourceFile": "ipc_B28C.txt",
+      "kind": "ipc"
+    },
+    "B28C7/06": {
+      "code": "B28C7/06",
+      "level": 2,
+      "parent": "B28C7/04",
+      "ja": "固体成分の供給，例．エンドレスコンベヤーまたは揺動コンベヤーによるもの",
+      "en": "Supplying the solid ingredients, e.g. by means of endless conveyors or jigging conveyors",
+      "count": 14633,
+      "sourceFile": "ipc_B28C.txt",
+      "kind": "ipc"
+    },
+    "B28C7/08": {
+      "code": "B28C7/08",
+      "level": 3,
+      "parent": "B28C7/06",
+      "ja": "スクレーパーまたはスキップによるもの",
+      "en": "by means of scrapers or skips",
+      "count": 955,
+      "sourceFile": "ipc_B28C.txt",
+      "kind": "ipc"
+    },
+    "B28C7/10": {
+      "code": "B28C7/10",
+      "level": 3,
+      "parent": "B28C7/06",
+      "ja": "回転体によるもの",
+      "en": "by means of rotary members",
+      "count": 3426,
+      "sourceFile": "ipc_B28C.txt",
+      "kind": "ipc"
+    },
+    "B28C7/12": {
+      "code": "B28C7/12",
+      "level": 2,
+      "parent": "B28C7/04",
+      "ja": "液体成分の供給または配分",
+      "en": "Supplying or proportioning liquid ingredients",
+      "count": 9823,
+      "sourceFile": "ipc_B28C.txt",
+      "kind": "ipc"
+    },
+    "B28C7/14": {
+      "code": "B28C7/14",
+      "level": 1,
+      "parent": "B28C7/00",
+      "ja": "混合機に組込まれたまたは載架された供給手段",
+      "en": "Supply means incorporated in or mounted on mixers",
+      "count": 3304,
+      "sourceFile": "ipc_B28C.txt",
+      "kind": "ipc"
+    },
+    "B28C7/16": {
+      "code": "B28C7/16",
+      "level": 1,
+      "parent": "B28C7/00",
+      "ja": "排出手段",
+      "en": "Discharge means",
+      "count": 17061,
+      "sourceFile": "ipc_B28C.txt",
+      "kind": "ipc"
+    },
+    "B28C9/00": {
+      "code": "B28C9/00",
+      "level": 0,
+      "parent": "B28C",
+      "ja": "設備の一般的な配置またはレイアウト［２］",
+      "en": "General arrangement or layout of plant",
+      "count": 1338,
+      "sourceFile": "ipc_B28C.txt",
+      "kind": "ipc"
+    },
+    "B28C9/02": {
+      "code": "B28C9/02",
+      "level": 1,
+      "parent": "B28C9/00",
+      "ja": "粘土またはセメントと他の材料との混合物を製造するためのもの［２］",
+      "en": "for producing mixtures of clay or cement with other materials",
+      "count": 4414,
+      "sourceFile": "ipc_B28C.txt",
+      "kind": "ipc"
+    },
+    "B28C9/04": {
+      "code": "B28C9/04",
+      "level": 1,
+      "parent": "B28C9/00",
+      "ja": "移動可能な設備（Ｂ２８Ｃ５／４２が優先）［２］",
+      "en": "the plant being mobile(<b>B28C5/42</b> takes precedence)",
+      "count": 3141,
+      "sourceFile": "ipc_B28C.txt",
+      "kind": "ipc"
+    }
+  }
+};

@@ -1,0 +1,1106 @@
+{
+  "generatedAt": "2026-03-20T02:17:46.230Z",
+  "total": 110,
+  "entries": {
+    "B60W": {
+      "code": "B60W",
+      "level": 0,
+      "parent": "B60",
+      "ja": "異なる種類または異なる機能の車両用サブユニットの関連制御；ハイブリッド車両に特に適した制御システム；特定の単一のサブユニットの制御に関するものではない、特定の目的のための道路走行用車両の運動制御システム［８］<br><br><b><ul>注</ul></b><br>（１）メイングループＢ６０Ｗ１０／００及びＢ６０Ｗ３０／００～Ｂ６０Ｗ６０／００には単一のサブユニットの制御は包含されない。単一のサブユニットの制御はそのサブユニットの関連箇所，例．Ｆ０２Ｄ，Ｆ１６Ｈ，に分類する。単一のサブユニットが他のサブユニットからの信号又は指令によって制御される場合にこのサブユニットの制御はこのサブユニットの関連箇所に分類する。例えば，機関又は加速装置からの信号による可変速伝動装置の制御は伝動装置のサブクラスＦ１６Ｈに分類する。<br>（２）たとえば機関のような動力伝達経路上のサブユニットと，変速シフト中の過渡的なものであって伝動装置の制御にも特徴がある変速伝動装置，との関連制御は伝動装置のサブクラスＦ１６Ｈにも分類する。<br>（３）グループＢ６０Ｗ１０／００に分類する場合，制御の目的又は用途を特定するためにグループＢ６０Ｗ２０／００～Ｂ６０Ｗ６０／００にも分類する。<br>（４）このサブクラスにおいては，下記の表現は以下に示す意味で用いる：<br>―“関連制御”とは，異なる種類又は異なる機能のサブユニットの制御ロジックを具現化する，プログラムされ又は状態に応じて作動する車載の自動制御器が，２以上のサブユニットのアクチュエータに制御信号を送ることによって，それらのサブユニットが特定の問題を解決するために又は特定の運転状態に応じて協働することを意味する。<br>―“運動制御システム”とは，道路上の車両に特定の動作を行わせるためにその車両の動きを自動的に制御する車載の電子的なシステムを意味する。<br>―“道路走行用車両”とは，道路上を移動する原動機付き車両を意味する，例．自動車，トラック，バス<br>―“自律的な道路走行用車両”とは，リアルタイムに意思決定プロセスを実行するための車載のコンピュータハードウェアとソフトウェアとを使用して，人の介入なく全ての動的な運転タスクを制御可能な道路走行用車両を意味する。<br>―“サブユニット”とは，以下の車両装置のうちの１つを意味する：推進装置，駆動系のクラッチ，変速伝動装置，前後軸への駆動トルク分配装置，車軸差動装置，制動装置，操向装置，懸架装置，エネルギ蓄積手段，燃料電池又は付属装置。",
+      "en": "CONJOINT CONTROL OF VEHICLE SUB-UNITS OF DIFFERENT TYPE OR DIFFERENT FUNCTION; CONTROL SYSTEMS SPECIALLY ADAPTED FOR HYBRID VEHICLES; ROAD VEHICLE DRIVE CONTROL SYSTEMS FOR PURPOSES NOT RELATED TO THE CONTROL OF A PARTICULAR SUB-UNIT; <br><br><b><u>Note(s)</u></b><br><br><ul><li>Main groups <b>B60W10/00</b> and <b>B60W30/00 to B60W60/00</b>  <u>do not cover</u> the control of a single sub-unit; such control is classified in the relevant place for the sub-unit, e.g. <b>F02D</b>, <b>F16H</b>. Where a single sub-unit is controlled by means of signals or commands from other sub-units, the control of this single sub-unit is classified in the relevant place for this sub-unit. For example, the control of variable-ratio gearing by means of signals from the engine or the accelerator is classified in the subclass for gearing, <b>F16H</b>.</li><li>Conjoint control of driveline units, e.g. engines, and variable-ratio gearing occurring only transiently during ratio shift and being also characterised by the control of the gearing is also classified in the subclass for gearing, <b>F16H</b>.</li><li>When classifying in group <b>B60W10/00</b>, classification must also be made in groups <b>B60W20/00 to B60W60/00</b>  in order to identify the purpose or use of the control.</li><li>In this subclass, the following expressions are used with the meanings indicated: <ul><li>\"conjoint control\" means that a programmed or condition-responsive automatic controller on board the vehicle, embodying control logic for vehicle sub-units of different type or different function, sends control signals to actuators of two or more vehicle sub-units, so that the sub-units act together to solve a particular problem or in response to a particular driving condition;</li><li>\"drive control system\" means an electronic system on board a road vehicle for automatically controlling the movement of that vehicle in order to take certain actions;</li><li>&ldquo;road vehicle&rdquo; means a motorised vehicle for transportation on roads, e.g. a car, truck or bus;</li><li>&ldquo;autonomous road vehicle&rdquo; means a road vehicle capable of controlling all dynamic driving tasks without human intervention during different driving scenarios by using on-board computer hardware and software to execute decision making processes in real-time;</li><li>\"sub-unit\" means one of the following vehicle systems: propulsion system, clutch system, change-speed gearing system, system for distributing drive torque between front and rear axles, axle differential system, brake system, steering system, suspension system, energy storage means, fuel cells or auxiliary equipment.</li></ul></li></ul>",
+      "count": 210,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B60": {
+      "code": "B60",
+      "level": 0,
+      "parent": "B",
+      "ja": "車両一般<br><br><b><ul>注</ul></b><br>このクラスにおいては，下記の用語は以下に示す意味で用いる：<br>―“車両”は次の形の車両にのみ限定されるものを除いてすべての車両を意味する：鉄道車両，水上輸送船，航空機，宇宙乗物，手動運搬車，自転車，動物牽引車両およびそり；これらは，これに関連するサブクラスＢ６１からＢ６４に包含される。<br>用語“車両”は以下のものを包含する：<br>―上掲の二以上の形に共通な車両的特徴のあるもの；<br>―自動車もしくは道路またはクロスカントリー用のトレーラに限定される特徴あるもの。<br>―次の例外に注意されたい：<br>（ａ）サブクラスＢ６０ＢとＢ６０Ｃは，ローラースケート用車輪Ａ６３Ｃ１７／２２，鉄道模型用車輪Ａ６３Ｈ１９／２２および航空機用に特別に用いられる車輪またはタイヤＢ６４Ｃ２５／３６を除いて，すべての車両の車輪およびタイヤを含む；<br>（ｂ）サブクラスＢ６０Ｃは膨張可能な弾性体一般へのバルブの取付けを含み，この点は車両に限定されない；<br>（ｃ）サブクラスＢ６０Ｌはすべての電動車両の電気装置を含む；<br>（ｄ）サブクラスＢ６０Ｍは，外部の，すべての種類の電動車両の動力供給装置を含む；<br>（ｅ）サブクラスＢ６０Ｒは陸用車両の全型式に用いられる安全ベルトまたは身体用ハーネスを含む；［４］<br>（ｆ）サブクラスＢ６０Ｓは，グループＢ６１Ｋ１１／００に分類される鉄道機関車の施設，サブクラスＢ６４Ｆに分類される航空機の地上設備またはグループＢ６３Ｂ５７／００，Ｂ６３Ｂ５９／００に分類される水上浮揚構造物に特有な洗浄装置を除いて，すべての種類の車両に関する；<br>（ｇ）サブクラスＢ６０Ｔは一般に適用できる制動制御装置を含み，かつこの意味においてこれは車両に限定されない。また鉄道車両の動力制動装置および鉄道車両の制動装置の他の構造をも含む。；<br>（ｈ）サブクラスＢ６０Ｖは空気クッション車両自体，および空気クッション車両としても運用可能な特徴を有するまたは部分的に空気クッションによって支持される地上用車両，水上用車両または航空機を含む。［２００９．０１］",
+      "en": "VEHICLES IN GENERAL; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this class, the following term is used with the meaning indicated: <ul><li>\"vehicle\" means all vehicles except those restricted to one of the following types of vehicles: rail vehicles, waterborne vessels, aircraft, space vehicles, hand carts, cycles, animal-drawn vehicles, and sledges, which are covered by the relevant subclasses of <b>B61 to B64</b> . <ul><li>Thus the term \"vehicle\" includes: <ul><li>vehicular characteristics which are common to more than one of the above-listed types;</li><li>certain characteristics restricted to automobiles, road or cross-country trailers.</li><li>The following exceptions to the above should be noted: <ul><li>subclass <b>B60B</b> or <b>B60C</b> embrace all vehicle wheels and tyres, except wheels for roller skates <b>A63C17/22</b>, wheels for model railway vehicles <b>A63H19/22</b>, and special adaptations of wheels or tyres for aircraft <b>B64C25/36</b>;</li><li>subclass <b>B60C</b> embraces the connection of valves to inflatable elastic bodies in general, and in this respect it is not limited to vehicles;</li><li>subclass <b>B60L</b> embraces certain electric equipment of all electrically-propelled vehicles;</li><li>subclass <b>B60M</b> embraces certain power supply equipment for, but external to, any kind of electrically-propelled vehicle;</li><li>subclass <b>B60R</b> embraces safety belts or body harnesses used in all types of land vehicles;</li><li>subclass <b>B60S</b> relates to all kinds of vehicles, except the servicing of rail locomotives <b>B61K11/00</b>, ground equipment for aircraft <b>B64F</b>, or cleaning apparatus peculiar to waterborne vessels <b>B63B57/00</b>, <b>B63B59/00</b>;</li><li>subclass <b>B60T</b> includes brake control systems of general applicability, and in this respect it is not limited to vehicles. It also includes rail-vehicle power-brake systems and some other features of rail-vehicle brake systems;</li><li>subclass <b>B60V</b> embraces air-cushion vehicles <u>per se</u> and land vehicles, waterborne vessels or aircraft combined with features allowing them to alternatively operate as air-cushion vehicles or to be partially supported by an air cushion.</li></ul></li></ul></li></ul></li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B": {
+      "code": "B",
+      "level": 0,
+      "parent": null,
+      "ja": "処理操作；運輸",
+      "en": "PERFORMING OPERATIONS; TRANSPORTING",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B60W10/00": {
+      "code": "B60W10/00",
+      "level": 0,
+      "parent": "B60W",
+      "ja": "異なる種類または異なる機能の車両用サブユニットの関連制御（乗物の内部に動力供給源をもつ単なる電気的推進車両の推進のためのものＢ６０Ｌ５０／００～Ｂ６０Ｌ５８／００）［２００６．０１］<br><br><b><ul>注</ul></b><br>このグループに分類するとき，制御される各サブユニットを，このグループの関連箇所へ分類することによって，個々に特定しなければならない。［８］",
+      "en": "Conjoint control of vehicle sub-units of different type or different function(for propulsion of purely electrically-propelled vehicles with power supplied within the vehicle <b>B60L50/00 to B60L58/00</b> );<br><br><b><u>Note(s)</u></b><br><br><ul><li>When classifying in this group, each controlled sub-unit must be separately identified by a classification in a relevant place in this group.</li></ul>",
+      "count": 6154,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W10/02": {
+      "code": "B60W10/02",
+      "level": 1,
+      "parent": "B60W10/00",
+      "ja": "駆動系のクラッチの制御を含むもの［８］",
+      "en": "including control of driveline clutches",
+      "count": 17682,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W10/04": {
+      "code": "B60W10/04",
+      "level": 1,
+      "parent": "B60W10/00",
+      "ja": "推進装置の制御を含むもの［８］",
+      "en": "including control of propulsion units",
+      "count": 22646,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W10/06": {
+      "code": "B60W10/06",
+      "level": 2,
+      "parent": "B60W10/04",
+      "ja": "燃焼機関の制御を含むもの［８］",
+      "en": "including control of combustion engines",
+      "count": 37095,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W10/08": {
+      "code": "B60W10/08",
+      "level": 2,
+      "parent": "B60W10/04",
+      "ja": "電気推進装置の制御を含むもの，例．電動機，発電機［８］",
+      "en": "including control of electric propulsion units, e.g. motors or generators",
+      "count": 29875,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W10/10": {
+      "code": "B60W10/10",
+      "level": 1,
+      "parent": "B60W10/00",
+      "ja": "変速伝動装置の制御を含むもの［８，２０１２．０１］",
+      "en": "including control of change-speed gearings",
+      "count": 20606,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W10/101": {
+      "code": "B60W10/101",
+      "level": 2,
+      "parent": "B60W10/10",
+      "ja": "無段変速機の制御を含むもの［２０１２．０１］",
+      "en": "Infinitely variable gearings",
+      "count": 2069,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W10/103": {
+      "code": "B60W10/103",
+      "level": 3,
+      "parent": "B60W10/101",
+      "ja": "流体式無段変速機［２０１２．０１］",
+      "en": "of fluid type",
+      "count": 867,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W10/105": {
+      "code": "B60W10/105",
+      "level": 3,
+      "parent": "B60W10/101",
+      "ja": "電気式無段変速機［２０１２．０１］",
+      "en": "of electric type",
+      "count": 513,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W10/107": {
+      "code": "B60W10/107",
+      "level": 3,
+      "parent": "B60W10/101",
+      "ja": "無端可撓部材による無段変速機［２０１２．０１］",
+      "en": "with endless flexible members",
+      "count": 530,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W10/108": {
+      "code": "B60W10/108",
+      "level": 3,
+      "parent": "B60W10/101",
+      "ja": "摩擦による無段変速機［２０１２．０１］",
+      "en": "Friction gearings",
+      "count": 53,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W10/109": {
+      "code": "B60W10/109",
+      "level": 4,
+      "parent": "B60W10/108",
+      "ja": "トロイダル式無段変速機［２０１２．０１］",
+      "en": "of toroid type",
+      "count": 214,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W10/11": {
+      "code": "B60W10/11",
+      "level": 2,
+      "parent": "B60W10/10",
+      "ja": "有段変速機の制御を含むもの［２０１２．０１］",
+      "en": "Stepped gearings ",
+      "count": 5506,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W10/111": {
+      "code": "B60W10/111",
+      "level": 3,
+      "parent": "B60W10/11",
+      "ja": "直列に配置された別個の変速歯車列を持つもの［２０１２．０１］",
+      "en": "with separate change-speed gear trains arranged in series",
+      "count": 156,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W10/113": {
+      "code": "B60W10/113",
+      "level": 3,
+      "parent": "B60W10/11",
+      "ja": "２つの入力経路があるもの，例．入力クラッチによって二つのトルク伝達経路の一つを選択するダブルクラッチ［２０１２．０１］",
+      "en": "with two input flow paths, e.g. double clutch transmission selection of one of the torque flow paths by the corresponding input clutch",
+      "count": 578,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W10/115": {
+      "code": "B60W10/115",
+      "level": 3,
+      "parent": "B60W10/11",
+      "ja": "遊星歯車によるもの［２０１２．０１］",
+      "en": "with planetary gears",
+      "count": 1173,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W10/119": {
+      "code": "B60W10/119",
+      "level": 1,
+      "parent": "B60W10/00",
+      "ja": "全輪駆動（ＡＷＤ）の制御を含むもの，例．前後で駆動力を分配するためのギア又はクラッチを有するもの（Ｂ６０Ｗ１０／１４が優先）［２０１２．０１］",
+      "en": "including control of all-wheel-driveline-means, e.g. transfer gears or clutches for dividing torque between front and rear axles(<b>B60W10/14</b> takes precedence)",
+      "count": 810,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W10/12": {
+      "code": "B60W10/12",
+      "level": 1,
+      "parent": "B60W10/00",
+      "ja": "差動装置の制御を含むもの［８，２０１２．０１］",
+      "en": "including control of differentials",
+      "count": 1623,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W10/14": {
+      "code": "B60W10/14",
+      "level": 2,
+      "parent": "B60W10/12",
+      "ja": "前後の駆動力分配をする差動装置（いわゆるセンターデフ）の制御を含むもの［２０１２．０１］",
+      "en": "Central differentials for dividing torque between front and rear axles",
+      "count": 282,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W10/16": {
+      "code": "B60W10/16",
+      "level": 2,
+      "parent": "B60W10/12",
+      "ja": "左右の駆動力分配をする差動装置の制御を含むもの［２０１２．０１］",
+      "en": "Axle differentials, e.g. for dividing torque between the left and right wheels",
+      "count": 410,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W10/18": {
+      "code": "B60W10/18",
+      "level": 1,
+      "parent": "B60W10/00",
+      "ja": "制動装置の制御を含むもの［８，２０１２．０１］",
+      "en": "including control of braking systems",
+      "count": 19048,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W10/184": {
+      "code": "B60W10/184",
+      "level": 2,
+      "parent": "B60W10/18",
+      "ja": "車輪に作用させるブレーキ，ホイールブレーキの制御を含むもの［２０１２．０１］",
+      "en": "with wheel brakes",
+      "count": 4859,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W10/188": {
+      "code": "B60W10/188",
+      "level": 3,
+      "parent": "B60W10/184",
+      "ja": "液圧式ブレーキ［２０１２．０１］",
+      "en": "hydraulic brakes",
+      "count": 2115,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W10/192": {
+      "code": "B60W10/192",
+      "level": 3,
+      "parent": "B60W10/184",
+      "ja": "電気式ブレーキ［２０１２．０１］",
+      "en": "electric brakes",
+      "count": 506,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W10/196": {
+      "code": "B60W10/196",
+      "level": 2,
+      "parent": "B60W10/18",
+      "ja": "ドライブライン内で作動するもの，例．リターダ［２０１２．０１］",
+      "en": "acting within the driveline, e.g. retarders",
+      "count": 543,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W10/198": {
+      "code": "B60W10/198",
+      "level": 2,
+      "parent": "B60W10/18",
+      "ja": "排気ブレーキの制御を含むもの［２０１２．０１］",
+      "en": "with exhaust brakes",
+      "count": 153,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W10/20": {
+      "code": "B60W10/20",
+      "level": 1,
+      "parent": "B60W10/00",
+      "ja": "操向装置の制御を含むもの［８］",
+      "en": "including control of steering systems",
+      "count": 10397,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W10/22": {
+      "code": "B60W10/22",
+      "level": 1,
+      "parent": "B60W10/00",
+      "ja": "懸架装置の制御を含むもの［８］",
+      "en": "including control of suspension systems",
+      "count": 1636,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W10/24": {
+      "code": "B60W10/24",
+      "level": 1,
+      "parent": "B60W10/00",
+      "ja": "エネルギ貯蔵手段の制御を含むもの［８］",
+      "en": "including control of energy storage means",
+      "count": 1110,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W10/26": {
+      "code": "B60W10/26",
+      "level": 2,
+      "parent": "B60W10/24",
+      "ja": "電気エネルギーを貯蔵するもの，例．バッテリー，キャパシタ［８］",
+      "en": "for electrical energy, e.g. batteries or capacitors",
+      "count": 10302,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W10/28": {
+      "code": "B60W10/28",
+      "level": 1,
+      "parent": "B60W10/00",
+      "ja": "燃料電池の制御を含むもの［８］",
+      "en": "including control of fuel cells",
+      "count": 334,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W10/30": {
+      "code": "B60W10/30",
+      "level": 1,
+      "parent": "B60W10/00",
+      "ja": "付属装置の制御を含むもの，例．空気調節用圧縮機，オイルポンプ［８］",
+      "en": "including control of auxiliary equipment, e.g. air-conditioning compressors or oil pumps",
+      "count": 5808,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W20/00": {
+      "code": "B60W20/00",
+      "level": 0,
+      "parent": "B60W",
+      "ja": "ハイブリッド車両に特に適した制御システム［８，２０１６．０１］",
+      "en": "Control systems specially adapted for hybrid vehicles",
+      "count": 28360,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W20/10": {
+      "code": "B60W20/10",
+      "level": 1,
+      "parent": "B60W20/00",
+      "ja": "要求される出力需要を満たすための各原動機の出力制御［２０１６．０１］",
+      "en": "Controlling the power contribution of each of the prime movers to meet required power demand",
+      "count": 4266,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W20/11": {
+      "code": "B60W20/11",
+      "level": 2,
+      "parent": "B60W20/10",
+      "ja": "モデル予測制御［ｍｏｄｅｌ　ｐｒｅｄｉｃｔｉｖｅ　ｃｏｎｔｒｏｌ：ＭＰＣ］を用いるもの，すなわち，性能予測モデルに基づく制御方法［２０１６．０１］",
+      "en": "using model predictive control [MPC] strategies, i.e. control methods based on models predicting performance",
+      "count": 1138,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W20/12": {
+      "code": "B60W20/12",
+      "level": 2,
+      "parent": "B60W20/10",
+      "ja": "経路情報を考慮した制御を行うもの［２０１６．０１］",
+      "en": "using control strategies taking into account route information",
+      "count": 1580,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W20/13": {
+      "code": "B60W20/13",
+      "level": 2,
+      "parent": "B60W20/10",
+      "ja": "バッテリの入力および出力を制限内に維持するためのもの；過充電または過放電を防止するためのもの［２０１６．０１］",
+      "en": "in order to stay within battery power input or output limits; in order to prevent overcharging or battery depletion",
+      "count": 3073,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W20/14": {
+      "code": "B60W20/14",
+      "level": 3,
+      "parent": "B60W20/13",
+      "ja": "ブレーキ回生に関するもの［２０１６．０１］",
+      "en": "in conjunction with braking regeneration",
+      "count": 1471,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W20/15": {
+      "code": "B60W20/15",
+      "level": 2,
+      "parent": "B60W20/10",
+      "ja": "特定の効果を達成するための特別な制御を行うもの［２０１６．０１］",
+      "en": "Control strategies specially adapted for achieving a particular effect",
+      "count": 4292,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W20/16": {
+      "code": "B60W20/16",
+      "level": 3,
+      "parent": "B60W20/15",
+      "ja": "エンジン排気を減少させるためのもの［２０１６．０１］",
+      "en": "for reducing engine exhaust emissions",
+      "count": 1344,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W20/17": {
+      "code": "B60W20/17",
+      "level": 3,
+      "parent": "B60W20/15",
+      "ja": "騒音を減少させるためのもの［２０１６．０１］",
+      "en": "for noise reduction",
+      "count": 955,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W20/18": {
+      "code": "B60W20/18",
+      "level": 3,
+      "parent": "B60W20/15",
+      "ja": "燃料の劣化を回避するためのもの［２０１６．０１］",
+      "en": "for avoiding ageing of fuel",
+      "count": 74,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W20/19": {
+      "code": "B60W20/19",
+      "level": 3,
+      "parent": "B60W20/15",
+      "ja": "加速性を向上させるためのもの［２０１６．０１］",
+      "en": "for achieving enhanced acceleration",
+      "count": 529,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W20/20": {
+      "code": "B60W20/20",
+      "level": 1,
+      "parent": "B60W20/00",
+      "ja": "ハイブリッドの型式の切替制御，例．シリーズとパラレルとの切替［２０１６．０１］",
+      "en": "Control strategies involving selection of hybrid configuration, e.g. selection between series or parallel configuration",
+      "count": 1910,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W20/30": {
+      "code": "B60W20/30",
+      "level": 1,
+      "parent": "B60W20/00",
+      "ja": "伝動装置の変速比の選択に関する制御［２０１６．０１］",
+      "en": "Control strategies involving selection of transmission gear ratio",
+      "count": 1697,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W20/40": {
+      "code": "B60W20/40",
+      "level": 1,
+      "parent": "B60W20/00",
+      "ja": "原動機の係合又は非係合の制御，例．原動機間の遷移の制御［２０１６．０１］",
+      "en": "Controlling the engagement or disengagement of prime movers, e.g. for transition between prime movers",
+      "count": 3441,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W20/50": {
+      "code": "B60W20/50",
+      "level": 1,
+      "parent": "B60W20/00",
+      "ja": "システムの異常に対応するための制御，例．故障診断，フェイルセーフ動作またはリンプホームモード［２０１６．０１］",
+      "en": "Control strategies for responding to system failures, e.g. for fault diagnosis, failsafe operation or limp mode",
+      "count": 1971,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W30/00": {
+      "code": "B60W30/00",
+      "level": 0,
+      "parent": "B60W",
+      "ja": "特定の単一のサブユニットの制御に関するものではない道路走行用車両の運動制御システムであって目的によって特徴づけられるもの（例．車両用サブユニットの関連制御を用いたシステムにおける目的）［８］",
+      "en": "Purposes of road vehicle drive control systems not related to the control of a particular sub-unit, e.g. of systems using conjoint control of vehicle sub-units",
+      "count": 14546,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W30/02": {
+      "code": "B60W30/02",
+      "level": 1,
+      "parent": "B60W30/00",
+      "ja": "車両の挙動安定化制御［８，２０１２．０１］",
+      "en": "Control of vehicle driving stability",
+      "count": 6641,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W30/04": {
+      "code": "B60W30/04",
+      "level": 2,
+      "parent": "B60W30/02",
+      "ja": "横転防止［８］",
+      "en": "related to roll-over prevention",
+      "count": 1050,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W30/045": {
+      "code": "B60W30/045",
+      "level": 2,
+      "parent": "B60W30/02",
+      "ja": "旋回性の向上［２０１２．０１］",
+      "en": "Improving turning performance",
+      "count": 2340,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W30/06": {
+      "code": "B60W30/06",
+      "level": 1,
+      "parent": "B60W30/00",
+      "ja": "駐車時の自動運転［８］",
+      "en": "Automatic manoeuvring for parking",
+      "count": 10230,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W30/08": {
+      "code": "B60W30/08",
+      "level": 1,
+      "parent": "B60W30/00",
+      "ja": "起こり得る又は差し迫った衝突の，予知又は回避［８，２０１２．０１］",
+      "en": "Predicting or avoiding probable or impending collision",
+      "count": 11311,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W30/085": {
+      "code": "B60W30/085",
+      "level": 2,
+      "parent": "B60W30/08",
+      "ja": "衝突に備えた姿勢制御を自動的に行うもの，例．ノーズドロップのための制動［２０１２．０１］",
+      "en": "Taking automatic action to adjust vehicle attitude in preparation for collision, e.g. braking for nose dropping",
+      "count": 476,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W30/09": {
+      "code": "B60W30/09",
+      "level": 2,
+      "parent": "B60W30/08",
+      "ja": "衝突回避行動を自動的に行うもの，例．制動と操向［２０１２．０１］",
+      "en": "Taking automatic action to avoid collision, e.g. braking and steering",
+      "count": 10311,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W30/095": {
+      "code": "B60W30/095",
+      "level": 2,
+      "parent": "B60W30/08",
+      "ja": "走行軌跡または衝突可能性の予測を伴うもの［２０１２．０１］",
+      "en": "Predicting travel path or likelihood of collision",
+      "count": 10310,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W30/10": {
+      "code": "B60W30/10",
+      "level": 1,
+      "parent": "B60W30/00",
+      "ja": "走行軌跡維持制御［８］",
+      "en": "Path keeping",
+      "count": 4373,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W30/12": {
+      "code": "B60W30/12",
+      "level": 2,
+      "parent": "B60W30/10",
+      "ja": "レーンキープ［２０２０．０１］",
+      "en": "Lane keeping",
+      "count": 6177,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W30/14": {
+      "code": "B60W30/14",
+      "level": 1,
+      "parent": "B60W30/00",
+      "ja": "クルーズコントロール［８］",
+      "en": "Cruise control",
+      "count": 10634,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W30/16": {
+      "code": "B60W30/16",
+      "level": 2,
+      "parent": "B60W30/14",
+      "ja": "車間距離制御，例．先行する車両との距離を維持するもの［２０２０．０１］",
+      "en": "Control of distance between vehicles, e.g. keeping a distance to preceding vehicle",
+      "count": 6565,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W30/165": {
+      "code": "B60W30/165",
+      "level": 3,
+      "parent": "B60W30/16",
+      "ja": "先行車の走行軌跡に自動追従するもの，例．操舵制御によるもの、いわゆる”電子的牽引”［２０２０．０１］",
+      "en": "automatically following the path of a preceding lead vehicle, e.g. \"electronic tow-bar\"",
+      "count": 2231,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W30/17": {
+      "code": "B60W30/17",
+      "level": 3,
+      "parent": "B60W30/16",
+      "ja": "先行車の停車に対応するもの，例．ストップ＆ゴー制御［２０２０．０１］",
+      "en": "with provision for special action when the preceding vehicle comes to a halt, e.g. stop and go",
+      "count": 562,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W30/18": {
+      "code": "B60W30/18",
+      "level": 1,
+      "parent": "B60W30/00",
+      "ja": "車両の推進に関するもの［８，２０１２．０１］",
+      "en": "Propelling the vehicle",
+      "count": 25660,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W30/182": {
+      "code": "B60W30/182",
+      "level": 2,
+      "parent": "B60W30/18",
+      "ja": "運転モードを選択するもの，例．快適モード、パフォーマンスモード、パワーモード、エコモード［２０２０．０１］",
+      "en": "Selecting between different operative modes, e.g. comfort and performance modes",
+      "count": 4204,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W30/184": {
+      "code": "B60W30/184",
+      "level": 2,
+      "parent": "B60W30/18",
+      "ja": "ドライブライン上の過負荷、摩耗を抑制するもの［２０１２．０１］",
+      "en": "Preventing damage resulting from overload or excessive wear of the driveline",
+      "count": 544,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W30/186": {
+      "code": "B60W30/186",
+      "level": 3,
+      "parent": "B60W30/184",
+      "ja": "摩擦要素の摩耗を抑制するもの，例．クラッチ［２０１２．０１］",
+      "en": "excessive wear or burn out of friction elements, e.g. clutches",
+      "count": 262,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W30/188": {
+      "code": "B60W30/188",
+      "level": 2,
+      "parent": "B60W30/18",
+      "ja": "ドライブライン上の駆動力パラメータの制御，例．要求駆動力の決定［２０１２．０１］",
+      "en": "Controlling power parameters of the driveline, e.g. determining the required power",
+      "count": 2625,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W30/19": {
+      "code": "B60W30/19",
+      "level": 2,
+      "parent": "B60W30/18",
+      "ja": "変速性の向上，例．同期、なめらかな変速［２０１２．０１］",
+      "en": "Improvement of gear change, e.g. by synchronisation or smoothing gear shift",
+      "count": 1903,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W30/192": {
+      "code": "B60W30/192",
+      "level": 2,
+      "parent": "B60W30/18",
+      "ja": "ドライブライン上の駆動力に影響を及ぼす問題（外部環境による影響）の緩和，例．冷却したエンジンの始動［２０１２．０１］",
+      "en": "Mitigating problems related to power-up or power-down of the driveline, e.g. start-up of a cold engine",
+      "count": 738,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W30/194": {
+      "code": "B60W30/194",
+      "level": 3,
+      "parent": "B60W30/192",
+      "ja": "低温状態に関係するもの，例．オイルの粘性が高くなる状態［２０１２．０１］",
+      "en": "related to low temperature conditions, e.g. high viscosity of hydraulic fluid",
+      "count": 172,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W30/20": {
+      "code": "B60W30/20",
+      "level": 2,
+      "parent": "B60W30/18",
+      "ja": "動力伝達経路上の振動を低減させるもの［８］",
+      "en": "Reducing vibrations in the driveline",
+      "count": 1486,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W40/00": {
+      "code": "B60W40/00",
+      "level": 0,
+      "parent": "B60W",
+      "ja": "特定の単一のサブユニットの制御に関するものではない道路走行用車両の運動制御システムのためのパラメータの推定または演算［８］",
+      "en": "Estimation or calculation of driving parameters for road vehicle drive control systems not related to the control of a particular sub-unit",
+      "count": 5548,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W40/02": {
+      "code": "B60W40/02",
+      "level": 1,
+      "parent": "B60W40/00",
+      "ja": "周囲の環境に関するもの［８］",
+      "en": "related to ambient conditions",
+      "count": 15751,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W40/04": {
+      "code": "B60W40/04",
+      "level": 2,
+      "parent": "B60W40/02",
+      "ja": "交通の状態［８］",
+      "en": "Traffic conditions",
+      "count": 6868,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W40/06": {
+      "code": "B60W40/06",
+      "level": 2,
+      "parent": "B60W40/02",
+      "ja": "道路の状態［８，２０１２．０１］",
+      "en": "Road conditions",
+      "count": 8179,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W40/064": {
+      "code": "B60W40/064",
+      "level": 3,
+      "parent": "B60W40/06",
+      "ja": "グリップの余裕度，摩擦係数の利用率［２０１２．０１］",
+      "en": "Degree of grip",
+      "count": 786,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W40/068": {
+      "code": "B60W40/068",
+      "level": 3,
+      "parent": "B60W40/06",
+      "ja": "道路の摩擦係数（道路とタイヤ間の接触状態）［２０１２．０１］",
+      "en": "Road friction coefficient",
+      "count": 1570,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W40/072": {
+      "code": "B60W40/072",
+      "level": 3,
+      "parent": "B60W40/06",
+      "ja": "道路の曲率［２０１２．０１］",
+      "en": "Curvature of the road",
+      "count": 1933,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W40/076": {
+      "code": "B60W40/076",
+      "level": 3,
+      "parent": "B60W40/06",
+      "ja": "道路の勾配［２０１２．０１］",
+      "en": "Slope angle of the road",
+      "count": 2895,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W40/08": {
+      "code": "B60W40/08",
+      "level": 1,
+      "parent": "B60W40/00",
+      "ja": "運転者又は同乗者の状態に関するもの［８，２０１２．０１］",
+      "en": "related to drivers or passengers",
+      "count": 12610,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W40/09": {
+      "code": "B60W40/09",
+      "level": 2,
+      "parent": "B60W40/08",
+      "ja": "運転スタイルまたは運転傾向［２０１２．０１］",
+      "en": "Driving style or behaviour",
+      "count": 6040,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W40/10": {
+      "code": "B60W40/10",
+      "level": 1,
+      "parent": "B60W40/00",
+      "ja": "車両挙動に関するもの［８，２０１２．０１］",
+      "en": "related to vehicle motion",
+      "count": 9369,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W40/101": {
+      "code": "B60W40/101",
+      "level": 2,
+      "parent": "B60W40/10",
+      "ja": "車輪の横滑り角［２０１２．０１］",
+      "en": "Side slip angle of tyre",
+      "count": 332,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W40/103": {
+      "code": "B60W40/103",
+      "level": 2,
+      "parent": "B60W40/10",
+      "ja": "車体の横滑り角［２０１２．０１］",
+      "en": "Side slip angle of vehicle body",
+      "count": 298,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W40/105": {
+      "code": "B60W40/105",
+      "level": 2,
+      "parent": "B60W40/10",
+      "ja": "車速［２０１２．０１］",
+      "en": "Speed",
+      "count": 9040,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W40/107": {
+      "code": "B60W40/107",
+      "level": 2,
+      "parent": "B60W40/10",
+      "ja": "前後方向加速度［２０１２．０１］",
+      "en": "Longitudinal acceleration",
+      "count": 2319,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W40/109": {
+      "code": "B60W40/109",
+      "level": 2,
+      "parent": "B60W40/10",
+      "ja": "横加速度［２０１２．０１］",
+      "en": "Lateral acceleration",
+      "count": 1024,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W40/11": {
+      "code": "B60W40/11",
+      "level": 2,
+      "parent": "B60W40/10",
+      "ja": "車体のピッチ方向の運動に関するもの［２０１２．０１］",
+      "en": "Pitch movement",
+      "count": 533,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W40/112": {
+      "code": "B60W40/112",
+      "level": 2,
+      "parent": "B60W40/10",
+      "ja": "車体のロール方向の運動に関するもの［２０１２．０１］",
+      "en": "Roll movement",
+      "count": 792,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W40/114": {
+      "code": "B60W40/114",
+      "level": 2,
+      "parent": "B60W40/10",
+      "ja": "車体のヨー方向の運動に関するもの［２０１２．０１］",
+      "en": "Yaw movement",
+      "count": 1594,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W40/12": {
+      "code": "B60W40/12",
+      "level": 1,
+      "parent": "B60W40/00",
+      "ja": "車両自体のパラメータに関するもの［８，２０１２．０１］",
+      "en": "related to parameters of the vehicle itself",
+      "count": 3539,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W40/13": {
+      "code": "B60W40/13",
+      "level": 2,
+      "parent": "B60W40/12",
+      "ja": "荷重または車重［２０１２．０１］",
+      "en": "Load or weight",
+      "count": 2044,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W50/00": {
+      "code": "B60W50/00",
+      "level": 0,
+      "parent": "B60W",
+      "ja": "特定の単一のサブユニットの制御に関するものではない道路走行用車両の運動制御システムの細部［８］",
+      "en": "Details of control systems for road vehicle drive control not related to the control of a particular sub-unit",
+      "count": 24415,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W50/02": {
+      "code": "B60W50/02",
+      "level": 1,
+      "parent": "B60W50/00",
+      "ja": "制御システムの故障時の安全確保，例．故障の診断，故障の回避，故障からの復帰によるもの［８，２０１２．０１］",
+      "en": "Ensuring safety in case of control system failures, e.g. by diagnosing, circumventing or fixing failures",
+      "count": 5976,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W50/023": {
+      "code": "B60W50/023",
+      "level": 2,
+      "parent": "B60W50/02",
+      "ja": "冗長なパーツを用いることによる機能不全の回避［２０１２．０１］",
+      "en": "Avoiding failures by using redundant parts",
+      "count": 828,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W50/029": {
+      "code": "B60W50/029",
+      "level": 2,
+      "parent": "B60W50/02",
+      "ja": "他の構成パーツが故障に対応した動作をするもの，例．故障したパーツを用いずに動作させるもの［２０１２．０１］",
+      "en": "Adapting to failures or work around with other constraints, e.g. circumvention by avoiding use of failed parts",
+      "count": 1593,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W50/032": {
+      "code": "B60W50/032",
+      "level": 2,
+      "parent": "B60W50/02",
+      "ja": "故障した部品を修理することにより機能を修復するもの，例．弁の固着を解消させるもの［２０１２．０１］",
+      "en": "Fixing failures by repairing failed parts, e.g. loosening a sticking valve",
+      "count": 59,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W50/035": {
+      "code": "B60W50/035",
+      "level": 2,
+      "parent": "B60W50/02",
+      "ja": "予め設定した緊急用のセッティングに制御システムをセットするもの，例．特定のアクチュエータを優先させるもの［２０１２．０１］",
+      "en": "Bringing the control units into a predefined state, e.g. giving priority to particular actuators",
+      "count": 557,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W50/038": {
+      "code": "B60W50/038",
+      "level": 2,
+      "parent": "B60W50/02",
+      "ja": "入力する駆動力，トルクまたは速度を制限するもの［２０１２．０１］",
+      "en": "Limiting the input power, torque or speed",
+      "count": 469,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W50/04": {
+      "code": "B60W50/04",
+      "level": 1,
+      "parent": "B60W50/00",
+      "ja": "制御システムの機能の監視［８］",
+      "en": "Monitoring the functioning of the control system",
+      "count": 3216,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W50/06": {
+      "code": "B60W50/06",
+      "level": 1,
+      "parent": "B60W50/00",
+      "ja": "制御システムの動特性を改善するもの，例．整定速度を改善するもの又はハンチングもしくはオーバーシュートを回避するもの［８］",
+      "en": "Improving the dynamic response of the control system, e.g. improving the speed of regulation or avoiding hunting or overshoot",
+      "count": 1598,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W50/08": {
+      "code": "B60W50/08",
+      "level": 1,
+      "parent": "B60W50/00",
+      "ja": "運転者と制御システムとの相互作用［２０２０．０１］",
+      "en": "Interaction between the driver and the control system",
+      "count": 9974,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W50/10": {
+      "code": "B60W50/10",
+      "level": 2,
+      "parent": "B60W50/08",
+      "ja": "運転者の要求や要望を入力する手段［２０１２．０１］",
+      "en": "Interpretation of driver requests or demands",
+      "count": 3454,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W50/12": {
+      "code": "B60W50/12",
+      "level": 2,
+      "parent": "B60W50/08",
+      "ja": "運転者の誤操作による誤った運転を防止するもの，例．安全でない操作を予防するために入力を制御する連動手段［２０１２．０１］",
+      "en": "Limiting control by the driver depending on vehicle state, e.g. interlocking means for the control input for preventing unsafe operation",
+      "count": 1517,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W50/14": {
+      "code": "B60W50/14",
+      "level": 2,
+      "parent": "B60W50/08",
+      "ja": "運転者に情報、警告を伝えたり、運転者の介入を促したりする手段［２０２０．０１］",
+      "en": "Means for informing the driver, warning the driver or prompting a driver intervention",
+      "count": 25110,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W50/16": {
+      "code": "B60W50/16",
+      "level": 3,
+      "parent": "B60W50/14",
+      "ja": "運転者への触覚的なフィードバック，例．ハンドルやアクセルペダルに振動や反力を付与するもの［２０２０．０１］",
+      "en": "Tactile feedback to the driver, e.g. vibration or force feedback to the driver on the steering wheel or the accelerator pedal",
+      "count": 2834,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    },
+    "B60W60/00": {
+      "code": "B60W60/00",
+      "level": 0,
+      "parent": "B60W",
+      "ja": "自律的な道路走行用車両に特に適合される運動制御システム［２０２０．０１］",
+      "en": "Drive control systems specially adapted for autonomous road vehicles",
+      "count": 24993,
+      "sourceFile": "ipc_B60W.txt",
+      "kind": "ipc"
+    }
+  }
+}

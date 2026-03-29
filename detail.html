@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Classification Detail Viewer</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="page">
+      <section class="hero">
+        <p class="eyebrow">Classification Detail Viewer</p>
+        <h1>上位階層情報を確認する</h1>
+        <p class="lead">
+          選択した分類コードについて、上位階層をルートまで表示します。
+        </p>
+      </section>
+
+      <section class="panel">
+        <div class="result-header">
+          <h2>上位階層</h2>
+          <p id="result-meta" class="result-meta"></p>
+        </div>
+        <p id="status" class="status">データを読み込み中です...</p>
+        <div id="result-list" class="result-list"></div>
+      </section>
+    </main>
+
+    <template id="result-item-template">
+      <article class="result-item">
+        <div class="result-topline">
+          <span class="code-wrap">
+            <code class="code"></code>
+          </span>
+        </div>
+        <div class="result-tags">
+          <span class="tag type"></span>
+          <span class="tag hierarchy"></span>
+        </div>
+        <div class="definitions">
+          <section class="definition-pane definition-pane-ja">
+            <p class="definition-title">和訳</p>
+            <p class="definition ja"></p>
+          </section>
+          <section class="definition-pane definition-pane-en">
+            <p class="definition-title">原文</p>
+            <p class="definition en"></p>
+          </section>
+        </div>
+      </article>
+    </template>
+
+    <script src="./detail.js"></script>
+  </body>
+</html>

@@ -1,0 +1,71 @@
+{
+  "generatedAt": "2026-03-20T02:17:51.745Z",
+  "total": 5,
+  "entries": {
+    "G06J": {
+      "code": "G06J",
+      "level": 0,
+      "parent": null,
+      "ja": "",
+      "en": "",
+      "count": 0,
+      "ipcCode": "",
+      "fTerm": "HYBRID COMPUTING ARRANGEMENTS (optical hybrid computing devices <b>G06E 3/00</b>)<br><br><b><u>Note(s)</u></b><br><br><ul type=\"\"1\"\"><li>In this subclass, the following expression is used with the meaning indicated:<ul type=\"\"disc\"\"><li>&quot;hybrid computing arrangement&quot; is an arrangement in which part of the computation is digital and part is analogue.</li></ul></li></ul>",
+      "childFlag": 0,
+      "sourceFile": "fi_G.txt",
+      "kind": "fi"
+    },
+    "G06J1/00\\": {
+      "code": "G06J1/00\\",
+      "level": 0,
+      "parent": null,
+      "ja": "ハイブリッド計算装置［２００６．０１］",
+      "en": "Hybrid computing arrangements[2006.01]",
+      "count": 23,
+      "ipcCode": "G06J1/00",
+      "fTerm": "5B103",
+      "childFlag": 0,
+      "sourceFile": "fi_G06J.txt",
+      "kind": "fi"
+    },
+    "G06J1/00650\\": {
+      "code": "G06J1/00650\\",
+      "level": 1,
+      "parent": "G06J1/00\\",
+      "ja": "相関演算；畳み込み演算；Ｚまたはフーリエ変換のためのもの",
+      "en": "correlation operation; convolution operation; for Z or Fourier transform",
+      "count": 21,
+      "ipcCode": "G06J1/00",
+      "fTerm": "5B103",
+      "childFlag": 1,
+      "sourceFile": "fi_G06J.txt",
+      "kind": "fi"
+    },
+    "G06J1/02\\": {
+      "code": "G06J1/02\\",
+      "level": 1,
+      "parent": "G06J1/00\\",
+      "ja": "微分解析機",
+      "en": "Differential analysers",
+      "count": 17,
+      "ipcCode": "G06J1/02",
+      "fTerm": "5B103",
+      "childFlag": 1,
+      "sourceFile": "fi_G06J.txt",
+      "kind": "fi"
+    },
+    "G06J3/00\\": {
+      "code": "G06J3/00\\",
+      "level": 0,
+      "parent": null,
+      "ja": "完全なデジタル計算機と完全なアナログ計算機の連動システム",
+      "en": "Systems for conjoint operation of complete digital and complete analogue computers",
+      "count": 40,
+      "ipcCode": "G06J3/00",
+      "fTerm": "5B103",
+      "childFlag": 0,
+      "sourceFile": "fi_G06J.txt",
+      "kind": "fi"
+    }
+  }
+}

@@ -1,0 +1,836 @@
+{
+  "generatedAt": "2026-03-20T02:17:45.870Z",
+  "total": 83,
+  "entries": {
+    "A21D": {
+      "code": "A21D",
+      "level": 0,
+      "parent": "A21",
+      "ja": "ベイキングの穀粉または生地の処理，例．材料の添加によるもの；ベイキング；ベイカリー製品（ベイキング前の穀粉または生地の保存Ａ２３Ｂ４０／００；ベイカリー製品の保存Ａ２３Ｂ４５／００）［２００６．０１］<br><br><b><ul>サブクラス内の索引</ul></b><br>ベイキング前の製品；それらの処理  Ａ２１Ｄ１０／００；Ａ２１Ｄ２／００ーＡ２１Ｄ６／００<br>生地のベイキング  Ａ２１Ｄ８／００<br>ベイカリー製品；それらの改良または再生  Ａ２１Ｄ１３／００；Ａ２１Ｄ１５／００，Ａ２１Ｄ１７／００",
+      "en": "TREATMENT OF FLOUR OR DOUGH FOR BAKING, e.g. BY ADDITION OF MATERIALS; BAKING; BAKERY PRODUCTS(preservation of flour or dough before baking <b>A23B40/00</b>; preservation of bakery products <b>A23B45/00</b>);<br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">PRODUCTS BEFORE BAKING; TREATMENT THEREOF</td><td><b><b>10/00</b>; <b>2/00 to 6/00</b> </b></td></tr></tr><tr><td width=\"70%\">BAKING OF DOUGH</td><td><b><b>8/00</b></b></td></tr></tr><tr><td width=\"70%\">BAKERY PRODUCTS; IMPROVING OR REFRESHING THEREOF</td><td><b><b>13/00</b>; <b>15/00</b>, <b>17/00</b></b></td></tr></tr></table>",
+      "count": 750,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A21": {
+      "code": "A21",
+      "level": 0,
+      "parent": "A",
+      "ja": "ベイキング；生地製造または加工の機械あるいは設備；ベイキングの生地［１，８］",
+      "en": "BAKING; EQUIPMENT FOR MAKING OR PROCESSING DOUGHS; DOUGHS FOR BAKING",
+      "count": 0,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A": {
+      "code": "A",
+      "level": 0,
+      "parent": null,
+      "ja": "生活必需品",
+      "en": "HUMAN NECESSITIES",
+      "count": 0,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A21D2/00": {
+      "code": "A21D2/00",
+      "level": 0,
+      "parent": "A21D",
+      "ja": "ベイキング前または最中の添加材料による穀粉または生地の処理（ベイキング前のバッター，生地またはその混合物Ａ２１Ｄ１０／００）［２，８］<br><br><b><ul>注</ul></b><br>グループＡ２１Ｄ２／０２～Ａ２１Ｄ２／４０においては，ラストプレイス優先ルールが適用される，すなわち各階層レベルにおいて相反する指示がない限り，物質は最後の適切な箇所に分類する。",
+      "en": "Treatment of flour or dough by adding materials thereto before or during baking(batters, dough or mixtures before baking <b>A21D10/00</b>)",
+      "count": 2391,
+      "sourceFile": "ipc_A21D.txt",
+      "kind": "ipc"
+    },
+    "A21D2/02": {
+      "code": "A21D2/02",
+      "level": 1,
+      "parent": "A21D2/00",
+      "ja": "無機物質の添加によるもの",
+      "en": "by adding inorganic substances",
+      "count": 2170,
+      "sourceFile": "ipc_A21D.txt",
+      "kind": "ipc"
+    },
+    "A21D2/04": {
+      "code": "A21D2/04",
+      "level": 2,
+      "parent": "A21D2/02",
+      "ja": "酸素；酸素発生化合物，例．オゾン，過酸化物",
+      "en": "Oxygen; Oxygen-generating compounds, e.g. ozone, peroxides",
+      "count": 239,
+      "sourceFile": "ipc_A21D.txt",
+      "kind": "ipc"
+    },
+    "A21D2/06": {
+      "code": "A21D2/06",
+      "level": 2,
+      "parent": "A21D2/02",
+      "ja": "還元剤",
+      "en": "Reducing agents",
+      "count": 40,
+      "sourceFile": "ipc_A21D.txt",
+      "kind": "ipc"
+    },
+    "A21D2/08": {
+      "code": "A21D2/08",
+      "level": 1,
+      "parent": "A21D2/00",
+      "ja": "有機物質の添加によるもの",
+      "en": "by adding organic substances",
+      "count": 1320,
+      "sourceFile": "ipc_A21D.txt",
+      "kind": "ipc"
+    },
+    "A21D2/10": {
+      "code": "A21D2/10",
+      "level": 2,
+      "parent": "A21D2/08",
+      "ja": "炭化水素",
+      "en": "Hydrocarbons",
+      "count": 152,
+      "sourceFile": "ipc_A21D.txt",
+      "kind": "ipc"
+    },
+    "A21D2/12": {
+      "code": "A21D2/12",
+      "level": 2,
+      "parent": "A21D2/08",
+      "ja": "ハロゲン炭化水素",
+      "en": "Halohydrocarbons",
+      "count": 9,
+      "sourceFile": "ipc_A21D.txt",
+      "kind": "ipc"
+    },
+    "A21D2/14": {
+      "code": "A21D2/14",
+      "level": 2,
+      "parent": "A21D2/08",
+      "ja": "有機酸素化合物",
+      "en": "Organic oxygen compounds",
+      "count": 2521,
+      "sourceFile": "ipc_A21D.txt",
+      "kind": "ipc"
+    },
+    "A21D2/16": {
+      "code": "A21D2/16",
+      "level": 3,
+      "parent": "A21D2/14",
+      "ja": "脂肪酸エステル",
+      "en": "Fatty acid esters",
+      "count": 3723,
+      "sourceFile": "ipc_A21D.txt",
+      "kind": "ipc"
+    },
+    "A21D2/18": {
+      "code": "A21D2/18",
+      "level": 3,
+      "parent": "A21D2/14",
+      "ja": "炭水化物",
+      "en": "Carbohydrates",
+      "count": 6391,
+      "sourceFile": "ipc_A21D.txt",
+      "kind": "ipc"
+    },
+    "A21D2/20": {
+      "code": "A21D2/20",
+      "level": 3,
+      "parent": "A21D2/14",
+      "ja": "過酸化物",
+      "en": "Peroxides",
+      "count": 81,
+      "sourceFile": "ipc_A21D.txt",
+      "kind": "ipc"
+    },
+    "A21D2/22": {
+      "code": "A21D2/22",
+      "level": 3,
+      "parent": "A21D2/14",
+      "ja": "アスコルビン酸",
+      "en": "Ascorbic acid",
+      "count": 663,
+      "sourceFile": "ipc_A21D.txt",
+      "kind": "ipc"
+    },
+    "A21D2/24": {
+      "code": "A21D2/24",
+      "level": 2,
+      "parent": "A21D2/08",
+      "ja": "有機窒素化合物",
+      "en": "Organic nitrogen compounds",
+      "count": 811,
+      "sourceFile": "ipc_A21D.txt",
+      "kind": "ipc"
+    },
+    "A21D2/26": {
+      "code": "A21D2/26",
+      "level": 3,
+      "parent": "A21D2/24",
+      "ja": "蛋白質",
+      "en": "Proteins",
+      "count": 3620,
+      "sourceFile": "ipc_A21D.txt",
+      "kind": "ipc"
+    },
+    "A21D2/28": {
+      "code": "A21D2/28",
+      "level": 2,
+      "parent": "A21D2/08",
+      "ja": "有機硫黄化合物",
+      "en": "Organic sulfur compounds",
+      "count": 174,
+      "sourceFile": "ipc_A21D.txt",
+      "kind": "ipc"
+    },
+    "A21D2/30": {
+      "code": "A21D2/30",
+      "level": 2,
+      "parent": "A21D2/08",
+      "ja": "有機燐化合物",
+      "en": "Organic phosphorus compounds",
+      "count": 118,
+      "sourceFile": "ipc_A21D.txt",
+      "kind": "ipc"
+    },
+    "A21D2/32": {
+      "code": "A21D2/32",
+      "level": 3,
+      "parent": "A21D2/30",
+      "ja": "燐脂質",
+      "en": "Phosphatides",
+      "count": 402,
+      "sourceFile": "ipc_A21D.txt",
+      "kind": "ipc"
+    },
+    "A21D2/34": {
+      "code": "A21D2/34",
+      "level": 2,
+      "parent": "A21D2/08",
+      "ja": "動物質のもの",
+      "en": "Animal material",
+      "count": 4377,
+      "sourceFile": "ipc_A21D.txt",
+      "kind": "ipc"
+    },
+    "A21D2/36": {
+      "code": "A21D2/36",
+      "level": 2,
+      "parent": "A21D2/08",
+      "ja": "植物質のもの",
+      "en": "Vegetable material",
+      "count": 19804,
+      "sourceFile": "ipc_A21D.txt",
+      "kind": "ipc"
+    },
+    "A21D2/38": {
+      "code": "A21D2/38",
+      "level": 3,
+      "parent": "A21D2/36",
+      "ja": "種子の胚；発芽穀物；その抽出物",
+      "en": "Seed germs; Germinated cereals; Extracts thereof",
+      "count": 1180,
+      "sourceFile": "ipc_A21D.txt",
+      "kind": "ipc"
+    },
+    "A21D2/40": {
+      "code": "A21D2/40",
+      "level": 1,
+      "parent": "A21D2/00",
+      "ja": "穀粉または生地の化学処理用の装置",
+      "en": "Apparatus for the chemical treatment of flour or dough",
+      "count": 46,
+      "sourceFile": "ipc_A21D.txt",
+      "kind": "ipc"
+    },
+    "A21D6/00": {
+      "code": "A21D6/00",
+      "level": 0,
+      "parent": "A21D",
+      "ja": "ベイキング前の穀粉または生地のその他の処理，例．冷却，照射または加熱（ベイキング前の穀粉または生地の保存Ａ２３Ｂ４０／００）［２０２５．０１］",
+      "en": "Other treatment of flour or dough before baking, e.g. cooling, irradiating or heating(preservation of flour or dough before baking <b>A23B40/00</b>)",
+      "count": 3207,
+      "sourceFile": "ipc_A21D.txt",
+      "kind": "ipc"
+    },
+    "A21D8/00": {
+      "code": "A21D8/00",
+      "level": 0,
+      "parent": "A21D",
+      "ja": "生地の仕込またはベイキングの方法（添加材料による穀粉または生地の処理Ａ２１Ｄ２／００）",
+      "en": "Methods for preparing or baking dough(treatment of flour or dough by adding materials <b>A21D2/00</b>)",
+      "count": 2007,
+      "sourceFile": "ipc_A21D.txt",
+      "kind": "ipc"
+    },
+    "A21D8/02": {
+      "code": "A21D8/02",
+      "level": 1,
+      "parent": "A21D8/00",
+      "ja": "生地の仕込法；ベイキングに先立つ生地の処理",
+      "en": "Methods for preparing dough; Treating dough prior to baking",
+      "count": 4728,
+      "sourceFile": "ipc_A21D.txt",
+      "kind": "ipc"
+    },
+    "A21D8/04": {
+      "code": "A21D8/04",
+      "level": 2,
+      "parent": "A21D8/02",
+      "ja": "微生物または酵素による生地の処理",
+      "en": "treating dough with microorganisms or enzymes",
+      "count": 5605,
+      "sourceFile": "ipc_A21D.txt",
+      "kind": "ipc"
+    },
+    "A21D8/06": {
+      "code": "A21D8/06",
+      "level": 1,
+      "parent": "A21D8/00",
+      "ja": "ベイキング加工",
+      "en": "Baking processes",
+      "count": 3291,
+      "sourceFile": "ipc_A21D.txt",
+      "kind": "ipc"
+    },
+    "A21D8/08": {
+      "code": "A21D8/08",
+      "level": 1,
+      "parent": "A21D8/00",
+      "ja": "粘着防止，例．焼板上への",
+      "en": "Prevention of sticking, e.g. to baking plates",
+      "count": 380,
+      "sourceFile": "ipc_A21D.txt",
+      "kind": "ipc"
+    },
+    "A21D8/10": {
+      "code": "A21D8/10",
+      "level": 2,
+      "parent": "A21D8/08",
+      "ja": "ふりかけ粉を用いるもの",
+      "en": "using dusting powders",
+      "count": 96,
+      "sourceFile": "ipc_A21D.txt",
+      "kind": "ipc"
+    },
+    "A21D10/00": {
+      "code": "A21D10/00",
+      "level": 0,
+      "parent": "A21D",
+      "ja": "ベイキング前のバッター，生地またはその混合物［２］",
+      "en": "Batters, dough or mixtures before baking",
+      "count": 3149,
+      "sourceFile": "ipc_A21D.txt",
+      "kind": "ipc"
+    },
+    "A21D10/02": {
+      "code": "A21D10/02",
+      "level": 1,
+      "parent": "A21D10/00",
+      "ja": "焼がまにかけられるようにした生地，例．包装した生地［２］",
+      "en": "Ready-for-oven doughs, e.g. packaged doughs",
+      "count": 1071,
+      "sourceFile": "ipc_A21D.txt",
+      "kind": "ipc"
+    },
+    "A21D10/04": {
+      "code": "A21D10/04",
+      "level": 1,
+      "parent": "A21D10/00",
+      "ja": "バッター［２］",
+      "en": "Batters",
+      "count": 548,
+      "sourceFile": "ipc_A21D.txt",
+      "kind": "ipc"
+    },
+    "A21D13/00": {
+      "code": "A21D13/00",
+      "level": 0,
+      "parent": "A21D",
+      "ja": "仕上がったあるいは部分的に仕上がったベイカリー製品［２０１７．０１］",
+      "en": "Finished or partly finished bakery products",
+      "count": 12532,
+      "sourceFile": "ipc_A21D.txt",
+      "kind": "ipc"
+    },
+    "A21D13/02": {
+      "code": "A21D13/02",
+      "level": 1,
+      "parent": "A21D13/00",
+      "ja": "全砕粒粉から作られた製品；ふすままたはあら挽き穀粒を含む製品",
+      "en": "Products made from whole meal; Products containing bran or rough-ground grain",
+      "count": 1376,
+      "sourceFile": "ipc_A21D.txt",
+      "kind": "ipc"
+    },
+    "A21D13/04": {
+      "code": "A21D13/04",
+      "level": 1,
+      "parent": "A21D13/00",
+      "ja": "ライ麦粉または小麦粉以外の材料からつくられた製品［２０１７．０１］",
+      "en": "Products made from materials other than rye or wheat flour",
+      "count": 1639,
+      "sourceFile": "ipc_A21D.txt",
+      "kind": "ipc"
+    },
+    "A21D13/043": {
+      "code": "A21D13/043",
+      "level": 2,
+      "parent": "A21D13/04",
+      "ja": "塊茎，例．キャッサバまたはばれいしょ，からのもの［２０１７．０１］",
+      "en": "from tubers, e.g. manioc or potato",
+      "count": 331,
+      "sourceFile": "ipc_A21D.txt",
+      "kind": "ipc"
+    },
+    "A21D13/045": {
+      "code": "A21D13/045",
+      "level": 2,
+      "parent": "A21D13/04",
+      "ja": "豆科植物からのもの［２０１７．０１］",
+      "en": "from leguminous plants",
+      "count": 343,
+      "sourceFile": "ipc_A21D.txt",
+      "kind": "ipc"
+    },
+    "A21D13/047": {
+      "code": "A21D13/047",
+      "level": 2,
+      "parent": "A21D13/04",
+      "ja": "ライ麦または小麦以外の穀類，例．米，からのもの［２０１７．０１］",
+      "en": "from cereals other than rye or wheat, e.g. rice",
+      "count": 1323,
+      "sourceFile": "ipc_A21D.txt",
+      "kind": "ipc"
+    },
+    "A21D13/06": {
+      "code": "A21D13/06",
+      "level": 1,
+      "parent": "A21D13/00",
+      "ja": "栄養価を調整した製品，例．加工澱粉を含有したもの［２０１７．０１］",
+      "en": "Products with modified nutritive value, e.g. with modified starch content",
+      "count": 5846,
+      "sourceFile": "ipc_A21D.txt",
+      "kind": "ipc"
+    },
+    "A21D13/062": {
+      "code": "A21D13/062",
+      "level": 2,
+      "parent": "A21D13/06",
+      "ja": "糖含量を調整したもの；無糖製品［２０１７．０１］",
+      "en": "with modified sugar content; Sugar-free products",
+      "count": 1548,
+      "sourceFile": "ipc_A21D.txt",
+      "kind": "ipc"
+    },
+    "A21D13/064": {
+      "code": "A21D13/064",
+      "level": 2,
+      "parent": "A21D13/06",
+      "ja": "蛋白質含量を調整したもの［２０１７．０１］",
+      "en": "with modified protein content",
+      "count": 439,
+      "sourceFile": "ipc_A21D.txt",
+      "kind": "ipc"
+    },
+    "A21D13/066": {
+      "code": "A21D13/066",
+      "level": 3,
+      "parent": "A21D13/064",
+      "ja": "グルテンフリー製品［２０１７．０１］",
+      "en": "Gluten-free products",
+      "count": 486,
+      "sourceFile": "ipc_A21D.txt",
+      "kind": "ipc"
+    },
+    "A21D13/068": {
+      "code": "A21D13/068",
+      "level": 2,
+      "parent": "A21D13/06",
+      "ja": "脂肪含量を調整したもの；無脂肪製品［２０１７．０１］",
+      "en": "with modified fat content; Fat-free products",
+      "count": 343,
+      "sourceFile": "ipc_A21D.txt",
+      "kind": "ipc"
+    },
+    "A21D13/10": {
+      "code": "A21D13/10",
+      "level": 1,
+      "parent": "A21D13/00",
+      "ja": "多層化された製品［２０１７．０１］",
+      "en": "Multi-layered products",
+      "count": 193,
+      "sourceFile": "ipc_A21D.txt",
+      "kind": "ipc"
+    },
+    "A21D13/11": {
+      "code": "A21D13/11",
+      "level": 2,
+      "parent": "A21D13/10",
+      "ja": "２以上の生地から作られるもの，例．組成材料，色または構造が異なるもの［２０１７．０１］",
+      "en": "made of two or more doughs, e.g. differing in composition, colour or structure",
+      "count": 86,
+      "sourceFile": "ipc_A21D.txt",
+      "kind": "ipc"
+    },
+    "A21D13/13": {
+      "code": "A21D13/13",
+      "level": 3,
+      "parent": "A21D13/11",
+      "ja": "コーティングされたもの［２０１７．０１］",
+      "en": "with coatings",
+      "count": 75,
+      "sourceFile": "ipc_A21D.txt",
+      "kind": "ipc"
+    },
+    "A21D13/14": {
+      "code": "A21D13/14",
+      "level": 3,
+      "parent": "A21D13/11",
+      "ja": "充填されたもの［２０１７．０１］",
+      "en": "with fillings",
+      "count": 132,
+      "sourceFile": "ipc_A21D.txt",
+      "kind": "ipc"
+    },
+    "A21D13/16": {
+      "code": "A21D13/16",
+      "level": 2,
+      "parent": "A21D13/10",
+      "ja": "多層化されたペーストリー，例．パフペーストリー；デニッシュペーストリーまたは積層状生地［２０１７．０１］",
+      "en": "Multi-layered pastry, e.g. puff pastry; Danish pastry or laminated dough",
+      "count": 318,
+      "sourceFile": "ipc_A21D.txt",
+      "kind": "ipc"
+    },
+    "A21D13/17": {
+      "code": "A21D13/17",
+      "level": 3,
+      "parent": "A21D13/16",
+      "ja": "コーティングされたもの［２０１７．０１］",
+      "en": "with coatings",
+      "count": 122,
+      "sourceFile": "ipc_A21D.txt",
+      "kind": "ipc"
+    },
+    "A21D13/19": {
+      "code": "A21D13/19",
+      "level": 3,
+      "parent": "A21D13/16",
+      "ja": "充填されたもの［２０１７．０１］",
+      "en": "with fillings",
+      "count": 227,
+      "sourceFile": "ipc_A21D.txt",
+      "kind": "ipc"
+    },
+    "A21D13/20": {
+      "code": "A21D13/20",
+      "level": 1,
+      "parent": "A21D13/00",
+      "ja": "部分的または完全にコーティングされた製品（多層化されたベイカリー製品でコーティングのあるものＡ２１Ｄ１３／１３，Ａ２１Ｄ１３／１７）［２０１７．０１］",
+      "en": "Partially or completely coated products(multi-layered bakery products with coatings <b>A21D13/13</b>, <b>A21D13/17</b>)",
+      "count": 92,
+      "sourceFile": "ipc_A21D.txt",
+      "kind": "ipc"
+    },
+    "A21D13/22": {
+      "code": "A21D13/22",
+      "level": 2,
+      "parent": "A21D13/20",
+      "ja": "ベイキング前にコーティングされたもの［２０１７．０１］",
+      "en": "coated before baking",
+      "count": 581,
+      "sourceFile": "ipc_A21D.txt",
+      "kind": "ipc"
+    },
+    "A21D13/24": {
+      "code": "A21D13/24",
+      "level": 2,
+      "parent": "A21D13/20",
+      "ja": "ベイキング後にコーティングされたもの［２０１７．０１］",
+      "en": "coated after baking",
+      "count": 571,
+      "sourceFile": "ipc_A21D.txt",
+      "kind": "ipc"
+    },
+    "A21D13/26": {
+      "code": "A21D13/26",
+      "level": 2,
+      "parent": "A21D13/20",
+      "ja": "コーティングが成分の移行を防止するもの［２０１７．０１］",
+      "en": "the coating forming a barrier against migration",
+      "count": 27,
+      "sourceFile": "ipc_A21D.txt",
+      "kind": "ipc"
+    },
+    "A21D13/28": {
+      "code": "A21D13/28",
+      "level": 2,
+      "parent": "A21D13/20",
+      "ja": "コーティングの組成材料に特徴のあるもの［２０１７．０１］",
+      "en": "characterised by the coating composition",
+      "count": 698,
+      "sourceFile": "ipc_A21D.txt",
+      "kind": "ipc"
+    },
+    "A21D13/30": {
+      "code": "A21D13/30",
+      "level": 1,
+      "parent": "A21D13/00",
+      "ja": "充填された，充填されるまたは詰め物をした製品（多層化された製品で充填物のあるものＡ２１Ｄ１３／１４，Ａ２１Ｄ１３／１９）［２０１７．０１］",
+      "en": "Filled, to be filled or stuffed products(multi-layered products with fillings <b>A21D13/14</b>, <b>A21D13/19</b>)",
+      "count": 254,
+      "sourceFile": "ipc_A21D.txt",
+      "kind": "ipc"
+    },
+    "A21D13/31": {
+      "code": "A21D13/31",
+      "level": 2,
+      "parent": "A21D13/30",
+      "ja": "ベイキング前に充填されたもの［２０１７．０１］",
+      "en": "filled before baking",
+      "count": 1999,
+      "sourceFile": "ipc_A21D.txt",
+      "kind": "ipc"
+    },
+    "A21D13/32": {
+      "code": "A21D13/32",
+      "level": 2,
+      "parent": "A21D13/30",
+      "ja": "ベイキング後に充填されたまたは充填されるもの，例．サンドイッチ［２０１７．０１］",
+      "en": "filled or to be filled after baking, e.g. sandwiches",
+      "count": 726,
+      "sourceFile": "ipc_A21D.txt",
+      "kind": "ipc"
+    },
+    "A21D13/33": {
+      "code": "A21D13/33",
+      "level": 3,
+      "parent": "A21D13/32",
+      "ja": "可食容器，例．カップまたはコーン［２０１７．０１］",
+      "en": "Edible containers, e.g. cups or cones",
+      "count": 133,
+      "sourceFile": "ipc_A21D.txt",
+      "kind": "ipc"
+    },
+    "A21D13/34": {
+      "code": "A21D13/34",
+      "level": 2,
+      "parent": "A21D13/30",
+      "ja": "充填物が成分の移行を防止するもの［２０１７．０１］",
+      "en": "the filling forming a barrier against migration",
+      "count": 26,
+      "sourceFile": "ipc_A21D.txt",
+      "kind": "ipc"
+    },
+    "A21D13/36": {
+      "code": "A21D13/36",
+      "level": 2,
+      "parent": "A21D13/30",
+      "ja": "充填されたウエハース［２０１７．０１］",
+      "en": "Filled wafers",
+      "count": 157,
+      "sourceFile": "ipc_A21D.txt",
+      "kind": "ipc"
+    },
+    "A21D13/37": {
+      "code": "A21D13/37",
+      "level": 2,
+      "parent": "A21D13/30",
+      "ja": "共押出加工製品，すなわち，生地および充填物の同時押出加工により得られる製品［２０１７．０１］",
+      "en": "Co-extruded products, i.e. products obtained by simultaneous extrusion of the dough and the filling",
+      "count": 51,
+      "sourceFile": "ipc_A21D.txt",
+      "kind": "ipc"
+    },
+    "A21D13/38": {
+      "code": "A21D13/38",
+      "level": 2,
+      "parent": "A21D13/30",
+      "ja": "充填物の組成物に特徴のあるもの［２０１７．０１］",
+      "en": "characterised by the filling composition",
+      "count": 2256,
+      "sourceFile": "ipc_A21D.txt",
+      "kind": "ipc"
+    },
+    "A21D13/40": {
+      "code": "A21D13/40",
+      "level": 1,
+      "parent": "A21D13/00",
+      "ja": "タイプ，形状または使用に特徴のある製品［２０１７．０１］",
+      "en": "Products characterised by the type, form or use",
+      "count": 927,
+      "sourceFile": "ipc_A21D.txt",
+      "kind": "ipc"
+    },
+    "A21D13/41": {
+      "code": "A21D13/41",
+      "level": 2,
+      "parent": "A21D13/40",
+      "ja": "ピザ［２０１７．０１］",
+      "en": "Pizzas",
+      "count": 415,
+      "sourceFile": "ipc_A21D.txt",
+      "kind": "ipc"
+    },
+    "A21D13/42": {
+      "code": "A21D13/42",
+      "level": 2,
+      "parent": "A21D13/40",
+      "ja": "トルティーヤ［２０１７．０１］",
+      "en": "Tortillas",
+      "count": 129,
+      "sourceFile": "ipc_A21D.txt",
+      "kind": "ipc"
+    },
+    "A21D13/43": {
+      "code": "A21D13/43",
+      "level": 2,
+      "parent": "A21D13/40",
+      "ja": "フラットブレッド，例．ナン［２０１７．０１］",
+      "en": "Flatbreads, e.g. naan",
+      "count": 117,
+      "sourceFile": "ipc_A21D.txt",
+      "kind": "ipc"
+    },
+    "A21D13/44": {
+      "code": "A21D13/44",
+      "level": 2,
+      "parent": "A21D13/40",
+      "ja": "パンケーキまたはクレープ［２０１７．０１］",
+      "en": "Pancakes or cr&ecirc;pes",
+      "count": 225,
+      "sourceFile": "ipc_A21D.txt",
+      "kind": "ipc"
+    },
+    "A21D13/45": {
+      "code": "A21D13/45",
+      "level": 2,
+      "parent": "A21D13/40",
+      "ja": "ウエハース（充填されたウエハースＡ２１Ｄ１３／３６）［２０１７．０１］",
+      "en": "Wafers(filled wafers <b>A21D13/36</b>)",
+      "count": 133,
+      "sourceFile": "ipc_A21D.txt",
+      "kind": "ipc"
+    },
+    "A21D13/46": {
+      "code": "A21D13/46",
+      "level": 2,
+      "parent": "A21D13/40",
+      "ja": "クルトン［２０１７．０１］",
+      "en": "Croutons",
+      "count": 17,
+      "sourceFile": "ipc_A21D.txt",
+      "kind": "ipc"
+    },
+    "A21D13/47": {
+      "code": "A21D13/47",
+      "level": 2,
+      "parent": "A21D13/40",
+      "ja": "装飾されたまたは装飾用の製品［２０１７．０１］",
+      "en": "Decorated or decorative products",
+      "count": 289,
+      "sourceFile": "ipc_A21D.txt",
+      "kind": "ipc"
+    },
+    "A21D13/48": {
+      "code": "A21D13/48",
+      "level": 2,
+      "parent": "A21D13/40",
+      "ja": "食用のほかに追加的機能を有する製品，例．玩具または食事用器具［２０１７．０１］",
+      "en": "Products with an additional function other than for eating, e.g. toys or cutlery",
+      "count": 181,
+      "sourceFile": "ipc_A21D.txt",
+      "kind": "ipc"
+    },
+    "A21D13/50": {
+      "code": "A21D13/50",
+      "level": 1,
+      "parent": "A21D13/00",
+      "ja": "発泡固化製品，例．メレンゲ［２０１７．０１］",
+      "en": "Solidified foamed products, e.g. meringues",
+      "count": 62,
+      "sourceFile": "ipc_A21D.txt",
+      "kind": "ipc"
+    },
+    "A21D13/60": {
+      "code": "A21D13/60",
+      "level": 1,
+      "parent": "A21D13/00",
+      "ja": "油で揚げた製品，例．ドーナツ［２０１７．０１］",
+      "en": "Deep-fried products, e.g. doughnuts",
+      "count": 848,
+      "sourceFile": "ipc_A21D.txt",
+      "kind": "ipc"
+    },
+    "A21D13/80": {
+      "code": "A21D13/80",
+      "level": 1,
+      "parent": "A21D13/00",
+      "ja": "他に分類されないペーストリー，例．ケーキ，ビスケットまたはクッキー［２０１７．０１］",
+      "en": "Pastry not otherwise provided for elsewhere, e.g. cakes, biscuits or cookies",
+      "count": 3346,
+      "sourceFile": "ipc_A21D.txt",
+      "kind": "ipc"
+    },
+    "A21D15/00": {
+      "code": "A21D15/00",
+      "level": 0,
+      "parent": "A21D",
+      "ja": "ベイカリー製品の改良（再生Ａ２１Ｄ１７／００）［２０２５．０１］",
+      "en": "Improving finished bakery products (refreshing bakery products <b>A21D17/00</b>)",
+      "count": 1451,
+      "sourceFile": "ipc_A21D.txt",
+      "kind": "ipc"
+    },
+    "A21D15/02": {
+      "code": "A21D15/02",
+      "level": 1,
+      "parent": "A21D15/00",
+      "ja": "冷却によるもの［２０２５．０１］",
+      "en": "by cooling",
+      "count": 1012,
+      "sourceFile": "ipc_A21D.txt",
+      "kind": "ipc"
+    },
+    "A21D15/04": {
+      "code": "A21D15/04",
+      "level": 1,
+      "parent": "A21D15/00",
+      "ja": "熱処理によるもの［２０２５．０１］",
+      "en": "by heat treatment",
+      "count": 212,
+      "sourceFile": "ipc_A21D.txt",
+      "kind": "ipc"
+    },
+    "A21D15/06": {
+      "code": "A21D15/06",
+      "level": 1,
+      "parent": "A21D15/00",
+      "ja": "照射によるもの［２０２５．０１］",
+      "en": "by irradiation",
+      "count": 106,
+      "sourceFile": "ipc_A21D.txt",
+      "kind": "ipc"
+    },
+    "A21D15/08": {
+      "code": "A21D15/08",
+      "level": 1,
+      "parent": "A21D15/00",
+      "ja": "被覆によるもの［２０２５．０１］",
+      "en": "by coating",
+      "count": 572,
+      "sourceFile": "ipc_A21D.txt",
+      "kind": "ipc"
+    },
+    "A21D17/00": {
+      "code": "A21D17/00",
+      "level": 0,
+      "parent": "A21D",
+      "ja": "ベイカリー製品の再生［２］",
+      "en": "Refreshing bakery products",
+      "count": 232,
+      "sourceFile": "ipc_A21D.txt",
+      "kind": "ipc"
+    }
+  }
+}

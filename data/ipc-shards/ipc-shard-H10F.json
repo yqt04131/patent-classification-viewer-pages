@@ -1,0 +1,1026 @@
+{
+  "generatedAt": "2026-03-20T02:17:47.328Z",
+  "total": 102,
+  "entries": {
+    "H10F": {
+      "code": "H10F",
+      "level": 0,
+      "parent": "H10",
+      "ja": "赤外線，可視光，短波長電磁波または粒子線の輻射に感応する無機半導体装置［２０２５．０１］<br><br><b><ul>注</ul></b><br>１．　無機輻射線感応半導体装置が以下に特に適している場合に限り，このサブクラスは当該装置を包含する。：<br>・輻射線エネルギーの電気的エネルギーへの変換；　または<br>・輻射線による電気的エネルギーの制御<br>２．このサブクラスでは，「赤外線」は，約７００ｎｍから約１ｍｍの間の波長を含む。<br>３．このサブクラスでは，セクションＣの注（３）の周期表中で示されたＩ～ＶＩＩＩ族の周期系が用いられる。［２０２５．０１］<br><br><b><ul>サブクラス内の索引</ul></b><br>光起電<br>個々の光起電セル　Ｈ１０Ｆ１０／００<br>光起電モジュールまたは集積装置　Ｈ１０Ｆ１９／００<br>輻射線によって制御される装置<br>個々のフォトレジスタ，フォトダイオード，フォトトランジスタまたは類似の装置　Ｈ１０Ｆ３０／００<br>集積装置または複数の装置の組立体　Ｈ１０Ｆ３９／００<br>他の装置<br>電気光源と結合された輻射線感応装置　Ｈ１０Ｆ５５／００<br>製造または処理；構造的細部<br>製造または処理　Ｈ１０Ｆ７１／００<br>構造的細部　Ｈ１０Ｆ７７／００<br>このサブクラスの他のグループに分類されない主題事項　Ｈ１０Ｆ９９／００［２０２５．０１］",
+      "en": "INORGANIC SEMICONDUCTOR DEVICES SENSITIVE TO INFRARED RADIATION, LIGHT, ELECTROMAGNETIC RADIATION OF SHORTER WAVELENGTH OR CORPUSCULAR RADIATION; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This subclass covers inorganic radiation-sensitive semiconductor devices insofar as these devices are specially adapted for: <ul><li>the conversion of the radiation energy into electrical energy; or</li><li>the control of electrical energy by such radiation.</li></ul></li><li>In this subclass, &ldquo;infrared radiation&rdquo; includes wavelengths between about 700 nm and about 1 mm.</li><li>In this subclass, the periodic system used is the I to VIII Group system indicated in the Periodic Table under Note (3) of section <b>C</b>.</li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">PHOTOVOLTAICS<tr><td width=\"70%\">Individual photovoltaic cells</td><td><b><b>10/00</b></b></td></tr></tr><tr><td width=\"70%\">Photovoltaic modules or integrated devices</td><td><b><b>19/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">RADIATION-CONTROLLED DEVICES<tr><td width=\"70%\">Individual photoresistors, photodiodes, phototransistors or like devices</td><td><b><b>30/00</b></b></td></tr></tr><tr><td width=\"70%\">Integrated devices or assemblies of multiple devices</td><td><b><b>39/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">OTHER DEVICES<tr><td width=\"70%\">Radiation-sensitive devices coupled to electric light sources</td><td><b><b>55/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">MANUFACTURE OR TREATMENT; CONSTRUCTIONAL DETAILS<tr><td width=\"70%\">Manufacture or treatment</td><td><b><b>71/00</b></b></td></tr></tr><tr><td width=\"70%\">Constructional details</td><td><b><b>77/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">SUBJECT MATTER NOT PROVIDED FOR IN OTHER GROUPS OF THIS SUBCLASS</td><td><b><b>99/00</b></b></td></tr></tr></table>",
+      "count": 0,
+      "sourceFile": "ipc_H.txt",
+      "kind": "ipc"
+    },
+    "H10": {
+      "code": "H10",
+      "level": 0,
+      "parent": "H",
+      "ja": "半導体装置；他に分類されない電気的固体装置［２０２３．０１］",
+      "en": "SEMICONDUCTOR DEVICES; ELECTRIC SOLID-STATE DEVICES NOT OTHERWISE PROVIDED FOR",
+      "count": 0,
+      "sourceFile": "ipc_H.txt",
+      "kind": "ipc"
+    },
+    "H": {
+      "code": "H",
+      "level": 0,
+      "parent": null,
+      "ja": "電気<br><br><b><ul>注</ul></b><br>（利用にあたっての基本原則と一般的指示）<br>Ｉ．セクションＨは以下のものを包含する：<br>（ａ）基本的電気素子，これは全ての電気ユニットと，装置や回路の一般的な機械的構成を包含しており，その中にはプリント配線と称されるものに各種の基本素子を組み立てたものも含まれる。またこれは他に包含されない場合には，ある程度までこれらの素子の製造をも包含する；<br>（ｂ）発電，これは，発電，変換および配電と共にそのための装置の制御を包含する；<br>（ｃ）電気の応用，これは以下のものを包含する：<br>（ｉ）一般的な利用技術，すなわち．電気加熱と電気照明回路の利用技術；<br>（ｉｉ）厳密な意味で電気的か電子的かいずれかの特定の利用技術で国際特許分類の他のセクションに包含されないもの，これは以下のものを含んでいる：<br>（１）電気的光源，これはレーザーを含む；<br>（２）電気的なＸ線技術；<br>（３）電気的なプラズマ技術，および帯電粒子または中性子の発生および加速；<br>（ｄ）基本電子回路およびその制御；<br>（ｅ）電気通信技術；これは電気―機械変換器一般を含む；<br>（ｆ）物品や上記素子を作るための特定の材料の使用，この点については指針の８８項から９０項を参照されたい。<br>ＩＩ．このセクションにおいては，下記の一般規則が適用される：<br>（ａ）上記Ｉ（ｃ）で述べた例外を除いて，国際特許分類のセクションＨ以外のいずれかのセクションに分類される特殊な操作，方法，装置，物体または物品に特有の電気的観点または部分は，常にその操作，方法，装置，物体または物品のためのサブクラスに分類されるか，または類似の性質を有する技術主題に関する共通的な特徴がクラス・レベルで展開されている場合には，それは，該技術主題のための一般的電気的な応用を完全に包含するサブクラスに，その操作，方法，装置，物体または物品と関連して分類される；<br>（ｂ）この様な電気的な応用には，一般的なものであれ特殊なものであれ，次の事項が含まれる。<br>（ｉ）Ａ６１における治療方法および装置；<br>（ｉｉ）Ｂ０１，Ｂ０３およびＢ２３Ｋにおける各種の実験室または工業的操作に用いられる電気的方法および装置；<br>（ｉｉｉ）セクションＢの“運輸”のサブセクションにおける車両一般および特殊な車両への電気の供給，電気的推進および電気照明；<br>（ｉｖ）Ｆ０２Ｐにおける内燃機関の電気点火系，およびＦ２３Ｑにおける燃焼装置一般のもの；<br>（ｖ）セクションＧにおける全ての電気的部分，すなわち，電気変量の測定器を含む測定装置，検査，信号および計算。このＧセクションにおいて電気とは，一般に手段として扱われるものでそれ自体目的として扱われるものではない；<br>（ｃ）全ての電気的な応用は一般的なものであれ特殊なものであれ，それが含んでいる電気的“基本的素子”に関して言えば，“基本的な電気”の観点がセクションＨ（上記Ｉ（ａ）参照）にあることを前提としている。この規則は，セクションＨ自身にある上記Ｉ（ｃ）で示した電気の応用に対しても有効である。",
+      "en": "ELECTRICITY; <br><br><b><u>Note(s)</u></b><br><br><ul><li>These Notes cover the basic principles and general instructions for use of section <b>H</b>.<ul><li>Section <b>H</b> <u>covers</u>: <ul><li>basic electric elements, which cover all electric units and the general mechanical structure of apparatus and circuits, including the assembly of various basic elements into what are called printed circuits and also cover to a certain extent the manufacture of these elements (when not covered elsewhere);</li><li>generation of electricity, which covers the generation, conversion and distribution of electricity together with the controlling of the corresponding gear;</li><li>applied electricity, which <u>covers</u>: <ul><li>general utilisation techniques, viz. those of electric heating and electric lighting circuits;</li><li>some special utilisation techniques, either electric or electronic in the strict sense, which are not covered by other sections of the Classification, including: <ul><li>electric light sources, including lasers;</li><li>electric X-ray technique;</li><li>electric plasma technique and the generation and acceleration of electrically charged particles or neutrons;</li></ul></li></ul></li><li>basic electronic circuits and their control;</li><li>radio or electric communication technique;</li><li>the use of a specified material for the manufacture of the article or element described. In this connection, paragraphs 88 to 90 of the Guide should be referred to.</li></ul></li><li>In this section, the following general rules apply: <ul><li>Subject to the exceptions stated in I(c), above, any electric aspect or part peculiar to a particular operation, process, apparatus, object or article, classified in one of the sections of the Classification other than section <b>H</b>, is always classified in the subclass for that operation, process, apparatus, object or article. Where common characteristics concerning technical subjects of similar nature have been brought out at class level, the electric aspect or part is classified, in conjunction with the operation, process, apparatus, object or article, in a subclass which covers entirely the general electrical applications for the technical subject in question;</li><li>The electrical applications referred to under (a), above, either general or particular, include: <ul><li>the therapeutic processes and apparatus, in class <b>A61</b>;</li><li>the electric processes and apparatus used in various laboratory or industrial operations, in classes <b>B01</b> and <b>B03</b> and in subclass <b>B23K</b>;</li><li>the electricity supply, electric propulsion and electric lighting of vehicles in general and of particular vehicles, in the subsection \"Transporting\" of section <b>B</b>;</li><li>the electric ignition systems of internal-combustion engines, in subclass <b>F02P</b>, and of combustion apparatus in general, in subclass <b>F23Q</b>;</li><li>the whole electrical part of section <b>G</b>, i.e. measuring devices including apparatus for measuring electric variables, checking, signalling and calculating. Electricity in that section is generally dealt with as a means and not as an end in itself;</li></ul></li><li>All electrical applications, both general and particular, presuppose that the \"basic electricity\" aspect appears in section <b>H</b> (see I(a) above) as regards the electric \"basic elements\" which they comprise. This rule is also valid for applied electricity, referred to in I(c), above, which appears in section <b>H</b> itself.</li></ul></li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_H.txt",
+      "kind": "ipc"
+    },
+    "H10F10/00": {
+      "code": "H10F10/00",
+      "level": 0,
+      "parent": "H10F",
+      "ja": "個々の光起電セル，例．太陽電池（電解型感光装置，例．色素増感太陽電池，Ｈ０１Ｇ９／２０）［２０２５．０１］",
+      "en": "Individual photovoltaic cells, e.g. solar cells(electrolytic light-sensitive devices, e.g. dye-sensitised solar cells, <b>H01G9/20</b>)",
+      "count": 627,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F10/10": {
+      "code": "H10F10/10",
+      "level": 1,
+      "parent": "H10F10/00",
+      "ja": "電位障壁を有するもの［２０２５．０１］",
+      "en": "having potential barriers",
+      "count": 337,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F10/11": {
+      "code": "H10F10/11",
+      "level": 2,
+      "parent": "H10F10/10",
+      "ja": "点接触の電位障壁を有する光起電セル（Ｈ１０Ｆ１０／１８が優先）［２０２５．０１］",
+      "en": "Photovoltaic cells having point contact potential barriers(<b>H10F10/18</b> takes precedence)",
+      "count": 2,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F10/12": {
+      "code": "H10F10/12",
+      "level": 2,
+      "parent": "H10F10/10",
+      "ja": "金属－絶縁体－半導体［ＭＩＳ］の電位障壁のみを有する光起電セル［２０２５．０１］",
+      "en": "Photovoltaic cells having only metal-insulator-semiconductor [MIS] potential barriers",
+      "count": 3,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F10/13": {
+      "code": "H10F10/13",
+      "level": 2,
+      "parent": "H10F10/10",
+      "ja": "グレーデッドバンドギャップからなる吸収層を有する光起電セル［２０２５．０１］",
+      "en": "Photovoltaic cells having absorbing layers comprising graded bandgaps",
+      "count": 9,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F10/14": {
+      "code": "H10F10/14",
+      "level": 2,
+      "parent": "H10F10/10",
+      "ja": "ＰＮホモ接合の電位障壁のみを有する光起電セル［２０２５．０１］",
+      "en": "Photovoltaic cells having only PN homojunction potential barriers",
+      "count": 1023,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F10/142": {
+      "code": "H10F10/142",
+      "level": 3,
+      "parent": "H10F10/14",
+      "ja": "複数のＰＮホモ接合からなるもの，例．タンデムセル［２０２５．０１］",
+      "en": "comprising multiple PN homojunctions, e.g. tandem cells",
+      "count": 76,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F10/144": {
+      "code": "H10F10/144",
+      "level": 3,
+      "parent": "H10F10/14",
+      "ja": "ＩＩＩ－Ｖ族の材料のみからなるもの，例．ＧａＡｓ，ＡＩＧａＡｓまたはＩｎＰ光起電セル［２０２５．０１］",
+      "en": "comprising only Group III-V materials, e.g. GaAs,AlGaAs, or InP photovoltaic cells",
+      "count": 20,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F10/16": {
+      "code": "H10F10/16",
+      "level": 2,
+      "parent": "H10F10/10",
+      "ja": "ＰＮヘテロ接合の電位障壁のみを有する光起電セル［２０２５．０１］",
+      "en": "Photovoltaic cells having only PN heterojunction potential barriers",
+      "count": 168,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F10/161": {
+      "code": "H10F10/161",
+      "level": 3,
+      "parent": "H10F10/16",
+      "ja": "複数のＰＮヘテロ接合からなるもの，例．タンデムセル［２０２５．０１］",
+      "en": "comprising multiple PN heterojunctions, e.g. tandem cells",
+      "count": 47,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F10/162": {
+      "code": "H10F10/162",
+      "level": 3,
+      "parent": "H10F10/16",
+      "ja": "ＩＩ－ＶＩ族の材料のみからなるもの，例．ＣｄＳ／ＣｄＴｅ光起電セル［２０２５．０１］",
+      "en": "comprising only Group II-VI materials, e.g. CdS/CdTe photovoltaic cells",
+      "count": 41,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F10/163": {
+      "code": "H10F10/163",
+      "level": 3,
+      "parent": "H10F10/16",
+      "ja": "ＩＩＩ－Ｖ族の材料のみからなるもの，例．ＧａＡｓ／ＡＩＧａＡｓまたはＩｎＰ／ＧａＩｎＡｓ光起電セル［２０２５．０１］",
+      "en": "comprising only Group III-V materials, e.g. GaAs/AlGaAs or InP/GaInAs photovoltaic cells",
+      "count": 33,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F10/164": {
+      "code": "H10F10/164",
+      "level": 3,
+      "parent": "H10F10/16",
+      "ja": "ＩＶ族の材料とのヘテロ接合からなるもの，例．ＩＴＯ／ＳｉまたはＧａＡｓ／ＳｉＧｅ光起電セル［２０２５．０１］",
+      "en": "comprising heterojunctions with Group IV materials, e.g. ITO/Si or GaAs/SiGe photovoltaic cells",
+      "count": 53,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F10/165": {
+      "code": "H10F10/165",
+      "level": 4,
+      "parent": "H10F10/164",
+      "ja": "ヘテロ接合が，ＩＶ－ＩＶ族ヘテロ接合であるもの，例．Ｓｉ／Ｇｅ，ＳｉＧｅ／ＳｉまたはＳｉ／ＳｉＣ光起電セル［２０２５．０１］",
+      "en": "the heterojunctions being Group IV-IV heterojunctions, e.g. Si/Ge, SiGe/Si or Si/SiC photovoltaic cells",
+      "count": 89,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F10/166": {
+      "code": "H10F10/166",
+      "level": 5,
+      "parent": "H10F10/165",
+      "ja": "ＩＶ－ＩＶ族ヘテロ接合が，結晶材料とアモルファス材料のヘテロ接合であるもの，例．シリコンヘテロ接合［ＳＨＪ］光起電セル［２０２５．０１］",
+      "en": "the Group IV-IV heterojunctions being heterojunctions of crystalline and amorphous materials, e.g. silicon heterojunction [SHJ] photovoltaic cells",
+      "count": 378,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F10/167": {
+      "code": "H10F10/167",
+      "level": 3,
+      "parent": "H10F10/16",
+      "ja": "Ｉ－ＩＩＩ－ＶＩ族の材料からなるもの，例．ＣｄＳ／ＣｕｌｎＳｅ２［ＣｌＳ］ヘテロ接合光起電セル［２０２５．０１］",
+      "en": "comprising Group I-III-VI materials, e.g. CdS/CuInSe<sub>2</sub> [CIS] heterojunction photovoltaic cells",
+      "count": 39,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F10/17": {
+      "code": "H10F10/17",
+      "level": 2,
+      "parent": "H10F10/10",
+      "ja": "ＰＩＮ接合の電位障壁のみを有する光起電セル［２０２５．０１］",
+      "en": "Photovoltaic cells having only PIN junction potential barriers",
+      "count": 156,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F10/172": {
+      "code": "H10F10/172",
+      "level": 3,
+      "parent": "H10F10/17",
+      "ja": "複数のＰＩＮ接合からなるもの，例．タンデムセル［２０２５．０１］",
+      "en": "comprising multiple PIN junctions, e.g. tandem cells",
+      "count": 25,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F10/174": {
+      "code": "H10F10/174",
+      "level": 3,
+      "parent": "H10F10/17",
+      "ja": "単結晶または多結晶材料からなるもの［２０２５．０１］",
+      "en": "comprising monocrystalline or polycrystalline materials",
+      "count": 31,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F10/18": {
+      "code": "H10F10/18",
+      "level": 2,
+      "parent": "H10F10/10",
+      "ja": "ショットキーの電位障壁のみを有する光起電セル［２０２５．０１］",
+      "en": "Photovoltaic cells having only Schottky potential barriers",
+      "count": 6,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F10/19": {
+      "code": "H10F10/19",
+      "level": 2,
+      "parent": "H10F10/10",
+      "ja": "種類の異なる複数の電位障壁を有する光起電セル，例．ＰＮ接合とＰＩＮ接合の両方を有するタンデムセル［２０２５．０１］",
+      "en": "Photovoltaic cells having multiple potential barriers of different types, e.g. tandem cells having both PN and PIN junctions",
+      "count": 53,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F19/00": {
+      "code": "H10F19/00",
+      "level": 0,
+      "parent": "H10F",
+      "ja": "グループＨ１０Ｆ１０／００に包含される，少なくとも１つの光起電セルを備える，集積装置または複数の装置の組立体，例．光起電モジュール［２０２５．０１］",
+      "en": "Integrated devices, or assemblies of multiple devices, comprising at least one photovoltaic cell covered by group <b>H10F10/00</b>, e.g. photovoltaic modules",
+      "count": 384,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F19/10": {
+      "code": "H10F19/10",
+      "level": 1,
+      "parent": "H10F19/00",
+      "ja": "単一の半導体基板内にアレイ状の光起電セルを備えるものであって，当該光起電セルが垂直接合またはＶグルーブ接合を有するもの［２０２５．０１］",
+      "en": "comprising photovoltaic cells in arrays in a single semiconductor substrate, the photovoltaic cells having vertical junctions or V-groove junctions",
+      "count": 21,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F19/20": {
+      "code": "H10F19/20",
+      "level": 1,
+      "parent": "H10F19/00",
+      "ja": "単一の半導体基板内または上にアレイ状の光起電セルを備えるものであって，当該光起電セルが平面接合を有するもの（同じ基板上に堆積された複数の薄膜光起電セルを有するものＨ１０Ｆ１９／３１）［２０２５．０１］",
+      "en": "comprising photovoltaic cells in arrays in or on a single semiconductor substrate, the photovoltaic cells having planar junctions(having multiple thin-film photovoltaic cells deposited on the same substrate <b>H10F19/31</b>)",
+      "count": 23,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F19/30": {
+      "code": "H10F19/30",
+      "level": 1,
+      "parent": "H10F19/00",
+      "ja": "薄膜光起電セルを備えるもの［２０２５．０１］",
+      "en": "comprising thin-film photovoltaic cells",
+      "count": 99,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F19/31": {
+      "code": "H10F19/31",
+      "level": 2,
+      "parent": "H10F19/30",
+      "ja": "同じ基板上に堆積された複数の横方向に隣接する薄膜光起電セルを有するもの［２０２５．０１］",
+      "en": "having multiple laterally adjacent thin-film photovoltaic cells deposited on the same substrate",
+      "count": 32,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F19/33": {
+      "code": "H10F19/33",
+      "level": 3,
+      "parent": "H10F19/31",
+      "ja": "光起電セルを接続するためのパターニング工程，例．導電層または活性層のレーザー切断［２０２５．０１］",
+      "en": "Patterning processes to connect the photovoltaic cells, e.g. laser cutting of conductive or active layers",
+      "count": 25,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F19/35": {
+      "code": "H10F19/35",
+      "level": 3,
+      "parent": "H10F19/31",
+      "ja": "隣接する光起電セルを接続するための構造，例．相互接続または絶縁スペーサ［２０２５．０１］",
+      "en": "Structures for the connecting of adjacent photovoltaic cells, e.g. interconnections or insulating spacers",
+      "count": 35,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F19/37": {
+      "code": "H10F19/37",
+      "level": 3,
+      "parent": "H10F19/31",
+      "ja": "集積装置または複数の装置の組立体を通して光を部分的に透過させるための手段を備えるもの，例．窓用の部分的に透明な薄膜光起電モジュール［２０２５．０１］",
+      "en": "comprising means for obtaining partial light transmission through the integrated devices, or the assemblies of multiple devices, e.g. partially transparent thin-film photovoltaic modules for windows",
+      "count": 30,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F19/40": {
+      "code": "H10F19/40",
+      "level": 1,
+      "parent": "H10F19/00",
+      "ja": "機械的に積み重ねられて配置された光起電セルを備えるもの［２０２５．０１］",
+      "en": "comprising photovoltaic cells in a mechanically stacked configuration",
+      "count": 79,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F19/50": {
+      "code": "H10F19/50",
+      "level": 1,
+      "parent": "H10F19/00",
+      "ja": "少なくとも１つの光起電セルおよび他の種類の半導体または固体構成部品を備える，集積装置（Ｈ１０Ｆ１９／７５が優先）［２０２５．０１］",
+      "en": "Integrated devices comprising at least one photovoltaic cell and other types of semiconductor or solid-state components (<b>H10F19/75</b> takes precedence)",
+      "count": 16,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F19/70": {
+      "code": "H10F19/70",
+      "level": 1,
+      "parent": "H10F19/00",
+      "ja": "バイパスダイオードを備えるもの（接続箱の中のバイパスダイオードＨ０２Ｓ４０／３４）［２０２５．０１］",
+      "en": "comprising bypass diodes(bypass diodes in a junction box <b>H02S40/34</b>)",
+      "count": 63,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F19/75": {
+      "code": "H10F19/75",
+      "level": 2,
+      "parent": "H10F19/70",
+      "ja": "バイパスダイオードが，光起電セルと集積されまたは直接関連づけられているもの，例．同じ基板内または上に形成されるもの［２０２５．０１］",
+      "en": "the bypass diodes being integrated or directly associated with the photovoltaic cells, e.g. formed in or on the same substrate",
+      "count": 37,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F19/80": {
+      "code": "H10F19/80",
+      "level": 1,
+      "parent": "H10F19/00",
+      "ja": "封緘または容器であって，光起電セルを有する集積装置または複数の装置の組立体のためのもの［２０２５．０１］",
+      "en": "Encapsulations or containers for integrated devices, or assemblies of multiple devices, having photovoltaic cells",
+      "count": 2303,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F19/85": {
+      "code": "H10F19/85",
+      "level": 2,
+      "parent": "H10F19/80",
+      "ja": "保護バックシート［２０２５．０１］",
+      "en": "Protective back sheets",
+      "count": 376,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F19/90": {
+      "code": "H10F19/90",
+      "level": 1,
+      "parent": "H10F19/00",
+      "ja": "光起電セル間を接続するための構造，例．相互接続または絶縁スペーサ（単一の基板上の薄膜光起電セル間Ｈ１０Ｆ１９／３５）［２０２５．０１］",
+      "en": "Structures for connecting between photovoltaic cells, e.g. interconnections or insulating spacers(between thin-film photovoltaic cells on a single substrate <b>H10F19/35</b>)",
+      "count": 1638,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F30/00": {
+      "code": "H10F30/00",
+      "level": 0,
+      "parent": "H10F",
+      "ja": "個々の輻射線感応半導体装置であって，輻射線が装置を通る電流の流れを制御するもの，例．光検出器［２０２５．０１］",
+      "en": "Individual radiation-sensitive semiconductor devices in which radiation controls the flow of current through the devices, e.g. photodetectors",
+      "count": 145,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F30/10": {
+      "code": "H10F30/10",
+      "level": 1,
+      "parent": "H10F30/00",
+      "ja": "電位障壁を有さず，赤外線，可視光または紫外線の輻射に感応する装置，例．フォトレジスタ［２０２５．０１］",
+      "en": "the devices being sensitive to infrared radiation, visible or ultraviolet radiation, and having no potential barriers, e.g. photoresistors",
+      "count": 165,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F30/20": {
+      "code": "H10F30/20",
+      "level": 1,
+      "parent": "H10F30/00",
+      "ja": "電位障壁を有する装置，例．　フォトトランジスタ［２０２５．０１］",
+      "en": "the devices having potential barriers, e.g. phototransistors",
+      "count": 245,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F30/21": {
+      "code": "H10F30/21",
+      "level": 2,
+      "parent": "H10F30/20",
+      "ja": "赤外線，可視光または紫外線の輻射に感応する装置［２０２５．０１］",
+      "en": "the devices being sensitive to infrared, visible or ultraviolet radiation",
+      "count": 280,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F30/22": {
+      "code": "H10F30/22",
+      "level": 3,
+      "parent": "H10F30/21",
+      "ja": "１つのみの電位障壁を有する装置，例．フォトダイオード［２０２５．０１］",
+      "en": "the devices having only one potential barrier, e.g. photodiodes",
+      "count": 134,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F30/221": {
+      "code": "H10F30/221",
+      "level": 4,
+      "parent": "H10F30/22",
+      "ja": "電位障壁がＰＮホモ接合であるもの［２０２５．０１］",
+      "en": "the potential barrier being a PN homojunction",
+      "count": 97,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F30/222": {
+      "code": "H10F30/222",
+      "level": 4,
+      "parent": "H10F30/22",
+      "ja": "電位障壁がＰＮヘテロ接合であるもの［２０２５．０１］",
+      "en": "the potential barrier being a PN heterojunction",
+      "count": 277,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F30/223": {
+      "code": "H10F30/223",
+      "level": 4,
+      "parent": "H10F30/22",
+      "ja": "電位障壁がＰＩＮ障壁であるもの［２０２５．０１］",
+      "en": "the potential barrier being a PIN barrier",
+      "count": 159,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F30/225": {
+      "code": "H10F30/225",
+      "level": 4,
+      "parent": "H10F30/22",
+      "ja": "電位障壁がアバランシェモードで動作するもの，例．アバランシェフォトダイオード［２０２５．０１］",
+      "en": "the potential barrier working in avalanche mode, e.g. avalanche photodiodes",
+      "count": 416,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F30/227": {
+      "code": "H10F30/227",
+      "level": 4,
+      "parent": "H10F30/22",
+      "ja": "電位障壁がショットキー障壁であるもの［２０２５．０１］",
+      "en": "the potential barrier being a Schottky barrier",
+      "count": 98,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F30/24": {
+      "code": "H10F30/24",
+      "level": 3,
+      "parent": "H10F30/21",
+      "ja": "２つのみの電位障壁を有する装置，例．バイポーラフォトトランジスタ［２０２５．０１］",
+      "en": "the devices having only two potential barriers, e.g. bipolar phototransistors",
+      "count": 36,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F30/26": {
+      "code": "H10F30/26",
+      "level": 3,
+      "parent": "H10F30/21",
+      "ja": "３つ以上の電位障壁を有する装置，例．フォトサイリスタ［２０２５．０１］",
+      "en": "the devices having three or more potential barriers, e.g. photothyristors",
+      "count": 10,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F30/28": {
+      "code": "H10F30/28",
+      "level": 3,
+      "parent": "H10F30/21",
+      "ja": "電界効果作用に特徴のある装置，例．接合型電界効果フォトトランジスタ［２０２５．０１］",
+      "en": "the devices being characterised by field-effect operation, e.g. junction field-effect phototransistors",
+      "count": 75,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F30/282": {
+      "code": "H10F30/282",
+      "level": 4,
+      "parent": "H10F30/28",
+      "ja": "絶縁ゲート電界効果トランジスタ［ＩＧＦＥＴ］，例．ＭＩＳＦＥＴ［金属－絶縁体－半導体電界効果トランジスタ］フォトトランジスタ［２０２５．０１］",
+      "en": "Insulated-gate field-effect transistors [IGFET], e.g. MISFET [metal-insulator-semiconductor field-effect transistor] phototransistors",
+      "count": 104,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F30/29": {
+      "code": "H10F30/29",
+      "level": 2,
+      "parent": "H10F30/20",
+      "ja": "超短波の輻射線，　例．Ｘ線，ガンマ線または粒子線，に感応する装置［２０２５．０１］",
+      "en": "the devices being sensitive to radiation having very short wavelengths, e.g. X-rays, gamma-rays or corpuscular radiation",
+      "count": 101,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F30/292": {
+      "code": "H10F30/292",
+      "level": 3,
+      "parent": "H10F30/29",
+      "ja": "バルク効果輻射線検出器，例．Ｇｅ－Ｌｉ補償ＰＩＮガンマ線検出器［２０２５．０１］",
+      "en": "Bulk-effect radiation detectors, e.g. Ge-Li compensated PIN gamma-ray detectors",
+      "count": 8,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F30/295": {
+      "code": "H10F30/295",
+      "level": 3,
+      "parent": "H10F30/29",
+      "ja": "表面障壁または浅いＰＮ接合の輻射線検出器，例．表面障壁アルファ粒子検出器［２０２５．０１］",
+      "en": "Surface barrier or shallow PN junction radiation detectors, e.g. surface barrier alpha-particle detectors",
+      "count": 10,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F30/298": {
+      "code": "H10F30/298",
+      "level": 3,
+      "parent": "H10F30/29",
+      "ja": "電界効果作用に特徴のある装置，例．ＭＩＳ型検出器［２０２５．０１］",
+      "en": "the devices being characterised by field-effect operation, e.g. MIS type detectors",
+      "count": 11,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F39/00": {
+      "code": "H10F39/00",
+      "level": 0,
+      "parent": "H10F",
+      "ja": "グループＨ１０Ｆ３０／００に包含される，少なくとも１つの素子を備える，集積装置または複数の装置の組立体，例．フォトダイオードアレイを備える輻射線検出器［２０２５．０１］",
+      "en": "Integrated devices, or assemblies of multiple devices, comprising at least one element covered by group <b>H10F30/00</b>, e.g. radiation detectors comprising photodiode arrays",
+      "count": 1410,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F39/10": {
+      "code": "H10F39/10",
+      "level": 1,
+      "parent": "H10F39/00",
+      "ja": "集積装置［２０２５．０１］",
+      "en": "Integrated devices",
+      "count": 341,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F39/12": {
+      "code": "H10F39/12",
+      "level": 2,
+      "parent": "H10F39/10",
+      "ja": "固体撮像装置［２０２５．０１］",
+      "en": "Image sensors",
+      "count": 2013,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F39/15": {
+      "code": "H10F39/15",
+      "level": 3,
+      "parent": "H10F39/12",
+      "ja": "電荷結合型［ＣＣＤ］固体撮像装置［２０２５．０１］",
+      "en": "Charge-coupled device [CCD] image sensors",
+      "count": 91,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F39/18": {
+      "code": "H10F39/18",
+      "level": 3,
+      "parent": "H10F39/12",
+      "ja": "相補型金属－酸化膜－半導体［ＣＭＯＳ］固体撮像装置；フォトダイオードアレイ固体撮像装置［２０２５．０１］",
+      "en": "Complementary metal-oxide-semiconductor [CMOS] image sensors; Photodiode array image sensors",
+      "count": 2174,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F39/90": {
+      "code": "H10F39/90",
+      "level": 1,
+      "parent": "H10F39/00",
+      "ja": "複数の装置の組立体［２０２５．０１］",
+      "en": "Assemblies of multiple devices",
+      "count": 108,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F39/95": {
+      "code": "H10F39/95",
+      "level": 2,
+      "parent": "H10F39/90",
+      "ja": "グループＨ１０Ｆ３９／１０に包含される，少なくとも１つの集積装置を備えるもの，例．集積化された固体撮像装置を備えるもの［２０２５．０１］",
+      "en": "comprising at least one integrated device covered by group <b>H10F39/10</b>, e.g. comprising integrated image sensors",
+      "count": 72,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F55/00": {
+      "code": "H10F55/00",
+      "level": 0,
+      "parent": "H10F",
+      "ja": "グループＨ１０Ｆ１０／００，Ｈ１０Ｆ１９／００またはＨ１０Ｆ３０／００に包含される輻射線感応半導体装置であって，電気光源と構造的に関連し，かつ当該電気光源に電気的または光学的に結合されたもの［２０２５．０１］",
+      "en": "Radiation-sensitive semiconductor devices covered by groups <b>H10F10/00</b>, <b>H10F19/00</b> or <b>H10F30/00</b> being structurally associated with electric light sources and electrically or optically coupled thereto",
+      "count": 149,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F55/10": {
+      "code": "H10F55/10",
+      "level": 1,
+      "parent": "H10F55/00",
+      "ja": "輻射線感応半導体装置が電気光源を制御するもの，例．　像変換器，像増幅器または像蓄積装置［２０２５．０１］",
+      "en": "wherein the radiation-sensitive semiconductor devices control the electric light source, e.g. image converters, image amplifiers or image storage devices",
+      "count": 19,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F55/15": {
+      "code": "H10F55/15",
+      "level": 2,
+      "parent": "H10F55/10",
+      "ja": "輻射線感応装置および電気光源がすべて半導体装置であるもの［２０２５．０１］",
+      "en": "wherein the radiation-sensitive devices and the electric light source are all semiconductor devices",
+      "count": 12,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F55/155": {
+      "code": "H10F55/155",
+      "level": 3,
+      "parent": "H10F55/15",
+      "ja": "１つの共通基板内または上に形成されたもの［２０２５．０１］",
+      "en": "formed in, or on, a common substrate",
+      "count": 10,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F55/20": {
+      "code": "H10F55/20",
+      "level": 1,
+      "parent": "H10F55/00",
+      "ja": "電気光源が輻射線感応半導体装置を制御するもの，例．オプトカプラ［２０２５．０１］",
+      "en": "wherein the electric light source controls the radiation-sensitive semiconductor devices, e.g. optocouplers",
+      "count": 43,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F55/25": {
+      "code": "H10F55/25",
+      "level": 2,
+      "parent": "H10F55/20",
+      "ja": "輻射線感応装置および電気光源がすべて半導体装置であるもの［２０２５．０１］",
+      "en": "wherein the radiation-sensitive devices and the electric light source are all semiconductor devices",
+      "count": 38,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F55/255": {
+      "code": "H10F55/255",
+      "level": 3,
+      "parent": "H10F55/25",
+      "ja": "１つの共通基板内または上に形成されたもの［２０２５．０１］",
+      "en": "formed in, or on, a common substrate",
+      "count": 38,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F71/00": {
+      "code": "H10F71/00",
+      "level": 0,
+      "parent": "H10F",
+      "ja": "このサブクラスに包含される装置の製造または処理（光起電セルを有する集積装置または複数の装置の組立体における，薄膜光起電セルを接続するためのパターニング工程Ｈ１０Ｆ１９／３３；光起電セルを有する集積装置または複数の装置の組立体のための，封緘または容器の製造または処理Ｈ１０Ｆ１９／８０；輻射線が電流の流れを制御する少なくとも１つの素子を備える，集積装置または複数の装置の組立体，の製造または処理Ｈ１０Ｆ３９／００）［２０２５．０１］",
+      "en": "Manufacture or treatment of devices covered by this subclass (patterning processes to connect thin photovoltaic cells in integrated devices, or assemblies of multiple devices, having photovoltaic cells <b>H10F19/33</b>;  manufacture or treatment of encapsulations or containers for integrated devices, or assemblies of multiple devices, having photovoltaic cells <b>H10F19/80</b>;  manufacture or treatment of integrated devices, or assemblies of multiple devices, comprising at least one element in which radiation controls the flow of current <b>H10F39/00</b>)",
+      "count": 7355,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F71/10": {
+      "code": "H10F71/10",
+      "level": 1,
+      "parent": "H10F71/00",
+      "ja": "その装置がアモルファス半導体材料からなるもの［２０２５．０１］",
+      "en": "the devices comprising amorphous semiconductor material",
+      "count": 398,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F77/00": {
+      "code": "H10F77/00",
+      "level": 0,
+      "parent": "H10F",
+      "ja": "このサブクラスに包含される装置の構造的細部（輻射線が電流の流れを制御する少なくとも１つの素子を備える，集積装置または複数の装置の組立体，の構造的細部Ｈ１０Ｆ３９／００）［２０２５．０１］<br><br><b><ul>注</ul></b><br>このグループに分類する場合，装置自体の種類が新規で非自明であると判断されるときは，当該装置自体の種類がグループＨ１０Ｆ１０／００，Ｈ１０Ｆ１９／００，Ｈ１０Ｆ３０／００またはＨ１０Ｆ５５／００に分類される。［２０２５．０１］",
+      "en": "Constructional details of devices covered by this subclass(constructional details of integrated devices, or assemblies of multiple devices, comprising at least one element in which radiation controls the flow of current <b>H10F39/00</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>When classifying in this group, the type of device itself, when it is determined to be novel and non-obvious, should be classified in groups <b>H10F10/00</b>, <b>H10F19/00</b>, <b>H10F30/00</b> or <b>H10F55/00</b>.  </li></ul>",
+      "count": 840,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F77/10": {
+      "code": "H10F77/10",
+      "level": 1,
+      "parent": "H10F77/00",
+      "ja": "半導体本体［２０２５．０１］",
+      "en": "Semiconductor bodies",
+      "count": 16,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F77/12": {
+      "code": "H10F77/12",
+      "level": 2,
+      "parent": "H10F77/10",
+      "ja": "活性材料［２０２５．０１］<br><br><b><ul>注</ul></b><br>このグループに分類する場合，ドーパントまたは他の不純物に関係なく，材料の成分を考慮する。［２０２５．０１］",
+      "en": "Active materials; <br><br><b><u>Note(s)</u></b><br><br><ul><li>When classifying in this group, constituents of a material are considered irrespective of any dopants or other impurities.</li></ul>",
+      "count": 696,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F77/121": {
+      "code": "H10F77/121",
+      "level": 3,
+      "parent": "H10F77/12",
+      "ja": "セレンのみまたはテルルのみからなるもの［２０２５．０１］",
+      "en": "comprising only selenium or only tellurium",
+      "count": 17,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F77/122": {
+      "code": "H10F77/122",
+      "level": 3,
+      "parent": "H10F77/12",
+      "ja": "ＩＶ族の材料のみからなるもの［２０２５．０１］",
+      "en": "comprising only Group IV materials",
+      "count": 203,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F77/1223": {
+      "code": "H10F77/1223",
+      "level": 4,
+      "parent": "H10F77/122",
+      "ja": "ドーパントに特徴のあるもの［２０２５．０１］",
+      "en": "characterised by the dopants",
+      "count": 214,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F77/1226": {
+      "code": "H10F77/1226",
+      "level": 4,
+      "parent": "H10F77/122",
+      "ja": "複数のＩＶ族元素からなるもの，例．ＳｉＣ［２０２５．０１］",
+      "en": "comprising multiple Group IV elements, e.g. SiC",
+      "count": 58,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F77/123": {
+      "code": "H10F77/123",
+      "level": 3,
+      "parent": "H10F77/12",
+      "ja": "ＩＩ－ＶＩ族の材料のみからなるもの，例．ＣｄＳ，ＺｎＳまたはＨｇＣｄＴｅ［２０２５．０１］",
+      "en": "comprising only Group II-VI materials, e.g. CdS, ZnS or HgCdTe",
+      "count": 101,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F77/124": {
+      "code": "H10F77/124",
+      "level": 3,
+      "parent": "H10F77/12",
+      "ja": "ＩＩＩ－Ｖ族の材料のみからなるもの，例．ＧａＡｓ［２０２５．０１］",
+      "en": "comprising only Group III-V materials, e.g. GaAs",
+      "count": 252,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F77/14": {
+      "code": "H10F77/14",
+      "level": 2,
+      "parent": "H10F77/10",
+      "ja": "半導体本体の形状；半導体本体の内部の半導体領域の形状，相対的大きさまたは配列［２０２５．０１］",
+      "en": "Shape of semiconductor bodies; Shapes, relative sizes or dispositions of semiconductor regions within semiconductor bodies",
+      "count": 1179,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F77/16": {
+      "code": "H10F77/16",
+      "level": 2,
+      "parent": "H10F77/10",
+      "ja": "材料の構造，例．結晶構造，膜構造または結晶面の方位［２０２５．０１］",
+      "en": "Material structures, e.g. crystalline structures, film structures or crystal plane orientations",
+      "count": 61,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F77/162": {
+      "code": "H10F77/162",
+      "level": 3,
+      "parent": "H10F77/16",
+      "ja": "非単結晶材料，例．絶縁材料に埋め込まれた半導体粒子（Ｈ１０Ｆ７７／１６９が優先）［２０２５．０１］",
+      "en": "Non-monocrystalline materials, e.g. semiconductor particles embedded in insulating materials(<b>H10F77/169</b> takes precedence)",
+      "count": 21,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F77/164": {
+      "code": "H10F77/164",
+      "level": 4,
+      "parent": "H10F77/162",
+      "ja": "多結晶半導体［２０２５．０１］",
+      "en": "Polycrystalline semiconductors",
+      "count": 76,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F77/166": {
+      "code": "H10F77/166",
+      "level": 4,
+      "parent": "H10F77/162",
+      "ja": "アモルファス半導体［２０２５．０１］",
+      "en": "Amorphous semiconductors",
+      "count": 50,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F77/169": {
+      "code": "H10F77/169",
+      "level": 3,
+      "parent": "H10F77/16",
+      "ja": "金属基板または絶縁基板上の半導体薄膜［２０２５．０１］",
+      "en": "Thin semiconductor films on metallic or insulating substrates",
+      "count": 130,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F77/20": {
+      "code": "H10F77/20",
+      "level": 1,
+      "parent": "H10F77/00",
+      "ja": "電極［２０２５．０１］",
+      "en": "Electrodes",
+      "count": 3122,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F77/30": {
+      "code": "H10F77/30",
+      "level": 1,
+      "parent": "H10F77/00",
+      "ja": "コーティング（粒子線輻射により引き起こされる光起電セルへの損傷を防ぐための装置Ｈ１０Ｆ７７／８０）［２０２５．０１］",
+      "en": "Coatings(arrangements for preventing damage to photovoltaic cells caused by corpuscular radiation <b>H10F77/80</b>)",
+      "count": 2232,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F77/40": {
+      "code": "H10F77/40",
+      "level": 1,
+      "parent": "H10F77/00",
+      "ja": "光学素子または光学装置（表面テクスチャＨ１０Ｆ７７／７０）［２０２５．０１］",
+      "en": "Optical elements or arrangements(surface textures <b>H10F77/70</b>)",
+      "count": 482,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F77/42": {
+      "code": "H10F77/42",
+      "level": 2,
+      "parent": "H10F77/40",
+      "ja": "光起電セルと直接関連づけられまたは集積されたもの，例．光反射手段または集光手段［２０２５．０１］",
+      "en": "directly associated or integrated with photovoltaic cells, e.g. light-reflecting means or light-concentrating means",
+      "count": 436,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F77/45": {
+      "code": "H10F77/45",
+      "level": 3,
+      "parent": "H10F77/42",
+      "ja": "波長変換手段，例．ルミネッセント材料，蛍光性集光器またはアップコンバージョン装置を用いることによるもの［２０２５．０１］",
+      "en": "Wavelength conversion means, e.g. by using luminescent material, fluorescent concentrators or up-conversion arrangements",
+      "count": 135,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F77/48": {
+      "code": "H10F77/48",
+      "level": 3,
+      "parent": "H10F77/42",
+      "ja": "背面反射器［ＢＳＲ］［２０２５．０１］",
+      "en": "Back surface reflectors [BSR]",
+      "count": 70,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F77/50": {
+      "code": "H10F77/50",
+      "level": 1,
+      "parent": "H10F77/00",
+      "ja": "封緘または容器（光起電モジュールのためのものＨ１０Ｆ１９／８０）［２０２５．０１］",
+      "en": "Encapsulations or containers(for photovoltaic modules <b>H10F19/80</b>)",
+      "count": 382,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F77/60": {
+      "code": "H10F77/60",
+      "level": 1,
+      "parent": "H10F77/00",
+      "ja": "冷却，加熱，換気または温度変動補償のための装置［２０２５．０１］",
+      "en": "Arrangements for cooling, heating, ventilating or compensating for temperature fluctuations",
+      "count": 84,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F77/63": {
+      "code": "H10F77/63",
+      "level": 2,
+      "parent": "H10F77/60",
+      "ja": "光起電セルと直接関連づけられまたは集積された冷却装置，例．光起電セルと直接関連づけられたヒートシンク又は能動冷却のために集積されたペルチェ素子［２０２５．０１］",
+      "en": "Arrangements for cooling directly associated or integrated with photovoltaic cells, e.g. heat sinks directly associated with the photovoltaic cells or integrated Peltier elements for active cooling",
+      "count": 129,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F77/67": {
+      "code": "H10F77/67",
+      "level": 3,
+      "parent": "H10F77/63",
+      "ja": "光起電セルと直接関連づけられる熱エネルギーを利用するための手段を含むもの，例．集積されたゼーベック素子［２０２５．０１］",
+      "en": "including means to utilise heat energy directly associated with the photovoltaic cells, e.g. integrated Seebeck elements",
+      "count": 27,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F77/70": {
+      "code": "H10F77/70",
+      "level": 1,
+      "parent": "H10F77/00",
+      "ja": "表面テクスチャ，例．ピラミッド構造［２０２５．０１］",
+      "en": "Surface textures, e.g. pyramid structures",
+      "count": 717,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F77/80": {
+      "code": "H10F77/80",
+      "level": 1,
+      "parent": "H10F77/00",
+      "ja": "粒子線輻射により引き起こされる光起電セルへの損傷を防止するための装置，例．宇宙応用のため［２０２５．０１］",
+      "en": "Arrangements for preventing damage to photovoltaic cells caused by corpuscular radiation, e.g. for space applications",
+      "count": 13,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F77/90": {
+      "code": "H10F77/90",
+      "level": 1,
+      "parent": "H10F77/00",
+      "ja": "光起電セルと直接関連づけられまたは集積されたエネルギー蓄積手段，例．光起電セルと集積されたコンデンサ［２０２５．０１］",
+      "en": "Energy storage means directly associated or integrated with photovoltaic cells, e.g. capacitors integrated with photovoltaic cells",
+      "count": 14,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    },
+    "H10F99/00": {
+      "code": "H10F99/00",
+      "level": 0,
+      "parent": "H10F",
+      "ja": "このサブクラスの他のグループに分類されない主題事項［２０２５．０１］",
+      "en": "Subject matter not provided for in other groups of this subclass",
+      "count": 78,
+      "sourceFile": "ipc_H10F.txt",
+      "kind": "ipc"
+    }
+  }
+}

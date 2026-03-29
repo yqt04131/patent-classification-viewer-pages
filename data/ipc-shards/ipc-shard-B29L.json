@@ -1,0 +1,566 @@
+{
+  "generatedAt": "2026-03-20T02:17:46.165Z",
+  "total": 56,
+  "entries": {
+    "B29L": {
+      "code": "B29L",
+      "level": 0,
+      "parent": "B29",
+      "ja": "サブクラスＢ２９Ｃに関連する特定物品についてのインデキシング系列［４］<br><br><b><ul>注</ul></b><br>このサブクラスは，サブクラスＢ２９Ｃと関連するインデキシング系列を構成している。［４］",
+      "en": "INDEXING SCHEME ASSOCIATED WITH SUBCLASS <b>B29C</b>, RELATING TO PARTICULAR ARTICLES; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This subclass constitutes an indexing scheme associated with subclass <b>B29C</b>.</li></ul>",
+      "count": 134,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B29": {
+      "code": "B29",
+      "level": 0,
+      "parent": "B",
+      "ja": "プラスチックの加工；可塑状態の物質の加工一般<br><br><b><ul>注</ul></b><br>（１）このサブクラスは，紙の加工と類似の方法によるプラスチックシート材料の加工を包含せず，該加工はクラスＢ３１に包含される。［４］<br>（２）このクラスにおいては，下記の用語は以下に示す意味で用いる：<br>―“プラスチック”は高分子化合物またはそのような化合物に基づく組成物を意味する。<br>（３）このクラスにおいては，下記の規則が適用される：<br>（ａ）プラスチックの加工は可能な限り，主として例えばサブクラスＢ２９Ｃで用いられる特定の成形技術にしたがって分類される。［４］<br>（ｂ）Ｂ２９Ｄの特定物品の製造にしたがう分類は，以下のものに限定される：<br>（ｉ）特定物品の製造に特徴を有し，サブクラスＢ２９ＢまたはＢ２９Ｃに分類されないもの；<br>（ｉｉ）サブクラスＢ２９Ｃで完全には分類されない特定物品を製作するための結合された操作。［４］<br>（ｃ）生産物それ自体はこのクラスに分類されない。ただし，ある生産物が生産される方法に特徴があって生産物の構造または組成には特徴がない場合，その生産方法はこのクラスに分類されるものとする。［２０１０．０１］<br>（４）サブクラスＢ２９Ｋのコードは，成形材または補強材，充填材または予備成形部品，（例．挿入物）に関する情報を提供するために，サブクラスＢ２９Ｂ，Ｂ２９ＣまたはＢ２９Ｄと関連するインデキシングコードとしてのみ使用される。［４］<br>（５）サブクラスＢ２９Ｌのコードは，サブクラスＢ２９Ｃに分類される技術によって製造される物品に関する情報を提供するために，サブクラスＢ２９Ｃと関連するインデキシングコードとしてのみ使用される。［４］",
+      "en": "WORKING OF PLASTICS; WORKING OF SUBSTANCES IN A PLASTIC STATE IN GENERAL; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This class <u>does not cover</u> the working of plastics sheet material in a manner analogous to the working of paper, which is covered by class <b>B31</b>.   </li><li>In this class, the following term is used with the meaning indicated: <ul><li>\"plastics\" means macromolecular compounds or compositions based on such compounds. </li></ul></li><li>In this class, the following rules apply: <ul><li>The working of plastics is, as far as possible, classified primarily according to the particular shaping technique used, e.g. in subclass <b>B29C</b>.   </li><li>Classification according to production of particular articles in subclass <b>B29D</b> is restricted to: <ul><li>aspects which are characteristic for the production of a particular article, and not classifiable in subclass <b>B29B</b> or <b>B29C</b>; </li><li>combined operations for making the particular article which are not fully classifiable in subclass <b>B29C</b>.  </li></ul></li><li>Products <u>per se</u> are not classified in this class. However, if a product is characterised by the way it is produced and not by its structure or composition, the production method should be classified in this class.  </li></ul></li><li>The codes of subclass <b>B29K</b> are <u>only</u> for use as indexing codes associated with subclasses <b>B29B</b>, <b>B29C</b>, or <b>B29D</b> so as to provide information concerning moulding materials or materials for reinforcements, fillers or preformed parts, e.g. inserts.   </li><li>The codes of subclass <b>B29L</b> are <u>only</u> for use as indexing codes associated with subclass <b>B29C</b>, so as to provide information concerning the articles produced by the techniques classified in subclass <b>B29C</b>.   </li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B": {
+      "code": "B",
+      "level": 0,
+      "parent": null,
+      "ja": "処理操作；運輸",
+      "en": "PERFORMING OPERATIONS; TRANSPORTING",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B29L1/00": {
+      "code": "B29L1/00",
+      "level": 0,
+      "parent": "B29L",
+      "ja": "ねじ山を有する物品［４］",
+      "en": "Articles provided with screw threads",
+      "count": 2176,
+      "sourceFile": "ipc_B29L.txt",
+      "kind": "ipc"
+    },
+    "B29L5/00": {
+      "code": "B29L5/00",
+      "level": 0,
+      "parent": "B29L",
+      "ja": "スライドファスナー要素［４］",
+      "en": "Elements of slide fasteners",
+      "count": 522,
+      "sourceFile": "ipc_B29L.txt",
+      "kind": "ipc"
+    },
+    "B29L7/00": {
+      "code": "B29L7/00",
+      "level": 0,
+      "parent": "B29L",
+      "ja": "板状物品，例．フィルムまたはシート（Ｂ２９Ｌ２４／００が優先）［４］",
+      "en": "Flat articles, e.g. films or sheets(<b>B29L24/00</b> takes precedence)",
+      "count": 41052,
+      "sourceFile": "ipc_B29L.txt",
+      "kind": "ipc"
+    },
+    "B29L9/00": {
+      "code": "B29L9/00",
+      "level": 0,
+      "parent": "B29L",
+      "ja": "積層体［４］",
+      "en": "Layered products",
+      "count": 23908,
+      "sourceFile": "ipc_B29L.txt",
+      "kind": "ipc"
+    },
+    "B29L11/00": {
+      "code": "B29L11/00",
+      "level": 0,
+      "parent": "B29L",
+      "ja": "光学部品，例．レンズ，プリズム［４］",
+      "en": "Optical elements, e.g. lenses, prisms",
+      "count": 12804,
+      "sourceFile": "ipc_B29L.txt",
+      "kind": "ipc"
+    },
+    "B29L12/00": {
+      "code": "B29L12/00",
+      "level": 0,
+      "parent": "B29L",
+      "ja": "フレーム［４］",
+      "en": "Frames",
+      "count": 723,
+      "sourceFile": "ipc_B29L.txt",
+      "kind": "ipc"
+    },
+    "B29L15/00": {
+      "code": "B29L15/00",
+      "level": 0,
+      "parent": "B29L",
+      "ja": "歯車または溝もしくは突起を有する類似の物品，例．調節ノブ［４］",
+      "en": "Gear wheels or similar articles with grooves or projections, e.g. control knobs",
+      "count": 944,
+      "sourceFile": "ipc_B29L.txt",
+      "kind": "ipc"
+    },
+    "B29L16/00": {
+      "code": "B29L16/00",
+      "level": 0,
+      "parent": "B29L",
+      "ja": "波形物品（Ｂ２９Ｌ２３／１８が優先）［４］",
+      "en": "Articles with corrugations(<b>B29L23/18</b> takes precedence)",
+      "count": 274,
+      "sourceFile": "ipc_B29L.txt",
+      "kind": "ipc"
+    },
+    "B29L17/00": {
+      "code": "B29L17/00",
+      "level": 0,
+      "parent": "B29L",
+      "ja": "細い溝または刻印を有する記録用担体，例．針を用いる録音再生用円盤レコード，円筒レコード［４］",
+      "en": "Carriers of records containing fine grooves or impressions, e.g. disc records for needle playback, cylinder records",
+      "count": 2142,
+      "sourceFile": "ipc_B29L.txt",
+      "kind": "ipc"
+    },
+    "B29L19/00": {
+      "code": "B29L19/00",
+      "level": 0,
+      "parent": "B29L",
+      "ja": "ボタンまたはボタンの半完成品［４］",
+      "en": "Buttons or semi-finished parts of buttons",
+      "count": 109,
+      "sourceFile": "ipc_B29L.txt",
+      "kind": "ipc"
+    },
+    "B29L21/00": {
+      "code": "B29L21/00",
+      "level": 0,
+      "parent": "B29L",
+      "ja": "櫛または歯もしくは溝をつけた類似の物品［４］",
+      "en": "Hair combs or similar toothed or slotted articles",
+      "count": 97,
+      "sourceFile": "ipc_B29L.txt",
+      "kind": "ipc"
+    },
+    "B29L22/00": {
+      "code": "B29L22/00",
+      "level": 0,
+      "parent": "B29L",
+      "ja": "中空物品（管状体物品Ｂ２９Ｌ２３／００；空気タイヤＢ２９Ｌ３０／００）［４］",
+      "en": "Hollow articles(tubular articles <b>B29L23/00</b>; pneumatic tyres <b>B29L30/00</b>)",
+      "count": 15238,
+      "sourceFile": "ipc_B29L.txt",
+      "kind": "ipc"
+    },
+    "B29L22/02": {
+      "code": "B29L22/02",
+      "level": 1,
+      "parent": "B29L22/00",
+      "ja": "膨張可能物品（ボールＢ２９Ｌ３１／５４）［５］",
+      "en": "Inflatable articles(balls <b>B29L31/54</b>)",
+      "count": 459,
+      "sourceFile": "ipc_B29L.txt",
+      "kind": "ipc"
+    },
+    "B29L23/00": {
+      "code": "B29L23/00",
+      "level": 0,
+      "parent": "B29L",
+      "ja": "管状体物品（Ｂ２９Ｌ２４／００が優先）［４］",
+      "en": "Tubular articles(<b>B29L24/00</b> takes precedence)",
+      "count": 25655,
+      "sourceFile": "ipc_B29L.txt",
+      "kind": "ipc"
+    },
+    "B29L23/14": {
+      "code": "B29L23/14",
+      "level": 1,
+      "parent": "B29L23/00",
+      "ja": "葉巻タバコ用または紙巻きタバコ用ホルダー［４］",
+      "en": "Cigar or cigarette holders",
+      "count": 2,
+      "sourceFile": "ipc_B29L.txt",
+      "kind": "ipc"
+    },
+    "B29L23/18": {
+      "code": "B29L23/18",
+      "level": 1,
+      "parent": "B29L23/00",
+      "ja": "ひだつきホース［４］",
+      "en": "Pleated hoses",
+      "count": 885,
+      "sourceFile": "ipc_B29L.txt",
+      "kind": "ipc"
+    },
+    "B29L23/20": {
+      "code": "B29L23/20",
+      "level": 1,
+      "parent": "B29L23/00",
+      "ja": "柔軟性絞り出しチューブ，例．化粧品用［４］",
+      "en": "Flexible squeeze tubes, e.g. for cosmetics",
+      "count": 301,
+      "sourceFile": "ipc_B29L.txt",
+      "kind": "ipc"
+    },
+    "B29L23/24": {
+      "code": "B29L23/24",
+      "level": 1,
+      "parent": "B29L23/00",
+      "ja": "エンドレスチューブ，例．空気タイヤ用インナーチューブ［６］",
+      "en": "Endless tubes, e.g. inner tubes for pneumatic tyres",
+      "count": 116,
+      "sourceFile": "ipc_B29L.txt",
+      "kind": "ipc"
+    },
+    "B29L24/00": {
+      "code": "B29L24/00",
+      "level": 0,
+      "parent": "B29L",
+      "ja": "中空壁を有する物品［４］",
+      "en": "Articles with hollow walls",
+      "count": 925,
+      "sourceFile": "ipc_B29L.txt",
+      "kind": "ipc"
+    },
+    "B29L25/00": {
+      "code": "B29L25/00",
+      "level": 0,
+      "parent": "B29L",
+      "ja": "フレームレスドーム［４］",
+      "en": "Frameless domes",
+      "count": 33,
+      "sourceFile": "ipc_B29L.txt",
+      "kind": "ipc"
+    },
+    "B29L28/00": {
+      "code": "B29L28/00",
+      "level": 0,
+      "parent": "B29L",
+      "ja": "網または類似物［４］",
+      "en": "Nets or the like",
+      "count": 646,
+      "sourceFile": "ipc_B29L.txt",
+      "kind": "ipc"
+    },
+    "B29L29/00": {
+      "code": "B29L29/00",
+      "level": 0,
+      "parent": "B29L",
+      "ja": "ベルトまたはバンド［４］",
+      "en": "Belts or bands",
+      "count": 3368,
+      "sourceFile": "ipc_B29L.txt",
+      "kind": "ipc"
+    },
+    "B29L30/00": {
+      "code": "B29L30/00",
+      "level": 0,
+      "parent": "B29L",
+      "ja": "空気タイヤもしくは中実タイヤまたはその部品（インナーチューブＢ２９Ｌ２３／２４）［４］",
+      "en": "Pneumatic or solid tyres or parts thereof(inner tubes <b>B29L23/24</b>)",
+      "count": 10223,
+      "sourceFile": "ipc_B29L.txt",
+      "kind": "ipc"
+    },
+    "B29L31/00": {
+      "code": "B29L31/00",
+      "level": 0,
+      "parent": "B29L",
+      "ja": "その他の特定物品［４］",
+      "en": "Other particular articles",
+      "count": 18206,
+      "sourceFile": "ipc_B29L.txt",
+      "kind": "ipc"
+    },
+    "B29L31/04": {
+      "code": "B29L31/04",
+      "level": 1,
+      "parent": "B29L31/00",
+      "ja": "ベアリング［４］",
+      "en": "Bearings",
+      "count": 455,
+      "sourceFile": "ipc_B29L.txt",
+      "kind": "ipc"
+    },
+    "B29L31/06": {
+      "code": "B29L31/06",
+      "level": 1,
+      "parent": "B29L31/00",
+      "ja": "ロッド，例．連結棒［４］",
+      "en": "Rods, e.g. connecting rods",
+      "count": 578,
+      "sourceFile": "ipc_B29L.txt",
+      "kind": "ipc"
+    },
+    "B29L31/08": {
+      "code": "B29L31/08",
+      "level": 1,
+      "parent": "B29L31/00",
+      "ja": "回転子，固定子，ファン，タービンまたは類似品の羽根，例．スクリュープロペラ［４］",
+      "en": "Blades for rotors, stators, fans, turbines or the like, e.g. screw propellers",
+      "count": 4904,
+      "sourceFile": "ipc_B29L.txt",
+      "kind": "ipc"
+    },
+    "B29L31/10": {
+      "code": "B29L31/10",
+      "level": 1,
+      "parent": "B29L31/00",
+      "ja": "建築部材，例．レンガ，ブロック，タイル，パネル，柱，梁［４］",
+      "en": "Building elements, e.g. bricks, blocks, tiles, panels, posts, beams",
+      "count": 3117,
+      "sourceFile": "ipc_B29L.txt",
+      "kind": "ipc"
+    },
+    "B29L31/12": {
+      "code": "B29L31/12",
+      "level": 1,
+      "parent": "B29L31/00",
+      "ja": "チェーン［４］",
+      "en": "Chains",
+      "count": 101,
+      "sourceFile": "ipc_B29L.txt",
+      "kind": "ipc"
+    },
+    "B29L31/14": {
+      "code": "B29L31/14",
+      "level": 1,
+      "parent": "B29L31/00",
+      "ja": "フィルター，ふるいまたはスクリーン［４］",
+      "en": "Filters, sieves or screens",
+      "count": 1709,
+      "sourceFile": "ipc_B29L.txt",
+      "kind": "ipc"
+    },
+    "B29L31/16": {
+      "code": "B29L31/16",
+      "level": 1,
+      "parent": "B29L31/00",
+      "ja": "摩擦部品，例．ブレーキまたはクラッチライニング［４］",
+      "en": "Frictional elements, e.g. brake or clutch linings",
+      "count": 668,
+      "sourceFile": "ipc_B29L.txt",
+      "kind": "ipc"
+    },
+    "B29L31/18": {
+      "code": "B29L31/18",
+      "level": 1,
+      "parent": "B29L31/00",
+      "ja": "熱交換器またはその部品［４］",
+      "en": "Heat-exchangers or parts thereof",
+      "count": 414,
+      "sourceFile": "ipc_B29L.txt",
+      "kind": "ipc"
+    },
+    "B29L31/20": {
+      "code": "B29L31/20",
+      "level": 1,
+      "parent": "B29L31/00",
+      "ja": "燃料ブロック，例．核燃料部品［４］",
+      "en": "Fuel-blocks, e.g. nuclear fuel elements",
+      "count": 26,
+      "sourceFile": "ipc_B29L.txt",
+      "kind": "ipc"
+    },
+    "B29L31/22": {
+      "code": "B29L31/22",
+      "level": 1,
+      "parent": "B29L31/00",
+      "ja": "蝶番［４］",
+      "en": "Hinges",
+      "count": 120,
+      "sourceFile": "ipc_B29L.txt",
+      "kind": "ipc"
+    },
+    "B29L31/24": {
+      "code": "B29L31/24",
+      "level": 1,
+      "parent": "B29L31/00",
+      "ja": "パイプ用ジョイントまたはカップリング（Ｂ２９Ｌ３１／２６が優先）［４］",
+      "en": "Pipe joints or couplings(<b>B29L31/26</b> takes precedence)",
+      "count": 1559,
+      "sourceFile": "ipc_B29L.txt",
+      "kind": "ipc"
+    },
+    "B29L31/26": {
+      "code": "B29L31/26",
+      "level": 1,
+      "parent": "B29L31/00",
+      "ja": "シール装置，例．ピストンまたはパイプジョイントを包含するもの［４］",
+      "en": "Sealing devices, e.g. packaging for pistons or pipe joints",
+      "count": 5176,
+      "sourceFile": "ipc_B29L.txt",
+      "kind": "ipc"
+    },
+    "B29L31/28": {
+      "code": "B29L31/28",
+      "level": 1,
+      "parent": "B29L31/00",
+      "ja": "工具，例．刃物［４］",
+      "en": "Tools, e.g. cutlery",
+      "count": 546,
+      "sourceFile": "ipc_B29L.txt",
+      "kind": "ipc"
+    },
+    "B29L31/30": {
+      "code": "B29L31/30",
+      "level": 1,
+      "parent": "B29L31/00",
+      "ja": "乗物，例．船もしくは航空機，またはその本体部品［４］",
+      "en": "Vehicles, e.g. ships or aircraft, or body parts thereof",
+      "count": 23671,
+      "sourceFile": "ipc_B29L.txt",
+      "kind": "ipc"
+    },
+    "B29L31/32": {
+      "code": "B29L31/32",
+      "level": 1,
+      "parent": "B29L31/00",
+      "ja": "車輪，ピニオン，プーリー，キャスターまたはローラー［４］",
+      "en": "Wheels, pinions, pulleys, castors or rollers",
+      "count": 2047,
+      "sourceFile": "ipc_B29L.txt",
+      "kind": "ipc"
+    },
+    "B29L31/34": {
+      "code": "B29L31/34",
+      "level": 1,
+      "parent": "B29L31/00",
+      "ja": "電気装置，例．点火プラグまたはその部品［４］",
+      "en": "Electrical apparatus, e.g. sparking plugs or parts thereof",
+      "count": 20816,
+      "sourceFile": "ipc_B29L.txt",
+      "kind": "ipc"
+    },
+    "B29L31/36": {
+      "code": "B29L31/36",
+      "level": 2,
+      "parent": "B29L31/34",
+      "ja": "プラグ，コネクターまたはその部品［４］",
+      "en": "Plugs, connectors, or parts thereof",
+      "count": 1104,
+      "sourceFile": "ipc_B29L.txt",
+      "kind": "ipc"
+    },
+    "B29L31/38": {
+      "code": "B29L31/38",
+      "level": 1,
+      "parent": "B29L31/00",
+      "ja": "拡声器コーン；音響ダイアフラム［４］",
+      "en": "Loudspeaker cones; Acoustic diaphragms",
+      "count": 208,
+      "sourceFile": "ipc_B29L.txt",
+      "kind": "ipc"
+    },
+    "B29L31/40": {
+      "code": "B29L31/40",
+      "level": 1,
+      "parent": "B29L31/00",
+      "ja": "試験片［４］",
+      "en": "Test specimens",
+      "count": 209,
+      "sourceFile": "ipc_B29L.txt",
+      "kind": "ipc"
+    },
+    "B29L31/42": {
+      "code": "B29L31/42",
+      "level": 1,
+      "parent": "B29L31/00",
+      "ja": "ブラシ［４］",
+      "en": "Brushes",
+      "count": 462,
+      "sourceFile": "ipc_B29L.txt",
+      "kind": "ipc"
+    },
+    "B29L31/44": {
+      "code": "B29L31/44",
+      "level": 1,
+      "parent": "B29L31/00",
+      "ja": "家具またはその部品［４］",
+      "en": "Furniture or parts thereof",
+      "count": 944,
+      "sourceFile": "ipc_B29L.txt",
+      "kind": "ipc"
+    },
+    "B29L31/46": {
+      "code": "B29L31/46",
+      "level": 1,
+      "parent": "B29L31/00",
+      "ja": "ノブまたはハンドル［４］",
+      "en": "Knobs or handles",
+      "count": 739,
+      "sourceFile": "ipc_B29L.txt",
+      "kind": "ipc"
+    },
+    "B29L31/48": {
+      "code": "B29L31/48",
+      "level": 1,
+      "parent": "B29L31/00",
+      "ja": "身につけるもの［４］",
+      "en": "Wearing apparel",
+      "count": 5484,
+      "sourceFile": "ipc_B29L.txt",
+      "kind": "ipc"
+    },
+    "B29L31/50": {
+      "code": "B29L31/50",
+      "level": 2,
+      "parent": "B29L31/48",
+      "ja": "履物，例．靴またはその部品［４］",
+      "en": "Footwear, e.g. shoes or parts thereof",
+      "count": 6251,
+      "sourceFile": "ipc_B29L.txt",
+      "kind": "ipc"
+    },
+    "B29L31/52": {
+      "code": "B29L31/52",
+      "level": 1,
+      "parent": "B29L31/00",
+      "ja": "スポーツ用具；ゲーム；玩具（Ｂ２９Ｌ３１／５４が優先）［４］",
+      "en": "Sports equipment; Toys (<b>B29L31/54</b> takes precedence)",
+      "count": 2064,
+      "sourceFile": "ipc_B29L.txt",
+      "kind": "ipc"
+    },
+    "B29L31/54": {
+      "code": "B29L31/54",
+      "level": 1,
+      "parent": "B29L31/00",
+      "ja": "ボール［４］",
+      "en": "Balls",
+      "count": 758,
+      "sourceFile": "ipc_B29L.txt",
+      "kind": "ipc"
+    },
+    "B29L31/56": {
+      "code": "B29L31/56",
+      "level": 1,
+      "parent": "B29L31/00",
+      "ja": "びん，ジャーまたは類似物の栓またはふた［４］",
+      "en": "Stoppers or lids for bottles, jars, or the like",
+      "count": 2995,
+      "sourceFile": "ipc_B29L.txt",
+      "kind": "ipc"
+    },
+    "B29L31/58": {
+      "code": "B29L31/58",
+      "level": 1,
+      "parent": "B29L31/00",
+      "ja": "内装材またはクッション，例．車輛用内装材またはパッド［４］",
+      "en": "Upholstery or cushions, e.g. vehicle upholstery or interior padding",
+      "count": 8338,
+      "sourceFile": "ipc_B29L.txt",
+      "kind": "ipc"
+    },
+    "B29L31/60": {
+      "code": "B29L31/60",
+      "level": 1,
+      "parent": "B29L31/00",
+      "ja": "多管状または多室状構造体，例．ハニカム［４］",
+      "en": "Multitubular or multicompartmented articles, e.g. honeycomb",
+      "count": 889,
+      "sourceFile": "ipc_B29L.txt",
+      "kind": "ipc"
+    }
+  }
+}

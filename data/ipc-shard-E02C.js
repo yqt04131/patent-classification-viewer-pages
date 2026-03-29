@@ -1,0 +1,126 @@
+window.IPC_SHARD_E02C = {
+  "generatedAt": "2026-03-20T02:17:46.661Z",
+  "total": 12,
+  "entries": {
+    "E02C": {
+      "code": "E02C",
+      "level": 0,
+      "parent": "E02",
+      "ja": "船のリフト装置または機構",
+      "en": "SHIP-LIFTING DEVICES OR MECHANISMS",
+      "count": 55,
+      "sourceFile": "ipc_E.txt",
+      "kind": "ipc"
+    },
+    "E02": {
+      "code": "E02",
+      "level": 0,
+      "parent": "E",
+      "ja": "水工；基礎；土砂の移送",
+      "en": "HYDRAULIC ENGINEERING; FOUNDATIONS; SOIL-SHIFTING",
+      "count": 0,
+      "sourceFile": "ipc_E.txt",
+      "kind": "ipc"
+    },
+    "E": {
+      "code": "E",
+      "level": 0,
+      "parent": null,
+      "ja": "固定構造物",
+      "en": "FIXED CONSTRUCTIONS",
+      "count": 0,
+      "sourceFile": "ipc_E.txt",
+      "kind": "ipc"
+    },
+    "E02C1/00": {
+      "code": "E02C1/00",
+      "level": 0,
+      "parent": "E02C",
+      "ja": "閘門；シャフトロック，すなわちその前面の下部に船を通すための開口部を有する壁体によって形成されている閘門（ロックゲートＥ０２Ｂ７／２０）",
+      "en": "Locks; Shaft locks, i.e. locks of which one front side is formed by a solid wall with an opening in the lower part through which the ships pass(lock gates <b>E02B7/20</b>)",
+      "count": 1414,
+      "sourceFile": "ipc_E02C.txt",
+      "kind": "ipc"
+    },
+    "E02C1/02": {
+      "code": "E02C1/02",
+      "level": 1,
+      "parent": "E02C1/00",
+      "ja": "補助盤を有するもの",
+      "en": "with auxiliary basins",
+      "count": 66,
+      "sourceFile": "ipc_E02C.txt",
+      "kind": "ipc"
+    },
+    "E02C1/04": {
+      "code": "E02C1/04",
+      "level": 1,
+      "parent": "E02C1/00",
+      "ja": "浮槽を有するもの",
+      "en": "with floating troughs",
+      "count": 64,
+      "sourceFile": "ipc_E02C.txt",
+      "kind": "ipc"
+    },
+    "E02C1/06": {
+      "code": "E02C1/06",
+      "level": 1,
+      "parent": "E02C1/00",
+      "ja": "閘門の給排水装置（ロックゲートにおけるものＥ０２Ｂ７／２０）",
+      "en": "Devices for filling or emptying locks(in lock gates <b>E02B7/20</b>)",
+      "count": 362,
+      "sourceFile": "ipc_E02C.txt",
+      "kind": "ipc"
+    },
+    "E02C1/08": {
+      "code": "E02C1/08",
+      "level": 1,
+      "parent": "E02C1/00",
+      "ja": "水のエネルギーを消散させるための装置（ロックゲートによるものＥ０２Ｂ８／０６）",
+      "en": "Arrangements for dissipating the energy of the water(carried by lock gates <b>E02B8/06</b>)",
+      "count": 145,
+      "sourceFile": "ipc_E02C.txt",
+      "kind": "ipc"
+    },
+    "E02C1/10": {
+      "code": "E02C1/10",
+      "level": 1,
+      "parent": "E02C1/00",
+      "ja": "閘門内の船の航行に関連して使用される設備；係船設備（船舶の係船または錨泊Ｂ６３Ｂ２１／００；海岸，港湾または他の固定海洋構造物における船舶用設備Ｅ０２Ｂ３／２０）",
+      "en": "Equipment for use in connection with the navigation of ships in locks; Mooring equipment(tying-up, anchoring waterborne vessels <b>B63B21/00</b>; equipment for shipping on coasts, in harbours or on other fixed marine structures <b>E02B3/20</b>)",
+      "count": 364,
+      "sourceFile": "ipc_E02C.txt",
+      "kind": "ipc"
+    },
+    "E02C3/00": {
+      "code": "E02C3/00",
+      "level": 0,
+      "parent": "E02C",
+      "ja": "斜面に沿って船を引き上げる機構",
+      "en": "Inclined-plane ship-lifting mechanisms",
+      "count": 479,
+      "sourceFile": "ipc_E02C.txt",
+      "kind": "ipc"
+    },
+    "E02C5/00": {
+      "code": "E02C5/00",
+      "level": 0,
+      "parent": "E02C",
+      "ja": "船を垂直にもち上げる機構（沈没した船舶の引き揚げＢ６３Ｃ７／００）",
+      "en": "Mechanisms for lifting ships vertically(salvaging sunken vessels <b>B63C7/00</b>)",
+      "count": 901,
+      "sourceFile": "ipc_E02C.txt",
+      "kind": "ipc"
+    },
+    "E02C5/02": {
+      "code": "E02C5/02",
+      "level": 1,
+      "parent": "E02C5/00",
+      "ja": "浮室を有するもの",
+      "en": "with floating chambers",
+      "count": 199,
+      "sourceFile": "ipc_E02C.txt",
+      "kind": "ipc"
+    }
+  }
+};

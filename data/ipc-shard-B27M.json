@@ -1,0 +1,286 @@
+{
+  "generatedAt": "2026-03-20T02:17:46.149Z",
+  "total": 28,
+  "entries": {
+    "B27M": {
+      "code": "B27M",
+      "level": 0,
+      "parent": "B27",
+      "ja": "サブクラスＢ２７ＢからＢ２７Ｌに分類されない木材の加工；特定の木製品の製造",
+      "en": "WORKING OF WOOD NOT PROVIDED FOR IN SUBCLASSES <b>B27B to B27L</b> ; MANUFACTURE OF SPECIFIC WOODEN ARTICLES",
+      "count": 667,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B27": {
+      "code": "B27",
+      "level": 0,
+      "parent": "B",
+      "ja": "木材または類似の材料の加工または保存；釘打ち機またはステープル打ち機一般",
+      "en": "WORKING OR PRESERVING WOOD OR SIMILAR MATERIAL; NAILING OR STAPLING MACHINES IN GENERAL",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B": {
+      "code": "B",
+      "level": 0,
+      "parent": null,
+      "ja": "処理操作；運輸",
+      "en": "PERFORMING OPERATIONS; TRANSPORTING",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B27M1/00": {
+      "code": "B27M1/00",
+      "level": 0,
+      "parent": "B27M",
+      "ja": "サブクラスＢ２７ＢからＢ２７Ｌに分類されない木材の加工，例．引張りによるもの［２］",
+      "en": "Working of wood not provided for in subclasses <b>B27B to B27L</b> , e.g. by stretching",
+      "count": 3742,
+      "sourceFile": "ipc_B27M.txt",
+      "kind": "ipc"
+    },
+    "B27M1/02": {
+      "code": "B27M1/02",
+      "level": 1,
+      "parent": "B27M1/00",
+      "ja": "圧搾によるもの",
+      "en": "by compressing",
+      "count": 3307,
+      "sourceFile": "ipc_B27M.txt",
+      "kind": "ipc"
+    },
+    "B27M1/04": {
+      "code": "B27M1/04",
+      "level": 1,
+      "parent": "B27M1/00",
+      "ja": "打ち抜きによるもの",
+      "en": "by punching out",
+      "count": 517,
+      "sourceFile": "ipc_B27M.txt",
+      "kind": "ipc"
+    },
+    "B27M1/06": {
+      "code": "B27M1/06",
+      "level": 1,
+      "parent": "B27M1/00",
+      "ja": "燃焼または黒焦げにするもの，例．加熱線による切断（表面処理Ｂ４４Ｂ）",
+      "en": "by burning or charring, e.g. cutting with hot wire(as surface treatment <b>B44B</b>)",
+      "count": 1674,
+      "sourceFile": "ipc_B27M.txt",
+      "kind": "ipc"
+    },
+    "B27M1/08": {
+      "code": "B27M1/08",
+      "level": 1,
+      "parent": "B27M1/00",
+      "ja": "多段階の工程によるもの［２］",
+      "en": "by multi-step processes",
+      "count": 5686,
+      "sourceFile": "ipc_B27M.txt",
+      "kind": "ipc"
+    },
+    "B27M3/00": {
+      "code": "B27M3/00",
+      "level": 0,
+      "parent": "B27M",
+      "ja": "特定の半仕上または仕上製品の製造または修理（合板またはベニヤの製造，合板またはベニヤから製品の製作Ｂ２７Ｄ；合板用中心層の製造Ｂ２７Ｄ１／０６；くぎ打ちまたはステープル打ち機一般Ｂ２７Ｆ７／００；たる製造または車輪製造用部材のものＢ２７Ｈ；倣い装置の形状Ｂ２３Ｑ）",
+      "en": "Manufacture or reconditioning of specific semi-finished or finished articles(features of copying devices <b>B23Q</b>; manufacture of plywood or veneer, shaping plywood or veneer into articles <b>B27D</b>; of central layers for plywood <b>B27D1/06</b>; nailing or stapling machines in general <b>B27F7/00</b>; of elements for cooperage or wheel-making <b>B27H</b>)",
+      "count": 11757,
+      "sourceFile": "ipc_B27M.txt",
+      "kind": "ipc"
+    },
+    "B27M3/02": {
+      "code": "B27M3/02",
+      "level": 1,
+      "parent": "B27M3/00",
+      "ja": "屋根部材，例．屋根板",
+      "en": "of roofing elements, e.g. shingles",
+      "count": 279,
+      "sourceFile": "ipc_B27M.txt",
+      "kind": "ipc"
+    },
+    "B27M3/04": {
+      "code": "B27M3/04",
+      "level": 1,
+      "parent": "B27M3/00",
+      "ja": "床張り部材，例．寄木張り板（他の材料の裏打ちによる木製要素の組立Ｂ３２Ｂ，例．Ｂ３２Ｂ３７／００）",
+      "en": "of flooring elements, e.g. parqueting blocks(assembling wooden elements on backings of other substances <b>B32B</b>, e.g. <b>B32B37/00</b>)",
+      "count": 4188,
+      "sourceFile": "ipc_B27M.txt",
+      "kind": "ipc"
+    },
+    "B27M3/06": {
+      "code": "B27M3/06",
+      "level": 2,
+      "parent": "B27M3/04",
+      "ja": "寄木張り板を組合せまたは接合することにより組立てた床板",
+      "en": "of composite floor plates by assembling or jointing the parqueting blocks",
+      "count": 513,
+      "sourceFile": "ipc_B27M.txt",
+      "kind": "ipc"
+    },
+    "B27M3/08": {
+      "code": "B27M3/08",
+      "level": 1,
+      "parent": "B27M3/00",
+      "ja": "特定形状の木製木ずりまたは帯状物",
+      "en": "of specially-shaped wood laths or strips",
+      "count": 659,
+      "sourceFile": "ipc_B27M.txt",
+      "kind": "ipc"
+    },
+    "B27M3/10": {
+      "code": "B27M3/10",
+      "level": 1,
+      "parent": "B27M3/00",
+      "ja": "プロペラ板",
+      "en": "of airscrew blades",
+      "count": 112,
+      "sourceFile": "ipc_B27M.txt",
+      "kind": "ipc"
+    },
+    "B27M3/12": {
+      "code": "B27M3/12",
+      "level": 1,
+      "parent": "B27M3/00",
+      "ja": "木さく，階段，階段のがわげた，はしごまたはそれらの部品",
+      "en": "of railings, stairs, stair stringers, ladders, or parts thereof",
+      "count": 342,
+      "sourceFile": "ipc_B27M.txt",
+      "kind": "ipc"
+    },
+    "B27M3/14": {
+      "code": "B27M3/14",
+      "level": 1,
+      "parent": "B27M3/00",
+      "ja": "鉄道のまくら木",
+      "en": "of railroad sleepers",
+      "count": 224,
+      "sourceFile": "ipc_B27M.txt",
+      "kind": "ipc"
+    },
+    "B27M3/16": {
+      "code": "B27M3/16",
+      "level": 1,
+      "parent": "B27M3/00",
+      "ja": "工具の柄または工具，例．木製のつち",
+      "en": "of tool handles or tools, e.g. mallets",
+      "count": 150,
+      "sourceFile": "ipc_B27M.txt",
+      "kind": "ipc"
+    },
+    "B27M3/18": {
+      "code": "B27M3/18",
+      "level": 1,
+      "parent": "B27M3/00",
+      "ja": "家具",
+      "en": "of furniture",
+      "count": 6323,
+      "sourceFile": "ipc_B27M.txt",
+      "kind": "ipc"
+    },
+    "B27M3/20": {
+      "code": "B27M3/20",
+      "level": 1,
+      "parent": "B27M3/00",
+      "ja": "靴型；靴，例．木ぐつ；靴の部品，例．かかと",
+      "en": "of lasts; of shoes, e.g. sabots; of parts of shoes, e.g. heels",
+      "count": 612,
+      "sourceFile": "ipc_B27M.txt",
+      "kind": "ipc"
+    },
+    "B27M3/22": {
+      "code": "B27M3/22",
+      "level": 1,
+      "parent": "B27M3/00",
+      "ja": "運動具，例．ボーリングのピン，テニス用ラケットの枠，スキー，かい",
+      "en": "of sport articles, e.g. bowling pins, frames of tennis rackets, skis, paddles",
+      "count": 454,
+      "sourceFile": "ipc_B27M.txt",
+      "kind": "ipc"
+    },
+    "B27M3/24": {
+      "code": "B27M3/24",
+      "level": 1,
+      "parent": "B27M3/00",
+      "ja": "家庭用器具，例．スプーン，えもん掛け，洋服掛けくぎ",
+      "en": "of household utensils, e.g. spoons, clothes hangers, clothes pegs",
+      "count": 1780,
+      "sourceFile": "ipc_B27M.txt",
+      "kind": "ipc"
+    },
+    "B27M3/26": {
+      "code": "B27M3/26",
+      "level": 1,
+      "parent": "B27M3/00",
+      "ja": "喫煙用具，例．パイプ",
+      "en": "of smokers utensils, e.g. pipes",
+      "count": 27,
+      "sourceFile": "ipc_B27M.txt",
+      "kind": "ipc"
+    },
+    "B27M3/28": {
+      "code": "B27M3/28",
+      "level": 1,
+      "parent": "B27M3/00",
+      "ja": "合せくぎまたはボルト",
+      "en": "of dowels or bolts",
+      "count": 164,
+      "sourceFile": "ipc_B27M.txt",
+      "kind": "ipc"
+    },
+    "B27M3/30": {
+      "code": "B27M3/30",
+      "level": 1,
+      "parent": "B27M3/00",
+      "ja": "糸巻",
+      "en": "of bobbins",
+      "count": 90,
+      "sourceFile": "ipc_B27M.txt",
+      "kind": "ipc"
+    },
+    "B27M3/32": {
+      "code": "B27M3/32",
+      "level": 1,
+      "parent": "B27M3/00",
+      "ja": "先き細の棒，例．鉱山の支柱",
+      "en": "of tapered poles, e.g. mine props",
+      "count": 154,
+      "sourceFile": "ipc_B27M.txt",
+      "kind": "ipc"
+    },
+    "B27M3/34": {
+      "code": "B27M3/34",
+      "level": 1,
+      "parent": "B27M3/00",
+      "ja": "柔かにしなければ充分に曲げられない木材または同質の材料のケース，トランクまたは箱（くぎ打ちまたはステップル打ち加工一般Ｂ２５Ｃ，Ｂ２７Ｆ；板紙，紙，または類似の方法で加工できる材料Ｂ３１Ｂ）",
+      "en": "of cases, trunks, or boxes, of wood or equivalent material which cannot satisfactorily be bent without softening(nailing or stapling in general <b>B25C</b>, <b>B27F</b>; of cardboard, paper, or similarly workable material <b>B31B</b>)",
+      "count": 855,
+      "sourceFile": "ipc_B27M.txt",
+      "kind": "ipc"
+    },
+    "B27M3/36": {
+      "code": "B27M3/36",
+      "level": 2,
+      "parent": "B27M3/34",
+      "ja": "空包を一緒にしばりつけるための機械および装置，例．針金で結束する箱の製作用のもの",
+      "en": "Machines or devices for attaching blanks together, e.g. for making wire-bound boxes",
+      "count": 520,
+      "sourceFile": "ipc_B27M.txt",
+      "kind": "ipc"
+    },
+    "B27M3/38": {
+      "code": "B27M3/38",
+      "level": 1,
+      "parent": "B27M3/00",
+      "ja": "ステッキまたは傘の棒状部材",
+      "en": "of walking sticks or of sticks for umbrellas",
+      "count": 47,
+      "sourceFile": "ipc_B27M.txt",
+      "kind": "ipc"
+    }
+  }
+}

@@ -1,0 +1,8286 @@
+window.IPC_SHARD_H01H = {
+  "generatedAt": "2026-03-20T02:17:47.216Z",
+  "total": 828,
+  "entries": {
+    "H01H": {
+      "code": "H01H",
+      "level": 0,
+      "parent": "H01",
+      "ja": "電気的スイッチ；継電器；セレクタ；非常保護装置（接触ケーブルＨ０１Ｂ７／１０；電解自己遮断装置Ｈ０１Ｇ９／１８；非常保護回路装置Ｈ０２Ｈ；無接点電子手段による開閉Ｈ０３Ｋ１７／００）<br><br><b><ul>注</ul></b><br>１．このサブクラスは，正常な電気的作動状態から不所望の状態に変化する電線，電気機械又は電気器具を保護するための装置で，その電気的状態が前記装置に直接入力として作用する装置を，グループＨ０１Ｈ６９／００～Ｈ０１Ｈ８７／００内に，包含する。<br>２．このサブクラスは，２つ以上の開閉器を収容するか，又は開閉器と共に他の電気的構成物，例．バスバー，コネクタ，を収容するための基台，ケース，又はカバーを包含しない。これらの基台，ケース又はカバーはグループＨ０２Ｂ１／２６に包含される。<br>３．このサブクラスにおいては，下記の用語又は表現は以下に示す意味で用いる：<br>・“継電器”とは，接点の開閉を引き起こすに必要な機械的エネルギーの全てを，直接的又は間接的に供給する電気的入力によって操作される接点をもつ開閉器を意味する；<br>・“駆動機構”とは，スイッチに与えられた操作力が，可動接点に伝達される手段をいう；<br>・“操作（ｏｐｅｒａｔｉｎｇ）”は，スイッチ動作を手動で行なわない部分に対して用いられる“作動（ａｃｔｕａｔｉｎｇ）”よりも広い意味に使われる；<br>・“動作（ａｃｔｉｎｇ）”又は“動き（ａｃｔｉｏｎ）”とは，スイッチングの一段階において，ある部分が自ら誘起する運動を意味する。これらの意味は，“操作する（ｔｏ　ｏｐｅｒａｔｅ）“作動する（ｔｏ　ａｃｔｕａｔｅ）“動く（ｔｏ　ａｃｔ）”の動詞のすべての部分に適用され，そこから導かれる語，例．“作動（ａｃｔｕａｔｉｏｎ）”，にも適用される。<br>４．このサブクラスにおいては，細部は下記のように分類される：<br>・不特定型式の開閉器の細部，又はスイッチ，継電器，セレクタスイッチおよび非常保護装置という用語又は表現によって指示された二種以上の開閉器に適用し得るように開示されているものの細部はグループＨ０１Ｈ１／００～Ｈ０１Ｈ９／００に分類される；<br>・不特定型式のスイッチの細部，又はグループＨ０１Ｈ１３／００～Ｈ０１Ｈ４３／００ならびにサブグループＨ０１Ｈ３５／０２，Ｈ０１Ｈ３５／０６，Ｈ０１Ｈ３５／１４，Ｈ０１Ｈ３５／１８，Ｈ０１Ｈ３５／２４およびＨ０１Ｈ３５／４２によって規定された二つ以上の型式のスイッチに適用し得るように開示されているものの細部，以下基本型と称するすべてのものはグループＨ０１Ｈ１／００～Ｈ０１Ｈ９／００に分類される；<br>・不特定型式の継電器の細部，又はグループＨ０１Ｈ５１／００～Ｈ０１Ｈ６１／００によって規定された二つ以上の型式の継電器に適用し得るように開示されているものの細部，以下基本型と称するものはグループＨ０１Ｈ４５／００に分類される；<br>・不特定な保護装置の細部，又はグループＨ０１Ｈ７３／００～Ｈ０１Ｈ８３／００によって規定された二つ以上の型式の保護装置に適用し得るものの細部，以下基本型と称するものはＨ０１Ｈ７１／００に分類される。<br>・しかしながら，単一の基本型の開閉器に関して単に述べられた細部またはその開閉器のみに適用されることが明らかな細部はその基本型の開閉器に適切なグループ，例．Ｈ０１Ｈ１９／０２，Ｈ０１Ｈ７５／０４，に分類される；<br>・作動される要素に対して力を伝達するためのキー，押ボタン，レバー又はその他の機構のような，スイッチ又はキーボードの制御部材の機械的な構造の細部は，それが電子的スイッチを制御するために使用される場合でも，このサブクラスに分類される；<br>しかしながら，電子的効果を直接的に生じさせる機械的な細部はグループＨ０３Ｋ１７／９４に分類される。<br><br><b><ul>サブクラス内の索引</ul></b><br>電気スイッチ<br>制御原理によって特徴づけられるもの：<br>機械的なもの：<br>直線移動によるもの：一方向；二方向　１３／００；１５／００<br>角変位によるもの：制限されない角度で；制限された角度で　１９／００；２１／００<br>引張りによるもの；タンブラースイッチ　１７／００；２３／００<br>複合運動するもの　２５／００<br>着脱部材によるもの　２７／００<br>物理的なもの：<br>一般；電界または磁界によるもの；加熱；爆発　３５／００；３６／００；３７／００；３９／００<br>接点によって特徴づけられるもの：<br>液体　２９／００<br>電圧または強さによって特徴づけられるもの：<br>消弧手段をもたないもの；消弧手段をもつもの　３１／００；３３／００<br>始動，持続によって特徴づけられるもの：<br>手動；プログラム　４１／００；４３／００<br>製造　１１／００<br>継電器<br>電磁型；動電型；磁わい型　５１／００；５３／００；５５／００<br>電わい型または圧電型；静電型；電熱型　５７／００；５９／００；６１／００<br>細部：<br>一般；電気機械的；回路　４５／００；５０／００；４７／００<br>製造　４９／００<br>セレクタ<br>型式　６７／００<br>細部　６３／００<br>製造　６５／００<br>セクショナライザ<br>刃形接片をもつ低応力のもの　２１／５４<br>高応力のためのもの　３１／００<br>ヒューズと結合したもの　８５／５４<br>保護装置<br>回路遮断スイッチ：<br>リセット機構を持つもの：手動；電動機によるもの；別の作動を要するもの　７３／００；７５／００；７７／００<br>保護スイッチ：<br>短絡の；開閉を繰り返すもの；異常状態　７９／００；８１／００；８３／００<br>ヒューズ；蒸発装置　８５／００；８７／００<br>保護スイッチまたは保護継電器の細部　７１／００<br>製造　６９／００<br>組合せ　８９／００<br>一般的細部<br>接点　１／００<br>機構：<br>接点の操作機構一般；速動装置；遅延　３／００；５／００；７／００<br>他の細部　９／００",
+      "en": "ELECTRIC SWITCHES; RELAYS; SELECTORS; EMERGENCY PROTECTIVE DEVICES(contact cables <b>H01B7/10</b>;  electrolytic self-interrupters <b>H01G9/18</b>;  emergency protective circuit arrangements <b>H02H</b>;  switching by electronic means without contact-making <b>H03K17/00</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>This subclass <u>covers,</u> in groups <b>H01H69/00 to H01H87/00</b>  devices for the protection of electric lines or electric machines or apparatus in the event of undesired change from normal electric working conditions, the electrical condition serving directly as the input to the device.</li><li>This subclass <u>does not cover</u> bases, casings, or covers accommodating two or more switching devices or for accommodating a switching device as well as another electric component, e.g. bus-bar, line connector. Those bases, casings or covers are covered by group <b>H02B1/26</b>.</li><li>In this subclass, the following terms or expressions are used with the meanings indicated: <ul><li>\"relay\" means a switching device having contacts which are operated from electric inputs which supply, directly or indirectly, all the mechanical energy necessary to cause both the closure and the opening of the contacts;</li><li>\"driving mechanism\" refers to the means by which an operating force applied to the switch is transmitted to the moving contact or contacts;</li><li>\"operating\" is used in a broader sense than \"actuating\" which is reserved for those parts not touched by hand to effect switching;</li><li>\"acting\" or \"action\" means a self-induced movements of parts at one stage of the switching. These connotations apply to all parts of the verbs \"to operate\"; \"to actuate\", and \"to act\", and to words derived therefrom, e.g. to \"actuation\".</li></ul></li><li>In this subclass, details are classified as follows: <ul><li>details of an unspecified type of switching device, or disclosed as applicable to two or more kinds of switching devices designated by the terms or expressions \"switches\", \"relays\", \"selector switches\", and \"emergency protective devices\", are classified in groups <b>H01H1/00 to H01H9/00</b> ;</li><li>details of an unspecified type of switch, or disclosed as applicable to two or more types of switches as defined by groups <b>H01H13/00 to H01H43/00</b>  and subgroups <b>H01H35/02</b>, <b>H01H35/06</b>, <b>H01H35/14</b>, <b>H01H35/18</b>, <b>H01H35/24</b>, and <b>H01H35/42</b>, all hereinafter called basic types, are classified in groups <b>H01H1/00 to H01H9/00</b> ;</li><li>details of an unspecified type of relay, or disclosed as applicable to two or more types of relays as defined by groups <b>H01H51/00 to H01H61/00</b> , hereinafter called basic types, are classified in group <b>H01H45/00</b>;</li><li>details of an unspecified protective device, or applicable to two or more types of protective devices as defined by groups <b>H01H73/00 to H01H83/00</b> , hereinafter called basic types, are classified in group <b>H01H71/00</b>.</li><li>However, details only described with reference to, or clearly only applicable to, switching devices of a single basic type, are classified in the group appropriate to switching devices of that basic type, e.g. <b>H01H19/02</b>, <b>H01H75/04</b>;</li><li>mechanical structural details of control members of switches or of keyboards such as keys, push-buttons, levers or other mechanisms for transferring the force to the activated elements are classified in this subclass, even when they are used for controlling electronic switches.</li></ul>However, mechanical details directly producing electronic effects are classified in group <b>H03K17/94</b>.</li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">ELECTRIC SWITCHES<tr><td width=\"70%\">Characterised by the principle of control<tr><td width=\"70%\">mechanical<tr><td width=\"70%\">rectilinearly movable: one direction; two directions</td><td><b><b>13/00</b>; <b>15/00</b></b></td></tr></tr><tr><td width=\"70%\">with angular displacement: unlimited angle; limited angle</td><td><b><b>19/00</b>; <b>21/00</b></b></td></tr></tr><tr><td width=\"70%\">by pulling; by tumbling</td><td><b><b>17/00</b>; <b>23/00</b></b></td></tr></tr><tr><td width=\"70%\">with compound movements</td><td><b><b>25/00</b></b></td></tr></tr><tr><td width=\"70%\">by removable members</td><td><b><b>27/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">physical<tr><td width=\"70%\">general; electric or magnetic field; heat; explosion</td><td><b><b>35/00</b>; <b>36/00</b>; <b>37/00</b>; <b>39/00</b></b></td></tr></tr></tr></tr><tr><td width=\"70%\">Characterised by the contacts<tr><td width=\"70%\">liquid</td><td><b><b>29/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">Characterised by the voltage or the intensity<tr><td width=\"70%\">without arc-extinguishing means; with such means</td><td><b><b>31/00</b>; <b>33/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">Characterised by the actuation duration<tr><td width=\"70%\">manual; programme</td><td><b><b>41/00</b>; <b>43/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">Manufacture</td><td><b><b>11/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">RELAYS<tr><td width=\"70%\">Electromagnetic; dynamo-electric; magnetostrictive</td><td><b><b>51/00</b>; <b>53/00</b>; <b>55/00</b></b></td></tr></tr><tr><td width=\"70%\">Electrostrictive or piezoelectric; electrostatic; electrothermal</td><td><b><b>57/00</b>; <b>59/00</b>; <b>61/00</b></b></td></tr></tr><tr><td width=\"70%\">Details<tr><td width=\"70%\">general; electromechanical; circuits</td><td><b><b>45/00</b>; <b>50/00</b>; <b>47/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">Manufacture</td><td><b><b>49/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">SELECTORS<tr><td width=\"70%\">Types</td><td><b><b>67/00</b></b></td></tr></tr><tr><td width=\"70%\">Details</td><td><b><b>63/00</b></b></td></tr></tr><tr><td width=\"70%\">Manufacture</td><td><b><b>65/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">SECTIONALISERS<tr><td width=\"70%\">low-tension with blade-type contact</td><td><b><b>21/54</b></b></td></tr></tr><tr><td width=\"70%\">for high tension</td><td><b><b>31/00</b></b></td></tr></tr><tr><td width=\"70%\">combined with fuses</td><td><b><b>85/54</b></b></td></tr></tr></tr><tr><td width=\"70%\">PROTECTIVE DEVICES<tr><td width=\"70%\">Circuit-breaking switches<tr><td width=\"70%\">with resetting: manual; by motor; separate</td><td><b><b>73/00</b>; <b>75/00</b>; <b>77/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">Protective switches<tr><td width=\"70%\">by short-circuit; opening and closing; particular</td><td><b><b>79/00</b>; <b>81/00</b>; <b>83/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">Fuses; evaporation devices</td><td><b><b>85/00</b>; <b>87/00</b></b></td></tr></tr><tr><td width=\"70%\">Details of protective switches and relays</td><td><b><b>71/00</b></b></td></tr></tr><tr><td width=\"70%\">Manufacture</td><td><b><b>69/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">COMBINATIONS</td><td><b><b>89/00</b></b></td></tr></tr><tr><td width=\"70%\">GENERAL DETAILS<tr><td width=\"70%\">Contacts</td><td><b><b>1/00</b></b></td></tr></tr><tr><td width=\"70%\">Mechanisms<tr><td width=\"70%\">operating contacts in general; snap-action; delay</td><td><b><b>3/00</b>; <b>5/00</b>; <b>7/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">Other details</td><td><b><b>9/00</b></b></td></tr></tr></tr></table>",
+      "count": 5542,
+      "sourceFile": "ipc_H.txt",
+      "kind": "ipc"
+    },
+    "H01": {
+      "code": "H01",
+      "level": 0,
+      "parent": "H",
+      "ja": "電気素子<br><br><b><ul>注</ul></b><br>（１）他に項目が存在する単一の技術のみを含む方法，例．乾燥，被覆，はその技術に関連するクラスに分類される。<br>（２）“マイクロ構造の装置”および“マイクロ構造のシステム”に関する，クラスＢ８１およびサブクラスＢ８１Ｂの両タイトルの後の注に注意すること。［７］",
+      "en": "ELECTRIC ELEMENTS; <br><br><b><u>Note(s)</u></b><br><br><ul><li>Processes involving only a single technical art, e.g. drying, coating, for which provision exists elsewhere are classified in the relevant class for that art.</li><li>Attention is drawn to the Notes following the titles of class <b>B81</b> and subclass <b>B81B</b> relating to \"microstructural devices\" and \"microstructural systems\".</li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_H.txt",
+      "kind": "ipc"
+    },
+    "H": {
+      "code": "H",
+      "level": 0,
+      "parent": null,
+      "ja": "電気<br><br><b><ul>注</ul></b><br>（利用にあたっての基本原則と一般的指示）<br>Ｉ．セクションＨは以下のものを包含する：<br>（ａ）基本的電気素子，これは全ての電気ユニットと，装置や回路の一般的な機械的構成を包含しており，その中にはプリント配線と称されるものに各種の基本素子を組み立てたものも含まれる。またこれは他に包含されない場合には，ある程度までこれらの素子の製造をも包含する；<br>（ｂ）発電，これは，発電，変換および配電と共にそのための装置の制御を包含する；<br>（ｃ）電気の応用，これは以下のものを包含する：<br>（ｉ）一般的な利用技術，すなわち．電気加熱と電気照明回路の利用技術；<br>（ｉｉ）厳密な意味で電気的か電子的かいずれかの特定の利用技術で国際特許分類の他のセクションに包含されないもの，これは以下のものを含んでいる：<br>（１）電気的光源，これはレーザーを含む；<br>（２）電気的なＸ線技術；<br>（３）電気的なプラズマ技術，および帯電粒子または中性子の発生および加速；<br>（ｄ）基本電子回路およびその制御；<br>（ｅ）電気通信技術；これは電気―機械変換器一般を含む；<br>（ｆ）物品や上記素子を作るための特定の材料の使用，この点については指針の８８項から９０項を参照されたい。<br>ＩＩ．このセクションにおいては，下記の一般規則が適用される：<br>（ａ）上記Ｉ（ｃ）で述べた例外を除いて，国際特許分類のセクションＨ以外のいずれかのセクションに分類される特殊な操作，方法，装置，物体または物品に特有の電気的観点または部分は，常にその操作，方法，装置，物体または物品のためのサブクラスに分類されるか，または類似の性質を有する技術主題に関する共通的な特徴がクラス・レベルで展開されている場合には，それは，該技術主題のための一般的電気的な応用を完全に包含するサブクラスに，その操作，方法，装置，物体または物品と関連して分類される；<br>（ｂ）この様な電気的な応用には，一般的なものであれ特殊なものであれ，次の事項が含まれる。<br>（ｉ）Ａ６１における治療方法および装置；<br>（ｉｉ）Ｂ０１，Ｂ０３およびＢ２３Ｋにおける各種の実験室または工業的操作に用いられる電気的方法および装置；<br>（ｉｉｉ）セクションＢの“運輸”のサブセクションにおける車両一般および特殊な車両への電気の供給，電気的推進および電気照明；<br>（ｉｖ）Ｆ０２Ｐにおける内燃機関の電気点火系，およびＦ２３Ｑにおける燃焼装置一般のもの；<br>（ｖ）セクションＧにおける全ての電気的部分，すなわち，電気変量の測定器を含む測定装置，検査，信号および計算。このＧセクションにおいて電気とは，一般に手段として扱われるものでそれ自体目的として扱われるものではない；<br>（ｃ）全ての電気的な応用は一般的なものであれ特殊なものであれ，それが含んでいる電気的“基本的素子”に関して言えば，“基本的な電気”の観点がセクションＨ（上記Ｉ（ａ）参照）にあることを前提としている。この規則は，セクションＨ自身にある上記Ｉ（ｃ）で示した電気の応用に対しても有効である。",
+      "en": "ELECTRICITY; <br><br><b><u>Note(s)</u></b><br><br><ul><li>These Notes cover the basic principles and general instructions for use of section <b>H</b>.<ul><li>Section <b>H</b> <u>covers</u>: <ul><li>basic electric elements, which cover all electric units and the general mechanical structure of apparatus and circuits, including the assembly of various basic elements into what are called printed circuits and also cover to a certain extent the manufacture of these elements (when not covered elsewhere);</li><li>generation of electricity, which covers the generation, conversion and distribution of electricity together with the controlling of the corresponding gear;</li><li>applied electricity, which <u>covers</u>: <ul><li>general utilisation techniques, viz. those of electric heating and electric lighting circuits;</li><li>some special utilisation techniques, either electric or electronic in the strict sense, which are not covered by other sections of the Classification, including: <ul><li>electric light sources, including lasers;</li><li>electric X-ray technique;</li><li>electric plasma technique and the generation and acceleration of electrically charged particles or neutrons;</li></ul></li></ul></li><li>basic electronic circuits and their control;</li><li>radio or electric communication technique;</li><li>the use of a specified material for the manufacture of the article or element described. In this connection, paragraphs 88 to 90 of the Guide should be referred to.</li></ul></li><li>In this section, the following general rules apply: <ul><li>Subject to the exceptions stated in I(c), above, any electric aspect or part peculiar to a particular operation, process, apparatus, object or article, classified in one of the sections of the Classification other than section <b>H</b>, is always classified in the subclass for that operation, process, apparatus, object or article. Where common characteristics concerning technical subjects of similar nature have been brought out at class level, the electric aspect or part is classified, in conjunction with the operation, process, apparatus, object or article, in a subclass which covers entirely the general electrical applications for the technical subject in question;</li><li>The electrical applications referred to under (a), above, either general or particular, include: <ul><li>the therapeutic processes and apparatus, in class <b>A61</b>;</li><li>the electric processes and apparatus used in various laboratory or industrial operations, in classes <b>B01</b> and <b>B03</b> and in subclass <b>B23K</b>;</li><li>the electricity supply, electric propulsion and electric lighting of vehicles in general and of particular vehicles, in the subsection \"Transporting\" of section <b>B</b>;</li><li>the electric ignition systems of internal-combustion engines, in subclass <b>F02P</b>, and of combustion apparatus in general, in subclass <b>F23Q</b>;</li><li>the whole electrical part of section <b>G</b>, i.e. measuring devices including apparatus for measuring electric variables, checking, signalling and calculating. Electricity in that section is generally dealt with as a means and not as an end in itself;</li></ul></li><li>All electrical applications, both general and particular, presuppose that the \"basic electricity\" aspect appears in section <b>H</b> (see I(a) above) as regards the electric \"basic elements\" which they comprise. This rule is also valid for applied electricity, referred to in I(c), above, which appears in section <b>H</b> itself.</li></ul></li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_H.txt",
+      "kind": "ipc"
+    },
+    "H01H1/00": {
+      "code": "H01H1/00",
+      "level": 0,
+      "parent": "H01H",
+      "ja": "接点（液体接点Ｈ０１Ｈ２９／０４）",
+      "en": "Contacts(liquid contacts <b>H01H29/04</b>)",
+      "count": 4150,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H1/02": {
+      "code": "H01H1/02",
+      "level": 1,
+      "parent": "H01H1/00",
+      "ja": "それらの材質を特徴とするもの",
+      "en": "characterised by the material thereof",
+      "count": 3746,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H1/021": {
+      "code": "H01H1/021",
+      "level": 2,
+      "parent": "H01H1/02",
+      "ja": "複合材料［８］<br><br><b><ul>注</ul></b><br>（１）このサブグループにおいては，下記の用語は以下に示す意味で用いる：［８］<br>―“複合材料”とは，２以上の異なる材料からなる材料を意味する。例．被覆材料，積層材料，または銅を基またはマトリックスとした炭素繊維［８］<br>（２）グループ１／０２３～１／０２９の内２以上のグループに分類される主題事項は，全ての関連グループに分類されるべきである。［８］",
+      "en": "Composite material; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this group, the following expression is used with the meaning indicated:<ul><li>\"composite material\" is a material made of two or more different materials, e.g. coated material, layered materials or carbon fibres in a copper base or matrix.</li></ul></li><li>Subject matter classifiable in more than one of groups <b>H01H1/023 to H01H1/029</b>  should be classified in all relevant groups.</li></ul>",
+      "count": 743,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H1/023": {
+      "code": "H01H1/023",
+      "level": 3,
+      "parent": "H01H1/021",
+      "ja": "基本材料に貴金属を有するもの［８］",
+      "en": "having a noble metal as the basic material",
+      "count": 2369,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H1/0233": {
+      "code": "H01H1/0233",
+      "level": 4,
+      "parent": "H01H1/023",
+      "ja": "炭化物をも含むもの［８］",
+      "en": "and containing carbides",
+      "count": 192,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H1/0237": {
+      "code": "H01H1/0237",
+      "level": 4,
+      "parent": "H01H1/023",
+      "ja": "酸化物をも含むもの［８］",
+      "en": "and containing oxides",
+      "count": 754,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H1/025": {
+      "code": "H01H1/025",
+      "level": 3,
+      "parent": "H01H1/021",
+      "ja": "基本材料に銅を有するもの［８］",
+      "en": "having copper as the basic material",
+      "count": 1144,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H1/027": {
+      "code": "H01H1/027",
+      "level": 3,
+      "parent": "H01H1/021",
+      "ja": "炭素粒子または炭素繊維を含むもの［８］",
+      "en": "containing carbon particles or fibres",
+      "count": 352,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H1/029": {
+      "code": "H01H1/029",
+      "level": 3,
+      "parent": "H01H1/021",
+      "ja": "弾性のある支持材料または接合材料に分散されている導電材料からなるもの［８］",
+      "en": "comprising conducting material dispersed in an elastic support or binding material",
+      "count": 351,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H1/04": {
+      "code": "H01H1/04",
+      "level": 2,
+      "parent": "H01H1/02",
+      "ja": "異材質の協動接点",
+      "en": "Co-operating contacts of different material",
+      "count": 1950,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H1/06": {
+      "code": "H01H1/06",
+      "level": 1,
+      "parent": "H01H1/00",
+      "ja": "接触面の形または構造を特徴とするもの，例．溝状のもの",
+      "en": "characterised by the shape or structure of the contact-making surface, e.g. grooved",
+      "count": 4760,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H1/08": {
+      "code": "H01H1/08",
+      "level": 2,
+      "parent": "H01H1/06",
+      "ja": "水銀により浸されたもの",
+      "en": "wetted with mercury",
+      "count": 531,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H1/10": {
+      "code": "H01H1/10",
+      "level": 2,
+      "parent": "H01H1/06",
+      "ja": "分割された接触面をもつ成層接点",
+      "en": "Laminated contacts with divided contact surface",
+      "count": 480,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H1/12": {
+      "code": "H01H1/12",
+      "level": 1,
+      "parent": "H01H1/00",
+      "ja": "協動接点の接触態様に特徴のあるもの",
+      "en": "characterised by the manner in which co-operating contacts engage",
+      "count": 544,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H1/14": {
+      "code": "H01H1/14",
+      "level": 2,
+      "parent": "H01H1/12",
+      "ja": "衝合によるもの",
+      "en": "by abutting",
+      "count": 1045,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H1/16": {
+      "code": "H01H1/16",
+      "level": 3,
+      "parent": "H01H1/14",
+      "ja": "ころがりによるもの；重さなりによるもの；ローラまたはボール接点",
+      "en": "by rolling; by wrapping; Roller or ball contacts",
+      "count": 954,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H1/18": {
+      "code": "H01H1/18",
+      "level": 3,
+      "parent": "H01H1/14",
+      "ja": "スライドを伴うもの",
+      "en": "with subsequent sliding",
+      "count": 940,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H1/20": {
+      "code": "H01H1/20",
+      "level": 3,
+      "parent": "H01H1/14",
+      "ja": "橋絡接点",
+      "en": "Bridging contacts",
+      "count": 2270,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H1/22": {
+      "code": "H01H1/22",
+      "level": 3,
+      "parent": "H01H1/14",
+      "ja": "可動接点を装着する強固な枢支部材をもつもの",
+      "en": "with rigid pivoted member carrying the moving contact",
+      "count": 990,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H1/24": {
+      "code": "H01H1/24",
+      "level": 3,
+      "parent": "H01H1/14",
+      "ja": "弾性的に組み立てられたもの",
+      "en": "with resilient mounting",
+      "count": 1531,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H1/26": {
+      "code": "H01H1/26",
+      "level": 4,
+      "parent": "H01H1/24",
+      "ja": "バネ片支持をもつもの",
+      "en": "with spring blade support",
+      "count": 1753,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H1/28": {
+      "code": "H01H1/28",
+      "level": 5,
+      "parent": "H01H1/26",
+      "ja": "３つ以上の接点バネ組立",
+      "en": "Assembly of three or more contact-supporting spring blades",
+      "count": 283,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H1/30": {
+      "code": "H01H1/30",
+      "level": 4,
+      "parent": "H01H1/24",
+      "ja": "支持案内をもつもの",
+      "en": "within supporting guides",
+      "count": 68,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H1/32": {
+      "code": "H01H1/32",
+      "level": 3,
+      "parent": "H01H1/14",
+      "ja": "自己整列接点",
+      "en": "Self-aligning contacts",
+      "count": 136,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H1/34": {
+      "code": "H01H1/34",
+      "level": 3,
+      "parent": "H01H1/14",
+      "ja": "協動接点相互の位置を調節する手段をもつもの",
+      "en": "with provision for adjusting position of contact relative to its co-operating contact",
+      "count": 292,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H1/36": {
+      "code": "H01H1/36",
+      "level": 2,
+      "parent": "H01H1/12",
+      "ja": "スライドによるもの",
+      "en": "by sliding",
+      "count": 1651,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H1/38": {
+      "code": "H01H1/38",
+      "level": 3,
+      "parent": "H01H1/36",
+      "ja": "差し込みと受け栓接点",
+      "en": "Plug-and-socket contacts",
+      "count": 1441,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H1/40": {
+      "code": "H01H1/40",
+      "level": 3,
+      "parent": "H01H1/36",
+      "ja": "接点の接触面が隣接の絶縁体と同平面であるように取り付けられたもの",
+      "en": "Contact mounted so that its contact-making surface is flush with adjoining insulation",
+      "count": 693,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H1/42": {
+      "code": "H01H1/42",
+      "level": 3,
+      "parent": "H01H1/36",
+      "ja": "ナイフおよびクリップ接点",
+      "en": "Knife-and-clip contacts",
+      "count": 1355,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H1/44": {
+      "code": "H01H1/44",
+      "level": 3,
+      "parent": "H01H1/36",
+      "ja": "弾性的に組み立てられたもの",
+      "en": "with resilient mounting",
+      "count": 825,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H1/46": {
+      "code": "H01H1/46",
+      "level": 3,
+      "parent": "H01H1/36",
+      "ja": "自己整列接点",
+      "en": "self-aligning contacts",
+      "count": 131,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H1/48": {
+      "code": "H01H1/48",
+      "level": 3,
+      "parent": "H01H1/36",
+      "ja": "協動接点相互の位置を調節する手段をもつもの",
+      "en": "with provision for adjusting position of contact relative to its co-operating contact",
+      "count": 127,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H1/50": {
+      "code": "H01H1/50",
+      "level": 1,
+      "parent": "H01H1/00",
+      "ja": "接触圧力の増大，接点の振動防止，係合後の接点位置の保持または開放位置への偏倚装置",
+      "en": "Means for increasing contact pressure, preventing vibration of contacts, holding contacts together after engagement, or biasing contacts to the open position",
+      "count": 4164,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H1/52": {
+      "code": "H01H1/52",
+      "level": 2,
+      "parent": "H01H1/50",
+      "ja": "掛止めに適した接点",
+      "en": "Contacts adapted to act as latches",
+      "count": 280,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H1/54": {
+      "code": "H01H1/54",
+      "level": 2,
+      "parent": "H01H1/50",
+      "ja": "磁力によるもの",
+      "en": "by magnetic force",
+      "count": 1095,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H1/56": {
+      "code": "H01H1/56",
+      "level": 1,
+      "parent": "H01H1/00",
+      "ja": "開放前に閉合位置をとる接点装置，例．負荷時タップ切り換え",
+      "en": "Contact arrangements for providing make-before-break operation, e.g. for on-load tap-changing",
+      "count": 797,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H1/58": {
+      "code": "H01H1/58",
+      "level": 1,
+      "parent": "H01H1/00",
+      "ja": "接点または接点間の電気的接続；ターミナル",
+      "en": "Electric connections to or between contacts; Terminals",
+      "count": 9530,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H1/60": {
+      "code": "H01H1/60",
+      "level": 1,
+      "parent": "H01H1/00",
+      "ja": "接触面を清浄または滑らかにするためにスイッチと関連した構造上の補助装置（接点の常時摺動による清浄Ｈ０１Ｈ１／１８，Ｈ０１Ｈ１／３６）",
+      "en": "Auxiliary means structurally associated with the switch for cleaning or lubricating contact-making surfaces(cleaning by normal sliding of contacts <b>H01H1/18</b>, <b>H01H1/36</b>)",
+      "count": 1153,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H1/62": {
+      "code": "H01H1/62",
+      "level": 1,
+      "parent": "H01H1/00",
+      "ja": "接点の加熱または冷却",
+      "en": "Heating or cooling of contacts",
+      "count": 832,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H1/64": {
+      "code": "H01H1/64",
+      "level": 1,
+      "parent": "H01H1/00",
+      "ja": "接点に対する保護囲い，バッフル板または遮へい",
+      "en": "Protective enclosures, baffle plates, or screens for contacts",
+      "count": 1109,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H1/66": {
+      "code": "H01H1/66",
+      "level": 2,
+      "parent": "H01H1/64",
+      "ja": "真空またはガス充てん容器内に封じられた接点，例．リード接点",
+      "en": "Contacts sealed in an evacuated or gas-filled envelope, e.g. magnetic dry-reed contacts",
+      "count": 1321,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H3/00": {
+      "code": "H01H3/00",
+      "level": 0,
+      "parent": "H01H",
+      "ja": "接点の操作機構（熱作動または釈放手段Ｈ０１Ｈ３７／０２）",
+      "en": "Mechanisms for operating contacts(thermal actuating or release means <b>H01H37/02</b>)",
+      "count": 2665,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H3/02": {
+      "code": "H01H3/02",
+      "level": 1,
+      "parent": "H01H3/00",
+      "ja": "操作部分，すなわちスイッチに対して機械的外力によって駆動機構を操作するためのもの",
+      "en": "Operating parts, i.e. for operating driving mechanism by a mechanical force external to the switch",
+      "count": 8343,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H3/04": {
+      "code": "H01H3/04",
+      "level": 2,
+      "parent": "H01H3/02",
+      "ja": "レバー（タンブラＨ０１Ｈ２３／１４）",
+      "en": "Levers(tumblers <b>H01H23/14</b>)",
+      "count": 1160,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H3/06": {
+      "code": "H01H3/06",
+      "level": 3,
+      "parent": "H01H3/04",
+      "ja": "駆動機構の軸に対する固着装置",
+      "en": "Means for securing to shaft of driving mechanism",
+      "count": 203,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H3/08": {
+      "code": "H01H3/08",
+      "level": 2,
+      "parent": "H01H3/02",
+      "ja": "回転つまみ",
+      "en": "Turn knobs",
+      "count": 1122,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H3/10": {
+      "code": "H01H3/10",
+      "level": 3,
+      "parent": "H01H3/08",
+      "ja": "駆動機構の軸に対する固着装置",
+      "en": "Means for securing to shaft of driving mechanism",
+      "count": 414,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H3/12": {
+      "code": "H01H3/12",
+      "level": 2,
+      "parent": "H01H3/02",
+      "ja": "押ボタン",
+      "en": "Push-buttons",
+      "count": 4718,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H3/14": {
+      "code": "H01H3/14",
+      "level": 2,
+      "parent": "H01H3/02",
+      "ja": "手以外の人体の部分による操作に適したもの，例．足によるもの",
+      "en": "adapted for operation by a part of the human body other than the hand, e.g. by foot",
+      "count": 2208,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H3/16": {
+      "code": "H01H3/16",
+      "level": 2,
+      "parent": "H01H3/02",
+      "ja": "物体の通路内の限られた位置または予定位置で作動するに適するもの，スイッチと物体との相対運動が最初スイッチの作動とは別な目的であるもの，例．ドアスイッチ，リミットスイッチ，昇降機の床のレベリングスイッチ",
+      "en": "adapted for actuation at a limit or other predetermined position in the path of a body, the relative movement of switch and body being primarily for a purpose other than the actuation of the switch, e.g. for a door switch, a limit switch, a floor-levelling switch of a lift",
+      "count": 4917,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H3/18": {
+      "code": "H01H3/18",
+      "level": 3,
+      "parent": "H01H3/16",
+      "ja": "１方向の運動が手により意識的にされるもの，例．方向指示器を自動的に消す装置のためのもの",
+      "en": "the movement in one direction being intentionally by hand, e.g. for setting automatically cancelled trafficators",
+      "count": 473,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H3/20": {
+      "code": "H01H3/20",
+      "level": 2,
+      "parent": "H01H3/02",
+      "ja": "主動作が可能または有効になる前に，例えば解錠のためまたは結合のための補助動作または付属物の動作を必要とするもの",
+      "en": "wherein an auxiliary movement thereof, or of an attachment thereto, is necessary before the main movement is possible or effective, e.g. for unlatching, for coupling",
+      "count": 1401,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H3/22": {
+      "code": "H01H3/22",
+      "level": 1,
+      "parent": "H01H3/00",
+      "ja": "駆動機構を操作するスイッチの内部動力装置",
+      "en": "Power arrangements internal to the switch for operating the driving mechanism",
+      "count": 1107,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H3/24": {
+      "code": "H01H3/24",
+      "level": 2,
+      "parent": "H01H3/22",
+      "ja": "圧縮空気または液圧作動体を使用するもの",
+      "en": "using pneumatic or hydraulic actuator",
+      "count": 1496,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H3/26": {
+      "code": "H01H3/26",
+      "level": 2,
+      "parent": "H01H3/22",
+      "ja": "電動機を使用するもの（スプリングモータに蓄勢するものＨ０１Ｈ３／３０）",
+      "en": "using dynamo-electric motor(for storing energy in a spring motor <b>H01H3/30</b>)",
+      "count": 3721,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H3/28": {
+      "code": "H01H3/28",
+      "level": 2,
+      "parent": "H01H3/22",
+      "ja": "電磁石を使用するもの（スプリングモータに蓄勢するものＨ０１Ｈ３／３０；リレーを操作するものＨ０１Ｈ４５／００）",
+      "en": "using electromagnet(for storing energy in a spring motor <b>H01H3/30</b>; for operating relays <b>H01H45/00</b>)",
+      "count": 3345,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H3/30": {
+      "code": "H01H3/30",
+      "level": 2,
+      "parent": "H01H3/22",
+      "ja": "スプリングモータを使用するもの",
+      "en": "using spring motor",
+      "count": 3320,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H3/32": {
+      "code": "H01H3/32",
+      "level": 1,
+      "parent": "H01H3/00",
+      "ja": "駆動機構，すなわち接点に対して駆動力を伝えるもの（速動装置Ｈ０１Ｈ５／００；予定の遅延を生じるものＨ０１Ｈ７／００）",
+      "en": "Driving mechanisms, i.e. for transmitting driving force to the contacts(snap-action arrangements <b>H01H5/00</b>; introducing a predetermined time delay <b>H01H7/00</b>)",
+      "count": 5606,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H3/34": {
+      "code": "H01H3/34",
+      "level": 2,
+      "parent": "H01H3/32",
+      "ja": "ラチエットを使用するもの",
+      "en": "using ratchet",
+      "count": 390,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H3/36": {
+      "code": "H01H3/36",
+      "level": 2,
+      "parent": "H01H3/32",
+      "ja": "ベルト，チェーン，コードを使用するもの",
+      "en": "using belt, chain, or cord",
+      "count": 389,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H3/38": {
+      "code": "H01H3/38",
+      "level": 2,
+      "parent": "H01H3/32",
+      "ja": "スプリングまたは他の可撓軸の接手を使用するもの",
+      "en": "using spring or other flexible shaft coupling",
+      "count": 1643,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H3/40": {
+      "code": "H01H3/40",
+      "level": 2,
+      "parent": "H01H3/32",
+      "ja": "摩擦，歯，または回転移動ナット装置を使用するもの",
+      "en": "using friction, toothed, or screw-and-nut gearing",
+      "count": 2274,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H3/42": {
+      "code": "H01H3/42",
+      "level": 2,
+      "parent": "H01H3/32",
+      "ja": "カムまたは偏心を使用するもの",
+      "en": "using cam or eccentric",
+      "count": 2102,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H3/44": {
+      "code": "H01H3/44",
+      "level": 2,
+      "parent": "H01H3/32",
+      "ja": "ゼネバ運動を使用するもの",
+      "en": "using Geneva movement",
+      "count": 186,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H3/46": {
+      "code": "H01H3/46",
+      "level": 2,
+      "parent": "H01H3/32",
+      "ja": "ロッドまたはレバーの連係を使用するもの，例．トッグル",
+      "en": "using rod or lever linkage, e.g. toggle",
+      "count": 2818,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H3/48": {
+      "code": "H01H3/48",
+      "level": 2,
+      "parent": "H01H3/32",
+      "ja": "空ら動き装置を使用するもの",
+      "en": "using lost-motion device",
+      "count": 147,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H3/50": {
+      "code": "H01H3/50",
+      "level": 2,
+      "parent": "H01H3/32",
+      "ja": "指示または位置限定手段をもつもの，例．ボールとスプリングによる指示",
+      "en": "with indexing or locating means, e.g. indexing by ball and spring",
+      "count": 977,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H3/52": {
+      "code": "H01H3/52",
+      "level": 2,
+      "parent": "H01H3/32",
+      "ja": "中間操作位置で停止を確実にする手段をもつもの",
+      "en": "with means to ensure stopping at intermediate operative positions",
+      "count": 370,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H3/54": {
+      "code": "H01H3/54",
+      "level": 1,
+      "parent": "H01H3/00",
+      "ja": "操作部分，駆動機構または接点を結合および離脱するための機構",
+      "en": "Mechanisms for coupling or uncoupling operating parts, driving mechanisms, or contacts",
+      "count": 633,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H3/56": {
+      "code": "H01H3/56",
+      "level": 2,
+      "parent": "H01H3/54",
+      "ja": "電磁的クラッチを使用するもの",
+      "en": "using electromagnetic clutch",
+      "count": 167,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H3/58": {
+      "code": "H01H3/58",
+      "level": 2,
+      "parent": "H01H3/54",
+      "ja": "摩擦，歯または他の機械的クラッチを使用するもの",
+      "en": "using friction, toothed, or other mechanical clutch",
+      "count": 628,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H3/60": {
+      "code": "H01H3/60",
+      "level": 1,
+      "parent": "H01H3/00",
+      "ja": "振動または衝撃を防止または抑制する機械的装置",
+      "en": "Mechanical arrangements for preventing or damping vibration or shock",
+      "count": 2236,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H3/62": {
+      "code": "H01H3/62",
+      "level": 1,
+      "parent": "H01H3/00",
+      "ja": "スイッチと構造上関連した潤滑装置（接触面を滑らかにするものＨ０１Ｈ１／６０）",
+      "en": "Lubricating means structurally associated with the switch(for lubricating contact-making surfaces <b>H01H1/60</b>)",
+      "count": 211,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H5/00": {
+      "code": "H01H5/00",
+      "level": 0,
+      "parent": "H01H",
+      "ja": "速動装置，すなわち１回の開放操作または閉合操作中勢力が最初蓄積されそれから接点運動を生じるかまたは助けるために放出されるもの",
+      "en": "Snap-action arrangements, i.e. in which during a single opening operation or a single closing operation energy is first stored and then released to produce or assist the contact movement",
+      "count": 366,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H5/02": {
+      "code": "H01H5/02",
+      "level": 1,
+      "parent": "H01H5/00",
+      "ja": "磁気部品の吸引または反発作用により勢力が蓄積されるもの",
+      "en": "Energy stored by the attraction or repulsion of magnetic parts",
+      "count": 739,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H5/04": {
+      "code": "H01H5/04",
+      "level": 1,
+      "parent": "H01H5/00",
+      "ja": "弾性部材の変形により勢力が蓄積されるもの（熱作動スイッチのバイメタル素子の変形によるものＨ０１Ｈ３７／５４）",
+      "en": "Energy stored by deformation of elastic members(by deformation of bimetallic element in thermally-actuated switches <b>H01H37/54</b>)",
+      "count": 675,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H5/06": {
+      "code": "H01H5/06",
+      "level": 2,
+      "parent": "H01H5/04",
+      "ja": "コイルバネの圧縮または伸張によるもの",
+      "en": "by compression or extension of coil springs",
+      "count": 1054,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H5/08": {
+      "code": "H01H5/08",
+      "level": 3,
+      "parent": "H01H5/06",
+      "ja": "バネの一端が操作部分により動かされる時，その他端が接点部材に動きを伝えるもの",
+      "en": "one end of spring transmitting movement to the contact member when the other end is moved by the operating part",
+      "count": 167,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H5/10": {
+      "code": "H01H5/10",
+      "level": 3,
+      "parent": "H01H5/06",
+      "ja": "バネの一端がスイッチの固定または可動部分に固定して接続され他端がピン，カム，噛合いまたは他の形状表面を介してそれぞれ可動または固定剛性部材と共に反動するもの",
+      "en": "one end of spring being fixedly connected to the stationary or movable part of the switch, and the other end reacting with a movable or stationary rigid member respectively through pins, cams, toothed, or other shaped surfaces",
+      "count": 100,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H5/12": {
+      "code": "H01H5/12",
+      "level": 3,
+      "parent": "H01H5/06",
+      "ja": "連続的に２つ以上の速動運動を行なうもの",
+      "en": "having two or more snap-action motions in succession",
+      "count": 51,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H5/14": {
+      "code": "H01H5/14",
+      "level": 2,
+      "parent": "H01H5/04",
+      "ja": "ねじれ部材のねじれによるもの",
+      "en": "by twisting of torsion members",
+      "count": 64,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H5/16": {
+      "code": "H01H5/16",
+      "level": 3,
+      "parent": "H01H5/14",
+      "ja": "ねじれ部材が十分に変形するまで部品を一時的に保持するための補助手段をもつもの",
+      "en": "with auxiliary means for temporarily holding parts until torsion member is sufficiently strained",
+      "count": 83,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H5/18": {
+      "code": "H01H5/18",
+      "level": 2,
+      "parent": "H01H5/04",
+      "ja": "板バネの曲げによるもの",
+      "en": "by flexing of blade springs",
+      "count": 925,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H5/20": {
+      "code": "H01H5/20",
+      "level": 3,
+      "parent": "H01H5/18",
+      "ja": "１枚の板バネが死点を越えて動くもの",
+      "en": "single blade moved across dead-centre position",
+      "count": 136,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H5/22": {
+      "code": "H01H5/22",
+      "level": 3,
+      "parent": "H01H5/18",
+      "ja": "少なくとも１つの速動作動脚と少なくとも１つの別の接点装着脚または接点作動脚とをもつ板バネ",
+      "en": "blade spring with at least one snap-acting leg and at least one separate contact-carrying or contact-actuating leg",
+      "count": 123,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H5/24": {
+      "code": "H01H5/24",
+      "level": 4,
+      "parent": "H01H5/22",
+      "ja": "３つの脚をもつもの",
+      "en": "having three legs",
+      "count": 91,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H5/26": {
+      "code": "H01H5/26",
+      "level": 3,
+      "parent": "H01H5/18",
+      "ja": "連続的に２つ以上の速動作動運動を行なうもの",
+      "en": "having two or more snap-action motions in succession",
+      "count": 9,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H5/28": {
+      "code": "H01H5/28",
+      "level": 3,
+      "parent": "H01H5/18",
+      "ja": "トッグルを構成する２つの別の板バネによるもの",
+      "en": "two separate blade springs forming a toggle",
+      "count": 93,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H5/30": {
+      "code": "H01H5/30",
+      "level": 2,
+      "parent": "H01H5/04",
+      "ja": "円盤形ばねの弯曲によるもの",
+      "en": "by buckling of disc springs",
+      "count": 391,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H7/00": {
+      "code": "H01H7/00",
+      "level": 0,
+      "parent": "H01H",
+      "ja": "開閉操作の開始と接点の開放または閉合との間に予め定められた遅延時間を作る装置（時限または時限プログラムスイッチＨ０１Ｈ４３／００）",
+      "en": "Devices for introducing a predetermined time delay between the initiation of the switching operation and the opening or closing of the contacts(time or time-programme switches <b>H01H43/00</b>)",
+      "count": 425,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H7/02": {
+      "code": "H01H7/02",
+      "level": 1,
+      "parent": "H01H7/00",
+      "ja": "流体時限装置をもつもの",
+      "en": "with fluid timing means",
+      "count": 151,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H7/03": {
+      "code": "H01H7/03",
+      "level": 2,
+      "parent": "H01H7/02",
+      "ja": "ダッシュポットをもつもの",
+      "en": "with dash-pots",
+      "count": 271,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H7/04": {
+      "code": "H01H7/04",
+      "level": 2,
+      "parent": "H01H7/02",
+      "ja": "羽根調速機をもつもの，すなわちファンガバナ",
+      "en": "with flies, i.e. fan governors",
+      "count": 26,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H7/06": {
+      "code": "H01H7/06",
+      "level": 1,
+      "parent": "H01H7/00",
+      "ja": "熱的時限装置をもつもの",
+      "en": "with thermal timing means",
+      "count": 181,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H7/08": {
+      "code": "H01H7/08",
+      "level": 1,
+      "parent": "H01H7/00",
+      "ja": "機械的速度調整装置により時限をもつもの",
+      "en": "with timing by mechanical speed-control devices",
+      "count": 265,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H7/10": {
+      "code": "H01H7/10",
+      "level": 2,
+      "parent": "H01H7/08",
+      "ja": "エスケープメントによるもの",
+      "en": "by escapement",
+      "count": 29,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H7/12": {
+      "code": "H01H7/12",
+      "level": 3,
+      "parent": "H01H7/10",
+      "ja": "機械的",
+      "en": "mechanical",
+      "count": 118,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H7/14": {
+      "code": "H01H7/14",
+      "level": 3,
+      "parent": "H01H7/10",
+      "ja": "電磁的",
+      "en": "electromagnetic",
+      "count": 110,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H7/16": {
+      "code": "H01H7/16",
+      "level": 1,
+      "parent": "H01H7/00",
+      "ja": "交流周波の予め定められた点でスイッチの操作を確実にする装置（回路装置Ｈ０１Ｈ９／５６）",
+      "en": "Devices for ensuring operation of the switch at a predetermined point in the AC cycle(circuit arrangements <b>H01H9/56</b>)",
+      "count": 103,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H9/00": {
+      "code": "H01H9/00",
+      "level": 0,
+      "parent": "H01H",
+      "ja": "グループＨ０１Ｈ１／００～Ｈ０１Ｈ７／００に含まれない開閉装置の細部",
+      "en": "Details of switching devices, not covered by groups <b>H01H1/00 to H01H7/00</b> ",
+      "count": 9665,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H9/02": {
+      "code": "H01H9/02",
+      "level": 1,
+      "parent": "H01H9/00",
+      "ja": "基台，ケーシングまたはカバー（複数のスイッチまたは１つのスイッチと他の電気的構成物に適用するものＨ０２Ｂ１／２６）",
+      "en": "Bases, casings, or covers(accommodating more than one switch or a switch and another electrical component <b>H02B1/26</b>)",
+      "count": 24035,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H9/04": {
+      "code": "H01H9/04",
+      "level": 2,
+      "parent": "H01H9/02",
+      "ja": "防塵，防まつ，防滴，防水，または防火の箱",
+      "en": "Dustproof, splashproof, drip-proof, waterproof, or flameproof casings",
+      "count": 9745,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H9/06": {
+      "code": "H01H9/06",
+      "level": 2,
+      "parent": "H01H9/02",
+      "ja": "スイッチの作動以外の目的に供するハンドルにより構成されたスイッチのケーシング，例．真空掃除器のハンドルによるもの",
+      "en": "Casing of switch constituted by a handle serving a purpose other than the actuation of the switch, e.g. by the handle of a vacuum cleaner",
+      "count": 1607,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H9/08": {
+      "code": "H01H9/08",
+      "level": 1,
+      "parent": "H01H9/00",
+      "ja": "スイッチの交換を容易にする装置，例．カートリッジハウジング",
+      "en": "Arrangements to facilitate replacement of switch, e.g. cartridge housing",
+      "count": 1209,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H9/10": {
+      "code": "H01H9/10",
+      "level": 1,
+      "parent": "H01H9/00",
+      "ja": "ヒューズの組込に適するもの（スイッチおよびヒューズを共通の支持体上または内に装着するものＨ０２Ｂ１／１８）",
+      "en": "Adaptation for built-in fuses(mounting switch and fuse separately on, or in, common support <b>H02B1/18</b>)",
+      "count": 2103,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H9/12": {
+      "code": "H01H9/12",
+      "level": 1,
+      "parent": "H01H9/00",
+      "ja": "接点に通常導電的に接続されないスイッチ部品を接地する装置",
+      "en": "Means for earthing parts of switch not normally conductively connected to the contacts",
+      "count": 620,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H9/14": {
+      "code": "H01H9/14",
+      "level": 1,
+      "parent": "H01H9/00",
+      "ja": "安全放電間隙の組み込みに適合するもの",
+      "en": "Adaptation for built-in safety spark gaps",
+      "count": 129,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H9/16": {
+      "code": "H01H9/16",
+      "level": 1,
+      "parent": "H01H9/00",
+      "ja": "開閉状態の表示，例．“オン”または“オフ”",
+      "en": "Indicators for switching condition, e.g. \"on\" or \"off\"",
+      "count": 11302,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H9/18": {
+      "code": "H01H9/18",
+      "level": 1,
+      "parent": "H01H9/00",
+      "ja": "スイッチの識別マーク，例．暗所でスイッチの所在を示すためのもの；識別マークを収容するためのスイッチの適応",
+      "en": "Distinguishing marks on switches, e.g. for indicating switch location in the dark; Adaptation of switches to receive distinguishing marks",
+      "count": 6719,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H9/20": {
+      "code": "H01H9/20",
+      "level": 1,
+      "parent": "H01H9/00",
+      "ja": "相互鎖錠，鎖錠または掛止め機構",
+      "en": "Interlocking, locking, or latching mechanisms",
+      "count": 7201,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H9/22": {
+      "code": "H01H9/22",
+      "level": 2,
+      "parent": "H01H9/20",
+      "ja": "箱，蓋，または保護シャッターと接点操作機構との間を相互鎖錠するためのもの",
+      "en": "for interlocking between casing, cover, or protective shutter and mechanism for operating contacts",
+      "count": 4559,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H9/24": {
+      "code": "H01H9/24",
+      "level": 2,
+      "parent": "H01H9/20",
+      "ja": "接点操作機構の２以上の部分を相互鎖錠するためのもの",
+      "en": "for interlocking two or more parts of the mechanism for operating contacts",
+      "count": 1291,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H9/26": {
+      "code": "H01H9/26",
+      "level": 2,
+      "parent": "H01H9/20",
+      "ja": "２以上のスイッチを相互鎖錠するためのもの（取り外し可能の部材によるものＨ０１Ｈ９／２８）",
+      "en": "for interlocking two or more switches(by a detachable member <b>H01H9/28</b>)",
+      "count": 5790,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H9/28": {
+      "code": "H01H9/28",
+      "level": 2,
+      "parent": "H01H9/20",
+      "ja": "キーまたは同等の取り外し可能の部材によりスイッチ部分を鎖錠するためのもの（キーで操作されるスイッチＨ０１Ｈ２７／００；２つの部材が結合した装置のうち取り外せる部材によって鎖錠するものＨ０１Ｒ）",
+      "en": "for locking switch parts by a key or equivalent removable member(switches operated by a key <b>H01H27/00</b>; locking by removable part of two-part coupling device <b>H01R</b>)",
+      "count": 2747,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H9/30": {
+      "code": "H01H9/30",
+      "level": 1,
+      "parent": "H01H9/00",
+      "ja": "通電部分間の消弧またはアーク発生防止装置",
+      "en": "Means for extinguishing or preventing arc between current-carrying parts",
+      "count": 4453,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H9/32": {
+      "code": "H01H9/32",
+      "level": 2,
+      "parent": "H01H9/30",
+      "ja": "接点間にはめ込みうる絶縁体",
+      "en": "Insulating body insertable between contacts",
+      "count": 735,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H9/34": {
+      "code": "H01H9/34",
+      "level": 2,
+      "parent": "H01H9/30",
+      "ja": "アークを制限したり細分するための静止部品，例．バリヤプレート",
+      "en": "Stationary parts for restricting or subdividing the arc, e.g. barrier plate",
+      "count": 4035,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H9/36": {
+      "code": "H01H9/36",
+      "level": 3,
+      "parent": "H01H9/34",
+      "ja": "金属部品",
+      "en": "Metal parts",
+      "count": 1488,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H9/38": {
+      "code": "H01H9/38",
+      "level": 2,
+      "parent": "H01H9/30",
+      "ja": "アークを主接点から移す補助接点（アーキングホーンを使用するものＨ０１Ｈ９／４６）",
+      "en": "Auxiliary contacts on to which the arc is transferred from the main contacts(using arcing-horns <b>H01H9/46</b>)",
+      "count": 1085,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H9/40": {
+      "code": "H01H9/40",
+      "level": 2,
+      "parent": "H01H9/30",
+      "ja": "アークを通る電流またはアークに沿う電位降下を分割するための多重の主接点",
+      "en": "Multiple main contacts for the purpose of dividing the current through, or potential drop along, the arc",
+      "count": 370,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H9/42": {
+      "code": "H01H9/42",
+      "level": 2,
+      "parent": "H01H9/30",
+      "ja": "インピーダンスが接点に接続されたもの",
+      "en": "Impedances connected with contacts",
+      "count": 657,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H9/44": {
+      "code": "H01H9/44",
+      "level": 2,
+      "parent": "H01H9/30",
+      "ja": "磁気吹き消しを使用するもの",
+      "en": "using blow-out magnet",
+      "count": 3138,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H9/46": {
+      "code": "H01H9/46",
+      "level": 2,
+      "parent": "H01H9/30",
+      "ja": "アーキングホーンを用いるもの（磁気吹消しを用いるものＨ０１Ｈ９／４４）",
+      "en": "using arcing horns(using blow-out magnet <b>H01H9/44</b>)",
+      "count": 745,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H9/48": {
+      "code": "H01H9/48",
+      "level": 1,
+      "parent": "H01H9/00",
+      "ja": "電流が流れない部分に対する放電防止装置，例．コロナリングを使用するもの",
+      "en": "Means for preventing discharge to non-current-carrying parts, e.g. using corona ring",
+      "count": 255,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H9/50": {
+      "code": "H01H9/50",
+      "level": 1,
+      "parent": "H01H9/00",
+      "ja": "アークや放電の存在を検出する装置",
+      "en": "Means for detecting the presence of an arc or discharge",
+      "count": 367,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H9/52": {
+      "code": "H01H9/52",
+      "level": 1,
+      "parent": "H01H9/00",
+      "ja": "スイッチ部分の冷却（接点の冷却Ｈ０１Ｈ１／６２）",
+      "en": "Cooling of switch parts(cooling of contacts <b>H01H1/62</b>)",
+      "count": 5173,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H9/54": {
+      "code": "H01H9/54",
+      "level": 1,
+      "parent": "H01H9/00",
+      "ja": "開閉装置の特殊な使用に適せず，しかもそのための設備が他のどこにも存在しない回路装置",
+      "en": "Circuit arrangements not adapted to a particular application of the switching device and for which no provision exists elsewhere",
+      "count": 10644,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H9/56": {
+      "code": "H01H9/56",
+      "level": 2,
+      "parent": "H01H9/54",
+      "ja": "交流周波の定められた点でスイッチの操作を確実にするもの",
+      "en": "for ensuring operation of the switch at a predetermined point in the AC cycle",
+      "count": 1345,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H11/00": {
+      "code": "H01H11/00",
+      "level": 0,
+      "parent": "H01H",
+      "ja": "電気的スイッチの製造に特に適する装置または方法（異なる接点対に対応する複数の操作部材を有し，直線的に運動可能なスイッチの製造に特に適した工程，例．キーボードの製造に特に適した工程Ｈ０１Ｈ１３／８８）［１，８］",
+      "en": "Apparatus or processes specially adapted for the manufacture of electric switches(processes specially adapted for manufacture of rectilinearly movable switches having a plurality of operating members associated with different sets of contacts, e.g. keyboards, <b>H01H13/88</b>)",
+      "count": 12084,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H11/02": {
+      "code": "H01H11/02",
+      "level": 1,
+      "parent": "H01H11/00",
+      "ja": "水銀スイッチに対するもの",
+      "en": "for mercury switches",
+      "count": 151,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H11/04": {
+      "code": "H01H11/04",
+      "level": 1,
+      "parent": "H01H11/00",
+      "ja": "接点に関するもの",
+      "en": "of switch contacts",
+      "count": 5509,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H11/06": {
+      "code": "H01H11/06",
+      "level": 2,
+      "parent": "H01H11/04",
+      "ja": "取付台への接点の固着",
+      "en": "Fixing of contacts to carrier",
+      "count": 1802,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H13/00": {
+      "code": "H01H13/00",
+      "level": 0,
+      "parent": "H01H",
+      "ja": "１方向のみに押すか引くかするために使用する直線的可動操作部品をもつスイッチ，例．押ボタンスイッチ（その中で操作部分が可撓性であるものＨ０１Ｈ１７／００）",
+      "en": "Switches having rectilinearly-movable operating part or parts adapted for pushing or pulling in one direction only, e.g. push-button switch(wherein the operating part is flexible <b>H01H17/00</b>)",
+      "count": 5637,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H13/02": {
+      "code": "H01H13/02",
+      "level": 1,
+      "parent": "H01H13/00",
+      "ja": "細部［１，８］",
+      "en": "Details",
+      "count": 20511,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H13/04": {
+      "code": "H01H13/04",
+      "level": 2,
+      "parent": "H01H13/02",
+      "ja": "ケース；カバー",
+      "en": "Cases; Covers",
+      "count": 10326,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H13/06": {
+      "code": "H01H13/06",
+      "level": 3,
+      "parent": "H01H13/04",
+      "ja": "防塵，防まつ，防滴，防水または防火の箱",
+      "en": "Dustproof, splashproof, drip-proof, waterproof, or flameproof casings",
+      "count": 8869,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H13/08": {
+      "code": "H01H13/08",
+      "level": 3,
+      "parent": "H01H13/04",
+      "ja": "スイッチの作動以外の目的に供するハンドルにより構成されたスイッチのケーシング",
+      "en": "Casing of switch constituted by a handle serving a purpose other than the actuation of the switch",
+      "count": 788,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H13/10": {
+      "code": "H01H13/10",
+      "level": 2,
+      "parent": "H01H13/02",
+      "ja": "基台；固定接点がその上に取り付けられているもの",
+      "en": "Bases; Stationary contacts mounted thereon",
+      "count": 5669,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H13/12": {
+      "code": "H01H13/12",
+      "level": 2,
+      "parent": "H01H13/02",
+      "ja": "可動部分；接点がその上に取り付けられているもの",
+      "en": "Movable parts; Contacts mounted thereon",
+      "count": 12909,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H13/14": {
+      "code": "H01H13/14",
+      "level": 3,
+      "parent": "H01H13/12",
+      "ja": "操作部分，例．押ボタン",
+      "en": "Operating parts, e.g. push-button",
+      "count": 24665,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H13/16": {
+      "code": "H01H13/16",
+      "level": 4,
+      "parent": "H01H13/14",
+      "ja": "手以外の人体の部分による操作に適するもの，例．足によるもの",
+      "en": "adapted for operation by a part of the human body other than the hand, e.g. by foot",
+      "count": 1800,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H13/18": {
+      "code": "H01H13/18",
+      "level": 4,
+      "parent": "H01H13/14",
+      "ja": "物体の通路内の限られた位置または予定位置で作動するに適するもの，スイッチと物体との相対運動が最初スイッチの作動とは別な目的であるもの，例．ドアースイッチ，リミットスイッチ，昇降機の床のレベリングスイッチ",
+      "en": "adapted for actuation at a limit or other predetermined position in the path of a body, the relative movement of switch and body being primarily for a purpose other than the actuation of the switch, e.g. door switch, limit switch, floor-levelling switch of a lift",
+      "count": 3551,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H13/20": {
+      "code": "H01H13/20",
+      "level": 3,
+      "parent": "H01H13/12",
+      "ja": "駆動機構",
+      "en": "Driving mechanisms",
+      "count": 7381,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H13/22": {
+      "code": "H01H13/22",
+      "level": 4,
+      "parent": "H01H13/20",
+      "ja": "速動動作をするもの（弾性部材の変形によるものＨ０１Ｈ１３／２６）",
+      "en": "acting with snap action(depending upon deformation of elastic members <b>H01H13/26</b>)",
+      "count": 277,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H13/24": {
+      "code": "H01H13/24",
+      "level": 4,
+      "parent": "H01H13/20",
+      "ja": "予め定められた遅延を生じるための手段をもつもの",
+      "en": "with means for introducing a predetermined time delay",
+      "count": 143,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H13/26": {
+      "code": "H01H13/26",
+      "level": 2,
+      "parent": "H01H13/02",
+      "ja": "弾性部材の変形による速動装置",
+      "en": "Snap-action arrangements depending upon deformation of elastic members",
+      "count": 2187,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H13/28": {
+      "code": "H01H13/28",
+      "level": 3,
+      "parent": "H01H13/26",
+      "ja": "コイルばねの圧縮または伸長を用いるもの",
+      "en": "using compression or extension of coil springs",
+      "count": 2103,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H13/30": {
+      "code": "H01H13/30",
+      "level": 4,
+      "parent": "H01H13/28",
+      "ja": "ばねの他端が操作部分により動かされるときばねの一端が接点部材に動きを伝えるもの",
+      "en": "one end of spring transmitting movement to the contact member when the other end is moved by the operating part",
+      "count": 413,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H13/32": {
+      "code": "H01H13/32",
+      "level": 4,
+      "parent": "H01H13/28",
+      "ja": "ばねの一端がスイッチの固定または可動部分に固定して接続され，他端がピン，カム，歯または他の形状面を介してそれぞれ可動または固定剛性部材と共に反動するもの",
+      "en": "one end of spring being fixedly connected to the stationary or movable part of the switch and the other end reacting with a movable or stationary rigid member respectively through pins, cams, toothed, or other shaped surfaces",
+      "count": 200,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H13/34": {
+      "code": "H01H13/34",
+      "level": 4,
+      "parent": "H01H13/28",
+      "ja": "連続的に２以上の速動運動をもつもの",
+      "en": "having two or more snap-action motions in succession",
+      "count": 42,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H13/36": {
+      "code": "H01H13/36",
+      "level": 3,
+      "parent": "H01H13/26",
+      "ja": "板ばねの曲げを用いるもの",
+      "en": "using flexing of blade springs",
+      "count": 1953,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H13/38": {
+      "code": "H01H13/38",
+      "level": 4,
+      "parent": "H01H13/36",
+      "ja": "１枚の板が死点を越えて動くもの",
+      "en": "Single blade moved across dead-centre position",
+      "count": 378,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H13/40": {
+      "code": "H01H13/40",
+      "level": 4,
+      "parent": "H01H13/36",
+      "ja": "少なくとも１つの速動作動脚と少なくとも１つの別の接点装着脚または接点作動脚とをもつ板ばね",
+      "en": "Blade spring with at least one snap-acting leg and at least one separate contactcarrying or contact-actuating leg",
+      "count": 141,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H13/42": {
+      "code": "H01H13/42",
+      "level": 5,
+      "parent": "H01H13/40",
+      "ja": "３つの脚をもつもの",
+      "en": "having three legs",
+      "count": 248,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H13/44": {
+      "code": "H01H13/44",
+      "level": 4,
+      "parent": "H01H13/36",
+      "ja": "連続的に２以上の速動運動を行なうもの",
+      "en": "having two or more snap-action motions in succession",
+      "count": 38,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H13/46": {
+      "code": "H01H13/46",
+      "level": 4,
+      "parent": "H01H13/36",
+      "ja": "トッグルを構成する２つの別の板ばねによるもの",
+      "en": "two separate blade springs forming a toggle",
+      "count": 117,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H13/48": {
+      "code": "H01H13/48",
+      "level": 3,
+      "parent": "H01H13/26",
+      "ja": "円盤形ばねの弯曲を用いるもの",
+      "en": "using buckling of disc springs",
+      "count": 2073,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H13/50": {
+      "code": "H01H13/50",
+      "level": 1,
+      "parent": "H01H13/00",
+      "ja": "単一の操作部材をもつもの",
+      "en": "having a single operating member",
+      "count": 1142,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H13/52": {
+      "code": "H01H13/52",
+      "level": 2,
+      "parent": "H01H13/50",
+      "ja": "操作力の除去で直ちに最初の状態に復帰する接点，例．ベル押ボタンスイッチ",
+      "en": "the contact returning to its original state immediately upon removal of operating force, e.g. bell push switch",
+      "count": 8536,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H13/54": {
+      "code": "H01H13/54",
+      "level": 2,
+      "parent": "H01H13/50",
+      "ja": "操作力の除去後所定の時間間隔で最初の状態に復帰する接点，例．階段照明のためのもの",
+      "en": "the contact returning to its original state a predetermined time interval after removal of operating force, e.g. for staircase lighting",
+      "count": 161,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H13/56": {
+      "code": "H01H13/56",
+      "level": 2,
+      "parent": "H01H13/50",
+      "ja": "次の操作力を加えることにより最初の状態に復帰する接点",
+      "en": "the contact returning to its original state upon the next application of operating force",
+      "count": 3326,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H13/58": {
+      "code": "H01H13/58",
+      "level": 3,
+      "parent": "H01H13/56",
+      "ja": "１方向に階段状に回転する接点駆動部品をもつもの",
+      "en": "with contact-driving member rotated step-wise in one direction",
+      "count": 961,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H13/60": {
+      "code": "H01H13/60",
+      "level": 3,
+      "parent": "H01H13/56",
+      "ja": "反対方向に交互に動く接点駆動部品をもつもの",
+      "en": "with contact-driving member moved alternately in opposite directions",
+      "count": 570,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H13/62": {
+      "code": "H01H13/62",
+      "level": 2,
+      "parent": "H01H13/50",
+      "ja": "接点が掛止めの手動解放で最初の状態に復帰するもの（第２の押ボタンにより掛止めを解くものＨ０１Ｈ１３／６８）",
+      "en": "the contact returning to its original state upon manual release of a latch(latch released by second push-button <b>H01H13/68</b>)",
+      "count": 735,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H13/64": {
+      "code": "H01H13/64",
+      "level": 2,
+      "parent": "H01H13/50",
+      "ja": "スイッチが２以上の電気的に別の位置をもつもの，例．複位置押ボタンスイッチ",
+      "en": "wherein the switch has more than two electrically distinguishable positions, e.g. multi-position push-button switches",
+      "count": 1527,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H13/66": {
+      "code": "H01H13/66",
+      "level": 3,
+      "parent": "H01H13/64",
+      "ja": "操作部材が２位置だけ動くもの",
+      "en": "the operating member having only two positions",
+      "count": 557,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H13/68": {
+      "code": "H01H13/68",
+      "level": 1,
+      "parent": "H01H13/00",
+      "ja": "２つの操作部材をもつもので，同一セットの接点を一方は開放し他方が閉合するもの（単一の操作部材が反対端を代る代るに押圧するためスイッチ箱の異なる側より突出しているものＨ０１Ｈ１５／２２）",
+      "en": "having two operating members, one for opening and one for closing the same set of contacts(single operating member protruding from different sides of switch casing for alternate pushing upon opposite ends <b>H01H15/22</b>)",
+      "count": 731,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H13/70": {
+      "code": "H01H13/70",
+      "level": 1,
+      "parent": "H01H13/00",
+      "ja": "異なる接点対に対応する複数の操作部材を有するもの，例．キーボード（独立したスイッチの複数を一緒に取り付けるものはＨ０２Ｂ）",
+      "en": "having a plurality of operating members associated with different sets of contacts, e.g. keyboard(mounting together a plurality of independent switches <b>H02B</b>)",
+      "count": 12990,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H13/702": {
+      "code": "H01H13/702",
+      "level": 2,
+      "parent": "H01H13/70",
+      "ja": "多層構造における層に保持された，または層から形成された接点を有するもの，例．メンブレンスイッチ［７］",
+      "en": "with contacts carried by or formed from layers in a multilayer structure, e.g. membrane switches",
+      "count": 5892,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H13/703": {
+      "code": "H01H13/703",
+      "level": 3,
+      "parent": "H01H13/702",
+      "ja": "接点保持層間のスペーサに特徴のあるもの［８］",
+      "en": "characterised by spacers between contact carrying layers",
+      "count": 531,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H13/704": {
+      "code": "H01H13/704",
+      "level": 3,
+      "parent": "H01H13/702",
+      "ja": "層に特徴があるもの，例．層の材料または構造（Ｈ０１Ｈ１３／７０３が優先）［８］",
+      "en": "characterised by the layers, e.g. by their material or structure(<b>H01H13/703</b> takes precedence)",
+      "count": 1620,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H13/705": {
+      "code": "H01H13/705",
+      "level": 3,
+      "parent": "H01H13/702",
+      "ja": "操作部品の構成，取付，または配置に特徴があるもの，例．押ボタンまたはキー［７］",
+      "en": "characterised by construction, mounting or arrangement of operating parts, e.g. push-buttons or keys",
+      "count": 5967,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H13/7057": {
+      "code": "H01H13/7057",
+      "level": 4,
+      "parent": "H01H13/705",
+      "ja": "相互に関連する操作部品の配置に特徴があるもの，例．キーの予め組み立てられた集合体［８］",
+      "en": "characterised by the arrangement of operating parts in relation to each other, e.g. pre-assembled groups of keys",
+      "count": 243,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H13/7065": {
+      "code": "H01H13/7065",
+      "level": 4,
+      "parent": "H01H13/705",
+      "ja": "キーと層状のキーボードの間の機構に特徴があるもの［８］",
+      "en": "characterised by the mechanism between keys and layered keyboards",
+      "count": 2068,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H13/7073": {
+      "code": "H01H13/7073",
+      "level": 5,
+      "parent": "H01H13/7065",
+      "ja": "ばねに特徴があるもの，例．オイラースプリング［８］",
+      "en": "characterised by springs, e.g. Euler springs",
+      "count": 720,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H13/708": {
+      "code": "H01H13/708",
+      "level": 3,
+      "parent": "H01H13/702",
+      "ja": "固定接点及び可動接点の全てが絶縁部材に保持されたもの［７］",
+      "en": "in which all fixed and movable contacts are carried by insulating members(<b>H01H13/705</b> takes precedence)",
+      "count": 18,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H13/712": {
+      "code": "H01H13/712",
+      "level": 4,
+      "parent": "H01H13/708",
+      "ja": "絶縁部材の全てが実質的に平らなもの［７］",
+      "en": "all of the insulating members being substantially flat",
+      "count": 2651,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H13/715": {
+      "code": "H01H13/715",
+      "level": 3,
+      "parent": "H01H13/702",
+      "ja": "支持層に固定されないか又は支持層の一部をなさない接点を各接点対が有するもの，例．反転ドーム（Ｈ０１Ｈ１３／７０５優先）［７］",
+      "en": "in which each contact set includes a contact which is not secured to or part of a supporting layer, e.g. a snap dome(<b>H01H13/705</b> takes precedence)",
+      "count": 215,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H13/718": {
+      "code": "H01H13/718",
+      "level": 3,
+      "parent": "H01H13/702",
+      "ja": "一部又は全ての可動接点が単一の導電板で形成されるもの，例．打ち抜き金属板により形成されるもの（Ｈ０１Ｈ１３／７０５優先）［７］",
+      "en": "in which some or all of the movable contacts are formed in a single conductive plate, e.g. formed by punching sheet metal(<b>H01H13/705</b> takes precedence)",
+      "count": 16,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H13/72": {
+      "code": "H01H13/72",
+      "level": 2,
+      "parent": "H01H13/70",
+      "ja": "同時に作動位置を取り得る操作部材の数を制限する手段をもつスイッチ",
+      "en": "wherein the switch has means for limiting the number of operating members that can concurrently be in the actuated position",
+      "count": 909,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H13/74": {
+      "code": "H01H13/74",
+      "level": 3,
+      "parent": "H01H13/72",
+      "ja": "各接点の組が別の操作部材の作動のみで最初の状態に復帰されるもの",
+      "en": "each contact set returning to its original state only upon actuation of another of the operating members",
+      "count": 630,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H13/76": {
+      "code": "H01H13/76",
+      "level": 2,
+      "parent": "H01H13/70",
+      "ja": "一部又は全ての操作部材が異なる組み合わせの接点対を作動するもの，例．異なる組み合わせの４組の接点対を作動する１０個の操作部材",
+      "en": "wherein some or all of the operating members actuate different combinations of the contact sets, e.g. ten operating members actuating different combinations of four contact sets",
+      "count": 856,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H13/78": {
+      "code": "H01H13/78",
+      "level": 2,
+      "parent": "H01H13/70",
+      "ja": "接点または接点箇所に特徴があるもの［８］",
+      "en": "characterised by the contacts or the contact sites",
+      "count": 359,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H13/785": {
+      "code": "H01H13/785",
+      "level": 3,
+      "parent": "H01H13/78",
+      "ja": "接点の材料に特徴があるもの，例．電導性高分子［８］",
+      "en": "characterised by the material of the contacts, e.g. conductive polymers",
+      "count": 618,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H13/79": {
+      "code": "H01H13/79",
+      "level": 3,
+      "parent": "H01H13/78",
+      "ja": "接点の形状に特徴があるもの，例．散在したフィンガーまたはらせん状の回路網［８］",
+      "en": "characterised by the form of the contacts, e.g. interspersed fingers or helical networks",
+      "count": 138,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H13/80": {
+      "code": "H01H13/80",
+      "level": 3,
+      "parent": "H01H13/78",
+      "ja": "接点の協動方法に特徴があるもの，例．双方の接点が動くもの，または跳躍しない接点を有するもの［８］",
+      "en": "characterised by the manner of cooperation of the contacts, e.g. with both contacts movable or with bounceless contacts",
+      "count": 145,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H13/803": {
+      "code": "H01H13/803",
+      "level": 3,
+      "parent": "H01H13/78",
+      "ja": "スイッチング機能に特徴があるもの，例．常閉接点，又は接点の連続操作［８］",
+      "en": "characterised by the switching function thereof, e.g. normally closed contacts or consecutive operation of contacts",
+      "count": 55,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H13/807": {
+      "code": "H01H13/807",
+      "level": 3,
+      "parent": "H01H13/78",
+      "ja": "接点箇所の空間的配置に特徴があるもの，例．積層箇所［８］",
+      "en": "characterised by the spatial arrangement of the contact sites, e.g. superimposed sites",
+      "count": 501,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H13/81": {
+      "code": "H01H13/81",
+      "level": 2,
+      "parent": "H01H13/70",
+      "ja": "外部装置との電気的接続に特徴があるもの［８］",
+      "en": "characterised by electrical connections to external devices",
+      "count": 324,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H13/82": {
+      "code": "H01H13/82",
+      "level": 2,
+      "parent": "H01H13/70",
+      "ja": "接点空間の通気手段に特徴があるもの［８］",
+      "en": "characterised by contact space venting means",
+      "count": 153,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H13/83": {
+      "code": "H01H13/83",
+      "level": 2,
+      "parent": "H01H13/70",
+      "ja": "表示に特徴があるもの，例．点字，液晶表示，発光素子または光学素子［８］",
+      "en": "characterised by legends, e.g. Braille, liquid crystal displays, light emitting or optical elements",
+      "count": 5139,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H13/84": {
+      "code": "H01H13/84",
+      "level": 2,
+      "parent": "H01H13/70",
+      "ja": "人間工学的な機能に特徴があるもの，例．小型キーボード用のもの；操作感覚機能に特徴があるもの，例．音のフィードバック（表示Ｈ０１Ｈ１３／８３）［８］",
+      "en": "characterised by ergonomic functions, e.g. for miniature keyboards; characterised by operational sensory functions, e.g. sound feedback(legends <b>H01H13/83</b>)",
+      "count": 1604,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H13/85": {
+      "code": "H01H13/85",
+      "level": 3,
+      "parent": "H01H13/84",
+      "ja": "触覚フィードバックに特徴があるもの［８］",
+      "en": "characterised by tactile feedback features",
+      "count": 1585,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H13/86": {
+      "code": "H01H13/86",
+      "level": 2,
+      "parent": "H01H13/70",
+      "ja": "ケースに特徴があるもの，例．密封ケース又は縮小可能なケース［８］",
+      "en": "characterised by the casing, e.g. sealed casings or casings reducible in size",
+      "count": 2891,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H13/88": {
+      "code": "H01H13/88",
+      "level": 2,
+      "parent": "H01H13/70",
+      "ja": "異なる接点対に対応する複数の操作部材を有し，直線的に運動可能なスイッチの製造に特に適した工程，例．キーボードの製造に特に適した工程［８］",
+      "en": "Processes specially adapted for manufacture of rectilinearly movable switches having a plurality of operating members associated with different sets of contacts, e.g. keyboards",
+      "count": 1566,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H15/00": {
+      "code": "H01H15/00",
+      "level": 0,
+      "parent": "H01H",
+      "ja": "反対方向に作動するのに使用する直線的可動操作部品をもつスイッチ，例．スライドスイッチ",
+      "en": "Switches having rectilinearly-movable operating part or parts adapted for actuation in opposite directions, e.g. slide switch",
+      "count": 1258,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H15/02": {
+      "code": "H01H15/02",
+      "level": 1,
+      "parent": "H01H15/00",
+      "ja": "細部",
+      "en": "Details",
+      "count": 3456,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H15/04": {
+      "code": "H01H15/04",
+      "level": 2,
+      "parent": "H01H15/02",
+      "ja": "固定部分；接点がその上に取り付けられているもの",
+      "en": "Stationary parts; Contacts mounted thereon",
+      "count": 1215,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H15/06": {
+      "code": "H01H15/06",
+      "level": 2,
+      "parent": "H01H15/02",
+      "ja": "可動部分；接点がその上に取り付けられているもの",
+      "en": "Movable parts; Contacts mounted thereon",
+      "count": 1817,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H15/08": {
+      "code": "H01H15/08",
+      "level": 3,
+      "parent": "H01H15/06",
+      "ja": "開放前に閉合位置をとる接点装置，例．負荷時タップ切り換え",
+      "en": "Contact arrangements for providing make-before-break operation, e.g. for on-load tap-changing",
+      "count": 105,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H15/10": {
+      "code": "H01H15/10",
+      "level": 3,
+      "parent": "H01H15/06",
+      "ja": "操作部分",
+      "en": "Operating parts",
+      "count": 2577,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H15/12": {
+      "code": "H01H15/12",
+      "level": 4,
+      "parent": "H01H15/10",
+      "ja": "手以外の人体の部分による操作に適したもの，例．足によるもの",
+      "en": "adapted for operation by a part of the human body other than the hand, e.g. by foot",
+      "count": 19,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H15/14": {
+      "code": "H01H15/14",
+      "level": 4,
+      "parent": "H01H15/10",
+      "ja": "物体の通路内の限られた位置または予定位置で作動するのに適するもの，スイッチと物体の相対運動が最初スイッチの作動とは別の目的であるもの，例．ドアスイッチ，リミットスイッチ，昇降機の床のレベリングスイッチ",
+      "en": "adapted for actuation at a limit or other predetermined position in the path of a body, the relative movement of switch and body being primarily for a purpose other than the actuation of the switch, e.g. door switch, limit switch, floor-levelling switch of a lift",
+      "count": 226,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H15/16": {
+      "code": "H01H15/16",
+      "level": 3,
+      "parent": "H01H15/06",
+      "ja": "駆動機構",
+      "en": "Driving mechanisms",
+      "count": 2132,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H15/18": {
+      "code": "H01H15/18",
+      "level": 4,
+      "parent": "H01H15/16",
+      "ja": "速動動作をもつ作動",
+      "en": "acting with snap action",
+      "count": 504,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H15/20": {
+      "code": "H01H15/20",
+      "level": 4,
+      "parent": "H01H15/16",
+      "ja": "定められた遅延を生じる手段をもつもの",
+      "en": "with means for introducing a predetermined time delay",
+      "count": 13,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H15/22": {
+      "code": "H01H15/22",
+      "level": 1,
+      "parent": "H01H15/00",
+      "ja": "両端から交互に作動するためスイッチ箱の異なる側から突出している単一の操作部分をもつもの",
+      "en": "having a single operating part protruding from different sides of switch casing for alternate actuation from opposite ends",
+      "count": 131,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H15/24": {
+      "code": "H01H15/24",
+      "level": 1,
+      "parent": "H01H15/00",
+      "ja": "交互に押圧および引張るためスイッチ箱の１側からのみ突出している単一の操作部分をもつもの",
+      "en": "having a single operating part only protruding from one side of the switch casing for alternate pushing and pulling",
+      "count": 479,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H17/00": {
+      "code": "H01H17/00",
+      "level": 0,
+      "parent": "H01H",
+      "ja": "引張るためのみに適合する可撓操作部分，例．コード，チェーン，をもつスイッチ",
+      "en": "Switches having flexible operating part adapted only for pulling, e.g. cord, chain",
+      "count": 901,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H17/02": {
+      "code": "H01H17/02",
+      "level": 1,
+      "parent": "H01H17/00",
+      "ja": "細部",
+      "en": "Details",
+      "count": 506,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H17/04": {
+      "code": "H01H17/04",
+      "level": 2,
+      "parent": "H01H17/02",
+      "ja": "固定部分（案内Ｈ０１Ｈ１７／１４）",
+      "en": "Stationary parts(guides <b>H01H17/14</b>)",
+      "count": 138,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H17/06": {
+      "code": "H01H17/06",
+      "level": 2,
+      "parent": "H01H17/02",
+      "ja": "可動部分（案内Ｈ０１Ｈ１７／１４）",
+      "en": "Movable parts(guides <b>H01H17/14</b>)",
+      "count": 575,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H17/08": {
+      "code": "H01H17/08",
+      "level": 3,
+      "parent": "H01H17/06",
+      "ja": "操作部分，例．コード",
+      "en": "Operating part, e.g. cord",
+      "count": 890,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H17/10": {
+      "code": "H01H17/10",
+      "level": 4,
+      "parent": "H01H17/08",
+      "ja": "手以外の人体の部分による操作に適したもの，例．足によるもの",
+      "en": "adapted for operation by a part of the human body other than the hand, e.g. by foot",
+      "count": 13,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H17/12": {
+      "code": "H01H17/12",
+      "level": 4,
+      "parent": "H01H17/08",
+      "ja": "物体の通路内の限られた位置または予定位置で作動するのに適するもの，スイッチと物体の相対運動が最初スイッチの作動とは別の目的であるもの，例．ドアスイッチ，リミットスイッチ，昇降機の床レベリングスイッチ",
+      "en": "adapted for actuation at a limit or other predetermined position in the path of a body, the relative movement of switch and body being primarily for a purpose other than the actuation of the switch, e.g. door switch, limit switch, floor-levelling switch of a lift",
+      "count": 165,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H17/14": {
+      "code": "H01H17/14",
+      "level": 2,
+      "parent": "H01H17/02",
+      "ja": "可撓性操作部分に対する案内装置",
+      "en": "Guiding means for flexible operating part",
+      "count": 123,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H17/16": {
+      "code": "H01H17/16",
+      "level": 1,
+      "parent": "H01H17/00",
+      "ja": "一端のみの引張りに適した単一の可撓性操作部分をもつもの",
+      "en": "having a single flexible operating part adapted for pulling at one end only",
+      "count": 293,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H17/18": {
+      "code": "H01H17/18",
+      "level": 2,
+      "parent": "H01H17/16",
+      "ja": "角度運動のみをもつスイッチ駆動機構の部分に固着したもの",
+      "en": "secured to a part of the switch driving mechanism that has only angular movement",
+      "count": 134,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H17/20": {
+      "code": "H01H17/20",
+      "level": 3,
+      "parent": "H01H17/18",
+      "ja": "接点が操作力の除去で直ちに元の状態に復帰するもの",
+      "en": "the contact returning to its original state immediately upon removal of operating force",
+      "count": 41,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H17/22": {
+      "code": "H01H17/22",
+      "level": 3,
+      "parent": "H01H17/18",
+      "ja": "接点が次回の操作力の使用で元の状態に復帰するもの",
+      "en": "the contact returning to its original state upon the next application of operating force",
+      "count": 279,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H17/24": {
+      "code": "H01H17/24",
+      "level": 2,
+      "parent": "H01H17/16",
+      "ja": "角度と直線運動の両方をもつスイッチ駆動機構の一部に固着したもの",
+      "en": "secured to a part of the switch driving mechanism that has both angular and rectilinear motion",
+      "count": 36,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H17/26": {
+      "code": "H01H17/26",
+      "level": 1,
+      "parent": "H01H17/00",
+      "ja": "２つの可撓性操作部分をもつもの；両端での引張りに適した単一の操作部分をもつもの",
+      "en": "having two flexible operating parts; having a single operating part adapted for pulling at both ends",
+      "count": 72,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H17/28": {
+      "code": "H01H17/28",
+      "level": 2,
+      "parent": "H01H17/26",
+      "ja": "直線運動のみをもつスイッチ駆動機構の一部または部分に固着したもの",
+      "en": "secured to a part or parts of the switch driving mechanism having only rectilinear motion",
+      "count": 21,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H17/30": {
+      "code": "H01H17/30",
+      "level": 2,
+      "parent": "H01H17/26",
+      "ja": "角度運動のみをもつスイッチ駆動機構の一部または部分に固着したもの",
+      "en": "secured to a part or parts of the switch driving mechanism having only angular motion",
+      "count": 45,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H19/00": {
+      "code": "H01H19/00",
+      "level": 0,
+      "parent": "H01H",
+      "ja": "縦軸周りを回転可能であり且つ手等のスイッチ外部の物体により直接作動される操作部材により操作されるスイッチ［１，８］",
+      "en": "Switches operated by an operating part which is rotatable about a longitudinal axis thereof and which is acted upon directly by a solid body external to the switch, e.g. by a hand",
+      "count": 2723,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H19/02": {
+      "code": "H01H19/02",
+      "level": 1,
+      "parent": "H01H19/00",
+      "ja": "細部",
+      "en": "Details",
+      "count": 3638,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H19/03": {
+      "code": "H01H19/03",
+      "level": 2,
+      "parent": "H01H19/02",
+      "ja": "操作部分の回転角度を制限する手段［８］",
+      "en": "Means for limiting the angle of rotation of the operating part",
+      "count": 610,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H19/04": {
+      "code": "H01H19/04",
+      "level": 2,
+      "parent": "H01H19/02",
+      "ja": "ケース；カバー",
+      "en": "Cases; Covers",
+      "count": 1960,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H19/06": {
+      "code": "H01H19/06",
+      "level": 3,
+      "parent": "H01H19/04",
+      "ja": "防塵，防まつ，防滴，防水または防火の箱",
+      "en": "Dustproof, splashproof, drip-proof, waterproof, or flameproof casings",
+      "count": 1034,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H19/08": {
+      "code": "H01H19/08",
+      "level": 2,
+      "parent": "H01H19/02",
+      "ja": "基台；固定接点がその上に取り付けられたもの",
+      "en": "Bases; Stationary contacts mounted thereon",
+      "count": 2085,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H19/10": {
+      "code": "H01H19/10",
+      "level": 2,
+      "parent": "H01H19/02",
+      "ja": "可動部分；接点がその上に取り付けられたもの",
+      "en": "Movable parts; Contacts mounted thereon",
+      "count": 2357,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H19/11": {
+      "code": "H01H19/11",
+      "level": 3,
+      "parent": "H01H19/10",
+      "ja": "操作位置の認識手段を有するもの［８］",
+      "en": "with indexing means",
+      "count": 1750,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H19/12": {
+      "code": "H01H19/12",
+      "level": 3,
+      "parent": "H01H19/10",
+      "ja": "開放前に閉合位置をとる接点装置，例．負荷時タップ切換",
+      "en": "Contact arrangements for providing make-before-break operation, e.g. for on-load tap-changing",
+      "count": 232,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H19/14": {
+      "code": "H01H19/14",
+      "level": 3,
+      "parent": "H01H19/10",
+      "ja": "操作部分，例．回転つまみ",
+      "en": "Operating parts, e.g. turn knob",
+      "count": 4888,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H19/16": {
+      "code": "H01H19/16",
+      "level": 4,
+      "parent": "H01H19/14",
+      "ja": "手以外の人体の部分による操作に適したもの，例．足によるもの",
+      "en": "adapted for operation by a part of the human body other than the hand, e.g. by foot",
+      "count": 40,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H19/18": {
+      "code": "H01H19/18",
+      "level": 4,
+      "parent": "H01H19/14",
+      "ja": "物体の通路内の限られた位置または予定位置で作動するのに適するもの，スイッチと物体の相対運動が最初スイッチの作動とは別の目的であるもの，例．ドアスイッチ，リミットスイッチ，昇降機の床レベリングスイッチ",
+      "en": "adapted for actuation at a limit or other predetermined position in the path of a body, the relative movement of switch and body being primarily for a purpose other than the actuation of the switch, e.g. door switch, limit switch, floor-levelling switch of a lift",
+      "count": 931,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H19/20": {
+      "code": "H01H19/20",
+      "level": 3,
+      "parent": "H01H19/10",
+      "ja": "いずれかの方向に作動できるように操作部分の角変位を許す駆動機構",
+      "en": "Driving mechanisms allowing angular displacement of the operating part to be effective in either direction",
+      "count": 1621,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H19/22": {
+      "code": "H01H19/22",
+      "level": 4,
+      "parent": "H01H19/20",
+      "ja": "空転を組み合わせるもの",
+      "en": "incorporating lost motion",
+      "count": 43,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H19/24": {
+      "code": "H01H19/24",
+      "level": 4,
+      "parent": "H01H19/20",
+      "ja": "速動動作で作動するもの",
+      "en": "acting with snap action",
+      "count": 373,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H19/26": {
+      "code": "H01H19/26",
+      "level": 4,
+      "parent": "H01H19/20",
+      "ja": "定められた遅延を生じるための手段をもつもの",
+      "en": "with means for introducing a predetermined time delay",
+      "count": 12,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H19/28": {
+      "code": "H01H19/28",
+      "level": 3,
+      "parent": "H01H19/10",
+      "ja": "１方向のみに有効または可能であるように操作部分の角変位を許す駆動機構",
+      "en": "Driving mechanisms allowing angular displacement of the operating part to be effective or possible in only one direction",
+      "count": 196,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H19/30": {
+      "code": "H01H19/30",
+      "level": 4,
+      "parent": "H01H19/28",
+      "ja": "空転を組み合わせるもの",
+      "en": "incorporating lost motion",
+      "count": 23,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H19/32": {
+      "code": "H01H19/32",
+      "level": 4,
+      "parent": "H01H19/28",
+      "ja": "速動動作で作動するもの",
+      "en": "acting with snap action",
+      "count": 94,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H19/34": {
+      "code": "H01H19/34",
+      "level": 4,
+      "parent": "H01H19/28",
+      "ja": "予め定められた遅延を生じるための手段をもつもの",
+      "en": "with means for introducing a predetermined time delay",
+      "count": 11,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H19/36": {
+      "code": "H01H19/36",
+      "level": 1,
+      "parent": "H01H19/00",
+      "ja": "操作部分がただ２つの操作位置をもつもの，例．相対的に１８０°変位するもの",
+      "en": "the operating part having only two operative positions, e.g. relatively displaced by 180&deg",
+      "count": 318,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H19/38": {
+      "code": "H01H19/38",
+      "level": 2,
+      "parent": "H01H19/36",
+      "ja": "切換スイッチ",
+      "en": "Change-over switches",
+      "count": 251,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H19/40": {
+      "code": "H01H19/40",
+      "level": 3,
+      "parent": "H01H19/38",
+      "ja": "軸方向のみに接触圧力をもつもの",
+      "en": "having only axial contact pressure",
+      "count": 46,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H19/42": {
+      "code": "H01H19/42",
+      "level": 2,
+      "parent": "H01H19/36",
+      "ja": "２つ以上の電気的に異なる状態を呈するもの，例．２回路のいずれか一方または両方を閉じるためのもの",
+      "en": "providing more than two electrically-different conditions, e.g. for closing either or both of two circuits",
+      "count": 69,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H19/44": {
+      "code": "H01H19/44",
+      "level": 3,
+      "parent": "H01H19/42",
+      "ja": "軸方向のみに接触圧力をもつもの",
+      "en": "having only axial contact pressure",
+      "count": 28,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H19/46": {
+      "code": "H01H19/46",
+      "level": 1,
+      "parent": "H01H19/00",
+      "ja": "操作部分が３つの操作位置をもつもの，例．切―スター―デルタ",
+      "en": "the operating part having three operative positions, e.g. off/star/delta",
+      "count": 373,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H19/48": {
+      "code": "H01H19/48",
+      "level": 2,
+      "parent": "H01H19/46",
+      "ja": "軸方向のみに接触圧力をもつもの",
+      "en": "having only axial contact pressure",
+      "count": 52,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H19/50": {
+      "code": "H01H19/50",
+      "level": 1,
+      "parent": "H01H19/00",
+      "ja": "操作部分が４つの操作位置をもつもの，例．切／２つ直列／１つのみ／２つ並列",
+      "en": "the operating part having four operative positions, e.g. off/two-in-series/one-only/two-in-parallel",
+      "count": 155,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H19/52": {
+      "code": "H01H19/52",
+      "level": 2,
+      "parent": "H01H19/50",
+      "ja": "軸方向のみに接触圧力をもつもの",
+      "en": "having only axial contact pressure",
+      "count": 36,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H19/54": {
+      "code": "H01H19/54",
+      "level": 1,
+      "parent": "H01H19/00",
+      "ja": "操作部分が少なくとも５つまたは不特定の数の操作位置をもつもの",
+      "en": "the operating part having at least five or an unspecified number of operative positions",
+      "count": 618,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H19/56": {
+      "code": "H01H19/56",
+      "level": 2,
+      "parent": "H01H19/54",
+      "ja": "接点を装着した角的に可動な操作部品，例．ドラムスイッチ",
+      "en": "Angularly-movable actuating part carrying contacts, e.g. drum switch",
+      "count": 1071,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H19/58": {
+      "code": "H01H19/58",
+      "level": 3,
+      "parent": "H01H19/56",
+      "ja": "軸方向のみに接触圧力をもつもの，例．ディスクスイッチ，ウエハースイッチ",
+      "en": "having only axial contact pressure, e.g. disc switch, wafer switch",
+      "count": 2457,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H19/60": {
+      "code": "H01H19/60",
+      "level": 2,
+      "parent": "H01H19/54",
+      "ja": "接点をもたない角的に可動な作動部品",
+      "en": "Angularly-movable actuating part carrying no contacts",
+      "count": 297,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H19/62": {
+      "code": "H01H19/62",
+      "level": 3,
+      "parent": "H01H19/60",
+      "ja": "接点が半径方向のカムにより作動するもの",
+      "en": "Contacts actuated by radial cams",
+      "count": 2202,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H19/63": {
+      "code": "H01H19/63",
+      "level": 3,
+      "parent": "H01H19/60",
+      "ja": "接点が軸方向のカムにより作動するもの［２］",
+      "en": "Contacts actuated by axial cams",
+      "count": 555,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H19/635": {
+      "code": "H01H19/635",
+      "level": 3,
+      "parent": "H01H19/60",
+      "ja": "操作部分に連結された直線運動部材により作動される接点，例．ピンおよび溝によるもの［８］",
+      "en": "Contacts actuated by rectilinearly-movable member linked to operating part, e.g. by pin and slot",
+      "count": 1012,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H19/64": {
+      "code": "H01H19/64",
+      "level": 1,
+      "parent": "H01H19/00",
+      "ja": "同一のスイッチを一線に組み立て連動動作に適した箱入りスイッチ，例．積層スイッチ",
+      "en": "Encased switches adapted for ganged operation when assembled in a line with identical switches, e.g. stacked switches",
+      "count": 741,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H21/00": {
+      "code": "H01H21/00",
+      "level": 0,
+      "parent": "H01H",
+      "ja": "手等のスイッチ外部の物体により直接作動される揺動可能な操作部材により操作されるスイッチ（タンブラスイッチまたはロッカースイッチＨ０１Ｈ２３／００；１平面以外で角的に動きうる操作部分を有するスイッチＨ０１Ｈ２５／０４）［１，８］",
+      "en": "Switches operated by an operating part in the form of a pivotable member acted upon directly by a solid body, e.g. by a hand(tumbler or rocker switches <b>H01H23/00</b>; switches having an operating part movable angularly in more than one plane <b>H01H25/04</b>)",
+      "count": 5735,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H21/02": {
+      "code": "H01H21/02",
+      "level": 1,
+      "parent": "H01H21/00",
+      "ja": "細部",
+      "en": "Details",
+      "count": 2339,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H21/04": {
+      "code": "H01H21/04",
+      "level": 2,
+      "parent": "H01H21/02",
+      "ja": "ケース；カバー",
+      "en": "Cases; Covers",
+      "count": 1133,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H21/06": {
+      "code": "H01H21/06",
+      "level": 3,
+      "parent": "H01H21/04",
+      "ja": "操作機構で相互鎖錠されるもの",
+      "en": "interlocked with operating mechanism",
+      "count": 321,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H21/08": {
+      "code": "H01H21/08",
+      "level": 3,
+      "parent": "H01H21/04",
+      "ja": "防塵，防まつ，防滴，防水，または防火の箱",
+      "en": "Dustproof, splashproof, drip-proof, waterproof, or flameproof casings",
+      "count": 754,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H21/10": {
+      "code": "H01H21/10",
+      "level": 3,
+      "parent": "H01H21/04",
+      "ja": "スイッチを作動する以外の目的に役立つハンドルにより構成されたスイッチの箱",
+      "en": "Casing of switch constituted by a handle serving a purpose other than the actuation of the switch",
+      "count": 185,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H21/12": {
+      "code": "H01H21/12",
+      "level": 2,
+      "parent": "H01H21/02",
+      "ja": "基台；その上に取り付けられた固定接点",
+      "en": "Bases; Stationary contacts mounted thereon",
+      "count": 1133,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H21/14": {
+      "code": "H01H21/14",
+      "level": 2,
+      "parent": "H01H21/02",
+      "ja": "接触圧力を増加する手段",
+      "en": "Means for increasing contact pressure",
+      "count": 196,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H21/16": {
+      "code": "H01H21/16",
+      "level": 2,
+      "parent": "H01H21/02",
+      "ja": "ヒューズの組込みに適するもの",
+      "en": "Adaptation for built-in fuse",
+      "count": 452,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H21/18": {
+      "code": "H01H21/18",
+      "level": 2,
+      "parent": "H01H21/02",
+      "ja": "可動部分；その上に取り付けられる接点",
+      "en": "Movable parts; Contacts mounted thereon",
+      "count": 1147,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H21/20": {
+      "code": "H01H21/20",
+      "level": 3,
+      "parent": "H01H21/18",
+      "ja": "開放前に閉合位置をとる接点装置，例．負荷時タップ切換",
+      "en": "Contact arrangements for providing make-before-break operation, e.g. for on-load tap-changing",
+      "count": 129,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H21/22": {
+      "code": "H01H21/22",
+      "level": 3,
+      "parent": "H01H21/18",
+      "ja": "操作部分，例．ハンドル",
+      "en": "Operating parts, e.g. handle",
+      "count": 2491,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H21/24": {
+      "code": "H01H21/24",
+      "level": 4,
+      "parent": "H01H21/22",
+      "ja": "操作力を除去して常規の位置に復帰するよう偏倚されたもの",
+      "en": "biased to return to original position upon removal of operating force",
+      "count": 802,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H21/26": {
+      "code": "H01H21/26",
+      "level": 5,
+      "parent": "H01H21/24",
+      "ja": "手以外の人体の部分による操作に適したもの，例．足によるもの",
+      "en": "adapted for operation by a part of the human body other than the hand, e.g. by foot",
+      "count": 634,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H21/28": {
+      "code": "H01H21/28",
+      "level": 5,
+      "parent": "H01H21/24",
+      "ja": "物体の通路内の限られた位置または予定位置で作動するに適するもの，スイッチと物体の相対運動が最初スイッチの作動とは別の目的に適したもの，例．ドアスイッチ，リミットスイッチ，昇降機の床レベリングスイッチ",
+      "en": "adapted for actuation at a limit or other predetermined position in the path of a body, the relative movement of switch and body being primarily for a purpose other than the actuation of the switch, e.g. door switch, limit switch, floor-levelling switch of a lift",
+      "count": 2977,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H21/30": {
+      "code": "H01H21/30",
+      "level": 4,
+      "parent": "H01H21/22",
+      "ja": "操作力を除去して常規の位置に復帰するように偏倚しないもの",
+      "en": "not biased to return to original position upon removal of operating force",
+      "count": 133,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H21/32": {
+      "code": "H01H21/32",
+      "level": 5,
+      "parent": "H01H21/30",
+      "ja": "手以外の人体の部分による操作に適したもの，例．足によるもの",
+      "en": "adapted for operation by a part of the human body other than the hand, e.g. by foot",
+      "count": 45,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H21/34": {
+      "code": "H01H21/34",
+      "level": 5,
+      "parent": "H01H21/30",
+      "ja": "物体の通路内の限られた位置で作動するに適するもの，スイッチと物体の相対運動が最初スイッチの動作とは別の目的に適したもの，例．ドアスイッチ，リミットスイッチ，昇降機の床レベリングスイッチ",
+      "en": "adapted for actuation at a limit or other predetermined position in the path of a body, the relative movement of switch and body being primarily for a purpose other than the actuation of the switch, e.g. door switch, limit switch, floor-levelling switch of a lift",
+      "count": 273,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H21/36": {
+      "code": "H01H21/36",
+      "level": 3,
+      "parent": "H01H21/18",
+      "ja": "駆動機構",
+      "en": "Driving mechanisms",
+      "count": 2153,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H21/38": {
+      "code": "H01H21/38",
+      "level": 4,
+      "parent": "H01H21/36",
+      "ja": "空転を組み合わせたもの",
+      "en": "incorporating lost motion",
+      "count": 65,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H21/40": {
+      "code": "H01H21/40",
+      "level": 4,
+      "parent": "H01H21/36",
+      "ja": "速動動作をもつもの",
+      "en": "having snap action",
+      "count": 216,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H21/42": {
+      "code": "H01H21/42",
+      "level": 5,
+      "parent": "H01H21/40",
+      "ja": "コイルばねの圧縮または伸長により生じるもの",
+      "en": "produced by compression or extension of coil spring",
+      "count": 505,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H21/44": {
+      "code": "H01H21/44",
+      "level": 5,
+      "parent": "H01H21/40",
+      "ja": "曲げ板ばねにより生じるもの",
+      "en": "produced by flexing blade springs",
+      "count": 110,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H21/46": {
+      "code": "H01H21/46",
+      "level": 5,
+      "parent": "H01H21/40",
+      "ja": "連続して２以上の速動作動運動をもつもの",
+      "en": "with two or more snap-action motions in succession",
+      "count": 20,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H21/48": {
+      "code": "H01H21/48",
+      "level": 4,
+      "parent": "H01H21/36",
+      "ja": "ラチェット機構を結合したもの",
+      "en": "incorporating a ratchet mechanism",
+      "count": 103,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H21/50": {
+      "code": "H01H21/50",
+      "level": 4,
+      "parent": "H01H21/36",
+      "ja": "操作位置の認識手段又はラッチ手段をもつもの，例．ボールとバネによる認識；中間の操作位置で確実に停止する装置をもつもの",
+      "en": "with indexing or latching means, e.g. indexing by ball and spring; with means to ensure stopping at intermediate operative positions",
+      "count": 1178,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H21/52": {
+      "code": "H01H21/52",
+      "level": 4,
+      "parent": "H01H21/36",
+      "ja": "予め定められた遅延を生じるための手段をもつもの",
+      "en": "with means for introducing a predetermined time delay",
+      "count": 59,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H21/54": {
+      "code": "H01H21/54",
+      "level": 1,
+      "parent": "H01H21/00",
+      "ja": "１つまたは２つのばねクリップ接片と協動する刃形接片をもつレバースイッチ，例．ナイフスイッチ，セクショナライザ",
+      "en": "Lever switches with blade-type contact co-operating with one or two spring-clip contacts, e.g. knife switch, sectionalisers",
+      "count": 2253,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H21/56": {
+      "code": "H01H21/56",
+      "level": 2,
+      "parent": "H01H21/54",
+      "ja": "１つの位置のみで接触させるもの",
+      "en": "making contact in one position only",
+      "count": 285,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H21/58": {
+      "code": "H01H21/58",
+      "level": 2,
+      "parent": "H01H21/54",
+      "ja": "安定した中間位置をもたない切換スイッチ",
+      "en": "Change-over switches without stable intermediate position",
+      "count": 165,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H21/60": {
+      "code": "H01H21/60",
+      "level": 2,
+      "parent": "H01H21/54",
+      "ja": "安定した中間位置をもつ切換スイッチ",
+      "en": "Change-over switches with stable intermediate position",
+      "count": 61,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H21/86": {
+      "code": "H01H21/86",
+      "level": 1,
+      "parent": "H01H21/00",
+      "ja": "操作部分に装着された衝合接点をもつスイッチ，例．電鍵",
+      "en": "Switches with abutting contact carried by operating part, e.g. telegraph tapping key",
+      "count": 112,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H21/88": {
+      "code": "H01H21/88",
+      "level": 2,
+      "parent": "H01H21/86",
+      "ja": "中間休止位置をもつもの",
+      "en": "with intermediate position of rest",
+      "count": 9,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H23/00": {
+      "code": "H01H23/00",
+      "level": 0,
+      "parent": "H01H",
+      "ja": "タンブラースイッチ又はロッカースイッチ，即ち，シーソーボタン形式の操作部材の揺動による操作に特徴のあるスイッチ<br><br><b><ul>注</ul></b><br>このサブグループにおいては，“揺動”との用語は，スイッチの表面板に平行であり，且つ揺動ボタンの両端縁間の実質的に中心に位置する軸周りの一平面内での回転動作と定義される。［８］",
+      "en": "Tumbler or rocker switches, i.e. switches characterised by being operated by rocking an operating member in the form of a rocker button; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this group, the term \"rocking\" is defined as pivotal motion in one plane about an axis parallel to the switch faceplate and located substantially centrally between the ends of the rocker button.</li></ul>",
+      "count": 1580,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H23/02": {
+      "code": "H01H23/02",
+      "level": 1,
+      "parent": "H01H23/00",
+      "ja": "細部",
+      "en": "Details",
+      "count": 3674,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H23/04": {
+      "code": "H01H23/04",
+      "level": 2,
+      "parent": "H01H23/02",
+      "ja": "ケース，カバー",
+      "en": "Cases; Covers",
+      "count": 2161,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H23/06": {
+      "code": "H01H23/06",
+      "level": 3,
+      "parent": "H01H23/04",
+      "ja": "防塵，防まつ，防滴，防水または防火の箱",
+      "en": "Dustproof, splashproof, drip-proof, waterproof, or flameproof casings",
+      "count": 1195,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H23/08": {
+      "code": "H01H23/08",
+      "level": 2,
+      "parent": "H01H23/02",
+      "ja": "基台；その上に取り付けられた固定接点",
+      "en": "Bases; Stationary contacts mounted thereon",
+      "count": 1252,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H23/10": {
+      "code": "H01H23/10",
+      "level": 2,
+      "parent": "H01H23/02",
+      "ja": "ヒューズの組込みに適するもの",
+      "en": "Adaptation for built-in fuse",
+      "count": 74,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H23/12": {
+      "code": "H01H23/12",
+      "level": 2,
+      "parent": "H01H23/02",
+      "ja": "可動部分；その上に取り付けられた接点",
+      "en": "Movable parts; Contacts mounted thereon",
+      "count": 2633,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H23/14": {
+      "code": "H01H23/14",
+      "level": 3,
+      "parent": "H01H23/12",
+      "ja": "タンブラ",
+      "en": "Tumblers",
+      "count": 2150,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H23/16": {
+      "code": "H01H23/16",
+      "level": 3,
+      "parent": "H01H23/12",
+      "ja": "駆動機構",
+      "en": "Driving mechanisms",
+      "count": 3362,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H23/18": {
+      "code": "H01H23/18",
+      "level": 4,
+      "parent": "H01H23/16",
+      "ja": "空転運動を組み合わせたもの",
+      "en": "incorporating lost motion",
+      "count": 30,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H23/20": {
+      "code": "H01H23/20",
+      "level": 4,
+      "parent": "H01H23/16",
+      "ja": "速動作動をもつもの",
+      "en": "having snap action",
+      "count": 740,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H23/22": {
+      "code": "H01H23/22",
+      "level": 4,
+      "parent": "H01H23/16",
+      "ja": "予め定められた遅延を生じるための手段をもつもの",
+      "en": "with means for introducing a predetermined time delay",
+      "count": 193,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H23/24": {
+      "code": "H01H23/24",
+      "level": 1,
+      "parent": "H01H23/00",
+      "ja": "２つの操作位置をもつもの",
+      "en": "with two operating positions",
+      "count": 1698,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H23/26": {
+      "code": "H01H23/26",
+      "level": 2,
+      "parent": "H01H23/24",
+      "ja": "１つの位置が不安定のもの",
+      "en": "one of which positions is unstable",
+      "count": 92,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H23/28": {
+      "code": "H01H23/28",
+      "level": 1,
+      "parent": "H01H23/00",
+      "ja": "３つの操作位置をもつもの",
+      "en": "with three operating positions",
+      "count": 385,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H23/30": {
+      "code": "H01H23/30",
+      "level": 2,
+      "parent": "H01H23/28",
+      "ja": "安定な中心位置と不安定な１つまたは２つの端位置をもつもの",
+      "en": "with stable centre position and one or both end positions unstable",
+      "count": 1133,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H25/00": {
+      "code": "H01H25/00",
+      "level": 0,
+      "parent": "H01H",
+      "ja": "ハンドルまたは他の操作部分の複合運動をもつスイッチ",
+      "en": "Switches with compound movement of handle or other operating part",
+      "count": 5033,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H25/04": {
+      "code": "H01H25/04",
+      "level": 1,
+      "parent": "H01H25/00",
+      "ja": "１平面以外で角的に動きうる操作部分，例．操縦桿",
+      "en": "Operating part movable angularly in more than one plane, e.g. joystick",
+      "count": 5639,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H25/06": {
+      "code": "H01H25/06",
+      "level": 1,
+      "parent": "H01H25/00",
+      "ja": "角的にも直線的にも可動な操作部分，直線的運動が角移動の軸に沿うもの",
+      "en": "Operating part movable both angularly and rectilinearly, the rectilinear movement being along the axis of angular movement",
+      "count": 3963,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H27/00": {
+      "code": "H01H27/00",
+      "level": 0,
+      "parent": "H01H",
+      "ja": "着脱部材により操作されるスイッチ，例．キー，プラグまたはプレートによるもの；いくつかの可能な設定の中から単一の定められた組み合わせに従う設定部材により操作されるスイッチ（プラグソケット接続器と組み合わせたものＨ０１Ｒ１３／７０；通電プラグをもつものＨ０１Ｒ３１／０８）",
+      "en": "Switches operated by a removable member, e.g. key, plug or plate; Switches operated by setting members according to a single predetermined combination out of several possible settings(combined with plug-and-socket connectors <b>H01R13/70</b>; with current-carrying plug <b>H01R31/08</b>)",
+      "count": 2366,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H27/04": {
+      "code": "H01H27/04",
+      "level": 1,
+      "parent": "H01H27/00",
+      "ja": "常閉接点の間に差し込まれる絶縁プラグまたは板",
+      "en": "Insulating plug or plate inserted between normally-closed contacts",
+      "count": 221,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H27/06": {
+      "code": "H01H27/06",
+      "level": 1,
+      "parent": "H01H27/00",
+      "ja": "スイッチを操作するためにキーを挿し込んで回すもの",
+      "en": "Key inserted and then turned to effect operation of the switch",
+      "count": 2584,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H27/08": {
+      "code": "H01H27/08",
+      "level": 2,
+      "parent": "H01H27/06",
+      "ja": "この場合キーはスイッチが最初の位置に復帰するまで除去することができないもの",
+      "en": "wherein the key cannot be removed until the switch is returned to its original position",
+      "count": 225,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H27/10": {
+      "code": "H01H27/10",
+      "level": 1,
+      "parent": "H01H27/00",
+      "ja": "いくつかの可能な設定の中から単一の定められた組み合わせに従う設定部材により操作されるスイッチ",
+      "en": "Switch operated by setting members according to a single predetermined combination out of several possible settings",
+      "count": 302,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H29/00": {
+      "code": "H01H29/00",
+      "level": 0,
+      "parent": "H01H",
+      "ja": "少なくとも１つの液体接点をもつスイッチ（固体接点が水銀で湿されまたは浸漬されるものＨ０１Ｈ１／０８）",
+      "en": "Switches having at least one liquid contact(solid contacts wetted or soaked with mercury <b>H01H1/08</b>)",
+      "count": 936,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H29/02": {
+      "code": "H01H29/02",
+      "level": 1,
+      "parent": "H01H29/00",
+      "ja": "細部",
+      "en": "Details",
+      "count": 391,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H29/04": {
+      "code": "H01H29/04",
+      "level": 2,
+      "parent": "H01H29/02",
+      "ja": "接点；液体接点のための容器",
+      "en": "Contacts; Containers for liquid contacts",
+      "count": 467,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H29/06": {
+      "code": "H01H29/06",
+      "level": 3,
+      "parent": "H01H29/04",
+      "ja": "液体接点の材質を特徴とするもの",
+      "en": "Liquid contacts characterised by the material thereof",
+      "count": 187,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H29/08": {
+      "code": "H01H29/08",
+      "level": 2,
+      "parent": "H01H29/02",
+      "ja": "定められた遅延を生じるための手段",
+      "en": "Means for introducing a predetermined time delay",
+      "count": 43,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H29/10": {
+      "code": "H01H29/10",
+      "level": 3,
+      "parent": "H01H29/08",
+      "ja": "接触液体の流れを制限するもの",
+      "en": "by constricting the flow of the contact liquid",
+      "count": 123,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H29/12": {
+      "code": "H01H29/12",
+      "level": 2,
+      "parent": "H01H29/02",
+      "ja": "手以外の人体の部分による作動に適する操作機構，例．足によるもの",
+      "en": "Operating mechanisms adapted for operation by a part of the human body other than the hand, e.g. by foot",
+      "count": 20,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H29/14": {
+      "code": "H01H29/14",
+      "level": 2,
+      "parent": "H01H29/02",
+      "ja": "物体の通路内の限られた位置または予定位置で作動するのに適する操作機構，スイッチと物体の相対運動が最初スイッチの作動とは別の目的に適する操作機構，例．ドアースイッチ，リミットスイッチ，昇降機の床レベリングスイッチ",
+      "en": "Operating mechanisms adapted for actuation at a limit or other predetermined position in the path of a body, the relative movement of switch and body being primarily for a purpose other than the actuation of the switch, e.g. door switch, limit switch, floor-levelling switch of a lift",
+      "count": 30,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H29/16": {
+      "code": "H01H29/16",
+      "level": 1,
+      "parent": "H01H29/00",
+      "ja": "静止した接触液体の中に固体接点を浸すことにより操作されるもの",
+      "en": "operated by dipping solid contact into stationary contact liquid",
+      "count": 203,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H29/18": {
+      "code": "H01H29/18",
+      "level": 1,
+      "parent": "H01H29/00",
+      "ja": "非電気的接触を行ないプランジャで変位される接触液体の液面レベルによるもの",
+      "en": "with level of surface of contact liquid displaced by non-electrical contact-making plunger",
+      "count": 444,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H29/20": {
+      "code": "H01H29/20",
+      "level": 1,
+      "parent": "H01H29/00",
+      "ja": "接触液体のための容器を傾けることにより操作するもの",
+      "en": "operated by tilting contact-liquid container",
+      "count": 687,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H29/22": {
+      "code": "H01H29/22",
+      "level": 2,
+      "parent": "H01H29/20",
+      "ja": "その中で接触および離間が液体と固体との間で行なわれるもの",
+      "en": "wherein contact is made and broken between liquid and solid",
+      "count": 622,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H29/24": {
+      "code": "H01H29/24",
+      "level": 2,
+      "parent": "H01H29/20",
+      "ja": "その中で接触および離間が液体と液体との間で行なわれるもの",
+      "en": "wherein contact is made and broken between liquid and liquid",
+      "count": 186,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H29/26": {
+      "code": "H01H29/26",
+      "level": 1,
+      "parent": "H01H29/00",
+      "ja": "接触液体の液面が遠心力の作用により変位するもの",
+      "en": "with level of surface of contact liquid displaced by centrifugal action",
+      "count": 171,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H29/28": {
+      "code": "H01H29/28",
+      "level": 1,
+      "parent": "H01H29/00",
+      "ja": "接触液体の液面が液体圧力により変位するもの",
+      "en": "with level of surface of contact liquid displaced by fluid pressure",
+      "count": 331,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H29/30": {
+      "code": "H01H29/30",
+      "level": 1,
+      "parent": "H01H29/00",
+      "ja": "接触液体の液面がそれらの膨張または蒸発により変位するもの",
+      "en": "with level of surface of contact liquid displaced by expansion or evaporation thereof",
+      "count": 222,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H29/32": {
+      "code": "H01H29/32",
+      "level": 1,
+      "parent": "H01H29/00",
+      "ja": "液体の噴射により接触が作られるもの，例．水の噴射により接触が作られる接地スイッチ",
+      "en": "with contact made by a liquid jet, e.g. earthing switch with contact made by jet of water",
+      "count": 32,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H31/00": {
+      "code": "H01H31/00",
+      "level": 0,
+      "parent": "H01H",
+      "ja": "消弧または発弧防止手段を持たない高電圧用気中遮断スイッチ（消弧または発弧防止手段を持つ高電圧または大電流スイッチとの結合Ｈ０１Ｈ３３／００）［３］",
+      "en": "Air-break switches for high tension without arc-extinguishing or arc-preventing means(in combination with high tension or heavy-current switches with arc-extinguishing or arc-preventing means <b>H01H33/00</b>)",
+      "count": 3375,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H31/02": {
+      "code": "H01H31/02",
+      "level": 1,
+      "parent": "H01H31/00",
+      "ja": "細部",
+      "en": "Details",
+      "count": 10998,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H31/04": {
+      "code": "H01H31/04",
+      "level": 2,
+      "parent": "H01H31/02",
+      "ja": "相互鎖錠機構",
+      "en": "Interlocking mechanisms",
+      "count": 1320,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H31/06": {
+      "code": "H01H31/06",
+      "level": 3,
+      "parent": "H01H31/04",
+      "ja": "ケース，カバーまたは保護遮へいと接点操作機構との間の相互鎖錠に対するもの",
+      "en": "for interlocking between casing, cover, or protective shutter and mechanism for operating contacts",
+      "count": 932,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H31/08": {
+      "code": "H01H31/08",
+      "level": 3,
+      "parent": "H01H31/04",
+      "ja": "接点操作機構の２以上の部分の相互鎖錠に対するもの",
+      "en": "for interlocking two or more parts of the mechanism for operating contacts",
+      "count": 528,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H31/10": {
+      "code": "H01H31/10",
+      "level": 3,
+      "parent": "H01H31/04",
+      "ja": "２つ以上のスイッチ間の相互鎖錠に対するもの",
+      "en": "for interlocking two or more switches",
+      "count": 1238,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H31/12": {
+      "code": "H01H31/12",
+      "level": 2,
+      "parent": "H01H31/02",
+      "ja": "ヒューズの組込みに適するもの",
+      "en": "Adaptation for built-in fuse",
+      "count": 1668,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H31/14": {
+      "code": "H01H31/14",
+      "level": 1,
+      "parent": "H01H31/00",
+      "ja": "スイッチ開放位置では線路接点のいずれにも電気的に接続されない橋絡接点をもつもの",
+      "en": "with bridging contact that is not electrically connected to either line contact in open position of switch",
+      "count": 178,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H31/16": {
+      "code": "H01H31/16",
+      "level": 2,
+      "parent": "H01H31/14",
+      "ja": "角的動作可能の橋絡接点または接触部材をもつもの",
+      "en": "with angularly-movable bridging contact or contact-carrying member",
+      "count": 288,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H31/18": {
+      "code": "H01H31/18",
+      "level": 3,
+      "parent": "H01H31/16",
+      "ja": "１つ以上の絶縁体の運動を介して作動されるもの",
+      "en": "actuated through the movement of one or more insulators",
+      "count": 64,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H31/20": {
+      "code": "H01H31/20",
+      "level": 4,
+      "parent": "H01H31/18",
+      "ja": "少なくとも１つの絶縁体が自己の幾何学的軸線の周りを回動するもの",
+      "en": "at least one insulator being rotatable about its own geometrical axis",
+      "count": 161,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H31/22": {
+      "code": "H01H31/22",
+      "level": 3,
+      "parent": "H01H31/16",
+      "ja": "その中で接点が装着部材に対して直線的に動きうるもの",
+      "en": "wherein the contact or contacts are rectilinearly movable with respect to the carrying member",
+      "count": 31,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H31/24": {
+      "code": "H01H31/24",
+      "level": 2,
+      "parent": "H01H31/14",
+      "ja": "直線的に動きうる橋絡接点をもつもの",
+      "en": "with rectilinearly-movable bridging contact",
+      "count": 376,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H31/26": {
+      "code": "H01H31/26",
+      "level": 1,
+      "parent": "H01H31/00",
+      "ja": "スイッチ開放位置で１つの線路接点に対して電気的に接続されて残る可動接点をもつもの",
+      "en": "with movable contact that remains electrically connected to one line in open position of switch",
+      "count": 472,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H31/28": {
+      "code": "H01H31/28",
+      "level": 2,
+      "parent": "H01H31/26",
+      "ja": "角的に可動の接点をもつもの",
+      "en": "with angularly-movable contact",
+      "count": 2019,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H31/30": {
+      "code": "H01H31/30",
+      "level": 3,
+      "parent": "H01H31/28",
+      "ja": "１つ以上の絶縁体の運動を介して作動されるもの",
+      "en": "actuated-through the movement of one or more insulators",
+      "count": 406,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H31/32": {
+      "code": "H01H31/32",
+      "level": 2,
+      "parent": "H01H31/26",
+      "ja": "直線的可動接点をもつもの",
+      "en": "with rectilinearly-movable contact",
+      "count": 1241,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H31/34": {
+      "code": "H01H31/34",
+      "level": 1,
+      "parent": "H01H31/00",
+      "ja": "架空送電線に係合するように適応した可動接点をもつもの，例．分岐のためのもの",
+      "en": "with movable contact adapted to engage an overhead transmission line, e.g. for branching",
+      "count": 126,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H31/36": {
+      "code": "H01H31/36",
+      "level": 2,
+      "parent": "H01H31/34",
+      "ja": "パンタグラフにより動作する接点",
+      "en": "Contact moved by pantograph",
+      "count": 216,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H33/00": {
+      "code": "H01H33/00",
+      "level": 0,
+      "parent": "H01H",
+      "ja": "消弧または発弧防止手段をもつ高電圧または大電流スイッチ",
+      "en": "High-tension or heavy-current switches with arc-extinguishing or arc-preventing means",
+      "count": 2386,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H33/02": {
+      "code": "H01H33/02",
+      "level": 1,
+      "parent": "H01H33/00",
+      "ja": "細部",
+      "en": "Details",
+      "count": 5437,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H33/04": {
+      "code": "H01H33/04",
+      "level": 2,
+      "parent": "H01H33/02",
+      "ja": "電流流通部分間で消弧または発弧を防止する装置",
+      "en": "Means for extinguishing or preventing arc between current-carrying parts",
+      "count": 1804,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H33/06": {
+      "code": "H01H33/06",
+      "level": 3,
+      "parent": "H01H33/04",
+      "ja": "接点間に差し込みうる絶縁体",
+      "en": "Insulating body insertable between contacts",
+      "count": 376,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H33/08": {
+      "code": "H01H33/08",
+      "level": 3,
+      "parent": "H01H33/04",
+      "ja": "アークを制限または細分するための静止部分，例．隔壁",
+      "en": "Stationary parts for restricting or subdividing the arc, e.g. barrier plate",
+      "count": 1608,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H33/10": {
+      "code": "H01H33/10",
+      "level": 4,
+      "parent": "H01H33/08",
+      "ja": "金属部分",
+      "en": "Metal parts",
+      "count": 419,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H33/12": {
+      "code": "H01H33/12",
+      "level": 3,
+      "parent": "H01H33/04",
+      "ja": "アークが主接点から移行される補助接点（アーキングホーンを使用するものＨ０１Ｈ３３／２０）",
+      "en": "Auxiliary contacts on to which the arc is transferred from the main contacts(using arcing horns <b>H01H33/20</b>)",
+      "count": 2382,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H33/14": {
+      "code": "H01H33/14",
+      "level": 3,
+      "parent": "H01H33/04",
+      "ja": "アークを通る電流またはアークに沿う電位降下を分割する多くの主接点",
+      "en": "Multiple main contacts for the purpose of dividing the current through, or potential drop along, the arc",
+      "count": 858,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H33/16": {
+      "code": "H01H33/16",
+      "level": 3,
+      "parent": "H01H33/04",
+      "ja": "インピーダンスが接点に接続されるもの",
+      "en": "Impedances connected with contacts",
+      "count": 1987,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H33/18": {
+      "code": "H01H33/18",
+      "level": 3,
+      "parent": "H01H33/04",
+      "ja": "磁気吹き消しを使用するもの",
+      "en": "using blow-out magnet",
+      "count": 1952,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H33/20": {
+      "code": "H01H33/20",
+      "level": 3,
+      "parent": "H01H33/04",
+      "ja": "アーキングホーンを用いるもの（磁気吹消しを用いるものＨ０１Ｈ３３／１８）",
+      "en": "using arcing horns(using blow-out magnet <b>H01H33/18</b>)",
+      "count": 321,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H33/22": {
+      "code": "H01H33/22",
+      "level": 3,
+      "parent": "H01H33/04",
+      "ja": "消弧のための流体の選択",
+      "en": "Selection of fluids for arc-extinguishing",
+      "count": 657,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H33/24": {
+      "code": "H01H33/24",
+      "level": 2,
+      "parent": "H01H33/02",
+      "ja": "電流の流れない部分に対する放電防止装置，例．コロナリングを使用するもの",
+      "en": "Means for preventing discharge to non-current-carrying parts, e.g. using corona ring",
+      "count": 867,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H33/26": {
+      "code": "H01H33/26",
+      "level": 2,
+      "parent": "H01H33/02",
+      "ja": "アークまたは他の放電の存在を検出する装置",
+      "en": "Means for detecting the presence of an arc or other discharge",
+      "count": 327,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H33/28": {
+      "code": "H01H33/28",
+      "level": 2,
+      "parent": "H01H33/02",
+      "ja": "駆動機構を操作するためのスイッチ内の動力装置",
+      "en": "Power arrangements internal to the switch for operating the driving mechanism",
+      "count": 908,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H33/30": {
+      "code": "H01H33/30",
+      "level": 3,
+      "parent": "H01H33/28",
+      "ja": "流体衝動を使用するもの",
+      "en": "using fluid actuator",
+      "count": 652,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H33/32": {
+      "code": "H01H33/32",
+      "level": 4,
+      "parent": "H01H33/30",
+      "ja": "圧縮空気圧",
+      "en": "pneumatic",
+      "count": 1464,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H33/34": {
+      "code": "H01H33/34",
+      "level": 4,
+      "parent": "H01H33/30",
+      "ja": "水圧",
+      "en": "hydraulic",
+      "count": 1128,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H33/36": {
+      "code": "H01H33/36",
+      "level": 3,
+      "parent": "H01H33/28",
+      "ja": "電動機を使用するもの",
+      "en": "using dynamo-electric motor",
+      "count": 728,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H33/38": {
+      "code": "H01H33/38",
+      "level": 3,
+      "parent": "H01H33/28",
+      "ja": "電磁石を使用するもの",
+      "en": "using electromagnet",
+      "count": 1456,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H33/40": {
+      "code": "H01H33/40",
+      "level": 3,
+      "parent": "H01H33/28",
+      "ja": "ばねモータを使用するもの",
+      "en": "using spring motor",
+      "count": 1878,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H33/42": {
+      "code": "H01H33/42",
+      "level": 2,
+      "parent": "H01H33/02",
+      "ja": "駆動機構",
+      "en": "Driving mechanisms",
+      "count": 5639,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H33/44": {
+      "code": "H01H33/44",
+      "level": 2,
+      "parent": "H01H33/02",
+      "ja": "交流周波の定められた点でスイッチの操作を確実にする装置（回路装置Ｈ０１Ｈ３３／５９）",
+      "en": "Devices for ensuring operation of the switch at a predetermined point in the AC cycle(circuit arrangements <b>H01H33/59</b>)",
+      "count": 232,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H33/46": {
+      "code": "H01H33/46",
+      "level": 2,
+      "parent": "H01H33/02",
+      "ja": "相互鎖錠装置",
+      "en": "Interlocking mechanisms",
+      "count": 963,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H33/48": {
+      "code": "H01H33/48",
+      "level": 3,
+      "parent": "H01H33/46",
+      "ja": "ケースまたはカバーと接点操作機構との間の相互鎖錠に対するもの",
+      "en": "for interlocking between casing or cover and mechanism for operating contacts",
+      "count": 329,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H33/50": {
+      "code": "H01H33/50",
+      "level": 3,
+      "parent": "H01H33/46",
+      "ja": "接点操作機構の２つ以上の部分を相互鎖錠するためのもの",
+      "en": "for interlocking two or more parts of the mechanism for operating contacts",
+      "count": 258,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H33/52": {
+      "code": "H01H33/52",
+      "level": 3,
+      "parent": "H01H33/46",
+      "ja": "２つ以上のスイッチを相互鎖錠するためのもの",
+      "en": "for interlocking two or more switches",
+      "count": 842,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H33/53": {
+      "code": "H01H33/53",
+      "level": 2,
+      "parent": "H01H33/02",
+      "ja": "ケース（開閉装置のためのものＨ０２Ｂ１／２６）；消弧用流体のための貯蔵器，タンク，配管または弁；そのための付属装置，例．安全装置，圧力除去装置［３］",
+      "en": "Cases(for switchgear <b>H02B1/26</b>);Reservoirs, tanks, piping or valves, for arc-extinguishing fluid; Accessories therefor, e.g. safety arrangements, pressure relief devices",
+      "count": 2966,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H33/55": {
+      "code": "H01H33/55",
+      "level": 3,
+      "parent": "H01H33/53",
+      "ja": "油貯蔵器またはタンク；その降下装置（スイッチの絶縁のため引出し機構に関連するものＨ０２Ｂ１１／０８）",
+      "en": "Oil reservoirs or tanks; Lowering means therefor(associated with withdrawal mechanism for isolation of switch <b>H02B11/08</b>)",
+      "count": 894,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H33/56": {
+      "code": "H01H33/56",
+      "level": 3,
+      "parent": "H01H33/53",
+      "ja": "ガス貯蔵器",
+      "en": "Gas reservoirs",
+      "count": 2713,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H33/57": {
+      "code": "H01H33/57",
+      "level": 3,
+      "parent": "H01H33/53",
+      "ja": "液体またはガスの再生",
+      "en": "Recuperation of liquid or gas",
+      "count": 392,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H33/575": {
+      "code": "H01H33/575",
+      "level": 3,
+      "parent": "H01H33/53",
+      "ja": "常時または非常時使用の圧力除去装置［３］",
+      "en": "Pressure relief devices for normal or emergency use",
+      "count": 261,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H33/58": {
+      "code": "H01H33/58",
+      "level": 3,
+      "parent": "H01H33/53",
+      "ja": "スイッチ操作ノイズを抑える消音装置［３］",
+      "en": "Silencers for suppressing noise of switch operation",
+      "count": 154,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H33/59": {
+      "code": "H01H33/59",
+      "level": 2,
+      "parent": "H01H33/02",
+      "ja": "スイッチの特殊な使用に適さない回路装置で他類に属しないもの，例．交流周波の定められた点でスイッチの操作を確実にするためのもの",
+      "en": "Circuit arrangements not adapted to a particular application of the switch and not otherwise provided for, e.g. for ensuring operation of the switch at a predetermined point in the AC cycle",
+      "count": 3626,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H33/60": {
+      "code": "H01H33/60",
+      "level": 1,
+      "parent": "H01H33/00",
+      "ja": "消弧または発弧防止装置が消弧用流体の吹き付けを得るためまたは増加したりする別の装置を含まないスイッチ",
+      "en": "Switches wherein the means for extinguishing or preventing the arc do not include separate means for obtaining or increasing flow of arc-extinguishing fluid",
+      "count": 209,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H33/64": {
+      "code": "H01H33/64",
+      "level": 2,
+      "parent": "H01H33/60",
+      "ja": "開放がガス中であるもの（真空スイッチＨ０１Ｈ３３／６６）",
+      "en": "wherein the break is in gas(vacuum switches <b>H01H33/66</b>)",
+      "count": 1509,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H33/65": {
+      "code": "H01H33/65",
+      "level": 3,
+      "parent": "H01H33/64",
+      "ja": "開放が大気圧の気中であるもの，例．開放空気中　［２００９．０１］",
+      "en": "wherein the break is in air at atmospheric pressure, e.g. in open air",
+      "count": 1288,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H33/66": {
+      "code": "H01H33/66",
+      "level": 2,
+      "parent": "H01H33/60",
+      "ja": "真空スイッチ",
+      "en": "Vacuum switches",
+      "count": 16917,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H33/662": {
+      "code": "H01H33/662",
+      "level": 3,
+      "parent": "H01H33/66",
+      "ja": "ハウジングまたは保護スクリーン［７］",
+      "en": "Housings or protective screens",
+      "count": 5875,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H33/664": {
+      "code": "H01H33/664",
+      "level": 3,
+      "parent": "H01H33/66",
+      "ja": "接点；消弧手段，例．アーキング・リング［７］",
+      "en": "Contacts; Arc-extinguishing means, e.g. arcing rings",
+      "count": 6175,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H33/666": {
+      "code": "H01H33/666",
+      "level": 3,
+      "parent": "H01H33/66",
+      "ja": "操作系の配置［７］",
+      "en": "Operating arrangements",
+      "count": 7591,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H33/668": {
+      "code": "H01H33/668",
+      "level": 3,
+      "parent": "H01H33/66",
+      "ja": "真空を得るための，または監視するための手段［７］",
+      "en": "Means for obtaining or monitoring the vacuum",
+      "count": 611,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H33/68": {
+      "code": "H01H33/68",
+      "level": 2,
+      "parent": "H01H33/60",
+      "ja": "液体遮断スイッチ，例．油遮断器",
+      "en": "Liquid-break switches, e.g. oil-break",
+      "count": 284,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H33/70": {
+      "code": "H01H33/70",
+      "level": 1,
+      "parent": "H01H33/00",
+      "ja": "消弧用流体の吹き付けを方向づけるため，得るためまたは増大させるための別の装置をもつスイッチ",
+      "en": "Switches with separate means for directing, obtaining, or increasing flow of arc-extinguishing fluid",
+      "count": 3119,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H33/72": {
+      "code": "H01H33/72",
+      "level": 2,
+      "parent": "H01H33/70",
+      "ja": "消弧液体の吹き付けを方向づける固定部分をもつもの，例．消弧室",
+      "en": "having stationary parts for directing the flow of arc-extinguishing fluid, e.g. arc-extinguishing chamber",
+      "count": 515,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H33/73": {
+      "code": "H01H33/73",
+      "level": 3,
+      "parent": "H01H33/72",
+      "ja": "開放が大気圧の気中であるもの，例．開放空気中",
+      "en": "wherein the break is in air at atmospheric pressure, e.g. in open air",
+      "count": 104,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H33/74": {
+      "code": "H01H33/74",
+      "level": 3,
+      "parent": "H01H33/72",
+      "ja": "開放がガス中であるもの（大気圧の空気中のものＨ０１Ｈ３３／７３）",
+      "en": "wherein the break is in gas(in air at atmospheric pressure <b>H01H33/73</b>)",
+      "count": 484,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H33/75": {
+      "code": "H01H33/75",
+      "level": 3,
+      "parent": "H01H33/72",
+      "ja": "液体遮断スイッチ，例．油遮断器",
+      "en": "Liquid-break switches, e.g. oil-break",
+      "count": 972,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H33/76": {
+      "code": "H01H33/76",
+      "level": 2,
+      "parent": "H01H33/70",
+      "ja": "消弧用ガスが静止部分から放出されるもの；そのための材料の選択",
+      "en": "wherein arc-extinguishing gas is evolved from stationary parts; Selection of material therefor",
+      "count": 757,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H33/77": {
+      "code": "H01H33/77",
+      "level": 3,
+      "parent": "H01H33/76",
+      "ja": "開放が大気圧の空気中であるもの",
+      "en": "wherein the break is in air at atmospheric pressure",
+      "count": 178,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H33/78": {
+      "code": "H01H33/78",
+      "level": 3,
+      "parent": "H01H33/76",
+      "ja": "開放がガス中であるもの（大気圧の空気中であるものＨ０１Ｈ３３／７７）",
+      "en": "wherein the break is in gas(in air at atmospheric pressure <b>H01H33/77</b>)",
+      "count": 90,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H33/80": {
+      "code": "H01H33/80",
+      "level": 2,
+      "parent": "H01H33/70",
+      "ja": "圧力源からの消弧流体の吹き付けが弁により制御されるもの",
+      "en": "flow of arc-extinguishing fluid from a pressure source being controlled by a valve",
+      "count": 76,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H33/82": {
+      "code": "H01H33/82",
+      "level": 3,
+      "parent": "H01H33/80",
+      "ja": "流体が空気またはガスのもの",
+      "en": "the fluid being air or gas",
+      "count": 396,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H33/825": {
+      "code": "H01H33/825",
+      "level": 4,
+      "parent": "H01H33/82",
+      "ja": "空気またはガスの閉回路をもつもの（Ｈ０１Ｈ３３／８３５が優先）［３］",
+      "en": "with closed circuit of air or gas(<b>H01H33/835</b> takes precedence)",
+      "count": 191,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H33/83": {
+      "code": "H01H33/83",
+      "level": 4,
+      "parent": "H01H33/82",
+      "ja": "接点が空気またはガスの吹き付けにより開くもの",
+      "en": "wherein the contacts are opened by the flow of air or gas",
+      "count": 191,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H33/835": {
+      "code": "H01H33/835",
+      "level": 5,
+      "parent": "H01H33/83",
+      "ja": "空気またはガスの閉回路をもつもの［３］",
+      "en": "with closed circuit of air or gas",
+      "count": 108,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H33/84": {
+      "code": "H01H33/84",
+      "level": 3,
+      "parent": "H01H33/80",
+      "ja": "流体が液体，例．油，であるもの",
+      "en": "the fluid being liquid, e.g. oil",
+      "count": 25,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H33/85": {
+      "code": "H01H33/85",
+      "level": 4,
+      "parent": "H01H33/84",
+      "ja": "接点が液体の吹き付けにより開くもの",
+      "en": "wherein the contacts are opened by the flow of liquid",
+      "count": 6,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H33/86": {
+      "code": "H01H33/86",
+      "level": 2,
+      "parent": "H01H33/70",
+      "ja": "接点空所からの圧力下の消弧流体の吹き付けが弁により制御されるもの",
+      "en": "the flow of arc-extinguishing fluid under pressure from the contact space being controlled by a valve",
+      "count": 333,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H33/867": {
+      "code": "H01H33/867",
+      "level": 3,
+      "parent": "H01H33/86",
+      "ja": "流体が空気またはガスであるもの［３］",
+      "en": "the fluid being air or gas",
+      "count": 390,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H33/873": {
+      "code": "H01H33/873",
+      "level": 4,
+      "parent": "H01H33/867",
+      "ja": "空気またはガスの閉回路をもつもの［３］",
+      "en": "with closed circuit of air or gas",
+      "count": 164,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H33/88": {
+      "code": "H01H33/88",
+      "level": 2,
+      "parent": "H01H33/70",
+      "ja": "消弧流体の吹き付けがピストンまたは他の圧力発生部の運動により発生しまたは増大するもの",
+      "en": "the flow of arc-extinguishing fluid being produced or increased by movement of pistons or other pressure-producing parts",
+      "count": 954,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H33/90": {
+      "code": "H01H33/90",
+      "level": 3,
+      "parent": "H01H33/88",
+      "ja": "この運動が接点操作機構によりまたは関連して行なわれるもの",
+      "en": "this movement being effected by, or in conjunction with, the contact-operating mechanism",
+      "count": 542,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H33/91": {
+      "code": "H01H33/91",
+      "level": 4,
+      "parent": "H01H33/90",
+      "ja": "消弧流体が空気またはガスのもの",
+      "en": "the arc-extinguishing fluid being air or gas",
+      "count": 2780,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H33/915": {
+      "code": "H01H33/915",
+      "level": 5,
+      "parent": "H01H33/91",
+      "ja": "空気またはガスの閉回路をもつもの［３］",
+      "en": "with closed circuit of air or gas",
+      "count": 2105,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H33/92": {
+      "code": "H01H33/92",
+      "level": 4,
+      "parent": "H01H33/90",
+      "ja": "消弧流体が液体，例．油，のもの",
+      "en": "the arc-extinguishing fluid being liquid, e.g. oil",
+      "count": 352,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H33/94": {
+      "code": "H01H33/94",
+      "level": 3,
+      "parent": "H01H33/88",
+      "ja": "この運動がアーク自体または補助アークにより生じた圧力によってのみ行なわれるもの",
+      "en": "this movement being effected solely due to the pressure caused by the arc itself or by an auxiliary arc",
+      "count": 54,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H33/95": {
+      "code": "H01H33/95",
+      "level": 4,
+      "parent": "H01H33/94",
+      "ja": "消弧流体が空気またはガスのもの",
+      "en": "the arc-extinguishing fluid being air or gas",
+      "count": 49,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H33/96": {
+      "code": "H01H33/96",
+      "level": 4,
+      "parent": "H01H33/94",
+      "ja": "消弧流体が液体，例．油，のもの",
+      "en": "the arc-extinguishing fluid being liquid, e.g. oil",
+      "count": 194,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H33/98": {
+      "code": "H01H33/98",
+      "level": 2,
+      "parent": "H01H33/70",
+      "ja": "消弧流体の吹き付けが，吹き付けを発生しまたは増大するための可動部分をもたないで，補助アークまたはアークの一部分により作られるもの",
+      "en": "the flow of arc-extinguishing fluid being initiated by an auxiliary arc or a section of the arc, without any moving parts for producing or increasing the flow",
+      "count": 628,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H33/985": {
+      "code": "H01H33/985",
+      "level": 3,
+      "parent": "H01H33/98",
+      "ja": "流体が空気またはガスであるもの［３］",
+      "en": "the fluid being air or gas",
+      "count": 455,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H33/99": {
+      "code": "H01H33/99",
+      "level": 3,
+      "parent": "H01H33/98",
+      "ja": "流体が液体であるもの［３］",
+      "en": "the fluid being liquid",
+      "count": 3,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H35/00": {
+      "code": "H01H35/00",
+      "level": 0,
+      "parent": "H01H",
+      "ja": "物理状態の変化により操作されるスイッチ（磁界または電界の変化で動作するものＨ０１Ｈ３６／００；熱作動スイッチＨ０１Ｈ３７／００）<br><br><b><ul>注</ul></b><br>開閉装置は装置への入力として作用する変化の物理的状態によって分類される，例．スイッチに作用する圧力波を生じる外部爆発は３５／２４，爆発がスイッチ内部に生じる爆発で，熱により起爆されるものは３７／００，電気的に起爆されるものは３９／００，外部からの吹付けで起爆されるものは３５／１４にそれぞれ分類される。",
+      "en": "Switches operated by change of a physical condition(operated by change of magnetic or electric field <b>H01H36/00</b>; thermally-actuated switches <b>H01H37/00</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>A switching device is classified according to that physical condition which when changed acts as input to the device, e.g. external explosion causing pressure wave to act upon switch is classified in group <b>H01H35/24</b>, an explosion produced within the switch in group <b>H01H37/00</b> if initiated by heat, in group <b>H01H39/00</b> if initiated electrically, and in group <b>H01H35/14</b> if initiated by an external blow.</li></ul>",
+      "count": 8956,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H35/02": {
+      "code": "H01H35/02",
+      "level": 1,
+      "parent": "H01H35/00",
+      "ja": "重力区域に関してスイッチ自身の位置傾きあるいは方位の変化により作動されるスイッチ（水銀容器の傾きＨ０１Ｈ２９／２０；液体面の変化による位置の変化Ｈ０１Ｈ３５／１８）",
+      "en": "Switches operated by change of position, inclination, or orientation of the switch itself in relation to gravitational field(tilting mercury container <b>H01H29/20</b>; change of position due to change of liquid level <b>H01H35/18</b>)",
+      "count": 2536,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H35/06": {
+      "code": "H01H35/06",
+      "level": 1,
+      "parent": "H01H35/00",
+      "ja": "速度の変化により作動されるスイッチ（流体の流れの変化により操作されるものＨ０１Ｈ３５／２４）",
+      "en": "Switches operated by change of speed(operated by change of fluid flow <b>H01H35/24</b>)",
+      "count": 387,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H35/10": {
+      "code": "H01H35/10",
+      "level": 2,
+      "parent": "H01H35/06",
+      "ja": "遠心力スイッチ（遠心作動により転位する水銀面Ｈ０１Ｈ２９／２６）",
+      "en": "Centrifugal switches(level of mercury displaced by centrifugal action <b>H01H29/26</b>)",
+      "count": 1635,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H35/12": {
+      "code": "H01H35/12",
+      "level": 2,
+      "parent": "H01H35/06",
+      "ja": "移動方向の逆転により操作されるもの",
+      "en": "operated by reversal of direction of movement",
+      "count": 167,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H35/14": {
+      "code": "H01H35/14",
+      "level": 1,
+      "parent": "H01H35/00",
+      "ja": "加速度の変化により操作されるスイッチ，例．衝撃または振動，慣性スイッチ",
+      "en": "Switches operated by change of acceleration, e.g. by shock or vibration, inertia switch",
+      "count": 4358,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H35/18": {
+      "code": "H01H35/18",
+      "level": 1,
+      "parent": "H01H35/00",
+      "ja": "液体面または液体比重の変化により操作されるスイッチ，例．フロートスイッチ（浮きの上に設けられた磁石によるものＨ０１Ｈ３６／０２）",
+      "en": "Switches operated by change of liquid level or of liquid density, e.g. float switch(by magnet carried on a float <b>H01H36/02</b>)",
+      "count": 2727,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H35/24": {
+      "code": "H01H35/24",
+      "level": 1,
+      "parent": "H01H35/00",
+      "ja": "流体の圧力，流体圧力波または流体の流量の変化により操作されるスイッチ（その中で圧力変化が温度の変化により生じたものＨ０１Ｈ３７／３６）",
+      "en": "Switches operated by change of fluid pressure, by fluid pressure waves, or by change of fluid flow(wherein the change of pressure is caused by change of temperature <b>H01H37/36</b>)",
+      "count": 2408,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H35/26": {
+      "code": "H01H35/26",
+      "level": 2,
+      "parent": "H01H35/24",
+      "ja": "細部",
+      "en": "Details",
+      "count": 3727,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H35/28": {
+      "code": "H01H35/28",
+      "level": 3,
+      "parent": "H01H35/26",
+      "ja": "周囲の圧力または温度の変化に対する補償",
+      "en": "Compensation for variation of ambient pressure or temperature",
+      "count": 322,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H35/30": {
+      "code": "H01H35/30",
+      "level": 3,
+      "parent": "H01H35/26",
+      "ja": "圧力感応操作部分へ圧力を伝達する手段，例．カプセルおよび毛細管によるもの",
+      "en": "Means for transmitting pressure to pressure-responsive operating part, e.g. by capsule and capillary tube",
+      "count": 256,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H35/32": {
+      "code": "H01H35/32",
+      "level": 2,
+      "parent": "H01H35/24",
+      "ja": "ベローズにより作動するもの",
+      "en": "actuated by bellows",
+      "count": 651,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H35/34": {
+      "code": "H01H35/34",
+      "level": 2,
+      "parent": "H01H35/24",
+      "ja": "ダイヤフラムにより作動するもの",
+      "en": "actuated by diaphragm",
+      "count": 3700,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H35/36": {
+      "code": "H01H35/36",
+      "level": 2,
+      "parent": "H01H35/24",
+      "ja": "渦巻状可撓管，例．ブルドン管，により作動するもの",
+      "en": "actuated by curled flexible tube, e.g. Bourdon tube",
+      "count": 303,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H35/38": {
+      "code": "H01H35/38",
+      "level": 2,
+      "parent": "H01H35/24",
+      "ja": "ピストンおよびシリンダにより作動するもの",
+      "en": "actuated by piston and cylinder",
+      "count": 1105,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H35/40": {
+      "code": "H01H35/40",
+      "level": 2,
+      "parent": "H01H35/24",
+      "ja": "流体を連続的に流す装置，例．翼車，により作動するもの",
+      "en": "actuated by devices allowing continual flow of fluid, e.g. vane",
+      "count": 1050,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H35/42": {
+      "code": "H01H35/42",
+      "level": 1,
+      "parent": "H01H35/00",
+      "ja": "湿度変化により操作されるスイッチ",
+      "en": "Switches operated by change of humidity",
+      "count": 450,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H36/00": {
+      "code": "H01H36/00",
+      "level": 0,
+      "parent": "H01H",
+      "ja": "磁界または電界の変化によって操作されるスイッチ，例．磁石とスイッチの相対位置の変化によるもの，遮へいによるもの",
+      "en": "Switches actuated by change of magnetic field or of electric field, e.g. by change of relative position of magnet and switch, by shielding",
+      "count": 15880,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H36/02": {
+      "code": "H01H36/02",
+      "level": 1,
+      "parent": "H01H36/00",
+      "ja": "磁石を設けた浮きの移動により作動するもの",
+      "en": "actuated by movement of a float carrying a magnet",
+      "count": 1698,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H37/00": {
+      "code": "H01H37/00",
+      "level": 0,
+      "parent": "H01H",
+      "ja": "熱応動スイッチ",
+      "en": "Thermally-actuated switches",
+      "count": 1964,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H37/02": {
+      "code": "H01H37/02",
+      "level": 1,
+      "parent": "H01H37/00",
+      "ja": "細部",
+      "en": "Details",
+      "count": 2083,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H37/04": {
+      "code": "H01H37/04",
+      "level": 2,
+      "parent": "H01H37/02",
+      "ja": "基台；箱体；装架",
+      "en": "Bases; Housings; Mountings",
+      "count": 3520,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H37/06": {
+      "code": "H01H37/06",
+      "level": 3,
+      "parent": "H01H37/04",
+      "ja": "交換を容易にするもの，例．カートリッジハウジング",
+      "en": "to facilitate replacement, e.g. cartridge housing",
+      "count": 198,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H37/08": {
+      "code": "H01H37/08",
+      "level": 2,
+      "parent": "H01H37/02",
+      "ja": "指示器；識別標識",
+      "en": "Indicators; Distinguishing marks",
+      "count": 250,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H37/10": {
+      "code": "H01H37/10",
+      "level": 2,
+      "parent": "H01H37/02",
+      "ja": "周囲温度または圧力の変化に対する補償",
+      "en": "Compensation for variation of ambient temperature or pressure",
+      "count": 390,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H37/12": {
+      "code": "H01H37/12",
+      "level": 2,
+      "parent": "H01H37/02",
+      "ja": "オンまたはオフの作動温度を調整する手段",
+      "en": "Means for adjustment of \"on\" or \"off\" operating temperature",
+      "count": 1087,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H37/14": {
+      "code": "H01H37/14",
+      "level": 3,
+      "parent": "H01H37/12",
+      "ja": "先行電気加熱装置によるもの",
+      "en": "by anticipatory electric heater",
+      "count": 321,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H37/16": {
+      "code": "H01H37/16",
+      "level": 3,
+      "parent": "H01H37/12",
+      "ja": "熱素子に感受する熱の入力の比率を変化させることによるもの，例．遮へいの移動によるもの",
+      "en": "by varying the proportion of input heat received by the thermal element, e.g. by displacement of a shield",
+      "count": 54,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H37/18": {
+      "code": "H01H37/18",
+      "level": 3,
+      "parent": "H01H37/12",
+      "ja": "分離したスプリングにより熱素子のバイアスを変化させることによるもの",
+      "en": "by varying bias on the thermal element due to a separate spring",
+      "count": 147,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H37/20": {
+      "code": "H01H37/20",
+      "level": 3,
+      "parent": "H01H37/12",
+      "ja": "スイッチ基台や箱体に関連する感熱素子の位置を変化させることによるもの",
+      "en": "by varying the position of the thermal element in relation to switch base or casing",
+      "count": 148,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H37/22": {
+      "code": "H01H37/22",
+      "level": 3,
+      "parent": "H01H37/12",
+      "ja": "感熱素子から接点またはラッチまでの動きを伝達する部材の調節によるもの",
+      "en": "by adjustment of a member transmitting motion from the thermal element to contacts or latch",
+      "count": 221,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H37/24": {
+      "code": "H01H37/24",
+      "level": 3,
+      "parent": "H01H37/12",
+      "ja": "駆動部材上の可動接点の位置の調節によるもの",
+      "en": "by adjustment of position of the movable contact on its driving member",
+      "count": 41,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H37/26": {
+      "code": "H01H37/26",
+      "level": 3,
+      "parent": "H01H37/12",
+      "ja": "可動接点のオフ位置に対する受面の調節によるもの",
+      "en": "by adjustment of abutment for \"off\" position of the movable contact",
+      "count": 54,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H37/28": {
+      "code": "H01H37/28",
+      "level": 3,
+      "parent": "H01H37/12",
+      "ja": "固定接点の位置の調節によるもの",
+      "en": "by adjustment of the position of the fixed contact",
+      "count": 175,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H37/30": {
+      "code": "H01H37/30",
+      "level": 3,
+      "parent": "H01H37/12",
+      "ja": "スイッチ基台または箱体に関連する接点ユニットの位置を変化させることによるもの",
+      "en": "by varying the position of the contact unit in relation to switch base or casing",
+      "count": 79,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H37/32": {
+      "code": "H01H37/32",
+      "level": 2,
+      "parent": "H01H37/02",
+      "ja": "感熱部材",
+      "en": "Thermally-sensitive members",
+      "count": 2220,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H37/34": {
+      "code": "H01H37/34",
+      "level": 3,
+      "parent": "H01H37/32",
+      "ja": "それに熱を伝達する手段，例．接点部材から離れたカプセル",
+      "en": "Means for transmitting heat thereto, e.g. capsule remote from contact member",
+      "count": 469,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H37/36": {
+      "code": "H01H37/36",
+      "level": 3,
+      "parent": "H01H37/32",
+      "ja": "蒸発を伴うか伴わない流体の膨張または収縮により作動するもの（スイッチの接点を形成する流体Ｈ０１Ｈ２９／０４，Ｈ０１Ｈ２９／３０）",
+      "en": "actuated due to expansion or contraction of a fluid with or without vaporisation(the fluid forming a contact of the switch <b>H01H29/04</b>, <b>H01H29/30</b>)",
+      "count": 931,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H37/38": {
+      "code": "H01H37/38",
+      "level": 4,
+      "parent": "H01H37/36",
+      "ja": "ベローズをもつもの",
+      "en": "with bellows",
+      "count": 485,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H37/40": {
+      "code": "H01H37/40",
+      "level": 4,
+      "parent": "H01H37/36",
+      "ja": "ダイヤフラムをもつもの",
+      "en": "with diaphragm",
+      "count": 497,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H37/42": {
+      "code": "H01H37/42",
+      "level": 4,
+      "parent": "H01H37/36",
+      "ja": "渦巻き状の可撓管，例．ブルドン管，をもつもの",
+      "en": "with curled flexible tube, e.g. Bourdon tube",
+      "count": 28,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H37/44": {
+      "code": "H01H37/44",
+      "level": 4,
+      "parent": "H01H37/36",
+      "ja": "ピストンおよびシリンダをもつもの",
+      "en": "with piston and cylinder",
+      "count": 121,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H37/46": {
+      "code": "H01H37/46",
+      "level": 3,
+      "parent": "H01H37/32",
+      "ja": "固体の膨張または収縮により作動するもの（バイメタル素子の変形Ｈ０１Ｈ３７／５２）",
+      "en": "actuated due to expansion or contraction of a solid(deflection of a bimetallic element <b>H01H37/52</b>)",
+      "count": 906,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H37/48": {
+      "code": "H01H37/48",
+      "level": 4,
+      "parent": "H01H37/46",
+      "ja": "伸長可能の剛体の棒または管をもつもの",
+      "en": "with extensible rigid rods or tubes",
+      "count": 699,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H37/50": {
+      "code": "H01H37/50",
+      "level": 4,
+      "parent": "H01H37/46",
+      "ja": "伸長可能な緊張した線をもつもの",
+      "en": "with extensible wires under tension",
+      "count": 250,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H37/52": {
+      "code": "H01H37/52",
+      "level": 3,
+      "parent": "H01H37/32",
+      "ja": "バイメタル素子の変形により作動するもの",
+      "en": "actuated due to deflection of bimetallic element",
+      "count": 4817,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H37/54": {
+      "code": "H01H37/54",
+      "level": 4,
+      "parent": "H01H37/52",
+      "ja": "その中でバイメタル素子が固有のスナップ作動をするもの",
+      "en": "wherein the bimetallic element is inherently snap acting",
+      "count": 3314,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H37/56": {
+      "code": "H01H37/56",
+      "level": 4,
+      "parent": "H01H37/52",
+      "ja": "渦巻きまたはら旋巻きバイメタル素子をもつもの",
+      "en": "having spirally wound or helically wound bimetallic element",
+      "count": 377,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H37/58": {
+      "code": "H01H37/58",
+      "level": 3,
+      "parent": "H01H37/32",
+      "ja": "磁石の熱的に制御される導磁率の変化によって作動するもの",
+      "en": "actuated due to thermally controlled change of magnetic permeability",
+      "count": 1832,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H37/60": {
+      "code": "H01H37/60",
+      "level": 2,
+      "parent": "H01H37/02",
+      "ja": "速動動作を生じさせる手段（バイメタル素子に特有のものＨ０１Ｈ３７／５４；磁石によって生ずるものＨ０１Ｈ３７／６６）",
+      "en": "Means for producing snap action(inherent in bimetallic element <b>H01H37/54</b>; caused by a magnet <b>H01H37/66</b>)",
+      "count": 828,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H37/62": {
+      "code": "H01H37/62",
+      "level": 2,
+      "parent": "H01H37/02",
+      "ja": "あらかじめ定められた遅延を生じるための熱的手段とは別の手段",
+      "en": "Means other than thermal means for introducing a predetermined time delay",
+      "count": 53,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H37/64": {
+      "code": "H01H37/64",
+      "level": 2,
+      "parent": "H01H37/02",
+      "ja": "接点",
+      "en": "Contacts",
+      "count": 856,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H37/66": {
+      "code": "H01H37/66",
+      "level": 3,
+      "parent": "H01H37/64",
+      "ja": "接触圧の磁気的補強；速動動作を生じる磁石",
+      "en": "Magnetic reinforcement of contact pressure; Magnet causing snap action",
+      "count": 471,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H37/68": {
+      "code": "H01H37/68",
+      "level": 3,
+      "parent": "H01H37/64",
+      "ja": "真空またはガス入り管に密閉されるもの",
+      "en": "sealed in evacuated or gas-filled tube",
+      "count": 369,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H37/70": {
+      "code": "H01H37/70",
+      "level": 3,
+      "parent": "H01H37/64",
+      "ja": "リセット手段",
+      "en": "Resetting means",
+      "count": 408,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H37/72": {
+      "code": "H01H37/72",
+      "level": 1,
+      "parent": "H01H37/00",
+      "ja": "接点の開放運動と閉成運動が加熱し次に冷却するかあるいはその逆の動作で別々に行なわれるスイッチ",
+      "en": "Switches in which the opening movement and the closing movement of a contact are effected respectively by heating and cooling or <u>vice versa</u>",
+      "count": 479,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H37/74": {
+      "code": "H01H37/74",
+      "level": 1,
+      "parent": "H01H37/00",
+      "ja": "接点の開放運動のみあるいは閉成運動のみが加熱または冷却により行なわれるスイッチ",
+      "en": "Switches in which only the opening movement or only the closing movement of a contact is effected by heating or cooling",
+      "count": 619,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H37/76": {
+      "code": "H01H37/76",
+      "level": 2,
+      "parent": "H01H37/74",
+      "ja": "可溶材料の溶融により，可燃材料の燃焼によりまたは爆発材料の爆発により作動される接点部材",
+      "en": "Contact member actuated by melting of fusible material, actuated due to burning of combustible material or due to explosion of explosive material",
+      "count": 11264,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H39/00": {
+      "code": "H01H39/00",
+      "level": 0,
+      "parent": "H01H",
+      "ja": "電流により始動され，装置内で生じる爆発によって作動される開閉装置",
+      "en": "Switching devices actuated by an explosion produced within the device and initiated by an electric current",
+      "count": 1573,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H41/00": {
+      "code": "H01H41/00",
+      "level": 0,
+      "parent": "H01H",
+      "ja": "操作部分の単なる手動操作により接点の選択された連続的動作を規定するスイッチ",
+      "en": "Switches providing a selected number of consecutive operations of the contacts by a single manual actuation of the operating part",
+      "count": 569,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H41/04": {
+      "code": "H01H41/04",
+      "level": 1,
+      "parent": "H01H41/00",
+      "ja": "多くのデジタル数をセットあるいは機械的に蓄える手段をもたないスイッチ",
+      "en": "Switches without means for setting or mechanically storing a multidigit number",
+      "count": 15,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H41/06": {
+      "code": "H01H41/06",
+      "level": 2,
+      "parent": "H01H41/04",
+      "ja": "ダイヤルまたはスライド操作のもの",
+      "en": "dial or slide operated",
+      "count": 8,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H41/08": {
+      "code": "H01H41/08",
+      "level": 2,
+      "parent": "H01H41/04",
+      "ja": "けん盤操作のもの",
+      "en": "keyboard operated",
+      "count": 19,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H41/10": {
+      "code": "H01H41/10",
+      "level": 1,
+      "parent": "H01H41/00",
+      "ja": "多くのデジタル数をセットまたは機械的に蓄える手段を有するスイッチ",
+      "en": "Switches with means for setting or mechanically storing a multidigit number",
+      "count": 13,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H41/12": {
+      "code": "H01H41/12",
+      "level": 2,
+      "parent": "H01H41/10",
+      "ja": "ダイヤルまたはスライド操作のもの",
+      "en": "dial or slide operated",
+      "count": 5,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H41/14": {
+      "code": "H01H41/14",
+      "level": 2,
+      "parent": "H01H41/10",
+      "ja": "けん盤操作のもの",
+      "en": "keyboard operated",
+      "count": 9,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H43/00": {
+      "code": "H01H43/00",
+      "level": 0,
+      "parent": "H01H",
+      "ja": "１つ以上の開閉動作を遂行するための時間間隔の選択をなし，かつプログラムの完了後は自動的にその操作を終了する時限または時限プログラムスイッチ",
+      "en": "Time or time-programme switches providing a choice of time-intervals for executing one or more switching actions and automatically terminating their operation after the programme is completed",
+      "count": 3694,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H43/02": {
+      "code": "H01H43/02",
+      "level": 1,
+      "parent": "H01H43/00",
+      "ja": "細部",
+      "en": "Details",
+      "count": 2958,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H43/04": {
+      "code": "H01H43/04",
+      "level": 2,
+      "parent": "H01H43/02",
+      "ja": "時間設定のための手段",
+      "en": "Means for time setting",
+      "count": 2493,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H43/06": {
+      "code": "H01H43/06",
+      "level": 3,
+      "parent": "H01H43/04",
+      "ja": "各プログラム段階に対し個々の調節可能部分を含むもの，例．タペットをもつもの",
+      "en": "comprising separately adjustable parts for each programme step, e.g. with tappets",
+      "count": 792,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H43/08": {
+      "code": "H01H43/08",
+      "level": 3,
+      "parent": "H01H43/04",
+      "ja": "全プログラム段階に共通である交換しうるプログラム部分を含むもの，例．せん孔カードをもつもの",
+      "en": "comprising an interchangeable programme part which is common for all programme steps, e.g. with a punched card",
+      "count": 161,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H43/10": {
+      "code": "H01H43/10",
+      "level": 1,
+      "parent": "H01H43/00",
+      "ja": "事実上一定速度で回転する部分により接点の作動にタイミングをもつもの",
+      "en": "with timing of actuation of contacts due to a part rotating at substantially constant speed",
+      "count": 3924,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H43/12": {
+      "code": "H01H43/12",
+      "level": 2,
+      "parent": "H01H43/10",
+      "ja": "操作の１周期後に自動的に停止するもの",
+      "en": "stopping automatically after a single cycle of operation",
+      "count": 1623,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H43/14": {
+      "code": "H01H43/14",
+      "level": 3,
+      "parent": "H01H43/12",
+      "ja": "その中で時間間隔のリセットを必要とする操作の繰り返しをするもの",
+      "en": "wherein repetition of operation necessitates resetting of time intervals",
+      "count": 63,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H43/16": {
+      "code": "H01H43/16",
+      "level": 2,
+      "parent": "H01H43/10",
+      "ja": "操作のあらかじめ定められた複数の周期後に自動的に停止するもの",
+      "en": "stopping automatically after a predetermined plurality of cycles of operation",
+      "count": 114,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H43/24": {
+      "code": "H01H43/24",
+      "level": 1,
+      "parent": "H01H43/00",
+      "ja": "回転しない運動部分により接点の作動にタイミングをもつもの",
+      "en": "with timing of actuation of contacts due to a non-rotatably moving part",
+      "count": 398,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H43/26": {
+      "code": "H01H43/26",
+      "level": 2,
+      "parent": "H01H43/24",
+      "ja": "重力により流動する物質，例．砂，水，によって生じる作動",
+      "en": "the actuation being produced by a substance flowing due to gravity, e.g. sand, water",
+      "count": 52,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H43/28": {
+      "code": "H01H43/28",
+      "level": 2,
+      "parent": "H01H43/24",
+      "ja": "速度が流体圧手段，例．ピストンおよびシリンダ，により制御される部品により生じる作動",
+      "en": "the actuation being produced by a part, the speed of which is controlled by fluid-pressure means, e.g. by piston and cylinder",
+      "count": 458,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H43/30": {
+      "code": "H01H43/30",
+      "level": 1,
+      "parent": "H01H43/00",
+      "ja": "熱作動により接点の作動にタイミングをもつもの",
+      "en": "with timing of actuation of contacts due to thermal action",
+      "count": 911,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H43/32": {
+      "code": "H01H43/32",
+      "level": 1,
+      "parent": "H01H43/00",
+      "ja": "電解過程により接点の作動にタイミングをもつもの；化学工程により接点の作動にタイミングをもつもの",
+      "en": "with timing of actuation of contacts due to electrolytic processes; with timing of actuation of contacts due to chemical processes",
+      "count": 173,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H45/00": {
+      "code": "H01H45/00",
+      "level": 0,
+      "parent": "H01H",
+      "ja": "継電器の細部（電気回路装置Ｈ０１Ｈ４７／００；電磁継電器の細部Ｈ０１Ｈ５０／００；電気的に操作されるセレクタスイッチの細部Ｈ０１Ｈ６３／００）",
+      "en": "Details of relays(electric circuit arrangements <b>H01H47/00</b>; of electromagnetic relays <b>H01H50/00</b>; details of electrically-operated selector switches <b>H01H63/00</b>)",
+      "count": 872,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H45/02": {
+      "code": "H01H45/02",
+      "level": 1,
+      "parent": "H01H45/00",
+      "ja": "基台；ケーシング；カバー（２つ以上の継電器を取り付けるための枠または１つの継電器と他の電気的構成物を取り付けるための枠Ｈ０２Ｂ１／０１，Ｈ０４Ｑ１／０８，Ｈ０５Ｋ）",
+      "en": "Bases; Casings; Covers(frames for mounting two or more relays or for mounting a relay and another electric component <b>H02B1/01</b>, <b>H04Q1/08</b>, <b>H05K</b>)",
+      "count": 2000,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H45/04": {
+      "code": "H01H45/04",
+      "level": 2,
+      "parent": "H01H45/02",
+      "ja": "基台上または箱体内部への完成された継電器あるいは継電器の分離した部品の取り付け",
+      "en": "Mounting complete relay or separate parts of relay on a base or inside a case",
+      "count": 1516,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H45/06": {
+      "code": "H01H45/06",
+      "level": 2,
+      "parent": "H01H45/02",
+      "ja": "窓を有するもの；透明箱体またはカバー",
+      "en": "having windows; Transparent cases or covers",
+      "count": 63,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H45/08": {
+      "code": "H01H45/08",
+      "level": 1,
+      "parent": "H01H45/00",
+      "ja": "指示器；識別標識",
+      "en": "Indicators; Distinguishing marks",
+      "count": 412,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H45/10": {
+      "code": "H01H45/10",
+      "level": 1,
+      "parent": "H01H45/00",
+      "ja": "電磁または静電シールド（ケーシングＨ０１Ｈ４５／０２）",
+      "en": "Electromagnetic or electrostatic shielding(casings <b>H01H45/02</b>)",
+      "count": 98,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H45/12": {
+      "code": "H01H45/12",
+      "level": 1,
+      "parent": "H01H45/00",
+      "ja": "通風；冷却；加熱（電気的熱動継電器を作動するためのものＨ０１Ｈ６１／０１３）",
+      "en": "Ventilating; Cooling; Heating(for operating electrothermal relays <b>H01H61/013</b>)",
+      "count": 616,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H45/14": {
+      "code": "H01H45/14",
+      "level": 1,
+      "parent": "H01H45/00",
+      "ja": "端子装置",
+      "en": "Terminal arrangements",
+      "count": 1225,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H47/00": {
+      "code": "H01H47/00",
+      "level": 0,
+      "parent": "H01H",
+      "ja": "継電器の特殊な使用に適合しない回路装置および希望する操作特性を得るためまたは付勢電流を供給するために設計された回路装置",
+      "en": "Circuit arrangements not adapted to a particular application of the relay and designed to obtain desired operating characteristics or to provide energising current",
+      "count": 9464,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H47/02": {
+      "code": "H01H47/02",
+      "level": 1,
+      "parent": "H01H47/00",
+      "ja": "継電器の作用を変更するためのもの",
+      "en": "for modifying the operation of the relay",
+      "count": 3254,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H47/04": {
+      "code": "H01H47/04",
+      "level": 2,
+      "parent": "H01H47/02",
+      "ja": "吸引された位置にアーマチュアを保持するためのもの，例．初めの付勢回路が遮断されたときまたは付勢電流の減少により",
+      "en": "for holding armature in attracted position, e.g. when initial energising circuit is interrupted or with reduced energising current",
+      "count": 1199,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H47/06": {
+      "code": "H01H47/06",
+      "level": 3,
+      "parent": "H01H47/04",
+      "ja": "直列接続された巻回または巻線の数の変化によるもの",
+      "en": "by changing number of serially-connected turns or winding",
+      "count": 98,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H47/08": {
+      "code": "H01H47/08",
+      "level": 3,
+      "parent": "H01H47/04",
+      "ja": "並列接続された巻回または巻線の数の変化によるもの",
+      "en": "by changing number of parallel-connected turns or windings",
+      "count": 82,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H47/10": {
+      "code": "H01H47/10",
+      "level": 3,
+      "parent": "H01H47/04",
+      "ja": "継電器巻線に対して外部インピーダンスを挿入あるいは除外することによるもの",
+      "en": "by switching-in or -out impedance external to the relay winding",
+      "count": 302,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H47/12": {
+      "code": "H01H47/12",
+      "level": 2,
+      "parent": "H01H47/02",
+      "ja": "電磁石をバイアスするためのもの",
+      "en": "for biasing the electromagnet",
+      "count": 91,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H47/14": {
+      "code": "H01H47/14",
+      "level": 2,
+      "parent": "H01H47/02",
+      "ja": "継電器の差動動作用のもの",
+      "en": "for differential operation of the relay",
+      "count": 126,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H47/16": {
+      "code": "H01H47/16",
+      "level": 2,
+      "parent": "H01H47/02",
+      "ja": "継電器の動作を結合するためのもの，例．付加的に結合するもの",
+      "en": "for conjoint, e.g. additive, operation of the relay",
+      "count": 154,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H47/18": {
+      "code": "H01H47/18",
+      "level": 2,
+      "parent": "H01H47/02",
+      "ja": "継電器の動作に遅延を生じさせるためのもの（短絡された導電スリーブ，導電帯または導電円板Ｈ０１Ｈ５０／４６）",
+      "en": "for introducing delay in the operation of the relay(short-circuited conducting sleeves, bands, or discs <b>H01H50/46</b>)",
+      "count": 3672,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H47/20": {
+      "code": "H01H47/20",
+      "level": 2,
+      "parent": "H01H47/02",
+      "ja": "継電器の周波数選択動作を生じさせるためのもの",
+      "en": "for producing frequency-selective operation of the relay",
+      "count": 254,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H47/22": {
+      "code": "H01H47/22",
+      "level": 1,
+      "parent": "H01H47/00",
+      "ja": "継電器線輪に対して付勢電流を供給するためのもの",
+      "en": "for supplying energising current for relay coil",
+      "count": 2621,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H47/24": {
+      "code": "H01H47/24",
+      "level": 2,
+      "parent": "H01H47/22",
+      "ja": "感光型入力機構をもつもの",
+      "en": "having light-sensitive input",
+      "count": 1394,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H47/26": {
+      "code": "H01H47/26",
+      "level": 2,
+      "parent": "H01H47/22",
+      "ja": "感熱型入力機構をもつもの",
+      "en": "having thermo-sensitive input",
+      "count": 316,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H47/28": {
+      "code": "H01H47/28",
+      "level": 2,
+      "parent": "H01H47/22",
+      "ja": "放電管により供給される付勢電流",
+      "en": "Energising current supplied by discharge tube",
+      "count": 91,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H47/30": {
+      "code": "H01H47/30",
+      "level": 3,
+      "parent": "H01H47/28",
+      "ja": "ガス入り放電管によるもの",
+      "en": "by gas-filled discharge tube",
+      "count": 19,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H47/32": {
+      "code": "H01H47/32",
+      "level": 2,
+      "parent": "H01H47/22",
+      "ja": "半導体装置により供給される付勢電流",
+      "en": "Energising current supplied by semiconductor device",
+      "count": 3744,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H47/34": {
+      "code": "H01H47/34",
+      "level": 2,
+      "parent": "H01H47/22",
+      "ja": "磁気増巾器により供給される付勢電流",
+      "en": "Energising current supplied by magnetic amplifier",
+      "count": 106,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H47/36": {
+      "code": "H01H47/36",
+      "level": 2,
+      "parent": "H01H47/22",
+      "ja": "継電器の線輪がブリッジ回路部分を構成するもの",
+      "en": "Relay coil or coils forming part of a bridge circuit",
+      "count": 84,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H49/00": {
+      "code": "H01H49/00",
+      "level": 0,
+      "parent": "H01H",
+      "ja": "継電器またはその部品の製作のために特に用いられる装置あるいは製法",
+      "en": "Apparatus or processes specially adapted to the manufacture of relays or parts thereof",
+      "count": 3951,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H50/00": {
+      "code": "H01H50/00",
+      "level": 0,
+      "parent": "H01H",
+      "ja": "電磁継電器の細部（電気回路装置Ｈ０１Ｈ４７／００；電気的に操作されるセレクタスイッチＨ０１Ｈ６３／００）",
+      "en": "Details of electromagnetic relays(electric circuit arrangements <b>H01H47/00</b>; details of electrically-operated selector switches <b>H01H63/00</b>)",
+      "count": 3160,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H50/02": {
+      "code": "H01H50/02",
+      "level": 1,
+      "parent": "H01H50/00",
+      "ja": "基台；ケーシング；カバー（２つ以上の継電器を取り付けるための枠または１つの継電器と他の電気的構成物を取り付けるための枠Ｈ０２Ｂ１／０１，Ｈ０４Ｑ１／０８，Ｈ０５Ｋ）",
+      "en": "Bases; Casings; Covers(frames for mounting two or more relays or for mounting a relay and another electric component <b>H02B1/01</b>, <b>H04Q1/08</b>, <b>H05K</b>)",
+      "count": 9276,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H50/04": {
+      "code": "H01H50/04",
+      "level": 2,
+      "parent": "H01H50/02",
+      "ja": "基台上または箱体内部への完成された継電器あるいは継電器の分離した部品の取り付け",
+      "en": "Mounting complete relay or separate parts of relay on a base or inside a case",
+      "count": 8122,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H50/06": {
+      "code": "H01H50/06",
+      "level": 2,
+      "parent": "H01H50/02",
+      "ja": "窓をもつもの；透明箱体またはカバー",
+      "en": "having windows; Transparent cases or covers",
+      "count": 280,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H50/08": {
+      "code": "H01H50/08",
+      "level": 1,
+      "parent": "H01H50/00",
+      "ja": "指示器；識別標識",
+      "en": "Indicators; Distinguishing marks",
+      "count": 1456,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H50/10": {
+      "code": "H01H50/10",
+      "level": 1,
+      "parent": "H01H50/00",
+      "ja": "電磁的または静電的シールド（ケーシングＨ０１Ｈ５０／０２）",
+      "en": "Electromagnetic or electrostatic shielding(casings <b>H01H50/02</b>)",
+      "count": 806,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H50/12": {
+      "code": "H01H50/12",
+      "level": 1,
+      "parent": "H01H50/00",
+      "ja": "通風；冷却；加熱（電熱継電器操作用Ｈ０１Ｈ６１／０１３）",
+      "en": "Ventilating; Cooling; Heating(for operating electrothermal relays <b>H01H61/013</b>)",
+      "count": 1818,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H50/14": {
+      "code": "H01H50/14",
+      "level": 1,
+      "parent": "H01H50/00",
+      "ja": "端子装置",
+      "en": "Terminal arrangements",
+      "count": 6706,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H50/16": {
+      "code": "H01H50/16",
+      "level": 1,
+      "parent": "H01H50/00",
+      "ja": "磁気回路装置",
+      "en": "Magnetic circuit arrangements",
+      "count": 5388,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H50/18": {
+      "code": "H01H50/18",
+      "level": 2,
+      "parent": "H01H50/16",
+      "ja": "磁気回路の可動部分，例．アーマチュア",
+      "en": "Movable parts of magnetic circuits, e.g. armature",
+      "count": 3646,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H50/20": {
+      "code": "H01H50/20",
+      "level": 3,
+      "parent": "H01H50/18",
+      "ja": "巻線の内部を事実上巻線の軸方向に可動のもの；巻線に対して同軸方向に可動のもの",
+      "en": "movable inside coil and substantially lengthwise with respect to axis thereof; movable coaxially with respect to coil",
+      "count": 1530,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H50/22": {
+      "code": "H01H50/22",
+      "level": 4,
+      "parent": "H01H50/20",
+      "ja": "その中で磁気回路が実際上閉成されているもの",
+      "en": "wherein the magnetic circuit is substantially closed",
+      "count": 473,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H50/24": {
+      "code": "H01H50/24",
+      "level": 3,
+      "parent": "H01H50/18",
+      "ja": "巻線外部を回動可能または揺動可能の部品",
+      "en": "Parts rotatable or rockable outside coil",
+      "count": 1721,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H50/26": {
+      "code": "H01H50/26",
+      "level": 4,
+      "parent": "H01H50/24",
+      "ja": "ナイフエッジの周囲を動くことが可能である部品",
+      "en": "Parts movable about a knife edge",
+      "count": 597,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H50/28": {
+      "code": "H01H50/28",
+      "level": 4,
+      "parent": "H01H50/24",
+      "ja": "平ばねまたはリードのわん曲により動くことが可能である部品",
+      "en": "Parts movable due to bending of a blade spring or reed",
+      "count": 378,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H50/30": {
+      "code": "H01H50/30",
+      "level": 3,
+      "parent": "H01H50/18",
+      "ja": "振動または衝撃を防止または減衰するための機械的装置，例．アマチュアの平衡によるもの",
+      "en": "Mechanical arrangements for preventing or damping vibration or shock, e.g. by balancing of armature",
+      "count": 2275,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H50/32": {
+      "code": "H01H50/32",
+      "level": 3,
+      "parent": "H01H50/18",
+      "ja": "機械的に可動のラッチング部品",
+      "en": "Latching movable parts mechanically",
+      "count": 1222,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H50/34": {
+      "code": "H01H50/34",
+      "level": 3,
+      "parent": "H01H50/18",
+      "ja": "動作の限界点を調整するための手段；復旧力を調整するための機械的手段",
+      "en": "Means for adjusting limits of movement; Mechanical means for adjusting returning force",
+      "count": 1141,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H50/36": {
+      "code": "H01H50/36",
+      "level": 2,
+      "parent": "H01H50/16",
+      "ja": "磁気回路の固定部品，例．ヨーク",
+      "en": "Stationary parts of magnetic circuit, e.g. yoke",
+      "count": 3134,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H50/38": {
+      "code": "H01H50/38",
+      "level": 3,
+      "parent": "H01H50/36",
+      "ja": "継電器の接点間のアークを抑制するために形成された主磁気回路の部分",
+      "en": "Part of main magnetic circuit shaped to suppress arcing between the contacts of the relay",
+      "count": 1021,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H50/40": {
+      "code": "H01H50/40",
+      "level": 3,
+      "parent": "H01H50/36",
+      "ja": "主磁気回路から分岐または多数分岐した回路",
+      "en": "Branched or multiple-limb main magnetic circuits",
+      "count": 192,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H50/42": {
+      "code": "H01H50/42",
+      "level": 3,
+      "parent": "H01H50/36",
+      "ja": "補助磁気回路，例．休止位置にアーマチュアを維持するためのもの，あるいは休止位置にアーマチュアを復帰させるためのもの，動作の減衰または加速のためのもの",
+      "en": "Auxiliary magnetic circuits, e.g. for maintaining armature in, or returning armature to, position of rest, for damping or accelerating movement",
+      "count": 963,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H50/44": {
+      "code": "H01H50/44",
+      "level": 1,
+      "parent": "H01H50/00",
+      "ja": "磁気巻線",
+      "en": "Magnetic coils or windings",
+      "count": 4826,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H50/46": {
+      "code": "H01H50/46",
+      "level": 2,
+      "parent": "H01H50/44",
+      "ja": "短絡された導電スリーブ，導電帯または導電円板",
+      "en": "Short-circuited conducting sleeves, bands, or discs",
+      "count": 351,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H50/54": {
+      "code": "H01H50/54",
+      "level": 1,
+      "parent": "H01H50/00",
+      "ja": "接点装置",
+      "en": "Contact arrangements",
+      "count": 10593,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H50/56": {
+      "code": "H01H50/56",
+      "level": 2,
+      "parent": "H01H50/54",
+      "ja": "接点スプリングセット",
+      "en": "Contact spring sets",
+      "count": 4095,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H50/58": {
+      "code": "H01H50/58",
+      "level": 3,
+      "parent": "H01H50/56",
+      "ja": "構造的に結合された駆動装置；アーマチュアへの駆動装置の取り付け",
+      "en": "Driving arrangements structurally associated therewith; Mounting of driving arrangement on armature",
+      "count": 1743,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H50/60": {
+      "code": "H01H50/60",
+      "level": 2,
+      "parent": "H01H50/54",
+      "ja": "磁気回路の可動部分に固着された可動接点",
+      "en": "moving contact being rigidly combined with movable part of magnetic circuit",
+      "count": 672,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H50/62": {
+      "code": "H01H50/62",
+      "level": 2,
+      "parent": "H01H50/54",
+      "ja": "分離した電気的駆動手段により動作する複数の共同動作可動接点",
+      "en": "Co-operating movable contacts operated by separate electrical actuating means",
+      "count": 166,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H50/64": {
+      "code": "H01H50/64",
+      "level": 1,
+      "parent": "H01H50/00",
+      "ja": "磁気回路の可動部分と接点との間の駆動装置（構造的に接点と結合したスプリングセットＨ０１Ｈ５０／５８）",
+      "en": "Driving arrangements between movable part of magnetic circuit and contact(structurally associated with contact spring sets <b>H01H50/58</b>)",
+      "count": 4631,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H50/66": {
+      "code": "H01H50/66",
+      "level": 2,
+      "parent": "H01H50/64",
+      "ja": "空動するもの",
+      "en": "with lost motion",
+      "count": 53,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H50/68": {
+      "code": "H01H50/68",
+      "level": 2,
+      "parent": "H01H50/64",
+      "ja": "スナップ動作をするもの",
+      "en": "with snap action",
+      "count": 184,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H50/70": {
+      "code": "H01H50/70",
+      "level": 2,
+      "parent": "H01H50/64",
+      "ja": "アーマチュアの動作行程中瞬間的に動作する接点",
+      "en": "operating contact momentarily during stroke of armature",
+      "count": 33,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H50/72": {
+      "code": "H01H50/72",
+      "level": 2,
+      "parent": "H01H50/64",
+      "ja": "水銀接点用のもの",
+      "en": "for mercury contact",
+      "count": 128,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H50/74": {
+      "code": "H01H50/74",
+      "level": 2,
+      "parent": "H01H50/64",
+      "ja": "接点の動作の所望の自然振動を生じるための手段，例．自己断続器用のもの",
+      "en": "Mechanical means for producing a desired natural frequency of operation of the contacts, e.g. for self-interrupter",
+      "count": 36,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H50/76": {
+      "code": "H01H50/76",
+      "level": 3,
+      "parent": "H01H50/74",
+      "ja": "リードまたは平ばねを用いたもの",
+      "en": "using reed or blade spring",
+      "count": 371,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H50/78": {
+      "code": "H01H50/78",
+      "level": 3,
+      "parent": "H01H50/74",
+      "ja": "ダイヤフラムを用いたもの；横に振動する伸張した線またはリボンを用いたもの",
+      "en": "using diaphragm; using stretched wire or ribbon vibrating sideways",
+      "count": 14,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H50/80": {
+      "code": "H01H50/80",
+      "level": 3,
+      "parent": "H01H50/74",
+      "ja": "捻転振動部材，例．線，条片，を用いたもの",
+      "en": "using torsionally vibrating member, e.g. wire, strip",
+      "count": 6,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H50/82": {
+      "code": "H01H50/82",
+      "level": 3,
+      "parent": "H01H50/74",
+      "ja": "負荷スプリング形の軸支慣性部材を用いたもの",
+      "en": "using spring-loaded pivoted inertia member",
+      "count": 32,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H50/84": {
+      "code": "H01H50/84",
+      "level": 3,
+      "parent": "H01H50/74",
+      "ja": "振動数またはメーク対ブレークの比を調整するための手段をもつもの",
+      "en": "with means for adjustment of frequency or of make-to-break ratio",
+      "count": 9,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H50/86": {
+      "code": "H01H50/86",
+      "level": 1,
+      "parent": "H01H50/00",
+      "ja": "スイッチング動作の開始と接点の開放あるいは閉成との間にあらかじめ決められた遅延時間を生じるための手段（回路を短絡する導電スリーブ，帯または板Ｈ０１Ｈ５０／４６；遅延を生ぜしめるための回路装置Ｈ０１Ｈ４７／１８）",
+      "en": "Means for introducing a predetermined time delay between the initiation of the switching operation and the opening or closing of the contacts(circuit arrangements for introducing delay <b>H01H47/18</b>; short-circuited conducting sleeves, bands, or discs <b>H01H50/46</b>)",
+      "count": 229,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H50/88": {
+      "code": "H01H50/88",
+      "level": 2,
+      "parent": "H01H50/86",
+      "ja": "機械的手段，例．ダッシュポット",
+      "en": "Mechanical means, e.g. dash-pot",
+      "count": 552,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H50/90": {
+      "code": "H01H50/90",
+      "level": 3,
+      "parent": "H01H50/88",
+      "ja": "両方向の動作に有効な遅延手段",
+      "en": "the delay being effective in both directions of operation",
+      "count": 13,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H50/92": {
+      "code": "H01H50/92",
+      "level": 2,
+      "parent": "H01H50/86",
+      "ja": "熱的手段（電気的熱動継電器に特有のものＨ０１Ｈ６１／００）",
+      "en": "Thermal means(inherent in electrothermal relays <b>H01H61/00</b>)",
+      "count": 23,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H51/00": {
+      "code": "H01H51/00",
+      "level": 0,
+      "parent": "H01H",
+      "ja": "電磁継電器（動電効果を利用する継電器Ｈ０１Ｈ５３／００）",
+      "en": "Electromagnetic relays(relays using the dynamo-electric effect <b>H01H53/00</b>)",
+      "count": 954,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H51/01": {
+      "code": "H01H51/01",
+      "level": 1,
+      "parent": "H01H51/00",
+      "ja": "アーマチュアが永久磁石によって１つの位置に保持され，逆磁界を誘起するコイルの付勢によって解放される継電器［３］",
+      "en": "Relays in which the armature is maintained in one position by a permanent magnet and freed by energisation of a coil producing an opposing magnetic field",
+      "count": 1369,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H51/02": {
+      "code": "H01H51/02",
+      "level": 1,
+      "parent": "H01H51/00",
+      "ja": "極性のない継電器（Ｈ０１Ｈ５１／０１が優先）［３］",
+      "en": "Non-polarised relays(<b>H01H51/01</b> takes precedence)",
+      "count": 152,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H51/04": {
+      "code": "H01H51/04",
+      "level": 2,
+      "parent": "H01H51/02",
+      "ja": "１つのアーマチュアをもつもの；一群となったアーマチュアの１セットをもつもの",
+      "en": "with single armature; with single set of ganged armatures",
+      "count": 348,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H51/06": {
+      "code": "H01H51/06",
+      "level": 3,
+      "parent": "H01H51/04",
+      "ja": "アーマチュアが２つの静止の限定位置間で可動であり，電磁石の付勢により一方向に動かされ，電磁石が消勢された後に第１の方向に動く間に蓄積された，たとえばバネ，永久磁石，重力のエネルギーによって復旧せしめられるもの",
+      "en": "Armature is movable between two limit positions of rest and is moved in one direction due to energisation of an electromagnet and after the electromagnet is de-energised is returned by energy stored during the movement in the first direction, e.g. by using a spring, by using a permanent magnet, by gravity",
+      "count": 2711,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H51/08": {
+      "code": "H01H51/08",
+      "level": 4,
+      "parent": "H01H51/06",
+      "ja": "電磁石の付勢，消勢の連続した繰り返しによる交互に開閉される接点，例．ラチェットの使用によるもの",
+      "en": "Contacts alternately opened and closed by successive cycles of energisation and de-energisation of the electromagnet, e.g. by use of a ratchet",
+      "count": 909,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H51/10": {
+      "code": "H01H51/10",
+      "level": 4,
+      "parent": "H01H51/06",
+      "ja": "電磁石により制御される機械的ラッチによって開あるいは閉に保持される接点",
+      "en": "Contacts retained open or closed by a mechanical latch which is controlled by an electromagnet",
+      "count": 595,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H51/12": {
+      "code": "H01H51/12",
+      "level": 3,
+      "parent": "H01H51/04",
+      "ja": "アーマチュアが２つの静止の限定位置間を移動し，復帰運動を生じるためのエネルギを蓄積することなく２つの電磁石の一方または他方の付勢により両方の方向に移動せしめられるもの",
+      "en": "Armature is movable between two limit positions of rest and is moved in both directions due to the energisation of one or the other of two electromagnets without the storage of energy to effect the return movement",
+      "count": 527,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H51/14": {
+      "code": "H01H51/14",
+      "level": 4,
+      "parent": "H01H51/12",
+      "ja": "静止の中間中性点位置のないもの",
+      "en": "without intermediate neutral position of rest",
+      "count": 56,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H51/16": {
+      "code": "H01H51/16",
+      "level": 4,
+      "parent": "H01H51/12",
+      "ja": "静止の中間中性点位置をもつもの",
+      "en": "with intermediate neutral position of rest",
+      "count": 35,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H51/18": {
+      "code": "H01H51/18",
+      "level": 3,
+      "parent": "H01H51/04",
+      "ja": "アーマチュアが無制限の数まで回転できるもの",
+      "en": "Armature is rotatable through an unlimited number of revolutions",
+      "count": 29,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H51/20": {
+      "code": "H01H51/20",
+      "level": 2,
+      "parent": "H01H51/02",
+      "ja": "２以上の独立したアーマチュアをもつもの",
+      "en": "with two or more independent armatures",
+      "count": 647,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H51/22": {
+      "code": "H01H51/22",
+      "level": 1,
+      "parent": "H01H51/00",
+      "ja": "有極継電器",
+      "en": "Polarised relays",
+      "count": 3230,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H51/24": {
+      "code": "H01H51/24",
+      "level": 2,
+      "parent": "H01H51/22",
+      "ja": "静止の中間中性点位置のないもの",
+      "en": "without intermediate neutral position of rest",
+      "count": 1434,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H51/26": {
+      "code": "H01H51/26",
+      "level": 2,
+      "parent": "H01H51/22",
+      "ja": "静止の中間中性点位置をもつもの",
+      "en": "with intermediate neutral position of rest",
+      "count": 109,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H51/27": {
+      "code": "H01H51/27",
+      "level": 1,
+      "parent": "H01H51/00",
+      "ja": "２つの磁気的安定状態を有し，一方の状態から他方の状態へ作動せしめられるアーマチュアをもった継電器",
+      "en": "Relays with armature having two stable magnetic states and operated by change from one state to the other",
+      "count": 379,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H51/28": {
+      "code": "H01H51/28",
+      "level": 1,
+      "parent": "H01H51/00",
+      "ja": "動作線輪が外側に設けられている密封箱体の中にアーマチュアと接点の両方がある継電器，例．磁気リーフスプリングまたはリードにより支持される接点（Ｈ０１Ｈ５１／２７が優先）",
+      "en": "Relays having both armature and contacts within a sealed casing outside which the operating coil is located, e.g. contact carried by a magnetic leaf spring or reed(<b>H01H51/27</b> takes precedence)",
+      "count": 3578,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H51/29": {
+      "code": "H01H51/29",
+      "level": 1,
+      "parent": "H01H51/00",
+      "ja": "封止した箱体内に，アーマチュア，接点および作動線輪をもった継電器",
+      "en": "Relays having armature, contacts, and operating coil within a sealed casing(<b>H01H51/27</b> takes precedence)",
+      "count": 542,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H51/30": {
+      "code": "H01H51/30",
+      "level": 1,
+      "parent": "H01H51/00",
+      "ja": "交流電流により作動するために特に適するもの",
+      "en": "specially adapted for actuation by AC",
+      "count": 402,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H51/32": {
+      "code": "H01H51/32",
+      "level": 2,
+      "parent": "H01H51/30",
+      "ja": "周波数継電器；機械的共振継電器",
+      "en": "Frequency relays; Mechanically-tuned relays",
+      "count": 776,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H51/34": {
+      "code": "H01H51/34",
+      "level": 1,
+      "parent": "H01H51/00",
+      "ja": "自己遮断器，すなわち接点が周期的にまたは別の繰り返しで開閉をするもの",
+      "en": "Self-interrupters, i.e. with periodic or other repetitive opening and closing of contacts",
+      "count": 381,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H51/36": {
+      "code": "H01H51/36",
+      "level": 2,
+      "parent": "H01H51/34",
+      "ja": "メーク対ブレーク比が手によるセッティングまたは電流の強さにより変えられるもの",
+      "en": "wherein the make-to-break ratio is varied by hand setting or current strength",
+      "count": 10,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H53/00": {
+      "code": "H01H53/00",
+      "level": 0,
+      "parent": "H01H",
+      "ja": "動電効果を利用した継電器，すなわち導電体に流れる電流と磁界の相互作用により生じる相対運動によって開閉される接点を有する継電器",
+      "en": "Relays using the dynamo-electric effect, i.e. relays in which contacts are opened or closed due to relative movement of current-carrying conductor and magnetic field caused by force of interaction between them",
+      "count": 190,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H53/01": {
+      "code": "H01H53/01",
+      "level": 1,
+      "parent": "H01H53/00",
+      "ja": "細部",
+      "en": "Details",
+      "count": 64,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H53/015": {
+      "code": "H01H53/015",
+      "level": 2,
+      "parent": "H01H53/01",
+      "ja": "可動線輪；それと関連する接点駆動装置",
+      "en": "Moving coils; Contact-driving arrangements associated therewith",
+      "count": 340,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H53/02": {
+      "code": "H01H53/02",
+      "level": 1,
+      "parent": "H01H53/00",
+      "ja": "電流力計型継電器，すなわち２つの電流の流れている導体間の相互作用による継電器",
+      "en": "Electrodynamic relays, i.e. relays in which the interaction is between two current-carrying conductors",
+      "count": 64,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H53/04": {
+      "code": "H01H53/04",
+      "level": 2,
+      "parent": "H01H53/02",
+      "ja": "フェロダイナミック継電器，すなわち磁界が強磁性体部分に集中している継電器",
+      "en": "Ferrodynamic relays, i.e. relays in which the magnetic field is concentrated in ferromagnetic parts",
+      "count": 13,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H53/06": {
+      "code": "H01H53/06",
+      "level": 1,
+      "parent": "H01H53/00",
+      "ja": "磁気駆動型継電器，すなわち磁界が永久磁石により発生される継電器",
+      "en": "Magnetodynamic relays, i.e. relays in which the magnetic field is produced by a permanent magnet",
+      "count": 90,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H53/08": {
+      "code": "H01H53/08",
+      "level": 1,
+      "parent": "H01H53/00",
+      "ja": "水銀接点が電流を通す導体を構成するもの",
+      "en": "wherein a mercury contact constitutes the current-carrying conductor",
+      "count": 70,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H53/10": {
+      "code": "H01H53/10",
+      "level": 1,
+      "parent": "H01H53/00",
+      "ja": "誘導型継電器，すなわち磁界とそれにより導体に誘起される電流との間に相互作用のある継電器",
+      "en": "Induction relays, i.e. relays in which the interaction is between a magnetic field and current induced thereby in a conductor",
+      "count": 420,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H53/12": {
+      "code": "H01H53/12",
+      "level": 2,
+      "parent": "H01H53/10",
+      "ja": "フェラリス継電器",
+      "en": "Ferraris relays",
+      "count": 68,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H53/14": {
+      "code": "H01H53/14",
+      "level": 1,
+      "parent": "H01H53/00",
+      "ja": "流体圧力伝達装置を介して電動機によって操作される接点，例．電動機駆動ポンプを使用するもの",
+      "en": "Contacts actuated by an electric motor through fluid-pressure transmission, e.g. using a motor-driven pump",
+      "count": 8,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H55/00": {
+      "code": "H01H55/00",
+      "level": 0,
+      "parent": "H01H",
+      "ja": "磁わい継電器",
+      "en": "Magnetostrictive relays",
+      "count": 127,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H57/00": {
+      "code": "H01H57/00",
+      "level": 0,
+      "parent": "H01H",
+      "ja": "電わい継電器；圧電継電器",
+      "en": "Electrostrictive relays; Piezoelectric relays",
+      "count": 1315,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H59/00": {
+      "code": "H01H59/00",
+      "level": 0,
+      "parent": "H01H",
+      "ja": "静電継電器；電気吸着継電器",
+      "en": "Electrostatic relays; Electro-adhesion relays",
+      "count": 1995,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H61/00": {
+      "code": "H01H61/00",
+      "level": 0,
+      "parent": "H01H",
+      "ja": "電気的熱動継電器（電気的入力によって操作されない熱応動スイッチ，電気的入力があって動作する熱応動スイッチＨ０１Ｈ３７／００；熱感知部材Ｈ０１Ｈ３７／３２）",
+      "en": "Electrothermal relays(thermal switches not operated by electrical input, thermal switches with anticipating electrical input <b>H01H37/00</b>; thermally-sensitive members <b>H01H37/32</b>)",
+      "count": 1701,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H61/01": {
+      "code": "H01H61/01",
+      "level": 1,
+      "parent": "H01H61/00",
+      "ja": "細部",
+      "en": "Details",
+      "count": 1381,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H61/013": {
+      "code": "H01H61/013",
+      "level": 2,
+      "parent": "H01H61/01",
+      "ja": "継電器を作動させるための加熱装置",
+      "en": "Heating arrangements for operating relays",
+      "count": 479,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H61/017": {
+      "code": "H01H61/017",
+      "level": 3,
+      "parent": "H01H61/013",
+      "ja": "限定された空間におけるグロー放電またはアークによる加熱",
+      "en": "Heating by glow discharge or arc in confined space",
+      "count": 67,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H61/02": {
+      "code": "H01H61/02",
+      "level": 1,
+      "parent": "H01H61/00",
+      "ja": "熱感知部材が間接的に加熱されるもの，例．抵抗による加熱，誘導による加熱",
+      "en": "wherein the thermally-sensitive member is heated indirectly, e.g. resistively, inductively",
+      "count": 1071,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H61/04": {
+      "code": "H01H61/04",
+      "level": 1,
+      "parent": "H01H61/00",
+      "ja": "熱感知部材が直接的にのみ加熱されるもの",
+      "en": "wherein the thermally-sensitive member is only heated directly",
+      "count": 272,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H61/06": {
+      "code": "H01H61/06",
+      "level": 1,
+      "parent": "H01H61/00",
+      "ja": "自励断続器，すなわち周期的にまたは別の繰り返しで接点を開閉するもの",
+      "en": "Self-interrupters, i.e. with periodic or other repetitive opening and closing of contacts",
+      "count": 799,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H61/08": {
+      "code": "H01H61/08",
+      "level": 2,
+      "parent": "H01H61/06",
+      "ja": "メーク対ブレーク比が手でセッティングまたは電流の強さにより変えられるもの",
+      "en": "wherein the make-to-break ratio is varied by hand setting or current strength",
+      "count": 76,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H63/00": {
+      "code": "H01H63/00",
+      "level": 0,
+      "parent": "H01H",
+      "ja": "電気的に操作されるセレクタスイッチの細部",
+      "en": "Details of electrically-operated selector switches",
+      "count": 310,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H63/02": {
+      "code": "H01H63/02",
+      "level": 1,
+      "parent": "H01H63/00",
+      "ja": "接点；ワイパ；これらに対する接続",
+      "en": "Contacts; Wipers; Connections thereto",
+      "count": 305,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H63/04": {
+      "code": "H01H63/04",
+      "level": 2,
+      "parent": "H01H63/02",
+      "ja": "接点閉路または接点開放ワイパ；そのための位置指示器",
+      "en": "Contact-making or contact-breaking wipers; Position indicators therefor",
+      "count": 120,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H63/06": {
+      "code": "H01H63/06",
+      "level": 2,
+      "parent": "H01H63/02",
+      "ja": "接点バンク",
+      "en": "Contact banks",
+      "count": 257,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H63/08": {
+      "code": "H01H63/08",
+      "level": 3,
+      "parent": "H01H63/06",
+      "ja": "円筒状のもの",
+      "en": "cylindrical",
+      "count": 13,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H63/10": {
+      "code": "H01H63/10",
+      "level": 3,
+      "parent": "H01H63/06",
+      "ja": "平面状のもの",
+      "en": "plane",
+      "count": 7,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H63/12": {
+      "code": "H01H63/12",
+      "level": 2,
+      "parent": "H01H63/02",
+      "ja": "接点バンクに対する複式接続，例．リボンケーブルを用いたもの",
+      "en": "Multiplying connections to contact banks, e.g. using ribbon cables",
+      "count": 17,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H63/14": {
+      "code": "H01H63/14",
+      "level": 3,
+      "parent": "H01H63/12",
+      "ja": "はんだ付け無しのもの",
+      "en": "without soldering",
+      "count": 3,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H63/16": {
+      "code": "H01H63/16",
+      "level": 1,
+      "parent": "H01H63/00",
+      "ja": "多位置ワイパ用駆動装置",
+      "en": "Driving arrangements for multi-position wipers",
+      "count": 74,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H63/18": {
+      "code": "H01H63/18",
+      "level": 2,
+      "parent": "H01H63/16",
+      "ja": "セレクタ位置にワイパが歩進動作するもの",
+      "en": "with step-by-step motion of wiper to a selector position",
+      "count": 36,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H63/20": {
+      "code": "H01H63/20",
+      "level": 3,
+      "parent": "H01H63/18",
+      "ja": "歩進磁石とラチェットを使用するもの",
+      "en": "using stepping magnet and ratchet",
+      "count": 185,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H63/22": {
+      "code": "H01H63/22",
+      "level": 3,
+      "parent": "H01H63/18",
+      "ja": "ラチェット無しの歩進電磁駆動装置を有するもの，例．自励断続形駆動磁石",
+      "en": "using step-by-step electromagnetic drive without ratchet, e.g. self-interrupting driving magnet",
+      "count": 140,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H63/24": {
+      "code": "H01H63/24",
+      "level": 2,
+      "parent": "H01H63/16",
+      "ja": "選択された位置に達するまでワイパの連続動作を行なうもの",
+      "en": "with continuous motion of wiper until a selected position is reached",
+      "count": 77,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H63/26": {
+      "code": "H01H63/26",
+      "level": 3,
+      "parent": "H01H63/24",
+      "ja": "２つ以上のセレクタスイッチが共通軸上に設けられ，それぞれがクラッチ駆動装置をもつもの",
+      "en": "with an individual clutch-drive from a shaft common to more than one selector switch",
+      "count": 4,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H63/28": {
+      "code": "H01H63/28",
+      "level": 3,
+      "parent": "H01H63/24",
+      "ja": "各セレクタスイッチ用の個々の電動機をもつもの",
+      "en": "with an individual motor for each selector switch",
+      "count": 8,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H63/30": {
+      "code": "H01H63/30",
+      "level": 4,
+      "parent": "H01H63/28",
+      "ja": "選択位置へワイパを動かすための空気モータをもつもの",
+      "en": "Pneumatic motor for moving wiper to selected position",
+      "count": 52,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H63/32": {
+      "code": "H01H63/32",
+      "level": 4,
+      "parent": "H01H63/28",
+      "ja": "選択位置へワイパを動かすためのスプリングモータをもつもの",
+      "en": "Spring motor for moving wiper to selected position",
+      "count": 8,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H63/33": {
+      "code": "H01H63/33",
+      "level": 1,
+      "parent": "H01H63/00",
+      "ja": "交さ点で継電器をもたない座標型セレクタスイッチの機構の細部",
+      "en": "Constructional details of co-ordinate-type selector switches not having relays at cross-points",
+      "count": 119,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H63/34": {
+      "code": "H01H63/34",
+      "level": 1,
+      "parent": "H01H63/00",
+      "ja": "基台；箱体；カバー；取り付け（お互いの交換装置を有するあるいは有しないセレクタを取り付けるための架台Ｈ０４Ｑ１／０４）；セレクタスイッチ上のヒューズの取り付け",
+      "en": "Bases; Cases; Covers; Mountings(racks for mounting selectors with or without other exchange equipment <b>H04Q1/04</b>);Mounting of fuses on selector switch",
+      "count": 91,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H63/36": {
+      "code": "H01H63/36",
+      "level": 1,
+      "parent": "H01H63/00",
+      "ja": "セレクタスイッチの正確なまたは所望の操作を確実にし，かつ，特殊な用途には用いられない回路装置",
+      "en": "Circuit arrangements for ensuring correct or desired operation and not adapted to a particular application of the selector switch",
+      "count": 111,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H63/38": {
+      "code": "H01H63/38",
+      "level": 2,
+      "parent": "H01H63/36",
+      "ja": "多位置ワイパスイッチ用のもの",
+      "en": "for multi-position wiper switches",
+      "count": 37,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H63/40": {
+      "code": "H01H63/40",
+      "level": 2,
+      "parent": "H01H63/36",
+      "ja": "ワイパ無しの多位置スイッチ用のもの",
+      "en": "for multi-position switches without wipers",
+      "count": 23,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H63/42": {
+      "code": "H01H63/42",
+      "level": 3,
+      "parent": "H01H63/40",
+      "ja": "交さ点に継電器をもたない座標型セレクタスイッチ用のもの",
+      "en": "for co-ordinate-type selector switches not having relays at cross-points",
+      "count": 26,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H65/00": {
+      "code": "H01H65/00",
+      "level": 0,
+      "parent": "H01H",
+      "ja": "セレクタスイッチまたはその部品の製造に特に適する装置あるいは方法",
+      "en": "Apparatus or processes specially adapted to the manufacture of selector switches or parts thereof",
+      "count": 148,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H67/00": {
+      "code": "H01H67/00",
+      "level": 0,
+      "parent": "H01H",
+      "ja": "電気的に操作されるセレクタスイッチ",
+      "en": "Electrically-operated selector switches",
+      "count": 195,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H67/02": {
+      "code": "H01H67/02",
+      "level": 1,
+      "parent": "H01H67/00",
+      "ja": "多位置ワイパスイッチ",
+      "en": "Multi-position wiper switches",
+      "count": 324,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H67/04": {
+      "code": "H01H67/04",
+      "level": 2,
+      "parent": "H01H67/02",
+      "ja": "選択のため１方向にのみ可動であるワイパをもつもの",
+      "en": "having wipers movable only in one direction for purpose of selection",
+      "count": 14,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H67/06": {
+      "code": "H01H67/06",
+      "level": 3,
+      "parent": "H01H67/04",
+      "ja": "回転形スイッチ，すなわち角度的に可動なワイパをもつもの",
+      "en": "Rotary switches, i.e. having angularly movable wipers",
+      "count": 628,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H67/08": {
+      "code": "H01H67/08",
+      "level": 4,
+      "parent": "H01H67/06",
+      "ja": "ワイパ選択をもつもの",
+      "en": "with wiper selection",
+      "count": 8,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H67/10": {
+      "code": "H01H67/10",
+      "level": 4,
+      "parent": "H01H67/06",
+      "ja": "ワイパが粗および精確の位置をとるもの",
+      "en": "with coarse and fine positioning of wipers",
+      "count": 1,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H67/12": {
+      "code": "H01H67/12",
+      "level": 3,
+      "parent": "H01H67/04",
+      "ja": "直線運動型スイッチ",
+      "en": "Linear-motion switches",
+      "count": 303,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H67/14": {
+      "code": "H01H67/14",
+      "level": 2,
+      "parent": "H01H67/02",
+      "ja": "選択するために相互に垂直な２方向に可動であるワイパをもつもの",
+      "en": "having wipers movable in two mutually perpendicular directions for purpose of selection",
+      "count": 10,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H67/16": {
+      "code": "H01H67/16",
+      "level": 3,
+      "parent": "H01H67/14",
+      "ja": "一方の運動は回転であり他方の運動は回転軸に対して平行であるもの，例．ストロージャまたは上昇回転型スイッチ",
+      "en": "one motion being rotary and the other being parallel to the axis of rotation, e.g. Strowger or \"up and around\" switches",
+      "count": 211,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H67/18": {
+      "code": "H01H67/18",
+      "level": 3,
+      "parent": "H01H67/14",
+      "ja": "一方の運動は回転であり他方の運動は回転軸に対して垂直であるもの，例．回転放射型スイッチ",
+      "en": "one motion being rotary and the other being perpendicular to the axis of rotation, e.g. \"round and in\" switches",
+      "count": 3,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H67/20": {
+      "code": "H01H67/20",
+      "level": 3,
+      "parent": "H01H67/14",
+      "ja": "両方の運動が直線であるもの",
+      "en": "both motions being linear",
+      "count": 2,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H67/22": {
+      "code": "H01H67/22",
+      "level": 1,
+      "parent": "H01H67/00",
+      "ja": "多位置ワイパ無しのスイッチ",
+      "en": "Switches without multi-position wipers",
+      "count": 261,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H67/24": {
+      "code": "H01H67/24",
+      "level": 2,
+      "parent": "H01H67/22",
+      "ja": "各交さ点において個々の電磁石を有する座標型継電器スイッチ",
+      "en": "Co-ordinate-type relay switches having an individual electromagnet at each cross-point",
+      "count": 301,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H67/26": {
+      "code": "H01H67/26",
+      "level": 2,
+      "parent": "H01H67/22",
+      "ja": "交さ点において継電器をもたないが機械的動作をする座標型セレクタスイッチ",
+      "en": "Co-ordinate-type selector switches not having relays at cross-points but involving mechanical movement, e.g. cross-bar switch, code-bar switch",
+      "count": 1052,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H67/30": {
+      "code": "H01H67/30",
+      "level": 2,
+      "parent": "H01H67/22",
+      "ja": "磁性葉状ばねまたはリード型の接点部材に直接作用する座標線輪による磁界を有する座標型セレクタスイッチ",
+      "en": "Co-ordinate-type selector switches with field of co-ordinate coil acting directly upon magnetic leaf spring or reed-type contact member",
+      "count": 337,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H67/32": {
+      "code": "H01H67/32",
+      "level": 2,
+      "parent": "H01H67/22",
+      "ja": "単一の線輪により継続的に動作する多数の相互依存のアーマチュアを有するものおよび１つの接点あるいは多数接点のセットを制御するもの，例．計数継電器",
+      "en": "having a multiplicity of interdependent armatures operated in succession by a single coil and each controlling one contact or set of contacts, e.g. counting relay",
+      "count": 37,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H69/00": {
+      "code": "H01H69/00",
+      "level": 0,
+      "parent": "H01H",
+      "ja": "非常保護装置の製造に関する装置または方法",
+      "en": "Apparatus or processes for the manufacture of emergency protective devices",
+      "count": 1876,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H69/01": {
+      "code": "H01H69/01",
+      "level": 1,
+      "parent": "H01H69/00",
+      "ja": "あらかじめ定められた条件下において動作させるため，装置の較正または設定に関するもの",
+      "en": "for calibrating or setting of devices to function under predetermined conditions",
+      "count": 585,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H69/02": {
+      "code": "H01H69/02",
+      "level": 1,
+      "parent": "H01H69/00",
+      "ja": "ヒューズの製造",
+      "en": "Manufacture of fuses",
+      "count": 2806,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H71/00": {
+      "code": "H01H71/00",
+      "level": 0,
+      "parent": "H01H",
+      "ja": "Ｈ０１Ｈ７３／００～Ｈ０１Ｈ８３／００に包含される保護スイッチまたは保護継電器の細部",
+      "en": "Details of the protective switches or relays covered by groups <b>H01H73/00 to H01H83/00</b> ",
+      "count": 2845,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H71/02": {
+      "code": "H01H71/02",
+      "level": 1,
+      "parent": "H01H71/00",
+      "ja": "ハウジング；ケーシング；基板；取り付け",
+      "en": "Housings; Casings; Bases; Mountings",
+      "count": 17743,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H71/04": {
+      "code": "H01H71/04",
+      "level": 1,
+      "parent": "H01H71/00",
+      "ja": "開閉装置の状態を指示する手段",
+      "en": "Means for indicating condition of the switching device",
+      "count": 5598,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H71/06": {
+      "code": "H01H71/06",
+      "level": 1,
+      "parent": "H01H71/00",
+      "ja": "識別マーク，例．カラーコード",
+      "en": "Distinguishing marks, e.g. colour coding",
+      "count": 363,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H71/08": {
+      "code": "H01H71/08",
+      "level": 1,
+      "parent": "H01H71/00",
+      "ja": "端子；接続",
+      "en": "Terminals; Connections",
+      "count": 9054,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H71/10": {
+      "code": "H01H71/10",
+      "level": 1,
+      "parent": "H01H71/00",
+      "ja": "操作または釈放機構",
+      "en": "Operating or release mechanisms",
+      "count": 14053,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H71/12": {
+      "code": "H01H71/12",
+      "level": 2,
+      "parent": "H01H71/10",
+      "ja": "手動釈放機構をもつか，あるいはもたない自動釈放機構",
+      "en": "Automatic release mechanisms with or without manual release",
+      "count": 5456,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H71/14": {
+      "code": "H01H71/14",
+      "level": 3,
+      "parent": "H01H71/12",
+      "ja": "熱電機構",
+      "en": "Electrothermal mechanisms",
+      "count": 1116,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H71/16": {
+      "code": "H01H71/16",
+      "level": 4,
+      "parent": "H01H71/14",
+      "ja": "バイメタル素子をもつもの",
+      "en": "with bimetal element",
+      "count": 3255,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H71/18": {
+      "code": "H01H71/18",
+      "level": 4,
+      "parent": "H01H71/14",
+      "ja": "膨張ロッド，ストリップまたは線をもつもの",
+      "en": "with expanding rod, strip, or wire",
+      "count": 292,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H71/20": {
+      "code": "H01H71/20",
+      "level": 4,
+      "parent": "H01H71/14",
+      "ja": "可溶性質量をもつもの",
+      "en": "with fusible mass",
+      "count": 1066,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H71/22": {
+      "code": "H01H71/22",
+      "level": 4,
+      "parent": "H01H71/14",
+      "ja": "周囲温度の変化に対して補償をもつもの",
+      "en": "with compensation for variation of ambient temperature",
+      "count": 86,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H71/24": {
+      "code": "H01H71/24",
+      "level": 3,
+      "parent": "H01H71/12",
+      "ja": "電磁機構",
+      "en": "Electromagnetic mechanisms",
+      "count": 7299,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H71/26": {
+      "code": "H01H71/26",
+      "level": 4,
+      "parent": "H01H71/24",
+      "ja": "反対に作用する複数の巻線をもつもの",
+      "en": "with windings acting in opposition",
+      "count": 212,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H71/28": {
+      "code": "H01H71/28",
+      "level": 4,
+      "parent": "H01H71/24",
+      "ja": "合同して動作する複数の巻線をもつもの",
+      "en": "with windings acting in conjunction",
+      "count": 103,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H71/30": {
+      "code": "H01H71/30",
+      "level": 4,
+      "parent": "H01H71/24",
+      "ja": "付加的な短絡巻線をもつもの",
+      "en": "having additional short-circuited winding",
+      "count": 85,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H71/32": {
+      "code": "H01H71/32",
+      "level": 4,
+      "parent": "H01H71/24",
+      "ja": "永久磁化部をもつもの",
+      "en": "having permanently magnetised part",
+      "count": 1386,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H71/34": {
+      "code": "H01H71/34",
+      "level": 4,
+      "parent": "H01H71/24",
+      "ja": "共通巻線によって制御される２個または，それ以上のアーマチュアをもつもの",
+      "en": "having two or more armatures controlled by a common winding",
+      "count": 168,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H71/36": {
+      "code": "H01H71/36",
+      "level": 4,
+      "parent": "H01H71/24",
+      "ja": "周波数選別",
+      "en": "frequency selective",
+      "count": 18,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H71/38": {
+      "code": "H01H71/38",
+      "level": 4,
+      "parent": "H01H71/24",
+      "ja": "アーク吹消装置としても動作するマグネットコイルをその中にもつもの",
+      "en": "wherein the magnet coil also acts as arc blow-out device",
+      "count": 126,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H71/40": {
+      "code": "H01H71/40",
+      "level": 3,
+      "parent": "H01H71/12",
+      "ja": "熱電機構と電磁機構とを結合したもの",
+      "en": "Combined electrothermal and electromagnetic mechanisms",
+      "count": 1959,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H71/42": {
+      "code": "H01H71/42",
+      "level": 3,
+      "parent": "H01H71/12",
+      "ja": "誘導電動機，誘導電流または電流力型引き外し機構",
+      "en": "Induction-motor, induced-current, or electrodynamic release mechanisms",
+      "count": 248,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H71/43": {
+      "code": "H01H71/43",
+      "level": 4,
+      "parent": "H01H71/42",
+      "ja": "電流力型引き外し機構",
+      "en": "Electrodynamic release mechanisms",
+      "count": 902,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H71/44": {
+      "code": "H01H71/44",
+      "level": 3,
+      "parent": "H01H71/12",
+      "ja": "予め定められた遅延時間を生じるための手段を有するもの（短絡巻線によるものＨ０１Ｈ７１／３０；付加されたアーマチュアによるものＨ０１Ｈ７１／３４）",
+      "en": "having means for introducing a predetermined time delay(by short-circuited winding <b>H01H71/30</b>; by additional armature <b>H01H71/34</b>)",
+      "count": 862,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H71/46": {
+      "code": "H01H71/46",
+      "level": 3,
+      "parent": "H01H71/12",
+      "ja": "主接点に付加された補助接点を操作させるための手段を有するもの",
+      "en": "having means for operating auxiliary contacts additional to the main contacts",
+      "count": 1042,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H71/48": {
+      "code": "H01H71/48",
+      "level": 4,
+      "parent": "H01H71/46",
+      "ja": "開閉器の釈放後，釈放機構への電気入力を短絡させるための装置を有するもの，例．熱線保護用",
+      "en": "with provision for short-circuiting the electrical input to the release mechanism after release of the switch, e.g. for protection of heating wire",
+      "count": 80,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H71/50": {
+      "code": "H01H71/50",
+      "level": 2,
+      "parent": "H01H71/10",
+      "ja": "手動リセット機構",
+      "en": "Manual reset mechanisms",
+      "count": 2478,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H71/52": {
+      "code": "H01H71/52",
+      "level": 3,
+      "parent": "H01H71/50",
+      "ja": "レバーによって動作させるもの",
+      "en": "actuated by lever",
+      "count": 2232,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H71/54": {
+      "code": "H01H71/54",
+      "level": 3,
+      "parent": "H01H71/50",
+      "ja": "タンブラによって動作させるもの",
+      "en": "actuated by tumbler",
+      "count": 205,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H71/56": {
+      "code": "H01H71/56",
+      "level": 3,
+      "parent": "H01H71/50",
+      "ja": "回転ノブまたは回転輪によって動作させるもの",
+      "en": "actuated by rotatable knob or wheel",
+      "count": 449,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H71/58": {
+      "code": "H01H71/58",
+      "level": 3,
+      "parent": "H01H71/50",
+      "ja": "押釦，プルノブあるいは摺動によって動作させるもの",
+      "en": "actuated by push-button, pull-knob, or slide",
+      "count": 866,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H71/60": {
+      "code": "H01H71/60",
+      "level": 3,
+      "parent": "H01H71/50",
+      "ja": "スイッチケースの閉鎖によって動作させるもの",
+      "en": "actuated by closure of switch casing",
+      "count": 57,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H71/62": {
+      "code": "H01H71/62",
+      "level": 3,
+      "parent": "H01H71/50",
+      "ja": "異常状態の継続中，リセットを防止するための手段を有するもの，例．解放ハンドル装置",
+      "en": "with means for preventing resetting while abnormal condition persists, e.g. loose handle arrangement",
+      "count": 255,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H71/64": {
+      "code": "H01H71/64",
+      "level": 4,
+      "parent": "H01H71/62",
+      "ja": "トッグル機構を結合したもの",
+      "en": "incorporating toggle linkage",
+      "count": 46,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H71/66": {
+      "code": "H01H71/66",
+      "level": 2,
+      "parent": "H01H71/10",
+      "ja": "電動リセット機構",
+      "en": "Power reset mechanisms",
+      "count": 532,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H71/68": {
+      "code": "H01H71/68",
+      "level": 3,
+      "parent": "H01H71/66",
+      "ja": "電磁石によって動作されるもの",
+      "en": "actuated by electromagnet",
+      "count": 1149,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H71/70": {
+      "code": "H01H71/70",
+      "level": 3,
+      "parent": "H01H71/66",
+      "ja": "モータによって動作されるもの",
+      "en": "actuated by electric motor",
+      "count": 1698,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H71/72": {
+      "code": "H01H71/72",
+      "level": 3,
+      "parent": "H01H71/66",
+      "ja": "限られた回数自動的に動作されるもの",
+      "en": "actuated automatically a limited number of times",
+      "count": 22,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H71/74": {
+      "code": "H01H71/74",
+      "level": 1,
+      "parent": "H01H71/00",
+      "ja": "装置が保護動作を行う状態を調節する手段",
+      "en": "Means for adjusting the conditions under which the device will function to provide protection",
+      "count": 2149,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H73/00": {
+      "code": "H01H73/00",
+      "level": 0,
+      "parent": "H01H",
+      "ja": "過電流において，手動リセット機構の操作によりあらかじめ蓄積された勢力の自動放出によって接点を開く過負荷保護スイッチ",
+      "en": "Protective overload circuit-breaking switches in which excess current opens the contacts by automatic release of mechanical energy stored by previous operation of a hand reset mechanism",
+      "count": 1847,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H73/02": {
+      "code": "H01H73/02",
+      "level": 1,
+      "parent": "H01H73/00",
+      "ja": "細部",
+      "en": "Details",
+      "count": 2660,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H73/04": {
+      "code": "H01H73/04",
+      "level": 2,
+      "parent": "H01H73/02",
+      "ja": "接点",
+      "en": "Contacts",
+      "count": 4946,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H73/06": {
+      "code": "H01H73/06",
+      "level": 2,
+      "parent": "H01H73/02",
+      "ja": "ハウジング；ケーシング；基板；取り付け",
+      "en": "Housings; Casings; Bases; Mountings",
+      "count": 1919,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H73/08": {
+      "code": "H01H73/08",
+      "level": 3,
+      "parent": "H01H73/06",
+      "ja": "差し込み型ハウジング",
+      "en": "Plug-in housings",
+      "count": 334,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H73/10": {
+      "code": "H01H73/10",
+      "level": 3,
+      "parent": "H01H73/06",
+      "ja": "カートリッヂハウジング，例．ねじ込みハウジング",
+      "en": "Cartridge housings, e.g. screw-in housing",
+      "count": 121,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H73/12": {
+      "code": "H01H73/12",
+      "level": 2,
+      "parent": "H01H73/02",
+      "ja": "スイッチの状態を指示するための手段",
+      "en": "Means for indicating condition of the switch",
+      "count": 790,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H73/14": {
+      "code": "H01H73/14",
+      "level": 3,
+      "parent": "H01H73/12",
+      "ja": "スイッチに機構的に合体されている指示ランプ",
+      "en": "Indicating lamp structurally associated with the switch",
+      "count": 228,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H73/16": {
+      "code": "H01H73/16",
+      "level": 2,
+      "parent": "H01H73/02",
+      "ja": "識別マーク，例．カラーコード",
+      "en": "Distinguishing marks, e.g. colour coding",
+      "count": 74,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H73/18": {
+      "code": "H01H73/18",
+      "level": 2,
+      "parent": "H01H73/02",
+      "ja": "アーク消滅または抑制のための手段",
+      "en": "Means for extinguishing or suppressing arc",
+      "count": 8244,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H73/20": {
+      "code": "H01H73/20",
+      "level": 2,
+      "parent": "H01H73/02",
+      "ja": "端子；接続",
+      "en": "Terminals; Connections",
+      "count": 1726,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H73/22": {
+      "code": "H01H73/22",
+      "level": 1,
+      "parent": "H01H73/00",
+      "ja": "熱電釈放を有しその他の自動的釈放を有しないもの（カートリッジ型Ｈ０１Ｈ７３／６２）",
+      "en": "having electrothermal release and no other automatic release(cartridge type <b>H01H73/62</b>)",
+      "count": 1228,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H73/24": {
+      "code": "H01H73/24",
+      "level": 2,
+      "parent": "H01H73/22",
+      "ja": "レバーによってリセットするもの",
+      "en": "reset by lever",
+      "count": 702,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H73/26": {
+      "code": "H01H73/26",
+      "level": 2,
+      "parent": "H01H73/22",
+      "ja": "タンブラによってリセットするもの",
+      "en": "reset by tumbler",
+      "count": 423,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H73/28": {
+      "code": "H01H73/28",
+      "level": 2,
+      "parent": "H01H73/22",
+      "ja": "回転ノブまたは回転輪によってリセットするもの",
+      "en": "reset by rotatable knob or wheel",
+      "count": 133,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H73/30": {
+      "code": "H01H73/30",
+      "level": 2,
+      "parent": "H01H73/22",
+      "ja": "押釦，引ノブあるいは摺動部材によってリセットするもの",
+      "en": "reset by push-button, pull-knob, or slide",
+      "count": 918,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H73/32": {
+      "code": "H01H73/32",
+      "level": 2,
+      "parent": "H01H73/22",
+      "ja": "スイッチケースの閉鎖によってリセットするもの",
+      "en": "reset by closure of switch casing",
+      "count": 58,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H73/34": {
+      "code": "H01H73/34",
+      "level": 2,
+      "parent": "H01H73/22",
+      "ja": "可溶性部材または爆発部の修復，置き換えを必要とするリセット動作",
+      "en": "reset action requiring replacement or reconditioning of a fusible or explosive part",
+      "count": 202,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H73/36": {
+      "code": "H01H73/36",
+      "level": 1,
+      "parent": "H01H73/00",
+      "ja": "電磁釈放を行ないその他の自動的釈放を行なわないもの（カートリッジ型Ｈ０１Ｈ７３／６４）",
+      "en": "having electromagnetic release and no other automatic release(cartridge type <b>H01H73/64</b>)",
+      "count": 2203,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H73/38": {
+      "code": "H01H73/38",
+      "level": 2,
+      "parent": "H01H73/36",
+      "ja": "レバーによってリセットするもの",
+      "en": "reset by lever",
+      "count": 743,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H73/40": {
+      "code": "H01H73/40",
+      "level": 2,
+      "parent": "H01H73/36",
+      "ja": "タンブラによってリセットするもの",
+      "en": "reset by tumbler",
+      "count": 310,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H73/42": {
+      "code": "H01H73/42",
+      "level": 2,
+      "parent": "H01H73/36",
+      "ja": "回転ノブまたは回転輪によってリセットするもの",
+      "en": "reset by rotatable knob or wheel",
+      "count": 298,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H73/44": {
+      "code": "H01H73/44",
+      "level": 2,
+      "parent": "H01H73/36",
+      "ja": "押釦，引ノブあるいは摺動によってリセットするもの",
+      "en": "reset by push-button, pull-knob, or slide",
+      "count": 322,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H73/46": {
+      "code": "H01H73/46",
+      "level": 2,
+      "parent": "H01H73/36",
+      "ja": "スイッチケースの閉鎖によってリセットするもの",
+      "en": "reset by closure of switch casing",
+      "count": 26,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H73/48": {
+      "code": "H01H73/48",
+      "level": 1,
+      "parent": "H01H73/00",
+      "ja": "熱電と電磁自動釈放の両方を有するもの（カートリッジ型Ｈ０１Ｈ７３／６６）",
+      "en": "having both electrothermal and electromagnetic automatic release(cartridge type <b>H01H73/66</b>)",
+      "count": 915,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H73/50": {
+      "code": "H01H73/50",
+      "level": 2,
+      "parent": "H01H73/48",
+      "ja": "レバーによってリセットするもの",
+      "en": "reset by lever",
+      "count": 722,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H73/52": {
+      "code": "H01H73/52",
+      "level": 2,
+      "parent": "H01H73/48",
+      "ja": "タンブラによってリセットするもの",
+      "en": "reset by tumbler",
+      "count": 44,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H73/54": {
+      "code": "H01H73/54",
+      "level": 2,
+      "parent": "H01H73/48",
+      "ja": "回転ノブまたは回転輪によってリセットするもの",
+      "en": "reset by rotatable knob or wheel",
+      "count": 34,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H73/56": {
+      "code": "H01H73/56",
+      "level": 2,
+      "parent": "H01H73/48",
+      "ja": "押釦，引ノブあるいは摺動部材によってリセットするもの",
+      "en": "reset by push-button, pull-knob, or slide",
+      "count": 219,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H73/58": {
+      "code": "H01H73/58",
+      "level": 2,
+      "parent": "H01H73/48",
+      "ja": "スイッチケースの閉鎖によってリセットするもの",
+      "en": "reset by closure of switch casing",
+      "count": 2,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H73/60": {
+      "code": "H01H73/60",
+      "level": 1,
+      "parent": "H01H73/00",
+      "ja": "カートリッジ型，例．ねじ込みカートリッジ",
+      "en": "cartridge type, e.g. screw-in cartridge",
+      "count": 296,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H73/62": {
+      "code": "H01H73/62",
+      "level": 2,
+      "parent": "H01H73/60",
+      "ja": "熱電釈放のみを有するもの",
+      "en": "having only electrothermal release",
+      "count": 26,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H73/64": {
+      "code": "H01H73/64",
+      "level": 2,
+      "parent": "H01H73/60",
+      "ja": "電磁釈放のみを有するもの",
+      "en": "having only electromagnetic release",
+      "count": 20,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H73/66": {
+      "code": "H01H73/66",
+      "level": 2,
+      "parent": "H01H73/60",
+      "ja": "熱電釈放と電磁釈放の両者を結合したもの",
+      "en": "having combined electrothermal and electromagnetic release",
+      "count": 42,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H75/00": {
+      "code": "H01H75/00",
+      "level": 0,
+      "parent": "H01H",
+      "ja": "過電流において，動力リセット機構の操作によりあらかじめ蓄積された勢力の自動放出によって接点を開く過負荷保護スイッチ",
+      "en": "Protective overload circuit-breaking switches in which excess current opens the contacts by automatic release of mechanical energy stored by previous operation of power reset mechanism",
+      "count": 472,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H75/02": {
+      "code": "H01H75/02",
+      "level": 1,
+      "parent": "H01H75/00",
+      "ja": "細部",
+      "en": "Details",
+      "count": 170,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H75/04": {
+      "code": "H01H75/04",
+      "level": 2,
+      "parent": "H01H75/02",
+      "ja": "限られた回数自動的に再閉路するためのリセット機構（回路装置Ｈ０２Ｈ３／０６）",
+      "en": "Reset mechanisms for automatically reclosing a limited number of times(circuit arrangements <b>H02H3/06</b>)",
+      "count": 634,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H75/06": {
+      "code": "H01H75/06",
+      "level": 3,
+      "parent": "H01H75/04",
+      "ja": "１回だけの再閉路動作を行なうもの",
+      "en": "effecting one reclosing action only",
+      "count": 79,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H75/08": {
+      "code": "H01H75/08",
+      "level": 1,
+      "parent": "H01H75/00",
+      "ja": "熱電釈放のみを有するもの",
+      "en": "having only electrothermal release",
+      "count": 42,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H75/10": {
+      "code": "H01H75/10",
+      "level": 1,
+      "parent": "H01H75/00",
+      "ja": "電磁釈放のみを有するもの",
+      "en": "having only electromagnetic release",
+      "count": 118,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H75/12": {
+      "code": "H01H75/12",
+      "level": 1,
+      "parent": "H01H75/00",
+      "ja": "熱電釈放と電磁釈放の両者を結合したもの",
+      "en": "having combined electrothermal and electromagnetic release",
+      "count": 91,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H77/00": {
+      "code": "H01H77/00",
+      "level": 0,
+      "parent": "H01H",
+      "ja": "過電流により操作され，リセットに単独の作動を必要とする過負荷保護スイッチ（Ｈ０１Ｈ７３／００，Ｈ０１Ｈ７５／００が優先）",
+      "en": "Protective overload circuit-breaking switches operated by excess current and requiring separate action for resetting(<b>H01H73/00</b>, <b>H01H75/00</b> take precedence)",
+      "count": 338,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H77/02": {
+      "code": "H01H77/02",
+      "level": 1,
+      "parent": "H01H77/00",
+      "ja": "過電流によって接点を開放するためのエネルギーが供給され，しかも別のリセット機構を有するもの",
+      "en": "in which the excess current itself provides the energy for opening the contacts, and having a separate reset mechanism",
+      "count": 97,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H77/04": {
+      "code": "H01H77/04",
+      "level": 2,
+      "parent": "H01H77/02",
+      "ja": "熱電釈放を有するもの",
+      "en": "with electrothermal opening",
+      "count": 315,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H77/06": {
+      "code": "H01H77/06",
+      "level": 2,
+      "parent": "H01H77/02",
+      "ja": "電磁釈放を有するもの",
+      "en": "with electromagnetic opening",
+      "count": 319,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H77/08": {
+      "code": "H01H77/08",
+      "level": 3,
+      "parent": "H01H77/06",
+      "ja": "永久磁気または付勢磁気によって閉路され，反対に作用する巻線によって開放されるもの",
+      "en": "retained closed by permanent or remanent magnetism and opened by windings acting in opposition",
+      "count": 280,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H77/10": {
+      "code": "H01H77/10",
+      "level": 2,
+      "parent": "H01H77/02",
+      "ja": "電流力釈放を有するもの",
+      "en": "with electrodynamic opening",
+      "count": 918,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H79/00": {
+      "code": "H01H79/00",
+      "level": 0,
+      "parent": "H01H",
+      "ja": "過電流によって接点の閉合を生じる保護スイッチ，例．被保護装置を短絡するためのもの",
+      "en": "Protective switches in which excess current causes the closing of contacts, e.g. for short-circuiting the apparatus to be protected",
+      "count": 490,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H81/00": {
+      "code": "H01H81/00",
+      "level": 0,
+      "parent": "H01H",
+      "ja": "接点が常に閉じているが，過電流状態が持続している間開閉をくり返す保護スイッチ，例．電流制限用",
+      "en": "Protective switches in which contacts are normally closed but are repeatedly opened and reclosed as long as a condition causing excess current persists, e.g. for current limiting",
+      "count": 126,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H81/02": {
+      "code": "H01H81/02",
+      "level": 1,
+      "parent": "H01H81/00",
+      "ja": "熱電的に操作するもの",
+      "en": "electrothermally-operated",
+      "count": 348,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H81/04": {
+      "code": "H01H81/04",
+      "level": 1,
+      "parent": "H01H81/00",
+      "ja": "電磁的に操作するもの",
+      "en": "electromagnetically-operated",
+      "count": 165,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H83/00": {
+      "code": "H01H83/00",
+      "level": 0,
+      "parent": "H01H",
+      "ja": "過電流によってのみでなく，他の異常な電気状態により操作される保護スイッチ，例．回路遮断スイッチ，又は保護継電器",
+      "en": "Protective switches, e.g. circuit-breaking switches, or protective relays operated by abnormal electrical conditions otherwise than solely by excess current",
+      "count": 1425,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H83/02": {
+      "code": "H01H83/02",
+      "level": 1,
+      "parent": "H01H83/00",
+      "ja": "地絡電流によって操作されるもの（Ｈ０１Ｈ８３／１４が優先）",
+      "en": "operated by earth fault currents(<b>H01H83/14</b> takes precedence)",
+      "count": 3313,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H83/04": {
+      "code": "H01H83/04",
+      "level": 2,
+      "parent": "H01H83/02",
+      "ja": "正しい動作をさせるために，開閉器あるいは継電器の能力を指示するためのテスト手段をもつもの",
+      "en": "with testing means for indicating the ability of the switch or relay to function properly",
+      "count": 1164,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H83/06": {
+      "code": "H01H83/06",
+      "level": 1,
+      "parent": "H01H83/00",
+      "ja": "電流が予定値以下に降下することによって操作されるもの",
+      "en": "operated by current falling below a predetermined value",
+      "count": 162,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H83/08": {
+      "code": "H01H83/08",
+      "level": 1,
+      "parent": "H01H83/00",
+      "ja": "直流の反転によって操作されるもの",
+      "en": "operated by reversal of DC",
+      "count": 187,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H83/10": {
+      "code": "H01H83/10",
+      "level": 1,
+      "parent": "H01H83/00",
+      "ja": "過電圧によって操作されるもの，例．避雷保護のためのもの",
+      "en": "operated by excess voltage, e.g. for lightning protection",
+      "count": 644,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H83/12": {
+      "code": "H01H83/12",
+      "level": 1,
+      "parent": "H01H83/00",
+      "ja": "電圧が予定値以下に降下することによって操作されるもの，例．無電圧保護のためのもの",
+      "en": "operated by voltage falling below a predetermined value, e.g. for no-volt protection",
+      "count": 919,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H83/14": {
+      "code": "H01H83/14",
+      "level": 1,
+      "parent": "H01H83/00",
+      "ja": "２以上の電流または電圧の不平衡によって操作されるもの，例．差動保護のためのもの  ［２００６．０１］",
+      "en": "operated by imbalance of two or more currents or voltages, e.g. for differential protection",
+      "count": 1500,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H83/16": {
+      "code": "H01H83/16",
+      "level": 1,
+      "parent": "H01H83/00",
+      "ja": "電圧，電流の異常な比によって操作されるもの，例．距離継電器",
+      "en": "operated by abnormal ratio of voltage and current, e.g. distance relay",
+      "count": 109,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H83/18": {
+      "code": "H01H83/18",
+      "level": 1,
+      "parent": "H01H83/00",
+      "ja": "電圧，電流の異常な積，あるいは位相角によって操作されるもの，例．方向継電器",
+      "en": "operated by abnormal product of, or abnormal phase angle between, voltage and current, e.g. directional relay",
+      "count": 153,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H83/20": {
+      "code": "H01H83/20",
+      "level": 1,
+      "parent": "H01H83/00",
+      "ja": "過電流ならびに他の異常な電気状態によって操作されるもの",
+      "en": "operated by excess current as well as by some other abnormal electrical condition",
+      "count": 1122,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H83/22": {
+      "code": "H01H83/22",
+      "level": 2,
+      "parent": "H01H83/20",
+      "ja": "他の異常状態が２以上の電圧または電流の不平衡であるもの［２００６．０１］",
+      "en": "the other condition being imbalance of two or more currents or voltages",
+      "count": 656,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H85/00": {
+      "code": "H01H85/00",
+      "level": 0,
+      "parent": "H01H",
+      "ja": "可溶材料の一部を流れる電流が過大となった時，該可溶材料の変化により電流が遮断される保護装置（可溶材料の溶融によって作動するスイッチＨ０１Ｈ３７／７６；配電盤上におけるヒューズの配列または配置Ｈ０２Ｂ１／１８）",
+      "en": "Protective devices in which the current flows through a part of fusible material and this current is interrupted by displacement of the fusible material when this current becomes excessive(switches actuated by melting of fusible material <b>H01H37/76</b>; disposition or arrangement of fuses on boards <b>H02B1/18</b>)",
+      "count": 4993,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H85/02": {
+      "code": "H01H85/02",
+      "level": 1,
+      "parent": "H01H85/00",
+      "ja": "細部",
+      "en": "Details",
+      "count": 6404,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H85/04": {
+      "code": "H01H85/04",
+      "level": 2,
+      "parent": "H01H85/02",
+      "ja": "ヒューズ，すなわち保護装置の消耗部分，例．カートリッジ",
+      "en": "Fuses, i.e. expendable parts of the protective device, e.g. cartridges",
+      "count": 1740,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H85/041": {
+      "code": "H01H85/041",
+      "level": 3,
+      "parent": "H01H85/04",
+      "ja": "形式を特徴とするもの［５］",
+      "en": "characterised by the type",
+      "count": 1165,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H85/042": {
+      "code": "H01H85/042",
+      "level": 4,
+      "parent": "H01H85/041",
+      "ja": "高電圧すなわち適用される電圧が１，０００Ｖ以上のヒューズの一般的構成または構造［５］",
+      "en": "General constructions or structure of high voltage fuses, i.e. above 1,000 V",
+      "count": 1926,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H85/044": {
+      "code": "H01H85/044",
+      "level": 4,
+      "parent": "H01H85/041",
+      "ja": "低電圧すなわち適用される電圧が１，０００Ｖ以下のヒューズ，または適用可能な電圧が特定されないヒューズの一般的構成または構造（Ｈ０１Ｈ８５／０４６～Ｈ０１Ｈ８５／０４８が優先）　［５］",
+      "en": "General constructions or structure of low voltage fuses, i.e. below 1,000 V, or of fuses where the applicable voltage is not specified(<b>H01H85/046 to H01H85/048</b>  take precedence)",
+      "count": 813,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H85/0445": {
+      "code": "H01H85/0445",
+      "level": 5,
+      "parent": "H01H85/044",
+      "ja": "速断型または緩応型（Ｈ０１Ｈ８５／０４５～Ｈ０１Ｈ８５／０４８が優先）［５］",
+      "en": "fast or slow type(<b>H01H85/045 to H01H85/048</b>  take precedence)",
+      "count": 279,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H85/045": {
+      "code": "H01H85/045",
+      "level": 5,
+      "parent": "H01H85/044",
+      "ja": "カートリッジ型［５］",
+      "en": "cartridge type",
+      "count": 2367,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H85/046": {
+      "code": "H01H85/046",
+      "level": 4,
+      "parent": "H01H85/041",
+      "ja": "印刷回路として形成されたヒューズ［５］",
+      "en": "Fuses formed as printed circuits",
+      "count": 1050,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H85/047": {
+      "code": "H01H85/047",
+      "level": 4,
+      "parent": "H01H85/041",
+      "ja": "真空ヒューズ［５］",
+      "en": "Vacuum fuses",
+      "count": 147,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H85/048": {
+      "code": "H01H85/048",
+      "level": 4,
+      "parent": "H01H85/041",
+      "ja": "ヒューズ抵抗器［５］",
+      "en": "Fuse resistors",
+      "count": 411,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H85/05": {
+      "code": "H01H85/05",
+      "level": 3,
+      "parent": "H01H85/04",
+      "ja": "構成部品［５］",
+      "en": "Component parts thereof",
+      "count": 1429,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H85/055": {
+      "code": "H01H85/055",
+      "level": 4,
+      "parent": "H01H85/05",
+      "ja": "可溶部材［５］",
+      "en": "Fusible members",
+      "count": 1662,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H85/06": {
+      "code": "H01H85/06",
+      "level": 5,
+      "parent": "H01H85/055",
+      "ja": "可溶材料を特徴とするもの（Ｈ０１Ｈ８５／１１が優先）［５］",
+      "en": "characterised by the fusible material(<b>H01H85/11</b> takes precedence)",
+      "count": 1898,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H85/08": {
+      "code": "H01H85/08",
+      "level": 5,
+      "parent": "H01H85/055",
+      "ja": "可溶部材の形状を特徴とするもの［５］",
+      "en": "characterised by the shape or form of the fusible member",
+      "count": 2484,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H85/10": {
+      "code": "H01H85/10",
+      "level": 6,
+      "parent": "H01H85/08",
+      "ja": "局所的に溶融させるためのくびれをもつもの（Ｈ０１Ｈ８５／１１が優先）［５］",
+      "en": "with constriction for localised fusing(<b>H01H85/11</b> takes precedence)",
+      "count": 994,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H85/11": {
+      "code": "H01H85/11",
+      "level": 6,
+      "parent": "H01H85/08",
+      "ja": "融解することで可溶部材の主材料と共晶を形成する金属を部分的に付加したもの，例．Ｍエフェクトデバイス［５］",
+      "en": "with applied local area of a metal which, on melting, forms a eutectic with the main material of the fusible member, i.e. M-effect devices",
+      "count": 391,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H85/12": {
+      "code": "H01H85/12",
+      "level": 5,
+      "parent": "H01H85/055",
+      "ja": "並行して設けられた２以上の可溶部材［５］",
+      "en": "Two or more separate fusible members in parallel",
+      "count": 1222,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H85/143": {
+      "code": "H01H85/143",
+      "level": 4,
+      "parent": "H01H85/05",
+      "ja": "端子；可溶部材の端子への取付［５］",
+      "en": "Electrical contacts; Fastening fusible members to such contacts",
+      "count": 2624,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H85/147": {
+      "code": "H01H85/147",
+      "level": 5,
+      "parent": "H01H85/143",
+      "ja": "並行端子を備えたもの［５］",
+      "en": "Parallel-side contacts",
+      "count": 920,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H85/15": {
+      "code": "H01H85/15",
+      "level": 5,
+      "parent": "H01H85/143",
+      "ja": "ねじ込み端子を備えたもの［５］",
+      "en": "Screw-in contacts",
+      "count": 130,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H85/153": {
+      "code": "H01H85/153",
+      "level": 5,
+      "parent": "H01H85/143",
+      "ja": "ナイフ刃状端子を備えたもの［５］",
+      "en": "Knife-blade-end contacts",
+      "count": 1104,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H85/157": {
+      "code": "H01H85/157",
+      "level": 5,
+      "parent": "H01H85/143",
+      "ja": "環状端子を備えたもの［５］",
+      "en": "Ferrule-end contacts",
+      "count": 1046,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H85/165": {
+      "code": "H01H85/165",
+      "level": 4,
+      "parent": "H01H85/05",
+      "ja": "ケーシング［５］",
+      "en": "Casings",
+      "count": 2345,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H85/17": {
+      "code": "H01H85/17",
+      "level": 5,
+      "parent": "H01H85/165",
+      "ja": "ケーシングの材料を特徴とするもの［５］",
+      "en": "characterised by the casing material",
+      "count": 928,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H85/175": {
+      "code": "H01H85/175",
+      "level": 5,
+      "parent": "H01H85/165",
+      "ja": "ケーシングの形状を特徴とするもの［５］",
+      "en": "characterised by the casing shape or form",
+      "count": 1703,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H85/18": {
+      "code": "H01H85/18",
+      "level": 4,
+      "parent": "H01H85/05",
+      "ja": "ケーシングの充てん剤，例．パウダ",
+      "en": "Casing fillings, e.g. powder",
+      "count": 1357,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H85/20": {
+      "code": "H01H85/20",
+      "level": 2,
+      "parent": "H01H85/02",
+      "ja": "ヒューズを支持する基台；それの各部分",
+      "en": "Bases for supporting the fuse; Separate parts thereof",
+      "count": 9794,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H85/22": {
+      "code": "H01H85/22",
+      "level": 2,
+      "parent": "H01H85/02",
+      "ja": "基台または固定されたホルダと共にヒューズを支持，把持または保持する介在部分または補助部分であって，ヒューズを交換するためにその部分からヒューズを取り外すことのできるもの",
+      "en": "Intermediate or auxiliary parts for carrying, holding, or retaining fuse, co-operating with base or fixed holder, and removable therefrom for renewing the fuse",
+      "count": 4428,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H85/24": {
+      "code": "H01H85/24",
+      "level": 2,
+      "parent": "H01H85/02",
+      "ja": "ヒューズの誤挿入を防止するための手段",
+      "en": "Means for preventing insertion of incorrect fuse",
+      "count": 637,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H85/25": {
+      "code": "H01H85/25",
+      "level": 2,
+      "parent": "H01H85/02",
+      "ja": "導電部との接触を防止または禁止する安全に関する配置，除去可能なカバーによって絶縁するものを含む［５］",
+      "en": "Safety arrangements preventing or inhibiting contact with live parts, including operation of isolation on removal of cover",
+      "count": 707,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H85/26": {
+      "code": "H01H85/26",
+      "level": 2,
+      "parent": "H01H85/02",
+      "ja": "マガジン装置",
+      "en": "Magazine arrangements",
+      "count": 898,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H85/28": {
+      "code": "H01H85/28",
+      "level": 3,
+      "parent": "H01H85/26",
+      "ja": "自動置換を行なえるもの",
+      "en": "effecting automatic replacement",
+      "count": 323,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H85/30": {
+      "code": "H01H85/30",
+      "level": 2,
+      "parent": "H01H85/02",
+      "ja": "ヒューズと構造的に組み合わせたヒューズの状態を指示するための手段",
+      "en": "Means for indicating condition of fuse structurally associated with the fuse",
+      "count": 3073,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H85/32": {
+      "code": "H01H85/32",
+      "level": 3,
+      "parent": "H01H85/30",
+      "ja": "保護装置と構造的に組み合わせた指示ランプ",
+      "en": "Indicating lamp structurally associated with the protective device",
+      "count": 869,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H85/34": {
+      "code": "H01H85/34",
+      "level": 2,
+      "parent": "H01H85/02",
+      "ja": "識別マーク，例．カラーコード",
+      "en": "Distinguishing marks, e.g. colour coding",
+      "count": 317,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H85/36": {
+      "code": "H01H85/36",
+      "level": 2,
+      "parent": "H01H85/02",
+      "ja": "可溶部材に機械的な張力を与えるための手段",
+      "en": "Means for applying mechanical tension to fusible member",
+      "count": 1306,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H85/38": {
+      "code": "H01H85/38",
+      "level": 2,
+      "parent": "H01H85/02",
+      "ja": "消弧または制弧用の手段（パウダ充てんによるものＨ０１Ｈ８５／１８；機械的な張力を可溶部材に与えるものＨ０１Ｈ８５／３６）",
+      "en": "Means for extinguishing or suppressing arc(by powder filling <b>H01H85/18</b>; by mechanical tension applied to fusible member <b>H01H85/36</b>)",
+      "count": 1857,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H85/40": {
+      "code": "H01H85/40",
+      "level": 3,
+      "parent": "H01H85/38",
+      "ja": "消弧用液体を使用するもの（液体の組成を特徴とするものＨ０１Ｈ３３／２２）",
+      "en": "using an arc-extinguishing liquid(characterised by the composition of the liquid <b>H01H33/22</b>)",
+      "count": 170,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H85/42": {
+      "code": "H01H85/42",
+      "level": 3,
+      "parent": "H01H85/38",
+      "ja": "消弧用気体を使用するもの（気体の組成を特徴とするものＨ０１Ｈ３３／２２）",
+      "en": "using an arc-extinguishing gas(characterised by the composition of the gas <b>H01H33/22</b>)",
+      "count": 570,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H85/43": {
+      "code": "H01H85/43",
+      "level": 2,
+      "parent": "H01H85/02",
+      "ja": "溶断アークにより遊離したガスを排出または吸収する手段，または加熱により発生した過度の圧力を抜く手段［５］",
+      "en": "Means for exhausting or absorbing gases liberated by fusing arc, or for ventilating excess pressure generated by heating",
+      "count": 331,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H85/44": {
+      "code": "H01H85/44",
+      "level": 2,
+      "parent": "H01H85/02",
+      "ja": "スパークギャップ付き避雷器と組み合わせたヒューズ",
+      "en": "Structural association with spark-gap arrester",
+      "count": 510,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H85/46": {
+      "code": "H01H85/46",
+      "level": 2,
+      "parent": "H01H85/02",
+      "ja": "特定の用途には適合されていない保護装置における回路の配置",
+      "en": "Circuit arrangements not adapted to a particular application of the protective device",
+      "count": 1252,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H85/47": {
+      "code": "H01H85/47",
+      "level": 2,
+      "parent": "H01H85/02",
+      "ja": "冷却手段［５］",
+      "en": "Means for cooling",
+      "count": 897,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H85/48": {
+      "code": "H01H85/48",
+      "level": 1,
+      "parent": "H01H85/00",
+      "ja": "基台によって直接支持または保持されたヒューズを備えた保護装置",
+      "en": "Protective devices wherein the fuse is carried or held directly by the base",
+      "count": 672,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H85/50": {
+      "code": "H01H85/50",
+      "level": 2,
+      "parent": "H01H85/48",
+      "ja": "両端に基台と接続される端子を有するヒューズ",
+      "en": "the fuse having contacts at opposite ends for co-operation with the base",
+      "count": 1059,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H85/52": {
+      "code": "H01H85/52",
+      "level": 2,
+      "parent": "H01H85/48",
+      "ja": "基台にねじ込むように構成されたヒューズ",
+      "en": "the fuse being adapted for screwing into the base",
+      "count": 44,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H85/54": {
+      "code": "H01H85/54",
+      "level": 1,
+      "parent": "H01H85/00",
+      "ja": "基台から取り外し可能な介在部分または補助部分に，支持，把持または保持されたヒューズを備えた保護装置，またはセクショナライザーとして用いられる保護装置",
+      "en": "Protective devices wherein the fuse is carried, held, or retained by an intermediate or auxiliary part removable from the base, or used as sectionalisers",
+      "count": 2611,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H85/56": {
+      "code": "H01H85/56",
+      "level": 2,
+      "parent": "H01H85/54",
+      "ja": "基台へさし込む端子を有する介在部分または補助部分，例．ブリッジキャリヤ型",
+      "en": "the intermediate or auxiliary part having side contacts for plugging into the base, e.g. bridge-carrier type",
+      "count": 841,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H85/58": {
+      "code": "H01H85/58",
+      "level": 3,
+      "parent": "H01H85/56",
+      "ja": "介在部分または補助部分とこれと合うように形成された基台とによって，ヒューズを囲うもの",
+      "en": "with intermediate auxiliary part and base shaped to interfit and thereby enclose the fuse",
+      "count": 243,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H85/60": {
+      "code": "H01H85/60",
+      "level": 2,
+      "parent": "H01H85/54",
+      "ja": "両端に基台と接続される端子を有する介在部分または補助部分",
+      "en": "the intermediate or auxiliary part having contacts at opposite ends for co-operation with the base",
+      "count": 165,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H85/62": {
+      "code": "H01H85/62",
+      "level": 2,
+      "parent": "H01H85/54",
+      "ja": "基台にねじ込むように構成された介在部分または補助部分",
+      "en": "the intermediate or auxiliary part being adapted for screwing into the base",
+      "count": 430,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H87/00": {
+      "code": "H01H87/00",
+      "level": 0,
+      "parent": "H01H",
+      "ja": "電流が過大になるとき，液体または固体を介して流れる電流が液体の蒸発または固体の溶解，蒸発によって遮断され，冷却によって回路の復旧がなされる保護装置［３］",
+      "en": "Protective devices in which a current flowing through a liquid or solid is interrupted by the evaporation of the liquid or by the melting and evaporation of the solid when the current becomes excessive, the circuit continuity being reestablished on cooling",
+      "count": 553,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H89/00": {
+      "code": "H01H89/00",
+      "level": 0,
+      "parent": "H01H",
+      "ja": "２つ以上の異なる型の電気的スイッチ，継電器，セレクタ，非常保護装置の組み合わせであり，このサブクラスの他のグループのいずれにも包含されないもの［８］",
+      "en": "Combinations of two or more different basic types of electric switches, relays, selectors and emergency protective devices, not covered by any single one of the other main groups of this subclass",
+      "count": 3468,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H89/02": {
+      "code": "H01H89/02",
+      "level": 1,
+      "parent": "H01H89/00",
+      "ja": "手動操作スイッチとキー操作スイッチの組み合わせ，例．点火と照明のスイッチ［８］",
+      "en": "Combination of a key operated switch with a manually operated switch, e.g. ignition and lighting switches",
+      "count": 136,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H89/04": {
+      "code": "H01H89/04",
+      "level": 1,
+      "parent": "H01H89/00",
+      "ja": "熱応動スイッチと手動操作スイッチの組み合わせ［８］",
+      "en": "Combination of a thermally actuated switch with a manually operated switch",
+      "count": 292,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H89/06": {
+      "code": "H01H89/06",
+      "level": 1,
+      "parent": "H01H89/00",
+      "ja": "手動リセット回路と接触器の組み合わせ，即ち，保護装置と遠隔制御装置双方により制御される同一の回路［８］",
+      "en": "Combination of a manual reset circuit with a contactor, i.e. the same circuit controlled by both a protective and a remote control device",
+      "count": 212,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H89/08": {
+      "code": "H01H89/08",
+      "level": 2,
+      "parent": "H01H89/06",
+      "ja": "同じ接点対を使用した双方の装置を有するもの［８］",
+      "en": "with both devices using the same contact pair",
+      "count": 144,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    },
+    "H01H89/10": {
+      "code": "H01H89/10",
+      "level": 3,
+      "parent": "H01H89/08",
+      "ja": "２つの協動接点の１つを制御する装置をそれぞれ有するもの［８］",
+      "en": "with each device controlling one of the two co-operating contacts",
+      "count": 24,
+      "sourceFile": "ipc_H01H.txt",
+      "kind": "ipc"
+    }
+  }
+};

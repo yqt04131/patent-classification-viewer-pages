@@ -1,0 +1,336 @@
+{
+  "generatedAt": "2026-03-20T02:17:46.897Z",
+  "total": 33,
+  "entries": {
+    "F23M": {
+      "code": "F23M",
+      "level": 0,
+      "parent": "F23",
+      "ja": "燃焼室のためにとくに適合するケーシング，内張り，壁または扉，例．火橋；燃焼室内で空気，炎または燃焼生成物を転向させる装置；燃焼装置のために特に適合する安全装置；他に分類されない燃焼室の細部",
+      "en": "CASINGS, LININGS, WALLS OR DOORS SPECIALLY ADAPTED FOR COMBUSTION CHAMBERS, e.g. FIREBRIDGES; DEVICES FOR DEFLECTING AIR, FLAMES OR COMBUSTION PRODUCTS IN COMBUSTION CHAMBERS; SAFETY ARRANGEMENTS SPECIALLY ADAPTED FOR COMBUSTION APPARATUS; DETAILS OF COMBUSTION CHAMBERS, NOT OTHERWISE PROVIDED FOR",
+      "count": 178,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F23": {
+      "code": "F23",
+      "level": 0,
+      "parent": "F",
+      "ja": "燃焼装置；燃焼方法<br><br><b><ul>注</ul></b><br>このクラスにおいては，下記の用語は以下に示す意味で用いる：<br>―“燃焼”は，可燃物質と分子酸素，例．空気中の，との間の発熱を伴う連鎖的な化学反応を意味し，大半の場合に炎または白熱の形式で光を発生させる；<br>―“燃焼室”は，それ自体で維持される火または炎を確立するために燃料がその中で燃焼するものであって，その火または炎を取り囲んでいる室を意味する；<br>―“バーナ”は，それ自体で維持される炎を発生するために流動性燃料が，または空気中に浮遊する固体燃料が，燃焼する燃焼空間へ導かれる装置を意味する；<br>―“空気”は，遊離した酸素を含み，および燃焼を促進または維持させ得る気体の混合物を意味する。",
+      "en": "COMBUSTION APPARATUS; COMBUSTION PROCESSES; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this class, the following terms or expressions are used with the meanings indicated: <ul><li>\"combustion\" means a heat-producing sequence of chemical reactions between a burnable substance and molecular oxygen, e.g. in air, in most cases generating light in the form of flames or a glow;</li><li>\"combustion chamber\" means a chamber in which fuel is burned to establish a self-supporting fire or flame and which surrounds that fire or flame;</li><li>\"burner\" means a device by which fluid fuel, or solid fuel suspended in air, is passed to a combustion space where it burns to produce a self-supporting flame;</li><li>\"air\" means a mixture of gases containing free oxygen and able to promote or support combustion.</li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F": {
+      "code": "F",
+      "level": 0,
+      "parent": null,
+      "ja": "機械工学；照明；加熱；武器；爆破",
+      "en": "MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F23M3/00": {
+      "code": "F23M3/00",
+      "level": 0,
+      "parent": "F23M",
+      "ja": "火橋",
+      "en": "Firebridges",
+      "count": 402,
+      "sourceFile": "ipc_F23M.txt",
+      "kind": "ipc"
+    },
+    "F23M3/02": {
+      "code": "F23M3/02",
+      "level": 1,
+      "parent": "F23M3/00",
+      "ja": "流体，例．空気，蒸気，水，を循環させるように改造したもの",
+      "en": "modified for circulation of fluids, e.g. air, steam, water",
+      "count": 67,
+      "sourceFile": "ipc_F23M.txt",
+      "kind": "ipc"
+    },
+    "F23M3/04": {
+      "code": "F23M3/04",
+      "level": 2,
+      "parent": "F23M3/02",
+      "ja": "気体，例．空気，蒸気，の放出用",
+      "en": "for delivery of gas, e.g. air, steam",
+      "count": 87,
+      "sourceFile": "ipc_F23M.txt",
+      "kind": "ipc"
+    },
+    "F23M3/06": {
+      "code": "F23M3/06",
+      "level": 3,
+      "parent": "F23M3/04",
+      "ja": "火炎の中へまたは火炎に向って放出するもの",
+      "en": "into or towards fire",
+      "count": 19,
+      "sourceFile": "ipc_F23M.txt",
+      "kind": "ipc"
+    },
+    "F23M3/08": {
+      "code": "F23M3/08",
+      "level": 3,
+      "parent": "F23M3/04",
+      "ja": "火炎からはなれて放出するもの，例．煙出口に向って放出するもの",
+      "en": "away from fire, e.g. towards smoke outlet",
+      "count": 22,
+      "sourceFile": "ipc_F23M.txt",
+      "kind": "ipc"
+    },
+    "F23M3/10": {
+      "code": "F23M3/10",
+      "level": 3,
+      "parent": "F23M3/04",
+      "ja": "横切って放出するもの",
+      "en": "transversely",
+      "count": 7,
+      "sourceFile": "ipc_F23M.txt",
+      "kind": "ipc"
+    },
+    "F23M3/12": {
+      "code": "F23M3/12",
+      "level": 1,
+      "parent": "F23M3/00",
+      "ja": "形状または構造に特徴があるもの［２００６．０１］",
+      "en": "characterised by shape or construction ",
+      "count": 123,
+      "sourceFile": "ipc_F23M.txt",
+      "kind": "ipc"
+    },
+    "F23M3/14": {
+      "code": "F23M3/14",
+      "level": 2,
+      "parent": "F23M3/12",
+      "ja": "燃焼生成物の通路となる開口をもつもの",
+      "en": "with apertures for passage of combustion products",
+      "count": 51,
+      "sourceFile": "ipc_F23M.txt",
+      "kind": "ipc"
+    },
+    "F23M3/16": {
+      "code": "F23M3/16",
+      "level": 2,
+      "parent": "F23M3/12",
+      "ja": "組み立て式のもの，例．棒またはブロックを用いるもの",
+      "en": "built-up in sections, e.g. using bars or blocks",
+      "count": 24,
+      "sourceFile": "ipc_F23M.txt",
+      "kind": "ipc"
+    },
+    "F23M3/18": {
+      "code": "F23M3/18",
+      "level": 2,
+      "parent": "F23M3/12",
+      "ja": "２重形，多重形",
+      "en": "double; multiple",
+      "count": 28,
+      "sourceFile": "ipc_F23M.txt",
+      "kind": "ipc"
+    },
+    "F23M3/20": {
+      "code": "F23M3/20",
+      "level": 2,
+      "parent": "F23M3/12",
+      "ja": "全部または一部に，ばらばらの耐火物を含むもの",
+      "en": "comprising loose refractory material, wholly or in part",
+      "count": 11,
+      "sourceFile": "ipc_F23M.txt",
+      "kind": "ipc"
+    },
+    "F23M3/22": {
+      "code": "F23M3/22",
+      "level": 1,
+      "parent": "F23M3/00",
+      "ja": "可動なもの；調節できるもの",
+      "en": "movable; adjustable",
+      "count": 34,
+      "sourceFile": "ipc_F23M.txt",
+      "kind": "ipc"
+    },
+    "F23M5/00": {
+      "code": "F23M5/00",
+      "level": 0,
+      "parent": "F23M",
+      "ja": "ケーシング；内張り；壁［２００６．０１］",
+      "en": "Casings; Linings; Walls",
+      "count": 3765,
+      "sourceFile": "ipc_F23M.txt",
+      "kind": "ipc"
+    },
+    "F23M5/02": {
+      "code": "F23M5/02",
+      "level": 1,
+      "parent": "F23M5/00",
+      "ja": "使用されるれんがまたはブロックの形状に特徴があるもの［２００６．０１］",
+      "en": "characterised by the shape of the bricks or blocks used ",
+      "count": 1499,
+      "sourceFile": "ipc_F23M.txt",
+      "kind": "ipc"
+    },
+    "F23M5/04": {
+      "code": "F23M5/04",
+      "level": 1,
+      "parent": "F23M5/00",
+      "ja": "内張りの支持",
+      "en": "Supports for linings",
+      "count": 865,
+      "sourceFile": "ipc_F23M.txt",
+      "kind": "ipc"
+    },
+    "F23M5/06": {
+      "code": "F23M5/06",
+      "level": 1,
+      "parent": "F23M5/00",
+      "ja": "燃焼室のクラウンまたは天井［２００６．０１］",
+      "en": "Crowns or roofs for combustion chambers ",
+      "count": 1189,
+      "sourceFile": "ipc_F23M.txt",
+      "kind": "ipc"
+    },
+    "F23M5/08": {
+      "code": "F23M5/08",
+      "level": 1,
+      "parent": "F23M5/00",
+      "ja": "その冷却；管壁",
+      "en": "Cooling thereof; Tube walls",
+      "count": 5431,
+      "sourceFile": "ipc_F23M.txt",
+      "kind": "ipc"
+    },
+    "F23M7/00": {
+      "code": "F23M7/00",
+      "level": 0,
+      "parent": "F23M",
+      "ja": "扉",
+      "en": "Doors",
+      "count": 2098,
+      "sourceFile": "ipc_F23M.txt",
+      "kind": "ipc"
+    },
+    "F23M7/02": {
+      "code": "F23M7/02",
+      "level": 1,
+      "parent": "F23M7/00",
+      "ja": "その枠",
+      "en": "Frames therefor",
+      "count": 70,
+      "sourceFile": "ipc_F23M.txt",
+      "kind": "ipc"
+    },
+    "F23M7/04": {
+      "code": "F23M7/04",
+      "level": 1,
+      "parent": "F23M7/00",
+      "ja": "扉または扉枠の冷却",
+      "en": "Cooling doors or door frames",
+      "count": 150,
+      "sourceFile": "ipc_F23M.txt",
+      "kind": "ipc"
+    },
+    "F23M9/00": {
+      "code": "F23M9/00",
+      "level": 0,
+      "parent": "F23M",
+      "ja": "空気または燃焼生成物の邪魔板または転向板（バーナと構造的に関連する空気または燃焼生成物の邪魔板または転向板Ｆ２３Ｄ）；火立て［２００６．０１］",
+      "en": "Baffles or deflectors for air or combustion products(baffles or deflectors for air or combustion products structurally associated with burners <b>F23D</b>);Flame shields",
+      "count": 1660,
+      "sourceFile": "ipc_F23M.txt",
+      "kind": "ipc"
+    },
+    "F23M9/02": {
+      "code": "F23M9/02",
+      "level": 1,
+      "parent": "F23M9/00",
+      "ja": "空気入口にあるもの",
+      "en": "in air inlets",
+      "count": 167,
+      "sourceFile": "ipc_F23M.txt",
+      "kind": "ipc"
+    },
+    "F23M9/04": {
+      "code": "F23M9/04",
+      "level": 1,
+      "parent": "F23M9/00",
+      "ja": "邪魔板または遮板に空気供給通路をもつもの",
+      "en": "with air supply passages in the baffle or shield",
+      "count": 117,
+      "sourceFile": "ipc_F23M.txt",
+      "kind": "ipc"
+    },
+    "F23M9/06": {
+      "code": "F23M9/06",
+      "level": 1,
+      "parent": "F23M9/00",
+      "ja": "火室にあるもの",
+      "en": "in fire-boxes",
+      "count": 1130,
+      "sourceFile": "ipc_F23M.txt",
+      "kind": "ipc"
+    },
+    "F23M9/08": {
+      "code": "F23M9/08",
+      "level": 1,
+      "parent": "F23M9/00",
+      "ja": "ら旋状の邪魔板または転向板",
+      "en": "Helical or twisted baffles or deflectors",
+      "count": 129,
+      "sourceFile": "ipc_F23M.txt",
+      "kind": "ipc"
+    },
+    "F23M9/10": {
+      "code": "F23M9/10",
+      "level": 1,
+      "parent": "F23M9/00",
+      "ja": "邪魔板または転向板が管，例．水管ボイラにおける，として形成されているもの［２００６．０１］",
+      "en": "Baffles or deflectors formed as tubes, e.g. in water-tube boilers ",
+      "count": 166,
+      "sourceFile": "ipc_F23M.txt",
+      "kind": "ipc"
+    },
+    "F23M11/00": {
+      "code": "F23M11/00",
+      "level": 0,
+      "parent": "F23M",
+      "ja": "安全装置［２００６．０１］",
+      "en": "Safety arrangements",
+      "count": 1094,
+      "sourceFile": "ipc_F23M.txt",
+      "kind": "ipc"
+    },
+    "F23M11/02": {
+      "code": "F23M11/02",
+      "level": 1,
+      "parent": "F23M11/00",
+      "ja": "作業用または装入用の開口を通して，炎または熱いガスの放出または空気の侵入の防止",
+      "en": "Preventing emission of flames or hot gases, or admission of air, through working or charging apertures",
+      "count": 619,
+      "sourceFile": "ipc_F23M.txt",
+      "kind": "ipc"
+    },
+    "F23M11/04": {
+      "code": "F23M11/04",
+      "level": 1,
+      "parent": "F23M11/00",
+      "ja": "燃焼監視手段，例．窓［２００６．０１］",
+      "en": "Means for supervising combustion, e.g. windows",
+      "count": 3793,
+      "sourceFile": "ipc_F23M.txt",
+      "kind": "ipc"
+    },
+    "F23M20/00": {
+      "code": "F23M20/00",
+      "level": 0,
+      "parent": "F23M",
+      "ja": "他に分類されない燃焼室の細部［２０１４．０１］",
+      "en": "Details of combustion chambers, not otherwise provided for",
+      "count": 1748,
+      "sourceFile": "ipc_F23M.txt",
+      "kind": "ipc"
+    }
+  }
+}

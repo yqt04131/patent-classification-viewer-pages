@@ -1,0 +1,846 @@
+{
+  "generatedAt": "2026-03-20T02:17:45.943Z",
+  "total": 84,
+  "entries": {
+    "A61G": {
+      "code": "A61G",
+      "level": 0,
+      "parent": "A61",
+      "ja": "病人または身体障害者に特に適した輸送，乗りもの，または設備（病人又は身体障害者歩行補助器具Ａ６１Ｈ３／００）；手術用台またはいす；歯科用のいす；葬儀用具（死体の防腐処置Ａ０１Ｎ１／００））<br><br><b><ul>サブクラス内の索引</ul></b><br>身体障害者または病人を移動させるもの　１／００～７／００<br>ベッド；処置室；看護設備　７／００；１０／００；９／００，１２／００<br>早産児保育器または保温器　１１／００<br>手術室または歯科室の用具　１３／００，１５／００<br>葬儀用具　１７／００～２１／００<br>このサブクラスの他のグループに分類されない主題事項　９９／００",
+      "en": "TRANSPORT, PERSONAL CONVEYANCES OR ACCOMMODATION SPECIALLY ADAPTED FOR PATIENTS OR DISABLED PERSONS(appliances for aiding patients or disabled persons to walk <b>A61H3/00</b>);OPERATING TABLES OR CHAIRS; CHAIRS FOR DENTISTRY; FUNERAL DEVICES(embalming corpses <b>A01N1/00</b>);<br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">MEANS FOR DISPLACING DISABLED PERSONS OR PATIENTS </td><td><b><b>1/00 to 7/00</b> </b></td></tr></tr><tr><td width=\"70%\">BEDS; TREATMENT ROOMS; NURSING FACILITIES </td><td><b><b>7/00</b>; <b>10/00</b>; <b>9/00</b>, <b>12/00</b></b></td></tr></tr><tr><td width=\"70%\">INCUBATORS OR COUVEUSES FOR BABIES </td><td><b><b>11/00</b></b></td></tr></tr><tr><td width=\"70%\">APPLIANCES FOR OPERATING ROOMS OR DENTISTS ROOMS </td><td><b><b>13/00</b>, <b>15/00</b></b></td></tr></tr><tr><td width=\"70%\">FUNERAL DEVICES </td><td><b><b>17/00 to 21/00</b> </b></td></tr></tr><tr><td width=\"70%\">SUBJECT MATTER NOT PROVIDED FOR IN OTHER GROUPS OF THIS SUBCLASS </td><td><b><b>99/00</b></b></td></tr></tr></table>",
+      "count": 1981,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A61": {
+      "code": "A61",
+      "level": 0,
+      "parent": "A",
+      "ja": "医学または獣医学；衛生学",
+      "en": "MEDICAL OR VETERINARY SCIENCE; HYGIENE",
+      "count": 0,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A": {
+      "code": "A",
+      "level": 0,
+      "parent": null,
+      "ja": "生活必需品",
+      "en": "HUMAN NECESSITIES",
+      "count": 0,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A61G1/00": {
+      "code": "A61G1/00",
+      "level": 0,
+      "parent": "A61G",
+      "ja": "担架",
+      "en": "Stretchers",
+      "count": 5415,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    },
+    "A61G1/003": {
+      "code": "A61G1/003",
+      "level": 1,
+      "parent": "A61G1/00",
+      "ja": "病人または身体障害者を移乗する設備を有するもの，例．分離型またはエンドレスベルトを使用するもの［５］",
+      "en": "with facilities for picking up patients or disabled persons, e.g. break-away type or using endless belts",
+      "count": 840,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    },
+    "A61G1/007": {
+      "code": "A61G1/007",
+      "level": 1,
+      "parent": "A61G1/00",
+      "ja": "スキーまたはそりの滑走部を有するもの［５］",
+      "en": "with skis or sled runners",
+      "count": 188,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    },
+    "A61G1/01": {
+      "code": "A61G1/01",
+      "level": 1,
+      "parent": "A61G1/00",
+      "ja": "担架としてまたは担架と共に使用するのに特に適合させたシーツ［５］",
+      "en": "Sheets specially adapted for use as or with stretchers",
+      "count": 1025,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    },
+    "A61G1/013": {
+      "code": "A61G1/013",
+      "level": 1,
+      "parent": "A61G1/00",
+      "ja": "折り重ねまたは折りたたみの可能なもの（Ａ６１Ｇ１／０１７が優先）［５］",
+      "en": "foldable or collapsible(<b>A61G1/017</b> takes precedence)",
+      "count": 3303,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    },
+    "A61G1/017": {
+      "code": "A61G1/017",
+      "level": 1,
+      "parent": "A61G1/00",
+      "ja": "いすに変換可能なもの［５］",
+      "en": "convertible into chairs",
+      "count": 688,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    },
+    "A61G1/02": {
+      "code": "A61G1/02",
+      "level": 1,
+      "parent": "A61G1/00",
+      "ja": "車輪を有するもの",
+      "en": "with wheels",
+      "count": 11254,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    },
+    "A61G1/04": {
+      "code": "A61G1/04",
+      "level": 1,
+      "parent": "A61G1/00",
+      "ja": "部品，細部または付属品，例．担架に特に適合させたヘッドレスト，フットレスト，または類似のささえ［５］",
+      "en": "Parts, details or accessories, e.g. head-, foot- or like rests specially adapted for stretchers",
+      "count": 13214,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    },
+    "A61G1/044": {
+      "code": "A61G1/044",
+      "level": 2,
+      "parent": "A61G1/04",
+      "ja": "ひも，バンドまたはベルト［５］",
+      "en": "Straps, bands or belts",
+      "count": 1656,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    },
+    "A61G1/048": {
+      "code": "A61G1/048",
+      "level": 2,
+      "parent": "A61G1/04",
+      "ja": "持ち手［５］",
+      "en": "Handles",
+      "count": 1059,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    },
+    "A61G1/052": {
+      "code": "A61G1/052",
+      "level": 2,
+      "parent": "A61G1/04",
+      "ja": "支柱，円材または脚部［５］",
+      "en": "Struts, spars or legs",
+      "count": 1515,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    },
+    "A61G1/056": {
+      "code": "A61G1/056",
+      "level": 3,
+      "parent": "A61G1/052",
+      "ja": "回動脚［５］",
+      "en": "Swivelling legs",
+      "count": 454,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    },
+    "A61G1/06": {
+      "code": "A61G1/06",
+      "level": 1,
+      "parent": "A61G1/00",
+      "ja": "担架の支持具，例．車両の中または上に配置されるもの",
+      "en": "Supports for stretchers, e.g. to be placed in or on vehicles",
+      "count": 1068,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    },
+    "A61G3/00": {
+      "code": "A61G3/00",
+      "level": 0,
+      "parent": "A61G",
+      "ja": "傷病者運搬用車両；病人若しくは身体障害者またはそれらの個人輸送手段を輸送するための特別な設備を有する車両，例．車椅子の乗り入れまたは積込みを容易にするためのもの［２００６．０１］",
+      "en": "Ambulance aspects of vehicles; Vehicles with special provisions for transporting patients or disabled persons, or their personal conveyances, e.g. for facilitating access of, or for loading, wheelchairs",
+      "count": 5039,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    },
+    "A61G3/02": {
+      "code": "A61G3/02",
+      "level": 1,
+      "parent": "A61G3/00",
+      "ja": "個人輸送手段をつんだりまたはおろしたりするもの；病人または身体障害者の車両への乗り降りを容易にするもの［２００６．０１］",
+      "en": "Loading or unloading personal conveyances; Facilitating access of patients or disabled persons to, or exit from, vehicles",
+      "count": 1331,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    },
+    "A61G3/04": {
+      "code": "A61G3/04",
+      "level": 2,
+      "parent": "A61G3/02",
+      "ja": "垂直軸のまわりに回動することにより着座した病人または身体障害者を移動するもの［２００６．０１］",
+      "en": "Transfer of seated patients or disabled persons by swinging about an upright axis",
+      "count": 99,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    },
+    "A61G3/06": {
+      "code": "A61G3/06",
+      "level": 2,
+      "parent": "A61G3/02",
+      "ja": "斜面，リフトまたは類似のものを用いて移動するもの（Ａ６１Ｇ３／０４が優先）［２００６．０１］",
+      "en": "Transfer using ramps, lifts or the like(<b>A61G3/04</b> takes precedence)",
+      "count": 2589,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    },
+    "A61G3/08": {
+      "code": "A61G3/08",
+      "level": 1,
+      "parent": "A61G3/00",
+      "ja": "車椅子を収容または固定するもの［２００６．０１］",
+      "en": "Accommodating or securing wheelchairs",
+      "count": 1381,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    },
+    "A61G5/00": {
+      "code": "A61G5/00",
+      "level": 0,
+      "parent": "A61G",
+      "ja": "病人または身体障害者に特に適したいすまたは個人輸送手段，例．車椅子（病人または身体障害者が身体の一部を形成しない装置または用具を操作できるようにする装置Ａ６１Ｆ４／００；身体障害者に特に適した二輪車Ｂ６２Ｋ３／１６）［１，８］<br><br><b><ul>注</ul></b><br>病人または身体障害者を乗せて車両に移動し，かつ車両の使用中病人または身体障害者を支持するのに特に適合させた移動自在の座席を有する病人または身体障害者用椅子はグループ３／００に分類する。［５］",
+      "en": "Chairs or personal conveyances specially adapted for patients or disabled persons, e.g. wheelchairs(devices enabling patients or disabled persons to operate an apparatus or device not forming part of the body <b>A61F4/00</b>; bicycles specially adapted for disabled riders <b>B62K3/16</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>Chairs for patients or disabled persons having removable seats specially adapted to be transferred with the patient or disabled person to a vehicle and support the patient or disabled person during use of the vehicle are classified in group <b>A61G3/00</b>.</li></ul>",
+      "count": 17090,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    },
+    "A61G5/02": {
+      "code": "A61G5/02",
+      "level": 1,
+      "parent": "A61G5/00",
+      "ja": "病人または身体障害者により推進されるもの",
+      "en": "propelled by the patient or disabled person",
+      "count": 6723,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    },
+    "A61G5/04": {
+      "code": "A61G5/04",
+      "level": 1,
+      "parent": "A61G5/00",
+      "ja": "電動機により駆動するもの（Ａ６１Ｇ５／０６が優先；電動機で動くささえＡ６１Ｇ５／１２；ハンドルバーを持ち，三輪またはそれ以上の車輪を装備した車両Ｂ６２Ｋ５／００３，Ｂ６２Ｋ５／０２３）［５，２０１３．０１］",
+      "en": "motor-driven(<b>A61G5/06</b> takes precedence; motor-operated rests <b>A61G5/12</b>; for vehicles with handlebars, equipped with three or more wheels <b>B62K5/003</b>, <b>B62K5/023</b>)",
+      "count": 11544,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    },
+    "A61G5/06": {
+      "code": "A61G5/06",
+      "level": 1,
+      "parent": "A61G5/00",
+      "ja": "障害物を登る設備を有するもの，例．階段を登るためのもの［５］",
+      "en": "with obstacle-mounting facilities, e.g. for climbing stairs",
+      "count": 3969,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    },
+    "A61G5/08": {
+      "code": "A61G5/08",
+      "level": 1,
+      "parent": "A61G5/00",
+      "ja": "折りたたみ可能なもの［５］",
+      "en": "foldable",
+      "count": 4376,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    },
+    "A61G5/10": {
+      "code": "A61G5/10",
+      "level": 1,
+      "parent": "A61G5/00",
+      "ja": "部品，細部または付属品［５］",
+      "en": "Parts, details or accessories",
+      "count": 27588,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    },
+    "A61G5/12": {
+      "code": "A61G5/12",
+      "level": 2,
+      "parent": "A61G5/10",
+      "ja": "そのために特に適合させたささえ，例．頭または足のためのもの［５］",
+      "en": "Rests specially adapted therefor, e.g. for the head or feet",
+      "count": 8481,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    },
+    "A61G5/14": {
+      "code": "A61G5/14",
+      "level": 2,
+      "parent": "A61G5/10",
+      "ja": "起立または着座を補助するもの［５］",
+      "en": "Standing-up or sitting-down aids",
+      "count": 3755,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    },
+    "A61G7/00": {
+      "code": "A61G7/00",
+      "level": 0,
+      "parent": "A61G",
+      "ja": "介護のために特に適合させたベッド；病人または身体障害者を持ち上げるための装置（伸展または伸延のためのベッド用設備，処置台，床フレームまたはその類似のものＡ６１Ｆ５／０４５；病人または身体障害者を移乗する設備を有する担架Ａ６１Ｇ１／００３）［５，６］",
+      "en": "Beds specially adapted for nursing; Devices for lifting patients or disabled persons(equipment for beds, treatment tables, floor frames or the like for extending or stretching <b>A61F5/045</b>; stretchers with facilities for picking up patients or disabled persons <b>A61G1/003</b>)",
+      "count": 20230,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    },
+    "A61G7/002": {
+      "code": "A61G7/002",
+      "level": 1,
+      "parent": "A61G7/00",
+      "ja": "調節可能なマットレスフレームを有するもの［５］",
+      "en": "having adjustable mattress frame",
+      "count": 3029,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    },
+    "A61G7/005": {
+      "code": "A61G7/005",
+      "level": 2,
+      "parent": "A61G7/002",
+      "ja": "横水平軸の回りに傾斜可能なもの，例．トレンデレンブルグ体位のためのもの［５］",
+      "en": "tiltable around transverse horizontal axis, e.g. for Trendelenburg position",
+      "count": 2978,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    },
+    "A61G7/008": {
+      "code": "A61G7/008",
+      "level": 2,
+      "parent": "A61G7/002",
+      "ja": "縦軸の回りに傾斜可能なもの，例．揺動のためのもの［５］",
+      "en": "tiltable around longitudinal axis, e.g. for rolling",
+      "count": 1377,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    },
+    "A61G7/012": {
+      "code": "A61G7/012",
+      "level": 2,
+      "parent": "A61G7/002",
+      "ja": "マットレスフレーム全体の上昇または下降（Ａ６１Ｇ７／００５，Ａ６１Ｇ７／００８が優先）［５］",
+      "en": "raising or lowering of the whole mattress frame(<b>A61G7/005</b>, <b>A61G7/008</b> take precedence)",
+      "count": 3628,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    },
+    "A61G7/015": {
+      "code": "A61G7/015",
+      "level": 2,
+      "parent": "A61G7/002",
+      "ja": "異なる調節可能な部分に分割されているもの，例．ギャッチポジションのためのもの［５］",
+      "en": "divided into different adjustable sections, e.g. for Gatch position",
+      "count": 13828,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    },
+    "A61G7/018": {
+      "code": "A61G7/018",
+      "level": 2,
+      "parent": "A61G7/002",
+      "ja": "制御または駆動機構（Ａ６１Ｇ７／００５～Ａ６１Ｇ７／０１５が優先）［５］",
+      "en": "Control or drive mechanisms(<b>A61G7/005 to A61G7/015</b>  take precedence)",
+      "count": 2623,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    },
+    "A61G7/02": {
+      "code": "A61G7/02",
+      "level": 1,
+      "parent": "A61G7/00",
+      "ja": "便器設備を有するもの，または便器と共に使用するのに特に適合させたもの［５］",
+      "en": "with toilet conveniences, or specially adapted for use with toilets",
+      "count": 6813,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    },
+    "A61G7/043": {
+      "code": "A61G7/043",
+      "level": 1,
+      "parent": "A61G7/00",
+      "ja": "眠りを促進または監視するベッド［５］",
+      "en": "Beds for promoting or observing sleep",
+      "count": 934,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    },
+    "A61G7/047": {
+      "code": "A61G7/047",
+      "level": 1,
+      "parent": "A61G7/00",
+      "ja": "特に衛生的な目的をもったベッド（Ａ６１Ｇ７／０２が優先）［５］",
+      "en": "Beds for special sanitary purposes(<b>A61G7/02</b> takes precedence)",
+      "count": 2027,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    },
+    "A61G7/05": {
+      "code": "A61G7/05",
+      "level": 1,
+      "parent": "A61G7/00",
+      "ja": "ベッドの部品，細部または付属品（落下防止装置Ａ４７Ｃ２１／０８，Ａ４７Ｄ７／００）［５］",
+      "en": "Parts, details or accessories of beds(devices for prevention against falling out <b>A47C21/08</b>, <b>A47D7/00</b>)",
+      "count": 55449,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    },
+    "A61G7/053": {
+      "code": "A61G7/053",
+      "level": 2,
+      "parent": "A61G7/05",
+      "ja": "ベッド乗り降り補助具，例．段またはいす［５］",
+      "en": "Aids for getting into, or out of, bed, e.g. steps or chairs",
+      "count": 2217,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    },
+    "A61G7/057": {
+      "code": "A61G7/057",
+      "level": 2,
+      "parent": "A61G7/05",
+      "ja": "床ずれ防止または火傷患者支持装置，例．そのために特に適合させたマットレス［５］",
+      "en": "Arrangements for preventing bed-sores or for supporting patients with burns, e.g. mattresses specially adapted therefor",
+      "count": 15281,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    },
+    "A61G7/065": {
+      "code": "A61G7/065",
+      "level": 2,
+      "parent": "A61G7/05",
+      "ja": "そのために特に適合させたささえ［５］",
+      "en": "Rests specially adapted therefor",
+      "count": 1695,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    },
+    "A61G7/07": {
+      "code": "A61G7/07",
+      "level": 3,
+      "parent": "A61G7/065",
+      "ja": "頭または胴体のためのもの［５］",
+      "en": "for the head or torso",
+      "count": 9850,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    },
+    "A61G7/075": {
+      "code": "A61G7/075",
+      "level": 3,
+      "parent": "A61G7/065",
+      "ja": "手足のためのもの［５］",
+      "en": "for the limbs",
+      "count": 13405,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    },
+    "A61G7/08": {
+      "code": "A61G7/08",
+      "level": 1,
+      "parent": "A61G7/00",
+      "ja": "ベッドを輸送するための装置",
+      "en": "Apparatus for transporting beds",
+      "count": 1165,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    },
+    "A61G7/10": {
+      "code": "A61G7/10",
+      "level": 1,
+      "parent": "A61G7/00",
+      "ja": "病人または身体障害者を持ち上げるための装置，例．そのための巻き上げ機の特別な応用",
+      "en": "Devices for lifting patients or disabled persons, e.g. special adaptations of hoists thereto",
+      "count": 11042,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    },
+    "A61G7/12": {
+      "code": "A61G7/12",
+      "level": 2,
+      "parent": "A61G7/10",
+      "ja": "病人または身体障害者を脇で持ち上げるためのもの（Ａ６１Ｇ７／１４が優先）［５］",
+      "en": "for hoisting the patient or disabled person under the arms(<b>A61G7/14</b> takes precedence)",
+      "count": 280,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    },
+    "A61G7/14": {
+      "code": "A61G7/14",
+      "level": 2,
+      "parent": "A61G7/10",
+      "ja": "病人または身体障害者の持ち上げと横移動とをいずれも容易にするもの［５］",
+      "en": "facilitating both lifting and lateral movement of the patient or disabled person",
+      "count": 4230,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    },
+    "A61G7/16": {
+      "code": "A61G7/16",
+      "level": 2,
+      "parent": "A61G7/10",
+      "ja": "横たわり面をいすに変換するもの［５］",
+      "en": "converting a lying surface into a chair",
+      "count": 1236,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    },
+    "A61G9/00": {
+      "code": "A61G9/00",
+      "level": 0,
+      "parent": "A61G",
+      "ja": "寝たきりの人のための差込み便器，小便器または他の衛生装置；そのための洗浄装置，例．便器と小便器を兼ね備えたもの（病人につけられる小便器Ａ６１Ｆ５／４４）",
+      "en": "Bed-pans, urinals or other sanitary devices for bed-ridden persons; Cleaning devices therefor, e.g. combined with toilet-urinals(urinals worn by the patient <b>A61F5/44</b>)",
+      "count": 10078,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    },
+    "A61G9/02": {
+      "code": "A61G9/02",
+      "level": 1,
+      "parent": "A61G9/00",
+      "ja": "洗浄装置［５］",
+      "en": "Cleaning devices",
+      "count": 1114,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    },
+    "A61G10/00": {
+      "code": "A61G10/00",
+      "level": 0,
+      "parent": "A61G",
+      "ja": "医療を目的とする室の取扱い（早産児保育器，保温器Ａ６１Ｇ１１／００；オゾン，水素または類似物のガス浴装置Ａ６１Ｈ３３／１４；呼吸維持のための容器また携帯用小屋一般Ａ６２Ｂ３１／００）［４］",
+      "en": "Treatment rooms for medical purposes (baby incubators or couveuses <b>A61G11/00</b>;  devices for gas baths with ozone, hydrogen or the like <b>A61H33/14</b>;  containers or portable cabins for affording breathing protection in general <b>A62B31/00</b>)",
+      "count": 3938,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    },
+    "A61G10/02": {
+      "code": "A61G10/02",
+      "level": 1,
+      "parent": "A61G10/00",
+      "ja": "人工気象によるもの；所望する気圧に保つ手段によるもの，例．無菌室のためのもの［４］",
+      "en": "with artificial climate; with means to maintain a desired pressure, e.g. for germ-free rooms",
+      "count": 5219,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    },
+    "A61G10/04": {
+      "code": "A61G10/04",
+      "level": 1,
+      "parent": "A61G10/00",
+      "ja": "酸素テント［４］",
+      "en": "Oxygen tents",
+      "count": 533,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    },
+    "A61G11/00": {
+      "code": "A61G11/00",
+      "level": 0,
+      "parent": "A61G",
+      "ja": "早産児保育器；保温器",
+      "en": "Baby-incubators; Couveuses",
+      "count": 4122,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    },
+    "A61G12/00": {
+      "code": "A61G12/00",
+      "level": 0,
+      "parent": "A61G",
+      "ja": "看護設備，例．病院，でグループＡ６１Ｇ１／００～Ａ６１Ｇ１１／００に属しないもの，例．薬または食物の輸送のための手押車；処方リスト［２００６．０１］",
+      "en": "Accommodation for nursing, e.g. in hospitals, not covered by groups <b>A61G1/00 to A61G11/00</b> , e.g. trolleys for transport of medicaments or food; Prescription lists",
+      "count": 50924,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    },
+    "A61G13/00": {
+      "code": "A61G13/00",
+      "level": 0,
+      "parent": "A61G",
+      "ja": "治療台；そのための補助器械（治療台の照明Ｆ２１Ｌ，Ｆ２１ＳまたはＦ２１Ｖ）",
+      "en": "Operating tables; Auxiliary appliances therefor(illumination of operating tables <b>F21L</b>, <b>F21S</b> or <b>F21V</b>)",
+      "count": 17249,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    },
+    "A61G13/02": {
+      "code": "A61G13/02",
+      "level": 1,
+      "parent": "A61G13/00",
+      "ja": "調節可能な手術台；そのための制御［５］",
+      "en": "Adjustable operating tables; Controls therefor",
+      "count": 2851,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    },
+    "A61G13/04": {
+      "code": "A61G13/04",
+      "level": 2,
+      "parent": "A61G13/02",
+      "ja": "横または縦軸の回りに傾斜できるもの［５］",
+      "en": "tiltable around transverse or longitudinal axis",
+      "count": 2645,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    },
+    "A61G13/06": {
+      "code": "A61G13/06",
+      "level": 2,
+      "parent": "A61G13/02",
+      "ja": "台表面全体の上昇または下降（Ａ６１Ｇ１３／０４が優先）［５］",
+      "en": "raising or lowering of the whole table surface(<b>A61G13/04</b> takes precedence)",
+      "count": 3688,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    },
+    "A61G13/08": {
+      "code": "A61G13/08",
+      "level": 2,
+      "parent": "A61G13/02",
+      "ja": "異なる調節可能な部分に分割される台［５］",
+      "en": "the table being divided into different adjustable sections",
+      "count": 6621,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    },
+    "A61G13/10": {
+      "code": "A61G13/10",
+      "level": 1,
+      "parent": "A61G13/00",
+      "ja": "部品，細部または付属品（手術用掛け布Ａ６１Ｂ４６／００）［５］",
+      "en": "Parts, details or accessories(surgical drape sheets <b>A61B46/00</b>)",
+      "count": 30199,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    },
+    "A61G13/12": {
+      "code": "A61G13/12",
+      "level": 2,
+      "parent": "A61G13/10",
+      "ja": "そのため特に適合させたささえ；病人支持面の配置［５］",
+      "en": "Rests specially adapted therefor; Arrangements of patient-supporting surfaces",
+      "count": 27125,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    },
+    "A61G15/00": {
+      "code": "A61G15/00",
+      "level": 0,
+      "parent": "A61G",
+      "ja": "治療用いす；歯科用いす；そのために特に適合させた付属品，例．仕事台［５］",
+      "en": "Operating chairs; Dental chairs; Accessories specially adapted therefor, e.g. work stands",
+      "count": 5220,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    },
+    "A61G15/02": {
+      "code": "A61G15/02",
+      "level": 1,
+      "parent": "A61G15/00",
+      "ja": "病人の位置調節手段を有するいす；そのための制御装置［５］",
+      "en": "Chairs with means to adjust position of patient; Controls therefor",
+      "count": 2025,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    },
+    "A61G15/04": {
+      "code": "A61G15/04",
+      "level": 2,
+      "parent": "A61G15/02",
+      "ja": "病人を傾けるもの［５］",
+      "en": "to tilt patient",
+      "count": 2692,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    },
+    "A61G15/06": {
+      "code": "A61G15/06",
+      "level": 2,
+      "parent": "A61G15/02",
+      "ja": "病人を上昇または下降させるもの（Ａ６１Ｇ１５／０４が優先）［５］",
+      "en": "to raise or lower patient(<b>A61G15/04</b> takes precedence)",
+      "count": 1060,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    },
+    "A61G15/08": {
+      "code": "A61G15/08",
+      "level": 2,
+      "parent": "A61G15/02",
+      "ja": "医師または歯科医師用腰掛けに組合わせたもの［５］",
+      "en": "associated with seats for the surgeon or dentist",
+      "count": 210,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    },
+    "A61G15/10": {
+      "code": "A61G15/10",
+      "level": 1,
+      "parent": "A61G15/00",
+      "ja": "部品，細部または付属品（Ａ６１Ｇ１５／１４が優先；歯科用器具Ａ６１Ｃ）［５］",
+      "en": "Parts, details or accessories(<b>A61G15/14</b> takes precedence; dental instruments <b>A61C</b>)",
+      "count": 7136,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    },
+    "A61G15/12": {
+      "code": "A61G15/12",
+      "level": 2,
+      "parent": "A61G15/10",
+      "ja": "そのために特に適合させたささえ，例．頭部または足のためのもの［５］",
+      "en": "Rests specially adapted therefor, e.g. for the head or feet",
+      "count": 5082,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    },
+    "A61G15/14": {
+      "code": "A61G15/14",
+      "level": 1,
+      "parent": "A61G15/00",
+      "ja": "歯科用仕事台；そのための付属品［５］",
+      "en": "Dental work stands; Accessories therefor",
+      "count": 1614,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    },
+    "A61G15/16": {
+      "code": "A61G15/16",
+      "level": 2,
+      "parent": "A61G15/14",
+      "ja": "歯科用ハンドピースまたは類似物のための保管，保持または運搬手段［５］",
+      "en": "Storage, holding or carrying means for dental handpieces or the like",
+      "count": 1024,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    },
+    "A61G15/18": {
+      "code": "A61G15/18",
+      "level": 3,
+      "parent": "A61G15/16",
+      "ja": "柔軟なホースをしまい込むための引込装置を含むもの［５］",
+      "en": "including retractor for storing flexible hose",
+      "count": 35,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    },
+    "A61G17/00": {
+      "code": "A61G17/00",
+      "level": 0,
+      "parent": "A61G",
+      "ja": "棺；葬儀用に死体を包むもの；葬儀用の骨壺",
+      "en": "Coffins; Funeral wrappings; Funeral urns",
+      "count": 3607,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    },
+    "A61G17/007": {
+      "code": "A61G17/007",
+      "level": 1,
+      "parent": "A61G17/00",
+      "ja": "使用される構造材料により特徴づけられるもの，例．生物分解性のある材料；数種の材料の使用［５］",
+      "en": "characterised by the construction material used, e.g. biodegradable material; Use of several materials",
+      "count": 1591,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    },
+    "A61G17/013": {
+      "code": "A61G17/013",
+      "level": 1,
+      "parent": "A61G17/00",
+      "ja": "折りたたむことのできる棺［５］",
+      "en": "Foldable coffins",
+      "count": 306,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    },
+    "A61G17/02": {
+      "code": "A61G17/02",
+      "level": 1,
+      "parent": "A61G17/00",
+      "ja": "棺閉鎖；そのための包装",
+      "en": "Coffin closures; Packings therefor",
+      "count": 646,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    },
+    "A61G17/04": {
+      "code": "A61G17/04",
+      "level": 1,
+      "parent": "A61G17/00",
+      "ja": "棺の付属品",
+      "en": "Fittings for coffins",
+      "count": 1933,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    },
+    "A61G17/06": {
+      "code": "A61G17/06",
+      "level": 1,
+      "parent": "A61G17/00",
+      "ja": "死体を包む袋；死体を包むもの［５］",
+      "en": "Sacks for corpses; Corpse wrappings",
+      "count": 631,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    },
+    "A61G17/08": {
+      "code": "A61G17/08",
+      "level": 1,
+      "parent": "A61G17/00",
+      "ja": "つぼ",
+      "en": "Urns",
+      "count": 3788,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    },
+    "A61G19/00": {
+      "code": "A61G19/00",
+      "level": 0,
+      "parent": "A61G",
+      "ja": "棺の昇降装置",
+      "en": "Hoisting or lowering devices for coffins",
+      "count": 462,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    },
+    "A61G21/00": {
+      "code": "A61G21/00",
+      "level": 0,
+      "parent": "A61G",
+      "ja": "霊柩車または類似の車両の葬儀事項の特徴［５］",
+      "en": "Funeral aspects of hearses or like vehicles",
+      "count": 557,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    },
+    "A61G99/00": {
+      "code": "A61G99/00",
+      "level": 0,
+      "parent": "A61G",
+      "ja": "このサブクラスの他のグループに分類されない主題事項［８］",
+      "en": "Subject matter not provided for in other groups of this subclass",
+      "count": 619,
+      "sourceFile": "ipc_A61G.txt",
+      "kind": "ipc"
+    }
+  }
+}

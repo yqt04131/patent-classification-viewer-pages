@@ -1,0 +1,566 @@
+window.IPC_SHARD_F23C = {
+  "generatedAt": "2026-03-20T02:17:46.885Z",
+  "total": 56,
+  "entries": {
+    "F23C": {
+      "code": "F23C",
+      "level": 0,
+      "parent": "F23",
+      "ja": "流体燃料あるいは空気中に浮遊する固体燃料を用いる燃焼方法または装置（バーナＦ２３Ｄ）<br><br><b><ul>注</ul></b><br>このサブクラスでは，方法は，用いられている装置を包含しているグループに分類する。［８］<br><br><b><ul>サブクラス内の索引</ul></b><br>２種類以上の燃料の燃焼に特に適した燃焼装置　１／００<br>２以上の燃焼室の組合せ　６／００<br>燃焼装置の種類別<br>流動層燃焼　１０／００<br>触媒燃焼　１３／００<br>振動燃焼　１５／００<br>細部に特徴のある燃焼装置<br>燃焼室　３／００<br>バーナの配置または据え付け　５／００<br>空気供給　７／００<br>燃焼ガスまたは燃焼生成物の再循環　９／００<br>このサブクラスの他のグループに分類されない主題事項　９９／００",
+      "en": "METHODS OR APPARATUS FOR COMBUSTION USING FLUID FUEL OR SOLID FUEL SUSPENDED IN AIR(burners <b>F23D</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>In this subclass, methods are classified in the groups that cover the apparatus used.</li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">COMBUSTION APPARATUS SPECIALLY ADAPTED FOR COMBUSTION OF TWO OR MORE TYPES OF FUEL </td><td><b><b>1/00</b></b></td></tr></tr><tr><td width=\"70%\">COMBINATIONS OF TWO OR MORE COMBUSTION CHAMBERS </td><td><b><b>6/00</b></b></td></tr></tr><tr><td width=\"70%\">FUNCTIONAL TYPES OF COMBUSTION APPARATUS<tr><td width=\"70%\">Fluidised bed combustion </td><td><b><b>10/00</b></b></td></tr></tr><tr><td width=\"70%\">Catalytic combustion </td><td><b><b>13/00</b></b></td></tr></tr><tr><td width=\"70%\">Resonant combustion </td><td><b><b>15/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">COMBUSTION APPARATUS CHARACTERISED BY SUBSYSTEMS<tr><td width=\"70%\">Combustion chambers </td><td><b><b>3/00</b></b></td></tr></tr><tr><td width=\"70%\">Arrangement or mounting of burners </td><td><b><b>5/00</b></b></td></tr></tr><tr><td width=\"70%\">Air supply </td><td><b><b>7/00</b></b></td></tr></tr><tr><td width=\"70%\">Arrangements for returning flue gases or combustion products </td><td><b><b>9/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">SUBJECT MATTER NOT PROVIDED FOR IN OTHER GROUPS OF THIS SUBCLASS </td><td><b><b>99/00</b></b></td></tr></tr></table>",
+      "count": 520,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F23": {
+      "code": "F23",
+      "level": 0,
+      "parent": "F",
+      "ja": "燃焼装置；燃焼方法<br><br><b><ul>注</ul></b><br>このクラスにおいては，下記の用語は以下に示す意味で用いる：<br>―“燃焼”は，可燃物質と分子酸素，例．空気中の，との間の発熱を伴う連鎖的な化学反応を意味し，大半の場合に炎または白熱の形式で光を発生させる；<br>―“燃焼室”は，それ自体で維持される火または炎を確立するために燃料がその中で燃焼するものであって，その火または炎を取り囲んでいる室を意味する；<br>―“バーナ”は，それ自体で維持される炎を発生するために流動性燃料が，または空気中に浮遊する固体燃料が，燃焼する燃焼空間へ導かれる装置を意味する；<br>―“空気”は，遊離した酸素を含み，および燃焼を促進または維持させ得る気体の混合物を意味する。",
+      "en": "COMBUSTION APPARATUS; COMBUSTION PROCESSES; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this class, the following terms or expressions are used with the meanings indicated: <ul><li>\"combustion\" means a heat-producing sequence of chemical reactions between a burnable substance and molecular oxygen, e.g. in air, in most cases generating light in the form of flames or a glow;</li><li>\"combustion chamber\" means a chamber in which fuel is burned to establish a self-supporting fire or flame and which surrounds that fire or flame;</li><li>\"burner\" means a device by which fluid fuel, or solid fuel suspended in air, is passed to a combustion space where it burns to produce a self-supporting flame;</li><li>\"air\" means a mixture of gases containing free oxygen and able to promote or support combustion.</li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F": {
+      "code": "F",
+      "level": 0,
+      "parent": null,
+      "ja": "機械工学；照明；加熱；武器；爆破",
+      "en": "MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F23C1/00": {
+      "code": "F23C1/00",
+      "level": 0,
+      "parent": "F23C",
+      "ja": "２またはそれ以上の種類の燃料を同時にまたは交互に燃焼することに特に適した燃焼装置であって，その燃料のうち少なくとも１種類は流体燃料あるいは空気中に浮遊する固体燃料であるもの（２またはそれ以上の燃焼室の組み合せに特徴がある燃焼装置Ｆ２３Ｃ６／００；種火点火器Ｆ２３Ｑ９／００）［１，７，８］",
+      "en": "Combustion apparatus specially adapted for combustion of two or more kinds of fuel simultaneously or alternately, at least one kind of fuel being either a fluid fuel or a solid fuel suspended in air(combustion apparatus characterised by the combination of two or more combustion chambers <b>F23C6/00</b>; pilot flame igniters <b>F23Q9/00</b>)",
+      "count": 1378,
+      "sourceFile": "ipc_F23C.txt",
+      "kind": "ipc"
+    },
+    "F23C1/02": {
+      "code": "F23C1/02",
+      "level": 1,
+      "parent": "F23C1/00",
+      "ja": "塊状および液体燃料",
+      "en": "lump and liquid fuel",
+      "count": 448,
+      "sourceFile": "ipc_F23C.txt",
+      "kind": "ipc"
+    },
+    "F23C1/04": {
+      "code": "F23C1/04",
+      "level": 1,
+      "parent": "F23C1/00",
+      "ja": "塊状および気体燃料",
+      "en": "lump and gaseous fuel",
+      "count": 340,
+      "sourceFile": "ipc_F23C.txt",
+      "kind": "ipc"
+    },
+    "F23C1/06": {
+      "code": "F23C1/06",
+      "level": 1,
+      "parent": "F23C1/00",
+      "ja": "塊状および粉状燃料",
+      "en": "lump and pulverulent fuel",
+      "count": 246,
+      "sourceFile": "ipc_F23C.txt",
+      "kind": "ipc"
+    },
+    "F23C1/08": {
+      "code": "F23C1/08",
+      "level": 1,
+      "parent": "F23C1/00",
+      "ja": "液体および気体燃料",
+      "en": "liquid and gaseous fuel",
+      "count": 748,
+      "sourceFile": "ipc_F23C.txt",
+      "kind": "ipc"
+    },
+    "F23C1/10": {
+      "code": "F23C1/10",
+      "level": 1,
+      "parent": "F23C1/00",
+      "ja": "液体および粉状燃料",
+      "en": "liquid and pulverulent fuel",
+      "count": 327,
+      "sourceFile": "ipc_F23C.txt",
+      "kind": "ipc"
+    },
+    "F23C1/12": {
+      "code": "F23C1/12",
+      "level": 1,
+      "parent": "F23C1/00",
+      "ja": "気体および粉状燃料",
+      "en": "gaseous and pulverulent fuel",
+      "count": 565,
+      "sourceFile": "ipc_F23C.txt",
+      "kind": "ipc"
+    },
+    "F23C3/00": {
+      "code": "F23C3/00",
+      "level": 0,
+      "parent": "F23C",
+      "ja": "燃焼室の形状に特徴のある燃焼装置（Ｆ２３Ｃ１５／００が優先）［１，７，８］",
+      "en": "Combustion apparatus characterised by the shape of the combustion chamber(<b>F23C15/00</b> takes precedence)",
+      "count": 3595,
+      "sourceFile": "ipc_F23C.txt",
+      "kind": "ipc"
+    },
+    "F23C5/00": {
+      "code": "F23C5/00",
+      "level": 0,
+      "parent": "F23C",
+      "ja": "バーナの配置または据え付けに特徴がある燃焼装置［１，７，８］",
+      "en": "Combustion apparatus characterised by the arrangement or mounting of burners",
+      "count": 1045,
+      "sourceFile": "ipc_F23C.txt",
+      "kind": "ipc"
+    },
+    "F23C5/02": {
+      "code": "F23C5/02",
+      "level": 1,
+      "parent": "F23C5/00",
+      "ja": "すえ付けの構造上の細部",
+      "en": "Structural details of mounting",
+      "count": 1491,
+      "sourceFile": "ipc_F23C.txt",
+      "kind": "ipc"
+    },
+    "F23C5/06": {
+      "code": "F23C5/06",
+      "level": 2,
+      "parent": "F23C5/02",
+      "ja": "運転時にバーナ位置を調整するための装備",
+      "en": "Provision for adjustment of burner position during operation",
+      "count": 554,
+      "sourceFile": "ipc_F23C.txt",
+      "kind": "ipc"
+    },
+    "F23C5/08": {
+      "code": "F23C5/08",
+      "level": 1,
+      "parent": "F23C5/00",
+      "ja": "バーナの配置",
+      "en": "Disposition of burners",
+      "count": 2746,
+      "sourceFile": "ipc_F23C.txt",
+      "kind": "ipc"
+    },
+    "F23C5/14": {
+      "code": "F23C5/14",
+      "level": 2,
+      "parent": "F23C5/08",
+      "ja": "集中または実質上平面形の単一火炎，例．鉛筆形またはシートフレーム，を得るためのもの（Ｆ２３Ｃ５／３２が優先）［３］",
+      "en": "to obtain a single flame of concentrated or substantially planar form, e.g. pencil or sheet flame(<b>F23C5/32</b> takes precedence)",
+      "count": 128,
+      "sourceFile": "ipc_F23C.txt",
+      "kind": "ipc"
+    },
+    "F23C5/24": {
+      "code": "F23C5/24",
+      "level": 2,
+      "parent": "F23C5/08",
+      "ja": "ループ状の火炎を得るもの",
+      "en": "to obtain a loop flame",
+      "count": 218,
+      "sourceFile": "ipc_F23C.txt",
+      "kind": "ipc"
+    },
+    "F23C5/28": {
+      "code": "F23C5/28",
+      "level": 2,
+      "parent": "F23C5/08",
+      "ja": "逆方向の火炎，例．衝突する火炎，を得るもの",
+      "en": "to obtain flames in opposing directions, e.g. impacting flames",
+      "count": 353,
+      "sourceFile": "ipc_F23C.txt",
+      "kind": "ipc"
+    },
+    "F23C5/32": {
+      "code": "F23C5/32",
+      "level": 2,
+      "parent": "F23C5/08",
+      "ja": "回転する炎，すなわちヘリカル状またはスパイラル状に動く炎，を得るためのもの［３］",
+      "en": "to obtain rotating flames, i.e. flames moving helically or spirally",
+      "count": 933,
+      "sourceFile": "ipc_F23C.txt",
+      "kind": "ipc"
+    },
+    "F23C6/00": {
+      "code": "F23C6/00",
+      "level": 0,
+      "parent": "F23C",
+      "ja": "２以上の燃焼室の組合わせに特徴のある燃焼装置［３，７，８］",
+      "en": "Combustion apparatus characterised by the combination of two or more combustion chambers",
+      "count": 336,
+      "sourceFile": "ipc_F23C.txt",
+      "kind": "ipc"
+    },
+    "F23C6/02": {
+      "code": "F23C6/02",
+      "level": 1,
+      "parent": "F23C6/00",
+      "ja": "並列に配置したもの［３］",
+      "en": "in parallel arrangement",
+      "count": 248,
+      "sourceFile": "ipc_F23C.txt",
+      "kind": "ipc"
+    },
+    "F23C6/04": {
+      "code": "F23C6/04",
+      "level": 1,
+      "parent": "F23C6/00",
+      "ja": "直列に連結したもの［３］",
+      "en": "in series connection",
+      "count": 2922,
+      "sourceFile": "ipc_F23C.txt",
+      "kind": "ipc"
+    },
+    "F23C7/00": {
+      "code": "F23C7/00",
+      "level": 0,
+      "parent": "F23C",
+      "ja": "空気供給装置に特徴がある燃焼装置（流動化空気の入口Ｆ２３Ｃ１０／２０；空気供給通路をもつ邪魔板または遮板Ｆ２３Ｍ９／０４）［１，７，８］",
+      "en": "Combustion apparatus characterised by arrangements for air supply(inlets for fluidisation air <b>F23C10/20</b>; baffles or shields with air supply passages <b>F23M9/04</b>)",
+      "count": 4492,
+      "sourceFile": "ipc_F23C.txt",
+      "kind": "ipc"
+    },
+    "F23C7/02": {
+      "code": "F23C7/02",
+      "level": 1,
+      "parent": "F23C7/00",
+      "ja": "バーナを通過しない空気供給に関する配置",
+      "en": "Disposition of air supply not passing through burner",
+      "count": 1927,
+      "sourceFile": "ipc_F23C.txt",
+      "kind": "ipc"
+    },
+    "F23C7/04": {
+      "code": "F23C7/04",
+      "level": 2,
+      "parent": "F23C7/02",
+      "ja": "燃焼室壁への最大の熱伝達を得るもの",
+      "en": "to obtain maximum heat transfer to wall of combustion chamber",
+      "count": 57,
+      "sourceFile": "ipc_F23C.txt",
+      "kind": "ipc"
+    },
+    "F23C7/06": {
+      "code": "F23C7/06",
+      "level": 2,
+      "parent": "F23C7/02",
+      "ja": "給気加熱用（蓄熱式熱交換器または復熱式熱交換器の配置Ｆ２３Ｌ１５／００）",
+      "en": "for heating the incoming air(arrangements of regenerators or recuperators <b>F23L15/00</b>)",
+      "count": 588,
+      "sourceFile": "ipc_F23C.txt",
+      "kind": "ipc"
+    },
+    "F23C7/08": {
+      "code": "F23C7/08",
+      "level": 3,
+      "parent": "F23C7/06",
+      "ja": "燃焼生成物とは別の第２流体により間接的に行なうもの",
+      "en": "indirectly by a secondary fluid other than the combustion products",
+      "count": 50,
+      "sourceFile": "ipc_F23C.txt",
+      "kind": "ipc"
+    },
+    "F23C9/00": {
+      "code": "F23C9/00",
+      "level": 0,
+      "parent": "F23C",
+      "ja": "燃焼生成物または燃焼ガスを再循環するための装置に特徴がある燃焼装置（層から浮遊した粒子を再循環させるための手段を有する流動層燃焼装置Ｆ２３Ｃ１０／０２；層から物質を除去および部分的に再導入する装置を有する流動層燃焼装置Ｆ２３Ｃ１０／２６）［１，７，８］",
+      "en": "Combustion apparatus characterised by arrangements for returning combustion products or flue gases to the combustion chamber(fluidised bed combustion apparatus with means for recirculation of particles entrained from the bed <b>F23C10/02</b>; fluidised bed combustion apparatus with devices for removal and partial reintroduction of material from the bed <b>F23C10/26</b>)",
+      "count": 2758,
+      "sourceFile": "ipc_F23C.txt",
+      "kind": "ipc"
+    },
+    "F23C9/06": {
+      "code": "F23C9/06",
+      "level": 1,
+      "parent": "F23C9/00",
+      "ja": "完全燃焼のためのもの［３］",
+      "en": "for completing combustion",
+      "count": 1493,
+      "sourceFile": "ipc_F23C.txt",
+      "kind": "ipc"
+    },
+    "F23C9/08": {
+      "code": "F23C9/08",
+      "level": 1,
+      "parent": "F23C9/00",
+      "ja": "燃焼室温度を下げるためのもの，例．燃焼室壁を保護するためのもの［３］",
+      "en": "for reducing temperature in combustion chamber, e.g. for protecting walls of combustion chamber",
+      "count": 1264,
+      "sourceFile": "ipc_F23C.txt",
+      "kind": "ipc"
+    },
+    "F23C10/00": {
+      "code": "F23C10/00",
+      "level": 0,
+      "parent": "F23C",
+      "ja": "燃料または他の粒子の流動層内で燃焼が生じる装置［７］<br><br><b><ul>注</ul></b><br>このグループにおいては，１０１／００のグループのインデキシングコードを付与することが望ましい。［７］",
+      "en": "Apparatus in which combustion takes place in a fluidised bed of fuel or other particles; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this group, it is desirable to add the indexing code of group <b>F23C101/00</b>.</li></ul>",
+      "count": 2924,
+      "sourceFile": "ipc_F23C.txt",
+      "kind": "ipc"
+    },
+    "F23C10/01": {
+      "code": "F23C10/01",
+      "level": 1,
+      "parent": "F23C10/00",
+      "ja": "流動媒体が触媒粒子のもの［８］",
+      "en": "in a fluidised bed of catalytic particles",
+      "count": 167,
+      "sourceFile": "ipc_F23C.txt",
+      "kind": "ipc"
+    },
+    "F23C10/02": {
+      "code": "F23C10/02",
+      "level": 1,
+      "parent": "F23C10/00",
+      "ja": "層中の粒子の循環運動を達成，または助長するために，あるいは層から浮遊した粒子を再循環させるために，特に適合させた手段を持つもの［７］",
+      "en": "with means specially adapted for achieving or promoting a circulating movement of particles within the bed or for a recirculation of particles entrained from the bed",
+      "count": 949,
+      "sourceFile": "ipc_F23C.txt",
+      "kind": "ipc"
+    },
+    "F23C10/04": {
+      "code": "F23C10/04",
+      "level": 2,
+      "parent": "F23C10/02",
+      "ja": "粒子が燃焼ゾーンに再導入される前に，少なくとも部分的に燃焼ゾーンから遮蔽されている区域，例．熱交換区域または返還ダクトに移動する仕組みになっているもの［７］",
+      "en": "the particles being circulated to a section, e.g. a heat-exchange section or a return duct, at least partially shielded from the combustion zone, before being reintroduced into the combustion zone",
+      "count": 390,
+      "sourceFile": "ipc_F23C.txt",
+      "kind": "ipc"
+    },
+    "F23C10/06": {
+      "code": "F23C10/06",
+      "level": 3,
+      "parent": "F23C10/04",
+      "ja": "層の別の部分に異なる角度の流動化を引き起こすことで循環運動が助長されるもの［７］",
+      "en": "the circulating movement being promoted by inducing differing degrees of fluidisation in different parts of the bed",
+      "count": 90,
+      "sourceFile": "ipc_F23C.txt",
+      "kind": "ipc"
+    },
+    "F23C10/08": {
+      "code": "F23C10/08",
+      "level": 3,
+      "parent": "F23C10/04",
+      "ja": "粒子を煙道ガスから分離するための分離装置，例．集塵機，の配置に特徴のあるもの［７］",
+      "en": "characterised by the arrangement of separation apparatus, e.g. cyclones, for separating particles from the flue gases",
+      "count": 437,
+      "sourceFile": "ipc_F23C.txt",
+      "kind": "ipc"
+    },
+    "F23C10/10": {
+      "code": "F23C10/10",
+      "level": 4,
+      "parent": "F23C10/08",
+      "ja": "分離装置が燃焼室の外にあるもの［７］",
+      "en": "the separation apparatus being located outside the combustion chamber",
+      "count": 1443,
+      "sourceFile": "ipc_F23C.txt",
+      "kind": "ipc"
+    },
+    "F23C10/12": {
+      "code": "F23C10/12",
+      "level": 2,
+      "parent": "F23C10/02",
+      "ja": "粒子が燃焼ゾーンの中だけを循環するようなもの［７］",
+      "en": "the particles being circulated exclusively within the combustion zone",
+      "count": 115,
+      "sourceFile": "ipc_F23C.txt",
+      "kind": "ipc"
+    },
+    "F23C10/14": {
+      "code": "F23C10/14",
+      "level": 3,
+      "parent": "F23C10/12",
+      "ja": "層の別の部分に異なる角度の流動化を引き起こすことで循環運動が助長されるもの　　　　　　［７］",
+      "en": "the circulating movement being promoted by inducing differing degrees of fluidisation in different parts of the bed",
+      "count": 89,
+      "sourceFile": "ipc_F23C.txt",
+      "kind": "ipc"
+    },
+    "F23C10/16": {
+      "code": "F23C10/16",
+      "level": 1,
+      "parent": "F23C10/00",
+      "ja": "加圧下での操作，例．燃焼室と圧力容器内部の燃焼補助システムから成る装置によるもの，に特に適合させたもの［７］",
+      "en": "specially adapted for operation at superatmospheric pressures, e.g. by the arrangement of the combustion chamber and its auxiliary systems inside a pressure vessel",
+      "count": 578,
+      "sourceFile": "ipc_F23C.txt",
+      "kind": "ipc"
+    },
+    "F23C10/18": {
+      "code": "F23C10/18",
+      "level": 1,
+      "parent": "F23C10/00",
+      "ja": "細部；付属品［７］",
+      "en": "Details; Accessories",
+      "count": 5064,
+      "sourceFile": "ipc_F23C.txt",
+      "kind": "ipc"
+    },
+    "F23C10/20": {
+      "code": "F23C10/20",
+      "level": 2,
+      "parent": "F23C10/18",
+      "ja": "流動化を行う空気の入口，例．グリッド；土台［７］",
+      "en": "Inlets for fluidisation air, e.g. grids; Bottoms",
+      "count": 2466,
+      "sourceFile": "ipc_F23C.txt",
+      "kind": "ipc"
+    },
+    "F23C10/22": {
+      "code": "F23C10/22",
+      "level": 2,
+      "parent": "F23C10/18",
+      "ja": "流動層の燃焼装置に特に適合させた燃料供給装置（Ｆ２３Ｃ１０／２６が優先）［７］",
+      "en": "Fuel feeders specially adapted for fluidised bed combustion apparatus(<b>F23C10/26</b> takes precedence)",
+      "count": 2087,
+      "sourceFile": "ipc_F23C.txt",
+      "kind": "ipc"
+    },
+    "F23C10/24": {
+      "code": "F23C10/24",
+      "level": 2,
+      "parent": "F23C10/18",
+      "ja": "層から粒子又は燃焼残滓を除去するための装置（層のレベル，または層中の粒子又は燃焼残滓の量を制御する装置Ｆ２３Ｃ１０／３０）［７］",
+      "en": "Devices for removal of material from the bed(devices for controlling the level of the bed or the amount of material in the bed <b>F23C10/30</b>)",
+      "count": 1919,
+      "sourceFile": "ipc_F23C.txt",
+      "kind": "ipc"
+    },
+    "F23C10/26": {
+      "code": "F23C10/26",
+      "level": 3,
+      "parent": "F23C10/24",
+      "ja": "層に粒子又は燃焼残滓を部分的に再導入する装置と組み合わせたもの，例．塊になった部分を分離した後の［７］",
+      "en": "combined with devices for partial reintroduction of material into the bed, e.g. after separation of agglomerated parts",
+      "count": 1177,
+      "sourceFile": "ipc_F23C.txt",
+      "kind": "ipc"
+    },
+    "F23C10/28": {
+      "code": "F23C10/28",
+      "level": 2,
+      "parent": "F23C10/18",
+      "ja": "流動層の燃焼装置に特に適合させた制御装置［７］",
+      "en": "Control devices specially adapted for fluidised bed combustion apparatus",
+      "count": 1808,
+      "sourceFile": "ipc_F23C.txt",
+      "kind": "ipc"
+    },
+    "F23C10/30": {
+      "code": "F23C10/30",
+      "level": 3,
+      "parent": "F23C10/28",
+      "ja": "層のレベルまたは層中の粒子又は燃焼残滓の量を制御するためのもの［７］",
+      "en": "for controlling the level of the bed or the amount of material in the bed",
+      "count": 216,
+      "sourceFile": "ipc_F23C.txt",
+      "kind": "ipc"
+    },
+    "F23C10/32": {
+      "code": "F23C10/32",
+      "level": 4,
+      "parent": "F23C10/30",
+      "ja": "煙道ガスから分離した粒子の再循環率を制御することによるもの［７］",
+      "en": "by controlling the rate of recirculation of particles separated from the flue gases",
+      "count": 95,
+      "sourceFile": "ipc_F23C.txt",
+      "kind": "ipc"
+    },
+    "F23C13/00": {
+      "code": "F23C13/00",
+      "level": 0,
+      "parent": "F23C",
+      "ja": "燃焼が触媒の中で発生する装置（流動媒体が触媒の流動層燃焼装置Ｆ２３Ｃ１０／０１；無炎燃焼のための触媒を用いる輻射ガスバーナＦ２３Ｄ１４／１８）［８］",
+      "en": "Apparatus in which combustion takes place in the presence of catalytic material(in a fluidised bed of catalytic particles <b>F23C10/01</b>; radiant gas burners using catalysis for flameless combustion <b>F23D14/18</b>)",
+      "count": 1789,
+      "sourceFile": "ipc_F23C.txt",
+      "kind": "ipc"
+    },
+    "F23C13/02": {
+      "code": "F23C13/02",
+      "level": 1,
+      "parent": "F23C13/00",
+      "ja": "起動のための装置に特徴があるもの，例．温度操作のために触媒を熱するためのもの［８］",
+      "en": "characterised by arrangements for starting the operation, e.g. for heating the catalytic material to operating temperature",
+      "count": 112,
+      "sourceFile": "ipc_F23C.txt",
+      "kind": "ipc"
+    },
+    "F23C13/04": {
+      "code": "F23C13/04",
+      "level": 1,
+      "parent": "F23C13/00",
+      "ja": "直列に連結した２以上の触媒の配置に特徴があるもの［８］",
+      "en": "characterised by the arrangement of two or more catalytic elements in series connection",
+      "count": 55,
+      "sourceFile": "ipc_F23C.txt",
+      "kind": "ipc"
+    },
+    "F23C13/06": {
+      "code": "F23C13/06",
+      "level": 1,
+      "parent": "F23C13/00",
+      "ja": "非触媒燃焼を伴うもの，例．触媒の下流側［８］",
+      "en": "in which non-catalytic combustion takes place in addition to catalytic combustion, e.g. downstream of a catalytic element",
+      "count": 67,
+      "sourceFile": "ipc_F23C.txt",
+      "kind": "ipc"
+    },
+    "F23C13/08": {
+      "code": "F23C13/08",
+      "level": 1,
+      "parent": "F23C13/00",
+      "ja": "触媒の材質に特徴があるもの［８］",
+      "en": "characterised by the catalytic material",
+      "count": 232,
+      "sourceFile": "ipc_F23C.txt",
+      "kind": "ipc"
+    },
+    "F23C15/00": {
+      "code": "F23C15/00",
+      "level": 0,
+      "parent": "F23C",
+      "ja": "気体の音響振動による波動の中で燃焼が生じる燃焼装置［８］",
+      "en": "Apparatus in which combustion takes place in pulses influenced by acoustic resonance in a gas mass",
+      "count": 1291,
+      "sourceFile": "ipc_F23C.txt",
+      "kind": "ipc"
+    },
+    "F23C99/00": {
+      "code": "F23C99/00",
+      "level": 0,
+      "parent": "F23C",
+      "ja": "このサブクラスの他のグループに分類されない主題事項［８］",
+      "en": "Subject matter not provided for in other groups of this subclass",
+      "count": 11752,
+      "sourceFile": "ipc_F23C.txt",
+      "kind": "ipc"
+    },
+    "F23C101/00": {
+      "code": "F23C101/00",
+      "level": 0,
+      "parent": "F23C",
+      "ja": "浮流状態にある流動層，すなわち，明確な上部表面がない流動層，の燃焼［７］",
+      "en": "Combustion in entrained fluidised beds, i.e. fluidised beds which have no distinct upper surface",
+      "count": 68,
+      "sourceFile": "ipc_F23C.txt",
+      "kind": "ipc"
+    }
+  }
+};

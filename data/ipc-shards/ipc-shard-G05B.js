@@ -1,0 +1,1226 @@
+window.IPC_SHARD_G05B = {
+  "generatedAt": "2026-03-20T02:17:47.068Z",
+  "total": 122,
+  "entries": {
+    "G05B": {
+      "code": "G05B",
+      "level": 0,
+      "parent": "G05",
+      "ja": "制御系または調整系一般；このような系の機能要素；このような系または要素の監視または試験装置（非電気的変数を制御または調整するためのシステムＧ０５Ｄ；電気的または磁気的変数を調整するためのシステムＧ０５Ｆ；制御装置またはシステムであるが，機械的な特色にのみ特徴があるものに限るＧ０５Ｇ）<br><br><b><ul>注</ul></b><br>１．このサブクラスは，特定の変量を調整するための制御系または制御要素の特性であって，より一般に応用可能であることが明白であるものを包含する。<br>２．このサブクラスは以下のものは包含しない：<br>　ａ．非電気的な変量一般を制御する，または調整するシステム。これらはＧ０５Ｄに包含される；<br>　ｂ．電気的変量，または磁気的変量一般の調整システム。これらはＧ０５Ｆに包含される；<br>　ｃ．他の単独のサブクラスに定義されている特定の機械または装置の制御に特に適したシステム。これらは，制御や調整の特別な分類がある場合は，その機械または装置を分類する当該のサブクラスに分類する。そうでない場合は，このサブクラスの最も適切な箇所に分類する。<br>３．このサブクラスにおいては，下記の用語または表現は以下に示す意味で用いる：<br>・“自動制御装置”とは，検出要素からの信号を目標値をあらわす信号と比較し，偏差を減少するように作動する系，回路または装置を意味する。自動制御装置は感応要素，すなわち修正すべき状態の値を測定する要素，または修正要素，すなわち修正すべき状態を調節する要素は含まない；<br>・“電気式”とは，電気―機械式，電気―油圧式または電気―空気式を含むものとする。<br>４．このサブクラスにおいては，特定の制御系の細部は，他に分類されない場合，その制御系にあてはまるグループに分類する。<br><br><b><ul>サブクラス内の索引</ul></b><br>制御系<br>適応制御系　１３／００<br>計算機で制御されるもの　１５／００<br>モデルまたはシミュレータの使用を伴うもの　１７／００<br>プログラムで制御されるもの　１９／００<br>サンプリングを用いるもの　２１／００<br>他に分類されない開ループ自動制御系　２４／００<br>系の細部<br>比較要素　１／００<br>ハンチング防止装置　５／００<br>内部フィードバック装置　６／００<br>自動制御の円滑な結合または切離しを行うためのもの　７／００<br>安全装置　９／００<br>自動制御装置　１１／００<br>試験，監視　２３／００<br>このサブクラスの他のグループに分類されない主題事項　９９／００",
+      "en": "CONTROL OR REGULATING SYSTEMS IN GENERAL; FUNCTIONAL ELEMENTS OF SUCH SYSTEMS; MONITORING OR TESTING ARRANGEMENTS FOR SUCH SYSTEMS OR ELEMENTS  (systems for controlling or regulating non-electric variables <b>G05D</b>;   systems for regulating electric or magnetic variables <b>G05F</b>;   control devices or systems insofar as characterised by mechanical features only <b>G05G</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>This subclass <u>covers</u> features of control systems or elements for regulating specific variables, which are clearly more generally applicable.</li><li>This subclass <u>does not cover</u> : <ul><li>systems for controlling or regulating non-electric variables in general, which are covered by subclass <b>G05D</b>;</li><li>systems for regulating electric or magnetic variables in general, which are covered by subclass <b>G05F</b>;</li><li>systems specially adapted for the control of particular machines or apparatus provided for in a single other subclass, which are classified in the relevant subclass for such machines or apparatus, provided that there is specific provision for control or regulation relevant to the special adaptation. Otherwise, classification is made in the most appropriate place in this subclass.</li></ul></li><li>In this subclass, the following terms or expressions are used with the meanings indicated: <ul><li>\"automatic controller\" means a system, circuit, or device in which a signal from the detecting element is compared with a signal representing the desired value and which operates in such a way as to reduce the deviation. The automatic controller generally does not include the sensitive element, i.e. that element which measures the value of the condition to be corrected, or the correcting element, i.e. that element which adjusts the condition to be corrected;</li><li>\"electric\" includes \"electromechanical\", \"electrohydraulic\" or \"electropneumatic\".</li></ul></li><li>In this subclass, details of specific control systems are classified in the group relevant to the system, if not otherwise provided for.</li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">CONTROL SYSTEMS<tr><td width=\"70%\">Adaptive</td><td><b><b>13/00</b></b></td></tr></tr><tr><td width=\"70%\">Controlled by computer</td><td><b><b>15/00</b></b></td></tr></tr><tr><td width=\"70%\">Involving the use of models or simulators</td><td><b><b>17/00</b></b></td></tr></tr><tr><td width=\"70%\">Controlled by program</td><td><b><b>19/00</b></b></td></tr></tr><tr><td width=\"70%\">Involving sampling</td><td><b><b>21/00</b></b></td></tr></tr><tr><td width=\"70%\">Open-loop automatic control systems not otherwise provided for</td><td><b><b>24/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">SYSTEM DETAILS<tr><td width=\"70%\">Comparing elements</td><td><b><b>1/00</b></b></td></tr></tr><tr><td width=\"70%\">Anti-hunting arrangements</td><td><b><b>5/00</b></b></td></tr></tr><tr><td width=\"70%\">Internal feedback arrangements</td><td><b><b>6/00</b></b></td></tr></tr><tr><td width=\"70%\">Obtaining smooth engagement or disengagement of automatic control</td><td><b><b>7/00</b></b></td></tr></tr><tr><td width=\"70%\">Safety arrangements</td><td><b><b>9/00</b></b></td></tr></tr><tr><td width=\"70%\">Automatic controllers</td><td><b><b>11/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">TESTING, MONITORING</td><td><b><b>23/00</b></b></td></tr></tr><tr><td width=\"70%\">SUBJECT MATTER NOT PROVIDED FOR IN OTHER GROUPS OF THIS SUBCLASS</td><td><b><b>99/00</b></b></td></tr></tr></table>",
+      "count": 2294,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G05": {
+      "code": "G05",
+      "level": 0,
+      "parent": "G",
+      "ja": "制御；調整<br><br><b><ul>注</ul></b><br>（１）このクラスは一般的制御方法，系および装置を包含する。<br>（２）セクションＧのタイトルに続く注，特に“変量”という用語の定義については注意すること。",
+      "en": "CONTROLLING; REGULATING; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This class <u>covers</u> methods, systems, and apparatus for controlling, in general.</li><li>Attention is drawn to the Notes following the title of section <b>G</b>, especially as regards the definition of the term \"variable\".</li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G": {
+      "code": "G",
+      "level": 0,
+      "parent": null,
+      "ja": "物理学<br><br><b><ul>注</ul></b><br>１．このセクションにおいては，下記の用語は以下に示す意味で用いる：<br>・“変量”は名詞として，特定の実在物，例．物体，ある量の物質，光ビーム，に関し特定の瞬間に測定することの可能な特性又は特質，例．寸法，温度等の物理的状態，密度又は色等の性質，を意味する。変量が変化すると，その数値的表現は異なる時点で，異なる状態又は個々の状況において異なる値をとることもあり，また，ある状態のもとで又は実用上特定の実在物に関して一定でありうる，例．バーの長さが多くの目的のために一定とみなされる，こともある。<br>２．使用される用語または表現の定義に注意すること。このセクションのいくつかのクラスの注に使用されているものについて，特にクラスＧ０１の“測定”を参照されたい．ＩＰＣ指針パラグラフ１８７の中にあるものについて，“制御”及び“調整”の定義に参照されたい。<br>３．このセクションにおける分類は他のセクションにおいてよりもめんどうな場合があり得る，というのは，その一つは，いろいろな使用分野の差異の判別には構造上の差異又は使用形態上の差異よりも寧ろ使用者の意図における差異の方にかなりの程度影響されてしまうからであり，もう一つは，扱う主題が容易に全体として識別できる“もの”であるよりも，特性又は部品が他の主題のものと共通のものを有しているシステム又は組合わせであることが実際上多いからである。例えば，情報（例．一連の数値）をディスプレイするのは，クラスＧ０９に包含される，教育又は広告のため，クラスＧ０１に包含される，測定の結果が通知されうるため，クラスＧ０８に包含される，遠隔地点に情報を合図するため，又は遠隔地点から合図された情報を提供するためである。目的を記述するために使用する言葉は，当該装置の形態に無関係なこともあり得る特性－例えば，ディスプレイを見る者にとって望ましい効果とか，ディスプレイが遠隔地点から制御されるかどうかという特性－によって決定される。さらに，ある状態，例えば流体圧の変化に応答する装置は，その装置そのものには変更を加えずして，サブクラスＧ０１Ｌに包含される圧力又はＧ０１の他のサブクラスに包含される圧力に関連した他の何らかの状態，例．温度に関してＧ０１Ｋ，についての情報を与えるため，サブクラスＧ０７Ｃに包含される圧力または圧力発生の記録をするため，サブクラスＧ０８Ｂに包含される警報を発するため，又はクラスＧ０５に包含される他の何らかの装置を制御するために用いられることがある。<br>　本分類表は，前述したように，同一の性質のものは同一箇所に分類し得るようにしたものである。従って，技術主題が適切箇所に分類されるためには予めその真正な本質を把握することが特に必要である。",
+      "en": "PHYSICS; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this section, the following term is used with the meaning indicated: <ul><li>\"variable\" as a noun means a feature or property, e.g. a dimension, a physical condition such as temperature, a quality such as density or colour, which, in respect of a particular entity, e.g. an object, a quantity of a substance, a beam of light, and at a particular instant, is capable of being measured; the variable may change, so that its numerical expression may assume different values at different times, in different conditions or in individual cases, but may be constant in respect of a particular entity in certain conditions or for practical purposes, e.g. the length of a bar may be regarded as constant for many purposes.</li></ul></li><li>Attention is drawn to the definitions of terms or expressions used. Some appear in the notes of several of the classes in this section, see in particular the definition of \"measuring\" in class <b>G01</b>. Others appear in paragraph 187 of the Guide to the IPC, see in particular the definitions of \"control\" and \"regulation\".</li><li>Classification in this section may present more difficulty than in other sections, because the distinction between different fields of use rests to a considerable extent on differences in the intention of the user rather than on any constructional differences or differences in the manner of use, and because the subjects dealt with are often in effect systems or combinations, which have features or parts in common, rather than \"things\", which are readily distinguishable as a whole. For example, information, e.g. a set of figures, may be displayed for the purpose of education or advertising covered by class <b>G09</b>, for enabling the result of a measurement to be known covered by class <b>G01</b>, for signalling the information to a distant point or for giving information which has been signalled from a distant point covered by class <b>G08</b>. The words used to describe the purpose depend on features that may be irrelevant to the form of the apparatus concerned, for example, such features as the desired effect on the person who sees the display, or whether the display is controlled from a remote point. Again, a device which responds to some change in a condition, e.g. in the pressure of a fluid, may be used, without modification of the device itself, to give information about the pressure covered by subclass <b>G01L</b> or about some other condition linked to the pressure covered by another subclass of class <b>G01</b>, e.g. <b>G01K</b> for temperature, to make a record of the pressure or of its occurrence covered by subclass <b>G07C</b>, to give an alarm covered by subclass <b>G08B</b>, or to control another apparatus covered by class <b>G05</b>. <ul><li>The classification scheme is intended to enable things of a similar nature, as indicated above, to be classified together. It is therefore particularly necessary for the real nature of any technical subject to be decided before it can be properly classified.</li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G05B1/00": {
+      "code": "G05B1/00",
+      "level": 0,
+      "parent": "G05B",
+      "ja": "比較要素，すなわち．目標値と既存値または予想値との比較を直接的にまたは間接的に実施するための要素［２００６．０１］",
+      "en": "Comparing elements, i.e. elements for effecting comparison directly or indirectly between a desired value and existing or anticipated values",
+      "count": 984,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B1/01": {
+      "code": "G05B1/01",
+      "level": 1,
+      "parent": "G05B1/00",
+      "ja": "電気式［２］",
+      "en": "electric",
+      "count": 1815,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B1/02": {
+      "code": "G05B1/02",
+      "level": 2,
+      "parent": "G05B1/01",
+      "ja": "アナログ信号を比較するためのもの（２つの互いに独立した振動の位相または周波数を比較するための回路Ｈ０３Ｄ１３／００）［２００６．０１］",
+      "en": "for comparing analogue signals(circuits for comparing the phase or frequency of two mutually-independent oscillations <b>H03D13/00</b>)",
+      "count": 864,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B1/03": {
+      "code": "G05B1/03",
+      "level": 2,
+      "parent": "G05B1/01",
+      "ja": "デジタル信号を比較するためのもの［２］",
+      "en": "for comparing digital signals",
+      "count": 317,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B1/04": {
+      "code": "G05B1/04",
+      "level": 2,
+      "parent": "G05B1/01",
+      "ja": "測定器の指針の位置についての検出機構をもつもの",
+      "en": "with sensing of the position of the pointer of a measuring instrument",
+      "count": 282,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B1/06": {
+      "code": "G05B1/06",
+      "level": 3,
+      "parent": "G05B1/04",
+      "ja": "連続的検出",
+      "en": "continuous sensing",
+      "count": 242,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B1/08": {
+      "code": "G05B1/08",
+      "level": 3,
+      "parent": "G05B1/04",
+      "ja": "段階的検出",
+      "en": "stepwise sensing",
+      "count": 99,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B1/11": {
+      "code": "G05B1/11",
+      "level": 1,
+      "parent": "G05B1/00",
+      "ja": "流体式［２］",
+      "en": "fluidic",
+      "count": 76,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B5/00": {
+      "code": "G05B5/00",
+      "level": 0,
+      "parent": "G05B",
+      "ja": "ハンチング防止装置",
+      "en": "Anti-hunting arrangements",
+      "count": 494,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B5/01": {
+      "code": "G05B5/01",
+      "level": 1,
+      "parent": "G05B5/00",
+      "ja": "電気式",
+      "en": "electric",
+      "count": 1443,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B5/04": {
+      "code": "G05B5/04",
+      "level": 1,
+      "parent": "G05B5/00",
+      "ja": "流体式［２］",
+      "en": "fluidic",
+      "count": 53,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B6/00": {
+      "code": "G05B6/00",
+      "level": 0,
+      "parent": "G05B",
+      "ja": "特定の特徴を得るための内部フィードバック装置，例．比例フィードバック，積分フィードバックまたは微分フィードバック［２００６．０１］",
+      "en": "Internal feedback arrangements for obtaining particular characteristics, e.g. proportional, integral or differential",
+      "count": 185,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B6/02": {
+      "code": "G05B6/02",
+      "level": 1,
+      "parent": "G05B6/00",
+      "ja": "電気式",
+      "en": "electric",
+      "count": 716,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B6/05": {
+      "code": "G05B6/05",
+      "level": 1,
+      "parent": "G05B6/00",
+      "ja": "流体式［２］",
+      "en": "fluidic",
+      "count": 155,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B7/00": {
+      "code": "G05B7/00",
+      "level": 0,
+      "parent": "G05B",
+      "ja": "自動制御の円滑な結合または切離しを得る装置",
+      "en": "Arrangements for obtaining smooth engagement or disengagement of automatic control",
+      "count": 180,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B7/02": {
+      "code": "G05B7/02",
+      "level": 1,
+      "parent": "G05B7/00",
+      "ja": "電気式［２］",
+      "en": "electric",
+      "count": 2877,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B7/04": {
+      "code": "G05B7/04",
+      "level": 1,
+      "parent": "G05B7/00",
+      "ja": "流体式［２］",
+      "en": "fluidic",
+      "count": 137,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B9/00": {
+      "code": "G05B9/00",
+      "level": 0,
+      "parent": "G05B",
+      "ja": "安全装置（Ｇ０５Ｂ７／００が優先；プログラム制御システム中の安全装置Ｇ０５Ｂ１９／４０６）［２００６．０１］",
+      "en": "Safety arrangements (<b>G05B7/00</b> takes precedence;  safety arrangements in program-control systems <b>G05B19/048</b>, <b>G05B19/406</b>)",
+      "count": 522,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B9/02": {
+      "code": "G05B9/02",
+      "level": 1,
+      "parent": "G05B9/00",
+      "ja": "電気式",
+      "en": "electric",
+      "count": 9962,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B9/03": {
+      "code": "G05B9/03",
+      "level": 2,
+      "parent": "G05B9/02",
+      "ja": "多重チャンネルループ，すなわち．冗長制御系［２］",
+      "en": "with multiple-channel loop, i.e. redundant control systems",
+      "count": 5716,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B9/05": {
+      "code": "G05B9/05",
+      "level": 1,
+      "parent": "G05B9/00",
+      "ja": "流体式［２］",
+      "en": "fluidic",
+      "count": 138,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B11/00": {
+      "code": "G05B11/00",
+      "level": 0,
+      "parent": "G05B",
+      "ja": "自動制御装置（Ｇ０５Ｂ１３／００が優先）",
+      "en": "Automatic controllers(<b>G05B13/00</b> takes precedence)",
+      "count": 2097,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B11/01": {
+      "code": "G05B11/01",
+      "level": 1,
+      "parent": "G05B11/00",
+      "ja": "電気式",
+      "en": "electric",
+      "count": 8568,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B11/06": {
+      "code": "G05B11/06",
+      "level": 2,
+      "parent": "G05B11/01",
+      "ja": "出力信号が目標値からの偏差の連続函数を現わすもの，すなわち連続式制御装置（Ｇ０５Ｂ１１／２６が優先）",
+      "en": "in which the output signal represents a continuous function of the deviation from the desired value, i.e. continuous controllers(<b>G05B11/26</b> takes precedence)",
+      "count": 848,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B11/10": {
+      "code": "G05B11/10",
+      "level": 3,
+      "parent": "G05B11/06",
+      "ja": "伝送信号が直流のもの",
+      "en": "the signal transmitted being DC",
+      "count": 169,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B11/12": {
+      "code": "G05B11/12",
+      "level": 3,
+      "parent": "G05B11/06",
+      "ja": "伝送信号が交流搬送波で変調されるもの",
+      "en": "the signal transmitted being modulated on an AC carrier",
+      "count": 134,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B11/14": {
+      "code": "G05B11/14",
+      "level": 2,
+      "parent": "G05B11/01",
+      "ja": "出力信号が目標値からの偏差の不連続函数であるもの，すなわち不連続式制御装置（Ｇ０５Ｂ１１／２６が優先）",
+      "en": "in which the output signal represents a discontinuous function of the deviation from the desired value, i.e. discontinuous controllers(<b>G05B11/26</b> takes precedence)",
+      "count": 549,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B11/16": {
+      "code": "G05B11/16",
+      "level": 3,
+      "parent": "G05B11/14",
+      "ja": "二位置制御装置，例．オン―オフ動作をもつもの",
+      "en": "Two-step controllers, e.g. with on/off action",
+      "count": 910,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B11/18": {
+      "code": "G05B11/18",
+      "level": 3,
+      "parent": "G05B11/14",
+      "ja": "多位置制御装置",
+      "en": "Multi-step controllers",
+      "count": 840,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B11/26": {
+      "code": "G05B11/26",
+      "level": 2,
+      "parent": "G05B11/01",
+      "ja": "出力がパルス列であるもの",
+      "en": "in which the output signal is a pulse-train",
+      "count": 1196,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B11/28": {
+      "code": "G05B11/28",
+      "level": 3,
+      "parent": "G05B11/26",
+      "ja": "パルス高さ変調を用いるもの；パルス幅変調を用いるもの",
+      "en": "using pulse-height modulation; using pulse-width modulation",
+      "count": 1171,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B11/30": {
+      "code": "G05B11/30",
+      "level": 3,
+      "parent": "G05B11/26",
+      "ja": "パルス周波数変調を用いるもの",
+      "en": "using pulse-frequency modulation",
+      "count": 109,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B11/32": {
+      "code": "G05B11/32",
+      "level": 2,
+      "parent": "G05B11/01",
+      "ja": "２個以上の検出要素からの入力をもつもの；２個以上の修正単位に加えられる出力をもつもの",
+      "en": "with inputs from more than one sensing element; with outputs to more than one correcting element",
+      "count": 3261,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B11/36": {
+      "code": "G05B11/36",
+      "level": 2,
+      "parent": "G05B11/01",
+      "ja": "特別な特性，例．比例，微分，積分，を得るための装置をもつもの",
+      "en": "with provision for obtaining particular characteristics, e.g. proportional, integral, differential",
+      "count": 5543,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B11/38": {
+      "code": "G05B11/38",
+      "level": 3,
+      "parent": "G05B11/36",
+      "ja": "比例特性を得るためのもの",
+      "en": "for obtaining a proportional characteristic",
+      "count": 112,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B11/40": {
+      "code": "G05B11/40",
+      "level": 3,
+      "parent": "G05B11/36",
+      "ja": "積分特性を得るためのもの",
+      "en": "for obtaining an integral characteristic",
+      "count": 180,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B11/42": {
+      "code": "G05B11/42",
+      "level": 3,
+      "parent": "G05B11/36",
+      "ja": "比例と時間依存特性の両方，例．Ｐ．Ｉ．，Ｐ．Ｉ．Ｄ，を得るためのもの",
+      "en": "for obtaining a characteristic which is both proportional and time-dependent, e.g. P. I., P. I. D.",
+      "count": 8717,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B11/44": {
+      "code": "G05B11/44",
+      "level": 1,
+      "parent": "G05B11/00",
+      "ja": "純空気式",
+      "en": "pneumatic only",
+      "count": 311,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B11/46": {
+      "code": "G05B11/46",
+      "level": 2,
+      "parent": "G05B11/44",
+      "ja": "補助動力のないもの",
+      "en": "without auxiliary power",
+      "count": 19,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B11/48": {
+      "code": "G05B11/48",
+      "level": 2,
+      "parent": "G05B11/44",
+      "ja": "補助動力のあるもの",
+      "en": "with auxiliary power",
+      "count": 62,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B11/50": {
+      "code": "G05B11/50",
+      "level": 3,
+      "parent": "G05B11/48",
+      "ja": "出力信号が目標値からの偏差の連続函数であるもの，すなわち連続式制御装置",
+      "en": "in which the output signal represents a continuous function of the deviation from the desired value, i.e. continuous controllers",
+      "count": 455,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B11/52": {
+      "code": "G05B11/52",
+      "level": 3,
+      "parent": "G05B11/48",
+      "ja": "出力信号が目標値からの偏差の不連続凾数であるもの，すなわち不連続式制御装置",
+      "en": "in which the output signal represents a discontinuous function of the deviation from the desired value, i.e. discontinuous controllers",
+      "count": 102,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B11/54": {
+      "code": "G05B11/54",
+      "level": 4,
+      "parent": "G05B11/52",
+      "ja": "二位置制御装置",
+      "en": "Two-step controllers, e.g. with on/off action",
+      "count": 54,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B11/56": {
+      "code": "G05B11/56",
+      "level": 4,
+      "parent": "G05B11/52",
+      "ja": "多位置制御装置",
+      "en": "Multi-step controllers",
+      "count": 37,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B11/58": {
+      "code": "G05B11/58",
+      "level": 2,
+      "parent": "G05B11/44",
+      "ja": "２個以上の検出要素からの入力をもつもの",
+      "en": "with inputs from more than one sensing element; with outputs to more than one correcting element",
+      "count": 161,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B11/60": {
+      "code": "G05B11/60",
+      "level": 1,
+      "parent": "G05B11/00",
+      "ja": "純液圧式",
+      "en": "hydraulic only",
+      "count": 198,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B13/00": {
+      "code": "G05B13/00",
+      "level": 0,
+      "parent": "G05B",
+      "ja": "適応制御システム，すなわち幾つかの事前に割り当てられた基準通りの最適な性能を得るために，自らを自動的に調整するシステム（Ｇ０５Ｂ１９／００が優先）［２００６．０１］",
+      "en": "Adaptive control systems, i.e. systems automatically adjusting themselves to have a performance which is optimum according to some preassigned criterion(<b>G05B19/00</b> takes precedence)",
+      "count": 5352,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B13/02": {
+      "code": "G05B13/02",
+      "level": 1,
+      "parent": "G05B13/00",
+      "ja": "電気式",
+      "en": "electric",
+      "count": 23258,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B13/04": {
+      "code": "G05B13/04",
+      "level": 2,
+      "parent": "G05B13/02",
+      "ja": "モデルまたはシミュレータの使用を伴うもの［３］",
+      "en": "involving the use of models or simulators",
+      "count": 29171,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B15/00": {
+      "code": "G05B15/00",
+      "level": 0,
+      "parent": "G05B",
+      "ja": "コンピューターにより制御されるシステム（Ｇ０５Ｂ１３／００，Ｇ０５Ｂ１９／００が優先；特別な特性を有する自動制御装置Ｇ０５Ｂ１１／００）［２００６．０１］",
+      "en": "Systems controlled by a computer(<b>G05B13/00</b>, <b>G05B19/00</b> take precedence; automatic controllers with particular characteristics <b>G05B11/00</b>)",
+      "count": 5288,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B15/02": {
+      "code": "G05B15/02",
+      "level": 1,
+      "parent": "G05B15/00",
+      "ja": "電気式",
+      "en": "electric",
+      "count": 34653,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B17/00": {
+      "code": "G05B17/00",
+      "level": 0,
+      "parent": "G05B",
+      "ja": "システムであるが，自身のモデルまたはシミュレーターの使用を伴うシステム（Ｇ０５Ｂ１３／００，Ｇ０５Ｂ１５／００，Ｇ０５Ｂ１９／００が優先）［２００６．０１］",
+      "en": "Systems involving the use of models or simulators of said systems(<b>G05B13/00</b>, <b>G05B15/00</b>, <b>G05B19/00</b> take precedence)",
+      "count": 1500,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B17/02": {
+      "code": "G05B17/02",
+      "level": 1,
+      "parent": "G05B17/00",
+      "ja": "電気式",
+      "en": "electric",
+      "count": 11977,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B19/00": {
+      "code": "G05B19/00",
+      "level": 0,
+      "parent": "G05B",
+      "ja": "プログラム制御システム［２００６．０１］",
+      "en": "Program-control systems",
+      "count": 7479,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B19/02": {
+      "code": "G05B19/02",
+      "level": 1,
+      "parent": "G05B19/00",
+      "ja": "電気式",
+      "en": "electric",
+      "count": 9943,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B19/04": {
+      "code": "G05B19/04",
+      "level": 2,
+      "parent": "G05B19/02",
+      "ja": "数値制御以外のプログラム制御，すなわちシーケンスコントローラーまたはロジックコントローラにおける数値制御（Ｇ０５Ｂ１９／４１８が優先）［２００６．０１］",
+      "en": "Program control other than numerical control, i.e. in sequence controllers or logic controllers(<b>G05B19/418</b> takes precedence)",
+      "count": 34801,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B19/042": {
+      "code": "G05B19/042",
+      "level": 3,
+      "parent": "G05B19/04",
+      "ja": "デジタルプロセッサを用いるもの（Ｇ０５Ｂ１９／０５が優先）［６］",
+      "en": "using digital processors(<b>G05B19/05</b> takes precedence)",
+      "count": 100750,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B19/045": {
+      "code": "G05B19/045",
+      "level": 3,
+      "parent": "G05B19/04",
+      "ja": "論理状態機械を用いるもので，制御される機械のための論理を含むメモリまたはプログラマブル論理装置のみからなり，その出力の状態が入力の状態またはそれ自体の出力状態の一部に依存するもの，例．二分決定制御装置，有限状態制御装置［６］",
+      "en": "using logic state machines, consisting only of a memory or a programmable logic device containing the logic for the controlled machine and in which the state of its outputs is dependent on the state of its inputs or part of its own output states, e.g. binary decision controllers, finite state controllers",
+      "count": 775,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B19/048": {
+      "code": "G05B19/048",
+      "level": 3,
+      "parent": "G05B19/04",
+      "ja": "監視；安全［６］",
+      "en": "Monitoring; Safety",
+      "count": 15919,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B19/05": {
+      "code": "G05B19/05",
+      "level": 3,
+      "parent": "G05B19/04",
+      "ja": "プログラマブル論理制御装置，例．ラダーダイアグラムまたは機能チャートに従って信号の論理的な相互接続を模擬するもの［５］",
+      "en": "Programmable logic controllers, e.g. simulating logic interconnections of signals according to ladder diagrams or function charts",
+      "count": 43974,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B19/06": {
+      "code": "G05B19/06",
+      "level": 3,
+      "parent": "G05B19/04",
+      "ja": "カム，円板，棒，ドラムまたは同様のものを用いるもの［２００６．０１］",
+      "en": "using cams, discs, rods, drums or the like",
+      "count": 1221,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B19/07": {
+      "code": "G05B19/07",
+      "level": 3,
+      "parent": "G05B19/04",
+      "ja": "プログラムが電気要素の固定接続で決定されるもの，例．ポテンショメータ，計数器，トランジスタ［２００６．０１］",
+      "en": "where the program is defined in the fixed connection of electrical elements, e.g. potentiometers, counters or transistors",
+      "count": 1013,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B19/08": {
+      "code": "G05B19/08",
+      "level": 3,
+      "parent": "G05B19/04",
+      "ja": "プラグボード，クロスバー分配器，マトリックススイッチ，または同様物を用いるもの",
+      "en": "using plugboards, cross-bar distributors, matrix switches, or the like",
+      "count": 1255,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B19/10": {
+      "code": "G05B19/10",
+      "level": 3,
+      "parent": "G05B19/04",
+      "ja": "選択スイッチを用いるもの",
+      "en": "using selector switches",
+      "count": 1595,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B19/12": {
+      "code": "G05B19/12",
+      "level": 3,
+      "parent": "G05B19/04",
+      "ja": "記録担体を用いるもの",
+      "en": "using record carriers",
+      "count": 1344,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B19/14": {
+      "code": "G05B19/14",
+      "level": 4,
+      "parent": "G05B19/12",
+      "ja": "パンチカードまたはテープを用いるもの",
+      "en": "using punched cards or tapes",
+      "count": 411,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B19/16": {
+      "code": "G05B19/16",
+      "level": 4,
+      "parent": "G05B19/12",
+      "ja": "磁気的記録担体を用いるもの",
+      "en": "using magnetic record carriers",
+      "count": 429,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B19/18": {
+      "code": "G05B19/18",
+      "level": 2,
+      "parent": "G05B19/02",
+      "ja": "数値制御［２００６．０１］",
+      "en": "Numerical control [NC], i.e. automatically operating machines, in particular machine tools, e.g. in a manufacturing environment, so as to execute positioning, movement or co-ordinated operations by means of program data in numerical form(<b>G05B19/418</b> takes precedence)",
+      "count": 20059,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B19/19": {
+      "code": "G05B19/19",
+      "level": 3,
+      "parent": "G05B19/18",
+      "ja": "位置決めまたは輪郭制御系に特徴があるもの，例．１つのプログラムされた点から他の点に位置を制御する，またはプログラムされた連続経路に沿って運動を制御するもの［３，６］<br><br><b><ul>注</ul></b><br>このグループにおいて，軸用測定系はその軸に沿った位置変化を測定するため用いられる。この測定はサーボ制御系における位置フィードバックとして用いられる。［６］",
+      "en": "characterised by positioning or contouring control systems, e.g. to control position from one programmed point to another or to control movement along a programmed continuous path; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this group, the measuring system for an axis is used to measure the displacement along that axis. This measurement is used as position-feedback in the servo-control system. </li></ul>",
+      "count": 7272,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B19/21": {
+      "code": "G05B19/21",
+      "level": 4,
+      "parent": "G05B19/19",
+      "ja": "増分デイジタル測定器を用いるもの［３］",
+      "en": "using an incremental digital measuring device",
+      "count": 336,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B19/23": {
+      "code": "G05B19/23",
+      "level": 5,
+      "parent": "G05B19/21",
+      "ja": "点―点制御のためのもの［３］",
+      "en": "for point-to-point control",
+      "count": 1449,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B19/25": {
+      "code": "G05B19/25",
+      "level": 5,
+      "parent": "G05B19/21",
+      "ja": "連続経路制御のためのもの［３］",
+      "en": "for continuous-path control",
+      "count": 327,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B19/27": {
+      "code": "G05B19/27",
+      "level": 4,
+      "parent": "G05B19/19",
+      "ja": "絶対デイジタル測定器を用いるもの［３］",
+      "en": "using an absolute digital measuring device",
+      "count": 157,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B19/29": {
+      "code": "G05B19/29",
+      "level": 5,
+      "parent": "G05B19/27",
+      "ja": "点―点制御のためのもの［３］",
+      "en": "for point-to-point control",
+      "count": 437,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B19/31": {
+      "code": "G05B19/31",
+      "level": 5,
+      "parent": "G05B19/27",
+      "ja": "連続経路制御のためのもの［３］",
+      "en": "for continuous-path control",
+      "count": 132,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B19/33": {
+      "code": "G05B19/33",
+      "level": 4,
+      "parent": "G05B19/19",
+      "ja": "アナログ測定器を用いるもの［３］",
+      "en": "using an analogue measuring device",
+      "count": 377,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B19/35": {
+      "code": "G05B19/35",
+      "level": 5,
+      "parent": "G05B19/33",
+      "ja": "点―点制御のためのもの［３］",
+      "en": "for point-to-point control",
+      "count": 554,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B19/37": {
+      "code": "G05B19/37",
+      "level": 5,
+      "parent": "G05B19/33",
+      "ja": "連続経路制御のためのもの［３］",
+      "en": "for continuous-path control",
+      "count": 184,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B19/39": {
+      "code": "G05B19/39",
+      "level": 4,
+      "parent": "G05B19/19",
+      "ja": "上記グループＧ０５Ｂ１９／２１，Ｇ０５Ｂ１９／２７およびＧ０５Ｂ１９／３３の少くとも２つのグループに含まれる手段の組合せを用いるもの［３］",
+      "en": "using a combination of the means covered by at least two of the preceding groups <b>G05B19/21</b>, <b>G05B19/27</b> and <b>G05B19/33</b>",
+      "count": 527,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B19/40": {
+      "code": "G05B19/40",
+      "level": 4,
+      "parent": "G05B19/19",
+      "ja": "開ループ系，例．ステップモータを用いるもの［３］",
+      "en": "Open loop systems, e.g. using stepping motor",
+      "count": 1299,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B19/401": {
+      "code": "G05B19/401",
+      "level": 3,
+      "parent": "G05B19/18",
+      "ja": "測定用制御装置に特徴のあるもの，例．較正および初期値設定，機械加工のための被加工物の測定（Ｇ０５Ｂ１９／１９が優先）［６］",
+      "en": "characterised by control arrangements for measuring, e.g. calibration and initialisation, measuring workpiece for machining purposes(<b>G05B19/19</b> takes precedence)",
+      "count": 2955,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B19/402": {
+      "code": "G05B19/402",
+      "level": 3,
+      "parent": "G05B19/18",
+      "ja": "位置決め用制御装置に特徴のあるもの，例．被加工物の孔に対する工具の心出し，位置を正確にするための付加的検知手段（Ｇ０５Ｂ１９／１９が優先）［６］",
+      "en": "characterised by control arrangements for positioning, e.g. centring a tool relative to a hole in the workpiece, additional detection means to correct position(<b>G05B19/19</b> takes precedence)",
+      "count": 1940,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B19/404": {
+      "code": "G05B19/404",
+      "level": 3,
+      "parent": "G05B19/18",
+      "ja": "補正用制御装置に特徴のあるもの，例．バックラッシュ，オーバーシュート，ツールオフセット，ツール摩耗，温度，機械構造誤差，負荷，慣性に対するもの（Ｇ０５Ｂ１９／１９，Ｇ０５Ｂ１９／４１が優先）［６］",
+      "en": "characterised by control arrangements for compensation, e.g. for backlash, overshoot, tool offset, tool wear, temperature, machine construction errors, load, inertia(<b>G05B19/19</b>, <b>G05B19/41</b> take precedence)",
+      "count": 7013,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B19/406": {
+      "code": "G05B19/406",
+      "level": 3,
+      "parent": "G05B19/18",
+      "ja": "監視または安全に特徴のあるもの（Ｇ０５Ｂ１９／１９が優先）［６］",
+      "en": "characterised by monitoring or safety(<b>G05B19/19</b> takes precedence)",
+      "count": 3273,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B19/4061": {
+      "code": "G05B19/4061",
+      "level": 4,
+      "parent": "G05B19/406",
+      "ja": "衝突または禁止区域の回避［２００６．０１］",
+      "en": "Avoiding collision or forbidden zones",
+      "count": 1120,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B19/4062": {
+      "code": "G05B19/4062",
+      "level": 4,
+      "parent": "G05B19/406",
+      "ja": "サーボループの監視，例．サーボモータの過負荷，フィードバックまたは目標値の喪失［６］",
+      "en": "Monitoring servoloop, e.g. overload of servomotor, loss of feedback or reference",
+      "count": 692,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B19/4063": {
+      "code": "G05B19/4063",
+      "level": 4,
+      "parent": "G05B19/406",
+      "ja": "制御装置全般の監視（Ｇ０５Ｂ１９／４０６２が優先）［６］",
+      "en": "Monitoring general control system(<b>G05B19/4062</b> takes precedence)",
+      "count": 2249,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B19/4065": {
+      "code": "G05B19/4065",
+      "level": 4,
+      "parent": "G05B19/406",
+      "ja": "ツールの破損，寿命または状態を監視するもの［６］",
+      "en": "Monitoring tool breakage, life or condition",
+      "count": 2300,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B19/4067": {
+      "code": "G05B19/4067",
+      "level": 4,
+      "parent": "G05B19/406",
+      "ja": "動力故障またはその他の中断後データまたは位置を元通りにするもの［６］",
+      "en": "Restoring data or position after power failure or other interruption",
+      "count": 476,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B19/4068": {
+      "code": "G05B19/4068",
+      "level": 4,
+      "parent": "G05B19/406",
+      "ja": "描画またはその他の手段によりスクリーン上でパートプログラムを確認するもの［２００６．０１］",
+      "en": "Verifying part program on screen, by drawing or other means",
+      "count": 830,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B19/4069": {
+      "code": "G05B19/4069",
+      "level": 4,
+      "parent": "G05B19/406",
+      "ja": "スクリーン上で機械加工工程をシミュレートするもの（Ｇ０５Ｂ１９／４０６８が優先）［６］",
+      "en": "Simulating machining process on screen(<b>G05B19/4068</b> takes precedence)",
+      "count": 1838,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B19/408": {
+      "code": "G05B19/408",
+      "level": 3,
+      "parent": "G05B19/18",
+      "ja": "データの取り扱いまたはデータのフォーマットに特徴のあるもの，例．データの読み取り，バッファリングまたは変換［６］",
+      "en": "characterised by data handling or data format, e.g. reading, buffering or conversion of data",
+      "count": 3601,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B19/409": {
+      "code": "G05B19/409",
+      "level": 3,
+      "parent": "G05B19/18",
+      "ja": "マニュアルデータインプット［ＭＤＩ］，制御盤の使用に特徴のあるもの，例．盤による機能制御；制御盤の細部，パラメータの設定に特徴のあるもの（Ｇ０５Ｂ１９／４０８，Ｇ０５Ｂ１９／４０９３が優先）［２００６．０１］",
+      "en": "characterised by using manual data input [MDI] or by using control panel, e.g. controlling functions with the panel; characterised by control panel details or by setting parameters(<b>G05B19/408</b>, <b>G05B19/4093</b> take precedence)",
+      "count": 3279,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B19/4093": {
+      "code": "G05B19/4093",
+      "level": 3,
+      "parent": "G05B19/18",
+      "ja": "パートプログラミングに特徴のあるもの，例．パートプログラムと名付けられている，ＮＣ機械のための制御情報を得るために図面から取得された幾何学情報の入力で，この図面と機械加工情報と材料情報を組み合わせる入力［２００６．０１］",
+      "en": "characterised by part programming, e.g. entry of geometrical information as taken from a technical drawing, combining this with machining and material information to obtain control information, named part program, for the NC machine",
+      "count": 7059,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B19/4097": {
+      "code": "G05B19/4097",
+      "level": 3,
+      "parent": "G05B19/18",
+      "ja": "ＮＣ機械を制御するために設計データを使用することに特徴のあるもの，例．ＣＡＤ／ＣＡＭ（Ｇ０５Ｂ１９／４０９３が優先）［２００６．０１］",
+      "en": "characterised by using design data to control NC machines, e.g. CAD/CAM(<b>G05B19/4093</b> takes precedence)",
+      "count": 4643,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B19/4099": {
+      "code": "G05B19/4099",
+      "level": 4,
+      "parent": "G05B19/4097",
+      "ja": "面または曲線機械加工で三次元物体を作成するもの，例．デスクトップ製造［２００６．０１］",
+      "en": "Surface or curve machining, making three-dimensional [3D] objects, e.g. desktop manufacturing",
+      "count": 2491,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B19/41": {
+      "code": "G05B19/41",
+      "level": 3,
+      "parent": "G05B19/18",
+      "ja": "補間に特徴のあるもの，例．従うべき経路とその経路に沿った移動速度を定義するためのプログラムされた終点間における中間点の計算（Ｇ０５Ｂ１９／２５，Ｇ０５Ｂ１９／３１，Ｇ０５Ｂ１９／３７，Ｇ０５Ｂ１９／３９，Ｇ０５Ｂ１９／４０が優先）［３，６］",
+      "en": "characterised by interpolation, e.g. the computation of intermediate points between programmed end points to define the path to be followed and the rate of travel along that path(<b>G05B19/25</b>, <b>G05B19/31</b>, <b>G05B19/37</b>, <b>G05B19/39</b>, <b>G05B19/40</b> take precedence)",
+      "count": 1369,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B19/4103": {
+      "code": "G05B19/4103",
+      "level": 4,
+      "parent": "G05B19/41",
+      "ja": "デジタル補間［６］",
+      "en": "Digital interpolation",
+      "count": 2055,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B19/4105": {
+      "code": "G05B19/4105",
+      "level": 4,
+      "parent": "G05B19/41",
+      "ja": "アナログ補間［６］",
+      "en": "Analog interpolation",
+      "count": 163,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B19/414": {
+      "code": "G05B19/414",
+      "level": 3,
+      "parent": "G05B19/18",
+      "ja": "制御系の構成，例．共有コントローラまたはマルチプロセッサシステム，サーボのためのインターフェイス，プログラマブルインターフェイスコントローラ［６］",
+      "en": "Structure of the control system, e.g. common controller or multiprocessor systems, interface to servo, programmable interface controller",
+      "count": 6499,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B19/4155": {
+      "code": "G05B19/4155",
+      "level": 3,
+      "parent": "G05B19/18",
+      "ja": "プログラム実行，すなわち，パートプログラムまたは機械機能の実行，に特徴のあるもの，例．プログラムの選択［２００６．０１］",
+      "en": "characterised by program execution, i.e. part program or machine function execution, e.g. selection of a program",
+      "count": 5459,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B19/416": {
+      "code": "G05B19/416",
+      "level": 3,
+      "parent": "G05B19/18",
+      "ja": "速度，加速または減速の制御に特徴のあるもの（Ｇ０５Ｂ１９／１９が優先）［６］",
+      "en": "characterised by control of velocity, acceleration or deceleration(<b>G05B19/19</b> takes precedence)",
+      "count": 5031,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B19/418": {
+      "code": "G05B19/418",
+      "level": 2,
+      "parent": "G05B19/02",
+      "ja": "総合的工場管理，すなわち，複数の機械の集中管理，例．直接または分散数値制御［ＤＮＣ］，フレキシブルマニュファクチャリングシステム［ＦＭＳ］，インテグレーテッドマニュファクチャリングシステム［ＩＭＳ］またはコンピュータインテグレーテッドマニュファクチャリング［ＣＩＭ］［２００６．０１］",
+      "en": "Total factory control, i.e. centrally controlling a plurality of machines, e.g. direct or distributed numerical control [DNC], flexible manufacturing systems [FMS], integrated manufacturing systems [IMS] or computer integrated manufacturing [CIM]",
+      "count": 92579,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B19/42": {
+      "code": "G05B19/42",
+      "level": 2,
+      "parent": "G05B19/02",
+      "ja": "記録および再生システム，すなわち運転サイクルからプログラムが記録されるもの，例．運転サイクルが手動で制御され，その後，この記録が同一機械上に再生されるもの［２００６．０１］",
+      "en": "Recording and playback systems, i.e. in which the program is recorded from a cycle of operations, e.g. the cycle of operations being manually controlled, after which this record is played back on the same machine",
+      "count": 5935,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B19/421": {
+      "code": "G05B19/421",
+      "level": 3,
+      "parent": "G05B19/42",
+      "ja": "機械的手段により連続する位置を教示するもの，例．ツールヘッドまたはエンドエフェクタを位置決めする機械的に結合した手動ハンドルによるもの（Ｇ０５Ｂ１９／４２３が優先）［６］",
+      "en": "Teaching successive positions by mechanical means, e.g. by mechanically-coupled handwheels to position tool head or end effector(<b>G05B19/423</b> takes precedence)",
+      "count": 83,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B19/423": {
+      "code": "G05B19/423",
+      "level": 3,
+      "parent": "G05B19/42",
+      "ja": "ウォーク－スルーにより連続する位置を教示するもの，すなわち，ツールヘッドまたはエンドエフェクタを経路に従うようサーボ補助の有無にかかわらず直接つかまえて案内するもの［６］",
+      "en": "Teaching successive positions by walk-through, i.e. the tool head or end effector being grasped and guided directly, with or without servo-assistance, to follow a path",
+      "count": 487,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B19/425": {
+      "code": "G05B19/425",
+      "level": 3,
+      "parent": "G05B19/42",
+      "ja": "数値制御により連続する位置を教示するもの，すなわち，ツールヘッドまたはエンドエフェクタの位置決めサーボを制御するため指令がはいるもの［６］",
+      "en": "Teaching successive positions by numerical control, i.e. commands being entered to control the positioning servo of the tool head or end effector",
+      "count": 671,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B19/427": {
+      "code": "G05B19/427",
+      "level": 3,
+      "parent": "G05B19/42",
+      "ja": "ジョイスティックまたはハンドルの位置を追跡し，ツールヘッドの位置決めサーボを制御することにより連続する位置を教示するもの，マスタースレーブ制御（Ｇ０５Ｂ１９／４２３が優先）［２００６．０１］",
+      "en": "Teaching successive positions by tracking the position of a joystick or handle to control the positioning servo of the tool head, leader-follower control(<b>G05B19/423</b> takes precedence)",
+      "count": 297,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B19/43": {
+      "code": "G05B19/43",
+      "level": 1,
+      "parent": "G05B19/00",
+      "ja": "流体式［３］",
+      "en": "fluidic",
+      "count": 231,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B19/44": {
+      "code": "G05B19/44",
+      "level": 2,
+      "parent": "G05B19/43",
+      "ja": "空気式［３］",
+      "en": "pneumatic",
+      "count": 581,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B19/46": {
+      "code": "G05B19/46",
+      "level": 2,
+      "parent": "G05B19/43",
+      "ja": "液圧式［３］",
+      "en": "hydraulic",
+      "count": 179,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B21/00": {
+      "code": "G05B21/00",
+      "level": 0,
+      "parent": "G05B",
+      "ja": "制御される変量の標本抽出を伴うシステム（Ｇ０５Ｂ１３／００～Ｇ０５Ｂ１９／００が優先）［２００６．０１］",
+      "en": "Systems involving sampling of the variable controlled(<b>G05B13/00 to G05B19/00</b>  take precedence)",
+      "count": 940,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B21/02": {
+      "code": "G05B21/02",
+      "level": 1,
+      "parent": "G05B21/00",
+      "ja": "電気式",
+      "en": "electric",
+      "count": 1395,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B23/00": {
+      "code": "G05B23/00",
+      "level": 0,
+      "parent": "G05B",
+      "ja": "制御系またはその一部の試験または監視（プログラム制御系の監視Ｇ０５Ｂ１９／０４８，Ｇ０５Ｂ１９／４０６）",
+      "en": "Testing or monitoring of control systems or parts thereof (monitoring of program-control systems <b>G05B19/048</b>, <b>G05B19/406</b>)",
+      "count": 2935,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B23/02": {
+      "code": "G05B23/02",
+      "level": 1,
+      "parent": "G05B23/00",
+      "ja": "電気式試験または監視",
+      "en": "Electric testing or monitoring",
+      "count": 68224,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B24/00": {
+      "code": "G05B24/00",
+      "level": 0,
+      "parent": "G05B",
+      "ja": "他に分類されない開ループ自動制御系［２］",
+      "en": "Open-loop automatic control systems not otherwise provided for",
+      "count": 476,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B24/02": {
+      "code": "G05B24/02",
+      "level": 1,
+      "parent": "G05B24/00",
+      "ja": "電気式［２］",
+      "en": "electric",
+      "count": 1106,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B24/04": {
+      "code": "G05B24/04",
+      "level": 1,
+      "parent": "G05B24/00",
+      "ja": "流体式［２］",
+      "en": "fluidic",
+      "count": 43,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    },
+    "G05B99/00": {
+      "code": "G05B99/00",
+      "level": 0,
+      "parent": "G05B",
+      "ja": "このサブクラスの他のグループに分類されない主題事項［８］",
+      "en": "Subject matter not provided for in other groups of this subclass",
+      "count": 155,
+      "sourceFile": "ipc_G05B.txt",
+      "kind": "ipc"
+    }
+  }
+};

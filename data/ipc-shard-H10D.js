@@ -1,0 +1,1496 @@
+window.IPC_SHARD_H10D = {
+  "generatedAt": "2026-03-20T02:17:47.326Z",
+  "total": 149,
+  "entries": {
+    "H10D": {
+      "code": "H10D",
+      "level": 0,
+      "parent": "H10",
+      "ja": "無機電気的半導体装置［２０２５．０１］<br><br><b><ul>注</ul></b><br>注［２０２５．０１］<br>１．このサブクラスは無機半導体本体を有する電気的半導体装置を包含する。この装置は以下の種類の装置を含む；<br>・整流，増幅，発振またはスイッチングに特に適した無機半導体装置，例．トランジスタまたはダイオード；<br>・電位障壁を有する個々の無機抵抗器またはキャパシタ；<br>・電位障壁を有さず，他の半導体構成部品との集積に特に適した，個々の抵抗器，キャパシタまたはインダクタ；<br>・このサブクラスに包含される装置の半導体本体，またはその領域；<br>・このサブクラスに包含される装置の電極；<br>・集積装置，例．ＣＭＯＳ集積装置；<br>・当該装置の製造または処理に特に適した方法または装置<br>２．このサブクラスは以下を包含しない。<br>・サブクラスＨ１０Ｂに包含される，電子記憶装置；<br>・サブクラスＨ１０Ｆに包含される，赤外線，可視光，短波長電磁波または粒子線の輻射に感応する半導体装置；<br>・サブクラスＨ１０Ｈに包含される，電位障壁を有する，発光半導体装置；<br>・サブクラスＨ１０Ｎに包含される，熱電装置，熱磁気装置，圧電装置，電歪装置，磁歪装置，磁気効果装置，超電導装置またはその他の電気的固体装置；<br>・グループＨ１０Ｗに包含される，半導体本体または電極以外の構造上の細部<br>３．このサブクラスでは，セクションＣの注（３）の周期表中に示されたＩ～ＶＩＩＩ族のシステムが用いられる。<br><br><b><ul>サブクラス内の索引</ul></b><br>サブクラス内の索引<br>個々の装置<br>抵抗器；キャパシタ；インダクタ　１／００<br>ダイオード　８／００<br>バイポーラトランジスタ　１０／００<br>電界効果により制御されるバイポーラ装置　１２／００<br>サイリスタ　１８／００<br>電界効果トランジスタ［ＦＥＴ］　３０／００<br>電荷転送装置　４４／００<br>その他の個々の装置　４８／００<br>構造上の細部<br>本体　６２／００<br>電極　６４／００<br>集積装置；複数の装置の組立体<br>複数の装置の組立体　８０／００<br>半導体層のみを備える半導体基板内または上に形成される集積装置　８４／００<br>絶縁性または導電性基板内または上に形成される集積装置　８６／００<br>同一基板上のバルク構成部品とＳＯＩまたはＳＯＳ構成部品を備える集積装置　８７／００<br>３次元集積装置　８８／００<br>集積装置の他の観点　８９／００<br>このサブクラスの他のグループに分類されない主題事項　９９／００",
+      "en": "INORGANIC ELECTRIC SEMICONDUCTOR DEVICES; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This subclass <u>covers</u> electric semiconductor devices having inorganic semiconductor bodies. This includes the following kind of devices: <ul><li>inorganic semiconductor devices specially adapted for rectifying, amplifying, oscillating or switching, e.g. transistors or diodes;</li><li>individual inorganic resistors or capacitors having potential barriers;</li><li>individual resistors, capacitors or inductors having no potential barriers, and specially adapted for integration with other semiconductor components;</li><li>semiconductor bodies, or regions thereof, of devices covered by this subclass;</li><li>electrodes of devices covered by this subclass;</li><li>integrated devices, e.g. CMOS integrated devices;</li><li>processes or apparatus specially adapted for the manufacture or treatment of such devices.</li></ul></li><li>This subclass <u>does not cover</u>: <ul><li>electronic memory devices, which are covered by subclass <b>H10B</b>;</li><li>semiconductor devices sensitive to infrared radiation, light, electromagnetic radiation of shorter wavelength or corpuscular radiation, which are covered by subclass <b>H10F</b>;</li><li>light-emitting semiconductor devices having at least one potential barrier, which are covered by subclass <b>H10H</b>;</li><li>thermoelectric, thermomagnetic, piezoelectric, electrostrictive, magnetostrictive, magnetic-effect, superconducting or other electric solid-state devices, which are covered by subclass <b>H10N</b>;</li><li>constructional details other than semiconductor bodies or electrodes, which are covered by subclass <b>H10W</b>.</li></ul></li><li>In this subclass, the periodic system used is the I to VIII group system indicated in the Periodic Table under Note (3) of section <b>C</b>.</li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">INDIVIDUAL DEVICES<tr><td width=\"70%\">Resistors; capacitors; inductors</td><td><b><b>1/00</b></b></td></tr></tr><tr><td width=\"70%\">Diodes</td><td><b><b>8/00</b></b></td></tr></tr><tr><td width=\"70%\">Bipolar junction transistors</td><td><b><b>10/00</b></b></td></tr></tr><tr><td width=\"70%\">Bipolar devices controlled by the field-effect</td><td><b><b>12/00</b></b></td></tr></tr><tr><td width=\"70%\">Thyristors</td><td><b><b>18/00</b></b></td></tr></tr><tr><td width=\"70%\">FETs</td><td><b><b>30/00</b></b></td></tr></tr><tr><td width=\"70%\">Charge transfer devices</td><td><b><b>44/00</b></b></td></tr></tr><tr><td width=\"70%\">Other individual devices</td><td><b><b>48/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">CONSTRUCTIONAL DETAILS<tr><td width=\"70%\">Bodies</td><td><b><b>62/00</b></b></td></tr></tr><tr><td width=\"70%\">Electrodes</td><td><b><b>64/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">INTEGRATED DEVICES; ASSEMBLIES OF MULTIPLE DEVICES<tr><td width=\"70%\">Assemblies of multiple devices</td><td><b><b>80/00</b></b></td></tr></tr><tr><td width=\"70%\">Integrated devices formed in or on semiconductor substrates that comprise only semiconducting layers</td><td><b><b>84/00</b></b></td></tr></tr><tr><td width=\"70%\">Integrated devices formed in or on insulating or conducting substrates</td><td><b><b>86/00</b></b></td></tr></tr><tr><td width=\"70%\">Integrated devices comprising both bulk devices and either SOI or SOS devices on the same substrate</td><td><b><b>87/00</b></b></td></tr></tr><tr><td width=\"70%\">3D integrated devices</td><td><b><b>88/00</b></b></td></tr></tr><tr><td width=\"70%\">Other aspects of integrated devices</td><td><b><b>89/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">SUBJECT MATTER NOT PROVIDED FOR IN OTHER GROUPS OF THIS SUBCLASS</td><td><b><b>99/00</b></b></td></tr></tr></table>",
+      "count": 0,
+      "sourceFile": "ipc_H.txt",
+      "kind": "ipc"
+    },
+    "H10": {
+      "code": "H10",
+      "level": 0,
+      "parent": "H",
+      "ja": "半導体装置；他に分類されない電気的固体装置［２０２３．０１］",
+      "en": "SEMICONDUCTOR DEVICES; ELECTRIC SOLID-STATE DEVICES NOT OTHERWISE PROVIDED FOR",
+      "count": 0,
+      "sourceFile": "ipc_H.txt",
+      "kind": "ipc"
+    },
+    "H": {
+      "code": "H",
+      "level": 0,
+      "parent": null,
+      "ja": "電気<br><br><b><ul>注</ul></b><br>（利用にあたっての基本原則と一般的指示）<br>Ｉ．セクションＨは以下のものを包含する：<br>（ａ）基本的電気素子，これは全ての電気ユニットと，装置や回路の一般的な機械的構成を包含しており，その中にはプリント配線と称されるものに各種の基本素子を組み立てたものも含まれる。またこれは他に包含されない場合には，ある程度までこれらの素子の製造をも包含する；<br>（ｂ）発電，これは，発電，変換および配電と共にそのための装置の制御を包含する；<br>（ｃ）電気の応用，これは以下のものを包含する：<br>（ｉ）一般的な利用技術，すなわち．電気加熱と電気照明回路の利用技術；<br>（ｉｉ）厳密な意味で電気的か電子的かいずれかの特定の利用技術で国際特許分類の他のセクションに包含されないもの，これは以下のものを含んでいる：<br>（１）電気的光源，これはレーザーを含む；<br>（２）電気的なＸ線技術；<br>（３）電気的なプラズマ技術，および帯電粒子または中性子の発生および加速；<br>（ｄ）基本電子回路およびその制御；<br>（ｅ）電気通信技術；これは電気―機械変換器一般を含む；<br>（ｆ）物品や上記素子を作るための特定の材料の使用，この点については指針の８８項から９０項を参照されたい。<br>ＩＩ．このセクションにおいては，下記の一般規則が適用される：<br>（ａ）上記Ｉ（ｃ）で述べた例外を除いて，国際特許分類のセクションＨ以外のいずれかのセクションに分類される特殊な操作，方法，装置，物体または物品に特有の電気的観点または部分は，常にその操作，方法，装置，物体または物品のためのサブクラスに分類されるか，または類似の性質を有する技術主題に関する共通的な特徴がクラス・レベルで展開されている場合には，それは，該技術主題のための一般的電気的な応用を完全に包含するサブクラスに，その操作，方法，装置，物体または物品と関連して分類される；<br>（ｂ）この様な電気的な応用には，一般的なものであれ特殊なものであれ，次の事項が含まれる。<br>（ｉ）Ａ６１における治療方法および装置；<br>（ｉｉ）Ｂ０１，Ｂ０３およびＢ２３Ｋにおける各種の実験室または工業的操作に用いられる電気的方法および装置；<br>（ｉｉｉ）セクションＢの“運輸”のサブセクションにおける車両一般および特殊な車両への電気の供給，電気的推進および電気照明；<br>（ｉｖ）Ｆ０２Ｐにおける内燃機関の電気点火系，およびＦ２３Ｑにおける燃焼装置一般のもの；<br>（ｖ）セクションＧにおける全ての電気的部分，すなわち，電気変量の測定器を含む測定装置，検査，信号および計算。このＧセクションにおいて電気とは，一般に手段として扱われるものでそれ自体目的として扱われるものではない；<br>（ｃ）全ての電気的な応用は一般的なものであれ特殊なものであれ，それが含んでいる電気的“基本的素子”に関して言えば，“基本的な電気”の観点がセクションＨ（上記Ｉ（ａ）参照）にあることを前提としている。この規則は，セクションＨ自身にある上記Ｉ（ｃ）で示した電気の応用に対しても有効である。",
+      "en": "ELECTRICITY; <br><br><b><u>Note(s)</u></b><br><br><ul><li>These Notes cover the basic principles and general instructions for use of section <b>H</b>.<ul><li>Section <b>H</b> <u>covers</u>: <ul><li>basic electric elements, which cover all electric units and the general mechanical structure of apparatus and circuits, including the assembly of various basic elements into what are called printed circuits and also cover to a certain extent the manufacture of these elements (when not covered elsewhere);</li><li>generation of electricity, which covers the generation, conversion and distribution of electricity together with the controlling of the corresponding gear;</li><li>applied electricity, which <u>covers</u>: <ul><li>general utilisation techniques, viz. those of electric heating and electric lighting circuits;</li><li>some special utilisation techniques, either electric or electronic in the strict sense, which are not covered by other sections of the Classification, including: <ul><li>electric light sources, including lasers;</li><li>electric X-ray technique;</li><li>electric plasma technique and the generation and acceleration of electrically charged particles or neutrons;</li></ul></li></ul></li><li>basic electronic circuits and their control;</li><li>radio or electric communication technique;</li><li>the use of a specified material for the manufacture of the article or element described. In this connection, paragraphs 88 to 90 of the Guide should be referred to.</li></ul></li><li>In this section, the following general rules apply: <ul><li>Subject to the exceptions stated in I(c), above, any electric aspect or part peculiar to a particular operation, process, apparatus, object or article, classified in one of the sections of the Classification other than section <b>H</b>, is always classified in the subclass for that operation, process, apparatus, object or article. Where common characteristics concerning technical subjects of similar nature have been brought out at class level, the electric aspect or part is classified, in conjunction with the operation, process, apparatus, object or article, in a subclass which covers entirely the general electrical applications for the technical subject in question;</li><li>The electrical applications referred to under (a), above, either general or particular, include: <ul><li>the therapeutic processes and apparatus, in class <b>A61</b>;</li><li>the electric processes and apparatus used in various laboratory or industrial operations, in classes <b>B01</b> and <b>B03</b> and in subclass <b>B23K</b>;</li><li>the electricity supply, electric propulsion and electric lighting of vehicles in general and of particular vehicles, in the subsection \"Transporting\" of section <b>B</b>;</li><li>the electric ignition systems of internal-combustion engines, in subclass <b>F02P</b>, and of combustion apparatus in general, in subclass <b>F23Q</b>;</li><li>the whole electrical part of section <b>G</b>, i.e. measuring devices including apparatus for measuring electric variables, checking, signalling and calculating. Electricity in that section is generally dealt with as a means and not as an end in itself;</li></ul></li><li>All electrical applications, both general and particular, presuppose that the \"basic electricity\" aspect appears in section <b>H</b> (see I(a) above) as regards the electric \"basic elements\" which they comprise. This rule is also valid for applied electricity, referred to in I(c), above, which appears in section <b>H</b> itself.</li></ul></li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_H.txt",
+      "kind": "ipc"
+    },
+    "H10D1/00": {
+      "code": "H10D1/00",
+      "level": 0,
+      "parent": "H10D",
+      "ja": "抵抗器，キャパシタまたはインダクタ［２０２５．０１］<br><br><b><ul>注</ul></b><br>このグループは以下を包含する。<br>・電位障壁を有する，個々の無機抵抗器または無機キャパシタ<br>・電位障壁を有さず，他の半導体構成部品との集積に特に適した，個々の抵抗器，キャパシタまたはインダクタ［２０２５．０１］",
+      "en": "Resistors, capacitors or inductors; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This group <u>covers</u>:<ul><li>individual inorganic resistors or capacitors having potential barriers;</li><li>individual resistors, capacitors or inductors having no potential barriers, and specially adapted for integration with other semiconductor components.</li></ul></li></ul>",
+      "count": 240,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D1/20": {
+      "code": "H10D1/20",
+      "level": 1,
+      "parent": "H10D1/00",
+      "ja": "インダクタ［２０２５．０１］",
+      "en": "Inductors",
+      "count": 349,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D1/40": {
+      "code": "H10D1/40",
+      "level": 1,
+      "parent": "H10D1/00",
+      "ja": "抵抗器［２０２５．０１］",
+      "en": "Resistors",
+      "count": 25,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D1/43": {
+      "code": "H10D1/43",
+      "level": 2,
+      "parent": "H10D1/40",
+      "ja": "ＰＮ接合を有する抵抗器［２０２５．０１］",
+      "en": "Resistors having PN junctions",
+      "count": 12,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D1/47": {
+      "code": "H10D1/47",
+      "level": 2,
+      "parent": "H10D1/40",
+      "ja": "電位障壁を有さない抵抗器［２０２５．０１］",
+      "en": "Resistors having no potential barriers",
+      "count": 155,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D1/60": {
+      "code": "H10D1/60",
+      "level": 1,
+      "parent": "H10D1/00",
+      "ja": "キャパシタ［２０２５．０１］",
+      "en": "Capacitors",
+      "count": 66,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D1/62": {
+      "code": "H10D1/62",
+      "level": 2,
+      "parent": "H10D1/60",
+      "ja": "電位障壁を有するキャパシタ［２０２５．０１］",
+      "en": "Capacitors having potential barriers",
+      "count": 74,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D1/64": {
+      "code": "H10D1/64",
+      "level": 3,
+      "parent": "H10D1/62",
+      "ja": "可変容量ダイオード，例．バラクタ［２０２５．０１］",
+      "en": "Variable-capacitance diodes, e.g. varactors",
+      "count": 16,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D1/66": {
+      "code": "H10D1/66",
+      "level": 3,
+      "parent": "H10D1/62",
+      "ja": "導体－絶縁体－半導体構造のキャパシタ，例．ＭＯＳキャパシタ［２０２５．０１］",
+      "en": "Conductor-insulator-semiconductor capacitors, e.g. MOS capacitors",
+      "count": 106,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D1/68": {
+      "code": "H10D1/68",
+      "level": 2,
+      "parent": "H10D1/60",
+      "ja": "電位障壁を有さないキャパシタ［２０２５．０１］",
+      "en": "Capacitors having no potential barriers",
+      "count": 868,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D8/00": {
+      "code": "H10D8/00",
+      "level": 0,
+      "parent": "H10D",
+      "ja": "ダイオード（可変容量ダイオードＨ１０Ｄ１／６４；ゲートダイオードＨ１０Ｄ１２／００）［２０２５．０１］<br><br><b><ul>注</ul></b><br>このグループでは，装置の製造または処理が新規かつ非自明であるとみなされる場合は，当該装置それ自身も分類する。［２０２５．０１］",
+      "en": "Diodes (variable-capacitance diodes <b>H10D1/64</b>;  gated diodes <b>H10D12/00</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>In this group, when the manufacture or treatment of a device is determined to be novel and non-obvious, the device itself is also classified.</li></ul>",
+      "count": 475,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D8/01": {
+      "code": "H10D8/01",
+      "level": 1,
+      "parent": "H10D8/00",
+      "ja": "製造または処理［２０２５．０１］",
+      "en": "Manufacture or treatment",
+      "count": 731,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D8/20": {
+      "code": "H10D8/20",
+      "level": 1,
+      "parent": "H10D8/00",
+      "ja": "ブレークダウンダイオード，例．アバランシェダイオード［２０２５．０１］",
+      "en": "Breakdown diodes, e.g. avalanche diodes",
+      "count": 47,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D8/25": {
+      "code": "H10D8/25",
+      "level": 2,
+      "parent": "H10D8/20",
+      "ja": "ツェナーダイオード［２０２５．０１］",
+      "en": "Zener diodes",
+      "count": 58,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D8/30": {
+      "code": "H10D8/30",
+      "level": 1,
+      "parent": "H10D8/00",
+      "ja": "点接触ダイオード［２０２５．０１］",
+      "en": "Point-contact diodes",
+      "count": 1,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D8/40": {
+      "code": "H10D8/40",
+      "level": 1,
+      "parent": "H10D8/00",
+      "ja": "トランジットタイムダイオード，例．ＩＭＰＡＴＴダイオードまたはＴＲＡＰＡＴＴダイオード［２０２５．０１］",
+      "en": "Transit-time diodes, e.g. IMPATT or TRAPATT diodes",
+      "count": 3,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D8/50": {
+      "code": "H10D8/50",
+      "level": 1,
+      "parent": "H10D8/00",
+      "ja": "ＰＩＮダイオード［２０２５．０１］",
+      "en": "PIN diodes",
+      "count": 461,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D8/60": {
+      "code": "H10D8/60",
+      "level": 1,
+      "parent": "H10D8/00",
+      "ja": "ショットキーバリアダイオード［２０２５．０１］",
+      "en": "Schottky-barrier diodes",
+      "count": 694,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D8/70": {
+      "code": "H10D8/70",
+      "level": 1,
+      "parent": "H10D8/00",
+      "ja": "トンネル効果ダイオード［２０２５．０１］",
+      "en": "Tunnel-effect diodes",
+      "count": 20,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D8/75": {
+      "code": "H10D8/75",
+      "level": 2,
+      "parent": "H10D8/70",
+      "ja": "トンネル効果ＰＮダイオード，例．エサキダイオード［２０２５．０１］",
+      "en": "Tunnel-effect PN diodes, e.g. Esaki diodes",
+      "count": 8,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D8/80": {
+      "code": "H10D8/80",
+      "level": 1,
+      "parent": "H10D8/00",
+      "ja": "ＰＮＰＮダイオード，例．ショックレーダイオードまたはブレークオーバーダイオード［２０２５．０１］",
+      "en": "PNPN diodes, e.g. Shockley diodes or break-over diodes",
+      "count": 14,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D10/00": {
+      "code": "H10D10/00",
+      "level": 0,
+      "parent": "H10D",
+      "ja": "バイポーラトランジスタ［ＢＪＴ］［２０２５．０１］<br><br><b><ul>注</ul></b><br>このグループでは，装置の製造または処理が新規かつ非自明であるとみなされる場合は，当該装置それ自身も分類する。［２０２５．０１］",
+      "en": "Bipolar junction transistors [BJT]; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this group, when the manufacture or treatment of a device is determined to be novel and non-obvious, the device itself is also classified.</li></ul>",
+      "count": 64,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D10/01": {
+      "code": "H10D10/01",
+      "level": 1,
+      "parent": "H10D10/00",
+      "ja": "製造または処理［２０２５．０１］",
+      "en": "Manufacture or treatment",
+      "count": 151,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D10/40": {
+      "code": "H10D10/40",
+      "level": 1,
+      "parent": "H10D10/00",
+      "ja": "縦型バイポーラトランジスタ［２０２５．０１］",
+      "en": "Vertical BJTs",
+      "count": 75,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D10/60": {
+      "code": "H10D10/60",
+      "level": 1,
+      "parent": "H10D10/00",
+      "ja": "横型バイポーラトランジスタ［２０２５．０１］",
+      "en": "Lateral BJTs",
+      "count": 50,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D10/80": {
+      "code": "H10D10/80",
+      "level": 1,
+      "parent": "H10D10/00",
+      "ja": "ヘテロ接合バイポーラトランジスタ［２０２５．０１］",
+      "en": "Heterojunction BJTs",
+      "count": 105,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D12/00": {
+      "code": "H10D12/00",
+      "level": 0,
+      "parent": "H10D",
+      "ja": "電界効果により制御されるバイポーラ装置，例．絶縁ゲートバイポーラトランジスタ［ＩＧＢＴ］［２０２５．０１］<br><br><b><ul>注</ul></b><br>このグループでは，装置の製造または処理が新規かつ非自明であるとみなされる場合は，当該装置それ自身も分類する。［２０２５．０１］",
+      "en": "Bipolar devices controlled by the field effect, e.g. insulated-gate bipolar transistors [IGBT]; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this group, when the manufacture or treatment of a device is determined to be novel and non-obvious, the device itself is also classified.</li></ul>",
+      "count": 1388,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D12/01": {
+      "code": "H10D12/01",
+      "level": 1,
+      "parent": "H10D12/00",
+      "ja": "製造または処理［２０２５．０１］",
+      "en": "Manufacture or treatment",
+      "count": 609,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D18/00": {
+      "code": "H10D18/00",
+      "level": 0,
+      "parent": "H10D",
+      "ja": "サイリスタ［２０２５．０１］<br><br><b><ul>注</ul></b><br>このグループでは，装置の製造または処理が新規かつ非自明であるとみなされる場合は，当該装置それ自身も分類する。［２０２５．０１］",
+      "en": "Thyristors; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this group, when the manufacture or treatment of a device is determined to be novel and non-obvious, the device itself is also classified.</li></ul>",
+      "count": 117,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D18/01": {
+      "code": "H10D18/01",
+      "level": 1,
+      "parent": "H10D18/00",
+      "ja": "製造または処理［２０２５．０１］",
+      "en": "Manufacture or treatment",
+      "count": 83,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D18/40": {
+      "code": "H10D18/40",
+      "level": 1,
+      "parent": "H10D18/00",
+      "ja": "電界効果によりターンオンするもの［２０２５．０１］",
+      "en": "with turn-on by field effect",
+      "count": 8,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D18/60": {
+      "code": "H10D18/60",
+      "level": 1,
+      "parent": "H10D18/00",
+      "ja": "ゲートターンオフサイリスタ［２０２５．０１］",
+      "en": "Gate-turn-off devices",
+      "count": 17,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D18/65": {
+      "code": "H10D18/65",
+      "level": 2,
+      "parent": "H10D18/60",
+      "ja": "電界効果によりターンオフするもの［２０２５．０１］",
+      "en": "with turn-off by field effect",
+      "count": 26,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D18/80": {
+      "code": "H10D18/80",
+      "level": 1,
+      "parent": "H10D18/00",
+      "ja": "双方向サイリスタ，例．トライアック［２０２５．０１］",
+      "en": "Bidirectional devices, e.g. triacs",
+      "count": 33,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D30/00": {
+      "code": "H10D30/00",
+      "level": 0,
+      "parent": "H10D",
+      "ja": "電界効果トランジスタ［ＦＥＴ］（絶縁ゲートバイポーラトランジスタＨ１０Ｄ１２／００）［２０２５．０１］<br><br><b><ul>注</ul></b><br>このグループでは，装置の製造または処理が新規かつ非自明であるとみなされる場合は，当該装置それ自身も分類する。［２０２５．０１］",
+      "en": "Field-effect transistors [FET](insulated-gate bipolar transistors <b>H10D12/00</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>In this group, when the manufacture or treatment of a device is determined to be novel and non-obvious, the device itself is also classified.</li></ul>",
+      "count": 300,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D30/01": {
+      "code": "H10D30/01",
+      "level": 1,
+      "parent": "H10D30/00",
+      "ja": "製造または処理［２０２５．０１］",
+      "en": "Manufacture or treatment",
+      "count": 7405,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D30/40": {
+      "code": "H10D30/40",
+      "level": 1,
+      "parent": "H10D30/00",
+      "ja": "０次元，１次元または２次元キャリアガスチャネルを有する電界効果トランジスタ［２０２５．０１］",
+      "en": "FETs having zero-dimensional [0D], one-dimensional [1D] or two-dimensional [2D] charge carrier gas channels",
+      "count": 35,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D30/43": {
+      "code": "H10D30/43",
+      "level": 2,
+      "parent": "H10D30/40",
+      "ja": "１次元キャリアガスチャネルをもつもの，例．量子細線電界効果トランジスタまたは１次元量子閉じ込めチャネルを有するトランジスタ［２０２５．０１］",
+      "en": "having one-dimensional [1D] charge carrier gas channels, e.g. quantum wire FETs or transistors having 1D quantum-confined channels",
+      "count": 343,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D30/47": {
+      "code": "H10D30/47",
+      "level": 2,
+      "parent": "H10D30/40",
+      "ja": "２次元キャリアガスチャネルをもつもの，例．ナノリボン電界効果トランジスタまたは高電子移動度トランジスタ［ＨＥＭＴ］［２０２５．０１］",
+      "en": "having two-dimensional [2D] charge carrier gas channels, e.g. nanoribbon FETs or high electron mobility transistors [HEMT]",
+      "count": 1892,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D30/60": {
+      "code": "H10D30/60",
+      "level": 1,
+      "parent": "H10D30/00",
+      "ja": "絶縁ゲート電界効果トランジスタ［ＩＧＦＥＴ］（Ｈ１０Ｄ３０／４０が優先）［２０２５．０１］",
+      "en": "Insulated-gate field-effect transistors [IGFET](<b>H10D30/40</b> takes precedence)",
+      "count": 2963,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D30/62": {
+      "code": "H10D30/62",
+      "level": 2,
+      "parent": "H10D30/60",
+      "ja": "フィン電界効果トランジスタ［ＦｉｎＦＥＴ］［２０２５．０１］",
+      "en": "Fin field-effect transistors [FinFET]",
+      "count": 1240,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D30/63": {
+      "code": "H10D30/63",
+      "level": 2,
+      "parent": "H10D30/60",
+      "ja": "縦型絶縁ゲート電界効果トランジスタ（Ｈ１０Ｄ３０／６６が優先）［２０２５．０１］",
+      "en": "Vertical IGFETs(<b>H10D30/66</b> takes precedence)",
+      "count": 550,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D30/64": {
+      "code": "H10D30/64",
+      "level": 2,
+      "parent": "H10D30/60",
+      "ja": "二重拡散金属酸化物［ＤＭＯＳ］電界効果トランジスタ［２０２５．０１］",
+      "en": "Double-diffused metal-oxide semiconductor [DMOS] FETs",
+      "count": 24,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D30/65": {
+      "code": "H10D30/65",
+      "level": 3,
+      "parent": "H10D30/64",
+      "ja": "横型ＤＭＯＳ［ＬＤＭＯＳ］電界効果トランジスタ［２０２５．０１］",
+      "en": "Lateral DMOS [LDMOS] FETs",
+      "count": 539,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D30/66": {
+      "code": "H10D30/66",
+      "level": 3,
+      "parent": "H10D30/64",
+      "ja": "縦型ＤＭＯＳ［ＶＤＭＯＳ］電界効果トランジスタ［２０２５．０１］",
+      "en": "Vertical DMOS [VDMOS] FETs",
+      "count": 2225,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D30/67": {
+      "code": "H10D30/67",
+      "level": 2,
+      "parent": "H10D30/60",
+      "ja": "薄膜トランジスタ［ＴＦＴ］［２０２５．０１］",
+      "en": "Thin-film transistors [TFT]",
+      "count": 4117,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D30/68": {
+      "code": "H10D30/68",
+      "level": 2,
+      "parent": "H10D30/60",
+      "ja": "フローティングゲートを有する絶縁ゲート電界効果トランジスタ［２０２５．０１］",
+      "en": "Floating-gate IGFETs",
+      "count": 536,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D30/69": {
+      "code": "H10D30/69",
+      "level": 2,
+      "parent": "H10D30/60",
+      "ja": "電荷トラッピングゲート絶縁体を有する絶縁ゲート電界効果トランジスタ，例．ＭＮＯＳトランジスタ［２０２５．０１］",
+      "en": "IGFETs having charge trapping gate insulators, e.g. MNOS transistors",
+      "count": 713,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D30/80": {
+      "code": "H10D30/80",
+      "level": 1,
+      "parent": "H10D30/00",
+      "ja": "整流接合ゲート電極を有する電界効果トランジスタ（Ｈ１０Ｄ３０／４０が優先）［２０２５．０１］",
+      "en": "FETs having rectifying junction gate electrodes(<b>H10D30/40</b> takes precedence)",
+      "count": 55,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D30/83": {
+      "code": "H10D30/83",
+      "level": 2,
+      "parent": "H10D30/80",
+      "ja": "ＰＮ接合ゲート電極を有する電界効果トランジスタ［２０２５．０１］",
+      "en": "FETs having PN junction gate electrodes",
+      "count": 201,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D30/87": {
+      "code": "H10D30/87",
+      "level": 2,
+      "parent": "H10D30/80",
+      "ja": "ショットキーゲート電極を有する電界効果トランジスタ，例．金属－半導体電界効果トランジスタ［ＭＥＳＦＥＴ］［２０２５．０１］",
+      "en": "FETs having Schottky gate electrodes, e.g. metal-semiconductor FETs [MESFET]",
+      "count": 208,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D44/00": {
+      "code": "H10D44/00",
+      "level": 0,
+      "parent": "H10D",
+      "ja": "電荷転送装置［２０２５．０１］<br><br><b><ul>注</ul></b><br>このグループでは，装置の製造または処理が新規かつ非自明であるとみなされる場合は，当該装置それ自身も分類する。［２０２５．０１］",
+      "en": "Charge transfer devices; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this group, when the manufacture or treatment of a device is determined to be novel and non-obvious, the device itself is also classified.</li></ul>",
+      "count": 9,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D44/01": {
+      "code": "H10D44/01",
+      "level": 1,
+      "parent": "H10D44/00",
+      "ja": "製造または処理［２０２５．０１］",
+      "en": "Manufacture or treatment",
+      "count": 3,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D44/40": {
+      "code": "H10D44/40",
+      "level": 1,
+      "parent": "H10D44/00",
+      "ja": "電荷結合装置［ＣＣＤ］［２０２５．０１］",
+      "en": "Charge-coupled devices [CCD]",
+      "count": 0,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D44/45": {
+      "code": "H10D44/45",
+      "level": 2,
+      "parent": "H10D44/40",
+      "ja": "絶縁ゲート電極により生じる電界効果をもつもの［２０２５．０１］",
+      "en": "having field effect produced by insulated gate electrodes",
+      "count": 7,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D48/00": {
+      "code": "H10D48/00",
+      "level": 0,
+      "parent": "H10D",
+      "ja": "グループＨ１０Ｄ１／００～Ｈ１０Ｄ４４／００に包含されない個々の装置［２０２５．０１］<br><br><b><ul>注</ul></b><br>このグループでは，装置の製造または処理が新規かつ非自明であるとみなされる場合は，当該装置それ自身も分類する。［２０２５．０１］",
+      "en": "Individual devices not covered by groups <b>H10D1/00 to H10D44/00</b> ; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this group, when the manufacture or treatment of a device is determined to be novel and non-obvious, the device itself is also classified.</li></ul>",
+      "count": 1115,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D48/01": {
+      "code": "H10D48/01",
+      "level": 1,
+      "parent": "H10D48/00",
+      "ja": "製造または処理［２０２５．０１］",
+      "en": "Manufacture or treatment",
+      "count": 46,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D48/04": {
+      "code": "H10D48/04",
+      "level": 2,
+      "parent": "H10D48/01",
+      "ja": "結合していない形態のセレンまたはテルルからなる本体を有する装置のもの［２０２５．０１］",
+      "en": "of devices having bodies comprising selenium or tellurium in uncombined form",
+      "count": 1,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D48/042": {
+      "code": "H10D48/042",
+      "level": 3,
+      "parent": "H10D48/04",
+      "ja": "基体板の処理［２０２５．０１］",
+      "en": "Preparation of foundation plates",
+      "count": 10,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D48/043": {
+      "code": "H10D48/043",
+      "level": 3,
+      "parent": "H10D48/04",
+      "ja": "セレンまたはテルルの前処理，基体板への適用，または続いての結合処理［２０２５．０１］",
+      "en": "Preliminary treatment of the selenium or tellurium, its application to foundation plates or the subsequent treatment of the combination",
+      "count": 0,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D48/044": {
+      "code": "H10D48/044",
+      "level": 4,
+      "parent": "H10D48/043",
+      "ja": "セレンまたはテルルの導電状態への変換［２０２５．０１］",
+      "en": "Conversion of the selenium or tellurium to the conductive state",
+      "count": 1,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D48/045": {
+      "code": "H10D48/045",
+      "level": 4,
+      "parent": "H10D48/043",
+      "ja": "導電性にした後のセレンまたはテルル層の表面処理［２０２５．０１］",
+      "en": "Treatment of the surface of the selenium or tellurium layer after having been made conductive",
+      "count": 0,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D48/046": {
+      "code": "H10D48/046",
+      "level": 4,
+      "parent": "H10D48/043",
+      "ja": "絶縁分離層の形成［２０２５．０１］",
+      "en": "Provision of discrete insulating layers",
+      "count": 1,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D48/047": {
+      "code": "H10D48/047",
+      "level": 3,
+      "parent": "H10D48/04",
+      "ja": "基体板へ適用した後のセレンまたはテルルの露出面への電極の形成［２０２５．０１］",
+      "en": "Application of an electrode to the exposed surface of the selenium or tellurium after the selenium or tellurium has been applied to foundation plates",
+      "count": 1,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D48/048": {
+      "code": "H10D48/048",
+      "level": 3,
+      "parent": "H10D48/04",
+      "ja": "完全装置の処理，例．障壁形成のためのエレクトロフォーミングによるもの［２０２５．０１］",
+      "en": "Treatment of the complete device, e.g. by electroforming to form a barrier",
+      "count": 1,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D48/049": {
+      "code": "H10D48/049",
+      "level": 4,
+      "parent": "H10D48/048",
+      "ja": "エージング［２０２５．０１］",
+      "en": "Ageing",
+      "count": 1,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D48/07": {
+      "code": "H10D48/07",
+      "level": 2,
+      "parent": "H10D48/01",
+      "ja": "酸化第一銅［Ｃｕ２Ｏ］またはヨウ化第一銅［Ｃｕｌ］からなる本体を有する装置のもの［２０２５．０１］",
+      "en": "of devices having bodies comprising cuprous oxide [Cu<sub>2</sub>O] or cuprous iodide [CuI]",
+      "count": 3,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D48/30": {
+      "code": "H10D48/30",
+      "level": 1,
+      "parent": "H10D48/00",
+      "ja": "電流または電圧により制御される装置［２０２５．０１］",
+      "en": "Devices controlled by electric currents or voltages",
+      "count": 27,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D48/32": {
+      "code": "H10D48/32",
+      "level": 2,
+      "parent": "H10D48/30",
+      "ja": "整流，増幅またはスイッチされる電流を流さない電極に与えられる電流または電位のみにより制御される装置［２０２５．０１］",
+      "en": "Devices controlled by only the electric current supplied, or only the electric potential applied, to an electrode which does not carry the current to be rectified, amplified or switched",
+      "count": 13,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D48/34": {
+      "code": "H10D48/34",
+      "level": 3,
+      "parent": "H10D48/32",
+      "ja": "バイポーラ装置［２０２５．０１］",
+      "en": "Bipolar devices",
+      "count": 13,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D48/36": {
+      "code": "H10D48/36",
+      "level": 3,
+      "parent": "H10D48/32",
+      "ja": "ユニポーラ装置［２０２５．０１］",
+      "en": "Unipolar devices",
+      "count": 35,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D48/38": {
+      "code": "H10D48/38",
+      "level": 2,
+      "parent": "H10D48/30",
+      "ja": "整流，増幅，発振またはスイッチされる電流を流す１つ以上の電極に与えられる電流または電位の変化のみにより制御される装置［２０２５．０１］",
+      "en": "Devices controlled only by variation of the electric current supplied, or only the electric potential applied, to one or more of the electrodes carrying the current to be rectified, amplified, oscillated or switched",
+      "count": 15,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D48/40": {
+      "code": "H10D48/40",
+      "level": 1,
+      "parent": "H10D48/00",
+      "ja": "磁界により制御される装置［２０２５．０１］",
+      "en": "Devices controlled by magnetic fields",
+      "count": 102,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D48/50": {
+      "code": "H10D48/50",
+      "level": 1,
+      "parent": "H10D48/00",
+      "ja": "機械的力，例．圧力，により制御される装置［２０２５．０１］",
+      "en": "Devices controlled by mechanical forces, e.g. pressure",
+      "count": 55,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D62/00": {
+      "code": "H10D62/00",
+      "level": 0,
+      "parent": "H10D",
+      "ja": "電位障壁を有する装置の半導体本体，またはその領域［２０２５．０１］",
+      "en": "Semiconductor bodies, or regions thereof, of devices having potential barriers",
+      "count": 340,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D62/10": {
+      "code": "H10D62/10",
+      "level": 1,
+      "parent": "H10D62/00",
+      "ja": "半導体本体の領域の形状，相対的な大きさまたは配置；半導体本体の形状［２０２５．０１］",
+      "en": "Shapes, relative sizes or dispositions of the regions of the semiconductor bodies; Shapes of the semiconductor bodies",
+      "count": 6227,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D62/13": {
+      "code": "H10D62/13",
+      "level": 2,
+      "parent": "H10D62/10",
+      "ja": "整流，増幅またはスイッチされる電流を流す電極と接続されている半導体領域，例．ソースまたはドレイン領域［２０２５．０１］<br><br><b><ul>注</ul></b><br>このグループは，３つ以上の電極からなる装置の半導体領域のみを備える［２０２５．０１］",
+      "en": "Semiconductor regions connected to electrodes carrying current to be rectified, amplified or switched, e.g. source or drain regions; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This group <u>covers</u> only semiconductor regions for devices that comprise three or more electrodes.</li></ul>",
+      "count": 990,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D62/17": {
+      "code": "H10D62/17",
+      "level": 2,
+      "parent": "H10D62/10",
+      "ja": "整流，増幅またはスイッチされる電流を流さない電極と接続されている半導体領域，例．チャネル領域［２０２５．０１］",
+      "en": "Semiconductor regions connected to electrodes not carrying current to be rectified, amplified or switched, e.g. channel regions",
+      "count": 1151,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D62/40": {
+      "code": "H10D62/40",
+      "level": 1,
+      "parent": "H10D62/00",
+      "ja": "結晶構造［２０２５．０１］",
+      "en": "Crystalline structures",
+      "count": 244,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D62/50": {
+      "code": "H10D62/50",
+      "level": 1,
+      "parent": "H10D62/00",
+      "ja": "物理的不完全性［２０２５．０１］",
+      "en": "Physical imperfections",
+      "count": 15,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D62/53": {
+      "code": "H10D62/53",
+      "level": 2,
+      "parent": "H10D62/50",
+      "ja": "不完全性が半導体本体の内部にあるもの［２０２５．０１］",
+      "en": "the imperfections being within the semiconductor body",
+      "count": 47,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D62/57": {
+      "code": "H10D62/57",
+      "level": 2,
+      "parent": "H10D62/50",
+      "ja": "不完全性が半導体本体の表面にあるもの，例．粗面を有する半導体本体［２０２５．０１］",
+      "en": "the imperfections being on the surface of the semiconductor body, e.g. the body having a roughened surface",
+      "count": 16,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D62/60": {
+      "code": "H10D62/60",
+      "level": 1,
+      "parent": "H10D62/00",
+      "ja": "不純物の分布または濃度［２０２５．０１］",
+      "en": "Impurity distributions or concentrations",
+      "count": 367,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D62/80": {
+      "code": "H10D62/80",
+      "level": 1,
+      "parent": "H10D62/00",
+      "ja": "材料に特徴のあるもの［２０２５．０１］<br><br><b><ul>注</ul></b><br>１．このグループに分類する場合，ドーパントやその他の不純物に関係なく，構成材料を考慮する。<br>２．このグループでは，<br>グループＨ１０Ｄ６２／８１～Ｈ１０Ｄ６２／８１５は量子構造または超格子構造を包含し，ヘテロ接合を包含するグループＨ１０Ｄ６２／８２～Ｈ１０Ｄ６２／８２６に優先する<br>グループＨ１０Ｄ６２／８２～Ｈ１０Ｄ６２／８２６はヘテロ接合を包含し，他の材料を包含するグループＨ１０Ｄ６２／８３～Ｈ１０Ｄ６２／８６４に優先する［２０２５．０１］",
+      "en": "characterised by the materials; <br><br><b><u>Note(s)</u></b><br><br><ul><li>When classifying in this group, constituents of a material are considered irrespective of any dopants or other impurities.</li><li>In this group: <ul><li>groups <b>H10D62/81 to H10D62/815</b> , covering quantum or superlattice structures, take precedence over groups <b>H10D62/82 to H10D62/826</b> , covering heterojunctions;</li><li>groups <b>H10D62/82 to H10D62/826</b> , covering heterojunctions, take precedence over groups <b>H10D62/83 to H10D62/864</b> , covering other materials.</li></ul></li></ul>",
+      "count": 720,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D62/81": {
+      "code": "H10D62/81",
+      "level": 2,
+      "parent": "H10D62/80",
+      "ja": "量子閉じ込め効果を示す構造のもの，例．単一量子井戸；周期的または準周期的な電位変化をもつ構造のもの［２０２５．０１］",
+      "en": "of structures exhibiting quantum-confinement effects, e.g. single quantum wells; of structures having periodic or quasi-periodic potential variation",
+      "count": 67,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D62/815": {
+      "code": "H10D62/815",
+      "level": 3,
+      "parent": "H10D62/81",
+      "ja": "周期的または準周期的な電位変化をもつ構造のもの，例．超格子または多重量子井戸［ＭＱＷ］［２０２５．０１］",
+      "en": "of structures having periodic or quasi-periodic potential variation, e.g. superlattices or multiple quantum wells [MQW]",
+      "count": 102,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D62/82": {
+      "code": "H10D62/82",
+      "level": 2,
+      "parent": "H10D62/80",
+      "ja": "ヘテロ接合［２０２５．０１］",
+      "en": "Heterojunctions",
+      "count": 127,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D62/822": {
+      "code": "H10D62/822",
+      "level": 3,
+      "parent": "H10D62/82",
+      "ja": "ＩＶ族材料同士のヘテロ接合のみを備えるもの，例．Ｓｉ／Ｇｅヘテロ接合［２０２５．０１］",
+      "en": "comprising only Group IV materials heterojunctions, e.g. Si/Ge heterojunctions",
+      "count": 113,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D62/824": {
+      "code": "H10D62/824",
+      "level": 3,
+      "parent": "H10D62/82",
+      "ja": "ＩＩＩーＶ族材料同士のヘテロ接合のみを備えるもの，例．ＧａＮ／ＡｌＧａＮヘテロ接合［２０２５．０１］",
+      "en": "comprising only Group III-V materials heterojunctions, e.g. GaN/AlGaN heterojunctions",
+      "count": 274,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D62/826": {
+      "code": "H10D62/826",
+      "level": 3,
+      "parent": "H10D62/82",
+      "ja": "ＩＩーＶＩ族材料同士のヘテロ接合のみを備えるもの，例．ＣｄＴｅ／ＨｇＴｅヘテロ接合［２０２５．０１］",
+      "en": "comprising only Group II-VI materials heterojunctions, e.g. CdTe/HgTe heterojunctions",
+      "count": 1,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D62/83": {
+      "code": "H10D62/83",
+      "level": 2,
+      "parent": "H10D62/80",
+      "ja": "ＩＶ族材料であるもの，例．ＢドープＳｉまたはアンドープＧｅ［２０２５．０１］",
+      "en": "being Group IV materials, e.g. B-doped Si or undoped Ge",
+      "count": 471,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D62/832": {
+      "code": "H10D62/832",
+      "level": 3,
+      "parent": "H10D62/83",
+      "ja": "２つ以上の元素からなるＩＶ族材料であるもの，例．ＳｉＧｅ［２０２５．０１］",
+      "en": "being Group IV materials comprising two or more elements, e.g. SiGe",
+      "count": 679,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D62/834": {
+      "code": "H10D62/834",
+      "level": 3,
+      "parent": "H10D62/83",
+      "ja": "さらにドーパントにも特徴のあるもの［２０２５．０１］",
+      "en": "further characterised by the dopants",
+      "count": 98,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D62/84": {
+      "code": "H10D62/84",
+      "level": 2,
+      "parent": "H10D62/80",
+      "ja": "セレンまたはテルルのみであるもの［２０２５．０１］<br><br><b><ul>注</ul></b><br>このグループは，セレンまたはテルルの化合物を包含しない。［２０２５．０１］",
+      "en": "being selenium or tellurium only; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This group <u>does not cover</u> chemical compounds of selenium or of tellurium.</li></ul>",
+      "count": 6,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D62/85": {
+      "code": "H10D62/85",
+      "level": 2,
+      "parent": "H10D62/80",
+      "ja": "ＩＩＩーＶ族材料であるもの，例．ＧａＡｓ［２０２５．０１］",
+      "en": "being Group III-V materials, e.g. GaAs",
+      "count": 753,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D62/852": {
+      "code": "H10D62/852",
+      "level": 3,
+      "parent": "H10D62/85",
+      "ja": "３つ以上の元素からなるＩＩＩーＶ族材料であるもの，例．ＡｌＧａＮまたはＩｎＡｓＳｂＰ［２０２５．０１］",
+      "en": "being Group III-V materials comprising three or more elements, e.g. AlGaN or InAsSbP",
+      "count": 51,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D62/854": {
+      "code": "H10D62/854",
+      "level": 3,
+      "parent": "H10D62/85",
+      "ja": "さらにドーパントにも特徴のあるもの［２０２５．０１］",
+      "en": "further characterised by the dopants",
+      "count": 88,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D62/86": {
+      "code": "H10D62/86",
+      "level": 2,
+      "parent": "H10D62/80",
+      "ja": "ＩＩーＶＩ族材料であるもの，例．ＺｎＯ［２０２５．０１］",
+      "en": "being Group II-VI materials, e.g. ZnO",
+      "count": 19,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D62/862": {
+      "code": "H10D62/862",
+      "level": 3,
+      "parent": "H10D62/86",
+      "ja": "３つ以上の元素からなるＩＩーＶＩ族材料であるもの，例．ＣｄＺｎＴｅ［２０２５．０１］",
+      "en": "being Group II-VI materials comprising three or more elements, e.g. CdZnTe",
+      "count": 3,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D62/864": {
+      "code": "H10D62/864",
+      "level": 3,
+      "parent": "H10D62/86",
+      "ja": "さらにドーパントにも特徴のあるもの［２０２５．０１］",
+      "en": "further characterised by the dopants",
+      "count": 0,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D64/00": {
+      "code": "H10D64/00",
+      "level": 0,
+      "parent": "H10D",
+      "ja": "電位障壁を有する装置の電極［２０２５．０１］",
+      "en": "Electrodes of devices having potential barriers",
+      "count": 782,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D64/01": {
+      "code": "H10D64/01",
+      "level": 1,
+      "parent": "H10D64/00",
+      "ja": "製造または処理［２０２５．０１］",
+      "en": "Manufacture or treatment",
+      "count": 1900,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D64/20": {
+      "code": "H10D64/20",
+      "level": 1,
+      "parent": "H10D64/00",
+      "ja": "形状，相対的な大きさまたは配置に特徴のある電極［２０２５．０１］",
+      "en": "Electrodes characterised by their shapes, relative sizes or dispositions",
+      "count": 528,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D64/23": {
+      "code": "H10D64/23",
+      "level": 2,
+      "parent": "H10D64/20",
+      "ja": "整流，増幅，発振またはスイッチされる電流を流す電極，例．ソース，ドレイン，アノードまたはカソード［２０２５．０１］",
+      "en": "Electrodes carrying the current to be rectified, amplified, oscillated or switched, e.g. sources, drains, anodes or cathodes",
+      "count": 1399,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D64/27": {
+      "code": "H10D64/27",
+      "level": 2,
+      "parent": "H10D64/20",
+      "ja": "整流，増幅，発振またはスイッチされる電流を流さない電極，例．ゲート［２０２５．０１］",
+      "en": "Electrodes not carrying the current to be rectified, amplified, oscillated or switched, e.g. gates",
+      "count": 3359,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D64/60": {
+      "code": "H10D64/60",
+      "level": 1,
+      "parent": "H10D64/00",
+      "ja": "材料に特徴のある電極［２０２５．０１］",
+      "en": "Electrodes characterised by their materials",
+      "count": 333,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D64/62": {
+      "code": "H10D64/62",
+      "level": 2,
+      "parent": "H10D64/60",
+      "ja": "半導体とオーミック接続された電極［２０２５．０１］",
+      "en": "Electrodes ohmically coupled to a semiconductor",
+      "count": 517,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D64/64": {
+      "code": "H10D64/64",
+      "level": 2,
+      "parent": "H10D64/60",
+      "ja": "半導体に対するショットキー障壁を備える電極［２０２５．０１］",
+      "en": "Electrodes comprising a Schottky barrier to a semiconductor",
+      "count": 313,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D64/66": {
+      "code": "H10D64/66",
+      "level": 2,
+      "parent": "H10D64/60",
+      "ja": "絶縁体を介して半導体と容量結合された導体を有する電極，例．ＭＩＳ電極［２０２５．０１］",
+      "en": "Electrodes having a conductor capacitively coupled to a semiconductor by an insulator, e.g. MIS electrodes",
+      "count": 627,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D64/68": {
+      "code": "H10D64/68",
+      "level": 3,
+      "parent": "H10D64/66",
+      "ja": "絶縁体，例．ゲート絶縁体，に特徴のあるもの［２０２５．０１］",
+      "en": "characterised by the insulator, e.g. by the gate insulator",
+      "count": 610,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D80/00": {
+      "code": "H10D80/00",
+      "level": 0,
+      "parent": "H10D",
+      "ja": "このサブクラスに包含される，少なくとも１つの装置を備える，複数の装置の組立体［２０２５．０１］",
+      "en": "Assemblies of multiple devices comprising at least one device covered by this subclass",
+      "count": 91,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D80/20": {
+      "code": "H10D80/20",
+      "level": 1,
+      "parent": "H10D80/00",
+      "ja": "その少なくとも１つの装置がグループＨ１０Ｄ１／００～Ｈ１０Ｄ４８／００に包含されるもの，例．キャパシタ，パワー電界効果トランジスタまたはショットキーダイオードを含む組立体［２０２５．０１］",
+      "en": "the at least one device being covered by groups <b>H10D1/00 to H10D48/00</b> , e.g. assemblies comprising capacitors, power FETs or Schottky diodes",
+      "count": 769,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D80/30": {
+      "code": "H10D80/30",
+      "level": 1,
+      "parent": "H10D80/00",
+      "ja": "その少なくとも１つの装置がグループＨ１０Ｄ８４／００～Ｈ１０Ｄ８６／００に包含されるもの，例．集積回路のプロセッサのチップを含む組立体［２０２５．０１］",
+      "en": "the at least one device being covered by groups <b>H10D84/00 to H10D86/00</b> , e.g. assemblies comprising integrated circuit processor chips",
+      "count": 623,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D84/00": {
+      "code": "H10D84/00",
+      "level": 0,
+      "parent": "H10D",
+      "ja": "半導体層のみを備える半導体基板内または上，例．Ｓｉウェーハ上またはＳｉウェーハ上のＧａＡｓ上，に形成される集積装置［２０２５．０１］<br><br><b><ul>注</ul></b><br>このグループでは，装置の製造または処理が新規かつ非自明であるとみなされる場合は，当該装置それ自身も分類する。［２０２５．０１］",
+      "en": "Integrated devices formed in or on semiconductor substrates that comprise only semiconducting layers, e.g. on Si wafers or on GaAs-on-Si wafers; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this group, when the manufacture or treatment of a device is determined to be novel and non-obvious, the device itself is also classified.</li></ul>",
+      "count": 489,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D84/01": {
+      "code": "H10D84/01",
+      "level": 1,
+      "parent": "H10D84/00",
+      "ja": "製造または処理［２０２５．０１］",
+      "en": "Manufacture or treatment",
+      "count": 1866,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D84/02": {
+      "code": "H10D84/02",
+      "level": 2,
+      "parent": "H10D84/01",
+      "ja": "材料に基づく技術を用いることに特徴のあるもの［２０２５．０１］",
+      "en": "characterised by using material-based technologies",
+      "count": 31,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D84/03": {
+      "code": "H10D84/03",
+      "level": 3,
+      "parent": "H10D84/02",
+      "ja": "ＩＶ族技術を用いるもの，例．Ｓｉ技術またはＳｉＣ技術［２０２５．０１］",
+      "en": "using Group IV technology, e.g. silicon technology or silicon-carbide [SiC] technology",
+      "count": 2837,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D84/05": {
+      "code": "H10D84/05",
+      "level": 3,
+      "parent": "H10D84/02",
+      "ja": "ＩＩＩーＶ族技術を用いるもの［２０２５．０１］",
+      "en": "using Group III-V technology",
+      "count": 101,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D84/07": {
+      "code": "H10D84/07",
+      "level": 3,
+      "parent": "H10D84/02",
+      "ja": "ＩＩーＶＩ族技術を用いるもの［２０２５．０１］",
+      "en": "using Group II-VI technology",
+      "count": 0,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D84/08": {
+      "code": "H10D84/08",
+      "level": 3,
+      "parent": "H10D84/02",
+      "ja": "複数の技術の組み合わせを用いるもの，例．Ｓｉ技術とＳｉＣ技術の両方を用いるもの，またはＳｉ技術とＩＩＩーＶ族技術を用いるもの［２０２５．０１］",
+      "en": "using combinations of technologies, e.g. using both Si and SiC technologies or using both Si and Group III-V technologies",
+      "count": 46,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D84/40": {
+      "code": "H10D84/40",
+      "level": 1,
+      "parent": "H10D84/00",
+      "ja": "グループＨ１０Ｄ１２／００またはＨ１０Ｄ３０／００に包含される少なくとも１つの構成部品と，グループＨ１０Ｄ１０／００またはＨ１０Ｄ１８／００に包含される少なくとも１つの構成部品との集積に特徴のあるもの，例．バイポーラトランジスタと絶縁ゲート電界効果トランジスタの集積［２０２５．０１］",
+      "en": "characterised by the integration of at least one component covered by groups <b>H10D12/00</b> or <b>H10D30/00</b> with at least one component covered by groups <b>H10D10/00</b> or <b>H10D18/00</b>, e.g. integration of IGFETs with BJTs",
+      "count": 568,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D84/60": {
+      "code": "H10D84/60",
+      "level": 1,
+      "parent": "H10D84/00",
+      "ja": "グループＨ１０Ｄ１０／００またはＨ１０Ｄ１８／００に包含される少なくとも１つの構成部品の集積に特徴のあるもの，例．バイポーラトランジスタの集積（Ｈ１０Ｄ８４／４０が優先）［２０２５．０１］",
+      "en": "characterised by the integration of at least one component covered by groups <b>H10D10/00</b> or <b>H10D18/00</b>, e.g. integration of BJTs(<b>H10D84/40</b> takes precedence)",
+      "count": 105,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D84/63": {
+      "code": "H10D84/63",
+      "level": 2,
+      "parent": "H10D84/60",
+      "ja": "縦型バイポーラトランジスタと横型バイポーラトランジスタとの組み合わせ［２０２５．０１］",
+      "en": "Combinations of vertical and lateral BJTs",
+      "count": 1,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D84/65": {
+      "code": "H10D84/65",
+      "level": 2,
+      "parent": "H10D84/60",
+      "ja": "集積注入論理［ＩＩＬ］［２０２５．０１］",
+      "en": "Integrated injection logic",
+      "count": 1,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D84/67": {
+      "code": "H10D84/67",
+      "level": 2,
+      "parent": "H10D84/60",
+      "ja": "相補型バイポーラトランジスタ［２０２５．０１］",
+      "en": "Complementary BJTs",
+      "count": 6,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D84/80": {
+      "code": "H10D84/80",
+      "level": 1,
+      "parent": "H10D84/00",
+      "ja": "グループＨ１０Ｄ１２／００またはＨ１０Ｄ３０／００に包含される少なくとも１つの構成部品の集積に特徴のあるもの，例．絶縁ゲート電界効果トランジスタの集積（Ｈ１０Ｄ８４／４０が優先）［２０２５．０１］",
+      "en": "characterised by the integration of at least one component covered by groups <b>H10D12/00</b> or <b>H10D30/00</b>, e.g. integration of IGFETs(<b>H10D84/40</b> takes precedence)",
+      "count": 1275,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D84/82": {
+      "code": "H10D84/82",
+      "level": 2,
+      "parent": "H10D84/80",
+      "ja": "電界効果構成部品のみを集積するもの［２０２５．０１］",
+      "en": "of only field-effect components",
+      "count": 169,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D84/83": {
+      "code": "H10D84/83",
+      "level": 3,
+      "parent": "H10D84/82",
+      "ja": "絶縁ゲート電界効果トランジスタのみを集積するもの［２０２５．０１］",
+      "en": "of only insulated-gate FETs [IGFET]",
+      "count": 2381,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D84/84": {
+      "code": "H10D84/84",
+      "level": 4,
+      "parent": "H10D84/83",
+      "ja": "エンハンスメントモードの絶縁ゲート電界効果トランジスタおよびデプレッションモードの絶縁ゲート電界効果トランジスタの組み合わせ［２０２５．０１］",
+      "en": "Combinations of enhancement-mode IGFETs and depletion-mode IGFETs",
+      "count": 31,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D84/85": {
+      "code": "H10D84/85",
+      "level": 4,
+      "parent": "H10D84/83",
+      "ja": "相補型絶縁ゲート電界効果トランジスタ，例．ＣＭＯＳ［２０２５．０１］",
+      "en": "Complementary IGFETs, e.g. CMOS",
+      "count": 1898,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D84/86": {
+      "code": "H10D84/86",
+      "level": 2,
+      "parent": "H10D84/80",
+      "ja": "ショットキー障壁ゲート電界効果トランジスタを集積するもの［２０２５．０１］",
+      "en": "of Schottky-barrier gate FETs",
+      "count": 7,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D84/87": {
+      "code": "H10D84/87",
+      "level": 2,
+      "parent": "H10D84/80",
+      "ja": "ＰＮ接合ゲート電界効果トランジスタを集積するもの［２０２５．０１］",
+      "en": "of PN-junction gate FETs",
+      "count": 9,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D84/90": {
+      "code": "H10D84/90",
+      "level": 1,
+      "parent": "H10D84/00",
+      "ja": "マスタースライス集積回路［２０２５．０１］",
+      "en": "Masterslice integrated circuits",
+      "count": 109,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D86/00": {
+      "code": "H10D86/00",
+      "level": 0,
+      "parent": "H10D",
+      "ja": "絶縁性または導電性基板内または上に形成される集積装置，例．ＳＯＩ基板内，またはステンレスもしくはガラス基板上に形成されるもの［２０２５．０１］<br><br><b><ul>注</ul></b><br>このグループでは，装置の製造または処理が新規かつ非自明であるとみなされる場合は，当該装置それ自身も分類する。［２０２５．０１］",
+      "en": "Integrated devices formed in or on insulating or conducting substrates, e.g. formed in silicon-on-insulator [SOI] substrates or on stainless steel or glass substrates; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this group, when the manufacture or treatment of a device is determined to be novel and non-obvious, the device itself is also classified.</li></ul>",
+      "count": 1246,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D86/01": {
+      "code": "H10D86/01",
+      "level": 1,
+      "parent": "H10D86/00",
+      "ja": "製造または処理［２０２５．０１］",
+      "en": "Manufacture or treatment",
+      "count": 938,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D86/03": {
+      "code": "H10D86/03",
+      "level": 2,
+      "parent": "H10D86/01",
+      "ja": "基板がサファイアからなるもの，例．ＳＯＳ［２０２５．０１］",
+      "en": "wherein the substrate comprises sapphire, e.g. silicon-on-sapphire [SOS]",
+      "count": 1,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D86/40": {
+      "code": "H10D86/40",
+      "level": 1,
+      "parent": "H10D86/00",
+      "ja": "複数の薄膜トランジスタに特徴のあるもの［２０２５．０１］",
+      "en": "characterised by multiple TFTs",
+      "count": 1851,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D86/60": {
+      "code": "H10D86/60",
+      "level": 2,
+      "parent": "H10D86/40",
+      "ja": "複数の薄膜トランジスタがアクティブマトリクス中に存在するもの［２０２５．０１］",
+      "en": "wherein the TFTs are in active matrices",
+      "count": 2439,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D86/80": {
+      "code": "H10D86/80",
+      "level": 1,
+      "parent": "H10D86/00",
+      "ja": "複数の受動構成部品，例．抵抗器，キャパシタまたはインダクタ，に特徴のあるもの［２０２５．０１］",
+      "en": "characterised by multiple passive components, e.g. resistors, capacitors or inductors",
+      "count": 38,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D86/85": {
+      "code": "H10D86/85",
+      "level": 2,
+      "parent": "H10D86/80",
+      "ja": "受動構成部品のみに特徴のあるもの［２０２５．０１］",
+      "en": "characterised by only passive components",
+      "count": 54,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D87/00": {
+      "code": "H10D87/00",
+      "level": 0,
+      "parent": "H10D",
+      "ja": "同一基板上のバルク構成部品とＳＯＩまたはＳＯＳ構成部品を備える集積装置［２０２５．０１］",
+      "en": "Integrated devices comprising both bulk components and either SOI or SOS components on the same substrate",
+      "count": 125,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D88/00": {
+      "code": "H10D88/00",
+      "level": 0,
+      "parent": "H10D",
+      "ja": "３次元集積装置［２０２５．０１］",
+      "en": "Three-dimensional [3D] integrated devices",
+      "count": 386,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D89/00": {
+      "code": "H10D89/00",
+      "level": 0,
+      "parent": "H10D",
+      "ja": "グループＨ１０Ｄ８４／００～Ｈ１０Ｄ８８／００に包含されない集積装置の観点［２０２５．０１］",
+      "en": "Aspects of integrated devices not covered by groups <b>H10D84/00 to H10D88/00</b> ",
+      "count": 401,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D89/10": {
+      "code": "H10D89/10",
+      "level": 1,
+      "parent": "H10D89/00",
+      "ja": "集積装置のレイアウト［２０２５．０１］",
+      "en": "Integrated device layouts",
+      "count": 688,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D89/60": {
+      "code": "H10D89/60",
+      "level": 1,
+      "parent": "H10D89/00",
+      "ja": "電気または熱からの保護装置，例．静電放電［ＥＳＤ］からの保護回路，を備える集積装置［２０２５．０１］",
+      "en": "Integrated devices comprising arrangements for electrical or thermal protection, e.g. protection circuits against electrostatic discharge [ESD]",
+      "count": 923,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    },
+    "H10D99/00": {
+      "code": "H10D99/00",
+      "level": 0,
+      "parent": "H10D",
+      "ja": "このサブクラスの他のグループに分類されない主題事項［２０２５．０１］",
+      "en": "Subject matter not provided for in other groups of this subclass",
+      "count": 181,
+      "sourceFile": "ipc_H10D.txt",
+      "kind": "ipc"
+    }
+  }
+};

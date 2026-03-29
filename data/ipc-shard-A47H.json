@@ -1,0 +1,736 @@
+{
+  "generatedAt": "2026-03-20T02:17:45.929Z",
+  "total": 73,
+  "entries": {
+    "A47H": {
+      "code": "A47H",
+      "level": 0,
+      "parent": "A47",
+      "ja": "窓または戸の付帯設備（戸または窓の機能に関するものＥ０５；ローラ式日よけＥ０６Ｂ；戸または窓に関連した特別な配置または方法、例．換気または密閉のためのものＥ０６Ｂ７／００）<br><br><b><ul>サブクラス内の索引</ul></b><br>カーテン　２１／００，２３／００<br>吊り下げ式カーテン　１／００，２／００，７／００，１３／００，１５／００，１９／００<br>カーテンの操作　３／００，５／００，１１／００，１５／００<br>その他の窓または戸の備品　２７／００，９９／００",
+      "en": "FURNISHINGS FOR WINDOWS OR DOORS(concerned with the functioning of the door or window <b>E05</b>; roller blinds <b>E06B</b>; special arrangements or measures in connection with doors or windows, e.g. for ventilation or sealing, <b>E06B7/00</b>);<br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">CURTAINS </td><td><b><b>21/00</b>, <b>23/00</b></b></td></tr></tr><tr><td width=\"70%\">SUSPENDING CURTAINS </td><td><b><b>1/00</b>, <b>2/00</b>, <b>7/00</b>, <b>13/00</b>, <b>15/00</b>, <b>19/00</b></b></td></tr></tr><tr><td width=\"70%\">OPERATING CURTAINS </td><td><b><b>3/00</b>, <b>5/00</b>, <b>11/00</b>, <b>15/00</b></b></td></tr></tr><tr><td width=\"70%\">OTHER WINDOW OR DOOR FURNISHINGS </td><td><b><b>27/00</b>, <b>99/00</b></b></td></tr></tr></table>",
+      "count": 1219,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A47": {
+      "code": "A47",
+      "level": 0,
+      "parent": "A",
+      "ja": "家具；家庭用品または家庭用設備；コーヒーひき；香辛料ひき；真空掃除機一般<br><br><b><ul>注</ul></b><br>このクラスにおいては，下記の用語は以下に示す意味で用いる：<br>―“家具”はイーゼルまたはスタンド，例．黒板用または製図テーブル，をも包含する。",
+      "en": "FURNITURE; DOMESTIC ARTICLES OR APPLIANCES; COFFEE MILLS; SPICE MILLS; SUCTION CLEANERS IN GENERAL; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this class, the following term is used with the meaning indicated:<ul><li>\"furniture\" covers also easels or stands, e.g. for blackboards or drawing tables.</li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A": {
+      "code": "A",
+      "level": 0,
+      "parent": null,
+      "ja": "生活必需品",
+      "en": "HUMAN NECESSITIES",
+      "count": 0,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A47H1/00": {
+      "code": "A47H1/00",
+      "level": 0,
+      "parent": "A47H",
+      "ja": "カーテン吊り下げ装置",
+      "en": "Curtain suspension devices",
+      "count": 1699,
+      "sourceFile": "ipc_A47H.txt",
+      "kind": "ipc"
+    },
+    "A47H1/02": {
+      "code": "A47H1/02",
+      "level": 1,
+      "parent": "A47H1/00",
+      "ja": "カーテン棒",
+      "en": "Curtain rods",
+      "count": 2154,
+      "sourceFile": "ipc_A47H.txt",
+      "kind": "ipc"
+    },
+    "A47H1/022": {
+      "code": "A47H1/022",
+      "level": 2,
+      "parent": "A47H1/02",
+      "ja": "伸縮可能なもの",
+      "en": "extensible",
+      "count": 997,
+      "sourceFile": "ipc_A47H.txt",
+      "kind": "ipc"
+    },
+    "A47H1/03": {
+      "code": "A47H1/03",
+      "level": 2,
+      "parent": "A47H1/02",
+      "ja": "戸または窓とともに回転するように回転可能に取りつけられたもの",
+      "en": "pivotably mounted for rotation with doors or windows",
+      "count": 56,
+      "sourceFile": "ipc_A47H.txt",
+      "kind": "ipc"
+    },
+    "A47H1/04": {
+      "code": "A47H1/04",
+      "level": 1,
+      "parent": "A47H1/00",
+      "ja": "カーテンレール",
+      "en": "Curtain rails",
+      "count": 3604,
+      "sourceFile": "ipc_A47H.txt",
+      "kind": "ipc"
+    },
+    "A47H1/06": {
+      "code": "A47H1/06",
+      "level": 2,
+      "parent": "A47H1/04",
+      "ja": "固定されたもの",
+      "en": "fixed",
+      "count": 847,
+      "sourceFile": "ipc_A47H.txt",
+      "kind": "ipc"
+    },
+    "A47H1/08": {
+      "code": "A47H1/08",
+      "level": 2,
+      "parent": "A47H1/04",
+      "ja": "伸縮可能のもの",
+      "en": "extensible",
+      "count": 682,
+      "sourceFile": "ipc_A47H.txt",
+      "kind": "ipc"
+    },
+    "A47H1/10": {
+      "code": "A47H1/10",
+      "level": 1,
+      "parent": "A47H1/00",
+      "ja": "カーテン棒またはレールを取り付ける装置",
+      "en": "Means for mounting curtain rods or rails",
+      "count": 950,
+      "sourceFile": "ipc_A47H.txt",
+      "kind": "ipc"
+    },
+    "A47H1/102": {
+      "code": "A47H1/102",
+      "level": 2,
+      "parent": "A47H1/10",
+      "ja": "カーテン棒を取りつけるためのもの（Ａ４７Ｈ１／１２，Ａ４７Ｈ１／１４が優先）",
+      "en": "for mounting curtain rods(<b>A47H1/12</b>, <b>A47H1/14</b> take precedence)",
+      "count": 1033,
+      "sourceFile": "ipc_A47H.txt",
+      "kind": "ipc"
+    },
+    "A47H1/104": {
+      "code": "A47H1/104",
+      "level": 2,
+      "parent": "A47H1/10",
+      "ja": "カーテンレールを取り付けるためのもの（Ａ４７Ｈ１／１２，Ａ４７Ｈ１／１４が優先）",
+      "en": "for mounting curtain rails(<b>A47H1/12</b>, <b>A47H1/14</b> take precedence)",
+      "count": 1086,
+      "sourceFile": "ipc_A47H.txt",
+      "kind": "ipc"
+    },
+    "A47H1/12": {
+      "code": "A47H1/12",
+      "level": 2,
+      "parent": "A47H1/10",
+      "ja": "調節可能な取り付け具",
+      "en": "Adjustable mountings",
+      "count": 175,
+      "sourceFile": "ipc_A47H.txt",
+      "kind": "ipc"
+    },
+    "A47H1/122": {
+      "code": "A47H1/122",
+      "level": 3,
+      "parent": "A47H1/12",
+      "ja": "カーテン棒用のもの",
+      "en": "for curtain rods",
+      "count": 594,
+      "sourceFile": "ipc_A47H.txt",
+      "kind": "ipc"
+    },
+    "A47H1/124": {
+      "code": "A47H1/124",
+      "level": 3,
+      "parent": "A47H1/12",
+      "ja": "カーテンレール用のもの",
+      "en": "for curtain rails",
+      "count": 403,
+      "sourceFile": "ipc_A47H.txt",
+      "kind": "ipc"
+    },
+    "A47H1/13": {
+      "code": "A47H1/13",
+      "level": 2,
+      "parent": "A47H1/10",
+      "ja": "ブラケットまたは巻き込み日よけおよび引出し可能なカーテンに調節可能に取り付けられる取り付け具",
+      "en": "Brackets or adjustable mountings for both roller blinds and drawable curtains",
+      "count": 805,
+      "sourceFile": "ipc_A47H.txt",
+      "kind": "ipc"
+    },
+    "A47H1/14": {
+      "code": "A47H1/14",
+      "level": 2,
+      "parent": "A47H1/10",
+      "ja": "棒またはレールを支持するブラケット",
+      "en": "Brackets for supporting rods or rails",
+      "count": 478,
+      "sourceFile": "ipc_A47H.txt",
+      "kind": "ipc"
+    },
+    "A47H1/142": {
+      "code": "A47H1/142",
+      "level": 3,
+      "parent": "A47H1/14",
+      "ja": "棒を支持するためのもの",
+      "en": "for supporting rods",
+      "count": 981,
+      "sourceFile": "ipc_A47H.txt",
+      "kind": "ipc"
+    },
+    "A47H1/144": {
+      "code": "A47H1/144",
+      "level": 3,
+      "parent": "A47H1/14",
+      "ja": "レールを支持するためのもの",
+      "en": "for supporting rails",
+      "count": 835,
+      "sourceFile": "ipc_A47H.txt",
+      "kind": "ipc"
+    },
+    "A47H1/16": {
+      "code": "A47H1/16",
+      "level": 2,
+      "parent": "A47H1/10",
+      "ja": "針金製のカーテン棒保持具",
+      "en": "Holders made of wire for curtain rods",
+      "count": 81,
+      "sourceFile": "ipc_A47H.txt",
+      "kind": "ipc"
+    },
+    "A47H1/18": {
+      "code": "A47H1/18",
+      "level": 1,
+      "parent": "A47H1/00",
+      "ja": "その他のカーテン吊り下げ装置，例．針金，ひも",
+      "en": "Other curtain suspension devices, e.g. wire, cord",
+      "count": 656,
+      "sourceFile": "ipc_A47H.txt",
+      "kind": "ipc"
+    },
+    "A47H1/19": {
+      "code": "A47H1/19",
+      "level": 2,
+      "parent": "A47H1/18",
+      "ja": "針金，ひもまたは類似物を取付ける装置",
+      "en": "Devices for mounting the wire, cord, or the like",
+      "count": 175,
+      "sourceFile": "ipc_A47H.txt",
+      "kind": "ipc"
+    },
+    "A47H2/00": {
+      "code": "A47H2/00",
+      "level": 0,
+      "parent": "A47H",
+      "ja": "ペルメットまたは類似物",
+      "en": "Pelmets or the like",
+      "count": 1507,
+      "sourceFile": "ipc_A47H.txt",
+      "kind": "ipc"
+    },
+    "A47H2/02": {
+      "code": "A47H2/02",
+      "level": 1,
+      "parent": "A47H2/00",
+      "ja": "伸縮可能なもの",
+      "en": "extensible",
+      "count": 111,
+      "sourceFile": "ipc_A47H.txt",
+      "kind": "ipc"
+    },
+    "A47H3/00": {
+      "code": "A47H3/00",
+      "level": 0,
+      "parent": "A47H",
+      "ja": "カーテンまたは類似物の帯またはひもを定着締付け，または誘導する装置",
+      "en": "Fastening, clamping, or guiding devices for the bands or cords of curtains or the like",
+      "count": 375,
+      "sourceFile": "ipc_A47H.txt",
+      "kind": "ipc"
+    },
+    "A47H3/02": {
+      "code": "A47H3/02",
+      "level": 1,
+      "parent": "A47H3/00",
+      "ja": "帯またはひもを定着，締付け，または誘導する装置",
+      "en": "Fastening, clamping, or guiding devices for bands or cords",
+      "count": 470,
+      "sourceFile": "ipc_A47H.txt",
+      "kind": "ipc"
+    },
+    "A47H3/04": {
+      "code": "A47H3/04",
+      "level": 2,
+      "parent": "A47H3/02",
+      "ja": "自動ひも締付け",
+      "en": "Automatic cord clamps",
+      "count": 39,
+      "sourceFile": "ipc_A47H.txt",
+      "kind": "ipc"
+    },
+    "A47H3/06": {
+      "code": "A47H3/06",
+      "level": 2,
+      "parent": "A47H3/02",
+      "ja": "非自動ひも締付け",
+      "en": "Non-automatic cord clamps",
+      "count": 26,
+      "sourceFile": "ipc_A47H.txt",
+      "kind": "ipc"
+    },
+    "A47H3/08": {
+      "code": "A47H3/08",
+      "level": 2,
+      "parent": "A47H3/02",
+      "ja": "２本のひもを有するカーテン用ひも引張り装置",
+      "en": "Cord-tensioning devices for curtains with two cords",
+      "count": 66,
+      "sourceFile": "ipc_A47H.txt",
+      "kind": "ipc"
+    },
+    "A47H3/10": {
+      "code": "A47H3/10",
+      "level": 2,
+      "parent": "A47H3/02",
+      "ja": "ひも誘導器",
+      "en": "Cord guides",
+      "count": 132,
+      "sourceFile": "ipc_A47H.txt",
+      "kind": "ipc"
+    },
+    "A47H3/12": {
+      "code": "A47H3/12",
+      "level": 2,
+      "parent": "A47H3/02",
+      "ja": "帯条保持具；帯条ローラ；帯条引張り装置",
+      "en": "Belt strap holders; Belt strap rollers; Belt strap tensioning devices",
+      "count": 157,
+      "sourceFile": "ipc_A47H.txt",
+      "kind": "ipc"
+    },
+    "A47H5/00": {
+      "code": "A47H5/00",
+      "level": 0,
+      "parent": "A47H",
+      "ja": "たれ幕，カーテンまたは類似物を引き出す装置",
+      "en": "Devices for drawing draperies, curtains, or the like",
+      "count": 1174,
+      "sourceFile": "ipc_A47H.txt",
+      "kind": "ipc"
+    },
+    "A47H5/02": {
+      "code": "A47H5/02",
+      "level": 1,
+      "parent": "A47H5/00",
+      "ja": "カーテン開閉装置",
+      "en": "Devices for opening and closing curtains",
+      "count": 6375,
+      "sourceFile": "ipc_A47H.txt",
+      "kind": "ipc"
+    },
+    "A47H5/03": {
+      "code": "A47H5/03",
+      "level": 2,
+      "parent": "A47H5/02",
+      "ja": "誘導手段および押引棒を有する装置",
+      "en": "Devices with guiding means and push or draw rods",
+      "count": 307,
+      "sourceFile": "ipc_A47H.txt",
+      "kind": "ipc"
+    },
+    "A47H5/032": {
+      "code": "A47H5/032",
+      "level": 2,
+      "parent": "A47H5/02",
+      "ja": "誘導手段および引きひもを有する装置（ひもの案内滑車Ａ４７Ｈ１１／０６）",
+      "en": "Devices with guiding means and draw cords(cord pulleys <b>A47H11/06</b>)",
+      "count": 1937,
+      "sourceFile": "ipc_A47H.txt",
+      "kind": "ipc"
+    },
+    "A47H5/04": {
+      "code": "A47H5/04",
+      "level": 2,
+      "parent": "A47H5/02",
+      "ja": "レージートングを有する装置",
+      "en": "Devices with lazy-tongs",
+      "count": 71,
+      "sourceFile": "ipc_A47H.txt",
+      "kind": "ipc"
+    },
+    "A47H5/06": {
+      "code": "A47H5/06",
+      "level": 2,
+      "parent": "A47H5/02",
+      "ja": "棒またはスピンドルにねじ溝を設けたもの",
+      "en": "Devices with screw-threads on rods or spindles",
+      "count": 369,
+      "sourceFile": "ipc_A47H.txt",
+      "kind": "ipc"
+    },
+    "A47H5/08": {
+      "code": "A47H5/08",
+      "level": 1,
+      "parent": "A47H5/00",
+      "ja": "戸または窓に取付けられたたれ幕引き出し装置",
+      "en": "Devices for drawing draperies attached to the doors or windows",
+      "count": 530,
+      "sourceFile": "ipc_A47H.txt",
+      "kind": "ipc"
+    },
+    "A47H5/09": {
+      "code": "A47H5/09",
+      "level": 2,
+      "parent": "A47H5/08",
+      "ja": "戸または窓からカーテンを揺れ動かせて離れさせる装置",
+      "en": "Devices for swinging the curtains away from doors or windows",
+      "count": 100,
+      "sourceFile": "ipc_A47H.txt",
+      "kind": "ipc"
+    },
+    "A47H5/14": {
+      "code": "A47H5/14",
+      "level": 1,
+      "parent": "A47H5/00",
+      "ja": "カーテンまたは類似物を引下げる道具",
+      "en": "Apparatus for lowering curtains or the like",
+      "count": 798,
+      "sourceFile": "ipc_A47H.txt",
+      "kind": "ipc"
+    },
+    "A47H7/00": {
+      "code": "A47H7/00",
+      "level": 0,
+      "parent": "A47H",
+      "ja": "カーテン棒を持上げおよび移動させる装置",
+      "en": "Devices for putting-up and removing curtain rods",
+      "count": 189,
+      "sourceFile": "ipc_A47H.txt",
+      "kind": "ipc"
+    },
+    "A47H7/02": {
+      "code": "A47H7/02",
+      "level": 1,
+      "parent": "A47H7/00",
+      "ja": "引下げ可能のカーテン棒",
+      "en": "Curtain rods, capable of being lowered",
+      "count": 436,
+      "sourceFile": "ipc_A47H.txt",
+      "kind": "ipc"
+    },
+    "A47H11/00": {
+      "code": "A47H11/00",
+      "level": 0,
+      "parent": "A47H",
+      "ja": "カーテンの操作ひもの付属品",
+      "en": "Curtain cord appurtenances",
+      "count": 417,
+      "sourceFile": "ipc_A47H.txt",
+      "kind": "ipc"
+    },
+    "A47H11/02": {
+      "code": "A47H11/02",
+      "level": 1,
+      "parent": "A47H11/00",
+      "ja": "カーテンを操作するためにカーテンひもに取り付けたつかみ具",
+      "en": "Engaging-pieces on curtain cords for operating curtains",
+      "count": 176,
+      "sourceFile": "ipc_A47H.txt",
+      "kind": "ipc"
+    },
+    "A47H11/04": {
+      "code": "A47H11/04",
+      "level": 1,
+      "parent": "A47H11/00",
+      "ja": "端に取り付けたクリップ，例．ふさ用のもの",
+      "en": "End attachment clips, e.g. for tassels",
+      "count": 97,
+      "sourceFile": "ipc_A47H.txt",
+      "kind": "ipc"
+    },
+    "A47H11/06": {
+      "code": "A47H11/06",
+      "level": 1,
+      "parent": "A47H11/00",
+      "ja": "ひもの案内滑車",
+      "en": "Cord pulleys",
+      "count": 346,
+      "sourceFile": "ipc_A47H.txt",
+      "kind": "ipc"
+    },
+    "A47H13/00": {
+      "code": "A47H13/00",
+      "level": 0,
+      "parent": "A47H",
+      "ja": "カーテン棒またはカーテンレール上へのカーテンの取り付け",
+      "en": "Fastening curtains on curtain rods or rails",
+      "count": 1495,
+      "sourceFile": "ipc_A47H.txt",
+      "kind": "ipc"
+    },
+    "A47H13/01": {
+      "code": "A47H13/01",
+      "level": 1,
+      "parent": "A47H13/00",
+      "ja": "締付け具によるもの；フックまたはリングに取り付けた締付け具によるもの",
+      "en": "by clamps; by clamps attached to hooks or rings",
+      "count": 821,
+      "sourceFile": "ipc_A47H.txt",
+      "kind": "ipc"
+    },
+    "A47H13/02": {
+      "code": "A47H13/02",
+      "level": 1,
+      "parent": "A47H13/00",
+      "ja": "リングによるもの，例．付加的なランナーを有するもの（Ａ４７Ｈ１３／１２が優先）",
+      "en": "by rings, e.g. with additional runners(<b>A47H13/12</b> takes precedence)",
+      "count": 1177,
+      "sourceFile": "ipc_A47H.txt",
+      "kind": "ipc"
+    },
+    "A47H13/04": {
+      "code": "A47H13/04",
+      "level": 1,
+      "parent": "A47H13/00",
+      "ja": "フックによるもの，例．付加的なランナーを有するもの（Ａ４７Ｈ１３／１２が優先；特にひだ帯に適用されたフックによるものＡ４７Ｈ１３／１６）",
+      "en": "by hooks, e.g. with additional runners(<b>A47H13/12</b> takes precedence; by hooks specially adapted to pleat belts <b>A47H13/16</b>)",
+      "count": 1613,
+      "sourceFile": "ipc_A47H.txt",
+      "kind": "ipc"
+    },
+    "A47H13/06": {
+      "code": "A47H13/06",
+      "level": 1,
+      "parent": "A47H13/00",
+      "ja": "ピンによるもの，例．付加的なランナーを有するもの（Ａ４７Ｈ１３／１２が優先）",
+      "en": "by pins, e.g. with additional runners(<b>A47H13/12</b> takes precedence)",
+      "count": 106,
+      "sourceFile": "ipc_A47H.txt",
+      "kind": "ipc"
+    },
+    "A47H13/10": {
+      "code": "A47H13/10",
+      "level": 1,
+      "parent": "A47H13/00",
+      "ja": "レールローラーによるもの",
+      "en": "by rail rollers",
+      "count": 354,
+      "sourceFile": "ipc_A47H.txt",
+      "kind": "ipc"
+    },
+    "A47H13/12": {
+      "code": "A47H13/12",
+      "level": 1,
+      "parent": "A47H13/00",
+      "ja": "レール滑りによるもの",
+      "en": "by rail gliders",
+      "count": 842,
+      "sourceFile": "ipc_A47H.txt",
+      "kind": "ipc"
+    },
+    "A47H13/14": {
+      "code": "A47H13/14",
+      "level": 1,
+      "parent": "A47H13/00",
+      "ja": "ひだを作るための装置",
+      "en": "Means for forming pleats",
+      "count": 749,
+      "sourceFile": "ipc_A47H.txt",
+      "kind": "ipc"
+    },
+    "A47H13/16": {
+      "code": "A47H13/16",
+      "level": 2,
+      "parent": "A47H13/14",
+      "ja": "ひだ帯；特にひだ帯に適用したフック",
+      "en": "Pleat belts; Hooks specially adapted for pleat belts",
+      "count": 804,
+      "sourceFile": "ipc_A47H.txt",
+      "kind": "ipc"
+    },
+    "A47H15/00": {
+      "code": "A47H15/00",
+      "level": 0,
+      "parent": "A47H",
+      "ja": "カーテンをレールまたは棒上に支持するランナーまたは滑り",
+      "en": "Runners or gliders for supporting curtains on rails or rods",
+      "count": 552,
+      "sourceFile": "ipc_A47H.txt",
+      "kind": "ipc"
+    },
+    "A47H15/02": {
+      "code": "A47H15/02",
+      "level": 1,
+      "parent": "A47H15/00",
+      "ja": "ランナー",
+      "en": "Runners",
+      "count": 1758,
+      "sourceFile": "ipc_A47H.txt",
+      "kind": "ipc"
+    },
+    "A47H15/04": {
+      "code": "A47H15/04",
+      "level": 1,
+      "parent": "A47H15/00",
+      "ja": "滑り",
+      "en": "Gliders",
+      "count": 1285,
+      "sourceFile": "ipc_A47H.txt",
+      "kind": "ipc"
+    },
+    "A47H19/00": {
+      "code": "A47H19/00",
+      "level": 0,
+      "parent": "A47H",
+      "ja": "カーテンを支持するばら結び；花づな支持具",
+      "en": "Rosettes for holding curtains; Festoon holders",
+      "count": 792,
+      "sourceFile": "ipc_A47H.txt",
+      "kind": "ipc"
+    },
+    "A47H21/00": {
+      "code": "A47H21/00",
+      "level": 0,
+      "parent": "A47H",
+      "ja": "カーテン保護わく",
+      "en": "Curtain shields",
+      "count": 309,
+      "sourceFile": "ipc_A47H.txt",
+      "kind": "ipc"
+    },
+    "A47H23/00": {
+      "code": "A47H23/00",
+      "level": 0,
+      "parent": "A47H",
+      "ja": "カーテン；垂れ幕（シャワーカーテン装置Ａ４７Ｋ３／３８）",
+      "en": "Curtains; Draperies(shower curtain arrangements <b>A47K3/38</b>)",
+      "count": 2953,
+      "sourceFile": "ipc_A47H.txt",
+      "kind": "ipc"
+    },
+    "A47H23/01": {
+      "code": "A47H23/01",
+      "level": 1,
+      "parent": "A47H23/00",
+      "ja": "吊りカーテンを拡げるための底部の横木；カーテンの閉鎖を改善するための磁石，滑り留め具または類似物",
+      "en": "Bottom bars for stretching hanging curtains; Magnets, slide fasteners, or the like to improve closing of curtains",
+      "count": 1406,
+      "sourceFile": "ipc_A47H.txt",
+      "kind": "ipc"
+    },
+    "A47H23/02": {
+      "code": "A47H23/02",
+      "level": 1,
+      "parent": "A47H23/00",
+      "ja": "カーテンの形状；カーテンとして用いられる特別な材料の選択［２］",
+      "en": "Shapes of curtains; Selection of particular materials for curtains",
+      "count": 1001,
+      "sourceFile": "ipc_A47H.txt",
+      "kind": "ipc"
+    },
+    "A47H23/04": {
+      "code": "A47H23/04",
+      "level": 2,
+      "parent": "A47H23/02",
+      "ja": "カーテンの形状",
+      "en": "Shapes of curtains",
+      "count": 2197,
+      "sourceFile": "ipc_A47H.txt",
+      "kind": "ipc"
+    },
+    "A47H23/05": {
+      "code": "A47H23/05",
+      "level": 3,
+      "parent": "A47H23/04",
+      "ja": "鎖または鎖かたびらのもの；自由に吊り下げた細片または薄板のもの",
+      "en": "of chain or chain mail; of free-hanging strips or lamellae",
+      "count": 958,
+      "sourceFile": "ipc_A47H.txt",
+      "kind": "ipc"
+    },
+    "A47H23/06": {
+      "code": "A47H23/06",
+      "level": 3,
+      "parent": "A47H23/04",
+      "ja": "背後の透明または貫通部と協同する２つまたはそれ以上のカーテンからなるシステム",
+      "en": "Systems consisting of two or more co-operating curtains with transparent or perforated parts behind each other",
+      "count": 471,
+      "sourceFile": "ipc_A47H.txt",
+      "kind": "ipc"
+    },
+    "A47H23/08": {
+      "code": "A47H23/08",
+      "level": 2,
+      "parent": "A47H23/02",
+      "ja": "特別な材料を用いたもの",
+      "en": "Selection of particular materials",
+      "count": 3749,
+      "sourceFile": "ipc_A47H.txt",
+      "kind": "ipc"
+    },
+    "A47H23/10": {
+      "code": "A47H23/10",
+      "level": 3,
+      "parent": "A47H23/08",
+      "ja": "材質がプラスチックまたは類似物のもの",
+      "en": "the material being plastics or the like",
+      "count": 593,
+      "sourceFile": "ipc_A47H.txt",
+      "kind": "ipc"
+    },
+    "A47H23/12": {
+      "code": "A47H23/12",
+      "level": 3,
+      "parent": "A47H23/08",
+      "ja": "材質が紙または厚紙のもの",
+      "en": "the material being paper or cardboard",
+      "count": 72,
+      "sourceFile": "ipc_A47H.txt",
+      "kind": "ipc"
+    },
+    "A47H23/14": {
+      "code": "A47H23/14",
+      "level": 3,
+      "parent": "A47H23/08",
+      "ja": "材質が補強棒，例．木製，を有する織物のもの",
+      "en": "the material being woven textile with reinforcing bars, e.g. made of wood",
+      "count": 122,
+      "sourceFile": "ipc_A47H.txt",
+      "kind": "ipc"
+    },
+    "A47H27/00": {
+      "code": "A47H27/00",
+      "level": 0,
+      "parent": "A47H",
+      "ja": "花を保持するための箱，たな，保持具または類似の支持具（植物を支えるために改造された窓Ｅ０６Ｂ７／２８）",
+      "en": "Boxes, shelves, holders or similar supports for holding flowers(windows adapted to carry plants <b>E06B7/28</b>)",
+      "count": 773,
+      "sourceFile": "ipc_A47H.txt",
+      "kind": "ipc"
+    },
+    "A47H99/00": {
+      "code": "A47H99/00",
+      "level": 0,
+      "parent": "A47H",
+      "ja": "このサブクラスの他のグループには分類されない主題事項［２００９．０１］",
+      "en": "Subject matter not provided for in other groups of this subclass",
+      "count": 376,
+      "sourceFile": "ipc_A47H.txt",
+      "kind": "ipc"
+    }
+  }
+}

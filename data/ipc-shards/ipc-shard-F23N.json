@@ -1,0 +1,286 @@
+{
+  "generatedAt": "2026-03-20T02:17:46.898Z",
+  "total": 28,
+  "entries": {
+    "F23N": {
+      "code": "F23N",
+      "level": 0,
+      "parent": "F23",
+      "ja": "燃焼の調整または制御（燃焼が燃料または他の粒子の流体層で発生する燃焼装置に特に適合した制御装置Ｆ２３Ｃ１０／２８；固形燃料用の開放式炉を備えた家庭用ストーブの，燃焼を調節するための状態反応制御Ｆ２４Ｂ１／１８７）［８］",
+      "en": "REGULATING OR CONTROLLING COMBUSTION(control devices specially adapted for combustion apparatus in which combustion takes place in a fluidised bed of fuel or other particles <b>F23C10/28</b>; condition responsive controls for regulating combustion in domestic stoves with open fires for solid fuel <b>F24B1/187</b>)",
+      "count": 532,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F23": {
+      "code": "F23",
+      "level": 0,
+      "parent": "F",
+      "ja": "燃焼装置；燃焼方法<br><br><b><ul>注</ul></b><br>このクラスにおいては，下記の用語は以下に示す意味で用いる：<br>―“燃焼”は，可燃物質と分子酸素，例．空気中の，との間の発熱を伴う連鎖的な化学反応を意味し，大半の場合に炎または白熱の形式で光を発生させる；<br>―“燃焼室”は，それ自体で維持される火または炎を確立するために燃料がその中で燃焼するものであって，その火または炎を取り囲んでいる室を意味する；<br>―“バーナ”は，それ自体で維持される炎を発生するために流動性燃料が，または空気中に浮遊する固体燃料が，燃焼する燃焼空間へ導かれる装置を意味する；<br>―“空気”は，遊離した酸素を含み，および燃焼を促進または維持させ得る気体の混合物を意味する。",
+      "en": "COMBUSTION APPARATUS; COMBUSTION PROCESSES; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this class, the following terms or expressions are used with the meanings indicated: <ul><li>\"combustion\" means a heat-producing sequence of chemical reactions between a burnable substance and molecular oxygen, e.g. in air, in most cases generating light in the form of flames or a glow;</li><li>\"combustion chamber\" means a chamber in which fuel is burned to establish a self-supporting fire or flame and which surrounds that fire or flame;</li><li>\"burner\" means a device by which fluid fuel, or solid fuel suspended in air, is passed to a combustion space where it burns to produce a self-supporting flame;</li><li>\"air\" means a mixture of gases containing free oxygen and able to promote or support combustion.</li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F": {
+      "code": "F",
+      "level": 0,
+      "parent": null,
+      "ja": "機械工学；照明；加熱；武器；爆破",
+      "en": "MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F23N1/00": {
+      "code": "F23N1/00",
+      "level": 0,
+      "parent": "F23N",
+      "ja": "燃料供給の調整",
+      "en": "Regulating fuel supply",
+      "count": 12084,
+      "sourceFile": "ipc_F23N.txt",
+      "kind": "ipc"
+    },
+    "F23N1/02": {
+      "code": "F23N1/02",
+      "level": 1,
+      "parent": "F23N1/00",
+      "ja": "空気供給とともに行なうもの",
+      "en": "conjointly with air supply",
+      "count": 8032,
+      "sourceFile": "ipc_F23N.txt",
+      "kind": "ipc"
+    },
+    "F23N1/04": {
+      "code": "F23N1/04",
+      "level": 1,
+      "parent": "F23N1/00",
+      "ja": "空気供給および通風をともに行なうもの",
+      "en": "conjointly with air supply and with draught",
+      "count": 347,
+      "sourceFile": "ipc_F23N.txt",
+      "kind": "ipc"
+    },
+    "F23N1/06": {
+      "code": "F23N1/06",
+      "level": 1,
+      "parent": "F23N1/00",
+      "ja": "通風とともに行なうもの",
+      "en": "conjointly with draught",
+      "count": 329,
+      "sourceFile": "ipc_F23N.txt",
+      "kind": "ipc"
+    },
+    "F23N1/08": {
+      "code": "F23N1/08",
+      "level": 1,
+      "parent": "F23N1/00",
+      "ja": "他の媒体，例．ボイラ水，とともに行なうもの",
+      "en": "conjointly with another medium, e.g. boiler water",
+      "count": 3237,
+      "sourceFile": "ipc_F23N.txt",
+      "kind": "ipc"
+    },
+    "F23N1/10": {
+      "code": "F23N1/10",
+      "level": 2,
+      "parent": "F23N1/08",
+      "ja": "しかも空気供給または通風とともに行なうもの",
+      "en": "and with air supply or draught",
+      "count": 410,
+      "sourceFile": "ipc_F23N.txt",
+      "kind": "ipc"
+    },
+    "F23N3/00": {
+      "code": "F23N3/00",
+      "level": 0,
+      "parent": "F23N",
+      "ja": "空気供給または通風の調整（燃料供給とともに行なうものＦ２３Ｎ１／００）",
+      "en": "Regulating air supply or draught(conjointly with fuel supply <b>F23N1/00</b>)",
+      "count": 4111,
+      "sourceFile": "ipc_F23N.txt",
+      "kind": "ipc"
+    },
+    "F23N3/02": {
+      "code": "F23N3/02",
+      "level": 1,
+      "parent": "F23N3/00",
+      "ja": "単一の弁またはダンパを直接圧力操作することにより通風を調整するもの",
+      "en": "Regulating draught by direct pressure operation of single valves or dampers",
+      "count": 1041,
+      "sourceFile": "ipc_F23N.txt",
+      "kind": "ipc"
+    },
+    "F23N3/04": {
+      "code": "F23N3/04",
+      "level": 1,
+      "parent": "F23N3/00",
+      "ja": "感温体により単一の弁またはダンパを操作して行なうもの",
+      "en": "by operation of single valves or dampers by temperature-sensitive elements",
+      "count": 909,
+      "sourceFile": "ipc_F23N.txt",
+      "kind": "ipc"
+    },
+    "F23N3/06": {
+      "code": "F23N3/06",
+      "level": 1,
+      "parent": "F23N3/00",
+      "ja": "２またはそれ以上の弁またはダンパの結合操作によるもの（補助動力システムによるものＦ２３Ｎ３／０８）［２００６．０１］",
+      "en": "by conjoint operation of two or more valves or dampers (by power-assisted systems <b>F23N3/08</b>)",
+      "count": 626,
+      "sourceFile": "ipc_F23N.txt",
+      "kind": "ipc"
+    },
+    "F23N3/08": {
+      "code": "F23N3/08",
+      "level": 1,
+      "parent": "F23N3/00",
+      "ja": "補助動力システムによるもの",
+      "en": "by power-assisted systems",
+      "count": 1960,
+      "sourceFile": "ipc_F23N.txt",
+      "kind": "ipc"
+    },
+    "F23N5/00": {
+      "code": "F23N5/00",
+      "level": 0,
+      "parent": "F23N",
+      "ja": "燃焼制御のシステム（燃料供給の調整Ｆ２３Ｎ１／００，空気供給または通風の調整Ｆ２３Ｎ３／００）［２００６．０１］",
+      "en": "Systems for controlling combustion (regulating fuel supply <b>F23N1/00</b>;  regulating air supply or draught <b>F23N3/00</b>)",
+      "count": 9641,
+      "sourceFile": "ipc_F23N.txt",
+      "kind": "ipc"
+    },
+    "F23N5/02": {
+      "code": "F23N5/02",
+      "level": 1,
+      "parent": "F23N5/00",
+      "ja": "媒体の熱的変化または熱膨張に応答する装置を用いるもの",
+      "en": "using devices responsive to thermal changes or to thermal expansion of a medium",
+      "count": 5835,
+      "sourceFile": "ipc_F23N.txt",
+      "kind": "ipc"
+    },
+    "F23N5/04": {
+      "code": "F23N5/04",
+      "level": 2,
+      "parent": "F23N5/02",
+      "ja": "バイメタル素子を用いるもの",
+      "en": "using bimetallic elements",
+      "count": 902,
+      "sourceFile": "ipc_F23N.txt",
+      "kind": "ipc"
+    },
+    "F23N5/06": {
+      "code": "F23N5/06",
+      "level": 2,
+      "parent": "F23N5/02",
+      "ja": "ベローを用いるもの；ダイヤフラムを用いるもの",
+      "en": "using bellows; using diaphragms",
+      "count": 633,
+      "sourceFile": "ipc_F23N.txt",
+      "kind": "ipc"
+    },
+    "F23N5/08": {
+      "code": "F23N5/08",
+      "level": 2,
+      "parent": "F23N5/02",
+      "ja": "感光素子を用いるもの",
+      "en": "using light-sensitive elements",
+      "count": 3444,
+      "sourceFile": "ipc_F23N.txt",
+      "kind": "ipc"
+    },
+    "F23N5/10": {
+      "code": "F23N5/10",
+      "level": 2,
+      "parent": "F23N5/02",
+      "ja": "熱電対を用いるもの",
+      "en": "using thermocouples",
+      "count": 4910,
+      "sourceFile": "ipc_F23N.txt",
+      "kind": "ipc"
+    },
+    "F23N5/12": {
+      "code": "F23N5/12",
+      "level": 2,
+      "parent": "F23N5/02",
+      "ja": "イオン化感知素子，すなわちフレームロッド，を用いるもの",
+      "en": "using ionisation-sensitive elements, i.e. flame rods",
+      "count": 3275,
+      "sourceFile": "ipc_F23N.txt",
+      "kind": "ipc"
+    },
+    "F23N5/14": {
+      "code": "F23N5/14",
+      "level": 2,
+      "parent": "F23N5/02",
+      "ja": "感熱抵抗体を用いるもの",
+      "en": "using thermo-sensitive resistors",
+      "count": 2365,
+      "sourceFile": "ipc_F23N.txt",
+      "kind": "ipc"
+    },
+    "F23N5/16": {
+      "code": "F23N5/16",
+      "level": 1,
+      "parent": "F23N5/00",
+      "ja": "騒音を感知する検出器を用いるもの",
+      "en": "using noise-sensitive detectors",
+      "count": 385,
+      "sourceFile": "ipc_F23N.txt",
+      "kind": "ipc"
+    },
+    "F23N5/18": {
+      "code": "F23N5/18",
+      "level": 1,
+      "parent": "F23N5/00",
+      "ja": "空気または燃料の流れの割合を感知する検出器を用いるもの",
+      "en": "using detectors sensitive to rate of flow of air or fuel",
+      "count": 3943,
+      "sourceFile": "ipc_F23N.txt",
+      "kind": "ipc"
+    },
+    "F23N5/20": {
+      "code": "F23N5/20",
+      "level": 1,
+      "parent": "F23N5/00",
+      "ja": "電気的手段，例．遅延継電器の使用，によって決まるタイムプログラムをもつもの［２００６．０１］",
+      "en": "with a time program acting through electrical means, e.g. using time-delay relays",
+      "count": 6231,
+      "sourceFile": "ipc_F23N.txt",
+      "kind": "ipc"
+    },
+    "F23N5/22": {
+      "code": "F23N5/22",
+      "level": 1,
+      "parent": "F23N5/00",
+      "ja": "機械的手段，例．カムの使用，によって決まるタイムプログラムをもつもの［２００６．０１］",
+      "en": "with a time program acting through mechanical means, e.g. using cams",
+      "count": 1108,
+      "sourceFile": "ipc_F23N.txt",
+      "kind": "ipc"
+    },
+    "F23N5/24": {
+      "code": "F23N5/24",
+      "level": 1,
+      "parent": "F23N5/00",
+      "ja": "異常または望ましくない事態発生の予防，すなわち安全装置（Ｆ２３Ｎ５／０２～Ｆ２３Ｎ５／１８が優先）",
+      "en": "Preventing development of abnormal or undesired conditions, i.e. safety arrangements(<b>F23N5/02 to F23N5/18</b>  take precedence)",
+      "count": 17159,
+      "sourceFile": "ipc_F23N.txt",
+      "kind": "ipc"
+    },
+    "F23N5/26": {
+      "code": "F23N5/26",
+      "level": 1,
+      "parent": "F23N5/00",
+      "ja": "細部",
+      "en": "Details",
+      "count": 4797,
+      "sourceFile": "ipc_F23N.txt",
+      "kind": "ipc"
+    }
+  }
+}

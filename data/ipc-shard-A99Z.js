@@ -1,0 +1,46 @@
+window.IPC_SHARD_A99Z = {
+  "generatedAt": "2026-03-20T02:17:45.979Z",
+  "total": 4,
+  "entries": {
+    "A99Z": {
+      "code": "A99Z",
+      "level": 0,
+      "parent": "A99",
+      "ja": "このセクションの中で他に分類されない主題事項［８］<br><br><b><ul>注</ul></b><br>このサブクラスは，以下の主題事項を包含する：［８］<br>（ａ）このセクションのサブクラスに包含される主題事項に分類されないが，これに最も関連しているもの，［８］<br>（ｂ）別のセクションの何れのサブクラスにも明示的に包含されないもの。［８］",
+      "en": "SUBJECT MATTER NOT OTHERWISE PROVIDED FOR IN THIS SECTION; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This subclass <u>covers</u> subject matter that:<ul><li>is not provided for, but is most closely related to, the subject matter covered by the subclasses of this section, and</li><li>is not explicitly covered by any subclass of another section.</li></ul></li></ul>",
+      "count": 6,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A99": {
+      "code": "A99",
+      "level": 0,
+      "parent": "A",
+      "ja": "このセクションの中で他に分類されない主題事項［８］",
+      "en": "SUBJECT MATTER NOT OTHERWISE PROVIDED FOR IN THIS SECTION",
+      "count": 0,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A": {
+      "code": "A",
+      "level": 0,
+      "parent": null,
+      "ja": "生活必需品",
+      "en": "HUMAN NECESSITIES",
+      "count": 0,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A99Z99/00": {
+      "code": "A99Z99/00",
+      "level": 0,
+      "parent": "A99Z",
+      "ja": "このセクションの中で他に分類されない主題事項［８］",
+      "en": "Subject matter not otherwise provided for in this section",
+      "count": 579,
+      "sourceFile": "ipc_A99Z.txt",
+      "kind": "ipc"
+    }
+  }
+};

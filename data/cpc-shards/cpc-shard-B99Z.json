@@ -1,0 +1,58 @@
+{
+  "generatedAt": "2026-03-20T02:17:57.014Z",
+  "total": 4,
+  "entries": {
+    "B99Z": {
+      "code": "B99Z",
+      "level": 5,
+      "parent": "B99",
+      "ja": "このセクションの中で他に分類されない主題事項<br><br><u>注</u><br><br>このサブクラスは，以下の主題事項を包含する：<br><br>ａ．このセクションのサブクラスに包含される主題事項に分類されないが，これに最も関連しているもの，<br>ｂ．別のセクションの何れのサブクラスにも明示的に包含されないもの。",
+      "en": "SUBJECT MATTER NOT OTHERWISE PROVIDED FOR IN THIS SECTION<br><br><u>NOTE</u><br><br>  This subclass covers subject matter that:<br><br>Is not provided for, but is most closely related to, the subject matter covered by the subclasses of this section, and<br><br>Is not explicitly covered by any subclass of another section. ",
+      "count": 0,
+      "ipcCode": "",
+      "coreCode": "",
+      "note": "",
+      "sourceFile": "cpc_B.txt",
+      "kind": "cpc"
+    },
+    "B99": {
+      "code": "B99",
+      "level": 4,
+      "parent": "B",
+      "ja": "このセクションの中で他に分類されない主題事項［８］",
+      "en": "SUBJECT MATTER NOT OTHERWISE PROVIDED FOR IN THIS SECTION",
+      "count": 0,
+      "ipcCode": "",
+      "coreCode": "",
+      "note": "",
+      "sourceFile": "cpc_B.txt",
+      "kind": "cpc"
+    },
+    "B": {
+      "code": "B",
+      "level": 2,
+      "parent": null,
+      "ja": "処理操作；運輸",
+      "en": "PERFORMING OPERATIONS; TRANSPORTING<br><br><u>NOTE</u><br><br>The following notes are meant to assist in the use of classes B01&#160;-&#160;B09; they must not be read as modifying in any way the elaborations.<br>In this sub-section, the separation of different materials, e.g. of different matter, size, or state, is predominantly found in the following subclasses: <br>B01D<br>B03B, B03C, B03D<br>B04B, B04C<br>B07B, B07C<br>The classifying characteristics of these subclasses are: <br>the physical state of the matter to be separated <br>the principle of the process used <br>particular kinds of apparatus The first of these characteristics involves six different aspects, assembled in three groups.<br>liquid/liquid or liquid/gas and gas/gas <br>solid/liquid or solid/gas <br>solid/solid<br>Theses subclasses are to be used according to the following general rules: <br>B01D is the most general class as far as separation other  than solids from solids is concerned. <br>Apparatus for separating solids from solids are covered by B03B when the process concerned is regarded as the equivalent of \"washing\" in the sense of the mining art, even if such apparatus is a pneumatic one, especially pneumatic tables or jigs. Screens PER SE are not covered by this subclass but are classified in B07B, even if they are being used in a wet process. All other apparatus for the separation of solids from solids according to dry methods are classified in B07B. <br>If the separation takes place as a result of the detection or measurement of some feature of the material or articles to be sorted it is classified in B07C. <br>It should also be noted that the separation of isotopes of the same chemical element is covered by B01D59/00, whatever process or apparatus is employed.<br>The following scheme illustrates the classification according to these rules. <br>LIQUID/LIQUID <br>      LIQUID/GAS <br>      GAS/GAS <br>  _____________________________________________________________________ <br>                                             Subclasses dealing with <br>  Operations                                   Method    Apparatus <br>  _____________________________________________________________________ <br>  General                                      B01DB01D<br>    by centrifugal force, using centrifuges <br>    or free-vortex apparatus                   B01DB04B, B04C<br>    using magnetic or electrostatic effect     B03CB03C<br>  _____________________________________________________________________ <br><br>SOLID/LIQUID <br>      SOLID/GAS <br>  _____________________________________________________________________ <br>                                             Subclasses dealing with <br>  Operations                                   Method    Apparatus <br>  _____________________________________________________________________ <br>  General                                      B01DB01D<br>    by centrifugal force                       B01DB01D<br>       using centrifuges or free-vortex <br>       apparatus                               B01DB04B, B04C<br>    using magnetic or electrostatic effect     B03CB03C<br>  _____________________________________________________________________ <br><br><br>SOLID/SOLID <br>  _____________________________________________________________________ <br>  Dry Methods <br>  _____________________________________________________________________ <br>                                             Subclasses dealing with <br>  Operations                                   Method    Apparatus <br>  _____________________________________________________________________ <br>  General for material in bulk                 B07BB07B<br>  Individual sorting                           B07CB07C<br>     Screening, sifting, pneumatic sorting     B07BB07B<br>       using pneumatic tables or jigs          B03BB03B<br>     by magnetic or electrostatic effect       B03CB03C<br>     by centrifugal force                      B07BB07B<br>       using centrifuges or free-vortex <br>       apparatus                               B07BB04B, B04C<br>  _____________________________________________________________________ <br>  Wet Methods <br>  _____________________________________________________________________ <br>                                             Subclasses dealing with <br>  Operations                                   Method    Apparatus <br>  _____________________________________________________________________ <br>  General                                      B03BB03B<br>     flotation, differential sedimentation     B03DB03D<br>     screening                                 B07BB07B<br>  _____________________________________________________________________ <br>  Combinations = dry methods - wet methods: B03B<br>  _____________________________________________________________________<br>",
+      "count": 0,
+      "ipcCode": "",
+      "coreCode": "",
+      "note": "",
+      "sourceFile": "cpc.txt",
+      "kind": "cpc"
+    },
+    "B99Z99/00": {
+      "code": "B99Z99/00",
+      "level": 7,
+      "parent": null,
+      "ja": "このセクションの中で他に分類されない主題事項",
+      "en": "Subject matter not otherwise provided for in this section",
+      "count": 1,
+      "ipcCode": "B99Z99/00",
+      "coreCode": "B99Z99/00",
+      "note": "",
+      "sourceFile": "cpc_B99Z.txt",
+      "kind": "cpc"
+    }
+  }
+}

@@ -1,0 +1,7706 @@
+window.IPC_SHARD_G06F = {
+  "generatedAt": "2026-03-20T02:17:47.082Z",
+  "total": 770,
+  "entries": {
+    "G06F": {
+      "code": "G06F",
+      "level": 0,
+      "parent": "G06",
+      "ja": "電気的デジタルデータ処理（特定の計算モデルに基づくコンピュータ・システムＧ０６Ｎ）<br><br><b><ul>注</ul></b><br>このサブクラスにおいては，下記の用語または表現は以下に示す意味で用いる：<br>―“取り扱う”とはデータの処理または転送を含む．<br>―“データ処理装置”とはグループＧ０６Ｆ７／００の下位に分類できる電気的デジタルデータプロセッサとグループＧ０６Ｆ１／００～Ｇ０６Ｆ５／００とＧ０６Ｆ９／００～Ｇ０６Ｆ１３／００の下位に分類できる一つ以上の装置との結合を意味する。<br><br><b><ul>サブクラス内の索引</ul></b><br>データ処理　７／００，１５／００－１７／００<br>入力，出力；機能要素間の相関性　３／００，１３／００<br>アドレシングまたはアロケーション　１２／００<br>変換；ソフトウェアエンジニアリング；プログラム制御；エラー検出，モニタリング　５／００，８／００，９／００，１１／００<br>パターン認識　１８／００<br>詳細　１／００<br>セキュリティ装置　２１／００<br>コンピューター支援設計［ＣＡＤ］　３０／００<br>自然言語データの取扱い　４０／００",
+      "en": "ELECTRIC DIGITAL DATA PROCESSING(computer systems based on specific computational models <b>G06N</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>In this subclass, the following terms or expressions are used with the meaning indicated:<ul><li>\"handling\" includes processing or transporting of data;</li><li>\"data processing equipment\" means an association of an electric digital data processor classifiable under group <b>G06F7/00</b>, with one or more arrangements classifiable under groups <b>G06F1/00 to G06F5/00</b>  and <b>G06F9/00 to G06F13/00</b> .</li></ul></li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">DATA PROCESSING</td><td><b><b>7/00</b>, <b>15/00 to 17/00</b> </b></td></tr></tr><tr><td width=\"70%\">INPUT, OUTPUT; INTERCONNECTIONS BETWEEN FUNCTIONAL ELEMENTS</td><td><b><b>3/00</b>; <b>13/00</b></b></td></tr></tr><tr><td width=\"70%\">ADDRESSING OR ALLOCATION</td><td><b><b>12/00</b></b></td></tr></tr><tr><td width=\"70%\">CONVERSION; SOFTWARE ENGINEERING; PROGRAM CONTROL; ERROR DETECTION, MONITORING</td><td><b><b>5/00</b>; <b>8/00</b>; <b>9/00</b>; <b>11/00</b></b></td></tr></tr><tr><td width=\"70%\">PATTERN RECOGNITION</td><td><b><b>18/00</b></b></td></tr></tr><tr><td width=\"70%\">DETAILS</td><td><b><b>1/00</b></b></td></tr></tr><tr><td width=\"70%\">SECURITY ARRANGEMENTS</td><td><b><b>21/00</b></b></td></tr></tr><tr><td width=\"70%\">COMPUTER-AIDED DESIGN [CAD]</td><td><b><b>30/00</b></b></td></tr></tr><tr><td width=\"70%\">HANDLING NATURAL LANGUAGE DATA</td><td><b><b>40/00</b></b></td></tr></tr></table>",
+      "count": 15307,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G06": {
+      "code": "G06",
+      "level": 0,
+      "parent": "G",
+      "ja": "計算または計数；計数<br><br><b><ul>注</ul></b><br>（１）このクラスは以下のものを包含する：<br>―　実際の装置またはシステム内での，現在のまたは予想される諸条件を計算するための数学的なものに関するシミュレータ；<br>―　計算を含む手段により，システムまたは装置の機能を実現するシミュレータであって，他の分類箇所がないもの；<br>―　イメージデータの処理または生成<br>（２）このクラスは以下のものを包含しない。<br>―筆記具に計算装置を結合したもの。それらはグループＢ４３Ｋ２９／０８に包含される；<br>―シミュレータから得られる制御機能一般，ただし，これはクラスＧ０５に包含されるけれども，そのような機能は，制御される装置のためのこのクラスのサブクラスに包含されることもある；<br>―シミュレータへの入力となる独立変数の測定または分析，ただし，これはＧ０１に包含される；<br>―訓練を受ける者によってなされた行動に応じて，実際に経験するような感じに似た知覚的感じを与える場合の教習具または訓練具とみなされるシミュレータ。そのようなシミュレータはクラスＧ０９に包含される；<br>―シミュレータの構成要素であってしかもなにかの装置あるいは機械と同等のもの，ただし，これはその装置また機械のための適切なサブクラスに分類し、クラスＧ０９には分類しない。<br>（３）このクラスにおいては，下記の用語または表現は以下に示す意味で用いる：<br>―　“データ”とは“情報”と同義語として用いられる。それゆえ，“情報”という用語はサブクラスＧ０６Ｃにおいて使用しない；―　“ＩＣＴ［情報通信技術］”は“ＩＴ［情報技術］”も含む；<br>―“カルキュレーティング”または“コンピューティングとは，とりわけ，数値および数値形式で表現されたデータについての演算を含む。これらの用語のうち，“コンピューティング”はクラス全体にわたって使用される；<br>―“コンピューテーション”という用語は“コンピューティング”から派生している。フランス語では“カルキュル”という用語はいずれの意味にも使用される；<br>―“シミュレータ”とは，実際の装置と同じ時間スケールを使用するかまたは拡大もしくは縮小した時間スケールで動作する装置である；<br>―“記録担体”とはシリンダ，ディスク，カード，テープ，ワイヤのような永久的に情報を保持できる物体を意味し，記録された情報に対して相対的に移動しうる感知素子によって読出しのできるものである。<br>（４）セクションＧのタイトルに続く注，特に“変量”という用語の定義については注意すること。",
+      "en": "COMPUTING OR CALCULATING;  COUNTING; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This class <u>covers</u> : <ul><li>simulators which are concerned with the mathematics of computing the existing or anticipated conditions within the real device or system;</li><li>simulators which demonstrate, by means involving computing, the function of apparatus or of a system, if no provision exists elsewhere;</li><li>image data processing or generation.</li></ul></li><li>This class <u>does not cover</u> : <ul><li>combinations of writing implements with computing devices, which are covered by group <b>B43K29/08</b>;</li><li>control functions derived from simulators, in general, which are covered by class <b>G05</b>, although such functions may be covered by the subclass of this class for the device controlled;</li><li>measurement or analysis of an individual variable to serve as an input to a simulator, which is covered by class <b>G01</b>;</li><li>simulators regarded as teaching or training devices which is the case if they give perceptible sensations having a likeness to the sensations a student would experience in reality in response to actions taken by him. Such simulators are covered by class <b>G09</b>;</li><li>components of simulators, if identical with real devices or machines, which are covered by the relevant subclass for these devices or machines and not by class <b>G09</b>.</li></ul></li><li>In this class, the following terms or expressions are used with the meanings indicated: <ul><li>\"data\" is used as the synonym of \"information\". Therefore, the term \"information\" is not used in subclass <b>G06C</b>;</li><li>\"ICT [information and communication technology]\" also covers \"IT [information technology]\";</li><li>\"calculating or computing\" includes, <u>inter alia</u>, operations on numerical values and on data expressed in numerical form. Of these terms \"computing\" is used throughout the class; \"computation\" is derived from this interpretation of \"computing\". In the French language the term \"calcul\" will serve for either term;</li><li>\"simulator\" is a device which may use the same time scale as the real device or operate on an expanded or compressed time scale. In interpreting this term models of real devices to reduced or expanded scales are not regarded as simulators;</li><li>\"record carrier\" means a body, such as a cylinder, disc, card, tape, or wire, capable of permanently holding information, which can be read-off by a sensing element movable relative to the recorded information.</li></ul></li><li>Attention is drawn to the Notes following the title of section <b>G</b>, especially as regards the definition of the term \"variable\".</li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G": {
+      "code": "G",
+      "level": 0,
+      "parent": null,
+      "ja": "物理学<br><br><b><ul>注</ul></b><br>１．このセクションにおいては，下記の用語は以下に示す意味で用いる：<br>・“変量”は名詞として，特定の実在物，例．物体，ある量の物質，光ビーム，に関し特定の瞬間に測定することの可能な特性又は特質，例．寸法，温度等の物理的状態，密度又は色等の性質，を意味する。変量が変化すると，その数値的表現は異なる時点で，異なる状態又は個々の状況において異なる値をとることもあり，また，ある状態のもとで又は実用上特定の実在物に関して一定でありうる，例．バーの長さが多くの目的のために一定とみなされる，こともある。<br>２．使用される用語または表現の定義に注意すること。このセクションのいくつかのクラスの注に使用されているものについて，特にクラスＧ０１の“測定”を参照されたい．ＩＰＣ指針パラグラフ１８７の中にあるものについて，“制御”及び“調整”の定義に参照されたい。<br>３．このセクションにおける分類は他のセクションにおいてよりもめんどうな場合があり得る，というのは，その一つは，いろいろな使用分野の差異の判別には構造上の差異又は使用形態上の差異よりも寧ろ使用者の意図における差異の方にかなりの程度影響されてしまうからであり，もう一つは，扱う主題が容易に全体として識別できる“もの”であるよりも，特性又は部品が他の主題のものと共通のものを有しているシステム又は組合わせであることが実際上多いからである。例えば，情報（例．一連の数値）をディスプレイするのは，クラスＧ０９に包含される，教育又は広告のため，クラスＧ０１に包含される，測定の結果が通知されうるため，クラスＧ０８に包含される，遠隔地点に情報を合図するため，又は遠隔地点から合図された情報を提供するためである。目的を記述するために使用する言葉は，当該装置の形態に無関係なこともあり得る特性－例えば，ディスプレイを見る者にとって望ましい効果とか，ディスプレイが遠隔地点から制御されるかどうかという特性－によって決定される。さらに，ある状態，例えば流体圧の変化に応答する装置は，その装置そのものには変更を加えずして，サブクラスＧ０１Ｌに包含される圧力又はＧ０１の他のサブクラスに包含される圧力に関連した他の何らかの状態，例．温度に関してＧ０１Ｋ，についての情報を与えるため，サブクラスＧ０７Ｃに包含される圧力または圧力発生の記録をするため，サブクラスＧ０８Ｂに包含される警報を発するため，又はクラスＧ０５に包含される他の何らかの装置を制御するために用いられることがある。<br>　本分類表は，前述したように，同一の性質のものは同一箇所に分類し得るようにしたものである。従って，技術主題が適切箇所に分類されるためには予めその真正な本質を把握することが特に必要である。",
+      "en": "PHYSICS; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this section, the following term is used with the meaning indicated: <ul><li>\"variable\" as a noun means a feature or property, e.g. a dimension, a physical condition such as temperature, a quality such as density or colour, which, in respect of a particular entity, e.g. an object, a quantity of a substance, a beam of light, and at a particular instant, is capable of being measured; the variable may change, so that its numerical expression may assume different values at different times, in different conditions or in individual cases, but may be constant in respect of a particular entity in certain conditions or for practical purposes, e.g. the length of a bar may be regarded as constant for many purposes.</li></ul></li><li>Attention is drawn to the definitions of terms or expressions used. Some appear in the notes of several of the classes in this section, see in particular the definition of \"measuring\" in class <b>G01</b>. Others appear in paragraph 187 of the Guide to the IPC, see in particular the definitions of \"control\" and \"regulation\".</li><li>Classification in this section may present more difficulty than in other sections, because the distinction between different fields of use rests to a considerable extent on differences in the intention of the user rather than on any constructional differences or differences in the manner of use, and because the subjects dealt with are often in effect systems or combinations, which have features or parts in common, rather than \"things\", which are readily distinguishable as a whole. For example, information, e.g. a set of figures, may be displayed for the purpose of education or advertising covered by class <b>G09</b>, for enabling the result of a measurement to be known covered by class <b>G01</b>, for signalling the information to a distant point or for giving information which has been signalled from a distant point covered by class <b>G08</b>. The words used to describe the purpose depend on features that may be irrelevant to the form of the apparatus concerned, for example, such features as the desired effect on the person who sees the display, or whether the display is controlled from a remote point. Again, a device which responds to some change in a condition, e.g. in the pressure of a fluid, may be used, without modification of the device itself, to give information about the pressure covered by subclass <b>G01L</b> or about some other condition linked to the pressure covered by another subclass of class <b>G01</b>, e.g. <b>G01K</b> for temperature, to make a record of the pressure or of its occurrence covered by subclass <b>G07C</b>, to give an alarm covered by subclass <b>G08B</b>, or to control another apparatus covered by class <b>G05</b>. <ul><li>The classification scheme is intended to enable things of a similar nature, as indicated above, to be classified together. It is therefore particularly necessary for the real nature of any technical subject to be decided before it can be properly classified.</li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G06F1/00": {
+      "code": "G06F1/00",
+      "level": 0,
+      "parent": "G06F",
+      "ja": "グループＧ０６Ｆ３／００～Ｇ０６Ｆ１３／００およびＧ０６Ｆ２１／００に包含されないデータ処理装置の細部（プログラム記憶式汎用計算機のアーキテクチャＧ０６Ｆ１５／７６）［２００６．０１］",
+      "en": "Details not covered by groups <b>G06F3/00 to G06F13/00</b>  and <b>G06F21/00</b>(architectures of general purpose stored program computers <b>G06F15/76</b>)",
+      "count": 39494,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F1/02": {
+      "code": "G06F1/02",
+      "level": 1,
+      "parent": "G06F1/00",
+      "ja": "デジタル型関数発生器［２００６．０１］",
+      "en": "Digital function generators",
+      "count": 3065,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F1/025": {
+      "code": "G06F1/025",
+      "level": 2,
+      "parent": "G06F1/02",
+      "ja": "二値振幅をもつ関数のためのもの，例．ウォルシュ関数のためのもの［２００６．０１］",
+      "en": "for functions having two-valued amplitude, e.g. Walsh functions",
+      "count": 292,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F1/03": {
+      "code": "G06F1/03",
+      "level": 2,
+      "parent": "G06F1/02",
+      "ja": "少なくとも一部分はテーブル・ルックアップによって作動するもの（Ｇ０６Ｆ１／０２５が優先）［２００６．０１］<br><br><b><ul>注</ul></b><br>このグループに分類されるためには，テーブルは単に係数だけでなく，所望の関数または中間の関数の関数値を含んでいなければならない［５］",
+      "en": "working, at least partly, by table look-up(<b>G06F1/025</b> takes precedence);<br><br><b><u>Note(s)</u></b><br><br><ul><li>In order to be classified in this group, the table must contain function values of the desired or an intermediate function, not merely coefficients. </li></ul>",
+      "count": 1169,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F1/035": {
+      "code": "G06F1/035",
+      "level": 3,
+      "parent": "G06F1/03",
+      "ja": "テーブルのサイズの縮小［２００６．０１］",
+      "en": "Reduction of table size",
+      "count": 380,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F1/04": {
+      "code": "G06F1/04",
+      "level": 1,
+      "parent": "G06F1/00",
+      "ja": "クロック信号またはそれから直接誘導された信号の発生または分配［２００６．０１］",
+      "en": "Generating or distributing clock signals or signals derived directly therefrom",
+      "count": 12727,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F1/06": {
+      "code": "G06F1/06",
+      "level": 2,
+      "parent": "G06F1/04",
+      "ja": "複数のクロック信号を発生するクロック発生装置［２００６．０１］",
+      "en": "Clock generators producing several clock signals",
+      "count": 3628,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F1/08": {
+      "code": "G06F1/08",
+      "level": 2,
+      "parent": "G06F1/04",
+      "ja": "クロック周波数が可変またはプログラマブルであるクロック発生装置［２００６．０１］",
+      "en": "Clock generators with changeable or programmable clock frequency",
+      "count": 4876,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F1/10": {
+      "code": "G06F1/10",
+      "level": 2,
+      "parent": "G06F1/04",
+      "ja": "クロック信号の分配［２００６．０１］",
+      "en": "Distribution of clock signals",
+      "count": 5120,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F1/12": {
+      "code": "G06F1/12",
+      "level": 2,
+      "parent": "G06F1/04",
+      "ja": "異なるクロック信号の同期［２００６．０１］",
+      "en": "Synchronisation of different clock signals",
+      "count": 5802,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F1/14": {
+      "code": "G06F1/14",
+      "level": 2,
+      "parent": "G06F1/04",
+      "ja": "時間監視装置，例．リアルタイムクロック［２００６．０１］",
+      "en": "Time supervision arrangements, e.g. real time clock",
+      "count": 4344,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F1/16": {
+      "code": "G06F1/16",
+      "level": 1,
+      "parent": "G06F1/00",
+      "ja": "構造上の細部または配置［２００６．０１］",
+      "en": "Constructional details or arrangements",
+      "count": 148947,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F1/18": {
+      "code": "G06F1/18",
+      "level": 2,
+      "parent": "G06F1/16",
+      "ja": "実装または電力の分配［２０２６．０１］",
+      "en": "Packaging or power distribution",
+      "count": 75866,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F1/183": {
+      "code": "G06F1/183",
+      "level": 3,
+      "parent": "G06F1/18",
+      "ja": "内部取付け補助具の構造，例．プリント回路基板用［２０２６．０１］",
+      "en": "Internal mounting support structures, e.g. for supporting printed circuit boards",
+      "count": 0,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F1/184": {
+      "code": "G06F1/184",
+      "level": 4,
+      "parent": "G06F1/183",
+      "ja": "マザーボードの取付け［２０２６．０１］",
+      "en": "Mounting of motherboards",
+      "count": 0,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F1/185": {
+      "code": "G06F1/185",
+      "level": 4,
+      "parent": "G06F1/183",
+      "ja": "拡張ボードの取付け［２０２６．０１］",
+      "en": "Mounting of expansion boards",
+      "count": 0,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F1/186": {
+      "code": "G06F1/186",
+      "level": 5,
+      "parent": "G06F1/185",
+      "ja": "筐体のスロットに対する拡張ボードの固定［２０２６．０１］",
+      "en": "Securing of expansion boards in correspondence to slots provided at the computer enclosure",
+      "count": 0,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F1/187": {
+      "code": "G06F1/187",
+      "level": 4,
+      "parent": "G06F1/183",
+      "ja": "固定またはリムーバブルディスクドライブの取付け［２０２６．０１］",
+      "en": "Mounting of fixed or removable disk drives",
+      "count": 0,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F1/188": {
+      "code": "G06F1/188",
+      "level": 4,
+      "parent": "G06F1/183",
+      "ja": "電源ユニットの取付け［２０２６．０１］",
+      "en": "Mounting of power supply units",
+      "count": 0,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F1/20": {
+      "code": "G06F1/20",
+      "level": 2,
+      "parent": "G06F1/16",
+      "ja": "冷却手段［２００６．０１］",
+      "en": "Cooling means",
+      "count": 92245,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F1/22": {
+      "code": "G06F1/22",
+      "level": 1,
+      "parent": "G06F1/00",
+      "ja": "ピン／ゲート比率を制限または制御する手段［２００６．０１］",
+      "en": "Means for limiting or controlling the pin/gate ratio",
+      "count": 266,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F1/24": {
+      "code": "G06F1/24",
+      "level": 1,
+      "parent": "G06F1/00",
+      "ja": "リセット手段［２００６．０１］",
+      "en": "Resetting means",
+      "count": 9333,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F1/26": {
+      "code": "G06F1/26",
+      "level": 1,
+      "parent": "G06F1/00",
+      "ja": "電力供給手段，例．電源の安定化（メモリのためのものＧ１１Ｃ）［２００６．０１］",
+      "en": "Power supply means, e.g. regulation thereof(for memories <b>G11C</b>)",
+      "count": 43737,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F1/28": {
+      "code": "G06F1/28",
+      "level": 2,
+      "parent": "G06F1/26",
+      "ja": "電源の監視，例．規定値はずれの監視による電力供給不良の検知［２００６．０１］",
+      "en": "Supervision thereof, e.g. detecting power-supply failure by out of limits supervision",
+      "count": 11030,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F1/30": {
+      "code": "G06F1/30",
+      "level": 2,
+      "parent": "G06F1/26",
+      "ja": "電力供給不良または中断，例．電源変動の際作動するための手段（リセットのためだけのものＧ０６Ｆ１／２４）［２００６．０１］",
+      "en": "Means for acting in the event of power-supply failure or interruption, e.g. power-supply fluctuations (for resetting only <b>G06F1/24</b>)",
+      "count": 9621,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F1/32": {
+      "code": "G06F1/32",
+      "level": 2,
+      "parent": "G06F1/26",
+      "ja": "電力節約のための手段［２０１９．０１］",
+      "en": "Means for saving power",
+      "count": 32799,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F1/3203": {
+      "code": "G06F1/3203",
+      "level": 3,
+      "parent": "G06F1/32",
+      "ja": "電力管理，すなわちイベントベースの省電力モードの開始［２０１９．０１］",
+      "en": "Power management, i.e. event-based initiation of a power-saving mode",
+      "count": 1715,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F1/3206": {
+      "code": "G06F1/3206",
+      "level": 4,
+      "parent": "G06F1/3203",
+      "ja": "電力状態の変化をトリガするイベント，装置またはパラメータの監視［２０１９．０１］",
+      "en": "Monitoring of events, devices or parameters that trigger a change in power modality",
+      "count": 3531,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F1/3209": {
+      "code": "G06F1/3209",
+      "level": 5,
+      "parent": "G06F1/3206",
+      "ja": "遠隔動作を監視するもの，例．電話回線またはネットワーク接続によるもの［２０１９．０１］",
+      "en": "Monitoring remote activity, e.g. over telephone lines or network connections",
+      "count": 679,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F1/3212": {
+      "code": "G06F1/3212",
+      "level": 5,
+      "parent": "G06F1/3206",
+      "ja": "バッテリーレベルを監視するもの，例．バッテリ電圧が所定値を下回ったことにより節電を開始するもの［２０１９．０１］",
+      "en": "Monitoring battery levels, e.g. power saving mode being initiated when battery voltage goes below a certain level",
+      "count": 1038,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F1/3215": {
+      "code": "G06F1/3215",
+      "level": 5,
+      "parent": "G06F1/3206",
+      "ja": "周辺装置を監視してコンピュータの節電を行うもの［２０１９．０１］",
+      "en": "Monitoring of peripheral devices",
+      "count": 782,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F1/3218": {
+      "code": "G06F1/3218",
+      "level": 6,
+      "parent": "G06F1/3215",
+      "ja": "ディスプレイ装置を監視してコンピュータの節電を行うもの［２０１９．０１］",
+      "en": "of display devices",
+      "count": 655,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F1/3221": {
+      "code": "G06F1/3221",
+      "level": 6,
+      "parent": "G06F1/3215",
+      "ja": "ディスク駆動装置を監視してコンピュータの節電を行うもの［２０１９．０１］",
+      "en": "of disk drive devices",
+      "count": 84,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F1/3225": {
+      "code": "G06F1/3225",
+      "level": 6,
+      "parent": "G06F1/3215",
+      "ja": "メモリ装置を監視してコンピュータの節電を行うもの［２０１９．０１］",
+      "en": "of memory devices",
+      "count": 526,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F1/3228": {
+      "code": "G06F1/3228",
+      "level": 5,
+      "parent": "G06F1/3206",
+      "ja": "タスクの終了を監視するもの，例．アイドルタイマ，停止コマンドまたは待ちコマンドの使用によるもの［２０１９．０１］",
+      "en": "Monitoring task completion, e.g. by use of idle timers, stop commands or wait commands",
+      "count": 804,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F1/3231": {
+      "code": "G06F1/3231",
+      "level": 5,
+      "parent": "G06F1/3206",
+      "ja": "ユーザの有無または動きを監視するもの［２０１９．０１］",
+      "en": "Monitoring the presence, absence or movement of users",
+      "count": 1305,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F1/3234": {
+      "code": "G06F1/3234",
+      "level": 4,
+      "parent": "G06F1/3203",
+      "ja": "実行される動作に特徴がある節電［２０１９．０１］",
+      "en": "Power saving characterised by the action undertaken",
+      "count": 7022,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F1/3237": {
+      "code": "G06F1/3237",
+      "level": 5,
+      "parent": "G06F1/3234",
+      "ja": "クロックの生成または供給を停止することによるもの［２０１９．０１］",
+      "en": "by disabling clock generation or distribution",
+      "count": 427,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F1/324": {
+      "code": "G06F1/324",
+      "level": 5,
+      "parent": "G06F1/3234",
+      "ja": "クロック周波数の低減によるもの［２０１９．０１］",
+      "en": "by lowering clock frequency",
+      "count": 1715,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F1/3246": {
+      "code": "G06F1/3246",
+      "level": 5,
+      "parent": "G06F1/3234",
+      "ja": "電源オフになるために起動されたソフトウェアによるもの［２０１９．０１］",
+      "en": "by software initiated power-off",
+      "count": 200,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F1/3287": {
+      "code": "G06F1/3287",
+      "level": 5,
+      "parent": "G06F1/3234",
+      "ja": "コンピュータシステムの個別の機能ユニットをオフにすることによるもの［２０１９．０１］",
+      "en": "by switching off individual functional units in the computer system",
+      "count": 3087,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F1/329": {
+      "code": "G06F1/329",
+      "level": 5,
+      "parent": "G06F1/3234",
+      "ja": "タスクスケジューリングによるもの［２０１９．０１］",
+      "en": "by task scheduling",
+      "count": 1449,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F1/3293": {
+      "code": "G06F1/3293",
+      "level": 5,
+      "parent": "G06F1/3234",
+      "ja": "消費電力の少ないプロセッサへの切替によるもの，例．サブＣＰＵ［２０１９．０１］",
+      "en": "by switching to a less power-consuming processor, e.g. sub-CPU",
+      "count": 695,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F1/3296": {
+      "code": "G06F1/3296",
+      "level": 5,
+      "parent": "G06F1/3234",
+      "ja": "供給電圧または動作電圧を下げることによるもの［２０１９．０１］",
+      "en": "by lowering the supply or operating voltage",
+      "count": 2330,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F3/00": {
+      "code": "G06F3/00",
+      "level": 0,
+      "parent": "G06F",
+      "ja": "計算機で処理しうる形式にデータを変換するための入力装置；処理ユニットから出力ユニットへデータを転送するための出力装置，例．インタフェース装置［２００６．０１］",
+      "en": "Input arrangements for transferring data to be processed into a form capable of being handled by the computer; Output arrangements for transferring data from processing unit to output unit, e.g. interface arrangements",
+      "count": 75240,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F3/01": {
+      "code": "G06F3/01",
+      "level": 1,
+      "parent": "G06F3/00",
+      "ja": "ユーザーと計算機との相互作用のための入力装置または入力と出力が結合した装置（Ｇ０６Ｆ３／１６が優先）［２００６．０１］",
+      "en": "Input arrangements or combined input and output arrangements for interaction between user and computer(<b>G06F3/16</b> takes precedence)",
+      "count": 125011,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F3/02": {
+      "code": "G06F3/02",
+      "level": 2,
+      "parent": "G06F3/01",
+      "ja": "手動で操作されるスイッチを用いる入力装置，例．キーボードまたはダイヤルを用いるもの［２００６．０１］",
+      "en": "Input arrangements using manually operated switches, e.g. using keyboards or dials",
+      "count": 63709,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F3/023": {
+      "code": "G06F3/023",
+      "level": 3,
+      "parent": "G06F3/02",
+      "ja": "情報の離散的項目をコード信号に変換するための装置，例．キーボードで発生したコードを英数字コード，オペランドコードまたは命令コードとして解釈するための装置［２００６．０１］",
+      "en": "Arrangements for converting discrete items of information into a coded form, e.g. arrangements for interpreting keyboard generated codes as alphanumeric codes, operand codes or instruction codes",
+      "count": 38643,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F3/027": {
+      "code": "G06F3/027",
+      "level": 4,
+      "parent": "G06F3/023",
+      "ja": "小数点挿入のためのもの［２００６．０１］",
+      "en": "for insertion of the decimal point",
+      "count": 109,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F3/03": {
+      "code": "G06F3/03",
+      "level": 2,
+      "parent": "G06F3/01",
+      "ja": "器具の位置または変位をコード信号に変換するための装置［２００６．０１］<br><br><b><ul>注</ul></b><br>このグループでは，ファーストプレイス優先ルールが適用される，すなわち各階層レベルにおいて，相反する指示がない限り，最初の適切な箇所に分類する。［２００６．０１］",
+      "en": "Arrangements for converting the position or the displacement of a member into a coded form; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this group, the first place priority rule is applied, i.e. at each hierarchical level, in the absence of an indication to the contrary, classification is made in the first appropriate place.   </li></ul>",
+      "count": 24869,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F3/033": {
+      "code": "G06F3/033",
+      "level": 3,
+      "parent": "G06F3/03",
+      "ja": "ユーザにより変位または位置決めされるポインティングデバイス；その付属具（変換手段によって特徴付けられたデジタイザＧ０６Ｆ３／０４１）［３，８，２０１３．０１］",
+      "en": "Pointing devices displaced or positioned by the user; Accessories therefor(digitisers characterised by the transducing means <b>G06F3/041</b>)",
+      "count": 32715,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F3/0338": {
+      "code": "G06F3/0338",
+      "level": 4,
+      "parent": "G06F3/033",
+      "ja": "デバイスの操作部位の中立位置からの限定された直線的変位または角度変位を検出するもの，例．アイソトニックまたはアイソメトリック・ジョイスティック［２０１３．０１］",
+      "en": "with detection of limited linear or angular displacement of an operating part of the device from a neutral position, e.g. isotonic or isometric joysticks",
+      "count": 3820,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F3/0346": {
+      "code": "G06F3/0346",
+      "level": 4,
+      "parent": "G06F3/033",
+      "ja": "三次元空間における，デバイスの向きまたは自由運動を検出するもの，例．３Ｄマウス，ジャイロや加速度センサや傾きセンサを使用する６自由度ポインタ［２０１３．０１］",
+      "en": "with detection of the device orientation or free movement in a three-dimensional [3D] space, e.g. 3D mice, 6-DOF [six degrees of freedom] pointers using gyroscopes, accelerometers or tilt-sensors",
+      "count": 14567,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F3/0354": {
+      "code": "G06F3/0354",
+      "level": 4,
+      "parent": "G06F3/033",
+      "ja": "デバイスまたはその操作部位と，平面または表面との間の，二次元相対運動を検出するもの，例．二次元マウス，トラックボール，ペンまたはパック［２０１３．０１］",
+      "en": "with detection of two-dimensional [2D] relative movements between the device, or an operating part thereof, and a plane or surface, e.g. 2D mice, trackballs, pens or pucks",
+      "count": 41630,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F3/0362": {
+      "code": "G06F3/0362",
+      "level": 4,
+      "parent": "G06F3/033",
+      "ja": "デバイスの操作部位の一次元の移動または回転を検出するもの，例．スクロールホイール，スライダ，ノブ，ローラーまたはベルト［２０１３．０１］",
+      "en": "with detection of one-dimensional [1D] translations or rotations of an operating part of the device, e.g. scroll wheels, sliders, knobs, rollers or belts",
+      "count": 3518,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F3/037": {
+      "code": "G06F3/037",
+      "level": 4,
+      "parent": "G06F3/033",
+      "ja": "器具の位置を検知するために陰極線管［ＣＲＴ］のラスター走査を用いるもの，例．ＣＲＴモニタと共働するライトペン［３，８，２０１３．０１］",
+      "en": "using the raster scan of a cathode-ray tube [CRT] for detecting the position of the member, e.g. light pens cooperating with CRT monitors",
+      "count": 1681,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F3/038": {
+      "code": "G06F3/038",
+      "level": 4,
+      "parent": "G06F3/033",
+      "ja": "その制御インタフェース装置，例．ドライバまたはデバイスに埋め込まれた制御回路［８，２０１３．０１］",
+      "en": "Control and interface arrangements therefor, e.g. drivers or device-embedded control circuitry",
+      "count": 22962,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F3/039": {
+      "code": "G06F3/039",
+      "level": 4,
+      "parent": "G06F3/033",
+      "ja": "その付属具，例．マウスパッド［８，２０１３．０１］",
+      "en": "Accessories therefor, e.g. mouse pads",
+      "count": 7663,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F3/041": {
+      "code": "G06F3/041",
+      "level": 3,
+      "parent": "G06F3/03",
+      "ja": "変換手段によって特徴付けられたデジタイザー，例．タッチスクリーンまたはタッチパッド用のもの［２００６．０１］",
+      "en": "Digitisers, e.g. for touch screens or touch pads, characterised by the transducing means",
+      "count": 148147,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F3/042": {
+      "code": "G06F3/042",
+      "level": 4,
+      "parent": "G06F3/041",
+      "ja": "光電子手段によるもの［２００６．０１］",
+      "en": "by opto-electronic means",
+      "count": 20971,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F3/043": {
+      "code": "G06F3/043",
+      "level": 4,
+      "parent": "G06F3/041",
+      "ja": "伝播する音波を用いるもの［２００６．０１］",
+      "en": "using propagating acoustic waves",
+      "count": 3331,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F3/044": {
+      "code": "G06F3/044",
+      "level": 4,
+      "parent": "G06F3/041",
+      "ja": "容量性手段によるもの［２００６．０１］",
+      "en": "by capacitive means",
+      "count": 47019,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F3/045": {
+      "code": "G06F3/045",
+      "level": 4,
+      "parent": "G06F3/041",
+      "ja": "抵抗性要素を用いるもの，例．１つの連続した面または接触しうるように置かれた２つの平行な面を用いるもの［２００６．０１］",
+      "en": "using resistive elements, e.g. a single continuous surface or two parallel surfaces put in contact",
+      "count": 9544,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F3/046": {
+      "code": "G06F3/046",
+      "level": 4,
+      "parent": "G06F3/041",
+      "ja": "電磁的手段によるもの［２００６．０１］",
+      "en": "by electromagnetic means",
+      "count": 5834,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F3/047": {
+      "code": "G06F3/047",
+      "level": 4,
+      "parent": "G06F3/041",
+      "ja": "組みになっているワイヤを用いるもの，例．交差ワイヤ［２００６．０１］",
+      "en": "using sets of wires, e.g. crossed wires",
+      "count": 2351,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F3/048": {
+      "code": "G06F3/048",
+      "level": 2,
+      "parent": "G06F3/01",
+      "ja": "グラフィカルユーザインタフェース［ＧＵＩ］に基づく相互作用技術［２０１３．０１］<br><br><b><ul>注</ul></b><br>このグループは，ユーザが表示されたデータと相互作用可能な手段に焦点をあてた主題事項を包含する。特定の機能と関連したデータ処理が可能な特定のアプリケーションソフトウェアまたは特定の装置を開示する文脈中で，単に標準的なＧＵＩが存在するだけの場合は，それらのアプリケーションソフトウェアまたは特定の装置と関連した適切なサブクラスに一般的に分類する。［２０１３．０１］",
+      "en": "Interaction techniques based on graphical user interfaces [GUI]; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This group <u>covers</u> subject matter where the focus is placed on the way the user can interact with the displayed data. The mere presence of a standard GUI in the context of the disclosure of a specific software application or a specific device capable of processing data related to its specific function, should in general be classified in the appropriate subclasses related to those software applications or specific devices.</li></ul>",
+      "count": 92059,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F3/0481": {
+      "code": "G06F3/0481",
+      "level": 3,
+      "parent": "G06F3/048",
+      "ja": "表示された相互作用オブジェクトの特定の特性，またはメタファベースの環境に基づくもの，例．ウィンドウまたはアイコンのようなデスクトップ要素との相互作用，あるいはカーソルの挙動や外観の変化によって補助されるもの［２０２２．０１］",
+      "en": "based on specific properties of the displayed interaction object or a metaphor-based environment, e.g. interaction with desktop elements like windows or icons, or assisted by a cursor's changing behaviour or appearance",
+      "count": 66042,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F3/04812": {
+      "code": "G06F3/04812",
+      "level": 4,
+      "parent": "G06F3/0481",
+      "ja": "カーソルの外観または振舞に基づく相互作用技術，例．表示オブジェクトの存在により影響を受けるもの［２０２２．０１］",
+      "en": "Interaction techniques based on cursor appearance or behaviour, e.g. being affected by the presence of displayed objects",
+      "count": 1864,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F3/04815": {
+      "code": "G06F3/04815",
+      "level": 4,
+      "parent": "G06F3/0481",
+      "ja": "立体的に表示されている、メタファに基づく環境または相互作用オブジェクトとの相互作用，例．メタファに基づく環境または相互作用オブジェクトに関するユーザの視点を変えるもの［２０２２．０１］",
+      "en": "Interaction with a metaphor-based environment or interaction object displayed as three-dimensional [3D], e.g. changing the user viewpoint with respect to the environment or object",
+      "count": 5609,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F3/04817": {
+      "code": "G06F3/04817",
+      "level": 4,
+      "parent": "G06F3/0481",
+      "ja": "アイコンを用いるもの（アイコン的記号を用いるグラフィカルまたはビジュアルプログラミングＧ０６Ｆ８／３４）［２０２２．０１］",
+      "en": "using icons(graphical or visual programming using iconic symbols <b>G06F8/34</b>)",
+      "count": 9404,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F3/0482": {
+      "code": "G06F3/0482",
+      "level": 4,
+      "parent": "G06F3/0481",
+      "ja": "選択可能な事項のリストとの相互作用，例．メニュー［２０１３．０１］",
+      "en": "Interaction with lists of selectable items, e.g. menus",
+      "count": 41439,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F3/0483": {
+      "code": "G06F3/0483",
+      "level": 4,
+      "parent": "G06F3/0481",
+      "ja": "ページにより構成された環境との相互作用，例．本のメタファ［２０１３．０１］",
+      "en": "Interaction with page-structured environments, e.g. book metaphor",
+      "count": 7118,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F3/0484": {
+      "code": "G06F3/0484",
+      "level": 3,
+      "parent": "G06F3/048",
+      "ja": "特定の機能または動作を制御するためのもの，例．オブジェクトや画像または表示されている文字要素の選択や操作，パラメータ値の設定，範囲の選択［２０２２．０１］",
+      "en": "for the control of specific functions or operations, e.g. selecting or manipulating an object, an image or a displayed text element, setting a parameter value or selecting a range",
+      "count": 72908,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F3/04842": {
+      "code": "G06F3/04842",
+      "level": 4,
+      "parent": "G06F3/0484",
+      "ja": "表示されているオブジェクトまたは表示されている文字要素の選択（Ｇ０６Ｆ３／０４８２が優先）［２０２２．０１］",
+      "en": "Selection of displayed objects or displayed text elements(<b>G06F3/0482</b> takes precedence)",
+      "count": 11264,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F3/04845": {
+      "code": "G06F3/04845",
+      "level": 4,
+      "parent": "G06F3/0484",
+      "ja": "画像を操作するためのもの，例．ドラッグ，回転，拡大，色の変更［２０２２．０１］",
+      "en": "for image manipulation, e.g. dragging, rotation, expansion or change of colour",
+      "count": 8647,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F3/04847": {
+      "code": "G06F3/04847",
+      "level": 4,
+      "parent": "G06F3/0484",
+      "ja": "パラメータ設定を制御する相互作用技術，例．スライダまたはダイヤルとの相互作用［２０２２．０１］",
+      "en": "Interaction techniques to control parameter settings, e.g. interaction with sliders or dials",
+      "count": 7724,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F3/0485": {
+      "code": "G06F3/0485",
+      "level": 4,
+      "parent": "G06F3/0484",
+      "ja": "スクロールまたはパン［２０２２．０１］",
+      "en": "Scrolling or panning",
+      "count": 12702,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F3/04855": {
+      "code": "G06F3/04855",
+      "level": 5,
+      "parent": "G06F3/0485",
+      "ja": "スクロールバーとの相互作用［２０２２．０１］",
+      "en": "Interaction with scrollbars",
+      "count": 553,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F3/0486": {
+      "code": "G06F3/0486",
+      "level": 4,
+      "parent": "G06F3/0484",
+      "ja": "ドラッグ・アンド・ドロップ［２０１３．０１］",
+      "en": "Drag-and-drop",
+      "count": 9741,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F3/0487": {
+      "code": "G06F3/0487",
+      "level": 3,
+      "parent": "G06F3/048",
+      "ja": "入力デバイスによって提供される特定の特徴を利用するもの，例．２つのセンサを備えたマウスの回転によって制御される機能，または入力デバイスの性質によるもの，例．デジタイザが感知する圧力に基づくタップ動作［２０２２．０１］",
+      "en": "using specific features provided by the input device, e.g. functions controlled by the rotation of a mouse with dual sensing arrangements, or of the nature of the input device, e.g. tap gestures based on pressure sensed by a digitiser",
+      "count": 16893,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F3/0488": {
+      "code": "G06F3/0488",
+      "level": 4,
+      "parent": "G06F3/0487",
+      "ja": "タッチスクリーンまたはデジタイザを利用するもの，例．追跡されたジェスチャーによるコマンドの入力［２０２２．０１］",
+      "en": "using a touch-screen or digitiser, e.g. input of commands through traced gestures",
+      "count": 71765,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F3/04883": {
+      "code": "G06F3/04883",
+      "level": 5,
+      "parent": "G06F3/0488",
+      "ja": "手書きによりデータを入力するためのもの，例．ジェスチャーまたは文字［２０２２．０１］",
+      "en": "for inputting data by handwriting, e.g. gesture or text",
+      "count": 8160,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F3/04886": {
+      "code": "G06F3/04886",
+      "level": 5,
+      "parent": "G06F3/0488",
+      "ja": "タッチスクリーンの表示領域またはデジタイズ用タブレットの表面を個別に制御可能な領域に分割することによるもの，例．仮想キーボード，メニュー［２０２２．０１］",
+      "en": "by partitioning the display area of the touch-screen or the surface of the digitising tablet into independently controllable areas, e.g. virtual keyboards or menus",
+      "count": 3591,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F3/0489": {
+      "code": "G06F3/0489",
+      "level": 4,
+      "parent": "G06F3/0487",
+      "ja": "専用のキーボードのキーまたはそれらの組合せを利用するもの［２０２２．０１］",
+      "en": "using dedicated keyboard keys or combinations thereof",
+      "count": 4781,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F3/04892": {
+      "code": "G06F3/04892",
+      "level": 5,
+      "parent": "G06F3/0489",
+      "ja": "ある離散位置から別の離散位置へのカーソルの移動を指示するコードに基づいてカーソルの位置を制御するための装置，例．異なる方向と関連付けられたカーソル制御キーを使用するもの，またはタブキーを使用するもの（座標信号に基づいてカーソルの位置を制御するための装置Ｇ０６Ｆ３／０３８）［２０２２．０１］",
+      "en": "Arrangements for controlling cursor position based on codes indicative of cursor displacements from one discrete location to another, e.g. using cursor control keys associated to different directions or using the tab key(arrangements for controlling cursor position based on coordinate signals <b>G06F3/038</b>)",
+      "count": 91,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F3/04895": {
+      "code": "G06F3/04895",
+      "level": 5,
+      "parent": "G06F3/0489",
+      "ja": "キーボードによる入力操作中の案内，例．入力を促すもの［プロンプティング］［２０２２．０１］",
+      "en": "Guidance during keyboard input operation, e.g. prompting",
+      "count": 190,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F3/05": {
+      "code": "G06F3/05",
+      "level": 1,
+      "parent": "G06F3/00",
+      "ja": "一定の時間間隔でのアナログ量のサンプリングを用いるデジタル入力  ［２００６．０１］",
+      "en": "Digital input using the sampling of an analogue quantity at regular intervals of time",
+      "count": 3342,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F3/06": {
+      "code": "G06F3/06",
+      "level": 1,
+      "parent": "G06F3/00",
+      "ja": "記録担体からのデジタル入力または記録担体へのデジタル出力  ［２００６．０１］",
+      "en": "Digital input from, or digital output to, record carriers",
+      "count": 102842,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F3/08": {
+      "code": "G06F3/08",
+      "level": 2,
+      "parent": "G06F3/06",
+      "ja": "個別的な記録担体たとえばせん孔カードからのデジタル入力またはこのような記録担体へのデジタル出力［２００６．０１］",
+      "en": "from or to individual record carriers, e.g. punched card",
+      "count": 5369,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F3/09": {
+      "code": "G06F3/09",
+      "level": 1,
+      "parent": "G06F3/00",
+      "ja": "タイプライターへのデジタル出力［２００６．０１］",
+      "en": "Digital output to typewriters",
+      "count": 826,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F3/12": {
+      "code": "G06F3/12",
+      "level": 1,
+      "parent": "G06F3/00",
+      "ja": "印字ユニットへのデジタル出力［２００６．０１］",
+      "en": "Digital output to print unit",
+      "count": 107561,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F3/13": {
+      "code": "G06F3/13",
+      "level": 1,
+      "parent": "G06F3/00",
+      "ja": "プロッタへのデジタル出力［２００６．０１］",
+      "en": "Digital output to plotter",
+      "count": 1101,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F3/14": {
+      "code": "G06F3/14",
+      "level": 1,
+      "parent": "G06F3/00",
+      "ja": "表示装置へのデジタル出力［２００６．０１］",
+      "en": "Digital output to display device",
+      "count": 78701,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F3/147": {
+      "code": "G06F3/147",
+      "level": 2,
+      "parent": "G06F3/14",
+      "ja": "表示パネルを用いるもの［２００６．０１］",
+      "en": "using display panels",
+      "count": 11409,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F3/153": {
+      "code": "G06F3/153",
+      "level": 2,
+      "parent": "G06F3/14",
+      "ja": "陰極線管を用いるもの［２００６．０１］",
+      "en": "using cathode-ray tubes",
+      "count": 15106,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F3/16": {
+      "code": "G06F3/16",
+      "level": 1,
+      "parent": "G06F3/00",
+      "ja": "音声入力；音声出力（音声処理Ｇ１０Ｌ）［２００６．０１］",
+      "en": "Sound input; Sound output (speech processing <b>G10L</b>)",
+      "count": 46399,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F3/18": {
+      "code": "G06F3/18",
+      "level": 1,
+      "parent": "G06F3/00",
+      "ja": "自動曲線追従器からのデジタル入力［２００６．０１］",
+      "en": "Digital input from automatic curve follower",
+      "count": 84,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F5/00": {
+      "code": "G06F5/00",
+      "level": 0,
+      "parent": "G06F",
+      "ja": "処理するデータの順序または内容を変更することなくデータ変換を行うための方法または装置［４］",
+      "en": "Methods or arrangements for data conversion without changing the order or content of the data handled",
+      "count": 5328,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F5/01": {
+      "code": "G06F5/01",
+      "level": 1,
+      "parent": "G06F5/00",
+      "ja": "桁送りのためのもの，例．位置調整，位取り，正規化，のためのもの［５］",
+      "en": "for shifting, e.g. justifying, scaling, normalising",
+      "count": 1923,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F5/06": {
+      "code": "G06F5/06",
+      "level": 1,
+      "parent": "G06F5/00",
+      "ja": "データ・フローの速度を変えるためのもの，すなわち速度調整のためのもの",
+      "en": "for changing the speed of data flow, i.e. speed regularising",
+      "count": 4819,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F5/08": {
+      "code": "G06F5/08",
+      "level": 2,
+      "parent": "G06F5/06",
+      "ja": "格納位置が連続しており，中間のデータは格納または取り出しを行う際にアクセス不能であるもの，例．シフトレジスタを使用するもの［８］",
+      "en": "having a sequence of storage locations, the intermediate ones not being accessible for either enqueue or dequeue operations, e.g. using a shift register",
+      "count": 442,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F5/10": {
+      "code": "G06F5/10",
+      "level": 2,
+      "parent": "G06F5/06",
+      "ja": "格納位置が連続しており，各データが格納および取り出しを行う際にそれぞれ独立してアクセス可能であるもの，例．ランダムアクセスメモリを使用するもの［８］",
+      "en": "having a sequence of storage locations each being individually accessible for both enqueue and dequeue operations, e.g. using random access memory",
+      "count": 1070,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F5/12": {
+      "code": "G06F5/12",
+      "level": 3,
+      "parent": "G06F5/10",
+      "ja": "充填度を監視する手段；衝突，即ち，同時に格納および取り出しを行う際のコンフリクト，を解消する手段［８］",
+      "en": "Means for monitoring the fill level; Means for resolving contention, i.e. conflicts between simultaneous enqueue and dequeue operations",
+      "count": 525,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F5/14": {
+      "code": "G06F5/14",
+      "level": 4,
+      "parent": "G06F5/12",
+      "ja": "オーバーフローまたはアンダーフローを扱うもの，例．満杯または空を示すフラグ［８］",
+      "en": "for overflow or underflow handling, e.g. full or empty flags",
+      "count": 678,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F5/16": {
+      "code": "G06F5/16",
+      "level": 2,
+      "parent": "G06F5/06",
+      "ja": "多重方式，即ち，２つ以上の同様な装置を使用し，格納および取り出しを行う際に交互にアクセスするもの，例．ピンポン・バッファ［８］",
+      "en": "Multiplexed systems, i.e. using two or more similar devices which are alternately accessed for enqueue and dequeue operations, e.g. ping-pong buffers",
+      "count": 538,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F7/00": {
+      "code": "G06F7/00",
+      "level": 0,
+      "parent": "G06F",
+      "ja": "取扱うデータの順序または内容を操作してデータを処理するための方法または装置（論理回路Ｈ０３Ｋ１９／００）",
+      "en": "Methods or arrangements for processing data by operating upon the order or content of the data handled(logic circuits <b>H03K19/00</b>)",
+      "count": 51117,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F7/02": {
+      "code": "G06F7/02",
+      "level": 1,
+      "parent": "G06F7/00",
+      "ja": "デジタル値の比較（Ｇ０６Ｆ７／０６，Ｇ０６Ｆ７／３８が優先）",
+      "en": "Comparing digital values(<b>G06F7/06</b>, <b>G06F7/38</b> take precedence)",
+      "count": 4114,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F7/04": {
+      "code": "G06F7/04",
+      "level": 2,
+      "parent": "G06F7/02",
+      "ja": "同一性の比較，すなわち値が同じか異なるかの比較",
+      "en": "Identity comparison, i.e. for like or unlike values",
+      "count": 11229,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F7/06": {
+      "code": "G06F7/06",
+      "level": 1,
+      "parent": "G06F7/00",
+      "ja": "個々の記録担体上のデータをソート，選別，マージ，または別々の記録担体上のデータを比較するための装置",
+      "en": "Arrangements for sorting, selecting, merging, or comparing data on individual record carriers",
+      "count": 3510,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F7/08": {
+      "code": "G06F7/08",
+      "level": 2,
+      "parent": "G06F7/06",
+      "ja": "ソート，すなわち記録担体が有している少なくともある情報の類別によって，記録担体を番号順または他の一定順序に群分けすること（２組以上の記録担体を一定順序にマージするものＧ０６Ｆ７／１６）",
+      "en": "Sorting, i.e. grouping record carriers in numerical or other ordered sequence according to the classification of at least some of the information they carry(by merging two or more sets of carriers in ordered sequence <b>G06F7/16</b>)",
+      "count": 1716,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F7/10": {
+      "code": "G06F7/10",
+      "level": 2,
+      "parent": "G06F7/06",
+      "ja": "選別，すなわち順番にまたは無秩序に配列された多数の記録坦体上のある種のデータによって識別可能な記録坦体上のデータ中から別種のデータを得ること",
+      "en": "Selecting, i.e. obtaining data of one kind from those record carriers which are identifiable by data of a second kind from a mass of ordered or randomly-distributed record carriers",
+      "count": 1036,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F7/12": {
+      "code": "G06F7/12",
+      "level": 3,
+      "parent": "G06F7/10",
+      "ja": "選択された項目の表を印刷する手段をもつもの",
+      "en": "with provision for printing-out a list of selected items",
+      "count": 70,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F7/14": {
+      "code": "G06F7/14",
+      "level": 2,
+      "parent": "G06F7/06",
+      "ja": "マージ，すなわち各々同じ順序に配列された少なくとも２組の記録担体を，同じ順序を有する１組の記録担体にまとめること",
+      "en": "Merging, i.e. combining at least two sets of record carriers each arranged in the same ordered sequence to produce a single set having the same ordered sequence",
+      "count": 362,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F7/16": {
+      "code": "G06F7/16",
+      "level": 3,
+      "parent": "G06F7/14",
+      "ja": "マージとソートを組み合わせたもの",
+      "en": "Combined merging and sorting",
+      "count": 168,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F7/20": {
+      "code": "G06F7/20",
+      "level": 2,
+      "parent": "G06F7/06",
+      "ja": "同じ順序に配列された別々の記録担体の組を比較して，１組中の少なくともあるデータが他の１組または数組中のデータと一致しているか否かを決めるもの",
+      "en": "Comparing separate sets of record carriers arranged in the same sequence to determine whether at least some of the data in one set is identical with that in the other set or sets",
+      "count": 368,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F7/22": {
+      "code": "G06F7/22",
+      "level": 1,
+      "parent": "G06F7/00",
+      "ja": "連続的記録担体，例．テープ，ドラム，ディスク，上のデータをソートまたはマージする装置",
+      "en": "Arrangements for sorting or merging computer data on continuous record carriers, e.g. tape, drum, disc",
+      "count": 1386,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F7/24": {
+      "code": "G06F7/24",
+      "level": 2,
+      "parent": "G06F7/22",
+      "ja": "ソート，一つ以上の記録担体からデータを引き出し，番号順または他の一定順序にそのデータを並べ直し，かつもとの記録担体または別の記録担体あるいは組になった記録担体上に，ソートされたデータを再記録すること（Ｇ０６Ｆ７／３６が優先）",
+      "en": "Sorting, i.e. extracting data from one or more carriers, re-arranging the data in numerical or other ordered sequence, and re-recording the sorted data on the original carrier or on a different carrier or set of carriers(<b>G06F7/36</b> takes precedence)",
+      "count": 1904,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F7/26": {
+      "code": "G06F7/26",
+      "level": 3,
+      "parent": "G06F7/24",
+      "ja": "ソートされたデータを中間の記憶装置を用いずにもとの記録担体上のそのデータがソート前に記録されていた同じスペース内に記録するもの",
+      "en": "the sorted data being recorded on the original record carrier within the same space in which the data had been recorded prior to their sorting, without using intermediate storage",
+      "count": 49,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F7/32": {
+      "code": "G06F7/32",
+      "level": 2,
+      "parent": "G06F7/22",
+      "ja": "マージ，すなわち少なくとも２つの記録担体上に一定の順序で入れられているデータを組み合わせて，もとのデータの全てを順序よく保持する一つの記録担体あるいは組になった記録担体を作るもの（Ｇ０６Ｆ７／３６が優先）",
+      "en": "Merging, i.e. combining data contained in ordered sequence on at least two record carriers to produce a single carrier or set of carriers having all the original data in the ordered sequence(<b>G06F7/36</b> takes precedence)",
+      "count": 365,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F7/36": {
+      "code": "G06F7/36",
+      "level": 2,
+      "parent": "G06F7/22",
+      "ja": "マージとソートを組み合わせたもの",
+      "en": "Combined merging and sorting",
+      "count": 260,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F7/38": {
+      "code": "G06F7/38",
+      "level": 1,
+      "parent": "G06F7/00",
+      "ja": "位取り記数法を用いて計算を行なうための方法または装置，例．２進，３進，１０進法を用いるもの［３］",
+      "en": "Methods or arrangements for performing computations using exclusively denominational number representation, e.g. using binary, ternary, decimal representation",
+      "count": 6541,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F7/40": {
+      "code": "G06F7/40",
+      "level": 2,
+      "parent": "G06F7/38",
+      "ja": "接点開閉素子，例．電磁継電器，を用いるもの（Ｇ０６Ｆ７／４６が優先）",
+      "en": "using contact-making devices, e.g. electromagnetic relay(<b>G06F7/46</b> takes precedence)",
+      "count": 167,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F7/42": {
+      "code": "G06F7/42",
+      "level": 3,
+      "parent": "G06F7/40",
+      "ja": "加算；減算",
+      "en": "Adding; Subtracting",
+      "count": 332,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F7/44": {
+      "code": "G06F7/44",
+      "level": 3,
+      "parent": "G06F7/40",
+      "ja": "乗算；除算",
+      "en": "Multiplying; Dividing",
+      "count": 522,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F7/46": {
+      "code": "G06F7/46",
+      "level": 2,
+      "parent": "G06F7/38",
+      "ja": "電気機械的計数器型の累算器を用いるもの",
+      "en": "using electromechanical counter-type accumulators",
+      "count": 462,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F7/48": {
+      "code": "G06F7/48",
+      "level": 2,
+      "parent": "G06F7/38",
+      "ja": "無接点素子，例．真空管，固体素子，を用いるもの；素子を特定しないで用いるもの［３］",
+      "en": "using non-contact-making devices, e.g. tube, solid state device; using unspecified devices",
+      "count": 1489,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F7/483": {
+      "code": "G06F7/483",
+      "level": 3,
+      "parent": "G06F7/48",
+      "ja": "位取り数を非線形に組み合わせて表現した数を用いて計算するもの，例．有理数，対数方式，または浮動小数点数［８］",
+      "en": "Computations with numbers represented by a non-linear combination of denominational numbers, e.g. rational numbers, logarithmic number system or floating-point numbers",
+      "count": 1700,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F7/485": {
+      "code": "G06F7/485",
+      "level": 4,
+      "parent": "G06F7/483",
+      "ja": "加算；減算［８］",
+      "en": "Adding; Subtracting",
+      "count": 898,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F7/487": {
+      "code": "G06F7/487",
+      "level": 4,
+      "parent": "G06F7/483",
+      "ja": "乗算；除算［８］",
+      "en": "Multiplying; Dividing",
+      "count": 935,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F7/49": {
+      "code": "G06F7/49",
+      "level": 3,
+      "parent": "G06F7/48",
+      "ja": "２進，８進，１６進または１０進以外の基数，例．３進，負または虚の基数，混合基数，を用いて計算するもの［３］",
+      "en": "Computations with a radix, other than binary, 8, 16 or decimal, e.g. ternary, negative or imaginary radices, mixed radix",
+      "count": 932,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F7/491": {
+      "code": "G06F7/491",
+      "level": 3,
+      "parent": "G06F7/48",
+      "ja": "１０進数を用いて計算するもの［８］",
+      "en": "Computations with decimal numbers",
+      "count": 868,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F7/492": {
+      "code": "G06F7/492",
+      "level": 4,
+      "parent": "G06F7/491",
+      "ja": "各位取り内では２進の重み付け表現がされているもの［８］",
+      "en": "using a binary weighted representation within each denomination",
+      "count": 21,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F7/493": {
+      "code": "G06F7/493",
+      "level": 5,
+      "parent": "G06F7/492",
+      "ja": "自然２進符号，即ち８４２１符号，で表現されているもの［８］",
+      "en": "the representation being the natural binary coded representation, i.e. 8421-code",
+      "count": 369,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F7/494": {
+      "code": "G06F7/494",
+      "level": 6,
+      "parent": "G06F7/493",
+      "ja": "加算；減算［８］",
+      "en": "Adding; Subtracting",
+      "count": 357,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F7/495": {
+      "code": "G06F7/495",
+      "level": 7,
+      "parent": "G06F7/494",
+      "ja": "デジットシリアル演算形式であるもの，即ち，全ての位取りを次々に扱う１つのデジット処理回路を有するもの［８］",
+      "en": "in digit-serial fashion, i.e. having a single digit-handling circuit treating all denominations after each other",
+      "count": 116,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F7/496": {
+      "code": "G06F7/496",
+      "level": 6,
+      "parent": "G06F7/493",
+      "ja": "乗算；除算［８］",
+      "en": "Multiplying; Dividing",
+      "count": 348,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F7/498": {
+      "code": "G06F7/498",
+      "level": 4,
+      "parent": "G06F7/491",
+      "ja": "計数器型の累算器を使用するもの［８］",
+      "en": "using counter-type accumulators",
+      "count": 613,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F7/499": {
+      "code": "G06F7/499",
+      "level": 3,
+      "parent": "G06F7/48",
+      "ja": "位取り処理または例外処理，例．丸め，オーバーフロー［８］",
+      "en": "Denomination or exception handling, e.g. rounding or overflow",
+      "count": 1007,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F7/50": {
+      "code": "G06F7/50",
+      "level": 3,
+      "parent": "G06F7/48",
+      "ja": "加算；減算（Ｇ０６Ｆ７／４８３～Ｇ０６Ｆ７／４９１，Ｇ０６Ｆ７／５４４～Ｇ０６Ｆ７／５５６が優先）［３，８］",
+      "en": "Adding; Subtracting(<b>G06F7/483 to G06F7/491</b> , <b>G06F7/544 to G06F7/556</b>  take precedence)",
+      "count": 6373,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F7/501": {
+      "code": "G06F7/501",
+      "level": 4,
+      "parent": "G06F7/50",
+      "ja": "半加算器または全加算器，即ち，１桁の位取りに対する基本的な加算セル［８］",
+      "en": "Half or full adders, i.e. basic adder cells for one denomination",
+      "count": 1095,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F7/502": {
+      "code": "G06F7/502",
+      "level": 5,
+      "parent": "G06F7/501",
+      "ja": "半加算器；２つの半加算器を縦続接続してなる全加算器［８］",
+      "en": "Half adders; Full adders consisting of two cascaded half adders",
+      "count": 185,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F7/503": {
+      "code": "G06F7/503",
+      "level": 5,
+      "parent": "G06F7/501",
+      "ja": "キャリ信号を使用するもの，即ち，入力されたキャリが直接，もしくは反転器を通すのみで，キャリ伝搬信号の値の制御下においてキャリ出力に接続されているもの［８］",
+      "en": "using carry switching, i.e. the incoming carry being connected directly, or only via an inverter, to the carry output under control of a carry propagate signal",
+      "count": 404,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F7/504": {
+      "code": "G06F7/504",
+      "level": 4,
+      "parent": "G06F7/50",
+      "ja": "ビットシリアル演算形式であるもの，即ち，全ての位取りを次々に扱う１つのデジット処理回路を有するもの［８］",
+      "en": "in bit-serial fashion, i.e. having a single digit-handling circuit treating all denominations after each other",
+      "count": 215,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F7/505": {
+      "code": "G06F7/505",
+      "level": 4,
+      "parent": "G06F7/50",
+      "ja": "ビットパラレル演算形式であるもの，即ち，各々の位取りに対して異なるデジット処理回路を有するもの［８］",
+      "en": "in bit-parallel fashion, i.e. having a different digit-handling circuit for each denomination",
+      "count": 826,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F7/506": {
+      "code": "G06F7/506",
+      "level": 5,
+      "parent": "G06F7/505",
+      "ja": "２箇所以上において同時にキャリの生成，もしくはキャリの伝搬が起こるもの［８］",
+      "en": "with simultaneous carry generation for, or propagation over, two or more stages",
+      "count": 792,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F7/507": {
+      "code": "G06F7/507",
+      "level": 6,
+      "parent": "G06F7/506",
+      "ja": "２つの条件について計算されたキャリまたはサムの値から選択を行うもの［８］",
+      "en": "using selection between two conditionally calculated carry or sum values",
+      "count": 418,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F7/508": {
+      "code": "G06F7/508",
+      "level": 6,
+      "parent": "G06F7/506",
+      "ja": "桁上げ先見回路を使用するもの［８］",
+      "en": "using carry look-ahead circuits",
+      "count": 1551,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F7/509": {
+      "code": "G06F7/509",
+      "level": 5,
+      "parent": "G06F7/505",
+      "ja": "多数のオペランドに対するもの，例．デジタル積分器［８］",
+      "en": "for multiple operands, e.g. digital integrators",
+      "count": 478,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F7/52": {
+      "code": "G06F7/52",
+      "level": 3,
+      "parent": "G06F7/48",
+      "ja": "乗算；除算（Ｇ０６Ｆ７／４８３～Ｇ０６Ｆ７／４９１，Ｇ０６Ｆ７／５４４～Ｇ０６Ｆ７／５５６が優先）［３，８］",
+      "en": "Multiplying; Dividing(<b>G06F7/483 to G06F7/491</b> , <b>G06F7/544 to G06F7/556</b>  take precedence)",
+      "count": 5735,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F7/523": {
+      "code": "G06F7/523",
+      "level": 4,
+      "parent": "G06F7/52",
+      "ja": "乗算のみ［８］",
+      "en": "Multiplying only",
+      "count": 2633,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F7/525": {
+      "code": "G06F7/525",
+      "level": 5,
+      "parent": "G06F7/523",
+      "ja": "シリアル－シリアル演算形式であるもの，即ち，両方のオペランドが直列に入力されるもの（Ｇ０６Ｆ７／５３３が優先）［８］",
+      "en": "in serial-serial fashion, i.e. both operands being entered serially(<b>G06F7/533</b> takes precedence)",
+      "count": 154,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F7/527": {
+      "code": "G06F7/527",
+      "level": 5,
+      "parent": "G06F7/523",
+      "ja": "シリアル－パラレル演算形式であるもの，即ち，一方のオペランドが直列に入力され，他方のオペランドが並列に入力されるもの（Ｇ０６Ｆ７／５３３が優先）［８］",
+      "en": "in serial-parallel fashion, i.e. one operand being entered serially and the other in parallel(<b>G06F7/533</b> takes precedence)",
+      "count": 610,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F7/53": {
+      "code": "G06F7/53",
+      "level": 5,
+      "parent": "G06F7/523",
+      "ja": "パラレル－パラレル演算形式であるもの，即ち，両方のオペランドが並列に入力されるもの（Ｇ０６Ｆ７／５３３が優先）［８］",
+      "en": "in parallel-parallel fashion, i.e. both operands being entered in parallel(<b>G06F7/533</b> takes precedence)",
+      "count": 1561,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F7/533": {
+      "code": "G06F7/533",
+      "level": 5,
+      "parent": "G06F7/523",
+      "ja": "反復する過程または段階の回数を削減するもの，例．ブースアルゴリズム，対数加算，奇数－偶数，を使用するもの［８］",
+      "en": "Reduction of the number of iteration steps or stages, e.g. using the Booth algorithm, log-sum, odd-even",
+      "count": 920,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F7/535": {
+      "code": "G06F7/535",
+      "level": 4,
+      "parent": "G06F7/52",
+      "ja": "除算のみ［８］",
+      "en": "Dividing only",
+      "count": 1417,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F7/537": {
+      "code": "G06F7/537",
+      "level": 5,
+      "parent": "G06F7/535",
+      "ja": "反復する過程または段階の回数を削減するもの，例．Ｓｗｅｅｎｙ－Ｒｏｂｅｒｔｓｏｎ－Ｔｏｃｈｅｒ［ＳＲＴ］アルゴリズムを使用するもの［８］",
+      "en": "Reduction of the number of iteration steps or stages, e.g. using the Sweeny-Robertson-Tocher [SRT] algorithm",
+      "count": 419,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F7/544": {
+      "code": "G06F7/544",
+      "level": 3,
+      "parent": "G06F7/48",
+      "ja": "計算によって関数の値を求めるためのもの",
+      "en": "for evaluating functions by calculation",
+      "count": 4334,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F7/548": {
+      "code": "G06F7/548",
+      "level": 4,
+      "parent": "G06F7/544",
+      "ja": "三角関数；座標変換［３］",
+      "en": "Trigonometric functions; Co-ordinate transformations",
+      "count": 1090,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F7/552": {
+      "code": "G06F7/552",
+      "level": 4,
+      "parent": "G06F7/544",
+      "ja": "べき乗またはべき根［３］",
+      "en": "Powers or roots",
+      "count": 1292,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F7/556": {
+      "code": "G06F7/556",
+      "level": 4,
+      "parent": "G06F7/544",
+      "ja": "対数または指数関数［３］",
+      "en": "Logarithmic or exponential functions",
+      "count": 836,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F7/57": {
+      "code": "G06F7/57",
+      "level": 3,
+      "parent": "G06F7/48",
+      "ja": "算術論理演算ユニット［ＡＬＵ］，即ち，グループＧ０６Ｆ７／４８３～Ｇ０６Ｆ７／５５６に包含される２以上の演算を実行する装置または論理演算を実行する装置［８］",
+      "en": "Arithmetic logic units [ALU], i.e. arrangements or devices for performing two or more of the operations covered by groups <b>G06F7/483 to G06F7/556</b>  or for performing logical operations",
+      "count": 2439,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F7/575": {
+      "code": "G06F7/575",
+      "level": 4,
+      "parent": "G06F7/57",
+      "ja": "基本的な算術論理演算ユニット，即ち，少なくとも部分的に，同じ回路を使用し，加算，減算，または複数の論理演算の１つの何れかを選択して実行できる装置［８］",
+      "en": "Basic arithmetic logic units, i.e. devices selectable to perform either addition, subtraction or one of several logical operations, using, at least partially, the same circuitry",
+      "count": 761,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F7/58": {
+      "code": "G06F7/58",
+      "level": 1,
+      "parent": "G06F7/00",
+      "ja": "乱数または擬似乱数発生器［３］",
+      "en": "Random or pseudo-random number generators",
+      "count": 8907,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F7/60": {
+      "code": "G06F7/60",
+      "level": 1,
+      "parent": "G06F7/00",
+      "ja": "デジタルな非位取り記数法，すなわち．基数を用いない数表現を用いて計算を行うための方法または装置；位取り記数法と非位取り記数法の組合せを用いる計算装置［３］",
+      "en": "Methods or arrangements for performing computations using a digital non-denominational number representation, i.e. number representation without radix; Computing devices using combinations of denominational and non-denominational quantity representations",
+      "count": 2492,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F7/62": {
+      "code": "G06F7/62",
+      "level": 2,
+      "parent": "G06F7/60",
+      "ja": "パルスの総数を計数することのみにより演算を実行するもの［３］",
+      "en": "Performing operations exclusively by counting total number of pulses",
+      "count": 800,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F7/64": {
+      "code": "G06F7/64",
+      "level": 2,
+      "parent": "G06F7/60",
+      "ja": "デジタル微分解析機，すなわち増分を表示するパルスを用いて，微分，積分もしくは微分または積分方程式を解くための計算装置；差分方程式を解くためのその他の増分計算機（Ｇ０６Ｆ７／７０が優先；ハイブリッド計算技術を用いた微分解析機Ｇ０６Ｊ１／０２）［３］",
+      "en": "Digital differential analysers, i.e. computing devices for differentiation, integration or solving differential or integral equations, using pulses representing increments; Other incremental computing devices for solving difference equations(<b>G06F7/70</b> takes precedence; differential analysers using hybrid computing techniques <b>G06J1/02</b>)",
+      "count": 614,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F7/66": {
+      "code": "G06F7/66",
+      "level": 3,
+      "parent": "G06F7/64",
+      "ja": "単位増分のみを表わすパルスを用いるもの［３］",
+      "en": "wherein pulses represent unitary increments only",
+      "count": 270,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F7/68": {
+      "code": "G06F7/68",
+      "level": 2,
+      "parent": "G06F7/60",
+      "ja": "パルス率乗算器または除算器を用いるもの（Ｇ０６Ｆ７／７０が優先）［３］",
+      "en": "using pulse rate multipliers or dividers(<b>G06F7/70</b> takes precedence)",
+      "count": 793,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F7/70": {
+      "code": "G06F7/70",
+      "level": 2,
+      "parent": "G06F7/60",
+      "ja": "推計パルス列，すなわち平均パルス率で数を表現するランダムに発生するパルス列を用いるもの［３］",
+      "en": "using stochastic pulse trains, i.e. randomly occurring pulses the average pulse rates of which represent numbers",
+      "count": 1443,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F7/72": {
+      "code": "G06F7/72",
+      "level": 2,
+      "parent": "G06F7/60",
+      "ja": "剰余計算を用いるもの［３］",
+      "en": "using residue arithmetic",
+      "count": 2773,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F7/74": {
+      "code": "G06F7/74",
+      "level": 1,
+      "parent": "G06F7/00",
+      "ja": "１語内の，指定値を有する１以上のビットの位置を選別または符号化すること，例．最上位または最下位の有意な０または１の検出，プライオリティ・エンコーダ［８］",
+      "en": "Selecting or encoding within a word the position of one or more bits having a specified value, e.g. most or least significant one or zero detection, priority encoders",
+      "count": 486,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F7/76": {
+      "code": "G06F7/76",
+      "level": 1,
+      "parent": "G06F7/00",
+      "ja": "データ内容から独立して定められたルールによるデータの再配置，並べ替え，または選別のための装置［８］",
+      "en": "Arrangements for rearranging, permuting or selecting data according to predetermined rules, independently of the content of the data",
+      "count": 2636,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F7/78": {
+      "code": "G06F7/78",
+      "level": 2,
+      "parent": "G06F7/76",
+      "ja": "データ・フローの順序を変えるためのもの，例．行と列との入れ換え，ＬＩＦＯバッファ；そのオバーフローまたはアンダーフローの処理［８］",
+      "en": "for changing the order of data flow, e.g. matrix transposition or LIFO buffers; Overflow or underflow handling therefor",
+      "count": 662,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F8/00": {
+      "code": "G06F8/00",
+      "level": 0,
+      "parent": "G06F",
+      "ja": "ソフトウェアエンジニアリングのための装置（テストまたはデバッグＧ０６Ｆ１１／３６；ソフトウェアプロジェクト管理における運用，計画または組織化の観点Ｇ０６Ｑ１０／０６）［２０１８．０１］",
+      "en": "Arrangements for software engineering(testing or debugging <b>G06F11/36</b>; administrative, planning or organisation aspects of software project management <b>G06Q10/06</b>)",
+      "count": 1077,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F8/10": {
+      "code": "G06F8/10",
+      "level": 1,
+      "parent": "G06F8/00",
+      "ja": "要求分析；仕様化技術［２０１８．０１］",
+      "en": "Requirements analysis; Specification techniques",
+      "count": 3319,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F8/20": {
+      "code": "G06F8/20",
+      "level": 1,
+      "parent": "G06F8/00",
+      "ja": "ソフトウェアの設計［２０１８．０１］",
+      "en": "Software design",
+      "count": 10120,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F8/30": {
+      "code": "G06F8/30",
+      "level": 1,
+      "parent": "G06F8/00",
+      "ja": "ソースコードの作成または生成［２０１８．０１］",
+      "en": "Creation or generation of source code",
+      "count": 13394,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F8/33": {
+      "code": "G06F8/33",
+      "level": 2,
+      "parent": "G06F8/30",
+      "ja": "インテリジェントエディタ［２０１８．０１］",
+      "en": "Intelligent editors",
+      "count": 2832,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F8/34": {
+      "code": "G06F8/34",
+      "level": 2,
+      "parent": "G06F8/30",
+      "ja": "グラフィカルまたはビジュアルプログラミング［２０１８．０１］",
+      "en": "Graphical or visual programming",
+      "count": 9850,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F8/35": {
+      "code": "G06F8/35",
+      "level": 2,
+      "parent": "G06F8/30",
+      "ja": "モデル駆動［２０１８．０１］",
+      "en": "model driven",
+      "count": 3495,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F8/36": {
+      "code": "G06F8/36",
+      "level": 2,
+      "parent": "G06F8/30",
+      "ja": "ソフトウェアの再利用［２０１８．０１］",
+      "en": "Software reuse",
+      "count": 7482,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F8/38": {
+      "code": "G06F8/38",
+      "level": 2,
+      "parent": "G06F8/30",
+      "ja": "ユーザインタフェースの実装のためのもの［２０１８．０１］",
+      "en": "for implementing user interfaces",
+      "count": 14099,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F8/40": {
+      "code": "G06F8/40",
+      "level": 1,
+      "parent": "G06F8/00",
+      "ja": "プログラムコードの変換［２０１８．０１］",
+      "en": "Transformation of program code",
+      "count": 1238,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F8/41": {
+      "code": "G06F8/41",
+      "level": 2,
+      "parent": "G06F8/40",
+      "ja": "コンパイル［２０１８．０１］",
+      "en": "Compilation",
+      "count": 22013,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F8/51": {
+      "code": "G06F8/51",
+      "level": 2,
+      "parent": "G06F8/40",
+      "ja": "ソースからソースへ［２０１８．０１］",
+      "en": "Source to source",
+      "count": 970,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F8/52": {
+      "code": "G06F8/52",
+      "level": 2,
+      "parent": "G06F8/40",
+      "ja": "バイナリからバイナリへ［２０１８．０１］",
+      "en": "Binary to binary",
+      "count": 364,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F8/53": {
+      "code": "G06F8/53",
+      "level": 2,
+      "parent": "G06F8/40",
+      "ja": "逆コンパイル；逆アセンブル［２０１８．０１］",
+      "en": "Decompilation; Disassembly",
+      "count": 1061,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F8/54": {
+      "code": "G06F8/54",
+      "level": 2,
+      "parent": "G06F8/40",
+      "ja": "ロード時より前のリンク編集［２０１８．０１］",
+      "en": "Link editing before load time",
+      "count": 328,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F8/60": {
+      "code": "G06F8/60",
+      "level": 1,
+      "parent": "G06F8/00",
+      "ja": "ソフトウェアの配備［２０１８．０１］",
+      "en": "Software deployment",
+      "count": 7470,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F8/61": {
+      "code": "G06F8/61",
+      "level": 2,
+      "parent": "G06F8/60",
+      "ja": "インストール［２０１８．０１］",
+      "en": "Installation",
+      "count": 17146,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F8/65": {
+      "code": "G06F8/65",
+      "level": 2,
+      "parent": "G06F8/60",
+      "ja": "アップデート（そのためのセキュリティ装置Ｇ０６Ｆ２１／５７）［２０１８．０１］",
+      "en": "Updates  (security arrangements therefor <b>G06F21/57</b>)",
+      "count": 29554,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F8/654": {
+      "code": "G06F8/654",
+      "level": 3,
+      "parent": "G06F8/65",
+      "ja": "書換可能な固体記憶装置に特に適合した技術を用いるもの，例．ＥＥＰＲＯＭまたはフラッシュメモリのためのもの［２０１８．０１］",
+      "en": "using techniques specially adapted for alterable solid state memories, e.g. for EEPROM or flash memories",
+      "count": 3098,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F8/656": {
+      "code": "G06F8/656",
+      "level": 3,
+      "parent": "G06F8/65",
+      "ja": "実行中にアップデートするもの［２０１８．０１］",
+      "en": "while running",
+      "count": 2227,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F8/658": {
+      "code": "G06F8/658",
+      "level": 3,
+      "parent": "G06F8/65",
+      "ja": "増分アップデート；差分アップデート［２０１８．０１］",
+      "en": "Incremental updates; Differential updates",
+      "count": 2707,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F8/70": {
+      "code": "G06F8/70",
+      "level": 1,
+      "parent": "G06F8/00",
+      "ja": "ソフトウェアの保守または管理［２０１８．０１］",
+      "en": "Software maintenance or management",
+      "count": 5035,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F8/71": {
+      "code": "G06F8/71",
+      "level": 2,
+      "parent": "G06F8/70",
+      "ja": "バージョン制御（そのためのセキュリティ装置Ｇ０６Ｆ２１／５７）；構成管理［２０１８．０１］",
+      "en": "Version control (security arrangements therefor <b>G06F21/57</b>);Configuration management",
+      "count": 24790,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F8/72": {
+      "code": "G06F8/72",
+      "level": 2,
+      "parent": "G06F8/70",
+      "ja": "コードリファクタリング［２０１８．０１］",
+      "en": "Code refactoring",
+      "count": 1270,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F8/73": {
+      "code": "G06F8/73",
+      "level": 2,
+      "parent": "G06F8/70",
+      "ja": "プログラムドキュメンテーション［２０１８．０１］",
+      "en": "Program documentation",
+      "count": 2587,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F8/74": {
+      "code": "G06F8/74",
+      "level": 2,
+      "parent": "G06F8/70",
+      "ja": "リバースエンジニアリング；ソースコードから設計情報を抽出するもの［２０１８．０１］",
+      "en": "Reverse engineering; Extracting design information from source code",
+      "count": 702,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F8/75": {
+      "code": "G06F8/75",
+      "level": 2,
+      "parent": "G06F8/70",
+      "ja": "プログラム理解のための構造分析［２０１８．０１］",
+      "en": "Structural analysis for program understanding",
+      "count": 2059,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F8/76": {
+      "code": "G06F8/76",
+      "level": 2,
+      "parent": "G06F8/70",
+      "ja": "異なる環境で動作するようプログラムコードを適合させるもの；移植［２０１８．０１］",
+      "en": "Adapting program code to run in a different environment; Porting",
+      "count": 2616,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F8/77": {
+      "code": "G06F8/77",
+      "level": 2,
+      "parent": "G06F8/70",
+      "ja": "ソフトウェアメトリクス［２０１８．０１］",
+      "en": "Software metrics",
+      "count": 1229,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F9/00": {
+      "code": "G06F9/00",
+      "level": 0,
+      "parent": "G06F",
+      "ja": "プログラム制御のための装置，例．制御装置（周辺装置のためのプログラム制御Ｇ０６Ｆ１３／１０）［２０１８．０１］",
+      "en": "Arrangements for program control, e.g. control units(program control for peripheral devices <b>G06F13/10</b>)",
+      "count": 17049,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F9/02": {
+      "code": "G06F9/02",
+      "level": 1,
+      "parent": "G06F9/00",
+      "ja": "ワイヤー接続，例．プラグボード，を用いるもの［２００６．０１］",
+      "en": "using wired connections, e.g. plugboards",
+      "count": 690,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F9/04": {
+      "code": "G06F9/04",
+      "level": 1,
+      "parent": "G06F9/00",
+      "ja": "プログラム命令のみを保持する記録担体を用いるもの（Ｇ０６Ｆ９／０６が優先）［２００６．０１］",
+      "en": "using record carriers containing only program instructions (<b>G06F9/06</b> takes precedence)",
+      "count": 435,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F9/06": {
+      "code": "G06F9/06",
+      "level": 1,
+      "parent": "G06F9/00",
+      "ja": "プログラム記憶方式を用いるもの，すなわちプログラムを受取りまたは保持するために処理装置の内部記憶装置を用いるもの［２００６．０１］",
+      "en": "using stored programs, i.e. using an internal store of processing equipment to receive or retain programs",
+      "count": 24918,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F9/22": {
+      "code": "G06F9/22",
+      "level": 2,
+      "parent": "G06F9/06",
+      "ja": "マイクロ制御またはマイクロプログラム装置［２００６．０１］",
+      "en": "Microcontrol or microprogram arrangements",
+      "count": 8389,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F9/24": {
+      "code": "G06F9/24",
+      "level": 3,
+      "parent": "G06F9/22",
+      "ja": "マイクロプログラムのローディング［２００６．０１］",
+      "en": "Loading of the microprogram",
+      "count": 3016,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F9/26": {
+      "code": "G06F9/26",
+      "level": 3,
+      "parent": "G06F9/22",
+      "ja": "次位マイクロ命令のアドレス指定（Ｇ０６Ｆ９／２８が優先）［２００６．０１］",
+      "en": "Address formation of the next microinstruction(<b>G06F9/28</b> takes precedence)",
+      "count": 2965,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F9/28": {
+      "code": "G06F9/28",
+      "level": 3,
+      "parent": "G06F9/22",
+      "ja": "演算速度の増強，例．並列に動作する幾つかのマイクロ制御装置を用いるもの［２００６．０１］",
+      "en": "Enhancement of operational speed, e.g. by using several microcontrol devices operating in parallel",
+      "count": 1642,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F9/30": {
+      "code": "G06F9/30",
+      "level": 2,
+      "parent": "G06F9/06",
+      "ja": "機械語命令を実行するための装置，例．命令のデコード（マイクロ命令を実行するためのものＧ０６Ｆ９／２２）［２０１８．０１］",
+      "en": "Arrangements for executing machine instructions, e.g. instruction decode  (for executing microinstructions <b>G06F9/22</b>)",
+      "count": 28069,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F9/302": {
+      "code": "G06F9/302",
+      "level": 3,
+      "parent": "G06F9/30",
+      "ja": "算術演算の実行を制御するもの［２０１８．０１］",
+      "en": "Controlling the executing of arithmetic operations",
+      "count": 1680,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F9/305": {
+      "code": "G06F9/305",
+      "level": 3,
+      "parent": "G06F9/30",
+      "ja": "論理演算の実行を制御するもの［２０１８．０１］",
+      "en": "Controlling the executing of logical operations",
+      "count": 1065,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F9/308": {
+      "code": "G06F9/308",
+      "level": 3,
+      "parent": "G06F9/30",
+      "ja": "単一ビット演算を制御するもの（Ｇ０６Ｆ９／３０５が優先）［２０１８．０１］",
+      "en": "Controlling single bit operations(<b>G06F9/305</b> takes precedence)",
+      "count": 488,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F9/312": {
+      "code": "G06F9/312",
+      "level": 3,
+      "parent": "G06F9/30",
+      "ja": "ロード，ストアまたはクリアの演算を制御するもの［２０１８．０１］",
+      "en": "Controlling loading, storing or clearing operations",
+      "count": 2106,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F9/315": {
+      "code": "G06F9/315",
+      "level": 3,
+      "parent": "G06F9/30",
+      "ja": "移動，桁送りまたは回転の演算を制御するもの［２０１８．０１］",
+      "en": "Controlling moving, shifting or rotation operations",
+      "count": 991,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F9/318": {
+      "code": "G06F9/318",
+      "level": 3,
+      "parent": "G06F9/30",
+      "ja": "演算の拡張または修飾を伴うもの［２０１８．０１］",
+      "en": "with operation extension or modification",
+      "count": 2460,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F9/32": {
+      "code": "G06F9/32",
+      "level": 3,
+      "parent": "G06F9/30",
+      "ja": "次の命令のアドレスの指定，例．命令カウンタのインクリメント（Ｇ０６Ｆ９／３８が優先）［２０１８．０１］",
+      "en": "Address formation of the next instruction, e.g. by incrementing the instruction counter (<b>G06F9/38</b> takes precedence)",
+      "count": 5319,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F9/34": {
+      "code": "G06F9/34",
+      "level": 3,
+      "parent": "G06F9/30",
+      "ja": "命令オペランドまたは演算結果のアドレシングまたはアクセシング［２０１８．０１］",
+      "en": "Addressing or accessing the instruction operand or the result",
+      "count": 3917,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F9/345": {
+      "code": "G06F9/345",
+      "level": 4,
+      "parent": "G06F9/34",
+      "ja": "多重のオペランドまたは演算結果に対するもの［２０１８．０１］",
+      "en": "of multiple operands or results",
+      "count": 698,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F9/35": {
+      "code": "G06F9/35",
+      "level": 4,
+      "parent": "G06F9/34",
+      "ja": "間接アドレシング［２０１８．０１］",
+      "en": "Indirect addressing",
+      "count": 385,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F9/355": {
+      "code": "G06F9/355",
+      "level": 4,
+      "parent": "G06F9/34",
+      "ja": "インデクスアドレシング［２０１８．０１］",
+      "en": "Indexed addressing",
+      "count": 1137,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F9/38": {
+      "code": "G06F9/38",
+      "level": 3,
+      "parent": "G06F9/30",
+      "ja": "命令の同時実行，例．パイプライン，ルック・アヘッド［２０１８．０１］",
+      "en": "Concurrent instruction execution, e.g. pipeline or look ahead",
+      "count": 29194,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F9/44": {
+      "code": "G06F9/44",
+      "level": 2,
+      "parent": "G06F9/06",
+      "ja": "特定のプログラムを実行するための装置［２０１８．０１］",
+      "en": "Arrangements for executing specific programs",
+      "count": 94278,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F9/4401": {
+      "code": "G06F9/4401",
+      "level": 3,
+      "parent": "G06F9/44",
+      "ja": "ブートストラップ（そのためのセキュリティ装置Ｇ０６Ｆ２１／５７）［２０１８．０１］",
+      "en": "Bootstrapping  (security arrangements therefor <b>G06F21/57</b>)",
+      "count": 16313,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F9/445": {
+      "code": "G06F9/445",
+      "level": 3,
+      "parent": "G06F9/44",
+      "ja": "プログラムのローディングまたは起動（ブートストラップＧ０６Ｆ９／４４０１；プログラムのローディングまたは起動のためのセキュリティ装置Ｇ０６Ｆ２１／５７）［２０１８．０１］",
+      "en": "Program loading or initiating  (bootstrapping <b>G06F9/4401</b>;   security arrangements for program loading or initiating <b>G06F21/57</b>)",
+      "count": 82858,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F9/448": {
+      "code": "G06F9/448",
+      "level": 3,
+      "parent": "G06F9/44",
+      "ja": "実行パラダイム，例．プログラミングパラダイムの実装［２０１８．０１］",
+      "en": "Execution paradigms, e.g. implementations of programming paradigms",
+      "count": 8451,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F9/451": {
+      "code": "G06F9/451",
+      "level": 3,
+      "parent": "G06F9/44",
+      "ja": "ユーザインタフェースのための実行装置［２０１８．０１］",
+      "en": "Execution arrangements for user interfaces",
+      "count": 45536,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F9/455": {
+      "code": "G06F9/455",
+      "level": 3,
+      "parent": "G06F9/44",
+      "ja": "エミュレーション；インタープリタによる実行；ソフトウェアシミュレーション，例．アプリケーションまたはＯＳの実行エンジンの仮想化またはエミュレーション［２０１８．０１］",
+      "en": "Emulation; Interpretation; Software simulation, e.g. virtualisation or emulation of application or operating system execution engines",
+      "count": 56265,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F9/46": {
+      "code": "G06F9/46",
+      "level": 2,
+      "parent": "G06F9/06",
+      "ja": "マルチプログラミング装置［２００６．０１］",
+      "en": "Multiprogramming arrangements",
+      "count": 52848,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F9/48": {
+      "code": "G06F9/48",
+      "level": 3,
+      "parent": "G06F9/46",
+      "ja": "プログラムの起動；プログラムの切換，例．割込みによるもの［２００６．０１］",
+      "en": "Program initiating; Program switching, e.g. by interrupt",
+      "count": 54925,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F9/50": {
+      "code": "G06F9/50",
+      "level": 3,
+      "parent": "G06F9/46",
+      "ja": "リソースの割り当て，例．中央処理装置［ＣＰＵ］［２００６．０１］",
+      "en": "Allocation of resources, e.g. of the central processing unit [CPU]",
+      "count": 91335,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F9/52": {
+      "code": "G06F9/52",
+      "level": 3,
+      "parent": "G06F9/46",
+      "ja": "プログラム同期；相互排除，例．セマフォによるもの［２００６．０１］",
+      "en": "Program synchronisation; Mutual exclusion, e.g. by means of semaphores",
+      "count": 9745,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F9/54": {
+      "code": "G06F9/54",
+      "level": 3,
+      "parent": "G06F9/46",
+      "ja": "プログラム間通信［２００６．０１］",
+      "en": "Interprogram communication",
+      "count": 47411,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F11/00": {
+      "code": "G06F11/00",
+      "level": 0,
+      "parent": "G06F",
+      "ja": "エラー検出；エラー訂正；監視（記録担体と変換器との間の相対運動に基づく情報記憶装置におけるエラーの検出，訂正または監視Ｇ１１Ｂ２０／１８；モニタ，すなわち，記録または再生過程の監視Ｇ１１Ｂ２７／３６；静的記憶装置におけるものＧ１１Ｃ２９／００）［２００６．０１］",
+      "en": "Error detection; Error correction; Monitoring(error detection, correction or monitoring in information storage based on relative movement between record carrier and transducer <b>G11B20/18</b>;  monitoring, i.e. supervising the progress of recording or reproducing <b>G11B27/36</b>;  in static stores <b>G11C29/00</b>)",
+      "count": 59842,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F11/07": {
+      "code": "G06F11/07",
+      "level": 1,
+      "parent": "G06F11/00",
+      "ja": "故障の発生への応答，例．耐故障性［２００６．０１］",
+      "en": "Responding to the occurrence of a fault, e.g. fault tolerance",
+      "count": 34656,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F11/08": {
+      "code": "G06F11/08",
+      "level": 2,
+      "parent": "G06F11/07",
+      "ja": "データの表現形態に冗長性をもたせることによるエラー検出またはエラー訂正，例．チェック・コードを用いることによるもの",
+      "en": "Error detection or correction by redundancy in data representation, e.g. by using checking codes",
+      "count": 4414,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F11/10": {
+      "code": "G06F11/10",
+      "level": 3,
+      "parent": "G06F11/08",
+      "ja": "符号化された情報に特別のビットまたは記号を付加したもの，例．パリティチェック，９または１１のキャスティングアウト",
+      "en": "Adding special bits or symbols to the coded information, e.g. parity check, casting out nines or elevens",
+      "count": 28117,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F11/14": {
+      "code": "G06F11/14",
+      "level": 2,
+      "parent": "G06F11/07",
+      "ja": "演算に冗長性を持たせることによるデータのエラー検出または訂正（ハードウェアに冗長性を持たせることによるデータのエラー検出または訂正Ｇ０６Ｆ１１／１６）［２０２６．０１］",
+      "en": "Error detection or correction of the data by redundancy in operations(error detection or correction of the data by redundancy in hardware <b>G06F11/16</b>)",
+      "count": 44211,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F11/1446": {
+      "code": "G06F11/1446",
+      "level": 3,
+      "parent": "G06F11/14",
+      "ja": "永続データの特定の時点のバックアップまたはリストア［２０２６．０１］",
+      "en": "Point-in-time backing up or restoration of persistent data",
+      "count": 0,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F11/1471": {
+      "code": "G06F11/1471",
+      "level": 3,
+      "parent": "G06F11/14",
+      "ja": "リカバリのための永続データのロギングを含むもの［２０２６．０１］",
+      "en": "involving logging of persistent data for recovery",
+      "count": 0,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F11/1474": {
+      "code": "G06F11/1474",
+      "level": 3,
+      "parent": "G06F11/14",
+      "ja": "トランザクションにおけるもの（データベースにおける構造化データのアップデートＧ０６Ｆ１６／２３）［２０２６．０１］",
+      "en": "in transactions(updating of structured data in databases <b>G06F16/23</b>)",
+      "count": 0,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F11/1479": {
+      "code": "G06F11/1479",
+      "level": 3,
+      "parent": "G06F11/14",
+      "ja": "エラー検出またはフォールトマスキングのための汎用ソフトウェア技術［２０２６．０１］",
+      "en": "Generic software techniques for error detection or fault masking",
+      "count": 0,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F11/1482": {
+      "code": "G06F11/1482",
+      "level": 4,
+      "parent": "G06F11/1479",
+      "ja": "ミドルウェアまたはオペレーティングシステム［ＯＳ］の機能を用いるもの［２０２６．０１］",
+      "en": "using middleware or operating system [OS] functionalities",
+      "count": 0,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F11/1487": {
+      "code": "G06F11/1487",
+      "level": 4,
+      "parent": "G06F11/1479",
+      "ja": "Ｎバージョンプログラミングを用いるもの［２０２６．０１］",
+      "en": "using N-version programming",
+      "count": 0,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F11/1489": {
+      "code": "G06F11/1489",
+      "level": 4,
+      "parent": "G06F11/1479",
+      "ja": "リカバリブロックを用いるもの［２０２６．０１］",
+      "en": "using recovery blocks",
+      "count": 0,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F11/1492": {
+      "code": "G06F11/1492",
+      "level": 4,
+      "parent": "G06F11/1479",
+      "ja": "アプリケーションソフトウェアにより実行されるランタイムレプリケーションを用いるもの，例．Ｎモジュラー型［２０２６．０１］",
+      "en": "using run-time replication performed by the application software, e.g. N-modular type",
+      "count": 0,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F11/1497": {
+      "code": "G06F11/1497",
+      "level": 3,
+      "parent": "G06F11/14",
+      "ja": "単一の処理ユニット上におけるソフトウェアの時間冗長実行［２０２６．０１］",
+      "en": "Time redundant execution of software on a single processing unit",
+      "count": 0,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F11/16": {
+      "code": "G06F11/16",
+      "level": 2,
+      "parent": "G06F11/07",
+      "ja": "ハードウェアに冗長性を持たせることによるデータのエラー検出または訂正［３］",
+      "en": "Error detection or correction of the data by redundancy in hardware",
+      "count": 9192,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F11/18": {
+      "code": "G06F11/18",
+      "level": 3,
+      "parent": "G06F11/16",
+      "ja": "冗長回路の受動的フォールトマスキングによるもの，例．クアッディング等の冗長回路の組み合わせロジックによるものまたは多数決回路によるもの［３］",
+      "en": "using passive fault-masking of the redundant circuits, e.g. by quadding or by majority decision circuits",
+      "count": 3160,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F11/20": {
+      "code": "G06F11/20",
+      "level": 3,
+      "parent": "G06F11/16",
+      "ja": "能動的なフォールトマスキングによるもの，例．故障要素を切り離すことによるものまたは予備の要素に切り換えることによるもの［３］",
+      "en": "using active fault-masking, e.g. by switching out faulty elements or by switching in spare elements",
+      "count": 18153,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F11/22": {
+      "code": "G06F11/22",
+      "level": 1,
+      "parent": "G06F11/00",
+      "ja": "待機作動中または遊休時間中の検査によるコンピュータ故障箇所の検出または故障位置の指示，例．始動試験［３］",
+      "en": "Detection or location of defective computer hardware by testing during standby operation or during idle time, e.g. start-up testing",
+      "count": 36984,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F11/24": {
+      "code": "G06F11/24",
+      "level": 2,
+      "parent": "G06F11/22",
+      "ja": "限界試験［３］",
+      "en": "Marginal testing",
+      "count": 572,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F11/25": {
+      "code": "G06F11/25",
+      "level": 2,
+      "parent": "G06F11/22",
+      "ja": "論理動作の試験，例．ロジック・アナライザによる［６］",
+      "en": "Testing of logic operation, e.g. by logic analysers",
+      "count": 2866,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F11/26": {
+      "code": "G06F11/26",
+      "level": 2,
+      "parent": "G06F11/22",
+      "ja": "機能試験［３］",
+      "en": "Functional testing",
+      "count": 8065,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F11/263": {
+      "code": "G06F11/263",
+      "level": 3,
+      "parent": "G06F11/26",
+      "ja": "試験入力の発生，例．テストベクトル，パターンまたはシーケンス［６］",
+      "en": "Generation of test inputs, e.g. test vectors, patterns or sequences",
+      "count": 2711,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F11/267": {
+      "code": "G06F11/267",
+      "level": 3,
+      "parent": "G06F11/26",
+      "ja": "試験用構成変更回路，例．ＬＳＳＤ，区切り［６］",
+      "en": "Reconfiguring circuits for testing, e.g. LSSD, partitioning",
+      "count": 2597,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F11/27": {
+      "code": "G06F11/27",
+      "level": 3,
+      "parent": "G06F11/26",
+      "ja": "作り付け試験［６］",
+      "en": "Built-in tests",
+      "count": 1117,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F11/273": {
+      "code": "G06F11/273",
+      "level": 3,
+      "parent": "G06F11/26",
+      "ja": "テスターハードウェア，すなわち，出力処理回路［６］",
+      "en": "Tester hardware, i.e. output processing circuits",
+      "count": 3300,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F11/277": {
+      "code": "G06F11/277",
+      "level": 4,
+      "parent": "G06F11/273",
+      "ja": "実際のレスポンスと既知の正確なレスポンスとの間の比較をもつもの［６］",
+      "en": "with comparison between actual response and known fault-free response",
+      "count": 597,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F11/28": {
+      "code": "G06F11/28",
+      "level": 1,
+      "parent": "G06F11/00",
+      "ja": "処理順序の正しさを検査することによるもの（Ｇ０６Ｆ１１／０７～Ｇ０６Ｆ１１／２２が優先）［３］",
+      "en": "by checking the correct order of processing(<b>G06F11/07</b>, <b>G06F11/22</b> take precedence)",
+      "count": 14941,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F11/30": {
+      "code": "G06F11/30",
+      "level": 1,
+      "parent": "G06F11/00",
+      "ja": "監視［３］",
+      "en": "Monitoring",
+      "count": 68850,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F11/32": {
+      "code": "G06F11/32",
+      "level": 2,
+      "parent": "G06F11/30",
+      "ja": "装置の機能の可視表示手段を有するもの［３］",
+      "en": "with visual indication of the functioning of the machine",
+      "count": 18502,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F11/34": {
+      "code": "G06F11/34",
+      "level": 2,
+      "parent": "G06F11/30",
+      "ja": "コンピュータ動作の記録または統計的評価，例．故障時間のまたは入出力動作の記録または統計的評価［３］",
+      "en": "Recording or statistical evaluation of computer activity, e.g. of down time, of input/output operation",
+      "count": 43686,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F11/36": {
+      "code": "G06F11/36",
+      "level": 1,
+      "parent": "G06F11/00",
+      "ja": "・ソフトウェアの分析，デバッグまたは検査によるエラー防止［２０２５．０１］",
+      "en": "Prevention of errors by analysis, debugging or testing of software",
+      "count": 63741,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F11/3604": {
+      "code": "G06F11/3604",
+      "level": 2,
+      "parent": "G06F11/36",
+      "ja": "プログラムの特性を検証するための，ソフトウェアの分析（ソフトウェアの試験Ｇ０６Ｆ１１／３６６８）［２０２５．０１］",
+      "en": "Analysis of software for verifying properties of programs(testing of software <b>G06F11/3668</b>)",
+      "count": 1112,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F11/362": {
+      "code": "G06F11/362",
+      "level": 2,
+      "parent": "G06F11/36",
+      "ja": "ソフトウェアのデバッグ［２０２５．０１］",
+      "en": "Debugging of software",
+      "count": 1154,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F11/3668": {
+      "code": "G06F11/3668",
+      "level": 2,
+      "parent": "G06F11/36",
+      "ja": "ソフトウェアの試験［２０２５．０１］",
+      "en": "Testing of software",
+      "count": 6110,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F11/3698": {
+      "code": "G06F11/3698",
+      "level": 2,
+      "parent": "G06F11/36",
+      "ja": "ソフトウェアの分析，デバッグまたは試験のための環境［２０２５．０１］",
+      "en": "Environments for analysis, debugging or testing of software",
+      "count": 755,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F12/00": {
+      "code": "G06F12/00",
+      "level": 0,
+      "parent": "G06F",
+      "ja": "メモリシステムまたはアーキテクチャ内でのアクセシング，アドレシングまたはアロケーティング（記録媒体，例．ディスク記録ユニット，からのデジタル入力，またはデジタル出力Ｇ０６Ｆ３／０６）［２００６．０１］",
+      "en": "Accessing, addressing or allocating within memory systems or architectures(digital input from, or digital output to record carriers, e.g. to disk storage units, <b>G06F3/06</b>)",
+      "count": 97316,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F12/02": {
+      "code": "G06F12/02",
+      "level": 1,
+      "parent": "G06F12/00",
+      "ja": "アドレシングまたはアロケーション；リロケーション（プログラム・アドレス順序制御Ｇ０６Ｆ９／００；デジタル記憶におけるアドレス選択装置Ｇ１１Ｃ８／００）［２００６．０１］",
+      "en": "Addressing or allocation; Relocation (program address sequencing <b>G06F9/00</b>;  arrangements for selecting an address in a digital store <b>G11C8/00</b>)",
+      "count": 38931,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F12/04": {
+      "code": "G06F12/04",
+      "level": 2,
+      "parent": "G06F12/02",
+      "ja": "可変長語，または語の一部，のアドレシング［２００６．０１］",
+      "en": "Addressing variable-length words or parts of words",
+      "count": 3324,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F12/06": {
+      "code": "G06F12/06",
+      "level": 2,
+      "parent": "G06F12/02",
+      "ja": "ロケーションの物理的ブロックのアドレシング，例．ベース・アドレシング，モジュール・アドレシング，メモリ空間拡張，メモリ専用（Ｇ０６Ｆ１２／０８が優先）［２００６．０１］",
+      "en": "Addressing a physical block of locations, e.g. base addressing, module addressing, address space extension, memory dedication(<b>G06F12/08</b> takes precedence)",
+      "count": 19437,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F12/08": {
+      "code": "G06F12/08",
+      "level": 2,
+      "parent": "G06F12/02",
+      "ja": "階層構造のメモリ・システム，例．仮想メモリ・システム，におけるもの［２０１６．０１］",
+      "en": "in hierarchically structured memory systems, e.g. virtual memory systems",
+      "count": 29570,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F12/0802": {
+      "code": "G06F12/0802",
+      "level": 3,
+      "parent": "G06F12/08",
+      "ja": "所望データまたはデータブロックへのアクセスが連想アドレシングを要求する，メモリレベルのアドレシング，例．キャッシュ［２０１６．０１］",
+      "en": "Addressing of a memory level in which the access to the desired data or data block requires associative addressing means, e.g. caches",
+      "count": 2360,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F12/0804": {
+      "code": "G06F12/0804",
+      "level": 4,
+      "parent": "G06F12/0802",
+      "ja": "主メモリのアップデートを伴うもの（Ｇ０６Ｆ１２／０８０６が優先）［２０１６．０１］",
+      "en": "with main memory updating(<b>G06F12/0806</b> takes precedence)",
+      "count": 1516,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F12/0806": {
+      "code": "G06F12/0806",
+      "level": 4,
+      "parent": "G06F12/0802",
+      "ja": "マルチユーザ，マルチプロセッサ，マルチプロセッシングのキャッシュ・システム［２０１６．０１］",
+      "en": "Multiuser, multiprocessor or multiprocessing cache systems",
+      "count": 819,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F12/0808": {
+      "code": "G06F12/0808",
+      "level": 5,
+      "parent": "G06F12/0806",
+      "ja": "キャッシュ無効化手段を有するもの（Ｇ０６Ｆ１２／０８１５が優先）［２０１６．０１］",
+      "en": "with cache invalidating means(<b>G06F12/0815</b> takes precedence)",
+      "count": 440,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F12/0811": {
+      "code": "G06F12/0811",
+      "level": 5,
+      "parent": "G06F12/0806",
+      "ja": "マルチレベルのキャッシュ階層を有するもの［２０１６．０１］",
+      "en": "with multilevel cache hierarchies",
+      "count": 2123,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F12/0813": {
+      "code": "G06F12/0813",
+      "level": 5,
+      "parent": "G06F12/0806",
+      "ja": "ネットワークまたはマトリクス構成を有するもの［２０１６．０１］",
+      "en": "with a network or matrix configuration",
+      "count": 574,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F12/0815": {
+      "code": "G06F12/0815",
+      "level": 5,
+      "parent": "G06F12/0806",
+      "ja": "キャッシュ一貫性プロトコル［２０１６．０１］",
+      "en": "Cache consistency protocols",
+      "count": 1217,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F12/0817": {
+      "code": "G06F12/0817",
+      "level": 6,
+      "parent": "G06F12/0815",
+      "ja": "ディレクトリ手法を用いるもの［２０１６．０１］",
+      "en": "using directory methods",
+      "count": 752,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F12/0831": {
+      "code": "G06F12/0831",
+      "level": 6,
+      "parent": "G06F12/0815",
+      "ja": "バス・スキームを用いるもの，例．バス監視またはウオッチ手段を有するもの［２０１６．０１］",
+      "en": "using a bus scheme, e.g. with bus monitoring or watching means",
+      "count": 1210,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F12/0837": {
+      "code": "G06F12/0837",
+      "level": 6,
+      "parent": "G06F12/0815",
+      "ja": "ソフトウエア制御を有するもの，例．ノンキャッシャブル・データ［２０１６．０１］",
+      "en": "with software control, e.g. non-cacheable data",
+      "count": 149,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F12/084": {
+      "code": "G06F12/084",
+      "level": 5,
+      "parent": "G06F12/0806",
+      "ja": "共有キャッシュを有するもの［２０１６．０１］",
+      "en": "with a shared cache",
+      "count": 1323,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F12/0842": {
+      "code": "G06F12/0842",
+      "level": 5,
+      "parent": "G06F12/0806",
+      "ja": "マルチプロセッシングまたはマルチタスクのためのもの［２０１６．０１］",
+      "en": "for multiprocessing or multitasking",
+      "count": 878,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F12/0844": {
+      "code": "G06F12/0844",
+      "level": 4,
+      "parent": "G06F12/0802",
+      "ja": "複数同時または準同時キャッシュアクセシング［２０１６．０１］",
+      "en": "Multiple simultaneous or quasi-simultaneous cache accessing",
+      "count": 206,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F12/0846": {
+      "code": "G06F12/0846",
+      "level": 5,
+      "parent": "G06F12/0844",
+      "ja": "同時アクセス可能な複数のタグまたはデータアレイを有するキャッシュ［２０１６．０１］",
+      "en": "Cache with multiple tag or data arrays being simultaneously accessible",
+      "count": 561,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F12/0853": {
+      "code": "G06F12/0853",
+      "level": 5,
+      "parent": "G06F12/0844",
+      "ja": "マルチポートのタグまたはデータアレイを有するキャッシュ［２０１６．０１］",
+      "en": "Cache with multiport tag or data arrays",
+      "count": 142,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F12/0855": {
+      "code": "G06F12/0855",
+      "level": 5,
+      "parent": "G06F12/0844",
+      "ja": "オーバーラップしたキャッシュアクセシング，例．パイプライン（Ｇ０６Ｆ１２／０８４６が優先）［２０１６．０１］",
+      "en": "Overlapped cache accessing, e.g. pipeline(<b>G06F12/0846</b> takes precedence)",
+      "count": 306,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F12/0862": {
+      "code": "G06F12/0862",
+      "level": 4,
+      "parent": "G06F12/0802",
+      "ja": "プリフェッチを伴うもの［２０１６．０１］",
+      "en": "with prefetch",
+      "count": 2032,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F12/0864": {
+      "code": "G06F12/0864",
+      "level": 4,
+      "parent": "G06F12/0802",
+      "ja": "擬似連想手段，例．セットアソシアティブ，ハッシング，を有するもの［２０１６．０１］",
+      "en": "using pseudo-associative means, e.g. set-associative or hashing",
+      "count": 677,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F12/0866": {
+      "code": "G06F12/0866",
+      "level": 4,
+      "parent": "G06F12/0802",
+      "ja": "周辺記憶システム，例．ディスクキャッシュ，のためのもの［２０１６．０１］",
+      "en": "for peripheral storage systems, e.g. disk cache",
+      "count": 1503,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F12/0868": {
+      "code": "G06F12/0868",
+      "level": 5,
+      "parent": "G06F12/0866",
+      "ja": "キャッシュメモリとその他のサブシステム，例．ストレージ装置またはホストシステム，の間のデータ転送［２０１６．０１］",
+      "en": "Data transfer between cache memory and other subsystems, e.g. storage devices or host systems",
+      "count": 1506,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F12/0871": {
+      "code": "G06F12/0871",
+      "level": 5,
+      "parent": "G06F12/0866",
+      "ja": "キャッシュ空間の割り当てまたは管理［２０１６．０１］",
+      "en": "Allocation or management of cache space",
+      "count": 1523,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F12/0873": {
+      "code": "G06F12/0873",
+      "level": 5,
+      "parent": "G06F12/0866",
+      "ja": "特定のストレージ装置またはストレージ装置の部分への，キャッシュメモリのマッピング［２０１６．０１］",
+      "en": "Mapping of cache memory to specific storage devices or parts thereof",
+      "count": 662,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F12/0875": {
+      "code": "G06F12/0875",
+      "level": 4,
+      "parent": "G06F12/0802",
+      "ja": "専用キャッシュ，例．命令またはスタック，を有するもの［２０１６．０１］",
+      "en": "with dedicated cache, e.g. instruction or stack",
+      "count": 1817,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F12/0877": {
+      "code": "G06F12/0877",
+      "level": 4,
+      "parent": "G06F12/0802",
+      "ja": "キャッシュアクセスモード［２０１６．０１］",
+      "en": "Cache access modes",
+      "count": 1546,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F12/0879": {
+      "code": "G06F12/0879",
+      "level": 5,
+      "parent": "G06F12/0877",
+      "ja": "バーストモード［２０１６．０１］",
+      "en": "Burst mode",
+      "count": 113,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F12/0882": {
+      "code": "G06F12/0882",
+      "level": 5,
+      "parent": "G06F12/0877",
+      "ja": "ページモード［２０１６．０１］",
+      "en": "Page mode",
+      "count": 1125,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F12/0884": {
+      "code": "G06F12/0884",
+      "level": 5,
+      "parent": "G06F12/0877",
+      "ja": "パラレルモード，例．主メモリまたはＣＰＵとの並行処理［２０１６．０１］",
+      "en": "Parallel mode, e.g. in parallel with main memory or CPU",
+      "count": 147,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F12/0886": {
+      "code": "G06F12/0886",
+      "level": 5,
+      "parent": "G06F12/0877",
+      "ja": "可変長語のアクセス［２０１６．０１］",
+      "en": "Variable-length word access",
+      "count": 146,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F12/0888": {
+      "code": "G06F12/0888",
+      "level": 4,
+      "parent": "G06F12/0802",
+      "ja": "選択的なキャッシュ処理を用いるもの，例．バイパス［２０１６．０１］",
+      "en": "using selective caching, e.g. bypass",
+      "count": 652,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F12/0891": {
+      "code": "G06F12/0891",
+      "level": 4,
+      "parent": "G06F12/0802",
+      "ja": "クリア，無効化またはリセット手段を用いるもの［２０１６．０１］",
+      "en": "using clearing, invalidating or resetting means",
+      "count": 1502,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F12/0893": {
+      "code": "G06F12/0893",
+      "level": 4,
+      "parent": "G06F12/0802",
+      "ja": "編成または構造により特徴づけられるキャッシュ［２０１６．０１］",
+      "en": "Caches characterised by their organisation or structure",
+      "count": 1016,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F12/0895": {
+      "code": "G06F12/0895",
+      "level": 5,
+      "parent": "G06F12/0893",
+      "ja": "キャッシュの部分のためのもの，例．ディレクトリまたはタグアレイ［２０１６．０１］",
+      "en": "of parts of caches, e.g. directory or tag array",
+      "count": 856,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F12/0897": {
+      "code": "G06F12/0897",
+      "level": 5,
+      "parent": "G06F12/0893",
+      "ja": "複数のキャッシュ階層レベルを有するもの（マルチレベルのキャッシュ階層を有するものＧ０６Ｆ１２／０８１１）［２０１６．０１］",
+      "en": "with two or more cache hierarchy levels(with multilevel cache hierarchies <b>G06F12/0811</b>)",
+      "count": 1194,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F12/10": {
+      "code": "G06F12/10",
+      "level": 3,
+      "parent": "G06F12/08",
+      "ja": "アドレス変換［２０１６．０１］",
+      "en": "Address translation",
+      "count": 9447,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F12/1009": {
+      "code": "G06F12/1009",
+      "level": 4,
+      "parent": "G06F12/10",
+      "ja": "ページテーブル，例．ページテーブル構造，を用いるもの［２０１６．０１］",
+      "en": "using page tables, e.g. page table structures",
+      "count": 3368,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F12/1018": {
+      "code": "G06F12/1018",
+      "level": 5,
+      "parent": "G06F12/1009",
+      "ja": "ハッシング技術，例．逆引きページテーブル，を含むもの［２０１６．０１］",
+      "en": "involving hashing techniques, e.g. inverted page tables",
+      "count": 297,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F12/1027": {
+      "code": "G06F12/1027",
+      "level": 4,
+      "parent": "G06F12/10",
+      "ja": "連想または擬似連想アドレス変換手段，例．変換索引バッファ［ＴＬＢ］，を用いるもの［２０１６．０１］",
+      "en": "using associative or pseudo-associative address translation means, e.g. translation look-aside buffer [TLB]",
+      "count": 1434,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F12/1036": {
+      "code": "G06F12/1036",
+      "level": 5,
+      "parent": "G06F12/1027",
+      "ja": "複数の仮想アドレス空間，例．セグメンテーション，のためのもの（Ｇ０６Ｆ１２／１０４５が優先）［２０１６．０１］",
+      "en": "for multiple virtual address spaces, e.g. segmentation(<b>G06F12/1045</b> takes precedence)",
+      "count": 502,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F12/1045": {
+      "code": "G06F12/1045",
+      "level": 5,
+      "parent": "G06F12/1027",
+      "ja": "データキャッシュと結合するもの［２０１６．０１］",
+      "en": "associated with a data cache",
+      "count": 680,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F12/1072": {
+      "code": "G06F12/1072",
+      "level": 4,
+      "parent": "G06F12/10",
+      "ja": "分散アドレス変換，例．分散共有メモリ・システムにおけるもの［２０１６．０１］",
+      "en": "Decentralised address translation, e.g. in distributed shared memory systems",
+      "count": 230,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F12/1081": {
+      "code": "G06F12/1081",
+      "level": 4,
+      "parent": "G06F12/10",
+      "ja": "主メモリへの周辺アクセス，例．ダイレクトメモリーアクセス［ＤＭＡ］，のためのもの［２０１６．０１］",
+      "en": "for peripheral access to main memory, e.g. direct memory access [DMA]",
+      "count": 692,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F12/109": {
+      "code": "G06F12/109",
+      "level": 4,
+      "parent": "G06F12/10",
+      "ja": "複数の仮想アドレス空間，例．セグメンテーション，のためのもの（Ｇ０６Ｆ１２／１０３６が優先）［２０１６．０１］",
+      "en": "for multiple virtual address spaces, e.g. segmentation(<b>G06F12/1036</b> takes precedence)",
+      "count": 694,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F12/12": {
+      "code": "G06F12/12",
+      "level": 3,
+      "parent": "G06F12/08",
+      "ja": "置換制御［２０１６．０１］",
+      "en": "Replacement control",
+      "count": 5171,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F12/121": {
+      "code": "G06F12/121",
+      "level": 4,
+      "parent": "G06F12/12",
+      "ja": "置換アルゴリズムを用いるもの［２０１６．０１］",
+      "en": "using replacement algorithms",
+      "count": 508,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F12/122": {
+      "code": "G06F12/122",
+      "level": 5,
+      "parent": "G06F12/121",
+      "ja": "使用頻度が最小［ＬＦＵ］のタイプのもの，例．個々の計数値をもつもの［２０１６．０１］",
+      "en": "of the least frequently used [LFU] type, e.g. with individual count value",
+      "count": 367,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F12/123": {
+      "code": "G06F12/123",
+      "level": 5,
+      "parent": "G06F12/121",
+      "ja": "年齢リストを有するもの，例．キュー，ｍｏｓｔ　ｒｅｃｅｎｔｌｙ　ｕｓｅｄ［ＭＲＵ］リストまたはｌｅａｓｔ　ｒｅｃｅｎｔｌｙ　ｕｓｅｄ［ＬＲＵ］リスト［２０１６．０１］",
+      "en": "with age lists, e.g. queue, most recently used [MRU] list or least recently used [LRU] list",
+      "count": 1062,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F12/126": {
+      "code": "G06F12/126",
+      "level": 5,
+      "parent": "G06F12/121",
+      "ja": "特別なデータの取り扱いを有するもの，例．データまたは命令の優先度，エラーの取り扱い，固定［２０１６．０１］",
+      "en": "with special data handling, e.g. priority of data or instructions, handling errors or pinning",
+      "count": 646,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F12/127": {
+      "code": "G06F12/127",
+      "level": 6,
+      "parent": "G06F12/126",
+      "ja": "追加の置換アルゴリズムを用いるもの［２０１６．０１］",
+      "en": "using additional replacement algorithms",
+      "count": 131,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F12/128": {
+      "code": "G06F12/128",
+      "level": 5,
+      "parent": "G06F12/121",
+      "ja": "多次元キャッシュ・システムに適合させたもの，例．セットアソシアティブ，マルチキャッシュ，マルチセットまたはマルチレベル［２０１６．０１］",
+      "en": "adapted to multidimensional cache systems, e.g. set-associative, multicache, multiset or multilevel",
+      "count": 615,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F12/14": {
+      "code": "G06F12/14",
+      "level": 1,
+      "parent": "G06F12/00",
+      "ja": "メモリの不正な使用に対する保護［２００６．０１］",
+      "en": "Protection against unauthorised use of memory",
+      "count": 31738,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F12/16": {
+      "code": "G06F12/16",
+      "level": 1,
+      "parent": "G06F12/00",
+      "ja": "メモリ内容の破壊に対する保護［２００６．０１］",
+      "en": "Protection against loss of memory contents",
+      "count": 26200,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F13/00": {
+      "code": "G06F13/00",
+      "level": 0,
+      "parent": "G06F",
+      "ja": "メモリ，入力／出力装置または中央処理ユニットの間の情報または他の信号の相互接続または転送（特定の入力／出力装置のためのインタフェース回路Ｇ０６Ｆ３／００，マルチプロセッサシステムＧ０６Ｆ１５／１６）［４］",
+      "en": "Interconnection of, or transfer of information or other signals between, memories, input/output devices or central processing units(interface circuits for specific input/output devices <b>G06F3/00</b>; multi-processor systems <b>G06F15/16</b>)",
+      "count": 156926,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F13/10": {
+      "code": "G06F13/10",
+      "level": 1,
+      "parent": "G06F13/00",
+      "ja": "周辺装置のためのプログラム制御（Ｇ０６Ｆ１３／１４～Ｇ０６Ｆ１３／４２が優先）［４］",
+      "en": "Program control for peripheral devices (<b>G06F13/14 to G06F13/42</b>  take precedence)",
+      "count": 17821,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F13/12": {
+      "code": "G06F13/12",
+      "level": 2,
+      "parent": "G06F13/10",
+      "ja": "中央プロセッサーとは独立のハードウェアを用いるもの，例．チャネルまたは周辺装置用プロセッサ［４］",
+      "en": "using hardware independent of the central processor, e.g. channel or peripheral processor",
+      "count": 12990,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F13/14": {
+      "code": "G06F13/14",
+      "level": 1,
+      "parent": "G06F13/00",
+      "ja": "相互接続または転送のための接続要求［４］",
+      "en": "Handling requests for interconnection or transfer",
+      "count": 19764,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F13/16": {
+      "code": "G06F13/16",
+      "level": 2,
+      "parent": "G06F13/14",
+      "ja": "メモリバスに対するアクセスのためのもの（Ｇ０６Ｆ１３／２８が優先）［４］",
+      "en": "for access to memory bus(<b>G06F13/28</b> takes precedence)",
+      "count": 20806,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F13/18": {
+      "code": "G06F13/18",
+      "level": 3,
+      "parent": "G06F13/16",
+      "ja": "優先制御によるもの［４］",
+      "en": "with priority control",
+      "count": 2859,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F13/20": {
+      "code": "G06F13/20",
+      "level": 2,
+      "parent": "G06F13/14",
+      "ja": "入力／出力バスに対するアクセスのためのもの［４］",
+      "en": "for access to input/output bus",
+      "count": 4399,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F13/22": {
+      "code": "G06F13/22",
+      "level": 3,
+      "parent": "G06F13/20",
+      "ja": "連続的走査を用いるもの，例．ポーリング（Ｇ０６Ｆ１３／２４が優先）［４］",
+      "en": "using successive scanning, e.g. polling(<b>G06F13/24</b> takes precedence)",
+      "count": 1032,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F13/24": {
+      "code": "G06F13/24",
+      "level": 3,
+      "parent": "G06F13/20",
+      "ja": "割込みを用いるもの（Ｇ０６Ｆ１３／３２が優先）［４］",
+      "en": "using interrupt(<b>G06F13/32</b> takes precedence)",
+      "count": 5514,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F13/26": {
+      "code": "G06F13/26",
+      "level": 4,
+      "parent": "G06F13/24",
+      "ja": "優先制御によるもの［４］",
+      "en": "with priority control",
+      "count": 1391,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F13/28": {
+      "code": "G06F13/28",
+      "level": 3,
+      "parent": "G06F13/20",
+      "ja": "バーストモード転送を用いるもの，例．ダイレクトメモリアクセス，サイクルスチール（Ｇ０６Ｆ１３／３２が優先）［４］",
+      "en": "using burst mode transfer, e.g. direct memory access, cycle steal(<b>G06F13/32</b> takes precedence)",
+      "count": 16338,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F13/30": {
+      "code": "G06F13/30",
+      "level": 4,
+      "parent": "G06F13/28",
+      "ja": "優先制御によるもの［４］",
+      "en": "with priority control",
+      "count": 587,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F13/32": {
+      "code": "G06F13/32",
+      "level": 3,
+      "parent": "G06F13/20",
+      "ja": "割込みおよびバーストモード転送の組合わせを用いるもの［４］",
+      "en": "using combination of interrupt and burst mode transfer",
+      "count": 708,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F13/34": {
+      "code": "G06F13/34",
+      "level": 4,
+      "parent": "G06F13/32",
+      "ja": "優先制御によるもの［４］",
+      "en": "with priority control",
+      "count": 211,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F13/36": {
+      "code": "G06F13/36",
+      "level": 2,
+      "parent": "G06F13/14",
+      "ja": "共通バスまたはバスシステムに対するアクセスのためのもの［４］",
+      "en": "for access to common bus or bus system",
+      "count": 9943,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F13/362": {
+      "code": "G06F13/362",
+      "level": 3,
+      "parent": "G06F13/36",
+      "ja": "集中型アクセス制御をもつもの［５］",
+      "en": "with centralised access control",
+      "count": 4315,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F13/364": {
+      "code": "G06F13/364",
+      "level": 4,
+      "parent": "G06F13/362",
+      "ja": "独立した要求または許可を用いるもの，例．個別の要求及び許可ラインを用いるもの［５］",
+      "en": "using independent requests or grants, e.g. using separated request and grant lines",
+      "count": 1378,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F13/366": {
+      "code": "G06F13/366",
+      "level": 4,
+      "parent": "G06F13/362",
+      "ja": "集中ポーリングアービタを用いるもの［５］",
+      "en": "using a centralised polling arbiter",
+      "count": 544,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F13/368": {
+      "code": "G06F13/368",
+      "level": 3,
+      "parent": "G06F13/36",
+      "ja": "分散型アクセス制御をもつもの［５］",
+      "en": "with decentralised access control",
+      "count": 666,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F13/37": {
+      "code": "G06F13/37",
+      "level": 4,
+      "parent": "G06F13/368",
+      "ja": "物理的な位置に存在する優先順位を用いるもの，例．デイジーチェーン，ラウンドロビンまたはトークンパッシング［５］",
+      "en": "using a physical-position-dependent priority, e.g. daisy chain, round robin or token passing",
+      "count": 768,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F13/372": {
+      "code": "G06F13/372",
+      "level": 4,
+      "parent": "G06F13/368",
+      "ja": "時間に依存する優先順位を用いるもの，例．個別に設定された時間カウンタまたはタイムスロット［５］",
+      "en": "using a time-dependent priority, e.g. individually loaded time counters or time slot",
+      "count": 704,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F13/374": {
+      "code": "G06F13/374",
+      "level": 4,
+      "parent": "G06F13/368",
+      "ja": "個別優先コード比較器をもつ自己選択方法を用いるもの［５］",
+      "en": "using a self-select method with individual priority code comparator",
+      "count": 423,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F13/376": {
+      "code": "G06F13/376",
+      "level": 4,
+      "parent": "G06F13/368",
+      "ja": "競合解決方法を用いるもの，例．衝突検出，衝突回避［５］",
+      "en": "using a contention resolving method, e.g. collision detection, collision avoidance",
+      "count": 346,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F13/378": {
+      "code": "G06F13/378",
+      "level": 4,
+      "parent": "G06F13/368",
+      "ja": "パラレルポール方法を用いるもの［５］",
+      "en": "using a parallel poll method",
+      "count": 88,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F13/38": {
+      "code": "G06F13/38",
+      "level": 1,
+      "parent": "G06F13/00",
+      "ja": "情報転送，例．バス上での（Ｇ０６Ｆ１３／１４が優先）［４］",
+      "en": "Information transfer, e.g. on bus(<b>G06F13/14</b> takes precedence)",
+      "count": 34590,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F13/40": {
+      "code": "G06F13/40",
+      "level": 2,
+      "parent": "G06F13/38",
+      "ja": "バス構造［４］",
+      "en": "Bus structure",
+      "count": 35079,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F13/42": {
+      "code": "G06F13/42",
+      "level": 2,
+      "parent": "G06F13/38",
+      "ja": "バス転送プロトコル，例．ハンドシェイク；同期化［４］",
+      "en": "Bus transfer protocol, e.g. handshake; Synchronisation",
+      "count": 34390,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F15/00": {
+      "code": "G06F15/00",
+      "level": 0,
+      "parent": "G06F",
+      "ja": "デジタル計算機一般（細部Ｇ０６Ｆ１／００～Ｇ０６Ｆ１３／００）；データ処理装置一般［２００６．０１］",
+      "en": "Digital computers in general(details <b>G06F1/00 to G06F13/00</b> );Data processing equipment in general",
+      "count": 51355,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F15/02": {
+      "code": "G06F15/02",
+      "level": 1,
+      "parent": "G06F15/00",
+      "ja": "入力はキーボードを通して，計算は組込みプログラムを用いて，手動的に操作するもの，例．ポケット計算機［２００６．０１］",
+      "en": "manually operated with input through keyboard and computation using a built-in program, e.g. pocket calculators",
+      "count": 23468,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F15/04": {
+      "code": "G06F15/04",
+      "level": 1,
+      "parent": "G06F15/00",
+      "ja": "処理されるデータの導入と同時にプログラムされるもの，例．データと同一の記録担体上にプログラムされるもの［２００６．０１］",
+      "en": "programmed simultaneously with the introduction of data to be processed, e.g. on the same record carrier",
+      "count": 421,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F15/08": {
+      "code": "G06F15/08",
+      "level": 1,
+      "parent": "G06F15/00",
+      "ja": "プログラミングのためにプラグ・ボードを用いるもの［２００６．０１］",
+      "en": "using a plugboard for programming",
+      "count": 132,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F15/10": {
+      "code": "G06F15/10",
+      "level": 2,
+      "parent": "G06F15/08",
+      "ja": "タビュレータ［２００６．０１］",
+      "en": "Tabulators",
+      "count": 189,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F15/12": {
+      "code": "G06F15/12",
+      "level": 3,
+      "parent": "G06F15/10",
+      "ja": "印刷とせん孔の両方の出力手段をもつもの［２００６．０１］",
+      "en": "having provision for both printed and punched output",
+      "count": 137,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F15/14": {
+      "code": "G06F15/14",
+      "level": 2,
+      "parent": "G06F15/08",
+      "ja": "計算せん孔機［２００６．０１］",
+      "en": "Calculating-punches",
+      "count": 36,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F15/16": {
+      "code": "G06F15/16",
+      "level": 1,
+      "parent": "G06F15/00",
+      "ja": "各々が少くとも算術演算ユニット，プログラム・ユニットおよびレジスタをもつ２つ以上のデジタル計算機が結合されたもの，例．数個のプログラムの同時処理を行うためのもの［２００６．０１］",
+      "en": "Combinations of two or more digital computers each having at least an arithmetic unit, a program unit and a register, e.g. for a simultaneous processing of several programs",
+      "count": 116009,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F15/163": {
+      "code": "G06F15/163",
+      "level": 2,
+      "parent": "G06F15/16",
+      "ja": "プロセッサ間通信［２００６．０１］",
+      "en": "Interprocessor communication",
+      "count": 5651,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F15/167": {
+      "code": "G06F15/167",
+      "level": 3,
+      "parent": "G06F15/163",
+      "ja": "共通メモリ，例．メールボックス，を用いるもの［２００６．０１］",
+      "en": "using a common memory, e.g. mailbox",
+      "count": 8199,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F15/17": {
+      "code": "G06F15/17",
+      "level": 3,
+      "parent": "G06F15/163",
+      "ja": "入力／出力型接続，例．チャネル，Ｉ／Ｏポート，を用いるもの［２００６．０１］",
+      "en": "using an input/output type connection, e.g. channel, I/O port",
+      "count": 3467,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F15/173": {
+      "code": "G06F15/173",
+      "level": 3,
+      "parent": "G06F15/163",
+      "ja": "相互接続ネットワークを用いるもの，例．マトリックス，シャフル，ピラミッド，スターまたはスノーフレーク［２００６．０１］",
+      "en": "using an interconnection network, e.g. matrix, shuffle, pyramid, star or snowflake",
+      "count": 40197,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F15/177": {
+      "code": "G06F15/177",
+      "level": 2,
+      "parent": "G06F15/16",
+      "ja": "初期化または構成制御（監視，試験または故障時のための構成制御Ｇ０６Ｆ１１／００）［２００６．０１］",
+      "en": "Initialisation or configuration control(configuration control for monitoring, testing or in case of failure <b>G06F11/00</b>)",
+      "count": 28658,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F15/76": {
+      "code": "G06F15/76",
+      "level": 1,
+      "parent": "G06F15/00",
+      "ja": "プログラム記憶式汎用計算機のアーキテクチャ（プログラム・プラグ・ボードをもつものＧ０６Ｆ１５／０８；多重計算機Ｇ０６Ｆ１５／１６）［２００６．０１］",
+      "en": "Architectures of general purpose stored program computers  (with program plugboard <b>G06F15/08</b>;   multicomputers <b>G06F15/16</b>)",
+      "count": 3512,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F15/78": {
+      "code": "G06F15/78",
+      "level": 2,
+      "parent": "G06F15/76",
+      "ja": "単一の中央処理装置からなるもの［２００６．０１］",
+      "en": "comprising a single central processing unit",
+      "count": 20404,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F15/80": {
+      "code": "G06F15/80",
+      "level": 2,
+      "parent": "G06F15/76",
+      "ja": "共通制御機構をもつ処理装置の配列からなるもの，例．単一命令複数データプロセッサ（Ｇ０６Ｆ１５／８２が優先）［２００６．０１］",
+      "en": "comprising an array of processing units with common control, e.g. single instruction multiple data processors(<b>G06F15/82</b> takes precedence)",
+      "count": 6194,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F15/82": {
+      "code": "G06F15/82",
+      "level": 2,
+      "parent": "G06F15/76",
+      "ja": "データまたは要求駆動型［２００６．０１］",
+      "en": "data or demand driven",
+      "count": 1610,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/00": {
+      "code": "G06F16/00",
+      "level": 0,
+      "parent": "G06F",
+      "ja": "情報検索；そのためのデータベース構造；そのためのファイルシステム構造［２０１９．０１］",
+      "en": "Information retrieval; Database structures therefor; File system structures therefor",
+      "count": 20530,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/10": {
+      "code": "G06F16/10",
+      "level": 1,
+      "parent": "G06F16/00",
+      "ja": "ファイルシステム；ファイルサーバ［２０１９．０１］",
+      "en": "File systems; File servers",
+      "count": 730,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/11": {
+      "code": "G06F16/11",
+      "level": 2,
+      "parent": "G06F16/10",
+      "ja": "ファイルシステム管理，例．アーカイビングまたはスナップショットの細部（ファイルシステムのバックアップＧ０６Ｆ１１／１４）［２０１９．０１］",
+      "en": "File system administration, e.g. details of archiving or snapshots(file system backup <b>G06F11/14</b>)",
+      "count": 9632,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/13": {
+      "code": "G06F16/13",
+      "level": 2,
+      "parent": "G06F16/10",
+      "ja": "ファイルアクセス構造，例．分散インデックス（記録担体からの入力または記録担体への出力装置Ｇ０６Ｆ３／０６）［２０１９．０１］",
+      "en": "File access structures, e.g. distributed indices(arrangements of input from, or output to, record carriers <b>G06F3/06</b>)",
+      "count": 7998,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/14": {
+      "code": "G06F16/14",
+      "level": 2,
+      "parent": "G06F16/10",
+      "ja": "ファイルのメタデータに基づくファイルサーチの細部［２０１９．０１］",
+      "en": "Details of searching files based on file metadata",
+      "count": 6366,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/16": {
+      "code": "G06F16/16",
+      "level": 2,
+      "parent": "G06F16/10",
+      "ja": "ファイルまたはフォルダの操作，例．ファイルシステムに特に適合したユーザーインターフェイスの細部［２０１９．０１］",
+      "en": "File or folder operations, e.g. details of user interfaces specifically adapted to file systems",
+      "count": 13543,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/17": {
+      "code": "G06F16/17",
+      "level": 2,
+      "parent": "G06F16/10",
+      "ja": "さらなるファイルシステム機能の細部［２０１９．０１］",
+      "en": "Details of further file system functions",
+      "count": 5191,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/172": {
+      "code": "G06F16/172",
+      "level": 3,
+      "parent": "G06F16/17",
+      "ja": "ファイルのキャッシュ処理，先取または蓄積［２０１９．０１］",
+      "en": "Caching, prefetching or hoarding of files",
+      "count": 6187,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/174": {
+      "code": "G06F16/174",
+      "level": 3,
+      "parent": "G06F16/17",
+      "ja": "ファイルシステムにより行われる冗長性の除去（データの重複排除を使用するバックアップまたはバックアップリストアに関わるデータの管理Ｇ０６Ｆ１１／１４）［２０１９．０１］",
+      "en": "Redundancy elimination performed by the file system(management of the data involved in backup or backup restore using de-duplication of the data <b>G06F11/14</b>)",
+      "count": 4269,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/176": {
+      "code": "G06F16/176",
+      "level": 3,
+      "parent": "G06F16/17",
+      "ja": "ファイルへの共有アクセスのサポート；ファイル共有サポート［２０１９．０１］",
+      "en": "Support for shared access to files; File sharing support",
+      "count": 3512,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/178": {
+      "code": "G06F16/178",
+      "level": 3,
+      "parent": "G06F16/17",
+      "ja": "ファイルシステム内のファイル同期のための技術［２０１９．０１］",
+      "en": "Techniques for file synchronisation in file systems",
+      "count": 2980,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/18": {
+      "code": "G06F16/18",
+      "level": 2,
+      "parent": "G06F16/10",
+      "ja": "ファイルシステムの種類［２０１９．０１］",
+      "en": "File system types",
+      "count": 7156,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/182": {
+      "code": "G06F16/182",
+      "level": 3,
+      "parent": "G06F16/18",
+      "ja": "分散ファイルシステム［２０１９．０１］",
+      "en": "Distributed file systems",
+      "count": 11116,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/185": {
+      "code": "G06F16/185",
+      "level": 3,
+      "parent": "G06F16/18",
+      "ja": "階層記憶管理［ＨＳＭ］システム，例．ファイルの移行またはそのポリシー（アーカイビングの細部Ｇ０６Ｆ１６／１１）［２０１９．０１］",
+      "en": "Hierarchical storage management [HSM] systems, e.g. file migration or policies thereof(details of archiving <b>G06F16/11</b>)",
+      "count": 846,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/188": {
+      "code": "G06F16/188",
+      "level": 3,
+      "parent": "G06F16/18",
+      "ja": "仮想ファイルシステム［２０１９．０１］",
+      "en": "Virtual file systems",
+      "count": 945,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/20": {
+      "code": "G06F16/20",
+      "level": 1,
+      "parent": "G06F16/00",
+      "ja": "構造化データのもの，例．リレーショナルデータ［２０１９．０１］",
+      "en": "of structured data, e.g. relational data",
+      "count": 2028,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/21": {
+      "code": "G06F16/21",
+      "level": 2,
+      "parent": "G06F16/20",
+      "ja": "データベースの設計，管理または保守［２０１９．０１］",
+      "en": "Design, administration or maintenance of databases",
+      "count": 20372,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/215": {
+      "code": "G06F16/215",
+      "level": 3,
+      "parent": "G06F16/21",
+      "ja": "データ品質を改善するもの；データクレンジング，例．重複排除，無効なエントリの削除または誤字の修正［２０１９．０１］",
+      "en": "Improving data quality; Data cleansing, e.g. de-duplication, removing invalid entries or correcting typographical errors",
+      "count": 21165,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/22": {
+      "code": "G06F16/22",
+      "level": 2,
+      "parent": "G06F16/20",
+      "ja": "インデキシング；そのためのデータ構造；ストレージ構造［２０１９．０１］",
+      "en": "Indexing; Data structures therefor; Storage structures",
+      "count": 48836,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/23": {
+      "code": "G06F16/23",
+      "level": 2,
+      "parent": "G06F16/20",
+      "ja": "アップデート［２０１９．０１］",
+      "en": "Updating",
+      "count": 35624,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/24": {
+      "code": "G06F16/24",
+      "level": 2,
+      "parent": "G06F16/20",
+      "ja": "クエリ［２０１９．０１］",
+      "en": "Querying",
+      "count": 3725,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/242": {
+      "code": "G06F16/242",
+      "level": 3,
+      "parent": "G06F16/24",
+      "ja": "クエリの構築［２０１９．０１］",
+      "en": "Query formulation",
+      "count": 19424,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/245": {
+      "code": "G06F16/245",
+      "level": 3,
+      "parent": "G06F16/24",
+      "ja": "クエリ処理［２０１９．０１］",
+      "en": "Query processing",
+      "count": 8345,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/2452": {
+      "code": "G06F16/2452",
+      "level": 4,
+      "parent": "G06F16/245",
+      "ja": "クエリ変換［２０１９．０１］",
+      "en": "Query translation",
+      "count": 2419,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/2453": {
+      "code": "G06F16/2453",
+      "level": 4,
+      "parent": "G06F16/245",
+      "ja": "クエリの最適化［２０１９．０１］",
+      "en": "Query optimisation",
+      "count": 10269,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/2455": {
+      "code": "G06F16/2455",
+      "level": 4,
+      "parent": "G06F16/245",
+      "ja": "クエリの実行［２０１９．０１］",
+      "en": "Query execution",
+      "count": 33292,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/2457": {
+      "code": "G06F16/2457",
+      "level": 4,
+      "parent": "G06F16/245",
+      "ja": "ユーザーニーズに適応させるもの［２０１９．０１］",
+      "en": "with adaptation to user needs",
+      "count": 15917,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/2458": {
+      "code": "G06F16/2458",
+      "level": 4,
+      "parent": "G06F16/245",
+      "ja": "特殊なクエリ，例．統計クエリ，ファジークエリまたは分散クエリ［２０１９．０１］",
+      "en": "Special types of queries, e.g. statistical queries, fuzzy queries or distributed queries",
+      "count": 35126,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/248": {
+      "code": "G06F16/248",
+      "level": 3,
+      "parent": "G06F16/24",
+      "ja": "クエリ結果の表示［２０１９．０１］",
+      "en": "Presentation of query results",
+      "count": 14043,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/25": {
+      "code": "G06F16/25",
+      "level": 2,
+      "parent": "G06F16/20",
+      "ja": "データベース管理システムを含むシステムの統合または連携［２０１９．０１］",
+      "en": "Integrating or interfacing systems involving database management systems",
+      "count": 39276,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/26": {
+      "code": "G06F16/26",
+      "level": 2,
+      "parent": "G06F16/20",
+      "ja": "ビジュアルデータマイニング；構造化データのブラウジング［２０１９．０１］",
+      "en": "Visual data mining; Browsing structured data",
+      "count": 9333,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/27": {
+      "code": "G06F16/27",
+      "level": 2,
+      "parent": "G06F16/20",
+      "ja": "データベース間または分散データベースシステム内でのデータの複製，分配または同期；そのための分散データベースシステムアーキテクチャ［２０１９．０１］",
+      "en": "Replication, distribution or synchronisation of data between databases or within a distributed database system; Distributed database system architectures therefor",
+      "count": 42763,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/28": {
+      "code": "G06F16/28",
+      "level": 2,
+      "parent": "G06F16/20",
+      "ja": "データベースモデルに特徴のあるデータベース，例．リレーショナルモデルまたはオブジェクトモデル［２０１９．０１］",
+      "en": "Databases characterised by their database models, e.g. relational or object models",
+      "count": 36028,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/29": {
+      "code": "G06F16/29",
+      "level": 2,
+      "parent": "G06F16/20",
+      "ja": "地理情報データベース［２０１９．０１］",
+      "en": "Geographical information databases",
+      "count": 35363,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/30": {
+      "code": "G06F16/30",
+      "level": 1,
+      "parent": "G06F16/00",
+      "ja": "構造化されていないテキストデータのもの（文書管理システムＧ０６Ｆ１６／９３）［２０１９．０１］<br><br><b><ul>注</ul></b><br>グループＧ０６Ｆ１６／３０～Ｇ０６Ｆ１６／３６において，メタデータを用いることに特徴がある検索に関連する主題は，新規かつ非自明であると判断された場合には，グループＧ０６Ｆ１６／３８～Ｇ０６Ｆ１６／３８７にも分類されなければならない。",
+      "en": "of unstructured textual data(document management systems <b>G06F16/93</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>In groups <b>G06F16/30 to G06F16/36</b> , subject matter relevant to retrieval characterised by using metadata, when it is determined to be novel and non-obvious, must also be classified in groups <b>G06F16/38 to G06F16/387</b> .</li></ul>",
+      "count": 2251,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/31": {
+      "code": "G06F16/31",
+      "level": 2,
+      "parent": "G06F16/30",
+      "ja": "インデキシング；そのためのデータ構造；ストレージ構造［２０１９．０１］",
+      "en": "Indexing; Data structures therefor; Storage structures",
+      "count": 9749,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/33": {
+      "code": "G06F16/33",
+      "level": 2,
+      "parent": "G06F16/30",
+      "ja": "クエリ［２０２５．０１］",
+      "en": "Querying",
+      "count": 31647,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/332": {
+      "code": "G06F16/332",
+      "level": 3,
+      "parent": "G06F16/33",
+      "ja": "クエリの構築［２０２５．０１］",
+      "en": "Query formulation",
+      "count": 25670,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/3329": {
+      "code": "G06F16/3329",
+      "level": 4,
+      "parent": "G06F16/332",
+      "ja": "自然言語によるクエリの構築［２０２５．０１］",
+      "en": "Natural language query formulation",
+      "count": 6933,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/3331": {
+      "code": "G06F16/3331",
+      "level": 3,
+      "parent": "G06F16/33",
+      "ja": "クエリの処理［２０２５．０１］",
+      "en": "Query processing",
+      "count": 367,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/3332": {
+      "code": "G06F16/3332",
+      "level": 4,
+      "parent": "G06F16/3331",
+      "ja": "クエリの変換［２０２５．０１］",
+      "en": "Query translation",
+      "count": 959,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/334": {
+      "code": "G06F16/334",
+      "level": 4,
+      "parent": "G06F16/3331",
+      "ja": "クエリの実行（追加データに基づくフィルタリングＧ０６Ｆ１６／３３５）［２０２５．０１］",
+      "en": "Query execution(filtering based on additional data <b>G06F16/335</b>)",
+      "count": 7053,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/3349": {
+      "code": "G06F16/3349",
+      "level": 4,
+      "parent": "G06F16/3331",
+      "ja": "検索結果履歴の再利用［２０２５．０１］",
+      "en": "Reuse of stored results of previous queries",
+      "count": 45,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/335": {
+      "code": "G06F16/335",
+      "level": 3,
+      "parent": "G06F16/33",
+      "ja": "追加データ，例．ユーザーまたはグループのプロファイル，に基づくフィルタリング（ウェブコンテキストでのフィルタリングＧ０６Ｆ１６／９５３５，Ｇ０６Ｆ１６／９５３６）［２０１９．０１］",
+      "en": "Filtering based on additional data, e.g. user or group profiles(filtering in web context <b>G06F16/9535</b>, <b>G06F16/9536</b>)",
+      "count": 9612,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/338": {
+      "code": "G06F16/338",
+      "level": 3,
+      "parent": "G06F16/33",
+      "ja": "クエリ結果の表示［２０１９．０１］",
+      "en": "Presentation of query results",
+      "count": 6143,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/34": {
+      "code": "G06F16/34",
+      "level": 2,
+      "parent": "G06F16/30",
+      "ja": "ブラウジング；そのための視覚化（クラスタリングまたは分類のためのブラウジングまたは視覚化Ｇ０６Ｆ１６／３５８）［２０２５．０１］",
+      "en": "Browsing; Visualisation therefor(browsing or visualisation for clustering or classification <b>G06F16/358</b>)",
+      "count": 6064,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/35": {
+      "code": "G06F16/35",
+      "level": 2,
+      "parent": "G06F16/30",
+      "ja": "クラスタリング；分類［２０２５．０１］",
+      "en": "Clustering; Classification",
+      "count": 37006,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/353": {
+      "code": "G06F16/353",
+      "level": 3,
+      "parent": "G06F16/35",
+      "ja": "定義済分類へのクラスタリングまたは分類［２０２５．０１］",
+      "en": "into predefined classes",
+      "count": 2828,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/355": {
+      "code": "G06F16/355",
+      "level": 3,
+      "parent": "G06F16/35",
+      "ja": "分類またはクラスタの生成や修正［２０２５．０１］",
+      "en": "Creation or modification of classes or clusters",
+      "count": 477,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/358": {
+      "code": "G06F16/358",
+      "level": 3,
+      "parent": "G06F16/35",
+      "ja": "ブラウジング；そのための視覚化［２０２５．０１］",
+      "en": "Browsing; Visualisation therefor",
+      "count": 57,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/36": {
+      "code": "G06F16/36",
+      "level": 2,
+      "parent": "G06F16/30",
+      "ja": "セマンティックツールの作成，例．オントロジーまたはシソーラス［２０１９．０１］",
+      "en": "Creation of semantic tools, e.g. ontology or thesauri",
+      "count": 26171,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/38": {
+      "code": "G06F16/38",
+      "level": 2,
+      "parent": "G06F16/30",
+      "ja": "メタデータ，例．コンテンツから取得したものではないメタデータまたは手動で生成されたメタデータ，を用いることに特徴のある検索［２０１９．０１］",
+      "en": "Retrieval characterised by using metadata, e.g. metadata not derived from the content or metadata generated manually",
+      "count": 2553,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/383": {
+      "code": "G06F16/383",
+      "level": 3,
+      "parent": "G06F16/38",
+      "ja": "コンテンツから自動取得したメタデータの使用［２０１９．０１］",
+      "en": "using metadata automatically derived from the content",
+      "count": 1820,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/387": {
+      "code": "G06F16/387",
+      "level": 3,
+      "parent": "G06F16/38",
+      "ja": "地理情報または空間情報，例．位置情報，の使用［２０１９．０１］",
+      "en": "using geographical or spatial information, e.g. location",
+      "count": 743,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/40": {
+      "code": "G06F16/40",
+      "level": 1,
+      "parent": "G06F16/00",
+      "ja": "マルチメディアデータのもの，例．画像と追加音声データを含むスライドショー（静止画データの検索Ｇ０６Ｆ１６／５０；音声データの検索Ｇ０６Ｆ１６／６０；ビデオデータの検索Ｇ０６Ｆ１６／７０）［２０１９．０１］<br><br><b><ul>注</ul></b><br>グループＧ０６Ｆ１６／４０～Ｇ０６Ｆ１６／４５において，メタデータを用いることに特徴がある検索に関連する主題は，新規かつ非自明であると判断された場合には，グループＧ０６Ｆ１６／４８～Ｇ０６Ｆ１６／４８７にも分類されなければならない。",
+      "en": "of multimedia data, e.g. slideshows comprising image and additional audio data(retrieval of still image data <b>G06F16/50</b>; retrieval of audio data <b>G06F16/60</b>; retrieval of video data <b>G06F16/70</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>In groups <b>G06F16/40 to G06F16/45</b> , subject matter relevant to retrieval characterised by using metadata, when it is determined to be novel and non-obvious, must also be classified in groups <b>G06F16/48 to G06F16/487</b> .</li></ul>",
+      "count": 795,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/41": {
+      "code": "G06F16/41",
+      "level": 2,
+      "parent": "G06F16/40",
+      "ja": "インデキシング；そのためのデータ構造；ストレージ構造［２０１９．０１］",
+      "en": "Indexing; Data structures therefor; Storage structures",
+      "count": 1278,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/43": {
+      "code": "G06F16/43",
+      "level": 2,
+      "parent": "G06F16/40",
+      "ja": "クエリ［２０１９．０１］",
+      "en": "Querying",
+      "count": 967,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/432": {
+      "code": "G06F16/432",
+      "level": 3,
+      "parent": "G06F16/43",
+      "ja": "クエリの構築［２０１９．０１］",
+      "en": "Query formulation",
+      "count": 1349,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/435": {
+      "code": "G06F16/435",
+      "level": 3,
+      "parent": "G06F16/43",
+      "ja": "追加データ，例．ユーザーまたはグループのプロファイル，に基づくフィルタリング［２０１９．０１］",
+      "en": "Filtering based on additional data, e.g. user or group profiles",
+      "count": 2476,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/438": {
+      "code": "G06F16/438",
+      "level": 3,
+      "parent": "G06F16/43",
+      "ja": "クエリ結果の表示［２０１９．０１］",
+      "en": "Presentation of query results",
+      "count": 2111,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/44": {
+      "code": "G06F16/44",
+      "level": 2,
+      "parent": "G06F16/40",
+      "ja": "ブラウジング；そのための視覚化［２０１９．０１］",
+      "en": "Browsing; Visualisation therefor",
+      "count": 1682,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/45": {
+      "code": "G06F16/45",
+      "level": 2,
+      "parent": "G06F16/40",
+      "ja": "クラスタリング；分類［２０１９．０１］",
+      "en": "Clustering; Classification",
+      "count": 1295,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/48": {
+      "code": "G06F16/48",
+      "level": 2,
+      "parent": "G06F16/40",
+      "ja": "メタデータ，例．コンテンツから取得したものではないメタデータまたは手動で生成されたメタデータ，を用いることに特徴のある検索［２０１９．０１］",
+      "en": "Retrieval characterised by using metadata, e.g. metadata not derived from the content or metadata generated manually",
+      "count": 1822,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/483": {
+      "code": "G06F16/483",
+      "level": 3,
+      "parent": "G06F16/48",
+      "ja": "コンテンツから自動取得したメタデータの使用［２０１９．０１］",
+      "en": "using metadata automatically derived from the content",
+      "count": 1226,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/487": {
+      "code": "G06F16/487",
+      "level": 3,
+      "parent": "G06F16/48",
+      "ja": "地理情報または空間情報，例．位置情報，の使用［２０１９．０１］",
+      "en": "using geographical or spatial information, e.g. location",
+      "count": 510,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/50": {
+      "code": "G06F16/50",
+      "level": 1,
+      "parent": "G06F16/00",
+      "ja": "静止画データのもの［２０１９．０１］<br><br><b><ul>注</ul></b><br>グループＧ０６Ｆ１６／５０～Ｇ０６Ｆ１６／５６において，メタデータを用いることに特徴がある検索に関連する主題は，新規かつ非自明であると判断された場合には，グループＧ０６Ｆ１６／５８～Ｇ０６Ｆ１６／５８７にも分類されなければならない。",
+      "en": "of still image data ; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In groups <b>G06F16/50 to G06F16/56</b> , subject matter relevant to retrieval characterised by using metadata, when it is determined to be novel and non-obvious, must also be classified in groups <b>G06F16/58 to G06F16/587</b> .</li></ul>",
+      "count": 1766,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/51": {
+      "code": "G06F16/51",
+      "level": 2,
+      "parent": "G06F16/50",
+      "ja": "インデキシング；そのためのデータ構造；ストレージ構造［２０１９．０１］",
+      "en": "Indexing; Data structures therefor; Storage structures",
+      "count": 6978,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/53": {
+      "code": "G06F16/53",
+      "level": 2,
+      "parent": "G06F16/50",
+      "ja": "クエリ［２０１９．０１］",
+      "en": "Querying",
+      "count": 3301,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/532": {
+      "code": "G06F16/532",
+      "level": 3,
+      "parent": "G06F16/53",
+      "ja": "クエリの構築，例．グラフィカルクエリ［２０１９．０１］",
+      "en": "Query formulation, e.g. graphical querying",
+      "count": 3162,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/535": {
+      "code": "G06F16/535",
+      "level": 3,
+      "parent": "G06F16/53",
+      "ja": "追加データ，例．ユーザーまたはグループのプロファイル，に基づくフィルタリング［２０１９．０１］",
+      "en": "Filtering based on additional data, e.g. user or group profiles",
+      "count": 2075,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/538": {
+      "code": "G06F16/538",
+      "level": 3,
+      "parent": "G06F16/53",
+      "ja": "クエリ結果の表示［２０１９．０１］",
+      "en": "Presentation of query results",
+      "count": 1996,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/54": {
+      "code": "G06F16/54",
+      "level": 2,
+      "parent": "G06F16/50",
+      "ja": "ブラウジング；そのための視覚化［２０１９．０１］",
+      "en": "Browsing; Visualisation therefor",
+      "count": 2225,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/55": {
+      "code": "G06F16/55",
+      "level": 2,
+      "parent": "G06F16/50",
+      "ja": "クラスタリング；分類［２０１９．０１］",
+      "en": "Clustering; Classification",
+      "count": 4489,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/56": {
+      "code": "G06F16/56",
+      "level": 2,
+      "parent": "G06F16/50",
+      "ja": "ベクトル形式を有するもの［２０１９．０１］",
+      "en": "having vectorial format",
+      "count": 1273,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/58": {
+      "code": "G06F16/58",
+      "level": 2,
+      "parent": "G06F16/50",
+      "ja": "メタデータ，例．コンテンツから取得したものではないメタデータまたは手動で生成されたメタデータ，を用いることに特徴のある検索［２０１９．０１］",
+      "en": "Retrieval characterised by using metadata, e.g. metadata not derived from the content or metadata generated manually",
+      "count": 5794,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/583": {
+      "code": "G06F16/583",
+      "level": 3,
+      "parent": "G06F16/58",
+      "ja": "コンテンツから自動取得したメタデータの使用［２０１９．０１］",
+      "en": "using metadata automatically derived from the content",
+      "count": 12279,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/587": {
+      "code": "G06F16/587",
+      "level": 3,
+      "parent": "G06F16/58",
+      "ja": "地理情報または空間情報，例．位置情報，の使用［２０１９．０１］",
+      "en": "using geographical or spatial information, e.g. location",
+      "count": 2330,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/60": {
+      "code": "G06F16/60",
+      "level": 1,
+      "parent": "G06F16/00",
+      "ja": "音声データ［２０１９．０１］<br><br><b><ul>注</ul></b><br>グループＧ０６Ｆ１６／６０～Ｇ０６Ｆ１６／６５において，メタデータを用いることに特徴がある検索に関連する主題は，新規かつ非自明であると判断された場合には，グループＧ０６Ｆ１６／６８～Ｇ０６Ｆ１６／６８７にも分類されなければならない。",
+      "en": "of audio data ; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In groups <b>G06F16/60 to G06F16/65</b> , subject matter relevant to retrieval characterised by using metadata, when it is determined to be novel and non-obvious, must also be classified in groups <b>G06F16/68 to G06F16/687</b> .</li></ul>",
+      "count": 440,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/61": {
+      "code": "G06F16/61",
+      "level": 2,
+      "parent": "G06F16/60",
+      "ja": "インデキシング；そのためのデータ構造；ストレージ構造［２０１９．０１］",
+      "en": "Indexing; Data structures therefor; Storage structures",
+      "count": 846,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/63": {
+      "code": "G06F16/63",
+      "level": 2,
+      "parent": "G06F16/60",
+      "ja": "クエリ［２０１９．０１］",
+      "en": "Querying",
+      "count": 570,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/632": {
+      "code": "G06F16/632",
+      "level": 3,
+      "parent": "G06F16/63",
+      "ja": "クエリの構築［２０１９．０１］",
+      "en": "Query formulation",
+      "count": 592,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/635": {
+      "code": "G06F16/635",
+      "level": 3,
+      "parent": "G06F16/63",
+      "ja": "追加データ，例．ユーザーまたはグループのプロファイル，に基づくフィルタリング［２０１９．０１］",
+      "en": "Filtering based on additional data, e.g. user or group profiles",
+      "count": 1906,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/638": {
+      "code": "G06F16/638",
+      "level": 3,
+      "parent": "G06F16/63",
+      "ja": "クエリ結果の表示［２０１９．０１］",
+      "en": "Presentation of query results",
+      "count": 1196,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/64": {
+      "code": "G06F16/64",
+      "level": 2,
+      "parent": "G06F16/60",
+      "ja": "ブラウジング；そのための視覚化（オーディオデータのリストまたはセットの生成Ｇ０６Ｆ１６／６３８）［２０１９．０１］",
+      "en": "Browsing; Visualisation therefor(generation of a list or set of audio data <b>G06F16/638</b>)",
+      "count": 442,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/65": {
+      "code": "G06F16/65",
+      "level": 2,
+      "parent": "G06F16/60",
+      "ja": "クラスタリング；分類［２０１９．０１］",
+      "en": "Clustering; Classification",
+      "count": 916,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/68": {
+      "code": "G06F16/68",
+      "level": 2,
+      "parent": "G06F16/60",
+      "ja": "メタデータ，例．コンテンツから取得したものではないメタデータまたは手動で生成されたメタデータ，を用いることに特徴のある検索［２０１９．０１］",
+      "en": "Retrieval characterised by using metadata, e.g. metadata not derived from the content or metadata generated manually",
+      "count": 1716,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/683": {
+      "code": "G06F16/683",
+      "level": 3,
+      "parent": "G06F16/68",
+      "ja": "コンテンツから自動取得したメタデータの使用［２０１９．０１］",
+      "en": "using metadata automatically derived from the content",
+      "count": 2091,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/687": {
+      "code": "G06F16/687",
+      "level": 3,
+      "parent": "G06F16/68",
+      "ja": "地理情報または空間情報，例．位置情報，の使用［２０１９．０１］",
+      "en": "using geographical or spatial information, e.g. location",
+      "count": 221,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/70": {
+      "code": "G06F16/70",
+      "level": 1,
+      "parent": "G06F16/00",
+      "ja": "ビデオデータのもの［２０１９．０１］<br><br><b><ul>注</ul></b><br>グループＧ０６Ｆ１６／７０～Ｇ０６Ｆ１６／７５において，メタデータを用いることに特徴がある検索に関連する主題は，新規かつ非自明であると判断された場合には，グループＧ０６Ｆ１６／７８～Ｇ０６Ｆ１６／７８７にも分類されなければならない。",
+      "en": "of video data; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In groups <b>G06F16/70 to G06F16/75</b> , subject matter relevant to retrieval characterised by using metadata, when it is determined to be novel and non-obvious, must also be classified in groups <b>G06F16/78 to G06F16/787</b> .</li></ul>",
+      "count": 668,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/71": {
+      "code": "G06F16/71",
+      "level": 2,
+      "parent": "G06F16/70",
+      "ja": "インデキシング；そのためのデータ構造；ストレージ構造［２０１９．０１］",
+      "en": "Indexing; Data structures therefor; Storage structures",
+      "count": 2039,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/73": {
+      "code": "G06F16/73",
+      "level": 2,
+      "parent": "G06F16/70",
+      "ja": "クエリ［２０１９．０１］",
+      "en": "Querying",
+      "count": 1008,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/732": {
+      "code": "G06F16/732",
+      "level": 3,
+      "parent": "G06F16/73",
+      "ja": "クエリの構築［２０１９．０１］",
+      "en": "Query formulation",
+      "count": 1283,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/735": {
+      "code": "G06F16/735",
+      "level": 3,
+      "parent": "G06F16/73",
+      "ja": "追加データ，例．ユーザーまたはグループのプロファイル，に基づくフィルタリング［２０１９．０１］",
+      "en": "Filtering based on additional data, e.g. user or group profiles",
+      "count": 2472,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/738": {
+      "code": "G06F16/738",
+      "level": 3,
+      "parent": "G06F16/73",
+      "ja": "クエリ結果の表示［２０１９．０１］",
+      "en": "Presentation of query results",
+      "count": 1773,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/74": {
+      "code": "G06F16/74",
+      "level": 2,
+      "parent": "G06F16/70",
+      "ja": "ブラウジング；そのための視覚化（ビデオコンテンツを要求または相互作用するためのエンドユーザインターフェイス，例．ビデオオンデマンドインターフェイスまたは電子プログラムガイドＨ０４Ｎ２１／４７２）［２０１９．０１］",
+      "en": "Browsing; Visualisation therefor(end-user interfaces for requesting or interacting with video content, e.g. video on demand interfaces or electronic programme guides, <b>H04N21/472</b>)",
+      "count": 1446,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/75": {
+      "code": "G06F16/75",
+      "level": 2,
+      "parent": "G06F16/70",
+      "ja": "クラスタリング；分類［２０１９．０１］",
+      "en": "Clustering; Classification",
+      "count": 1776,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/78": {
+      "code": "G06F16/78",
+      "level": 2,
+      "parent": "G06F16/70",
+      "ja": "メタデータ，例．コンテンツから取得したものではないメタデータまたは手動で生成されたメタデータ，を用いることに特徴のある検索［２０１９．０１］",
+      "en": "Retrieval characterised by using metadata, e.g. metadata not derived from the content or metadata generated manually",
+      "count": 3462,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/783": {
+      "code": "G06F16/783",
+      "level": 3,
+      "parent": "G06F16/78",
+      "ja": "コンテンツから自動取得したメタデータの使用［２０１９．０１］",
+      "en": "using metadata automatically derived from the content",
+      "count": 5227,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/787": {
+      "code": "G06F16/787",
+      "level": 3,
+      "parent": "G06F16/78",
+      "ja": "地理情報または空間情報，例．位置情報，の使用［２０１９．０１］",
+      "en": "using geographical or spatial information, e.g. location",
+      "count": 581,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/80": {
+      "code": "G06F16/80",
+      "level": 1,
+      "parent": "G06F16/00",
+      "ja": "半構造化データのもの，例．ＳＧＭＬ，ＸＭＬまたはＨＴＭＬなどのマークアップ言語構造化データ（ウェブデータのコンテンツベース検索Ｇ０６Ｆ１６／９５）［２０１９．０１］",
+      "en": "of semi-structured data, e.g. markup language structured data such as SGML, XML or HTML (content-based retrieval of web data <b>G06F16/95</b>)",
+      "count": 403,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/81": {
+      "code": "G06F16/81",
+      "level": 2,
+      "parent": "G06F16/80",
+      "ja": "インデキシング，例．ＸＭＬタグ；そのためのデータ構造；ストレージ構造［２０１９．０１］",
+      "en": "Indexing, e.g. XML tags; Data structures therefor; Storage structures",
+      "count": 913,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/83": {
+      "code": "G06F16/83",
+      "level": 2,
+      "parent": "G06F16/80",
+      "ja": "クエリ［２０１９．０１］",
+      "en": "Querying",
+      "count": 256,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/832": {
+      "code": "G06F16/832",
+      "level": 3,
+      "parent": "G06F16/83",
+      "ja": "クエリの構築［２０１９．０１］",
+      "en": "Query formulation",
+      "count": 84,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/835": {
+      "code": "G06F16/835",
+      "level": 3,
+      "parent": "G06F16/83",
+      "ja": "クエリ処理［２０１９．０１］",
+      "en": "Query processing",
+      "count": 369,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/838": {
+      "code": "G06F16/838",
+      "level": 3,
+      "parent": "G06F16/83",
+      "ja": "クエリ結果の表示［２０１９．０１］",
+      "en": "Presentation of query results",
+      "count": 170,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/84": {
+      "code": "G06F16/84",
+      "level": 2,
+      "parent": "G06F16/80",
+      "ja": "マッピング；変換［２０１９．０１］",
+      "en": "Mapping; Conversion",
+      "count": 1307,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/90": {
+      "code": "G06F16/90",
+      "level": 1,
+      "parent": "G06F16/00",
+      "ja": "検索されるデータ型に依存しないデータベース機能の細部［２０１９．０１］<br><br><b><ul>注</ul></b><br>注［２０１９．０１］<br>グループＧ０６Ｆ１６／９０～Ｇ０６Ｆ１６／９０６において，メタデータを用いることに特徴がある検索に関連する主題は，新規かつ非自明であると判断された場合には，グループＧ０６Ｆ１６／９０７～Ｇ０６Ｆ１６／９０９にも分類されなければならない。",
+      "en": "Details of database functions independent of the retrieved data types; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In groups <b>G06F16/90 to G06F16/906</b> , subject matter relevant to retrieval characterised by using metadata, when it is determined to be novel and non-obvious, must also be classified in groups <b>G06F16/907 to G06F16/909</b> .</li></ul>",
+      "count": 3662,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/901": {
+      "code": "G06F16/901",
+      "level": 2,
+      "parent": "G06F16/90",
+      "ja": "インデキシング；そのためのデータ構造；ストレージ構造（ウェブからの検索用Ｇ０６Ｆ１６／９５１）［２０１９．０１］",
+      "en": "Indexing; Data structures therefor; Storage structures (for retrieval from the  web <b>G06F16/951</b>)",
+      "count": 22633,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/903": {
+      "code": "G06F16/903",
+      "level": 2,
+      "parent": "G06F16/90",
+      "ja": "クエリ（ウェブからの検索用Ｇ０６Ｆ１６／９５３）［２０１９．０１］",
+      "en": "Querying (for retrieval from the web <b>G06F16/953</b>)",
+      "count": 16817,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/9032": {
+      "code": "G06F16/9032",
+      "level": 3,
+      "parent": "G06F16/903",
+      "ja": "クエリの構築［２０１９．０１］",
+      "en": "Query formulation",
+      "count": 5373,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/9035": {
+      "code": "G06F16/9035",
+      "level": 3,
+      "parent": "G06F16/903",
+      "ja": "追加データ，例．ユーザーまたはグループのプロファイル，に基づくフィルタリング［２０１９．０１］",
+      "en": "Filtering based on additional data, e.g. user or group profiles",
+      "count": 7136,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/9038": {
+      "code": "G06F16/9038",
+      "level": 3,
+      "parent": "G06F16/903",
+      "ja": "クエリ結果の表示［２０１９．０１］",
+      "en": "Presentation of query results",
+      "count": 4982,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/904": {
+      "code": "G06F16/904",
+      "level": 2,
+      "parent": "G06F16/90",
+      "ja": "ブラウジング；そのための視覚化（ウェブをナビゲートするためのものＧ０６Ｆ１６／９５４；ウェブのブラウジング最適化Ｇ０６Ｆ１６／９５７）［２０１９．０１］",
+      "en": "Browsing; Visualisation therefor  (for navigating the web <b>G06F16/954</b>;   browsing optimisation for the web <b>G06F16/957</b>)",
+      "count": 5790,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/906": {
+      "code": "G06F16/906",
+      "level": 2,
+      "parent": "G06F16/90",
+      "ja": "クラスタリング；分類［２０１９．０１］",
+      "en": "Clustering; Classification",
+      "count": 10877,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/907": {
+      "code": "G06F16/907",
+      "level": 2,
+      "parent": "G06F16/90",
+      "ja": "メタデータ，例．コンテンツから取得したものではないメタデータまたは手動で生成されたメタデータ，を用いることに特徴のある検索［２０１９．０１］",
+      "en": "Retrieval characterised by using metadata, e.g. metadata not derived from the content or metadata generated manually",
+      "count": 3189,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/908": {
+      "code": "G06F16/908",
+      "level": 3,
+      "parent": "G06F16/907",
+      "ja": "コンテンツから自動取得したメタデータの使用［２０１９．０１］",
+      "en": "using metadata automatically derived from the content",
+      "count": 1313,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/909": {
+      "code": "G06F16/909",
+      "level": 3,
+      "parent": "G06F16/907",
+      "ja": "地理情報または空間情報，例．位置情報，の使用（ウェブからの空間または時間依存検索Ｇ０６Ｆ１６／９５３７）［２０１９．０１］",
+      "en": "using geographical or spatial information, e.g. location  (spatial or temporal dependent retrieval from the web <b>G06F16/9537</b>)",
+      "count": 3415,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/93": {
+      "code": "G06F16/93",
+      "level": 2,
+      "parent": "G06F16/90",
+      "ja": "文書管理システム［２０１９．０１］",
+      "en": "Document management systems",
+      "count": 4566,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/95": {
+      "code": "G06F16/95",
+      "level": 2,
+      "parent": "G06F16/90",
+      "ja": "ウェブからの検索［２０１９．０１］",
+      "en": "Retrieval from the web",
+      "count": 1649,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/951": {
+      "code": "G06F16/951",
+      "level": 3,
+      "parent": "G06F16/95",
+      "ja": "インデキシング；ウェブクローリング技術［２０１９．０１］",
+      "en": "Indexing; Web crawling techniques",
+      "count": 14397,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/953": {
+      "code": "G06F16/953",
+      "level": 3,
+      "parent": "G06F16/95",
+      "ja": "クエリ，例．ウェブ検索エンジンを使用するもの［２０１９．０１］",
+      "en": "Querying, e.g. by the use of web search engines",
+      "count": 7636,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/9532": {
+      "code": "G06F16/9532",
+      "level": 4,
+      "parent": "G06F16/953",
+      "ja": "クエリの構築［２０１９．０１］",
+      "en": "Query formulation",
+      "count": 2493,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/9535": {
+      "code": "G06F16/9535",
+      "level": 4,
+      "parent": "G06F16/953",
+      "ja": "ユーザープロファイルとパーソナライゼーションに基づいた検索のカスタマイズ［２０１９．０１］",
+      "en": "Search customisation based on user profiles and personalisation",
+      "count": 41929,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/9536": {
+      "code": "G06F16/9536",
+      "level": 4,
+      "parent": "G06F16/953",
+      "ja": "ソーシャルフィルタリングまたは協調フィルタリングに基づいた検索のカスタマイズ［２０１９．０１］",
+      "en": "Search customisation based on social or collaborative filtering",
+      "count": 8422,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/9537": {
+      "code": "G06F16/9537",
+      "level": 4,
+      "parent": "G06F16/953",
+      "ja": "空間または時間依存検索，例．時空間クエリ［２０１９．０１］",
+      "en": "Spatial or temporal dependent retrieval, e.g. spatiotemporal queries",
+      "count": 12723,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/9538": {
+      "code": "G06F16/9538",
+      "level": 4,
+      "parent": "G06F16/953",
+      "ja": "クエリ結果の表示［２０１９．０１］",
+      "en": "Presentation of query results",
+      "count": 7347,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/954": {
+      "code": "G06F16/954",
+      "level": 3,
+      "parent": "G06F16/95",
+      "ja": "ナビゲーション，例．分類されたブラウジングを用いるもの［２０１９．０１］",
+      "en": "Navigation, e.g. using categorised browsing",
+      "count": 1637,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/955": {
+      "code": "G06F16/955",
+      "level": 3,
+      "parent": "G06F16/95",
+      "ja": "情報識別子を用いるもの，例．ユニフォームリソースロケータ［ＵＲＬ］［２０１９．０１］",
+      "en": "using information identifiers, e.g. uniform resource locators [URL]",
+      "count": 13371,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/957": {
+      "code": "G06F16/957",
+      "level": 3,
+      "parent": "G06F16/95",
+      "ja": "ブラウジングの最適化，例．キャッシュ処理またはコンテンツ洗練［２０１９．０１］",
+      "en": "Browsing optimisation, e.g. caching or content distillation",
+      "count": 13794,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F16/958": {
+      "code": "G06F16/958",
+      "level": 3,
+      "parent": "G06F16/95",
+      "ja": "ウェブサイトコンテンツの構成または管理，例．公開，ページの維持または自動リンク［２０１９．０１］",
+      "en": "Organisation or management of web site content, e.g. publishing, maintaining pages or automatic linking",
+      "count": 18612,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F17/00": {
+      "code": "G06F17/00",
+      "level": 0,
+      "parent": "G06F",
+      "ja": "特定の機能に特に適合したデジタル計算またはデータ処理の装置または方法（そのための情報検索，データベース構造またはファイルシステム構造Ｇ０６Ｆ１６／００）［２０１９．０１］",
+      "en": "Digital computing or data processing equipment or methods, specially adapted for specific functions(information retrieval, database structures or file system structures therefor <b>G06F16/00</b>)",
+      "count": 96062,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F17/10": {
+      "code": "G06F17/10",
+      "level": 1,
+      "parent": "G06F17/00",
+      "ja": "複合した数学演算［６］",
+      "en": "Complex mathematical operations",
+      "count": 41953,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F17/11": {
+      "code": "G06F17/11",
+      "level": 2,
+      "parent": "G06F17/10",
+      "ja": "方程式を解くためのもの［６］",
+      "en": "for solving equations",
+      "count": 22971,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F17/12": {
+      "code": "G06F17/12",
+      "level": 3,
+      "parent": "G06F17/11",
+      "ja": "連立方程式を解くためのもの［６］",
+      "en": "Simultaneous equations",
+      "count": 4742,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F17/13": {
+      "code": "G06F17/13",
+      "level": 3,
+      "parent": "G06F17/11",
+      "ja": "微分方程式を解くためのもの（デジタル微分解析器を用いるものＧ０６Ｆ７／６４）［６］",
+      "en": "Differential equations(using digital differential analysers <b>G06F7/64</b>)",
+      "count": 5638,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F17/14": {
+      "code": "G06F17/14",
+      "level": 2,
+      "parent": "G06F17/10",
+      "ja": "フーリエ，ウオルシュまたは類似の領域変換［６］",
+      "en": "Fourier, Walsh or analogous domain transformations",
+      "count": 12819,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F17/15": {
+      "code": "G06F17/15",
+      "level": 2,
+      "parent": "G06F17/10",
+      "ja": "相関関数の計算［６］",
+      "en": "Correlation function computation",
+      "count": 12998,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F17/16": {
+      "code": "G06F17/16",
+      "level": 2,
+      "parent": "G06F17/10",
+      "ja": "マトリックスまたはベクトルの計算［６］",
+      "en": "Matrix or vector computation",
+      "count": 43237,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F17/17": {
+      "code": "G06F17/17",
+      "level": 2,
+      "parent": "G06F17/10",
+      "ja": "近似法による関数の計算，例．内挿法または外挿法，平滑法または最小二乗法（［６］",
+      "en": "Function evaluation by approximation methods, e.g. interpolation or extrapolation, smoothing or least mean square method",
+      "count": 4592,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F17/18": {
+      "code": "G06F17/18",
+      "level": 2,
+      "parent": "G06F17/10",
+      "ja": "統計データの算出のためのもの［６］",
+      "en": "for evaluating statistical data",
+      "count": 49797,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F17/40": {
+      "code": "G06F17/40",
+      "level": 1,
+      "parent": "G06F17/00",
+      "ja": "データ取得および記録（計算機への入力のためのものＧ０６Ｆ３／００）［６］",
+      "en": "Data acquisition and logging(for input to computer <b>G06F3/00</b>)",
+      "count": 16950,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F18/00": {
+      "code": "G06F18/00",
+      "level": 0,
+      "parent": "G06F",
+      "ja": "パターン認識［２０２３．０１］",
+      "en": "Pattern recognition",
+      "count": 4827,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F18/10": {
+      "code": "G06F18/10",
+      "level": 1,
+      "parent": "G06F18/00",
+      "ja": "前処理；データクレンジング［２０２３．０１］",
+      "en": "Pre-processing; Data cleansing",
+      "count": 29570,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F18/15": {
+      "code": "G06F18/15",
+      "level": 2,
+      "parent": "G06F18/10",
+      "ja": "統計的前処理，例．正規化技術または欠損データの補完技術［２０２３．０１］",
+      "en": "Statistical pre-processing, e.g. techniques for normalisation or restoring missing data",
+      "count": 16709,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F18/20": {
+      "code": "G06F18/20",
+      "level": 1,
+      "parent": "G06F18/00",
+      "ja": "分析［２０２３．０１］",
+      "en": "Analysing",
+      "count": 16844,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F18/21": {
+      "code": "G06F18/21",
+      "level": 2,
+      "parent": "G06F18/20",
+      "ja": "認識システムまたは認識技術の設計またはセットアップ；特徴空間における特徴抽出；ブラインド信号源分離［２０２３．０１］",
+      "en": "Design or setup of recognition systems or techniques; Extraction of features in feature space; Blind source separation",
+      "count": 15287,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F18/211": {
+      "code": "G06F18/211",
+      "level": 3,
+      "parent": "G06F18/21",
+      "ja": "特徴集合のうち最も重要な部分集合の選択［２０２３．０１］",
+      "en": "Selection of the most significant subset of features",
+      "count": 3044,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F18/2111": {
+      "code": "G06F18/2111",
+      "level": 4,
+      "parent": "G06F18/211",
+      "ja": "進化的計算技術を用いるもの，例．遺伝的アルゴリズム［２０２３．０１］",
+      "en": "by using evolutionary computational techniques, e.g. genetic algorithms",
+      "count": 267,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F18/2113": {
+      "code": "G06F18/2113",
+      "level": 4,
+      "parent": "G06F18/211",
+      "ja": "特徴集合のランク付けまたはフィルタリングによるもの，例．分散の尺度または特徴の相互相関の尺度を用いるもの［２０２３．０１］",
+      "en": "by ranking or filtering the set of features, e.g. using a measure of variance or of feature cross-correlation",
+      "count": 3914,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F18/2115": {
+      "code": "G06F18/2115",
+      "level": 4,
+      "parent": "G06F18/211",
+      "ja": "最適化基準により異なる部分集合を評価するもの，例．変数増加法または変数減少法［２０２３．０１］",
+      "en": "by evaluating different subsets according to an optimisation criterion, e.g. class separability, forward selection or backward elimination",
+      "count": 391,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F18/213": {
+      "code": "G06F18/213",
+      "level": 3,
+      "parent": "G06F18/21",
+      "ja": "特徴抽出，例．特徴空間の変換によるもの；要約；マッピング，例．部分空間法［２０２３．０１］",
+      "en": "Feature extraction, e.g. by transforming the feature space; Summarisation; Mappings, e.g. subspace methods",
+      "count": 54915,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F18/2131": {
+      "code": "G06F18/2131",
+      "level": 4,
+      "parent": "G06F18/213",
+      "ja": "変換領域の処理に基づくもの，例．ウェーブレット変換［２０２３．０１］",
+      "en": "based on a transform domain processing, e.g. wavelet transform",
+      "count": 7521,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F18/2132": {
+      "code": "G06F18/2132",
+      "level": 4,
+      "parent": "G06F18/213",
+      "ja": "判別基準に基づくもの，例．判別分析［２０２３．０１］",
+      "en": "based on discrimination criteria, e.g. discriminant analysis",
+      "count": 1033,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F18/2133": {
+      "code": "G06F18/2133",
+      "level": 4,
+      "parent": "G06F18/213",
+      "ja": "自然性基準に基づくもの，例．非負値行列因子分解または負の相関を用いるもの［２０２３．０１］",
+      "en": "based on naturality criteria, e.g. with non-negative factorisation or negative correlation",
+      "count": 100,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F18/2134": {
+      "code": "G06F18/2134",
+      "level": 4,
+      "parent": "G06F18/213",
+      "ja": "分離性基準に基づくもの，例．独立成分分析［２０２３．０１］",
+      "en": "based on separation criteria, e.g. independent component analysis",
+      "count": 817,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F18/2135": {
+      "code": "G06F18/2135",
+      "level": 4,
+      "parent": "G06F18/213",
+      "ja": "近似性基準に基づくもの，例．主成分分析［２０２３．０１］",
+      "en": "based on approximation criteria, e.g. principal component analysis",
+      "count": 8550,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F18/2136": {
+      "code": "G06F18/2136",
+      "level": 4,
+      "parent": "G06F18/213",
+      "ja": "疎性基準に基づくもの，例．過完備基底を用いるもの［２０２３．０１］",
+      "en": "based on sparsity criteria, e.g. with an overcomplete basis",
+      "count": 614,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F18/2137": {
+      "code": "G06F18/2137",
+      "level": 4,
+      "parent": "G06F18/213",
+      "ja": "位相保持基準に基づくもの，例．多次元スケーリングまたは自己組織化マップ［２０２３．０１］",
+      "en": "based on criteria of topology preservation, e.g. multidimensional scaling or self-organising maps",
+      "count": 730,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F18/214": {
+      "code": "G06F18/214",
+      "level": 3,
+      "parent": "G06F18/21",
+      "ja": "訓練パターンの生成；ブートストラップ法，例．バギングまたはブースティング［２０２３．０１］",
+      "en": "Generating training patterns; Bootstrap methods, e.g. bagging or boosting",
+      "count": 66495,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F18/22": {
+      "code": "G06F18/22",
+      "level": 2,
+      "parent": "G06F18/20",
+      "ja": "マッチング基準，例．近接度［２０２３．０１］",
+      "en": "Matching criteria, e.g. proximity measures",
+      "count": 43389,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F18/23": {
+      "code": "G06F18/23",
+      "level": 2,
+      "parent": "G06F18/20",
+      "ja": "クラスタリング技術［２０２３．０１］",
+      "en": "Clustering techniques",
+      "count": 17793,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F18/231": {
+      "code": "G06F18/231",
+      "level": 3,
+      "parent": "G06F18/23",
+      "ja": "階層的技術，すなわちデンドログラムを得るためのパターン集合の分割または結合［２０２３．０１］",
+      "en": "Hierarchical techniques, i.e. dividing or merging pattern sets so as to obtain a dendrogram",
+      "count": 1476,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F18/232": {
+      "code": "G06F18/232",
+      "level": 3,
+      "parent": "G06F18/23",
+      "ja": "非階層的技術［２０２３．０１］",
+      "en": "Non-hierarchical techniques",
+      "count": 1254,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F18/2321": {
+      "code": "G06F18/2321",
+      "level": 4,
+      "parent": "G06F18/232",
+      "ja": "統計または関数最適化を用いるもの，例．確率密度関数のモデリング［２０２３．０１］",
+      "en": "using statistics or function optimisation, e.g. modelling of probability density functions",
+      "count": 4483,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F18/23211": {
+      "code": "G06F18/23211",
+      "level": 5,
+      "parent": "G06F18/2321",
+      "ja": "クラスタ数が適応的なもの［２０２３．０１］",
+      "en": "with adaptive number of clusters",
+      "count": 367,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F18/23213": {
+      "code": "G06F18/23213",
+      "level": 5,
+      "parent": "G06F18/2321",
+      "ja": "クラスタ数が一定のもの，例．Ｋ平均法［２０２３．０１］",
+      "en": "with fixed number of clusters, e.g. K-means clustering",
+      "count": 14893,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F18/2323": {
+      "code": "G06F18/2323",
+      "level": 4,
+      "parent": "G06F18/232",
+      "ja": "グラフ理論に基づくもの，例．　最小全域木［ＭＳＴ］またはグラフカット［２０２３．０１］",
+      "en": "based on graph theory, e.g. minimum spanning trees [MST] or graph cuts",
+      "count": 795,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F18/2325": {
+      "code": "G06F18/2325",
+      "level": 4,
+      "parent": "G06F18/232",
+      "ja": "ベクトル量子化を用いるもの［２０２３．０１］",
+      "en": "using vector quantisation",
+      "count": 60,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F18/2337": {
+      "code": "G06F18/2337",
+      "level": 4,
+      "parent": "G06F18/232",
+      "ja": "ファジー論理，すなわちファジークラスタリングを用いるもの［２０２３．０１］",
+      "en": "using fuzzy logic, i.e. fuzzy clustering",
+      "count": 999,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F18/24": {
+      "code": "G06F18/24",
+      "level": 2,
+      "parent": "G06F18/20",
+      "ja": "分類技術［２０２３．０１］",
+      "en": "Classification techniques",
+      "count": 32724,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F18/241": {
+      "code": "G06F18/241",
+      "level": 3,
+      "parent": "G06F18/24",
+      "ja": "分類モデルに関するもの，例．パラメトリック法またはノンパラメトリック法［２０２３．０１］",
+      "en": "relating to the classification model, e.g. parametric or non-parametric approaches",
+      "count": 28459,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F18/2411": {
+      "code": "G06F18/2411",
+      "level": 4,
+      "parent": "G06F18/241",
+      "ja": "決定面との近接性に基づくもの，例．サポートベクターマシン［２０２３．０１］",
+      "en": "based on the proximity to a decision surface, e.g. support vector machines",
+      "count": 9553,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F18/2413": {
+      "code": "G06F18/2413",
+      "level": 4,
+      "parent": "G06F18/241",
+      "ja": "訓練パターンまたは参照パターンとの距離に基づくもの［２０２３．０１］",
+      "en": "based on distances to training or reference patterns",
+      "count": 5049,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F18/2415": {
+      "code": "G06F18/2415",
+      "level": 4,
+      "parent": "G06F18/241",
+      "ja": "パラメトリックモデルまたは確率モデルに基づくもの，例．尤度比または　他人受入率対本人拒否率に基づくもの［２０２３．０１］",
+      "en": "based on parametric or probabilistic models, e.g. based on likelihood ratio or false acceptance rate versus a false rejection rate",
+      "count": 17229,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F18/243": {
+      "code": "G06F18/243",
+      "level": 3,
+      "parent": "G06F18/24",
+      "ja": "クラス数に関するもの［２０２３．０１］",
+      "en": "relating to the number of classes",
+      "count": 11553,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F18/2431": {
+      "code": "G06F18/2431",
+      "level": 4,
+      "parent": "G06F18/243",
+      "ja": "多クラス［２０２３．０１］",
+      "en": "Multiple classes",
+      "count": 16021,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F18/2433": {
+      "code": "G06F18/2433",
+      "level": 4,
+      "parent": "G06F18/243",
+      "ja": "単一クラスの観点，例．一対多分類；新規性検知；異常検知［２０２３．０１］",
+      "en": "Single-class perspective, e.g. one-against-all classification; Novelty detection; Outlier detection",
+      "count": 21696,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F18/245": {
+      "code": "G06F18/245",
+      "level": 3,
+      "parent": "G06F18/24",
+      "ja": "決定面に関するもの［２０２３．０１］",
+      "en": "relating to the decision surface",
+      "count": 54,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F18/2451": {
+      "code": "G06F18/2451",
+      "level": 4,
+      "parent": "G06F18/245",
+      "ja": "線形のもの，例．超平面［２０２３．０１］",
+      "en": "linear, e.g. hyperplane",
+      "count": 428,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F18/2453": {
+      "code": "G06F18/2453",
+      "level": 4,
+      "parent": "G06F18/245",
+      "ja": "非線形のもの，例．多項式識別器［２０２３．０１］",
+      "en": "non-linear, e.g. polynomial classifier",
+      "count": 65,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F18/25": {
+      "code": "G06F18/25",
+      "level": 2,
+      "parent": "G06F18/20",
+      "ja": "融合技術［２０２３．０１］",
+      "en": "Fusion techniques",
+      "count": 50897,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F18/26": {
+      "code": "G06F18/26",
+      "level": 2,
+      "parent": "G06F18/20",
+      "ja": "頻出パターンを発見するもの［２０２３．０１］",
+      "en": "Discovering frequent patterns",
+      "count": 1555,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F18/27": {
+      "code": "G06F18/27",
+      "level": 2,
+      "parent": "G06F18/20",
+      "ja": "回帰，例．線形回帰またはロジスティック回帰［２０２３．０１］",
+      "en": "Regression, e.g. linear or logistic regression",
+      "count": 17148,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F18/28": {
+      "code": "G06F18/28",
+      "level": 2,
+      "parent": "G06F18/20",
+      "ja": "代表的な参照パターンを決定するもの，例．平均または歪みによるもの；辞書の生成［２０２３．０１］",
+      "en": "Determining representative reference patterns, e.g. by averaging or distorting; Generating dictionaries",
+      "count": 584,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F18/30": {
+      "code": "G06F18/30",
+      "level": 1,
+      "parent": "G06F18/00",
+      "ja": "後処理［２０２３．０１］",
+      "en": "Post-processing",
+      "count": 209,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F18/40": {
+      "code": "G06F18/40",
+      "level": 1,
+      "parent": "G06F18/00",
+      "ja": "パターン認識に特に適したソフトウエアの構成，例．そのためのユーザインタフェースまたはツールボックス［２０２３．０１］",
+      "en": "Software arrangements specially adapted for pattern recognition, e.g. user interfaces or toolboxes therefor",
+      "count": 830,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F21/00": {
+      "code": "G06F21/00",
+      "level": 0,
+      "parent": "G06F",
+      "ja": "不正行為から計算機，その部品，プログラムまたはデータを保護するためのセキュリティ装置［８，２０１３．０１］",
+      "en": "Security arrangements for protecting computers, components thereof, programs or data against unauthorised activity",
+      "count": 41221,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F21/10": {
+      "code": "G06F21/10",
+      "level": 1,
+      "parent": "G06F21/00",
+      "ja": "配布されたプログラムまたはコンテンツを保護するもの，例．著作物を販売またはライセンスするもの（ビデオシステムまたは有料放送における保護Ｈ０４Ｎ７／１６）［２０１３．０１］<br><br><b><ul>注</ul></b><br>このグループにおいては，下記の用語または表現は以下に示す意味で用いられる：<br>“ｃｏｎｔｅｎｔ”とはすべての知的創作物で，その著作権が保護されるべきものを意味する。",
+      "en": "Protecting distributed programs or content, e.g. vending or licensing of copyrighted material(protection in video systems or pay television <b>H04N7/16</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>In this group, the following terms or expressions are used with the meaning indicated:<ul><li>\"content\" means any intellectually created work whose copyright is to be safeguarded.</li></ul></li></ul>",
+      "count": 24132,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F21/12": {
+      "code": "G06F21/12",
+      "level": 2,
+      "parent": "G06F21/10",
+      "ja": "実行可能なソフトウェアを保護するもの［２０１３．０１］",
+      "en": "Protecting executable software",
+      "count": 11984,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F21/14": {
+      "code": "G06F21/14",
+      "level": 3,
+      "parent": "G06F21/12",
+      "ja": "ソフトウェア分析またはリバースエンジニアリングに対するもの，例．難読化によるもの［２０１３．０１］",
+      "en": "against software analysis or reverse engineering, e.g. by obfuscation",
+      "count": 3935,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F21/16": {
+      "code": "G06F21/16",
+      "level": 2,
+      "parent": "G06F21/10",
+      "ja": "プログラムまたはコンテンツの追跡可能性，例．透かしによる［２０１３．０１］",
+      "en": "Program or content traceability, e.g. by watermarking",
+      "count": 3931,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F21/30": {
+      "code": "G06F21/30",
+      "level": 1,
+      "parent": "G06F21/00",
+      "ja": "認証，すなわちセキュリティ主体の身元又は認可の確立［２０１３．０１］",
+      "en": "Authentication, i.e. establishing the identity or authorisation of security principals",
+      "count": 6742,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F21/31": {
+      "code": "G06F21/31",
+      "level": 2,
+      "parent": "G06F21/30",
+      "ja": "ユーザーの認証［２０１３．０１］",
+      "en": "User authentication",
+      "count": 44108,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F21/32": {
+      "code": "G06F21/32",
+      "level": 3,
+      "parent": "G06F21/31",
+      "ja": "生体データを用いるもの，例．指紋，虹彩スキャンまたは声紋［２０１３．０１］",
+      "en": "using biometric data, e.g. fingerprints, iris scans or voiceprints",
+      "count": 36705,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F21/33": {
+      "code": "G06F21/33",
+      "level": 3,
+      "parent": "G06F21/31",
+      "ja": "証明書を用いるもの［２０１３．０１］",
+      "en": "using certificates",
+      "count": 7826,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F21/34": {
+      "code": "G06F21/34",
+      "level": 3,
+      "parent": "G06F21/31",
+      "ja": "外付機器の使用を含むもの，例．ドングルまたはスマートカード［２０１３．０１］",
+      "en": "involving the use of external additional devices, e.g. dongles or smart cards",
+      "count": 9541,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F21/35": {
+      "code": "G06F21/35",
+      "level": 4,
+      "parent": "G06F21/34",
+      "ja": "無線通信するもの［２０１３．０１］",
+      "en": "communicating wirelessly",
+      "count": 4200,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F21/36": {
+      "code": "G06F21/36",
+      "level": 3,
+      "parent": "G06F21/31",
+      "ja": "画像または像の提示によるもの［２０１３．０１］",
+      "en": "by graphic or iconic representation",
+      "count": 6102,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F21/40": {
+      "code": "G06F21/40",
+      "level": 3,
+      "parent": "G06F21/31",
+      "ja": "集団によるもの，すなわち２以上のセキュリティ主体が必要とされるもの［２０１３．０１］",
+      "en": "by quorum, i.e. whereby two or more security principals are required",
+      "count": 809,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F21/41": {
+      "code": "G06F21/41",
+      "level": 3,
+      "parent": "G06F21/31",
+      "ja": "複数の計算機へのアクセスを提供するシングルサインオン［２０１３．０１］",
+      "en": "where a single sign-on provides access to a plurality of computers",
+      "count": 2565,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F21/42": {
+      "code": "G06F21/42",
+      "level": 3,
+      "parent": "G06F21/31",
+      "ja": "セキュリティデータのために別のチャンネルを用いるもの［２０１３．０１］",
+      "en": "using separate channels for security data",
+      "count": 783,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F21/43": {
+      "code": "G06F21/43",
+      "level": 4,
+      "parent": "G06F21/42",
+      "ja": "無線チャネル［２０１３．０１］",
+      "en": "wireless channels",
+      "count": 491,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F21/44": {
+      "code": "G06F21/44",
+      "level": 2,
+      "parent": "G06F21/30",
+      "ja": "プログラムまたは機器の認証［２０１３．０１］",
+      "en": "Program or device authentication",
+      "count": 19628,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F21/45": {
+      "code": "G06F21/45",
+      "level": 2,
+      "parent": "G06F21/30",
+      "ja": "認証管理のための構造またはツール［２０１３．０１］",
+      "en": "Structures or tools for the administration of authentication",
+      "count": 9188,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F21/46": {
+      "code": "G06F21/46",
+      "level": 3,
+      "parent": "G06F21/45",
+      "ja": "パスワードの設計，またはパスワードの強度を検査するためのもの［２０１３．０１］",
+      "en": "by designing passwords or checking the strength of passwords",
+      "count": 4780,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F21/50": {
+      "code": "G06F21/50",
+      "level": 1,
+      "parent": "G06F21/00",
+      "ja": "プラットフォーム，（例．プロセッサ，ファームウェアまたはＯＳ）の完全性を維持するために、ユーザー，プログラムまたはデバイスを監視するもの［２０１３．０１］",
+      "en": "Monitoring users, programs or devices to maintain the integrity of platforms, e.g. of processors, firmware or operating systems",
+      "count": 3890,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F21/51": {
+      "code": "G06F21/51",
+      "level": 2,
+      "parent": "G06F21/50",
+      "ja": "アプリケーションのロード時，完全性またはソースの信頼性に基づいて、実行可能なソフトウェアを，例えば受理し，拒絶し，開始しまたは抑止するもの［２０１３．０１］",
+      "en": "at application loading time, e.g. accepting, rejecting, starting or inhibiting executable software based on integrity or source reliability",
+      "count": 4143,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F21/52": {
+      "code": "G06F21/52",
+      "level": 2,
+      "parent": "G06F21/50",
+      "ja": "プログラムの実行中に，例えばスタックの完全性，バッファのオーバーフローまたは望まないデータ消去を防止するもの［２０１３．０１］",
+      "en": "during program execution, e.g. stack integrity, buffer overflow or preventing unwanted data erasure",
+      "count": 3170,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F21/53": {
+      "code": "G06F21/53",
+      "level": 3,
+      "parent": "G06F21/52",
+      "ja": "制限された環境内で実行するもの，例．サンドボックスまたはセキュアなバーチャル・マシン［２０１３．０１］",
+      "en": "by executing in a restricted environment, e.g. sandbox or secure virtual machine",
+      "count": 6948,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F21/54": {
+      "code": "G06F21/54",
+      "level": 3,
+      "parent": "G06F21/52",
+      "ja": "セキュリティルーチンまたはオブジェクトをプログラムに追加することによるもの［２０１３．０１］",
+      "en": "by adding security routines or objects to programs",
+      "count": 2371,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F21/55": {
+      "code": "G06F21/55",
+      "level": 2,
+      "parent": "G06F21/50",
+      "ja": "ローカルへの侵入を検知または対抗策を実行するもの［２０１３．０１］",
+      "en": "Detecting local intrusion or implementing counter-measures",
+      "count": 18770,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F21/56": {
+      "code": "G06F21/56",
+      "level": 3,
+      "parent": "G06F21/55",
+      "ja": "コンピュータ・マルウェアの検出または処理，例．アンチ・ウィルス装置［２０１３．０１］",
+      "en": "Computer malware detection or handling, e.g. anti-virus arrangements",
+      "count": 20941,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F21/57": {
+      "code": "G06F21/57",
+      "level": 2,
+      "parent": "G06F21/50",
+      "ja": "信頼された計算機プラットフォームの保証または維持，例．セキュアブートまたは電源断，バージョンの管理，システム・ソフトウェアの検査，セキュア更新または脆弱性評価［２０１３．０１］",
+      "en": "Certifying or maintaining trusted computer platforms, e.g. secure boots or power-downs, version controls, system software checks, secure updates or assessing vulnerabilities",
+      "count": 28293,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F21/60": {
+      "code": "G06F21/60",
+      "level": 1,
+      "parent": "G06F21/00",
+      "ja": "データを保護するもの［２０１３．０１］",
+      "en": "Protecting data",
+      "count": 83561,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F21/62": {
+      "code": "G06F21/62",
+      "level": 2,
+      "parent": "G06F21/60",
+      "ja": "プラットフォームからのデータへのアクセスを保護するもの，例．鍵またはアクセスコントロールルールを用いるもの［２０１３．０１］",
+      "en": "Protecting access to data via a platform, e.g. using keys or access control rules",
+      "count": 96698,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F21/64": {
+      "code": "G06F21/64",
+      "level": 2,
+      "parent": "G06F21/60",
+      "ja": "データの完全性を保護するもの，例．チェックサム，証明書または署名を用いるもの［２０１３．０１］",
+      "en": "Protecting data integrity, e.g. using checksums, certificates or signatures",
+      "count": 36180,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F21/70": {
+      "code": "G06F21/70",
+      "level": 1,
+      "parent": "G06F21/00",
+      "ja": "特定の内部部品または周辺部品を保護するものであり，あるコンポーネントの保護により計算機全体が保護されるもの［２０１３．０１］",
+      "en": "Protecting specific internal or peripheral components, in which the protection of a component leads to protection of the entire computer",
+      "count": 1608,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F21/71": {
+      "code": "G06F21/71",
+      "level": 2,
+      "parent": "G06F21/70",
+      "ja": "セキュア演算または情報処理を保証するもの［２０１３．０１］",
+      "en": "to assure secure computing or processing of information",
+      "count": 3379,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F21/72": {
+      "code": "G06F21/72",
+      "level": 3,
+      "parent": "G06F21/71",
+      "ja": "暗号回路［２０１３．０１］",
+      "en": "in cryptographic circuits",
+      "count": 4060,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F21/73": {
+      "code": "G06F21/73",
+      "level": 3,
+      "parent": "G06F21/71",
+      "ja": "ハードウェア識別情報をを生成または決定することによるもの，例．シリアルナンバー［２０１３．０１］",
+      "en": "by creating or determining hardware identification, e.g. serial numbers",
+      "count": 2150,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F21/74": {
+      "code": "G06F21/74",
+      "level": 3,
+      "parent": "G06F21/71",
+      "ja": "デュアルまたは区画されたモード，（すなわち最低１つ以上のモード）で動作するもの［２０１３．０１］",
+      "en": "operating in dual or compartmented mode, i.e. at least one secure mode",
+      "count": 2278,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F21/75": {
+      "code": "G06F21/75",
+      "level": 3,
+      "parent": "G06F21/71",
+      "ja": "回路または演算の分析を抑止するもの，例．リバースエンジニアリング対策［２０１３．０１］",
+      "en": "by inhibiting the analysis of circuitry or operation, e.g. to counteract reverse engineering",
+      "count": 2212,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F21/76": {
+      "code": "G06F21/76",
+      "level": 3,
+      "parent": "G06F21/71",
+      "ja": "特定用途向け集積回路［ＡＳＩＣ］またはフィールド・プログラマブル機器，例えばフィールド・プログラマブル・ゲートアレイ［ＦＰＧＡ］またはプログラマブル論理回路［ＰＬＤ］［２０１３．０１］",
+      "en": "in application-specific integrated circuits [ASIC] or field-programmable devices, e.g. field-programmable gate arrays [FPGA] or programmable logic devices [PLD]",
+      "count": 1185,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F21/77": {
+      "code": "G06F21/77",
+      "level": 3,
+      "parent": "G06F21/71",
+      "ja": "スマートカード［２０１３．０１］",
+      "en": "in smart cards",
+      "count": 1192,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F21/78": {
+      "code": "G06F21/78",
+      "level": 2,
+      "parent": "G06F21/70",
+      "ja": "データのセキュアなストレージを保証するもの（メモリの不正な使用に対するアドレス保護Ｇ０６Ｆ１２／１４；少なくともその一部にデジタルマークが記録されるように設計され，かつ機械で使用される記録担体Ｇ０６Ｋ１９／００）［２０１３．０１］",
+      "en": "to assure secure storage of data(address-based protection against unauthorised use of memory <b>G06F12/14</b>; record carriers for use with machines and with at least a part designed to carry digital markings <b>G06K19/00</b>)",
+      "count": 6289,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F21/79": {
+      "code": "G06F21/79",
+      "level": 3,
+      "parent": "G06F21/78",
+      "ja": "半導体記憶媒体，例．直接的にアドレス可能なメモリ［２０１３．０１］",
+      "en": "in semiconductor storage media, e.g. directly-addressable memories",
+      "count": 4844,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F21/80": {
+      "code": "G06F21/80",
+      "level": 3,
+      "parent": "G06F21/78",
+      "ja": "磁気または光学技術に基づく記憶媒体，例．セクターを有するディスク（ディスク型の記憶可能媒体の不正な複製または複写を防止するＧ１１Ｂ２０／００）［２０１３．０１］",
+      "en": "in storage media based on magnetic or optical technology, e.g. disks with sectors (preventing unauthorised reproduction or copying of disc-type recordable media <b>G11B20/00</b>)",
+      "count": 1641,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F21/81": {
+      "code": "G06F21/81",
+      "level": 2,
+      "parent": "G06F21/70",
+      "ja": "電源供給で動作するもの，例．電源投入，スリープまたは復帰動作を可能または不可能にするもの［２０１３．０１］",
+      "en": "by operating on the power supply, e.g. enabling or disabling power-on, sleep or resume operations",
+      "count": 1279,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F21/82": {
+      "code": "G06F21/82",
+      "level": 2,
+      "parent": "G06F21/70",
+      "ja": "入力，出力または相互接続デバイスを保護するもの［２０１３．０１］",
+      "en": "Protecting input, output or interconnection devices",
+      "count": 884,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F21/83": {
+      "code": "G06F21/83",
+      "level": 3,
+      "parent": "G06F21/82",
+      "ja": "入力装置，例．キーボード，マウスまたはそれらのコントローラ［２０１３．０１］",
+      "en": "input devices, e.g. keyboards, mice or controllers thereof",
+      "count": 2395,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F21/84": {
+      "code": "G06F21/84",
+      "level": 3,
+      "parent": "G06F21/82",
+      "ja": "出力装置，例．ディスプレイまたはモニタ［２０１３．０１］",
+      "en": "output devices, e.g. displays or monitors",
+      "count": 3329,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F21/85": {
+      "code": "G06F21/85",
+      "level": 3,
+      "parent": "G06F21/82",
+      "ja": "相互接続機器，例．バスに連結された機器またはインライン機器［２０１３．０１］",
+      "en": "interconnection devices, e.g. bus-connected or in-line devices",
+      "count": 3022,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F21/86": {
+      "code": "G06F21/86",
+      "level": 2,
+      "parent": "G06F21/70",
+      "ja": "セキュアまたは耐タンパなハウジング［２０１３．０１］",
+      "en": "Secure or tamper-resistant housings",
+      "count": 3711,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F21/87": {
+      "code": "G06F21/87",
+      "level": 3,
+      "parent": "G06F21/86",
+      "ja": "カプセル化の手法によるもの，例．集積回路のためのもの［２０１３．０１］",
+      "en": "by means of encapsulation, e.g. for integrated circuits",
+      "count": 565,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F21/88": {
+      "code": "G06F21/88",
+      "level": 2,
+      "parent": "G06F21/70",
+      "ja": "窃盗または紛失を検出または防止するもの［２０１３．０１］",
+      "en": "Detecting or preventing theft or loss",
+      "count": 3331,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F30/00": {
+      "code": "G06F30/00",
+      "level": 0,
+      "parent": "G06F",
+      "ja": "計算機利用設計［ＣＡＤ］［２０２０．０１］",
+      "en": "Computer-aided design [CAD]; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this group, it is desirable to add the indexing codes of groups <b>G06F111/00 to G06F119/00</b> .</li></ul>",
+      "count": 3741,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F30/10": {
+      "code": "G06F30/10",
+      "level": 1,
+      "parent": "G06F30/00",
+      "ja": "幾何学的設計用ＣＡＤ［２０２０．０１］",
+      "en": "Geometric CAD",
+      "count": 11489,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F30/12": {
+      "code": "G06F30/12",
+      "level": 2,
+      "parent": "G06F30/10",
+      "ja": "ＣＡＤへの適用に特化された設計入力手段により特徴付けられるもの，例．ＣＡＤへの適用に特化されたグラフィカルユーザインタフェース［ＧＵＩ］［２０２０．０１］",
+      "en": "characterised by design entry means specially adapted for CAD, e.g. graphical user interfaces [GUI] specially adapted for CAD",
+      "count": 6458,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F30/13": {
+      "code": "G06F30/13",
+      "level": 2,
+      "parent": "G06F30/10",
+      "ja": "建築設計，例．建物，橋，景観，生産プラントまたは道路の設計に関するコンピュータ支援建築設計［ＣＡＡＤ］［２０２０．０１］",
+      "en": "Architectural design, e.g. computer-aided architectural design [CAAD] related to design of buildings, bridges, landscapes, production plants or roads",
+      "count": 35962,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F30/15": {
+      "code": "G06F30/15",
+      "level": 2,
+      "parent": "G06F30/10",
+      "ja": "車両，飛行機または船舶の設計［２０２０．０１］",
+      "en": "Vehicle, aircraft or watercraft design",
+      "count": 25056,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F30/17": {
+      "code": "G06F30/17",
+      "level": 2,
+      "parent": "G06F30/10",
+      "ja": "機械的パラメトリックまたはバリエーショナル設計［２０２０．０１］",
+      "en": "Mechanical parametric or variational design",
+      "count": 29629,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F30/18": {
+      "code": "G06F30/18",
+      "level": 2,
+      "parent": "G06F30/10",
+      "ja": "ネットワーク設計，例．電気・ガス・水道システム，配管，暖房・換気・空調設備［ＨＶＡＣ］またはケーブル配線のトポロジーまたは相互接続の側面に基づく設計（物理的レベルの回路設計Ｇ０６Ｆ３０／３９；ネットワークプランニングツールＨ０４Ｗ１６／１８）［２０２０．０１］",
+      "en": "Network design, e.g. design based on topological or interconnect aspects of utility systems, piping, heating ventilation air conditioning [HVAC] or cabling(circuit design at the physical level <b>G06F30/39</b>; network planning tools for wireless communication networks <b>H04W16/18</b>)",
+      "count": 10962,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F30/20": {
+      "code": "G06F30/20",
+      "level": 1,
+      "parent": "G06F30/00",
+      "ja": "設計の最適化，検証またはシミュレーション（回路設計の最適化，検証またはシミュレーションＧ０６Ｆ３０／３０）［２０２０．０１］",
+      "en": "Design optimisation, verification or simulation(optimisation, verification or simulation of circuit designs <b>G06F30/30</b>)",
+      "count": 116667,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F30/22": {
+      "code": "G06F30/22",
+      "level": 2,
+      "parent": "G06F30/20",
+      "ja": "ペトリネットモデルを用いるもの［２０２０．０１］",
+      "en": "using Petri net models",
+      "count": 272,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F30/23": {
+      "code": "G06F30/23",
+      "level": 2,
+      "parent": "G06F30/20",
+      "ja": "有限要素法［ＦＥＭ］または有限差分法［ＦＤＭ］を用いるもの［２０２０．０１］",
+      "en": "using finite element methods [FEM] or finite difference methods [FDM]",
+      "count": 42091,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F30/25": {
+      "code": "G06F30/25",
+      "level": 2,
+      "parent": "G06F30/20",
+      "ja": "粒子法を用いるもの［２０２０．０１］",
+      "en": "using particle-based methods",
+      "count": 4581,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F30/27": {
+      "code": "G06F30/27",
+      "level": 2,
+      "parent": "G06F30/20",
+      "ja": "機械学習を用いるもの，例．人工知能，ニューラルネットワーク，サポートベクターマシン［ＳＶＭ］またはモデルのトレーニング［２０２０．０１］",
+      "en": "using machine learning, e.g. artificial intelligence, neural networks, support vector machines [SVM] or training a model",
+      "count": 53476,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F30/28": {
+      "code": "G06F30/28",
+      "level": 2,
+      "parent": "G06F30/20",
+      "ja": "流体力学を用いるもの，例．ナビエ・ストークス方程式または数値流体力学［ＣＦＤ］を用いるもの［２０２０．０１］",
+      "en": "using fluid dynamics, e.g. using Navier-Stokes equations or computational fluid dynamics [CFD]",
+      "count": 25940,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F30/30": {
+      "code": "G06F30/30",
+      "level": 1,
+      "parent": "G06F30/00",
+      "ja": "回路の設計［２０２０．０１］",
+      "en": "Circuit design",
+      "count": 2088,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F30/31": {
+      "code": "G06F30/31",
+      "level": 2,
+      "parent": "G06F30/30",
+      "ja": "設計入力，例．回路設計への適用に特化されたエディタ［２０２０．０１］",
+      "en": "Design entry, e.g. editors specifically adapted for circuit design",
+      "count": 770,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F30/32": {
+      "code": "G06F30/32",
+      "level": 2,
+      "parent": "G06F30/30",
+      "ja": "デジタルレベル回路設計（リコンフィギャラブル回路Ｇ０６Ｆ３０／３４）［２０２０．０１］",
+      "en": "Circuit design at the digital level(reconfigurable circuits <b>G06F30/34</b>)",
+      "count": 736,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F30/323": {
+      "code": "G06F30/323",
+      "level": 3,
+      "parent": "G06F30/32",
+      "ja": "翻訳または移行，例．ロジックからロジック，ハードウェア記述言語［ＨＤＬ］翻訳またはネットリスト翻訳［２０２０．０１］",
+      "en": "Translation or migration, e.g. logic to logic, hardware description language [HDL] translation or netlist translation",
+      "count": 242,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F30/327": {
+      "code": "G06F30/327",
+      "level": 3,
+      "parent": "G06F30/32",
+      "ja": "論理合成；動作合成，例．マッピングロジック，ＨＤＬからネットリスト，高級言語からＲＴＬまたはネットリスト［２０２０．０１］",
+      "en": "Logic synthesis; Behaviour synthesis, e.g. mapping logic, HDL to netlist, high-level language to RTL or netlist",
+      "count": 1791,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F30/33": {
+      "code": "G06F30/33",
+      "level": 3,
+      "parent": "G06F30/32",
+      "ja": "設計検証，例．機能シミュレーションまたはモデル検証［２０２０．０１］",
+      "en": "Design verification, e.g. functional simulation or model checking",
+      "count": 2357,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F30/3308": {
+      "code": "G06F30/3308",
+      "level": 4,
+      "parent": "G06F30/33",
+      "ja": "シミュレーションを用いるもの［２０２０．０１］",
+      "en": "using simulation",
+      "count": 1890,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F30/331": {
+      "code": "G06F30/331",
+      "level": 5,
+      "parent": "G06F30/3308",
+      "ja": "ハードウエア・アクセラレーションによるもの，例．フィールドプログラマブルゲートアレイ［ＦＰＧＡ］またはエミュレーションを用いるもの［２０２０．０１］",
+      "en": "with hardware acceleration, e.g. by using field programmable gate array [FPGA] or emulation",
+      "count": 677,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F30/3312": {
+      "code": "G06F30/3312",
+      "level": 5,
+      "parent": "G06F30/3308",
+      "ja": "タイミング解析［２０２０．０１］",
+      "en": "Timing analysis",
+      "count": 885,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F30/3315": {
+      "code": "G06F30/3315",
+      "level": 4,
+      "parent": "G06F30/33",
+      "ja": "スタティックタイミング解析［ＳＴＡ］を用いるもの［２０２０．０１］",
+      "en": "using static timing analysis [STA]",
+      "count": 419,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F30/3323": {
+      "code": "G06F30/3323",
+      "level": 4,
+      "parent": "G06F30/33",
+      "ja": "フォーマル検証を用いるもの，例．等価性検証またはプロパティ検証［２０２０．０１］",
+      "en": "using formal methods, e.g. equivalence checking or property checking",
+      "count": 680,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F30/333": {
+      "code": "G06F30/333",
+      "level": 3,
+      "parent": "G06F30/32",
+      "ja": "テスト容易化設計［ＤＦＴ］，例．スキャンチェーンまたはビルトインセルフテスト［ＢＩＳＴ］の設計［２０２０．０１］",
+      "en": "Design for testability [DFT], e.g. scan chain or built-in self-test [BIST]",
+      "count": 460,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F30/337": {
+      "code": "G06F30/337",
+      "level": 3,
+      "parent": "G06F30/32",
+      "ja": "設計最適化［２０２０．０１］",
+      "en": "Design optimisation",
+      "count": 1196,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F30/34": {
+      "code": "G06F30/34",
+      "level": 2,
+      "parent": "G06F30/30",
+      "ja": "リコンフィギャラブル回路のためのもの，例．フィールドプログラマブルゲートアレイ［ＦＰＧＡ］またはプログラマブルロジックデバイス［ＰＬＤ］［２０２０．０１］",
+      "en": "for reconfigurable circuits, e.g. field programmable gate arrays [FPGA] or programmable logic devices [PLD]",
+      "count": 1117,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F30/343": {
+      "code": "G06F30/343",
+      "level": 3,
+      "parent": "G06F30/34",
+      "ja": "論理レベル［２０２０．０１］",
+      "en": "Logical level",
+      "count": 423,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F30/347": {
+      "code": "G06F30/347",
+      "level": 3,
+      "parent": "G06F30/34",
+      "ja": "物理レベル，例．配置またはルーティング［２０２０．０１］",
+      "en": "Physical level, e.g. placement or routing",
+      "count": 547,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F30/35": {
+      "code": "G06F30/35",
+      "level": 2,
+      "parent": "G06F30/30",
+      "ja": "遅延非依存回路設計，例．非同期型または自己タイミング型［２０２０．０１］",
+      "en": "Delay-insensitive circuit design, e.g. asynchronous or self-timed",
+      "count": 35,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F30/36": {
+      "code": "G06F30/36",
+      "level": 2,
+      "parent": "G06F30/30",
+      "ja": "アナログレベルの回路設計［２０２０．０１］",
+      "en": "Circuit design at the analogue level",
+      "count": 949,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F30/367": {
+      "code": "G06F30/367",
+      "level": 3,
+      "parent": "G06F30/36",
+      "ja": "設計検証，例．シミュレーション，ＳＰＩＣＥ，直接法または反復法を用いるもの［２０２０．０１］",
+      "en": "Design verification, e.g. using simulation, simulation program with integrated circuit emphasis [SPICE], direct methods or relaxation methods",
+      "count": 4392,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F30/373": {
+      "code": "G06F30/373",
+      "level": 3,
+      "parent": "G06F30/36",
+      "ja": "設計の最適化［２０２０．０１］",
+      "en": "Design optimisation",
+      "count": 1013,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F30/38": {
+      "code": "G06F30/38",
+      "level": 2,
+      "parent": "G06F30/30",
+      "ja": "アナログ・デジタル信号混合レベル回路設計［２０２０．０１］",
+      "en": "Circuit design at the mixed level of analogue and digital signals",
+      "count": 235,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F30/39": {
+      "code": "G06F30/39",
+      "level": 2,
+      "parent": "G06F30/30",
+      "ja": "物理レベル回路設計（リコンフィギャラブル回路のための物理レベル設計Ｇ０６Ｆ３０／３４７）［２０２０．０１］",
+      "en": "Circuit design at the physical level(physical level design for reconfigurable circuits <b>G06F30/347</b>)",
+      "count": 1890,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F30/392": {
+      "code": "G06F30/392",
+      "level": 3,
+      "parent": "G06F30/39",
+      "ja": "フロアプランニングまたはレイアウト，例．パーティショニングまたは配置［２０２０．０１］",
+      "en": "Floor-planning or layout, e.g. partitioning or placement",
+      "count": 6407,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F30/394": {
+      "code": "G06F30/394",
+      "level": 3,
+      "parent": "G06F30/39",
+      "ja": "ルーティング（Ｇ０６Ｆ３０／３９６が優先）［２０２０．０１］",
+      "en": "Routing(<b>G06F30/396</b> takes precedence)",
+      "count": 2785,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F30/3947": {
+      "code": "G06F30/3947",
+      "level": 4,
+      "parent": "G06F30/394",
+      "ja": "グローバル（大域的）配線［２０２０．０１］",
+      "en": "global",
+      "count": 245,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F30/3953": {
+      "code": "G06F30/3953",
+      "level": 4,
+      "parent": "G06F30/394",
+      "ja": "詳細配線［２０２０．０１］",
+      "en": "detailed",
+      "count": 347,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F30/396": {
+      "code": "G06F30/396",
+      "level": 3,
+      "parent": "G06F30/39",
+      "ja": "クロックツリー［２０２０．０１］",
+      "en": "Clock trees",
+      "count": 423,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F30/398": {
+      "code": "G06F30/398",
+      "level": 3,
+      "parent": "G06F30/39",
+      "ja": "設計検証または最適化，例．デザインルールチェック［ＤＲＣ］，レイアウト対回路比較［ＬＶＳ］または有限要素法［ＦＥＭ］を用いるもの（光近接効果補正［ＯＰＣ］設計処理Ｇ０３Ｆ１／３６）［２０２０．０１］",
+      "en": "Design verification or optimisation, e.g. using design rule check [DRC], layout versus schematics [LVS] or finite element methods [FEM](optical proximity correction [OPC] design processes <b>G03F1/36</b>)",
+      "count": 6796,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F40/00": {
+      "code": "G06F40/00",
+      "level": 0,
+      "parent": "G06F",
+      "ja": "自然言語データの取扱い（音声分析または音声合成，音声認識Ｇ１０Ｌ）［２０２０．０１］",
+      "en": "Handling natural language data(speech analysis or synthesis, speech recognition <b>G10L</b>)",
+      "count": 5966,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F40/10": {
+      "code": "G06F40/10",
+      "level": 1,
+      "parent": "G06F40/00",
+      "ja": "テキスト処理（自然言語解析Ｇ０６Ｆ４０／２０；セマンティック解析Ｇ０６Ｆ４０／３０；自然言語の処理または翻訳Ｇ０６Ｆ４０／４０）［２０２０．０１］",
+      "en": "Text processing(natural language analysis <b>G06F40/20</b>; semantic analysis <b>G06F40/30</b>; processing or translation of natural language <b>G06F40/40</b>)",
+      "count": 1094,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F40/103": {
+      "code": "G06F40/103",
+      "level": 2,
+      "parent": "G06F40/10",
+      "ja": "フォーマッティング，すなわちドキュメントのプレゼンテーションを変更するもの（自動行揃えＧ０６Ｆ４０／１８９；自動ハイフン付けＧ０６Ｆ４０／１９１）［２０２０．０１］",
+      "en": "Formatting, i.e. changing of presentation of documents(automatic justification <b>G06F40/189</b>; automatic line break hyphenation <b>G06F40/191</b>)",
+      "count": 2149,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F40/106": {
+      "code": "G06F40/106",
+      "level": 3,
+      "parent": "G06F40/103",
+      "ja": "ドキュメントのレイアウト表示；プレビュー［２０２０．０１］",
+      "en": "Display of layout of documents; Previewing",
+      "count": 2687,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F40/109": {
+      "code": "G06F40/109",
+      "level": 3,
+      "parent": "G06F40/103",
+      "ja": "フォントの取扱い；時間的または動的タイポグラフィ［２０２０．０１］",
+      "en": "Font handling; Temporal or kinetic typography",
+      "count": 2333,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F40/111": {
+      "code": "G06F40/111",
+      "level": 3,
+      "parent": "G06F40/103",
+      "ja": "数学または科学的，下付き文字，上付き文字［２０２０．０１］",
+      "en": "Mathematical or scientific formatting; Subscripts; Superscripts",
+      "count": 157,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F40/114": {
+      "code": "G06F40/114",
+      "level": 3,
+      "parent": "G06F40/103",
+      "ja": "ページネーション［２０２０．０１］",
+      "en": "Pagination",
+      "count": 216,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F40/117": {
+      "code": "G06F40/117",
+      "level": 3,
+      "parent": "G06F40/103",
+      "ja": "タグ付け；マーキングアップ（マークアップ言語の細部Ｇ０６Ｆ４０／１４３）；ブロックの指定；属性の設定（スタイルシート，例えば拡張型スタイルシート言語変換［ＸＳＬＴ］，Ｇ０６Ｆ４０／１５４）［２０２０．０１］",
+      "en": "Tagging; Marking up (details of markup languages <b>G06F40/143</b>);Designating a block; Setting of attributes (style sheets, e.g. eXtensible Stylesheet Language Transformation [XSLT], <b>G06F40/154</b>)",
+      "count": 2363,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F40/12": {
+      "code": "G06F40/12",
+      "level": 2,
+      "parent": "G06F40/10",
+      "ja": "文字で表現されたエンティティの取扱いのための符号の使用［２０２０．０１］",
+      "en": "Use of codes for handling textual entities",
+      "count": 836,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F40/123": {
+      "code": "G06F40/123",
+      "level": 3,
+      "parent": "G06F40/12",
+      "ja": "ストレージ［２０２０．０１］",
+      "en": "Storage facilities",
+      "count": 175,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F40/126": {
+      "code": "G06F40/126",
+      "level": 3,
+      "parent": "G06F40/12",
+      "ja": "文字符号化［２０２０．０１］",
+      "en": "Character encoding",
+      "count": 4630,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F40/129": {
+      "code": "G06F40/129",
+      "level": 4,
+      "parent": "G06F40/126",
+      "ja": "非ラテン語文字の取扱い，例．仮名から漢字への変換［２０２０．０１］",
+      "en": "Handling non-Latin characters, e.g. kana-to-kanji conversion",
+      "count": 244,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F40/131": {
+      "code": "G06F40/131",
+      "level": 3,
+      "parent": "G06F40/12",
+      "ja": "テキストファイルの断片化，例．再使用可能なテキストブロックの生成；断片へのリンク，例．Ｘインクルードの使用；ネームスペース［２０２０．０１］",
+      "en": "Fragmentation of text files, e.g. creating reusable text-blocks; Linking to fragments, e.g. using XInclude; Namespaces",
+      "count": 403,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F40/134": {
+      "code": "G06F40/134",
+      "level": 3,
+      "parent": "G06F40/12",
+      "ja": "ハイパーリンク［２０２０．０１］",
+      "en": "Hyperlinking",
+      "count": 705,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F40/137": {
+      "code": "G06F40/137",
+      "level": 3,
+      "parent": "G06F40/12",
+      "ja": "階層処理，例．アウトライン［２０２０．０１］",
+      "en": "Hierarchical processing, e.g. outlines",
+      "count": 374,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F40/14": {
+      "code": "G06F40/14",
+      "level": 3,
+      "parent": "G06F40/12",
+      "ja": "ツリー構造のドキュメント（解析処理Ｇ０６Ｆ４０／２０５；確認Ｇ０６Ｆ４０／２２６）［２０２０．０１］",
+      "en": "Tree-structured documents (parsing <b>G06F40/205</b>;  validation <b>G06F40/226</b>)",
+      "count": 2150,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F40/143": {
+      "code": "G06F40/143",
+      "level": 4,
+      "parent": "G06F40/14",
+      "ja": "マークアップ，例．標準一般化マーク付け言語［ＳＧＭＬ］または文書型定義［ＤＴＤ］［２０２０．０１］",
+      "en": "Markup, e.g. Standard Generalized Markup Language [SGML] or Document Type Definition [DTD]",
+      "count": 4296,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F40/146": {
+      "code": "G06F40/146",
+      "level": 4,
+      "parent": "G06F40/14",
+      "ja": "コーディングまたは木構造データの圧縮［２０２０．０１］",
+      "en": "Coding or compression of tree-structured data",
+      "count": 184,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F40/149": {
+      "code": "G06F40/149",
+      "level": 3,
+      "parent": "G06F40/12",
+      "ja": "ストリーミングのためのテキストデータの適応，例．効率的なＸＭＬ交換［ＥＸＩ］フォーマット［２０２０．０１］",
+      "en": "Adaptation of the text data for streaming purposes, e.g. Efficient XML Interchange [EXI] format",
+      "count": 185,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F40/151": {
+      "code": "G06F40/151",
+      "level": 3,
+      "parent": "G06F40/12",
+      "ja": "変換［２０２０．０１］",
+      "en": "Transformation",
+      "count": 4913,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F40/154": {
+      "code": "G06F40/154",
+      "level": 4,
+      "parent": "G06F40/151",
+      "ja": "ツリー構造またはマークアップドキュメントのためのツリー変換，例．ＸＳＬＴ，ＸＳＬ－ＦＯまたはスタイルシート［２０２０．０１］",
+      "en": "Tree transformation for tree-structured or markup documents, e.g. XSLT, XSL-FO or stylesheets",
+      "count": 798,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F40/157": {
+      "code": "G06F40/157",
+      "level": 4,
+      "parent": "G06F40/151",
+      "ja": "辞書またはテーブルを使用するもの［２０２０．０１］",
+      "en": "using dictionaries or tables",
+      "count": 492,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F40/16": {
+      "code": "G06F40/16",
+      "level": 4,
+      "parent": "G06F40/151",
+      "ja": "変換規則を自動的に学習するもの，例．例により学習するもの［２０２０．０１］",
+      "en": "Automatic learning of transformation rules, e.g. from examples",
+      "count": 1346,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F40/163": {
+      "code": "G06F40/163",
+      "level": 3,
+      "parent": "G06F40/12",
+      "ja": "空白の取扱い［２０２０．０１］",
+      "en": "Handling of whitespace",
+      "count": 79,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F40/166": {
+      "code": "G06F40/166",
+      "level": 2,
+      "parent": "G06F40/10",
+      "ja": "編集，例．挿入／削除［２０２０．０１］",
+      "en": "Editing, e.g. inserting or deleting",
+      "count": 9453,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F40/169": {
+      "code": "G06F40/169",
+      "level": 3,
+      "parent": "G06F40/166",
+      "ja": "注，例．コメントデータまたは脚注［２０２０．０１］",
+      "en": "Annotation, e.g. comment data or footnotes",
+      "count": 2781,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F40/171": {
+      "code": "G06F40/171",
+      "level": 3,
+      "parent": "G06F40/166",
+      "ja": "デジタルインクの使用によるもの［２０２０．０１］",
+      "en": "by use of digital ink",
+      "count": 229,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F40/174": {
+      "code": "G06F40/174",
+      "level": 3,
+      "parent": "G06F40/166",
+      "ja": "書式充填；結合［２０２０．０１］",
+      "en": "Form filling; Merging",
+      "count": 3733,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F40/177": {
+      "code": "G06F40/177",
+      "level": 3,
+      "parent": "G06F40/166",
+      "ja": "テーブル；罫線［２０２０．０１］",
+      "en": "of tables; using ruled lines",
+      "count": 1280,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F40/18": {
+      "code": "G06F40/18",
+      "level": 4,
+      "parent": "G06F40/177",
+      "ja": "スプレッドシート（書式充填Ｇ０６Ｆ４０／１７４）［２０２０．０１］",
+      "en": "of spreadsheets (form-filling <b>G06F40/174</b>)",
+      "count": 6085,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F40/183": {
+      "code": "G06F40/183",
+      "level": 3,
+      "parent": "G06F40/166",
+      "ja": "タビュレーション，例．一次元的な位置決め［２０２０．０１］",
+      "en": "Tabulation, i.e. one-dimensional [1D] positioning",
+      "count": 495,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F40/186": {
+      "code": "G06F40/186",
+      "level": 3,
+      "parent": "G06F40/166",
+      "ja": "テンプレート［２０２０．０１］",
+      "en": "Templates",
+      "count": 11534,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F40/189": {
+      "code": "G06F40/189",
+      "level": 2,
+      "parent": "G06F40/10",
+      "ja": "自動行揃え［２０２０．０１］",
+      "en": "Automatic justification",
+      "count": 1901,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F40/191": {
+      "code": "G06F40/191",
+      "level": 2,
+      "parent": "G06F40/10",
+      "ja": "自動ハイフン付け［２０２０．０１］",
+      "en": "Automatic line break hyphenation",
+      "count": 590,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F40/194": {
+      "code": "G06F40/194",
+      "level": 2,
+      "parent": "G06F40/10",
+      "ja": "ファイル間の差の計算［２０２０．０１］",
+      "en": "Calculation of difference between files",
+      "count": 4912,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F40/197": {
+      "code": "G06F40/197",
+      "level": 2,
+      "parent": "G06F40/10",
+      "ja": "バージョン制御（ソフトウエアに関するものＧ０６Ｆ８／７１）［２０２０．０１］",
+      "en": "Version control(for software <b>G06F8/71</b>)",
+      "count": 749,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F40/20": {
+      "code": "G06F40/20",
+      "level": 1,
+      "parent": "G06F40/00",
+      "ja": "自然言語解析［２０２０．０１］",
+      "en": "Natural language analysis(semantic analysis of natural language <b>G06F40/30</b>)",
+      "count": 5315,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F40/205": {
+      "code": "G06F40/205",
+      "level": 2,
+      "parent": "G06F40/20",
+      "ja": "解析処理［２０２０．０１］",
+      "en": "Parsing",
+      "count": 10362,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F40/211": {
+      "code": "G06F40/211",
+      "level": 3,
+      "parent": "G06F40/205",
+      "ja": "構文の解析処理，例．文脈自由文法［ＣＦＧ］，ユニフィケーション文法に基づくもの［２０２０．０１］",
+      "en": "Syntactic parsing, e.g. based on context-free grammar [CFG] or unification grammars",
+      "count": 7570,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F40/216": {
+      "code": "G06F40/216",
+      "level": 3,
+      "parent": "G06F40/205",
+      "ja": "統計的方法［２０２０．０１］",
+      "en": "using statistical methods",
+      "count": 12103,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F40/221": {
+      "code": "G06F40/221",
+      "level": 3,
+      "parent": "G06F40/205",
+      "ja": "マークアップ言語ストリームの構文解析（ストリーミングＧ０６Ｆ４０／１４９）［２０２０．０１］",
+      "en": "Parsing markup language streams(streaming <b>G06F40/149</b>)",
+      "count": 237,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F40/226": {
+      "code": "G06F40/226",
+      "level": 3,
+      "parent": "G06F40/205",
+      "ja": "確認［２０２０．０１］",
+      "en": "Validation",
+      "count": 957,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F40/232": {
+      "code": "G06F40/232",
+      "level": 2,
+      "parent": "G06F40/20",
+      "ja": "綴字訂正，例．綴字照合をするもの，母音化［２０２０．０１］",
+      "en": "Orthographic correction, e.g. spell checking or vowelisation",
+      "count": 2316,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F40/237": {
+      "code": "G06F40/237",
+      "level": 2,
+      "parent": "G06F40/20",
+      "ja": "語彙的ツール［２０２０．０１］",
+      "en": "Lexical tools",
+      "count": 1556,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F40/242": {
+      "code": "G06F40/242",
+      "level": 3,
+      "parent": "G06F40/237",
+      "ja": "辞書［２０２０．０１］",
+      "en": "Dictionaries",
+      "count": 5798,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F40/247": {
+      "code": "G06F40/247",
+      "level": 3,
+      "parent": "G06F40/237",
+      "ja": "シソーラス；同義語［２０２０．０１］",
+      "en": "Thesauruses; Synonyms",
+      "count": 3174,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F40/253": {
+      "code": "G06F40/253",
+      "level": 2,
+      "parent": "G06F40/20",
+      "ja": "文法的解析；文体批評［２０２０．０１］",
+      "en": "Grammatical analysis; Style critique",
+      "count": 4356,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F40/258": {
+      "code": "G06F40/258",
+      "level": 2,
+      "parent": "G06F40/20",
+      "ja": "見出し抽出；自動的な題付け；番号付け［２０２０．０１］",
+      "en": "Heading extraction; Automatic titling; Numbering",
+      "count": 1832,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F40/263": {
+      "code": "G06F40/263",
+      "level": 2,
+      "parent": "G06F40/20",
+      "ja": "言語の識別［２０２０．０１］",
+      "en": "Language identification",
+      "count": 776,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F40/268": {
+      "code": "G06F40/268",
+      "level": 2,
+      "parent": "G06F40/20",
+      "ja": "形態素解析［２０２０．０１］",
+      "en": "Morphological analysis",
+      "count": 1803,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F40/274": {
+      "code": "G06F40/274",
+      "level": 2,
+      "parent": "G06F40/20",
+      "ja": "符号から単語への変換；部分ワードからの推測［２０２０．０１］",
+      "en": "Converting codes to words; Guess-ahead of partial word inputs",
+      "count": 858,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F40/279": {
+      "code": "G06F40/279",
+      "level": 2,
+      "parent": "G06F40/20",
+      "ja": "文字で表現されたエンティティの認識［２０２０．０１］",
+      "en": "Recognition of textual entities",
+      "count": 11204,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F40/284": {
+      "code": "G06F40/284",
+      "level": 3,
+      "parent": "G06F40/279",
+      "ja": "字句解析，例．トークン化，連結［２０２０．０１］",
+      "en": "Lexical analysis, e.g. tokenisation or collocates",
+      "count": 19536,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F40/289": {
+      "code": "G06F40/289",
+      "level": 3,
+      "parent": "G06F40/279",
+      "ja": "句の解析，例．有限状態技法，チャンキング［２０２０．０１］",
+      "en": "Phrasal analysis, e.g. finite state techniques or chunking",
+      "count": 20669,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F40/295": {
+      "code": "G06F40/295",
+      "level": 4,
+      "parent": "G06F40/289",
+      "ja": "固有表現抽出［２０２０．０１］",
+      "en": "Named entity recognition",
+      "count": 13913,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F40/30": {
+      "code": "G06F40/30",
+      "level": 1,
+      "parent": "G06F40/00",
+      "ja": "セマンティック解析［２０２０．０１］",
+      "en": "Semantic analysis",
+      "count": 46551,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F40/35": {
+      "code": "G06F40/35",
+      "level": 2,
+      "parent": "G06F40/30",
+      "ja": "談話または対話表示［２０２０．０１］",
+      "en": "Discourse or dialogue representation",
+      "count": 5756,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F40/40": {
+      "code": "G06F40/40",
+      "level": 1,
+      "parent": "G06F40/00",
+      "ja": "自然言語の処理または翻訳（自然言語解析Ｇ０６Ｆ４０／２０；セマンティック解析Ｇ０６Ｆ４０／３０）［２０２０．０１］",
+      "en": "Processing or translation of natural language(natural language analysis <b>G06F40/20</b>; semantic analysis <b>G06F40/30</b>)",
+      "count": 4653,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F40/42": {
+      "code": "G06F40/42",
+      "level": 2,
+      "parent": "G06F40/40",
+      "ja": "データ駆動翻訳［２０２０．０１］",
+      "en": "Data-driven translation",
+      "count": 493,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F40/44": {
+      "code": "G06F40/44",
+      "level": 3,
+      "parent": "G06F40/42",
+      "ja": "統計的手法；例．確率モデル［２０２０．０１］",
+      "en": "Statistical methods, e.g. probability models",
+      "count": 1244,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F40/45": {
+      "code": "G06F40/45",
+      "level": 3,
+      "parent": "G06F40/42",
+      "ja": "例に基づく機械翻訳；アライメント［２０２０．０１］",
+      "en": "Example-based machine translation; Alignment",
+      "count": 216,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F40/47": {
+      "code": "G06F40/47",
+      "level": 3,
+      "parent": "G06F40/42",
+      "ja": "機械介助による翻訳，例．翻訳メモリ［２０２０．０１］",
+      "en": "Machine-assisted translation, e.g. using translation memory",
+      "count": 557,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F40/49": {
+      "code": "G06F40/49",
+      "level": 3,
+      "parent": "G06F40/42",
+      "ja": "非常に大きいコーパスを使用するもの，例．ウェブ［２０２０．０１］",
+      "en": "using very large corpora, e.g. the web",
+      "count": 279,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F40/51": {
+      "code": "G06F40/51",
+      "level": 2,
+      "parent": "G06F40/40",
+      "ja": "翻訳評価［２０２０．０１］",
+      "en": "Translation evaluation",
+      "count": 623,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F40/53": {
+      "code": "G06F40/53",
+      "level": 2,
+      "parent": "G06F40/40",
+      "ja": "非ラテン語テキストの処理（仮名から漢字への変換Ｇ０６Ｆ４０／１２９；母音化Ｇ０６Ｆ４０／２３２）［２０２０．０１］",
+      "en": "Processing of non-Latin text(kana-to-kanji conversion <b>G06F40/129</b>; vowelisation <b>G06F40/232</b>)",
+      "count": 154,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F40/55": {
+      "code": "G06F40/55",
+      "level": 2,
+      "parent": "G06F40/40",
+      "ja": "規則に基づく翻訳［２０２０．０１］",
+      "en": "Rule-based translation",
+      "count": 215,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F40/56": {
+      "code": "G06F40/56",
+      "level": 3,
+      "parent": "G06F40/55",
+      "ja": "自然言語の生成［２０２０．０１］",
+      "en": "Natural language generation",
+      "count": 2205,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F40/58": {
+      "code": "G06F40/58",
+      "level": 2,
+      "parent": "G06F40/40",
+      "ja": "機械翻訳の使用，例．多言語検索，クライアント装置のためのサーバー側翻訳，実時間翻訳［２０２０．０１］",
+      "en": "Use of machine translation, e.g. for multi-lingual retrieval, for server-side translation for client devices or for real-time translation",
+      "count": 7276,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F111/00": {
+      "code": "G06F111/00",
+      "level": 0,
+      "parent": "G06F",
+      "ja": "ＣＡＤ技術に関する細部［２０２０．０１］",
+      "en": "Details relating to CAD techniques",
+      "count": 41,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F111/02": {
+      "code": "G06F111/02",
+      "level": 1,
+      "parent": "G06F111/00",
+      "ja": "ネットワーク環境におけるＣＡＤ，例．協調設計ＣＡＤまたは分散シミュレーション［２０２０．０１］",
+      "en": "CAD in a network environment, e.g. collaborative CAD or distributed simulation",
+      "count": 1683,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F111/04": {
+      "code": "G06F111/04",
+      "level": 1,
+      "parent": "G06F111/00",
+      "ja": "制約ベースＣＡＤ［２０２０．０１］",
+      "en": "Constraint-based CAD",
+      "count": 21797,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F111/06": {
+      "code": "G06F111/06",
+      "level": 1,
+      "parent": "G06F111/00",
+      "ja": "多目的最適化，例．シミュレーテッドアニーリング［ＳＡ］，蟻コロニーアルゴリズムまたは遺伝的アルゴリズムを用いたパレート最適化［２０２０．０１］",
+      "en": "Multi-objective optimisation, e.g. Pareto optimisation using simulated annealing [SA], ant colony algorithms or genetic algorithms [GA]",
+      "count": 10025,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F111/08": {
+      "code": "G06F111/08",
+      "level": 1,
+      "parent": "G06F111/00",
+      "ja": "確率的設計によるＣＡＤ［２０２０．０１］",
+      "en": "Probabilistic or stochastic CAD",
+      "count": 8144,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F111/10": {
+      "code": "G06F111/10",
+      "level": 1,
+      "parent": "G06F111/00",
+      "ja": "数値モデリング［２０２０．０１］",
+      "en": "Numerical modelling",
+      "count": 29765,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F111/12": {
+      "code": "G06F111/12",
+      "level": 1,
+      "parent": "G06F111/00",
+      "ja": "記号による回路図［２０２０．０１］",
+      "en": "Symbolic schematics",
+      "count": 231,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F111/14": {
+      "code": "G06F111/14",
+      "level": 1,
+      "parent": "G06F111/00",
+      "ja": "ナノテクノロジーに関するもの［２０２０．０１］",
+      "en": "related to nanotechnology",
+      "count": 147,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F111/16": {
+      "code": "G06F111/16",
+      "level": 1,
+      "parent": "G06F111/00",
+      "ja": "カスタマイズまたはパーソナライズ［２０２０．０１］",
+      "en": "Customisation or personalisation",
+      "count": 689,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F111/18": {
+      "code": "G06F111/18",
+      "level": 1,
+      "parent": "G06F111/00",
+      "ja": "仮想現実または拡張現実を用いるもの［２０２０．０１］",
+      "en": "using virtual or augmented reality",
+      "count": 1385,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F111/20": {
+      "code": "G06F111/20",
+      "level": 1,
+      "parent": "G06F111/00",
+      "ja": "コンフィギュレーション設計用ＣＡＤ，例．設計済みモジュールのライブラリから選択したモジュールを組み立てまたは配置して設計を行うもの［２０２０．０１］",
+      "en": "Configuration CAD, e.g. designing by assembling or positioning modules selected from libraries of predesigned modules",
+      "count": 3861,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F113/00": {
+      "code": "G06F113/00",
+      "level": 0,
+      "parent": "G06F",
+      "ja": "適用分野に関する細部［２０２０．０１］",
+      "en": "Details relating to the application field",
+      "count": 16,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F113/02": {
+      "code": "G06F113/02",
+      "level": 1,
+      "parent": "G06F113/00",
+      "ja": "データセンタ［２０２０．０１］",
+      "en": "Data centres",
+      "count": 97,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F113/04": {
+      "code": "G06F113/04",
+      "level": 1,
+      "parent": "G06F113/00",
+      "ja": "送電線網［２０２０．０１］",
+      "en": "Power grid distribution networks",
+      "count": 9103,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F113/06": {
+      "code": "G06F113/06",
+      "level": 1,
+      "parent": "G06F113/00",
+      "ja": "風力タービンまたは風力発電基地［２０２０．０１］",
+      "en": "Wind turbines or wind farms",
+      "count": 3110,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F113/08": {
+      "code": "G06F113/08",
+      "level": 1,
+      "parent": "G06F113/00",
+      "ja": "流体［２０２０．０１］",
+      "en": "Fluids",
+      "count": 25987,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F113/10": {
+      "code": "G06F113/10",
+      "level": 1,
+      "parent": "G06F113/00",
+      "ja": "付加製造，例．３Ｄプリンティング［２０２０．０１］",
+      "en": "Additive manufacturing, e.g. three-dimensional [3D] printing",
+      "count": 1946,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F113/12": {
+      "code": "G06F113/12",
+      "level": 1,
+      "parent": "G06F113/00",
+      "ja": "布［２０２０．０１］",
+      "en": "Cloth",
+      "count": 692,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F113/14": {
+      "code": "G06F113/14",
+      "level": 1,
+      "parent": "G06F113/00",
+      "ja": "配管［２０２０．０１］",
+      "en": "Pipes",
+      "count": 6143,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F113/16": {
+      "code": "G06F113/16",
+      "level": 1,
+      "parent": "G06F113/00",
+      "ja": "ケーブル，ケーブルツリーまたはワイヤハーネス［２０２０．０１］",
+      "en": "Cables, cable trees or wire harnesses",
+      "count": 2318,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F113/18": {
+      "code": "G06F113/18",
+      "level": 1,
+      "parent": "G06F113/00",
+      "ja": "チップパッケージング［２０２０．０１］",
+      "en": "Chip packaging",
+      "count": 433,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F113/20": {
+      "code": "G06F113/20",
+      "level": 1,
+      "parent": "G06F113/00",
+      "ja": "梱包，例．箱または容器［２０２０．０１］",
+      "en": "Packaging, e.g. boxes or containers",
+      "count": 134,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F113/22": {
+      "code": "G06F113/22",
+      "level": 1,
+      "parent": "G06F113/00",
+      "ja": "型による成形［２０２０．０１］",
+      "en": "Moulding",
+      "count": 644,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F113/24": {
+      "code": "G06F113/24",
+      "level": 1,
+      "parent": "G06F113/00",
+      "ja": "シート材料［２０２０．０１］",
+      "en": "Sheet material",
+      "count": 425,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F113/26": {
+      "code": "G06F113/26",
+      "level": 1,
+      "parent": "G06F113/00",
+      "ja": "複合材料［２０２０．０１］",
+      "en": "Composites",
+      "count": 3826,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F113/28": {
+      "code": "G06F113/28",
+      "level": 1,
+      "parent": "G06F113/00",
+      "ja": "機体の外装または内装［２０２０．０１］",
+      "en": "Fuselage, exterior or interior",
+      "count": 780,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F115/00": {
+      "code": "G06F115/00",
+      "level": 0,
+      "parent": "G06F",
+      "ja": "回路の種類に関する細部［２０２０．０１］",
+      "en": "Details relating to the type of the circuit",
+      "count": 23,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F115/02": {
+      "code": "G06F115/02",
+      "level": 1,
+      "parent": "G06F115/00",
+      "ja": "システムオンチップ［ＳｏＣ］設計［２０２０．０１］",
+      "en": "System on chip [SoC] design",
+      "count": 819,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F115/04": {
+      "code": "G06F115/04",
+      "level": 1,
+      "parent": "G06F115/00",
+      "ja": "微小電気機械システム［ＭＥＭＳ］［２０２０．０１］",
+      "en": "Micro electro-mechanical systems [MEMS]",
+      "count": 16,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F115/06": {
+      "code": "G06F115/06",
+      "level": 1,
+      "parent": "G06F115/00",
+      "ja": "ストラクチャードＡＳＩＣ［２０２０．０１］",
+      "en": "Structured ASICs",
+      "count": 284,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F115/08": {
+      "code": "G06F115/08",
+      "level": 1,
+      "parent": "G06F115/00",
+      "ja": "ＩＰブロックまたはＩＰコア［２０２０．０１］",
+      "en": "Intellectual property [IP] blocks or IP cores",
+      "count": 314,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F115/10": {
+      "code": "G06F115/10",
+      "level": 1,
+      "parent": "G06F115/00",
+      "ja": "プロセッサ［２０２０．０１］",
+      "en": "Processors",
+      "count": 211,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F115/12": {
+      "code": "G06F115/12",
+      "level": 1,
+      "parent": "G06F115/00",
+      "ja": "プリント回路基板［ＰＣＢ］またはマルチチップモジュール［ＭＣＭ］［２０２０．０１］",
+      "en": "Printed circuit boards [PCB] or multi-chip modules [MCM]",
+      "count": 1821,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F117/00": {
+      "code": "G06F117/00",
+      "level": 0,
+      "parent": "G06F",
+      "ja": "回路設計の種類または目的に関する細部［２０２０．０１］",
+      "en": "Details relating to the type or aim of the circuit design",
+      "count": 20,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F117/02": {
+      "code": "G06F117/02",
+      "level": 1,
+      "parent": "G06F117/00",
+      "ja": "フォールトトレランス，例．過渡障害抑制のためのもの［２０２０．０１］",
+      "en": "Fault tolerance, e.g. for transient fault suppression",
+      "count": 71,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F117/04": {
+      "code": "G06F117/04",
+      "level": 1,
+      "parent": "G06F117/00",
+      "ja": "クロックゲーティング［２０２０．０１］",
+      "en": "Clock gating",
+      "count": 105,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F117/06": {
+      "code": "G06F117/06",
+      "level": 1,
+      "parent": "G06F117/00",
+      "ja": "予備リソース，例．永久障害抑制のためのもの［２０２０．０１］",
+      "en": "Spare resources, e.g. for permanent fault suppression",
+      "count": 22,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F117/08": {
+      "code": "G06F117/08",
+      "level": 1,
+      "parent": "G06F117/00",
+      "ja": "ハードウェア・ソフトウェア協調設計，例．ハードウェア・ソフトウェア分割［２０２０．０１］",
+      "en": "HW-SW co-design, e.g. HW-SW partitioning",
+      "count": 116,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F117/10": {
+      "code": "G06F117/10",
+      "level": 1,
+      "parent": "G06F117/00",
+      "ja": "バッファ挿入［２０２０．０１］",
+      "en": "Buffer insertion",
+      "count": 45,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F117/12": {
+      "code": "G06F117/12",
+      "level": 1,
+      "parent": "G06F117/00",
+      "ja": "寸法の設計，例．トランジスタまたはゲート［２０２０．０１］",
+      "en": "Sizing, e.g. of transistors or gates",
+      "count": 158,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F119/00": {
+      "code": "G06F119/00",
+      "level": 0,
+      "parent": "G06F",
+      "ja": "解析または最適化の種類または目的に関する細部［２０２０．０１］",
+      "en": "Details relating to the type or aim of the analysis or the optimisation",
+      "count": 79,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F119/02": {
+      "code": "G06F119/02",
+      "level": 1,
+      "parent": "G06F119/00",
+      "ja": "信頼性解析または信頼性最適化；故障解析，例．ワーストケースシナリオ性能，故障モード影響解析［ＦＭＥＡ］［２０２０．０１］",
+      "en": "Reliability analysis or reliability optimisation; Failure analysis, e.g. worst case scenario performance, failure mode and effects analysis [FMEA]",
+      "count": 19672,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F119/04": {
+      "code": "G06F119/04",
+      "level": 1,
+      "parent": "G06F119/00",
+      "ja": "経年劣化解析または経年劣化に対する最適化［２０２０．０１］",
+      "en": "Ageing analysis or optimisation against ageing",
+      "count": 7578,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F119/06": {
+      "code": "G06F119/06",
+      "level": 1,
+      "parent": "G06F119/00",
+      "ja": "電力解析または電力の最適化［２０２０．０１］",
+      "en": "Power analysis or power optimisation",
+      "count": 4275,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F119/08": {
+      "code": "G06F119/08",
+      "level": 1,
+      "parent": "G06F119/00",
+      "ja": "熱解析または熱の最適化［２０２０．０１］",
+      "en": "Thermal analysis or thermal optimisation",
+      "count": 24029,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F119/10": {
+      "code": "G06F119/10",
+      "level": 1,
+      "parent": "G06F119/00",
+      "ja": "ノイズ解析またはノイズ最適化［２０２０．０１］",
+      "en": "Noise analysis or noise optimisation",
+      "count": 2840,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F119/12": {
+      "code": "G06F119/12",
+      "level": 1,
+      "parent": "G06F119/00",
+      "ja": "タイミング解析またはタイミングの最適化［２０２０．０１］",
+      "en": "Timing analysis or timing optimisation",
+      "count": 3466,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F119/14": {
+      "code": "G06F119/14",
+      "level": 1,
+      "parent": "G06F119/00",
+      "ja": "力解析または力最適化，例．静的または動的な力［２０２０．０１］",
+      "en": "Force analysis or force optimisation, e.g. static or dynamic forces",
+      "count": 69592,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F119/16": {
+      "code": "G06F119/16",
+      "level": 1,
+      "parent": "G06F119/00",
+      "ja": "等価性検証［２０２０．０１］",
+      "en": "Equivalence checking",
+      "count": 236,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F119/18": {
+      "code": "G06F119/18",
+      "level": 1,
+      "parent": "G06F119/00",
+      "ja": "製造性解析または製造性最適化［２０２０．０１］",
+      "en": "Manufacturability analysis or optimisation for manufacturability",
+      "count": 2466,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F119/20": {
+      "code": "G06F119/20",
+      "level": 1,
+      "parent": "G06F119/00",
+      "ja": "設計の再利用，再利用性解析または再利用性最適化［２０２０．０１］",
+      "en": "Design reuse, reusability analysis or reusability optimisation",
+      "count": 401,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F119/22": {
+      "code": "G06F119/22",
+      "level": 1,
+      "parent": "G06F119/00",
+      "ja": "歩留まり解析または歩留まり最適化［２０２０．０１］",
+      "en": "Yield analysis or yield optimisation",
+      "count": 288,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F123/00": {
+      "code": "G06F123/00",
+      "level": 0,
+      "parent": "G06F",
+      "ja": "データの種類［２０２３．０１］",
+      "en": "Data types",
+      "count": 93,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    },
+    "G06F123/02": {
+      "code": "G06F123/02",
+      "level": 1,
+      "parent": "G06F123/00",
+      "ja": "時間領域におけるもの，例．時系列データ［２０２３．０１］",
+      "en": "in the time domain, e.g. time-series data",
+      "count": 15115,
+      "sourceFile": "ipc_G06F.txt",
+      "kind": "ipc"
+    }
+  }
+};

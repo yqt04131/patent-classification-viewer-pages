@@ -1,0 +1,2236 @@
+window.IPC_SHARD_E06B = {
+  "generatedAt": "2026-03-20T02:17:46.726Z",
+  "total": 223,
+  "entries": {
+    "E06B": {
+      "code": "E06B",
+      "level": 0,
+      "parent": "E06",
+      "ja": "建築物，乗り物，フエンスまたは類似の囲いにおける開口のための固定または可動閉鎖部材一般，例．戸，窓，ブラインド，門（温室のおおいやブラインドＡ０１Ｇ９／２２；カーテンＡ４７Ｈ；自動車の荷物入れまたはボンネットのためのリッドＢ６２Ｄ２５／１０；天窓Ｅ０４Ｂ７／１８；日よけ，張り出し日よけＥ０４Ｆ１０／００）<br><br><b><ul>注</ul></b><br>（１）このサブクラスは，クラスＥ０５に見い出されるタイプの操作，装着，ラッチあるいはロック手段を有するウィングまたは枠の組合せを包含しない。ただし，これらは，このサブクラスのグループ７／０８６，９／００または１１／０２に包含されるものを除いてクラスＥ０５の関連サブクラスに包含される。［２］<br>（２）このサブクラスにおいては，下記の用語または表現は以下に示す意味で用いる：<br>―“ウィング”は戸か窓のような開口を閉じるための揺動，滑動またはその可動部材を意味する；<br>―“ウィング枠”はウィングの外縁を規定する一つまたは複数の周囲縁を意味する。<br>（３）自動車のドアまたは窓装置に対しては，サブクラスＢ６０Ｊのタイトルに続く注（１）に注意すること。［３］<br><br><b><ul>サブクラス内の索引</ul></b><br>縁の構造　１／００<br>開口を閉じるための要素　３／００，５／００<br>特殊な装置　７／００，９／００<br>さくを通過しうるようにする手段　１１／００",
+      "en": "FIXED OR MOVABLE CLOSURES FOR OPENINGS IN BUILDINGS, VEHICLES, FENCES, OR LIKE ENCLOSURES, IN GENERAL, e.g. DOORS, WINDOWS, BLINDS, GATES(shades or blinds for greenhouses <b>A01G9/22</b>; curtains <b>A47H</b>; lids for car boots or bonnets <b>B62D25/10</b>; sky-lights <b>E04B7/18</b>; sunshades, awnings <b>E04F10/00</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>This subclass <u>does not cover</u> combinations of wings or frames with operating, mounting, latching or locking means of the type found in class <b>E05</b>, which are covered by the relevant subclasses of class <b>E05</b>, except such as are covered by groups <b>E06B7/086</b>, <b>E06B9/00</b>, or <b>E06B11/02</b> of this subclass.</li><li>In this subclass, the following terms or expressions are used with the meanings indicated:<ul><li>\"wing\" means a swingable, slidable or otherwise movable member such as a door or window, for closing an opening;</li><li>\"wing frame\" means the peripheral edge or edges which define the outer border of the wing.</li></ul></li><li>For vehicle door or window arrangements, attention is drawn to Note (1) following the title of subclass <b>B60J</b>.</li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">BORDER CONSTRUCTIONS </td><td><b><b>1/00</b></b></td></tr></tr><tr><td width=\"70%\">ELEMENTS FOR CLOSING OPENINGS </td><td><b><b>3/00</b>, <b>5/00</b></b></td></tr></tr><tr><td width=\"70%\">SPECIAL ARRANGEMENTS </td><td><b><b>7/00</b>, <b>9/00</b></b></td></tr></tr><tr><td width=\"70%\">MEANS ALLOWING PASSAGE THROUGH FENCES </td><td><b><b>11/00</b></b></td></tr></tr></table>",
+      "count": 8700,
+      "sourceFile": "ipc_E.txt",
+      "kind": "ipc"
+    },
+    "E06": {
+      "code": "E06",
+      "level": 0,
+      "parent": "E",
+      "ja": "戸，窓，シャッタまたはローラブラインド一般；はしご",
+      "en": "DOORS, WINDOWS, SHUTTERS, OR ROLLER BLINDS, IN GENERAL; LADDERS",
+      "count": 0,
+      "sourceFile": "ipc_E.txt",
+      "kind": "ipc"
+    },
+    "E": {
+      "code": "E",
+      "level": 0,
+      "parent": null,
+      "ja": "固定構造物",
+      "en": "FIXED CONSTRUCTIONS",
+      "count": 0,
+      "sourceFile": "ipc_E.txt",
+      "kind": "ipc"
+    },
+    "E06B1/00": {
+      "code": "E06B1/00",
+      "level": 0,
+      "parent": "E06B",
+      "ja": "壁，床，または天井内の開口の縁構造；このような開口にしっかりとすえつけられる枠（Ｅ０６Ｂ５／００が優先；内枠またはウィング枠に関連する形態，内枠のすえつけにだけ関連する形態Ｅ０６Ｂ３／００；かど部の連結またはふち部の接続Ｅ０６Ｂ３／９６）［４］",
+      "en": "Border constructions of openings in walls, floors, or ceilings; Frames to be rigidly mounted in such openings(<b>E06B5/00</b> takes precedence; features relating also to inner frames or wing frames, features relating solely to the mounting of inner frames <b>E06B3/00</b>; corner joints or edge joints <b>E06B3/96</b>)",
+      "count": 3115,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B1/02": {
+      "code": "E06B1/02",
+      "level": 1,
+      "parent": "E06B1/00",
+      "ja": "基枠すなわちしっかりとすえつけられる，別の枠を保持する手段をもつ，壁または類似のものの開口部に固定される枠；その中に固定される枠の特殊な適応",
+      "en": "Base frames, i.e. template frames for openings in walls or the like, provided with means for securing a further rigidly-mounted frame; Special adaptations of frames to be fixed therein",
+      "count": 3474,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B1/04": {
+      "code": "E06B1/04",
+      "level": 1,
+      "parent": "E06B1/00",
+      "ja": "開口に固定される戸，窓または類似のもののための枠（装着のための特別な適応が基枠にあるものＥ０６Ｂ１／０２；ガラス板または他の板体の取付けにのみ関連する特徴Ｅ０６Ｂ３／００）",
+      "en": "Frames for doors, windows, or the like to be fixed in openings(special adaptations for fixing in base frames <b>E06B1/02</b>; features relating solely to the mounting of glass panes or other sheets <b>E06B3/00</b>)",
+      "count": 5415,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B1/06": {
+      "code": "E06B1/06",
+      "level": 2,
+      "parent": "E06B1/04",
+      "ja": "木枠",
+      "en": "Wooden frames",
+      "count": 821,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B1/08": {
+      "code": "E06B1/08",
+      "level": 3,
+      "parent": "E06B1/06",
+      "ja": "枠自体の横断面に関し数個の部分からなるもの",
+      "en": "composed of several parts with respect to the cross-section of the frame itself",
+      "count": 665,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B1/10": {
+      "code": "E06B1/10",
+      "level": 4,
+      "parent": "E06B1/08",
+      "ja": "壁の厚さに応じて調整可能のもの",
+      "en": "adjustable with respect to the thickness of walls",
+      "count": 428,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B1/12": {
+      "code": "E06B1/12",
+      "level": 2,
+      "parent": "E06B1/04",
+      "ja": "金属枠",
+      "en": "Metal frames",
+      "count": 4699,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B1/14": {
+      "code": "E06B1/14",
+      "level": 3,
+      "parent": "E06B1/12",
+      "ja": "特殊な横断面のもの（Ｅ０６Ｂ１／１８，Ｅ０６Ｂ１／２２が優先）",
+      "en": "of special cross-section(<b>E06B1/18</b>, <b>E06B1/22</b> take precedence)",
+      "count": 1190,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B1/16": {
+      "code": "E06B1/16",
+      "level": 4,
+      "parent": "E06B1/14",
+      "ja": "中空枠",
+      "en": "Hollow frames",
+      "count": 1152,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B1/18": {
+      "code": "E06B1/18",
+      "level": 3,
+      "parent": "E06B1/12",
+      "ja": "枠自体の横断面に関し数個の部分からなるもの",
+      "en": "composed of several parts with respect to the cross-section of the frame itself",
+      "count": 3470,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B1/20": {
+      "code": "E06B1/20",
+      "level": 4,
+      "parent": "E06B1/18",
+      "ja": "壁の厚さに応じて調整可能のもの",
+      "en": "adjustable with respect to the thickness of walls",
+      "count": 584,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B1/22": {
+      "code": "E06B1/22",
+      "level": 3,
+      "parent": "E06B1/12",
+      "ja": "枠の一部として特殊な形状のくつずりをもつもの",
+      "en": "with integral thresholds of special form",
+      "count": 111,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B1/24": {
+      "code": "E06B1/24",
+      "level": 2,
+      "parent": "E06B1/04",
+      "ja": "自然石，コンクリートまたは他の石のような材料からなる枠",
+      "en": "Frames of natural stone, concrete, or other stone-like material",
+      "count": 531,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B1/26": {
+      "code": "E06B1/26",
+      "level": 2,
+      "parent": "E06B1/04",
+      "ja": "プラスチック枠",
+      "en": "Frames of plastics",
+      "count": 839,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B1/28": {
+      "code": "E06B1/28",
+      "level": 3,
+      "parent": "E06B1/26",
+      "ja": "中空枠（Ｅ０６Ｂ１／３０が優先）",
+      "en": "Hollow frames(<b>E06B1/30</b> takes precedence)",
+      "count": 449,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B1/30": {
+      "code": "E06B1/30",
+      "level": 3,
+      "parent": "E06B1/26",
+      "ja": "枠自体の横断面に関し数個の部分からなるもの",
+      "en": "composed of several parts with respect to the cross-section of the frame itself",
+      "count": 635,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B1/32": {
+      "code": "E06B1/32",
+      "level": 2,
+      "parent": "E06B1/04",
+      "ja": "異なった材料の部分からなる枠",
+      "en": "Frames composed of parts made of different materials",
+      "count": 4309,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B1/34": {
+      "code": "E06B1/34",
+      "level": 2,
+      "parent": "E06B1/04",
+      "ja": "被覆，例．耐候性をもたせるための被覆，装飾を目的とした被覆",
+      "en": "Coverings, e.g. protecting against weather, for decorative purposes",
+      "count": 7775,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B1/36": {
+      "code": "E06B1/36",
+      "level": 2,
+      "parent": "E06B1/04",
+      "ja": "窓のみに使用される枠",
+      "en": "Frames uniquely adapted for windows",
+      "count": 7778,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B1/38": {
+      "code": "E06B1/38",
+      "level": 3,
+      "parent": "E06B1/36",
+      "ja": "商店，陳列用または類似の大きな窓",
+      "en": "for shop-, show- or like large windows",
+      "count": 767,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B1/40": {
+      "code": "E06B1/40",
+      "level": 3,
+      "parent": "E06B1/36",
+      "ja": "ガラスを収容するため動かせる部分をもった枠（Ｅ０６Ｂ１／３８が優先）",
+      "en": "Frames with parts removable to admit the glass(<b>E06B1/38</b> takes precedence)",
+      "count": 209,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B1/52": {
+      "code": "E06B1/52",
+      "level": 2,
+      "parent": "E06B1/04",
+      "ja": "ドアのみに使用される枠",
+      "en": "Frames specially adapted for doors",
+      "count": 10417,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B1/56": {
+      "code": "E06B1/56",
+      "level": 1,
+      "parent": "E06B1/00",
+      "ja": "開口の縁への枠の固定",
+      "en": "Fastening frames to the border of openings",
+      "count": 7897,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B1/58": {
+      "code": "E06B1/58",
+      "level": 2,
+      "parent": "E06B1/56",
+      "ja": "結合部への充てんによるもの，例．セメントによる",
+      "en": "by filling-up the joints, e.g. by cementing",
+      "count": 2032,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B1/60": {
+      "code": "E06B1/60",
+      "level": 2,
+      "parent": "E06B1/56",
+      "ja": "機械的手段によるもの，例．アンカー手段によるもの",
+      "en": "by mechanical means, e.g. anchoring means",
+      "count": 12004,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B1/62": {
+      "code": "E06B1/62",
+      "level": 1,
+      "parent": "E06B1/00",
+      "ja": "開口の縁と枠間の密封または継ぎ目の覆い（Ｅ０６Ｂ１／３４が優先）",
+      "en": "Tightening or covering joints between the border of openings and the frame(<b>E06B1/34</b> takes precedence)",
+      "count": 5639,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B1/64": {
+      "code": "E06B1/64",
+      "level": 2,
+      "parent": "E06B1/62",
+      "ja": "ゆるく挿入した手段によるもの，例．細長片，可とう性舌片",
+      "en": "by loosely-inserted means, e.g. strip, resilient tongue",
+      "count": 977,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B1/66": {
+      "code": "E06B1/66",
+      "level": 2,
+      "parent": "E06B1/62",
+      "ja": "ラビリンスパッキンによるもの",
+      "en": "by labyrinth packings",
+      "count": 43,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B1/68": {
+      "code": "E06B1/68",
+      "level": 2,
+      "parent": "E06B1/62",
+      "ja": "凹凸断面を付けた外部分によるもの",
+      "en": "by profiled external parts",
+      "count": 733,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B1/70": {
+      "code": "E06B1/70",
+      "level": 1,
+      "parent": "E06B1/00",
+      "ja": "下枠，敷居；くつずり",
+      "en": "Sills; Thresholds",
+      "count": 8180,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B3/00": {
+      "code": "E06B3/00",
+      "level": 0,
+      "parent": "E06B",
+      "ja": "開口を閉じるための窓サッシ，戸板または同様の要素；開口のための固定または動く閉鎖部材の配置，例．窓の配置；ウィング枠のすえつけに関連してしっかりとすえつけられる外枠の特徴（Ｅ０６Ｂ５／００が優先；シャッタまたは類似のものＥ０６Ｂ９／００；ガラス板Ｃ０３；融着による板ガラスの接着Ｃ０３Ｂ２３／２０３；融着以外の方法によるガラスどうしの接着，またはガラスと他の無機材料との接着Ｃ０３Ｃ２７／００）",
+      "en": "Window sashes, door leaves, or like elements for closing openings; Layout of fixed or moving closures, e.g. windows; Features of rigidly-mounted outer frames relating to the mounting of wing frames(<b>E06B5/00</b> takes precedence; shutters or the like <b>E06B9/00</b>; glass panes <b>C03</b>; uniting glass sheets by fusion <b>C03B23/203</b>; joining glass to glass other than by fusing or to other inorganic material <b>C03C27/00</b>)",
+      "count": 9339,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B3/01": {
+      "code": "E06B3/01",
+      "level": 1,
+      "parent": "E06B3/00",
+      "ja": "格納庫または他のホール，例．航空機用，のための移動または片づけ可能の壁（壁構造Ｅ０４Ｂ２／００）",
+      "en": "Removable or disappearing walls for hangars or other halls, e.g. for aircraft(wall constructions <b>E04B2/00</b>)",
+      "count": 625,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B3/02": {
+      "code": "E06B3/02",
+      "level": 1,
+      "parent": "E06B3/00",
+      "ja": "全体がガラスよりなるウィング",
+      "en": "Wings made completely of glass",
+      "count": 3022,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B3/04": {
+      "code": "E06B3/04",
+      "level": 1,
+      "parent": "E06B3/00",
+      "ja": "移動方法には特徴のないウィング枠（移動方法に関連のある形態Ｅ０６Ｂ３／３２）",
+      "en": "Wing frames not characterised by the manner of movement(features relating to the manner of movement <b>E06B3/32</b>)",
+      "count": 2427,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B3/06": {
+      "code": "E06B3/06",
+      "level": 2,
+      "parent": "E06B3/04",
+      "ja": "単枠",
+      "en": "Single frames",
+      "count": 1654,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B3/08": {
+      "code": "E06B3/08",
+      "level": 3,
+      "parent": "E06B3/06",
+      "ja": "特定された材料の使用に関する構造（Ｅ０６Ｂ３／２４が優先）",
+      "en": "Constructions depending on the use of specified materials(<b>E06B3/24</b> takes precedence)",
+      "count": 2094,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B3/10": {
+      "code": "E06B3/10",
+      "level": 4,
+      "parent": "E06B3/08",
+      "ja": "木製",
+      "en": "of wood",
+      "count": 1317,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B3/12": {
+      "code": "E06B3/12",
+      "level": 4,
+      "parent": "E06B3/08",
+      "ja": "金属製",
+      "en": "of metal",
+      "count": 3663,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B3/14": {
+      "code": "E06B3/14",
+      "level": 5,
+      "parent": "E06B3/12",
+      "ja": "特殊な横断面のもの",
+      "en": "of special cross-section",
+      "count": 1138,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B3/16": {
+      "code": "E06B3/16",
+      "level": 6,
+      "parent": "E06B3/14",
+      "ja": "中空枠",
+      "en": "Hollow frames",
+      "count": 2630,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B3/18": {
+      "code": "E06B3/18",
+      "level": 4,
+      "parent": "E06B3/08",
+      "ja": "コンクリートまたは他の石に類似した材料",
+      "en": "of concrete or other stone-like material",
+      "count": 97,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B3/20": {
+      "code": "E06B3/20",
+      "level": 4,
+      "parent": "E06B3/08",
+      "ja": "プラスチック製",
+      "en": "of plastics",
+      "count": 1346,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B3/22": {
+      "code": "E06B3/22",
+      "level": 5,
+      "parent": "E06B3/20",
+      "ja": "中空枠",
+      "en": "Hollow frames",
+      "count": 1971,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B3/24": {
+      "code": "E06B3/24",
+      "level": 3,
+      "parent": "E06B3/06",
+      "ja": "二重ガラス用に特に用いられるもの（板の保持のための分離できる部分Ｅ０６Ｂ３／６４）",
+      "en": "specially adapted for double glazing(separable parts for securing panes <b>E06B3/64</b>)",
+      "count": 1604,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B3/26": {
+      "code": "E06B3/26",
+      "level": 2,
+      "parent": "E06B3/04",
+      "ja": "複合枠，すなわち他の中か後に一個の枠があるもの（Ｅ０６Ｂ３／２６３，Ｅ０６Ｂ３／２８が優先；可動枠の装置Ｅ０６Ｂ３／３２）",
+      "en": "Compound frames, i.e. one frame within or behind another(<b>E06B3/263</b>, <b>E06B3/28</b> take precedence; arrangements of movable frames <b>E06B3/32</b>)",
+      "count": 7379,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B3/263": {
+      "code": "E06B3/263",
+      "level": 2,
+      "parent": "E06B3/04",
+      "ja": "絶縁のため特別な手段のある枠［６］",
+      "en": "Frames with special provision for insulation",
+      "count": 15109,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B3/267": {
+      "code": "E06B3/267",
+      "level": 3,
+      "parent": "E06B3/263",
+      "ja": "現場で形成された絶縁部材をもつもの［６］",
+      "en": "with insulating elements formed <u>in situ</u>",
+      "count": 1140,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B3/273": {
+      "code": "E06B3/273",
+      "level": 3,
+      "parent": "E06B3/263",
+      "ja": "枠部材の部分の変形により所定位置に保持された既製の絶縁部材をもつもの［６］",
+      "en": "with prefabricated insulating elements held in position by deformation of portions of the frame members",
+      "count": 418,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B3/277": {
+      "code": "E06B3/277",
+      "level": 3,
+      "parent": "E06B3/263",
+      "ja": "絶縁部材の膨張により所定位置に保持された既製の絶縁部材をもつもの［６］",
+      "en": "with prefabricated insulating elements held in position by expansion of the insulating elements",
+      "count": 79,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B3/28": {
+      "code": "E06B3/28",
+      "level": 2,
+      "parent": "E06B3/04",
+      "ja": "付属の取り外しできるガラス板または同様のものをもち，枠に入っているものか入っていないもの",
+      "en": "with additional removable glass panes or the like, framed or unframed",
+      "count": 1737,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B3/30": {
+      "code": "E06B3/30",
+      "level": 1,
+      "parent": "E06B3/00",
+      "ja": "装飾のための覆い，例．風雨から保護するもの",
+      "en": "Coverings, e.g. protecting against weather, for decorative purposes",
+      "count": 9492,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B3/32": {
+      "code": "E06B3/32",
+      "level": 1,
+      "parent": "E06B3/00",
+      "ja": "移動方法により特徴づけられるウィングの配置；開口における可動ウィングの配置；ウィングの移動方法にのみ関連するウィングまたは枠の特徴［３］",
+      "en": "Arrangements of wings characterised by the manner of movement; Arrangements of movable wings in openings; Features of wings or frames relating solely to the manner of movement of the wing",
+      "count": 4169,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B3/34": {
+      "code": "E06B3/34",
+      "level": 2,
+      "parent": "E06B3/32",
+      "ja": "一種類のみの移動方法をもつもの（Ｅ０６Ｂ３／４８が優先）",
+      "en": "with only one kind of movement(<b>E06B3/48</b> takes precedence)",
+      "count": 2281,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B3/36": {
+      "code": "E06B3/36",
+      "level": 3,
+      "parent": "E06B3/34",
+      "ja": "開口の一方の側に１本の垂直な回転軸をもつものまたは開口をとおして揺動できるもの（ウィングが開くまえにもち上げる事が必要なものＥ０６Ｂ３／５２）",
+      "en": "with a single vertical axis of rotation at one side of the opening, or swinging through the opening(wings requiring lifting before opening <b>E06B3/52</b>)",
+      "count": 24271,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B3/38": {
+      "code": "E06B3/38",
+      "level": 3,
+      "parent": "E06B3/34",
+      "ja": "開口の頂部または底部に水平回転軸をもつもの",
+      "en": "with a horizontal axis of rotation at the top or bottom of the opening",
+      "count": 5812,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B3/40": {
+      "code": "E06B3/40",
+      "level": 3,
+      "parent": "E06B3/34",
+      "ja": "開口の側部でない位置に垂直または水平の回転軸をもつもの，例．転倒ウィング",
+      "en": "with a vertical or horizontal axis of rotation not at one side of the opening, e.g. turnover wings",
+      "count": 2704,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B3/42": {
+      "code": "E06B3/42",
+      "level": 3,
+      "parent": "E06B3/34",
+      "ja": "滑動ウィング；案内に関する枠の細部",
+      "en": "Sliding wings; Details of frames with respect to guiding",
+      "count": 2728,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B3/44": {
+      "code": "E06B3/44",
+      "level": 4,
+      "parent": "E06B3/42",
+      "ja": "垂直滑動ウィング",
+      "en": "Vertically-sliding wings",
+      "count": 6701,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B3/46": {
+      "code": "E06B3/46",
+      "level": 4,
+      "parent": "E06B3/42",
+      "ja": "水平滑動ウィング",
+      "en": "Horizontally-sliding wings",
+      "count": 36396,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B3/48": {
+      "code": "E06B3/48",
+      "level": 2,
+      "parent": "E06B3/32",
+      "ja": "その端部にウィングが連結されるもの，例．折りたたみできるウィング",
+      "en": "Wings connected at their edges, e.g. foldable wings",
+      "count": 11296,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B3/50": {
+      "code": "E06B3/50",
+      "level": 2,
+      "parent": "E06B3/32",
+      "ja": "二種類以上の移動方法をもつもの（Ｅ０６Ｂ３／４８が優先）",
+      "en": "with more than one kind of movement(<b>E06B3/48</b> takes precedence)",
+      "count": 7970,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B3/52": {
+      "code": "E06B3/52",
+      "level": 3,
+      "parent": "E06B3/50",
+      "ja": "開ける前にもち上げることが必要なウィング",
+      "en": "Wings requiring lifting before opening",
+      "count": 583,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B3/54": {
+      "code": "E06B3/54",
+      "level": 1,
+      "parent": "E06B3/00",
+      "ja": "ガラス板または類似の板の固定",
+      "en": "Fixing of glass panes or like plates",
+      "count": 7619,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B3/56": {
+      "code": "E06B3/56",
+      "level": 2,
+      "parent": "E06B3/54",
+      "ja": "パテ，セメントまたは接着剤だけによるもの（Ｅ０６Ｂ３／６４が優先）",
+      "en": "by means of putty, cement, or adhesives only(<b>E06B3/64</b> takes precedence)",
+      "count": 1539,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B3/58": {
+      "code": "E06B3/58",
+      "level": 2,
+      "parent": "E06B3/54",
+      "ja": "縁手段，クリートまたは類似の手段によるもの（Ｅ０６Ｂ３／６４が優先）",
+      "en": "by means of borders, cleats, or the like(<b>E06B3/64</b> takes precedence)",
+      "count": 13519,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B3/60": {
+      "code": "E06B3/60",
+      "level": 3,
+      "parent": "E06B3/58",
+      "ja": "金属製止めクリート",
+      "en": "of clamping cleats of metal",
+      "count": 904,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B3/62": {
+      "code": "E06B3/62",
+      "level": 3,
+      "parent": "E06B3/58",
+      "ja": "ゴムのような弾性材料製クリート",
+      "en": "of rubber-like elastic cleats",
+      "count": 5546,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B3/64": {
+      "code": "E06B3/64",
+      "level": 2,
+      "parent": "E06B3/54",
+      "ja": "一枠に二枚以上の板の固定",
+      "en": "Fixing of more than one pane to a frame",
+      "count": 3339,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B3/66": {
+      "code": "E06B3/66",
+      "level": 1,
+      "parent": "E06B3/00",
+      "ja": "空間をはさんで単位が二枚以上の平行なガラスまたはその類似のものからなりそれらが共に永久固定されている部材，例．端縁に沿って（本質的にシートガラスからなる積層体Ｂ３２Ｂ１７／００；ガラスの被覆Ｃ０３Ｃ１７／００）",
+      "en": "Units comprising two or more parallel glass or like panes in spaced relationship, the panes being permanently secured together, e.g. along the edges(layered products essentially comprising sheet glass <b>B32B17/00</b>; coating of glass <b>C03C17/00</b>)",
+      "count": 16528,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B3/663": {
+      "code": "E06B3/663",
+      "level": 2,
+      "parent": "E06B3/66",
+      "ja": "窓ガラス間にすきまを作るための部材［６］",
+      "en": "Elements for spacing panes",
+      "count": 5305,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B3/667": {
+      "code": "E06B3/667",
+      "level": 3,
+      "parent": "E06B3/663",
+      "ja": "そのための接合部材［６］",
+      "en": "Connectors therefor",
+      "count": 1170,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B3/67": {
+      "code": "E06B3/67",
+      "level": 2,
+      "parent": "E06B3/66",
+      "ja": "熱または音絶縁用の付加的装置または器具に特徴のあるもの［６］",
+      "en": "characterised by additional arrangements or devices for heat or sound insulation",
+      "count": 8331,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B3/673": {
+      "code": "E06B3/673",
+      "level": 2,
+      "parent": "E06B3/66",
+      "ja": "構成単位を組み立てるもの（Ｅ０６Ｂ３／６７７が優先）［６］",
+      "en": "Assembling the units(<b>E06B3/677</b> takes precedence)",
+      "count": 2814,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B3/677": {
+      "code": "E06B3/677",
+      "level": 2,
+      "parent": "E06B3/66",
+      "ja": "ガラス板間の空隙の空気を抜くかまたは充填するもの；ガラス板間の空隙の凝縮を防ぐもの（空隙を保たせる部材によるものＥ０６Ｂ３／６６３），ガラス板間の空隙の洗浄［２００６．０１］",
+      "en": "Evacuating or filling the gap between the panes; Preventing condensation in the gap between the panes(by means of spacing elements <b>E06B3/663</b>);Cleaning the gap between the panes",
+      "count": 4440,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B3/68": {
+      "code": "E06B3/68",
+      "level": 1,
+      "parent": "E06B3/00",
+      "ja": "窓のさん",
+      "en": "Window bars",
+      "count": 1840,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B3/70": {
+      "code": "E06B3/70",
+      "level": 1,
+      "parent": "E06B3/00",
+      "ja": "戸板（ウィング枠Ｅ０６Ｂ３／０４）",
+      "en": "Door leaves(wing frames <b>E06B3/04</b>)",
+      "count": 30901,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B3/72": {
+      "code": "E06B3/72",
+      "level": 2,
+      "parent": "E06B3/70",
+      "ja": "枠と板からなるもの",
+      "en": "consisting of frame and panels",
+      "count": 9337,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B3/74": {
+      "code": "E06B3/74",
+      "level": 3,
+      "parent": "E06B3/72",
+      "ja": "木製板をもつもの",
+      "en": "with wooden panels",
+      "count": 2648,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B3/76": {
+      "code": "E06B3/76",
+      "level": 3,
+      "parent": "E06B3/72",
+      "ja": "金属板をもつもの",
+      "en": "with metal panels",
+      "count": 2404,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B3/78": {
+      "code": "E06B3/78",
+      "level": 3,
+      "parent": "E06B3/72",
+      "ja": "プラスチック板をもつもの",
+      "en": "with panels of plastics",
+      "count": 660,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B3/80": {
+      "code": "E06B3/80",
+      "level": 2,
+      "parent": "E06B3/70",
+      "ja": "可とう性のもの",
+      "en": "flexible",
+      "count": 1070,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B3/82": {
+      "code": "E06B3/82",
+      "level": 2,
+      "parent": "E06B3/70",
+      "ja": "平戸，すなわち完全に平らな表面をもったもの（Ｅ０６Ｂ３／０２が優先）",
+      "en": "Flush doors, i.e. with completely flat surface(<b>E06B3/02</b> takes precedence)",
+      "count": 2416,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B3/84": {
+      "code": "E06B3/84",
+      "level": 3,
+      "parent": "E06B3/82",
+      "ja": "合板製",
+      "en": "of plywood",
+      "count": 461,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B3/86": {
+      "code": "E06B3/86",
+      "level": 3,
+      "parent": "E06B3/82",
+      "ja": "プラスチック製",
+      "en": "of plastics",
+      "count": 213,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B3/88": {
+      "code": "E06B3/88",
+      "level": 2,
+      "parent": "E06B3/70",
+      "ja": "戸板の端部保護手段（戸または窓用の，指の安全装置Ｅ０６Ｂ７／３６）",
+      "en": "Edge-protecting devices for door leaves(finger guards for doors or windows <b>E06B7/36</b>)",
+      "count": 2098,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B3/90": {
+      "code": "E06B3/90",
+      "level": 1,
+      "parent": "E06B3/00",
+      "ja": "回転戸；そのための骨組または枠体（回転木戸Ｅ０６Ｂ１１／０８）",
+      "en": "Revolving doors; Cages or housings therefor(turnstiles <b>E06B11/08</b>)",
+      "count": 2249,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B3/92": {
+      "code": "E06B3/92",
+      "level": 1,
+      "parent": "E06B3/00",
+      "ja": "位置についた時広げることのできる戸または窓（窓用滑動ウィングＥ０６Ｂ３／４２；折りたたみできるウィングＥ０６Ｂ３／４８；巻き上げた時などに壁を閉じる手段，例．シャッタ，Ｅ０６Ｂ９／０８）",
+      "en": "Doors or windows extensible when set in position(sliding wings for windows <b>E06B3/42</b>; foldable wings <b>E06B3/48</b>; wall-closing devices which may be rolled up, e.g. shutters, <b>E06B9/08</b>)",
+      "count": 2099,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B3/94": {
+      "code": "E06B3/94",
+      "level": 2,
+      "parent": "E06B3/92",
+      "ja": "ベローズ型の戸",
+      "en": "Doors of the bellows type",
+      "count": 1179,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B3/96": {
+      "code": "E06B3/96",
+      "level": 1,
+      "parent": "E06B3/00",
+      "ja": "窓，戸，または類似のものの枠またはウィング用のかど部の接続またはふち部の接続［４］",
+      "en": "Corner joints or edge joints for windows, doors, or the like frames or wings",
+      "count": 7915,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B3/964": {
+      "code": "E06B3/964",
+      "level": 2,
+      "parent": "E06B3/96",
+      "ja": "別体の結合片を用いるもの，例．Ｔ型結合片（Ｅ０６Ｂ３／９８４，Ｅ０６Ｂ３／９８８，Ｅ０６Ｂ３／９９が優先）［５］",
+      "en": "using separate connecting pieces, e.g. T-connecting pieces(<b>E06B3/984</b>, <b>E06B3/988</b>, <b>E06B3/99</b> take precedence)",
+      "count": 7774,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B3/968": {
+      "code": "E06B3/968",
+      "level": 3,
+      "parent": "E06B3/964",
+      "ja": "結合片が枠部材に固定される方法に特徴があるもの［５］",
+      "en": "characterised by the way the connecting pieces are fixed in or on the frame members",
+      "count": 4233,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B3/972": {
+      "code": "E06B3/972",
+      "level": 4,
+      "parent": "E06B3/968",
+      "ja": "結合片の断面増加によるもの，例．くさびで結合片を広げることによるもの（Ｅ０６Ｂ３／９７６が優先）［５］",
+      "en": "by increasing the cross-section of the connecting pieces, e.g. by expanding the connecting pieces with wedges(<b>E06B3/976</b> takes precedence)",
+      "count": 424,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B3/976": {
+      "code": "E06B3/976",
+      "level": 4,
+      "parent": "E06B3/968",
+      "ja": "枠部材の変形によるもの［５］",
+      "en": "by deformation of the frame members",
+      "count": 222,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B3/98": {
+      "code": "E06B3/98",
+      "level": 4,
+      "parent": "E06B3/968",
+      "ja": "結合片が枠部材を互に近づけるのに特に適用されるもの（Ｅ０６Ｂ３／９７２，Ｅ０６Ｂ３／９７６が優先）［５］",
+      "en": "the connecting pieces being specially adapted for drawing the frame members towards each other(<b>E06B3/972</b>, <b>E06B3/976</b> take precedence)",
+      "count": 569,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B3/984": {
+      "code": "E06B3/984",
+      "level": 2,
+      "parent": "E06B3/96",
+      "ja": "木材またはそれと同様な作用をする他の材料からなる枠部材に特に適用されるもの（Ｅ０６Ｂ３／９９が優先）［５］",
+      "en": "specially adapted for frame members of wood or other material worked in a similar way(<b>E06B3/99</b> takes precedence)",
+      "count": 987,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B3/988": {
+      "code": "E06B3/988",
+      "level": 2,
+      "parent": "E06B3/96",
+      "ja": "概してＵ字型に開いた断面を有する金属薄板，または類似の薄板材料の枠部材に特に適用されるもの，例．ドア枠用［５］",
+      "en": "specially adapted for frame members of sheet metal, or similar sheet material, with an open generally U-shaped cross-section, e.g. for door frame members",
+      "count": 769,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B3/99": {
+      "code": "E06B3/99",
+      "level": 2,
+      "parent": "E06B3/96",
+      "ja": "分断されることなく互に交差する連続枠部材のためのもの（窓のさんＥ０６Ｂ３／６８）［５］",
+      "en": "for continuous frame members crossing each other without interruption(window bars <b>E06B3/68</b>)",
+      "count": 224,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B5/00": {
+      "code": "E06B5/00",
+      "level": 0,
+      "parent": "E06B",
+      "ja": "特殊な目的のための戸，窓または同様の閉鎖部材；そのための縁構造",
+      "en": "Doors, windows, or like closures for special purposes; Border constructions therefor",
+      "count": 15960,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B5/01": {
+      "code": "E06B5/01",
+      "level": 1,
+      "parent": "E06B5/00",
+      "ja": "はね上げ戸",
+      "en": "Trap-doors",
+      "count": 775,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B5/02": {
+      "code": "E06B5/02",
+      "level": 1,
+      "parent": "E06B5/00",
+      "ja": "付属建物または穴蔵用；ぴったりあうようには設計されない他の簡単な閉鎖部材",
+      "en": "for out-buildings or cellars; Other simple closures not designed to be close-fitting",
+      "count": 797,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B5/04": {
+      "code": "E06B5/04",
+      "level": 2,
+      "parent": "E06B5/02",
+      "ja": "固定した木枠をもったもの",
+      "en": "with fixed wooden frames",
+      "count": 24,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B5/06": {
+      "code": "E06B5/06",
+      "level": 2,
+      "parent": "E06B5/02",
+      "ja": "固定した金枠をもったもの",
+      "en": "with fixed metal frames",
+      "count": 182,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B5/08": {
+      "code": "E06B5/08",
+      "level": 2,
+      "parent": "E06B5/02",
+      "ja": "コンクリート，石に類似した物質またはプラスチックからなる固定枠をもったもの",
+      "en": "with fixed frames made of concrete, stone-like material, or plastics",
+      "count": 85,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B5/10": {
+      "code": "E06B5/10",
+      "level": 1,
+      "parent": "E06B5/00",
+      "ja": "空襲または他の戦争のような行為から防御するためのもの；他の防御目的用のもの",
+      "en": "for protection against air-raid or other war-like action; for other protective purposes",
+      "count": 9918,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B5/11": {
+      "code": "E06B5/11",
+      "level": 2,
+      "parent": "E06B5/10",
+      "ja": "強盗に対するもの［６］",
+      "en": "against burglary",
+      "count": 11592,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B5/12": {
+      "code": "E06B5/12",
+      "level": 2,
+      "parent": "E06B5/10",
+      "ja": "耐圧，防爆または耐ガス用のもの",
+      "en": "against air pressure, explosion, or gas",
+      "count": 3239,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B5/14": {
+      "code": "E06B5/14",
+      "level": 3,
+      "parent": "E06B5/12",
+      "ja": "耐ガス戸または類似の閉鎖部材；そのために用いる固定構造の適用",
+      "en": "Gasproof doors or similar closures; Adaptation of fixed constructions therefor",
+      "count": 806,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B5/16": {
+      "code": "E06B5/16",
+      "level": 2,
+      "parent": "E06B5/10",
+      "ja": "耐火戸または類似の閉鎖部材；そのために用いる固定構造の適用",
+      "en": "Fireproof doors or similar closures; Adaptations of fixed constructions therefor",
+      "count": 31092,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B5/18": {
+      "code": "E06B5/18",
+      "level": 2,
+      "parent": "E06B5/10",
+      "ja": "有害な放射線に対するもの（熱に対するものＥ０６Ｂ５／１６）",
+      "en": "against harmful radiation(against heat <b>E06B5/16</b>)",
+      "count": 3024,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B5/20": {
+      "code": "E06B5/20",
+      "level": 1,
+      "parent": "E06B5/00",
+      "ja": "騒音防止用",
+      "en": "for insulation against noise",
+      "count": 13585,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B7/00": {
+      "code": "E06B7/00",
+      "level": 0,
+      "parent": "E06B",
+      "ja": "戸または窓と関連する特殊な装置または手段（金網または類似の保護手段Ｅ０６Ｂ９／００）",
+      "en": "Special arrangements or measures in connection with doors or windows(screening or similar protective devices <b>E06B9/00</b>)",
+      "count": 6989,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B7/02": {
+      "code": "E06B7/02",
+      "level": 1,
+      "parent": "E06B7/00",
+      "ja": "換気のためのもの，例．２重窓を通して；換気孔の配置（気流調節部材それ自体Ｆ２４Ｆ１３／０８）",
+      "en": "for providing ventilation, e.g. through double windows; Arrangement of ventilation roses(airflow control members <u>per se</u><b>F24F13/08</b>)",
+      "count": 11401,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B7/03": {
+      "code": "E06B7/03",
+      "level": 2,
+      "parent": "E06B7/02",
+      "ja": "上下に滑動する窓の下部にそう入するための換気手段（雨または気流の転向装置Ｅ０６Ｂ７／２６）",
+      "en": "Ventilating devices for inserting under upwardly-sliding windows(rain or draught deflectors <b>E06B7/26</b>)",
+      "count": 245,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B7/04": {
+      "code": "E06B7/04",
+      "level": 2,
+      "parent": "E06B7/02",
+      "ja": "換気ウィングをもったもの（Ｅ０６Ｂ７／０８が優先）",
+      "en": "with ventilation wings(<b>E06B7/08</b> takes precedence)",
+      "count": 1179,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B7/06": {
+      "code": "E06B7/06",
+      "level": 3,
+      "parent": "E06B7/04",
+      "ja": "一個の換気ウィングだけをもったもの",
+      "en": "with one ventilation wing only",
+      "count": 766,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B7/08": {
+      "code": "E06B7/08",
+      "level": 2,
+      "parent": "E06B7/02",
+      "ja": "鎧（よろい）戸，窓または格子",
+      "en": "Louvre doors, windows, or grilles",
+      "count": 3254,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B7/082": {
+      "code": "E06B7/082",
+      "level": 3,
+      "parent": "E06B7/08",
+      "ja": "固定したまたは滑動できる薄板をもつもの",
+      "en": "with rigid or slidable lamellae",
+      "count": 2650,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B7/084": {
+      "code": "E06B7/084",
+      "level": 3,
+      "parent": "E06B7/08",
+      "ja": "回転できる薄板をもつもの",
+      "en": "with rotatable lamellae",
+      "count": 2908,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B7/086": {
+      "code": "E06B7/086",
+      "level": 4,
+      "parent": "E06B7/084",
+      "ja": "同時に作動するように相互に連絡させたもの［２］",
+      "en": "interconnected for concurrent movement",
+      "count": 3864,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B7/088": {
+      "code": "E06B7/088",
+      "level": 5,
+      "parent": "E06B7/086",
+      "ja": "防護格子または安全防具に面したもの［２］",
+      "en": "with facing protective grille or safety guard",
+      "count": 128,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B7/09": {
+      "code": "E06B7/09",
+      "level": 5,
+      "parent": "E06B7/086",
+      "ja": "移動するウイング，例．戸，にはめ込まれたもの［２］",
+      "en": "mounted in movable wing, e.g. door",
+      "count": 357,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B7/092": {
+      "code": "E06B7/092",
+      "level": 5,
+      "parent": "E06B7/086",
+      "ja": "二つまたはそれ以上の異なったセットを操作できるもの［２］",
+      "en": "operable in two or more distinct sets",
+      "count": 287,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B7/094": {
+      "code": "E06B7/094",
+      "level": 5,
+      "parent": "E06B7/086",
+      "ja": "順々に操作できるもの；付加した独立の動作に特徴のあるもの［２］",
+      "en": "operable in sequence; characterised by additional independent movement",
+      "count": 41,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B7/096": {
+      "code": "E06B7/096",
+      "level": 5,
+      "parent": "E06B7/086",
+      "ja": "歯車装置によって操作または相互に連結されたもの（歯車装置を有するウイングの操作一般Ｅ０５Ｆ１１／００）［２］",
+      "en": "operated or interconnected by gearing(wing operators with gearing in general <b>E05F11/00</b>)",
+      "count": 779,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B7/098": {
+      "code": "E06B7/098",
+      "level": 5,
+      "parent": "E06B7/086",
+      "ja": "目詰め材をもつもの［２］",
+      "en": "with weather seal",
+      "count": 493,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B7/10": {
+      "code": "E06B7/10",
+      "level": 2,
+      "parent": "E06B7/02",
+      "ja": "枠部材の特別構造によるもの",
+      "en": "by special construction of the frame members",
+      "count": 2843,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B7/12": {
+      "code": "E06B7/12",
+      "level": 1,
+      "parent": "E06B7/00",
+      "ja": "凝縮水の形成を防ぐ手段（二重ガラスＥ０６Ｂ３／２４～Ｅ０６Ｂ３／２８，Ｅ０６Ｂ３／６４，Ｅ０６Ｂ３／６６；透明または反射部分に特に適合した加熱装置Ｈ０５Ｂ３／８４）［２００６．０１］",
+      "en": "Measures preventing the formation of condensed water(double glazing <b>E06B3/24 to E06B3/28</b> , <b>E06B3/64</b>, <b>E06B3/66</b>; heating arrangements specially adapted for transparent or reflecting areas <b>H05B3/84</b>)",
+      "count": 3105,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B7/14": {
+      "code": "E06B7/14",
+      "level": 1,
+      "parent": "E06B7/00",
+      "ja": "凝縮水または漏水を取り除く手段",
+      "en": "Measures for draining-off condensed water or water leaking-in",
+      "count": 12752,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B7/16": {
+      "code": "E06B7/16",
+      "level": 1,
+      "parent": "E06B7/00",
+      "ja": "ウイングまたはウイングと協動する部分の密封装置（Ｅ０６Ｂ７／０９８が優先）［２］",
+      "en": "Sealing arrangements on wings or parts co-operating with the wings(<b>E06B7/098</b> takes precedence)",
+      "count": 22686,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B7/18": {
+      "code": "E06B7/18",
+      "level": 2,
+      "parent": "E06B7/16",
+      "ja": "移動できる縁によるもの，例．ボルト締めに付加的に用いられるすきまの密閉",
+      "en": "by means of movable edgings, e.g. draught sealings additionally used for bolting",
+      "count": 4441,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B7/20": {
+      "code": "E06B7/20",
+      "level": 3,
+      "parent": "E06B7/18",
+      "ja": "ウィングが開かれた時自動的に引き込まれるもの",
+      "en": "automatically withdrawn when the wing is opened",
+      "count": 1596,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B7/205": {
+      "code": "E06B7/205",
+      "level": 4,
+      "parent": "E06B7/20",
+      "ja": "敷居にすえつけられた密封片をもつもの［２］",
+      "en": "with sealing strip mounted on sill",
+      "count": 276,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B7/21": {
+      "code": "E06B7/21",
+      "level": 4,
+      "parent": "E06B7/20",
+      "ja": "ウイングの面内で移動できる密封片をもつもの［２］",
+      "en": "with sealing strip movable in plane of wing",
+      "count": 736,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B7/215": {
+      "code": "E06B7/215",
+      "level": 4,
+      "parent": "E06B7/20",
+      "ja": "弾性手段によって収縮した位置に移動される密封片をもつもの，例．スプリング［２］",
+      "en": "with sealing strip being moved to a retracted position by elastic means, e.g. springs",
+      "count": 1011,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B7/22": {
+      "code": "E06B7/22",
+      "level": 2,
+      "parent": "E06B7/16",
+      "ja": "反発力のある縁によるもの，例．弾性ゴム管；弾性ある縁によるもの，例．フェルトまたはビロード片，弾性金属片（Ｅ０６Ｂ７／１８が優先）",
+      "en": "by means of elastic edgings, e.g. elastic rubber tubes; by means of resilient edgings, e.g. felt or plush strips, resilient metal strips(<b>E06B7/18</b> takes precedence)",
+      "count": 15671,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B7/23": {
+      "code": "E06B7/23",
+      "level": 3,
+      "parent": "E06B7/22",
+      "ja": "プラスチック，スポンジゴムまたは類似の片または管",
+      "en": "Plastic, sponge rubber, or like strips or tubes",
+      "count": 20117,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B7/232": {
+      "code": "E06B7/232",
+      "level": 3,
+      "parent": "E06B7/22",
+      "ja": "硬い物質の弾性片，例．金属",
+      "en": "Resilient strips of hard material, e.g. metal",
+      "count": 723,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B7/24": {
+      "code": "E06B7/24",
+      "level": 2,
+      "parent": "E06B7/16",
+      "ja": "分離した密閉部材をもたないもの，例．ラビリンスをもったもの",
+      "en": "without separate sealing members, e.g. with labyrinth",
+      "count": 594,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B7/26": {
+      "code": "E06B7/26",
+      "level": 1,
+      "parent": "E06B7/00",
+      "ja": "雨または通風の転向装置，例．滑動ウィングの下部",
+      "en": "Rain or draught deflectors, e.g. under sliding wings",
+      "count": 4051,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B7/28": {
+      "code": "E06B7/28",
+      "level": 1,
+      "parent": "E06B7/00",
+      "ja": "戸または窓の他の装置，例．表札，草木を配するための窓，窓清掃者のための鈎",
+      "en": "Other arrangements on doors or windows, e.g. door-plates, windows adapted to carry plants, hooks for window cleaners",
+      "count": 44802,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B7/30": {
+      "code": "E06B7/30",
+      "level": 2,
+      "parent": "E06B7/28",
+      "ja": "のぞき穴；通話のための手段；窓をもっている戸",
+      "en": "Peep-holes; Devices for speaking through; Doors having windows",
+      "count": 8169,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B7/32": {
+      "code": "E06B7/32",
+      "level": 2,
+      "parent": "E06B7/28",
+      "ja": "サービス戸；通り抜け出来る戸",
+      "en": "Serving doors; Passing-through doors",
+      "count": 2539,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B7/34": {
+      "code": "E06B7/34",
+      "level": 2,
+      "parent": "E06B7/28",
+      "ja": "戸だなをもつ戸（キャビネット一般Ａ４７Ｂ）",
+      "en": "Doors containing cupboards(cabinets in general <b>A47B</b>)",
+      "count": 557,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B7/36": {
+      "code": "E06B7/36",
+      "level": 2,
+      "parent": "E06B7/28",
+      "ja": "指の安全装置［７］",
+      "en": "Finger guards",
+      "count": 2507,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B9/00": {
+      "code": "E06B9/00",
+      "level": 0,
+      "parent": "E06B",
+      "ja": "操作または保持機構をもつかまたはもたない開口のための遮へいまたは保護装置；同様構造の閉鎖材（Ｅ０６Ｂ５／１０が優先；自体の端部で連絡した戸または窓用のウィングＥ０６Ｂ３／４８；建物の特有な仕上げの部分とはならない戸または窓の付加的な室内装備品，例．カーテンＡ４７Ｈ；構築要素としての鉄格子Ｅ０４Ｃ２／４２；錠，その付属具Ｅ０５Ｂ；ウィング用のボルトまたは固定装置Ｅ０５Ｃ；ウィングの操作機構一般Ｅ０５Ｆ）",
+      "en": "Screening or protective devices for openings, with or without operating or securing mechanisms; Closures of similar construction(<b>E06B5/10</b> takes precedence; wings for doors or windows, connected at their edges, <b>E06B3/48</b>; additional indoor equipment of doors or windows, not forming part of the proper finishing work of a building, e.g. curtains, <b>A47H</b>; gratings as building elements <b>E04C2/42</b>; locks, accessories therefor <b>E05B</b>; bolts or fastening devices for wings <b>E05C</b>; operating mechanism for wings in general <b>E05F</b>)",
+      "count": 4577,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B9/01": {
+      "code": "E06B9/01",
+      "level": 1,
+      "parent": "E06B9/00",
+      "ja": "壁，戸または窓に固定された格子；戸または窓と共に動く格子；格子状の壁，例．クラウストラ",
+      "en": "Grilles fixed to walls, doors, or windows; Grilles moving with doors or windows; Walls formed as grilles, e.g. claustra",
+      "count": 7496,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B9/02": {
+      "code": "E06B9/02",
+      "level": 1,
+      "parent": "E06B9/00",
+      "ja": "シャッタ，可動格子または他の安全閉鎖手段，例．防盗（鎧（よろい）窓または格子Ｅ０６Ｂ７／０８；層状ブラインドＥ０６Ｂ９／２６）",
+      "en": "Shutters, movable grilles, or other safety closing devices, e.g. against burglary(louvre windows or grilles <b>E06B7/08</b>; lamellar blinds <b>E06B9/26</b>)",
+      "count": 6865,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B9/04": {
+      "code": "E06B9/04",
+      "level": 2,
+      "parent": "E06B9/02",
+      "ja": "ウイング型のもの，例．回転または滑動",
+      "en": "of wing type, e.g. revolving or sliding",
+      "count": 5698,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B9/06": {
+      "code": "E06B9/06",
+      "level": 2,
+      "parent": "E06B9/02",
+      "ja": "組み立て式または折りたたみ式のもの，例．蛇腹式またはレージトング式のもの（蛇腹形戸Ｅ０６Ｂ３／９４；巻き取り形格子Ｅ０６Ｂ９／１８）",
+      "en": "collapsible or foldable, e.g. of the bellows or lazy-tongs type(bellows-type doors <b>E06B3/94</b>; roll-type grilles <b>E06B9/18</b>)",
+      "count": 5487,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B9/08": {
+      "code": "E06B9/08",
+      "level": 2,
+      "parent": "E06B9/02",
+      "ja": "巻き取り形閉鎖部材（ローラブラインドＥ０６Ｂ９／４０；巻き取り形閉鎖部材の操作，案内または固定のための装置または配置Ｅ０６Ｂ９／５６；張り出し日よけとしてのみ用いられるものＥ０４Ｆ１０／０６）［５］",
+      "en": "Roll-type closures(roller blinds <b>E06B9/40</b>; operating, guiding or securing devices or arrangements for roll-type closures <b>E06B9/56</b>; usable only as awnings <b>E04F10/06</b>)",
+      "count": 7203,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B9/11": {
+      "code": "E06B9/11",
+      "level": 3,
+      "parent": "E06B9/08",
+      "ja": "ローラシャッター［５］",
+      "en": "Roller shutters",
+      "count": 2769,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B9/13": {
+      "code": "E06B9/13",
+      "level": 4,
+      "parent": "E06B9/11",
+      "ja": "一片からなる閉鎖部材をもつもの，例．波型金属板よりなるもの［５］",
+      "en": "with closing members of one piece, e.g. of corrugated sheet metal",
+      "count": 1653,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B9/15": {
+      "code": "E06B9/15",
+      "level": 4,
+      "parent": "E06B9/11",
+      "ja": "スラットまたは類似のものからなる閉鎖部材をもつもの［５］",
+      "en": "with closing members formed of slats or the like",
+      "count": 4520,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B9/165": {
+      "code": "E06B9/165",
+      "level": 5,
+      "parent": "E06B9/15",
+      "ja": "互いに相手を覆うスラットをもつもの；間隔を変えられるスラットをもつもの［５］",
+      "en": "with slats disappearing in each other; with slats the distance between which can be altered",
+      "count": 892,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B9/17": {
+      "code": "E06B9/17",
+      "level": 4,
+      "parent": "E06B9/11",
+      "ja": "ローラシャッタの部品または細部，例．つり上げ装置，シャッタボックス，くぐり戸，換気孔［５］",
+      "en": "Parts or details of roller shutters, e.g. suspension devices, shutter boxes, wicket doors, ventilation openings",
+      "count": 10320,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B9/171": {
+      "code": "E06B9/171",
+      "level": 5,
+      "parent": "E06B9/17",
+      "ja": "そのためのローラ；ローラへのローラシャッタの固定［５］",
+      "en": "Rollers therefor; Fastening roller shutters to rollers",
+      "count": 774,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B9/172": {
+      "code": "E06B9/172",
+      "level": 6,
+      "parent": "E06B9/171",
+      "ja": "止め棒によるもの",
+      "en": "by clamping bars",
+      "count": 40,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B9/173": {
+      "code": "E06B9/173",
+      "level": 6,
+      "parent": "E06B9/171",
+      "ja": "止め金またはボタンによるもの",
+      "en": "by clasps or buttons",
+      "count": 57,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B9/174": {
+      "code": "E06B9/174",
+      "level": 5,
+      "parent": "E06B9/17",
+      "ja": "そのために特に適した軸受け［５］",
+      "en": "Bearings specially adapted therefor",
+      "count": 984,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B9/18": {
+      "code": "E06B9/18",
+      "level": 3,
+      "parent": "E06B9/08",
+      "ja": "巻き取り形格子［５］",
+      "en": "Roll-type grilles",
+      "count": 657,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B9/24": {
+      "code": "E06B9/24",
+      "level": 1,
+      "parent": "E06B9/00",
+      "ja": "光，とくに日光に対して保護することができるスクリーンまたはその他の構造；プライバシーまたは体裁のための同様のスクリーン（巻き取り型閉鎖部材の操作，案内または固定のための装置または配置Ｅ０６Ｂ９／５６，自由につるせる可とう性の幕Ａ４７Ｈ２３／００）",
+      "en": "Screens or other constructions affording protection against light, especially against sunshine; Similar screens for privacy or appearance(operating, guiding or securing devices or arrangements for roll-type closures <b>E06B9/56</b>; free-hanging flexible screens <b>A47H23/00</b>)",
+      "count": 10981,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B9/26": {
+      "code": "E06B9/26",
+      "level": 2,
+      "parent": "E06B9/24",
+      "ja": "層状または類似のブラインド，例．ベネシアンブラインド",
+      "en": "Lamellar or like blinds, e.g. venetian blinds",
+      "count": 2230,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B9/262": {
+      "code": "E06B9/262",
+      "level": 3,
+      "parent": "E06B9/26",
+      "ja": "伸縮可能に相互に連結された水平または垂直の小片；手風琴形ブラインド",
+      "en": "with flexibly-interconnected horizontal or vertical strips; Concertina blinds",
+      "count": 3217,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B9/264": {
+      "code": "E06B9/264",
+      "level": 3,
+      "parent": "E06B9/26",
+      "ja": "ローラシャッタ，網窓，窓または２重ガラスと層状ブラインドとの組み合わせ；特殊装置をもった層状ブラインド",
+      "en": "Combinations of lamellar blinds with roller shutters, screen windows, windows, or double panes; Lamellar blinds with special devices",
+      "count": 6139,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B9/266": {
+      "code": "E06B9/266",
+      "level": 3,
+      "parent": "E06B9/26",
+      "ja": "薄板状ブラインドまたはその部品を形成または取付けるための装置または付属品［３］",
+      "en": "Devices or accessories for making or mounting lamellar blinds or parts thereof",
+      "count": 1374,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B9/28": {
+      "code": "E06B9/28",
+      "level": 3,
+      "parent": "E06B9/26",
+      "ja": "水平薄板をもつもの，例．もち上げることができないもの（鎧窓または鉄格子Ｅ０６Ｂ７／０８）",
+      "en": "with horizontal lamellae, e.g. non-liftable(louvre windows or gratings <b>E06B7/08</b>)",
+      "count": 3067,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B9/30": {
+      "code": "E06B9/30",
+      "level": 4,
+      "parent": "E06B9/28",
+      "ja": "もち上げることができるもの",
+      "en": "liftable",
+      "count": 1944,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B9/302": {
+      "code": "E06B9/302",
+      "level": 5,
+      "parent": "E06B9/30",
+      "ja": "はしごひもをもたないもの，例．伸縮自在の組み手をもったもの，ねじ軸をもつもの",
+      "en": "without ladder-tape, e.g. with lazy-tongs, with screw spindle",
+      "count": 507,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B9/303": {
+      "code": "E06B9/303",
+      "level": 5,
+      "parent": "E06B9/30",
+      "ja": "はしごひもをもつもの",
+      "en": "with ladder-tape",
+      "count": 1234,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B9/304": {
+      "code": "E06B9/304",
+      "level": 6,
+      "parent": "E06B9/303",
+      "ja": "傾斜棒と分離した昇降軸をもつもの",
+      "en": "with tilting bar and separate raising shaft",
+      "count": 112,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B9/305": {
+      "code": "E06B9/305",
+      "level": 6,
+      "parent": "E06B9/303",
+      "ja": "傾斜棒と固定棒に沿って案内される昇降ひもをもつもの",
+      "en": "with tilting bar and raising cords guided along fixed bar",
+      "count": 244,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B9/306": {
+      "code": "E06B9/306",
+      "level": 6,
+      "parent": "E06B9/303",
+      "ja": "傾斜棒とそれに沿って昇降ひもが案内されるもの",
+      "en": "with tilting bar along which the raising cords are guided",
+      "count": 115,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B9/307": {
+      "code": "E06B9/307",
+      "level": 6,
+      "parent": "E06B9/303",
+      "ja": "傾斜棒とその操作の細部",
+      "en": "Details of tilting bars or their operation",
+      "count": 682,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B9/308": {
+      "code": "E06B9/308",
+      "level": 6,
+      "parent": "E06B9/303",
+      "ja": "傾斜棒と昇降軸とが同軸のもの",
+      "en": "with coaxial tilting bar and raising shaft",
+      "count": 250,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B9/32": {
+      "code": "E06B9/32",
+      "level": 5,
+      "parent": "E06B9/30",
+      "ja": "そのための操作，案内または固定手段（傾斜棒の操作Ｅ０６Ｂ９／３０７）",
+      "en": "Operating, guiding, or securing devices therefor(operation of tilting bars <b>E06B9/307</b>)",
+      "count": 5030,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B9/322": {
+      "code": "E06B9/322",
+      "level": 6,
+      "parent": "E06B9/32",
+      "ja": "操作装置の細部，例．滑車，制動器，ばね，巻き胴，駆動部（長尺物の貯蔵および繰返し繰出しおよび再貯蔵用に特に適するまたは取付けられる一般的分野の装置Ｂ６５Ｈ７５／３４）",
+      "en": "Details of operating devices, e.g. pulleys, brakes, spring drums, drives(devices of general interest specially adapted or mounted for storing and repeatedly paying-out and re-storing lengths of material <b>B65H75/34</b>)",
+      "count": 5458,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B9/323": {
+      "code": "E06B9/323",
+      "level": 6,
+      "parent": "E06B9/32",
+      "ja": "上部ボックスの構造または支持",
+      "en": "Structure or support of upper box",
+      "count": 1675,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B9/324": {
+      "code": "E06B9/324",
+      "level": 6,
+      "parent": "E06B9/32",
+      "ja": "ひもの保持",
+      "en": "Cord-locks",
+      "count": 919,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B9/325": {
+      "code": "E06B9/325",
+      "level": 6,
+      "parent": "E06B9/32",
+      "ja": "上昇をふせぐ停止手段",
+      "en": "Immobilising devices preventing raising",
+      "count": 186,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B9/326": {
+      "code": "E06B9/326",
+      "level": 6,
+      "parent": "E06B9/32",
+      "ja": "ひもの細部，例．止め金，引きつまみ",
+      "en": "Details of cords, e.g. buckles, drawing knobs",
+      "count": 1319,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B9/327": {
+      "code": "E06B9/327",
+      "level": 6,
+      "parent": "E06B9/32",
+      "ja": "水平薄板をもつ昇降可能の層状ブラインドのための案内",
+      "en": "Guides for raisable lamellar blinds with horizontal lamellae",
+      "count": 683,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B9/34": {
+      "code": "E06B9/34",
+      "level": 4,
+      "parent": "E06B9/28",
+      "ja": "巻取り形層状ブラインド",
+      "en": "roller type",
+      "count": 846,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B9/36": {
+      "code": "E06B9/36",
+      "level": 3,
+      "parent": "E06B9/26",
+      "ja": "垂直薄板をもつもの",
+      "en": "with vertical lamellae",
+      "count": 3163,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B9/38": {
+      "code": "E06B9/38",
+      "level": 3,
+      "parent": "E06B9/26",
+      "ja": "他の細部",
+      "en": "Other details",
+      "count": 2896,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B9/382": {
+      "code": "E06B9/382",
+      "level": 4,
+      "parent": "E06B9/38",
+      "ja": "はしごひもまたははしご鎖の細部，例．ひもの一部を短くするための止め金",
+      "en": "Details of ladder-tapes or ladder-chains, e.g. buckles for local shortening of tapes",
+      "count": 483,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B9/384": {
+      "code": "E06B9/384",
+      "level": 4,
+      "parent": "E06B9/38",
+      "ja": "ひもと薄板の相互連絡または相互作用のための細部",
+      "en": "Details of interconnection or interaction of tapes and lamellae",
+      "count": 917,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B9/386": {
+      "code": "E06B9/386",
+      "level": 4,
+      "parent": "E06B9/38",
+      "ja": "薄板の細部",
+      "en": "Details of lamellae",
+      "count": 3499,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B9/388": {
+      "code": "E06B9/388",
+      "level": 4,
+      "parent": "E06B9/38",
+      "ja": "底部または上部スラットまたは付属品の細部",
+      "en": "Details of bottom or upper slats or their attachment",
+      "count": 820,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B9/40": {
+      "code": "E06B9/40",
+      "level": 2,
+      "parent": "E06B9/24",
+      "ja": "ローラブラインド（張り出し日よけとしてのみ用いられるものＥ０４Ｆ１０／０６）［５］",
+      "en": "Roller blinds(usable only as awnings <b>E04F10/06</b>)",
+      "count": 8871,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B9/42": {
+      "code": "E06B9/42",
+      "level": 3,
+      "parent": "E06B9/40",
+      "ja": "ローラブラインドの部品または細部，例．つり上げ装置，ブラインドボックス（ローラブラインドおよび引張り式カーテンのブラケットまたは調整可能な取り付け具Ａ４７Ｈ１／１３）［５］",
+      "en": "Parts or details of roller blinds, e.g. suspension devices, blind boxes(brackets or adjustable mountings for roller blinds and drawable curtains <b>A47H1/13</b>)",
+      "count": 8946,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B9/44": {
+      "code": "E06B9/44",
+      "level": 4,
+      "parent": "E06B9/42",
+      "ja": "そのためのローラ；ローラへのローラブラインドの固定［５］",
+      "en": "Rollers therefor; Fastening roller blinds to rollers",
+      "count": 1644,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B9/46": {
+      "code": "E06B9/46",
+      "level": 5,
+      "parent": "E06B9/44",
+      "ja": "止め棒によるもの［５］",
+      "en": "by clamping bars",
+      "count": 152,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B9/48": {
+      "code": "E06B9/48",
+      "level": 5,
+      "parent": "E06B9/44",
+      "ja": "止め金またはボタンによるもの［５］",
+      "en": "by clasps or buttons",
+      "count": 92,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B9/50": {
+      "code": "E06B9/50",
+      "level": 4,
+      "parent": "E06B9/42",
+      "ja": "そのために特に適する軸受け［５］",
+      "en": "Bearings specially adapted therefor",
+      "count": 1207,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B9/52": {
+      "code": "E06B9/52",
+      "level": 1,
+      "parent": "E06B9/00",
+      "ja": "昆虫からの保護手段，例．はえ用の網；他の目的のための網窓",
+      "en": "Devices affording protection against insects, e.g. fly screens; Mesh windows for other purposes",
+      "count": 18200,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B9/54": {
+      "code": "E06B9/54",
+      "level": 2,
+      "parent": "E06B9/52",
+      "ja": "巻き取り形虫よけ用網（そのための操作，案内または固定装置Ｅ０６Ｂ９／５６）［２，５］",
+      "en": "Roller fly screens(operating, guiding or securing devices therefor <b>E06B9/56</b>)",
+      "count": 4595,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B9/56": {
+      "code": "E06B9/56",
+      "level": 1,
+      "parent": "E06B9/00",
+      "ja": "巻き取り形閉鎖部材の操作，案内または固定装置または配置；ばね巻き胴；ひも巻き胴；そのための釣り合せ配置（長尺物の貯蔵および繰返し繰出しおよび再貯蔵用に特に適するまたは取付けられる一般的分野の装置Ｂ６５Ｈ７５／３４）［５］",
+      "en": "Operating, guiding or securing devices or arrangements for roll-type closures; Spring drums; Tape drums; Counterweighting arrangements therefor(devices of general interest specially adapted or mounted for storing and repeatedly paying-out and re-storing lengths of material <b>B65H75/34</b>)",
+      "count": 9286,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B9/58": {
+      "code": "E06B9/58",
+      "level": 2,
+      "parent": "E06B9/56",
+      "ja": "案内装置［５］",
+      "en": "Guiding devices",
+      "count": 8144,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B9/60": {
+      "code": "E06B9/60",
+      "level": 2,
+      "parent": "E06B9/56",
+      "ja": "閉鎖部材のみで操作されるばね巻き胴［５］",
+      "en": "Spring drums operated only by closure members",
+      "count": 1781,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B9/62": {
+      "code": "E06B9/62",
+      "level": 2,
+      "parent": "E06B9/56",
+      "ja": "釣り合せ配置（Ｅ０６Ｂ９／６０が優先）［５］",
+      "en": "Counterweighting arrangements(<b>E06B9/60</b> takes precedence)",
+      "count": 1045,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B9/64": {
+      "code": "E06B9/64",
+      "level": 2,
+      "parent": "E06B9/56",
+      "ja": "下げられるローラをもつもの［５］",
+      "en": "with lowerable roller",
+      "count": 460,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B9/66": {
+      "code": "E06B9/66",
+      "level": 2,
+      "parent": "E06B9/56",
+      "ja": "下部に据えられたローラをもつもの［５］",
+      "en": "with a roller situated at the bottom",
+      "count": 465,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B9/68": {
+      "code": "E06B9/68",
+      "level": 2,
+      "parent": "E06B9/56",
+      "ja": "操作装置または機構，例．電気駆動のもの［５］",
+      "en": "Operating devices or mechanisms, e.g. with electric drive",
+      "count": 10376,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B9/70": {
+      "code": "E06B9/70",
+      "level": 3,
+      "parent": "E06B9/68",
+      "ja": "ローラの外部に配された電気モーターから成るもの［５］",
+      "en": "comprising an electric motor positioned outside the roller",
+      "count": 4760,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B9/72": {
+      "code": "E06B9/72",
+      "level": 3,
+      "parent": "E06B9/68",
+      "ja": "ローラの内部に配された電気モーターから成るもの［５］",
+      "en": "comprising an electric motor positioned inside the roller",
+      "count": 1820,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B9/74": {
+      "code": "E06B9/74",
+      "level": 3,
+      "parent": "E06B9/68",
+      "ja": "電動または手動の選択的操作に適するもの［５］",
+      "en": "adapted for selective electrical or manual operation",
+      "count": 1290,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B9/76": {
+      "code": "E06B9/76",
+      "level": 3,
+      "parent": "E06B9/68",
+      "ja": "クランクハンドルを用いるもの［５］",
+      "en": "using crank handles",
+      "count": 522,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B9/78": {
+      "code": "E06B9/78",
+      "level": 2,
+      "parent": "E06B9/56",
+      "ja": "直接的な手動操作のためのもの，例．タッセルによるもの，ハンドルによるもの［５］",
+      "en": "for direct manual operation, e.g. by tassels, by handles",
+      "count": 3003,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B9/80": {
+      "code": "E06B9/80",
+      "level": 2,
+      "parent": "E06B9/56",
+      "ja": "落下または勝手な開放に対する安全手段；制動または固定装置；巻き戻し制限装置（直接的な手動操作のための安全装置または配置Ｅ０６Ｂ９／７８）［５］",
+      "en": "Safety measures against dropping or unauthorised opening; Braking or immobilising devices; Devices for limiting unrolling(securing devices or arrangements for direct manual operation <b>E06B9/78</b>)",
+      "count": 5721,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B9/82": {
+      "code": "E06B9/82",
+      "level": 3,
+      "parent": "E06B9/80",
+      "ja": "自動的に行うもの［５］",
+      "en": "automatic",
+      "count": 2188,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B9/84": {
+      "code": "E06B9/84",
+      "level": 4,
+      "parent": "E06B9/82",
+      "ja": "落下に対するもの［５］",
+      "en": "against dropping",
+      "count": 2140,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B9/86": {
+      "code": "E06B9/86",
+      "level": 4,
+      "parent": "E06B9/82",
+      "ja": "勝手な開放に対するもの［５］",
+      "en": "against unauthorised opening",
+      "count": 1217,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B9/88": {
+      "code": "E06B9/88",
+      "level": 4,
+      "parent": "E06B9/82",
+      "ja": "巻き戻しを制限するもの［５］",
+      "en": "for limiting unrolling",
+      "count": 1478,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B9/90": {
+      "code": "E06B9/90",
+      "level": 4,
+      "parent": "E06B9/82",
+      "ja": "閉鎖部材を様々な特定位置に固定するもの［５］",
+      "en": "for immobilising the closure member in various chosen positions",
+      "count": 794,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B9/92": {
+      "code": "E06B9/92",
+      "level": 2,
+      "parent": "E06B9/56",
+      "ja": "閉鎖部材を開口の平面から移動させる手段［５］",
+      "en": "Means allowing the closures to be shifted out of the plane of the opening",
+      "count": 546,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B11/00": {
+      "code": "E06B11/00",
+      "level": 0,
+      "parent": "E06B",
+      "ja": "さく，かき根または類似のものを通過しうるようにする手段，例．木戸（戸の一般的な形態Ｅ０６Ｂ１／００～Ｅ０６Ｂ９／００）",
+      "en": "Means for allowing passage through fences, barriers, or the like, e.g. stiles(general features of doors <b>E06B1/00 to E06B9/00</b> )",
+      "count": 1103,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B11/02": {
+      "code": "E06B11/02",
+      "level": 1,
+      "parent": "E06B11/00",
+      "ja": "門；門扉",
+      "en": "Gates; Doors",
+      "count": 10167,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B11/04": {
+      "code": "E06B11/04",
+      "level": 2,
+      "parent": "E06B11/02",
+      "ja": "つり方に特徴のあるもの（つり方それ自体Ｅ０５Ｄ）",
+      "en": "characterised by the kind of suspension(suspensions <u>per se</u><b>E05D</b>)",
+      "count": 1956,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B11/06": {
+      "code": "E06B11/06",
+      "level": 2,
+      "parent": "E06B11/02",
+      "ja": "固定法に特徴のあるもの（ウィング用の固定装置Ｅ０５Ｃ）",
+      "en": "characterised by the kind of fastening(fastening devices for wings <b>E05C</b>)",
+      "count": 1110,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    },
+    "E06B11/08": {
+      "code": "E06B11/08",
+      "level": 1,
+      "parent": "E06B11/00",
+      "ja": "回転木戸（車両におけるものＢ６０Ｎ５／００；登録手段をもったものＧ０７Ｃ９／１０）［２００６．０１］",
+      "en": "Turnstiles (on vehicles <b>B60N5/00</b>;  with registering means <b>G07C9/10</b>)",
+      "count": 1738,
+      "sourceFile": "ipc_E06B.txt",
+      "kind": "ipc"
+    }
+  }
+};

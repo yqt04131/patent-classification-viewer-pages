@@ -1,0 +1,2886 @@
+window.IPC_SHARD_F42B = {
+  "generatedAt": "2026-03-20T02:17:46.957Z",
+  "total": 288,
+  "entries": {
+    "F42B": {
+      "code": "F42B",
+      "level": 0,
+      "parent": "F42",
+      "ja": "装薬，例．爆破用；煙火；弾薬（爆発性組成物Ｃ０６Ｂ；信管Ｆ４２Ｃ；爆破Ｆ４２Ｄ）［２，５］<br><br><b><ul>サブクラス内の索引</ul></b><br>形状に特徴のある装薬　１／００<br>爆破薬包　３／００<br>点火装置　３／１０<br>煙火　４／００<br>弾薬包　５／００<br>吹矢筒，弓，ばね銃または空気銃用発射体　６／００<br>散弾銃弾薬　７／００<br>訓練用弾薬　８／００<br>弾薬の操舵，安定または減速　１０／００<br>弾頭，所期効果または材料に特徴のある弾薬　１２／００<br>砲身への弾薬の導入または封入，弾薬による砲身の潤滑または清掃　１４／００<br>弾薬の形式<br>弾頭形式　１２／００<br>噴進弾または飛しょう体，ロケット魚雷，魚雷　１５／００～１９／００<br>爆雷　２１／００<br>機雷　２２／００<br>地雷　２３／００<br>投下爆弾　２５／００<br>手榴弾　２７／００<br>無音，無煙または無閃光発射体　２９／００<br>小銃弾，小銃てき弾，砲弾，銛（もり）　３０／００<br>弾薬の製造または解体　３３／００<br>弾薬の試験または検査　３５／００<br>弾薬または装薬の包装または貯蔵；その保安　３９／００<br>このサブクラスの他のグループに分類されない主題事項　９９／００",
+      "en": "EXPLOSIVE CHARGES, e.g. FOR BLASTING; FIREWORKS; AMMUNITION(explosive compositions <b>C06B</b>; fuzes <b>F42C</b>; blasting <b>F42D</b>);<br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">CHARGES CHARACTERISED BY THE FORM </td><td><b><b>1/00</b></b></td></tr></tr><tr><td width=\"70%\">BLASTING CARTRIDGES </td><td><b><b>3/00</b></b></td></tr><tr><td width=\"70%\">Initiators </td><td><b><b>3/10</b></b></td></tr></tr></tr><tr><td width=\"70%\">FIREWORKS </td><td><b><b>4/00</b></b></td></tr></tr><tr><td width=\"70%\">CARTRIDGE AMMUNITION </td><td><b><b>5/00</b></b></td></tr></tr><tr><td width=\"70%\">PROJECTILES FOR BLOWGUNS, BOWS, SPRING OR AIR GUNS </td><td><b><b>6/00</b></b></td></tr></tr><tr><td width=\"70%\">SHOTGUN AMMUNITION </td><td><b><b>7/00</b></b></td></tr></tr><tr><td width=\"70%\">TRAINING AMMUNITION </td><td><b><b>8/00</b></b></td></tr></tr><tr><td width=\"70%\">STEERING, STABILISING OR RETARDING OF AMMUNITION </td><td><b><b>10/00</b></b></td></tr></tr><tr><td width=\"70%\">AMMUNITION CHARACTERISED BY WARHEAD, INTENDED EFFECT OR MATERIAL </td><td><b><b>12/00</b></b></td></tr></tr><tr><td width=\"70%\">GUIDING OR SEALING AMMUNITION IN BARRELS, LUBRICATING OR CLEANING BARRELS BY AMMUNITION </td><td><b><b>14/00</b></b></td></tr></tr><tr><td width=\"70%\">TYPES OF AMMUNITION<tr><td width=\"70%\">Warhead types </td><td><b><b>12/00</b></b></td></tr></tr><tr><td width=\"70%\">Self-propelled projectiles or missiles, rocket torpedoes, marine torpedoes </td><td><b><b>15/00 to 19/00</b> </b></td></tr></tr><tr><td width=\"70%\">Depth charges </td><td><b><b>21/00</b></b></td></tr></tr><tr><td width=\"70%\">Marine mines </td><td><b><b>22/00</b></b></td></tr></tr><tr><td width=\"70%\">Land mines </td><td><b><b>23/00</b></b></td></tr></tr><tr><td width=\"70%\">Fall bombs </td><td><b><b>25/00</b></b></td></tr></tr><tr><td width=\"70%\">Hand grenades </td><td><b><b>27/00</b></b></td></tr></tr><tr><td width=\"70%\">Noiseless, smokeless or flashless projectiles </td><td><b><b>29/00</b></b></td></tr></tr><tr><td width=\"70%\">Bullets, rifle grenades, ordnance projectiles, harpoons </td><td><b><b>30/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">MANUFACTURING OR DISMANTLING OF AMMUNITION </td><td><b><b>33/00</b></b></td></tr></tr><tr><td width=\"70%\">TESTING OR CHECKING OF AMMUNITION </td><td><b><b>35/00</b></b></td></tr></tr><tr><td width=\"70%\">PACKAGING OR STORAGE OF AMMUNITION OR EXPLOSIVE CHARGES, SAFETY FEATURES THEREOF </td><td><b><b>39/00</b></b></td></tr></tr><tr><td width=\"70%\">SUBJECT MATTER NOT PROVIDED FOR IN OTHER GROUPS OF THIS SUBCLASS </td><td><b><b>99/00</b></b></td></tr></tr></table>",
+      "count": 1638,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F42": {
+      "code": "F42",
+      "level": 0,
+      "parent": "F",
+      "ja": "弾薬；爆破<br><br><b><ul>注</ul></b><br>（１）シミュレータは一般にクラスＧ０９に包含されるが，このクラスは，模擬的な演習または訓練用の手段をも包含する。<br>（２）このクラスおいては，下記の用語または表現は以下に示す意味で用いる：<br>―“火管”は連続した爆発における最初の爆発段階を生じさせる；［２］<br>―“撃発雷管”は爆発させるために撃たれる火管を意味する；［２］<br>―“点火薬”は爆発的である否かを問わず，最初の火花または熱の発生段階を生じさせる；［２］<br>―“発火手段”または“点火装置”（それぞれ武器および爆破に用いられる）は信管の一部であるか否かを問わず，火管に直接作用する器具を意味する；［２］<br>―“起爆筒”または“起爆薬”は火管の爆発を拡大するために用いられる装薬を意味する；［２］<br>―“信管”は爆発がある条件下でのみ起こりうるよう安全および安全解除機構を組み込んだ構成体または機構を意味する；この構成体または機構は発火の時期（瞬発または遅発）または仕方，例．衝撃，近接，静水圧など，も決める；［２］<br>―“弾薬”は他に明記してなければ単体か否かを問わず，装薬および発射体を含むものを意味する；［２］<br>―“発射体”，“飛しょう体”，または“発射体または飛しょう体”は発射されまたは推進されるすべての物体を意味する；［４］<br>―“誘導飛しょう体”はその弾道の少なくとも一部で誘導される発射体または飛しょう体を意味する；［４］<br>―“ロケット”はその弾道の少なくとも一部で，ロケットエンジン，すなわち．そのために燃料と酸化剤の両方をもった噴射推進エンジンによって自ら推進する発射体または飛しょう体を意味する。［４］<br>―“導火線”は爆破において爆薬を起爆するための通常の柔軟な線又はケーブル内に封入された装薬の連続した系列を意味する。［５］",
+      "en": "AMMUNITION; BLASTING; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This class <u>covers</u> also means for practice or training which may have aspects of simulation, although simulators are generally covered by class <b>G09</b>.</li><li>In this class, the following terms or expressions are used with the meanings indicated:<ul><li>\"primer\" effects the first explosive step in the sequence of explosion; </li><li>\"percussion cap\" means a primer which is struck to explode; </li><li>\"igniter\" effects the first spark-producing or heat-producing step but may not be explosive; </li><li>\"firing-means\" or \"initiator\" (used respectively in the arts of weaponry and blasting) means a device acting directly on the primer, which device may or may not form part of the fuze; </li><li>\"detonator\" or \"detonator charge\" means a charge used to amplify the explosion of the primer; </li><li>\"fuze\" means an assembly or mechanism which incorporates safety and arming means in order that the explosion can only take place under certain conditions; this assembly or mechanism determines also the moment (instantaneous or delayed) or the manner, e.g. impact, proximity, hydrostatic pressure, of the firing; </li><li>\"ammunition\" covers propulsive charge and projectile whether or not forming a single body, unless otherwise made clear; </li><li>\"projectile\", \"missile\" or \"projectile or missile\" means any body which is projected or propelled; </li><li>\"guided missile\" means projectile or missile which is guided during at least part of its trajectory; </li><li>\"rocket\" means projectile or missile which is self-propelled, during at least part of its trajectory, by a rocket engine, i.e. by a jet-propulsion engine carrying both fuel and oxidant therefor; </li><li>\"fuse\" or \"fuse cord\" means a continuous train of explosive enclosed in a usually flexible cord or cable for setting-off an explosive charge in the art of blasting. </li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F": {
+      "code": "F",
+      "level": 0,
+      "parent": null,
+      "ja": "機械工学；照明；加熱；武器；爆破",
+      "en": "MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F42B1/00": {
+      "code": "F42B1/00",
+      "level": 0,
+      "parent": "F42B",
+      "ja": "形状に特徴のある装薬，ただし容器の形状にはよらないもの",
+      "en": "Explosive charges characterised by form or shape but not dependent on shape of container",
+      "count": 598,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B1/02": {
+      "code": "F42B1/02",
+      "level": 1,
+      "parent": "F42B1/00",
+      "ja": "成形または中空の装薬（装薬に空洞のある爆破薬包Ｆ４２Ｂ３／０８；成形装薬穴開け機を用いる採油Ｅ２１Ｂ４３／１１６）",
+      "en": "Shaped or hollow charges(blasting cartridges with cavities in the charge <b>F42B3/08</b>; oil-winning using shaped-charge perforators <b>E21B43/116</b>)",
+      "count": 914,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B1/024": {
+      "code": "F42B1/024",
+      "level": 2,
+      "parent": "F42B1/02",
+      "ja": "不活性材料の埋め込み体を備えたもの［５］",
+      "en": "provided with embedded bodies of inert material",
+      "count": 182,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B1/028": {
+      "code": "F42B1/028",
+      "level": 2,
+      "parent": "F42B1/02",
+      "ja": "ライナーの形状に特徴のあるもの［５］",
+      "en": "characterised by the form of the liner",
+      "count": 472,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B1/032": {
+      "code": "F42B1/032",
+      "level": 2,
+      "parent": "F42B1/02",
+      "ja": "ライナーの材料に特徴のあるもの［５］",
+      "en": "characterised by the material of the liner",
+      "count": 375,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B1/036": {
+      "code": "F42B1/036",
+      "level": 2,
+      "parent": "F42B1/02",
+      "ja": "そのための製造工程［５］",
+      "en": "Manufacturing processes therefor",
+      "count": 272,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B1/04": {
+      "code": "F42B1/04",
+      "level": 1,
+      "parent": "F42B1/00",
+      "ja": "起爆薬であって，信管の部分品でないもの",
+      "en": "Detonator charges not forming part of the fuze",
+      "count": 127,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B3/00": {
+      "code": "F42B3/00",
+      "level": 0,
+      "parent": "F42B",
+      "ja": "爆破薬包，すなわちケースおよび爆薬（導火線，導爆線Ｃ０６Ｃ５／００；起爆筒，工業雷管または火管の化学的事項Ｃ０６Ｃ７／００）",
+      "en": "Blasting cartridges, i.e. case and explosive(fuse cords, e.g. detonating fuse cords, <b>C06C5/00</b>; chemical aspects of detonators, blasting caps or primers <b>C06C7/00</b>)",
+      "count": 1963,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B3/02": {
+      "code": "F42B3/02",
+      "level": 1,
+      "parent": "F42B3/00",
+      "ja": "構成体に装着されるもの",
+      "en": "adapted to be united into assemblies",
+      "count": 455,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B3/04": {
+      "code": "F42B3/04",
+      "level": 1,
+      "parent": "F42B3/00",
+      "ja": "圧力下でガスが発生するもの",
+      "en": "for producing gas under pressure",
+      "count": 1463,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B3/06": {
+      "code": "F42B3/06",
+      "level": 2,
+      "parent": "F42B3/04",
+      "ja": "再使用ケースを使用のもの",
+      "en": "with re-utilisable case",
+      "count": 282,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B3/08": {
+      "code": "F42B3/08",
+      "level": 1,
+      "parent": "F42B3/00",
+      "ja": "装薬に空洞のあるもの，例．成形装薬爆破薬包",
+      "en": "with cavities in the charge, e.g. hollow-charge blasting cartridges",
+      "count": 527,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B3/087": {
+      "code": "F42B3/087",
+      "level": 1,
+      "parent": "F42B3/00",
+      "ja": "たわみまたは変形可能な爆破薬包，例．薬のうまたはホース（装てん用薬のうＦ４２Ｂ５／３８）［５］",
+      "en": "Flexible or deformable blasting cartridges, e.g. bags or hoses(loaded cartridge bags <b>F42B5/38</b>)",
+      "count": 336,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B3/093": {
+      "code": "F42B3/093",
+      "level": 2,
+      "parent": "F42B3/087",
+      "ja": "マットまたはテープ状のもの［５］",
+      "en": "in mat or tape form",
+      "count": 95,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B3/10": {
+      "code": "F42B3/10",
+      "level": 1,
+      "parent": "F42B3/00",
+      "ja": "そのための点火装置（撃発信管Ｆ４２Ｃ７／００；撃発雷管Ｆ４２Ｃ１９／１０；電気火管Ｆ４２Ｃ１９／１２）<br><br><b><ul>注</ul></b><br>グループ３／１８はグループ３／１０３～３／１６に優先する。",
+      "en": "Initiators therefor(percussion fuzes <b>F42C7/00</b>; percussion caps <b>F42C19/10</b>; electric primers <b>F42C19/12</b>)",
+      "count": 1724,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B3/103": {
+      "code": "F42B3/103",
+      "level": 2,
+      "parent": "F42B3/10",
+      "ja": "点火装置への点火頭の装着；塞栓［５］",
+      "en": "Mounting initiator heads in initiators; Sealing-plugs",
+      "count": 462,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B3/107": {
+      "code": "F42B3/107",
+      "level": 3,
+      "parent": "F42B3/103",
+      "ja": "使用材料に特徴のある塞栓［５］",
+      "en": "Sealing-plugs characterised by the material used",
+      "count": 62,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B3/11": {
+      "code": "F42B3/11",
+      "level": 2,
+      "parent": "F42B3/10",
+      "ja": "使用材料に特徴のあるもの，例．点火装置ケースまたは電気芯線（Ｆ４２Ｂ３／１０７が優先）［５］",
+      "en": "characterised by the material used, e.g. for initiator case or electric leads(<b>F42B3/107</b> takes precedence)",
+      "count": 356,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B3/113": {
+      "code": "F42B3/113",
+      "level": 2,
+      "parent": "F42B3/10",
+      "ja": "光学的手段，例．レーザー，閃光，により作動するもの［５］",
+      "en": "activated by optical means, e.g. laser, flashlight",
+      "count": 329,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B3/117": {
+      "code": "F42B3/117",
+      "level": 2,
+      "parent": "F42B3/10",
+      "ja": "摩擦により作動するもの［５］",
+      "en": "activated by friction",
+      "count": 77,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B3/12": {
+      "code": "F42B3/12",
+      "level": 2,
+      "parent": "F42B3/10",
+      "ja": "電橋式点火装置",
+      "en": "Bridge initiators",
+      "count": 1674,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B3/13": {
+      "code": "F42B3/13",
+      "level": 3,
+      "parent": "F42B3/12",
+      "ja": "半導体電橋のあるもの［５］",
+      "en": "with semiconductive bridge",
+      "count": 234,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B3/14": {
+      "code": "F42B3/14",
+      "level": 2,
+      "parent": "F42B3/10",
+      "ja": "火花点火装置",
+      "en": "Spark initiators",
+      "count": 133,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B3/16": {
+      "code": "F42B3/16",
+      "level": 2,
+      "parent": "F42B3/10",
+      "ja": "延時点火装置",
+      "en": "Delay initiators",
+      "count": 476,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B3/18": {
+      "code": "F42B3/18",
+      "level": 2,
+      "parent": "F42B3/10",
+      "ja": "静電気または迷走電流によって起こる過早発火を防止する安全点火装置",
+      "en": "Safety initiators resistant to premature firing by static electricity or stray currents",
+      "count": 529,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B3/182": {
+      "code": "F42B3/182",
+      "level": 3,
+      "parent": "F42B3/18",
+      "ja": "短絡手段を有するもの［５］",
+      "en": "having shunting means",
+      "count": 143,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B3/185": {
+      "code": "F42B3/185",
+      "level": 3,
+      "parent": "F42B3/18",
+      "ja": "半導体塞栓を有するもの［５］",
+      "en": "having semiconductive sealing plugs",
+      "count": 45,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B3/188": {
+      "code": "F42B3/188",
+      "level": 3,
+      "parent": "F42B3/18",
+      "ja": "電波障害対策を施したもの［５］",
+      "en": "having radio-frequency filters",
+      "count": 86,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B3/192": {
+      "code": "F42B3/192",
+      "level": 2,
+      "parent": "F42B3/10",
+      "ja": "水との接触により無効化される様に設計されたもの［５］",
+      "en": "designed for neutralisation on contact with water",
+      "count": 38,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B3/195": {
+      "code": "F42B3/195",
+      "level": 2,
+      "parent": "F42B3/10",
+      "ja": "製造［５］",
+      "en": "Manufacture",
+      "count": 390,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B3/198": {
+      "code": "F42B3/198",
+      "level": 3,
+      "parent": "F42B3/195",
+      "ja": "電気点火頭の［５］",
+      "en": "of electric initiator heads",
+      "count": 227,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B3/22": {
+      "code": "F42B3/22",
+      "level": 1,
+      "parent": "F42B3/00",
+      "ja": "爆ごう波を制御または誘導する部材，例．管（成形または中空装薬に埋め込まれた不活性体を用いるものＦ４２Ｂ１／０２４）［５］",
+      "en": "Elements for controlling or guiding the detonation wave, e.g. tubes(using inert bodies embedded in shaped or hollow charges <b>F42B1/024</b>)",
+      "count": 400,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B3/24": {
+      "code": "F42B3/24",
+      "level": 1,
+      "parent": "F42B3/00",
+      "ja": "薬包ふたまたは密封（散弾銃弾薬包用上ふたＦ４２Ｂ７／１２）［５］",
+      "en": "Cartridge closures or seals(top closures for shotgun ammunition cartridges <b>F42B7/12</b>)",
+      "count": 174,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B3/26": {
+      "code": "F42B3/26",
+      "level": 1,
+      "parent": "F42B3/00",
+      "ja": "点火装置装着準備；そのための付属具，例．工具［５］",
+      "en": "Arrangements for mounting initiators; Accessories therefor, e.g. tools",
+      "count": 430,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B3/28": {
+      "code": "F42B3/28",
+      "level": 1,
+      "parent": "F42B3/00",
+      "ja": "使用材料に特徴のある薬きょう，例．被覆（点火装置ケース用Ｆ４２Ｂ３／１１）［５］",
+      "en": "Cartridge cases characterised by the material used, e.g. coatings(for initiator cases <b>F42B3/11</b>)",
+      "count": 432,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B4/00": {
+      "code": "F42B4/00",
+      "level": 0,
+      "parent": "F42B",
+      "ja": "煙火，すなわち娯楽，標示，照明または信号を目的とした火工品（爆発物による信号Ｇ０８Ｂ；花火による広告Ｇ０９Ｆ１３／４６）［２］",
+      "en": "Fireworks, i.e. pyrotechnic devices for amusement, display, illumination, or signal purposes(signalling by explosives <b>G08B</b>; advertising by firework <b>G09F13/46</b>)",
+      "count": 3572,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B4/02": {
+      "code": "F42B4/02",
+      "level": 1,
+      "parent": "F42B4/00",
+      "ja": "薬包型のもの，すなわち砲弾，推進薬および火管［２］",
+      "en": "in cartridge form, i.e. shell, propellant, and primer",
+      "count": 463,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B4/04": {
+      "code": "F42B4/04",
+      "level": 1,
+      "parent": "F42B4/00",
+      "ja": "爆竹［２］",
+      "en": "Firecrackers",
+      "count": 1533,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B4/06": {
+      "code": "F42B4/06",
+      "level": 1,
+      "parent": "F42B4/00",
+      "ja": "空中標示用ロケット（ロケット一般Ｆ４２Ｂ１５／００）［２］",
+      "en": "Aerial display rockets(rockets in general <b>F42B15/00</b>)",
+      "count": 299,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B4/08": {
+      "code": "F42B4/08",
+      "level": 2,
+      "parent": "F42B4/06",
+      "ja": "羽根，翼，パラシュートまたは気球をもつ点に特徴のあるもの［２］",
+      "en": "characterised by having vanes, wings, parachutes, or balloons",
+      "count": 72,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B4/10": {
+      "code": "F42B4/10",
+      "level": 2,
+      "parent": "F42B4/06",
+      "ja": "ケーシングを破壊せずにケーシングから物品または装薬を分離する手段をもつ点に特徴のあるもの［２］",
+      "en": "characterised by having means to separate article or charge from casing without destroying casing",
+      "count": 72,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B4/12": {
+      "code": "F42B4/12",
+      "level": 3,
+      "parent": "F42B4/10",
+      "ja": "パラシュートまたは照明筒の分離［２］",
+      "en": "Parachute or flare separation",
+      "count": 58,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B4/14": {
+      "code": "F42B4/14",
+      "level": 2,
+      "parent": "F42B4/06",
+      "ja": "複数の連続的に点火される装薬をもつ点に特徴のあるもの［２］",
+      "en": "characterised by having plural successively-ignited charges",
+      "count": 79,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B4/16": {
+      "code": "F42B4/16",
+      "level": 1,
+      "parent": "F42B4/00",
+      "ja": "手投げ式衝撃爆発音発生具（紙雷管ピストルＦ４１Ｃ３／０６）［４］",
+      "en": "Hand-thrown impact-exploded noise makers(cap pistols <b>F41C3/06</b>)",
+      "count": 125,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B4/18": {
+      "code": "F42B4/18",
+      "level": 1,
+      "parent": "F42B4/00",
+      "ja": "擬装，例．松かさ，破壊される家屋，軍艦，火山［２］",
+      "en": "Simulations, e.g. pine cone, house that is destroyed, warship, volcano",
+      "count": 748,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B4/20": {
+      "code": "F42B4/20",
+      "level": 1,
+      "parent": "F42B4/00",
+      "ja": "ケーシング以外の支持具，例．旋回具または火門せん支持具，をもつ点に特徴のあるもの［２］",
+      "en": "characterised by having holder or support other than casing, e.g. whirler or spike support",
+      "count": 562,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B4/22": {
+      "code": "F42B4/22",
+      "level": 1,
+      "parent": "F42B4/00",
+      "ja": "ケーシングを破壊せずにケーシングから物品または装薬を分離する手段をもつ点に特徴のあるもの（空中標示用ロケットにおけるものＦ４２Ｂ４／１０）［２］",
+      "en": "characterised by having means to separate an article or charge from casing without destroying casing(in aerial display rockets <b>F42B4/10</b>)",
+      "count": 358,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B4/24": {
+      "code": "F42B4/24",
+      "level": 1,
+      "parent": "F42B4/00",
+      "ja": "複数の連続的に点火される装薬をもつ点に特徴のあるもの（空中標示用ロケットにおけるものＦ４２Ｂ４／１４）［２］",
+      "en": "characterised by having plural successively-ignited charges(in aerial display rockets <b>F42B4/14</b>)",
+      "count": 357,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B4/26": {
+      "code": "F42B4/26",
+      "level": 1,
+      "parent": "F42B4/00",
+      "ja": "照明筒；たいまつ［２］",
+      "en": "Flares; Torches",
+      "count": 679,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B4/28": {
+      "code": "F42B4/28",
+      "level": 2,
+      "parent": "F42B4/26",
+      "ja": "パラシュート付照明筒（Ｆ４２Ｂ４／１２が優先）［２］",
+      "en": "Parachute flares(<b>F42B4/12</b> takes precedence)",
+      "count": 108,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B4/30": {
+      "code": "F42B4/30",
+      "level": 1,
+      "parent": "F42B4/00",
+      "ja": "製造［２］",
+      "en": "Manufacture",
+      "count": 4413,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B5/00": {
+      "code": "F42B5/00",
+      "level": 0,
+      "parent": "F42B",
+      "ja": "弾薬包，例．分離装てん推進装薬（散弾銃弾薬Ｆ４２Ｂ７／００；演習または訓練弾薬Ｆ４２Ｂ８／００；そのための飛しょう体Ｆ４２Ｂ１２／００，Ｆ４２Ｂ１４／００，Ｆ４２Ｂ１５／００）",
+      "en": "Cartridge ammunition, e.g. separately-loaded propellant charges(shotgun ammunition <b>F42B7/00</b>; practice or training ammunition <b>F42B8/00</b>; missiles therefor <b>F42B12/00</b>, <b>F42B14/00</b>, <b>F42B15/00</b>)",
+      "count": 398,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B5/02": {
+      "code": "F42B5/02",
+      "level": 1,
+      "parent": "F42B5/00",
+      "ja": "弾薬包，すなわち推進薬と飛しょう体を固定するケース",
+      "en": "Cartridges, i.e. cases with propellant charge and missile",
+      "count": 1174,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B5/03": {
+      "code": "F42B5/03",
+      "level": 2,
+      "parent": "F42B5/02",
+      "ja": "２個以上の飛しょう体をもつもの［４］",
+      "en": "containing more than one missile",
+      "count": 248,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B5/045": {
+      "code": "F42B5/045",
+      "level": 2,
+      "parent": "F42B5/02",
+      "ja": "テレスコープ型（Ｆ４２Ｂ５／１８４が優先）［５］",
+      "en": "of telescopic type(<b>F42B5/184</b> takes precedence)",
+      "count": 198,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B5/05": {
+      "code": "F42B5/05",
+      "level": 2,
+      "parent": "F42B5/02",
+      "ja": "無反動銃用（後座を平衡させるため対抗発射体を用いる無反動銃Ｆ４１Ａ１／１０）［４］",
+      "en": "for recoilless guns(recoilless guns using a counter-projectile to balance recoil <b>F41A1/10</b>)",
+      "count": 104,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B5/067": {
+      "code": "F42B5/067",
+      "level": 2,
+      "parent": "F42B5/02",
+      "ja": "薬きょうへの飛しょう体の装着または固定（Ｆ４２Ｂ５／１８が優先）［５］",
+      "en": "Mounting or locking missiles in cartridge cases(<b>F42B5/18</b> takes precedence)",
+      "count": 204,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B5/073": {
+      "code": "F42B5/073",
+      "level": 3,
+      "parent": "F42B5/067",
+      "ja": "補助固定部材を用いるもの［５］",
+      "en": "using an auxiliary locking element",
+      "count": 102,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B5/08": {
+      "code": "F42B5/08",
+      "level": 2,
+      "parent": "F42B5/02",
+      "ja": "電気点火具を使用するもの",
+      "en": "modified for electric ignition",
+      "count": 327,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B5/10": {
+      "code": "F42B5/10",
+      "level": 2,
+      "parent": "F42B5/02",
+      "ja": "噴進弾をもつもの",
+      "en": "with self-propelled bullet",
+      "count": 265,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B5/14": {
+      "code": "F42B5/14",
+      "level": 2,
+      "parent": "F42B5/02",
+      "ja": "家畜にマーキングするためのもの",
+      "en": "for marking cattle",
+      "count": 12,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B5/145": {
+      "code": "F42B5/145",
+      "level": 2,
+      "parent": "F42B5/02",
+      "ja": "ガス，蒸気，粉末，粒子または化学反応性物質の散布用（発射体からＦ４２Ｂ１２／４６，Ｆ４２Ｂ１２／７０）［５］",
+      "en": "for dispensing gases, vapours, powders, particles or chemically-reactive substances(from projectiles <b>F42B12/46</b>, <b>F42B12/70</b>)",
+      "count": 232,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B5/15": {
+      "code": "F42B5/15",
+      "level": 3,
+      "parent": "F42B5/145",
+      "ja": "遮蔽作用または囮（おとり）効果を生ずるもの，例．レーダーチャーフまたは赤外線物質の使用（赤外線照明筒Ｆ４２Ｂ４／２６）［５］",
+      "en": "for creating a screening or decoy effect, e.g. using radar chaff or infrared material(infrared flares <b>F42B4/26</b>)",
+      "count": 262,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B5/155": {
+      "code": "F42B5/155",
+      "level": 4,
+      "parent": "F42B5/15",
+      "ja": "発煙筒発射器，例．車両に装備［５］",
+      "en": "Smoke-pot projectors, e.g. arranged on vehicles",
+      "count": 117,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B5/16": {
+      "code": "F42B5/16",
+      "level": 2,
+      "parent": "F42B5/02",
+      "ja": "推進薬または火薬の組成，寸法または形状に特徴のあるもの（化学的組成物Ｃ０６Ｂ）",
+      "en": "characterised by composition or physical dimensions or form of propellant charge or powder(chemical composition <b>C06B</b>)",
+      "count": 753,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B5/18": {
+      "code": "F42B5/18",
+      "level": 2,
+      "parent": "F42B5/02",
+      "ja": "無薬きょう弾薬；燃じん性ケースをもつ薬包［５］",
+      "en": "Caseless ammunition; Cartridges having combustible cases",
+      "count": 381,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B5/184": {
+      "code": "F42B5/184",
+      "level": 3,
+      "parent": "F42B5/18",
+      "ja": "テレスコープ型［５］",
+      "en": "telescopic",
+      "count": 63,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B5/188": {
+      "code": "F42B5/188",
+      "level": 3,
+      "parent": "F42B5/18",
+      "ja": "そのための製造工程［５］",
+      "en": "Manufacturing processes therefor",
+      "count": 137,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B5/192": {
+      "code": "F42B5/192",
+      "level": 3,
+      "parent": "F42B5/18",
+      "ja": "使用材料に特徴のある薬きょう［５］",
+      "en": "Cartridge cases characterised by the material used",
+      "count": 108,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B5/196": {
+      "code": "F42B5/196",
+      "level": 4,
+      "parent": "F42B5/192",
+      "ja": "被覆［５］",
+      "en": "Coatings",
+      "count": 53,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B5/24": {
+      "code": "F42B5/24",
+      "level": 2,
+      "parent": "F42B5/02",
+      "ja": "清掃用；冷却用；潤滑用［５］",
+      "en": "for cleaning; for cooling; for lubricating",
+      "count": 197,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B5/26": {
+      "code": "F42B5/26",
+      "level": 1,
+      "parent": "F42B5/00",
+      "ja": "薬きょう（Ｆ４２Ｂ５／１８が優先）",
+      "en": "Cartridge cases(<b>F42B5/18</b> takes precedence)",
+      "count": 568,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B5/28": {
+      "code": "F42B5/28",
+      "level": 2,
+      "parent": "F42B5/26",
+      "ja": "金属製",
+      "en": "of metal",
+      "count": 242,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B5/285": {
+      "code": "F42B5/285",
+      "level": 3,
+      "parent": "F42B5/28",
+      "ja": "複数の部材を組立てて構成されたもの［４］",
+      "en": "formed by assembling several elements",
+      "count": 190,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B5/29": {
+      "code": "F42B5/29",
+      "level": 4,
+      "parent": "F42B5/285",
+      "ja": "薄板または帯状板を巻いたもの［４］",
+      "en": "wound from sheets or strips",
+      "count": 35,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B5/295": {
+      "code": "F42B5/295",
+      "level": 3,
+      "parent": "F42B5/28",
+      "ja": "被覆されたもの［４］",
+      "en": "coated",
+      "count": 80,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B5/297": {
+      "code": "F42B5/297",
+      "level": 4,
+      "parent": "F42B5/295",
+      "ja": "プラスチックで被覆されたもの［５］",
+      "en": "with plastics",
+      "count": 18,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B5/30": {
+      "code": "F42B5/30",
+      "level": 2,
+      "parent": "F42B5/26",
+      "ja": "プラスチック製",
+      "en": "of plastics",
+      "count": 356,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B5/307": {
+      "code": "F42B5/307",
+      "level": 3,
+      "parent": "F42B5/30",
+      "ja": "複数の部材を組立てて構成されたもの［４］",
+      "en": "formed by assembling several elements",
+      "count": 255,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B5/313": {
+      "code": "F42B5/313",
+      "level": 4,
+      "parent": "F42B5/307",
+      "ja": "すべての部材がプラスチックで作られているもの［４］",
+      "en": "all elements made of plastics",
+      "count": 113,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B5/32": {
+      "code": "F42B5/32",
+      "level": 2,
+      "parent": "F42B5/26",
+      "ja": "リムファイア",
+      "en": "for rim fire",
+      "count": 83,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B5/34": {
+      "code": "F42B5/34",
+      "level": 2,
+      "parent": "F42B5/26",
+      "ja": "長さを変える機構のあるもの",
+      "en": "with provision for varying the length",
+      "count": 21,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B5/36": {
+      "code": "F42B5/36",
+      "level": 2,
+      "parent": "F42B5/26",
+      "ja": "雷管全体を装着するもの",
+      "en": "modified for housing an integral firing-cap",
+      "count": 151,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B5/38": {
+      "code": "F42B5/38",
+      "level": 1,
+      "parent": "F42B5/00",
+      "ja": "分離装てん装薬，例．薬のう［４］",
+      "en": "Separately-loaded propellant charges, e.g. cartridge bags",
+      "count": 346,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B6/00": {
+      "code": "F42B6/00",
+      "level": 0,
+      "parent": "F42B",
+      "ja": "爆発性または燃焼性推進薬を使用しない発射に特に適合した発射体または飛しょう体，例．吹矢筒，弓または十字弓，手持ちばね銃または空気銃砲（皮下注射薬発射用Ｆ４２Ｂ１２／５４；投げ矢Ａ６３Ｂ６５／０２；発射手段としてばねを組み込んだ発射体または飛しょう体Ｆ４１Ｂ７／０２）［５］",
+      "en": "Projectiles or missiles specially adapted for projection without use of explosive or combustible propellant charge, e.g. for blow guns, bows or crossbows, hand-held spring or air guns(for delivering hypodermic charges <b>F42B12/54</b>; throwing-darts <b>A63B65/02</b>; projectiles or missiles incorporating springs as the projecting means <b>F41B7/02</b>)",
+      "count": 981,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B6/02": {
+      "code": "F42B6/02",
+      "level": 1,
+      "parent": "F42B6/00",
+      "ja": "矢；十字弓の太矢；手持ちばね銃または空気銃砲用銛（もり）［５］",
+      "en": "Arrows; Crossbow bolts; Harpoons for hand-held spring or air guns",
+      "count": 336,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B6/04": {
+      "code": "F42B6/04",
+      "level": 2,
+      "parent": "F42B6/02",
+      "ja": "矢（Ｆ４２Ｂ６／０８，Ｆ４１Ｂ５／０６が優先）［５］",
+      "en": "Archery arrows(<b>F42B6/08</b>, <b>F41B5/06</b> take precedence)",
+      "count": 602,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B6/06": {
+      "code": "F42B6/06",
+      "level": 3,
+      "parent": "F42B6/04",
+      "ja": "尾端，例．弓筈，矢羽根［５］",
+      "en": "Tail ends, e.g. nocks, fletching",
+      "count": 442,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B6/08": {
+      "code": "F42B6/08",
+      "level": 2,
+      "parent": "F42B6/02",
+      "ja": "矢じり；銛（もり）じり［５］",
+      "en": "Arrow heads; Harpoon heads",
+      "count": 797,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B6/10": {
+      "code": "F42B6/10",
+      "level": 1,
+      "parent": "F42B6/00",
+      "ja": "空気銃砲弾丸［５］",
+      "en": "Air gun pellets",
+      "count": 288,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B7/00": {
+      "code": "F42B7/00",
+      "level": 0,
+      "parent": "F42B",
+      "ja": "散弾銃弾薬",
+      "en": "Shotgun ammunition",
+      "count": 252,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B7/02": {
+      "code": "F42B7/02",
+      "level": 1,
+      "parent": "F42B7/00",
+      "ja": "薬包，すなわち推進薬と飛しょう体を固定するケース",
+      "en": "Cartridges, i.e. cases with propellant charge and missile",
+      "count": 204,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B7/04": {
+      "code": "F42B7/04",
+      "level": 2,
+      "parent": "F42B7/02",
+      "ja": "ペレット形のもの",
+      "en": "of pellet type",
+      "count": 625,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B7/06": {
+      "code": "F42B7/06",
+      "level": 2,
+      "parent": "F42B7/02",
+      "ja": "プラスチック薬きょうを有するもの",
+      "en": "with cartridge case of plastics",
+      "count": 184,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B7/08": {
+      "code": "F42B7/08",
+      "level": 2,
+      "parent": "F42B7/02",
+      "ja": "そのためのワッド",
+      "en": "Wads therefor",
+      "count": 827,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B7/10": {
+      "code": "F42B7/10",
+      "level": 2,
+      "parent": "F42B7/02",
+      "ja": "弾子またはスラッグを用いた散弾銃薬包",
+      "en": "Ball or slug shotgun cartridges",
+      "count": 382,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B7/12": {
+      "code": "F42B7/12",
+      "level": 2,
+      "parent": "F42B7/02",
+      "ja": "薬包上ふた，すなわち飛しょう体側用（爆破薬包用ふたＦ４２Ｂ３／２４）［５］",
+      "en": "Cartridge top closures, i.e. for the missile side(closures for blasting cartridges <b>F42B3/24</b>)",
+      "count": 177,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B8/00": {
+      "code": "F42B8/00",
+      "level": 0,
+      "parent": "F42B",
+      "ja": "演習または訓練用弾薬（射程短縮，動揺または制動装置Ｆ４２Ｂ１０／００；信号効果によるものＦ４２Ｂ１２／０２）［４］",
+      "en": "Practice or training ammunition(range-reducing, destabilising or braking arrangements <b>F42B10/00</b>; with signalling effect <b>F42B12/02</b>; <b>F42B19/00</b> takes precedence)",
+      "count": 484,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B8/02": {
+      "code": "F42B8/02",
+      "level": 1,
+      "parent": "F42B8/00",
+      "ja": "薬包［５］",
+      "en": "Cartridges",
+      "count": 338,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B8/04": {
+      "code": "F42B8/04",
+      "level": 2,
+      "parent": "F42B8/02",
+      "ja": "空包，すなわち発射体はないが，爆発性または燃焼性推進薬を含む火管付薬包［５］",
+      "en": "Blank cartridges, i.e. primed cartridges without projectile but containing an explosive or combustible powder charge",
+      "count": 304,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B8/06": {
+      "code": "F42B8/06",
+      "level": 3,
+      "parent": "F42B8/04",
+      "ja": "紙雷管ピストル用［５］",
+      "en": "for cap-firing pistols",
+      "count": 89,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B8/08": {
+      "code": "F42B8/08",
+      "level": 2,
+      "parent": "F42B8/02",
+      "ja": "擬製薬包，すなわち火管も爆発性または燃焼性装薬も含まない不活性薬包［５］",
+      "en": "Dummy cartridges, i.e. inert cartridges containing neither primer nor explosive or combustible powder charge",
+      "count": 114,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B8/10": {
+      "code": "F42B8/10",
+      "level": 2,
+      "parent": "F42B8/02",
+      "ja": "減口径用アダプタを有するもの［５］",
+      "en": "with sub-calibre adaptor",
+      "count": 141,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B8/12": {
+      "code": "F42B8/12",
+      "level": 1,
+      "parent": "F42B8/00",
+      "ja": "発射体または飛しょう体（Ｆ４２Ｂ１９／３６が優先）［５］",
+      "en": "Projectiles or missiles(<b>F42B19/36</b> takes precedence)",
+      "count": 479,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B8/14": {
+      "code": "F42B8/14",
+      "level": 2,
+      "parent": "F42B8/12",
+      "ja": "飛行中または着弾で破壊されるもの［５］",
+      "en": "disintegrating in flight or upon impact",
+      "count": 216,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B8/16": {
+      "code": "F42B8/16",
+      "level": 3,
+      "parent": "F42B8/14",
+      "ja": "粉状または粒状の不活性充填物を含むもの［５］<br><br><b><ul>注</ul></b><br>グループ８／１４はグループ８／１８～８／２６に優先する。［５］",
+      "en": "containing an inert filler in powder or granular form",
+      "count": 160,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B8/18": {
+      "code": "F42B8/18",
+      "level": 2,
+      "parent": "F42B8/12",
+      "ja": "小銃てき弾［５］",
+      "en": "Rifle grenades",
+      "count": 91,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B8/20": {
+      "code": "F42B8/20",
+      "level": 2,
+      "parent": "F42B8/12",
+      "ja": "迫撃砲てき弾［５］",
+      "en": "Mortar grenades",
+      "count": 122,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B8/22": {
+      "code": "F42B8/22",
+      "level": 2,
+      "parent": "F42B8/12",
+      "ja": "投下爆弾［５］",
+      "en": "Fall bombs",
+      "count": 95,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B8/24": {
+      "code": "F42B8/24",
+      "level": 2,
+      "parent": "F42B8/12",
+      "ja": "ロケット［５］",
+      "en": "Rockets",
+      "count": 114,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B8/26": {
+      "code": "F42B8/26",
+      "level": 2,
+      "parent": "F42B8/12",
+      "ja": "手榴弾［５］",
+      "en": "Hand grenades",
+      "count": 392,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B8/28": {
+      "code": "F42B8/28",
+      "level": 1,
+      "parent": "F42B8/00",
+      "ja": "地雷または機雷；爆雷［５］",
+      "en": "Land or marine mines; Depth charges",
+      "count": 215,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B10/00": {
+      "code": "F42B10/00",
+      "level": 0,
+      "parent": "F42B",
+      "ja": "弾道に影響を及ぼす手段，例．発射体または飛しょう体の空気力学的特性の改善；安定，操舵，射程短縮，射程延伸または降下減速のための発射体または飛しょう体に関する装置（Ｆ４２Ｂ６／００が優先；装弾筒をもつ減口径発射体Ｆ４２Ｂ１４／００）［５］",
+      "en": "Means for influencing, e.g. improving, the aerodynamic properties of projectiles or missiles; Arrangements on projectiles or missiles for stabilising, steering, range-reducing, range-increasing or fall-retarding(<b>F42B6/00</b> takes precedence; sub-calibre projectiles having sabots <b>F42B14/00</b>)",
+      "count": 685,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B10/02": {
+      "code": "F42B10/02",
+      "level": 1,
+      "parent": "F42B10/00",
+      "ja": "安定装置［５］",
+      "en": "Stabilising arrangements",
+      "count": 448,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B10/04": {
+      "code": "F42B10/04",
+      "level": 2,
+      "parent": "F42B10/02",
+      "ja": "固定翼を用いるもの（Ｆ４２Ｂ１０／２２が優先）［５］",
+      "en": "using fixed fins(<b>F42B10/22</b> takes precedence)",
+      "count": 176,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B10/06": {
+      "code": "F42B10/06",
+      "level": 3,
+      "parent": "F42B10/04",
+      "ja": "尾翼［５］",
+      "en": "Tail fins",
+      "count": 646,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B10/08": {
+      "code": "F42B10/08",
+      "level": 4,
+      "parent": "F42B10/06",
+      "ja": "矢弾（Ｆｌｅｃｈｅｔｔｅ）形発射体［５］",
+      "en": "Flechette-type projectiles",
+      "count": 79,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B10/10": {
+      "code": "F42B10/10",
+      "level": 4,
+      "parent": "F42B10/06",
+      "ja": "発射体の変形によって砲身内で形成される翼［５］",
+      "en": "the fins being formed in the barrel by deformation of the projectile body",
+      "count": 12,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B10/12": {
+      "code": "F42B10/12",
+      "level": 2,
+      "parent": "F42B10/02",
+      "ja": "発射体または飛しょう体の縦方向に滑動する翼を用いるもの［５］",
+      "en": "using fins longitudinally-slidable with respect to the projectile or missile",
+      "count": 118,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B10/14": {
+      "code": "F42B10/14",
+      "level": 2,
+      "parent": "F42B10/02",
+      "ja": "発射後に，例．砲身から離れた後で，広がりまたは開く翼を用いるもの［５］",
+      "en": "using fins spread or deployed after launch, e.g. after leaving the barrel",
+      "count": 1374,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B10/16": {
+      "code": "F42B10/16",
+      "level": 3,
+      "parent": "F42B10/14",
+      "ja": "巻き翼［５］",
+      "en": "Wrap-around fins",
+      "count": 308,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B10/18": {
+      "code": "F42B10/18",
+      "level": 3,
+      "parent": "F42B10/14",
+      "ja": "縦方向に滑動する支持部材を用いるもの［５］",
+      "en": "using a longitudinally slidable support member",
+      "count": 98,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B10/20": {
+      "code": "F42B10/20",
+      "level": 3,
+      "parent": "F42B10/14",
+      "ja": "燃焼ガス圧，または空気力もしくは水圧力によって開くもの［５］",
+      "en": "deployed by combustion gas pressure, or by pneumatic or hydraulic forces",
+      "count": 185,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B10/22": {
+      "code": "F42B10/22",
+      "level": 2,
+      "parent": "F42B10/02",
+      "ja": "溝付発射体［５］",
+      "en": "Projectiles of cannelured type",
+      "count": 129,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B10/24": {
+      "code": "F42B10/24",
+      "level": 3,
+      "parent": "F42B10/22",
+      "ja": "傾斜溝を有するもの［５］",
+      "en": "with inclined grooves",
+      "count": 76,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B10/26": {
+      "code": "F42B10/26",
+      "level": 2,
+      "parent": "F42B10/02",
+      "ja": "スピン式（Ｆ４２Ｂ１０／０４，Ｆ４２Ｂ１０／１２，Ｆ４２Ｂ１０／１４，Ｆ４２Ｂ１０／２４，Ｆ４２Ｂ１４／０２が優先）［５］",
+      "en": "using spin(<b>F42B10/04</b>, <b>F42B10/12</b>, <b>F42B10/14</b>, <b>F42B10/24</b>, <b>F42B14/02</b> take precedence)",
+      "count": 337,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B10/28": {
+      "code": "F42B10/28",
+      "level": 3,
+      "parent": "F42B10/26",
+      "ja": "ガス作用によって生起されるもの［５］",
+      "en": "induced by gas action",
+      "count": 50,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B10/30": {
+      "code": "F42B10/30",
+      "level": 4,
+      "parent": "F42B10/28",
+      "ja": "ロケット噴射ノズルを用いるもの［５］",
+      "en": "using rocket motor nozzles",
+      "count": 232,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B10/32": {
+      "code": "F42B10/32",
+      "level": 1,
+      "parent": "F42B10/00",
+      "ja": "射程短縮または射程延伸装置；降下減速手段［５］",
+      "en": "Range-reducing or range-increasing arrangements; Fall-retarding means",
+      "count": 91,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B10/34": {
+      "code": "F42B10/34",
+      "level": 2,
+      "parent": "F42B10/32",
+      "ja": "管状発射体［５］",
+      "en": "Tubular projectiles",
+      "count": 187,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B10/36": {
+      "code": "F42B10/36",
+      "level": 3,
+      "parent": "F42B10/34",
+      "ja": "環状薄片発射体［５］",
+      "en": "Ring-foil projectiles",
+      "count": 37,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B10/38": {
+      "code": "F42B10/38",
+      "level": 2,
+      "parent": "F42B10/32",
+      "ja": "射程延伸装置（Ｆ４２Ｂ１０／３４が優先）［５］",
+      "en": "Range-increasing arrangements(<b>F42B10/34</b> takes precedence)",
+      "count": 395,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B10/40": {
+      "code": "F42B10/40",
+      "level": 3,
+      "parent": "F42B10/38",
+      "ja": "低燃焼装薬の燃焼によるもの，例．発煙体，ベースブリード弾［５］",
+      "en": "with combustion of a slow-burning charge, e.g. fumers, base-bleed projectiles",
+      "count": 129,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B10/42": {
+      "code": "F42B10/42",
+      "level": 3,
+      "parent": "F42B10/38",
+      "ja": "流線形発射体［５］",
+      "en": "Streamlined projectiles",
+      "count": 162,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B10/44": {
+      "code": "F42B10/44",
+      "level": 4,
+      "parent": "F42B10/42",
+      "ja": "抗力低減に特に適合した船尾形弾尾［５］",
+      "en": "Boat-tails specially adapted for drag reduction",
+      "count": 122,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B10/46": {
+      "code": "F42B10/46",
+      "level": 4,
+      "parent": "F42B10/42",
+      "ja": "流線形弾頭；仮帽；レドーム［５］",
+      "en": "Streamlined nose cones; Windshields; Radomes",
+      "count": 440,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B10/48": {
+      "code": "F42B10/48",
+      "level": 2,
+      "parent": "F42B10/32",
+      "ja": "射程短縮，動揺または制動装置；降下減速手段（Ｆ４２Ｂ１０／３４が優先）［５］",
+      "en": "Range-reducing, destabilising or braking arrangements; Fall-retarding means (<b>F42B10/34</b> takes precedence)",
+      "count": 426,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B10/50": {
+      "code": "F42B10/50",
+      "level": 3,
+      "parent": "F42B10/48",
+      "ja": "制動フラップ［５］",
+      "en": "Brake flaps",
+      "count": 204,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B10/52": {
+      "code": "F42B10/52",
+      "level": 3,
+      "parent": "F42B10/48",
+      "ja": "円錐頭部［５］",
+      "en": "Nose cones",
+      "count": 57,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B10/54": {
+      "code": "F42B10/54",
+      "level": 3,
+      "parent": "F42B10/48",
+      "ja": "スピン制動手段［５］",
+      "en": "Spin braking means",
+      "count": 93,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B10/56": {
+      "code": "F42B10/56",
+      "level": 3,
+      "parent": "F42B10/48",
+      "ja": "落下傘形の［５］",
+      "en": "of parachute type",
+      "count": 625,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B10/58": {
+      "code": "F42B10/58",
+      "level": 3,
+      "parent": "F42B10/48",
+      "ja": "風車落下傘型の［５］",
+      "en": "of rotochute type",
+      "count": 76,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B10/60": {
+      "code": "F42B10/60",
+      "level": 1,
+      "parent": "F42B10/00",
+      "ja": "操舵装置（Ｆ４２Ｂ１９／０１が優先）［５］",
+      "en": "Steering arrangements(<b>F42B19/01</b> takes precedence)",
+      "count": 332,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B10/62": {
+      "code": "F42B10/62",
+      "level": 2,
+      "parent": "F42B10/60",
+      "ja": "飛行面の動きによる操舵［５］",
+      "en": "Steering by movement of flight surfaces",
+      "count": 281,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B10/64": {
+      "code": "F42B10/64",
+      "level": 3,
+      "parent": "F42B10/62",
+      "ja": "翼の［５］",
+      "en": "of fins",
+      "count": 1016,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B10/66": {
+      "code": "F42B10/66",
+      "level": 2,
+      "parent": "F42B10/60",
+      "ja": "推力の強さまたは方向の変化による操舵（ロケットエンジン装置の推力ベクトル制御Ｆ０２Ｋ９／８０）［５］",
+      "en": "Steering by varying intensity or direction of thrust(thrust vector control of rocket engine plants <b>F02K9/80</b>)",
+      "count": 519,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B12/00": {
+      "code": "F42B12/00",
+      "level": 0,
+      "parent": "F42B",
+      "ja": "弾頭，所期効果，または材料に特徴のある発射体，飛しょう体または地雷，機雷（Ｆ４２Ｂ６／００，Ｆ４２Ｂ１０／００，Ｆ４２Ｂ１４／００が優先；演習または訓練用Ｆ４２Ｂ８／１２，Ｆ４２Ｂ８／２８；噴進または誘導事項Ｆ４２Ｂ１５／００）［５］",
+      "en": "Projectiles, missiles or mines characterised by the warhead, the intended effect, or the material(<b>F42B6/00</b>, <b>F42B10/00</b>, <b>F42B14/00</b> take precedence; for practice or training <b>F42B8/12</b>, <b>F42B8/28</b>; self-propulsion or guidance aspects <b>F42B15/00</b>)",
+      "count": 738,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B12/02": {
+      "code": "F42B12/02",
+      "level": 1,
+      "parent": "F42B12/00",
+      "ja": "弾頭または所期効果に特徴のあるもの［５］",
+      "en": "characterised by the warhead or the intended effect",
+      "count": 914,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B12/04": {
+      "code": "F42B12/04",
+      "level": 2,
+      "parent": "F42B12/02",
+      "ja": "徹甲弾［５］",
+      "en": "of armour-piercing type",
+      "count": 375,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B12/06": {
+      "code": "F42B12/06",
+      "level": 3,
+      "parent": "F42B12/04",
+      "ja": "固いまたは重い弾心のあるもの；運動エネルギペネトレータ（Ｆ４２Ｂ１２／１６，Ｆ４２Ｂ１２／７４が優先）［５］",
+      "en": "with hard or heavy core; Kinetic energy penetrators(<b>F42B12/16</b>, <b>F42B12/74</b> take precedence)",
+      "count": 749,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B12/08": {
+      "code": "F42B12/08",
+      "level": 3,
+      "parent": "F42B12/04",
+      "ja": "徹甲被帽付き；装甲被付き［５］",
+      "en": "with armour-piercing caps; with armoured cupola",
+      "count": 144,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B12/10": {
+      "code": "F42B12/10",
+      "level": 3,
+      "parent": "F42B12/04",
+      "ja": "成形または中空装薬（成形または中空装薬それ自体Ｆ４２Ｂ１／０２）［５］",
+      "en": "with shaped or hollow charge(shaped or hollow charges <u>per se</u><b>F42B1/02</b>)",
+      "count": 607,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B12/12": {
+      "code": "F42B12/12",
+      "level": 4,
+      "parent": "F42B12/10",
+      "ja": "飛しょう体外筒に回転自在に装着されるもの［５］",
+      "en": "rotatably mounted with respect to missile housing",
+      "count": 127,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B12/14": {
+      "code": "F42B12/14",
+      "level": 4,
+      "parent": "F42B12/10",
+      "ja": "発射体の縦方向軸と角度を有する中空装薬［５］",
+      "en": "the symmetry axis of the hollow charge forming an angle with the longitudinal axis of the projectile",
+      "count": 121,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B12/16": {
+      "code": "F42B12/16",
+      "level": 4,
+      "parent": "F42B12/10",
+      "ja": "標的に連続して作用する特別な発射体または装薬との結合［５］",
+      "en": "in combination with an additional projectile or charge, acting successively on the target",
+      "count": 244,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B12/18": {
+      "code": "F42B12/18",
+      "level": 5,
+      "parent": "F42B12/16",
+      "ja": "縦方向に配列した中空装薬［５］",
+      "en": "Hollow charges in tandem arrangement",
+      "count": 213,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B12/20": {
+      "code": "F42B12/20",
+      "level": 2,
+      "parent": "F42B12/02",
+      "ja": "榴弾形（Ｆ４２Ｂ１２／４４が優先）［５］",
+      "en": "of high-explosive type(<b>F42B12/44</b> takes precedence)",
+      "count": 1125,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B12/22": {
+      "code": "F42B12/22",
+      "level": 3,
+      "parent": "F42B12/20",
+      "ja": "弾殻が破砕する構造のもの［５］",
+      "en": "with fragmentation-hull construction",
+      "count": 546,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B12/24": {
+      "code": "F42B12/24",
+      "level": 4,
+      "parent": "F42B12/22",
+      "ja": "溝，空隙またはその他，弾殻を弱くしたもの［５］",
+      "en": "with grooves, recesses or other wall weakenings",
+      "count": 277,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B12/26": {
+      "code": "F42B12/26",
+      "level": 4,
+      "parent": "F42B12/22",
+      "ja": "うず巻状のきずを有する部材により形成されたも弾殻［５］",
+      "en": "the projectile wall being formed by a spirally-wound element",
+      "count": 61,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B12/28": {
+      "code": "F42B12/28",
+      "level": 4,
+      "parent": "F42B12/22",
+      "ja": "環状部材から組み立てられた弾殻［５］",
+      "en": "the projectile wall being built from annular elements",
+      "count": 67,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B12/30": {
+      "code": "F42B12/30",
+      "level": 4,
+      "parent": "F42B12/22",
+      "ja": "連続ロッド弾頭［５］",
+      "en": "Continuous-rod warheads",
+      "count": 43,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B12/32": {
+      "code": "F42B12/32",
+      "level": 4,
+      "parent": "F42B12/22",
+      "ja": "不連続体，例．弾子を内蔵した弾体［５］",
+      "en": "the hull or case comprising a plurality of discrete bodies, e.g. steel balls, embedded therein",
+      "count": 705,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B12/34": {
+      "code": "F42B12/34",
+      "level": 2,
+      "parent": "F42B12/02",
+      "ja": "弾着前または弾着時に膨脹するもの，すなわちダムダムまたはマッシュルーム形［５］",
+      "en": "expanding before or on impact, i.e. of dumdum or mushroom type",
+      "count": 724,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B12/36": {
+      "code": "F42B12/36",
+      "level": 2,
+      "parent": "F42B12/02",
+      "ja": "散布用；化学的または物理的反応物生成用；信号用［５］",
+      "en": "for dispensing materials; for producing chemical or physical reaction; for signalling",
+      "count": 1316,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B12/38": {
+      "code": "F42B12/38",
+      "level": 3,
+      "parent": "F42B12/36",
+      "ja": "曳光用［５］",
+      "en": "of tracer type",
+      "count": 556,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B12/40": {
+      "code": "F42B12/40",
+      "level": 3,
+      "parent": "F42B12/36",
+      "ja": "標的指示形，すなわち弾着指示形（Ｆ４２Ｂ１２／４８が優先）［５］",
+      "en": "of target-marking, i.e. impact-indicating, type(<b>F42B12/48</b> takes precedence)",
+      "count": 526,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B12/42": {
+      "code": "F42B12/42",
+      "level": 3,
+      "parent": "F42B12/36",
+      "ja": "照明形，例．照明弾［５］",
+      "en": "of illuminating type, e.g. carrying flares",
+      "count": 377,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B12/44": {
+      "code": "F42B12/44",
+      "level": 3,
+      "parent": "F42B12/36",
+      "ja": "焼夷形（Ｆ４２Ｂ１２／４６が優先）［５］",
+      "en": "of incendiary type(<b>F42B12/46</b> takes precedence)",
+      "count": 576,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B12/46": {
+      "code": "F42B12/46",
+      "level": 3,
+      "parent": "F42B12/36",
+      "ja": "ガス，蒸気，粉末または化学的反応性物質の散布用（Ｆ４２Ｂ１２／７０が優先）［５］",
+      "en": "for dispensing gases, vapours, powders or chemically-reactive substances(<b>F42B12/70</b> takes precedence)",
+      "count": 1074,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B12/48": {
+      "code": "F42B12/48",
+      "level": 4,
+      "parent": "F42B12/46",
+      "ja": "発煙［５］",
+      "en": "smoke-producing",
+      "count": 588,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B12/50": {
+      "code": "F42B12/50",
+      "level": 4,
+      "parent": "F42B12/46",
+      "ja": "散布によるもの［５］",
+      "en": "by dispersion",
+      "count": 558,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B12/52": {
+      "code": "F42B12/52",
+      "level": 5,
+      "parent": "F42B12/50",
+      "ja": "気体爆発装置［５］",
+      "en": "Fuel-air explosive devices",
+      "count": 130,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B12/54": {
+      "code": "F42B12/54",
+      "level": 4,
+      "parent": "F42B12/46",
+      "ja": "皮下注入をするもの，例．皮下注射弾［５］",
+      "en": "by implantation, e.g. hypodermic projectiles",
+      "count": 201,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B12/56": {
+      "code": "F42B12/56",
+      "level": 3,
+      "parent": "F42B12/36",
+      "ja": "ばらばらの固体の散布用（Ｆ４２Ｂ１２／７０が優先）［５］",
+      "en": "for dispensing discrete solid bodies(<b>F42B12/70</b> takes precedence)",
+      "count": 244,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B12/58": {
+      "code": "F42B12/58",
+      "level": 4,
+      "parent": "F42B12/56",
+      "ja": "クラスターまたはカーゴ弾，すなわち複数の子弾を内蔵している発射体（Ｆ４２Ｂ１２／３２が優先）［５］",
+      "en": "Cluster or cargo ammunition, i.e. projectiles containing one or more submissiles(<b>F42B12/32</b> takes precedence)",
+      "count": 814,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B12/60": {
+      "code": "F42B12/60",
+      "level": 5,
+      "parent": "F42B12/58",
+      "ja": "放射状に放出される子弾［５］",
+      "en": "the submissiles being ejected radially",
+      "count": 275,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B12/62": {
+      "code": "F42B12/62",
+      "level": 5,
+      "parent": "F42B12/58",
+      "ja": "投射体の縦方向軸に平行に放出される子弾［５］",
+      "en": "the submissiles being ejected parallel to the longitudinal axis of the projectile",
+      "count": 450,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B12/64": {
+      "code": "F42B12/64",
+      "level": 6,
+      "parent": "F42B12/62",
+      "ja": "弾子または矢弾形の子弾［５］",
+      "en": "the submissiles being of shot- or flechette-type",
+      "count": 178,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B12/66": {
+      "code": "F42B12/66",
+      "level": 5,
+      "parent": "F42B12/58",
+      "ja": "鎖弾，すなわち鎖または同様のものでつながれている子弾［５］",
+      "en": "Chain-shot, i.e. the submissiles being interconnected by chains or the like",
+      "count": 299,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B12/68": {
+      "code": "F42B12/68",
+      "level": 4,
+      "parent": "F42B12/56",
+      "ja": "投網弾，例．救命用（もりＦ４２Ｂ３０／０４）［５］",
+      "en": "Line-carrying missiles, e.g. for life-saving(harpoons <b>F42B30/14</b>)",
+      "count": 565,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B12/70": {
+      "code": "F42B12/70",
+      "level": 4,
+      "parent": "F42B12/56",
+      "ja": "レーダーチャッフまたは赤外線物質の散布用（レーダー反射標的，赤外線放射アクティブ標的Ｆ４１Ｊ２／００；レーダー反射面Ｈ０１Ｑ１５／１４）［５］",
+      "en": "for dispensing radar chaff or infrared material(radar-reflector targets, active targets transmitting infrared radiation <b>F41J2/00</b>; radar-reflecting surfaces <b>H01Q15/14</b>)",
+      "count": 442,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B12/72": {
+      "code": "F42B12/72",
+      "level": 1,
+      "parent": "F42B12/00",
+      "ja": "材料に特徴のあるもの（砲弾の熱処理Ｃ２１Ｄ９／１６）［５］",
+      "en": "characterised by the material(heat treatment for explosive shells <b>C21D9/16</b>)",
+      "count": 443,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B12/74": {
+      "code": "F42B12/74",
+      "level": 2,
+      "parent": "F42B12/72",
+      "ja": "弾芯または固形部［５］",
+      "en": "of the core or solid body",
+      "count": 914,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B12/76": {
+      "code": "F42B12/76",
+      "level": 2,
+      "parent": "F42B12/72",
+      "ja": "弾体［５］",
+      "en": "of the casing",
+      "count": 565,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B12/78": {
+      "code": "F42B12/78",
+      "level": 3,
+      "parent": "F42B12/76",
+      "ja": "小火器用弾被［５］",
+      "en": "of jackets for smallarm bullets",
+      "count": 361,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B12/80": {
+      "code": "F42B12/80",
+      "level": 3,
+      "parent": "F42B12/76",
+      "ja": "被覆［５］",
+      "en": "Coatings",
+      "count": 163,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B12/82": {
+      "code": "F42B12/82",
+      "level": 4,
+      "parent": "F42B12/80",
+      "ja": "摩擦の減少［５］",
+      "en": "reduction friction",
+      "count": 51,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B14/00": {
+      "code": "F42B14/00",
+      "level": 0,
+      "parent": "F42B",
+      "ja": "砲身内への導入または封入，または砲身の潤滑もしくは清掃に特徴のある発射体または飛しょう体［５］",
+      "en": "Projectiles or missiles characterised by arrangements for guiding or sealing them inside barrels, or for lubricating or cleaning barrels",
+      "count": 246,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B14/02": {
+      "code": "F42B14/02",
+      "level": 1,
+      "parent": "F42B14/00",
+      "ja": "導帯；旋転帯（Ｆ４２Ｂ１４／０４が優先）［５］",
+      "en": "Driving bands; Rotating bands(<b>F42B14/04</b> takes precedence)",
+      "count": 640,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B14/04": {
+      "code": "F42B14/04",
+      "level": 1,
+      "parent": "F42B14/00",
+      "ja": "飛しょう体の潤滑手段（摩擦減少のための被覆Ｆ４２Ｂ１２／８２）［５］",
+      "en": "Lubrication means in missiles(coatings for reducing friction <b>F42B12/82</b>)",
+      "count": 141,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B14/06": {
+      "code": "F42B14/06",
+      "level": 1,
+      "parent": "F42B14/00",
+      "ja": "装弾筒をもつ減口径発射体；そのための装弾筒［５］",
+      "en": "Sub-calibre projectiles having sabots; Sabots therefor",
+      "count": 1060,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B14/08": {
+      "code": "F42B14/08",
+      "level": 2,
+      "parent": "F42B14/06",
+      "ja": "推進薬を充填した装弾筒；火工品の燃焼または推進ガスによる装弾筒の分離（発射体から装弾筒を分離するための砲身上の装置Ｆ４１Ａ２１／４６）［５］",
+      "en": "Sabots filled with propulsive charges; Removing sabots by combustion of pyrotechnic elements or by propulsive-gas pressure(arrangements on barrels for removing sabots from projectiles <b>F41A21/46</b>)",
+      "count": 74,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B15/00": {
+      "code": "F42B15/00",
+      "level": 0,
+      "parent": "F42B",
+      "ja": "噴進弾または飛しょう体，例．ロケット；誘導飛しょう体（Ｆ４２Ｂ１０／００，Ｆ４２Ｂ１２／００，Ｆ４２Ｂ１４／００が優先；演習または訓練用Ｆ４２Ｂ８／１２；ロケット魚雷Ｆ４２Ｂ１７／００；魚雷Ｆ４２Ｂ１９／００；宇宙航行体Ｂ６４Ｇ；噴射推進装置Ｆ０２Ｋ）［４］",
+      "en": "Self-propelled projectiles or missiles, e.g. rockets; Guided missiles(<b>F42B10/00</b>, <b>F42B12/00</b>, <b>F42B14/00</b> take precedence; for practice or training <b>F42B8/12</b>; rocket torpedoes <b>F42B17/00</b>; marine torpedoes <b>F42B19/00</b>; cosmonautic vehicles <b>B64G</b>; jet-propulsion plants <b>F02K</b>)",
+      "count": 4110,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B15/01": {
+      "code": "F42B15/01",
+      "level": 1,
+      "parent": "F42B15/00",
+      "ja": "誘導または制御用搭載装置（航空機飛行制御Ｂ６４Ｃ；機内にのみ装備されるもの以外の誘導方式Ｆ４１Ｇ９／００；無線または他の波を用いる位置測定Ｇ０１Ｓ；飛行制御一般Ｇ０５Ｄ１／００；計算に関する事項Ｇ０６）［５］",
+      "en": "Arrangements thereon for guidance or control(aircraft flight control <b>B64C</b>; guidance systems other than those only installed aboard <b>F41G7/00</b>, <b>F41G9/00</b>; locating by use of radio or other waves <b>G01S</b>; flight control in general <b>G05D1/00</b>; computing aspects <b>G06</b>)",
+      "count": 3946,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B15/04": {
+      "code": "F42B15/04",
+      "level": 2,
+      "parent": "F42B15/01",
+      "ja": "有線用，例．地対地ロケットの誘導用",
+      "en": "using wire, e.g. for guiding ground-to-ground rockets",
+      "count": 229,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B15/08": {
+      "code": "F42B15/08",
+      "level": 1,
+      "parent": "F42B15/00",
+      "ja": "計測器を携えるもの（気象観測に適合するものＧ０１Ｗ１／０８）",
+      "en": "for carrying measuring instruments(adaptations for meteorology <b>G01W1/08</b>)",
+      "count": 241,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B15/10": {
+      "code": "F42B15/10",
+      "level": 1,
+      "parent": "F42B15/00",
+      "ja": "空中弾道のみをもつミサイル",
+      "en": "Missiles having a trajectory only in the air",
+      "count": 444,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B15/12": {
+      "code": "F42B15/12",
+      "level": 2,
+      "parent": "F42B15/10",
+      "ja": "大陸間弾道ミサイル（Ｆ４２Ｂ１５／０１が優先）［４］",
+      "en": "Intercontinental ballistic missiles(<b>F42B15/01</b> takes precedence)",
+      "count": 35,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B15/20": {
+      "code": "F42B15/20",
+      "level": 1,
+      "parent": "F42B15/00",
+      "ja": "弾道の初めが水面下のミサイル（水中運動に対する推進機構を増備するものＦ４２Ｂ１７／００）",
+      "en": "Missiles having a trajectory beginning below water surface(having additional propulsion means for movement through water <b>F42B17/00</b>)",
+      "count": 109,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B15/22": {
+      "code": "F42B15/22",
+      "level": 1,
+      "parent": "F42B15/00",
+      "ja": "弾道の終末が水面下のミサイル（水中運動に対する推進機構を増備するものＦ４２Ｂ１７／００）",
+      "en": "Missiles having a trajectory finishing below water surface(having additional propulsion means for movement through water <b>F42B17/00</b>)",
+      "count": 102,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B15/34": {
+      "code": "F42B15/34",
+      "level": 1,
+      "parent": "F42B15/00",
+      "ja": "過熱または放射線に対する保護，例．熱遮蔽；特別の冷却装置［５］",
+      "en": "Protection against overheating or radiation, e.g. heat shields; Additional cooling arrangements",
+      "count": 484,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B15/36": {
+      "code": "F42B15/36",
+      "level": 1,
+      "parent": "F42B15/00",
+      "ja": "ロケット原動機と本体部分との相互連結手段；多段階連結器；分離手段［５］",
+      "en": "Means for interconnecting rocket-motor and body section; Multi-stage connectors; Disconnecting means",
+      "count": 1390,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B15/38": {
+      "code": "F42B15/38",
+      "level": 2,
+      "parent": "F42B15/36",
+      "ja": "ロケット部品分離用環状爆発性部材［５］",
+      "en": "Ring-shaped explosive elements for the separation of rocket parts",
+      "count": 172,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B17/00": {
+      "code": "F42B17/00",
+      "level": 0,
+      "parent": "F42B",
+      "ja": "ロケット魚雷，すなわち空中および水中運動用各推進機構をもつ飛しょう体（Ｆ４２Ｂ１２／００が優先）［２００６．０１］",
+      "en": "Rocket torpedoes, i.e. missiles provided with separate propulsion means for movement through air and through water(<b>F42B12/00</b> takes precedence)",
+      "count": 197,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B19/00": {
+      "code": "F42B19/00",
+      "level": 0,
+      "parent": "F42B",
+      "ja": "魚雷，例．水上艦船または潜水艦により射出されるもの（空中運動用推進機構を増備したものＦ４２Ｂ１７／００）；自走機構をもつ機雷（Ｆ４２Ｂ１２／００が優先；射出の機構Ｆ４１Ｆ；無線または他の波を用いる位置測定Ｇ０１Ｓ；コースの自動制御Ｇ０５Ｄ１／００；発射指揮装置または計算装置Ｇ０６Ｇ）",
+      "en": "Marine torpedoes, e.g. launched by surface vessels or submarines(having additional propulsion means for movement through air <b>F42B17/00</b>);Sea mines having self-propulsion means(<b>F42B12/00</b> takes precedence; launching means <b>F41F</b>; locating by use of radio or other waves <b>G01S</b>; automatic control of course <b>G05D1/00</b>; firing directors or calculators <b>G06G</b>)",
+      "count": 550,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B19/01": {
+      "code": "F42B19/01",
+      "level": 1,
+      "parent": "F42B19/00",
+      "ja": "操舵制御",
+      "en": "Steering control",
+      "count": 335,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B19/04": {
+      "code": "F42B19/04",
+      "level": 2,
+      "parent": "F42B19/01",
+      "ja": "深度制御",
+      "en": "Depth control",
+      "count": 89,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B19/06": {
+      "code": "F42B19/06",
+      "level": 2,
+      "parent": "F42B19/01",
+      "ja": "方向制御",
+      "en": "Directional control",
+      "count": 96,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B19/08": {
+      "code": "F42B19/08",
+      "level": 2,
+      "parent": "F42B19/01",
+      "ja": "横動揺または縦動揺を防止する機構をもつもの",
+      "en": "with means for preventing rolling or pitching",
+      "count": 37,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B19/10": {
+      "code": "F42B19/10",
+      "level": 2,
+      "parent": "F42B19/01",
+      "ja": "遠隔制御，例．音響または無線により制御（有線制御方式Ｆ４１Ｇ７／３２）",
+      "en": "remotely controlled, e.g. by sonic or radio control(control systems using wire <b>F41G7/32</b>)",
+      "count": 325,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B19/12": {
+      "code": "F42B19/12",
+      "level": 1,
+      "parent": "F42B19/00",
+      "ja": "魚雷用に特別に適合した推進（水中推進一般Ｂ６３Ｈ）",
+      "en": "Propulsion specially adapted for torpedoes(marine propulsion in general <b>B63H</b>)",
+      "count": 359,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B19/14": {
+      "code": "F42B19/14",
+      "level": 2,
+      "parent": "F42B19/12",
+      "ja": "圧搾ガス原動機によるもの",
+      "en": "by compressed-gas motors",
+      "count": 35,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B19/16": {
+      "code": "F42B19/16",
+      "level": 3,
+      "parent": "F42B19/14",
+      "ja": "シリンダ形のもの",
+      "en": "of cylinder type",
+      "count": 19,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B19/18": {
+      "code": "F42B19/18",
+      "level": 3,
+      "parent": "F42B19/14",
+      "ja": "タービン形のもの",
+      "en": "of turbine type",
+      "count": 68,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B19/20": {
+      "code": "F42B19/20",
+      "level": 3,
+      "parent": "F42B19/14",
+      "ja": "推進用ガスの成分に特徴のあるもの，魚雷内でのその製造または加熱",
+      "en": "characterised by the composition of propulsive gas; Manufacture or heating thereof in torpedoes",
+      "count": 179,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B19/22": {
+      "code": "F42B19/22",
+      "level": 2,
+      "parent": "F42B19/12",
+      "ja": "内燃機関によるもの",
+      "en": "by internal-combustion engines",
+      "count": 56,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B19/24": {
+      "code": "F42B19/24",
+      "level": 2,
+      "parent": "F42B19/12",
+      "ja": "電動機によるもの",
+      "en": "by electric motors",
+      "count": 84,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B19/26": {
+      "code": "F42B19/26",
+      "level": 2,
+      "parent": "F42B19/12",
+      "ja": "噴射推進によるもの",
+      "en": "by jet propulsion",
+      "count": 120,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B19/28": {
+      "code": "F42B19/28",
+      "level": 2,
+      "parent": "F42B19/12",
+      "ja": "航跡を見えなくする手段をもつもの",
+      "en": "with means for avoiding visible wake",
+      "count": 19,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B19/30": {
+      "code": "F42B19/30",
+      "level": 2,
+      "parent": "F42B19/12",
+      "ja": "推進時間の制御をするもの",
+      "en": "with timing control of propulsion",
+      "count": 16,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B19/36": {
+      "code": "F42B19/36",
+      "level": 1,
+      "parent": "F42B19/00",
+      "ja": "訓練の目的に用いられるもの，例．位置または航路を表示するもの",
+      "en": "adapted to be used for exercise purposes, e.g. indicating position or course",
+      "count": 70,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B19/38": {
+      "code": "F42B19/38",
+      "level": 2,
+      "parent": "F42B19/36",
+      "ja": "魚雷航走の終末において浮上する機構のあるもの",
+      "en": "with means for causing torpedoes to surface at end of run",
+      "count": 34,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B19/40": {
+      "code": "F42B19/40",
+      "level": 3,
+      "parent": "F42B19/38",
+      "ja": "液体バラストの排除によるもの",
+      "en": "by expelling liquid ballast",
+      "count": 29,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B19/42": {
+      "code": "F42B19/42",
+      "level": 3,
+      "parent": "F42B19/38",
+      "ja": "固体バラストの離脱によるもの",
+      "en": "by releasing solid ballast",
+      "count": 16,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B19/44": {
+      "code": "F42B19/44",
+      "level": 3,
+      "parent": "F42B19/38",
+      "ja": "排水量の増加によるもの",
+      "en": "by enlarging displacement",
+      "count": 13,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B19/46": {
+      "code": "F42B19/46",
+      "level": 1,
+      "parent": "F42B19/00",
+      "ja": "航空機からの射出用のもの",
+      "en": "adapted to be launched from aircraft",
+      "count": 91,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B21/00": {
+      "code": "F42B21/00",
+      "level": 0,
+      "parent": "F42B",
+      "ja": "爆雷（Ｆ４２Ｂ１２／００が優先；演習または訓練用Ｆ４２Ｂ８／２８；敷設に関する事項Ｂ６３Ｇ）",
+      "en": "Depth charges(<b>F42B12/00</b> takes precedence; for practice or training <b>F42B8/28</b>; laying aspects <b>B63G</b>)",
+      "count": 111,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B22/00": {
+      "code": "F42B22/00",
+      "level": 0,
+      "parent": "F42B",
+      "ja": "機雷，例．水上艦船または潜水艦により射出されるもの（Ｆ４２Ｂ１２／００が優先；演習または訓練用Ｆ４２Ｂ８／２８；敷設または掃海Ｂ６３Ｇ）",
+      "en": "Marine mines, e.g. launched by surface vessels or submarines(<b>F42B12/00</b> takes precedence; for practice or training <b>F42B8/28</b>; mine laying or sweeping <b>B63G</b>)",
+      "count": 179,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B22/02": {
+      "code": "F42B22/02",
+      "level": 1,
+      "parent": "F42B22/00",
+      "ja": "触発機雷（接触信管Ｆ４２Ｃ７／０２）",
+      "en": "Contact mines(contact fuzes <b>F42C7/02</b>)",
+      "count": 47,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B22/04": {
+      "code": "F42B22/04",
+      "level": 1,
+      "parent": "F42B22/00",
+      "ja": "感応機雷，例．磁気または音響の作用によるもの",
+      "en": "Influenced mines, e.g. by magnetic or acoustic effect",
+      "count": 168,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B22/06": {
+      "code": "F42B22/06",
+      "level": 1,
+      "parent": "F42B22/00",
+      "ja": "沈底機雷",
+      "en": "Ground mines",
+      "count": 68,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B22/08": {
+      "code": "F42B22/08",
+      "level": 1,
+      "parent": "F42B22/00",
+      "ja": "浮遊機雷（推進手段をもつものＦ４２Ｂ１９／００）",
+      "en": "Drifting mines(with propulsion means <b>F42B19/00</b>)",
+      "count": 88,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B22/10": {
+      "code": "F42B22/10",
+      "level": 1,
+      "parent": "F42B22/00",
+      "ja": "係維機雷",
+      "en": "Moored mines",
+      "count": 233,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B22/12": {
+      "code": "F42B22/12",
+      "level": 2,
+      "parent": "F42B22/10",
+      "ja": "定深度敷設",
+      "en": "at a fixed depth setting",
+      "count": 33,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B22/14": {
+      "code": "F42B22/14",
+      "level": 2,
+      "parent": "F42B22/10",
+      "ja": "深度に変化をつけた敷設",
+      "en": "at a variable depth setting",
+      "count": 10,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B22/16": {
+      "code": "F42B22/16",
+      "level": 3,
+      "parent": "F42B22/14",
+      "ja": "機械装置，例．鉛錘および浮具，を用いるもの",
+      "en": "using mechanical means, e.g. plummet and float",
+      "count": 55,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B22/18": {
+      "code": "F42B22/18",
+      "level": 3,
+      "parent": "F42B22/14",
+      "ja": "静水力学的装置を用いるもの",
+      "en": "using hydrostatic means",
+      "count": 43,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B22/20": {
+      "code": "F42B22/20",
+      "level": 3,
+      "parent": "F42B22/14",
+      "ja": "磁気または音響による深度制御機構を用いるもの",
+      "en": "using magnetic or acoustic depth-control means",
+      "count": 12,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B22/22": {
+      "code": "F42B22/22",
+      "level": 1,
+      "parent": "F42B22/00",
+      "ja": "自沈降機構のあるもの",
+      "en": "having self-contained sinking means",
+      "count": 31,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B22/24": {
+      "code": "F42B22/24",
+      "level": 1,
+      "parent": "F42B22/00",
+      "ja": "敷設原または防堰（えん）における機雷の配置（港湾防御用防堰網Ｆ４１Ｈ１１／０５）",
+      "en": "Arrangement of mines in fields or barriers(net barriers for harbour defence <b>F41H11/05</b>)",
+      "count": 66,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B22/42": {
+      "code": "F42B22/42",
+      "level": 1,
+      "parent": "F42B22/00",
+      "ja": "妨掃機構，例．電気的機構，をもつもの",
+      "en": "with anti-sweeping means, e.g. electrical",
+      "count": 45,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B22/44": {
+      "code": "F42B22/44",
+      "level": 1,
+      "parent": "F42B22/00",
+      "ja": "航空機から射出されるもの",
+      "en": "adapted to be launched from aircraft",
+      "count": 23,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B23/00": {
+      "code": "F42B23/00",
+      "level": 0,
+      "parent": "F42B",
+      "ja": "地雷（Ｆ４２Ｂ１２／００が優先；演習または訓練用Ｆ４２Ｂ８／２８）",
+      "en": "Land mines(<b>F42B12/00</b> takes precedence; for practice or training <b>F42B8/28</b>)",
+      "count": 335,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B23/04": {
+      "code": "F42B23/04",
+      "level": 1,
+      "parent": "F42B23/00",
+      "ja": "対車両用［５］",
+      "en": "anti-vehicle",
+      "count": 186,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B23/08": {
+      "code": "F42B23/08",
+      "level": 2,
+      "parent": "F42B23/04",
+      "ja": "非金属製［５］",
+      "en": "non-metallic",
+      "count": 25,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B23/10": {
+      "code": "F42B23/10",
+      "level": 1,
+      "parent": "F42B23/00",
+      "ja": "対人用［５］",
+      "en": "anti-personnel",
+      "count": 78,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B23/14": {
+      "code": "F42B23/14",
+      "level": 2,
+      "parent": "F42B23/10",
+      "ja": "非金属性［５］",
+      "en": "non-metallic",
+      "count": 25,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B23/16": {
+      "code": "F42B23/16",
+      "level": 2,
+      "parent": "F42B23/10",
+      "ja": "飛しょう体形，すなわち地中から射出し爆発するもの（放出型地雷起爆用信管Ｆ４２Ｃ１／０９）［５］",
+      "en": "of missile type, i.e. for detonation after ejection from ground(fuzes for initiating mine ejection <b>F42C1/09</b>)",
+      "count": 151,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B23/24": {
+      "code": "F42B23/24",
+      "level": 1,
+      "parent": "F42B23/00",
+      "ja": "細部",
+      "en": "Details",
+      "count": 230,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B25/00": {
+      "code": "F42B25/00",
+      "level": 0,
+      "parent": "F42B",
+      "ja": "投下爆弾（Ｆ４２Ｂ１０／００，Ｆ４２Ｂ１２／００が優先；演習または訓練用Ｆ４２Ｂ８／１２）［５］",
+      "en": "Fall bombs(<b>F42B10/00</b>, <b>F42B12/00</b> take precedence; for practice or training <b>F42B8/12</b>)",
+      "count": 354,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B27/00": {
+      "code": "F42B27/00",
+      "level": 0,
+      "parent": "F42B",
+      "ja": "手榴弾（Ｆ４２Ｂ１２／００が優先；演習または訓練用Ｆ４２Ｂ８／１２）",
+      "en": "Hand grenades(<b>F42B12/00</b> takes precedence; for practice or training <b>F42B8/12</b>)",
+      "count": 595,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B27/08": {
+      "code": "F42B27/08",
+      "level": 1,
+      "parent": "F42B27/00",
+      "ja": "取っ手付き",
+      "en": "with handle",
+      "count": 150,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B29/00": {
+      "code": "F42B29/00",
+      "level": 0,
+      "parent": "F42B",
+      "ja": "内蔵する推進火薬にて射出される無音弾，無煙弾，または無閃光弾",
+      "en": "Noiseless, smokeless, or flashless missiles launched by their own explosive propellant",
+      "count": 62,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B30/00": {
+      "code": "F42B30/00",
+      "level": 0,
+      "parent": "F42B",
+      "ja": "弾薬の種別または形式，例．使用する発射装置または武器，に特徴のある他に分類されない発射体または飛しょう体（Ｆ４２Ｂ１０／００，Ｆ４２Ｂ１２／００，Ｆ４２Ｂ１４／００が優先）［５］",
+      "en": "Projectiles or missiles, not otherwise provided for, characterised by the ammunition class or type, e.g. by the launching apparatus or weapon used(<b>F42B10/00</b>, <b>F42B12/00</b>, <b>F42B14/00</b> take precedence)",
+      "count": 640,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B30/02": {
+      "code": "F42B30/02",
+      "level": 1,
+      "parent": "F42B30/00",
+      "ja": "小銃弾［５］",
+      "en": "Bullets",
+      "count": 923,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B30/04": {
+      "code": "F42B30/04",
+      "level": 1,
+      "parent": "F42B30/00",
+      "ja": "小銃てき弾［５］",
+      "en": "Rifle grenades",
+      "count": 413,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B30/06": {
+      "code": "F42B30/06",
+      "level": 2,
+      "parent": "F42B30/04",
+      "ja": "弾丸受けまたはそのための弾丸減速手段［５］",
+      "en": "Bullet traps or bullet decelerators therefor",
+      "count": 97,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B30/08": {
+      "code": "F42B30/08",
+      "level": 1,
+      "parent": "F42B30/00",
+      "ja": "砲用発射体または飛しょう体，例．砲弾［５］",
+      "en": "Ordnance projectiles or missiles, e.g. shells",
+      "count": 337,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B30/10": {
+      "code": "F42B30/10",
+      "level": 2,
+      "parent": "F42B30/08",
+      "ja": "迫撃砲弾［５］",
+      "en": "Mortar projectiles",
+      "count": 230,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B30/12": {
+      "code": "F42B30/12",
+      "level": 3,
+      "parent": "F42B30/10",
+      "ja": "付加推進薬または長さ変更用の設備があるもの［５］",
+      "en": "with provision for additional propulsive charges;  with provision for varying the length",
+      "count": 98,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B30/14": {
+      "code": "F42B30/14",
+      "level": 1,
+      "parent": "F42B30/00",
+      "ja": "銛（もり）（手持ちばね銃または空気銃用Ｆ４２Ｂ６／０２）［５］",
+      "en": "Harpoons(for hand-held spring or air guns <b>F42B6/02</b>)",
+      "count": 208,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B33/00": {
+      "code": "F42B33/00",
+      "level": 0,
+      "parent": "F42B",
+      "ja": "弾薬の製造；弾薬の解体；そのための装置（Ｆ４２Ｂ５／１８８が優先；中空装薬のための製造工程Ｆ４２Ｂ１／０３６；爆破薬包点火装置の製造Ｆ４２Ｂ３／１９５）",
+      "en": "Manufacture of ammunition; Dismantling of ammunition; Apparatus therefor(<b>F42B5/188</b> takes precedence; manufacturing processes for hollow charges <b>F42B1/036</b>; manufacturing of blasting cartridge initiators <b>F42B3/195</b>)",
+      "count": 2221,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B33/02": {
+      "code": "F42B33/02",
+      "level": 1,
+      "parent": "F42B33/00",
+      "ja": "薬包，砲弾または信管の組み立て；推進薬または爆薬の装填",
+      "en": "Filling cartridges, missiles, or fuzes; Inserting propellant or explosive charges",
+      "count": 1872,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B33/04": {
+      "code": "F42B33/04",
+      "level": 1,
+      "parent": "F42B33/00",
+      "ja": "信管または装薬の中へ，または中から，の火管の装着または取り外し",
+      "en": "Fitting or extracting primers in or from fuzes or charges",
+      "count": 332,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B33/06": {
+      "code": "F42B33/06",
+      "level": 1,
+      "parent": "F42B33/00",
+      "ja": "信管，薬包，発射体，飛しょう体，ロケットまたは爆弾の解体（Ｆ４２Ｂ３３／０４が優先）",
+      "en": "Dismantling fuzes, cartridges, projectiles, missiles, rockets, or bombs(<b>F42B33/04</b> takes precedence)",
+      "count": 1352,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B33/10": {
+      "code": "F42B33/10",
+      "level": 1,
+      "parent": "F42B33/00",
+      "ja": "使用した薬きょうの修理",
+      "en": "Reconditioning used cartridge cases",
+      "count": 229,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B33/12": {
+      "code": "F42B33/12",
+      "level": 1,
+      "parent": "F42B33/00",
+      "ja": "散弾銃薬包の口締め",
+      "en": "Crimping shotgun cartridges",
+      "count": 94,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B33/14": {
+      "code": "F42B33/14",
+      "level": 1,
+      "parent": "F42B33/00",
+      "ja": "薬包または薬きょうの表面処理",
+      "en": "Surface treatment of cartridges or cartridge cases",
+      "count": 167,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B35/00": {
+      "code": "F42B35/00",
+      "level": 0,
+      "parent": "F42B",
+      "ja": "弾薬の試験または検査",
+      "en": "Testing or checking of ammunition",
+      "count": 2247,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B35/02": {
+      "code": "F42B35/02",
+      "level": 1,
+      "parent": "F42B35/00",
+      "ja": "薬包または飛しょう体の寸法検査，仕分け，整とんまたは短縮",
+      "en": "Gauging, sorting, trimming or shortening cartridges or missiles",
+      "count": 772,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B39/00": {
+      "code": "F42B39/00",
+      "level": 0,
+      "parent": "F42B",
+      "ja": "弾薬または装薬の包装または貯蔵；その保安；弾帯または装薬のう",
+      "en": "Packaging or storage of ammunition or explosive charges; Safety features thereof; Cartridge belts; Cartridge bags",
+      "count": 1678,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B39/02": {
+      "code": "F42B39/02",
+      "level": 1,
+      "parent": "F42B39/00",
+      "ja": "装薬のう；弾薬帯",
+      "en": "Cartridge bags; Bandoleers",
+      "count": 680,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B39/08": {
+      "code": "F42B39/08",
+      "level": 1,
+      "parent": "F42B39/00",
+      "ja": "弾帯",
+      "en": "Cartridge belts",
+      "count": 516,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B39/10": {
+      "code": "F42B39/10",
+      "level": 2,
+      "parent": "F42B39/08",
+      "ja": "薬包を送弾帯に装填しまたは抜き取るための機械",
+      "en": "Machines for charging or for extracting cartridges from feed belts",
+      "count": 144,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B39/14": {
+      "code": "F42B39/14",
+      "level": 1,
+      "parent": "F42B39/00",
+      "ja": "包装または弾薬の爆発または発火保護装置（Ｆ４２Ｂ３９／２０が優先）［５］",
+      "en": "Explosion or fire protection arrangements on packages or ammunition(<b>F42B39/20</b> takes precedence)",
+      "count": 477,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B39/16": {
+      "code": "F42B39/16",
+      "level": 2,
+      "parent": "F42B39/14",
+      "ja": "消火［５］",
+      "en": "Fire-extinguishing",
+      "count": 34,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B39/18": {
+      "code": "F42B39/18",
+      "level": 2,
+      "parent": "F42B39/14",
+      "ja": "熱遮蔽；断熱［５］",
+      "en": "Heat shields; Thermal insulation",
+      "count": 56,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B39/20": {
+      "code": "F42B39/20",
+      "level": 1,
+      "parent": "F42B39/00",
+      "ja": "均圧弁を有する包装または弾薬；圧力解放栓を有する包装または弾薬，例．溶けるもの［５］",
+      "en": "Packages or ammunition having valves for pressure-equalising; Packages or ammunition having plugs for pressure release, e.g. meltable",
+      "count": 330,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B39/22": {
+      "code": "F42B39/22",
+      "level": 1,
+      "parent": "F42B39/00",
+      "ja": "移送容器内の弾薬の固定［５］",
+      "en": "Locking of ammunition in transport containers",
+      "count": 327,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B39/24": {
+      "code": "F42B39/24",
+      "level": 1,
+      "parent": "F42B39/00",
+      "ja": "包装の緩衝装置［５］",
+      "en": "Shock-absorbing arrangements in packages",
+      "count": 232,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B39/26": {
+      "code": "F42B39/26",
+      "level": 1,
+      "parent": "F42B39/00",
+      "ja": "多数の弾薬用包装または容器，例．薬包（Ｆ４２Ｂ３９／１４～Ｆ４２Ｂ３９／２４，Ｆ４２Ｂ３９／２８が優先）［５］",
+      "en": "Packages or containers for a plurality of ammunition, e.g. cartridges(<b>F42B39/14 to F42B39/24</b> , <b>F42B39/28</b> take precedence)",
+      "count": 814,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B39/28": {
+      "code": "F42B39/28",
+      "level": 1,
+      "parent": "F42B39/00",
+      "ja": "弾薬架，例．車両におけるもの［５］",
+      "en": "Ammunition racks, e.g. in vehicles",
+      "count": 188,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B39/30": {
+      "code": "F42B39/30",
+      "level": 1,
+      "parent": "F42B39/00",
+      "ja": "起爆筒または信管用容器（Ｆ４２Ｂ３９／１４，Ｆ４２Ｂ３９／２０が優先）［５］",
+      "en": "Containers for detonators or fuzes(<b>F42B39/14</b>, <b>F42B39/20</b> take precedence)",
+      "count": 250,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    },
+    "F42B99/00": {
+      "code": "F42B99/00",
+      "level": 0,
+      "parent": "F42B",
+      "ja": "このサブクラスの他のグループに分類されない主題事項［８］",
+      "en": "Subject matter not provided for in other groups of this subclass",
+      "count": 92,
+      "sourceFile": "ipc_F42B.txt",
+      "kind": "ipc"
+    }
+  }
+};

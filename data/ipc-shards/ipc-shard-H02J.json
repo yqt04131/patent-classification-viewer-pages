@@ -1,0 +1,1896 @@
+{
+  "generatedAt": "2026-03-20T02:17:47.254Z",
+  "total": 189,
+  "entries": {
+    "H02J": {
+      "code": "H02J",
+      "level": 0,
+      "parent": "H02",
+      "ja": "電力網；電力給電または電力配電のための回路装置または方式；電気エネルギーを蓄積するための方式<br><br><b><ul>注</ul></b><br>注<br>１．このサブクラスは以下のものを包含する：<br>・直流，交流または不特定の幹線または配電網；<br>・直流，交流または不特定の電力網の遠隔操作；<br>・負荷が回路装置に対して何らの特殊な制限効果をもたない時に電池を充電または放電するための回路装置；<br>・直流または交流の動力網と相互作用のある，他に分類されない長期エネルギー蓄積方式<br>・ワイヤレスで電力給電または電力配電を行うための回路装置または方式；<br>・スマートグリッドの運用の観点，すなわち，改良電力インフラストラクチャのための電力，通信および情報各技術の統合がエンドユースアプリケーションの進化を促しながら負荷に電力を供給すること。<br>２．このサブクラスは以下のものを包含しない：<br>・サブクラスＨ０１ＦまたはＨ０２Ｋに包含される型式の単一の電動機，発電機または回転変換機の制御，ただし，これはサブクラスＨ０２Ｐに包含される；<br>・サブクラスＨ０２Ｎに包含される型式の単一の電動機または発電機の制御，ただし，これはサブクラスＨ０２Ｎに包含される。<br>３．このサブクラスでは，グループＨ０２Ｊ１０１／００～Ｈ０２Ｊ１０７／００のインデキシングコードを付加することが望ましい。<br><br><b><ul>サブクラス内の索引</ul></b><br>サブクラス内の索引<br>回路装置<br>配電網のためのもの：<br>直流；交流　１／００；３／００<br>結合されるもの；特定されないもの　４／００<br>電池のためのもの　７／００<br>非常用または待機用の給電のためのもの　９／００<br>局の補助設備への電力供給のためのもの　１１／００<br>回路状態の遠隔指示のためのもの　１３／００<br>電気エネルギーを蓄積する方式　１５／００<br>ワイヤレスで電力給電または電力配電を行うための回路装置または方式　５０／００",
+      "en": "ELECTRIC POWER NETWORKS; CIRCUIT ARRANGEMENTS OR SYSTEMS FOR SUPPLYING OR DISTRIBUTING ELECTRIC POWER; SYSTEMS FOR STORING ELECTRIC ENERGY; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This subclass <u>covers</u>: <ul><li>AC, DC or unspecified mains or power distribution networks;</li><li>remote operation of AC, DC or unspecified power networks;</li><li>circuit arrangements for charging or discharging batteries when the load has no particular limiting effect on the circuit arrangement;</li><li>long-term energy storage systems not otherwise provided for, having an interaction with AC or DC power networks;</li><li>circuit arrangements or systems for wireless supply or distribution of electric power;</li><li>operational aspects of smart grids, namely the integration of power, communications and information technologies for an improved electric power infrastructure serving loads while providing for evolution of end-use applications.</li></ul></li><li>This subclass <u>does not cover</u>: <ul><li>the control of a single motor, generator or dynamo-electric converter of the types covered by subclasses <b>H01F</b> or <b>H02K</b>, which is covered by subclass <b>H02P</b>;</li><li>the control of a single motor or generator of the types covered by subclass <b>H02N</b>, which is covered by subclass <b>H02N</b>.</li></ul></li><li>In this subclass, it is desirable to add the indexing codes of groups <b>H02J101/00 to H02J107/00</b> .</li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">CIRCUIT ARRANGEMENTS<tr><td width=\"70%\">for distribution networks:<tr><td width=\"70%\">Direct current; alternative current</td><td><b><b>1/00</b>; <b>3/00</b></b></td></tr></tr><tr><td width=\"70%\">combined; not specified</td><td><b><b>4/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">for batteries</td><td><b><b>7/00</b></b></td></tr></tr><tr><td width=\"70%\">for emergency or stand-by power supply</td><td><b><b>9/00</b></b></td></tr></tr><tr><td width=\"70%\">for power supply to auxiliaries of stations</td><td><b><b>11/00</b></b></td></tr></tr><tr><td width=\"70%\">for providing remote indication of network conditions</td><td><b><b>13/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">SYSTEMS FOR STORING ELECTRIC ENERGY</td><td><b><b>15/00</b></b></td></tr></tr><tr><td width=\"70%\">CIRCUIT ARRANGEMENTS OR SYSTEMS FOR WIRELESS SUPPLY OR DISTRIBUTION OF ELECTRIC POWER</td><td><b><b>50/00</b></b></td></tr></tr></table>",
+      "count": 2051,
+      "sourceFile": "ipc_H.txt",
+      "kind": "ipc"
+    },
+    "H02": {
+      "code": "H02",
+      "level": 0,
+      "parent": "H",
+      "ja": "電力の発電，変換，配電",
+      "en": "GENERATION, CONVERSION, OR DISTRIBUTION OF ELECTRIC POWER",
+      "count": 0,
+      "sourceFile": "ipc_H.txt",
+      "kind": "ipc"
+    },
+    "H": {
+      "code": "H",
+      "level": 0,
+      "parent": null,
+      "ja": "電気<br><br><b><ul>注</ul></b><br>（利用にあたっての基本原則と一般的指示）<br>Ｉ．セクションＨは以下のものを包含する：<br>（ａ）基本的電気素子，これは全ての電気ユニットと，装置や回路の一般的な機械的構成を包含しており，その中にはプリント配線と称されるものに各種の基本素子を組み立てたものも含まれる。またこれは他に包含されない場合には，ある程度までこれらの素子の製造をも包含する；<br>（ｂ）発電，これは，発電，変換および配電と共にそのための装置の制御を包含する；<br>（ｃ）電気の応用，これは以下のものを包含する：<br>（ｉ）一般的な利用技術，すなわち．電気加熱と電気照明回路の利用技術；<br>（ｉｉ）厳密な意味で電気的か電子的かいずれかの特定の利用技術で国際特許分類の他のセクションに包含されないもの，これは以下のものを含んでいる：<br>（１）電気的光源，これはレーザーを含む；<br>（２）電気的なＸ線技術；<br>（３）電気的なプラズマ技術，および帯電粒子または中性子の発生および加速；<br>（ｄ）基本電子回路およびその制御；<br>（ｅ）電気通信技術；これは電気―機械変換器一般を含む；<br>（ｆ）物品や上記素子を作るための特定の材料の使用，この点については指針の８８項から９０項を参照されたい。<br>ＩＩ．このセクションにおいては，下記の一般規則が適用される：<br>（ａ）上記Ｉ（ｃ）で述べた例外を除いて，国際特許分類のセクションＨ以外のいずれかのセクションに分類される特殊な操作，方法，装置，物体または物品に特有の電気的観点または部分は，常にその操作，方法，装置，物体または物品のためのサブクラスに分類されるか，または類似の性質を有する技術主題に関する共通的な特徴がクラス・レベルで展開されている場合には，それは，該技術主題のための一般的電気的な応用を完全に包含するサブクラスに，その操作，方法，装置，物体または物品と関連して分類される；<br>（ｂ）この様な電気的な応用には，一般的なものであれ特殊なものであれ，次の事項が含まれる。<br>（ｉ）Ａ６１における治療方法および装置；<br>（ｉｉ）Ｂ０１，Ｂ０３およびＢ２３Ｋにおける各種の実験室または工業的操作に用いられる電気的方法および装置；<br>（ｉｉｉ）セクションＢの“運輸”のサブセクションにおける車両一般および特殊な車両への電気の供給，電気的推進および電気照明；<br>（ｉｖ）Ｆ０２Ｐにおける内燃機関の電気点火系，およびＦ２３Ｑにおける燃焼装置一般のもの；<br>（ｖ）セクションＧにおける全ての電気的部分，すなわち，電気変量の測定器を含む測定装置，検査，信号および計算。このＧセクションにおいて電気とは，一般に手段として扱われるものでそれ自体目的として扱われるものではない；<br>（ｃ）全ての電気的な応用は一般的なものであれ特殊なものであれ，それが含んでいる電気的“基本的素子”に関して言えば，“基本的な電気”の観点がセクションＨ（上記Ｉ（ａ）参照）にあることを前提としている。この規則は，セクションＨ自身にある上記Ｉ（ｃ）で示した電気の応用に対しても有効である。",
+      "en": "ELECTRICITY; <br><br><b><u>Note(s)</u></b><br><br><ul><li>These Notes cover the basic principles and general instructions for use of section <b>H</b>.<ul><li>Section <b>H</b> <u>covers</u>: <ul><li>basic electric elements, which cover all electric units and the general mechanical structure of apparatus and circuits, including the assembly of various basic elements into what are called printed circuits and also cover to a certain extent the manufacture of these elements (when not covered elsewhere);</li><li>generation of electricity, which covers the generation, conversion and distribution of electricity together with the controlling of the corresponding gear;</li><li>applied electricity, which <u>covers</u>: <ul><li>general utilisation techniques, viz. those of electric heating and electric lighting circuits;</li><li>some special utilisation techniques, either electric or electronic in the strict sense, which are not covered by other sections of the Classification, including: <ul><li>electric light sources, including lasers;</li><li>electric X-ray technique;</li><li>electric plasma technique and the generation and acceleration of electrically charged particles or neutrons;</li></ul></li></ul></li><li>basic electronic circuits and their control;</li><li>radio or electric communication technique;</li><li>the use of a specified material for the manufacture of the article or element described. In this connection, paragraphs 88 to 90 of the Guide should be referred to.</li></ul></li><li>In this section, the following general rules apply: <ul><li>Subject to the exceptions stated in I(c), above, any electric aspect or part peculiar to a particular operation, process, apparatus, object or article, classified in one of the sections of the Classification other than section <b>H</b>, is always classified in the subclass for that operation, process, apparatus, object or article. Where common characteristics concerning technical subjects of similar nature have been brought out at class level, the electric aspect or part is classified, in conjunction with the operation, process, apparatus, object or article, in a subclass which covers entirely the general electrical applications for the technical subject in question;</li><li>The electrical applications referred to under (a), above, either general or particular, include: <ul><li>the therapeutic processes and apparatus, in class <b>A61</b>;</li><li>the electric processes and apparatus used in various laboratory or industrial operations, in classes <b>B01</b> and <b>B03</b> and in subclass <b>B23K</b>;</li><li>the electricity supply, electric propulsion and electric lighting of vehicles in general and of particular vehicles, in the subsection \"Transporting\" of section <b>B</b>;</li><li>the electric ignition systems of internal-combustion engines, in subclass <b>F02P</b>, and of combustion apparatus in general, in subclass <b>F23Q</b>;</li><li>the whole electrical part of section <b>G</b>, i.e. measuring devices including apparatus for measuring electric variables, checking, signalling and calculating. Electricity in that section is generally dealt with as a means and not as an end in itself;</li></ul></li><li>All electrical applications, both general and particular, presuppose that the \"basic electricity\" aspect appears in section <b>H</b> (see I(a) above) as regards the electric \"basic elements\" which they comprise. This rule is also valid for applied electricity, referred to in I(c), above, which appears in section <b>H</b> itself.</li></ul></li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_H.txt",
+      "kind": "ipc"
+    },
+    "H02J1/00": {
+      "code": "H02J1/00",
+      "level": 0,
+      "parent": "H02J",
+      "ja": "直流幹線または直流配電網のための回路装置［２０２６．０１］",
+      "en": "Circuit arrangements for DC mains or DC distribution networks",
+      "count": 24033,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J1/002": {
+      "code": "H02J1/002",
+      "level": 1,
+      "parent": "H02J1/00",
+      "ja": "直流－交流－直流の中間変換を用いるもの［２０２６．０１］",
+      "en": "using intermediate DC-AC-DC conversion",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J1/02": {
+      "code": "H02J1/02",
+      "level": 1,
+      "parent": "H02J1/00",
+      "ja": "高調波またはリップルを低減する装置［２０２６．０１］",
+      "en": "Arrangements for reducing harmonics or ripples ",
+      "count": 1939,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J1/04": {
+      "code": "H02J1/04",
+      "level": 1,
+      "parent": "H02J1/00",
+      "ja": "電流制御供給方式，例．定電流供給方式［２０２６．０１］",
+      "en": "Current-controlled supply systems, e.g. constant-current supply systems",
+      "count": 504,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J1/06": {
+      "code": "H02J1/06",
+      "level": 1,
+      "parent": "H02J1/00",
+      "ja": "２線式直流配電方式［２０２６．０１］",
+      "en": "Two-wire DC power distribution systems",
+      "count": 675,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J1/08": {
+      "code": "H02J1/08",
+      "level": 1,
+      "parent": "H02J1/00",
+      "ja": "３線式直流配電方式；３線より多い方式［２０２６．０１］",
+      "en": "Three-wire DC power distribution systems; Systems having more than three wires",
+      "count": 1967,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J1/082": {
+      "code": "H02J1/082",
+      "level": 2,
+      "parent": "H02J1/08",
+      "ja": "２つ以上の異なる直流電圧レベルの直流供給［２０２６．０１］",
+      "en": "DC supplies with two or more different DC voltage levels",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J1/10": {
+      "code": "H02J1/10",
+      "level": 1,
+      "parent": "H02J1/00",
+      "ja": "直流源の並列運転［２０２６．０１］",
+      "en": "Parallel operation of DC sources",
+      "count": 10552,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J1/102": {
+      "code": "H02J1/102",
+      "level": 2,
+      "parent": "H02J1/10",
+      "ja": "スイッチングコンバータ（Ｈ０２Ｊ１／１０８，Ｈ０２Ｊ１／１２が優先）［２０２６．０１］",
+      "en": "being switching converters(<b>H02J1/108</b>, <b>H02J1/12</b> take precedence)",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J1/108": {
+      "code": "H02J1/108",
+      "level": 2,
+      "parent": "H02J1/10",
+      "ja": "逆方向電流の流れを妨げるための装置をもつもの，例．ダイオードを用いるもの（Ｈ０２Ｊ１／１２が優先）［２０２６．０１］",
+      "en": "having arrangements for blocking reverse current flow, e.g. using diodes(<b>H02J1/12</b> takes precedence)",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J1/12": {
+      "code": "H02J1/12",
+      "level": 2,
+      "parent": "H02J1/10",
+      "ja": "電力コンバータをもつ直流電源と電力コンバータをもたない追加的な直流電源の並列運転［２０２６．０１］",
+      "en": "Parallel operation of DC sources having power converters with further DC sources without power converters",
+      "count": 1402,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J1/14": {
+      "code": "H02J1/14",
+      "level": 1,
+      "parent": "H02J1/00",
+      "ja": "直流回路網内の負荷と発電の平衡を取ること［２０２６．０１］",
+      "en": "Balancing load and power generation in DC networks",
+      "count": 2860,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J1/15": {
+      "code": "H02J1/15",
+      "level": 2,
+      "parent": "H02J1/14",
+      "ja": "負荷管理に特徴のあるもの［２０２６．０１］",
+      "en": "characterised by load management",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J1/16": {
+      "code": "H02J1/16",
+      "level": 2,
+      "parent": "H02J1/14",
+      "ja": "エネルギー蓄積ユニットを用いるもの，例．電池またはフライホイールに結合された回転電気機械を用いるもの［２０２６．０１］",
+      "en": "using energy storage units, e.g. batteries or dynamo-electric machines coupled to flywheels",
+      "count": 246,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J3/00": {
+      "code": "H02J3/00",
+      "level": 0,
+      "parent": "H02J",
+      "ja": "交流幹線または交流配電網のための回路装置［２０２６．０１］",
+      "en": "Circuit arrangements for AC mains or AC distribution networks",
+      "count": 74842,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J3/001": {
+      "code": "H02J3/001",
+      "level": 1,
+      "parent": "H02J3/00",
+      "ja": "故障または異常，例．緊急事態または不測の事態，を処理するための装置［２０２６．０１］",
+      "en": "Arrangements for handling faults or abnormalities, e.g. emergencies or contingencies",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J3/0012": {
+      "code": "H02J3/0012",
+      "level": 2,
+      "parent": "H02J3/001",
+      "ja": "交流網内の不測事態検知手段に特徴のあるもの，例．フェーザ計測装置［ＰＭＵ］，シンクロフェーザまたは不測事態解析を用いるもの［２０２６．０１］",
+      "en": "characterised by the contingency detection means in AC networks, e.g. using phasor measurement units [PMU], synchrophasors or contingency analysis",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J3/0014": {
+      "code": "H02J3/0014",
+      "level": 2,
+      "parent": "H02J3/001",
+      "ja": "回路網内の電力振動を防止または減少するためのもの［２０２６．０１］",
+      "en": "for preventing or reducing power oscillations in networks",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J3/007": {
+      "code": "H02J3/007",
+      "level": 1,
+      "parent": "H02J3/00",
+      "ja": "１つ以上の電源または送電線に１つ以上の負荷を選択的に接続するための装置［２０２６．０１］",
+      "en": "Arrangements for selectively connecting one or more loads to one or more power sources or power lines",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J3/0073": {
+      "code": "H02J3/0073",
+      "level": 2,
+      "parent": "H02J3/007",
+      "ja": "主路が故障した時に代替給電路を提供することによるもの［２０２６．０１］",
+      "en": "by providing alternative feeding paths when the main path fails",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J3/008": {
+      "code": "H02J3/008",
+      "level": 1,
+      "parent": "H02J3/00",
+      "ja": "エネルギー取引に応じた給電または配電技術のための回路装置［２０２６．０１］",
+      "en": "Circuit arrangements for power supply or distribution technologies responsive to energy trading",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J3/01": {
+      "code": "H02J3/01",
+      "level": 1,
+      "parent": "H02J3/00",
+      "ja": "高調波またはリップルを低減するための装置［２０２６．０１］",
+      "en": "Arrangements for reducing harmonics or ripples",
+      "count": 15410,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J3/02": {
+      "code": "H02J3/02",
+      "level": 1,
+      "parent": "H02J3/00",
+      "ja": "異なる周波数で交流電力を同時配電するための単一回路網を用いるもの［２０２６．０１］",
+      "en": "using a single network for simultaneous distribution of AC power at different frequencies",
+      "count": 1665,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J3/04": {
+      "code": "H02J3/04",
+      "level": 1,
+      "parent": "H02J3/00",
+      "ja": "同一周波数でしかも異なる電源から供給される回路網を接続するための装置［２０２６．０１］",
+      "en": "Arrangements for connecting networks of the same frequency but supplied from different sources",
+      "count": 1450,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J3/06": {
+      "code": "H02J3/06",
+      "level": 2,
+      "parent": "H02J3/04",
+      "ja": "連系回路網間の電力伝送の制御；連系回路網間の負荷分担の制御［２０２６．０１］",
+      "en": "Controlling the transfer of power between connected networks; Controlling load sharing between connected networks",
+      "count": 11899,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J3/08": {
+      "code": "H02J3/08",
+      "level": 2,
+      "parent": "H02J3/04",
+      "ja": "回路網の同期［２０２６．０１］",
+      "en": "Synchronisation of networks",
+      "count": 730,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J3/10": {
+      "code": "H02J3/10",
+      "level": 1,
+      "parent": "H02J3/00",
+      "ja": "電流制御供給方式，例．定電流供給方式［２０２６．０１］",
+      "en": "Current-controlled supply systems, e.g. constant-current supply systems",
+      "count": 241,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J3/11": {
+      "code": "H02J3/11",
+      "level": 1,
+      "parent": "H02J3/00",
+      "ja": "交流回路網内の周波数を調整するための装置，例．有効電力の制御によるもの［２０２６．０１］",
+      "en": "Arrangements for adjusting frequency in AC networks, e.g. by control of active power",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J3/12": {
+      "code": "H02J3/12",
+      "level": 1,
+      "parent": "H02J3/00",
+      "ja": "回路網負荷の特徴を変化させることによって交流回路網内の電圧を調整するための装置［２０２６．０１］",
+      "en": "Arrangements for adjusting voltage in AC networks by changing a characteristic of the network load",
+      "count": 8248,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J3/14": {
+      "code": "H02J3/14",
+      "level": 2,
+      "parent": "H02J3/12",
+      "ja": "前記回路網への負荷の接続または回路網からの負荷の遮断によるもの，例．順次平衡装架［２０２６．０１］",
+      "en": "by switching loads on to, or off from, the networks, e.g. progressively balanced loading",
+      "count": 14953,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J3/16": {
+      "code": "H02J3/16",
+      "level": 2,
+      "parent": "H02J3/12",
+      "ja": "無効電力の調整によるもの［２０２６．０１］",
+      "en": "by adjustment of reactive power",
+      "count": 8442,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J3/17": {
+      "code": "H02J3/17",
+      "level": 1,
+      "parent": "H02J3/00",
+      "ja": "交流電力の送電網または配電網のデマンドレスポンス運転［２０２６．０１］",
+      "en": "Demand-responsive operation of AC power transmission or distribution networks",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J3/175": {
+      "code": "H02J3/175",
+      "level": 2,
+      "parent": "H02J3/17",
+      "ja": "エンドユーザまたは負荷運転に応じたもの（Ｈ０２Ｊ３／１４が優先）［２０２６．０１］",
+      "en": "responsive to end-user or load operations(<b>H02J3/14</b> takes precedence)",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J3/18": {
+      "code": "H02J3/18",
+      "level": 1,
+      "parent": "H02J3/00",
+      "ja": "回路網内の無効電力を調整，除去または補償するための装置［２０２６．０１］",
+      "en": "Arrangements for adjusting, eliminating or compensating reactive power in networks",
+      "count": 28547,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J3/1807": {
+      "code": "H02J3/1807",
+      "level": 2,
+      "parent": "H02J3/18",
+      "ja": "直列補償器を用いるもの，例．サイリスタ制御直列キャパシタ［ＴＣＳＣ］［２０２６．０１］",
+      "en": "using series compensators, e.g. thyristor-controlled series capacitors [TCSC]",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J3/1814": {
+      "code": "H02J3/1814",
+      "level": 3,
+      "parent": "H02J3/1807",
+      "ja": "ブリッジコンバータにより能動的に制御される無効素子をもつもの，例．統合潮流制御装置［ＵＰＦＣ］または直列電圧補償器［２０２６．０１］",
+      "en": "having reactive elements actively controlled by bridge converters, e.g. unified power flow controllers [UPFC] or controlled series voltage compensators",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J3/1821": {
+      "code": "H02J3/1821",
+      "level": 2,
+      "parent": "H02J3/18",
+      "ja": "分路補償器を用いるもの［２０２６．０１］",
+      "en": "using shunt compensators",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J3/1828": {
+      "code": "H02J3/1828",
+      "level": 3,
+      "parent": "H02J3/1821",
+      "ja": "段階的な制御をもつもの，例．スイッチトキャパシタバンク［２０２６．０１］",
+      "en": "with stepwise control, e.g. switched capacitor banks",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J3/1835": {
+      "code": "H02J3/1835",
+      "level": 3,
+      "parent": "H02J3/1821",
+      "ja": "無段階制御をもつもの［２０２６．０１］",
+      "en": "with stepless control",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J3/1842": {
+      "code": "H02J3/1842",
+      "level": 4,
+      "parent": "H02J3/1835",
+      "ja": "ブリッジコンバータにより能動的に制御される無効素子をもつもの，例．能動フィルタまたは自励式無効電力補償装置［ＳＴＡＴＣＯＭ］［２０２６．０１］",
+      "en": "having reactive elements actively controlled by bridge converters, e.g. active filters or static compensators [STATCOM]",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J3/185": {
+      "code": "H02J3/185",
+      "level": 5,
+      "parent": "H02J3/1842",
+      "ja": "前記無効素子が完全な誘導性であるもの，例．超電導磁気エネルギー貯蔵［ＳＭＥＳ］方式［２０２６．０１］",
+      "en": "the reactive elements being purely inductive, e.g. superconductive magnetic energy storage [SMES] systems",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J3/1857": {
+      "code": "H02J3/1857",
+      "level": 5,
+      "parent": "H02J3/1842",
+      "ja": "前記ブリッジコンバータがマルチレベルブリッジコンバータまたはモジュラーマルチレベルコンバータであるもの［２０２６．０１］",
+      "en": "the bridge converters being multilevel bridge converters or modular multilevel converters",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J3/1864": {
+      "code": "H02J3/1864",
+      "level": 4,
+      "parent": "H02J3/1835",
+      "ja": "半導体スイッチと直列に接続された無効素子を用いるもの，例．静止形無効電力補償装置［ＳＶＣ］，サイリスタ制御リアクトル［ＴＣＲ］，またはサイリスタ開閉コンデンサ［ＴＳＣ］［２０２６．０１］",
+      "en": "using reactive elements connected in series with semiconductor switches, e.g. static VAR compensators [SVC], thyristor-controlled reactors [TCR] or thyristor-switched capacitors [TSC]",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J3/1878": {
+      "code": "H02J3/1878",
+      "level": 2,
+      "parent": "H02J3/18",
+      "ja": "タップ切替器または位相シフトトランスを用いるもの［２０２６．０１］",
+      "en": "using tap changing or phase shifting transformers",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J3/1885": {
+      "code": "H02J3/1885",
+      "level": 2,
+      "parent": "H02J3/18",
+      "ja": "回転交流発電機を用いるもの，例．同期発電機［２０２６．０１］",
+      "en": "using rotating AC generators, e.g. synchronous generators",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J3/1892": {
+      "code": "H02J3/1892",
+      "level": 2,
+      "parent": "H02J3/18",
+      "ja": "前記装置が負荷またはそれらの装置の制御回路の不可欠な部分であるもの［２０２６．０１］",
+      "en": "the arrangements being an integral part of the loads or of their control circuits",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J3/26": {
+      "code": "H02J3/26",
+      "level": 1,
+      "parent": "H02J3/00",
+      "ja": "多相回路網内の非対称性を除去または減少させるための装置［２０２６．０１］",
+      "en": "Arrangements for eliminating or reducing asymmetry in polyphase networks",
+      "count": 6999,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J3/28": {
+      "code": "H02J3/28",
+      "level": 1,
+      "parent": "H02J3/00",
+      "ja": "エネルギー蓄積により回路網内の負荷を平衡するための装置［２０２６．０１］",
+      "en": "Arrangements for balancing of the load in networks by storage of energy",
+      "count": 18553,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J3/30": {
+      "code": "H02J3/30",
+      "level": 2,
+      "parent": "H02J3/28",
+      "ja": "フライホイールに結合された回転電気機械を用いるもの［２０２６．０１］",
+      "en": "using dynamo-electric machines coupled to flywheels",
+      "count": 1678,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J3/32": {
+      "code": "H02J3/32",
+      "level": 2,
+      "parent": "H02J3/28",
+      "ja": "コンバータ手段をもつ電池またはスーパーキャパシタを用いるもの［２０２６．０１］",
+      "en": "using batteries or super capacitors with converting means",
+      "count": 33431,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J3/34": {
+      "code": "H02J3/34",
+      "level": 1,
+      "parent": "H02J3/00",
+      "ja": "実質的に異なる周波数の回路網間の電力伝送のための装置［２０２６．０１］",
+      "en": "Arrangements for transfer of electric power between networks of substantially different frequency ",
+      "count": 702,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J3/36": {
+      "code": "H02J3/36",
+      "level": 1,
+      "parent": "H02J3/00",
+      "ja": "高圧直流［ＨＶＤＣ］連絡線を介する交流回路網間の電力伝送のための装置；ＨＶＤＣ連絡線を介する発電機と回路網間の電力伝送のための装置［２０２６．０１］",
+      "en": "Arrangements for transfer of electric power between AC networks via high-voltage DC [HVDC] links; Arrangements for transfer of electric power between generators and networks via HVDC links",
+      "count": 12091,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J3/38": {
+      "code": "H02J3/38",
+      "level": 1,
+      "parent": "H02J3/00",
+      "ja": "２個以上の発電機または電源から単一回路網へ並列給電するための装置；付加発電機または電源から既に通電された回路網へ並列給電するための装置［２０２６．０１］",
+      "en": "Arrangements for feeding a single network from two or more generators or sources in parallel; Arrangements for feeding already energised networks from additional generators or sources in parallel",
+      "count": 78683,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J3/388": {
+      "code": "H02J3/388",
+      "level": 2,
+      "parent": "H02J3/38",
+      "ja": "単独運転の処理のための装置，例．電力の切断のためまたは切断の回避のためのもの［２０２６．０１］",
+      "en": "Arrangements for the handling of islanding, e.g. for disconnection or for avoiding the disconnection of power",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J3/40": {
+      "code": "H02J3/40",
+      "level": 2,
+      "parent": "H02J3/38",
+      "ja": "回路網または他の発電機への接続のための発電機の同期［２０２６．０１］",
+      "en": "Synchronisation of generators for connection to a network or to another generator",
+      "count": 2636,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J3/42": {
+      "code": "H02J3/42",
+      "level": 3,
+      "parent": "H02J3/40",
+      "ja": "同期が達成された時に自動的に並列接続するもの［２０２６．０１］",
+      "en": "with automatic parallel connection when synchronisation is achieved",
+      "count": 1997,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J3/44": {
+      "code": "H02J3/44",
+      "level": 3,
+      "parent": "H02J3/40",
+      "ja": "正確な位相順序を保障する装置をもつもの［２０２６．０１］",
+      "en": "with means for ensuring correct phase sequence",
+      "count": 741,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J3/46": {
+      "code": "H02J3/46",
+      "level": 2,
+      "parent": "H02J3/38",
+      "ja": "発電機，コンバータ，電源または回路網変圧器各間の発電電力の出力分担の制御［２０２６．０１］",
+      "en": "Controlling the sharing of generated power between the generators, sources or networks",
+      "count": 27813,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J3/466": {
+      "code": "H02J3/466",
+      "level": 3,
+      "parent": "H02J3/46",
+      "ja": "発電機または電源の運転をスケジューリングまたは選択的に制御すること，例．需要を満たすために発電機を接続または切断すること［２０２６．０１］",
+      "en": "Scheduling or selectively controlling the operation of the generators or sources, e.g. connecting or disconnecting generators to meet a demand",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J3/48": {
+      "code": "H02J3/48",
+      "level": 3,
+      "parent": "H02J3/46",
+      "ja": "有効電力の分担の制御［２０２６．０１］",
+      "en": "Controlling the sharing of active power",
+      "count": 9187,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J3/50": {
+      "code": "H02J3/50",
+      "level": 3,
+      "parent": "H02J3/46",
+      "ja": "無効電力の分担の制御［２０２６．０１］",
+      "en": "Controlling the sharing of reactive power",
+      "count": 6502,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J4/00": {
+      "code": "H02J4/00",
+      "level": 0,
+      "parent": "H02J",
+      "ja": "交流または直流として指定されていない幹線または配電網のための回路装置；幹線または直流部と交流部を結合する配電網または副配電網のための回路装置（直流－交流－直流中間変換を用いる装置　Ｈ０２Ｊ１／００２；高圧直流［ＨＶＤＣ］連絡線を用いる装置　Ｈ０２Ｊ３／３６）［２０２６．０１］",
+      "en": "Circuit arrangements for mains or distribution networks not specified as AC or DC; Circuit arrangements for mains or distribution networks combining AC and DC sections or sub-networks(arrangements using intermediate DC-AC-DC conversion <b>H02J1/002</b>; arrangements using high-voltage DC [HVDC] links <b>H02J3/36</b>)",
+      "count": 4565,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J4/10": {
+      "code": "H02J4/10",
+      "level": 1,
+      "parent": "H02J4/00",
+      "ja": "交流および直流電力の同時配電のための単一回路網を用いるもの［２０２６．０１］",
+      "en": "using a single network for simultaneous distribution of AC and DC power",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J4/20": {
+      "code": "H02J4/20",
+      "level": 1,
+      "parent": "H02J4/00",
+      "ja": "分離している直流電力部と交流電力部を統合する電力網［２０２６．０１］",
+      "en": "Networks integrating separated AC and DC power sections",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J4/25": {
+      "code": "H02J4/25",
+      "level": 2,
+      "parent": "H02J4/20",
+      "ja": "直流と交流の回路網間の電力伝送のためのもの，例．交流幹線システムから負荷の範囲内で直流部に電力供給するためのもの［２０２６．０１］",
+      "en": "for transfer of electric power between AC and DC networks, e.g. for supplying the DC section within a load from an AC mains system",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J7/00": {
+      "code": "H02J7/00",
+      "level": 0,
+      "parent": "H02J",
+      "ja": "電池の充電または放電または電池から負荷への供給をするための回路装置［２０２６．０１］",
+      "en": "Circuit arrangements for charging or discharging batteries or for supplying loads from batteries",
+      "count": 289263,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J7/02": {
+      "code": "H02J7/02",
+      "level": 1,
+      "parent": "H02J7/00",
+      "ja": "コンバータにより交流幹線から電池を充電するためのもの［１，２０１６．０１］",
+      "en": "for charging batteries from AC mains by converters",
+      "count": 40675,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J7/04": {
+      "code": "H02J7/04",
+      "level": 2,
+      "parent": "H02J7/02",
+      "ja": "充電電流または電圧の調整",
+      "en": "Regulation of the charging current or voltage",
+      "count": 15768,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J7/06": {
+      "code": "H02J7/06",
+      "level": 3,
+      "parent": "H02J7/04",
+      "ja": "放電管または半導体装置を用いるもの",
+      "en": "using discharge tubes or semiconductor devices",
+      "count": 1615,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J7/08": {
+      "code": "H02J7/08",
+      "level": 4,
+      "parent": "H02J7/06",
+      "ja": "放電管のみを用いるもの",
+      "en": "using discharge tubes only",
+      "count": 133,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J7/10": {
+      "code": "H02J7/10",
+      "level": 4,
+      "parent": "H02J7/06",
+      "ja": "半導体装置のみを用いるもの",
+      "en": "using semiconductor devices only",
+      "count": 13104,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J7/12": {
+      "code": "H02J7/12",
+      "level": 3,
+      "parent": "H02J7/04",
+      "ja": "飽和度の制御可能な磁気装置を用いるもの，すなわちトランスダクタ",
+      "en": "using magnetic devices having controllable degree of saturation, i.e. transductors",
+      "count": 321,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J7/14": {
+      "code": "H02J7/14",
+      "level": 1,
+      "parent": "H02J7/00",
+      "ja": "可変速度で駆動される発電機から電池を充電するためのもの，例．車両用",
+      "en": "for charging batteries from dynamo-electric generators driven at varying speed, e.g. on vehicle",
+      "count": 17994,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J7/16": {
+      "code": "H02J7/16",
+      "level": 2,
+      "parent": "H02J7/14",
+      "ja": "界磁変化による充電電流または電圧の調整",
+      "en": "Regulation of the charging current or voltage by variation of field",
+      "count": 3081,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J7/18": {
+      "code": "H02J7/18",
+      "level": 3,
+      "parent": "H02J7/16",
+      "ja": "界磁回路へ段階的に接続または切り外される抵抗を用い，界磁回路内のオーム抵抗の変化にもとづくもの",
+      "en": "due to variation of ohmic resistance in field circuit, using resistance switching in or out of circuit step by step",
+      "count": 187,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J7/20": {
+      "code": "H02J7/20",
+      "level": 3,
+      "parent": "H02J7/16",
+      "ja": "連続的可変オーム抵抗の変化にもとづくもの",
+      "en": "due to variation of continuously-variable ohmic resistor",
+      "count": 205,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J7/22": {
+      "code": "H02J7/22",
+      "level": 3,
+      "parent": "H02J7/16",
+      "ja": "断続的作動接触子の閉成対開放比の変化によるもの，例．チリル調整機",
+      "en": "due to variation of make-to-break ratio of intermittently-operating contacts, e.g. using Tirrill regulator",
+      "count": 922,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J7/24": {
+      "code": "H02J7/24",
+      "level": 3,
+      "parent": "H02J7/16",
+      "ja": "放電管または半導体装置を使用するもの（Ｈ０２Ｊ７／２８が優先）",
+      "en": "using discharge tubes or semiconductor devices",
+      "count": 2040,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J7/26": {
+      "code": "H02J7/26",
+      "level": 3,
+      "parent": "H02J7/16",
+      "ja": "飽和度が制御可能な磁気装置を用いるもの（Ｈ０２Ｊ７／２８が優先）",
+      "en": "using magnetic devices with controllable degree of saturation",
+      "count": 89,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J7/28": {
+      "code": "H02J7/28",
+      "level": 3,
+      "parent": "H02J7/16",
+      "ja": "制御放電管または制御半導体装置と結合した飽和度の制御可能な磁気装置を用いるもの",
+      "en": "using magnetic devices with controllable degree of saturation in combination with controlled discharge tube or controlled semiconductor device",
+      "count": 35,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J7/30": {
+      "code": "H02J7/30",
+      "level": 3,
+      "parent": "H02J7/16",
+      "ja": "電機子反作用励磁機を用いるもの",
+      "en": "using armature-reaction-excited machines",
+      "count": 28,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J7/32": {
+      "code": "H02J7/32",
+      "level": 1,
+      "parent": "H02J7/00",
+      "ja": "非電気的原動機をもつ充電装置から電池を充電するためのもの",
+      "en": "for charging batteries from a charging set comprising a non-electric prime mover",
+      "count": 11814,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J7/34": {
+      "code": "H02J7/34",
+      "level": 1,
+      "parent": "H02J7/00",
+      "ja": "電池と他の直流源の双方を使用する回路網内での並列運転，例．バッファリングの提供（Ｈ０２Ｊ７／１４が優先）［４］",
+      "en": "Parallel operation in networks using both storage and other DC sources, e.g. providing buffering(<b>H02J7/14</b> takes precedence)",
+      "count": 26107,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J7/35": {
+      "code": "H02J7/35",
+      "level": 2,
+      "parent": "H02J7/34",
+      "ja": "光電池をもつもの［４］",
+      "en": "with light sensitive cells",
+      "count": 85384,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J7/36": {
+      "code": "H02J7/36",
+      "level": 1,
+      "parent": "H02J7/00",
+      "ja": "端電池切り換えを使用する装置",
+      "en": "Arrangements using end-cell switching",
+      "count": 1532,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J7/40": {
+      "code": "H02J7/40",
+      "level": 1,
+      "parent": "H02J7/00",
+      "ja": "充電または放電関連のデータの交換に特徴のあるもの［２０２６．０１］",
+      "en": "characterised by the exchange of charge or discharge related data",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J7/42": {
+      "code": "H02J7/42",
+      "level": 2,
+      "parent": "H02J7/40",
+      "ja": "内部電池を持つ電子機器を備えるもの，例．携帯電話［２０２６．０１］",
+      "en": "with electronic devices having internal batteries, e.g. mobile phones",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J7/44": {
+      "code": "H02J7/44",
+      "level": 2,
+      "parent": "H02J7/40",
+      "ja": "電池管理システムと電源の間のもの［２０２６．０１］",
+      "en": "between battery management systems and power sources",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J7/45": {
+      "code": "H02J7/45",
+      "level": 2,
+      "parent": "H02J7/40",
+      "ja": "電池管理システムと外部サーバー間のもの（スマートグリッドで負荷の平衡に使用される電池，　Ｈ０２Ｊ３／３２）［２０２６．０１］",
+      "en": "between battery management systems and external servers(batteries used in smart grids for balancing of the load <b>H02J3/32</b>)",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J7/46": {
+      "code": "H02J7/46",
+      "level": 2,
+      "parent": "H02J7/40",
+      "ja": "リーダー？フォロワー装置［２０２６．０１］",
+      "en": "Leader-follower arrangements",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J7/47": {
+      "code": "H02J7/47",
+      "level": 2,
+      "parent": "H02J7/40",
+      "ja": "一つの構成部品，例．電池，　または充電器，　と他の構成部品，例．電源，　との互換性や認証を確認するための装置［２０２６．０１］",
+      "en": "Arrangements for checking compatibility or authentication between one component, e.g. a battery or a battery charger, and another component, e.g. a power source",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J7/50": {
+      "code": "H02J7/50",
+      "level": 1,
+      "parent": "H02J7/00",
+      "ja": "複数の電池に同時または順次に作用するもの［２０２６．０１］",
+      "en": "acting upon multiple batteries simultaneously or sequentially",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J7/52": {
+      "code": "H02J7/52",
+      "level": 2,
+      "parent": "H02J7/50",
+      "ja": "電荷のバランシングのためのもの，例．電池間の電荷の均等化［２０２６．０１］",
+      "en": "for charge balancing, e.g. equalisation of charge between batteries",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J7/54": {
+      "code": "H02J7/54",
+      "level": 3,
+      "parent": "H02J7/52",
+      "ja": "パッシブバランシング，例．抵抗器や並列ＭＯＳＦＥＴを用いるもの［２０２６．０１］",
+      "en": "Passive balancing, e.g. using resistors or parallel MOSFETs",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J7/56": {
+      "code": "H02J7/56",
+      "level": 3,
+      "parent": "H02J7/52",
+      "ja": "アクティブバランシング，例．コンデンサベース，　インダクタベースまたはＤＣ－ＤＣコンバータを用いるもの［２０２６．０１］",
+      "en": "Active balancing, e.g. using capacitor-based, inductor-based or DC-DC converters",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J7/60": {
+      "code": "H02J7/60",
+      "level": 1,
+      "parent": "H02J7/00",
+      "ja": "安全装置または保護装置を含むもの［２０２６．０１］",
+      "en": "including safety or protection arrangements",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J7/61": {
+      "code": "H02J7/61",
+      "level": 2,
+      "parent": "H02J7/60",
+      "ja": "過充電に対するもの［２０２６．０１］",
+      "en": "against overcharge",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J7/62": {
+      "code": "H02J7/62",
+      "level": 2,
+      "parent": "H02J7/60",
+      "ja": "過電流に対するもの［２０２６．０１］",
+      "en": "against overcurrent",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J7/63": {
+      "code": "H02J7/63",
+      "level": 2,
+      "parent": "H02J7/60",
+      "ja": "過放電に対するもの［２０２６．０１］",
+      "en": "against overdischarge",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J7/64": {
+      "code": "H02J7/64",
+      "level": 2,
+      "parent": "H02J7/60",
+      "ja": "過電圧に対するもの［２０２６．０１］",
+      "en": "against overvoltage",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J7/65": {
+      "code": "H02J7/65",
+      "level": 2,
+      "parent": "H02J7/60",
+      "ja": "過温度に対するもの［２０２６．０１］",
+      "en": "against overtemperature",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J7/68": {
+      "code": "H02J7/68",
+      "level": 2,
+      "parent": "H02J7/60",
+      "ja": "逆極性を補正または保護するための回路を用いるもの［２０２６．０１］",
+      "en": "using circuits for correcting or protecting against reverse-polarity",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J7/70": {
+      "code": "H02J7/70",
+      "level": 1,
+      "parent": "H02J7/00",
+      "ja": "機械的構造に特徴があるもの［２０２６．０１］",
+      "en": "characterised by the mechanical construction",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J7/80": {
+      "code": "H02J7/80",
+      "level": 1,
+      "parent": "H02J7/00",
+      "ja": "監視装置または表示装置を含むもの［２０２６．０１］",
+      "en": "including monitoring or indicating arrangements",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J7/82": {
+      "code": "H02J7/82",
+      "level": 2,
+      "parent": "H02J7/80",
+      "ja": "充電状態［ＳＯＣ］の管理［２０２６．０１］",
+      "en": "Control of state of charge [SOC] ",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J7/84": {
+      "code": "H02J7/84",
+      "level": 2,
+      "parent": "H02J7/80",
+      "ja": "健全性状態［ＳＯＨ］の管理［２０２６．０１］",
+      "en": "Control of state of health [SOH] ",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J7/90": {
+      "code": "H02J7/90",
+      "level": 1,
+      "parent": "H02J7/00",
+      "ja": "充放電電流または電圧の調整［２０２６．０１］",
+      "en": "Regulation of charging or discharging current or voltage",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J7/92": {
+      "code": "H02J7/92",
+      "level": 2,
+      "parent": "H02J7/90",
+      "ja": "負荷や供給源への優先付けによるもの［２０２６．０１］",
+      "en": "with prioritisation of loads or sources",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J7/94": {
+      "code": "H02J7/94",
+      "level": 2,
+      "parent": "H02J7/90",
+      "ja": "電池電流に応じるもの［２０２６．０１］",
+      "en": "in response to battery current",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J7/96": {
+      "code": "H02J7/96",
+      "level": 2,
+      "parent": "H02J7/90",
+      "ja": "電池電圧に応じるもの［２０２６．０１］",
+      "en": "in response to battery voltage",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J9/00": {
+      "code": "H02J9/00",
+      "level": 0,
+      "parent": "H02J",
+      "ja": "非常用または待機用電源の回路装置，例．非常用照明のためのもの［２００６．０１］",
+      "en": "Circuit arrangements for emergency or stand-by power supply, e.g. for emergency lighting",
+      "count": 11990,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J9/02": {
+      "code": "H02J9/02",
+      "level": 1,
+      "parent": "H02J9/00",
+      "ja": "その内，補助配電系統とそれに関連したランプを役立たせるもの［２００６．０１］",
+      "en": "in which an auxiliary distribution system and its associated lamps are brought into service",
+      "count": 2708,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J9/04": {
+      "code": "H02J9/04",
+      "level": 1,
+      "parent": "H02J9/00",
+      "ja": "その内，配電系統が平常時の電源から切り離され，そして待機用電源に接続されるもの［２００６．０１］",
+      "en": "in which the distribution system is disconnected from the normal source and connected to a standby source",
+      "count": 6538,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J9/06": {
+      "code": "H02J9/06",
+      "level": 2,
+      "parent": "H02J9/04",
+      "ja": "自動転換をもつもの［２００６．０１］",
+      "en": "with automatic change-over",
+      "count": 50548,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J9/08": {
+      "code": "H02J9/08",
+      "level": 3,
+      "parent": "H02J9/06",
+      "ja": "原動機起動を必要とするもの［２００６．０１］",
+      "en": "requiring starting of a prime-mover",
+      "count": 3835,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J11/00": {
+      "code": "H02J11/00",
+      "level": 0,
+      "parent": "H02J",
+      "ja": "電力を発電，配電または変換される局の補助設備に必要電力を供給するための回路装置［２００６．０１］",
+      "en": "Circuit arrangements for providing service supply to auxiliaries of stations in which electric power is generated, distributed or converted",
+      "count": 2366,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J13/00": {
+      "code": "H02J13/00",
+      "level": 0,
+      "parent": "H02J",
+      "ja": "配電網内の装置の遠隔監視または遠隔制御を提供するための回路装置［２０２６．０１］",
+      "en": "Circuit arrangements for providing remote monitoring or remote control of equipment in a power distribution network",
+      "count": 88264,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J13/10": {
+      "code": "H02J13/10",
+      "level": 1,
+      "parent": "H02J13/00",
+      "ja": "情報の表示またはユーザインタラクションに特徴のあるもの，例．監視制御およびデータ収集［ＳＣＡＤＡ］方式［２０２６．０１］",
+      "en": "characterised by displaying of information or by user interaction, e.g. supervisory control and data acquisition [SCADA] systems",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J13/12": {
+      "code": "H02J13/12",
+      "level": 1,
+      "parent": "H02J13/00",
+      "ja": "回路網状態を監視すること，例．電気の大きさまたは運転状況［２０２６．０１］",
+      "en": "Monitoring network conditions, e.g. electrical magnitudes or operational status",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J13/13": {
+      "code": "H02J13/13",
+      "level": 1,
+      "parent": "H02J13/00",
+      "ja": "電力回路網内の装置へのデータの伝送に特徴のあるもの［２０２６．０１］",
+      "en": "characterised by the transmission of data to equipment in the power network",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J13/14": {
+      "code": "H02J13/14",
+      "level": 1,
+      "parent": "H02J13/00",
+      "ja": "電力回路網が局所的に制御されるもの，例．ホームエネルギー管理システム［ＨＥＭＳ］［２０２６．０１］",
+      "en": "the power network being locally controlled, e.g. home energy management systems [HEMS]",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J13/16": {
+      "code": "H02J13/16",
+      "level": 1,
+      "parent": "H02J13/00",
+      "ja": "電力回路網が送電網レベルで制御されるもの，例．アグリゲータを用いるもの［２０２６．０１］",
+      "en": "the power network being controlled at grid-level, e.g. using aggregators",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J13/18": {
+      "code": "H02J13/18",
+      "level": 1,
+      "parent": "H02J13/00",
+      "ja": "遠隔操作される装置に特徴のあるもの，例．コンバータまたは変圧器［２０２６．０１］",
+      "en": "characterised by the remotely-controlled equipment, e.g. converters or transformers",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J13/181": {
+      "code": "H02J13/181",
+      "level": 2,
+      "parent": "H02J13/18",
+      "ja": "前記装置が発電機を含むもの［２０２６．０１］",
+      "en": "the equipment comprising generators",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J13/182": {
+      "code": "H02J13/182",
+      "level": 2,
+      "parent": "H02J13/18",
+      "ja": "前記装置が電力回路網に接続された負荷を含むもの［２０２６．０１］",
+      "en": "the equipment comprising loads connected to the power network",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J13/183": {
+      "code": "H02J13/183",
+      "level": 2,
+      "parent": "H02J13/18",
+      "ja": "前記装置がエネルギー貯蔵装置を含むもの［２０２６．０１］",
+      "en": "the equipment comprising energy storage systems",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J13/333": {
+      "code": "H02J13/333",
+      "level": 2,
+      "parent": "H02J13/18",
+      "ja": "前記装置が変電所の一部を形成するもの［２０２６．０１］",
+      "en": "the equipment forming part of substations",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J13/34": {
+      "code": "H02J13/34",
+      "level": 2,
+      "parent": "H02J13/18",
+      "ja": "前記装置が切換器，継電器または回路遮断器であるもの［２０２６．０１］",
+      "en": "the equipment being switches, relays or circuit breakers",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J13/36": {
+      "code": "H02J13/36",
+      "level": 3,
+      "parent": "H02J13/34",
+      "ja": "保護システムに特に適合されるもの［２０２６．０１］",
+      "en": "specially adapted for protection systems",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J13/38": {
+      "code": "H02J13/38",
+      "level": 2,
+      "parent": "H02J13/18",
+      "ja": "前記装置が電源コンセントであるもの［２０２６．０１］",
+      "en": "the equipment being power outlets",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J15/00": {
+      "code": "H02J15/00",
+      "level": 0,
+      "parent": "H02J",
+      "ja": "電力回路網に特に適合する，電気エネルギーを蓄積するための方式［２０２６．０１］",
+      "en": "Systems for storing electric energy specially adapted for power networks",
+      "count": 14156,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J15/10": {
+      "code": "H02J15/10",
+      "level": 1,
+      "parent": "H02J15/00",
+      "ja": "水力エネルギーの蓄積を用いるもの［２０２６．０１］",
+      "en": "using storage of hydraulic energy",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J15/20": {
+      "code": "H02J15/20",
+      "level": 1,
+      "parent": "H02J15/00",
+      "ja": "空圧エネルギーの蓄積を用いるもの，例．圧縮空気エネルギー蓄積［ＣＡＥＳ］［２０２６．０１］",
+      "en": "using storage of pneumatic energy, e.g. compressed air energy storage [CAES]",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J15/30": {
+      "code": "H02J15/30",
+      "level": 1,
+      "parent": "H02J15/00",
+      "ja": "慣性または機械的エネルギーの蓄積を用いるもの，例．フライホイールを用いるもの［２０２６．０１］",
+      "en": "using storage of inertial or mechanical energy, e.g. using flywheels",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J15/40": {
+      "code": "H02J15/40",
+      "level": 1,
+      "parent": "H02J15/00",
+      "ja": "コイルを用いるもの，例．超電導エネルギー貯蔵［ＳＭＥＳ］方式［２０２６．０１］",
+      "en": "using coils, e.g. superconductive magnetic energy storage [SMES] systems",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J15/50": {
+      "code": "H02J15/50",
+      "level": 1,
+      "parent": "H02J15/00",
+      "ja": "水素の貯蔵によるもの［２０２６．０１］",
+      "en": "using stored hydrogen",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J50/00": {
+      "code": "H02J50/00",
+      "level": 0,
+      "parent": "H02J",
+      "ja": "ワイヤレスで電力給電または電力配電を行うための回路装置または方式［２０１６．０１］<br><br><b><ul>注</ul></b><br>このメイングループにおいては，電力伝送のために使用される特定の型式の無線技術はグループＨ０２Ｊ５０／０５～Ｈ０２Ｊ５０／３０に包含され，その回路装置または方式に関連する観点はグループＨ０２Ｊ５０／４０～Ｈ０２Ｊ５０／９０に包含される。",
+      "en": "Circuit arrangements or systems for wireless supply or distribution of electric power; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this main group, the specific types of wireless technology used for the power transmission are covered in groups <b>H02J50/05 to H02J50/30</b> , while aspects relevant to the circuit arrangements or systems thereof are covered in groups <b>H02J50/40 to H02J50/90</b> .</li></ul>",
+      "count": 17642,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J50/05": {
+      "code": "H02J50/05",
+      "level": 1,
+      "parent": "H02J50/00",
+      "ja": "容量結合を用いるもの［２０１６．０１］",
+      "en": "using capacitive coupling",
+      "count": 1295,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J50/10": {
+      "code": "H02J50/10",
+      "level": 1,
+      "parent": "H02J50/00",
+      "ja": "誘導結合を用いるもの［２０１６．０１］",
+      "en": "using inductive coupling",
+      "count": 30157,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J50/12": {
+      "code": "H02J50/12",
+      "level": 2,
+      "parent": "H02J50/10",
+      "ja": "共振方式による［２０１６．０１］",
+      "en": "of the resonant type",
+      "count": 16090,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J50/15": {
+      "code": "H02J50/15",
+      "level": 1,
+      "parent": "H02J50/00",
+      "ja": "超音波を用いるもの［２０１６．０１］",
+      "en": "using ultrasonic waves",
+      "count": 353,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J50/20": {
+      "code": "H02J50/20",
+      "level": 1,
+      "parent": "H02J50/00",
+      "ja": "マイクロ波や高周波【ＲＦ】を用いるもの［２０１６．０１］",
+      "en": "using microwaves or radio frequency waves",
+      "count": 6312,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J50/23": {
+      "code": "H02J50/23",
+      "level": 2,
+      "parent": "H02J50/20",
+      "ja": "送電アンテナの型式により特徴付けられるもの，例．指向性アレイアンテナまたは八木アンテナ［２０１６．０１］",
+      "en": "characterised by the type of transmitting antennas, e.g. directional array antennas or Yagi antennas",
+      "count": 704,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J50/27": {
+      "code": "H02J50/27",
+      "level": 2,
+      "parent": "H02J50/20",
+      "ja": "受電アンテナの型式により特徴付けられるもの，例．レクテナ［２０１６．０１］",
+      "en": "characterised by the type of receiving antennas, e.g. rectennas",
+      "count": 812,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J50/30": {
+      "code": "H02J50/30",
+      "level": 1,
+      "parent": "H02J50/00",
+      "ja": "光を用いるもの，例．レーザー［２０１６．０１］",
+      "en": "using light, e.g. lasers",
+      "count": 1279,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J50/40": {
+      "code": "H02J50/40",
+      "level": 1,
+      "parent": "H02J50/00",
+      "ja": "２つ以上の送電装置または受電装置を用いるもの（Ｈ０２Ｊ５０／５０が優先）［２０１６．０１］",
+      "en": "using two or more transmitting or receiving devices(<b>H02J50/50</b> takes precedence)",
+      "count": 7111,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J50/50": {
+      "code": "H02J50/50",
+      "level": 1,
+      "parent": "H02J50/00",
+      "ja": "送電装置と受電装置の間に追加の電力中継器を用いるもの［２０１６．０１］",
+      "en": "using additional energy repeaters between transmitting devices and receiving devices",
+      "count": 1144,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J50/60": {
+      "code": "H02J50/60",
+      "level": 1,
+      "parent": "H02J50/00",
+      "ja": "異物の存在に対応するもの，例．生き物の検出［２０１６．０１］",
+      "en": "responsive to the presence of foreign objects, e.g. detection of living beings",
+      "count": 2683,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J50/70": {
+      "code": "H02J50/70",
+      "level": 1,
+      "parent": "H02J50/00",
+      "ja": "電界，磁界または電磁界の漏洩の低減を含むもの［２０１６．０１］",
+      "en": "involving the reduction of electric, magnetic or electromagnetic leakage fields",
+      "count": 3849,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J50/80": {
+      "code": "H02J50/80",
+      "level": 1,
+      "parent": "H02J50/00",
+      "ja": "送電装置と受電装置の間での電力の給電または配電に関するデータの交換を含むもの［２０１６．０１］",
+      "en": "involving the exchange of data, concerning supply or distribution of electric power, between transmitting devices and receiving devices",
+      "count": 9722,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J50/90": {
+      "code": "H02J50/90",
+      "level": 1,
+      "parent": "H02J50/00",
+      "ja": "位置検出や位置最適化を含むもの，例．位置合わせ［２０１６．０１］",
+      "en": "involving detection or optimisation of position, e.g. alignment",
+      "count": 8360,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J101/00": {
+      "code": "H02J101/00",
+      "level": 0,
+      "parent": "H02J",
+      "ja": "非集中型，分散型または局所型発電の給電または配電［２０２６．０１］",
+      "en": "Supply or distribution of decentralised, dispersed or local electric power generation",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J101/10": {
+      "code": "H02J101/10",
+      "level": 1,
+      "parent": "H02J101/00",
+      "ja": "化石燃料を用いる分散型発電，例．ディーゼル発電機［２０２６．０１］",
+      "en": "Dispersed power generation using fossil fuels, e.g. diesel generators",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J101/20": {
+      "code": "H02J101/20",
+      "level": 1,
+      "parent": "H02J101/00",
+      "ja": "再生可能エネルギー資源を用いる分散型発電［２０２６．０１］",
+      "en": "Dispersed power generation using renewable energy sources",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J101/22": {
+      "code": "H02J101/22",
+      "level": 2,
+      "parent": "H02J101/20",
+      "ja": "太陽エネルギー［２０２６．０１］",
+      "en": "Solar energy",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J101/24": {
+      "code": "H02J101/24",
+      "level": 3,
+      "parent": "H02J101/22",
+      "ja": "太陽光発電［２０２６．０１］",
+      "en": "Photovoltaics",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J101/28": {
+      "code": "H02J101/28",
+      "level": 2,
+      "parent": "H02J101/20",
+      "ja": "風力エネルギー［２０２６．０１］",
+      "en": "Wind energy",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J101/30": {
+      "code": "H02J101/30",
+      "level": 2,
+      "parent": "H02J101/20",
+      "ja": "燃料電池［２０２６．０１］",
+      "en": "Fuel cells",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J101/35": {
+      "code": "H02J101/35",
+      "level": 2,
+      "parent": "H02J101/20",
+      "ja": "再生可能な炭化水素資源［２０２６．０１］",
+      "en": "Renewable hydrocarbon sources",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J101/40": {
+      "code": "H02J101/40",
+      "level": 1,
+      "parent": "H02J101/00",
+      "ja": "ハイブリッド発電所，すなわち複数の異なる発電技術が１つの発電所で稼働されること［２０２６．０１］",
+      "en": "Hybrid power plants, i.e. a plurality of different generation technologies being operated at one power plant",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J103/00": {
+      "code": "H02J103/00",
+      "level": 0,
+      "parent": "H02J",
+      "ja": "幹線または交流配電網のための回路装置の細部［２０２６．０１］",
+      "en": "Details of circuit arrangements for mains or AC distribution networks",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J103/30": {
+      "code": "H02J103/30",
+      "level": 1,
+      "parent": "H02J103/00",
+      "ja": "電力回路網の模擬，設計，モデル化，信頼性チェックまたはコンピュータ支援設計［ＣＡＤ］［２０２６．０１］",
+      "en": "Simulating, planning, modelling, reliability check or computer assisted design [CAD] of electric power networks",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J103/35": {
+      "code": "H02J103/35",
+      "level": 2,
+      "parent": "H02J103/30",
+      "ja": "送電または配電方式の送電網レベル管理，例．負荷フロー解析またはアクティブネットワーク管理［２０２６．０１］",
+      "en": "Grid-level management of power transmission or distribution systems, e.g. load flow analysis or active network management",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J103/40": {
+      "code": "H02J103/40",
+      "level": 1,
+      "parent": "H02J103/00",
+      "ja": "予測負荷需要に対応した回路装置［２０２６．０１］",
+      "en": "Circuit arrangements adaptive to forecasted demand",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J103/50": {
+      "code": "H02J103/50",
+      "level": 1,
+      "parent": "H02J103/00",
+      "ja": "予測発電に対応した回路装置［２０２６．０１］",
+      "en": "Circuit arrangements adaptive to forecasted power generation",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J105/00": {
+      "code": "H02J105/00",
+      "level": 0,
+      "parent": "H02J",
+      "ja": "空間的到達範囲または負荷に特徴のある給電または配電のための回路網［２０２６．０１］",
+      "en": "Networks for supplying or distributing electric power characterised by their spatial reach or by the load",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J105/10": {
+      "code": "H02J105/10",
+      "level": 1,
+      "parent": "H02J105/00",
+      "ja": "局所的または区切られた到達範囲をもつ局所的回路網［２０２６．０１］",
+      "en": "Local stationary networks having a local or delimited stationary reach",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J105/12": {
+      "code": "H02J105/12",
+      "level": 2,
+      "parent": "H02J105/10",
+      "ja": "住居またはビルディングに給電するもの［２０２６．０１］",
+      "en": "supplying households or buildings",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J105/16": {
+      "code": "H02J105/16",
+      "level": 2,
+      "parent": "H02J105/10",
+      "ja": "電源または発電プラント内にあるもの［２０２６．０１］",
+      "en": "being internal to power sources or power generation plants",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J105/30": {
+      "code": "H02J105/30",
+      "level": 1,
+      "parent": "H02J105/00",
+      "ja": "負荷回路網が車両の外にあるもの，すなわち車両と電力を交換するもの［２０２６．０１］",
+      "en": "the load networks being external to vehicles, i.e. exchanging power with vehicles",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J105/33": {
+      "code": "H02J105/33",
+      "level": 2,
+      "parent": "H02J105/30",
+      "ja": "陸上車両と電力を交換するもの［２０２６．０１］",
+      "en": "exchanging power with road vehicles",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J105/37": {
+      "code": "H02J105/37",
+      "level": 3,
+      "parent": "H02J105/33",
+      "ja": "電気自動車［ＥＶ］と，またはハイブリッド自動車［ＨＥＶ］と電力を交換するもの［２０２６．０１］",
+      "en": "exchanging power with electric vehicles [EV] or with hybrid electric vehicles [HEV]",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J105/40": {
+      "code": "H02J105/40",
+      "level": 1,
+      "parent": "H02J105/00",
+      "ja": "前記回路網に接続するまたは前記回路網により給電される前記負荷に特徴のあるもの［２０２６．０１］",
+      "en": "characterised by the loads connecting to the networks or being supplied by the networks",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J105/42": {
+      "code": "H02J105/42",
+      "level": 2,
+      "parent": "H02J105/40",
+      "ja": "家電製品［２０２６．０１］",
+      "en": "Home appliances",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J105/44": {
+      "code": "H02J105/44",
+      "level": 2,
+      "parent": "H02J105/40",
+      "ja": "携帯用電子機器［２０２６．０１］",
+      "en": "Portable electronic devices",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J105/46": {
+      "code": "H02J105/46",
+      "level": 2,
+      "parent": "H02J105/40",
+      "ja": "医療機器，医療用インプラントまたは生命維持装置［２０２６．０１］",
+      "en": "Medical devices, medical implants or life supporting devices",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J105/50": {
+      "code": "H02J105/50",
+      "level": 1,
+      "parent": "H02J105/00",
+      "ja": "負荷の動作を選択的に制御するためのもの［２０２６．０１］",
+      "en": "for selectively controlling the operation of the loads",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J105/52": {
+      "code": "H02J105/52",
+      "level": 2,
+      "parent": "H02J105/50",
+      "ja": "前記回路網内または前記回路網内の一部分の電力消費の制限のためのもの，例．部分的送電停止，ピークカット［２０２６．０１］",
+      "en": "for limitation of the power consumption in the networks or in one section of the networks, e.g. load shedding or peak shaving",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J105/53": {
+      "code": "H02J105/53",
+      "level": 3,
+      "parent": "H02J105/52",
+      "ja": "部分的な電力制限のためのもの，例．低下モードまたは電流制限モードに入るもの［２０２６．０１］",
+      "en": "for partial power limitation, e.g. entering degraded or current limitation modes",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J105/54": {
+      "code": "H02J105/54",
+      "level": 2,
+      "parent": "H02J105/50",
+      "ja": "非電気的な条件に基づくもの，例．温度［２０２６．０１］",
+      "en": "according to a non-electrical condition, e.g. temperature",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J105/55": {
+      "code": "H02J105/55",
+      "level": 3,
+      "parent": "H02J105/54",
+      "ja": "経済事情に基づくもの，例．料金表ベースの負荷管理［２０２６．０１］",
+      "en": "according to an economic condition, e.g. tariff-based load management",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J107/00": {
+      "code": "H02J107/00",
+      "level": 0,
+      "parent": "H02J",
+      "ja": "電力網の運用を遠隔で監視，管理または制御することに特に適合する通信用回路装置［２０２６．０１］",
+      "en": "Circuit arrangements for communication specially adapted for monitoring, managing or controlling operation of power networks remotely",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J107/10": {
+      "code": "H02J107/10",
+      "level": 1,
+      "parent": "H02J107/00",
+      "ja": "有線ネットワークを用いるもの，例．データ伝送バスまたは光ファイバ［２０２６．０１］",
+      "en": "using wired networks, e.g. data transmission buses or optical fibres",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J107/105": {
+      "code": "H02J107/105",
+      "level": 2,
+      "parent": "H02J107/10",
+      "ja": "電力線通信［ＰＬＣ］［２０２６．０１］",
+      "en": "Power line communication [PLC]",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J107/20": {
+      "code": "H02J107/20",
+      "level": 1,
+      "parent": "H02J107/00",
+      "ja": "無線ネットワークを用いるもの，例．携帯電話［２０２６．０１］",
+      "en": "using wireless networks, e.g. mobile telephones",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    },
+    "H02J107/30": {
+      "code": "H02J107/30",
+      "level": 1,
+      "parent": "H02J107/00",
+      "ja": "インターネットプロトコルの使用を含むもの［２０２６．０１］",
+      "en": "involving the use of Internet protocols",
+      "count": 0,
+      "sourceFile": "ipc_H02J.txt",
+      "kind": "ipc"
+    }
+  }
+}

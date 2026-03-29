@@ -1,0 +1,446 @@
+{
+  "generatedAt": "2026-03-20T02:17:45.944Z",
+  "total": 44,
+  "entries": {
+    "A61H": {
+      "code": "A61H",
+      "level": 0,
+      "parent": "A61",
+      "ja": "物理的な治療装置，例．人体のつぼの位置を検出または刺激する装置；人工呼吸；マッサージ；特別な治療または人体の特定の部分のための入浴装置（電気治療，磁気治療，放射線治療，超音波治療Ａ６１Ｎ）<br><br><b><ul>注</ul></b><br>このサブクラスにおいては，下記の表現は以下に示す意味で用いる；<br>―“物理的な治療”という言葉は薬剤または手術に相対するような方法，例．機械的方法，による病気または不具の処置を含む。それは，例えばマッサージ，渦流浴，および受動的な身体訓練のための装置を含む。<br><br><b><ul>サブクラス内の索引</ul></b><br>病人または身体障害者歩行補助器具　３／００<br>受動的な身体訓練のための装置，目の訓練器具　１／００，５／００<br>マッサージ<br>マッサージの手法　７／００，９／００，１５／００，２３／００<br>マッサージ用のベルト，ひも，くし　１１／００<br>身体の特定な部分のマッサージおよびその用具　１３／００，１９／００，２１／００<br>マッサージ用補助具　３７／００<br>人工呼吸　３１／００<br>治療または衛生のための入浴　３３／００，３５／００，３６／００<br>人体のつぼの位置を検出または刺激する装置　３９／００<br>このサブクラスの他のグループに分類されない主題事項　９９／００",
+      "en": "PHYSICAL THERAPY APPARATUS, e.g. DEVICES FOR LOCATING OR STIMULATING REFLEX POINTS IN THE BODY; ARTIFICIAL RESPIRATION; MASSAGE; BATHING DEVICES FOR SPECIAL THERAPEUTIC OR HYGIENIC PURPOSES OR SPECIFIC PARTS OF THE BODY(electrotherapy, magnetotherapy, radiation therapy or ultrasound therapy <b>A61N</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>In this subclass, the following expression is used with the meaning indicated:<ul><li>\"physical therapy\" covers the treatment of disease or disability by means, e.g. mechanical means, as opposed to drugs or surgery. It includes, by way of example, massage, whirlpool baths and devices for exercising a passive body member.</li></ul></li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">APPLIANCES FOR AIDING PATIENTS OR DISABLED PERSONS TO WALK ABOUT </td><td><b><b>3/00</b></b></td></tr></tr><tr><td width=\"70%\">APPARATUS FOR PASSIVE EXERCISING, FOR EXERCISING THE EYES </td><td><b><b>1/00</b>, <b>5/00</b></b></td></tr></tr><tr><td width=\"70%\">MASSAGE<tr><td width=\"70%\">Techniques of massage </td><td><b><b>7/00</b>, <b>9/00</b>, <b>15/00</b>, <b>23/00</b></b></td></tr></tr><tr><td width=\"70%\">Belts, strips or combs for massage </td><td><b><b>11/00</b></b></td></tr></tr><tr><td width=\"70%\">Massage of particular parts of the body and devices therefor </td><td><b><b>13/00</b>, <b>19/00</b>, <b>21/00</b></b></td></tr></tr><tr><td width=\"70%\">Accessories for massage </td><td><b><b>37/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">ARTIFICIAL RESPIRATION </td><td><b><b>31/00</b></b></td></tr></tr><tr><td width=\"70%\">THERAPEUTIC OR HYGIENIC BATHING </td><td><b><b>33/00</b>, <b>35/00</b>, <b>36/00</b></b></td></tr></tr><tr><td width=\"70%\">DEVICES FOR LOCATING OR STIMULATING REFLEX POINTS OF THE BODY </td><td><b><b>39/00</b></b></td></tr></tr><tr><td width=\"70%\">SUBJECT MATTER NOT PROVIDED FOR IN OTHER GROUPS OF THIS SUBCLASS </td><td><b><b>99/00</b></b></td></tr></tr></table>",
+      "count": 2714,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A61": {
+      "code": "A61",
+      "level": 0,
+      "parent": "A",
+      "ja": "医学または獣医学；衛生学",
+      "en": "MEDICAL OR VETERINARY SCIENCE; HYGIENE",
+      "count": 0,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A": {
+      "code": "A",
+      "level": 0,
+      "parent": null,
+      "ja": "生活必需品",
+      "en": "HUMAN NECESSITIES",
+      "count": 0,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A61H1/00": {
+      "code": "A61H1/00",
+      "level": 0,
+      "parent": "A61H",
+      "ja": "受動的な身体訓練のための装置（Ａ６１Ｈ５／００が優先）；バイブレーション装置；カイロプラクティク器具，例．身体に衝撃を与える器具，折れていない骨を短時間引き伸ばしまたは整復させる外部器具［２］<br><br><b><ul>注</ul></b><br>このグループは，整形外科の方法または器具は包含しない。これらはグループＡ６１Ｆ５／００に包含される。［７］",
+      "en": "Apparatus for passive exercising(<b>A61H5/00</b> takes precedence);Vibrating apparatus; Chiropractic devices, e.g. body impacting devices, external devices for briefly extending or aligning unbroken bones ; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This group <u>does not cover</u> orthopaedic methods or devices, which are covered by group <b>A61F5/00</b></li></ul>",
+      "count": 23988,
+      "sourceFile": "ipc_A61H.txt",
+      "kind": "ipc"
+    },
+    "A61H1/02": {
+      "code": "A61H1/02",
+      "level": 1,
+      "parent": "A61H1/00",
+      "ja": "運動のための伸長または屈曲装置",
+      "en": "Stretching or bending apparatus for exercising",
+      "count": 44441,
+      "sourceFile": "ipc_A61H.txt",
+      "kind": "ipc"
+    },
+    "A61H3/00": {
+      "code": "A61H3/00",
+      "level": 0,
+      "parent": "A61H",
+      "ja": "病人または身体障害者歩行補助器具（幼児用歩行補助器Ａ４７Ｄ１３／０４）",
+      "en": "Appliances for aiding patients or disabled persons to walk about(apparatus for helping babies to walk <b>A47D13/04</b>)",
+      "count": 14114,
+      "sourceFile": "ipc_A61H.txt",
+      "kind": "ipc"
+    },
+    "A61H3/02": {
+      "code": "A61H3/02",
+      "level": 1,
+      "parent": "A61H3/00",
+      "ja": "松葉づえ",
+      "en": "Crutches",
+      "count": 6784,
+      "sourceFile": "ipc_A61H.txt",
+      "kind": "ipc"
+    },
+    "A61H3/04": {
+      "code": "A61H3/04",
+      "level": 1,
+      "parent": "A61H3/00",
+      "ja": "病人または身体障害者のための車輪のついた歩行補助具",
+      "en": "Wheeled walking aids for patients or disabled persons",
+      "count": 12209,
+      "sourceFile": "ipc_A61H.txt",
+      "kind": "ipc"
+    },
+    "A61H3/06": {
+      "code": "A61H3/06",
+      "level": 1,
+      "parent": "A61H3/00",
+      "ja": "盲目者のための歩行補助具（直接の視覚を他の知覚に換えるものＡ６１Ｆ９／０８）",
+      "en": "Walking aids for blind persons(replacing direct visual perception by another kind of perception <b>A61F9/08</b>)",
+      "count": 5363,
+      "sourceFile": "ipc_A61H.txt",
+      "kind": "ipc"
+    },
+    "A61H5/00": {
+      "code": "A61H5/00",
+      "level": 0,
+      "parent": "A61H",
+      "ja": "目の訓練器具",
+      "en": "Exercisers for the eyes",
+      "count": 5908,
+      "sourceFile": "ipc_A61H.txt",
+      "kind": "ipc"
+    },
+    "A61H7/00": {
+      "code": "A61H7/00",
+      "level": 0,
+      "parent": "A61H",
+      "ja": "吸引もみマッサージ装置；他に分類されない摩擦またはブラッシングにより皮膚をマッサージする装置（接触電極による電流を適用した電気治療マッサージ装置Ａ６１Ｎ１／１８）",
+      "en": "Devices for suction-kneading massage; Devices for massaging the skin by rubbing or brushing not otherwise provided for(electro-medical massage devices applying electric current by contact <b>A61N1/18</b>)",
+      "count": 53484,
+      "sourceFile": "ipc_A61H.txt",
+      "kind": "ipc"
+    },
+    "A61H9/00": {
+      "code": "A61H9/00",
+      "level": 0,
+      "parent": "A61H",
+      "ja": "空気または水マッサージ",
+      "en": "Pneumatic or hydraulic massage",
+      "count": 23998,
+      "sourceFile": "ipc_A61H.txt",
+      "kind": "ipc"
+    },
+    "A61H11/00": {
+      "code": "A61H11/00",
+      "level": 0,
+      "parent": "A61H",
+      "ja": "マッサージ用のベルト，ひも，くし",
+      "en": "Belts, strips, or combs for massage purposes",
+      "count": 3479,
+      "sourceFile": "ipc_A61H.txt",
+      "kind": "ipc"
+    },
+    "A61H11/02": {
+      "code": "A61H11/02",
+      "level": 1,
+      "parent": "A61H11/00",
+      "ja": "縦に振動するひもによるマッサージ装置",
+      "en": "Massage devices with strips oscillating lengthwise",
+      "count": 726,
+      "sourceFile": "ipc_A61H.txt",
+      "kind": "ipc"
+    },
+    "A61H13/00": {
+      "code": "A61H13/00",
+      "level": 0,
+      "parent": "A61H",
+      "ja": "歯肉マッサージ",
+      "en": "Gum massage",
+      "count": 1996,
+      "sourceFile": "ipc_A61H.txt",
+      "kind": "ipc"
+    },
+    "A61H15/00": {
+      "code": "A61H15/00",
+      "level": 0,
+      "parent": "A61H",
+      "ja": "ローラー，ボール，例．膨張するもの，チエンまたはローラーチエンによるマッサージ",
+      "en": "Massage by means of rollers, balls, e.g. inflatable, chains, or roller chains",
+      "count": 41899,
+      "sourceFile": "ipc_A61H.txt",
+      "kind": "ipc"
+    },
+    "A61H15/02": {
+      "code": "A61H15/02",
+      "level": 1,
+      "parent": "A61H15/00",
+      "ja": "光，熱，薬品による治療と同時に行うように適応させたもの",
+      "en": "adapted for simultaneous treatment with light, heat, or drugs",
+      "count": 9288,
+      "sourceFile": "ipc_A61H.txt",
+      "kind": "ipc"
+    },
+    "A61H19/00": {
+      "code": "A61H19/00",
+      "level": 0,
+      "parent": "A61H",
+      "ja": "生殖器のマッサージ",
+      "en": "Massage of the genitals",
+      "count": 5657,
+      "sourceFile": "ipc_A61H.txt",
+      "kind": "ipc"
+    },
+    "A61H21/00": {
+      "code": "A61H21/00",
+      "level": 0,
+      "parent": "A61H",
+      "ja": "人体の腔部をマッサージする用具",
+      "en": "Massage devices for cavities of the body",
+      "count": 2367,
+      "sourceFile": "ipc_A61H.txt",
+      "kind": "ipc"
+    },
+    "A61H23/00": {
+      "code": "A61H23/00",
+      "level": 0,
+      "parent": "A61H",
+      "ja": "打撃またはバイブレーションマッサージ，例．超音波振動を用いるもの；吸引－バイブレーションマッサージ；可動ダイヤフラムによるマッサージ",
+      "en": "Percussion or vibration massage, e.g. using supersonic vibration; Suction-vibration massage; Massage with moving diaphragms",
+      "count": 13606,
+      "sourceFile": "ipc_A61H.txt",
+      "kind": "ipc"
+    },
+    "A61H23/02": {
+      "code": "A61H23/02",
+      "level": 1,
+      "parent": "A61H23/00",
+      "ja": "電気的または磁気的駆動によるもの［２］",
+      "en": "with electric or magnetic drive",
+      "count": 47269,
+      "sourceFile": "ipc_A61H.txt",
+      "kind": "ipc"
+    },
+    "A61H23/04": {
+      "code": "A61H23/04",
+      "level": 1,
+      "parent": "A61H23/00",
+      "ja": "水または空気の駆動によるもの",
+      "en": "with hydraulic or pneumatic drive",
+      "count": 5089,
+      "sourceFile": "ipc_A61H.txt",
+      "kind": "ipc"
+    },
+    "A61H23/06": {
+      "code": "A61H23/06",
+      "level": 1,
+      "parent": "A61H23/00",
+      "ja": "手による打撃",
+      "en": "Hand percussion",
+      "count": 2621,
+      "sourceFile": "ipc_A61H.txt",
+      "kind": "ipc"
+    },
+    "A61H31/00": {
+      "code": "A61H31/00",
+      "level": 0,
+      "parent": "A61H",
+      "ja": "胸部に加えられる力による人工呼吸；心臓刺激，例．心臓マッサージ（刺激のために接触電極により電流を加えるもの，例．心臓ペースメーカーＡ６１Ｎ１／３６）［２００６．０１］",
+      "en": "Artificial respiration by a force applied to the chest; Heart stimulation, e.g. heart massage  (applying electric currents by contact electrodes for stimulation, e.g. heart pace-makers, <b>A61N1/36</b>)",
+      "count": 5846,
+      "sourceFile": "ipc_A61H.txt",
+      "kind": "ipc"
+    },
+    "A61H31/02": {
+      "code": "A61H31/02",
+      "level": 1,
+      "parent": "A61H31/00",
+      "ja": "鉄の肺［２００６．０１］",
+      "en": "Iron lungs",
+      "count": 963,
+      "sourceFile": "ipc_A61H.txt",
+      "kind": "ipc"
+    },
+    "A61H33/00": {
+      "code": "A61H33/00",
+      "level": 0,
+      "parent": "A61H",
+      "ja": "特別の治療または衛生のための入浴装置（Ａ６１Ｈ３５／００が優先；水中でおこなわれる腸洗浄のためのものＡ６１Ｍ９／００；イオン化した流体を用いた電気または磁気浴Ａ６１Ｎ１／４４）［６］",
+      "en": "Bathing devices for special therapeutic or hygienic purposes(<b>A61H35/00</b> takes precedence; for subaquatic intestinal cleaning <b>A61M9/00</b>; electric or magnetic baths, applying ionised fluids <b>A61N1/44</b>)",
+      "count": 12464,
+      "sourceFile": "ipc_A61H.txt",
+      "kind": "ipc"
+    },
+    "A61H33/02": {
+      "code": "A61H33/02",
+      "level": 1,
+      "parent": "A61H33/00",
+      "ja": "ガスを含有する液体またはガスを導入または発生させた液体と共に用いる入浴装置，例．二酸化炭素浴",
+      "en": "Bathing devices for use with gas-containing liquid, or liquid in which gas is led or generated, e.g. carbon dioxide baths",
+      "count": 4209,
+      "sourceFile": "ipc_A61H.txt",
+      "kind": "ipc"
+    },
+    "A61H33/04": {
+      "code": "A61H33/04",
+      "level": 1,
+      "parent": "A61H33/00",
+      "ja": "砂，泥または泡浴のための器具；メタル浴のための器具，例．金属塩溶液を用いるもの［６］",
+      "en": "Appliances for sand, mud, or foam baths; Appliances for metal baths, e.g. using metal salt solutions",
+      "count": 2097,
+      "sourceFile": "ipc_A61H.txt",
+      "kind": "ipc"
+    },
+    "A61H33/06": {
+      "code": "A61H33/06",
+      "level": 1,
+      "parent": "A61H33/00",
+      "ja": "人工的加熱空気または冷却空気浴；蒸気またはガス浴または灌注浴，例．サウナ風呂またはフィンランド風呂（空気室Ａ６１Ｇ１０／００）",
+      "en": "Artificial hot-air or cold-air baths; Steam or gas baths or douches, e.g. sauna or Finnish baths(pneumatic chambers <b>A61G10/00</b>)",
+      "count": 19284,
+      "sourceFile": "ipc_A61H.txt",
+      "kind": "ipc"
+    },
+    "A61H33/08": {
+      "code": "A61H33/08",
+      "level": 2,
+      "parent": "A61H33/06",
+      "ja": "衛生のための空気灌注浴",
+      "en": "Air douches for hygienic purposes",
+      "count": 439,
+      "sourceFile": "ipc_A61H.txt",
+      "kind": "ipc"
+    },
+    "A61H33/10": {
+      "code": "A61H33/10",
+      "level": 2,
+      "parent": "A61H33/06",
+      "ja": "蒸気浴槽装置",
+      "en": "Devices on tubs for steam baths",
+      "count": 2073,
+      "sourceFile": "ipc_A61H.txt",
+      "kind": "ipc"
+    },
+    "A61H33/12": {
+      "code": "A61H33/12",
+      "level": 2,
+      "parent": "A61H33/06",
+      "ja": "顔面の蒸気浴",
+      "en": "Steam baths for the face",
+      "count": 2637,
+      "sourceFile": "ipc_A61H.txt",
+      "kind": "ipc"
+    },
+    "A61H33/14": {
+      "code": "A61H33/14",
+      "level": 1,
+      "parent": "A61H33/00",
+      "ja": "オゾン，水素，または類似物のガス浴装置",
+      "en": "Devices for gas baths with ozone, hydrogen, or the like",
+      "count": 2321,
+      "sourceFile": "ipc_A61H.txt",
+      "kind": "ipc"
+    },
+    "A61H35/00": {
+      "code": "A61H35/00",
+      "level": 0,
+      "parent": "A61H",
+      "ja": "人体の特殊な部分のための入浴，例．胸部灌注浴（上方へのスプレー手段を有しないビデＡ４７Ｋ３／２６；臀部を清浄する器具Ａ４７Ｋ７／０８；水中で行われる腸洗浄のためのものＡ６１Ｍ９／００）［６］",
+      "en": "Baths for specific parts of the body, e.g. breast douches(bidets without upward-spraying means <b>A47K3/26</b>; devices for cleaning the buttocks <b>A47K7/08</b>; for subaquatic intestinal cleaning <b>A61M9/00</b>)",
+      "count": 9209,
+      "sourceFile": "ipc_A61H.txt",
+      "kind": "ipc"
+    },
+    "A61H35/02": {
+      "code": "A61H35/02",
+      "level": 1,
+      "parent": "A61H35/00",
+      "ja": "目のためのもの［６］",
+      "en": "for the eyes",
+      "count": 3784,
+      "sourceFile": "ipc_A61H.txt",
+      "kind": "ipc"
+    },
+    "A61H35/04": {
+      "code": "A61H35/04",
+      "level": 1,
+      "parent": "A61H35/00",
+      "ja": "鼻のためのもの［６］",
+      "en": "for the nose",
+      "count": 3145,
+      "sourceFile": "ipc_A61H.txt",
+      "kind": "ipc"
+    },
+    "A61H36/00": {
+      "code": "A61H36/00",
+      "level": 0,
+      "parent": "A61H",
+      "ja": "発汗着",
+      "en": "Sweating suits",
+      "count": 304,
+      "sourceFile": "ipc_A61H.txt",
+      "kind": "ipc"
+    },
+    "A61H37/00": {
+      "code": "A61H37/00",
+      "level": 0,
+      "parent": "A61H",
+      "ja": "マッサージ用補助具［６］",
+      "en": "Accessories for massage",
+      "count": 3932,
+      "sourceFile": "ipc_A61H.txt",
+      "kind": "ipc"
+    },
+    "A61H39/00": {
+      "code": "A61H39/00",
+      "level": 0,
+      "parent": "A61H",
+      "ja": "物理療法のため人体の特定のつぼの位置を検出または刺激する装置，例，鍼術（生体電気信号の検出によるものＡ６１Ｂ５／２４；電流または磁場を用いる検出Ａ６１Ｂ５／０５）［２００６．０１］",
+      "en": "Devices for locating or stimulating specific reflex points of the body for physical therapy, e.g. acupuncture (locating by using electric currents or magnetic fields <b>A61B5/05</b>;  locating by bioelectric signal detection <b>A61B5/24</b>)",
+      "count": 11567,
+      "sourceFile": "ipc_A61H.txt",
+      "kind": "ipc"
+    },
+    "A61H39/02": {
+      "code": "A61H39/02",
+      "level": 1,
+      "parent": "A61H39/00",
+      "ja": "つぼの位置を検出する装置［２］",
+      "en": "Devices for locating such points",
+      "count": 3537,
+      "sourceFile": "ipc_A61H.txt",
+      "kind": "ipc"
+    },
+    "A61H39/04": {
+      "code": "A61H39/04",
+      "level": 1,
+      "parent": "A61H39/00",
+      "ja": "つぼを圧迫する装置，例．指圧［２］",
+      "en": "Devices for pressing such points, e.g. shiatsu",
+      "count": 41819,
+      "sourceFile": "ipc_A61H.txt",
+      "kind": "ipc"
+    },
+    "A61H39/06": {
+      "code": "A61H39/06",
+      "level": 1,
+      "parent": "A61H39/00",
+      "ja": "つぼを細胞の生命限界内で加熱または冷却する装置［２］",
+      "en": "Devices for heating or cooling such points within cell-life limits",
+      "count": 31844,
+      "sourceFile": "ipc_A61H.txt",
+      "kind": "ipc"
+    },
+    "A61H39/08": {
+      "code": "A61H39/08",
+      "level": 1,
+      "parent": "A61H39/00",
+      "ja": "つぼに鍼を適用する，すなわち鍼療法の，ための用具［２］",
+      "en": "Devices for applying needles to such points, i.e. for acupuncture",
+      "count": 13006,
+      "sourceFile": "ipc_A61H.txt",
+      "kind": "ipc"
+    },
+    "A61H99/00": {
+      "code": "A61H99/00",
+      "level": 0,
+      "parent": "A61H",
+      "ja": "このサブクラスの他のグループに分類されない主題事項［８］",
+      "en": "Subject matter not provided for in other groups of this subclass",
+      "count": 1159,
+      "sourceFile": "ipc_A61H.txt",
+      "kind": "ipc"
+    }
+  }
+}

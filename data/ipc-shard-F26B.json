@@ -1,0 +1,1366 @@
+{
+  "generatedAt": "2026-03-20T02:17:46.928Z",
+  "total": 136,
+  "entries": {
+    "F26B": {
+      "code": "F26B",
+      "level": 0,
+      "parent": "F26",
+      "ja": "固体材料または固形物から液体を除去することによる乾燥（コンバインの乾燥装置Ａ０１Ｄ４１／１３３；果物または野菜の乾燥棚Ａ０１Ｆ２５／１２；食品の乾燥Ａ２３；頭髪の乾燥Ａ４５Ｄ２０／００；身体の乾燥用具Ａ４７Ｋ１０／００；家庭用具の乾燥Ａ４７Ｌ；ガスまたは蒸気の乾燥Ｂ０１Ｄ；脱水または固体からの液体の類似の分離のための化学的あるいは物理的プロセスＢ０１Ｄ４３／００；遠心分離装置Ｂ０４；セラミックの乾燥Ｃ０４Ｂ３３／３０；他の処理と関連した織り糸または織物の乾燥Ｄ０６Ｃ；加熱または強制空気循環のない洗たく物の乾燥枠，家庭用洗たく物乾燥機または遠心脱水機，洗たく物の搾水または熱プレスＤ０６Ｆ；炉，キルン，オーブンＦ２７）<br><br><b><ul>サブクラス内の索引</ul></b><br>サブクラス内の索引<br>乾燥プロセス<br>予備処理　１／００<br>プロセス；加熱を伴なうもの；加熱を伴なわないもの；両者の結合によるもの　３／００；５／００；７／００<br>乾燥のための機械または装置<br>静止してまたは部分的に振り動かして乾燥する物品を有するもの，家庭用の空気乾燥装置　９／００<br>非前送り運動をするもの　１１／００<br>前送り運動をするもの：織物または織糸に適したもの；物品およびひとかたまりの材料に適したもの；ひとかたまりになっていない材料に適したもの　１３／００；１５／００；１７／００<br>その他のもの　１９／００<br>上記のものの２以上を結合したもの　２０／００<br>一般に応用される装置または細部<br>乾燥用空気または他のガスのための装置；加熱　２１／００；２３／００<br>その他の細部　２５／００",
+      "en": "DRYING SOLID MATERIALS OR OBJECTS BY REMOVING LIQUID THEREFROM(drying devices for combines <b>A01D41/133</b>; racks for drying fruit or vegetables <b>A01F25/12</b>; drying foodstuffs <b>A23</b>; drying hair <b>A45D20/00</b>; body-drying implements <b>A47K10/00</b>; drying household articles <b>A47L</b>; drying gases or vapours <b>B01D</b>; chemical or physical processes for dewatering or like separating liquids from solids <b>B01D43/00</b>; centrifugal apparatus <b>B04</b>; drying ceramics <b>C04B33/30</b>; drying yarns or fabrics in association with some other form of treatment <b>D06C</b>; drying frames for laundry without heating or positive air circulation, domestic laundry-or spin-driers, wringing or hot pressing laundry <b>D06F</b>; furnaces, kilns, ovens <b>F27</b>);<br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">PROCESSES FOR DRYING<tr><td width=\"70%\">Preliminary treatment</td><td><b><b>1/00</b></b></td></tr></tr><tr><td width=\"70%\">Processes: with heat; without heat; by combination of both types</td><td><b><b>3/00</b>; <b>5/00</b>; <b>7/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">MACHINES OR APPARATUS FOR DRYING<tr><td width=\"70%\">With articles to be dried at rest or locally agitated, domestic airing</td><td><b><b>9/00</b></b></td></tr></tr><tr><td width=\"70%\">With non-progressive movement</td><td><b><b>11/00</b></b></td></tr></tr><tr><td width=\"70%\">With progressive movement: for fabrics or yarns; for articles and compact batches; for material not in compact batches</td><td><b><b>13/00</b>; <b>15/00</b>; <b>17/00</b></b></td></tr></tr><tr><td width=\"70%\">Other kinds</td><td><b><b>19/00</b></b></td></tr></tr><tr><td width=\"70%\">Combinations using at least two of the above kinds</td><td><b><b>20/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">ARRANGEMENTS OR DETAILS OF GENERAL APPLICATIONS<tr><td width=\"70%\">Arrangements for air or other gases for drying; heating</td><td><b><b>21/00</b>; <b>23/00</b></b></td></tr></tr><tr><td width=\"70%\">Other details</td><td><b><b>25/00</b></b></td></tr></tr></tr></table>",
+      "count": 1623,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F26": {
+      "code": "F26",
+      "level": 0,
+      "parent": "F",
+      "ja": "乾燥",
+      "en": "DRYING",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F": {
+      "code": "F",
+      "level": 0,
+      "parent": null,
+      "ja": "機械工学；照明；加熱；武器；爆破",
+      "en": "MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F26B1/00": {
+      "code": "F26B1/00",
+      "level": 0,
+      "parent": "F26B",
+      "ja": "乾燥促進のための固体材料または物体の予備処理",
+      "en": "Preliminary treatment of solid materials or objects to facilitate drying",
+      "count": 6034,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B3/00": {
+      "code": "F26B3/00",
+      "level": 0,
+      "parent": "F26B",
+      "ja": "加熱を伴うプロセスによる固体材料または物体の乾燥（特定の機械または装置におけるものＦ２６Ｂ９／００～Ｆ２６Ｂ１９／００）",
+      "en": "Drying solid materials or objects by processes involving the application of heat(in specific machines or apparatus <b>F26B9/00 to F26B19/00</b> )",
+      "count": 3602,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B3/02": {
+      "code": "F26B3/02",
+      "level": 1,
+      "parent": "F26B3/00",
+      "ja": "対流によるもの，すなわちガスまたは蒸気，例．空気，で熱源より被乾燥材料または物体に伝達される熱によるもの",
+      "en": "by convection, i.e. heat being conveyed from a heat source to the materials or objects to be dried by a gas or vapour, e.g. air",
+      "count": 4208,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B3/04": {
+      "code": "F26B3/04",
+      "level": 2,
+      "parent": "F26B3/02",
+      "ja": "ガスまたは蒸気が被乾燥材料または物体を覆うように循環または包囲するもの（Ｆ２６Ｂ３／１４が優先）",
+      "en": "the gas or vapour circulating over, or surrounding, the materials or objects to be dried(<b>F26B3/14</b> takes precedence)",
+      "count": 3988,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B3/06": {
+      "code": "F26B3/06",
+      "level": 2,
+      "parent": "F26B3/02",
+      "ja": "ガスまたは蒸気が被乾燥材料または物体を通って流れるもの（Ｆ２６Ｂ３／１４が優先）",
+      "en": "the gas or vapour flowing through the materials or objects to be dried(<b>F26B3/14</b> takes precedence)",
+      "count": 3634,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B3/08": {
+      "code": "F26B3/08",
+      "level": 3,
+      "parent": "F26B3/06",
+      "ja": "それらをばらばらにする，例．流動床を形成する，ためのもの",
+      "en": "so as to loosen them, e.g. to form a fluidised bed",
+      "count": 4675,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B3/084": {
+      "code": "F26B3/084",
+      "level": 4,
+      "parent": "F26B3/08",
+      "ja": "流動床内に熱交換部があるもの［５］",
+      "en": "with heat exchange taking place in the fluidised bed",
+      "count": 677,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B3/088": {
+      "code": "F26B3/088",
+      "level": 4,
+      "parent": "F26B3/08",
+      "ja": "不活性熱安定粒子を使うもの［５］",
+      "en": "using inert thermally-stabilised particles",
+      "count": 145,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B3/092": {
+      "code": "F26B3/092",
+      "level": 4,
+      "parent": "F26B3/08",
+      "ja": "流動床を揺動するもの，例．振動または衝撃によるもの［５］",
+      "en": "agitating the fluidised bed, e.g. by vibrating or pulsating",
+      "count": 1647,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B3/097": {
+      "code": "F26B3/097",
+      "level": 4,
+      "parent": "F26B3/08",
+      "ja": "流動床を安定させるために磁界を使うもの［５］",
+      "en": "using a magnetic field to stabilise the fluidised bed",
+      "count": 21,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B3/10": {
+      "code": "F26B3/10",
+      "level": 2,
+      "parent": "F26B3/02",
+      "ja": "ガスまたは蒸気が被乾燥材料または物体を搬送するためのもの",
+      "en": "the gas or vapour carrying the materials or objects to be dried with it",
+      "count": 814,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B3/12": {
+      "code": "F26B3/12",
+      "level": 3,
+      "parent": "F26B3/10",
+      "ja": "噴霧の形態によるもの",
+      "en": "in the form of a spray",
+      "count": 1831,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B3/14": {
+      "code": "F26B3/14",
+      "level": 2,
+      "parent": "F26B3/02",
+      "ja": "被乾燥材料または物体が重力により移動されるもの",
+      "en": "the materials or objects to be dried being moved by gravity",
+      "count": 248,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B3/16": {
+      "code": "F26B3/16",
+      "level": 3,
+      "parent": "F26B3/14",
+      "ja": "ガスまたは蒸気の向流中におけるもの",
+      "en": "in a counter-flow of the gas or vapour",
+      "count": 201,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B3/18": {
+      "code": "F26B3/18",
+      "level": 1,
+      "parent": "F26B3/00",
+      "ja": "伝導によるもの，すなわち熱源，例．ガス炎，から直接接触によって被乾燥材料または物体に運ばれる熱によるもの",
+      "en": "by conduction, i.e. the heat is conveyed from the heat source, e.g. gas flame, to the materials or objects to be dried by direct contact",
+      "count": 572,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B3/20": {
+      "code": "F26B3/20",
+      "level": 2,
+      "parent": "F26B3/18",
+      "ja": "熱源が加熱された面であるもの（Ｆ２６Ｂ３／２２が優先）",
+      "en": "the heat source being a heated surface(<b>F26B3/22</b> takes precedence)",
+      "count": 1444,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B3/22": {
+      "code": "F26B3/22",
+      "level": 2,
+      "parent": "F26B3/18",
+      "ja": "熱源および被乾燥材料または物体とが相対的な運動，例．振動の，状態にあるもの",
+      "en": "the heat source and the materials or objects to be dried being in relative motion, e.g. of vibration",
+      "count": 437,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B3/24": {
+      "code": "F26B3/24",
+      "level": 3,
+      "parent": "F26B3/22",
+      "ja": "運動が回転であるもの",
+      "en": "the movement being rotation",
+      "count": 620,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B3/26": {
+      "code": "F26B3/26",
+      "level": 3,
+      "parent": "F26B3/22",
+      "ja": "運動が重力によりなされるもの",
+      "en": "the movement being performed by gravity",
+      "count": 73,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B3/28": {
+      "code": "F26B3/28",
+      "level": 1,
+      "parent": "F26B3/00",
+      "ja": "輻射，例．太陽からの，によるもの",
+      "en": "by radiation, e.g. from the sun",
+      "count": 4857,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B3/30": {
+      "code": "F26B3/30",
+      "level": 2,
+      "parent": "F26B3/28",
+      "ja": "赤外線放射要素からのもの",
+      "en": "from infrared-emitting elements",
+      "count": 4785,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B3/32": {
+      "code": "F26B3/32",
+      "level": 1,
+      "parent": "F26B3/00",
+      "ja": "被乾燥材料または物体の内部発熱によるもの",
+      "en": "by development of heat within the materials or objects to be dried",
+      "count": 244,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B3/34": {
+      "code": "F26B3/34",
+      "level": 2,
+      "parent": "F26B3/32",
+      "ja": "電気的効果を用いるもの",
+      "en": "by using electrical effects",
+      "count": 1627,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B3/347": {
+      "code": "F26B3/347",
+      "level": 3,
+      "parent": "F26B3/34",
+      "ja": "電磁加熱，例．誘導加熱またはマイクロ波エネルギを用いるもの［４］",
+      "en": "Electromagnetic heating, e.g. induction heating or heating using microwave energy",
+      "count": 4624,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B3/353": {
+      "code": "F26B3/353",
+      "level": 3,
+      "parent": "F26B3/34",
+      "ja": "抵抗加熱によるもの［４］",
+      "en": "Resistance heating",
+      "count": 252,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B3/36": {
+      "code": "F26B3/36",
+      "level": 2,
+      "parent": "F26B3/32",
+      "ja": "機械的効果を用いるもの，例．摩擦による（超音波振動を用いるものＦ２６Ｂ５／０２）",
+      "en": "by using mechanical effects, e.g. by friction(by using ultrasonic vibration <b>F26B5/02</b>)",
+      "count": 96,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B5/00": {
+      "code": "F26B5/00",
+      "level": 0,
+      "parent": "F26B",
+      "ja": "加熱を伴わないプロセスによる固体材料または物体の乾燥（ろ過により固体から液体を分離することＢ０１Ｄ；他の液体により湿った固体中の液体を置換させること，例．アルコールによる水の置換，Ｂ０１Ｄ１２／００；電気泳動による乾燥Ｂ０１Ｊ）",
+      "en": "Drying solid materials or objects by processes not involving the application of heat(separating liquids from solids by straining <b>B01D</b>; replacing liquids in wet solids by other liquids, e.g. water by spirit, <b>B01D12/00</b>; drying by electrophoresis <b>B01J</b>)",
+      "count": 3633,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B5/02": {
+      "code": "F26B5/02",
+      "level": 1,
+      "parent": "F26B5/00",
+      "ja": "超音波振動を用いるもの［２００６．０１］",
+      "en": "by using ultrasonic vibrations",
+      "count": 503,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B5/04": {
+      "code": "F26B5/04",
+      "level": 1,
+      "parent": "F26B5/00",
+      "ja": "減圧，例．真空中，のもとで水分を蒸発または昇華させるもの",
+      "en": "by evaporation or sublimation of moisture under reduced pressure, e.g. in a vacuum",
+      "count": 12307,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B5/06": {
+      "code": "F26B5/06",
+      "level": 2,
+      "parent": "F26B5/04",
+      "ja": "凍結を伴うプロセス",
+      "en": "the process involving freezing",
+      "count": 7934,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B5/08": {
+      "code": "F26B5/08",
+      "level": 1,
+      "parent": "F26B5/00",
+      "ja": "遠心力による処理によるもの",
+      "en": "by centrifugal treatment",
+      "count": 10325,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B5/10": {
+      "code": "F26B5/10",
+      "level": 2,
+      "parent": "F26B5/08",
+      "ja": "凍結を伴うプロセス",
+      "en": "the process involving freezing",
+      "count": 104,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B5/12": {
+      "code": "F26B5/12",
+      "level": 1,
+      "parent": "F26B5/00",
+      "ja": "吸引によるもの",
+      "en": "by suction",
+      "count": 1415,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B5/14": {
+      "code": "F26B5/14",
+      "level": 1,
+      "parent": "F26B5/00",
+      "ja": "加圧，例．絞り出し，によるもの；ブラッシングによるもの；ふきとりによるもの",
+      "en": "by applying pressure, e.g. wringing; by brushing; by wiping",
+      "count": 9780,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B5/16": {
+      "code": "F26B5/16",
+      "level": 1,
+      "parent": "F26B5/00",
+      "ja": "吸収性物体，例．吸収材，との接触によるもの；吸収性材料との混合によるもの",
+      "en": "by contact with sorbent bodies, e.g. absorbent mould; by admixture with sorbent materials",
+      "count": 8355,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B7/00": {
+      "code": "F26B7/00",
+      "level": 0,
+      "parent": "F26B",
+      "ja": "グループＦ２６Ｂ３／００またはＦ２６Ｂ５／００のものだけでは包含されないプロセスの結合を用いるプロセスによる固体材料または物体の乾燥",
+      "en": "Drying solid materials or objects by processes using a combination of processes not covered by a single one of groups <b>F26B3/00</b> or <b>F26B5/00</b>",
+      "count": 4023,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B9/00": {
+      "code": "F26B9/00",
+      "level": 0,
+      "parent": "F26B",
+      "ja": "静止または部分的攪拌のみで固体材料または物体を乾燥する機械または装置；家庭用乾燥戸棚",
+      "en": "Machines or apparatus for drying solid materials or objects at rest or with only local agitation; Domestic airing cupboards",
+      "count": 5297,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B9/02": {
+      "code": "F26B9/02",
+      "level": 1,
+      "parent": "F26B9/00",
+      "ja": "建築物におけるもの（特殊な形の建築物Ｅ０４Ｈ）",
+      "en": "in buildings(special types of buildings <b>E04H</b>)",
+      "count": 3891,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B9/04": {
+      "code": "F26B9/04",
+      "level": 1,
+      "parent": "F26B9/00",
+      "ja": "圧搾，または締めつけ装置におけるもの",
+      "en": "in presses or clamping devices",
+      "count": 1255,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B9/06": {
+      "code": "F26B9/06",
+      "level": 1,
+      "parent": "F26B9/00",
+      "ja": "静止したドラムまたは小室におけるもの",
+      "en": "in stationary drums or chambers",
+      "count": 46371,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B9/08": {
+      "code": "F26B9/08",
+      "level": 2,
+      "parent": "F26B9/06",
+      "ja": "振り動かし装置を含むもの",
+      "en": "including agitating devices",
+      "count": 3707,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B9/10": {
+      "code": "F26B9/10",
+      "level": 1,
+      "parent": "F26B9/00",
+      "ja": "戸外におけるもの；室内での平なべの中またはテーブル上におけるもの；ばらばらな材料の積み上げたものの乾燥",
+      "en": "in the open air; in pans or tables in rooms; Drying stacks of loose material",
+      "count": 12852,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B11/00": {
+      "code": "F26B11/00",
+      "level": 0,
+      "parent": "F26B",
+      "ja": "非前送り運動を伴う固体材料または物体を乾燥するための機械または装置",
+      "en": "Machines or apparatus for drying solid materials or objects with movement which is non-progressive",
+      "count": 4389,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B11/02": {
+      "code": "F26B11/02",
+      "level": 1,
+      "parent": "F26B11/00",
+      "ja": "運動ドラムまたは他のほとんど閉ざされた入れ物中におけるもの（Ｆ２６Ｂ１１／１８が優先）",
+      "en": "in moving drums or other mainly-closed receptacles(<b>F26B11/18</b> takes precedence)",
+      "count": 3267,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B11/04": {
+      "code": "F26B11/04",
+      "level": 2,
+      "parent": "F26B11/02",
+      "ja": "水平またはわずかに傾斜した軸のまわりを回転するもの",
+      "en": "rotating about a horizontal or slightly-inclined axis",
+      "count": 15791,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B11/06": {
+      "code": "F26B11/06",
+      "level": 3,
+      "parent": "F26B11/04",
+      "ja": "静置された攪拌装置をもつもの",
+      "en": "with stirring devices which are held stationary",
+      "count": 5626,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B11/08": {
+      "code": "F26B11/08",
+      "level": 2,
+      "parent": "F26B11/02",
+      "ja": "垂直または急傾斜軸のまわりを回転するもの",
+      "en": "rotating about a vertical or steeply-inclined axis",
+      "count": 3843,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B11/10": {
+      "code": "F26B11/10",
+      "level": 3,
+      "parent": "F26B11/08",
+      "ja": "静置された攪拌装置をもつもの",
+      "en": "with stirring devices which are held stationary",
+      "count": 937,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B11/12": {
+      "code": "F26B11/12",
+      "level": 1,
+      "parent": "F26B11/00",
+      "ja": "運動する攪拌装置をもつ静置ドラムまたはほとんど閉ざされた入れ物中におけるもの（Ｆ２６Ｂ１１／２２が優先）",
+      "en": "in stationary drums or other mainly-closed receptacles with moving stirring devices(<b>F26B11/22</b> takes precedence)",
+      "count": 2043,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B11/14": {
+      "code": "F26B11/14",
+      "level": 2,
+      "parent": "F26B11/12",
+      "ja": "攪拌機構が水平またはわずかに傾斜した平面を運動するもの",
+      "en": "the stirring device moving in a horizontal or slightly-inclined plane",
+      "count": 12627,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B11/16": {
+      "code": "F26B11/16",
+      "level": 2,
+      "parent": "F26B11/12",
+      "ja": "攪拌装置が垂直または急傾斜面を運動するもの",
+      "en": "the stirring device moving in a vertical or steeply-inclined plane",
+      "count": 9257,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B11/18": {
+      "code": "F26B11/18",
+      "level": 1,
+      "parent": "F26B11/00",
+      "ja": "運動する皿，盆，平なべまたは他のほとんど開放された入れ物の上または中におけるもの",
+      "en": "on or in moving dishes, trays, pans, or other mainly-open receptacles",
+      "count": 18483,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B11/20": {
+      "code": "F26B11/20",
+      "level": 2,
+      "parent": "F26B11/18",
+      "ja": "静置された攪拌装置をもつもの",
+      "en": "with stirring devices which are held stationary",
+      "count": 1395,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B11/22": {
+      "code": "F26B11/22",
+      "level": 1,
+      "parent": "F26B11/00",
+      "ja": "運動する攪拌装置をもつ静置の皿，盆，平なべまたは他のほとんど開放された入れ物の上または中におけるもの",
+      "en": "on or in stationary dishes, trays, pans, or other mainly-open receptacles, with moving stirring devices",
+      "count": 2050,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B13/00": {
+      "code": "F26B13/00",
+      "level": 0,
+      "parent": "F26B",
+      "ja": "前送りする運動を伴う織物，繊維，織糸およびその他の長尺材料を乾燥するための機械または装置",
+      "en": "Machines or apparatus for drying fabrics, fibres, yarns, or other materials in long lengths, with progressive movement",
+      "count": 3379,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B13/02": {
+      "code": "F26B13/02",
+      "level": 1,
+      "parent": "F26B13/00",
+      "ja": "直線的に移動するもの",
+      "en": "with movement in a straight line",
+      "count": 2423,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B13/04": {
+      "code": "F26B13/04",
+      "level": 2,
+      "parent": "F26B13/02",
+      "ja": "ローラを用いるもの",
+      "en": "using rollers",
+      "count": 2691,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B13/06": {
+      "code": "F26B13/06",
+      "level": 1,
+      "parent": "F26B13/00",
+      "ja": "曲りくねった通路またはジグザグ状通路を移動するもの",
+      "en": "with movement in a sinuous or zig-zag path",
+      "count": 507,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B13/08": {
+      "code": "F26B13/08",
+      "level": 2,
+      "parent": "F26B13/06",
+      "ja": "ローラを用いるもの",
+      "en": "using rollers",
+      "count": 3986,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B13/10": {
+      "code": "F26B13/10",
+      "level": 1,
+      "parent": "F26B13/00",
+      "ja": "材料を供給，加熱または支持するための装置；材料の運動，張力または位置の調整（加熱方法Ｆ２６Ｂ３／００）",
+      "en": "Arrangements for feeding, heating or supporting materials; Controlling movement, tension or position of materials(heating processes <b>F26B3/00</b>)",
+      "count": 7457,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B13/12": {
+      "code": "F26B13/12",
+      "level": 2,
+      "parent": "F26B13/10",
+      "ja": "材料の速度，張力または位置の調整",
+      "en": "Controlling movement, tension or position of material",
+      "count": 1771,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B13/14": {
+      "code": "F26B13/14",
+      "level": 2,
+      "parent": "F26B13/10",
+      "ja": "ローラ（吸収性表面Ｆ２６Ｂ１３／２６）",
+      "en": "Rollers(sorbent surfaces <b>F26B13/26</b>)",
+      "count": 5346,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B13/16": {
+      "code": "F26B13/16",
+      "level": 3,
+      "parent": "F26B13/14",
+      "ja": "穴抜きされたもの（Ｆ２６Ｂ１３／１８が優先；吸引に適用するためのものＦ２６Ｂ１３／３０）",
+      "en": "perforated(<b>F26B13/18</b> takes precedence; for applying suction <b>F26B13/30</b>)",
+      "count": 711,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B13/18": {
+      "code": "F26B13/18",
+      "level": 3,
+      "parent": "F26B13/14",
+      "ja": "加熱されるもの；冷却されるもの",
+      "en": "heated; cooled",
+      "count": 2595,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B13/20": {
+      "code": "F26B13/20",
+      "level": 2,
+      "parent": "F26B13/10",
+      "ja": "流体の噴出，例．空気の噴出，により材料を支持するもの",
+      "en": "Supporting materials by fluid jets, e.g. air",
+      "count": 1020,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B13/22": {
+      "code": "F26B13/22",
+      "level": 2,
+      "parent": "F26B13/10",
+      "ja": "ガス炎装置",
+      "en": "Arrangements of gas flames",
+      "count": 68,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B13/24": {
+      "code": "F26B13/24",
+      "level": 1,
+      "parent": "F26B13/00",
+      "ja": "加熱を伴わない乾燥プロセスを用いる装置の構成（このようなプロセスそれ自体Ｆ２６Ｂ５／００）",
+      "en": "Arrangements of devices using drying processes not involving heating(such processes <u>per se</u><b>F26B5/00</b>)",
+      "count": 400,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B13/26": {
+      "code": "F26B13/26",
+      "level": 2,
+      "parent": "F26B13/24",
+      "ja": "吸収性表面，例．ローラ上のバンドまたは被覆，を用いるもの",
+      "en": "using sorbent surfaces, e.g. bands or coverings on rollers",
+      "count": 910,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B13/28": {
+      "code": "F26B13/28",
+      "level": 2,
+      "parent": "F26B13/24",
+      "ja": "圧力を適用するためのもの；ブラッシングのためのもの；払い落しによるもの；ふきとりによるもの",
+      "en": "for applying pressure; for brushing; for wiping",
+      "count": 2321,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B13/30": {
+      "code": "F26B13/30",
+      "level": 2,
+      "parent": "F26B13/24",
+      "ja": "吸引を適用するためのもの，例．穴抜きローラを通すもの",
+      "en": "for applying suction, e.g. through perforated rollers",
+      "count": 457,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B15/00": {
+      "code": "F26B15/00",
+      "level": 0,
+      "parent": "F26B",
+      "ja": "前送り運動を伴う物体を乾燥するための機械または装置；前送り運動を伴うひとかたまりの材料を乾燥するための機械または装置（Ｆ２６Ｂ１３／００，Ｆ２６Ｂ１７／００が優先；コンベヤ一般Ｂ６５Ｇ）",
+      "en": "Machines or apparatus for drying objects with progressive movement; Machines or apparatus with progressive movement for drying batches of material in compact form(<b>F26B13/00</b>, <b>F26B17/00</b> take precedence; conveyors in general <b>B65G</b>)",
+      "count": 2759,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B15/02": {
+      "code": "F26B15/02",
+      "level": 1,
+      "parent": "F26B15/00",
+      "ja": "円周の全部または部分における運動を伴うもの",
+      "en": "with movement in the whole or part of a circle",
+      "count": 375,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B15/04": {
+      "code": "F26B15/04",
+      "level": 2,
+      "parent": "F26B15/02",
+      "ja": "水平面上におけるもの",
+      "en": "in a horizontal plane",
+      "count": 1800,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B15/06": {
+      "code": "F26B15/06",
+      "level": 3,
+      "parent": "F26B15/04",
+      "ja": "複数の多段平面を伴うもの",
+      "en": "involving several planes, one above the other",
+      "count": 415,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B15/08": {
+      "code": "F26B15/08",
+      "level": 2,
+      "parent": "F26B15/02",
+      "ja": "垂直面上を移動するもの",
+      "en": "in a vertical plane",
+      "count": 590,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B15/10": {
+      "code": "F26B15/10",
+      "level": 1,
+      "parent": "F26B15/00",
+      "ja": "１またはそれ以上の直線，例．複合，からなる通路における運動を伴うもの",
+      "en": "with movement in a path composed of one or more straight lines, e.g. compound",
+      "count": 983,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B15/12": {
+      "code": "F26B15/12",
+      "level": 2,
+      "parent": "F26B15/10",
+      "ja": "その線が全部水平かまたはわずかに傾斜しているもの",
+      "en": "the lines being all horizontal or slightly inclined",
+      "count": 6576,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B15/14": {
+      "code": "F26B15/14",
+      "level": 3,
+      "parent": "F26B15/12",
+      "ja": "物体または材料群が盆または棚により移送されるもの",
+      "en": "the objects or batches of materials being carried by trays or racks",
+      "count": 1954,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B15/16": {
+      "code": "F26B15/16",
+      "level": 3,
+      "parent": "F26B15/12",
+      "ja": "物体または材料群が運搬車により移送されるもの",
+      "en": "the objects or batches of materials being carried by wheeled trucks",
+      "count": 818,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B15/18": {
+      "code": "F26B15/18",
+      "level": 3,
+      "parent": "F26B15/12",
+      "ja": "物体または材料群が無端ベルトにより移送されるもの",
+      "en": "the objects or batches of materials being carried by endless belts",
+      "count": 12006,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B15/20": {
+      "code": "F26B15/20",
+      "level": 2,
+      "parent": "F26B15/10",
+      "ja": "その線が全部垂直かまたは急傾斜しているもの",
+      "en": "the lines being all vertical or steeply inclined",
+      "count": 333,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B15/22": {
+      "code": "F26B15/22",
+      "level": 3,
+      "parent": "F26B15/20",
+      "ja": "物体または材料が無端ベルトにより移送されるもの",
+      "en": "the objects or batches of materials being carried by endless belts",
+      "count": 367,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B15/24": {
+      "code": "F26B15/24",
+      "level": 4,
+      "parent": "F26B15/22",
+      "ja": "ジグザグ通路におけるもの",
+      "en": "in a zig-zag path",
+      "count": 181,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B15/26": {
+      "code": "F26B15/26",
+      "level": 1,
+      "parent": "F26B15/00",
+      "ja": "ヘリカルな通路における運動を伴うもの",
+      "en": "with movement in a helical path",
+      "count": 469,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B17/00": {
+      "code": "F26B17/00",
+      "level": 0,
+      "parent": "F26B",
+      "ja": "前送り運動を伴う，ばらばらな材料，合成樹脂または流動化された形状のもの，可塑性物質または流動性物質，例．細粒，人造繊維，を乾燥するための機械または装置（Ｆ２６Ｂ１３／００が優先）",
+      "en": "Machines or apparatus for drying materials in loose, plastic, or fluidised form, e.g. granules, staple fibres, with progressive movement(<b>F26B13/00</b> takes precedence)",
+      "count": 4533,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B17/02": {
+      "code": "F26B17/02",
+      "level": 1,
+      "parent": "F26B17/00",
+      "ja": "材料を搬送するベルトによりなされる運動を伴うもの；静置平面上の材料を推進するベルトによりなされる運動を伴うもの",
+      "en": "with movement performed by belts carrying the materials; with movement performed by belts propelling the materials over stationary surfaces",
+      "count": 1105,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B17/04": {
+      "code": "F26B17/04",
+      "level": 2,
+      "parent": "F26B17/02",
+      "ja": "ベルトが水平かまたはわずかに傾斜しているもの（Ｆ２６Ｂ１７／０８が優先）",
+      "en": "the belts being all horizontal or slightly inclined(<b>F26B17/08</b> takes precedence)",
+      "count": 9384,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B17/06": {
+      "code": "F26B17/06",
+      "level": 2,
+      "parent": "F26B17/02",
+      "ja": "ベルトがすべて垂直かまたは急傾斜しているもの（Ｆ２６Ｂ１７／０８が優先）",
+      "en": "the belts being all vertical or steeply inclined(<b>F26B17/08</b> takes precedence)",
+      "count": 159,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B17/08": {
+      "code": "F26B17/08",
+      "level": 2,
+      "parent": "F26B17/02",
+      "ja": "ベルトが曲りくねったまたはジグザグな通路に配置されるもの",
+      "en": "the belts being arranged in a sinuous or zig-zag path",
+      "count": 811,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B17/10": {
+      "code": "F26B17/10",
+      "level": 1,
+      "parent": "F26B17/00",
+      "ja": "流体の流れ，例．ノズルからの流出，によりなされる運動を伴うもの（Ｆ２６Ｂ３／０８が優先）［５］",
+      "en": "with movement performed by fluid currents, e.g. issuing from a nozzle(<b>F26B3/08</b> takes precedence)",
+      "count": 5996,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B17/12": {
+      "code": "F26B17/12",
+      "level": 1,
+      "parent": "F26B17/00",
+      "ja": "重力により単独になされる運動を伴うもの",
+      "en": "with movement performed solely by gravity",
+      "count": 5132,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B17/14": {
+      "code": "F26B17/14",
+      "level": 2,
+      "parent": "F26B17/12",
+      "ja": "材料がガスの向流中を移動するもの",
+      "en": "the materials moving through a counter-current of gas",
+      "count": 7072,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B17/16": {
+      "code": "F26B17/16",
+      "level": 2,
+      "parent": "F26B17/12",
+      "ja": "材料が加熱表面を流下するもの",
+      "en": "the materials passing down a heated surface",
+      "count": 1150,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B17/18": {
+      "code": "F26B17/18",
+      "level": 1,
+      "parent": "F26B17/00",
+      "ja": "静置した室内の材料を移送する回転ヘリカル翼または他の回転コンベヤによりなされる運動を伴うもの",
+      "en": "with movement performed by rotating helical blades or other rotary conveyors moving materials in stationary chambers",
+      "count": 653,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B17/20": {
+      "code": "F26B17/20",
+      "level": 2,
+      "parent": "F26B17/18",
+      "ja": "回転軸が水平またはわずかに傾斜しているもの",
+      "en": "the axis of rotation being horizontal or slightly inclined",
+      "count": 5825,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B17/22": {
+      "code": "F26B17/22",
+      "level": 2,
+      "parent": "F26B17/18",
+      "ja": "回転軸が垂直または急傾斜しているもの",
+      "en": "the axis of rotation being vertical or steeply inclined",
+      "count": 1881,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B17/24": {
+      "code": "F26B17/24",
+      "level": 1,
+      "parent": "F26B17/00",
+      "ja": "材料を射出または投出することによりなされる運動を伴うもの",
+      "en": "with movement performed by shooting or throwing the materials",
+      "count": 458,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B17/26": {
+      "code": "F26B17/26",
+      "level": 1,
+      "parent": "F26B17/00",
+      "ja": "静置表面上の材料を推進するベルトを往復動または振動することによりなされる運動を伴うもの；たな，ふるいまたは盆を往復動または振動することによりなされる運動を伴うもの",
+      "en": "with movement performed by reciprocating or oscillating conveyors propelling materials over stationary surfaces; with movement performed by reciprocating or oscillating shelves, sieves or trays",
+      "count": 1638,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B17/28": {
+      "code": "F26B17/28",
+      "level": 1,
+      "parent": "F26B17/00",
+      "ja": "ローラまたは円盤，例．吸引ドラム，ふるい，の上またはそれらの間を通過する材料と共にローラまたは円盤によりなされる運動を伴うもの",
+      "en": "with movement performed by rollers or discs with material passing over or between them, e.g. suction drum, sieve",
+      "count": 1117,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B17/30": {
+      "code": "F26B17/30",
+      "level": 1,
+      "parent": "F26B17/00",
+      "ja": "容器が回転または振動によりなされれる運動を伴うもの；回転床によりなされる運動を伴うもの",
+      "en": "with movement performed by rotary or oscillating containers; with movement performed by rotary floors",
+      "count": 503,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B17/32": {
+      "code": "F26B17/32",
+      "level": 2,
+      "parent": "F26B17/30",
+      "ja": "運動が水平またはわずかに傾斜した平面におけるもの",
+      "en": "the movement being in a horizontal or slightly-inclined plane",
+      "count": 1766,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B17/34": {
+      "code": "F26B17/34",
+      "level": 2,
+      "parent": "F26B17/30",
+      "ja": "運動が垂直または急傾斜面内におけるもの",
+      "en": "the movement being in a vertical or steeply-inclined plane",
+      "count": 519,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B19/00": {
+      "code": "F26B19/00",
+      "level": 0,
+      "parent": "F26B",
+      "ja": "グループＦ２６Ｂ９／００～Ｆ２６Ｂ１７／００に包含されない固体材料または物体の乾燥するための機械または装置",
+      "en": "Machines or apparatus for drying solid materials or objects not covered by groups <b>F26B9/00 to F26B17/00</b> ",
+      "count": 2728,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B20/00": {
+      "code": "F26B20/00",
+      "level": 0,
+      "parent": "F26B",
+      "ja": "グループＦ２６Ｂ９／００～Ｆ２６Ｂ１９／００の２以上に包含される機械または装置の結合",
+      "en": "Combinations of machines or apparatus covered by two or more of groups <b>F26B9/00 to F26B19/00</b> ",
+      "count": 2068,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B21/00": {
+      "code": "F26B21/00",
+      "level": 0,
+      "parent": "F26B",
+      "ja": "固体材料または物体を乾燥するために空気または他のガスを供給または制御する装置［２０２６．０１］",
+      "en": "Arrangements for supplying or controlling air or other gases for drying solid materials or objects",
+      "count": 194274,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B21/20": {
+      "code": "F26B21/20",
+      "level": 1,
+      "parent": "F26B21/00",
+      "ja": "閉サイクルにおける空気またはガスの循環，例．乾燥包囲内だけでの循環［２０２６．０１］",
+      "en": "Circulating air or gases in closed cycles, e.g. wholly within the drying enclosure",
+      "count": 0,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B21/25": {
+      "code": "F26B21/25",
+      "level": 2,
+      "parent": "F26B21/20",
+      "ja": "部分的に乾燥包囲外におけるもの［２０２６．０１］",
+      "en": "partly outside the drying enclosure",
+      "count": 0,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B21/30": {
+      "code": "F26B21/30",
+      "level": 1,
+      "parent": "F26B21/00",
+      "ja": "ガス供給のパラメータを制御，例．調節，するもの［２０２６．０１］",
+      "en": "Controlling, e.g. regulating, parameters of gas supply",
+      "count": 0,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B21/33": {
+      "code": "F26B21/33",
+      "level": 2,
+      "parent": "F26B21/30",
+      "ja": "湿度［２０２６．０１］",
+      "en": "Humidity",
+      "count": 0,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B21/35": {
+      "code": "F26B21/35",
+      "level": 2,
+      "parent": "F26B21/30",
+      "ja": "温度；圧力［２０２６．０１］",
+      "en": "Temperature;  Pressure",
+      "count": 0,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B21/37": {
+      "code": "F26B21/37",
+      "level": 2,
+      "parent": "F26B21/30",
+      "ja": "流速；流量［２０２６．０１］",
+      "en": "Velocity of flow;  Quantity of flow",
+      "count": 0,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B21/40": {
+      "code": "F26B21/40",
+      "level": 1,
+      "parent": "F26B21/00",
+      "ja": "空気以外のガスを用いるもの［２０２６．０１］",
+      "en": "using gases other than air",
+      "count": 0,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B21/45": {
+      "code": "F26B21/45",
+      "level": 2,
+      "parent": "F26B21/40",
+      "ja": "蒸気を用いるもの［２０２６．０１］",
+      "en": "using steam",
+      "count": 0,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B21/50": {
+      "code": "F26B21/50",
+      "level": 1,
+      "parent": "F26B21/00",
+      "ja": "空気または他のガスの供給源から乾燥させる材料または物体までのダクトの構成［２０２６．０１］",
+      "en": "Ducting arrangements from the source of air or other gases to the materials or objects being dried",
+      "count": 0,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B21/55": {
+      "code": "F26B21/55",
+      "level": 2,
+      "parent": "F26B21/50",
+      "ja": "空気または他のガスを方向付けるためのまたは分配するための吹出口［２０２６．０１］",
+      "en": "Outlets for directing or distributing the air or other gases",
+      "count": 0,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B23/00": {
+      "code": "F26B23/00",
+      "level": 0,
+      "parent": "F26B",
+      "ja": "加熱装置（加熱空気または他のガスを用いるものＦ２６Ｂ２１／００）［２００６．０１］",
+      "en": "Heating arrangements (using heated air or other gases <b>F26B21/00</b>)",
+      "count": 25211,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B23/02": {
+      "code": "F26B23/02",
+      "level": 1,
+      "parent": "F26B23/00",
+      "ja": "燃焼加熱を用いるもの（Ｆ２６Ｂ２３／１０が優先）",
+      "en": "using combustion heating(<b>F26B23/10</b> takes precedence)",
+      "count": 5079,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B23/04": {
+      "code": "F26B23/04",
+      "level": 1,
+      "parent": "F26B23/00",
+      "ja": "電気加熱を用いるもの（Ｆ２６Ｂ２３／１０が優先）",
+      "en": "using electric heating(<b>F26B23/10</b> takes precedence)",
+      "count": 19582,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B23/06": {
+      "code": "F26B23/06",
+      "level": 2,
+      "parent": "F26B23/04",
+      "ja": "抵抗加熱",
+      "en": "resistance heating",
+      "count": 22156,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B23/08": {
+      "code": "F26B23/08",
+      "level": 2,
+      "parent": "F26B23/04",
+      "ja": "誘導加熱；電界加熱；高周波加熱",
+      "en": "inductive heating; capacitative heating; microwave heating",
+      "count": 4768,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B23/10": {
+      "code": "F26B23/10",
+      "level": 1,
+      "parent": "F26B23/00",
+      "ja": "加熱流体を収容した管または通路を用いるもの",
+      "en": "using tubes or passages containing heated fluids",
+      "count": 10964,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B25/00": {
+      "code": "F26B25/00",
+      "level": 0,
+      "parent": "F26B",
+      "ja": "グループＦ２６Ｂ２１／００またはＦ２６Ｂ２３／００に包含されない一般的に適用される細部（荷積み，搬送または荷おろし一般Ｂ６５Ｇ）",
+      "en": "Details of general application not covered by group <b>F26B21/00</b> or <b>F26B23/00</b>(loading, conveying, or unloading in general <b>B65G</b>)",
+      "count": 135297,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B25/02": {
+      "code": "F26B25/02",
+      "level": 1,
+      "parent": "F26B25/00",
+      "ja": "他のサブクラスに包含されない駆動機構の適用",
+      "en": "Applications of driving mechanisms, not covered by another subclass",
+      "count": 50514,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B25/04": {
+      "code": "F26B25/04",
+      "level": 1,
+      "parent": "F26B25/00",
+      "ja": "攪拌，揺動またはかきとり器具",
+      "en": "Agitating, stirring, or scraping devices",
+      "count": 54830,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B25/06": {
+      "code": "F26B25/06",
+      "level": 1,
+      "parent": "F26B25/00",
+      "ja": "小室，容器または入れ物",
+      "en": "Chambers, containers, or receptacles",
+      "count": 19078,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B25/08": {
+      "code": "F26B25/08",
+      "level": 2,
+      "parent": "F26B25/06",
+      "ja": "その部分",
+      "en": "Parts thereof",
+      "count": 8948,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B25/10": {
+      "code": "F26B25/10",
+      "level": 3,
+      "parent": "F26B25/08",
+      "ja": "床，屋根または底；２重底",
+      "en": "Floors, roofs, or bottoms; False bottoms",
+      "count": 5510,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B25/12": {
+      "code": "F26B25/12",
+      "level": 3,
+      "parent": "F26B25/08",
+      "ja": "壁または側板；扉",
+      "en": "Walls or sides; Doors",
+      "count": 23693,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B25/14": {
+      "code": "F26B25/14",
+      "level": 2,
+      "parent": "F26B25/06",
+      "ja": "単一構造の小室，容器または入れ物",
+      "en": "Chambers, containers, receptacles of simple construction",
+      "count": 938,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B25/16": {
+      "code": "F26B25/16",
+      "level": 3,
+      "parent": "F26B25/14",
+      "ja": "ほとんど閉ざされたもの，例．ドラム",
+      "en": "mainly closed, e.g. drum",
+      "count": 16251,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B25/18": {
+      "code": "F26B25/18",
+      "level": 3,
+      "parent": "F26B25/14",
+      "ja": "ほとんど開放されたもの，例．さら，盆，平なべ",
+      "en": "mainly open, e.g. dish, tray, pan",
+      "count": 40042,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B25/20": {
+      "code": "F26B25/20",
+      "level": 1,
+      "parent": "F26B25/00",
+      "ja": "ローラ（Ｆ２６Ｂ２５／０６が優先）",
+      "en": "Rollers(<b>F26B25/06</b> takes precedence)",
+      "count": 2893,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    },
+    "F26B25/22": {
+      "code": "F26B25/22",
+      "level": 1,
+      "parent": "F26B25/00",
+      "ja": "固体材料または物体の液体含有量により乾燥方法を制御するもの",
+      "en": "Controlling the drying process in dependence on liquid content of solid materials or objects",
+      "count": 7231,
+      "sourceFile": "ipc_F26B.txt",
+      "kind": "ipc"
+    }
+  }
+}

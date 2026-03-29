@@ -1,0 +1,1816 @@
+window.IPC_SHARD_F22B = {
+  "generatedAt": "2026-03-20T02:17:46.878Z",
+  "total": 181,
+  "entries": {
+    "F22B": {
+      "code": "F22B",
+      "level": 0,
+      "parent": "F22",
+      "ja": "蒸気発生法；蒸気ボイラ<br><br><b><ul>注</ul></b><br>このサブクラスは圧力下において加熱または動力の目的で蒸気を発生する方法または装置だけを包含する。<br><br><b><ul>サブクラス内の索引</ul></b><br>一般的蒸気発生法　１／００，３／００<br>蒸気ボイラ<br>一般的特徴<br>ドラム；炉筒；煙管；煙管と水管の組み合わせ；火室　５／００；７／００；９／００；１１／００；１３／００<br>水管形<br>補助管　１１／００<br>水平位置；水平に近い傾斜；水平に近い傾斜と垂直の結合；垂直または鋭い傾斜　１５／００；１７／００；１９／００；２１／００<br>間隙を置いて２重に囲まれた水管群または戻り形の配置；内部に配列された煙管をもつ水管群　２３／００；２５／００<br>特別な特徴　２７／００，２９／００<br>修正または配置；一般的な適用の細部　３１／００；３７／００<br>設備；制御方式　３３／００；３５／００",
+      "en": "METHODS OF STEAM GENERATION; STEAM BOILERS; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This subclass <u>covers</u> only methods of, or apparatus for, the generation of steam under pressure for heating or power purposes.</li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">METHODS FOR STEAM GENERATION </td><td><b><b>1/00</b>, <b>3/00</b></b></td></tr></tr><tr><td width=\"70%\">STEAM BOILERS<tr><td width=\"70%\">General characteristics<tr><td width=\"70%\">having drum; having furnace tube; having fire tube; having combined fire tube and water tube; having fire-box </td><td><b><b>5/00</b>; <b>7/00</b>; <b>9/00</b>; <b>11/00</b>; <b>13/00</b></b></td></tr></tr><tr><td width=\"70%\">having water tubes<tr><td width=\"70%\">auxiliary tubes </td><td><b><b>11/00</b></b></td></tr></tr><tr><td width=\"70%\">horizontal; horizontally-inclined; combined horizontally-inclined and vertical; vertical or steeply-inclined </td><td><b><b>15/00</b>; <b>17/00</b>; <b>19/00</b>; <b>21/00</b></b></td></tr></tr><tr><td width=\"70%\">formed of sets of spaced double-walled water tubes or of return tubes; water tubes with internally-arranged flue tubes </td><td><b><b>23/00</b>; <b>25/00</b></b></td></tr></tr></tr></tr><tr><td width=\"70%\">Special characteristics </td><td><b><b>27/00</b>, <b>29/00</b></b></td></tr></tr><tr><td width=\"70%\">Modifications or arrangements; details of general application </td><td><b><b>31/00</b>; <b>37/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">PLANTS; CONTROL SYSTEMS </td><td><b><b>33/00</b>; <b>35/00</b></b></td></tr></tr></table>",
+      "count": 788,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F22": {
+      "code": "F22",
+      "level": 0,
+      "parent": "F",
+      "ja": "蒸気発生<br><br><b><ul>注</ul></b><br>このクラスにおいては，下記の用語は以下に示す意味で用いる：<br>―“蒸気”は，また他の凝縮性蒸気，例．水銀，ジフェニル，ジフェニル配化物を包含する。",
+      "en": "STEAM GENERATION; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this class, the following term is used with the meaning indicated:<ul><li>\"steam\" covers also other condensable vapours, e.g. mercury, diphenyl, diphenyl oxide.</li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F": {
+      "code": "F",
+      "level": 0,
+      "parent": null,
+      "ja": "機械工学；照明；加熱；武器；爆破",
+      "en": "MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F22B1/00": {
+      "code": "F22B1/00",
+      "level": 0,
+      "parent": "F22B",
+      "ja": "加熱方法の形式に特徴がある蒸気発生法［２００６．０１］",
+      "en": "Methods of steam generation characterised by form of heating method",
+      "count": 4483,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B1/02": {
+      "code": "F22B1/02",
+      "level": 1,
+      "parent": "F22B1/00",
+      "ja": "加熱媒体の熱容量の利用によるもの",
+      "en": "by exploitation of the heat content of hot heat carriers",
+      "count": 3218,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B1/04": {
+      "code": "F22B1/04",
+      "level": 2,
+      "parent": "F22B1/02",
+      "ja": "熱媒体が熱いスラグ，熱い残滓または熱塊であるもの，例．鉄塊",
+      "en": "the heat carrier being hot slag, hot residues, or heated blocks, e.g. iron blocks",
+      "count": 758,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B1/06": {
+      "code": "F22B1/06",
+      "level": 2,
+      "parent": "F22B1/02",
+      "ja": "熱媒体が溶融しているもの；溶融金属，例．熱伝達媒体としての亜鉛，の使用",
+      "en": "the heat carrier being molten; Use of molten metal, e.g. zinc, as heat transfer medium",
+      "count": 1801,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B1/08": {
+      "code": "F22B1/08",
+      "level": 2,
+      "parent": "F22B1/02",
+      "ja": "熱媒体が蒸気であるもの",
+      "en": "the heat carrier being steam",
+      "count": 776,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B1/10": {
+      "code": "F22B1/10",
+      "level": 3,
+      "parent": "F22B1/08",
+      "ja": "蓄熱器からの放出によるもの",
+      "en": "released from heat accumulators",
+      "count": 73,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B1/12": {
+      "code": "F22B1/12",
+      "level": 3,
+      "parent": "F22B1/08",
+      "ja": "間接的な周期過程によって生じるもの",
+      "en": "produced by an indirect cyclic process",
+      "count": 258,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B1/14": {
+      "code": "F22B1/14",
+      "level": 3,
+      "parent": "F22B1/08",
+      "ja": "バルク状または噴霧状の水と直接接触するもの",
+      "en": "coming in direct contact with water in bulk or in sprays",
+      "count": 261,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B1/16": {
+      "code": "F22B1/16",
+      "level": 2,
+      "parent": "F22B1/02",
+      "ja": "熱媒体が熱液体または熱蒸気，例．廃液，廃蒸気，であるもの",
+      "en": "the heat carrier being hot liquid or hot vapour, e.g. waste liquid, waste vapour",
+      "count": 2136,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B1/18": {
+      "code": "F22B1/18",
+      "level": 2,
+      "parent": "F22B1/02",
+      "ja": "熱媒体が熱ガス，例．内燃機関の排気のごとき廃ガス，であるもの［２００６．０１］",
+      "en": "the heat carrier being a hot gas, e.g. waste gas such as exhaust gas of internal-combustion engines",
+      "count": 12216,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B1/20": {
+      "code": "F22B1/20",
+      "level": 1,
+      "parent": "F22B1/00",
+      "ja": "蒸気を吸収する溶液内に放出された熱を用いるもの；ソーダ蒸気ボイラ",
+      "en": "using heat evolved in a solution absorbing steam; Soda steam boilers",
+      "count": 296,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B1/22": {
+      "code": "F22B1/22",
+      "level": 1,
+      "parent": "F22B1/00",
+      "ja": "実質的に大気圧以上の圧力による燃焼を用いるもの",
+      "en": "using combustion under pressure substantially exceeding atmospheric pressure",
+      "count": 2232,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B1/24": {
+      "code": "F22B1/24",
+      "level": 2,
+      "parent": "F22B1/22",
+      "ja": "加圧燃焼蒸気ボイラ，例．ターボ空気圧縮機がボイラ燃焼室からの熱ガスによって作動するもの",
+      "en": "Pressure-fired steam boilers, e.g. using turbo air compressors actuated by hot gases from boiler furnace",
+      "count": 146,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B1/26": {
+      "code": "F22B1/26",
+      "level": 2,
+      "parent": "F22B1/22",
+      "ja": "水中燃焼形の蒸気ボイラ，すなわち火炎が蒸発する水に囲まれているまたは突き当たるもの",
+      "en": "Steam boilers of submerged-flame type, i.e. the flame being surrounded by, or impinging on, the water to be vaporised",
+      "count": 400,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B1/28": {
+      "code": "F22B1/28",
+      "level": 1,
+      "parent": "F22B1/00",
+      "ja": "電気加熱ボイラ",
+      "en": "in boilers heated electrically",
+      "count": 9609,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B1/30": {
+      "code": "F22B1/30",
+      "level": 2,
+      "parent": "F22B1/28",
+      "ja": "電極ボイラ",
+      "en": "Electrode boilers",
+      "count": 1423,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B3/00": {
+      "code": "F22B3/00",
+      "level": 0,
+      "parent": "F22B",
+      "ja": "他の蒸気発生法；このサブクラスの他のグループに分類されない蒸気ボイラ",
+      "en": "Other methods of steam generation; Steam boilers not provided for in other groups of this subclass",
+      "count": 711,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B3/02": {
+      "code": "F22B3/02",
+      "level": 1,
+      "parent": "F22B3/00",
+      "ja": "水以外の作動媒体の使用を含むもの",
+      "en": "involving the use of working media other than water",
+      "count": 547,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B3/04": {
+      "code": "F22B3/04",
+      "level": 1,
+      "parent": "F22B3/00",
+      "ja": "減圧室内で高圧熱水の圧力を低下することによるもの，例．アキュムレータ［２００６．０１］",
+      "en": "by drop in pressure of high-pressure hot water within pressure-reducing chambers, e.g. in accumulators",
+      "count": 1393,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B3/06": {
+      "code": "F22B3/06",
+      "level": 1,
+      "parent": "F22B3/00",
+      "ja": "機械的変換によるもの，例．運動エネルギの熱エネルギ変換",
+      "en": "by transformation of mechanical, e.g. kinetic, energy into heat energy",
+      "count": 291,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B3/08": {
+      "code": "F22B3/08",
+      "level": 1,
+      "parent": "F22B3/00",
+      "ja": "臨界または超臨界圧力のもとにおけるもの",
+      "en": "at critical or supercritical pressure values",
+      "count": 226,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B5/00": {
+      "code": "F22B5/00",
+      "level": 0,
+      "parent": "F22B",
+      "ja": "ドラム型の蒸気ボイラ，すなわち，内部に火炉または煙管がなく，缶体が燃焼ガスと外表面で接触するもの",
+      "en": "Steam boilers of drum type, i.e. without internal furnace or fire tubes, the boiler body being contacted externally by flue gas",
+      "count": 473,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B5/02": {
+      "code": "F22B5/02",
+      "level": 1,
+      "parent": "F22B5/00",
+      "ja": "缶体外側に補助水管を有するもの",
+      "en": "with auxiliary water tubes outside the boiler body",
+      "count": 65,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B5/04": {
+      "code": "F22B5/04",
+      "level": 1,
+      "parent": "F22B5/00",
+      "ja": "構成部分；付属物［２００６．０１］",
+      "en": "Component parts thereof; Accessories therefor",
+      "count": 49,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B7/00": {
+      "code": "F22B7/00",
+      "level": 0,
+      "parent": "F22B",
+      "ja": "炉筒形の蒸気ボイラ，すなわち燃料の燃焼が缶体内に設けられた１本またはそれ以上の炉筒内で行なわれるもの",
+      "en": "Steam boilers of furnace-tube type, i.e. the combustion of fuel being performed inside one or more furnace tubes built-in in the boiler body",
+      "count": 445,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B7/02": {
+      "code": "F22B7/02",
+      "level": 1,
+      "parent": "F22B7/00",
+      "ja": "補助水管がないもの",
+      "en": "without auxiliary water tubes",
+      "count": 91,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B7/04": {
+      "code": "F22B7/04",
+      "level": 1,
+      "parent": "F22B7/00",
+      "ja": "補助水管があるもの",
+      "en": "with auxiliary water tubes",
+      "count": 127,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B7/06": {
+      "code": "F22B7/06",
+      "level": 2,
+      "parent": "F22B7/04",
+      "ja": "炉筒内に横断的に配列されているもの",
+      "en": "inside the furnace tube in transverse arrangement",
+      "count": 118,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B7/08": {
+      "code": "F22B7/08",
+      "level": 2,
+      "parent": "F22B7/04",
+      "ja": "炉筒内に縦に配列されているもの",
+      "en": "inside the furnace tube in longitudinal arrangement",
+      "count": 72,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B7/10": {
+      "code": "F22B7/10",
+      "level": 2,
+      "parent": "F22B7/04",
+      "ja": "缶体外にあるもの",
+      "en": "outside the boiler body",
+      "count": 23,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B7/12": {
+      "code": "F22B7/12",
+      "level": 1,
+      "parent": "F22B7/00",
+      "ja": "補助煙管があるもの；管寄せ室が燃焼ガスの逆転を起すもの",
+      "en": "with auxiliary fire tubes; Arrangement of header boxes providing for return diversion of flue gas flow",
+      "count": 648,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B7/14": {
+      "code": "F22B7/14",
+      "level": 1,
+      "parent": "F22B7/00",
+      "ja": "補助水管および補助煙管の両方を有するもの",
+      "en": "with both auxiliary water tubes and auxiliary fire tubes",
+      "count": 80,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B7/16": {
+      "code": "F22B7/16",
+      "level": 1,
+      "parent": "F22B7/00",
+      "ja": "構成部分；付属物，例．ステイボルト連結",
+      "en": "Component parts thereof; Accessories therefor, e.g. stay-bolt connections",
+      "count": 429,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B7/18": {
+      "code": "F22B7/18",
+      "level": 2,
+      "parent": "F22B7/16",
+      "ja": "煙道の壁構造；燃焼ガス管寄せ室",
+      "en": "Walling of flues; Flue-gas header boxes",
+      "count": 41,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B7/20": {
+      "code": "F22B7/20",
+      "level": 2,
+      "parent": "F22B7/16",
+      "ja": "炉筒",
+      "en": "Furnace tubes",
+      "count": 140,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B9/00": {
+      "code": "F22B9/00",
+      "level": 0,
+      "parent": "F22B",
+      "ja": "煙管形の蒸気ボイラ，すなわち燃焼室からの燃焼ガスが缶体内に設けられた管群を通って缶体の外に流れるもの［２００６．０１］",
+      "en": "Steam boilers of fire-tube type, i.e. the flue gas from a combustion chamber outside the boiler body flowing through tubes built-in in the boiler body",
+      "count": 234,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B9/02": {
+      "code": "F22B9/02",
+      "level": 1,
+      "parent": "F22B9/00",
+      "ja": "缶体が垂直，例．燃焼室の上方，に配置されるもの［２００６．０１］",
+      "en": "the boiler body being disposed upright, e.g. above the combustion chamber",
+      "count": 158,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B9/04": {
+      "code": "F22B9/04",
+      "level": 2,
+      "parent": "F22B9/02",
+      "ja": "煙管が起立した配列にされたもの［２００６．０１］",
+      "en": "the fire tubes being in upright arrangement",
+      "count": 345,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B9/06": {
+      "code": "F22B9/06",
+      "level": 3,
+      "parent": "F22B9/04",
+      "ja": "管寄せ箱の配列が煙道ガス流の逆転を起こすもの［２００６．０１］",
+      "en": "Arrangement of header boxes providing for return diversion of flue gas flow",
+      "count": 27,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B9/08": {
+      "code": "F22B9/08",
+      "level": 2,
+      "parent": "F22B9/02",
+      "ja": "煙管が水平に配列されるもの［２００６．０１］",
+      "en": "the fire tubes being in horizontal arrangement",
+      "count": 72,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B9/10": {
+      "code": "F22B9/10",
+      "level": 1,
+      "parent": "F22B9/00",
+      "ja": "缶体が実質的に水平，例．燃焼室の側壁，に配列されるもの［２００６．０１］",
+      "en": "the boiler body being disposed substantially horizontally, e.g. at the side of the combustion chamber",
+      "count": 99,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B9/12": {
+      "code": "F22B9/12",
+      "level": 2,
+      "parent": "F22B9/10",
+      "ja": "煙管が実質的に水平に配置されるもの［２００６．０１］",
+      "en": "the fire tubes being in substantially-horizontal arrangement",
+      "count": 280,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B9/14": {
+      "code": "F22B9/14",
+      "level": 3,
+      "parent": "F22B9/12",
+      "ja": "管寄せ室の配列が煙道ガス流の逆転を起こすもの［２００６．０１］",
+      "en": "Arrangement of header boxes providing for return diversion of flue gas flow",
+      "count": 57,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B9/16": {
+      "code": "F22B9/16",
+      "level": 1,
+      "parent": "F22B9/00",
+      "ja": "缶体が上方に傾斜して横に配置された煙管を有するもの［２００６．０１］",
+      "en": "the boiler body containing fire tubes disposed crosswise in inclined upward arrangement",
+      "count": 13,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B9/18": {
+      "code": "F22B9/18",
+      "level": 1,
+      "parent": "F22B9/00",
+      "ja": "構成部分；付属物，例．ステイボルト連結［２００６．０１］",
+      "en": "Component parts thereof; Accessories therefor, e.g. stay-bolt connections",
+      "count": 141,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B11/00": {
+      "code": "F22B11/00",
+      "level": 0,
+      "parent": "F22B",
+      "ja": "煙管形と水管形の組み合わされた蒸気ボイラ，すなわち煙管形の蒸気ボイラが補助水管を有するもの",
+      "en": "Steam boilers of combined fire-tube type and water-tube type, i.e. steam boilers of fire-tube type having auxiliary water tubes",
+      "count": 323,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B11/02": {
+      "code": "F22B11/02",
+      "level": 1,
+      "parent": "F22B11/00",
+      "ja": "煙管が垂直に配列されるもの",
+      "en": "the fire tubes being in upright arrangement",
+      "count": 74,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B11/04": {
+      "code": "F22B11/04",
+      "level": 1,
+      "parent": "F22B11/00",
+      "ja": "煙管が水平に配列されるもの",
+      "en": "the fire tubes being in horizontal arrangement",
+      "count": 66,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B13/00": {
+      "code": "F22B13/00",
+      "level": 0,
+      "parent": "F22B",
+      "ja": "火室形の蒸気ボイラ，すなわち火炉およびそれに続く火管または煙管の両方が缶体内に配置されているボイラ［２００６．０１］",
+      "en": "Steam boilers of fire-box type, i.e. boilers where both combustion chambers and subsequent flues or fire tubes are arranged within the boiler body",
+      "count": 437,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B13/02": {
+      "code": "F22B13/02",
+      "level": 1,
+      "parent": "F22B13/00",
+      "ja": "缶体が垂直に配置されて固定位置ですえ付けられるもの",
+      "en": "mounted in fixed position with the boiler body disposed upright",
+      "count": 422,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B13/04": {
+      "code": "F22B13/04",
+      "level": 1,
+      "parent": "F22B13/00",
+      "ja": "缶体が実質的に水平に配置されて固定位置ですえ付けられるもの",
+      "en": "mounted in fixed position with the boiler body disposed substantially horizontally",
+      "count": 114,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B13/06": {
+      "code": "F22B13/06",
+      "level": 1,
+      "parent": "F22B13/00",
+      "ja": "地上運転機関車，牽引機関車，蒸気ローラまたは機関車ボイラ",
+      "en": "Locomobile, traction-engine, steam-roller, or locomotive boilers",
+      "count": 237,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B13/08": {
+      "code": "F22B13/08",
+      "level": 2,
+      "parent": "F22B13/06",
+      "ja": "火室内に補助水管がないもの",
+      "en": "without auxiliary water tubes inside the fire-box",
+      "count": 105,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B13/10": {
+      "code": "F22B13/10",
+      "level": 2,
+      "parent": "F22B13/06",
+      "ja": "火室内に補助水管があるもの",
+      "en": "with auxiliary water tubes inside the fire-box",
+      "count": 121,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B13/12": {
+      "code": "F22B13/12",
+      "level": 3,
+      "parent": "F22B13/10",
+      "ja": "火室に補助水管を並べたもの",
+      "en": "the auxiliary water tubes lining the fire-box",
+      "count": 136,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B13/14": {
+      "code": "F22B13/14",
+      "level": 1,
+      "parent": "F22B13/00",
+      "ja": "構成部分；付属物",
+      "en": "Component parts thereof; Accessories therefor",
+      "count": 267,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B13/16": {
+      "code": "F22B13/16",
+      "level": 2,
+      "parent": "F22B13/14",
+      "ja": "ステイボルト連結，例．剛性連結",
+      "en": "Stay-bolt connections, e.g. rigid connections",
+      "count": 13,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B13/18": {
+      "code": "F22B13/18",
+      "level": 3,
+      "parent": "F22B13/16",
+      "ja": "伸縮自在連結，例．ボール・ソケット形",
+      "en": "Flexible connections, e.g. of ball-and-socket type",
+      "count": 12,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B15/00": {
+      "code": "F22B15/00",
+      "level": 0,
+      "parent": "F22B",
+      "ja": "水平形の水管ボイラ，すなわち水管が水平に配列されているもの",
+      "en": "Water-tube boilers of horizontal type, i.e. the water-tube sets being arranged horizontally",
+      "count": 376,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B17/00": {
+      "code": "F22B17/00",
+      "level": 0,
+      "parent": "F22B",
+      "ja": "水平傾斜型の水管ボイラ，すなわち水管組が水平面に対して多少傾斜しているもの",
+      "en": "Water-tube boilers of horizontally-inclined type, i.e. the water-tube sets being inclined slightly with respect to the horizontal plane",
+      "count": 123,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B17/02": {
+      "code": "F22B17/02",
+      "level": 1,
+      "parent": "F22B17/00",
+      "ja": "すべての組に共通する２つの管寄せ室に突き当て接続された水管組から組み上げられたもの，例．平らな管寄せ室を有するもの",
+      "en": "built-up from water-tube sets in abutting connection with two header boxes in common for all sets, e.g. with flat header boxes",
+      "count": 149,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B17/04": {
+      "code": "F22B17/04",
+      "level": 2,
+      "parent": "F22B17/02",
+      "ja": "水管組が反対方向に傾斜しているもの，例．交差するように",
+      "en": "the water-tube sets being inclined in opposite directions, e.g. crosswise",
+      "count": 16,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B17/06": {
+      "code": "F22B17/06",
+      "level": 2,
+      "parent": "F22B17/02",
+      "ja": "水管が角をなして曲がっているもの",
+      "en": "the water-tube sets being bent angularly",
+      "count": 4,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B17/08": {
+      "code": "F22B17/08",
+      "level": 2,
+      "parent": "F22B17/02",
+      "ja": "水管がカーブしているもの",
+      "en": "the water-tube sets being curved",
+      "count": 20,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B17/10": {
+      "code": "F22B17/10",
+      "level": 1,
+      "parent": "F22B17/00",
+      "ja": "おのおのの組ごとに２つ設けられた部分的管寄せ室に突き当て接続された水管組から組み上げられたもの，すなわちボイラの幅または高さにわたって複数の部分に設けられた管寄せを有するもの",
+      "en": "built-up from water-tube sets in abutting connection with two sectional headers each for every set, i.e. with headers in a number of sections across the width or height of the boiler",
+      "count": 363,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B17/12": {
+      "code": "F22B17/12",
+      "level": 2,
+      "parent": "F22B17/10",
+      "ja": "部分的管寄せが垂直にまたは実質的に垂直に配置されたもの",
+      "en": "the sectional headers being in vertical or substantially-vertical arrangement",
+      "count": 185,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B17/14": {
+      "code": "F22B17/14",
+      "level": 2,
+      "parent": "F22B17/10",
+      "ja": "部分的管寄せが水平にまたは実質的に水平に配置されたもの",
+      "en": "the sectional headers being in horizontal or substantially-horizontal arrangement",
+      "count": 7,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B17/16": {
+      "code": "F22B17/16",
+      "level": 1,
+      "parent": "F22B17/00",
+      "ja": "構成部分；付属物",
+      "en": "Component parts thereof; Accessories therefor",
+      "count": 179,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B17/18": {
+      "code": "F22B17/18",
+      "level": 2,
+      "parent": "F22B17/16",
+      "ja": "管寄せ室；部分的管寄せ",
+      "en": "Header boxes; Sectional headers",
+      "count": 19,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B19/00": {
+      "code": "F22B19/00",
+      "level": 0,
+      "parent": "F22B",
+      "ja": "水平・傾斜形と垂直形の組み合わされた水管ボイラ，すなわち水平・傾斜形の水管ボイラが垂直または実質的に垂直に配列された補助水管を有するもの",
+      "en": "Water-tube boilers of combined horizontally-inclined type and vertical type, i.e. water-tube boilers of horizontally-inclined type having auxiliary water-tube sets in vertical or substantially-vertical arrangement",
+      "count": 144,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B21/00": {
+      "code": "F22B21/00",
+      "level": 0,
+      "parent": "F22B",
+      "ja": "垂直または鋭い傾斜型の水管ボイラ，すなわち水管組が垂直または実質的に垂直に配列されたもの",
+      "en": "Water-tube boilers of vertical or steeply-inclined type, i.e. the water-tube sets being arranged vertically or substantially vertically",
+      "count": 780,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B21/02": {
+      "code": "F22B21/02",
+      "level": 1,
+      "parent": "F22B21/00",
+      "ja": "実質的に真っすぐな水管から組み上げられたもの",
+      "en": "built-up from substantially-straight water tubes",
+      "count": 292,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B21/04": {
+      "code": "F22B21/04",
+      "level": 2,
+      "parent": "F22B21/02",
+      "ja": "１つの上部ドラムおよび１つの下部ドラムを含むもの，例．ドラムが横断的に配置されるもの",
+      "en": "involving a single upper drum and a single lower drum, e.g. the drums being arranged transversely",
+      "count": 645,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B21/06": {
+      "code": "F22B21/06",
+      "level": 3,
+      "parent": "F22B21/04",
+      "ja": "水管が環状の組になるよう配列されるもの，例．環状形のドラムと突き当て接続されるもの",
+      "en": "the water tubes being arranged annularly in sets, e.g. in abutting connection with drums of annular shape",
+      "count": 706,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B21/08": {
+      "code": "F22B21/08",
+      "level": 3,
+      "parent": "F22B21/04",
+      "ja": "水管が部分化するよう配列されてグループまたは集合になっているもの，例．端部で折り返しているもの",
+      "en": "the water tubes being arranged sectionally in groups or in banks, e.g. bent over at their ends",
+      "count": 356,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B21/10": {
+      "code": "F22B21/10",
+      "level": 3,
+      "parent": "F22B21/04",
+      "ja": "水管が互い違いに配列されるもの",
+      "en": "the water tubes being arranged in staggered rows",
+      "count": 13,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B21/12": {
+      "code": "F22B21/12",
+      "level": 2,
+      "parent": "F22B21/02",
+      "ja": "２以上の上部ドラムおよび２以上の下部ドラムがあるもの，例．ドラムと突き当て接続された交差配列する水管組を有するもの",
+      "en": "involving two or more upper drums and two or more lower drums, e.g. with crosswise-arranged water-tube sets in abutting connection with drums",
+      "count": 230,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B21/14": {
+      "code": "F22B21/14",
+      "level": 2,
+      "parent": "F22B21/02",
+      "ja": "１つの上部ドラムおよび２以上の下部ドラムがあるもの",
+      "en": "involving a single upper drum and two or more lower drums",
+      "count": 164,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B21/16": {
+      "code": "F22B21/16",
+      "level": 3,
+      "parent": "F22B21/14",
+      "ja": "下部ドラムがさらなる水管により互いに連結されるもの",
+      "en": "the lower drums being interconnected by further water tubes",
+      "count": 8,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B21/18": {
+      "code": "F22B21/18",
+      "level": 2,
+      "parent": "F22B21/02",
+      "ja": "２以上の上部ドラムおよび１つの下部ドラムがあるもの",
+      "en": "involving two or more upper drums and a single lower drum",
+      "count": 166,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B21/20": {
+      "code": "F22B21/20",
+      "level": 2,
+      "parent": "F22B21/02",
+      "ja": "おのおのの水管セットに個別に配列された部分的なまたは分割された管寄せがあるもの",
+      "en": "involving sectional or subdivided headers in separate arrangement for each water-tube set",
+      "count": 97,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B21/22": {
+      "code": "F22B21/22",
+      "level": 1,
+      "parent": "F22B21/00",
+      "ja": "直管または実質的に直管以外の水管からなるもの",
+      "en": "built-up from water tubes of form other than straight or substantially straight",
+      "count": 200,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B21/24": {
+      "code": "F22B21/24",
+      "level": 2,
+      "parent": "F22B21/22",
+      "ja": "曲りくねった形に曲げたもの",
+      "en": "bent in serpentine or sinuous form",
+      "count": 149,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B21/26": {
+      "code": "F22B21/26",
+      "level": 2,
+      "parent": "F22B21/22",
+      "ja": "ら旋状に曲げた，すなわちコイルにされた，もの",
+      "en": "bent helically, i.e. coiled",
+      "count": 267,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B21/28": {
+      "code": "F22B21/28",
+      "level": 2,
+      "parent": "F22B21/22",
+      "ja": "渦巻き状に曲げたもの",
+      "en": "bent spirally",
+      "count": 56,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B21/30": {
+      "code": "F22B21/30",
+      "level": 2,
+      "parent": "F22B21/22",
+      "ja": "Ｕ字形に曲げたもの",
+      "en": "bent in U-loop form",
+      "count": 84,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B21/32": {
+      "code": "F22B21/32",
+      "level": 3,
+      "parent": "F22B21/30",
+      "ja": "起立した管寄せまたは起き上がった給水管と突き合わせ接続して水平に配列されたもの",
+      "en": "disposed horizontally in abutting connection with upright headers or rising water mains",
+      "count": 11,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B21/34": {
+      "code": "F22B21/34",
+      "level": 1,
+      "parent": "F22B21/00",
+      "ja": "燃焼室を囲むパネル形態にグループ化された水管により組み立てられたもの，すなわち放射ボイラ",
+      "en": "built-up from water tubes grouped in panel form surrounding the combustion chamber, i.e. radiation boilers",
+      "count": 1235,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B21/36": {
+      "code": "F22B21/36",
+      "level": 2,
+      "parent": "F22B21/34",
+      "ja": "燃焼室の上端に設けられた上部ドラムまたは管寄せがあるもの",
+      "en": "involving an upper drum or headers mounted at the top of the combustion chamber",
+      "count": 195,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B21/38": {
+      "code": "F22B21/38",
+      "level": 2,
+      "parent": "F22B21/34",
+      "ja": "構成部分，例．プレハブ式パネル",
+      "en": "Component parts thereof, e.g. prefabricated panels",
+      "count": 37,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B21/40": {
+      "code": "F22B21/40",
+      "level": 1,
+      "parent": "F22B21/00",
+      "ja": "相対的に垂直軸方向に長く配設した水管により組み立てられるもの，すなわちタワーボイラ",
+      "en": "built-up from water tubes arranged in a comparatively long vertical shaft, i.e. tower boilers",
+      "count": 60,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B23/00": {
+      "code": "F22B23/00",
+      "level": 0,
+      "parent": "F22B",
+      "ja": "間隔を持って２重とされた壁を有するリターン型の水管が片端でボイラドラムまたはヘッダー箱に突き当て接続されてなるセットから組み上げられた，すなわち片端が閉鎖された外管内に配置された内管を有するフィールド管から組み上げられた，水管ボイラ［２００６．０１］",
+      "en": "Water-tube boilers built-up from sets of spaced double-walled water tubes of return type in unilateral abutting connection with a boiler drum or with a header box, i.e. built-up from Field water tubes comprising an inner tube arranged within an outer unilaterally-closed tube ",
+      "count": 165,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B23/02": {
+      "code": "F22B23/02",
+      "level": 1,
+      "parent": "F22B23/00",
+      "ja": "水管，すなわちフィールド管，のセットが水平または実質的に水平であるもの",
+      "en": "the water-tube, i.e. Field-tube, sets being horizontal or substantially horizontal",
+      "count": 20,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B23/04": {
+      "code": "F22B23/04",
+      "level": 1,
+      "parent": "F22B23/00",
+      "ja": "水管，すなわちフィールド管，のセットが垂直または実質的に垂直であるもの",
+      "en": "the water-tube, i.e. Field-tube, sets being vertical or substantially vertical",
+      "count": 53,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B23/06": {
+      "code": "F22B23/06",
+      "level": 1,
+      "parent": "F22B23/00",
+      "ja": "その構成部品，例．フィールド水管［２００６．０１］",
+      "en": "Component parts thereof, e.g. Field water tubes",
+      "count": 33,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B25/00": {
+      "code": "F22B25/00",
+      "level": 0,
+      "parent": "F22B",
+      "ja": "水管を通って延びるように内部に配置された煙道管，または煙管，を有する水管のセットから組み上げられた水管ボイラ",
+      "en": "Water-tube boilers built-up from sets of water tubes with internally-arranged flue tubes, or fire tubes, extending through the water tubes",
+      "count": 195,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B27/00": {
+      "code": "F22B27/00",
+      "level": 0,
+      "parent": "F22B",
+      "ja": "瞬間またはフラッシュ式蒸気ボイラ",
+      "en": "Instantaneous or flash steam boilers",
+      "count": 294,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B27/02": {
+      "code": "F22B27/02",
+      "level": 1,
+      "parent": "F22B27/00",
+      "ja": "煙管から組み上げられたもの",
+      "en": "built-up from fire tubes",
+      "count": 38,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B27/04": {
+      "code": "F22B27/04",
+      "level": 1,
+      "parent": "F22B27/00",
+      "ja": "水管から組み上げられたもの（Ｆ２２Ｂ２７／１２～Ｆ２２Ｂ２７／１６が優先）",
+      "en": "built-up from water tubes(<b>F22B27/12 to F22B27/16</b>  take precedence)",
+      "count": 115,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B27/06": {
+      "code": "F22B27/06",
+      "level": 2,
+      "parent": "F22B27/04",
+      "ja": "蛇行したまたは曲りくねった形態に曲げられたもの",
+      "en": "bent in serpentine or sinuous form",
+      "count": 50,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B27/08": {
+      "code": "F22B27/08",
+      "level": 2,
+      "parent": "F22B27/04",
+      "ja": "ら旋状に曲げられた，すなわちコイル状にされた，もの",
+      "en": "bent helically, i.e. coiled",
+      "count": 149,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B27/10": {
+      "code": "F22B27/10",
+      "level": 2,
+      "parent": "F22B27/04",
+      "ja": "渦巻き状に曲げられたもの",
+      "en": "bent spirally",
+      "count": 31,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B27/12": {
+      "code": "F22B27/12",
+      "level": 1,
+      "parent": "F22B27/00",
+      "ja": "回転する熱交換要素，例．管組み立て体，から組み上げられたもの",
+      "en": "built-up from rotary heat-exchange elements, e.g. from tube assemblies",
+      "count": 172,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B27/14": {
+      "code": "F22B27/14",
+      "level": 1,
+      "parent": "F22B27/00",
+      "ja": "熱保持壁をもつ密閉室内に設けられた熱交換要素から組み上げられたもの",
+      "en": "built-up from heat-exchange elements arranged within a confined chamber having heat-retaining walls",
+      "count": 155,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B27/16": {
+      "code": "F22B27/16",
+      "level": 1,
+      "parent": "F22B27/00",
+      "ja": "高温熱交換要素の上にまたは中に，例．管の中に，水の粒子を噴霧または注入するスプレイノズルがあるもの",
+      "en": "involving spray nozzles for sprinkling or injecting water particles on to or into hot heat-exchange elements, e.g. into tubes",
+      "count": 438,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B29/00": {
+      "code": "F22B29/00",
+      "level": 0,
+      "parent": "F22B",
+      "ja": "強制流動形の蒸気ボイラ",
+      "en": "Steam boilers of forced-flow type",
+      "count": 155,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B29/02": {
+      "code": "F22B29/02",
+      "level": 1,
+      "parent": "F22B29/00",
+      "ja": "強制循環形［２００６．０１］",
+      "en": "of forced-circulation type",
+      "count": 606,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B29/04": {
+      "code": "F22B29/04",
+      "level": 1,
+      "parent": "F22B29/00",
+      "ja": "組み合わせ循環形，すなわち冷水と熱水との間の比重差による対流循環が付加的な方法，例．一時的な圧力水の注入による，によって増大されるもの",
+      "en": "of combined-circulation type, i.e. in which convection circulation due to the difference in specific gravity between cold and hot water is promoted by additional measures, e.g. by injecting pressure-water temporarily",
+      "count": 54,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B29/06": {
+      "code": "F22B29/06",
+      "level": 1,
+      "parent": "F22B29/00",
+      "ja": "貫流形，すなわち管の一端の給水が他端より過熱蒸気として排出されるもの（低圧および高圧ボイラを組み合わせた強制流動形ボイラＦ２２Ｂ３３／１６）［２００６．０１］",
+      "en": "of once-through type, i.e. built-up from tubes receiving water at one end and delivering superheated steam at the other end of the tubes (combined low- and high-pressure boilers of forced-flow type <b>F22B33/16</b>)",
+      "count": 815,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B29/08": {
+      "code": "F22B29/08",
+      "level": 2,
+      "parent": "F22B29/06",
+      "ja": "完全な蒸発の最終状態の点が固定されて運転されるもの",
+      "en": "operating with fixed point of final state of complete evaporation",
+      "count": 188,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B29/10": {
+      "code": "F22B29/10",
+      "level": 2,
+      "parent": "F22B29/06",
+      "ja": "完全な蒸発の最終状態の点が変動して運転されるもの",
+      "en": "operating with sliding point of final state of complete evaporation",
+      "count": 80,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B29/12": {
+      "code": "F22B29/12",
+      "level": 2,
+      "parent": "F22B29/06",
+      "ja": "起動および低負荷運動の間再循環が加えられて運転されるもの，例．合成形ボイラ",
+      "en": "operating with superimposed recirculation during starting and low-load periods, e.g. composite boilers",
+      "count": 137,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B31/00": {
+      "code": "F22B31/00",
+      "level": 0,
+      "parent": "F22B",
+      "ja": "燃焼装置のすえ付けによるボイラ構造または管系統の修正；燃焼装置の配列または配置［２００６．０１］",
+      "en": "Modifications of boiler construction, or of tube systems, dependent on installation of combustion apparatus; Arrangements or dispositions of combustion apparatus",
+      "count": 4661,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B31/02": {
+      "code": "F22B31/02",
+      "level": 1,
+      "parent": "F22B31/00",
+      "ja": "煙突内の水管ボイラのすえ付け，例．転炉の煙突",
+      "en": "Installation of water-tube boilers in chimneys, e.g. in converter chimneys",
+      "count": 98,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B31/04": {
+      "code": "F22B31/04",
+      "level": 1,
+      "parent": "F22B31/00",
+      "ja": "２つまたはそれ以上の燃焼装置による加熱，例．ボイラおよび過熱器用にそれぞれ分離された燃焼装置",
+      "en": "Heat supply by installation of two or more combustion apparatus, e.g. of separate combustion apparatus for the boiler and the superheater respectively",
+      "count": 697,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B31/06": {
+      "code": "F22B31/06",
+      "level": 2,
+      "parent": "F22B31/04",
+      "ja": "緊急加熱装置",
+      "en": "Installation of emergency heat supply",
+      "count": 15,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B31/08": {
+      "code": "F22B31/08",
+      "level": 1,
+      "parent": "F22B31/00",
+      "ja": "燃焼用加熱空気のためのボイラ内装置または熱交換装置のすえ付け",
+      "en": "Installation of heat-exchange apparatus or of means in boilers for heating air supplied for combustion",
+      "count": 4920,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B33/00": {
+      "code": "F22B33/00",
+      "level": 0,
+      "parent": "F22B",
+      "ja": "蒸気発生プラント，例．相互に連携する異なるタイプの蒸気ボイラを有するもの［２００６．０１］",
+      "en": "Steam-generation plants, e.g. comprising steam boilers of different types in mutual association",
+      "count": 1530,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B33/02": {
+      "code": "F22B33/02",
+      "level": 1,
+      "parent": "F22B33/00",
+      "ja": "共通の１つの燃焼装置を有するボイラの組み合わせ",
+      "en": "Combinations of boilers having a single combustion apparatus in common",
+      "count": 73,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B33/04": {
+      "code": "F22B33/04",
+      "level": 2,
+      "parent": "F22B33/02",
+      "ja": "炉筒ボイラと水管ボイラの組み合わせ",
+      "en": "of boilers of furnace-tube type with boilers of water-tube type",
+      "count": 142,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B33/06": {
+      "code": "F22B33/06",
+      "level": 2,
+      "parent": "F22B33/02",
+      "ja": "炉筒ボイラと煙管ボイラの組み合わせ",
+      "en": "of boilers of furnace-tube type with boilers of fire-tube type",
+      "count": 12,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B33/08": {
+      "code": "F22B33/08",
+      "level": 2,
+      "parent": "F22B33/02",
+      "ja": "水管ボイラと煙管ボイラの組み合わせ",
+      "en": "of boilers of water-tube type with boilers of fire-tube type",
+      "count": 127,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B33/10": {
+      "code": "F22B33/10",
+      "level": 2,
+      "parent": "F22B33/02",
+      "ja": "独立した水量をもち独立した水位で運転される２以上の多重ボイラの組み合わせ",
+      "en": "of two or more superposed boilers with separate water volumes and operating with two or more separate water levels",
+      "count": 32,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B33/12": {
+      "code": "F22B33/12",
+      "level": 1,
+      "parent": "F22B33/00",
+      "ja": "自立した蒸気ボイラ，すなわち一つのユニットとして蒸気ボイラ，燃焼装置，燃料貯槽，付属機器および装備を有するもの",
+      "en": "Self-contained steam boilers, i.e. comprising as a unit the steam boiler, the combustion apparatus, the fuel storage, accessory machines, and equipment",
+      "count": 231,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B33/14": {
+      "code": "F22B33/14",
+      "level": 1,
+      "parent": "F22B33/00",
+      "ja": "低圧および高圧ボイラの組み合わせ",
+      "en": "Combinations of low- and high-pressure boilers",
+      "count": 234,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B33/16": {
+      "code": "F22B33/16",
+      "level": 2,
+      "parent": "F22B33/14",
+      "ja": "強制流動形",
+      "en": "of forced-flow type",
+      "count": 24,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B33/18": {
+      "code": "F22B33/18",
+      "level": 1,
+      "parent": "F22B33/00",
+      "ja": "蒸気ボイラと他の装置の組み合わせ",
+      "en": "Combinations of steam boilers with other apparatus",
+      "count": 5381,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B35/00": {
+      "code": "F22B35/00",
+      "level": 0,
+      "parent": "F22B",
+      "ja": "蒸気ボイラの制御系（給水の調整Ｆ２２Ｄ５／００；過熱温度制御Ｆ２２Ｇ５／００）［２００６．０１］",
+      "en": "Control systems for steam boilers (for regulating feed-water supply <b>F22D5/00</b>;  for controlling superheat temperature <b>F22G5/00</b>)",
+      "count": 8536,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B35/02": {
+      "code": "F22B35/02",
+      "level": 1,
+      "parent": "F22B35/00",
+      "ja": "自然循環の蒸気ボイラ",
+      "en": "for steam boilers with natural convection circulation",
+      "count": 78,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B35/04": {
+      "code": "F22B35/04",
+      "level": 2,
+      "parent": "F22B35/02",
+      "ja": "起動時におけるもの，すなわち炉に点火してから蒸気ボイラの通常の運転温度に達するまでの起動時におけるもの",
+      "en": "during starting-up periods, i.e. during the periods between the lighting of the furnaces and the attainment of the normal operating temperature of the steam boilers",
+      "count": 139,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B35/06": {
+      "code": "F22B35/06",
+      "level": 1,
+      "parent": "F22B35/00",
+      "ja": "強制流動形の蒸気ボイラ",
+      "en": "for steam boilers of forced-flow type",
+      "count": 182,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B35/08": {
+      "code": "F22B35/08",
+      "level": 2,
+      "parent": "F22B35/06",
+      "ja": "強制循環形によるもの",
+      "en": "of forced-circulation type",
+      "count": 147,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B35/10": {
+      "code": "F22B35/10",
+      "level": 2,
+      "parent": "F22B35/06",
+      "ja": "貫流形によるもの",
+      "en": "of once-through type",
+      "count": 813,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B35/12": {
+      "code": "F22B35/12",
+      "level": 3,
+      "parent": "F22B35/10",
+      "ja": "臨界圧または超臨界圧で運転するもの",
+      "en": "operating at critical or supercritical pressure",
+      "count": 150,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B35/14": {
+      "code": "F22B35/14",
+      "level": 2,
+      "parent": "F22B35/06",
+      "ja": "起動時におけるもの，すなわち炉に点火してから蒸気ボイラの通常の運転温度に達するまでの起動時によるもの",
+      "en": "during the starting-up periods, i.e. during the periods between the lighting of the furnaces and the attainment of the normal operating temperature of the steam boilers",
+      "count": 563,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B35/16": {
+      "code": "F22B35/16",
+      "level": 2,
+      "parent": "F22B35/06",
+      "ja": "気水混合物中の蒸気の割合によるもの",
+      "en": "responsive to the percentage of steam in the mixture of steam and water",
+      "count": 44,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B35/18": {
+      "code": "F22B35/18",
+      "level": 1,
+      "parent": "F22B35/00",
+      "ja": "電算機を応用した蒸気ボイラの制御によるもの",
+      "en": "Applications of computers to steam-boiler control",
+      "count": 998,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B37/00": {
+      "code": "F22B37/00",
+      "level": 0,
+      "parent": "F22B",
+      "ja": "蒸気ボイラの構成部分または細部［２００６．０１］",
+      "en": "Component parts or details of steam boilers",
+      "count": 6377,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B37/02": {
+      "code": "F22B37/02",
+      "level": 1,
+      "parent": "F22B37/00",
+      "ja": "２種類または２形式以上の蒸気ボイラにも適用できるもの",
+      "en": "applicable to more than one kind or type of steam boiler",
+      "count": 2375,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B37/04": {
+      "code": "F22B37/04",
+      "level": 2,
+      "parent": "F22B37/02",
+      "ja": "材料，例．特殊合金の使用，に特徴のあるもの",
+      "en": "and characterised by material, e.g. use of special steel alloy",
+      "count": 427,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B37/06": {
+      "code": "F22B37/06",
+      "level": 2,
+      "parent": "F22B37/02",
+      "ja": "煙道管または煙管；付属物，例．煙管への挿入物",
+      "en": "Flue or fire tubes; Accessories therefor, e.g. fire-tube inserts",
+      "count": 833,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B37/08": {
+      "code": "F22B37/08",
+      "level": 3,
+      "parent": "F22B37/06",
+      "ja": "管端の焼損を防止するための取り付け具",
+      "en": "Fittings preventing burning-off of the tube edges",
+      "count": 72,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B37/10": {
+      "code": "F22B37/10",
+      "level": 2,
+      "parent": "F22B37/02",
+      "ja": "水管；その付属物［２００６．０１］",
+      "en": "Water tubes; Accessories therefor",
+      "count": 4307,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B37/12": {
+      "code": "F22B37/12",
+      "level": 3,
+      "parent": "F22B37/10",
+      "ja": "水管の形状，例．種々な断面形状のもの",
+      "en": "Forms of water tubes, e.g. of varying cross-section",
+      "count": 533,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B37/14": {
+      "code": "F22B37/14",
+      "level": 3,
+      "parent": "F22B37/10",
+      "ja": "供給手段，例．水管に接続した昇水手段，降水管",
+      "en": "Supply mains, e.g. rising mains, down-comers, in connection with water tubes",
+      "count": 982,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B37/16": {
+      "code": "F22B37/16",
+      "level": 3,
+      "parent": "F22B37/10",
+      "ja": "戻り屈曲部",
+      "en": "Return bends",
+      "count": 96,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B37/18": {
+      "code": "F22B37/18",
+      "level": 3,
+      "parent": "F22B37/10",
+      "ja": "挿入物，例．水からの沈殿物を受けるもの",
+      "en": "Inserts, e.g. for receiving deposits from water",
+      "count": 178,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B37/20": {
+      "code": "F22B37/20",
+      "level": 3,
+      "parent": "F22B37/10",
+      "ja": "支持装置，例．水管一式を固定するためのもの［２００６．０１］",
+      "en": "Supporting arrangements, e.g. for securing water-tube sets",
+      "count": 2201,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B37/22": {
+      "code": "F22B37/22",
+      "level": 2,
+      "parent": "F22B37/02",
+      "ja": "ドラム；管寄せ；付属物［２００６．０１］",
+      "en": "Drums; Headers; Accessories therefor",
+      "count": 2759,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B37/24": {
+      "code": "F22B37/24",
+      "level": 2,
+      "parent": "F22B37/02",
+      "ja": "支持，懸吊またはすえ付け装置，例．遮熱のためのもの［２００６．０１］",
+      "en": "Supporting, suspending or setting arrangements, e.g. heat shielding",
+      "count": 2924,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B37/26": {
+      "code": "F22B37/26",
+      "level": 2,
+      "parent": "F22B37/02",
+      "ja": "蒸気分離装置［２００６．０１］",
+      "en": "Steam-separating arrangements",
+      "count": 3518,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B37/28": {
+      "code": "F22B37/28",
+      "level": 3,
+      "parent": "F22B37/26",
+      "ja": "流通方向を逆転するもの",
+      "en": "involving reversal of direction of flow",
+      "count": 293,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B37/30": {
+      "code": "F22B37/30",
+      "level": 3,
+      "parent": "F22B37/26",
+      "ja": "分離器の邪魔板に対する衝撃を用いるもの",
+      "en": "using impingement against baffle separators",
+      "count": 637,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B37/32": {
+      "code": "F22B37/32",
+      "level": 3,
+      "parent": "F22B37/26",
+      "ja": "遠心力を用いるもの",
+      "en": "using centrifugal force",
+      "count": 801,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B37/34": {
+      "code": "F22B37/34",
+      "level": 2,
+      "parent": "F22B37/02",
+      "ja": "水循環を増進するためのボイラの付属品（水循環を増進するための補助装置Ｆ２２Ｄ７／００）",
+      "en": "Adaptations of boilers for promoting water circulation(auxiliary devices for promoting water circulation <b>F22D7/00</b>)",
+      "count": 354,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B37/36": {
+      "code": "F22B37/36",
+      "level": 2,
+      "parent": "F22B37/02",
+      "ja": "ボイラを包覆する装置",
+      "en": "Arrangements for sheathing or casing boilers",
+      "count": 1306,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B37/38": {
+      "code": "F22B37/38",
+      "level": 2,
+      "parent": "F22B37/02",
+      "ja": "蒸気ボイラ内の運転状態の測定または指示，例．水管を流れる給水の方向または流量の監視［２００６．０１］",
+      "en": "Determining or indicating operating conditions in steam boilers, e.g. monitoring direction or rate of water flow through water tubes",
+      "count": 2639,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B37/40": {
+      "code": "F22B37/40",
+      "level": 2,
+      "parent": "F22B37/02",
+      "ja": "蒸気ボイラの煙道内の分割壁の配列，例．邪魔板で形成されたもの［２００６．０１］",
+      "en": "Arrangements of partition walls in flues of steam boilers, e.g. built-up from baffles",
+      "count": 439,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B37/42": {
+      "code": "F22B37/42",
+      "level": 2,
+      "parent": "F22B37/02",
+      "ja": "警報装置または自動安全装置の適用，配列または配置（給水加熱器用Ｆ２２Ｄ１／１４）［２００６．０１］",
+      "en": "Applications, arrangements or dispositions of alarm or automatic safety devices (for feed-water heaters <b>F22D1/14</b>)",
+      "count": 2820,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B37/44": {
+      "code": "F22B37/44",
+      "level": 3,
+      "parent": "F22B37/42",
+      "ja": "安全弁があるもの［２００６．０１］",
+      "en": "of safety valves",
+      "count": 1045,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B37/46": {
+      "code": "F22B37/46",
+      "level": 3,
+      "parent": "F22B37/42",
+      "ja": "低水位または高水位に応答するもの，例．ボイラーの燃焼停止用，抑制用または消火用［２００６．０１］",
+      "en": "responsive to low or high water level, e.g. for checking, suppressing or extinguishing combustion in boilers",
+      "count": 1042,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B37/47": {
+      "code": "F22B37/47",
+      "level": 3,
+      "parent": "F22B37/42",
+      "ja": "異常温度に応答するもの，例．可溶性プラグにより作動するもの［２００６．０１］",
+      "en": "responsive to abnormal temperature, e.g. actuated by fusible plugs",
+      "count": 540,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B37/48": {
+      "code": "F22B37/48",
+      "level": 2,
+      "parent": "F22B37/02",
+      "ja": "ボイラから水，無機物またはスラッジを除去する機器または装置（ボイラの水管，炉管等の清掃Ｆ２８Ｇ）［２００６．０１］<br><br><b><ul>注</ul></b><br>注［４］<br>グループＦ２２Ｂ３７／４８はボイラが作動中に用いられるシステム，またはボイラが作動中に所定位置にとどまるシステム，または他のどのような効用も伴わないボイラに特に適用されるシステムのみを包含する。",
+      "en": "Devices or arrangements for removing water, minerals or sludge from boilers (cleaning water tubes, furnace tubes or the like of boilers <b>F28G</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>Group <b>F22B37/48</b><u>covers</u> only systems used while the boiler is in operation, or which remain in position while the boiler is in operation, or are specifically adapted to boilers without any other utility. </li></ul>",
+      "count": 1868,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B37/50": {
+      "code": "F22B37/50",
+      "level": 3,
+      "parent": "F22B37/48",
+      "ja": "排水用",
+      "en": "for draining or expelling water",
+      "count": 1307,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B37/52": {
+      "code": "F22B37/52",
+      "level": 3,
+      "parent": "F22B37/48",
+      "ja": "洗浄装置",
+      "en": "Washing-out devices",
+      "count": 1313,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B37/54": {
+      "code": "F22B37/54",
+      "level": 3,
+      "parent": "F22B37/48",
+      "ja": "スラッジ除去またはブローダウン装置",
+      "en": "De-sludging or blow-down devices",
+      "count": 3951,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B37/56": {
+      "code": "F22B37/56",
+      "level": 2,
+      "parent": "F22B37/02",
+      "ja": "ボイラ清掃制御装置，例．ボイラのブローダウンの適切な持続を確実にするもの",
+      "en": "Boiler-cleaning control devices, e.g. for ascertaining proper duration of boiler blow-down",
+      "count": 1180,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B37/58": {
+      "code": "F22B37/58",
+      "level": 2,
+      "parent": "F22B37/02",
+      "ja": "管寄せまたはドラムからの管の除去；抽出工具",
+      "en": "Removing tubes from headers or drums; Extracting tools",
+      "count": 126,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B37/60": {
+      "code": "F22B37/60",
+      "level": 1,
+      "parent": "F22B37/00",
+      "ja": "瞬間的またはフラッシュ形の蒸気ボイラに特に適するもの",
+      "en": "specially adapted for steam boilers of instantaneous or flash type",
+      "count": 56,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B37/62": {
+      "code": "F22B37/62",
+      "level": 1,
+      "parent": "F22B37/00",
+      "ja": "強制流動形の蒸気ボイラに特に適合するもの",
+      "en": "specially adapted for steam boilers of forced-flow type",
+      "count": 31,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B37/64": {
+      "code": "F22B37/64",
+      "level": 2,
+      "parent": "F22B37/62",
+      "ja": "管単体のすえ付けまたは支持装置［２００６．０１］",
+      "en": "Mounting of, or supporting arrangements for, tube units",
+      "count": 125,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B37/66": {
+      "code": "F22B37/66",
+      "level": 3,
+      "parent": "F22B37/64",
+      "ja": "垂直に配置された水管があるもの",
+      "en": "involving vertically-disposed water tubes",
+      "count": 54,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B37/68": {
+      "code": "F22B37/68",
+      "level": 3,
+      "parent": "F22B37/64",
+      "ja": "水平に配置された水管があるもの",
+      "en": "involving horizontally-disposed water tubes",
+      "count": 49,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B37/70": {
+      "code": "F22B37/70",
+      "level": 2,
+      "parent": "F22B37/62",
+      "ja": "水管に水を配分する装置",
+      "en": "Arrangements for distributing water into water tubes",
+      "count": 81,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B37/72": {
+      "code": "F22B37/72",
+      "level": 3,
+      "parent": "F22B37/70",
+      "ja": "注入装置",
+      "en": "involving injection devices",
+      "count": 27,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B37/74": {
+      "code": "F22B37/74",
+      "level": 3,
+      "parent": "F22B37/70",
+      "ja": "管または管組み立て体の絞り弁装置",
+      "en": "Throttling arrangements for tubes or sets of tubes",
+      "count": 138,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B37/76": {
+      "code": "F22B37/76",
+      "level": 1,
+      "parent": "F22B37/00",
+      "ja": "流体流の存在または方向を観察する装置の適用またはすえ付け［２００６．０１］",
+      "en": "Adaptations or mounting of devices for observing existence or direction of fluid flow",
+      "count": 53,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    },
+    "F22B37/78": {
+      "code": "F22B37/78",
+      "level": 1,
+      "parent": "F22B37/00",
+      "ja": "レベル指示器の適用またはすえ付け［２００６．０１］",
+      "en": "Adaptations or mounting of level indicators",
+      "count": 1276,
+      "sourceFile": "ipc_F22B.txt",
+      "kind": "ipc"
+    }
+  }
+};

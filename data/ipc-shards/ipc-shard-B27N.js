@@ -1,0 +1,246 @@
+window.IPC_SHARD_B27N = {
+  "generatedAt": "2026-03-20T02:17:46.151Z",
+  "total": 24,
+  "entries": {
+    "B27N": {
+      "code": "B27N",
+      "level": 0,
+      "parent": "B27",
+      "ja": "木材または他のリグノセルロースまたは類似の有機材料からなる粒子または繊維から形成される物品の，有機結合剤を有しまたは有しない乾式法による製造（セメント質材料を含むものＢ２８Ｂ；可塑状態の物質の成形Ｂ２９Ｃ；繊維懸濁液から形成されるファイバーボードＤ２１Ｊ；乾燥Ｆ２６Ｂ１７／００）［４］<br><br><b><ul>注</ul></b><br>このサブクラスは，可塑状態にある組成物の処理，またはプラスチックの加工と同一型式の方法または装置による処理を包含しない。ただし，これはサブクラスＢ２９ＢまたはＢ２９Ｃに包含される。［４］",
+      "en": "MANUFACTURE BY DRY PROCESSES OF ARTICLES, WITH OR WITHOUT ORGANIC BINDING AGENTS, MADE FROM PARTICLES OR FIBRES CONSISTING OF WOOD OR OTHER LIGNOCELLULOSIC OR LIKE ORGANIC MATERIAL(containing cementitious material <b>B28B</b>; shaping of substances in a plastic state <b>B29C</b>; fibreboards made from fibrous suspensions <b>D21J</b>; drying <b>F26B17/00</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>This subclass <u>does not cover</u> treatment of compositions which are in a plastic state, or worked by the same type of process or apparatus as plastics, which is covered by subclass <b>B29B</b> or <b>B29C</b>. </li></ul>",
+      "count": 354,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B27": {
+      "code": "B27",
+      "level": 0,
+      "parent": "B",
+      "ja": "木材または類似の材料の加工または保存；釘打ち機またはステープル打ち機一般",
+      "en": "WORKING OR PRESERVING WOOD OR SIMILAR MATERIAL; NAILING OR STAPLING MACHINES IN GENERAL",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B": {
+      "code": "B",
+      "level": 0,
+      "parent": null,
+      "ja": "処理操作；運輸",
+      "en": "PERFORMING OPERATIONS; TRANSPORTING",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B27N1/00": {
+      "code": "B27N1/00",
+      "level": 0,
+      "parent": "B27N",
+      "ja": "成形材料の前処理［４］",
+      "en": "Pretreatment of moulding material",
+      "count": 3360,
+      "sourceFile": "ipc_B27N.txt",
+      "kind": "ipc"
+    },
+    "B27N1/02": {
+      "code": "B27N1/02",
+      "level": 1,
+      "parent": "B27N1/00",
+      "ja": "材料と結合剤の混合（混合一般Ｂ０１Ｆ）［４］",
+      "en": "Mixing the material with binding agent(mixing in general <b>B01F</b>)",
+      "count": 3773,
+      "sourceFile": "ipc_B27N.txt",
+      "kind": "ipc"
+    },
+    "B27N3/00": {
+      "code": "B27N3/00",
+      "level": 0,
+      "parent": "B27N",
+      "ja": "実質的に平坦な物品，例．粒子または繊維からのボード，の製造［２００６．０１］",
+      "en": "Manufacture of substantially flat articles, e.g. boards, from particles or fibres",
+      "count": 5106,
+      "sourceFile": "ipc_B27N.txt",
+      "kind": "ipc"
+    },
+    "B27N3/02": {
+      "code": "B27N3/02",
+      "level": 1,
+      "parent": "B27N3/00",
+      "ja": "粒子からなる物品の製造［４］",
+      "en": "from particles",
+      "count": 4773,
+      "sourceFile": "ipc_B27N.txt",
+      "kind": "ipc"
+    },
+    "B27N3/04": {
+      "code": "B27N3/04",
+      "level": 1,
+      "parent": "B27N3/00",
+      "ja": "繊維からなる物品の製造［４］",
+      "en": "from fibres",
+      "count": 5043,
+      "sourceFile": "ipc_B27N.txt",
+      "kind": "ipc"
+    },
+    "B27N3/06": {
+      "code": "B27N3/06",
+      "level": 1,
+      "parent": "B27N3/00",
+      "ja": "予備成形された被覆層と共に，単一の加圧操作により粒子または繊維が加圧されたパーティクルボードまたはファイバーボードの製造［４］",
+      "en": "Making particle boards or fibreboards, with preformed covering layers, the particles or fibres being compressed with the layers to a board in one single pressing operation",
+      "count": 1262,
+      "sourceFile": "ipc_B27N.txt",
+      "kind": "ipc"
+    },
+    "B27N3/08": {
+      "code": "B27N3/08",
+      "level": 1,
+      "parent": "B27N3/00",
+      "ja": "成形またはプレス加工（プレス一般Ｂ３０Ｂ）［４］",
+      "en": "Moulding or pressing(presses in general <b>B30B</b>)",
+      "count": 4719,
+      "sourceFile": "ipc_B27N.txt",
+      "kind": "ipc"
+    },
+    "B27N3/10": {
+      "code": "B27N3/10",
+      "level": 2,
+      "parent": "B27N3/08",
+      "ja": "マットの成形［４］",
+      "en": "Moulding of mats",
+      "count": 2123,
+      "sourceFile": "ipc_B27N.txt",
+      "kind": "ipc"
+    },
+    "B27N3/12": {
+      "code": "B27N3/12",
+      "level": 3,
+      "parent": "B27N3/10",
+      "ja": "繊維から成形するもの［４］",
+      "en": "from fibres",
+      "count": 1624,
+      "sourceFile": "ipc_B27N.txt",
+      "kind": "ipc"
+    },
+    "B27N3/14": {
+      "code": "B27N3/14",
+      "level": 3,
+      "parent": "B27N3/10",
+      "ja": "粒子または繊維の分配または配向［４］",
+      "en": "Distributing or orienting the particles or fibres",
+      "count": 2264,
+      "sourceFile": "ipc_B27N.txt",
+      "kind": "ipc"
+    },
+    "B27N3/16": {
+      "code": "B27N3/16",
+      "level": 2,
+      "parent": "B27N3/08",
+      "ja": "マット成形ステーションからプレスへの材料の移送（Ｂ２７Ｎ３／２２が優先）；材料の移送のために特に適合する装置またはそのための構成要素，例．コール（運搬装置一般Ｂ６５Ｇ）［４］",
+      "en": "Transporting the material from mat moulding stations to presses(<b>B27N3/22</b> takes precedence);Apparatus specially adapted for transporting the material or component parts therefor, e.g. cauls(transport devices in general <b>B65G</b>)",
+      "count": 939,
+      "sourceFile": "ipc_B27N.txt",
+      "kind": "ipc"
+    },
+    "B27N3/18": {
+      "code": "B27N3/18",
+      "level": 2,
+      "parent": "B27N3/08",
+      "ja": "補助操作，例．予備加熱，加湿，切断［４］",
+      "en": "Auxiliary operations, e.g. preheating, humidifying, cutting-off",
+      "count": 3767,
+      "sourceFile": "ipc_B27N.txt",
+      "kind": "ipc"
+    },
+    "B27N3/20": {
+      "code": "B27N3/20",
+      "level": 2,
+      "parent": "B27N3/08",
+      "ja": "プラテンープレスを利用することにより特徴づけられたもの［４］",
+      "en": "characterised by using platen-presses",
+      "count": 1903,
+      "sourceFile": "ipc_B27N.txt",
+      "kind": "ipc"
+    },
+    "B27N3/22": {
+      "code": "B27N3/22",
+      "level": 3,
+      "parent": "B27N3/20",
+      "ja": "充填または排出［４］",
+      "en": "Charging or discharging",
+      "count": 401,
+      "sourceFile": "ipc_B27N.txt",
+      "kind": "ipc"
+    },
+    "B27N3/24": {
+      "code": "B27N3/24",
+      "level": 2,
+      "parent": "B27N3/08",
+      "ja": "圧縮領域を移動する無端ベルトまたはチエンを有する連続作動プレスを利用することにより特徴づけられたもの［４］",
+      "en": "characterised by using continuously acting presses having endless belts or chains moved within the compression zone",
+      "count": 1040,
+      "sourceFile": "ipc_B27N.txt",
+      "kind": "ipc"
+    },
+    "B27N3/26": {
+      "code": "B27N3/26",
+      "level": 2,
+      "parent": "B27N3/08",
+      "ja": "加熱されたプレスドラムと無端ベルトを有し，材料をベルトとドラムの間で圧縮する連続作動プレスを利用することにより特徴づけられたもの［４］",
+      "en": "characterised by using continuously acting presses having a heated press drum and an endless belt to compress the material between belt and drum",
+      "count": 294,
+      "sourceFile": "ipc_B27N.txt",
+      "kind": "ipc"
+    },
+    "B27N3/28": {
+      "code": "B27N3/28",
+      "level": 2,
+      "parent": "B27N3/08",
+      "ja": "押出プレスの利用により特徴づけられたもの［４］",
+      "en": "characterised by using extrusion presses",
+      "count": 1138,
+      "sourceFile": "ipc_B27N.txt",
+      "kind": "ipc"
+    },
+    "B27N5/00": {
+      "code": "B27N5/00",
+      "level": 0,
+      "parent": "B27N",
+      "ja": "平坦でない物品の製造［４］",
+      "en": "Manufacture of non-flat articles",
+      "count": 2303,
+      "sourceFile": "ipc_B27N.txt",
+      "kind": "ipc"
+    },
+    "B27N5/02": {
+      "code": "B27N5/02",
+      "level": 1,
+      "parent": "B27N5/00",
+      "ja": "中空物品の製造［４］",
+      "en": "Hollow articles",
+      "count": 631,
+      "sourceFile": "ipc_B27N.txt",
+      "kind": "ipc"
+    },
+    "B27N7/00": {
+      "code": "B27N7/00",
+      "level": 0,
+      "parent": "B27N",
+      "ja": "後処理，例．膨潤または収縮の軽減，表面処理；湿気からのボード端部の保護［４］",
+      "en": "After-treatment, e.g. reducing swelling or shrinkage, surfacing; Protecting the edges of boards against access of humidity",
+      "count": 6101,
+      "sourceFile": "ipc_B27N.txt",
+      "kind": "ipc"
+    },
+    "B27N9/00": {
+      "code": "B27N9/00",
+      "level": 0,
+      "parent": "B27N",
+      "ja": "耐火用処理装置（耐火材料Ｃ０９Ｋ２１／００）［４］",
+      "en": "Arrangements for fireproofing(fireproofing materials <b>C09K21/00</b>)",
+      "count": 317,
+      "sourceFile": "ipc_B27N.txt",
+      "kind": "ipc"
+    }
+  }
+};

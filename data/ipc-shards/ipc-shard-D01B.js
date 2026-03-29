@@ -1,0 +1,496 @@
+window.IPC_SHARD_D01B = {
+  "generatedAt": "2026-03-20T02:17:46.559Z",
+  "total": 49,
+  "entries": {
+    "D01B": {
+      "code": "D01B",
+      "level": 0,
+      "parent": "D01",
+      "ja": "繊維またはフィラメントを採取するための天然の繊維状またはフィラメント状材料の機械的処理，例．紡績用（鉱石からの石綿の抽出Ｂ０３Ｂ；浸水装置Ｄ０１Ｃ）<br><br><b><ul>注</ul></b><br>クラスＤ０１のタイトルに続く注に注意すること。<br><br><b><ul>サブクラス内の索引</ul></b><br>植物材料の処理<br>植物材料からの繊維の分離　１／００<br>ハックリングまたは櫛梳機械　５／００<br>動物繊維の処理<br>バー取り，洗浄，精練　３／００<br>絹繊維の採取　７／００<br>その他の処理　９／００",
+      "en": "MECHANICAL TREATMENT OF NATURAL FIBROUS OR FILAMENTARY MATERIAL TO OBTAIN FIBRES OR FILAMENTS, e.g. FOR SPINNING(crude extraction of asbestos fibres from ores <b>B03B</b>; apparatus for retting <b>D01C</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>Attention is drawn to the Note following the title of class <b>D01</b>.</li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">TREATMENT OF PLANT MATERIAL<tr><td width=\"70%\">Separation of fibres from plant material </td><td><b><b>1/00</b></b></td></tr></tr><tr><td width=\"70%\">Hackling or heckling machines </td><td><b><b>5/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">TREATMENT OF ANIMAL FIBRES<tr><td width=\"70%\">De-burring, washing, scouring </td><td><b><b>3/00</b></b></td></tr></tr><tr><td width=\"70%\">Obtaining silk fibres </td><td><b><b>7/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">OTHER TREATMENTS </td><td><b><b>9/00</b></b></td></tr></tr></table>",
+      "count": 285,
+      "sourceFile": "ipc_D.txt",
+      "kind": "ipc"
+    },
+    "D01": {
+      "code": "D01",
+      "level": 0,
+      "parent": "D",
+      "ja": "天然または人造の糸または繊維；紡績<br><br><b><ul>注</ul></b><br>このクラスにおいては，下記の用語は以下に示す意味で用いる：<br>―“繊維”は比較的短く，細長い天然または人造の物質よりなるものを意味する；<br>―“フィラメント”はエンドレスまたは準エンドレスで，細長い天然または人造の物質よりなるものを意味する；<br>―“糸”は繊維の単一の集合体を意味し，通常紡績によって製造される；<br>―“より糸”は糸またはフィラメントの集合体を意味し，通常加ねんによって製造される；<br>―“合成”繊維またはフィラメントはポリマーまたは低分子を合成させたものから製造される繊維またはフィラメントまたは類似物を意味する。例は，ポリアミド，アクリル，ポリエステルまたは炭素繊維である；［２０１４．０１］<br>―“人工”繊維またはフィラメントは天然ポリマーまたはその派生物から人が製造した繊維またはフィラメントまたは類似物を意味する。例は，再生セルロース繊維または半合成繊維である；［２０１４．０１］<br>―“人造”繊維またはフィラメントは人が製造した繊維またはフィラメントを意味し，“合成”繊維または“人工”繊維を含む。［２０１４．０１］",
+      "en": "NATURAL OR MAN-MADE THREADS OR FIBRES; SPINNING; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this class, the following terms are used with the meanings indicated: <ul><li>\"fibre\" means a relatively-short, elongated member of natural or man-made material;</li><li>\"filament\" means an endless or quasi-endless, elongated member of natural or man-made material;</li><li>\"yarn\" means a unitary assembly of fibres, usually produced by spinning;</li><li>\"thread\" means an assembly of yarns or filaments, usually produced by twisting;</li><li>\"synthetic\" fibres or filaments means fibres or filaments or the like manufactured from synthesising polymers or small molecules. Examples are polyamide, acrylic, polyester or carbon fibres;     </li><li>\"artificial\" fibres or filaments means fibres or filaments or the like manufactured by man from natural polymers or their derivatives. Examples are regenerated cellulosic fibres or semi-synthetic fibres;     </li><li>&ldquo;man-made&rdquo; fibres or filaments means fibres or filaments which are manufactured by man including &ldquo;synthetic&rdquo; or &ldquo;artificial&rdquo; fibres.     </li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_D.txt",
+      "kind": "ipc"
+    },
+    "D": {
+      "code": "D",
+      "level": 0,
+      "parent": null,
+      "ja": "繊維；紙<br><br><b><ul>注</ul></b><br>このセクションにおいては，下記の用語は以下に示す意味で用いる：<br>―“繊維”は比較的短く，細長い天然または人造の物質よりなるものを意味する；［２０１４．０１］<br>―“フィラメント”はエンドレスまたは準エンドレスで，細長い天然または人造の物質よりなるものを意味する；［２０１４．０１］<br>―“糸”は繊維の単一の集合体を意味し，通常紡績によって製造される；［２０１４．０１］<br>―“より糸”は糸またはフィラメントの集合体を意味し，通常加ねんによって製造される；［２０１４．０１］<br>―“合成”繊維またはフィラメントはポリマーまたは低分子を合成させたものから製造される繊維またはフィラメントまたは類似物を意味する。例は，ポリアミド，アクリル，ポリエステルまたは炭素繊維である；［２０１４．０１］<br>―“人工”繊維またはフィラメントは天然ポリマーまたはその派生物から人が製造した繊維またはフィラメントまたは類似物を意味する。例は，再生セルロース繊維または半合成繊維である；［２０１４．０１］<br>―“人造”繊維またはフィラメントは人が製造した繊維またはフィラメントを意味し，“合成”繊維または“人工”繊維を含む。［２０１４．０１］",
+      "en": "TEXTILES; PAPER; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this section, the following terms are used with the meanings indicated: <ul><li>\"fibre\" means a relatively-short, elongated member of natural or man-made material;    </li><li>\"filament\" means an endless or quasi-endless, elongated member of natural or man-made material;    </li><li>\"yarn\" means a unitary assembly of fibres, usually produced by spinning;    </li><li>\"thread\" means an assembly of yarns or filaments, usually produced by twisting;    </li><li>\"synthetic\" fibres or filaments means fibres or filaments or the like manufactured from synthesising polymers or small molecules. Examples are polyamide, acrylic, polyester or carbon fibres;    </li><li>\"artificial\" fibres or filaments means fibres or filaments or the like manufactured by man from natural polymers or their derivatives. Examples are regenerated cellulosic fibres or semi-synthetic fibres;    </li><li>\"man-made&rdquo; fibres or filaments means fibres or filaments which are manufactured by man including &ldquo;synthetic&rdquo; or &ldquo;artificial&rdquo; fibres.    </li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_D.txt",
+      "kind": "ipc"
+    },
+    "D01B1/00": {
+      "code": "D01B1/00",
+      "level": 0,
+      "parent": "D01B",
+      "ja": "植物材料，例．種，葉，茎，からの繊維の機械的分離",
+      "en": "Mechanical separation of fibres from plant material, e.g. seeds, leaves, stalks",
+      "count": 372,
+      "sourceFile": "ipc_D01B.txt",
+      "kind": "ipc"
+    },
+    "D01B1/02": {
+      "code": "D01B1/02",
+      "level": 1,
+      "parent": "D01B1/00",
+      "ja": "種からの植物繊維の分離，例．綿",
+      "en": "Separating vegetable fibres from seeds, e.g. cotton",
+      "count": 814,
+      "sourceFile": "ipc_D01B.txt",
+      "kind": "ipc"
+    },
+    "D01B1/04": {
+      "code": "D01B1/04",
+      "level": 2,
+      "parent": "D01B1/02",
+      "ja": "繰綿",
+      "en": "Ginning",
+      "count": 798,
+      "sourceFile": "ipc_D01B.txt",
+      "kind": "ipc"
+    },
+    "D01B1/06": {
+      "code": "D01B1/06",
+      "level": 3,
+      "parent": "D01B1/04",
+      "ja": "ローラ式繰綿機，例．マッカーシー形",
+      "en": "Roller gins, e.g. Macarthy type",
+      "count": 328,
+      "sourceFile": "ipc_D01B.txt",
+      "kind": "ipc"
+    },
+    "D01B1/08": {
+      "code": "D01B1/08",
+      "level": 3,
+      "parent": "D01B1/04",
+      "ja": "のこ歯状繰綿機",
+      "en": "Saw gins",
+      "count": 661,
+      "sourceFile": "ipc_D01B.txt",
+      "kind": "ipc"
+    },
+    "D01B1/10": {
+      "code": "D01B1/10",
+      "level": 1,
+      "parent": "D01B1/00",
+      "ja": "茎または葉からの植物繊維の分離",
+      "en": "Separating vegetable fibres from stalks or leaves",
+      "count": 1189,
+      "sourceFile": "ipc_D01B.txt",
+      "kind": "ipc"
+    },
+    "D01B1/12": {
+      "code": "D01B1/12",
+      "level": 2,
+      "parent": "D01B1/10",
+      "ja": "脱種",
+      "en": "Rippling",
+      "count": 135,
+      "sourceFile": "ipc_D01B.txt",
+      "kind": "ipc"
+    },
+    "D01B1/14": {
+      "code": "D01B1/14",
+      "level": 2,
+      "parent": "D01B1/10",
+      "ja": "砕茎または製繊，例．亜麻の；はく皮",
+      "en": "Breaking or scutching, e.g. of flax; Decorticating",
+      "count": 757,
+      "sourceFile": "ipc_D01B.txt",
+      "kind": "ipc"
+    },
+    "D01B1/16": {
+      "code": "D01B1/16",
+      "level": 3,
+      "parent": "D01B1/14",
+      "ja": "繊維を含む材料を砕茎または解繊するための押し曲げ装置をもつもの（破砕ローラＤ０１Ｂ１／２２）",
+      "en": "with devices dependent on a bending action to break or loosen fibre-bearing materials(crushing rollers <b>D01B1/22</b>)",
+      "count": 140,
+      "sourceFile": "ipc_D01B.txt",
+      "kind": "ipc"
+    },
+    "D01B1/18": {
+      "code": "D01B1/18",
+      "level": 3,
+      "parent": "D01B1/14",
+      "ja": "打砕装置をもつもの",
+      "en": "with stamping devices",
+      "count": 96,
+      "sourceFile": "ipc_D01B.txt",
+      "kind": "ipc"
+    },
+    "D01B1/20": {
+      "code": "D01B1/20",
+      "level": 3,
+      "parent": "D01B1/14",
+      "ja": "削摩装置をもつもの",
+      "en": "with scraping devices",
+      "count": 191,
+      "sourceFile": "ipc_D01B.txt",
+      "kind": "ipc"
+    },
+    "D01B1/22": {
+      "code": "D01B1/22",
+      "level": 3,
+      "parent": "D01B1/14",
+      "ja": "破砕または砕茎用ローラまたはプレートをもつもの",
+      "en": "with crushing or breaking rollers or plates",
+      "count": 688,
+      "sourceFile": "ipc_D01B.txt",
+      "kind": "ipc"
+    },
+    "D01B1/24": {
+      "code": "D01B1/24",
+      "level": 3,
+      "parent": "D01B1/14",
+      "ja": "歯状または他の尖状装置をもつもの",
+      "en": "with toothed or other pointed devices",
+      "count": 251,
+      "sourceFile": "ipc_D01B.txt",
+      "kind": "ipc"
+    },
+    "D01B1/26": {
+      "code": "D01B1/26",
+      "level": 3,
+      "parent": "D01B1/14",
+      "ja": "繊維束と平行な軸のまわりを回転するビータをもつもの",
+      "en": "with beaters rotating about an axis parallel to the fibre bundle",
+      "count": 53,
+      "sourceFile": "ipc_D01B.txt",
+      "kind": "ipc"
+    },
+    "D01B1/28": {
+      "code": "D01B1/28",
+      "level": 3,
+      "parent": "D01B1/14",
+      "ja": "繊維束と垂直な軸のまわりを回転するビータをもつもの",
+      "en": "with beaters rotating about an axis perpendicular to the fibre bundle",
+      "count": 147,
+      "sourceFile": "ipc_D01B.txt",
+      "kind": "ipc"
+    },
+    "D01B1/30": {
+      "code": "D01B1/30",
+      "level": 3,
+      "parent": "D01B1/14",
+      "ja": "機械の細部",
+      "en": "Details of machines",
+      "count": 416,
+      "sourceFile": "ipc_D01B.txt",
+      "kind": "ipc"
+    },
+    "D01B1/32": {
+      "code": "D01B1/32",
+      "level": 4,
+      "parent": "D01B1/30",
+      "ja": "供給装置",
+      "en": "Feeding arrangements",
+      "count": 434,
+      "sourceFile": "ipc_D01B.txt",
+      "kind": "ipc"
+    },
+    "D01B1/34": {
+      "code": "D01B1/34",
+      "level": 4,
+      "parent": "D01B1/30",
+      "ja": "処理中の繊維または繊維を含む材料をは持する装置",
+      "en": "Devices holding fibres or fibre-bearing materials during treatment",
+      "count": 163,
+      "sourceFile": "ipc_D01B.txt",
+      "kind": "ipc"
+    },
+    "D01B1/36": {
+      "code": "D01B1/36",
+      "level": 5,
+      "parent": "D01B1/34",
+      "ja": "運搬装置，例．移動する帯またはロープ",
+      "en": "Conveying devices, e.g. moving bands or ropes",
+      "count": 207,
+      "sourceFile": "ipc_D01B.txt",
+      "kind": "ipc"
+    },
+    "D01B1/38": {
+      "code": "D01B1/38",
+      "level": 4,
+      "parent": "D01B1/30",
+      "ja": "繰り出しまたは送り出し装置",
+      "en": "Delivery or discharge arrangements",
+      "count": 99,
+      "sourceFile": "ipc_D01B.txt",
+      "kind": "ipc"
+    },
+    "D01B1/40": {
+      "code": "D01B1/40",
+      "level": 4,
+      "parent": "D01B1/30",
+      "ja": "非繊維状物質の除去装置",
+      "en": "Arrangements for disposing of non-fibrous materials",
+      "count": 132,
+      "sourceFile": "ipc_D01B.txt",
+      "kind": "ipc"
+    },
+    "D01B1/42": {
+      "code": "D01B1/42",
+      "level": 5,
+      "parent": "D01B1/40",
+      "ja": "流体を使用するもの",
+      "en": "employing liquids",
+      "count": 155,
+      "sourceFile": "ipc_D01B.txt",
+      "kind": "ipc"
+    },
+    "D01B1/44": {
+      "code": "D01B1/44",
+      "level": 4,
+      "parent": "D01B1/30",
+      "ja": "フレーム；ケーシング；カバリング；グリッド",
+      "en": "Framework; Casings; Coverings; Grids",
+      "count": 46,
+      "sourceFile": "ipc_D01B.txt",
+      "kind": "ipc"
+    },
+    "D01B1/46": {
+      "code": "D01B1/46",
+      "level": 4,
+      "parent": "D01B1/30",
+      "ja": "駆動装置",
+      "en": "Driving arrangements",
+      "count": 188,
+      "sourceFile": "ipc_D01B.txt",
+      "kind": "ipc"
+    },
+    "D01B1/48": {
+      "code": "D01B1/48",
+      "level": 2,
+      "parent": "D01B1/10",
+      "ja": "浸水繊維の乾燥",
+      "en": "Drying retted fibres",
+      "count": 156,
+      "sourceFile": "ipc_D01B.txt",
+      "kind": "ipc"
+    },
+    "D01B1/50": {
+      "code": "D01B1/50",
+      "level": 1,
+      "parent": "D01B1/00",
+      "ja": "他の特殊な植物材料からの繊維の採取，例．泥炭，さるおがせもどき，からの採取",
+      "en": "Obtaining fibres from other specified vegetable matter, e.g. peat, Spanish moss",
+      "count": 181,
+      "sourceFile": "ipc_D01B.txt",
+      "kind": "ipc"
+    },
+    "D01B3/00": {
+      "code": "D01B3/00",
+      "level": 0,
+      "parent": "D01B",
+      "ja": "動物繊維からの不純物の機械的除去（動物繊維再生のためのボロ毛くずの炭化Ｄ０１Ｃ５／００）［２］",
+      "en": "Mechanical removal of impurities from animal fibres(carbonising rags to recover animal fibres <b>D01C5/00</b>)",
+      "count": 344,
+      "sourceFile": "ipc_D01B.txt",
+      "kind": "ipc"
+    },
+    "D01B3/02": {
+      "code": "D01B3/02",
+      "level": 1,
+      "parent": "D01B3/00",
+      "ja": "バー取り機械または装置（梳綿機または牽伸機械の一部を構成しまたはそれらの機械と完全に組み合わさったバー取り装置，例．バー破砕用ローラＤ０１Ｇ）",
+      "en": "De-burring machines or apparatus(de-burring arrangements forming part of, or intimately associated with, carding or drafting machines, e.g. burr-crushing rollers, <b>D01G</b>)",
+      "count": 534,
+      "sourceFile": "ipc_D01B.txt",
+      "kind": "ipc"
+    },
+    "D01B3/04": {
+      "code": "D01B3/04",
+      "level": 1,
+      "parent": "D01B3/00",
+      "ja": "バラ毛繊維の洗浄または精練用機械または装置",
+      "en": "Machines or apparatus for washing or scouring loose wool fibres",
+      "count": 1077,
+      "sourceFile": "ipc_D01B.txt",
+      "kind": "ipc"
+    },
+    "D01B3/06": {
+      "code": "D01B3/06",
+      "level": 2,
+      "parent": "D01B3/04",
+      "ja": "毛または液体が循環運動するもの［２００６．０１］",
+      "en": "with circular movement of either wool or liquid",
+      "count": 108,
+      "sourceFile": "ipc_D01B.txt",
+      "kind": "ipc"
+    },
+    "D01B3/08": {
+      "code": "D01B3/08",
+      "level": 2,
+      "parent": "D01B3/04",
+      "ja": "毛または液体が長手方向に運動するもの",
+      "en": "with longitudinal movement of either wool or liquid",
+      "count": 222,
+      "sourceFile": "ipc_D01B.txt",
+      "kind": "ipc"
+    },
+    "D01B3/10": {
+      "code": "D01B3/10",
+      "level": 2,
+      "parent": "D01B3/04",
+      "ja": "機械または装置の細部",
+      "en": "Details of machines or apparatus",
+      "count": 805,
+      "sourceFile": "ipc_D01B.txt",
+      "kind": "ipc"
+    },
+    "D01B5/00": {
+      "code": "D01B5/00",
+      "level": 0,
+      "parent": "D01B",
+      "ja": "ハックリングまたは櫛梳（せっそ）機械（手動櫛梳具Ｄ０１Ｇ３３／００）",
+      "en": "Hackling or heckling machines(hand heckling tools <b>D01G33/00</b>)",
+      "count": 314,
+      "sourceFile": "ipc_D01B.txt",
+      "kind": "ipc"
+    },
+    "D01B5/02": {
+      "code": "D01B5/02",
+      "level": 1,
+      "parent": "D01B5/00",
+      "ja": "細部",
+      "en": "Details",
+      "count": 107,
+      "sourceFile": "ipc_D01B.txt",
+      "kind": "ipc"
+    },
+    "D01B5/04": {
+      "code": "D01B5/04",
+      "level": 2,
+      "parent": "D01B5/02",
+      "ja": "機械からまたは機械への材料の供給，は持または運搬装置",
+      "en": "Apparatus for feeding, holding, or conveying materials to or in machines",
+      "count": 140,
+      "sourceFile": "ipc_D01B.txt",
+      "kind": "ipc"
+    },
+    "D01B5/06": {
+      "code": "D01B5/06",
+      "level": 2,
+      "parent": "D01B5/02",
+      "ja": "櫛梳装置の構造，すえ付け，操作に特徴あるもの",
+      "en": "Construction, mounting, or operating features of heckling devices",
+      "count": 111,
+      "sourceFile": "ipc_D01B.txt",
+      "kind": "ipc"
+    },
+    "D01B5/08": {
+      "code": "D01B5/08",
+      "level": 2,
+      "parent": "D01B5/02",
+      "ja": "短繊維またはくずの除去または処理装置",
+      "en": "Arrangements for removing, or disposing of, tow or waste",
+      "count": 34,
+      "sourceFile": "ipc_D01B.txt",
+      "kind": "ipc"
+    },
+    "D01B5/10": {
+      "code": "D01B5/10",
+      "level": 2,
+      "parent": "D01B5/02",
+      "ja": "刺針または他の仕上げ装置",
+      "en": "Touch pins or other ending devices",
+      "count": 7,
+      "sourceFile": "ipc_D01B.txt",
+      "kind": "ipc"
+    },
+    "D01B5/12": {
+      "code": "D01B5/12",
+      "level": 2,
+      "parent": "D01B5/02",
+      "ja": "フレーム；ケーシング；カバリング",
+      "en": "Framework; Casings; Coverings",
+      "count": 9,
+      "sourceFile": "ipc_D01B.txt",
+      "kind": "ipc"
+    },
+    "D01B5/14": {
+      "code": "D01B5/14",
+      "level": 2,
+      "parent": "D01B5/02",
+      "ja": "駆動装置",
+      "en": "Driving arrangements",
+      "count": 44,
+      "sourceFile": "ipc_D01B.txt",
+      "kind": "ipc"
+    },
+    "D01B5/16": {
+      "code": "D01B5/16",
+      "level": 2,
+      "parent": "D01B5/02",
+      "ja": "じんあいまたは類似物の制限または除去装置",
+      "en": "Arrangements for confining or removing dust or the like",
+      "count": 42,
+      "sourceFile": "ipc_D01B.txt",
+      "kind": "ipc"
+    },
+    "D01B7/00": {
+      "code": "D01B7/00",
+      "level": 0,
+      "parent": "D01B",
+      "ja": "絹繊維またはフィラメントの採取",
+      "en": "Obtaining silk fibres or filaments",
+      "count": 1707,
+      "sourceFile": "ipc_D01B.txt",
+      "kind": "ipc"
+    },
+    "D01B7/02": {
+      "code": "D01B7/02",
+      "level": 1,
+      "parent": "D01B7/00",
+      "ja": "繭の洗浄または選別",
+      "en": "Cleaning or classifying silk cocoons",
+      "count": 476,
+      "sourceFile": "ipc_D01B.txt",
+      "kind": "ipc"
+    },
+    "D01B7/04": {
+      "code": "D01B7/04",
+      "level": 1,
+      "parent": "D01B7/00",
+      "ja": "繰り糸",
+      "en": "Reeling silk",
+      "count": 2642,
+      "sourceFile": "ipc_D01B.txt",
+      "kind": "ipc"
+    },
+    "D01B7/06": {
+      "code": "D01B7/06",
+      "level": 1,
+      "parent": "D01B7/00",
+      "ja": "繰り糸に不適当な繭またはその一部からの絹の採取（絹の不純物の除去Ｄ０１Ｃ３／０２）",
+      "en": "Obtaining silk from cocoons or portions thereof not suitable for reeling(de-gumming silk <b>D01C3/02</b>)",
+      "count": 136,
+      "sourceFile": "ipc_D01B.txt",
+      "kind": "ipc"
+    },
+    "D01B9/00": {
+      "code": "D01B9/00",
+      "level": 0,
+      "parent": "D01B",
+      "ja": "繊維またはフィラメントを採取するための天然繊維状またはフィラメント状材料のその他の機械的処理",
+      "en": "Other mechanical treatment of natural fibrous or filamentary material to obtain fibres or filaments",
+      "count": 1287,
+      "sourceFile": "ipc_D01B.txt",
+      "kind": "ipc"
+    }
+  }
+};

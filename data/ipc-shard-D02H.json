@@ -1,0 +1,316 @@
+{
+  "generatedAt": "2026-03-20T02:17:46.570Z",
+  "total": 31,
+  "entries": {
+    "D02H": {
+      "code": "D02H",
+      "level": 0,
+      "parent": "D02",
+      "ja": "整経，ビーム巻き取りまたは綾取り<br><br><b><ul>注</ul></b><br>クラスＤ０２のタイトルに続く注に注意すること。<br><br><b><ul>サブクラス内の索引</ul></b><br>クリール　１／００<br>整経；ビーム巻き取り；整経とビーム巻き取りの組み合せ　３／００；５／００；７／００<br>綾取り　９／００<br>その他の機械および方法　１１／００<br>機械の細部　１３／００",
+      "en": "WARPING, BEAMING, OR LEASING; <br><br><b><u>Note(s)</u></b><br><br><ul><li>Attention is drawn to the Note following the title of class <b>D02</b>.</li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">CREELS </td><td><b><b>1/00</b></b></td></tr></tr><tr><td width=\"70%\">WARPING; BEAMING; WARPING AND BEAMING COMBINED </td><td><b><b>3/00</b>; <b>5/00</b>; <b>7/00</b></b></td></tr></tr><tr><td width=\"70%\">LEASING </td><td><b><b>9/00</b></b></td></tr></tr><tr><td width=\"70%\">OTHER MACHINES AND METHODS </td><td><b><b>11/00</b></b></td></tr></tr><tr><td width=\"70%\">DETAILS OF MACHINES </td><td><b><b>13/00</b></b></td></tr></tr></table>",
+      "count": 138,
+      "sourceFile": "ipc_D.txt",
+      "kind": "ipc"
+    },
+    "D02": {
+      "code": "D02",
+      "level": 0,
+      "parent": "D",
+      "ja": "糸；糸またはロープの機械的な仕上げ；整経またはビーム巻き取り<br><br><b><ul>注</ul></b><br>このクラスにおいては，下記の用語は以下に示す意味で用いる：<br>―“繊維”は比較的短く，細長い天然または人造の物質よりなるものを意味する；<br>―“フィラメント”はエンドレスまたは準エンドレスで，細長い天然または人造の物質よりなるものを意味する；<br>―“糸”は繊維の単一の集合体を意味し，通常紡績によって製造される；<br>―“より糸”は糸またはフィラメントの集合体を意味し，通常加ねんによって製造される；<br>―“合成”繊維またはフィラメントはポリマーまたは低分子を合成させたものから製造される繊維またはフィラメントまたは類似物を意味する。例は，ポリアミド，アクリル，ポリエステルまたは炭素繊維である；［２０１４．０１］<br>―“人工”繊維またはフィラメントは天然ポリマーまたはその派生物から人が製造した繊維またはフィラメントまたは類似物を意味する。例は，再生セルロース繊維または半合成繊維である；［２０１４．０１］<br>―“人造”繊維またはフィラメントは人が製造した繊維またはフィラメントを意味し，“合成”繊維または“人工”繊維を含む。［２０１４．０１］",
+      "en": "YARNS; MECHANICAL FINISHING OF YARNS OR ROPES; WARPING OR BEAMING; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this class, the following terms are used with the meanings indicated: <ul><li>\"fibre\" means a relatively-short, elongated member of natural or man-made material;</li><li>\"filament\" means an endless or quasi-endless, elongated member of natural or man-made material;</li><li>\"yarn\" means a unitary assembly of fibres, usually produced by spinning;</li><li>\"thread\" means an assembly of yarns or filaments, usually produced by twisting;</li><li>\"synthetic\" fibres or filaments means fibres or filaments or the like manufactured from synthesising polymers or small molecules. Examples are polyamide, acrylic, polyester or carbon fibres;     </li><li>\"artificial\" fibres or filaments means fibres or filaments or the like manufactured by man from natural polymers or their derivatives. Examples are regenerated cellulosic fibres or semi-synthetic fibres;    </li><li>&ldquo;man-made&rdquo; fibres or filaments means fibres or filaments which are manufactured by man including &ldquo;synthetic&rdquo; or &ldquo;artificial&rdquo; fibres.    </li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_D.txt",
+      "kind": "ipc"
+    },
+    "D": {
+      "code": "D",
+      "level": 0,
+      "parent": null,
+      "ja": "繊維；紙<br><br><b><ul>注</ul></b><br>このセクションにおいては，下記の用語は以下に示す意味で用いる：<br>―“繊維”は比較的短く，細長い天然または人造の物質よりなるものを意味する；［２０１４．０１］<br>―“フィラメント”はエンドレスまたは準エンドレスで，細長い天然または人造の物質よりなるものを意味する；［２０１４．０１］<br>―“糸”は繊維の単一の集合体を意味し，通常紡績によって製造される；［２０１４．０１］<br>―“より糸”は糸またはフィラメントの集合体を意味し，通常加ねんによって製造される；［２０１４．０１］<br>―“合成”繊維またはフィラメントはポリマーまたは低分子を合成させたものから製造される繊維またはフィラメントまたは類似物を意味する。例は，ポリアミド，アクリル，ポリエステルまたは炭素繊維である；［２０１４．０１］<br>―“人工”繊維またはフィラメントは天然ポリマーまたはその派生物から人が製造した繊維またはフィラメントまたは類似物を意味する。例は，再生セルロース繊維または半合成繊維である；［２０１４．０１］<br>―“人造”繊維またはフィラメントは人が製造した繊維またはフィラメントを意味し，“合成”繊維または“人工”繊維を含む。［２０１４．０１］",
+      "en": "TEXTILES; PAPER; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this section, the following terms are used with the meanings indicated: <ul><li>\"fibre\" means a relatively-short, elongated member of natural or man-made material;    </li><li>\"filament\" means an endless or quasi-endless, elongated member of natural or man-made material;    </li><li>\"yarn\" means a unitary assembly of fibres, usually produced by spinning;    </li><li>\"thread\" means an assembly of yarns or filaments, usually produced by twisting;    </li><li>\"synthetic\" fibres or filaments means fibres or filaments or the like manufactured from synthesising polymers or small molecules. Examples are polyamide, acrylic, polyester or carbon fibres;    </li><li>\"artificial\" fibres or filaments means fibres or filaments or the like manufactured by man from natural polymers or their derivatives. Examples are regenerated cellulosic fibres or semi-synthetic fibres;    </li><li>\"man-made&rdquo; fibres or filaments means fibres or filaments which are manufactured by man including &ldquo;synthetic&rdquo; or &ldquo;artificial&rdquo; fibres.    </li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_D.txt",
+      "kind": "ipc"
+    },
+    "D02H1/00": {
+      "code": "D02H1/00",
+      "level": 0,
+      "parent": "D02H",
+      "ja": "クリール，すなわち糸を多数本供給する装置",
+      "en": "Creels, i.e. apparatus for supplying a multiplicity of individual threads",
+      "count": 1801,
+      "sourceFile": "ipc_D02H.txt",
+      "kind": "ipc"
+    },
+    "D02H3/00": {
+      "code": "D02H3/00",
+      "level": 0,
+      "parent": "D02H",
+      "ja": "整経機",
+      "en": "Warping machines",
+      "count": 3947,
+      "sourceFile": "ipc_D02H.txt",
+      "kind": "ipc"
+    },
+    "D02H5/00": {
+      "code": "D02H5/00",
+      "level": 0,
+      "parent": "D02H",
+      "ja": "ビーム巻き取り機",
+      "en": "Beaming machines",
+      "count": 385,
+      "sourceFile": "ipc_D02H.txt",
+      "kind": "ipc"
+    },
+    "D02H5/02": {
+      "code": "D02H5/02",
+      "level": 1,
+      "parent": "D02H5/00",
+      "ja": "のり付け装置またはその他のたて糸処理装置との組み合わせにかかるもの（のり付け自体Ｄ０６Ｂ）",
+      "en": "combined with apparatus for sizing or other treatment of warps(sizing <u>per se</u><b>D06B</b>)",
+      "count": 451,
+      "sourceFile": "ipc_D02H.txt",
+      "kind": "ipc"
+    },
+    "D02H7/00": {
+      "code": "D02H7/00",
+      "level": 0,
+      "parent": "D02H",
+      "ja": "整経とビーム巻き取りが組み合わされた装置",
+      "en": "Combined warping and beaming machines",
+      "count": 134,
+      "sourceFile": "ipc_D02H.txt",
+      "kind": "ipc"
+    },
+    "D02H9/00": {
+      "code": "D02H9/00",
+      "level": 0,
+      "parent": "D02H",
+      "ja": "綾取り",
+      "en": "Leasing",
+      "count": 395,
+      "sourceFile": "ipc_D02H.txt",
+      "kind": "ipc"
+    },
+    "D02H9/02": {
+      "code": "D02H9/02",
+      "level": 1,
+      "parent": "D02H9/00",
+      "ja": "綾棒または綾ひも",
+      "en": "Lease rods or bands",
+      "count": 81,
+      "sourceFile": "ipc_D02H.txt",
+      "kind": "ipc"
+    },
+    "D02H11/00": {
+      "code": "D02H11/00",
+      "level": 0,
+      "parent": "D02H",
+      "ja": "グループＤ０２Ｈ１／００～Ｄ０２Ｈ９／００に分類されない方法または装置，例．たて糸の清浄",
+      "en": "Methods or apparatus not provided for in groups <b>D02H1/00 to D02H9/00</b> , e.g. for cleaning the warp",
+      "count": 202,
+      "sourceFile": "ipc_D02H.txt",
+      "kind": "ipc"
+    },
+    "D02H13/00": {
+      "code": "D02H13/00",
+      "level": 0,
+      "parent": "D02H",
+      "ja": "このサブクラスの他のグループに属する機械の細部",
+      "en": "Details of machines of the other groups of this subclass",
+      "count": 2742,
+      "sourceFile": "ipc_D02H.txt",
+      "kind": "ipc"
+    },
+    "D02H13/02": {
+      "code": "D02H13/02",
+      "level": 1,
+      "parent": "D02H13/00",
+      "ja": "停止機構",
+      "en": "Stop motions",
+      "count": 186,
+      "sourceFile": "ipc_D02H.txt",
+      "kind": "ipc"
+    },
+    "D02H13/04": {
+      "code": "D02H13/04",
+      "level": 2,
+      "parent": "D02H13/02",
+      "ja": "各糸または糸の小群ごとに検出器を具備し糸の破断，弛緩または過張力に応動するもの",
+      "en": "responsive to breakage, slackness, or excessive tension of threads, with detectors for individual threads or small groups of threads",
+      "count": 174,
+      "sourceFile": "ipc_D02H.txt",
+      "kind": "ipc"
+    },
+    "D02H13/06": {
+      "code": "D02H13/06",
+      "level": 3,
+      "parent": "D02H13/04",
+      "ja": "機械的なもの",
+      "en": "mechanical",
+      "count": 49,
+      "sourceFile": "ipc_D02H.txt",
+      "kind": "ipc"
+    },
+    "D02H13/08": {
+      "code": "D02H13/08",
+      "level": 3,
+      "parent": "D02H13/04",
+      "ja": "電気的なもの",
+      "en": "electrical",
+      "count": 335,
+      "sourceFile": "ipc_D02H.txt",
+      "kind": "ipc"
+    },
+    "D02H13/10": {
+      "code": "D02H13/10",
+      "level": 2,
+      "parent": "D02H13/02",
+      "ja": "糸長計測装置と連動するもの，例．所定長のたて糸の巻き取りが終了した時に機械を停止させるもの",
+      "en": "responsive to thread-measuring devices, e.g. stopping the machine when required length of warp has been wound",
+      "count": 92,
+      "sourceFile": "ipc_D02H.txt",
+      "kind": "ipc"
+    },
+    "D02H13/12": {
+      "code": "D02H13/12",
+      "level": 1,
+      "parent": "D02H13/00",
+      "ja": "変速駆動機構",
+      "en": "Variable-speed driving mechanisms",
+      "count": 143,
+      "sourceFile": "ipc_D02H.txt",
+      "kind": "ipc"
+    },
+    "D02H13/14": {
+      "code": "D02H13/14",
+      "level": 2,
+      "parent": "D02H13/12",
+      "ja": "たて糸の張力に応じて自動制御されるもの",
+      "en": "controlled automatically by tension in the warp",
+      "count": 218,
+      "sourceFile": "ipc_D02H.txt",
+      "kind": "ipc"
+    },
+    "D02H13/16": {
+      "code": "D02H13/16",
+      "level": 1,
+      "parent": "D02H13/00",
+      "ja": "糸間隔を決定するためのおさ，コームまたはその他の装置",
+      "en": "Reeds, combs, or other devices for determining the spacing of threads",
+      "count": 583,
+      "sourceFile": "ipc_D02H.txt",
+      "kind": "ipc"
+    },
+    "D02H13/18": {
+      "code": "D02H13/18",
+      "level": 2,
+      "parent": "D02H13/16",
+      "ja": "間隔が調節できるもの",
+      "en": "with adjustable spacing",
+      "count": 199,
+      "sourceFile": "ipc_D02H.txt",
+      "kind": "ipc"
+    },
+    "D02H13/20": {
+      "code": "D02H13/20",
+      "level": 2,
+      "parent": "D02H13/16",
+      "ja": "間隔が固定されたもの",
+      "en": "with fixed spacing",
+      "count": 107,
+      "sourceFile": "ipc_D02H.txt",
+      "kind": "ipc"
+    },
+    "D02H13/22": {
+      "code": "D02H13/22",
+      "level": 1,
+      "parent": "D02H13/00",
+      "ja": "張力装置",
+      "en": "Tensioning devices",
+      "count": 421,
+      "sourceFile": "ipc_D02H.txt",
+      "kind": "ipc"
+    },
+    "D02H13/24": {
+      "code": "D02H13/24",
+      "level": 2,
+      "parent": "D02H13/22",
+      "ja": "糸別のもの",
+      "en": "for individual threads",
+      "count": 271,
+      "sourceFile": "ipc_D02H.txt",
+      "kind": "ipc"
+    },
+    "D02H13/26": {
+      "code": "D02H13/26",
+      "level": 2,
+      "parent": "D02H13/22",
+      "ja": "整経糸束用のもの（定張力の保持を目的とするビームまたはその類似のものの駆動制御Ｄ０２Ｈ１３／１４）",
+      "en": "for threads in warp form(controlling the driving of beams, or the like, to keep tension constant <b>D02H13/14</b>)",
+      "count": 924,
+      "sourceFile": "ipc_D02H.txt",
+      "kind": "ipc"
+    },
+    "D02H13/28": {
+      "code": "D02H13/28",
+      "level": 1,
+      "parent": "D02H13/00",
+      "ja": "ワープビーム（クロスビームＤ０３Ｄ４９／２０）",
+      "en": "Warp beams(cloth beams <b>D03D49/20</b>)",
+      "count": 975,
+      "sourceFile": "ipc_D02H.txt",
+      "kind": "ipc"
+    },
+    "D02H13/30": {
+      "code": "D02H13/30",
+      "level": 2,
+      "parent": "D02H13/28",
+      "ja": "つばを有するもの",
+      "en": "with flanges",
+      "count": 219,
+      "sourceFile": "ipc_D02H.txt",
+      "kind": "ipc"
+    },
+    "D02H13/32": {
+      "code": "D02H13/32",
+      "level": 3,
+      "parent": "D02H13/30",
+      "ja": "調節可能なもの",
+      "en": "adjustable",
+      "count": 106,
+      "sourceFile": "ipc_D02H.txt",
+      "kind": "ipc"
+    },
+    "D02H13/34": {
+      "code": "D02H13/34",
+      "level": 2,
+      "parent": "D02H13/28",
+      "ja": "部分整経用のもの",
+      "en": "sectional",
+      "count": 47,
+      "sourceFile": "ipc_D02H.txt",
+      "kind": "ipc"
+    },
+    "D02H13/36": {
+      "code": "D02H13/36",
+      "level": 2,
+      "parent": "D02H13/28",
+      "ja": "たて糸をビームに付ける手段",
+      "en": "Means for attaching warp to beam",
+      "count": 58,
+      "sourceFile": "ipc_D02H.txt",
+      "kind": "ipc"
+    },
+    "D02H13/38": {
+      "code": "D02H13/38",
+      "level": 1,
+      "parent": "D02H13/00",
+      "ja": "ビーム載架枠",
+      "en": "Storage racks for beams",
+      "count": 237,
+      "sourceFile": "ipc_D02H.txt",
+      "kind": "ipc"
+    }
+  }
+}

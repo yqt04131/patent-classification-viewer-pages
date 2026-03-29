@@ -1,0 +1,1396 @@
+window.IPC_SHARD_C25B = {
+  "generatedAt": "2026-03-20T02:17:46.533Z",
+  "total": 139,
+  "entries": {
+    "C25B": {
+      "code": "C25B",
+      "level": 0,
+      "parent": "C25",
+      "ja": "化合物または非金属の製造のための電気分解または電気泳動方法；そのための装置（陽極または陰極保護Ｃ２３Ｆ１３／００；単結晶成長Ｃ３０Ｂ）［２］<br><br><b><ul>注</ul></b><br>特定の化合物はもし重要であるならば関連するクラス，例．Ｃ０１，Ｃ０７，にも分類される。［２］",
+      "en": "ELECTROLYTIC OR ELECTROPHORETIC PROCESSES FOR THE PRODUCTION OF COMPOUNDS OR NON- METALS; APPARATUS THEREFOR(anodic or cathodic protection <b>C23F13/00</b>; single-crystal growth <b>C30B</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>Compounds of particular interest are also classified in the relevant classes, e.g. in <b>C01</b>, <b>C07</b>.</li></ul>",
+      "count": 647,
+      "sourceFile": "ipc_C.txt",
+      "kind": "ipc"
+    },
+    "C25": {
+      "code": "C25",
+      "level": 0,
+      "parent": "C",
+      "ja": "電気分解または電気泳動方法；そのための装置［４］<br><br><b><ul>注</ul></b><br>（１）電気分解もしくは電気泳動方法または装置または操作的特徴は以下のグループに分類する。<br>（ｉ）製造される化合物または物品のためのグループ，および<br>（ｉｉ）装置または操作的特徴を包含するグループ［２］<br>（２）物質の電解または電気泳動による精製は液体の性質に従って関連する箇所，例．Ａ０１Ｋ６３／００，Ｃ０２Ｆ１／４６，Ｃ２５Ｂ１５／０８，Ｃ２５Ｄ２１／１６，Ｃ２５Ｆ７／０２，に分類する。［２］<br>（３）金属質材料の表面処理のための多段階工程で、少なくとも１工程はクラスＣ２３に分類され，少なくとも１工程はクラスＣ２５に包含される方法はグループＣ２３Ｆ１７／００に分類する。［２０１２．０１］<br><br><b><ul>サブクラス内の索引</ul></b><br>電解による製造<br>無機化合物，非金属　Ｃ２５Ｂ１／００<br>有機化合物　Ｃ２５Ｂ３／００<br>非金属被覆　Ｃ２５Ｄ９／００<br>金属　Ｃ２５Ｃ１／００，３／００，５／００<br>金属被覆　Ｃ２５Ｄ３／００，５／００，７／００<br>電気の同時的発生を伴なう化合物または非金属の電解製造　Ｃ２５Ｂ５／００<br>電気泳動による製造<br>化合物，非金属　Ｃ２５Ｂ７／００<br>被覆物　Ｃ２５Ｄ１３／００<br>電鋳　Ｃ２５Ｄ１／００<br>陽極処理，りん酸塩処理，クロム酸塩処理　Ｃ２５Ｄ１１／００<br>埋め込み材料を含む被覆　Ｃ２５Ｄ１５／００<br>金属被覆物の電解洗浄，酸洗または除去　Ｃ２５Ｆ１／００，５／００<br>電解エッチングまたは研摩　Ｃ２５Ｆ３／００<br>槽，電極，隔膜<br>化合物または非金属の製造　Ｃ２５Ｂ９／００，１１／００，１３／００，１５／００<br>金属の製造　Ｃ２５Ｃ７／００<br>被覆物の製造　Ｃ２５Ｄ１７／００，１９／００，２１／００<br>洗浄，酸洗，表面処理　Ｃ２５Ｆ７／００",
+      "en": "ELECTROLYTIC OR ELECTROPHORETIC PROCESSES; APPARATUS THEREFOR; <br><br><b><u>Note(s)</u></b><br><br><ul><li>Electrolytic or electrophoretic processes or apparatus or operational features are classified <ul><li>in the groups for the compounds or articles produced, and</li><li>in the groups which cover the apparatus or operational features.   </li></ul></li><li>The electrolytic or electrophoretic purification of materials is classified according to the nature of the liquid in the relevant places, e.g. <b>A01K63/00</b>, <b>C02F1/46</b>, <b>C25B15/08</b>, <b>C25D21/16</b>, <b>C25F7/02</b>.   </li><li>Multi-step processes for surface treatment of metallic material involving at least one process provided for in class <b>C23</b> and at least one process provided for in class are classified in group <b>C23F17/00</b>. </li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">ELECTROLYTIC PRODUCTION<tr><td width=\"70%\">Inorganic compounds, non-metals </td><td><b><b>1/00</b></b></td></tr></tr><tr><td width=\"70%\">Organic compounds </td><td><b><b>3/00</b></b></td></tr></tr><tr><td width=\"70%\">Non-metallic coatings </td><td><b><b>9/00</b></b></td></tr></tr><tr><td width=\"70%\">Metals </td><td><b><b>1/00</b>, <b>3/00</b>, <b>5/00</b></b></td></tr></tr><tr><td width=\"70%\">Metallic coatings </td><td><b><b>3/00</b>, <b>5/00</b>, <b>7/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">ELECTROLYTIC PRODUCTION OF COMPOUNDS OR NON-METALS WITH SIMULTANEOUS PRODUCTION OF ELECTRICITY </td><td><b><b>5/00</b></b></td></tr></tr><tr><td width=\"70%\">ELECTROPHORETIC PRODUCTION<tr><td width=\"70%\">Compounds, non-metals </td><td><b><b>7/00</b></b></td></tr></tr><tr><td width=\"70%\">Coatings </td><td><b><b>13/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">ELECTROFORMING </td><td><b><b>1/00</b></b></td></tr></tr><tr><td width=\"70%\">ANODISING, PHOSPHATISING, CHROMATISING </td><td><b><b>11/00</b></b></td></tr></tr><tr><td width=\"70%\">COATINGS WITH EMBEDDED MATERIAL </td><td><b><b>15/00</b></b></td></tr></tr><tr><td width=\"70%\">ELECTROLYTIC CLEANING, PICKLING, OR REMOVAL OF METALLIC COATINGS </td><td><b><b>1/00</b>, <b>5/00</b></b></td></tr></tr><tr><td width=\"70%\">ELECTROLYTIC ETCHING OR POLISHING </td><td><b><b>3/00</b></b></td></tr></tr><tr><td width=\"70%\">CELLS, ELECTRODES, DIAPHRAGMS<tr><td width=\"70%\">Production of compounds or non-metals </td><td><b><b>9/00</b>, <b>11/00</b>, <b>13/00</b>, <b>15/00</b></b></td></tr></tr><tr><td width=\"70%\">Production of metals </td><td><b><b>7/00</b></b></td></tr></tr><tr><td width=\"70%\">Production of coatings </td><td><b><b>17/00</b>, <b>19/00</b>, <b>21/00</b></b></td></tr></tr><tr><td width=\"70%\">Cleaning, pickling, surface treatment </td><td><b><b>7/00</b></b></td></tr></tr></tr></table>",
+      "count": 0,
+      "sourceFile": "ipc_C.txt",
+      "kind": "ipc"
+    },
+    "C": {
+      "code": "C",
+      "level": 0,
+      "parent": null,
+      "ja": "化学；冶金<br><br><b><ul>注</ul></b><br>（１）セクションＣにおいて，化学元素の種類に関する定義は次の通りである：<br>アルカリ金属：Ｌｉ，Ｎａ，Ｋ，Ｒｂ，Ｃｓ，Ｆｒ<br>アルカリ土類金属：Ｃａ，Ｓｒ，Ｂａ，Ｒａ<br>ランタニド：原子番号５７から７１までの元素<br>希土類：Ｓｃ，Ｙ，ランタニド<br>アクチニド：原子番号８９から１０３までの元素<br>耐火金属：Ｔｉ，Ｖ，Ｃｒ，Ｚｒ，Ｎｂ，Ｍｏ，Ｈｆ，Ｔａ，Ｗ<br>ハロゲン：Ｆ，Ｃｌ，Ｂｒ，Ｉ，Ａｔ<br>希ガス：Ｈｅ，Ｎｅ，Ａｒ，Ｋｒ，Ｘｅ，Ｒｎ<br>白金族：Ｏｓ，Ｉｒ，Ｐｔ，Ｒｕ，Ｒｈ，Ｐｄ<br>貴金属：Ａｇ，Ａｕ，白金族<br>軽金属：アルカリ金属，アルカリ土類金属，Ｂｅ，Ａｌ，Ｍｇ<br>重金属：軽金属以外の金属<br>鉄族：Ｆｅ，Ｃｏ，Ｎｉ<br>非金属：Ｈ，Ｂ，Ｃ，Ｓｉ，Ｎ，Ｐ，Ｏ，Ｓ，Ｓｅ，Ｔｅ，希ガス，ハロゲン<br>金属：非金属以外の元素<br>遷移元素：原子番号２１から３０まで，３９から４８まで，５７から８０まで，８９以上の元素<br>（２）Ｃセクションは以下のものを包含する：<br>（ａ）無機化合物，有機化合物，高分子化合物およびそれらの調製法を包含する純粋化学；<br>（ｂ）たとえばガラス，セラミック，肥料，プラスチック組成物，ペイント，石油工業の製品のような上記化合物を含有する組成物を包含する応用化学。それはまた，爆発物，染料，接着剤，潤滑剤および洗剤のように，ある目的に適した特別の性質をもつための組成物をも包含する；<br>（ｃ）コークスの製造，固体または気体燃料の製造，油脂およびろうの製造および精製，発酵工業（例．ビールおよびぶどう酒の製造），製糖工業のようなある境界工業；<br>（ｄ）ある操作または処理であって，純粋に機械的な処理，例．レザーおよび皮の機械的処理，または部分的機械的処理，例．水処理，または腐食防止一般であるもの；<br>（ｅ）冶金，鉄または非鉄合金<br>（３）ＩＰＣの全てのセクションにおいて，相反する指示がない限り，元素記号周期表への言及は，以下に示す１８のグループを表す。［２００９．０１］<br>’「図」’<br>’「図」’<br>（４）<br>（ａ）化学的部分または面および非化学的部分または面の両方を有する操作，処理，製品または物品の場合に，一般規則として，化学的部分または面はＣセクションに包含される。<br>（ｂ）これらのうちのある場合には，化学的部分または面には非化学的部分または面を伴い，純粋に機械的部分または面を伴うことさえある，というのは非化学的面は操作または処理にとって本質的であるかまたはそれらの重要な要素を構成するからである；実際，全体のさまざまな部分または面を分割しないのがより論理的と思える。これは応用化学や上記注（１）（ｃ），（ｄ）および（ｅ）の工業，操作および処理の場合に適用される。例えば，ガラス製造用特殊炉はＣ０３に包含されＦ２７には包含されない。<br>（ｃ）しかしながら，機械的面（または非化学的面）に非化学的な面が伴うという例外もある，例えば：<br>―サブクラスＡ６１Ｋにおけるある抽出プロセス；<br>―サブクラスＡ６１Ｌにおける空気の化学的精製；<br>―サブクラスＡ６２Ｄにおける化学的消火方法；<br>―クラスＢ０１における化学的プロセスおよび装置；<br>―サブクラスＢ２７Ｋにおける木材の含浸；<br>―サブクラスＧ０１Ｎにおける化学的分析または試験法；<br>―クラスＧ０３における写真材料またはプロセス，そして一般に，Ｄセクションにおける繊維の化学的処理および繊維素，紙等の製造<br>（ｄ）さらに他の場合，純粋化学的面はＣセクションに包含され，応用化学的面はＡ，Ｂ，Ｆセクションのような他のセクションに包含される，例．以下の物質または組成物の使用：<br>―サブクラスＡ０１Ｎに包含される植物または動物の処理；<br>―クラスＡ２３に包含される食物；<br>―クラスＦ４２に包含される弾薬または爆薬<br>（ｅ）化学的面および機械的面が非常に交錯して，簡単明確な分割ができない時，または化学的処理が自然なまたは論理的な延長として機械的プロセスを要する時は，化学的面に加えて，Ｃセクションは機械的面の一部のみ，例．クラスＣ０４に包含される人造石の後処理，を包含する。この後者の場合に，たとえその区別がむしろ任意であってもその位置を明確にするよう注または参照を通常設けている。",
+      "en": "CHEMISTRY; METALLURGY; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In section <b>C</b>, the definitions of groups of chemical elements are as follows: <ul><li><u>Alkali metals:</u> Li, Na, K, Rb, Cs, Fr</li><li><u>Alkaline earth metals:</u> Ca, Sr, Ba, Ra</li><li><u>Lanthanides:</u> elements with atomic numbers 57 to 71 inclusive</li><li><u>Rare earths:</u> Sc, Y, Lanthanides</li><li><u>Actinides:</u> elements with atomic numbers 89 to 103 inclusive</li><li><u>Refractory metals:</u> Ti, V, Cr, Zr, Nb, Mo, Hf, Ta, W</li><li><u>Halogens:</u> F, Cl, Br, I, At</li><li><u>Noble gases:</u> He, Ne, Ar, Kr, Xe, Rn</li><li><u>Platinum group:</u> Os, Ir, Pt, Ru, Rh, Pd</li><li><u>Noble metals:</u> Ag, Au, Platinum group</li><li><u>Light metals:</u> alkali metals, alkaline earth metals, Be, Al, Mg</li><li><u>Heavy metals:</u> metals other than light metals</li><li><u>Iron group:</u> Fe, Co, Ni</li><li><u>Non-metals:</u> H, B, C, Si, N, P, O, S, Se, Te, noble gases, halogens</li><li><u>Metals:</u> elements other than non-metals</li><li><u>Transition elements:</u> elements with atomic numbers 21 to 30 inclusive, 39 to 48 inclusive, 57 to 80 inclusive, 89 upwards</li></ul></li><li>Section <b>C</b> <u>covers</u> : <ul><li>pure chemistry, which covers inorganic compounds, organic compounds, macromolecular compounds, and their methods of preparation;</li><li>applied chemistry, which covers compositions containing the above compounds, such as: glass, ceramics, fertilisers, plastics compositions, paints, products of the petroleum industry. It also <u>covers</u> certain compositions on account of their having particular properties rendering them suitable for certain purposes, as in the case of explosives, dyestuffs, adhesives, lubricants, and detergents;</li><li>certain marginal industries, such as the manufacture of coke and of solid or gaseous fuels, the production and refining of oils, fats and waxes, the fermentation industry (e.g., brewing and wine-making), the sugar industry;</li><li>certain operations or treatments, which are either purely mechanical, e.g., the mechanical treatment of leather and skins, or partly mechanical, e.g., the treatment of water or the prevention of corrosion in general;</li><li>metallurgy, ferrous or non-ferrous alloys.</li></ul></li><li>In all sections of the IPC, in the absence of an indication to the contrary, the Periodic Table of chemical elements referred to is the one with 18 groups as represented in the table below. [figure]</li><li><ul><li>In the case of operations, treatments, products or articles having both a chemical and a non-chemical part or aspect, the general rule is that the chemical part or aspect is covered by section <b>C</b>.</li><li>In some of these cases, the chemical part or aspect brings with it a non-chemical one, even though purely mechanical, because this latter aspect either is essential to the operation or treatment or constitutes an important element thereof. It has seemed, in fact, more logical not to dissociate the different parts or aspects of a coherent whole. This is the case for applied chemistry and for the industries, operations and treatments mentioned in Notes (1)(c), (d) and (e). For example, furnaces peculiar to the manufacture of glass are covered by class <b>C03</b> and not by class <b>F27</b>.</li><li>There are, however, some exceptions in which the mechanical (or non-chemical) aspect carries with it the chemical aspect, for example: <ul><li>certain extractive processes, in subclass <b>A61K</b>;</li><li>the chemical purification of air, in subclass <b>A61L</b>;</li><li>chemical methods of fire-fighting, in subclass <b>A62D</b>;</li><li>chemical processes and apparatus, in class <b>B01</b>;</li><li>impregnation of wood, in subclass <b>B27K</b>;</li><li>chemical methods of analysis or testing, in subclass <b>G01N</b>;</li><li>photographic materials and processes, in class <b>G03</b>, and, generally, the chemical treatment of textiles and the production of cellulose or paper, in section <b>D</b>.</li></ul></li><li>In still other cases, the pure chemical aspect is covered by section <b>C</b> and the applied chemical aspect by another section, such as <b>A</b>, <b>B</b> or <b>F</b>, e.g., the use of a substance or composition for: <ul><li>treatment of plants or animals, covered by subclass <b>A01N</b>;</li><li>foodstuffs, covered by class <b>A23</b>;</li><li>ammunition or explosives, covered by class <b>F42</b>.</li></ul></li><li>When the chemical and mechanical aspects are so closely interlocked that a neat and simple division is not possible, or when certain mechanical processes follow as a natural or logical continuation of a chemical treatment, section <b>C</b> may cover, in addition to the chemical aspect, a part only of the mechanical aspect, e.g., after-treatment of artificial stone, covered by class <b>C04</b>. In this latter case, a note or a reference is usually given to make the position clear, even if sometimes the division is rather arbitrary.</li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_C.txt",
+      "kind": "ipc"
+    },
+    "C25B1/00": {
+      "code": "C25B1/00",
+      "level": 0,
+      "parent": "C25B",
+      "ja": "無機化合物または非金属の電解製造［２０２１．０１］",
+      "en": "Electrolytic production of inorganic compounds or non-metals",
+      "count": 4528,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B1/01": {
+      "code": "C25B1/01",
+      "level": 1,
+      "parent": "C25B1/00",
+      "ja": "生成物［２０２１．０１］",
+      "en": "Products",
+      "count": 1460,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B1/02": {
+      "code": "C25B1/02",
+      "level": 2,
+      "parent": "C25B1/01",
+      "ja": "水素または酸素［２００６．０１］",
+      "en": "Hydrogen or oxygen",
+      "count": 4967,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B1/04": {
+      "code": "C25B1/04",
+      "level": 3,
+      "parent": "C25B1/02",
+      "ja": "水の電気分解によるもの［２０２１．０１］",
+      "en": "by electrolysis of water",
+      "count": 33551,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B1/042": {
+      "code": "C25B1/042",
+      "level": 4,
+      "parent": "C25B1/04",
+      "ja": "水蒸気の電気分解によるもの［２０２１．０１］",
+      "en": "by electrolysis of steam",
+      "count": 1155,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B1/044": {
+      "code": "C25B1/044",
+      "level": 4,
+      "parent": "C25B1/04",
+      "ja": "酸水素ガスの混合気流の製造，例．ブラウンガス［ＨＨＯ］［２０２１．０１］",
+      "en": "producing mixed hydrogen and oxygen gas, e.g. Brown's gas [HHO]",
+      "count": 307,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B1/13": {
+      "code": "C25B1/13",
+      "level": 2,
+      "parent": "C25B1/01",
+      "ja": "オゾン［２００６．０１］",
+      "en": "Ozone",
+      "count": 1640,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B1/135": {
+      "code": "C25B1/135",
+      "level": 2,
+      "parent": "C25B1/01",
+      "ja": "炭素［２０２１．０１］",
+      "en": "Carbon",
+      "count": 387,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B1/14": {
+      "code": "C25B1/14",
+      "level": 2,
+      "parent": "C25B1/01",
+      "ja": "アルカリ金属化合物［２００６．０１］",
+      "en": "Alkali metal compounds",
+      "count": 1169,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B1/16": {
+      "code": "C25B1/16",
+      "level": 3,
+      "parent": "C25B1/14",
+      "ja": "水酸化物（アルカリ金属水酸化物および塩素，塩素のオキシ酸または塩素の塩類の同時製造Ｃ２５Ｂ１／３４）［２００６．０１］",
+      "en": "Hydroxides (by simultaneous production of alkali metal hydroxides and chlorine, oxyacids or salts of chlorine <b>C25B1/34</b>)",
+      "count": 1031,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B1/18": {
+      "code": "C25B1/18",
+      "level": 2,
+      "parent": "C25B1/01",
+      "ja": "アルカリ土類金属化合物またはマグネシウム化合物［２００６．０１］",
+      "en": "Alkaline earth metal compounds or magnesium compounds",
+      "count": 232,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B1/20": {
+      "code": "C25B1/20",
+      "level": 3,
+      "parent": "C25B1/18",
+      "ja": "水酸化物［２］",
+      "en": "Hydroxides",
+      "count": 268,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B1/21": {
+      "code": "C25B1/21",
+      "level": 2,
+      "parent": "C25B1/01",
+      "ja": "酸化マンガン［２００６．０１］",
+      "en": "Manganese oxides",
+      "count": 563,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B1/22": {
+      "code": "C25B1/22",
+      "level": 2,
+      "parent": "C25B1/01",
+      "ja": "無機酸［２００６．０１］",
+      "en": "Inorganic acids",
+      "count": 634,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B1/23": {
+      "code": "C25B1/23",
+      "level": 2,
+      "parent": "C25B1/01",
+      "ja": "一酸化炭素または合成ガス［２０２１．０１］",
+      "en": "Carbon monoxide or syngas",
+      "count": 1992,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B1/24": {
+      "code": "C25B1/24",
+      "level": 2,
+      "parent": "C25B1/01",
+      "ja": "ハロゲンまたはその化合物［２０２１．０１］",
+      "en": "Halogens or compounds thereof ",
+      "count": 939,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B1/245": {
+      "code": "C25B1/245",
+      "level": 3,
+      "parent": "C25B1/24",
+      "ja": "フッ素；その化合物［２０２１．０１］",
+      "en": "Fluorine; Compounds thereof",
+      "count": 223,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B1/26": {
+      "code": "C25B1/26",
+      "level": 3,
+      "parent": "C25B1/24",
+      "ja": "塩素；その化合物（アルカリ金属水酸化物および塩素，塩素のオキシ酸または塩素の塩類の同時製造Ｃ２５Ｂ１／３４）［２００６．０１］",
+      "en": "Chlorine; Compounds thereof (by simultaneous production of alkali metal hydroxides and chlorine, oxyacids or salts of chlorine <b>C25B1/34</b>)",
+      "count": 5561,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B1/27": {
+      "code": "C25B1/27",
+      "level": 2,
+      "parent": "C25B1/01",
+      "ja": "アンモニア［２０２１．０１］",
+      "en": "Ammonia",
+      "count": 1168,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B1/28": {
+      "code": "C25B1/28",
+      "level": 2,
+      "parent": "C25B1/01",
+      "ja": "過化合物［２０２１．０１］",
+      "en": "Per-compounds ",
+      "count": 371,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B1/29": {
+      "code": "C25B1/29",
+      "level": 3,
+      "parent": "C25B1/28",
+      "ja": "過硫酸塩［２０２１．０１］",
+      "en": "Persulfates",
+      "count": 60,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B1/30": {
+      "code": "C25B1/30",
+      "level": 3,
+      "parent": "C25B1/28",
+      "ja": "過酸化物［２］",
+      "en": "Peroxides",
+      "count": 1587,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B1/32": {
+      "code": "C25B1/32",
+      "level": 3,
+      "parent": "C25B1/28",
+      "ja": "過ほう酸塩［２］",
+      "en": "Perborates",
+      "count": 46,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B1/33": {
+      "code": "C25B1/33",
+      "level": 2,
+      "parent": "C25B1/01",
+      "ja": "ケイ素［２０２１．０１］",
+      "en": "Silicon",
+      "count": 47,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B1/34": {
+      "code": "C25B1/34",
+      "level": 2,
+      "parent": "C25B1/01",
+      "ja": "アルカリ金属水酸化物および塩素，塩素のオキシ酸または塩素の塩類の同時製造，例．塩素アルカリ電気分解［２００６．０１］",
+      "en": "Simultaneous production of alkali metal hydroxides and chlorine, oxyacids or salts of chlorine, e.g. by chlor-alkali electrolysis",
+      "count": 1402,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B1/36": {
+      "code": "C25B1/36",
+      "level": 3,
+      "parent": "C25B1/34",
+      "ja": "水銀陰極セル中において［２０２１．０１］",
+      "en": "in mercury cathode cells",
+      "count": 493,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B1/42": {
+      "code": "C25B1/42",
+      "level": 4,
+      "parent": "C25B1/36",
+      "ja": "アマルガムの分解［２］",
+      "en": "Decomposition of amalgams",
+      "count": 204,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B1/44": {
+      "code": "C25B1/44",
+      "level": 5,
+      "parent": "C25B1/42",
+      "ja": "触媒の助けによるもの［２］",
+      "en": "with the aid of catalysts",
+      "count": 72,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B1/46": {
+      "code": "C25B1/46",
+      "level": 3,
+      "parent": "C25B1/34",
+      "ja": "隔膜セル中において［２］",
+      "en": "in diaphragm cells",
+      "count": 3248,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B1/50": {
+      "code": "C25B1/50",
+      "level": 1,
+      "parent": "C25B1/00",
+      "ja": "方法［２０２１．０１］",
+      "en": "Processes",
+      "count": 1999,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B1/55": {
+      "code": "C25B1/55",
+      "level": 2,
+      "parent": "C25B1/50",
+      "ja": "光電気分解［２０２１．０１］",
+      "en": "Photoelectrolysis",
+      "count": 1140,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B3/00": {
+      "code": "C25B3/00",
+      "level": 0,
+      "parent": "C25B",
+      "ja": "有機化合物の電解製造［２０２１．０１］",
+      "en": "Electrolytic production of organic compounds",
+      "count": 1350,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B3/01": {
+      "code": "C25B3/01",
+      "level": 1,
+      "parent": "C25B3/00",
+      "ja": "生成物［２０２１．０１］",
+      "en": "Products",
+      "count": 208,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B3/03": {
+      "code": "C25B3/03",
+      "level": 2,
+      "parent": "C25B3/01",
+      "ja": "非環式または環式炭化水素［２０２１．０１］",
+      "en": "Acyclic or carbocyclic hydrocarbons",
+      "count": 1190,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B3/05": {
+      "code": "C25B3/05",
+      "level": 2,
+      "parent": "C25B3/01",
+      "ja": "複素環式化合物［２０２１．０１］",
+      "en": "Heterocyclic compounds",
+      "count": 838,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B3/07": {
+      "code": "C25B3/07",
+      "level": 2,
+      "parent": "C25B3/01",
+      "ja": "酸素含有化合物［２０２１．０１］",
+      "en": "Oxygen containing compounds",
+      "count": 3430,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B3/09": {
+      "code": "C25B3/09",
+      "level": 2,
+      "parent": "C25B3/01",
+      "ja": "窒素含有化合物［２０２１．０１］",
+      "en": "Nitrogen containing compounds",
+      "count": 1286,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B3/11": {
+      "code": "C25B3/11",
+      "level": 2,
+      "parent": "C25B3/01",
+      "ja": "ハロゲン含有化合物［２０２１．０１］",
+      "en": "Halogen containing compounds",
+      "count": 564,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B3/13": {
+      "code": "C25B3/13",
+      "level": 2,
+      "parent": "C25B3/01",
+      "ja": "有機金属化合物［２０２１．０１］",
+      "en": "Organo-metallic compounds ",
+      "count": 410,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B3/20": {
+      "code": "C25B3/20",
+      "level": 1,
+      "parent": "C25B3/00",
+      "ja": "方法［２０２１．０１］",
+      "en": "Processes",
+      "count": 624,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B3/21": {
+      "code": "C25B3/21",
+      "level": 2,
+      "parent": "C25B3/20",
+      "ja": "光電気分解［２０２１．０１］",
+      "en": "Photoelectrolysis",
+      "count": 180,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B3/23": {
+      "code": "C25B3/23",
+      "level": 2,
+      "parent": "C25B3/20",
+      "ja": "酸化による（ハロゲン化Ｃ２５Ｂ３／２７）［２０２１．０１］",
+      "en": "Oxidation(halogenation <b>C25B3/27</b>)",
+      "count": 2622,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B3/25": {
+      "code": "C25B3/25",
+      "level": 2,
+      "parent": "C25B3/20",
+      "ja": "還元による［２０２１．０１］",
+      "en": "Reduction",
+      "count": 3067,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B3/26": {
+      "code": "C25B3/26",
+      "level": 3,
+      "parent": "C25B3/25",
+      "ja": "二酸化炭素の［２０２１．０１］",
+      "en": "of carbon dioxide",
+      "count": 2367,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B3/27": {
+      "code": "C25B3/27",
+      "level": 2,
+      "parent": "C25B3/20",
+      "ja": "ハロゲン化による［２０２１．０１］",
+      "en": "Halogenation",
+      "count": 84,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B3/28": {
+      "code": "C25B3/28",
+      "level": 3,
+      "parent": "C25B3/27",
+      "ja": "フッ素化による［２０２１．０１］",
+      "en": "Fluorination",
+      "count": 492,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B3/29": {
+      "code": "C25B3/29",
+      "level": 2,
+      "parent": "C25B3/20",
+      "ja": "カップリング反応による［２０２１．０１］",
+      "en": "Coupling reactions",
+      "count": 1126,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B5/00": {
+      "code": "C25B5/00",
+      "level": 0,
+      "parent": "C25B",
+      "ja": "電気発生方法，すなわち，電気を同時に発生する化合物製造方法［２００６．０１］",
+      "en": "Electrogenerative processes, i.e. processes for producing compounds in which electricity is generated simultaneously ",
+      "count": 683,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B7/00": {
+      "code": "C25B7/00",
+      "level": 0,
+      "parent": "C25B",
+      "ja": "化合物または非金属の電気泳動製造（電気泳動によるペプチド，例．蛋白質の分離または精製Ｃ０７Ｋ１／２６）［２］",
+      "en": "Electrophoretic production of compounds or non-metals(separation or purification of peptides, e.g. of proteins, by electrophoresis <b>C07K1/26</b>)",
+      "count": 572,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B9/00": {
+      "code": "C25B9/00",
+      "level": 0,
+      "parent": "C25B",
+      "ja": "セルまたはセルの組立体；セルの構造部品；構造部品の組立体，例．電極－隔膜の組立体；方法と関連したセルの特徴［２０２１．０１］",
+      "en": "Cells or assemblies of cells; Constructional parts of cells; Assemblies of constructional parts, e.g. electrode-diaphragm assemblies; Process-related cell features",
+      "count": 12960,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B9/01": {
+      "code": "C25B9/01",
+      "level": 1,
+      "parent": "C25B9/00",
+      "ja": "形状または型に特徴のある電解セル［２０２１．０１］",
+      "en": "Electrolytic cells characterised by shape or form",
+      "count": 359,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B9/015": {
+      "code": "C25B9/015",
+      "level": 2,
+      "parent": "C25B9/01",
+      "ja": "円筒形のセル［２０２１．０１］",
+      "en": "Cylindrical cells",
+      "count": 232,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B9/05": {
+      "code": "C25B9/05",
+      "level": 1,
+      "parent": "C25B9/00",
+      "ja": "高圧セル［２０２１．０１］",
+      "en": "Pressure cells",
+      "count": 383,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B9/07": {
+      "code": "C25B9/07",
+      "level": 1,
+      "parent": "C25B9/00",
+      "ja": "共通ダクトを有するセル［２０２１．０１］",
+      "en": "Common duct cells",
+      "count": 54,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B9/09": {
+      "code": "C25B9/09",
+      "level": 1,
+      "parent": "C25B9/00",
+      "ja": "溶融浴セル［２０２１．０１］",
+      "en": "Fused bath cells",
+      "count": 126,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B9/13": {
+      "code": "C25B9/13",
+      "level": 1,
+      "parent": "C25B9/00",
+      "ja": "電解液の循環を伴う単一の電解セル［２０２１．０１］",
+      "en": "Single electrolytic cells with circulation of an electrolyte",
+      "count": 195,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B9/15": {
+      "code": "C25B9/15",
+      "level": 2,
+      "parent": "C25B9/13",
+      "ja": "フロースルーセル［２０２１．０１］",
+      "en": "Flow-through cells",
+      "count": 195,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B9/17": {
+      "code": "C25B9/17",
+      "level": 1,
+      "parent": "C25B9/00",
+      "ja": "寸法が一定で固定電極を有するセル；その構造部品の組立体［２０２１．０１］",
+      "en": "Cells comprising dimensionally-stable non-movable electrodes; Assemblies of constructional parts thereof",
+      "count": 4280,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B9/19": {
+      "code": "C25B9/19",
+      "level": 2,
+      "parent": "C25B9/17",
+      "ja": "隔膜を備えたもの［２０２１．０１］",
+      "en": "with diaphragms",
+      "count": 8658,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B9/21": {
+      "code": "C25B9/21",
+      "level": 3,
+      "parent": "C25B9/19",
+      "ja": "２つ以上の隔膜［２０２１．０１］",
+      "en": "two or more diaphragms",
+      "count": 516,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B9/23": {
+      "code": "C25B9/23",
+      "level": 3,
+      "parent": "C25B9/19",
+      "ja": "その内部または表面に電極材が取り付けられたイオン交換膜を有するもの［２０２１．０１］",
+      "en": "comprising ion-exchange membranes in or on which electrode material is embedded",
+      "count": 5171,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B9/30": {
+      "code": "C25B9/30",
+      "level": 1,
+      "parent": "C25B9/00",
+      "ja": "可動電極を有するセル，例．回転電極；その構造部品の組立体［２０２１．０１］",
+      "en": "Cells comprising movable electrodes, e.g. rotary electrodes; Assemblies of constructional parts thereof",
+      "count": 130,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B9/40": {
+      "code": "C25B9/40",
+      "level": 1,
+      "parent": "C25B9/00",
+      "ja": "粒子でできた電極を有するセルまたはセルの組立体；その構造部品の組立体［２０２１．０１］",
+      "en": "Cells or assemblies of cells comprising electrodes made of particles; Assemblies of constructional parts thereof",
+      "count": 72,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B9/50": {
+      "code": "C25B9/50",
+      "level": 1,
+      "parent": "C25B9/00",
+      "ja": "光電極を有するセルまたはセルの組立体；その構造部品の組立体［２０２１．０１］",
+      "en": "Cells or assemblies of cells comprising photoelectrodes; Assemblies of constructional parts thereof",
+      "count": 248,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B9/60": {
+      "code": "C25B9/60",
+      "level": 1,
+      "parent": "C25B9/00",
+      "ja": "セルの構造部品［２０２１．０１］",
+      "en": "Constructional parts of cells",
+      "count": 5720,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B9/63": {
+      "code": "C25B9/63",
+      "level": 2,
+      "parent": "C25B9/60",
+      "ja": "電極用支持体；電極の位置調整［２０２１．０１］",
+      "en": "Holders for electrodes; Positioning of the electrodes",
+      "count": 917,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B9/65": {
+      "code": "C25B9/65",
+      "level": 2,
+      "parent": "C25B9/60",
+      "ja": "電流供給用装置；電極接続具；セル間の電気接続具［２０２１．０１］",
+      "en": "Means for supplying current; Electrode connections; Electric inter-cell connections",
+      "count": 4053,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B9/67": {
+      "code": "C25B9/67",
+      "level": 2,
+      "parent": "C25B9/60",
+      "ja": "加熱または冷却手段［２０２１．０１］",
+      "en": "Heating or cooling means",
+      "count": 1927,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B9/70": {
+      "code": "C25B9/70",
+      "level": 1,
+      "parent": "C25B9/00",
+      "ja": "２つ以上のセルからなる組立体［２０２１．０１］",
+      "en": "Assemblies comprising two or more cells",
+      "count": 2072,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B9/73": {
+      "code": "C25B9/73",
+      "level": 2,
+      "parent": "C25B9/70",
+      "ja": "フィルタープレス型の［２０２１．０１］",
+      "en": "of the filter-press type",
+      "count": 547,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B9/75": {
+      "code": "C25B9/75",
+      "level": 3,
+      "parent": "C25B9/73",
+      "ja": "双極電極をもつもの［２０２１．０１］",
+      "en": "having bipolar electrodes",
+      "count": 447,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B9/77": {
+      "code": "C25B9/77",
+      "level": 3,
+      "parent": "C25B9/73",
+      "ja": "隔膜を有するもの［２０２１．０１］",
+      "en": "having diaphragms",
+      "count": 967,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B11/00": {
+      "code": "C25B11/00",
+      "level": 0,
+      "parent": "C25B",
+      "ja": "電極；他に分類されないその製造［２０２１．０１］",
+      "en": "Electrodes; Manufacture thereof not otherwise provided for",
+      "count": 2021,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B11/02": {
+      "code": "C25B11/02",
+      "level": 1,
+      "parent": "C25B11/00",
+      "ja": "形状または型に特徴のあるもの［２０２１．０１］",
+      "en": "characterised by shape or form",
+      "count": 3624,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B11/03": {
+      "code": "C25B11/03",
+      "level": 2,
+      "parent": "C25B11/02",
+      "ja": "多孔または有孔の［２０２１．０１］",
+      "en": "perforated or foraminous",
+      "count": 2290,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B11/031": {
+      "code": "C25B11/031",
+      "level": 3,
+      "parent": "C25B11/03",
+      "ja": "多孔質電極［２０２１．０１］",
+      "en": "Porous electrodes",
+      "count": 2898,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B11/032": {
+      "code": "C25B11/032",
+      "level": 4,
+      "parent": "C25B11/031",
+      "ja": "ガス拡散電極［２０２１．０１］",
+      "en": "Gas diffusion electrodes",
+      "count": 1153,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B11/033": {
+      "code": "C25B11/033",
+      "level": 2,
+      "parent": "C25B11/02",
+      "ja": "流体電極［２０２１．０１］",
+      "en": "Liquid electrodes",
+      "count": 22,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B11/034": {
+      "code": "C25B11/034",
+      "level": 2,
+      "parent": "C25B11/02",
+      "ja": "回転電極［２０２１．０１］",
+      "en": "Rotary electrodes",
+      "count": 30,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B11/036": {
+      "code": "C25B11/036",
+      "level": 2,
+      "parent": "C25B11/02",
+      "ja": "双極電極［２０２１．０１］",
+      "en": "Bipolar electrodes",
+      "count": 567,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B11/037": {
+      "code": "C25B11/037",
+      "level": 2,
+      "parent": "C25B11/02",
+      "ja": "粒子でできた電極［２０２１．０１］",
+      "en": "Electrodes made of particles",
+      "count": 135,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B11/04": {
+      "code": "C25B11/04",
+      "level": 1,
+      "parent": "C25B11/00",
+      "ja": "材料に特徴があるもの［２０２１．０１］",
+      "en": "characterised by the material",
+      "count": 6209,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B11/042": {
+      "code": "C25B11/042",
+      "level": 2,
+      "parent": "C25B11/04",
+      "ja": "電極が、単一の材料で形成されるもの［２０２１．０１］",
+      "en": "Electrodes formed of a single material",
+      "count": 657,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B11/043": {
+      "code": "C25B11/043",
+      "level": 3,
+      "parent": "C25B11/042",
+      "ja": "炭素，例．ダイヤモンドまたグラフェン［２０２１．０１］",
+      "en": "Carbon, e.g. diamond or graphene",
+      "count": 482,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B11/044": {
+      "code": "C25B11/044",
+      "level": 4,
+      "parent": "C25B11/043",
+      "ja": "炭素の含浸処理［２０２１．０１］",
+      "en": "Impregnation of carbon",
+      "count": 47,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B11/045": {
+      "code": "C25B11/045",
+      "level": 3,
+      "parent": "C25B11/042",
+      "ja": "水銀またはアマルガム［２０２１．０１］",
+      "en": "Mercury or amalgam",
+      "count": 13,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B11/046": {
+      "code": "C25B11/046",
+      "level": 3,
+      "parent": "C25B11/042",
+      "ja": "合金［２０２１．０１］",
+      "en": "Alloys",
+      "count": 537,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B11/047": {
+      "code": "C25B11/047",
+      "level": 3,
+      "parent": "C25B11/042",
+      "ja": "セラミック［２０２１．０１］",
+      "en": "Ceramics",
+      "count": 117,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B11/048": {
+      "code": "C25B11/048",
+      "level": 3,
+      "parent": "C25B11/042",
+      "ja": "有機化合物［２０２１．０１］",
+      "en": "Organic compounds",
+      "count": 67,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B11/049": {
+      "code": "C25B11/049",
+      "level": 3,
+      "parent": "C25B11/042",
+      "ja": "光触媒［２０２１．０１］",
+      "en": "Photocatalysts",
+      "count": 94,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B11/051": {
+      "code": "C25B11/051",
+      "level": 2,
+      "parent": "C25B11/04",
+      "ja": "電極が、基材上のまたは担体上の電気触媒から形成されるもの［２０２１．０１］",
+      "en": "Electrodes formed of electrocatalysts on a substrate or carrier",
+      "count": 328,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B11/052": {
+      "code": "C25B11/052",
+      "level": 3,
+      "parent": "C25B11/051",
+      "ja": "電極が、１層以上の電気触媒コーティングを基材上に有するもの［２０２１．０１］",
+      "en": "Electrodes comprising one or more electrocatalytic coatings on a substrate",
+      "count": 2898,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B11/053": {
+      "code": "C25B11/053",
+      "level": 4,
+      "parent": "C25B11/052",
+      "ja": "複数の層の電気触媒コーティングを特徴とするもの［２０２１．０１］",
+      "en": "characterised by multilayer electrocatalytic coatings",
+      "count": 635,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B11/054": {
+      "code": "C25B11/054",
+      "level": 3,
+      "parent": "C25B11/051",
+      "ja": "電極が、担体上に担持された電気触媒を有するもの［２０２１．０１］",
+      "en": "Electrodes comprising electrocatalysts supported on a carrier",
+      "count": 2239,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B11/055": {
+      "code": "C25B11/055",
+      "level": 3,
+      "parent": "C25B11/051",
+      "ja": "基材または担体の材料に特徴があるもの［２０２１．０１］",
+      "en": "characterised by the substrate or carrier material",
+      "count": 308,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B11/056": {
+      "code": "C25B11/056",
+      "level": 4,
+      "parent": "C25B11/055",
+      "ja": "織物または不織布からなるもの［２０２１．０１］",
+      "en": "consisting of textile or non-woven fabric",
+      "count": 292,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B11/057": {
+      "code": "C25B11/057",
+      "level": 4,
+      "parent": "C25B11/055",
+      "ja": "単一の元素または化合物からなるもの［２０２１．０１］",
+      "en": "consisting of a single element or compound",
+      "count": 237,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B11/059": {
+      "code": "C25B11/059",
+      "level": 5,
+      "parent": "C25B11/057",
+      "ja": "ケイ素［２０２１．０１］",
+      "en": "Silicon",
+      "count": 91,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B11/061": {
+      "code": "C25B11/061",
+      "level": 5,
+      "parent": "C25B11/057",
+      "ja": "金属または合金［２０２１．０１］",
+      "en": "Metal or alloy",
+      "count": 2688,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B11/063": {
+      "code": "C25B11/063",
+      "level": 6,
+      "parent": "C25B11/061",
+      "ja": "弁金属，例．チタン［２０２１．０１］",
+      "en": "Valve metal, e.g. titanium",
+      "count": 740,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B11/065": {
+      "code": "C25B11/065",
+      "level": 5,
+      "parent": "C25B11/057",
+      "ja": "炭素［２０２１．０１］",
+      "en": "Carbon",
+      "count": 2664,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B11/067": {
+      "code": "C25B11/067",
+      "level": 5,
+      "parent": "C25B11/057",
+      "ja": "無機化合物，例．酸化インジウム錫［ＩＴＯ］，シリカまたはチタニア［２０２１．０１］",
+      "en": "Inorganic compound e.g. ITO, silica or titania",
+      "count": 807,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B11/069": {
+      "code": "C25B11/069",
+      "level": 4,
+      "parent": "C25B11/055",
+      "ja": "少なくとも１つの単一元素および少なくとも１つの化合物からなるもの；２つ以上の化合物からなるもの［２０２１．０１］",
+      "en": "consisting of at least one single element and at least one compound; consisting of two or more compounds",
+      "count": 315,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B11/071": {
+      "code": "C25B11/071",
+      "level": 5,
+      "parent": "C25B11/069",
+      "ja": "金属質粉または合金粉および非金属の結合剤からなるもの［２０２１．０１］",
+      "en": "comprising metal or alloy powder and non-metallic binders",
+      "count": 22,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B11/073": {
+      "code": "C25B11/073",
+      "level": 3,
+      "parent": "C25B11/051",
+      "ja": "電気触媒の材料に特徴があるもの［２０２１．０１］",
+      "en": "characterised by the electrocatalysts material",
+      "count": 482,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B11/075": {
+      "code": "C25B11/075",
+      "level": 4,
+      "parent": "C25B11/073",
+      "ja": "単一の触媒元素または触媒化合物からなるもの［２０２１．０１］",
+      "en": "consisting of a single catalytic element or catalytic compound",
+      "count": 2517,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B11/077": {
+      "code": "C25B11/077",
+      "level": 5,
+      "parent": "C25B11/075",
+      "ja": "触媒化合物が非貴金属の酸化物であるもの［２０２１．０１］",
+      "en": "the compound being a non-noble metal oxide",
+      "count": 1259,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B11/079": {
+      "code": "C25B11/079",
+      "level": 6,
+      "parent": "C25B11/077",
+      "ja": "二酸化マンガン；二酸化鉛［２０２１．０１］",
+      "en": "Manganese dioxide; Lead dioxide",
+      "count": 54,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B11/081": {
+      "code": "C25B11/081",
+      "level": 5,
+      "parent": "C25B11/075",
+      "ja": "触媒が貴金属元素を含むもの［２０２１．０１］",
+      "en": "the element being a noble metal",
+      "count": 1573,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B11/083": {
+      "code": "C25B11/083",
+      "level": 5,
+      "parent": "C25B11/075",
+      "ja": "ダイヤモンド［２０２１．０１］",
+      "en": "Diamond",
+      "count": 48,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B11/085": {
+      "code": "C25B11/085",
+      "level": 5,
+      "parent": "C25B11/075",
+      "ja": "有機化合物［２０２１．０１］",
+      "en": "Organic compound",
+      "count": 551,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B11/087": {
+      "code": "C25B11/087",
+      "level": 5,
+      "parent": "C25B11/075",
+      "ja": "光触媒化合物［２０２１．０１］",
+      "en": "Photocatalytic compound",
+      "count": 303,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B11/089": {
+      "code": "C25B11/089",
+      "level": 5,
+      "parent": "C25B11/075",
+      "ja": "合金［２０２１．０１］",
+      "en": "Alloys",
+      "count": 1401,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B11/091": {
+      "code": "C25B11/091",
+      "level": 4,
+      "parent": "C25B11/073",
+      "ja": "少なくとも１つの触媒元素および少なくとも１つの触媒化合物からなるもの；２つ以上の触媒元素または触媒化合物からなるもの［２０２１．０１］",
+      "en": "consisting of at least one catalytic element and at least one catalytic compound; consisting of two or more catalytic elements or catalytic compounds",
+      "count": 7315,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B11/093": {
+      "code": "C25B11/093",
+      "level": 5,
+      "parent": "C25B11/091",
+      "ja": "少なくとも１つの貴金属または貴金属酸化物と、少なくとも１つの非貴金属酸化物の組み合わせ［２０２１．０１］",
+      "en": "at least one noble metal or noble metal oxide and at least one non-noble metal oxide",
+      "count": 1066,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B11/095": {
+      "code": "C25B11/095",
+      "level": 5,
+      "parent": "C25B11/091",
+      "ja": "少なくとも１つの化合物が有機化合物であるもの［２０２１．０１］",
+      "en": "at least one of the compounds being organic",
+      "count": 1006,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B11/097": {
+      "code": "C25B11/097",
+      "level": 5,
+      "parent": "C25B11/091",
+      "ja": "２つ以上の貴金属または貴金属合金からなるもの［２０２１．０１］",
+      "en": "comprising two or more noble metals or noble metal alloys",
+      "count": 315,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B13/00": {
+      "code": "C25B13/00",
+      "level": 0,
+      "parent": "C25B",
+      "ja": "隔膜；間隔要素［４］",
+      "en": "Diaphragms; Spacing elements",
+      "count": 1083,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B13/02": {
+      "code": "C25B13/02",
+      "level": 1,
+      "parent": "C25B13/00",
+      "ja": "形状または型に特徴のあるもの［２］",
+      "en": "characterised by shape or form",
+      "count": 1974,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B13/04": {
+      "code": "C25B13/04",
+      "level": 1,
+      "parent": "C25B13/00",
+      "ja": "材料に特徴があるもの［２０２１．０１］",
+      "en": "characterised by the material",
+      "count": 1427,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B13/05": {
+      "code": "C25B13/05",
+      "level": 2,
+      "parent": "C25B13/04",
+      "ja": "無機材料を基礎とするもの［２０２１．０１］",
+      "en": "based on inorganic materials",
+      "count": 298,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B13/06": {
+      "code": "C25B13/06",
+      "level": 3,
+      "parent": "C25B13/05",
+      "ja": "アスベストを基礎とするもの［２］",
+      "en": "based on asbestos",
+      "count": 202,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B13/07": {
+      "code": "C25B13/07",
+      "level": 3,
+      "parent": "C25B13/05",
+      "ja": "セラミックを基礎とするもの［２０２１．０１］",
+      "en": "based on ceramics",
+      "count": 457,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B13/08": {
+      "code": "C25B13/08",
+      "level": 2,
+      "parent": "C25B13/04",
+      "ja": "有機材料を基礎とするもの［２］",
+      "en": "based on organic materials",
+      "count": 3339,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B15/00": {
+      "code": "C25B15/00",
+      "level": 0,
+      "parent": "C25B",
+      "ja": "セルの保守または操作［２］",
+      "en": "Operating or servicing cells",
+      "count": 4503,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B15/02": {
+      "code": "C25B15/02",
+      "level": 1,
+      "parent": "C25B15/00",
+      "ja": "プロセス制御または調整［２０２１．０１］",
+      "en": "Process control or regulation",
+      "count": 6061,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B15/021": {
+      "code": "C25B15/021",
+      "level": 2,
+      "parent": "C25B15/02",
+      "ja": "加熱または冷却に関するもの［２０２１．０１］",
+      "en": "of heating or cooling",
+      "count": 1550,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B15/023": {
+      "code": "C25B15/023",
+      "level": 2,
+      "parent": "C25B15/02",
+      "ja": "電解製造中の測定，分析または検査［２０２１．０１］",
+      "en": "Measuring, analysing or testing during electrolytic production",
+      "count": 2109,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B15/025": {
+      "code": "C25B15/025",
+      "level": 3,
+      "parent": "C25B15/023",
+      "ja": "電解質パラメーターに関するもの［２０２１．０１］",
+      "en": "of electrolyte parameters",
+      "count": 402,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B15/027": {
+      "code": "C25B15/027",
+      "level": 4,
+      "parent": "C25B15/025",
+      "ja": "温度［２０２１．０１］",
+      "en": "Temperature",
+      "count": 681,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B15/029": {
+      "code": "C25B15/029",
+      "level": 4,
+      "parent": "C25B15/025",
+      "ja": "濃度［２０２１．０１］",
+      "en": "Concentration",
+      "count": 289,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B15/031": {
+      "code": "C25B15/031",
+      "level": 5,
+      "parent": "C25B15/029",
+      "ja": "水素イオン指数［ｐＨ］［２０２１．０１］",
+      "en": "pH",
+      "count": 185,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B15/033": {
+      "code": "C25B15/033",
+      "level": 4,
+      "parent": "C25B15/025",
+      "ja": "導電性［２０２１．０１］",
+      "en": "Conductivity",
+      "count": 112,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B15/04": {
+      "code": "C25B15/04",
+      "level": 1,
+      "parent": "C25B15/00",
+      "ja": "極間距離の調整［２］",
+      "en": "Regulation of the inter-electrode distance",
+      "count": 343,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B15/06": {
+      "code": "C25B15/06",
+      "level": 1,
+      "parent": "C25B15/00",
+      "ja": "セル中の短絡回路の検出または抑制［２］",
+      "en": "Detection or inhibition of short circuits in the cell",
+      "count": 259,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    },
+    "C25B15/08": {
+      "code": "C25B15/08",
+      "level": 1,
+      "parent": "C25B15/00",
+      "ja": "反応物質または電解液の供給または除去；電解液の再生［２］",
+      "en": "Supplying or removing reactants or electrolytes; Regeneration of electrolytes",
+      "count": 10575,
+      "sourceFile": "ipc_C25B.txt",
+      "kind": "ipc"
+    }
+  }
+};

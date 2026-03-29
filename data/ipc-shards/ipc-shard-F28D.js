@@ -1,0 +1,466 @@
+window.IPC_SHARD_F28D = {
+  "generatedAt": "2026-03-20T02:17:46.940Z",
+  "total": 46,
+  "entries": {
+    "F28D": {
+      "code": "F28D",
+      "level": 0,
+      "parent": "F28",
+      "ja": "熱交換媒体が直接接触しない熱交換装置で，他のサブクラスに分類されないもの（伝熱，熱交換，または蓄熱用物質Ｃ０９Ｋ５／００；熱発生手段または熱伝達手段をもつ流体加熱器Ｆ２４Ｈ；炉Ｆ２７；一般用の熱交換装置の細部Ｆ２８Ｆ）；蓄熱プラントまたは装置一般［４］<br><br><b><ul>サブクラス内の索引</ul></b><br>中間熱伝達媒体または物質をもたない熱交換装置<br>不動の流路群をもつもの<br>ただ一つの媒体を用いるためのもの：流体の量；散水または薄膜；蒸発の冷却効果　１／００；３／００；５／００<br>両媒体のためのもの：管状の流路によるもの；板状の流路によるもの　７／００；９／００<br>可動流路群をもつもの　１１／００<br>流動床をもつもの　１３／００<br>中間熱伝達媒体または物質をもつ熱交換装置<br>中間媒体をもつ閉鎖した管中の流路壁を通り抜けるもの　１５／００<br>中間媒体が他の媒体と相い次いで接触をするもの　１７／００，１９／００<br>蓄熱プラントまたは装置　２０／００<br>その他の熱交換装置　２１／００",
+      "en": "HEAT-EXCHANGE APPARATUS, NOT PROVIDED FOR IN ANOTHER SUBCLASS, IN WHICH THE HEAT-EXCHANGE MEDIA DO NOT COME INTO DIRECT CONTACT(heat-transfer, heat-exchange or heat-storage materials <b>C09K5/00</b>;  fluid heaters having heat generating means and heat transferring means <b>F24H</b>; furnaces <b>F27</b>; details of heat-exchange apparatus of general application <b>F28F</b>);HEAT STORAGE PLANTS OR APPARATUS IN GENERAL; <br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">HEAT-EXCHANGE APPARATUS WITHOUT INTERMEDIATE HEAT-TRANSFER MEDIA OR BODIES<tr><td width=\"70%\">With stationary conduit assemblies<tr><td width=\"70%\">for only one medium using: mass of fluid; trickle or film; the cooling effect of evaporation </td><td><b><b>1/00</b>; <b>3/00</b>; <b>5/00</b></b></td></tr></tr><tr><td width=\"70%\">for both media: by tubular conduits; by plate-like conduits </td><td><b><b>7/00</b>; <b>9/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">With moving conduit assemblies </td><td><b><b>11/00</b></b></td></tr></tr><tr><td width=\"70%\">With fluidised bed </td><td><b><b>13/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">HEAT-EXCHANGE APPARATUS WITH INTERMEDIATE HEAT-TRANSFER MEDIA OR BODIES<tr><td width=\"70%\">With the intermediate medium in closed tubes passing into or through the conduit walls </td><td><b><b>15/00</b></b></td></tr></tr><tr><td width=\"70%\">In which the intermediate medium or body is contacted successively by the other media </td><td><b><b>17/00</b>, <b>19/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">HEAT STORAGE PLANTS OR APPARATUS </td><td><b><b>20/00</b></b></td></tr></tr><tr><td width=\"70%\">OTHER HEAT-EXCHANGE APPARATUS </td><td><b><b>21/00</b></b></td></tr></tr></table>",
+      "count": 1189,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F28": {
+      "code": "F28",
+      "level": 0,
+      "parent": "F",
+      "ja": "熱交換一般<br><br><b><ul>注</ul></b><br>（１）このクラスにおいては，下記の表現は以下に示す意味で用いる：<br>―“熱交換”とは，加熱または冷却流体または流動固体との直接または間接の接触によって，流体または流動固体を加熱または冷却することを意味する；<br>―“熱伝達”とは，加熱または冷却された表面または物体との直接接触によって，流体または流動固体を加熱または冷却することを意味する。<br>（２）熱交換または熱伝達（注（１）に規定されているような）を特別な目的に対して用いる装置は，サブクラスＦ２８Ｂ，または，たとえばクラスＦ２２，Ｆ２４，Ｆ２５，Ｆ２６またはＦ２７内の適当なサブクラスに分類される；これらのサブクラスが適当でない場合には，そのような装置は，Ｆ２８ＣまたはＤに分類される。",
+      "en": "HEAT EXCHANGE IN GENERAL; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this class, the following expressions are used with the meanings indicated:<ul><li>\"heat exchange\" means the heating or cooling of a fluid or fluent solid by direct or indirect contact with a heated or cooled fluid or fluent solid;</li><li>\"heat transfer\" means the heating or cooling of a fluid or fluent solid by direct contact with a heated or cooled surface or body.</li></ul></li><li>Apparatus using heat exchange or heat transfer (as defined in Note (1) above) for specific purposes is classified either in subclass <b>F28B</b> or in the appropriate subclasses of, for example, classes <b>F22</b>, <b>F24</b>, <b>F25</b>, <b>F26</b>, or <b>F27</b>; if no such other subclass is appropriate, such apparatus is classified in subclass <b>F28C</b> or <b>F28D</b>.</li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F": {
+      "code": "F",
+      "level": 0,
+      "parent": null,
+      "ja": "機械工学；照明；加熱；武器；爆破",
+      "en": "MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F28D1/00": {
+      "code": "F28D1/00",
+      "level": 0,
+      "parent": "F28D",
+      "ja": "１つの熱交換媒体に対してのみ定置流路組立体を持ち，媒体が相互に異なった側の流路壁と接触し，他方の熱交換媒体が多量の流体である熱交換装置，例．家庭用または自動車用ラジエータ（Ｆ２８Ｄ５／００が優先）",
+      "en": "Heat-exchange apparatus having stationary conduit assemblies for one heat-exchange medium only, the media being in contact with different sides of the conduit wall, in which the other heat-exchange medium is a large body of fluid, e.g. domestic or motor car radiators(<b>F28D5/00</b> takes precedence)",
+      "count": 3257,
+      "sourceFile": "ipc_F28D.txt",
+      "kind": "ipc"
+    },
+    "F28D1/02": {
+      "code": "F28D1/02",
+      "level": 1,
+      "parent": "F28D1/00",
+      "ja": "流体中に浸された熱交換流路をもつもの",
+      "en": "with the heat-exchange conduits immersed in the body of fluid",
+      "count": 5321,
+      "sourceFile": "ipc_F28D.txt",
+      "kind": "ipc"
+    },
+    "F28D1/03": {
+      "code": "F28D1/03",
+      "level": 2,
+      "parent": "F28D1/02",
+      "ja": "板状または積層板状の流路をもつもの［４］",
+      "en": "with plate-like or laminated conduits",
+      "count": 6154,
+      "sourceFile": "ipc_F28D.txt",
+      "kind": "ipc"
+    },
+    "F28D1/04": {
+      "code": "F28D1/04",
+      "level": 2,
+      "parent": "F28D1/02",
+      "ja": "管状の流路をもつもの",
+      "en": "with tubular conduits",
+      "count": 7021,
+      "sourceFile": "ipc_F28D.txt",
+      "kind": "ipc"
+    },
+    "F28D1/047": {
+      "code": "F28D1/047",
+      "level": 3,
+      "parent": "F28D1/04",
+      "ja": "流路が曲がっているもの，例．うねり状またはジグザグ状のもの［４］",
+      "en": "the conduits being bent, e.g. in a serpentine or zig-zag",
+      "count": 9031,
+      "sourceFile": "ipc_F28D.txt",
+      "kind": "ipc"
+    },
+    "F28D1/053": {
+      "code": "F28D1/053",
+      "level": 3,
+      "parent": "F28D1/04",
+      "ja": "流路が直線状のもの［４］",
+      "en": "the conduits being straight",
+      "count": 13037,
+      "sourceFile": "ipc_F28D.txt",
+      "kind": "ipc"
+    },
+    "F28D1/06": {
+      "code": "F28D1/06",
+      "level": 1,
+      "parent": "F28D1/00",
+      "ja": "流体が入っているタンクの一部を形成しているかまたはそれに付属している熱交換流路をもつもの",
+      "en": "with the heat-exchange conduits forming part of, or being attached to, the tank containing the body of fluid",
+      "count": 3343,
+      "sourceFile": "ipc_F28D.txt",
+      "kind": "ipc"
+    },
+    "F28D3/00": {
+      "code": "F28D3/00",
+      "level": 0,
+      "parent": "F28D",
+      "ja": "１つの熱交換媒体に対してのみ定置の流路組立体を持ち，媒体が相互に異なった側の流路壁と接触し，他方の熱交換媒体が流路上を連続的な薄膜状に，または自由に散水状に流れる熱交換装置（Ｆ２８Ｄ５／００が優先）",
+      "en": "Heat-exchange apparatus having stationary conduit assemblies for one heat-exchange medium only, the media being in contact with different sides of the conduit wall, in which the other heat-exchange medium flows in a continuous film, or trickles freely, over the conduits(<b>F28D5/00</b> takes precedence)",
+      "count": 958,
+      "sourceFile": "ipc_F28D.txt",
+      "kind": "ipc"
+    },
+    "F28D3/02": {
+      "code": "F28D3/02",
+      "level": 1,
+      "parent": "F28D3/00",
+      "ja": "管状流路をもつもの",
+      "en": "with tubular conduits",
+      "count": 2096,
+      "sourceFile": "ipc_F28D.txt",
+      "kind": "ipc"
+    },
+    "F28D3/04": {
+      "code": "F28D3/04",
+      "level": 1,
+      "parent": "F28D3/00",
+      "ja": "分配装置",
+      "en": "Distributing arrangements",
+      "count": 713,
+      "sourceFile": "ipc_F28D.txt",
+      "kind": "ipc"
+    },
+    "F28D5/00": {
+      "code": "F28D5/00",
+      "level": 0,
+      "parent": "F28D",
+      "ja": "１つの熱交換器媒体に対してのみ定置の流路組立体を持ち，媒体が相互に異なった側の流路壁と接触し，自然蒸発または強制蒸発の冷却効果を用いる熱交換装置",
+      "en": "Heat-exchange apparatus having stationary conduit assemblies for one heat-exchange medium only, the media being in contact with different sides of the conduit wall, using the cooling effect of natural or forced evaporation",
+      "count": 2086,
+      "sourceFile": "ipc_F28D.txt",
+      "kind": "ipc"
+    },
+    "F28D5/02": {
+      "code": "F28D5/02",
+      "level": 1,
+      "parent": "F28D5/00",
+      "ja": "蒸発媒体が流路上を自由に連続的に薄膜状または散水状に流れるもの",
+      "en": "in which the evaporating medium flows in a continuous film or trickles freely over the conduits",
+      "count": 2286,
+      "sourceFile": "ipc_F28D.txt",
+      "kind": "ipc"
+    },
+    "F28D7/00": {
+      "code": "F28D7/00",
+      "level": 0,
+      "parent": "F28D",
+      "ja": "両熱交換媒体に対して不動の管状の流路群をもち，それらの媒体が相互に異なった側の流路壁と接触する熱交換装置［２００６．０１］",
+      "en": "Heat-exchange apparatus having stationary tubular conduit assemblies for both heat-exchange media, the media being in contact with different sides of a conduit wall",
+      "count": 15194,
+      "sourceFile": "ipc_F28D.txt",
+      "kind": "ipc"
+    },
+    "F28D7/02": {
+      "code": "F28D7/02",
+      "level": 1,
+      "parent": "F28D7/00",
+      "ja": "ら旋状に巻かれた流路をもつもの（Ｆ２８Ｄ７／１０が優先）",
+      "en": "the conduits being helically coiled(<b>F28D7/10</b> takes precedence)",
+      "count": 10616,
+      "sourceFile": "ipc_F28D.txt",
+      "kind": "ipc"
+    },
+    "F28D7/04": {
+      "code": "F28D7/04",
+      "level": 1,
+      "parent": "F28D7/00",
+      "ja": "渦巻状に巻かれた流路をもつもの（Ｆ２８Ｄ７／１０が優先）",
+      "en": "the conduits being spirally coiled(<b>F28D7/10</b> takes precedence)",
+      "count": 2553,
+      "sourceFile": "ipc_F28D.txt",
+      "kind": "ipc"
+    },
+    "F28D7/06": {
+      "code": "F28D7/06",
+      "level": 1,
+      "parent": "F28D7/00",
+      "ja": "１個のＵ字状屈曲部をもつ流路（Ｆ２８Ｄ７／１０が優先）",
+      "en": "the conduits having a single U-bend(<b>F28D7/10</b> takes precedence)",
+      "count": 3555,
+      "sourceFile": "ipc_F28D.txt",
+      "kind": "ipc"
+    },
+    "F28D7/08": {
+      "code": "F28D7/08",
+      "level": 1,
+      "parent": "F28D7/00",
+      "ja": "その他の形状に曲げられている流路，例．うねり状またはジグザグ状のもの（Ｆ２８Ｄ７／１０が優先）",
+      "en": "the conduits being otherwise bent, e.g. in a serpentine or zig-zag(<b>F28D7/10</b> takes precedence)",
+      "count": 9872,
+      "sourceFile": "ipc_F28D.txt",
+      "kind": "ipc"
+    },
+    "F28D7/10": {
+      "code": "F28D7/10",
+      "level": 1,
+      "parent": "F28D7/00",
+      "ja": "他の流路内に，別の流路が配置されているもの，例．同心的なもの",
+      "en": "the conduits being arranged one within the other, e.g. concentrically",
+      "count": 10898,
+      "sourceFile": "ipc_F28D.txt",
+      "kind": "ipc"
+    },
+    "F28D7/12": {
+      "code": "F28D7/12",
+      "level": 2,
+      "parent": "F28D7/10",
+      "ja": "一端で閉鎖されている包囲管をもつもの，すなわち．往復形（Ｆ２８Ｄ７／１４が優先）",
+      "en": "the surrounding tube being closed at one end, i.e. return type(<b>F28D7/14</b> takes precedence)",
+      "count": 1223,
+      "sourceFile": "ipc_F28D.txt",
+      "kind": "ipc"
+    },
+    "F28D7/14": {
+      "code": "F28D7/14",
+      "level": 2,
+      "parent": "F28D7/10",
+      "ja": "両方の管が曲げられているもの",
+      "en": "both tubes being bent",
+      "count": 877,
+      "sourceFile": "ipc_F28D.txt",
+      "kind": "ipc"
+    },
+    "F28D7/16": {
+      "code": "F28D7/16",
+      "level": 1,
+      "parent": "F28D7/00",
+      "ja": "流路が間隔をおいて並行に配列されているもの（Ｆ２８Ｄ７／０２～Ｆ２８Ｄ７／１０が優先）［４］",
+      "en": "the conduits being arranged in parallel spaced relation(<b>F28D7/02 to F28D7/10</b>  take precedence)",
+      "count": 18347,
+      "sourceFile": "ipc_F28D.txt",
+      "kind": "ipc"
+    },
+    "F28D9/00": {
+      "code": "F28D9/00",
+      "level": 0,
+      "parent": "F28D",
+      "ja": "両熱交換媒体に対して不動の板状または積層板状の流路群をもち，それらの媒体が相互に異なった側の流路壁と接触する熱交換装置",
+      "en": "Heat-exchange apparatus having stationary plate-like or laminated conduit assemblies for both heat-exchange media, the media being in contact with different sides of a conduit wall",
+      "count": 21156,
+      "sourceFile": "ipc_F28D.txt",
+      "kind": "ipc"
+    },
+    "F28D9/02": {
+      "code": "F28D9/02",
+      "level": 1,
+      "parent": "F28D9/00",
+      "ja": "熱交換媒体が１つの隅から他の隅部へ移動するもの（Ｆ２８Ｄ９／０４が優先）",
+      "en": "the heat-exchange media travelling at an angle to one another(<b>F28D9/04</b> takes precedence)",
+      "count": 2573,
+      "sourceFile": "ipc_F28D.txt",
+      "kind": "ipc"
+    },
+    "F28D9/04": {
+      "code": "F28D9/04",
+      "level": 1,
+      "parent": "F28D9/00",
+      "ja": "渦巻状に巻かれた板または同薄板によって形成されている流路",
+      "en": "the conduits being formed by spirally-wound plates or laminae",
+      "count": 2550,
+      "sourceFile": "ipc_F28D.txt",
+      "kind": "ipc"
+    },
+    "F28D11/00": {
+      "code": "F28D11/00",
+      "level": 0,
+      "parent": "F28D",
+      "ja": "可動の流路をもつ熱交換装置",
+      "en": "Heat-exchange apparatus employing moving conduits",
+      "count": 350,
+      "sourceFile": "ipc_F28D.txt",
+      "kind": "ipc"
+    },
+    "F28D11/02": {
+      "code": "F28D11/02",
+      "level": 1,
+      "parent": "F28D11/00",
+      "ja": "運動が回転であるもの，例．ドラムまたはローラが回転するもの（Ｆ２８Ｄ１１／０８が優先）",
+      "en": "the movement being rotary, e.g. performed by a drum or roller(<b>F28D11/08</b> takes precedence)",
+      "count": 1812,
+      "sourceFile": "ipc_F28D.txt",
+      "kind": "ipc"
+    },
+    "F28D11/04": {
+      "code": "F28D11/04",
+      "level": 2,
+      "parent": "F28D11/02",
+      "ja": "管または管束が回転するもの",
+      "en": "performed by a tube or a bundle of tubes",
+      "count": 1160,
+      "sourceFile": "ipc_F28D.txt",
+      "kind": "ipc"
+    },
+    "F28D11/06": {
+      "code": "F28D11/06",
+      "level": 1,
+      "parent": "F28D11/00",
+      "ja": "運動が往復または振動であるもの（Ｆ２８Ｄ１１／０８が優先）",
+      "en": "the movement being reciprocating or oscillating(<b>F28D11/08</b> takes precedence)",
+      "count": 176,
+      "sourceFile": "ipc_F28D.txt",
+      "kind": "ipc"
+    },
+    "F28D11/08": {
+      "code": "F28D11/08",
+      "level": 1,
+      "parent": "F28D11/00",
+      "ja": "２つ以上の流路群がそれぞれ独自の運動をするもの，例．回転ドラム内の回転する管束",
+      "en": "more than one conduit assembly performing independent movements, e.g. rotary bundle of tubes in a rotary drum",
+      "count": 86,
+      "sourceFile": "ipc_F28D.txt",
+      "kind": "ipc"
+    },
+    "F28D13/00": {
+      "code": "F28D13/00",
+      "level": 0,
+      "parent": "F28D",
+      "ja": "流動床を用いる熱交換装置",
+      "en": "Heat-exchange apparatus using a fluidised bed",
+      "count": 1236,
+      "sourceFile": "ipc_F28D.txt",
+      "kind": "ipc"
+    },
+    "F28D15/00": {
+      "code": "F28D15/00",
+      "level": 0,
+      "parent": "F28D",
+      "ja": "閉鎖管中の中間熱伝達媒体が流路壁を通り抜ける熱交換装置",
+      "en": "Heat-exchange apparatus with the intermediate heat-transfer medium in closed tubes passing into or through the conduit walls",
+      "count": 9064,
+      "sourceFile": "ipc_F28D.txt",
+      "kind": "ipc"
+    },
+    "F28D15/02": {
+      "code": "F28D15/02",
+      "level": 1,
+      "parent": "F28D15/00",
+      "ja": "その中で媒体が凝縮及び蒸発するもの，例．ヒートパイプ［４］",
+      "en": "in which the medium condenses and evaporates, e.g. heat-pipes",
+      "count": 28496,
+      "sourceFile": "ipc_F28D.txt",
+      "kind": "ipc"
+    },
+    "F28D15/04": {
+      "code": "F28D15/04",
+      "level": 2,
+      "parent": "F28D15/02",
+      "ja": "毛細管構造を持つ管のあるもの［６］",
+      "en": "with tubes having a capillary structure",
+      "count": 8390,
+      "sourceFile": "ipc_F28D.txt",
+      "kind": "ipc"
+    },
+    "F28D15/06": {
+      "code": "F28D15/06",
+      "level": 2,
+      "parent": "F28D15/02",
+      "ja": "そのための制御装置［６］",
+      "en": "Control arrangements therefor",
+      "count": 1706,
+      "sourceFile": "ipc_F28D.txt",
+      "kind": "ipc"
+    },
+    "F28D17/00": {
+      "code": "F28D17/00",
+      "level": 0,
+      "parent": "F28D",
+      "ja": "不動の中間熱伝達媒体または同物質が相互の熱交換媒体と相い継いで接触する再生式熱交換装置，例．粒状物質を用いるもの",
+      "en": "Regenerative heat-exchange apparatus in which a stationary intermediate heat-transfer medium or body is contacted successively by each heat-exchange medium, e.g. using granular particles",
+      "count": 2054,
+      "sourceFile": "ipc_F28D.txt",
+      "kind": "ipc"
+    },
+    "F28D17/02": {
+      "code": "F28D17/02",
+      "level": 1,
+      "parent": "F28D17/00",
+      "ja": "固体，例．多孔性材料，を用いるもの",
+      "en": "using rigid bodies, e.g. of porous material",
+      "count": 1434,
+      "sourceFile": "ipc_F28D.txt",
+      "kind": "ipc"
+    },
+    "F28D17/04": {
+      "code": "F28D17/04",
+      "level": 1,
+      "parent": "F28D17/00",
+      "ja": "熱交換媒体の分配装置",
+      "en": "Distributing arrangements for the heat-exchange media",
+      "count": 426,
+      "sourceFile": "ipc_F28D.txt",
+      "kind": "ipc"
+    },
+    "F28D19/00": {
+      "code": "F28D19/00",
+      "level": 0,
+      "parent": "F28D",
+      "ja": "中間熱伝達媒体または同物質が相互の熱交換媒体と相い継いで接触して移動する再生式熱交換装置",
+      "en": "Regenerative heat-exchange apparatus in which the intermediate heat-transfer medium or body is moved successively into contact with each heat-exchange medium",
+      "count": 828,
+      "sourceFile": "ipc_F28D.txt",
+      "kind": "ipc"
+    },
+    "F28D19/02": {
+      "code": "F28D19/02",
+      "level": 1,
+      "parent": "F28D19/00",
+      "ja": "粒状物質を用いるもの",
+      "en": "using granular particles",
+      "count": 408,
+      "sourceFile": "ipc_F28D.txt",
+      "kind": "ipc"
+    },
+    "F28D19/04": {
+      "code": "F28D19/04",
+      "level": 1,
+      "parent": "F28D19/00",
+      "ja": "固体，例．可動台上にのせられたもの，を用いるもの",
+      "en": "using rigid bodies, e.g. mounted on a movable carrier",
+      "count": 3462,
+      "sourceFile": "ipc_F28D.txt",
+      "kind": "ipc"
+    },
+    "F28D20/00": {
+      "code": "F28D20/00",
+      "level": 0,
+      "parent": "F28D",
+      "ja": "蓄熱プラントまたは装置一般；グループＦ２８Ｄ１７／００またはＦ２８Ｄ１９／００に分類されない再生熱交換装置［４］",
+      "en": "Heat storage plants or apparatus in general; Regenerative heat-exchange apparatus not covered by groups <b>F28D17/00</b> or <b>F28D19/00</b>",
+      "count": 19514,
+      "sourceFile": "ipc_F28D.txt",
+      "kind": "ipc"
+    },
+    "F28D20/02": {
+      "code": "F28D20/02",
+      "level": 1,
+      "parent": "F28D20/00",
+      "ja": "潜熱を用いるもの［６］",
+      "en": "using latent heat",
+      "count": 10831,
+      "sourceFile": "ipc_F28D.txt",
+      "kind": "ipc"
+    },
+    "F28D21/00": {
+      "code": "F28D21/00",
+      "level": 0,
+      "parent": "F28D",
+      "ja": "グループＦ２８Ｄ１／００～Ｆ２８Ｄ２０／００のいずれにも包含されない熱交換装置［４］",
+      "en": "Heat-exchange apparatus not covered by any of the groups <b>F28D1/00 to F28D20/00</b> ",
+      "count": 26667,
+      "sourceFile": "ipc_F28D.txt",
+      "kind": "ipc"
+    }
+  }
+};

@@ -1,0 +1,110 @@
+window.CPC_SHARD_Y02C = {
+  "generatedAt": "2026-03-20T02:17:59.605Z",
+  "total": 8,
+  "entries": {
+    "Y02C": {
+      "code": "Y02C",
+      "level": 5,
+      "parent": "Y02",
+      "ja": "温暖化ガス［ＧＨＧ］の採取，保管，隔離または廃棄",
+      "en": "CAPTURE, STORAGE, SEQUESTRATION OR DISPOSAL OF GREENHOUSE GASES [GHG]",
+      "count": 0,
+      "ipcCode": "",
+      "coreCode": "",
+      "note": "",
+      "sourceFile": "cpc_Y.txt",
+      "kind": "cpc"
+    },
+    "Y02": {
+      "code": "Y02",
+      "level": 4,
+      "parent": "Y",
+      "ja": "天候変更の影響を緩和または適応するための技術または機器<br><br><u>注</u><br> <br>このクラスは京都議定書の合意に従って温室効果ガス（ＧＨＧ)の人為的な放出を制御，減少または防止するという，選択された技術を包含する。もし適当なら，文献はこのクラスのインデキシングコードを２以上受け取ることができる。",
+      "en": "TECHNOLOGIES OR APPLICATIONS FOR MITIGATION OR ADAPTATION AGAINST CLIMATE CHANGE<br><br><u>NOTE</u><br><br>This class covers selected technologies, which control, reduce or prevent anthropogenic emissions of greenhouse gases [GHG], in the framework of the Kyoto Protocol and the Paris Agreement, and also technologies which allow adapting to the adverse effects of climate change.<br>If appropriate, a document can receive more than one indexing code of this class.",
+      "count": 0,
+      "ipcCode": "",
+      "coreCode": "",
+      "note": "",
+      "sourceFile": "cpc_Y.txt",
+      "kind": "cpc"
+    },
+    "Y": {
+      "code": "Y",
+      "level": 2,
+      "parent": null,
+      "ja": " 新しい技術的開発の一般的なタグ付け；ＩＰＣの複数セクションにまたがるセクション横断的な技術の一般的なタグ付け；前ＵＳＰＣクロスレファレンスアートコレクション（ＸＲＡＣ)およびダイジェスト版に包含されていた技術的課題 <br><br><u>注</u><br><br>このセクションのＹ０２クラスおよびＹ０４クラスは，既に別の箇所に分類またはインデキシングされており，且つ広い意味で特定の主要な技術分野に関連する文献のみをタグ付けするために用いられる。　その技術分野は，このセクションのサブグラスのタイトルに続くノートにより定義されている。<br>注（１）によると，タグ付けの主要な目的は新しい技術的発展を監視し，ＩＰＣのいずれの１つのセクションにも分類されないセクション横断的な技術をタグ付けすることにある。なお，このセクションのタグ記号は他のセクションの分類またはインデキシング記号に取って代わるということはない。 <br>クラスＹ１０は，かつてＵＳＰＣクロスレファレンスアートコレクション（ＸＲＡＣ)およびダイジェスト版が包含していた技術的主題をＣＰＣで取り扱うため２０１２年７月に新設された。",
+      "en": "GENERAL TAGGING OF NEW TECHNOLOGICAL DEVELOPMENTS; GENERAL TAGGING OF CROSS-SECTIONAL TECHNOLOGIES SPANNING OVER SEVERAL SECTIONS OF THE IPC; TECHNICAL SUBJECTS COVERED BY FORMER USPC CROSS-REFERENCE ART COLLECTIONS [XRACs] AND DIGESTS<br><br><u>NOTE</u><br><br>In this section, classes Y02 and Y04 are only to be used for tagging documents which are already classified or indexed elsewhere and which relate in a broad sense to specific major technical fields, these fields being defined by the notes following the title of the subclasses of this section.<br> As the primary purpose of the tagging according to Note (1) is to monitor new technological development and to tag cross-sectional technologies that do not fit in a single other section of the IPC, the tagging codes of this section do not in any way replace the classification or indexing codes of the other sections.<br>Class Y10 has been introduced in July 2012 in view of the CPC to accommodate for technical subjects formerly covered by USPC cross-reference art collections [XRACs] and digests",
+      "count": 0,
+      "ipcCode": "",
+      "coreCode": "",
+      "note": "",
+      "sourceFile": "cpc.txt",
+      "kind": "cpc"
+    },
+    "Y02C20/00": {
+      "code": "Y02C20/00",
+      "level": 7,
+      "parent": null,
+      "ja": "温暖化ガス［ＧＨＧ］の採取または廃棄",
+      "en": "Capture or disposal of greenhouse gases",
+      "count": 11,
+      "ipcCode": "CPCONLY",
+      "coreCode": "Y02C20/00",
+      "note": "",
+      "sourceFile": "cpc_Y02C.txt",
+      "kind": "cpc"
+    },
+    "Y02C20/10": {
+      "code": "Y02C20/10",
+      "level": 8,
+      "parent": "Y02C20/00",
+      "ja": "一酸化二窒素（Ｎ２Ｏ）",
+      "en": "of nitrous oxide (N2O)",
+      "count": 2568,
+      "ipcCode": "CPCONLY",
+      "coreCode": "Y02C20/10",
+      "note": "",
+      "sourceFile": "cpc_Y02C.txt",
+      "kind": "cpc"
+    },
+    "Y02C20/20": {
+      "code": "Y02C20/20",
+      "level": 8,
+      "parent": "Y02C20/00",
+      "ja": "メタン",
+      "en": "of methane",
+      "count": 2049,
+      "ipcCode": "CPCONLY",
+      "coreCode": "Y02C20/20",
+      "note": "",
+      "sourceFile": "cpc_Y02C.txt",
+      "kind": "cpc"
+    },
+    "Y02C20/30": {
+      "code": "Y02C20/30",
+      "level": 8,
+      "parent": "Y02C20/00",
+      "ja": "完全フルオロカーボン［ＰＦＣ］，ハイドロフルオロカーボン［ＨＦＣ］または６フッ化硫黄［ＳＦ６］",
+      "en": "of perfluorocarbons [PFC], hydrofluorocarbons [HFC] or sulfur hexafluoride [SF6]",
+      "count": 1812,
+      "ipcCode": "CPCONLY",
+      "coreCode": "Y02C20/30",
+      "note": "",
+      "sourceFile": "cpc_Y02C.txt",
+      "kind": "cpc"
+    },
+    "Y02C20/40": {
+      "code": "Y02C20/40",
+      "level": 8,
+      "parent": "Y02C20/00",
+      "ja": "",
+      "en": "of CO2",
+      "count": 20431,
+      "ipcCode": "CPCONLY",
+      "coreCode": "Y02C20/40",
+      "note": "",
+      "sourceFile": "cpc_Y02C.txt",
+      "kind": "cpc"
+    }
+  }
+};

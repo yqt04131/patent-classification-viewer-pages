@@ -1,0 +1,123 @@
+window.CPC_SHARD_D06G = {
+  "generatedAt": "2026-03-20T02:17:57.776Z",
+  "total": 9,
+  "entries": {
+    "D06G": {
+      "code": "D06G",
+      "level": 5,
+      "parent": "D06",
+      "ja": "敷物，袋状物，その他の皮革または繊維の製品または織物の機械式または圧力式清浄；可とう性の筒状または袋状物の内外裏返し",
+      "en": "MECHANICAL OR PRESSURE CLEANING OF CARPETS, RUGS, SACKS, HIDES, OR OTHER SKIN OR TEXTILE ARTICLES OR FABRICS; TURNING INSIDE-OUT FLEXIBLE TUBULAR OR OTHER HOLLOW ARTICLES",
+      "count": 0,
+      "ipcCode": "",
+      "coreCode": "",
+      "note": "",
+      "sourceFile": "cpc_D.txt",
+      "kind": "cpc"
+    },
+    "D06": {
+      "code": "D06",
+      "level": 4,
+      "parent": "D",
+      "ja": "繊維または類似のものの処理；洗濯；他に分類されない可とう性材料",
+      "en": "TREATMENT OF TEXTILES OR THE LIKE; LAUNDERING; FLEXIBLE MATERIALS NOT OTHERWISE PROVIDED FOR",
+      "count": 0,
+      "ipcCode": "",
+      "coreCode": "",
+      "note": "",
+      "sourceFile": "cpc_D.txt",
+      "kind": "cpc"
+    },
+    "D": {
+      "code": "D",
+      "level": 2,
+      "parent": null,
+      "ja": "繊維；紙",
+      "en": "TEXTILES; PAPER",
+      "count": 0,
+      "ipcCode": "",
+      "coreCode": "",
+      "note": "",
+      "sourceFile": "cpc.txt",
+      "kind": "cpc"
+    },
+    "D06G1/00": {
+      "code": "D06G1/00",
+      "level": 7,
+      "parent": null,
+      "ja": "敷物，袋状物，その他皮革または繊維製品または織物の打撃，ブラシ掛け等の機械的清浄，圧力式清浄",
+      "en": "Beating, brushing, or otherwise mechanically cleaning or pressure cleaning carpets, rugs, sacks, hides, or other skin or textile articles or fabrics",
+      "count": 4905,
+      "ipcCode": "D06G1/00",
+      "coreCode": "D06G1/00",
+      "note": "",
+      "sourceFile": "cpc_D06G.txt",
+      "kind": "cpc"
+    },
+    "D06G1/005": {
+      "code": "D06G1/005",
+      "level": 8,
+      "parent": "D06G1/00",
+      "ja": "｛回転容器内のもの｝",
+      "en": "{inside a rotary receptacle}",
+      "count": 95,
+      "ipcCode": "D06G1/00",
+      "coreCode": "D06G1/00",
+      "note": "",
+      "sourceFile": "cpc_D06G.txt",
+      "kind": "cpc"
+    },
+    "D06G3/00": {
+      "code": "D06G3/00",
+      "level": 7,
+      "parent": null,
+      "ja": "可とう性の筒状または袋状物の内外裏返し（検査を伴ったものＤ０６Ｈ３／１６；｛プラスチックの接合形成に際しての，またはプラスチック状態の物質の形成に際してのチューブの内外裏返しＢ２９Ｃ６７／００１８｝）",
+      "en": "Turning inside-out flexible tubular or other hollow articles (in combination with inspecting D06H3/16{; turning tubes inside out in the shaping joining of plastics or shaping of substances in a plastic state B29C67/0018})",
+      "count": 43,
+      "ipcCode": "D06G3/00",
+      "coreCode": "D06G3/00",
+      "note": "",
+      "sourceFile": "cpc_D06G.txt",
+      "kind": "cpc"
+    },
+    "D06G3/02": {
+      "code": "D06G3/02",
+      "level": 8,
+      "parent": "D06G3/00",
+      "ja": "機械的方法によるもの",
+      "en": "by mechanical means",
+      "count": 349,
+      "ipcCode": "D06G3/02",
+      "coreCode": "D06G3/02",
+      "note": "",
+      "sourceFile": "cpc_D06G.txt",
+      "kind": "cpc"
+    },
+    "D06G3/04": {
+      "code": "D06G3/04",
+      "level": 8,
+      "parent": "D06G3/00",
+      "ja": "圧搾空気によるもの",
+      "en": "pneumatically",
+      "count": 120,
+      "ipcCode": "D06G3/04",
+      "coreCode": "D06G3/04",
+      "note": "",
+      "sourceFile": "cpc_D06G.txt",
+      "kind": "cpc"
+    },
+    "D06G5/00": {
+      "code": "D06G5/00",
+      "level": 7,
+      "parent": null,
+      "ja": "可とう性の筒状または袋状物の内外裏返しと結合した機械式，真空式または圧力式清浄",
+      "en": "Mechanical, vacuum, or pressure cleaning in combination with the turning inside-out of flexible tubular or other hollow articles",
+      "count": 35,
+      "ipcCode": "D06G5/00",
+      "coreCode": "D06G5/00",
+      "note": "",
+      "sourceFile": "cpc_D06G.txt",
+      "kind": "cpc"
+    }
+  }
+};

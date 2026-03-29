@@ -1,0 +1,71 @@
+{
+  "generatedAt": "2026-03-20T02:17:51.880Z",
+  "total": 5,
+  "entries": {
+    "G21J": {
+      "code": "G21J",
+      "level": 0,
+      "parent": null,
+      "ja": "",
+      "en": "",
+      "count": 0,
+      "ipcCode": "",
+      "fTerm": "NUCLEAR EXPLOSIVES; APPLICATIONS THEREOF<br><br><b><u>Note(s)</u></b><br><br><ul type=\"\"1\"\"><li>This subclass <u>covers</u> uncontrollable fission or fusion reactions.</li></ul>",
+      "childFlag": 0,
+      "sourceFile": "fi_G.txt",
+      "kind": "fi"
+    },
+    "G21J1/00\\": {
+      "code": "G21J1/00\\",
+      "level": 0,
+      "parent": null,
+      "ja": "核爆発装置",
+      "en": "Nuclear explosive devices",
+      "count": 4,
+      "ipcCode": "G21J1/00",
+      "fTerm": "2G081",
+      "childFlag": 0,
+      "sourceFile": "fi_G21J.txt",
+      "kind": "fi"
+    },
+    "G21J3/00\\": {
+      "code": "G21J3/00\\",
+      "level": 0,
+      "parent": null,
+      "ja": "核爆発装置の平和利用",
+      "en": "Peaceful applications of nuclear explosive devices",
+      "count": 9,
+      "ipcCode": "G21J3/00",
+      "fTerm": "2G081",
+      "childFlag": 0,
+      "sourceFile": "fi_G21J.txt",
+      "kind": "fi"
+    },
+    "G21J3/02\\": {
+      "code": "G21J3/02\\",
+      "level": 1,
+      "parent": "G21J3/00\\",
+      "ja": "穴掘り用",
+      "en": "for excavation",
+      "count": 0,
+      "ipcCode": "G21J3/02",
+      "fTerm": "2G081",
+      "childFlag": 1,
+      "sourceFile": "fi_G21J.txt",
+      "kind": "fi"
+    },
+    "G21J5/00\\": {
+      "code": "G21J5/00\\",
+      "level": 0,
+      "parent": null,
+      "ja": "核爆発の探知装置",
+      "en": "Detection arrangements for nuclear explosions",
+      "count": 9,
+      "ipcCode": "G21J5/00",
+      "fTerm": "2G081",
+      "childFlag": 0,
+      "sourceFile": "fi_G21J.txt",
+      "kind": "fi"
+    }
+  }
+}

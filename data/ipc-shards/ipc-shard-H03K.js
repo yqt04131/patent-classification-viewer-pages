@@ -1,0 +1,3806 @@
+window.IPC_SHARD_H03K = {
+  "generatedAt": "2026-03-20T02:17:47.282Z",
+  "total": 380,
+  "entries": {
+    "H03K": {
+      "code": "H03K",
+      "level": 0,
+      "parent": "H03",
+      "ja": "パルス技術（パルス特性の測定Ｇ０１Ｒ；パルスによる正弦波振動の変調Ｈ０３Ｃ；デジタル情報の伝送Ｈ０４Ｌ；振動の周期を計数または積分することによって２つの信号の間の位相差を検出する弁別器回路Ｈ０３Ｄ３／０４；自動制御，発生器の形に関係しないまたは特定されていない電子振動またはパルス発生器の起動，同期または安定化Ｈ０３Ｌ；符号化，復号化または符号変換一般Ｈ０３Ｍ）［４］<br><br><b><ul>注</ul></b><br>（１）このサブクラスは以下のものを包含する：<br>―信号の発生，計数，増幅，整形，変調，復調，またはその他の操作を行うために非連続またはスイッチング方法で作動する能動素子を使用する方法，回路，装置，または機器；<br>―メークおよびブレークする接点を含まない電子的スイッチング；<br>―電気的パルスを取り扱う論理回路<br>（２）このサブクラスにおいては，下記の表現は以下に示す意味で用いる：<br>―“能動素子”は振動またはエネルギーの不連続な流れへの入力エネルギの変換についての制御を行う。<br>（３）このサブクラスにおいては，特許文献の請求事項が特定の回路素子が限定されていない場合，その文献は，文献中に記された実施態様において使われた素子に基づいて分類する。［６］<br><br><b><ul>サブクラス内の索引</ul></b><br>パルスの発生<br>回路；有限の傾斜またはステップ部分を持つパルス　３／００；４／００<br>正弦波からのパルスの発生　１２／００<br>計数以外のパルスの操作<br>変調；復調；変換　７／００；９／００；１１／００<br>その他　５／００，６／００<br>パルス計数器，周波数分割器<br>計数連鎖を持つもの；積算するもの；閉ループをもつもの；多安定素子をもつもの　２３／００；２５／００；２７／００；２９／００<br>細部　２１／００<br>特殊な応用<br>電子的スイッチング；論理回路　１７／００；１９／００",
+      "en": "PULSE TECHNIQUE(measuring pulse characteristics <b>G01R</b>; modulating sinusoidal oscillations with pulses <b>H03C</b>;  transmission of digital information <b>H04L</b>; discriminator circuits detecting phase difference between two signals by counting or integrating cycles of oscillation <b>H03D3/04</b>; automatic control, starting, synchronisation or stabilisation of generators of electronic oscillations or pulses where the type of generator is irrelevant or unspecified <b>H03L</b>; coding, decoding or code conversion, in general <b>H03M</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>This subclass <u>covers</u> : <ul><li>methods, circuits, devices or apparatus using active elements operating in a discontinuous or switching manner for generating, counting, amplifying, shaping, modulating, demodulating or otherwise manipulating signals;</li><li>electronic switching not involving contact-making and breaking;</li><li>logic circuits handling electric pulses.</li></ul></li><li>In this subclass, the following expression is used with the meaning indicated: <ul><li>\"active element\" exercises control over the conversion of input energy into an oscillation or a discontinuous flow of energy.</li></ul></li><li>In this subclass, where the claims of a patent document are not limited to a specific circuit element, the document is classified at least according to the elements used in the described embodiment.</li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">GENERATING PULSES<tr><td width=\"70%\">Circuits; with finite slope or stepped portions </td><td><b><b>3/00</b>; <b>4/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">PRODUCING PULSES FROM SINEWAVES </td><td><b><b>12/00</b></b></td></tr></tr><tr><td width=\"70%\">MANIPULATING PULSES OTHER THAN WHEN COUNTING<tr><td width=\"70%\">Modulating; demodulating; transfer </td><td><b><b>7/00</b>; <b>9/00</b>; <b>11/00</b></b></td></tr></tr><tr><td width=\"70%\">Other </td><td><b><b>5/00</b>, <b>6/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">PULSE COUNTERS, FREQUENCY DIVIDERS<tr><td width=\"70%\">With counting chains; with integration; with a closed loop; with multistable elements </td><td><b><b>23/00</b>; <b>25/00</b>; <b>27/00</b>; <b>29/00</b></b></td></tr></tr><tr><td width=\"70%\">Details </td><td><b><b>21/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">SPECIAL APPLICATIONS<tr><td width=\"70%\">Electronic switching; logic circuits </td><td><b><b>17/00</b>; <b>19/00</b></b></td></tr></tr></tr></table>",
+      "count": 1801,
+      "sourceFile": "ipc_H.txt",
+      "kind": "ipc"
+    },
+    "H03": {
+      "code": "H03",
+      "level": 0,
+      "parent": "H",
+      "ja": "電子回路",
+      "en": "ELECTRONIC CIRCUITRY",
+      "count": 0,
+      "sourceFile": "ipc_H.txt",
+      "kind": "ipc"
+    },
+    "H": {
+      "code": "H",
+      "level": 0,
+      "parent": null,
+      "ja": "電気<br><br><b><ul>注</ul></b><br>（利用にあたっての基本原則と一般的指示）<br>Ｉ．セクションＨは以下のものを包含する：<br>（ａ）基本的電気素子，これは全ての電気ユニットと，装置や回路の一般的な機械的構成を包含しており，その中にはプリント配線と称されるものに各種の基本素子を組み立てたものも含まれる。またこれは他に包含されない場合には，ある程度までこれらの素子の製造をも包含する；<br>（ｂ）発電，これは，発電，変換および配電と共にそのための装置の制御を包含する；<br>（ｃ）電気の応用，これは以下のものを包含する：<br>（ｉ）一般的な利用技術，すなわち．電気加熱と電気照明回路の利用技術；<br>（ｉｉ）厳密な意味で電気的か電子的かいずれかの特定の利用技術で国際特許分類の他のセクションに包含されないもの，これは以下のものを含んでいる：<br>（１）電気的光源，これはレーザーを含む；<br>（２）電気的なＸ線技術；<br>（３）電気的なプラズマ技術，および帯電粒子または中性子の発生および加速；<br>（ｄ）基本電子回路およびその制御；<br>（ｅ）電気通信技術；これは電気―機械変換器一般を含む；<br>（ｆ）物品や上記素子を作るための特定の材料の使用，この点については指針の８８項から９０項を参照されたい。<br>ＩＩ．このセクションにおいては，下記の一般規則が適用される：<br>（ａ）上記Ｉ（ｃ）で述べた例外を除いて，国際特許分類のセクションＨ以外のいずれかのセクションに分類される特殊な操作，方法，装置，物体または物品に特有の電気的観点または部分は，常にその操作，方法，装置，物体または物品のためのサブクラスに分類されるか，または類似の性質を有する技術主題に関する共通的な特徴がクラス・レベルで展開されている場合には，それは，該技術主題のための一般的電気的な応用を完全に包含するサブクラスに，その操作，方法，装置，物体または物品と関連して分類される；<br>（ｂ）この様な電気的な応用には，一般的なものであれ特殊なものであれ，次の事項が含まれる。<br>（ｉ）Ａ６１における治療方法および装置；<br>（ｉｉ）Ｂ０１，Ｂ０３およびＢ２３Ｋにおける各種の実験室または工業的操作に用いられる電気的方法および装置；<br>（ｉｉｉ）セクションＢの“運輸”のサブセクションにおける車両一般および特殊な車両への電気の供給，電気的推進および電気照明；<br>（ｉｖ）Ｆ０２Ｐにおける内燃機関の電気点火系，およびＦ２３Ｑにおける燃焼装置一般のもの；<br>（ｖ）セクションＧにおける全ての電気的部分，すなわち，電気変量の測定器を含む測定装置，検査，信号および計算。このＧセクションにおいて電気とは，一般に手段として扱われるものでそれ自体目的として扱われるものではない；<br>（ｃ）全ての電気的な応用は一般的なものであれ特殊なものであれ，それが含んでいる電気的“基本的素子”に関して言えば，“基本的な電気”の観点がセクションＨ（上記Ｉ（ａ）参照）にあることを前提としている。この規則は，セクションＨ自身にある上記Ｉ（ｃ）で示した電気の応用に対しても有効である。",
+      "en": "ELECTRICITY; <br><br><b><u>Note(s)</u></b><br><br><ul><li>These Notes cover the basic principles and general instructions for use of section <b>H</b>.<ul><li>Section <b>H</b> <u>covers</u>: <ul><li>basic electric elements, which cover all electric units and the general mechanical structure of apparatus and circuits, including the assembly of various basic elements into what are called printed circuits and also cover to a certain extent the manufacture of these elements (when not covered elsewhere);</li><li>generation of electricity, which covers the generation, conversion and distribution of electricity together with the controlling of the corresponding gear;</li><li>applied electricity, which <u>covers</u>: <ul><li>general utilisation techniques, viz. those of electric heating and electric lighting circuits;</li><li>some special utilisation techniques, either electric or electronic in the strict sense, which are not covered by other sections of the Classification, including: <ul><li>electric light sources, including lasers;</li><li>electric X-ray technique;</li><li>electric plasma technique and the generation and acceleration of electrically charged particles or neutrons;</li></ul></li></ul></li><li>basic electronic circuits and their control;</li><li>radio or electric communication technique;</li><li>the use of a specified material for the manufacture of the article or element described. In this connection, paragraphs 88 to 90 of the Guide should be referred to.</li></ul></li><li>In this section, the following general rules apply: <ul><li>Subject to the exceptions stated in I(c), above, any electric aspect or part peculiar to a particular operation, process, apparatus, object or article, classified in one of the sections of the Classification other than section <b>H</b>, is always classified in the subclass for that operation, process, apparatus, object or article. Where common characteristics concerning technical subjects of similar nature have been brought out at class level, the electric aspect or part is classified, in conjunction with the operation, process, apparatus, object or article, in a subclass which covers entirely the general electrical applications for the technical subject in question;</li><li>The electrical applications referred to under (a), above, either general or particular, include: <ul><li>the therapeutic processes and apparatus, in class <b>A61</b>;</li><li>the electric processes and apparatus used in various laboratory or industrial operations, in classes <b>B01</b> and <b>B03</b> and in subclass <b>B23K</b>;</li><li>the electricity supply, electric propulsion and electric lighting of vehicles in general and of particular vehicles, in the subsection \"Transporting\" of section <b>B</b>;</li><li>the electric ignition systems of internal-combustion engines, in subclass <b>F02P</b>, and of combustion apparatus in general, in subclass <b>F23Q</b>;</li><li>the whole electrical part of section <b>G</b>, i.e. measuring devices including apparatus for measuring electric variables, checking, signalling and calculating. Electricity in that section is generally dealt with as a means and not as an end in itself;</li></ul></li><li>All electrical applications, both general and particular, presuppose that the \"basic electricity\" aspect appears in section <b>H</b> (see I(a) above) as regards the electric \"basic elements\" which they comprise. This rule is also valid for applied electricity, referred to in I(c), above, which appears in section <b>H</b> itself.</li></ul></li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_H.txt",
+      "kind": "ipc"
+    },
+    "H03K3/00": {
+      "code": "H03K3/00",
+      "level": 0,
+      "parent": "H03K",
+      "ja": "電気的パルスの発生回路；単安定回路，双安定回路，多安定回路（Ｈ０３Ｋ４／００が優先；コンピュータ内のデジタル型関数発生器のためのものＧ０６Ｆ１／０２）［５］",
+      "en": "Circuits for generating electric pulses; Monostable, bistable or multistable circuits(<b>H03K4/00</b> takes precedence; for digital function generators in computers <b>G06F1/02</b>)",
+      "count": 4993,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/01": {
+      "code": "H03K3/01",
+      "level": 1,
+      "parent": "H03K3/00",
+      "ja": "細部［３］",
+      "en": "Details",
+      "count": 919,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/011": {
+      "code": "H03K3/011",
+      "level": 2,
+      "parent": "H03K3/01",
+      "ja": "物理的値，例．電圧，温度，の変化を補償するための発生器の変形［６］",
+      "en": "Modifications of generator to compensate for variations in physical values, e.g. voltage, temperature",
+      "count": 1554,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/012": {
+      "code": "H03K3/012",
+      "level": 2,
+      "parent": "H03K3/01",
+      "ja": "応答時間を改善または電力消費を減少するための発生器の変形［６］",
+      "en": "Modifications of generator to improve response time or to decrease power consumption",
+      "count": 2525,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/013": {
+      "code": "H03K3/013",
+      "level": 2,
+      "parent": "H03K3/01",
+      "ja": "雑音または混信による動作を予防するための発生器の変形［３］",
+      "en": "Modifications of generator to prevent operation by noise or interference",
+      "count": 1357,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/014": {
+      "code": "H03K3/014",
+      "level": 2,
+      "parent": "H03K3/01",
+      "ja": "振動の開始を確実にする発生器の変形［６］",
+      "en": "Modifications of generator to ensure starting of oscillations",
+      "count": 166,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/015": {
+      "code": "H03K3/015",
+      "level": 2,
+      "parent": "H03K3/01",
+      "ja": "エネルギを一定に維持するための発生器の変形［６］",
+      "en": "Modifications of generator to maintain energy constant",
+      "count": 98,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/017": {
+      "code": "H03K3/017",
+      "level": 2,
+      "parent": "H03K3/01",
+      "ja": "パルスの幅またはデューティ比の調整（パルス幅変調Ｈ０３Ｋ７／０８）［３］",
+      "en": "Adjustment of width or dutycycle of pulses(pulse width modulation <b>H03K7/08</b>)",
+      "count": 2569,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/02": {
+      "code": "H03K3/02",
+      "level": 1,
+      "parent": "H03K3/00",
+      "ja": "パルスの発生に用いられる回路形式または手段によって特徴づけられた発生器（Ｈ０３Ｋ３／６４～Ｈ０３Ｋ３／８４が優先）",
+      "en": "Generators characterised by the type of circuit or by the means used for producing pulses(<b>H03K3/64 to H03K3/84</b>  take precedence)",
+      "count": 6158,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/021": {
+      "code": "H03K3/021",
+      "level": 2,
+      "parent": "H03K3/02",
+      "ja": "能動素子として二種類以上の素子または手段の使用によるもの，例．ＢＩＭＯＳ，ＩＧＢＴのような複合装置［６］",
+      "en": "by the use, as active elements, of more than one type of element or means, e.g. BIMOS, composite devices such as IGBT",
+      "count": 253,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/023": {
+      "code": "H03K3/023",
+      "level": 2,
+      "parent": "H03K3/02",
+      "ja": "内部または外部正帰還をもつ，差動増幅器または比較器を用いるもの［３］",
+      "en": "by the use of differential amplifiers or comparators, with internal or external positive feedback",
+      "count": 1039,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/0231": {
+      "code": "H03K3/0231",
+      "level": 3,
+      "parent": "H03K3/023",
+      "ja": "非安定回路［６］",
+      "en": "Astable circuits",
+      "count": 1714,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/0232": {
+      "code": "H03K3/0232",
+      "level": 3,
+      "parent": "H03K3/023",
+      "ja": "単安定回路［６］",
+      "en": "Monostable circuits",
+      "count": 221,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/0233": {
+      "code": "H03K3/0233",
+      "level": 3,
+      "parent": "H03K3/023",
+      "ja": "双安定回路［６］",
+      "en": "Bistable circuits",
+      "count": 1104,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/0234": {
+      "code": "H03K3/0234",
+      "level": 3,
+      "parent": "H03K3/023",
+      "ja": "多安定回路［６］",
+      "en": "Multistable circuits",
+      "count": 9,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/027": {
+      "code": "H03K3/027",
+      "level": 2,
+      "parent": "H03K3/02",
+      "ja": "内部または外部正帰還をもつ，論理回路を用いるもの［３］",
+      "en": "by the use of logic circuits, with internal or external positive feedback",
+      "count": 646,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/03": {
+      "code": "H03K3/03",
+      "level": 3,
+      "parent": "H03K3/027",
+      "ja": "非安定回路［３］",
+      "en": "Astable circuits",
+      "count": 3841,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/033": {
+      "code": "H03K3/033",
+      "level": 3,
+      "parent": "H03K3/027",
+      "ja": "単安定回路［３］",
+      "en": "Monostable circuits",
+      "count": 490,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/037": {
+      "code": "H03K3/037",
+      "level": 3,
+      "parent": "H03K3/027",
+      "ja": "双安定回路［３］",
+      "en": "Bistable circuits",
+      "count": 4918,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/038": {
+      "code": "H03K3/038",
+      "level": 3,
+      "parent": "H03K3/027",
+      "ja": "多安定回路［６］",
+      "en": "Multistable circuits",
+      "count": 70,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/04": {
+      "code": "H03K3/04",
+      "level": 2,
+      "parent": "H03K3/02",
+      "ja": "能動素子として正帰還をもつ真空管だけを用いるもの（Ｈ０３Ｋ３／０２３，Ｈ０３Ｋ３／０２７が優先）［３］",
+      "en": "by the use, as active elements, of vacuum tubes only, with positive feedback(<b>H03K3/023</b>, <b>H03K3/027</b> take precedence)",
+      "count": 192,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/05": {
+      "code": "H03K3/05",
+      "level": 3,
+      "parent": "H03K3/04",
+      "ja": "変成以外の手段を帰還に用いるもの",
+      "en": "using means other than a transformer for feedback",
+      "count": 17,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/06": {
+      "code": "H03K3/06",
+      "level": 4,
+      "parent": "H03K3/05",
+      "ja": "一方の電子管の入力が他方の電子管の出力から得られるように結合された少なくとも２個の電子管を用いるもの，例．マルチバイブレータ",
+      "en": "using at least two tubes so coupled that the input of one is derived from the output of another, e.g. multivibrator",
+      "count": 82,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/08": {
+      "code": "H03K3/08",
+      "level": 5,
+      "parent": "H03K3/06",
+      "ja": "非安定",
+      "en": "astable",
+      "count": 233,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/09": {
+      "code": "H03K3/09",
+      "level": 6,
+      "parent": "H03K3/08",
+      "ja": "出力の安定化［２］",
+      "en": "Stabilisation of output",
+      "count": 7,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/10": {
+      "code": "H03K3/10",
+      "level": 5,
+      "parent": "H03K3/06",
+      "ja": "単安定",
+      "en": "monostable",
+      "count": 158,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/12": {
+      "code": "H03K3/12",
+      "level": 5,
+      "parent": "H03K3/06",
+      "ja": "双安定",
+      "en": "bistable",
+      "count": 223,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/13": {
+      "code": "H03K3/13",
+      "level": 6,
+      "parent": "H03K3/12",
+      "ja": "ヒステリシスをもつ双安定，例．シュミットトリガ［６］",
+      "en": "Bistables with hysteresis, e.g. Schmitt trigger",
+      "count": 77,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/14": {
+      "code": "H03K3/14",
+      "level": 5,
+      "parent": "H03K3/06",
+      "ja": "多安定",
+      "en": "multistable",
+      "count": 29,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/16": {
+      "code": "H03K3/16",
+      "level": 3,
+      "parent": "H03K3/04",
+      "ja": "変成器を帰還に用いるもの，例．可飽和鉄心をもつブロッキング発振器",
+      "en": "using a transformer for feedback, e.g. blocking oscillator with saturable core",
+      "count": 254,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/22": {
+      "code": "H03K3/22",
+      "level": 4,
+      "parent": "H03K3/16",
+      "ja": "振幅比較のために特に適したもの，すなわちマルチア",
+      "en": "specially adapted for amplitude comparison, i.e. Multiar",
+      "count": 29,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/26": {
+      "code": "H03K3/26",
+      "level": 2,
+      "parent": "H03K3/02",
+      "ja": "能動素子として内部または外部正帰還をもつバイポーラトランジスタを用いるもの（Ｈ０３Ｋ３／０２３，Ｈ０３Ｋ３／０２７が優先）［２］",
+      "en": "by the use, as active elements, of bipolar transistors with internal or external positive feedback(<b>H03K3/023</b>, <b>H03K3/027</b> take precedence)",
+      "count": 772,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/28": {
+      "code": "H03K3/28",
+      "level": 3,
+      "parent": "H03K3/26",
+      "ja": "変成器以外の手段を帰還に用いるもの",
+      "en": "using means other than a transformer for feedback",
+      "count": 406,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/281": {
+      "code": "H03K3/281",
+      "level": 4,
+      "parent": "H03K3/28",
+      "ja": "一方のトランジスタの入力が他方のトランジスタの出力から得られる少なくとも２個のトランジスタを用いるもの，例．マルチバイブレータ",
+      "en": "using at least two transistors so coupled that the input of one is derived from the output of another, e.g. multivibrator",
+      "count": 581,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/282": {
+      "code": "H03K3/282",
+      "level": 5,
+      "parent": "H03K3/281",
+      "ja": "非安定",
+      "en": "astable",
+      "count": 1700,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/283": {
+      "code": "H03K3/283",
+      "level": 6,
+      "parent": "H03K3/282",
+      "ja": "出力の安定化［２］",
+      "en": "Stabilisation of output",
+      "count": 78,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/284": {
+      "code": "H03K3/284",
+      "level": 5,
+      "parent": "H03K3/281",
+      "ja": "単安定",
+      "en": "monostable",
+      "count": 1181,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/286": {
+      "code": "H03K3/286",
+      "level": 5,
+      "parent": "H03K3/281",
+      "ja": "双安定［３］",
+      "en": "bistable",
+      "count": 2004,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/287": {
+      "code": "H03K3/287",
+      "level": 6,
+      "parent": "H03K3/286",
+      "ja": "帰還回路中に付加トランジスタを用いるもの（Ｈ０３Ｋ３／２８９が優先）［３］",
+      "en": "using additional transistors in the feedback circuit(<b>H03K3/289</b> takes precedence)",
+      "count": 59,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/288": {
+      "code": "H03K3/288",
+      "level": 6,
+      "parent": "H03K3/286",
+      "ja": "入力回路中に付加トランジスタを用いるもの（Ｈ０３Ｋ３／２８９が優先）［３］",
+      "en": "using additional transistors in the input circuit(<b>H03K3/289</b> takes precedence)",
+      "count": 304,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/2885": {
+      "code": "H03K3/2885",
+      "level": 7,
+      "parent": "H03K3/288",
+      "ja": "差動構成をもつ入力回路［５］",
+      "en": "the input circuit having a differential configuration",
+      "count": 263,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/289": {
+      "code": "H03K3/289",
+      "level": 6,
+      "parent": "H03K3/286",
+      "ja": "マスタースレーブ形のもの［３］",
+      "en": "of the primary-secondary type",
+      "count": 600,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/2893": {
+      "code": "H03K3/2893",
+      "level": 6,
+      "parent": "H03K3/286",
+      "ja": "ヒステリシスをもつ双安定，例．シュミットトリガ［６］",
+      "en": "Bistables with hysteresis, e.g. Schmitt trigger",
+      "count": 715,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/2897": {
+      "code": "H03K3/2897",
+      "level": 7,
+      "parent": "H03K3/2893",
+      "ja": "差動構成の入力回路をもつもの［６］",
+      "en": "with an input circuit of differential configuration",
+      "count": 214,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/29": {
+      "code": "H03K3/29",
+      "level": 5,
+      "parent": "H03K3/281",
+      "ja": "多安定",
+      "en": "multistable",
+      "count": 286,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/30": {
+      "code": "H03K3/30",
+      "level": 3,
+      "parent": "H03K3/26",
+      "ja": "能動素子としてホール蓄積またはエンハンスメント効果を示す半導体装置を用いるもの",
+      "en": "using a transformer for feedback, e.g. blocking oscillator",
+      "count": 1152,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/313": {
+      "code": "H03K3/313",
+      "level": 2,
+      "parent": "H03K3/02",
+      "ja": "能動素子として２個の電極，１個または２個の電位障壁をもち，負性抵抗特性を示す半導体装置を用いるもの［２００６．０１］",
+      "en": "by the use, as active elements, of semiconductor devices with two electrodes, one or two potential barriers, and exhibiting a negative resistance characteristic",
+      "count": 278,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/315": {
+      "code": "H03K3/315",
+      "level": 3,
+      "parent": "H03K3/313",
+      "ja": "装置がトンネルダイオードであるもの",
+      "en": "the devices being tunnel diodes",
+      "count": 602,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/33": {
+      "code": "H03K3/33",
+      "level": 2,
+      "parent": "H03K3/02",
+      "ja": "能動素子としてホール蓄積またはエンハンスメント効果を示す半導体装置のを用いるもの",
+      "en": "by the use, as active elements, of semiconductor devices exhibiting hole storage or enhancement effect",
+      "count": 275,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/335": {
+      "code": "H03K3/335",
+      "level": 2,
+      "parent": "H03K3/02",
+      "ja": "能動素子として３以上の電極をもちかつアバランシェ効果を示す半導体装置を用いるもの",
+      "en": "by the use, as active elements, of semiconductor devices with more than two electrodes and exhibiting avalanche effect",
+      "count": 450,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/35": {
+      "code": "H03K3/35",
+      "level": 2,
+      "parent": "H03K3/02",
+      "ja": "能動素子として３以上のＰＮ接合，または４以上の電極，または同一伝導領域に接続された２以上の電極をもつバイポーラ半導体装置を用いるもの［３］",
+      "en": "by the use, as active elements, of bipolar semiconductor devices with more than two PN junctions, or more than three electrodes, or more than one electrode connected to the same conductivity region(<b>H03K3/023</b>, <b>H03K3/027</b> take precedence)",
+      "count": 437,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/351": {
+      "code": "H03K3/351",
+      "level": 3,
+      "parent": "H03K3/35",
+      "ja": "装置がユニジャンクショントランジスタであるもの（Ｈ０３Ｋ３／３５２が優先）［３］",
+      "en": "the devices being unijunction transistors(<b>H03K3/352</b> takes precedence)",
+      "count": 357,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/352": {
+      "code": "H03K3/352",
+      "level": 3,
+      "parent": "H03K3/35",
+      "ja": "装置がサイリスタであるもの［３］",
+      "en": "the devices being thyristors",
+      "count": 614,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/3525": {
+      "code": "H03K3/3525",
+      "level": 4,
+      "parent": "H03K3/352",
+      "ja": "アノードゲイトサイリスタまたはプログラムできるユニジャンクショントランジスタ［６］",
+      "en": "Anode gate thyristors or programmable unijunction transistors",
+      "count": 199,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/353": {
+      "code": "H03K3/353",
+      "level": 2,
+      "parent": "H03K3/02",
+      "ja": "能動素子として内部または外部正帰還をもつ電界効果トランジスタを用いるもの（Ｈ０３Ｋ３／０２３，Ｈ０３Ｋ３／０２７が優先）［２，３］",
+      "en": "by the use, as active elements, of field-effect transistors with internal or external positive feedback(<b>H03K3/023</b>, <b>H03K3/027</b> take precedence)",
+      "count": 1093,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/354": {
+      "code": "H03K3/354",
+      "level": 3,
+      "parent": "H03K3/353",
+      "ja": "非安定回路［３］",
+      "en": "Astable circuits",
+      "count": 1825,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/355": {
+      "code": "H03K3/355",
+      "level": 3,
+      "parent": "H03K3/353",
+      "ja": "単安定回路［３］",
+      "en": "Monostable circuits",
+      "count": 114,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/356": {
+      "code": "H03K3/356",
+      "level": 3,
+      "parent": "H03K3/353",
+      "ja": "双安定回路［３］",
+      "en": "Bistable circuits",
+      "count": 5099,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/3562": {
+      "code": "H03K3/3562",
+      "level": 4,
+      "parent": "H03K3/356",
+      "ja": "マスタースレーブ型式の［６］",
+      "en": "of the primary-secondary type",
+      "count": 959,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/3565": {
+      "code": "H03K3/3565",
+      "level": 4,
+      "parent": "H03K3/356",
+      "ja": "ヒステリシスをもつ双安定，例．シュミットトリガ［６］",
+      "en": "Bistables with hysteresis, e.g. Schmitt trigger",
+      "count": 736,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/3568": {
+      "code": "H03K3/3568",
+      "level": 3,
+      "parent": "H03K3/353",
+      "ja": "多安定回路［６］",
+      "en": "Multistable circuits",
+      "count": 35,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/357": {
+      "code": "H03K3/357",
+      "level": 2,
+      "parent": "H03K3/02",
+      "ja": "能動素子としてバルク負性抵抗装置，例．ガン効果装置，を用いるもの［２］",
+      "en": "by the use, as active elements, of bulk negative resistance devices, e.g. Gunn-effect devices",
+      "count": 72,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/36": {
+      "code": "H03K3/36",
+      "level": 2,
+      "parent": "H03K3/02",
+      "ja": "能動素子として他に分類されない半導体を用いるもの［２］",
+      "en": "by the use, as active elements, of semiconductors, not otherwise provided for",
+      "count": 197,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/37": {
+      "code": "H03K3/37",
+      "level": 2,
+      "parent": "H03K3/02",
+      "ja": "能動素子としてガス入り管を用いるもの，例．非安定トリガ回路（Ｈ０３Ｋ３／５５が優先）",
+      "en": "by the use, as active elements, of gas-filled tubes, e.g. astable trigger circuits(<b>H03K3/55</b> takes precedence)",
+      "count": 186,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/38": {
+      "code": "H03K3/38",
+      "level": 2,
+      "parent": "H03K3/02",
+      "ja": "能動素子として超電導装置を用いるもの［３］",
+      "en": "by the use, as active elements, of superconductive devices",
+      "count": 462,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/40": {
+      "code": "H03K3/40",
+      "level": 2,
+      "parent": "H03K3/02",
+      "ja": "能動素子として電気化学的電池を用いるもの",
+      "en": "by the use, as active elements, of electrochemical cells",
+      "count": 45,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/42": {
+      "code": "H03K3/42",
+      "level": 2,
+      "parent": "H03K3/02",
+      "ja": "能動素子として光－電子装置，すなわち電気的にまたは光学的に結合された発光および光電変換を用いるもの",
+      "en": "by the use, as active elements, of opto-electronic devices, i.e. light-emitting and photoelectric devices electrically- or optically-coupled",
+      "count": 787,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/43": {
+      "code": "H03K3/43",
+      "level": 2,
+      "parent": "H03K3/02",
+      "ja": "能動素子として電子ビーム偏向管を用いるもの",
+      "en": "by the use, as active elements, of beam deflection tubes",
+      "count": 62,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/45": {
+      "code": "H03K3/45",
+      "level": 2,
+      "parent": "H03K3/02",
+      "ja": "能動素子として非線形磁気装置または非線形誘電体装置を用いるもの",
+      "en": "by the use, as active elements, of non-linear magnetic or dielectric devices",
+      "count": 1352,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/47": {
+      "code": "H03K3/47",
+      "level": 3,
+      "parent": "H03K3/45",
+      "ja": "装置がパラメトロンであるもの",
+      "en": "the devices being parametrons",
+      "count": 132,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/49": {
+      "code": "H03K3/49",
+      "level": 3,
+      "parent": "H03K3/45",
+      "ja": "装置が鉄共振装置であるもの",
+      "en": "the devices being ferro-resonant",
+      "count": 51,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/51": {
+      "code": "H03K3/51",
+      "level": 3,
+      "parent": "H03K3/45",
+      "ja": "装置が多孔磁心，例．トランスフラクサ，であるもの",
+      "en": "the devices being multi-aperture magnetic cores, e.g. transfluxors",
+      "count": 95,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/53": {
+      "code": "H03K3/53",
+      "level": 2,
+      "parent": "H03K3/02",
+      "ja": "外部信号により制御されるスイッチング素子によって負荷を通して放電させられ，かつ正帰還が組みこまれていないエネルギ蓄積素子の使用によるもの",
+      "en": "by the use of an energy-accumulating element discharged through the load by a switching device controlled by an external signal and not incorporating positive feedback(<b>H03K3/335</b> takes precedence)",
+      "count": 2953,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/537": {
+      "code": "H03K3/537",
+      "level": 3,
+      "parent": "H03K3/53",
+      "ja": "開閉装置がスパークギャップであるもの［３］",
+      "en": "the switching device being a spark gap",
+      "count": 549,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/543": {
+      "code": "H03K3/543",
+      "level": 3,
+      "parent": "H03K3/53",
+      "ja": "開閉装置が真空管であるもの［３］",
+      "en": "the switching device being a vacuum tube",
+      "count": 114,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/55": {
+      "code": "H03K3/55",
+      "level": 3,
+      "parent": "H03K3/53",
+      "ja": "開閉装置が制御電極をもつガス入り管であるもの",
+      "en": "the switching device being a gas-filled tube having a control electrode",
+      "count": 627,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/57": {
+      "code": "H03K3/57",
+      "level": 3,
+      "parent": "H03K3/53",
+      "ja": "開閉装置が半導体装置であるもの",
+      "en": "the switching device being a semiconductor device",
+      "count": 2237,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/59": {
+      "code": "H03K3/59",
+      "level": 2,
+      "parent": "H03K3/02",
+      "ja": "電流磁気効果装置の使用によるもの，例．ホール効果装置［２］",
+      "en": "by the use of galvano-magnetic devices, e.g. Hall-effect devices",
+      "count": 75,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/64": {
+      "code": "H03K3/64",
+      "level": 1,
+      "parent": "H03K3/00",
+      "ja": "パルス列，すなわち有限の続発パルスを発生する発生器",
+      "en": "Generators producing trains of pulses, i.e. finite sequences of pulses",
+      "count": 1556,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/66": {
+      "code": "H03K3/66",
+      "level": 2,
+      "parent": "H03K3/64",
+      "ja": "発生器出力の断続によるもの",
+      "en": "by interrupting the output of a generator",
+      "count": 118,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/70": {
+      "code": "H03K3/70",
+      "level": 3,
+      "parent": "H03K3/66",
+      "ja": "１パルス列中のすべての隣接パルスの間隔が等しいもの",
+      "en": "time intervals between all adjacent pulses of one train being equal",
+      "count": 130,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/72": {
+      "code": "H03K3/72",
+      "level": 2,
+      "parent": "H03K3/64",
+      "ja": "パルス列繰返数を変化させるための手段をもつもの",
+      "en": "with means for varying repetition rate of trains",
+      "count": 615,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/78": {
+      "code": "H03K3/78",
+      "level": 1,
+      "parent": "H03K3/00",
+      "ja": "所定のパルスパターン，例．所定のパルス数，をもつ単一パルス列の発生",
+      "en": "Generating a single train of pulses having a predetermined pattern, e.g. a predetermined number",
+      "count": 2021,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/80": {
+      "code": "H03K3/80",
+      "level": 1,
+      "parent": "H03K3/00",
+      "ja": "正弦波振動の列の発生（正弦波振動のキーイングまたは断続によるＨ０３Ｃ，デジタル情報の伝送のためＨ０４Ｌ）",
+      "en": "Generating trains of sinusoidal oscillations(by keying or interruption of sinusoidal oscillations <b>H03C</b>;  for transmission of digital information <b>H04L</b>)",
+      "count": 575,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/84": {
+      "code": "H03K3/84",
+      "level": 1,
+      "parent": "H03K3/00",
+      "ja": "所定の統計上のパラメータ分布をもつパルスの発生，例．ランダムパルス発生器［２］",
+      "en": "Generating pulses having a predetermined statistical distribution of a parameter, e.g. random pulse generators",
+      "count": 2335,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K3/86": {
+      "code": "H03K3/86",
+      "level": 1,
+      "parent": "H03K3/00",
+      "ja": "遅延線によるパルスであって，かつ先行のサブグループに含まれないパルスの発生［２］",
+      "en": "Generating pulses by means of delay lines and not covered by the preceding subgroups",
+      "count": 183,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K4/00": {
+      "code": "H03K4/00",
+      "level": 0,
+      "parent": "H03K",
+      "ja": "有限の傾斜またはステップ部分を実質的にもつパルスの発生",
+      "en": "Generating pulses having essentially a finite slope or stepped portions",
+      "count": 646,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K4/02": {
+      "code": "H03K4/02",
+      "level": 1,
+      "parent": "H03K4/00",
+      "ja": "ステップ部分をもつもの，例．階段波形",
+      "en": "having stepped portions, e.g. staircase waveform",
+      "count": 1385,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K4/04": {
+      "code": "H03K4/04",
+      "level": 1,
+      "parent": "H03K4/00",
+      "ja": "放物線波形をもつもの",
+      "en": "having parabolic shape",
+      "count": 143,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K4/06": {
+      "code": "H03K4/06",
+      "level": 1,
+      "parent": "H03K4/00",
+      "ja": "３角波形をもつもの",
+      "en": "having triangular shape",
+      "count": 1393,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K4/08": {
+      "code": "H03K4/08",
+      "level": 2,
+      "parent": "H03K4/06",
+      "ja": "のこぎり波形をもつもの",
+      "en": "having sawtooth shape",
+      "count": 867,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K4/10": {
+      "code": "H03K4/10",
+      "level": 3,
+      "parent": "H03K4/08",
+      "ja": "電子管のみを能動素子としてもつもの",
+      "en": "using as active elements vacuum tubes only",
+      "count": 61,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K4/12": {
+      "code": "H03K4/12",
+      "level": 4,
+      "parent": "H03K4/10",
+      "ja": "のこぎり波状電圧がコンデンサを通して発生するもの",
+      "en": "in which a sawtooth voltage is produced across a capacitor",
+      "count": 399,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K4/14": {
+      "code": "H03K4/14",
+      "level": 5,
+      "parent": "H03K4/12",
+      "ja": "１方の電子管の入力が他方の電子管の出力から得られるように結合された２個の電子管を用いるもの，例．マルチバイブレータ",
+      "en": "using two tubes so coupled that the input of each one is derived from the output of the other, e.g. multivibrator",
+      "count": 58,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K4/16": {
+      "code": "H03K4/16",
+      "level": 5,
+      "parent": "H03K4/12",
+      "ja": "変成器を介する正帰還をもつ単一電子管を用いるもの，例．ブロッキング発振器",
+      "en": "using a single tube with positive feedback through transformer, e.g. blocking oscillator",
+      "count": 115,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K4/18": {
+      "code": "H03K4/18",
+      "level": 5,
+      "parent": "H03K4/12",
+      "ja": "２つの電極間に負性抵抗特性を示す単一の電子管，例．トランジトロン，ダイナトロン，を用いるもの",
+      "en": "using a single tube exhibiting negative resistance between two of its electrodes, e.g. transitron, dynatron",
+      "count": 22,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K4/20": {
+      "code": "H03K4/20",
+      "level": 5,
+      "parent": "H03K4/12",
+      "ja": "コンデンサによる正帰還をもつ電子管を用いるもの",
+      "en": "using a tube with negative feedback by capacitor, e.g. Miller integrator",
+      "count": 109,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K4/22": {
+      "code": "H03K4/22",
+      "level": 6,
+      "parent": "H03K4/20",
+      "ja": "トランジトロンと結合されたもの，例．ハンタストロン，サナトロン",
+      "en": "combined with transitron, e.g. phantastron, sanatron",
+      "count": 47,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K4/24": {
+      "code": "H03K4/24",
+      "level": 5,
+      "parent": "H03K4/12",
+      "ja": "ブートストラップ発生器",
+      "en": "Boot-strap generators",
+      "count": 70,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K4/26": {
+      "code": "H03K4/26",
+      "level": 4,
+      "parent": "H03K4/10",
+      "ja": "のこぎり波状電流がインダクタンスを通して発生するもの",
+      "en": "in which a sawtooth current is produced through an inductor",
+      "count": 121,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K4/28": {
+      "code": "H03K4/28",
+      "level": 5,
+      "parent": "H03K4/26",
+      "ja": "スイッチング装置として動作する１本の電子管を用いるもの［３］",
+      "en": "using a tube operating as a switching device",
+      "count": 228,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K4/32": {
+      "code": "H03K4/32",
+      "level": 6,
+      "parent": "H03K4/28",
+      "ja": "駆動パルスを発生させるための手段と結合されたもの",
+      "en": "combined with means for generating the driving pulses",
+      "count": 83,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K4/34": {
+      "code": "H03K4/34",
+      "level": 7,
+      "parent": "H03K4/32",
+      "ja": "変成器を介する正帰還をもつ単一の電子管をもつもの",
+      "en": "using a single tube with positive feedback through a transformer",
+      "count": 124,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K4/36": {
+      "code": "H03K4/36",
+      "level": 7,
+      "parent": "H03K4/32",
+      "ja": "２つの電極の間に負性抵抗を示す単一の電子管，例．トランジトロン，ダイナトロン，を用いるもの",
+      "en": "using a single tube exhibiting negative resistance between two of its electrodes, e.g. transitron, dynatron",
+      "count": 2,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K4/38": {
+      "code": "H03K4/38",
+      "level": 8,
+      "parent": "H03K4/36",
+      "ja": "ミラー積分器と結合されたもの",
+      "en": "combined with Miller integrator",
+      "count": 8,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K4/39": {
+      "code": "H03K4/39",
+      "level": 5,
+      "parent": "H03K4/26",
+      "ja": "増幅器として動作する１本の電子管を用いるもの［３］",
+      "en": "using a tube operating as an amplifier",
+      "count": 47,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K4/41": {
+      "code": "H03K4/41",
+      "level": 6,
+      "parent": "H03K4/39",
+      "ja": "コンデンサを介する負帰還をもつもの，例．ミラー積分器［３］",
+      "en": "with negative feedback through a capacitor, e.g. Miller integrator",
+      "count": 20,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K4/43": {
+      "code": "H03K4/43",
+      "level": 6,
+      "parent": "H03K4/39",
+      "ja": "駆動パルスを発生する手段と結合されたもの［３］",
+      "en": "combined with means for generating the driving pulses",
+      "count": 197,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K4/48": {
+      "code": "H03K4/48",
+      "level": 3,
+      "parent": "H03K4/08",
+      "ja": "半導体装置を能動素子として使用するもの（Ｈ０３Ｋ４／７８７～Ｈ０３Ｋ４／８４が優先）",
+      "en": "using as active elements semiconductor devices(<b>H03K4/787 to H03K4/84</b>  take precedence)",
+      "count": 233,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K4/50": {
+      "code": "H03K4/50",
+      "level": 4,
+      "parent": "H03K4/48",
+      "ja": "のこぎり波状電圧がコンデンサを通して発生するもの",
+      "en": "in which a sawtooth voltage is produced across a capacitor",
+      "count": 1051,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K4/501": {
+      "code": "H03K4/501",
+      "level": 5,
+      "parent": "H03K4/50",
+      "ja": "帰線期間の出発点がコンデンサを横切る電圧の振幅によって決まるもの，例．比較器によるもの［６］",
+      "en": "the starting point of the flyback period being determined by the amplitude of the voltage across the capacitor, e.g. by a comparator",
+      "count": 518,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K4/502": {
+      "code": "H03K4/502",
+      "level": 6,
+      "parent": "H03K4/501",
+      "ja": "コンデンサが一定の電流源から充電されるもの［６］",
+      "en": "the capacitor being charged from a constant-current source",
+      "count": 325,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K4/52": {
+      "code": "H03K4/52",
+      "level": 5,
+      "parent": "H03K4/50",
+      "ja": "各トランジスタの入力が，たがいに他のトランジスタの出力から得られるように結合された２個のトランジスタを用いるもの，例．マルチバイブレータ",
+      "en": "using two semiconductor devices so coupled that the input of each one is derived from the output of the other, e.g. multivibrator",
+      "count": 61,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K4/54": {
+      "code": "H03K4/54",
+      "level": 5,
+      "parent": "H03K4/50",
+      "ja": "変成器を介する正帰還をもつ単一の半導体装置を用いるもの，例．ブロッキング発振器",
+      "en": "using a single semiconductor device with positive feedback through a transformer, e.g. blocking oscillator",
+      "count": 61,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K4/56": {
+      "code": "H03K4/56",
+      "level": 5,
+      "parent": "H03K4/50",
+      "ja": "コンデンサを介する負帰還をもつ半導体装置を用いるもの，例．ミラー積分器",
+      "en": "using a semiconductor device with negative feedback through a capacitor, e.g. Miller integrator",
+      "count": 323,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K4/58": {
+      "code": "H03K4/58",
+      "level": 5,
+      "parent": "H03K4/50",
+      "ja": "ブートストラップ発振器",
+      "en": "Boot-strap generators",
+      "count": 104,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K4/60": {
+      "code": "H03K4/60",
+      "level": 4,
+      "parent": "H03K4/48",
+      "ja": "のこぎり波形電流がインダクタンスを通して発生するもの",
+      "en": "in which a sawtooth current is produced through an inductor",
+      "count": 133,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K4/62": {
+      "code": "H03K4/62",
+      "level": 5,
+      "parent": "H03K4/60",
+      "ja": "スイッチング装置として動作する１個の半導体装置を用いるもの［３］",
+      "en": "using a semiconductor device operating as a switching device",
+      "count": 367,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K4/64": {
+      "code": "H03K4/64",
+      "level": 6,
+      "parent": "H03K4/62",
+      "ja": "駆動パルスを発生する手段と結合されたもの",
+      "en": "combined with means for generating the driving pulses",
+      "count": 177,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K4/66": {
+      "code": "H03K4/66",
+      "level": 7,
+      "parent": "H03K4/64",
+      "ja": "正帰還をもつ単一の素子を用いるもの，例．ブロッキング発振器",
+      "en": "using a single device with positive feedback, e.g. blocking oscillator",
+      "count": 27,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K4/68": {
+      "code": "H03K4/68",
+      "level": 6,
+      "parent": "H03K4/62",
+      "ja": "発生器においてスイッチング装置がサイクル中の帰線部分の間導通するような発生器",
+      "en": "Generators in which the switching device is conducting during the fly-back part of the cycle",
+      "count": 31,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K4/69": {
+      "code": "H03K4/69",
+      "level": 5,
+      "parent": "H03K4/60",
+      "ja": "増幅器として動作する１個の半導体装置を用いるもの［３］",
+      "en": "using a semiconductor device operating as an amplifier",
+      "count": 189,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K4/71": {
+      "code": "H03K4/71",
+      "level": 6,
+      "parent": "H03K4/69",
+      "ja": "コンデンサを介する負帰還をもつもの，例．ミラー積分器［３］",
+      "en": "with negative feedback through a capacitor, e.g. Miller integrator",
+      "count": 49,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K4/72": {
+      "code": "H03K4/72",
+      "level": 6,
+      "parent": "H03K4/69",
+      "ja": "駆動パルスを発生する手段と結合されたもの",
+      "en": "combined with means for generating the driving pulses",
+      "count": 193,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K4/787": {
+      "code": "H03K4/787",
+      "level": 3,
+      "parent": "H03K4/08",
+      "ja": "能動素子として二つの電極をもち負性抵抗特性を示す半導体装置を用いるもの［２］",
+      "en": "using as active elements semiconductor devices with two electrodes and exhibiting a negative resistance characteristic",
+      "count": 16,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K4/793": {
+      "code": "H03K4/793",
+      "level": 4,
+      "parent": "H03K4/787",
+      "ja": "トンネルダイオードを用いるもの［２］",
+      "en": "using tunnel diodes",
+      "count": 25,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K4/80": {
+      "code": "H03K4/80",
+      "level": 3,
+      "parent": "H03K4/08",
+      "ja": "多層ダイオードを能動素子として用いるもの",
+      "en": "using as active elements multi-layer diodes",
+      "count": 33,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K4/83": {
+      "code": "H03K4/83",
+      "level": 3,
+      "parent": "H03K4/08",
+      "ja": "３以上のＰＮ接合，または４以上の電極，または同一伝導領域に接続された２以上の電極をもつ半導体装置を能動素子としているもの［２］",
+      "en": "using as active elements semiconductor devices with more than two PN junctions or with more than three electrodes or more than one electrode connected to the same conductivity region",
+      "count": 232,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K4/84": {
+      "code": "H03K4/84",
+      "level": 4,
+      "parent": "H03K4/83",
+      "ja": "発生器の半導体装置がサイクル中の帰線部分の間導通するような発生器",
+      "en": "Generators in which the semiconductor device is conducting during the fly-back part of the cycle",
+      "count": 108,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K4/86": {
+      "code": "H03K4/86",
+      "level": 3,
+      "parent": "H03K4/08",
+      "ja": "ガス入り管を能動素子として用いるもの",
+      "en": "using as active elements gas-filled tubes",
+      "count": 183,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K4/88": {
+      "code": "H03K4/88",
+      "level": 3,
+      "parent": "H03K4/08",
+      "ja": "電気化学的電池を能動素子として用いるもの",
+      "en": "using as active elements electrochemical cells",
+      "count": 29,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K4/90": {
+      "code": "H03K4/90",
+      "level": 3,
+      "parent": "H03K4/08",
+      "ja": "傾斜波の線形化（パルスの傾斜の変形Ｈ０３Ｋ６／０４；テレビジョン受像機に対する走査の歪み訂正Ｈ０４Ｎ３／２３）；パルスの同期［２］",
+      "en": "Linearisation of ramp(modifying slopes of pulses <b>H03K6/04</b>; scanning distortion correction for television receivers <b>H04N3/23</b>);Synchronisation of pulses",
+      "count": 506,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K4/92": {
+      "code": "H03K4/92",
+      "level": 1,
+      "parent": "H03K4/00",
+      "ja": "正弦波形の一部からなる波形をもつもの（スイッチング動作を行なわない能動素子を用いた振動の発生Ｈ０３Ｂ）［２］",
+      "en": "having a waveform comprising a portion of a sinusoid(generating sinusoidal oscillations <b>H03B</b>)",
+      "count": 177,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K4/94": {
+      "code": "H03K4/94",
+      "level": 1,
+      "parent": "H03K4/00",
+      "ja": "台形状の波形をもつもの［２］",
+      "en": "having trapezoidal shape",
+      "count": 445,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K5/00": {
+      "code": "H03K5/00",
+      "level": 0,
+      "parent": "H03K",
+      "ja": "このサブクラスの他のメイングループの１によっては包括されないパルスの操作（再生作用をもつ回路Ｈ０３Ｋ３／００，Ｈ０３Ｋ４／００；非線形磁気または誘電体装置の使用によるものＨ０３Ｋ３／４５）<br><br><b><ul>注</ul></b><br>このグループにおいては，入力信号はパルスの形のものである。［３］",
+      "en": "Manipulation of pulses not covered by one of the other main groups of this subclass(circuits with regenerative action <b>H03K3/00</b>, <b>H03K4/00</b>; by the use of non-linear magnetic or dielectric devices <b>H03K3/45</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>In this group, the input signals are of the pulse type. </li></ul>",
+      "count": 11658,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K5/003": {
+      "code": "H03K5/003",
+      "level": 1,
+      "parent": "H03K5/00",
+      "ja": "ＤＣレベルを変えるもの（テレビジョン信号のｄｃ成分の再挿入Ｈ０４Ｎ５／１６）［６］",
+      "en": "Changing the DC level(reinsertion of DC component of a television signal <b>H04N5/16</b>)",
+      "count": 871,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K5/007": {
+      "code": "H03K5/007",
+      "level": 2,
+      "parent": "H03K5/003",
+      "ja": "基線の安定（しきい値によるものＨ０３Ｋ５／０８）［６］",
+      "en": "Base line stabilisation(thresholding <b>H03K5/08</b>)",
+      "count": 714,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K5/01": {
+      "code": "H03K5/01",
+      "level": 1,
+      "parent": "H03K5/00",
+      "ja": "パルスの整形（雑音または干渉に対する識別Ｈ０３Ｋ５／１２５）",
+      "en": "Shaping pulses(discrimination against noise or interference <b>H03K5/125</b>)",
+      "count": 4880,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K5/02": {
+      "code": "H03K5/02",
+      "level": 2,
+      "parent": "H03K5/01",
+      "ja": "増幅によるもの（Ｈ０３Ｋ５／０４が優先）",
+      "en": "by amplifying(<b>H03K5/04</b> takes precedence)",
+      "count": 3206,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K5/04": {
+      "code": "H03K5/04",
+      "level": 2,
+      "parent": "H03K5/01",
+      "ja": "持続時間の増大によるもの；持続時間の減少によるもの",
+      "en": "by increasing duration; by decreasing duration",
+      "count": 3788,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K5/05": {
+      "code": "H03K5/05",
+      "level": 3,
+      "parent": "H03K5/04",
+      "ja": "クロック信号または時間参照信号の使用によるもの［３］",
+      "en": "by the use of clock signals or other time reference signals",
+      "count": 922,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K5/06": {
+      "code": "H03K5/06",
+      "level": 3,
+      "parent": "H03K5/04",
+      "ja": "遅廷線または他のアナログ素子の使用によるもの［３］",
+      "en": "by the use of delay lines or other analogue delay elements",
+      "count": 779,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K5/07": {
+      "code": "H03K5/07",
+      "level": 3,
+      "parent": "H03K5/04",
+      "ja": "共振回路の使用によるもの［３］",
+      "en": "by the use of resonant circuits",
+      "count": 131,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K5/08": {
+      "code": "H03K5/08",
+      "level": 2,
+      "parent": "H03K5/01",
+      "ja": "振幅制限によるもの，しきい値によるもの，スライスによるもの，すなわち振幅制限としきい値の結合によるもの（Ｈ０３Ｋ５／０７が優先；１つのパルスと他のパルスとの比較Ｈ０３Ｋ５／２２；スイッチ動作のために所定のしきい値を設けるものＨ０３Ｋ１７／３０）［３］",
+      "en": "by limiting, by thresholding, by slicing, i.e. combined limiting and thresholding(<b>H03K5/07</b> takes precedence; comparing one pulse with another <b>H03K5/22</b>; providing a determined threshold for switching <b>H03K17/30</b>)",
+      "count": 7058,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K5/12": {
+      "code": "H03K5/12",
+      "level": 2,
+      "parent": "H03K5/01",
+      "ja": "立上りまたは立下りの峻度の増大によるもの",
+      "en": "by steepening leading or trailing edges",
+      "count": 1131,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K5/125": {
+      "code": "H03K5/125",
+      "level": 1,
+      "parent": "H03K5/00",
+      "ja": "パルスの識別（個々のパルスの特性を測定するものＧ０１Ｒ２９／０２；テレビ装置における同期信号の分離Ｈ０４Ｎ５／０８）［６］",
+      "en": "Discriminating pulses(measuring characteristics of individual pulses <b>G01R29/02</b>; separation of synchronising signals in television systems <b>H04N5/08</b>)",
+      "count": 751,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K5/1252": {
+      "code": "H03K5/1252",
+      "level": 2,
+      "parent": "H03K5/125",
+      "ja": "雑音または干渉の抑制または制限（特に伝送方式に適合するものＨ０４Ｂ１５／００，Ｈ０４Ｌ２５／０８）［６］",
+      "en": "Suppression or limitation of noise or interference(specially adapted for transmission systems <b>H04B15/00</b>, <b>H04L25/08</b>)",
+      "count": 2743,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K5/1254": {
+      "code": "H03K5/1254",
+      "level": 3,
+      "parent": "H03K5/1252",
+      "ja": "特にスイッチの閉鎖により発生するパルスに適合するもの，すなわち，チャタリング防止（電子時計用はずみ低下回路Ｇ０４Ｇ５／００）［６］",
+      "en": "specially adapted for pulses generated by closure of switches, i.e. anti-bouncing devices(debouncing circuits for electronic time-pieces <b>G04G5/00</b>)",
+      "count": 819,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K5/13": {
+      "code": "H03K5/13",
+      "level": 1,
+      "parent": "H03K5/00",
+      "ja": "単一の出力をもち，かつ入力信号を変換して所望の時間間隔を有するパルスを与える配置［１，２０１４．０１］",
+      "en": "Arrangements having a single output and transforming input signals into pulses delivered at desired time intervals",
+      "count": 7437,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K5/131": {
+      "code": "H03K5/131",
+      "level": 2,
+      "parent": "H03K5/13",
+      "ja": "デジタル制御されるもの［２０１４．０１］",
+      "en": "Digitally controlled",
+      "count": 703,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K5/133": {
+      "code": "H03K5/133",
+      "level": 2,
+      "parent": "H03K5/13",
+      "ja": "能動遅延装置の連鎖を用いるもの［２０１４．０１］",
+      "en": "using a chain of active-delay devices",
+      "count": 982,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K5/134": {
+      "code": "H03K5/134",
+      "level": 3,
+      "parent": "H03K5/133",
+      "ja": "電界効果トランジスタを用いるもの［２０１４．０１］",
+      "en": "with field-effect transistors",
+      "count": 475,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K5/135": {
+      "code": "H03K5/135",
+      "level": 2,
+      "parent": "H03K5/13",
+      "ja": "時間参照信号，例．クロック信号の使用によるもの［３］",
+      "en": "by the use of time reference signals, e.g. clock signals",
+      "count": 3812,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K5/14": {
+      "code": "H03K5/14",
+      "level": 2,
+      "parent": "H03K5/13",
+      "ja": "遅延線の使用によるもの（Ｈ０３Ｋ５／１３３が優先）［３，２０１４．０１］",
+      "en": "by the use of delay lines(<b>H03K5/133</b> takes precedence)",
+      "count": 1547,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K5/145": {
+      "code": "H03K5/145",
+      "level": 2,
+      "parent": "H03K5/13",
+      "ja": "共振回路の使用によるもの［３］",
+      "en": "by the use of resonant circuits",
+      "count": 75,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K5/15": {
+      "code": "H03K5/15",
+      "level": 1,
+      "parent": "H03K5/00",
+      "ja": "パルスを異った時間にいくつかの出力に発生させる装置，すなわちパルス分配器（分配，スイッチングまたはゲート装置Ｈ０３Ｋ１７／００）［２］",
+      "en": "Arrangements in which pulses are delivered at different times at several outputs, i.e. pulse distributors(distributing, switching, or gating arrangements <b>H03K17/00</b>)",
+      "count": 3327,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K5/151": {
+      "code": "H03K5/151",
+      "level": 2,
+      "parent": "H03K5/15",
+      "ja": "二つの相補的な出力をもつもの［６］",
+      "en": "with two complementary outputs",
+      "count": 725,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K5/153": {
+      "code": "H03K5/153",
+      "level": 1,
+      "parent": "H03K5/00",
+      "ja": "入力信号が予定された特性にきたとき瞬時にまたはある時間間隔をもって１つのパルスを与える配置（零交叉でのスイッチングＨ０３Ｋ１７／１３）",
+      "en": "Arrangements in which a pulse is delivered at the instant when a predetermined characteristic of an input signal is present or at a fixed time interval after this instant(switching at zero crossing <b>H03K17/13</b>)",
+      "count": 3504,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K5/1532": {
+      "code": "H03K5/1532",
+      "level": 2,
+      "parent": "H03K5/153",
+      "ja": "ピーク検知器（個々のパルスの特性を測定するものＧ０１Ｒ２９／０２）［６］",
+      "en": "Peak detectors(measuring characteristics of individual pulses <b>G01R29/02</b>)",
+      "count": 1265,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K5/1534": {
+      "code": "H03K5/1534",
+      "level": 2,
+      "parent": "H03K5/153",
+      "ja": "遷移またはエッジ検知器［６］",
+      "en": "Transition or edge detectors",
+      "count": 785,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K5/1536": {
+      "code": "H03K5/1536",
+      "level": 2,
+      "parent": "H03K5/153",
+      "ja": "零交叉検知器（回路測定におけるものＧ０１Ｒ１９／１７５）［２００６．０１］",
+      "en": "Zero-crossing detectors(in measuring circuits <b>G01R19/175</b>)",
+      "count": 494,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K5/156": {
+      "code": "H03K5/156",
+      "level": 1,
+      "parent": "H03K5/00",
+      "ja": "連続パルス列を所望のパターンをもつパルス列に変換する配置",
+      "en": "Arrangements in which a continuous pulse train is transformed into a train having a desired pattern",
+      "count": 3083,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K5/159": {
+      "code": "H03K5/159",
+      "level": 1,
+      "parent": "H03K5/00",
+      "ja": "前のサブグループによっては包括されない遅延線の応用",
+      "en": "Applications of delay lines not covered by the preceding subgroups",
+      "count": 1297,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K5/19": {
+      "code": "H03K5/19",
+      "level": 1,
+      "parent": "H03K5/00",
+      "ja": "パルス列のパターンの監視（振幅の指示Ｇ０１Ｒ１９／００；周波数の指示Ｇ０１Ｒ２３／００；個々のパルスの特性の測定Ｇ０１Ｒ２９／０２）［３］",
+      "en": "Monitoring patterns of pulse trains(indicating amplitude <b>G01R19/00</b>; indicating frequency <b>G01R23/00</b>; measuring characteristics of individual pulses <b>G01R29/02</b>)",
+      "count": 2671,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K5/22": {
+      "code": "H03K5/22",
+      "level": 1,
+      "parent": "H03K5/00",
+      "ja": "入力信号特性，例．傾斜，積分，にもとづいてパルスまたはパルス列をお互いに比較するための２つ以上の入力と１つの出力をもつ回路（２つの周期的パルス列の位相差の指示Ｇ０１Ｒ２５／００）［３］",
+      "en": "Circuits having more than one input and one output for comparing pulses or pulse trains with each other according to input signal characteristics, e.g. slope, integral(indicating phase difference of two cyclic pulse trains <b>G01R25/00</b>)",
+      "count": 2276,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K5/24": {
+      "code": "H03K5/24",
+      "level": 2,
+      "parent": "H03K5/22",
+      "ja": "入力信号特性が振幅であるもの［３］",
+      "en": "the characteristic being amplitude",
+      "count": 4667,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K5/26": {
+      "code": "H03K5/26",
+      "level": 2,
+      "parent": "H03K5/22",
+      "ja": "入力信号特性が持続時間，間隔，位置，周波数または順序であるもの［３］",
+      "en": "the characteristic being duration, interval, position, frequency, or sequence",
+      "count": 3254,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K6/00": {
+      "code": "H03K6/00",
+      "level": 0,
+      "parent": "H03K",
+      "ja": "このサブクラス中の他のメイングループの１によっては包括されない，有限の傾斜をもつパルスの操作（再生作用をもつ回路Ｈ０３Ｋ４／００）<br><br><b><ul>注</ul></b><br>このグループにおいては，入力信号はパルスの形のものである。［３］",
+      "en": "Manipulating pulses having a finite slope and not covered by one of the other main groups of this subclass(circuits with regenerative action <b>H03K4/00</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>In this group, the input signals are of the pulse type. </li></ul>",
+      "count": 576,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K6/02": {
+      "code": "H03K6/02",
+      "level": 1,
+      "parent": "H03K6/00",
+      "ja": "パルスの増幅",
+      "en": "Amplifying pulses",
+      "count": 304,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K6/04": {
+      "code": "H03K6/04",
+      "level": 1,
+      "parent": "H03K6/00",
+      "ja": "パルスの傾斜の変形，例．Ｓ字ひずみの補正（テレビジョンにおけるＳ字ひずみの補正Ｈ０４Ｎ３／２３）",
+      "en": "Modifying slopes of pulses, e.g. S-correction(S-correction in television <b>H04N3/23</b>)",
+      "count": 442,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K7/00": {
+      "code": "H03K7/00",
+      "level": 0,
+      "parent": "H03K",
+      "ja": "連続的に変化する変調信号によるパルスの変調",
+      "en": "Modulating pulses with a continuously-variable modulating signal",
+      "count": 813,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K7/02": {
+      "code": "H03K7/02",
+      "level": 1,
+      "parent": "H03K7/00",
+      "ja": "振幅変調，すなわちＰＡＭ",
+      "en": "Amplitude modulation, i.e. PAM",
+      "count": 1177,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K7/04": {
+      "code": "H03K7/04",
+      "level": 1,
+      "parent": "H03K7/00",
+      "ja": "位置変調，すなわちＰＰＭ",
+      "en": "Position modulation, i.e. PPM",
+      "count": 527,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K7/06": {
+      "code": "H03K7/06",
+      "level": 1,
+      "parent": "H03K7/00",
+      "ja": "周波数あるいはレート変調，すなわちＰＦＭまたはＰＲＭ",
+      "en": "Frequency or rate modulation, i.e. PFM or PRM",
+      "count": 1642,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K7/08": {
+      "code": "H03K7/08",
+      "level": 1,
+      "parent": "H03K7/00",
+      "ja": "持続時間または幅変調",
+      "en": "Duration or width modulation",
+      "count": 6756,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K7/10": {
+      "code": "H03K7/10",
+      "level": 1,
+      "parent": "H03K7/00",
+      "ja": "複合変調，例．レート変調および振幅変調",
+      "en": "Combined modulation, e.g. rate modulation and amplitude modulation",
+      "count": 244,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K9/00": {
+      "code": "H03K9/00",
+      "level": 0,
+      "parent": "H03K",
+      "ja": "連続的に変化する信号で変調されているパルスの復調",
+      "en": "Demodulating pulses which have been modulated with a continuously-variable signal",
+      "count": 1373,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K9/02": {
+      "code": "H03K9/02",
+      "level": 1,
+      "parent": "H03K9/00",
+      "ja": "振幅変調されているパルスの復調",
+      "en": "of amplitude-modulated pulses",
+      "count": 329,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K9/04": {
+      "code": "H03K9/04",
+      "level": 1,
+      "parent": "H03K9/00",
+      "ja": "位置変調されているパルスの復調",
+      "en": "of position-modulated pulses",
+      "count": 397,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K9/06": {
+      "code": "H03K9/06",
+      "level": 1,
+      "parent": "H03K9/00",
+      "ja": "周波数またはレート変調されているパルスの復調",
+      "en": "of frequency- or rate-modulated pulses",
+      "count": 929,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K9/08": {
+      "code": "H03K9/08",
+      "level": 1,
+      "parent": "H03K9/00",
+      "ja": "持続時間または幅変調されているパルスの復調",
+      "en": "of duration- or width-modulated pulses",
+      "count": 674,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K9/10": {
+      "code": "H03K9/10",
+      "level": 1,
+      "parent": "H03K9/00",
+      "ja": "複合変調されているパルスの復調",
+      "en": "of pulses having combined modulation",
+      "count": 74,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K11/00": {
+      "code": "H03K11/00",
+      "level": 0,
+      "parent": "H03K",
+      "ja": "変調形式の変換，例．位置変調パルスから持続時間変調パルスへの変換",
+      "en": "Transforming types of modulation, e.g. position-modulated pulses into duration-modulated pulses",
+      "count": 273,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K12/00": {
+      "code": "H03K12/00",
+      "level": 0,
+      "parent": "H03K",
+      "ja": "正弦波形をゆがめることまたは結合することによるパルスの発生（パルスの整形Ｈ０３Ｋ５／０１；スイッチングではない方法で動作する素子を使用する正弦波の結合Ｈ０３Ｂ２１／００）［３］",
+      "en": "Producing pulses by distorting or combining sinusoidal waveforms(shaping pulses <b>H03K5/01</b>; combining sinewaves using elements operating in a non-switching manner <b>H03B21/00</b>)",
+      "count": 707,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/00": {
+      "code": "H03K17/00",
+      "level": 0,
+      "parent": "H03K",
+      "ja": "電子的スイッチングまたはゲート，すなわち，メークおよびブレーク接点によらないもの（ゲート増幅器Ｈ０３Ｆ３／７２；静的装置を用いる交換システムのためのスイッチング配置Ｈ０４Ｑ３／５２）",
+      "en": "Electronic switching or gating, i.e. not by contact-making and -breaking(gated amplifiers <b>H03F3/72</b>; switching arrangements for exchange systems using static devices <b>H04Q3/52</b>)",
+      "count": 11794,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/04": {
+      "code": "H03K17/04",
+      "level": 1,
+      "parent": "H03K17/00",
+      "ja": "スイッチ動作の高速化のための変形［３］",
+      "en": "Modifications for accelerating switching",
+      "count": 3882,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/041": {
+      "code": "H03K17/041",
+      "level": 2,
+      "parent": "H03K17/04",
+      "ja": "出力回路から制御回路への帰還のないもの［６］",
+      "en": "without feedback from the output circuit to the control circuit",
+      "count": 1002,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/0412": {
+      "code": "H03K17/0412",
+      "level": 3,
+      "parent": "H03K17/041",
+      "ja": "制御回路において採られた手段によるもの［６］",
+      "en": "by measures taken in the control circuit",
+      "count": 1026,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/0414": {
+      "code": "H03K17/0414",
+      "level": 4,
+      "parent": "H03K17/0412",
+      "ja": "非飽和のための手段［６］",
+      "en": "Anti-saturation measures",
+      "count": 40,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/0416": {
+      "code": "H03K17/0416",
+      "level": 3,
+      "parent": "H03K17/041",
+      "ja": "出力回路において採られた手段によるもの［６］",
+      "en": "by measures taken in the output circuit",
+      "count": 258,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/042": {
+      "code": "H03K17/042",
+      "level": 2,
+      "parent": "H03K17/04",
+      "ja": "出力回路から制御回路への帰還によるもの［６］",
+      "en": "by feedback from the output circuit to the control circuit",
+      "count": 611,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/0422": {
+      "code": "H03K17/0422",
+      "level": 3,
+      "parent": "H03K17/042",
+      "ja": "非飽和のための手段［６］",
+      "en": "Anti-saturation measures",
+      "count": 126,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/0424": {
+      "code": "H03K17/0424",
+      "level": 3,
+      "parent": "H03K17/042",
+      "ja": "変圧器の使用によるもの［６］",
+      "en": "by the use of a transformer",
+      "count": 122,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/06": {
+      "code": "H03K17/06",
+      "level": 1,
+      "parent": "H03K17/00",
+      "ja": "完全導通状態を確保するための変形［３］",
+      "en": "Modifications for ensuring a fully conducting state",
+      "count": 3309,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/08": {
+      "code": "H03K17/08",
+      "level": 1,
+      "parent": "H03K17/00",
+      "ja": "過電流または過電圧に対するスイッチ回路の保護のための変形［３］",
+      "en": "Modifications for protecting switching circuit against overcurrent or overvoltage",
+      "count": 7047,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/081": {
+      "code": "H03K17/081",
+      "level": 2,
+      "parent": "H03K17/08",
+      "ja": "出力回路から制御回路への帰還のないもの［６］",
+      "en": "without feedback from the output circuit to the control circuit",
+      "count": 1596,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/0812": {
+      "code": "H03K17/0812",
+      "level": 3,
+      "parent": "H03K17/081",
+      "ja": "制御回路において採られた手段によるもの［６］",
+      "en": "by measures taken in the control circuit",
+      "count": 1362,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/0814": {
+      "code": "H03K17/0814",
+      "level": 3,
+      "parent": "H03K17/081",
+      "ja": "出力回路において採られた手段によるもの［６］",
+      "en": "by measures taken in the output circuit",
+      "count": 1304,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/082": {
+      "code": "H03K17/082",
+      "level": 2,
+      "parent": "H03K17/08",
+      "ja": "出力回路から制御回路への帰還によるもの［６］",
+      "en": "by feedback from the output to the control circuit",
+      "count": 4376,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/10": {
+      "code": "H03K17/10",
+      "level": 1,
+      "parent": "H03K17/00",
+      "ja": "最大許容被開閉電圧を増大させるための変形［３］",
+      "en": "Modifications for increasing the maximum permissible switched voltage",
+      "count": 2077,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/12": {
+      "code": "H03K17/12",
+      "level": 1,
+      "parent": "H03K17/00",
+      "ja": "最大許容被開閉電流を増大させるための変形［３］",
+      "en": "Modifications for increasing the maximum permissible switched current",
+      "count": 1263,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/13": {
+      "code": "H03K17/13",
+      "level": 1,
+      "parent": "H03K17/00",
+      "ja": "零交叉でスイッチ動作するための変形（零交叉でのインパルスの発生Ｈ０３Ｋ５／１５３６）［３］",
+      "en": "Modifications for switching at zero crossing(generating an impulse at zero crossing <b>H03K5/1536</b>)",
+      "count": 1410,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/14": {
+      "code": "H03K17/14",
+      "level": 1,
+      "parent": "H03K17/00",
+      "ja": "物理量，例．温度，の変化を補償するための変形［３］",
+      "en": "Modifications for compensating variations of physical values, e.g. of temperature",
+      "count": 2210,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/16": {
+      "code": "H03K17/16",
+      "level": 1,
+      "parent": "H03K17/00",
+      "ja": "混信電圧または混信電流を消去するための変形［３］",
+      "en": "Modifications for eliminating interference voltages or currents",
+      "count": 11490,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/18": {
+      "code": "H03K17/18",
+      "level": 1,
+      "parent": "H03K17/00",
+      "ja": "スイッチの状態を表示するための変形［３］",
+      "en": "Modifications for indicating state of switch",
+      "count": 1555,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/20": {
+      "code": "H03K17/20",
+      "level": 1,
+      "parent": "H03K17/00",
+      "ja": "磁心スイッチ素子を所定の状態にリセットするための変形［３］",
+      "en": "Modifications for resetting core switching units to a predetermined state",
+      "count": 81,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/22": {
+      "code": "H03K17/22",
+      "level": 1,
+      "parent": "H03K17/00",
+      "ja": "供給電圧の投入時に所定の初期状態を確保するための変形（双安定発生器Ｈ０３Ｋ３／１２）［３］",
+      "en": "Modifications for ensuring a predetermined initial state when the supply voltage has been applied(bi-stable generators <b>H03K3/12</b>)",
+      "count": 5650,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/24": {
+      "code": "H03K17/24",
+      "level": 2,
+      "parent": "H03K17/22",
+      "ja": "供給電圧が下がった時の動作状態の保持［３］",
+      "en": "Storing the actual state when the supply voltage fails",
+      "count": 416,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/26": {
+      "code": "H03K17/26",
+      "level": 1,
+      "parent": "H03K17/00",
+      "ja": "制御パルス受信後に一時的な阻止動作を行わせるための変形［３］",
+      "en": "Modifications for temporary blocking after receipt of control pulses",
+      "count": 195,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/28": {
+      "code": "H03K17/28",
+      "level": 1,
+      "parent": "H03K17/00",
+      "ja": "スイッチ動作の前に時間遅延を導入するための変形（２以上のスイッチング動作が実行される時間間隔を選択するための変形Ｈ０３Ｋ１７／２９６）［３］",
+      "en": "Modifications for introducing a time delay before switching(modifications to provide a choice of time-intervals for executing more than one switching action <b>H03K17/296</b>)",
+      "count": 7227,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/284": {
+      "code": "H03K17/284",
+      "level": 2,
+      "parent": "H03K17/28",
+      "ja": "電界効果トランジスタスイッチにおけるもの［３］",
+      "en": "in field-effect transistor switches",
+      "count": 953,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/288": {
+      "code": "H03K17/288",
+      "level": 2,
+      "parent": "H03K17/28",
+      "ja": "電子管スイッチにおけるもの［３］",
+      "en": "in tube switches",
+      "count": 499,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/292": {
+      "code": "H03K17/292",
+      "level": 2,
+      "parent": "H03K17/28",
+      "ja": "サイリスタ，ユニジャンクショントランジスタまたはプログラマブルユニジャンクショントランジスタスイッチにおけるもの［３］",
+      "en": "in thyristor, unijunction transistor or programmable unijunction transistor switches",
+      "count": 1308,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/296": {
+      "code": "H03K17/296",
+      "level": 1,
+      "parent": "H03K17/00",
+      "ja": "２以上のスイッチング動作を実行するために時間間隔の選択ができ，かつ，プログラムが完了された後，自動的に動作を終わらせるための変形（あらかじめ選ばれた時間にまたはあらかじめ選ばれた時間間隔の後に動作される手段からなる電子時計Ｇ０４Ｇ１５／００）［３］",
+      "en": "Modifications to provide a choice of time-intervals for executing more than one switching action and automatically terminating their operation after the programme is completed(electronic clocks comprising means to be operated at preselected times or after preselected time-intervals <b>G04G15/00</b>)",
+      "count": 1098,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/30": {
+      "code": "H03K17/30",
+      "level": 1,
+      "parent": "H03K17/00",
+      "ja": "スイッチ動作の前に所定のしきい値を設けるための変形（しきい値によるパルスの整形Ｈ０３Ｋ５／０８）［３］",
+      "en": "Modifications for providing a predetermined threshold before switching(shaping pulses by thresholding <b>H03K5/08</b>)",
+      "count": 2117,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/51": {
+      "code": "H03K17/51",
+      "level": 1,
+      "parent": "H03K17/00",
+      "ja": "特定の構成要素の使用によって特徴づけられたもの（Ｈ０３Ｋ１７／０４～Ｈ０３Ｋ１７／３０，Ｈ０３Ｋ１７／９４が優先）［３］",
+      "en": "characterised by the use of specified components(<b>H03K17/04 to H03K17/30</b> , <b>H03K17/94</b> take precedence)",
+      "count": 821,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/52": {
+      "code": "H03K17/52",
+      "level": 2,
+      "parent": "H03K17/51",
+      "ja": "能動素子としてガス入り管を用いるもの［３］",
+      "en": "by the use, as active elements, of gas-filled tubes",
+      "count": 348,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/54": {
+      "code": "H03K17/54",
+      "level": 2,
+      "parent": "H03K17/51",
+      "ja": "能動素子として真空管を用いるもの（ダイオードを用いるものＨ０３Ｋ１７／７４）［３］",
+      "en": "by the use, as active elements, of vacuum tubes(using diodes <b>H03K17/74</b>)",
+      "count": 505,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/56": {
+      "code": "H03K17/56",
+      "level": 2,
+      "parent": "H03K17/51",
+      "ja": "能動素子として半導体装置を用いるもの（ダイオードを用いるものＨ０３Ｋ１７／７４）［３］",
+      "en": "by the use, as active elements, of semiconductor devices(using diodes <b>H03K17/74</b>)",
+      "count": 3815,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/567": {
+      "code": "H03K17/567",
+      "level": 3,
+      "parent": "H03K17/56",
+      "ja": "二以上の形式の半導体装置の使用に特徴づけられた回路，例．ＢＩＭＯＳまたはＩＧＢＴのような複合装置［６］",
+      "en": "Circuits characterised by the use of more than one type of semiconductor device, e.g. BIMOS, composite devices such as IGBT",
+      "count": 4992,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/58": {
+      "code": "H03K17/58",
+      "level": 3,
+      "parent": "H03K17/56",
+      "ja": "装置がトンネルダイオードであるもの［３］",
+      "en": "the devices being tunnel diodes",
+      "count": 252,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/60": {
+      "code": "H03K17/60",
+      "level": 3,
+      "parent": "H03K17/56",
+      "ja": "装置がバイポーラトランジスタであるもの（４個以上の電極をもつバイポーラトランジスタＨ０３Ｋ１７／７２）［３］",
+      "en": "the devices being bipolar transistors(bipolar transistors having four or more electrodes <b>H03K17/72</b>)",
+      "count": 6474,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/605": {
+      "code": "H03K17/605",
+      "level": 4,
+      "parent": "H03K17/60",
+      "ja": "制御回路と出力回路の間が電気的に絶縁されたもの（Ｈ０３Ｋ１７／７８が優先）［５］",
+      "en": "with galvanic isolation between the control circuit and the output circuit(<b>H03K17/78</b> takes precedence)",
+      "count": 53,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/61": {
+      "code": "H03K17/61",
+      "level": 5,
+      "parent": "H03K17/605",
+      "ja": "トランス結合を用いるもの［５］",
+      "en": "using transformer coupling",
+      "count": 318,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/615": {
+      "code": "H03K17/615",
+      "level": 4,
+      "parent": "H03K17/60",
+      "ja": "ダーリントン接続［５］",
+      "en": "in a Darlington configuration",
+      "count": 283,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/62": {
+      "code": "H03K17/62",
+      "level": 4,
+      "parent": "H03K17/60",
+      "ja": "いくつかの入力または出力端子をもつスイッチング装置，例．マルチプレクサまたは分配器（論理回路Ｈ０３Ｋ１９／００；符号変換器Ｈ０３Ｍ５／００，Ｈ０３Ｍ７／００）［３］",
+      "en": "Switching arrangements with several input- or output-terminals, e.g. multiplexers, distributors(logic circuits <b>H03K19/00</b>; code converters <b>H03M5/00</b>, <b>H03M7/00</b>)",
+      "count": 2310,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/64": {
+      "code": "H03K17/64",
+      "level": 4,
+      "parent": "H03K17/60",
+      "ja": "誘導性負荷をもつもの［３］",
+      "en": "having inductive loads",
+      "count": 1251,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/66": {
+      "code": "H03K17/66",
+      "level": 4,
+      "parent": "H03K17/60",
+      "ja": "電流をどちらの方向にも任意に通過させるためのスイッチング装置；電流を任意に逆転させるためのスイッチング装置［３］",
+      "en": "Switching arrangements for passing the current in either direction at will; Switching arrangements for reversing the current at will",
+      "count": 1324,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/68": {
+      "code": "H03K17/68",
+      "level": 4,
+      "parent": "H03K17/60",
+      "ja": "交流電流または交流電圧をスイッチするために特に適合したもの［３］",
+      "en": "specially adapted for switching AC currents or voltages",
+      "count": 483,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/687": {
+      "code": "H03K17/687",
+      "level": 3,
+      "parent": "H03K17/56",
+      "ja": "装置が電界効果トランジスタであるもの［３］",
+      "en": "the devices being field-effect transistors",
+      "count": 19218,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/689": {
+      "code": "H03K17/689",
+      "level": 4,
+      "parent": "H03K17/687",
+      "ja": "制御回路と出力回路の間が電気的に絶縁されたもの（Ｈ０３Ｋ１７／７８が優先）［５］",
+      "en": "with galvanic isolation between the control circuit and the output circuit(<b>H03K17/78</b> takes precedence)",
+      "count": 289,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/691": {
+      "code": "H03K17/691",
+      "level": 5,
+      "parent": "H03K17/689",
+      "ja": "トランス結合を用いるもの［５］",
+      "en": "using transformer coupling",
+      "count": 695,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/693": {
+      "code": "H03K17/693",
+      "level": 4,
+      "parent": "H03K17/687",
+      "ja": "いくつかの入力または出力端子をもつスイッチング装置，例．マルチプレクサまたは分配器（論理回路Ｈ０３Ｋ１９／００；符号変換器Ｈ０３Ｍ５／００，Ｈ０３Ｍ７／００）［３］",
+      "en": "Switching arrangements with several input- or output-terminals, e.g. multiplexers, distributors(logic circuits <b>H03K19/00</b>; code converters <b>H03M5/00</b>, <b>H03M7/00</b>)",
+      "count": 3305,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/695": {
+      "code": "H03K17/695",
+      "level": 4,
+      "parent": "H03K17/687",
+      "ja": "誘導性負荷をもつもの（誘導フライバック電圧からスイッチング回路を保護するものＨ０３Ｋ１７／０８）［６］",
+      "en": "having inductive loads(protecting switching circuit against inductive flyback voltage <b>H03K17/08</b>)",
+      "count": 985,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/70": {
+      "code": "H03K17/70",
+      "level": 3,
+      "parent": "H03K17/56",
+      "ja": "装置が電極を２個だけもち，かつ負性抵抗を示すもの（装置がトンネルダイオードであるものＨ０３Ｋ１７／５８）［３］",
+      "en": "the devices having only two electrodes and exhibiting negative resistance(the devices being tunnel diodes <b>H03K17/58</b>)",
+      "count": 134,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/72": {
+      "code": "H03K17/72",
+      "level": 3,
+      "parent": "H03K17/56",
+      "ja": "バイポーラ半導体装置で３以上のＰＮ接合を持つもの，例．サイリスタ，プログラムできるユニジャンクショントランジスタ，または４以上の電極をもつもの，例．シリコン制御スイッチ，または同一伝導領域に接続された２以上の電極をもつもの，例．ユニジャンクショントランジスタ［３］",
+      "en": "Bipolar semiconductor devices with more than two PN junctions, e.g. thyristors, programmable unijunction transistors, or with more than three electrodes, e.g. silicon controlled switches, or with more than one electrode connected to the same conductivity region, e.g. unijunction transistors",
+      "count": 3497,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/722": {
+      "code": "H03K17/722",
+      "level": 4,
+      "parent": "H03K17/72",
+      "ja": "制御回路と出力回路の間が電気的に絶縁されたもの（Ｈ０３Ｋ１７／７８が優先）［５］",
+      "en": "with galvanic isolation between the control circuit and the output circuit(<b>H03K17/78</b> takes precedence)",
+      "count": 119,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/723": {
+      "code": "H03K17/723",
+      "level": 5,
+      "parent": "H03K17/722",
+      "ja": "トランス結合を用いるもの［５］",
+      "en": "using transformer coupling",
+      "count": 372,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/725": {
+      "code": "H03K17/725",
+      "level": 4,
+      "parent": "H03K17/72",
+      "ja": "交流電圧または交流電流のためのもの（Ｈ０３Ｋ１７／７２２，Ｈ０３Ｋ１７／７３５が優先）［３，５］",
+      "en": "for AC voltages or currents(<b>H03K17/722</b>, <b>H03K17/735</b> take precedence)",
+      "count": 1985,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/73": {
+      "code": "H03K17/73",
+      "level": 4,
+      "parent": "H03K17/72",
+      "ja": "直流電圧または直流電流のためのもの（Ｈ０３Ｋ１７／７２２，Ｈ０３Ｋ１７／７３５が優先）［３，５］",
+      "en": "for DC voltages or currents(<b>H03K17/722</b>, <b>H03K17/735</b> take precedence)",
+      "count": 1830,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/732": {
+      "code": "H03K17/732",
+      "level": 5,
+      "parent": "H03K17/73",
+      "ja": "ターンオフを可能にするための手段［５］",
+      "en": "Measures for enabling turn-off",
+      "count": 1034,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/735": {
+      "code": "H03K17/735",
+      "level": 4,
+      "parent": "H03K17/72",
+      "ja": "いくつかの入力または出力端子をもつスイッチング装置，例．マルチプレクサまたは分配器（Ｈ０３Ｋ１７／７２２が優先；論理回路Ｈ０３Ｋ１９／００；符号変換器Ｈ０３Ｍ５／００，Ｈ０３Ｍ７／００）［３，５］",
+      "en": "Switching arrangements with several input- or output-terminals, e.g. multiplexers, distributors(<b>H03K17/722</b> takes precedence; logic circuits <b>H03K19/00</b>; code converters <b>H03M5/00</b>, <b>H03M7/00</b>)",
+      "count": 278,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/74": {
+      "code": "H03K17/74",
+      "level": 2,
+      "parent": "H03K17/51",
+      "ja": "能動素子としてダイオードを使用するもの（二型式以上の半導体装置の使用によるものＨ０３Ｋ１７／５６７；トンネルダイオードの使用によるものＨ０３Ｋ１７／５８；負性抵抗ダイオードの使用によるものＨ０３Ｋ１７／７０）［３］",
+      "en": "by the use, as active elements, of diodes(by the use of more than one type of semiconductor device <b>H03K17/567</b>; by the use of tunnel diodes <b>H03K17/58</b>; by the use of negative resistance diodes <b>H03K17/70</b>)",
+      "count": 1968,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/76": {
+      "code": "H03K17/76",
+      "level": 3,
+      "parent": "H03K17/74",
+      "ja": "いくつかの入力または出力端子をもつスイッチング配置，例．マルチプレクサまたは分配器（論理回路Ｈ０３Ｋ１９／００；符号変換器Ｈ０３Ｍ５／００，Ｈ０３Ｍ７／００）［３］",
+      "en": "Switching arrangements with several input- or output-terminals, e.g. multiplexers, distributors(logic circuits <b>H03K19/00</b>; code converters <b>H03M5/00</b>, <b>H03M7/00</b>)",
+      "count": 916,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/78": {
+      "code": "H03K17/78",
+      "level": 2,
+      "parent": "H03K17/51",
+      "ja": "能動素子として光－電子装置，すなわち電気的または光学的に結合された発光および光電変換装置の使用によるもの［３］",
+      "en": "by the use, as active elements, of opto-electronic devices, i.e. light-emitting and photoelectric devices electrically- or optically-coupled",
+      "count": 8491,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/785": {
+      "code": "H03K17/785",
+      "level": 3,
+      "parent": "H03K17/78",
+      "ja": "電界効果トランジスタスイッチを制御するもの［５］",
+      "en": "controlling field-effect transistor switches",
+      "count": 648,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/79": {
+      "code": "H03K17/79",
+      "level": 3,
+      "parent": "H03K17/78",
+      "ja": "３以上のＰＮ接合，または４以上の電極，または同一伝導領域に接続された２以上の電極をもつ半導体スイッチを制御するもの［５］",
+      "en": "controlling semiconductor switches with more than two PN-junctions, or more than three electrodes, or more than one electrode connected to the same conductivity region",
+      "count": 521,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/795": {
+      "code": "H03K17/795",
+      "level": 3,
+      "parent": "H03K17/78",
+      "ja": "バイポーラトランジスタを制御するもの［５］",
+      "en": "controlling bipolar transistors",
+      "count": 695,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/80": {
+      "code": "H03K17/80",
+      "level": 2,
+      "parent": "H03K17/51",
+      "ja": "能動素子として非線形磁気装置または非線形誘電体装置を使用するもの［３］",
+      "en": "by the use, as active elements, of non-linear magnetic or dielectric devices",
+      "count": 533,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/81": {
+      "code": "H03K17/81",
+      "level": 3,
+      "parent": "H03K17/80",
+      "ja": "いくつかの入力または出力端子をもつスイッチング装置，例．マルチプレクサ，分配器（論理回路Ｈ０３Ｋ１９／００；符号変換器Ｈ０３Ｍ５／００，Ｈ０３Ｍ７／００）［３］",
+      "en": "Switching arrangements with several input- or output-terminals, e.g. multiplexers, distributors(logic circuits <b>H03K19/00</b>; code converters <b>H03M5/00</b>, <b>H03M7/00</b>)",
+      "count": 238,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/82": {
+      "code": "H03K17/82",
+      "level": 3,
+      "parent": "H03K17/80",
+      "ja": "装置がトランスフラクサであるもの［３］",
+      "en": "the devices being transfluxors",
+      "count": 367,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/84": {
+      "code": "H03K17/84",
+      "level": 3,
+      "parent": "H03K17/80",
+      "ja": "装置が薄膜装置であるもの［３］",
+      "en": "the devices being thin-film devices",
+      "count": 143,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/86": {
+      "code": "H03K17/86",
+      "level": 3,
+      "parent": "H03K17/80",
+      "ja": "装置がツイスタであるもの［３］",
+      "en": "the devices being twistors",
+      "count": 7,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/88": {
+      "code": "H03K17/88",
+      "level": 2,
+      "parent": "H03K17/51",
+      "ja": "能動素子としてビーム偏向管を使用するもの［３］",
+      "en": "by the use, as active elements, of beam-deflection tubes",
+      "count": 66,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/90": {
+      "code": "H03K17/90",
+      "level": 2,
+      "parent": "H03K17/51",
+      "ja": "能動素子として電流磁気効果装置を使用するもの，例．ホール効果装置（Ｈ０３Ｋ１７／９５，Ｈ０３Ｋ１７／９７が優先）［２，３］",
+      "en": "by the use, as active elements, of galvano-magnetic devices, e.g. Hall-effect devices(<b>H03K17/95</b>, <b>H03K17/97</b> take precedence)",
+      "count": 1160,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/92": {
+      "code": "H03K17/92",
+      "level": 2,
+      "parent": "H03K17/51",
+      "ja": "能動素子として超電導装置を使用するもの［２，３］",
+      "en": "by the use, as active elements, of superconductive devices",
+      "count": 568,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/94": {
+      "code": "H03K17/94",
+      "level": 1,
+      "parent": "H03K17/00",
+      "ja": "制御信号が発生される方法により特徴づけられるもの［３，４］",
+      "en": "characterised by the way in which the control signals are generated",
+      "count": 7624,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/945": {
+      "code": "H03K17/945",
+      "level": 2,
+      "parent": "H03K17/94",
+      "ja": "近接スイッチ（Ｈ０３Ｋ１７／９６が優先）［３］",
+      "en": "Proximity switches(<b>H03K17/96</b> takes precedence)",
+      "count": 3733,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/95": {
+      "code": "H03K17/95",
+      "level": 3,
+      "parent": "H03K17/945",
+      "ja": "磁気検出器を用いるもの［３］",
+      "en": "using a magnetic detector",
+      "count": 3303,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/955": {
+      "code": "H03K17/955",
+      "level": 3,
+      "parent": "H03K17/945",
+      "ja": "容量検出器を用いるもの［３］",
+      "en": "using a capacitive detector",
+      "count": 2951,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/96": {
+      "code": "H03K17/96",
+      "level": 2,
+      "parent": "H03K17/94",
+      "ja": "タッチスイッチ（可動部のない電子時計に特に適したものＧ０４Ｇ２１／０８）［３］",
+      "en": "Touch switches(specially adapted for electronic time-pieces with no moving parts <b>G04G21/08</b>)",
+      "count": 12244,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/965": {
+      "code": "H03K17/965",
+      "level": 2,
+      "parent": "H03K17/94",
+      "ja": "スイッチの一部を形成する素子の移動により制御されるスイッチ［３］",
+      "en": "Switches controlled by moving an element forming part of the switch",
+      "count": 900,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/967": {
+      "code": "H03K17/967",
+      "level": 3,
+      "parent": "H03K17/965",
+      "ja": "複数個の制御部材，例．キーボード，を有するもの（Ｈ０３Ｋ１７／９６９，Ｈ０３Ｋ１７／９７２，Ｈ０３Ｋ１７／９８が優先）［４］",
+      "en": "having a plurality of control members, e.g. keyboard(<b>H03K17/969</b>, <b>H03K17/972</b>, <b>H03K17/98</b> take precedence)",
+      "count": 350,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/968": {
+      "code": "H03K17/968",
+      "level": 3,
+      "parent": "H03K17/965",
+      "ja": "電子光学的装置を用いるもの［４］",
+      "en": "using opto-electronic devices",
+      "count": 1246,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/969": {
+      "code": "H03K17/969",
+      "level": 4,
+      "parent": "H03K17/968",
+      "ja": "複数個の制御部材，例．キーボード，を有するもの［４］",
+      "en": "having a plurality of control members, e.g. keyboard",
+      "count": 450,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/97": {
+      "code": "H03K17/97",
+      "level": 3,
+      "parent": "H03K17/965",
+      "ja": "磁気可動素子を用いるもの［３］",
+      "en": "using a magnetic movable element",
+      "count": 1383,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/972": {
+      "code": "H03K17/972",
+      "level": 4,
+      "parent": "H03K17/97",
+      "ja": "複数個の制御部材，例．キーボード，を有するもの［４］",
+      "en": "having a plurality of control members, e.g. keyboard",
+      "count": 301,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/975": {
+      "code": "H03K17/975",
+      "level": 3,
+      "parent": "H03K17/965",
+      "ja": "容量可動素子を用いるもの［３］",
+      "en": "using a capacitive movable element",
+      "count": 1317,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K17/98": {
+      "code": "H03K17/98",
+      "level": 4,
+      "parent": "H03K17/975",
+      "ja": "複数個の制御部材，例．キーボード，を有するもの［４］",
+      "en": "having a plurality of control members, e.g. keyboard",
+      "count": 372,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K19/00": {
+      "code": "H03K19/00",
+      "level": 0,
+      "parent": "H03K",
+      "ja": "論理回路，すなわち，１出力に作用する少なくとも２入力を持つもの（ファジー論理を用いるコンピュータ・システム用の回路Ｇ０６Ｎ７／０２）；反転回路",
+      "en": "Logic circuits, i.e. having at least two inputs acting on one output(circuits for computer systems using fuzzy logic <b>G06N7/02</b>);Inverting circuits",
+      "count": 12943,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K19/003": {
+      "code": "H03K19/003",
+      "level": 1,
+      "parent": "H03K19/00",
+      "ja": "信頼性を増すための変形［３］",
+      "en": "Modifications for increasing the reliability",
+      "count": 10631,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K19/007": {
+      "code": "H03K19/007",
+      "level": 1,
+      "parent": "H03K19/00",
+      "ja": "フェイルセーフ回路［３］",
+      "en": "Fail-safe circuits",
+      "count": 725,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K19/01": {
+      "code": "H03K19/01",
+      "level": 1,
+      "parent": "H03K19/00",
+      "ja": "スイッチ動作の高速化のための変形［３］",
+      "en": "Modifications for accelerating switching",
+      "count": 445,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K19/013": {
+      "code": "H03K19/013",
+      "level": 2,
+      "parent": "H03K19/01",
+      "ja": "バイポーラトランジスタ回路におけるもの［３］",
+      "en": "in bipolar transistor circuits",
+      "count": 955,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K19/017": {
+      "code": "H03K19/017",
+      "level": 2,
+      "parent": "H03K19/01",
+      "ja": "電界効果トランジスタ回路におけるもの［３］",
+      "en": "in field-effect transistor circuits",
+      "count": 2160,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K19/0175": {
+      "code": "H03K19/0175",
+      "level": 1,
+      "parent": "H03K19/00",
+      "ja": "結合装置；インターフェイス装置（デジタル計算機用インターフェイス装置Ｇ０６Ｆ３／００，Ｇ０６Ｆ１３／００）［５］",
+      "en": "Coupling arrangements; Interface arrangements(interface arrangements for digital computers <b>G06F3/00</b>, <b>G06F13/00</b>)",
+      "count": 18550,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K19/018": {
+      "code": "H03K19/018",
+      "level": 2,
+      "parent": "H03K19/0175",
+      "ja": "バイポーラトランジスタのみを用いるもの［５］",
+      "en": "using bipolar transistors only",
+      "count": 1699,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K19/0185": {
+      "code": "H03K19/0185",
+      "level": 2,
+      "parent": "H03K19/0175",
+      "ja": "電界効果トランジスタのみを用いるもの［５］",
+      "en": "using field-effect transistors only",
+      "count": 9325,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K19/02": {
+      "code": "H03K19/02",
+      "level": 1,
+      "parent": "H03K19/00",
+      "ja": "特定の構成要素を用いるもの（Ｈ０３Ｋ１９／００３～Ｈ０３Ｋ１９／０１７５が優先）［３，５］",
+      "en": "using specified components(<b>H03K19/003 to H03K19/0175</b>  take precedence)",
+      "count": 459,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K19/04": {
+      "code": "H03K19/04",
+      "level": 2,
+      "parent": "H03K19/02",
+      "ja": "ガス入り管を用いるもの",
+      "en": "using gas-filled tubes",
+      "count": 33,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K19/06": {
+      "code": "H03K19/06",
+      "level": 2,
+      "parent": "H03K19/02",
+      "ja": "電子管を用いるもの（ダイオード整流器を用いるものＨ０３Ｋ１９／１２）",
+      "en": "using vacuum tubes(using diode rectifiers <b>H03K19/12</b>)",
+      "count": 54,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K19/08": {
+      "code": "H03K19/08",
+      "level": 2,
+      "parent": "H03K19/02",
+      "ja": "半導体装置を用いるもの（Ｈ０３Ｋ１９／１７３が優先；半導体装置の中味がダイオード整流器のみのものＨ０３Ｋ１９／１２）［３］",
+      "en": "using semiconductor devices(<b>H03K19/173</b> takes precedence; wherein the semiconductor devices are only diode rectifiers <b>H03K19/12</b>)",
+      "count": 2402,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K19/082": {
+      "code": "H03K19/082",
+      "level": 3,
+      "parent": "H03K19/08",
+      "ja": "バイポーラトランジスタを用いるもの［３］",
+      "en": "using bipolar transistors",
+      "count": 910,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K19/084": {
+      "code": "H03K19/084",
+      "level": 4,
+      "parent": "H03K19/082",
+      "ja": "ＤＴＬ［３］",
+      "en": "Diode&ndash;transistor logic",
+      "count": 402,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K19/086": {
+      "code": "H03K19/086",
+      "level": 4,
+      "parent": "H03K19/082",
+      "ja": "ＥＣＬ［３］",
+      "en": "Emitter coupled logic",
+      "count": 1951,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K19/088": {
+      "code": "H03K19/088",
+      "level": 4,
+      "parent": "H03K19/082",
+      "ja": "ＴＴＬ［３］",
+      "en": "Transistor&ndash;transistor logic",
+      "count": 814,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K19/09": {
+      "code": "H03K19/09",
+      "level": 4,
+      "parent": "H03K19/082",
+      "ja": "ＲＴＬ［３］",
+      "en": "Resistor&ndash;transistor logic",
+      "count": 122,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K19/091": {
+      "code": "H03K19/091",
+      "level": 4,
+      "parent": "H03K19/082",
+      "ja": "ＩＩＬまたはＭＴＬ［３］",
+      "en": "Integrated injection logic or merged transistor logic",
+      "count": 755,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K19/094": {
+      "code": "H03K19/094",
+      "level": 3,
+      "parent": "H03K19/08",
+      "ja": "電界効果トランジスタを用いるもの［３］",
+      "en": "using field-effect transistors",
+      "count": 4511,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K19/0944": {
+      "code": "H03K19/0944",
+      "level": 4,
+      "parent": "H03K19/094",
+      "ja": "ＭＯＳＦＥＴを用いるもの（Ｈ０３Ｋ１９／０９６が優先）［５］",
+      "en": "using MOSFET(<b>H03K19/096</b> takes precedence)",
+      "count": 2362,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K19/0948": {
+      "code": "H03K19/0948",
+      "level": 5,
+      "parent": "H03K19/0944",
+      "ja": "ＣＭＯＳを用いるもの［５］",
+      "en": "using CMOS",
+      "count": 3667,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K19/0952": {
+      "code": "H03K19/0952",
+      "level": 4,
+      "parent": "H03K19/094",
+      "ja": "ショットキー型ＦＥＴを用いるもの（Ｈ０３Ｋ１９／０９６が優先）［５］",
+      "en": "using Schottky type FET(<b>H03K19/096</b> takes precedence)",
+      "count": 911,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K19/0956": {
+      "code": "H03K19/0956",
+      "level": 4,
+      "parent": "H03K19/094",
+      "ja": "ＳＤＦＬ（Ｈ０３Ｋ１９／０９６が優先）［５］",
+      "en": "Schottky diode FET logic(<b>H03K19/096</b> takes precedence)",
+      "count": 46,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K19/096": {
+      "code": "H03K19/096",
+      "level": 4,
+      "parent": "H03K19/094",
+      "ja": "同期回路，すなわちクロック信号を用いるもの［３］",
+      "en": "Synchronous circuits, i.e. using clock signals",
+      "count": 2624,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K19/098": {
+      "code": "H03K19/098",
+      "level": 3,
+      "parent": "H03K19/08",
+      "ja": "サイリスタを用いるもの［３］",
+      "en": "using thyristors",
+      "count": 42,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K19/10": {
+      "code": "H03K19/10",
+      "level": 3,
+      "parent": "H03K19/08",
+      "ja": "トンネルダイオードを用いるもの［３］",
+      "en": "using tunnel diodes",
+      "count": 258,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K19/12": {
+      "code": "H03K19/12",
+      "level": 2,
+      "parent": "H03K19/02",
+      "ja": "ダイオード整流器を用いるもの",
+      "en": "using diode rectifiers",
+      "count": 205,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K19/14": {
+      "code": "H03K19/14",
+      "level": 2,
+      "parent": "H03K19/02",
+      "ja": "光－電子装置，すなわち，電気的または光学的に結合された発光および光電変換装置を用いるもの（光学的論理素子Ｇ０２Ｆ３／００）",
+      "en": "using opto-electronic devices, i.e. light-emitting and photoelectric devices electrically- or optically-coupled(optical logic elements <b>G02F3/00</b>)",
+      "count": 1357,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K19/16": {
+      "code": "H03K19/16",
+      "level": 2,
+      "parent": "H03K19/02",
+      "ja": "可飽和磁心を用いるもの",
+      "en": "using saturable magnetic devices",
+      "count": 560,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K19/162": {
+      "code": "H03K19/162",
+      "level": 3,
+      "parent": "H03K19/16",
+      "ja": "パラメトロンを用いるもの",
+      "en": "using parametrons",
+      "count": 98,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K19/164": {
+      "code": "H03K19/164",
+      "level": 3,
+      "parent": "H03K19/16",
+      "ja": "鉄共振装置を用いるもの",
+      "en": "using ferro-resonant devices",
+      "count": 19,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K19/166": {
+      "code": "H03K19/166",
+      "level": 3,
+      "parent": "H03K19/16",
+      "ja": "トランスフラクサを用いるもの",
+      "en": "using transfluxors",
+      "count": 66,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K19/168": {
+      "code": "H03K19/168",
+      "level": 3,
+      "parent": "H03K19/16",
+      "ja": "薄膜装置を用いるもの",
+      "en": "using thin-film devices",
+      "count": 229,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K19/17": {
+      "code": "H03K19/17",
+      "level": 2,
+      "parent": "H03K19/02",
+      "ja": "ツイスタを用いるもの",
+      "en": "using twistors",
+      "count": 58,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K19/173": {
+      "code": "H03K19/173",
+      "level": 2,
+      "parent": "H03K19/02",
+      "ja": "構成要素として基本的論理回路を用いるもの［３］",
+      "en": "using elementary logic circuits as components",
+      "count": 5479,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K19/177": {
+      "code": "H03K19/177",
+      "level": 3,
+      "parent": "H03K19/173",
+      "ja": "マトリクス形状で配列されたもの［２０２０．０１］",
+      "en": "arranged in matrix form",
+      "count": 5131,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K19/17704": {
+      "code": "H03K19/17704",
+      "level": 4,
+      "parent": "H03K19/177",
+      "ja": "行または列の相互接続により実現された論理機能であるもの［２０２０．０１］",
+      "en": "the logic functions being realised by the interconnection of rows and columns",
+      "count": 135,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K19/17724": {
+      "code": "H03K19/17724",
+      "level": 4,
+      "parent": "H03K19/177",
+      "ja": "論理ブロックの構造の細部［２０２０．０１］",
+      "en": "Structural details of logic blocks",
+      "count": 89,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K19/17728": {
+      "code": "H03K19/17728",
+      "level": 5,
+      "parent": "H03K19/17724",
+      "ja": "再構成可能な論理ブロック，例．ルックアップテーブル［２０２０．０１］",
+      "en": "Reconfigurable logic blocks, e.g. lookup tables",
+      "count": 254,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K19/17732": {
+      "code": "H03K19/17732",
+      "level": 5,
+      "parent": "H03K19/17724",
+      "ja": "マクロブロック［２０２０．０１］",
+      "en": "Macroblocks",
+      "count": 26,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K19/17736": {
+      "code": "H03K19/17736",
+      "level": 4,
+      "parent": "H03K19/177",
+      "ja": "経路リソースの構造の細部［２０２０．０１］",
+      "en": "Structural details of routing resources",
+      "count": 341,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K19/17748": {
+      "code": "H03K19/17748",
+      "level": 4,
+      "parent": "H03K19/177",
+      "ja": "構成リソースの構造の細部［２０２０．０１］",
+      "en": "Structural details of configuration resources",
+      "count": 77,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K19/17752": {
+      "code": "H03K19/17752",
+      "level": 5,
+      "parent": "H03K19/17748",
+      "ja": "ホット再構成のためのもの［２０２０．０１］",
+      "en": "for hot reconfiguration",
+      "count": 15,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K19/17756": {
+      "code": "H03K19/17756",
+      "level": 5,
+      "parent": "H03K19/17748",
+      "ja": "部分的な構成または部分的な再構成のためのもの［２０２０．０１］",
+      "en": "for partial configuration or partial reconfiguration",
+      "count": 57,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K19/17758": {
+      "code": "H03K19/17758",
+      "level": 5,
+      "parent": "H03K19/17748",
+      "ja": "構成または再構成の高速化のためのもの［２０２０．０１］",
+      "en": "for speeding up configuration or reconfiguration",
+      "count": 21,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K19/1776": {
+      "code": "H03K19/1776",
+      "level": 5,
+      "parent": "H03K19/17748",
+      "ja": "メモリのためのもの［２０２０．０１］",
+      "en": "for memories",
+      "count": 265,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K19/17764": {
+      "code": "H03K19/17764",
+      "level": 5,
+      "parent": "H03K19/17748",
+      "ja": "信頼性のためのもの［２０２０．０１］",
+      "en": "for reliability",
+      "count": 64,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K19/17768": {
+      "code": "H03K19/17768",
+      "level": 5,
+      "parent": "H03K19/17748",
+      "ja": "セキュリティのためのもの［２０２０．０１］",
+      "en": "for security",
+      "count": 64,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K19/17772": {
+      "code": "H03K19/17772",
+      "level": 5,
+      "parent": "H03K19/17748",
+      "ja": "電源のオンまたはオフのためのもの［２０２０．０１］",
+      "en": "for powering on or off",
+      "count": 54,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K19/1778": {
+      "code": "H03K19/1778",
+      "level": 4,
+      "parent": "H03K19/177",
+      "ja": "適応物理パラメータのための構造の細部［２０２０．０１］",
+      "en": "Structural details for adapting physical parameters",
+      "count": 23,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K19/17784": {
+      "code": "H03K19/17784",
+      "level": 5,
+      "parent": "H03K19/1778",
+      "ja": "供給電圧のためのもの［２０２０．０１］",
+      "en": "for supply voltage",
+      "count": 87,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K19/17788": {
+      "code": "H03K19/17788",
+      "level": 5,
+      "parent": "H03K19/1778",
+      "ja": "入力／出力［Ｉ／Ｏ］電圧のためのもの［２０２０．０１］",
+      "en": "for input/output [I/O] voltages",
+      "count": 29,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K19/17792": {
+      "code": "H03K19/17792",
+      "level": 5,
+      "parent": "H03K19/1778",
+      "ja": "動作速度のためのもの［２０２０．０１］",
+      "en": "for operating speed",
+      "count": 13,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K19/17796": {
+      "code": "H03K19/17796",
+      "level": 5,
+      "parent": "H03K19/1778",
+      "ja": "ブロックの物理的配置のためのもの［２０２０．０１］",
+      "en": "for physical disposition of blocks",
+      "count": 38,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K19/18": {
+      "code": "H03K19/18",
+      "level": 2,
+      "parent": "H03K19/02",
+      "ja": "電流磁気効果装置を用いるもの，例．ホール効果装置［２］",
+      "en": "using galvano-magnetic devices, e.g. Hall-effect devices",
+      "count": 246,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K19/185": {
+      "code": "H03K19/185",
+      "level": 2,
+      "parent": "H03K19/02",
+      "ja": "可変誘電体定数をもつ誘電体素子を用いるもの，例．強誘電体コンデンサ［２］",
+      "en": "using dielectric elements with variable dielectric constant, e.g. ferro-electric capacitors",
+      "count": 119,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K19/19": {
+      "code": "H03K19/19",
+      "level": 3,
+      "parent": "H03K19/185",
+      "ja": "鉄共振装置を用いるもの［２］",
+      "en": "using ferro-resonant devices",
+      "count": 22,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K19/195": {
+      "code": "H03K19/195",
+      "level": 2,
+      "parent": "H03K19/02",
+      "ja": "超電導装置を用いるもの［２，３］",
+      "en": "using superconductive devices",
+      "count": 1114,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K19/20": {
+      "code": "H03K19/20",
+      "level": 1,
+      "parent": "H03K19/00",
+      "ja": "論理機能によって特徴づけられたもの，例．アンド，オア，ノア，ノット回路（Ｈ０３Ｋ１９／００３～Ｈ０３Ｋ１９／０１が優先）",
+      "en": "characterised by logic function, e.g. AND, OR, NOR, NOT circuits(<b>H03K19/003 to H03K19/01</b>  take precedence)",
+      "count": 5878,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K19/21": {
+      "code": "H03K19/21",
+      "level": 2,
+      "parent": "H03K19/20",
+      "ja": "排他的オア回路，すなわち入力信号がただ一つのみ存在するとき出力を与えるもの；一致回路，すなわちすべての入力信号が等しいときのみ出力を与えるもの［３］",
+      "en": "EXCLUSIVE-OR circuits, i.e. giving output if input signal exists at only one input; COINCIDENCE circuits, i.e. giving output only if all input signals are identical",
+      "count": 1771,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K19/23": {
+      "code": "H03K19/23",
+      "level": 2,
+      "parent": "H03K19/20",
+      "ja": "多数決または少数決回路，すなわち全入力のうちの過半数を占めまたは過半数を割る状態をもつ出力を与えるもの［３］",
+      "en": "Majority or minority circuits, i.e. giving output having the state of the majority or the minority of the inputs",
+      "count": 762,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K21/00": {
+      "code": "H03K21/00",
+      "level": 0,
+      "parent": "H03K",
+      "ja": "パルスカウンタまたは分周器の細部",
+      "en": "Details of pulse counters or frequency dividers",
+      "count": 3584,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K21/02": {
+      "code": "H03K21/02",
+      "level": 1,
+      "parent": "H03K21/00",
+      "ja": "入力回路［４］",
+      "en": "Input circuits",
+      "count": 1764,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K21/08": {
+      "code": "H03K21/08",
+      "level": 1,
+      "parent": "H03K21/00",
+      "ja": "出力回路［４］",
+      "en": "Output circuits",
+      "count": 1336,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K21/10": {
+      "code": "H03K21/10",
+      "level": 2,
+      "parent": "H03K21/08",
+      "ja": "論理回路から成るもの",
+      "en": "comprising logic circuits",
+      "count": 367,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K21/12": {
+      "code": "H03K21/12",
+      "level": 2,
+      "parent": "H03K21/08",
+      "ja": "並列読出しによるもの［４］",
+      "en": "with parallel read-out",
+      "count": 124,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K21/14": {
+      "code": "H03K21/14",
+      "level": 2,
+      "parent": "H03K21/08",
+      "ja": "格納された数値の直列読み出しによるもの［４］",
+      "en": "with series read-out of number stored",
+      "count": 21,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K21/16": {
+      "code": "H03K21/16",
+      "level": 1,
+      "parent": "H03K21/00",
+      "ja": "連続する１０進桁間の桁上げパルス回路",
+      "en": "Circuits for carrying-over pulses between successive decades",
+      "count": 79,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K21/17": {
+      "code": "H03K21/17",
+      "level": 2,
+      "parent": "H03K21/16",
+      "ja": "電界効果トランジスタによるもの［４］",
+      "en": "with field-effect transistors",
+      "count": 17,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K21/18": {
+      "code": "H03K21/18",
+      "level": 1,
+      "parent": "H03K21/00",
+      "ja": "結果を可視表示するための回路［４］",
+      "en": "Circuits for visual indication of the result",
+      "count": 382,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K21/20": {
+      "code": "H03K21/20",
+      "level": 2,
+      "parent": "H03K21/18",
+      "ja": "グロー放電ランプを用いるもの",
+      "en": "using glow-discharge lamps",
+      "count": 10,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K21/38": {
+      "code": "H03K21/38",
+      "level": 1,
+      "parent": "H03K21/00",
+      "ja": "カウンタの起動，停止，またはリセット（底が２のべきでないカウンタＨ０３Ｋ２３／４８，Ｈ０３Ｋ２３／６６）［４］",
+      "en": "Starting, stopping, or resetting the counter(counters with a base other than a power of two <b>H03K23/48</b>, <b>H03K23/66</b>)",
+      "count": 788,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K21/40": {
+      "code": "H03K21/40",
+      "level": 1,
+      "parent": "H03K21/00",
+      "ja": "監視；エラー検出；カウンタの誤動作の防止または修正［４］",
+      "en": "Monitoring; Error detection; Preventing or correcting improper counter operation",
+      "count": 1629,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K23/00": {
+      "code": "H03K23/00",
+      "level": 0,
+      "parent": "H03K",
+      "ja": "計数連鎖を包含するパルス計数器；計数連鎖を包含する周波数分割器（Ｈ０３Ｋ２９／００が優先）",
+      "en": "Pulse counters comprising counting chains; Frequency dividers comprising counting chains(<b>H03K29/00</b> takes precedence)",
+      "count": 4063,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K23/40": {
+      "code": "H03K23/40",
+      "level": 1,
+      "parent": "H03K23/00",
+      "ja": "ゲート信号またはクロック信号がすべての段に印加されるもの，すなわち．同期形計数器［４］",
+      "en": "Gating or clocking signals applied to all stages, i.e. synchronous counters",
+      "count": 718,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K23/42": {
+      "code": "H03K23/42",
+      "level": 2,
+      "parent": "H03K23/40",
+      "ja": "位相ずれのゲートまたはクロック信号が計数段に印加されるもの［４］",
+      "en": "Out-of-phase gating or clocking signals applied to counter stages",
+      "count": 158,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K23/44": {
+      "code": "H03K23/44",
+      "level": 3,
+      "parent": "H03K23/42",
+      "ja": "電界効果トランジスタを用いるもの［４］",
+      "en": "using field-effect transistors",
+      "count": 188,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K23/46": {
+      "code": "H03K23/46",
+      "level": 3,
+      "parent": "H03K23/42",
+      "ja": "電荷転送デバイス，すなわち，ＢＢＤ，ＣＣＤを用いるもの［４］",
+      "en": "using charge transfer devices, i.e. bucket brigade or charge coupled devices",
+      "count": 28,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K23/48": {
+      "code": "H03K23/48",
+      "level": 2,
+      "parent": "H03K23/40",
+      "ja": "底または基数が２のべきでないもの（Ｈ０３Ｋ２３／４２が優先）［４］",
+      "en": "with a base or radix other than a power of two(<b>H03K23/42</b> takes precedence)",
+      "count": 125,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K23/50": {
+      "code": "H03K23/50",
+      "level": 2,
+      "parent": "H03K23/40",
+      "ja": "双安定再生トリガ回路を用いるもの（Ｈ０３Ｋ２３／４２～Ｈ０３Ｋ２３／４８が優先）［４］",
+      "en": "using bi-stable regenerative trigger circuits(<b>H03K23/42 to H03K23/48</b>  take precedence)",
+      "count": 394,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K23/52": {
+      "code": "H03K23/52",
+      "level": 3,
+      "parent": "H03K23/50",
+      "ja": "電界効果トランジスタを用いるもの［４］",
+      "en": "using field-effect transistors",
+      "count": 293,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K23/54": {
+      "code": "H03K23/54",
+      "level": 3,
+      "parent": "H03K23/50",
+      "ja": "リング計数器，すなわち，フイードバックシフトレジスタ計数器（Ｈ０３Ｋ２３／５２が優先）［４］",
+      "en": "Ring counters, i.e. feedback shift register counters(<b>H03K23/52</b> takes precedence)",
+      "count": 861,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K23/56": {
+      "code": "H03K23/56",
+      "level": 3,
+      "parent": "H03K23/50",
+      "ja": "可逆計数器（Ｈ０３Ｋ２３／５２が優先）［４］",
+      "en": "Reversible counters(<b>H03K23/52</b> takes precedence)",
+      "count": 149,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K23/58": {
+      "code": "H03K23/58",
+      "level": 1,
+      "parent": "H03K23/00",
+      "ja": "ゲートまたはクロック信号がすべての段には印加されないもの，すなわち，非同期形計数器（Ｈ０３Ｋ２３／７４～Ｈ０３Ｋ２３／８４が優先）［４］",
+      "en": "Gating or clocking signals not applied to all stages, i.e. asynchronous counters(<b>H03K23/74 to H03K23/84</b>  take precedence)",
+      "count": 645,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K23/60": {
+      "code": "H03K23/60",
+      "level": 2,
+      "parent": "H03K23/58",
+      "ja": "電界効果トランジスタをもつもの［４］",
+      "en": "with field-effect transistors",
+      "count": 52,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K23/62": {
+      "code": "H03K23/62",
+      "level": 2,
+      "parent": "H03K23/58",
+      "ja": "可逆的なもの［４］",
+      "en": "reversible",
+      "count": 82,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K23/64": {
+      "code": "H03K23/64",
+      "level": 1,
+      "parent": "H03K23/00",
+      "ja": "底または基数が２のべきないもの（Ｈ０３Ｋ２３／４０～Ｈ０３Ｋ２３／６２が優先）［４］",
+      "en": "with a base or radix other than a power of two(<b>H03K23/40 to H03K23/62</b>  take precedence)",
+      "count": 945,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K23/66": {
+      "code": "H03K23/66",
+      "level": 2,
+      "parent": "H03K23/64",
+      "ja": "可変の計数底のもの，例．プリセットしまたは，パルスを加えまたは削除することによるもの［４］",
+      "en": "with a variable counting base, e.g. by presetting or by adding or suppressing pulses",
+      "count": 2488,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K23/68": {
+      "code": "H03K23/68",
+      "level": 2,
+      "parent": "H03K23/64",
+      "ja": "底が非整数であるもの［４］",
+      "en": "with a base which is a non-integer",
+      "count": 347,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K23/70": {
+      "code": "H03K23/70",
+      "level": 2,
+      "parent": "H03K23/64",
+      "ja": "底が奇数であるもの（Ｈ０３Ｋ２３／６６が優先）［４］",
+      "en": "with a base which is an odd number(<b>H03K23/66</b> takes precedence)",
+      "count": 96,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K23/72": {
+      "code": "H03K23/72",
+      "level": 2,
+      "parent": "H03K23/64",
+      "ja": "１０進計数器（Ｈ０３Ｋ２３／６６が優先）［４］",
+      "en": "Decade counters(<b>H03K23/66</b> takes precedence)",
+      "count": 94,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K23/74": {
+      "code": "H03K23/74",
+      "level": 1,
+      "parent": "H03K23/00",
+      "ja": "継電器を用いるもの［４］",
+      "en": "using relays",
+      "count": 602,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K23/76": {
+      "code": "H03K23/76",
+      "level": 1,
+      "parent": "H03K23/00",
+      "ja": "磁気コアまたは強誘電容量を用いるもの［４］",
+      "en": "using magnetic cores or ferro-electric capacitors",
+      "count": 431,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K23/78": {
+      "code": "H03K23/78",
+      "level": 1,
+      "parent": "H03K23/00",
+      "ja": "オプトエレクトロニクス装置を用いるもの［４］",
+      "en": "using opto-electronic devices",
+      "count": 181,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K23/80": {
+      "code": "H03K23/80",
+      "level": 1,
+      "parent": "H03K23/00",
+      "ja": "２電極のみをもつ半導体装置，例．トンネルダイオード，多層ダイオード，を用いるもの［４］",
+      "en": "using semiconductor devices having only two electrodes, e.g. tunnel diode, multi-layer diode",
+      "count": 107,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K23/82": {
+      "code": "H03K23/82",
+      "level": 1,
+      "parent": "H03K23/00",
+      "ja": "ガス入り管を用いるもの［４］",
+      "en": "using gas-filled tubes",
+      "count": 628,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K23/84": {
+      "code": "H03K23/84",
+      "level": 1,
+      "parent": "H03K23/00",
+      "ja": "サイリスタまたはユニジャンクショントランジスタを用いるもの［４］",
+      "en": "using thyristors or unijunction transistors",
+      "count": 122,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K23/86": {
+      "code": "H03K23/86",
+      "level": 1,
+      "parent": "H03K23/00",
+      "ja": "可逆的なもの（Ｈ０３Ｋ２３／４０～Ｈ０３Ｋ２３／８４が優先）［４］",
+      "en": "reversible(<b>H03K23/40 to H03K23/84</b>  take precedence)",
+      "count": 142,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K25/00": {
+      "code": "H03K25/00",
+      "level": 0,
+      "parent": "H03K",
+      "ja": "ステップバイステップ積算および静電蓄積によるパルス計数器；類似の周波数分割器",
+      "en": "Pulse counters with step-by-step integration and static storage; Analogous frequency dividers",
+      "count": 687,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K25/02": {
+      "code": "H03K25/02",
+      "level": 1,
+      "parent": "H03K25/00",
+      "ja": "電荷蓄積手段，例．分極ヒステリシスのないコンデンサ，を有するもの",
+      "en": "comprising charge storage, e.g. capacitor without polarisation hysteresis",
+      "count": 115,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K25/04": {
+      "code": "H03K25/04",
+      "level": 2,
+      "parent": "H03K25/02",
+      "ja": "到来パルスによってトリガされる補助的なパルス発生器を用いるもの［４］",
+      "en": "using auxiliary pulse generator triggered by the incoming pulses",
+      "count": 60,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K25/12": {
+      "code": "H03K25/12",
+      "level": 1,
+      "parent": "H03K25/00",
+      "ja": "ヒステリシス蓄積を包含するもの",
+      "en": "comprising hysteresis storage",
+      "count": 17,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K27/00": {
+      "code": "H03K27/00",
+      "level": 0,
+      "parent": "H03K",
+      "ja": "パルスが閉ループ中に連続して循環されるパルス計数器；類似の周波数分割器（フィードバックシフトレジスタ計数器Ｈ０３Ｋ２３／５４）［２００６．０１］",
+      "en": "Pulse counters in which pulses are continuously circulated in a closed loop; Analogous frequency dividers(feedback shift register counters <b>H03K23/54</b>)",
+      "count": 237,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K29/00": {
+      "code": "H03K29/00",
+      "level": 0,
+      "parent": "H03K",
+      "ja": "多安定素子を包含するパルス計数器，例．３進法用，１０進法用；類似の周波数分割器",
+      "en": "Pulse counters comprising multi-stable elements, e.g. for ternary scale, for decimal scale; Analogous frequency dividers",
+      "count": 624,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K29/04": {
+      "code": "H03K29/04",
+      "level": 1,
+      "parent": "H03K29/00",
+      "ja": "多陰極ガス放電管を用いるもの［４］",
+      "en": "using multi-cathode gas discharge tubes",
+      "count": 6,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K29/06": {
+      "code": "H03K29/06",
+      "level": 1,
+      "parent": "H03K29/00",
+      "ja": "ビーム型管，例．マグネトロン，陰極線管，を用いるもの［４］",
+      "en": "using beam-type tubes, e.g. magnetrons, cathode-ray tubes",
+      "count": 3,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    },
+    "H03K99/00": {
+      "code": "H03K99/00",
+      "level": 0,
+      "parent": "H03K",
+      "ja": "このサブクラスの他のグループに分類されない主題事項［２０１３．０１］",
+      "en": "Subject matter not provided for in other groups of this subclass",
+      "count": 10,
+      "sourceFile": "ipc_H03K.txt",
+      "kind": "ipc"
+    }
+  }
+};

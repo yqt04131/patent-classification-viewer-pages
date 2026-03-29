@@ -1,0 +1,226 @@
+{
+  "generatedAt": "2026-03-20T02:17:46.936Z",
+  "total": 22,
+  "entries": {
+    "F28B": {
+      "code": "F28B",
+      "level": 0,
+      "parent": "F28",
+      "ja": "水蒸気または蒸気凝縮器（蒸気の凝縮Ｂ０１Ｄ５／００；分散粒子の静電沈降に先立つ気体の前処理中の凝縮Ｂ０３Ｃ３／０１４；凝縮器をもつ蒸気機関プラントＦ０１Ｋ；気体の液化Ｆ２５Ｊ；熱交換または熱伝達装置の細部一般Ｆ２８Ｆ）",
+      "en": "STEAM OR VAPOUR CONDENSERS(condensation of vapours <b>B01D5/00</b>; condensation during pretreatment of gases prior to electrostatic precipitation of dispersed particles <b>B03C3/014</b>; steam engine plants having condensers <b>F01K</b>; liquefaction of gases <b>F25J</b>; details of heat-exchange or heat-transfer arrangements of general application <b>F28F</b>)",
+      "count": 154,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F28": {
+      "code": "F28",
+      "level": 0,
+      "parent": "F",
+      "ja": "熱交換一般<br><br><b><ul>注</ul></b><br>（１）このクラスにおいては，下記の表現は以下に示す意味で用いる：<br>―“熱交換”とは，加熱または冷却流体または流動固体との直接または間接の接触によって，流体または流動固体を加熱または冷却することを意味する；<br>―“熱伝達”とは，加熱または冷却された表面または物体との直接接触によって，流体または流動固体を加熱または冷却することを意味する。<br>（２）熱交換または熱伝達（注（１）に規定されているような）を特別な目的に対して用いる装置は，サブクラスＦ２８Ｂ，または，たとえばクラスＦ２２，Ｆ２４，Ｆ２５，Ｆ２６またはＦ２７内の適当なサブクラスに分類される；これらのサブクラスが適当でない場合には，そのような装置は，Ｆ２８ＣまたはＤに分類される。",
+      "en": "HEAT EXCHANGE IN GENERAL; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this class, the following expressions are used with the meanings indicated:<ul><li>\"heat exchange\" means the heating or cooling of a fluid or fluent solid by direct or indirect contact with a heated or cooled fluid or fluent solid;</li><li>\"heat transfer\" means the heating or cooling of a fluid or fluent solid by direct contact with a heated or cooled surface or body.</li></ul></li><li>Apparatus using heat exchange or heat transfer (as defined in Note (1) above) for specific purposes is classified either in subclass <b>F28B</b> or in the appropriate subclasses of, for example, classes <b>F22</b>, <b>F24</b>, <b>F25</b>, <b>F26</b>, or <b>F27</b>; if no such other subclass is appropriate, such apparatus is classified in subclass <b>F28C</b> or <b>F28D</b>.</li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F": {
+      "code": "F",
+      "level": 0,
+      "parent": null,
+      "ja": "機械工学；照明；加熱；武器；爆破",
+      "en": "MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F28B1/00": {
+      "code": "F28B1/00",
+      "level": 0,
+      "parent": "F28B",
+      "ja": "水蒸気または蒸気が壁面で冷却媒体と分離されている凝縮器，例．表面凝縮器",
+      "en": "Condensers in which the steam or vapour is separated from the cooling medium by walls, e.g. surface condenser",
+      "count": 2390,
+      "sourceFile": "ipc_F28B.txt",
+      "kind": "ipc"
+    },
+    "F28B1/02": {
+      "code": "F28B1/02",
+      "level": 1,
+      "parent": "F28B1/00",
+      "ja": "水または他の液体を冷却媒体として用いるもの",
+      "en": "using water or other liquid as the cooling medium",
+      "count": 8432,
+      "sourceFile": "ipc_F28B.txt",
+      "kind": "ipc"
+    },
+    "F28B1/04": {
+      "code": "F28B1/04",
+      "level": 2,
+      "parent": "F28B1/02",
+      "ja": "移動壁をもつもの",
+      "en": "employing moving walls",
+      "count": 107,
+      "sourceFile": "ipc_F28B.txt",
+      "kind": "ipc"
+    },
+    "F28B1/06": {
+      "code": "F28B1/06",
+      "level": 1,
+      "parent": "F28B1/00",
+      "ja": "空気または他の気体を冷却媒体として用いるもの",
+      "en": "using air or other gas as the cooling medium",
+      "count": 2880,
+      "sourceFile": "ipc_F28B.txt",
+      "kind": "ipc"
+    },
+    "F28B1/08": {
+      "code": "F28B1/08",
+      "level": 2,
+      "parent": "F28B1/06",
+      "ja": "移動壁をもつもの［３］",
+      "en": "employing moving walls",
+      "count": 42,
+      "sourceFile": "ipc_F28B.txt",
+      "kind": "ipc"
+    },
+    "F28B3/00": {
+      "code": "F28B3/00",
+      "level": 0,
+      "parent": "F28B",
+      "ja": "水蒸気または蒸気が冷却媒体と直接接触をする凝縮器",
+      "en": "Condensers in which the steam or vapour comes into direct contact with the cooling medium",
+      "count": 588,
+      "sourceFile": "ipc_F28B.txt",
+      "kind": "ipc"
+    },
+    "F28B3/02": {
+      "code": "F28B3/02",
+      "level": 1,
+      "parent": "F28B3/00",
+      "ja": "凝縮表面上に冷却液体を皮膜状に流すことによるもの",
+      "en": "by providing a flowing coating of cooling liquid on the condensing surface",
+      "count": 203,
+      "sourceFile": "ipc_F28B.txt",
+      "kind": "ipc"
+    },
+    "F28B3/04": {
+      "code": "F28B3/04",
+      "level": 1,
+      "parent": "F28B3/00",
+      "ja": "水蒸気または蒸気中に冷却液体を噴射することによるもの（Ｆ２８Ｂ３／０８が優先）",
+      "en": "by injecting cooling liquid into the steam or vapour(<b>F28B3/08</b> takes precedence)",
+      "count": 823,
+      "sourceFile": "ipc_F28B.txt",
+      "kind": "ipc"
+    },
+    "F28B3/06": {
+      "code": "F28B3/06",
+      "level": 1,
+      "parent": "F28B3/00",
+      "ja": "冷却液体中に水蒸気または蒸気を噴射することによるもの（Ｆ２８Ｂ３／０８が優先）",
+      "en": "by injecting the steam or vapour into the cooling liquid(<b>F28B3/08</b> takes precedence)",
+      "count": 265,
+      "sourceFile": "ipc_F28B.txt",
+      "kind": "ipc"
+    },
+    "F28B3/08": {
+      "code": "F28B3/08",
+      "level": 1,
+      "parent": "F28B3/00",
+      "ja": "回転部分をもつもの",
+      "en": "with rotatable members",
+      "count": 79,
+      "sourceFile": "ipc_F28B.txt",
+      "kind": "ipc"
+    },
+    "F28B5/00": {
+      "code": "F28B5/00",
+      "level": 0,
+      "parent": "F28B",
+      "ja": "グループＦ２８Ｂ１／００とＦ２８Ｂ３／００に包含される方法の組み合わせによる凝縮器；その他の凝縮器",
+      "en": "Condensers employing a combination of the methods covered by groups <b>F28B1/00</b> and <b>F28B3/00</b>; Other condensers",
+      "count": 906,
+      "sourceFile": "ipc_F28B.txt",
+      "kind": "ipc"
+    },
+    "F28B7/00": {
+      "code": "F28B7/00",
+      "level": 0,
+      "parent": "F28B",
+      "ja": "２以上の凝縮器の組み合わせ，例．予備の凝縮器の設備",
+      "en": "Combinations of two or more condensers, e.g. provision of reserve condenser",
+      "count": 758,
+      "sourceFile": "ipc_F28B.txt",
+      "kind": "ipc"
+    },
+    "F28B9/00": {
+      "code": "F28B9/00",
+      "level": 0,
+      "parent": "F28B",
+      "ja": "補助系統，同設備または同装置",
+      "en": "Auxiliary systems, arrangements, or devices",
+      "count": 3936,
+      "sourceFile": "ipc_F28B.txt",
+      "kind": "ipc"
+    },
+    "F28B9/02": {
+      "code": "F28B9/02",
+      "level": 1,
+      "parent": "F28B9/00",
+      "ja": "水蒸気または蒸気を凝縮器に給送するためのもの",
+      "en": "for feeding steam or vapour to condensers",
+      "count": 883,
+      "sourceFile": "ipc_F28B.txt",
+      "kind": "ipc"
+    },
+    "F28B9/04": {
+      "code": "F28B9/04",
+      "level": 1,
+      "parent": "F28B9/00",
+      "ja": "冷却水または他の冷却液体を給送，収集または貯蔵するためのもの",
+      "en": "for feeding, collecting, and storing cooling water or other cooling liquid",
+      "count": 2413,
+      "sourceFile": "ipc_F28B.txt",
+      "kind": "ipc"
+    },
+    "F28B9/06": {
+      "code": "F28B9/06",
+      "level": 2,
+      "parent": "F28B9/04",
+      "ja": "冷却水または他の冷却液体を再冷却するための設備をもつもの",
+      "en": "with provision for re-cooling the cooling water or other cooling liquid",
+      "count": 752,
+      "sourceFile": "ipc_F28B.txt",
+      "kind": "ipc"
+    },
+    "F28B9/08": {
+      "code": "F28B9/08",
+      "level": 1,
+      "parent": "F28B9/00",
+      "ja": "凝縮物を収集および除去するためのもの",
+      "en": "for collecting and removing condensate",
+      "count": 8501,
+      "sourceFile": "ipc_F28B.txt",
+      "kind": "ipc"
+    },
+    "F28B9/10": {
+      "code": "F28B9/10",
+      "level": 1,
+      "parent": "F28B9/00",
+      "ja": "非凝縮性気体を抽出，冷却および除去するためのもの",
+      "en": "for extracting, cooling, and removing non-condensable gases",
+      "count": 1953,
+      "sourceFile": "ipc_F28B.txt",
+      "kind": "ipc"
+    },
+    "F28B11/00": {
+      "code": "F28B11/00",
+      "level": 0,
+      "parent": "F28B",
+      "ja": "凝縮器に特に使われる特色のある制御装置",
+      "en": "Controlling arrangements with features specially adapted for condensers",
+      "count": 2835,
+      "sourceFile": "ipc_F28B.txt",
+      "kind": "ipc"
+    }
+  }
+}

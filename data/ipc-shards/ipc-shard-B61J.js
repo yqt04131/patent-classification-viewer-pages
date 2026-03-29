@@ -1,0 +1,186 @@
+window.IPC_SHARD_B61J = {
+  "generatedAt": "2026-03-20T02:17:46.240Z",
+  "total": 18,
+  "entries": {
+    "B61J": {
+      "code": "B61J",
+      "level": 0,
+      "parent": "B61",
+      "ja": "車両を移動するものまたは入れ換えするもの（操車系統Ｂ６１Ｂ；車両を移動するもの一般Ｂ６０Ｓ）",
+      "en": "SHIFTING OR SHUNTING OF RAIL VEHICLES(shifting vehicles in general <b>B60S</b>; marshalling systems <b>B61B</b>)",
+      "count": 70,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B61": {
+      "code": "B61",
+      "level": 0,
+      "parent": "B",
+      "ja": "鉄道<br><br><b><ul>注</ul></b><br>このクラスにおいては，下記の表現は以下に示す意味で用いる：<br>・“鉄道方式”は，以下のものを包含する：<br>　ａ．列車，個々の旅客車両，荷物運搬器を車輪やローラ用の軌条，ロープ，ケーブルまたは他の案内素子，あるいは滑走する非摩擦装置によって，限定された地面または高架軌道を案内走行する方式；<br>　ｂ．人間や荷物用の運搬器あるいは推進器を取り付けている方法，例．懸架形式，動きうる通路を定めた案内引張りロープあるいはケーブル；<br>　ｃ．車両，荷物運搬器または荷物が，連続した引張り部材，例．ケーブル，チェーン，に対して選択的に連結されるか，または連結を解かれるようになっている上記タイプのいずれかの方式すなわちパワーアンドフリー方式；<br>・“鉄道方式”は下記を含まない：<br>　ａ．連続的なけん引要素に永続的に取り付けられたロードキャリアを備えたコンベヤ，例．チェーンコンベヤ，これはグループＢ６５Ｇ１７／００に含まれる；<br>　ｂ．支持面またはその下にある材料の上に物品または材料を運ぶコンベヤ，例．スクレーパーコンベヤ，これはグループＢ６５Ｇ１９／００に含まれる。",
+      "en": "RAILWAYS; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this class, the following expression is used with the meaning indicated:<ul><li>\"railway systems\" <u>covers</u>: <ul><li>systems in which trains or individual passenger vehicles or load carriers run on, or are guided by, ground or elevated tracks defined by rails, ropes, cables, or other guiding elements for wheels, rollers, or sliding anti-friction devices;</li><li>systems in which carriers or impellers for persons or loads are attached to, e.g. suspended from, a guided traction rope or cable which determines their path of movement;</li><li>power-and-free systems of either of the above types in which vehicles, load-carriers or loads may be selectively coupled to, or uncoupled from, continuous traction members, e.g. cables, chains;</li></ul></li><li>\"railway systems\" <u>does not cover</u>: <ul><li>conveyors with load-carriers permanently attached to a continuous traction element, e.g. chain conveyors, which are covered by group <b>B65G17/00</b>;</li><li>conveyors moving articles or materials over a supporting surface or underlying material, e.g. scraper conveyors, which are covered by group <b>B65G19/00</b>.</li></ul></li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B": {
+      "code": "B",
+      "level": 0,
+      "parent": null,
+      "ja": "処理操作；運輸",
+      "en": "PERFORMING OPERATIONS; TRANSPORTING",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B61J1/00": {
+      "code": "B61J1/00",
+      "level": 0,
+      "parent": "B61J",
+      "ja": "転車台；遷車台；鉄道車両を他の車両鉄道またはドリーで輸送するもの（入換Ｂ６１Ｊ３／００）",
+      "en": "Turntables; Traversers; Transporting rail vehicles on other rail vehicles or dollies(shunting <b>B61J3/00</b>)",
+      "count": 610,
+      "sourceFile": "ipc_B61J.txt",
+      "kind": "ipc"
+    },
+    "B61J1/02": {
+      "code": "B61J1/02",
+      "level": 1,
+      "parent": "B61J1/00",
+      "ja": "転車台；完全車両止め",
+      "en": "Turntables; Integral stops",
+      "count": 399,
+      "sourceFile": "ipc_B61J.txt",
+      "kind": "ipc"
+    },
+    "B61J1/04": {
+      "code": "B61J1/04",
+      "level": 2,
+      "parent": "B61J1/02",
+      "ja": "普通形式の鉄道用のもの",
+      "en": "of normal railroad type",
+      "count": 284,
+      "sourceFile": "ipc_B61J.txt",
+      "kind": "ipc"
+    },
+    "B61J1/06": {
+      "code": "B61J1/06",
+      "level": 2,
+      "parent": "B61J1/02",
+      "ja": "懸垂した車両をもつ鉄道のためのもの，例．架空ロープ鉄道",
+      "en": "for railways with suspended vehicles, e.g. aerial rope railways",
+      "count": 119,
+      "sourceFile": "ipc_B61J.txt",
+      "kind": "ipc"
+    },
+    "B61J1/08": {
+      "code": "B61J1/08",
+      "level": 2,
+      "parent": "B61J1/02",
+      "ja": "傾斜のある軌道または高低差のある軌道を連結するためのもの（貨物用エレベーターＢ６６）",
+      "en": "for connecting inclined tracks or tracks of different height(wagon elevators <b>B66</b>)",
+      "count": 161,
+      "sourceFile": "ipc_B61J.txt",
+      "kind": "ipc"
+    },
+    "B61J1/10": {
+      "code": "B61J1/10",
+      "level": 1,
+      "parent": "B61J1/00",
+      "ja": "遷車台",
+      "en": "Traversers",
+      "count": 980,
+      "sourceFile": "ipc_B61J.txt",
+      "kind": "ipc"
+    },
+    "B61J1/12": {
+      "code": "B61J1/12",
+      "level": 1,
+      "parent": "B61J1/00",
+      "ja": "コロまたは軌条上で車両を移動または輸送するもの",
+      "en": "Rollers or devices for shifting or transporting rail vehicles on rails",
+      "count": 269,
+      "sourceFile": "ipc_B61J.txt",
+      "kind": "ipc"
+    },
+    "B61J3/00": {
+      "code": "B61J3/00",
+      "level": 0,
+      "parent": "B61J",
+      "ja": "入れ換えまたは近距離牽引装置；急勾配において列車を牽引するためのまたは発車助勢装置としての同様装置；そのための車両推進装置（鉄道車両を転轍するための補助装置へ結合された天井走行クレーンＢ６６Ｃ１７／２６；キヤプスタンＢ６６Ｄ）",
+      "en": "Shunting or short-distance haulage devices; Similar devices for hauling trains on steep gradients or as starting aids; Car-propelling devices therefor(overhead travelling cranes combined with auxiliary means for shunting railway vehicles <b>B66C17/26</b>; capstans <b>B66D</b>)",
+      "count": 745,
+      "sourceFile": "ipc_B61J.txt",
+      "kind": "ipc"
+    },
+    "B61J3/02": {
+      "code": "B61J3/02",
+      "level": 1,
+      "parent": "B61J3/00",
+      "ja": "重力利用の入れ換えハンプ（軌道に固定された軌道制動装置または減速装置Ｂ６１Ｋ７／０２）",
+      "en": "Gravity shunting humps(track brakes or retarding apparatus fixed to permanent way <b>B61K7/02</b>)",
+      "count": 148,
+      "sourceFile": "ipc_B61J.txt",
+      "kind": "ipc"
+    },
+    "B61J3/04": {
+      "code": "B61J3/04",
+      "level": 1,
+      "parent": "B61J3/00",
+      "ja": "牽引ケーブルまたは無端チェーン駆動装置をもつ車両入れ換えまたは牽引装置",
+      "en": "Car-shunting or haulage devices with cable traction or endless-chain driving means",
+      "count": 610,
+      "sourceFile": "ipc_B61J.txt",
+      "kind": "ipc"
+    },
+    "B61J3/06": {
+      "code": "B61J3/06",
+      "level": 2,
+      "parent": "B61J3/04",
+      "ja": "貨車または客車の車両連結を備えるもの",
+      "en": "with vehicle-engaging truck or carriage",
+      "count": 246,
+      "sourceFile": "ipc_B61J.txt",
+      "kind": "ipc"
+    },
+    "B61J3/08": {
+      "code": "B61J3/08",
+      "level": 1,
+      "parent": "B61J3/00",
+      "ja": "車両を入れ換えまたは牽引するために軌道と組合されて往復動する押し棒または類似の駆動機構をもつ装置（この種の鉄道系統Ｂ６１Ｂ１３／１２）",
+      "en": "Devices with reciprocated pushing bars or like driving mechanisms combined with the track for shunting or hauling cars(railway systems of this kind <b>B61B13/12</b>)",
+      "count": 456,
+      "sourceFile": "ipc_B61J.txt",
+      "kind": "ipc"
+    },
+    "B61J3/10": {
+      "code": "B61J3/10",
+      "level": 1,
+      "parent": "B61J3/00",
+      "ja": "こじり棒の作用をもつ車両入れ換えまたは位置決め装置（こじり棒，金てこ一般Ｂ６６Ｆ１５／００）",
+      "en": "Car-shunting or positioning devices with pinchbar action(pinchbars, crowbars in general <b>B66F15/00</b>)",
+      "count": 413,
+      "sourceFile": "ipc_B61J.txt",
+      "kind": "ipc"
+    },
+    "B61J3/12": {
+      "code": "B61J3/12",
+      "level": 1,
+      "parent": "B61J3/00",
+      "ja": "自己推進トラクタまたは押進車，例．ミュール（牽引ケーブルをもつものＢ６１Ｊ３／０６）",
+      "en": "Self-propelled tractors or pushing vehicles, e.g. mules(with cable traction <b>B61J3/06</b>)",
+      "count": 685,
+      "sourceFile": "ipc_B61J.txt",
+      "kind": "ipc"
+    },
+    "B61J99/00": {
+      "code": "B61J99/00",
+      "level": 0,
+      "parent": "B61J",
+      "ja": "このサブクラスの他のグループに分類されない主題事項［８］",
+      "en": "Subject matter not provided for in other groups of this subclass",
+      "count": 19,
+      "sourceFile": "ipc_B61J.txt",
+      "kind": "ipc"
+    }
+  }
+};

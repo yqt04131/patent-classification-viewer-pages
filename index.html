@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Classification Lookup Viewer</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="page">
+      <section class="hero">
+        <p class="eyebrow">Classification Hierarchy Viewer</p>
+        <h1>分類コードをまとめて確認する</h1>
+        <p class="lead">
+          複数の IPC / FI / CPC コードを入力すると、コードごとの分類種別、階層情報、定義を一覧表示します。
+        </p>
+      </section>
+
+      <section class="panel">
+        <form id="lookup-form" class="lookup-form">
+          <label class="field">
+            <span>IPC / FI / CPC コード</span>
+            <textarea
+              id="ipc-input"
+              name="ipc"
+              rows="5"
+              placeholder="例:
+H04N1/029
+H04N1/00C
+H04N1/00061
+
+横並びの貼り付けにも対応します。"
+              autocomplete="off"
+            ></textarea>
+          </label>
+          <button type="submit">表示する</button>
+        </form>
+
+        <div class="quick-list">
+          <span>サンプル</span>
+          <button type="button" data-code="H04N1/029">H04N1/029</button>
+          <button type="button" data-code="H04N1/00C">H04N1/00C</button>
+          <button type="button" data-code="H04N1/00061">H04N1/00061</button>
+        </div>
+
+        <p id="status" class="status">改行・タブ・空白を含む入力からコードを抽出できます。</p>
+      </section>
+
+      <section class="panel">
+        <div class="result-header">
+          <h2>検索結果</h2>
+          <p id="result-meta" class="result-meta"></p>
+        </div>
+        <div id="result-list" class="result-list"></div>
+      </section>
+    </main>
+
+    <template id="result-item-template">
+      <article class="result-item">
+        <div class="result-topline">
+          <span class="code-wrap">
+            <code class="code"></code>
+          </span>
+        </div>
+        <div class="result-tags">
+          <span class="tag type"></span>
+          <span class="tag hierarchy"></span>
+        </div>
+        <div class="definitions">
+          <section class="definition-pane definition-pane-ja">
+            <p class="definition-title">和訳</p>
+            <p class="definition ja"></p>
+          </section>
+          <section class="definition-pane definition-pane-en">
+            <p class="definition-title">原文</p>
+            <p class="definition en"></p>
+          </section>
+        </div>
+      </article>
+    </template>
+
+    <script src="./app.js"></script>
+  </body>
+</html>

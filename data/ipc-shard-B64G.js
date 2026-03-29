@@ -1,0 +1,376 @@
+window.IPC_SHARD_B64G = {
+  "generatedAt": "2026-03-20T02:17:46.270Z",
+  "total": 37,
+  "entries": {
+    "B64G": {
+      "code": "B64G",
+      "level": 0,
+      "parent": "B64",
+      "ja": "宇宙航行；宇宙航行体またはその装備<br><br><b><ul>注</ul></b><br>（１）このサブクラスは宇宙航行に特に適合した航行体，装備または類似のもののみを包含する。<br>（２）このサブクラスは宇宙航行にも大気圏内飛行にも適した航行体と装備を包含しない。ただし，これはクラスＢ６４の適当な航空のサブクラスに包含される。<br>（３）このサブクラスにおいては，下記の用語は以下に示す意味で用いる：<br>―“宇宙航行”は，地球大気圏外の全ての航行を含む。即ち人工衛星，さらに惑星間旅行および恒星間旅行を含む。",
+      "en": "COSMONAUTICS; VEHICLES OR EQUIPMENT THEREFOR; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This subclass <u>covers</u> only vehicles, equipment or the like, which are specially adapted for cosmonautics.</li><li>This subclass <u>does not cover</u> vehicles and equipment applicable to both cosmonautics and aeronautics, which are covered by the appropriate aeronautical subclasses of class <b>B64</b>.</li><li>In this subclass, the following term is used with the meaning indicated:<ul><li>\"cosmonautics\" includes all transport outside the earth's atmosphere, and thus includes artificial earth satellites, and interplanetary and interstellar travel.</li></ul></li></ul>",
+      "count": 111,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B64": {
+      "code": "B64",
+      "level": 0,
+      "parent": "B",
+      "ja": "航空機；飛行；宇宙工学",
+      "en": "AIRCRAFT; AVIATION; COSMONAUTICS",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B": {
+      "code": "B",
+      "level": 0,
+      "parent": null,
+      "ja": "処理操作；運輸",
+      "en": "PERFORMING OPERATIONS; TRANSPORTING",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B64G1/00": {
+      "code": "B64G1/00",
+      "level": 0,
+      "parent": "B64G",
+      "ja": "宇宙航行体［３］",
+      "en": "Cosmonautic vehicles",
+      "count": 3688,
+      "sourceFile": "ipc_B64G.txt",
+      "kind": "ipc"
+    },
+    "B64G1/10": {
+      "code": "B64G1/10",
+      "level": 1,
+      "parent": "B64G1/00",
+      "ja": "人工衛星；その衛星の制御方式；惑星間航行体（スペースシャトルＢ６４Ｇ１／１４）［２００６．０１］",
+      "en": "Artificial satellites; Systems of such satellites; Interplanetary vehicles(space shuttles <b>B64G1/14</b>)",
+      "count": 4384,
+      "sourceFile": "ipc_B64G.txt",
+      "kind": "ipc"
+    },
+    "B64G1/12": {
+      "code": "B64G1/12",
+      "level": 2,
+      "parent": "B64G1/10",
+      "ja": "人の乗ったもの［３］",
+      "en": "manned",
+      "count": 367,
+      "sourceFile": "ipc_B64G.txt",
+      "kind": "ipc"
+    },
+    "B64G1/14": {
+      "code": "B64G1/14",
+      "level": 1,
+      "parent": "B64G1/00",
+      "ja": "スペースシャトル［３］",
+      "en": "Space shuttles",
+      "count": 742,
+      "sourceFile": "ipc_B64G.txt",
+      "kind": "ipc"
+    },
+    "B64G1/16": {
+      "code": "B64G1/16",
+      "level": 1,
+      "parent": "B64G1/00",
+      "ja": "地球の外の乗物［２００６．０１］",
+      "en": "Extraterrestrial cars ",
+      "count": 757,
+      "sourceFile": "ipc_B64G.txt",
+      "kind": "ipc"
+    },
+    "B64G1/22": {
+      "code": "B64G1/22",
+      "level": 1,
+      "parent": "B64G1/00",
+      "ja": "宇宙航行体の部品または，宇宙航行体に特に適合した装備品［３］",
+      "en": "Parts of, or equipment specially adapted for fitting in or to, cosmonautic vehicles",
+      "count": 5955,
+      "sourceFile": "ipc_B64G.txt",
+      "kind": "ipc"
+    },
+    "B64G1/24": {
+      "code": "B64G1/24",
+      "level": 2,
+      "parent": "B64G1/22",
+      "ja": "誘導または制御のための装置，例．姿勢制御のためのもの［２００６．０１］",
+      "en": "Guiding or controlling apparatus, e.g. for attitude control",
+      "count": 5236,
+      "sourceFile": "ipc_B64G.txt",
+      "kind": "ipc"
+    },
+    "B64G1/26": {
+      "code": "B64G1/26",
+      "level": 3,
+      "parent": "B64G1/24",
+      "ja": "ジェットを用いるもの［３］",
+      "en": "using jets",
+      "count": 1514,
+      "sourceFile": "ipc_B64G.txt",
+      "kind": "ipc"
+    },
+    "B64G1/28": {
+      "code": "B64G1/28",
+      "level": 3,
+      "parent": "B64G1/24",
+      "ja": "慣性またはジャイロ効果を利用するもの［３］",
+      "en": "using inertia or gyro effect",
+      "count": 2076,
+      "sourceFile": "ipc_B64G.txt",
+      "kind": "ipc"
+    },
+    "B64G1/32": {
+      "code": "B64G1/32",
+      "level": 3,
+      "parent": "B64G1/24",
+      "ja": "地球磁場を利用するもの［３］",
+      "en": "using earth's magnetic field",
+      "count": 567,
+      "sourceFile": "ipc_B64G.txt",
+      "kind": "ipc"
+    },
+    "B64G1/34": {
+      "code": "B64G1/34",
+      "level": 3,
+      "parent": "B64G1/24",
+      "ja": "重力傾度を利用するもの［３］",
+      "en": "using gravity gradient",
+      "count": 181,
+      "sourceFile": "ipc_B64G.txt",
+      "kind": "ipc"
+    },
+    "B64G1/36": {
+      "code": "B64G1/36",
+      "level": 3,
+      "parent": "B64G1/24",
+      "ja": "センサー，例．太陽センサー，地平線センサー，を用いるもの［３］",
+      "en": "using sensors, e.g. sun-sensors, horizon sensors",
+      "count": 2071,
+      "sourceFile": "ipc_B64G.txt",
+      "kind": "ipc"
+    },
+    "B64G1/38": {
+      "code": "B64G1/38",
+      "level": 3,
+      "parent": "B64G1/24",
+      "ja": "振動の減衰，例．章動減衰［３］",
+      "en": "damping of oscillations, e.g. nutation dampers",
+      "count": 469,
+      "sourceFile": "ipc_B64G.txt",
+      "kind": "ipc"
+    },
+    "B64G1/40": {
+      "code": "B64G1/40",
+      "level": 2,
+      "parent": "B64G1/22",
+      "ja": "推進装置の配置または適用［２００６．０１］",
+      "en": "Arrangements or adaptations of propulsion systems",
+      "count": 4650,
+      "sourceFile": "ipc_B64G.txt",
+      "kind": "ipc"
+    },
+    "B64G1/42": {
+      "code": "B64G1/42",
+      "level": 2,
+      "parent": "B64G1/22",
+      "ja": "動力供給システムの配置または適用［２００６．０１］",
+      "en": "Arrangements or adaptations of power supply systems",
+      "count": 1229,
+      "sourceFile": "ipc_B64G.txt",
+      "kind": "ipc"
+    },
+    "B64G1/44": {
+      "code": "B64G1/44",
+      "level": 3,
+      "parent": "B64G1/42",
+      "ja": "輻射の利用，例．展開可能な太陽電池アレイ［２００６．０１］",
+      "en": "using radiation, e.g. deployable solar arrays",
+      "count": 3477,
+      "sourceFile": "ipc_B64G.txt",
+      "kind": "ipc"
+    },
+    "B64G1/46": {
+      "code": "B64G1/46",
+      "level": 2,
+      "parent": "B64G1/22",
+      "ja": "環境または生存状態の制御に用いる装置の配置または適用［２００６．０１］",
+      "en": "Arrangements or adaptations of devices for control of environment or living conditions",
+      "count": 255,
+      "sourceFile": "ipc_B64G.txt",
+      "kind": "ipc"
+    },
+    "B64G1/48": {
+      "code": "B64G1/48",
+      "level": 3,
+      "parent": "B64G1/46",
+      "ja": "大気を扱うためのもの（Ｂ６４Ｇ１／５０が優先）［２００６．０１］",
+      "en": "for treatment of the atmosphere(<b>B64G1/50</b> takes precedence)",
+      "count": 148,
+      "sourceFile": "ipc_B64G.txt",
+      "kind": "ipc"
+    },
+    "B64G1/50": {
+      "code": "B64G1/50",
+      "level": 3,
+      "parent": "B64G1/46",
+      "ja": "温度を制御するためのもの［２００６．０１］",
+      "en": "for temperature control",
+      "count": 2157,
+      "sourceFile": "ipc_B64G.txt",
+      "kind": "ipc"
+    },
+    "B64G1/52": {
+      "code": "B64G1/52",
+      "level": 2,
+      "parent": "B64G1/22",
+      "ja": "保護，安全または緊急用装置；生存を助けるもの［２００６．０１］",
+      "en": "Protection, safety or emergency devices; Survival aids",
+      "count": 687,
+      "sourceFile": "ipc_B64G.txt",
+      "kind": "ipc"
+    },
+    "B64G1/54": {
+      "code": "B64G1/54",
+      "level": 3,
+      "parent": "B64G1/52",
+      "ja": "放射線に対する防護［２００６．０１］",
+      "en": "Protection against radiation",
+      "count": 382,
+      "sourceFile": "ipc_B64G.txt",
+      "kind": "ipc"
+    },
+    "B64G1/56": {
+      "code": "B64G1/56",
+      "level": 3,
+      "parent": "B64G1/52",
+      "ja": "隕石またはスペースデブリに対する防護［２００６．０１］",
+      "en": "Protection against meteoroids or space debris",
+      "count": 293,
+      "sourceFile": "ipc_B64G.txt",
+      "kind": "ipc"
+    },
+    "B64G1/58": {
+      "code": "B64G1/58",
+      "level": 3,
+      "parent": "B64G1/52",
+      "ja": "熱保護，例．熱遮蔽［２００６．０１］",
+      "en": "Thermal protection, e.g. heat shields",
+      "count": 1634,
+      "sourceFile": "ipc_B64G.txt",
+      "kind": "ipc"
+    },
+    "B64G1/60": {
+      "code": "B64G1/60",
+      "level": 2,
+      "parent": "B64G1/22",
+      "ja": "乗組または乗客の居住施設［３］",
+      "en": "Crew or passenger accommodations",
+      "count": 460,
+      "sourceFile": "ipc_B64G.txt",
+      "kind": "ipc"
+    },
+    "B64G1/62": {
+      "code": "B64G1/62",
+      "level": 2,
+      "parent": "B64G1/22",
+      "ja": "地球大気に再突入するための装置；減速または着陸装置［３］",
+      "en": "Systems for re-entry into the earth's atmosphere; Retarding or landing devices",
+      "count": 1274,
+      "sourceFile": "ipc_B64G.txt",
+      "kind": "ipc"
+    },
+    "B64G1/64": {
+      "code": "B64G1/64",
+      "level": 2,
+      "parent": "B64G1/22",
+      "ja": "宇宙航行体の結合・分離のための方式またはその部品，例．ドッキングのための装置［３］",
+      "en": "Systems for coupling or separating cosmonautic vehicles or parts thereof, e.g. docking arrangements",
+      "count": 4765,
+      "sourceFile": "ipc_B64G.txt",
+      "kind": "ipc"
+    },
+    "B64G1/66": {
+      "code": "B64G1/66",
+      "level": 2,
+      "parent": "B64G1/22",
+      "ja": "他に分類されない計器，器具の配置または適用［２００６．０１］",
+      "en": "Arrangements or adaptations of apparatus or instruments, not otherwise provided for",
+      "count": 3746,
+      "sourceFile": "ipc_B64G.txt",
+      "kind": "ipc"
+    },
+    "B64G1/68": {
+      "code": "B64G1/68",
+      "level": 3,
+      "parent": "B64G1/66",
+      "ja": "隕石またはスペースデブリ検知器［２００６．０１］",
+      "en": "of meteoroid or space debris detectors",
+      "count": 158,
+      "sourceFile": "ipc_B64G.txt",
+      "kind": "ipc"
+    },
+    "B64G3/00": {
+      "code": "B64G3/00",
+      "level": 0,
+      "parent": "B64G",
+      "ja": "宇宙航行体の観測または追跡［２００６．０１］",
+      "en": "Observing or tracking cosmonautic vehicles",
+      "count": 1169,
+      "sourceFile": "ipc_B64G.txt",
+      "kind": "ipc"
+    },
+    "B64G4/00": {
+      "code": "B64G4/00",
+      "level": 0,
+      "parent": "B64G",
+      "ja": "大気圏外で使用するため特に工夫された工具［３］",
+      "en": "Tools specially adapted for use in space",
+      "count": 1389,
+      "sourceFile": "ipc_B64G.txt",
+      "kind": "ipc"
+    },
+    "B64G5/00": {
+      "code": "B64G5/00",
+      "level": 0,
+      "parent": "B64G",
+      "ja": "宇宙航行体のための地上設備，例．発射塔，燃料供給装置（Ｂ６４Ｇ３／００が優先）",
+      "en": "Ground equipment for vehicles, e.g. starting towers, fuelling arrangements(<b>B64G3/00</b> takes precedence)",
+      "count": 1486,
+      "sourceFile": "ipc_B64G.txt",
+      "kind": "ipc"
+    },
+    "B64G6/00": {
+      "code": "B64G6/00",
+      "level": 0,
+      "parent": "B64G",
+      "ja": "宇宙服［３］",
+      "en": "Space suits",
+      "count": 451,
+      "sourceFile": "ipc_B64G.txt",
+      "kind": "ipc"
+    },
+    "B64G7/00": {
+      "code": "B64G7/00",
+      "level": 0,
+      "parent": "B64G",
+      "ja": "宇宙状態のシミュレーション，例．乗組員の調子を整えるためのもの［２００６．０１］",
+      "en": "Simulating cosmonautic conditions, e.g. for conditioning crews",
+      "count": 2817,
+      "sourceFile": "ipc_B64G.txt",
+      "kind": "ipc"
+    },
+    "B64G99/00": {
+      "code": "B64G99/00",
+      "level": 0,
+      "parent": "B64G",
+      "ja": "このサブクラスの他のグループに分類されない主題事項［２００９．０１］",
+      "en": "Subject matter not provided for in other groups of this subclass",
+      "count": 981,
+      "sourceFile": "ipc_B64G.txt",
+      "kind": "ipc"
+    }
+  }
+};

@@ -1,0 +1,1826 @@
+{
+  "generatedAt": "2026-03-20T02:17:47.006Z",
+  "total": 182,
+  "entries": {
+    "G01F": {
+      "code": "G01F",
+      "level": 0,
+      "parent": "G01",
+      "ja": "体積，体積流量，質量流量，または液位の測定；体積による測定［２，５］<br><br><b><ul>注</ul></b><br>クラスＧ０１のタイトルに続く注に注意すること。<br><br><b><ul>サブクラス内の索引</ul></b><br>体積の測定　１７／００，１９／００，２２／００<br>体積流量の測定<br>連続流量におけるもの；不連続流におけるもの；流量の比例によるもの　１／００；３／００；５／００<br>多数の測定範囲をもつもの　７／００<br>他量との比較によるもの　９／００<br>レベル指示計　２３／００<br>体積による計量　１１／００，１３／００<br>細部，付属品　１５／００<br>試験，較正　２５／００",
+      "en": "MEASURING VOLUME, VOLUME FLOW, MASS FLOW, OR LIQUID LEVEL; METERING BY VOLUME; <br><br><b><u>Note(s)</u></b><br><br><ul><li>Attention is drawn to the Notes following the title of class <b>G01</b>.</li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">MEASURING VOLUME </td><td><b><b>17/00</b>, <b>19/00</b>, <b>22/00</b></b></td></tr></tr><tr><td width=\"70%\">MEASURING VOLUME FLOW<tr><td width=\"70%\">In continuous flow; in discontinuous flow; by proportion of flow </td><td><b><b>1/00</b>; <b>3/00</b>; <b>5/00</b></b></td></tr></tr><tr><td width=\"70%\">With multiple measuring ranges </td><td><b><b>7/00</b></b></td></tr></tr><tr><td width=\"70%\">By comparison with another value </td><td><b><b>9/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">LEVEL INDICATORS </td><td><b><b>23/00</b></b></td></tr></tr><tr><td width=\"70%\">METERING BY VOLUME </td><td><b><b>11/00</b>, <b>13/00</b></b></td></tr></tr><tr><td width=\"70%\">DETAILS, ACCESSORIES </td><td><b><b>15/00</b></b></td></tr></tr><tr><td width=\"70%\">TESTING, CALIBRATING </td><td><b><b>25/00</b></b></td></tr></tr></table>",
+      "count": 2774,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G01": {
+      "code": "G01",
+      "level": 0,
+      "parent": "G",
+      "ja": "測定；試験<br><br><b><ul>注</ul></b><br>（１）このクラスは“真”の測定計器のほかに類似構造の他の指示表示装置又は記録装置を含み，また更に，信号化装置又は制御装置についてはそれが測定に関するものであって（以下の注（２）で定義するように）特定の信号化目的または特定の制御目的に特に適合しないものである限り，含まれる。<br>（２）このクラスにおいては，下記の用語は以下に示す意味で用いる：<br>―“測定”はその第一義的意味又は基本的な意味よりもかなり広い意味を含むものとして用いる。この語の第一義的な意味においては，変量値を単位もしくはデータに関して又は同じ性質の別の変量に関して数値的に表現することを見い出すこと，例えば長さをスケールで測定するなどある長さを別の長さの表現で表わすこと，を意味する。この変量値は直接的に得る（すぐ前で言及したように）こともあり，また，水銀柱の長さの変化を測定することにより温度変化を測定するなど求める変量値に関連づけることのできる他の変量値を測定することよって得ることもある。しかしながら，同じ装置又は計器が，直接的な表示を行う代りに，記録をとったり，指示効果又は制御効果を奏すべく信号を発生するために用いられたり，或いは，他の装置又は計器と組み合わせて同種又は異種の二以上の変量の測定から一つのまとまった結果を得るために用いられることもあるので，“測定”はかかる数値的表現を変量を数値に変換する何らかの手段の付加的使用によって得ることを可能とするような操作をも含むものとして解釈することが必要である。従って，数値での表現は実際的にはデジタル的表現によって行なうこともありスケールを読むことによって行なうこともあり，また，その指示は数値を用いないで，例えば測定されている変量が特性又は状態であるところの実在物（例．物体，物質，光ビーム）について感知し得る何らかの特性（変量）によって又はそのような特性に類似するもの（例．スケールをもたない部材の対応位置，何らかの手段によって発生される対応電圧）によって，与えられることがある。<br>また，上記のような変量値指示が行なわれずに単に基準又はデータ（その値は数値的に既知のこともあり未知のこともある）に関しての異同を示すだけのことも多くある。この基準又はデータは同一性質であるが異なる実在物（例．標準器）の値のこともあり，或いは異なる時点での同一実在物の値であることもある。その最も単純な形態においては，測定は単にある状態又は性質，例えば運動（いずれかの方向又は特定の方向における）の有無を指示するだけのこともあるし，また，変量が既定値を超えるかどうかを指示するだけのこともある。<br>（３）“マイクロ構造の装置”および“マイクロ構造のシステム”に関する，クラスＢ８１およびサブクラスＢ８１Ｂの両タイトルの後の注に注意すること。［７］<br>（４）セクションＧのタイトルに続く注，特に“変量”という用語の定義については注意はすること。<br>（５）多くの測定装置において，測定すべき第一の変量は第二の変量またはさらなる変量に変換される。第二の変量またはさらなる変量は，第一の変量に関係して構成部材に生じた状態，または構成部材の変位であるかもしれない。そして，さらに変換が必要となるかもしれない。［６］<br>このような装置を分類するときは，（ｉ）重要である特定の変換ステップ，または重要である個々の変換ステップを分類するか，または（ｉｉ）全体としてのシステムのみが重要な場合は，第一の変量を該当する箇所に分類する。［６］<br>これは２つ以上の変換が起こる場合に特に重要である。たとえば，第一の変量（例．圧力）が第二の変量（例．感知体の光学的特性）に変換され，さらにその第二の変量が第三の変量（例．電気的効果）で示されるような場合である。このような場合には，次の分類箇所を考慮しなければならない：<br>第一の変量の変換についての分類場所，その変量により生じた状態を感知することについての分類場所，測定を示すＧ０１Ｄ，そして最後に，該当する場合は，システム全体を分類する場所である。［６］<br>（６）物理的特性の値の変化の測定は，その物理的特性の測定と同一のサブクラスに分類する。例えば，長さの伸びの測定はサブクラスＧ０１Ｂに分類する。",
+      "en": "MEASURING; TESTING; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This class <u>covers</u>, in addition to \"true\" measuring instruments, other indicating or recording devices of analogous construction, and also signalling or control devices insofar as they are concerned with measurement (as defined in Note 2 below) and are not specially adapted to the particular purpose of signalling or control.</li><li>In this class, the following term is used with the meaning indicated: <ul><li>\"measuring\" is used to cover considerably more than its primary or basic meaning. In this primary sense, it means finding a numerical expression of the value of a variable in relation to a unit or datum or to another variable of the same nature, e.g. expressing a length in terms of another length as in measuring a length with a scale; the value may be obtained directly (as just suggested) or by measuring some other variable of which the value can be related to the value of the required variable, as in measuring a change in temperature by measuring a resultant change in the length of a column of mercury. However, since the same device or instrument may, instead of giving an immediate indication, be used to produce a record or to initiate a signal to produce an indication or control effect, or may be used in combination with other devices or instruments to give a conjoint result from measurement of two or more variables of the same or different kinds, it is necessary to interpret \"measuring\" as including also any operation that would make it possible to obtain such a numerical expression by the additional use of some way of converting a value into figures. Thus the expression in figures may be actually made by a digital presentation or by reading a scale, or an indication of it may be given without the use of figures, e.g. by some perceptible feature (variable) of the entity (e.g. object, substance, beam of light) of which the variable being measured is a property or condition or by an analogue of such a feature (e.g. the corresponding position of a member without any scale, a corresponding voltage generated in some way). In many cases there is no such value indication but only an indication of difference or equality in relation to a standard or datum (of which the value may or may not be known in figures); the standard or datum may be the value of another variable of the same nature but of a different entity (e.g. a standard measure) or of the same entity at a different time. <ul><li>In its simplest form, measurement may give merely an indication of presence or absence of a certain condition or quality, e.g. movement (in any direction or in a particular direction), or whether a variable exceeds a predetermined value.</li></ul></li></ul></li><li>Attention is drawn to the Notes following the titles of class <b>B81</b> and subclass <b>B81B</b> relating to \"microstructural devices\" and \"microstructural systems\" and the Notes following the title of subclass <b>B82B</b> relating to \"nanostructures\".</li><li>Attention is drawn to the Notes following the title of section <b>G</b>, especially as regards the definition of the term \"variable\".</li><li>In many measuring arrangements, a first variable to be measured is transformed into a second, or further, variables. The second, or further, variables may be (a) a condition related to the first variable and produced in a member, or (b) a displacement of a member. Further transformation may be needed. <ul><li>When classifying such an arrangement, (i) the transformation step, or each transformation step, that is of interest is classified, or (ii) if interest lies only in the system as a whole, the first variable is classified in the appropriate place.</li><li>This is particularly important where two or more conversions take place, for instance where a first variable, for example pressure, is transformed into a second variable, for example an optical property of a sensing body, and that second variable is expressed by means of a third variable, for example an electric effect. In such a case, the following classification places should be considered: the place for the transformation of the first variable, that for sensing the condition caused by that variable, subclass <b>G01D</b> for expression of the measurement, and finally the place for the overall system, if any.</li></ul></li><li>The measurement of change in the value of a physical property is classified in the same subclass as the measurement of that physical property, e.g. measurement of expansion of length is classified in subclass <b>G01B</b>.</li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G": {
+      "code": "G",
+      "level": 0,
+      "parent": null,
+      "ja": "物理学<br><br><b><ul>注</ul></b><br>１．このセクションにおいては，下記の用語は以下に示す意味で用いる：<br>・“変量”は名詞として，特定の実在物，例．物体，ある量の物質，光ビーム，に関し特定の瞬間に測定することの可能な特性又は特質，例．寸法，温度等の物理的状態，密度又は色等の性質，を意味する。変量が変化すると，その数値的表現は異なる時点で，異なる状態又は個々の状況において異なる値をとることもあり，また，ある状態のもとで又は実用上特定の実在物に関して一定でありうる，例．バーの長さが多くの目的のために一定とみなされる，こともある。<br>２．使用される用語または表現の定義に注意すること。このセクションのいくつかのクラスの注に使用されているものについて，特にクラスＧ０１の“測定”を参照されたい．ＩＰＣ指針パラグラフ１８７の中にあるものについて，“制御”及び“調整”の定義に参照されたい。<br>３．このセクションにおける分類は他のセクションにおいてよりもめんどうな場合があり得る，というのは，その一つは，いろいろな使用分野の差異の判別には構造上の差異又は使用形態上の差異よりも寧ろ使用者の意図における差異の方にかなりの程度影響されてしまうからであり，もう一つは，扱う主題が容易に全体として識別できる“もの”であるよりも，特性又は部品が他の主題のものと共通のものを有しているシステム又は組合わせであることが実際上多いからである。例えば，情報（例．一連の数値）をディスプレイするのは，クラスＧ０９に包含される，教育又は広告のため，クラスＧ０１に包含される，測定の結果が通知されうるため，クラスＧ０８に包含される，遠隔地点に情報を合図するため，又は遠隔地点から合図された情報を提供するためである。目的を記述するために使用する言葉は，当該装置の形態に無関係なこともあり得る特性－例えば，ディスプレイを見る者にとって望ましい効果とか，ディスプレイが遠隔地点から制御されるかどうかという特性－によって決定される。さらに，ある状態，例えば流体圧の変化に応答する装置は，その装置そのものには変更を加えずして，サブクラスＧ０１Ｌに包含される圧力又はＧ０１の他のサブクラスに包含される圧力に関連した他の何らかの状態，例．温度に関してＧ０１Ｋ，についての情報を与えるため，サブクラスＧ０７Ｃに包含される圧力または圧力発生の記録をするため，サブクラスＧ０８Ｂに包含される警報を発するため，又はクラスＧ０５に包含される他の何らかの装置を制御するために用いられることがある。<br>　本分類表は，前述したように，同一の性質のものは同一箇所に分類し得るようにしたものである。従って，技術主題が適切箇所に分類されるためには予めその真正な本質を把握することが特に必要である。",
+      "en": "PHYSICS; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this section, the following term is used with the meaning indicated: <ul><li>\"variable\" as a noun means a feature or property, e.g. a dimension, a physical condition such as temperature, a quality such as density or colour, which, in respect of a particular entity, e.g. an object, a quantity of a substance, a beam of light, and at a particular instant, is capable of being measured; the variable may change, so that its numerical expression may assume different values at different times, in different conditions or in individual cases, but may be constant in respect of a particular entity in certain conditions or for practical purposes, e.g. the length of a bar may be regarded as constant for many purposes.</li></ul></li><li>Attention is drawn to the definitions of terms or expressions used. Some appear in the notes of several of the classes in this section, see in particular the definition of \"measuring\" in class <b>G01</b>. Others appear in paragraph 187 of the Guide to the IPC, see in particular the definitions of \"control\" and \"regulation\".</li><li>Classification in this section may present more difficulty than in other sections, because the distinction between different fields of use rests to a considerable extent on differences in the intention of the user rather than on any constructional differences or differences in the manner of use, and because the subjects dealt with are often in effect systems or combinations, which have features or parts in common, rather than \"things\", which are readily distinguishable as a whole. For example, information, e.g. a set of figures, may be displayed for the purpose of education or advertising covered by class <b>G09</b>, for enabling the result of a measurement to be known covered by class <b>G01</b>, for signalling the information to a distant point or for giving information which has been signalled from a distant point covered by class <b>G08</b>. The words used to describe the purpose depend on features that may be irrelevant to the form of the apparatus concerned, for example, such features as the desired effect on the person who sees the display, or whether the display is controlled from a remote point. Again, a device which responds to some change in a condition, e.g. in the pressure of a fluid, may be used, without modification of the device itself, to give information about the pressure covered by subclass <b>G01L</b> or about some other condition linked to the pressure covered by another subclass of class <b>G01</b>, e.g. <b>G01K</b> for temperature, to make a record of the pressure or of its occurrence covered by subclass <b>G07C</b>, to give an alarm covered by subclass <b>G08B</b>, or to control another apparatus covered by class <b>G05</b>. <ul><li>The classification scheme is intended to enable things of a similar nature, as indicated above, to be classified together. It is therefore particularly necessary for the real nature of any technical subject to be decided before it can be properly classified.</li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G01F1/00": {
+      "code": "G01F1/00",
+      "level": 0,
+      "parent": "G01F",
+      "ja": "流体が連続流で計器を通過するときの流体もしくは流動性固体の体積流量または質量流量の測定（体積流量の比例の測定Ｇ０１Ｆ５／００　）［２０２２．０１］<br><br><b><ul>注</ul></b><br>グループ１／７０４から１／７６はグループ１／０５から１／６８に優先する。［２］",
+      "en": "Measuring the volume flow or mass flow of fluid or fluent solid material wherein the fluid passes through a meter in a continuous flow(measuring a proportion of the volume flow <b>G01F5/00</b>)",
+      "count": 16779,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F1/002": {
+      "code": "G01F1/002",
+      "level": 1,
+      "parent": "G01F1/00",
+      "ja": "流れが開水路の流れであるもの［２０２２．０１］",
+      "en": "wherein the flow is in an open channel",
+      "count": 831,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F1/05": {
+      "code": "G01F1/05",
+      "level": 1,
+      "parent": "G01F1/00",
+      "ja": "機械的な効果を使用するもの［２］",
+      "en": "by using mechanical effects",
+      "count": 2688,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F1/06": {
+      "code": "G01F1/06",
+      "level": 2,
+      "parent": "G01F1/05",
+      "ja": "接線式の回転翼を使用するもの［２］",
+      "en": "using rotating vanes with tangential admission",
+      "count": 2259,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F1/07": {
+      "code": "G01F1/07",
+      "level": 3,
+      "parent": "G01F1/06",
+      "ja": "指示装置と機械的結合をもつもの［２］",
+      "en": "with mechanical coupling to the indicating device",
+      "count": 374,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F1/075": {
+      "code": "G01F1/075",
+      "level": 3,
+      "parent": "G01F1/06",
+      "ja": "指示装置と磁気的または電気的結合をもつもの［２］",
+      "en": "with magnetic or electromagnetic coupling to the indicating device",
+      "count": 1431,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F1/08": {
+      "code": "G01F1/08",
+      "level": 3,
+      "parent": "G01F1/06",
+      "ja": "そのための調整，補正または補償手段［２］",
+      "en": "Adjusting, correcting, or compensating means therefor",
+      "count": 492,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F1/10": {
+      "code": "G01F1/10",
+      "level": 2,
+      "parent": "G01F1/05",
+      "ja": "軸流式の回転翼を使用するもの［２］",
+      "en": "using rotating vanes with axial admission",
+      "count": 2177,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F1/11": {
+      "code": "G01F1/11",
+      "level": 3,
+      "parent": "G01F1/10",
+      "ja": "指示装置と機械的結合をもつもの［２］",
+      "en": "with mechanical coupling to the indicating device",
+      "count": 246,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F1/115": {
+      "code": "G01F1/115",
+      "level": 3,
+      "parent": "G01F1/10",
+      "ja": "指示装置と磁気的または電気的結合をもつもの［２］",
+      "en": "with magnetic or electromagnetic coupling to the indicating device",
+      "count": 1377,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F1/12": {
+      "code": "G01F1/12",
+      "level": 3,
+      "parent": "G01F1/10",
+      "ja": "そのための調整，補正または補償手段",
+      "en": "Adjusting, correcting, or compensating means therefor",
+      "count": 710,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F1/20": {
+      "code": "G01F1/20",
+      "level": 2,
+      "parent": "G01F1/05",
+      "ja": "流れの力学的効果を検出することによるもの［２００６．０１］",
+      "en": "by detection of dynamic effects of the flow",
+      "count": 2800,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F1/22": {
+      "code": "G01F1/22",
+      "level": 3,
+      "parent": "G01F1/20",
+      "ja": "面積流量計［２］",
+      "en": "by variable-area meters",
+      "count": 1964,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F1/24": {
+      "code": "G01F1/24",
+      "level": 4,
+      "parent": "G01F1/22",
+      "ja": "指示装置と磁気的または電気的結合をもつもの［２］",
+      "en": "with magnetic or electric coupling to the indicating device",
+      "count": 801,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F1/26": {
+      "code": "G01F1/26",
+      "level": 4,
+      "parent": "G01F1/22",
+      "ja": "弁型のもの［２］",
+      "en": "of the valve type",
+      "count": 544,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F1/28": {
+      "code": "G01F1/28",
+      "level": 3,
+      "parent": "G01F1/20",
+      "ja": "牽引力によるもの，例．ベーン型または衝撃式流量計［２］",
+      "en": "by drag-force, e.g. vane type or impact flowmeter",
+      "count": 3680,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F1/30": {
+      "code": "G01F1/30",
+      "level": 4,
+      "parent": "G01F1/28",
+      "ja": "流動性固体用［２］",
+      "en": "for fluent solid material",
+      "count": 361,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F1/32": {
+      "code": "G01F1/32",
+      "level": 3,
+      "parent": "G01F1/20",
+      "ja": "渦型流量計を用いるもの［２０２２．０１］",
+      "en": "using swirl flowmeters",
+      "count": 5878,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F1/325": {
+      "code": "G01F1/325",
+      "level": 4,
+      "parent": "G01F1/32",
+      "ja": "渦を間接的に示す変量を検出するための手段［２０２２．０１］",
+      "en": "Means for detecting quantities used as proxy variables for swirl",
+      "count": 105,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F1/34": {
+      "code": "G01F1/34",
+      "level": 2,
+      "parent": "G01F1/05",
+      "ja": "圧力または差圧測定によるもの［２］",
+      "en": "by measuring pressure or differential pressure",
+      "count": 5149,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F1/36": {
+      "code": "G01F1/36",
+      "level": 3,
+      "parent": "G01F1/34",
+      "ja": "圧力または差圧が絞りを用いることにより作られるもの［２］",
+      "en": "the pressure or differential pressure being created by the use of flow constriction",
+      "count": 3498,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F1/37": {
+      "code": "G01F1/37",
+      "level": 4,
+      "parent": "G01F1/36",
+      "ja": "圧力または差圧が連通管または可動液面を伴なう槽によって測定されるもの，例．Ｕ字管によるもの［２］",
+      "en": "the pressure or differential pressure being measured by means of communicating tubes or reservoirs with movable fluid levels, e.g. by U-tubes",
+      "count": 938,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F1/38": {
+      "code": "G01F1/38",
+      "level": 4,
+      "parent": "G01F1/36",
+      "ja": "圧力または差圧が可動部材によって測定されるもの，例．ダイアフラム，ピストン，ブルドン管または可撓性のカプセル［２］",
+      "en": "the pressure or differential pressure being measured by means of a movable element, e.g. diaphragm, piston, Bourdon tube or flexible capsule",
+      "count": 1321,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F1/40": {
+      "code": "G01F1/40",
+      "level": 4,
+      "parent": "G01F1/36",
+      "ja": "流れ絞り装置の構造の細部［２］",
+      "en": "Details of construction of the flow constriction devices",
+      "count": 1408,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F1/42": {
+      "code": "G01F1/42",
+      "level": 5,
+      "parent": "G01F1/40",
+      "ja": "オリフィスまたはノズル［２］",
+      "en": "Orifices or nozzles",
+      "count": 2252,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F1/44": {
+      "code": "G01F1/44",
+      "level": 5,
+      "parent": "G01F1/40",
+      "ja": "ベンチュリー管［２］",
+      "en": "Venturi tubes",
+      "count": 1363,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F1/46": {
+      "code": "G01F1/46",
+      "level": 5,
+      "parent": "G01F1/40",
+      "ja": "ピトー管［２］",
+      "en": "Pitot tubes",
+      "count": 1226,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F1/48": {
+      "code": "G01F1/48",
+      "level": 3,
+      "parent": "G01F1/34",
+      "ja": "圧力または差圧が毛細管部材によって作られるもの［２］",
+      "en": "the pressure or differential pressure being created by a capillary element",
+      "count": 363,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F1/50": {
+      "code": "G01F1/50",
+      "level": 3,
+      "parent": "G01F1/34",
+      "ja": "補正または補償手段［２］",
+      "en": "Correcting or compensating means",
+      "count": 905,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F1/52": {
+      "code": "G01F1/52",
+      "level": 2,
+      "parent": "G01F1/05",
+      "ja": "流体流の揚力による液面の高さを測定することによるもの［２］",
+      "en": "by measuring the height of the fluid level due to the lifting power of the fluid flow",
+      "count": 1561,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F1/54": {
+      "code": "G01F1/54",
+      "level": 2,
+      "parent": "G01F1/05",
+      "ja": "流れによって導びかれ，そして動かされる鎖，可撓性の帯またはワイヤーの手段によるもの［２］",
+      "en": "by means of chains, flexible bands, or wires introduced into, and moved by, the flow",
+      "count": 71,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F1/56": {
+      "code": "G01F1/56",
+      "level": 1,
+      "parent": "G01F1/00",
+      "ja": "電気的または磁気的な効果を使用するもの（Ｇ０１Ｆ１／６６が優先）［２］",
+      "en": "by using electric or magnetic effects(<b>G01F1/66</b> takes precedence)",
+      "count": 2869,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F1/58": {
+      "code": "G01F1/58",
+      "level": 2,
+      "parent": "G01F1/56",
+      "ja": "電磁流量計［２］",
+      "en": "by electromagnetic flowmeters",
+      "count": 9008,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F1/60": {
+      "code": "G01F1/60",
+      "level": 3,
+      "parent": "G01F1/58",
+      "ja": "そのための回路［２］",
+      "en": "Circuits therefor",
+      "count": 2170,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F1/64": {
+      "code": "G01F1/64",
+      "level": 2,
+      "parent": "G01F1/56",
+      "ja": "流体流中を流れる電流を測定することによるもの；流体流によって生じる電位を測定することによるもの，例．電気化学的な，接触，または摩擦効果によるもの（Ｇ０１Ｆ１／５８が優先）［２］",
+      "en": "by measuring electrical currents passing through the fluid flow; by measuring electrical potential generated by the fluid flow, e.g. by electrochemical, contact, or friction effects(<b>G01F1/58</b> takes precedence)",
+      "count": 1102,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F1/66": {
+      "code": "G01F1/66",
+      "level": 1,
+      "parent": "G01F1/00",
+      "ja": "電磁波または他の波の周波数，位相変化または伝播時間を測定することによるもの，例．超音波流量計［２０２２．０１］",
+      "en": "by measuring frequency, phase shift or propagation time of electromagnetic or other waves, e.g. using ultrasonic flowmeters",
+      "count": 15008,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F1/661": {
+      "code": "G01F1/661",
+      "level": 2,
+      "parent": "G01F1/66",
+      "ja": "光を用いるもの［２０２２．０１］",
+      "en": "using light",
+      "count": 306,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F1/663": {
+      "code": "G01F1/663",
+      "level": 2,
+      "parent": "G01F1/66",
+      "ja": "ドップラー周波数変化を測定することによるもの［２０２２．０１］",
+      "en": "by measuring Doppler frequency shift",
+      "count": 231,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F1/667": {
+      "code": "G01F1/667",
+      "level": 2,
+      "parent": "G01F1/66",
+      "ja": "超音波流量計の振動子の配置；超音波流量計を動作させるための回路［２０２２．０１］",
+      "en": "Arrangements of transducers for ultrasonic flowmeters; Circuits for operating ultrasonic flowmeters",
+      "count": 2853,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F1/68": {
+      "code": "G01F1/68",
+      "level": 1,
+      "parent": "G01F1/00",
+      "ja": "熱的効果を使用するもの［２］",
+      "en": "by using thermal effects",
+      "count": 6337,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F1/684": {
+      "code": "G01F1/684",
+      "level": 2,
+      "parent": "G01F1/68",
+      "ja": "構造配置；素子の取付け，例．流体流量に関連しているもの［６］",
+      "en": "Structural arrangements; Mounting of elements, e.g. in relation to fluid flow",
+      "count": 5120,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F1/688": {
+      "code": "G01F1/688",
+      "level": 3,
+      "parent": "G01F1/684",
+      "ja": "加熱，冷却または感知要素の特殊な型式を用いるもの［６］",
+      "en": "using a particular type of heating, cooling or sensing element",
+      "count": 907,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F1/69": {
+      "code": "G01F1/69",
+      "level": 4,
+      "parent": "G01F1/688",
+      "ja": "抵抗型の［６］",
+      "en": "of resistive type",
+      "count": 1675,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F1/692": {
+      "code": "G01F1/692",
+      "level": 5,
+      "parent": "G01F1/69",
+      "ja": "薄膜構造［６］",
+      "en": "Thin-film arrangements",
+      "count": 1967,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F1/696": {
+      "code": "G01F1/696",
+      "level": 2,
+      "parent": "G01F1/68",
+      "ja": "そのための回路，例．定電流流量メーター［６］",
+      "en": "Circuits therefor, e.g. constant-current flow meters",
+      "count": 1803,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F1/698": {
+      "code": "G01F1/698",
+      "level": 3,
+      "parent": "G01F1/696",
+      "ja": "帰還回路または再平衡回路，例．自己加熱定温流量メーター［６］",
+      "en": "Feedback or rebalancing circuits, e.g. self heated constant temperature flowmeters",
+      "count": 1475,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F1/699": {
+      "code": "G01F1/699",
+      "level": 4,
+      "parent": "G01F1/698",
+      "ja": "別個の加熱または冷却要素の制御によるもの［６］",
+      "en": "by control of a separate heating or cooling element",
+      "count": 213,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F1/704": {
+      "code": "G01F1/704",
+      "level": 1,
+      "parent": "G01F1/00",
+      "ja": "流体流中にマークした領域または存在する不均一性，例．統計的に流体パラメータに生ずる変化，を用いるもの（Ｇ０１Ｆ１／７６，Ｇ０１Ｆ２５／００が優先）［２００６．０１］",
+      "en": "using marked regions or existing inhomogeneities within the fluid stream, e.g. statistically occurring variations in a fluid parameter(<b>G01F1/76</b>, <b>G01F25/00</b> take precedence)",
+      "count": 955,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F1/708": {
+      "code": "G01F1/708",
+      "level": 2,
+      "parent": "G01F1/704",
+      "ja": "一定距離を走行する時間を測定するもの［２０２２．０１］",
+      "en": "Measuring the time taken to traverse a fixed distance",
+      "count": 624,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F1/7082": {
+      "code": "G01F1/7082",
+      "level": 3,
+      "parent": "G01F1/708",
+      "ja": "音響的検出装置を用いるもの［２０２２．０１］",
+      "en": "using acoustic detecting arrangements",
+      "count": 195,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F1/7084": {
+      "code": "G01F1/7084",
+      "level": 3,
+      "parent": "G01F1/708",
+      "ja": "熱的検出装置を用いるもの［２０２２．０１］",
+      "en": "using thermal detecting arrangements",
+      "count": 186,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F1/7086": {
+      "code": "G01F1/7086",
+      "level": 3,
+      "parent": "G01F1/708",
+      "ja": "光学的検出装置を用いるもの［２０２２．０１］",
+      "en": "using optical detecting arrangements",
+      "count": 327,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F1/7088": {
+      "code": "G01F1/7088",
+      "level": 3,
+      "parent": "G01F1/708",
+      "ja": "トレーサーとして荷電粒子を用いるもの［２０２２．０１］",
+      "en": "using electrically charged particles as tracers",
+      "count": 97,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F1/712": {
+      "code": "G01F1/712",
+      "level": 3,
+      "parent": "G01F1/708",
+      "ja": "自己相関検出手段または相互相関検出手段を使用するもの［２００６．０１］",
+      "en": "using auto-correlation or cross-correlation detection means",
+      "count": 552,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F1/716": {
+      "code": "G01F1/716",
+      "level": 3,
+      "parent": "G01F1/708",
+      "ja": "電子常磁性共鳴［ＥＰＲ］または核磁気共鳴［ＮＭＲ］を用いるもの［２００６．０１］",
+      "en": "using electron paramagnetic resonance [EPR] or nuclear magnetic resonance [NMR]",
+      "count": 204,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F1/72": {
+      "code": "G01F1/72",
+      "level": 1,
+      "parent": "G01F1/00",
+      "ja": "脈動する流体流を測定するための装置［２］",
+      "en": "Devices for measuring pulsing fluid flows",
+      "count": 806,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F1/74": {
+      "code": "G01F1/74",
+      "level": 1,
+      "parent": "G01F1/00",
+      "ja": "他の流体中に浮遊している流体の流量または流動性固体の流量を測定するための装置［２］",
+      "en": "Devices for measuring flow of a fluid or flow of a fluent solid material in suspension in another fluid",
+      "count": 2816,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F1/76": {
+      "code": "G01F1/76",
+      "level": 1,
+      "parent": "G01F1/00",
+      "ja": "流体または流動性固体の質量流量を測定するための装置［２］",
+      "en": "Devices for measuring mass flow of a fluid or a fluent solid material",
+      "count": 1626,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F1/78": {
+      "code": "G01F1/78",
+      "level": 2,
+      "parent": "G01F1/76",
+      "ja": "直接的質量流量計［２］",
+      "en": "Direct mass flowmeters",
+      "count": 659,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F1/80": {
+      "code": "G01F1/80",
+      "level": 3,
+      "parent": "G01F1/78",
+      "ja": "回転運動が得られるところの流体の流れの圧力，力，運動量または周波数を測定することによって作動するもの［２］",
+      "en": "operating by measuring pressure, force, momentum, or frequency of a fluid flow to which a rotational movement has been imparted",
+      "count": 559,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F1/82": {
+      "code": "G01F1/82",
+      "level": 4,
+      "parent": "G01F1/80",
+      "ja": "翼車の如き駆動される回転輪と，弾性部材，例．バネ部材，によって角度的に制動された一つもしくはそれ以上の回転輪または可動素子を測定装置として用いるもの［２］",
+      "en": "using a driven wheel as impeller and one or more other wheels or moving elements which are angularly restrained by a resilient member, e.g. spring member, as the measuring device",
+      "count": 172,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F1/84": {
+      "code": "G01F1/84",
+      "level": 4,
+      "parent": "G01F1/80",
+      "ja": "コリオリ式またはジャイロスコープ式質量流量計［２］",
+      "en": "Coriolis or gyroscopic mass flowmeters",
+      "count": 3227,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F1/86": {
+      "code": "G01F1/86",
+      "level": 2,
+      "parent": "G01F1/76",
+      "ja": "間接的質量流量計，例．体積流量と密度，温度または圧力を測るもの［２］",
+      "en": "Indirect mass flowmeters, e.g. measuring volume flow and density, temperature, or pressure",
+      "count": 2090,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F1/88": {
+      "code": "G01F1/88",
+      "level": 3,
+      "parent": "G01F1/86",
+      "ja": "体積流量を決定するために差圧測定を行なうもの［２］",
+      "en": "with differential-pressure measurement to determine the volume flow",
+      "count": 701,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F1/90": {
+      "code": "G01F1/90",
+      "level": 3,
+      "parent": "G01F1/86",
+      "ja": "体積流量を決定するために正の変位計またはタービンメータを用いるもの［２］",
+      "en": "with positive-displacement meter or turbine meter to determine the volume flow",
+      "count": 187,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F3/00": {
+      "code": "G01F3/00",
+      "level": 0,
+      "parent": "G01F",
+      "ja": "流れにより駆動される計器で，その計器を流体が連続してかつ幾分かの量あてに隔離されて通過するときの流体または流動性固体の体積流量の測定（体積流量の比例の測定Ｇ０１Ｆ５／００）",
+      "en": "Measuring the volume flow of fluids or fluent solid material wherein the fluid passes through the meter in successive and more or less isolated quantities, the meter being driven by the flow(measuring a proportion of the volume flow <b>G01F5/00</b>)",
+      "count": 1108,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F3/02": {
+      "code": "G01F3/02",
+      "level": 1,
+      "parent": "G01F3/00",
+      "ja": "測定中に膨張または収縮する測定室をもつもの",
+      "en": "with measuring chambers which expand or contract during measurement",
+      "count": 119,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F3/04": {
+      "code": "G01F3/04",
+      "level": 2,
+      "parent": "G01F3/02",
+      "ja": "堅い可動壁をもつもの",
+      "en": "having rigid movable walls",
+      "count": 80,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F3/06": {
+      "code": "G01F3/06",
+      "level": 3,
+      "parent": "G01F3/04",
+      "ja": "ハウジング内で流体密なまたは実質的に流体密な方法で回転する要素からなるもの",
+      "en": "comprising members rotating in a fluid-tight or substantially fluid-tight manner in a housing",
+      "count": 380,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F3/08": {
+      "code": "G01F3/08",
+      "level": 4,
+      "parent": "G01F3/06",
+      "ja": "ロータリーピストンまたはリングピストン型流量計",
+      "en": "Rotary-piston or ring-piston meters",
+      "count": 486,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F3/10": {
+      "code": "G01F3/10",
+      "level": 4,
+      "parent": "G01F3/06",
+      "ja": "歯車型または突子型流量計",
+      "en": "Geared or lobed impeller meters",
+      "count": 1124,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F3/12": {
+      "code": "G01F3/12",
+      "level": 4,
+      "parent": "G01F3/06",
+      "ja": "章動素子，例．円板，をもつ流量計",
+      "en": "Meters with nutating members, e.g. discs",
+      "count": 252,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F3/14": {
+      "code": "G01F3/14",
+      "level": 3,
+      "parent": "G01F3/04",
+      "ja": "往復運動，例．回転体における往復運動，ピストンから成るもの",
+      "en": "comprising reciprocating pistons, e.g. reciprocating in a rotating body",
+      "count": 232,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F3/16": {
+      "code": "G01F3/16",
+      "level": 4,
+      "parent": "G01F3/14",
+      "ja": "静止シリンダにおけるもの",
+      "en": "in stationary cylinders",
+      "count": 547,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F3/18": {
+      "code": "G01F3/18",
+      "level": 5,
+      "parent": "G01F3/16",
+      "ja": "複数のシリンダを含むもの",
+      "en": "involving two or more cylinders",
+      "count": 490,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F3/20": {
+      "code": "G01F3/20",
+      "level": 2,
+      "parent": "G01F3/02",
+      "ja": "可撓性可動壁，例．ダイヤフラム，ベローズ，をもつもの",
+      "en": "having flexible movable walls, e.g. diaphragms, bellows",
+      "count": 504,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F3/22": {
+      "code": "G01F3/22",
+      "level": 3,
+      "parent": "G01F3/20",
+      "ja": "ガス用",
+      "en": "for gases",
+      "count": 5511,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F3/24": {
+      "code": "G01F3/24",
+      "level": 1,
+      "parent": "G01F3/00",
+      "ja": "作動中動く測定室をもつもの（湿式ガスメータＧ０１Ｆ３／３０）",
+      "en": "with measuring chambers moved during operation(wet gas-meters <b>G01F3/30</b>)",
+      "count": 118,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F3/26": {
+      "code": "G01F3/26",
+      "level": 2,
+      "parent": "G01F3/24",
+      "ja": "傾斜流量計",
+      "en": "Tilting-trap meters",
+      "count": 178,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F3/28": {
+      "code": "G01F3/28",
+      "level": 2,
+      "parent": "G01F3/24",
+      "ja": "測定室中の液体の重量によって回転する運搬体によるもの",
+      "en": "on carriers rotated by the weight of the liquid in the measuring chambers",
+      "count": 259,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F3/30": {
+      "code": "G01F3/30",
+      "level": 1,
+      "parent": "G01F3/00",
+      "ja": "湿式ガスメータ",
+      "en": "Wet gas-meters",
+      "count": 450,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F3/32": {
+      "code": "G01F3/32",
+      "level": 2,
+      "parent": "G01F3/30",
+      "ja": "液体中で回転または章動する仕切りをつけられたドラムからなるもの",
+      "en": "comprising partitioned drums rotating or nutating in a liquid",
+      "count": 66,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F3/34": {
+      "code": "G01F3/34",
+      "level": 2,
+      "parent": "G01F3/30",
+      "ja": "液体中で往復運動するベルからなるもの",
+      "en": "comprising bells reciprocating in a liquid",
+      "count": 11,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F3/36": {
+      "code": "G01F3/36",
+      "level": 1,
+      "parent": "G01F3/00",
+      "ja": "測定中に一定体積を有し静止した測定室をもつもの（測定中に膨張または収縮する測定室をもつものＧ０１Ｆ３／０２）",
+      "en": "with stationary measuring chambers having constant volume during measurement(with measuring chambers which expand or contract during measurement <b>G01F3/02</b>)",
+      "count": 426,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F3/38": {
+      "code": "G01F3/38",
+      "level": 2,
+      "parent": "G01F3/36",
+      "ja": "ただ一つの測定室をもつもの",
+      "en": "having only one measuring chamber",
+      "count": 606,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F5/00": {
+      "code": "G01F5/00",
+      "level": 0,
+      "parent": "G01F",
+      "ja": "体積流量比の測定",
+      "en": "Measuring a proportion of the volume flow",
+      "count": 2051,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F7/00": {
+      "code": "G01F7/00",
+      "level": 0,
+      "parent": "G01F",
+      "ja": "複数の測定範囲をもつ体積流量測定装置；複合流量計",
+      "en": "Volume-flow measuring devices with two or more measuring ranges; Compound meters",
+      "count": 1874,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F9/00": {
+      "code": "G01F9/00",
+      "level": 0,
+      "parent": "G01F",
+      "ja": "他の変量と関連した体積流量の測定，例．エンジン用液体燃料の",
+      "en": "Measuring volume flow relative to another variable, e.g. of liquid fuel for an engine",
+      "count": 4289,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F9/02": {
+      "code": "G01F9/02",
+      "level": 1,
+      "parent": "G01F9/00",
+      "ja": "他の変量が車の速度であるもの",
+      "en": "wherein the other variable is the speed of a vehicle",
+      "count": 871,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F11/00": {
+      "code": "G01F11/00",
+      "level": 0,
+      "parent": "G01F",
+      "ja": "供給物または容器から所定容量の流体または流動性固体を，重量には関係なく，くりかえされる同一の操作のそれぞれにおいて測定し分離し旦つそれを送り出すために適応した外的操作部材を必要とする装置",
+      "en": "Apparatus requiring external operation adapted at each repeated and identical operation to measure and separate a predetermined volume of fluid or fluent solid material from a supply or container, without regard to weight, and to deliver it",
+      "count": 4192,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F11/02": {
+      "code": "G01F11/02",
+      "level": 1,
+      "parent": "G01F11/00",
+      "ja": "測定中に膨張または収縮する測定室をもつもの",
+      "en": "with measuring chambers which expand or contract during measurement",
+      "count": 2892,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F11/04": {
+      "code": "G01F11/04",
+      "level": 2,
+      "parent": "G01F11/02",
+      "ja": "フリーピストン型のもの",
+      "en": "of the free-piston type",
+      "count": 1274,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F11/06": {
+      "code": "G01F11/06",
+      "level": 3,
+      "parent": "G01F11/04",
+      "ja": "ピストンの行程を変える装置をもつもの",
+      "en": "with provision for varying the stroke of the piston",
+      "count": 631,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F11/08": {
+      "code": "G01F11/08",
+      "level": 2,
+      "parent": "G01F11/02",
+      "ja": "ダイヤフラムまたはベローズ型のもの",
+      "en": "of the diaphragm or bellows type",
+      "count": 1127,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F11/10": {
+      "code": "G01F11/10",
+      "level": 1,
+      "parent": "G01F11/00",
+      "ja": "作動中に動く測定室をもつもの",
+      "en": "with measuring chambers moved during operation",
+      "count": 589,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F11/12": {
+      "code": "G01F11/12",
+      "level": 2,
+      "parent": "G01F11/10",
+      "ja": "弁形式のもの，すなわち流体密または粉体密な運動によってなされる分離（供給容器の傾斜または転倒を含むものＧ０１Ｆ１１／２６）",
+      "en": "of the valve type, i.e. the separating being effected by fluid-tight or powder-tight movements(involving the tilting or inverting of the supply vessel <b>G01F11/26</b>)",
+      "count": 294,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F11/14": {
+      "code": "G01F11/14",
+      "level": 3,
+      "parent": "G01F11/12",
+      "ja": "測定室が往復運動するもの",
+      "en": "wherein the measuring chamber reciprocates",
+      "count": 102,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F11/16": {
+      "code": "G01F11/16",
+      "level": 4,
+      "parent": "G01F11/14",
+      "ja": "液体または半液体用",
+      "en": "for liquid or semiliquid",
+      "count": 243,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F11/18": {
+      "code": "G01F11/18",
+      "level": 4,
+      "parent": "G01F11/14",
+      "ja": "流動性固体用",
+      "en": "for fluent solid material",
+      "count": 624,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F11/20": {
+      "code": "G01F11/20",
+      "level": 3,
+      "parent": "G01F11/12",
+      "ja": "測定室が回転または振動するもの",
+      "en": "wherein the measuring chamber rotates or oscillates",
+      "count": 362,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F11/22": {
+      "code": "G01F11/22",
+      "level": 4,
+      "parent": "G01F11/20",
+      "ja": "液体または半液体用",
+      "en": "for liquid or semiliquid",
+      "count": 514,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F11/24": {
+      "code": "G01F11/24",
+      "level": 4,
+      "parent": "G01F11/20",
+      "ja": "流動性固体用",
+      "en": "for fluent solid material",
+      "count": 1634,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F11/26": {
+      "code": "G01F11/26",
+      "level": 2,
+      "parent": "G01F11/10",
+      "ja": "供給容器を傾斜または転倒することによって測定室が満たされ空にされるもの，例．びんを空にする装置",
+      "en": "wherein the measuring chamber is filled and emptied by tilting or inverting the supply vessel, e.g. bottle-emptying apparatus",
+      "count": 1922,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F11/28": {
+      "code": "G01F11/28",
+      "level": 1,
+      "parent": "G01F11/00",
+      "ja": "測定中に一定容積を有し，静止した測定室をもつもの",
+      "en": "with stationary measuring chambers having constant volume during measurement",
+      "count": 2854,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F11/30": {
+      "code": "G01F11/30",
+      "level": 2,
+      "parent": "G01F11/28",
+      "ja": "リフトまたはプラグリフト型の供給弁および排出弁をもつもの",
+      "en": "with supply and discharge valves of the lift or plug-lift type",
+      "count": 162,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F11/32": {
+      "code": "G01F11/32",
+      "level": 3,
+      "parent": "G01F11/30",
+      "ja": "液体または半液体用",
+      "en": "for liquid or semiliquid",
+      "count": 845,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F11/34": {
+      "code": "G01F11/34",
+      "level": 3,
+      "parent": "G01F11/30",
+      "ja": "流動性固体用",
+      "en": "for fluent solid material",
+      "count": 182,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F11/36": {
+      "code": "G01F11/36",
+      "level": 2,
+      "parent": "G01F11/28",
+      "ja": "直線的に動く摺動型の供給または排出弁をもつもの",
+      "en": "with supply or discharge valves of the rectilinearly-moved slide type",
+      "count": 129,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F11/38": {
+      "code": "G01F11/38",
+      "level": 3,
+      "parent": "G01F11/36",
+      "ja": "液体または半液体用",
+      "en": "for liquid or semiliquid",
+      "count": 199,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F11/40": {
+      "code": "G01F11/40",
+      "level": 3,
+      "parent": "G01F11/36",
+      "ja": "流動性固体用",
+      "en": "for fluent or solid material",
+      "count": 319,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F11/42": {
+      "code": "G01F11/42",
+      "level": 2,
+      "parent": "G01F11/28",
+      "ja": "回転または振動型の供給弁または排出弁をもつもの",
+      "en": "with supply or discharge valves of the rotary or oscillatory type",
+      "count": 145,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F11/44": {
+      "code": "G01F11/44",
+      "level": 3,
+      "parent": "G01F11/42",
+      "ja": "液体または半液体用",
+      "en": "for liquid or semiliquid",
+      "count": 422,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F11/46": {
+      "code": "G01F11/46",
+      "level": 3,
+      "parent": "G01F11/42",
+      "ja": "流動性固体用",
+      "en": "for fluent solid material",
+      "count": 406,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F13/00": {
+      "code": "G01F13/00",
+      "level": 0,
+      "parent": "G01F",
+      "ja": "前述のグループに分類されないもので流体または流動性固体を体積により測定しまたは供給する装置",
+      "en": "Apparatus for measuring by volume and delivering fluids or fluent solid materials, not provided for in the preceding groups",
+      "count": 5411,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F15/00": {
+      "code": "G01F15/00",
+      "level": 0,
+      "parent": "G01F",
+      "ja": "細部または器具がこのような装置の特殊な型に適合しないグループＧ０１Ｆ１／００～Ｇ０１Ｆ１３／００の装置の細部または付属品",
+      "en": "Details of, or accessories for, apparatus of groups <b>G01F1/00 to G01F13/00</b>  insofar as such details or appliances are not adapted to particular types of such apparatus",
+      "count": 20831,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F15/02": {
+      "code": "G01F15/02",
+      "level": 1,
+      "parent": "G01F15/00",
+      "ja": "圧力，密度，または温度の変化に対する補償または補正",
+      "en": "Compensating or correcting for variations in pressure, density, or temperature",
+      "count": 2722,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F15/04": {
+      "code": "G01F15/04",
+      "level": 2,
+      "parent": "G01F15/02",
+      "ja": "被測定ガスの",
+      "en": "of gases to be measured",
+      "count": 1720,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F15/06": {
+      "code": "G01F15/06",
+      "level": 1,
+      "parent": "G01F15/00",
+      "ja": "指示または記録装置［２０２２．０１］",
+      "en": "Indicating or recording devices",
+      "count": 11138,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F15/061": {
+      "code": "G01F15/061",
+      "level": 2,
+      "parent": "G01F15/06",
+      "ja": "遠隔指示用［２０２２．０１］",
+      "en": "for remote indication",
+      "count": 708,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F15/063": {
+      "code": "G01F15/063",
+      "level": 3,
+      "parent": "G01F15/061",
+      "ja": "電気的手段を用いるもの［２０２２．０１］",
+      "en": "using electrical means",
+      "count": 906,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F15/07": {
+      "code": "G01F15/07",
+      "level": 1,
+      "parent": "G01F15/00",
+      "ja": "全流量を与えるための積算，例．機械的に操作される積算機構を用いるもの［２］",
+      "en": "Integration to give total flow, e.g. using mechanically-operated integrating mechanism",
+      "count": 2537,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F15/075": {
+      "code": "G01F15/075",
+      "level": 2,
+      "parent": "G01F15/07",
+      "ja": "電気的に操作される積算手段を用いるもの［２］",
+      "en": "using electrically-operated integrating means",
+      "count": 2341,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F15/08": {
+      "code": "G01F15/08",
+      "level": 1,
+      "parent": "G01F15/00",
+      "ja": "液体用計器と結合した空気またはガス分離器；ガスメータと結合した液体分離器",
+      "en": "Air or gas separators in combination with liquid meters; Liquid separators in combination with gas-meters",
+      "count": 1121,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F15/10": {
+      "code": "G01F15/10",
+      "level": 1,
+      "parent": "G01F15/00",
+      "ja": "凍結または過不足な圧力による損害を予防すること",
+      "en": "Preventing damage by freezing or excess pressure or insufficient pressure",
+      "count": 2948,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F15/12": {
+      "code": "G01F15/12",
+      "level": 1,
+      "parent": "G01F15/00",
+      "ja": "清掃装置；フイルタ",
+      "en": "Cleaning arrangements; Filters",
+      "count": 5632,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F15/14": {
+      "code": "G01F15/14",
+      "level": 1,
+      "parent": "G01F15/00",
+      "ja": "ケーシング，例．特殊物質の",
+      "en": "Casings, e.g. of special material",
+      "count": 11412,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F15/16": {
+      "code": "G01F15/16",
+      "level": 1,
+      "parent": "G01F15/00",
+      "ja": "ダイヤフラム；ベローズ；その取付け",
+      "en": "Diaphragms; Bellows; Mountings therefor",
+      "count": 471,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F15/18": {
+      "code": "G01F15/18",
+      "level": 1,
+      "parent": "G01F15/00",
+      "ja": "計器用の支持または接続手段",
+      "en": "Supports or connecting means for meters",
+      "count": 15408,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F17/00": {
+      "code": "G01F17/00",
+      "level": 0,
+      "parent": "G01F",
+      "ja": "容器または中空体の容積，または固体の体積の測定のための方法または装置（体積を測定するために寸法を測定することＧ０１Ｂ）",
+      "en": "Methods or apparatus for determining the capacity of containers or cavities, or the volume of solid bodies(measuring linear dimensions to determine volume <b>G01B</b>)",
+      "count": 4427,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F19/00": {
+      "code": "G01F19/00",
+      "level": 0,
+      "parent": "G01F",
+      "ja": "流体または流動性固体のための目盛による容積測定器，例．計量カップ",
+      "en": "Calibrated capacity measures for fluids or fluent solid material, e.g. measuring cups",
+      "count": 6903,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F22/00": {
+      "code": "G01F22/00",
+      "level": 0,
+      "parent": "G01F",
+      "ja": "他に分類されない流体または流動性固体の体積を測定するための方法または装置［５］",
+      "en": "Methods or apparatus for measuring volume of fluids or fluent solid material, not otherwise provided for",
+      "count": 4353,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F22/02": {
+      "code": "G01F22/02",
+      "level": 1,
+      "parent": "G01F22/00",
+      "ja": "圧力測定を含むもの［５］",
+      "en": "involving measurement of pressure",
+      "count": 1272,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F23/00": {
+      "code": "G01F23/00",
+      "level": 0,
+      "parent": "G01F",
+      "ja": "液位または流動性固体のレベルの指示または測定，例．体積による指示または警報器による指示［２０２２．０１］",
+      "en": "Indicating or measuring liquid level or level of fluent solid material, e.g. indicating in terms of volume or indicating by means of an alarm",
+      "count": 27536,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F23/02": {
+      "code": "G01F23/02",
+      "level": 1,
+      "parent": "G01F23/00",
+      "ja": "被測定レベルまたは液体の主要部分と自由に連通している液柱のレベルを直接観察するための窓または透明管を含んでいるゲージグラスまたは他の装置によるもの",
+      "en": "by gauge glasses or other apparatus involving a window or transparent tube for directly observing the level to be measured or the level of a liquid column in free communication with the main body of the liquid",
+      "count": 5937,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F23/04": {
+      "code": "G01F23/04",
+      "level": 1,
+      "parent": "G01F23/00",
+      "ja": "浸漬素子，例．浸漬棒，によるもの",
+      "en": "by dip members, e.g. dip-sticks",
+      "count": 5773,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F23/14": {
+      "code": "G01F23/14",
+      "level": 1,
+      "parent": "G01F23/00",
+      "ja": "圧力測定によるもの",
+      "en": "by measurement of pressure",
+      "count": 6777,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F23/16": {
+      "code": "G01F23/16",
+      "level": 2,
+      "parent": "G01F23/14",
+      "ja": "機械的または流体的手段によって操作される指示，記録または警報装置，例．伝達素子としてのガス，水銀，またはダイヤフラムを使用するもの，または液柱によるもの",
+      "en": "Indicating, recording, or alarm devices being actuated by mechanical or fluid means, e.g. using gas, mercury, or a diaphragm as transmitting element, or by a column of liquid",
+      "count": 3140,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F23/18": {
+      "code": "G01F23/18",
+      "level": 2,
+      "parent": "G01F23/14",
+      "ja": "電気的に操作される指示，記録または警報装置",
+      "en": "Indicating, recording, or alarm devices actuated electrically",
+      "count": 2955,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F23/20": {
+      "code": "G01F23/20",
+      "level": 1,
+      "parent": "G01F23/00",
+      "ja": "重量測定によるもの，例．貯蔵液化ガスのレベル測定のためのもの",
+      "en": "by measurement of weight, e.g. to determine the level of stored liquefied gas",
+      "count": 1450,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F23/22": {
+      "code": "G01F23/22",
+      "level": 1,
+      "parent": "G01F23/00",
+      "ja": "被測定レベルによって定まる直線寸法，圧力または重量以外の物理的変量の測定によるもの，例．蒸気または水の熱伝達の差異によるもの（うきの使用を含むものＧ０１Ｆ２３／３０）［２００６．０１］",
+      "en": "by measuring physical variables, other than linear dimensions, pressure or weight, dependent on the level to be measured, e.g. by difference of heat transfer of steam or water(involving the use of floats <b>G01F23/30</b>)",
+      "count": 7664,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F23/24": {
+      "code": "G01F23/24",
+      "level": 2,
+      "parent": "G01F23/22",
+      "ja": "導電性流体と接触することによる抵抗器の抵抗変化の測定によるもの",
+      "en": "by measuring variations of resistance of resistors due to contact with conductor fluid",
+      "count": 8041,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F23/26": {
+      "code": "G01F23/26",
+      "level": 2,
+      "parent": "G01F23/22",
+      "ja": "電場または電磁場における液体または流動性固体の存在に起因するキャパシタまたはインダクタのキャパシタンスまたはインダクタンスの変化の測定によるもの　［２０２２．０１］",
+      "en": "by measuring variations of capacity or inductance of capacitors or inductors arising from the presence of liquid or fluent solid material in the electric or electromagnetic fields",
+      "count": 8342,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F23/263": {
+      "code": "G01F23/263",
+      "level": 3,
+      "parent": "G01F23/26",
+      "ja": "キャパシタのキャパシタンスの変化を測定することによるもの［２０２２．０１］",
+      "en": "by measuring variations in capacitance of capacitors",
+      "count": 1261,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F23/28": {
+      "code": "G01F23/28",
+      "level": 2,
+      "parent": "G01F23/22",
+      "ja": "液体または流動性固体に直接当てられた電磁波または音波のパラメータの変化の測定によるもの［２００６．０１］",
+      "en": "by measuring the variations of parameters of electromagnetic or acoustic waves applied directly to the liquid or fluent solid material",
+      "count": 5376,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F23/284": {
+      "code": "G01F23/284",
+      "level": 3,
+      "parent": "G01F23/28",
+      "ja": "電磁波［６］",
+      "en": "Electromagnetic waves",
+      "count": 6382,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F23/288": {
+      "code": "G01F23/288",
+      "level": 4,
+      "parent": "G01F23/284",
+      "ja": "Ｘ線；ガンマ線［６］",
+      "en": "X-rays; Gamma rays",
+      "count": 855,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F23/292": {
+      "code": "G01F23/292",
+      "level": 4,
+      "parent": "G01F23/284",
+      "ja": "光［６］",
+      "en": "Light",
+      "count": 7734,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F23/296": {
+      "code": "G01F23/296",
+      "level": 3,
+      "parent": "G01F23/28",
+      "ja": "音波［２０２２．０１］",
+      "en": "Acoustic waves",
+      "count": 8511,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F23/2962": {
+      "code": "G01F23/2962",
+      "level": 4,
+      "parent": "G01F23/296",
+      "ja": "反射波の伝播時間を測定するもの［２０２２．０１］",
+      "en": "Measuring transit time of reflected waves",
+      "count": 591,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F23/2965": {
+      "code": "G01F23/2965",
+      "level": 4,
+      "parent": "G01F23/296",
+      "ja": "伝送波の減衰を測定するもの［２０２２．０１］",
+      "en": "Measuring attenuation of transmitted waves",
+      "count": 55,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F23/30": {
+      "code": "G01F23/30",
+      "level": 1,
+      "parent": "G01F23/00",
+      "ja": "うきによるもの［４］",
+      "en": "by floats",
+      "count": 5321,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F23/32": {
+      "code": "G01F23/32",
+      "level": 2,
+      "parent": "G01F23/30",
+      "ja": "回転アームまたは他のピボットで支えうる伝達要素を用いるもの［４］",
+      "en": "using rotatable arms or other pivotable transmission elements",
+      "count": 1027,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F23/34": {
+      "code": "G01F23/34",
+      "level": 3,
+      "parent": "G01F23/32",
+      "ja": "機械的に作動される指示手段を用いるもの［４］",
+      "en": "using mechanically actuated indicating means",
+      "count": 956,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F23/36": {
+      "code": "G01F23/36",
+      "level": 3,
+      "parent": "G01F23/32",
+      "ja": "電気的に作動される指示手段を用いるもの［４］",
+      "en": "using electrically actuated indicating means",
+      "count": 2344,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F23/38": {
+      "code": "G01F23/38",
+      "level": 3,
+      "parent": "G01F23/32",
+      "ja": "磁気的に作動される指示手段を用いるもの［４］",
+      "en": "using magnetically actuated indicating means",
+      "count": 1133,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F23/40": {
+      "code": "G01F23/40",
+      "level": 2,
+      "parent": "G01F23/30",
+      "ja": "伝達要素としてバンドまたはワイヤを用いるもの［４］",
+      "en": "using bands or wires as transmission elements",
+      "count": 1065,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F23/42": {
+      "code": "G01F23/42",
+      "level": 3,
+      "parent": "G01F23/40",
+      "ja": "機械的に作動される指示手段を用いるもの［４］",
+      "en": "using mechanically actuated indicating means",
+      "count": 1395,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F23/44": {
+      "code": "G01F23/44",
+      "level": 3,
+      "parent": "G01F23/40",
+      "ja": "電気的に作動される指示手段を用いるもの［４］",
+      "en": "using electrically actuated indicating means",
+      "count": 1027,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F23/46": {
+      "code": "G01F23/46",
+      "level": 3,
+      "parent": "G01F23/40",
+      "ja": "磁気的に作動される指示手段を用いるもの［４］",
+      "en": "using magnetically actuated indicating means",
+      "count": 327,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F23/48": {
+      "code": "G01F23/48",
+      "level": 2,
+      "parent": "G01F23/30",
+      "ja": "伝達要素としてねじれスピンドルを用いるもの［４］",
+      "en": "using twisted spindles as transmission elements",
+      "count": 107,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F23/50": {
+      "code": "G01F23/50",
+      "level": 3,
+      "parent": "G01F23/48",
+      "ja": "機械的に作動される指示手段を用いるもの［４］",
+      "en": "using mechanically actuated indicating means",
+      "count": 202,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F23/52": {
+      "code": "G01F23/52",
+      "level": 3,
+      "parent": "G01F23/48",
+      "ja": "電気的に作動される指示手段を用いるもの［４］",
+      "en": "using electrically actuated indicating means",
+      "count": 120,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F23/54": {
+      "code": "G01F23/54",
+      "level": 3,
+      "parent": "G01F23/48",
+      "ja": "磁気的に作動される指示手段を用いるもの［４］",
+      "en": "using magnetically actuated indicating means",
+      "count": 70,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F23/56": {
+      "code": "G01F23/56",
+      "level": 2,
+      "parent": "G01F23/30",
+      "ja": "伝達要素として，うきに固着されてこれとともに直線的に動く要素を用いるもの［４］",
+      "en": "using elements rigidly fixed to, and rectilinearly moving with, the floats as transmission elements",
+      "count": 2050,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F23/58": {
+      "code": "G01F23/58",
+      "level": 3,
+      "parent": "G01F23/56",
+      "ja": "機械的に作動される指示手段を用いるもの［４］",
+      "en": "using mechanically actuated indicating means",
+      "count": 2293,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F23/60": {
+      "code": "G01F23/60",
+      "level": 3,
+      "parent": "G01F23/56",
+      "ja": "電気的に作動される指示手段を用いるもの［４］",
+      "en": "using electrically actuated indicating means",
+      "count": 2631,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F23/62": {
+      "code": "G01F23/62",
+      "level": 3,
+      "parent": "G01F23/56",
+      "ja": "磁気的に作動される指示手段を用いるもの［４］",
+      "en": "using magnetically actuated indicating means",
+      "count": 2818,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F23/64": {
+      "code": "G01F23/64",
+      "level": 2,
+      "parent": "G01F23/30",
+      "ja": "自由なうきの形式よりなるもの［４］",
+      "en": "of the free float type",
+      "count": 2069,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F23/66": {
+      "code": "G01F23/66",
+      "level": 3,
+      "parent": "G01F23/64",
+      "ja": "機械的に作動される指示手段を用いるもの［４］",
+      "en": "using mechanically actuated indicating means",
+      "count": 1465,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F23/68": {
+      "code": "G01F23/68",
+      "level": 3,
+      "parent": "G01F23/64",
+      "ja": "電気的に作動される指示手段を用いるもの［４］",
+      "en": "using electrically actuated indicating means",
+      "count": 1692,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F23/70": {
+      "code": "G01F23/70",
+      "level": 4,
+      "parent": "G01F23/68",
+      "ja": "離れた点においてのみレベルの変化を感知するもの［４］",
+      "en": "for sensing changes in level only at discrete points",
+      "count": 968,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F23/72": {
+      "code": "G01F23/72",
+      "level": 3,
+      "parent": "G01F23/64",
+      "ja": "磁気的に作動される指示手段を用いるもの［４］",
+      "en": "using magnetically actuated indicating means",
+      "count": 2888,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F23/74": {
+      "code": "G01F23/74",
+      "level": 4,
+      "parent": "G01F23/72",
+      "ja": "離れた点においてのみレベルの変化を感知するもの［４］",
+      "en": "for sensing changes in level only at discrete points",
+      "count": 1058,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F23/76": {
+      "code": "G01F23/76",
+      "level": 2,
+      "parent": "G01F23/30",
+      "ja": "うきの構造によって特徴づけられるもの［４］",
+      "en": "characterised by the construction of the float",
+      "count": 2163,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F23/80": {
+      "code": "G01F23/80",
+      "level": 1,
+      "parent": "G01F23/00",
+      "ja": "信号処理のための装置［２０２２．０１］",
+      "en": "Arrangements for signal processing",
+      "count": 1326,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F25/00": {
+      "code": "G01F25/00",
+      "level": 0,
+      "parent": "G01F",
+      "ja": "体積，体積流量，もしくは液位を測定するための，または体積によって計量するための装置を試験または較正するもの［２０２２．０１］",
+      "en": "Testing or calibration of apparatus for measuring volume, volume flow or liquid level or for metering by volume",
+      "count": 12165,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F25/10": {
+      "code": "G01F25/10",
+      "level": 1,
+      "parent": "G01F25/00",
+      "ja": "流量計のもの［２０２２．０１］",
+      "en": "of flowmeters",
+      "count": 4097,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F25/17": {
+      "code": "G01F25/17",
+      "level": 2,
+      "parent": "G01F25/10",
+      "ja": "較正された容器を用いるもの［２０２２．０１］",
+      "en": "using calibrated reservoirs",
+      "count": 208,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    },
+    "G01F25/20": {
+      "code": "G01F25/20",
+      "level": 1,
+      "parent": "G01F25/00",
+      "ja": "液位を測定するための装置のもの［２０２２．０１］",
+      "en": "of apparatus for measuring liquid level",
+      "count": 1124,
+      "sourceFile": "ipc_G01F.txt",
+      "kind": "ipc"
+    }
+  }
+}

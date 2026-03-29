@@ -1,0 +1,1256 @@
+window.IPC_SHARD_D01F = {
+  "generatedAt": "2026-03-20T02:17:46.563Z",
+  "total": 125,
+  "entries": {
+    "D01F": {
+      "code": "D01F",
+      "level": 0,
+      "parent": "D01",
+      "ja": "人造のフィラメント，より糸，繊維，剛毛またはリボンの製造において化学的な特徴をもつもの；炭素フィラメントの製造に特に適合した装置［２］<br><br><b><ul>注</ul></b><br>クラスＤ０１のタイトルに続く注に注意すること。<br><br><b><ul>サブクラス内の索引</ul></b><br>一般的な方法　１／００<br>フィラメントとその製造<br>セルロースからまたはその誘導体から；蛋白質から　２／００；４／００<br>合成樹脂から　６／００<br>他の材料から　９／００<br>多成分フィラメント　８／００<br>後処理；原料の回収　１１／００；１３／００",
+      "en": "CHEMICAL FEATURES IN THE MANUFACTURE OF MAN-MADE FILAMENTS, THREADS, FIBRES, BRISTLES OR RIBBONS; APPARATUS SPECIALLY ADAPTED FOR THE MANUFACTURE OF CARBON FILAMENTS; <br><br><b><u>Note(s)</u></b><br><br><ul><li>Attention is drawn to the Note following the title of class <b>D01</b>.</li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">GENERAL PROCESSES </td><td><b><b>1/00</b></b></td></tr></tr><tr><td width=\"70%\">FILAMENTS AND MANUFACTURE THEREOF<tr><td width=\"70%\">From cellulose or derivatives; from proteins </td><td><b><b>2/00</b>; <b>4/00</b></b></td></tr></tr><tr><td width=\"70%\">From synthetic resins </td><td><b><b>6/00</b></b></td></tr></tr><tr><td width=\"70%\">From other materials </td><td><b><b>9/00</b></b></td></tr></tr><tr><td width=\"70%\">Multicomponent filaments </td><td><b><b>8/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">AFTER-TREATMENT; RECOVERY OF STARTING MATERIAL </td><td><b><b>11/00</b>; <b>13/00</b></b></td></tr></tr></table>",
+      "count": 757,
+      "sourceFile": "ipc_D.txt",
+      "kind": "ipc"
+    },
+    "D01": {
+      "code": "D01",
+      "level": 0,
+      "parent": "D",
+      "ja": "天然または人造の糸または繊維；紡績<br><br><b><ul>注</ul></b><br>このクラスにおいては，下記の用語は以下に示す意味で用いる：<br>―“繊維”は比較的短く，細長い天然または人造の物質よりなるものを意味する；<br>―“フィラメント”はエンドレスまたは準エンドレスで，細長い天然または人造の物質よりなるものを意味する；<br>―“糸”は繊維の単一の集合体を意味し，通常紡績によって製造される；<br>―“より糸”は糸またはフィラメントの集合体を意味し，通常加ねんによって製造される；<br>―“合成”繊維またはフィラメントはポリマーまたは低分子を合成させたものから製造される繊維またはフィラメントまたは類似物を意味する。例は，ポリアミド，アクリル，ポリエステルまたは炭素繊維である；［２０１４．０１］<br>―“人工”繊維またはフィラメントは天然ポリマーまたはその派生物から人が製造した繊維またはフィラメントまたは類似物を意味する。例は，再生セルロース繊維または半合成繊維である；［２０１４．０１］<br>―“人造”繊維またはフィラメントは人が製造した繊維またはフィラメントを意味し，“合成”繊維または“人工”繊維を含む。［２０１４．０１］",
+      "en": "NATURAL OR MAN-MADE THREADS OR FIBRES; SPINNING; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this class, the following terms are used with the meanings indicated: <ul><li>\"fibre\" means a relatively-short, elongated member of natural or man-made material;</li><li>\"filament\" means an endless or quasi-endless, elongated member of natural or man-made material;</li><li>\"yarn\" means a unitary assembly of fibres, usually produced by spinning;</li><li>\"thread\" means an assembly of yarns or filaments, usually produced by twisting;</li><li>\"synthetic\" fibres or filaments means fibres or filaments or the like manufactured from synthesising polymers or small molecules. Examples are polyamide, acrylic, polyester or carbon fibres;     </li><li>\"artificial\" fibres or filaments means fibres or filaments or the like manufactured by man from natural polymers or their derivatives. Examples are regenerated cellulosic fibres or semi-synthetic fibres;     </li><li>&ldquo;man-made&rdquo; fibres or filaments means fibres or filaments which are manufactured by man including &ldquo;synthetic&rdquo; or &ldquo;artificial&rdquo; fibres.     </li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_D.txt",
+      "kind": "ipc"
+    },
+    "D": {
+      "code": "D",
+      "level": 0,
+      "parent": null,
+      "ja": "繊維；紙<br><br><b><ul>注</ul></b><br>このセクションにおいては，下記の用語は以下に示す意味で用いる：<br>―“繊維”は比較的短く，細長い天然または人造の物質よりなるものを意味する；［２０１４．０１］<br>―“フィラメント”はエンドレスまたは準エンドレスで，細長い天然または人造の物質よりなるものを意味する；［２０１４．０１］<br>―“糸”は繊維の単一の集合体を意味し，通常紡績によって製造される；［２０１４．０１］<br>―“より糸”は糸またはフィラメントの集合体を意味し，通常加ねんによって製造される；［２０１４．０１］<br>―“合成”繊維またはフィラメントはポリマーまたは低分子を合成させたものから製造される繊維またはフィラメントまたは類似物を意味する。例は，ポリアミド，アクリル，ポリエステルまたは炭素繊維である；［２０１４．０１］<br>―“人工”繊維またはフィラメントは天然ポリマーまたはその派生物から人が製造した繊維またはフィラメントまたは類似物を意味する。例は，再生セルロース繊維または半合成繊維である；［２０１４．０１］<br>―“人造”繊維またはフィラメントは人が製造した繊維またはフィラメントを意味し，“合成”繊維または“人工”繊維を含む。［２０１４．０１］",
+      "en": "TEXTILES; PAPER; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this section, the following terms are used with the meanings indicated: <ul><li>\"fibre\" means a relatively-short, elongated member of natural or man-made material;    </li><li>\"filament\" means an endless or quasi-endless, elongated member of natural or man-made material;    </li><li>\"yarn\" means a unitary assembly of fibres, usually produced by spinning;    </li><li>\"thread\" means an assembly of yarns or filaments, usually produced by twisting;    </li><li>\"synthetic\" fibres or filaments means fibres or filaments or the like manufactured from synthesising polymers or small molecules. Examples are polyamide, acrylic, polyester or carbon fibres;    </li><li>\"artificial\" fibres or filaments means fibres or filaments or the like manufactured by man from natural polymers or their derivatives. Examples are regenerated cellulosic fibres or semi-synthetic fibres;    </li><li>\"man-made&rdquo; fibres or filaments means fibres or filaments which are manufactured by man including &ldquo;synthetic&rdquo; or &ldquo;artificial&rdquo; fibres.    </li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_D.txt",
+      "kind": "ipc"
+    },
+    "D01F1/00": {
+      "code": "D01F1/00",
+      "level": 0,
+      "parent": "D01F",
+      "ja": "人造フィラメントあるいはその類似物の製造の一般的な方法",
+      "en": "General methods for the manufacture of man-made filaments or the like",
+      "count": 454,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F1/02": {
+      "code": "D01F1/02",
+      "level": 1,
+      "parent": "D01F1/00",
+      "ja": "紡糸液，または溶融物への物質の添加（ビスコースへの物質の添加Ｄ０１Ｆ２／０８）",
+      "en": "Addition of substances to the spinning solution or to the melt(addition of substances to viscose <b>D01F2/08</b>)",
+      "count": 1109,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F1/04": {
+      "code": "D01F1/04",
+      "level": 2,
+      "parent": "D01F1/02",
+      "ja": "顔料",
+      "en": "Pigments",
+      "count": 1680,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F1/06": {
+      "code": "D01F1/06",
+      "level": 2,
+      "parent": "D01F1/02",
+      "ja": "染料",
+      "en": "Dyes",
+      "count": 869,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F1/07": {
+      "code": "D01F1/07",
+      "level": 2,
+      "parent": "D01F1/02",
+      "ja": "防火性または防炎性フィラメント製造用［４］",
+      "en": "for making fire- or flame-proof filaments",
+      "count": 3021,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F1/08": {
+      "code": "D01F1/08",
+      "level": 2,
+      "parent": "D01F1/02",
+      "ja": "中空フィラメント製造用",
+      "en": "for forming hollow filaments",
+      "count": 924,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F1/09": {
+      "code": "D01F1/09",
+      "level": 2,
+      "parent": "D01F1/02",
+      "ja": "導電性または制電性フィラメント製造用［４］",
+      "en": "for making electroconductive or anti-static filaments",
+      "count": 3430,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F1/10": {
+      "code": "D01F1/10",
+      "level": 2,
+      "parent": "D01F1/02",
+      "ja": "変性特性のための他の添加剤［２］",
+      "en": "Other agents for modifying properties",
+      "count": 29441,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F2/00": {
+      "code": "D01F2/00",
+      "level": 0,
+      "parent": "D01F",
+      "ja": "セルロースまたはセルロース誘導体の単一成分人造フィラメントまたはその類似物；その製造［２］",
+      "en": "Monocomponent artificial filaments or the like of cellulose or cellulose derivatives; Manufacture thereof",
+      "count": 2651,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F2/02": {
+      "code": "D01F2/02",
+      "level": 1,
+      "parent": "D01F2/00",
+      "ja": "セルローズの酸，塩基，または塩の溶液からのもの［２］",
+      "en": "from solutions of cellulose in acids, bases, or salts",
+      "count": 808,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F2/04": {
+      "code": "D01F2/04",
+      "level": 2,
+      "parent": "D01F2/02",
+      "ja": "銅アンモニウム溶液からのもの［２］",
+      "en": "from cuprammonium solutions",
+      "count": 512,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F2/06": {
+      "code": "D01F2/06",
+      "level": 1,
+      "parent": "D01F2/00",
+      "ja": "ビスコースからのもの［２００６．０１］",
+      "en": "from viscose",
+      "count": 1682,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F2/08": {
+      "code": "D01F2/08",
+      "level": 2,
+      "parent": "D01F2/06",
+      "ja": "紡糸液または紡糸浴槽の調合［２００６．０１］",
+      "en": "Composition of the spinning solution or the bath",
+      "count": 2622,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F2/10": {
+      "code": "D01F2/10",
+      "level": 3,
+      "parent": "D01F2/08",
+      "ja": "紡糸液または紡糸浴に混合していづれにおいても同じ程度に効果を生じる物質の添加［２］",
+      "en": "Addition to the spinning solution or spinning bath of substances which exert their effect equally well in either",
+      "count": 1340,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F2/12": {
+      "code": "D01F2/12",
+      "level": 3,
+      "parent": "D01F2/08",
+      "ja": "紡糸液へのつや消し剤の添加［２］",
+      "en": "Addition of delustring agents to the spinning solution",
+      "count": 143,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F2/14": {
+      "code": "D01F2/14",
+      "level": 4,
+      "parent": "D01F2/12",
+      "ja": "顔料の添加［２］",
+      "en": "Addition of pigments",
+      "count": 60,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F2/16": {
+      "code": "D01F2/16",
+      "level": 3,
+      "parent": "D01F2/08",
+      "ja": "紡糸液への染料の添加［２］",
+      "en": "Addition of dyes to the spinning solution",
+      "count": 140,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F2/18": {
+      "code": "D01F2/18",
+      "level": 3,
+      "parent": "D01F2/08",
+      "ja": "紡糸液への熟成に影響を与える物質の添加［２］",
+      "en": "Addition to the spinning solution of substances to influence ripening",
+      "count": 10,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F2/20": {
+      "code": "D01F2/20",
+      "level": 3,
+      "parent": "D01F2/08",
+      "ja": "中空糸を製造するためのもの［２］",
+      "en": "for the manufacture of hollow threads",
+      "count": 43,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F2/22": {
+      "code": "D01F2/22",
+      "level": 2,
+      "parent": "D01F2/06",
+      "ja": "乾式紡糸工程によるもの［２］",
+      "en": "by the dry spinning process",
+      "count": 31,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F2/24": {
+      "code": "D01F2/24",
+      "level": 1,
+      "parent": "D01F2/00",
+      "ja": "セルロース誘導体からなるもの［２］",
+      "en": "from cellulose derivatives",
+      "count": 387,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F2/26": {
+      "code": "D01F2/26",
+      "level": 2,
+      "parent": "D01F2/24",
+      "ja": "ニトロセルロースからのもの［２］",
+      "en": "from nitrocellulose",
+      "count": 136,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F2/28": {
+      "code": "D01F2/28",
+      "level": 2,
+      "parent": "D01F2/24",
+      "ja": "有機セルロースエステルまたはエーテル，例．セルロースアセテート，からのもの［２］",
+      "en": "from organic cellulose esters or ethers, e.g. cellulose acetate",
+      "count": 2231,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F2/30": {
+      "code": "D01F2/30",
+      "level": 3,
+      "parent": "D01F2/28",
+      "ja": "乾式紡糸工程によるもの［２］",
+      "en": "by the dry spinning process",
+      "count": 420,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F4/00": {
+      "code": "D01F4/00",
+      "level": 0,
+      "parent": "D01F",
+      "ja": "蛋白質の単一成分人造フィラメントまたはその類似物；その製造［２］",
+      "en": "Monocomponent artificial filaments or the like of proteins; Manufacture thereof",
+      "count": 1792,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F4/02": {
+      "code": "D01F4/02",
+      "level": 1,
+      "parent": "D01F4/00",
+      "ja": "フイブロインからのもの［２］",
+      "en": "from fibroin",
+      "count": 548,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F4/04": {
+      "code": "D01F4/04",
+      "level": 1,
+      "parent": "D01F4/00",
+      "ja": "カゼインからのもの［２］",
+      "en": "from casein",
+      "count": 33,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F4/06": {
+      "code": "D01F4/06",
+      "level": 1,
+      "parent": "D01F4/00",
+      "ja": "グロブリン，例．落花生蛋白質，からのもの［２］",
+      "en": "from globulins, e.g. groundnut protein",
+      "count": 22,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F6/00": {
+      "code": "D01F6/00",
+      "level": 0,
+      "parent": "D01F",
+      "ja": "合成重合体の単一成分人造フィラメントまたはその類似物；その製造［２］<br><br><b><ul>注</ul></b><br>このグループにおいては，主成分を決めるパーセントはモルパーセントで表わされている。［８］",
+      "en": "Monocomponent man-made filaments or the like of synthetic polymers; Manufacture thereof; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this group, the percentage for determining the major constituent is expressed in mole percent.</li></ul>",
+      "count": 1858,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F6/02": {
+      "code": "D01F6/02",
+      "level": 1,
+      "parent": "D01F6/00",
+      "ja": "不飽和化合物の単一付加重合生成物からのもの［２］",
+      "en": "from homopolymers obtained by reactions only involving carbon-to-carbon unsaturated bonds",
+      "count": 127,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F6/04": {
+      "code": "D01F6/04",
+      "level": 2,
+      "parent": "D01F6/02",
+      "ja": "ポリオレフィンからのもの［２］",
+      "en": "from polyolefins",
+      "count": 2933,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F6/06": {
+      "code": "D01F6/06",
+      "level": 3,
+      "parent": "D01F6/04",
+      "ja": "ポリプロピレンからのもの［２］",
+      "en": "from polypropylene",
+      "count": 1585,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F6/08": {
+      "code": "D01F6/08",
+      "level": 2,
+      "parent": "D01F6/02",
+      "ja": "ハロゲン化炭化水素の重合体からのもの［２］",
+      "en": "from polymers of halogenated hydrocarbons",
+      "count": 258,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F6/10": {
+      "code": "D01F6/10",
+      "level": 3,
+      "parent": "D01F6/08",
+      "ja": "ポリ塩化ビニルまたはポリ塩化ビニリデンからのもの［２］",
+      "en": "from polyvinyl chloride or polyvinylidene chloride",
+      "count": 306,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F6/12": {
+      "code": "D01F6/12",
+      "level": 3,
+      "parent": "D01F6/08",
+      "ja": "ふっ化炭化水素の重合体からのもの［２］",
+      "en": "from polymers of fluorinated hydrocarbons",
+      "count": 767,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F6/14": {
+      "code": "D01F6/14",
+      "level": 2,
+      "parent": "D01F6/02",
+      "ja": "不飽和アルコールの重合体，例．ポリビニルアルコール，またはそのアセタールまたはケタールの重合体からのもの［２］",
+      "en": "from polymers of unsaturated alcohols, e.g. polyvinyl alcohol, or of their acetals or ketals",
+      "count": 1194,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F6/16": {
+      "code": "D01F6/16",
+      "level": 2,
+      "parent": "D01F6/02",
+      "ja": "不飽和カルボン酸または不飽和有機エステルの重合体，例．ポリアクリル酸エステル，ポリビニルアセテート，からのもの［２］",
+      "en": "from polymers of unsaturated carboxylic acids or unsaturated organic esters, e.g. polyacrylic esters, polyvinyl acetate",
+      "count": 314,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F6/18": {
+      "code": "D01F6/18",
+      "level": 2,
+      "parent": "D01F6/02",
+      "ja": "不飽和ニトリルの重合体，例．ポリアクリロニトリル，ポリビニリデンシアニド，からのもの［２］",
+      "en": "from polymers of unsaturated nitriles, e.g. polyacrylonitrile, polyvinylidene cyanide",
+      "count": 3715,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F6/20": {
+      "code": "D01F6/20",
+      "level": 2,
+      "parent": "D01F6/02",
+      "ja": "側鎖に１個の炭素間二重結合をもつ環状化合物の重合体からのもの［２］",
+      "en": "from polymers of cyclic compounds with one carbon-to-carbon double bond in the side chain",
+      "count": 124,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F6/22": {
+      "code": "D01F6/22",
+      "level": 3,
+      "parent": "D01F6/20",
+      "ja": "ポリスチレンからのもの［２］",
+      "en": "from polystyrene",
+      "count": 149,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F6/24": {
+      "code": "D01F6/24",
+      "level": 2,
+      "parent": "D01F6/02",
+      "ja": "二個以上の炭素間二重結合をもつ脂肪族化合物の重合体からのもの［２］",
+      "en": "from polymers of aliphatic compounds with more than one carbon-to-carbon double bond",
+      "count": 71,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F6/26": {
+      "code": "D01F6/26",
+      "level": 2,
+      "parent": "D01F6/02",
+      "ja": "他の重合体からのもの［２］",
+      "en": "from other polymers",
+      "count": 81,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F6/28": {
+      "code": "D01F6/28",
+      "level": 1,
+      "parent": "D01F6/00",
+      "ja": "不飽和化合物の共付加重合生成物からのもの［２］",
+      "en": "from copolymers obtained by reactions only involving carbon-to-carbon unsaturated bonds",
+      "count": 176,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F6/30": {
+      "code": "D01F6/30",
+      "level": 2,
+      "parent": "D01F6/28",
+      "ja": "主成分がオレフィンからなるもの［２］",
+      "en": "comprising olefins as the major constituent",
+      "count": 775,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F6/32": {
+      "code": "D01F6/32",
+      "level": 2,
+      "parent": "D01F6/28",
+      "ja": "主成分がハロゲン化炭化水素からなるもの［２］",
+      "en": "comprising halogenated hydrocarbons as the major constituent",
+      "count": 315,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F6/34": {
+      "code": "D01F6/34",
+      "level": 2,
+      "parent": "D01F6/28",
+      "ja": "主成分が不飽和アルコール，アセタールまたはケタールからなるもの［２］",
+      "en": "comprising unsaturated alcohols, acetals, or ketals as the major constituent",
+      "count": 274,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F6/36": {
+      "code": "D01F6/36",
+      "level": 2,
+      "parent": "D01F6/28",
+      "ja": "主成分が不飽和カルボン酸または不飽和有機エステルからなるもの［２］",
+      "en": "comprising unsaturated carboxylic acids or unsaturated organic esters as the major constituent",
+      "count": 256,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F6/38": {
+      "code": "D01F6/38",
+      "level": 2,
+      "parent": "D01F6/28",
+      "ja": "主成分が不飽和ニトリルからなるもの［２］",
+      "en": "comprising unsaturated nitriles as the major constituent",
+      "count": 1437,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F6/40": {
+      "code": "D01F6/40",
+      "level": 2,
+      "parent": "D01F6/28",
+      "ja": "変性アクリル繊維，すなわち，３５～８５％のアクリロニトリル，を含むもの［２］",
+      "en": "Modacrylic fibres, i.e. containing 35 to 85% acrylonitrile",
+      "count": 542,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F6/42": {
+      "code": "D01F6/42",
+      "level": 2,
+      "parent": "D01F6/28",
+      "ja": "主成分が側鎖に１個の炭素間二重結合をもつ環状化合物からなるもの［２］",
+      "en": "comprising cyclic compounds containing one carbon-to-carbon double bond in the side chain as major constituent",
+      "count": 114,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F6/44": {
+      "code": "D01F6/44",
+      "level": 1,
+      "parent": "D01F6/00",
+      "ja": "付加重合体を主成分とした他の重合体または低分子量化合物との混合物からのもの［２］",
+      "en": "from mixtures of polymers obtained by reactions only involving carbon-to-carbon unsaturated bonds as major constituent with other polymers or low-molecular-weight compounds",
+      "count": 390,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F6/46": {
+      "code": "D01F6/46",
+      "level": 2,
+      "parent": "D01F6/44",
+      "ja": "ポリオレフィンを主成分とするもの［２］",
+      "en": "of polyolefins",
+      "count": 5088,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F6/48": {
+      "code": "D01F6/48",
+      "level": 2,
+      "parent": "D01F6/44",
+      "ja": "ハロゲン化炭化水素の重合体を主成分とするもの［２］",
+      "en": "of polymers of halogenated hydrocarbons",
+      "count": 1226,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F6/50": {
+      "code": "D01F6/50",
+      "level": 2,
+      "parent": "D01F6/44",
+      "ja": "ポリアルコール，ポリアセタールまたはポリケタールを主成分とするもの［２］",
+      "en": "of polyalcohols, polyacetals or polyketals",
+      "count": 1274,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F6/52": {
+      "code": "D01F6/52",
+      "level": 2,
+      "parent": "D01F6/44",
+      "ja": "不飽和カルボン酸または不飽和エステルの重合体を主成分とするもの［２］",
+      "en": "of polymers of unsaturated carboxylic acids or unsaturated esters",
+      "count": 367,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F6/54": {
+      "code": "D01F6/54",
+      "level": 2,
+      "parent": "D01F6/44",
+      "ja": "不飽和ニトリルの重合体を主成分とするもの［２］",
+      "en": "of polymers of unsaturated nitriles",
+      "count": 2278,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F6/56": {
+      "code": "D01F6/56",
+      "level": 2,
+      "parent": "D01F6/44",
+      "ja": "側鎖に１個の炭素間二重結合をもつ環状化合物の重合体を主成分とするもの［２］",
+      "en": "of polymers of cyclic compounds with one carbon-to-carbon double bond in the side chain",
+      "count": 325,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F6/58": {
+      "code": "D01F6/58",
+      "level": 1,
+      "parent": "D01F6/00",
+      "ja": "単一縮重合生成物からのもの［２］",
+      "en": "from homopolycondensation products",
+      "count": 134,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F6/60": {
+      "code": "D01F6/60",
+      "level": 2,
+      "parent": "D01F6/58",
+      "ja": "ポリアミドからのもの（ポリアミノ酸またはポリペプチドからのものＤ０１Ｆ６／６８）［２］",
+      "en": "from polyamides(from polyamino acids or polypeptides <b>D01F6/68</b>)",
+      "count": 6065,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F6/62": {
+      "code": "D01F6/62",
+      "level": 2,
+      "parent": "D01F6/58",
+      "ja": "ポリエステルからのもの［２］",
+      "en": "from polyesters",
+      "count": 11653,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F6/64": {
+      "code": "D01F6/64",
+      "level": 3,
+      "parent": "D01F6/62",
+      "ja": "ポリカーボネートからのもの［２］",
+      "en": "from polycarbonates",
+      "count": 140,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F6/66": {
+      "code": "D01F6/66",
+      "level": 2,
+      "parent": "D01F6/58",
+      "ja": "ポリエーテルからのもの［２］",
+      "en": "from polyethers",
+      "count": 439,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F6/68": {
+      "code": "D01F6/68",
+      "level": 2,
+      "parent": "D01F6/58",
+      "ja": "ポリアミノ酸またはポリペプチドからのもの［２］",
+      "en": "from polyaminoacids or polypeptides",
+      "count": 119,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F6/70": {
+      "code": "D01F6/70",
+      "level": 2,
+      "parent": "D01F6/58",
+      "ja": "ポリウレタンからのもの［２］",
+      "en": "from polyurethanes",
+      "count": 1725,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F6/72": {
+      "code": "D01F6/72",
+      "level": 2,
+      "parent": "D01F6/58",
+      "ja": "ポリ尿素からのもの［２］",
+      "en": "from polyureas",
+      "count": 283,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F6/74": {
+      "code": "D01F6/74",
+      "level": 2,
+      "parent": "D01F6/58",
+      "ja": "環状化合物の縮重合物からのもの，例．ポリイミド，ポリベンツイミダゾール［２］",
+      "en": "from polycondensates of cyclic compounds, e.g. polyimides, polybenzimidazoles",
+      "count": 1344,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F6/76": {
+      "code": "D01F6/76",
+      "level": 2,
+      "parent": "D01F6/58",
+      "ja": "他の縮重合生成物からのもの［２］",
+      "en": "from other polycondensation products",
+      "count": 1796,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F6/78": {
+      "code": "D01F6/78",
+      "level": 1,
+      "parent": "D01F6/00",
+      "ja": "共縮重合生成物からのもの［２］",
+      "en": "from copolycondensation products",
+      "count": 665,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F6/80": {
+      "code": "D01F6/80",
+      "level": 2,
+      "parent": "D01F6/78",
+      "ja": "コポリアミドからのもの［２］",
+      "en": "from copolyamides",
+      "count": 1345,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F6/82": {
+      "code": "D01F6/82",
+      "level": 2,
+      "parent": "D01F6/78",
+      "ja": "ポリエステルアミドまたはポリエーテルアミドからのもの［２］",
+      "en": "from polyester amides or polyether amides",
+      "count": 328,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F6/84": {
+      "code": "D01F6/84",
+      "level": 2,
+      "parent": "D01F6/78",
+      "ja": "コポリエステルからのもの［２］",
+      "en": "from copolyesters",
+      "count": 3276,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F6/86": {
+      "code": "D01F6/86",
+      "level": 2,
+      "parent": "D01F6/78",
+      "ja": "ポリエーテルエステルからのもの［２］",
+      "en": "from polyetheresters",
+      "count": 1030,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F6/88": {
+      "code": "D01F6/88",
+      "level": 1,
+      "parent": "D01F6/00",
+      "ja": "縮重合生成物を主成分とした他の重合体または低分子量化合物との混合物からのもの［２］",
+      "en": "from mixtures of polycondensation products as major constituent with other polymers or low-molecular-weight compounds",
+      "count": 231,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F6/90": {
+      "code": "D01F6/90",
+      "level": 2,
+      "parent": "D01F6/88",
+      "ja": "ポリアミドを主成分とするもの［２］",
+      "en": "of polyamides",
+      "count": 4856,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F6/92": {
+      "code": "D01F6/92",
+      "level": 2,
+      "parent": "D01F6/88",
+      "ja": "ポリエステルを主成分とするもの［２］",
+      "en": "of polyesters",
+      "count": 11123,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F6/94": {
+      "code": "D01F6/94",
+      "level": 2,
+      "parent": "D01F6/88",
+      "ja": "他の縮重合生成物を主成分とするもの［２］",
+      "en": "of other polycondensation products",
+      "count": 2915,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F6/96": {
+      "code": "D01F6/96",
+      "level": 1,
+      "parent": "D01F6/00",
+      "ja": "他の合成重合体からのもの［２］",
+      "en": "from other synthetic polymers",
+      "count": 278,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F8/00": {
+      "code": "D01F8/00",
+      "level": 0,
+      "parent": "D01F",
+      "ja": "複合，すなわち二または多成分の，人造フィラメントまたはその類似物；その製造［２］",
+      "en": "Conjugated, i.e. bi- or multicomponent, man-made filaments or the like; Manufacture thereof",
+      "count": 876,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F8/02": {
+      "code": "D01F8/02",
+      "level": 1,
+      "parent": "D01F8/00",
+      "ja": "セルロース，セルロース誘導体または蛋白質からのもの［２］",
+      "en": "from cellulose, cellulose derivatives, or proteins",
+      "count": 3013,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F8/04": {
+      "code": "D01F8/04",
+      "level": 1,
+      "parent": "D01F8/00",
+      "ja": "合成重合体からのもの［２］",
+      "en": "from synthetic polymers",
+      "count": 2644,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F8/06": {
+      "code": "D01F8/06",
+      "level": 2,
+      "parent": "D01F8/04",
+      "ja": "ポリオレフィンを少なくとも一成分とするもの［２］",
+      "en": "with at least one polyolefin as constituent",
+      "count": 4953,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F8/08": {
+      "code": "D01F8/08",
+      "level": 2,
+      "parent": "D01F8/04",
+      "ja": "ポリアクリロニトリルを少なくとも一成分とするもの［２］",
+      "en": "with at least one polyacrylonitrile as constituent",
+      "count": 1373,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F8/10": {
+      "code": "D01F8/10",
+      "level": 2,
+      "parent": "D01F8/04",
+      "ja": "他の不飽和化合物の付加重合生成物を少なくとも一成分とするもの［２］",
+      "en": "with at least one other macromolecular compound obtained by reactions only involving carbon-to-carbon unsaturated bonds as constituent",
+      "count": 3545,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F8/12": {
+      "code": "D01F8/12",
+      "level": 2,
+      "parent": "D01F8/04",
+      "ja": "ポリアミドを少なくとも一成分とするもの［２］",
+      "en": "with at least one polyamide as constituent",
+      "count": 3915,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F8/14": {
+      "code": "D01F8/14",
+      "level": 2,
+      "parent": "D01F8/04",
+      "ja": "ポリエステルを少なくとも一成分とするもの［２］",
+      "en": "with at least one polyester as constituent",
+      "count": 11701,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F8/16": {
+      "code": "D01F8/16",
+      "level": 2,
+      "parent": "D01F8/04",
+      "ja": "炭素―炭素不飽和結合のみが関与する反応以外の反応によって得られる高分子化合物を少なくとも１つ有するもの［２］",
+      "en": "with at least one other macromolecular compound obtained otherwise than by reactions only involving carbon-to-carbon unsaturated bonds",
+      "count": 3007,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F8/18": {
+      "code": "D01F8/18",
+      "level": 1,
+      "parent": "D01F8/00",
+      "ja": "他の物質からのもの［２］",
+      "en": "from other substances",
+      "count": 2329,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F9/00": {
+      "code": "D01F9/00",
+      "level": 0,
+      "parent": "D01F",
+      "ja": "他の物質の人造フィラメントまたはその類似物；その製造；炭素フィラメントの製造に特に適合した装置［５］",
+      "en": "Man-made filaments or the like of other substances; Manufacture thereof; Apparatus specially adapted for the manufacture of carbon filaments",
+      "count": 1455,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F9/02": {
+      "code": "D01F9/02",
+      "level": 1,
+      "parent": "D01F9/00",
+      "ja": "ゴムと酸または酸無水物，例．二酸化硫黄，との反応生成物のもの",
+      "en": "of reaction products of rubber with acids or acid anhydrides, e.g. sulfur dioxide",
+      "count": 26,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F9/04": {
+      "code": "D01F9/04",
+      "level": 1,
+      "parent": "D01F9/00",
+      "ja": "アルギン酸のもの",
+      "en": "of alginates",
+      "count": 486,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F9/08": {
+      "code": "D01F9/08",
+      "level": 1,
+      "parent": "D01F9/00",
+      "ja": "無機材料のもの（金属線材の加工または処理Ｂ２１Ｆ；軟質化ガラス，鉱物またはスラグからのものＣ０３Ｂ３７／００）［２００６．０１］",
+      "en": "of inorganic material(working or processing of metal wire <b>B21F</b>; from softened glass, minerals, or slags <b>C03B37/00</b>)",
+      "count": 4158,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F9/10": {
+      "code": "D01F9/10",
+      "level": 2,
+      "parent": "D01F9/08",
+      "ja": "有機物質の分解によるもの（Ｄ０１Ｆ９／１２が優先）［２］",
+      "en": "by decomposition of organic substances(<b>D01F9/12</b> takes precedence)",
+      "count": 1658,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F9/12": {
+      "code": "D01F9/12",
+      "level": 2,
+      "parent": "D01F9/08",
+      "ja": "炭素フィラメント；その製造に特に適合した装置［２，５］",
+      "en": "Carbon filaments; Apparatus specially adapted for the manufacture thereof",
+      "count": 4977,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F9/127": {
+      "code": "D01F9/127",
+      "level": 3,
+      "parent": "D01F9/12",
+      "ja": "炭化水素ガスまたは蒸気類の熱分解によるもの［５］",
+      "en": "by thermal decomposition of hydrocarbon gases or vapours",
+      "count": 1650,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F9/133": {
+      "code": "D01F9/133",
+      "level": 4,
+      "parent": "D01F9/127",
+      "ja": "そのための装置［５］",
+      "en": "Apparatus therefor",
+      "count": 407,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F9/14": {
+      "code": "D01F9/14",
+      "level": 3,
+      "parent": "D01F9/12",
+      "ja": "有機フィラメントの分解によるもの［２，５］",
+      "en": "by decomposition of organic filaments",
+      "count": 2267,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F9/145": {
+      "code": "D01F9/145",
+      "level": 4,
+      "parent": "D01F9/14",
+      "ja": "ピッチまたは蒸留残留物からのもの［２００６．０１］",
+      "en": "from pitch or distillation residues",
+      "count": 1260,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F9/15": {
+      "code": "D01F9/15",
+      "level": 5,
+      "parent": "D01F9/145",
+      "ja": "石炭系ピッチからのもの［５］",
+      "en": "from coal pitch",
+      "count": 558,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F9/155": {
+      "code": "D01F9/155",
+      "level": 5,
+      "parent": "D01F9/145",
+      "ja": "石油系ピッチからのもの［５］",
+      "en": "from petroleum pitch",
+      "count": 515,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F9/16": {
+      "code": "D01F9/16",
+      "level": 4,
+      "parent": "D01F9/14",
+      "ja": "植物性の産物またはその誘導体，例．セルロースアセテート，からのもの（Ｄ０１Ｆ９／１８が優先）［２，５］",
+      "en": "from products of vegetable origin or derivatives thereof, e.g. from cellulose acetat(<b>D01F9/18</b> takes precedence)",
+      "count": 889,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F9/17": {
+      "code": "D01F9/17",
+      "level": 5,
+      "parent": "D01F9/16",
+      "ja": "リグニンからのもの［５］",
+      "en": "from lignin",
+      "count": 273,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F9/18": {
+      "code": "D01F9/18",
+      "level": 4,
+      "parent": "D01F9/14",
+      "ja": "蛋白質，例．羊毛，からのもの［２］",
+      "en": "from proteins, e.g. from wool",
+      "count": 78,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F9/20": {
+      "code": "D01F9/20",
+      "level": 4,
+      "parent": "D01F9/14",
+      "ja": "付加重合，重縮合または重合生成物からのもの（Ｄ０１Ｆ９／１４５，Ｄ０１Ｆ９／１６，Ｄ０１Ｆ９／１８が優先）［２，５］",
+      "en": "from polyaddition, polycondensation or polymerisation products(<b>D01F9/145</b>, <b>D01F9/16</b>, <b>D01F9/18</b> take precedence)",
+      "count": 235,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F9/21": {
+      "code": "D01F9/21",
+      "level": 5,
+      "parent": "D01F9/20",
+      "ja": "炭素―炭素不飽和結合のみの反応によって得られる高分子化合物からのもの［５］",
+      "en": "from macromolecular compounds obtained by reactions only involving carbon-to-carbon unsaturated bonds",
+      "count": 622,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F9/22": {
+      "code": "D01F9/22",
+      "level": 6,
+      "parent": "D01F9/21",
+      "ja": "ポリアクリロニトリル類からのもの［２，５］",
+      "en": "from polyacrylonitriles",
+      "count": 4516,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F9/24": {
+      "code": "D01F9/24",
+      "level": 5,
+      "parent": "D01F9/20",
+      "ja": "炭素―炭素不飽和結合のみの反応以外の方法で得られる高分子化合物からのもの［５］",
+      "en": "from macromolecular compounds obtained otherwise than by reactions only involving carbon-to-carbon unsaturated bonds",
+      "count": 530,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F9/26": {
+      "code": "D01F9/26",
+      "level": 6,
+      "parent": "D01F9/24",
+      "ja": "ポリエステルからのもの［５］",
+      "en": "from polyesters",
+      "count": 89,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F9/28": {
+      "code": "D01F9/28",
+      "level": 6,
+      "parent": "D01F9/24",
+      "ja": "ポリアミドからのもの［５］",
+      "en": "from polyamides",
+      "count": 86,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F9/30": {
+      "code": "D01F9/30",
+      "level": 7,
+      "parent": "D01F9/28",
+      "ja": "芳香族ポリアミドからのもの［５］",
+      "en": "from aromatic polyamides",
+      "count": 61,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F9/32": {
+      "code": "D01F9/32",
+      "level": 4,
+      "parent": "D01F9/14",
+      "ja": "そのための装置［５］",
+      "en": "Apparatus therefor",
+      "count": 1343,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F11/00": {
+      "code": "D01F11/00",
+      "level": 0,
+      "parent": "D01F",
+      "ja": "製造中における人造フィラメントまたは類似物の化学的後処理［２００６．０１］",
+      "en": "Chemical after-treatment of man-made filaments or the like during manufacture",
+      "count": 694,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F11/02": {
+      "code": "D01F11/02",
+      "level": 1,
+      "parent": "D01F11/00",
+      "ja": "セルロース，セルロース誘導体または蛋白質についてのもの［２］",
+      "en": "of cellulose, cellulose derivatives, or proteins",
+      "count": 1001,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F11/04": {
+      "code": "D01F11/04",
+      "level": 1,
+      "parent": "D01F11/00",
+      "ja": "合成重合体についてのもの［２］",
+      "en": "of synthetic polymers",
+      "count": 573,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F11/06": {
+      "code": "D01F11/06",
+      "level": 2,
+      "parent": "D01F11/04",
+      "ja": "炭素―炭素不飽和結合のみが関与する反応によって得られる高分子化合物についてのもの［２］",
+      "en": "of macromolecular compounds obtained by reactions only involving carbon-to-carbon unsaturated bonds",
+      "count": 1096,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F11/08": {
+      "code": "D01F11/08",
+      "level": 2,
+      "parent": "D01F11/04",
+      "ja": "炭素―炭素不飽和結合のみが関与する反応以外の反応によって得られる高分子化合物についてのもの［２］",
+      "en": "of macromolecular compounds obtained otherwise than by reactions only involving carbon-to-carbon unsaturated bonds",
+      "count": 1868,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F11/10": {
+      "code": "D01F11/10",
+      "level": 1,
+      "parent": "D01F11/00",
+      "ja": "炭素についてのもの［２］",
+      "en": "of carbon",
+      "count": 366,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F11/12": {
+      "code": "D01F11/12",
+      "level": 2,
+      "parent": "D01F11/10",
+      "ja": "無機物質によるもの［５］",
+      "en": "with inorganic substances",
+      "count": 884,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F11/14": {
+      "code": "D01F11/14",
+      "level": 2,
+      "parent": "D01F11/10",
+      "ja": "有機化合物，例．高分子化合物，によるもの［５］",
+      "en": "with organic compounds, e.g. macromolecular compounds",
+      "count": 704,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F11/16": {
+      "code": "D01F11/16",
+      "level": 2,
+      "parent": "D01F11/10",
+      "ja": "物理化学的方法によるもの［５］",
+      "en": "by physicochemical methods",
+      "count": 414,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F13/00": {
+      "code": "D01F13/00",
+      "level": 0,
+      "parent": "D01F",
+      "ja": "人造フィラメントまたは類似物の製造における出発物質，廃物または溶媒の回収［２］",
+      "en": "Recovery of starting material, waste material or solvents during the manufacture of man-made filaments or the like",
+      "count": 272,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F13/02": {
+      "code": "D01F13/02",
+      "level": 1,
+      "parent": "D01F13/00",
+      "ja": "セルロース，セルロース誘導体または蛋白質についてのもの［２］",
+      "en": "of cellulose, cellulose derivatives, or proteins",
+      "count": 632,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    },
+    "D01F13/04": {
+      "code": "D01F13/04",
+      "level": 1,
+      "parent": "D01F13/00",
+      "ja": "合成重合体についてのもの［２］",
+      "en": "of synthetic polymers",
+      "count": 401,
+      "sourceFile": "ipc_D01F.txt",
+      "kind": "ipc"
+    }
+  }
+};

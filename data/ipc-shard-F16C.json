@@ -1,0 +1,2086 @@
+{
+  "generatedAt": "2026-03-20T02:17:46.831Z",
+  "total": 208,
+  "entries": {
+    "F16C": {
+      "code": "F16C",
+      "level": 0,
+      "parent": "F16",
+      "ja": "軸；たわみ軸；たわみ被覆の中で運動を伝達するための機械的な手段；クランク軸機構の要素；ピボット；枢着；伝動装置，継ぎ手，クラッチまたはブレーキ要素以外の回転工学の要素；軸受［５］<br><br><b><ul>注</ul></b><br>このサブクラスにおいては，下記の表現は以下に示す意味で用いる：<br>―”伝動装置，継ぎ手，クラッチまたはブレーキの要素以外の回転機械要素”は，それが回転するという事実によってのみ機能・機構が影響される場合に限った回転するあらゆる機械要素であって，伝動装置，継ぎ手，クラッチまたはブレーキの要素以外のものを包含する。<br><br><b><ul>サブクラス内の索引</ul></b><br>たわみ伝動，軸，車軸，クランク，偏心軸　１／００，３／００<br>クロスヘッド，連接棒　５／００，７／００，９／００<br>ピボット　１１／００<br>ロール，ドラム，円板　１３／００<br>軸受<br>回転部品用　１３／００，１７／００～２７／００<br>直線運動をする部品用　２９／００<br>回転運動および直線運動をする部品用　３１／００<br>クランク軸または連接棒用　９／００<br>他に分類されないもの　３２／００<br>支持；部品または付属品　２７／００，３３／００，３５／００；４１／００<br>冷却；荷重軽減　３７／００；３９／００<br>製造，組立　３３／００，４３／００<br>遠心力に対抗する回転体の構造　１５／００",
+      "en": "SHAFTS; FLEXIBLE SHAFTS; MECHANICAL MEANS FOR TRANSMITTING MOVEMENT IN A FLEXIBLE SHEATHING; ELEMENTS OF CRANKSHAFT MECHANISMS; PIVOTS; PIVOTAL CONNECTIONS; ROTARY ENGINEERING ELEMENTS OTHER THAN GEARING, COUPLING, CLUTCH OR BRAKE ELEMENTS; BEARINGS; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this subclass, the following expression is used with the meaning indicated: <ul><li>\"rotary engineering elements other than gearing, coupling, clutch or brake elements\" covers any engineering element other than gearing, coupling, clutch or brake elements which rotates in so far as its features are affected only by the fact that it rotates.</li></ul></li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">FLEXIBLE TRANSMISSIONS, SHAFTS, AXLES, CRANKS, ECCENTRICS </td><td><b><b>1/00</b>, <b>3/00</b></b></td></tr></tr><tr><td width=\"70%\">CROSSHEADS, CONNECTING-RODS </td><td><b><b>5/00</b>, <b>7/00</b>, <b>9/00</b></b></td></tr></tr><tr><td width=\"70%\">PIVOTS </td><td><b><b>11/00</b></b></td></tr></tr><tr><td width=\"70%\">ROLLS, DRUMS, DISCS </td><td><b><b>13/00</b></b></td></tr></tr><tr><td width=\"70%\">BEARINGS<tr><td width=\"70%\">For rotatable parts </td><td><b><b>13/00</b>, <b>17/00 to 27/00</b> </b></td></tr></tr><tr><td width=\"70%\">For linearly-movable parts </td><td><b><b>29/00</b></b></td></tr></tr><tr><td width=\"70%\">For parts which both rotate and move linearly </td><td><b><b>31/00</b></b></td></tr></tr><tr><td width=\"70%\">For crankshafts or connecting- rods </td><td><b><b>9/00</b></b></td></tr></tr><tr><td width=\"70%\">Not otherwise provided for </td><td><b><b>32/00</b></b></td></tr></tr><tr><td width=\"70%\">Supports; parts or accessories </td><td><b><b>27/00</b>, <b>35/00</b>; <b>33/00</b>, <b>41/00</b></b></td></tr></tr><tr><td width=\"70%\">Cooling; relieving load </td><td><b><b>37/00</b>; <b>39/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">MAKING, ASSEMBLING </td><td><b><b>33/00</b>, <b>43/00</b></b></td></tr></tr><tr><td width=\"70%\">CONSTRUCTION OF ROTATABLE BODIES TO RESIST CENTRIFUGAL FORCE </td><td><b><b>15/00</b></b></td></tr></tr></table>",
+      "count": 2512,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F16": {
+      "code": "F16",
+      "level": 0,
+      "parent": "F",
+      "ja": "機械要素または単位；機械または装置の効果的機能を生じ維持するための一般的手段",
+      "en": "ENGINEERING ELEMENTS OR UNITS; GENERAL MEASURES FOR PRODUCING AND MAINTAINING EFFECTIVE FUNCTIONING OF MACHINES OR INSTALLATIONS; THERMAL INSULATION IN GENERAL",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F": {
+      "code": "F",
+      "level": 0,
+      "parent": null,
+      "ja": "機械工学；照明；加熱；武器；爆破",
+      "en": "MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F16C1/00": {
+      "code": "F16C1/00",
+      "level": 0,
+      "parent": "F16C",
+      "ja": "たわみ軸（穿孔または切削用歯科機械のたわみ軸Ａ６１Ｃ１／１８）；たわみ被覆の中で運動を伝達するための機械的な手段",
+      "en": "Flexible shafts(flexible shafts in dental machines for boring or cutting <b>A61C1/18</b>);Mechanical means for transmitting movement in a flexible sheathing",
+      "count": 651,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C1/02": {
+      "code": "F16C1/02",
+      "level": 1,
+      "parent": "F16C1/00",
+      "ja": "回転運動伝達用",
+      "en": "for conveying rotary movements",
+      "count": 871,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C1/04": {
+      "code": "F16C1/04",
+      "level": 2,
+      "parent": "F16C1/02",
+      "ja": "関節軸",
+      "en": "Articulated shafts",
+      "count": 395,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C1/06": {
+      "code": "F16C1/06",
+      "level": 2,
+      "parent": "F16C1/02",
+      "ja": "案内用の被覆，管，または箱をもつもの（Ｆ１６Ｃ１／０４が優先；案内用の被覆Ｆ１６Ｃ１／２６）",
+      "en": "with guiding-sheathing, tube, or box(<b>F16C1/04</b> takes precedence; guiding-sheathings <b>F16C1/26</b>)",
+      "count": 614,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C1/08": {
+      "code": "F16C1/08",
+      "level": 2,
+      "parent": "F16C1/02",
+      "ja": "端連結",
+      "en": "End connections",
+      "count": 745,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C1/10": {
+      "code": "F16C1/10",
+      "level": 1,
+      "parent": "F16C1/00",
+      "ja": "たわみ被覆の中で直線運動を伝達するための手段，例．”ボーデン機構”（案内用の被覆Ｆ１６Ｃ１／２６）",
+      "en": "Means for transmitting linear movement in a flexible sheathing, e.g. \"Bowden mechanisms\"(guiding-sheathings <b>F16C1/26</b>)",
+      "count": 3913,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C1/12": {
+      "code": "F16C1/12",
+      "level": 2,
+      "parent": "F16C1/10",
+      "ja": "たわみ部材へ，またはたわみ部材から運動を伝達するための配列",
+      "en": "Arrangements for transmitting movement to or from the flexible member",
+      "count": 1333,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C1/14": {
+      "code": "F16C1/14",
+      "level": 3,
+      "parent": "F16C1/12",
+      "ja": "たわみ部材の端部の構造；たわみ部材への付属品",
+      "en": "Construction of the end-piece of the flexible member; Attachment thereof to the flexible member",
+      "count": 2269,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C1/16": {
+      "code": "F16C1/16",
+      "level": 3,
+      "parent": "F16C1/12",
+      "ja": "端部が直線で案内されているもの",
+      "en": "in which the end-piece is guided rectilinearly",
+      "count": 565,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C1/18": {
+      "code": "F16C1/18",
+      "level": 3,
+      "parent": "F16C1/12",
+      "ja": "たわみ部材の端部が枢着部材の曲った表面に沿っているもの",
+      "en": "in which the end portion of the flexible member is laid along a curved surface of a pivoted member",
+      "count": 409,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C1/20": {
+      "code": "F16C1/20",
+      "level": 2,
+      "parent": "F16C1/10",
+      "ja": "被覆の中であちこちへ運動するたわみ部材の構造",
+      "en": "Construction of flexible members moved to and fro in the sheathing",
+      "count": 1076,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C1/22": {
+      "code": "F16C1/22",
+      "level": 2,
+      "parent": "F16C1/10",
+      "ja": "調節；長さの補充",
+      "en": "Adjusting; Compensating length",
+      "count": 1735,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C1/24": {
+      "code": "F16C1/24",
+      "level": 1,
+      "parent": "F16C1/00",
+      "ja": "潤滑；潤滑装置",
+      "en": "Lubrication; Lubricating equipment",
+      "count": 523,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C1/26": {
+      "code": "F16C1/26",
+      "level": 1,
+      "parent": "F16C1/00",
+      "ja": "案内用の被覆または案内用の管の構造",
+      "en": "Construction of guiding-sheathings or guiding-tubes",
+      "count": 3188,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C1/28": {
+      "code": "F16C1/28",
+      "level": 2,
+      "parent": "F16C1/26",
+      "ja": "作りつけの軸受をもつもの",
+      "en": "with built-in bearings",
+      "count": 262,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C3/00": {
+      "code": "F16C3/00",
+      "level": 0,
+      "parent": "F16C",
+      "ja": "軸（たわみ軸Ｆ１６Ｃ１／００；船舶のプロペラ軸，外車軸Ｂ６３Ｈ２３／３４）；車軸；クランク，偏心輪",
+      "en": "Shafts(flexible shafts <b>F16C1/00</b>; marine propeller shafts, paddle wheel shafts <b>B63H23/34</b>);Axles; Cranks; Eccentrics",
+      "count": 1061,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C3/02": {
+      "code": "F16C3/02",
+      "level": 1,
+      "parent": "F16C3/00",
+      "ja": "軸；車軸",
+      "en": "Shafts; Axles",
+      "count": 13295,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C3/03": {
+      "code": "F16C3/03",
+      "level": 2,
+      "parent": "F16C3/02",
+      "ja": "入れ子式のもの",
+      "en": "telescopic",
+      "count": 1259,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C3/035": {
+      "code": "F16C3/035",
+      "level": 3,
+      "parent": "F16C3/03",
+      "ja": "作りつけの軸受をもつもの",
+      "en": "with built-in bearings",
+      "count": 473,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C3/04": {
+      "code": "F16C3/04",
+      "level": 1,
+      "parent": "F16C3/00",
+      "ja": "クランク軸，偏心軸；クランク，偏心輪",
+      "en": "Crankshafts, eccentric-shafts; Cranks, eccentrics",
+      "count": 426,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C3/06": {
+      "code": "F16C3/06",
+      "level": 2,
+      "parent": "F16C3/04",
+      "ja": "クランク軸",
+      "en": "Crankshafts",
+      "count": 2676,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C3/08": {
+      "code": "F16C3/08",
+      "level": 3,
+      "parent": "F16C3/06",
+      "ja": "１部品で作られたもの（潤滑に関する特徴Ｆ１６Ｃ３／１４，冷却に関する特徴Ｆ１６Ｃ３／１６）",
+      "en": "made in one piece(features relating to lubrication <b>F16C3/14</b>, to cooling <b>F16C3/16</b>)",
+      "count": 938,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C3/10": {
+      "code": "F16C3/10",
+      "level": 3,
+      "parent": "F16C3/06",
+      "ja": "数個の部品で組み立てられたもの，例．溶接によるもの",
+      "en": "assembled of several parts, e.g. by welding",
+      "count": 1244,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C3/12": {
+      "code": "F16C3/12",
+      "level": 4,
+      "parent": "F16C3/10",
+      "ja": "はずせるように連結されたもの",
+      "en": "releasably connected",
+      "count": 859,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C3/14": {
+      "code": "F16C3/14",
+      "level": 3,
+      "parent": "F16C3/06",
+      "ja": "潤滑に関する特徴",
+      "en": "Features relating to lubrication",
+      "count": 2208,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C3/16": {
+      "code": "F16C3/16",
+      "level": 3,
+      "parent": "F16C3/06",
+      "ja": "冷却に関する特徴",
+      "en": "Features relating to cooling",
+      "count": 164,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C3/18": {
+      "code": "F16C3/18",
+      "level": 2,
+      "parent": "F16C3/04",
+      "ja": "偏心軸",
+      "en": "Eccentric-shafts",
+      "count": 680,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C3/20": {
+      "code": "F16C3/20",
+      "level": 2,
+      "parent": "F16C3/04",
+      "ja": "平衡に関するクランク軸または偏心軸の形",
+      "en": "Shape of crankshafts or eccentric-shafts having regard to balancing",
+      "count": 1031,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C3/22": {
+      "code": "F16C3/22",
+      "level": 2,
+      "parent": "F16C3/04",
+      "ja": "クランク；偏心輪（クランクピンの構造上の特徴Ｆ１６Ｃ１１／０２）",
+      "en": "Cranks; Eccentrics(constructional features of crank-pins <b>F16C11/02</b>)",
+      "count": 806,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C3/24": {
+      "code": "F16C3/24",
+      "level": 3,
+      "parent": "F16C3/22",
+      "ja": "帰りクランク，すなわちクランクピンでささえられ第２のクランクをもつもの",
+      "en": "with return cranks, i.e. a second crank carried by the crank-pin",
+      "count": 34,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C3/26": {
+      "code": "F16C3/26",
+      "level": 3,
+      "parent": "F16C3/22",
+      "ja": "弾性的クランクウェブ；弾性的に取り付けられたクランクピン",
+      "en": "Elastic crank-webs; Resiliently-mounted crank-pins",
+      "count": 60,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C3/28": {
+      "code": "F16C3/28",
+      "level": 3,
+      "parent": "F16C3/22",
+      "ja": "調節できるクランクまたは偏心輪",
+      "en": "Adjustable cranks or eccentrics",
+      "count": 843,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C3/30": {
+      "code": "F16C3/30",
+      "level": 3,
+      "parent": "F16C3/22",
+      "ja": "死点に打ち勝つ配列をもつもの",
+      "en": "with arrangements for overcoming dead-centres",
+      "count": 41,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C5/00": {
+      "code": "F16C5/00",
+      "level": 0,
+      "parent": "F16C",
+      "ja": "クロスヘッド；クロスヘッドに堅くついた連接棒ヘッドまたはピストン棒連結の構造（ピストン棒，すなわち．ピストンに堅固に連結されている棒Ｆ１６Ｊ７／００）",
+      "en": "Crossheads; Constructions of connecting-rod heads or piston-rod connections rigid with crossheads(piston-rods, i.e. rods rigidly connected to the piston, <b>F16J7/00</b>)",
+      "count": 925,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C7/00": {
+      "code": "F16C7/00",
+      "level": 0,
+      "parent": "F16C",
+      "ja": "両端で枢着された連接棒または類似のリンク（機関車の駆動輪用の連結棒Ｂ６１Ｃ１７／１０）；連接棒ヘッドの構造（クロスヘッドに堅くついたヘッドＦ１６Ｃ５／００）",
+      "en": "Connecting-rods or like links pivoted at both ends(coupling-rods for locomotive driving-wheels <b>B61C17/10</b>);Construction of connecting-rod heads(heads rigid with crossheads <b>F16C5/00</b>)",
+      "count": 2244,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C7/02": {
+      "code": "F16C7/02",
+      "level": 1,
+      "parent": "F16C7/00",
+      "ja": "一定長をもつ連接棒の構造",
+      "en": "Constructions of connecting-rods with constant length",
+      "count": 4089,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C7/04": {
+      "code": "F16C7/04",
+      "level": 1,
+      "parent": "F16C7/00",
+      "ja": "弾力ある中間部分または流体クッションをもつもの",
+      "en": "with elastic intermediate part or fluid cushion",
+      "count": 528,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C7/06": {
+      "code": "F16C7/06",
+      "level": 1,
+      "parent": "F16C7/00",
+      "ja": "調節できる連接棒",
+      "en": "Adjustable connecting-rods",
+      "count": 1281,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C7/08": {
+      "code": "F16C7/08",
+      "level": 1,
+      "parent": "F16C7/00",
+      "ja": "薄板金から作られたもの",
+      "en": "made from sheet metal",
+      "count": 252,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C9/00": {
+      "code": "F16C9/00",
+      "level": 0,
+      "parent": "F16C",
+      "ja": "クランク軸受または連接棒軸受；連接棒の付属品（クロスヘッドへの連結Ｆ１６Ｃ５／００，ピストンへの連結Ｆ１６Ｊ１／１４；クランク軸に関連した連接棒の潤滑Ｆ１６Ｃ３／１４）",
+      "en": "Bearings for crankshafts or connecting-rods; Attachment of connecting-rods(lubrication of connecting-rods in connection with crankshafts <b>F16C3/14</b>; connections to crossheads <b>F16C5/00</b>, to pistons <b>F16J1/14</b>)",
+      "count": 855,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C9/02": {
+      "code": "F16C9/02",
+      "level": 1,
+      "parent": "F16C9/00",
+      "ja": "クランク軸受",
+      "en": "Crankshaft bearings",
+      "count": 3651,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C9/03": {
+      "code": "F16C9/03",
+      "level": 2,
+      "parent": "F16C9/02",
+      "ja": "遊びを調節するための配列",
+      "en": "Arrangements for adjusting play",
+      "count": 158,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C9/04": {
+      "code": "F16C9/04",
+      "level": 1,
+      "parent": "F16C9/00",
+      "ja": "連接棒軸受；それの付属品",
+      "en": "Connecting-rod bearings; Attachment thereof",
+      "count": 3441,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C9/06": {
+      "code": "F16C9/06",
+      "level": 2,
+      "parent": "F16C9/04",
+      "ja": "軸受の遊びを自動的にまたは非自動的に調節する装置",
+      "en": "Arrangements for adjusting play in bearings, operating either automatically or not",
+      "count": 151,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C11/00": {
+      "code": "F16C11/00",
+      "level": 0,
+      "parent": "F16C",
+      "ja": "ピボット；枢着（操向リンク機構の配置Ｂ６２Ｄ７／１６）",
+      "en": "Pivots; Pivotal connections(arrangements of steering linkage connections <b>B62D7/16</b>)",
+      "count": 2023,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C11/02": {
+      "code": "F16C11/02",
+      "level": 1,
+      "parent": "F16C11/00",
+      "ja": "トラニオン；クランクピン（ウェブにクランクピンを，クランクに必要なクランクピンを，固着するものＦ１６Ｃ３／０６，Ｆ１６Ｃ３／２２）",
+      "en": "Trunnions; Crank-pins(fastening crank-pins to webs, crank-pins integral with cranks <b>F16C3/06</b>, <b>F16C3/22</b>)",
+      "count": 638,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C11/04": {
+      "code": "F16C11/04",
+      "level": 1,
+      "parent": "F16C11/00",
+      "ja": "枢着（窓用，扉用またはウイング用ヒンジＥ０５Ｄ）",
+      "en": "Pivotal connections(hinges for doors, windows or wings <b>E05D</b>)",
+      "count": 23704,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C11/06": {
+      "code": "F16C11/06",
+      "level": 2,
+      "parent": "F16C11/04",
+      "ja": "玉継手；１°以上の角自由度をもつ他の継手，すなわち自在継手（屈曲性が枢着またはすべりまたはころがり連結部材により生じる自在継ぎ手Ｆ１６Ｄ３／１６）",
+      "en": "Ball-joints; Other joints having more than one degree of angular freedom, i.e. universal joints(universal joints in which flexibility is produced by means of pivots or sliding or rolling connecting parts <b>F16D3/16</b>)",
+      "count": 15689,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C11/08": {
+      "code": "F16C11/08",
+      "level": 3,
+      "parent": "F16C11/06",
+      "ja": "弾性軸受をもつもの",
+      "en": "with resilient bearings",
+      "count": 1959,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C11/10": {
+      "code": "F16C11/10",
+      "level": 2,
+      "parent": "F16C11/04",
+      "ja": "ゆるみ止め用の配列",
+      "en": "Arrangements for locking",
+      "count": 10643,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C11/12": {
+      "code": "F16C11/12",
+      "level": 2,
+      "parent": "F16C11/04",
+      "ja": "一体的なたわみ連結，例．板ばね",
+      "en": "incorporating flexible connections, e.g. leaf springs",
+      "count": 3564,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C13/00": {
+      "code": "F16C13/00",
+      "level": 0,
+      "parent": "F16C",
+      "ja": "ロール，ドラム，円板等（ウエブ送給の案内ローラＢ６５Ｈ２７／００；カレンダ用ロール，軸受Ｄ２１Ｇ１／０２；熱交換または熱伝達装置の回転ドラムまたはローラＦ２８Ｆ５／０２）；そのための軸受けはまた取り付け具［２００６．０１］",
+      "en": "Rolls, drums, discs, or the like(guide rollers in feeding webs <b>B65H27/00</b>; calender rolls, bearings therefor <b>D21G1/02</b>; rotary drums or rollers for heat-exchange or heat-transfer apparatus <b>F28F5/02</b>);Bearings or mountings therefor",
+      "count": 21656,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C13/02": {
+      "code": "F16C13/02",
+      "level": 1,
+      "parent": "F16C13/00",
+      "ja": "軸受",
+      "en": "Bearings",
+      "count": 4147,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C13/04": {
+      "code": "F16C13/04",
+      "level": 2,
+      "parent": "F16C13/02",
+      "ja": "ささえられる部材が部分的に取り囲まれている軸受；２点またはそれ以上で支持された軸受",
+      "en": "Bearings with only partial enclosure of the member to be borne; Bearings with local support at two or more points",
+      "count": 807,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C13/06": {
+      "code": "F16C13/06",
+      "level": 2,
+      "parent": "F16C13/02",
+      "ja": "自己調節のできるもの",
+      "en": "self-adjusting",
+      "count": 309,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C15/00": {
+      "code": "F16C15/00",
+      "level": 0,
+      "parent": "F16C",
+      "ja": "遠心力に対抗する回転体の構造（はずみ車，重量修正Ｆ１６Ｆ１５／３０，Ｆ１６Ｆ１５／３２）",
+      "en": "Construction of rotary bodies to resist centrifugal force(flywheels, correction weights <b>F16F15/30</b>, <b>F16F15/32</b>)",
+      "count": 301,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C17/00": {
+      "code": "F16C17/00",
+      "level": 0,
+      "parent": "F16C",
+      "ja": "専ら回転運動のためのすべり軸受（Ｆ１６Ｃ３２／０６が優先；調節できる軸受Ｆ１６Ｃ２３／００，Ｆ１６Ｃ２５／００）［２］",
+      "en": "Sliding-contact bearings for exclusively rotary movement(<b>F16C32/06</b> takes precedence; adjustable bearings <b>F16C23/00</b>, <b>F16C25/00</b>)",
+      "count": 2232,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C17/02": {
+      "code": "F16C17/02",
+      "level": 1,
+      "parent": "F16C17/00",
+      "ja": "ラジアル荷重のみ用",
+      "en": "for radial load only",
+      "count": 8839,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C17/03": {
+      "code": "F16C17/03",
+      "level": 2,
+      "parent": "F16C17/02",
+      "ja": "傾斜支持された分割片をもつもの，例．ミッチェル軸受",
+      "en": "with tiltably-supported segments, e.g. Michell bearings",
+      "count": 1789,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C17/04": {
+      "code": "F16C17/04",
+      "level": 1,
+      "parent": "F16C17/00",
+      "ja": "アキシァル荷重のみ用",
+      "en": "for axial load only",
+      "count": 4649,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C17/06": {
+      "code": "F16C17/06",
+      "level": 2,
+      "parent": "F16C17/04",
+      "ja": "傾斜支持された分割片をもつもの，例．ミッチェル軸受",
+      "en": "with tiltably-supported segments, e.g. Michell bearings",
+      "count": 1769,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C17/08": {
+      "code": "F16C17/08",
+      "level": 2,
+      "parent": "F16C17/04",
+      "ja": "軸または他の部材の端部を支持するもの，例．ピボット軸受",
+      "en": "for supporting the end face of a shaft or other member, e.g. footstep bearings",
+      "count": 2457,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C17/10": {
+      "code": "F16C17/10",
+      "level": 1,
+      "parent": "F16C17/00",
+      "ja": "ラジアル荷重およびアキシァル荷重用",
+      "en": "for both radial and axial load",
+      "count": 6771,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C17/12": {
+      "code": "F16C17/12",
+      "level": 1,
+      "parent": "F16C17/00",
+      "ja": "荷重方向に関係しないで特徴づけられるもの",
+      "en": "characterised by features not related to the direction of the load",
+      "count": 1050,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C17/14": {
+      "code": "F16C17/14",
+      "level": 2,
+      "parent": "F16C17/12",
+      "ja": "特に水中作動用として採用されるもの",
+      "en": "specially adapted for operating in water",
+      "count": 722,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C17/18": {
+      "code": "F16C17/18",
+      "level": 2,
+      "parent": "F16C17/12",
+      "ja": "低速で回転できる浮動軸受金または浮動ブッシュをもつもの",
+      "en": "with floating brasses or bushes, rotatable at a reduced speed",
+      "count": 728,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C17/20": {
+      "code": "F16C17/20",
+      "level": 2,
+      "parent": "F16C17/12",
+      "ja": "非常時の支持または軸受をもつもの",
+      "en": "with emergency supports or bearings",
+      "count": 267,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C17/22": {
+      "code": "F16C17/22",
+      "level": 2,
+      "parent": "F16C17/12",
+      "ja": "熱膨張を補充する配列をもつもの",
+      "en": "with arrangements compensating for thermal expansion",
+      "count": 380,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C17/24": {
+      "code": "F16C17/24",
+      "level": 2,
+      "parent": "F16C17/12",
+      "ja": "異常なまたは望ましくない条件に影響される装置をもつもの，例．過熱防止用，安全用",
+      "en": "with devices affected by abnormal or undesired conditions, e.g. for preventing overheating, for safety",
+      "count": 1854,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C17/26": {
+      "code": "F16C17/26",
+      "level": 1,
+      "parent": "F16C17/00",
+      "ja": "複数のすべり軸受からなる方式",
+      "en": "Systems consisting of a plurality of sliding-contact bearings",
+      "count": 882,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C19/00": {
+      "code": "F16C19/00",
+      "level": 0,
+      "parent": "F16C",
+      "ja": "専ら回転運動のためのころがり軸受（調節できる軸受Ｆ１６Ｃ２３／００，Ｆ１６Ｃ２５／００）",
+      "en": "Bearings with rolling contact, for exclusively rotary movement(adjustable bearings <b>F16C23/00</b>, <b>F16C25/00</b>)",
+      "count": 2845,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C19/02": {
+      "code": "F16C19/02",
+      "level": 1,
+      "parent": "F16C19/00",
+      "ja": "１列またはそれ以上の列の中に実質的に同じ大きさの玉をもつもの",
+      "en": "with bearing balls essentially of the same size in one or more circular rows",
+      "count": 2926,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C19/04": {
+      "code": "F16C19/04",
+      "level": 2,
+      "parent": "F16C19/02",
+      "ja": "おもにラジアル荷重用",
+      "en": "for radial load mainly",
+      "count": 676,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C19/06": {
+      "code": "F16C19/06",
+      "level": 3,
+      "parent": "F16C19/04",
+      "ja": "単列の玉をもつもの",
+      "en": "with a single row of balls",
+      "count": 5755,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C19/08": {
+      "code": "F16C19/08",
+      "level": 3,
+      "parent": "F16C19/04",
+      "ja": "２列または多列の玉をもつもの",
+      "en": "with two or more rows of balls",
+      "count": 1106,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C19/10": {
+      "code": "F16C19/10",
+      "level": 2,
+      "parent": "F16C19/02",
+      "ja": "おもにアキシァル荷重用",
+      "en": "for axial load mainly",
+      "count": 1764,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C19/12": {
+      "code": "F16C19/12",
+      "level": 3,
+      "parent": "F16C19/10",
+      "ja": "軸または他の部材の端面を支持するもの，例．ピボット軸受",
+      "en": "for supporting the end face of a shaft or other member, e.g. footstep bearings",
+      "count": 850,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C19/14": {
+      "code": "F16C19/14",
+      "level": 2,
+      "parent": "F16C19/02",
+      "ja": "ラジアル荷重およびアキシァル荷重用",
+      "en": "for both radial and axial load",
+      "count": 581,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C19/16": {
+      "code": "F16C19/16",
+      "level": 3,
+      "parent": "F16C19/14",
+      "ja": "単列の玉をもつもの",
+      "en": "with a single row of balls",
+      "count": 6866,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C19/18": {
+      "code": "F16C19/18",
+      "level": 3,
+      "parent": "F16C19/14",
+      "ja": "複列または多列の玉をもつもの",
+      "en": "with two or more rows of balls",
+      "count": 8899,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C19/20": {
+      "code": "F16C19/20",
+      "level": 2,
+      "parent": "F16C19/02",
+      "ja": "軸受の玉の間に間隔体，例．玉をもつもの",
+      "en": "with loose spacing bodies, e.g. balls, between the bearing balls",
+      "count": 457,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C19/22": {
+      "code": "F16C19/22",
+      "level": 1,
+      "parent": "F16C19/00",
+      "ja": "１列またはそれ以上の列の中に実質的に同じ大きさのころをもつもの，例．針状ころ軸受",
+      "en": "with bearing rollers essentially of the same size in one or more circular rows, e.g. needle bearings",
+      "count": 2027,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C19/24": {
+      "code": "F16C19/24",
+      "level": 2,
+      "parent": "F16C19/22",
+      "ja": "おもにラジアル荷重用",
+      "en": "for radial load mainly",
+      "count": 527,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C19/26": {
+      "code": "F16C19/26",
+      "level": 3,
+      "parent": "F16C19/24",
+      "ja": "単列のころをもつもの",
+      "en": "with a single row of rollers",
+      "count": 3152,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C19/28": {
+      "code": "F16C19/28",
+      "level": 3,
+      "parent": "F16C19/24",
+      "ja": "複列または多列のころをもつもの",
+      "en": "with two or more rows of rollers",
+      "count": 1171,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C19/30": {
+      "code": "F16C19/30",
+      "level": 2,
+      "parent": "F16C19/22",
+      "ja": "おもにアキシァル荷重用",
+      "en": "for axial load mainly",
+      "count": 2079,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C19/32": {
+      "code": "F16C19/32",
+      "level": 3,
+      "parent": "F16C19/30",
+      "ja": "軸または他の部材の端面を支持するもの，例．ピボット軸受",
+      "en": "for supporting the end face of a shaft or other member, e.g. footstep bearings",
+      "count": 425,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C19/34": {
+      "code": "F16C19/34",
+      "level": 2,
+      "parent": "F16C19/22",
+      "ja": "ラジアル荷重およびアキシァル荷重用",
+      "en": "for both radial and axial load",
+      "count": 922,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C19/36": {
+      "code": "F16C19/36",
+      "level": 3,
+      "parent": "F16C19/34",
+      "ja": "単列のころをもつもの",
+      "en": "with a single row of rollers",
+      "count": 4801,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C19/38": {
+      "code": "F16C19/38",
+      "level": 3,
+      "parent": "F16C19/34",
+      "ja": "複列または多列のころをもつもの",
+      "en": "with two or more rows of rollers",
+      "count": 5157,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C19/40": {
+      "code": "F16C19/40",
+      "level": 2,
+      "parent": "F16C19/22",
+      "ja": "ころの間に間隔体をもつもの",
+      "en": "with loose spacing bodies between the rollers",
+      "count": 507,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C19/44": {
+      "code": "F16C19/44",
+      "level": 2,
+      "parent": "F16C19/22",
+      "ja": "針状ころ軸受",
+      "en": "Needle bearings",
+      "count": 573,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C19/46": {
+      "code": "F16C19/46",
+      "level": 3,
+      "parent": "F16C19/44",
+      "ja": "単列の針状ころをもつもの",
+      "en": "with one row of needles",
+      "count": 2101,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C19/48": {
+      "code": "F16C19/48",
+      "level": 3,
+      "parent": "F16C19/44",
+      "ja": "複列または多列の針状ころをもつもの",
+      "en": "with two or more rows of needles",
+      "count": 290,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C19/49": {
+      "code": "F16C19/49",
+      "level": 1,
+      "parent": "F16C19/00",
+      "ja": "玉およびころをもつ軸受",
+      "en": "Bearings with both balls and rollers",
+      "count": 1273,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C19/50": {
+      "code": "F16C19/50",
+      "level": 1,
+      "parent": "F16C19/00",
+      "ja": "他の形の玉軸受またはころ軸受",
+      "en": "Other types of ball or roller bearings",
+      "count": 1862,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C19/52": {
+      "code": "F16C19/52",
+      "level": 1,
+      "parent": "F16C19/00",
+      "ja": "異常なまたは望ましくない条件によって影響される装置をもつもの",
+      "en": "with devices affected by abnormal or undesired conditions",
+      "count": 5729,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C19/54": {
+      "code": "F16C19/54",
+      "level": 1,
+      "parent": "F16C19/00",
+      "ja": "ころがり摩擦をもつ複数の軸受からなる方式（スピンドル軸受Ｆ１６Ｃ３５／０８）",
+      "en": "Systems consisting of a plurality of bearings with rolling friction(spindle bearings <b>F16C35/08</b>)",
+      "count": 4381,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C19/55": {
+      "code": "F16C19/55",
+      "level": 2,
+      "parent": "F16C19/54",
+      "ja": "低速で回転する中間浮動輪をもつもの",
+      "en": "with intermediate floating rings rotating at reduced speed",
+      "count": 466,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C19/56": {
+      "code": "F16C19/56",
+      "level": 2,
+      "parent": "F16C19/54",
+      "ja": "軸受の転動体が他の軸受のそれとは異なった直径であるもの",
+      "en": "in which the rolling bodies of one bearing differ in diameter from those of another",
+      "count": 681,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C21/00": {
+      "code": "F16C21/00",
+      "level": 0,
+      "parent": "F16C",
+      "ja": "専ら回転運動のための玉軸受またはころ軸受とすべり軸受との組み合わせ（Ｆ１６Ｃ１７／２４，Ｆ１６Ｃ１９／５２が優先）［２］",
+      "en": "Combinations of sliding-contact bearings with ball or roller bearings, for exclusively rotary movement(<b>F16C17/24</b>, <b>F16C19/52</b>take precedence)",
+      "count": 1642,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C23/00": {
+      "code": "F16C23/00",
+      "level": 0,
+      "parent": "F16C",
+      "ja": "専ら回転運動のための、調心または位置調節のできる軸受（Ｆ１６Ｃ２７／００が優先）",
+      "en": "Bearings for exclusively rotary movement adjustable for aligning or positioning(<b>F16C27/00</b> takes precedence)",
+      "count": 734,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C23/02": {
+      "code": "F16C23/02",
+      "level": 1,
+      "parent": "F16C23/00",
+      "ja": "すべり軸受",
+      "en": "Sliding-contact bearings",
+      "count": 931,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C23/04": {
+      "code": "F16C23/04",
+      "level": 2,
+      "parent": "F16C23/02",
+      "ja": "自己調節のできるもの",
+      "en": "self-adjusting",
+      "count": 4064,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C23/06": {
+      "code": "F16C23/06",
+      "level": 1,
+      "parent": "F16C23/00",
+      "ja": "玉軸受またはころ軸受",
+      "en": "Ball or roller bearings",
+      "count": 1316,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C23/08": {
+      "code": "F16C23/08",
+      "level": 2,
+      "parent": "F16C23/06",
+      "ja": "自己調節のできるもの",
+      "en": "self-adjusting",
+      "count": 3804,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C23/10": {
+      "code": "F16C23/10",
+      "level": 1,
+      "parent": "F16C23/00",
+      "ja": "軸受，互いに関して偏心して調節できる部品",
+      "en": "Bearings, parts of which are eccentrically adjustable with respect to each other",
+      "count": 502,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C25/00": {
+      "code": "F16C25/00",
+      "level": 0,
+      "parent": "F16C",
+      "ja": "専ら回転運動のための摩損または遊びに対して調節のできる軸受（Ｆ１６Ｃ２７／００が優先）",
+      "en": "Bearings for exclusively rotary movement adjustable for wear or play(<b>F16C27/00</b> takes precedence)",
+      "count": 268,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C25/02": {
+      "code": "F16C25/02",
+      "level": 1,
+      "parent": "F16C25/00",
+      "ja": "すべり軸受",
+      "en": "Sliding-contact bearings",
+      "count": 778,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C25/04": {
+      "code": "F16C25/04",
+      "level": 2,
+      "parent": "F16C25/02",
+      "ja": "自己調節のできるもの",
+      "en": "self-adjusting",
+      "count": 726,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C25/06": {
+      "code": "F16C25/06",
+      "level": 1,
+      "parent": "F16C25/00",
+      "ja": "玉軸受またはころ軸受",
+      "en": "Ball or roller bearings",
+      "count": 2352,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C25/08": {
+      "code": "F16C25/08",
+      "level": 2,
+      "parent": "F16C25/06",
+      "ja": "自己調節のできるもの",
+      "en": "self-adjusting",
+      "count": 3383,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C27/00": {
+      "code": "F16C27/00",
+      "level": 0,
+      "parent": "F16C",
+      "ja": "専ら回転運動のための弾性または変形できる軸受または軸受支持（携帯時計または時計の耐震軸受Ｇ０４Ｂ３１／０２）",
+      "en": "Elastic or yielding bearings or bearing supports, for exclusively rotary movement(shock-damping bearings for watches or clocks <b>G04B31/02</b>)",
+      "count": 2156,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C27/02": {
+      "code": "F16C27/02",
+      "level": 1,
+      "parent": "F16C27/00",
+      "ja": "すべり軸受",
+      "en": "Sliding-contact bearings",
+      "count": 3158,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C27/04": {
+      "code": "F16C27/04",
+      "level": 1,
+      "parent": "F16C27/00",
+      "ja": "玉軸受またはころ軸受，例．弾性の転動体をもつもの",
+      "en": "Ball or roller bearings, e.g. with resilient rolling bodies",
+      "count": 2568,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C27/06": {
+      "code": "F16C27/06",
+      "level": 1,
+      "parent": "F16C27/00",
+      "ja": "ゴムまたは同様な材料の部品によるもの（Ｆ１６Ｃ２７／０８が優先；ゴムまたは合成ゴムのすべり面をもつものＦ１６Ｃ３３／２２）",
+      "en": "by means of parts of rubber or like materials(<b>F16C27/08</b> takes precedence; with sliding surfaces of rubber or synthetic rubber <b>F16C33/22</b>)",
+      "count": 4423,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C27/08": {
+      "code": "F16C27/08",
+      "level": 1,
+      "parent": "F16C27/00",
+      "ja": "おもにアキシァル荷重用，例．垂直に配置された軸用",
+      "en": "primarily for axial load, e.g. for vertically-arranged shafts",
+      "count": 1145,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C29/00": {
+      "code": "F16C29/00",
+      "level": 0,
+      "parent": "F16C",
+      "ja": "直線運動だけをする部品用の軸受（Ｆ１６Ｃ３２／０６が優先；たわみ軸の中に入れられたものＦ１６Ｃ１／２８）［２］",
+      "en": "Bearings for parts moving only linearly(<b>F16C32/06</b> takes precedence; incorporated in flexible shafts <b>F16C1/28</b>)",
+      "count": 5964,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C29/02": {
+      "code": "F16C29/02",
+      "level": 1,
+      "parent": "F16C29/00",
+      "ja": "すべり軸受",
+      "en": "Sliding-contact bearings",
+      "count": 6357,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C29/04": {
+      "code": "F16C29/04",
+      "level": 1,
+      "parent": "F16C29/00",
+      "ja": "玉軸受またはころ軸受",
+      "en": "Ball or roller bearings",
+      "count": 8426,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C29/06": {
+      "code": "F16C29/06",
+      "level": 2,
+      "parent": "F16C29/04",
+      "ja": "部分的に荷重をささえないで転動体が循環するもの",
+      "en": "in which the rolling bodies circulate partly without carrying load",
+      "count": 6632,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C29/08": {
+      "code": "F16C29/08",
+      "level": 1,
+      "parent": "F16C29/00",
+      "ja": "軌道をおおったりまたは保護するための配列",
+      "en": "Arrangements for covering or protecting the ways",
+      "count": 1962,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C29/10": {
+      "code": "F16C29/10",
+      "level": 1,
+      "parent": "F16C29/00",
+      "ja": "軸受のゆるみ止め用の配列",
+      "en": "Arrangements for locking the bearings",
+      "count": 1245,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C29/12": {
+      "code": "F16C29/12",
+      "level": 1,
+      "parent": "F16C29/00",
+      "ja": "遊びを調節するための配列",
+      "en": "Arrangements for adjusting play",
+      "count": 1221,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C31/00": {
+      "code": "F16C31/00",
+      "level": 0,
+      "parent": "F16C",
+      "ja": "回転運動および直線運動をする部品用の軸受",
+      "en": "Bearings for parts which both rotate and move linearly",
+      "count": 269,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C31/02": {
+      "code": "F16C31/02",
+      "level": 1,
+      "parent": "F16C31/00",
+      "ja": "すべり軸受",
+      "en": "Sliding-contact bearings",
+      "count": 274,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C31/04": {
+      "code": "F16C31/04",
+      "level": 1,
+      "parent": "F16C31/00",
+      "ja": "玉軸受またはころ軸受",
+      "en": "Ball or roller bearings",
+      "count": 488,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C31/06": {
+      "code": "F16C31/06",
+      "level": 2,
+      "parent": "F16C31/04",
+      "ja": "部分的に荷重をささえないで転動体が循環するもの",
+      "en": "in which the rolling bodies circulate partly without carrying load",
+      "count": 240,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C32/00": {
+      "code": "F16C32/00",
+      "level": 0,
+      "parent": "F16C",
+      "ja": "その他の軸受",
+      "en": "Bearings not otherwise provided for",
+      "count": 1850,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C32/02": {
+      "code": "F16C32/02",
+      "level": 1,
+      "parent": "F16C32/00",
+      "ja": "ナイフエッジ軸受",
+      "en": "Knife-edge bearings",
+      "count": 155,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C32/04": {
+      "code": "F16C32/04",
+      "level": 1,
+      "parent": "F16C32/00",
+      "ja": "磁気的または電気的な支持手段を用いるもの（磁気浮上装置Ｈ０２Ｎ１５／００）［２］",
+      "en": "using magnetic or electric supporting means",
+      "count": 9061,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C32/06": {
+      "code": "F16C32/06",
+      "level": 1,
+      "parent": "F16C32/00",
+      "ja": "軸の運動以外に，少なくとも広区域にわたって形成された流体クッションにより支持された運動部材をもつもの，例．静圧空気軸受［２］",
+      "en": "with moving member supported by a fluid cushion formed, at least to a large extent, otherwise than by movement of the shaft, e.g. hydrostatic air-cushion bearings",
+      "count": 11331,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C33/00": {
+      "code": "F16C33/00",
+      "level": 0,
+      "parent": "F16C",
+      "ja": "軸受部品；軸受または軸受部品の特別な製造方法［２００６．０１］",
+      "en": "Parts of bearings; Special methods for making bearings or parts thereof",
+      "count": 3919,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C33/02": {
+      "code": "F16C33/02",
+      "level": 1,
+      "parent": "F16C33/00",
+      "ja": "すべり軸受の部品",
+      "en": "Parts of sliding-contact bearings",
+      "count": 1981,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C33/04": {
+      "code": "F16C33/04",
+      "level": 2,
+      "parent": "F16C33/02",
+      "ja": "軸受金；ブッシュ；ライニング",
+      "en": "Brasses; Bushes; Linings",
+      "count": 8207,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C33/06": {
+      "code": "F16C33/06",
+      "level": 3,
+      "parent": "F16C33/04",
+      "ja": "おもに金属で作られたすべり面（Ｆ１６Ｃ３３／２４～Ｆ１６Ｃ３３／２８が優先）",
+      "en": "Sliding surface mainly made of metal(<b>F16C33/24 to F16C33/28</b>  take precedence)",
+      "count": 1985,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C33/08": {
+      "code": "F16C33/08",
+      "level": 4,
+      "parent": "F16C33/06",
+      "ja": "軸受ハウジングへ軸受金，ブッシユ，ライニングを取り付け",
+      "en": "Attachment of brasses, bushes, or linings to the bearing housing",
+      "count": 1610,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C33/10": {
+      "code": "F16C33/10",
+      "level": 4,
+      "parent": "F16C33/06",
+      "ja": "潤滑に関する構造",
+      "en": "Construction relative to lubrication",
+      "count": 17080,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C33/12": {
+      "code": "F16C33/12",
+      "level": 4,
+      "parent": "F16C33/06",
+      "ja": "構造上の組成；特別な材料または表面処理の使用，例．さび止め用",
+      "en": "Structural composition; Use of special materials or surface treatments, e.g. for rust-proofing",
+      "count": 8623,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C33/14": {
+      "code": "F16C33/14",
+      "level": 4,
+      "parent": "F16C33/06",
+      "ja": "特別な製造方法；なじみ運転",
+      "en": "Special methods of manufacture; Running-in",
+      "count": 4923,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C33/16": {
+      "code": "F16C33/16",
+      "level": 3,
+      "parent": "F16C33/04",
+      "ja": "おもに黒鉛からなるすべり面",
+      "en": "Sliding surface consisting mainly of graphite",
+      "count": 885,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C33/18": {
+      "code": "F16C33/18",
+      "level": 3,
+      "parent": "F16C33/04",
+      "ja": "おもに木または繊維状材料からなるすべり面",
+      "en": "Sliding surface consisting mainly of wood or fibrous material",
+      "count": 419,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C33/20": {
+      "code": "F16C33/20",
+      "level": 3,
+      "parent": "F16C33/04",
+      "ja": "おもにプラスチックからなるすべり面（Ｆ１６Ｃ３３／２２～Ｆ１６Ｃ３３／２８が優先）",
+      "en": "Sliding surface consisting mainly of plastics(<b>F16C33/22 to F16C33/28</b>  take precedence)",
+      "count": 6907,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C33/22": {
+      "code": "F16C33/22",
+      "level": 3,
+      "parent": "F16C33/04",
+      "ja": "おもにゴムまたは合成ゴムからなるすべり面（Ｆ１６Ｃ３３／２４～Ｆ１６Ｃ３３／２８が優先）",
+      "en": "Sliding surface consisting mainly of rubber or synthetic rubber(<b>F16C33/24 to F16C33/28</b>  take precedence)",
+      "count": 559,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C33/24": {
+      "code": "F16C33/24",
+      "level": 3,
+      "parent": "F16C33/04",
+      "ja": "種々の材料からなる種々の範囲のすべり面をもつもの",
+      "en": "with different areas of the sliding surface consisting of different materials",
+      "count": 2529,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C33/26": {
+      "code": "F16C33/26",
+      "level": 3,
+      "parent": "F16C33/04",
+      "ja": "針金コイルから作られたもの；いくつかの円板，輪，棒または他の部品から作られたもの",
+      "en": "made from wire coils; made from a number of discs, rings, rods, or other members",
+      "count": 482,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C33/28": {
+      "code": "F16C33/28",
+      "level": 3,
+      "parent": "F16C33/04",
+      "ja": "フレームとして形成された，または材料を網の目にした補強材を埋め込んだもの",
+      "en": "with embedded reinforcements shaped as frames or meshed materials",
+      "count": 487,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C33/30": {
+      "code": "F16C33/30",
+      "level": 1,
+      "parent": "F16C33/00",
+      "ja": "玉軸受またはころ軸受の部品",
+      "en": "Parts of ball or roller bearings",
+      "count": 3333,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C33/32": {
+      "code": "F16C33/32",
+      "level": 2,
+      "parent": "F16C33/30",
+      "ja": "玉",
+      "en": "Balls",
+      "count": 4139,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C33/34": {
+      "code": "F16C33/34",
+      "level": 2,
+      "parent": "F16C33/30",
+      "ja": "ころ；針状ころ",
+      "en": "Rollers; Needles",
+      "count": 3540,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C33/36": {
+      "code": "F16C33/36",
+      "level": 3,
+      "parent": "F16C33/34",
+      "ja": "円筒状以外の転動面をもつもの，例．円すい状；転動面にみぞをもつもの",
+      "en": "with bearing-surfaces other than cylindrical, e.g. tapered; with grooves in the bearing surfaces",
+      "count": 2092,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C33/37": {
+      "code": "F16C33/37",
+      "level": 2,
+      "parent": "F16C33/30",
+      "ja": "間隔体",
+      "en": "Loose spacing bodies",
+      "count": 1068,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C33/372": {
+      "code": "F16C33/372",
+      "level": 3,
+      "parent": "F16C33/37",
+      "ja": "中実のもの",
+      "en": "rigid",
+      "count": 280,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C33/374": {
+      "code": "F16C33/374",
+      "level": 3,
+      "parent": "F16C33/37",
+      "ja": "弾性のあるもの",
+      "en": "resilient",
+      "count": 189,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C33/38": {
+      "code": "F16C33/38",
+      "level": 2,
+      "parent": "F16C33/30",
+      "ja": "玉保持器",
+      "en": "Ball cages",
+      "count": 7124,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C33/40": {
+      "code": "F16C33/40",
+      "level": 3,
+      "parent": "F16C33/38",
+      "ja": "多列玉用",
+      "en": "for multiple rows of balls",
+      "count": 921,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C33/41": {
+      "code": "F16C33/41",
+      "level": 3,
+      "parent": "F16C33/38",
+      "ja": "くし状のもの",
+      "en": "comb-shaped",
+      "count": 1727,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C33/42": {
+      "code": "F16C33/42",
+      "level": 3,
+      "parent": "F16C33/38",
+      "ja": "針金または薄板金片から作られたもの（Ｆ１６Ｃ３３／４０，Ｆ１６Ｃ３３／４１が優先）",
+      "en": "made from wire or sheet-metal strips(<b>F16C33/40</b>, <b>F16C33/41</b> take precedence)",
+      "count": 1080,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C33/44": {
+      "code": "F16C33/44",
+      "level": 3,
+      "parent": "F16C33/38",
+      "ja": "材料の選択（Ｆ１６Ｃ３３／４０，Ｆ１６Ｃ３３／４１が優先）",
+      "en": "Selection of substances(<b>F16C33/40</b>, <b>F16C33/41</b> take precedence)",
+      "count": 2642,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C33/46": {
+      "code": "F16C33/46",
+      "level": 2,
+      "parent": "F16C33/30",
+      "ja": "ころ用または針状ころ用保持器",
+      "en": "Cages for rollers or needles",
+      "count": 7897,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C33/48": {
+      "code": "F16C33/48",
+      "level": 3,
+      "parent": "F16C33/46",
+      "ja": "多列のころまたは針状ころ用",
+      "en": "for multiple rows of rollers or needles",
+      "count": 1644,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C33/49": {
+      "code": "F16C33/49",
+      "level": 3,
+      "parent": "F16C33/46",
+      "ja": "くし状のもの",
+      "en": "comb-shaped",
+      "count": 608,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C33/50": {
+      "code": "F16C33/50",
+      "level": 3,
+      "parent": "F16C33/46",
+      "ja": "中間連結部材，例．鎖，で形成されたもの",
+      "en": "formed of interconnected members, e.g. chains",
+      "count": 895,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C33/51": {
+      "code": "F16C33/51",
+      "level": 3,
+      "parent": "F16C33/46",
+      "ja": "非連結部材で形成されたもの",
+      "en": "formed of unconnected members",
+      "count": 454,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C33/52": {
+      "code": "F16C33/52",
+      "level": 3,
+      "parent": "F16C33/46",
+      "ja": "ころ転動面の間に入り込んだ部分またはころ転動面に接触する部分をもたないもの（Ｆ１６Ｃ３３／５０が優先）",
+      "en": "with no part entering between, or touching, the bearing surfaces of the rollers(<b>F16C33/50</b> takes precedence)",
+      "count": 426,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C33/54": {
+      "code": "F16C33/54",
+      "level": 3,
+      "parent": "F16C33/46",
+      "ja": "針金，ストリップ，または薄板金で作られたもの（Ｆ１６Ｃ３３／４８，Ｆ１６Ｃ３３／４９が優先）",
+      "en": "made from wire, strips, or sheet metal(<b>F16C33/48</b>, <b>F16C33/49</b> take precedence)",
+      "count": 2156,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C33/56": {
+      "code": "F16C33/56",
+      "level": 3,
+      "parent": "F16C33/46",
+      "ja": "材料の選択（Ｆ１６Ｃ３３／４８，Ｆ１６Ｃ３３／４９が優先）",
+      "en": "Selection of substances(<b>F16C33/48</b>, <b>F16C33/49</b> take precedence)",
+      "count": 2058,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C33/58": {
+      "code": "F16C33/58",
+      "level": 2,
+      "parent": "F16C33/30",
+      "ja": "軌道；軌道輪",
+      "en": "Raceways; Race rings",
+      "count": 26035,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C33/60": {
+      "code": "F16C33/60",
+      "level": 3,
+      "parent": "F16C33/58",
+      "ja": "分割されたもの",
+      "en": "divided",
+      "count": 4365,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C33/61": {
+      "code": "F16C33/61",
+      "level": 4,
+      "parent": "F16C33/60",
+      "ja": "針金で形成されたもの",
+      "en": "formed by wires",
+      "count": 348,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C33/62": {
+      "code": "F16C33/62",
+      "level": 3,
+      "parent": "F16C33/58",
+      "ja": "材料の選択",
+      "en": "Selection of substances",
+      "count": 5264,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C33/64": {
+      "code": "F16C33/64",
+      "level": 3,
+      "parent": "F16C33/58",
+      "ja": "特別な製造方法",
+      "en": "Special methods of manufacture",
+      "count": 5305,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C33/66": {
+      "code": "F16C33/66",
+      "level": 2,
+      "parent": "F16C33/30",
+      "ja": "潤滑からみた特別な部品または細部",
+      "en": "Special parts or details in view of lubrication",
+      "count": 25699,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C33/72": {
+      "code": "F16C33/72",
+      "level": 1,
+      "parent": "F16C33/00",
+      "ja": "密封装置",
+      "en": "Sealings",
+      "count": 4188,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C33/74": {
+      "code": "F16C33/74",
+      "level": 2,
+      "parent": "F16C33/72",
+      "ja": "すべり軸受の密封装置",
+      "en": "of sliding-contact bearings",
+      "count": 4976,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C33/76": {
+      "code": "F16C33/76",
+      "level": 2,
+      "parent": "F16C33/72",
+      "ja": "玉軸受またはころ軸受の密封装置",
+      "en": "of ball or roller bearings",
+      "count": 7258,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C33/78": {
+      "code": "F16C33/78",
+      "level": 3,
+      "parent": "F16C33/76",
+      "ja": "ダイヤフラム，円板または輪をもつもの，弾性部材をもつもの，または弾性部材をもたないもの",
+      "en": "with a diaphragm, disc, or ring, with or without resilient members",
+      "count": 20641,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C33/80": {
+      "code": "F16C33/80",
+      "level": 3,
+      "parent": "F16C33/76",
+      "ja": "ラビリンスシール",
+      "en": "Labyrinth sealings",
+      "count": 3443,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C33/82": {
+      "code": "F16C33/82",
+      "level": 3,
+      "parent": "F16C33/76",
+      "ja": "ちりまたは他の粒子を防ぐ静電気作用，または磁気作用のための装置",
+      "en": "Arrangements for electrostatic or magnetic action against dust or other particles",
+      "count": 925,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C35/00": {
+      "code": "F16C35/00",
+      "level": 0,
+      "parent": "F16C",
+      "ja": "軸受ユニットの固定的支持；ハウジング，例．キャップ，カバー（Ｆ１６Ｃ２３／００が優先）",
+      "en": "Rigid support of bearing units; Housings, e.g. caps, covers(<b>F16C23/00</b>  takes precedence)",
+      "count": 8671,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C35/02": {
+      "code": "F16C35/02",
+      "level": 1,
+      "parent": "F16C35/00",
+      "ja": "すべり軸受の場合",
+      "en": "in the case of sliding-contact bearings",
+      "count": 6598,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C35/04": {
+      "code": "F16C35/04",
+      "level": 1,
+      "parent": "F16C35/00",
+      "ja": "玉軸受またはころ軸受の場合",
+      "en": "in the case of ball or roller bearings",
+      "count": 4640,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C35/06": {
+      "code": "F16C35/06",
+      "level": 2,
+      "parent": "F16C35/04",
+      "ja": "玉軸受またはころ軸受のすえ付け；軸またはハウジングへのそれらの固定",
+      "en": "Mounting of ball or roller bearings; Fixing them onto shaft or in housing",
+      "count": 6512,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C35/063": {
+      "code": "F16C35/063",
+      "level": 3,
+      "parent": "F16C35/06",
+      "ja": "それらの軸への固定（一つの要素の介在によるＦ１６Ｃ３５／０７）［３］",
+      "en": "Fixing them on the shaft(with interposition of an element <b>F16C35/07</b>)",
+      "count": 4305,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C35/067": {
+      "code": "F16C35/067",
+      "level": 3,
+      "parent": "F16C35/06",
+      "ja": "それらのハウジングへの固定（一つの要素の介在によるＦ１６Ｃ３５／０７）［３］",
+      "en": "Fixing them in a housing(with interposition of an element <b>F16C35/07</b>)",
+      "count": 4323,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C35/07": {
+      "code": "F16C35/07",
+      "level": 3,
+      "parent": "F16C35/06",
+      "ja": "一つの要素の介在によるそれらの軸またはハウジングへの固定［３］",
+      "en": "Fixing them on the shaft or housing with interposition of an element",
+      "count": 1440,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C35/073": {
+      "code": "F16C35/073",
+      "level": 4,
+      "parent": "F16C35/07",
+      "ja": "軸と軌道輪内側の間［３］",
+      "en": "between shaft and inner race ring",
+      "count": 2027,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C35/077": {
+      "code": "F16C35/077",
+      "level": 4,
+      "parent": "F16C35/07",
+      "ja": "ハウジングと軌道輪外側の間［３］",
+      "en": "between housing and outer race ring",
+      "count": 3794,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C35/078": {
+      "code": "F16C35/078",
+      "level": 3,
+      "parent": "F16C35/06",
+      "ja": "すえ付け補助のための流体圧の使用［３］",
+      "en": "using pressure fluid as mounting aid",
+      "count": 131,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C35/08": {
+      "code": "F16C35/08",
+      "level": 1,
+      "parent": "F16C35/00",
+      "ja": "スピンドル用",
+      "en": "for spindles",
+      "count": 1008,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C35/10": {
+      "code": "F16C35/10",
+      "level": 2,
+      "parent": "F16C35/08",
+      "ja": "すべり軸受をもつもの",
+      "en": "with sliding-contact bearings",
+      "count": 658,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C35/12": {
+      "code": "F16C35/12",
+      "level": 2,
+      "parent": "F16C35/08",
+      "ja": "玉軸受またはころ軸受をもつもの",
+      "en": "with ball or roller bearings",
+      "count": 1764,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C37/00": {
+      "code": "F16C37/00",
+      "level": 0,
+      "parent": "F16C",
+      "ja": "軸受の冷却",
+      "en": "Cooling of bearings",
+      "count": 8960,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C39/00": {
+      "code": "F16C39/00",
+      "level": 0,
+      "parent": "F16C",
+      "ja": "軸受の荷重軽減，例．磁気手段によるもの",
+      "en": "Relieving load on bearings",
+      "count": 192,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C39/02": {
+      "code": "F16C39/02",
+      "level": 1,
+      "parent": "F16C39/00",
+      "ja": "機械的手段を使用するもの",
+      "en": "using mechanical means",
+      "count": 719,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C39/04": {
+      "code": "F16C39/04",
+      "level": 1,
+      "parent": "F16C39/00",
+      "ja": "水力または空気手段を使用するもの",
+      "en": "using hydraulic or pneumatic means",
+      "count": 453,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C39/06": {
+      "code": "F16C39/06",
+      "level": 1,
+      "parent": "F16C39/00",
+      "ja": "磁気手段を使用するもの（磁気浮上装置Ｈ０２Ｎ１５／００）",
+      "en": "using magnetic means",
+      "count": 2703,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C41/00": {
+      "code": "F16C41/00",
+      "level": 0,
+      "parent": "F16C",
+      "ja": "軸受の他の付属品",
+      "en": "Other accessories for bearings",
+      "count": 8640,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C41/02": {
+      "code": "F16C41/02",
+      "level": 1,
+      "parent": "F16C41/00",
+      "ja": "複数の軸受または軸受要素上の荷重を平等にするための装置",
+      "en": "Arrangements for equalising the load on a plurality of bearings or their elements",
+      "count": 434,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C41/04": {
+      "code": "F16C41/04",
+      "level": 1,
+      "parent": "F16C41/00",
+      "ja": "貯蔵中もしくは輸送中または不使用時における軸受の損傷防止",
+      "en": "Preventing damage to bearings during storage or transport thereof or when otherwise out of use",
+      "count": 832,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C43/00": {
+      "code": "F16C43/00",
+      "level": 0,
+      "parent": "F16C",
+      "ja": "軸受の組み立て",
+      "en": "Assembling bearings",
+      "count": 863,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C43/02": {
+      "code": "F16C43/02",
+      "level": 1,
+      "parent": "F16C43/00",
+      "ja": "すべり軸受の組み立て",
+      "en": "Assembling sliding-contact bearings",
+      "count": 1175,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C43/04": {
+      "code": "F16C43/04",
+      "level": 1,
+      "parent": "F16C43/00",
+      "ja": "ころがり軸受の組み立て",
+      "en": "Assembling rolling contact bearings",
+      "count": 4530,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C43/06": {
+      "code": "F16C43/06",
+      "level": 2,
+      "parent": "F16C43/04",
+      "ja": "保持器または軸受に対する転動体のはめこみ",
+      "en": "Placing rolling bodies in cages or bearings",
+      "count": 3354,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    },
+    "F16C43/08": {
+      "code": "F16C43/08",
+      "level": 3,
+      "parent": "F16C43/06",
+      "ja": "保持器または軌道輪を変形することによるもの",
+      "en": "by deforming the cages or the races",
+      "count": 417,
+      "sourceFile": "ipc_F16C.txt",
+      "kind": "ipc"
+    }
+  }
+}

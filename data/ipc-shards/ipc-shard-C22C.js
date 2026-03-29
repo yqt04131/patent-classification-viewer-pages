@@ -1,0 +1,1806 @@
+window.IPC_SHARD_C22C = {
+  "generatedAt": "2026-03-20T02:17:46.523Z",
+  "total": 180,
+  "entries": {
+    "C22C": {
+      "code": "C22C",
+      "level": 0,
+      "parent": "C22",
+      "ja": "合金（合金の処理Ｃ２１Ｄ，Ｃ２２Ｆ）<br><br><b><ul>注</ul></b><br>このサブクラスにおいては，下記の用語または表現は以下に示す意味で用いる：<br>―“合金”は以下のものも含む：<br>（ａ）繊維またはその他のやや大きな粒子を相当量含有する金属複合材料；<br>（ｂ）炭化物，ダイヤモンド，酸化物，ほう化物，窒化物もしくはけい化物に結合しているか，または他の金属化合物，例．酸窒化物もしくは硫化物，と結合している巨視的な強化剤としての使用以外の遊離金属を含有するセラミック組成物，例．サーメット［４］<br>―“基”は特定の成分または特定の族の成分を少なくとも５０重量％含有していることを必要とする。［２］<br><br><b><ul>サブクラス内の索引</ul></b><br>非鉄合金<br>製造　１／００，３／００<br>特定の物質を基とするかまたは含有するもの　５／００～３２／００<br>鉄合金<br>製造　３３／００<br>母合金　３５／００<br>合金鋳鉄　３７／００<br>鉄合金　３８／００<br>放射性の合金　４３／００<br>非晶質の合金　４５／００<br>繊維またはフィラメント　４７／００，４９／００",
+      "en": "ALLOYS(treatment of alloys <b>C21D</b>, <b>C22F</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>In this subclass, the following terms or expressions are used with the meanings indicated:<ul><li>\"alloys\" includes also:<ul><li>metallic composite materials containing a substantial proportion of fibres or other somewhat larger particles;</li><li>ceramic compositions containing free metal bonded to carbides, diamond, oxides, borides, nitrides or silicides, e.g. cermets, or other metal compounds, e.g. oxynitrides or sulfides, other than as macroscopic reinforcing agents.</li></ul></li><li>\"based on\" requires at least 50% by weight of the specified constituent or of the specified group of constituents.</li></ul></li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">NON-FERROUS ALLOYS<tr><td width=\"70%\">Manufacture </td><td><b><b>1/00</b>, <b>3/00</b></b></td></tr></tr><tr><td width=\"70%\">Based on or containing particular metals </td><td><b><b>5/00 to 32/00</b> </b></td></tr></tr></tr><tr><td width=\"70%\">FERROUS ALLOYS<tr><td width=\"70%\">Manufacture </td><td><b><b>33/00</b></b></td></tr></tr><tr><td width=\"70%\">Master alloys </td><td><b><b>35/00</b></b></td></tr></tr><tr><td width=\"70%\">Cast-iron alloys </td><td><b><b>37/00</b></b></td></tr></tr><tr><td width=\"70%\">Iron alloys </td><td><b><b>38/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">RADIOACTIVE ALLOYS </td><td><b><b>43/00</b></b></td></tr></tr><tr><td width=\"70%\">AMORPHOUS ALLOYS </td><td><b><b>45/00</b></b></td></tr></tr><tr><td width=\"70%\">ALLOYS CONTAINING FIBRES OR FILAMENTS </td><td><b><b>47/00</b>, <b>49/00</b></b></td></tr></tr></table>",
+      "count": 2037,
+      "sourceFile": "ipc_C.txt",
+      "kind": "ipc"
+    },
+    "C22": {
+      "code": "C22",
+      "level": 0,
+      "parent": "C",
+      "ja": "冶金；鉄または非鉄合金；合金の処理または非鉄金属の処理<br><br><b><ul>注</ul></b><br>（１）鉄鉱石または鉄カルボニルの固体鉄または溶融鉄への変換に特有の方法又は装置はサブクラスＣ２１Ｂに分類する。［２０１２．０１］<br>（２）以下の特別の方法または装置はサブクラスＣ２１Ｃに分類する：［２０１２．０１］<br>－銑鉄または鋳鉄の処理［２０１２．０１］<br>－錬鉄，錬鋼または炭素鋼の製造［２０１２．０１］<br>－鉄合金の溶融状態における処理［２０１２．０１］<br>（３）以下の方法または装置はサブクラスＣ２１Ｄに分類する：<br>－鉄合金または鋼の熱処理に特有の方法［２０１２．０１］<br>－金属または合金の熱処理のための装置［２０１２．０１］",
+      "en": "METALLURGY; FERROUS OR NON-FERROUS ALLOYS; TREATMENT OF ALLOYS OR NON-FERROUS METALS; <br><br><b><u>Note(s)</u></b><br><br><ul><li>Processes or devices specific to the transformation of iron ore or iron carbonyl into iron, either solid or molten, are classified in subclass <b>C21B</b>.       </li><li>Processes or devices specific to: <ul><li>processing of pig-iron or cast iron; </li><li>manufacture of wrought-iron, wrought-steel or carbon steel;  </li><li>treatment in molten state of ferrous alloys; </li></ul>are classified in subclass <b>C21C</b>.       </li><li>The following processes or devices are classified in subclass  <b>C21D</b>: <ul><li>processes specific to heat treatment of ferrous alloys or steels; </li><li>devices for heat treatment of metals or alloys.  </li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_C.txt",
+      "kind": "ipc"
+    },
+    "C": {
+      "code": "C",
+      "level": 0,
+      "parent": null,
+      "ja": "化学；冶金<br><br><b><ul>注</ul></b><br>（１）セクションＣにおいて，化学元素の種類に関する定義は次の通りである：<br>アルカリ金属：Ｌｉ，Ｎａ，Ｋ，Ｒｂ，Ｃｓ，Ｆｒ<br>アルカリ土類金属：Ｃａ，Ｓｒ，Ｂａ，Ｒａ<br>ランタニド：原子番号５７から７１までの元素<br>希土類：Ｓｃ，Ｙ，ランタニド<br>アクチニド：原子番号８９から１０３までの元素<br>耐火金属：Ｔｉ，Ｖ，Ｃｒ，Ｚｒ，Ｎｂ，Ｍｏ，Ｈｆ，Ｔａ，Ｗ<br>ハロゲン：Ｆ，Ｃｌ，Ｂｒ，Ｉ，Ａｔ<br>希ガス：Ｈｅ，Ｎｅ，Ａｒ，Ｋｒ，Ｘｅ，Ｒｎ<br>白金族：Ｏｓ，Ｉｒ，Ｐｔ，Ｒｕ，Ｒｈ，Ｐｄ<br>貴金属：Ａｇ，Ａｕ，白金族<br>軽金属：アルカリ金属，アルカリ土類金属，Ｂｅ，Ａｌ，Ｍｇ<br>重金属：軽金属以外の金属<br>鉄族：Ｆｅ，Ｃｏ，Ｎｉ<br>非金属：Ｈ，Ｂ，Ｃ，Ｓｉ，Ｎ，Ｐ，Ｏ，Ｓ，Ｓｅ，Ｔｅ，希ガス，ハロゲン<br>金属：非金属以外の元素<br>遷移元素：原子番号２１から３０まで，３９から４８まで，５７から８０まで，８９以上の元素<br>（２）Ｃセクションは以下のものを包含する：<br>（ａ）無機化合物，有機化合物，高分子化合物およびそれらの調製法を包含する純粋化学；<br>（ｂ）たとえばガラス，セラミック，肥料，プラスチック組成物，ペイント，石油工業の製品のような上記化合物を含有する組成物を包含する応用化学。それはまた，爆発物，染料，接着剤，潤滑剤および洗剤のように，ある目的に適した特別の性質をもつための組成物をも包含する；<br>（ｃ）コークスの製造，固体または気体燃料の製造，油脂およびろうの製造および精製，発酵工業（例．ビールおよびぶどう酒の製造），製糖工業のようなある境界工業；<br>（ｄ）ある操作または処理であって，純粋に機械的な処理，例．レザーおよび皮の機械的処理，または部分的機械的処理，例．水処理，または腐食防止一般であるもの；<br>（ｅ）冶金，鉄または非鉄合金<br>（３）ＩＰＣの全てのセクションにおいて，相反する指示がない限り，元素記号周期表への言及は，以下に示す１８のグループを表す。［２００９．０１］<br>’「図」’<br>’「図」’<br>（４）<br>（ａ）化学的部分または面および非化学的部分または面の両方を有する操作，処理，製品または物品の場合に，一般規則として，化学的部分または面はＣセクションに包含される。<br>（ｂ）これらのうちのある場合には，化学的部分または面には非化学的部分または面を伴い，純粋に機械的部分または面を伴うことさえある，というのは非化学的面は操作または処理にとって本質的であるかまたはそれらの重要な要素を構成するからである；実際，全体のさまざまな部分または面を分割しないのがより論理的と思える。これは応用化学や上記注（１）（ｃ），（ｄ）および（ｅ）の工業，操作および処理の場合に適用される。例えば，ガラス製造用特殊炉はＣ０３に包含されＦ２７には包含されない。<br>（ｃ）しかしながら，機械的面（または非化学的面）に非化学的な面が伴うという例外もある，例えば：<br>―サブクラスＡ６１Ｋにおけるある抽出プロセス；<br>―サブクラスＡ６１Ｌにおける空気の化学的精製；<br>―サブクラスＡ６２Ｄにおける化学的消火方法；<br>―クラスＢ０１における化学的プロセスおよび装置；<br>―サブクラスＢ２７Ｋにおける木材の含浸；<br>―サブクラスＧ０１Ｎにおける化学的分析または試験法；<br>―クラスＧ０３における写真材料またはプロセス，そして一般に，Ｄセクションにおける繊維の化学的処理および繊維素，紙等の製造<br>（ｄ）さらに他の場合，純粋化学的面はＣセクションに包含され，応用化学的面はＡ，Ｂ，Ｆセクションのような他のセクションに包含される，例．以下の物質または組成物の使用：<br>―サブクラスＡ０１Ｎに包含される植物または動物の処理；<br>―クラスＡ２３に包含される食物；<br>―クラスＦ４２に包含される弾薬または爆薬<br>（ｅ）化学的面および機械的面が非常に交錯して，簡単明確な分割ができない時，または化学的処理が自然なまたは論理的な延長として機械的プロセスを要する時は，化学的面に加えて，Ｃセクションは機械的面の一部のみ，例．クラスＣ０４に包含される人造石の後処理，を包含する。この後者の場合に，たとえその区別がむしろ任意であってもその位置を明確にするよう注または参照を通常設けている。",
+      "en": "CHEMISTRY; METALLURGY; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In section <b>C</b>, the definitions of groups of chemical elements are as follows: <ul><li><u>Alkali metals:</u> Li, Na, K, Rb, Cs, Fr</li><li><u>Alkaline earth metals:</u> Ca, Sr, Ba, Ra</li><li><u>Lanthanides:</u> elements with atomic numbers 57 to 71 inclusive</li><li><u>Rare earths:</u> Sc, Y, Lanthanides</li><li><u>Actinides:</u> elements with atomic numbers 89 to 103 inclusive</li><li><u>Refractory metals:</u> Ti, V, Cr, Zr, Nb, Mo, Hf, Ta, W</li><li><u>Halogens:</u> F, Cl, Br, I, At</li><li><u>Noble gases:</u> He, Ne, Ar, Kr, Xe, Rn</li><li><u>Platinum group:</u> Os, Ir, Pt, Ru, Rh, Pd</li><li><u>Noble metals:</u> Ag, Au, Platinum group</li><li><u>Light metals:</u> alkali metals, alkaline earth metals, Be, Al, Mg</li><li><u>Heavy metals:</u> metals other than light metals</li><li><u>Iron group:</u> Fe, Co, Ni</li><li><u>Non-metals:</u> H, B, C, Si, N, P, O, S, Se, Te, noble gases, halogens</li><li><u>Metals:</u> elements other than non-metals</li><li><u>Transition elements:</u> elements with atomic numbers 21 to 30 inclusive, 39 to 48 inclusive, 57 to 80 inclusive, 89 upwards</li></ul></li><li>Section <b>C</b> <u>covers</u> : <ul><li>pure chemistry, which covers inorganic compounds, organic compounds, macromolecular compounds, and their methods of preparation;</li><li>applied chemistry, which covers compositions containing the above compounds, such as: glass, ceramics, fertilisers, plastics compositions, paints, products of the petroleum industry. It also <u>covers</u> certain compositions on account of their having particular properties rendering them suitable for certain purposes, as in the case of explosives, dyestuffs, adhesives, lubricants, and detergents;</li><li>certain marginal industries, such as the manufacture of coke and of solid or gaseous fuels, the production and refining of oils, fats and waxes, the fermentation industry (e.g., brewing and wine-making), the sugar industry;</li><li>certain operations or treatments, which are either purely mechanical, e.g., the mechanical treatment of leather and skins, or partly mechanical, e.g., the treatment of water or the prevention of corrosion in general;</li><li>metallurgy, ferrous or non-ferrous alloys.</li></ul></li><li>In all sections of the IPC, in the absence of an indication to the contrary, the Periodic Table of chemical elements referred to is the one with 18 groups as represented in the table below. [figure]</li><li><ul><li>In the case of operations, treatments, products or articles having both a chemical and a non-chemical part or aspect, the general rule is that the chemical part or aspect is covered by section <b>C</b>.</li><li>In some of these cases, the chemical part or aspect brings with it a non-chemical one, even though purely mechanical, because this latter aspect either is essential to the operation or treatment or constitutes an important element thereof. It has seemed, in fact, more logical not to dissociate the different parts or aspects of a coherent whole. This is the case for applied chemistry and for the industries, operations and treatments mentioned in Notes (1)(c), (d) and (e). For example, furnaces peculiar to the manufacture of glass are covered by class <b>C03</b> and not by class <b>F27</b>.</li><li>There are, however, some exceptions in which the mechanical (or non-chemical) aspect carries with it the chemical aspect, for example: <ul><li>certain extractive processes, in subclass <b>A61K</b>;</li><li>the chemical purification of air, in subclass <b>A61L</b>;</li><li>chemical methods of fire-fighting, in subclass <b>A62D</b>;</li><li>chemical processes and apparatus, in class <b>B01</b>;</li><li>impregnation of wood, in subclass <b>B27K</b>;</li><li>chemical methods of analysis or testing, in subclass <b>G01N</b>;</li><li>photographic materials and processes, in class <b>G03</b>, and, generally, the chemical treatment of textiles and the production of cellulose or paper, in section <b>D</b>.</li></ul></li><li>In still other cases, the pure chemical aspect is covered by section <b>C</b> and the applied chemical aspect by another section, such as <b>A</b>, <b>B</b> or <b>F</b>, e.g., the use of a substance or composition for: <ul><li>treatment of plants or animals, covered by subclass <b>A01N</b>;</li><li>foodstuffs, covered by class <b>A23</b>;</li><li>ammunition or explosives, covered by class <b>F42</b>.</li></ul></li><li>When the chemical and mechanical aspects are so closely interlocked that a neat and simple division is not possible, or when certain mechanical processes follow as a natural or logical continuation of a chemical treatment, section <b>C</b> may cover, in addition to the chemical aspect, a part only of the mechanical aspect, e.g., after-treatment of artificial stone, covered by class <b>C04</b>. In this latter case, a note or a reference is usually given to make the position clear, even if sometimes the division is rather arbitrary.</li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_C.txt",
+      "kind": "ipc"
+    },
+    "C22C1/00": {
+      "code": "C22C1/00",
+      "level": 0,
+      "parent": "C22C",
+      "ja": "非鉄合金の製造（電熱法によるものＣ２２Ｂ４／００；電解法によるものＣ２５Ｃ１／２４，Ｃ２５Ｃ３／３６）［２０２３．０１］",
+      "en": "Making non-ferrous alloys  (by electrothermic methods <b>C22B4/00</b>;   by electrolysis <b>C25C1/24</b>, <b>C25C3/36</b>)",
+      "count": 4710,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C1/02": {
+      "code": "C22C1/02",
+      "level": 1,
+      "parent": "C22C1/00",
+      "ja": "溶融によるもの［２００６．０１］",
+      "en": "by melting",
+      "count": 27942,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C1/03": {
+      "code": "C22C1/03",
+      "level": 2,
+      "parent": "C22C1/02",
+      "ja": "母合金を用いるもの［２］",
+      "en": "using master alloys",
+      "count": 13850,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C1/04": {
+      "code": "C22C1/04",
+      "level": 1,
+      "parent": "C22C1/00",
+      "ja": "粉末冶金によるもの（Ｃ２２Ｃ１／０８が優先）［２０２３．０１］",
+      "en": "by powder metallurgy  (<b>C22C1/08</b> takes precedence)",
+      "count": 15602,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C1/047": {
+      "code": "C22C1/047",
+      "level": 2,
+      "parent": "C22C1/04",
+      "ja": "金属間化合物を含むもの［２０２３．０１］",
+      "en": "comprising intermetallic compounds",
+      "count": 278,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C1/05": {
+      "code": "C22C1/05",
+      "level": 2,
+      "parent": "C22C1/04",
+      "ja": "金属粉末と非金属粉末の混合物（Ｃ２２Ｃ１／０８が優先）［２０２３．０１］",
+      "en": "Mixtures of metal powder with non-metallic powder(<b>C22C1/08</b> takes precedence)",
+      "count": 13723,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C1/051": {
+      "code": "C22C1/051",
+      "level": 3,
+      "parent": "C22C1/05",
+      "ja": "ほう化物，炭化物，窒化物，酸化物またはけい化物を基とする硬質合金の製造；その出発原料として用いられる粉末混合物の調製［２０２３．０１］",
+      "en": "Making hard metals based on borides, carbides, nitrides, oxides or silicides; Preparation of the powder mixture used as the starting material therefor",
+      "count": 815,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C1/053": {
+      "code": "C22C1/053",
+      "level": 4,
+      "parent": "C22C1/051",
+      "ja": "硬質化合物のその場での形成によるもの［２０２３．０１］",
+      "en": "with <u>in situ</u> formation of hard compounds",
+      "count": 80,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C1/055": {
+      "code": "C22C1/055",
+      "level": 5,
+      "parent": "C22C1/053",
+      "ja": "炭素を用いるもの［２０２３．０１］",
+      "en": "using carbon",
+      "count": 72,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C1/056": {
+      "code": "C22C1/056",
+      "level": 5,
+      "parent": "C22C1/053",
+      "ja": "気体を用いるもの［２０２３．０１］",
+      "en": "using gas",
+      "count": 27,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C1/057": {
+      "code": "C22C1/057",
+      "level": 4,
+      "parent": "C22C1/051",
+      "ja": "固相反応焼結による硬質化合物以外の相のその場での形成によるもの，例．還元反応により形成された金属相［２０２３．０１］",
+      "en": "with <u>in situ</u> formation of phases other than hard compounds by solid state reaction sintering, e.g. metal phase formed by reduction reaction",
+      "count": 49,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C1/059": {
+      "code": "C22C1/059",
+      "level": 3,
+      "parent": "C22C1/05",
+      "ja": "５重量％未満の分散強化相を含む合金の製造［２０２３．０１］",
+      "en": "Making alloys comprising less than 5% by weight of dispersed reinforcing phases",
+      "count": 458,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C1/06": {
+      "code": "C22C1/06",
+      "level": 1,
+      "parent": "C22C1/00",
+      "ja": "精錬，脱酸に特殊な添加剤を用いるもの",
+      "en": "with the use of special agents for refining or deoxidising",
+      "count": 7839,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C1/08": {
+      "code": "C22C1/08",
+      "level": 1,
+      "parent": "C22C1/00",
+      "ja": "開放孔または閉鎖孔をもつ合金［２００６．０１］",
+      "en": "Alloys with open or closed pores",
+      "count": 4292,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C1/10": {
+      "code": "C22C1/10",
+      "level": 1,
+      "parent": "C22C1/00",
+      "ja": "非金属を含む合金（Ｃ２２Ｃ１／０５，Ｃ２２Ｃ１／０８が優先）［２０２３．０１］",
+      "en": "Alloys containing non-metals(<b>C22C1/05</b>, <b>C22C1/08</b> take precedence)",
+      "count": 11466,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C1/11": {
+      "code": "C22C1/11",
+      "level": 1,
+      "parent": "C22C1/00",
+      "ja": "アモルファス合金の製造［２０２３．０１］",
+      "en": "Making amorphous alloys",
+      "count": 292,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C1/12": {
+      "code": "C22C1/12",
+      "level": 1,
+      "parent": "C22C1/00",
+      "ja": "半固体状態での加工によるもの，例．合金を固液共存状態に維持することによるもの［２０２３．０１］",
+      "en": "by processing in a semi-solid state, e.g. holding the alloy in the solid-liquid phase",
+      "count": 148,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C3/00": {
+      "code": "C22C3/00",
+      "level": 0,
+      "parent": "C22C",
+      "ja": "異なる成分組成の合金を得るための非鉄合金からの成分除去",
+      "en": "Removing material from non-ferrous alloys to produce alloys of different constitution",
+      "count": 457,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C5/00": {
+      "code": "C22C5/00",
+      "level": 0,
+      "parent": "C22C",
+      "ja": "貴金属を基とする合金",
+      "en": "Alloys based on noble metals",
+      "count": 973,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C5/02": {
+      "code": "C22C5/02",
+      "level": 1,
+      "parent": "C22C5/00",
+      "ja": "金を基とする合金［２］",
+      "en": "Alloys based on gold",
+      "count": 2813,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C5/04": {
+      "code": "C22C5/04",
+      "level": 1,
+      "parent": "C22C5/00",
+      "ja": "白金族金属を基とする合金［２］",
+      "en": "Alloys based on a platinum group metal",
+      "count": 3268,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C5/06": {
+      "code": "C22C5/06",
+      "level": 1,
+      "parent": "C22C5/00",
+      "ja": "銀を基とする合金［２］",
+      "en": "Alloys based on silver",
+      "count": 4784,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C5/08": {
+      "code": "C22C5/08",
+      "level": 2,
+      "parent": "C22C5/06",
+      "ja": "次に多い成分として銅を含むもの［２］",
+      "en": "with copper as the next major constituent",
+      "count": 978,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C5/10": {
+      "code": "C22C5/10",
+      "level": 2,
+      "parent": "C22C5/06",
+      "ja": "次に多い成分としてカドミウムを含むもの［２］",
+      "en": "with cadmium as the next major constituent",
+      "count": 420,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C7/00": {
+      "code": "C22C7/00",
+      "level": 0,
+      "parent": "C22C",
+      "ja": "水銀を基とする合金",
+      "en": "Alloys based on mercury",
+      "count": 327,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C9/00": {
+      "code": "C22C9/00",
+      "level": 0,
+      "parent": "C22C",
+      "ja": "銅基合金",
+      "en": "Alloys based on copper",
+      "count": 15464,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C9/01": {
+      "code": "C22C9/01",
+      "level": 1,
+      "parent": "C22C9/00",
+      "ja": "次に多い成分としてアルミニウムを含むもの［２］",
+      "en": "with aluminium as the next major constituent",
+      "count": 2253,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C9/02": {
+      "code": "C22C9/02",
+      "level": 1,
+      "parent": "C22C9/00",
+      "ja": "次に多い成分として錫を含むもの［２］",
+      "en": "with tin as the next major constituent",
+      "count": 3930,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C9/04": {
+      "code": "C22C9/04",
+      "level": 1,
+      "parent": "C22C9/00",
+      "ja": "次に多い成分として亜鉛を含むもの［２］",
+      "en": "with zinc as the next major constituent",
+      "count": 5521,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C9/05": {
+      "code": "C22C9/05",
+      "level": 1,
+      "parent": "C22C9/00",
+      "ja": "次に多い成分としてマンガンを含むもの［２］",
+      "en": "with manganese as the next major constituent",
+      "count": 1472,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C9/06": {
+      "code": "C22C9/06",
+      "level": 1,
+      "parent": "C22C9/00",
+      "ja": "次に多い成分としてニッケルまたはコバルトを含むもの［２］",
+      "en": "with nickel or cobalt as the next major constituent",
+      "count": 5261,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C9/08": {
+      "code": "C22C9/08",
+      "level": 1,
+      "parent": "C22C9/00",
+      "ja": "次に多い成分として鉛を含むもの［２］",
+      "en": "with lead as the next major constituent",
+      "count": 527,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C9/10": {
+      "code": "C22C9/10",
+      "level": 1,
+      "parent": "C22C9/00",
+      "ja": "次に多い成分としてけい素を含むもの",
+      "en": "with silicon as the next major constituent",
+      "count": 1167,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C11/00": {
+      "code": "C22C11/00",
+      "level": 0,
+      "parent": "C22C",
+      "ja": "鉛基合金",
+      "en": "Alloys based on lead",
+      "count": 1061,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C11/02": {
+      "code": "C22C11/02",
+      "level": 1,
+      "parent": "C22C11/00",
+      "ja": "次に多い成分としてアルカリ金属またはアルカリ土類金属を含むもの［２］",
+      "en": "with an alkali or an alkaline earth metal as the next major constituent",
+      "count": 406,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C11/04": {
+      "code": "C22C11/04",
+      "level": 1,
+      "parent": "C22C11/00",
+      "ja": "次に多い成分として銅を含むもの［２］",
+      "en": "with copper as the next major constituent",
+      "count": 67,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C11/06": {
+      "code": "C22C11/06",
+      "level": 1,
+      "parent": "C22C11/00",
+      "ja": "次に多い成分として錫を含むもの［２］",
+      "en": "with tin as the next major constituent",
+      "count": 736,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C11/08": {
+      "code": "C22C11/08",
+      "level": 1,
+      "parent": "C22C11/00",
+      "ja": "次に多い成分としてアンチモンまたはビスマスを含むもの［２］",
+      "en": "with antimony or bismuth as the next major constituent",
+      "count": 333,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C11/10": {
+      "code": "C22C11/10",
+      "level": 2,
+      "parent": "C22C11/08",
+      "ja": "錫を含むもの［２］",
+      "en": "with tin",
+      "count": 228,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C12/00": {
+      "code": "C22C12/00",
+      "level": 0,
+      "parent": "C22C",
+      "ja": "アンチモンまたはビスマスを基とする合金［２］",
+      "en": "Alloys based on antimony or bismuth",
+      "count": 1669,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C13/00": {
+      "code": "C22C13/00",
+      "level": 0,
+      "parent": "C22C",
+      "ja": "すず基合金",
+      "en": "Alloys based on tin",
+      "count": 3990,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C13/02": {
+      "code": "C22C13/02",
+      "level": 1,
+      "parent": "C22C13/00",
+      "ja": "次に多い成分としてアンチモンまたはビスマスを含むもの［２］",
+      "en": "with antimony or bismuth as the next major constituent",
+      "count": 1295,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C14/00": {
+      "code": "C22C14/00",
+      "level": 0,
+      "parent": "C22C",
+      "ja": "チタンを基とする合金［２］",
+      "en": "Alloys based on titanium",
+      "count": 12043,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C16/00": {
+      "code": "C22C16/00",
+      "level": 0,
+      "parent": "C22C",
+      "ja": "ジルコニウムを基とする合金［２］",
+      "en": "Alloys based on zirconium",
+      "count": 2188,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C18/00": {
+      "code": "C22C18/00",
+      "level": 0,
+      "parent": "C22C",
+      "ja": "亜鉛を基とする合金［２］",
+      "en": "Alloys based on zinc",
+      "count": 3490,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C18/02": {
+      "code": "C22C18/02",
+      "level": 1,
+      "parent": "C22C18/00",
+      "ja": "次に多い成分として銅を含むもの［２］",
+      "en": "with copper as the next major constituent",
+      "count": 701,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C18/04": {
+      "code": "C22C18/04",
+      "level": 1,
+      "parent": "C22C18/00",
+      "ja": "次に多い成分としてアルミニウムを含むもの［２］",
+      "en": "with aluminium as the next major constituent",
+      "count": 3160,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C19/00": {
+      "code": "C22C19/00",
+      "level": 0,
+      "parent": "C22C",
+      "ja": "ニッケルまたはコバルトを基とする合金",
+      "en": "Alloys based on nickel or cobalt",
+      "count": 4180,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C19/03": {
+      "code": "C22C19/03",
+      "level": 1,
+      "parent": "C22C19/00",
+      "ja": "ニッケルを基とする合金［２］",
+      "en": "based on nickel",
+      "count": 8920,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C19/05": {
+      "code": "C22C19/05",
+      "level": 2,
+      "parent": "C22C19/03",
+      "ja": "クロムを含むもの［２］",
+      "en": "with chromium",
+      "count": 11507,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C19/07": {
+      "code": "C22C19/07",
+      "level": 1,
+      "parent": "C22C19/00",
+      "ja": "コバルトを基とする合金［２］",
+      "en": "based on cobalt",
+      "count": 6287,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C20/00": {
+      "code": "C22C20/00",
+      "level": 0,
+      "parent": "C22C",
+      "ja": "カドミウムを基とする合金［２］",
+      "en": "Alloys based on cadmium",
+      "count": 228,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C21/00": {
+      "code": "C22C21/00",
+      "level": 0,
+      "parent": "C22C",
+      "ja": "アルミニウム基合金",
+      "en": "Alloys based on aluminium",
+      "count": 23932,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C21/02": {
+      "code": "C22C21/02",
+      "level": 1,
+      "parent": "C22C21/00",
+      "ja": "次に多い成分としてけい素を含むもの［２］",
+      "en": "with silicon as the next major constituent",
+      "count": 11575,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C21/04": {
+      "code": "C22C21/04",
+      "level": 2,
+      "parent": "C22C21/02",
+      "ja": "改良されたアルミニウム―けい素合金",
+      "en": "Modified aluminium-silicon alloys",
+      "count": 2070,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C21/06": {
+      "code": "C22C21/06",
+      "level": 1,
+      "parent": "C22C21/00",
+      "ja": "次に多い成分としてマグネシウムを含むもの［２］",
+      "en": "with magnesium as the next major constituent",
+      "count": 6122,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C21/08": {
+      "code": "C22C21/08",
+      "level": 2,
+      "parent": "C22C21/06",
+      "ja": "けい素を含むもの［２］",
+      "en": "with silicon",
+      "count": 5553,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C21/10": {
+      "code": "C22C21/10",
+      "level": 1,
+      "parent": "C22C21/00",
+      "ja": "次に多い成分として亜鉛を含むもの［２］",
+      "en": "with zinc as the next major constituent",
+      "count": 5743,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C21/12": {
+      "code": "C22C21/12",
+      "level": 1,
+      "parent": "C22C21/00",
+      "ja": "次に多い成分として銅を含むもの［２］<br><br><b><ul>注</ul></b><br>グループＣ２２Ｃ２１／１４～Ｃ２２Ｃ２１／１８においては，ラストプレイス優先ルールが適用される，すなわち各階層レベルにおいて相反する指示がない限り，合金は最後の適切な箇所に分類される。［４］",
+      "en": "with copper as the next major constituent",
+      "count": 2634,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C21/14": {
+      "code": "C22C21/14",
+      "level": 2,
+      "parent": "C22C21/12",
+      "ja": "けい素を含むもの［２］",
+      "en": "with silicon",
+      "count": 1319,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C21/16": {
+      "code": "C22C21/16",
+      "level": 2,
+      "parent": "C22C21/12",
+      "ja": "マグネシウムを含むもの［２］",
+      "en": "with magnesium",
+      "count": 2102,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C21/18": {
+      "code": "C22C21/18",
+      "level": 2,
+      "parent": "C22C21/12",
+      "ja": "亜鉛を含むもの［２］",
+      "en": "with zinc",
+      "count": 1325,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C22/00": {
+      "code": "C22C22/00",
+      "level": 0,
+      "parent": "C22C",
+      "ja": "マンガンを基とする合金［２］",
+      "en": "Alloys based on manganese",
+      "count": 1462,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C23/00": {
+      "code": "C22C23/00",
+      "level": 0,
+      "parent": "C22C",
+      "ja": "マグネシウム基合金",
+      "en": "Alloys based on magnesium",
+      "count": 5169,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C23/02": {
+      "code": "C22C23/02",
+      "level": 1,
+      "parent": "C22C23/00",
+      "ja": "次に多い成分としてアルミニウムを含むもの［２］",
+      "en": "with aluminium as the next major constituent",
+      "count": 3019,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C23/04": {
+      "code": "C22C23/04",
+      "level": 1,
+      "parent": "C22C23/00",
+      "ja": "次に多い成分として亜鉛またはカドミウムを含むもの［２］",
+      "en": "with zinc or cadmium as the next major constituent",
+      "count": 1897,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C23/06": {
+      "code": "C22C23/06",
+      "level": 1,
+      "parent": "C22C23/00",
+      "ja": "次に多い成分として希土類金属を含むもの［２］",
+      "en": "with a rare earth metal as the next major constituent",
+      "count": 2000,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C24/00": {
+      "code": "C22C24/00",
+      "level": 0,
+      "parent": "C22C",
+      "ja": "アルカリ金属またはアルカリ土類金属を基とする合金［２］",
+      "en": "Alloys based on an alkali or an alkaline earth metal",
+      "count": 681,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C25/00": {
+      "code": "C22C25/00",
+      "level": 0,
+      "parent": "C22C",
+      "ja": "ベリリウム基合金",
+      "en": "Alloys based on beryllium",
+      "count": 337,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C26/00": {
+      "code": "C22C26/00",
+      "level": 0,
+      "parent": "C22C",
+      "ja": "ダイヤモンドを含有する合金［４］",
+      "en": "Alloys containing diamond",
+      "count": 2661,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C27/00": {
+      "code": "C22C27/00",
+      "level": 0,
+      "parent": "C22C",
+      "ja": "レニウムまたはグループＣ２２Ｃ１４／００もしくはＣ２２Ｃ１６／００において述べられていない耐火金属を基とする合金［２］",
+      "en": "Alloys based on rhenium or a refractory metal not mentioned in groups <b>C22C14/00</b> or <b>C22C16/00</b>",
+      "count": 714,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C27/02": {
+      "code": "C22C27/02",
+      "level": 1,
+      "parent": "C22C27/00",
+      "ja": "バナジウム，ニオブまたはタンタルを基とする合金［２］",
+      "en": "Alloys based on vanadium, niobium or tantalum",
+      "count": 3067,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C27/04": {
+      "code": "C22C27/04",
+      "level": 1,
+      "parent": "C22C27/00",
+      "ja": "タングステンまたはモリブデンを基とする合金［２］",
+      "en": "Alloys based on tungsten or molybdenum",
+      "count": 4668,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C27/06": {
+      "code": "C22C27/06",
+      "level": 1,
+      "parent": "C22C27/00",
+      "ja": "クロムを基とする合金［２］",
+      "en": "Alloys based on chromium",
+      "count": 2066,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C28/00": {
+      "code": "C22C28/00",
+      "level": 0,
+      "parent": "C22C",
+      "ja": "グループＣ２２Ｃ５／００～Ｃ２２Ｃ２７／００に分類されない金属を基とする合金［２］",
+      "en": "Alloys based on a metal not provided for in groups <b>C22C5/00 to C22C27/00</b> ",
+      "count": 4076,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C29/00": {
+      "code": "C22C29/00",
+      "level": 0,
+      "parent": "C22C",
+      "ja": "炭化物，酸化物，ほう化物，窒化物またはけい化物を基とする合金，例．サーメット，またはその他の金属化合物，例．酸窒化物，硫化物，を基とする合金［４］",
+      "en": "Alloys based on carbides, oxides, borides, nitrides or silicides, e.g. cermets, or other metal compounds, e. g. oxynitrides, sulfides",
+      "count": 3298,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C29/02": {
+      "code": "C22C29/02",
+      "level": 1,
+      "parent": "C22C29/00",
+      "ja": "炭化物または炭窒化物を基とするもの［４］",
+      "en": "based on carbides or carbonitrides",
+      "count": 2373,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C29/04": {
+      "code": "C22C29/04",
+      "level": 2,
+      "parent": "C22C29/02",
+      "ja": "炭窒化物を基とするもの［４］",
+      "en": "based on carbonitrides",
+      "count": 1390,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C29/06": {
+      "code": "C22C29/06",
+      "level": 2,
+      "parent": "C22C29/02",
+      "ja": "炭化物を基とし，その他の金属化合物を含有しないもの［４］",
+      "en": "based on carbides, but not containing other metal compounds",
+      "count": 2974,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C29/08": {
+      "code": "C22C29/08",
+      "level": 3,
+      "parent": "C22C29/06",
+      "ja": "炭化タングステンを基とするもの［４］",
+      "en": "based on tungsten carbide",
+      "count": 5233,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C29/10": {
+      "code": "C22C29/10",
+      "level": 3,
+      "parent": "C22C29/06",
+      "ja": "炭化チタンを基とするもの［４］",
+      "en": "based on titanium carbide",
+      "count": 937,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C29/12": {
+      "code": "C22C29/12",
+      "level": 1,
+      "parent": "C22C29/00",
+      "ja": "酸化物を基とするもの［４］",
+      "en": "based on oxides",
+      "count": 1931,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C29/14": {
+      "code": "C22C29/14",
+      "level": 1,
+      "parent": "C22C29/00",
+      "ja": "ほう化物を基とするもの［４］",
+      "en": "based on borides",
+      "count": 954,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C29/16": {
+      "code": "C22C29/16",
+      "level": 1,
+      "parent": "C22C29/00",
+      "ja": "窒化物を基とするもの［４］",
+      "en": "based on nitrides",
+      "count": 2180,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C29/18": {
+      "code": "C22C29/18",
+      "level": 1,
+      "parent": "C22C29/00",
+      "ja": "けい化物を基とするもの［４］",
+      "en": "based on silicides",
+      "count": 402,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C30/00": {
+      "code": "C22C30/00",
+      "level": 0,
+      "parent": "C22C",
+      "ja": "各成分を５０重量％未満含有する合金［２］<br><br><b><ul>注</ul></b><br>グループＣ２２Ｃ３０／０２～Ｃ２２Ｃ３０／０６においては，ラストプレイス優先ルールが適用される，すなわち各階層レベルにおいて相反する指示がない限り，合金は最後の適切な箇所に分類される。［４］",
+      "en": "Alloys containing less than 50% by weight of each constituent",
+      "count": 11741,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C30/02": {
+      "code": "C22C30/02",
+      "level": 1,
+      "parent": "C22C30/00",
+      "ja": "銅を含むもの［２］",
+      "en": "containing copper",
+      "count": 3750,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C30/04": {
+      "code": "C22C30/04",
+      "level": 1,
+      "parent": "C22C30/00",
+      "ja": "錫または鉛を含むもの［２］",
+      "en": "containing tin or lead",
+      "count": 1293,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C30/06": {
+      "code": "C22C30/06",
+      "level": 1,
+      "parent": "C22C30/00",
+      "ja": "亜鉛を含むもの［２］",
+      "en": "containing zinc",
+      "count": 1531,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C32/00": {
+      "code": "C22C32/00",
+      "level": 0,
+      "parent": "C22C",
+      "ja": "その状態で加えたかまたは合金中で形成された酸化物，炭化物，ほう化物，窒化物，けい化物，またはその他の金属化合物，例．酸窒化物，硫化物，を５重量％以上５０重量％未満含有する非鉄合金［２］",
+      "en": "Non-ferrous alloys containing at least 5% by weight but less than 50% by weight of oxides, carbides, borides, nitrides, silicides or other metal compounds, e.g. oxynitrides, sulfides, whether added as such or formed <u>in situ</u>",
+      "count": 13455,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C33/00": {
+      "code": "C22C33/00",
+      "level": 0,
+      "parent": "C22C",
+      "ja": "鉄合金の製造（その熱処理Ｃ２１Ｄ５／００，Ｃ２１Ｄ６／００）",
+      "en": "Making ferrous alloys(heat treatment thereof <b>C21D5/00</b>, <b>C21D6/00</b>)",
+      "count": 1953,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C33/02": {
+      "code": "C22C33/02",
+      "level": 1,
+      "parent": "C22C33/00",
+      "ja": "粉末冶金によるもの",
+      "en": "by powder metallurgy",
+      "count": 11462,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C33/04": {
+      "code": "C22C33/04",
+      "level": 1,
+      "parent": "C22C33/00",
+      "ja": "溶融によるもの［２］",
+      "en": "by melting",
+      "count": 17889,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C33/06": {
+      "code": "C22C33/06",
+      "level": 2,
+      "parent": "C22C33/04",
+      "ja": "母合金を使用するもの［２］",
+      "en": "using master alloys",
+      "count": 6536,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C33/08": {
+      "code": "C22C33/08",
+      "level": 1,
+      "parent": "C22C33/00",
+      "ja": "合金鋳鉄の製造［２］",
+      "en": "Making cast-iron alloys",
+      "count": 3622,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C33/10": {
+      "code": "C22C33/10",
+      "level": 2,
+      "parent": "C22C33/08",
+      "ja": "マグネシウム添加処理を含むもの［２］",
+      "en": "including procedures for adding magnesium",
+      "count": 1070,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C33/12": {
+      "code": "C22C33/12",
+      "level": 3,
+      "parent": "C22C33/10",
+      "ja": "流動性噴射によるもの［２］",
+      "en": "by fluidised injection",
+      "count": 189,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C35/00": {
+      "code": "C22C35/00",
+      "level": 0,
+      "parent": "C22C",
+      "ja": "鉄または鋼の母合金",
+      "en": "Master alloys for iron or steel",
+      "count": 3258,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C37/00": {
+      "code": "C22C37/00",
+      "level": 0,
+      "parent": "C22C",
+      "ja": "合金鋳鉄［２］",
+      "en": "Cast-iron alloys",
+      "count": 2791,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C37/04": {
+      "code": "C22C37/04",
+      "level": 1,
+      "parent": "C22C37/00",
+      "ja": "球状黒鉛を含有するもの",
+      "en": "containing spheroidal graphite",
+      "count": 3053,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C37/06": {
+      "code": "C22C37/06",
+      "level": 1,
+      "parent": "C22C37/00",
+      "ja": "クロムを含有するもの［２］",
+      "en": "containing chromium",
+      "count": 2193,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C37/08": {
+      "code": "C22C37/08",
+      "level": 2,
+      "parent": "C22C37/06",
+      "ja": "ニッケルを共に含有するもの",
+      "en": "with nickel",
+      "count": 2058,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C37/10": {
+      "code": "C22C37/10",
+      "level": 1,
+      "parent": "C22C37/00",
+      "ja": "アルミニウムまたはけい素を含有するもの",
+      "en": "containing aluminium or silicon",
+      "count": 6629,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C38/00": {
+      "code": "C22C38/00",
+      "level": 0,
+      "parent": "C22C",
+      "ja": "鉄合金，例．合金鋼（合金鋳鉄Ｃ２２Ｃ３７／００）［２］",
+      "en": "Ferrous alloys, e.g. steel alloys(cast-iron alloys <b>C22C37/00</b>)",
+      "count": 76150,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C38/02": {
+      "code": "C22C38/02",
+      "level": 1,
+      "parent": "C22C38/00",
+      "ja": "けい素を含有するもの［２］",
+      "en": "containing silicon",
+      "count": 43594,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C38/04": {
+      "code": "C22C38/04",
+      "level": 1,
+      "parent": "C22C38/00",
+      "ja": "マンガンを含有するもの［２］",
+      "en": "containing manganese",
+      "count": 44516,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C38/06": {
+      "code": "C22C38/06",
+      "level": 1,
+      "parent": "C22C38/00",
+      "ja": "アルミニウムを含有するもの［２］",
+      "en": "containing aluminium",
+      "count": 33421,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C38/08": {
+      "code": "C22C38/08",
+      "level": 1,
+      "parent": "C22C38/00",
+      "ja": "ニッケルを含有するもの［２］",
+      "en": "containing nickel",
+      "count": 9013,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C38/10": {
+      "code": "C22C38/10",
+      "level": 1,
+      "parent": "C22C38/00",
+      "ja": "コバルトを含有するもの［２］",
+      "en": "containing cobalt",
+      "count": 3626,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C38/12": {
+      "code": "C22C38/12",
+      "level": 1,
+      "parent": "C22C38/00",
+      "ja": "タングステン，タンタル，モリブデン，バナジウムまたはニオブを含有するもの［２］",
+      "en": "containing tungsten, tantalum, molybdenum, vanadium or niobium",
+      "count": 16709,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C38/14": {
+      "code": "C22C38/14",
+      "level": 1,
+      "parent": "C22C38/00",
+      "ja": "チタンまたはジルコニウムを含有するもの［２］",
+      "en": "containing titanium or zirconium",
+      "count": 18117,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C38/16": {
+      "code": "C22C38/16",
+      "level": 1,
+      "parent": "C22C38/00",
+      "ja": "銅を含有するもの［２］",
+      "en": "containing copper",
+      "count": 10378,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C38/18": {
+      "code": "C22C38/18",
+      "level": 1,
+      "parent": "C22C38/00",
+      "ja": "クロムを含有するもの［２］",
+      "en": "containing chromium",
+      "count": 10916,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C38/20": {
+      "code": "C22C38/20",
+      "level": 2,
+      "parent": "C22C38/18",
+      "ja": "銅を共に含有するもの［２］",
+      "en": "with copper",
+      "count": 4658,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C38/22": {
+      "code": "C22C38/22",
+      "level": 2,
+      "parent": "C22C38/18",
+      "ja": "モリブデンまたはタングステンを共に含有するもの［２］",
+      "en": "with molybdenum or tungsten",
+      "count": 11616,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C38/24": {
+      "code": "C22C38/24",
+      "level": 2,
+      "parent": "C22C38/18",
+      "ja": "バナジウムを共に含有するもの［２］",
+      "en": "with vanadium",
+      "count": 8869,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C38/26": {
+      "code": "C22C38/26",
+      "level": 2,
+      "parent": "C22C38/18",
+      "ja": "ニオブまたはタンタルを共に含有するもの［２］",
+      "en": "with niobium or tantalum",
+      "count": 7603,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C38/28": {
+      "code": "C22C38/28",
+      "level": 2,
+      "parent": "C22C38/18",
+      "ja": "チタンまたはジルコニウムを共に含有するもの［２］",
+      "en": "with titanium or zirconium",
+      "count": 10025,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C38/30": {
+      "code": "C22C38/30",
+      "level": 2,
+      "parent": "C22C38/18",
+      "ja": "コバルトを共に含有するもの［２］",
+      "en": "with cobalt",
+      "count": 2255,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C38/32": {
+      "code": "C22C38/32",
+      "level": 2,
+      "parent": "C22C38/18",
+      "ja": "ほう素を共に含有するもの［２］",
+      "en": "with boron",
+      "count": 7055,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C38/34": {
+      "code": "C22C38/34",
+      "level": 2,
+      "parent": "C22C38/18",
+      "ja": "けい素を１．５重量％より多く共に含有するもの［２］",
+      "en": "with more than 1.5% by weight of silicon",
+      "count": 4703,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C38/36": {
+      "code": "C22C38/36",
+      "level": 2,
+      "parent": "C22C38/18",
+      "ja": "炭素を１．７重量％より多く共に含有するもの［２］",
+      "en": "with more than 1.7% by weight of carbon",
+      "count": 1137,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C38/38": {
+      "code": "C22C38/38",
+      "level": 2,
+      "parent": "C22C38/18",
+      "ja": "マンガンを１．５重量％より多く共に含有するもの［２］",
+      "en": "with more than 1.5% by weight of manganese",
+      "count": 10898,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C38/40": {
+      "code": "C22C38/40",
+      "level": 2,
+      "parent": "C22C38/18",
+      "ja": "ニッケルを共に含有するもの［２］",
+      "en": "with nickel",
+      "count": 5683,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C38/42": {
+      "code": "C22C38/42",
+      "level": 3,
+      "parent": "C22C38/40",
+      "ja": "銅を共に含有するもの［２］",
+      "en": "with copper",
+      "count": 12811,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C38/44": {
+      "code": "C22C38/44",
+      "level": 3,
+      "parent": "C22C38/40",
+      "ja": "モリブデンまたはタングステンを共に含有するもの［２］",
+      "en": "with molybdenum or tungsten",
+      "count": 20265,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C38/46": {
+      "code": "C22C38/46",
+      "level": 3,
+      "parent": "C22C38/40",
+      "ja": "バナジウムを共に含有するもの［２］",
+      "en": "with vanadium",
+      "count": 11560,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C38/48": {
+      "code": "C22C38/48",
+      "level": 3,
+      "parent": "C22C38/40",
+      "ja": "ニオブまたはタンタルを含有するもの［２］",
+      "en": "with niobium or tantalum",
+      "count": 11341,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C38/50": {
+      "code": "C22C38/50",
+      "level": 3,
+      "parent": "C22C38/40",
+      "ja": "チタンまたはジルコニウムを含有するもの［２］",
+      "en": "with titanium or zirconium",
+      "count": 14019,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C38/52": {
+      "code": "C22C38/52",
+      "level": 3,
+      "parent": "C22C38/40",
+      "ja": "コバルトを共に含有するもの［２］",
+      "en": "with cobalt",
+      "count": 4418,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C38/54": {
+      "code": "C22C38/54",
+      "level": 3,
+      "parent": "C22C38/40",
+      "ja": "ほう素を共に含有するもの［２］",
+      "en": "with boron",
+      "count": 10722,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C38/56": {
+      "code": "C22C38/56",
+      "level": 3,
+      "parent": "C22C38/40",
+      "ja": "炭素を１．７重量％より多く含有するもの［２］",
+      "en": "with more than 1.7% by weight of carbon",
+      "count": 1166,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C38/58": {
+      "code": "C22C38/58",
+      "level": 3,
+      "parent": "C22C38/40",
+      "ja": "マンガンを１．５重量％より多く含有するもの［２］",
+      "en": "with more than 1.5% by weight of manganese",
+      "count": 20472,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C38/60": {
+      "code": "C22C38/60",
+      "level": 1,
+      "parent": "C22C38/00",
+      "ja": "鉛，セレン，テルル，アンチモンまたは０．０４重量％より多く硫黄を含有するもの［２］",
+      "en": "containing lead, selenium, tellurium or antimony, or more than 0.04% by weight of sulfur",
+      "count": 13424,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C43/00": {
+      "code": "C22C43/00",
+      "level": 0,
+      "parent": "C22C",
+      "ja": "放射性物質を含む合金［２］",
+      "en": "Alloys containing radioactive materials",
+      "count": 297,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C45/00": {
+      "code": "C22C45/00",
+      "level": 0,
+      "parent": "C22C",
+      "ja": "アモルファス合金（非鉄アモルファス合金の製造Ｃ２２Ｃ１／１１）［２０２３．０１］",
+      "en": "Amorphous alloys  (making amorphous non-ferrous alloys <b>C22C1/11</b>)",
+      "count": 2131,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C45/02": {
+      "code": "C22C45/02",
+      "level": 1,
+      "parent": "C22C45/00",
+      "ja": "主成分として鉄を含むもの［５］",
+      "en": "with iron as the major constituent",
+      "count": 3225,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C45/04": {
+      "code": "C22C45/04",
+      "level": 1,
+      "parent": "C22C45/00",
+      "ja": "主成分としてニッケルまたはコバルトを含むもの［５］",
+      "en": "with nickel or cobalt as the major constituent",
+      "count": 1566,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C45/06": {
+      "code": "C22C45/06",
+      "level": 1,
+      "parent": "C22C45/00",
+      "ja": "主成分としてベリリウムを含むもの［５］",
+      "en": "with beryllium as the major constituent",
+      "count": 22,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C45/08": {
+      "code": "C22C45/08",
+      "level": 1,
+      "parent": "C22C45/00",
+      "ja": "主成分としてアルミニウムを含むもの［５］",
+      "en": "with aluminium as the major constituent",
+      "count": 452,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C45/10": {
+      "code": "C22C45/10",
+      "level": 1,
+      "parent": "C22C45/00",
+      "ja": "主成分としてモリブデン，タングステン，ニオブ，タンタル，チタン，またはジルコニウムを含むもの［５］",
+      "en": "with molybdenum, tungsten, niobium, tantalum, titanium, or zirconium as the major constituent",
+      "count": 1337,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C47/00": {
+      "code": "C22C47/00",
+      "level": 0,
+      "parent": "C22C",
+      "ja": "金属または非金属の繊維やフィラメントを含む合金の製造［７］",
+      "en": "Making alloys containing metallic or non-metallic fibres or filaments",
+      "count": 2079,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C47/02": {
+      "code": "C22C47/02",
+      "level": 1,
+      "parent": "C22C47/00",
+      "ja": "繊維またはフィラメントの予備処理［７］",
+      "en": "Pretreatment of the fibres or filaments",
+      "count": 652,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C47/04": {
+      "code": "C22C47/04",
+      "level": 2,
+      "parent": "C22C47/02",
+      "ja": "被覆によるもの，例．保護または活性化被覆［７］",
+      "en": "by coating, e.g. with a protective or activated covering",
+      "count": 799,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C47/06": {
+      "code": "C22C47/06",
+      "level": 2,
+      "parent": "C22C47/02",
+      "ja": "繊維またはフィラメントを，プリフォームに形成することによるもの，例．一時的なバインダを用いてマット状の要素を作るもの［７］",
+      "en": "by forming the fibres or filaments into a preformed structure, e.g. using a temporary binder to form a mat-like element",
+      "count": 892,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C47/08": {
+      "code": "C22C47/08",
+      "level": 1,
+      "parent": "C22C47/00",
+      "ja": "繊維またはフィラメントを，溶融金属に接触させることによるもの，例．繊維またはフィラメントを鋳型に入れて浸透させることによるもの［７］",
+      "en": "by contacting the fibres or filaments with molten metal, e.g. by infiltrating the fibres or filaments placed in a mould",
+      "count": 2484,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C47/10": {
+      "code": "C22C47/10",
+      "level": 2,
+      "parent": "C22C47/08",
+      "ja": "反応性雰囲気下での浸透，反応性の浸透［７］",
+      "en": "Infiltration in the presence of a reactive atmosphere; Reactive infiltration",
+      "count": 78,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C47/12": {
+      "code": "C22C47/12",
+      "level": 2,
+      "parent": "C22C47/08",
+      "ja": "機械的な圧力下での浸透または鋳造［７］",
+      "en": "Infiltration or casting under mechanical pressure",
+      "count": 1017,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C47/14": {
+      "code": "C22C47/14",
+      "level": 1,
+      "parent": "C22C47/00",
+      "ja": "粉末冶金によるもの，すなわち，金属粉末と繊維またはフィラメントの混合物を処理することによるもの［７］",
+      "en": "by powder metallurgy, i.e. by processing mixtures of metal powder and fibres or filaments",
+      "count": 1748,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C47/16": {
+      "code": "C22C47/16",
+      "level": 1,
+      "parent": "C22C47/00",
+      "ja": "金属の溶射によるもの，例．プラズマ溶射［７］",
+      "en": "by thermal spraying of the metal, e.g. plasma spraying",
+      "count": 203,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C47/18": {
+      "code": "C22C47/18",
+      "level": 2,
+      "parent": "C22C47/16",
+      "ja": "繊維またはフィラメントのプリフォームを用いるもの［７］",
+      "en": "using a preformed structure of fibres or filaments",
+      "count": 116,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C47/20": {
+      "code": "C22C47/20",
+      "level": 1,
+      "parent": "C22C47/00",
+      "ja": "少なくとも一つの金属層または金属板と，一層の繊維またはフィラメントを含む要素を加圧および加熱することによるもの［７］",
+      "en": "by subjecting to pressure and heat an assembly comprising at least one metal layer or sheet and one layer of fibres or filaments",
+      "count": 440,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C49/00": {
+      "code": "C22C49/00",
+      "level": 0,
+      "parent": "C22C",
+      "ja": "金属または非金属の繊維またはフィラメントを含む合金［７］",
+      "en": "Alloys containing metallic or non-metallic fibres or filaments",
+      "count": 996,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C49/02": {
+      "code": "C22C49/02",
+      "level": 1,
+      "parent": "C22C49/00",
+      "ja": "マトリックス材料に特徴があるもの［７］",
+      "en": "characterised by the matrix material",
+      "count": 760,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C49/04": {
+      "code": "C22C49/04",
+      "level": 2,
+      "parent": "C22C49/02",
+      "ja": "軽金属［７］",
+      "en": "Light metals",
+      "count": 519,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C49/06": {
+      "code": "C22C49/06",
+      "level": 3,
+      "parent": "C22C49/04",
+      "ja": "アルミニウム［７］",
+      "en": "Aluminium",
+      "count": 1615,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C49/08": {
+      "code": "C22C49/08",
+      "level": 2,
+      "parent": "C22C49/02",
+      "ja": "鉄族金属［７］",
+      "en": "Iron group metals",
+      "count": 618,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C49/10": {
+      "code": "C22C49/10",
+      "level": 2,
+      "parent": "C22C49/02",
+      "ja": "耐火金属［７］",
+      "en": "Refractory metals",
+      "count": 121,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C49/11": {
+      "code": "C22C49/11",
+      "level": 3,
+      "parent": "C22C49/10",
+      "ja": "チタン［７］",
+      "en": "Titanium",
+      "count": 381,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C49/12": {
+      "code": "C22C49/12",
+      "level": 2,
+      "parent": "C22C49/02",
+      "ja": "金属間化合物からなるマトリックス材料［７］",
+      "en": "Intermetallic matrix material",
+      "count": 89,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C49/14": {
+      "code": "C22C49/14",
+      "level": 1,
+      "parent": "C22C49/00",
+      "ja": "繊維またはフィラメントに特徴のあるもの［７］",
+      "en": "characterised by the fibres or filaments",
+      "count": 2730,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C101/00": {
+      "code": "C22C101/00",
+      "level": 0,
+      "parent": "C22C",
+      "ja": "非金属の繊維またはフィラメント［７］",
+      "en": "Non-metallic fibres or filaments",
+      "count": 109,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C101/02": {
+      "code": "C22C101/02",
+      "level": 1,
+      "parent": "C22C101/00",
+      "ja": "酸化物を基とするもの，例．酸化物セラミック繊維［７］",
+      "en": "based on oxides, e.g. oxide ceramic fibres",
+      "count": 138,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C101/04": {
+      "code": "C22C101/04",
+      "level": 2,
+      "parent": "C22C101/02",
+      "ja": "アルミニウム酸化物［７］",
+      "en": "Aluminium oxide",
+      "count": 216,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C101/06": {
+      "code": "C22C101/06",
+      "level": 2,
+      "parent": "C22C101/02",
+      "ja": "混合酸化物，例．アルミケイ酸塩またはガラス［７］",
+      "en": "Mixed oxides, e.g. aluminium silicate or glass",
+      "count": 325,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C101/08": {
+      "code": "C22C101/08",
+      "level": 1,
+      "parent": "C22C101/00",
+      "ja": "非酸化物を基とするもの，例．非酸化物セラミック繊維［７］",
+      "en": "based on non-oxides, e.g. non-oxide ceramic fibres",
+      "count": 87,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C101/10": {
+      "code": "C22C101/10",
+      "level": 2,
+      "parent": "C22C101/08",
+      "ja": "炭素［７］",
+      "en": "Carbon",
+      "count": 1214,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C101/12": {
+      "code": "C22C101/12",
+      "level": 2,
+      "parent": "C22C101/08",
+      "ja": "炭化物［７］",
+      "en": "Carbides",
+      "count": 70,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C101/14": {
+      "code": "C22C101/14",
+      "level": 3,
+      "parent": "C22C101/12",
+      "ja": "炭化ケイ素［７］",
+      "en": "Silicon carbide",
+      "count": 360,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C101/16": {
+      "code": "C22C101/16",
+      "level": 2,
+      "parent": "C22C101/08",
+      "ja": "窒化物［７］",
+      "en": "Nitrides",
+      "count": 49,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C101/18": {
+      "code": "C22C101/18",
+      "level": 3,
+      "parent": "C22C101/16",
+      "ja": "窒化ケイ素［７］",
+      "en": "Silicon nitride",
+      "count": 54,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C101/20": {
+      "code": "C22C101/20",
+      "level": 2,
+      "parent": "C22C101/08",
+      "ja": "ホウ素［７］",
+      "en": "Boron",
+      "count": 76,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C101/22": {
+      "code": "C22C101/22",
+      "level": 2,
+      "parent": "C22C101/08",
+      "ja": "ホウ化物［７］",
+      "en": "Borides",
+      "count": 107,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C111/00": {
+      "code": "C22C111/00",
+      "level": 0,
+      "parent": "C22C",
+      "ja": "金属繊維またはフィラメント［７］",
+      "en": "Metallic fibres or filaments",
+      "count": 279,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C111/02": {
+      "code": "C22C111/02",
+      "level": 1,
+      "parent": "C22C111/00",
+      "ja": "耐火金属繊維またはフィラメント，例．タングステン繊維［７］",
+      "en": "Refractory metal fibres or filaments, e.g. tungsten fibres",
+      "count": 119,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C121/00": {
+      "code": "C22C121/00",
+      "level": 0,
+      "parent": "C22C",
+      "ja": "予備処理された繊維またはフィラメント［７］",
+      "en": "Pretreated fibres or filaments",
+      "count": 98,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    },
+    "C22C121/02": {
+      "code": "C22C121/02",
+      "level": 1,
+      "parent": "C22C121/00",
+      "ja": "被覆された繊維またはフィラメント，例．保護被覆されたセラミック繊維［７］",
+      "en": "Coated fibres or filaments, e.g. ceramic fibres with protective coatings",
+      "count": 275,
+      "sourceFile": "ipc_C22C.txt",
+      "kind": "ipc"
+    }
+  }
+};

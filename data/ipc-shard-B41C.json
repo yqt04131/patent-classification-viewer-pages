@@ -1,0 +1,216 @@
+{
+  "generatedAt": "2026-03-20T02:17:46.177Z",
+  "total": 21,
+  "entries": {
+    "B41C": {
+      "code": "B41C",
+      "level": 0,
+      "parent": "B41",
+      "ja": "印刷版面の製作または複製方法（印刷版面作成用写真製版方法Ｇ０３Ｆ；印刷版面作成用の光電的方法Ｇ０３Ｇ）",
+      "en": "PROCESSES FOR THE MANUFACTURE OR REPRODUCTION OF PRINTING SURFACES(photomechanical processes for producing printing surfaces <b>G03F</b>; photoelectrical processes for producing printing surfaces <b>G03G</b>)",
+      "count": 201,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B41": {
+      "code": "B41",
+      "level": 0,
+      "parent": "B",
+      "ja": "印刷；線画機；タイプライター；スタンプ［４］",
+      "en": "PRINTING; LINING MACHINES; TYPEWRITERS; STAMPS",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B": {
+      "code": "B",
+      "level": 0,
+      "parent": null,
+      "ja": "処理操作；運輸",
+      "en": "PERFORMING OPERATIONS; TRANSPORTING",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B41C1/00": {
+      "code": "B41C1/00",
+      "level": 0,
+      "parent": "B41C",
+      "ja": "印刷版の製作",
+      "en": "Forme preparation",
+      "count": 4212,
+      "sourceFile": "ipc_B41C.txt",
+      "kind": "ipc"
+    },
+    "B41C1/02": {
+      "code": "B41C1/02",
+      "level": 1,
+      "parent": "B41C1/00",
+      "ja": "彫刻；そのためのヘッド（記録担体への記録，そのためのヘッドＧ１１Ｂ）［５］<br><br><b><ul>注</ul></b><br>クラスＢ４１のタイトルおよびサブクラスＨ０４Ｎ，特にそのサブクラスのタイトルに続く注およびグループＨ０４Ｎ１／００に注意する。［５］",
+      "en": "Engraving; Heads therefor(recording on record carriers, heads therefor <b>G11B</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>Attention is drawn to the title of class <b>B41</b> and to subclass <b>H04N</b>, in particular to the Notes following the title of that subclass and to group <b>H04N1/00</b>. </li></ul>",
+      "count": 1127,
+      "sourceFile": "ipc_B41C.txt",
+      "kind": "ipc"
+    },
+    "B41C1/04": {
+      "code": "B41C1/04",
+      "level": 2,
+      "parent": "B41C1/02",
+      "ja": "電気情報信号によって制御されるヘッドを用いるもの",
+      "en": "using heads controlled by an electric information signal",
+      "count": 634,
+      "sourceFile": "ipc_B41C.txt",
+      "kind": "ipc"
+    },
+    "B41C1/045": {
+      "code": "B41C1/045",
+      "level": 3,
+      "parent": "B41C1/04",
+      "ja": "機械的彫刻ヘッド［５］",
+      "en": "Mechanical engraving heads",
+      "count": 368,
+      "sourceFile": "ipc_B41C.txt",
+      "kind": "ipc"
+    },
+    "B41C1/05": {
+      "code": "B41C1/05",
+      "level": 3,
+      "parent": "B41C1/04",
+      "ja": "発熱彫刻ヘッド，例．レーザービーム，電子ビーム［５］",
+      "en": "Heat-generating engraving heads, e.g. laser beam, electron beam",
+      "count": 1632,
+      "sourceFile": "ipc_B41C.txt",
+      "kind": "ipc"
+    },
+    "B41C1/055": {
+      "code": "B41C1/055",
+      "level": 1,
+      "parent": "B41C1/00",
+      "ja": "版作成のためのサーモグラフ法（Ｂ４１Ｃ１／０２が優先）［５］",
+      "en": "Thermographic processes for producing formes(<b>B41C1/02</b> takes precedence)",
+      "count": 2390,
+      "sourceFile": "ipc_B41C.txt",
+      "kind": "ipc"
+    },
+    "B41C1/06": {
+      "code": "B41C1/06",
+      "level": 1,
+      "parent": "B41C1/00",
+      "ja": "転写（Ｂ４１Ｃ１／１０，Ｂ４１Ｃ１／１８が優先）［５］",
+      "en": "Transferring(<b>B41C1/10</b>, <b>B41C1/18</b> take precedence)",
+      "count": 292,
+      "sourceFile": "ipc_B41C.txt",
+      "kind": "ipc"
+    },
+    "B41C1/08": {
+      "code": "B41C1/08",
+      "level": 1,
+      "parent": "B41C1/00",
+      "ja": "エンボシングによるもの，例．タイプライタをもつもの（そのために適用されるタイプライタＢ４１Ｊ３／３８）",
+      "en": "by embossing, e.g. with a typewriter(typewriters adapted therefor <b>B41J3/38</b>)",
+      "count": 205,
+      "sourceFile": "ipc_B41C.txt",
+      "kind": "ipc"
+    },
+    "B41C1/10": {
+      "code": "B41C1/10",
+      "level": 1,
+      "parent": "B41C1/00",
+      "ja": "平版印刷用；平版像を版に転写するためのマスターシート（Ｂ４１Ｃ１／０５５が優先，平版印刷版の中和化または類似の変異処理Ｂ４１Ｎ３／０８）［５］",
+      "en": "for lithographic printing; Master sheets for transferring a lithographic image to the forme(<b>B41C1/055</b> takes precedence; neutralising or similar differentiation treatments of lithographic printing formes <b>B41N3/08</b>)",
+      "count": 5429,
+      "sourceFile": "ipc_B41C.txt",
+      "kind": "ipc"
+    },
+    "B41C1/12": {
+      "code": "B41C1/12",
+      "level": 1,
+      "parent": "B41C1/00",
+      "ja": "多色印刷版",
+      "en": "Multicolour formes",
+      "count": 240,
+      "sourceFile": "ipc_B41C.txt",
+      "kind": "ipc"
+    },
+    "B41C1/14": {
+      "code": "B41C1/14",
+      "level": 1,
+      "parent": "B41C1/00",
+      "ja": "ステンシル印刷またはシルクスクリーン印刷用（Ｂ４１Ｃ１／０５５が優先）［５］",
+      "en": "for stencil printing or silk-screen printing(<b>B41C1/055</b> takes precedence)",
+      "count": 4664,
+      "sourceFile": "ipc_B41C.txt",
+      "kind": "ipc"
+    },
+    "B41C1/16": {
+      "code": "B41C1/16",
+      "level": 1,
+      "parent": "B41C1/00",
+      "ja": "アマルガム被覆によりインク抵抗性となった領域を有する版；アマルガム印刷用版［５］",
+      "en": "Formes with areas rendered ink-resistant by covering with an amalgam; Printing plates for amalgam printing",
+      "count": 91,
+      "sourceFile": "ipc_B41C.txt",
+      "kind": "ipc"
+    },
+    "B41C1/18": {
+      "code": "B41C1/18",
+      "level": 1,
+      "parent": "B41C1/00",
+      "ja": "曲面印刷版，または円筒印刷版",
+      "en": "Curved printing formes or printing cylinders",
+      "count": 1164,
+      "sourceFile": "ipc_B41C.txt",
+      "kind": "ipc"
+    },
+    "B41C3/00": {
+      "code": "B41C3/00",
+      "level": 0,
+      "parent": "B41C",
+      "ja": "印刷版の複製",
+      "en": "Reproduction or duplicating of printing formes",
+      "count": 392,
+      "sourceFile": "ipc_B41C.txt",
+      "kind": "ipc"
+    },
+    "B41C3/02": {
+      "code": "B41C3/02",
+      "level": 1,
+      "parent": "B41C3/00",
+      "ja": "鉛版（鉛版の鋳造Ｂ４１Ｄ３／００）［２］",
+      "en": "Stereotyping(casting stereotype plates <b>B41D3/00</b>)",
+      "count": 112,
+      "sourceFile": "ipc_B41C.txt",
+      "kind": "ipc"
+    },
+    "B41C3/04": {
+      "code": "B41C3/04",
+      "level": 1,
+      "parent": "B41C3/00",
+      "ja": "ゴム版を製作するもの",
+      "en": "to produce rubber printing blocks",
+      "count": 178,
+      "sourceFile": "ipc_B41C.txt",
+      "kind": "ipc"
+    },
+    "B41C3/06": {
+      "code": "B41C3/06",
+      "level": 1,
+      "parent": "B41C3/00",
+      "ja": "プラスチック版を製造するもの",
+      "en": "to produce printing blocks from plastics",
+      "count": 542,
+      "sourceFile": "ipc_B41C.txt",
+      "kind": "ipc"
+    },
+    "B41C3/08": {
+      "code": "B41C3/08",
+      "level": 1,
+      "parent": "B41C3/00",
+      "ja": "電鋳版；バッキング層の使用［５］",
+      "en": "Electrotyping; Application of backing layers thereon",
+      "count": 333,
+      "sourceFile": "ipc_B41C.txt",
+      "kind": "ipc"
+    }
+  }
+}

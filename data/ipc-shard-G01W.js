@@ -1,0 +1,156 @@
+window.IPC_SHARD_G01W = {
+  "generatedAt": "2026-03-20T02:17:47.038Z",
+  "total": 15,
+  "entries": {
+    "G01W": {
+      "code": "G01W",
+      "level": 0,
+      "parent": "G01",
+      "ja": "気象学（気象用にデザインしたレーダ，ソーナ，ライダーまたは類似の方式Ｇ０１Ｓ１３／９５，Ｇ０１Ｓ１５／８８，Ｇ０１Ｓ１７／９５）<br><br><b><ul>注</ul></b><br>（１）このサブクラスにおいては，下記の用語は以下に示す意味で用いる：<br>―“気象学”とは特定の環境の状態の測定を含む。<br>（２）クラスＧ０１のタイトルに続く注に注意すること。",
+      "en": "METEOROLOGY(radar, sonar, lidar or analogous systems, designed for meteorological use <b>G01S13/95</b>, <b>G01S15/88</b>, <b>G01S17/95</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>In this subclass, the following term is used with the meaning indicated:<ul><li>\"meteorology\" includes measurement of certain ambient atmospheric conditions.</li></ul></li><li>Attention is drawn to the Notes following the title of class <b>G01</b>.</li></ul>",
+      "count": 158,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G01": {
+      "code": "G01",
+      "level": 0,
+      "parent": "G",
+      "ja": "測定；試験<br><br><b><ul>注</ul></b><br>（１）このクラスは“真”の測定計器のほかに類似構造の他の指示表示装置又は記録装置を含み，また更に，信号化装置又は制御装置についてはそれが測定に関するものであって（以下の注（２）で定義するように）特定の信号化目的または特定の制御目的に特に適合しないものである限り，含まれる。<br>（２）このクラスにおいては，下記の用語は以下に示す意味で用いる：<br>―“測定”はその第一義的意味又は基本的な意味よりもかなり広い意味を含むものとして用いる。この語の第一義的な意味においては，変量値を単位もしくはデータに関して又は同じ性質の別の変量に関して数値的に表現することを見い出すこと，例えば長さをスケールで測定するなどある長さを別の長さの表現で表わすこと，を意味する。この変量値は直接的に得る（すぐ前で言及したように）こともあり，また，水銀柱の長さの変化を測定することにより温度変化を測定するなど求める変量値に関連づけることのできる他の変量値を測定することよって得ることもある。しかしながら，同じ装置又は計器が，直接的な表示を行う代りに，記録をとったり，指示効果又は制御効果を奏すべく信号を発生するために用いられたり，或いは，他の装置又は計器と組み合わせて同種又は異種の二以上の変量の測定から一つのまとまった結果を得るために用いられることもあるので，“測定”はかかる数値的表現を変量を数値に変換する何らかの手段の付加的使用によって得ることを可能とするような操作をも含むものとして解釈することが必要である。従って，数値での表現は実際的にはデジタル的表現によって行なうこともありスケールを読むことによって行なうこともあり，また，その指示は数値を用いないで，例えば測定されている変量が特性又は状態であるところの実在物（例．物体，物質，光ビーム）について感知し得る何らかの特性（変量）によって又はそのような特性に類似するもの（例．スケールをもたない部材の対応位置，何らかの手段によって発生される対応電圧）によって，与えられることがある。<br>また，上記のような変量値指示が行なわれずに単に基準又はデータ（その値は数値的に既知のこともあり未知のこともある）に関しての異同を示すだけのことも多くある。この基準又はデータは同一性質であるが異なる実在物（例．標準器）の値のこともあり，或いは異なる時点での同一実在物の値であることもある。その最も単純な形態においては，測定は単にある状態又は性質，例えば運動（いずれかの方向又は特定の方向における）の有無を指示するだけのこともあるし，また，変量が既定値を超えるかどうかを指示するだけのこともある。<br>（３）“マイクロ構造の装置”および“マイクロ構造のシステム”に関する，クラスＢ８１およびサブクラスＢ８１Ｂの両タイトルの後の注に注意すること。［７］<br>（４）セクションＧのタイトルに続く注，特に“変量”という用語の定義については注意はすること。<br>（５）多くの測定装置において，測定すべき第一の変量は第二の変量またはさらなる変量に変換される。第二の変量またはさらなる変量は，第一の変量に関係して構成部材に生じた状態，または構成部材の変位であるかもしれない。そして，さらに変換が必要となるかもしれない。［６］<br>このような装置を分類するときは，（ｉ）重要である特定の変換ステップ，または重要である個々の変換ステップを分類するか，または（ｉｉ）全体としてのシステムのみが重要な場合は，第一の変量を該当する箇所に分類する。［６］<br>これは２つ以上の変換が起こる場合に特に重要である。たとえば，第一の変量（例．圧力）が第二の変量（例．感知体の光学的特性）に変換され，さらにその第二の変量が第三の変量（例．電気的効果）で示されるような場合である。このような場合には，次の分類箇所を考慮しなければならない：<br>第一の変量の変換についての分類場所，その変量により生じた状態を感知することについての分類場所，測定を示すＧ０１Ｄ，そして最後に，該当する場合は，システム全体を分類する場所である。［６］<br>（６）物理的特性の値の変化の測定は，その物理的特性の測定と同一のサブクラスに分類する。例えば，長さの伸びの測定はサブクラスＧ０１Ｂに分類する。",
+      "en": "MEASURING; TESTING; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This class <u>covers</u>, in addition to \"true\" measuring instruments, other indicating or recording devices of analogous construction, and also signalling or control devices insofar as they are concerned with measurement (as defined in Note 2 below) and are not specially adapted to the particular purpose of signalling or control.</li><li>In this class, the following term is used with the meaning indicated: <ul><li>\"measuring\" is used to cover considerably more than its primary or basic meaning. In this primary sense, it means finding a numerical expression of the value of a variable in relation to a unit or datum or to another variable of the same nature, e.g. expressing a length in terms of another length as in measuring a length with a scale; the value may be obtained directly (as just suggested) or by measuring some other variable of which the value can be related to the value of the required variable, as in measuring a change in temperature by measuring a resultant change in the length of a column of mercury. However, since the same device or instrument may, instead of giving an immediate indication, be used to produce a record or to initiate a signal to produce an indication or control effect, or may be used in combination with other devices or instruments to give a conjoint result from measurement of two or more variables of the same or different kinds, it is necessary to interpret \"measuring\" as including also any operation that would make it possible to obtain such a numerical expression by the additional use of some way of converting a value into figures. Thus the expression in figures may be actually made by a digital presentation or by reading a scale, or an indication of it may be given without the use of figures, e.g. by some perceptible feature (variable) of the entity (e.g. object, substance, beam of light) of which the variable being measured is a property or condition or by an analogue of such a feature (e.g. the corresponding position of a member without any scale, a corresponding voltage generated in some way). In many cases there is no such value indication but only an indication of difference or equality in relation to a standard or datum (of which the value may or may not be known in figures); the standard or datum may be the value of another variable of the same nature but of a different entity (e.g. a standard measure) or of the same entity at a different time. <ul><li>In its simplest form, measurement may give merely an indication of presence or absence of a certain condition or quality, e.g. movement (in any direction or in a particular direction), or whether a variable exceeds a predetermined value.</li></ul></li></ul></li><li>Attention is drawn to the Notes following the titles of class <b>B81</b> and subclass <b>B81B</b> relating to \"microstructural devices\" and \"microstructural systems\" and the Notes following the title of subclass <b>B82B</b> relating to \"nanostructures\".</li><li>Attention is drawn to the Notes following the title of section <b>G</b>, especially as regards the definition of the term \"variable\".</li><li>In many measuring arrangements, a first variable to be measured is transformed into a second, or further, variables. The second, or further, variables may be (a) a condition related to the first variable and produced in a member, or (b) a displacement of a member. Further transformation may be needed. <ul><li>When classifying such an arrangement, (i) the transformation step, or each transformation step, that is of interest is classified, or (ii) if interest lies only in the system as a whole, the first variable is classified in the appropriate place.</li><li>This is particularly important where two or more conversions take place, for instance where a first variable, for example pressure, is transformed into a second variable, for example an optical property of a sensing body, and that second variable is expressed by means of a third variable, for example an electric effect. In such a case, the following classification places should be considered: the place for the transformation of the first variable, that for sensing the condition caused by that variable, subclass <b>G01D</b> for expression of the measurement, and finally the place for the overall system, if any.</li></ul></li><li>The measurement of change in the value of a physical property is classified in the same subclass as the measurement of that physical property, e.g. measurement of expansion of length is classified in subclass <b>G01B</b>.</li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G": {
+      "code": "G",
+      "level": 0,
+      "parent": null,
+      "ja": "物理学<br><br><b><ul>注</ul></b><br>１．このセクションにおいては，下記の用語は以下に示す意味で用いる：<br>・“変量”は名詞として，特定の実在物，例．物体，ある量の物質，光ビーム，に関し特定の瞬間に測定することの可能な特性又は特質，例．寸法，温度等の物理的状態，密度又は色等の性質，を意味する。変量が変化すると，その数値的表現は異なる時点で，異なる状態又は個々の状況において異なる値をとることもあり，また，ある状態のもとで又は実用上特定の実在物に関して一定でありうる，例．バーの長さが多くの目的のために一定とみなされる，こともある。<br>２．使用される用語または表現の定義に注意すること。このセクションのいくつかのクラスの注に使用されているものについて，特にクラスＧ０１の“測定”を参照されたい．ＩＰＣ指針パラグラフ１８７の中にあるものについて，“制御”及び“調整”の定義に参照されたい。<br>３．このセクションにおける分類は他のセクションにおいてよりもめんどうな場合があり得る，というのは，その一つは，いろいろな使用分野の差異の判別には構造上の差異又は使用形態上の差異よりも寧ろ使用者の意図における差異の方にかなりの程度影響されてしまうからであり，もう一つは，扱う主題が容易に全体として識別できる“もの”であるよりも，特性又は部品が他の主題のものと共通のものを有しているシステム又は組合わせであることが実際上多いからである。例えば，情報（例．一連の数値）をディスプレイするのは，クラスＧ０９に包含される，教育又は広告のため，クラスＧ０１に包含される，測定の結果が通知されうるため，クラスＧ０８に包含される，遠隔地点に情報を合図するため，又は遠隔地点から合図された情報を提供するためである。目的を記述するために使用する言葉は，当該装置の形態に無関係なこともあり得る特性－例えば，ディスプレイを見る者にとって望ましい効果とか，ディスプレイが遠隔地点から制御されるかどうかという特性－によって決定される。さらに，ある状態，例えば流体圧の変化に応答する装置は，その装置そのものには変更を加えずして，サブクラスＧ０１Ｌに包含される圧力又はＧ０１の他のサブクラスに包含される圧力に関連した他の何らかの状態，例．温度に関してＧ０１Ｋ，についての情報を与えるため，サブクラスＧ０７Ｃに包含される圧力または圧力発生の記録をするため，サブクラスＧ０８Ｂに包含される警報を発するため，又はクラスＧ０５に包含される他の何らかの装置を制御するために用いられることがある。<br>　本分類表は，前述したように，同一の性質のものは同一箇所に分類し得るようにしたものである。従って，技術主題が適切箇所に分類されるためには予めその真正な本質を把握することが特に必要である。",
+      "en": "PHYSICS; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this section, the following term is used with the meaning indicated: <ul><li>\"variable\" as a noun means a feature or property, e.g. a dimension, a physical condition such as temperature, a quality such as density or colour, which, in respect of a particular entity, e.g. an object, a quantity of a substance, a beam of light, and at a particular instant, is capable of being measured; the variable may change, so that its numerical expression may assume different values at different times, in different conditions or in individual cases, but may be constant in respect of a particular entity in certain conditions or for practical purposes, e.g. the length of a bar may be regarded as constant for many purposes.</li></ul></li><li>Attention is drawn to the definitions of terms or expressions used. Some appear in the notes of several of the classes in this section, see in particular the definition of \"measuring\" in class <b>G01</b>. Others appear in paragraph 187 of the Guide to the IPC, see in particular the definitions of \"control\" and \"regulation\".</li><li>Classification in this section may present more difficulty than in other sections, because the distinction between different fields of use rests to a considerable extent on differences in the intention of the user rather than on any constructional differences or differences in the manner of use, and because the subjects dealt with are often in effect systems or combinations, which have features or parts in common, rather than \"things\", which are readily distinguishable as a whole. For example, information, e.g. a set of figures, may be displayed for the purpose of education or advertising covered by class <b>G09</b>, for enabling the result of a measurement to be known covered by class <b>G01</b>, for signalling the information to a distant point or for giving information which has been signalled from a distant point covered by class <b>G08</b>. The words used to describe the purpose depend on features that may be irrelevant to the form of the apparatus concerned, for example, such features as the desired effect on the person who sees the display, or whether the display is controlled from a remote point. Again, a device which responds to some change in a condition, e.g. in the pressure of a fluid, may be used, without modification of the device itself, to give information about the pressure covered by subclass <b>G01L</b> or about some other condition linked to the pressure covered by another subclass of class <b>G01</b>, e.g. <b>G01K</b> for temperature, to make a record of the pressure or of its occurrence covered by subclass <b>G07C</b>, to give an alarm covered by subclass <b>G08B</b>, or to control another apparatus covered by class <b>G05</b>. <ul><li>The classification scheme is intended to enable things of a similar nature, as indicated above, to be classified together. It is therefore particularly necessary for the real nature of any technical subject to be decided before it can be properly classified.</li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G01W1/00": {
+      "code": "G01W1/00",
+      "level": 0,
+      "parent": "G01W",
+      "ja": "気象学",
+      "en": "Meteorology",
+      "count": 7980,
+      "sourceFile": "ipc_G01W.txt",
+      "kind": "ipc"
+    },
+    "G01W1/02": {
+      "code": "G01W1/02",
+      "level": 1,
+      "parent": "G01W1/00",
+      "ja": "２以上の変量，例．湿度，気圧，温度，雲量，風速，の測定による天気状況を指示する計器（Ｇ０１Ｗ１／１０が優先）",
+      "en": "Instruments for indicating weather conditions by measuring two or more variables, e.g. humidity, pressure, temperature, cloud cover or wind speed(<b>G01W1/10</b> takes precedence)",
+      "count": 9666,
+      "sourceFile": "ipc_G01W.txt",
+      "kind": "ipc"
+    },
+    "G01W1/04": {
+      "code": "G01W1/04",
+      "level": 2,
+      "parent": "G01W1/02",
+      "ja": "測定された変量を別々に指示するもの",
+      "en": "giving only separate indications of the variables measured",
+      "count": 1260,
+      "sourceFile": "ipc_G01W.txt",
+      "kind": "ipc"
+    },
+    "G01W1/06": {
+      "code": "G01W1/06",
+      "level": 2,
+      "parent": "G01W1/02",
+      "ja": "天気状況を総合して指示するもの（天気状況または人体に対する空気の影響のいずれかに関係する“冷却値”を測定するカタ温度計Ｇ０１Ｗ１／１７）",
+      "en": "giving a combined indication of weather conditions(catathermometers for measuring \"cooling value\" related either to weather conditions or to comfort of other human environment <b>G01W1/17</b>)",
+      "count": 806,
+      "sourceFile": "ipc_G01W.txt",
+      "kind": "ipc"
+    },
+    "G01W1/08": {
+      "code": "G01W1/08",
+      "level": 1,
+      "parent": "G01W1/00",
+      "ja": "気象目的のための気球，ミサイルまたは航空機の適合；ラジオゾンデ",
+      "en": "Adaptations of balloons, missiles, or aircraft for meteorological purposes; Radiosondes",
+      "count": 2149,
+      "sourceFile": "ipc_G01W.txt",
+      "kind": "ipc"
+    },
+    "G01W1/10": {
+      "code": "G01W1/10",
+      "level": 1,
+      "parent": "G01W1/00",
+      "ja": "天気状況の予報装置",
+      "en": "Devices for predicting weather conditions",
+      "count": 8696,
+      "sourceFile": "ipc_G01W.txt",
+      "kind": "ipc"
+    },
+    "G01W1/11": {
+      "code": "G01W1/11",
+      "level": 1,
+      "parent": "G01W1/00",
+      "ja": "大気中の湿度を表示するための装置",
+      "en": "Devices for indicating atmospheric humidity",
+      "count": 705,
+      "sourceFile": "ipc_G01W.txt",
+      "kind": "ipc"
+    },
+    "G01W1/12": {
+      "code": "G01W1/12",
+      "level": 1,
+      "parent": "G01W1/00",
+      "ja": "自記日照（時間）計",
+      "en": "Sunshine-duration recorders",
+      "count": 904,
+      "sourceFile": "ipc_G01W.txt",
+      "kind": "ipc"
+    },
+    "G01W1/14": {
+      "code": "G01W1/14",
+      "level": 1,
+      "parent": "G01W1/00",
+      "ja": "雨量計または降水量計",
+      "en": "Rainfall or precipitation gauges",
+      "count": 9885,
+      "sourceFile": "ipc_G01W.txt",
+      "kind": "ipc"
+    },
+    "G01W1/16": {
+      "code": "G01W1/16",
+      "level": 1,
+      "parent": "G01W1/00",
+      "ja": "大気中の電位差測定，例．雲の帯電によるもの",
+      "en": "Measuring atmospheric potential differences, e.g. due to electrical charges in clouds",
+      "count": 799,
+      "sourceFile": "ipc_G01W.txt",
+      "kind": "ipc"
+    },
+    "G01W1/17": {
+      "code": "G01W1/17",
+      "level": 1,
+      "parent": "G01W1/00",
+      "ja": "天気状況または人体に対する空気の影響のどちらかに関係する“冷却値”を測定するカタ温度計",
+      "en": "Catathermometers for measuring \"cooling value\" related either to weather conditions or to comfort of other human environment",
+      "count": 391,
+      "sourceFile": "ipc_G01W.txt",
+      "kind": "ipc"
+    },
+    "G01W1/18": {
+      "code": "G01W1/18",
+      "level": 1,
+      "parent": "G01W1/00",
+      "ja": "気象測器の試験または較正",
+      "en": "Testing or calibrating meteorological apparatus",
+      "count": 1166,
+      "sourceFile": "ipc_G01W.txt",
+      "kind": "ipc"
+    }
+  }
+};

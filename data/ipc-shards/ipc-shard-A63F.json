@@ -1,0 +1,1636 @@
+{
+  "generatedAt": "2026-03-20T02:17:45.973Z",
+  "total": 163,
+  "entries": {
+    "A63F": {
+      "code": "A63F",
+      "level": 0,
+      "parent": "A63",
+      "ja": "カードゲーム，盤上ゲーム，ルーレットゲーム；小遊技動体を用いる室内用ゲーム；ビデオゲーム；他に分類されないゲーム［５］",
+      "en": "CARD, BOARD OR ROULETTE GAMES; INDOOR GAMES USING SMALL MOVING PLAYING BODIES; VIDEO GAMES; GAMES NOT OTHERWISE PROVIDED FOR",
+      "count": 4233,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A63": {
+      "code": "A63",
+      "level": 0,
+      "parent": "A",
+      "ja": "スポーツ；ゲーム；娯楽",
+      "en": "SPORTS; GAMES; AMUSEMENTS",
+      "count": 0,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A": {
+      "code": "A",
+      "level": 0,
+      "parent": null,
+      "ja": "生活必需品",
+      "en": "HUMAN NECESSITIES",
+      "count": 0,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A63F1/00": {
+      "code": "A63F1/00",
+      "level": 0,
+      "parent": "A63F",
+      "ja": "カードゲーム［２００６．０１］",
+      "en": "Card games",
+      "count": 4611,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F1/02": {
+      "code": "A63F1/02",
+      "level": 1,
+      "parent": "A63F1/00",
+      "ja": "カード；特殊形状のカード［２００６．０１］",
+      "en": "Cards; Special shapes of cards",
+      "count": 3395,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F1/04": {
+      "code": "A63F1/04",
+      "level": 1,
+      "parent": "A63F1/00",
+      "ja": "他のゲームと組み合されたカードゲーム",
+      "en": "Card games combined with other games",
+      "count": 2034,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F1/06": {
+      "code": "A63F1/06",
+      "level": 1,
+      "parent": "A63F1/00",
+      "ja": "カードゲームの付属物",
+      "en": "Card game appurtenances",
+      "count": 2175,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F1/08": {
+      "code": "A63F1/08",
+      "level": 2,
+      "parent": "A63F1/06",
+      "ja": "カード押え",
+      "en": "Card-presses",
+      "count": 53,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F1/10": {
+      "code": "A63F1/10",
+      "level": 2,
+      "parent": "A63F1/06",
+      "ja": "カード保持具",
+      "en": "Card-holders",
+      "count": 605,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F1/12": {
+      "code": "A63F1/12",
+      "level": 2,
+      "parent": "A63F1/06",
+      "ja": "カード切り具",
+      "en": "Card-shufflers",
+      "count": 1023,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F1/14": {
+      "code": "A63F1/14",
+      "level": 2,
+      "parent": "A63F1/06",
+      "ja": "カード配り具",
+      "en": "Card-dealers",
+      "count": 1359,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F1/16": {
+      "code": "A63F1/16",
+      "level": 2,
+      "parent": "A63F1/06",
+      "ja": "カード配り人を指示する装置",
+      "en": "Apparatus for indicating the dealer",
+      "count": 96,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F1/18": {
+      "code": "A63F1/18",
+      "level": 2,
+      "parent": "A63F1/06",
+      "ja": "得点の計算器及び記録装置；指示装置（Ａ６３Ｆ１／１６が優先）［２００６．０１］",
+      "en": "Scoring or registering devices; Indicators(<b>A63F1/16</b> takes precedence)",
+      "count": 1261,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F3/00": {
+      "code": "A63F3/00",
+      "level": 0,
+      "parent": "A63F",
+      "ja": "盤上ゲーム；富くじゲーム［２００６．０１］",
+      "en": "Board games; Raffle games",
+      "count": 19053,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F3/02": {
+      "code": "A63F3/02",
+      "level": 1,
+      "parent": "A63F3/00",
+      "ja": "チェス；類似する盤上ゲーム",
+      "en": "Chess; Similar board games",
+      "count": 11230,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F3/04": {
+      "code": "A63F3/04",
+      "level": 1,
+      "parent": "A63F3/00",
+      "ja": "地理的または同様のゲーム",
+      "en": "Geographical or like games",
+      "count": 4060,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F3/06": {
+      "code": "A63F3/06",
+      "level": 1,
+      "parent": "A63F3/00",
+      "ja": "数合せカードゲームまたはビンゴゲーム；このようなゲームを検査，照合するためのシステム，装置または器具［５］",
+      "en": "Lottos or bingo games; Systems, apparatus or devices for checking such games",
+      "count": 4773,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F3/08": {
+      "code": "A63F3/08",
+      "level": 1,
+      "parent": "A63F3/00",
+      "ja": "相当大人数によって行える富くじゲーム",
+      "en": "Raffle games that can be played by a fairly large number of people",
+      "count": 1364,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F5/00": {
+      "code": "A63F5/00",
+      "level": 0,
+      "parent": "A63F",
+      "ja": "ルーレットゲーム［２００６．０１］",
+      "en": "Roulette games",
+      "count": 1650,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F5/02": {
+      "code": "A63F5/02",
+      "level": 1,
+      "parent": "A63F5/00",
+      "ja": "ルーレット状のボールゲーム",
+      "en": "Roulette-like ball games",
+      "count": 699,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F5/04": {
+      "code": "A63F5/04",
+      "level": 1,
+      "parent": "A63F5/00",
+      "ja": "ディスクルーレット；ダイヤルルーレット；指回し小こま；さいころ表示をするこま",
+      "en": "Disc roulettes; Dial roulettes; Teetotums; Dice-tops",
+      "count": 59251,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F7/00": {
+      "code": "A63F7/00",
+      "level": 0,
+      "parent": "A63F",
+      "ja": "小遊技動体たとえば，ボール，円盤またはブロックを用いる室内用ゲーム（盤上ゲームまたは富くじゲームＡ６３Ｆ３／００；ルーレットゲームＡ６３Ｆ５／００；小型ボーリングゲームＡ６３Ｄ３／００，パゲティルまたはそれに類似するゲームＡ６３Ｄ１３／００；玉突きまたはポケット玉突きＡ６３Ｄ１５／００）［２００６．０１］",
+      "en": "Indoor games using small moving playing bodies, e.g. balls, discs or blocks (board games or raffle games <b>A63F3/00</b>;  roulette games <b>A63F5/00</b>;  miniature bowling games <b>A63D3/00</b>;  bagatelle or similar games <b>A63D13/00</b>;  billiards or pocket billiards <b>A63D15/00</b>)",
+      "count": 5609,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F7/02": {
+      "code": "A63F7/02",
+      "level": 1,
+      "parent": "A63F7/00",
+      "ja": "落下する小遊技体または斜面上をころがる小遊技体を用いるもの，例．ピンボールゲーム",
+      "en": "using falling playing bodies or playing bodies running on an inclined surface, e.g. pinball games",
+      "count": 210567,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F7/04": {
+      "code": "A63F7/04",
+      "level": 1,
+      "parent": "A63F7/00",
+      "ja": "小容器内で振回しまたは転動するボールを用いるもの",
+      "en": "using balls to be shaken or rolled in small boxes",
+      "count": 2548,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F7/06": {
+      "code": "A63F7/06",
+      "level": 1,
+      "parent": "A63F7/00",
+      "ja": "戸外ボールゲームの模擬ゲーム，例．ホッケイ（戸外スポーツを模した人体に肉体的に有益な卓上ゲーム，例．ピンポン，Ａ６３Ｂ　６７／０４）［２００６．０１］",
+      "en": "Games simulating outdoor ball games, e.g. hockey (table games physically beneficial for the human body, modelled on outdoor sports, e.g. table tennis, <b>A63B67/04</b>)",
+      "count": 5318,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F7/07": {
+      "code": "A63F7/07",
+      "level": 2,
+      "parent": "A63F7/06",
+      "ja": "小遊技体が遊技面に常に接触しているものまたは常に保持されているもの，例．エアークッションを用いるもの［３］",
+      "en": "in which the playing bodies contact, or are supported by, the playing surface continuously, e.g. using air-cushion support",
+      "count": 492,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F7/20": {
+      "code": "A63F7/20",
+      "level": 2,
+      "parent": "A63F7/06",
+      "ja": "小遊技体が空中に発射されるもの［３］",
+      "en": "in which the playing bodies are projected through the air",
+      "count": 434,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F7/22": {
+      "code": "A63F7/22",
+      "level": 1,
+      "parent": "A63F7/00",
+      "ja": "付属具；細部［３］",
+      "en": "Accessories; Details",
+      "count": 857,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F7/24": {
+      "code": "A63F7/24",
+      "level": 2,
+      "parent": "A63F7/22",
+      "ja": "小遊技体の発射または押出しを遊技者が操作する装置（卓上玉ころがし，小型ボーリングまたはボーリングゲームに関するこれらの装置，Ａ６３Ｄ３／０２；玉突き用のキュー　Ａ６３Ｄ１５／０８）［２００６．０１］",
+      "en": "Devices controlled by the player to project or roll-off the playing bodies (arrangement of such devices in table alleys, miniature bowling-alleys or bowling games <b>A63D3/02</b>;  billiard cues <b>A63D15/08</b>)",
+      "count": 1234,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F7/26": {
+      "code": "A63F7/26",
+      "level": 3,
+      "parent": "A63F7/24",
+      "ja": "電気的または磁気的なもの［３］",
+      "en": "electric or magnetic",
+      "count": 459,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F7/28": {
+      "code": "A63F7/28",
+      "level": 3,
+      "parent": "A63F7/24",
+      "ja": "重力を用いたもの［３］",
+      "en": "using gravity",
+      "count": 133,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F7/30": {
+      "code": "A63F7/30",
+      "level": 2,
+      "parent": "A63F7/22",
+      "ja": "障害物；標的；得点装置または玉受け装置；遊技体で作動される感知器，例．スイッチ；傾斜指示計［３］",
+      "en": "Obstacles; Targets; Scoring or pocketing devices; Playing-body-actuated sensors, e.g. switches; Tilt indicators",
+      "count": 905,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F7/32": {
+      "code": "A63F7/32",
+      "level": 3,
+      "parent": "A63F7/30",
+      "ja": "得点表示装置［３］",
+      "en": "Apparatus for varying scoring values",
+      "count": 92,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F7/34": {
+      "code": "A63F7/34",
+      "level": 2,
+      "parent": "A63F7/22",
+      "ja": "小遊技体を取扱う他の装置，例．賞球の返還装置［３］",
+      "en": "Other devices for handling the playing bodies, e.g. bonus ball return means",
+      "count": 326,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F7/36": {
+      "code": "A63F7/36",
+      "level": 2,
+      "parent": "A63F7/22",
+      "ja": "Ａ６３Ｆ７／２４～Ａ６３Ｆ７／３４に含まれないゲーム器の構成物，例．枠，ゲーム盤，案内レール［３］",
+      "en": "Constructional details not covered by groups <b>A63F7/24 to A63F7/34</b> , e.g. frames, game boards, guide tracks",
+      "count": 1352,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F7/38": {
+      "code": "A63F7/38",
+      "level": 3,
+      "parent": "A63F7/36",
+      "ja": "遊技中揺動自在な遊技面盤［３］",
+      "en": "Playing surfaces movable during play",
+      "count": 363,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F7/40": {
+      "code": "A63F7/40",
+      "level": 3,
+      "parent": "A63F7/36",
+      "ja": "ボールまたは他の遊技動体，例．ピンボール，円盤［３］",
+      "en": "Balls or other moving playing bodies, e.g. pinballs, discs",
+      "count": 546,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F9/00": {
+      "code": "A63F9/00",
+      "level": 0,
+      "parent": "A63F",
+      "ja": "他に分類されないゲーム［２００６．０１］",
+      "en": "Games not otherwise provided for",
+      "count": 19608,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F9/02": {
+      "code": "A63F9/02",
+      "level": 1,
+      "parent": "A63F9/00",
+      "ja": "射出または投てきゲーム［２００６．０１］",
+      "en": "Shooting or hurling games",
+      "count": 6209,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F9/04": {
+      "code": "A63F9/04",
+      "level": 1,
+      "parent": "A63F9/00",
+      "ja": "さいころ；さいころ容器；機械的なさいころ投出装置［２００６．０１］",
+      "en": "Dice; Dice-boxes; Mechanical dice-throwing devices",
+      "count": 4341,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F9/06": {
+      "code": "A63F9/06",
+      "level": 1,
+      "parent": "A63F9/00",
+      "ja": "ひとり遊びトランプ；その他のひとり遊びゲーム［２００６．０１］",
+      "en": "Patience; Other games for self-amusement",
+      "count": 3376,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F9/08": {
+      "code": "A63F9/08",
+      "level": 2,
+      "parent": "A63F9/06",
+      "ja": "互に関連して移動できる要素片を有するパズル［２００６．０１］",
+      "en": "Puzzles provided with elements movable in relation to each other",
+      "count": 6345,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F9/10": {
+      "code": "A63F9/10",
+      "level": 2,
+      "parent": "A63F9/06",
+      "ja": "平面的嵌め合せ絵［２００６．０１］",
+      "en": "Two-dimensional [2D] jig-saw puzzles",
+      "count": 5321,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F9/12": {
+      "code": "A63F9/12",
+      "level": 2,
+      "parent": "A63F9/06",
+      "ja": "立体的嵌め合せ絵［２００６．０１］",
+      "en": "Three-dimensional [3D] jig-saw puzzles",
+      "count": 4248,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F9/14": {
+      "code": "A63F9/14",
+      "level": 1,
+      "parent": "A63F9/00",
+      "ja": "遊戯者の動作によって動かされる形象に特徴のある，競争ゲーム，交通ゲームまたは障害物ゲーム［２００６．０１］",
+      "en": "Racing games, traffic games or obstacle games characterised by figures moved by action of the players",
+      "count": 2896,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F9/16": {
+      "code": "A63F9/16",
+      "level": 1,
+      "parent": "A63F9/00",
+      "ja": "回転こまゲーム［２００６．０１］",
+      "en": "Spinning-top games",
+      "count": 522,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F9/18": {
+      "code": "A63F9/18",
+      "level": 1,
+      "parent": "A63F9/00",
+      "ja": "解答つき質問ゲーム［２００６．０１］",
+      "en": "Question-and-answer games",
+      "count": 1947,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F9/20": {
+      "code": "A63F9/20",
+      "level": 1,
+      "parent": "A63F9/00",
+      "ja": "ドミノゲームまたはそれに類似するゲーム；麻雀ゲーム［２００６．０１］",
+      "en": "Dominoes or like games; Mah-Jongg games",
+      "count": 7825,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F9/24": {
+      "code": "A63F9/24",
+      "level": 1,
+      "parent": "A63F9/00",
+      "ja": "他に分類されない電子回路を用いるゲーム［２００６．０１］",
+      "en": "Games using electronic circuits not otherwise provided for",
+      "count": 17026,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F9/26": {
+      "code": "A63F9/26",
+      "level": 1,
+      "parent": "A63F9/00",
+      "ja": "バランスをとるゲーム，すなわち，もののバランスをとったり，または，くずしたりするゲーム［２００６．０１］",
+      "en": "Balancing games, i.e. bringing elements into or out of balance",
+      "count": 335,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F9/28": {
+      "code": "A63F9/28",
+      "level": 1,
+      "parent": "A63F9/00",
+      "ja": "倒れる要素を有する連鎖反応ゲーム，そのための分配，または配置装置［２００６．０１］",
+      "en": "Chain-reaction games with toppling pieces; Dispensers or positioning devices therefor",
+      "count": 102,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F9/30": {
+      "code": "A63F9/30",
+      "level": 1,
+      "parent": "A63F9/00",
+      "ja": "対象物をひっかける，または閉じこめる捕獲ゲーム，例．釣りゲーム［２００６．０１］",
+      "en": "Capturing games for grabbing or trapping objects, e.g. fishing games",
+      "count": 3445,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F9/32": {
+      "code": "A63F9/32",
+      "level": 1,
+      "parent": "A63F9/00",
+      "ja": "長い棒の束を使うゲーム，例．ピックアップスティックス（Ａ６３Ｆ９／３０が優先）［２００６．０１］",
+      "en": "Games with a collection of long sticks, e.g. pick-up sticks (<b>A63F9/30</b> takes precedence)",
+      "count": 91,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F9/34": {
+      "code": "A63F9/34",
+      "level": 1,
+      "parent": "A63F9/00",
+      "ja": "グループＡ６３Ｆ９／００の他のサブグループに分類されない，磁石で動く，または保持する小片を使うゲーム［２００６．０１］",
+      "en": "Games using magnetically moved or magnetically held pieces, not provided for in other subgroups of group <b>A63F9/00</b>",
+      "count": 808,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F11/00": {
+      "code": "A63F11/00",
+      "level": 0,
+      "parent": "A63F",
+      "ja": "一般的な用途のあるゲーム付属品［７］<br><br><b><ul>注</ul></b><br>特定の種類のゲームだけに特に適用されるゲーム付属品は，その特定のゲームが分類されているグループ１／００～９／００のいずれかに分類される。［７］",
+      "en": "Game accessories of general use; <br><br><b><u>Note(s)</u></b><br><br><ul><li>Game accessories specially adapted for a particular type of game are classified in one of the groups <b>A63F1/00 to A63F9/00</b>  covering the particular game.</li></ul>",
+      "count": 3379,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/00": {
+      "code": "A63F13/00",
+      "level": 0,
+      "parent": "A63F",
+      "ja": "ビデオゲーム，すなわち２次元以上の表示ができるディスプレイを用いた電子ゲーム［７，２０１４．０１］",
+      "en": "Video games, i.e. games using an electronically generated display having two or more dimensions",
+      "count": 15267,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/20": {
+      "code": "A63F13/20",
+      "level": 1,
+      "parent": "A63F13/00",
+      "ja": "ビデオゲーム装置用の入力装置［２０１４．０１］",
+      "en": "Input arrangements for video game devices",
+      "count": 2441,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/21": {
+      "code": "A63F13/21",
+      "level": 2,
+      "parent": "A63F13/20",
+      "ja": "そのセンサー，目的または型式に特徴があるもの［２０１４．０１］",
+      "en": "characterised by their sensors, purposes or types",
+      "count": 1820,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/211": {
+      "code": "A63F13/211",
+      "level": 3,
+      "parent": "A63F13/21",
+      "ja": "慣性センサーを使うもの，例．加速度計またはジャイロスコープ［２０１４．０１］",
+      "en": "using inertial sensors, e.g. accelerometers or gyroscopes",
+      "count": 2891,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/212": {
+      "code": "A63F13/212",
+      "level": 3,
+      "parent": "A63F13/21",
+      "ja": "プレイヤーが着用するセンサーを使うもの，例．脈拍または脚の動きを測定するもの［２０１４．０１］",
+      "en": "using sensors worn by the player, e.g. for measuring heart beat or leg activity",
+      "count": 2179,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/213": {
+      "code": "A63F13/213",
+      "level": 3,
+      "parent": "A63F13/21",
+      "ja": "光検知手段からなるもの，例．カメラ，フォトダイオードまたは赤外線セル（Ａ６３Ｆ１３／２１９が優先）［２０１４．０１］",
+      "en": "comprising photodetecting means, e.g. cameras, photodiodes or infrared cells (<b>A63F13/219</b> takes precedence)",
+      "count": 4589,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/214": {
+      "code": "A63F13/214",
+      "level": 3,
+      "parent": "A63F13/21",
+      "ja": "表面上の接触位置を検知するもの，例．床マットまたはタッチパッド［２０１４．０１］",
+      "en": "for locating contacts on a surface, e.g. floor mats or touch pads",
+      "count": 1362,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/2145": {
+      "code": "A63F13/2145",
+      "level": 4,
+      "parent": "A63F13/214",
+      "ja": "表面がディスプレイ装置でもあるもの，例．タッチスクリーン［２０１４．０１］",
+      "en": "the surface being also a display device, e.g. touch screens",
+      "count": 4111,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/215": {
+      "code": "A63F13/215",
+      "level": 3,
+      "parent": "A63F13/21",
+      "ja": "音響信号を検知する手段からなるもの，例．マイクロフォンを使うもの［２０１４．０１］",
+      "en": "comprising means for detecting acoustic signals, e.g. using a microphone",
+      "count": 1150,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/216": {
+      "code": "A63F13/216",
+      "level": 3,
+      "parent": "A63F13/21",
+      "ja": "地理情報を使うもの，例．ＧＰＳを使用して測定したゲーム装置またはプレイヤーの位置を用いるもの［２０１４．０１］",
+      "en": "using geographical information, e.g. location of the game device or player using GPS",
+      "count": 1363,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/217": {
+      "code": "A63F13/217",
+      "level": 3,
+      "parent": "A63F13/21",
+      "ja": "環境に関連した情報を使うもの，すなわち，プレイヤー以外により生成された情報を使うもの，例．周囲の温度又は湿度［２０１４．０１］",
+      "en": "using environment-related information, i.e. information generated otherwise than by the player, e.g. ambient temperature or humidity",
+      "count": 275,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/218": {
+      "code": "A63F13/218",
+      "level": 3,
+      "parent": "A63F13/21",
+      "ja": "圧力センサーを使うもの，例．プレイヤーから加えられる圧力に比例した信号の生成［２０１４．０１］",
+      "en": "using pressure sensors, e.g. generating a signal proportional to the pressure applied by the player",
+      "count": 990,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/219": {
+      "code": "A63F13/219",
+      "level": 3,
+      "parent": "A63F13/21",
+      "ja": "ディスプレイ上の特定の領域に照準を合わせるもの，例．光線銃［２０１４．０１］",
+      "en": "for aiming at specific areas on the display, e.g. light-guns",
+      "count": 1208,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/22": {
+      "code": "A63F13/22",
+      "level": 2,
+      "parent": "A63F13/20",
+      "ja": "設定操作，例．キャリブレーション，キーの設定またはボタンの割当て［２０１４．０１］",
+      "en": "Setup operations, e.g. calibration, key configuration or button assignment",
+      "count": 1260,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/23": {
+      "code": "A63F13/23",
+      "level": 2,
+      "parent": "A63F13/20",
+      "ja": "ゲーム装置との接続，例．ゲームコントローラとコンソール間の特殊なインターフェイス［２０１４．０１］",
+      "en": "for interfacing with the game device, e.g. specific interfaces between game controller and console",
+      "count": 1443,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/235": {
+      "code": "A63F13/235",
+      "level": 3,
+      "parent": "A63F13/23",
+      "ja": "無線接続を使うもの，例．赤外線またはピコネット［２０１４．０１］",
+      "en": "using a wireless connection, e.g. infrared or piconet",
+      "count": 1806,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/24": {
+      "code": "A63F13/24",
+      "level": 2,
+      "parent": "A63F13/20",
+      "ja": "入力装置の構造上の細部，例．取り外し可能なジョイスティックを有するコントローラ［２０１４．０１］",
+      "en": "Constructional details thereof, e.g. game controllers with detachable joystick handles",
+      "count": 7133,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/245": {
+      "code": "A63F13/245",
+      "level": 3,
+      "parent": "A63F13/24",
+      "ja": "特定の種類のゲームに特に適合したもの，例．ステアリングホイール［２０１４．０１］",
+      "en": "specially adapted to a particular type of game, e.g. steering wheels",
+      "count": 2145,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/25": {
+      "code": "A63F13/25",
+      "level": 1,
+      "parent": "A63F13/00",
+      "ja": "ビデオゲーム装置用の出力装置［２０１４．０１］",
+      "en": "Output arrangements for video game devices",
+      "count": 4156,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/26": {
+      "code": "A63F13/26",
+      "level": 2,
+      "parent": "A63F13/25",
+      "ja": "少なくとも１つの追加のディスプレイ装置を含むもの，例．ゲームコントローラに設けられたものまたはゲームブースの外に設けられたもの［２０１４．０１］",
+      "en": "having at least one additional display device, e.g. on the game controller or outside a game booth",
+      "count": 1514,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/27": {
+      "code": "A63F13/27",
+      "level": 2,
+      "parent": "A63F13/25",
+      "ja": "公共の会場の大型ディスプレイに特徴があるもの，例．映画館，スタジアムまたはゲームセンター［２０１４．０１］",
+      "en": "characterised by a large display in a public venue, e.g. in a movie theatre, stadium or game arena",
+      "count": 316,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/28": {
+      "code": "A63F13/28",
+      "level": 2,
+      "parent": "A63F13/25",
+      "ja": "周囲の状態に影響を与えるためにゲーム装置から受け取った制御信号に応じるもの，例．プレイヤーの座席を振動させるもの，匂い放出装置を起動するものまたは温度または光に影響を与えるもの［２０１４．０１］",
+      "en": "responding to control signals received from the game device for affecting ambient conditions, e.g. for vibrating players' seats, activating scent dispensers or affecting temperature or light",
+      "count": 2023,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/285": {
+      "code": "A63F13/285",
+      "level": 3,
+      "parent": "A63F13/28",
+      "ja": "入力装置に触覚フィードバック信号を生成するもの，例．フォースフィードバック［２０１４．０１］",
+      "en": "Generating tactile feedback signals via the game input device, e.g. force feedback",
+      "count": 2055,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/30": {
+      "code": "A63F13/30",
+      "level": 1,
+      "parent": "A63F13/00",
+      "ja": "ゲームサーバとゲーム装置の相互接続；ゲーム装置間の相互接続；ゲームサーバ間の相互接続［２０１４．０１］",
+      "en": "Interconnection arrangements between game servers and game devices; Interconnection arrangements between game devices; Interconnection arrangements between game servers",
+      "count": 5689,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/31": {
+      "code": "A63F13/31",
+      "level": 2,
+      "parent": "A63F13/30",
+      "ja": "ビデオゲーム特有のコミュニケーション様態，例．近くにある携帯ゲーム装置間のもの［２０１４．０１］",
+      "en": "Communication aspects specific to video games, e.g. between several handheld game devices at close range",
+      "count": 1753,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/32": {
+      "code": "A63F13/32",
+      "level": 2,
+      "parent": "A63F13/30",
+      "ja": "ローカルエリアネットワーク［ＬＡＮ］を用いるもの［２０１４．０１］",
+      "en": "using local area network [LAN] connections",
+      "count": 442,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/323": {
+      "code": "A63F13/323",
+      "level": 3,
+      "parent": "A63F13/32",
+      "ja": "ハードウェアの特徴が異なるゲーム装置間のもの，例．据置型ゲーム機またはアーケード機に接続可能な携帯ゲーム装置［２０１４．０１］",
+      "en": "between game devices with different hardware characteristics, e.g. hand-held game devices connectable to game consoles or arcade machines",
+      "count": 327,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/327": {
+      "code": "A63F13/327",
+      "level": 3,
+      "parent": "A63F13/32",
+      "ja": "無線ネットワークを用いるもの，例．Ｗｉ－Ｆｉ（登録商標）またはピコネット［２０１４．０１］",
+      "en": "using wireless networks, e.g. Wi-Fi&reg; or piconet",
+      "count": 767,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/33": {
+      "code": "A63F13/33",
+      "level": 2,
+      "parent": "A63F13/30",
+      "ja": "ワイドエリアネットワーク［ＷＡＮ］を用いるもの［２０１４．０１］",
+      "en": "using wide area network [WAN] connections",
+      "count": 3632,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/332": {
+      "code": "A63F13/332",
+      "level": 3,
+      "parent": "A63F13/33",
+      "ja": "無線ネットワークを用いるもの，例．携帯電話ネットワーク［２０１４．０１］",
+      "en": "using wireless networks, e.g. cellular phone networks",
+      "count": 643,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/335": {
+      "code": "A63F13/335",
+      "level": 3,
+      "parent": "A63F13/33",
+      "ja": "インターネットを用いるもの［２０１４．０１］",
+      "en": "using Internet",
+      "count": 1644,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/338": {
+      "code": "A63F13/338",
+      "level": 3,
+      "parent": "A63F13/33",
+      "ja": "テレビジョンネットワークを用いるもの［２０１４．０１］",
+      "en": "using television networks",
+      "count": 110,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/34": {
+      "code": "A63F13/34",
+      "level": 2,
+      "parent": "A63F13/30",
+      "ja": "ピア・ツー・ピア接続を用いるもの［２０１４．０１］",
+      "en": "using peer-to-peer connections",
+      "count": 498,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/35": {
+      "code": "A63F13/35",
+      "level": 2,
+      "parent": "A63F13/30",
+      "ja": "ゲームサーバの細部［２０１４．０１］",
+      "en": "Details of game servers",
+      "count": 8339,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/352": {
+      "code": "A63F13/352",
+      "level": 3,
+      "parent": "A63F13/35",
+      "ja": "特殊なゲームサーバ装置に関するもの，例．国別サーバまたはゲーム空間の区画を管理する複数のサーバに接続される地域サーバ［２０１４．０１］",
+      "en": "involving special game server arrangements, e.g. regional servers connected to a national server or a plurality of servers managing partitions of the game world",
+      "count": 958,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/355": {
+      "code": "A63F13/355",
+      "level": 3,
+      "parent": "A63F13/35",
+      "ja": "処理能力に制限のあるクライアントに代わって処理を行うためのもの，例．サーバがゲームシーンをエンコードされた動画ストリームに変換して携帯電話または能力の低いクライアントへ送信するもの［２０１４．０１］",
+      "en": "Performing operations on behalf of clients with restricted processing capabilities, e.g. servers transform changing game scene into an encoded video stream for transmitting to a mobile phone or a thin client",
+      "count": 1094,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/358": {
+      "code": "A63F13/358",
+      "level": 3,
+      "parent": "A63F13/35",
+      "ja": "ネットワークまたはサーバの負荷にゲームの進行を適合させるもの，例．クライアント間の接続速度によるレイテンシーを減少させるもの［２０１４．０１］",
+      "en": "Adapting the game course according to the network or server load, e.g. for reducing latency due to different connection speeds between clients",
+      "count": 882,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/40": {
+      "code": "A63F13/40",
+      "level": 1,
+      "parent": "A63F13/00",
+      "ja": "ビデオゲーム装置の入力制御信号の処理，例．プレイヤーにより生成された信号または環境に由来する信号［２０１４．０１］",
+      "en": "Processing input control signals of video game devices, e.g. signals generated by the player or derived from the environment",
+      "count": 1971,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/42": {
+      "code": "A63F13/42",
+      "level": 2,
+      "parent": "A63F13/40",
+      "ja": "入力信号をゲームコマンドに対応付けることによるもの，例．タッチスクリーン上のスタイラスから仮想車両のステアリング角への変換の対応付け［２０１４．０１］",
+      "en": "by mapping the input signals into game commands, e.g. mapping the displacement of a stylus on a touch screen to the steering angle of a virtual vehicle",
+      "count": 4092,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/422": {
+      "code": "A63F13/422",
+      "level": 3,
+      "parent": "A63F13/42",
+      "ja": "プレイヤーをアシストすることを目的として自動的に行われるもの，例．ドライビングゲームの自動ブレーキ［２０１４．０１］",
+      "en": "automatically for the purpose of assisting the player, e.g. automatic braking in a driving game",
+      "count": 613,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/424": {
+      "code": "A63F13/424",
+      "level": 3,
+      "parent": "A63F13/42",
+      "ja": "音響入力信号に関するもの，例．ピッチまたはリズムの抽出結果を使うものまたは音声認識を使うもの［２０１４．０１］",
+      "en": "involving acoustic input signals, e.g. by using the results of pitch or rhythm extraction or voice recognition",
+      "count": 902,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/426": {
+      "code": "A63F13/426",
+      "level": 3,
+      "parent": "A63F13/42",
+      "ja": "スクリーン上の位置情報に関するもの，例．プレイヤーが光線銃で照準を合わせた１つのエリアのスクリーン座標［２０１４．０１］",
+      "en": "involving on-screen location information, e.g. screen coordinates of an area at which the player is aiming with a light gun",
+      "count": 2729,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/428": {
+      "code": "A63F13/428",
+      "level": 3,
+      "parent": "A63F13/42",
+      "ja": "モーション入力信号または位置入力信号に関するもの，例．加速度計またはジャイロスコープにより検出されるコントローラの回転またはプレイヤーの腕の動きを表す信号［２０１４．０１］",
+      "en": "involving motion or position input signals, e.g. signals representing the rotation of an input controller or a player's arm motions sensed by accelerometers or gyroscopes",
+      "count": 2770,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/44": {
+      "code": "A63F13/44",
+      "level": 2,
+      "parent": "A63F13/40",
+      "ja": "操作のタイミングに関するもの，例．時間内に行動を実行するもの［２０１４．０１］",
+      "en": "involving timing of operations, e.g. performing an action within a time slot",
+      "count": 1809,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/45": {
+      "code": "A63F13/45",
+      "level": 1,
+      "parent": "A63F13/00",
+      "ja": "ビデオゲームの進行制御［２０１４．０１］",
+      "en": "Controlling the progress of the video game",
+      "count": 9319,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/46": {
+      "code": "A63F13/46",
+      "level": 2,
+      "parent": "A63F13/45",
+      "ja": "ゲームスコアの演算［２０１４．０１］",
+      "en": "Computing the game score",
+      "count": 2770,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/47": {
+      "code": "A63F13/47",
+      "level": 2,
+      "parent": "A63F13/45",
+      "ja": "分岐に関するもの，例．所与の時点で複数のストーリーの中からひとつを選択するもの［２０１４．０１］",
+      "en": "involving branching, e.g. choosing one of several possible scenarios at a given point in time",
+      "count": 771,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/48": {
+      "code": "A63F13/48",
+      "level": 2,
+      "parent": "A63F13/45",
+      "ja": "ゲームの開始，例．ゲーム装置の起動またはマルチプレイヤーセッションに他のプレイヤーが参加するのを待つこと［２０１４．０１］",
+      "en": "Starting a game, e.g. activating a game device or waiting for other players to join a multiplayer session",
+      "count": 1055,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/49": {
+      "code": "A63F13/49",
+      "level": 2,
+      "parent": "A63F13/45",
+      "ja": "ゲームの状態の保存；ゲームの中断または終了［２０１４．０１］",
+      "en": "Saving the game status; Pausing or ending the game",
+      "count": 1232,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/493": {
+      "code": "A63F13/493",
+      "level": 3,
+      "parent": "A63F13/49",
+      "ja": "ゲームの再開，例．休止，機能障害または停電の後［２０１４．０１］",
+      "en": "Resuming a game, e.g. after pausing, malfunction or power failure",
+      "count": 616,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/497": {
+      "code": "A63F13/497",
+      "level": 3,
+      "parent": "A63F13/49",
+      "ja": "以前のゲーム動作の部分的または全体的なリプレイ［２０１４．０１］",
+      "en": "Partially or entirely replaying previous game actions",
+      "count": 841,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/50": {
+      "code": "A63F13/50",
+      "level": 1,
+      "parent": "A63F13/00",
+      "ja": "ゲームの進行に基づく出力信号の制御［２０１４．０１］",
+      "en": "Controlling the output signals based on the game progress",
+      "count": 989,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/52": {
+      "code": "A63F13/52",
+      "level": 2,
+      "parent": "A63F13/50",
+      "ja": "ゲームシーンの表示様態に関するもの［２０１４．０１］",
+      "en": "involving aspects of the displayed game scene",
+      "count": 16122,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/525": {
+      "code": "A63F13/525",
+      "level": 3,
+      "parent": "A63F13/52",
+      "ja": "仮想カメラのパラメータを変化させるもの［２０１４．０１］",
+      "en": "Changing parameters of virtual cameras",
+      "count": 1648,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/5252": {
+      "code": "A63F13/5252",
+      "level": 4,
+      "parent": "A63F13/525",
+      "ja": "同時にまたは連続的に２以上の仮想カメラを使うもの，例．キャラクターが部屋を変更したときまたはドライビングゲームでリアミラーの視界を表示するときに固定仮想カメラ間の切り替えを自動的に行うもの［２０１４．０１］",
+      "en": "using two or more virtual cameras concurrently or sequentially, e.g. automatically switching between fixed virtual cameras when a character changes room or displaying a rear-mirror view in a car-driving game",
+      "count": 479,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/5255": {
+      "code": "A63F13/5255",
+      "level": 4,
+      "parent": "A63F13/525",
+      "ja": "プレイヤーからの指示に従うもの，例．プレイヤーキャラクターの周りでカメラを回転させるために第２のジョイスティックを用いるもの［２０１４．０１］",
+      "en": "according to dedicated instructions from a player, e.g. using a secondary joystick to rotate the camera around a player's character",
+      "count": 1077,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/5258": {
+      "code": "A63F13/5258",
+      "level": 4,
+      "parent": "A63F13/525",
+      "ja": "ゲームオブジェクトまたはゲームキャラクターを視野の中に含むように動的に仮想カメラの位置を適合させるもの，例．キャラクターまたはボールの追跡［２０１４．０１］",
+      "en": "by dynamically adapting the position of the virtual camera to keep a game object or game character in its viewing frustum, e.g. for tracking a character or a ball",
+      "count": 800,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/53": {
+      "code": "A63F13/53",
+      "level": 2,
+      "parent": "A63F13/50",
+      "ja": "ゲームシーンに対して追加される視覚情報に関するもの，例．ヘッドアップディスプレイ［ＨＵＤ］に重畳表示を行うものまたはシューティングゲームでレーザーサイトを表示するもの［２０１４．０１］",
+      "en": "involving additional visual information provided to the game scene, e.g. by overlay to simulate a head-up display [HUD] or displaying a laser sight in a shooting game",
+      "count": 4877,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/533": {
+      "code": "A63F13/533",
+      "level": 3,
+      "parent": "A63F13/53",
+      "ja": "プレイヤーに入力を促すためのもの，例．ゲームメニュー［２０１４．０１］",
+      "en": "for prompting the player, e.g. by displaying a game menu",
+      "count": 4765,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/537": {
+      "code": "A63F13/537",
+      "level": 3,
+      "parent": "A63F13/53",
+      "ja": "インジケーターの使用，例．画面上でゲームキャラクターの状態を示すもの［２０１４．０１］",
+      "en": "using indicators, e.g. showing the condition of a game character on screen",
+      "count": 2638,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/5372": {
+      "code": "A63F13/5372",
+      "level": 4,
+      "parent": "A63F13/537",
+      "ja": "ゲームシーンの中のキャラクター，オブジェクトまたは場所にタグを付けるもの，例．プレイヤーにより操作されるキャラクターの下に円を表示するもの［２０１４．０１］",
+      "en": "for tagging characters, objects or locations in the game scene, e.g. displaying a circle under the character controlled by the player",
+      "count": 1220,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/5375": {
+      "code": "A63F13/5375",
+      "level": 4,
+      "parent": "A63F13/537",
+      "ja": "画像またはテキストにより行動を提案するもの，例．ドライビングゲームで曲がり角を示す矢印を表示するもの［２０１４．０１］",
+      "en": "for graphically or textually suggesting an action, e.g. by displaying an arrow indicating a turn in a driving game",
+      "count": 1971,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/5378": {
+      "code": "A63F13/5378",
+      "level": 4,
+      "parent": "A63F13/537",
+      "ja": "平面図を追加的に表示するもの，例．レーダー画面またはマップ［２０１４．０１］",
+      "en": "for displaying an additional top view, e.g. radar screens or maps",
+      "count": 925,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/54": {
+      "code": "A63F13/54",
+      "level": 2,
+      "parent": "A63F13/50",
+      "ja": "音響信号に関するもの，例．ドライビングゲームで回転数に依存するエンジン音を模擬するものまたは仮想的な壁での反響を模擬するもの［２０１４．０１］",
+      "en": "involving acoustic signals, e.g. for simulating revolutions per minute [RPM] dependent engine sounds in a driving game or reverberation against a virtual wall",
+      "count": 3766,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/55": {
+      "code": "A63F13/55",
+      "level": 1,
+      "parent": "A63F13/00",
+      "ja": "ゲームの進行に基づくゲームキャラクターまたはゲームオブジェクトの制御［２０１４．０１］",
+      "en": "Controlling game characters or game objects based on the game progress",
+      "count": 11684,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/56": {
+      "code": "A63F13/56",
+      "level": 2,
+      "parent": "A63F13/55",
+      "ja": "他のゲームキャラクター，ゲームオブジェクトまたはゲームシーンの要素との関係によりゲームキャラクターの動きを演算すること，例．仮想的な兵士の集団の振る舞いをシミュレートするためのものまたは行き先をみつけるためのもの［２０１４．０１］",
+      "en": "Computing the motion of game characters with respect to other game characters, game objects or elements of the game scene, e.g. for simulating the behaviour of a group of virtual soldiers or for path finding",
+      "count": 3956,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/57": {
+      "code": "A63F13/57",
+      "level": 2,
+      "parent": "A63F13/55",
+      "ja": "ゲームの世界での物体の特性，振る舞いまたは動きをシミュレートするもの，例．カーレースゲームでタイヤの負荷を演算するもの（Ａ６３Ｆ１３／５６が優先）［２０１４．０１］",
+      "en": "Simulating properties, behaviour or motion of objects in the game world, e.g. computing tyre load in a car race game(<b>A63F13/56</b> takes precedence)",
+      "count": 1514,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/573": {
+      "code": "A63F13/573",
+      "level": 3,
+      "parent": "A63F13/57",
+      "ja": "ゲームオブジェクトの軌道を使うもの，例．打撃点に応じたゴルフボールの軌道［２０１４．０１］",
+      "en": "using trajectories of game objects, e.g. of a golf ball according to the point of impact",
+      "count": 948,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/577": {
+      "code": "A63F13/577",
+      "level": 3,
+      "parent": "A63F13/57",
+      "ja": "ゲームキャラクター間またはゲームオブジェクト間の衝突判定を使うもの，例．バーチャルレーシングカー同士の衝突を回避するもの［２０１４．０１］",
+      "en": "using determination of contact between game characters or objects, e.g. to avoid collision between virtual racing cars",
+      "count": 1598,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/58": {
+      "code": "A63F13/58",
+      "level": 2,
+      "parent": "A63F13/55",
+      "ja": "ゲームキャラクターの状態の計算，例．スタミナ，強さ，モチベーションまたは体力［２０１４．０１］",
+      "en": "by computing conditions of game characters, e.g. stamina, strength, motivation or energy level",
+      "count": 4898,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/60": {
+      "code": "A63F13/60",
+      "level": 1,
+      "parent": "A63F13/00",
+      "ja": "ゲームプログラムの実行前または実行中にゲームコンテンツを生成または修正するもの，例．ゲーム開発に特に適したオーサリングツールまたはゲームと統合されたレベルエディター［２０１４．０１］",
+      "en": "Generating or modifying game content before or while executing the game program, e.g. authoring tools specially adapted for game development or game-integrated level editor",
+      "count": 3867,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/61": {
+      "code": "A63F13/61",
+      "level": 2,
+      "parent": "A63F13/60",
+      "ja": "広告情報を使うもの［２０１４．０１］",
+      "en": "using advertising information",
+      "count": 795,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/63": {
+      "code": "A63F13/63",
+      "level": 2,
+      "parent": "A63F13/60",
+      "ja": "プレイヤーによるもの，例．レベルエディターを使用して作るもの［２０１４．０１］",
+      "en": "by the player, e.g. authoring using a level editor",
+      "count": 2000,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/65": {
+      "code": "A63F13/65",
+      "level": 2,
+      "parent": "A63F13/60",
+      "ja": "現実世界のデータを用いてゲーム装置又はサーバによって自動的に行われるもの，例．現実のレース競技における測定データ［２０１４．０１］",
+      "en": "automatically by game devices or servers from real world data, e.g. measurement in live racing competition",
+      "count": 2655,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/655": {
+      "code": "A63F13/655",
+      "level": 3,
+      "parent": "A63F13/65",
+      "ja": "写真の取り込みによるもの，例．プレイヤーの写真［２０１４．０１］",
+      "en": "by importing photos, e.g. of the player",
+      "count": 1084,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/67": {
+      "code": "A63F13/67",
+      "level": 2,
+      "parent": "A63F13/60",
+      "ja": "プレイヤーの行動から学習することにより順応するもの，例．スキルレベルの調節または成功した戦闘履歴を再利用するために格納するもの［２０１４．０１］",
+      "en": "adaptively or by learning from player actions, e.g. skill level adjustment or by storing successful combat sequences for re-use",
+      "count": 2090,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/69": {
+      "code": "A63F13/69",
+      "level": 2,
+      "parent": "A63F13/60",
+      "ja": "特定のゲーム要素を有効にするかまたはアップデートするもの，例．隠し要素，アイテム，レベルまたはバージョンを解除するもの［２０１４．０１］",
+      "en": "by enabling or updating specific game elements, e.g. unlocking hidden features, items, levels or versions",
+      "count": 8118,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/70": {
+      "code": "A63F13/70",
+      "level": 1,
+      "parent": "A63F13/00",
+      "ja": "ゲームセキュリティまたはゲーム管理様態［２０１４．０１］",
+      "en": "Game security or game management aspects",
+      "count": 1532,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/71": {
+      "code": "A63F13/71",
+      "level": 2,
+      "parent": "A63F13/70",
+      "ja": "ゲーム装置およびゲームサーバの間で安全な通信を使うもの，例．ゲームデータの暗号化またはプレイヤーの認証［２０１４．０１］",
+      "en": "using secure communication between game devices and game servers, e.g. by encrypting game data or authenticating players",
+      "count": 1249,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/73": {
+      "code": "A63F13/73",
+      "level": 2,
+      "parent": "A63F13/70",
+      "ja": "ゲームプログラムまたはゲーム装置の認証，例．記憶媒体の真偽をチェックするもの［２０１４．０１］",
+      "en": "Authorising game programs or game devices, e.g. checking authenticity",
+      "count": 871,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/75": {
+      "code": "A63F13/75",
+      "level": 2,
+      "parent": "A63F13/70",
+      "ja": "ルールを実行するもの，例．ファウルプレイの検出または不正プレイヤーのリストの生成［２０１４．０１］",
+      "en": "Enforcing rules, e.g. detecting foul play or generating lists of cheating players",
+      "count": 1506,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/77": {
+      "code": "A63F13/77",
+      "level": 2,
+      "parent": "A63F13/70",
+      "ja": "ゲーム装置またはゲームサーバのデータに関するもの，例．設定データ，ソフトウェアのバージョンまたはメモリの量［２０１４．０１］",
+      "en": "involving data related to game devices or game servers, e.g. configuration data, software version or amount of memory",
+      "count": 2773,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/79": {
+      "code": "A63F13/79",
+      "level": 2,
+      "parent": "A63F13/70",
+      "ja": "プレイヤー関連のデータに関するもの，例．識別情報，アカウント，嗜好またはプレイ履歴［２０１４．０１］",
+      "en": "involving player-related data, e.g. identities, accounts, preferences or play histories",
+      "count": 9718,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/792": {
+      "code": "A63F13/792",
+      "level": 3,
+      "parent": "A63F13/79",
+      "ja": "支払いを目的とするもの，例．月額課金［２０１４．０１］",
+      "en": "for payment purposes, e.g. monthly subscriptions",
+      "count": 2269,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/795": {
+      "code": "A63F13/795",
+      "level": 3,
+      "parent": "A63F13/79",
+      "ja": "他のプレイヤーを見つけるためのもの；チームを作るためのもの；友達リストを提供するもの［２０１４．０１］",
+      "en": "for finding other players; for building a team; for providing a buddy list",
+      "count": 3079,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/798": {
+      "code": "A63F13/798",
+      "level": 3,
+      "parent": "A63F13/79",
+      "ja": "スキルを評価するものまたはプレイヤーをランク付けるもの，例．殿堂を作るもの［２０１４．０１］",
+      "en": "for assessing skills or for ranking players, e.g. for generating a hall of fame",
+      "count": 2330,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/80": {
+      "code": "A63F13/80",
+      "level": 1,
+      "parent": "A63F13/00",
+      "ja": "特定の種類のゲームまたはゲームモードを実行するのに特に適合したもの［２０１４．０１］",
+      "en": "Special adaptations for executing a specific game genre or game mode",
+      "count": 4212,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/803": {
+      "code": "A63F13/803",
+      "level": 2,
+      "parent": "A63F13/80",
+      "ja": "乗り物の運転，例．自動車，飛行機，船，ロボットまたは戦車［２０１４．０１］",
+      "en": "Driving vehicles or craft, e.g. cars, airplanes, ships, robots or tanks",
+      "count": 1838,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/807": {
+      "code": "A63F13/807",
+      "level": 2,
+      "parent": "A63F13/80",
+      "ja": "表面を滑空または滑走するもの，例．スキー，スケートまたはボードを使うもの［２０１４．０１］",
+      "en": "Gliding or sliding on surfaces, e.g. using skis, skates or boards",
+      "count": 105,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/812": {
+      "code": "A63F13/812",
+      "level": 2,
+      "parent": "A63F13/80",
+      "ja": "球技，例．サッカーまたは野球［２０１４．０１］",
+      "en": "Ball games, e.g. soccer or baseball",
+      "count": 2646,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/814": {
+      "code": "A63F13/814",
+      "level": 2,
+      "parent": "A63F13/80",
+      "ja": "音楽の演奏，例．楽譜に追随するプレイヤーの技術を評価するもの［２０１４．０１］",
+      "en": "Musical performances, e.g. by evaluating the player's ability to follow a notation",
+      "count": 1604,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/816": {
+      "code": "A63F13/816",
+      "level": 2,
+      "parent": "A63F13/80",
+      "ja": "運動競技，例．陸上競技［２０１４．０１］",
+      "en": "Athletics, e.g. track-and-field sports",
+      "count": 433,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/818": {
+      "code": "A63F13/818",
+      "level": 2,
+      "parent": "A63F13/80",
+      "ja": "釣り［２０１４．０１］",
+      "en": "Fishing",
+      "count": 288,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/822": {
+      "code": "A63F13/822",
+      "level": 2,
+      "parent": "A63F13/80",
+      "ja": "ストラテジーゲーム；ロールプレイングゲーム（Ａ６３Ｆ１３／８２５，Ａ６３Ｆ１３／８２８が優先）［２０１４．０１］",
+      "en": "Strategy games; Role-playing games (<b>A63F13/825</b>, <b>A63F13/828</b> take precedence)",
+      "count": 4613,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/825": {
+      "code": "A63F13/825",
+      "level": 2,
+      "parent": "A63F13/80",
+      "ja": "仮想キャラクターの育成［２０１４．０１］",
+      "en": "Fostering virtual characters",
+      "count": 1388,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/828": {
+      "code": "A63F13/828",
+      "level": 2,
+      "parent": "A63F13/80",
+      "ja": "仮想のスポーツチームの運営［２０１４．０１］",
+      "en": "Managing virtual sport teams",
+      "count": 359,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/833": {
+      "code": "A63F13/833",
+      "level": 2,
+      "parent": "A63F13/80",
+      "ja": "格闘技，例．武術大会［２０１４．０１］",
+      "en": "Hand-to-hand fighting, e.g. martial arts competition",
+      "count": 762,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/837": {
+      "code": "A63F13/837",
+      "level": 2,
+      "parent": "A63F13/80",
+      "ja": "標的射撃［２０１４．０１］",
+      "en": "Shooting of targets",
+      "count": 3639,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/843": {
+      "code": "A63F13/843",
+      "level": 2,
+      "parent": "A63F13/80",
+      "ja": "ひとつのゲーム装置に２人以上のプレイヤーが同時に関わるもの，例．各プレイヤーのために，複数のコントローラまたはゲームデータにおける特殊な視界の使用を必要とするもの［２０１４．０１］",
+      "en": "involving concurrently two or more players on the same game device, e.g. requiring the use of a plurality of controllers or of a specific view of game data for each player",
+      "count": 1133,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/847": {
+      "code": "A63F13/847",
+      "level": 2,
+      "parent": "A63F13/80",
+      "ja": "協力プレイ，例．共通の目的を達成するために数人のプレイヤーが協調的な行動をとることを必要とするもの［２０１４．０１］",
+      "en": "Cooperative playing, e.g. requiring coordinated actions from several players to achieve a common goal",
+      "count": 1723,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/85": {
+      "code": "A63F13/85",
+      "level": 1,
+      "parent": "A63F13/00",
+      "ja": "プレイヤーへの付加的なサービスの提供［２０１４．０１］",
+      "en": "Providing additional services to players",
+      "count": 2158,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/86": {
+      "code": "A63F13/86",
+      "level": 2,
+      "parent": "A63F13/85",
+      "ja": "他のプレイヤーがプレイするゲームの観戦［２０１４．０１］",
+      "en": "Watching games played by other players",
+      "count": 1777,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/87": {
+      "code": "A63F13/87",
+      "level": 2,
+      "parent": "A63F13/85",
+      "ja": "ゲームのプレイ中に他のプレイヤーとコミュニケーションを行うもの，例．電子メールまたはチャットによるもの［２０１４．０１］",
+      "en": "Communicating with other players during game play, e.g. by e-mail or chat",
+      "count": 2151,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/88": {
+      "code": "A63F13/88",
+      "level": 2,
+      "parent": "A63F13/85",
+      "ja": "メインゲームがロードされている間にミニゲームを独立して実行するもの［２０１４．０１］",
+      "en": "Mini-games executed independently while main games are being loaded",
+      "count": 228,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/90": {
+      "code": "A63F13/90",
+      "level": 1,
+      "parent": "A63F13/00",
+      "ja": "Ａ６３Ｆ１３／２０またはＡ６３Ｆ１３／２５に含まれないビデオゲーム装置の構造上の細部または仕組み，例．ケース，配線，接続またはキャビネット［２０１４．０１］",
+      "en": "Constructional details or arrangements of video game devices not provided for in groups <b>A63F13/20</b> or <b>A63F13/25</b>, e.g. housing, wiring, connections or cabinets",
+      "count": 2297,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/92": {
+      "code": "A63F13/92",
+      "level": 2,
+      "parent": "A63F13/90",
+      "ja": "ゲーム中に手で保持されることに特に適合したビデオゲーム装置［２０１４．０１］",
+      "en": "Video game devices specially adapted to be hand-held while playing",
+      "count": 1882,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/95": {
+      "code": "A63F13/95",
+      "level": 2,
+      "parent": "A63F13/90",
+      "ja": "ゲームの情報を記録するのに特に適合した記憶媒体，例．ビデオゲームのカートリッジ［２０１４．０１］",
+      "en": "Storage media specially adapted for storing game information, e.g. video game cartridges",
+      "count": 1858,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    },
+    "A63F13/98": {
+      "code": "A63F13/98",
+      "level": 2,
+      "parent": "A63F13/90",
+      "ja": "付属品，すなわち，取り外し可能でビデオゲーム装置を使用するためにオプションで取り付けられるもの，例．ゲームコントローラ用のグリップサポート［２０１４．０１］",
+      "en": "Accessories, i.e. detachable arrangements optional for the use of the video game device, e.g. grip supports of game controllers",
+      "count": 2977,
+      "sourceFile": "ipc_A63F.txt",
+      "kind": "ipc"
+    }
+  }
+}

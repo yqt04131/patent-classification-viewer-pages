@@ -1,0 +1,1896 @@
+window.IPC_SHARD_C11D = {
+  "generatedAt": "2026-03-20T02:17:46.491Z",
+  "total": 189,
+  "entries": {
+    "C11D": {
+      "code": "C11D",
+      "level": 0,
+      "parent": "C11",
+      "ja": "洗浄性組成物；単一物質の洗浄剤としての使用；石けんまたは石けん製造；樹脂石けん；グリセリンの回収<br><br><b><ul>注</ul></b><br>（１）このサブクラスの混合グループに分類するときは，こうした分類によっては特定されないが，それ自体が新規かつ非自明と判断される組成物の個々の成分は，グループ１／００から９／００に分類しなければならない。個々の成分は，単一の成分または組成物自体の何れかであり得る。［８］<br>（２）上記注（１）に従った分類によっては特定されないが，検索に有用な情報を表していると思われる組成物の成分は，グループ１／００から９／００に分類してもよい。例えばこれは，分類記号の組合わせを用いた組成物の検索が可能となることが重要であると考えられる場合にあり得る。こうした非義務的分類は，「付加情報」として付与される。［８］<br><br><b><ul>サブクラス内の索引</ul></b><br>表面活性洗浄剤<br>非石けん　１／００，３／００<br>石けんを基とするもの　９／００<br>非表面活性洗浄剤　７／００<br>洗浄剤混合物　１０／００，１１／００<br>石けん製造；グリセリン　１３／００，１５／００；１９／００<br>形状　１７／００",
+      "en": "DETERGENT COMPOSITIONS; USE OF SINGLE SUBSTANCES AS DETERGENTS; SOAP OR SOAP-MAKING; RESIN SOAPS; RECOVERY OF GLYCEROL; <br><br><b><u>Note(s)</u></b><br><br><ul><li>When classifying in the mixture groups of this subclass, any individual ingredient of a composition which is not identified by such classification, and which itself is determined to be novel and non-obvious, must also be classified in groups <b>C11D1/00 to C11D9/00</b> . The individual ingredient can be either a single substance or a composition in itself.</li><li>Any ingredient of a composition which is not identified by the classification according to Note (1) above, and which is considered to represent information of interest for search, may also be classified in groups <b>C11D1/00 to C11D9/00</b> . This can, for example, be the case when it is considered of interest to enable searching of compositions using a combination of classification symbols. Such non-obligatory classification should be given as \"additional information\".</li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">SURFACE-ACTIVE DETERGENTS<tr><td width=\"70%\">Non-soap </td><td><b><b>1/00</b>, <b>3/00</b></b></td></tr></tr><tr><td width=\"70%\">Based on soap </td><td><b><b>9/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">NON-SURFACE-ACTIVE DETERGENTS </td><td><b><b>7/00</b></b></td></tr></tr><tr><td width=\"70%\">DETERGENT MIXTURES </td><td><b><b>10/00</b>, <b>11/00</b></b></td></tr></tr><tr><td width=\"70%\">SOAP-MAKING; GLYCEROL </td><td><b><b>13/00</b>, <b>15/00</b>; <b>19/00</b></b></td></tr></tr><tr><td width=\"70%\">SHAPE </td><td><b><b>17/00</b></b></td></tr></tr></table>",
+      "count": 2750,
+      "sourceFile": "ipc_C.txt",
+      "kind": "ipc"
+    },
+    "C11": {
+      "code": "C11",
+      "level": 0,
+      "parent": "C",
+      "ja": "動物性または植物性油，脂肪，脂肪性物質またはろう；それに由来する脂肪酸；洗浄剤；ろうそく",
+      "en": "ANIMAL OR VEGETABLE OILS, FATS, FATTY SUBSTANCES OR WAXES; FATTY ACIDS THEREFROM; DETERGENTS; CANDLES",
+      "count": 0,
+      "sourceFile": "ipc_C.txt",
+      "kind": "ipc"
+    },
+    "C": {
+      "code": "C",
+      "level": 0,
+      "parent": null,
+      "ja": "化学；冶金<br><br><b><ul>注</ul></b><br>（１）セクションＣにおいて，化学元素の種類に関する定義は次の通りである：<br>アルカリ金属：Ｌｉ，Ｎａ，Ｋ，Ｒｂ，Ｃｓ，Ｆｒ<br>アルカリ土類金属：Ｃａ，Ｓｒ，Ｂａ，Ｒａ<br>ランタニド：原子番号５７から７１までの元素<br>希土類：Ｓｃ，Ｙ，ランタニド<br>アクチニド：原子番号８９から１０３までの元素<br>耐火金属：Ｔｉ，Ｖ，Ｃｒ，Ｚｒ，Ｎｂ，Ｍｏ，Ｈｆ，Ｔａ，Ｗ<br>ハロゲン：Ｆ，Ｃｌ，Ｂｒ，Ｉ，Ａｔ<br>希ガス：Ｈｅ，Ｎｅ，Ａｒ，Ｋｒ，Ｘｅ，Ｒｎ<br>白金族：Ｏｓ，Ｉｒ，Ｐｔ，Ｒｕ，Ｒｈ，Ｐｄ<br>貴金属：Ａｇ，Ａｕ，白金族<br>軽金属：アルカリ金属，アルカリ土類金属，Ｂｅ，Ａｌ，Ｍｇ<br>重金属：軽金属以外の金属<br>鉄族：Ｆｅ，Ｃｏ，Ｎｉ<br>非金属：Ｈ，Ｂ，Ｃ，Ｓｉ，Ｎ，Ｐ，Ｏ，Ｓ，Ｓｅ，Ｔｅ，希ガス，ハロゲン<br>金属：非金属以外の元素<br>遷移元素：原子番号２１から３０まで，３９から４８まで，５７から８０まで，８９以上の元素<br>（２）Ｃセクションは以下のものを包含する：<br>（ａ）無機化合物，有機化合物，高分子化合物およびそれらの調製法を包含する純粋化学；<br>（ｂ）たとえばガラス，セラミック，肥料，プラスチック組成物，ペイント，石油工業の製品のような上記化合物を含有する組成物を包含する応用化学。それはまた，爆発物，染料，接着剤，潤滑剤および洗剤のように，ある目的に適した特別の性質をもつための組成物をも包含する；<br>（ｃ）コークスの製造，固体または気体燃料の製造，油脂およびろうの製造および精製，発酵工業（例．ビールおよびぶどう酒の製造），製糖工業のようなある境界工業；<br>（ｄ）ある操作または処理であって，純粋に機械的な処理，例．レザーおよび皮の機械的処理，または部分的機械的処理，例．水処理，または腐食防止一般であるもの；<br>（ｅ）冶金，鉄または非鉄合金<br>（３）ＩＰＣの全てのセクションにおいて，相反する指示がない限り，元素記号周期表への言及は，以下に示す１８のグループを表す。［２００９．０１］<br>’「図」’<br>’「図」’<br>（４）<br>（ａ）化学的部分または面および非化学的部分または面の両方を有する操作，処理，製品または物品の場合に，一般規則として，化学的部分または面はＣセクションに包含される。<br>（ｂ）これらのうちのある場合には，化学的部分または面には非化学的部分または面を伴い，純粋に機械的部分または面を伴うことさえある，というのは非化学的面は操作または処理にとって本質的であるかまたはそれらの重要な要素を構成するからである；実際，全体のさまざまな部分または面を分割しないのがより論理的と思える。これは応用化学や上記注（１）（ｃ），（ｄ）および（ｅ）の工業，操作および処理の場合に適用される。例えば，ガラス製造用特殊炉はＣ０３に包含されＦ２７には包含されない。<br>（ｃ）しかしながら，機械的面（または非化学的面）に非化学的な面が伴うという例外もある，例えば：<br>―サブクラスＡ６１Ｋにおけるある抽出プロセス；<br>―サブクラスＡ６１Ｌにおける空気の化学的精製；<br>―サブクラスＡ６２Ｄにおける化学的消火方法；<br>―クラスＢ０１における化学的プロセスおよび装置；<br>―サブクラスＢ２７Ｋにおける木材の含浸；<br>―サブクラスＧ０１Ｎにおける化学的分析または試験法；<br>―クラスＧ０３における写真材料またはプロセス，そして一般に，Ｄセクションにおける繊維の化学的処理および繊維素，紙等の製造<br>（ｄ）さらに他の場合，純粋化学的面はＣセクションに包含され，応用化学的面はＡ，Ｂ，Ｆセクションのような他のセクションに包含される，例．以下の物質または組成物の使用：<br>―サブクラスＡ０１Ｎに包含される植物または動物の処理；<br>―クラスＡ２３に包含される食物；<br>―クラスＦ４２に包含される弾薬または爆薬<br>（ｅ）化学的面および機械的面が非常に交錯して，簡単明確な分割ができない時，または化学的処理が自然なまたは論理的な延長として機械的プロセスを要する時は，化学的面に加えて，Ｃセクションは機械的面の一部のみ，例．クラスＣ０４に包含される人造石の後処理，を包含する。この後者の場合に，たとえその区別がむしろ任意であってもその位置を明確にするよう注または参照を通常設けている。",
+      "en": "CHEMISTRY; METALLURGY; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In section <b>C</b>, the definitions of groups of chemical elements are as follows: <ul><li><u>Alkali metals:</u> Li, Na, K, Rb, Cs, Fr</li><li><u>Alkaline earth metals:</u> Ca, Sr, Ba, Ra</li><li><u>Lanthanides:</u> elements with atomic numbers 57 to 71 inclusive</li><li><u>Rare earths:</u> Sc, Y, Lanthanides</li><li><u>Actinides:</u> elements with atomic numbers 89 to 103 inclusive</li><li><u>Refractory metals:</u> Ti, V, Cr, Zr, Nb, Mo, Hf, Ta, W</li><li><u>Halogens:</u> F, Cl, Br, I, At</li><li><u>Noble gases:</u> He, Ne, Ar, Kr, Xe, Rn</li><li><u>Platinum group:</u> Os, Ir, Pt, Ru, Rh, Pd</li><li><u>Noble metals:</u> Ag, Au, Platinum group</li><li><u>Light metals:</u> alkali metals, alkaline earth metals, Be, Al, Mg</li><li><u>Heavy metals:</u> metals other than light metals</li><li><u>Iron group:</u> Fe, Co, Ni</li><li><u>Non-metals:</u> H, B, C, Si, N, P, O, S, Se, Te, noble gases, halogens</li><li><u>Metals:</u> elements other than non-metals</li><li><u>Transition elements:</u> elements with atomic numbers 21 to 30 inclusive, 39 to 48 inclusive, 57 to 80 inclusive, 89 upwards</li></ul></li><li>Section <b>C</b> <u>covers</u> : <ul><li>pure chemistry, which covers inorganic compounds, organic compounds, macromolecular compounds, and their methods of preparation;</li><li>applied chemistry, which covers compositions containing the above compounds, such as: glass, ceramics, fertilisers, plastics compositions, paints, products of the petroleum industry. It also <u>covers</u> certain compositions on account of their having particular properties rendering them suitable for certain purposes, as in the case of explosives, dyestuffs, adhesives, lubricants, and detergents;</li><li>certain marginal industries, such as the manufacture of coke and of solid or gaseous fuels, the production and refining of oils, fats and waxes, the fermentation industry (e.g., brewing and wine-making), the sugar industry;</li><li>certain operations or treatments, which are either purely mechanical, e.g., the mechanical treatment of leather and skins, or partly mechanical, e.g., the treatment of water or the prevention of corrosion in general;</li><li>metallurgy, ferrous or non-ferrous alloys.</li></ul></li><li>In all sections of the IPC, in the absence of an indication to the contrary, the Periodic Table of chemical elements referred to is the one with 18 groups as represented in the table below. [figure]</li><li><ul><li>In the case of operations, treatments, products or articles having both a chemical and a non-chemical part or aspect, the general rule is that the chemical part or aspect is covered by section <b>C</b>.</li><li>In some of these cases, the chemical part or aspect brings with it a non-chemical one, even though purely mechanical, because this latter aspect either is essential to the operation or treatment or constitutes an important element thereof. It has seemed, in fact, more logical not to dissociate the different parts or aspects of a coherent whole. This is the case for applied chemistry and for the industries, operations and treatments mentioned in Notes (1)(c), (d) and (e). For example, furnaces peculiar to the manufacture of glass are covered by class <b>C03</b> and not by class <b>F27</b>.</li><li>There are, however, some exceptions in which the mechanical (or non-chemical) aspect carries with it the chemical aspect, for example: <ul><li>certain extractive processes, in subclass <b>A61K</b>;</li><li>the chemical purification of air, in subclass <b>A61L</b>;</li><li>chemical methods of fire-fighting, in subclass <b>A62D</b>;</li><li>chemical processes and apparatus, in class <b>B01</b>;</li><li>impregnation of wood, in subclass <b>B27K</b>;</li><li>chemical methods of analysis or testing, in subclass <b>G01N</b>;</li><li>photographic materials and processes, in class <b>G03</b>, and, generally, the chemical treatment of textiles and the production of cellulose or paper, in section <b>D</b>.</li></ul></li><li>In still other cases, the pure chemical aspect is covered by section <b>C</b> and the applied chemical aspect by another section, such as <b>A</b>, <b>B</b> or <b>F</b>, e.g., the use of a substance or composition for: <ul><li>treatment of plants or animals, covered by subclass <b>A01N</b>;</li><li>foodstuffs, covered by class <b>A23</b>;</li><li>ammunition or explosives, covered by class <b>F42</b>.</li></ul></li><li>When the chemical and mechanical aspects are so closely interlocked that a neat and simple division is not possible, or when certain mechanical processes follow as a natural or logical continuation of a chemical treatment, section <b>C</b> may cover, in addition to the chemical aspect, a part only of the mechanical aspect, e.g., after-treatment of artificial stone, covered by class <b>C04</b>. In this latter case, a note or a reference is usually given to make the position clear, even if sometimes the division is rather arbitrary.</li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_C.txt",
+      "kind": "ipc"
+    },
+    "C11D1/00": {
+      "code": "C11D1/00",
+      "level": 0,
+      "parent": "C11D",
+      "ja": "本質的に表面活性化合物を基とする洗浄剤組成物；その化合物の洗浄剤としての用途<br><br><b><ul>注</ul></b><br>グループＣ１１Ｄ１／０２～Ｃ１１Ｄ１／８８においては，ラストプレイス優先ルールが適用される，すなわち各階層レベルにおいて相反する指示がない限り，化合物は最後の適切な箇所に分類される。",
+      "en": "Detergent compositions based essentially on surface-active compounds; Use of these compounds as a detergent",
+      "count": 4791,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D1/02": {
+      "code": "C11D1/02",
+      "level": 1,
+      "parent": "C11D1/00",
+      "ja": "陰イオン性化合物",
+      "en": "Anionic compounds",
+      "count": 2391,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D1/04": {
+      "code": "C11D1/04",
+      "level": 2,
+      "parent": "C11D1/02",
+      "ja": "カルボン酸またはその塩（石けんＣ１１Ｄ９／００）",
+      "en": "Carboxylic acids or salts thereof(soap <b>C11D9/00</b>)",
+      "count": 3331,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D1/06": {
+      "code": "C11D1/06",
+      "level": 3,
+      "parent": "C11D1/04",
+      "ja": "エーテルまたはチオエーテルカルボン酸",
+      "en": "Ether- or thioether carboxylic acids",
+      "count": 1121,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D1/08": {
+      "code": "C11D1/08",
+      "level": 3,
+      "parent": "C11D1/04",
+      "ja": "窒素またはいおうを含まないポリカルボン酸",
+      "en": "Polycarboxylic acids containing no nitrogen or sulfur",
+      "count": 313,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D1/10": {
+      "code": "C11D1/10",
+      "level": 3,
+      "parent": "C11D1/04",
+      "ja": "アミノカルボン酸；イミノカルボン酸；それらの脂肪酸縮合物",
+      "en": "Amino carboxylic acids; Imino carboxylic acids; Fatty acid condensates thereof",
+      "count": 2088,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D1/12": {
+      "code": "C11D1/12",
+      "level": 2,
+      "parent": "C11D1/02",
+      "ja": "スルホン酸または硫酸エステル；それらの塩（Ｃ１１Ｄ３／０６５が優先）",
+      "en": "Sulfonic acids or sulfuric acid esters; Salts thereof(<b>C11D3/065</b> takes precedence)",
+      "count": 3569,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D1/14": {
+      "code": "C11D1/14",
+      "level": 3,
+      "parent": "C11D1/12",
+      "ja": "脂肪族炭化水素またはモノアルコールから誘導されるもの",
+      "en": "derived from aliphatic hydrocarbons or mono-alcohols",
+      "count": 5439,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D1/16": {
+      "code": "C11D1/16",
+      "level": 3,
+      "parent": "C11D1/12",
+      "ja": "２価または多価アルコールから誘導されるもの",
+      "en": "derived from divalent or polyvalent alcohols",
+      "count": 421,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D1/18": {
+      "code": "C11D1/18",
+      "level": 3,
+      "parent": "C11D1/12",
+      "ja": "アミノアルコールから誘導されるもの",
+      "en": "derived from amino alcohols",
+      "count": 259,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D1/20": {
+      "code": "C11D1/20",
+      "level": 4,
+      "parent": "C11D1/18",
+      "ja": "脂肪酸縮合物",
+      "en": "Fatty acid condensates",
+      "count": 117,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D1/22": {
+      "code": "C11D1/22",
+      "level": 3,
+      "parent": "C11D1/12",
+      "ja": "芳香族化合物から誘導されるもの",
+      "en": "derived from aromatic compounds",
+      "count": 4734,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D1/24": {
+      "code": "C11D1/24",
+      "level": 4,
+      "parent": "C11D1/22",
+      "ja": "核に直接結合したエステルまたはエーテル基を含むもの",
+      "en": "containing ester or ether groups directly attached to the nucleus",
+      "count": 420,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D1/26": {
+      "code": "C11D1/26",
+      "level": 3,
+      "parent": "C11D1/12",
+      "ja": "複素環式化合物から誘導されるもの",
+      "en": "derived from heterocyclic compounds",
+      "count": 83,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D1/28": {
+      "code": "C11D1/28",
+      "level": 3,
+      "parent": "C11D1/12",
+      "ja": "脂肪酸またはその誘導体，例．エステル，アミド，から誘導されるスルホン化生成物",
+      "en": "Sulfonation products derived from fatty acids or their derivatives, e.g. esters, amides",
+      "count": 2533,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D1/29": {
+      "code": "C11D1/29",
+      "level": 3,
+      "parent": "C11D1/12",
+      "ja": "ポリオキシアルキレンエーテルの硫酸塩［２］",
+      "en": "Sulfates of polyoxyalkylene ethers",
+      "count": 4687,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D1/30": {
+      "code": "C11D1/30",
+      "level": 3,
+      "parent": "C11D1/12",
+      "ja": "リグニンから誘導されたスルホン化生成物",
+      "en": "Sulfonation products derived from lignin",
+      "count": 78,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D1/32": {
+      "code": "C11D1/32",
+      "level": 2,
+      "parent": "C11D1/02",
+      "ja": "蛋白質加水分解物；その脂肪酸縮合物",
+      "en": "Protein hydrolysates; Fatty acid condensates thereof",
+      "count": 207,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D1/34": {
+      "code": "C11D1/34",
+      "level": 2,
+      "parent": "C11D1/02",
+      "ja": "りんの酸からの誘導体",
+      "en": "Derivatives of acids of phosphorus",
+      "count": 1319,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D1/36": {
+      "code": "C11D1/36",
+      "level": 2,
+      "parent": "C11D1/02",
+      "ja": "未知の構造のもの",
+      "en": "of unknown constitution",
+      "count": 82,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D1/37": {
+      "code": "C11D1/37",
+      "level": 2,
+      "parent": "C11D1/02",
+      "ja": "すべてが陰イオン性である化合物の混合物",
+      "en": "Mixtures of compounds all of which are anionic",
+      "count": 1995,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D1/38": {
+      "code": "C11D1/38",
+      "level": 1,
+      "parent": "C11D1/00",
+      "ja": "陽イオン性化合物",
+      "en": "Cationic compounds",
+      "count": 694,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D1/40": {
+      "code": "C11D1/40",
+      "level": 2,
+      "parent": "C11D1/38",
+      "ja": "モノアミンまたはポリアミン；それらの塩",
+      "en": "Monoamines or polyamines; Salts thereof",
+      "count": 797,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D1/42": {
+      "code": "C11D1/42",
+      "level": 2,
+      "parent": "C11D1/38",
+      "ja": "アミノアルコールまたはアミノエーテル",
+      "en": "Amino alcohols or amino ethers",
+      "count": 250,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D1/44": {
+      "code": "C11D1/44",
+      "level": 3,
+      "parent": "C11D1/42",
+      "ja": "ポリオキシアルキレンとアミノアルコールとのエーテル；エポキシアルカンとアミンとの縮合生成物",
+      "en": "Ethers of polyoxyalkylenes with amino alcohols; Condensation products of epoxyalkanes with amines",
+      "count": 708,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D1/46": {
+      "code": "C11D1/46",
+      "level": 2,
+      "parent": "C11D1/38",
+      "ja": "カルボン酸とアミノアルコールとのエステル；アミノカルボン酸とアミノアルコールとのエステル",
+      "en": "Esters of carboxylic acids with amino alcohols; Esters of amino carboxylic acids with alcohols",
+      "count": 208,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D1/48": {
+      "code": "C11D1/48",
+      "level": 2,
+      "parent": "C11D1/38",
+      "ja": "Ｎ一含有ポリ縮合生成物",
+      "en": "N-containing polycondensation products",
+      "count": 66,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D1/50": {
+      "code": "C11D1/50",
+      "level": 2,
+      "parent": "C11D1/38",
+      "ja": "尿素，チオ尿素，シアナミド，グアニジンまたはウレタンの誘導体",
+      "en": "Derivatives of urea, thiourea, cyanamide, guanidine or urethanes",
+      "count": 113,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D1/52": {
+      "code": "C11D1/52",
+      "level": 2,
+      "parent": "C11D1/38",
+      "ja": "カルボン酸アミド，アルキロールアミドまたはイミド（Ｃ１１Ｄ３／０７が優先）",
+      "en": "Carboxylic amides, alkylolamides or imides(<b>C11D3/07</b> takes precedence)",
+      "count": 2518,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D1/54": {
+      "code": "C11D1/54",
+      "level": 2,
+      "parent": "C11D1/38",
+      "ja": "カルボン酸のヒドラジド",
+      "en": "Hydrazides of carboxylic acids",
+      "count": 10,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D1/56": {
+      "code": "C11D1/56",
+      "level": 2,
+      "parent": "C11D1/38",
+      "ja": "ニトロまたはニトロソ基を含むもの",
+      "en": "containing nitro or nitroso groups",
+      "count": 18,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D1/58": {
+      "code": "C11D1/58",
+      "level": 2,
+      "parent": "C11D1/38",
+      "ja": "複素環式化合物",
+      "en": "Heterocyclic compounds",
+      "count": 253,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D1/60": {
+      "code": "C11D1/60",
+      "level": 2,
+      "parent": "C11D1/38",
+      "ja": "スルホニウムまたはホスホニウム化合物",
+      "en": "Sulfonium or phosphonium compounds",
+      "count": 88,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D1/62": {
+      "code": "C11D1/62",
+      "level": 2,
+      "parent": "C11D1/38",
+      "ja": "第四級アンモニウム化合物",
+      "en": "Quaternary ammonium compounds",
+      "count": 4883,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D1/64": {
+      "code": "C11D1/64",
+      "level": 2,
+      "parent": "C11D1/38",
+      "ja": "未知の構造のもの",
+      "en": "of unknown constitution",
+      "count": 40,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D1/645": {
+      "code": "C11D1/645",
+      "level": 2,
+      "parent": "C11D1/38",
+      "ja": "すべてが陽イオン性である化合物の混合物",
+      "en": "Mixtures of compounds all of which are cationic",
+      "count": 381,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D1/65": {
+      "code": "C11D1/65",
+      "level": 2,
+      "parent": "C11D1/38",
+      "ja": "陽イオン性化合物と陰イオン性化合物の混合物",
+      "en": "Mixtures of anionic with cationic compounds",
+      "count": 1386,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D1/655": {
+      "code": "C11D1/655",
+      "level": 3,
+      "parent": "C11D1/65",
+      "ja": "カルボン酸のアルキロールアミドとスルホン化生成物の（Ｃ１１Ｄ３／０６６が優先）",
+      "en": "of sulfonated products with alkylolamides of carboxylic acids(<b>C11D3/066</b> takes precedence)",
+      "count": 84,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D1/66": {
+      "code": "C11D1/66",
+      "level": 1,
+      "parent": "C11D1/00",
+      "ja": "非イオン性化合物",
+      "en": "Non-ionic compounds",
+      "count": 7647,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D1/68": {
+      "code": "C11D1/68",
+      "level": 2,
+      "parent": "C11D1/66",
+      "ja": "アルコール；酸以外のパラフィンワックスの酸化生成物",
+      "en": "Alcohols; Oxidation products of paraffin wax, other than acids",
+      "count": 2096,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D1/70": {
+      "code": "C11D1/70",
+      "level": 2,
+      "parent": "C11D1/66",
+      "ja": "フェノール",
+      "en": "Phenols",
+      "count": 129,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D1/72": {
+      "code": "C11D1/72",
+      "level": 2,
+      "parent": "C11D1/66",
+      "ja": "ポリオキシアルキレングリコールのエーテル（Ｃ１１Ｄ３／０７５が優先）",
+      "en": "Ethers of polyoxyalkylene glycols(<b>C11D3/075</b> takes precedence)",
+      "count": 9932,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D1/722": {
+      "code": "C11D1/722",
+      "level": 2,
+      "parent": "C11D1/66",
+      "ja": "混成オキシアルキレン基を含むポリオキシアルキレンのエーテル［２］",
+      "en": "Ethers of polyoxyalkylenes having mixed oxyalkylene groups",
+      "count": 2870,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D1/74": {
+      "code": "C11D1/74",
+      "level": 2,
+      "parent": "C11D1/66",
+      "ja": "ポリオキシアルキレングリコールのカルボン酸またはスルホン酸のエステル",
+      "en": "Carboxylates or sulfonates of polyoxyalkylene glycols",
+      "count": 1860,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D1/75": {
+      "code": "C11D1/75",
+      "level": 2,
+      "parent": "C11D1/66",
+      "ja": "アミンオキシド［２］",
+      "en": "Amino oxides",
+      "count": 2800,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D1/755": {
+      "code": "C11D1/755",
+      "level": 2,
+      "parent": "C11D1/66",
+      "ja": "スルホキシド［２］",
+      "en": "Sulfoxides",
+      "count": 139,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D1/76": {
+      "code": "C11D1/76",
+      "level": 2,
+      "parent": "C11D1/66",
+      "ja": "窒素を含まない合成樹脂",
+      "en": "Synthetic resins containing no nitrogen",
+      "count": 58,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D1/78": {
+      "code": "C11D1/78",
+      "level": 2,
+      "parent": "C11D1/66",
+      "ja": "りんからの酸の中性エステル",
+      "en": "Neutral esters of acids of phosphorus",
+      "count": 195,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D1/79": {
+      "code": "C11D1/79",
+      "level": 2,
+      "parent": "C11D1/66",
+      "ja": "ホスフインオキシド［２］",
+      "en": "Phosphine oxides",
+      "count": 78,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D1/80": {
+      "code": "C11D1/80",
+      "level": 2,
+      "parent": "C11D1/66",
+      "ja": "スルホン酸または硫酸塩基を含まないリグニン誘導体",
+      "en": "Derivatives of lignin containing no sulfo- or sulfate groups",
+      "count": 24,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D1/82": {
+      "code": "C11D1/82",
+      "level": 2,
+      "parent": "C11D1/66",
+      "ja": "けい素含有化合物",
+      "en": "Compounds containing silicon",
+      "count": 442,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D1/825": {
+      "code": "C11D1/825",
+      "level": 2,
+      "parent": "C11D1/66",
+      "ja": "すべてが非イオン性の化合物の混合物",
+      "en": "Mixtures of compounds all of which are non-anionic",
+      "count": 2896,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D1/83": {
+      "code": "C11D1/83",
+      "level": 2,
+      "parent": "C11D1/66",
+      "ja": "陰イオン性化合物と非イオン性化合物の混合物",
+      "en": "Mixtures of non-ionic with anionic compounds",
+      "count": 9529,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D1/831": {
+      "code": "C11D1/831",
+      "level": 3,
+      "parent": "C11D1/83",
+      "ja": "りん酸塩を有せずポリオキシアルキレンのエーテルとスルホン酸塩との混合物",
+      "en": "of sulfonates with ethers of polyoxyalkylenes without phosphates",
+      "count": 975,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D1/835": {
+      "code": "C11D1/835",
+      "level": 2,
+      "parent": "C11D1/66",
+      "ja": "陽イオン化合物と非イオン性化合物の混合物",
+      "en": "Mixtures of non-ionic with cationic compounds",
+      "count": 2092,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D1/86": {
+      "code": "C11D1/86",
+      "level": 1,
+      "parent": "C11D1/00",
+      "ja": "陰イオン性，陽イオン性および非イオン性化合物の混合物",
+      "en": "Mixtures of anionic, cationic, and non-ionic compounds",
+      "count": 1726,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D1/88": {
+      "code": "C11D1/88",
+      "level": 1,
+      "parent": "C11D1/00",
+      "ja": "両性電解質；電気的中性化合物［２］",
+      "en": "Ampholytes; Electroneutral compounds",
+      "count": 1950,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D1/90": {
+      "code": "C11D1/90",
+      "level": 2,
+      "parent": "C11D1/88",
+      "ja": "ベタイン［２］",
+      "en": "Betaines",
+      "count": 2779,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D1/92": {
+      "code": "C11D1/92",
+      "level": 2,
+      "parent": "C11D1/88",
+      "ja": "スルホベタイン［２］",
+      "en": "Sulfobetaines",
+      "count": 813,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D1/94": {
+      "code": "C11D1/94",
+      "level": 2,
+      "parent": "C11D1/88",
+      "ja": "陰イオン性，陽イオン性または非イオン性化合物との混合物［２］",
+      "en": "Mixtures with anionic, cationic or non-ionic compounds",
+      "count": 4886,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D3/00": {
+      "code": "C11D3/00",
+      "level": 0,
+      "parent": "C11D",
+      "ja": "１／００に包含される洗浄性組成物の他の配合成分<br><br><b><ul>注</ul></b><br>グループＣ１１Ｄ３／０２～Ｃ１１Ｄ３／３９においては，ラストプレイス優先ルールが適用される，すなわち各階層レベルにおいて相反する指示がない限り，化合物は最後の適切な箇所に分類される。［２］",
+      "en": "Other compounding ingredients of detergent compositions covered in group <b>C11D1/00</b>",
+      "count": 11119,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D3/02": {
+      "code": "C11D3/02",
+      "level": 1,
+      "parent": "C11D3/00",
+      "ja": "無機化合物",
+      "en": "Inorganic compounds",
+      "count": 2863,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D3/04": {
+      "code": "C11D3/04",
+      "level": 2,
+      "parent": "C11D3/02",
+      "ja": "水溶性化合物",
+      "en": "Water-soluble compounds",
+      "count": 8508,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D3/06": {
+      "code": "C11D3/06",
+      "level": 3,
+      "parent": "C11D3/04",
+      "ja": "りん酸塩，ポリりん酸塩",
+      "en": "Phosphates, including polyphosphates",
+      "count": 3241,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D3/065": {
+      "code": "C11D3/065",
+      "level": 4,
+      "parent": "C11D3/06",
+      "ja": "スルホン化生成物との混和物中の",
+      "en": "in admixture with sulfonated products",
+      "count": 292,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D3/066": {
+      "code": "C11D3/066",
+      "level": 5,
+      "parent": "C11D3/065",
+      "ja": "および，カルボン酸のアルキロールアミドとの",
+      "en": "and with alkylolamides of carboxylic acids",
+      "count": 51,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D3/07": {
+      "code": "C11D3/07",
+      "level": 4,
+      "parent": "C11D3/06",
+      "ja": "カルボン酸のアルキロールアミドとの混和物中の",
+      "en": "in a mixture with alkylolamides of carbocyclic acids",
+      "count": 25,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D3/075": {
+      "code": "C11D3/075",
+      "level": 4,
+      "parent": "C11D3/06",
+      "ja": "ポリオキシアルキレンのエーテルとの混和物中の",
+      "en": "in admixture with ethers of polyoxyalkylenes",
+      "count": 387,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D3/08": {
+      "code": "C11D3/08",
+      "level": 3,
+      "parent": "C11D3/04",
+      "ja": "けい酸塩",
+      "en": "Silicates",
+      "count": 3888,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D3/10": {
+      "code": "C11D3/10",
+      "level": 3,
+      "parent": "C11D3/04",
+      "ja": "炭酸塩",
+      "en": "Carbonates",
+      "count": 4756,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D3/12": {
+      "code": "C11D3/12",
+      "level": 2,
+      "parent": "C11D3/02",
+      "ja": "非水溶性化合物",
+      "en": "Water-insoluble compounds",
+      "count": 6029,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D3/14": {
+      "code": "C11D3/14",
+      "level": 3,
+      "parent": "C11D3/12",
+      "ja": "顔料；充てん剤；研摩剤",
+      "en": "Pigments; Fillers; Abrasives",
+      "count": 1439,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D3/16": {
+      "code": "C11D3/16",
+      "level": 1,
+      "parent": "C11D3/00",
+      "ja": "有機化合物",
+      "en": "Organic compounds",
+      "count": 1920,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D3/18": {
+      "code": "C11D3/18",
+      "level": 2,
+      "parent": "C11D3/16",
+      "ja": "炭化水素",
+      "en": "Hydrocarbons",
+      "count": 2631,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D3/20": {
+      "code": "C11D3/20",
+      "level": 2,
+      "parent": "C11D3/16",
+      "ja": "酸素を含むもの",
+      "en": "containing oxygen",
+      "count": 22711,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D3/22": {
+      "code": "C11D3/22",
+      "level": 3,
+      "parent": "C11D3/20",
+      "ja": "炭水化物またはその誘導体",
+      "en": "Carbohydrates or derivatives thereof",
+      "count": 6926,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D3/24": {
+      "code": "C11D3/24",
+      "level": 2,
+      "parent": "C11D3/16",
+      "ja": "ハロゲンを含むもの",
+      "en": "containing halogen",
+      "count": 1206,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D3/26": {
+      "code": "C11D3/26",
+      "level": 2,
+      "parent": "C11D3/16",
+      "ja": "窒素を含むもの",
+      "en": "containing nitrogen",
+      "count": 1999,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D3/28": {
+      "code": "C11D3/28",
+      "level": 3,
+      "parent": "C11D3/26",
+      "ja": "環に窒素を含む複素環式化合物",
+      "en": "Heterocyclic compounds containing nitrogen in the ring",
+      "count": 2885,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D3/30": {
+      "code": "C11D3/30",
+      "level": 3,
+      "parent": "C11D3/26",
+      "ja": "アミン；置換アミン",
+      "en": "Amines; Substituted amines",
+      "count": 5969,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D3/32": {
+      "code": "C11D3/32",
+      "level": 3,
+      "parent": "C11D3/26",
+      "ja": "アミド；置換アミド",
+      "en": "Amides; Substituted amides",
+      "count": 2560,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D3/33": {
+      "code": "C11D3/33",
+      "level": 3,
+      "parent": "C11D3/26",
+      "ja": "アミノカルボン酸［２］",
+      "en": "Amino carboxylic acids",
+      "count": 5529,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D3/34": {
+      "code": "C11D3/34",
+      "level": 2,
+      "parent": "C11D3/16",
+      "ja": "いおうを含むもの",
+      "en": "containing sulfur",
+      "count": 4754,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D3/36": {
+      "code": "C11D3/36",
+      "level": 2,
+      "parent": "C11D3/16",
+      "ja": "りんを含むもの",
+      "en": "containing phosphorus",
+      "count": 2843,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D3/37": {
+      "code": "C11D3/37",
+      "level": 2,
+      "parent": "C11D3/16",
+      "ja": "重合体［２］",
+      "en": "Polymers",
+      "count": 19343,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D3/38": {
+      "code": "C11D3/38",
+      "level": 2,
+      "parent": "C11D3/16",
+      "ja": "組成が明確でない生成物",
+      "en": "Products with no well-defined composition",
+      "count": 2297,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D3/382": {
+      "code": "C11D3/382",
+      "level": 3,
+      "parent": "C11D3/38",
+      "ja": "植物性生成物，例．大豆粉，木粉，おがくず［２］",
+      "en": "Vegetable products, e.g. soya meal, wood flour, sawdust",
+      "count": 5939,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D3/384": {
+      "code": "C11D3/384",
+      "level": 3,
+      "parent": "C11D3/38",
+      "ja": "動物性生成物［２］",
+      "en": "Animal products",
+      "count": 891,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D3/386": {
+      "code": "C11D3/386",
+      "level": 3,
+      "parent": "C11D3/38",
+      "ja": "酵素を含有する調製品［２］",
+      "en": "Preparations containing enzymes",
+      "count": 9838,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D3/39": {
+      "code": "C11D3/39",
+      "level": 1,
+      "parent": "C11D3/00",
+      "ja": "有機または無機の過化合物［２］",
+      "en": "Organic or inorganic per-compounds",
+      "count": 7236,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D3/395": {
+      "code": "C11D3/395",
+      "level": 1,
+      "parent": "C11D3/00",
+      "ja": "漂白剤［２］",
+      "en": "Bleaching agents",
+      "count": 5372,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D3/40": {
+      "code": "C11D3/40",
+      "level": 1,
+      "parent": "C11D3/00",
+      "ja": "染料［２］",
+      "en": "Dyes",
+      "count": 2060,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D3/42": {
+      "code": "C11D3/42",
+      "level": 2,
+      "parent": "C11D3/40",
+      "ja": "光輝剤［２］",
+      "en": "Brightening agents",
+      "count": 1604,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D3/43": {
+      "code": "C11D3/43",
+      "level": 1,
+      "parent": "C11D3/00",
+      "ja": "溶媒［２］",
+      "en": "Solvents",
+      "count": 5083,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D3/44": {
+      "code": "C11D3/44",
+      "level": 2,
+      "parent": "C11D3/43",
+      "ja": "混合溶媒",
+      "en": "Mixed solvents",
+      "count": 713,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D3/46": {
+      "code": "C11D3/46",
+      "level": 1,
+      "parent": "C11D3/00",
+      "ja": "過脂肪剤［２］",
+      "en": "Superfatting agents",
+      "count": 81,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D3/48": {
+      "code": "C11D3/48",
+      "level": 1,
+      "parent": "C11D3/00",
+      "ja": "医薬または殺菌剤［２］",
+      "en": "Medicinal or disinfecting agents",
+      "count": 10256,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D3/50": {
+      "code": "C11D3/50",
+      "level": 1,
+      "parent": "C11D3/00",
+      "ja": "香料［２］",
+      "en": "Perfumes",
+      "count": 7645,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D3/60": {
+      "code": "C11D3/60",
+      "level": 1,
+      "parent": "C11D3/00",
+      "ja": "配合成分の混合物［２］",
+      "en": "Mixtures of compounding ingredients",
+      "count": 13094,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D7/00": {
+      "code": "C11D7/00",
+      "level": 0,
+      "parent": "C11D",
+      "ja": "本質的に非表面活性化合物を基とする洗浄剤組成物<br><br><b><ul>注</ul></b><br>グループＣ１１Ｄ７／０２～Ｃ１１Ｄ７／２２においては，ラストプレイス優先ルールが適用される，すなわち各階層レベルにおいて相反する指示がない限り，化合物は最後の適切な箇所に分類される。",
+      "en": "Compositions of detergents based essentially on non-surface-active compounds",
+      "count": 580,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D7/02": {
+      "code": "C11D7/02",
+      "level": 1,
+      "parent": "C11D7/00",
+      "ja": "無機化合物",
+      "en": "Inorganic compounds",
+      "count": 1070,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D7/04": {
+      "code": "C11D7/04",
+      "level": 2,
+      "parent": "C11D7/02",
+      "ja": "水溶性",
+      "en": "Water-soluble compounds",
+      "count": 833,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D7/06": {
+      "code": "C11D7/06",
+      "level": 3,
+      "parent": "C11D7/04",
+      "ja": "水酸化物",
+      "en": "Hydroxides",
+      "count": 1853,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D7/08": {
+      "code": "C11D7/08",
+      "level": 3,
+      "parent": "C11D7/04",
+      "ja": "酸",
+      "en": "Acids",
+      "count": 1922,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D7/10": {
+      "code": "C11D7/10",
+      "level": 3,
+      "parent": "C11D7/04",
+      "ja": "塩",
+      "en": "Salts",
+      "count": 2010,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D7/12": {
+      "code": "C11D7/12",
+      "level": 4,
+      "parent": "C11D7/10",
+      "ja": "炭酸塩",
+      "en": "Carbonates",
+      "count": 1373,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D7/14": {
+      "code": "C11D7/14",
+      "level": 4,
+      "parent": "C11D7/10",
+      "ja": "けい酸塩",
+      "en": "Silicates",
+      "count": 889,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D7/16": {
+      "code": "C11D7/16",
+      "level": 4,
+      "parent": "C11D7/10",
+      "ja": "ポリりん酸塩を含むりん酸塩",
+      "en": "Phosphates including polyphosphates",
+      "count": 726,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D7/18": {
+      "code": "C11D7/18",
+      "level": 2,
+      "parent": "C11D7/02",
+      "ja": "過酸化物；過酸塩",
+      "en": "Peroxides; Persalts",
+      "count": 1067,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D7/20": {
+      "code": "C11D7/20",
+      "level": 2,
+      "parent": "C11D7/02",
+      "ja": "非水溶性酸化物",
+      "en": "Water-insoluble oxides",
+      "count": 860,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D7/22": {
+      "code": "C11D7/22",
+      "level": 1,
+      "parent": "C11D7/00",
+      "ja": "有機化合物",
+      "en": "Organic compounds",
+      "count": 1590,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D7/24": {
+      "code": "C11D7/24",
+      "level": 2,
+      "parent": "C11D7/22",
+      "ja": "炭化水素",
+      "en": "Hydrocarbons",
+      "count": 1766,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D7/26": {
+      "code": "C11D7/26",
+      "level": 2,
+      "parent": "C11D7/22",
+      "ja": "酸素を含むもの",
+      "en": "containing oxygen",
+      "count": 8247,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D7/28": {
+      "code": "C11D7/28",
+      "level": 2,
+      "parent": "C11D7/22",
+      "ja": "ハロゲンを含むもの",
+      "en": "containing halogen",
+      "count": 1056,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D7/30": {
+      "code": "C11D7/30",
+      "level": 3,
+      "parent": "C11D7/28",
+      "ja": "ハロゲン化炭化水素",
+      "en": "Halogenated hydrocarbons",
+      "count": 1089,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D7/32": {
+      "code": "C11D7/32",
+      "level": 2,
+      "parent": "C11D7/22",
+      "ja": "窒素を含むもの",
+      "en": "containing nitrogen",
+      "count": 5163,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D7/34": {
+      "code": "C11D7/34",
+      "level": 2,
+      "parent": "C11D7/22",
+      "ja": "いおうを含むもの",
+      "en": "containing sulfur",
+      "count": 1509,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D7/36": {
+      "code": "C11D7/36",
+      "level": 2,
+      "parent": "C11D7/22",
+      "ja": "りんを含むもの",
+      "en": "containing phosphorus",
+      "count": 866,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D7/38": {
+      "code": "C11D7/38",
+      "level": 2,
+      "parent": "C11D7/22",
+      "ja": "過化合物",
+      "en": "Per-compounds",
+      "count": 397,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D7/40": {
+      "code": "C11D7/40",
+      "level": 2,
+      "parent": "C11D7/22",
+      "ja": "組成が明確でない生成物",
+      "en": "Products in which the composition is not well defined",
+      "count": 665,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D7/42": {
+      "code": "C11D7/42",
+      "level": 3,
+      "parent": "C11D7/40",
+      "ja": "酵素を含む調製品",
+      "en": "Preparations containing enzymes",
+      "count": 1206,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D7/44": {
+      "code": "C11D7/44",
+      "level": 3,
+      "parent": "C11D7/40",
+      "ja": "植物性生成物（Ｃ１１Ｄ７／４２が優先）",
+      "en": "Vegetable products(<b>C11D7/42</b> takes precedence)",
+      "count": 1738,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D7/46": {
+      "code": "C11D7/46",
+      "level": 3,
+      "parent": "C11D7/40",
+      "ja": "動物性生成物（Ｃ１１Ｄ７／４２が優先）",
+      "en": "Animal products(<b>C11D7/42</b> takes precedence)",
+      "count": 207,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D7/50": {
+      "code": "C11D7/50",
+      "level": 1,
+      "parent": "C11D7/00",
+      "ja": "溶剤［２］",
+      "en": "Solvents",
+      "count": 6984,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D7/52": {
+      "code": "C11D7/52",
+      "level": 2,
+      "parent": "C11D7/50",
+      "ja": "促進剤と結合したもの［２］",
+      "en": "combined with promoters",
+      "count": 81,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D7/54": {
+      "code": "C11D7/54",
+      "level": 1,
+      "parent": "C11D7/00",
+      "ja": "漂白剤［２］",
+      "en": "Bleaching agents",
+      "count": 2076,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D7/56": {
+      "code": "C11D7/56",
+      "level": 2,
+      "parent": "C11D7/54",
+      "ja": "りん酸塩と結合したもの［２］",
+      "en": "combined with phosphates",
+      "count": 80,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D7/60": {
+      "code": "C11D7/60",
+      "level": 1,
+      "parent": "C11D7/00",
+      "ja": "非表面活性化合物の混合物［２］",
+      "en": "Mixtures of non-surface-active compounds",
+      "count": 5019,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D9/00": {
+      "code": "C11D9/00",
+      "level": 0,
+      "parent": "C11D",
+      "ja": "本質的に石けんを基とする洗浄剤組成物（樹脂石けんを含む組成物Ｃ１１Ｄ１５／０４）",
+      "en": "Compositions of detergents based essentially on soap(compositions containing resin soap <b>C11D15/04</b>)",
+      "count": 1198,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D9/02": {
+      "code": "C11D9/02",
+      "level": 1,
+      "parent": "C11D9/00",
+      "ja": "アルカリまたはアンモニウム石けんを基とするもの",
+      "en": "on alkali or ammonium soaps",
+      "count": 2011,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D9/04": {
+      "code": "C11D9/04",
+      "level": 1,
+      "parent": "C11D9/00",
+      "ja": "石けん以外の配合成分を含むもの<br><br><b><ul>注</ul></b><br>グループＣ１１Ｄ９／０６～Ｃ１１Ｄ９／４２においては，ラストプレイス優先ルールが適用される，すなわち各階層レベルにおいて相反する指示がない限り，化合物は最後の適切な箇所に分類される。",
+      "en": "containing compounding ingredients other than soaps",
+      "count": 476,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D9/06": {
+      "code": "C11D9/06",
+      "level": 2,
+      "parent": "C11D9/04",
+      "ja": "無機化合物",
+      "en": "Inorganic compounds",
+      "count": 214,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D9/08": {
+      "code": "C11D9/08",
+      "level": 3,
+      "parent": "C11D9/06",
+      "ja": "水溶性化合物",
+      "en": "Water-soluble compounds",
+      "count": 167,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D9/10": {
+      "code": "C11D9/10",
+      "level": 4,
+      "parent": "C11D9/08",
+      "ja": "塩",
+      "en": "Salts",
+      "count": 544,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D9/12": {
+      "code": "C11D9/12",
+      "level": 5,
+      "parent": "C11D9/10",
+      "ja": "炭酸塩",
+      "en": "Carbonates",
+      "count": 282,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D9/14": {
+      "code": "C11D9/14",
+      "level": 5,
+      "parent": "C11D9/10",
+      "ja": "りん酸塩；ポリりん酸塩",
+      "en": "Phosphates; Polyphosphates",
+      "count": 234,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D9/16": {
+      "code": "C11D9/16",
+      "level": 5,
+      "parent": "C11D9/10",
+      "ja": "ほう酸塩",
+      "en": "Borates",
+      "count": 83,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D9/18": {
+      "code": "C11D9/18",
+      "level": 3,
+      "parent": "C11D9/06",
+      "ja": "水不溶性化合物",
+      "en": "Water-insoluble compounds",
+      "count": 630,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D9/20": {
+      "code": "C11D9/20",
+      "level": 4,
+      "parent": "C11D9/18",
+      "ja": "顔料；充てん剤；研摩剤",
+      "en": "Pigments; Fillers; Abrasives",
+      "count": 166,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D9/22": {
+      "code": "C11D9/22",
+      "level": 2,
+      "parent": "C11D9/04",
+      "ja": "有機化合物",
+      "en": "Organic compounds",
+      "count": 561,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D9/24": {
+      "code": "C11D9/24",
+      "level": 3,
+      "parent": "C11D9/22",
+      "ja": "炭化水素",
+      "en": "Hydrocarbons",
+      "count": 253,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D9/26": {
+      "code": "C11D9/26",
+      "level": 3,
+      "parent": "C11D9/22",
+      "ja": "酸素を含むもの",
+      "en": "containing oxygen",
+      "count": 2262,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D9/28": {
+      "code": "C11D9/28",
+      "level": 3,
+      "parent": "C11D9/22",
+      "ja": "ハロゲンを含むもの",
+      "en": "containing halogen",
+      "count": 114,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D9/30": {
+      "code": "C11D9/30",
+      "level": 3,
+      "parent": "C11D9/22",
+      "ja": "窒素を含むもの",
+      "en": "containing nitrogen",
+      "count": 854,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D9/32": {
+      "code": "C11D9/32",
+      "level": 3,
+      "parent": "C11D9/22",
+      "ja": "いおうを含むもの",
+      "en": "containing sulfur",
+      "count": 265,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D9/34": {
+      "code": "C11D9/34",
+      "level": 3,
+      "parent": "C11D9/22",
+      "ja": "りんを含むもの",
+      "en": "containing phosphorus",
+      "count": 152,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D9/36": {
+      "code": "C11D9/36",
+      "level": 3,
+      "parent": "C11D9/22",
+      "ja": "けい素を含むもの",
+      "en": "containing silicon",
+      "count": 269,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D9/38": {
+      "code": "C11D9/38",
+      "level": 3,
+      "parent": "C11D9/22",
+      "ja": "組成が明確でない生成物",
+      "en": "Products in which the composition is not well defined",
+      "count": 3236,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D9/40": {
+      "code": "C11D9/40",
+      "level": 3,
+      "parent": "C11D9/22",
+      "ja": "蛋白質",
+      "en": "Proteins",
+      "count": 254,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D9/42": {
+      "code": "C11D9/42",
+      "level": 2,
+      "parent": "C11D9/04",
+      "ja": "過化合物",
+      "en": "Per-compounds",
+      "count": 166,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D9/44": {
+      "code": "C11D9/44",
+      "level": 2,
+      "parent": "C11D9/04",
+      "ja": "香料；着色剤；増白剤",
+      "en": "Perfumes; Colouring materials; Brightening agents",
+      "count": 1290,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D9/48": {
+      "code": "C11D9/48",
+      "level": 2,
+      "parent": "C11D9/04",
+      "ja": "過脂肪剤",
+      "en": "Superfatting agents",
+      "count": 194,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D9/50": {
+      "code": "C11D9/50",
+      "level": 2,
+      "parent": "C11D9/04",
+      "ja": "医薬または殺菌剤",
+      "en": "Medicinal or disinfecting agents",
+      "count": 2000,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D9/60": {
+      "code": "C11D9/60",
+      "level": 2,
+      "parent": "C11D9/04",
+      "ja": "配合成分の混合物［２］",
+      "en": "Mixtures of compounding ingredients",
+      "count": 1859,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D10/00": {
+      "code": "C11D10/00",
+      "level": 0,
+      "parent": "C11D",
+      "ja": "メイングループＣ１１Ｄ１／００～Ｃ１１Ｄ９／００のいずれの単一のメイングループにも分類されない洗浄剤組成物［２］",
+      "en": "Compositions of detergents, not provided for by any single one of main groups <b>C11D1/00 to C11D9/00</b> ",
+      "count": 348,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D10/02": {
+      "code": "C11D10/02",
+      "level": 1,
+      "parent": "C11D10/00",
+      "ja": "表面活性非石けんと非表面活性化合物との混合物に基づくもの［２］",
+      "en": "based on mixtures of surface-active non-soap and non-surface-active compounds",
+      "count": 3191,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D10/04": {
+      "code": "C11D10/04",
+      "level": 1,
+      "parent": "C11D10/00",
+      "ja": "表面活性非石けん化合物と石けんとの混合物に基づくもの［２］",
+      "en": "based on mixtures of surface-active non-soap compounds and soap",
+      "count": 3247,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D10/06": {
+      "code": "C11D10/06",
+      "level": 1,
+      "parent": "C11D10/00",
+      "ja": "非表面活性化合物と石けんとの混合物に基づくもの［２］",
+      "en": "based on mixtures of non-surface-active compounds and soap",
+      "count": 258,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D11/00": {
+      "code": "C11D11/00",
+      "level": 0,
+      "parent": "C11D",
+      "ja": "洗浄剤の混合物を含有する組成物を製造する特殊な方法",
+      "en": "Special methods for preparing compositions containing mixtures of detergents",
+      "count": 12255,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D11/02": {
+      "code": "C11D11/02",
+      "level": 1,
+      "parent": "C11D11/00",
+      "ja": "噴霧乾燥による粉末の製造",
+      "en": "Preparation in the form of powder by spray-drying",
+      "count": 1056,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D11/04": {
+      "code": "C11D11/04",
+      "level": 1,
+      "parent": "C11D11/00",
+      "ja": "化学的手段によるもの，例．中和に先立って他の配合成分の存在下でのスルホン化",
+      "en": "by chemical means, e.g. sulfonating in the presence of other compounding ingredients followed by neutralising",
+      "count": 598,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D13/00": {
+      "code": "C11D13/00",
+      "level": 0,
+      "parent": "C11D",
+      "ja": "石けんまたは石けん溶液の製造一般；そのための装置（樹脂石けんＣ１１Ｄ１５／００）",
+      "en": "Making of soap or soap solutions in general; Apparatus therefor(resin soap <b>C11D15/00</b>)",
+      "count": 1432,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D13/02": {
+      "code": "C11D13/02",
+      "level": 1,
+      "parent": "C11D13/00",
+      "ja": "石けん煮沸；精製",
+      "en": "Boiling soap; Refining",
+      "count": 651,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D13/04": {
+      "code": "C11D13/04",
+      "level": 2,
+      "parent": "C11D13/02",
+      "ja": "そのための連続法",
+      "en": "Continuous methods therefor",
+      "count": 251,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D13/06": {
+      "code": "C11D13/06",
+      "level": 2,
+      "parent": "C11D13/02",
+      "ja": "石けんまたは石けん溶液の漂白",
+      "en": "Bleaching of soap or soap solutions",
+      "count": 38,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D13/08": {
+      "code": "C11D13/08",
+      "level": 1,
+      "parent": "C11D13/00",
+      "ja": "着色または賦香",
+      "en": "Colouring or perfuming",
+      "count": 256,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D13/10": {
+      "code": "C11D13/10",
+      "level": 1,
+      "parent": "C11D13/00",
+      "ja": "混合；ねり合わせ",
+      "en": "Mixing; Kneading",
+      "count": 612,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D13/12": {
+      "code": "C11D13/12",
+      "level": 1,
+      "parent": "C11D13/00",
+      "ja": "冷却（Ｃ１１Ｄ１３／１４が優先）",
+      "en": "Cooling(<b>C11D13/14</b> takes precedence)",
+      "count": 222,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D13/14": {
+      "code": "C11D13/14",
+      "level": 1,
+      "parent": "C11D13/00",
+      "ja": "成形",
+      "en": "Shaping",
+      "count": 868,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D13/16": {
+      "code": "C11D13/16",
+      "level": 2,
+      "parent": "C11D13/14",
+      "ja": "型の中での成形",
+      "en": "in moulds",
+      "count": 1053,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D13/18": {
+      "code": "C11D13/18",
+      "level": 2,
+      "parent": "C11D13/14",
+      "ja": "押し出しまたは加圧による成形",
+      "en": "by extrusion or by pressing",
+      "count": 855,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D13/20": {
+      "code": "C11D13/20",
+      "level": 2,
+      "parent": "C11D13/14",
+      "ja": "小さな粒子，例．粉末，フレーク，の形態",
+      "en": "in the form of small particles, e.g. powder or flakes",
+      "count": 281,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D13/22": {
+      "code": "C11D13/22",
+      "level": 1,
+      "parent": "C11D13/00",
+      "ja": "切断",
+      "en": "Cutting",
+      "count": 399,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D13/24": {
+      "code": "C11D13/24",
+      "level": 2,
+      "parent": "C11D13/22",
+      "ja": "冷却ドラム上での石けんのスライシング",
+      "en": "Slicing soap on the cooling drum",
+      "count": 7,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D13/26": {
+      "code": "C11D13/26",
+      "level": 1,
+      "parent": "C11D13/00",
+      "ja": "乾燥",
+      "en": "Drying",
+      "count": 133,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D13/28": {
+      "code": "C11D13/28",
+      "level": 1,
+      "parent": "C11D13/00",
+      "ja": "エンボシング；ポリッシング",
+      "en": "Embossing; Polishing",
+      "count": 222,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D13/30": {
+      "code": "C11D13/30",
+      "level": 1,
+      "parent": "C11D13/00",
+      "ja": "石けんの回収，例．余剰溶液からの",
+      "en": "Recovery of soap, e.g. from spent solutions",
+      "count": 196,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D15/00": {
+      "code": "C11D15/00",
+      "level": 0,
+      "parent": "C11D",
+      "ja": "樹脂石けんまたはナフテン酸から誘導された石けん類の製造；組成物",
+      "en": "Manufacture of resin soap or soaps derived from naphthenic acids; Compositions",
+      "count": 389,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D15/02": {
+      "code": "C11D15/02",
+      "level": 1,
+      "parent": "C11D15/00",
+      "ja": "そのための装置",
+      "en": "Apparatus therefor",
+      "count": 19,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D15/04": {
+      "code": "C11D15/04",
+      "level": 1,
+      "parent": "C11D15/00",
+      "ja": "樹脂石けんまたはナフテン酸から誘導された石けんを含む組成物",
+      "en": "Compositions containing resin soap or soap derived from naphthenic acids",
+      "count": 90,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D17/00": {
+      "code": "C11D17/00",
+      "level": 0,
+      "parent": "C11D",
+      "ja": "形状または物理的性質に特徴がある洗浄性物質または石けん（石けんの成形Ｃ１１Ｄ１３／１４）",
+      "en": "Detergent materials or soaps characterised by their shape or physical properties(shaping soap <b>C11D13/14</b>)",
+      "count": 15851,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D17/02": {
+      "code": "C11D17/02",
+      "level": 1,
+      "parent": "C11D17/00",
+      "ja": "洗浄剤の浮遊基体",
+      "en": "Floating bodies of detergents",
+      "count": 333,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D17/04": {
+      "code": "C11D17/04",
+      "level": 1,
+      "parent": "C11D17/00",
+      "ja": "他の物体と結合したまたはそれを含むもの",
+      "en": "combined with or containing other objects",
+      "count": 8772,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D17/06": {
+      "code": "C11D17/06",
+      "level": 1,
+      "parent": "C11D17/00",
+      "ja": "粉末；フレーク；自由流動性混合物；シート",
+      "en": "Powder; Flakes; Free-flowing mixtures; Sheets",
+      "count": 5693,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D17/08": {
+      "code": "C11D17/08",
+      "level": 1,
+      "parent": "C11D17/00",
+      "ja": "液体石けん；カプセル化されたもの",
+      "en": "Liquid soap; capsuled",
+      "count": 6567,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    },
+    "C11D19/00": {
+      "code": "C11D19/00",
+      "level": 0,
+      "parent": "C11D",
+      "ja": "けん化液からのグリセリンの回収",
+      "en": "Recovery of glycerol from a saponification liquor",
+      "count": 289,
+      "sourceFile": "ipc_C11D.txt",
+      "kind": "ipc"
+    }
+  }
+};

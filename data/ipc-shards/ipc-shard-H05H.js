@@ -1,0 +1,696 @@
+window.IPC_SHARD_H05H = {
+  "generatedAt": "2026-03-20T02:17:47.322Z",
+  "total": 69,
+  "entries": {
+    "H05H": {
+      "code": "H05H",
+      "level": 0,
+      "parent": "H05",
+      "ja": "プラズマ技術（Ｘ線の発生に特に適した装置と方法Ｈ０５Ｇ２／００）；加速された荷電粒子のまたは中性子の発生；中性分子または原子ビームの発生または加速<br><br><b><ul>注</ul></b><br>注［３］<br>（１）このサブクラスは，以下のものを包含する：<br>（ａ）プラズマの発生または取扱い；<br>（ｂ）電子，イオンビームまたは中性粒子を加速する装置；<br>（ｃ）中性粒子ビームを発生させるための装置；<br>（ｄ）（ａ），（ｂ），または（ｃ）のためのターゲット<br>（２）このサブクラスは、サブクラスＨ０１Ｊが包含する放電管または放電ランプ内で電子またはイオンの流れを生成、加速、影響、または利用するための装置を包含しない。<br><br><b><ul>サブクラス内の索引</ul></b><br>プラズマ技術　１／００<br>中性粒子ビームの発生と加速　３／００<br>核反応を起すためのターゲット　６／００<br>粒子加速器<br>直流電圧型加速器；単一パルスを用いる加速器　５／００<br>線型；磁気誘導型；磁気共振型　９／００；１１／００；１３／００<br>その他　１５／００<br>細部　７／００",
+      "en": "PLASMA TECHNIQUE (apparatus or processes specially adapted for producing X-rays <b>H05G2/00</b>);PRODUCTION OF ACCELERATED ELECTRICALLY-CHARGED PARTICLES OR OF NEUTRONS; PRODUCTION OR ACCELERATION OF NEUTRAL MOLECULAR OR ATOMIC BEAMS; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This subclass <u>covers</u>: <ul><li>generating or handling plasma;</li><li>devices for accelerating electrons, ion beams or neutral particles;</li><li>devices for producing neutral particle beams;</li><li>targets for (a), (b) or (c).</li></ul></li><li>This subclass <u>does not cover</u> devices for producing, accelerating, influencing or using a flow of electrons or ions within electric discharge tubes or discharge lamps, which are covered by subclass <b>H01J</b>.</li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">PLASMA TECHNIQUE </td><td><b><b>1/00</b></b></td></tr></tr><tr><td width=\"70%\">PRODUCTION OR ACCELERATION OF NEUTRAL PARTICLE BEAMS </td><td><b><b>3/00</b></b></td></tr></tr><tr><td width=\"70%\">TARGETS FOR NUCLEAR REACTIONS </td><td><b><b>6/00</b></b></td></tr></tr><tr><td width=\"70%\">PARTICLE ACCELERATORS<tr><td width=\"70%\">Direct voltage accelerators, accelerators using single pulses </td><td><b><b>5/00</b></b></td></tr></tr><tr><td width=\"70%\">Linear; magnetic induction; magnetic resonance </td><td><b><b>9/00</b>; <b>11/00</b>; <b>13/00</b></b></td></tr></tr><tr><td width=\"70%\">Others </td><td><b><b>15/00</b></b></td></tr></tr><tr><td width=\"70%\">Details </td><td><b><b>7/00</b></b></td></tr></tr></tr></table>",
+      "count": 254,
+      "sourceFile": "ipc_H.txt",
+      "kind": "ipc"
+    },
+    "H05": {
+      "code": "H05",
+      "level": 0,
+      "parent": "H",
+      "ja": "他に分類されない電気技術",
+      "en": "ELECTRIC TECHNIQUES NOT OTHERWISE PROVIDED FOR",
+      "count": 0,
+      "sourceFile": "ipc_H.txt",
+      "kind": "ipc"
+    },
+    "H": {
+      "code": "H",
+      "level": 0,
+      "parent": null,
+      "ja": "電気<br><br><b><ul>注</ul></b><br>（利用にあたっての基本原則と一般的指示）<br>Ｉ．セクションＨは以下のものを包含する：<br>（ａ）基本的電気素子，これは全ての電気ユニットと，装置や回路の一般的な機械的構成を包含しており，その中にはプリント配線と称されるものに各種の基本素子を組み立てたものも含まれる。またこれは他に包含されない場合には，ある程度までこれらの素子の製造をも包含する；<br>（ｂ）発電，これは，発電，変換および配電と共にそのための装置の制御を包含する；<br>（ｃ）電気の応用，これは以下のものを包含する：<br>（ｉ）一般的な利用技術，すなわち．電気加熱と電気照明回路の利用技術；<br>（ｉｉ）厳密な意味で電気的か電子的かいずれかの特定の利用技術で国際特許分類の他のセクションに包含されないもの，これは以下のものを含んでいる：<br>（１）電気的光源，これはレーザーを含む；<br>（２）電気的なＸ線技術；<br>（３）電気的なプラズマ技術，および帯電粒子または中性子の発生および加速；<br>（ｄ）基本電子回路およびその制御；<br>（ｅ）電気通信技術；これは電気―機械変換器一般を含む；<br>（ｆ）物品や上記素子を作るための特定の材料の使用，この点については指針の８８項から９０項を参照されたい。<br>ＩＩ．このセクションにおいては，下記の一般規則が適用される：<br>（ａ）上記Ｉ（ｃ）で述べた例外を除いて，国際特許分類のセクションＨ以外のいずれかのセクションに分類される特殊な操作，方法，装置，物体または物品に特有の電気的観点または部分は，常にその操作，方法，装置，物体または物品のためのサブクラスに分類されるか，または類似の性質を有する技術主題に関する共通的な特徴がクラス・レベルで展開されている場合には，それは，該技術主題のための一般的電気的な応用を完全に包含するサブクラスに，その操作，方法，装置，物体または物品と関連して分類される；<br>（ｂ）この様な電気的な応用には，一般的なものであれ特殊なものであれ，次の事項が含まれる。<br>（ｉ）Ａ６１における治療方法および装置；<br>（ｉｉ）Ｂ０１，Ｂ０３およびＢ２３Ｋにおける各種の実験室または工業的操作に用いられる電気的方法および装置；<br>（ｉｉｉ）セクションＢの“運輸”のサブセクションにおける車両一般および特殊な車両への電気の供給，電気的推進および電気照明；<br>（ｉｖ）Ｆ０２Ｐにおける内燃機関の電気点火系，およびＦ２３Ｑにおける燃焼装置一般のもの；<br>（ｖ）セクションＧにおける全ての電気的部分，すなわち，電気変量の測定器を含む測定装置，検査，信号および計算。このＧセクションにおいて電気とは，一般に手段として扱われるものでそれ自体目的として扱われるものではない；<br>（ｃ）全ての電気的な応用は一般的なものであれ特殊なものであれ，それが含んでいる電気的“基本的素子”に関して言えば，“基本的な電気”の観点がセクションＨ（上記Ｉ（ａ）参照）にあることを前提としている。この規則は，セクションＨ自身にある上記Ｉ（ｃ）で示した電気の応用に対しても有効である。",
+      "en": "ELECTRICITY; <br><br><b><u>Note(s)</u></b><br><br><ul><li>These Notes cover the basic principles and general instructions for use of section <b>H</b>.<ul><li>Section <b>H</b> <u>covers</u>: <ul><li>basic electric elements, which cover all electric units and the general mechanical structure of apparatus and circuits, including the assembly of various basic elements into what are called printed circuits and also cover to a certain extent the manufacture of these elements (when not covered elsewhere);</li><li>generation of electricity, which covers the generation, conversion and distribution of electricity together with the controlling of the corresponding gear;</li><li>applied electricity, which <u>covers</u>: <ul><li>general utilisation techniques, viz. those of electric heating and electric lighting circuits;</li><li>some special utilisation techniques, either electric or electronic in the strict sense, which are not covered by other sections of the Classification, including: <ul><li>electric light sources, including lasers;</li><li>electric X-ray technique;</li><li>electric plasma technique and the generation and acceleration of electrically charged particles or neutrons;</li></ul></li></ul></li><li>basic electronic circuits and their control;</li><li>radio or electric communication technique;</li><li>the use of a specified material for the manufacture of the article or element described. In this connection, paragraphs 88 to 90 of the Guide should be referred to.</li></ul></li><li>In this section, the following general rules apply: <ul><li>Subject to the exceptions stated in I(c), above, any electric aspect or part peculiar to a particular operation, process, apparatus, object or article, classified in one of the sections of the Classification other than section <b>H</b>, is always classified in the subclass for that operation, process, apparatus, object or article. Where common characteristics concerning technical subjects of similar nature have been brought out at class level, the electric aspect or part is classified, in conjunction with the operation, process, apparatus, object or article, in a subclass which covers entirely the general electrical applications for the technical subject in question;</li><li>The electrical applications referred to under (a), above, either general or particular, include: <ul><li>the therapeutic processes and apparatus, in class <b>A61</b>;</li><li>the electric processes and apparatus used in various laboratory or industrial operations, in classes <b>B01</b> and <b>B03</b> and in subclass <b>B23K</b>;</li><li>the electricity supply, electric propulsion and electric lighting of vehicles in general and of particular vehicles, in the subsection \"Transporting\" of section <b>B</b>;</li><li>the electric ignition systems of internal-combustion engines, in subclass <b>F02P</b>, and of combustion apparatus in general, in subclass <b>F23Q</b>;</li><li>the whole electrical part of section <b>G</b>, i.e. measuring devices including apparatus for measuring electric variables, checking, signalling and calculating. Electricity in that section is generally dealt with as a means and not as an end in itself;</li></ul></li><li>All electrical applications, both general and particular, presuppose that the \"basic electricity\" aspect appears in section <b>H</b> (see I(a) above) as regards the electric \"basic elements\" which they comprise. This rule is also valid for applied electricity, referred to in I(c), above, which appears in section <b>H</b> itself.</li></ul></li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_H.txt",
+      "kind": "ipc"
+    },
+    "H05H1/00": {
+      "code": "H05H1/00",
+      "level": 0,
+      "parent": "H05H",
+      "ja": "プラズマの生成；プラズマの取扱い（熱核融合炉へのプラズマ技術の応用Ｇ２１Ｂ１／００）",
+      "en": "Generating plasma; Handling plasma(application of plasma technique in thermonuclear fusion reactors <b>G21B1/00</b>)",
+      "count": 5029,
+      "sourceFile": "ipc_H05H.txt",
+      "kind": "ipc"
+    },
+    "H05H1/02": {
+      "code": "H05H1/02",
+      "level": 1,
+      "parent": "H05H1/00",
+      "ja": "電界または磁界あるいはそれらによってプラズマを閉じ込めるための装置；プラズマを加熱するための装置（電子光学Ｈ０１Ｊ）",
+      "en": "Arrangements for confining plasma by electric or magnetic fields; Arrangements for heating plasma(electron optics <b>H01J</b>)",
+      "count": 950,
+      "sourceFile": "ipc_H05H.txt",
+      "kind": "ipc"
+    },
+    "H05H1/03": {
+      "code": "H05H1/03",
+      "level": 2,
+      "parent": "H05H1/02",
+      "ja": "静電界を用いるもの［３］",
+      "en": "using electrostatic fields",
+      "count": 126,
+      "sourceFile": "ipc_H05H.txt",
+      "kind": "ipc"
+    },
+    "H05H1/04": {
+      "code": "H05H1/04",
+      "level": 2,
+      "parent": "H05H1/02",
+      "ja": "プラズマ中の放電によって発生する磁界を用いるもの",
+      "en": "using magnetic fields substantially generated by the discharge in the plasma",
+      "count": 175,
+      "sourceFile": "ipc_H05H.txt",
+      "kind": "ipc"
+    },
+    "H05H1/06": {
+      "code": "H05H1/06",
+      "level": 3,
+      "parent": "H05H1/04",
+      "ja": "直線ピンチプラズマ発生装置",
+      "en": "Longitudinal pinch devices",
+      "count": 118,
+      "sourceFile": "ipc_H05H.txt",
+      "kind": "ipc"
+    },
+    "H05H1/08": {
+      "code": "H05H1/08",
+      "level": 3,
+      "parent": "H05H1/04",
+      "ja": "誘導ピンチ（θピンチ）プラズマ発生装置",
+      "en": "Theta pinch devices",
+      "count": 28,
+      "sourceFile": "ipc_H05H.txt",
+      "kind": "ipc"
+    },
+    "H05H1/10": {
+      "code": "H05H1/10",
+      "level": 2,
+      "parent": "H05H1/02",
+      "ja": "磁界のみを用いるもの",
+      "en": "using applied magnetic fields only",
+      "count": 345,
+      "sourceFile": "ipc_H05H.txt",
+      "kind": "ipc"
+    },
+    "H05H1/11": {
+      "code": "H05H1/11",
+      "level": 3,
+      "parent": "H05H1/10",
+      "ja": "カスプ配位を用いるもの（Ｈ０５Ｈ１／１４が優先）［３］",
+      "en": "using cusp configuration(<b>H05H1/14</b> takes precedence)",
+      "count": 103,
+      "sourceFile": "ipc_H05H.txt",
+      "kind": "ipc"
+    },
+    "H05H1/12": {
+      "code": "H05H1/12",
+      "level": 3,
+      "parent": "H05H1/10",
+      "ja": "閉ループ形状の容器を用いるもの，例．ステラレイタ",
+      "en": "wherein the containment vessel forms a closed loop, e.g. stellarator",
+      "count": 1172,
+      "sourceFile": "ipc_H05H.txt",
+      "kind": "ipc"
+    },
+    "H05H1/14": {
+      "code": "H05H1/14",
+      "level": 3,
+      "parent": "H05H1/10",
+      "ja": "容器が直線状で磁気鏡をもつもの",
+      "en": "wherein the containment vessel is straight and has magnetic mirrors",
+      "count": 134,
+      "sourceFile": "ipc_H05H.txt",
+      "kind": "ipc"
+    },
+    "H05H1/16": {
+      "code": "H05H1/16",
+      "level": 2,
+      "parent": "H05H1/02",
+      "ja": "電界と磁界を用いるもの",
+      "en": "using applied electric and magnetic fields",
+      "count": 396,
+      "sourceFile": "ipc_H05H.txt",
+      "kind": "ipc"
+    },
+    "H05H1/18": {
+      "code": "H05H1/18",
+      "level": 3,
+      "parent": "H05H1/16",
+      "ja": "超高周波，例．マイクロ波領域，の振動電界および磁界を用いるもの",
+      "en": "wherein the fields oscillate at a very high frequency, e.g. in the microwave range",
+      "count": 538,
+      "sourceFile": "ipc_H05H.txt",
+      "kind": "ipc"
+    },
+    "H05H1/20": {
+      "code": "H05H1/20",
+      "level": 2,
+      "parent": "H05H1/02",
+      "ja": "オーム加熱",
+      "en": "Ohmic heating",
+      "count": 64,
+      "sourceFile": "ipc_H05H.txt",
+      "kind": "ipc"
+    },
+    "H05H1/22": {
+      "code": "H05H1/22",
+      "level": 2,
+      "parent": "H05H1/02",
+      "ja": "入射加熱のためのもの",
+      "en": "for injection heating",
+      "count": 982,
+      "sourceFile": "ipc_H05H.txt",
+      "kind": "ipc"
+    },
+    "H05H1/24": {
+      "code": "H05H1/24",
+      "level": 1,
+      "parent": "H05H1/00",
+      "ja": "プラズマの発生［２］",
+      "en": "Generating plasma",
+      "count": 13274,
+      "sourceFile": "ipc_H05H.txt",
+      "kind": "ipc"
+    },
+    "H05H1/26": {
+      "code": "H05H1/26",
+      "level": 2,
+      "parent": "H05H1/24",
+      "ja": "プラズマトーチ［２］",
+      "en": "Plasma torches",
+      "count": 2191,
+      "sourceFile": "ipc_H05H.txt",
+      "kind": "ipc"
+    },
+    "H05H1/28": {
+      "code": "H05H1/28",
+      "level": 3,
+      "parent": "H05H1/26",
+      "ja": "冷却装置［３］",
+      "en": "Cooling arrangements",
+      "count": 1410,
+      "sourceFile": "ipc_H05H.txt",
+      "kind": "ipc"
+    },
+    "H05H1/30": {
+      "code": "H05H1/30",
+      "level": 3,
+      "parent": "H05H1/26",
+      "ja": "電磁界を用いるもの，例．高周波またはマイクロ波エネルギー（Ｈ０５Ｈ１／２８が優先）［３］",
+      "en": "using applied electromagnetic fields, e.g. high-frequency or microwave energy(<b>H05H1/28</b> takes precedence)",
+      "count": 1641,
+      "sourceFile": "ipc_H05H.txt",
+      "kind": "ipc"
+    },
+    "H05H1/32": {
+      "code": "H05H1/32",
+      "level": 3,
+      "parent": "H05H1/26",
+      "ja": "アークを用いるもの（Ｈ０５Ｈ１／２８が優先）［３］",
+      "en": "using an arc(<b>H05H1/28</b> takes precedence)",
+      "count": 932,
+      "sourceFile": "ipc_H05H.txt",
+      "kind": "ipc"
+    },
+    "H05H1/34": {
+      "code": "H05H1/34",
+      "level": 4,
+      "parent": "H05H1/32",
+      "ja": "細部，例．電極，ノズル［３］",
+      "en": "Details, e.g. electrodes, nozzles",
+      "count": 5066,
+      "sourceFile": "ipc_H05H.txt",
+      "kind": "ipc"
+    },
+    "H05H1/36": {
+      "code": "H05H1/36",
+      "level": 5,
+      "parent": "H05H1/34",
+      "ja": "回路装置（Ｈ０５Ｈ１／３８，Ｈ０５Ｈ１／４０が優先）［３］",
+      "en": "Circuit arrangements(<b>H05H1/38</b>, <b>H05H1/40</b> take precedence)",
+      "count": 989,
+      "sourceFile": "ipc_H05H.txt",
+      "kind": "ipc"
+    },
+    "H05H1/38": {
+      "code": "H05H1/38",
+      "level": 5,
+      "parent": "H05H1/34",
+      "ja": "電極の案内またはセンタリング［３］",
+      "en": "Guiding or centering of electrodes",
+      "count": 202,
+      "sourceFile": "ipc_H05H.txt",
+      "kind": "ipc"
+    },
+    "H05H1/40": {
+      "code": "H05H1/40",
+      "level": 5,
+      "parent": "H05H1/34",
+      "ja": "磁界を用いるもの，例．アークを集束または回転させるためのもの［３］",
+      "en": "using applied magnetic fields, e.g. for focusing or rotating the arc",
+      "count": 366,
+      "sourceFile": "ipc_H05H.txt",
+      "kind": "ipc"
+    },
+    "H05H1/42": {
+      "code": "H05H1/42",
+      "level": 4,
+      "parent": "H05H1/32",
+      "ja": "プラズマ中に材料，例．粉末または液体，を導入するための設備を有するもの［２００６．０１］",
+      "en": "with provisions for introducing materials into the plasma, e.g. powder or liquid",
+      "count": 1454,
+      "sourceFile": "ipc_H05H.txt",
+      "kind": "ipc"
+    },
+    "H05H1/44": {
+      "code": "H05H1/44",
+      "level": 4,
+      "parent": "H05H1/32",
+      "ja": "複数のトーチを用いるもの［３］",
+      "en": "using more than one torch",
+      "count": 296,
+      "sourceFile": "ipc_H05H.txt",
+      "kind": "ipc"
+    },
+    "H05H1/46": {
+      "code": "H05H1/46",
+      "level": 2,
+      "parent": "H05H1/24",
+      "ja": "電磁界を用いるもの，例．高周波またはマイクロ波エネルギー（Ｈ０５Ｈ１／２６が優先）［３］",
+      "en": "using applied electromagnetic fields, e.g. high frequency or microwave energy(<b>H05H1/26</b> takes precedence)",
+      "count": 17749,
+      "sourceFile": "ipc_H05H.txt",
+      "kind": "ipc"
+    },
+    "H05H1/48": {
+      "code": "H05H1/48",
+      "level": 2,
+      "parent": "H05H1/24",
+      "ja": "アークを用いるもの（Ｈ０５Ｈ１／２６が優先）［３］",
+      "en": "using an arc(<b>H05H1/26</b> takes precedence)",
+      "count": 1621,
+      "sourceFile": "ipc_H05H.txt",
+      "kind": "ipc"
+    },
+    "H05H1/50": {
+      "code": "H05H1/50",
+      "level": 3,
+      "parent": "H05H1/48",
+      "ja": "そして磁界を用いるもの，例．アークを集束または回転させるためのもの［３］",
+      "en": "and using applied magnetic fields, e.g. for focusing or rotating the arc",
+      "count": 320,
+      "sourceFile": "ipc_H05H.txt",
+      "kind": "ipc"
+    },
+    "H05H1/52": {
+      "code": "H05H1/52",
+      "level": 2,
+      "parent": "H05H1/24",
+      "ja": "イクスプロウディングワイヤまたはスパークギャップを用いるもの（Ｈ０５Ｈ１／２６が優先）［２００６．０１］",
+      "en": "using exploding wires or spark gaps(<b>H05H1/26</b> takes precedence)",
+      "count": 206,
+      "sourceFile": "ipc_H05H.txt",
+      "kind": "ipc"
+    },
+    "H05H1/54": {
+      "code": "H05H1/54",
+      "level": 1,
+      "parent": "H05H1/00",
+      "ja": "プラズマの加速［３］",
+      "en": "Plasma accelerators",
+      "count": 791,
+      "sourceFile": "ipc_H05H.txt",
+      "kind": "ipc"
+    },
+    "H05H3/00": {
+      "code": "H05H3/00",
+      "level": 0,
+      "parent": "H05H",
+      "ja": "中性粒子ビーム，例．分子または原子ビームの発生または加速［３］",
+      "en": "Production or acceleration of neutral particle beams, e.g. molecular or atomic beams",
+      "count": 423,
+      "sourceFile": "ipc_H05H.txt",
+      "kind": "ipc"
+    },
+    "H05H3/02": {
+      "code": "H05H3/02",
+      "level": 1,
+      "parent": "H05H3/00",
+      "ja": "分子ビームまたは原子ビームの発生，例．共振ビーム発生［２００６．０１］",
+      "en": "Molecular or atomic-beam generation, e.g. resonant beam generation",
+      "count": 698,
+      "sourceFile": "ipc_H05H.txt",
+      "kind": "ipc"
+    },
+    "H05H3/04": {
+      "code": "H05H3/04",
+      "level": 1,
+      "parent": "H05H3/00",
+      "ja": "電磁波圧力による加速［３］",
+      "en": "Acceleration by electromagnetic wave pressure",
+      "count": 204,
+      "sourceFile": "ipc_H05H.txt",
+      "kind": "ipc"
+    },
+    "H05H3/06": {
+      "code": "H05H3/06",
+      "level": 1,
+      "parent": "H05H3/00",
+      "ja": "中性子ビームを発生するもの（核反応を起こすためのターゲットＨ０５Ｈ６／００；中性子源Ｇ２１Ｇ４／０２）［５］",
+      "en": "Generating neutron beams(targets for producing nuclear reactions <b>H05H6/00</b>; neutron sources <b>G21G4/02</b>)",
+      "count": 1136,
+      "sourceFile": "ipc_H05H.txt",
+      "kind": "ipc"
+    },
+    "H05H5/00": {
+      "code": "H05H5/00",
+      "level": 0,
+      "parent": "H05H",
+      "ja": "直流電圧型加速器；単一パルスを用いる加速器（Ｈ０５Ｈ３／０６が優先）［５］",
+      "en": "Direct voltage accelerators; Accelerators using single pulses(<b>H05H3/06</b> takes precedence)",
+      "count": 828,
+      "sourceFile": "ipc_H05H.txt",
+      "kind": "ipc"
+    },
+    "H05H5/02": {
+      "code": "H05H5/02",
+      "level": 1,
+      "parent": "H05H5/00",
+      "ja": "細部（核反応を起こすためのターゲットＨ０５Ｈ６／００）［３］",
+      "en": "Details(targets for producing nuclear reactions <b>H05H6/00</b>)",
+      "count": 849,
+      "sourceFile": "ipc_H05H.txt",
+      "kind": "ipc"
+    },
+    "H05H5/03": {
+      "code": "H05H5/03",
+      "level": 2,
+      "parent": "H05H5/02",
+      "ja": "加速管［２００６．０１］",
+      "en": "Accelerating tubes",
+      "count": 232,
+      "sourceFile": "ipc_H05H.txt",
+      "kind": "ipc"
+    },
+    "H05H5/04": {
+      "code": "H05H5/04",
+      "level": 1,
+      "parent": "H05H5/00",
+      "ja": "静電発電機により，例．バンデグラフ発電機により，加速されるもの［４］",
+      "en": "energised by electrostatic generators, e.g. by van de Graaff generator",
+      "count": 118,
+      "sourceFile": "ipc_H05H.txt",
+      "kind": "ipc"
+    },
+    "H05H5/06": {
+      "code": "H05H5/06",
+      "level": 1,
+      "parent": "H05H5/00",
+      "ja": "タンデム型加速器；多段型加速器",
+      "en": "Tandem accelerators; Multi-stage accelerators",
+      "count": 188,
+      "sourceFile": "ipc_H05H.txt",
+      "kind": "ipc"
+    },
+    "H05H5/08": {
+      "code": "H05H5/08",
+      "level": 1,
+      "parent": "H05H5/00",
+      "ja": "昇圧トランス，例．共振トランス，を使用する粒子加速器［４］",
+      "en": "Particle accelerators using step-up transformers, e.g. resonance transformers",
+      "count": 36,
+      "sourceFile": "ipc_H05H.txt",
+      "kind": "ipc"
+    },
+    "H05H6/00": {
+      "code": "H05H6/00",
+      "level": 0,
+      "parent": "H05H",
+      "ja": "核反応を起こすためのターゲット（照射されるターゲットまたは物体の支持具Ｇ２１Ｋ５／０８）［３］",
+      "en": "Targets for producing nuclear reactions(supports for targets or objects to be irradiated <b>G21K5/08</b>)",
+      "count": 1141,
+      "sourceFile": "ipc_H05H.txt",
+      "kind": "ipc"
+    },
+    "H05H7/00": {
+      "code": "H05H7/00",
+      "level": 0,
+      "parent": "H05H",
+      "ja": "グループＨ０５Ｈ９／００～Ｈ０５Ｈ１３／００によって包含される型の装置の細部（核反応を起こすためのターゲットＨ０５Ｈ６／００）［３］",
+      "en": "Details of devices of the types covered by groups <b>H05H9/00 to H05H13/00</b> (targets for producing nuclear reactions <b>H05H6/00</b>)",
+      "count": 3165,
+      "sourceFile": "ipc_H05H.txt",
+      "kind": "ipc"
+    },
+    "H05H7/02": {
+      "code": "H05H7/02",
+      "level": 1,
+      "parent": "H05H7/00",
+      "ja": "高周波エネルギを供給するための回路および方式［２００６．０１］",
+      "en": "Circuits or systems for supplying or feeding radio-frequency energy",
+      "count": 1066,
+      "sourceFile": "ipc_H05H.txt",
+      "kind": "ipc"
+    },
+    "H05H7/04": {
+      "code": "H05H7/04",
+      "level": 1,
+      "parent": "H05H7/00",
+      "ja": "磁石装置；磁石装置の励磁",
+      "en": "Magnet systems; Energisation thereof",
+      "count": 1936,
+      "sourceFile": "ipc_H05H.txt",
+      "kind": "ipc"
+    },
+    "H05H7/06": {
+      "code": "H05H7/06",
+      "level": 1,
+      "parent": "H05H7/00",
+      "ja": "２ビーム装置；多ビーム装置",
+      "en": "Two-beam arrangements; Multi-beam arrangements",
+      "count": 168,
+      "sourceFile": "ipc_H05H.txt",
+      "kind": "ipc"
+    },
+    "H05H7/08": {
+      "code": "H05H7/08",
+      "level": 1,
+      "parent": "H05H7/00",
+      "ja": "粒子を軌道に入射させるための装置",
+      "en": "Arrangements for injecting particles into orbits",
+      "count": 920,
+      "sourceFile": "ipc_H05H.txt",
+      "kind": "ipc"
+    },
+    "H05H7/10": {
+      "code": "H05H7/10",
+      "level": 1,
+      "parent": "H05H7/00",
+      "ja": "粒子を軌道から放出させるための装置",
+      "en": "Arrangements for ejecting particles from orbits",
+      "count": 453,
+      "sourceFile": "ipc_H05H.txt",
+      "kind": "ipc"
+    },
+    "H05H7/12": {
+      "code": "H05H7/12",
+      "level": 1,
+      "parent": "H05H7/00",
+      "ja": "ビームの最終エネルギを変更させる装置",
+      "en": "Arrangements for varying final energy of beam",
+      "count": 221,
+      "sourceFile": "ipc_H05H.txt",
+      "kind": "ipc"
+    },
+    "H05H7/14": {
+      "code": "H05H7/14",
+      "level": 1,
+      "parent": "H05H7/00",
+      "ja": "真空室（Ｈ０５Ｈ５／０３が優先）［４］",
+      "en": "Vacuum chambers(<b>H05H5/03</b> takes precedence)",
+      "count": 607,
+      "sourceFile": "ipc_H05H.txt",
+      "kind": "ipc"
+    },
+    "H05H7/16": {
+      "code": "H05H7/16",
+      "level": 2,
+      "parent": "H05H7/14",
+      "ja": "導波管型のもの［４］",
+      "en": "of the waveguide type",
+      "count": 78,
+      "sourceFile": "ipc_H05H.txt",
+      "kind": "ipc"
+    },
+    "H05H7/18": {
+      "code": "H05H7/18",
+      "level": 2,
+      "parent": "H05H7/14",
+      "ja": "空胴；共振器［４］",
+      "en": "Cavities; Resonators",
+      "count": 705,
+      "sourceFile": "ipc_H05H.txt",
+      "kind": "ipc"
+    },
+    "H05H7/20": {
+      "code": "H05H7/20",
+      "level": 3,
+      "parent": "H05H7/18",
+      "ja": "超電導壁を有するもの［４］",
+      "en": "with superconductive walls",
+      "count": 337,
+      "sourceFile": "ipc_H05H.txt",
+      "kind": "ipc"
+    },
+    "H05H7/22": {
+      "code": "H05H7/22",
+      "level": 1,
+      "parent": "H05H7/00",
+      "ja": "線型加速器の細部，例．ドリフト管（Ｈ０５Ｈ７／０２～Ｈ０５Ｈ７／２０が優先）［４］",
+      "en": "Details of linear accelerators, e.g. drift tubes(<b>H05H7/02 to H05H7/20</b>  take precedence)",
+      "count": 730,
+      "sourceFile": "ipc_H05H.txt",
+      "kind": "ipc"
+    },
+    "H05H9/00": {
+      "code": "H05H9/00",
+      "level": 0,
+      "parent": "H05H",
+      "ja": "線形加速器（Ｈ０５Ｈ１１／００が優先）",
+      "en": "Linear accelerators(<b>H05H11/00</b> takes precedence)",
+      "count": 2021,
+      "sourceFile": "ipc_H05H.txt",
+      "kind": "ipc"
+    },
+    "H05H9/02": {
+      "code": "H05H9/02",
+      "level": 1,
+      "parent": "H05H9/00",
+      "ja": "進行波型線形加速器",
+      "en": "Travelling-wave linear accelerators",
+      "count": 215,
+      "sourceFile": "ipc_H05H.txt",
+      "kind": "ipc"
+    },
+    "H05H9/04": {
+      "code": "H05H9/04",
+      "level": 1,
+      "parent": "H05H9/00",
+      "ja": "定在波型線形加速器",
+      "en": "Standing-wave linear accelerators",
+      "count": 457,
+      "sourceFile": "ipc_H05H.txt",
+      "kind": "ipc"
+    },
+    "H05H11/00": {
+      "code": "H05H11/00",
+      "level": 0,
+      "parent": "H05H",
+      "ja": "磁気誘導型加速器，例．ベータトロン",
+      "en": "Magnetic induction accelerators, e.g. betatrons",
+      "count": 481,
+      "sourceFile": "ipc_H05H.txt",
+      "kind": "ipc"
+    },
+    "H05H11/02": {
+      "code": "H05H11/02",
+      "level": 1,
+      "parent": "H05H11/00",
+      "ja": "空心型ベータトロン",
+      "en": "Air-cored betatrons",
+      "count": 36,
+      "sourceFile": "ipc_H05H.txt",
+      "kind": "ipc"
+    },
+    "H05H11/04": {
+      "code": "H05H11/04",
+      "level": 1,
+      "parent": "H05H11/00",
+      "ja": "偏倚型ベータトロン",
+      "en": "Biased betatrons",
+      "count": 48,
+      "sourceFile": "ipc_H05H.txt",
+      "kind": "ipc"
+    },
+    "H05H13/00": {
+      "code": "H05H13/00",
+      "level": 0,
+      "parent": "H05H",
+      "ja": "磁気共振型加速器；サイクロトロン",
+      "en": "Magnetic resonance accelerators; Cyclotrons",
+      "count": 1533,
+      "sourceFile": "ipc_H05H.txt",
+      "kind": "ipc"
+    },
+    "H05H13/02": {
+      "code": "H05H13/02",
+      "level": 1,
+      "parent": "H05H13/00",
+      "ja": "シンクロサイクロトロン，例．ＦＭサイクロトロン",
+      "en": "Synchrocyclotrons, i.e. frequency-modulated cyclotrons",
+      "count": 202,
+      "sourceFile": "ipc_H05H.txt",
+      "kind": "ipc"
+    },
+    "H05H13/04": {
+      "code": "H05H13/04",
+      "level": 1,
+      "parent": "H05H13/00",
+      "ja": "シンクロトロン",
+      "en": "Synchrotrons",
+      "count": 2766,
+      "sourceFile": "ipc_H05H.txt",
+      "kind": "ipc"
+    },
+    "H05H13/06": {
+      "code": "H05H13/06",
+      "level": 1,
+      "parent": "H05H13/00",
+      "ja": "空心型磁気共振型加速器",
+      "en": "Air-cored magnetic resonance accelerators",
+      "count": 12,
+      "sourceFile": "ipc_H05H.txt",
+      "kind": "ipc"
+    },
+    "H05H13/08": {
+      "code": "H05H13/08",
+      "level": 1,
+      "parent": "H05H13/00",
+      "ja": "ＡＧ磁気共振型加速器",
+      "en": "Alternating-gradient magnetic resonance accelerators",
+      "count": 30,
+      "sourceFile": "ipc_H05H.txt",
+      "kind": "ipc"
+    },
+    "H05H13/10": {
+      "code": "H05H13/10",
+      "level": 1,
+      "parent": "H05H13/00",
+      "ja": "荷電粒子を最初の加速部に平行な軌道に戻すための１つまたは複数の線型加速部および湾曲磁石または類似のものから成る加速器，例．マイクロトロン［４］",
+      "en": "Accelerators comprising one or more linear accelerating sections and bending magnets or the like to return the charged particles in a trajectory parallel to the first accelerating section, e.g. microtrons",
+      "count": 126,
+      "sourceFile": "ipc_H05H.txt",
+      "kind": "ipc"
+    },
+    "H05H15/00": {
+      "code": "H05H15/00",
+      "level": 0,
+      "parent": "H05H",
+      "ja": "荷電粒子の他に分類されない加速方法または装置［４］",
+      "en": "Methods or devices for acceleration of charged particles not otherwise provided for",
+      "count": 494,
+      "sourceFile": "ipc_H05H.txt",
+      "kind": "ipc"
+    }
+  }
+};

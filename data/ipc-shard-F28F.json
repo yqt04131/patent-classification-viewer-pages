@@ -1,0 +1,936 @@
+{
+  "generatedAt": "2026-03-20T02:17:46.941Z",
+  "total": 93,
+  "entries": {
+    "F28F": {
+      "code": "F28F",
+      "level": 0,
+      "parent": "F28",
+      "ja": "一般的な用途の，熱交換または熱伝達装置の細部（伝熱，熱交換，または蓄熱用物質Ｃ０９Ｋ５／００；水または空気トラップ，空気抜きＦ１６）<br><br><b><ul>サブクラス内の索引</ul></b><br>細部およびその配置<br>熱交換または伝達の要素およびその組み立て<br>管状；板状；運動用；その他　１／００；３／００；５／００；７／００<br>要素の補助支持；密封　９／００；１１／００<br>外箱および管寄せ箱　９／００<br>沈積または腐食の予防　１７／００，１９／００<br>熱交換装置の特性<br>選択に特徴のあるもの：構成材料；中間熱交換物質　２１／００；２３／００<br>散水式冷却器の構成要素　２５／００<br>熱伝達の修正；装置の制御　１３／００；２７／００<br>このサブクラスの他のグループに分類されない主題事項　９９／００［８］",
+      "en": "DETAILS OF HEAT-EXCHANGE OR HEAT-TRANSFER APPARATUS, OF GENERAL APPLICATION(heat-transfer, heat-exchange or heat-storage materials <b>C09K5/00</b>; water or air traps, air venting <b>F16</b>);<br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">DETAILS AND THEIR ARRANGEMENTS<tr><td width=\"70%\">Elements for heat exchange or transfer and assemblies thereof<tr><td width=\"70%\">tubular; plate-like; for movement; others </td><td><b><b>1/00</b>; <b>3/00</b>; <b>5/00</b>; <b>7/00</b></b></td></tr></tr><tr><td width=\"70%\">auxiliary supports for elements; sealing </td><td><b><b>9/00</b>; <b>11/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">Casings and header boxes </td><td><b><b>9/00</b></b></td></tr></tr><tr><td width=\"70%\">Preventing deposits or corrosion </td><td><b><b>17/00</b>, <b>19/00</b></b></td></tr></tr><tr><td width=\"70%\">Special features of heat-exchange apparatus<tr><td width=\"70%\">characterised by the selection of: constructional material; intermediate heat-exchange material </td><td><b><b>21/00</b>; <b>23/00</b></b></td></tr></tr><tr><td width=\"70%\">component parts of trickle coolers </td><td><b><b>25/00</b></b></td></tr></tr></tr></tr><tr><td width=\"70%\">MODIFYING HEAT-TRANSFER; CONTROL OF APPARATUS </td><td><b><b>13/00</b>; <b>27/00</b></b></td></tr></tr><tr><td width=\"70%\">SUBJECT MATTER NOT PROVIDED FOR IN OTHER GROUPS OF THIS SUBCLASS </td><td><b><b>99/00</b></b></td></tr></tr></table>",
+      "count": 1046,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F28": {
+      "code": "F28",
+      "level": 0,
+      "parent": "F",
+      "ja": "熱交換一般<br><br><b><ul>注</ul></b><br>（１）このクラスにおいては，下記の表現は以下に示す意味で用いる：<br>―“熱交換”とは，加熱または冷却流体または流動固体との直接または間接の接触によって，流体または流動固体を加熱または冷却することを意味する；<br>―“熱伝達”とは，加熱または冷却された表面または物体との直接接触によって，流体または流動固体を加熱または冷却することを意味する。<br>（２）熱交換または熱伝達（注（１）に規定されているような）を特別な目的に対して用いる装置は，サブクラスＦ２８Ｂ，または，たとえばクラスＦ２２，Ｆ２４，Ｆ２５，Ｆ２６またはＦ２７内の適当なサブクラスに分類される；これらのサブクラスが適当でない場合には，そのような装置は，Ｆ２８ＣまたはＤに分類される。",
+      "en": "HEAT EXCHANGE IN GENERAL; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this class, the following expressions are used with the meanings indicated:<ul><li>\"heat exchange\" means the heating or cooling of a fluid or fluent solid by direct or indirect contact with a heated or cooled fluid or fluent solid;</li><li>\"heat transfer\" means the heating or cooling of a fluid or fluent solid by direct contact with a heated or cooled surface or body.</li></ul></li><li>Apparatus using heat exchange or heat transfer (as defined in Note (1) above) for specific purposes is classified either in subclass <b>F28B</b> or in the appropriate subclasses of, for example, classes <b>F22</b>, <b>F24</b>, <b>F25</b>, <b>F26</b>, or <b>F27</b>; if no such other subclass is appropriate, such apparatus is classified in subclass <b>F28C</b> or <b>F28D</b>.</li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F": {
+      "code": "F",
+      "level": 0,
+      "parent": null,
+      "ja": "機械工学；照明；加熱；武器；爆破",
+      "en": "MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F28F1/00": {
+      "code": "F28F1/00",
+      "level": 0,
+      "parent": "F28F",
+      "ja": "管状の要素；管状の要素の組立体（運動用に特に適したものＦ２８Ｆ５／００）",
+      "en": "Tubular elements; Assemblies of tubular elements(specially adapted for movement <b>F28F5/00</b>)",
+      "count": 6771,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F1/02": {
+      "code": "F28F1/02",
+      "level": 1,
+      "parent": "F28F1/00",
+      "ja": "横断面が非円形の管状要素（Ｆ２８Ｆ１／０８，Ｆ２８Ｆ１／１０が優先）",
+      "en": "Tubular elements of cross-section which is non-circular(<b>F28F1/08</b>, <b>F28F1/10</b> take precedence)",
+      "count": 7195,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F1/04": {
+      "code": "F28F1/04",
+      "level": 2,
+      "parent": "F28F1/02",
+      "ja": "多角形，例．長方形",
+      "en": "polygonal, e.g. rectangular",
+      "count": 1298,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F1/06": {
+      "code": "F28F1/06",
+      "level": 2,
+      "parent": "F28F1/02",
+      "ja": "横断面においてちぢらせたまたは波形にしたもの",
+      "en": "crimped or corrugated in cross-section",
+      "count": 859,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F1/08": {
+      "code": "F28F1/08",
+      "level": 1,
+      "parent": "F28F1/00",
+      "ja": "長手方向断面においてちぢらせたまたは波形にした管状の要素",
+      "en": "Tubular elements crimped or corrugated in longitudinal section",
+      "count": 1873,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F1/10": {
+      "code": "F28F1/10",
+      "level": 1,
+      "parent": "F28F1/00",
+      "ja": "熱伝達面積を増加するための手段をもつ管状の要素またはその組立体，例．フィンをもつ，突出部をもつ，凹みをもつもの（ちぢらせたまたは波形にした管状要素Ｆ２８Ｆ１／０６，Ｆ２８Ｆ１／０８）",
+      "en": "Tubular elements or assemblies thereof with means for increasing heat-transfer area, e.g. with fins, with projections, with recesses(crimped or corrugated elements <b>F28F1/06</b>, <b>F28F1/08</b>)",
+      "count": 3742,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F1/12": {
+      "code": "F28F1/12",
+      "level": 2,
+      "parent": "F28F1/10",
+      "ja": "当該手段が管状要素の外面のみにあるもの",
+      "en": "the means being only outside the tubular element",
+      "count": 6931,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F1/14": {
+      "code": "F28F1/14",
+      "level": 3,
+      "parent": "F28F1/12",
+      "ja": "かつ長手方向に延在するもの（Ｆ２８Ｆ１／３８が優先）",
+      "en": "and extending longitudinally(<b>F28F1/38</b> takes precedence)",
+      "count": 1388,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F1/16": {
+      "code": "F28F1/16",
+      "level": 4,
+      "parent": "F28F1/14",
+      "ja": "当該手段が要素と一体である，例．押出法により形成された，もの（Ｆ２８Ｆ１／２２が優先）",
+      "en": "the means being integral with the element, e.g. formed by extrusion(<b>F28F1/22</b> takes precedence)",
+      "count": 1028,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F1/18": {
+      "code": "F28F1/18",
+      "level": 5,
+      "parent": "F28F1/16",
+      "ja": "要素がフィン付けされた部分から組み上げられているもの",
+      "en": "the element being built-up from finned sections",
+      "count": 569,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F1/20": {
+      "code": "F28F1/20",
+      "level": 4,
+      "parent": "F28F1/14",
+      "ja": "当該手段が要素に取付可能であるもの（Ｆ２８Ｆ１／２２が優先）",
+      "en": "the means being attachable to the element(<b>F28F1/22</b> takes precedence)",
+      "count": 1202,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F1/22": {
+      "code": "F28F1/22",
+      "level": 4,
+      "parent": "F28F1/14",
+      "ja": "当該手段が管状要素にさらに係合する部分をもつもの",
+      "en": "the means having portions engaging further tubular elements",
+      "count": 1127,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F1/24": {
+      "code": "F28F1/24",
+      "level": 3,
+      "parent": "F28F1/12",
+      "ja": "かつ横断方向に延在するもの（Ｆ２８Ｆ１／３８が優先）",
+      "en": "and extending transversely(<b>F28F1/38</b> takes precedence)",
+      "count": 2545,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F1/26": {
+      "code": "F28F1/26",
+      "level": 4,
+      "parent": "F28F1/24",
+      "ja": "当該手段が要素と一体であるもの（Ｆ２８Ｆ１／３２が優先）",
+      "en": "the means being integral with the element(<b>F28F1/32</b> takes precedence)",
+      "count": 715,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F1/28": {
+      "code": "F28F1/28",
+      "level": 5,
+      "parent": "F28F1/26",
+      "ja": "要素がフィン付けされた部分から組み上げられているもの",
+      "en": "the element being built-up from finned sections",
+      "count": 689,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F1/30": {
+      "code": "F28F1/30",
+      "level": 4,
+      "parent": "F28F1/24",
+      "ja": "当該手段が要素に取付可能であるもの（Ｆ２８Ｆ１／３２が優先）",
+      "en": "the means being attachable to the element(<b>F28F1/32</b> takes precedence)",
+      "count": 4315,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F1/32": {
+      "code": "F28F1/32",
+      "level": 4,
+      "parent": "F28F1/24",
+      "ja": "当該手段が管状要素にさらに係合する部分をもつもの",
+      "en": "the means having portions engaging further tubular elements",
+      "count": 10312,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F1/34": {
+      "code": "F28F1/34",
+      "level": 3,
+      "parent": "F28F1/12",
+      "ja": "かつ斜行して延在するもの（Ｆ２８Ｆ１／３８が優先）",
+      "en": "and extending obliquely(<b>F28F1/38</b> takes precedence)",
+      "count": 795,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F1/36": {
+      "code": "F28F1/36",
+      "level": 4,
+      "parent": "F28F1/34",
+      "ja": "当該手段が螺旋状に巻かれたフィンであるまたはワイヤの渦であるもの",
+      "en": "the means being helically-wound fins or wire spirals",
+      "count": 2829,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F1/38": {
+      "code": "F28F1/38",
+      "level": 3,
+      "parent": "F28F1/12",
+      "ja": "かつ互い違いに配置されて曲がりくねった流体通路を形成するもの",
+      "en": "and being staggered to form tortuous fluid passages",
+      "count": 164,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F1/40": {
+      "code": "F28F1/40",
+      "level": 2,
+      "parent": "F28F1/10",
+      "ja": "当該手段が管状要素の内側のみにあるもの",
+      "en": "the means being only inside the tubular element",
+      "count": 6621,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F1/42": {
+      "code": "F28F1/42",
+      "level": 2,
+      "parent": "F28F1/10",
+      "ja": "当該手段が管状要素の内側と外側の両方にあるもの",
+      "en": "the means being both outside and inside the tubular element",
+      "count": 3294,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F1/44": {
+      "code": "F28F1/44",
+      "level": 3,
+      "parent": "F28F1/42",
+      "ja": "かつ金網から成形されたもの",
+      "en": "and being formed of wire mesh",
+      "count": 83,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F3/00": {
+      "code": "F28F3/00",
+      "level": 0,
+      "parent": "F28F",
+      "ja": "板状のまたは積層された要素；板状のまたは積層された要素の組立体（運動用に特に適合する要素Ｆ２８Ｆ５／００）",
+      "en": "Plate-like or laminated elements; Assemblies of plate-like or laminated elements(specially adapted for movement <b>F28F5/00</b>)",
+      "count": 5476,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F3/02": {
+      "code": "F28F3/02",
+      "level": 1,
+      "parent": "F28F3/00",
+      "ja": "熱伝達面積を増加するための手段をもつ要素またはその組立体，例．フィンをもつ，凹みをもつ，波状部をもつもの（Ｆ２８Ｆ３／０８が優先）",
+      "en": "Elements or assemblies thereof with means for increasing heat-transfer area, e.g. with fins, with recesses, with corrugations(<b>F28F3/08</b> takes precedence)",
+      "count": 7639,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F3/04": {
+      "code": "F28F3/04",
+      "level": 2,
+      "parent": "F28F3/02",
+      "ja": "当該手段が要素と一体であるもの",
+      "en": "the means being integral with the element",
+      "count": 5986,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F3/06": {
+      "code": "F28F3/06",
+      "level": 2,
+      "parent": "F28F3/02",
+      "ja": "当該手段が要素に取付可能であるもの",
+      "en": "the means being attachable to the element",
+      "count": 1983,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F3/08": {
+      "code": "F28F3/08",
+      "level": 1,
+      "parent": "F28F3/00",
+      "ja": "集合体を組み上げるために構成された要素，例．清掃のため分離することができるもの",
+      "en": "Elements constructed for building-up into stacks, e.g. capable of being taken apart for cleaning",
+      "count": 8982,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F3/10": {
+      "code": "F28F3/10",
+      "level": 2,
+      "parent": "F28F3/08",
+      "ja": "縁部を密封するための装置",
+      "en": "Arrangement for sealing the margins",
+      "count": 2187,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F3/12": {
+      "code": "F28F3/12",
+      "level": 1,
+      "parent": "F28F3/00",
+      "ja": "中空パネルの形状に構成された要素，例．通路をもつもの",
+      "en": "Elements constructed in the shape of a hollow panel, e.g. with channels",
+      "count": 4368,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F3/14": {
+      "code": "F28F3/14",
+      "level": 2,
+      "parent": "F28F3/12",
+      "ja": "１対の接合板の一部を分離して，例．膨張成形によって，通路を形成するもの（その製造Ｂ２３Ｐ）",
+      "en": "by separating portions of a pair of joined sheets to form channels, e.g. by inflation(manufacture thereof <b>B23P</b>)",
+      "count": 907,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F5/00": {
+      "code": "F28F5/00",
+      "level": 0,
+      "parent": "F28F",
+      "ja": "運動用に特に適合する要素［２００６．０１］",
+      "en": "Elements specially adapted for movement",
+      "count": 834,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F5/02": {
+      "code": "F28F5/02",
+      "level": 1,
+      "parent": "F28F5/00",
+      "ja": "回転ドラムまたはローラ",
+      "en": "Rotary drums or rollers",
+      "count": 710,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F5/04": {
+      "code": "F28F5/04",
+      "level": 1,
+      "parent": "F28F5/00",
+      "ja": "中空羽根車，例．かきまぜ羽根",
+      "en": "Hollow impellers, e.g. stirring vane",
+      "count": 472,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F5/06": {
+      "code": "F28F5/06",
+      "level": 1,
+      "parent": "F28F5/00",
+      "ja": "中空ねじコンベヤ",
+      "en": "Hollow screw conveyors",
+      "count": 164,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F7/00": {
+      "code": "F28F7/00",
+      "level": 0,
+      "parent": "F28F",
+      "ja": "グループＦ２８Ｆ１／００，Ｆ２８Ｆ３／００，またはＦ２８Ｆ５／００に包含されない要素",
+      "en": "Elements not covered by group <b>F28F1/00</b>, <b>F28F3/00</b>, or <b>F28F5/00</b>",
+      "count": 4055,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F7/02": {
+      "code": "F28F7/02",
+      "level": 1,
+      "parent": "F28F7/00",
+      "ja": "熱交換媒体の通路が横切る区画",
+      "en": "Blocks traversed by passages for heat-exchange media",
+      "count": 1064,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F9/00": {
+      "code": "F28F9/00",
+      "level": 0,
+      "parent": "F28F",
+      "ja": "外箱；管寄せ箱；要素の補助支持具；外箱の補助部材",
+      "en": "Casings; Header boxes; Auxiliary supports for elements; Auxiliary members within casings",
+      "count": 22716,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F9/007": {
+      "code": "F28F9/007",
+      "level": 1,
+      "parent": "F28F9/00",
+      "ja": "要素のための補助支持具［６］",
+      "en": "Auxiliary supports for elements",
+      "count": 7340,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F9/013": {
+      "code": "F28F9/013",
+      "level": 2,
+      "parent": "F28F9/007",
+      "ja": "管または管組立体のためのもの［６］",
+      "en": "for tubes or tube-assemblies",
+      "count": 8551,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F9/02": {
+      "code": "F28F9/02",
+      "level": 1,
+      "parent": "F28F9/00",
+      "ja": "管寄せ箱；端板",
+      "en": "Header boxes; End plates",
+      "count": 22797,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F9/04": {
+      "code": "F28F9/04",
+      "level": 2,
+      "parent": "F28F9/02",
+      "ja": "管寄せ箱または端板内への要素をシールするための装置（壁体に対する管の連結一般Ｆ１６Ｌ４１／００）",
+      "en": "Arrangements for sealing elements into header boxes or end plates(joining pipes to walls in general <b>F16L41/00</b>)",
+      "count": 2875,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F9/06": {
+      "code": "F28F9/06",
+      "level": 3,
+      "parent": "F28F9/04",
+      "ja": "取りはずしできる継ぎ手によるもの",
+      "en": "by dismountable joints",
+      "count": 1373,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F9/08": {
+      "code": "F28F9/08",
+      "level": 4,
+      "parent": "F28F9/06",
+      "ja": "くさび形連結によるもの，例．テーパフェルール",
+      "en": "by wedge-type connections, e.g. taper ferrule",
+      "count": 147,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F9/10": {
+      "code": "F28F9/10",
+      "level": 4,
+      "parent": "F28F9/06",
+      "ja": "ねじ形連結によるもの，例．パッキン押え",
+      "en": "by screw-type connections, e.g. gland",
+      "count": 2897,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F9/12": {
+      "code": "F28F9/12",
+      "level": 4,
+      "parent": "F28F9/06",
+      "ja": "フランジ形連結によるもの",
+      "en": "by flange-type connections",
+      "count": 1425,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F9/14": {
+      "code": "F28F9/14",
+      "level": 4,
+      "parent": "F28F9/06",
+      "ja": "強制接合によるもの",
+      "en": "by force-joining",
+      "count": 397,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F9/16": {
+      "code": "F28F9/16",
+      "level": 3,
+      "parent": "F28F9/04",
+      "ja": "永久的継ぎ手によるもの，例．圧延によるもの（金属加工方法一般Ｂ２１，Ｂ２３，特にＢ２１Ｄ３９／０６，Ｂ２３Ｋ）",
+      "en": "by permanent joints, e.g. by rolling(metal-working procedures in general <b>B21</b>, <b>B23</b>, particularly <b>B21D39/06</b>, <b>B23K</b>)",
+      "count": 1722,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F9/18": {
+      "code": "F28F9/18",
+      "level": 4,
+      "parent": "F28F9/16",
+      "ja": "溶接によるもの",
+      "en": "by welding",
+      "count": 4956,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F9/20": {
+      "code": "F28F9/20",
+      "level": 1,
+      "parent": "F28F9/00",
+      "ja": "熱反射器の配置，例．別個にさし込みうる反射壁",
+      "en": "Arrangements of heat reflectors, e.g. separately-insertible reflecting walls",
+      "count": 186,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F9/22": {
+      "code": "F28F9/22",
+      "level": 1,
+      "parent": "F28F9/00",
+      "ja": "連続する区画内へ熱交換媒体を導くための装置，例．案内板の配置",
+      "en": "Arrangements for directing heat-exchange media into successive compartments, e.g. arrangements of guide plates",
+      "count": 11475,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F9/24": {
+      "code": "F28F9/24",
+      "level": 1,
+      "parent": "F28F9/00",
+      "ja": "熱交換媒体の乱流促進のための装置，例．板によるもの（Ｆ２８Ｆ１／３８が優先；一般的なものＦ１５Ｄ）",
+      "en": "Arrangements for promoting turbulent flow of heat-exchange media, e.g. by plates(<b>F28F1/38</b> takes precedence; in general <b>F15D</b>)",
+      "count": 7194,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F9/26": {
+      "code": "F28F9/26",
+      "level": 1,
+      "parent": "F28F9/00",
+      "ja": "熱交換要素，例．放熱器，の異なった部分を連結するための装置（水加熱器内における異なった部分の連結Ｆ２４Ｈ９／１４）",
+      "en": "Arrangements for connecting different sections of heat-exchange elements, e.g. of radiators(connecting different sections in water heaters <b>F24H9/14</b>)",
+      "count": 20541,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F11/00": {
+      "code": "F28F11/00",
+      "level": 0,
+      "parent": "F28F",
+      "ja": "漏れやすい管または導管を密封するための装置（パイプ内またはパイプからの流れの停止一般Ｆ１６Ｌ５５／１０）",
+      "en": "Arrangements for sealing leaky tubes or conduits(stopping flow from or in pipes in general <b>F16L55/10</b>)",
+      "count": 4460,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F11/02": {
+      "code": "F28F11/02",
+      "level": 1,
+      "parent": "F28F11/00",
+      "ja": "互いに独立して挿入および操作される閉鎖要素，例．ワッシャ，を用いるもの（Ｆ２８Ｆ１１／０６が優先）",
+      "en": "using obturating elements, e.g. washers, inserted and operated independently of each other(<b>F28F11/06</b> takes precedence)",
+      "count": 3095,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F11/04": {
+      "code": "F28F11/04",
+      "level": 1,
+      "parent": "F28F11/00",
+      "ja": "中央操作棒に取り付けられる対の閉鎖要素，例．ワッシャ，を用いるもの（Ｆ２８Ｆ１１／０６が優先）",
+      "en": "using pairs of obturating elements, e.g. washers, mounted upon central operating rods(<b>F28F11/06</b> takes precedence)",
+      "count": 132,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F11/06": {
+      "code": "F28F11/06",
+      "level": 1,
+      "parent": "F28F11/00",
+      "ja": "自動管閉鎖装置を用いるもの",
+      "en": "using automatic tube-obturating appliances",
+      "count": 116,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F13/00": {
+      "code": "F28F13/00",
+      "level": 0,
+      "parent": "F28F",
+      "ja": "熱伝達を修正，例．増加，減少，するための装置（Ｆ２８Ｆ１／００～Ｆ２８Ｆ１１／００が優先）",
+      "en": "Arrangements for modifying heat transfer, e.g. increasing, decreasing(<b>F28F1/00 to F28F11/00</b>  take precedence)",
+      "count": 4787,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F13/02": {
+      "code": "F28F13/02",
+      "level": 1,
+      "parent": "F28F13/00",
+      "ja": "流体の境界に影響をおよぼすことによるもの（境界層制御一般Ｆ１５Ｄ）",
+      "en": "by influencing fluid boundary(boundary-layer control in general <b>F15D</b>)",
+      "count": 1665,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F13/04": {
+      "code": "F28F13/04",
+      "level": 1,
+      "parent": "F28F13/00",
+      "ja": "熱交換面における凝縮水の連続膜の形成を妨げることによるもの，例．水滴形成を促進することによる",
+      "en": "by preventing the formation of continuous films of condensate on heat-exchange surfaces, e.g. by promoting droplet formation",
+      "count": 720,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F13/06": {
+      "code": "F28F13/06",
+      "level": 1,
+      "parent": "F28F13/00",
+      "ja": "熱交換媒体の流れの様式に影響を与えることによるもの",
+      "en": "by affecting the pattern of flow of the heat-exchange media",
+      "count": 3799,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F13/08": {
+      "code": "F28F13/08",
+      "level": 2,
+      "parent": "F28F13/06",
+      "ja": "流路の横断面を変えることによるもの",
+      "en": "by varying the cross-section of the flow channels",
+      "count": 1781,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F13/10": {
+      "code": "F28F13/10",
+      "level": 2,
+      "parent": "F28F13/06",
+      "ja": "流れに対して脈動を与えることによるもの，例．音波振動による",
+      "en": "by imparting a pulsating motion to the flow, e.g. by sonic vibration",
+      "count": 548,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F13/12": {
+      "code": "F28F13/12",
+      "level": 2,
+      "parent": "F28F13/06",
+      "ja": "乱流を起こすことによるもの，例．かきまぜによるもの，循環力の増加によるもの（Ｆ２８Ｆ１３／０８が優先）",
+      "en": "by creating turbulence, e.g. by stirring, by increasing the force of circulation(<b>F28F13/08</b> takes precedence)",
+      "count": 9551,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F13/14": {
+      "code": "F28F13/14",
+      "level": 1,
+      "parent": "F28F13/00",
+      "ja": "導管の壁に熱伝導度の異なる帯域をつけることによるもの",
+      "en": "by endowing the walls of conduits with zones of different degrees of conduction of heat",
+      "count": 557,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F13/16": {
+      "code": "F28F13/16",
+      "level": 1,
+      "parent": "F28F13/00",
+      "ja": "熱交換媒体に静電場を与えることによるもの",
+      "en": "by applying an electrostatic field to the body of the heat-exchange medium",
+      "count": 377,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F13/18": {
+      "code": "F28F13/18",
+      "level": 1,
+      "parent": "F28F13/00",
+      "ja": "被覆材を適用することによるもの，例．放射熱を吸収，放射熱を反射；表面処理によるもの，例．つや出し",
+      "en": "by applying coatings, e.g. radiation-absorbing, radiation-reflecting; by surface treatment, e.g. polishing",
+      "count": 3840,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F17/00": {
+      "code": "F28F17/00",
+      "level": 0,
+      "parent": "F28F",
+      "ja": "熱交換装置から氷または水の除去",
+      "en": "Removing ice or water from heat-exchange apparatus",
+      "count": 5127,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F19/00": {
+      "code": "F28F19/00",
+      "level": 0,
+      "parent": "F28F",
+      "ja": "沈積物の形成または腐食の予防，例．ろ過器を用いるもの",
+      "en": "Preventing the formation of deposits or corrosion, e.g. by using filters",
+      "count": 7654,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F19/01": {
+      "code": "F28F19/01",
+      "level": 1,
+      "parent": "F28F19/00",
+      "ja": "固体物質を熱交換流体から分離するための手段を用いることによるもの，例．フィルタ［６］",
+      "en": "by using means for separating solid materials from heat-exchange fluids, e.g. filters",
+      "count": 11922,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F19/02": {
+      "code": "F28F19/02",
+      "level": 1,
+      "parent": "F28F19/00",
+      "ja": "被覆材，例．ガラスまたはエナメル被膜，の使用による",
+      "en": "by using coatings, e.g. vitreous or enamel coatings",
+      "count": 3269,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F19/04": {
+      "code": "F28F19/04",
+      "level": 2,
+      "parent": "F28F19/02",
+      "ja": "ゴム；プラスチック物質；ワニスによるもの",
+      "en": "of rubber; of plastics material; of varnish",
+      "count": 1494,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F19/06": {
+      "code": "F28F19/06",
+      "level": 2,
+      "parent": "F28F19/02",
+      "ja": "金属によるもの",
+      "en": "of metal",
+      "count": 2399,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F21/00": {
+      "code": "F28F21/00",
+      "level": 0,
+      "parent": "F28F",
+      "ja": "特別の材料の選択に特徴のある熱交換装置の構造",
+      "en": "Constructions of heat-exchange apparatus characterised by the selection of particular materials",
+      "count": 2405,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F21/02": {
+      "code": "F28F21/02",
+      "level": 1,
+      "parent": "F28F21/00",
+      "ja": "炭素，例．黒鉛",
+      "en": "of carbon, e.g. graphite",
+      "count": 2099,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F21/04": {
+      "code": "F28F21/04",
+      "level": 1,
+      "parent": "F28F21/00",
+      "ja": "セラミック；コンクリート；天然石",
+      "en": "of ceramic; of concrete; of natural stone",
+      "count": 2221,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F21/06": {
+      "code": "F28F21/06",
+      "level": 1,
+      "parent": "F28F21/00",
+      "ja": "プラスチック材料",
+      "en": "of plastics material",
+      "count": 4174,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F21/08": {
+      "code": "F28F21/08",
+      "level": 1,
+      "parent": "F28F21/00",
+      "ja": "金属",
+      "en": "of metal",
+      "count": 14261,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F23/00": {
+      "code": "F28F23/00",
+      "level": 0,
+      "parent": "F28F",
+      "ja": "中間熱交換物質の使用に関する特徴，例．組成の選択",
+      "en": "Features relating to the use of intermediate heat-exchange materials, e.g. selection of compositions",
+      "count": 884,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F23/02": {
+      "code": "F28F23/02",
+      "level": 1,
+      "parent": "F28F23/00",
+      "ja": "液状態で同様にえられまたは維持できる装置",
+      "en": "Arrangements for obtaining or maintaining same in a liquid state",
+      "count": 608,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F25/00": {
+      "code": "F28F25/00",
+      "level": 0,
+      "parent": "F28F",
+      "ja": "散水式冷却器の構成要素（熱伝達を増加するための配置Ｆ２８Ｆ１３／００；制御配置Ｆ２８Ｆ２７／００）",
+      "en": "Component parts of trickle coolers(arrangements for increasing heat transfer <b>F28F13/00</b>; controlling arrangements <b>F28F27/00</b>)",
+      "count": 4946,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F25/02": {
+      "code": "F28F25/02",
+      "level": 1,
+      "parent": "F28F25/00",
+      "ja": "液体を分配する、循環するまたは貯留するためのもの（噴射または噴霧一般Ｂ０５Ｂ，Ｂ０５Ｄ）",
+      "en": "for distributing, circulating, or accumulating liquid(spraying or atomising in general <b>B05B</b>, <b>B05D</b>)",
+      "count": 4971,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F25/04": {
+      "code": "F28F25/04",
+      "level": 2,
+      "parent": "F28F25/02",
+      "ja": "分配または受液とい",
+      "en": "Distributing or accumulator troughs",
+      "count": 2736,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F25/06": {
+      "code": "F28F25/06",
+      "level": 2,
+      "parent": "F28F25/02",
+      "ja": "噴射ノズルまたは噴射パイプ",
+      "en": "Spray nozzles or spray pipes",
+      "count": 6258,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F25/08": {
+      "code": "F28F25/08",
+      "level": 2,
+      "parent": "F28F25/02",
+      "ja": "はねかけ板または格子，例．液体噴射を液体膜に変えるためのもの；接触面積を増加させるための要素または床（充填要素一般Ｂ０１Ｊ１９／３０，Ｂ０１Ｊ１９／３２）",
+      "en": "Splashing boards or grids, e.g. for converting liquid sprays into liquid films; Elements or beds for increasing the area of the contact surface(packing elements in general <b>B01J19/30</b>, <b>B01J19/32</b>)",
+      "count": 5748,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F25/10": {
+      "code": "F28F25/10",
+      "level": 1,
+      "parent": "F28F25/00",
+      "ja": "ガスまたは蒸気を供給するためのもの",
+      "en": "for feeding gas or vapour",
+      "count": 2991,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F25/12": {
+      "code": "F28F25/12",
+      "level": 2,
+      "parent": "F28F25/10",
+      "ja": "ダクト；案内羽根，例．別の区域へ流れを運ぶためのもの",
+      "en": "Ducts; Guide vanes, e.g. for carrying currents to distinct zones",
+      "count": 1984,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F27/00": {
+      "code": "F28F27/00",
+      "level": 0,
+      "parent": "F28F",
+      "ja": "熱交換または熱伝達装置のため特に適した制御装置または安全装置",
+      "en": "Control arrangements or safety devices specially adapted for heat-exchange or heat-transfer apparatus",
+      "count": 19195,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F27/02": {
+      "code": "F28F27/02",
+      "level": 1,
+      "parent": "F28F27/00",
+      "ja": "異なる流路間に熱交換媒体の分配を制御するためのもの（案内板または案内羽根の配置Ｆ２８Ｆ９／２２，Ｆ２８Ｆ２５／１２）",
+      "en": "for controlling the distribution of heat-exchange media between different channels(arrangements of guide plates or guide vanes <b>F28F9/22</b>, <b>F28F25/12</b>)",
+      "count": 5094,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    },
+    "F28F99/00": {
+      "code": "F28F99/00",
+      "level": 0,
+      "parent": "F28F",
+      "ja": "このサブクラスの他のグループに分類されない主題事項［８］",
+      "en": "Subject matter not provided for in other groups of this subclass",
+      "count": 142,
+      "sourceFile": "ipc_F28F.txt",
+      "kind": "ipc"
+    }
+  }
+}

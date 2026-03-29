@@ -1,0 +1,1116 @@
+{
+  "generatedAt": "2026-03-20T02:17:47.050Z",
+  "total": 111,
+  "entries": {
+    "G03F": {
+      "code": "G03F",
+      "level": 0,
+      "parent": "G03",
+      "ja": "フォトメカニカル法による凹凸化又はパターン化された表面の製造，例．印刷用，半導体装置の製造法用；そのための材料；そのための原稿；そのために特に適合した装置（写真植字機Ｂ４１Ｂ；写真用感光材料または処理Ｇ０３Ｃ；エレクトログラフィー，そのための感光層または処理Ｇ０３Ｇ）<br><br><b><ul>注</ul></b><br>このサブクラスにおいては，下記の用語は以下に示す意味で用いる：<br>―“感光性”は電磁波に対する感光性のみならず，粒子線に対する感光性も意味する；<br>―“感光性組成物”は感光性物質，例．キノンジアジド，およびもし適用できれば，結合剤または添加剤を包含する；<br>―“感光材料”は感光性組成物，例．フォトレジスト，それら支持体およびもし適用できれば，補助層を包含する。［５］",
+      "en": "PHOTOMECHANICAL PRODUCTION OF TEXTURED OR PATTERNED SURFACES, e.g. FOR PRINTING, FOR PROCESSING OF SEMICONDUCTOR DEVICES; MATERIALS THEREFOR; ORIGINALS THEREFOR; APPARATUS SPECIALLY ADAPTED THEREFOR(phototypographic composing devices <b>B41B</b>; photosensitive materials or processes for photographic purposes <b>G03C</b>; electrography, sensitive layers or processes <b>G03G</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>In this subclass, the following terms or expressions are used with the meanings indicated:<ul><li>\"photosensitive\" means not only sensitive of electromagnetic radiation but also to corpuscular radiation;</li><li>\"photosensitive compositions\" covers photosensitive substances, e.g. quinonediazides, and, if applicable, binders or additives;</li><li>\"photosensitive materials\" covers the photosensitive compositions, e.g. photoresists, the bases carrying them and, if applicable, auxiliary layers. </li></ul></li></ul>",
+      "count": 724,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G03": {
+      "code": "G03",
+      "level": 0,
+      "parent": "G",
+      "ja": "写真；映画；光波以外の波を使用する類似技術；電子写真；ホログラフイ［４］<br><br><b><ul>注</ul></b><br>（１）このクラスは走査および電気信号の変換による画像またはパターンの再生を包含しない。それらはサブクラスＨ０４Ｎに包含される。<br>（２）このクラスにおいては，下記の用語は以下に示す意味で用いる：<br>―“記録”という用語は，写真または担体部材に記録される量の像的分布，例．電荷パターン，から構成される画像情報の，写真以外の任意の潜像記憶，直接可視記憶または永久記憶を意味する；<br>―“光学的”という用語は，可視光だけでなく紫外線または赤外線にも適用する。",
+      "en": "PHOTOGRAPHY; CINEMATOGRAPHY; ANALOGOUS TECHNIQUES USING WAVES OTHER THAN OPTICAL WAVES; ELECTROGRAPHY; HOLOGRAPHY; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This class <u>does not cover</u> reproduction of pictures or patterns by scanning and converting into electrical signals, which is covered by subclass <b>H04N</b>.</li><li>In this class, the following terms are used with the meaning indicated: <ul><li>\"records\" means photographs or any other kind of latent, directly-visible or permanent storage of pictorial information, which consist of an imagewise distribution of a quantity, e.g. an electric charge pattern, recorded on a carrier member;</li><li>\"optical\" applies not only to visible light but also to ultraviolet or infrared radiations.</li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G": {
+      "code": "G",
+      "level": 0,
+      "parent": null,
+      "ja": "物理学<br><br><b><ul>注</ul></b><br>１．このセクションにおいては，下記の用語は以下に示す意味で用いる：<br>・“変量”は名詞として，特定の実在物，例．物体，ある量の物質，光ビーム，に関し特定の瞬間に測定することの可能な特性又は特質，例．寸法，温度等の物理的状態，密度又は色等の性質，を意味する。変量が変化すると，その数値的表現は異なる時点で，異なる状態又は個々の状況において異なる値をとることもあり，また，ある状態のもとで又は実用上特定の実在物に関して一定でありうる，例．バーの長さが多くの目的のために一定とみなされる，こともある。<br>２．使用される用語または表現の定義に注意すること。このセクションのいくつかのクラスの注に使用されているものについて，特にクラスＧ０１の“測定”を参照されたい．ＩＰＣ指針パラグラフ１８７の中にあるものについて，“制御”及び“調整”の定義に参照されたい。<br>３．このセクションにおける分類は他のセクションにおいてよりもめんどうな場合があり得る，というのは，その一つは，いろいろな使用分野の差異の判別には構造上の差異又は使用形態上の差異よりも寧ろ使用者の意図における差異の方にかなりの程度影響されてしまうからであり，もう一つは，扱う主題が容易に全体として識別できる“もの”であるよりも，特性又は部品が他の主題のものと共通のものを有しているシステム又は組合わせであることが実際上多いからである。例えば，情報（例．一連の数値）をディスプレイするのは，クラスＧ０９に包含される，教育又は広告のため，クラスＧ０１に包含される，測定の結果が通知されうるため，クラスＧ０８に包含される，遠隔地点に情報を合図するため，又は遠隔地点から合図された情報を提供するためである。目的を記述するために使用する言葉は，当該装置の形態に無関係なこともあり得る特性－例えば，ディスプレイを見る者にとって望ましい効果とか，ディスプレイが遠隔地点から制御されるかどうかという特性－によって決定される。さらに，ある状態，例えば流体圧の変化に応答する装置は，その装置そのものには変更を加えずして，サブクラスＧ０１Ｌに包含される圧力又はＧ０１の他のサブクラスに包含される圧力に関連した他の何らかの状態，例．温度に関してＧ０１Ｋ，についての情報を与えるため，サブクラスＧ０７Ｃに包含される圧力または圧力発生の記録をするため，サブクラスＧ０８Ｂに包含される警報を発するため，又はクラスＧ０５に包含される他の何らかの装置を制御するために用いられることがある。<br>　本分類表は，前述したように，同一の性質のものは同一箇所に分類し得るようにしたものである。従って，技術主題が適切箇所に分類されるためには予めその真正な本質を把握することが特に必要である。",
+      "en": "PHYSICS; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this section, the following term is used with the meaning indicated: <ul><li>\"variable\" as a noun means a feature or property, e.g. a dimension, a physical condition such as temperature, a quality such as density or colour, which, in respect of a particular entity, e.g. an object, a quantity of a substance, a beam of light, and at a particular instant, is capable of being measured; the variable may change, so that its numerical expression may assume different values at different times, in different conditions or in individual cases, but may be constant in respect of a particular entity in certain conditions or for practical purposes, e.g. the length of a bar may be regarded as constant for many purposes.</li></ul></li><li>Attention is drawn to the definitions of terms or expressions used. Some appear in the notes of several of the classes in this section, see in particular the definition of \"measuring\" in class <b>G01</b>. Others appear in paragraph 187 of the Guide to the IPC, see in particular the definitions of \"control\" and \"regulation\".</li><li>Classification in this section may present more difficulty than in other sections, because the distinction between different fields of use rests to a considerable extent on differences in the intention of the user rather than on any constructional differences or differences in the manner of use, and because the subjects dealt with are often in effect systems or combinations, which have features or parts in common, rather than \"things\", which are readily distinguishable as a whole. For example, information, e.g. a set of figures, may be displayed for the purpose of education or advertising covered by class <b>G09</b>, for enabling the result of a measurement to be known covered by class <b>G01</b>, for signalling the information to a distant point or for giving information which has been signalled from a distant point covered by class <b>G08</b>. The words used to describe the purpose depend on features that may be irrelevant to the form of the apparatus concerned, for example, such features as the desired effect on the person who sees the display, or whether the display is controlled from a remote point. Again, a device which responds to some change in a condition, e.g. in the pressure of a fluid, may be used, without modification of the device itself, to give information about the pressure covered by subclass <b>G01L</b> or about some other condition linked to the pressure covered by another subclass of class <b>G01</b>, e.g. <b>G01K</b> for temperature, to make a record of the pressure or of its occurrence covered by subclass <b>G07C</b>, to give an alarm covered by subclass <b>G08B</b>, or to control another apparatus covered by class <b>G05</b>. <ul><li>The classification scheme is intended to enable things of a similar nature, as indicated above, to be classified together. It is therefore particularly necessary for the real nature of any technical subject to be decided before it can be properly classified.</li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G03F1/00": {
+      "code": "G03F1/00",
+      "level": 0,
+      "parent": "G03F",
+      "ja": "フォトメカニカル法による凹凸化又はパターン化された表面の製造に用いる原稿，例．マスク，フォトマスク又はレチクル；そのためのマスクブランク又はペリクル；特にそれに適合した容器；その準備［３，２０１２．０１］<br><br><b><ul>注</ul></b><br>このメイングループでは，ファーストプレイス優先ルールが適用される，すなわち各階層レベルにおいて，相反する指示がない限り，最初の適切な箇所に分類する。［２０１２．０１］",
+      "en": "Originals for photomechanical production of textured or patterned surfaces, e.g. masks, photo-masks or reticles; Mask blanks or pellicles therefor; Containers specially adapted therefor; Preparation thereof; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this main group, the first place priority rule is applied, i.e. at each hierarchical level, in the absence of an indication to the contrary, classification is made in the first appropriate place.   </li></ul>",
+      "count": 15331,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F1/20": {
+      "code": "G03F1/20",
+      "level": 1,
+      "parent": "G03F1/00",
+      "ja": "荷電粒子線［ＣＰＢ］の放射，例．電子線，によって画像化するためのマスク又はマスクブランク；その準備［２０１２．０１］",
+      "en": "Masks or mask blanks for imaging by charged particle beam [CPB] radiation, e.g. by electron beam; Preparation thereof",
+      "count": 1565,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F1/22": {
+      "code": "G03F1/22",
+      "level": 1,
+      "parent": "G03F1/00",
+      "ja": "１００ｎｍ以下の波長の放射によって画像化するためのマスク又はマスクブランク，例．Ｘ線マスク，極端紫外［ＥＵＶ］マスク；その準備［２０１２．０１］",
+      "en": "Masks or mask blanks for imaging by radiation of 100 nm or shorter wavelength, e.g. X-ray masks, extreme ultraviolet [EUV] masks; Preparation thereof",
+      "count": 3308,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F1/24": {
+      "code": "G03F1/24",
+      "level": 2,
+      "parent": "G03F1/22",
+      "ja": "反射マスク；その準備［２０１２．０１］",
+      "en": "Reflection masks; Preparation thereof",
+      "count": 2155,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F1/26": {
+      "code": "G03F1/26",
+      "level": 1,
+      "parent": "G03F1/00",
+      "ja": "位相シフトマスク［ＰＳＭ］；ＰＳＭブランク；その準備［２０１２．０１］",
+      "en": "Phase shift masks [PSM]; PSM blanks; Preparation thereof",
+      "count": 1620,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F1/28": {
+      "code": "G03F1/28",
+      "level": 2,
+      "parent": "G03F1/26",
+      "ja": "同一のＰＳＭ上に３種以上の位相；その準備［２０１２．０１］",
+      "en": "with three or more diverse phases on the same PSM; Preparation thereof",
+      "count": 196,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F1/29": {
+      "code": "G03F1/29",
+      "level": 2,
+      "parent": "G03F1/26",
+      "ja": "リムＰＳＭ又はアウトリガーＰＳＭ；その準備［２０１２．０１］",
+      "en": "Rim PSM or outrigger PSM; Preparation thereof",
+      "count": 569,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F1/30": {
+      "code": "G03F1/30",
+      "level": 2,
+      "parent": "G03F1/26",
+      "ja": "交互ＰＳＭ，例．渋谷・レベンソンＰＳＭ；その準備［２０１２．０１］",
+      "en": "Alternating PSM, e.g. Levenson-Shibuya PSM; Preparation thereof",
+      "count": 1077,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F1/32": {
+      "code": "G03F1/32",
+      "level": 2,
+      "parent": "G03F1/26",
+      "ja": "減衰ＰＳＭ［ａｔｔ－ＰＳＭ］，例．ハーフトーンＰＳＭ又は半透明な位相シフト部を有するＰＳＭ；その準備［２０１２．０１］",
+      "en": "Attenuating PSM [att-PSM], e.g. halftone PSM or PSM having semi-transparent phase shift portion; Preparation thereof",
+      "count": 2184,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F1/34": {
+      "code": "G03F1/34",
+      "level": 2,
+      "parent": "G03F1/26",
+      "ja": "フェーズ・エッジＰＳＭ，例．クロムレスＰＳＭ；その準備［２０１２．０１］",
+      "en": "Phase-edge PSM, e.g. chromeless PSM; Preparation thereof",
+      "count": 299,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F1/36": {
+      "code": "G03F1/36",
+      "level": 1,
+      "parent": "G03F1/00",
+      "ja": "近接効果補正に特徴を有するマスク；その準備，例．光近接効果補正［ＯＰＣ］デザインプロセス［２０１２．０１］",
+      "en": "Masks having proximity correction features; Preparation thereof, e.g. optical proximity correction [OPC] design processes",
+      "count": 3665,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F1/38": {
+      "code": "G03F1/38",
+      "level": 1,
+      "parent": "G03F1/00",
+      "ja": "補助的な特徴を有するマスク，例．特別なコーティング又はアライメント若しくは試験のためのマーク；その準備［２０１２．０１］",
+      "en": "Masks having auxiliary features, e.g. special coatings or marks for alignment or testing; Preparation thereof",
+      "count": 2246,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F1/40": {
+      "code": "G03F1/40",
+      "level": 2,
+      "parent": "G03F1/38",
+      "ja": "静電放電［ＥＳＤ］に関連する特徴，例．帯電防止コーティング又はマスク基板の周囲の導電性金属層［２０１２．０１］",
+      "en": "Electrostatic discharge [ESD] related features, e.g. antistatic coatings or a conductive metal layer around the periphery of the mask substrate",
+      "count": 570,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F1/42": {
+      "code": "G03F1/42",
+      "level": 2,
+      "parent": "G03F1/38",
+      "ja": "アライメント又は重ね合わせ（レジストレーション）の特徴，例．マスク基板上のアライメントマーク［２０１２．０１］",
+      "en": "Alignment or registration features, e.g. alignment marks on the mask substrates",
+      "count": 1368,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F1/44": {
+      "code": "G03F1/44",
+      "level": 2,
+      "parent": "G03F1/38",
+      "ja": "試験又は測定の特徴，例．格子パターン，フォーカスモニター，のこぎり歯状スケール又はノッチ状スケール［２０１２．０１］",
+      "en": "Testing or measuring features, e.g. grid patterns, focus monitors, sawtooth scales or notched scales ",
+      "count": 1150,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F1/46": {
+      "code": "G03F1/46",
+      "level": 2,
+      "parent": "G03F1/38",
+      "ja": "反射防止コーティング［２０１２．０１］",
+      "en": "Antireflective coatings",
+      "count": 466,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F1/48": {
+      "code": "G03F1/48",
+      "level": 2,
+      "parent": "G03F1/38",
+      "ja": "保護コーティング［２０１２．０１］",
+      "en": "Protective coatings",
+      "count": 940,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F1/50": {
+      "code": "G03F1/50",
+      "level": 1,
+      "parent": "G03F1/00",
+      "ja": "グループＧ０３Ｆ１／２０からＧ０３Ｆ１／２６に包含されないマスクブランク；その準備［２０１２．０１］",
+      "en": "Mask blanks not covered by groups <b>G03F1/20 to G03F1/26</b> ; Preparation thereof",
+      "count": 1436,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F1/52": {
+      "code": "G03F1/52",
+      "level": 1,
+      "parent": "G03F1/00",
+      "ja": "反射材［２０１２．０１］",
+      "en": "Reflectors",
+      "count": 378,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F1/54": {
+      "code": "G03F1/54",
+      "level": 1,
+      "parent": "G03F1/00",
+      "ja": "吸収材，例．不透明な材料［２０１２．０１］",
+      "en": "Absorbers, e.g. opaque materials",
+      "count": 2901,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F1/56": {
+      "code": "G03F1/56",
+      "level": 2,
+      "parent": "G03F1/54",
+      "ja": "有機的な吸収材，例．フォトレジスト［２０１２．０１］",
+      "en": "Organic absorbers, e.g. photo-resists",
+      "count": 585,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F1/58": {
+      "code": "G03F1/58",
+      "level": 2,
+      "parent": "G03F1/54",
+      "ja": "２つ以上の異なる吸収材層，例．積層された複数層の吸収材［２０１２．０１］",
+      "en": "having two or more different absorber layers, e.g. stacked multilayer absorbers",
+      "count": 667,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F1/60": {
+      "code": "G03F1/60",
+      "level": 1,
+      "parent": "G03F1/00",
+      "ja": "基板［２０１２．０１］",
+      "en": "Substrates",
+      "count": 1494,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F1/62": {
+      "code": "G03F1/62",
+      "level": 1,
+      "parent": "G03F1/00",
+      "ja": "ペリクル又はペリクル構造体，例．支持フレーム上に薄膜を備えるもの；その準備［２０１２．０１］",
+      "en": "Pellicles or pellicle assemblies, e.g. having membrane on support frame; Preparation thereof",
+      "count": 2083,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F1/64": {
+      "code": "G03F1/64",
+      "level": 2,
+      "parent": "G03F1/62",
+      "ja": "そのフレームに特徴のあるもの，例．その構造又は材料［２０１２．０１］",
+      "en": "characterised by the frames, e.g. structure or material thereof",
+      "count": 1164,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F1/66": {
+      "code": "G03F1/66",
+      "level": 1,
+      "parent": "G03F1/00",
+      "ja": "容器，特にマスク，マスクブランク又はペリクルに適合するもの；その準備［２０１２．０１］",
+      "en": "Containers specially adapted for masks, mask blanks or pellicles; Preparation thereof",
+      "count": 1330,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F1/68": {
+      "code": "G03F1/68",
+      "level": 1,
+      "parent": "G03F1/00",
+      "ja": "グループＧ０３Ｆ１／２０からＧ０３Ｆ１／５０に包含されない準備プロセス［２０１２．０１］",
+      "en": "Preparation processes not covered by groups <b>G03F1/20 to G03F1/50</b> ",
+      "count": 6950,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F1/70": {
+      "code": "G03F1/70",
+      "level": 2,
+      "parent": "G03F1/68",
+      "ja": "マスクの基本的レイアウト又はデザインをリソグラフィプロセスの要求に適合させること，例．画像化のためのマスクパターンの再修正［２０１２．０１］",
+      "en": "Adapting basic layout or design of masks to lithographic process requirements, e.g. second iteration correction of mask patterns for imaging",
+      "count": 3066,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F1/72": {
+      "code": "G03F1/72",
+      "level": 2,
+      "parent": "G03F1/68",
+      "ja": "マスク欠陥の修理又は修正［２０１２．０１］",
+      "en": "Repair or correction of mask defects",
+      "count": 1977,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F1/74": {
+      "code": "G03F1/74",
+      "level": 3,
+      "parent": "G03F1/72",
+      "ja": "荷電粒子線［ＣＰＢ］，例．集束イオンビーム，によるもの［２０１２．０１］",
+      "en": "by charged particle beam [CPB], e.g. focused ion beam",
+      "count": 642,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F1/76": {
+      "code": "G03F1/76",
+      "level": 2,
+      "parent": "G03F1/68",
+      "ja": "画像化によるマスクのパターン形成［２０１２．０１］",
+      "en": "Patterning of masks by imaging",
+      "count": 1699,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F1/78": {
+      "code": "G03F1/78",
+      "level": 3,
+      "parent": "G03F1/76",
+      "ja": "荷電粒子線［ＣＰＢ］，例．電子線，によるもの［２０１２．０１］",
+      "en": "by charged particle beam [CPB], e.g. electron beam",
+      "count": 576,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F1/80": {
+      "code": "G03F1/80",
+      "level": 2,
+      "parent": "G03F1/68",
+      "ja": "エッチング［２０１２．０１］",
+      "en": "Etching",
+      "count": 2702,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F1/82": {
+      "code": "G03F1/82",
+      "level": 2,
+      "parent": "G03F1/68",
+      "ja": "補助的なプロセス，例．クリーニング［２０１２．０１］",
+      "en": "Auxiliary processes, e.g. cleaning",
+      "count": 1740,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F1/84": {
+      "code": "G03F1/84",
+      "level": 3,
+      "parent": "G03F1/82",
+      "ja": "検査［２０１２．０１］",
+      "en": "Inspecting",
+      "count": 4075,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F1/86": {
+      "code": "G03F1/86",
+      "level": 4,
+      "parent": "G03F1/84",
+      "ja": "荷電粒子線［ＣＰＢ］によるもの［２０１２．０１］",
+      "en": "by charged particle beam [CPB]",
+      "count": 362,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F1/88": {
+      "code": "G03F1/88",
+      "level": 1,
+      "parent": "G03F1/00",
+      "ja": "レリーフ状原稿作成のために写真プロセスによって準備されたもの［２０１２．０１］",
+      "en": "prepared by photographic processes for producing originals simulating relief",
+      "count": 495,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F1/90": {
+      "code": "G03F1/90",
+      "level": 1,
+      "parent": "G03F1/00",
+      "ja": "モンタージュプロセスによって準備されたもの［２０１２．０１］",
+      "en": "prepared by montage processes",
+      "count": 1194,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F1/92": {
+      "code": "G03F1/92",
+      "level": 1,
+      "parent": "G03F1/00",
+      "ja": "印刷表面から準備されたもの［２０１２．０１］",
+      "en": "prepared from printing surfaces",
+      "count": 842,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F3/00": {
+      "code": "G03F3/00",
+      "level": 0,
+      "parent": "G03F",
+      "ja": "色分解；色調の修正（写真的複写装置一般Ｇ０３Ｂ）",
+      "en": "Colour separation; Correction of tonal value(photographic copying apparatus in general <b>G03B</b>)",
+      "count": 633,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F3/02": {
+      "code": "G03F3/02",
+      "level": 1,
+      "parent": "G03F3/00",
+      "ja": "手工修正によるもの",
+      "en": "by retouching",
+      "count": 101,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F3/04": {
+      "code": "G03F3/04",
+      "level": 1,
+      "parent": "G03F3/00",
+      "ja": "写真的手段によるもの",
+      "en": "by photographic means",
+      "count": 286,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F3/06": {
+      "code": "G03F3/06",
+      "level": 2,
+      "parent": "G03F3/04",
+      "ja": "マスキングによるもの",
+      "en": "by masking",
+      "count": 210,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F3/08": {
+      "code": "G03F3/08",
+      "level": 1,
+      "parent": "G03F3/00",
+      "ja": "光電的手段によるもの",
+      "en": "by photoelectric means",
+      "count": 3572,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F3/10": {
+      "code": "G03F3/10",
+      "level": 1,
+      "parent": "G03F3/00",
+      "ja": "分解ネガまたはポジの色または調子のチェック",
+      "en": "Checking the colour or tonal value of separation negatives or positives",
+      "count": 2457,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F5/00": {
+      "code": "G03F5/00",
+      "level": 0,
+      "parent": "G03F",
+      "ja": "スクリーン法；そのためのスクリーン",
+      "en": "Screening processes; Screens therefor",
+      "count": 1291,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F5/02": {
+      "code": "G03F5/02",
+      "level": 1,
+      "parent": "G03F5/00",
+      "ja": "投映方法によるもの（カメラＧ０３Ｂ）",
+      "en": "by projecting methods(cameras <b>G03B</b>)",
+      "count": 90,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F5/04": {
+      "code": "G03F5/04",
+      "level": 2,
+      "parent": "G03F5/02",
+      "ja": "網掛け効果の変化によるもの",
+      "en": "changing the screen effect",
+      "count": 53,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F5/06": {
+      "code": "G03F5/06",
+      "level": 2,
+      "parent": "G03F5/02",
+      "ja": "絞り効果の変化によるもの",
+      "en": "changing the diaphragm effect",
+      "count": 30,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F5/08": {
+      "code": "G03F5/08",
+      "level": 2,
+      "parent": "G03F5/02",
+      "ja": "平行線スクリーンの使用",
+      "en": "using line screens",
+      "count": 21,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F5/10": {
+      "code": "G03F5/10",
+      "level": 2,
+      "parent": "G03F5/02",
+      "ja": "交差線スクリーンの使用",
+      "en": "using cross-line screens",
+      "count": 64,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F5/12": {
+      "code": "G03F5/12",
+      "level": 2,
+      "parent": "G03F5/02",
+      "ja": "その他のスクリーン，例．砂目スクリーン，の使用",
+      "en": "using other screens, e.g. granulated screen",
+      "count": 186,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F5/14": {
+      "code": "G03F5/14",
+      "level": 1,
+      "parent": "G03F5/00",
+      "ja": "密着法によるもの",
+      "en": "by contact methods",
+      "count": 188,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F5/16": {
+      "code": "G03F5/16",
+      "level": 2,
+      "parent": "G03F5/14",
+      "ja": "灰色中間調スクリーンの使用",
+      "en": "using grey half-tone screens",
+      "count": 56,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F5/18": {
+      "code": "G03F5/18",
+      "level": 2,
+      "parent": "G03F5/14",
+      "ja": "カラー中間調スクリーンの使用",
+      "en": "using colour half-tone screens",
+      "count": 43,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F5/20": {
+      "code": "G03F5/20",
+      "level": 1,
+      "parent": "G03F5/00",
+      "ja": "グラビア印刷用網掛けの使用",
+      "en": "using screens for gravure printing",
+      "count": 459,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F5/22": {
+      "code": "G03F5/22",
+      "level": 1,
+      "parent": "G03F5/00",
+      "ja": "数枚のスクリーンの組合せ法；モアレの除去",
+      "en": "combining several screens; Elimination of moire",
+      "count": 202,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F5/24": {
+      "code": "G03F5/24",
+      "level": 1,
+      "parent": "G03F5/00",
+      "ja": "多重露光，例．線写真とスクリーンの組合せ",
+      "en": "by multiple exposure, e.g. combined processes for line photo and screen",
+      "count": 122,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F7/00": {
+      "code": "G03F7/00",
+      "level": 0,
+      "parent": "G03F",
+      "ja": "フォトメカニカル法，例．フォトリソグラフ法，による凹凸化又はパターン化された表面，例．印刷表面，の製造；そのための材料，例．フォトレジストからなるもの；そのため特に適合した装置（特別の製造法のためのフォトレジスト構造を用いるもの，関係箇所，例．Ｂ４４Ｃ，Ｈ１０Ｐ７６／００，Ｈ０５Ｋ，を参照）［２００６．０１］",
+      "en": "Photomechanical, e.g. photolithographic, production of textured or patterned surfaces, e.g. printed surfaces; Materials therefor, e.g. comprising photoresists; Apparatus specially adapted therefor  (using photoresist structures for special production processes, <u>see</u> the relevant places, e.g. <b>B44C</b>, <b>H10P76/00</b>, <b>H05K</b>)",
+      "count": 40552,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F7/004": {
+      "code": "G03F7/004",
+      "level": 1,
+      "parent": "G03F7/00",
+      "ja": "感光材料（Ｇ０３Ｆ７／１２，Ｇ０３Ｆ７／１４が優先）［５］",
+      "en": "Photosensitive materials(<b>G03F7/12</b>, <b>G03F7/14</b> take precedence)",
+      "count": 49999,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F7/008": {
+      "code": "G03F7/008",
+      "level": 2,
+      "parent": "G03F7/004",
+      "ja": "アジド（Ｇ０３Ｆ７／０７５が優先）［５］",
+      "en": "Azides(<b>G03F7/075</b> takes precedence)",
+      "count": 843,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F7/012": {
+      "code": "G03F7/012",
+      "level": 3,
+      "parent": "G03F7/008",
+      "ja": "高分子アジド；高分子添加剤，例．結合剤［５］",
+      "en": "Macromolecular azides; Macromolecular additives, e.g. binders",
+      "count": 493,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F7/016": {
+      "code": "G03F7/016",
+      "level": 2,
+      "parent": "G03F7/004",
+      "ja": "ジアゾニウム塩又は化合物（Ｇ０３Ｆ７／０７５が優先）［５］",
+      "en": "Diazonium salts or compounds(<b>G03F7/075</b> takes precedence)",
+      "count": 885,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F7/021": {
+      "code": "G03F7/021",
+      "level": 3,
+      "parent": "G03F7/016",
+      "ja": "高分子ジアゾニウム化合物；高分子添加剤，例．結合剤［５］",
+      "en": "Macromolecular diazonium compounds; Macromolecular additives, e.g. binders",
+      "count": 1034,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F7/022": {
+      "code": "G03F7/022",
+      "level": 2,
+      "parent": "G03F7/004",
+      "ja": "キノンジアジド（Ｇ０３Ｆ７／０７５が優先）［５］",
+      "en": "Quinonediazides(<b>G03F7/075</b> takes precedence)",
+      "count": 3757,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F7/023": {
+      "code": "G03F7/023",
+      "level": 3,
+      "parent": "G03F7/022",
+      "ja": "高分子キノンジアジド；高分子添加剤，例．結合剤［５］",
+      "en": "Macromolecular quinonediazides; Macromolecular additives, e.g. binders",
+      "count": 3944,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F7/025": {
+      "code": "G03F7/025",
+      "level": 2,
+      "parent": "G03F7/004",
+      "ja": "炭素－炭素三重結合を有する非高分子光重合性化合物，例．アセチレン化合物（Ｇ０３Ｆ７／０７５が優先）［５］",
+      "en": "Non-macromolecular photopolymerisable compounds having carbon-to-carbon triple bonds, e.g. acetylenic compounds(<b>G03F7/075</b> takes precedence)",
+      "count": 261,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F7/027": {
+      "code": "G03F7/027",
+      "level": 2,
+      "parent": "G03F7/004",
+      "ja": "炭素－炭素二重結合を有する非高分子光重合性化合物，例．エチレン化合物（Ｇ０３Ｆ７／０７５が優先）［５］",
+      "en": "Non-macromolecular photopolymerisable compounds having carbon-to-carbon double bonds, e.g. ethylenic compounds(<b>G03F7/075</b> takes precedence)",
+      "count": 18259,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F7/028": {
+      "code": "G03F7/028",
+      "level": 3,
+      "parent": "G03F7/027",
+      "ja": "増感物質をもつもの，例．光重合開始剤［５］",
+      "en": "with photosensitivity-increasing substances, e.g. photoinitiators",
+      "count": 7045,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F7/029": {
+      "code": "G03F7/029",
+      "level": 4,
+      "parent": "G03F7/028",
+      "ja": "無機化合物；オニウム化合物；酸素，窒素又は硫黄以外の異種原子をもつ有機化合物［５］",
+      "en": "Inorganic compounds; Onium compounds; Organic compounds having hetero atoms other than oxygen, nitrogen or sulfur",
+      "count": 4061,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F7/031": {
+      "code": "G03F7/031",
+      "level": 4,
+      "parent": "G03F7/028",
+      "ja": "グループＧ０３Ｆ７／０２９に包含されない有機化合物［５］",
+      "en": "Organic compounds not covered by group <b>G03F7/029</b>",
+      "count": 6087,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F7/032": {
+      "code": "G03F7/032",
+      "level": 3,
+      "parent": "G03F7/027",
+      "ja": "結合剤をもつもの［５］",
+      "en": "with binders",
+      "count": 4803,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F7/033": {
+      "code": "G03F7/033",
+      "level": 4,
+      "parent": "G03F7/032",
+      "ja": "結合剤が炭素－炭素不飽和結合を含む反応のみによって得られた重合体であるもの，例．ビニル重合体［５］",
+      "en": "the binders being polymers obtained by reactions only involving carbon-to-carbon unsaturated bonds, e.g. vinyl polymers",
+      "count": 6795,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F7/035": {
+      "code": "G03F7/035",
+      "level": 4,
+      "parent": "G03F7/032",
+      "ja": "結合剤がポリウレタンであるもの［５］",
+      "en": "the binders being polyurethanes",
+      "count": 611,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F7/037": {
+      "code": "G03F7/037",
+      "level": 4,
+      "parent": "G03F7/032",
+      "ja": "結合剤がポリアミド又はポリイミドであるもの［５］",
+      "en": "the binders being polyamides or polyimides",
+      "count": 1975,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F7/038": {
+      "code": "G03F7/038",
+      "level": 2,
+      "parent": "G03F7/004",
+      "ja": "不溶性又は特異的に親水性になる高分子化合物（Ｇ０３Ｆ７／０７５が優先；高分子アジドＧ０３Ｆ７／０１２；高分子ジアゾニウム化合物Ｇ０３Ｆ７／０２１）［５］",
+      "en": "Macromolecular compounds which are rendered insoluble or differentially wettable(<b>G03F7/075</b> takes precedence; macromolecular azides <b>G03F7/012</b>; macromolecular diazonium compounds <b>G03F7/021</b>)",
+      "count": 18184,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F7/039": {
+      "code": "G03F7/039",
+      "level": 2,
+      "parent": "G03F7/004",
+      "ja": "光分解可能な高分子化合物，例．ポジ型電子レジスト（Ｇ０３Ｆ７／０７５が優先；高分子キノンジアジドＧ０３Ｆ７／０２３）［５］",
+      "en": "Macromolecular compounds which are photodegradable, e.g. positive electron resists(<b>G03F7/075</b> takes precedence; macromolecular quinonediazides <b>G03F7/023</b>)",
+      "count": 17919,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F7/04": {
+      "code": "G03F7/04",
+      "level": 2,
+      "parent": "G03F7/004",
+      "ja": "クロム酸塩（Ｇ０３Ｆ７／０７５が優先）［５］",
+      "en": "Chromates(<b>G03F7/075</b> takes precedence)",
+      "count": 714,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F7/06": {
+      "code": "G03F7/06",
+      "level": 2,
+      "parent": "G03F7/004",
+      "ja": "銀塩（Ｇ０３Ｆ７／０７５が優先）［５］",
+      "en": "Silver salts(<b>G03F7/075</b> takes precedence)",
+      "count": 1243,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F7/07": {
+      "code": "G03F7/07",
+      "level": 3,
+      "parent": "G03F7/06",
+      "ja": "拡散転写に用いられるもの［５］",
+      "en": "used for diffusion transfer",
+      "count": 1344,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F7/075": {
+      "code": "G03F7/075",
+      "level": 2,
+      "parent": "G03F7/004",
+      "ja": "シリコン含有化合物［５］",
+      "en": "Silicon-containing compounds",
+      "count": 7023,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F7/085": {
+      "code": "G03F7/085",
+      "level": 2,
+      "parent": "G03F7/004",
+      "ja": "接着促進非高分子添加剤に特徴のある感光組成物（Ｇ０３Ｆ７／０７５が優先）［５］",
+      "en": "Photosensitive compositions characterised by adhesion-promoting non-macromolecular additives(<b>G03F7/075</b> takes precedence)",
+      "count": 599,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F7/09": {
+      "code": "G03F7/09",
+      "level": 2,
+      "parent": "G03F7/004",
+      "ja": "構造の細部，例．支持体，補助層，に特徴のあるもの（印刷版用支持体一般Ｂ４１Ｎ）［５］",
+      "en": "characterised by structural details, e.g. supports, auxiliary layers(supports for printing plates in general <b>B41N</b>)",
+      "count": 7280,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F7/095": {
+      "code": "G03F7/095",
+      "level": 3,
+      "parent": "G03F7/09",
+      "ja": "２つ以上の感光層をもつもの（Ｇ０３Ｆ７／０７５が優先）［５］",
+      "en": "having more than one photosensitive layer(<b>G03F7/075</b> takes precedence)",
+      "count": 2526,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F7/105": {
+      "code": "G03F7/105",
+      "level": 3,
+      "parent": "G03F7/09",
+      "ja": "可視像を形成するための物質，例．指示薬，をもつもの［５］",
+      "en": "having substances, e.g. indicators, for forming visible images",
+      "count": 2538,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F7/11": {
+      "code": "G03F7/11",
+      "level": 3,
+      "parent": "G03F7/09",
+      "ja": "被覆層又は中間層，例．下塗層をもつもの［５］",
+      "en": "having cover layers or intermediate layers, e.g. subbing layers",
+      "count": 10259,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F7/115": {
+      "code": "G03F7/115",
+      "level": 3,
+      "parent": "G03F7/09",
+      "ja": "真空焼付においてスクリーン効果又はより良い密着を得るための手段を有する支持体又は層をもつもの［５］",
+      "en": "having supports or layers with means for obtaining a screen effect or for obtaining better contact in vacuum printing",
+      "count": 338,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F7/12": {
+      "code": "G03F7/12",
+      "level": 1,
+      "parent": "G03F7/00",
+      "ja": "スクリーン印刷版又は類似の印刷版，例．ステンシル，の製造",
+      "en": "Production of screen printing forms or similar printing forms, e.g. stencils",
+      "count": 1964,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F7/14": {
+      "code": "G03F7/14",
+      "level": 1,
+      "parent": "G03F7/00",
+      "ja": "コロタイプ印刷版の製造",
+      "en": "Production of collotype printing forms",
+      "count": 189,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F7/16": {
+      "code": "G03F7/16",
+      "level": 1,
+      "parent": "G03F7/00",
+      "ja": "塗布法；そのための装置（支持体材料への塗布一般Ｂ０５；写真目的用支持体への感光組成物の塗布Ｇ０３Ｃ１／７４）",
+      "en": "Coating processes; Apparatus therefor(applying coatings to base materials in general <b>B05</b>; applying photosensitive compositions to the base for photographic purposes <b>G03C1/74</b>)",
+      "count": 14501,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F7/18": {
+      "code": "G03F7/18",
+      "level": 2,
+      "parent": "G03F7/16",
+      "ja": "カーブした面への塗布",
+      "en": "Coating curved surfaces",
+      "count": 294,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F7/20": {
+      "code": "G03F7/20",
+      "level": 1,
+      "parent": "G03F7/00",
+      "ja": "露光；そのための装置（複製用写真焼付装置Ｇ０３Ｂ２７／００）［４］",
+      "en": "Exposure; Apparatus therefor(photographic printing apparatus for making copies <b>G03B27/00</b>)",
+      "count": 95166,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F7/207": {
+      "code": "G03F7/207",
+      "level": 2,
+      "parent": "G03F7/20",
+      "ja": "焦点調節手段，例．自動焦点調節手段（位置合わせと焦点調節との組合わせＧ０３Ｆ９／０２；投影焼付装置の自動焦点調節手段Ｇ０３Ｂ２７／３４；焦点調節信号の自動発生のためのシステム一般Ｇ０２Ｂ７／２８）［４］",
+      "en": "Means for focusing, e.g. automatically(combination of positioning and focusing <b>G03F9/02</b>; systems for automatic generation of focusing signals in general <b>G02B7/28</b>; means for automatic focusing of projection printing apparatus <b>G03B27/34</b>)",
+      "count": 1411,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F7/213": {
+      "code": "G03F7/213",
+      "level": 2,
+      "parent": "G03F7/20",
+      "ja": "同一表面の異なる位置を同一パターンで同時に露光するもの（Ｇ０３Ｆ７／２０７が優先）［４］",
+      "en": "Exposing with the same light pattern different positions of the same surface at the same time(<b>G03F7/207</b> takes precedence)",
+      "count": 143,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F7/22": {
+      "code": "G03F7/22",
+      "level": 2,
+      "parent": "G03F7/20",
+      "ja": "同一表面の異なる位置を同一パターンで逐次露光するもの（Ｇ０３Ｆ７／２０７が優先）［４］",
+      "en": "Exposing sequentially with the same light pattern different positions of the same surface(<b>G03F7/207</b> takes precedence)",
+      "count": 1650,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F7/23": {
+      "code": "G03F7/23",
+      "level": 3,
+      "parent": "G03F7/22",
+      "ja": "そのための自動的な手段［４］",
+      "en": "Automatic means therefor",
+      "count": 184,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F7/24": {
+      "code": "G03F7/24",
+      "level": 2,
+      "parent": "G03F7/20",
+      "ja": "カーブした表面への露光",
+      "en": "Curved surfaces",
+      "count": 1161,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F7/26": {
+      "code": "G03F7/26",
+      "level": 1,
+      "parent": "G03F7/00",
+      "ja": "感光材料の処理；そのための装置（Ｇ０３Ｆ７／１２～Ｇ０３Ｆ７／２４が優先）［３，５］",
+      "en": "Processing photosensitive materials; Apparatus therefor(<b>G03F7/12 to G03F7/24</b>  take precedence)",
+      "count": 11699,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F7/28": {
+      "code": "G03F7/28",
+      "level": 2,
+      "parent": "G03F7/26",
+      "ja": "粉体画像を得るためのもの（Ｇ０３Ｆ３／１０が優先）［５］",
+      "en": "for obtaining powder images(<b>G03F3/10</b> takes precedence)",
+      "count": 323,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F7/30": {
+      "code": "G03F7/30",
+      "level": 2,
+      "parent": "G03F7/26",
+      "ja": "液体手段を用いる画像様除去［５］",
+      "en": "Imagewise removal using liquid means",
+      "count": 11611,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F7/32": {
+      "code": "G03F7/32",
+      "level": 3,
+      "parent": "G03F7/30",
+      "ja": "そのための液体組成物，例．現像剤［５］",
+      "en": "Liquid compositions therefor, e.g. developers",
+      "count": 7161,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F7/34": {
+      "code": "G03F7/34",
+      "level": 2,
+      "parent": "G03F7/26",
+      "ja": "選択的転写による画像様除去，例．剥離［５］",
+      "en": "Imagewise removal by selective transfer, e.g. peeling away",
+      "count": 1341,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F7/36": {
+      "code": "G03F7/36",
+      "level": 2,
+      "parent": "G03F7/26",
+      "ja": "グループＧ０３Ｆ７／３０～Ｇ０３Ｆ７／３４に包含されない画像様除去，例．ガス流を用いるもの，プラズマを用いるもの［５］",
+      "en": "Imagewise removal not covered by groups <b>G03F7/30 to G03F7/34</b> , e.g. using gas streams, using plasma",
+      "count": 1524,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F7/38": {
+      "code": "G03F7/38",
+      "level": 2,
+      "parent": "G03F7/26",
+      "ja": "画像様除去前の処理，例．予熱［５］",
+      "en": "Treatment before imagewise removal, e.g. prebaking",
+      "count": 6006,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F7/40": {
+      "code": "G03F7/40",
+      "level": 2,
+      "parent": "G03F7/26",
+      "ja": "画像様除去後の処理，例．加熱［５］",
+      "en": "Treatment after imagewise removal, e.g. baking",
+      "count": 10919,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F7/42": {
+      "code": "G03F7/42",
+      "level": 2,
+      "parent": "G03F7/26",
+      "ja": "剥離又はそのための処理剤［５］",
+      "en": "Stripping or agents therefor",
+      "count": 6488,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F9/00": {
+      "code": "G03F9/00",
+      "level": 0,
+      "parent": "G03F",
+      "ja": "原稿，マスク，フレーム，写真シート，表面構造または模様が作成された表面，の位置決めまたは位置合わせ，例．自動的なもの（Ｇ０３Ｆ７／２２が優先；写真マスクの製造Ｇ０３Ｆ１／００；複製用写真焼付装置用のものＧ０３Ｂ２７／００）［４］",
+      "en": "Registration or positioning of originals, masks, frames, photographic sheets or textured or patterned surfaces, e.g. automatically(<b>G03F7/22</b> takes precedence; preparation of photographic masks <b>G03F1/00</b>; within photographic printing apparatus for making copies <b>G03B27/00</b>)",
+      "count": 18346,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    },
+    "G03F9/02": {
+      "code": "G03F9/02",
+      "level": 1,
+      "parent": "G03F9/00",
+      "ja": "自動焦点調節の手段と組合わせたもの（自動焦点調節一般Ｇ０２Ｂ７／０９；焦点調節信号の自動発生のためのシステムＧ０２Ｂ７／２８）［４］",
+      "en": "combined with means for automatic focusing(automatic focusing in general <b>G02B7/09</b>; systems for automatic generation of focusing signals <b>G02B7/28</b>)",
+      "count": 778,
+      "sourceFile": "ipc_G03F.txt",
+      "kind": "ipc"
+    }
+  }
+}

@@ -1,0 +1,123 @@
+window.FI_SHARD_D21G = {
+  "generatedAt": "2026-03-20T02:17:50.729Z",
+  "total": 9,
+  "entries": {
+    "D21G": {
+      "code": "D21G",
+      "level": 0,
+      "parent": null,
+      "ja": "",
+      "en": "",
+      "count": 0,
+      "ipcCode": "",
+      "fTerm": "CALENDERS; ACCESSORIES FOR PAPER-MAKING MACHINES (winders or rewinders for finished products, means for adjustment of wrinkles or lateral extensions <b>B65H</b>)",
+      "childFlag": 0,
+      "sourceFile": "fi_D.txt",
+      "kind": "fi"
+    },
+    "D21G1/00\\": {
+      "code": "D21G1/00\\",
+      "level": 0,
+      "parent": null,
+      "ja": "カレンダ（もし特別の材料に限定されているならば関連した箇所を参照，例．Ｂ２９Ｃ４３／２４，Ｄ０６）；平滑装置",
+      "en": "Calenders (if restricted to the treatment of particular materials, <u>see</u> the relevant place, e.g. B29C 43/24, D06); Smoothing apparatus",
+      "count": 1001,
+      "ipcCode": "D21G1/00",
+      "fTerm": "4L055",
+      "childFlag": 0,
+      "sourceFile": "fi_D21G.txt",
+      "kind": "fi"
+    },
+    "D21G1/02\\": {
+      "code": "D21G1/02\\",
+      "level": 1,
+      "parent": "D21G1/00\\",
+      "ja": "ロール；その軸受（一般にはＦ１６Ｃ１３／００）",
+      "en": "Rolls; Their bearings (in general F16C 13/00)",
+      "count": 298,
+      "ipcCode": "D21G1/02",
+      "fTerm": "4L055",
+      "childFlag": 1,
+      "sourceFile": "fi_D21G.txt",
+      "kind": "fi"
+    },
+    "D21G3/00\\": {
+      "code": "D21G3/00\\",
+      "level": 0,
+      "parent": null,
+      "ja": "ドクタ",
+      "en": "Doctors",
+      "count": 364,
+      "ipcCode": "D21G3/00",
+      "fTerm": "4L055",
+      "childFlag": 0,
+      "sourceFile": "fi_D21G.txt",
+      "kind": "fi"
+    },
+    "D21G3/02\\": {
+      "code": "D21G3/02\\",
+      "level": 1,
+      "parent": "D21G3/00\\",
+      "ja": "カレンダ用",
+      "en": "for calenders",
+      "count": 14,
+      "ipcCode": "D21G3/02",
+      "fTerm": "4L055",
+      "childFlag": 1,
+      "sourceFile": "fi_D21G.txt",
+      "kind": "fi"
+    },
+    "D21G3/04\\": {
+      "code": "D21G3/04\\",
+      "level": 1,
+      "parent": "D21G3/00\\",
+      "ja": "乾燥シリンダ用",
+      "en": "for drying cylinders",
+      "count": 22,
+      "ipcCode": "D21G3/04",
+      "fTerm": "4L055",
+      "childFlag": 1,
+      "sourceFile": "fi_D21G.txt",
+      "kind": "fi"
+    },
+    "D21G5/00\\": {
+      "code": "D21G5/00\\",
+      "level": 0,
+      "parent": null,
+      "ja": "安全装置",
+      "en": "Safety devices",
+      "count": 5,
+      "ipcCode": "D21G5/00",
+      "fTerm": "4L055",
+      "childFlag": 0,
+      "sourceFile": "fi_D21G.txt",
+      "kind": "fi"
+    },
+    "D21G7/00\\": {
+      "code": "D21G7/00\\",
+      "level": 0,
+      "parent": null,
+      "ja": "湿潤装置",
+      "en": "Damping devices",
+      "count": 164,
+      "ipcCode": "D21G7/00",
+      "fTerm": "4L055",
+      "childFlag": 0,
+      "sourceFile": "fi_D21G.txt",
+      "kind": "fi"
+    },
+    "D21G9/00\\": {
+      "code": "D21G9/00\\",
+      "level": 0,
+      "parent": null,
+      "ja": "抄紙機の付属品",
+      "en": "Other accessories for paper-making machines",
+      "count": 189,
+      "ipcCode": "D21G9/00",
+      "fTerm": "4L055",
+      "childFlag": 0,
+      "sourceFile": "fi_D21G.txt",
+      "kind": "fi"
+    }
+  }
+};

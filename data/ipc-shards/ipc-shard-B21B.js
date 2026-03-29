@@ -1,0 +1,1986 @@
+window.IPC_SHARD_B21B = {
+  "generatedAt": "2026-03-20T02:17:46.081Z",
+  "total": 198,
+  "entries": {
+    "B21B": {
+      "code": "B21B",
+      "level": 0,
+      "parent": "B21",
+      "ja": "金属の圧延（Ｂ２１に包含される金属加工作業に関連して使用される補助的作業はＢ２１Ｃ参照；圧延による曲げＢ２１Ｄ；圧延による特定の対象物，例．スクリュー，車輪，リング，バレル，ボール，の製造Ｂ２１Ｈ；圧延機手段による圧接Ｂ２３Ｋ２０／０４）<br><br><b><ul>注</ul></b><br>このサブクラスにおいては，下記の用語または表現は以下に示す意味で用いる：<br>―“圧延”は塑性変形を起こすロール作業を意味する；<br>―“連続工程”は素材が一対のロールから送出される以前に次の一対のロールに送込まれる様に設定された圧延機列を使用する工程を意味する。［２］<br><br><b><ul>サブクラス内の索引</ul></b><br>金属の圧延一般<br>一般的方法または装置　１／００，１１／００，１３／００，１５／００<br>制御または取扱い　３５／００，３７／００，３８／００，３９／００，４１／００<br>安全，冷却，保守　２８／００，３３／００，４３／００<br>圧延機の細部　２７／００，２９／００，３１／００<br>特別な条件下における金属圧延　９／００<br>金属の圧延に関連する補助的作業　１５／００，４５／００，４７／００<br>特殊合金の圧延　３／００<br>特定の形状に製造するための圧延<br>管<br>圧延方法　１７／００～２３／００<br>マンドレル，付属品　２５／００<br>閉鎖体の伸延　５／００<br>このサブクラスの他のグループに分類されない主題事項　９９／００",
+      "en": "ROLLING OF METAL(auxiliary operations used in connection with metal-working operations covered in <b>B21</b>, <u>see</u><b>B21C</b>; bending by rolling <b>B21D</b>; manufacture of particular objects, e.g. screws, wheels, rings, barrels, balls, by rolling <b>B21H</b>; pressure welding by means of a rolling mill <b>B23K20/04</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>In this subclass, the following terms or expressions are used with the meanings indicated:<ul><li>\"rolling\" means rolling operations in which plastic deformations occur;</li><li>\"continuous process\" means a process employing a mill train designed to have the workpiece enter one pair of rolls before leaving the preceding pair. </li></ul></li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">METAL ROLLING IN GENERAL<tr><td width=\"70%\">General methods or apparatus </td><td><b><b>1/00</b>, <b>11/00</b>, <b>13/00</b>, <b>15/00</b></b></td></tr></tr><tr><td width=\"70%\">Control or handling </td><td><b><b>35/00</b>, <b>37/00</b>, <b>38/00</b>, <b>39/00</b>, <b>41/00</b></b></td></tr></tr><tr><td width=\"70%\">Safety, cooling, maintenance </td><td><b><b>28/00</b>, <b>33/00</b>, <b>43/00</b></b></td></tr></tr><tr><td width=\"70%\">Details of rolling mills </td><td><b><b>27/00</b>, <b>29/00</b>, <b>31/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">METAL ROLLING UNDER SPECIAL CONDITIONS </td><td><b><b>9/00</b></b></td></tr></tr><tr><td width=\"70%\">AUXILIARY OPERATIONS PERFORMED IN CONNECTION WITH METAL ROLLING </td><td><b><b>15/00</b>, <b>45/00</b>, <b>47/00</b></b></td></tr></tr><tr><td width=\"70%\">ROLLING SPECIAL ALLOYS </td><td><b><b>3/00</b></b></td></tr></tr><tr><td width=\"70%\">ROLLING TO PRODUCE PARTICULAR SHAPES<tr><td width=\"70%\">Tubes<tr><td width=\"70%\">rolling methods </td><td><b><b>17/00 to 23/00</b> </b></td></tr></tr><tr><td width=\"70%\">mandrels, accessories </td><td><b><b>25/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">Extending closed shapes </td><td><b><b>5/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">SUBJECT MATTER NOT PROVIDED FOR IN OTHER GROUPS OF THIS SUBCLASS </td><td><b><b>99/00</b></b></td></tr></tr></table>",
+      "count": 1382,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B21": {
+      "code": "B21",
+      "level": 0,
+      "parent": "B",
+      "ja": "本質的には材料の除去が行なわれない機械的金属加工；金属の打抜き<br><br><b><ul>注</ul></b><br>（１）このクラスは，以下のものを包含する：<br>―金属材料の加工；［２０１５．０１］<br>―適用される方法が金属材料加工に用いられるものと類似し且つ他の分類箇所に包含されないものに限る非金属材料の加工。［２０１５．０１］<br>（２）このクラスは，以下のものを包含しない：<br>―クラスＢ２１の異ったサブクラスによって包含される作業の組合せ，これはサブクラスＢ２３Ｐに包含される；<br>―クラスＢ２１のどれか特定のサブクラスによって包含される作業と，他のクラスによって包含される作業，例．材料の除去を伴う作業，の組合せ，これもサブクラスＢ２３Ｐに包含される。ただし，もし他のクラスによって包含される作業がＢ２１の単一のサブクラスに適正に包含される作業に対し補助的である場合は，その組合せはＢ２１のサブクラスに分類される。",
+      "en": "MECHANICAL METAL-WORKING WITHOUT ESSENTIALLY REMOVING MATERIAL; PUNCHING METAL; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This class <u>covers</u>: <ul><li>working of metallic materials;</li><li>working of non-metallic materials, provided that the methods applied are similar to those used in metal-working and not provided for elsewhere.</li></ul></li><li>This class <u>does not cover</u>: <ul><li>combinations of operations covered by different subclasses of class <b>B21</b>, which are covered by subclass <b>B23P</b>;</li><li>combinations of operations covered by any particular subclass of class <b>B21</b> with operations covered by other classes, e.g. with operations involving removal of material, which are also covered by subclass <b>B23P</b>, except that if the operations covered by the other classes are subsidiary to the operations properly covered by a single subclass of <b>B21</b> the combination is classified in that subclass.</li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B": {
+      "code": "B",
+      "level": 0,
+      "parent": null,
+      "ja": "処理操作；運輸",
+      "en": "PERFORMING OPERATIONS; TRANSPORTING",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B21B1/00": {
+      "code": "B21B1/00",
+      "level": 0,
+      "parent": "B21B",
+      "ja": "中実または輪かく状断面をもつ半製品を製造するための金属圧延方法または圧延機（Ｂ２１Ｂ１７／００～Ｂ２１Ｂ２３／００が優先；圧延される材料の組成に関するものＢ２１Ｂ３／００；２箇所以上の部分で同時に圧延する金属帯閉鎖体の伸延Ｂ２１Ｂ５／００；ユニットとしての金属圧延スタンドＢ２１Ｂ１３／００；動くロールによって形成される壁をもつ鋳型への連続鋳造Ｂ２２Ｄ１１／０６）；圧延機列による連続作業；圧延機設備のレイアウト，例．スタンドの集合化；バスの連続またはカリバー形状の連続的変化",
+      "en": "Metal rolling methods or mills for making semi-finished products of solid or profiled cross-section(<b>B21B17/00 to B21B23/00</b>  take precedence; with respect to composition of material to be rolled <b>B21B3/00</b>; extending closed shapes of metal bands by simultaneous rolling at two or more zones <b>B21B5/00</b>; metal-rolling stands as units <b>B21B13/00</b>; continuous casting into moulds having walls formed by moving rolls <b>B22D11/06</b>);Sequence of operations in milling trains; Layout of rolling-mill plant, e.g. grouping of stands; Succession of passes or of sectional pass alternations",
+      "count": 2245,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B1/02": {
+      "code": "B21B1/02",
+      "level": 1,
+      "parent": "B21B1/00",
+      "ja": "断面形状が重要でない重い素材，例．インゴット，スラブ，ビレット，の圧延のためのもの",
+      "en": "for rolling heavy work, e.g. ingots, slabs, billets, in which the cross-sectional form is unimportant",
+      "count": 3224,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B1/04": {
+      "code": "B21B1/04",
+      "level": 2,
+      "parent": "B21B1/02",
+      "ja": "連続工程中におけるもの",
+      "en": "in a continuous process",
+      "count": 286,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B1/06": {
+      "code": "B21B1/06",
+      "level": 2,
+      "parent": "B21B1/02",
+      "ja": "不連続工程中におけるもの",
+      "en": "in a non-continuous process",
+      "count": 169,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B1/08": {
+      "code": "B21B1/08",
+      "level": 1,
+      "parent": "B21B1/00",
+      "ja": "特定の断面をもつ素材，例．アングル山形鋼，のためのもの",
+      "en": "for rolling work of special cross-section, e.g. angle steel(rolling metal of indefinite length in repetitive shapes specially designed for the manufacture of particular objects <b>B21H8/00</b>)",
+      "count": 4592,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B1/082": {
+      "code": "B21B1/082",
+      "level": 2,
+      "parent": "B21B1/08",
+      "ja": "壁を作るために，互いに組合わさることに特に適した平行な縁を持つ矢板の断面［８］",
+      "en": "Piling sections having lateral edges specially adapted for interlocking with each other in order to build a wall",
+      "count": 252,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B1/085": {
+      "code": "B21B1/085",
+      "level": 2,
+      "parent": "B21B1/08",
+      "ja": "レール断面［８］",
+      "en": "Rail sections",
+      "count": 445,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B1/088": {
+      "code": "B21B1/088",
+      "level": 2,
+      "parent": "B21B1/08",
+      "ja": "Ｈ－またはＩ－断面［８］",
+      "en": "H- or I-sections",
+      "count": 1403,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B1/09": {
+      "code": "B21B1/09",
+      "level": 2,
+      "parent": "B21B1/08",
+      "ja": "Ｌ－断面［８］",
+      "en": "L-sections",
+      "count": 235,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B1/092": {
+      "code": "B21B1/092",
+      "level": 2,
+      "parent": "B21B1/08",
+      "ja": "Ｔ－断面［８］",
+      "en": "T-sections",
+      "count": 121,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B1/095": {
+      "code": "B21B1/095",
+      "level": 2,
+      "parent": "B21B1/08",
+      "ja": "Ｕ－またはみぞ－断面［８］",
+      "en": "U- or channel sections",
+      "count": 327,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B1/098": {
+      "code": "B21B1/098",
+      "level": 2,
+      "parent": "B21B1/08",
+      "ja": "Ｚ－断面［８］",
+      "en": "Z-sections",
+      "count": 21,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B1/10": {
+      "code": "B21B1/10",
+      "level": 2,
+      "parent": "B21B1/08",
+      "ja": "単台の２段圧延機または単台のユニバーサル圧延機によるもの",
+      "en": "in a single two-high or universal rolling mill",
+      "count": 242,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B1/12": {
+      "code": "B21B1/12",
+      "level": 2,
+      "parent": "B21B1/08",
+      "ja": "連続工程中におけるもの",
+      "en": "in a continuous process",
+      "count": 302,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B1/14": {
+      "code": "B21B1/14",
+      "level": 2,
+      "parent": "B21B1/08",
+      "ja": "不連続工程中におけるもの",
+      "en": "in a non-continuous process",
+      "count": 89,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B1/16": {
+      "code": "B21B1/16",
+      "level": 1,
+      "parent": "B21B1/00",
+      "ja": "線材または類似の小断面を有する材料の圧延のためのもの",
+      "en": "for rolling wire or material of like small cross-section",
+      "count": 5969,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B1/18": {
+      "code": "B21B1/18",
+      "level": 2,
+      "parent": "B21B1/16",
+      "ja": "連続工程中におけるもの",
+      "en": "in a continuous process",
+      "count": 2472,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B1/20": {
+      "code": "B21B1/20",
+      "level": 2,
+      "parent": "B21B1/16",
+      "ja": "不連続工程中におけるもの",
+      "en": "in a non-continuous process",
+      "count": 280,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B1/22": {
+      "code": "B21B1/22",
+      "level": 1,
+      "parent": "B21B1/00",
+      "ja": "長さの不定な帯または板の圧延のためのもの（Ｂ２１Ｂ１／４２が優先する）",
+      "en": "for rolling bands or sheets of indefinite length(<b>B21B1/42</b> takes precedence)",
+      "count": 10816,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B1/24": {
+      "code": "B21B1/24",
+      "level": 2,
+      "parent": "B21B1/22",
+      "ja": "連続工程中におけるもの",
+      "en": "in a continuous process",
+      "count": 1030,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B1/26": {
+      "code": "B21B1/26",
+      "level": 3,
+      "parent": "B21B1/24",
+      "ja": "熱間圧延によるもの",
+      "en": "by hot-rolling",
+      "count": 5381,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B1/28": {
+      "code": "B21B1/28",
+      "level": 3,
+      "parent": "B21B1/24",
+      "ja": "冷間圧延によるもの",
+      "en": "by cold-rolling",
+      "count": 1831,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B1/30": {
+      "code": "B21B1/30",
+      "level": 2,
+      "parent": "B21B1/22",
+      "ja": "不連続工程中におけるもの",
+      "en": "in a non-continuous process",
+      "count": 231,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B1/32": {
+      "code": "B21B1/32",
+      "level": 3,
+      "parent": "B21B1/30",
+      "ja": "可逆圧延機におけるもの，例．素材を蓄積するための中間貯蔵リールをもつもの",
+      "en": "in reversing mills, e.g. with intermediate storage reels for accumulating work",
+      "count": 516,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B1/34": {
+      "code": "B21B1/34",
+      "level": 4,
+      "parent": "B21B1/32",
+      "ja": "熱間圧延によるもの",
+      "en": "by hot-rolling",
+      "count": 517,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B1/36": {
+      "code": "B21B1/36",
+      "level": 4,
+      "parent": "B21B1/32",
+      "ja": "冷間圧延によるもの",
+      "en": "by cold-rolling",
+      "count": 615,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B1/38": {
+      "code": "B21B1/38",
+      "level": 1,
+      "parent": "B21B1/00",
+      "ja": "限定された長さの板の圧延のためのもの，例．折り曲げ板，かさね板（Ｂ２１Ｂ１／４０が優先；圧延前の金属板の折重ねまたは圧延後の積層の分離Ｂ２１Ｂ４７／００）［２］",
+      "en": "for rolling sheets of limited length, e.g. folded sheets, superimposed sheets(<b>B21B1/40</b> takes precedence; folding sheets before, or separating layers after, rolling <b>B21B47/00</b>)",
+      "count": 4962,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B1/40": {
+      "code": "B21B1/40",
+      "level": 1,
+      "parent": "B21B1/00",
+      "ja": "特別な問題のある箔の圧延のためのもの，例．薄さのせいによるもの",
+      "en": "for rolling foils which present special problems, e.g. because of thinness",
+      "count": 2397,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B1/42": {
+      "code": "B21B1/42",
+      "level": 1,
+      "parent": "B21B1/00",
+      "ja": "段階圧延または遊星圧延のためのもの（ビルガー圧延による管の製造Ｂ２１Ｂ２１／００）",
+      "en": "for step-by-step or planetary rolling(making tubes by pilgrim-step rolling <b>B21B21/00</b>)",
+      "count": 328,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B1/46": {
+      "code": "B21B1/46",
+      "level": 1,
+      "parent": "B21B1/00",
+      "ja": "連続鋳造後ただちに金属を圧延するためのもの（金属圧延スタンドＢ２１Ｂ１３／２２；連続鋳造Ｂ２２Ｄ１１／００，例．ロールをもつ鋳型へのものＢ２２Ｄ１１／０６）［３］",
+      "en": "for rolling metal immediately subsequent to continuous casting(metal-rolling stands <b>B21B13/22</b>; continuous casting <b>B22D11/00</b>, e.g. into moulds with rolls <b>B22D11/06</b>)",
+      "count": 5426,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B3/00": {
+      "code": "B21B3/00",
+      "level": 0,
+      "parent": "B21B",
+      "ja": "合金の組成によって特別な圧延法または圧延順序が必要とされまたは許容される組成をもった特殊合金材料の圧延（合金の特別な冶金的性質を変えること，その結果生ずる組織の強化または機械的性質の改善Ｃ２１Ｄ，Ｃ２２Ｆ）",
+      "en": "Rolling materials of special alloys so far as the composition of the alloy requires or permits special rolling methods or sequences(altering special metallurgical properties of alloys, other than structure consolidation or mechanical properties resulting therefrom <b>C21D</b>, <b>C22F</b>)",
+      "count": 9474,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B3/02": {
+      "code": "B21B3/02",
+      "level": 1,
+      "parent": "B21B3/00",
+      "ja": "特殊鉄合金の圧延",
+      "en": "Rolling special iron alloys",
+      "count": 3879,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B5/00": {
+      "code": "B21B5/00",
+      "level": 0,
+      "parent": "B21B",
+      "ja": "圧延による金属帯閉鎖体の伸延（円筒形の製造，例．輪状リム，Ｂ２１Ｈ１／０６）",
+      "en": "Extending closed shapes of metal bands by rolling(manufacture of circular shapes, e.g. wheel rims, <b>B21H1/06</b>)",
+      "count": 360,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B9/00": {
+      "code": "B21B9/00",
+      "level": 0,
+      "parent": "B21B",
+      "ja": "特別な条件下，例．素材の酸化を防止するための真空または不活性雰囲気中などの条件下，で圧延作業を遂行するための手段；圧延機から煙霧を除去するための特別な手段",
+      "en": "Measures for carrying out rolling operations under special conditions, e.g. in vacuum or inert atmosphere to prevent oxidation of work; Special measures for removing fumes from rolling mills",
+      "count": 1168,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B11/00": {
+      "code": "B21B11/00",
+      "level": 0,
+      "parent": "B21B",
+      "ja": "ロールまたは素材に振動を与えて圧延工程を援助するもの",
+      "en": "Subsidising the rolling processes by subjecting rollers or work to vibrations",
+      "count": 182,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B13/00": {
+      "code": "B21B13/00",
+      "level": 0,
+      "parent": "B21B",
+      "ja": "金属圧延スタンド，すなわちスタンドフレーム，ロールおよび付属品からなる組立体（Ｂ２１Ｂ１７／００～Ｂ２１Ｂ２３／００が優先）［２００６．０１］",
+      "en": "Metal-rolling stands, i.e. an assembly composed of a stand frame, rolls, and accessories(<b>B21B17/00 to B21B23/00</b>  take precedence)",
+      "count": 2071,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B13/02": {
+      "code": "B21B13/02",
+      "level": 1,
+      "parent": "B21B13/00",
+      "ja": "水平に配置されたロール軸をもつもの",
+      "en": "with axes of rolls arranged horizontally",
+      "count": 3576,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B13/04": {
+      "code": "B21B13/04",
+      "level": 2,
+      "parent": "B21B13/02",
+      "ja": "三段配置",
+      "en": "Three-high arrangement",
+      "count": 365,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B13/06": {
+      "code": "B21B13/06",
+      "level": 1,
+      "parent": "B21B13/00",
+      "ja": "垂直に配置されたロール軸をもつもの",
+      "en": "with axes of rolls arranged vertically",
+      "count": 1147,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B13/08": {
+      "code": "B21B13/08",
+      "level": 1,
+      "parent": "B21B13/00",
+      "ja": "異った方向のロール軸をもつもの，例．いわゆる“ユニバーサル”圧延のためのもの",
+      "en": "with differently-directed roll axes, e.g. for the so-called \"universal\" rolling process",
+      "count": 351,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B13/10": {
+      "code": "B21B13/10",
+      "level": 2,
+      "parent": "B21B13/08",
+      "ja": "一つの面に全ての軸が配置されているもの",
+      "en": "all axes being arranged in one plane",
+      "count": 1450,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B13/12": {
+      "code": "B21B13/12",
+      "level": 2,
+      "parent": "B21B13/08",
+      "ja": "異った面に軸が配置しているもの",
+      "en": "axes being arranged in different planes",
+      "count": 606,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B13/14": {
+      "code": "B21B13/14",
+      "level": 1,
+      "parent": "B21B13/00",
+      "ja": "負荷時にロールの撓みを防ぐため，逆圧力をロールに負荷する装置をもつもの（そのようにして逆圧力を負荷する装置Ｂ２１Ｂ２９／００）",
+      "en": "having counter-pressure devices acting on rolls to inhibit deflection of same under load(counter-pressure devices as such <b>B21B29/00</b>)",
+      "count": 3654,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B13/16": {
+      "code": "B21B13/16",
+      "level": 1,
+      "parent": "B21B13/00",
+      "ja": "選択的運転が可能なロールをもつもの",
+      "en": "with alternatively operative rolls",
+      "count": 137,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B13/18": {
+      "code": "B21B13/18",
+      "level": 1,
+      "parent": "B21B13/00",
+      "ja": "段階圧延または遊星圧延のためのもの（方法Ｂ２１Ｂ１／４２；ピルガー圧延による管の製造Ｂ２１Ｂ２１／００）",
+      "en": "for step-by-step or planetary rolling(methods <b>B21B1/42</b>; making tubes by pilgrim-step rolling <b>B21B21/00</b>)",
+      "count": 394,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B13/20": {
+      "code": "B21B13/20",
+      "level": 2,
+      "parent": "B21B13/18",
+      "ja": "遊星圧延のためのもの",
+      "en": "for planetary rolling",
+      "count": 299,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B13/22": {
+      "code": "B21B13/22",
+      "level": 1,
+      "parent": "B21B13/00",
+      "ja": "連続鋳造後ただちに金属を圧延するためのもの（方法Ｂ２１Ｂ１／４６；連続鋳造Ｂ２２Ｄ１１／００，例．ロールをもつ鋳型へのものＢ２２Ｄ１１／０６）",
+      "en": "for rolling metal immediately subsequent to continuous casting(methods therefor <b>B21B1/46</b>; continuous casting <b>B22D11/00</b>, e.g. into moulds with rolls <b>B22D11/06</b>)",
+      "count": 455,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B15/00": {
+      "code": "B21B15/00",
+      "level": 0,
+      "parent": "B21B",
+      "ja": "特に金属圧延機に連結または組み込まれた，あるいは特に金属圧延機に関連する用途に適用されている付加的金属加工作業を行うための装置",
+      "en": "Arrangements for performing additional metal-working operations specially combined with or arranged in, or specially adapted for use in connection with, metal-rolling mills",
+      "count": 12234,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B15/02": {
+      "code": "B21B15/02",
+      "level": 1,
+      "parent": "B21B15/00",
+      "ja": "素材が永久的内部ねじれを受けるもの，例．コンクリートの補強棒材を製造するためのもの",
+      "en": "in which work is subjected to permanent internal twisting, e.g. for producing reinforcement bars for concrete",
+      "count": 86,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B17/00": {
+      "code": "B21B17/00",
+      "level": 0,
+      "parent": "B21B",
+      "ja": "ロール軸が素材の軸に対して本質的に垂直に配置されているロールによる管の圧延，例．“アクシャル”管圧延",
+      "en": "Tube-rolling by rollers of which the axes are arranged essentially perpendicular to the axis of the work, e.g. \"axial\" tube-rolling",
+      "count": 586,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B17/02": {
+      "code": "B21B17/02",
+      "level": 1,
+      "parent": "B21B17/00",
+      "ja": "マンドレルをもつもの（Ｂ２１Ｂ１７／０８が優先）［２］",
+      "en": "with mandrel(<b>B21B17/08</b> takes precedence)",
+      "count": 804,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B17/04": {
+      "code": "B21B17/04",
+      "level": 2,
+      "parent": "B21B17/02",
+      "ja": "連続工程におけるもの",
+      "en": "in a continuous process",
+      "count": 579,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B17/06": {
+      "code": "B21B17/06",
+      "level": 2,
+      "parent": "B21B17/02",
+      "ja": "不連続工程におけるもの",
+      "en": "in a discontinuous process",
+      "count": 66,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B17/08": {
+      "code": "B21B17/08",
+      "level": 1,
+      "parent": "B21B17/00",
+      "ja": "一個またはそれ以上の突起部を有するマンドレルをもつもの［２］",
+      "en": "with mandrel having one or more protrusions",
+      "count": 251,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B17/10": {
+      "code": "B21B17/10",
+      "level": 2,
+      "parent": "B21B17/08",
+      "ja": "連続工程におけるもの",
+      "en": "in a continuous process",
+      "count": 71,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B17/12": {
+      "code": "B21B17/12",
+      "level": 2,
+      "parent": "B21B17/08",
+      "ja": "不連続工程におけるもの",
+      "en": "in a discontinuous process",
+      "count": 137,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B17/14": {
+      "code": "B21B17/14",
+      "level": 1,
+      "parent": "B21B17/00",
+      "ja": "マンドレルのないもの",
+      "en": "without mandrel",
+      "count": 1098,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B19/00": {
+      "code": "B21B19/00",
+      "level": 0,
+      "parent": "B21B",
+      "ja": "ロールが素材の外側にあり素材軸に対して垂直に配置されていないロールによる管の圧延（ロールによる矯正Ｂ２１Ｄ）",
+      "en": "Tube-rolling by rollers arranged outside the work and having their axes not perpendicular to the axis of the work(straightening by rollers <b>B21D</b>)",
+      "count": 361,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B19/02": {
+      "code": "B21B19/02",
+      "level": 1,
+      "parent": "B21B19/00",
+      "ja": "素材軸に対して本質的に対角線上に配置されているロールによる圧延，例．“傾斜”管圧延法",
+      "en": "the axes of the rollers being arranged essentially diagonally to the axis of the work, e.g. \"cross\" tube-rolling",
+      "count": 859,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B19/04": {
+      "code": "B21B19/04",
+      "level": 2,
+      "parent": "B21B19/02",
+      "ja": "中実，すなわち中空でない，基材の圧延；穿孔",
+      "en": "Rolling basic material of solid, i.e. non-hollow, structure; Piercing",
+      "count": 2599,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B19/06": {
+      "code": "B21B19/06",
+      "level": 2,
+      "parent": "B21B19/02",
+      "ja": "中空基材の圧延（Ｂ２１Ｂ１９／０４が優先；マンドレルからの分離作業Ｂ２１Ｃ４５／００）",
+      "en": "Rolling hollow basic material(<b>B21B19/04</b> takes precedence; separating work from mandrel <b>B21C45/00</b>)",
+      "count": 748,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B19/08": {
+      "code": "B21B19/08",
+      "level": 3,
+      "parent": "B21B19/06",
+      "ja": "拡管",
+      "en": "Enlarging tube diameter",
+      "count": 222,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B19/10": {
+      "code": "B21B19/10",
+      "level": 3,
+      "parent": "B21B19/06",
+      "ja": "仕上げ加工，例．平滑化，サイジング",
+      "en": "Finishing, e.g. smoothing, sizing",
+      "count": 794,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B19/12": {
+      "code": "B21B19/12",
+      "level": 1,
+      "parent": "B21B19/00",
+      "ja": "素材軸に対して本質的に平行に配置されたロールによる圧延",
+      "en": "the axes of the rollers being arranged essentially parallel to the axis of the work",
+      "count": 221,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B19/14": {
+      "code": "B21B19/14",
+      "level": 2,
+      "parent": "B21B19/12",
+      "ja": "管内部に配置された付加ロールによる管の圧延",
+      "en": "Rolling tubes by means of additional rollers arranged inside the tubes",
+      "count": 152,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B19/16": {
+      "code": "B21B19/16",
+      "level": 2,
+      "parent": "B21B19/12",
+      "ja": "管内部に配置される付加ロールのない管の圧延",
+      "en": "Rolling tubes without additional rollers arranged inside the tubes",
+      "count": 84,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B21/00": {
+      "code": "B21B21/00",
+      "level": 0,
+      "parent": "B21B",
+      "ja": "管のピルガー圧延",
+      "en": "Pilgrim-step tube-rolling",
+      "count": 1763,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B21/02": {
+      "code": "B21B21/02",
+      "level": 1,
+      "parent": "B21B21/00",
+      "ja": "そのためのロール",
+      "en": "Rollers therefor",
+      "count": 280,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B21/04": {
+      "code": "B21B21/04",
+      "level": 1,
+      "parent": "B21B21/00",
+      "ja": "ピルガー圧延における送り機構（Ｂ２１Ｂ２１／０６が優先）",
+      "en": "Pilgrim-step feeding mechanisms(<b>B21B21/06</b> takes precedence)",
+      "count": 460,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B21/06": {
+      "code": "B21B21/06",
+      "level": 1,
+      "parent": "B21B21/00",
+      "ja": "圧延作業の合間に素材を回転させる装置",
+      "en": "Devices for revolving work between the steps",
+      "count": 248,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B23/00": {
+      "code": "B21B23/00",
+      "level": 0,
+      "parent": "B21B",
+      "ja": "グループＢ２１Ｂ１７／００，Ｂ２１Ｂ１９／００，Ｂ２１Ｂ２１／００の１つだけに分類される方法に限定されない管の圧延，例．複合された工程（Ｂ２１Ｂ２５／００が優先）",
+      "en": "Tube-rolling not restricted to methods provided for in only one of groups <b>B21B17/00 to B21B21/00</b> , e.g. combined processes(<b>B21B25/00</b> takes precedence)",
+      "count": 1781,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B25/00": {
+      "code": "B21B25/00",
+      "level": 0,
+      "parent": "B21B",
+      "ja": "金属管圧延機のためのマンドレル，例．グループＢ２１Ｂ１７／００に包含される方法に用いられる型のマンドレル；そのための付属品または補助手段",
+      "en": "Mandrels for metal tube rolling mills, e.g. mandrels of the types used in the methods covered by group <b>B21B17/00</b>; Accessories or auxiliary means therefor",
+      "count": 1775,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B25/02": {
+      "code": "B21B25/02",
+      "level": 1,
+      "parent": "B21B25/00",
+      "ja": "マンドレルの案内，支持装置または突合せ装置，例．キャリッジ；マンドレルの調整装置",
+      "en": "Guides, supports, or abutments for mandrels, e.g. carriages; Adjusting devices for mandrels",
+      "count": 959,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B25/04": {
+      "code": "B21B25/04",
+      "level": 1,
+      "parent": "B21B25/00",
+      "ja": "作業中におけるマンドレルの冷却または潤滑［２］",
+      "en": "Cooling or lubricating mandrels during operation",
+      "count": 804,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B25/06": {
+      "code": "B21B25/06",
+      "level": 1,
+      "parent": "B21B25/00",
+      "ja": "マンドレルの交換",
+      "en": "Interchanging mandrels",
+      "count": 453,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B27/00": {
+      "code": "B21B27/00",
+      "level": 0,
+      "parent": "B21B",
+      "ja": "ロール（特殊な工程に要求される加工表面の形状Ｂ２１Ｂ１／００）；使用中におけるロールの潤滑，冷却または加熱",
+      "en": "Rolls(shape of working surfaces required by special processes <b>B21B1/00</b>);Lubricating, cooling or heating rolls while in use",
+      "count": 4164,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B27/02": {
+      "code": "B21B27/02",
+      "level": 1,
+      "parent": "B21B27/00",
+      "ja": "ロールの形状または構造（特定対象物のために特に設計された繰返し形状の不定長の金属の圧延のためのものＢ２１Ｈ８／０２）",
+      "en": "Shape or construction of rolls(for rolling metal of indefinite length in repetitive shapes specially designed for the manufacture of particular objects <b>B21H8/02</b>)",
+      "count": 8729,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B27/03": {
+      "code": "B21B27/03",
+      "level": 2,
+      "parent": "B21B27/02",
+      "ja": "スリーブロール［５］",
+      "en": "Sleeved rolls",
+      "count": 2235,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B27/05": {
+      "code": "B21B27/05",
+      "level": 3,
+      "parent": "B21B27/03",
+      "ja": "撓み自在のスリーブを有するもの［５］",
+      "en": "with deflectable sleeves",
+      "count": 505,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B27/06": {
+      "code": "B21B27/06",
+      "level": 1,
+      "parent": "B21B27/00",
+      "ja": "ロールの潤滑，冷却，加熱",
+      "en": "Lubricating, cooling, or heating rolls",
+      "count": 1294,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B27/08": {
+      "code": "B21B27/08",
+      "level": 2,
+      "parent": "B21B27/06",
+      "ja": "内部からによるもの",
+      "en": "internally",
+      "count": 1369,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B27/10": {
+      "code": "B21B27/10",
+      "level": 2,
+      "parent": "B21B27/06",
+      "ja": "外部からによるもの",
+      "en": "externally",
+      "count": 4388,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B28/00": {
+      "code": "B21B28/00",
+      "level": 0,
+      "parent": "B21B",
+      "ja": "効果的状態へのロールまたは圧延装置の保守（使用中におけるロールの潤滑，冷却または加熱Ｂ２１Ｂ２７／０６）［２］",
+      "en": "Maintaining rolls or rolling equipment in effective condition(lubricating, cooling or heating rolls while in use <b>B21B27/06</b>)",
+      "count": 1929,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B28/02": {
+      "code": "B21B28/02",
+      "level": 1,
+      "parent": "B21B28/00",
+      "ja": "効果的状態へのロールの保守，例．修理［２］",
+      "en": "Maintaining rolls in effective condition, e.g. reconditioning",
+      "count": 2092,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B28/04": {
+      "code": "B21B28/04",
+      "level": 2,
+      "parent": "B21B28/02",
+      "ja": "使用中におけるもの，例．みがき［２］",
+      "en": "while in use, e.g. polishing",
+      "count": 1665,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B29/00": {
+      "code": "B21B29/00",
+      "level": 0,
+      "parent": "B21B",
+      "ja": "負荷時にロールの撓みを防ぐためロールに逆圧力を作用させる装置，例．ロールの背圧付与",
+      "en": "Counter-pressure devices acting on rolls to inhibit deflection of same under load, e.g. backing rolls",
+      "count": 2032,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B31/00": {
+      "code": "B21B31/00",
+      "level": 0,
+      "parent": "B21B",
+      "ja": "圧延スタンドの構造；ロール，ロール取付け具またはスタンドフレームの取付け，調整または交換",
+      "en": "Rolling stand structures; Mounting, adjusting, or interchanging rolls, roll mountings, or stand frames",
+      "count": 1589,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B31/02": {
+      "code": "B21B31/02",
+      "level": 1,
+      "parent": "B21B31/00",
+      "ja": "圧延スタンドのフレーム；ロール取付け具",
+      "en": "Rolling stand frames; Roll mountings",
+      "count": 4376,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B31/04": {
+      "code": "B21B31/04",
+      "level": 2,
+      "parent": "B21B31/02",
+      "ja": "タイロッドをもつもの，例．プレストレスタイロッド",
+      "en": "with tie rods, e.g. prestressed tie rods",
+      "count": 491,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B31/06": {
+      "code": "B21B31/06",
+      "level": 2,
+      "parent": "B21B31/02",
+      "ja": "基礎架台，例．ソールプレート，へのスタンドまたはフレームの固定（一般Ｆ１６Ｍ）",
+      "en": "Fastening stands or frames to foundation, e.g. to the sole plate(in general <b>F16M</b>)",
+      "count": 399,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B31/07": {
+      "code": "B21B31/07",
+      "level": 1,
+      "parent": "B21B31/00",
+      "ja": "ロール軸受の適用（軸受一般Ｆ１６Ｃ）［２］",
+      "en": "Adaptation of roll bearings(bearings in general <b>F16C</b>)",
+      "count": 2817,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B31/08": {
+      "code": "B21B31/08",
+      "level": 1,
+      "parent": "B21B31/00",
+      "ja": "ロール，ロール取付け具またはスタンドフレームの交換［２］",
+      "en": "Interchanging rolls, roll mountings, or stand frames",
+      "count": 3823,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B31/10": {
+      "code": "B21B31/10",
+      "level": 2,
+      "parent": "B21B31/08",
+      "ja": "水平状態の置換によるもの",
+      "en": "by horizontally displacing",
+      "count": 2321,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B31/12": {
+      "code": "B21B31/12",
+      "level": 2,
+      "parent": "B21B31/08",
+      "ja": "垂直状態の置換によるもの",
+      "en": "by vertically displacing",
+      "count": 531,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B31/14": {
+      "code": "B21B31/14",
+      "level": 2,
+      "parent": "B21B31/08",
+      "ja": "枢軸状態の置換によるもの",
+      "en": "by pivotally displacing",
+      "count": 180,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B31/16": {
+      "code": "B21B31/16",
+      "level": 1,
+      "parent": "B21B31/00",
+      "ja": "ロールの調整（制御装置Ｂ２１Ｂ３７／００）",
+      "en": "Adjusting rolls(control devices <b>B21B37/00</b>)",
+      "count": 1624,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B31/18": {
+      "code": "B21B31/18",
+      "level": 2,
+      "parent": "B21B31/16",
+      "ja": "軸方向にロールを移動させることによるもの",
+      "en": "by moving rolls axially",
+      "count": 1750,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B31/20": {
+      "code": "B21B31/20",
+      "level": 2,
+      "parent": "B21B31/16",
+      "ja": "ロール軸に対して垂直にロールを移動させることによるもの",
+      "en": "by moving rolls perpendicularly to roll axis",
+      "count": 1574,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B31/22": {
+      "code": "B21B31/22",
+      "level": 3,
+      "parent": "B21B31/20",
+      "ja": "機械的なもの",
+      "en": "mechanically",
+      "count": 910,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B31/24": {
+      "code": "B21B31/24",
+      "level": 4,
+      "parent": "B21B31/22",
+      "ja": "ねじによるもの",
+      "en": "by screws",
+      "count": 1660,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B31/26": {
+      "code": "B21B31/26",
+      "level": 4,
+      "parent": "B21B31/22",
+      "ja": "偏心して設置されたロール軸受の調節",
+      "en": "Adjusting eccentrically-mounted roll bearings",
+      "count": 507,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B31/28": {
+      "code": "B21B31/28",
+      "level": 4,
+      "parent": "B21B31/22",
+      "ja": "トッグルレバー機構によるもの",
+      "en": "by toggle-lever mechanisms",
+      "count": 120,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B31/30": {
+      "code": "B21B31/30",
+      "level": 4,
+      "parent": "B21B31/22",
+      "ja": "くさびまたはそれに相当するものによるもの",
+      "en": "by wedges or their equivalent",
+      "count": 500,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B31/32": {
+      "code": "B21B31/32",
+      "level": 3,
+      "parent": "B21B31/20",
+      "ja": "液圧によるもの",
+      "en": "by liquid pressure",
+      "count": 1797,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B33/00": {
+      "code": "B21B33/00",
+      "level": 0,
+      "parent": "B21B",
+      "ja": "他に分類されない安全装置（安全装置一般Ｆ１６Ｐ）；安全臼；かみ込んだロールを自由にする装置［２］",
+      "en": "Safety devices not otherwise provided for(safety devices in general <b>F16P</b>);Breaker blocks; Devices for freeing jammed rolls",
+      "count": 2793,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B33/02": {
+      "code": "B21B33/02",
+      "level": 1,
+      "parent": "B21B33/00",
+      "ja": "ロール破損を防止するもの［２］",
+      "en": "Preventing fracture of rolls",
+      "count": 167,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B35/00": {
+      "code": "B21B35/00",
+      "level": 0,
+      "parent": "B21B",
+      "ja": "金属圧延機の駆動",
+      "en": "Drives for metal-rolling mills",
+      "count": 1277,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B35/02": {
+      "code": "B21B35/02",
+      "level": 1,
+      "parent": "B21B35/00",
+      "ja": "連続的に作業する圧延機のためのもの（Ｂ２１Ｂ３５／１０，Ｂ２１Ｂ３５／１２が優先）",
+      "en": "for continuously-operating mills(<b>B21B35/10</b>, <b>B21B35/12</b> take precedence)",
+      "count": 388,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B35/04": {
+      "code": "B21B35/04",
+      "level": 2,
+      "parent": "B21B35/02",
+      "ja": "スタンド毎に１または複数のモータを有する各スタンド",
+      "en": "each stand having its own motor or motors",
+      "count": 204,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B35/06": {
+      "code": "B21B35/06",
+      "level": 1,
+      "parent": "B21B35/00",
+      "ja": "不連続に作業する圧延機または単独のスタンドのためのもの（Ｂ２１Ｂ３５／１０，Ｂ２１Ｂ３５／１２が優先）",
+      "en": "for non-continuously-operating mills or for single stands(<b>B21B35/10</b>, <b>B21B35/12</b> take precedence)",
+      "count": 299,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B35/08": {
+      "code": "B21B35/08",
+      "level": 2,
+      "parent": "B21B35/06",
+      "ja": "可逆圧延機のためのもの",
+      "en": "for reversing rolling mills",
+      "count": 111,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B35/10": {
+      "code": "B21B35/10",
+      "level": 1,
+      "parent": "B21B35/00",
+      "ja": "低出力駆動用のロール駆動装置；他のロール軸から駆動力を受けるロール駆動装置［２］",
+      "en": "Driving arrangements for rolls which have only a low-power drive; Driving arrangements for rolls which receive power from the shaft of another roll",
+      "count": 300,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B35/12": {
+      "code": "B21B35/12",
+      "level": 1,
+      "parent": "B21B35/00",
+      "ja": "特に金属圧延機に適用される歯車をそなえた伝動装置；そのためのハウジングまたは取付け具",
+      "en": "Toothed-wheel gearings specially adapted for metal-rolling mills; Housings or mountings therefor",
+      "count": 1559,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B35/14": {
+      "code": "B21B35/14",
+      "level": 1,
+      "parent": "B21B35/00",
+      "ja": "金属圧延機に特に適用されるまたは特に装備される継ぎ手，駆動スピンドル，スピンドルキャリヤー（カップリングまたはシャフト一般Ｆ１６）",
+      "en": "Couplings, driving spindles, or spindle carriers specially adapted for or specially arranged in metal-rolling mills(couplings or shafts in general <b>F16</b>)",
+      "count": 2725,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B37/00": {
+      "code": "B21B37/00",
+      "level": 0,
+      "parent": "B21B",
+      "ja": "金属圧延機またはそれで製造した製品に特に適用される制御装置または方法（金属圧延機に特に適用される測定方法または装置Ｂ２１Ｂ３８／００）",
+      "en": "Control devices or methods specially adapted for metal-rolling mills or the work produced thereby(methods or devices for measuring specially adapted for metal-rolling mills <b>B21B38/00</b>)",
+      "count": 15547,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B37/16": {
+      "code": "B21B37/16",
+      "level": 1,
+      "parent": "B21B37/00",
+      "ja": "厚さ，幅，直径またはその他横断寸法の制御（Ｂ２１Ｂ３７／５８が優先）［６］",
+      "en": "Control of thickness, width, diameter or other transverse dimensions(<b>B21B37/58</b> takes precedence)",
+      "count": 2854,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B37/18": {
+      "code": "B21B37/18",
+      "level": 2,
+      "parent": "B21B37/16",
+      "ja": "自動板厚制御［ＡＧＣ］［６］",
+      "en": "Automatic gauge control",
+      "count": 2573,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B37/20": {
+      "code": "B21B37/20",
+      "level": 3,
+      "parent": "B21B37/18",
+      "ja": "タンデムミルにおけるもの［６］",
+      "en": "in tandem mills",
+      "count": 261,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B37/22": {
+      "code": "B21B37/22",
+      "level": 2,
+      "parent": "B21B37/16",
+      "ja": "横方向伸び制御；幅制御，例．エッジ圧延によるもの［６］",
+      "en": "Lateral spread control; Width control, e.g. by edge rolling",
+      "count": 954,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B37/24": {
+      "code": "B21B37/24",
+      "level": 2,
+      "parent": "B21B37/16",
+      "ja": "予定のプログラムに応じて厚さを自動的に変えるもの［２００６．０１］",
+      "en": "Automatic variation of thickness according to a predetermined program",
+      "count": 536,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B37/26": {
+      "code": "B21B37/26",
+      "level": 3,
+      "parent": "B21B37/24",
+      "ja": "種々の一定厚さの連続長さをもつ１つの帯材を得るためのもの［６］",
+      "en": "for obtaining one strip having successive lengths of different constant thickness",
+      "count": 458,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B37/28": {
+      "code": "B21B37/28",
+      "level": 1,
+      "parent": "B21B37/00",
+      "ja": "帯材，薄板材または板材の圧延中の平坦度または形状の制御［６］",
+      "en": "Control of flatness or profile during rolling of strip, sheets or plates",
+      "count": 3171,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B37/30": {
+      "code": "B21B37/30",
+      "level": 2,
+      "parent": "B21B37/28",
+      "ja": "ロールキャンバー制御を用いるもの［６］",
+      "en": "using roll camber control",
+      "count": 711,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B37/32": {
+      "code": "B21B37/32",
+      "level": 3,
+      "parent": "B21B37/30",
+      "ja": "ロールの冷却，加熱または潤滑によるもの［６］",
+      "en": "by cooling, heating or lubricating the rolls",
+      "count": 675,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B37/34": {
+      "code": "B21B37/34",
+      "level": 3,
+      "parent": "B21B37/30",
+      "ja": "ロールの液圧膨張によるもの［６］",
+      "en": "by hydraulic expansion of the rolls",
+      "count": 146,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B37/36": {
+      "code": "B21B37/36",
+      "level": 3,
+      "parent": "B21B37/30",
+      "ja": "液圧支持手段により非回転ロールシャフト上におけるロールスリーブの半径方向変位によるもの［６］",
+      "en": "by radial displacement of the roll sleeve on a stationary roll beam by means of hydraulic supports",
+      "count": 62,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B37/38": {
+      "code": "B21B37/38",
+      "level": 2,
+      "parent": "B21B37/28",
+      "ja": "ロールベンディングを用いるもの（Ｂ２１Ｂ３７／４２が優先）［６］",
+      "en": "using roll bending(<b>B21B37/42</b> takes precedence)",
+      "count": 1219,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B37/40": {
+      "code": "B21B37/40",
+      "level": 2,
+      "parent": "B21B37/28",
+      "ja": "ロールの軸方向移動を用いるもの（Ｂ２１Ｂ３７／４２が優先）［６］",
+      "en": "using axial shifting of the rolls(<b>B21B37/42</b> takes precedence)",
+      "count": 293,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B37/42": {
+      "code": "B21B37/42",
+      "level": 2,
+      "parent": "B21B37/28",
+      "ja": "ロールベンディングとロールの軸方向移動の組合せを用いるもの［６］",
+      "en": "using a combination of roll bending and axial shifting of the rolls",
+      "count": 668,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B37/44": {
+      "code": "B21B37/44",
+      "level": 2,
+      "parent": "B21B37/28",
+      "ja": "製品の加熱，潤滑または水噴霧冷却を用いるもの［６］",
+      "en": "using heating, lubricating or water-spray cooling of the product",
+      "count": 461,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B37/46": {
+      "code": "B21B37/46",
+      "level": 1,
+      "parent": "B21B37/00",
+      "ja": "ロールの速度または駆動モーター制御（Ｂ２１Ｂ３７／５２，Ｂ２１Ｂ３７／６０が優先）［６］",
+      "en": "Roll speed or drive motor control(<b>B21B37/52</b>, <b>B21B37/60</b> take precedence)",
+      "count": 2521,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B37/48": {
+      "code": "B21B37/48",
+      "level": 1,
+      "parent": "B21B37/00",
+      "ja": "張力制御；圧縮力制御［６］",
+      "en": "Tension control; Compression control",
+      "count": 2398,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B37/50": {
+      "code": "B21B37/50",
+      "level": 2,
+      "parent": "B21B37/48",
+      "ja": "ルーパー制御によるもの［６］",
+      "en": "by looper control",
+      "count": 896,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B37/52": {
+      "code": "B21B37/52",
+      "level": 2,
+      "parent": "B21B37/48",
+      "ja": "駆動モーター制御によるもの［６］",
+      "en": "by drive motor control",
+      "count": 663,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B37/54": {
+      "code": "B21B37/54",
+      "level": 3,
+      "parent": "B21B37/52",
+      "ja": "巻取巻戻機の駆動制御を含むもの，例．可逆圧延機［６］",
+      "en": "including coiler drive control, e.g. reversing mills",
+      "count": 374,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B37/56": {
+      "code": "B21B37/56",
+      "level": 1,
+      "parent": "B21B37/00",
+      "ja": "伸び率制御［６］",
+      "en": "Elongation control",
+      "count": 677,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B37/58": {
+      "code": "B21B37/58",
+      "level": 1,
+      "parent": "B21B37/00",
+      "ja": "ロール圧下力制御；ロール間隙制御［６］",
+      "en": "Roll-force control; Roll-gap control",
+      "count": 3190,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B37/60": {
+      "code": "B21B37/60",
+      "level": 2,
+      "parent": "B21B37/58",
+      "ja": "圧下スクリューを駆動するモーター制御によるもの［６］",
+      "en": "by control of a motor which drives an adjusting screw",
+      "count": 256,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B37/62": {
+      "code": "B21B37/62",
+      "level": 2,
+      "parent": "B21B37/58",
+      "ja": "液圧調整装置の制御によるもの［６］",
+      "en": "by control of a hydraulic adjusting device",
+      "count": 788,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B37/64": {
+      "code": "B21B37/64",
+      "level": 2,
+      "parent": "B21B37/58",
+      "ja": "ミル剛性またはロール剛性補償システム，例．プレストレス圧延スタンドの制御［６］",
+      "en": "Mill spring or roll spring compensation systems, e.g. control of prestressed mill stands",
+      "count": 243,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B37/66": {
+      "code": "B21B37/66",
+      "level": 2,
+      "parent": "B21B37/58",
+      "ja": "ロール偏心補償システム［６］",
+      "en": "Roll eccentricity compensation systems",
+      "count": 421,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B37/68": {
+      "code": "B21B37/68",
+      "level": 1,
+      "parent": "B21B37/00",
+      "ja": "帯材，薄板材または板材のためのキャンバーまたはステアリング制御，例．曲がりくねりを防ぐもの［６］",
+      "en": "Camber or steering control for strip, sheets or plates, e.g. preventing meandering",
+      "count": 1232,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B37/70": {
+      "code": "B21B37/70",
+      "level": 1,
+      "parent": "B21B37/00",
+      "ja": "長さ制御（Ｂ２１Ｂ３７／５６が優先）［６］",
+      "en": "Length control(<b>B21B37/56</b> takes precedence)",
+      "count": 227,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B37/72": {
+      "code": "B21B37/72",
+      "level": 1,
+      "parent": "B21B37/00",
+      "ja": "後端制御；前端制御［６］",
+      "en": "Rear end control; Front end control",
+      "count": 696,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B37/74": {
+      "code": "B21B37/74",
+      "level": 1,
+      "parent": "B21B37/00",
+      "ja": "温度制御，例．ロールまたは製品の冷却または加熱によるもの（Ｂ２１Ｂ３７／３２，Ｂ２１Ｂ３７／４４が優先）［６］",
+      "en": "Temperature control, e.g. by cooling or heating the rolls or the product(<b>B21B37/32</b>, <b>B21B37/44</b> take precedence)",
+      "count": 7495,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B37/76": {
+      "code": "B21B37/76",
+      "level": 2,
+      "parent": "B21B37/74",
+      "ja": "ランアウトテーブルの冷却制御［６］",
+      "en": "Cooling control on the run-out table",
+      "count": 1620,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B37/78": {
+      "code": "B21B37/78",
+      "level": 1,
+      "parent": "B21B37/00",
+      "ja": "管圧延の制御［６］",
+      "en": "Control of tube rolling",
+      "count": 1145,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B38/00": {
+      "code": "B21B38/00",
+      "level": 0,
+      "parent": "B21B",
+      "ja": "金属圧延機に特に適用される測定方法または装置，例．位置探知，製品検査［６］",
+      "en": "Methods or devices for measuring specially adapted for metal-rolling mills, e.g. position detection, inspection of the product",
+      "count": 6120,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B38/02": {
+      "code": "B21B38/02",
+      "level": 1,
+      "parent": "B21B38/00",
+      "ja": "帯材の平坦度または形状を測定するためのもの［６］",
+      "en": "for measuring flatness or profile of strips",
+      "count": 1460,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B38/04": {
+      "code": "B21B38/04",
+      "level": 1,
+      "parent": "B21B38/00",
+      "ja": "製品の厚さ，幅，直径またはその他の横断寸法を測定するためのもの［６］",
+      "en": "for measuring thickness, width, diameter or other transverse dimensions of the product",
+      "count": 1591,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B38/06": {
+      "code": "B21B38/06",
+      "level": 1,
+      "parent": "B21B38/00",
+      "ja": "張力または圧縮力を測定するためのもの［６］",
+      "en": "for measuring tension or compression",
+      "count": 711,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B38/08": {
+      "code": "B21B38/08",
+      "level": 1,
+      "parent": "B21B38/00",
+      "ja": "ロール圧力を測定するためのもの［６］",
+      "en": "for measuring roll-force",
+      "count": 458,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B38/10": {
+      "code": "B21B38/10",
+      "level": 1,
+      "parent": "B21B38/00",
+      "ja": "ロール間隙を測定するためのもの，例．パス表示器［６］",
+      "en": "for measuring roll-gap, e.g. pass indicators",
+      "count": 934,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B38/12": {
+      "code": "B21B38/12",
+      "level": 1,
+      "parent": "B21B38/00",
+      "ja": "ロールキャンバーを測定するためのもの［６］",
+      "en": "for measuring roll camber",
+      "count": 286,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B39/00": {
+      "code": "B21B39/00",
+      "level": 0,
+      "parent": "B21B",
+      "ja": "金属圧延機に連結され，または組込まれ，またはそれに関連する用途に特に適用されて，素材を移送し，支持し，または位置決めし，または素材の移送を制御する装置（ループまたはわん曲状での可撓性素材の案内，運搬，蓄積Ｂ２１Ｂ４１／００；特に冷却床に関係するものＢ２１Ｂ４３／００；運搬または移送一般Ｂ６５Ｇ）",
+      "en": "Arrangements for moving, supporting, or positioning work, or controlling its movement, combined with or arranged in, or specially adapted for use in connection with, metal-rolling mills(guiding, conveying, or accumulating easily-flexible work in loops or curves <b>B21B41/00</b>; specially associated with cooling-beds <b>B21B43/00</b>; conveying or transporting in general <b>B65G</b>)",
+      "count": 6242,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B39/02": {
+      "code": "B21B39/02",
+      "level": 1,
+      "parent": "B21B39/00",
+      "ja": "素材の供給または支持；制動装置または張力装置",
+      "en": "Feeding or supporting work; Braking or tensioning arrangements",
+      "count": 4002,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B39/04": {
+      "code": "B21B39/04",
+      "level": 2,
+      "parent": "B21B39/02",
+      "ja": "送り込みを目的とする素材の昇降，例．パスの直前直後に配置されるティルティングテーブル（そのような反転または類似の操作手段Ｂ２１Ｂ３９／２０）",
+      "en": "Lifting or lowering work for conveying purposes, e.g. tilting tables arranged immediately in front of or behind the pass(turn-over or like manipulating means as such <b>B21B39/20</b>)",
+      "count": 683,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B39/06": {
+      "code": "B21B39/06",
+      "level": 2,
+      "parent": "B21B39/02",
+      "ja": "パスへの素材の押し付けまたは押し込み",
+      "en": "Pushing or forcing work into pass",
+      "count": 607,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B39/08": {
+      "code": "B21B39/08",
+      "level": 2,
+      "parent": "B21B39/02",
+      "ja": "制動または張力装置",
+      "en": "Braking or tensioning arrangements",
+      "count": 1591,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B39/10": {
+      "code": "B21B39/10",
+      "level": 2,
+      "parent": "B21B39/02",
+      "ja": "圧延スタンド中のフィードロールの配置またはその据えつけ",
+      "en": "Arrangement or installation of feeding rollers in rolling stands",
+      "count": 584,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B39/12": {
+      "code": "B21B39/12",
+      "level": 2,
+      "parent": "B21B39/02",
+      "ja": "圧延スタンドに関連するローラーテーブルの配置またはその据え付け",
+      "en": "Arrangement or installation of roller tables in relation to a roll stand",
+      "count": 1270,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B39/14": {
+      "code": "B21B39/14",
+      "level": 1,
+      "parent": "B21B39/00",
+      "ja": "素材の案内，位置決め，または整列（Ｂ２１Ｂ４３／１２が優先；素材が永久内部ねじれを受けるものの案内Ｂ２１Ｂ１５／０２）",
+      "en": "Guiding, positioning or aligning work(<b>B21B43/12</b> takes precedence; guides in which work is subjected to permanent internal twisting <b>B21B15/02</b>)",
+      "count": 7158,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B39/16": {
+      "code": "B21B39/16",
+      "level": 2,
+      "parent": "B21B39/14",
+      "ja": "パスへの進入直前または通過直後ただちに行うもの",
+      "en": "immediately before entering or after leaving the pass",
+      "count": 5044,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B39/18": {
+      "code": "B21B39/18",
+      "level": 2,
+      "parent": "B21B39/14",
+      "ja": "金属圧延機または圧延機列中での素材の方向変換",
+      "en": "Switches for directing work in metal-rolling mills or trains",
+      "count": 435,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B39/20": {
+      "code": "B21B39/20",
+      "level": 1,
+      "parent": "B21B39/00",
+      "ja": "素材の回転，反転または類似の操作（加工物が永久内部ねじれを受けるものの案内Ｂ２１Ｂ１５／０２）",
+      "en": "Revolving, turning-over, or like manipulation of work(guides in which work is subjected to permanent internal twisting <b>B21B15/02</b>)",
+      "count": 1339,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B39/22": {
+      "code": "B21B39/22",
+      "level": 2,
+      "parent": "B21B39/20",
+      "ja": "傾斜によるもの，例．レバーまたはくさびにより一端をもち上げることによるもの（Ｂ２１Ｂ３９／２６，Ｂ２１Ｂ３９／２８が優先）",
+      "en": "by tipping, e.g. by lifting one side by levers or wedges(<b>B21B39/26</b>, <b>B21B39/28</b> take precedence)",
+      "count": 433,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B39/24": {
+      "code": "B21B39/24",
+      "level": 2,
+      "parent": "B21B39/20",
+      "ja": "トングまたはグリッパーによるもの",
+      "en": "by tongs or grippers",
+      "count": 268,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B39/26": {
+      "code": "B21B39/26",
+      "level": 2,
+      "parent": "B21B39/20",
+      "ja": "素材を回転させるために，素材の両側に係合し，互いに相対的に動く部材，例．溝のある，によるもの",
+      "en": "by members, e.g. grooved, engaging opposite sides of the work and moved relatively to each other to revolve the work",
+      "count": 107,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B39/28": {
+      "code": "B21B39/28",
+      "level": 2,
+      "parent": "B21B39/20",
+      "ja": "素材の通過中に素材を回転するように形成された案内部材によるもの",
+      "en": "by means of guide members shaped to revolve the work during its passage",
+      "count": 206,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B39/30": {
+      "code": "B21B39/30",
+      "level": 2,
+      "parent": "B21B39/20",
+      "ja": "回転するリングマニプレータまたはリングセグメントマニプレータに加工物を置くことによるもの",
+      "en": "by lodging it in a rotating ring manipulator or ring segment manipulator",
+      "count": 139,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B39/32": {
+      "code": "B21B39/32",
+      "level": 2,
+      "parent": "B21B39/20",
+      "ja": "板を反転させるために特に適用される装置",
+      "en": "Devices specially adapted for turning sheets",
+      "count": 316,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B39/34": {
+      "code": "B21B39/34",
+      "level": 1,
+      "parent": "B21B39/00",
+      "ja": "グループＢ２１Ｂ３９／０２，Ｂ２１Ｂ３９／１４，Ｂ２１Ｂ３９／２０の１グループ以上に包含される作用を遂行するために特に設計された装置または構造的結合",
+      "en": "Arrangements or constructional combinations specifically designed to perform functions covered by more than one of groups <b>B21B39/02</b>, <b>B21B39/14</b>, <b>B21B39/20</b>",
+      "count": 577,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B41/00": {
+      "code": "B21B41/00",
+      "level": 0,
+      "parent": "B21B",
+      "ja": "ループ状またはわん曲状での可撓性素材，例．線材，金属帯板，の案内，運搬または蓄積；ループ昇降機",
+      "en": "Guiding, conveying, or accumulating easily-flexible work, e.g. wire, sheet metal bands, in loops or curves; Loop lifters",
+      "count": 2111,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B41/02": {
+      "code": "B21B41/02",
+      "level": 1,
+      "parent": "B21B41/00",
+      "ja": "パスを繰り返すための素材の戻し",
+      "en": "Returning work to repeat the pass or passes",
+      "count": 68,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B41/04": {
+      "code": "B21B41/04",
+      "level": 2,
+      "parent": "B21B41/02",
+      "ja": "圧延スタンドまたはロールの上または下でのもの",
+      "en": "above or underneath the rolling stand or rolls",
+      "count": 63,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B41/06": {
+      "code": "B21B41/06",
+      "level": 1,
+      "parent": "B21B41/00",
+      "ja": "素材の運動方向をほぼ１８０°変えるためのもの",
+      "en": "in which the direction of movement of the work is turned through approximately 180&deg",
+      "count": 232,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B41/08": {
+      "code": "B21B41/08",
+      "level": 1,
+      "parent": "B21B41/00",
+      "ja": "素材の運動の主たる方向を全部は変えないもの",
+      "en": "without overall change in the general direction of movement of the work",
+      "count": 244,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B41/10": {
+      "code": "B21B41/10",
+      "level": 2,
+      "parent": "B21B41/08",
+      "ja": "ループディフレクター",
+      "en": "Loop deflectors",
+      "count": 217,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B41/12": {
+      "code": "B21B41/12",
+      "level": 1,
+      "parent": "B21B41/00",
+      "ja": "操作を指示または制御するための設備に関してのみ重要な装置",
+      "en": "Arrangements of interest only with respect to provision for indicating or controlling operations",
+      "count": 194,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B43/00": {
+      "code": "B21B43/00",
+      "level": 0,
+      "parent": "B21B",
+      "ja": "固定式または可動式の冷却床；特に冷却床と関連した手段，例．素材を制動するための手段または冷却床へもしくは冷却床から素材を運搬するための手段（運搬手段一般Ｂ６５Ｇ）",
+      "en": "Cooling beds, whether stationary or moving; Means specially associated with cooling beds, e.g. for braking work or for transferring it to or from the bed(conveying means in general <b>B65G</b>)",
+      "count": 3058,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B43/02": {
+      "code": "B21B43/02",
+      "level": 1,
+      "parent": "B21B43/00",
+      "ja": "レーキまたはバーから成る冷却床（Ｂ２１Ｂ４３／１０が優先）［２］",
+      "en": "Cooling beds comprising rakes or bars(<b>B21B43/10</b> takes precedence)",
+      "count": 316,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B43/04": {
+      "code": "B21B43/04",
+      "level": 1,
+      "parent": "B21B43/00",
+      "ja": "ロールまたはウォームから成る冷却床",
+      "en": "Cooling beds comprising rolls or worms",
+      "count": 444,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B43/06": {
+      "code": "B21B43/06",
+      "level": 1,
+      "parent": "B21B43/00",
+      "ja": "キャリッジから成る冷却床（Ｂ２１Ｂ４３／０８が優先）",
+      "en": "Cooling beds comprising carriages(<b>B21B43/08</b> takes precedence)",
+      "count": 48,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B43/08": {
+      "code": "B21B43/08",
+      "level": 1,
+      "parent": "B21B43/00",
+      "ja": "回転ドラムまたは循環チェーンから成る冷却床",
+      "en": "Cooling beds comprising revolving drums or recycling chains",
+      "count": 189,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B43/10": {
+      "code": "B21B43/10",
+      "level": 1,
+      "parent": "B21B43/00",
+      "ja": "冷却床を通じて素材を移動させる他の要素を有した冷却床",
+      "en": "Cooling beds with other work-shifting elements projecting through the bed",
+      "count": 150,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B43/12": {
+      "code": "B21B43/12",
+      "level": 1,
+      "parent": "B21B43/00",
+      "ja": "素材片の整列装置，すなわち冷却床上または同調コンベヤ上で素材の全軸端を整列させるもの［２］",
+      "en": "Devices for positioning workpieces \"flushed\", i.e. with all their axial ends arranged in line on cooling beds or on co-operating conveyors",
+      "count": 254,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B45/00": {
+      "code": "B21B45/00",
+      "level": 0,
+      "parent": "B21B",
+      "ja": "金属圧延機に特に連結され，組込まれ，または関連した用途に特に適用される素材の表面処理装置（Ｂ２１Ｂ１５／００が優先；脱スケール装置の技術的特徴Ｂ２１Ｃ４３／００）",
+      "en": "Devices for surface treatment of work, specially combined with or arranged in, or specially adapted for use in connection with, metal-rolling mills(<b>B21B15/00</b> takes precedence; technical features of scaling-off devices <b>B21C43/00</b>)",
+      "count": 6363,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B45/02": {
+      "code": "B21B45/02",
+      "level": 1,
+      "parent": "B21B45/00",
+      "ja": "潤滑，冷却，清浄のためのもの",
+      "en": "for lubricating, cooling, or cleaning",
+      "count": 19390,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B45/04": {
+      "code": "B21B45/04",
+      "level": 1,
+      "parent": "B21B45/00",
+      "ja": "デスケーリングのためのもの",
+      "en": "for de-scaling",
+      "count": 2306,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B45/06": {
+      "code": "B21B45/06",
+      "level": 2,
+      "parent": "B21B45/04",
+      "ja": "帯材のもの（Ｂ２１Ｂ４５／０８が優先）",
+      "en": "of strip material(<b>B21B45/08</b> takes precedence)",
+      "count": 2331,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B45/08": {
+      "code": "B21B45/08",
+      "level": 2,
+      "parent": "B21B45/04",
+      "ja": "水圧によるもの",
+      "en": "hydraulically",
+      "count": 3077,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B47/00": {
+      "code": "B21B47/00",
+      "level": 0,
+      "parent": "B21B",
+      "ja": "多層金属板の圧延に関する補助具，装置または方法（均熱炉Ｃ２１Ｄ９／７０）［２］",
+      "en": "Auxiliary arrangements, devices or methods in connection with rolling of multi-layer sheets of metal(soaking pits <b>C21D9/70</b>)",
+      "count": 887,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B47/02": {
+      "code": "B21B47/02",
+      "level": 1,
+      "parent": "B21B47/00",
+      "ja": "圧延前の板の折り重ね",
+      "en": "for folding sheets before rolling",
+      "count": 207,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B47/04": {
+      "code": "B21B47/04",
+      "level": 1,
+      "parent": "B21B47/00",
+      "ja": "圧延後の層の分離",
+      "en": "for separating layers after rolling",
+      "count": 250,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    },
+    "B21B99/00": {
+      "code": "B21B99/00",
+      "level": 0,
+      "parent": "B21B",
+      "ja": "このサブクラスの他のグループに分類されない主題事項［８］",
+      "en": "Subject matter not provided for in other groups of this subclass",
+      "count": 71,
+      "sourceFile": "ipc_B21B.txt",
+      "kind": "ipc"
+    }
+  }
+};

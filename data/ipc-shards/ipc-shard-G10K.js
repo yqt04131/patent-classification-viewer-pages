@@ -1,0 +1,796 @@
+window.IPC_SHARD_G10K = {
+  "generatedAt": "2026-03-20T02:17:47.133Z",
+  "total": 79,
+  "entries": {
+    "G10K": {
+      "code": "G10K",
+      "level": 0,
+      "parent": "G10",
+      "ja": "音を発生する装置；騒音または他の音響波を防ぎ，または減衰させるための方法または装置一般；他に分類されない音響<br><br><b><ul>注</ul></b><br>注［６］<br>１．このサブクラスは以下のものを包含する：<br>・流体中の機械的振動の発生装置<br>・人間には聴くことができないが動物には聴くことができる音<br>２．このサブクラスにおいては，下記の用語は以下に示す意味で用いる：<br>・“音響”および“音”は，すべての亜音波，音波および超音波の周波数における機械的振動を取扱う技術分野を包含する。しかし，機械的波動の発生または伝達一般は，前記注（１）で特定したものを例外として，サブクラスＢ０６Ｂに包含される。",
+      "en": "SOUND-PRODUCING DEVICES; METHODS OR DEVICES FOR PROTECTING AGAINST, OR FOR DAMPING, NOISE OR OTHER ACOUSTIC WAVES IN GENERAL; ACOUSTICS NOT OTHERWISE PROVIDED FOR; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This subclass <u>covers</u>: <ul><li>arrangements for generating mechanical vibrations in fluids;</li><li>the production of sounds which may not be audible to human beings but which are audible to animals.</li></ul></li><li>In this subclass, the following terms are used with the meanings indicated: <ul><li>\"acoustics\" and \"sound\" cover the technical field dealing with mechanical vibrations at all infrasonic-, sonic- and ultrasonic frequencies. However, generation or transmission of mechanical waves, in general, is covered by subclass <b>B06B</b>, subject to the exception specified in Note (1) above.</li></ul></li></ul>",
+      "count": 832,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G10": {
+      "code": "G10",
+      "level": 0,
+      "parent": "G",
+      "ja": "楽器；音響<br><br><b><ul>注</ul></b><br>（１）このクラスは音楽的であると考えられるか否かを問わず広く音を発するすべての装置を包含する。<br>（２）このクラスにおいては，下記の表現は以下に示す意味で用いる：<br>―“楽器”は単一の音響信号を発する装置を除外するものではない。<br>（３）サブクラスインデックスに代えて次のクラスインデックスをおき，異なるサブクラスに属する下記の３つの基本型の展開法を示す：<br>―気鳴楽器；<br>―弦楽器；<br>―打楽器；<br>これらがほとんどの楽器と関連していることは明らかである。<br>（４）もちろん，中には注（３）で述べた３つの型のうちの１つに属することが明らかでない作動原理の楽器がある。それらはグループＧ１０Ｄ１７／００またはＧ１０Ｋ７／００，９／００，または１５／０４に該当し，それら以外のものは普通明確な分類箇所が見出せる。<br><br><b><ul>サブクラス内の索引</ul></b><br>音；音波の操作<br>音声の分析または合成；音声認識；音響分析または処理　Ｇ１０Ｌ<br>他に分類されない音の伝送または音に対する防護　Ｇ１０Ｋ１１／００，Ｇ１０Ｋ１３／００<br>他に分類されない音響　Ｇ１０Ｋ１５／００<br>気鳴楽器<br>全体構造；細部または付属品　Ｇ１０Ｄ７／００；Ｇ１０Ｄ９／００<br>オルガン，ハーモニウムまたは類似の楽器　Ｇ１０Ｂ１／００，Ｇ１０Ｂ３／００<br>アコーディオン，コンセルティーナまたは類似の楽器；他の型式の楽器　Ｇ１０Ｄ１１／００；Ｇ１０Ｄ７／００<br>ホイッスル；ホーン　Ｇ１０Ｋ５／００；Ｇ１０Ｋ９／００<br>弦楽器<br>全体構造；細部または付属品　Ｇ１０Ｄ１／００；Ｇ１０Ｄ３／００<br>ピアノ，ハープシコード，小型ピアノまたは１つまたはそれ以上の鍵盤のある類似の弦楽器；それらの製造または保守のための工具と方法　Ｇ１０Ｃ１／００，Ｇ１０Ｃ３／００；Ｇ１０Ｃ９／００<br>他の楽器　Ｇ１０Ｄ１／００<br>打楽器<br>ベル，ガラガラまたは類似の楽器　Ｇ１０Ｋ１／００，Ｇ１０Ｋ３／００<br>他の楽器　Ｇ１０Ｄ１３／００<br>他の特殊な装置；はっきりしない原理を用いた楽器；楽器の組合せ；音楽用付属具<br>電気楽器　Ｇ１０Ｈ<br>自動楽器　Ｇ１０Ｆ<br>サイレン；振動体をもつ装置　Ｇ１０Ｋ７／００；Ｇ１０Ｋ９／００<br>組合せ：  ピアノと他の楽器；他の楽器の組合せ　Ｇ１０Ｃ５／００；Ｇ１０Ｄ１５／００<br>音楽用付属具　Ｇ１０Ｇ<br>エオリアンハープまたはシンギングフレイム　Ｇ１０Ｄ１７／００<br>他に分類されない楽器　Ｇ１０Ｄ９９／００",
+      "en": "MUSICAL INSTRUMENTS; ACOUSTICS; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This class <u>covers</u> all sound-emitting devices, in general, whether or not they may be considered as being musical.</li><li>In this class, the following expression is used with the meaning indicated:<ul><li>\"musical instrument\" does not exclude devices emitting a single sound signal.</li></ul></li><li>The following Class Index is given in place of subclass indexes, to show the grouping of the elaborations belonging to different subclasses, under the following three fundamental types:<ul><li>wind instruments;</li><li>string instruments;</li><li>percussion instruments,</li></ul>which relate clearly to the majority of instruments.</li><li>There are of course some instruments of which the principle of operation belongs less clearly to one of the three types mentioned in Note (3). They correspond to groups <b>G10D17/00</b> or <b>G10K7/00</b>, <b>G10K9/00</b> or <b>G10K15/04</b>, all the other groups normally finding a definite place.</li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">ACOUSTICS; OPERATIONS ON SOUND WAVES<tr><td width=\"70%\">Speech analysis or synthesis; speech recognition; audio analysis or processing</td><td><b><b>G10L</b></b></td></tr></tr><tr><td width=\"70%\">Methods or devices for transmission of sound or protection against sound, not otherwise provided for</td><td><b><b>11/00</b>, <b>13/00</b></b></td></tr></tr><tr><td width=\"70%\">Acoustics not otherwise provided for</td><td><b><b>15/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">WIND INSTRUMENTS<tr><td width=\"70%\">General features; details or accessories</td><td><b><b>7/00</b>; <b>9/00</b></b></td></tr></tr><tr><td width=\"70%\">Organs, harmoniums or similar instruments</td><td><b><b>1/00</b>, <b>3/00</b></b></td></tr></tr><tr><td width=\"70%\">Accordions, concertinas or similar instruments; other types of instruments</td><td><b><b>11/00</b>; <b>7/00</b></b></td></tr></tr><tr><td width=\"70%\">Whistles; horns</td><td><b><b>5/00</b>; <b>9/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">STRINGED INSTRUMENTS<tr><td width=\"70%\">General features; details or accessories</td><td><b><b>1/00</b>; <b>3/00</b></b></td></tr></tr><tr><td width=\"70%\">Pianos, harpsichords, spinets or similar stringed musical instruments with one or more keyboards; tools and methods for the manufacture or maintenance thereof</td><td><b><b>1/00</b>, <b>3/00</b>; <b>9/00</b></b></td></tr></tr><tr><td width=\"70%\">Other instruments</td><td><b><b>1/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">PERCUSSION INSTRUMENTS<tr><td width=\"70%\">Bells, rattles or similar instruments</td><td><b><b>1/00</b>, <b>3/00</b></b></td></tr></tr><tr><td width=\"70%\">Other instruments</td><td><b><b>13/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">OTHER PARTICULAR DEVICES; DEVICES USING UNDEFINED PRINCIPLES; COMBINATIONS OF INSTRUMENTS; MUSIC ACCESSORIES<tr><td width=\"70%\">Electrophonic musical instruments</td><td><b><b>G10H</b></b></td></tr></tr><tr><td width=\"70%\">Automatic musical instruments</td><td><b><b>G10F</b></b></td></tr></tr><tr><td width=\"70%\">Sirens; devices with vibrators</td><td><b><b>7/00</b>; <b>9/00</b></b></td></tr></tr><tr><td width=\"70%\">Combinations: of pianos with other instruments; of other instruments</td><td><b><b>5/00</b>; <b>15/00</b></b></td></tr></tr><tr><td width=\"70%\">Music accessories</td><td><b><b>G10G</b></b></td></tr></tr></tr><tr><td width=\"70%\">AEOLIAN HARPS OR SINGING-FLAME MUSICAL INSTRUMENTS</td><td><b><b>17/00</b></b></td></tr></tr><tr><td width=\"70%\">MUSICAL INSTRUMENTS NOT PROVIDED FOR IN OTHER GROUPS OF SUBCLASS <b>G10D</b></td><td><b><b>99/00</b></b></td></tr></tr></table>",
+      "count": 0,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G": {
+      "code": "G",
+      "level": 0,
+      "parent": null,
+      "ja": "物理学<br><br><b><ul>注</ul></b><br>１．このセクションにおいては，下記の用語は以下に示す意味で用いる：<br>・“変量”は名詞として，特定の実在物，例．物体，ある量の物質，光ビーム，に関し特定の瞬間に測定することの可能な特性又は特質，例．寸法，温度等の物理的状態，密度又は色等の性質，を意味する。変量が変化すると，その数値的表現は異なる時点で，異なる状態又は個々の状況において異なる値をとることもあり，また，ある状態のもとで又は実用上特定の実在物に関して一定でありうる，例．バーの長さが多くの目的のために一定とみなされる，こともある。<br>２．使用される用語または表現の定義に注意すること。このセクションのいくつかのクラスの注に使用されているものについて，特にクラスＧ０１の“測定”を参照されたい．ＩＰＣ指針パラグラフ１８７の中にあるものについて，“制御”及び“調整”の定義に参照されたい。<br>３．このセクションにおける分類は他のセクションにおいてよりもめんどうな場合があり得る，というのは，その一つは，いろいろな使用分野の差異の判別には構造上の差異又は使用形態上の差異よりも寧ろ使用者の意図における差異の方にかなりの程度影響されてしまうからであり，もう一つは，扱う主題が容易に全体として識別できる“もの”であるよりも，特性又は部品が他の主題のものと共通のものを有しているシステム又は組合わせであることが実際上多いからである。例えば，情報（例．一連の数値）をディスプレイするのは，クラスＧ０９に包含される，教育又は広告のため，クラスＧ０１に包含される，測定の結果が通知されうるため，クラスＧ０８に包含される，遠隔地点に情報を合図するため，又は遠隔地点から合図された情報を提供するためである。目的を記述するために使用する言葉は，当該装置の形態に無関係なこともあり得る特性－例えば，ディスプレイを見る者にとって望ましい効果とか，ディスプレイが遠隔地点から制御されるかどうかという特性－によって決定される。さらに，ある状態，例えば流体圧の変化に応答する装置は，その装置そのものには変更を加えずして，サブクラスＧ０１Ｌに包含される圧力又はＧ０１の他のサブクラスに包含される圧力に関連した他の何らかの状態，例．温度に関してＧ０１Ｋ，についての情報を与えるため，サブクラスＧ０７Ｃに包含される圧力または圧力発生の記録をするため，サブクラスＧ０８Ｂに包含される警報を発するため，又はクラスＧ０５に包含される他の何らかの装置を制御するために用いられることがある。<br>　本分類表は，前述したように，同一の性質のものは同一箇所に分類し得るようにしたものである。従って，技術主題が適切箇所に分類されるためには予めその真正な本質を把握することが特に必要である。",
+      "en": "PHYSICS; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this section, the following term is used with the meaning indicated: <ul><li>\"variable\" as a noun means a feature or property, e.g. a dimension, a physical condition such as temperature, a quality such as density or colour, which, in respect of a particular entity, e.g. an object, a quantity of a substance, a beam of light, and at a particular instant, is capable of being measured; the variable may change, so that its numerical expression may assume different values at different times, in different conditions or in individual cases, but may be constant in respect of a particular entity in certain conditions or for practical purposes, e.g. the length of a bar may be regarded as constant for many purposes.</li></ul></li><li>Attention is drawn to the definitions of terms or expressions used. Some appear in the notes of several of the classes in this section, see in particular the definition of \"measuring\" in class <b>G01</b>. Others appear in paragraph 187 of the Guide to the IPC, see in particular the definitions of \"control\" and \"regulation\".</li><li>Classification in this section may present more difficulty than in other sections, because the distinction between different fields of use rests to a considerable extent on differences in the intention of the user rather than on any constructional differences or differences in the manner of use, and because the subjects dealt with are often in effect systems or combinations, which have features or parts in common, rather than \"things\", which are readily distinguishable as a whole. For example, information, e.g. a set of figures, may be displayed for the purpose of education or advertising covered by class <b>G09</b>, for enabling the result of a measurement to be known covered by class <b>G01</b>, for signalling the information to a distant point or for giving information which has been signalled from a distant point covered by class <b>G08</b>. The words used to describe the purpose depend on features that may be irrelevant to the form of the apparatus concerned, for example, such features as the desired effect on the person who sees the display, or whether the display is controlled from a remote point. Again, a device which responds to some change in a condition, e.g. in the pressure of a fluid, may be used, without modification of the device itself, to give information about the pressure covered by subclass <b>G01L</b> or about some other condition linked to the pressure covered by another subclass of class <b>G01</b>, e.g. <b>G01K</b> for temperature, to make a record of the pressure or of its occurrence covered by subclass <b>G07C</b>, to give an alarm covered by subclass <b>G08B</b>, or to control another apparatus covered by class <b>G05</b>. <ul><li>The classification scheme is intended to enable things of a similar nature, as indicated above, to be classified together. It is therefore particularly necessary for the real nature of any technical subject to be decided before it can be properly classified.</li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G10K1/00": {
+      "code": "G10K1/00",
+      "level": 0,
+      "parent": "G10K",
+      "ja": "共鳴体を打つことによって音が発生する装置，例．ベル，チャイムまたはゴング（多音楽器Ｇ１０Ｄ１３／０８；自動カリヨンＧ１０Ｆ１／１０）［２００６．０１］",
+      "en": "Devices in which sound is produced by striking a resonating body, e.g. bells, chimes or gongs(multi-toned musical instruments <b>G10D13/08</b>; automatic carillons <b>G10F1/10</b>)",
+      "count": 406,
+      "sourceFile": "ipc_G10K.txt",
+      "kind": "ipc"
+    },
+    "G10K1/06": {
+      "code": "G10K1/06",
+      "level": 1,
+      "parent": "G10K1/00",
+      "ja": "共鳴装置がベル，板，ロッドまたは管の形をしたもの（塔につけるベルＧ１０Ｋ１／２８）",
+      "en": "the resonating device having the shape of a bell, plate, rod, or tube(bells for towers <b>G10K1/28</b>)",
+      "count": 371,
+      "sourceFile": "ipc_G10K.txt",
+      "kind": "ipc"
+    },
+    "G10K1/062": {
+      "code": "G10K1/062",
+      "level": 2,
+      "parent": "G10K1/06",
+      "ja": "電気的に作動されるもの",
+      "en": "electrically operated",
+      "count": 717,
+      "sourceFile": "ipc_G10K.txt",
+      "kind": "ipc"
+    },
+    "G10K1/063": {
+      "code": "G10K1/063",
+      "level": 3,
+      "parent": "G10K1/062",
+      "ja": "音響部材がベルであるもの",
+      "en": "the sounding member being a bell",
+      "count": 472,
+      "sourceFile": "ipc_G10K.txt",
+      "kind": "ipc"
+    },
+    "G10K1/064": {
+      "code": "G10K1/064",
+      "level": 4,
+      "parent": "G10K1/063",
+      "ja": "そのための作動または打撃機構",
+      "en": "Operating or striking mechanisms therefor",
+      "count": 845,
+      "sourceFile": "ipc_G10K.txt",
+      "kind": "ipc"
+    },
+    "G10K1/065": {
+      "code": "G10K1/065",
+      "level": 5,
+      "parent": "G10K1/064",
+      "ja": "時限でまたは反復して作動するもの",
+      "en": "for timed or repeated operation",
+      "count": 83,
+      "sourceFile": "ipc_G10K.txt",
+      "kind": "ipc"
+    },
+    "G10K1/066": {
+      "code": "G10K1/066",
+      "level": 3,
+      "parent": "G10K1/062",
+      "ja": "音響部材が管，板またはロッドであるもの",
+      "en": "the sounding member being a tube, plate, or rod",
+      "count": 314,
+      "sourceFile": "ipc_G10K.txt",
+      "kind": "ipc"
+    },
+    "G10K1/067": {
+      "code": "G10K1/067",
+      "level": 4,
+      "parent": "G10K1/066",
+      "ja": "そのための作動または打撃機構",
+      "en": "Operating or striking mechanisms therefor",
+      "count": 353,
+      "sourceFile": "ipc_G10K.txt",
+      "kind": "ipc"
+    },
+    "G10K1/068": {
+      "code": "G10K1/068",
+      "level": 2,
+      "parent": "G10K1/06",
+      "ja": "液体で作動されるもの；気体で作動されるもの",
+      "en": "hydraulically operated; pneumatically operated",
+      "count": 309,
+      "sourceFile": "ipc_G10K.txt",
+      "kind": "ipc"
+    },
+    "G10K1/07": {
+      "code": "G10K1/07",
+      "level": 2,
+      "parent": "G10K1/06",
+      "ja": "機械的に作動されるもの；振鈴；動物用ベル",
+      "en": "mechanically operated; Hand bells; Bells for animals",
+      "count": 408,
+      "sourceFile": "ipc_G10K.txt",
+      "kind": "ipc"
+    },
+    "G10K1/071": {
+      "code": "G10K1/071",
+      "level": 3,
+      "parent": "G10K1/07",
+      "ja": "振鈴；動物用ベル",
+      "en": "Hand bells; Bells for animals",
+      "count": 283,
+      "sourceFile": "ipc_G10K.txt",
+      "kind": "ipc"
+    },
+    "G10K1/072": {
+      "code": "G10K1/072",
+      "level": 3,
+      "parent": "G10K1/07",
+      "ja": "そのための作動または打撃機構",
+      "en": "Operating or striking mechanisms therefor",
+      "count": 403,
+      "sourceFile": "ipc_G10K.txt",
+      "kind": "ipc"
+    },
+    "G10K1/074": {
+      "code": "G10K1/074",
+      "level": 4,
+      "parent": "G10K1/072",
+      "ja": "回動する舌片またはシェルによるもの",
+      "en": "with rotary clappers or shells",
+      "count": 173,
+      "sourceFile": "ipc_G10K.txt",
+      "kind": "ipc"
+    },
+    "G10K1/076": {
+      "code": "G10K1/076",
+      "level": 4,
+      "parent": "G10K1/072",
+      "ja": "時限でまたは反復して作動するもの",
+      "en": "for timed or repeated operation",
+      "count": 46,
+      "sourceFile": "ipc_G10K.txt",
+      "kind": "ipc"
+    },
+    "G10K1/08": {
+      "code": "G10K1/08",
+      "level": 2,
+      "parent": "G10K1/06",
+      "ja": "汎用性のある細部または付属品",
+      "en": "Details or accessories of general applicability",
+      "count": 161,
+      "sourceFile": "ipc_G10K.txt",
+      "kind": "ipc"
+    },
+    "G10K1/10": {
+      "code": "G10K1/10",
+      "level": 3,
+      "parent": "G10K1/08",
+      "ja": "音響部材；そのためのマウンド；舌片または他の打撃子",
+      "en": "Sounding members; Mounting thereof; Clappers or other strikers",
+      "count": 334,
+      "sourceFile": "ipc_G10K.txt",
+      "kind": "ipc"
+    },
+    "G10K1/26": {
+      "code": "G10K1/26",
+      "level": 3,
+      "parent": "G10K1/08",
+      "ja": "マウント；ケース",
+      "en": "Mountings; Casings",
+      "count": 301,
+      "sourceFile": "ipc_G10K.txt",
+      "kind": "ipc"
+    },
+    "G10K1/28": {
+      "code": "G10K1/28",
+      "level": 1,
+      "parent": "G10K1/00",
+      "ja": "塔またはその類似物に用いるベル",
+      "en": "Bells for towers or the like",
+      "count": 77,
+      "sourceFile": "ipc_G10K.txt",
+      "kind": "ipc"
+    },
+    "G10K1/30": {
+      "code": "G10K1/30",
+      "level": 2,
+      "parent": "G10K1/28",
+      "ja": "細部または付属品",
+      "en": "Details or accessories",
+      "count": 29,
+      "sourceFile": "ipc_G10K.txt",
+      "kind": "ipc"
+    },
+    "G10K1/32": {
+      "code": "G10K1/32",
+      "level": 3,
+      "parent": "G10K1/30",
+      "ja": "音響部材；舌片または他の打撃子",
+      "en": "Sounding members; Clappers or other strikers",
+      "count": 53,
+      "sourceFile": "ipc_G10K.txt",
+      "kind": "ipc"
+    },
+    "G10K1/34": {
+      "code": "G10K1/34",
+      "level": 3,
+      "parent": "G10K1/30",
+      "ja": "作動機構",
+      "en": "Operating mechanisms",
+      "count": 419,
+      "sourceFile": "ipc_G10K.txt",
+      "kind": "ipc"
+    },
+    "G10K1/36": {
+      "code": "G10K1/36",
+      "level": 3,
+      "parent": "G10K1/30",
+      "ja": "消音または弱音のための手段［２００６．０１］",
+      "en": "Means for silencing or damping",
+      "count": 51,
+      "sourceFile": "ipc_G10K.txt",
+      "kind": "ipc"
+    },
+    "G10K1/38": {
+      "code": "G10K1/38",
+      "level": 3,
+      "parent": "G10K1/30",
+      "ja": "支持；マウント",
+      "en": "Supports; Mountings",
+      "count": 47,
+      "sourceFile": "ipc_G10K.txt",
+      "kind": "ipc"
+    },
+    "G10K3/00": {
+      "code": "G10K3/00",
+      "level": 0,
+      "parent": "G10K",
+      "ja": "ガラガラまたはそれと類似の雑音発生装置",
+      "en": "Rattles or like noise-producing devices",
+      "count": 368,
+      "sourceFile": "ipc_G10K.txt",
+      "kind": "ipc"
+    },
+    "G10K5/00": {
+      "code": "G10K5/00",
+      "level": 0,
+      "parent": "G10K",
+      "ja": "ホイッスル",
+      "en": "Whistles",
+      "count": 1680,
+      "sourceFile": "ipc_G10K.txt",
+      "kind": "ipc"
+    },
+    "G10K5/02": {
+      "code": "G10K5/02",
+      "level": 1,
+      "parent": "G10K5/00",
+      "ja": "超音波ホイッスル［３］",
+      "en": "Ultrasonic whistles",
+      "count": 193,
+      "sourceFile": "ipc_G10K.txt",
+      "kind": "ipc"
+    },
+    "G10K7/00": {
+      "code": "G10K7/00",
+      "level": 0,
+      "parent": "G10K",
+      "ja": "サイレン",
+      "en": "Sirens",
+      "count": 402,
+      "sourceFile": "ipc_G10K.txt",
+      "kind": "ipc"
+    },
+    "G10K7/02": {
+      "code": "G10K7/02",
+      "level": 1,
+      "parent": "G10K7/00",
+      "ja": "発音部材が手動でまたは原動機によって回転されるもの（Ｇ１０Ｋ７／０６が優先）",
+      "en": "in which the sound-producing member is rotated manually or by a motor(<b>G10K7/06</b> takes precedence)",
+      "count": 171,
+      "sourceFile": "ipc_G10K.txt",
+      "kind": "ipc"
+    },
+    "G10K7/04": {
+      "code": "G10K7/04",
+      "level": 2,
+      "parent": "G10K7/02",
+      "ja": "電動機によるもの",
+      "en": "by an electric motor",
+      "count": 261,
+      "sourceFile": "ipc_G10K.txt",
+      "kind": "ipc"
+    },
+    "G10K7/06": {
+      "code": "G10K7/06",
+      "level": 1,
+      "parent": "G10K7/00",
+      "ja": "発音部材が流体，例．圧縮ガス，によって駆動されるもの",
+      "en": "in which the sound-producing member is driven by a fluid, e.g. by a compressed gas",
+      "count": 213,
+      "sourceFile": "ipc_G10K.txt",
+      "kind": "ipc"
+    },
+    "G10K9/00": {
+      "code": "G10K9/00",
+      "level": 0,
+      "parent": "G10K",
+      "ja": "振動膜または類似の素子を振動させることによって音を発生する装置，例．霧笛，警笛またはブザー（スピーカまたは類似の音響電気機械変換器Ｈ０４Ｒ）",
+      "en": "Devices in which sound is produced by vibrating a diaphragm or analogous element, e.g. fog horns, vehicle hooters or buzzers(loudspeakers or like acoustic electromechanical transducers <b>H04R</b>)",
+      "count": 493,
+      "sourceFile": "ipc_G10K.txt",
+      "kind": "ipc"
+    },
+    "G10K9/02": {
+      "code": "G10K9/02",
+      "level": 1,
+      "parent": "G10K9/00",
+      "ja": "気体によって駆動されるもの，例．吸引によるもの",
+      "en": "driven by gas, e.g. suction operated",
+      "count": 433,
+      "sourceFile": "ipc_G10K.txt",
+      "kind": "ipc"
+    },
+    "G10K9/04": {
+      "code": "G10K9/04",
+      "level": 2,
+      "parent": "G10K9/02",
+      "ja": "圧縮気体，例．圧縮空気，によるもの",
+      "en": "by compressed gases, e.g. compressed air",
+      "count": 690,
+      "sourceFile": "ipc_G10K.txt",
+      "kind": "ipc"
+    },
+    "G10K9/06": {
+      "code": "G10K9/06",
+      "level": 2,
+      "parent": "G10K9/02",
+      "ja": "爆発によって音を発生するもの",
+      "en": "produced by detonation",
+      "count": 18,
+      "sourceFile": "ipc_G10K.txt",
+      "kind": "ipc"
+    },
+    "G10K9/08": {
+      "code": "G10K9/08",
+      "level": 1,
+      "parent": "G10K9/00",
+      "ja": "水または他の液体によって駆動されるもの",
+      "en": "driven by water or other liquids",
+      "count": 78,
+      "sourceFile": "ipc_G10K.txt",
+      "kind": "ipc"
+    },
+    "G10K9/10": {
+      "code": "G10K9/10",
+      "level": 1,
+      "parent": "G10K9/00",
+      "ja": "機械的手段のみによって駆動されるもの",
+      "en": "driven by mechanical means only",
+      "count": 484,
+      "sourceFile": "ipc_G10K.txt",
+      "kind": "ipc"
+    },
+    "G10K9/12": {
+      "code": "G10K9/12",
+      "level": 1,
+      "parent": "G10K9/00",
+      "ja": "電気的に作動されるもの<br><br><b><ul>注</ul></b><br>このグループはスピーカまたはマイクロフォンのような広帯域変換器の構造，または広帯域変換器用回路を包含しない。それらはサブクラスＨ０４Ｒに包含される。［６］",
+      "en": "electrically operated; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This group <u>does not cover</u> the construction of, or circuits for, broadband-transducers such as loudspeakers or microphones, which are covered by subclass <b>H04R</b>. </li></ul>",
+      "count": 5729,
+      "sourceFile": "ipc_G10K.txt",
+      "kind": "ipc"
+    },
+    "G10K9/122": {
+      "code": "G10K9/122",
+      "level": 2,
+      "parent": "G10K9/12",
+      "ja": "圧電駆動手段を用いるもの［６］",
+      "en": "using piezoelectric driving means",
+      "count": 3226,
+      "sourceFile": "ipc_G10K.txt",
+      "kind": "ipc"
+    },
+    "G10K9/125": {
+      "code": "G10K9/125",
+      "level": 3,
+      "parent": "G10K9/122",
+      "ja": "複数の能動素子を有するもの［６］",
+      "en": "with a plurality of active elements",
+      "count": 146,
+      "sourceFile": "ipc_G10K.txt",
+      "kind": "ipc"
+    },
+    "G10K9/128": {
+      "code": "G10K9/128",
+      "level": 2,
+      "parent": "G10K9/12",
+      "ja": "磁わい駆動手段を用いるもの［６］",
+      "en": "using magnetostrictive driving means",
+      "count": 55,
+      "sourceFile": "ipc_G10K.txt",
+      "kind": "ipc"
+    },
+    "G10K9/13": {
+      "code": "G10K9/13",
+      "level": 2,
+      "parent": "G10K9/12",
+      "ja": "電磁駆動手段を用いるもの［３］",
+      "en": "using electromagnetic driving means",
+      "count": 2387,
+      "sourceFile": "ipc_G10K.txt",
+      "kind": "ipc"
+    },
+    "G10K9/15": {
+      "code": "G10K9/15",
+      "level": 3,
+      "parent": "G10K9/13",
+      "ja": "自己断続装置［３］",
+      "en": "Self-interrupting arrangements",
+      "count": 837,
+      "sourceFile": "ipc_G10K.txt",
+      "kind": "ipc"
+    },
+    "G10K9/16": {
+      "code": "G10K9/16",
+      "level": 2,
+      "parent": "G10K9/12",
+      "ja": "人力によって電流を発生するための手段をもつもの",
+      "en": "with means for generating the current by muscle power",
+      "count": 11,
+      "sourceFile": "ipc_G10K.txt",
+      "kind": "ipc"
+    },
+    "G10K9/18": {
+      "code": "G10K9/18",
+      "level": 1,
+      "parent": "G10K9/00",
+      "ja": "細部，例．バルブ，ポンプ，ピストン，スイッチまたはケース",
+      "en": "Details, e.g. bulbs, pumps, pistons, switches or casings",
+      "count": 1496,
+      "sourceFile": "ipc_G10K.txt",
+      "kind": "ipc"
+    },
+    "G10K9/20": {
+      "code": "G10K9/20",
+      "level": 2,
+      "parent": "G10K9/18",
+      "ja": "発音部材",
+      "en": "Sounding members",
+      "count": 676,
+      "sourceFile": "ipc_G10K.txt",
+      "kind": "ipc"
+    },
+    "G10K9/22": {
+      "code": "G10K9/22",
+      "level": 2,
+      "parent": "G10K9/18",
+      "ja": "マウント；ケース",
+      "en": "Mountings; Casings",
+      "count": 2079,
+      "sourceFile": "ipc_G10K.txt",
+      "kind": "ipc"
+    },
+    "G10K11/00": {
+      "code": "G10K11/00",
+      "level": 0,
+      "parent": "G10K",
+      "ja": "音を伝達し，導きまたは指向させるための方法または装置一般；騒音または他の音響波を防ぎ，または減衰させるための方法または装置一般",
+      "en": "Methods or devices for transmitting, conducting or directing sound in general; Methods or devices for protecting against, or for damping, noise or other acoustic waves in general",
+      "count": 6131,
+      "sourceFile": "ipc_G10K.txt",
+      "kind": "ipc"
+    },
+    "G10K11/02": {
+      "code": "G10K11/02",
+      "level": 1,
+      "parent": "G10K11/00",
+      "ja": "機械的音響インピーダンス；インピーダンスマッチング，例．ホーンによるもの；音響共振器［３］",
+      "en": "Mechanical acoustic impedances; Impedance matching, e.g. by horns; Acoustic resonators",
+      "count": 2908,
+      "sourceFile": "ipc_G10K.txt",
+      "kind": "ipc"
+    },
+    "G10K11/04": {
+      "code": "G10K11/04",
+      "level": 2,
+      "parent": "G10K11/02",
+      "ja": "音響フィルター［３］",
+      "en": "Acoustic filters",
+      "count": 585,
+      "sourceFile": "ipc_G10K.txt",
+      "kind": "ipc"
+    },
+    "G10K11/08": {
+      "code": "G10K11/08",
+      "level": 1,
+      "parent": "G10K11/00",
+      "ja": "非電気的に音を増幅する装置，例．非電気的メガホン（ホーンによる増幅Ｇ１０Ｋ１１／０２；集束による増幅Ｇ１０Ｋ１１／２６）",
+      "en": "Non-electric sound-amplifying devices, e.g. non-electric megaphones(amplifying by horns <b>G10K11/02</b>; amplifying by focusing <b>G10K11/26</b>)",
+      "count": 660,
+      "sourceFile": "ipc_G10K.txt",
+      "kind": "ipc"
+    },
+    "G10K11/16": {
+      "code": "G10K11/16",
+      "level": 1,
+      "parent": "G10K11/00",
+      "ja": "騒音または他の音響波を防ぎ，または減衰させるための方法または装置一般（Ｇ１０Ｋ１１／３６が優先）［３］",
+      "en": "Methods or devices for protecting against, or for damping, noise or other acoustic waves in general(<b>G10K11/36</b> takes precedence)",
+      "count": 31253,
+      "sourceFile": "ipc_G10K.txt",
+      "kind": "ipc"
+    },
+    "G10K11/162": {
+      "code": "G10K11/162",
+      "level": 2,
+      "parent": "G10K11/16",
+      "ja": "材料の選択［６］",
+      "en": "Selection of materials",
+      "count": 11527,
+      "sourceFile": "ipc_G10K.txt",
+      "kind": "ipc"
+    },
+    "G10K11/165": {
+      "code": "G10K11/165",
+      "level": 3,
+      "parent": "G10K11/162",
+      "ja": "母材内の粒子［６］",
+      "en": "Particles in a matrix",
+      "count": 424,
+      "sourceFile": "ipc_G10K.txt",
+      "kind": "ipc"
+    },
+    "G10K11/168": {
+      "code": "G10K11/168",
+      "level": 3,
+      "parent": "G10K11/162",
+      "ja": "異なる材料の複数の層，例．サンドイッチ状のもの［６］<br><br><b><ul>注</ul></b><br>このグループに分類するとき，何らかの積層体に関係する限りサブクラスＢ３２Ｂにも分類する。［６］",
+      "en": "Plural layers of different materials, e.g. sandwiches; <br><br><b><u>Note(s)</u></b><br><br><ul><li>When classifying in this group, classification is also made in subclass <b>B32B</b>, insofar as any layered product is concerned.  </li></ul>",
+      "count": 4531,
+      "sourceFile": "ipc_G10K.txt",
+      "kind": "ipc"
+    },
+    "G10K11/172": {
+      "code": "G10K11/172",
+      "level": 2,
+      "parent": "G10K11/16",
+      "ja": "共振効果を用いるもの［６］",
+      "en": "using resonance effects",
+      "count": 4520,
+      "sourceFile": "ipc_G10K.txt",
+      "kind": "ipc"
+    },
+    "G10K11/175": {
+      "code": "G10K11/175",
+      "level": 2,
+      "parent": "G10K11/16",
+      "ja": "干渉効果を用いるもの；音をマスキングするもの［６］",
+      "en": "using interference effects; Masking sound",
+      "count": 2204,
+      "sourceFile": "ipc_G10K.txt",
+      "kind": "ipc"
+    },
+    "G10K11/178": {
+      "code": "G10K11/178",
+      "level": 3,
+      "parent": "G10K11/175",
+      "ja": "電気音響的に元の音響波を逆位相で再発生することによるもの［６］",
+      "en": "by electro-acoustically regenerating the original acoustic waves in anti-phase",
+      "count": 11761,
+      "sourceFile": "ipc_G10K.txt",
+      "kind": "ipc"
+    },
+    "G10K11/18": {
+      "code": "G10K11/18",
+      "level": 1,
+      "parent": "G10K11/00",
+      "ja": "音を伝達し，導きまたは指向させるための方法または装置（Ｇ１０Ｋ１１／０２，Ｇ１０Ｋ１１／３６が優先）［２００６．０１］",
+      "en": "Methods or devices for transmitting, conducting or directing sound(<b>G10K11/02</b>, <b>G10K11/36</b> take precedence)",
+      "count": 1158,
+      "sourceFile": "ipc_G10K.txt",
+      "kind": "ipc"
+    },
+    "G10K11/20": {
+      "code": "G10K11/20",
+      "level": 2,
+      "parent": "G10K11/18",
+      "ja": "反射装置（Ｇ１０Ｋ１１／２８が優先）［３］",
+      "en": "Reflecting arrangements(<b>G10K11/28</b> takes precedence)",
+      "count": 736,
+      "sourceFile": "ipc_G10K.txt",
+      "kind": "ipc"
+    },
+    "G10K11/22": {
+      "code": "G10K11/22",
+      "level": 2,
+      "parent": "G10K11/18",
+      "ja": "中空管，例．伝声管，を通して音を導くためのもの［３］",
+      "en": "for conducting sound through hollow pipes, e.g. speaking tubes",
+      "count": 933,
+      "sourceFile": "ipc_G10K.txt",
+      "kind": "ipc"
+    },
+    "G10K11/24": {
+      "code": "G10K11/24",
+      "level": 2,
+      "parent": "G10K11/18",
+      "ja": "固体，例．線状体，を通して音を導くためのもの［３］",
+      "en": "for conducting sound through solid bodies, e.g. wires",
+      "count": 360,
+      "sourceFile": "ipc_G10K.txt",
+      "kind": "ipc"
+    },
+    "G10K11/26": {
+      "code": "G10K11/26",
+      "level": 2,
+      "parent": "G10K11/18",
+      "ja": "音の集束または指向，例．走査［３］",
+      "en": "Sound-focusing or directing, e.g. scanning",
+      "count": 732,
+      "sourceFile": "ipc_G10K.txt",
+      "kind": "ipc"
+    },
+    "G10K11/28": {
+      "code": "G10K11/28",
+      "level": 3,
+      "parent": "G10K11/26",
+      "ja": "反射を用いるもの，例．放物面反射体［３］",
+      "en": "using reflection, e.g. parabolic reflectors",
+      "count": 1152,
+      "sourceFile": "ipc_G10K.txt",
+      "kind": "ipc"
+    },
+    "G10K11/30": {
+      "code": "G10K11/30",
+      "level": 3,
+      "parent": "G10K11/26",
+      "ja": "屈折を用いるもの，例．音響レンズ［３］",
+      "en": "using refraction, e.g. acoustic lenses",
+      "count": 941,
+      "sourceFile": "ipc_G10K.txt",
+      "kind": "ipc"
+    },
+    "G10K11/32": {
+      "code": "G10K11/32",
+      "level": 3,
+      "parent": "G10K11/26",
+      "ja": "音源の形状によって特徴づけられたもの［３］",
+      "en": "characterised by shape of the source",
+      "count": 422,
+      "sourceFile": "ipc_G10K.txt",
+      "kind": "ipc"
+    },
+    "G10K11/34": {
+      "code": "G10K11/34",
+      "level": 3,
+      "parent": "G10K11/26",
+      "ja": "変換器配列体の電気的操作，例．ビーム操作，を用いるもの［３］",
+      "en": "using electrical steering of transducer arrays, e.g. beam steering",
+      "count": 2024,
+      "sourceFile": "ipc_G10K.txt",
+      "kind": "ipc"
+    },
+    "G10K11/35": {
+      "code": "G10K11/35",
+      "level": 3,
+      "parent": "G10K11/26",
+      "ja": "変換器の機械的操作を用いるもの［６］",
+      "en": "using mechanical steering of transducers",
+      "count": 687,
+      "sourceFile": "ipc_G10K.txt",
+      "kind": "ipc"
+    },
+    "G10K11/36": {
+      "code": "G10K11/36",
+      "level": 1,
+      "parent": "G10K11/00",
+      "ja": "弾性表面波を操作するための装置（電気音響増幅器Ｈ０３Ｆ１３／００；電気音響的素子を含む回路網Ｈ０３Ｈ９／００）［３］",
+      "en": "Devices for manipulating acoustic surface waves(electro-acoustic amplifiers <b>H03F13/00</b>; networks comprising electro-acoustic elements <b>H03H9/00</b>)",
+      "count": 485,
+      "sourceFile": "ipc_G10K.txt",
+      "kind": "ipc"
+    },
+    "G10K13/00": {
+      "code": "G10K13/00",
+      "level": 0,
+      "parent": "G10K",
+      "ja": "音を発するまたは受けるためのコーン，ダイヤフラム，またはその類似物一般（電気機械変換器のためのものＨ０４Ｒ７／００）",
+      "en": "Cones, diaphragms, or the like, for emitting or receiving sound in general(for electromechanical transducers <b>H04R7/00</b>)",
+      "count": 1859,
+      "sourceFile": "ipc_G10K.txt",
+      "kind": "ipc"
+    },
+    "G10K15/00": {
+      "code": "G10K15/00",
+      "level": 0,
+      "parent": "G10K",
+      "ja": "他に分類されない音響［４］",
+      "en": "Acoustics not otherwise provided for",
+      "count": 3398,
+      "sourceFile": "ipc_G10K.txt",
+      "kind": "ipc"
+    },
+    "G10K15/02": {
+      "code": "G10K15/02",
+      "level": 1,
+      "parent": "G10K15/00",
+      "ja": "音響波の合成（音声の合成Ｇ１０Ｌ１３／００）［４］",
+      "en": "Synthesis of acoustic waves(synthesis of speech <b>G10L13/00</b>)",
+      "count": 5646,
+      "sourceFile": "ipc_G10K.txt",
+      "kind": "ipc"
+    },
+    "G10K15/04": {
+      "code": "G10K15/04",
+      "level": 1,
+      "parent": "G10K15/00",
+      "ja": "音を発生する装置（Ｇ１０Ｋ１５／０２が優先）［４］",
+      "en": "Sound-producing devices(<b>G10K15/02</b> takes precedence)",
+      "count": 16571,
+      "sourceFile": "ipc_G10K.txt",
+      "kind": "ipc"
+    },
+    "G10K15/06": {
+      "code": "G10K15/06",
+      "level": 2,
+      "parent": "G10K15/04",
+      "ja": "放電を用いるもの［４］",
+      "en": "using electric discharge",
+      "count": 285,
+      "sourceFile": "ipc_G10K.txt",
+      "kind": "ipc"
+    },
+    "G10K15/08": {
+      "code": "G10K15/08",
+      "level": 1,
+      "parent": "G10K15/00",
+      "ja": "残響または反響音を発生する装置［５］",
+      "en": "Arrangements for producing a reverberation or echo sound",
+      "count": 702,
+      "sourceFile": "ipc_G10K.txt",
+      "kind": "ipc"
+    },
+    "G10K15/10": {
+      "code": "G10K15/10",
+      "level": 2,
+      "parent": "G10K15/08",
+      "ja": "電気機械的なまたは電気音響的な装置からなる時間遅延回路網を使用するもの［５］",
+      "en": "using time-delay networks comprising electromechanical or electro-acoustic devices",
+      "count": 472,
+      "sourceFile": "ipc_G10K.txt",
+      "kind": "ipc"
+    },
+    "G10K15/12": {
+      "code": "G10K15/12",
+      "level": 2,
+      "parent": "G10K15/08",
+      "ja": "電子的時間遅延回路網を使用するもの［５］",
+      "en": "using electronic time-delay networks",
+      "count": 1613,
+      "sourceFile": "ipc_G10K.txt",
+      "kind": "ipc"
+    }
+  }
+};

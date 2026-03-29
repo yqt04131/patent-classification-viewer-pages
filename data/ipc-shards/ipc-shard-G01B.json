@@ -1,0 +1,1886 @@
+{
+  "generatedAt": "2026-03-20T02:17:46.997Z",
+  "total": 188,
+  "entries": {
+    "G01B": {
+      "code": "G01B",
+      "level": 0,
+      "parent": "G01",
+      "ja": "長さ，厚さまたは同種の直線寸法の測定；角度の測定；面積の測定；表面または輪郭の不規則性の測定<br><br><b><ul>注</ul></b><br>１．このサブクラスは長さまたは角度（ｌｉｎｅａｒ　ｏｒ　ａｎｇｕｌａｒ　ｄｉｍｅｎｓｉｏｎ）で表現された位置または変位の測定を包含する。<br>２．このサブクラスにおいては，グループはもっとも重要な測定技術により分類されている。したがって，最終指示を与えるための他の技術または手段の単なる適用は，分類には影響しない。<br>３．クラスＧ０１のタイトルに続く注に注意すること。<br>４．このサブクラスに記述された手動装置と同一の原理で作動する機械は，これらの各装置のところに分類する。<br>５．グループＧ０１Ｂ３／００～Ｇ０１Ｂ１７／００までの２つ以上のグループに包含される測定装置またはその細部は，他のグループの中から１つも優先的な分類先が選択できない場合はグループＧ０１Ｂ２１／００に分類する。<br><br><b><ul>サブクラス内の索引</ul></b><br>物質によって特徴づけられた測定装置　１／００<br>測定に使用されている主要な技術<br>機械的なもの　３／００，５／００<br>電気的または磁気的なもの　７／００<br>流体によるもの　１３／００<br>光学の　９／００，１１／００<br>光以外の電磁波によるもの；粒子性放射線によるもの　１５／００<br>音波によるもの　１７／００<br>他の測定装置　２１／００",
+      "en": "MEASURING LENGTH, THICKNESS OR SIMILAR LINEAR DIMENSIONS; MEASURING ANGLES; MEASURING AREAS; MEASURING IRREGULARITIES OF SURFACES OR CONTOURS; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This subclass <u>covers</u> measuring of position or displacement in terms of linear or angular dimensions.</li><li>In this subclass, the groups are distinguished by the measurement technique which is of major importance. Thus the mere application of other techniques or means for giving a final indication does not affect the classification.</li><li>Attention is drawn to the Notes following the title of class <b>G01</b>.</li><li>Machines operated on similar principles to the hand-held devices specified in this subclass are classified with these devices.</li><li>Measuring arrangements or details thereof covered by two or more of groups <b>G01B3/00 to G01B17/00</b>  are classified in group <b>G01B21/00</b> if no single other group can be selected as being predominantly applicable.</li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">MEASURING DEVICES CHARACTERISED BY THE MATERIAL</td><td><b><b>1/00</b></b></td></tr></tr><tr><td width=\"70%\">PREDOMINANT TECHNIQUES USED IN MEASURING<tr><td width=\"70%\">mechanical</td><td><b><b>3/00</b>, <b>5/00</b></b></td></tr></tr><tr><td width=\"70%\">electric or magnetic</td><td><b><b>7/00</b></b></td></tr></tr><tr><td width=\"70%\">by fluids</td><td><b><b>13/00</b></b></td></tr></tr><tr><td width=\"70%\">optical</td><td><b><b>9/00</b>, <b>11/00</b></b></td></tr></tr><tr><td width=\"70%\">by electromagnetic waves other than optical; by particle radiation</td><td><b><b>15/00</b></b></td></tr></tr><tr><td width=\"70%\">by sonic waves</td><td><b><b>17/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">OTHER MEASURING ARRANGEMENTS</td><td><b><b>21/00</b></b></td></tr></tr></table>",
+      "count": 2836,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G01": {
+      "code": "G01",
+      "level": 0,
+      "parent": "G",
+      "ja": "測定；試験<br><br><b><ul>注</ul></b><br>（１）このクラスは“真”の測定計器のほかに類似構造の他の指示表示装置又は記録装置を含み，また更に，信号化装置又は制御装置についてはそれが測定に関するものであって（以下の注（２）で定義するように）特定の信号化目的または特定の制御目的に特に適合しないものである限り，含まれる。<br>（２）このクラスにおいては，下記の用語は以下に示す意味で用いる：<br>―“測定”はその第一義的意味又は基本的な意味よりもかなり広い意味を含むものとして用いる。この語の第一義的な意味においては，変量値を単位もしくはデータに関して又は同じ性質の別の変量に関して数値的に表現することを見い出すこと，例えば長さをスケールで測定するなどある長さを別の長さの表現で表わすこと，を意味する。この変量値は直接的に得る（すぐ前で言及したように）こともあり，また，水銀柱の長さの変化を測定することにより温度変化を測定するなど求める変量値に関連づけることのできる他の変量値を測定することよって得ることもある。しかしながら，同じ装置又は計器が，直接的な表示を行う代りに，記録をとったり，指示効果又は制御効果を奏すべく信号を発生するために用いられたり，或いは，他の装置又は計器と組み合わせて同種又は異種の二以上の変量の測定から一つのまとまった結果を得るために用いられることもあるので，“測定”はかかる数値的表現を変量を数値に変換する何らかの手段の付加的使用によって得ることを可能とするような操作をも含むものとして解釈することが必要である。従って，数値での表現は実際的にはデジタル的表現によって行なうこともありスケールを読むことによって行なうこともあり，また，その指示は数値を用いないで，例えば測定されている変量が特性又は状態であるところの実在物（例．物体，物質，光ビーム）について感知し得る何らかの特性（変量）によって又はそのような特性に類似するもの（例．スケールをもたない部材の対応位置，何らかの手段によって発生される対応電圧）によって，与えられることがある。<br>また，上記のような変量値指示が行なわれずに単に基準又はデータ（その値は数値的に既知のこともあり未知のこともある）に関しての異同を示すだけのことも多くある。この基準又はデータは同一性質であるが異なる実在物（例．標準器）の値のこともあり，或いは異なる時点での同一実在物の値であることもある。その最も単純な形態においては，測定は単にある状態又は性質，例えば運動（いずれかの方向又は特定の方向における）の有無を指示するだけのこともあるし，また，変量が既定値を超えるかどうかを指示するだけのこともある。<br>（３）“マイクロ構造の装置”および“マイクロ構造のシステム”に関する，クラスＢ８１およびサブクラスＢ８１Ｂの両タイトルの後の注に注意すること。［７］<br>（４）セクションＧのタイトルに続く注，特に“変量”という用語の定義については注意はすること。<br>（５）多くの測定装置において，測定すべき第一の変量は第二の変量またはさらなる変量に変換される。第二の変量またはさらなる変量は，第一の変量に関係して構成部材に生じた状態，または構成部材の変位であるかもしれない。そして，さらに変換が必要となるかもしれない。［６］<br>このような装置を分類するときは，（ｉ）重要である特定の変換ステップ，または重要である個々の変換ステップを分類するか，または（ｉｉ）全体としてのシステムのみが重要な場合は，第一の変量を該当する箇所に分類する。［６］<br>これは２つ以上の変換が起こる場合に特に重要である。たとえば，第一の変量（例．圧力）が第二の変量（例．感知体の光学的特性）に変換され，さらにその第二の変量が第三の変量（例．電気的効果）で示されるような場合である。このような場合には，次の分類箇所を考慮しなければならない：<br>第一の変量の変換についての分類場所，その変量により生じた状態を感知することについての分類場所，測定を示すＧ０１Ｄ，そして最後に，該当する場合は，システム全体を分類する場所である。［６］<br>（６）物理的特性の値の変化の測定は，その物理的特性の測定と同一のサブクラスに分類する。例えば，長さの伸びの測定はサブクラスＧ０１Ｂに分類する。",
+      "en": "MEASURING; TESTING; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This class <u>covers</u>, in addition to \"true\" measuring instruments, other indicating or recording devices of analogous construction, and also signalling or control devices insofar as they are concerned with measurement (as defined in Note 2 below) and are not specially adapted to the particular purpose of signalling or control.</li><li>In this class, the following term is used with the meaning indicated: <ul><li>\"measuring\" is used to cover considerably more than its primary or basic meaning. In this primary sense, it means finding a numerical expression of the value of a variable in relation to a unit or datum or to another variable of the same nature, e.g. expressing a length in terms of another length as in measuring a length with a scale; the value may be obtained directly (as just suggested) or by measuring some other variable of which the value can be related to the value of the required variable, as in measuring a change in temperature by measuring a resultant change in the length of a column of mercury. However, since the same device or instrument may, instead of giving an immediate indication, be used to produce a record or to initiate a signal to produce an indication or control effect, or may be used in combination with other devices or instruments to give a conjoint result from measurement of two or more variables of the same or different kinds, it is necessary to interpret \"measuring\" as including also any operation that would make it possible to obtain such a numerical expression by the additional use of some way of converting a value into figures. Thus the expression in figures may be actually made by a digital presentation or by reading a scale, or an indication of it may be given without the use of figures, e.g. by some perceptible feature (variable) of the entity (e.g. object, substance, beam of light) of which the variable being measured is a property or condition or by an analogue of such a feature (e.g. the corresponding position of a member without any scale, a corresponding voltage generated in some way). In many cases there is no such value indication but only an indication of difference or equality in relation to a standard or datum (of which the value may or may not be known in figures); the standard or datum may be the value of another variable of the same nature but of a different entity (e.g. a standard measure) or of the same entity at a different time. <ul><li>In its simplest form, measurement may give merely an indication of presence or absence of a certain condition or quality, e.g. movement (in any direction or in a particular direction), or whether a variable exceeds a predetermined value.</li></ul></li></ul></li><li>Attention is drawn to the Notes following the titles of class <b>B81</b> and subclass <b>B81B</b> relating to \"microstructural devices\" and \"microstructural systems\" and the Notes following the title of subclass <b>B82B</b> relating to \"nanostructures\".</li><li>Attention is drawn to the Notes following the title of section <b>G</b>, especially as regards the definition of the term \"variable\".</li><li>In many measuring arrangements, a first variable to be measured is transformed into a second, or further, variables. The second, or further, variables may be (a) a condition related to the first variable and produced in a member, or (b) a displacement of a member. Further transformation may be needed. <ul><li>When classifying such an arrangement, (i) the transformation step, or each transformation step, that is of interest is classified, or (ii) if interest lies only in the system as a whole, the first variable is classified in the appropriate place.</li><li>This is particularly important where two or more conversions take place, for instance where a first variable, for example pressure, is transformed into a second variable, for example an optical property of a sensing body, and that second variable is expressed by means of a third variable, for example an electric effect. In such a case, the following classification places should be considered: the place for the transformation of the first variable, that for sensing the condition caused by that variable, subclass <b>G01D</b> for expression of the measurement, and finally the place for the overall system, if any.</li></ul></li><li>The measurement of change in the value of a physical property is classified in the same subclass as the measurement of that physical property, e.g. measurement of expansion of length is classified in subclass <b>G01B</b>.</li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G": {
+      "code": "G",
+      "level": 0,
+      "parent": null,
+      "ja": "物理学<br><br><b><ul>注</ul></b><br>１．このセクションにおいては，下記の用語は以下に示す意味で用いる：<br>・“変量”は名詞として，特定の実在物，例．物体，ある量の物質，光ビーム，に関し特定の瞬間に測定することの可能な特性又は特質，例．寸法，温度等の物理的状態，密度又は色等の性質，を意味する。変量が変化すると，その数値的表現は異なる時点で，異なる状態又は個々の状況において異なる値をとることもあり，また，ある状態のもとで又は実用上特定の実在物に関して一定でありうる，例．バーの長さが多くの目的のために一定とみなされる，こともある。<br>２．使用される用語または表現の定義に注意すること。このセクションのいくつかのクラスの注に使用されているものについて，特にクラスＧ０１の“測定”を参照されたい．ＩＰＣ指針パラグラフ１８７の中にあるものについて，“制御”及び“調整”の定義に参照されたい。<br>３．このセクションにおける分類は他のセクションにおいてよりもめんどうな場合があり得る，というのは，その一つは，いろいろな使用分野の差異の判別には構造上の差異又は使用形態上の差異よりも寧ろ使用者の意図における差異の方にかなりの程度影響されてしまうからであり，もう一つは，扱う主題が容易に全体として識別できる“もの”であるよりも，特性又は部品が他の主題のものと共通のものを有しているシステム又は組合わせであることが実際上多いからである。例えば，情報（例．一連の数値）をディスプレイするのは，クラスＧ０９に包含される，教育又は広告のため，クラスＧ０１に包含される，測定の結果が通知されうるため，クラスＧ０８に包含される，遠隔地点に情報を合図するため，又は遠隔地点から合図された情報を提供するためである。目的を記述するために使用する言葉は，当該装置の形態に無関係なこともあり得る特性－例えば，ディスプレイを見る者にとって望ましい効果とか，ディスプレイが遠隔地点から制御されるかどうかという特性－によって決定される。さらに，ある状態，例えば流体圧の変化に応答する装置は，その装置そのものには変更を加えずして，サブクラスＧ０１Ｌに包含される圧力又はＧ０１の他のサブクラスに包含される圧力に関連した他の何らかの状態，例．温度に関してＧ０１Ｋ，についての情報を与えるため，サブクラスＧ０７Ｃに包含される圧力または圧力発生の記録をするため，サブクラスＧ０８Ｂに包含される警報を発するため，又はクラスＧ０５に包含される他の何らかの装置を制御するために用いられることがある。<br>　本分類表は，前述したように，同一の性質のものは同一箇所に分類し得るようにしたものである。従って，技術主題が適切箇所に分類されるためには予めその真正な本質を把握することが特に必要である。",
+      "en": "PHYSICS; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this section, the following term is used with the meaning indicated: <ul><li>\"variable\" as a noun means a feature or property, e.g. a dimension, a physical condition such as temperature, a quality such as density or colour, which, in respect of a particular entity, e.g. an object, a quantity of a substance, a beam of light, and at a particular instant, is capable of being measured; the variable may change, so that its numerical expression may assume different values at different times, in different conditions or in individual cases, but may be constant in respect of a particular entity in certain conditions or for practical purposes, e.g. the length of a bar may be regarded as constant for many purposes.</li></ul></li><li>Attention is drawn to the definitions of terms or expressions used. Some appear in the notes of several of the classes in this section, see in particular the definition of \"measuring\" in class <b>G01</b>. Others appear in paragraph 187 of the Guide to the IPC, see in particular the definitions of \"control\" and \"regulation\".</li><li>Classification in this section may present more difficulty than in other sections, because the distinction between different fields of use rests to a considerable extent on differences in the intention of the user rather than on any constructional differences or differences in the manner of use, and because the subjects dealt with are often in effect systems or combinations, which have features or parts in common, rather than \"things\", which are readily distinguishable as a whole. For example, information, e.g. a set of figures, may be displayed for the purpose of education or advertising covered by class <b>G09</b>, for enabling the result of a measurement to be known covered by class <b>G01</b>, for signalling the information to a distant point or for giving information which has been signalled from a distant point covered by class <b>G08</b>. The words used to describe the purpose depend on features that may be irrelevant to the form of the apparatus concerned, for example, such features as the desired effect on the person who sees the display, or whether the display is controlled from a remote point. Again, a device which responds to some change in a condition, e.g. in the pressure of a fluid, may be used, without modification of the device itself, to give information about the pressure covered by subclass <b>G01L</b> or about some other condition linked to the pressure covered by another subclass of class <b>G01</b>, e.g. <b>G01K</b> for temperature, to make a record of the pressure or of its occurrence covered by subclass <b>G07C</b>, to give an alarm covered by subclass <b>G08B</b>, or to control another apparatus covered by class <b>G05</b>. <ul><li>The classification scheme is intended to enable things of a similar nature, as indicated above, to be classified together. It is therefore particularly necessary for the real nature of any technical subject to be decided before it can be properly classified.</li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G01B1/00": {
+      "code": "G01B1/00",
+      "level": 0,
+      "parent": "G01B",
+      "ja": "材質の選択に特徴のある測定計器",
+      "en": "Measuring instruments characterised by the selection of material therefor",
+      "count": 1643,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B3/00": {
+      "code": "G01B3/00",
+      "level": 0,
+      "parent": "G01B",
+      "ja": "機械的技術の使用によって特徴づけられた測定計器［２００６．０１］<br><br><b><ul>注</ul></b><br>このグループに分類する場合、特定のパラメータを測定するための機械的装置は、さらにグループＧ０１Ｂ５／００に分類することができる。",
+      "en": "Measuring instruments characterised by the use of mechanical techniques; <br><br><b><u>Note(s)</u></b><br><br><ul><li>When classifying in this group, mechanical arrangements for measuring specific parameters can be further classified in group <b>G01B5/00</b>.</li></ul>",
+      "count": 3729,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B3/02": {
+      "code": "G01B3/02",
+      "level": 1,
+      "parent": "G01B3/00",
+      "ja": "直読用の目盛またはマークをもつ定規（巻尺Ｇ０１Ｂ３／１０）［２０２０．０１］",
+      "en": "Rulers with scales or marks for direct reading (measuring tapes <b>G01B3/10</b>)",
+      "count": 3837,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B3/04": {
+      "code": "G01B3/04",
+      "level": 2,
+      "parent": "G01B3/02",
+      "ja": "剛性のもの",
+      "en": "rigid",
+      "count": 5456,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B3/06": {
+      "code": "G01B3/06",
+      "level": 3,
+      "parent": "G01B3/04",
+      "ja": "折りたたみ式",
+      "en": "folding",
+      "count": 1959,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B3/08": {
+      "code": "G01B3/08",
+      "level": 3,
+      "parent": "G01B3/04",
+      "ja": "伸長式",
+      "en": "extensible",
+      "count": 2023,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B3/10": {
+      "code": "G01B3/10",
+      "level": 1,
+      "parent": "G01B3/00",
+      "ja": "巻尺［２０２０．０１］",
+      "en": "Measuring tapes",
+      "count": 8254,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B3/1003": {
+      "code": "G01B3/1003",
+      "level": 2,
+      "parent": "G01B3/10",
+      "ja": "構造または素材に特徴があるもの；レイアウトまたはしるしの表示に特徴のあるもの［２０２０．０１］",
+      "en": "characterised by structure or material; characterised by layout or indicia",
+      "count": 1697,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B3/1005": {
+      "code": "G01B3/1005",
+      "level": 2,
+      "parent": "G01B3/10",
+      "ja": "テープの巻き上げ、または巻き戻しを制御する手段［２０２０．０１］",
+      "en": "Means for controlling winding or unwinding of tapes",
+      "count": 901,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B3/1007": {
+      "code": "G01B3/1007",
+      "level": 3,
+      "parent": "G01B3/1005",
+      "ja": "固定する手段［２０２０．０１］",
+      "en": "Means for locking",
+      "count": 417,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B3/102": {
+      "code": "G01B3/102",
+      "level": 3,
+      "parent": "G01B3/1005",
+      "ja": "制動する手段［２０２０．０１］",
+      "en": "Means for damping",
+      "count": 85,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B3/1041": {
+      "code": "G01B3/1041",
+      "level": 2,
+      "parent": "G01B3/10",
+      "ja": "ケーシングに特徴があるもの［２０２０．０１］",
+      "en": "characterised by casings",
+      "count": 332,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B3/1043": {
+      "code": "G01B3/1043",
+      "level": 3,
+      "parent": "G01B3/1041",
+      "ja": "その内部構造の詳細，例．個別に成形されたケーシング半体を連結する手段［２０２０．０１］",
+      "en": "Details of internal structure thereof, e.g. means for coupling separately moulded casing halves",
+      "count": 206,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B3/1046": {
+      "code": "G01B3/1046",
+      "level": 3,
+      "parent": "G01B3/1041",
+      "ja": "その外部構造の詳細，例．確実によりしっかりと保持するための形状［２０２０．０１］",
+      "en": "Details of external structure thereof, e.g. shapes for ensuring firmer hold",
+      "count": 318,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B3/1048": {
+      "code": "G01B3/1048",
+      "level": 4,
+      "parent": "G01B3/1046",
+      "ja": "取り付けるため、または保持するために、一体化された手段［２０２０．０１］",
+      "en": "Integrated means for affixing or holding",
+      "count": 281,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B3/1056": {
+      "code": "G01B3/1056",
+      "level": 2,
+      "parent": "G01B3/10",
+      "ja": "テープの終端に設けられる工夫［２０２０．０１］",
+      "en": "Tape end arrangements, e.g. end-hooks",
+      "count": 697,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B3/1061": {
+      "code": "G01B3/1061",
+      "level": 2,
+      "parent": "G01B3/10",
+      "ja": "測長結果の数値を表示するための、または数値の読み取りを支援するための手段［２０２０．０１］",
+      "en": "Means for displaying or assisting reading of length measurement",
+      "count": 408,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B3/1069": {
+      "code": "G01B3/1069",
+      "level": 3,
+      "parent": "G01B3/1061",
+      "ja": "電子的または機械的表示装置［２０２０．０１］",
+      "en": "Electronic or mechanical display arrangements",
+      "count": 170,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B3/1071": {
+      "code": "G01B3/1071",
+      "level": 2,
+      "parent": "G01B3/10",
+      "ja": "巻尺を保持するための、または固定するための別個の手段［２０２０．０１］",
+      "en": "Separate means for supporting or affixing measuring tapes",
+      "count": 586,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B3/1084": {
+      "code": "G01B3/1084",
+      "level": 2,
+      "parent": "G01B3/10",
+      "ja": "測長以外の機能を達成するための工夫が設けられたテープ［２０２０．０１］",
+      "en": "Tapes combined with arrangements for functions other than the measuring of lengths",
+      "count": 413,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B3/1089": {
+      "code": "G01B3/1089",
+      "level": 3,
+      "parent": "G01B3/1084",
+      "ja": "マーキング，描画、または切断するためのもの［２０２０．０１］",
+      "en": "for marking, drawing or cutting",
+      "count": 386,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B3/1092": {
+      "code": "G01B3/1092",
+      "level": 3,
+      "parent": "G01B3/1084",
+      "ja": "測長と、少なくとも１つの性質の異なる他の測定を実施するためのもの，例．気泡式水準器［２０２０．０１］",
+      "en": "for performing length measurements and at least one other measurement of a different nature, e.g. bubble-type level",
+      "count": 326,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B3/1094": {
+      "code": "G01B3/1094",
+      "level": 3,
+      "parent": "G01B3/1084",
+      "ja": "情報を記録するための、または計算を実施するためのもの［２０２０．０１］",
+      "en": "for recording information or for performing calculations",
+      "count": 134,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B3/11": {
+      "code": "G01B3/11",
+      "level": 1,
+      "parent": "G01B3/00",
+      "ja": "測長用のくさり",
+      "en": "Chains for measuring length",
+      "count": 227,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B3/12": {
+      "code": "G01B3/12",
+      "level": 1,
+      "parent": "G01B3/00",
+      "ja": "測定ホイール",
+      "en": "Measuring wheels",
+      "count": 964,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B3/14": {
+      "code": "G01B3/14",
+      "level": 1,
+      "parent": "G01B3/00",
+      "ja": "輪郭チェック用の型板",
+      "en": "Templates for checking contours",
+      "count": 1189,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B3/16": {
+      "code": "G01B3/16",
+      "level": 1,
+      "parent": "G01B3/00",
+      "ja": "コンパス，すなわち一対のピボットアームをもつもの",
+      "en": "Compasses, i.e. with a pair of pivoted arms",
+      "count": 689,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B3/18": {
+      "code": "G01B3/18",
+      "level": 1,
+      "parent": "G01B3/00",
+      "ja": "マイクロメータ",
+      "en": "Micrometers",
+      "count": 3442,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B3/20": {
+      "code": "G01B3/20",
+      "level": 1,
+      "parent": "G01B3/00",
+      "ja": "スライドゲージ",
+      "en": "Slide gauges",
+      "count": 5929,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B3/22": {
+      "code": "G01B3/22",
+      "level": 1,
+      "parent": "G01B3/00",
+      "ja": "フィーラピンゲージ，例．ダイヤルゲージ（輪郭または曲率測定用Ｇ０１Ｂ５／２０）",
+      "en": "Feeler-pin gauges, e.g. dial gauges(for measuring contours or curvatures <b>G01B5/20</b>)",
+      "count": 3294,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B3/24": {
+      "code": "G01B3/24",
+      "level": 2,
+      "parent": "G01B3/22",
+      "ja": "オープンヨーク付き，すなわちカリパス",
+      "en": "with open yoke, i.e. calipers",
+      "count": 651,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B3/26": {
+      "code": "G01B3/26",
+      "level": 2,
+      "parent": "G01B3/22",
+      "ja": "プラグゲージ",
+      "en": "Plug gauges",
+      "count": 464,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B3/28": {
+      "code": "G01B3/28",
+      "level": 2,
+      "parent": "G01B3/22",
+      "ja": "深さゲージ",
+      "en": "Depth gauges",
+      "count": 575,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B3/30": {
+      "code": "G01B3/30",
+      "level": 1,
+      "parent": "G01B3/00",
+      "ja": "一対の固定面間の距離が一定のバー，ブロックまたはストリップ，ただし，調整できるものも含む，例．エンドメジャー，フィーラーストリップ",
+      "en": "Bars, blocks, or strips in which the distance between a pair of faces is fixed, although it may be preadjustable, e.g. end measure, feeler strip",
+      "count": 1577,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B3/32": {
+      "code": "G01B3/32",
+      "level": 2,
+      "parent": "G01B3/30",
+      "ja": "そのためのホルダー",
+      "en": "Holders therefor",
+      "count": 179,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B3/34": {
+      "code": "G01B3/34",
+      "level": 1,
+      "parent": "G01B3/00",
+      "ja": "リングまたはその他の穴あきゲージ，例．”はめあい”ゲージ",
+      "en": "Ring or other apertured gauges, e.g. \"go/no-go\" gauge",
+      "count": 791,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B3/36": {
+      "code": "G01B3/36",
+      "level": 2,
+      "parent": "G01B3/34",
+      "ja": "おねじ用",
+      "en": "for external screw threads",
+      "count": 262,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B3/38": {
+      "code": "G01B3/38",
+      "level": 1,
+      "parent": "G01B3/00",
+      "ja": "オープンヨークと対向面をもち，面間の内部距離が一定しているゲージ，すなわちカリパス，ただし調整できるものも含む",
+      "en": "Gauges with an open yoke and opposed faces, i.e. calipers, in which the internal distance between the faces is fixed, although it may be preadjustable",
+      "count": 901,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B3/40": {
+      "code": "G01B3/40",
+      "level": 2,
+      "parent": "G01B3/38",
+      "ja": "おねじ用",
+      "en": "for external screw threads",
+      "count": 566,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B3/42": {
+      "code": "G01B3/42",
+      "level": 2,
+      "parent": "G01B3/38",
+      "ja": "リミットゲージ型のもの，すなわち”はめあい式”（Ｇ０１Ｂ３／４０が優先）",
+      "en": "of limit-gauge type, i.e. \"go/no-go\"(<b>G01B3/40</b> takes precedence)",
+      "count": 182,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B3/44": {
+      "code": "G01B3/44",
+      "level": 3,
+      "parent": "G01B3/42",
+      "ja": "摩耗と公差のために調整できるもの",
+      "en": "preadjustable for wear or tolerance",
+      "count": 388,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B3/46": {
+      "code": "G01B3/46",
+      "level": 1,
+      "parent": "G01B3/00",
+      "ja": "一定間隔で面に係合する内径用のプラグゲージ，ただし，調整できるものも含む",
+      "en": "Plug gauges for internal dimensions with engaging surfaces which are at a fixed distance, although they may be preadjustable",
+      "count": 883,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B3/48": {
+      "code": "G01B3/48",
+      "level": 2,
+      "parent": "G01B3/46",
+      "ja": "めねじ用",
+      "en": "for internal screw threads",
+      "count": 800,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B3/50": {
+      "code": "G01B3/50",
+      "level": 2,
+      "parent": "G01B3/46",
+      "ja": "リミットゲージ型のもの，すなわち”はめあい式”（Ｇ０１Ｂ３／４８が優先）",
+      "en": "of limit-gauge type, i.e. \"go/no-go\"(<b>G01B3/48</b> takes precedence)",
+      "count": 448,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B3/52": {
+      "code": "G01B3/52",
+      "level": 3,
+      "parent": "G01B3/50",
+      "ja": "摩耗と公差のために調整できるもの",
+      "en": "preadjustable for wear or tolerance",
+      "count": 87,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B3/56": {
+      "code": "G01B3/56",
+      "level": 1,
+      "parent": "G01B3/00",
+      "ja": "角度またはテーパ測定用ゲージ，例．円錐カリパス",
+      "en": "Gauges for measuring angles or tapers, e.g. conical calipers",
+      "count": 5455,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B5/00": {
+      "code": "G01B5/00",
+      "level": 0,
+      "parent": "G01B",
+      "ja": "機械的技術の使用によって特徴づけられた測定装置［２００６．０１］<br><br><b><ul>注</ul></b><br>このグループに分類する場合、特定の機械的測定計器はさらにグループＧ０１Ｂ３／００に分類することができる。",
+      "en": "Measuring arrangements characterised by the use of mechanical techniques; <br><br><b><u>Note(s)</u></b><br><br><ul><li>When classifying in this group, specific mechanical measuring instruments can be further classified in group <b>G01B3/00</b>.</li></ul>",
+      "count": 55478,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B5/004": {
+      "code": "G01B5/004",
+      "level": 1,
+      "parent": "G01B5/00",
+      "ja": "点の座標測定用［６］",
+      "en": "for measuring coordinates of points",
+      "count": 1533,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B5/008": {
+      "code": "G01B5/008",
+      "level": 2,
+      "parent": "G01B5/004",
+      "ja": "座標測定機械を使うもの［６］",
+      "en": "using coordinate measuring machines",
+      "count": 2584,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B5/012": {
+      "code": "G01B5/012",
+      "level": 3,
+      "parent": "G01B5/008",
+      "ja": "そのための接触子ヘッド［６］",
+      "en": "Contact-making feeler heads therefor",
+      "count": 1563,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B5/016": {
+      "code": "G01B5/016",
+      "level": 4,
+      "parent": "G01B5/012",
+      "ja": "接触子の構造細部［６］",
+      "en": "Constructional details of contacts",
+      "count": 370,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B5/02": {
+      "code": "G01B5/02",
+      "level": 1,
+      "parent": "G01B5/00",
+      "ja": "長さ，幅または厚測定用（Ｇ０１Ｂ５／００４，Ｇ０１Ｂ５／０８が優先）［６］",
+      "en": "for measuring length, width, or thickness(<b>G01B5/004</b>, <b>G01B5/08</b> take precedence)",
+      "count": 30185,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B5/04": {
+      "code": "G01B5/04",
+      "level": 2,
+      "parent": "G01B5/02",
+      "ja": "移動体の長さまたは幅測定用に特に適合したもの",
+      "en": "specially adapted for measuring length or width of objects while moving",
+      "count": 2573,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B5/06": {
+      "code": "G01B5/06",
+      "level": 2,
+      "parent": "G01B5/02",
+      "ja": "厚み測定用",
+      "en": "for measuring thickness",
+      "count": 17348,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B5/08": {
+      "code": "G01B5/08",
+      "level": 1,
+      "parent": "G01B5/00",
+      "ja": "直径測定用",
+      "en": "for measuring diameters",
+      "count": 12442,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B5/10": {
+      "code": "G01B5/10",
+      "level": 2,
+      "parent": "G01B5/08",
+      "ja": "移動体の",
+      "en": "of objects while moving",
+      "count": 517,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B5/12": {
+      "code": "G01B5/12",
+      "level": 2,
+      "parent": "G01B5/08",
+      "ja": "内径",
+      "en": "internal diameters",
+      "count": 8535,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B5/14": {
+      "code": "G01B5/14",
+      "level": 1,
+      "parent": "G01B5/00",
+      "ja": "離隔対象物または離隔開口間の距離または間隙測定用（Ｇ０１Ｂ５／２４が優先）",
+      "en": "for measuring distance or clearance between spaced objects or spaced apertures(<b>G01B5/24</b> takes precedence)",
+      "count": 14694,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B5/16": {
+      "code": "G01B5/16",
+      "level": 2,
+      "parent": "G01B5/14",
+      "ja": "規則正しい間隔で連続している対象物または開口間",
+      "en": "between a succession of regularly spaced objects or regularly spaced apertures",
+      "count": 1631,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B5/18": {
+      "code": "G01B5/18",
+      "level": 1,
+      "parent": "G01B5/00",
+      "ja": "深さ測定用",
+      "en": "for measuring depth",
+      "count": 7814,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B5/20": {
+      "code": "G01B5/20",
+      "level": 1,
+      "parent": "G01B5/00",
+      "ja": "輪郭または曲率測定用",
+      "en": "for measuring contours or curvatures",
+      "count": 15918,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B5/207": {
+      "code": "G01B5/207",
+      "level": 2,
+      "parent": "G01B5/20",
+      "ja": "複数の固定した同時作動の変換器を使うもの（Ｇ０１Ｂ５／２１３～Ｇ０１Ｂ５／２２までが優先）［６］",
+      "en": "using a plurality of fixed, simultaneously operating transducers(<b>G01B5/213 to G01B5/22</b>  take precedence)",
+      "count": 1072,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B5/213": {
+      "code": "G01B5/213",
+      "level": 2,
+      "parent": "G01B5/20",
+      "ja": "曲率半径測定用［６］",
+      "en": "for measuring radius of curvature",
+      "count": 946,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B5/22": {
+      "code": "G01B5/22",
+      "level": 2,
+      "parent": "G01B5/20",
+      "ja": "球面計",
+      "en": "Spherometers",
+      "count": 178,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B5/24": {
+      "code": "G01B5/24",
+      "level": 1,
+      "parent": "G01B5/00",
+      "ja": "角度またはテーパ測定用；軸の心合せ試験用",
+      "en": "for measuring angles or tapers; for testing the alignment of axes",
+      "count": 16081,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B5/245": {
+      "code": "G01B5/245",
+      "level": 2,
+      "parent": "G01B5/24",
+      "ja": "垂直の検査用［６］",
+      "en": "for testing perpendicularity",
+      "count": 3960,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B5/25": {
+      "code": "G01B5/25",
+      "level": 2,
+      "parent": "G01B5/24",
+      "ja": "軸の心合せ検査用",
+      "en": "for testing the alignment of axes",
+      "count": 4105,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B5/252": {
+      "code": "G01B5/252",
+      "level": 3,
+      "parent": "G01B5/25",
+      "ja": "偏心率測定用，すなわち，二つの平行軸間の偏位［６］",
+      "en": "for measuring eccentricity, i.e. lateral shift between two parallel axes",
+      "count": 5782,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B5/255": {
+      "code": "G01B5/255",
+      "level": 2,
+      "parent": "G01B5/24",
+      "ja": "ホイールの心合せ試験用",
+      "en": "for testing wheel alignment",
+      "count": 1187,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B5/26": {
+      "code": "G01B5/26",
+      "level": 1,
+      "parent": "G01B5/00",
+      "ja": "面積測定用，例．プラニメータ［２００６．０１］",
+      "en": "for measuring areas, e.g. planimeters",
+      "count": 1345,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B5/28": {
+      "code": "G01B5/28",
+      "level": 1,
+      "parent": "G01B5/00",
+      "ja": "表面の粗さまたは不規則性測定用",
+      "en": "for measuring roughness or irregularity of surfaces",
+      "count": 10902,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B5/30": {
+      "code": "G01B5/30",
+      "level": 1,
+      "parent": "G01B5/00",
+      "ja": "固体の変形測定用，例．機械的ひずみ計",
+      "en": "for measuring the deformation in a solid, e.g. mechanical strain gauge",
+      "count": 7820,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B7/00": {
+      "code": "G01B7/00",
+      "level": 0,
+      "parent": "G01B",
+      "ja": "電気的または磁気的技術の使用によって特徴づけられた測定装置［２００６．０１］",
+      "en": "Measuring arrangements characterised by the use of electric or magnetic techniques",
+      "count": 28667,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B7/004": {
+      "code": "G01B7/004",
+      "level": 1,
+      "parent": "G01B7/00",
+      "ja": "点の座標測定用［６］",
+      "en": "for measuring coordinates of points",
+      "count": 1290,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B7/008": {
+      "code": "G01B7/008",
+      "level": 2,
+      "parent": "G01B7/004",
+      "ja": "座標測定機械を使うもの［６］",
+      "en": "using coordinate measuring machines",
+      "count": 433,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B7/012": {
+      "code": "G01B7/012",
+      "level": 3,
+      "parent": "G01B7/008",
+      "ja": "そのための接触子ヘッド［６］",
+      "en": "Contact-making feeler heads therefor",
+      "count": 701,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B7/016": {
+      "code": "G01B7/016",
+      "level": 4,
+      "parent": "G01B7/012",
+      "ja": "接触子の構造細部［６］",
+      "en": "Constructional details of contacts",
+      "count": 147,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B7/02": {
+      "code": "G01B7/02",
+      "level": 1,
+      "parent": "G01B7/00",
+      "ja": "長さ，幅または厚みの測定用（Ｇ０１Ｂ７／００４，Ｇ０１Ｂ７／１２が優先）［６］",
+      "en": "for measuring length, width, or thickness(<b>G01B7/004</b>, <b>G01B7/12</b> takes precedence)",
+      "count": 15795,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B7/04": {
+      "code": "G01B7/04",
+      "level": 2,
+      "parent": "G01B7/02",
+      "ja": "移動体の長さまたは幅測定用に特に適合したもの",
+      "en": "specially adapted for measuring length or width of objects while moving",
+      "count": 2748,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B7/06": {
+      "code": "G01B7/06",
+      "level": 2,
+      "parent": "G01B7/02",
+      "ja": "厚み測定用",
+      "en": "for measuring thickness",
+      "count": 8839,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B7/12": {
+      "code": "G01B7/12",
+      "level": 1,
+      "parent": "G01B7/00",
+      "ja": "直径測定用",
+      "en": "for measuring diameters",
+      "count": 2469,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B7/13": {
+      "code": "G01B7/13",
+      "level": 2,
+      "parent": "G01B7/12",
+      "ja": "内径［６］",
+      "en": "Internal diameters",
+      "count": 880,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B7/14": {
+      "code": "G01B7/14",
+      "level": 1,
+      "parent": "G01B7/00",
+      "ja": "離隔対象物または離隔開口間の距離または間隙測定用（Ｇ０１Ｂ７／３０が優先）",
+      "en": "for measuring distance or clearance between spaced objects or spaced apertures(<b>G01B7/30</b> takes precedence)",
+      "count": 6898,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B7/15": {
+      "code": "G01B7/15",
+      "level": 2,
+      "parent": "G01B7/14",
+      "ja": "規則的な間隔に置かれたもの［６］",
+      "en": "being regularly spaced",
+      "count": 114,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B7/16": {
+      "code": "G01B7/16",
+      "level": 1,
+      "parent": "G01B7/00",
+      "ja": "固体の変形測定用，例．抵抗ひずみ計によるもの",
+      "en": "for measuring the deformation in a solid, e.g. by resistance strain gauge",
+      "count": 14526,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B7/24": {
+      "code": "G01B7/24",
+      "level": 2,
+      "parent": "G01B7/16",
+      "ja": "磁気特性変化を使うもの",
+      "en": "using change in magnetic properties",
+      "count": 1309,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B7/26": {
+      "code": "G01B7/26",
+      "level": 1,
+      "parent": "G01B7/00",
+      "ja": "深さ測定用",
+      "en": "for measuring depth",
+      "count": 1298,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B7/28": {
+      "code": "G01B7/28",
+      "level": 1,
+      "parent": "G01B7/00",
+      "ja": "輪郭または曲率測定用",
+      "en": "for measuring contours or curvatures",
+      "count": 4503,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B7/287": {
+      "code": "G01B7/287",
+      "level": 2,
+      "parent": "G01B7/28",
+      "ja": "複数の固定した同時動作の変換器を使うもの（Ｇ０１Ｂ７／２９３が優先）［６］",
+      "en": "using a plurality of fixed, simultaneously operating transducers(<b>G01B7/293</b> takes precedence)",
+      "count": 507,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B7/293": {
+      "code": "G01B7/293",
+      "level": 2,
+      "parent": "G01B7/28",
+      "ja": "曲率半径測定用［６］",
+      "en": "for measuring radius of curvature",
+      "count": 115,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B7/30": {
+      "code": "G01B7/30",
+      "level": 1,
+      "parent": "G01B7/00",
+      "ja": "角度またはテーパ測定用；軸の心合せ試験用",
+      "en": "for measuring angles or tapers; for testing the alignment of axes",
+      "count": 17306,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B7/305": {
+      "code": "G01B7/305",
+      "level": 2,
+      "parent": "G01B7/30",
+      "ja": "垂直の検査用［６］",
+      "en": "for testing perpendicularity",
+      "count": 229,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B7/31": {
+      "code": "G01B7/31",
+      "level": 2,
+      "parent": "G01B7/30",
+      "ja": "軸の心合せ検査用",
+      "en": "for testing the alignment of axes",
+      "count": 628,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B7/312": {
+      "code": "G01B7/312",
+      "level": 3,
+      "parent": "G01B7/31",
+      "ja": "偏心率測定用，すなわち，二つの平行軸間の偏位［６］",
+      "en": "for measuring eccentricity, i.e. lateral shift between two parallel axes",
+      "count": 826,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B7/315": {
+      "code": "G01B7/315",
+      "level": 2,
+      "parent": "G01B7/30",
+      "ja": "ホイールの心合せ試験用",
+      "en": "for testing wheel alignment",
+      "count": 267,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B7/32": {
+      "code": "G01B7/32",
+      "level": 1,
+      "parent": "G01B7/00",
+      "ja": "面積測定用［２００６．０１］",
+      "en": "for measuring areas",
+      "count": 756,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B7/34": {
+      "code": "G01B7/34",
+      "level": 1,
+      "parent": "G01B7/00",
+      "ja": "表面の粗さまたは不規則性測定用",
+      "en": "for measuring roughness or irregularity of surfaces",
+      "count": 4492,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B9/00": {
+      "code": "G01B9/00",
+      "level": 0,
+      "parent": "G01B",
+      "ja": "光学的技術の使用によって特徴づけられた測定計器［２００６．０１］<br><br><b><ul>注</ul></b><br>このグループに分類する場合、特定のパラメータを測定するための光学的装置は、さらにグループＧ０１Ｂ１１／００に分類することができる。",
+      "en": "Measuring instruments characterised by the use of optical techniques; <br><br><b><u>Note(s)</u></b><br><br><ul><li>When classifying in this group, optical arrangements for measuring specific parameters can be further classified in group <b>G01B11/00</b>.</li></ul>",
+      "count": 1634,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B9/02": {
+      "code": "G01B9/02",
+      "level": 1,
+      "parent": "G01B9/00",
+      "ja": "干渉計［２０２２．０１］",
+      "en": "Interferometers",
+      "count": 17256,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B9/02001": {
+      "code": "G01B9/02001",
+      "level": 2,
+      "parent": "G01B9/02",
+      "ja": "放射に固有の特性の制御または生成に特徴のあるもの［２０２２．０１］",
+      "en": "characterised by controlling or generating intrinsic radiation properties",
+      "count": 352,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B9/02002": {
+      "code": "G01B9/02002",
+      "level": 3,
+      "parent": "G01B9/02001",
+      "ja": "２つ以上の異なる周波数を用いるもの［２０２２．０１］",
+      "en": "using two or more frequencies",
+      "count": 94,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B9/02003": {
+      "code": "G01B9/02003",
+      "level": 4,
+      "parent": "G01B9/02002",
+      "ja": "ビート周波数を用いるもの［２０２２．０１］",
+      "en": "using beat frequencies",
+      "count": 87,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B9/02004": {
+      "code": "G01B9/02004",
+      "level": 4,
+      "parent": "G01B9/02002",
+      "ja": "周波数走査によるもの［２０２２．０１］",
+      "en": "using frequency scans",
+      "count": 149,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B9/02015": {
+      "code": "G01B9/02015",
+      "level": 2,
+      "parent": "G01B9/02",
+      "ja": "光路の構成に特徴があるもの［２０２２．０１］",
+      "en": "characterised by the beam path configuration",
+      "count": 743,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B9/02017": {
+      "code": "G01B9/02017",
+      "level": 3,
+      "parent": "G01B9/02015",
+      "ja": "標的物と光ビーム群の間に複数の相互作用があるもの，例．異なる位置から発生するビーム反射［２０２２．０１］",
+      "en": "with multiple interactions between the target object and light beams, e.g. beam reflections occurring from different locations",
+      "count": 89,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B9/02018": {
+      "code": "G01B9/02018",
+      "level": 4,
+      "parent": "G01B9/02017",
+      "ja": "マルチパス干渉計，例．ダブルパス干渉計［２０２２．０１］",
+      "en": "Multipass interferometers, e.g. double-pass",
+      "count": 61,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B9/02055": {
+      "code": "G01B9/02055",
+      "level": 2,
+      "parent": "G01B9/02",
+      "ja": "エラーの低減または防止；試験するもの；較正［２０２２．０１］",
+      "en": "Reduction or prevention of errors; Testing; Calibration",
+      "count": 623,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B9/02056": {
+      "code": "G01B9/02056",
+      "level": 3,
+      "parent": "G01B9/02055",
+      "ja": "エラーの受動的低減［２０２２．０１］",
+      "en": "Passive reduction of errors",
+      "count": 161,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B9/02061": {
+      "code": "G01B9/02061",
+      "level": 4,
+      "parent": "G01B9/02056",
+      "ja": "傾きまたは位置ずれによる影響の低減または防止［２０２２．０１］",
+      "en": "Reduction or prevention of effects of tilts or misalignment",
+      "count": 32,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B9/0209": {
+      "code": "G01B9/0209",
+      "level": 2,
+      "parent": "G01B9/02",
+      "ja": "低コヒーレンス干渉計［２０２２．０１］",
+      "en": "Low-coherence interferometers",
+      "count": 147,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B9/02091": {
+      "code": "G01B9/02091",
+      "level": 3,
+      "parent": "G01B9/0209",
+      "ja": "断層撮影干渉計，例．光学的コヒーレンスに基づくもの［２０２２．０１］",
+      "en": "Tomographic interferometers, e.g. based on optical coherence",
+      "count": 531,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B9/02097": {
+      "code": "G01B9/02097",
+      "level": 2,
+      "parent": "G01B9/02",
+      "ja": "自己干渉計［２０２２．０１］",
+      "en": "Self-interferometers",
+      "count": 36,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B9/02098": {
+      "code": "G01B9/02098",
+      "level": 3,
+      "parent": "G01B9/02097",
+      "ja": "シアリング干渉計［２０２２．０１］",
+      "en": "Shearing interferometers",
+      "count": 40,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B9/021": {
+      "code": "G01B9/021",
+      "level": 2,
+      "parent": "G01B9/02",
+      "ja": "ホログラフィ技術によるもの［２］",
+      "en": "using holographic techniques",
+      "count": 1025,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B9/023": {
+      "code": "G01B9/023",
+      "level": 3,
+      "parent": "G01B9/021",
+      "ja": "等高線作成用（Ｇ０１Ｂ９／０２５～Ｇ０１Ｂ９／０２９が優先）［２］",
+      "en": "for contour producing(<b>G01B9/025 to G01B9/029</b>  take precedence)",
+      "count": 206,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B9/025": {
+      "code": "G01B9/025",
+      "level": 3,
+      "parent": "G01B9/021",
+      "ja": "二重露光方式［２］",
+      "en": "Double-exposure technique",
+      "count": 98,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B9/027": {
+      "code": "G01B9/027",
+      "level": 3,
+      "parent": "G01B9/021",
+      "ja": "実時間式［２］",
+      "en": "in real time",
+      "count": 62,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B9/029": {
+      "code": "G01B9/029",
+      "level": 3,
+      "parent": "G01B9/021",
+      "ja": "時間平均式［２］",
+      "en": "by time averaging",
+      "count": 6,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B9/04": {
+      "code": "G01B9/04",
+      "level": 1,
+      "parent": "G01B9/00",
+      "ja": "測定用顕微鏡",
+      "en": "Measuring microscopes",
+      "count": 1793,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B9/06": {
+      "code": "G01B9/06",
+      "level": 1,
+      "parent": "G01B9/00",
+      "ja": "測定用望遠鏡",
+      "en": "Measuring telescopes",
+      "count": 133,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B9/08": {
+      "code": "G01B9/08",
+      "level": 1,
+      "parent": "G01B9/00",
+      "ja": "光投影式コンパレータ",
+      "en": "Optical projection comparators",
+      "count": 625,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B9/10": {
+      "code": "G01B9/10",
+      "level": 1,
+      "parent": "G01B9/00",
+      "ja": "複数の面の間の角度測定用ゴニオメータ",
+      "en": "Goniometers for measuring angles between surfaces",
+      "count": 185,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B11/00": {
+      "code": "G01B11/00",
+      "level": 0,
+      "parent": "G01B",
+      "ja": "光学的技術の使用によって特徴づけられた測定装置［２００６．０１］<br><br><b><ul>注</ul></b><br>このグループに分類する場合、特定の光学的測定計器はさらにグループＧ０１Ｂ９／００に分類することができる。",
+      "en": "Measuring arrangements characterised by the use of optical techniques; <br><br><b><u>Note(s)</u></b><br><br><ul><li>When classifying in this group, specific optical measuring instruments can be further classified in group <b>G01B9/00</b>.</li></ul>",
+      "count": 80654,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B11/02": {
+      "code": "G01B11/02",
+      "level": 1,
+      "parent": "G01B11/00",
+      "ja": "長さ，幅または厚み測定用（Ｇ０１Ｂ１１／０８が優先）",
+      "en": "for measuring length, width, or thickness(<b>G01B11/08</b> takes precedence)",
+      "count": 42889,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B11/03": {
+      "code": "G01B11/03",
+      "level": 2,
+      "parent": "G01B11/02",
+      "ja": "点の座標測定によるもの［３］",
+      "en": "by measuring coordinates of points",
+      "count": 4699,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B11/04": {
+      "code": "G01B11/04",
+      "level": 2,
+      "parent": "G01B11/02",
+      "ja": "移動体の長さまたは幅測定用に特に適合したもの",
+      "en": "specially adapted for measuring length or width of objects while moving",
+      "count": 4750,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B11/06": {
+      "code": "G01B11/06",
+      "level": 2,
+      "parent": "G01B11/02",
+      "ja": "厚み測定用",
+      "en": "for measuring thickness",
+      "count": 23516,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B11/08": {
+      "code": "G01B11/08",
+      "level": 1,
+      "parent": "G01B11/00",
+      "ja": "直径測定用",
+      "en": "for measuring diameters",
+      "count": 7946,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B11/10": {
+      "code": "G01B11/10",
+      "level": 2,
+      "parent": "G01B11/08",
+      "ja": "移動体の",
+      "en": "of objects while moving",
+      "count": 1643,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B11/12": {
+      "code": "G01B11/12",
+      "level": 2,
+      "parent": "G01B11/08",
+      "ja": "内径",
+      "en": "internal diameters",
+      "count": 2357,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B11/14": {
+      "code": "G01B11/14",
+      "level": 1,
+      "parent": "G01B11/00",
+      "ja": "離隔対象物または離隔開口間の距離または間隙測定用（Ｇ０１Ｂ１１／２６が優先；光学的距離計Ｇ０１Ｃ３／００）",
+      "en": "for measuring distance or clearance between spaced objects or spaced apertures(<b>G01B11/26</b> takes precedence; rangefinders <b>G01C3/00</b>)",
+      "count": 14520,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B11/16": {
+      "code": "G01B11/16",
+      "level": 1,
+      "parent": "G01B11/00",
+      "ja": "固体の変形測定用，例．光学的ひずみ計",
+      "en": "for measuring the deformation in a solid, e.g. optical strain gauge",
+      "count": 21527,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B11/22": {
+      "code": "G01B11/22",
+      "level": 1,
+      "parent": "G01B11/00",
+      "ja": "深さ測定用",
+      "en": "for measuring depth",
+      "count": 4853,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B11/24": {
+      "code": "G01B11/24",
+      "level": 1,
+      "parent": "G01B11/00",
+      "ja": "輪郭または曲率の測定用",
+      "en": "for measuring contours or curvatures",
+      "count": 55189,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B11/245": {
+      "code": "G01B11/245",
+      "level": 2,
+      "parent": "G01B11/24",
+      "ja": "複数の，固定された，同時に作動する変換器を用いるもの（Ｇ０１Ｂ１１／２５５が優先）［７］",
+      "en": "using a plurality of fixed, simultaneously operating transducers(<b>G01B11/255</b> takes precedence)",
+      "count": 5200,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B11/25": {
+      "code": "G01B11/25",
+      "level": 2,
+      "parent": "G01B11/24",
+      "ja": "対象物にパターン，例．モアレ縞，を投影することによるもの（Ｇ０１Ｂ１１／２５５が優先）［７］",
+      "en": "by projecting a pattern, e.g. moir&eacute; fringes, on the object(<b>G01B11/255</b> takes precedence)",
+      "count": 11513,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B11/255": {
+      "code": "G01B11/255",
+      "level": 2,
+      "parent": "G01B11/24",
+      "ja": "曲率半径測定用［７］",
+      "en": "for measuring radius of curvature",
+      "count": 1276,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B11/26": {
+      "code": "G01B11/26",
+      "level": 1,
+      "parent": "G01B11/00",
+      "ja": "角度またはテーパ測定用；軸の心合せ試験用",
+      "en": "for measuring angles or tapers; for testing the alignment of axes",
+      "count": 20817,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B11/27": {
+      "code": "G01B11/27",
+      "level": 2,
+      "parent": "G01B11/26",
+      "ja": "軸の心合せ検査用",
+      "en": "for testing the alignment of axes",
+      "count": 7361,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B11/275": {
+      "code": "G01B11/275",
+      "level": 2,
+      "parent": "G01B11/26",
+      "ja": "ホイールの心合せ試験用",
+      "en": "for testing wheel alignment",
+      "count": 1349,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B11/28": {
+      "code": "G01B11/28",
+      "level": 1,
+      "parent": "G01B11/00",
+      "ja": "面積測定用［２００６．０１］",
+      "en": "for measuring areas",
+      "count": 4392,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B11/30": {
+      "code": "G01B11/30",
+      "level": 1,
+      "parent": "G01B11/00",
+      "ja": "表面の粗さまたは不規則性測定用",
+      "en": "for measuring roughness or irregularity of surfaces",
+      "count": 23674,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B13/00": {
+      "code": "G01B13/00",
+      "level": 0,
+      "parent": "G01B",
+      "ja": "流体の使用によって特徴づけられた測定装置",
+      "en": "Measuring arrangements characterised by the use of fluids",
+      "count": 2010,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B13/02": {
+      "code": "G01B13/02",
+      "level": 1,
+      "parent": "G01B13/00",
+      "ja": "長さ，幅または厚み測定用（Ｇ０１Ｂ１３／０８が優先）",
+      "en": "for measuring length, width, or thickness(<b>G01B13/08</b> takes precedence)",
+      "count": 925,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B13/03": {
+      "code": "G01B13/03",
+      "level": 2,
+      "parent": "G01B13/02",
+      "ja": "点の座標測定によるもの［３］",
+      "en": "by measuring coordinates of points",
+      "count": 30,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B13/04": {
+      "code": "G01B13/04",
+      "level": 2,
+      "parent": "G01B13/02",
+      "ja": "移動体の長さまたは幅測定用に特に適合したもの",
+      "en": "specially adapted for measuring length or width of objects while moving",
+      "count": 109,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B13/06": {
+      "code": "G01B13/06",
+      "level": 2,
+      "parent": "G01B13/02",
+      "ja": "厚さ測定用",
+      "en": "for measuring thickness",
+      "count": 522,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B13/08": {
+      "code": "G01B13/08",
+      "level": 1,
+      "parent": "G01B13/00",
+      "ja": "直径測定用",
+      "en": "for measuring diameters",
+      "count": 618,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B13/10": {
+      "code": "G01B13/10",
+      "level": 2,
+      "parent": "G01B13/08",
+      "ja": "内径",
+      "en": "internal diameters",
+      "count": 863,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B13/12": {
+      "code": "G01B13/12",
+      "level": 1,
+      "parent": "G01B13/00",
+      "ja": "離隔対象物または離隔開口間の距離または間隙測定用（Ｇ０１Ｂ１３／１８が優先）",
+      "en": "for measuring distance or clearance between spaced objects or spaced apertures(<b>G01B13/18</b> takes precedence)",
+      "count": 541,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B13/14": {
+      "code": "G01B13/14",
+      "level": 1,
+      "parent": "G01B13/00",
+      "ja": "深さ測定用",
+      "en": "for measuring depth",
+      "count": 201,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B13/16": {
+      "code": "G01B13/16",
+      "level": 1,
+      "parent": "G01B13/00",
+      "ja": "輪郭または曲率の測定用",
+      "en": "for measuring contours or curvatures",
+      "count": 488,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B13/18": {
+      "code": "G01B13/18",
+      "level": 1,
+      "parent": "G01B13/00",
+      "ja": "角度またはテーパ測定用；軸の心合せ試験用",
+      "en": "for measuring angles or tapers; for testing the alignment of axes",
+      "count": 461,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B13/19": {
+      "code": "G01B13/19",
+      "level": 2,
+      "parent": "G01B13/18",
+      "ja": "軸の心合せ検査用",
+      "en": "for testing the alignment of axes",
+      "count": 121,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B13/195": {
+      "code": "G01B13/195",
+      "level": 2,
+      "parent": "G01B13/18",
+      "ja": "ホイールの心合せ試験用",
+      "en": "for testing wheel alignment",
+      "count": 15,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B13/20": {
+      "code": "G01B13/20",
+      "level": 1,
+      "parent": "G01B13/00",
+      "ja": "面積測定用，例．空気式プラニメータ［２００６．０１］",
+      "en": "for measuring areas, e.g. pneumatic planimeters",
+      "count": 162,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B13/22": {
+      "code": "G01B13/22",
+      "level": 1,
+      "parent": "G01B13/00",
+      "ja": "表面の粗さまたは不規則性測定用",
+      "en": "for measuring roughness or irregularity of surfaces",
+      "count": 692,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B13/24": {
+      "code": "G01B13/24",
+      "level": 1,
+      "parent": "G01B13/00",
+      "ja": "固体の変形測定用［３］",
+      "en": "for measuring the deformation in a solid",
+      "count": 451,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B15/00": {
+      "code": "G01B15/00",
+      "level": 0,
+      "parent": "G01B",
+      "ja": "電磁波または粒子性放射線の使用によって特徴づけられた測定装置，例．マイクロ波，Ｘ線，ガンマ線または電子の使用によるもの（光学的技術の使用によって特徴づけられたものＧ０１Ｂ９／００，Ｇ０１Ｂ１１／００）［２００６．０１］",
+      "en": "Measuring arrangements characterised by the use of electromagnetic waves or particle radiation, e.g. by the use of microwaves, X-rays, gamma rays or electrons  (characterised by the use of optical techniques <b>G01B9/00</b>, <b>G01B11/00</b>)",
+      "count": 5660,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B15/02": {
+      "code": "G01B15/02",
+      "level": 1,
+      "parent": "G01B15/00",
+      "ja": "厚み測定用",
+      "en": "for measuring thickness",
+      "count": 4889,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B15/04": {
+      "code": "G01B15/04",
+      "level": 1,
+      "parent": "G01B15/00",
+      "ja": "輪郭または曲率の測定用",
+      "en": "for measuring contours or curvatures",
+      "count": 1847,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B15/06": {
+      "code": "G01B15/06",
+      "level": 1,
+      "parent": "G01B15/00",
+      "ja": "固体の変形測定用",
+      "en": "for measuring the deformation in a solid",
+      "count": 1134,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B15/08": {
+      "code": "G01B15/08",
+      "level": 1,
+      "parent": "G01B15/00",
+      "ja": "表面の粗さ，または不規則性の測定用［６］",
+      "en": "for measuring roughness or irregularity of surfaces",
+      "count": 530,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B17/00": {
+      "code": "G01B17/00",
+      "level": 0,
+      "parent": "G01B",
+      "ja": "亜音波，音波，または超音波振動の使用によって特徴づけられた測定装置［２００６．０１］",
+      "en": "Measuring arrangements characterised by the use of infrasonic, sonic or ultrasonic vibrations",
+      "count": 8343,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B17/02": {
+      "code": "G01B17/02",
+      "level": 1,
+      "parent": "G01B17/00",
+      "ja": "厚み測定用",
+      "en": "for measuring thickness",
+      "count": 7542,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B17/04": {
+      "code": "G01B17/04",
+      "level": 1,
+      "parent": "G01B17/00",
+      "ja": "固体の変形測定用，例．振動弦によるもの",
+      "en": "for measuring the deformation in a solid, e.g. by vibrating string",
+      "count": 1217,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B17/06": {
+      "code": "G01B17/06",
+      "level": 1,
+      "parent": "G01B17/00",
+      "ja": "輪郭または曲率の測定用［６］",
+      "en": "for measuring contours or curvatures",
+      "count": 1130,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B17/08": {
+      "code": "G01B17/08",
+      "level": 1,
+      "parent": "G01B17/00",
+      "ja": "表面の粗さ，または不規則性の測定用［６］",
+      "en": "for measuring roughness or irregularity of surfaces",
+      "count": 720,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B21/00": {
+      "code": "G01B21/00",
+      "level": 0,
+      "parent": "G01B",
+      "ja": "測定技術がこのサブクラスの他のグループに包含されない，特定されていないまたは関連の無い，測定装置またはその細部［２００６．０１］",
+      "en": "Measuring arrangements or details thereof, where the measuring technique is not covered by the other groups of this subclass, unspecified or not relevant",
+      "count": 32032,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B21/02": {
+      "code": "G01B21/02",
+      "level": 1,
+      "parent": "G01B21/00",
+      "ja": "長さ，幅または厚さの測定用（Ｇ０１Ｂ２１／１０が優先）［３］",
+      "en": "for measuring length, width, or thickness(<b>G01B21/10</b> takes precedence)",
+      "count": 22344,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B21/04": {
+      "code": "G01B21/04",
+      "level": 2,
+      "parent": "G01B21/02",
+      "ja": "点の座標測定によるもの［３］",
+      "en": "by measuring coordinates of points",
+      "count": 5778,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B21/06": {
+      "code": "G01B21/06",
+      "level": 2,
+      "parent": "G01B21/02",
+      "ja": "移動体の長さまたは幅測定用に特に適合したもの［３］",
+      "en": "specially adapted for measuring length or width of objects while moving",
+      "count": 3406,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B21/08": {
+      "code": "G01B21/08",
+      "level": 2,
+      "parent": "G01B21/02",
+      "ja": "厚さ測定用［３］",
+      "en": "for measuring thickness",
+      "count": 13566,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B21/10": {
+      "code": "G01B21/10",
+      "level": 1,
+      "parent": "G01B21/00",
+      "ja": "直径測定用［３］",
+      "en": "for measuring diameters",
+      "count": 4746,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B21/12": {
+      "code": "G01B21/12",
+      "level": 2,
+      "parent": "G01B21/10",
+      "ja": "移動体の［３］",
+      "en": "of objects while moving",
+      "count": 559,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B21/14": {
+      "code": "G01B21/14",
+      "level": 2,
+      "parent": "G01B21/10",
+      "ja": "内径［３］",
+      "en": "internal diameters",
+      "count": 2371,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B21/16": {
+      "code": "G01B21/16",
+      "level": 1,
+      "parent": "G01B21/00",
+      "ja": "離隔対象物間の距離または間隙測定用［３］",
+      "en": "for measuring distance or clearance between spaced objects",
+      "count": 6918,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B21/18": {
+      "code": "G01B21/18",
+      "level": 1,
+      "parent": "G01B21/00",
+      "ja": "深さ測定用［３］",
+      "en": "for measuring depth",
+      "count": 2949,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B21/20": {
+      "code": "G01B21/20",
+      "level": 1,
+      "parent": "G01B21/00",
+      "ja": "輪郭または曲率測定用，例．プロフィル測定［３］",
+      "en": "for measuring contours or curvatures, e.g. determining profile",
+      "count": 13680,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B21/22": {
+      "code": "G01B21/22",
+      "level": 1,
+      "parent": "G01B21/00",
+      "ja": "角度またはテーパ測定用；軸の心合せ検査用［３］",
+      "en": "for measuring angles or tapers; for testing the alignment of axes",
+      "count": 13169,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B21/24": {
+      "code": "G01B21/24",
+      "level": 2,
+      "parent": "G01B21/22",
+      "ja": "軸の心合せ検査用［３］",
+      "en": "for testing the alignment of axes",
+      "count": 3026,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B21/26": {
+      "code": "G01B21/26",
+      "level": 2,
+      "parent": "G01B21/22",
+      "ja": "ホイールの心合せ検査用［３］",
+      "en": "for testing wheel alignment",
+      "count": 584,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B21/28": {
+      "code": "G01B21/28",
+      "level": 1,
+      "parent": "G01B21/00",
+      "ja": "面積測定用［２００６．０１］",
+      "en": "for measuring areas",
+      "count": 1393,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B21/30": {
+      "code": "G01B21/30",
+      "level": 1,
+      "parent": "G01B21/00",
+      "ja": "表面の粗さまたは不規則性測定用［３］",
+      "en": "for measuring roughness or irregularity of surfaces",
+      "count": 11067,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    },
+    "G01B21/32": {
+      "code": "G01B21/32",
+      "level": 1,
+      "parent": "G01B21/00",
+      "ja": "固体の変形測定用［３］",
+      "en": "for measuring the deformation in a solid",
+      "count": 11215,
+      "sourceFile": "ipc_G01B.txt",
+      "kind": "ipc"
+    }
+  }
+}

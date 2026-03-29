@@ -1,0 +1,5906 @@
+window.IPC_SHARD_H01M = {
+  "generatedAt": "2026-03-20T02:17:47.229Z",
+  "total": 590,
+  "entries": {
+    "H01M": {
+      "code": "H01M",
+      "level": 0,
+      "parent": "H01",
+      "ja": "化学的エネルギーを電気的エネルギーに直接変換するための方法または手段，例．電池［２］<br><br><b><ul>注</ul></b><br>化学的エネルギーを電気的エネルギーに直接変換するための方法または手段，例．電池［２］<br>このサブクラスは一次電池または二次電池，燃料電池またはスタックを包含する。<br>型による電池<br>一次電池　Ｈ０１Ｍ６／００<br>燃料電池　Ｈ０１Ｍ８／００<br>二次電池　Ｈ０１Ｍ１０／００<br>混成電池；他に分類されない電気化学的発電装置；異なる型式の電気化学的発電装置の構造的組み合わせ　Ｈ０１Ｍ１２／００；Ｈ０１Ｍ１４／００；Ｈ０１Ｍ１６／００<br>種々の型の電池に共通する細部<br>電極　Ｈ０１Ｍ４／００<br>燃料電池以外の電気化学的電池の，発電要素以外の部分の構造の細部または製造方法　Ｈ０１Ｍ５０／００<br><br><b><ul>サブクラス内の索引</ul></b><br>型による電池<br>一次電池　Ｈ０１Ｍ６／００<br>燃料電池　Ｈ０１Ｍ８／００<br>二次電池　Ｈ０１Ｍ１０／００<br>混成電池；他に分類されない電気化学的発電装置；異なる型式の電気化学的発電装置の構造的組み合わせ　Ｈ０１Ｍ１２／００；Ｈ０１Ｍ１４／００；Ｈ０１Ｍ１６／００<br><br>種々の型の電池に共通する細部<br>電極Ｈ０１Ｍ４／００<br>燃料電池以外の電気化学的電池の，発電要素以外の部分の構造の細部または製造方法Ｈ０１Ｍ５０／００",
+      "en": "PROCESSES OR MEANS, e.g. BATTERIES, FOR THE DIRECT CONVERSION OF CHEMICAL ENERGY INTO ELECTRICAL ENERGY; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This subclass <u>covers</u> galvanic primary or secondary cells or batteries, fuel cells or stacks.</li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">CELLS ACCORDING TO TYPE<tr><td width=\"70%\">Primary cells</td><td><b><b>6/00</b></b></td></tr></tr><tr><td width=\"70%\">Fuel cells</td><td><b><b>8/00</b></b></td></tr></tr><tr><td width=\"70%\">Secondary cells</td><td><b><b>10/00</b></b></td></tr></tr><tr><td width=\"70%\">Hybrid cells; electrochemical generators not provided for otherwise; combinations of different types of electrochemical generators</td><td><b><b>12/00</b>; <b>14/00</b>; <b>16/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">DETAILS COMMON TO DIFFERENT TYPES OF CELLS<tr><td width=\"70%\">Electrodes</td><td><b><b>4/00</b></b></td></tr></tr><tr><td width=\"70%\">Constructional details or processes of manufacture of the non-active parts of electrochemical cells other than fuel cells</td><td><b><b>50/00</b></b></td></tr></tr></tr></table>",
+      "count": 3116,
+      "sourceFile": "ipc_H.txt",
+      "kind": "ipc"
+    },
+    "H01": {
+      "code": "H01",
+      "level": 0,
+      "parent": "H",
+      "ja": "電気素子<br><br><b><ul>注</ul></b><br>（１）他に項目が存在する単一の技術のみを含む方法，例．乾燥，被覆，はその技術に関連するクラスに分類される。<br>（２）“マイクロ構造の装置”および“マイクロ構造のシステム”に関する，クラスＢ８１およびサブクラスＢ８１Ｂの両タイトルの後の注に注意すること。［７］",
+      "en": "ELECTRIC ELEMENTS; <br><br><b><u>Note(s)</u></b><br><br><ul><li>Processes involving only a single technical art, e.g. drying, coating, for which provision exists elsewhere are classified in the relevant class for that art.</li><li>Attention is drawn to the Notes following the titles of class <b>B81</b> and subclass <b>B81B</b> relating to \"microstructural devices\" and \"microstructural systems\".</li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_H.txt",
+      "kind": "ipc"
+    },
+    "H": {
+      "code": "H",
+      "level": 0,
+      "parent": null,
+      "ja": "電気<br><br><b><ul>注</ul></b><br>（利用にあたっての基本原則と一般的指示）<br>Ｉ．セクションＨは以下のものを包含する：<br>（ａ）基本的電気素子，これは全ての電気ユニットと，装置や回路の一般的な機械的構成を包含しており，その中にはプリント配線と称されるものに各種の基本素子を組み立てたものも含まれる。またこれは他に包含されない場合には，ある程度までこれらの素子の製造をも包含する；<br>（ｂ）発電，これは，発電，変換および配電と共にそのための装置の制御を包含する；<br>（ｃ）電気の応用，これは以下のものを包含する：<br>（ｉ）一般的な利用技術，すなわち．電気加熱と電気照明回路の利用技術；<br>（ｉｉ）厳密な意味で電気的か電子的かいずれかの特定の利用技術で国際特許分類の他のセクションに包含されないもの，これは以下のものを含んでいる：<br>（１）電気的光源，これはレーザーを含む；<br>（２）電気的なＸ線技術；<br>（３）電気的なプラズマ技術，および帯電粒子または中性子の発生および加速；<br>（ｄ）基本電子回路およびその制御；<br>（ｅ）電気通信技術；これは電気―機械変換器一般を含む；<br>（ｆ）物品や上記素子を作るための特定の材料の使用，この点については指針の８８項から９０項を参照されたい。<br>ＩＩ．このセクションにおいては，下記の一般規則が適用される：<br>（ａ）上記Ｉ（ｃ）で述べた例外を除いて，国際特許分類のセクションＨ以外のいずれかのセクションに分類される特殊な操作，方法，装置，物体または物品に特有の電気的観点または部分は，常にその操作，方法，装置，物体または物品のためのサブクラスに分類されるか，または類似の性質を有する技術主題に関する共通的な特徴がクラス・レベルで展開されている場合には，それは，該技術主題のための一般的電気的な応用を完全に包含するサブクラスに，その操作，方法，装置，物体または物品と関連して分類される；<br>（ｂ）この様な電気的な応用には，一般的なものであれ特殊なものであれ，次の事項が含まれる。<br>（ｉ）Ａ６１における治療方法および装置；<br>（ｉｉ）Ｂ０１，Ｂ０３およびＢ２３Ｋにおける各種の実験室または工業的操作に用いられる電気的方法および装置；<br>（ｉｉｉ）セクションＢの“運輸”のサブセクションにおける車両一般および特殊な車両への電気の供給，電気的推進および電気照明；<br>（ｉｖ）Ｆ０２Ｐにおける内燃機関の電気点火系，およびＦ２３Ｑにおける燃焼装置一般のもの；<br>（ｖ）セクションＧにおける全ての電気的部分，すなわち，電気変量の測定器を含む測定装置，検査，信号および計算。このＧセクションにおいて電気とは，一般に手段として扱われるものでそれ自体目的として扱われるものではない；<br>（ｃ）全ての電気的な応用は一般的なものであれ特殊なものであれ，それが含んでいる電気的“基本的素子”に関して言えば，“基本的な電気”の観点がセクションＨ（上記Ｉ（ａ）参照）にあることを前提としている。この規則は，セクションＨ自身にある上記Ｉ（ｃ）で示した電気の応用に対しても有効である。",
+      "en": "ELECTRICITY; <br><br><b><u>Note(s)</u></b><br><br><ul><li>These Notes cover the basic principles and general instructions for use of section <b>H</b>.<ul><li>Section <b>H</b> <u>covers</u>: <ul><li>basic electric elements, which cover all electric units and the general mechanical structure of apparatus and circuits, including the assembly of various basic elements into what are called printed circuits and also cover to a certain extent the manufacture of these elements (when not covered elsewhere);</li><li>generation of electricity, which covers the generation, conversion and distribution of electricity together with the controlling of the corresponding gear;</li><li>applied electricity, which <u>covers</u>: <ul><li>general utilisation techniques, viz. those of electric heating and electric lighting circuits;</li><li>some special utilisation techniques, either electric or electronic in the strict sense, which are not covered by other sections of the Classification, including: <ul><li>electric light sources, including lasers;</li><li>electric X-ray technique;</li><li>electric plasma technique and the generation and acceleration of electrically charged particles or neutrons;</li></ul></li></ul></li><li>basic electronic circuits and their control;</li><li>radio or electric communication technique;</li><li>the use of a specified material for the manufacture of the article or element described. In this connection, paragraphs 88 to 90 of the Guide should be referred to.</li></ul></li><li>In this section, the following general rules apply: <ul><li>Subject to the exceptions stated in I(c), above, any electric aspect or part peculiar to a particular operation, process, apparatus, object or article, classified in one of the sections of the Classification other than section <b>H</b>, is always classified in the subclass for that operation, process, apparatus, object or article. Where common characteristics concerning technical subjects of similar nature have been brought out at class level, the electric aspect or part is classified, in conjunction with the operation, process, apparatus, object or article, in a subclass which covers entirely the general electrical applications for the technical subject in question;</li><li>The electrical applications referred to under (a), above, either general or particular, include: <ul><li>the therapeutic processes and apparatus, in class <b>A61</b>;</li><li>the electric processes and apparatus used in various laboratory or industrial operations, in classes <b>B01</b> and <b>B03</b> and in subclass <b>B23K</b>;</li><li>the electricity supply, electric propulsion and electric lighting of vehicles in general and of particular vehicles, in the subsection \"Transporting\" of section <b>B</b>;</li><li>the electric ignition systems of internal-combustion engines, in subclass <b>F02P</b>, and of combustion apparatus in general, in subclass <b>F23Q</b>;</li><li>the whole electrical part of section <b>G</b>, i.e. measuring devices including apparatus for measuring electric variables, checking, signalling and calculating. Electricity in that section is generally dealt with as a means and not as an end in itself;</li></ul></li><li>All electrical applications, both general and particular, presuppose that the \"basic electricity\" aspect appears in section <b>H</b> (see I(a) above) as regards the electric \"basic elements\" which they comprise. This rule is also valid for applied electricity, referred to in I(c), above, which appears in section <b>H</b> itself.</li></ul></li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_H.txt",
+      "kind": "ipc"
+    },
+    "H01M4/00": {
+      "code": "H01M4/00",
+      "level": 0,
+      "parent": "H01M",
+      "ja": "電極［２］<br><br><b><ul>注</ul></b><br>混成電池の電極を分類する場合，混成電池の各半電池は各別に取り扱う，例．一次／燃料電池型混成電池の一次側半電池の電極は４／０６に包含される一次電池電極として取り扱う。［２］",
+      "en": "Electrodes; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In classifying electrodes of hybrid cells, the individual half-cells of the hybrid cell are considered separately, e.g. an electrode in the primary half of a primary/fuel type hybrid cell is considered to be a primary-cell electrode covered by <b>H01M4/06</b>. </li></ul>",
+      "count": 3626,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M4/02": {
+      "code": "H01M4/02",
+      "level": 1,
+      "parent": "H01M4/00",
+      "ja": "活物質からなるまたは活物質を含有した電極［２］",
+      "en": "Electrodes composed of, or comprising, active material",
+      "count": 33019,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M4/04": {
+      "code": "H01M4/04",
+      "level": 2,
+      "parent": "H01M4/02",
+      "ja": "製造方法一般［２］",
+      "en": "Processes of manufacture in general",
+      "count": 42007,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M4/06": {
+      "code": "H01M4/06",
+      "level": 2,
+      "parent": "H01M4/02",
+      "ja": "一次電池の電極［２］",
+      "en": "Electrodes for primary cells",
+      "count": 7459,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M4/08": {
+      "code": "H01M4/08",
+      "level": 3,
+      "parent": "H01M4/06",
+      "ja": "製造方法［２］",
+      "en": "Processes of manufacture",
+      "count": 2731,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M4/10": {
+      "code": "H01M4/10",
+      "level": 4,
+      "parent": "H01M4/08",
+      "ja": "中央芯材をもつ圧縮された電極，すなわちドーリー［２］",
+      "en": "of pressed electrodes with central core, i.e. dollies",
+      "count": 344,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M4/12": {
+      "code": "H01M4/12",
+      "level": 4,
+      "parent": "H01M4/08",
+      "ja": "消耗性の金属または合金電極（活物質としての合金組成物を用いるものＨ０１Ｍ４／３８）［２］",
+      "en": "of consumable metal or alloy electrodes(use of alloy compositions as active materials <b>H01M4/38</b>)",
+      "count": 1501,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M4/13": {
+      "code": "H01M4/13",
+      "level": 2,
+      "parent": "H01M4/02",
+      "ja": "非水電解質二次電池用の電極，例．リチウム電池用のもの；その製造方法［２０１０．０１］<br><br><b><ul>注</ul></b><br>このグループは，高温で作動する蓄電池のための電極，例．溶融ナトリウム電極，を包含しない。それらの主題事項はグループ１０／３９に分類される。［２０１０．０１］",
+      "en": "Electrodes for accumulators with non-aqueous electrolyte, e.g. for lithium-accumulators; Processes of manufacture thereof; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This group <u>does not cover</u> electrodes for accumulators working at high temperatures, e.g. molten sodium electrodes, which subject matter is classified in group <b>H01M10/39</b>.</li></ul>",
+      "count": 36022,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M4/131": {
+      "code": "H01M4/131",
+      "level": 3,
+      "parent": "H01M4/13",
+      "ja": "複合酸化物または複合水酸化物，あるいは酸化物または水酸化物の混合物，例．ＬｉＣｏＯｘを主成分とする電極［２０１０．０１］",
+      "en": "Electrodes based on mixed oxides or hydroxides, or on mixtures of oxides or hydroxides, e.g. LiCoOx",
+      "count": 20638,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M4/1315": {
+      "code": "H01M4/1315",
+      "level": 4,
+      "parent": "H01M4/131",
+      "ja": "ハロゲン原子を含むもの，例．ＬｉＣｏＯｘＦｙ［２０１０．０１］",
+      "en": "containing halogen atoms, e.g. LiCoOxFy",
+      "count": 469,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M4/133": {
+      "code": "H01M4/133",
+      "level": 3,
+      "parent": "H01M4/13",
+      "ja": "炭素質材料，例．黒鉛層間化合物またはＣＦｘを主成分とする電極［２０１０．０１］",
+      "en": "Electrodes based on carbonaceous material, e.g. graphite-intercalation compounds or CFx",
+      "count": 15253,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M4/134": {
+      "code": "H01M4/134",
+      "level": 3,
+      "parent": "H01M4/13",
+      "ja": "金属，Ｓｉまたは合金を主成分とする電極［２０１０．０１］",
+      "en": "Electrodes based on metals, Si or alloys",
+      "count": 16227,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M4/136": {
+      "code": "H01M4/136",
+      "level": 3,
+      "parent": "H01M4/13",
+      "ja": "酸化物，水酸化物以外の無機化合物，例．硫化物，セレン化物，テルル化物，ハロゲン化物またはＬｉＣｏＦｙを主成分とする電極［２０１０．０１］",
+      "en": "Electrodes based on inorganic compounds other than oxides or hydroxides, e.g. sulfides, selenides, tellurides, halogenides or LiCoFy",
+      "count": 9179,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M4/137": {
+      "code": "H01M4/137",
+      "level": 3,
+      "parent": "H01M4/13",
+      "ja": "電気活性ポリマーを主成分とする電極［２０１０．０１］",
+      "en": "Electrodes based on electro-active polymers",
+      "count": 1721,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M4/139": {
+      "code": "H01M4/139",
+      "level": 3,
+      "parent": "H01M4/13",
+      "ja": "製造方法［２０１０．０１］",
+      "en": "Processes of manufacture",
+      "count": 23963,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M4/1391": {
+      "code": "H01M4/1391",
+      "level": 4,
+      "parent": "H01M4/139",
+      "ja": "複合酸化物または複合水酸化物，あるいは酸化物または水酸化物の混合物，例．ＬｉＣｏＯｘ，を主成分とする電極の製造方法　［２０１０．０１］",
+      "en": "of electrodes based on mixed oxides or hydroxides, or on mixtures of oxides or hydroxides, e.g. LiCoOx",
+      "count": 9268,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M4/13915": {
+      "code": "H01M4/13915",
+      "level": 5,
+      "parent": "H01M4/1391",
+      "ja": "ハロゲン原子を含むもの，例．ＬｉＣｏＯｘＦｙ［２０１０．０１］",
+      "en": "containing halogen atoms, e.g. LiCoOxFy",
+      "count": 187,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M4/1393": {
+      "code": "H01M4/1393",
+      "level": 4,
+      "parent": "H01M4/139",
+      "ja": "炭素質材料，例．黒鉛層間化合物またはＣＦｘ，を主成分とする電極の製造方法［２０１０．０１］",
+      "en": "of electrodes based on carbonaceous material, e.g. graphite-intercalation compounds or CFx",
+      "count": 7094,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M4/1395": {
+      "code": "H01M4/1395",
+      "level": 4,
+      "parent": "H01M4/139",
+      "ja": "金属，Ｓｉまたは合金を主成分とする電極の製造方法［２０１０．０１］",
+      "en": "of electrodes based on metals, Si or alloys",
+      "count": 8413,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M4/1397": {
+      "code": "H01M4/1397",
+      "level": 4,
+      "parent": "H01M4/139",
+      "ja": "酸化物，水酸化物以外の無機化合物，例．硫化物，セレン化物，テルル化物，ハロゲン化物またはＬｉＣｏＦｙ，を主成分とする電極の製造方法［２０１０．０１］",
+      "en": "of electrodes based on inorganic compounds other than oxides or hydroxides, e.g. sulfides, selenides, tellurides, halogenides or LiCoFy",
+      "count": 4994,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M4/1399": {
+      "code": "H01M4/1399",
+      "level": 4,
+      "parent": "H01M4/139",
+      "ja": "電気活性ポリマーを主成分とする電極の製造方法［２０１０．０１］",
+      "en": "of electrodes based on electro-active polymers",
+      "count": 808,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M4/14": {
+      "code": "H01M4/14",
+      "level": 2,
+      "parent": "H01M4/02",
+      "ja": "鉛―酸蓄電池用極板［２］",
+      "en": "Electrodes for lead-acid accumulators",
+      "count": 4425,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M4/16": {
+      "code": "H01M4/16",
+      "level": 3,
+      "parent": "H01M4/14",
+      "ja": "製造方法［２］",
+      "en": "Processes of manufacture",
+      "count": 1934,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M4/18": {
+      "code": "H01M4/18",
+      "level": 4,
+      "parent": "H01M4/16",
+      "ja": "プランテ式極板［２］",
+      "en": "of Plante electrodes",
+      "count": 133,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M4/20": {
+      "code": "H01M4/20",
+      "level": 4,
+      "parent": "H01M4/16",
+      "ja": "ペースト式極板［２］",
+      "en": "of pasted electrodes",
+      "count": 3527,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M4/21": {
+      "code": "H01M4/21",
+      "level": 5,
+      "parent": "H01M4/20",
+      "ja": "ペースト式極板の乾燥［２］",
+      "en": "Drying of pasted electrodes",
+      "count": 717,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M4/22": {
+      "code": "H01M4/22",
+      "level": 4,
+      "parent": "H01M4/16",
+      "ja": "極板の化成［２］",
+      "en": "Forming of electrodes",
+      "count": 921,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M4/23": {
+      "code": "H01M4/23",
+      "level": 5,
+      "parent": "H01M4/22",
+      "ja": "化成後の極板の乾燥または保存［２］",
+      "en": "Drying or preserving electrodes after forming",
+      "count": 469,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M4/24": {
+      "code": "H01M4/24",
+      "level": 2,
+      "parent": "H01M4/02",
+      "ja": "アルカリ蓄電池用極板［２］",
+      "en": "Electrodes for alkaline accumulators",
+      "count": 5622,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M4/26": {
+      "code": "H01M4/26",
+      "level": 3,
+      "parent": "H01M4/24",
+      "ja": "製造方法［２］",
+      "en": "Processes of manufacture",
+      "count": 4091,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M4/28": {
+      "code": "H01M4/28",
+      "level": 4,
+      "parent": "H01M4/26",
+      "ja": "活物質の担体への付着［２］",
+      "en": "Precipitating active material on the carrier",
+      "count": 756,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M4/29": {
+      "code": "H01M4/29",
+      "level": 5,
+      "parent": "H01M4/28",
+      "ja": "電気化学的方法によるもの［２］",
+      "en": "by electrochemical methods",
+      "count": 366,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M4/30": {
+      "code": "H01M4/30",
+      "level": 4,
+      "parent": "H01M4/26",
+      "ja": "加圧［２］",
+      "en": "Pressing",
+      "count": 411,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M4/32": {
+      "code": "H01M4/32",
+      "level": 3,
+      "parent": "H01M4/24",
+      "ja": "ニッケル酸化物または水酸化物極板［２］",
+      "en": "Nickel oxide or hydroxide electrodes",
+      "count": 2790,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M4/34": {
+      "code": "H01M4/34",
+      "level": 3,
+      "parent": "H01M4/24",
+      "ja": "銀酸化物または水酸化物極板［２］",
+      "en": "Silver oxide or hydroxide electrodes",
+      "count": 258,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M4/36": {
+      "code": "H01M4/36",
+      "level": 2,
+      "parent": "H01M4/02",
+      "ja": "活物質，固形活物質，流体活物質の材料の選択［２］",
+      "en": "Selection of substances as active materials, active masses, active liquids",
+      "count": 65239,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M4/38": {
+      "code": "H01M4/38",
+      "level": 3,
+      "parent": "H01M4/36",
+      "ja": "元素または合金［２］",
+      "en": "of elements or alloys",
+      "count": 35103,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M4/40": {
+      "code": "H01M4/40",
+      "level": 4,
+      "parent": "H01M4/38",
+      "ja": "アルカリ金属を主とする合金［２］",
+      "en": "Alloys based on alkali metals",
+      "count": 3769,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M4/42": {
+      "code": "H01M4/42",
+      "level": 4,
+      "parent": "H01M4/38",
+      "ja": "亜鉛を主とする合金［２］",
+      "en": "Alloys based on zinc",
+      "count": 2777,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M4/44": {
+      "code": "H01M4/44",
+      "level": 4,
+      "parent": "H01M4/38",
+      "ja": "カドミウムを主とする合金［２］",
+      "en": "Alloys based on cadmium",
+      "count": 365,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M4/46": {
+      "code": "H01M4/46",
+      "level": 4,
+      "parent": "H01M4/38",
+      "ja": "マグネシウムまたはアルミニウムを主とする合金［２］",
+      "en": "Alloys based on magnesium or aluminium",
+      "count": 2203,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M4/48": {
+      "code": "H01M4/48",
+      "level": 3,
+      "parent": "H01M4/36",
+      "ja": "無機酸化物または無機水酸化物［２，２０１０．０１］",
+      "en": "of inorganic oxides or hydroxides",
+      "count": 17959,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M4/485": {
+      "code": "H01M4/485",
+      "level": 4,
+      "parent": "H01M4/48",
+      "ja": "軽金属を挿入するための複合酸化物または複合水酸化物，例．ＬｉＴｉ２Ｏ４，ＬｉＴｉ２ＯｘＦｙ（Ｈ０１Ｍ４／５０５，Ｈ０１Ｍ４／５２５が優先）［２０１０．０１］",
+      "en": "of mixed oxides or hydroxides for inserting or intercalating light metals, e.g. LiTi<sub>2</sub>O<sub>4</sub> or LiTi<sub>2</sub>OxFy(<b>H01M4/505</b>, <b>H01M4/525</b> take precedence)",
+      "count": 17861,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M4/50": {
+      "code": "H01M4/50",
+      "level": 4,
+      "parent": "H01M4/48",
+      "ja": "マンガン［２，２０１０．０１］",
+      "en": "of manganese",
+      "count": 5041,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M4/505": {
+      "code": "H01M4/505",
+      "level": 5,
+      "parent": "H01M4/50",
+      "ja": "軽金属を挿入するためのマンガンを含有する複合酸化物または複合水酸化物，例．ＬｉＭｎ２Ｏ４，ＬｉＭｎ２ＯｘＦｙ［２０１０．０１］",
+      "en": "of mixed oxides or hydroxides containing manganese for inserting or intercalating light metals, e.g. LiMn<sub>2</sub>O<sub>4</sub> or LiMn<sub>2</sub>OxFy",
+      "count": 33904,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M4/52": {
+      "code": "H01M4/52",
+      "level": 4,
+      "parent": "H01M4/48",
+      "ja": "ニッケル，コバルトまたは鉄［２，２０１０．０１］",
+      "en": "of nickel, cobalt or iron",
+      "count": 6515,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M4/525": {
+      "code": "H01M4/525",
+      "level": 5,
+      "parent": "H01M4/52",
+      "ja": "軽金属を挿入するための鉄，コバルトまたはニッケルを含有する複合酸化物または複合水酸化物，例．ＬｉＮｉＯ２，ＬｉＣｏＯ２，ＬｉＣｏＯｘＦｙ［２０１０．０１］",
+      "en": "of mixed oxides or hydroxides containing iron, cobalt or nickel for inserting or intercalating light metals, e.g. LiNiO<sub>2</sub>, LiCoO<sub>2</sub> or LiCoOxFy",
+      "count": 37648,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M4/54": {
+      "code": "H01M4/54",
+      "level": 4,
+      "parent": "H01M4/48",
+      "ja": "銀［２］",
+      "en": "of silver",
+      "count": 929,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M4/56": {
+      "code": "H01M4/56",
+      "level": 4,
+      "parent": "H01M4/48",
+      "ja": "鉛［２］",
+      "en": "of lead",
+      "count": 1095,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M4/57": {
+      "code": "H01M4/57",
+      "level": 5,
+      "parent": "H01M4/56",
+      "ja": "“灰色鉛”，すなわち鉛と鉛酸化物を含む粉末［２］",
+      "en": "of \"grey lead\", i.e. powders containing lead and lead oxide",
+      "count": 1057,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M4/58": {
+      "code": "H01M4/58",
+      "level": 3,
+      "parent": "H01M4/36",
+      "ja": "酸化物，水酸化物以外の無機化合物，例．硫化物，セレン化物，テルル化物，ハロゲン化物またはＬｉＣｏＦｙ；ポリアニオン構造を有する化合物，例．リン酸塩，ケイ酸塩またはホウ酸塩［２，２０１０．０１］",
+      "en": "of inorganic compounds other than oxides or hydroxides, e.g. sulfides, selenides, tellurides, halogenides or LiCoF<sub>y</sub>; of polyanionic structures, e.g. phosphates, silicates or borates",
+      "count": 35822,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M4/583": {
+      "code": "H01M4/583",
+      "level": 4,
+      "parent": "H01M4/58",
+      "ja": "炭素質材料，例．黒鉛層間化合物またはＣＦｘ［２０１０．０１］",
+      "en": "Carbonaceous material, e.g. graphite-intercalation compounds or CFx",
+      "count": 14584,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M4/587": {
+      "code": "H01M4/587",
+      "level": 5,
+      "parent": "H01M4/583",
+      "ja": "軽金属を挿入するためのもの［２０１０．０１］",
+      "en": "for inserting or intercalating light metals",
+      "count": 22409,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M4/60": {
+      "code": "H01M4/60",
+      "level": 3,
+      "parent": "H01M4/36",
+      "ja": "有機化合物［２］",
+      "en": "of organic compounds",
+      "count": 7845,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M4/62": {
+      "code": "H01M4/62",
+      "level": 2,
+      "parent": "H01M4/02",
+      "ja": "固形活物質中の不活性材料成分の選択，例．結着剤，充填剤［２］",
+      "en": "Selection of inactive substances as ingredients for active masses, e.g. binders, fillers",
+      "count": 78715,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M4/64": {
+      "code": "H01M4/64",
+      "level": 2,
+      "parent": "H01M4/02",
+      "ja": "担体または集電体［２］",
+      "en": "Carriers or collectors",
+      "count": 6329,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M4/66": {
+      "code": "H01M4/66",
+      "level": 3,
+      "parent": "H01M4/64",
+      "ja": "物質の選択［２］",
+      "en": "Selection of materials",
+      "count": 21650,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M4/68": {
+      "code": "H01M4/68",
+      "level": 4,
+      "parent": "H01M4/66",
+      "ja": "鉛―酸蓄電池のためのもの［２］",
+      "en": "for use in lead-acid accumulators",
+      "count": 2682,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M4/70": {
+      "code": "H01M4/70",
+      "level": 3,
+      "parent": "H01M4/64",
+      "ja": "形状または型に特徴のあるもの［２］",
+      "en": "characterised by shape or form",
+      "count": 5687,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M4/72": {
+      "code": "H01M4/72",
+      "level": 4,
+      "parent": "H01M4/70",
+      "ja": "格子［２］",
+      "en": "Grids",
+      "count": 1175,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M4/73": {
+      "code": "H01M4/73",
+      "level": 5,
+      "parent": "H01M4/72",
+      "ja": "鉛―酸蓄電池のためのもの，例．フレームプレート［２］",
+      "en": "for lead-acid accumulators, e.g. frame plates",
+      "count": 3403,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M4/74": {
+      "code": "H01M4/74",
+      "level": 5,
+      "parent": "H01M4/72",
+      "ja": "網状または織物状材料；エキスパンドメタルラス［２］",
+      "en": "Meshes or woven material; Expanded metal",
+      "count": 3480,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M4/75": {
+      "code": "H01M4/75",
+      "level": 4,
+      "parent": "H01M4/70",
+      "ja": "線，杆または細長片［２］",
+      "en": "Wires, rods, or strips",
+      "count": 1112,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M4/76": {
+      "code": "H01M4/76",
+      "level": 4,
+      "parent": "H01M4/70",
+      "ja": "活物質を保持するための入れもの，例．チューブ，カプセル［２］",
+      "en": "Containers for holding the active material, e.g. tubes, capsules",
+      "count": 1261,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M4/78": {
+      "code": "H01M4/78",
+      "level": 4,
+      "parent": "H01M4/70",
+      "ja": "板状または円筒状以外の形状，例．ら旋状［２］",
+      "en": "Shapes other than plane or cylindrical, e.g. helical",
+      "count": 651,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M4/80": {
+      "code": "H01M4/80",
+      "level": 4,
+      "parent": "H01M4/70",
+      "ja": "微孔性極板，例．焼結基板［２］",
+      "en": "Porous plates, e.g. sintered carriers",
+      "count": 4656,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M4/82": {
+      "code": "H01M4/82",
+      "level": 3,
+      "parent": "H01M4/64",
+      "ja": "鉛―酸蓄電池用担体の多段階製造方法［２］",
+      "en": "Multi-step processes for manufacturing carriers for lead-acid accumulators",
+      "count": 1347,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M4/84": {
+      "code": "H01M4/84",
+      "level": 4,
+      "parent": "H01M4/82",
+      "ja": "鋳造工程を有するもの［２］",
+      "en": "involving casting",
+      "count": 523,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M4/86": {
+      "code": "H01M4/86",
+      "level": 1,
+      "parent": "H01M4/00",
+      "ja": "触媒により活性化された無消耗性電極，例．燃料電池のためのもの［２］",
+      "en": "Inert electrodes with catalytic activity, e.g. for fuel cells",
+      "count": 23219,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M4/88": {
+      "code": "H01M4/88",
+      "level": 2,
+      "parent": "H01M4/86",
+      "ja": "製造方法［２］",
+      "en": "Processes of manufacture",
+      "count": 23179,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M4/90": {
+      "code": "H01M4/90",
+      "level": 2,
+      "parent": "H01M4/86",
+      "ja": "触媒の選択［２］",
+      "en": "Selection of catalytic material",
+      "count": 15323,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M4/92": {
+      "code": "H01M4/92",
+      "level": 3,
+      "parent": "H01M4/90",
+      "ja": "白金族の金属（Ｈ０１Ｍ４／９４が優先）［２］",
+      "en": "Metals of platinum group(<b>H01M4/94</b> takes precedence)",
+      "count": 9310,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M4/94": {
+      "code": "H01M4/94",
+      "level": 2,
+      "parent": "H01M4/86",
+      "ja": "非多孔質拡散電極，例．パラジウム薄膜，イオン交換膜［２］",
+      "en": "Non-porous diffusion electrodes, e.g. palladium membranes, ion exchange membranes",
+      "count": 924,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M4/96": {
+      "code": "H01M4/96",
+      "level": 2,
+      "parent": "H01M4/86",
+      "ja": "炭素を主とする電極［２］",
+      "en": "Carbon-based electrodes",
+      "count": 7502,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M4/98": {
+      "code": "H01M4/98",
+      "level": 2,
+      "parent": "H01M4/86",
+      "ja": "ラネー型電極［２］",
+      "en": "Raney-type electrodes",
+      "count": 179,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M6/00": {
+      "code": "H01M6/00",
+      "level": 0,
+      "parent": "H01M",
+      "ja": "一次電池；その製造［２］<br><br><b><ul>注</ul></b><br>このグループにおいては，一次電池とは，電池のエネルギーが該電池内に化学的エネルギーの形態で存在し，再生されることのない電気化学的発電装置をいう。［２］",
+      "en": "Primary cells; Manufacture thereof; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this group, primary cells are electrochemical generators in which the cell energy is present in chemical form and is not regenerated. </li></ul>",
+      "count": 10944,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M6/02": {
+      "code": "H01M6/02",
+      "level": 1,
+      "parent": "H01M6/00",
+      "ja": "細部（電極の細部Ｈ０１Ｍ４／００，発電要素以外の部分の構造の細部Ｈ０１Ｍ５０／００）［２００６．０１］",
+      "en": "Details (of electrodes <b>H01M4/00</b>, of non-active parts <b>H01M50/00</b>)",
+      "count": 1642,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M6/04": {
+      "code": "H01M6/04",
+      "level": 1,
+      "parent": "H01M6/00",
+      "ja": "水成電解質をもつ電池［２］",
+      "en": "Cells with aqueous electrolyte",
+      "count": 4026,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M6/06": {
+      "code": "H01M6/06",
+      "level": 2,
+      "parent": "H01M6/04",
+      "ja": "乾電池，すなわち電解液が非流動化された電池［２］",
+      "en": "Dry cells, i.e. cells wherein the electrolyte is rendered non-fluid",
+      "count": 3900,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M6/08": {
+      "code": "H01M6/08",
+      "level": 3,
+      "parent": "H01M6/06",
+      "ja": "コップ状電極をもつもの［２］",
+      "en": "with cup-shaped electrodes",
+      "count": 2440,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M6/10": {
+      "code": "H01M6/10",
+      "level": 3,
+      "parent": "H01M6/06",
+      "ja": "巻回または折り重ね電極をもつもの［２］",
+      "en": "with wound or folded electrodes",
+      "count": 1638,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M6/12": {
+      "code": "H01M6/12",
+      "level": 3,
+      "parent": "H01M6/06",
+      "ja": "板状電極をもつもの［２］",
+      "en": "with flat electrodes",
+      "count": 2038,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M6/14": {
+      "code": "H01M6/14",
+      "level": 1,
+      "parent": "H01M6/00",
+      "ja": "非水成電解質をもつ電池［２］",
+      "en": "Cells with non-aqueous electrolyte",
+      "count": 4792,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M6/16": {
+      "code": "H01M6/16",
+      "level": 2,
+      "parent": "H01M6/14",
+      "ja": "有機電解質をもつもの（Ｈ０１Ｍ６／１８が優先）［２］",
+      "en": "with organic electrolyte(<b>H01M6/18</b> takes precedence)",
+      "count": 7049,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M6/18": {
+      "code": "H01M6/18",
+      "level": 2,
+      "parent": "H01M6/14",
+      "ja": "固体電解質をもつもの［２］",
+      "en": "with solid electrolyte",
+      "count": 5146,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M6/20": {
+      "code": "H01M6/20",
+      "level": 3,
+      "parent": "H01M6/18",
+      "ja": "高温度で動作するもの（活性化熱電池Ｈ０１Ｍ６／３６）［２］",
+      "en": "working at high temperature(deferred-action thermal cells <b>H01M6/36</b>)",
+      "count": 258,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M6/22": {
+      "code": "H01M6/22",
+      "level": 1,
+      "parent": "H01M6/00",
+      "ja": "電解液の非流動化［２］",
+      "en": "Immobilising of electrolyte",
+      "count": 1080,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M6/24": {
+      "code": "H01M6/24",
+      "level": 1,
+      "parent": "H01M6/00",
+      "ja": "２電解液一次電池［２］",
+      "en": "Cells comprising two different electrolytes",
+      "count": 340,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M6/26": {
+      "code": "H01M6/26",
+      "level": 1,
+      "parent": "H01M6/00",
+      "ja": "酸化作用を有する活物質をもたない電池，例．ボルタ電池［２］",
+      "en": "Cells without oxidising active material, e.g. Volta cells",
+      "count": 210,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M6/28": {
+      "code": "H01M6/28",
+      "level": 1,
+      "parent": "H01M6/00",
+      "ja": "標準電池，例．ウエストン電池［２］",
+      "en": "Standard cells, e.g. Weston cells",
+      "count": 78,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M6/30": {
+      "code": "H01M6/30",
+      "level": 1,
+      "parent": "H01M6/00",
+      "ja": "活性化電池［２］",
+      "en": "Deferred-action cells",
+      "count": 365,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M6/32": {
+      "code": "H01M6/32",
+      "level": 2,
+      "parent": "H01M6/30",
+      "ja": "電解液または電解液成分を外部から注入して活性化するもの［２］",
+      "en": "activated through external addition of electrolyte or of electrolyte components",
+      "count": 1012,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M6/34": {
+      "code": "H01M6/34",
+      "level": 3,
+      "parent": "H01M6/32",
+      "ja": "浸漬式電池，例．海水電池［２］",
+      "en": "Immersion cells, e.g. sea-water cells",
+      "count": 1136,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M6/36": {
+      "code": "H01M6/36",
+      "level": 2,
+      "parent": "H01M6/30",
+      "ja": "電解質を具備し，物理的手段により活性化されるもの，例．熱電池［２］",
+      "en": "containing electrolyte and made operational by physical means, e.g. thermal cells",
+      "count": 2069,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M6/38": {
+      "code": "H01M6/38",
+      "level": 3,
+      "parent": "H01M6/36",
+      "ja": "機械的手段によるもの［２］",
+      "en": "by mechanical means",
+      "count": 677,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M6/40": {
+      "code": "H01M6/40",
+      "level": 1,
+      "parent": "H01M6/00",
+      "ja": "印刷電池［２］",
+      "en": "Printed batteries",
+      "count": 960,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M6/42": {
+      "code": "H01M6/42",
+      "level": 1,
+      "parent": "H01M6/00",
+      "ja": "一次素電池の集合化（Ｈ０１Ｍ６／４０が優先）［２］",
+      "en": "Grouping of primary cells into batteries(<b>H01M6/40</b> takes precedence)",
+      "count": 1945,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M6/44": {
+      "code": "H01M6/44",
+      "level": 2,
+      "parent": "H01M6/42",
+      "ja": "円筒状またはコップ状電池［２］",
+      "en": "of tubular or cup-shaped cells",
+      "count": 551,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M6/46": {
+      "code": "H01M6/46",
+      "level": 2,
+      "parent": "H01M6/42",
+      "ja": "平板状電池［２］",
+      "en": "of flat cells",
+      "count": 1061,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M6/48": {
+      "code": "H01M6/48",
+      "level": 3,
+      "parent": "H01M6/46",
+      "ja": "双極電極をもつもの［２］",
+      "en": "with bipolar electrodes",
+      "count": 748,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M6/50": {
+      "code": "H01M6/50",
+      "level": 1,
+      "parent": "H01M6/00",
+      "ja": "修理または保守のための方法または装置，例．動作温度の維持（電池内部の状態を検知するための導電接続の構造の細部，例．電圧検出端子の構造の細部Ｈ０１Ｍ５０／５６９）［２０２１．０１］",
+      "en": "Methods or arrangements for servicing or maintenance, e.g. for maintaining operating temperature(constructional details of current conducting connections for detecting conditions inside cells or batteries, e.g. details of voltage sensing terminals, <b>H01M50/569</b>)",
+      "count": 5200,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M6/52": {
+      "code": "H01M6/52",
+      "level": 1,
+      "parent": "H01M6/00",
+      "ja": "老朽化した電池から有用資材の再生［２］",
+      "en": "Reclaiming serviceable parts of waste cells or batteries",
+      "count": 2219,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/00": {
+      "code": "H01M8/00",
+      "level": 0,
+      "parent": "H01M",
+      "ja": "燃料電池；その製造［２，２０１６．０１］<br><br><b><ul>注</ul></b><br>このグループにおいて，次の表現は示されたとおりの意味で用いる：燃料電池とは，反応物質が外部から供給される電気化学的発電装置をいう。［２］",
+      "en": "Fuel cells; Manufacture thereof; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this group, the following expression is used with the meaning indicated:<ul><li>\"Fuel cell\" means an electrochemical generator wherein the reactants are supplied from outside.  </li></ul></li></ul>",
+      "count": 16051,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/008": {
+      "code": "H01M8/008",
+      "level": 1,
+      "parent": "H01M8/00",
+      "ja": "燃料電池の廃棄または再生［２０１６．０１］",
+      "en": "Disposal or recycling of fuel cells",
+      "count": 404,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/02": {
+      "code": "H01M8/02",
+      "level": 1,
+      "parent": "H01M8/00",
+      "ja": "細部（電極Ｈ０１Ｍ４／８６～Ｈ０１Ｍ４／９８）［２，２０１６．０１］",
+      "en": "Details(electrodes <b>H01M4/86 to H01M4/98</b> )",
+      "count": 40393,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/0202": {
+      "code": "H01M8/0202",
+      "level": 2,
+      "parent": "H01M8/02",
+      "ja": "集電体；セパレータ，例．双極性セパレータ；インタコネクタ［２０１６．０１］",
+      "en": "Collectors; Separators, e.g. bipolar separators; Interconnectors",
+      "count": 4030,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/0204": {
+      "code": "H01M8/0204",
+      "level": 3,
+      "parent": "H01M8/0202",
+      "ja": "非多孔性で材料により特徴付けられるもの［２０１６．０１］",
+      "en": "Non-porous and characterised by the material",
+      "count": 297,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/0206": {
+      "code": "H01M8/0206",
+      "level": 4,
+      "parent": "H01M8/0204",
+      "ja": "金属または合金［２０１６．０１］",
+      "en": "Metals or alloys",
+      "count": 1841,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/0208": {
+      "code": "H01M8/0208",
+      "level": 5,
+      "parent": "H01M8/0206",
+      "ja": "合金［２０１６．０１］",
+      "en": "Alloys",
+      "count": 402,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/021": {
+      "code": "H01M8/021",
+      "level": 6,
+      "parent": "H01M8/0208",
+      "ja": "鉄基合金［２０１６．０１］",
+      "en": "Alloys based on iron",
+      "count": 646,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/0213": {
+      "code": "H01M8/0213",
+      "level": 4,
+      "parent": "H01M8/0204",
+      "ja": "ガス不透過性で炭素を含有する材料［２０１６．０１］",
+      "en": "Gas-impermeable carbon-containing materials",
+      "count": 1188,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/0215": {
+      "code": "H01M8/0215",
+      "level": 4,
+      "parent": "H01M8/0204",
+      "ja": "ガラス；セラミック材料［２０１６．０１］",
+      "en": "Glass; Ceramic materials",
+      "count": 453,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/0217": {
+      "code": "H01M8/0217",
+      "level": 5,
+      "parent": "H01M8/0215",
+      "ja": "任意に添加成分を有するＡＭＯ↓３型の複合酸化物，Ａはアルカリ土類金属または希土類元素，Ｍは金属元素，例．ペロブスカイト［２０１６．０１］",
+      "en": "Complex oxides, optionally doped, of the type AMO<sub>3</sub>, A being an alkaline earth metal or rare earth metal and M being a metal, e.g. perovskites",
+      "count": 191,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/0221": {
+      "code": "H01M8/0221",
+      "level": 4,
+      "parent": "H01M8/0204",
+      "ja": "樹脂；有機高分子［２０１６．０１］",
+      "en": "Organic resins; Organic polymers",
+      "count": 786,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/0223": {
+      "code": "H01M8/0223",
+      "level": 4,
+      "parent": "H01M8/0204",
+      "ja": "複合物［２０１６．０１］",
+      "en": "Composites",
+      "count": 245,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/0226": {
+      "code": "H01M8/0226",
+      "level": 5,
+      "parent": "H01M8/0223",
+      "ja": "混合物の形態にあるもの［２０１６．０１］",
+      "en": "in the form of mixtures",
+      "count": 583,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/0228": {
+      "code": "H01M8/0228",
+      "level": 5,
+      "parent": "H01M8/0223",
+      "ja": "層状または被覆された生産物の形態にあるもの［２０１６．０１］",
+      "en": "in the form of layered or coated products",
+      "count": 2102,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/023": {
+      "code": "H01M8/023",
+      "level": 3,
+      "parent": "H01M8/0202",
+      "ja": "多孔性で材料により特徴付けられるもの［２０１６．０１］",
+      "en": "Porous and characterised by the material",
+      "count": 581,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/0232": {
+      "code": "H01M8/0232",
+      "level": 4,
+      "parent": "H01M8/023",
+      "ja": "金属または合金［２０１６．０１］",
+      "en": "Metals or alloys",
+      "count": 903,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/0234": {
+      "code": "H01M8/0234",
+      "level": 4,
+      "parent": "H01M8/023",
+      "ja": "炭素質の材料［２０１６．０１］",
+      "en": "Carbonaceous material",
+      "count": 1198,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/0236": {
+      "code": "H01M8/0236",
+      "level": 4,
+      "parent": "H01M8/023",
+      "ja": "ガラス；セラミック；サーメット［２０１６．０１］",
+      "en": "Glass; Ceramics; Cermets",
+      "count": 268,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/0239": {
+      "code": "H01M8/0239",
+      "level": 4,
+      "parent": "H01M8/023",
+      "ja": "樹脂；有機高分子［２０１６．０１］",
+      "en": "Organic resins; Organic polymers",
+      "count": 833,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/0241": {
+      "code": "H01M8/0241",
+      "level": 4,
+      "parent": "H01M8/023",
+      "ja": "複合物［２０１６．０１］",
+      "en": "Composites",
+      "count": 217,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/0243": {
+      "code": "H01M8/0243",
+      "level": 5,
+      "parent": "H01M8/0241",
+      "ja": "混合物の形態にあるもの［２０１６．０１］",
+      "en": "in the form of mixtures",
+      "count": 480,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/0245": {
+      "code": "H01M8/0245",
+      "level": 5,
+      "parent": "H01M8/0241",
+      "ja": "層状または被覆された生産物の形態にあるもの［２０１６．０１］",
+      "en": "in the form of layered or coated products",
+      "count": 1339,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/0247": {
+      "code": "H01M8/0247",
+      "level": 3,
+      "parent": "H01M8/0202",
+      "ja": "形により特徴付けられるもの（流路の形状により特徴付けられるものＨ０１Ｍ８／０２５８）［２０１６．０１］",
+      "en": "characterised by the form(characterised by a channel configuration <b>H01M8/0258</b>)",
+      "count": 1663,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/025": {
+      "code": "H01M8/025",
+      "level": 4,
+      "parent": "H01M8/0247",
+      "ja": "半円筒状［２０１６．０１］",
+      "en": "semicylindrical",
+      "count": 21,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/0252": {
+      "code": "H01M8/0252",
+      "level": 4,
+      "parent": "H01M8/0247",
+      "ja": "管状［２０１６．０１］",
+      "en": "tubular",
+      "count": 97,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/0254": {
+      "code": "H01M8/0254",
+      "level": 4,
+      "parent": "H01M8/0247",
+      "ja": "コルゲート状または波状［２０１６．０１］",
+      "en": "corrugated or undulated",
+      "count": 515,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/0256": {
+      "code": "H01M8/0256",
+      "level": 4,
+      "parent": "H01M8/0247",
+      "ja": "ビア，すなわち，コネクタがセパレータ材料を貫通するもの［２０１６．０１］",
+      "en": "Vias, i.e. connectors passing through the separator material",
+      "count": 223,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/0258": {
+      "code": "H01M8/0258",
+      "level": 3,
+      "parent": "H01M8/0202",
+      "ja": "流路の形状または配置により特徴付けられるもの，例．反応物質または冷却剤の流動場に特徴［２０１６．０１］",
+      "en": "characterised by the configuration of channels, e.g. by the flow field of the reactant or coolant",
+      "count": 4879,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/026": {
+      "code": "H01M8/026",
+      "level": 4,
+      "parent": "H01M8/0258",
+      "ja": "くぼみにより特徴付けられるもの，例．それらのピッチまたは深さ［２０１６．０１］",
+      "en": "characterised by grooves, e.g. their pitch or depth",
+      "count": 1810,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/0263": {
+      "code": "H01M8/0263",
+      "level": 4,
+      "parent": "H01M8/0258",
+      "ja": "ミアンダ，サーペンタイン形状をもつもの［２０１６．０１］",
+      "en": "having meandering or serpentine paths",
+      "count": 1235,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/0265": {
+      "code": "H01M8/0265",
+      "level": 4,
+      "parent": "H01M8/0258",
+      "ja": "反応物質または冷却剤の流路の断面が変化するもの［２０１６．０１］",
+      "en": "the reactant or coolant channels having varying cross sections",
+      "count": 1009,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/0267": {
+      "code": "H01M8/0267",
+      "level": 3,
+      "parent": "H01M8/0202",
+      "ja": "加熱または冷却手段をもつもの，例．ヒーターまたは冷却剤の流路［２０１６．０１］",
+      "en": "having heating or cooling means, e.g. heaters or coolant flow channels",
+      "count": 2011,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/0271": {
+      "code": "H01M8/0271",
+      "level": 2,
+      "parent": "H01M8/02",
+      "ja": "電極，マトリクスまたは膜の周囲を封止する手段または支持する手段［２０１６．０１］",
+      "en": "Sealing or supporting means around electrodes, matrices or membranes",
+      "count": 2379,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/0273": {
+      "code": "H01M8/0273",
+      "level": 3,
+      "parent": "H01M8/0271",
+      "ja": "フレームの形態で封止または支持する手段［２０１６．０１］",
+      "en": "with sealing or supporting means in the form of a frame",
+      "count": 3181,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/0276": {
+      "code": "H01M8/0276",
+      "level": 3,
+      "parent": "H01M8/0271",
+      "ja": "形により特徴付けられる封止手段（Ｈ０１Ｍ８／０２７３が優先）［２０１６．０１］",
+      "en": "Sealing means characterised by their form(<b>H01M8/0273</b> takes precedence)",
+      "count": 2373,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/028": {
+      "code": "H01M8/028",
+      "level": 3,
+      "parent": "H01M8/0271",
+      "ja": "材料により特徴付けられる封止手段［２０１６．０１］",
+      "en": "Sealing means characterised by their material",
+      "count": 366,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/0282": {
+      "code": "H01M8/0282",
+      "level": 4,
+      "parent": "H01M8/028",
+      "ja": "無機材料［２０１６．０１］",
+      "en": "Inorganic material",
+      "count": 465,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/0284": {
+      "code": "H01M8/0284",
+      "level": 4,
+      "parent": "H01M8/028",
+      "ja": "樹脂；有機高分子［２０１６．０１］",
+      "en": "Organic resins; Organic polymers",
+      "count": 847,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/0286": {
+      "code": "H01M8/0286",
+      "level": 3,
+      "parent": "H01M8/0271",
+      "ja": "シールを形成する方法［２０１６．０１］",
+      "en": "Processes for forming seals",
+      "count": 1358,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/0289": {
+      "code": "H01M8/0289",
+      "level": 2,
+      "parent": "H01M8/02",
+      "ja": "電解質を保持する手段（固体高分子電解質Ｈ０１Ｍ８／１０１８）［２０１６．０１］",
+      "en": "Means for holding the electrolyte(solid polymer electrolytes <b>H01M8/1018</b>)",
+      "count": 366,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/0293": {
+      "code": "H01M8/0293",
+      "level": 3,
+      "parent": "H01M8/0289",
+      "ja": "電解液を固定化するマトリクス［２０１６．０１］",
+      "en": "Matrices for immobilising electrolyte solutions",
+      "count": 83,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/0295": {
+      "code": "H01M8/0295",
+      "level": 3,
+      "parent": "H01M8/0289",
+      "ja": "溶融電解質を固定化するマトリクス［２０１６．０１］",
+      "en": "Matrices for immobilising electrolyte melts",
+      "count": 36,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/0297": {
+      "code": "H01M8/0297",
+      "level": 2,
+      "parent": "H01M8/02",
+      "ja": "電極，リザーバ層，熱交換ユニットまたは双極性セパレータを相互に結合する手順または手段（Ｈ０１Ｍ８／０２７１が優先）［２０１６．０１］",
+      "en": "Arrangements for joining electrodes, reservoir layers, heat exchange units or bipolar separators to each other(<b>H01M8/0271</b> takes precedence)",
+      "count": 1119,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/04": {
+      "code": "H01M8/04",
+      "level": 1,
+      "parent": "H01M8/00",
+      "ja": "補助的な装置，例．圧力制御のためのもの，または流体循環のためのもの［２，２０１６．０１］",
+      "en": "Auxiliary arrangements, e.g. for control of pressure or for circulation of fluids",
+      "count": 49819,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/04007": {
+      "code": "H01M8/04007",
+      "level": 2,
+      "parent": "H01M8/04",
+      "ja": "熱交換に関連するもの［２０１６．０１］",
+      "en": "related to heat exchange",
+      "count": 7682,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/04014": {
+      "code": "H01M8/04014",
+      "level": 3,
+      "parent": "H01M8/04007",
+      "ja": "気体流体を使用する熱交換；反応物質の燃焼による熱交換［２０１６．０１］",
+      "en": "Heat exchange using gaseous fluids; Heat exchange by combustion of reactants",
+      "count": 5312,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/04029": {
+      "code": "H01M8/04029",
+      "level": 3,
+      "parent": "H01M8/04007",
+      "ja": "液体を使用した熱交換［２０１６．０１］",
+      "en": "Heat exchange using liquids",
+      "count": 6332,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/04044": {
+      "code": "H01M8/04044",
+      "level": 3,
+      "parent": "H01M8/04007",
+      "ja": "熱交換媒体の浄化［２０１６．０１］",
+      "en": "Purification of heat exchange media",
+      "count": 580,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/04082": {
+      "code": "H01M8/04082",
+      "level": 2,
+      "parent": "H01M8/04",
+      "ja": "反応物質に関するパラメータの制御のための手段，例．圧力または濃度［２０１６．０１］",
+      "en": "Arrangements for control of reactant parameters, e.g. pressure or concentration",
+      "count": 6933,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/04089": {
+      "code": "H01M8/04089",
+      "level": 3,
+      "parent": "H01M8/04082",
+      "ja": "気体反応物質に関するもの［２０１６．０１］",
+      "en": "of gaseous reactants",
+      "count": 10034,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/04111": {
+      "code": "H01M8/04111",
+      "level": 4,
+      "parent": "H01M8/04089",
+      "ja": "圧縮機タービンを用いるもの［２０１６．０１］",
+      "en": "using a compressor turbine assembly",
+      "count": 1618,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/04119": {
+      "code": "H01M8/04119",
+      "level": 4,
+      "parent": "H01M8/04089",
+      "ja": "電解質の同時供給または排出を伴うもの；加湿または除湿［２０１６．０１］",
+      "en": "with simultaneous supply or evacuation of electrolyte; Humidifying or dehumidifying",
+      "count": 6710,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/04186": {
+      "code": "H01M8/04186",
+      "level": 3,
+      "parent": "H01M8/04082",
+      "ja": "液体充填または電解質充填された反応物質に関するもの［２０１６．０１］",
+      "en": "of liquid-charged or electrolyte-charged reactants",
+      "count": 1268,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/04223": {
+      "code": "H01M8/04223",
+      "level": 2,
+      "parent": "H01M8/04",
+      "ja": "始動時または停止時に関するもの；脱分極または活性化，例．パージ；欠陥のある燃料電池を短絡するための手段［２０１６．０１］",
+      "en": "during start-up or shut-down; Depolarisation or activation, e.g. purging; Means for short-circuiting defective fuel cells",
+      "count": 3079,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/04225": {
+      "code": "H01M8/04225",
+      "level": 3,
+      "parent": "H01M8/04223",
+      "ja": "始動時に関するもの［２０１６．０１］",
+      "en": "during start-up",
+      "count": 2538,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/04228": {
+      "code": "H01M8/04228",
+      "level": 3,
+      "parent": "H01M8/04223",
+      "ja": "停止時に関するもの［２０１６．０１］",
+      "en": "during shut-down",
+      "count": 1425,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/04276": {
+      "code": "H01M8/04276",
+      "level": 2,
+      "parent": "H01M8/04",
+      "ja": "電解質流を管理するための手段，例．熱交換［２０１６．０１］",
+      "en": "Arrangements for managing the electrolyte stream, e.g. heat exchange",
+      "count": 1454,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/04291": {
+      "code": "H01M8/04291",
+      "level": 2,
+      "parent": "H01M8/04",
+      "ja": "固体電解質燃料電池システム内の水を管理するための手段（Ｈ０１Ｍ８／０４１１９が優先）［２０１６．０１］",
+      "en": "Arrangements for managing water in solid electrolyte fuel cell systems(<b>H01M8/04119</b> takes precedence)",
+      "count": 1615,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/04298": {
+      "code": "H01M8/04298",
+      "level": 2,
+      "parent": "H01M8/04",
+      "ja": "燃料電池または燃料電池システムを制御する方法［２０１６．０１］",
+      "en": "Processes for controlling fuel cells or fuel cell systems",
+      "count": 3307,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/043": {
+      "code": "H01M8/043",
+      "level": 3,
+      "parent": "H01M8/04298",
+      "ja": "特定の時期に適用される方法［２０１６．０１］",
+      "en": "applied during specific periods",
+      "count": 894,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/04302": {
+      "code": "H01M8/04302",
+      "level": 4,
+      "parent": "H01M8/043",
+      "ja": "始動時に適用される方法［２０１６．０１］",
+      "en": "applied during start-up",
+      "count": 2584,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/04303": {
+      "code": "H01M8/04303",
+      "level": 4,
+      "parent": "H01M8/043",
+      "ja": "停止時に適用される方法［２０１６．０１］",
+      "en": "applied during shut-down",
+      "count": 1549,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/04313": {
+      "code": "H01M8/04313",
+      "level": 3,
+      "parent": "H01M8/04298",
+      "ja": "変量の検出または評価により特徴付けられるもの；機能の欠陥または異常の検出または評価により特徴付けられるもの［２０１６．０１］",
+      "en": "characterised by the detection or assessment of variables; characterised by the detection or assessment of failure or abnormal function",
+      "count": 2478,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/0432": {
+      "code": "H01M8/0432",
+      "level": 4,
+      "parent": "H01M8/04313",
+      "ja": "温度；周囲温度［２０１６．０１］",
+      "en": "Temperature; Ambient temperature",
+      "count": 4884,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/0438": {
+      "code": "H01M8/0438",
+      "level": 4,
+      "parent": "H01M8/04313",
+      "ja": "圧力；周囲圧力；流量［２０１６．０１］",
+      "en": "Pressure; Ambient pressure; Flow",
+      "count": 4871,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/0444": {
+      "code": "H01M8/0444",
+      "level": 4,
+      "parent": "H01M8/04313",
+      "ja": "濃度；密度（Ｈ０１Ｍ８／０４４９２が優先）［２０１６．０１］",
+      "en": "Concentration; Density(<b>H01M8/04492</b> takes precedence)",
+      "count": 1587,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/04492": {
+      "code": "H01M8/04492",
+      "level": 4,
+      "parent": "H01M8/04313",
+      "ja": "湿度；周囲湿度；水分含有量［２０１６．０１］",
+      "en": "Humidity; Ambient humidity; Water content",
+      "count": 1438,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/04537": {
+      "code": "H01M8/04537",
+      "level": 4,
+      "parent": "H01M8/04313",
+      "ja": "電気的変量［２０１６．０１］",
+      "en": "Electric variables",
+      "count": 5615,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/04664": {
+      "code": "H01M8/04664",
+      "level": 4,
+      "parent": "H01M8/04313",
+      "ja": "機能の欠陥または異常［２０１６．０１］",
+      "en": "Failure or abnormal function",
+      "count": 3005,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/04694": {
+      "code": "H01M8/04694",
+      "level": 3,
+      "parent": "H01M8/04298",
+      "ja": "制御すべき変量により特徴付けられるもの［２０１６．０１］",
+      "en": "characterised by variables to be controlled",
+      "count": 746,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/04701": {
+      "code": "H01M8/04701",
+      "level": 4,
+      "parent": "H01M8/04694",
+      "ja": "温度［２０１６．０１］",
+      "en": "Temperature",
+      "count": 4712,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/04746": {
+      "code": "H01M8/04746",
+      "level": 4,
+      "parent": "H01M8/04694",
+      "ja": "圧力；流量［２０１６．０１］",
+      "en": "Pressure; Flow",
+      "count": 7848,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/04791": {
+      "code": "H01M8/04791",
+      "level": 4,
+      "parent": "H01M8/04694",
+      "ja": "濃度；密度（Ｈ０１Ｍ８／０４８２８が優先）［２０１６．０１］",
+      "en": "Concentration; Density(<b>H01M8/04828</b> takes precedence)",
+      "count": 905,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/04828": {
+      "code": "H01M8/04828",
+      "level": 4,
+      "parent": "H01M8/04694",
+      "ja": "湿度；水分含有量［２０１６．０１］",
+      "en": "Humidity; Water content",
+      "count": 2445,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/04858": {
+      "code": "H01M8/04858",
+      "level": 4,
+      "parent": "H01M8/04694",
+      "ja": "電気的変量［２０１６．０１］",
+      "en": "Electric variables",
+      "count": 4272,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/04955": {
+      "code": "H01M8/04955",
+      "level": 4,
+      "parent": "H01M8/04694",
+      "ja": "燃料電池の遮断または停止［２０１６．０１］",
+      "en": "Shut-off or shut-down of fuel cells",
+      "count": 1242,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/04992": {
+      "code": "H01M8/04992",
+      "level": 3,
+      "parent": "H01M8/04298",
+      "ja": "数学的または計算的アルゴリズムの実行により特徴付けられるもの，例．フィードバック制御，ファジー理論，ニューラルネットワークまたは人工知能［２０１６．０１］",
+      "en": "characterised by the implementation of mathematical or computational algorithms, e.g. feedback control loops, fuzzy logic, neural networks or artificial intelligence",
+      "count": 4029,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/06": {
+      "code": "H01M8/06",
+      "level": 1,
+      "parent": "H01M8/00",
+      "ja": "反応物質の製造または反応生成物の処理のための手段と燃料電池との結合（再生形燃料電池Ｈ０１Ｍ８／１８）［２，２０１６．０１］",
+      "en": "Combination of fuel cells with means for production of reactants or for treatment of residues(regenerative fuel cells <b>H01M8/18</b>)",
+      "count": 20472,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/0606": {
+      "code": "H01M8/0606",
+      "level": 2,
+      "parent": "H01M8/06",
+      "ja": "気体反応物質の製造のための手段［２０１６．０１］",
+      "en": "with means for production of gaseous reactants",
+      "count": 2730,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/0612": {
+      "code": "H01M8/0612",
+      "level": 3,
+      "parent": "H01M8/0606",
+      "ja": "炭素含有材料からのもの［２０１６．０１］",
+      "en": "from carbon-containing material",
+      "count": 4085,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/0637": {
+      "code": "H01M8/0637",
+      "level": 4,
+      "parent": "H01M8/0612",
+      "ja": "燃料電池のアノードにおける直接内部改質［２０１６．０１］",
+      "en": "Direct internal reforming at the anode of the fuel cell",
+      "count": 172,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/065": {
+      "code": "H01M8/065",
+      "level": 3,
+      "parent": "H01M8/0606",
+      "ja": "金属または合金の分解によるもの；金属物質の脱水素によるもの［２０１６．０１］",
+      "en": "by dissolution of metals or alloys; by dehydriding metallic substances",
+      "count": 523,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/0656": {
+      "code": "H01M8/0656",
+      "level": 3,
+      "parent": "H01M8/0606",
+      "ja": "電気化学的手段によるもの（Ｈ０１Ｍ８／０６５が優先）［２０１６．０１］",
+      "en": "by electrochemical means(<b>H01M8/065</b> takes precedence)",
+      "count": 1550,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/0662": {
+      "code": "H01M8/0662",
+      "level": 2,
+      "parent": "H01M8/06",
+      "ja": "気体反応物質または気体反応生成物の処理，例．クリーニング［２０１６．０１］",
+      "en": "Treatment of gaseous reactants or gaseous residues, e.g. cleaning",
+      "count": 4545,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/0668": {
+      "code": "H01M8/0668",
+      "level": 3,
+      "parent": "H01M8/0662",
+      "ja": "一酸化炭素または二酸化炭素の除去［２０１６．０１］",
+      "en": "Removal of carbon monoxide or carbon dioxide",
+      "count": 744,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/08": {
+      "code": "H01M8/08",
+      "level": 1,
+      "parent": "H01M8/00",
+      "ja": "水性電解質をもつ燃料電池［２，２０１６．０１］",
+      "en": "Fuel cells with aqueous electrolytes",
+      "count": 1721,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/083": {
+      "code": "H01M8/083",
+      "level": 2,
+      "parent": "H01M8/08",
+      "ja": "アルカリ形燃料電池［２０１６．０１］",
+      "en": "Alkaline fuel cells",
+      "count": 480,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/086": {
+      "code": "H01M8/086",
+      "level": 2,
+      "parent": "H01M8/08",
+      "ja": "リン酸形燃料電池［ＰＡＦＣ］［２０１６．０１］",
+      "en": "Phosphoric acid fuel cells [PAFC]",
+      "count": 126,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/10": {
+      "code": "H01M8/10",
+      "level": 1,
+      "parent": "H01M8/00",
+      "ja": "固体電解質をもつ燃料電池［２，２０１６．０１］",
+      "en": "Fuel cells with solid electrolytes",
+      "count": 41173,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/1004": {
+      "code": "H01M8/1004",
+      "level": 2,
+      "parent": "H01M8/10",
+      "ja": "膜電極接合体［ＭＥＡ］により特徴付けられるもの（Ｈ０１Ｍ８／１２が優先）［２０１６．０１］",
+      "en": "characterised by membrane-electrode assemblies [MEA](<b>H01M8/12</b> takes precedence)",
+      "count": 6564,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/1006": {
+      "code": "H01M8/1006",
+      "level": 3,
+      "parent": "H01M8/1004",
+      "ja": "コルゲート状，曲面状または波状のＭＥＡ［２０１６．０１］",
+      "en": "Corrugated, curved or wave-shaped MEA",
+      "count": 193,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/1007": {
+      "code": "H01M8/1007",
+      "level": 2,
+      "parent": "H01M8/10",
+      "ja": "両方の反応物質がガス状または気化したもの（Ｈ０１Ｍ８／１２が優先）［２０１６．０１］",
+      "en": "with both reactants being gaseous or vaporised(<b>H01M8/12</b> takes precedence)",
+      "count": 889,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/1009": {
+      "code": "H01M8/1009",
+      "level": 2,
+      "parent": "H01M8/10",
+      "ja": "反応物質の中の１つが液体，固体または液体充填されたもの（Ｈ０１Ｍ８／１２が優先）［２０１６．０１］",
+      "en": "with one of the reactants being liquid, solid or liquid-charged(<b>H01M8/12</b> takes precedence)",
+      "count": 389,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/1011": {
+      "code": "H01M8/1011",
+      "level": 3,
+      "parent": "H01M8/1009",
+      "ja": "直接アルコール形燃料電池［ＤＡＦＣ］，例．直接メタノール形燃料電池［ＤＭＦＣ］［２０１６．０１］",
+      "en": "Direct alcohol fuel cells [DAFC], e.g. direct methanol fuel cells [DMFC]",
+      "count": 1119,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/1016": {
+      "code": "H01M8/1016",
+      "level": 2,
+      "parent": "H01M8/10",
+      "ja": "電解質材料により特徴付けられるもの（Ｈ０１Ｍ８／１２が優先）［２０１６．０１］",
+      "en": "characterised by the electrolyte material(<b>H01M8/12</b> takes precedence)",
+      "count": 879,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/1018": {
+      "code": "H01M8/1018",
+      "level": 3,
+      "parent": "H01M8/1016",
+      "ja": "高分子電解質材料［２０１６．０１］",
+      "en": "Polymeric electrolyte materials",
+      "count": 3912,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/102": {
+      "code": "H01M8/102",
+      "level": 4,
+      "parent": "H01M8/1018",
+      "ja": "イオン伝導性高分子の主鎖の化学構造により特徴付けられるもの［２０１６．０１］<br><br><b><ul>注</ul></b><br>このグループに分類するときは，Ｏ，Ｐ，Ｎ，ＳまたはＳｉのいずれかのヘテロ原子を２以上含む化学構造は，すべての関連するサブグループに分類することで，完全に特定されなければならない［２０１６．０１］",
+      "en": "characterised by the chemical structure of the main chain of the ion-conducting polymer; <br><br><b><u>Note(s)</u></b><br><br><ul><li>When classifying in this group, structures having two or more heteroatoms belonging to the groups O, P, N, S or Si must be completely identified by classification in all relevant subgroups.</li></ul>",
+      "count": 218,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/1023": {
+      "code": "H01M8/1023",
+      "level": 5,
+      "parent": "H01M8/102",
+      "ja": "炭素のみをもつもの，例．ポリアリーレン，ポリスチレンまたはポリブタジエンスチレン［２０１６．０１］",
+      "en": "having only carbon, e.g. polyarylenes, polystyrenes or polybutadiene-styrenes",
+      "count": 609,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/1025": {
+      "code": "H01M8/1025",
+      "level": 5,
+      "parent": "H01M8/102",
+      "ja": "炭素と酸素のみをもつもの，例．ポリエーテル，スルホン化ポリエーテルエーテルケトン［Ｓ－ＰＥＥＫ］，スルホン化ポリサッカライド，スルホン化セルロースまたはスルホン化ポリエステル［２０１６．０１］",
+      "en": "having only carbon and oxygen, e.g. polyethers, sulfonated polyetheretherketones [S-PEEK], sulfonated polysaccharides, sulfonated celluloses or sulfonated polyesters",
+      "count": 485,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/1027": {
+      "code": "H01M8/1027",
+      "level": 5,
+      "parent": "H01M8/102",
+      "ja": "炭素，酸素および他の原子をもつもの，例．スルホン化ポリエーテルスルホン［Ｓ－ＰＥＳ］［２０１６．０１］",
+      "en": "having carbon, oxygen and other atoms, e.g. sulfonated polyethersulfones [S-PES]",
+      "count": 495,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/103": {
+      "code": "H01M8/103",
+      "level": 5,
+      "parent": "H01M8/102",
+      "ja": "窒素をもつもの，例．スルホン化ポリベンジミダゾール［Ｓ－ＰＢＩ］，リン酸によるポリベンソイミダゾール，スルホン化ポリアミド［Ｓ－ＰＡ］またはスルホン化ポリホスファゼン［Ｓ－ＰＰｈ］［２０１６．０１］",
+      "en": "having nitrogen, e.g. sulfonated polybenzimidazoles [S-PBI], polybenzimidazoles with phosphoric acid, sulfonated polyamides [S-PA] or sulfonated polyphosphazenes [S-PPh]",
+      "count": 806,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/1032": {
+      "code": "H01M8/1032",
+      "level": 5,
+      "parent": "H01M8/102",
+      "ja": "硫黄をもつもの，例．スルホン化ポリエーテルスルホン［Ｓ－ＰＥＳ］［２０１６．０１］",
+      "en": "having sulfur, e.g. sulfonated-polyethersulfones [S-PES]",
+      "count": 567,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/1034": {
+      "code": "H01M8/1034",
+      "level": 5,
+      "parent": "H01M8/102",
+      "ja": "リンをもつもの，例．スルホン化ポリホスファゼン［Ｓ－ＰＰｈ］［２０１６．０１］",
+      "en": "having phosphorus, e.g. sulfonated polyphosphazenes [S-PPh]",
+      "count": 108,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/1037": {
+      "code": "H01M8/1037",
+      "level": 5,
+      "parent": "H01M8/102",
+      "ja": "ケイ素をもつもの，例．クロスリンクされたスルホン化ポリジメチルシロキサン［２０１６．０１］",
+      "en": "having silicon, e.g. sulfonated crosslinked polydimethylsiloxanes",
+      "count": 66,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/1039": {
+      "code": "H01M8/1039",
+      "level": 4,
+      "parent": "H01M8/1018",
+      "ja": "ハロゲン化されたもの，例．スルホン化ポリフッ化ビリニデン［２０１６．０１］",
+      "en": "halogenated, e.g. sulfonated polyvinylidene fluorides",
+      "count": 1120,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/1041": {
+      "code": "H01M8/1041",
+      "level": 4,
+      "parent": "H01M8/1018",
+      "ja": "高分子電解質複合物，混合物またはブレンドされたもの［２０１６．０１］",
+      "en": "Polymer electrolyte composites, mixtures or blends",
+      "count": 681,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/1044": {
+      "code": "H01M8/1044",
+      "level": 5,
+      "parent": "H01M8/1041",
+      "ja": "高分子の混合物，その少なくとも１つはイオン伝導性であるもの［２０１６．０１］",
+      "en": "Mixtures of polymers, of which at least one is ionically conductive",
+      "count": 395,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/1046": {
+      "code": "H01M8/1046",
+      "level": 5,
+      "parent": "H01M8/1041",
+      "ja": "１以上の高分子と１以上の添加剤の混合物［２０１６．０１］",
+      "en": "Mixtures of at least one polymer and at least one additive",
+      "count": 236,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/1048": {
+      "code": "H01M8/1048",
+      "level": 6,
+      "parent": "H01M8/1046",
+      "ja": "イオン伝導性添加剤，例．イオン伝導粒子，ヘテロポリ酸，金属リン酸塩またはポリベンゾイミダゾールとリン酸の混合［２０１６．０１］",
+      "en": "Ion-conducting additives, e.g. ion-conducting particles, heteropolyacids, metal phosphate or polybenzimidazole with phosphoric acid",
+      "count": 506,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/1051": {
+      "code": "H01M8/1051",
+      "level": 6,
+      "parent": "H01M8/1046",
+      "ja": "非イオン伝導性添加剤，例．安定剤，ＳｉＯ↓２またはＺｒＯ↓２［２０１６．０１］",
+      "en": "Non-ion-conducting additives, e.g. stabilisers, SiO<sub>2</sub> or ZrO<sub>2</sub>",
+      "count": 569,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/1053": {
+      "code": "H01M8/1053",
+      "level": 5,
+      "parent": "H01M8/1041",
+      "ja": "複数の高分子層，その少なくとも１層がイオン伝導性であるもの［２０１６．０１］",
+      "en": "consisting of layers of polymers with at least one layer being ionically conductive",
+      "count": 544,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/1058": {
+      "code": "H01M8/1058",
+      "level": 4,
+      "parent": "H01M8/1018",
+      "ja": "非イオン伝導性の多孔性支持体により特徴付けられるもの［２０１６．０１］",
+      "en": "characterised by a porous support having no ion-conducting properties",
+      "count": 319,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/106": {
+      "code": "H01M8/106",
+      "level": 5,
+      "parent": "H01M8/1058",
+      "ja": "多孔性支持体の化学組成により特徴付けられるもの［２０１６．０１］",
+      "en": "characterised by the chemical composition of the porous support",
+      "count": 331,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/1062": {
+      "code": "H01M8/1062",
+      "level": 5,
+      "parent": "H01M8/1058",
+      "ja": "多孔性支持体の物理的特性により特徴付けられるもの，例．その多孔率または厚み［２０１６．０１］",
+      "en": "characterised by the physical properties of the porous support, e.g. its porosity or thickness",
+      "count": 274,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/1065": {
+      "code": "H01M8/1065",
+      "level": 4,
+      "parent": "H01M8/1018",
+      "ja": "形により特徴付けられるもの，例．穴が開けられているまたは波状のもの［２０１６．０１］",
+      "en": "characterised by the form, e.g. perforated or wave-shaped",
+      "count": 155,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/1067": {
+      "code": "H01M8/1067",
+      "level": 4,
+      "parent": "H01M8/1018",
+      "ja": "その物理的特性により特徴付けられるもの，例．多孔率，イオン伝導率または厚み［２０１６．０１］",
+      "en": "characterised by their physical properties, e.g. porosity, ionic conductivity or thickness",
+      "count": 947,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/1069": {
+      "code": "H01M8/1069",
+      "level": 4,
+      "parent": "H01M8/1018",
+      "ja": "製造方法により特徴付けられるもの［２０１６．０１］",
+      "en": "characterised by the manufacturing processes",
+      "count": 1459,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/1072": {
+      "code": "H01M8/1072",
+      "level": 5,
+      "parent": "H01M8/1069",
+      "ja": "化学反応によるもの，例．イン・サイチュー重合またはイン・サイチュー架橋［２０１６．０１］",
+      "en": "by chemical reactions, e.g. <u>in</u><u>situ</u> polymerisation or <u>in</u><u>situ</u> crosslinking",
+      "count": 939,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/1081": {
+      "code": "H01M8/1081",
+      "level": 5,
+      "parent": "H01M8/1069",
+      "ja": "専ら高分子の溶液，分散液またはスラリーから開始されるもの［２０１６．０１］",
+      "en": "starting from solutions, dispersions or slurries exclusively of polymers",
+      "count": 838,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/1086": {
+      "code": "H01M8/1086",
+      "level": 5,
+      "parent": "H01M8/1069",
+      "ja": "重合以外による膜の後処理［２０１６．０１］",
+      "en": "After-treatment of the membrane other than by polymerisation",
+      "count": 627,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/1088": {
+      "code": "H01M8/1088",
+      "level": 6,
+      "parent": "H01M8/1086",
+      "ja": "化学修飾，例．スルホン化［２０１６．０１］",
+      "en": "Chemical modification, e.g. sulfonation",
+      "count": 375,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/1097": {
+      "code": "H01M8/1097",
+      "level": 2,
+      "parent": "H01M8/10",
+      "ja": "支持体に適用される燃料電池，例．シリカ基板上に堆積された小型燃料電池［２０１６．０１］",
+      "en": "Fuel cells applied on a support, e.g. miniature fuel cells deposited on silica supports",
+      "count": 83,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/12": {
+      "code": "H01M8/12",
+      "level": 2,
+      "parent": "H01M8/10",
+      "ja": "高温で動作するもの，例．安定化ＺｒＯ↓２をもつもの［２，２０１６．０１］",
+      "en": "operating at high temperature, e.g. with stabilised ZrO<sub>2</sub> electrolyte",
+      "count": 15580,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/1213": {
+      "code": "H01M8/1213",
+      "level": 3,
+      "parent": "H01M8/12",
+      "ja": "電極／電解質の組み合わせまたは支持体の材料により特徴付けられるもの［２０１６．０１］",
+      "en": "characterised by the electrode/electrolyte combination or the supporting material",
+      "count": 1140,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/122": {
+      "code": "H01M8/122",
+      "level": 4,
+      "parent": "H01M8/1213",
+      "ja": "コルゲート状，曲面状または波状のＭＥＡ［２０１６．０１］",
+      "en": "Corrugated, curved or wave-shaped MEA",
+      "count": 36,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/1226": {
+      "code": "H01M8/1226",
+      "level": 4,
+      "parent": "H01M8/1213",
+      "ja": "支持層により特徴付けられるもの［２０１６．０１］",
+      "en": "characterised by the supporting layer",
+      "count": 621,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/1231": {
+      "code": "H01M8/1231",
+      "level": 3,
+      "parent": "H01M8/12",
+      "ja": "両方の反応物質がガス状または気化したもの［２０１６．０１］",
+      "en": "with both reactants being gaseous or vaporised",
+      "count": 437,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/1233": {
+      "code": "H01M8/1233",
+      "level": 3,
+      "parent": "H01M8/12",
+      "ja": "反応物質の中の１つが液体，固体または液体充填されたもの［２０１６．０１］",
+      "en": "with one of the reactants being liquid, solid or liquid-charged",
+      "count": 90,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/124": {
+      "code": "H01M8/124",
+      "level": 3,
+      "parent": "H01M8/12",
+      "ja": "製造方法または電解質材料により特徴付けられるもの［２０１６．０１］",
+      "en": "characterised by the process of manufacturing or by the material of the electrolyte",
+      "count": 2149,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/1246": {
+      "code": "H01M8/1246",
+      "level": 4,
+      "parent": "H01M8/124",
+      "ja": "酸化物から成る電解質［２０１６．０１］",
+      "en": "the electrolyte consisting of oxides",
+      "count": 1352,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/1253": {
+      "code": "H01M8/1253",
+      "level": 5,
+      "parent": "H01M8/1246",
+      "ja": "酸化ジルコニウムを含む電解質［２０１６．０１］",
+      "en": "the electrolyte containing zirconium oxide",
+      "count": 788,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/126": {
+      "code": "H01M8/126",
+      "level": 5,
+      "parent": "H01M8/1246",
+      "ja": "酸化セリウムを含む電解質［２０１６．０１］",
+      "en": "the electrolyte containing cerium oxide",
+      "count": 516,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/1286": {
+      "code": "H01M8/1286",
+      "level": 3,
+      "parent": "H01M8/12",
+      "ja": "支持体に適用される燃料電池，例．シリカ基板上に堆積された小型燃料電池［２０１６．０１］",
+      "en": "Fuel cells applied on a support, e.g. miniature fuel cells deposited on silica supports",
+      "count": 184,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/14": {
+      "code": "H01M8/14",
+      "level": 1,
+      "parent": "H01M8/00",
+      "ja": "溶融電解質をもつ燃料電池［２］",
+      "en": "Fuel cells with fused electrolytes",
+      "count": 2208,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/16": {
+      "code": "H01M8/16",
+      "level": 1,
+      "parent": "H01M8/00",
+      "ja": "生化学燃料電池，すなわち微生物が触媒として作用する電池［２］",
+      "en": "Biochemical fuel cells, i.e. cells in which microorganisms function as catalysts",
+      "count": 3626,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/18": {
+      "code": "H01M8/18",
+      "level": 1,
+      "parent": "H01M8/00",
+      "ja": "再生形燃料電池，例．レドックスフロー電池または二次燃料電池［２］",
+      "en": "Regenerative fuel cells, e.g. redox flow batteries or secondary fuel cells",
+      "count": 11191,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/20": {
+      "code": "H01M8/20",
+      "level": 1,
+      "parent": "H01M8/00",
+      "ja": "間接形燃料電池，例．レドックス対が不可逆の燃料電池（Ｈ０１Ｍ８／１８が優先）［２］",
+      "en": "Indirect fuel cells, e.g. fuel cells with redox couple being irreversible(<b>H01M8/18</b> takes precedence)",
+      "count": 1065,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/22": {
+      "code": "H01M8/22",
+      "level": 1,
+      "parent": "H01M8/00",
+      "ja": "炭素，酸素または水素とこれら以外の元素とからなる物質を燃料として使用する燃料電池；炭素，酸素および水素以外の元素のみからなる物質を燃料として使用する燃料電池［２］",
+      "en": "Fuel cells in which the fuel is based on materials comprising carbon or oxygen or hydrogen and other elements; Fuel cells in which the fuel is based on materials comprising only elements other than carbon, oxygen or hydrogen",
+      "count": 2785,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/24": {
+      "code": "H01M8/24",
+      "level": 1,
+      "parent": "H01M8/00",
+      "ja": "燃料電池の集合化，例．燃料電池の積層［２，２０１６．０１］",
+      "en": "Grouping of fuel cells, e.g. stacking of fuel cells",
+      "count": 15161,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/2404": {
+      "code": "H01M8/2404",
+      "level": 2,
+      "parent": "H01M8/24",
+      "ja": "燃料電池を集合化する方法または装置［２０１６．０１］",
+      "en": "Processes or apparatus for grouping fuel cells",
+      "count": 1994,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/241": {
+      "code": "H01M8/241",
+      "level": 2,
+      "parent": "H01M8/24",
+      "ja": "固体またはマトリクスに支持された電解質［２０１６．０１］",
+      "en": "with solid or matrix-supported electrolytes",
+      "count": 900,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/2418": {
+      "code": "H01M8/2418",
+      "level": 3,
+      "parent": "H01M8/241",
+      "ja": "平面にユニットセルを配置することによる集合化（Ｈ０１Ｍ８／２４２５，Ｈ０１Ｍ８／２４４が優先）［２０１６．０１］",
+      "en": "Grouping by arranging unit cells in a plane(<b>H01M8/2425</b>, <b>H01M8/244</b> take precedence)",
+      "count": 150,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/242": {
+      "code": "H01M8/242",
+      "level": 3,
+      "parent": "H01M8/241",
+      "ja": "枠体付き電極または枠状のガスケットを介して集合化するもの（Ｈ０１Ｍ８／２４２５，Ｈ０１Ｍ８／２４４が優先）［２０１６．０１］",
+      "en": "comprising framed electrodes or intermediary frame-like gaskets(<b>H01M8/2425</b>, <b>H01M8/244</b> take precedence)",
+      "count": 507,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/2425": {
+      "code": "H01M8/2425",
+      "level": 3,
+      "parent": "H01M8/241",
+      "ja": "固体電解質をもつ高温電池［２０１６．０１］",
+      "en": "High-temperature cells with solid electrolytes",
+      "count": 729,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/2428": {
+      "code": "H01M8/2428",
+      "level": 4,
+      "parent": "H01M8/2425",
+      "ja": "形状を問わない面上にユニットセルを配置することによる集合化，例．平板または管状［２０１６．０１］",
+      "en": "Grouping by arranging unit cells on a surface of any form, e.g. planar or tubular",
+      "count": 136,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/243": {
+      "code": "H01M8/243",
+      "level": 4,
+      "parent": "H01M8/2425",
+      "ja": "管または円筒形状のユニットセルを集合化［２０１６．０１］",
+      "en": "Grouping of unit cells of tubular or cylindrical configuration",
+      "count": 328,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/2432": {
+      "code": "H01M8/2432",
+      "level": 4,
+      "parent": "H01M8/2425",
+      "ja": "平板形状のユニットセルを集合化［２０１６．０１］",
+      "en": "Grouping of unit cells of planar configuration",
+      "count": 514,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/2435": {
+      "code": "H01M8/2435",
+      "level": 4,
+      "parent": "H01M8/2425",
+      "ja": "モノリシックコア構造，例．ハニカム［２０１６．０１］",
+      "en": "with monolithic core structure, e.g. honeycombs",
+      "count": 29,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/244": {
+      "code": "H01M8/244",
+      "level": 3,
+      "parent": "H01M8/241",
+      "ja": "マトリクスに支持された溶融電解質［２０１６．０１］",
+      "en": "with matrix-supported molten electrolyte",
+      "count": 38,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/2455": {
+      "code": "H01M8/2455",
+      "level": 2,
+      "parent": "H01M8/24",
+      "ja": "液体，固体または電解質が充填された反応物質［２０１６．０１］",
+      "en": "with liquid, solid or electrolyte-charged reactants",
+      "count": 668,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/2457": {
+      "code": "H01M8/2457",
+      "level": 2,
+      "parent": "H01M8/24",
+      "ja": "両方の反応物質がガス状または気化したもの［２０１６．０１］",
+      "en": "with both reactants being gaseous or vaporised",
+      "count": 1262,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/2465": {
+      "code": "H01M8/2465",
+      "level": 2,
+      "parent": "H01M8/24",
+      "ja": "燃料電池の集合化の細部［２０１６．０１］",
+      "en": "Details of groupings of fuel cells",
+      "count": 4708,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/247": {
+      "code": "H01M8/247",
+      "level": 3,
+      "parent": "H01M8/2465",
+      "ja": "スタックを締結する手順または手段，スタックをタンクに適応するまたは異なるタンクを集合化する手順または手段［２０１６．０１］",
+      "en": "Arrangements for tightening a stack, for accommodation of a stack in a tank or for assembling different tanks",
+      "count": 1617,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/2475": {
+      "code": "H01M8/2475",
+      "level": 4,
+      "parent": "H01M8/247",
+      "ja": "燃料電池スタックを覆うもの，ケースまたはコンテナ［２０１６．０１］",
+      "en": "Enclosures, casings or containers of fuel cell stacks",
+      "count": 3214,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/248": {
+      "code": "H01M8/248",
+      "level": 4,
+      "parent": "H01M8/247",
+      "ja": "燃料電池スタックを加圧する手段［２０１６．０１］",
+      "en": "Means for compression of the fuel cell stacks",
+      "count": 1367,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/2483": {
+      "code": "H01M8/2483",
+      "level": 3,
+      "parent": "H01M8/2465",
+      "ja": "内部マニホールドにより特徴付けられるもの［２０１６．０１］",
+      "en": "characterised by internal manifolds",
+      "count": 1577,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/2484": {
+      "code": "H01M8/2484",
+      "level": 3,
+      "parent": "H01M8/2465",
+      "ja": "外部マニホールドにより特徴付けられるもの［２０１６．０１］",
+      "en": "characterised by external manifolds",
+      "count": 1320,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/2485": {
+      "code": "H01M8/2485",
+      "level": 4,
+      "parent": "H01M8/2484",
+      "ja": "外部マニホールドを封止する手順または手段；スタックの周囲に外部マニホールドを取り付ける手順または手段［２０１６．０１］",
+      "en": "Arrangements for sealing external manifolds; Arrangements for mounting external manifolds around a stack",
+      "count": 776,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/249": {
+      "code": "H01M8/249",
+      "level": 2,
+      "parent": "H01M8/24",
+      "ja": "２以上の集合化した燃料電池から構成されるもの，例．モジュール［２０１６．０１］",
+      "en": "comprising two or more groupings of fuel cells, e.g. modular assemblies",
+      "count": 1536,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M8/2495": {
+      "code": "H01M8/2495",
+      "level": 3,
+      "parent": "H01M8/249",
+      "ja": "異なる種類の燃料電池の集合化［２０１６．０１］",
+      "en": "of fuel cells of different types",
+      "count": 96,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/00": {
+      "code": "H01M10/00",
+      "level": 0,
+      "parent": "H01M",
+      "ja": "二次電池；その製造［２］<br><br><b><ul>注</ul></b><br>このグループにおいては，二次電池とは可逆的電気化学反応によって電気エネルギーを充電および放電する蓄電池をいう。［２］",
+      "en": "Secondary cells; Manufacture thereof; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this group, secondary cells are accumulators receiving and supplying electrical energy by means of reversible electrochemical reactions. </li></ul>",
+      "count": 3453,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/02": {
+      "code": "H01M10/02",
+      "level": 1,
+      "parent": "H01M10/00",
+      "ja": "細部（電極の細部Ｈ０１Ｍ４／００，発電要素以外の部分の構造の細部Ｈ０１Ｍ５０／００）［２００６．０１］",
+      "en": "Details (of electrodes <b>H01M4/00</b>, of non-active parts <b>H01M50/00</b>)",
+      "count": 2874,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/04": {
+      "code": "H01M10/04",
+      "level": 1,
+      "parent": "H01M10/00",
+      "ja": "構造または製造一般（Ｈ０１Ｍ１０／０５８，Ｈ０１Ｍ１０／１２，Ｈ０１Ｍ１０／２８，Ｈ０１Ｍ１０／３８が優先）［２］",
+      "en": "Construction or manufacture in general(<b>H01M10/058</b>, <b>H01M10/12</b>, <b>H01M10/28</b>, <b>H01M10/38</b> take precedence)",
+      "count": 63145,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/05": {
+      "code": "H01M10/05",
+      "level": 1,
+      "parent": "H01M10/00",
+      "ja": "非水電解質二次電池（Ｈ０１Ｍ１０／３９が優先）［２０１０．０１］",
+      "en": "Accumulators with non-aqueous electrolyte(<b>H01M10/39</b> takes precedence)",
+      "count": 24514,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/052": {
+      "code": "H01M10/052",
+      "level": 2,
+      "parent": "H01M10/05",
+      "ja": "リチウム二次電池［２０１０．０１］",
+      "en": "Li-accumulators",
+      "count": 78698,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/0525": {
+      "code": "H01M10/0525",
+      "level": 3,
+      "parent": "H01M10/052",
+      "ja": "ロッキングチェア電池，すなわち両方の電極でリチウムの挿入を伴うもの；リチウムイオン電池［２０１０．０１］",
+      "en": "Rocking-chair batteries, i.e. batteries with lithium insertion or intercalation in both electrodes; Lithium-ion batteries",
+      "count": 128685,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/054": {
+      "code": "H01M10/054",
+      "level": 2,
+      "parent": "H01M10/05",
+      "ja": "リチウム以外の金属，例．マグネシウムまたはアルミニウム　の挿入を伴う二次電池［２０１０．０１］",
+      "en": "Accumulators with insertion or intercalation of metals other than lithium, e.g. with magnesium or aluminium",
+      "count": 20464,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/056": {
+      "code": "H01M10/056",
+      "level": 2,
+      "parent": "H01M10/05",
+      "ja": "電解質の材料に特徴があるもの，例．無機電解質／有機電解質の混合［２０１０．０１］",
+      "en": "characterised by the materials used as electrolytes, e.g. mixed inorganic/organic electrolytes",
+      "count": 5758,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/0561": {
+      "code": "H01M10/0561",
+      "level": 3,
+      "parent": "H01M10/056",
+      "ja": "無機物のみからなる電解質［２０１０．０１］",
+      "en": "the electrolyte being constituted of inorganic materials only",
+      "count": 344,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/0562": {
+      "code": "H01M10/0562",
+      "level": 4,
+      "parent": "H01M10/0561",
+      "ja": "固体［２０１０．０１］",
+      "en": "Solid materials",
+      "count": 16939,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/0563": {
+      "code": "H01M10/0563",
+      "level": 4,
+      "parent": "H01M10/0561",
+      "ja": "液体，例．Ｌｉ－ＳＯＣｌ２電池［２０１０．０１］",
+      "en": "Liquid materials, e.g. for Li-SOCl<sub>2</sub> cells",
+      "count": 748,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/0564": {
+      "code": "H01M10/0564",
+      "level": 3,
+      "parent": "H01M10/056",
+      "ja": "有機物のみからなる電解質［２０１０．０１］",
+      "en": "the electrolyte being constituted of organic materials only",
+      "count": 835,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/0565": {
+      "code": "H01M10/0565",
+      "level": 4,
+      "parent": "H01M10/0564",
+      "ja": "ポリマー，例．ゲルタイプまたは固体タイプ［２０１０．０１］",
+      "en": "Polymeric materials, e.g. gel-type or solid-type",
+      "count": 14918,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/0566": {
+      "code": "H01M10/0566",
+      "level": 4,
+      "parent": "H01M10/0564",
+      "ja": "液体［２０１０．０１］",
+      "en": "Liquid materials",
+      "count": 12394,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/0567": {
+      "code": "H01M10/0567",
+      "level": 5,
+      "parent": "H01M10/0566",
+      "ja": "添加剤に特徴があるもの［２０１０．０１］",
+      "en": "characterised by the additives",
+      "count": 20613,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/0568": {
+      "code": "H01M10/0568",
+      "level": 5,
+      "parent": "H01M10/0566",
+      "ja": "溶質に特徴があるもの［２０１０．０１］",
+      "en": "characterised by the solutes",
+      "count": 12015,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/0569": {
+      "code": "H01M10/0569",
+      "level": 5,
+      "parent": "H01M10/0566",
+      "ja": "溶媒に特徴があるもの［２０１０．０１］",
+      "en": "characterised by the solvents",
+      "count": 14538,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/058": {
+      "code": "H01M10/058",
+      "level": 2,
+      "parent": "H01M10/05",
+      "ja": "構造または製造［２０１０．０１］",
+      "en": "Construction or manufacture",
+      "count": 50122,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/0583": {
+      "code": "H01M10/0583",
+      "level": 3,
+      "parent": "H01M10/058",
+      "ja": "折り畳まれた電極またはセパレータ〔巻回されたものを除く〕，例．Ｚ形の電極またはセパレータ　を有する二次電池［２０１０．０１］",
+      "en": "of accumulators with folded construction elements except wound ones, i.e. folded positive or negative electrodes or separators, e.g. with &lsquo;&rsquo;Z&rsquo;&rsquo;-shaped electrodes or separators",
+      "count": 2729,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/0585": {
+      "code": "H01M10/0585",
+      "level": 3,
+      "parent": "H01M10/058",
+      "ja": "板状電極を有する二次電池［２０１０．０１］",
+      "en": "of accumulators having only flat construction elements, i.e. flat positive electrodes, flat negative electrodes and flat separators",
+      "count": 15037,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/0587": {
+      "code": "H01M10/0587",
+      "level": 3,
+      "parent": "H01M10/058",
+      "ja": "巻回された電極及びセパレータを有する二次電池［２０１０．０１］",
+      "en": "of accumulators having only wound construction elements, i.e. wound positive electrodes, wound negative electrodes and wound separators",
+      "count": 19036,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/06": {
+      "code": "H01M10/06",
+      "level": 1,
+      "parent": "H01M10/00",
+      "ja": "鉛－酸蓄電池（一方の電極に鉛を用いた蓄電池Ｈ０１Ｍ１０／２０）［２］",
+      "en": "Lead-acid accumulators(semi-lead accumulators <b>H01M10/20</b>)",
+      "count": 5854,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/08": {
+      "code": "H01M10/08",
+      "level": 2,
+      "parent": "H01M10/06",
+      "ja": "電解液の選択［２］",
+      "en": "Selection of materials as electrolytes",
+      "count": 1509,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/10": {
+      "code": "H01M10/10",
+      "level": 3,
+      "parent": "H01M10/08",
+      "ja": "電解液の非流動化［２］",
+      "en": "Immobilising of electrolyte",
+      "count": 1276,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/12": {
+      "code": "H01M10/12",
+      "level": 2,
+      "parent": "H01M10/06",
+      "ja": "構造または製造［２］",
+      "en": "Construction or manufacture",
+      "count": 10766,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/14": {
+      "code": "H01M10/14",
+      "level": 3,
+      "parent": "H01M10/12",
+      "ja": "極板群または隔離板群の組立て［２］",
+      "en": "Assembling a group of electrodes or separators",
+      "count": 2747,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/16": {
+      "code": "H01M10/16",
+      "level": 3,
+      "parent": "H01M10/12",
+      "ja": "電槽内に於ける極板または極板群の懸架または支持［２］",
+      "en": "Suspending or supporting electrodes or groups of electrodes in the case",
+      "count": 1147,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/18": {
+      "code": "H01M10/18",
+      "level": 2,
+      "parent": "H01M10/06",
+      "ja": "双極電極をもつもの［２］",
+      "en": "with bipolar electrodes",
+      "count": 658,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/20": {
+      "code": "H01M10/20",
+      "level": 1,
+      "parent": "H01M10/00",
+      "ja": "ｓｅｍｉ－ｌｅａｄ蓄電池，すなわち一方の電極のみに鉛を含んだ蓄電池［２］",
+      "en": "Semi-lead accumulators, i.e. accumulators in which only one electrode contains lead",
+      "count": 206,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/22": {
+      "code": "H01M10/22",
+      "level": 2,
+      "parent": "H01M10/20",
+      "ja": "電解液の選択［２］",
+      "en": "Selection of materials as electrolytes",
+      "count": 103,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/24": {
+      "code": "H01M10/24",
+      "level": 1,
+      "parent": "H01M10/00",
+      "ja": "アルカリ蓄電池［２］",
+      "en": "Alkaline accumulators",
+      "count": 2148,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/26": {
+      "code": "H01M10/26",
+      "level": 2,
+      "parent": "H01M10/24",
+      "ja": "電解液の選択［２］",
+      "en": "Selection of materials as electrolytes",
+      "count": 1674,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/28": {
+      "code": "H01M10/28",
+      "level": 2,
+      "parent": "H01M10/24",
+      "ja": "構造または製造［２］",
+      "en": "Construction or manufacture",
+      "count": 4082,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/30": {
+      "code": "H01M10/30",
+      "level": 2,
+      "parent": "H01M10/24",
+      "ja": "ニッケル蓄電池（Ｈ０１Ｍ１０／３４が優先）［２］",
+      "en": "Nickel accumulators(<b>H01M10/34</b> takes precedence)",
+      "count": 5170,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/32": {
+      "code": "H01M10/32",
+      "level": 2,
+      "parent": "H01M10/24",
+      "ja": "銀蓄電池（Ｈ０１Ｍ１０／３４が優先）［２］",
+      "en": "Silver accumulators(<b>H01M10/34</b> takes precedence)",
+      "count": 333,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/34": {
+      "code": "H01M10/34",
+      "level": 1,
+      "parent": "H01M10/00",
+      "ja": "密閉型蓄電池［２］",
+      "en": "Gastight accumulators",
+      "count": 3494,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/36": {
+      "code": "H01M10/36",
+      "level": 1,
+      "parent": "H01M10/00",
+      "ja": "Ｈ０１Ｍ１０／０５～Ｈ０１Ｍ１０／３４に分類されない蓄電池［２，２０１０．０１］",
+      "en": "Accumulators not provided for in groups <b>H01M10/05 to H01M10/34</b> ",
+      "count": 11071,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/38": {
+      "code": "H01M10/38",
+      "level": 2,
+      "parent": "H01M10/36",
+      "ja": "構造または製造［２］",
+      "en": "Construction or manufacture",
+      "count": 3424,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/39": {
+      "code": "H01M10/39",
+      "level": 2,
+      "parent": "H01M10/36",
+      "ja": "高温度で動作するもの［２］",
+      "en": "working at high temperature",
+      "count": 4281,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/42": {
+      "code": "H01M10/42",
+      "level": 1,
+      "parent": "H01M10/00",
+      "ja": "二次電池または二次半電池の修理または保守のための方法または装置（Ｈ０１Ｍ１０／６０が優先）［２］",
+      "en": "Methods or arrangements for servicing or maintenance of secondary cells or secondary half-cells(<b>H01M10/60</b> takes precedence)",
+      "count": 74461,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/44": {
+      "code": "H01M10/44",
+      "level": 2,
+      "parent": "H01M10/42",
+      "ja": "充電または放電のための方法（充電回路Ｈ０２Ｊ７／００）［２］",
+      "en": "Methods for charging or discharging(circuits for charging <b>H02J7/00</b>)",
+      "count": 55262,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/46": {
+      "code": "H01M10/46",
+      "level": 2,
+      "parent": "H01M10/42",
+      "ja": "充電装置と構造的に結合した蓄電池（充電回路Ｈ０２Ｊ７／００）［２］",
+      "en": "Accumulators structurally combined with charging apparatus(circuits for charging <b>H02J7/00</b>)",
+      "count": 13199,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/48": {
+      "code": "H01M10/48",
+      "level": 2,
+      "parent": "H01M10/42",
+      "ja": "状態，例．電解液の液位または密度，の測定，試験または指示のための装置と結合した蓄電池（電池またはバッテリー内部の状態を検出するための誘電接続の構成の細部，例．電圧検出端子の構造の細部，Ｈ０１Ｍ５０／５６９）［２００６．０１］",
+      "en": "Accumulators combined with arrangements for measuring, testing or indicating the condition of cells, e.g. the level or density of the electrolyte(constructional details of current conducting connections for detecting conditions inside cells or batteries, e.g. details of voltage sensing terminals, <b>H01M50/569</b>)",
+      "count": 59616,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/52": {
+      "code": "H01M10/52",
+      "level": 2,
+      "parent": "H01M10/42",
+      "ja": "二次電池内の気体の除去，例．吸収によるもの（排気栓または排気を容易にするための機械的装置Ｈ０１Ｍ５０／３０）［２００６．０１］",
+      "en": "Removing gases inside the secondary cell, e.g. by absorption(vent plugs or other mechanical arrangements for facilitating escape of gases <b>H01M50/30</b>)",
+      "count": 3409,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/54": {
+      "code": "H01M10/54",
+      "level": 1,
+      "parent": "H01M10/00",
+      "ja": "老朽化した蓄電池の有用な部品の再生［２］",
+      "en": "Reclaiming serviceable parts of waste accumulators",
+      "count": 17575,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/60": {
+      "code": "H01M10/60",
+      "level": 1,
+      "parent": "H01M10/00",
+      "ja": "加熱または冷却；温度制御［２０１４．０１］",
+      "en": "Heating or cooling; Temperature control",
+      "count": 5540,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/61": {
+      "code": "H01M10/61",
+      "level": 2,
+      "parent": "H01M10/60",
+      "ja": "温度制御の種類［２０１４．０１］",
+      "en": "Types of temperature control",
+      "count": 434,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/613": {
+      "code": "H01M10/613",
+      "level": 3,
+      "parent": "H01M10/61",
+      "ja": "冷却または低温状態の維持［２０１４．０１］",
+      "en": "Cooling or keeping cold",
+      "count": 76079,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/615": {
+      "code": "H01M10/615",
+      "level": 3,
+      "parent": "H01M10/61",
+      "ja": "加熱または高温状態の維持［２０１４．０１］",
+      "en": "Heating or keeping warm",
+      "count": 18254,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/617": {
+      "code": "H01M10/617",
+      "level": 3,
+      "parent": "H01M10/61",
+      "ja": "均一または望ましい温度分布を達成するためのもの［２０１４．０１］",
+      "en": "for achieving uniformity or desired distribution of temperature",
+      "count": 10855,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/62": {
+      "code": "H01M10/62",
+      "level": 2,
+      "parent": "H01M10/60",
+      "ja": "特定の用途に特に適したもの［２０１４．０１］",
+      "en": "specially adapted for specific applications",
+      "count": 1192,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/623": {
+      "code": "H01M10/623",
+      "level": 3,
+      "parent": "H01M10/62",
+      "ja": "携帯機器，例．携帯電話，カメラ，またはペースメーカー［２０１４．０１］",
+      "en": "Portable devices, e.g. mobile telephones, cameras or pacemakers",
+      "count": 1404,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/6235": {
+      "code": "H01M10/6235",
+      "level": 4,
+      "parent": "H01M10/623",
+      "ja": "電動工具［２０１４．０１］",
+      "en": "Power tools",
+      "count": 605,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/625": {
+      "code": "H01M10/625",
+      "level": 3,
+      "parent": "H01M10/62",
+      "ja": "乗物［２０１４．０１］",
+      "en": "Vehicles",
+      "count": 43381,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/627": {
+      "code": "H01M10/627",
+      "level": 3,
+      "parent": "H01M10/62",
+      "ja": "固定設備，例．発電プラントのバッファリング装置または予備電源装置［２０１４．０１］",
+      "en": "Stationary installations, e.g. power plant buffering or backup power supplies",
+      "count": 5845,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/63": {
+      "code": "H01M10/63",
+      "level": 2,
+      "parent": "H01M10/60",
+      "ja": "制御システム（温度測定Ｈ０１Ｍ１０／４８；温度に応じて充電または放電するものＨ０１Ｍ１０／４４）［２０１４．０１］",
+      "en": "Control systems(measurement of temperature <b>H01M10/48</b>; charging or discharging in response to temperature <b>H01M10/44</b>)",
+      "count": 6148,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/633": {
+      "code": "H01M10/633",
+      "level": 3,
+      "parent": "H01M10/63",
+      "ja": "アルゴリズム，フローチャート，ソフトウェアの詳細，または類似の事項に特徴があるもの［２０１４．０１］",
+      "en": "characterised by algorithms, flow charts, software details or the like",
+      "count": 6619,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/635": {
+      "code": "H01M10/635",
+      "level": 3,
+      "parent": "H01M10/63",
+      "ja": "周囲の温度に基づくもの［２０１４．０１］",
+      "en": "based on ambient temperature",
+      "count": 5387,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/637": {
+      "code": "H01M10/637",
+      "level": 3,
+      "parent": "H01M10/63",
+      "ja": "可逆的温度感知装置の使用に特徴があるもの，例．ＮＴＣ，ＰＴＣ，またはバイメタル装置；電池の内部を流れる電流の制御に特徴があるもの，例．スイッチングによる（誤用または誤放電を防止する装置をもつものＨ０１Ｍ５０／５７２）［２０１４．０１］",
+      "en": "characterised by the use of reversible temperature-sensitive devices, e.g. NTC, PTC or bimetal devices; characterised by control of the internal current flowing through the cells, e.g. by switching(means for preventing undesired use or discharge <b>H01M50/572</b>)",
+      "count": 3664,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/64": {
+      "code": "H01M10/64",
+      "level": 2,
+      "parent": "H01M10/60",
+      "ja": "セルの形状に特徴があるもの［２０１４．０１］",
+      "en": "characterised by the shape of the cells",
+      "count": 184,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/643": {
+      "code": "H01M10/643",
+      "level": 3,
+      "parent": "H01M10/64",
+      "ja": "円筒状のセル［２０１４．０１］",
+      "en": "Cylindrical cells",
+      "count": 4211,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/647": {
+      "code": "H01M10/647",
+      "level": 3,
+      "parent": "H01M10/64",
+      "ja": "角柱状または平板状のセル，例．パウチセル［２０１４．０１］",
+      "en": "Prismatic or flat cells, e.g. pouch cells",
+      "count": 8199,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/65": {
+      "code": "H01M10/65",
+      "level": 2,
+      "parent": "H01M10/60",
+      "ja": "セルと構造的に関連する温度制御のための手段［２０１４．０１］",
+      "en": "Means for temperature control structurally associated with the cells",
+      "count": 961,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/651": {
+      "code": "H01M10/651",
+      "level": 3,
+      "parent": "H01M10/65",
+      "ja": "数値または数式により特定されたパラメータに特徴があるもの，例．比率，サイズ，または濃度［２０１４．０１］",
+      "en": "characterised by parameters specified by a numeric value or mathematical formula, e.g. ratios, sizes or concentrations",
+      "count": 1821,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/652": {
+      "code": "H01M10/652",
+      "level": 4,
+      "parent": "H01M10/651",
+      "ja": "勾配に特徴をもつもの（望ましい温度の勾配の達成Ｈ０１Ｍ１０／６１７）［２０１４．０１］",
+      "en": "characterised by gradients(for achieving a desired temperature gradient <b>H01M10/617</b>)",
+      "count": 422,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/653": {
+      "code": "H01M10/653",
+      "level": 3,
+      "parent": "H01M10/65",
+      "ja": "電気を絶縁するまたは熱を伝導する素材に特徴があるもの［２０１４．０１］",
+      "en": "characterised by electrically insulating or thermally conductive materials",
+      "count": 9907,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/654": {
+      "code": "H01M10/654",
+      "level": 3,
+      "parent": "H01M10/65",
+      "ja": "セルの最内側ケースの中にあるもの，例．心棒，電極，または電解質［２０１４．０１］",
+      "en": "located inside the innermost case of the cells, e.g. mandrels, electrodes or electrolytes",
+      "count": 2851,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/655": {
+      "code": "H01M10/655",
+      "level": 3,
+      "parent": "H01M10/65",
+      "ja": "熱交換または熱伝導のための固体構造物［２０１４．０１］",
+      "en": "Solid structures for heat exchange or heat conduction",
+      "count": 9788,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/6551": {
+      "code": "H01M10/6551",
+      "level": 4,
+      "parent": "H01M10/655",
+      "ja": "熱放出または熱放射のために特に適した表面，例．フィンまたは被覆［２０１４．０１］",
+      "en": "Surfaces specially adapted for heat dissipation or radiation, e.g. fins or coatings",
+      "count": 11433,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/6552": {
+      "code": "H01M10/6552",
+      "level": 4,
+      "parent": "H01M10/655",
+      "ja": "熱伝導または相転移により熱を伝える閉管，例．ヒートパイプ［２０１４．０１］",
+      "en": "Closed pipes transferring heat by thermal conductivity or phase transition, e.g. heat pipes",
+      "count": 2364,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/6553": {
+      "code": "H01M10/6553",
+      "level": 4,
+      "parent": "H01M10/655",
+      "ja": "端子または導線［２０１４．０１］",
+      "en": "Terminals or leads",
+      "count": 1451,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/6554": {
+      "code": "H01M10/6554",
+      "level": 4,
+      "parent": "H01M10/655",
+      "ja": "棒または板［２０１４．０１］",
+      "en": "Rods or plates",
+      "count": 17841,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/6555": {
+      "code": "H01M10/6555",
+      "level": 5,
+      "parent": "H01M10/6554",
+      "ja": "セルとセルの間に配置されるもの［２０１４．０１］",
+      "en": "arranged between the cells",
+      "count": 5444,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/6556": {
+      "code": "H01M10/6556",
+      "level": 4,
+      "parent": "H01M10/655",
+      "ja": "熱交換のための流路または管を備えた固体部品（閉管Ｈ０１Ｍ１０／６５５２）［２０１４．０１］",
+      "en": "Solid parts with flow channel passages or pipes for heat exchange(closed pipes <b>H01M10/6552</b>)",
+      "count": 27898,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/6557": {
+      "code": "H01M10/6557",
+      "level": 5,
+      "parent": "H01M10/6556",
+      "ja": "セルとセルの間に配置されるもの［２０１４．０１］",
+      "en": "arranged between the cells",
+      "count": 6332,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/656": {
+      "code": "H01M10/656",
+      "level": 3,
+      "parent": "H01M10/65",
+      "ja": "熱交換流体の種類に特徴があるもの［２０１４．０１］",
+      "en": "characterised by the type of heat-exchange fluid",
+      "count": 640,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/6561": {
+      "code": "H01M10/6561",
+      "level": 4,
+      "parent": "H01M10/656",
+      "ja": "気体［２０１４．０１］",
+      "en": "Gases",
+      "count": 4393,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/6562": {
+      "code": "H01M10/6562",
+      "level": 5,
+      "parent": "H01M10/6561",
+      "ja": "対流のみにより自由流動するもの［２０１４．０１］",
+      "en": "with free flow by convection only",
+      "count": 2306,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/6563": {
+      "code": "H01M10/6563",
+      "level": 5,
+      "parent": "H01M10/6561",
+      "ja": "強制流動するもの，例．送風機による［２０１４．０１］",
+      "en": "with forced flow, e.g. by blowers",
+      "count": 20970,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/6564": {
+      "code": "H01M10/6564",
+      "level": 6,
+      "parent": "H01M10/6563",
+      "ja": "圧縮気体を使用するもの［２０１４．０１］",
+      "en": "using compressed gas",
+      "count": 400,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/6565": {
+      "code": "H01M10/6565",
+      "level": 6,
+      "parent": "H01M10/6563",
+      "ja": "流路が再循環またはＵターンすなわち往復するもの［２０１４．０１］",
+      "en": "with recirculation or U-turn in the flow path, i.e. back and forth",
+      "count": 747,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/6566": {
+      "code": "H01M10/6566",
+      "level": 5,
+      "parent": "H01M10/6561",
+      "ja": "１つまたは複数のセルの周囲を流れが通過するよう誘導するために，気体の流れの中に配置される手段，例．多岐管，流れ阻止板，または他の障害物（Ｈ０１Ｍ１０／６５６５が優先）［２０１４．０１］",
+      "en": "Means within the gas flow to guide the flow around one or more cells, e.g. manifolds, baffles or other barriers(<b>H01M10/6565</b> takes precedence)",
+      "count": 4504,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/6567": {
+      "code": "H01M10/6567",
+      "level": 4,
+      "parent": "H01M10/656",
+      "ja": "液体［２０１４．０１］",
+      "en": "Liquids",
+      "count": 15577,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/6568": {
+      "code": "H01M10/6568",
+      "level": 5,
+      "parent": "H01M10/6567",
+      "ja": "流れの経路に特徴があるもの，例．セルまたはセルケースの外部に存在するループ［２０１４．０１］",
+      "en": "characterised by flow circuits, e.g. loops, located externally to the cells or cell casings",
+      "count": 19740,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/6569": {
+      "code": "H01M10/6569",
+      "level": 4,
+      "parent": "H01M10/656",
+      "ja": "液体－気体の相変化または相転移を起こす流体，例．蒸発または凝縮（ヒートパイプＨ０１Ｍ１０／６５５２）［２０１４．０１］",
+      "en": "Fluids undergoing a liquid-gas phase change or transition, e.g. evaporation or condensation(heat pipes <b>H01M10/6552</b>)",
+      "count": 4340,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/657": {
+      "code": "H01M10/657",
+      "level": 3,
+      "parent": "H01M10/65",
+      "ja": "電気的または電磁的な手段による［２０１４．０１］",
+      "en": "by electric or electromagnetic means",
+      "count": 1637,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/6571": {
+      "code": "H01M10/6571",
+      "level": 4,
+      "parent": "H01M10/657",
+      "ja": "抵抗加熱ヒーター（内部電流に対する抵抗を利用してバッテリーを加熱する装置Ｈ０１Ｍ１０／６３７）［２０１４．０１］",
+      "en": "Resistive heaters(arrangements for heating the battery by its resistance to the internal current <b>H01M10/637</b>)",
+      "count": 4600,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/6572": {
+      "code": "H01M10/6572",
+      "level": 4,
+      "parent": "H01M10/657",
+      "ja": "ペルチェ素子または熱電装置［２０１４．０１］",
+      "en": "Peltier elements or thermoelectric devices",
+      "count": 1999,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/658": {
+      "code": "H01M10/658",
+      "level": 3,
+      "parent": "H01M10/65",
+      "ja": "熱の遮断または遮蔽による［２０１４．０１］",
+      "en": "by thermal insulation or shielding",
+      "count": 8965,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/659": {
+      "code": "H01M10/659",
+      "level": 3,
+      "parent": "H01M10/65",
+      "ja": "熱の蓄積または緩衝による，例．熱容量，または液体－固体の相変化もしくは相転移［２０１４．０１］",
+      "en": "by heat storage or buffering, e.g. heat capacity or liquid-solid phase changes or transition",
+      "count": 2955,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/6595": {
+      "code": "H01M10/6595",
+      "level": 3,
+      "parent": "H01M10/65",
+      "ja": "セルの電気化学反応以外の化学反応による，例．触媒ヒーターまたはバーナー［２０１４．０１］",
+      "en": "by chemical reactions other than electrochemical reactions of the cells, e.g. catalytic heaters or burners",
+      "count": 181,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/66": {
+      "code": "H01M10/66",
+      "level": 2,
+      "parent": "H01M10/60",
+      "ja": "セルと他のシステムとの間の熱交換，例．セントラルヒーティングシステムまたは燃料電池［２０１４．０１］",
+      "en": "Heat-exchange relationships between the cells and other systems, e.g. central heating systems or fuel cells",
+      "count": 1253,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/663": {
+      "code": "H01M10/663",
+      "level": 3,
+      "parent": "H01M10/66",
+      "ja": "他のシステムが，エアコンまたはエンジンであるもの［２０１４．０１］",
+      "en": "the system being an air-conditioner or an engine",
+      "count": 3993,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M10/667": {
+      "code": "H01M10/667",
+      "level": 3,
+      "parent": "H01M10/66",
+      "ja": "他のシステムが，電子部品であるもの，例．ＣＰＵ，インバータ，またはキャパシタ［２０１４．０１］",
+      "en": "the system being an electronic component, e.g. a CPU, an inverter or a capacitor",
+      "count": 593,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M12/00": {
+      "code": "H01M12/00",
+      "level": 0,
+      "parent": "H01M",
+      "ja": "混成電池；その製造（ハイブリッドコンデンサＨ０１Ｇ１１／００）［２］<br><br><b><ul>注</ul></b><br>（１）このグループは，コンデンサ電極およびバッテリ電極から構成されるハイブリッドコンデンサを包含しない。それらはグループＨ０１Ｇ１１／００に包含される。［２０１５．０１］<br>（２）このグループにおいては，混成電池とは，二つの異なる型式の半電池を有する電気化学的発電装置をいう。ここで，半電池とは，一次電池型，二次電池型，燃料電池型のうちのいずれかの型の電極と電解質とを結合したものをいう。［２］",
+      "en": "Hybrid cells; Manufacture thereof(hybrid capacitors <b>H01G11/00</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>This group <u>does not cover</u> hybrid cells comprising capacitor electrodes and battery electrodes, which are covered by group <b>H01G11/00</b>. </li><li>In this group, hybrid cells are electrochemical generators having two different types of half-cells, the half-cell being an electrode-electrolyte combination of either a primary, a secondary or a fuel cell.  </li></ul>",
+      "count": 584,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M12/02": {
+      "code": "H01M12/02",
+      "level": 1,
+      "parent": "H01M12/00",
+      "ja": "細部（電極の細部Ｈ０１Ｍ４／００，発電要素以外の部分の構造の細部Ｈ０１Ｍ５０／００）［２００６．０１］",
+      "en": "Details (of electrodes <b>H01M4/00</b>, of non-active parts <b>H01M50/00</b>)",
+      "count": 758,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M12/04": {
+      "code": "H01M12/04",
+      "level": 1,
+      "parent": "H01M12/00",
+      "ja": "燃料電池型式の半電池と一次電池型式の半電池とからなるもの［２］",
+      "en": "composed of a half-cell of the fuel-cell type and of a half-cell of the primary-cell type",
+      "count": 492,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M12/06": {
+      "code": "H01M12/06",
+      "level": 2,
+      "parent": "H01M12/04",
+      "ja": "金属電極と気体電極とをもつもの［２］",
+      "en": "with one metallic and one gaseous electrode",
+      "count": 8159,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M12/08": {
+      "code": "H01M12/08",
+      "level": 1,
+      "parent": "H01M12/00",
+      "ja": "燃料電池型式の半電池と二次電池型式の半電池とからなるもの［２］",
+      "en": "composed of a half-cell of a fuel-cell type and a half-cell of the secondary-cell type",
+      "count": 6468,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M14/00": {
+      "code": "H01M14/00",
+      "level": 0,
+      "parent": "H01M",
+      "ja": "Ｈ０１Ｍ６／００～Ｈ０１Ｍ１２／００に分類されない電気化学的な電流または電圧の発生装置；その製造［２］<br><br><b><ul>注</ul></b><br>このグループは，太陽電池，光電池，光電気化学電池または光起電素子を包含しない。それらは，次のグループに包含される：<br>―光に感応しその輻射線エネルギーを電気的エネルギーに変換することに適用される半導体装置は，グループＨ１０Ｆ１０／００に包含される；<br>―光への感応に特に適用されてその輻射線エネルギーを電気的エネルギーに変換することに適用される，能動部分として有機材料を用いる固体装置は，グループＨ１０Ｋ３０／００に包含される；<br>―電解型感光装置，例．色素増感太陽電池，はグループＨ０１Ｇ９／２０に包含される；<br>―エネルギー蓄積手段，例．電池，に構造的に結合した光起電モジュールはグループＨ０２Ｓ４０／３８に包含される。",
+      "en": "Electrochemical current or voltage generators not provided for in groups <b>H01M6/00 to H01M12/00</b> ; Manufacture thereof; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This group <u>does not cover</u> solar cells, photocells, photoelectrochemical cells or photovoltaic cells, which are covered by the following groups:<ul><li>semiconductor devices sensitive to light and adapted for the conversion of the energy of such radiation into electrical energy are covered by group <b>H10F10/00</b>;</li><li>solid-state devices using organic materials as active part specially adapted for sensing light and adapted for the conversion of the energy of such radiation into electrical energy are covered by group <b>H10K30/00</b>;</li><li>electrolytic light-sensitive devices, e.g. dye-sensitised solar cells, are covered by group <b>H01G9/20</b>;</li><li>photovoltaic modules structurally associated with energy storage means, e.g. batteries, are covered by group <b>H02S40/38</b>.</li></ul></li></ul>",
+      "count": 8320,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M16/00": {
+      "code": "H01M16/00",
+      "level": 0,
+      "parent": "H01M",
+      "ja": "異なる型式の電気化学的発電装置の構造的組み合せ［２］",
+      "en": "Structural combinations of different types of electrochemical generators",
+      "count": 3169,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/00": {
+      "code": "H01M50/00",
+      "level": 0,
+      "parent": "H01M",
+      "ja": "燃料電池以外の電気化学的電池，例．混成電池，の発電要素以外の部分の構造の細部またはその製造方法［２０２１．０１］",
+      "en": "Constructional details or processes of manufacture of the non-active parts of electrochemical cells other than fuel cells, e.g. hybrid cells",
+      "count": 435,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/10": {
+      "code": "H01M50/10",
+      "level": 1,
+      "parent": "H01M50/00",
+      "ja": "一次ケース；外装または包装［２０２１．０１］",
+      "en": "Primary casings; Jackets or wrappings ",
+      "count": 6241,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/102": {
+      "code": "H01M50/102",
+      "level": 2,
+      "parent": "H01M50/10",
+      "ja": "形状または物理的構造に特徴があるもの［２０２１．０１］",
+      "en": "characterised by their shape or physical structure",
+      "count": 2296,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/103": {
+      "code": "H01M50/103",
+      "level": 3,
+      "parent": "H01M50/102",
+      "ja": "角柱形または角形（Ｈ０１Ｍ５０／１１５，Ｈ０１Ｍ５０／１１７が優先）［２０２１．０１］",
+      "en": "prismatic or rectangular(<b>H01M50/109</b>, <b>H01M50/11</b> take precedence)",
+      "count": 8272,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/105": {
+      "code": "H01M50/105",
+      "level": 3,
+      "parent": "H01M50/102",
+      "ja": "パウチまたはフレキシブルバッグ［２０２１．０１］",
+      "en": "Pouches or flexible bags",
+      "count": 7412,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/107": {
+      "code": "H01M50/107",
+      "level": 3,
+      "parent": "H01M50/102",
+      "ja": "曲断面，例．円形または楕円形，を有するもの（Ｈ０１Ｍ５０／１０３，Ｈ０１Ｍ５０／１０９，Ｈ０１Ｍ５０／１１が優先）［２０２１．０１］",
+      "en": "having curved cross-section, e.g. round or elliptic(<b>H01M50/103</b>, <b>H01M50/109</b>, <b>H01M50/11</b> take precedence)",
+      "count": 6166,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/109": {
+      "code": "H01M50/109",
+      "level": 3,
+      "parent": "H01M50/102",
+      "ja": "ボタン形またはコイン形［２０２１．０１］",
+      "en": "of button or coin shape",
+      "count": 1851,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/11": {
+      "code": "H01M50/11",
+      "level": 3,
+      "parent": "H01M50/102",
+      "ja": "チップ構造を有するもの，例．チップ上に一体化されたマイクロサイズの電池［２０２１．０１］",
+      "en": "having a chip structure, e.g. micro-sized batteries integrated on chips",
+      "count": 176,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/112": {
+      "code": "H01M50/112",
+      "level": 3,
+      "parent": "H01M50/102",
+      "ja": "複数の区画を含むモノブロック構造のもの［２０２１．０１］",
+      "en": "Monobloc comprising multiple compartments",
+      "count": 779,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/114": {
+      "code": "H01M50/114",
+      "level": 4,
+      "parent": "H01M50/112",
+      "ja": "鉛蓄電池に特に適したもの［２０２１．０１］",
+      "en": "specially adapted for lead-acid cells",
+      "count": 392,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/116": {
+      "code": "H01M50/116",
+      "level": 2,
+      "parent": "H01M50/10",
+      "ja": "材料に特徴があるもの［２０２１．０１］",
+      "en": "characterised by the material",
+      "count": 1257,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/117": {
+      "code": "H01M50/117",
+      "level": 3,
+      "parent": "H01M50/116",
+      "ja": "無機材料［２０２１．０１］",
+      "en": "Inorganic material",
+      "count": 720,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/119": {
+      "code": "H01M50/119",
+      "level": 4,
+      "parent": "H01M50/117",
+      "ja": "金属［２０２１．０１］",
+      "en": "Metals",
+      "count": 5675,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/121": {
+      "code": "H01M50/121",
+      "level": 3,
+      "parent": "H01M50/116",
+      "ja": "有機材料［２０２１．０１］",
+      "en": "Organic material",
+      "count": 4142,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/122": {
+      "code": "H01M50/122",
+      "level": 3,
+      "parent": "H01M50/116",
+      "ja": "有機材料と無機材料の混合物からなる複合材料［２０２１．０１］",
+      "en": "Composite material consisting of a mixture of organic and inorganic materials",
+      "count": 567,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/124": {
+      "code": "H01M50/124",
+      "level": 3,
+      "parent": "H01M50/116",
+      "ja": "積層構造を有するもの［２０２１．０１］",
+      "en": "having a layered structure",
+      "count": 3924,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/126": {
+      "code": "H01M50/126",
+      "level": 4,
+      "parent": "H01M50/124",
+      "ja": "三層以上の層を有するもの［２０２１．０１］",
+      "en": "comprising three or more layers",
+      "count": 1657,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/128": {
+      "code": "H01M50/128",
+      "level": 5,
+      "parent": "H01M50/126",
+      "ja": "無機材料のみからなる二層以上の層を有するもの［２０２１．０１］",
+      "en": "with two or more layers of only inorganic material",
+      "count": 509,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/129": {
+      "code": "H01M50/129",
+      "level": 5,
+      "parent": "H01M50/126",
+      "ja": "有機材料のみからなる二層以上の層を有するもの［２０２１．０１］",
+      "en": "with two or more layers of only organic material",
+      "count": 2017,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/131": {
+      "code": "H01M50/131",
+      "level": 2,
+      "parent": "H01M50/10",
+      "ja": "物理的性質に特徴があるもの，例．ガス透過性，大きさまたは耐熱性［２０２１．０１］",
+      "en": "characterised by physical properties, e.g. gas permeability, size or heat resistance",
+      "count": 2503,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/133": {
+      "code": "H01M50/133",
+      "level": 3,
+      "parent": "H01M50/131",
+      "ja": "厚さ［２０２１．０１］",
+      "en": "Thickness",
+      "count": 1832,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/134": {
+      "code": "H01M50/134",
+      "level": 3,
+      "parent": "H01M50/131",
+      "ja": "硬さ［２０２１．０１］",
+      "en": "Hardness",
+      "count": 342,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/136": {
+      "code": "H01M50/136",
+      "level": 3,
+      "parent": "H01M50/131",
+      "ja": "柔軟性または折畳み可能なもの［２０２１．０１］",
+      "en": "Flexibility or foldability",
+      "count": 1193,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/138": {
+      "code": "H01M50/138",
+      "level": 2,
+      "parent": "H01M50/10",
+      "ja": "特定の電池に適したもの，例．高温で動作する電気化学的電池［２０２１．０１］",
+      "en": "adapted for specific cells, e.g. electrochemical cells operating at high temperature",
+      "count": 209,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/14": {
+      "code": "H01M50/14",
+      "level": 2,
+      "parent": "H01M50/10",
+      "ja": "外的要因による損傷から保護するためのもの［２０２１．０１］",
+      "en": "for protecting against damage caused by external factors",
+      "count": 2123,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/141": {
+      "code": "H01M50/141",
+      "level": 3,
+      "parent": "H01M50/14",
+      "ja": "耐湿性［２０２１．０１］",
+      "en": "for protecting against humidity",
+      "count": 852,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/143": {
+      "code": "H01M50/143",
+      "level": 3,
+      "parent": "H01M50/14",
+      "ja": "耐火性；防爆性［２０２１．０１］",
+      "en": "Fireproof; Explosion-proof",
+      "count": 1467,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/145": {
+      "code": "H01M50/145",
+      "level": 3,
+      "parent": "H01M50/14",
+      "ja": "耐蝕性［２０２１．０１］",
+      "en": "for protecting against corrosion",
+      "count": 1063,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/147": {
+      "code": "H01M50/147",
+      "level": 2,
+      "parent": "H01M50/10",
+      "ja": "蓋またはカバー［２０２１．０１］",
+      "en": "Lids or covers",
+      "count": 8504,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/148": {
+      "code": "H01M50/148",
+      "level": 3,
+      "parent": "H01M50/147",
+      "ja": "蓋の形状に特徴があるもの［２０２１．０１］",
+      "en": "characterised by their shape",
+      "count": 1896,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/15": {
+      "code": "H01M50/15",
+      "level": 4,
+      "parent": "H01M50/148",
+      "ja": "角柱形または角形電池セルのためのもの（Ｈ０１Ｍ５０／１５３が優先）［２０２１．０１］",
+      "en": "for prismatic or rectangular cells(<b>H01M50/153</b> takes precedence)",
+      "count": 7074,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/152": {
+      "code": "H01M50/152",
+      "level": 4,
+      "parent": "H01M50/148",
+      "ja": "曲断面，例．円形または楕円形，を有する電池セルのためのもの（Ｈ０１Ｍ５０／１５，Ｈ０１Ｍ５０／１５３が優先）［２０２１．０１］",
+      "en": "for cells having curved cross-section, e.g. round or elliptic(<b>H01M50/15</b>, <b>H01M50/153</b> take precedence)",
+      "count": 3791,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/153": {
+      "code": "H01M50/153",
+      "level": 4,
+      "parent": "H01M50/148",
+      "ja": "ボタン形またはコイン形電池セルのためのもの［２０２１．０１］",
+      "en": "for button or coin cells",
+      "count": 929,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/155": {
+      "code": "H01M50/155",
+      "level": 3,
+      "parent": "H01M50/147",
+      "ja": "材料に特徴があるもの［２０２１．０１］",
+      "en": "characterised by the material",
+      "count": 242,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/157": {
+      "code": "H01M50/157",
+      "level": 4,
+      "parent": "H01M50/155",
+      "ja": "無機材料［２０２１．０１］",
+      "en": "Inorganic material",
+      "count": 95,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/159": {
+      "code": "H01M50/159",
+      "level": 5,
+      "parent": "H01M50/157",
+      "ja": "金属［２０２１．０１］",
+      "en": "Metals",
+      "count": 1023,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/16": {
+      "code": "H01M50/16",
+      "level": 4,
+      "parent": "H01M50/155",
+      "ja": "有機材料［２０２１．０１］",
+      "en": "Organic material",
+      "count": 521,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/162": {
+      "code": "H01M50/162",
+      "level": 4,
+      "parent": "H01M50/155",
+      "ja": "有機材料と無機材料の混合物からなる複合材料［２０２１．０１］",
+      "en": "Composite material consisting of a mixture of organic and inorganic materials",
+      "count": 66,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/164": {
+      "code": "H01M50/164",
+      "level": 4,
+      "parent": "H01M50/155",
+      "ja": "積層構造を有するもの［２０２１．０１］",
+      "en": "having a layered structure",
+      "count": 514,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/166": {
+      "code": "H01M50/166",
+      "level": 3,
+      "parent": "H01M50/147",
+      "ja": "ケースと蓋の組み立て方法に特徴があるもの［２０２１．０１］",
+      "en": "characterised by the methods of assembling casings with lids",
+      "count": 1896,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/167": {
+      "code": "H01M50/167",
+      "level": 4,
+      "parent": "H01M50/166",
+      "ja": "かしめによるもの［２０２１．０１］",
+      "en": "by crimping",
+      "count": 1261,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/169": {
+      "code": "H01M50/169",
+      "level": 4,
+      "parent": "H01M50/166",
+      "ja": "溶接，ろう付けまたははんだ付けによるもの［２０２１．０１］",
+      "en": "by welding, brazing or soldering",
+      "count": 2426,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/171": {
+      "code": "H01M50/171",
+      "level": 4,
+      "parent": "H01M50/166",
+      "ja": "接着剤またはシ－リング剤を用いるもの［２０２１．０１］",
+      "en": "using adhesives or sealing agents",
+      "count": 881,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/172": {
+      "code": "H01M50/172",
+      "level": 2,
+      "parent": "H01M50/10",
+      "ja": "ケースを貫通する導電体の配置［２０２１．０１］",
+      "en": "Arrangements of electric connectors penetrating the casing",
+      "count": 3850,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/174": {
+      "code": "H01M50/174",
+      "level": 3,
+      "parent": "H01M50/172",
+      "ja": "電池セルの形状に適したもの［２０２１．０１］",
+      "en": "adapted for the shape of the cells",
+      "count": 163,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/176": {
+      "code": "H01M50/176",
+      "level": 4,
+      "parent": "H01M50/174",
+      "ja": "角柱形または角形電池セルのためのもの（Ｈ０１Ｍ　５０／１８１が優先）［２０２１．０１］",
+      "en": "for prismatic or rectangular cells(<b>H01M50/181</b> takes precedence)",
+      "count": 3938,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/178": {
+      "code": "H01M50/178",
+      "level": 4,
+      "parent": "H01M50/174",
+      "ja": "パウチまたはフレキシブルバッグ電池セルのためのもの［２０２１．０１］",
+      "en": "for pouch or flexible bag cells",
+      "count": 2101,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/179": {
+      "code": "H01M50/179",
+      "level": 4,
+      "parent": "H01M50/174",
+      "ja": "曲断面，例．円形または楕円形，を有する電池セルのためのもの（Ｈ０１Ｍ５０／１７６，Ｈ０１Ｍ５０／１８１が優先）［２０２１．０１］",
+      "en": "for cells having curved cross-section, e.g. round or elliptic(<b>H01M50/176</b>, <b>H01M50/181</b> take precedence)",
+      "count": 1426,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/181": {
+      "code": "H01M50/181",
+      "level": 4,
+      "parent": "H01M50/174",
+      "ja": "ボタン形またはコイン形電池セルのためのもの［２０２１．０１］",
+      "en": "for button or coin cells",
+      "count": 239,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/183": {
+      "code": "H01M50/183",
+      "level": 2,
+      "parent": "H01M50/10",
+      "ja": "封口部材［２０２１．０１］",
+      "en": "Sealing members",
+      "count": 2738,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/184": {
+      "code": "H01M50/184",
+      "level": 3,
+      "parent": "H01M50/183",
+      "ja": "封口部材の形状または構造に特徴があるもの［２０２１．０１］",
+      "en": "characterised by their shape or structure",
+      "count": 6432,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/186": {
+      "code": "H01M50/186",
+      "level": 3,
+      "parent": "H01M50/183",
+      "ja": "封口部材の配置に特徴があるもの［２０２１．０１］",
+      "en": "characterised by the disposition of the sealing members",
+      "count": 7318,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/188": {
+      "code": "H01M50/188",
+      "level": 4,
+      "parent": "H01M50/186",
+      "ja": "蓋と端子との間に配置された封口部材［２０２１．０１］",
+      "en": "the sealing members being arranged between the lid and terminal",
+      "count": 4271,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/19": {
+      "code": "H01M50/19",
+      "level": 3,
+      "parent": "H01M50/183",
+      "ja": "材料に特徴があるもの［２０２１．０１］",
+      "en": "characterised by the material",
+      "count": 234,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/191": {
+      "code": "H01M50/191",
+      "level": 4,
+      "parent": "H01M50/19",
+      "ja": "無機材料［２０２１．０１］",
+      "en": "Inorganic material",
+      "count": 799,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/193": {
+      "code": "H01M50/193",
+      "level": 4,
+      "parent": "H01M50/19",
+      "ja": "有機材料［２０２１．０１］",
+      "en": "Organic material",
+      "count": 2722,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/195": {
+      "code": "H01M50/195",
+      "level": 4,
+      "parent": "H01M50/19",
+      "ja": "有機材料と無機材料の混合物からなる複合材料［２０２１．０１］",
+      "en": "Composite material consisting of a mixture of organic and inorganic materials",
+      "count": 264,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/197": {
+      "code": "H01M50/197",
+      "level": 4,
+      "parent": "H01M50/19",
+      "ja": "積層構造を有するもの［２０２１．０１］",
+      "en": "having a layered structure",
+      "count": 754,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/198": {
+      "code": "H01M50/198",
+      "level": 4,
+      "parent": "H01M50/19",
+      "ja": "物理的性質に特徴があるもの，例．接着性または硬さ［２０２１．０１］",
+      "en": "characterised by physical properties, e.g. adhesiveness or hardness",
+      "count": 1023,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/20": {
+      "code": "H01M50/20",
+      "level": 1,
+      "parent": "H01M50/00",
+      "ja": "装着；二次ケースまたはフレーム；ラック，モジュールまたはパック；懸架装置；緩衝装置；輸送または運搬装置；ホルダー（蓄電池と充電装置が構造的に結合したものＨ０１Ｍ１０／４６）［２０２１．０１］",
+      "en": "Mountings; Secondary casings or frames; Racks, modules or packs; Suspension devices; Shock absorbers; Transport or carrying devices; Holders(structural combination of accumulators with charging apparatus <b>H01M10/46</b>)",
+      "count": 11411,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/202": {
+      "code": "H01M50/202",
+      "level": 2,
+      "parent": "H01M50/20",
+      "ja": "単一の電池の一次ケースの周りのケースまたはフレーム［２０２１．０１］",
+      "en": "Casings or frames around the primary casing of a single cell or a single battery",
+      "count": 4645,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/204": {
+      "code": "H01M50/204",
+      "level": 2,
+      "parent": "H01M50/20",
+      "ja": "複数の電池のためのラック，モジュールまたはパック［２０２１．０１］",
+      "en": "Racks, modules or packs for multiple batteries or multiple cells",
+      "count": 27736,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/207": {
+      "code": "H01M50/207",
+      "level": 3,
+      "parent": "H01M50/204",
+      "ja": "形状に特徴があるもの［２０２１．０１］",
+      "en": "characterised by their shape",
+      "count": 1168,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/209": {
+      "code": "H01M50/209",
+      "level": 4,
+      "parent": "H01M50/207",
+      "ja": "角柱形または角形電池セルに適したもの（Ｈ０１Ｍ５０／２１６が優先）［２０２１．０１］",
+      "en": "adapted for prismatic or rectangular cells(<b>H01M50/216</b> takes precedence)",
+      "count": 16599,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/211": {
+      "code": "H01M50/211",
+      "level": 4,
+      "parent": "H01M50/207",
+      "ja": "パウチ型電池セルに適したもの［２０２１．０１］",
+      "en": "adapted for pouch cells",
+      "count": 5559,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/213": {
+      "code": "H01M50/213",
+      "level": 4,
+      "parent": "H01M50/207",
+      "ja": "曲断面，例．円形または楕円形，を有する電池セルに適したもの（Ｈ０１Ｍ５０／２０９，Ｈ０１Ｍ５０／２１６が優先）［２０２１．０１］",
+      "en": "adapted for cells having curved cross-section, e.g. round or elliptic(<b>H01M50/209</b>, <b>H01M50/216</b> take precedence)",
+      "count": 9304,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/216": {
+      "code": "H01M50/216",
+      "level": 4,
+      "parent": "H01M50/207",
+      "ja": "ボタン形またはコイン形電池セルに適したもの［２０２１．０１］",
+      "en": "adapted for button or coin cells",
+      "count": 318,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/218": {
+      "code": "H01M50/218",
+      "level": 2,
+      "parent": "H01M50/20",
+      "ja": "材料に特徴があるもの［２０２１．０１］",
+      "en": "characterised by the material",
+      "count": 340,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/22": {
+      "code": "H01M50/22",
+      "level": 3,
+      "parent": "H01M50/218",
+      "ja": "ケースまたはラックのためのもの［２０２１．０１］",
+      "en": "of the casings or racks",
+      "count": 557,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/222": {
+      "code": "H01M50/222",
+      "level": 4,
+      "parent": "H01M50/22",
+      "ja": "無機材料［２０２１．０１］",
+      "en": "Inorganic material",
+      "count": 607,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/224": {
+      "code": "H01M50/224",
+      "level": 5,
+      "parent": "H01M50/222",
+      "ja": "金属［２０２１．０１］",
+      "en": "Metals",
+      "count": 3905,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/227": {
+      "code": "H01M50/227",
+      "level": 4,
+      "parent": "H01M50/22",
+      "ja": "有機材料［２０２１．０１］",
+      "en": "Organic material",
+      "count": 3096,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/229": {
+      "code": "H01M50/229",
+      "level": 4,
+      "parent": "H01M50/22",
+      "ja": "有機材料と無機材料の混合物からなる複合材料［２０２１．０１］",
+      "en": "Composite material consisting of a mixture of organic and inorganic materials",
+      "count": 691,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/231": {
+      "code": "H01M50/231",
+      "level": 4,
+      "parent": "H01M50/22",
+      "ja": "積層構造を有するもの［２０２１．０１］",
+      "en": "having a layered structure",
+      "count": 2091,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/233": {
+      "code": "H01M50/233",
+      "level": 2,
+      "parent": "H01M50/20",
+      "ja": "ケースまたはラックの物理的性質に特徴があるもの，例．寸法［２０２１．０１］",
+      "en": "characterised by physical properties of casings or racks, e.g. dimensions",
+      "count": 3636,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/236": {
+      "code": "H01M50/236",
+      "level": 3,
+      "parent": "H01M50/233",
+      "ja": "硬さ［２０２１．０１］",
+      "en": "Hardness",
+      "count": 749,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/238": {
+      "code": "H01M50/238",
+      "level": 3,
+      "parent": "H01M50/233",
+      "ja": "柔軟性または折畳み可能なもの［２０２１．０１］",
+      "en": "Flexibility or foldability",
+      "count": 493,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/24": {
+      "code": "H01M50/24",
+      "level": 3,
+      "parent": "H01M50/233",
+      "ja": "環境から電池を保護するために適したもの，例．耐蝕（断熱材Ｈ０１Ｍ１０／６５８）［２０２１．０１］",
+      "en": "adapted for protecting batteries from their environment, e.g. from corrosion(thermal insulation <b>H01M10/658</b>)",
+      "count": 18344,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/242": {
+      "code": "H01M50/242",
+      "level": 3,
+      "parent": "H01M50/233",
+      "ja": "振動，衝突衝撃，または膨張から電池を保護するために適したもの［２０２１．０１］",
+      "en": "adapted for protecting batteries against vibrations, collision impact or swelling",
+      "count": 23626,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/244": {
+      "code": "H01M50/244",
+      "level": 2,
+      "parent": "H01M50/20",
+      "ja": "装着方法に特徴のある二次ケース；ラック；懸架装置；運搬装置；ホルダー［２０２１．０１］",
+      "en": "Secondary casings; Racks; Suspension devices; Carrying devices; Holders characterised by their mounting method",
+      "count": 71659,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/247": {
+      "code": "H01M50/247",
+      "level": 2,
+      "parent": "H01M50/20",
+      "ja": "ポータブルデバイスに特に適したもの，例．携帯電話，コンピューター，ハンドツールまたはペースメーカー［２０２１．０１］",
+      "en": "specially adapted for portable devices, e.g. mobile phones, computers, hand tools or pacemakers",
+      "count": 8195,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/249": {
+      "code": "H01M50/249",
+      "level": 2,
+      "parent": "H01M50/20",
+      "ja": "航空機または車両に特に適したもの，例．自動車または電車（電気車両に特に適したバッテリーの構造の細部Ｂ６０Ｌ５０／６４）［２０２１．０１］",
+      "en": "specially adapted for aircraft or vehicles, e.g. cars or trains(constructional details of batteries specially adapted for electric vehicles <b>B60L50/64</b>)",
+      "count": 43245,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/251": {
+      "code": "H01M50/251",
+      "level": 2,
+      "parent": "H01M50/20",
+      "ja": "固定装置に特に適したもの，例．発電所のバッファリングまたはバックアップ電源［２０２１．０１］",
+      "en": "specially adapted for stationary devices, e.g. power plant buffering or backup power supplies",
+      "count": 5908,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/253": {
+      "code": "H01M50/253",
+      "level": 2,
+      "parent": "H01M50/20",
+      "ja": "特定の電池に適したもの，例．高温で動作する電気化学的電池［２０２１．０１］",
+      "en": "adapted for specific cells, e.g. electrochemical cells operating at high temperature",
+      "count": 437,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/256": {
+      "code": "H01M50/256",
+      "level": 2,
+      "parent": "H01M50/20",
+      "ja": "運搬装置，例．ベルト［２０２１．０１］",
+      "en": "Carrying devices, e.g. belts",
+      "count": 5316,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/258": {
+      "code": "H01M50/258",
+      "level": 2,
+      "parent": "H01M50/20",
+      "ja": "モジュール式電池；組み立て手段を有するケース［２０２１．０１］",
+      "en": "Modular batteries; Casings provided with means for assembling",
+      "count": 18283,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/26": {
+      "code": "H01M50/26",
+      "level": 3,
+      "parent": "H01M50/258",
+      "ja": "取り外し不可能な方法で互いにシールされたアセンブリ［２０２１．０１］",
+      "en": "Assemblies sealed to each other in a non-detachable manner",
+      "count": 461,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/262": {
+      "code": "H01M50/262",
+      "level": 2,
+      "parent": "H01M50/20",
+      "ja": "締結手段を有するもの，例．ロック［２０２１．０１］",
+      "en": "with fastening means, e.g. locks",
+      "count": 11015,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/264": {
+      "code": "H01M50/264",
+      "level": 3,
+      "parent": "H01M50/262",
+      "ja": "電池のためのもの，例．ストラップ，タイロッドまたは周辺フレーム［２０２１．０１］",
+      "en": "for cells or batteries, e.g. straps, tie rods or peripheral frames",
+      "count": 18298,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/267": {
+      "code": "H01M50/267",
+      "level": 2,
+      "parent": "H01M50/20",
+      "ja": "異なるタイプまたは異なるサイズの電池に適応するための手段を有するもの［２０２１．０１］",
+      "en": "having means for adapting to batteries or cells of different types or different sizes",
+      "count": 2863,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/269": {
+      "code": "H01M50/269",
+      "level": 2,
+      "parent": "H01M50/20",
+      "ja": "様々な用途に合わせて電池の配置を変更するための手段，例．電池の数の変更または直列／並列配線の切り替え（修理または保守のための方法または装置Ｈ０１Ｍ６／５０，Ｈ０１Ｍ１０／４２）［２０２１．０１］",
+      "en": "Mechanical means for varying the arrangement of batteries or cells for different uses, e.g. for changing the number of batteries or for switching between series and parallel wiring(methods or arrangements for servicing or maintenance <b>H01M6/50</b>, <b>H01M10/42</b>)",
+      "count": 1215,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/271": {
+      "code": "H01M50/271",
+      "level": 2,
+      "parent": "H01M50/20",
+      "ja": "ラックまたは二次ケースの蓋またはカバー［２０２１．０１］",
+      "en": "Lids or covers for the racks or secondary casings",
+      "count": 15391,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/273": {
+      "code": "H01M50/273",
+      "level": 3,
+      "parent": "H01M50/271",
+      "ja": "材料に特徴があるもの［２０２１．０１］",
+      "en": "characterised by the material",
+      "count": 255,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/276": {
+      "code": "H01M50/276",
+      "level": 4,
+      "parent": "H01M50/273",
+      "ja": "無機材料［２０２１．０１］",
+      "en": "Inorganic material",
+      "count": 697,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/278": {
+      "code": "H01M50/278",
+      "level": 4,
+      "parent": "H01M50/273",
+      "ja": "有機材料［２０２１．０１］",
+      "en": "Organic material",
+      "count": 687,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/28": {
+      "code": "H01M50/28",
+      "level": 4,
+      "parent": "H01M50/273",
+      "ja": "有機材料と無機材料の混合物からなる複合材料［２０２１．０１］",
+      "en": "Composite material consisting of a mixture of organic and inorganic materials",
+      "count": 164,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/282": {
+      "code": "H01M50/282",
+      "level": 4,
+      "parent": "H01M50/273",
+      "ja": "積層構造を有するもの［２０２１．０１］",
+      "en": "having a layered structure",
+      "count": 484,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/284": {
+      "code": "H01M50/284",
+      "level": 2,
+      "parent": "H01M50/20",
+      "ja": "組み込まれた回路基板を有するもの，例．プリント回路基板［ＰＣＢ］［２０２１．０１］",
+      "en": "with incorporated circuit boards, e.g. printed circuit boards [PCB]",
+      "count": 4427,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/287": {
+      "code": "H01M50/287",
+      "level": 3,
+      "parent": "H01M50/284",
+      "ja": "蓋またはカバーへの回路基板の固定［２０２１．０１］",
+      "en": "Fixing of circuit boards to lids or covers",
+      "count": 728,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/289": {
+      "code": "H01M50/289",
+      "level": 2,
+      "parent": "H01M50/20",
+      "ja": "フレーム，ラック，またはパック内のスペース要素または位置決め手段（電池セル内部の間隔保持部材であって，セパレータ，薄膜または隔膜以外のものＨ０１Ｍ５０／４７１）［２０２１．０１］",
+      "en": "characterised by spacing elements or positioning means within frames, racks or packs(spacing elements inside cells other than separators, membranes or diaphragms <b>H01M50/471</b>)",
+      "count": 19451,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/291": {
+      "code": "H01M50/291",
+      "level": 3,
+      "parent": "H01M50/289",
+      "ja": "形状に特徴があるもの［２０２１．０１］",
+      "en": "characterised by their shape",
+      "count": 7145,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/293": {
+      "code": "H01M50/293",
+      "level": 3,
+      "parent": "H01M50/289",
+      "ja": "材料に特徴があるもの［２０２１．０１］",
+      "en": "characterised by the material",
+      "count": 3390,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/296": {
+      "code": "H01M50/296",
+      "level": 2,
+      "parent": "H01M50/20",
+      "ja": "電池パックの外部端子に特徴があるもの（電池の端子Ｈ０１Ｍ　５０／５４３）［２０２１．０１］",
+      "en": "characterised by terminals of battery packs(terminals of batteries <b>H01M50/543</b>)",
+      "count": 7141,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/298": {
+      "code": "H01M50/298",
+      "level": 2,
+      "parent": "H01M50/20",
+      "ja": "電池パックの配線に特徴があるもの［２０２１．０１］",
+      "en": "characterised by the wiring of battery packs",
+      "count": 6632,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/30": {
+      "code": "H01M50/30",
+      "level": 1,
+      "parent": "H01M50/00",
+      "ja": "ガスの排気を容易にするための装置［２０２１．０１］",
+      "en": "Arrangements for facilitating escape of gases",
+      "count": 8976,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/308": {
+      "code": "H01M50/308",
+      "level": 2,
+      "parent": "H01M50/30",
+      "ja": "取り外し可能な装置，例．取り外し可能な排気栓または排気栓システム［２０２１．０１］",
+      "en": "Detachable arrangements, e.g. detachable vent plugs or plug systems",
+      "count": 500,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/317": {
+      "code": "H01M50/317",
+      "level": 2,
+      "parent": "H01M50/30",
+      "ja": "再封止可能な装置［２０２１．０１］",
+      "en": "Re-sealable arrangements",
+      "count": 2760,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/325": {
+      "code": "H01M50/325",
+      "level": 3,
+      "parent": "H01M50/317",
+      "ja": "変形可能な弁部材を備えるもの，例．弾性のあるまたは柔軟な弁部材［２０２１．０１］",
+      "en": "comprising deformable valve members, e.g. elastic or flexible valve members",
+      "count": 1218,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/333": {
+      "code": "H01M50/333",
+      "level": 4,
+      "parent": "H01M50/325",
+      "ja": "ばね式の通気弁［２０２１．０１］",
+      "en": "Spring-loaded vent valves",
+      "count": 850,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/342": {
+      "code": "H01M50/342",
+      "level": 2,
+      "parent": "H01M50/30",
+      "ja": "再封止不可能な装置［２０２１．０１］",
+      "en": "Non-re-sealable arrangements",
+      "count": 6594,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/35": {
+      "code": "H01M50/35",
+      "level": 2,
+      "parent": "H01M50/30",
+      "ja": "細長い，蛇行したまたは迷路の様な排出路を備える排気路［２０２１．０１］",
+      "en": "Gas exhaust passages comprising elongated, tortuous or labyrinth-shaped exhaust passages",
+      "count": 2098,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/358": {
+      "code": "H01M50/358",
+      "level": 3,
+      "parent": "H01M50/35",
+      "ja": "電池のカバーまたはケースにある外部の排気路［２０２１．０１］",
+      "en": "External gas exhaust passages located on the battery cover or case",
+      "count": 1566,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/367": {
+      "code": "H01M50/367",
+      "level": 3,
+      "parent": "H01M50/35",
+      "ja": "電池のカバーまたはケースの一部を構成する内部の排気路；二重カバー排気システム［２０２１．０１］",
+      "en": "Internal gas exhaust passages forming part of the battery cover or case; Double cover vent systems",
+      "count": 2303,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/375": {
+      "code": "H01M50/375",
+      "level": 2,
+      "parent": "H01M50/30",
+      "ja": "温度を感知するまたは温度に応答する排気手段［２０２１．０１］",
+      "en": "Vent means sensitive to or responsive to temperature",
+      "count": 1159,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/383": {
+      "code": "H01M50/383",
+      "level": 2,
+      "parent": "H01M50/30",
+      "ja": "火炎防止手段または着火防止手段［２０２１．０１］",
+      "en": "Flame arresting or ignition-preventing means",
+      "count": 2616,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/392": {
+      "code": "H01M50/392",
+      "level": 2,
+      "parent": "H01M50/30",
+      "ja": "電解液を中和または吸収する手段を有するもの；排気口からの電解液の漏出を防止する手段を有するもの［２０２１．０１］",
+      "en": "with means for neutralising or absorbing electrolyte; with means for preventing leakage of electrolyte through vent holes",
+      "count": 686,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/40": {
+      "code": "H01M50/40",
+      "level": 1,
+      "parent": "H01M50/00",
+      "ja": "セパレータ；薄膜；隔膜；電池セル内部の間隔保持部材［２０２１．０１］",
+      "en": "Separators; Membranes; Diaphragms; Spacing elements inside cells",
+      "count": 2769,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/403": {
+      "code": "H01M50/403",
+      "level": 2,
+      "parent": "H01M50/40",
+      "ja": "セパレータ，薄膜または隔膜の製造工程［２０２１．０１］",
+      "en": "Manufacturing processes of separators, membranes or diaphragms",
+      "count": 11403,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/406": {
+      "code": "H01M50/406",
+      "level": 3,
+      "parent": "H01M50/403",
+      "ja": "成型加工；エンボス加工；切断［２０２１．０１］",
+      "en": "Moulding; Embossing; Cutting",
+      "count": 1291,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/409": {
+      "code": "H01M50/409",
+      "level": 2,
+      "parent": "H01M50/40",
+      "ja": "材料に特徴があるセパレータ，薄膜または隔膜［２０２１．０１］",
+      "en": "Separators, membranes or diaphragms characterised by the material",
+      "count": 3293,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/411": {
+      "code": "H01M50/411",
+      "level": 3,
+      "parent": "H01M50/409",
+      "ja": "有機材料［２０２１．０１］",
+      "en": "Organic material",
+      "count": 2249,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/414": {
+      "code": "H01M50/414",
+      "level": 4,
+      "parent": "H01M50/411",
+      "ja": "合成樹脂，例．熱可塑性樹脂または熱硬化性樹脂［２０２１．０１］",
+      "en": "Synthetic resins, e.g. .thermoplastics or thermosetting resins",
+      "count": 5409,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/417": {
+      "code": "H01M50/417",
+      "level": 5,
+      "parent": "H01M50/414",
+      "ja": "ポリオレフィン［２０２１．０１］",
+      "en": "Polyolefins",
+      "count": 6776,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/42": {
+      "code": "H01M50/42",
+      "level": 5,
+      "parent": "H01M50/414",
+      "ja": "アクリル樹脂［２０２１．０１］",
+      "en": "Acrylic resins",
+      "count": 1588,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/423": {
+      "code": "H01M50/423",
+      "level": 5,
+      "parent": "H01M50/414",
+      "ja": "ポリアミド樹脂［２０２１．０１］",
+      "en": "Polyamide resins",
+      "count": 1712,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/426": {
+      "code": "H01M50/426",
+      "level": 5,
+      "parent": "H01M50/414",
+      "ja": "フッ素樹脂［２０２１．０１］",
+      "en": "Fluorocarbon polymers",
+      "count": 2154,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/429": {
+      "code": "H01M50/429",
+      "level": 4,
+      "parent": "H01M50/411",
+      "ja": "天然高分子［２０２１．０１］",
+      "en": "Natural polymers",
+      "count": 1255,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/431": {
+      "code": "H01M50/431",
+      "level": 3,
+      "parent": "H01M50/409",
+      "ja": "無機材料［２０２１．０１］",
+      "en": "Inorganic material",
+      "count": 3213,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/434": {
+      "code": "H01M50/434",
+      "level": 4,
+      "parent": "H01M50/431",
+      "ja": "セラミック［２０２１．０１］",
+      "en": "Ceramics",
+      "count": 3913,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/437": {
+      "code": "H01M50/437",
+      "level": 5,
+      "parent": "H01M50/434",
+      "ja": "ガラス［２０２１．０１］",
+      "en": "Glass",
+      "count": 1121,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/44": {
+      "code": "H01M50/44",
+      "level": 3,
+      "parent": "H01M50/409",
+      "ja": "繊維材料［２０２１．０１］",
+      "en": "Fibrous material",
+      "count": 2671,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/443": {
+      "code": "H01M50/443",
+      "level": 3,
+      "parent": "H01M50/409",
+      "ja": "粒子状材料［２０２１．０１］",
+      "en": "Particulate material",
+      "count": 2848,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/446": {
+      "code": "H01M50/446",
+      "level": 3,
+      "parent": "H01M50/409",
+      "ja": "有機材料と無機材料の混合物からなる複合材料［２０２１．０１］",
+      "en": "Composite material consisting of a mixture of organic and inorganic materials",
+      "count": 4211,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/449": {
+      "code": "H01M50/449",
+      "level": 3,
+      "parent": "H01M50/409",
+      "ja": "積層構造を有するもの［２０２１．０１］",
+      "en": "having a layered structure",
+      "count": 7047,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/451": {
+      "code": "H01M50/451",
+      "level": 4,
+      "parent": "H01M50/449",
+      "ja": "有機材料のみからなる層と無機材料を含む層を有するもの［２０２１．０１］",
+      "en": "comprising layers of only organic material and layers containing inorganic material",
+      "count": 3606,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/454": {
+      "code": "H01M50/454",
+      "level": 4,
+      "parent": "H01M50/449",
+      "ja": "相互に重ね合わされた繊維層と非繊維層を有するもの［２０２１．０１］",
+      "en": "comprising a non-fibrous layer and a fibrous layer superimposed on one another",
+      "count": 809,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/457": {
+      "code": "H01M50/457",
+      "level": 4,
+      "parent": "H01M50/449",
+      "ja": "三層以上の層を有するもの［２０２１．０１］",
+      "en": "comprising three or more layers",
+      "count": 3730,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/46": {
+      "code": "H01M50/46",
+      "level": 2,
+      "parent": "H01M50/40",
+      "ja": "電極との組み合わせに特徴があるセパレータ，薄膜または隔膜［２０２１．０１］",
+      "en": "Separators, membranes or diaphragms characterised by their combination with electrodes",
+      "count": 3990,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/463": {
+      "code": "H01M50/463",
+      "level": 2,
+      "parent": "H01M50/40",
+      "ja": "形状に特徴があるセパレータ，薄膜または隔膜［２０２１．０１］",
+      "en": "Separators, membranes or diaphragms characterised by their shape",
+      "count": 2662,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/466": {
+      "code": "H01M50/466",
+      "level": 3,
+      "parent": "H01M50/463",
+      "ja": "Ｕ字状，袋状または折り畳まれたもの［２０２１．０１］",
+      "en": "U-shaped, bag-shaped or folded",
+      "count": 1026,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/469": {
+      "code": "H01M50/469",
+      "level": 3,
+      "parent": "H01M50/463",
+      "ja": "管状または筒状［２０２１．０１］",
+      "en": "tubular or cylindrical",
+      "count": 385,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/471": {
+      "code": "H01M50/471",
+      "level": 2,
+      "parent": "H01M50/40",
+      "ja": "電池セル内部の間隔保持部材であって，セパレータ，薄膜または隔膜以外のもの（電池内外での誤接触を防止するためのものＨ０１Ｍ５０／５８４）；その製造工程［２０２１．０１］",
+      "en": "Spacing elements inside cells other than separators, membranes or diaphragms(for preventing incorrect contact inside or outside batteries <b>H01M50/584</b>);Manufacturing processes thereof",
+      "count": 297,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/474": {
+      "code": "H01M50/474",
+      "level": 3,
+      "parent": "H01M50/471",
+      "ja": "電池セル内部の位置に特徴があるもの［２０２１．０１］",
+      "en": "characterised by their position inside the cells",
+      "count": 2095,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/477": {
+      "code": "H01M50/477",
+      "level": 3,
+      "parent": "H01M50/471",
+      "ja": "形状に特徴があるもの［２０２１．０１］",
+      "en": "characterised by their shape",
+      "count": 1303,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/48": {
+      "code": "H01M50/48",
+      "level": 3,
+      "parent": "H01M50/471",
+      "ja": "材料に特徴があるもの［２０２１．０１］",
+      "en": "characterised by the material",
+      "count": 290,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/483": {
+      "code": "H01M50/483",
+      "level": 4,
+      "parent": "H01M50/48",
+      "ja": "無機材料［２０２１．０１］",
+      "en": "Inorganic material",
+      "count": 274,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/486": {
+      "code": "H01M50/486",
+      "level": 4,
+      "parent": "H01M50/48",
+      "ja": "有機材料［２０２１．０１］",
+      "en": "Organic material",
+      "count": 576,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/489": {
+      "code": "H01M50/489",
+      "level": 2,
+      "parent": "H01M50/40",
+      "ja": "物理的性質に特徴があるセパレータ，薄膜，隔膜または電池セル内部の間隔保持部材，例．膨潤度，親水性またはシャットダウン特性［２０２１．０１］",
+      "en": "Separators, membranes, diaphragms or spacing elements inside the cells, characterised by their physical properties, e.g. swelling degree, hydrophilicity or shut down properties",
+      "count": 8675,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/491": {
+      "code": "H01M50/491",
+      "level": 3,
+      "parent": "H01M50/489",
+      "ja": "空孔率［２０２１．０１］",
+      "en": "Porosity",
+      "count": 5498,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/494": {
+      "code": "H01M50/494",
+      "level": 3,
+      "parent": "H01M50/489",
+      "ja": "引張強度［２０２１．０１］",
+      "en": "Tensile strength",
+      "count": 1305,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/497": {
+      "code": "H01M50/497",
+      "level": 3,
+      "parent": "H01M50/489",
+      "ja": "イオン伝導性［２０２１．０１］",
+      "en": "Ionic conductivity",
+      "count": 1761,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/50": {
+      "code": "H01M50/50",
+      "level": 1,
+      "parent": "H01M50/00",
+      "ja": "電池の導電接続［２０２１．０１］",
+      "en": "Current conducting connections for cells or batteries",
+      "count": 7108,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/502": {
+      "code": "H01M50/502",
+      "level": 2,
+      "parent": "H01M50/50",
+      "ja": "隣接電池の端子を接続する中間接続部材；電池ケースの外側で電池セル同士を接続する中間接続部材［２０２１．０１］",
+      "en": "Interconnectors for connecting terminals of adjacent batteries; Interconnectors for connecting cells outside a battery casing",
+      "count": 9734,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/503": {
+      "code": "H01M50/503",
+      "level": 3,
+      "parent": "H01M50/502",
+      "ja": "形状に特徴があるもの［２０２１．０１］",
+      "en": "characterised by the shape of the interconnectors",
+      "count": 11578,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/505": {
+      "code": "H01M50/505",
+      "level": 3,
+      "parent": "H01M50/502",
+      "ja": "単一のバスバーからなるもの［２０２１．０１］",
+      "en": "comprising a single busbar",
+      "count": 3527,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/507": {
+      "code": "H01M50/507",
+      "level": 3,
+      "parent": "H01M50/502",
+      "ja": "容器の構造内に２つ以上のバスバーの配置を有するもの，例．バスバーモジュール［２０２１．０１］",
+      "en": "comprising an arrangement of two or more busbars within a container structure, e.g. busbar modules",
+      "count": 6920,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/509": {
+      "code": "H01M50/509",
+      "level": 3,
+      "parent": "H01M50/502",
+      "ja": "接続のタイプに特徴があるもの，例．複合接続［２０２１．０１］",
+      "en": "characterised by the type of connection, e.g. mixed connections",
+      "count": 2159,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/51": {
+      "code": "H01M50/51",
+      "level": 4,
+      "parent": "H01M50/509",
+      "ja": "直列にのみ接続［２０２１．０１］",
+      "en": "Connection only in series",
+      "count": 3669,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/512": {
+      "code": "H01M50/512",
+      "level": 4,
+      "parent": "H01M50/509",
+      "ja": "並列にのみ接続［２０２１．０１］",
+      "en": "Connection only in parallel",
+      "count": 1477,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/514": {
+      "code": "H01M50/514",
+      "level": 3,
+      "parent": "H01M50/502",
+      "ja": "隣接する電池の接続工程［２０２１．０１］",
+      "en": "Methods for interconnecting adjacent batteries or cells",
+      "count": 1667,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/516": {
+      "code": "H01M50/516",
+      "level": 4,
+      "parent": "H01M50/514",
+      "ja": "溶接，はんだ付けまたはろう付けによるもの［２０２１．０１］",
+      "en": "by welding, soldering or brazing",
+      "count": 4481,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/517": {
+      "code": "H01M50/517",
+      "level": 4,
+      "parent": "H01M50/514",
+      "ja": "固定手段によるもの，例．ねじ，リベットまたはボルト［２０２１．０１］",
+      "en": "by fixing means, e.g. screws, rivets or bolts",
+      "count": 2226,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/519": {
+      "code": "H01M50/519",
+      "level": 3,
+      "parent": "H01M50/502",
+      "ja": "プリント回路基板［ＰＣＢ］を有するもの［２０２１．０１］",
+      "en": "comprising printed circuit boards [PCB]",
+      "count": 4292,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/521": {
+      "code": "H01M50/521",
+      "level": 3,
+      "parent": "H01M50/502",
+      "ja": "材料に特徴があるもの［２０２１．０１］",
+      "en": "characterised by the material",
+      "count": 342,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/522": {
+      "code": "H01M50/522",
+      "level": 4,
+      "parent": "H01M50/521",
+      "ja": "無機材料［２０２１．０１］",
+      "en": "Inorganic material",
+      "count": 2461,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/524": {
+      "code": "H01M50/524",
+      "level": 4,
+      "parent": "H01M50/521",
+      "ja": "有機材料［２０２１．０１］",
+      "en": "Organic material",
+      "count": 279,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/526": {
+      "code": "H01M50/526",
+      "level": 4,
+      "parent": "H01M50/521",
+      "ja": "積層構造を有するもの［２０２１．０１］",
+      "en": "having a layered structure",
+      "count": 722,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/528": {
+      "code": "H01M50/528",
+      "level": 2,
+      "parent": "H01M50/50",
+      "ja": "固定接続，すなわち，切り離す意図のないもの［２０２１．０１］",
+      "en": "Fixed electrical connections, i.e. not intended for disconnection",
+      "count": 12364,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/529": {
+      "code": "H01M50/529",
+      "level": 3,
+      "parent": "H01M50/528",
+      "ja": "隔壁を通したセル間接続，例．電池ケースの中［２０２１．０１］",
+      "en": "Intercell connections through partitions, e.g. in a battery casing",
+      "count": 2052,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/531": {
+      "code": "H01M50/531",
+      "level": 2,
+      "parent": "H01M50/50",
+      "ja": "電池ケース内部の電極接続［２０２１．０１］",
+      "en": "Electrode connections inside a battery casing",
+      "count": 14563,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/533": {
+      "code": "H01M50/533",
+      "level": 3,
+      "parent": "H01M50/531",
+      "ja": "リードやタブの形状に特徴があるもの［２０２１．０１］",
+      "en": "characterised by the shape of the leads or tabs",
+      "count": 8134,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/534": {
+      "code": "H01M50/534",
+      "level": 3,
+      "parent": "H01M50/531",
+      "ja": "リードやタブの材料に特徴があるもの［２０２１．０１］",
+      "en": "characterised by the material of the leads or tabs",
+      "count": 2540,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/536": {
+      "code": "H01M50/536",
+      "level": 3,
+      "parent": "H01M50/531",
+      "ja": "電極にリードを固定する工程に特徴があるもの，例．溶接によるもの［２０２１．０１］",
+      "en": "characterised by the method of fixing the leads to the electrodes, e.g. by welding",
+      "count": 7501,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/538": {
+      "code": "H01M50/538",
+      "level": 3,
+      "parent": "H01M50/531",
+      "ja": "巻回または折り畳まれた電極における複数のリードやタブの接続［２０２１．０１］",
+      "en": "Connection of several leads or tabs of wound or folded electrode stacks",
+      "count": 3521,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/54": {
+      "code": "H01M50/54",
+      "level": 3,
+      "parent": "H01M50/531",
+      "ja": "板状電極積層体における複数のリードやタブの接続，例．電極ストラップまたはブリッジ［２０２１．０１］",
+      "en": "Connection of several leads or tabs of plate-like electrode stacks, e.g. electrode pole straps or bridges",
+      "count": 2372,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/541": {
+      "code": "H01M50/541",
+      "level": 4,
+      "parent": "H01M50/54",
+      "ja": "鉛蓄電池のためのもの［２０２１．０１］",
+      "en": "for lead-acid accumulators",
+      "count": 2144,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/543": {
+      "code": "H01M50/543",
+      "level": 2,
+      "parent": "H01M50/50",
+      "ja": "端子［２０２１．０１］",
+      "en": "Terminals",
+      "count": 5879,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/545": {
+      "code": "H01M50/545",
+      "level": 3,
+      "parent": "H01M50/543",
+      "ja": "電池セルのケースで形成されたもの（曲断面を有する電池セルに適したカップ状端子Ｈ０１Ｍ５０／５６）［２０２１．０１］",
+      "en": "formed by the casing of the cells(cup shaped terminals adapted for cells having curved cross-section <b>H01M50/56</b>)",
+      "count": 1219,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/547": {
+      "code": "H01M50/547",
+      "level": 3,
+      "parent": "H01M50/543",
+      "ja": "電池セルにおける端子の配置［２０２１．０１］",
+      "en": "characterised by the disposition of the terminals on the cells",
+      "count": 1732,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/548": {
+      "code": "H01M50/548",
+      "level": 4,
+      "parent": "H01M50/547",
+      "ja": "電池セルの対向する側面にある［２０２１．０１］",
+      "en": "on opposite sides of the cell",
+      "count": 2833,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/55": {
+      "code": "H01M50/55",
+      "level": 4,
+      "parent": "H01M50/547",
+      "ja": "電池セルの同一面にある［２０２１．０１］",
+      "en": "on the same side of the cell",
+      "count": 5904,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/552": {
+      "code": "H01M50/552",
+      "level": 3,
+      "parent": "H01M50/543",
+      "ja": "形状に特徴があるもの［２０２１．０１］",
+      "en": "characterised by their shape",
+      "count": 1965,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/553": {
+      "code": "H01M50/553",
+      "level": 4,
+      "parent": "H01M50/552",
+      "ja": "角柱形，角形またはパウチ電池セルに適した端子［２０２１．０１］",
+      "en": "Terminals adapted for prismatic, pouch or rectangular cells",
+      "count": 5726,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/555": {
+      "code": "H01M50/555",
+      "level": 5,
+      "parent": "H01M50/553",
+      "ja": "窓形の端子［２０２１．０１］",
+      "en": "Window-shaped terminals",
+      "count": 175,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/557": {
+      "code": "H01M50/557",
+      "level": 5,
+      "parent": "H01M50/553",
+      "ja": "板状の端子［２０２１．０１］",
+      "en": "Plate-shaped terminals",
+      "count": 1999,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/559": {
+      "code": "H01M50/559",
+      "level": 4,
+      "parent": "H01M50/552",
+      "ja": "曲断面，例．円形，楕円形またはボタン形，を有する電池セルに適した端子（Ｈ０１Ｍ５０／５５３が優先）［２０２１．０１］",
+      "en": "Terminals adapted for cells having curved cross-section, e.g. round, elliptic or button cells(<b>H01M50/553</b> takes precedence)",
+      "count": 2249,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/56": {
+      "code": "H01M50/56",
+      "level": 5,
+      "parent": "H01M50/559",
+      "ja": "カップ状の端子［２０２１．０１］",
+      "en": "Cup shaped terminals",
+      "count": 345,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/562": {
+      "code": "H01M50/562",
+      "level": 3,
+      "parent": "H01M50/543",
+      "ja": "材料に特徴があるもの［２０２１．０１］",
+      "en": "characterised by the material",
+      "count": 2489,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/564": {
+      "code": "H01M50/564",
+      "level": 3,
+      "parent": "H01M50/543",
+      "ja": "製造工程に特徴があるもの［２０２１．０１］",
+      "en": "characterised by their manufacturing process",
+      "count": 993,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/566": {
+      "code": "H01M50/566",
+      "level": 4,
+      "parent": "H01M50/564",
+      "ja": "溶接，はんだ付けまたはろう付けによるもの［２０２１．０１］",
+      "en": "by welding, soldering or brazing",
+      "count": 2604,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/567": {
+      "code": "H01M50/567",
+      "level": 4,
+      "parent": "H01M50/564",
+      "ja": "固定手段によるもの，例．ねじ，リベットまたはボルト［２０２１．０１］",
+      "en": "by fixing means, e.g. screws, rivets or bolts",
+      "count": 2044,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/569": {
+      "code": "H01M50/569",
+      "level": 2,
+      "parent": "H01M50/50",
+      "ja": "電池内部の状態を検知するための導電接続の構造の細部，例．電圧検出端子の構造の細部（測定装置と一体化されたバッテリーターミナルコネクタＧ０１Ｒ３１／３６４）［２０２１．０１］",
+      "en": "Constructional details of current conducting connections for detecting conditions inside cells or batteries, e.g. details of voltage sensing terminals(battery terminal connectors with integrated measuring arrangements <b>G01R31/364</b>)",
+      "count": 5597,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/571": {
+      "code": "H01M50/571",
+      "level": 2,
+      "parent": "H01M50/50",
+      "ja": "腐食に対する保護を与えるための方法または装置；そのための材料の選択［２０２１．０１］",
+      "en": "Methods or arrangements for affording protection against corrosion; Selection of materials therefor",
+      "count": 1877,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/572": {
+      "code": "H01M50/572",
+      "level": 2,
+      "parent": "H01M50/50",
+      "ja": "誤用または誤放電を防止する手段［２０２１．０１］",
+      "en": "Means for preventing undesired use or discharge",
+      "count": 4068,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/574": {
+      "code": "H01M50/574",
+      "level": 3,
+      "parent": "H01M50/572",
+      "ja": "電流遮断のためのデバイスまたは装置［２０２１．０１］",
+      "en": "Devices or arrangements for the interruption of current",
+      "count": 2785,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/576": {
+      "code": "H01M50/576",
+      "level": 4,
+      "parent": "H01M50/574",
+      "ja": "盗難防止のためのもの［２０２１．０１］",
+      "en": "in response to theft",
+      "count": 70,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/578": {
+      "code": "H01M50/578",
+      "level": 4,
+      "parent": "H01M50/574",
+      "ja": "圧力に応答するもの［２０２１．０１］",
+      "en": "in response to pressure",
+      "count": 1018,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/579": {
+      "code": "H01M50/579",
+      "level": 4,
+      "parent": "H01M50/574",
+      "ja": "衝撃に応答するもの［２０２１．０１］",
+      "en": "in response to shock",
+      "count": 169,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/581": {
+      "code": "H01M50/581",
+      "level": 4,
+      "parent": "H01M50/574",
+      "ja": "温度に応答するもの［２０２１．０１］",
+      "en": "in response to temperature",
+      "count": 1868,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/583": {
+      "code": "H01M50/583",
+      "level": 4,
+      "parent": "H01M50/574",
+      "ja": "電流に応答するもの，例．ヒューズ［２０２１．０１］",
+      "en": "in response to current, e.g. fuses",
+      "count": 3470,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/584": {
+      "code": "H01M50/584",
+      "level": 3,
+      "parent": "H01M50/572",
+      "ja": "電池内外での誤接触を防止するもの［２０２１．０１］",
+      "en": "for preventing incorrect connections inside or outside the batteries",
+      "count": 430,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/586": {
+      "code": "H01M50/586",
+      "level": 4,
+      "parent": "H01M50/584",
+      "ja": "電池の内部，例．電極の誤接触［２０２１．０１］",
+      "en": "inside the batteries, e.g. incorrect connections of electrodes",
+      "count": 4530,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/588": {
+      "code": "H01M50/588",
+      "level": 4,
+      "parent": "H01M50/584",
+      "ja": "電池の外部，例．端子またはバスバーの誤接触［２０２１．０１］",
+      "en": "outside the batteries, e.g. incorrect connections of terminals or busbars",
+      "count": 3579,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/59": {
+      "code": "H01M50/59",
+      "level": 4,
+      "parent": "H01M50/584",
+      "ja": "保護手段に特徴があるもの［２０２１．０１］",
+      "en": "characterised by the protection means",
+      "count": 2981,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/591": {
+      "code": "H01M50/591",
+      "level": 5,
+      "parent": "H01M50/59",
+      "ja": "カバー［２０２１．０１］",
+      "en": "Covers",
+      "count": 1680,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/593": {
+      "code": "H01M50/593",
+      "level": 5,
+      "parent": "H01M50/59",
+      "ja": "スペーサ；絶縁板［２０２１．０１］",
+      "en": "Spacers; Insulating plates",
+      "count": 8046,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/595": {
+      "code": "H01M50/595",
+      "level": 5,
+      "parent": "H01M50/59",
+      "ja": "テープ［２０２１．０１］",
+      "en": "Tapes",
+      "count": 720,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/597": {
+      "code": "H01M50/597",
+      "level": 5,
+      "parent": "H01M50/59",
+      "ja": "極性反転を防ぐためのもの［２０２１．０１］",
+      "en": "Protection against reversal of polarity",
+      "count": 605,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/598": {
+      "code": "H01M50/598",
+      "level": 3,
+      "parent": "H01M50/572",
+      "ja": "保証ラベル［２０２１．０１］",
+      "en": "Guarantee labels",
+      "count": 103,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/60": {
+      "code": "H01M50/60",
+      "level": 1,
+      "parent": "H01M50/00",
+      "ja": "注液，補液のための装置または方法；ケースからの排液のための装置または方法［２０２１．０１］",
+      "en": "Arrangements or processes for filling or topping-up with liquids; Arrangements or processes for draining liquids from casings",
+      "count": 1222,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/609": {
+      "code": "H01M50/609",
+      "level": 2,
+      "parent": "H01M50/60",
+      "ja": "液体を注入するための装置または方法，例．電解液［２０２１．０１］",
+      "en": "Arrangements or processes for filling with liquid, e.g. electrolytes",
+      "count": 6074,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/618": {
+      "code": "H01M50/618",
+      "level": 3,
+      "parent": "H01M50/609",
+      "ja": "圧力制御［２０２１．０１］",
+      "en": "Pressure control",
+      "count": 1055,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/627": {
+      "code": "H01M50/627",
+      "level": 3,
+      "parent": "H01M50/609",
+      "ja": "注液口［２０２１．０１］",
+      "en": "Filling ports",
+      "count": 3748,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/636": {
+      "code": "H01M50/636",
+      "level": 4,
+      "parent": "H01M50/627",
+      "ja": "注液口の密閉または封止，例．蓋の使用［２０２１．０１］",
+      "en": "Closing or sealing filling ports, e.g. using lids",
+      "count": 2359,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/645": {
+      "code": "H01M50/645",
+      "level": 5,
+      "parent": "H01M50/636",
+      "ja": "栓状のもの［２０２１．０１］",
+      "en": "Plugs",
+      "count": 1181,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/655": {
+      "code": "H01M50/655",
+      "level": 6,
+      "parent": "H01M50/645",
+      "ja": "排気に特に適したもの［２０２１．０１］",
+      "en": "specially adapted for venting",
+      "count": 299,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/664": {
+      "code": "H01M50/664",
+      "level": 5,
+      "parent": "H01M50/636",
+      "ja": "仮封止，例．即用式電池または海水電池の保存のためのもの［２０２１．０１］",
+      "en": "Temporary seals, e.g. for storage of instant batteries or seawater batteries",
+      "count": 178,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/673": {
+      "code": "H01M50/673",
+      "level": 2,
+      "parent": "H01M50/60",
+      "ja": "液体貯蔵のための容器；導出管［２０２１．０１］",
+      "en": "Containers for storing liquids; Delivery conduits therefor",
+      "count": 1560,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/682": {
+      "code": "H01M50/682",
+      "level": 3,
+      "parent": "H01M50/673",
+      "ja": "電池ケース内に収納するもの［２０２１．０１］",
+      "en": "accommodated in battery or cell casings",
+      "count": 917,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/691": {
+      "code": "H01M50/691",
+      "level": 2,
+      "parent": "H01M50/60",
+      "ja": "ケースからの排液のための装置または方法；電池ケースの洗浄［２０２１．０１］",
+      "en": "Arrangements or processes for draining liquids from casings; Cleaning battery or cell casings",
+      "count": 1332,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/70": {
+      "code": "H01M50/70",
+      "level": 1,
+      "parent": "H01M50/00",
+      "ja": "電解液を攪拌または循環させるための装置［２０２１．０１］",
+      "en": "Arrangements for stirring or circulating the electrolyte",
+      "count": 245,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/73": {
+      "code": "H01M50/73",
+      "level": 2,
+      "parent": "H01M50/70",
+      "ja": "電解液上または電解液内でガスの動作による電解液の攪拌［２０２１．０１］",
+      "en": "Electrolyte stirring by the action of gas on or in the electrolyte",
+      "count": 34,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    },
+    "H01M50/77": {
+      "code": "H01M50/77",
+      "level": 2,
+      "parent": "H01M50/70",
+      "ja": "外部循環経路をもつもの［２０２１．０１］",
+      "en": "with external circulating path",
+      "count": 1101,
+      "sourceFile": "ipc_H01M.txt",
+      "kind": "ipc"
+    }
+  }
+};

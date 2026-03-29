@@ -1,0 +1,1336 @@
+window.IPC_SHARD_G09F = {
+  "generatedAt": "2026-03-20T02:17:47.119Z",
+  "total": 133,
+  "entries": {
+    "G09F": {
+      "code": "G09F",
+      "level": 0,
+      "parent": "G09",
+      "ja": "表示；広告；サイン；ラベルまたはネームプレート；シール<br><br><b><ul>注</ul></b><br>（１）このサブクラスにおいては，下記の用語は以下に示す意味で用いる：<br>―“サイン”とは何かを認識させるように働くマークまたは指示器であり，たとえ情報が閃光しているとしても，変化しないものであれば含まれる；従って，例として，広告掲示板または発光，光反射危険防止装置を包含する。［３］<br>（２）“マイクロ構造の装置”および“マイクロ構造のシステム”に関する，クラスＢ８１およびサブクラスＢ８１Ｂの両タイトルの後ろの注に注意すること。［７］<br><br><b><ul>サブクラス内の索引</ul></b><br>案内および広告<br>見本表示　５／００<br>不変情報を有するもの：<br>展示カード；ラベルまたはタッグ；サイン，プレート，文字　１／００；３／００；７／００<br>可変情報を有するもの：<br>要素の組合せによるもの；完全な情報の移動によるもの　９／００；１１／００<br>照明サイン；照明広告　１３／００<br>ビラ貼りおよび広告のための支持体：パネル；のぼり；商品；その他　１５／００；１７／００；２３／００；１９／００<br>広告方法<br>可動；聴覚；視聴覚；その他　２１／００；２５／００；２７／００；１９／００",
+      "en": "DISPLAYING; ADVERTISING; SIGNS; LABELS OR NAME-PLATES; SEALS; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this subclass, the following term is used with the meaning indicated:<ul><li>\"sign\" designates a mark or indication serving to make something recognisable, the information presented being non-varying, even if it is flashing; by way of example it covers, therefore, advertising hoardings, or luminous, or light reflecting, safety arrangements. </li></ul></li><li>Attention is drawn to the Notes following the titles of class <b>B81</b> and subclass <b>B81B</b> relating to \"microstructural devices\" and \"microstructural systems\".</li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">INFORMATION AND ADVERTISING<tr><td width=\"70%\">Displaying samples </td><td><b><b>5/00</b></b></td></tr></tr><tr><td width=\"70%\">With fixed information:<tr><td width=\"70%\">show-cards; labels or tags; signs, plates, characters </td><td><b><b>1/00</b>; <b>3/00</b>; <b>7/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">With variable information:<tr><td width=\"70%\">by combination of elements; by movement of complete information </td><td><b><b>9/00</b>; <b>11/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">Illuminated signs; luminous advertising </td><td><b><b>13/00</b></b></td></tr></tr><tr><td width=\"70%\">Supports used for bill-posting and advertising: panels; banners; goods; others </td><td><b><b>15/00</b>; <b>17/00</b>; <b>23/00</b>; <b>19/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">PROCESSES OF ADVERTISING<tr><td width=\"70%\">Movable; audible; audio-visual; others </td><td><b><b>21/00</b>; <b>25/00</b>; <b>27/00</b>; <b>19/00</b></b></td></tr></tr></tr></table>",
+      "count": 5367,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G09": {
+      "code": "G09",
+      "level": 0,
+      "parent": "G",
+      "ja": "教育；暗号方法；表示；広告；シール",
+      "en": "EDUCATING; CRYPTOGRAPHY; DISPLAY; ADVERTISING; SEALS",
+      "count": 0,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G": {
+      "code": "G",
+      "level": 0,
+      "parent": null,
+      "ja": "物理学<br><br><b><ul>注</ul></b><br>１．このセクションにおいては，下記の用語は以下に示す意味で用いる：<br>・“変量”は名詞として，特定の実在物，例．物体，ある量の物質，光ビーム，に関し特定の瞬間に測定することの可能な特性又は特質，例．寸法，温度等の物理的状態，密度又は色等の性質，を意味する。変量が変化すると，その数値的表現は異なる時点で，異なる状態又は個々の状況において異なる値をとることもあり，また，ある状態のもとで又は実用上特定の実在物に関して一定でありうる，例．バーの長さが多くの目的のために一定とみなされる，こともある。<br>２．使用される用語または表現の定義に注意すること。このセクションのいくつかのクラスの注に使用されているものについて，特にクラスＧ０１の“測定”を参照されたい．ＩＰＣ指針パラグラフ１８７の中にあるものについて，“制御”及び“調整”の定義に参照されたい。<br>３．このセクションにおける分類は他のセクションにおいてよりもめんどうな場合があり得る，というのは，その一つは，いろいろな使用分野の差異の判別には構造上の差異又は使用形態上の差異よりも寧ろ使用者の意図における差異の方にかなりの程度影響されてしまうからであり，もう一つは，扱う主題が容易に全体として識別できる“もの”であるよりも，特性又は部品が他の主題のものと共通のものを有しているシステム又は組合わせであることが実際上多いからである。例えば，情報（例．一連の数値）をディスプレイするのは，クラスＧ０９に包含される，教育又は広告のため，クラスＧ０１に包含される，測定の結果が通知されうるため，クラスＧ０８に包含される，遠隔地点に情報を合図するため，又は遠隔地点から合図された情報を提供するためである。目的を記述するために使用する言葉は，当該装置の形態に無関係なこともあり得る特性－例えば，ディスプレイを見る者にとって望ましい効果とか，ディスプレイが遠隔地点から制御されるかどうかという特性－によって決定される。さらに，ある状態，例えば流体圧の変化に応答する装置は，その装置そのものには変更を加えずして，サブクラスＧ０１Ｌに包含される圧力又はＧ０１の他のサブクラスに包含される圧力に関連した他の何らかの状態，例．温度に関してＧ０１Ｋ，についての情報を与えるため，サブクラスＧ０７Ｃに包含される圧力または圧力発生の記録をするため，サブクラスＧ０８Ｂに包含される警報を発するため，又はクラスＧ０５に包含される他の何らかの装置を制御するために用いられることがある。<br>　本分類表は，前述したように，同一の性質のものは同一箇所に分類し得るようにしたものである。従って，技術主題が適切箇所に分類されるためには予めその真正な本質を把握することが特に必要である。",
+      "en": "PHYSICS; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this section, the following term is used with the meaning indicated: <ul><li>\"variable\" as a noun means a feature or property, e.g. a dimension, a physical condition such as temperature, a quality such as density or colour, which, in respect of a particular entity, e.g. an object, a quantity of a substance, a beam of light, and at a particular instant, is capable of being measured; the variable may change, so that its numerical expression may assume different values at different times, in different conditions or in individual cases, but may be constant in respect of a particular entity in certain conditions or for practical purposes, e.g. the length of a bar may be regarded as constant for many purposes.</li></ul></li><li>Attention is drawn to the definitions of terms or expressions used. Some appear in the notes of several of the classes in this section, see in particular the definition of \"measuring\" in class <b>G01</b>. Others appear in paragraph 187 of the Guide to the IPC, see in particular the definitions of \"control\" and \"regulation\".</li><li>Classification in this section may present more difficulty than in other sections, because the distinction between different fields of use rests to a considerable extent on differences in the intention of the user rather than on any constructional differences or differences in the manner of use, and because the subjects dealt with are often in effect systems or combinations, which have features or parts in common, rather than \"things\", which are readily distinguishable as a whole. For example, information, e.g. a set of figures, may be displayed for the purpose of education or advertising covered by class <b>G09</b>, for enabling the result of a measurement to be known covered by class <b>G01</b>, for signalling the information to a distant point or for giving information which has been signalled from a distant point covered by class <b>G08</b>. The words used to describe the purpose depend on features that may be irrelevant to the form of the apparatus concerned, for example, such features as the desired effect on the person who sees the display, or whether the display is controlled from a remote point. Again, a device which responds to some change in a condition, e.g. in the pressure of a fluid, may be used, without modification of the device itself, to give information about the pressure covered by subclass <b>G01L</b> or about some other condition linked to the pressure covered by another subclass of class <b>G01</b>, e.g. <b>G01K</b> for temperature, to make a record of the pressure or of its occurrence covered by subclass <b>G07C</b>, to give an alarm covered by subclass <b>G08B</b>, or to control another apparatus covered by class <b>G05</b>. <ul><li>The classification scheme is intended to enable things of a similar nature, as indicated above, to be classified together. It is therefore particularly necessary for the real nature of any technical subject to be decided before it can be properly classified.</li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G09F1/00": {
+      "code": "G09F1/00",
+      "level": 0,
+      "parent": "G09F",
+      "ja": "折畳み可能または可撓性の材料からなる板紙またはその類似物からなる展示カード",
+      "en": "Cardboard or like show-cards of foldable or flexible material",
+      "count": 1499,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F1/02": {
+      "code": "G09F1/02",
+      "level": 1,
+      "parent": "G09F1/00",
+      "ja": "一枚の実質的に平らなカード",
+      "en": "Single substantially-flat cards",
+      "count": 1405,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F1/04": {
+      "code": "G09F1/04",
+      "level": 1,
+      "parent": "G09F1/00",
+      "ja": "折畳んだカード",
+      "en": "Folded cards",
+      "count": 1175,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F1/06": {
+      "code": "G09F1/06",
+      "level": 2,
+      "parent": "G09F1/04",
+      "ja": "立体的に立上るもの（Ｇ０９Ｆ１／０８が優先）［２００６．０１］",
+      "en": "to be erected in three dimensions [3D](<b>G09F1/08</b> takes precedence)",
+      "count": 1745,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F1/08": {
+      "code": "G09F1/08",
+      "level": 1,
+      "parent": "G09F1/00",
+      "ja": "ある物の，例．広告するもの，全部あるいは一部の形を形取ったもの",
+      "en": "wholly or partly imitating the form of an object, e.g. of the article to be advertised",
+      "count": 1739,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F1/10": {
+      "code": "G09F1/10",
+      "level": 1,
+      "parent": "G09F1/00",
+      "ja": "展示カードの支持具または保持具",
+      "en": "Supports or holders for show-cards",
+      "count": 4386,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F1/12": {
+      "code": "G09F1/12",
+      "level": 2,
+      "parent": "G09F1/10",
+      "ja": "そのための囲い枠",
+      "en": "Frames therefor",
+      "count": 1630,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F1/14": {
+      "code": "G09F1/14",
+      "level": 2,
+      "parent": "G09F1/10",
+      "ja": "脚型のもの  ［２００６．０１］",
+      "en": "in the form of legs",
+      "count": 747,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F3/00": {
+      "code": "G09F3/00",
+      "level": 0,
+      "parent": "G09F",
+      "ja": "ラベル，タッグチケット，またはこれらに類する認識もしくは指示手段；シール；切手またはそれに類するスタンプ",
+      "en": "Labels, tag tickets, or similar identification or indication means; Seals; Postage or like stamps",
+      "count": 16619,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F3/02": {
+      "code": "G09F3/02",
+      "level": 1,
+      "parent": "G09F3/00",
+      "ja": "形状または構造  ［２００６．０１］",
+      "en": "Forms or constructions",
+      "count": 31966,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F3/03": {
+      "code": "G09F3/03",
+      "level": 2,
+      "parent": "G09F3/02",
+      "ja": "封かんの  ［２００６．０１］",
+      "en": "of security seals",
+      "count": 7771,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F3/04": {
+      "code": "G09F3/04",
+      "level": 1,
+      "parent": "G09F3/00",
+      "ja": "ラベル自体の材料で取付けまたは固着されるもの，例．熱着によるもの（接着層によるものＧ０９Ｆ３／１０）  ［２００６．０１］",
+      "en": "to be fastened or secured by the material of the label itself, e.g. by thermo-adhesion(by a separate adhesive layer <b>G09F3/10</b>)",
+      "count": 4327,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F3/06": {
+      "code": "G09F3/06",
+      "level": 2,
+      "parent": "G09F3/04",
+      "ja": "締着によるもの（別体の締着具によるものＧ０９Ｆ３／１６）  ［２００６．０１］",
+      "en": "by clamping action(by separate clamps <b>G09F3/16</b>)",
+      "count": 1005,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F3/08": {
+      "code": "G09F3/08",
+      "level": 1,
+      "parent": "G09F3/00",
+      "ja": "ラベル自体の材料を用いないで取付けまたは固着するもの  ［２００６．０１］",
+      "en": "Fastening or securing by means not forming part of the material of the label itself",
+      "count": 1845,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F3/10": {
+      "code": "G09F3/10",
+      "level": 2,
+      "parent": "G09F3/08",
+      "ja": "粘着層によるもの  ［２００６．０１］",
+      "en": "by an adhesive layer",
+      "count": 14290,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F3/12": {
+      "code": "G09F3/12",
+      "level": 2,
+      "parent": "G09F3/08",
+      "ja": "ピン，止め金，または同様のものによるもの  ［２００６．０１］",
+      "en": "by pins, staples, or the like",
+      "count": 1291,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F3/14": {
+      "code": "G09F3/14",
+      "level": 2,
+      "parent": "G09F3/08",
+      "ja": "糸，紐，チェーン，またはワイヤーによるもの  ［２００６．０１］",
+      "en": "by strings, straps, chains, or wires",
+      "count": 3160,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F3/16": {
+      "code": "G09F3/16",
+      "level": 2,
+      "parent": "G09F3/08",
+      "ja": "締着具によるもの  ［２００６．０１］",
+      "en": "by clamps",
+      "count": 1196,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F3/18": {
+      "code": "G09F3/18",
+      "level": 2,
+      "parent": "G09F3/08",
+      "ja": "ラベル用ケース，囲い枠，または被包体  ［２００６．０１］",
+      "en": "Casings, frames, or enclosures for labels",
+      "count": 3686,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F3/20": {
+      "code": "G09F3/20",
+      "level": 3,
+      "parent": "G09F3/18",
+      "ja": "調整，移動，または交換可能なラベル用のもの  ［２００６．０１］",
+      "en": "for adjustable, removable, or interchangeable labels",
+      "count": 5903,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F5/00": {
+      "code": "G09F5/00",
+      "level": 0,
+      "parent": "G09F",
+      "ja": "見本表示手段",
+      "en": "Means for displaying samples",
+      "count": 2985,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F5/02": {
+      "code": "G09F5/02",
+      "level": 1,
+      "parent": "G09F5/00",
+      "ja": "可搬式見本ケース",
+      "en": "Portable sample cases",
+      "count": 608,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F5/04": {
+      "code": "G09F5/04",
+      "level": 1,
+      "parent": "G09F5/00",
+      "ja": "見本カード；見本の本",
+      "en": "Cards of samples; Books of samples",
+      "count": 2527,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F7/00": {
+      "code": "G09F7/00",
+      "level": 0,
+      "parent": "G09F",
+      "ja": "サイン，表札または番号プレート，文字，数字，または記号板；パネルまたはボード（展示カードＧ０９Ｆ１／００；可変情報のための指示装置Ｇ０９Ｆ９／００，Ｇ０９Ｆ１１／００；照明サインＧ０９Ｆ１３／００，告知またはポスター用のボードＧ０９Ｆ１５／００）",
+      "en": "Signs, name or number plates, letters, numerals, or symbols; Panels or boards(show-cards <b>G09F1/00</b>; indicating arrangements for variable information <b>G09F9/00</b>, <b>G09F11/00</b>; illuminated signs <b>G09F13/00</b>; boards for notices or posters <b>G09F15/00</b>)",
+      "count": 16178,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F7/02": {
+      "code": "G09F7/02",
+      "level": 1,
+      "parent": "G09F7/00",
+      "ja": "記号を担持し，または記号を形成するところの容易に取りはずしのできる要素を用いたサイン，プレート，パネルまたはボード［２００６．０１］",
+      "en": "Signs, plates, panels, or boards using readily-detachable elements bearing or forming symbols",
+      "count": 4956,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F7/04": {
+      "code": "G09F7/04",
+      "level": 2,
+      "parent": "G09F7/02",
+      "ja": "要素が磁力により固着または固着可能に適合されたもの  ［２００６．０１］",
+      "en": "the elements being secured or adapted to be secured by magnetic means",
+      "count": 2602,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F7/06": {
+      "code": "G09F7/06",
+      "level": 2,
+      "parent": "G09F7/02",
+      "ja": "要素がピンの差込みにより固着または固着可能に適合されているもの  ［２００６．０１］",
+      "en": "the elements being secured or adapted to be secured by means of pins and holes",
+      "count": 1451,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F7/08": {
+      "code": "G09F7/08",
+      "level": 2,
+      "parent": "G09F7/02",
+      "ja": "要素が溝，レール，またはスリットにより固着または固着可能に適合されたもの  ［２００６．０１］",
+      "en": "the elements being secured or adapted to be secured by means of grooves, rails, or slits",
+      "count": 3725,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F7/10": {
+      "code": "G09F7/10",
+      "level": 3,
+      "parent": "G09F7/08",
+      "ja": "かつ摺動自在に取り付けるようにしたもの  ［２００６．０１］",
+      "en": "and slidably mounted",
+      "count": 1807,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F7/12": {
+      "code": "G09F7/12",
+      "level": 2,
+      "parent": "G09F7/02",
+      "ja": "要素が自己粘着性，湿気，吸引，遅乾接着性またはこれらと同様のものによって固着または固着可能に適合されているもの  ［２００６．０１］",
+      "en": "the elements being secured or adapted to be secured by self-adhesion, moisture, suction, slow-drying adhesive, or the like",
+      "count": 1716,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F7/14": {
+      "code": "G09F7/14",
+      "level": 2,
+      "parent": "G09F7/02",
+      "ja": "記号担持または記号形成要素の構造上の特徴  ［２００６．０１］",
+      "en": "Constructional features of the symbol-bearing or -forming elements",
+      "count": 1285,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F7/16": {
+      "code": "G09F7/16",
+      "level": 1,
+      "parent": "G09F7/00",
+      "ja": "支持具に永久に固着させた文字，数字，または他の記号  ［２００６．０１］",
+      "en": "Letters, numerals, or other symbols, adapted for permanent fixing to a support",
+      "count": 3354,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F7/18": {
+      "code": "G09F7/18",
+      "level": 1,
+      "parent": "G09F7/00",
+      "ja": "支持用構造物にサイン，プレート，パネルまたはボードを取り付ける手段  ［２００６．０１］",
+      "en": "Means for attaching signs, plates, panels, or boards to a supporting structure",
+      "count": 22687,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F7/20": {
+      "code": "G09F7/20",
+      "level": 2,
+      "parent": "G09F7/18",
+      "ja": "調整可能に取り付けるためのもの  ［２００６．０１］",
+      "en": "for adjustably mounting",
+      "count": 5790,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F7/22": {
+      "code": "G09F7/22",
+      "level": 2,
+      "parent": "G09F7/18",
+      "ja": "回転または揺動自在に取り付けるためのもの，例．風により回転できるようにされたボードのためのもの  ［２００６．０１］",
+      "en": "for rotatably or swingably mounting, e.g. for boards adapted to be rotated by the wind",
+      "count": 4424,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F9/00": {
+      "code": "G09F9/00",
+      "level": 0,
+      "parent": "G09F",
+      "ja": "情報が個々の要素の選択または組合せによって支持体上に形成される可変情報用の指示装置（そこで，可変情報が可動支持に永久に取り付けられるものＧ０９Ｆ１１／００）",
+      "en": "Indicating arrangements for variable information in which the information is built-up on a support by selection or combination of individual elements(in which the variable information is permanently attached to a movable support <b>G09F11/00</b>)",
+      "count": 117167,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F9/30": {
+      "code": "G09F9/30",
+      "level": 1,
+      "parent": "G09F9/00",
+      "ja": "必要な文字が個々の要素を組み合わせることによって形成されるもの<br><br><b><ul>注</ul></b><br>グループＧ０９Ｆ９／３０２はグループＧ０９Ｆ９／３０５からＧ０９Ｆ９／３７に優先する［２０１２．０１］",
+      "en": "in which the desired character or characters are formed by combining individual elements",
+      "count": 97443,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F9/302": {
+      "code": "G09F9/302",
+      "level": 2,
+      "parent": "G09F9/30",
+      "ja": "個々の要素の形状や幾何学的な配置に特徴があるもの［７］",
+      "en": "characterised by the form or geometrical disposition of the individual elements",
+      "count": 12205,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F9/305": {
+      "code": "G09F9/305",
+      "level": 2,
+      "parent": "G09F9/30",
+      "ja": "（個々の要素が）光ファイバーの端であるもの（Ｇ０９Ｆ９／３０２が優先）［７］",
+      "en": "being the ends of optical fibres(<b>G09F9/302</b> takes precedence)",
+      "count": 956,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F9/307": {
+      "code": "G09F9/307",
+      "level": 2,
+      "parent": "G09F9/30",
+      "ja": "（個々の要素が）白熱フィラメントであるもの［３，７］",
+      "en": "being incandescent filaments",
+      "count": 840,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F9/313": {
+      "code": "G09F9/313",
+      "level": 2,
+      "parent": "G09F9/30",
+      "ja": "（個々の要素が）ガス放電装置であるもの［３，７］",
+      "en": "being gas discharge devices",
+      "count": 3567,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F9/33": {
+      "code": "G09F9/33",
+      "level": 2,
+      "parent": "G09F9/30",
+      "ja": "（個々の要素が）半導体装置であるもの，例．ダイオード［３，７］",
+      "en": "being semiconductor devices, e.g. diodes",
+      "count": 63352,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F9/35": {
+      "code": "G09F9/35",
+      "level": 2,
+      "parent": "G09F9/30",
+      "ja": "（個々の要素が）液晶であるもの［３，７］",
+      "en": "being liquid crystals",
+      "count": 27715,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F9/37": {
+      "code": "G09F9/37",
+      "level": 2,
+      "parent": "G09F9/30",
+      "ja": "（個々の要素が）移動要素であるもの［３，７］",
+      "en": "being movable elements",
+      "count": 7229,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F9/40": {
+      "code": "G09F9/40",
+      "level": 1,
+      "parent": "G09F9/00",
+      "ja": "必要な文字が，ならんで配置された多数の文字から選択されるもの，例．多数文字が共通の担体板上にあるもの",
+      "en": "in which the desired character is selected from a number of characters arranged one beside the other, e.g. on a common carrier plate",
+      "count": 4412,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F9/46": {
+      "code": "G09F9/46",
+      "level": 1,
+      "parent": "G09F9/00",
+      "ja": "必要な文字が，かさねて配置された多数の文字から選択されるもの",
+      "en": "in which the desired character is selected from a number of characters arranged one behind the other",
+      "count": 1992,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F11/00": {
+      "code": "G09F11/00",
+      "level": 0,
+      "parent": "G09F",
+      "ja": "完全な情報がそれを表示位置に運ぶ可動支持体に恒久的に固着されている，可変情報のための指示装置",
+      "en": "Indicating arrangements for variable information in which the complete information is permanently attached to a movable support which brings it to the display position",
+      "count": 3892,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F11/02": {
+      "code": "G09F11/02",
+      "level": 1,
+      "parent": "G09F11/00",
+      "ja": "表示部が回転体，例．円筒，スピンドル，に固着されているもの",
+      "en": "the display elements being secured to rotating members, e.g. drums, spindles",
+      "count": 4710,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F11/04": {
+      "code": "G09F11/04",
+      "level": 2,
+      "parent": "G09F11/02",
+      "ja": "表示部が回転円盤に固着されているもの",
+      "en": "the elements being secured to rotating discs",
+      "count": 1001,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F11/06": {
+      "code": "G09F11/06",
+      "level": 2,
+      "parent": "G09F11/02",
+      "ja": "表示部がかたい板またはカードにあるもの（回転円盤上にあるものＧ０９Ｆ１１／０４）",
+      "en": "the elements being stiff plates or cards(on rotating discs <b>G09F11/04</b>)",
+      "count": 1100,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F11/08": {
+      "code": "G09F11/08",
+      "level": 2,
+      "parent": "G09F11/02",
+      "ja": "表示部が可撓性のシートであるもの（回転円盤にあるものＧ０９Ｆ１１／０４）",
+      "en": "the elements being flexible sheets(on rotating discs <b>G09F11/04</b>)",
+      "count": 577,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F11/10": {
+      "code": "G09F11/10",
+      "level": 2,
+      "parent": "G09F11/02",
+      "ja": "そのための電気的制御",
+      "en": "Electric control therefor",
+      "count": 2764,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F11/12": {
+      "code": "G09F11/12",
+      "level": 1,
+      "parent": "G09F11/00",
+      "ja": "表示部が無端のベルト，チェーン類により運ばれるもの",
+      "en": "the display elements being carried by endless belts, chains, or the like",
+      "count": 1264,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F11/14": {
+      "code": "G09F11/14",
+      "level": 2,
+      "parent": "G09F11/12",
+      "ja": "表示部が固い翼状体，板，カードまたはそれに類する形態になっているもの",
+      "en": "the elements being in the form of stiff flaps, boards, cards, or the like",
+      "count": 260,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F11/15": {
+      "code": "G09F11/15",
+      "level": 2,
+      "parent": "G09F11/12",
+      "ja": "表示部が可撓性のシートであるもの",
+      "en": "the elements being flexible sheets",
+      "count": 659,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F11/16": {
+      "code": "G09F11/16",
+      "level": 2,
+      "parent": "G09F11/12",
+      "ja": "そのための電気的制御",
+      "en": "Electric control therefor",
+      "count": 725,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F11/18": {
+      "code": "G09F11/18",
+      "level": 1,
+      "parent": "G09F11/00",
+      "ja": "表示部がエンドレスでないベルト，チェーンまたはこれに類するものにより運ばれるもの",
+      "en": "the display elements being carried by belts, chains, or the like, other than endless",
+      "count": 638,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F11/20": {
+      "code": "G09F11/20",
+      "level": 2,
+      "parent": "G09F11/18",
+      "ja": "表示部が固い翼状体，板，カードまたはそれに類する形になっているもの",
+      "en": "the elements being in the form of stiff flaps, boards, cards, or the like",
+      "count": 114,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F11/21": {
+      "code": "G09F11/21",
+      "level": 2,
+      "parent": "G09F11/18",
+      "ja": "表示部が可撓性のシートであるもの",
+      "en": "the elements being flexible sheets",
+      "count": 546,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F11/22": {
+      "code": "G09F11/22",
+      "level": 2,
+      "parent": "G09F11/18",
+      "ja": "そのための電気的制御",
+      "en": "Electric control therefor",
+      "count": 453,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F11/23": {
+      "code": "G09F11/23",
+      "level": 1,
+      "parent": "G09F11/00",
+      "ja": "回転部材の一部をなす広告または表示体，例．穿孔，印刷，または円筒，円盤上のすかしの形状のもの",
+      "en": "the advertising or display material forming part of rotating members, e.g. in the form of perforations, prints, or transparencies on a drum or disc",
+      "count": 3066,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F11/235": {
+      "code": "G09F11/235",
+      "level": 2,
+      "parent": "G09F11/23",
+      "ja": "そのための電気制御",
+      "en": "Electric control therefor",
+      "count": 229,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F11/24": {
+      "code": "G09F11/24",
+      "level": 1,
+      "parent": "G09F11/00",
+      "ja": "たとえば穿孔，印刷，すかしの形で移動するバンドの一部をなす広告または表示",
+      "en": "the advertising or display material forming part of a moving band, e.g. in the form of perforations, prints, or transparencies",
+      "count": 638,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F11/26": {
+      "code": "G09F11/26",
+      "level": 2,
+      "parent": "G09F11/24",
+      "ja": "無端帯のもの",
+      "en": "of an endless band",
+      "count": 1041,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F11/28": {
+      "code": "G09F11/28",
+      "level": 3,
+      "parent": "G09F11/26",
+      "ja": "そのための電気的制御",
+      "en": "Electric control therefor",
+      "count": 441,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F11/29": {
+      "code": "G09F11/29",
+      "level": 2,
+      "parent": "G09F11/24",
+      "ja": "エンドレス以外のバンドによるもの",
+      "en": "of a band other than endless",
+      "count": 1318,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F11/295": {
+      "code": "G09F11/295",
+      "level": 3,
+      "parent": "G09F11/29",
+      "ja": "そのための電気制御",
+      "en": "Electric control therefor",
+      "count": 671,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F11/30": {
+      "code": "G09F11/30",
+      "level": 1,
+      "parent": "G09F11/00",
+      "ja": "表示体が装填位置から表示位置まで一つ一つ給送されるもの",
+      "en": "the display elements being fed one by one from a storage place to a display position",
+      "count": 622,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F11/32": {
+      "code": "G09F11/32",
+      "level": 2,
+      "parent": "G09F11/30",
+      "ja": "ベルト，チェーン，例．無端のベルト，チェーン，から成っている給送手段",
+      "en": "the feeding means comprising belts or chains, e.g. endless belts or chains",
+      "count": 274,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F11/34": {
+      "code": "G09F11/34",
+      "level": 2,
+      "parent": "G09F11/30",
+      "ja": "電磁石からなる給送手段",
+      "en": "the feeding means comprising electromagnets",
+      "count": 409,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F13/00": {
+      "code": "G09F13/00",
+      "level": 0,
+      "parent": "G09F",
+      "ja": "照明サイン；照明広告（Ｇ０９Ｆ９／００，Ｇ０９Ｆ１１／００が優先；移動視覚広告Ｇ０９Ｆ２１／００）［２００６．０１］",
+      "en": "Illuminated signs; Luminous advertising(<b>G09F9/00</b>, <b>G09F11/00</b> take precedence; mobile visual advertising <b>G09F21/00</b>)",
+      "count": 17448,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F13/02": {
+      "code": "G09F13/02",
+      "level": 1,
+      "parent": "G09F13/00",
+      "ja": "表示体の前にある人工の光源によって照明されるサイン，ボード，またはパネル［２００６．０１］",
+      "en": "Signs, boards, or panels, illuminated by artificial light sources positioned in front of the insignia",
+      "count": 3767,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F13/04": {
+      "code": "G09F13/04",
+      "level": 1,
+      "parent": "G09F13/00",
+      "ja": "表示体の後ろから照明されるサイン，ボード，またはパネル［２００６．０１］",
+      "en": "Signs, boards, or panels, illuminated from behind the insignia",
+      "count": 30027,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F13/06": {
+      "code": "G09F13/06",
+      "level": 2,
+      "parent": "G09F13/04",
+      "ja": "独特に切り抜かれた記号やシルエットを用いたもの，例．穿孔サイン［２００６．０１］",
+      "en": "using individual cut-out symbols or cut-out silhouettes, e.g. perforated signs",
+      "count": 1571,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F13/08": {
+      "code": "G09F13/08",
+      "level": 2,
+      "parent": "G09F13/04",
+      "ja": "透明，不透明の両層を用いたもの［２００６．０１］",
+      "en": "using both translucent and non-translucent layers",
+      "count": 2534,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F13/10": {
+      "code": "G09F13/10",
+      "level": 3,
+      "parent": "G09F13/08",
+      "ja": "すかし模様を用いたもの［２００６．０１］",
+      "en": "using transparencies",
+      "count": 1387,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F13/12": {
+      "code": "G09F13/12",
+      "level": 2,
+      "parent": "G09F13/04",
+      "ja": "サイン，記号，絵またはその他の表示が照明されたときだけ見える半透過鏡，あるいは送られた光だけを通す反射性表面を用いたもの［２００６．０１］",
+      "en": "using a transparent mirror or other light- reflecting surface transparent to transmitted light whereby a sign, symbol, picture, or other information is visible only when illuminated",
+      "count": 1531,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F13/14": {
+      "code": "G09F13/14",
+      "level": 2,
+      "parent": "G09F13/04",
+      "ja": "装置中の反射構造［２００６．０１］",
+      "en": "Arrangements of reflectors therein",
+      "count": 2452,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F13/16": {
+      "code": "G09F13/16",
+      "level": 1,
+      "parent": "G09F13/00",
+      "ja": "反射物や反射面で形成され，またはこれらを組み合わせたサイン，例．三角形または他の幾何学形状を有する警告サイン［２００６．０１］",
+      "en": "Signs formed of, or incorporating, reflecting elements or surfaces, e.g. warning signs having triangular or other geometrical shape",
+      "count": 7672,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F13/18": {
+      "code": "G09F13/18",
+      "level": 1,
+      "parent": "G09F13/00",
+      "ja": "エッジ照明サイン［２００６．０１］",
+      "en": "Edge-illuminated signs",
+      "count": 6019,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F13/20": {
+      "code": "G09F13/20",
+      "level": 1,
+      "parent": "G09F13/00",
+      "ja": "ルミネセンス発光面または発光部をもつもの［２００６．０１］",
+      "en": "with luminescent surfaces or parts",
+      "count": 11416,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F13/22": {
+      "code": "G09F13/22",
+      "level": 2,
+      "parent": "G09F13/20",
+      "ja": "エレクトロルミネセンス［２００６．０１］",
+      "en": "electroluminescent",
+      "count": 12347,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F13/24": {
+      "code": "G09F13/24",
+      "level": 1,
+      "parent": "G09F13/00",
+      "ja": "液体，例．泡のある液体，の入っている管状物または同様のものを用いるもの［２００６．０１］",
+      "en": "using tubes or the like filled with liquid, e.g. bubbling liquid",
+      "count": 795,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F13/26": {
+      "code": "G09F13/26",
+      "level": 1,
+      "parent": "G09F13/00",
+      "ja": "放電管によって形成されたサイン（選択的点灯によるものＧ０９Ｆ９／００）［２００６．０１］",
+      "en": "Signs formed by electric discharge tubes(by selective lighting <b>G09F9/00</b>)",
+      "count": 1414,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F13/28": {
+      "code": "G09F13/28",
+      "level": 1,
+      "parent": "G09F13/00",
+      "ja": "フィラメント型ランプによって形成されたサイン（選択的点灯によるものＧ０９Ｆ９／００）［２００６．０１］",
+      "en": "Signs formed by filament-type lamps(by selective lighting <b>G09F9/00</b>)",
+      "count": 682,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F13/30": {
+      "code": "G09F13/30",
+      "level": 1,
+      "parent": "G09F13/00",
+      "ja": "動く光源，例．回転発光管，をもつもの［２００６．０１］",
+      "en": "with moving light sources, e.g. rotating luminous tubes",
+      "count": 403,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F13/32": {
+      "code": "G09F13/32",
+      "level": 1,
+      "parent": "G09F13/00",
+      "ja": "動く光学部分，例．鏡，を持つもの［２００６．０１］",
+      "en": "with moving optical part or parts, e.g. mirrors",
+      "count": 445,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F13/34": {
+      "code": "G09F13/34",
+      "level": 1,
+      "parent": "G09F13/00",
+      "ja": "可動部材と協動する光源を持つもの，例．光源を閉じたり開いたりするシャッターを持つもの（広告または展示部材が連続的，または断続的に動く装置Ｇ０９Ｆ１１／００）［２００６．０１］",
+      "en": "with light sources co-operating with movable members, e.g. with shutters to cover or uncover the light source(apparatus wherein advertising or display material is moved in a continuous or intermittent succession <b>G09F11/00</b>)",
+      "count": 579,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F13/36": {
+      "code": "G09F13/36",
+      "level": 2,
+      "parent": "G09F13/34",
+      "ja": "回転遮蔽体と組合わせたもの［２００６．０１］",
+      "en": "co-operating with rotating screening means",
+      "count": 209,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F13/42": {
+      "code": "G09F13/42",
+      "level": 1,
+      "parent": "G09F13/00",
+      "ja": "見えない輻射線で励起される光源をもつもの［２００６．０１］",
+      "en": "with light sources activated by non-visible radiation",
+      "count": 625,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F13/44": {
+      "code": "G09F13/44",
+      "level": 1,
+      "parent": "G09F13/00",
+      "ja": "光源にガスの光を持つもの［２００６．０１］",
+      "en": "with gas as lighting source",
+      "count": 94,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F13/46": {
+      "code": "G09F13/46",
+      "level": 1,
+      "parent": "G09F13/00",
+      "ja": "花火による広告［２００６．０１］",
+      "en": "Advertising by fireworks",
+      "count": 36,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F15/00": {
+      "code": "G09F15/00",
+      "level": 0,
+      "parent": "G09F",
+      "ja": "告知書，はり紙，ポスター，または類似のもののためのボード，掲示板，標柱または同様の構造物",
+      "en": "Boards, hoardings, pillars, or like structures for notices, placards, posters, or the like",
+      "count": 40856,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F15/02": {
+      "code": "G09F15/02",
+      "level": 1,
+      "parent": "G09F15/00",
+      "ja": "そのためのビラ，ポスター類",
+      "en": "Bills, posters, or the like therefor",
+      "count": 11468,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F17/00": {
+      "code": "G09F17/00",
+      "level": 0,
+      "parent": "G09F",
+      "ja": "旗；のぼり；それらの装着具",
+      "en": "Flags; Banners; Mountings therefor",
+      "count": 7696,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F19/00": {
+      "code": "G09F19/00",
+      "level": 0,
+      "parent": "G09F",
+      "ja": "他に分類されない広告または表示手段",
+      "en": "Advertising or display means not otherwise provided for",
+      "count": 12488,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F19/02": {
+      "code": "G09F19/02",
+      "level": 1,
+      "parent": "G09F19/00",
+      "ja": "可動表示要素を含むもの",
+      "en": "incorporating moving display members",
+      "count": 2911,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F19/04": {
+      "code": "G09F19/04",
+      "level": 2,
+      "parent": "G09F19/02",
+      "ja": "ドア，例．店舗扉，の開閉によって操作されるもの",
+      "en": "operated by the opening or closing of doors, e.g. shop door",
+      "count": 189,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F19/06": {
+      "code": "G09F19/06",
+      "level": 2,
+      "parent": "G09F19/02",
+      "ja": "筆記装置",
+      "en": "Writing devices",
+      "count": 104,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F19/08": {
+      "code": "G09F19/08",
+      "level": 2,
+      "parent": "G09F19/02",
+      "ja": "可動部分を持つ，人形，お面，等生物を表現したもの",
+      "en": "Dolls, faces or other representations of living forms with moving parts",
+      "count": 1135,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F19/10": {
+      "code": "G09F19/10",
+      "level": 2,
+      "parent": "G09F19/02",
+      "ja": "広告される物品の動きを示す装置",
+      "en": "Devices demonstrating the action of an article to be advertised",
+      "count": 646,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F19/12": {
+      "code": "G09F19/12",
+      "level": 1,
+      "parent": "G09F19/00",
+      "ja": "特殊な光学効果を用いたもの",
+      "en": "using special optical effects",
+      "count": 5230,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F19/14": {
+      "code": "G09F19/14",
+      "level": 2,
+      "parent": "G09F19/12",
+      "ja": "観察者の見る位置によって異るサインを表示するもの",
+      "en": "displaying different signs depending upon the view-point of the observer",
+      "count": 1200,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F19/16": {
+      "code": "G09F19/16",
+      "level": 2,
+      "parent": "G09F19/12",
+      "ja": "鏡を含むもの",
+      "en": "involving the use of mirrors",
+      "count": 727,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F19/18": {
+      "code": "G09F19/18",
+      "level": 2,
+      "parent": "G09F19/12",
+      "ja": "光学的投影手段を含むもの，例．雲に像を投影するもの",
+      "en": "involving the use of optical projection means, e.g. projection of images on clouds",
+      "count": 7237,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F19/20": {
+      "code": "G09F19/20",
+      "level": 2,
+      "parent": "G09F19/12",
+      "ja": "混色効果を持つもの",
+      "en": "with colour-mixing effects",
+      "count": 286,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F19/22": {
+      "code": "G09F19/22",
+      "level": 1,
+      "parent": "G09F19/00",
+      "ja": "道路，壁または同様のものの表面に広告または表示する手段，例．照明されるもの",
+      "en": "Advertising or display means on roads, walls or similar surfaces, e.g. illuminated",
+      "count": 7067,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F21/00": {
+      "code": "G09F21/00",
+      "level": 0,
+      "parent": "G09F",
+      "ja": "移動広告（視聴覚結合の広告Ｇ０９Ｆ２７／００）",
+      "en": "Mobile visual advertising(combined visual and audible advertising <b>G09F27/00</b>)",
+      "count": 1087,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F21/02": {
+      "code": "G09F21/02",
+      "level": 1,
+      "parent": "G09F21/00",
+      "ja": "人間または動物によるもの",
+      "en": "by a carrier person or animal",
+      "count": 1718,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F21/04": {
+      "code": "G09F21/04",
+      "level": 1,
+      "parent": "G09F21/00",
+      "ja": "陸上の乗物によるもの",
+      "en": "by land vehicles",
+      "count": 9982,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F21/06": {
+      "code": "G09F21/06",
+      "level": 1,
+      "parent": "G09F21/00",
+      "ja": "飛行機，飛行船，風船またはたこによるもの",
+      "en": "by aeroplanes, airships, balloons, or kites",
+      "count": 1041,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F21/08": {
+      "code": "G09F21/08",
+      "level": 2,
+      "parent": "G09F21/06",
+      "ja": "航空機体に配置された広告物",
+      "en": "the advertising matter being arranged on the aircraft",
+      "count": 175,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F21/10": {
+      "code": "G09F21/10",
+      "level": 3,
+      "parent": "G09F21/08",
+      "ja": "照明されるもの",
+      "en": "illuminated",
+      "count": 262,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F21/12": {
+      "code": "G09F21/12",
+      "level": 2,
+      "parent": "G09F21/06",
+      "ja": "航空機によって引かれた広告物",
+      "en": "the advertising matter being towed by the aircraft",
+      "count": 191,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F21/14": {
+      "code": "G09F21/14",
+      "level": 3,
+      "parent": "G09F21/12",
+      "ja": "照らされるもの",
+      "en": "illuminated",
+      "count": 51,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F21/16": {
+      "code": "G09F21/16",
+      "level": 2,
+      "parent": "G09F21/06",
+      "ja": "空に描くもの",
+      "en": "Sky-writing",
+      "count": 124,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F21/18": {
+      "code": "G09F21/18",
+      "level": 1,
+      "parent": "G09F21/00",
+      "ja": "船またはその他の浮動体によるもの",
+      "en": "by ships or other floating means",
+      "count": 200,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F21/20": {
+      "code": "G09F21/20",
+      "level": 2,
+      "parent": "G09F21/18",
+      "ja": "照明されるもの",
+      "en": "illuminated",
+      "count": 28,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F21/22": {
+      "code": "G09F21/22",
+      "level": 1,
+      "parent": "G09F21/00",
+      "ja": "乗物からパンフレットまたは類似の広告物を配布する装置（飛行機からのものＢ６４Ｄ１／００）",
+      "en": "Dispensing devices for pamphlets or similar advertising matter from vehicles(from aircraft <b>B64D1/00</b>)",
+      "count": 92,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F23/00": {
+      "code": "G09F23/00",
+      "level": 0,
+      "parent": "G09F",
+      "ja": "特殊な物品，例．灰皿，郵便箱，の外部か内部に施される広告（乗り物の外部か内部に施すものＧ０９Ｆ２１／００）",
+      "en": "Advertising on or in specific articles, e.g. ashtrays, letter-boxes(on or in vehicles <b>G09F21/00</b>)",
+      "count": 13227,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F23/02": {
+      "code": "G09F23/02",
+      "level": 1,
+      "parent": "G09F23/00",
+      "ja": "物品の操作によって表示される広告体",
+      "en": "the advertising matter being displayed by the operation of the article",
+      "count": 670,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F23/04": {
+      "code": "G09F23/04",
+      "level": 2,
+      "parent": "G09F23/02",
+      "ja": "照明されるもの",
+      "en": "illuminated",
+      "count": 295,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F23/06": {
+      "code": "G09F23/06",
+      "level": 1,
+      "parent": "G09F23/00",
+      "ja": "レストラン，店舗，または事務所の品物と結合される広告体（紙製品に関するものＧ０９Ｆ２３／１０）",
+      "en": "the advertising matter being combined with articles for restaurants, shops, or offices(on paper articles <b>G09F23/10</b>)",
+      "count": 1645,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F23/08": {
+      "code": "G09F23/08",
+      "level": 2,
+      "parent": "G09F23/06",
+      "ja": "食器類に施されるもの",
+      "en": "with tableware",
+      "count": 497,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F23/10": {
+      "code": "G09F23/10",
+      "level": 1,
+      "parent": "G09F23/00",
+      "ja": "紙製品，例．小冊子，新聞，に施されるもの",
+      "en": "on paper articles, e.g. booklets, newspapers",
+      "count": 2005,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F23/12": {
+      "code": "G09F23/12",
+      "level": 2,
+      "parent": "G09F23/10",
+      "ja": "トイレットペーパーに施されるもの",
+      "en": "on toilet paper",
+      "count": 227,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F23/14": {
+      "code": "G09F23/14",
+      "level": 1,
+      "parent": "G09F23/00",
+      "ja": "おもちゃ，ゲーム，パズル，またはこれに類するものに施されるもの",
+      "en": "on toys, games, puzzles, or similar devices",
+      "count": 505,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F23/16": {
+      "code": "G09F23/16",
+      "level": 1,
+      "parent": "G09F23/00",
+      "ja": "時計に施されるもの，例．時計機構によって制御されるもの",
+      "en": "on clocks, e.g. controlled by the clock mechanism",
+      "count": 324,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F25/00": {
+      "code": "G09F25/00",
+      "level": 0,
+      "parent": "G09F",
+      "ja": "聴覚的な広告",
+      "en": "Audible advertising",
+      "count": 3298,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    },
+    "G09F27/00": {
+      "code": "G09F27/00",
+      "level": 0,
+      "parent": "G09F",
+      "ja": "視聴覚結合の広告または表示，例．公衆への演説に関するもの",
+      "en": "Combined visual and audible advertising or displaying, e.g. for public address",
+      "count": 15879,
+      "sourceFile": "ipc_G09F.txt",
+      "kind": "ipc"
+    }
+  }
+};

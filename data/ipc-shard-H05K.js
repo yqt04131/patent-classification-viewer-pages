@@ -1,0 +1,886 @@
+window.IPC_SHARD_H05K = {
+  "generatedAt": "2026-03-20T02:17:47.324Z",
+  "total": 88,
+  "entries": {
+    "H05K": {
+      "code": "H05K",
+      "level": 0,
+      "parent": "H05",
+      "ja": "印刷回路；電気装置の箱体または構造的細部，電気部品の組立体の製造<br><br><b><ul>注</ul></b><br>注<br>１．このサブクラスは，以下のものを包含する：<br>・主要な機能を異にする装置とラジオ受信機またはテレビ受像機との組合せ；<br>・印刷によらない電気部品と構造的に結合した印刷回路。<br>２．このサブクラスにおいては，下記の表現は以下に示す意味で用いる：<br>・“印刷回路”は，導体を有する絶縁基板または支持部材からなり，特に平面において分離しないように基板に固定されている導体と構造的に結合している回路の機械的構成のすべてを包含し，さらにその構成を製造，例．絶縁支持部材上での導電性の薄片，ペーストもしくは薄膜の機械的または化学的処理による回路の形成，するための方法または装置も包含する。<br><br><b><ul>サブクラス内の索引</ul></b><br>サブクラス内の索引<br>印刷されたものでない電気素子の有無に関しない印刷回路<br>型式，製造　１／００；３／００<br>ケーシング，キャビネットまたはひき出し；構造的細部　５／００；７／００<br>遮蔽　９／００<br>ラジオ受信機またはテレビジョン受像機と他の装置との組み合せ　１１／００<br>電子的組み立て体の製造　１３／００<br>動作の信頼性を改善するための装置　１０／００",
+      "en": "PRINTED CIRCUITS; CASINGS OR CONSTRUCTIONAL DETAILS OF ELECTRIC APPARATUS; MANUFACTURE OF ASSEMBLAGES OF ELECTRICAL COMPONENTS; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This subclass <u>covers</u>: <ul><li>combinations of a radio or television receiver with apparatus having a different main function;</li><li>printed circuits structurally associated with non-printed electric components.</li></ul></li><li>In this subclass, the following expression is used with the meaning indicated: <ul><li>\"printed circuits\" covers all kinds of mechanical constructions of circuits that consist of an insulating base or support carrying the conductor and are combined structurally with the conductor throughout their length, especially in a two-dimensional [2D] plane, the conductors of which are secured to the base in a non-dismountable manner, and also covers the processes or apparatus for manufacturing such constructions, e.g. forming the circuit by mechanical or chemical treatment of a conductive foil, paste or film on an insulating support.</li></ul></li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">PRINTED CIRCUITS ASSOCIATED OR NOT ASSOCIATED WITH NON-PRINTED ELECTRIC COMPONENTS<tr><td width=\"70%\">Types; manufacture </td><td><b><b>1/00</b>; <b>3/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">CASINGS, CABINETS OR DRAWERS; CONSTRUCTIONAL DETAILS </td><td><b><b>5/00</b>; <b>7/00</b></b></td></tr></tr><tr><td width=\"70%\">SCREENING </td><td><b><b>9/00</b></b></td></tr></tr><tr><td width=\"70%\">COMBINATIONS OF A RADIO OR TELEVISION RECEIVER WITH OTHER APPARATUS </td><td><b><b>11/00</b></b></td></tr></tr><tr><td width=\"70%\">MANUFACTURE OF ELECTRONIC ASSEMBLAGES </td><td><b><b>13/00</b></b></td></tr></tr><tr><td width=\"70%\">ARRANGEMENTS FOR IMPROVING THE OPERATING RELIABILITY </td><td><b><b>10/00</b></b></td></tr></tr></table>",
+      "count": 2951,
+      "sourceFile": "ipc_H.txt",
+      "kind": "ipc"
+    },
+    "H05": {
+      "code": "H05",
+      "level": 0,
+      "parent": "H",
+      "ja": "他に分類されない電気技術",
+      "en": "ELECTRIC TECHNIQUES NOT OTHERWISE PROVIDED FOR",
+      "count": 0,
+      "sourceFile": "ipc_H.txt",
+      "kind": "ipc"
+    },
+    "H": {
+      "code": "H",
+      "level": 0,
+      "parent": null,
+      "ja": "電気<br><br><b><ul>注</ul></b><br>（利用にあたっての基本原則と一般的指示）<br>Ｉ．セクションＨは以下のものを包含する：<br>（ａ）基本的電気素子，これは全ての電気ユニットと，装置や回路の一般的な機械的構成を包含しており，その中にはプリント配線と称されるものに各種の基本素子を組み立てたものも含まれる。またこれは他に包含されない場合には，ある程度までこれらの素子の製造をも包含する；<br>（ｂ）発電，これは，発電，変換および配電と共にそのための装置の制御を包含する；<br>（ｃ）電気の応用，これは以下のものを包含する：<br>（ｉ）一般的な利用技術，すなわち．電気加熱と電気照明回路の利用技術；<br>（ｉｉ）厳密な意味で電気的か電子的かいずれかの特定の利用技術で国際特許分類の他のセクションに包含されないもの，これは以下のものを含んでいる：<br>（１）電気的光源，これはレーザーを含む；<br>（２）電気的なＸ線技術；<br>（３）電気的なプラズマ技術，および帯電粒子または中性子の発生および加速；<br>（ｄ）基本電子回路およびその制御；<br>（ｅ）電気通信技術；これは電気―機械変換器一般を含む；<br>（ｆ）物品や上記素子を作るための特定の材料の使用，この点については指針の８８項から９０項を参照されたい。<br>ＩＩ．このセクションにおいては，下記の一般規則が適用される：<br>（ａ）上記Ｉ（ｃ）で述べた例外を除いて，国際特許分類のセクションＨ以外のいずれかのセクションに分類される特殊な操作，方法，装置，物体または物品に特有の電気的観点または部分は，常にその操作，方法，装置，物体または物品のためのサブクラスに分類されるか，または類似の性質を有する技術主題に関する共通的な特徴がクラス・レベルで展開されている場合には，それは，該技術主題のための一般的電気的な応用を完全に包含するサブクラスに，その操作，方法，装置，物体または物品と関連して分類される；<br>（ｂ）この様な電気的な応用には，一般的なものであれ特殊なものであれ，次の事項が含まれる。<br>（ｉ）Ａ６１における治療方法および装置；<br>（ｉｉ）Ｂ０１，Ｂ０３およびＢ２３Ｋにおける各種の実験室または工業的操作に用いられる電気的方法および装置；<br>（ｉｉｉ）セクションＢの“運輸”のサブセクションにおける車両一般および特殊な車両への電気の供給，電気的推進および電気照明；<br>（ｉｖ）Ｆ０２Ｐにおける内燃機関の電気点火系，およびＦ２３Ｑにおける燃焼装置一般のもの；<br>（ｖ）セクションＧにおける全ての電気的部分，すなわち，電気変量の測定器を含む測定装置，検査，信号および計算。このＧセクションにおいて電気とは，一般に手段として扱われるものでそれ自体目的として扱われるものではない；<br>（ｃ）全ての電気的な応用は一般的なものであれ特殊なものであれ，それが含んでいる電気的“基本的素子”に関して言えば，“基本的な電気”の観点がセクションＨ（上記Ｉ（ａ）参照）にあることを前提としている。この規則は，セクションＨ自身にある上記Ｉ（ｃ）で示した電気の応用に対しても有効である。",
+      "en": "ELECTRICITY; <br><br><b><u>Note(s)</u></b><br><br><ul><li>These Notes cover the basic principles and general instructions for use of section <b>H</b>.<ul><li>Section <b>H</b> <u>covers</u>: <ul><li>basic electric elements, which cover all electric units and the general mechanical structure of apparatus and circuits, including the assembly of various basic elements into what are called printed circuits and also cover to a certain extent the manufacture of these elements (when not covered elsewhere);</li><li>generation of electricity, which covers the generation, conversion and distribution of electricity together with the controlling of the corresponding gear;</li><li>applied electricity, which <u>covers</u>: <ul><li>general utilisation techniques, viz. those of electric heating and electric lighting circuits;</li><li>some special utilisation techniques, either electric or electronic in the strict sense, which are not covered by other sections of the Classification, including: <ul><li>electric light sources, including lasers;</li><li>electric X-ray technique;</li><li>electric plasma technique and the generation and acceleration of electrically charged particles or neutrons;</li></ul></li></ul></li><li>basic electronic circuits and their control;</li><li>radio or electric communication technique;</li><li>the use of a specified material for the manufacture of the article or element described. In this connection, paragraphs 88 to 90 of the Guide should be referred to.</li></ul></li><li>In this section, the following general rules apply: <ul><li>Subject to the exceptions stated in I(c), above, any electric aspect or part peculiar to a particular operation, process, apparatus, object or article, classified in one of the sections of the Classification other than section <b>H</b>, is always classified in the subclass for that operation, process, apparatus, object or article. Where common characteristics concerning technical subjects of similar nature have been brought out at class level, the electric aspect or part is classified, in conjunction with the operation, process, apparatus, object or article, in a subclass which covers entirely the general electrical applications for the technical subject in question;</li><li>The electrical applications referred to under (a), above, either general or particular, include: <ul><li>the therapeutic processes and apparatus, in class <b>A61</b>;</li><li>the electric processes and apparatus used in various laboratory or industrial operations, in classes <b>B01</b> and <b>B03</b> and in subclass <b>B23K</b>;</li><li>the electricity supply, electric propulsion and electric lighting of vehicles in general and of particular vehicles, in the subsection \"Transporting\" of section <b>B</b>;</li><li>the electric ignition systems of internal-combustion engines, in subclass <b>F02P</b>, and of combustion apparatus in general, in subclass <b>F23Q</b>;</li><li>the whole electrical part of section <b>G</b>, i.e. measuring devices including apparatus for measuring electric variables, checking, signalling and calculating. Electricity in that section is generally dealt with as a means and not as an end in itself;</li></ul></li><li>All electrical applications, both general and particular, presuppose that the \"basic electricity\" aspect appears in section <b>H</b> (see I(a) above) as regards the electric \"basic elements\" which they comprise. This rule is also valid for applied electricity, referred to in I(c), above, which appears in section <b>H</b> itself.</li></ul></li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_H.txt",
+      "kind": "ipc"
+    },
+    "H05K1/00": {
+      "code": "H05K1/00",
+      "level": 0,
+      "parent": "H05K",
+      "ja": "印刷回路［２００６．０１］",
+      "en": "Printed circuits",
+      "count": 17128,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K1/02": {
+      "code": "H05K1/02",
+      "level": 1,
+      "parent": "H05K1/00",
+      "ja": "細部［２００６．０１］",
+      "en": "Details",
+      "count": 108879,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K1/03": {
+      "code": "H05K1/03",
+      "level": 2,
+      "parent": "H05K1/02",
+      "ja": "基体用材料の使用［２００６．０１］",
+      "en": "Use of materials for the substrate",
+      "count": 40127,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K1/05": {
+      "code": "H05K1/05",
+      "level": 3,
+      "parent": "H05K1/03",
+      "ja": "絶縁金属基体［２００６．０１］",
+      "en": "Insulated metal substrate",
+      "count": 7592,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K1/09": {
+      "code": "H05K1/09",
+      "level": 2,
+      "parent": "H05K1/02",
+      "ja": "金属パターンのための材料の使用［２００６．０１］",
+      "en": "Use of materials for the metallic pattern",
+      "count": 18586,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K1/11": {
+      "code": "H05K1/11",
+      "level": 2,
+      "parent": "H05K1/02",
+      "ja": "印刷回路への，または印刷回路間の電気的接続のための印刷要素［２００６．０１］",
+      "en": "Printed elements for providing electric connections to or between printed circuits",
+      "count": 42212,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K1/14": {
+      "code": "H05K1/14",
+      "level": 2,
+      "parent": "H05K1/02",
+      "ja": "２つ以上の印刷回路の構造的結合（印刷回路に対するまたは印刷回路間の電気的接続をするためのものＨ０５Ｋ１／１１，Ｈ０１Ｒ１２／００）［２００６．０１］",
+      "en": "Structural association of two or more printed circuits(providing electric connection to or between printed circuits <b>H05K1/11</b>, <b>H01R12/00</b>)",
+      "count": 31981,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K1/16": {
+      "code": "H05K1/16",
+      "level": 1,
+      "parent": "H05K1/00",
+      "ja": "印刷電気部品，例．印刷抵抗器，印刷コンデンサ又は印刷インダクタ，を備えるもの［２００６．０１］",
+      "en": "incorporating printed electric components, e.g. printed resistors, capacitors or inductors",
+      "count": 15189,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K1/18": {
+      "code": "H05K1/18",
+      "level": 1,
+      "parent": "H05K1/00",
+      "ja": "印刷によらない電気部品と構造的に結合したもの（Ｈ０５Ｋ１／１６が優先）［２０２６．０１］",
+      "en": "structurally associated with non-printed electric components (<b>H05K1/16</b> takes precedence)",
+      "count": 67081,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K1/181": {
+      "code": "H05K1/181",
+      "level": 2,
+      "parent": "H05K1/18",
+      "ja": "表面実装部品と結合したもの［２０２６．０１］",
+      "en": "associated with surface mounted components",
+      "count": 0,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K1/182": {
+      "code": "H05K1/182",
+      "level": 2,
+      "parent": "H05K1/18",
+      "ja": "プリント基板［ＰＣＢ］内に実装された部品，例．挿入実装部品［ＩＭＣ］，と結合したもの［２０２６．０１］",
+      "en": "associated with components mounted in printed circuit boards [PCB], e.g. insert-mounted components [IMC]",
+      "count": 0,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K1/183": {
+      "code": "H05K1/183",
+      "level": 3,
+      "parent": "H05K1/182",
+      "ja": "ＰＣＢの凹部内に実装及び支持された部品と結合したもの［２０２６．０１］",
+      "en": "associated with components mounted in and supported by recessed areas of the PCBs",
+      "count": 0,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K1/184": {
+      "code": "H05K1/184",
+      "level": 3,
+      "parent": "H05K1/182",
+      "ja": "ＰＣＢの貫通孔に挿入された部品と結合したものであって，その部品の端子は，その貫通孔の壁面上若しくはその端縁の印刷接点に接続されているか，又は，その貫通孔を超えて若しくはその貫通孔内に突出している［２０２６．０１］",
+      "en": "associated with components inserted in holes through the PCBs and wherein terminals of the components are connected to printed contacts on the walls of the holes or at the edges thereof or protruding over or into the holes",
+      "count": 0,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K1/185": {
+      "code": "H05K1/185",
+      "level": 3,
+      "parent": "H05K1/182",
+      "ja": "ＰＣＢの絶縁基板内に封入された部品と結合したもの；多層プリント基板の内層内に組み込まれた部品と結合したもの［２０２６．０１］",
+      "en": "associated with components encapsulated in the insulating substrate of the PCBs; associated with components  incorporated in internal layers of multilayer circuit boards",
+      "count": 0,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K1/189": {
+      "code": "H05K1/189",
+      "level": 2,
+      "parent": "H05K1/18",
+      "ja": "フレキシブルな又は折りたたみ印刷回路の使用を特徴とするもの［２０２６．０１］",
+      "en": "characterised by the use of flexible or folded printed circuits",
+      "count": 0,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K3/00": {
+      "code": "H05K3/00",
+      "level": 0,
+      "parent": "H05K",
+      "ja": "印刷回路を製造するための装置または方法［２００６．０１］",
+      "en": "Apparatus or processes for manufacturing printed circuits",
+      "count": 83771,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K3/02": {
+      "code": "H05K3/02",
+      "level": 1,
+      "parent": "H05K3/00",
+      "ja": "導電性物質が絶縁支持部材の表面に施されその後電流の伝導や遮へいのために使わない部分が表面から取り除かれるもの［２００６．０１］",
+      "en": "in which the conductive material is applied to the surface of the insulating support and is thereafter removed from such areas of the surface which are not intended for current conducting or shielding",
+      "count": 7113,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K3/04": {
+      "code": "H05K3/04",
+      "level": 2,
+      "parent": "H05K3/02",
+      "ja": "導電性物質が機械的に取り除かれるもの，例．パンチによるもの［２００６．０１］",
+      "en": "the conductive material being removed mechanically, e.g. by punching",
+      "count": 2406,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K3/06": {
+      "code": "H05K3/06",
+      "level": 2,
+      "parent": "H05K3/02",
+      "ja": "導電性物質が化学的にまたは電気分解により取り除かれるもの，例．ホトエッチング法［２００６．０１］",
+      "en": "the conductive material being removed chemically or electrolytically, e.g. by photo-etch process",
+      "count": 17969,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K3/07": {
+      "code": "H05K3/07",
+      "level": 3,
+      "parent": "H05K3/06",
+      "ja": "電気分解により除去されるもの［２００６．０１］",
+      "en": "being removed electrolytically",
+      "count": 299,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K3/08": {
+      "code": "H05K3/08",
+      "level": 2,
+      "parent": "H05K3/02",
+      "ja": "導電性物質が放電によって取り除かれるもの，例．火花放電の侵食［２００６．０１］",
+      "en": "the conductive material being removed by electric discharge, e.g. by spark erosion",
+      "count": 649,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K3/10": {
+      "code": "H05K3/10",
+      "level": 1,
+      "parent": "H05K3/00",
+      "ja": "導電性物質が希望する導電模様を形成するように絶縁支持部材に施されるもの［２００６．０１］",
+      "en": "in which conductive material is applied to the insulating support in such a manner as to form the desired conductive pattern",
+      "count": 12027,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K3/12": {
+      "code": "H05K3/12",
+      "level": 2,
+      "parent": "H05K3/10",
+      "ja": "導電性物質を付着するのに印刷技術を用いるもの［２００６．０１］",
+      "en": "using printing techniques to apply the conductive material",
+      "count": 14852,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K3/14": {
+      "code": "H05K3/14",
+      "level": 2,
+      "parent": "H05K3/10",
+      "ja": "導電性物質を付着するのにスプレ技術を用いるもの［２００６．０１］",
+      "en": "using spraying techniques to apply the conductive material",
+      "count": 1783,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K3/16": {
+      "code": "H05K3/16",
+      "level": 3,
+      "parent": "H05K3/14",
+      "ja": "カソードスパッタリングによるもの［２００６．０１］",
+      "en": "by cathodic sputtering",
+      "count": 600,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K3/18": {
+      "code": "H05K3/18",
+      "level": 2,
+      "parent": "H05K3/10",
+      "ja": "導電性物質を付着するのに沈でん技術を用いるもの［２００６．０１］",
+      "en": "using precipitation techniques to apply the conductive material",
+      "count": 14664,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K3/20": {
+      "code": "H05K3/20",
+      "level": 2,
+      "parent": "H05K3/10",
+      "ja": "あらかじめ組み立てた導体模様を貼着するもの［２００６．０１］",
+      "en": "by affixing prefabricated conductor pattern",
+      "count": 5945,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K3/22": {
+      "code": "H05K3/22",
+      "level": 1,
+      "parent": "H05K3/00",
+      "ja": "印刷回路の２次的処理［２００６．０１］",
+      "en": "Secondary treatment of printed circuits",
+      "count": 9616,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K3/24": {
+      "code": "H05K3/24",
+      "level": 2,
+      "parent": "H05K3/22",
+      "ja": "導電模様の補強［２００６．０１］",
+      "en": "Reinforcing of the conductive pattern",
+      "count": 9107,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K3/26": {
+      "code": "H05K3/26",
+      "level": 2,
+      "parent": "H05K3/22",
+      "ja": "導電模様の洗浄または研摩［２００６．０１］",
+      "en": "Cleaning or polishing of the conductive pattern",
+      "count": 6994,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K3/28": {
+      "code": "H05K3/28",
+      "level": 2,
+      "parent": "H05K3/22",
+      "ja": "非金属質の保護被覆を施すこと［２００６．０１］",
+      "en": "Applying non-metallic protective coatings",
+      "count": 26546,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K3/30": {
+      "code": "H05K3/30",
+      "level": 1,
+      "parent": "H05K3/00",
+      "ja": "電気部品，例．抵抗器，を印刷回路に取り付けること［２０２６．０１］",
+      "en": "Assembling printed circuits with electric components, e.g. with resistors",
+      "count": 25152,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K3/303": {
+      "code": "H05K3/303",
+      "level": 2,
+      "parent": "H05K3/30",
+      "ja": "表面実装部品を取り付けること（Ｈ０５Ｋ３／３２が優先）［２０２６．０１］",
+      "en": "with surface mounted components(<b>H05K3/32</b> takes precedence)",
+      "count": 0,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K3/306": {
+      "code": "H05K3/306",
+      "level": 2,
+      "parent": "H05K3/30",
+      "ja": "リード挿入実装部品を取り付けること（Ｈ０５Ｋ３／３２が優先）［２０２６．０１］",
+      "en": "with lead-in-hole components(<b>H05K3/32</b> takes precedence)",
+      "count": 0,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K3/32": {
+      "code": "H05K3/32",
+      "level": 2,
+      "parent": "H05K3/30",
+      "ja": "印刷回路に対する電気部品又は電線の電気的接続［２０２６．０１］",
+      "en": "electrically connecting electric components or wires to printed circuits",
+      "count": 18864,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K3/321": {
+      "code": "H05K3/321",
+      "level": 3,
+      "parent": "H05K3/32",
+      "ja": "導電性接着剤によるもの［２０２６．０１］",
+      "en": "by conductive adhesives",
+      "count": 0,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K3/325": {
+      "code": "H05K3/325",
+      "level": 3,
+      "parent": "H05K3/32",
+      "ja": "突合せ又は挟持によるもの；そのための機械的補助部品［２０２６．０１］",
+      "en": "by abutting or pinching;  Mechanical auxiliary parts therefor",
+      "count": 0,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K3/328": {
+      "code": "H05K3/328",
+      "level": 3,
+      "parent": "H05K3/32",
+      "ja": "溶接によるもの［２０２６．０１］",
+      "en": "by welding",
+      "count": 0,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K3/34": {
+      "code": "H05K3/34",
+      "level": 3,
+      "parent": "H05K3/32",
+      "ja": "はんだ付けによるもの［２０２６．０１］",
+      "en": "by soldering",
+      "count": 71249,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K3/341": {
+      "code": "H05K3/341",
+      "level": 4,
+      "parent": "H05K3/34",
+      "ja": "表面実装部品［２０２６．０１］",
+      "en": "Surface mounted components",
+      "count": 0,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K3/3447": {
+      "code": "H05K3/3447",
+      "level": 4,
+      "parent": "H05K3/34",
+      "ja": "リード挿入実装部品［２０２６．０１］",
+      "en": "Lead-in-hole components",
+      "count": 0,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K3/3452": {
+      "code": "H05K3/3452",
+      "level": 4,
+      "parent": "H05K3/34",
+      "ja": "はんだマスク［２０２６．０１］",
+      "en": "Solder masks",
+      "count": 0,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K3/346": {
+      "code": "H05K3/346",
+      "level": 4,
+      "parent": "H05K3/34",
+      "ja": "はんだの材料又はその材料のために特に適合した組成［２０２６．０１］",
+      "en": "Solder materials or compositions specially adapted therefor",
+      "count": 0,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K3/3465": {
+      "code": "H05K3/3465",
+      "level": 4,
+      "parent": "H05K3/34",
+      "ja": "はんだの付着［２０２６．０１］",
+      "en": "Application of solder",
+      "count": 0,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K3/3468": {
+      "code": "H05K3/3468",
+      "level": 5,
+      "parent": "H05K3/3465",
+      "ja": "溶融はんだの塗布，例．ディップはんだ付け［２０２６．０１］",
+      "en": "Application of molten solder, e.g. dip soldering",
+      "count": 0,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K3/3473": {
+      "code": "H05K3/3473",
+      "level": 5,
+      "parent": "H05K3/3465",
+      "ja": "はんだのめっき［２０２６．０１］",
+      "en": "Plating of solder",
+      "count": 0,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K3/3478": {
+      "code": "H05K3/3478",
+      "level": 5,
+      "parent": "H05K3/3465",
+      "ja": "はんだの予備成形物の付着；前もって形成されたはんだ模様の転写［２０２６．０１］",
+      "en": "Application of solder preforms; Transferring prefabricated solder patterns",
+      "count": 0,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K3/3485": {
+      "code": "H05K3/3485",
+      "level": 5,
+      "parent": "H05K3/3465",
+      "ja": "はんだペースト，　スラリー又は粉体の付着（導電性材料を付着させることで印刷回路の所望の導電性パターンを形成するために印刷技術を用いるもの　Ｈ０５Ｋ３／１２）［２０２６．０１］",
+      "en": "Application of solder paste, slurry or powder(using printing techniques to form the desired conductive pattern of the printed circuit by applying conductive material <b>H05K3/12</b>)",
+      "count": 0,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K3/3489": {
+      "code": "H05K3/3489",
+      "level": 4,
+      "parent": "H05K3/34",
+      "ja": "フラックスの組成；その付着；接触面を活性化するための他の方法［２０２６．０１］",
+      "en": "Composition of fluxes; Application thereof; Other processes of activating the contact surfaces",
+      "count": 0,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K3/3494": {
+      "code": "H05K3/3494",
+      "level": 4,
+      "parent": "H05K3/34",
+      "ja": "リフローはんだ付けの加熱方法［２０２６．０１］",
+      "en": "Heating processes for reflow soldering",
+      "count": 0,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K3/36": {
+      "code": "H05K3/36",
+      "level": 1,
+      "parent": "H05K3/00",
+      "ja": "印刷回路と他の印刷回路の組み合わせ［２００６．０１］",
+      "en": "Assembling printed circuits with other printed circuits",
+      "count": 15085,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K3/38": {
+      "code": "H05K3/38",
+      "level": 1,
+      "parent": "H05K3/00",
+      "ja": "絶縁基体と金属間の接着の改良［２００６．０１］",
+      "en": "Improvement of the adhesion between the insulating substrate and the metal",
+      "count": 13508,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K3/40": {
+      "code": "H05K3/40",
+      "level": 1,
+      "parent": "H05K3/00",
+      "ja": "印刷回路への，または印刷回路間の電気的接続のための印刷要素の形成［２００６．０１］",
+      "en": "Forming printed elements for providing electric connections to or between printed circuits",
+      "count": 18378,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K3/42": {
+      "code": "H05K3/42",
+      "level": 2,
+      "parent": "H05K3/40",
+      "ja": "メッキされた貫通孔［２００６．０１］",
+      "en": "Plated through-holes",
+      "count": 13097,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K3/44": {
+      "code": "H05K3/44",
+      "level": 1,
+      "parent": "H05K3/00",
+      "ja": "絶縁された金属心回路の製造［２００６．０１］",
+      "en": "Manufacturing insulated metal core circuits",
+      "count": 2456,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K3/46": {
+      "code": "H05K3/46",
+      "level": 1,
+      "parent": "H05K3/00",
+      "ja": "多重層回路の製造［２００６．０１］",
+      "en": "Manufacturing multi-layer circuits",
+      "count": 56675,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K5/00": {
+      "code": "H05K5/00",
+      "level": 0,
+      "parent": "H05K",
+      "ja": "電気装置のための箱体，キャビネットまたは引き出し［２０２５．０１］",
+      "en": "Casings, cabinets or drawers for electric apparatus",
+      "count": 60804,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K5/02": {
+      "code": "H05K5/02",
+      "level": 1,
+      "parent": "H05K5/00",
+      "ja": "細部［２００６．０１］",
+      "en": "Details",
+      "count": 236090,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K5/03": {
+      "code": "H05K5/03",
+      "level": 2,
+      "parent": "H05K5/02",
+      "ja": "カバー［２００６．０１］",
+      "en": "Covers",
+      "count": 35847,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K5/04": {
+      "code": "H05K5/04",
+      "level": 1,
+      "parent": "H05K5/00",
+      "ja": "金属製ケース［２００６．０１］",
+      "en": "Metal casings",
+      "count": 7567,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K5/06": {
+      "code": "H05K5/06",
+      "level": 1,
+      "parent": "H05K5/00",
+      "ja": "密閉されたケース［２００６．０１］",
+      "en": "Hermetically-sealed casings",
+      "count": 41182,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K5/10": {
+      "code": "H05K5/10",
+      "level": 1,
+      "parent": "H05K5/00",
+      "ja": "閉じた箱体を形成する複数の部分を含むもの［２０２５．０１］",
+      "en": "comprising several parts forming a closed casing",
+      "count": 343,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K5/13": {
+      "code": "H05K5/13",
+      "level": 2,
+      "parent": "H05K5/10",
+      "ja": "ねじにより組み立てられるもの［２０２５．０１］",
+      "en": "assembled by screws",
+      "count": 70,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K5/15": {
+      "code": "H05K5/15",
+      "level": 2,
+      "parent": "H05K5/10",
+      "ja": "弾性部材により組み立てられるもの［２０２５．０１］",
+      "en": "assembled by resilient members",
+      "count": 32,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K5/30": {
+      "code": "H05K5/30",
+      "level": 1,
+      "parent": "H05K5/00",
+      "ja": "並列配置または積層配置［２０２５．０１］",
+      "en": "Side-by-side or stacked arrangements",
+      "count": 129,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K7/00": {
+      "code": "H05K7/00",
+      "level": 0,
+      "parent": "H05K",
+      "ja": "異なる型の電気装置に共通の構造的細部（ケース，キャビネット，引き出しＨ０５Ｋ５／００）［２００６．０１］",
+      "en": "Constructional details common to different types of electric apparatus(casings, cabinets, drawers <b>H05K5/00</b>)",
+      "count": 29775,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K7/02": {
+      "code": "H05K7/02",
+      "level": 1,
+      "parent": "H05K7/00",
+      "ja": "支持装置上の回路素子または配線の配置［２００６．０１］",
+      "en": "Arrangements of circuit components or wiring on supporting structure",
+      "count": 26324,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K7/04": {
+      "code": "H05K7/04",
+      "level": 2,
+      "parent": "H05K7/02",
+      "ja": "導電性シャシー上におけるもの［２００６．０１］",
+      "en": "on conductive chassis",
+      "count": 2820,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K7/06": {
+      "code": "H05K7/06",
+      "level": 2,
+      "parent": "H05K7/02",
+      "ja": "絶縁性板上におけるもの［２００６．０１］",
+      "en": "on insulating boards",
+      "count": 3929,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K7/08": {
+      "code": "H05K7/08",
+      "level": 3,
+      "parent": "H05K7/06",
+      "ja": "穴あき板上におけるもの［２００６．０１］",
+      "en": "on perforated boards",
+      "count": 2091,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K7/10": {
+      "code": "H05K7/10",
+      "level": 2,
+      "parent": "H05K7/02",
+      "ja": "回路素子のプラグ―インによる組み立て［２００６．０１］",
+      "en": "Plug-in assemblages of components",
+      "count": 6659,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K7/12": {
+      "code": "H05K7/12",
+      "level": 2,
+      "parent": "H05K7/02",
+      "ja": "構造物に対する部品の弾性またはクランプによる取付手段［２００６．０１］",
+      "en": "Resilient or clamping means for holding component to structure",
+      "count": 20816,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K7/14": {
+      "code": "H05K7/14",
+      "level": 1,
+      "parent": "H05K7/00",
+      "ja": "ケース中またはフレームもしくは架上への支持装置の取り付け［２００６．０１］",
+      "en": "Mounting supporting structure in casing or on frame or rack",
+      "count": 101927,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K7/16": {
+      "code": "H05K7/16",
+      "level": 2,
+      "parent": "H05K7/14",
+      "ja": "ヒンジまたはピボット上への取り付け［２００６．０１］",
+      "en": "on hinges or pivots",
+      "count": 5807,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K7/18": {
+      "code": "H05K7/18",
+      "level": 1,
+      "parent": "H05K7/00",
+      "ja": "架またはフレームの構造［２００６．０１］",
+      "en": "Construction of rack or frame",
+      "count": 22198,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K7/20": {
+      "code": "H05K7/20",
+      "level": 1,
+      "parent": "H05K7/00",
+      "ja": "冷却，換気または加熱を容易にするための変形［２００６．０１］",
+      "en": "Modifications to facilitate cooling, ventilating, or heating",
+      "count": 332263,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K9/00": {
+      "code": "H05K9/00",
+      "level": 0,
+      "parent": "H05K",
+      "ja": "電場または磁場に対する装置または部品の遮へい（アンテナからの輻射を吸収するための装置Ｈ０１Ｑ１７／００）",
+      "en": "Screening of apparatus or components against electric or magnetic fields(devices for absorbing radiation from an antenna <b>H01Q17/00</b>)",
+      "count": 78150,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K10/00": {
+      "code": "H05K10/00",
+      "level": 0,
+      "parent": "H05K",
+      "ja": "電子装置の動作信頼性を改善するための装置，例．同様な予備装置を設けるもの［２００６．０１］",
+      "en": "Arrangements for improving the operating reliability of electronic equipment, e.g. by providing a similar stand-by unit",
+      "count": 1674,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K11/00": {
+      "code": "H05K11/00",
+      "level": 0,
+      "parent": "H05K",
+      "ja": "ラジオ受信機またはテレビジョン受像機とは異なった主要な機能をもつ装置とラジオ受信機またはテレビジョン受像機との組み合わせ",
+      "en": "Combinations of a radio or television receiver with apparatus having a different main function",
+      "count": 1781,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K11/02": {
+      "code": "H05K11/02",
+      "level": 1,
+      "parent": "H05K11/00",
+      "ja": "車をもつもの",
+      "en": "with vehicles",
+      "count": 726,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K13/00": {
+      "code": "H05K13/00",
+      "level": 0,
+      "parent": "H05K",
+      "ja": "電気部品の組立体の製造または調整に特に適した装置または方法［２００６．０１］",
+      "en": "Apparatus or processes specially adapted for manufacturing or adjusting assemblages of electric components",
+      "count": 19226,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K13/02": {
+      "code": "H05K13/02",
+      "level": 1,
+      "parent": "H05K13/00",
+      "ja": "部品の供給［２００６．０１］",
+      "en": "Feeding of components",
+      "count": 22216,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K13/04": {
+      "code": "H05K13/04",
+      "level": 1,
+      "parent": "H05K13/00",
+      "ja": "部品の取り付け［２００６．０１］",
+      "en": "Mounting of components",
+      "count": 39349,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K13/06": {
+      "code": "H05K13/06",
+      "level": 1,
+      "parent": "H05K13/00",
+      "ja": "機械による配線［２００６．０１］",
+      "en": "Wiring by machine",
+      "count": 2165,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    },
+    "H05K13/08": {
+      "code": "H05K13/08",
+      "level": 1,
+      "parent": "H05K13/00",
+      "ja": "組立体の製造の監視［２００６．０１］",
+      "en": "Monitoring manufacture of assemblages",
+      "count": 13983,
+      "sourceFile": "ipc_H05K.txt",
+      "kind": "ipc"
+    }
+  }
+};

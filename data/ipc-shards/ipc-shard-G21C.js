@@ -1,0 +1,2336 @@
+window.IPC_SHARD_G21C = {
+  "generatedAt": "2026-03-20T02:17:47.154Z",
+  "total": 233,
+  "entries": {
+    "G21C": {
+      "code": "G21C",
+      "level": 0,
+      "parent": "G21",
+      "ja": "原子炉（核融合炉，核融合－分裂炉Ｇ２１Ｂ；核爆発Ｇ２１Ｊ）<br><br><b><ul>サブクラス内の索引</ul></b><br>原子炉　１／００<br>原子炉構成要素<br>燃料；減速材；冷却；容器；遮蔽　３／００；５／００；１５／００；１３／００；１１／００<br>燃料または他の物質の取扱い　１９／００<br>制御；計装，検査　７／００；１７／００<br>緊急防護　９／００<br>製造　２１／００<br>実験または照射のための原子炉の適用　２３／００",
+      "en": "NUCLEAR REACTORS(fusion reactors, hybrid fission-fusion reactors <b>G21B</b>; nuclear explosives <b>G21J</b>);<br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">REACTORS </td><td><b><b>1/00</b></b></td></tr></tr><tr><td width=\"70%\">REACTOR ELEMENTS<tr><td width=\"70%\">Fuel; moderator; cooling; containment; shielding </td><td><b><b>3/00</b>; <b>5/00</b>; <b>15/00</b>; <b>13/00</b>; <b>11/00</b></b></td></tr></tr><tr><td width=\"70%\">Handling fuel and other materials </td><td><b><b>19/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">CONTROL; MONITORING, TESTING </td><td><b><b>7/00</b>; <b>17/00</b></b></td></tr></tr><tr><td width=\"70%\">EMERGENCY PROTECTION </td><td><b><b>9/00</b></b></td></tr></tr><tr><td width=\"70%\">MANUFACTURE </td><td><b><b>21/00</b></b></td></tr></tr><tr><td width=\"70%\">ADAPTATIONS OF REACTORS FOR EXPERIMENTATION OR IRRADIATION </td><td><b><b>23/00</b></b></td></tr></tr></table>",
+      "count": 633,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G21": {
+      "code": "G21",
+      "level": 0,
+      "parent": "G",
+      "ja": "核物理；核工学",
+      "en": "NUCLEAR PHYSICS; NUCLEAR ENGINEERING",
+      "count": 0,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G": {
+      "code": "G",
+      "level": 0,
+      "parent": null,
+      "ja": "物理学<br><br><b><ul>注</ul></b><br>１．このセクションにおいては，下記の用語は以下に示す意味で用いる：<br>・“変量”は名詞として，特定の実在物，例．物体，ある量の物質，光ビーム，に関し特定の瞬間に測定することの可能な特性又は特質，例．寸法，温度等の物理的状態，密度又は色等の性質，を意味する。変量が変化すると，その数値的表現は異なる時点で，異なる状態又は個々の状況において異なる値をとることもあり，また，ある状態のもとで又は実用上特定の実在物に関して一定でありうる，例．バーの長さが多くの目的のために一定とみなされる，こともある。<br>２．使用される用語または表現の定義に注意すること。このセクションのいくつかのクラスの注に使用されているものについて，特にクラスＧ０１の“測定”を参照されたい．ＩＰＣ指針パラグラフ１８７の中にあるものについて，“制御”及び“調整”の定義に参照されたい。<br>３．このセクションにおける分類は他のセクションにおいてよりもめんどうな場合があり得る，というのは，その一つは，いろいろな使用分野の差異の判別には構造上の差異又は使用形態上の差異よりも寧ろ使用者の意図における差異の方にかなりの程度影響されてしまうからであり，もう一つは，扱う主題が容易に全体として識別できる“もの”であるよりも，特性又は部品が他の主題のものと共通のものを有しているシステム又は組合わせであることが実際上多いからである。例えば，情報（例．一連の数値）をディスプレイするのは，クラスＧ０９に包含される，教育又は広告のため，クラスＧ０１に包含される，測定の結果が通知されうるため，クラスＧ０８に包含される，遠隔地点に情報を合図するため，又は遠隔地点から合図された情報を提供するためである。目的を記述するために使用する言葉は，当該装置の形態に無関係なこともあり得る特性－例えば，ディスプレイを見る者にとって望ましい効果とか，ディスプレイが遠隔地点から制御されるかどうかという特性－によって決定される。さらに，ある状態，例えば流体圧の変化に応答する装置は，その装置そのものには変更を加えずして，サブクラスＧ０１Ｌに包含される圧力又はＧ０１の他のサブクラスに包含される圧力に関連した他の何らかの状態，例．温度に関してＧ０１Ｋ，についての情報を与えるため，サブクラスＧ０７Ｃに包含される圧力または圧力発生の記録をするため，サブクラスＧ０８Ｂに包含される警報を発するため，又はクラスＧ０５に包含される他の何らかの装置を制御するために用いられることがある。<br>　本分類表は，前述したように，同一の性質のものは同一箇所に分類し得るようにしたものである。従って，技術主題が適切箇所に分類されるためには予めその真正な本質を把握することが特に必要である。",
+      "en": "PHYSICS; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this section, the following term is used with the meaning indicated: <ul><li>\"variable\" as a noun means a feature or property, e.g. a dimension, a physical condition such as temperature, a quality such as density or colour, which, in respect of a particular entity, e.g. an object, a quantity of a substance, a beam of light, and at a particular instant, is capable of being measured; the variable may change, so that its numerical expression may assume different values at different times, in different conditions or in individual cases, but may be constant in respect of a particular entity in certain conditions or for practical purposes, e.g. the length of a bar may be regarded as constant for many purposes.</li></ul></li><li>Attention is drawn to the definitions of terms or expressions used. Some appear in the notes of several of the classes in this section, see in particular the definition of \"measuring\" in class <b>G01</b>. Others appear in paragraph 187 of the Guide to the IPC, see in particular the definitions of \"control\" and \"regulation\".</li><li>Classification in this section may present more difficulty than in other sections, because the distinction between different fields of use rests to a considerable extent on differences in the intention of the user rather than on any constructional differences or differences in the manner of use, and because the subjects dealt with are often in effect systems or combinations, which have features or parts in common, rather than \"things\", which are readily distinguishable as a whole. For example, information, e.g. a set of figures, may be displayed for the purpose of education or advertising covered by class <b>G09</b>, for enabling the result of a measurement to be known covered by class <b>G01</b>, for signalling the information to a distant point or for giving information which has been signalled from a distant point covered by class <b>G08</b>. The words used to describe the purpose depend on features that may be irrelevant to the form of the apparatus concerned, for example, such features as the desired effect on the person who sees the display, or whether the display is controlled from a remote point. Again, a device which responds to some change in a condition, e.g. in the pressure of a fluid, may be used, without modification of the device itself, to give information about the pressure covered by subclass <b>G01L</b> or about some other condition linked to the pressure covered by another subclass of class <b>G01</b>, e.g. <b>G01K</b> for temperature, to make a record of the pressure or of its occurrence covered by subclass <b>G07C</b>, to give an alarm covered by subclass <b>G08B</b>, or to control another apparatus covered by class <b>G05</b>. <ul><li>The classification scheme is intended to enable things of a similar nature, as indicated above, to be classified together. It is therefore particularly necessary for the real nature of any technical subject to be decided before it can be properly classified.</li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G21C1/00": {
+      "code": "G21C1/00",
+      "level": 0,
+      "parent": "G21C",
+      "ja": "原子炉の種類［２０１８．０１］",
+      "en": "Reactor types",
+      "count": 1641,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C1/02": {
+      "code": "G21C1/02",
+      "level": 1,
+      "parent": "G21C1/00",
+      "ja": "高速炉，すなわち減速材を用いない原子炉［２００６．０１］",
+      "en": "Fast fission reactors, i.e. reactors not using a moderator",
+      "count": 2225,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C1/03": {
+      "code": "G21C1/03",
+      "level": 2,
+      "parent": "G21C1/02",
+      "ja": "本質的に加圧されていない冷却材によって冷却されるもの，例．プール型原子炉［２００６．０１］",
+      "en": "cooled by a coolant not essentially pressurised, e.g. pool-type reactors",
+      "count": 387,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C1/04": {
+      "code": "G21C1/04",
+      "level": 1,
+      "parent": "G21C1/00",
+      "ja": "熱中性子炉［２００６．０１］",
+      "en": "Thermal reactors",
+      "count": 198,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C1/06": {
+      "code": "G21C1/06",
+      "level": 2,
+      "parent": "G21C1/04",
+      "ja": "非均質炉，すなわち燃料と減速材が分離しているもの［２００６．０１］",
+      "en": "Heterogeneous reactors, i.e. in which fuel and moderator are separated",
+      "count": 149,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C1/07": {
+      "code": "G21C1/07",
+      "level": 3,
+      "parent": "G21C1/06",
+      "ja": "ペブルベッド原子炉；粒状燃料をもつ原子炉［２００６．０１］",
+      "en": "Pebble-bed reactors; Reactors with granular fuel",
+      "count": 420,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C1/08": {
+      "code": "G21C1/08",
+      "level": 3,
+      "parent": "G21C1/06",
+      "ja": "減速材が高圧で加圧されているもの，例．沸騰水型原子炉，積分過熱型原子炉，加圧水型原子炉（Ｇ２１Ｃ１／２２が優先）  ［２００６．０１］",
+      "en": "moderator being highly pressurised, e.g. boiling-water reactor, integral-superheat reactor, pressurised-water reactor(<b>G21C1/22</b> takes precedence)",
+      "count": 1736,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C1/09": {
+      "code": "G21C1/09",
+      "level": 4,
+      "parent": "G21C1/08",
+      "ja": "圧力調整装置，すなわち加圧器［２００６．０１］",
+      "en": "Pressure regulating arrangements, i.e. pressurisers",
+      "count": 242,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C1/10": {
+      "code": "G21C1/10",
+      "level": 4,
+      "parent": "G21C1/08",
+      "ja": "減速材と冷却材が異なるか，または分離しているもの［２００６．０１］",
+      "en": "moderator and coolant being different or separated",
+      "count": 77,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C1/12": {
+      "code": "G21C1/12",
+      "level": 5,
+      "parent": "G21C1/10",
+      "ja": "減速材が固体であるもの，例．マグノックス炉［２００６．０１］",
+      "en": "moderator being solid, e.g. Magnox reactor",
+      "count": 404,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C1/14": {
+      "code": "G21C1/14",
+      "level": 3,
+      "parent": "G21C1/06",
+      "ja": "減速材が実質的に加圧されていないもの，例．水泳プール型原子炉（Ｇ２１Ｃ１／２２が優先）［２００６．０１］",
+      "en": "moderator being substantially not pressurised, e.g. swimming-pool reactor(<b>G21C1/22</b> takes precedence)",
+      "count": 159,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C1/16": {
+      "code": "G21C1/16",
+      "level": 4,
+      "parent": "G21C1/14",
+      "ja": "減速材と冷却材が異なるか，または分離しているもの，例．ナトリウム―黒鉛炉［２００６．０１］",
+      "en": "moderator and coolant being different or separated, e.g. sodium-graphite reactor",
+      "count": 76,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C1/18": {
+      "code": "G21C1/18",
+      "level": 5,
+      "parent": "G21C1/16",
+      "ja": "冷却材が加圧されているもの［２００６．０１］",
+      "en": "coolant being pressurised",
+      "count": 63,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C1/20": {
+      "code": "G21C1/20",
+      "level": 6,
+      "parent": "G21C1/18",
+      "ja": "減速材が液体のもの，例．圧力管型原子炉［２００６．０１］",
+      "en": "moderator being liquid, e.g. pressure-tube reactor",
+      "count": 617,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C1/22": {
+      "code": "G21C1/22",
+      "level": 3,
+      "parent": "G21C1/06",
+      "ja": "液体状または気体状燃料を用いるもの［２００６．０１］",
+      "en": "using liquid or gaseous fuel",
+      "count": 339,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C1/24": {
+      "code": "G21C1/24",
+      "level": 2,
+      "parent": "G21C1/04",
+      "ja": "均質炉，すなわち燃料および減速材が中性子に対して効果的な均質媒体として存在するもの［２００６．０１］",
+      "en": "Homogeneous reactors, i.e. in which fuel and moderator present an effectively homogeneous medium to the neutrons",
+      "count": 174,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C1/26": {
+      "code": "G21C1/26",
+      "level": 3,
+      "parent": "G21C1/24",
+      "ja": "単一領域型原子炉",
+      "en": "Single-region reactors",
+      "count": 48,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C1/28": {
+      "code": "G21C1/28",
+      "level": 3,
+      "parent": "G21C1/24",
+      "ja": "二領域型原子炉",
+      "en": "Two-region reactors",
+      "count": 55,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C1/30": {
+      "code": "G21C1/30",
+      "level": 1,
+      "parent": "G21C1/00",
+      "ja": "未臨界炉",
+      "en": "Subcritical reactors",
+      "count": 545,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C1/32": {
+      "code": "G21C1/32",
+      "level": 1,
+      "parent": "G21C1/00",
+      "ja": "一体型原子炉，すなわち機能的に原子炉と関連しているが反応には必須でない部分，例．熱交換器，が炉心をもつ密閉容器の内部に配置されている原子炉（Ｇ２１Ｃ１／０２～Ｇ２１Ｃ１／３０が優先）［３］",
+      "en": "Integral reactors, i.e. reactors wherein parts functionally associated with the reactor but not essential to the reaction, e.g. heat exchangers, are disposed inside the enclosure with the core(<b>G21C1/02 to G21C1/30</b>  take precedence)",
+      "count": 993,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C3/00": {
+      "code": "G21C3/00",
+      "level": 0,
+      "parent": "G21C",
+      "ja": "原子炉燃料要素またはその集合体；原子炉燃料用物質",
+      "en": "Reactor fuel elements or their assemblies; Selection of substances for use as reactor fuel elements",
+      "count": 1028,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C3/02": {
+      "code": "G21C3/02",
+      "level": 1,
+      "parent": "G21C3/00",
+      "ja": "燃料要素",
+      "en": "Fuel elements",
+      "count": 635,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C3/04": {
+      "code": "G21C3/04",
+      "level": 2,
+      "parent": "G21C3/02",
+      "ja": "構造の細部",
+      "en": "Constructional details",
+      "count": 1012,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C3/06": {
+      "code": "G21C3/06",
+      "level": 3,
+      "parent": "G21C3/04",
+      "ja": "被覆管；ジャケット",
+      "en": "Casings; Jackets",
+      "count": 1316,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C3/07": {
+      "code": "G21C3/07",
+      "level": 4,
+      "parent": "G21C3/06",
+      "ja": "被覆管またはジャケットの材料によって特徴づけられるもの，例．合金［５］",
+      "en": "characterised by their material, e.g. alloys",
+      "count": 1255,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C3/08": {
+      "code": "G21C3/08",
+      "level": 4,
+      "parent": "G21C3/06",
+      "ja": "熱交換を促進するために設けられた外部構造，例．ひれ，そらせ板，ひだ",
+      "en": "provided with external means to promote heat-transfer, e.g. fins, baffles, corrugations",
+      "count": 383,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C3/10": {
+      "code": "G21C3/10",
+      "level": 4,
+      "parent": "G21C3/06",
+      "ja": "端部閉塞部",
+      "en": "End closures",
+      "count": 749,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C3/12": {
+      "code": "G21C3/12",
+      "level": 4,
+      "parent": "G21C3/06",
+      "ja": "燃料要素を原子炉炉心内に設置するために燃料要素の一部を形成する手段；この目的のための外部スペーサ",
+      "en": "Means forming part of the element for locating it within the reactor core; External spacers for this purpose",
+      "count": 455,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C3/14": {
+      "code": "G21C3/14",
+      "level": 4,
+      "parent": "G21C3/06",
+      "ja": "燃料要素を炉心内に挿入または炉心から取り出すために燃料要素の一部を形成する手段；隣接燃料要素を結合する手段",
+      "en": "Means forming part of the element for inserting it into, or removing it from, the core; Means for coupling adjacent elements",
+      "count": 218,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C3/16": {
+      "code": "G21C3/16",
+      "level": 3,
+      "parent": "G21C3/04",
+      "ja": "燃料被覆管内の細部構造",
+      "en": "Details of the construction within the casing",
+      "count": 971,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C3/17": {
+      "code": "G21C3/17",
+      "level": 4,
+      "parent": "G21C3/16",
+      "ja": "燃料要素内の気体の貯蔵または不動化手段［５］",
+      "en": "Means for storage or immobilisation of gases in fuel elements",
+      "count": 339,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C3/18": {
+      "code": "G21C3/18",
+      "level": 4,
+      "parent": "G21C3/16",
+      "ja": "燃料被覆管の内部に設けられたスペーサーまたはその他の非活性物質，例．燃料棒の延びの補償，または過剰反応度の補償（中間層Ｇ２１Ｃ３／２０）",
+      "en": "Internal spacers or other non-active material within the casing, e.g. compensating for expansion of fuel rods or for compensating excess reactivity(interlayers <b>G21C3/20</b>)",
+      "count": 551,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C3/20": {
+      "code": "G21C3/20",
+      "level": 4,
+      "parent": "G21C3/16",
+      "ja": "燃料表面または燃料被覆管の内面に被覆を有するもの；燃料被覆管と活性物質の間に非活性物資を有するもの",
+      "en": "with coating on fuel or on inside of casing; with non-active interlayer between casing and active material",
+      "count": 994,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C3/22": {
+      "code": "G21C3/22",
+      "level": 2,
+      "parent": "G21C3/02",
+      "ja": "冷却材と接触する核分裂性または増殖性物質を有するもの",
+      "en": "with fissile or breeder material in contact with coolant",
+      "count": 117,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C3/24": {
+      "code": "G21C3/24",
+      "level": 2,
+      "parent": "G21C3/02",
+      "ja": "非活性燃料被覆管内に液体状の核分裂性または増殖性物質を有するもの",
+      "en": "with fissile or breeder material in fluid form within a non-active casing",
+      "count": 67,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C3/26": {
+      "code": "G21C3/26",
+      "level": 2,
+      "parent": "G21C3/02",
+      "ja": "非活性燃料被覆管内に粒子状の核分裂性または増殖性物質を有するもの",
+      "en": "with fissile or breeder material in powder form within a non-active casing",
+      "count": 92,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C3/28": {
+      "code": "G21C3/28",
+      "level": 2,
+      "parent": "G21C3/02",
+      "ja": "非活性燃料被覆管内に固体状の核分裂性または増殖性物質を有するもの",
+      "en": "with fissile or breeder material in solid form within a non-active casing",
+      "count": 830,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C3/30": {
+      "code": "G21C3/30",
+      "level": 1,
+      "parent": "G21C3/00",
+      "ja": "固定ユニットの形状をとる多数の燃料要素の集合体",
+      "en": "Assemblies of a number of fuel elements in the form of a rigid unit",
+      "count": 2241,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C3/32": {
+      "code": "G21C3/32",
+      "level": 2,
+      "parent": "G21C3/30",
+      "ja": "平行配列のピン状，棒状または管状の燃料要素の束",
+      "en": "Bundles of parallel pin-, rod-, or tube-shaped fuel elements",
+      "count": 2270,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C3/322": {
+      "code": "G21C3/322",
+      "level": 3,
+      "parent": "G21C3/32",
+      "ja": "燃料要素の束を通過するかあるいはその周囲を流れる冷却材流に影響を与える手段［５］",
+      "en": "Means to influence the coolant flow through or around the bundles",
+      "count": 1055,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C3/324": {
+      "code": "G21C3/324",
+      "level": 3,
+      "parent": "G21C3/32",
+      "ja": "燃料要素の束の被覆または覆い［５］",
+      "en": "Coats or envelopes for the bundles",
+      "count": 672,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C3/326": {
+      "code": "G21C3/326",
+      "level": 3,
+      "parent": "G21C3/32",
+      "ja": "燃料要素が異なる組成から成るもの；燃料要素に加えて，他のピン状，棒状または管状の要素から成るもの，例．制御棒，格子板支持棒，潜在核燃料棒，毒物棒またはダミー棒［５］",
+      "en": "comprising fuel elements of different composition; Comprising, in addition to the fuel elements, other pin-, rod-, or tube-shaped elements, e.g. control rods, grid support rods, fertile rods, poison rods or dummy rods",
+      "count": 1192,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C3/328": {
+      "code": "G21C3/328",
+      "level": 4,
+      "parent": "G21C3/326",
+      "ja": "燃料要素の束の格子における各要素の相対配置［５］",
+      "en": "Relative disposition of the elements in the bundle lattice",
+      "count": 1410,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C3/33": {
+      "code": "G21C3/33",
+      "level": 3,
+      "parent": "G21C3/32",
+      "ja": "燃料要素の束において各要素を支持または懸架するもの（スペーサー格子板Ｇ２１Ｃ３／３４）；炉心に燃料要素の束を挿入または炉心から取り除くために燃料要素の束の一部を形成する手段，隣接する燃料要素の束を連結する手段［５］",
+      "en": "Supporting or hanging of elements in the bundle(spacer grids <b>G21C3/34</b>);Means forming part of the bundle for inserting it into, or removing it from, the core; Means for coupling adjacent bundles",
+      "count": 2001,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C3/332": {
+      "code": "G21C3/332",
+      "level": 4,
+      "parent": "G21C3/33",
+      "ja": "スペーサー格子板の支持体［５］",
+      "en": "Supports for spacer grids",
+      "count": 252,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C3/334": {
+      "code": "G21C3/334",
+      "level": 3,
+      "parent": "G21C3/32",
+      "ja": "燃料要素の束の集合したもの［５］",
+      "en": "Assembling the bundles",
+      "count": 620,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C3/335": {
+      "code": "G21C3/335",
+      "level": 3,
+      "parent": "G21C3/32",
+      "ja": "照射された燃料要素において交換する各要素［５］",
+      "en": "Exchanging elements in irradiated bundles",
+      "count": 75,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C3/336": {
+      "code": "G21C3/336",
+      "level": 3,
+      "parent": "G21C3/32",
+      "ja": "燃料要素の束における燃料棒用のスペーサー要素（スペーサー格子板Ｇ２１Ｃ３／３４）［５］",
+      "en": "Spacer elements for fuel rods in the bundle(spacer grids <b>G21C3/34</b>)",
+      "count": 106,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C3/338": {
+      "code": "G21C3/338",
+      "level": 4,
+      "parent": "G21C3/336",
+      "ja": "らせん状スペーサー要素［５］",
+      "en": "Helicoidal spacer elements",
+      "count": 192,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C3/34": {
+      "code": "G21C3/34",
+      "level": 3,
+      "parent": "G21C3/32",
+      "ja": "スペーサ格子板",
+      "en": "Spacer grids",
+      "count": 1998,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C3/344": {
+      "code": "G21C3/344",
+      "level": 4,
+      "parent": "G21C3/34",
+      "ja": "管状要素の集合体により形成されるもの［５］",
+      "en": "formed of assembled tubular elements",
+      "count": 489,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C3/348": {
+      "code": "G21C3/348",
+      "level": 4,
+      "parent": "G21C3/34",
+      "ja": "交差しない帯板の集合体により形成されるもの［５］",
+      "en": "formed of assembled non-intersecting strips",
+      "count": 91,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C3/352": {
+      "code": "G21C3/352",
+      "level": 4,
+      "parent": "G21C3/34",
+      "ja": "交差する帯板の集合体により形成されるもの［５］",
+      "en": "formed of assembled intersecting strips",
+      "count": 232,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C3/356": {
+      "code": "G21C3/356",
+      "level": 4,
+      "parent": "G21C3/34",
+      "ja": "燃料要素支持部材を備えているもの［５］",
+      "en": "being provided with fuel element supporting members",
+      "count": 548,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C3/36": {
+      "code": "G21C3/36",
+      "level": 2,
+      "parent": "G21C3/30",
+      "ja": "板状燃料要素または同心円管の集合体",
+      "en": "Assemblies of plate-shaped fuel elements or coaxial tubes",
+      "count": 285,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C3/38": {
+      "code": "G21C3/38",
+      "level": 1,
+      "parent": "G21C3/00",
+      "ja": "支持スリーブ内の単一の燃料要素よりなる燃料ユニット",
+      "en": "Fuel units consisting of a single fuel element in a supporting sleeve",
+      "count": 193,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C3/40": {
+      "code": "G21C3/40",
+      "level": 1,
+      "parent": "G21C3/00",
+      "ja": "核分裂による熱から直接，電気エネルギーを発生させるための熱電素子と燃料要素との組合せ（温度測定用装置と燃料要素との組合せＧ２１Ｃ１７／１１２）",
+      "en": "Structural combination of fuel element with thermoelectric element for direct production of electric energy from fission heat(structural combination of fuel element with instruments for temperature measurement <b>G21C17/112</b>)",
+      "count": 150,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C3/42": {
+      "code": "G21C3/42",
+      "level": 1,
+      "parent": "G21C3/00",
+      "ja": "原子炉燃料として使用する物質の選択",
+      "en": "Selection of substances for use as reactor fuel",
+      "count": 187,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C3/44": {
+      "code": "G21C3/44",
+      "level": 2,
+      "parent": "G21C3/42",
+      "ja": "流体または流体状原子炉燃料",
+      "en": "Fluid or fluent reactor fuel",
+      "count": 36,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C3/46": {
+      "code": "G21C3/46",
+      "level": 3,
+      "parent": "G21C3/44",
+      "ja": "水溶液状組成",
+      "en": "Aqueous compositions",
+      "count": 6,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C3/48": {
+      "code": "G21C3/48",
+      "level": 4,
+      "parent": "G21C3/46",
+      "ja": "活性組成物の溶液またはコロイド状溶液",
+      "en": "True or colloidal solutions of the active constituent",
+      "count": 43,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C3/50": {
+      "code": "G21C3/50",
+      "level": 4,
+      "parent": "G21C3/46",
+      "ja": "活性組成物の懸濁液；スラリー",
+      "en": "Suspensions of the active constituent; Slurries",
+      "count": 20,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C3/52": {
+      "code": "G21C3/52",
+      "level": 3,
+      "parent": "G21C3/44",
+      "ja": "液体金属組成",
+      "en": "Liquid metal compositions",
+      "count": 53,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C3/54": {
+      "code": "G21C3/54",
+      "level": 3,
+      "parent": "G21C3/44",
+      "ja": "溶融塩，酸化物または水酸化物",
+      "en": "Fused salt, oxide, or hydroxide compositions",
+      "count": 255,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C3/56": {
+      "code": "G21C3/56",
+      "level": 3,
+      "parent": "G21C3/44",
+      "ja": "気体状組成；気体状担体中の懸濁",
+      "en": "Gaseous compositions; Suspensions in a gaseous carrier",
+      "count": 29,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C3/58": {
+      "code": "G21C3/58",
+      "level": 2,
+      "parent": "G21C3/42",
+      "ja": "固体状原子炉燃料",
+      "en": "Solid reactor fuel",
+      "count": 345,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C3/60": {
+      "code": "G21C3/60",
+      "level": 3,
+      "parent": "G21C3/58",
+      "ja": "金属燃料；金属分散体",
+      "en": "Metallic fuel; Intermetallic dispersions",
+      "count": 439,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C3/62": {
+      "code": "G21C3/62",
+      "level": 3,
+      "parent": "G21C3/58",
+      "ja": "セラミック燃料",
+      "en": "Ceramic fuel",
+      "count": 2713,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C3/64": {
+      "code": "G21C3/64",
+      "level": 4,
+      "parent": "G21C3/62",
+      "ja": "セラミック分散燃料，例．サーメット",
+      "en": "Ceramic dispersion fuel, e.g. cermet",
+      "count": 334,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C5/00": {
+      "code": "G21C5/00",
+      "level": 0,
+      "parent": "G21C",
+      "ja": "減速材または炉心の構造；減速材用材料の選択",
+      "en": "Moderator or core structure; Selection of materials for use as moderator",
+      "count": 1336,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C5/02": {
+      "code": "G21C5/02",
+      "level": 1,
+      "parent": "G21C5/00",
+      "ja": "細部",
+      "en": "Details",
+      "count": 537,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C5/04": {
+      "code": "G21C5/04",
+      "level": 2,
+      "parent": "G21C5/02",
+      "ja": "ウイグナー成長に対応できるような空間配置",
+      "en": "Spatial arrangements allowing for Wigner growth",
+      "count": 72,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C5/06": {
+      "code": "G21C5/06",
+      "level": 2,
+      "parent": "G21C5/02",
+      "ja": "燃料要素を支持または配置するための手段",
+      "en": "Means for locating or supporting fuel elements",
+      "count": 846,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C5/08": {
+      "code": "G21C5/08",
+      "level": 2,
+      "parent": "G21C5/02",
+      "ja": "全体構造の望ましくない非対称膨脹を防止するための手段",
+      "en": "Means for preventing undesired asymmetric expansion of the complete structure",
+      "count": 249,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C5/10": {
+      "code": "G21C5/10",
+      "level": 2,
+      "parent": "G21C5/02",
+      "ja": "全体構造を支持する手段",
+      "en": "Means for supporting the complete structure",
+      "count": 817,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C5/12": {
+      "code": "G21C5/12",
+      "level": 1,
+      "parent": "G21C5/00",
+      "ja": "組成に特徴のあるもの，例．減速材の耐熱性を改善する物質を付加した減速材",
+      "en": "characterised by composition, e.g. the moderator containing additional substances which ensure improved heat resistance of the moderator",
+      "count": 713,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C5/14": {
+      "code": "G21C5/14",
+      "level": 1,
+      "parent": "G21C5/00",
+      "ja": "形状に特徴のあるもの",
+      "en": "characterised by shape",
+      "count": 168,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C5/16": {
+      "code": "G21C5/16",
+      "level": 2,
+      "parent": "G21C5/14",
+      "ja": "構成部分の形状",
+      "en": "Shape of its constituent parts",
+      "count": 197,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C5/18": {
+      "code": "G21C5/18",
+      "level": 1,
+      "parent": "G21C5/00",
+      "ja": "二以上の活性領域を有することによって特徴づけられたもの",
+      "en": "characterised by the provision of more than one active zone",
+      "count": 300,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C5/20": {
+      "code": "G21C5/20",
+      "level": 2,
+      "parent": "G21C5/18",
+      "ja": "一つの領域が核分裂性物質を有し，他方の領域が増殖物質を有するもの",
+      "en": "wherein one zone contains fissile material and another zone contains breeder material",
+      "count": 298,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C5/22": {
+      "code": "G21C5/22",
+      "level": 2,
+      "parent": "G21C5/18",
+      "ja": "一つの領域が過熱部であるもの",
+      "en": "wherein one zone is a superheating zone",
+      "count": 38,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C7/00": {
+      "code": "G21C7/00",
+      "level": 0,
+      "parent": "G21C",
+      "ja": "原子核反応の制御［２００６．０１］",
+      "en": "Control of nuclear reaction",
+      "count": 1364,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C7/02": {
+      "code": "G21C7/02",
+      "level": 1,
+      "parent": "G21C7/00",
+      "ja": "原子炉材料の自己制御性を用いるもの（温度安定性を有する配置Ｇ２１Ｃ７／３２）［２００６．０１］",
+      "en": "by using self-regulating properties of reactor materials(arrangements that involve temperature stability <b>G21C7/32</b>)",
+      "count": 163,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C7/04": {
+      "code": "G21C7/04",
+      "level": 2,
+      "parent": "G21C7/02",
+      "ja": "可燃性毒物を用いるもの（燃料棒内の可燃性毒物Ｇ２１Ｃ３／３２６）［２００６．０１］",
+      "en": "of burnable poisons(burnable poisons in fuel rods <b>G21C3/326</b>)",
+      "count": 406,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C7/06": {
+      "code": "G21C7/06",
+      "level": 1,
+      "parent": "G21C7/00",
+      "ja": "中性子吸収材，すなわち散乱断面積よりもはるかに大きい吸収断面積を有する材料を応用したもの［２００６．０１］",
+      "en": "by application of neutron-absorbing material, i.e. material with absorption cross-section very much in excess of reflection cross-section",
+      "count": 424,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C7/08": {
+      "code": "G21C7/08",
+      "level": 2,
+      "parent": "G21C7/06",
+      "ja": "固体制御要素，例．制御棒，の変位によるもの［２００６．０１］",
+      "en": "by displacement of solid control elements, e.g. control rods",
+      "count": 1265,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C7/10": {
+      "code": "G21C7/10",
+      "level": 3,
+      "parent": "G21C7/08",
+      "ja": "制御要素の構造［２００６．０１］",
+      "en": "Construction of control elements",
+      "count": 1785,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C7/103": {
+      "code": "G21C7/103",
+      "level": 4,
+      "parent": "G21C7/10",
+      "ja": "１つ以上の吸収材のほかに，他の要素，例．燃料または減速材要素を含む制御集合体［２００６．０１］",
+      "en": "Control assemblies containing one or more absorbants as well as other elements, e.g. fuel or moderator elements",
+      "count": 159,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C7/107": {
+      "code": "G21C7/107",
+      "level": 4,
+      "parent": "G21C7/10",
+      "ja": "ペブルベッド原子炉に適合された制御要素［２００６．０１］",
+      "en": "Control elements adapted for pebble-bed reactors",
+      "count": 55,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C7/11": {
+      "code": "G21C7/11",
+      "level": 4,
+      "parent": "G21C7/10",
+      "ja": "変形可能な制御要素，例．可撓性，伸縮自在，関節式［２００６．０１］",
+      "en": "Deformable control elements, e.g. flexible, telescopic, articulated",
+      "count": 135,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C7/113": {
+      "code": "G21C7/113",
+      "level": 4,
+      "parent": "G21C7/10",
+      "ja": "平板要素で作られた制御要素；制御要素が十字形の横断面をもつもの［２００６．０１］",
+      "en": "Control elements made of flat elements; Control elements having cruciform cross-section",
+      "count": 487,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C7/117": {
+      "code": "G21C7/117",
+      "level": 4,
+      "parent": "G21C7/10",
+      "ja": "制御棒のクラスタ；スパイダー構造［２００６．０１］",
+      "en": "Clusters of control rods; Spider construction",
+      "count": 304,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C7/12": {
+      "code": "G21C7/12",
+      "level": 3,
+      "parent": "G21C7/08",
+      "ja": "制御要素を所望の位置に移動させる手段（緊急時における反応炉心へ制御棒を落下させるものＧ２１Ｃ９／０２）［２００６．０１］",
+      "en": "Means for moving control elements to desired position(dropping control rods into the reactor core in an emergency <b>G21C9/02</b>)",
+      "count": 1718,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C7/14": {
+      "code": "G21C7/14",
+      "level": 4,
+      "parent": "G21C7/12",
+      "ja": "機械的駆動機構［２００６．０１］",
+      "en": "Mechanical drive arrangements",
+      "count": 1778,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C7/16": {
+      "code": "G21C7/16",
+      "level": 4,
+      "parent": "G21C7/12",
+      "ja": "水圧または気圧式駆動機構［２００６．０１］",
+      "en": "Hydraulic or pneumatic drive arrangements",
+      "count": 1360,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C7/18": {
+      "code": "G21C7/18",
+      "level": 3,
+      "parent": "G21C7/08",
+      "ja": "制御要素に差動運動をあたえる手段［２００６．０１］",
+      "en": "Means for obtaining differential movement of control elements",
+      "count": 80,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C7/20": {
+      "code": "G21C7/20",
+      "level": 3,
+      "parent": "G21C7/08",
+      "ja": "衝撃吸収装置の配置［２００６．０１］",
+      "en": "Disposition of shock-absorbing devices",
+      "count": 325,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C7/22": {
+      "code": "G21C7/22",
+      "level": 2,
+      "parent": "G21C7/06",
+      "ja": "流体状または流動状中性子吸収材の変位によるもの［２００６．０１］",
+      "en": "by displacement of a fluid or fluent neutron-absorbing material",
+      "count": 588,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C7/24": {
+      "code": "G21C7/24",
+      "level": 2,
+      "parent": "G21C7/06",
+      "ja": "中性子吸収材用物質の選択［２００６．０１］",
+      "en": "Selection of substances for use as neutron-absorbing material",
+      "count": 553,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C7/26": {
+      "code": "G21C7/26",
+      "level": 1,
+      "parent": "G21C7/00",
+      "ja": "減速材またはその一部の変位によるもの［２００６．０１］",
+      "en": "by displacement of the moderator or parts thereof",
+      "count": 663,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C7/27": {
+      "code": "G21C7/27",
+      "level": 2,
+      "parent": "G21C7/26",
+      "ja": "スペクトルシフト制御［２００６．０１］",
+      "en": "Spectral shift control",
+      "count": 232,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C7/28": {
+      "code": "G21C7/28",
+      "level": 1,
+      "parent": "G21C7/00",
+      "ja": "反射材またはその一部の変位によるもの［２００６．０１］",
+      "en": "by displacement of the reflector or parts thereof",
+      "count": 269,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C7/30": {
+      "code": "G21C7/30",
+      "level": 1,
+      "parent": "G21C7/00",
+      "ja": "原子炉燃料またはその一部の燃料要素の変位によるもの［２００６．０１］",
+      "en": "by displacement of reactor fuel or fuel elements",
+      "count": 255,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C7/32": {
+      "code": "G21C7/32",
+      "level": 1,
+      "parent": "G21C7/00",
+      "ja": "炉心の冷却材の流れの変化によるもの［２００６．０１］",
+      "en": "by varying flow of coolant through the core",
+      "count": 316,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C7/34": {
+      "code": "G21C7/34",
+      "level": 1,
+      "parent": "G21C7/00",
+      "ja": "一次中性子源の利用によるもの［２００６．０１］",
+      "en": "by utilisation of a primary neutron source",
+      "count": 100,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C7/36": {
+      "code": "G21C7/36",
+      "level": 1,
+      "parent": "G21C7/00",
+      "ja": "制御回路［２００６．０１］",
+      "en": "Control circuits",
+      "count": 712,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C9/00": {
+      "code": "G21C9/00",
+      "level": 0,
+      "parent": "G21C",
+      "ja": "原子炉と構造上関連する緊急防護のための構成（緊急冷却のための構成Ｇ２１Ｃ１５／１８）",
+      "en": "Emergency protection arrangements structurally associated with the reactor(emergency cooling arrangements <b>G21C15/18</b>)",
+      "count": 3050,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C9/004": {
+      "code": "G21C9/004",
+      "level": 1,
+      "parent": "G21C9/00",
+      "ja": "圧力抑制［５］",
+      "en": "Pressure suppression",
+      "count": 1757,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C9/008": {
+      "code": "G21C9/008",
+      "level": 2,
+      "parent": "G21C9/004",
+      "ja": "破裂板またはダイアフラム［５］",
+      "en": "by rupture-discs or -diaphragms",
+      "count": 238,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C9/012": {
+      "code": "G21C9/012",
+      "level": 2,
+      "parent": "G21C9/004",
+      "ja": "熱蓄積によるものまたは蒸気凝縮によるもの，例．アイスコンデンサ［５］",
+      "en": "by thermal accumulation or by steam condensation, e.g. ice condensers",
+      "count": 355,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C9/016": {
+      "code": "G21C9/016",
+      "level": 1,
+      "parent": "G21C9/00",
+      "ja": "コアキャッチャー［５］",
+      "en": "Core catchers",
+      "count": 659,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C9/02": {
+      "code": "G21C9/02",
+      "level": 1,
+      "parent": "G21C9/00",
+      "ja": "事故時に反応度を急速に減少させるための手段，例．原子炉ヒューズ",
+      "en": "Means for effecting very rapid reduction of the reactivity factor under fault conditions, e.g. reactor fuse",
+      "count": 841,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C9/027": {
+      "code": "G21C9/027",
+      "level": 2,
+      "parent": "G21C9/02",
+      "ja": "固体，例．粒状吸収体，の高速投入によるもの［５］",
+      "en": "by fast movement of a solid, e.g. pebbles",
+      "count": 185,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C9/033": {
+      "code": "G21C9/033",
+      "level": 2,
+      "parent": "G21C9/02",
+      "ja": "吸収流体によるもの［５］",
+      "en": "by an absorbent fluid",
+      "count": 355,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C9/04": {
+      "code": "G21C9/04",
+      "level": 1,
+      "parent": "G21C9/00",
+      "ja": "火災を抑制するための手段",
+      "en": "Means for suppressing fires",
+      "count": 322,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C9/06": {
+      "code": "G21C9/06",
+      "level": 2,
+      "parent": "G21C9/04",
+      "ja": "爆発性ガスの蓄積を防止するための手段，例．再結合器［５］",
+      "en": "Means for preventing accumulation of explosives gases, e.g. recombiners",
+      "count": 272,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C11/00": {
+      "code": "G21C11/00",
+      "level": 0,
+      "parent": "G21C",
+      "ja": "原子炉と構造上関連する遮へい",
+      "en": "Shielding structurally associated with the reactor",
+      "count": 394,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C11/02": {
+      "code": "G21C11/02",
+      "level": 1,
+      "parent": "G21C11/00",
+      "ja": "生体遮へい",
+      "en": "Biological shielding",
+      "count": 939,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C11/04": {
+      "code": "G21C11/04",
+      "level": 2,
+      "parent": "G21C11/02",
+      "ja": "船舶におけるもの",
+      "en": "on waterborne craft",
+      "count": 82,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C11/06": {
+      "code": "G21C11/06",
+      "level": 1,
+      "parent": "G21C11/00",
+      "ja": "反射用遮へい，すなわち中性子の損失を最小にするためのもの",
+      "en": "Reflecting shields, i.e. for minimising loss of neutrons",
+      "count": 400,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C11/08": {
+      "code": "G21C11/08",
+      "level": 1,
+      "parent": "G21C11/00",
+      "ja": "熱遮へい；遮熱内張り，すなわちガンマ線により発生し，外側の生体遮へいを加熱するおそれのある熱を消散させるための手段",
+      "en": "Thermal shields; Thermal linings, i.e. for dissipating heat from gamma radiation which would otherwise heat an outer biological shield",
+      "count": 952,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C13/00": {
+      "code": "G21C13/00",
+      "level": 0,
+      "parent": "G21C",
+      "ja": "圧力容器；格納容器；格納一般",
+      "en": "Pressure vessels; Containment vessels; Containment in general",
+      "count": 5495,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C13/02": {
+      "code": "G21C13/02",
+      "level": 1,
+      "parent": "G21C13/00",
+      "ja": "細部",
+      "en": "Details",
+      "count": 2616,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C13/024": {
+      "code": "G21C13/024",
+      "level": 2,
+      "parent": "G21C13/02",
+      "ja": "圧力容器または格納容器の支持構造［５］",
+      "en": "Supporting constructions for pressure vessels or containment vessels",
+      "count": 1214,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C13/028": {
+      "code": "G21C13/028",
+      "level": 2,
+      "parent": "G21C13/02",
+      "ja": "密封，例．圧力容器または格納容器のためのもの［５］",
+      "en": "Seals, e.g. for pressure vessels or containment vessels",
+      "count": 841,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C13/032": {
+      "code": "G21C13/032",
+      "level": 2,
+      "parent": "G21C13/02",
+      "ja": "管と容器壁間の継ぎ手，例．熱応力を考慮に入れるもの［５］",
+      "en": "Joints between tubes and vessel walls, e.g. taking into account thermal stresses",
+      "count": 322,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C13/036": {
+      "code": "G21C13/036",
+      "level": 3,
+      "parent": "G21C13/032",
+      "ja": "容器壁内を貫通する管，すなわち壁の両側まで伸びているもの［５］",
+      "en": "the tube passing through the vessel wall, i.e. continuing on both sides of the wall",
+      "count": 530,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C13/04": {
+      "code": "G21C13/04",
+      "level": 2,
+      "parent": "G21C13/02",
+      "ja": "膨脹および収縮のための構成",
+      "en": "Arrangements for expansion and contraction",
+      "count": 244,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C13/06": {
+      "code": "G21C13/06",
+      "level": 2,
+      "parent": "G21C13/02",
+      "ja": "気密プラグ",
+      "en": "Sealing-plugs",
+      "count": 845,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C13/067": {
+      "code": "G21C13/067",
+      "level": 3,
+      "parent": "G21C13/06",
+      "ja": "管状部材のためのもの，例．スタンドパイプ；プラグ用ロック装置［５］",
+      "en": "for tubes, e.g. standpipes; Locking devices for plugs",
+      "count": 322,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C13/073": {
+      "code": "G21C13/073",
+      "level": 3,
+      "parent": "G21C13/06",
+      "ja": "原子炉容器用の蓋，例．回転可能なもの［５］",
+      "en": "Closures for reactor-vessels, e.g. rotatable",
+      "count": 875,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C13/08": {
+      "code": "G21C13/08",
+      "level": 1,
+      "parent": "G21C13/00",
+      "ja": "材料に特徴のある容器；圧力容器用材料の選択",
+      "en": "Vessels characterised by the material; Selection of materials for pressure vessels",
+      "count": 284,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C13/087": {
+      "code": "G21C13/087",
+      "level": 2,
+      "parent": "G21C13/08",
+      "ja": "金属製容器［５］",
+      "en": "Metallic vessels",
+      "count": 365,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C13/093": {
+      "code": "G21C13/093",
+      "level": 2,
+      "parent": "G21C13/08",
+      "ja": "コンクリート容器［５］",
+      "en": "Concrete vessels",
+      "count": 368,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C13/10": {
+      "code": "G21C13/10",
+      "level": 1,
+      "parent": "G21C13/00",
+      "ja": "漏洩による汚染を防ぐための手段",
+      "en": "Means for preventing contamination in event of leakage",
+      "count": 594,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C15/00": {
+      "code": "G21C15/00",
+      "level": 0,
+      "parent": "G21C",
+      "ja": "炉心を有する圧力容器内の冷却系；特定の冷却材の選択",
+      "en": "Cooling arrangements within the pressure vessel containing the core; Selection of specific coolants",
+      "count": 1310,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C15/02": {
+      "code": "G21C15/02",
+      "level": 1,
+      "parent": "G21C15/00",
+      "ja": "熱を冷却材に伝達する径路の構造または配置，例．燃料要素の支持物を通して冷却材を循環するためのもの",
+      "en": "Arrangement or disposition of passages in which heat is transferred to the coolant, e.g. for coolant circulation through the supports of the fuel elements",
+      "count": 2392,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C15/04": {
+      "code": "G21C15/04",
+      "level": 2,
+      "parent": "G21C15/02",
+      "ja": "核分裂性または増殖物質から熱を取り出すもの",
+      "en": "from fissile or breeder material",
+      "count": 313,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C15/06": {
+      "code": "G21C15/06",
+      "level": 3,
+      "parent": "G21C15/04",
+      "ja": "燃料要素におけるもの",
+      "en": "in fuel elements",
+      "count": 617,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C15/08": {
+      "code": "G21C15/08",
+      "level": 2,
+      "parent": "G21C15/02",
+      "ja": "減速材から熱を取り出すもの",
+      "en": "from moderating material",
+      "count": 90,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C15/10": {
+      "code": "G21C15/10",
+      "level": 2,
+      "parent": "G21C15/02",
+      "ja": "反射材または熱遮へいから熱を取り出すもの",
+      "en": "from reflector or thermal shield",
+      "count": 101,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C15/12": {
+      "code": "G21C15/12",
+      "level": 2,
+      "parent": "G21C15/02",
+      "ja": "圧力容器から熱を取り出すもの",
+      "en": "from pressure vessel; from containment vessel",
+      "count": 861,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C15/14": {
+      "code": "G21C15/14",
+      "level": 2,
+      "parent": "G21C15/02",
+      "ja": "熱流体を導く導管から熱を取り出すもの；補助装置，例．ポンプ，カメラ，を含んでなる導管から熱を取り出すもの",
+      "en": "from ducts conducting a hot fluid; from ducts comprising auxiliary apparatus, e.g. pumps, cameras",
+      "count": 823,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C15/16": {
+      "code": "G21C15/16",
+      "level": 1,
+      "parent": "G21C15/00",
+      "ja": "気液分離手段を含むもの",
+      "en": "comprising means for separating liquid and steam",
+      "count": 529,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C15/18": {
+      "code": "G21C15/18",
+      "level": 1,
+      "parent": "G21C15/00",
+      "ja": "緊急冷却系；原子炉停止後に発生する熱を除去するもの",
+      "en": "Emergency cooling arrangements; Removing shut-down heat",
+      "count": 5451,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C15/20": {
+      "code": "G21C15/20",
+      "level": 1,
+      "parent": "G21C15/00",
+      "ja": "燃料チャンネルと減速材の間の仕切りまたは熱絶縁，例．圧力管形原子炉におけるもの",
+      "en": "Partitions or thermal insulation between fuel channel and moderator, e.g. in pressure tube reactors",
+      "count": 115,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C15/22": {
+      "code": "G21C15/22",
+      "level": 1,
+      "parent": "G21C15/00",
+      "ja": "ヘッダまたは他の管と冷却管の結合構造，例．圧力管形原子炉におけるもの［４］",
+      "en": "Structural association of coolant tubes with headers or other pipes, e.g. in pressure tube reactors",
+      "count": 381,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C15/24": {
+      "code": "G21C15/24",
+      "level": 1,
+      "parent": "G21C15/00",
+      "ja": "冷却材の流れを促進するもの",
+      "en": "Promoting flow of the coolant",
+      "count": 779,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C15/243": {
+      "code": "G21C15/243",
+      "level": 2,
+      "parent": "G21C15/24",
+      "ja": "液体用［５］",
+      "en": "for liquids",
+      "count": 1254,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C15/247": {
+      "code": "G21C15/247",
+      "level": 3,
+      "parent": "G21C15/243",
+      "ja": "液体金属用［５］",
+      "en": "for liquid metals",
+      "count": 330,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C15/25": {
+      "code": "G21C15/25",
+      "level": 3,
+      "parent": "G21C15/243",
+      "ja": "ジェットポンプを用いるもの［５］",
+      "en": "using jet pumps",
+      "count": 473,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C15/253": {
+      "code": "G21C15/253",
+      "level": 2,
+      "parent": "G21C15/24",
+      "ja": "気体用，例．送風装置［５］",
+      "en": "for gases, e.g. blowers",
+      "count": 222,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C15/257": {
+      "code": "G21C15/257",
+      "level": 2,
+      "parent": "G21C15/24",
+      "ja": "ヒートパイプを用いるもの［５］",
+      "en": "using heat-pipes",
+      "count": 273,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C15/26": {
+      "code": "G21C15/26",
+      "level": 2,
+      "parent": "G21C15/24",
+      "ja": "対流によるもの，例．煙突状のもの，放散チャンネルを用いるもの",
+      "en": "by convection, e.g. using chimneys, using divergent channels",
+      "count": 261,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C15/28": {
+      "code": "G21C15/28",
+      "level": 1,
+      "parent": "G21C15/00",
+      "ja": "特定の冷却材の選択（減速材として用いられる場合Ｇ２１Ｃ５／１２）",
+      "en": "Selection of specific coolants(if serving as the moderator <b>G21C5/12</b>)",
+      "count": 539,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C17/00": {
+      "code": "G21C17/00",
+      "level": 0,
+      "parent": "G21C",
+      "ja": "監視；試験",
+      "en": "Monitoring; Testing",
+      "count": 10732,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C17/003": {
+      "code": "G21C17/003",
+      "level": 1,
+      "parent": "G21C17/00",
+      "ja": "容器，例．圧力容器，の遠隔検査［５］",
+      "en": "Remote inspection of vessels, e.g. pressure vessels",
+      "count": 3171,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C17/007": {
+      "code": "G21C17/007",
+      "level": 2,
+      "parent": "G21C17/003",
+      "ja": "容器の外側表面の検査［５］",
+      "en": "Inspection of the outer surfaces of vessels",
+      "count": 157,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C17/01": {
+      "code": "G21C17/01",
+      "level": 2,
+      "parent": "G21C17/003",
+      "ja": "容器の内側表面の検査［５］",
+      "en": "Inspection of the inner surfaces of vessels",
+      "count": 360,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C17/013": {
+      "code": "G21C17/013",
+      "level": 2,
+      "parent": "G21C17/003",
+      "ja": "検査をする移動体［５］",
+      "en": "Inspection vehicles",
+      "count": 620,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C17/017": {
+      "code": "G21C17/017",
+      "level": 1,
+      "parent": "G21C17/00",
+      "ja": "原子力設備内の配管または管の検査または保守［５］",
+      "en": "Inspection or maintenance of pipe-lines or tubes in nuclear installations",
+      "count": 1558,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C17/02": {
+      "code": "G21C17/02",
+      "level": 1,
+      "parent": "G21C17/00",
+      "ja": "冷却材もしくは減速材を監視するための装置または配置",
+      "en": "Devices or arrangements for monitoring coolant or moderator",
+      "count": 2168,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C17/022": {
+      "code": "G21C17/022",
+      "level": 2,
+      "parent": "G21C17/02",
+      "ja": "液体冷却材または減速材を監視するためのもの［５］",
+      "en": "for monitoring liquid coolants or moderators",
+      "count": 681,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C17/025": {
+      "code": "G21C17/025",
+      "level": 3,
+      "parent": "G21C17/022",
+      "ja": "液体金属冷却材を監視するためのもの［５］",
+      "en": "for monitoring liquid metal coolants",
+      "count": 539,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C17/028": {
+      "code": "G21C17/028",
+      "level": 2,
+      "parent": "G21C17/02",
+      "ja": "気体冷却材を監視するためのもの［５］",
+      "en": "for monitoring gaseous coolants",
+      "count": 122,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C17/032": {
+      "code": "G21C17/032",
+      "level": 2,
+      "parent": "G21C17/02",
+      "ja": "原子炉冷却材の流れの測定または監視［５］",
+      "en": "Reactor-coolant flow measuring or monitoring",
+      "count": 510,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C17/035": {
+      "code": "G21C17/035",
+      "level": 2,
+      "parent": "G21C17/02",
+      "ja": "減速材または冷却材のレベル検出装置［５］",
+      "en": "Moderator- or coolant-level detecting devices",
+      "count": 533,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C17/038": {
+      "code": "G21C17/038",
+      "level": 2,
+      "parent": "G21C17/02",
+      "ja": "減速材または冷却材の沸騰検出［５］",
+      "en": "Boiling detection in moderator or coolant",
+      "count": 134,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C17/04": {
+      "code": "G21C17/04",
+      "level": 2,
+      "parent": "G21C17/02",
+      "ja": "破片の検出",
+      "en": "Detecting burst slugs",
+      "count": 683,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C17/06": {
+      "code": "G21C17/06",
+      "level": 1,
+      "parent": "G21C17/00",
+      "ja": "燃料もしくは燃料要素を炉心の外側で監視また検査するための装置または配置，例．バーンアップ，汚染に対するもの（Ｇ２１Ｃ１７／０８，Ｇ２１Ｃ１７／１０が優先；原子炉運転中の燃料要素の漏洩の検出Ｇ２１Ｃ１７／０４）",
+      "en": "Devices or arrangements for monitoring or testing fuel or fuel elements outside the reactor core, e.g. for burn-up, for contamination(<b>G21C17/08</b>, <b>G21C17/10</b> take precedence; detecting leaking fuel elements during reactor operation <b>G21C17/04</b>)",
+      "count": 3222,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C17/07": {
+      "code": "G21C17/07",
+      "level": 2,
+      "parent": "G21C17/06",
+      "ja": "漏洩試験［５］",
+      "en": "Leak testing",
+      "count": 954,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C17/08": {
+      "code": "G21C17/08",
+      "level": 1,
+      "parent": "G21C17/00",
+      "ja": "炉心または減速材構造と観察装置，例．テレビジョンカメラ，ペリスコープ，窓，との組合せ",
+      "en": "Structural combination of reactor core or moderator structure with viewing means, e.g. with television camera, periscope, window",
+      "count": 912,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C17/10": {
+      "code": "G21C17/10",
+      "level": 1,
+      "parent": "G21C17/00",
+      "ja": "燃料要素，制御棒，炉心または減速材構造と感知計器，例．放射能，ひずみ測定手段との組合せ",
+      "en": "Structural combination of fuel element, control rod, reactor core, or moderator structure with sensitive instruments, e.g. for measuring radioactivity, strain",
+      "count": 3941,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C17/104": {
+      "code": "G21C17/104",
+      "level": 2,
+      "parent": "G21C17/10",
+      "ja": "反応度を測定するもの［５］",
+      "en": "Measuring reactivity",
+      "count": 243,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C17/108": {
+      "code": "G21C17/108",
+      "level": 2,
+      "parent": "G21C17/10",
+      "ja": "原子炉のフラックスを測定するもの［５］",
+      "en": "Measuring reactor flux",
+      "count": 1286,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C17/112": {
+      "code": "G21C17/112",
+      "level": 2,
+      "parent": "G21C17/10",
+      "ja": "温度を測定するもの［５］",
+      "en": "Measuring temperature",
+      "count": 616,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C17/116": {
+      "code": "G21C17/116",
+      "level": 2,
+      "parent": "G21C17/10",
+      "ja": "通路または絶縁体，例．電気ケーブル用［５］",
+      "en": "Passages or insulators, e.g. for electric cables",
+      "count": 184,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C17/12": {
+      "code": "G21C17/12",
+      "level": 2,
+      "parent": "G21C17/10",
+      "ja": "制御要素の一部を形成する検出素子",
+      "en": "Sensitive element forming part of control element",
+      "count": 518,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C17/14": {
+      "code": "G21C17/14",
+      "level": 1,
+      "parent": "G21C17/00",
+      "ja": "原子炉周期計",
+      "en": "Period meters",
+      "count": 133,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C19/00": {
+      "code": "G21C19/00",
+      "level": 0,
+      "parent": "G21C",
+      "ja": "原子炉内，例．その圧力容器内，で使用される燃料またはその他の物資の処理，取扱い，または取扱いを容易にするための構成［２］",
+      "en": "Arrangements for treating, for handling, or for facilitating the handling of, fuel or other materials which are used within the reactor, e.g. within its pressure vessel",
+      "count": 1287,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C19/02": {
+      "code": "G21C19/02",
+      "level": 1,
+      "parent": "G21C19/00",
+      "ja": "取扱い装置の細部",
+      "en": "Details of handling arrangements",
+      "count": 3528,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C19/04": {
+      "code": "G21C19/04",
+      "level": 2,
+      "parent": "G21C19/02",
+      "ja": "取り扱われる物体に対する冷却材の流れを制御するための手段；取り扱われるチャンネルを流れる冷却材の流れを制御するための手段",
+      "en": "Means for controlling flow of coolant over objects being handled; Means for controlling flow of coolant through channel being serviced",
+      "count": 247,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C19/06": {
+      "code": "G21C19/06",
+      "level": 2,
+      "parent": "G21C19/02",
+      "ja": "燃料要素または制御要素を支持または貯蔵するための手段［４］",
+      "en": "Means for supporting or storing fuel elements or control elements",
+      "count": 1775,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C19/07": {
+      "code": "G21C19/07",
+      "level": 3,
+      "parent": "G21C19/06",
+      "ja": "貯蔵ラック；貯蔵プール［５］",
+      "en": "Storage racks; Storage pools",
+      "count": 1924,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C19/08": {
+      "code": "G21C19/08",
+      "level": 2,
+      "parent": "G21C19/02",
+      "ja": "燃料要素を炉心内に導入する前に加熱するための手段；炉心から燃料要素を除去した後，加熱または冷却する手段",
+      "en": "Means for heating fuel elements before introduction into the core; Means for heating or cooling fuel elements after removal from the core",
+      "count": 203,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C19/10": {
+      "code": "G21C19/10",
+      "level": 2,
+      "parent": "G21C19/02",
+      "ja": "燃料要素または制御要素と協同して用いられる扛重または巻上げ装置",
+      "en": "Lifting devices or pulling devices adapted for co-operation with fuel elements or with control elements",
+      "count": 995,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C19/105": {
+      "code": "G21C19/105",
+      "level": 3,
+      "parent": "G21C19/10",
+      "ja": "把持または拡張継ぎ手要素をもつもの［５］",
+      "en": "with grasping or spreading coupling elements",
+      "count": 578,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C19/11": {
+      "code": "G21C19/11",
+      "level": 3,
+      "parent": "G21C19/10",
+      "ja": "回転継ぎ手要素をもつもの，例．ソケット継ぎ手［５］",
+      "en": "with revolving coupling elements, e.g. socket coupling",
+      "count": 87,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C19/115": {
+      "code": "G21C19/115",
+      "level": 3,
+      "parent": "G21C19/10",
+      "ja": "掛け金装置とボール継ぎ手をもつもの［５］",
+      "en": "with latching devices and ball couplings",
+      "count": 73,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C19/12": {
+      "code": "G21C19/12",
+      "level": 2,
+      "parent": "G21C19/02",
+      "ja": "燃料要素または制御要素に直接，水圧または気圧による力を加えるための構成",
+      "en": "Arrangements for exerting direct hydraulic or pneumatic force on fuel element or on control element",
+      "count": 95,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C19/14": {
+      "code": "G21C19/14",
+      "level": 1,
+      "parent": "G21C19/00",
+      "ja": "原子炉内の水平チャンネルに用いられることに特徴のあるもの",
+      "en": "characterised by their adaptation for use with horizontal channels in the reactor core",
+      "count": 147,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C19/16": {
+      "code": "G21C19/16",
+      "level": 1,
+      "parent": "G21C19/00",
+      "ja": "原子炉内のチャンネルと連通するための関節結合部を有する，または，入れこ式シュートまたは導管",
+      "en": "Articulated or telescopic chutes or tubes for connection to channels in the reactor core",
+      "count": 422,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C19/18": {
+      "code": "G21C19/18",
+      "level": 1,
+      "parent": "G21C19/00",
+      "ja": "燃料要素を，例．貯蔵所から，原子炉の装填領域に移送する装置",
+      "en": "Apparatus for bringing fuel elements to the reactor charge area, e.g. from a storage place",
+      "count": 898,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C19/19": {
+      "code": "G21C19/19",
+      "level": 1,
+      "parent": "G21C19/00",
+      "ja": "取扱いを容易にするために特に用いられる原子炉の部品，例．燃料要素の装填または取出しを容易にするためのもの［３］",
+      "en": "Reactor parts specifically adapted to facilitate handling, e.g. to facilitate charging or discharging of fuel elements",
+      "count": 1525,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C19/20": {
+      "code": "G21C19/20",
+      "level": 1,
+      "parent": "G21C19/00",
+      "ja": "目的物を圧力容器内に導入するための構成；圧力容器内で目的物を取り扱うための構成；圧力容器から目的物を取り出すための構成",
+      "en": "Arrangements for introducing objects into the pressure vessel; Arrangements for handling objects within the pressure vessel; Arrangements for removing objects from the pressure vessel",
+      "count": 2681,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C19/22": {
+      "code": "G21C19/22",
+      "level": 2,
+      "parent": "G21C19/20",
+      "ja": "原子炉作動中に圧力容器の内部に近接できるための構成",
+      "en": "Arrangements for obtaining access to the interior of a pressure vessel whilst the reactor is operating",
+      "count": 96,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C19/24": {
+      "code": "G21C19/24",
+      "level": 3,
+      "parent": "G21C19/22",
+      "ja": "圧力容器を一時的に密封する補助容器を用いることによるもの",
+      "en": "by using an auxiliary vessel which is temporarily sealed to the pressure vessel",
+      "count": 58,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C19/26": {
+      "code": "G21C19/26",
+      "level": 1,
+      "parent": "G21C19/00",
+      "ja": "変形または破損した燃料要素または制御要素を取り出すための構成；その破損部分を移送する構成",
+      "en": "Arrangements for removing jammed or damaged fuel elements or control elements; Arrangements for moving broken parts thereof",
+      "count": 364,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C19/28": {
+      "code": "G21C19/28",
+      "level": 1,
+      "parent": "G21C19/00",
+      "ja": "流体状物質を炉心内に導入するための構成；炉心から流体状物質を取り出すための構成",
+      "en": "Arrangements for introducing fluent material into the reactor core; Arrangements for removing fluent material from the reactor core",
+      "count": 499,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C19/30": {
+      "code": "G21C19/30",
+      "level": 2,
+      "parent": "G21C19/28",
+      "ja": "循環する流体状物質を，例．核分裂生成物の抽出により，連続的に浄化するもの",
+      "en": "with continuous purification of circulating fluent material, e.g. by extraction of fission products",
+      "count": 1079,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C19/303": {
+      "code": "G21C19/303",
+      "level": 3,
+      "parent": "G21C19/30",
+      "ja": "特に気体用に適合されたもの（気体の汚染除去Ｇ２１Ｆ９／０２）［５］",
+      "en": "specially adapted for gases(decontamination of gases <b>G21F9/02</b>)",
+      "count": 252,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C19/307": {
+      "code": "G21C19/307",
+      "level": 3,
+      "parent": "G21C19/30",
+      "ja": "特に液体用に適合されたもの（液体の汚染除去Ｇ２１Ｆ９／０４）［５］",
+      "en": "specially adapted for liquids(decontamination of liquids <b>G21F9/04</b>)",
+      "count": 1373,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C19/31": {
+      "code": "G21C19/31",
+      "level": 4,
+      "parent": "G21C19/307",
+      "ja": "溶融金属用［５］",
+      "en": "for molten metals",
+      "count": 187,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C19/313": {
+      "code": "G21C19/313",
+      "level": 5,
+      "parent": "G21C19/31",
+      "ja": "コールドトラップを用いるもの［５］",
+      "en": "using cold traps",
+      "count": 267,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C19/317": {
+      "code": "G21C19/317",
+      "level": 3,
+      "parent": "G21C19/30",
+      "ja": "放射線分解生成物のための再結合装置［５］",
+      "en": "Recombination devices for radiolytic dissociation products",
+      "count": 141,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C19/32": {
+      "code": "G21C19/32",
+      "level": 1,
+      "parent": "G21C19/00",
+      "ja": "放射性物体または物質を原子炉の取出し領域から，例．貯蔵所へ，移送するための装置；放射性物体または材料を貯蔵所内で取り扱うかまたは貯蔵所から取り出す装置（廃棄物処理Ｇ２１Ｆ９／００）",
+      "en": "Apparatus for removing radioactive objects or materials from the reactor discharge area, e.g. to a storage place; Apparatus for handling radioactive objects or materials within a storage place or removing them therefrom(disposal of waste material <b>G21F9/00</b>)",
+      "count": 2674,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C19/33": {
+      "code": "G21C19/33",
+      "level": 1,
+      "parent": "G21C19/00",
+      "ja": "使用済み燃料要素のストリングを分解する装置または方法（Ｇ２１Ｃ１９／３４が優先）［２］",
+      "en": "Apparatus or processes for dismantling strings of spent fuel elements(<b>G21C19/34</b> takes precedence)",
+      "count": 322,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C19/34": {
+      "code": "G21C19/34",
+      "level": 1,
+      "parent": "G21C19/00",
+      "ja": "核燃料を分解する装置と方法，例．再処理の前工程［５］",
+      "en": "Apparatus or processes for dismantling nuclear fuel, e.g. before reprocessing",
+      "count": 266,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C19/36": {
+      "code": "G21C19/36",
+      "level": 2,
+      "parent": "G21C19/34",
+      "ja": "機械的手段のみ",
+      "en": "Mechanical means only",
+      "count": 321,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C19/365": {
+      "code": "G21C19/365",
+      "level": 3,
+      "parent": "G21C19/36",
+      "ja": "燃料からその被覆またはケーシングを除去するもの［５］",
+      "en": "Removing cannings or casings from fuel",
+      "count": 73,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C19/37": {
+      "code": "G21C19/37",
+      "level": 4,
+      "parent": "G21C19/365",
+      "ja": "被覆またはケーシングと燃料要素の両方を小片に分割することによるもの，例．切断または剪断によるもの［５］",
+      "en": "by separating into pieces both the canning or the casing and the fuel element, e.g. by cutting or shearing",
+      "count": 183,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C19/375": {
+      "code": "G21C19/375",
+      "level": 3,
+      "parent": "G21C19/36",
+      "ja": "減容化装置，例．燃料集合体用［５］",
+      "en": "Compacting devices, e.g. for fuel assemblies",
+      "count": 68,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C19/38": {
+      "code": "G21C19/38",
+      "level": 2,
+      "parent": "G21C19/34",
+      "ja": "化学的手段のみ",
+      "en": "Chemical means only",
+      "count": 126,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C19/40": {
+      "code": "G21C19/40",
+      "level": 1,
+      "parent": "G21C19/00",
+      "ja": "臨界状態が，例．貯蔵中に，生ずるのを防止するための構成",
+      "en": "Arrangements for preventing occurrence of critical conditions, e.g. during storage",
+      "count": 703,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C19/42": {
+      "code": "G21C19/42",
+      "level": 1,
+      "parent": "G21C19/00",
+      "ja": "照射済燃料の再処理",
+      "en": "Reprocessing of irradiated fuel",
+      "count": 441,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C19/44": {
+      "code": "G21C19/44",
+      "level": 2,
+      "parent": "G21C19/42",
+      "ja": "照射済固体燃料について",
+      "en": "of irradiated solid fuel",
+      "count": 601,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C19/46": {
+      "code": "G21C19/46",
+      "level": 3,
+      "parent": "G21C19/44",
+      "ja": "水溶液による処理",
+      "en": "Aqueous processes",
+      "count": 1717,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C19/48": {
+      "code": "G21C19/48",
+      "level": 3,
+      "parent": "G21C19/44",
+      "ja": "非水溶液による処理",
+      "en": "Non-aqueous processes",
+      "count": 393,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C19/50": {
+      "code": "G21C19/50",
+      "level": 2,
+      "parent": "G21C19/42",
+      "ja": "照射済流体状燃料について",
+      "en": "of irradiated fluid fuel",
+      "count": 94,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C21/00": {
+      "code": "G21C21/00",
+      "level": 0,
+      "parent": "G21C",
+      "ja": "原子炉またはその部分品の製造のために特に用いられる装置または方法",
+      "en": "Apparatus or processes specially adapted to the manufacture of reactors or parts thereof",
+      "count": 1450,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C21/02": {
+      "code": "G21C21/02",
+      "level": 1,
+      "parent": "G21C21/00",
+      "ja": "非活性被覆管内の燃料要素または増殖要素の製造",
+      "en": "Manufacture of fuel elements or breeder elements contained in non-active casings",
+      "count": 2156,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C21/04": {
+      "code": "G21C21/04",
+      "level": 2,
+      "parent": "G21C21/02",
+      "ja": "振動による詰込みまたは押圧によるもの",
+      "en": "by vibrational compaction or tamping",
+      "count": 118,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C21/06": {
+      "code": "G21C21/06",
+      "level": 2,
+      "parent": "G21C21/02",
+      "ja": "スウェジによるもの",
+      "en": "by swaging",
+      "count": 30,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C21/08": {
+      "code": "G21C21/08",
+      "level": 2,
+      "parent": "G21C21/02",
+      "ja": "すべりはめ（スリップフイット）被覆方法によるもの",
+      "en": "by a slip-fit cladding process",
+      "count": 56,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C21/10": {
+      "code": "G21C21/10",
+      "level": 2,
+      "parent": "G21C21/02",
+      "ja": "押出し，引抜きまたは引伸しによるもの",
+      "en": "by extrusion, drawing, or stretching",
+      "count": 224,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C21/12": {
+      "code": "G21C21/12",
+      "level": 2,
+      "parent": "G21C21/02",
+      "ja": "水圧または高温空気圧製かんによるもの",
+      "en": "by hydrostatic or thermo-pneumatic canning",
+      "count": 68,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C21/14": {
+      "code": "G21C21/14",
+      "level": 2,
+      "parent": "G21C21/02",
+      "ja": "流体中における鍍金によるもの",
+      "en": "by plating in a fluid",
+      "count": 57,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C21/16": {
+      "code": "G21C21/16",
+      "level": 2,
+      "parent": "G21C21/02",
+      "ja": "鋳造またはどぶづけ技術によるもの",
+      "en": "by casting or dipping techniques",
+      "count": 126,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C21/18": {
+      "code": "G21C21/18",
+      "level": 1,
+      "parent": "G21C21/00",
+      "ja": "グループＧ２１Ｃ７／００に包含される制御要素の製造",
+      "en": "Manufacture of control elements covered by group <b>G21C7/00</b>",
+      "count": 159,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    },
+    "G21C23/00": {
+      "code": "G21C23/00",
+      "level": 0,
+      "parent": "G21C",
+      "ja": "実験または照射を容易にするための原子炉の設備［３］",
+      "en": "Adaptations of reactors to facilitate experimentation or irradiation",
+      "count": 555,
+      "sourceFile": "ipc_G21C.txt",
+      "kind": "ipc"
+    }
+  }
+};

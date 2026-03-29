@@ -1,0 +1,2256 @@
+window.IPC_SHARD_H01F = {
+  "generatedAt": "2026-03-20T02:17:47.209Z",
+  "total": 225,
+  "entries": {
+    "H01F": {
+      "code": "H01F",
+      "level": 0,
+      "parent": "H01",
+      "ja": "磁石；インダクタンス；変成器；それらの磁気特性による材料の選択［２］<br><br><b><ul>サブクラス内の索引</ul></b><br>磁石，電磁石<br>磁性材料を特徴とするもの　１／００<br>コア，ヨーク，アーマチュア　３／００<br>コイル　５／００<br>超電導コイルまたは磁石　６／００<br>磁石　７／００<br>磁化，消磁　１３／００<br>製造　４１／００<br>薄膜　１０／００<br>固定インダクタンスまたは変成器<br>信号用　１７／００，１９／００<br>信号用以外　３０／００，３７／００<br>製造　４１／００<br>可変インダクタンスまたは変成器<br>信号用　２１／００<br>信号用以外　２９／００<br>製造　４１／００<br>変成器またはインダクタンスの細部一般　２７／００<br>超電導巻線または低温で動作する巻線を有する変成器　３６／００<br>特定の応用や機能のための変成器またはインダクタンスの適用　３８／００",
+      "en": "MAGNETS; INDUCTANCES; TRANSFORMERS; SELECTION OF MATERIALS FOR THEIR MAGNETIC PROPERTIES; <br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">MAGNETS, ELECTROMAGNETS<tr><td width=\"70%\">Characterised by the magnetic material </td><td><b><b>1/00</b></b></td></tr></tr><tr><td width=\"70%\">Cores, yokes, armatures </td><td><b><b>3/00</b></b></td></tr></tr><tr><td width=\"70%\">Coils </td><td><b><b>5/00</b></b></td></tr></tr><tr><td width=\"70%\">Superconducting coils or magnets </td><td><b><b>6/00</b></b></td></tr></tr><tr><td width=\"70%\">Magnets </td><td><b><b>7/00</b></b></td></tr></tr><tr><td width=\"70%\">Magnetising, demagnetising </td><td><b><b>13/00</b></b></td></tr></tr><tr><td width=\"70%\">Manufacture </td><td><b><b>41/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">THIN FILMS </td><td><b><b>10/00</b></b></td></tr></tr><tr><td width=\"70%\">FIXED INDUCTANCES OR TRANSFORMERS<tr><td width=\"70%\">Of the signal type </td><td><b><b>17/00</b>, <b>19/00</b></b></td></tr></tr><tr><td width=\"70%\">Other than of the signal type </td><td><b><b>30/00</b>, <b>37/00</b></b></td></tr></tr><tr><td width=\"70%\">Manufacture </td><td><b><b>41/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">VARIABLE INDUCTANCES OR TRANSFORMERS<tr><td width=\"70%\">Of the signal type </td><td><b><b>21/00</b></b></td></tr></tr><tr><td width=\"70%\">Other than of the signal type </td><td><b><b>29/00</b></b></td></tr></tr><tr><td width=\"70%\">Manufacture </td><td><b><b>41/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">DETAILS OF TRANSFORMERS OR INDUCTANCES, IN GENERAL </td><td><b><b>27/00</b></b></td></tr></tr><tr><td width=\"70%\">SUPERCONDUCTIVE OR CRYOGENIC TRANSFORMERS </td><td><b><b>36/00</b></b></td></tr></tr><tr><td width=\"70%\">ADAPTATIONS OF TRANSFORMERS OR INDUCTANCES FOR SPECIFIC APPLICATIONS OR FUNCTIONS </td><td><b><b>38/00</b></b></td></tr></tr></table>",
+      "count": 1886,
+      "sourceFile": "ipc_H.txt",
+      "kind": "ipc"
+    },
+    "H01": {
+      "code": "H01",
+      "level": 0,
+      "parent": "H",
+      "ja": "電気素子<br><br><b><ul>注</ul></b><br>（１）他に項目が存在する単一の技術のみを含む方法，例．乾燥，被覆，はその技術に関連するクラスに分類される。<br>（２）“マイクロ構造の装置”および“マイクロ構造のシステム”に関する，クラスＢ８１およびサブクラスＢ８１Ｂの両タイトルの後の注に注意すること。［７］",
+      "en": "ELECTRIC ELEMENTS; <br><br><b><u>Note(s)</u></b><br><br><ul><li>Processes involving only a single technical art, e.g. drying, coating, for which provision exists elsewhere are classified in the relevant class for that art.</li><li>Attention is drawn to the Notes following the titles of class <b>B81</b> and subclass <b>B81B</b> relating to \"microstructural devices\" and \"microstructural systems\".</li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_H.txt",
+      "kind": "ipc"
+    },
+    "H": {
+      "code": "H",
+      "level": 0,
+      "parent": null,
+      "ja": "電気<br><br><b><ul>注</ul></b><br>（利用にあたっての基本原則と一般的指示）<br>Ｉ．セクションＨは以下のものを包含する：<br>（ａ）基本的電気素子，これは全ての電気ユニットと，装置や回路の一般的な機械的構成を包含しており，その中にはプリント配線と称されるものに各種の基本素子を組み立てたものも含まれる。またこれは他に包含されない場合には，ある程度までこれらの素子の製造をも包含する；<br>（ｂ）発電，これは，発電，変換および配電と共にそのための装置の制御を包含する；<br>（ｃ）電気の応用，これは以下のものを包含する：<br>（ｉ）一般的な利用技術，すなわち．電気加熱と電気照明回路の利用技術；<br>（ｉｉ）厳密な意味で電気的か電子的かいずれかの特定の利用技術で国際特許分類の他のセクションに包含されないもの，これは以下のものを含んでいる：<br>（１）電気的光源，これはレーザーを含む；<br>（２）電気的なＸ線技術；<br>（３）電気的なプラズマ技術，および帯電粒子または中性子の発生および加速；<br>（ｄ）基本電子回路およびその制御；<br>（ｅ）電気通信技術；これは電気―機械変換器一般を含む；<br>（ｆ）物品や上記素子を作るための特定の材料の使用，この点については指針の８８項から９０項を参照されたい。<br>ＩＩ．このセクションにおいては，下記の一般規則が適用される：<br>（ａ）上記Ｉ（ｃ）で述べた例外を除いて，国際特許分類のセクションＨ以外のいずれかのセクションに分類される特殊な操作，方法，装置，物体または物品に特有の電気的観点または部分は，常にその操作，方法，装置，物体または物品のためのサブクラスに分類されるか，または類似の性質を有する技術主題に関する共通的な特徴がクラス・レベルで展開されている場合には，それは，該技術主題のための一般的電気的な応用を完全に包含するサブクラスに，その操作，方法，装置，物体または物品と関連して分類される；<br>（ｂ）この様な電気的な応用には，一般的なものであれ特殊なものであれ，次の事項が含まれる。<br>（ｉ）Ａ６１における治療方法および装置；<br>（ｉｉ）Ｂ０１，Ｂ０３およびＢ２３Ｋにおける各種の実験室または工業的操作に用いられる電気的方法および装置；<br>（ｉｉｉ）セクションＢの“運輸”のサブセクションにおける車両一般および特殊な車両への電気の供給，電気的推進および電気照明；<br>（ｉｖ）Ｆ０２Ｐにおける内燃機関の電気点火系，およびＦ２３Ｑにおける燃焼装置一般のもの；<br>（ｖ）セクションＧにおける全ての電気的部分，すなわち，電気変量の測定器を含む測定装置，検査，信号および計算。このＧセクションにおいて電気とは，一般に手段として扱われるものでそれ自体目的として扱われるものではない；<br>（ｃ）全ての電気的な応用は一般的なものであれ特殊なものであれ，それが含んでいる電気的“基本的素子”に関して言えば，“基本的な電気”の観点がセクションＨ（上記Ｉ（ａ）参照）にあることを前提としている。この規則は，セクションＨ自身にある上記Ｉ（ｃ）で示した電気の応用に対しても有効である。",
+      "en": "ELECTRICITY; <br><br><b><u>Note(s)</u></b><br><br><ul><li>These Notes cover the basic principles and general instructions for use of section <b>H</b>.<ul><li>Section <b>H</b> <u>covers</u>: <ul><li>basic electric elements, which cover all electric units and the general mechanical structure of apparatus and circuits, including the assembly of various basic elements into what are called printed circuits and also cover to a certain extent the manufacture of these elements (when not covered elsewhere);</li><li>generation of electricity, which covers the generation, conversion and distribution of electricity together with the controlling of the corresponding gear;</li><li>applied electricity, which <u>covers</u>: <ul><li>general utilisation techniques, viz. those of electric heating and electric lighting circuits;</li><li>some special utilisation techniques, either electric or electronic in the strict sense, which are not covered by other sections of the Classification, including: <ul><li>electric light sources, including lasers;</li><li>electric X-ray technique;</li><li>electric plasma technique and the generation and acceleration of electrically charged particles or neutrons;</li></ul></li></ul></li><li>basic electronic circuits and their control;</li><li>radio or electric communication technique;</li><li>the use of a specified material for the manufacture of the article or element described. In this connection, paragraphs 88 to 90 of the Guide should be referred to.</li></ul></li><li>In this section, the following general rules apply: <ul><li>Subject to the exceptions stated in I(c), above, any electric aspect or part peculiar to a particular operation, process, apparatus, object or article, classified in one of the sections of the Classification other than section <b>H</b>, is always classified in the subclass for that operation, process, apparatus, object or article. Where common characteristics concerning technical subjects of similar nature have been brought out at class level, the electric aspect or part is classified, in conjunction with the operation, process, apparatus, object or article, in a subclass which covers entirely the general electrical applications for the technical subject in question;</li><li>The electrical applications referred to under (a), above, either general or particular, include: <ul><li>the therapeutic processes and apparatus, in class <b>A61</b>;</li><li>the electric processes and apparatus used in various laboratory or industrial operations, in classes <b>B01</b> and <b>B03</b> and in subclass <b>B23K</b>;</li><li>the electricity supply, electric propulsion and electric lighting of vehicles in general and of particular vehicles, in the subsection \"Transporting\" of section <b>B</b>;</li><li>the electric ignition systems of internal-combustion engines, in subclass <b>F02P</b>, and of combustion apparatus in general, in subclass <b>F23Q</b>;</li><li>the whole electrical part of section <b>G</b>, i.e. measuring devices including apparatus for measuring electric variables, checking, signalling and calculating. Electricity in that section is generally dealt with as a means and not as an end in itself;</li></ul></li><li>All electrical applications, both general and particular, presuppose that the \"basic electricity\" aspect appears in section <b>H</b> (see I(a) above) as regards the electric \"basic elements\" which they comprise. This rule is also valid for applied electricity, referred to in I(c), above, which appears in section <b>H</b> itself.</li></ul></li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_H.txt",
+      "kind": "ipc"
+    },
+    "H01F1/00": {
+      "code": "H01F1/00",
+      "level": 0,
+      "parent": "H01F",
+      "ja": "磁性材料を特徴とする磁石または磁性体；その磁気特性のための材料の選択<br><br><b><ul>注</ul></b><br>ＩＰＣがどの版の化学元素周期表を参照しているかを示すセクションＣのタイトルに続く注（３）に注意すること。このグループで用いられるシステムは，周期表においてローマ数字で表示された８つのグループからなるシステムである。［２０１０．０１］",
+      "en": "Magnets or magnetic bodies characterised by the magnetic materials therefor; Selection of materials for their magnetic properties; <br><br><b><u>Note(s)</u></b><br><br><ul><li>Attention is drawn to Note (3) after the title of section <b>C</b>, which Note indicates to which version of the Periodic Table of chemical elements the IPC refers. In this group, the system used is the 8 group system indicated by Roman numerals in the Periodic Table thereunder.</li></ul>",
+      "count": 5580,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F1/01": {
+      "code": "H01F1/01",
+      "level": 1,
+      "parent": "H01F1/00",
+      "ja": "無機材料（Ｈ０１Ｆ１／４４が優先）［６］",
+      "en": "of inorganic materials(<b>H01F1/44</b> takes precedence)",
+      "count": 1851,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F1/03": {
+      "code": "H01F1/03",
+      "level": 2,
+      "parent": "H01F1/01",
+      "ja": "保磁力によって特徴づけられるもの［６］<br><br><b><ul>注</ul></b><br>グループ１／４０は１／０３に優先する。［６］",
+      "en": "characterised by their coercivity; <br><br><b><u>Note(s)</u></b><br><br><ul><li>Group <b>H01F1/40</b> takes precedence over group  <b>H01F1/03</b></li></ul>",
+      "count": 1306,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F1/032": {
+      "code": "H01F1/032",
+      "level": 3,
+      "parent": "H01F1/03",
+      "ja": "硬質磁性材料［６］",
+      "en": "of hard-magnetic materials",
+      "count": 572,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F1/04": {
+      "code": "H01F1/04",
+      "level": 4,
+      "parent": "H01F1/032",
+      "ja": "金属または合金［６］",
+      "en": "metals or alloys",
+      "count": 1884,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F1/047": {
+      "code": "H01F1/047",
+      "level": 5,
+      "parent": "H01F1/04",
+      "ja": "組成に特徴のある合金［５，６］",
+      "en": "Alloys characterised by their composition",
+      "count": 1262,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F1/053": {
+      "code": "H01F1/053",
+      "level": 6,
+      "parent": "H01F1/047",
+      "ja": "希土類元素を含むもの［５，６］",
+      "en": "containing rare earth metals",
+      "count": 5376,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F1/055": {
+      "code": "H01F1/055",
+      "level": 7,
+      "parent": "H01F1/053",
+      "ja": "磁性遷移金属を共に含むもの，例．ＳｍＣｏ↓５［６］",
+      "en": "and magnetic transition metals, e.g. SmCo<sub>5</sub>",
+      "count": 2294,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F1/057": {
+      "code": "H01F1/057",
+      "level": 8,
+      "parent": "H01F1/055",
+      "ja": "ＩＩＩａ族元素を共に含むもの，例．Ｎｄ↓２Ｆｅ↓１↓４Ｂ［６］",
+      "en": "and IIIa elements, e.g. Nd<sub>2</sub>Fe<sub>14</sub>B",
+      "count": 9101,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F1/058": {
+      "code": "H01F1/058",
+      "level": 8,
+      "parent": "H01F1/055",
+      "ja": "ＩＶａ族元素を共に含むもの，例．Ｇｄ↓２Ｆｅ↓１↓４Ｃ［６］",
+      "en": "and IVa elements, e.g. Gd<sub>2</sub>Fe<sub>14</sub>C",
+      "count": 291,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F1/059": {
+      "code": "H01F1/059",
+      "level": 8,
+      "parent": "H01F1/055",
+      "ja": "Ｖａ族元素を共に含むもの，例．Ｓｍ↓２Ｆｅ↓１↓７Ｎ↓２［６］",
+      "en": "and Va elements, e.g. Sm<sub>2</sub>Fe<sub>17</sub>N<sub>2</sub>",
+      "count": 1057,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F1/06": {
+      "code": "H01F1/06",
+      "level": 5,
+      "parent": "H01F1/04",
+      "ja": "粒子形状のもの，例．粉末（Ｈ０１Ｆ１／０４７が優先）［５，６］",
+      "en": "in the form of particles, e.g. powder(<b>H01F1/047</b> takes precedence)",
+      "count": 3739,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F1/08": {
+      "code": "H01F1/08",
+      "level": 6,
+      "parent": "H01F1/06",
+      "ja": "圧縮，焼結またはいっしょに固めたもの［６］",
+      "en": "pressed, sintered, or bound together",
+      "count": 6837,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F1/09": {
+      "code": "H01F1/09",
+      "level": 4,
+      "parent": "H01F1/032",
+      "ja": "金属と非金属粒子の混合物；酸化被膜を有する金属粒子［６］",
+      "en": "mixtures of metallic and non-metallic particles; metallic particles having oxide skin",
+      "count": 654,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F1/10": {
+      "code": "H01F1/10",
+      "level": 4,
+      "parent": "H01F1/032",
+      "ja": "非金属材料，例．フェライト［６］",
+      "en": "non-metallic substances, e.g. ferrites",
+      "count": 1688,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F1/11": {
+      "code": "H01F1/11",
+      "level": 5,
+      "parent": "H01F1/10",
+      "ja": "粒子形状のもの［６］",
+      "en": "in the form of particles",
+      "count": 4311,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F1/113": {
+      "code": "H01F1/113",
+      "level": 6,
+      "parent": "H01F1/11",
+      "ja": "結合剤中に入れたもの［６］",
+      "en": "in a bonding agent",
+      "count": 1164,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F1/117": {
+      "code": "H01F1/117",
+      "level": 7,
+      "parent": "H01F1/113",
+      "ja": "可撓体［６］",
+      "en": "Flexible bodies",
+      "count": 295,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F1/12": {
+      "code": "H01F1/12",
+      "level": 3,
+      "parent": "H01F1/03",
+      "ja": "軟質磁性材料［６］",
+      "en": "of soft-magnetic materials",
+      "count": 774,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F1/14": {
+      "code": "H01F1/14",
+      "level": 4,
+      "parent": "H01F1/12",
+      "ja": "金属または合金［６］",
+      "en": "metals or alloys",
+      "count": 2229,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F1/147": {
+      "code": "H01F1/147",
+      "level": 5,
+      "parent": "H01F1/14",
+      "ja": "組成に特徴のある合金［５，６］",
+      "en": "Alloys characterised by their composition",
+      "count": 6778,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F1/153": {
+      "code": "H01F1/153",
+      "level": 6,
+      "parent": "H01F1/147",
+      "ja": "アモルファス合金，例．ガラス状の金属［５，６］",
+      "en": "Amorphous metallic alloys, e.g. glassy metals",
+      "count": 3773,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F1/16": {
+      "code": "H01F1/16",
+      "level": 5,
+      "parent": "H01F1/14",
+      "ja": "薄板形状のもの（Ｈ０１Ｆ１／１４７が優先）［５，６］",
+      "en": "in the form of sheets(<b>H01F1/147</b> takes precedence)",
+      "count": 4653,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F1/18": {
+      "code": "H01F1/18",
+      "level": 6,
+      "parent": "H01F1/16",
+      "ja": "絶縁被覆をもつもの［６］",
+      "en": "with insulating coating",
+      "count": 1380,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F1/20": {
+      "code": "H01F1/20",
+      "level": 5,
+      "parent": "H01F1/14",
+      "ja": "粒子形状のもの，例．粉末（Ｈ０１Ｆ１／１４７が優先）［５，６］",
+      "en": "in the form of particles, e.g. powder(<b>H01F1/147</b> takes precedence)",
+      "count": 2051,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F1/22": {
+      "code": "H01F1/22",
+      "level": 6,
+      "parent": "H01F1/20",
+      "ja": "圧縮，焼結またはいっしょに固めたもの［６］",
+      "en": "pressed, sintered, or bound together",
+      "count": 1588,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F1/24": {
+      "code": "H01F1/24",
+      "level": 7,
+      "parent": "H01F1/22",
+      "ja": "絶縁された粒子［６］",
+      "en": "the particles being insulated",
+      "count": 2047,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F1/26": {
+      "code": "H01F1/26",
+      "level": 8,
+      "parent": "H01F1/24",
+      "ja": "高分子有機材料によるもの［６］",
+      "en": "by macromolecular organic substances",
+      "count": 1956,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F1/28": {
+      "code": "H01F1/28",
+      "level": 6,
+      "parent": "H01F1/20",
+      "ja": "結合剤中に分散または懸濁させたもの［６］",
+      "en": "dispersed or suspended in a bonding agent",
+      "count": 675,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F1/33": {
+      "code": "H01F1/33",
+      "level": 4,
+      "parent": "H01F1/12",
+      "ja": "金属と非金属の粒子の混合物；酸化被膜を有する金属粒子［６］",
+      "en": "mixtures of metallic and non-metallic particles; metallic particles having oxide skin",
+      "count": 1214,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F1/34": {
+      "code": "H01F1/34",
+      "level": 4,
+      "parent": "H01F1/12",
+      "ja": "非金属材料，例．フェライト［６］",
+      "en": "non-metallic substances, e.g. ferrites",
+      "count": 6626,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F1/36": {
+      "code": "H01F1/36",
+      "level": 5,
+      "parent": "H01F1/34",
+      "ja": "粒子形状のもの［６］",
+      "en": "in the form of particles",
+      "count": 1669,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F1/37": {
+      "code": "H01F1/37",
+      "level": 6,
+      "parent": "H01F1/36",
+      "ja": "結合剤中に入れたもの［６］",
+      "en": "in a bonding agent",
+      "count": 992,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F1/375": {
+      "code": "H01F1/375",
+      "level": 7,
+      "parent": "H01F1/37",
+      "ja": "可撓体［６］",
+      "en": "Flexible bodies",
+      "count": 182,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F1/38": {
+      "code": "H01F1/38",
+      "level": 5,
+      "parent": "H01F1/34",
+      "ja": "アモルファス，例．アモルファス酸化物［６］",
+      "en": "amorphous, e.g. amorphous oxides",
+      "count": 51,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F1/40": {
+      "code": "H01F1/40",
+      "level": 2,
+      "parent": "H01F1/01",
+      "ja": "磁性半導体材料，例．ＣｄＣｒ↓２Ｓ↓４［６］",
+      "en": "of magnetic semiconductor materials, e.g. CdCr<sub>2</sub>S<sub>4</sub>",
+      "count": 389,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F1/42": {
+      "code": "H01F1/42",
+      "level": 1,
+      "parent": "H01F1/00",
+      "ja": "有機材料または有機金属材料（Ｈ０１Ｆ１／４４が優先）［６］",
+      "en": "of organic or organo-metallic materials(<b>H01F1/44</b> takes precedence)",
+      "count": 1248,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F1/44": {
+      "code": "H01F1/44",
+      "level": 1,
+      "parent": "H01F1/00",
+      "ja": "磁性流体，例．強磁性流体［６］",
+      "en": "of magnetic liquids, e.g. ferrofluids",
+      "count": 2063,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F3/00": {
+      "code": "H01F3/00",
+      "level": 0,
+      "parent": "H01F",
+      "ja": "コア，ヨークまたはアーマチュア",
+      "en": "Cores, yokes or armatures",
+      "count": 2229,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F3/02": {
+      "code": "H01F3/02",
+      "level": 1,
+      "parent": "H01F3/00",
+      "ja": "薄板から作られたもの",
+      "en": "made from sheets",
+      "count": 1584,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F3/04": {
+      "code": "H01F3/04",
+      "level": 1,
+      "parent": "H01F3/00",
+      "ja": "帯またはリボンから作られたもの",
+      "en": "made from strips or ribbons",
+      "count": 851,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F3/06": {
+      "code": "H01F3/06",
+      "level": 1,
+      "parent": "H01F3/00",
+      "ja": "線条から作られたもの",
+      "en": "made from wires",
+      "count": 164,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F3/08": {
+      "code": "H01F3/08",
+      "level": 1,
+      "parent": "H01F3/00",
+      "ja": "粉末から作られたもの",
+      "en": "made from powder",
+      "count": 1626,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F3/10": {
+      "code": "H01F3/10",
+      "level": 1,
+      "parent": "H01F3/00",
+      "ja": "磁気回路の複合配置",
+      "en": "Composite arrangements of magnetic circuits",
+      "count": 1537,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F3/12": {
+      "code": "H01F3/12",
+      "level": 2,
+      "parent": "H01F3/10",
+      "ja": "磁気分路",
+      "en": "Magnetic shunt paths",
+      "count": 269,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F3/14": {
+      "code": "H01F3/14",
+      "level": 2,
+      "parent": "H01F3/10",
+      "ja": "締め付け；間隙，例．空隙（磁気分路内Ｈ０１Ｆ３／１２）",
+      "en": "Constrictions; Gaps, e.g. air-gaps(in magnetic shunt paths <b>H01F3/12</b>)",
+      "count": 1755,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F5/00": {
+      "code": "H01F5/00",
+      "level": 0,
+      "parent": "H01F",
+      "ja": "コイル（超電導コイルＨ０１Ｆ６／０６；信号用の固定インダクタンスＨ０１Ｆ１７／００；変換器用Ｈ０４Ｒ）",
+      "en": "Coils(superconducting coils <b>H01F6/06</b>; fixed inductances of the signal type <b>H01F17/00</b>)",
+      "count": 9674,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F5/02": {
+      "code": "H01F5/02",
+      "level": 1,
+      "parent": "H01F5/00",
+      "ja": "非磁性支持物上の巻回，例．巻枠",
+      "en": "wound on non-magnetic supports, e.g. formers",
+      "count": 5321,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F5/04": {
+      "code": "H01F5/04",
+      "level": 1,
+      "parent": "H01F5/00",
+      "ja": "コイルへの電気接続の装置，例．リード",
+      "en": "Arrangements of electric connections to coils, e.g. leads",
+      "count": 4555,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F5/06": {
+      "code": "H01F5/06",
+      "level": 1,
+      "parent": "H01F5/00",
+      "ja": "巻線の絶縁",
+      "en": "Insulation of windings",
+      "count": 3514,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F6/00": {
+      "code": "H01F6/00",
+      "level": 0,
+      "parent": "H01F",
+      "ja": "超電導磁石；超電導コイル［６］",
+      "en": "Superconducting magnets; Superconducting coils",
+      "count": 5716,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F6/02": {
+      "code": "H01F6/02",
+      "level": 1,
+      "parent": "H01F6/00",
+      "ja": "クエンチ；クエンチ中の保護装置［６］",
+      "en": "Quenching; Protection arrangements during quenching",
+      "count": 1029,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F6/04": {
+      "code": "H01F6/04",
+      "level": 1,
+      "parent": "H01F6/00",
+      "ja": "冷却［６］",
+      "en": "Cooling",
+      "count": 3554,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F6/06": {
+      "code": "H01F6/06",
+      "level": 1,
+      "parent": "H01F6/00",
+      "ja": "コイル，例．巻線，絶縁，端子または容器［６］",
+      "en": "Coils, e.g. winding, insulating, terminating or casing arrangements therefor",
+      "count": 7032,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F7/00": {
+      "code": "H01F7/00",
+      "level": 0,
+      "parent": "H01F",
+      "ja": "磁石（超電導磁石Ｈ０１Ｆ６／００）",
+      "en": "Magnets(superconducting magnets <b>H01F6/00</b>)",
+      "count": 2716,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F7/02": {
+      "code": "H01F7/02",
+      "level": 1,
+      "parent": "H01F7/00",
+      "ja": "永久磁石",
+      "en": "Permanent magnets",
+      "count": 17769,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F7/04": {
+      "code": "H01F7/04",
+      "level": 2,
+      "parent": "H01F7/02",
+      "ja": "引き付け力を解放する装置",
+      "en": "Means for releasing the attractive force",
+      "count": 1228,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F7/06": {
+      "code": "H01F7/06",
+      "level": 1,
+      "parent": "H01F7/00",
+      "ja": "電磁石；電磁石を有するアクチュエータ［６］",
+      "en": "Electromagnets; Actuators including electromagnets",
+      "count": 9684,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F7/08": {
+      "code": "H01F7/08",
+      "level": 2,
+      "parent": "H01F7/06",
+      "ja": "アーマチュアをもつもの",
+      "en": "with armatures",
+      "count": 5823,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F7/10": {
+      "code": "H01F7/10",
+      "level": 3,
+      "parent": "H01F7/08",
+      "ja": "特に交流用に適したもの",
+      "en": "specially adapted for AC",
+      "count": 417,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F7/11": {
+      "code": "H01F7/11",
+      "level": 4,
+      "parent": "H01F7/10",
+      "ja": "渦電流の影響を減少または除去するもの［６］",
+      "en": "reducing or eliminating the effects of eddy currents",
+      "count": 41,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F7/12": {
+      "code": "H01F7/12",
+      "level": 4,
+      "parent": "H01F7/10",
+      "ja": "チャタリング防止装置をもつもの",
+      "en": "having anti-chattering arrangements",
+      "count": 770,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F7/121": {
+      "code": "H01F7/121",
+      "level": 3,
+      "parent": "H01F7/08",
+      "ja": "アーマチュアの位置を案内または固定するもの，例．アーマチュアをそれらの末端位置に保持するもの［６］",
+      "en": "Guiding or setting position of armatures, e.g. retaining armatures in their end position",
+      "count": 1053,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F7/122": {
+      "code": "H01F7/122",
+      "level": 4,
+      "parent": "H01F7/121",
+      "ja": "永久磁石によるもの［６］",
+      "en": "by permanent magnet",
+      "count": 1327,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F7/123": {
+      "code": "H01F7/123",
+      "level": 4,
+      "parent": "H01F7/121",
+      "ja": "補助コイルによるもの［６］",
+      "en": "by ancillary coil",
+      "count": 183,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F7/124": {
+      "code": "H01F7/124",
+      "level": 4,
+      "parent": "H01F7/121",
+      "ja": "機械的掛け金によるもの，例．止め金［６］",
+      "en": "by mechanical latch, e.g. detent",
+      "count": 207,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F7/126": {
+      "code": "H01F7/126",
+      "level": 3,
+      "parent": "H01F7/08",
+      "ja": "支持または取り付けるもの［６］",
+      "en": "Supporting or mounting",
+      "count": 698,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F7/127": {
+      "code": "H01F7/127",
+      "level": 3,
+      "parent": "H01F7/08",
+      "ja": "組み立てるもの［６］",
+      "en": "Assembling",
+      "count": 714,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F7/128": {
+      "code": "H01F7/128",
+      "level": 3,
+      "parent": "H01F7/08",
+      "ja": "外装に包むもの，箱に入れるもの，または密封するもの［６］",
+      "en": "Encapsulating, encasing or sealing",
+      "count": 591,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F7/129": {
+      "code": "H01F7/129",
+      "level": 4,
+      "parent": "H01F7/128",
+      "ja": "アーマチュアの［６］",
+      "en": "of armatures",
+      "count": 86,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F7/13": {
+      "code": "H01F7/13",
+      "level": 3,
+      "parent": "H01F7/08",
+      "ja": "引っ張り力特性を特徴とするもの",
+      "en": "characterised by pulling-force characteristic",
+      "count": 1097,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F7/14": {
+      "code": "H01F7/14",
+      "level": 3,
+      "parent": "H01F7/08",
+      "ja": "ピボットアーマチュア（Ｈ０１Ｆ７／１７が優先）［６］",
+      "en": "Pivoting armatures(<b>H01F7/17</b> takes precedence)",
+      "count": 3137,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F7/16": {
+      "code": "H01F7/16",
+      "level": 3,
+      "parent": "H01F7/08",
+      "ja": "直線可動アーマチュア（Ｈ０１Ｆ７／１７が優先）［６］",
+      "en": "Rectilinearly-movable armatures(<b>H01F7/17</b> takes precedence)",
+      "count": 11501,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F7/17": {
+      "code": "H01F7/17",
+      "level": 3,
+      "parent": "H01F7/08",
+      "ja": "ピボットおよび直線可動アーマチュア［６］",
+      "en": "Pivoting and rectilinearly-movable armatures",
+      "count": 121,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F7/18": {
+      "code": "H01F7/18",
+      "level": 3,
+      "parent": "H01F7/08",
+      "ja": "所望の動作特性を得るための回路装置，例．緩動作用，巻線の順序励磁用または巻線の高速度励磁用",
+      "en": "Circuit arrangements for obtaining desired operating characteristics, e.g. for slow operation, for sequential energisation of windings, for high-speed energisation of windings",
+      "count": 7152,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F7/20": {
+      "code": "H01F7/20",
+      "level": 2,
+      "parent": "H01F7/06",
+      "ja": "アーマチュアのないもの",
+      "en": "without armatures",
+      "count": 4993,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F10/00": {
+      "code": "H01F10/00",
+      "level": 0,
+      "parent": "H01F",
+      "ja": "磁性薄膜，例．１磁区構造のもの",
+      "en": "Thin magnetic films, e.g. of one-domain structure",
+      "count": 1206,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F10/06": {
+      "code": "H01F10/06",
+      "level": 1,
+      "parent": "H01F10/00",
+      "ja": "接続あるいは相互作用する導体との結合あるいは物理的接触を特徴とするもの",
+      "en": "characterised by the coupling or physical contact with connecting or interacting conductors",
+      "count": 447,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F10/08": {
+      "code": "H01F10/08",
+      "level": 1,
+      "parent": "H01F10/00",
+      "ja": "磁性体層によって特徴づけられたもの（基体への磁性膜の形成Ｈ０１Ｆ４１／１４）［３］",
+      "en": "characterised by magnetic layers(applying magnetic films to substrates <b>H01F41/14</b>)",
+      "count": 1211,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F10/10": {
+      "code": "H01F10/10",
+      "level": 2,
+      "parent": "H01F10/08",
+      "ja": "組成によって特徴づけられたもの［３］",
+      "en": "characterised by the composition",
+      "count": 380,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F10/12": {
+      "code": "H01F10/12",
+      "level": 3,
+      "parent": "H01F10/10",
+      "ja": "金属または合金［３］",
+      "en": "being metals or alloys",
+      "count": 1499,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F10/13": {
+      "code": "H01F10/13",
+      "level": 4,
+      "parent": "H01F10/12",
+      "ja": "アモルファス金属合金，例，ガラス状の金属［７］",
+      "en": "Amorphous metallic alloys, e.g. glassy metals",
+      "count": 1123,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F10/14": {
+      "code": "H01F10/14",
+      "level": 4,
+      "parent": "H01F10/12",
+      "ja": "鉄またはニッケルを含むもの（Ｈ０１Ｆ１０／１３，Ｈ０１Ｆ１０／１６が優先）［３，７］",
+      "en": "containing iron or nickel(<b>H01F10/13</b>, <b>H01F10/16</b> take precedence)",
+      "count": 1784,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F10/16": {
+      "code": "H01F10/16",
+      "level": 4,
+      "parent": "H01F10/12",
+      "ja": "コバルトを含むもの（Ｈ０１Ｆ１０／１３が優先）［３，７］",
+      "en": "containing cobalt(<b>H01F10/13</b> takes precedence)",
+      "count": 2918,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F10/18": {
+      "code": "H01F10/18",
+      "level": 3,
+      "parent": "H01F10/10",
+      "ja": "化合物［３］",
+      "en": "being compounds",
+      "count": 456,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F10/187": {
+      "code": "H01F10/187",
+      "level": 4,
+      "parent": "H01F10/18",
+      "ja": "アモルファス化合物［７］",
+      "en": "Amorphous compounds",
+      "count": 141,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F10/193": {
+      "code": "H01F10/193",
+      "level": 4,
+      "parent": "H01F10/18",
+      "ja": "磁性半導体化合物［７］",
+      "en": "Magnetic semiconductor compounds",
+      "count": 243,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F10/20": {
+      "code": "H01F10/20",
+      "level": 4,
+      "parent": "H01F10/18",
+      "ja": "フェライト［３］",
+      "en": "Ferrites",
+      "count": 549,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F10/22": {
+      "code": "H01F10/22",
+      "level": 5,
+      "parent": "H01F10/20",
+      "ja": "オルソフェライト［３］",
+      "en": "Orthoferrites",
+      "count": 33,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F10/24": {
+      "code": "H01F10/24",
+      "level": 5,
+      "parent": "H01F10/20",
+      "ja": "ガーネット［３］",
+      "en": "Garnets",
+      "count": 584,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F10/26": {
+      "code": "H01F10/26",
+      "level": 1,
+      "parent": "H01F10/00",
+      "ja": "基体または中間層に特徴のあるもの（Ｈ０１Ｆ１０／３２が優先）［３，７］",
+      "en": "characterised by the substrate or intermediate layers(<b>H01F10/32</b> takes precedence)",
+      "count": 776,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F10/28": {
+      "code": "H01F10/28",
+      "level": 2,
+      "parent": "H01F10/26",
+      "ja": "基体の組成によって特徴づけられたもの［３］",
+      "en": "characterised by the composition of the substrate",
+      "count": 457,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F10/30": {
+      "code": "H01F10/30",
+      "level": 2,
+      "parent": "H01F10/26",
+      "ja": "中間層の組成によって特徴づけられたもの［３］",
+      "en": "characterised by the composition of intermediate layers",
+      "count": 1088,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F10/32": {
+      "code": "H01F10/32",
+      "level": 1,
+      "parent": "H01F10/00",
+      "ja": "スピン変換連結の多層，例，極小構造の超格子［７］",
+      "en": "Spin-exchange-coupled multilayers, e.g. nanostructured superlattices",
+      "count": 3979,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F13/00": {
+      "code": "H01F13/00",
+      "level": 0,
+      "parent": "H01F",
+      "ja": "磁化または減磁のための装置または工程",
+      "en": "Apparatus or processes for magnetising or demagnetising",
+      "count": 9125,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F17/00": {
+      "code": "H01F17/00",
+      "level": 0,
+      "parent": "H01F",
+      "ja": "信号用の固定インダクタンス",
+      "en": "Fixed inductances of the signal type",
+      "count": 14231,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F17/02": {
+      "code": "H01F17/02",
+      "level": 1,
+      "parent": "H01F17/00",
+      "ja": "磁気コアをもたないもの",
+      "en": "without magnetic core",
+      "count": 1730,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F17/03": {
+      "code": "H01F17/03",
+      "level": 2,
+      "parent": "H01F17/02",
+      "ja": "セラミック巻型をもつもの",
+      "en": "with ceramic former",
+      "count": 111,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F17/04": {
+      "code": "H01F17/04",
+      "level": 1,
+      "parent": "H01F17/00",
+      "ja": "磁気コアをもつもの",
+      "en": "with magnetic core",
+      "count": 13521,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F17/06": {
+      "code": "H01F17/06",
+      "level": 2,
+      "parent": "H01F17/04",
+      "ja": "それ自体で閉じたコアをもつもの，例．トロイド",
+      "en": "with core substantially closed in itself, e.g. toroid",
+      "count": 5864,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F17/08": {
+      "code": "H01F17/08",
+      "level": 3,
+      "parent": "H01F17/06",
+      "ja": "有線通信回路用の装荷コイル",
+      "en": "Loading coils for telecommunication circuits",
+      "count": 292,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F19/00": {
+      "code": "H01F19/00",
+      "level": 0,
+      "parent": "H01F",
+      "ja": "信号用の固定変成器または相互インダクタンス（Ｈ０１Ｆ３６／００が優先）［３］",
+      "en": "Fixed transformers or mutual inductances of the signal type(<b>H01F36/00</b> takes precedence)",
+      "count": 3106,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F19/02": {
+      "code": "H01F19/02",
+      "level": 1,
+      "parent": "H01F19/00",
+      "ja": "可聴周波数変成器または相互インダクタンス，すなわち可聴範囲を著しく越える周波数を取り扱うのに適しないもの",
+      "en": "Audio-frequency transformers or mutual inductances, i.e. not suitable for handling frequencies considerably beyond the audio range",
+      "count": 420,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F19/04": {
+      "code": "H01F19/04",
+      "level": 1,
+      "parent": "H01F19/00",
+      "ja": "可聴範囲を著しく越える周波数を取り扱うのに適する変成器または相互インダクタンス",
+      "en": "Transformers or mutual inductances suitable for handling frequencies considerably beyond the audio range",
+      "count": 4253,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F19/06": {
+      "code": "H01F19/06",
+      "level": 2,
+      "parent": "H01F19/04",
+      "ja": "広帯域変成器，例．可聴範囲に入る周波数を取り扱うのに適するもの",
+      "en": "Broad-band transformers, e.g. suitable for handling frequencies well down into the audio range",
+      "count": 797,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F19/08": {
+      "code": "H01F19/08",
+      "level": 2,
+      "parent": "H01F19/04",
+      "ja": "磁気バイアスをもった変成器，例．パルスを取り扱うもの",
+      "en": "Transformers having magnetic bias, e.g. for handling pulses",
+      "count": 685,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F21/00": {
+      "code": "H01F21/00",
+      "level": 0,
+      "parent": "H01F",
+      "ja": "信号用の可変インダクタンスまたは変成器（Ｈ０１Ｆ３６／００が優先）［３］",
+      "en": "Variable inductances or transformers of the signal type(<b>H01F36/00</b> takes precedence)",
+      "count": 1573,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F21/02": {
+      "code": "H01F21/02",
+      "level": 1,
+      "parent": "H01F21/00",
+      "ja": "連続可変のもの，例．バリオメータ",
+      "en": "continuously variable, e.g. variometers",
+      "count": 740,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F21/04": {
+      "code": "H01F21/04",
+      "level": 2,
+      "parent": "H01F21/02",
+      "ja": "巻線の巻回または一部の相対的移動によるもの",
+      "en": "by relative movement of turns or parts of windings",
+      "count": 680,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F21/06": {
+      "code": "H01F21/06",
+      "level": 2,
+      "parent": "H01F21/02",
+      "ja": "全体として巻線に対しコアまたはコアの一部の移動によるもの",
+      "en": "by movement of core or part of core relative to the windings as a whole",
+      "count": 3695,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F21/08": {
+      "code": "H01F21/08",
+      "level": 2,
+      "parent": "H01F21/02",
+      "ja": "コアの透磁率の変化によるもの，例．磁気バイアスの変化によるもの",
+      "en": "by varying the permeability of the core, e.g. by varying magnetic bias",
+      "count": 1048,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F21/10": {
+      "code": "H01F21/10",
+      "level": 2,
+      "parent": "H01F21/02",
+      "ja": "可動シールドによるもの",
+      "en": "by means of a movable shield",
+      "count": 100,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F21/12": {
+      "code": "H01F21/12",
+      "level": 1,
+      "parent": "H01F21/00",
+      "ja": "不連続可変，例．タップ",
+      "en": "discontinuously variable, e.g. tapped",
+      "count": 943,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F27/00": {
+      "code": "H01F27/00",
+      "level": 0,
+      "parent": "H01F",
+      "ja": "変成器またはインダクタンスの細部一般［６］",
+      "en": "Details of transformers or inductances, in general",
+      "count": 16260,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F27/02": {
+      "code": "H01F27/02",
+      "level": 1,
+      "parent": "H01F27/00",
+      "ja": "容器",
+      "en": "Casings",
+      "count": 40162,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F27/04": {
+      "code": "H01F27/04",
+      "level": 2,
+      "parent": "H01F27/02",
+      "ja": "容器を貫通する導体または軸，例．タップ切換器用",
+      "en": "Leading of conductors or axles through casings, e.g. for tap-changing arrangements",
+      "count": 5596,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F27/06": {
+      "code": "H01F27/06",
+      "level": 1,
+      "parent": "H01F27/00",
+      "ja": "変成器，リアクトルまたはチョークコイルの取付け，支持または吊着",
+      "en": "Mounting, supporting, or suspending transformers, reactors, or choke coils",
+      "count": 31043,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F27/08": {
+      "code": "H01F27/08",
+      "level": 1,
+      "parent": "H01F27/00",
+      "ja": "冷却；通風",
+      "en": "Cooling; Ventilating",
+      "count": 26302,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F27/10": {
+      "code": "H01F27/10",
+      "level": 2,
+      "parent": "H01F27/08",
+      "ja": "液体冷却",
+      "en": "Liquid cooling",
+      "count": 2572,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F27/12": {
+      "code": "H01F27/12",
+      "level": 3,
+      "parent": "H01F27/10",
+      "ja": "油冷却",
+      "en": "Oil cooling",
+      "count": 7157,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F27/14": {
+      "code": "H01F27/14",
+      "level": 4,
+      "parent": "H01F27/12",
+      "ja": "膨張室；オイルコンサベータ；ガスクッション；清浄，乾燥，充てんのための装置",
+      "en": "Expansion chambers; Oil conservators; Gas cushions; Arrangements for purifying, drying, or filling",
+      "count": 14611,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F27/16": {
+      "code": "H01F27/16",
+      "level": 3,
+      "parent": "H01F27/10",
+      "ja": "水冷却",
+      "en": "Water cooling",
+      "count": 5004,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F27/18": {
+      "code": "H01F27/18",
+      "level": 3,
+      "parent": "H01F27/10",
+      "ja": "液体の蒸発によるもの",
+      "en": "by evaporating liquids",
+      "count": 1506,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F27/20": {
+      "code": "H01F27/20",
+      "level": 2,
+      "parent": "H01F27/08",
+      "ja": "特殊気体または大気以外のものによる冷却",
+      "en": "Cooling by special gases or non-ambient air",
+      "count": 1250,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F27/22": {
+      "code": "H01F27/22",
+      "level": 2,
+      "parent": "H01F27/08",
+      "ja": "固形または粉末状充てん物の熱伝導による冷却",
+      "en": "Cooling by heat conduction through solid or powdered fillings",
+      "count": 8853,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F27/23": {
+      "code": "H01F27/23",
+      "level": 1,
+      "parent": "H01F27/00",
+      "ja": "腐食に対する保護［６］",
+      "en": "Corrosion protection",
+      "count": 1448,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F27/24": {
+      "code": "H01F27/24",
+      "level": 1,
+      "parent": "H01F27/00",
+      "ja": "鉄心",
+      "en": "Magnetic cores",
+      "count": 22824,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F27/245": {
+      "code": "H01F27/245",
+      "level": 2,
+      "parent": "H01F27/24",
+      "ja": "薄板から作られたもの，例．結晶粒の方向づけられたもの（Ｈ０１Ｆ２７／２６が優先）［５］",
+      "en": "made from sheets, e.g. grain-oriented(<b>H01F27/26</b> takes precedence)",
+      "count": 6896,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F27/25": {
+      "code": "H01F27/25",
+      "level": 2,
+      "parent": "H01F27/24",
+      "ja": "帯またはリボンから作られたもの（Ｈ０１Ｆ２７／２６が優先）［５］",
+      "en": "made from strips or ribbons(<b>H01F27/26</b> takes precedence)",
+      "count": 2384,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F27/255": {
+      "code": "H01F27/255",
+      "level": 2,
+      "parent": "H01F27/24",
+      "ja": "粒子から作られたもの（Ｈ０１Ｆ２７／２６が優先）［５］",
+      "en": "made from particles(<b>H01F27/26</b> takes precedence)",
+      "count": 4560,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F27/26": {
+      "code": "H01F27/26",
+      "level": 2,
+      "parent": "H01F27/24",
+      "ja": "鉄心締付具；容器または支持物上への鉄心締付けまたは装着",
+      "en": "Fastening parts of the core together; Fastening or mounting the core on casing or support",
+      "count": 18280,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F27/28": {
+      "code": "H01F27/28",
+      "level": 1,
+      "parent": "H01F27/00",
+      "ja": "コイル；巻線；導電接続",
+      "en": "Coils; Windings; Conductive connections",
+      "count": 47724,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F27/29": {
+      "code": "H01F27/29",
+      "level": 2,
+      "parent": "H01F27/28",
+      "ja": "端子；タップ配置［６］",
+      "en": "Terminals; Tapping arrangements",
+      "count": 28742,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F27/30": {
+      "code": "H01F27/30",
+      "level": 2,
+      "parent": "H01F27/28",
+      "ja": "コイル，巻線またはその一部の締付けまたは装着；コイルまたは巻線の鉄心，容器または他の支持物上への締付けまたは装着",
+      "en": "Fastening or clamping coils, windings, or parts thereof together; Fastening or mounting coils or windings on core, casing, or other support",
+      "count": 30253,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F27/32": {
+      "code": "H01F27/32",
+      "level": 2,
+      "parent": "H01F27/28",
+      "ja": "コイル，巻線，またはその一部の絶縁",
+      "en": "Insulating of coils, windings, or parts thereof",
+      "count": 25664,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F27/33": {
+      "code": "H01F27/33",
+      "level": 1,
+      "parent": "H01F27/00",
+      "ja": "雑音を減衰させる装置",
+      "en": "Arrangements for noise damping",
+      "count": 6905,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F27/34": {
+      "code": "H01F27/34",
+      "level": 1,
+      "parent": "H01F27/00",
+      "ja": "電気的電磁的に不都合な現象，例．無負荷損，無効電流，高調波，発振，漏れ磁界，を阻止または軽減する手段",
+      "en": "Special means for preventing or reducing unwanted electric or magnetic effects, e.g. no-load losses, reactive currents, harmonics, oscillations, leakage fields",
+      "count": 9004,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F27/36": {
+      "code": "H01F27/36",
+      "level": 2,
+      "parent": "H01F27/34",
+      "ja": "電気的または磁気的遮へい（インダクタンスを変えるため可動のものＨ０１Ｆ２１／１０）［６］",
+      "en": "Electric or magnetic shields or screens(movable for varying inductance <b>H01F21/10</b>)",
+      "count": 11161,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F27/38": {
+      "code": "H01F27/38",
+      "level": 2,
+      "parent": "H01F27/34",
+      "ja": "補助鉄心；補助コイルまたは巻線",
+      "en": "Auxiliary core members; Auxiliary coils or windings",
+      "count": 1532,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F27/40": {
+      "code": "H01F27/40",
+      "level": 1,
+      "parent": "H01F27/00",
+      "ja": "組み入れ部品，例．ヒューズ，をもつ構造の組み合わせ",
+      "en": "Structural association with built-in electric component, e.g. fuse",
+      "count": 17327,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F27/42": {
+      "code": "H01F27/42",
+      "level": 1,
+      "parent": "H01F27/00",
+      "ja": "変成器，リアクトルまたはチョークコイルの電気的特性を修正または補償するため特に適合する回路［６］",
+      "en": "Circuits specially adapted for the purpose of modifying, or compensating for, electric characteristics of transformers, reactors or choke coils",
+      "count": 3324,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F29/00": {
+      "code": "H01F29/00",
+      "level": 0,
+      "parent": "H01F",
+      "ja": "グループＨ０１Ｆ２１／００に包含されない可変変成器，またはインダクタンス",
+      "en": "Variable transformers or inductances not covered by group <b>H01F21/00</b>",
+      "count": 1777,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F29/02": {
+      "code": "H01F29/02",
+      "level": 1,
+      "parent": "H01F29/00",
+      "ja": "コイルまたは巻線のタップをもつもの；巻線の相互結線の再編成を用意するもの",
+      "en": "with tappings on coil or winding; with provision for rearrangement or interconnection of windings",
+      "count": 4447,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F29/04": {
+      "code": "H01F29/04",
+      "level": 2,
+      "parent": "H01F29/02",
+      "ja": "負荷電流を遮断せずにタップ切り換えを行なえるもの",
+      "en": "having provision for tap-changing without interrupting the load current",
+      "count": 5974,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F29/06": {
+      "code": "H01F29/06",
+      "level": 1,
+      "parent": "H01F29/00",
+      "ja": "巻線上または巻線に沿って摺動または転動する集電子を有するもの",
+      "en": "with current collector gliding or rolling on or along winding",
+      "count": 918,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F29/08": {
+      "code": "H01F29/08",
+      "level": 1,
+      "parent": "H01F29/00",
+      "ja": "電圧または位相の変化を補償する可動の鉄心，コイル，巻線または遮へいをもつもの，例．誘導電圧調整器",
+      "en": "with core, coil, winding, or shield movable to offset variation of voltage or phase shift, e.g. induction regulators",
+      "count": 254,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F29/10": {
+      "code": "H01F29/10",
+      "level": 2,
+      "parent": "H01F29/08",
+      "ja": "磁気回路の可動部を有するもの",
+      "en": "having movable part of magnetic circuit",
+      "count": 1202,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F29/12": {
+      "code": "H01F29/12",
+      "level": 2,
+      "parent": "H01F29/08",
+      "ja": "可動なコイル，巻線，またはその一部を有するもの；可動遮へいを有するもの",
+      "en": "having movable coil, winding, or part thereof; having movable shield",
+      "count": 763,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F29/14": {
+      "code": "H01F29/14",
+      "level": 1,
+      "parent": "H01F29/00",
+      "ja": "可変磁気バイアスをもつもの",
+      "en": "with variable magnetic bias",
+      "count": 1552,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F30/00": {
+      "code": "H01F30/00",
+      "level": 0,
+      "parent": "H01F",
+      "ja": "グループＨ０１Ｆ１９／００に包含されない固定変成器［６］",
+      "en": "Fixed transformers not covered by group <b>H01F19/00</b>",
+      "count": 5703,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F30/02": {
+      "code": "H01F30/02",
+      "level": 1,
+      "parent": "H01F30/00",
+      "ja": "単巻変成器［６］",
+      "en": "Auto-transformers",
+      "count": 619,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F30/04": {
+      "code": "H01F30/04",
+      "level": 1,
+      "parent": "H01F30/00",
+      "ja": "二つ以上の二次巻線をもち，各々別個の負荷を供給するもの，例．高周波電源［６］",
+      "en": "having two or more secondary windings, each supplying a separate load, e.g. for radio set power supplies",
+      "count": 530,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F30/06": {
+      "code": "H01F30/06",
+      "level": 1,
+      "parent": "H01F30/00",
+      "ja": "構造に特徴のあるもの［６］",
+      "en": "characterised by the structure",
+      "count": 2000,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F30/08": {
+      "code": "H01F30/08",
+      "level": 2,
+      "parent": "H01F30/06",
+      "ja": "磁心を有しないもの［６］",
+      "en": "without magnetic core",
+      "count": 714,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F30/10": {
+      "code": "H01F30/10",
+      "level": 2,
+      "parent": "H01F30/06",
+      "ja": "単相変成器（Ｈ０１Ｆ３０／１６が優先）［６］",
+      "en": "Single-phase transformers(<b>H01F30/16</b> takes precedence)",
+      "count": 2250,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F30/12": {
+      "code": "H01F30/12",
+      "level": 2,
+      "parent": "H01F30/06",
+      "ja": "二相，三相または多相変成器［６］",
+      "en": "Two-phase, three-phase or polyphase transformers",
+      "count": 2696,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F30/14": {
+      "code": "H01F30/14",
+      "level": 3,
+      "parent": "H01F30/12",
+      "ja": "相数変換用［６］",
+      "en": "for changing the number of phases",
+      "count": 696,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F30/16": {
+      "code": "H01F30/16",
+      "level": 2,
+      "parent": "H01F30/06",
+      "ja": "トロイダル変成器［６］",
+      "en": "Toroidal transformers",
+      "count": 841,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F36/00": {
+      "code": "H01F36/00",
+      "level": 0,
+      "parent": "H01F",
+      "ja": "超電導巻線または低温で動作する巻線を有する変成器［３］",
+      "en": "Transformers with superconductive windings or with windings operating at cryogenic temperatures",
+      "count": 550,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F37/00": {
+      "code": "H01F37/00",
+      "level": 0,
+      "parent": "H01F",
+      "ja": "グループＨ０１Ｆ１７／００に包含されない固定インダクタンス［６］",
+      "en": "Fixed inductances not covered by group <b>H01F17/00</b>",
+      "count": 11681,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F38/00": {
+      "code": "H01F38/00",
+      "level": 0,
+      "parent": "H01F",
+      "ja": "特定の応用または機能のための変成器またはインダクタンスの適用［６］",
+      "en": "Adaptations of transformers or inductances for specific applications or functions",
+      "count": 2398,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F38/02": {
+      "code": "H01F38/02",
+      "level": 1,
+      "parent": "H01F38/00",
+      "ja": "非直線動作用［６］",
+      "en": "for non-linear operation",
+      "count": 788,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F38/04": {
+      "code": "H01F38/04",
+      "level": 2,
+      "parent": "H01F38/02",
+      "ja": "周波数変更用［６］",
+      "en": "for frequency changing",
+      "count": 298,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F38/06": {
+      "code": "H01F38/06",
+      "level": 2,
+      "parent": "H01F38/02",
+      "ja": "波形変更用［６］",
+      "en": "for changing the wave shape",
+      "count": 91,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F38/08": {
+      "code": "H01F38/08",
+      "level": 1,
+      "parent": "H01F38/00",
+      "ja": "高漏洩変成器またはインダクタンス［６］",
+      "en": "High-leakage transformers or inductances",
+      "count": 2801,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F38/10": {
+      "code": "H01F38/10",
+      "level": 2,
+      "parent": "H01F38/08",
+      "ja": "安定器，例．放電ランプ用［６］",
+      "en": "Ballasts, e.g. for discharge lamps",
+      "count": 1205,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F38/12": {
+      "code": "H01F38/12",
+      "level": 1,
+      "parent": "H01F38/00",
+      "ja": "点火コイル，例．内燃機関用［６］",
+      "en": "Ignition, e.g. for IC engines",
+      "count": 5657,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F38/14": {
+      "code": "H01F38/14",
+      "level": 1,
+      "parent": "H01F38/00",
+      "ja": "誘導結合［６］",
+      "en": "Inductive couplings",
+      "count": 12943,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F38/16": {
+      "code": "H01F38/16",
+      "level": 1,
+      "parent": "H01F38/00",
+      "ja": "継続変成器，例．超高圧用［６］",
+      "en": "Cascade transformers, e.g. for use with extra high tension",
+      "count": 262,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F38/18": {
+      "code": "H01F38/18",
+      "level": 1,
+      "parent": "H01F38/00",
+      "ja": "回転変成器［６］",
+      "en": "Rotary transformers",
+      "count": 1720,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F38/20": {
+      "code": "H01F38/20",
+      "level": 1,
+      "parent": "H01F38/00",
+      "ja": "計器用変成器［６］",
+      "en": "Instrument transformers",
+      "count": 2539,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F38/22": {
+      "code": "H01F38/22",
+      "level": 2,
+      "parent": "H01F38/20",
+      "ja": "単相交流用［６］",
+      "en": "for single phase AC",
+      "count": 450,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F38/24": {
+      "code": "H01F38/24",
+      "level": 3,
+      "parent": "H01F38/22",
+      "ja": "電圧変成器［６］",
+      "en": "Voltage transformers",
+      "count": 1630,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F38/26": {
+      "code": "H01F38/26",
+      "level": 4,
+      "parent": "H01F38/24",
+      "ja": "構成［６］",
+      "en": "Constructions",
+      "count": 2283,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F38/28": {
+      "code": "H01F38/28",
+      "level": 3,
+      "parent": "H01F38/22",
+      "ja": "電流変成器［６］",
+      "en": "Current transformers",
+      "count": 4564,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F38/30": {
+      "code": "H01F38/30",
+      "level": 4,
+      "parent": "H01F38/28",
+      "ja": "構成［６］",
+      "en": "Constructions",
+      "count": 7257,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F38/32": {
+      "code": "H01F38/32",
+      "level": 4,
+      "parent": "H01F38/28",
+      "ja": "回路装置［６］",
+      "en": "Circuit arrangements",
+      "count": 654,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F38/34": {
+      "code": "H01F38/34",
+      "level": 3,
+      "parent": "H01F38/22",
+      "ja": "電圧変成器と電流変成器の組み合わせ［６］",
+      "en": "Combined voltage and current transformers",
+      "count": 460,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F38/36": {
+      "code": "H01F38/36",
+      "level": 4,
+      "parent": "H01F38/34",
+      "ja": "構成［６］",
+      "en": "Constructions",
+      "count": 553,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F38/38": {
+      "code": "H01F38/38",
+      "level": 2,
+      "parent": "H01F38/20",
+      "ja": "多相交流用［６］",
+      "en": "for polyphase AC",
+      "count": 743,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F38/40": {
+      "code": "H01F38/40",
+      "level": 2,
+      "parent": "H01F38/20",
+      "ja": "直流用［６］",
+      "en": "for DC",
+      "count": 258,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F38/42": {
+      "code": "H01F38/42",
+      "level": 1,
+      "parent": "H01F38/00",
+      "ja": "フライバック変成器［６］",
+      "en": "Flyback transformers",
+      "count": 4486,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F41/00": {
+      "code": "H01F41/00",
+      "level": 0,
+      "parent": "H01F",
+      "ja": "磁石，インダクタンスまたは変圧器の製造または組立に特に適合した装置または工程；磁気特性により特徴付けられる材料の製造に特に適合した装置または工程",
+      "en": "Apparatus or processes specially adapted for manufacturing or assembling magnets, inductances or transformers; Apparatus or processes specially adapted for manufacturing materials characterised by their magnetic properties",
+      "count": 16342,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F41/02": {
+      "code": "H01F41/02",
+      "level": 1,
+      "parent": "H01F41/00",
+      "ja": "コア，コイルまたは磁石を製造するためのもの（Ｈ０１Ｆ４１／１４が優先）［３］",
+      "en": "for manufacturing cores, coils or magnets(<b>H01F41/14</b> takes precedence)",
+      "count": 39251,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F41/04": {
+      "code": "H01F41/04",
+      "level": 2,
+      "parent": "H01F41/02",
+      "ja": "コイル製造用",
+      "en": "for manufacturing coils",
+      "count": 15571,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F41/06": {
+      "code": "H01F41/06",
+      "level": 3,
+      "parent": "H01F41/04",
+      "ja": "コイルの巻回［１，２０１６．０１］",
+      "en": "Coil winding",
+      "count": 13586,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F41/061": {
+      "code": "H01F41/061",
+      "level": 4,
+      "parent": "H01F41/06",
+      "ja": "平らな導電性のワイヤまたはシートの巻回［２０１６．０１］",
+      "en": "Winding flat conductive wires or sheets",
+      "count": 947,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F41/063": {
+      "code": "H01F41/063",
+      "level": 5,
+      "parent": "H01F41/061",
+      "ja": "絶縁材と共に行うもの［２０１６．０１］",
+      "en": "with insulation",
+      "count": 268,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F41/064": {
+      "code": "H01F41/064",
+      "level": 4,
+      "parent": "H01F41/06",
+      "ja": "平らでない導電性のワイヤの巻回，例．ロッド，ケーブルまたはコード［２０１６．０１］",
+      "en": "Winding non-flat conductive wires, e.g. rods, cables or cords",
+      "count": 585,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F41/066": {
+      "code": "H01F41/066",
+      "level": 5,
+      "parent": "H01F41/064",
+      "ja": "絶縁材と共に行うもの［２０１６．０１］",
+      "en": "with insulation",
+      "count": 808,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F41/068": {
+      "code": "H01F41/068",
+      "level": 6,
+      "parent": "H01F41/066",
+      "ja": "ストリップ材料の形状であるもの［２０１６．０１］",
+      "en": "in the form of strip material",
+      "count": 52,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F41/069": {
+      "code": "H01F41/069",
+      "level": 5,
+      "parent": "H01F41/064",
+      "ja": "２以上のワイヤの巻回，例．バイファイラ巻［２０１６．０１］",
+      "en": "Winding two or more wires, e.g. bifilar winding",
+      "count": 288,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F41/07": {
+      "code": "H01F41/07",
+      "level": 6,
+      "parent": "H01F41/069",
+      "ja": "ねじり［２０１６．０１］",
+      "en": "Twisting",
+      "count": 147,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F41/071": {
+      "code": "H01F41/071",
+      "level": 4,
+      "parent": "H01F41/06",
+      "ja": "特別な形状のコイルの巻回（閉じている巻型またはコアへの導体の巻回Ｈ０１Ｆ４１／０８）［２０１６．０１］",
+      "en": "Winding coils of special form(winding conductors onto closed formers or cores <b>H01F41/08</b>)",
+      "count": 669,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F41/073": {
+      "code": "H01F41/073",
+      "level": 5,
+      "parent": "H01F41/071",
+      "ja": "細長い巻型への巻回［２０１６．０１］",
+      "en": "Winding onto elongate formers",
+      "count": 49,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F41/074": {
+      "code": "H01F41/074",
+      "level": 5,
+      "parent": "H01F41/071",
+      "ja": "平らなコイルの巻回［２０１６．０１］",
+      "en": "Winding flat coils",
+      "count": 229,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F41/076": {
+      "code": "H01F41/076",
+      "level": 4,
+      "parent": "H01F41/06",
+      "ja": "巻回時のタップまたは端子の形成，例．ピンへのワイヤの巻付けもしくははんだ付けによるもの，またはワイヤからの端子の直接形成によるもの［２０１６．０１］",
+      "en": "Forming taps or terminals while winding, e.g. by wrapping or soldering the wire onto pins, or by directly forming terminals from the wire",
+      "count": 1677,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F41/077": {
+      "code": "H01F41/077",
+      "level": 4,
+      "parent": "H01F41/06",
+      "ja": "巻回時の巻回材料の断面または形状の変形［２０１６．０１］",
+      "en": "Deforming the cross section or shape of the winding material while winding",
+      "count": 637,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F41/079": {
+      "code": "H01F41/079",
+      "level": 4,
+      "parent": "H01F41/06",
+      "ja": "巻回時の電気的特性の測定［２０１６．０１］",
+      "en": "Measuring electrical characteristics while winding",
+      "count": 179,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F41/08": {
+      "code": "H01F41/08",
+      "level": 4,
+      "parent": "H01F41/06",
+      "ja": "閉じている巻型またはコアへの導体の巻回，例．トロイダルコアへの導体の挿通",
+      "en": "Winding conductors onto closed formers or cores, e.g. threading conductors through toroidal cores",
+      "count": 3264,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F41/082": {
+      "code": "H01F41/082",
+      "level": 4,
+      "parent": "H01F41/06",
+      "ja": "巻回材料を巻型に誘導または配置する装置［２０１６．０１］",
+      "en": "Devices for guiding or positioning the winding material on the former",
+      "count": 2797,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F41/084": {
+      "code": "H01F41/084",
+      "level": 5,
+      "parent": "H01F41/082",
+      "ja": "パンケーキコイルを形成するためのもの［２０１６．０１］",
+      "en": "for forming pancake coils",
+      "count": 72,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F41/086": {
+      "code": "H01F41/086",
+      "level": 5,
+      "parent": "H01F41/082",
+      "ja": "巻型への特別な配列におけるもの，例．オルトサイクリックコイルまたはオープンメッシュコイル［２０１６．０１］",
+      "en": "in a special configuration on the former, e.g. orthocyclic coils or open mesh coils",
+      "count": 101,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F41/088": {
+      "code": "H01F41/088",
+      "level": 5,
+      "parent": "H01F41/082",
+      "ja": "回転フライヤを用いるもの［２０１６．０１］",
+      "en": "using revolving flyers",
+      "count": 228,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F41/09": {
+      "code": "H01F41/09",
+      "level": 4,
+      "parent": "H01F41/06",
+      "ja": "２以上のワークホルダまたは巻型をもつ巻線機［２０１６．０１］",
+      "en": "Winding machines having two or more work holders or formers",
+      "count": 1110,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F41/092": {
+      "code": "H01F41/092",
+      "level": 5,
+      "parent": "H01F41/09",
+      "ja": "タレット；回転台［２０１６．０１］",
+      "en": "Turrets; Turntables",
+      "count": 408,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F41/094": {
+      "code": "H01F41/094",
+      "level": 4,
+      "parent": "H01F41/06",
+      "ja": "張力または制動装置［２０１６．０１］",
+      "en": "Tensioning or braking devices",
+      "count": 1802,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F41/096": {
+      "code": "H01F41/096",
+      "level": 4,
+      "parent": "H01F41/06",
+      "ja": "分配または供給装置［２０１６．０１］",
+      "en": "Dispensing or feeding devices",
+      "count": 2642,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F41/098": {
+      "code": "H01F41/098",
+      "level": 4,
+      "parent": "H01F41/06",
+      "ja": "マンドレル；巻型［２０１６．０１］",
+      "en": "Mandrels;  Formers",
+      "count": 2904,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F41/10": {
+      "code": "H01F41/10",
+      "level": 3,
+      "parent": "H01F41/04",
+      "ja": "巻線へのリード接続",
+      "en": "Connecting leads to windings",
+      "count": 3562,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F41/12": {
+      "code": "H01F41/12",
+      "level": 3,
+      "parent": "H01F41/04",
+      "ja": "巻線の絶縁",
+      "en": "Insulating of windings",
+      "count": 9239,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F41/14": {
+      "code": "H01F41/14",
+      "level": 1,
+      "parent": "H01F41/00",
+      "ja": "基体に磁性膜を適用するためのもの［３］<br><br><b><ul>注</ul></b><br>グループ４１／３０がグループ４１／１６～４１／２４に優先する。［７］",
+      "en": "for applying magnetic films to substrates",
+      "count": 1385,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F41/16": {
+      "code": "H01F41/16",
+      "level": 2,
+      "parent": "H01F41/14",
+      "ja": "粒子形状で適用された磁性材料，例，シルクスクリーン彩色印刷法（Ｈ０１Ｆ４１／１８が優先）［３，７］",
+      "en": "the magnetic material being applied in the form of particles, e.g. by serigraphy(<b>H01F41/18</b> takes precedence)",
+      "count": 737,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F41/18": {
+      "code": "H01F41/18",
+      "level": 2,
+      "parent": "H01F41/14",
+      "ja": "陰極スパッタリングによるもの［３］",
+      "en": "by cathode sputtering",
+      "count": 2113,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F41/20": {
+      "code": "H01F41/20",
+      "level": 2,
+      "parent": "H01F41/14",
+      "ja": "蒸着によるもの［３］",
+      "en": "by evaporation",
+      "count": 1102,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F41/22": {
+      "code": "H01F41/22",
+      "level": 2,
+      "parent": "H01F41/14",
+      "ja": "熱処理；熱分解；化学蒸着（ＣＶＤ）［３］",
+      "en": "Heat treatment; Thermal decomposition; Chemical vapour deposition",
+      "count": 554,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F41/24": {
+      "code": "H01F41/24",
+      "level": 2,
+      "parent": "H01F41/14",
+      "ja": "液体からのもの［３］",
+      "en": "from liquids",
+      "count": 366,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F41/26": {
+      "code": "H01F41/26",
+      "level": 3,
+      "parent": "H01F41/24",
+      "ja": "電流を用いるもの［３］",
+      "en": "using electric currents",
+      "count": 528,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F41/28": {
+      "code": "H01F41/28",
+      "level": 3,
+      "parent": "H01F41/24",
+      "ja": "液相エピタキシーによるもの［３］",
+      "en": "by liquid phase epitaxy",
+      "count": 358,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F41/30": {
+      "code": "H01F41/30",
+      "level": 2,
+      "parent": "H01F41/14",
+      "ja": "極小構造を適用するためのもの，例，分子ビーム・エピタキシー［ＭＢＥ］によるもの［２００６．０１］",
+      "en": "for applying nanostructures, e.g. by molecular beam epitaxy [MBE]",
+      "count": 848,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F41/32": {
+      "code": "H01F41/32",
+      "level": 1,
+      "parent": "H01F41/00",
+      "ja": "磁性膜の上に伝導性，絶縁性，または磁性の材料を適用するためのもの［７］",
+      "en": "for applying conductive, insulating or magnetic material on a magnetic film",
+      "count": 426,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    },
+    "H01F41/34": {
+      "code": "H01F41/34",
+      "level": 2,
+      "parent": "H01F41/32",
+      "ja": "パターンでの，例，リトグラフィによる［７］",
+      "en": "in patterns, e.g. by lithography",
+      "count": 537,
+      "sourceFile": "ipc_H01F.txt",
+      "kind": "ipc"
+    }
+  }
+};

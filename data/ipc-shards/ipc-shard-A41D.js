@@ -1,0 +1,996 @@
+window.IPC_SHARD_A41D = {
+  "generatedAt": "2026-03-20T02:17:45.897Z",
+  "total": 99,
+  "entries": {
+    "A41D": {
+      "code": "A41D",
+      "level": 0,
+      "parent": "A41",
+      "ja": "外着；保護衣；付属品<br><br><b><ul>注</ul></b><br>このサブクラスにおいては，下記の用語は以下に示す意味で用いる：<br>―“外着”は化粧着，水泳着およびパジャマを包含する。<br><br><b><ul>サブクラス内の索引</ul></b><br>材料に特徴のあるもの　３１／００<br>外着<br>外着一般　１／００，３／００，５／００，１１／００，１５／００<br>特殊な用途の外着　７／００，１０／００，１３／００，２９／００<br>衣類の細部　２７／００<br>付属品　１７／００～２５／００",
+      "en": "OUTERWEAR; PROTECTIVE GARMENTS; ACCESSORIES; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this subclass, the following term is used with the meaning indicated:<ul><li>\"outerwear\" covers dressing-gowns, bathing costumes and pyjamas.</li></ul></li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">SELECTION OF SPECIAL MATERIALS </td><td><b><b>31/00</b></b></td></tr></tr><tr><td width=\"70%\">OUTERWEAR<tr><td width=\"70%\">Outerwear in general </td><td><b><b>1/00</b>, <b>3/00</b>, <b>5/00</b>, <b>11/00</b>, <b>15/00</b></b></td></tr></tr><tr><td width=\"70%\">Outerwear for particular use </td><td><b><b>7/00</b>, <b>10/00</b>, <b>13/00</b>, <b>29/00</b></b></td></tr></tr><tr><td width=\"70%\">Details of garments </td><td><b><b>27/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">ACCESSORIES </td><td><b><b>17/00 to 25/00</b> </b></td></tr></tr></table>",
+      "count": 2511,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A41": {
+      "code": "A41",
+      "level": 0,
+      "parent": "A",
+      "ja": "衣類",
+      "en": "WEARING APPAREL",
+      "count": 0,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A": {
+      "code": "A",
+      "level": 0,
+      "parent": null,
+      "ja": "生活必需品",
+      "en": "HUMAN NECESSITIES",
+      "count": 0,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A41D1/00": {
+      "code": "A41D1/00",
+      "level": 0,
+      "parent": "A41D",
+      "ja": "衣服（子供用Ａ４１Ｄ１１／００）［２０１８．０１］",
+      "en": "Garments(for children <b>A41D11/00</b>)",
+      "count": 16586,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D1/02": {
+      "code": "A41D1/02",
+      "level": 1,
+      "parent": "A41D1/00",
+      "ja": "上着",
+      "en": "Jackets",
+      "count": 4468,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D1/04": {
+      "code": "A41D1/04",
+      "level": 1,
+      "parent": "A41D1/00",
+      "ja": "チョッキ，ニットシャツ，セーターまたは類似のもの",
+      "en": "Vests, jerseys, sweaters or the like ",
+      "count": 12716,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D1/06": {
+      "code": "A41D1/06",
+      "level": 1,
+      "parent": "A41D1/00",
+      "ja": "ズボン",
+      "en": "Trousers",
+      "count": 14459,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D1/08": {
+      "code": "A41D1/08",
+      "level": 2,
+      "parent": "A41D1/06",
+      "ja": "スポーツ用に特に適合したもの［２０１８．０１］",
+      "en": "specially adapted for sporting purposes",
+      "count": 2857,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D1/082": {
+      "code": "A41D1/082",
+      "level": 3,
+      "parent": "A41D1/08",
+      "ja": "スキー用［２０１８．０１］",
+      "en": "for skiing",
+      "count": 182,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D1/084": {
+      "code": "A41D1/084",
+      "level": 3,
+      "parent": "A41D1/08",
+      "ja": "サイクリング用［２０１８．０１］",
+      "en": "for cycling",
+      "count": 299,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D1/085": {
+      "code": "A41D1/085",
+      "level": 3,
+      "parent": "A41D1/08",
+      "ja": "ゴルフ用［２０１８．０１］",
+      "en": "for playing golf",
+      "count": 42,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D1/086": {
+      "code": "A41D1/086",
+      "level": 3,
+      "parent": "A41D1/08",
+      "ja": "乗馬用［２０１８．０１］",
+      "en": "for horse riding",
+      "count": 118,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D1/089": {
+      "code": "A41D1/089",
+      "level": 3,
+      "parent": "A41D1/08",
+      "ja": "ショートパンツ［２０１８．０１］",
+      "en": "Shorts",
+      "count": 533,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D1/10": {
+      "code": "A41D1/10",
+      "level": 2,
+      "parent": "A41D1/06",
+      "ja": "ひだを保つための手段",
+      "en": "Means for maintaining the crease",
+      "count": 219,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D1/12": {
+      "code": "A41D1/12",
+      "level": 2,
+      "parent": "A41D1/06",
+      "ja": "Ｏ脚をかくすための手段",
+      "en": "Means for hiding bandy legs",
+      "count": 34,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D1/14": {
+      "code": "A41D1/14",
+      "level": 1,
+      "parent": "A41D1/00",
+      "ja": "スカート",
+      "en": "Skirts",
+      "count": 3768,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D1/16": {
+      "code": "A41D1/16",
+      "level": 2,
+      "parent": "A41D1/14",
+      "ja": "輪骨入りスカート；堅い布で作った下スカートでふくらませたスカート",
+      "en": "Hooped skirts; Crinolines",
+      "count": 149,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D1/18": {
+      "code": "A41D1/18",
+      "level": 1,
+      "parent": "A41D1/00",
+      "ja": "ブラウス",
+      "en": "Blouses",
+      "count": 436,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D1/21": {
+      "code": "A41D1/21",
+      "level": 1,
+      "parent": "A41D1/00",
+      "ja": "妊産婦服；乳幼児の世話をする人に特に適合した衣服［２０１８．０１］",
+      "en": "Maternity clothing; Clothing specially adapted for persons caring for infants",
+      "count": 713,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D1/215": {
+      "code": "A41D1/215",
+      "level": 2,
+      "parent": "A41D1/21",
+      "ja": "授乳用衣服，例．母乳を与えるためのもの［２０１８．０１］",
+      "en": "Nursing clothing, e.g. for breastfeeding",
+      "count": 854,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D1/22": {
+      "code": "A41D1/22",
+      "level": 1,
+      "parent": "A41D1/00",
+      "ja": "他に分類されない，女性に特に適合した衣服［２０１８．０１］",
+      "en": "Clothing specially adapted for women, not otherwise provided for",
+      "count": 2064,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D3/00": {
+      "code": "A41D3/00",
+      "level": 0,
+      "parent": "A41D",
+      "ja": "外套（毛皮服Ａ４１Ｄ５／００；子供用Ａ４１Ｄ１１／００；職業用またはスポーツ用保護衣Ａ４１Ｄ１３／００）",
+      "en": "Overgarments(fur garments <b>A41D5/00</b>; for children <b>A41D11/00</b>; professional or sporting protective garments <b>A41D13/00</b>)",
+      "count": 6992,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D3/02": {
+      "code": "A41D3/02",
+      "level": 1,
+      "parent": "A41D3/00",
+      "ja": "オーバーコート",
+      "en": "Overcoats",
+      "count": 2133,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D3/04": {
+      "code": "A41D3/04",
+      "level": 2,
+      "parent": "A41D3/02",
+      "ja": "レインコート",
+      "en": "Raincoats",
+      "count": 6030,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D3/06": {
+      "code": "A41D3/06",
+      "level": 3,
+      "parent": "A41D3/04",
+      "ja": "足を保護する手段を有するもの",
+      "en": "with leg-protecting means",
+      "count": 996,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D3/08": {
+      "code": "A41D3/08",
+      "level": 1,
+      "parent": "A41D3/00",
+      "ja": "ケープ",
+      "en": "Capes",
+      "count": 1769,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D5/00": {
+      "code": "A41D5/00",
+      "level": 0,
+      "parent": "A41D",
+      "ja": "毛皮服；模造毛皮の衣服",
+      "en": "Fur garments; Garments of fur substitutes",
+      "count": 589,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D7/00": {
+      "code": "A41D7/00",
+      "level": 0,
+      "parent": "A41D",
+      "ja": "入浴着；水泳着，水泳パンツ；海浜着［２００６．０１］",
+      "en": "Bathing gowns; Swim-suits, drawers, or trunks; Beach suits",
+      "count": 4431,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D10/00": {
+      "code": "A41D10/00",
+      "level": 0,
+      "parent": "A41D",
+      "ja": "パジャマ；寝衣［３］",
+      "en": "Pyjamas; Nightdresses",
+      "count": 1697,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D11/00": {
+      "code": "A41D11/00",
+      "level": 0,
+      "parent": "A41D",
+      "ja": "子供服",
+      "en": "Garments for children",
+      "count": 5453,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D13/00": {
+      "code": "A41D13/00",
+      "level": 0,
+      "parent": "A41D",
+      "ja": "職業用，工業用またはスポーツ用の保護衣類，例．外科医用のガウン，あるいは衝撃または打撃に対する保護を有する衣服（ヘルメットＡ４２Ｂ３／００；化学剤からの防護のためのまたは高所での使用のための防護服Ａ６２Ｂ１７／００；海で使用する救命衣類，潜水服Ｂ６３Ｃ；防弾または装甲服Ｆ４１Ｈ；放射線防護服Ｇ２１Ｆ３／０２）［２００６．０１］",
+      "en": "Professional, industrial or sporting protective garments, e.g. surgeons' gowns or garments protecting against blows or punches(helmets <b>A42B3/00</b>;   clothing affording protection against chemical agents or for use at high altitudes <b>A62B17/00</b>;   life-saving garments for use at sea, diving suits <b>B63C</b>;   bulletproof or armoured clothing <b>F41H</b>;   clothing affording protection against radiation <b>G21F3/02</b>)",
+      "count": 24250,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D13/002": {
+      "code": "A41D13/002",
+      "level": 1,
+      "parent": "A41D13/00",
+      "ja": "衣服内環境が調整されるもの［７］",
+      "en": "with controlled internal environment",
+      "count": 3510,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D13/005": {
+      "code": "A41D13/005",
+      "level": 2,
+      "parent": "A41D13/002",
+      "ja": "温度が調整されるもの［７］",
+      "en": "with controlled temperature",
+      "count": 11337,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D13/008": {
+      "code": "A41D13/008",
+      "level": 1,
+      "parent": "A41D13/00",
+      "ja": "電気ショックまたは静電気から防護するもの［７］",
+      "en": "protecting against electric shocks or static electricity",
+      "count": 1928,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D13/01": {
+      "code": "A41D13/01",
+      "level": 1,
+      "parent": "A41D13/00",
+      "ja": "反射性または発光性の安全手段を有するもの［７］",
+      "en": "with reflective or luminous safety means",
+      "count": 6358,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D13/012": {
+      "code": "A41D13/012",
+      "level": 1,
+      "parent": "A41D13/00",
+      "ja": "水上または水中での活動用，例．浮力が付加されたもの［７］",
+      "en": "for aquatic activities, e.g. with buoyancy aids",
+      "count": 1624,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D13/015": {
+      "code": "A41D13/015",
+      "level": 1,
+      "parent": "A41D13/00",
+      "ja": "衝撃吸収手段を有するもの（Ａ４１Ｄ１３／０５が優先）［７］",
+      "en": "with shock-absorbing means(<b>A41D13/05</b> takes precedence)",
+      "count": 3757,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D13/018": {
+      "code": "A41D13/018",
+      "level": 2,
+      "parent": "A41D13/015",
+      "ja": "自動的に膨らむもの［７］",
+      "en": "inflatable automatically",
+      "count": 1174,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D13/02": {
+      "code": "A41D13/02",
+      "level": 1,
+      "parent": "A41D13/00",
+      "ja": "繋ぎ服（発汗着Ａ６１Ｈ３６／００）［２００６．０１］",
+      "en": "Overalls(sweating suits <b>A61H36/00</b>)",
+      "count": 2913,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D13/04": {
+      "code": "A41D13/04",
+      "level": 1,
+      "parent": "A41D13/00",
+      "ja": "エプロン；エプロンの留め具",
+      "en": "Aprons; Fastening devices for aprons",
+      "count": 3387,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D13/05": {
+      "code": "A41D13/05",
+      "level": 1,
+      "parent": "A41D13/00",
+      "ja": "身体の特定部分のみを保護するもの（耳の保護具Ａ６１Ｆ１１／０６）［２００６．０１］",
+      "en": "protecting only a particular body part(ear protectors <b>A61F11/06</b>)",
+      "count": 9301,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D13/06": {
+      "code": "A41D13/06",
+      "level": 2,
+      "parent": "A41D13/05",
+      "ja": "膝または足［１，７］",
+      "en": "Knee or foot",
+      "count": 7531,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D13/08": {
+      "code": "A41D13/08",
+      "level": 2,
+      "parent": "A41D13/05",
+      "ja": "腕または手（保護用手袋Ａ４１Ｄ１９／０１５）［１，７］",
+      "en": "Arm or hand(protective gloves <b>A41D19/015</b>)",
+      "count": 7745,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D13/11": {
+      "code": "A41D13/11",
+      "level": 2,
+      "parent": "A41D13/05",
+      "ja": "保護用の顔面マスク，例．外科医用，または汚れた空気中で使用するもの（アイマスクＡ６１Ｆ９／０４）［７］",
+      "en": "Protective face masks, e.g. for surgical use, or for use in foul atmospheres(eye-masks <b>A61F9/04</b>)",
+      "count": 36750,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D13/12": {
+      "code": "A41D13/12",
+      "level": 1,
+      "parent": "A41D13/00",
+      "ja": "外科医用または患者用ガウンまたは衣服［３］",
+      "en": "Surgeons' or patients' gowns or dresses",
+      "count": 18266,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D15/00": {
+      "code": "A41D15/00",
+      "level": 0,
+      "parent": "A41D",
+      "ja": "転用できる衣服［２００６．０１］",
+      "en": "Convertible garments",
+      "count": 4987,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D15/02": {
+      "code": "A41D15/02",
+      "level": 1,
+      "parent": "A41D15/00",
+      "ja": "ズボンに転用できるスカート",
+      "en": "Skirts convertible into trousers",
+      "count": 221,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D15/04": {
+      "code": "A41D15/04",
+      "level": 1,
+      "parent": "A41D15/00",
+      "ja": "他の物品に転用できる衣服",
+      "en": "Garments convertible into other articles",
+      "count": 2017,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D17/00": {
+      "code": "A41D17/00",
+      "level": 0,
+      "parent": "A41D",
+      "ja": "ゲートル；短かいゲートル",
+      "en": "Gaiters; Spats",
+      "count": 1089,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D17/02": {
+      "code": "A41D17/02",
+      "level": 1,
+      "parent": "A41D17/00",
+      "ja": "すね当て",
+      "en": "Leggings",
+      "count": 611,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D17/04": {
+      "code": "A41D17/04",
+      "level": 1,
+      "parent": "A41D17/00",
+      "ja": "巻きゲートル",
+      "en": "Puttees",
+      "count": 143,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D19/00": {
+      "code": "A41D19/00",
+      "level": 0,
+      "parent": "A41D",
+      "ja": "手袋（手術用手袋Ａ６１Ｂ４２／１０；水泳用手袋Ａ６３Ｂ３１／０２；ゲームまたはスポーツ用の附属具，例．野球，ボクシング，またはゴルフ用の手袋Ａ６３Ｂ７１／１４；グラブボックス用の手袋Ｂ２５Ｊ２１／０２）［１，７］",
+      "en": "Gloves(surgical gloves <b>A61B42/10</b>; swimming gloves <b>A63B31/02</b>; as accessories for games or sports, e.g. baseball, boxing or golf gloves, <b>A63B71/14</b>; gloves for glove-boxes <b>B25J21/02</b>)",
+      "count": 18050,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D19/01": {
+      "code": "A41D19/01",
+      "level": 1,
+      "parent": "A41D19/00",
+      "ja": "分かれていない四本の指全体の覆いを有する手袋，すなわちミトン（Ａ４１Ｄ１９／０１５が優先）［２，７］",
+      "en": "with undivided covering for all four fingers, i.e. mittens(<b>A41D19/015</b> takes precedence)",
+      "count": 1267,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D19/015": {
+      "code": "A41D19/015",
+      "level": 1,
+      "parent": "A41D19/00",
+      "ja": "保護用手袋［７］",
+      "en": "Protective gloves",
+      "count": 15922,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D19/02": {
+      "code": "A41D19/02",
+      "level": 1,
+      "parent": "A41D19/00",
+      "ja": "未加工の手袋の裁断または形とりのための装置",
+      "en": "Arrangements for cutting-out, or shapes of, glove blanks",
+      "count": 675,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D19/04": {
+      "code": "A41D19/04",
+      "level": 1,
+      "parent": "A41D19/00",
+      "ja": "手袋製造のための器具；手袋製造のための測定器具",
+      "en": "Appliances for making gloves; Measuring devices for glove-making",
+      "count": 2247,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D20/00": {
+      "code": "A41D20/00",
+      "level": 0,
+      "parent": "A41D",
+      "ja": "リストバンドまたはヘッドバンド，例．汗吸収用［２００６．０１］",
+      "en": "Wristbands or headbands, e.g. for absorbing sweat",
+      "count": 1245,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D23/00": {
+      "code": "A41D23/00",
+      "level": 0,
+      "parent": "A41D",
+      "ja": "スカーフ；ヘッドスカーフ；ネッカチーフ",
+      "en": "Scarves; Head-scarves; Neckerchiefs",
+      "count": 3561,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D25/00": {
+      "code": "A41D25/00",
+      "level": 0,
+      "parent": "A41D",
+      "ja": "ネクタイ",
+      "en": "Neckties",
+      "count": 2650,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D25/02": {
+      "code": "A41D25/02",
+      "level": 1,
+      "parent": "A41D25/00",
+      "ja": "バンドを有するまたは有しない既製の結び目または蝶結びを有するもの",
+      "en": "with ready-made knot or bow, with or without bands",
+      "count": 2413,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D25/04": {
+      "code": "A41D25/04",
+      "level": 2,
+      "parent": "A41D25/02",
+      "ja": "バンドの留め具",
+      "en": "Fastening devices for the bands",
+      "count": 671,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D25/06": {
+      "code": "A41D25/06",
+      "level": 1,
+      "parent": "A41D25/00",
+      "ja": "使用者により結ばれた，結び目，蝶結びまたは類似物を有するもの",
+      "en": "with knot, bow, or like tied by the user",
+      "count": 591,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D25/08": {
+      "code": "A41D25/08",
+      "level": 2,
+      "parent": "A41D25/06",
+      "ja": "結び目または類似物を形成または結ぶための手段",
+      "en": "Means for forming or tying the knot, or the like",
+      "count": 323,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D25/10": {
+      "code": "A41D25/10",
+      "level": 2,
+      "parent": "A41D25/06",
+      "ja": "結び目または類似物を保持するための手段",
+      "en": "Means for holding the knot, or the like",
+      "count": 501,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D25/12": {
+      "code": "A41D25/12",
+      "level": 3,
+      "parent": "A41D25/10",
+      "ja": "カラーまたはカラーボタンに取付けられるもの",
+      "en": "attachable to the collar or stud",
+      "count": 398,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D25/14": {
+      "code": "A41D25/14",
+      "level": 2,
+      "parent": "A41D25/06",
+      "ja": "同時に結び目形成と保持をする手段",
+      "en": "Means for forming and holding simultaneously",
+      "count": 214,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D25/16": {
+      "code": "A41D25/16",
+      "level": 1,
+      "parent": "A41D25/00",
+      "ja": "裏地；補強片",
+      "en": "Linings; Stiffening-pieces",
+      "count": 409,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D27/00": {
+      "code": "A41D27/00",
+      "level": 0,
+      "parent": "A41D",
+      "ja": "衣服または衣服製作の細部（ボタン，ピン，バックル，スライドファスナーまたは類似のものＡ４４Ｂ）［２００６．０１］",
+      "en": "Details of garments or of their making(buttons, pins, buckles, slide fasteners or the like <b>A44B</b>)",
+      "count": 46062,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D27/02": {
+      "code": "A41D27/02",
+      "level": 1,
+      "parent": "A41D27/00",
+      "ja": "裏地",
+      "en": "Linings",
+      "count": 3717,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D27/04": {
+      "code": "A41D27/04",
+      "level": 2,
+      "parent": "A41D27/02",
+      "ja": "取り外し可能な裏地",
+      "en": "Removable linings",
+      "count": 1216,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D27/06": {
+      "code": "A41D27/06",
+      "level": 2,
+      "parent": "A41D27/02",
+      "ja": "補強片",
+      "en": "Stiffening-pieces",
+      "count": 2330,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D27/08": {
+      "code": "A41D27/08",
+      "level": 1,
+      "parent": "A41D27/00",
+      "ja": "トリミング；装飾［２００６．０１］",
+      "en": "Trimmings; Ornaments",
+      "count": 7758,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D27/10": {
+      "code": "A41D27/10",
+      "level": 1,
+      "parent": "A41D27/00",
+      "ja": "袖；袖ぐり",
+      "en": "Sleeves; Armholes",
+      "count": 13693,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D27/12": {
+      "code": "A41D27/12",
+      "level": 1,
+      "parent": "A41D27/00",
+      "ja": "保護物または防護物",
+      "en": "Shields or protectors",
+      "count": 6568,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D27/13": {
+      "code": "A41D27/13",
+      "level": 2,
+      "parent": "A41D27/12",
+      "ja": "脇の下の保護物［２］",
+      "en": "Under-arm shields",
+      "count": 1244,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D27/14": {
+      "code": "A41D27/14",
+      "level": 2,
+      "parent": "A41D27/12",
+      "ja": "衣服の下縁にあるもの",
+      "en": "on the underedge of the garment",
+      "count": 315,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D27/16": {
+      "code": "A41D27/16",
+      "level": 2,
+      "parent": "A41D27/12",
+      "ja": "えりの保護物",
+      "en": "Collar-shields",
+      "count": 570,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D27/18": {
+      "code": "A41D27/18",
+      "level": 1,
+      "parent": "A41D27/00",
+      "ja": "衣服のえり",
+      "en": "Cloth collars",
+      "count": 6361,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D27/20": {
+      "code": "A41D27/20",
+      "level": 1,
+      "parent": "A41D27/00",
+      "ja": "ポケット；ポケットの製造または配置",
+      "en": "Pockets; Making or setting-in pockets",
+      "count": 19124,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D27/22": {
+      "code": "A41D27/22",
+      "level": 1,
+      "parent": "A41D27/00",
+      "ja": "吊り下げるためのループまたはフック（錠を有するものＥ０５Ｂ６９／００）",
+      "en": "Loops or hooks for hanging-up(with locking devices <b>E05B69/00</b>)",
+      "count": 1060,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D27/24": {
+      "code": "A41D27/24",
+      "level": 1,
+      "parent": "A41D27/00",
+      "ja": "ヘリ縫い；縫い目",
+      "en": "Hems; Seams",
+      "count": 5295,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D27/26": {
+      "code": "A41D27/26",
+      "level": 1,
+      "parent": "A41D27/00",
+      "ja": "肩パット；腰パット；バッスル",
+      "en": "Shoulder-pads; Hip-pads; Bustles",
+      "count": 2735,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D27/28": {
+      "code": "A41D27/28",
+      "level": 1,
+      "parent": "A41D27/00",
+      "ja": "通風手段［２］",
+      "en": "Means for ventilation",
+      "count": 9638,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D29/00": {
+      "code": "A41D29/00",
+      "level": 0,
+      "parent": "A41D",
+      "ja": "制服・ユニフォーム；制服・ユニフォームの部分または付属品",
+      "en": "Uniforms; Parts or accessories of uniforms",
+      "count": 2604,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D31/00": {
+      "code": "A41D31/00",
+      "level": 0,
+      "parent": "A41D",
+      "ja": "外着用に特に適した材料［２０１９．０１］",
+      "en": "Materials specially adapted for outerwear",
+      "count": 16217,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D31/02": {
+      "code": "A41D31/02",
+      "level": 1,
+      "parent": "A41D31/00",
+      "ja": "層状の材料（特別な機能または用途に特徴のあるものＡ４１Ｄ３１／０４）［２０１９．０１］",
+      "en": "Layered materials (characterised by special function or use <b>A41D31/04</b>)",
+      "count": 28427,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D31/04": {
+      "code": "A41D31/04",
+      "level": 1,
+      "parent": "A41D31/00",
+      "ja": "特殊機能または使用により特徴付けられるもの（熱または有害な化学剤からの防護のためのまたは高所での使用のための防護服Ａ６２Ｂ１７／００；有害な化学剤に対して保護被覆または保護おおいを与える物質の組成Ａ６２Ｄ５／００）［２０１９．０１］",
+      "en": "characterised by special function or use (protective clothing affording protection against heat or harmful chemical agents or for use at high altitudes <b>A62B17/00</b>;   composition of materials for coverings or clothing affording protection against harmful chemical agents <b>A62D5/00</b>)",
+      "count": 12387,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D31/06": {
+      "code": "A41D31/06",
+      "level": 2,
+      "parent": "A41D31/04",
+      "ja": "熱防護性，例．断熱性［２０１９．０１］",
+      "en": "Thermally protective, e.g. insulating",
+      "count": 5280,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D31/08": {
+      "code": "A41D31/08",
+      "level": 2,
+      "parent": "A41D31/04",
+      "ja": "耐熱性；難燃性［２０１９．０１］",
+      "en": "Heat resistant; Fire retardant",
+      "count": 2037,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D31/10": {
+      "code": "A41D31/10",
+      "level": 2,
+      "parent": "A41D31/04",
+      "ja": "液不透過性，例．防水性；撥液性［２０１９．０１］",
+      "en": "Impermeable to liquids, e.g. waterproof; Liquid-repellent",
+      "count": 4208,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D31/102": {
+      "code": "A41D31/102",
+      "level": 3,
+      "parent": "A41D31/10",
+      "ja": "防水通気性［２０１９．０１］",
+      "en": "Waterproof and breathable",
+      "count": 2376,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D31/12": {
+      "code": "A41D31/12",
+      "level": 2,
+      "parent": "A41D31/04",
+      "ja": "吸湿性；保水性［２０１９．０１］",
+      "en": "Hygroscopic; Water retaining ",
+      "count": 6120,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D31/14": {
+      "code": "A41D31/14",
+      "level": 2,
+      "parent": "A41D31/04",
+      "ja": "空気透過性，すなわち気体の浸透が可能なもの（防水通気性Ａ４１Ｄ３１／１０２）［２０１９．０１］",
+      "en": "Air permeable, i.e. capable of being penetrated by  gases(waterproof and breathable <b>A41D31/102</b>)",
+      "count": 6436,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D31/18": {
+      "code": "A41D31/18",
+      "level": 2,
+      "parent": "A41D31/04",
+      "ja": "弾性［２０１９．０１］",
+      "en": "Elastic",
+      "count": 5301,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D31/24": {
+      "code": "A41D31/24",
+      "level": 2,
+      "parent": "A41D31/04",
+      "ja": "機械的ストレスへの耐性，例．穿孔への耐性［２０１９．０１］",
+      "en": "Resistant to mechanical stress, e.g. pierce-proof",
+      "count": 3531,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D31/26": {
+      "code": "A41D31/26",
+      "level": 2,
+      "parent": "A41D31/04",
+      "ja": "電気的防護性，例．静電気または電気ショック防止［２０１９．０１］",
+      "en": "Electrically protective, e.g. preventing static electricity or electric shock",
+      "count": 2684,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D31/28": {
+      "code": "A41D31/28",
+      "level": 2,
+      "parent": "A41D31/04",
+      "ja": "衝撃吸収性［２０１９．０１］",
+      "en": "Shock absorbing",
+      "count": 503,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D31/30": {
+      "code": "A41D31/30",
+      "level": 2,
+      "parent": "A41D31/04",
+      "ja": "抗微生物性，例．抗細菌性［２０１９．０１］",
+      "en": "Antimicrobial, e.g. antibacterial",
+      "count": 6525,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    },
+    "A41D31/32": {
+      "code": "A41D31/32",
+      "level": 2,
+      "parent": "A41D31/04",
+      "ja": "再帰反射性［２０１９．０１］",
+      "en": "Retroreflective",
+      "count": 557,
+      "sourceFile": "ipc_A41D.txt",
+      "kind": "ipc"
+    }
+  }
+};

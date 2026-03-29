@@ -1,0 +1,2306 @@
+{
+  "generatedAt": "2026-03-20T02:17:46.648Z",
+  "total": 230,
+  "entries": {
+    "E01B": {
+      "code": "E01B",
+      "level": 0,
+      "parent": "E01",
+      "ja": "軌道；軌道用の工具；あらゆる種類の鉄道建設用機械（軌道上の脱線または復帰ブロック，軌道制動またはリターダＢ６１Ｋ；軌道からの異物の除去，除草，液体の散布Ｅ０１Ｈ）<br><br><b><ul>サブクラス内の索引</ul></b><br>軌道の構造<br>一般的構造　２／００<br>道床，横または縦まくら木　１／００，３／００<br>一般軌道用レールまたは転てつ器　５／００～１３／００，２６／００<br>特殊軌道用レールまたは転てつ器　２１／００～２６／００<br>保護装置　１５／００～１９／００<br>道床または軌道の敷設，維持，更新，または取りはずし　２７／００～３７／００",
+      "en": "PERMANENT WAY; PERMANENT-WAY TOOLS; MACHINES FOR MAKING RAILWAYS OF ALL KINDS(derailing or rerailing blocks on track, track brakes or retarders <b>B61K</b>; removal of foreign matter from the permanent way, vegetation control, applying liquids <b>E01H</b>);<br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">STRUCTURE OF THE PERMANENT WAY<tr><td width=\"70%\">General structure </td><td><b><b>2/00</b></b></td></tr></tr><tr><td width=\"70%\">Ballastway, transverse or longitudinal sleepers </td><td><b><b>1/00</b>, <b>3/00</b></b></td></tr></tr><tr><td width=\"70%\">Rails or switches for general application </td><td><b><b>5/00 to 13/00</b> , <b>26/00</b></b></td></tr></tr><tr><td width=\"70%\">Rails or switches for particular application </td><td><b><b>21/00 to 26/00</b> </b></td></tr></tr><tr><td width=\"70%\">Protective arrangements </td><td><b><b>15/00 to 19/00</b> </b></td></tr></tr></tr><tr><td width=\"70%\">MAKING, MAINTAINING, RENEWING, OR TAKING-UP THE BALLASTWAY OR THE TRACK </td><td><b><b>27/00 to 37/00</b> </b></td></tr></tr></table>",
+      "count": 1109,
+      "sourceFile": "ipc_E.txt",
+      "kind": "ipc"
+    },
+    "E01": {
+      "code": "E01",
+      "level": 0,
+      "parent": "E",
+      "ja": "道路，鉄道または橋りょうの建設",
+      "en": "CONSTRUCTION OF ROADS, RAILWAYS, OR BRIDGES",
+      "count": 0,
+      "sourceFile": "ipc_E.txt",
+      "kind": "ipc"
+    },
+    "E": {
+      "code": "E",
+      "level": 0,
+      "parent": null,
+      "ja": "固定構造物",
+      "en": "FIXED CONSTRUCTIONS",
+      "count": 0,
+      "sourceFile": "ipc_E.txt",
+      "kind": "ipc"
+    },
+    "E01B1/00": {
+      "code": "E01B1/00",
+      "level": 0,
+      "parent": "E01B",
+      "ja": "道床；まくら木または軌道を支持するその他の装置；道床の排水（溝，暗きょまたは導管による排水Ｅ０１Ｆ５／００）",
+      "en": "Ballastway; Other means for supporting the sleepers or the track; Drainage of the ballastway(draining by trenches, culverts, or conduits <b>E01F5/00</b>)",
+      "count": 6440,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B2/00": {
+      "code": "E01B2/00",
+      "level": 0,
+      "parent": "E01B",
+      "ja": "軌道の一般的構造（軌条網Ｂ６１Ｂ１／００；舗装のための基礎Ｅ０１Ｃ３／００；基礎一般Ｅ０２Ｄ）",
+      "en": "General structure of permanent way(railway networks <b>B61B1/00</b>; foundations for pavings <b>E01C3/00</b>; foundations in general <b>E02D</b>)",
+      "count": 4373,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B3/00": {
+      "code": "E01B3/00",
+      "level": 0,
+      "parent": "E01B",
+      "ja": "横または縦まくら木（転てつ器または交さ用Ｅ０１Ｂ７／２２）；レールを支持するために道床上に直接載置するその他の装置",
+      "en": "Transverse or longitudinal sleepers(for switches or crossings <b>E01B7/22</b>);Other means resting directly on the ballastway for supporting rails",
+      "count": 1098,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B3/02": {
+      "code": "E01B3/02",
+      "level": 1,
+      "parent": "E01B3/00",
+      "ja": "木製のもの（乾燥または注入Ｂ２７Ｋ）",
+      "en": "made from wood(drying or impregnating <b>B27K</b>)",
+      "count": 131,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B3/04": {
+      "code": "E01B3/04",
+      "level": 2,
+      "parent": "E01B3/02",
+      "ja": "切り裂け防止装置",
+      "en": "Means for preventing cleaving",
+      "count": 44,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B3/06": {
+      "code": "E01B3/06",
+      "level": 3,
+      "parent": "E01B3/04",
+      "ja": "ひび割れ防止犬くぎ",
+      "en": "Anti-cracking dogs",
+      "count": 42,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B3/08": {
+      "code": "E01B3/08",
+      "level": 3,
+      "parent": "E01B3/04",
+      "ja": "まくら木に巻きつける条帯（木製の鉄道まくら木に現場で巻きつける装置Ｅ０１Ｂ３１／２８）",
+      "en": "Straps or bands for hooping or encircling sleepers(apparatus for hooping wooden railway sleepers on the spot <b>E01B31/28</b>)",
+      "count": 68,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B3/10": {
+      "code": "E01B3/10",
+      "level": 2,
+      "parent": "E01B3/02",
+      "ja": "集成まくら木",
+      "en": "Composite sleepers",
+      "count": 113,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B3/12": {
+      "code": "E01B3/12",
+      "level": 2,
+      "parent": "E01B3/02",
+      "ja": "縦まくら木；タイロッドで組み立てられた縦まくら木；縦横結合のまくら木",
+      "en": "Longitudinal sleepers; Longitudinal sleepers integral or combined with tie-rods; Combined longitudinal and transverse sleepers",
+      "count": 39,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B3/14": {
+      "code": "E01B3/14",
+      "level": 2,
+      "parent": "E01B3/02",
+      "ja": "板（スラブ）；ブロック；それらとタイロッドとの固定",
+      "en": "Slabs; Blocks; Fastening tie-rods to them",
+      "count": 25,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B3/16": {
+      "code": "E01B3/16",
+      "level": 1,
+      "parent": "E01B3/00",
+      "ja": "鋼製のもの",
+      "en": "made from steel",
+      "count": 589,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B3/18": {
+      "code": "E01B3/18",
+      "level": 2,
+      "parent": "E01B3/16",
+      "ja": "集成まくら木",
+      "en": "Composite sleepers",
+      "count": 220,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B3/20": {
+      "code": "E01B3/20",
+      "level": 2,
+      "parent": "E01B3/16",
+      "ja": "特殊なまくら木構造，例．道床作業用の開口のあるもの（重量物用移動軌道に用いるまくら木Ｅ０１Ｂ２３／１２）",
+      "en": "Sleeper construction for special purposes, e.g. with openings for ballast working(sleepers for shiftable track for heavy loads <b>E01B23/12</b>)",
+      "count": 154,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B3/22": {
+      "code": "E01B3/22",
+      "level": 2,
+      "parent": "E01B3/16",
+      "ja": "縦まくら木；タイロッドで組み立てられた縦まくら木；縦横結合のまくら木",
+      "en": "Longitudinal sleepers; Longitudinal sleepers integral or combined with tie-rods; Combined longitudinal and transverse sleepers",
+      "count": 122,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B3/24": {
+      "code": "E01B3/24",
+      "level": 2,
+      "parent": "E01B3/16",
+      "ja": "板（スラブ）；ブロック；ポットまくら木；それらとタイロッドとの固定",
+      "en": "Slabs; Blocks; Pot sleepers; Fastening tie-rods to them",
+      "count": 113,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B3/26": {
+      "code": "E01B3/26",
+      "level": 2,
+      "parent": "E01B3/16",
+      "ja": "木，人造石またはその他の材料のそう入物と組み合わせたもの",
+      "en": "combined with inserts of wood, artificial stone, or other material",
+      "count": 162,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B3/28": {
+      "code": "E01B3/28",
+      "level": 1,
+      "parent": "E01B3/00",
+      "ja": "コンクリート製または天然石または人造石製のもの（製造Ｂ２８）",
+      "en": "made from concrete or from natural or artificial stone(manufacture <b>B28</b>)",
+      "count": 883,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B3/30": {
+      "code": "E01B3/30",
+      "level": 2,
+      "parent": "E01B3/28",
+      "ja": "中空まくら木",
+      "en": "Hollow sleepers",
+      "count": 38,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B3/32": {
+      "code": "E01B3/32",
+      "level": 2,
+      "parent": "E01B3/28",
+      "ja": "表面が保護されたものまたは補強されたもの（中空まくら木Ｅ０１Ｂ３／３０）",
+      "en": "with armouring or reinforcement(hollow sleepers <b>E01B3/30</b>)",
+      "count": 652,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B3/34": {
+      "code": "E01B3/34",
+      "level": 3,
+      "parent": "E01B3/32",
+      "ja": "プレストレスを与えたもの（プレストレスを与えるための補強要素Ｅ０４Ｃ５／００）",
+      "en": "with pre-tensioned armouring or reinforcement(pre-tensioned armouring or reinforcing elements <b>E04C5/00</b>)",
+      "count": 427,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B3/36": {
+      "code": "E01B3/36",
+      "level": 2,
+      "parent": "E01B3/28",
+      "ja": "集成まくら木",
+      "en": "Composite sleepers",
+      "count": 328,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B3/38": {
+      "code": "E01B3/38",
+      "level": 2,
+      "parent": "E01B3/28",
+      "ja": "縦まくら木；タイロッドで組み立てられた縦まくら木；縦横結合のまくら木；両レールを支持するコンクリート層",
+      "en": "Longitudinal sleepers; Longitudinal sleepers integral or combined with tie-rods; Combined longitudinal and transverse sleepers; Layers of concrete supporting both rails",
+      "count": 490,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B3/40": {
+      "code": "E01B3/40",
+      "level": 2,
+      "parent": "E01B3/28",
+      "ja": "板（スラブ）；ブロック；ポットまくら木；それらとタイロッドとの固定",
+      "en": "Slabs; Blocks; Pot sleepers; Fastening tie-rods to them",
+      "count": 467,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B3/42": {
+      "code": "E01B3/42",
+      "level": 2,
+      "parent": "E01B3/28",
+      "ja": "木またはその他の材料のそう入物と組み合わせたもの",
+      "en": "combined with inserts of wood or other material",
+      "count": 192,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B3/44": {
+      "code": "E01B3/44",
+      "level": 1,
+      "parent": "E01B3/00",
+      "ja": "材料が要点である場合に限り，その他の材料からなるもの",
+      "en": "made from other materials only if the material is essential",
+      "count": 546,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B3/46": {
+      "code": "E01B3/46",
+      "level": 1,
+      "parent": "E01B3/00",
+      "ja": "複数の異なる材料からなるもの（Ｅ０１Ｂ３／２６，Ｅ０１Ｂ３／４２が優先）",
+      "en": "made from different materials(<b>E01B3/26</b>, <b>E01B3/42</b> take precedence)",
+      "count": 522,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B3/48": {
+      "code": "E01B3/48",
+      "level": 1,
+      "parent": "E01B3/00",
+      "ja": "まくら木の間隔保持材またはタイロッド",
+      "en": "Distance keepers or tie-rods for sleepers",
+      "count": 189,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B5/00": {
+      "code": "E01B5/00",
+      "level": 0,
+      "parent": "E01B",
+      "ja": "レール；ガードレール（レールの製造Ｂ２１Ｂ）；レールやガードレールの間隔保持装置",
+      "en": "Rails; Guard rails(manufacture of rails <b>B21B</b>);Distance-keeping means for them",
+      "count": 395,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B5/02": {
+      "code": "E01B5/02",
+      "level": 1,
+      "parent": "E01B5/00",
+      "ja": "レール",
+      "en": "Rails",
+      "count": 1130,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B5/04": {
+      "code": "E01B5/04",
+      "level": 2,
+      "parent": "E01B5/02",
+      "ja": "みぞレール",
+      "en": "Grooved rails",
+      "count": 195,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B5/06": {
+      "code": "E01B5/06",
+      "level": 2,
+      "parent": "E01B5/02",
+      "ja": "可逆または可倒レール",
+      "en": "Reversible or invertible rails",
+      "count": 27,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B5/08": {
+      "code": "E01B5/08",
+      "level": 2,
+      "parent": "E01B5/02",
+      "ja": "集成レール；取りはずしまたは固定部分をもつ合成レール",
+      "en": "Composite rails; Compound rails with dismountable or non-dismountable parts",
+      "count": 397,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B5/10": {
+      "code": "E01B5/10",
+      "level": 3,
+      "parent": "E01B5/08",
+      "ja": "集成みぞ付きレール；みぞ付きレール用そう入物",
+      "en": "Composite grooved rails; Inserts for grooved rails",
+      "count": 154,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B5/12": {
+      "code": "E01B5/12",
+      "level": 2,
+      "parent": "E01B5/02",
+      "ja": "まくら木として作用する底板をもつレール",
+      "en": "Rails with a foot serving as a sleeper",
+      "count": 15,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B5/14": {
+      "code": "E01B5/14",
+      "level": 2,
+      "parent": "E01B5/02",
+      "ja": "軌道の特殊部分用のレール，例．曲線用",
+      "en": "Rails for special parts of the track, e.g. for curves",
+      "count": 209,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B5/16": {
+      "code": "E01B5/16",
+      "level": 1,
+      "parent": "E01B5/00",
+      "ja": "間隔保持材",
+      "en": "Distance keepers",
+      "count": 363,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B5/18": {
+      "code": "E01B5/18",
+      "level": 1,
+      "parent": "E01B5/00",
+      "ja": "ガードレール；ガードレール用の連結，固定または調節装置",
+      "en": "Guard rails; Connecting, fastening or adjusting means therefor",
+      "count": 715,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B7/00": {
+      "code": "E01B7/00",
+      "level": 0,
+      "parent": "E01B",
+      "ja": "転てつ器；交さ（作動機構Ｂ６１Ｌ）",
+      "en": "Switches; Crossings(operating mechanisms <b>B61L</b>)",
+      "count": 1899,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B7/02": {
+      "code": "E01B7/02",
+      "level": 1,
+      "parent": "E01B7/00",
+      "ja": "トングレール；組み合わせ構造のもの",
+      "en": "Tongues; Associated constructions",
+      "count": 1203,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B7/04": {
+      "code": "E01B7/04",
+      "level": 2,
+      "parent": "E01B7/02",
+      "ja": "端部の垂直軸のまわりを回動するトングをもつ構造のもの",
+      "en": "Constructions with tongues turning about a vertical pivot at the end",
+      "count": 197,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B7/06": {
+      "code": "E01B7/06",
+      "level": 2,
+      "parent": "E01B7/02",
+      "ja": "可とうトングまたは可とう継ぎ目板をもつ構造のもの",
+      "en": "Constructions with flexible tongues or flexible fishplates",
+      "count": 170,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B7/08": {
+      "code": "E01B7/08",
+      "level": 2,
+      "parent": "E01B7/02",
+      "ja": "トングレールの他の構造のもの，例．レールと平行な軸のまわりに傾くもの，可動トングブロックまたはレール",
+      "en": "Other constructions of tongues, e.g. tilting about an axis parallel to the rail, movable tongue blocks or rails",
+      "count": 246,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B7/10": {
+      "code": "E01B7/10",
+      "level": 1,
+      "parent": "E01B7/00",
+      "ja": "てっさ（フロッグ）",
+      "en": "Frogs",
+      "count": 693,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B7/12": {
+      "code": "E01B7/12",
+      "level": 2,
+      "parent": "E01B7/10",
+      "ja": "単一部分または複合部分からなる固定てっさ（固定フロッグ）",
+      "en": "Fixed frogs made of one part or composite",
+      "count": 600,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B7/14": {
+      "code": "E01B7/14",
+      "level": 2,
+      "parent": "E01B7/10",
+      "ja": "可動部分をもつもの",
+      "en": "with movable parts",
+      "count": 609,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B7/16": {
+      "code": "E01B7/16",
+      "level": 2,
+      "parent": "E01B7/10",
+      "ja": "乗り越してっさ（乗り越しフロッグ）",
+      "en": "Jump-over frogs",
+      "count": 33,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B7/18": {
+      "code": "E01B7/18",
+      "level": 1,
+      "parent": "E01B7/00",
+      "ja": "わたり線付交さ",
+      "en": "Combinations of switches and crossings",
+      "count": 175,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B7/20": {
+      "code": "E01B7/20",
+      "level": 1,
+      "parent": "E01B7/00",
+      "ja": "転てつ器用安全装置，例．トングレール保護装置，補助または誘導レール部材",
+      "en": "Safety means for switches, e.g. switch point protectors, auxiliary or guiding rail members",
+      "count": 745,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B7/22": {
+      "code": "E01B7/22",
+      "level": 1,
+      "parent": "E01B7/00",
+      "ja": "転てつ器または交さ用特殊まくら木；それらの固定装置",
+      "en": "Special sleepers for switches or crossings; Fastening means therefor",
+      "count": 637,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B7/24": {
+      "code": "E01B7/24",
+      "level": 1,
+      "parent": "E01B7/00",
+      "ja": "転てつ器の加熱",
+      "en": "Heating of switches",
+      "count": 833,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B7/26": {
+      "code": "E01B7/26",
+      "level": 1,
+      "parent": "E01B7/00",
+      "ja": "転てつ器の注油（レールの注油Ｂ６１Ｋ３／００）",
+      "en": "Lubricating of switches(lubricating of rails <b>B61K3/00</b>)",
+      "count": 231,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B7/28": {
+      "code": "E01B7/28",
+      "level": 1,
+      "parent": "E01B7/00",
+      "ja": "交さ",
+      "en": "Crossings",
+      "count": 302,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B7/30": {
+      "code": "E01B7/30",
+      "level": 2,
+      "parent": "E01B7/28",
+      "ja": "乗り越し交さ",
+      "en": "Jump-over crossings",
+      "count": 114,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B9/00": {
+      "code": "E01B9/00",
+      "level": 0,
+      "parent": "E01B",
+      "ja": "レールのまくら木または類似のものへの固定（レールの橋への固定Ｅ０１Ｄ１９／１２）",
+      "en": "Fastening rails on sleepers, or the like(fastening rails to bridges <b>E01D19/12</b>)",
+      "count": 957,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B9/02": {
+      "code": "E01B9/02",
+      "level": 1,
+      "parent": "E01B9/00",
+      "ja": "まくら木または基礎上への座板（タイプレート），チェアまたはレールの直接固定；そのための装置",
+      "en": "Fastening rails, tie-plates, or chairs directly on sleepers or foundations; Means therefor",
+      "count": 670,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B9/04": {
+      "code": "E01B9/04",
+      "level": 2,
+      "parent": "E01B9/02",
+      "ja": "木製またはコンクリート製まくら木または石材上へのクランプ部材を使用しない固定",
+      "en": "Fastening on wooden or concrete sleepers or on masonry without clamp members",
+      "count": 157,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B9/06": {
+      "code": "E01B9/06",
+      "level": 3,
+      "parent": "E01B9/04",
+      "ja": "鉄道用犬くぎ（くぎ一般Ｆ１６Ｂ）",
+      "en": "Railways spikes(nails in general <b>F16B</b>)",
+      "count": 375,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B9/08": {
+      "code": "E01B9/08",
+      "level": 4,
+      "parent": "E01B9/06",
+      "ja": "ばねくぎ",
+      "en": "Elastic spikes",
+      "count": 210,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B9/10": {
+      "code": "E01B9/10",
+      "level": 3,
+      "parent": "E01B9/04",
+      "ja": "まくら木用ねじくぎまたはボルト（ねじまたはボルト一般Ｆ１６Ｂ）",
+      "en": "Screws or bolts for sleepers(screws or bolts in general <b>F16B</b>)",
+      "count": 463,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B9/12": {
+      "code": "E01B9/12",
+      "level": 3,
+      "parent": "E01B9/04",
+      "ja": "犬くぎまたはねじくぎ用の保持または固定装置",
+      "en": "Retaining or locking devices for spikes or screws",
+      "count": 429,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B9/14": {
+      "code": "E01B9/14",
+      "level": 3,
+      "parent": "E01B9/04",
+      "ja": "まくら木の穴用のせん，スリーブ，ねじせんまたはその他のそう入物（せんまたはスリーブのそう入Ｅ０１Ｂ３１／２６）",
+      "en": "Plugs, sleeves, thread linings, or other inserts for holes in sleepers(inserting plugs or sleeves <b>E01B31/26</b>)",
+      "count": 329,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B9/16": {
+      "code": "E01B9/16",
+      "level": 4,
+      "parent": "E01B9/14",
+      "ja": "木製まくら木用のもの",
+      "en": "for wooden sleepers",
+      "count": 159,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B9/18": {
+      "code": "E01B9/18",
+      "level": 4,
+      "parent": "E01B9/14",
+      "ja": "コンクリート製まくら木用のもの",
+      "en": "for concrete sleepers",
+      "count": 376,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B9/20": {
+      "code": "E01B9/20",
+      "level": 3,
+      "parent": "E01B9/04",
+      "ja": "くさびによるもの",
+      "en": "by keys",
+      "count": 89,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B9/22": {
+      "code": "E01B9/22",
+      "level": 2,
+      "parent": "E01B9/02",
+      "ja": "鋼製まくら木上へのクランプ部材を使用しない固定",
+      "en": "Fastening on steel sleepers without clamp members",
+      "count": 44,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B9/24": {
+      "code": "E01B9/24",
+      "level": 3,
+      "parent": "E01B9/22",
+      "ja": "くさびによるもの",
+      "en": "by keys",
+      "count": 69,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B9/26": {
+      "code": "E01B9/26",
+      "level": 3,
+      "parent": "E01B9/22",
+      "ja": "溶接固定",
+      "en": "Welded fastenings",
+      "count": 32,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B9/28": {
+      "code": "E01B9/28",
+      "level": 2,
+      "parent": "E01B9/02",
+      "ja": "木製またはコンクリート製まくら木または石材上へのクランプ部材を使用しての固定",
+      "en": "Fastening on wooden or concrete sleepers or on masonry with clamp members",
+      "count": 701,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B9/30": {
+      "code": "E01B9/30",
+      "level": 3,
+      "parent": "E01B9/28",
+      "ja": "鋼製弾性クリップによるもの",
+      "en": "by resilient steel clips",
+      "count": 1693,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B9/32": {
+      "code": "E01B9/32",
+      "level": 2,
+      "parent": "E01B9/02",
+      "ja": "鋼製まくら木上へのクランプ部材を使用しての固定",
+      "en": "Fastening on steel sleepers with clamp members",
+      "count": 526,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B9/34": {
+      "code": "E01B9/34",
+      "level": 3,
+      "parent": "E01B9/32",
+      "ja": "鋼製弾性クリップによるもの",
+      "en": "by resilient steel clips",
+      "count": 415,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B9/36": {
+      "code": "E01B9/36",
+      "level": 2,
+      "parent": "E01B9/02",
+      "ja": "まくら木に直接固定されるレール用の金属製底板（ソールプレート）",
+      "en": "Metal sole-plates for rails which rails are directly fastened to sleepers",
+      "count": 265,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B9/38": {
+      "code": "E01B9/38",
+      "level": 1,
+      "parent": "E01B9/00",
+      "ja": "座板（タイプレート）またはチェアを用いたレールの間接固定；座板（タイプレート）上またはチェア内へのレールの固定",
+      "en": "Indirect fastening of rails by using tie-plates or chairs; Fastening of rails on the tie-plates or in the chairs",
+      "count": 673,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B9/40": {
+      "code": "E01B9/40",
+      "level": 2,
+      "parent": "E01B9/38",
+      "ja": "平底レール用の座板（タイプレート）（そのための製造Ｂ２１）",
+      "en": "Tie-plates for flat-bottom rails(manufacture thereof <b>B21</b>)",
+      "count": 379,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B9/42": {
+      "code": "E01B9/42",
+      "level": 3,
+      "parent": "E01B9/40",
+      "ja": "二個以上の部品からなるもの",
+      "en": "of two or more parts",
+      "count": 149,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B9/44": {
+      "code": "E01B9/44",
+      "level": 2,
+      "parent": "E01B9/38",
+      "ja": "座板（タイプレート）上のレールの固定",
+      "en": "Fastening the rail on the tie-plate",
+      "count": 350,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B9/46": {
+      "code": "E01B9/46",
+      "level": 3,
+      "parent": "E01B9/44",
+      "ja": "クランプによるもの",
+      "en": "by clamps",
+      "count": 473,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B9/48": {
+      "code": "E01B9/48",
+      "level": 4,
+      "parent": "E01B9/46",
+      "ja": "鋼製弾性クリップによるもの",
+      "en": "by resilient steel clips",
+      "count": 1234,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B9/50": {
+      "code": "E01B9/50",
+      "level": 3,
+      "parent": "E01B9/44",
+      "ja": "くさびによるもの",
+      "en": "by keys",
+      "count": 129,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B9/52": {
+      "code": "E01B9/52",
+      "level": 4,
+      "parent": "E01B9/50",
+      "ja": "弾性くさびによるもの",
+      "en": "by resilient keys",
+      "count": 39,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B9/54": {
+      "code": "E01B9/54",
+      "level": 2,
+      "parent": "E01B9/38",
+      "ja": "レールチェア",
+      "en": "Rail chairs",
+      "count": 237,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B9/56": {
+      "code": "E01B9/56",
+      "level": 3,
+      "parent": "E01B9/54",
+      "ja": "二以上の踏面をもつレールに用いるもの",
+      "en": "for rails with two or more treads",
+      "count": 4,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B9/58": {
+      "code": "E01B9/58",
+      "level": 2,
+      "parent": "E01B9/38",
+      "ja": "チェアによるレールの固定",
+      "en": "Fastening the rail in the chair",
+      "count": 335,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B9/60": {
+      "code": "E01B9/60",
+      "level": 1,
+      "parent": "E01B9/00",
+      "ja": "クランプまたは控えを使用してレールの側面または頭部を支持するレール固定装置",
+      "en": "Rail fastenings making use of clamps or braces supporting the side or head of the rail",
+      "count": 608,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B9/62": {
+      "code": "E01B9/62",
+      "level": 1,
+      "parent": "E01B9/00",
+      "ja": "弾性支持材を併用したレール固定装置",
+      "en": "Rail fastenings incorporating resilient supports",
+      "count": 1043,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B9/64": {
+      "code": "E01B9/64",
+      "level": 1,
+      "parent": "E01B9/00",
+      "ja": "まくら木を把持または巻き回したレール固定装置",
+      "en": "Rail fastenings gripping or encircling the sleeper",
+      "count": 215,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B9/66": {
+      "code": "E01B9/66",
+      "level": 1,
+      "parent": "E01B9/00",
+      "ja": "前記のグループに属しないがレール位置を調節できるレール固定装置",
+      "en": "Rail fastenings allowing the adjustment of the position of the rails, so far as not covered by the preceding groups",
+      "count": 833,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B9/68": {
+      "code": "E01B9/68",
+      "level": 1,
+      "parent": "E01B9/00",
+      "ja": "パッドまたはその類似物，例．木製，ゴム製でレール，座板（タイプレート）またはチェアの下に敷くもの",
+      "en": "Pads or the like, e.g. of wood, rubber, placed under the rail, tie-plate, or chair",
+      "count": 3719,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B11/00": {
+      "code": "E01B11/00",
+      "level": 0,
+      "parent": "E01B",
+      "ja": "レール継ぎ目（レールの電気的接続Ｂ６０Ｍ５／００）",
+      "en": "Rail joints(electrical connection of rails <b>B60M5/00</b>)",
+      "count": 571,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B11/02": {
+      "code": "E01B11/02",
+      "level": 1,
+      "parent": "E01B11/00",
+      "ja": "取りはずしできるレール継ぎ目",
+      "en": "Dismountable rail joints",
+      "count": 419,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B11/04": {
+      "code": "E01B11/04",
+      "level": 2,
+      "parent": "E01B11/02",
+      "ja": "平形継ぎ目板",
+      "en": "Flat fishplates",
+      "count": 275,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B11/06": {
+      "code": "E01B11/06",
+      "level": 3,
+      "parent": "E01B11/04",
+      "ja": "くさびまたはピンをもつもの",
+      "en": "with keys or pins",
+      "count": 116,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B11/08": {
+      "code": "E01B11/08",
+      "level": 2,
+      "parent": "E01B11/02",
+      "ja": "山形継ぎ目板",
+      "en": "Angle fishplates",
+      "count": 174,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B11/10": {
+      "code": "E01B11/10",
+      "level": 2,
+      "parent": "E01B11/02",
+      "ja": "レール底部を支持または包持する部分をもつ継ぎ目板",
+      "en": "Fishplates with parts supporting or surrounding the rail foot",
+      "count": 384,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B11/12": {
+      "code": "E01B11/12",
+      "level": 2,
+      "parent": "E01B11/02",
+      "ja": "レール底部のみを係合する継ぎ目板",
+      "en": "Fishplates engaging only the rail foot",
+      "count": 114,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B11/14": {
+      "code": "E01B11/14",
+      "level": 2,
+      "parent": "E01B11/02",
+      "ja": "一片のレールの底部フランジのクリップ",
+      "en": "Rail foot flange clips in one piece",
+      "count": 30,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B11/16": {
+      "code": "E01B11/16",
+      "level": 2,
+      "parent": "E01B11/02",
+      "ja": "異形断面レールを継ぐ継ぎ目板",
+      "en": "Fishplates for joining rails of different sections",
+      "count": 66,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B11/18": {
+      "code": "E01B11/18",
+      "level": 2,
+      "parent": "E01B11/02",
+      "ja": "破損レールを応急処置するための継ぎ目板",
+      "en": "Fishplates for temporarily repairing broken rails",
+      "count": 107,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B11/20": {
+      "code": "E01B11/20",
+      "level": 2,
+      "parent": "E01B11/02",
+      "ja": "遊間懸架材をもつもの",
+      "en": "with gap-bridging",
+      "count": 76,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B11/22": {
+      "code": "E01B11/22",
+      "level": 3,
+      "parent": "E01B11/20",
+      "ja": "レールの部分によるもの",
+      "en": "by parts of the rails",
+      "count": 66,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B11/24": {
+      "code": "E01B11/24",
+      "level": 4,
+      "parent": "E01B11/22",
+      "ja": "レールの端部を斜めにまたは重ね合わせるもの",
+      "en": "with oblique or overlapping rail ends",
+      "count": 781,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B11/26": {
+      "code": "E01B11/26",
+      "level": 4,
+      "parent": "E01B11/22",
+      "ja": "レール端部をはめこむもの",
+      "en": "with interlocking rail ends",
+      "count": 370,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B11/28": {
+      "code": "E01B11/28",
+      "level": 3,
+      "parent": "E01B11/20",
+      "ja": "継ぎ目部材によるもの",
+      "en": "by parts of the joining members",
+      "count": 249,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B11/30": {
+      "code": "E01B11/30",
+      "level": 4,
+      "parent": "E01B11/28",
+      "ja": "レール頭部の横断面に組み立て踏面部分をもつ継ぎ目板",
+      "en": "Fishplates with integral tread parts lying in the cross-section of the rail head",
+      "count": 195,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B11/32": {
+      "code": "E01B11/32",
+      "level": 3,
+      "parent": "E01B11/20",
+      "ja": "分割部品によるもの；レール頭部間に懸架するそう入物",
+      "en": "by separate parts; Inserts bridging both rail heads",
+      "count": 280,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B11/34": {
+      "code": "E01B11/34",
+      "level": 4,
+      "parent": "E01B11/32",
+      "ja": "遊間側面の副レール",
+      "en": "Auxiliary rail beside the gap",
+      "count": 38,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B11/36": {
+      "code": "E01B11/36",
+      "level": 2,
+      "parent": "E01B11/02",
+      "ja": "継ぎ目板の固定装置",
+      "en": "Fastening means for fishplates",
+      "count": 275,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B11/38": {
+      "code": "E01B11/38",
+      "level": 3,
+      "parent": "E01B11/36",
+      "ja": "固定装置のゆるみ止め装置（ナットまたはボルトのゆるみ止め装置一般Ｆ１６Ｂ）",
+      "en": "Locking arrangements for fastening means(locking means for nuts or bolts in general <b>F16B</b>)",
+      "count": 169,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B11/40": {
+      "code": "E01B11/40",
+      "level": 2,
+      "parent": "E01B11/02",
+      "ja": "溶接部と組み合わされた取りはずしできるレール継ぎ目",
+      "en": "Dismountable rail joints combined with welded parts",
+      "count": 43,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B11/42": {
+      "code": "E01B11/42",
+      "level": 1,
+      "parent": "E01B11/00",
+      "ja": "相対的に移動できるレールの継ぎ目構造，例．転車台，遷車台または旋回橋のレール",
+      "en": "Joint constructions for relatively movable rails, e.g. rails on turntables, traversers, or swing bridges",
+      "count": 195,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B11/44": {
+      "code": "E01B11/44",
+      "level": 1,
+      "parent": "E01B11/00",
+      "ja": "取りはずしできないレール継ぎ手；溶接継ぎ手（溶接方法Ｂ２３Ｋ）",
+      "en": "Non-dismountable rail joints; Welded joints(welding methods <b>B23K</b>)",
+      "count": 292,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B11/46": {
+      "code": "E01B11/46",
+      "level": 2,
+      "parent": "E01B11/44",
+      "ja": "長大レールの軌道を作る一般的方法",
+      "en": "General methods for making gapless tracks",
+      "count": 92,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B11/48": {
+      "code": "E01B11/48",
+      "level": 2,
+      "parent": "E01B11/44",
+      "ja": "ガス溶接による継ぎ目",
+      "en": "Joints made by flame welding",
+      "count": 39,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B11/50": {
+      "code": "E01B11/50",
+      "level": 2,
+      "parent": "E01B11/44",
+      "ja": "電気溶接による継ぎ目",
+      "en": "Joints made by electric welding",
+      "count": 184,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B11/52": {
+      "code": "E01B11/52",
+      "level": 2,
+      "parent": "E01B11/44",
+      "ja": "テルミット溶接による継ぎ目",
+      "en": "Joints made by alumino-thermal welding",
+      "count": 192,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B11/54": {
+      "code": "E01B11/54",
+      "level": 1,
+      "parent": "E01B11/00",
+      "ja": "レール継ぎ目の電気絶縁",
+      "en": "Electrically-insulating rail joints",
+      "count": 835,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B11/56": {
+      "code": "E01B11/56",
+      "level": 1,
+      "parent": "E01B11/00",
+      "ja": "レール端部の特殊支持装置（底部支持Ｅ０１Ｂ１１／０８～Ｅ０１Ｂ１１／１４）",
+      "en": "Special arrangements for supporting rail ends(foot supports <b>E01B11/08 to E01B11/14</b> )",
+      "count": 132,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B11/58": {
+      "code": "E01B11/58",
+      "level": 2,
+      "parent": "E01B11/56",
+      "ja": "懸架板",
+      "en": "Bridge plates",
+      "count": 82,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B11/60": {
+      "code": "E01B11/60",
+      "level": 3,
+      "parent": "E01B11/58",
+      "ja": "くさびをもつもの",
+      "en": "with wedges",
+      "count": 18,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B11/62": {
+      "code": "E01B11/62",
+      "level": 2,
+      "parent": "E01B11/56",
+      "ja": "ブリッジチェア（チェアＥ０１Ｂ９／５４～Ｅ０１Ｂ９／５８）",
+      "en": "Bridge chairs(chairs <b>E01B9/54 to E01B9/58</b> )",
+      "count": 230,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B13/00": {
+      "code": "E01B13/00",
+      "level": 0,
+      "parent": "E01B",
+      "ja": "軌道の移動防止装置",
+      "en": "Arrangements preventing shifting of the track",
+      "count": 341,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B13/02": {
+      "code": "E01B13/02",
+      "level": 1,
+      "parent": "E01B13/00",
+      "ja": "アンチクリーパー（レールアンカー）",
+      "en": "Rail anchors",
+      "count": 1129,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B15/00": {
+      "code": "E01B15/00",
+      "level": 0,
+      "parent": "E01B",
+      "ja": "溝状レールに人間の足が落ち込むのを防止するための装置",
+      "en": "Guards for preventing a person's foot being trapped in grooved rails",
+      "count": 97,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B17/00": {
+      "code": "E01B17/00",
+      "level": 0,
+      "parent": "E01B",
+      "ja": "軌道に施す家畜用のガード（家畜の迷い防止用のガード一般Ａ０１Ｋ３／００）［２００６．０１］",
+      "en": "Cattle guards connected to the permanent way(grids in general for preventing cattle from straying <b>A01K3/00</b>)",
+      "count": 135,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B19/00": {
+      "code": "E01B19/00",
+      "level": 0,
+      "parent": "E01B",
+      "ja": "ちり，風，日射，結氷，腐食からの軌道の防護；騒音防止装置（防雪さくＥ０１Ｆ７／０２；除雪プラウＥ０１Ｈ８／０２；散水Ｅ０１Ｈ１１／００）",
+      "en": "Protection of permanent way against development of dust or against the effect of wind, sun, frost, or corrosion; Means to reduce development of noise(snow fences <b>E01F7/02</b>; snow-ploughs <b>E01H8/02</b>; watering <b>E01H11/00</b>)",
+      "count": 7465,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B21/00": {
+      "code": "E01B21/00",
+      "level": 0,
+      "parent": "E01B",
+      "ja": "舗装された街路における路面軌道に特に適した軌道上部構造（舗装Ｅ０１Ｃ９／０４，Ｅ０１Ｃ９／０６）",
+      "en": "Track superstructure specially adapted for tramways in paved streets(paving <b>E01C9/04</b>, <b>E01C9/06</b>)",
+      "count": 631,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B21/02": {
+      "code": "E01B21/02",
+      "level": 1,
+      "parent": "E01B21/00",
+      "ja": "特殊支持装置；レールの排水",
+      "en": "Special supporting means; Draining of rails",
+      "count": 284,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B21/04": {
+      "code": "E01B21/04",
+      "level": 1,
+      "parent": "E01B21/00",
+      "ja": "特殊固定装置，継ぎ目構造またはタイロッド",
+      "en": "Special fastenings, joint constructions, or tie-rods",
+      "count": 272,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B23/00": {
+      "code": "E01B23/00",
+      "level": 0,
+      "parent": "E01B",
+      "ja": "容易に取りはずしできるかまたは移設できる軌道，例．仮設鉄道；特にそれに適した細部",
+      "en": "Easily dismountable or movable tracks, e.g. temporary railways; Details specially adapted therefor",
+      "count": 756,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B23/02": {
+      "code": "E01B23/02",
+      "level": 1,
+      "parent": "E01B23/00",
+      "ja": "軌道または軽便軌道，例．工事現場，炭坑または鉱山で使用するもの",
+      "en": "Tracks for light railways, e.g. for field, colliery, or mine use",
+      "count": 765,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B23/04": {
+      "code": "E01B23/04",
+      "level": 2,
+      "parent": "E01B23/02",
+      "ja": "固定または継ぎ目装置",
+      "en": "Fastening or joining means",
+      "count": 693,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B23/06": {
+      "code": "E01B23/06",
+      "level": 2,
+      "parent": "E01B23/02",
+      "ja": "転てつ器（転車台Ｂ６０Ｓ，Ｂ６１Ｊ）；可搬転てつ器；分岐器",
+      "en": "Switches(turntables <b>B60S</b>, <b>B61J</b>);Portable switches; Turnouts",
+      "count": 401,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B23/08": {
+      "code": "E01B23/08",
+      "level": 1,
+      "parent": "E01B23/00",
+      "ja": "路面軌道補修中使用する仮設軌道",
+      "en": "Temporary tracks for use while repairing tramways",
+      "count": 15,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B23/10": {
+      "code": "E01B23/10",
+      "level": 1,
+      "parent": "E01B23/00",
+      "ja": "重量物用，例．掘削機運搬用，移動軌道",
+      "en": "Shiftable tracks for heavy loads, e.g. carrying excavators",
+      "count": 518,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B23/12": {
+      "code": "E01B23/12",
+      "level": 2,
+      "parent": "E01B23/10",
+      "ja": "まくら木",
+      "en": "Sleepers",
+      "count": 197,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B23/14": {
+      "code": "E01B23/14",
+      "level": 2,
+      "parent": "E01B23/10",
+      "ja": "固定または継ぎ目装置（くさびによるレールの固定Ｅ０１Ｂ９／２４）",
+      "en": "Fastening or joining means(fastening of rails by keys <b>E01B9/24</b>)",
+      "count": 284,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B23/16": {
+      "code": "E01B23/16",
+      "level": 2,
+      "parent": "E01B23/10",
+      "ja": "転てつ器",
+      "en": "Switches",
+      "count": 45,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B25/00": {
+      "code": "E01B25/00",
+      "level": 0,
+      "parent": "E01B",
+      "ja": "特殊鉄道の軌道（方式Ｂ６１Ｂ；道路上の車両軌道Ｅ０１Ｃ９／０２）<br><br><b><ul>注</ul></b><br>このグループにおいては，下記の用語は以下に示す意味で用いる：<br>―“軌道”は車両が走行しない誘導レールを含む。",
+      "en": "Tracks for special kinds of railways(systems <b>B61B</b>; wheel tracks on roads <b>E01C9/02</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>In this group, the following term is used with the meaning indicated:<ul><li>\"track\" includes non-load-carrying guide rails.</li></ul></li></ul>",
+      "count": 2177,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B25/02": {
+      "code": "E01B25/02",
+      "level": 1,
+      "parent": "E01B25/00",
+      "ja": "アプト式の軌道",
+      "en": "Tracks for rack railways",
+      "count": 151,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B25/04": {
+      "code": "E01B25/04",
+      "level": 2,
+      "parent": "E01B25/02",
+      "ja": "ラックレール；ラックレール用の支持体または連結体",
+      "en": "Rack rails; Supports or connections for rack rails",
+      "count": 362,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B25/06": {
+      "code": "E01B25/06",
+      "level": 2,
+      "parent": "E01B25/02",
+      "ja": "転てつ器；てっさ（フロッグ）；交さ",
+      "en": "Switches; Frogs; Crossings",
+      "count": 96,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B25/08": {
+      "code": "E01B25/08",
+      "level": 1,
+      "parent": "E01B25/00",
+      "ja": "荷重支持レールの上方に車両の重心をもつモノレールの軌道（Ｅ０１Ｂ２５／３０が優先）［１，７］",
+      "en": "Tracks for mono-rails with centre of gravity of vehicle above the load-bearing rail(<b>E01B25/30</b> takes precedence)",
+      "count": 726,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B25/10": {
+      "code": "E01B25/10",
+      "level": 2,
+      "parent": "E01B25/08",
+      "ja": "モノレール；補助つりあいレール；レール用の支持体または連結体",
+      "en": "Mono-rails; Auxiliary balancing rails; Supports or connections for rails",
+      "count": 1269,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B25/12": {
+      "code": "E01B25/12",
+      "level": 2,
+      "parent": "E01B25/08",
+      "ja": "転てつ器；交さ",
+      "en": "Switches; Crossings",
+      "count": 644,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B25/14": {
+      "code": "E01B25/14",
+      "level": 1,
+      "parent": "E01B25/00",
+      "ja": "鋼索鉄道車両の軌道",
+      "en": "Tracks for cable-drawn railway vehicles",
+      "count": 94,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B25/15": {
+      "code": "E01B25/15",
+      "level": 2,
+      "parent": "E01B25/14",
+      "ja": "転てつ器；交さ",
+      "en": "Switches; Crossings",
+      "count": 30,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B25/16": {
+      "code": "E01B25/16",
+      "level": 1,
+      "parent": "E01B25/00",
+      "ja": "静止ロープをもつ空中ケーブルの軌道",
+      "en": "Tracks for aerial rope railways with a stationary rope",
+      "count": 237,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B25/18": {
+      "code": "E01B25/18",
+      "level": 2,
+      "parent": "E01B25/16",
+      "ja": "ロープ；支持体，ロープの固定または緊張装置（ロープ一般Ｄ０７Ｂ；支柱Ｅ０４Ｈ１２／００；ロープソケットＦ１６Ｇ）",
+      "en": "Ropes; Supports, fastening or straining means for ropes(ropes in general <b>D07B</b>; masts <b>E04H12/00</b>; rope sockets <b>F16G</b>)",
+      "count": 347,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B25/20": {
+      "code": "E01B25/20",
+      "level": 2,
+      "parent": "E01B25/16",
+      "ja": "転てつ器；交さ",
+      "en": "Switches; Crossings",
+      "count": 46,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B25/22": {
+      "code": "E01B25/22",
+      "level": 1,
+      "parent": "E01B25/00",
+      "ja": "剛体支持レールから懸吊した車両をもつ鉄道の軌道",
+      "en": "Tracks for railways with the vehicle suspended from rigid supporting rails",
+      "count": 1156,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B25/24": {
+      "code": "E01B25/24",
+      "level": 2,
+      "parent": "E01B25/22",
+      "ja": "支持レール；補助つりあいレール；レールの支持体または連結体",
+      "en": "Supporting rails; Auxiliary balancing rails; Supports or connections for rails",
+      "count": 1650,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B25/26": {
+      "code": "E01B25/26",
+      "level": 2,
+      "parent": "E01B25/22",
+      "ja": "転てつ器；交さ",
+      "en": "Switches; Crossings",
+      "count": 873,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B25/28": {
+      "code": "E01B25/28",
+      "level": 1,
+      "parent": "E01B25/00",
+      "ja": "道路またはその類似表面を走行する車両を誘導する軌道（道路上の車両軌道Ｅ０１Ｃ９／０２）",
+      "en": "Rail tracks for guiding vehicles when running on road or similar surface(wheel tracks on roads <b>E01C9/02</b>)",
+      "count": 1091,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B25/30": {
+      "code": "E01B25/30",
+      "level": 1,
+      "parent": "E01B25/00",
+      "ja": "磁気による車体懸架車両または空中浮揚車両のための軌道［７］",
+      "en": "Tracks for magnetic suspension or levitation vehicles",
+      "count": 1752,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B25/32": {
+      "code": "E01B25/32",
+      "level": 2,
+      "parent": "E01B25/30",
+      "ja": "固定子，ガードレール，またはスライドレール［７］",
+      "en": "Stators, guide rails or slide rails",
+      "count": 547,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B25/34": {
+      "code": "E01B25/34",
+      "level": 2,
+      "parent": "E01B25/30",
+      "ja": "転てつ器，轍叉，交叉［７］",
+      "en": "Switches; Frogs; Crossings",
+      "count": 437,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B26/00": {
+      "code": "E01B26/00",
+      "level": 0,
+      "parent": "E01B",
+      "ja": "メイングループＥ０１Ｂ１／００～Ｅ０１Ｂ２５／００のいずれにも分類されない軌道または軌道構成要素",
+      "en": "Tracks or track components not covered by any one of main groups <b>E01B1/00 to E01B25/00</b> ",
+      "count": 1206,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B27/00": {
+      "code": "E01B27/00",
+      "level": 0,
+      "parent": "E01B",
+      "ja": "軌道上での同時作業によるまたはよらない砂利の敷きこみ，交換，処理作業，ふるい分けまたは取り除き；それらの装置；まくら木の詰め込み",
+      "en": "Placing, renewing, working, cleaning, or taking-up the ballast, with or without concurrent work on the track; Devices therefor; Packing sleepers",
+      "count": 808,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B27/02": {
+      "code": "E01B27/02",
+      "level": 1,
+      "parent": "E01B27/00",
+      "ja": "砂利の敷きこみ；道床の建設；道床材料の再分配；それらの機械または装置；水平装置",
+      "en": "Placing the ballast; Making the ballastway; Redistributing ballasting material; Machines or devices therefor; Levelling means",
+      "count": 1339,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B27/04": {
+      "code": "E01B27/04",
+      "level": 1,
+      "parent": "E01B27/00",
+      "ja": "砂利の移動；それらに用いる機械，砂利の取り除きを付加的に伴うものまたは伴なわないもの（Ｅ０１Ｂ２７／０６，Ｅ０１Ｂ２７／１２が優先；道床材料の再分配Ｅ０１Ｂ２７／０２）",
+      "en": "Removing the ballast; Machines therefor, whether or not additionally adapted for taking-up ballast(<b>E01B27/06</b>, <b>E01B27/12</b> take precedence; redistributing ballasting material <b>E01B27/02</b>)",
+      "count": 909,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B27/06": {
+      "code": "E01B27/06",
+      "level": 1,
+      "parent": "E01B27/00",
+      "ja": "現場における砂利の交換またはふるい分け，軌道上での同時作業によるものまたはよらないもの",
+      "en": "Renewing or cleaning the ballast <u>in situ</u>, with or without concurrent work on the track",
+      "count": 898,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B27/08": {
+      "code": "E01B27/08",
+      "level": 2,
+      "parent": "E01B27/06",
+      "ja": "軌道の取りはずしによるもの（Ｅ０１Ｂ２７／１１が優先）",
+      "en": "the track having been taken-up(<b>E01B27/11</b> takes precedence)",
+      "count": 169,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B27/10": {
+      "code": "E01B27/10",
+      "level": 2,
+      "parent": "E01B27/06",
+      "ja": "軌道の取りはずしによらないもの（Ｅ０１Ｂ２７／１１が優先）",
+      "en": "without taking-up the track(<b>E01B27/11</b> takes precedence)",
+      "count": 851,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B27/11": {
+      "code": "E01B27/11",
+      "level": 2,
+      "parent": "E01B27/06",
+      "ja": "軌道構成要素の更新と同時に行なうもの",
+      "en": "combined with concurrent renewal of track components",
+      "count": 213,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B27/12": {
+      "code": "E01B27/12",
+      "level": 1,
+      "parent": "E01B27/00",
+      "ja": "まくら木の詰め込み軌道上での同時作業によるものまたはよらないもの；軌道支持砂利のつき固め",
+      "en": "Packing sleepers, with or without concurrent work on the track; Compacting track-carrying ballast",
+      "count": 460,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B27/13": {
+      "code": "E01B27/13",
+      "level": 2,
+      "parent": "E01B27/12",
+      "ja": "まくら木の詰め込み，軌道上での同時作業によるものまたはよらないもの（まくら木用の砂利の敷き込みまたは座をあらかじめ作ることＥ０１Ｂ２７／０２）",
+      "en": "Packing sleepers, with or without concurrent work on the track(preforming ballast cores or seats for sleepers <b>E01B27/02</b>)",
+      "count": 188,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B27/14": {
+      "code": "E01B27/14",
+      "level": 3,
+      "parent": "E01B27/13",
+      "ja": "それらに使用する手工具または手動具",
+      "en": "Manual tools or hand-held power tools therefor",
+      "count": 284,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B27/16": {
+      "code": "E01B27/16",
+      "level": 3,
+      "parent": "E01B27/13",
+      "ja": "それらに用いる機械，例．いわゆるまくら木つき固め機械",
+      "en": "Machines therefor, e.g. so-called sleeper-tamping machines",
+      "count": 1483,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B27/17": {
+      "code": "E01B27/17",
+      "level": 4,
+      "parent": "E01B27/16",
+      "ja": "軌道の持ち上げ，水平化，または回動装置と結合したもの",
+      "en": "combined with means for lifting, levelling, or slewing the track",
+      "count": 755,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B27/18": {
+      "code": "E01B27/18",
+      "level": 3,
+      "parent": "E01B27/13",
+      "ja": "まくら木の下に付加的な新しい物質をそう入することによるもの，例．計量ショベル方法によるもの，吹き付け方法によるもの",
+      "en": "by introducing additional fresh material under the sleepers, e.g. by the measured-shovel method, by the blowing method",
+      "count": 178,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B27/20": {
+      "code": "E01B27/20",
+      "level": 2,
+      "parent": "E01B27/12",
+      "ja": "軌道支持道床の締め固め，例．軌道を振動させるもの，表面振動機によるもの（軌道のない道床用Ｅ０１Ｂ２７／０２；まくら木詰め込み用Ｅ０１Ｂ２７／１２）",
+      "en": "Compacting the material of the track-carrying ballastway, e.g. by vibrating the track, by surface vibrators(of trackless ballastway <b>E01B27/02</b>; for packing sleepers <b>E01B27/12</b>)",
+      "count": 763,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B29/00": {
+      "code": "E01B29/00",
+      "level": 0,
+      "parent": "E01B",
+      "ja": "軌道の敷設，補修，または取りはずし；それらに使用する機械または工具（Ｅ０１Ｂ２７／００，Ｅ０１Ｂ３１／００が優先）",
+      "en": "Laying, rebuilding, or taking-up tracks; Tools or machines therefor(<b>E01B27/00</b>, <b>E01B31/00</b> take precedence)",
+      "count": 3554,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B29/02": {
+      "code": "E01B29/02",
+      "level": 1,
+      "parent": "E01B29/00",
+      "ja": "軌道組み立て体，転てつ器組み立て体，またはてっさ組み立て体の運搬，敷設，撤去または交換（Ｅ０１Ｂ２９／０４が優先）",
+      "en": "Transporting, laying, removing, or renewing lengths of assembled track, assembled switches, or assembled crossings(<b>E01B29/04</b> takes precedence)",
+      "count": 1313,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B29/04": {
+      "code": "E01B29/04",
+      "level": 1,
+      "parent": "E01B29/00",
+      "ja": "軌道の持ち上げまたは水平化（持ち上げ装置一般Ｂ６６Ｆ）",
+      "en": "Lifting or levelling of tracks(lifting devices in general <b>B66F</b>)",
+      "count": 1131,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B29/05": {
+      "code": "E01B29/05",
+      "level": 1,
+      "parent": "E01B29/00",
+      "ja": "レールとまくら木両方の運搬，敷設，撤去または交換（組み立て単体Ｅ０１Ｂ２９／０２）",
+      "en": "Transporting, laying, removing, or renewing both rails and sleepers(as assembled units <b>E01B29/02</b>)",
+      "count": 461,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B29/06": {
+      "code": "E01B29/06",
+      "level": 1,
+      "parent": "E01B29/00",
+      "ja": "まくら木の運搬，敷設，撤去または交換（Ｅ０１Ｂ２９／０５が優先；運搬装置Ｂ６５Ｇ７／１２）",
+      "en": "Transporting, laying, removing, or renewing sleepers(<b>E01B29/05</b> takes precedence; carrying devices <b>B65G7/12</b>)",
+      "count": 1122,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B29/09": {
+      "code": "E01B29/09",
+      "level": 2,
+      "parent": "E01B29/06",
+      "ja": "敷設されたレールの下でまたは下から行なうもの",
+      "en": "under, or from under, installed rails",
+      "count": 159,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B29/10": {
+      "code": "E01B29/10",
+      "level": 3,
+      "parent": "E01B29/09",
+      "ja": "まくら木のそう入または撤去用",
+      "en": "for inserting or removing sleepers",
+      "count": 596,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B29/11": {
+      "code": "E01B29/11",
+      "level": 4,
+      "parent": "E01B29/10",
+      "ja": "まくら木の破壊による撤去，例．それらの切断",
+      "en": "Removal involving destruction of the sleeper, e.g. the sectioning thereof",
+      "count": 34,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B29/13": {
+      "code": "E01B29/13",
+      "level": 3,
+      "parent": "E01B29/09",
+      "ja": "レールに平行な方向へのまくら木移動用，例．それらの間隔保持または設置用（Ｅ０１Ｂ２９／１０が優先）",
+      "en": "for moving sleepers in a direction parallel to the rails, e.g. for spacing or aligning them(<b>E01B29/10</b> takes precedence)",
+      "count": 136,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B29/14": {
+      "code": "E01B29/14",
+      "level": 3,
+      "parent": "E01B29/09",
+      "ja": "レール上へのまくら木持ち上げ用（持ち上げ装置一般Ｂ６６Ｆ）",
+      "en": "for lifting sleepers up to the rails(lifting devices in general <b>B66F</b>)",
+      "count": 90,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B29/16": {
+      "code": "E01B29/16",
+      "level": 1,
+      "parent": "E01B29/00",
+      "ja": "レールの運搬，敷設，撤去または交換；軌道内でのまくら木上のレール移動（Ｅ０１Ｂ２９／０５が優先；重量物の移動または傾斜一般Ｂ６５Ｇ７／００）",
+      "en": "Transporting, laying, removing, or replacing rails; Moving rails placed on sleepers in the track(<b>E01B29/05</b> takes precedence; moving or tilting heavy loads in general <b>B65G7/00</b>)",
+      "count": 2313,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B29/17": {
+      "code": "E01B29/17",
+      "level": 2,
+      "parent": "E01B29/16",
+      "ja": "一列に組み立てられるレール延長，例．溶接するもの",
+      "en": "Lengths of rails assembled into strings, e.g. welded together",
+      "count": 359,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B29/20": {
+      "code": "E01B29/20",
+      "level": 2,
+      "parent": "E01B29/16",
+      "ja": "軌道面にすえられたまくら木上に置かれたレールの移動",
+      "en": "Moving rails placed on installed sleepers in the plane of the track",
+      "count": 371,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B29/22": {
+      "code": "E01B29/22",
+      "level": 2,
+      "parent": "E01B29/16",
+      "ja": "まくら木からのレールの起立，例．底板（ソールプレート）のそう入に用いるもの（持ち上げ装置一般Ｂ６６Ｆ）",
+      "en": "Raising rails from sleepers, e.g. for inserting sole-plates(lifting devices in general <b>B66F</b>)",
+      "count": 329,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B29/24": {
+      "code": "E01B29/24",
+      "level": 1,
+      "parent": "E01B29/00",
+      "ja": "分離できる固定装置またはそれらの補助具の固定または撤去；分離できる固定装置による既組み立て軌道構成要素（Ｅ０１Ｂ２９／０２，Ｅ０１Ｂ３１／２６が優先）",
+      "en": "Fixing or removing detachable fastening means or accessories thereof; Pre-assembling track components by detachable fastening means(<b>E01B29/02</b>, <b>E01B31/26</b> take precedence)",
+      "count": 795,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B29/26": {
+      "code": "E01B29/26",
+      "level": 2,
+      "parent": "E01B29/24",
+      "ja": "犬くぎを用いる固定装置（Ｅ０１Ｂ２９／１６が優先；くぎまたは止め具の打ち込みまたは引き抜き用の手持ち工具Ｂ２５Ｃ）",
+      "en": "the fastening means being spikes(<b>E01B29/16</b> takes precedence; hand-held tools for nail or staple driving or extracting <b>B25C</b>)",
+      "count": 493,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B29/28": {
+      "code": "E01B29/28",
+      "level": 2,
+      "parent": "E01B29/24",
+      "ja": "ねじ・ナット形の固定装置（ねじくぎまたはその類似物の固定または撤去用可搬装置Ｂ２５Ｂ）；付加的なせん孔を伴なうためにそれらに使用する装置",
+      "en": "the fastening means being of screw-and-nut type(portable apparatus for fixing or removing screws or the like <b>B25B</b>);Apparatus therefor, adapted to additionally drilling holes",
+      "count": 817,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B29/29": {
+      "code": "E01B29/29",
+      "level": 3,
+      "parent": "E01B29/28",
+      "ja": "水平に配列された固定要素用，例．継ぎ目ボルト",
+      "en": "for horizontally-arranged fastening elements, e.g. fish-bolts",
+      "count": 57,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B29/32": {
+      "code": "E01B29/32",
+      "level": 1,
+      "parent": "E01B29/00",
+      "ja": "前記のグループに属しない軌道構成要素の設置または撤去，例．底板［ソールプレート］，アンチクリーパー［レールアンカー］（Ｅ０１Ｂ３１／２６が優先）",
+      "en": "Installing or removing track components, not covered by the preceding groups, e.g. sole-plates, rail anchors(<b>E01B31/26</b> takes precedence)",
+      "count": 594,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B29/40": {
+      "code": "E01B29/40",
+      "level": 1,
+      "parent": "E01B29/00",
+      "ja": "軌道，レールまたは軌道内のまくら木を仮設する装置（仮継ぎ目板Ｅ０１Ｂ１１／１８）",
+      "en": "Means or arrangements for temporarily supporting laid tracks, or rails or sleepers in the track(temporary fishplates <b>E01B11/18</b>)",
+      "count": 310,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B29/42": {
+      "code": "E01B29/42",
+      "level": 1,
+      "parent": "E01B29/00",
+      "ja": "軌道内またはその上での軌道構成要素の分離不能な接合または固定，例．溶接によるもの，接着によるもの；接着によって既に組み立てられた軌道構成要素；充てん物でみたされた密封接合（Ｅ０１Ｂ３１／２６が優先；独立した加熱装置Ｅ０１Ｂ３１／１８；溶接一般Ｂ２３Ｋ；接着金属部分一般Ｆ１６Ｂ１１／００）",
+      "en": "Undetachably joining or fastening track components in or on the track, e.g. by welding, by gluing; Pre-assembling track components by gluing; Sealing joints with filling components(<b>E01B31/26</b> takes precedence; independent heating means <b>E01B31/18</b>; welding in general <b>B23K</b>; gluing metal parts in general <b>F16B11/00</b>)",
+      "count": 210,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B29/44": {
+      "code": "E01B29/44",
+      "level": 2,
+      "parent": "E01B29/42",
+      "ja": "軌道におけるレールの効果的な接合方法，例．周囲温度の考慮",
+      "en": "Methods for effecting joining of rails in the track, e.g. taking account of ambient temperature",
+      "count": 119,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B29/46": {
+      "code": "E01B29/46",
+      "level": 2,
+      "parent": "E01B29/42",
+      "ja": "両方のレール端部を把持，位置決めまたは押す装置（レールの移動による結合の調整Ｅ０１Ｂ２９／２０）",
+      "en": "Devices for holding, positioning, or urging together the rail ends(adjusting the joint by moving rails <b>E01B29/20</b>)",
+      "count": 224,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B31/00": {
+      "code": "E01B31/00",
+      "level": 0,
+      "parent": "E01B",
+      "ja": "軌道内またはその上でのレール，まくら木，床板（ベッドプレート，ベースプレート）または類似のものに対する作業；それらのために特に設計された機械，工具，または補助装置（軌道組み立てに独立して使用することに特徴のあるものＢ２１，Ｂ２３～Ｂ２５，Ｂ２７）",
+      "en": "Working rails, sleepers, baseplates, or the like, in or on the line; Machines, tools, or auxiliary devices specially designed therefor(characterised by features independent of use on assembled track <b>B21</b>, <b>B23 to B25</b> , <b>B27</b>)",
+      "count": 604,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B31/02": {
+      "code": "E01B31/02",
+      "level": 1,
+      "parent": "E01B31/00",
+      "ja": "現場でのレールまたはその他の金属製軌道構成要素の加工",
+      "en": "Working rail or other metal track components on the spot",
+      "count": 390,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B31/04": {
+      "code": "E01B31/04",
+      "level": 2,
+      "parent": "E01B31/02",
+      "ja": "切断または切截，例．鋸びき，剪断，溶断によるもの",
+      "en": "Sectioning or slitting, e.g. by sawing, shearing, flame-cutting",
+      "count": 257,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B31/06": {
+      "code": "E01B31/06",
+      "level": 2,
+      "parent": "E01B31/02",
+      "ja": "穴あけ，例．せん孔，押し抜き，溶断によるもの",
+      "en": "Making holes, e.g. by drilling, punching, flame-cutting",
+      "count": 307,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B31/08": {
+      "code": "E01B31/08",
+      "level": 2,
+      "parent": "E01B31/02",
+      "ja": "曲げ，例．レールまたはレール継ぎ目を直線にするためのもの（溶接に適するようレール端を整列するものＥ０１Ｂ２９／４６）",
+      "en": "Bending, e.g. for straightening rails or rail joints(for aligning rail ends to be welded <b>E01B29/46</b>)",
+      "count": 185,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B31/12": {
+      "code": "E01B31/12",
+      "level": 2,
+      "parent": "E01B31/02",
+      "ja": "レール，レール継ぎ目，または床板（ベッドプレート，ベースプレート）の削成，例．溶接のばりとり，摩耗レールの更生",
+      "en": "Removing metal from rails, rail joints, or baseplates, e.g. for deburring welds, reconditioning worn rails",
+      "count": 373,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B31/13": {
+      "code": "E01B31/13",
+      "level": 3,
+      "parent": "E01B31/12",
+      "ja": "フライス削りによるもの",
+      "en": "by milling",
+      "count": 227,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B31/15": {
+      "code": "E01B31/15",
+      "level": 3,
+      "parent": "E01B31/12",
+      "ja": "かんな削りまたはやすり掛けによるもの",
+      "en": "by planing or filing",
+      "count": 110,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B31/17": {
+      "code": "E01B31/17",
+      "level": 3,
+      "parent": "E01B31/12",
+      "ja": "研削によるもの",
+      "en": "by grinding",
+      "count": 2571,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B31/18": {
+      "code": "E01B31/18",
+      "level": 2,
+      "parent": "E01B31/02",
+      "ja": "摩耗または切損した部材の現場での更生または補修，例．はめ込みによるもの，溶接によるレールの更生（Ｅ０１Ｂ３１／０４～Ｅ０１Ｂ３１／１２が優先）；現場での部材の加熱または冷却，例．継ぎ目溝を縮めるもの，レールの硬度を高めるもの",
+      "en": "Reconditioning or repairing worn or damaged parts on the spot, e.g. applying inlays, building-up rails by welding(<b>E01B31/04 to E01B31/12</b>  take precedence);Heating or cooling of parts on the spot, e.g. for reducing joint gaps, for hardening rails",
+      "count": 737,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B31/20": {
+      "code": "E01B31/20",
+      "level": 1,
+      "parent": "E01B31/00",
+      "ja": "軌道内またはその上での非金属製まくら木の加工または処理，例．けがき，クレオソート注入（金属製まくら木の加工Ｅ０１Ｂ３１／０２）",
+      "en": "Working or treating non-metal sleepers in or on the line, e.g. marking, creosoting(working metal sleepers <b>E01B31/02</b>)",
+      "count": 162,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B31/22": {
+      "code": "E01B31/22",
+      "level": 2,
+      "parent": "E01B31/20",
+      "ja": "木製まくら木の切断または研削，例．レール座の形成（Ｅ０１Ｂ３１／２４が優先）",
+      "en": "Cutting or grinding wooden sleepers, e.g. for forming rail seats(<b>E01B31/24</b> takes precedence)",
+      "count": 77,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B31/23": {
+      "code": "E01B31/23",
+      "level": 3,
+      "parent": "E01B31/22",
+      "ja": "切断（軌道からその一部を取り除く事に関するものＥ０１Ｂ２９／１１）",
+      "en": "Sectioning(combined with removal of segments from track <b>E01B29/11</b>)",
+      "count": 10,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B31/24": {
+      "code": "E01B31/24",
+      "level": 2,
+      "parent": "E01B31/20",
+      "ja": "まくら木の穴の形成，処理，修理または清掃；穴あけ用型板［テンプレート］（Ｅ０１Ｂ２９／２８，Ｅ０１Ｂ３１／２６が優先）",
+      "en": "Forming, treating, reconditioning, or cleaning holes in sleepers; Drilling-templates(<b>E01B29/28</b>, <b>E01B31/26</b> take precedence)",
+      "count": 173,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B31/26": {
+      "code": "E01B31/26",
+      "level": 2,
+      "parent": "E01B31/20",
+      "ja": "まくら木の穴へのそう入物や充てん物，例．プラグ，スリーブ，のそう入または取り出し",
+      "en": "Inserting or removing inserts or fillings for holes in sleepers, e.g. plugs, sleeves",
+      "count": 185,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B31/28": {
+      "code": "E01B31/28",
+      "level": 2,
+      "parent": "E01B31/20",
+      "ja": "割れ防止または類似の補強手段の使用または除去（Ｅ０１Ｂ３１／２６が優先；それらの条帯Ｅ０１Ｂ３／０８）",
+      "en": "Applying or removing anti-splitting or like reinforcing means(<b>E01B31/26</b> takes precedence; straps or bands therefor <b>E01B3/08</b>)",
+      "count": 77,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B33/00": {
+      "code": "E01B33/00",
+      "level": 0,
+      "parent": "E01B",
+      "ja": "軌道の持ち上げを伴うあるいは伴わない軌道の移動用，例．軌道整正用，掘削機の軌道の移動用，機械あるいは装置（まくら木つき固め機と結合されているものＥ０１Ｂ２７／１７）",
+      "en": "Machines or devices for shifting tracks, with or without lifting, e.g. for aligning track, for shifting excavator track(combined with sleeper packing machines <b>E01B27/17</b>)",
+      "count": 491,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B33/02": {
+      "code": "E01B33/02",
+      "level": 1,
+      "parent": "E01B33/00",
+      "ja": "軌道の段階的な横移動用",
+      "en": "for slewing, i.e. transversely shifting, in steps",
+      "count": 183,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B33/04": {
+      "code": "E01B33/04",
+      "level": 2,
+      "parent": "E01B33/02",
+      "ja": "手工具；台車に搭載されない装置",
+      "en": "Manual tools; Devices not mounted on vehicles",
+      "count": 112,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B33/06": {
+      "code": "E01B33/06",
+      "level": 1,
+      "parent": "E01B33/00",
+      "ja": "軌道の連続的な横移動用，例．掘削機運搬のための軌道用",
+      "en": "for slewing in a continuous operation, e.g. for tracks which carry excavators",
+      "count": 49,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B33/08": {
+      "code": "E01B33/08",
+      "level": 2,
+      "parent": "E01B33/06",
+      "ja": "軌道の移動のためのブーム装置",
+      "en": "Boom track-slewing machines",
+      "count": 76,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B33/10": {
+      "code": "E01B33/10",
+      "level": 2,
+      "parent": "E01B33/06",
+      "ja": "軌道の移動のための門型装置",
+      "en": "Bridge track-slewing machines",
+      "count": 83,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B33/12": {
+      "code": "E01B33/12",
+      "level": 2,
+      "parent": "E01B33/06",
+      "ja": "軌道の移動のためのブーム装置と門型装置とを結合したもの",
+      "en": "Combined boom and bridge track-slewing machines",
+      "count": 22,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B33/18": {
+      "code": "E01B33/18",
+      "level": 2,
+      "parent": "E01B33/06",
+      "ja": "特殊型の機械に特有でない細部",
+      "en": "Details not peculiar to a particular type of machine",
+      "count": 99,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B33/21": {
+      "code": "E01B33/21",
+      "level": 3,
+      "parent": "E01B33/18",
+      "ja": "軌条の移動のためのローラーの配置または構造",
+      "en": "Arrangement or construction of rollers moving the rails",
+      "count": 6,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B35/00": {
+      "code": "E01B35/00",
+      "level": 0,
+      "parent": "E01B",
+      "ja": "測定装置の軌道建設への応用（軌道の狂った個所を指示または記録するために機関車または車両に設ける装置Ｂ６１Ｋ９／００；角度，真直度または不規則性の測定一般Ｇ０１Ｂ，Ｇ０１Ｃ）",
+      "en": "Applications of measuring apparatus or devices for track-building purposes(apparatus on locomotives or cars to indicate or record bad track sections <b>B61K9/00</b>; measuring angles, linear dimensions, or irregularities in general <b>G01B</b>, <b>G01C</b>)",
+      "count": 3145,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B35/02": {
+      "code": "E01B35/02",
+      "level": 1,
+      "parent": "E01B35/00",
+      "ja": "軌間保持に用いるもの；横方向の整準に用いるもの；曲線の設計に用いるもの",
+      "en": "for spacing; for cross levelling; for laying-out curves",
+      "count": 850,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B35/04": {
+      "code": "E01B35/04",
+      "level": 2,
+      "parent": "E01B35/02",
+      "ja": "車輪のある装置",
+      "en": "Wheeled apparatus",
+      "count": 540,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B35/06": {
+      "code": "E01B35/06",
+      "level": 1,
+      "parent": "E01B35/00",
+      "ja": "縦方向の不規則性の測定に用いるもの",
+      "en": "for measuring irregularities in longitudinal direction",
+      "count": 462,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B35/08": {
+      "code": "E01B35/08",
+      "level": 2,
+      "parent": "E01B35/06",
+      "ja": "高低用",
+      "en": "for levelling",
+      "count": 243,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B35/10": {
+      "code": "E01B35/10",
+      "level": 2,
+      "parent": "E01B35/06",
+      "ja": "平面用",
+      "en": "for aligning",
+      "count": 130,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B35/12": {
+      "code": "E01B35/12",
+      "level": 1,
+      "parent": "E01B35/00",
+      "ja": "移動荷重下における軌道または軌道構成要素の移動，例．まくら木の沈下，軌間の拡張，を測定するもの",
+      "en": "for measuring movement of the track or of components thereof under rolling loads, e.g. depression of sleepers, increase of gauge",
+      "count": 522,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    },
+    "E01B37/00": {
+      "code": "E01B37/00",
+      "level": 0,
+      "parent": "E01B",
+      "ja": "グループＥ０１Ｂ２７／００～Ｅ０１Ｂ３５／００の一つに属しない道床または軌道の敷設，維持，更新，または取りはずし",
+      "en": "Making, maintaining, renewing, or taking-up the ballastway or the track, not provided for in a single one of groups <b>E01B27/00 to E01B35/00</b> ",
+      "count": 2004,
+      "sourceFile": "ipc_E01B.txt",
+      "kind": "ipc"
+    }
+  }
+}

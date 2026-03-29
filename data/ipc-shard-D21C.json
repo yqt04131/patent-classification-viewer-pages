@@ -1,0 +1,556 @@
+{
+  "generatedAt": "2026-03-20T02:17:46.611Z",
+  "total": 55,
+  "entries": {
+    "D21C": {
+      "code": "D21C",
+      "level": 0,
+      "parent": "D21",
+      "ja": "セルロース含有材料から非セルロース物質を除去することによるセルロースの製造；パルプ化薬液の再生；そのための装置<br><br><b><ul>サブクラス内の索引</ul></b><br>セルロースの製造<br>原料の予備処理　１／００<br>パルプ化　３／００<br>その他の工程　５／００<br>蒸解器　７／００<br>後処理　９／００<br>パルプ化薬液の再生　１１／００",
+      "en": "PRODUCTION OF CELLULOSE BY REMOVING NON-CELLULOSE SUBSTANCES FROM CELLULOSE- CONTAINING MATERIALS; REGENERATION OF PULPING LIQUORS; APPARATUS THEREFOR; <br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">PRODUCTION OF CELLULOSE<tr><td width=\"70%\">Pretreatment of raw material </td><td><b><b>1/00</b></b></td></tr></tr><tr><td width=\"70%\">Pulping </td><td><b><b>3/00</b></b></td></tr></tr><tr><td width=\"70%\">Other processes </td><td><b><b>5/00</b></b></td></tr></tr><tr><td width=\"70%\">Digesters </td><td><b><b>7/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">AFTER-TREATMENT </td><td><b><b>9/00</b></b></td></tr></tr><tr><td width=\"70%\">REGENERATION OF PULP LIQUORS </td><td><b><b>11/00</b></b></td></tr></tr></table>",
+      "count": 1177,
+      "sourceFile": "ipc_D.txt",
+      "kind": "ipc"
+    },
+    "D21": {
+      "code": "D21",
+      "level": 0,
+      "parent": "D",
+      "ja": "製紙；セルロースの製造",
+      "en": "PAPER-MAKING; PRODUCTION OF CELLULOSE",
+      "count": 0,
+      "sourceFile": "ipc_D.txt",
+      "kind": "ipc"
+    },
+    "D": {
+      "code": "D",
+      "level": 0,
+      "parent": null,
+      "ja": "繊維；紙<br><br><b><ul>注</ul></b><br>このセクションにおいては，下記の用語は以下に示す意味で用いる：<br>―“繊維”は比較的短く，細長い天然または人造の物質よりなるものを意味する；［２０１４．０１］<br>―“フィラメント”はエンドレスまたは準エンドレスで，細長い天然または人造の物質よりなるものを意味する；［２０１４．０１］<br>―“糸”は繊維の単一の集合体を意味し，通常紡績によって製造される；［２０１４．０１］<br>―“より糸”は糸またはフィラメントの集合体を意味し，通常加ねんによって製造される；［２０１４．０１］<br>―“合成”繊維またはフィラメントはポリマーまたは低分子を合成させたものから製造される繊維またはフィラメントまたは類似物を意味する。例は，ポリアミド，アクリル，ポリエステルまたは炭素繊維である；［２０１４．０１］<br>―“人工”繊維またはフィラメントは天然ポリマーまたはその派生物から人が製造した繊維またはフィラメントまたは類似物を意味する。例は，再生セルロース繊維または半合成繊維である；［２０１４．０１］<br>―“人造”繊維またはフィラメントは人が製造した繊維またはフィラメントを意味し，“合成”繊維または“人工”繊維を含む。［２０１４．０１］",
+      "en": "TEXTILES; PAPER; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this section, the following terms are used with the meanings indicated: <ul><li>\"fibre\" means a relatively-short, elongated member of natural or man-made material;    </li><li>\"filament\" means an endless or quasi-endless, elongated member of natural or man-made material;    </li><li>\"yarn\" means a unitary assembly of fibres, usually produced by spinning;    </li><li>\"thread\" means an assembly of yarns or filaments, usually produced by twisting;    </li><li>\"synthetic\" fibres or filaments means fibres or filaments or the like manufactured from synthesising polymers or small molecules. Examples are polyamide, acrylic, polyester or carbon fibres;    </li><li>\"artificial\" fibres or filaments means fibres or filaments or the like manufactured by man from natural polymers or their derivatives. Examples are regenerated cellulosic fibres or semi-synthetic fibres;    </li><li>\"man-made&rdquo; fibres or filaments means fibres or filaments which are manufactured by man including &ldquo;synthetic&rdquo; or &ldquo;artificial&rdquo; fibres.    </li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_D.txt",
+      "kind": "ipc"
+    },
+    "D21C1/00": {
+      "code": "D21C1/00",
+      "level": 0,
+      "parent": "D21C",
+      "ja": "蒸解前の細割り材料の予備処理（故紙Ｄ２１Ｃ５／０２）",
+      "en": "Pretreatment of the finely-divided materials before digesting(of waste paper <b>D21C5/02</b>)",
+      "count": 1108,
+      "sourceFile": "ipc_D21C.txt",
+      "kind": "ipc"
+    },
+    "D21C1/02": {
+      "code": "D21C1/02",
+      "level": 1,
+      "parent": "D21C1/00",
+      "ja": "水または水蒸気によるもの",
+      "en": "with water or steam",
+      "count": 846,
+      "sourceFile": "ipc_D21C.txt",
+      "kind": "ipc"
+    },
+    "D21C1/04": {
+      "code": "D21C1/04",
+      "level": 1,
+      "parent": "D21C1/00",
+      "ja": "酸性化合物によるもの",
+      "en": "with acid reacting compounds",
+      "count": 510,
+      "sourceFile": "ipc_D21C.txt",
+      "kind": "ipc"
+    },
+    "D21C1/06": {
+      "code": "D21C1/06",
+      "level": 1,
+      "parent": "D21C1/00",
+      "ja": "アルカリ性化合物によるもの",
+      "en": "with alkaline reacting compounds",
+      "count": 749,
+      "sourceFile": "ipc_D21C.txt",
+      "kind": "ipc"
+    },
+    "D21C1/08": {
+      "code": "D21C1/08",
+      "level": 1,
+      "parent": "D21C1/00",
+      "ja": "酸素発生化合物によるもの",
+      "en": "with oxygen-generating compounds",
+      "count": 90,
+      "sourceFile": "ipc_D21C.txt",
+      "kind": "ipc"
+    },
+    "D21C1/10": {
+      "code": "D21C1/10",
+      "level": 1,
+      "parent": "D21C1/00",
+      "ja": "浸透を促進するための物理的方法",
+      "en": "Physical methods for facilitating impregnation",
+      "count": 332,
+      "sourceFile": "ipc_D21C.txt",
+      "kind": "ipc"
+    },
+    "D21C3/00": {
+      "code": "D21C3/00",
+      "level": 0,
+      "parent": "D21C",
+      "ja": "セルロース含有材料のパルプ化",
+      "en": "Pulping cellulose-containing materials",
+      "count": 2029,
+      "sourceFile": "ipc_D21C.txt",
+      "kind": "ipc"
+    },
+    "D21C3/02": {
+      "code": "D21C3/02",
+      "level": 1,
+      "parent": "D21C3/00",
+      "ja": "無機塩基またはアルカリ性化合物によるもの，例．硫酸塩法",
+      "en": "with inorganic bases or alkaline reacting compounds, e.g. sulfate processes",
+      "count": 2855,
+      "sourceFile": "ipc_D21C.txt",
+      "kind": "ipc"
+    },
+    "D21C3/04": {
+      "code": "D21C3/04",
+      "level": 1,
+      "parent": "D21C3/00",
+      "ja": "酸，酸性塩または酸無水物によるもの",
+      "en": "with acids, acid salts, or acid anhydrides",
+      "count": 788,
+      "sourceFile": "ipc_D21C.txt",
+      "kind": "ipc"
+    },
+    "D21C3/06": {
+      "code": "D21C3/06",
+      "level": 2,
+      "parent": "D21C3/04",
+      "ja": "二酸化硫黄；亜硫酸；重亜硫酸塩によるもの",
+      "en": "sulfur dioxide; sulfurous acid; bisulfites",
+      "count": 488,
+      "sourceFile": "ipc_D21C.txt",
+      "kind": "ipc"
+    },
+    "D21C3/08": {
+      "code": "D21C3/08",
+      "level": 3,
+      "parent": "D21C3/06",
+      "ja": "重亜硫酸カルシウムによるもの",
+      "en": "calcium bisulfite",
+      "count": 31,
+      "sourceFile": "ipc_D21C.txt",
+      "kind": "ipc"
+    },
+    "D21C3/10": {
+      "code": "D21C3/10",
+      "level": 3,
+      "parent": "D21C3/06",
+      "ja": "重亜硫酸マグネシウムによるもの",
+      "en": "magnesium bisulfite",
+      "count": 60,
+      "sourceFile": "ipc_D21C.txt",
+      "kind": "ipc"
+    },
+    "D21C3/12": {
+      "code": "D21C3/12",
+      "level": 3,
+      "parent": "D21C3/06",
+      "ja": "重亜硫酸ナトリウムによるもの",
+      "en": "sodium bisulfite",
+      "count": 60,
+      "sourceFile": "ipc_D21C.txt",
+      "kind": "ipc"
+    },
+    "D21C3/14": {
+      "code": "D21C3/14",
+      "level": 3,
+      "parent": "D21C3/06",
+      "ja": "重亜硫酸アンモニウムによるもの",
+      "en": "ammonium bisulfite",
+      "count": 42,
+      "sourceFile": "ipc_D21C.txt",
+      "kind": "ipc"
+    },
+    "D21C3/16": {
+      "code": "D21C3/16",
+      "level": 2,
+      "parent": "D21C3/04",
+      "ja": "酸化窒素；硝酸によるもの",
+      "en": "nitrogen oxides; nitric acid",
+      "count": 131,
+      "sourceFile": "ipc_D21C.txt",
+      "kind": "ipc"
+    },
+    "D21C3/18": {
+      "code": "D21C3/18",
+      "level": 1,
+      "parent": "D21C3/00",
+      "ja": "ハロゲンまたはハロゲン発生化合物によるもの（セルロースパルプの漂白Ｄ２１Ｃ９／１２）",
+      "en": "with halogens or halogen-generating compounds(bleaching cellulose pulp <b>D21C9/12</b>)",
+      "count": 206,
+      "sourceFile": "ipc_D21C.txt",
+      "kind": "ipc"
+    },
+    "D21C3/20": {
+      "code": "D21C3/20",
+      "level": 1,
+      "parent": "D21C3/00",
+      "ja": "有機溶剤によるもの",
+      "en": "with organic solvents",
+      "count": 776,
+      "sourceFile": "ipc_D21C.txt",
+      "kind": "ipc"
+    },
+    "D21C3/22": {
+      "code": "D21C3/22",
+      "level": 1,
+      "parent": "D21C3/00",
+      "ja": "パルプ化法のその他の特徴",
+      "en": "Other features of pulping processes",
+      "count": 1891,
+      "sourceFile": "ipc_D21C.txt",
+      "kind": "ipc"
+    },
+    "D21C3/24": {
+      "code": "D21C3/24",
+      "level": 2,
+      "parent": "D21C3/22",
+      "ja": "連続法",
+      "en": "Continuous processes",
+      "count": 475,
+      "sourceFile": "ipc_D21C.txt",
+      "kind": "ipc"
+    },
+    "D21C3/26": {
+      "code": "D21C3/26",
+      "level": 2,
+      "parent": "D21C3/22",
+      "ja": "多段法",
+      "en": "Multi-stage processes",
+      "count": 759,
+      "sourceFile": "ipc_D21C.txt",
+      "kind": "ipc"
+    },
+    "D21C3/28": {
+      "code": "D21C3/28",
+      "level": 2,
+      "parent": "D21C3/22",
+      "ja": "発泡抑制",
+      "en": "Prevention of foam",
+      "count": 110,
+      "sourceFile": "ipc_D21C.txt",
+      "kind": "ipc"
+    },
+    "D21C5/00": {
+      "code": "D21C5/00",
+      "level": 0,
+      "parent": "D21C",
+      "ja": "セルロースを得るためのその他の方法，例．綿リンタの蒸解",
+      "en": "Other processes for obtaining cellulose, e.g. cooking cotton linters",
+      "count": 4159,
+      "sourceFile": "ipc_D21C.txt",
+      "kind": "ipc"
+    },
+    "D21C5/02": {
+      "code": "D21C5/02",
+      "level": 1,
+      "parent": "D21C5/00",
+      "ja": "故紙からのパルプの再生（古紙からのパルプの再生のための機械的な工程Ｄ２１Ｂ１／０８，Ｄ２１Ｂ１／３２）",
+      "en": "Working-up waste paper(mechanical processes for working-up waste paper <b>D21B1/08</b>, <b>D21B1/32</b>)",
+      "count": 4069,
+      "sourceFile": "ipc_D21C.txt",
+      "kind": "ipc"
+    },
+    "D21C7/00": {
+      "code": "D21C7/00",
+      "level": 0,
+      "parent": "D21C",
+      "ja": "蒸解器",
+      "en": "Digesters",
+      "count": 1604,
+      "sourceFile": "ipc_D21C.txt",
+      "kind": "ipc"
+    },
+    "D21C7/02": {
+      "code": "D21C7/02",
+      "level": 1,
+      "parent": "D21C7/00",
+      "ja": "回転式蒸解器",
+      "en": "Rotary digesters",
+      "count": 106,
+      "sourceFile": "ipc_D21C.txt",
+      "kind": "ipc"
+    },
+    "D21C7/04": {
+      "code": "D21C7/04",
+      "level": 1,
+      "parent": "D21C7/00",
+      "ja": "ライニング",
+      "en": "Linings",
+      "count": 45,
+      "sourceFile": "ipc_D21C.txt",
+      "kind": "ipc"
+    },
+    "D21C7/06": {
+      "code": "D21C7/06",
+      "level": 1,
+      "parent": "D21C7/00",
+      "ja": "供給装置",
+      "en": "Feeding devices",
+      "count": 709,
+      "sourceFile": "ipc_D21C.txt",
+      "kind": "ipc"
+    },
+    "D21C7/08": {
+      "code": "D21C7/08",
+      "level": 1,
+      "parent": "D21C7/00",
+      "ja": "排出装置",
+      "en": "Discharge devices",
+      "count": 395,
+      "sourceFile": "ipc_D21C.txt",
+      "kind": "ipc"
+    },
+    "D21C7/10": {
+      "code": "D21C7/10",
+      "level": 1,
+      "parent": "D21C7/00",
+      "ja": "加熱装置",
+      "en": "Heating devices",
+      "count": 262,
+      "sourceFile": "ipc_D21C.txt",
+      "kind": "ipc"
+    },
+    "D21C7/12": {
+      "code": "D21C7/12",
+      "level": 1,
+      "parent": "D21C7/00",
+      "ja": "調節用または制御用装置",
+      "en": "Devices for regulating or controlling",
+      "count": 416,
+      "sourceFile": "ipc_D21C.txt",
+      "kind": "ipc"
+    },
+    "D21C7/14": {
+      "code": "D21C7/14",
+      "level": 1,
+      "parent": "D21C7/00",
+      "ja": "薬液の循環用装置",
+      "en": "Means for circulating the lye",
+      "count": 395,
+      "sourceFile": "ipc_D21C.txt",
+      "kind": "ipc"
+    },
+    "D21C7/16": {
+      "code": "D21C7/16",
+      "level": 1,
+      "parent": "D21C7/00",
+      "ja": "安全装置",
+      "en": "Safety devices",
+      "count": 53,
+      "sourceFile": "ipc_D21C.txt",
+      "kind": "ipc"
+    },
+    "D21C9/00": {
+      "code": "D21C9/00",
+      "level": 0,
+      "parent": "D21C",
+      "ja": "セルロースパルプ，例．木材パルプ，または綿リンタ，の後処理",
+      "en": "After-treatment of cellulose pulp, e.g. of wood pulp, or cotton linters",
+      "count": 2974,
+      "sourceFile": "ipc_D21C.txt",
+      "kind": "ipc"
+    },
+    "D21C9/02": {
+      "code": "D21C9/02",
+      "level": 1,
+      "parent": "D21C9/00",
+      "ja": "洗浄",
+      "en": "Washing",
+      "count": 1530,
+      "sourceFile": "ipc_D21C.txt",
+      "kind": "ipc"
+    },
+    "D21C9/04": {
+      "code": "D21C9/04",
+      "level": 2,
+      "parent": "D21C9/02",
+      "ja": "ディフューザにおける洗浄",
+      "en": "in diffusers",
+      "count": 156,
+      "sourceFile": "ipc_D21C.txt",
+      "kind": "ipc"
+    },
+    "D21C9/06": {
+      "code": "D21C9/06",
+      "level": 2,
+      "parent": "D21C9/02",
+      "ja": "フィルタにおける洗浄",
+      "en": "in filters",
+      "count": 544,
+      "sourceFile": "ipc_D21C.txt",
+      "kind": "ipc"
+    },
+    "D21C9/08": {
+      "code": "D21C9/08",
+      "level": 1,
+      "parent": "D21C9/00",
+      "ja": "油脂，樹脂，ピッチまたはワックス等の除去",
+      "en": "Removal of fats, resins, pitch, or waxes",
+      "count": 975,
+      "sourceFile": "ipc_D21C.txt",
+      "kind": "ipc"
+    },
+    "D21C9/10": {
+      "code": "D21C9/10",
+      "level": 1,
+      "parent": "D21C9/00",
+      "ja": "漂白",
+      "en": "Bleaching",
+      "count": 4004,
+      "sourceFile": "ipc_D21C.txt",
+      "kind": "ipc"
+    },
+    "D21C9/12": {
+      "code": "D21C9/12",
+      "level": 2,
+      "parent": "D21C9/10",
+      "ja": "ハロゲンまたは含ハロゲン化合物による漂白（Ｄ２１Ｃ９／１６が優先）［４］",
+      "en": "with halogens or halogen-containing compounds(<b>D21C9/16</b> takes precedence)",
+      "count": 498,
+      "sourceFile": "ipc_D21C.txt",
+      "kind": "ipc"
+    },
+    "D21C9/14": {
+      "code": "D21C9/14",
+      "level": 3,
+      "parent": "D21C9/12",
+      "ja": "ＣｌＯ↓２または亜塩素酸塩による漂白",
+      "en": "with ClO<sub>2</sub> or chlorites",
+      "count": 781,
+      "sourceFile": "ipc_D21C.txt",
+      "kind": "ipc"
+    },
+    "D21C9/147": {
+      "code": "D21C9/147",
+      "level": 2,
+      "parent": "D21C9/10",
+      "ja": "酸素またはその同素体による漂白（Ｄ２１Ｃ９／１６が優先）［４］",
+      "en": "with oxygen or its allotropic modifications(<b>D21C9/16</b> takes precedence)",
+      "count": 692,
+      "sourceFile": "ipc_D21C.txt",
+      "kind": "ipc"
+    },
+    "D21C9/153": {
+      "code": "D21C9/153",
+      "level": 3,
+      "parent": "D21C9/147",
+      "ja": "オゾンによる漂白［４］",
+      "en": "with ozone",
+      "count": 470,
+      "sourceFile": "ipc_D21C.txt",
+      "kind": "ipc"
+    },
+    "D21C9/16": {
+      "code": "D21C9/16",
+      "level": 2,
+      "parent": "D21C9/10",
+      "ja": "過酸化物による漂白",
+      "en": "with per compounds",
+      "count": 1761,
+      "sourceFile": "ipc_D21C.txt",
+      "kind": "ipc"
+    },
+    "D21C9/18": {
+      "code": "D21C9/18",
+      "level": 1,
+      "parent": "D21C9/00",
+      "ja": "脱水",
+      "en": "De-watering",
+      "count": 1966,
+      "sourceFile": "ipc_D21C.txt",
+      "kind": "ipc"
+    },
+    "D21C11/00": {
+      "code": "D21C11/00",
+      "level": 0,
+      "parent": "D21C",
+      "ja": "パルプ化薬液の再生",
+      "en": "Regeneration of pulp liquors",
+      "count": 3343,
+      "sourceFile": "ipc_D21C.txt",
+      "kind": "ipc"
+    },
+    "D21C11/02": {
+      "code": "D21C11/02",
+      "level": 1,
+      "parent": "D21C11/00",
+      "ja": "亜硫酸法廃液からの再生",
+      "en": "of sulfite lye",
+      "count": 458,
+      "sourceFile": "ipc_D21C.txt",
+      "kind": "ipc"
+    },
+    "D21C11/04": {
+      "code": "D21C11/04",
+      "level": 1,
+      "parent": "D21C11/00",
+      "ja": "アルカリ法廃液からの再生",
+      "en": "of alkali lye",
+      "count": 1397,
+      "sourceFile": "ipc_D21C.txt",
+      "kind": "ipc"
+    },
+    "D21C11/06": {
+      "code": "D21C11/06",
+      "level": 1,
+      "parent": "D21C11/00",
+      "ja": "パルプ化の際に生じるガスの処理；ガス中の熱回収",
+      "en": "Treatment of pulp gases; Recovery of the heat content of the gases",
+      "count": 853,
+      "sourceFile": "ipc_D21C.txt",
+      "kind": "ipc"
+    },
+    "D21C11/08": {
+      "code": "D21C11/08",
+      "level": 2,
+      "parent": "D21C11/06",
+      "ja": "脱臭",
+      "en": "Deodorisation",
+      "count": 164,
+      "sourceFile": "ipc_D21C.txt",
+      "kind": "ipc"
+    },
+    "D21C11/10": {
+      "code": "D21C11/10",
+      "level": 1,
+      "parent": "D21C11/00",
+      "ja": "蒸発による廃液の濃縮",
+      "en": "Concentrating spent liquor by evaporation",
+      "count": 679,
+      "sourceFile": "ipc_D21C.txt",
+      "kind": "ipc"
+    },
+    "D21C11/12": {
+      "code": "D21C11/12",
+      "level": 1,
+      "parent": "D21C11/00",
+      "ja": "パルプ廃液の燃焼",
+      "en": "Combustion of pulp liquors",
+      "count": 1428,
+      "sourceFile": "ipc_D21C.txt",
+      "kind": "ipc"
+    },
+    "D21C11/14": {
+      "code": "D21C11/14",
+      "level": 2,
+      "parent": "D21C11/12",
+      "ja": "湿式燃焼",
+      "en": "Wet combustion",
+      "count": 108,
+      "sourceFile": "ipc_D21C.txt",
+      "kind": "ipc"
+    }
+  }
+}

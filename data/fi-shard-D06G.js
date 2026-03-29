@@ -1,0 +1,84 @@
+window.FI_SHARD_D06G = {
+  "generatedAt": "2026-03-20T02:17:50.697Z",
+  "total": 6,
+  "entries": {
+    "D06G": {
+      "code": "D06G",
+      "level": 0,
+      "parent": null,
+      "ja": "",
+      "en": "",
+      "count": 0,
+      "ipcCode": "",
+      "fTerm": "MECHANICAL OR PRESSURE CLEANING OF CARPETS, RUGS, SACKS, HIDES, OR OTHER SKIN OR TEXTILE ARTICLES OR FABRICS; TURNING INSIDE-OUT FLEXIBLE TUBULAR OR OTHER HOLLOW ARTICLES",
+      "childFlag": 0,
+      "sourceFile": "fi_D.txt",
+      "kind": "fi"
+    },
+    "D06G1/00\\": {
+      "code": "D06G1/00\\",
+      "level": 0,
+      "parent": null,
+      "ja": "敷物，袋状物，その他皮革または繊維製品または織物の打撃，ブラシ掛け等の機械的清浄，圧力式清浄［２００６．０１］",
+      "en": "Beating brushing or otherwise mechanically cleaning or pressure cleaning carpets rugs sacks hides or other skin or textile articles or fabrics",
+      "count": 204,
+      "ipcCode": "D06G1/00",
+      "fTerm": "3B154",
+      "childFlag": 0,
+      "sourceFile": "fi_D06G.txt",
+      "kind": "fi"
+    },
+    "D06G3/00\\": {
+      "code": "D06G3/00\\",
+      "level": 0,
+      "parent": null,
+      "ja": "可とう性の筒状または袋状物の内外裏返し（検査を伴ったものＤ０６Ｈ３／１６）",
+      "en": "Turning inside-out flexible tubular or other hollow articles (in combination with inspecting D06H 3/16)",
+      "count": 34,
+      "ipcCode": "D06G3/00",
+      "fTerm": "3B154",
+      "childFlag": 0,
+      "sourceFile": "fi_D06G.txt",
+      "kind": "fi"
+    },
+    "D06G3/02\\": {
+      "code": "D06G3/02\\",
+      "level": 1,
+      "parent": "D06G3/00\\",
+      "ja": "機械的方法によるもの",
+      "en": "by mechanical means",
+      "count": 169,
+      "ipcCode": "D06G3/02",
+      "fTerm": "3B154",
+      "childFlag": 1,
+      "sourceFile": "fi_D06G.txt",
+      "kind": "fi"
+    },
+    "D06G3/04\\": {
+      "code": "D06G3/04\\",
+      "level": 1,
+      "parent": "D06G3/00\\",
+      "ja": "圧搾空気によるもの",
+      "en": "pneumatically",
+      "count": 41,
+      "ipcCode": "D06G3/04",
+      "fTerm": "3B154",
+      "childFlag": 1,
+      "sourceFile": "fi_D06G.txt",
+      "kind": "fi"
+    },
+    "D06G5/00\\": {
+      "code": "D06G5/00\\",
+      "level": 0,
+      "parent": null,
+      "ja": "可とう性の筒状または袋状物の内外裏返しと結合した機械式，真空式または圧力式清浄",
+      "en": "Mechanical, vacuum, or pressure cleaning in combination with the turning inside-out of flexible tubular or other hollow articles",
+      "count": 0,
+      "ipcCode": "D06G5/00",
+      "fTerm": "3B154",
+      "childFlag": 0,
+      "sourceFile": "fi_D06G.txt",
+      "kind": "fi"
+    }
+  }
+};

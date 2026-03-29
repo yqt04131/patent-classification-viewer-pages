@@ -1,0 +1,96 @@
+{
+  "generatedAt": "2026-03-20T02:17:46.181Z",
+  "total": 9,
+  "entries": {
+    "B41G": {
+      "code": "B41G",
+      "level": 0,
+      "parent": "B41",
+      "ja": "金粉印刷，けい線印刷またはふち取り等用の装置；印刷と共に穿孔するための付属装置（装飾の製造Ｂ４４Ｃ；薄い材料の，例．枚葉紙，巻取紙，折りまたは開きＢ６５Ｈ４５／００，Ｂ６５Ｈ４７／００；穿孔一般Ｂ２６Ｄ；枚葉紙または巻取紙の排紙に関するものＢ６５Ｈ３５／００）",
+      "en": "APPARATUS FOR BRONZE PRINTING, LINE PRINTING, OR FOR BORDERING OR EDGING SHEETS OR LIKE ARTICLES; AUXILIARY APPARATUS FOR PERFORATING IN CONJUNCTION WITH PRINTING(perforating in general <b>B26D</b>; production of decorations <b>B44C</b>; perforating in conjunction with sheet or web delivery <b>B65H35/00</b>; folding or unfolding thin material, e.g. sheets, webs, <b>B65H45/00</b>, <b>B65H47/00</b>)",
+      "count": 58,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B41": {
+      "code": "B41",
+      "level": 0,
+      "parent": "B",
+      "ja": "印刷；線画機；タイプライター；スタンプ［４］",
+      "en": "PRINTING; LINING MACHINES; TYPEWRITERS; STAMPS",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B": {
+      "code": "B",
+      "level": 0,
+      "parent": null,
+      "ja": "処理操作；運輸",
+      "en": "PERFORMING OPERATIONS; TRANSPORTING",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B41G1/00": {
+      "code": "B41G1/00",
+      "level": 0,
+      "parent": "B41G",
+      "ja": "金粉印刷または類似の操作用装置（装飾用に粒状材料や金属箔の適用Ｂ４４Ｃ１／００）",
+      "en": "Apparatus for bronze printing or for like operations(applying granular materials or metallic foils for decorative purposes <b>B44C1/00</b>)",
+      "count": 1059,
+      "sourceFile": "ipc_B41G.txt",
+      "kind": "ipc"
+    },
+    "B41G1/02": {
+      "code": "B41G1/02",
+      "level": 1,
+      "parent": "B41G1/00",
+      "ja": "平圧形式",
+      "en": "platen type",
+      "count": 393,
+      "sourceFile": "ipc_B41G.txt",
+      "kind": "ipc"
+    },
+    "B41G1/04": {
+      "code": "B41G1/04",
+      "level": 1,
+      "parent": "B41G1/00",
+      "ja": "円圧形式",
+      "en": "cylinder type",
+      "count": 392,
+      "sourceFile": "ipc_B41G.txt",
+      "kind": "ipc"
+    },
+    "B41G3/00": {
+      "code": "B41G3/00",
+      "level": 0,
+      "parent": "B41G",
+      "ja": "けい線印刷装置",
+      "en": "Apparatus for printing lines",
+      "count": 291,
+      "sourceFile": "ipc_B41G.txt",
+      "kind": "ipc"
+    },
+    "B41G5/00": {
+      "code": "B41G5/00",
+      "level": 0,
+      "parent": "B41G",
+      "ja": "枚葉紙または類似物体のふち取り用装置，例．哀悼カードへの黒わく印刷用",
+      "en": "Apparatus for bordering or edging sheets or like articles, e.g. for producing black rims on mourning cards",
+      "count": 24,
+      "sourceFile": "ipc_B41G.txt",
+      "kind": "ipc"
+    },
+    "B41G7/00": {
+      "code": "B41G7/00",
+      "level": 0,
+      "parent": "B41G",
+      "ja": "印刷装置と組合わされた補助的な穿孔装置（穿孔以外の操作と結合された印刷操作を行なう装置または機械Ｂ４１Ｆ１９／００）",
+      "en": "Auxiliary perforating apparatus associated with printing devices(apparatus or machines for carrying-out printing operations combined with operations other than perforating <b>B41F19/00</b>)",
+      "count": 494,
+      "sourceFile": "ipc_B41G.txt",
+      "kind": "ipc"
+    }
+  }
+}

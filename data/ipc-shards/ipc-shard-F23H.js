@@ -1,0 +1,576 @@
+window.IPC_SHARD_F23H = {
+  "generatedAt": "2026-03-20T02:17:46.892Z",
+  "total": 57,
+  "entries": {
+    "F23H": {
+      "code": "F23H",
+      "level": 0,
+      "parent": "F23",
+      "ja": "火格子（流動層燃焼装置のための流動化を行う空気の入口Ｆ２３Ｃ１０／２０）；火格子の灰落としまたはかきならし<br><br><b><ul>サブクラス内の索引</ul></b><br>火格子<br>中実棒を有するもの；中空棒を有するもの　１／００；３／００<br>２重火格子；傾斜火格子；回転または揺動する火格子；移床火格子　５／００；７／００；９／００；１１／００<br>他の型　１３／００<br>細部　１７／００<br>火格子のための清掃装置，火格子に沿って燃料を動かすもの　１５／００",
+      "en": "GRATES(inlets for fluidisation air for fluidised bed combustion apparatus <b>F23C10/20</b>);CLEANING OR RAKING GRATES; <br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">GRATES<tr><td width=\"70%\">With solid bars; with hollow bars </td><td><b><b>1/00</b>; <b>3/00</b></b></td></tr></tr><tr><td width=\"70%\">Double; inclined; revolving or rocking; travelling </td><td><b><b>5/00</b>; <b>7/00</b>; <b>9/00</b>; <b>11/00</b></b></td></tr></tr><tr><td width=\"70%\">Other types </td><td><b><b>13/00</b></b></td></tr></tr><tr><td width=\"70%\">Details </td><td><b><b>17/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">CLEANING ARRANGEMENTS FOR GRATES, MOVING FUEL ALONG GRATE </td><td><b><b>15/00</b></b></td></tr></tr></table>",
+      "count": 174,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F23": {
+      "code": "F23",
+      "level": 0,
+      "parent": "F",
+      "ja": "燃焼装置；燃焼方法<br><br><b><ul>注</ul></b><br>このクラスにおいては，下記の用語は以下に示す意味で用いる：<br>―“燃焼”は，可燃物質と分子酸素，例．空気中の，との間の発熱を伴う連鎖的な化学反応を意味し，大半の場合に炎または白熱の形式で光を発生させる；<br>―“燃焼室”は，それ自体で維持される火または炎を確立するために燃料がその中で燃焼するものであって，その火または炎を取り囲んでいる室を意味する；<br>―“バーナ”は，それ自体で維持される炎を発生するために流動性燃料が，または空気中に浮遊する固体燃料が，燃焼する燃焼空間へ導かれる装置を意味する；<br>―“空気”は，遊離した酸素を含み，および燃焼を促進または維持させ得る気体の混合物を意味する。",
+      "en": "COMBUSTION APPARATUS; COMBUSTION PROCESSES; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this class, the following terms or expressions are used with the meanings indicated: <ul><li>\"combustion\" means a heat-producing sequence of chemical reactions between a burnable substance and molecular oxygen, e.g. in air, in most cases generating light in the form of flames or a glow;</li><li>\"combustion chamber\" means a chamber in which fuel is burned to establish a self-supporting fire or flame and which surrounds that fire or flame;</li><li>\"burner\" means a device by which fluid fuel, or solid fuel suspended in air, is passed to a combustion space where it burns to produce a self-supporting flame;</li><li>\"air\" means a mixture of gases containing free oxygen and able to promote or support combustion.</li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F": {
+      "code": "F",
+      "level": 0,
+      "parent": null,
+      "ja": "機械工学；照明；加熱；武器；爆破",
+      "en": "MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F23H1/00": {
+      "code": "F23H1/00",
+      "level": 0,
+      "parent": "F23H",
+      "ja": "中実棒を有する火格子（２重火格子Ｆ２３Ｈ５／００）",
+      "en": "Grates with solid bars(double grates <b>F23H5/00</b>)",
+      "count": 231,
+      "sourceFile": "ipc_F23H.txt",
+      "kind": "ipc"
+    },
+    "F23H1/02": {
+      "code": "F23H1/02",
+      "level": 1,
+      "parent": "F23H1/00",
+      "ja": "空気供給または空気予熱のための設備をもつもの，例．火格子構造の一部を形成するかまたはささえとなる空気供給用の，または送風用の組立体",
+      "en": "having provision for air supply or air preheating, e.g. air-supply or blast fittings which form part of the grate structure or serve as supports",
+      "count": 305,
+      "sourceFile": "ipc_F23H.txt",
+      "kind": "ipc"
+    },
+    "F23H1/04": {
+      "code": "F23H1/04",
+      "level": 1,
+      "parent": "F23H1/00",
+      "ja": "可変火床面をもつもの",
+      "en": "having a variable burning surface",
+      "count": 75,
+      "sourceFile": "ipc_F23H.txt",
+      "kind": "ipc"
+    },
+    "F23H1/06": {
+      "code": "F23H1/06",
+      "level": 1,
+      "parent": "F23H1/00",
+      "ja": "異なる高さに棒をもつもの",
+      "en": "having bars at different levels",
+      "count": 55,
+      "sourceFile": "ipc_F23H.txt",
+      "kind": "ipc"
+    },
+    "F23H1/08": {
+      "code": "F23H1/08",
+      "level": 1,
+      "parent": "F23H1/00",
+      "ja": "垂直火格子",
+      "en": "Vertical grates",
+      "count": 31,
+      "sourceFile": "ipc_F23H.txt",
+      "kind": "ipc"
+    },
+    "F23H3/00": {
+      "code": "F23H3/00",
+      "level": 0,
+      "parent": "F23H",
+      "ja": "中空棒を有する火格子",
+      "en": "Grates with hollow bars",
+      "count": 171,
+      "sourceFile": "ipc_F23H.txt",
+      "kind": "ipc"
+    },
+    "F23H3/02": {
+      "code": "F23H3/02",
+      "level": 1,
+      "parent": "F23H3/00",
+      "ja": "内部式冷却をされるもの",
+      "en": "internally cooled",
+      "count": 1149,
+      "sourceFile": "ipc_F23H.txt",
+      "kind": "ipc"
+    },
+    "F23H3/04": {
+      "code": "F23H3/04",
+      "level": 1,
+      "parent": "F23H3/00",
+      "ja": "外部式冷却をされるもの，例．水，蒸気または空気によるもの",
+      "en": "externally cooled, e.g. with water, steam, or air",
+      "count": 136,
+      "sourceFile": "ipc_F23H.txt",
+      "kind": "ipc"
+    },
+    "F23H5/00": {
+      "code": "F23H5/00",
+      "level": 0,
+      "parent": "F23H",
+      "ja": "２重火格子",
+      "en": "Double grates",
+      "count": 240,
+      "sourceFile": "ipc_F23H.txt",
+      "kind": "ipc"
+    },
+    "F23H7/00": {
+      "code": "F23H7/00",
+      "level": 0,
+      "parent": "F23H",
+      "ja": "傾斜火格子（傾斜移床火格子Ｆ２３Ｈ１１／１２）  ［２００６．０１］",
+      "en": "Inclined grates(inclined travelling grates <b>F23H11/12</b>)",
+      "count": 470,
+      "sourceFile": "ipc_F23H.txt",
+      "kind": "ipc"
+    },
+    "F23H7/02": {
+      "code": "F23H7/02",
+      "level": 1,
+      "parent": "F23H7/00",
+      "ja": "固定した棒を有するもの  ［２００６．０１］",
+      "en": "with fixed bars",
+      "count": 83,
+      "sourceFile": "ipc_F23H.txt",
+      "kind": "ipc"
+    },
+    "F23H7/04": {
+      "code": "F23H7/04",
+      "level": 2,
+      "parent": "F23H7/02",
+      "ja": "並行に配列されたもの  ［２００６．０１］",
+      "en": "in parallel disposition",
+      "count": 70,
+      "sourceFile": "ipc_F23H.txt",
+      "kind": "ipc"
+    },
+    "F23H7/06": {
+      "code": "F23H7/06",
+      "level": 1,
+      "parent": "F23H7/00",
+      "ja": "燃料供給の方向に並行に配列された可動の棒を有するもの  ［２００６．０１］",
+      "en": "with movable bars disposed parallel to direction of fuel feeding",
+      "count": 348,
+      "sourceFile": "ipc_F23H.txt",
+      "kind": "ipc"
+    },
+    "F23H7/08": {
+      "code": "F23H7/08",
+      "level": 2,
+      "parent": "F23H7/06",
+      "ja": "それらの軸に沿って往復運動するもの  ［２００６．０１］",
+      "en": "reciprocating along their axes",
+      "count": 635,
+      "sourceFile": "ipc_F23H.txt",
+      "kind": "ipc"
+    },
+    "F23H7/10": {
+      "code": "F23H7/10",
+      "level": 2,
+      "parent": "F23H7/06",
+      "ja": "それらの軸のまわりに揺動するもの  ［２０２１．０１］",
+      "en": "rocking about their axes",
+      "count": 100,
+      "sourceFile": "ipc_F23H.txt",
+      "kind": "ipc"
+    },
+    "F23H7/12": {
+      "code": "F23H7/12",
+      "level": 1,
+      "parent": "F23H7/00",
+      "ja": "燃料供給方向と交さして配列された可動の棒を有するもの  ［２００６．０１］",
+      "en": "with movable bars disposed transversely to direction of fuel feeding",
+      "count": 34,
+      "sourceFile": "ipc_F23H.txt",
+      "kind": "ipc"
+    },
+    "F23H7/14": {
+      "code": "F23H7/14",
+      "level": 2,
+      "parent": "F23H7/12",
+      "ja": "それらの軸に沿って往復運動するもの  ［２００６．０１］",
+      "en": "reciprocating along their axes",
+      "count": 38,
+      "sourceFile": "ipc_F23H.txt",
+      "kind": "ipc"
+    },
+    "F23H7/16": {
+      "code": "F23H7/16",
+      "level": 2,
+      "parent": "F23H7/12",
+      "ja": "それらの軸のまわりに揺動するもの  ［２００６．０１］",
+      "en": "rocking about their axes",
+      "count": 128,
+      "sourceFile": "ipc_F23H.txt",
+      "kind": "ipc"
+    },
+    "F23H7/18": {
+      "code": "F23H7/18",
+      "level": 2,
+      "parent": "F23H7/12",
+      "ja": "上向きに往復運動するもの  ［２００６．０１］",
+      "en": "reciprocating in an upward direction",
+      "count": 29,
+      "sourceFile": "ipc_F23H.txt",
+      "kind": "ipc"
+    },
+    "F23H9/00": {
+      "code": "F23H9/00",
+      "level": 0,
+      "parent": "F23H",
+      "ja": "回転火格子；揺動火格子または振動火格子（傾斜火格子Ｆ２３Ｈ７／００）［２０２１．０１］",
+      "en": "Revolving grates; Rocking or shaking grates  (inclined grates <b>F23H7/00</b>)",
+      "count": 805,
+      "sourceFile": "ipc_F23H.txt",
+      "kind": "ipc"
+    },
+    "F23H9/02": {
+      "code": "F23H9/02",
+      "level": 1,
+      "parent": "F23H9/00",
+      "ja": "回転円筒火格子  ［２００６．０１］",
+      "en": "Revolving cylindrical grates",
+      "count": 515,
+      "sourceFile": "ipc_F23H.txt",
+      "kind": "ipc"
+    },
+    "F23H9/04": {
+      "code": "F23H9/04",
+      "level": 1,
+      "parent": "F23H9/00",
+      "ja": "全体として揺動する火格子［２０２１．０１］",
+      "en": "Grates rocked as a whole",
+      "count": 157,
+      "sourceFile": "ipc_F23H.txt",
+      "kind": "ipc"
+    },
+    "F23H9/06": {
+      "code": "F23H9/06",
+      "level": 1,
+      "parent": "F23H9/00",
+      "ja": "棒がその長手方向と交さする軸のまわりに揺動するもの［２０２１．０１］",
+      "en": "the bars being rocked about axes transverse to their lengths",
+      "count": 112,
+      "sourceFile": "ipc_F23H.txt",
+      "kind": "ipc"
+    },
+    "F23H9/08": {
+      "code": "F23H9/08",
+      "level": 1,
+      "parent": "F23H9/00",
+      "ja": "棒がその縦軸のまわりに揺動するもの（燃料供給の方向と平行に配置され，その軸を中心に揺動する可動棒を有する傾斜火格子Ｆ２３Ｈ７／１０）［２０２１．０１］",
+      "en": "the bars being rocked about their longitudinal axes  (inclined grates with movable bars disposed parallel to the direction of fuel feeding and rocking about their axes <b>F23H7/10</b>)",
+      "count": 200,
+      "sourceFile": "ipc_F23H.txt",
+      "kind": "ipc"
+    },
+    "F23H9/10": {
+      "code": "F23H9/10",
+      "level": 2,
+      "parent": "F23H9/08",
+      "ja": "また燃料を火格子に沿って動かすように改造されたもの［２０２１．０１］",
+      "en": "and modified to move fuel along the grate",
+      "count": 24,
+      "sourceFile": "ipc_F23H.txt",
+      "kind": "ipc"
+    },
+    "F23H9/12": {
+      "code": "F23H9/12",
+      "level": 1,
+      "parent": "F23H9/00",
+      "ja": "棒が一平面内で垂直方向に動き得るもの［２０２１．０１］",
+      "en": "the bars being vertically movable in a plane",
+      "count": 28,
+      "sourceFile": "ipc_F23H.txt",
+      "kind": "ipc"
+    },
+    "F23H11/00": {
+      "code": "F23H11/00",
+      "level": 0,
+      "parent": "F23H",
+      "ja": "移床火格子",
+      "en": "Travelling grates",
+      "count": 1128,
+      "sourceFile": "ipc_F23H.txt",
+      "kind": "ipc"
+    },
+    "F23H11/02": {
+      "code": "F23H11/02",
+      "level": 1,
+      "parent": "F23H11/00",
+      "ja": "横方向の担持体上に配列された棒を有するもの",
+      "en": "with the bars disposed on transverse bearers",
+      "count": 66,
+      "sourceFile": "ipc_F23H.txt",
+      "kind": "ipc"
+    },
+    "F23H11/04": {
+      "code": "F23H11/04",
+      "level": 1,
+      "parent": "F23H11/00",
+      "ja": "片側でピボットされている棒を有するもの",
+      "en": "with the bars pivoted at one side",
+      "count": 297,
+      "sourceFile": "ipc_F23H.txt",
+      "kind": "ipc"
+    },
+    "F23H11/06": {
+      "code": "F23H11/06",
+      "level": 1,
+      "parent": "F23H11/00",
+      "ja": "互いに関連して動き得る棒を有するもの",
+      "en": "with the bars movable relatively to one another",
+      "count": 122,
+      "sourceFile": "ipc_F23H.txt",
+      "kind": "ipc"
+    },
+    "F23H11/08": {
+      "code": "F23H11/08",
+      "level": 1,
+      "parent": "F23H11/00",
+      "ja": "数個の個々に動き得る火格子面をもつもの",
+      "en": "with several individually-movable grate surfaces",
+      "count": 56,
+      "sourceFile": "ipc_F23H.txt",
+      "kind": "ipc"
+    },
+    "F23H11/10": {
+      "code": "F23H11/10",
+      "level": 1,
+      "parent": "F23H11/00",
+      "ja": "下から空気を供給するための，および空気供給を制御するための特別の装備を有するもの",
+      "en": "with special provision for supply of air from below and for controlling air supply",
+      "count": 537,
+      "sourceFile": "ipc_F23H.txt",
+      "kind": "ipc"
+    },
+    "F23H11/12": {
+      "code": "F23H11/12",
+      "level": 1,
+      "parent": "F23H11/00",
+      "ja": "傾斜移床火格子；階段形移床火格子",
+      "en": "inclined travelling grates; Stepped travelling grates",
+      "count": 392,
+      "sourceFile": "ipc_F23H.txt",
+      "kind": "ipc"
+    },
+    "F23H11/14": {
+      "code": "F23H11/14",
+      "level": 1,
+      "parent": "F23H11/00",
+      "ja": "補助火格子の役割をするもの",
+      "en": "serving as auxiliary grates",
+      "count": 11,
+      "sourceFile": "ipc_F23H.txt",
+      "kind": "ipc"
+    },
+    "F23H11/16": {
+      "code": "F23H11/16",
+      "level": 1,
+      "parent": "F23H11/00",
+      "ja": "多層だきのためのもの",
+      "en": "for multi-layer stoking",
+      "count": 17,
+      "sourceFile": "ipc_F23H.txt",
+      "kind": "ipc"
+    },
+    "F23H11/18": {
+      "code": "F23H11/18",
+      "level": 1,
+      "parent": "F23H11/00",
+      "ja": "細部",
+      "en": "Details",
+      "count": 602,
+      "sourceFile": "ipc_F23H.txt",
+      "kind": "ipc"
+    },
+    "F23H11/20": {
+      "code": "F23H11/20",
+      "level": 2,
+      "parent": "F23H11/18",
+      "ja": "駆動手段",
+      "en": "Driving means",
+      "count": 330,
+      "sourceFile": "ipc_F23H.txt",
+      "kind": "ipc"
+    },
+    "F23H11/22": {
+      "code": "F23H11/22",
+      "level": 2,
+      "parent": "F23H11/18",
+      "ja": "火格子に沿って燃料を動かすもの；火格子の清掃",
+      "en": "Moving fuel along grate; Cleaning of grate",
+      "count": 151,
+      "sourceFile": "ipc_F23H.txt",
+      "kind": "ipc"
+    },
+    "F23H11/24": {
+      "code": "F23H11/24",
+      "level": 2,
+      "parent": "F23H11/18",
+      "ja": "除灰；クリンカーの除去",
+      "en": "Removal of ashes; Removal of clinker",
+      "count": 253,
+      "sourceFile": "ipc_F23H.txt",
+      "kind": "ipc"
+    },
+    "F23H11/26": {
+      "code": "F23H11/26",
+      "level": 3,
+      "parent": "F23H11/24",
+      "ja": "放下することによるもの",
+      "en": "by dumping",
+      "count": 25,
+      "sourceFile": "ipc_F23H.txt",
+      "kind": "ipc"
+    },
+    "F23H11/28": {
+      "code": "F23H11/28",
+      "level": 2,
+      "parent": "F23H11/18",
+      "ja": "取り換え可能な燃焼面",
+      "en": "Replaceable burning-surface",
+      "count": 18,
+      "sourceFile": "ipc_F23H.txt",
+      "kind": "ipc"
+    },
+    "F23H13/00": {
+      "code": "F23H13/00",
+      "level": 0,
+      "parent": "F23H",
+      "ja": "グループＦ２３Ｈ１／００～Ｆ２３Ｈ１１／００のいずれにも包含されない火格子［２０２１．０１］",
+      "en": "Grates not covered by any of groups <b>F23H1/00 to F23H11/00</b> ",
+      "count": 1108,
+      "sourceFile": "ipc_F23H.txt",
+      "kind": "ipc"
+    },
+    "F23H13/02": {
+      "code": "F23H13/02",
+      "level": 1,
+      "parent": "F23H13/00",
+      "ja": "かご形火格子，例．揺動装置を有するもの",
+      "en": "Basket grates, e.g. with shaking arrangement",
+      "count": 199,
+      "sourceFile": "ipc_F23H.txt",
+      "kind": "ipc"
+    },
+    "F23H13/04": {
+      "code": "F23H13/04",
+      "level": 1,
+      "parent": "F23H13/00",
+      "ja": "たたみ込み式火格子",
+      "en": "Telescoping grates",
+      "count": 14,
+      "sourceFile": "ipc_F23H.txt",
+      "kind": "ipc"
+    },
+    "F23H13/06": {
+      "code": "F23H13/06",
+      "level": 1,
+      "parent": "F23H13/00",
+      "ja": "灰落し火格子［２０２１．０１］",
+      "en": "Dumping grates",
+      "count": 153,
+      "sourceFile": "ipc_F23H.txt",
+      "kind": "ipc"
+    },
+    "F23H13/08": {
+      "code": "F23H13/08",
+      "level": 1,
+      "parent": "F23H13/00",
+      "ja": "ガス発生炉に特に適合し炉にも適用できる火格子",
+      "en": "Grates specially adapted for gas generators and also applicable to furnaces",
+      "count": 88,
+      "sourceFile": "ipc_F23H.txt",
+      "kind": "ipc"
+    },
+    "F23H15/00": {
+      "code": "F23H15/00",
+      "level": 0,
+      "parent": "F23H",
+      "ja": "火格子用清掃装置（火格子の一部を形成しないものＦ２３Ｊ１／００）；火格子に沿う燃料の移動（棒がその縦軸のまわりに揺動して燃料を火格子に沿って動かすのに特に適した火格子Ｆ２３Ｈ９／１０；移床火格子のためのものＦ２３Ｈ１１／２２）［２００６．０１］",
+      "en": "Cleaning arrangements for grates (not forming part of the grate <b>F23J1/00</b>);Moving fuel along grates(grates with bars rocked about their longitudinal axes and specially adapted for moving fuel along the grate <b>F23H9/10</b>;   for travelling grates <b>F23H11/22</b>)",
+      "count": 859,
+      "sourceFile": "ipc_F23H.txt",
+      "kind": "ipc"
+    },
+    "F23H17/00": {
+      "code": "F23H17/00",
+      "level": 0,
+      "parent": "F23H",
+      "ja": "火格子の細部",
+      "en": "Details of grates",
+      "count": 766,
+      "sourceFile": "ipc_F23H.txt",
+      "kind": "ipc"
+    },
+    "F23H17/02": {
+      "code": "F23H17/02",
+      "level": 1,
+      "parent": "F23H17/00",
+      "ja": "棒の末端の付属物",
+      "en": "End fittings on bars",
+      "count": 81,
+      "sourceFile": "ipc_F23H.txt",
+      "kind": "ipc"
+    },
+    "F23H17/04": {
+      "code": "F23H17/04",
+      "level": 2,
+      "parent": "F23H17/02",
+      "ja": "移床火格子のもの",
+      "en": "of travelling grates",
+      "count": 49,
+      "sourceFile": "ipc_F23H.txt",
+      "kind": "ipc"
+    },
+    "F23H17/06": {
+      "code": "F23H17/06",
+      "level": 1,
+      "parent": "F23H17/00",
+      "ja": "火格子を垂直方向に調整するための装備",
+      "en": "Provision for vertical adjustment of grate",
+      "count": 62,
+      "sourceFile": "ipc_F23H.txt",
+      "kind": "ipc"
+    },
+    "F23H17/08": {
+      "code": "F23H17/08",
+      "level": 1,
+      "parent": "F23H17/00",
+      "ja": "担持体；フレーム；スペーサ；ささえ",
+      "en": "Bearers; Frames; Spacers; Supports",
+      "count": 303,
+      "sourceFile": "ipc_F23H.txt",
+      "kind": "ipc"
+    },
+    "F23H17/10": {
+      "code": "F23H17/10",
+      "level": 2,
+      "parent": "F23H17/08",
+      "ja": "固定板；無孔状燃料ささえ",
+      "en": "Dead plates; Imperforate fuel supports",
+      "count": 27,
+      "sourceFile": "ipc_F23H.txt",
+      "kind": "ipc"
+    },
+    "F23H17/12": {
+      "code": "F23H17/12",
+      "level": 1,
+      "parent": "F23H17/00",
+      "ja": "火格子棒",
+      "en": "Fire-bars",
+      "count": 753,
+      "sourceFile": "ipc_F23H.txt",
+      "kind": "ipc"
+    }
+  }
+};

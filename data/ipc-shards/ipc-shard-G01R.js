@@ -1,0 +1,3976 @@
+window.IPC_SHARD_G01R = {
+  "generatedAt": "2026-03-20T02:17:47.027Z",
+  "total": 397,
+  "entries": {
+    "G01R": {
+      "code": "G01R",
+      "level": 0,
+      "parent": "G01",
+      "ja": "電気的変量の測定；磁気的変量の測定（共振回路の正しい同調の指示Ｈ０３Ｊ３／１２）<br><br><b><ul>注</ul></b><br>（１）サブクラスは，以下のものを包含する：<br>―すべての種類の電気的変量もしくは磁気的変量の直接測定または他の電気的変量もしくは磁気的変量からの派生による測定；<br>―物質のすべての種類の電気的または磁気的性質の測定；<br>―電気的もしくは磁気的な装置，器具もしくは回路網（例．放電管，増幅器）の試験またはそれらの性質の測定；<br>―電流または電圧の存在または符号の指示；<br>―ＮＭＲ，ＥＰＲまたはスピン効果装置で，特殊な用途に特に適用されていないもの；［５］<br>―このような試験および測定を行うために用いられる信号を発生するための装置<br>（２）このサブクラスにおいては，下記の用語または表現は以下に示す意味で用いる：<br>―“測定”とは調査を含む；<br>―“計器”または“測定計器”とは“電気機械的測定機構”を意味する；<br>―“測定のための装置”とは“測定のための装置，回路または方法”を意味する。<br>（３）クラスＧ０１のタイトルに続く注に注意すること。<br>（４）このサブクラスにおいては，電気的変量の測定のための機器または装置は，以下のように分類される：［８］<br>―電気機械装置は，２以上の測定値の結果を合わせたものを含め，測定された電気的変量が測定値の表示に直接影響を与える場合，グループ５／００～１１／００に分類される。［８］<br>―グループ５／００～１１／００に包含される異なるタイプの装置に共通する細部は，グループ１／００に分類される。［８］<br>―電気的変量の抽出，算出または他の処理，例．別の測定値との比較，により測定値を表示させる回路を含む装置は，１７／００～２９／００に分類する。［８］<br>―グループ１７／００～２９／００に包含される異なるタイプの装置に共通する細部は，グループ１５／００に分類される。［８］<br>（５）このサブクラスにおいては，グループ１７／００はグループ１９／００から３１／００に優先する。<br><br><b><ul>サブクラス内の索引</ul></b><br>電気測定器<br>一般　５／００，７／００，９／００<br>細部　１／００<br>製造，較正，試験　３／００；３５／００<br>電力または電流の時間積分の電気機械的測定　１１／００<br>電気的変量の測定<br>測定装置の細部　１１／０２，１５／００<br>表示装置　１３／００<br>参照値との比較を含むもの　１７／００<br>電流または電圧；電力，力率；電力または電流の時間積分；周波数；抵抗，リアクタンス，インピーダンス　１９／００；２１／００；２２／００；２３／００；２７／００<br>他の変量　２５／００，２９／００<br>電気的性質の試験または故障位置の発見　３１／００<br>磁気的変量の測定　３３／００",
+      "en": "MEASURING ELECTRIC VARIABLES; MEASURING MAGNETIC VARIABLES(indicating correct tuning of resonant circuits <b>H03J3/12</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>This subclass <u>covers</u>:<ul><li>measuring all kinds of electric or magnetic variables directly or by derivation from other electric or magnetic variables;</li><li>measuring all kinds of electric or magnetic properties of materials;</li><li>testing electric or magnetic devices, apparatus or networks (e.g. discharge tubes, amplifiers) or measuring their characteristics;</li><li>indicating presence or sign of current or voltage;</li><li>NMR, EPR or other spin-effect apparatus, not specially adapted for a particular application;</li><li>equipment for generating signals to be used for carrying out such tests and measurements.</li></ul></li><li>In this subclass, the following terms or expressions are used with the meanings indicated:<ul><li>\"measuring\" includes investigating;</li><li>\"instruments\" or \"measuring instruments\" means electro-mechanical measuring mechanisms;</li><li>\"arrangements for measuring\" means apparatus, circuits, or methods for measuring;</li></ul></li><li>Attention is drawn to the Notes following the title of class <b>G01</b>.</li><li>In this subclass, instruments or arrangements for measuring electric variables are classified in the following way:<ul><li>Electromechanical instruments where the measured electric variables direcly effect the indication of the measured value, including combined effects of two or more values, are classified in groups <b>G01R5/00 to G01R11/00</b> .</li><li>Details common to different types of the instruments covered by groups <b>G01R5/00 to G01R11/00</b>  are classified in group <b>G01R1/00</b>.</li><li>Arrangements involving circuitry to obtain an indication of a measured value by deriving, calculating or otherwise processing electric variables, e.g. by comparison with another value, are classified in groups <b>G01R17/00 to G01R29/00</b> .</li><li>Details common to different types of arrangements covered by groups <b>G01R17/00 to G01R29/00</b>  are classified in group <b>G01R15/00</b>.</li></ul></li><li>In this subclass, group <b>G01R17/00</b> takes precedence over groups <b>G01R19/00 to G01R31/00</b> .</li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">ELECTRIC MEASURING INSTRUMENTS<tr><td width=\"70%\">In general </td><td><b><b>5/00</b>, <b>7/00</b>, <b>9/00</b></b></td></tr></tr><tr><td width=\"70%\">Details </td><td><b><b>1/00</b></b></td></tr></tr><tr><td width=\"70%\">Manufacture; calibrating, testing </td><td><b><b>3/00</b>; <b>35/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">ELECTROMECHANICAL MEASUREMENT OF TIME INTEGRAL OF POWER OR CURRENT </td><td><b><b>11/00</b></b></td></tr></tr><tr><td width=\"70%\">MEASURING ELECTRIC VARIABLES<tr><td width=\"70%\">Details of measuring arrangements </td><td><b><b>11/02</b>, <b>15/00</b></b></td></tr></tr><tr><td width=\"70%\">Arrangements for displaying </td><td><b><b>13/00</b></b></td></tr></tr><tr><td width=\"70%\">Involving comparison with a reference value </td><td><b><b>17/00</b></b></td></tr></tr><tr><td width=\"70%\">Current or voltage; power, power factor; time integral of power or current; frequency; resistance, reactance, impedance </td><td><b><b>19/00</b>; <b>21/00</b>; <b>22/00</b>; <b>23/00</b>; <b>27/00</b></b></td></tr></tr><tr><td width=\"70%\">Other variables </td><td><b><b>25/00</b>, <b>29/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">TESTING ELECTRIC PROPERTIES OR LOCATING FAULTS </td><td><b><b>31/00</b></b></td></tr></tr><tr><td width=\"70%\">MEASURING MAGNETIC VARIABLES </td><td><b><b>33/00</b></b></td></tr></tr></table>",
+      "count": 3999,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G01": {
+      "code": "G01",
+      "level": 0,
+      "parent": "G",
+      "ja": "測定；試験<br><br><b><ul>注</ul></b><br>（１）このクラスは“真”の測定計器のほかに類似構造の他の指示表示装置又は記録装置を含み，また更に，信号化装置又は制御装置についてはそれが測定に関するものであって（以下の注（２）で定義するように）特定の信号化目的または特定の制御目的に特に適合しないものである限り，含まれる。<br>（２）このクラスにおいては，下記の用語は以下に示す意味で用いる：<br>―“測定”はその第一義的意味又は基本的な意味よりもかなり広い意味を含むものとして用いる。この語の第一義的な意味においては，変量値を単位もしくはデータに関して又は同じ性質の別の変量に関して数値的に表現することを見い出すこと，例えば長さをスケールで測定するなどある長さを別の長さの表現で表わすこと，を意味する。この変量値は直接的に得る（すぐ前で言及したように）こともあり，また，水銀柱の長さの変化を測定することにより温度変化を測定するなど求める変量値に関連づけることのできる他の変量値を測定することよって得ることもある。しかしながら，同じ装置又は計器が，直接的な表示を行う代りに，記録をとったり，指示効果又は制御効果を奏すべく信号を発生するために用いられたり，或いは，他の装置又は計器と組み合わせて同種又は異種の二以上の変量の測定から一つのまとまった結果を得るために用いられることもあるので，“測定”はかかる数値的表現を変量を数値に変換する何らかの手段の付加的使用によって得ることを可能とするような操作をも含むものとして解釈することが必要である。従って，数値での表現は実際的にはデジタル的表現によって行なうこともありスケールを読むことによって行なうこともあり，また，その指示は数値を用いないで，例えば測定されている変量が特性又は状態であるところの実在物（例．物体，物質，光ビーム）について感知し得る何らかの特性（変量）によって又はそのような特性に類似するもの（例．スケールをもたない部材の対応位置，何らかの手段によって発生される対応電圧）によって，与えられることがある。<br>また，上記のような変量値指示が行なわれずに単に基準又はデータ（その値は数値的に既知のこともあり未知のこともある）に関しての異同を示すだけのことも多くある。この基準又はデータは同一性質であるが異なる実在物（例．標準器）の値のこともあり，或いは異なる時点での同一実在物の値であることもある。その最も単純な形態においては，測定は単にある状態又は性質，例えば運動（いずれかの方向又は特定の方向における）の有無を指示するだけのこともあるし，また，変量が既定値を超えるかどうかを指示するだけのこともある。<br>（３）“マイクロ構造の装置”および“マイクロ構造のシステム”に関する，クラスＢ８１およびサブクラスＢ８１Ｂの両タイトルの後の注に注意すること。［７］<br>（４）セクションＧのタイトルに続く注，特に“変量”という用語の定義については注意はすること。<br>（５）多くの測定装置において，測定すべき第一の変量は第二の変量またはさらなる変量に変換される。第二の変量またはさらなる変量は，第一の変量に関係して構成部材に生じた状態，または構成部材の変位であるかもしれない。そして，さらに変換が必要となるかもしれない。［６］<br>このような装置を分類するときは，（ｉ）重要である特定の変換ステップ，または重要である個々の変換ステップを分類するか，または（ｉｉ）全体としてのシステムのみが重要な場合は，第一の変量を該当する箇所に分類する。［６］<br>これは２つ以上の変換が起こる場合に特に重要である。たとえば，第一の変量（例．圧力）が第二の変量（例．感知体の光学的特性）に変換され，さらにその第二の変量が第三の変量（例．電気的効果）で示されるような場合である。このような場合には，次の分類箇所を考慮しなければならない：<br>第一の変量の変換についての分類場所，その変量により生じた状態を感知することについての分類場所，測定を示すＧ０１Ｄ，そして最後に，該当する場合は，システム全体を分類する場所である。［６］<br>（６）物理的特性の値の変化の測定は，その物理的特性の測定と同一のサブクラスに分類する。例えば，長さの伸びの測定はサブクラスＧ０１Ｂに分類する。",
+      "en": "MEASURING; TESTING; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This class <u>covers</u>, in addition to \"true\" measuring instruments, other indicating or recording devices of analogous construction, and also signalling or control devices insofar as they are concerned with measurement (as defined in Note 2 below) and are not specially adapted to the particular purpose of signalling or control.</li><li>In this class, the following term is used with the meaning indicated: <ul><li>\"measuring\" is used to cover considerably more than its primary or basic meaning. In this primary sense, it means finding a numerical expression of the value of a variable in relation to a unit or datum or to another variable of the same nature, e.g. expressing a length in terms of another length as in measuring a length with a scale; the value may be obtained directly (as just suggested) or by measuring some other variable of which the value can be related to the value of the required variable, as in measuring a change in temperature by measuring a resultant change in the length of a column of mercury. However, since the same device or instrument may, instead of giving an immediate indication, be used to produce a record or to initiate a signal to produce an indication or control effect, or may be used in combination with other devices or instruments to give a conjoint result from measurement of two or more variables of the same or different kinds, it is necessary to interpret \"measuring\" as including also any operation that would make it possible to obtain such a numerical expression by the additional use of some way of converting a value into figures. Thus the expression in figures may be actually made by a digital presentation or by reading a scale, or an indication of it may be given without the use of figures, e.g. by some perceptible feature (variable) of the entity (e.g. object, substance, beam of light) of which the variable being measured is a property or condition or by an analogue of such a feature (e.g. the corresponding position of a member without any scale, a corresponding voltage generated in some way). In many cases there is no such value indication but only an indication of difference or equality in relation to a standard or datum (of which the value may or may not be known in figures); the standard or datum may be the value of another variable of the same nature but of a different entity (e.g. a standard measure) or of the same entity at a different time. <ul><li>In its simplest form, measurement may give merely an indication of presence or absence of a certain condition or quality, e.g. movement (in any direction or in a particular direction), or whether a variable exceeds a predetermined value.</li></ul></li></ul></li><li>Attention is drawn to the Notes following the titles of class <b>B81</b> and subclass <b>B81B</b> relating to \"microstructural devices\" and \"microstructural systems\" and the Notes following the title of subclass <b>B82B</b> relating to \"nanostructures\".</li><li>Attention is drawn to the Notes following the title of section <b>G</b>, especially as regards the definition of the term \"variable\".</li><li>In many measuring arrangements, a first variable to be measured is transformed into a second, or further, variables. The second, or further, variables may be (a) a condition related to the first variable and produced in a member, or (b) a displacement of a member. Further transformation may be needed. <ul><li>When classifying such an arrangement, (i) the transformation step, or each transformation step, that is of interest is classified, or (ii) if interest lies only in the system as a whole, the first variable is classified in the appropriate place.</li><li>This is particularly important where two or more conversions take place, for instance where a first variable, for example pressure, is transformed into a second variable, for example an optical property of a sensing body, and that second variable is expressed by means of a third variable, for example an electric effect. In such a case, the following classification places should be considered: the place for the transformation of the first variable, that for sensing the condition caused by that variable, subclass <b>G01D</b> for expression of the measurement, and finally the place for the overall system, if any.</li></ul></li><li>The measurement of change in the value of a physical property is classified in the same subclass as the measurement of that physical property, e.g. measurement of expansion of length is classified in subclass <b>G01B</b>.</li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G": {
+      "code": "G",
+      "level": 0,
+      "parent": null,
+      "ja": "物理学<br><br><b><ul>注</ul></b><br>１．このセクションにおいては，下記の用語は以下に示す意味で用いる：<br>・“変量”は名詞として，特定の実在物，例．物体，ある量の物質，光ビーム，に関し特定の瞬間に測定することの可能な特性又は特質，例．寸法，温度等の物理的状態，密度又は色等の性質，を意味する。変量が変化すると，その数値的表現は異なる時点で，異なる状態又は個々の状況において異なる値をとることもあり，また，ある状態のもとで又は実用上特定の実在物に関して一定でありうる，例．バーの長さが多くの目的のために一定とみなされる，こともある。<br>２．使用される用語または表現の定義に注意すること。このセクションのいくつかのクラスの注に使用されているものについて，特にクラスＧ０１の“測定”を参照されたい．ＩＰＣ指針パラグラフ１８７の中にあるものについて，“制御”及び“調整”の定義に参照されたい。<br>３．このセクションにおける分類は他のセクションにおいてよりもめんどうな場合があり得る，というのは，その一つは，いろいろな使用分野の差異の判別には構造上の差異又は使用形態上の差異よりも寧ろ使用者の意図における差異の方にかなりの程度影響されてしまうからであり，もう一つは，扱う主題が容易に全体として識別できる“もの”であるよりも，特性又は部品が他の主題のものと共通のものを有しているシステム又は組合わせであることが実際上多いからである。例えば，情報（例．一連の数値）をディスプレイするのは，クラスＧ０９に包含される，教育又は広告のため，クラスＧ０１に包含される，測定の結果が通知されうるため，クラスＧ０８に包含される，遠隔地点に情報を合図するため，又は遠隔地点から合図された情報を提供するためである。目的を記述するために使用する言葉は，当該装置の形態に無関係なこともあり得る特性－例えば，ディスプレイを見る者にとって望ましい効果とか，ディスプレイが遠隔地点から制御されるかどうかという特性－によって決定される。さらに，ある状態，例えば流体圧の変化に応答する装置は，その装置そのものには変更を加えずして，サブクラスＧ０１Ｌに包含される圧力又はＧ０１の他のサブクラスに包含される圧力に関連した他の何らかの状態，例．温度に関してＧ０１Ｋ，についての情報を与えるため，サブクラスＧ０７Ｃに包含される圧力または圧力発生の記録をするため，サブクラスＧ０８Ｂに包含される警報を発するため，又はクラスＧ０５に包含される他の何らかの装置を制御するために用いられることがある。<br>　本分類表は，前述したように，同一の性質のものは同一箇所に分類し得るようにしたものである。従って，技術主題が適切箇所に分類されるためには予めその真正な本質を把握することが特に必要である。",
+      "en": "PHYSICS; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this section, the following term is used with the meaning indicated: <ul><li>\"variable\" as a noun means a feature or property, e.g. a dimension, a physical condition such as temperature, a quality such as density or colour, which, in respect of a particular entity, e.g. an object, a quantity of a substance, a beam of light, and at a particular instant, is capable of being measured; the variable may change, so that its numerical expression may assume different values at different times, in different conditions or in individual cases, but may be constant in respect of a particular entity in certain conditions or for practical purposes, e.g. the length of a bar may be regarded as constant for many purposes.</li></ul></li><li>Attention is drawn to the definitions of terms or expressions used. Some appear in the notes of several of the classes in this section, see in particular the definition of \"measuring\" in class <b>G01</b>. Others appear in paragraph 187 of the Guide to the IPC, see in particular the definitions of \"control\" and \"regulation\".</li><li>Classification in this section may present more difficulty than in other sections, because the distinction between different fields of use rests to a considerable extent on differences in the intention of the user rather than on any constructional differences or differences in the manner of use, and because the subjects dealt with are often in effect systems or combinations, which have features or parts in common, rather than \"things\", which are readily distinguishable as a whole. For example, information, e.g. a set of figures, may be displayed for the purpose of education or advertising covered by class <b>G09</b>, for enabling the result of a measurement to be known covered by class <b>G01</b>, for signalling the information to a distant point or for giving information which has been signalled from a distant point covered by class <b>G08</b>. The words used to describe the purpose depend on features that may be irrelevant to the form of the apparatus concerned, for example, such features as the desired effect on the person who sees the display, or whether the display is controlled from a remote point. Again, a device which responds to some change in a condition, e.g. in the pressure of a fluid, may be used, without modification of the device itself, to give information about the pressure covered by subclass <b>G01L</b> or about some other condition linked to the pressure covered by another subclass of class <b>G01</b>, e.g. <b>G01K</b> for temperature, to make a record of the pressure or of its occurrence covered by subclass <b>G07C</b>, to give an alarm covered by subclass <b>G08B</b>, or to control another apparatus covered by class <b>G05</b>. <ul><li>The classification scheme is intended to enable things of a similar nature, as indicated above, to be classified together. It is therefore particularly necessary for the real nature of any technical subject to be decided before it can be properly classified.</li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G01R1/00": {
+      "code": "G01R1/00",
+      "level": 0,
+      "parent": "G01R",
+      "ja": "グループＧ０１Ｒ５／００～Ｇ０１Ｒ１３／００またはＧ０１Ｒ３１／００に包含される型の機器または装置の細部（電気的消費の電気機械的測定装置に特有の構造的細部Ｇ０１Ｒ１１／０２）［３，８］",
+      "en": "Details of instruments or arrangements of the types covered by groups <b>G01R5/00 to G01R13/00</b>  or <b>G01R31/00</b>(constructional details particular to electromechanical arrangements for measuring the electric consumption <b>G01R11/02</b>)",
+      "count": 1777,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R1/02": {
+      "code": "G01R1/02",
+      "level": 1,
+      "parent": "G01R1/00",
+      "ja": "一般的な構造の細部",
+      "en": "General constructional details",
+      "count": 27308,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R1/04": {
+      "code": "G01R1/04",
+      "level": 2,
+      "parent": "G01R1/02",
+      "ja": "ハウジング；支持部材，端子装置",
+      "en": "Housings; Supporting members; Arrangements of terminals",
+      "count": 108436,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R1/06": {
+      "code": "G01R1/06",
+      "level": 2,
+      "parent": "G01R1/02",
+      "ja": "測定用導線；測定用探針（Ｇ０１Ｒ１９／１４５，Ｇ０１Ｒ１９／１６５が優先）［３］",
+      "en": "Measuring leads; Measuring probes(<b>G01R19/145</b>, <b>G01R19/165</b> take precedence)",
+      "count": 7079,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R1/067": {
+      "code": "G01R1/067",
+      "level": 3,
+      "parent": "G01R1/06",
+      "ja": "測定用探針［３］",
+      "en": "Measuring probes",
+      "count": 18489,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R1/07": {
+      "code": "G01R1/07",
+      "level": 4,
+      "parent": "G01R1/067",
+      "ja": "非接触構造探針［６］",
+      "en": "Non contact-making probes",
+      "count": 577,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R1/073": {
+      "code": "G01R1/073",
+      "level": 4,
+      "parent": "G01R1/067",
+      "ja": "複合探針［３］",
+      "en": "Multiple probes",
+      "count": 19725,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R1/08": {
+      "code": "G01R1/08",
+      "level": 2,
+      "parent": "G01R1/02",
+      "ja": "指針；目盛板；目盛板の照明",
+      "en": "Pointers; Scales;  Scale illumination",
+      "count": 711,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R1/10": {
+      "code": "G01R1/10",
+      "level": 2,
+      "parent": "G01R1/02",
+      "ja": "軸受装置",
+      "en": "Arrangements of bearings",
+      "count": 383,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R1/12": {
+      "code": "G01R1/12",
+      "level": 3,
+      "parent": "G01R1/10",
+      "ja": "条片または線状軸受装置",
+      "en": "of strip or wire bearings",
+      "count": 219,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R1/14": {
+      "code": "G01R1/14",
+      "level": 2,
+      "parent": "G01R1/02",
+      "ja": "制動装置；減衰装置",
+      "en": "Braking arrangements; Damping arrangements",
+      "count": 944,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R1/16": {
+      "code": "G01R1/16",
+      "level": 2,
+      "parent": "G01R1/02",
+      "ja": "磁石",
+      "en": "Magnets",
+      "count": 375,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R1/18": {
+      "code": "G01R1/18",
+      "level": 2,
+      "parent": "G01R1/02",
+      "ja": "電界または磁界に対する遮蔽装置，例．地球の場に対するもの",
+      "en": "Screening arrangements against electric or magnetic fields, e.g. against earth's field",
+      "count": 3073,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R1/20": {
+      "code": "G01R1/20",
+      "level": 1,
+      "parent": "G01R1/00",
+      "ja": "電気測定器において使用する基礎的電気要素の変更；このような要素の計器との構造的結合",
+      "en": "Modifications of basic electric elements for use in electric measuring instruments; Structural combinations of such elements with such instruments",
+      "count": 5195,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R1/22": {
+      "code": "G01R1/22",
+      "level": 2,
+      "parent": "G01R1/20",
+      "ja": "電流変成器の２次巻線として動作する挟み試験具",
+      "en": "Tong testers acting as secondary windings of current transformers",
+      "count": 1000,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R1/24": {
+      "code": "G01R1/24",
+      "level": 2,
+      "parent": "G01R1/20",
+      "ja": "伝送線，例．導波管，を測定するための部分，例．溝を有する部分",
+      "en": "Transmission-line, e.g. waveguide, measuring sections, e.g. slotted section",
+      "count": 265,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R1/26": {
+      "code": "G01R1/26",
+      "level": 3,
+      "parent": "G01R1/24",
+      "ja": "探針の直線的動きによるもの",
+      "en": "with linear movement of probe",
+      "count": 64,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R1/28": {
+      "code": "G01R1/28",
+      "level": 1,
+      "parent": "G01R1/00",
+      "ja": "測定計器における参照値，例．基準電圧，基準波形，用設備",
+      "en": "Provision in measuring instruments for reference values, e.g. standard voltage, standard waveform",
+      "count": 6175,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R1/30": {
+      "code": "G01R1/30",
+      "level": 1,
+      "parent": "G01R1/00",
+      "ja": "基礎的電子回路，例．増幅器と電気測定計器との構造的結合",
+      "en": "Structural combination of electric measuring instruments with basic electronic circuits, e.g. with amplifier",
+      "count": 4473,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R1/36": {
+      "code": "G01R1/36",
+      "level": 1,
+      "parent": "G01R1/00",
+      "ja": "電気的測定計器に対する過負荷保護装置または回路",
+      "en": "Overload-protection arrangements or circuits for electric measuring instruments",
+      "count": 2213,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R1/38": {
+      "code": "G01R1/38",
+      "level": 1,
+      "parent": "G01R1/00",
+      "ja": "指示特性を変更するための装置，例．空隙を加減するもの",
+      "en": "Arrangements for altering the indicating characteristic, e.g. by modifying the air gap",
+      "count": 367,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R1/40": {
+      "code": "G01R1/40",
+      "level": 1,
+      "parent": "G01R1/00",
+      "ja": "ある時間々隔で到達した最大値または最小値を指示するための計器の変更，例．最大値指示指針によるもの［３］",
+      "en": "Modifications of instruments to indicate the maximum or the minimum value reached in a time interval, e.g. by maximum indicator pointer",
+      "count": 83,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R1/42": {
+      "code": "G01R1/42",
+      "level": 2,
+      "parent": "G01R1/40",
+      "ja": "熱的に動作するもの",
+      "en": "thermally operated",
+      "count": 26,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R1/44": {
+      "code": "G01R1/44",
+      "level": 1,
+      "parent": "G01R1/00",
+      "ja": "温度補償のための計器の変更［２］",
+      "en": "Modifications of instruments for temperature compensation",
+      "count": 680,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R3/00": {
+      "code": "G01R3/00",
+      "level": 0,
+      "parent": "G01R",
+      "ja": "測定計器の製造に対して特に適合した装置または方法",
+      "en": "Apparatus or processes specially adapted for the manufacture of measuring instruments",
+      "count": 3164,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R5/00": {
+      "code": "G01R5/00",
+      "level": 0,
+      "parent": "G01R",
+      "ja": "単一の電流または単一の電圧を機械的変位に変換するための計器",
+      "en": "Instruments for converting a single current or a single voltage into a mechanical displacement",
+      "count": 408,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R5/02": {
+      "code": "G01R5/02",
+      "level": 1,
+      "parent": "G01R5/00",
+      "ja": "可動コイル計器",
+      "en": "Moving-coil instruments",
+      "count": 612,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R5/04": {
+      "code": "G01R5/04",
+      "level": 2,
+      "parent": "G01R5/02",
+      "ja": "外部磁石型",
+      "en": "with magnet external to the coil",
+      "count": 252,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R5/06": {
+      "code": "G01R5/06",
+      "level": 2,
+      "parent": "G01R5/02",
+      "ja": "内部磁石型",
+      "en": "with core magnet",
+      "count": 280,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R5/08": {
+      "code": "G01R5/08",
+      "level": 2,
+      "parent": "G01R5/02",
+      "ja": "広角度の偏位に特に適合するもの；偏心して軸支された可動コイルによるもの",
+      "en": "specially adapted for wide angle deflection; with eccentrically-pivoted moving coil",
+      "count": 155,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R5/10": {
+      "code": "G01R5/10",
+      "level": 1,
+      "parent": "G01R5/00",
+      "ja": "単線検流計",
+      "en": "String galvanometers",
+      "count": 108,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R5/12": {
+      "code": "G01R5/12",
+      "level": 1,
+      "parent": "G01R5/00",
+      "ja": "環状検流計",
+      "en": "Loop galvanometers",
+      "count": 32,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R5/14": {
+      "code": "G01R5/14",
+      "level": 1,
+      "parent": "G01R5/00",
+      "ja": "可動鉄片計器",
+      "en": "Moving-iron instruments",
+      "count": 790,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R5/16": {
+      "code": "G01R5/16",
+      "level": 2,
+      "parent": "G01R5/14",
+      "ja": "軸支された磁石によるもの",
+      "en": "with pivoting magnet",
+      "count": 1311,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R5/18": {
+      "code": "G01R5/18",
+      "level": 2,
+      "parent": "G01R5/14",
+      "ja": "軸支された軟鉄心によるもの，例．指針検流計",
+      "en": "with pivoting soft iron, e.g. needle galvanometer",
+      "count": 117,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R5/20": {
+      "code": "G01R5/20",
+      "level": 1,
+      "parent": "G01R5/00",
+      "ja": "誘導型装置，例．フェラリス型装置",
+      "en": "Induction instruments e.g. Ferraris instruments",
+      "count": 110,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R5/22": {
+      "code": "G01R5/22",
+      "level": 1,
+      "parent": "G01R5/00",
+      "ja": "熱型計器",
+      "en": "Thermoelectric instruments",
+      "count": 96,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R5/24": {
+      "code": "G01R5/24",
+      "level": 2,
+      "parent": "G01R5/22",
+      "ja": "条片もしくは線の伸びまたはガスもしくは液体の膨脹により動作するもの",
+      "en": "operated by elongation of a strip or wire or by expansion of a gas or fluid",
+      "count": 36,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R5/26": {
+      "code": "G01R5/26",
+      "level": 2,
+      "parent": "G01R5/22",
+      "ja": "バイメタル素子の変形により動作するもの",
+      "en": "operated by deformation of a bimetallic element",
+      "count": 155,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R5/28": {
+      "code": "G01R5/28",
+      "level": 1,
+      "parent": "G01R5/00",
+      "ja": "静電型装置",
+      "en": "Electrostatic instruments",
+      "count": 368,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R5/30": {
+      "code": "G01R5/30",
+      "level": 2,
+      "parent": "G01R5/28",
+      "ja": "箔検電器",
+      "en": "Leaf electrometers",
+      "count": 14,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R5/32": {
+      "code": "G01R5/32",
+      "level": 2,
+      "parent": "G01R5/28",
+      "ja": "線電位計；指針電位計",
+      "en": "Wire electrometers; Needle electrometers",
+      "count": 15,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R5/34": {
+      "code": "G01R5/34",
+      "level": 2,
+      "parent": "G01R5/28",
+      "ja": "象限電位計",
+      "en": "Quadrant electrometers",
+      "count": 11,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R7/00": {
+      "code": "G01R7/00",
+      "level": 0,
+      "parent": "G01R",
+      "ja": "２以上の電流または電圧を単一の機械的変位に変換しうる計器（Ｇ０１Ｒ９／００が優先）",
+      "en": "Instruments capable of converting two or more currents or voltages into a single mechanical displacement(<b>G01R9/00</b> takes precedence)",
+      "count": 208,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R7/02": {
+      "code": "G01R7/02",
+      "level": 1,
+      "parent": "G01R7/00",
+      "ja": "和または差を形成させるためのもの",
+      "en": "for forming a sum or a difference",
+      "count": 55,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R7/04": {
+      "code": "G01R7/04",
+      "level": 1,
+      "parent": "G01R7/00",
+      "ja": "商を形成するためのもの（抵抗測定Ｇ０１Ｒ２７／０８）",
+      "en": "for forming a quotient(for measuring resistance <b>G01R27/08</b>)",
+      "count": 25,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R7/06": {
+      "code": "G01R7/06",
+      "level": 2,
+      "parent": "G01R7/04",
+      "ja": "可動鉄片型",
+      "en": "moving-iron type",
+      "count": 192,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R7/08": {
+      "code": "G01R7/08",
+      "level": 2,
+      "parent": "G01R7/04",
+      "ja": "可動コイル型，例．交叉コイル型",
+      "en": "moving-coil type, e.g. crossed-coil type",
+      "count": 55,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R7/10": {
+      "code": "G01R7/10",
+      "level": 3,
+      "parent": "G01R7/08",
+      "ja": "３個以上の可動コイルを有するもの",
+      "en": "having more than two moving coils",
+      "count": 7,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R7/12": {
+      "code": "G01R7/12",
+      "level": 1,
+      "parent": "G01R7/00",
+      "ja": "積を形成するためのもの",
+      "en": "for forming product",
+      "count": 14,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R7/14": {
+      "code": "G01R7/14",
+      "level": 2,
+      "parent": "G01R7/12",
+      "ja": "可動鉄片型",
+      "en": "moving-iron type",
+      "count": 7,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R7/16": {
+      "code": "G01R7/16",
+      "level": 2,
+      "parent": "G01R7/12",
+      "ja": "固定と可動コイルの両方を有するもの，例．電流力計型計器",
+      "en": "having both fixed and moving coils, i.e. dynamometers",
+      "count": 25,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R7/18": {
+      "code": "G01R7/18",
+      "level": 3,
+      "parent": "G01R7/16",
+      "ja": "固定と可動コイルとを磁気的に結合する鉄心をもつもの",
+      "en": "with iron core magnetically coupling fixed and moving coils",
+      "count": 15,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R9/00": {
+      "code": "G01R9/00",
+      "level": 0,
+      "parent": "G01R",
+      "ja": "機械的共振を用いる計器",
+      "en": "Instruments employing mechanical resonance",
+      "count": 45,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R9/02": {
+      "code": "G01R9/02",
+      "level": 1,
+      "parent": "G01R9/00",
+      "ja": "振動型検流計，例．電流測定用",
+      "en": "Vibration galvanometers, e.g. for measuring current",
+      "count": 25,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R9/04": {
+      "code": "G01R9/04",
+      "level": 1,
+      "parent": "G01R9/00",
+      "ja": "振動片を使用するもの，例．周波数測定用",
+      "en": "using vibrating reeds, e.g. for measuring frequency",
+      "count": 48,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R9/06": {
+      "code": "G01R9/06",
+      "level": 2,
+      "parent": "G01R9/04",
+      "ja": "磁気的に駆動されるもの",
+      "en": "magnetically driven",
+      "count": 14,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R9/08": {
+      "code": "G01R9/08",
+      "level": 2,
+      "parent": "G01R9/04",
+      "ja": "圧電気的に駆動されるもの［２００６．０１］",
+      "en": "piezoelectrically driven",
+      "count": 40,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R11/00": {
+      "code": "G01R11/00",
+      "level": 0,
+      "parent": "G01R",
+      "ja": "電力または電流の時間積分，例．消費，を測定する電気機械的装置（電気的推進車両の電気的消費の監視Ｂ６０Ｌ３／００）",
+      "en": "Electromechanical arrangements for measuring time integral of electric power or current, e.g. of consumption(monitoring electric consumption of electrically-propelled vehicles <b>B60L3/00</b>)",
+      "count": 4721,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R11/02": {
+      "code": "G01R11/02",
+      "level": 1,
+      "parent": "G01R11/00",
+      "ja": "構造的細部",
+      "en": "Constructional details",
+      "count": 5942,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R11/04": {
+      "code": "G01R11/04",
+      "level": 2,
+      "parent": "G01R11/02",
+      "ja": "ハウジング；支持ラック；端子装置",
+      "en": "Housings; Supporting racks; Arrangements of terminals",
+      "count": 17061,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R11/06": {
+      "code": "G01R11/06",
+      "level": 2,
+      "parent": "G01R11/02",
+      "ja": "誘導型計器の磁気回路［２］",
+      "en": "Magnetic circuits of induction meters",
+      "count": 146,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R11/067": {
+      "code": "G01R11/067",
+      "level": 3,
+      "parent": "G01R11/06",
+      "ja": "そのためのコイル［２］",
+      "en": "Coils therefor",
+      "count": 66,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R11/073": {
+      "code": "G01R11/073",
+      "level": 3,
+      "parent": "G01R11/06",
+      "ja": "そのための回転子［２］",
+      "en": "Armatures therefor",
+      "count": 10,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R11/09": {
+      "code": "G01R11/09",
+      "level": 4,
+      "parent": "G01R11/073",
+      "ja": "円板型回転子［２］",
+      "en": "Disc armatures",
+      "count": 27,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R11/10": {
+      "code": "G01R11/10",
+      "level": 2,
+      "parent": "G01R11/02",
+      "ja": "制動磁石；減衰装置",
+      "en": "Braking magnets; Damping arrangements",
+      "count": 667,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R11/12": {
+      "code": "G01R11/12",
+      "level": 2,
+      "parent": "G01R11/02",
+      "ja": "軸受装置",
+      "en": "Arrangements of bearings",
+      "count": 453,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R11/14": {
+      "code": "G01R11/14",
+      "level": 3,
+      "parent": "G01R11/12",
+      "ja": "磁気的な軽減によるもの",
+      "en": "with magnetic relief",
+      "count": 161,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R11/16": {
+      "code": "G01R11/16",
+      "level": 2,
+      "parent": "G01R11/02",
+      "ja": "電気計器へのカウンターの適合",
+      "en": "Adaptations of counters to electricity meters",
+      "count": 547,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R11/17": {
+      "code": "G01R11/17",
+      "level": 2,
+      "parent": "G01R11/02",
+      "ja": "誤差の補償；そのための調整または調節手段［２］",
+      "en": "Compensating for errors; Adjusting or regulating means therefor",
+      "count": 298,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R11/18": {
+      "code": "G01R11/18",
+      "level": 3,
+      "parent": "G01R11/17",
+      "ja": "周囲の状態の変化に対する補償［２］",
+      "en": "Compensating for variations in ambient conditions",
+      "count": 51,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R11/185": {
+      "code": "G01R11/185",
+      "level": 4,
+      "parent": "G01R11/18",
+      "ja": "温度補償［２］",
+      "en": "Temperature compensation",
+      "count": 250,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R11/19": {
+      "code": "G01R11/19",
+      "level": 3,
+      "parent": "G01R11/17",
+      "ja": "外乱トルクによる誤差，例．多相型計器の回転磁界誤差，に対する補償［２］",
+      "en": "Compensating for errors caused by disturbing torque, e.g. rotating-field errors of polyphase meters",
+      "count": 23,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R11/20": {
+      "code": "G01R11/20",
+      "level": 3,
+      "parent": "G01R11/17",
+      "ja": "誘導型計器の位相誤差に対する補償［２］",
+      "en": "Compensating for phase errors in induction meters",
+      "count": 63,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R11/21": {
+      "code": "G01R11/21",
+      "level": 3,
+      "parent": "G01R11/17",
+      "ja": "電流の制動作用による誤差に対する補償，例．過負荷調整［２］",
+      "en": "Compensating for errors caused by damping effects of the current, e.g. adjustment in the overload range",
+      "count": 26,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R11/22": {
+      "code": "G01R11/22",
+      "level": 3,
+      "parent": "G01R11/17",
+      "ja": "トルクの調整，例．始動トルクの調整，等価トルクを得るための多相型計器の調整［２］",
+      "en": "Adjusting torque, e.g. adjusting starting torque, adjusting of polyphase meters for obtaining equal torques",
+      "count": 48,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R11/23": {
+      "code": "G01R11/23",
+      "level": 3,
+      "parent": "G01R11/17",
+      "ja": "摩擦による誤差の補償，例．軽負荷調整［２］",
+      "en": "Compensating for errors caused by friction, e.g. adjustment in the light-load range",
+      "count": 36,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R11/24": {
+      "code": "G01R11/24",
+      "level": 2,
+      "parent": "G01R11/02",
+      "ja": "不正使用を回避または指示する装置［４］",
+      "en": "Arrangements for avoiding or indicating fraudulent use",
+      "count": 5704,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R11/25": {
+      "code": "G01R11/25",
+      "level": 2,
+      "parent": "G01R11/02",
+      "ja": "故障の指示または信号発生装置［２，４］<br><br><b><ul>注</ul></b><br>グループＧ０１Ｒ１１／４８からＧ０１Ｒ１１／５６はグループＧ０１Ｒ１１／３０からＧ０１Ｒ１１／４６に優先する。［４］",
+      "en": "Arrangements for indicating or signalling faults",
+      "count": 708,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R11/30": {
+      "code": "G01R11/30",
+      "level": 1,
+      "parent": "G01R11/00",
+      "ja": "電流力計",
+      "en": "Dynamo-electric motor meters",
+      "count": 429,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R11/32": {
+      "code": "G01R11/32",
+      "level": 2,
+      "parent": "G01R11/30",
+      "ja": "積算電力計",
+      "en": "Watt-hour meters",
+      "count": 585,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R11/34": {
+      "code": "G01R11/34",
+      "level": 2,
+      "parent": "G01R11/30",
+      "ja": "積算電流計",
+      "en": "Amp&egrave;re-hour meters",
+      "count": 130,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R11/36": {
+      "code": "G01R11/36",
+      "level": 1,
+      "parent": "G01R11/00",
+      "ja": "誘導型計器，例．フエラリス型計器",
+      "en": "Induction meters, e.g. Ferraris meters",
+      "count": 1222,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R11/38": {
+      "code": "G01R11/38",
+      "level": 2,
+      "parent": "G01R11/36",
+      "ja": "単相用",
+      "en": "for single-phase operation",
+      "count": 43,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R11/40": {
+      "code": "G01R11/40",
+      "level": 2,
+      "parent": "G01R11/36",
+      "ja": "多相用",
+      "en": "for polyphase operation",
+      "count": 286,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R11/42": {
+      "code": "G01R11/42",
+      "level": 3,
+      "parent": "G01R11/40",
+      "ja": "その回路",
+      "en": "Circuitry therefor",
+      "count": 70,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R11/46": {
+      "code": "G01R11/46",
+      "level": 1,
+      "parent": "G01R11/00",
+      "ja": "電気的に動作する時計機構を有する計器；振動型計器；振り子型計器",
+      "en": "Electrically-operated clockwork meters; Oscillatory meters; Pendulum meters",
+      "count": 94,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R11/48": {
+      "code": "G01R11/48",
+      "level": 1,
+      "parent": "G01R11/00",
+      "ja": "有効分または無効分を測定するのに特に適合した計器；皮相エネルギーを測定するのに特に適合した計器",
+      "en": "Meters specially adapted for measuring real or reactive components; Meters specially adapted for measuring apparent energy",
+      "count": 338,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R11/50": {
+      "code": "G01R11/50",
+      "level": 2,
+      "parent": "G01R11/48",
+      "ja": "有効分を測定するためのもの",
+      "en": "for measuring real component",
+      "count": 95,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R11/52": {
+      "code": "G01R11/52",
+      "level": 2,
+      "parent": "G01R11/48",
+      "ja": "無効分を測定するためのもの",
+      "en": "for measuring reactive component",
+      "count": 144,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R11/54": {
+      "code": "G01R11/54",
+      "level": 2,
+      "parent": "G01R11/48",
+      "ja": "次の三変量のうち少なくとも二つを同時に測定するためのもの：有効成分，無効成分，皮相エネルギー",
+      "en": "for measuring simultaneously at least two of the following three variables: real component, reactive component, apparent energy",
+      "count": 159,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R11/56": {
+      "code": "G01R11/56",
+      "level": 1,
+      "parent": "G01R11/00",
+      "ja": "特殊料金計器",
+      "en": "Special tariff meters",
+      "count": 2170,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R11/57": {
+      "code": "G01R11/57",
+      "level": 2,
+      "parent": "G01R11/56",
+      "ja": "多種料金計器（Ｇ０１Ｒ１１／６３が優先）［２］",
+      "en": "Multi-rate meters(<b>G01R11/63</b> takes precedence)",
+      "count": 445,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R11/58": {
+      "code": "G01R11/58",
+      "level": 3,
+      "parent": "G01R11/57",
+      "ja": "そのための料金切換装置［２］",
+      "en": "Tariff-switching devices therefor",
+      "count": 105,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R11/60": {
+      "code": "G01R11/60",
+      "level": 2,
+      "parent": "G01R11/56",
+      "ja": "減算計器；最大または最小の負荷時間を測定する計器",
+      "en": "Subtraction meters; Meters measuring maximum or minimum-load hours",
+      "count": 647,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R11/63": {
+      "code": "G01R11/63",
+      "level": 2,
+      "parent": "G01R11/56",
+      "ja": "超過消費計器，例．所定の電力を超過した間の消費を測定するもの［２］",
+      "en": "Over-consumption meters, e.g. measuring consumption while a predetermined level of power is exceeded",
+      "count": 176,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R11/64": {
+      "code": "G01R11/64",
+      "level": 2,
+      "parent": "G01R11/56",
+      "ja": "最大需要計器，例．ある時間の料金がその期間内の最大需要に基づくもの",
+      "en": "Maximum meters, e.g. tariff for a period is based on maximum demand within that period",
+      "count": 326,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R11/66": {
+      "code": "G01R11/66",
+      "level": 3,
+      "parent": "G01R11/64",
+      "ja": "回路",
+      "en": "Circuitry",
+      "count": 181,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R13/00": {
+      "code": "G01R13/00",
+      "level": 0,
+      "parent": "G01R",
+      "ja": "電気的変量または波形の表示装置［４］",
+      "en": "Arrangements for displaying electric variables or waveforms",
+      "count": 3486,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R13/02": {
+      "code": "G01R13/02",
+      "level": 1,
+      "parent": "G01R13/00",
+      "ja": "デジタル形で測定された電気的変量を表示するためのもの［４］",
+      "en": "for displaying measured electric variables in digital form",
+      "count": 3510,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R13/04": {
+      "code": "G01R13/04",
+      "level": 1,
+      "parent": "G01R13/00",
+      "ja": "永久的に記録するためのもの［４］",
+      "en": "for producing permanent records",
+      "count": 1151,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R13/06": {
+      "code": "G01R13/06",
+      "level": 2,
+      "parent": "G01R13/04",
+      "ja": "過渡じょう乱を記録するための変更，例．記録媒体を発進または加速することによるもの",
+      "en": "Modifications for recording transient disturbances, e.g. by starting or accelerating a recording medium",
+      "count": 176,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R13/08": {
+      "code": "G01R13/08",
+      "level": 2,
+      "parent": "G01R13/04",
+      "ja": "機械的に直接書く方法をもつ電気機械的記録方式",
+      "en": "Electromechanical recording system using a mechanical direct-writing method",
+      "count": 195,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R13/10": {
+      "code": "G01R13/10",
+      "level": 3,
+      "parent": "G01R13/08",
+      "ja": "ストロークの長さまたは点の位置により変数を表示する間欠的記録をもつもの",
+      "en": "with intermittent recording by representing the variable by the length of a stroke or by the position of a dot",
+      "count": 50,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R13/12": {
+      "code": "G01R13/12",
+      "level": 2,
+      "parent": "G01R13/04",
+      "ja": "化学的記録，例．クライドノグラフ（Ｇ０１Ｒ１３／１４が優先）",
+      "en": "Chemical recording, e.g. clydonographs(<b>G01R13/14</b> takes precedence)",
+      "count": 66,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R13/14": {
+      "code": "G01R13/14",
+      "level": 2,
+      "parent": "G01R13/04",
+      "ja": "感光性材料に記録",
+      "en": "Recording on a light-sensitive material",
+      "count": 163,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R13/16": {
+      "code": "G01R13/16",
+      "level": 2,
+      "parent": "G01R13/04",
+      "ja": "磁気材料に記録",
+      "en": "Recording on a magnetic medium",
+      "count": 49,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R13/18": {
+      "code": "G01R13/18",
+      "level": 3,
+      "parent": "G01R13/16",
+      "ja": "境界の変位を使用するもの",
+      "en": "using boundary displacement",
+      "count": 7,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R13/20": {
+      "code": "G01R13/20",
+      "level": 1,
+      "parent": "G01R13/00",
+      "ja": "陰極線オッシロスコープ",
+      "en": "Cathode-ray oscilloscopes",
+      "count": 4380,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R13/22": {
+      "code": "G01R13/22",
+      "level": 2,
+      "parent": "G01R13/20",
+      "ja": "そのための回路",
+      "en": "Circuits therefor",
+      "count": 1428,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R13/24": {
+      "code": "G01R13/24",
+      "level": 3,
+      "parent": "G01R13/22",
+      "ja": "時間軸偏向回路",
+      "en": "Time-base deflection circuits",
+      "count": 491,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R13/26": {
+      "code": "G01R13/26",
+      "level": 3,
+      "parent": "G01R13/22",
+      "ja": "電子ビームの強さを制御するための回路",
+      "en": "Circuits for controlling the intensity of the electron beam",
+      "count": 296,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R13/28": {
+      "code": "G01R13/28",
+      "level": 3,
+      "parent": "G01R13/22",
+      "ja": "２以上の変数の同時または連続的表示のための回路",
+      "en": "Circuits for simultaneous or sequential presentation of more than one variable",
+      "count": 1210,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R13/30": {
+      "code": "G01R13/30",
+      "level": 3,
+      "parent": "G01R13/22",
+      "ja": "基準マーカを挿入するための回路，例．時間基準用，目盛の較正用，周波数の目盛づけ用",
+      "en": "Circuits for inserting reference markers, e.g. for timing, for calibrating, for frequency marking",
+      "count": 731,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R13/32": {
+      "code": "G01R13/32",
+      "level": 3,
+      "parent": "G01R13/22",
+      "ja": "過渡状態のような非反覆的関数を表示する回路；トリガー回路；同期回路；時間軸拡大回路",
+      "en": "Circuits for displaying non-recurrent functions such as transients; Circuits for triggering; Circuits for synchronisation; Circuits for time-base expansion",
+      "count": 1002,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R13/34": {
+      "code": "G01R13/34",
+      "level": 3,
+      "parent": "G01R13/22",
+      "ja": "サンプリングにより単一の波形を表現する回路，例．超高周波に対するもの［２］",
+      "en": "Circuits for representing a single waveform by sampling, e.g. for very high frequencies",
+      "count": 1178,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R13/36": {
+      "code": "G01R13/36",
+      "level": 1,
+      "parent": "G01R13/00",
+      "ja": "グロー放電の長さを用いるもの，例．グロー・オシロスロープ［４］",
+      "en": "using length of glow discharge, e.g. glowlight oscilloscopes",
+      "count": 35,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R13/38": {
+      "code": "G01R13/38",
+      "level": 1,
+      "parent": "G01R13/00",
+      "ja": "電気機械測定系による光ビームの一定変位または振動変位を使用するもの［４］",
+      "en": "using the steady or oscillatory displacement of a light beam by an electromechanical measuring system",
+      "count": 310,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R13/40": {
+      "code": "G01R13/40",
+      "level": 1,
+      "parent": "G01R13/00",
+      "ja": "機械的変位による以外に光ビームの変調を利用するもの，例．カー効果によるもの［４］",
+      "en": "using modulation of a light beam otherwise than by mechanical displacement, e.g. by Kerr effect",
+      "count": 1014,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R13/42": {
+      "code": "G01R13/42",
+      "level": 1,
+      "parent": "G01R13/00",
+      "ja": "スパークの長さを利用する計器，例．スパークを起こす最大の電極間距離を測定するもの",
+      "en": "Instruments using length of spark discharge, e.g. by measuring maximum separation of electrodes to produce spark",
+      "count": 42,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R15/00": {
+      "code": "G01R15/00",
+      "level": 0,
+      "parent": "G01R",
+      "ja": "グループＧ０１Ｒ１７／００～Ｇ０１Ｒ２９／００，Ｇ０１Ｒ３３／００～Ｇ０１Ｒ３３／２６またはＧ０１Ｒ３５／００に定めた形式の測定装置の細部［１，８］",
+      "en": "Details of measuring arrangements of the types provided for in groups <b>G01R17/00 to G01R29/00</b> , <b>G01R33/00 to G01R33/26</b>  or <b>G01R35/00</b>",
+      "count": 5342,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R15/04": {
+      "code": "G01R15/04",
+      "level": 1,
+      "parent": "G01R15/00",
+      "ja": "分圧器［６］",
+      "en": "Voltage dividers",
+      "count": 2131,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R15/06": {
+      "code": "G01R15/06",
+      "level": 2,
+      "parent": "G01R15/04",
+      "ja": "無効成分をもつもの，例．容量型分圧器［６］",
+      "en": "having reactive components, e.g. capacitive transformer",
+      "count": 1981,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R15/08": {
+      "code": "G01R15/08",
+      "level": 1,
+      "parent": "G01R15/00",
+      "ja": "測定範囲を変えるための回路",
+      "en": "Circuits for altering the measuring range",
+      "count": 1234,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R15/09": {
+      "code": "G01R15/09",
+      "level": 2,
+      "parent": "G01R15/08",
+      "ja": "自動レンジ変更［６］",
+      "en": "Autoranging circuits",
+      "count": 909,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R15/12": {
+      "code": "G01R15/12",
+      "level": 1,
+      "parent": "G01R15/00",
+      "ja": "テスタ回路，例．電圧，電流，インピーダンスを随意に測定するためのもの",
+      "en": "Circuits for multi-testers, e.g. for measuring voltage, current, or impedance at will",
+      "count": 4820,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R15/14": {
+      "code": "G01R15/14",
+      "level": 1,
+      "parent": "G01R15/00",
+      "ja": "電圧または電流の絶縁計測に適合するもの，例．高電圧回路または大電流回路用［６］",
+      "en": "Adaptations providing voltage or current isolation, e.g. for high-voltage or high-current networks",
+      "count": 3840,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R15/16": {
+      "code": "G01R15/16",
+      "level": 2,
+      "parent": "G01R15/14",
+      "ja": "容量装置を使用するもの［６］",
+      "en": "using capacitive devices",
+      "count": 1232,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R15/18": {
+      "code": "G01R15/18",
+      "level": 2,
+      "parent": "G01R15/14",
+      "ja": "インダクタ，コイルを使用するもの，例．変成器［６］",
+      "en": "using inductive devices, e.g. transformers",
+      "count": 10259,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R15/20": {
+      "code": "G01R15/20",
+      "level": 2,
+      "parent": "G01R15/14",
+      "ja": "磁電変換素子を使用するもの，例．ホール効果素子［６］",
+      "en": "using galvano-magnetic devices, e.g. Hall-effect devices",
+      "count": 7296,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R15/22": {
+      "code": "G01R15/22",
+      "level": 2,
+      "parent": "G01R15/14",
+      "ja": "発光素子を使用するもの，例．ＬＥＤ，ホトカプラ［６］",
+      "en": "using light-emitting devices, e.g. LED, optocouplers",
+      "count": 1472,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R15/24": {
+      "code": "G01R15/24",
+      "level": 2,
+      "parent": "G01R15/14",
+      "ja": "光変調器を使用するもの［６］",
+      "en": "using light-modulating devices",
+      "count": 4207,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R15/26": {
+      "code": "G01R15/26",
+      "level": 2,
+      "parent": "G01R15/14",
+      "ja": "光以外の波の変調を使用するもの，例．電波または音波［６］",
+      "en": "using modulation of waves other than light, e.g. radio or acoustic waves",
+      "count": 124,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R17/00": {
+      "code": "G01R17/00",
+      "level": 0,
+      "parent": "G01R",
+      "ja": "参照値で比較する測定装置，例．ブリッジ",
+      "en": "Measuring arrangements involving comparison with a reference value, e.g. bridge",
+      "count": 1674,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R17/02": {
+      "code": "G01R17/02",
+      "level": 1,
+      "parent": "G01R17/00",
+      "ja": "測定値が自動的に参照値と比較される装置",
+      "en": "Arrangements in which the value to be measured is automatically compared with a reference value",
+      "count": 987,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R17/04": {
+      "code": "G01R17/04",
+      "level": 2,
+      "parent": "G01R17/02",
+      "ja": "参照値が連続的または周期的に測定値の範囲を掃引されるもの",
+      "en": "in which the reference value is continuously or periodically swept over the range of values to be measured",
+      "count": 258,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R17/06": {
+      "code": "G01R17/06",
+      "level": 2,
+      "parent": "G01R17/02",
+      "ja": "自動平衡装置",
+      "en": "Automatic balancing arrangements",
+      "count": 713,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R17/08": {
+      "code": "G01R17/08",
+      "level": 3,
+      "parent": "G01R17/06",
+      "ja": "測定値を表わす力またはトルクが参照値を表わす力またはトルクと平衡するもの",
+      "en": "in which a force or torque representing the measured value is balanced by a force or torque representing the reference value",
+      "count": 389,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R17/10": {
+      "code": "G01R17/10",
+      "level": 1,
+      "parent": "G01R17/00",
+      "ja": "交流または直流測定ブリッジ",
+      "en": "AC or DC measuring bridges",
+      "count": 1911,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R17/12": {
+      "code": "G01R17/12",
+      "level": 2,
+      "parent": "G01R17/10",
+      "ja": "電流の比較を使うもの，例．差の電流出力をもつブリッジ",
+      "en": "using comparison of currents, e.g. bridges with differential current output",
+      "count": 411,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R17/14": {
+      "code": "G01R17/14",
+      "level": 2,
+      "parent": "G01R17/10",
+      "ja": "較正目盛零指示計により測定値を指示するもの，例．パーセントブリッジ，許容差ブリッジ（Ｇ０１Ｒ１７／１２，Ｇ０１Ｒ１７／１６が優先）",
+      "en": "with indication of measured value by calibrated null indicator, e.g. percent bridge, tolerance bridge(<b>G01R17/12</b>, <b>G01R17/16</b> take precedence)",
+      "count": 144,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R17/16": {
+      "code": "G01R17/16",
+      "level": 2,
+      "parent": "G01R17/10",
+      "ja": "ブリッジの一つまたはそれ以上の辺に放電管または半導体装置をもつもの，例．差動増幅器を使用する電圧計",
+      "en": "with discharge tubes or semiconductor devices in one or more arms of the bridge, e.g. voltmeter using a difference amplifier",
+      "count": 385,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R17/18": {
+      "code": "G01R17/18",
+      "level": 2,
+      "parent": "G01R17/10",
+      "ja": "五辺以上もつもの",
+      "en": "with more than four branches",
+      "count": 69,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R17/20": {
+      "code": "G01R17/20",
+      "level": 1,
+      "parent": "G01R17/00",
+      "ja": "交流または直流電位差計測定装置",
+      "en": "AC or DC potentiometric measuring arrangements",
+      "count": 784,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R17/22": {
+      "code": "G01R17/22",
+      "level": 2,
+      "parent": "G01R17/20",
+      "ja": "較正目盛零指示計により測定値を指示するもの",
+      "en": "with indication of measured value by calibrated null indicator",
+      "count": 37,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R19/00": {
+      "code": "G01R19/00",
+      "level": 0,
+      "parent": "G01R",
+      "ja": "電流または電圧を測定し，またはそれの存在または符号を指示するための装置（Ｇ０１Ｒ５／００が優先；生体の電流または電圧を測定するためのものＡ６１Ｂ５／２４）［２００６．０１］<br><br><b><ul>注</ul></b><br>グループ１９／０２～１９／３２内では，１９／２８が優先する。グループ１９／１８～１９／２５はグループ１９／０２～１９／１６５および１９／３０に優先する。［３］",
+      "en": "Arrangements for measuring currents or voltages or for indicating presence or sign thereof(<b>G01R5/00</b> takes precedence; for measuring bioelectric currents or voltages <b>A61B5/24</b>)",
+      "count": 58005,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R19/02": {
+      "code": "G01R19/02",
+      "level": 1,
+      "parent": "G01R19/00",
+      "ja": "実効値の測定，すなわち二乗平均の開平値",
+      "en": "Measuring effective values, i.e. root-mean-square values",
+      "count": 2376,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R19/03": {
+      "code": "G01R19/03",
+      "level": 2,
+      "parent": "G01R19/02",
+      "ja": "熱変換器の使用［４］",
+      "en": "using thermoconverters",
+      "count": 234,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R19/04": {
+      "code": "G01R19/04",
+      "level": 1,
+      "parent": "G01R19/00",
+      "ja": "交流またはパルスのピーク値の測定［２］",
+      "en": "Measuring peak values of AC or of pulses",
+      "count": 4334,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R19/06": {
+      "code": "G01R19/06",
+      "level": 1,
+      "parent": "G01R19/00",
+      "ja": "有効成分の測定；無効成分の測定",
+      "en": "Measuring real component; Measuring reactive component",
+      "count": 421,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R19/08": {
+      "code": "G01R19/08",
+      "level": 1,
+      "parent": "G01R19/00",
+      "ja": "電流密度の測定",
+      "en": "Measuring current density",
+      "count": 561,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R19/10": {
+      "code": "G01R19/10",
+      "level": 1,
+      "parent": "G01R19/00",
+      "ja": "和，差または比の測定",
+      "en": "Measuring sum, difference, or ratio",
+      "count": 3669,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R19/12": {
+      "code": "G01R19/12",
+      "level": 1,
+      "parent": "G01R19/00",
+      "ja": "変化率の測定",
+      "en": "Measuring rate of change",
+      "count": 1199,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R19/14": {
+      "code": "G01R19/14",
+      "level": 1,
+      "parent": "G01R19/00",
+      "ja": "電流の方向指示；電圧極性指示",
+      "en": "Indicating direction of current; Indicating polarity of voltage",
+      "count": 1230,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R19/145": {
+      "code": "G01R19/145",
+      "level": 1,
+      "parent": "G01R19/00",
+      "ja": "電流または電圧の存在の指示［３］",
+      "en": "Indicating the presence of current or voltage",
+      "count": 6042,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R19/15": {
+      "code": "G01R19/15",
+      "level": 2,
+      "parent": "G01R19/145",
+      "ja": "電流の存在の指示［３］",
+      "en": "Indicating the presence of current",
+      "count": 2014,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R19/155": {
+      "code": "G01R19/155",
+      "level": 2,
+      "parent": "G01R19/145",
+      "ja": "電圧の存在の指示［３］",
+      "en": "Indicating the presence of voltage",
+      "count": 5325,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R19/165": {
+      "code": "G01R19/165",
+      "level": 1,
+      "parent": "G01R19/00",
+      "ja": "電流または電圧が所定のレベル以上であるかまたは以下であるか，あるいは所定の範囲内にあるかまたは範囲外にあるかの指示［３］",
+      "en": "Indicating that current or voltage is either above or below a predetermined value or within or outside a predetermined range of values",
+      "count": 30209,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R19/17": {
+      "code": "G01R19/17",
+      "level": 2,
+      "parent": "G01R19/165",
+      "ja": "その発生度数の指示を与えるもの［３］",
+      "en": "giving an indication of the number of times this occurs",
+      "count": 1384,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R19/175": {
+      "code": "G01R19/175",
+      "level": 1,
+      "parent": "G01R19/00",
+      "ja": "電流または電圧が所定の値を通過する，例．零点を通過する，時を指示するもの［３］",
+      "en": "Indicating the instants of passage of current or voltage through a given value, e.g. passage through zero",
+      "count": 2388,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R19/18": {
+      "code": "G01R19/18",
+      "level": 1,
+      "parent": "G01R19/00",
+      "ja": "直流の交流への変換を使うもの，例．チョッパーをもつもの",
+      "en": "using conversion of DC into AC, e.g. with choppers",
+      "count": 599,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R19/20": {
+      "code": "G01R19/20",
+      "level": 2,
+      "parent": "G01R19/18",
+      "ja": "変換器を使用するもの",
+      "en": "using transductors",
+      "count": 503,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R19/22": {
+      "code": "G01R19/22",
+      "level": 1,
+      "parent": "G01R19/00",
+      "ja": "交流の直流への変換を使うもの",
+      "en": "using conversion of AC into DC",
+      "count": 2002,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R19/25": {
+      "code": "G01R19/25",
+      "level": 1,
+      "parent": "G01R19/00",
+      "ja": "デジタル測定技術を使用するもの［３］",
+      "en": "using digital measurement techniques",
+      "count": 18437,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R19/252": {
+      "code": "G01R19/252",
+      "level": 2,
+      "parent": "G01R19/25",
+      "ja": "電圧または電流を周波数に変換し，この周波数を測定する形式のアナログ／デジタル変換器を用いるもの［４］",
+      "en": "using analogue/digital converters of the type with conversion of voltage or current into frequency and measuring of this frequency",
+      "count": 728,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R19/255": {
+      "code": "G01R19/255",
+      "level": 2,
+      "parent": "G01R19/25",
+      "ja": "電圧また電流に比例する期間の間に固定周波数のパルス発生器により送られるパルスを計数する形式のアナログ／デジタル変換器を用いるもの［４］",
+      "en": "using analogue/digital converters of the type with counting of pulses during a period of time proportional to voltage or current, delivered by a pulse generator with fixed frequency",
+      "count": 362,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R19/257": {
+      "code": "G01R19/257",
+      "level": 2,
+      "parent": "G01R19/25",
+      "ja": "電圧または電流の値を異なる基準値と比較する形式のアナログ／デジタル変換器を用いるもの，例．ステップ・バイ・ステップ法を用いるもの［４］",
+      "en": "using analogue/digital converters of the type with comparison of different reference values with the value of voltage or current, e.g. using step-by-step method",
+      "count": 430,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R19/28": {
+      "code": "G01R19/28",
+      "level": 1,
+      "parent": "G01R19/00",
+      "ja": "分布定数回路の測定に適応されるもの",
+      "en": "adapted for measuring in circuits having distributed constants",
+      "count": 247,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R19/30": {
+      "code": "G01R19/30",
+      "level": 1,
+      "parent": "G01R19/00",
+      "ja": "ある度間々隔で到達した電流または電圧の最大値または最小値の測定（Ｇ０１Ｒ１９／０４が優先）［２，３］",
+      "en": "Measuring the maximum or the minimum value of current or voltage reached in a time interval(<b>G01R19/04</b> takes precedence)",
+      "count": 749,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R19/32": {
+      "code": "G01R19/32",
+      "level": 1,
+      "parent": "G01R19/00",
+      "ja": "温度変化に対する補償［２］",
+      "en": "Compensating for temperature change",
+      "count": 1357,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R21/00": {
+      "code": "G01R21/00",
+      "level": 0,
+      "parent": "G01R",
+      "ja": "電力または力率の測定装置（Ｇ０１Ｒ７／１２が優先）［４］",
+      "en": "Arrangements for measuring electric power or power factor(<b>G01R7/12</b> takes precedence)",
+      "count": 9246,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R21/01": {
+      "code": "G01R21/01",
+      "level": 1,
+      "parent": "G01R21/00",
+      "ja": "分布定数回路におけるもの（Ｇ０１Ｒ２１／０４，Ｇ０１Ｒ２１／０７，Ｇ０１Ｒ２１／０９，Ｇ０１Ｒ２１／１２が優先）［２］",
+      "en": "in circuits having distributed constants(<b>G01R21/04</b>, <b>G01R21/07</b>, <b>G01R21/09</b>, <b>G01R21/12</b> take precedence)",
+      "count": 371,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R21/02": {
+      "code": "G01R21/02",
+      "level": 1,
+      "parent": "G01R21/00",
+      "ja": "熱的方法によるもの［２］",
+      "en": "by thermal methods",
+      "count": 510,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R21/04": {
+      "code": "G01R21/04",
+      "level": 2,
+      "parent": "G01R21/02",
+      "ja": "分布定数回路におけるもの",
+      "en": "in circuits having distributed constants",
+      "count": 364,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R21/06": {
+      "code": "G01R21/06",
+      "level": 1,
+      "parent": "G01R21/00",
+      "ja": "電流および電圧の測定によるもの（Ｇ０１Ｒ２１／０８～Ｇ０１Ｒ２１／１３３が優先）［４］",
+      "en": "by measuring current and voltage(<b>G01R21/08 to G01R21/133</b>  take precedence)",
+      "count": 4787,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R21/07": {
+      "code": "G01R21/07",
+      "level": 2,
+      "parent": "G01R21/06",
+      "ja": "分布定数回路におけるもの（Ｇ０１Ｒ２１／０９が優先）［２］",
+      "en": "in circuits having distributed constants(<b>G01R21/09</b> takes precedence)",
+      "count": 100,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R21/08": {
+      "code": "G01R21/08",
+      "level": 1,
+      "parent": "G01R21/00",
+      "ja": "感磁性効果素子，例．ホール効果素子，を使用するもの［２］",
+      "en": "by using galvanomagnetic-effect devices, e.g. Hall-effect devices",
+      "count": 601,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R21/09": {
+      "code": "G01R21/09",
+      "level": 2,
+      "parent": "G01R21/08",
+      "ja": "分布定数回路におけるもの［２］",
+      "en": "in circuits having distributed constants",
+      "count": 22,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R21/10": {
+      "code": "G01R21/10",
+      "level": 1,
+      "parent": "G01R21/00",
+      "ja": "既知インピーダンス負荷により吸収される電力を測定するために回路素子，例．ダイオード，の二乗特性を使用するもの（Ｇ０１Ｒ２１／０２が優先）［２］",
+      "en": "by using square-law characteristics of circuit elements, e.g. diodes, to measure power absorbed by loads of known impedance(<b>G01R21/02</b> takes precedence)",
+      "count": 247,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R21/12": {
+      "code": "G01R21/12",
+      "level": 2,
+      "parent": "G01R21/10",
+      "ja": "分布定数回路におけるもの",
+      "en": "in circuits having distributed constants",
+      "count": 155,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R21/127": {
+      "code": "G01R21/127",
+      "level": 1,
+      "parent": "G01R21/00",
+      "ja": "パルス変調を用いるもの（Ｇ０１Ｒ２１／１３３が優先）［４］",
+      "en": "by using pulse modulation(<b>G01R21/133</b> takes precedence)",
+      "count": 336,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R21/133": {
+      "code": "G01R21/133",
+      "level": 1,
+      "parent": "G01R21/00",
+      "ja": "デジタル技術を用いるもの［４］",
+      "en": "by using digital technique",
+      "count": 4501,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R21/14": {
+      "code": "G01R21/14",
+      "level": 1,
+      "parent": "G01R21/00",
+      "ja": "温度変化に対する補償［２］",
+      "en": "Compensating for temperature change",
+      "count": 217,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R22/00": {
+      "code": "G01R22/00",
+      "level": 0,
+      "parent": "G01R",
+      "ja": "電力または電流の時間積分の測定装置，例．電気計器［４，８］<br><br><b><ul>注</ul></b><br>電力の時間積分を測定するための装置は，本質的特徴が電力測定にある場合には，グループ２１／００に分類する。［４］",
+      "en": "Arrangements for measuring time integral of electric power or current, e.g. electricity meters; <br><br><b><u>Note(s)</u></b><br><br><ul><li>An arrangement for measuring time integral of electric power is classified in group <b>G01R21/00</b> if the essential characteristic is the measuring of electric power. </li></ul>",
+      "count": 5410,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R22/02": {
+      "code": "G01R22/02",
+      "level": 1,
+      "parent": "G01R22/00",
+      "ja": "電解的方法によるもの［４］",
+      "en": "by electrolytic methods",
+      "count": 705,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R22/04": {
+      "code": "G01R22/04",
+      "level": 1,
+      "parent": "G01R22/00",
+      "ja": "熱量測定法によるもの［４］",
+      "en": "by calorimetric methods",
+      "count": 75,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R22/06": {
+      "code": "G01R22/06",
+      "level": 1,
+      "parent": "G01R22/00",
+      "ja": "電子的方法によるもの［８］",
+      "en": "by electronic methods",
+      "count": 7677,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R22/08": {
+      "code": "G01R22/08",
+      "level": 2,
+      "parent": "G01R22/06",
+      "ja": "アナログ手法を使用するもの［８］",
+      "en": "using analogue techniques",
+      "count": 119,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R22/10": {
+      "code": "G01R22/10",
+      "level": 2,
+      "parent": "G01R22/06",
+      "ja": "デジタル手法を使用するもの［８］",
+      "en": "using digital techniques",
+      "count": 3198,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R23/00": {
+      "code": "G01R23/00",
+      "level": 0,
+      "parent": "G01R",
+      "ja": "周波数測定装置；周波数スペクトル分析装置",
+      "en": "Arrangements for measuring frequencies; Arrangements for analysing frequency spectra",
+      "count": 4347,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R23/02": {
+      "code": "G01R23/02",
+      "level": 1,
+      "parent": "G01R23/00",
+      "ja": "周波数測定装置，例．パルス繰り返し率；電流または電圧の周期測定装置",
+      "en": "Arrangements for measuring frequency, e.g. pulse repetition rate; Arrangements for measuring period of current or voltage",
+      "count": 7098,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R23/04": {
+      "code": "G01R23/04",
+      "level": 2,
+      "parent": "G01R23/02",
+      "ja": "分布定数回路の測定に適応されるもの",
+      "en": "adapted for measuring in circuits having distributed constants",
+      "count": 383,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R23/06": {
+      "code": "G01R23/06",
+      "level": 2,
+      "parent": "G01R23/02",
+      "ja": "周波数を電流または電圧の振幅に変換することによるもの",
+      "en": "by converting frequency into an amplitude of current or voltage",
+      "count": 996,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R23/07": {
+      "code": "G01R23/07",
+      "level": 3,
+      "parent": "G01R23/06",
+      "ja": "共振に同調した回路のレスポンスを使用するもの，例．グリッドディップメーター［２］",
+      "en": "using response of circuits tuned on resonance, e.g. grid-drip meter",
+      "count": 147,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R23/08": {
+      "code": "G01R23/08",
+      "level": 3,
+      "parent": "G01R23/06",
+      "ja": "共振から外れた回路のレスポンスを使用するもの",
+      "en": "using response of circuits tuned off resonance",
+      "count": 96,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R23/09": {
+      "code": "G01R23/09",
+      "level": 3,
+      "parent": "G01R23/06",
+      "ja": "アナログ積分器，例．入力信号と規定量の放電信号またはリークの平衡により平均値を生ずるコンデンサ，を使用するもの［２］",
+      "en": "using analogue integrators, e.g. capacitors establishing a mean value by balance of input signals and defined discharge signals or leakage",
+      "count": 586,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R23/10": {
+      "code": "G01R23/10",
+      "level": 2,
+      "parent": "G01R23/02",
+      "ja": "周波数を計数されるパルス列に変換することによるもの",
+      "en": "by converting frequency into a train of pulses, which are then counted",
+      "count": 2678,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R23/12": {
+      "code": "G01R23/12",
+      "level": 2,
+      "parent": "G01R23/02",
+      "ja": "周波数を位相推移に変換することによるもの",
+      "en": "by converting frequency into phase shift",
+      "count": 514,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R23/14": {
+      "code": "G01R23/14",
+      "level": 2,
+      "parent": "G01R23/02",
+      "ja": "ヘテロダインによるもの；ビート周波数比較によるもの［２］",
+      "en": "by heterodyning; by beat-frequency comparison",
+      "count": 484,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R23/15": {
+      "code": "G01R23/15",
+      "level": 2,
+      "parent": "G01R23/02",
+      "ja": "パルスの周波数が所定値以上または以下，もしくは数値の所定範囲内または所定範囲外であることを，非線形またはデジタル要素を用いることによって，指示するもの［３］",
+      "en": "Indicating that frequency of pulses is either above or below a predetermined value or within or outside a predetermined range of values, by making use of non-linear or digital elements",
+      "count": 1171,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R23/16": {
+      "code": "G01R23/16",
+      "level": 1,
+      "parent": "G01R23/00",
+      "ja": "スペクトル分析；フーリェ分析",
+      "en": "Spectrum analysis; Fourier analysis",
+      "count": 8684,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R23/163": {
+      "code": "G01R23/163",
+      "level": 2,
+      "parent": "G01R23/16",
+      "ja": "分布定数回路の測定に適合したもの［３］",
+      "en": "adapted for measuring in circuits having distributed constants",
+      "count": 181,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R23/165": {
+      "code": "G01R23/165",
+      "level": 2,
+      "parent": "G01R23/16",
+      "ja": "濾波器を使用するもの［３］",
+      "en": "using filters",
+      "count": 1821,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R23/167": {
+      "code": "G01R23/167",
+      "level": 3,
+      "parent": "G01R23/165",
+      "ja": "ディジタル濾波器を有するもの［３］",
+      "en": "with digital filters",
+      "count": 598,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R23/17": {
+      "code": "G01R23/17",
+      "level": 2,
+      "parent": "G01R23/16",
+      "ja": "光学的補助装置を有するもの［３］",
+      "en": "with optical auxiliary devices",
+      "count": 449,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R23/173": {
+      "code": "G01R23/173",
+      "level": 2,
+      "parent": "G01R23/16",
+      "ja": "掃引パノラマ受信機に類似の揺動装置［３］",
+      "en": "Wobbulating devices similar to swept panoramic receivers",
+      "count": 754,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R23/175": {
+      "code": "G01R23/175",
+      "level": 2,
+      "parent": "G01R23/16",
+      "ja": "遅延手段，例．中間接点付遅延線，によるもの［３］",
+      "en": "by delay means, e.g. tapped delay lines",
+      "count": 183,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R23/177": {
+      "code": "G01R23/177",
+      "level": 2,
+      "parent": "G01R23/16",
+      "ja": "超低周波数の分析［３］",
+      "en": "Analysis of very low frequencies",
+      "count": 37,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R23/18": {
+      "code": "G01R23/18",
+      "level": 2,
+      "parent": "G01R23/16",
+      "ja": "周波数スペクトルを記録する装置をもつもの",
+      "en": "with provision for recording frequency spectrum",
+      "count": 301,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R23/20": {
+      "code": "G01R23/20",
+      "level": 2,
+      "parent": "G01R23/16",
+      "ja": "非線形歪の測定",
+      "en": "Measurement of non-linear distortion",
+      "count": 1533,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R25/00": {
+      "code": "G01R25/00",
+      "level": 0,
+      "parent": "G01R",
+      "ja": "電圧と電流間または電圧間または電流間の位相角を測定する装置［２］",
+      "en": "Arrangements for measuring phase angle between a voltage and a current or between voltages or currents",
+      "count": 8502,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R25/02": {
+      "code": "G01R25/02",
+      "level": 1,
+      "parent": "G01R25/00",
+      "ja": "分布定数回路",
+      "en": "in circuits having distributed constants",
+      "count": 214,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R25/04": {
+      "code": "G01R25/04",
+      "level": 1,
+      "parent": "G01R25/00",
+      "ja": "所定の位相差，例．零位相差，をつくる移相器の調節装置をもつもの",
+      "en": "involving adjustment of a phase shifter to produce a predetermined phase difference, e.g. zero difference",
+      "count": 841,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R25/06": {
+      "code": "G01R25/06",
+      "level": 1,
+      "parent": "G01R25/00",
+      "ja": "比率計を使うもの",
+      "en": "employing quotient instrument",
+      "count": 41,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R25/08": {
+      "code": "G01R25/08",
+      "level": 1,
+      "parent": "G01R25/00",
+      "ja": "基準パルスの計数によるもの［２］",
+      "en": "by counting of standard pulses",
+      "count": 674,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R27/00": {
+      "code": "G01R27/00",
+      "level": 0,
+      "parent": "G01R",
+      "ja": "抵抗，リアクタンス，インピーダンスまたはそれらから派生する電気的特性を測定する装置",
+      "en": "Arrangements for measuring resistance, reactance, impedance, or electric characteristics derived therefrom",
+      "count": 3713,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R27/02": {
+      "code": "G01R27/02",
+      "level": 1,
+      "parent": "G01R27/00",
+      "ja": "実数または複素抵抗，リアクタンス，インピーダンス，またはそれらから誘導される二端子特性，例．時定数，を測定するもの（位相角のみを測定することによるものＧ０１Ｒ２５／００）",
+      "en": "Measuring real or complex resistance, reactance, impedance, or other two-pole characteristics derived therefrom, e.g. time constant(by measuring phase angle only <b>G01R25/00</b>)",
+      "count": 27085,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R27/04": {
+      "code": "G01R27/04",
+      "level": 2,
+      "parent": "G01R27/02",
+      "ja": "分布定数回路におけるもの",
+      "en": "in circuits having distributed constants",
+      "count": 1521,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R27/06": {
+      "code": "G01R27/06",
+      "level": 3,
+      "parent": "G01R27/04",
+      "ja": "反射係数の測定；定在波比の測定",
+      "en": "Measuring reflection coefficients; Measuring standing-wave ratio",
+      "count": 1365,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R27/08": {
+      "code": "G01R27/08",
+      "level": 2,
+      "parent": "G01R27/02",
+      "ja": "電圧と電流を測定することによる抵抗の測定",
+      "en": "Measuring resistance by measuring both voltage and current",
+      "count": 7263,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R27/10": {
+      "code": "G01R27/10",
+      "level": 3,
+      "parent": "G01R27/08",
+      "ja": "商を形成する二コイルまたは交叉コイル計器を使用するもの",
+      "en": "using two-coil or crossed-coil instruments forming quotient",
+      "count": 57,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R27/12": {
+      "code": "G01R27/12",
+      "level": 4,
+      "parent": "G01R27/10",
+      "ja": "手動発電機を使用するもの，例．メガー",
+      "en": "using hand generators, e.g. meggers",
+      "count": 351,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R27/14": {
+      "code": "G01R27/14",
+      "level": 2,
+      "parent": "G01R27/02",
+      "ja": "参照電源から得られた電流または電圧の測定による抵抗の測定（Ｇ０１Ｒ２７／１６，Ｇ０１Ｒ２７／２０，Ｇ０１Ｒ２７／２２が優先）",
+      "en": "Measuring resistance by measuring current or voltage obtained from a reference source(<b>G01R27/16</b>, <b>G01R27/20</b>, <b>G01R27/22</b> take precedence)",
+      "count": 2558,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R27/16": {
+      "code": "G01R27/16",
+      "level": 2,
+      "parent": "G01R27/02",
+      "ja": "電流が他の電源から流れている素子または回路網，例．ケーブル，電力線，のインピーダンス測定",
+      "en": "Measuring impedance of element or network through which a current is passing from another source, e.g. cable, power line",
+      "count": 1724,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R27/18": {
+      "code": "G01R27/18",
+      "level": 3,
+      "parent": "G01R27/16",
+      "ja": "対地抵抗を測定するもの",
+      "en": "Measuring resistance to earth",
+      "count": 2769,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R27/20": {
+      "code": "G01R27/20",
+      "level": 2,
+      "parent": "G01R27/02",
+      "ja": "接地抵抗の測定；大地との接続部，例．地板，の接触抵抗の測定",
+      "en": "Measuring earth resistance; Measuring contact resistance of earth connections, e.g. plates",
+      "count": 4201,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R27/22": {
+      "code": "G01R27/22",
+      "level": 2,
+      "parent": "G01R27/02",
+      "ja": "流体の抵抗測定",
+      "en": "Measuring resistance of fluids",
+      "count": 2064,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R27/26": {
+      "code": "G01R27/26",
+      "level": 2,
+      "parent": "G01R27/02",
+      "ja": "インダクタンスまたはキャパシタンスの測定；Ｑの測定，例．共振法によるもの；損失係数の測定；誘電率の測定",
+      "en": "Measuring inductance or capacitance; Measuring quality factor, e.g. by using the resonance method; Measuring loss factor; Measuring dielectric constants",
+      "count": 18574,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R27/28": {
+      "code": "G01R27/28",
+      "level": 1,
+      "parent": "G01R27/00",
+      "ja": "減衰，利得，移相，または四端子回路網，すなわち二端子対回路網から派生する特性の測定；過渡応答の測定（有線伝送方式におけるものＨ０４Ｂ３／４６）",
+      "en": "Measuring attenuation, gain, phase shift, or derived characteristics of electric four-pole networks, i.e. two-port networks; Measuring transient response(in line transmission systems <b>H04B3/46</b>)",
+      "count": 4578,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R27/30": {
+      "code": "G01R27/30",
+      "level": 2,
+      "parent": "G01R27/28",
+      "ja": "特性を記録する装置をもつもの，例．ナイキスト線図を書くことによるもの",
+      "en": "with provision for recording characteristics, e.g. by plotting Nyquist diagram",
+      "count": 89,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R27/32": {
+      "code": "G01R27/32",
+      "level": 2,
+      "parent": "G01R27/28",
+      "ja": "分布定数回路におけるもの［２］",
+      "en": "in circuits having distributed constants",
+      "count": 1212,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R29/00": {
+      "code": "G01R29/00",
+      "level": 0,
+      "parent": "G01R",
+      "ja": "グループＧ０１Ｒ１９／００～Ｇ０１Ｒ２７／００に包含されない電気量を指示しまたは測定する装置",
+      "en": "Arrangements for measuring or indicating electric quantities not covered by groups <b>G01R19/00 to G01R27/00</b> ",
+      "count": 2954,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R29/02": {
+      "code": "G01R29/02",
+      "level": 1,
+      "parent": "G01R29/00",
+      "ja": "個々のパルスの特性，例．パルスの平坦さからのずれ，立上り時間または持続時間［２００６．０１］",
+      "en": "Measuring characteristics of individual pulses, e.g. deviation from pulse flatness, rise time or duration",
+      "count": 3410,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R29/027": {
+      "code": "G01R29/027",
+      "level": 2,
+      "parent": "G01R29/02",
+      "ja": "パルス特性が所定値以上であるかまたは以下であるか，あるいは所定の範囲内にあるかまたは範囲外にあるかの指示［３］",
+      "en": "Indicating that a pulse characteristic is either above or below a predetermined value or within or beyond a predetermined range of values",
+      "count": 859,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R29/033": {
+      "code": "G01R29/033",
+      "level": 3,
+      "parent": "G01R29/027",
+      "ja": "その発生度数の指示を与えるもの［３］",
+      "en": "giving an indication of the number of times this occurs",
+      "count": 120,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R29/04": {
+      "code": "G01R29/04",
+      "level": 1,
+      "parent": "G01R29/00",
+      "ja": "波形率の測定，すなわち実効値と算術平均の比；波高率の測定，すなわち最大値と実効値の比",
+      "en": "Measuring form factor, i.e. quotient of root-mean-square value and arithmetic mean of instantaneous value; Measuring peak factor, i.e. quotient of maximum value and root-mean-square value",
+      "count": 186,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R29/06": {
+      "code": "G01R29/06",
+      "level": 1,
+      "parent": "G01R29/00",
+      "ja": "変調度の測定",
+      "en": "Measuring depth of modulation",
+      "count": 715,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R29/08": {
+      "code": "G01R29/08",
+      "level": 1,
+      "parent": "G01R29/00",
+      "ja": "電磁界の特性測定",
+      "en": "Measuring electromagnetic field characteristics",
+      "count": 15871,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R29/10": {
+      "code": "G01R29/10",
+      "level": 2,
+      "parent": "G01R29/08",
+      "ja": "アンテナの輻射線図",
+      "en": "Radiation diagrams of antennas",
+      "count": 6152,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R29/12": {
+      "code": "G01R29/12",
+      "level": 1,
+      "parent": "G01R29/00",
+      "ja": "静電界の測定",
+      "en": "Measuring electrostatic fields",
+      "count": 5178,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R29/14": {
+      "code": "G01R29/14",
+      "level": 2,
+      "parent": "G01R29/12",
+      "ja": "電界分布の測定",
+      "en": "Measuring field distribution",
+      "count": 889,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R29/16": {
+      "code": "G01R29/16",
+      "level": 1,
+      "parent": "G01R29/00",
+      "ja": "多相回路網の非対称性の測定",
+      "en": "Measuring asymmetry of polyphase networks",
+      "count": 2185,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R29/18": {
+      "code": "G01R29/18",
+      "level": 1,
+      "parent": "G01R29/00",
+      "ja": "相順の指示；同期指示",
+      "en": "Indicating phase sequence; Indicating synchronism",
+      "count": 3345,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R29/20": {
+      "code": "G01R29/20",
+      "level": 1,
+      "parent": "G01R29/00",
+      "ja": "巻数の測定；変成比または巻線の結合係数の測定",
+      "en": "Measuring number of turns; Measuring transformation ratio or coupling factor of windings",
+      "count": 743,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R29/22": {
+      "code": "G01R29/22",
+      "level": 1,
+      "parent": "G01R29/00",
+      "ja": "圧電特性の測定",
+      "en": "Measuring piezoelectric properties",
+      "count": 1026,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R29/24": {
+      "code": "G01R29/24",
+      "level": 1,
+      "parent": "G01R29/00",
+      "ja": "電荷量測定装置［２］",
+      "en": "Arrangements for measuring quantities of charge",
+      "count": 3203,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R29/26": {
+      "code": "G01R29/26",
+      "level": 1,
+      "parent": "G01R29/00",
+      "ja": "雑音指数の測定；信号対雑音比の測定［２］",
+      "en": "Measuring noise figure; Measuring signal-to-noise ratio",
+      "count": 2832,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/00": {
+      "code": "G01R31/00",
+      "level": 0,
+      "parent": "G01R",
+      "ja": "電気的性質を試験するための装置；電気的故障の位置を示すための装置；試験対象に特徴のある電気的試験用の装置で，他に分類されないもの（製造中に半導体装置または固体装置を試験もしくは測定するものＨ１０Ｐ７４／００；有線伝送方式の試験Ｈ０４Ｂ３／４６）［２００６．０１］<br><br><b><ul>注</ul></b><br>注［２０２０．０１］<br>グループＧ０１Ｒ３１／０８，Ｇ０１Ｒ３１／１２，Ｇ０１Ｒ３１／３２７，Ｇ０１Ｒ３１／２４，Ｇ０１Ｒ３１／２６，Ｇ０１Ｒ３１／３４，Ｇ０１Ｒ３１／３６，Ｇ０１Ｒ３１／４０，Ｇ０１Ｒ３１／４４はグループＧ０１Ｒ３１／５０が優先。",
+      "en": "Arrangements for testing electric properties; Arrangements for locating electric faults; Arrangements for electrical testing characterised by what is being tested not provided for elsewhere (testing or measuring semiconductors or solid state devices during manufacture <b>H10P74/00</b>;  testing line transmission systems <b>H04B3/46</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>Groups <b>G01R31/08</b>, <b>G01R31/12</b>, <b>G01R31/24</b>, <b>G01R31/26</b>, <b>G01R31/327</b>, <b>G01R31/34</b>, <b>G01R31/36</b>, <b>G01R31/40</b>, <b>G01R31/44</b> take precedence over group <b>G01R31/50</b>.</li></ul>",
+      "count": 113642,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/01": {
+      "code": "G01R31/01",
+      "level": 1,
+      "parent": "G01R31/00",
+      "ja": "類似の物品を順次に試験するもの，例．大量生産における“合格／不合格”試験；対象物が試験場所を通過する際に試験を行うもの（試験装置を連続的に通過するケーブルの試験Ｇ０１Ｒ３１／５９；絶縁耐力または破壊電圧の試験Ｇ０１Ｒ３１／１２　）［２０２０．０１］",
+      "en": "Subjecting similar articles in turn to test, e.g. \"go/no-go\" tests in mass production; Testing objects at points as they pass through a testing station  (testing of cables continuously passing the testing apparatus <b>G01R31/59</b>; testing dielectric strength or breakdown voltage <b>G01R31/12</b>)",
+      "count": 5430,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/08": {
+      "code": "G01R31/08",
+      "level": 1,
+      "parent": "G01R31/00",
+      "ja": "ケーブル，伝送線，または回路網の故障個所の検出［２０２０．０１］",
+      "en": "Locating faults in cables, transmission lines, or networks",
+      "count": 44938,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/10": {
+      "code": "G01R31/10",
+      "level": 2,
+      "parent": "G01R31/08",
+      "ja": "故障点の破壊を増大させることによるもの，例．特殊なプログラムを働かすパルスの発生器を使用して燃焼させるもの［２００６．０１］",
+      "en": "by increasing destruction at fault, e.g. burning-in by using a pulse generator operating a special programme",
+      "count": 282,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/11": {
+      "code": "G01R31/11",
+      "level": 2,
+      "parent": "G01R31/08",
+      "ja": "パルス反射法を用いるもの",
+      "en": "using pulse-reflection methods",
+      "count": 1902,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/12": {
+      "code": "G01R31/12",
+      "level": 1,
+      "parent": "G01R31/00",
+      "ja": "絶縁耐力または破壊電圧の試験［２０２０．０１］",
+      "en": "Testing dielectric strength or breakdown voltage",
+      "count": 45061,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/14": {
+      "code": "G01R31/14",
+      "level": 2,
+      "parent": "G01R31/12",
+      "ja": "そのための回路",
+      "en": "Circuits therefor",
+      "count": 4209,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/16": {
+      "code": "G01R31/16",
+      "level": 2,
+      "parent": "G01R31/12",
+      "ja": "試験容器の構造；そのための電極",
+      "en": "Construction of testing vessels; Electrodes therefor",
+      "count": 1607,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/18": {
+      "code": "G01R31/18",
+      "level": 2,
+      "parent": "G01R31/12",
+      "ja": "類似物品を順次に試験するもの，例．大量生産における“合格／不合格”試験",
+      "en": "Subjecting similar articles in turn to test, e.g. \"go/no-go\" tests in mass production",
+      "count": 1055,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/20": {
+      "code": "G01R31/20",
+      "level": 2,
+      "parent": "G01R31/12",
+      "ja": "試験を容易にするための物品または標本の準備",
+      "en": "Preparation of articles or specimens to facilitate testing",
+      "count": 1221,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/24": {
+      "code": "G01R31/24",
+      "level": 1,
+      "parent": "G01R31/00",
+      "ja": "放電管の試験（製造中のものＨ０１Ｊ９／４２）［２０２０．０１］",
+      "en": "Testing of discharge tubes(during manufacture <b>H01J9/42</b>)",
+      "count": 800,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/25": {
+      "code": "G01R31/25",
+      "level": 2,
+      "parent": "G01R31/24",
+      "ja": "真空管の試験［２］",
+      "en": "Testing of vacuum tubes",
+      "count": 672,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/26": {
+      "code": "G01R31/26",
+      "level": 1,
+      "parent": "G01R31/00",
+      "ja": "個々の半導体装置の試験（製造中または処理中の試験または測定Ｈ１０Ｐ７４／００；光電圧装置の試験Ｈ０２Ｓ５０／１０）［２０２０．０１］",
+      "en": "Testing of individual semiconductor devices (testing or measuring during manufacture or treatment <b>H10P74/00</b>;  testing of photovoltaic devices <b>H02S50/10</b>)",
+      "count": 53339,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/265": {
+      "code": "G01R31/265",
+      "level": 2,
+      "parent": "G01R31/26",
+      "ja": "非接触試験［６］",
+      "en": "Contactless testing",
+      "count": 984,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/27": {
+      "code": "G01R31/27",
+      "level": 2,
+      "parent": "G01R31/26",
+      "ja": "回路の一部を形成している素子の回路から物理的に取り外さないままの，例．周囲の要素からの影響を補正した，試験［６］",
+      "en": "Testing of devices without physical removal from the circuit of which they form part, e.g. compensating for effects due to surrounding elements",
+      "count": 982,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/28": {
+      "code": "G01R31/28",
+      "level": 1,
+      "parent": "G01R31/00",
+      "ja": "電子回路の試験，例．シグナルトレーサーによるもの（待機作動中または遊休時間中のコンピュータの検査Ｇ０６Ｆ１１／２２）",
+      "en": "Testing of electronic circuits, e.g. by signal tracer(testing computers during standby operation or idle time <b>G06F11/22</b>)",
+      "count": 94934,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/30": {
+      "code": "G01R31/30",
+      "level": 2,
+      "parent": "G01R31/28",
+      "ja": "限界試験，例．供給電圧を変えることによるもの（待機作動中または遊休時間中のコンピュータの検査Ｇ０６Ｆ１１／２２）［２］",
+      "en": "Marginal testing, e.g. by varying supply voltage(testing computers during standby operation or idle time <b>G06F11/22</b>)",
+      "count": 3351,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/302": {
+      "code": "G01R31/302",
+      "level": 2,
+      "parent": "G01R31/28",
+      "ja": "非接触試験［５］",
+      "en": "Contactless testing",
+      "count": 3093,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/303": {
+      "code": "G01R31/303",
+      "level": 3,
+      "parent": "G01R31/302",
+      "ja": "集積回路におけるもの（Ｇ０１Ｒ３１／３０５～Ｇ０１Ｒ３１／３１５が優先）［６］",
+      "en": "of integrated circuits(<b>G01R31/305 to G01R31/315</b>  take precedence)",
+      "count": 701,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/304": {
+      "code": "G01R31/304",
+      "level": 3,
+      "parent": "G01R31/302",
+      "ja": "プリント回路またはハイブリッド回路におけるもの（Ｇ０１Ｒ３１／３０５～Ｇ０１Ｒ３１／３１５が優先）［６］",
+      "en": "of printed or hybrid circuits(<b>G01R31/305 to G01R31/315</b>  take precedence)",
+      "count": 269,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/305": {
+      "code": "G01R31/305",
+      "level": 3,
+      "parent": "G01R31/302",
+      "ja": "電子ビームを用いるもの［５］",
+      "en": "using electron beams",
+      "count": 461,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/306": {
+      "code": "G01R31/306",
+      "level": 4,
+      "parent": "G01R31/305",
+      "ja": "プリント回路またはハイブリッド回路におけるもの［６］",
+      "en": "of printed or hybrid circuits",
+      "count": 88,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/307": {
+      "code": "G01R31/307",
+      "level": 4,
+      "parent": "G01R31/305",
+      "ja": "集積回路におけるもの［６］",
+      "en": "of integrated circuits",
+      "count": 406,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/308": {
+      "code": "G01R31/308",
+      "level": 3,
+      "parent": "G01R31/302",
+      "ja": "非イオン電磁放射，例．光線，を用いるもの［５］",
+      "en": "using non-ionising electromagnetic radiation, e.g. optical radiation",
+      "count": 854,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/309": {
+      "code": "G01R31/309",
+      "level": 4,
+      "parent": "G01R31/308",
+      "ja": "プリント回路またはハイブリッド回路におけるもの［６］",
+      "en": "of printed or hybrid circuits",
+      "count": 420,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/311": {
+      "code": "G01R31/311",
+      "level": 4,
+      "parent": "G01R31/308",
+      "ja": "集積回路におけるもの［６］",
+      "en": "of integrated circuits",
+      "count": 891,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/312": {
+      "code": "G01R31/312",
+      "level": 3,
+      "parent": "G01R31/302",
+      "ja": "容量法によるもの［５］",
+      "en": "by capacitive methods",
+      "count": 257,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/315": {
+      "code": "G01R31/315",
+      "level": 3,
+      "parent": "G01R31/302",
+      "ja": "誘導法によるもの［５］",
+      "en": "by inductive methods",
+      "count": 144,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/316": {
+      "code": "G01R31/316",
+      "level": 2,
+      "parent": "G01R31/28",
+      "ja": "アナログ回路の試験［６］",
+      "en": "Testing of analog circuits",
+      "count": 1852,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/3161": {
+      "code": "G01R31/3161",
+      "level": 3,
+      "parent": "G01R31/316",
+      "ja": "限界試験［６］",
+      "en": "Marginal testing",
+      "count": 81,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/3163": {
+      "code": "G01R31/3163",
+      "level": 3,
+      "parent": "G01R31/316",
+      "ja": "機能試験［６］",
+      "en": "Functional testing",
+      "count": 165,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/3167": {
+      "code": "G01R31/3167",
+      "level": 2,
+      "parent": "G01R31/28",
+      "ja": "アナログデジタル混在回路の試験［６］",
+      "en": "Testing of combined analog and digital circuits",
+      "count": 585,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/317": {
+      "code": "G01R31/317",
+      "level": 2,
+      "parent": "G01R31/28",
+      "ja": "デジタル回路の試験［６］",
+      "en": "Testing of digital circuits",
+      "count": 7415,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/3173": {
+      "code": "G01R31/3173",
+      "level": 3,
+      "parent": "G01R31/317",
+      "ja": "限界試験［６］",
+      "en": "Marginal testing",
+      "count": 104,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/3177": {
+      "code": "G01R31/3177",
+      "level": 3,
+      "parent": "G01R31/317",
+      "ja": "論理回路の試験，例．ロジック・アナライザによるもの［６］",
+      "en": "Testing of logic operation, e.g. by logic analysers",
+      "count": 2571,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/3181": {
+      "code": "G01R31/3181",
+      "level": 3,
+      "parent": "G01R31/317",
+      "ja": "機能試験（Ｇ０１Ｒ３１／３１７７が優先）［６］",
+      "en": "Functional testing(<b>G01R31/3177</b> takes precedence)",
+      "count": 1158,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/3183": {
+      "code": "G01R31/3183",
+      "level": 4,
+      "parent": "G01R31/3181",
+      "ja": "試験入力，例．テストベクトル，パターンまたはシーケンス，の発生［６］",
+      "en": "Generation of test inputs, e.g. test vectors, patterns or sequences",
+      "count": 5339,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/3185": {
+      "code": "G01R31/3185",
+      "level": 4,
+      "parent": "G01R31/3181",
+      "ja": "試験のための構成変更，例．ＬＳＳＤ，回路分割［６］",
+      "en": "Reconfiguring for testing, e.g. LSSD, partitioning",
+      "count": 6385,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/3187": {
+      "code": "G01R31/3187",
+      "level": 4,
+      "parent": "G01R31/3181",
+      "ja": "ビルトインテスト［６］",
+      "en": "Built-in tests",
+      "count": 1013,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/319": {
+      "code": "G01R31/319",
+      "level": 4,
+      "parent": "G01R31/3181",
+      "ja": "テスターハードウエア，すなわち，出力処理回路［６］",
+      "en": "Tester hardware, i.e. output processing circuits",
+      "count": 4914,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/3193": {
+      "code": "G01R31/3193",
+      "level": 5,
+      "parent": "G01R31/319",
+      "ja": "実際のレスポンスと既知の正確なレスポンスとの比較によるもの［６］",
+      "en": "with comparison between actual response and known fault-free response",
+      "count": 1077,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/327": {
+      "code": "G01R31/327",
+      "level": 1,
+      "parent": "G01R31/00",
+      "ja": "回路電流断続器，スイッチまたは回路遮断器の試験［６］",
+      "en": "Testing of circuit interrupters, switches or circuit-breakers",
+      "count": 26014,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/333": {
+      "code": "G01R31/333",
+      "level": 2,
+      "parent": "G01R31/327",
+      "ja": "高電圧回路遮断器の開閉容量の試験［６］",
+      "en": "Testing of the switching capacity of high-voltage circuit-breakers",
+      "count": 1688,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/34": {
+      "code": "G01R31/34",
+      "level": 1,
+      "parent": "G01R31/00",
+      "ja": "発電機，電動機の試験［２０２０．０１］",
+      "en": "Testing dynamo-electric machines",
+      "count": 26282,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/36": {
+      "code": "G01R31/36",
+      "level": 1,
+      "parent": "G01R31/00",
+      "ja": "蓄電池または電池の電気的状態，例．容量または充電状態［ＳｏＣ］，の試験，測定または監視のための装置［２０２０．０１］",
+      "en": "Arrangements for testing, measuring or monitoring the electrical condition of accumulators or electric batteries, e.g. capacity or state of charge [SoC]",
+      "count": 41021,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/364": {
+      "code": "G01R31/364",
+      "level": 2,
+      "parent": "G01R31/36",
+      "ja": "測定装置と一体化されたバッテリーターミナルコネクタ［２０１９．０１］",
+      "en": "Battery terminal connectors with integrated measuring arrangements",
+      "count": 1209,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/367": {
+      "code": "G01R31/367",
+      "level": 2,
+      "parent": "G01R31/36",
+      "ja": "試験，測定または監視のためのソフトウェア，例．電池試験のためのモデリングまたはルックアップテーブルを用いるもの［２０１９．０１］",
+      "en": "Software therefor, e.g. for battery testing using modelling or look-up tables",
+      "count": 15905,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/371": {
+      "code": "G01R31/371",
+      "level": 2,
+      "parent": "G01R31/36",
+      "ja": "遠隔表示をともなうもの，例．外部充電器で表示するもの［２０１９．０１］",
+      "en": "with remote indication, e.g. on external chargers",
+      "count": 1660,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/374": {
+      "code": "G01R31/374",
+      "level": 2,
+      "parent": "G01R31/36",
+      "ja": "温度または経年変化に応じて測定値を補正する手段を有するもの［２０１９．０１］",
+      "en": "with means for correcting the measurement for temperature or ageing",
+      "count": 2428,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/378": {
+      "code": "G01R31/378",
+      "level": 2,
+      "parent": "G01R31/36",
+      "ja": "電池または蓄電池の種類に特に適合したもの［２０１９．０１］",
+      "en": "specially adapted for the type of battery or accumulator",
+      "count": 6807,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/379": {
+      "code": "G01R31/379",
+      "level": 3,
+      "parent": "G01R31/378",
+      "ja": "鉛蓄電池に特に適合したもの［２０１９．０１］",
+      "en": "for lead-acid batteries",
+      "count": 539,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/382": {
+      "code": "G01R31/382",
+      "level": 2,
+      "parent": "G01R31/36",
+      "ja": "電池または蓄電池の変量を監視するための装置，例．ＳｏＣ［２０１９．０１］",
+      "en": "Arrangements for monitoring battery or accumulator variables, e.g. SoC",
+      "count": 11653,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/3828": {
+      "code": "G01R31/3828",
+      "level": 3,
+      "parent": "G01R31/382",
+      "ja": "電流積算を用いるもの［２０１９．０１］",
+      "en": "using current integration",
+      "count": 1030,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/3832": {
+      "code": "G01R31/3832",
+      "level": 4,
+      "parent": "G01R31/3828",
+      "ja": "電池電圧を測定しないもの［２０１９．０１］",
+      "en": "without measurement of battery voltage",
+      "count": 433,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/3835": {
+      "code": "G01R31/3835",
+      "level": 3,
+      "parent": "G01R31/382",
+      "ja": "電圧の測定のみによるもの［２０１９．０１］",
+      "en": "involving only voltage measurements",
+      "count": 3401,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/3842": {
+      "code": "G01R31/3842",
+      "level": 3,
+      "parent": "G01R31/382",
+      "ja": "電圧と電流の測定を組み合わせるもの（Ｇ０１Ｒ３１／３８２８が優先）［２０１９．０１］",
+      "en": "combining voltage and current measurements ",
+      "count": 4301,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/385": {
+      "code": "G01R31/385",
+      "level": 2,
+      "parent": "G01R31/36",
+      "ja": "電池または蓄電池の変量を測定するための装置（監視用Ｇ０１Ｒ３１／３８２）［２０１９．０１］",
+      "en": "Arrangements for measuring battery or accumulator variables (for monitoring <b>G01R31/382</b>)",
+      "count": 18682,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/387": {
+      "code": "G01R31/387",
+      "level": 3,
+      "parent": "G01R31/385",
+      "ja": "充電容量［Ａｈ］またはＳｏＣの判定［２０１９．０１］",
+      "en": "Determining ampere-hour charge capacity or SoC",
+      "count": 6255,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/388": {
+      "code": "G01R31/388",
+      "level": 4,
+      "parent": "G01R31/387",
+      "ja": "電圧の測定を含むもの［２０１９．０１］",
+      "en": "involving voltage measurements",
+      "count": 4123,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/389": {
+      "code": "G01R31/389",
+      "level": 2,
+      "parent": "G01R31/36",
+      "ja": "内部インピーダンス，内部導電率または関連する変量の測定［２０１９．０１］",
+      "en": "Measuring internal impedance, internal conductance or related variables",
+      "count": 9301,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/392": {
+      "code": "G01R31/392",
+      "level": 2,
+      "parent": "G01R31/36",
+      "ja": "電池の経年変化または劣化の判定，例．ＳｏＨ［２０１９．０１］",
+      "en": "Determining battery ageing or deterioration, e.g. state of health",
+      "count": 15111,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/396": {
+      "code": "G01R31/396",
+      "level": 2,
+      "parent": "G01R31/36",
+      "ja": "電池内の個々のセルまたはセルのグループを試験または監視するためのデータの取得または処理［２０１９．０１］",
+      "en": "Acquisition or processing of data for testing or for monitoring individual cells or groups of cells within a battery",
+      "count": 10634,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/40": {
+      "code": "G01R31/40",
+      "level": 1,
+      "parent": "G01R31/00",
+      "ja": "電源の試験（光電圧装置の試験Ｈ０２Ｓ５０／１０）［２０２０．０１］",
+      "en": "Testing power supplies(testing photovoltaic devices <b>H02S50/10</b>)",
+      "count": 12118,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/42": {
+      "code": "G01R31/42",
+      "level": 2,
+      "parent": "G01R31/40",
+      "ja": "ＡＣ電源［６］",
+      "en": "AC power supplies",
+      "count": 2251,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/44": {
+      "code": "G01R31/44",
+      "level": 1,
+      "parent": "G01R31/00",
+      "ja": "ランプの試験［２０２０．０１］",
+      "en": "Testing lamps",
+      "count": 5978,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/50": {
+      "code": "G01R31/50",
+      "level": 1,
+      "parent": "G01R31/00",
+      "ja": "短絡，導通，漏電または誤配線のための電気機器，導電線，ケーブルまたは構成要素の試験（スパークプラグの試験Ｈ０１Ｔ１３／５８）［２０２０．０１］",
+      "en": "Testing of electric apparatus, lines, cables or components for short-circuits, continuity, leakage current or incorrect line connections(testing of sparking plugs <b>H01T13/58</b>)",
+      "count": 6010,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/52": {
+      "code": "G01R31/52",
+      "level": 2,
+      "parent": "G01R31/50",
+      "ja": "短絡，漏電または地絡のための試験［２０２０．０１］",
+      "en": "Testing for short-circuits, leakage current or ground faults",
+      "count": 21824,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/54": {
+      "code": "G01R31/54",
+      "level": 2,
+      "parent": "G01R31/50",
+      "ja": "導通のための試験［２０２０．０１］",
+      "en": "Testing for continuity",
+      "count": 7743,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/55": {
+      "code": "G01R31/55",
+      "level": 2,
+      "parent": "G01R31/50",
+      "ja": "誤配線のための試験［２０２０．０１］",
+      "en": "Testing for incorrect line connections",
+      "count": 1234,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/56": {
+      "code": "G01R31/56",
+      "level": 2,
+      "parent": "G01R31/50",
+      "ja": "電気機器の試験（変圧器の試験Ｇ０１Ｒ３１／６２，接続部の試験Ｇ０１Ｒ３１／６６）［２０２０．０１］",
+      "en": "Testing of electric apparatus(testing of transformers <b>G01R31/62</b>; testing of connections <b>G01R31/66</b>)",
+      "count": 3207,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/58": {
+      "code": "G01R31/58",
+      "level": 2,
+      "parent": "G01R31/50",
+      "ja": "導電線，ケーブルまたは導体の試験（電気巻線の試験Ｇ０１Ｒ３１／７２）［２０２０．０１］",
+      "en": "Testing of lines, cables or conductors(testing of electric windings <b>G01R31/72</b>)",
+      "count": 8085,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/59": {
+      "code": "G01R31/59",
+      "level": 3,
+      "parent": "G01R31/58",
+      "ja": "ケーブルが試験装置を連続的に通過する間，例．製造中，の試験［２０２０．０１］",
+      "en": "while the cable continuously passes the testing apparatus, e.g. during manufacture",
+      "count": 130,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/60": {
+      "code": "G01R31/60",
+      "level": 3,
+      "parent": "G01R31/58",
+      "ja": "多芯ケーブル中のワイヤの識別［２０２０．０１］",
+      "en": "Identification of wires in a multicore cable",
+      "count": 509,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/62": {
+      "code": "G01R31/62",
+      "level": 2,
+      "parent": "G01R31/50",
+      "ja": "変圧器の試験［２０２０．０１］",
+      "en": "Testing of transformers",
+      "count": 3635,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/64": {
+      "code": "G01R31/64",
+      "level": 2,
+      "parent": "G01R31/50",
+      "ja": "キャパシタの試験［２０２０．０１］",
+      "en": "Testing of capacitors",
+      "count": 726,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/66": {
+      "code": "G01R31/66",
+      "level": 2,
+      "parent": "G01R31/50",
+      "ja": "接続部，例．プラグまたは切り離しのできないジョイント，の試験（誤配線のための試験Ｇ０１Ｒ３１／５５）［２０２０．０１］",
+      "en": "Testing of connections, e.g. of plugs or non-disconnectable joints (testing for incorrect line connections <b>G01R31/55</b>)",
+      "count": 2829,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/67": {
+      "code": "G01R31/67",
+      "level": 3,
+      "parent": "G01R31/66",
+      "ja": "電気機器または回路内のワイヤ接続の正しさの試験［２０２０．０１］",
+      "en": "Testing the correctness of wire connections in electric apparatus or circuits  ",
+      "count": 990,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/68": {
+      "code": "G01R31/68",
+      "level": 3,
+      "parent": "G01R31/66",
+      "ja": "取外し可能な接続部，例．プリント回路基板上に取り付けられた端子，の試験［２０２０．０１］",
+      "en": "Testing of releasable connections, e.g. of terminals mounted on a printed circuit board",
+      "count": 994,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/69": {
+      "code": "G01R31/69",
+      "level": 4,
+      "parent": "G01R31/68",
+      "ja": "ケーブルまたはワイヤハーネスの終端の端子の試験；プラグの試験；ソケット，例．壁付けソケットまたは電気機器における電源ソケット，の試験［２０２０．０１］",
+      "en": "of terminals at the end of a cable or a wire harness; of plugs; of sockets, e.g. wall sockets or power sockets in appliances",
+      "count": 1958,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/70": {
+      "code": "G01R31/70",
+      "level": 3,
+      "parent": "G01R31/66",
+      "ja": "構成要素とプリント回路基板との間の接続部の試験（Ｇ０１Ｒ３１／６８が優先）［２０２０．０１］",
+      "en": "Testing of connections between components and printed circuit boards(<b>G01R31/68</b> takes precedence)",
+      "count": 152,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/71": {
+      "code": "G01R31/71",
+      "level": 4,
+      "parent": "G01R31/70",
+      "ja": "はんだ接合部の試験［２０２０．０１］",
+      "en": "Testing of solder joints",
+      "count": 128,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/72": {
+      "code": "G01R31/72",
+      "level": 2,
+      "parent": "G01R31/50",
+      "ja": "電気巻き線の試験（変圧器の試験Ｇ０１Ｒ３１／６２）［２０２０．０１］",
+      "en": "Testing of electric windings (testing of transformers <b>G01R31/62</b>)",
+      "count": 2454,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R31/74": {
+      "code": "G01R31/74",
+      "level": 2,
+      "parent": "G01R31/50",
+      "ja": "ヒューズの試験［２０２０．０１］",
+      "en": "Testing of fuses",
+      "count": 912,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R33/00": {
+      "code": "G01R33/00",
+      "level": 0,
+      "parent": "G01R",
+      "ja": "磁気的変量を測定する計器または装置",
+      "en": "Arrangements or instruments for measuring magnetic variables",
+      "count": 7302,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R33/02": {
+      "code": "G01R33/02",
+      "level": 1,
+      "parent": "G01R33/00",
+      "ja": "磁界または磁束の方向または大きさの測定（Ｇ０１Ｒ３３／２０が優先）［４］",
+      "en": "Measuring direction or magnitude of magnetic fields or magnetic flux(<b>G01R33/20</b> takes precedence)",
+      "count": 13855,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R33/022": {
+      "code": "G01R33/022",
+      "level": 2,
+      "parent": "G01R33/02",
+      "ja": "傾度の測定［３］<br><br><b><ul>注</ul></b><br>グループ３３／０２２または３３／１０はグループ３３／０２５～３３／０６に優先する。",
+      "en": "Measuring gradient",
+      "count": 800,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R33/025": {
+      "code": "G01R33/025",
+      "level": 2,
+      "parent": "G01R33/02",
+      "ja": "浮遊磁界の補償［３］",
+      "en": "Compensating stray fields",
+      "count": 572,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R33/028": {
+      "code": "G01R33/028",
+      "level": 2,
+      "parent": "G01R33/02",
+      "ja": "電気力学的磁力計［３］",
+      "en": "Electrodynamic magnetometers",
+      "count": 819,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R33/032": {
+      "code": "G01R33/032",
+      "level": 2,
+      "parent": "G01R33/02",
+      "ja": "磁気光学装置，例．ファラデー，を使用するもの［３］",
+      "en": "using magneto-optic devices, e.g. Faraday",
+      "count": 3497,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R33/035": {
+      "code": "G01R33/035",
+      "level": 2,
+      "parent": "G01R33/02",
+      "ja": "超電導装置を使用するもの［３］",
+      "en": "using superconductive devices",
+      "count": 2605,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R33/038": {
+      "code": "G01R33/038",
+      "level": 2,
+      "parent": "G01R33/02",
+      "ja": "永久磁石を使うもの，例．天秤，ねじり装置［３］",
+      "en": "using permanent magnets, e.g. balances, torsion devices",
+      "count": 662,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R33/04": {
+      "code": "G01R33/04",
+      "level": 2,
+      "parent": "G01R33/02",
+      "ja": "フラックスゲート法を使うもの",
+      "en": "using the flux-gate principle",
+      "count": 1718,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R33/05": {
+      "code": "G01R33/05",
+      "level": 3,
+      "parent": "G01R33/04",
+      "ja": "薄膜素子によるもの［３］",
+      "en": "in thin-film element",
+      "count": 352,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R33/06": {
+      "code": "G01R33/06",
+      "level": 2,
+      "parent": "G01R33/02",
+      "ja": "電流磁気装置を使用するもの",
+      "en": "using galvano-magnetic devices",
+      "count": 3113,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R33/07": {
+      "code": "G01R33/07",
+      "level": 3,
+      "parent": "G01R33/06",
+      "ja": "ホール効果装置を使用するもの［６］",
+      "en": "Hall-effect devices",
+      "count": 5733,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R33/09": {
+      "code": "G01R33/09",
+      "level": 3,
+      "parent": "G01R33/06",
+      "ja": "磁気抵抗装置を使用するもの［６］",
+      "en": "Magneto-resistive devices",
+      "count": 8855,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R33/10": {
+      "code": "G01R33/10",
+      "level": 2,
+      "parent": "G01R33/02",
+      "ja": "磁界分布をプロットするもの",
+      "en": "Plotting field distribution",
+      "count": 1302,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R33/12": {
+      "code": "G01R33/12",
+      "level": 1,
+      "parent": "G01R33/00",
+      "ja": "物品または固体もしくは流体の標本の磁気的性質の測定（磁気共鳴を含むものＧ０１Ｒ３３／２０）［４］",
+      "en": "Measuring magnetic properties of articles or specimens of solids or fluids(involving magnetic resonance <b>G01R33/20</b>)",
+      "count": 10147,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R33/14": {
+      "code": "G01R33/14",
+      "level": 2,
+      "parent": "G01R33/12",
+      "ja": "ヒステリシスカーブの測定またはプロット",
+      "en": "Measuring or plotting hysteresis curves",
+      "count": 751,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R33/16": {
+      "code": "G01R33/16",
+      "level": 2,
+      "parent": "G01R33/12",
+      "ja": "磁化率の測定",
+      "en": "Measuring susceptibility",
+      "count": 572,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R33/18": {
+      "code": "G01R33/18",
+      "level": 2,
+      "parent": "G01R33/12",
+      "ja": "磁歪特性の測定",
+      "en": "Measuring magnetostrictive properties",
+      "count": 402,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R33/20": {
+      "code": "G01R33/20",
+      "level": 1,
+      "parent": "G01R33/00",
+      "ja": "磁気共鳴をともなうもの（医療用Ａ６１Ｂ５／０５５；磁気共鳴ジャイロメータＧ０１Ｃ１９／６０）［４，５］",
+      "en": "involving magnetic resonance(medical aspects <b>A61B5/055</b>; magnetic resonance gyrometers <b>G01C19/60</b>)",
+      "count": 2459,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R33/24": {
+      "code": "G01R33/24",
+      "level": 2,
+      "parent": "G01R33/20",
+      "ja": "磁界または磁束の方向または大きさを測定するためのもの［４］",
+      "en": "for measuring direction or magnitude of magnetic fields or magnetic flux",
+      "count": 1214,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R33/26": {
+      "code": "G01R33/26",
+      "level": 3,
+      "parent": "G01R33/24",
+      "ja": "オプティカルポンピングを使用するもの［４］",
+      "en": "using optical pumping",
+      "count": 1046,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R33/28": {
+      "code": "G01R33/28",
+      "level": 2,
+      "parent": "G01R33/20",
+      "ja": "グループＧ０１Ｒ３３／４４～Ｇ０１Ｒ３３／６４に分類される装置の細部［５］",
+      "en": "Details of apparatus provided for in groups <b>G01R33/44 to G01R33/64</b> ",
+      "count": 5759,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R33/30": {
+      "code": "G01R33/30",
+      "level": 3,
+      "parent": "G01R33/28",
+      "ja": "試料取扱い装置，例．試料セル，回転機構［５］",
+      "en": "Sample handling arrangements, e.g. sample cells, spinning mechanisms",
+      "count": 1881,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R33/31": {
+      "code": "G01R33/31",
+      "level": 4,
+      "parent": "G01R33/30",
+      "ja": "その温度制御［６］",
+      "en": "Temperature control thereof",
+      "count": 388,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R33/32": {
+      "code": "G01R33/32",
+      "level": 3,
+      "parent": "G01R33/28",
+      "ja": "励起または検出システム，例．高周波を使用するもの［５］",
+      "en": "Excitation or detection systems, e.g. using radiofrequency signals",
+      "count": 3432,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R33/34": {
+      "code": "G01R33/34",
+      "level": 4,
+      "parent": "G01R33/32",
+      "ja": "構造的細部，例．共振器［５］",
+      "en": "Constructional details, e.g. resonators",
+      "count": 4818,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R33/341": {
+      "code": "G01R33/341",
+      "level": 5,
+      "parent": "G01R33/34",
+      "ja": "表面コイルからなるもの［６］",
+      "en": "comprising surface coils",
+      "count": 1178,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R33/3415": {
+      "code": "G01R33/3415",
+      "level": 6,
+      "parent": "G01R33/341",
+      "ja": "サブコイルの配列からなるもの［６］",
+      "en": "comprising arrays of sub-coils",
+      "count": 1296,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R33/343": {
+      "code": "G01R33/343",
+      "level": 5,
+      "parent": "G01R33/34",
+      "ja": "スリットを有するものまたはループギャップ型のもの［６］",
+      "en": "of slotted-tube or loop-gap type",
+      "count": 126,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R33/345": {
+      "code": "G01R33/345",
+      "level": 5,
+      "parent": "G01R33/34",
+      "ja": "導波管型のもの（Ｇ０１Ｒ３３／３４３が優先）［６］",
+      "en": "of waveguide type(<b>G01R33/343</b> takes precedence)",
+      "count": 272,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R33/36": {
+      "code": "G01R33/36",
+      "level": 4,
+      "parent": "G01R33/32",
+      "ja": "電気的細部，例．コイルと受信器との整合または結合［５］",
+      "en": "Electrical details, e.g. matching or coupling of the coil to the receiver",
+      "count": 4752,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R33/38": {
+      "code": "G01R33/38",
+      "level": 3,
+      "parent": "G01R33/28",
+      "ja": "主磁場または傾斜磁場の発生，均質化または安定化のためのシステム［５］<br><br><b><ul>注</ul></b><br>グループ３３／３８５～３３／３８９はグループ３３／３８１～３３／３８３に優先する。［６］",
+      "en": "Systems for generation, homogenisation or stabilisation of the main or gradient magnetic field",
+      "count": 2892,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R33/381": {
+      "code": "G01R33/381",
+      "level": 4,
+      "parent": "G01R33/38",
+      "ja": "電磁石を使用するもの［６］",
+      "en": "using electromagnets",
+      "count": 585,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R33/3815": {
+      "code": "G01R33/3815",
+      "level": 5,
+      "parent": "G01R33/381",
+      "ja": "超電導コイルを有するもの，例．そのための電源［６］",
+      "en": "with superconducting coils, e.g. power supply therefor",
+      "count": 1943,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R33/383": {
+      "code": "G01R33/383",
+      "level": 4,
+      "parent": "G01R33/38",
+      "ja": "永久磁石を使用するもの［６］",
+      "en": "using permanent magnets",
+      "count": 1092,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R33/385": {
+      "code": "G01R33/385",
+      "level": 4,
+      "parent": "G01R33/38",
+      "ja": "傾斜磁場コイルを使用するもの［６］",
+      "en": "using gradient magnetic field coils",
+      "count": 3025,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R33/387": {
+      "code": "G01R33/387",
+      "level": 4,
+      "parent": "G01R33/38",
+      "ja": "磁場の不均一性の補償［６］",
+      "en": "Compensation of inhomogeneities",
+      "count": 639,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R33/3873": {
+      "code": "G01R33/3873",
+      "level": 5,
+      "parent": "G01R33/387",
+      "ja": "強磁性体を使用するもの［６］",
+      "en": "using ferromagnetic bodies",
+      "count": 563,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R33/3875": {
+      "code": "G01R33/3875",
+      "level": 5,
+      "parent": "G01R33/387",
+      "ja": "補正コイル組み立て体を用いるもの，例．能動シム［６］",
+      "en": "using correction coil assemblies, e.g. active shimming",
+      "count": 931,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R33/389": {
+      "code": "G01R33/389",
+      "level": 4,
+      "parent": "G01R33/38",
+      "ja": "磁場の安定化［６］",
+      "en": "Field stabilisation",
+      "count": 684,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R33/42": {
+      "code": "G01R33/42",
+      "level": 3,
+      "parent": "G01R33/28",
+      "ja": "遮蔽［５，６］",
+      "en": "Screening",
+      "count": 354,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R33/421": {
+      "code": "G01R33/421",
+      "level": 4,
+      "parent": "G01R33/42",
+      "ja": "主磁場または傾斜磁場の遮蔽［６］",
+      "en": "of main or gradient magnetic field",
+      "count": 867,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R33/422": {
+      "code": "G01R33/422",
+      "level": 4,
+      "parent": "G01R33/42",
+      "ja": "高周波磁場の遮蔽［６］",
+      "en": "of the radiofrequency field",
+      "count": 511,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R33/44": {
+      "code": "G01R33/44",
+      "level": 2,
+      "parent": "G01R33/20",
+      "ja": "核磁気共鳴［ＮＭＲ］を用いるもの（Ｇ０１Ｒ３３／２４，Ｇ０１Ｒ３３／６２が優先）［５］",
+      "en": "using nuclear magnetic resonance [NMR](<b>G01R33/24</b>, <b>G01R33/62</b> take precedence)",
+      "count": 2904,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R33/46": {
+      "code": "G01R33/46",
+      "level": 3,
+      "parent": "G01R33/44",
+      "ja": "ＮＭＲ分光計［５］",
+      "en": "NMR spectroscopy",
+      "count": 1875,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R33/465": {
+      "code": "G01R33/465",
+      "level": 4,
+      "parent": "G01R33/46",
+      "ja": "生物学的材料に適用するもの，例．ガラス器内での試験，すなわちインビトロ［６］",
+      "en": "applied to biological material, e.g. <u>in vitro</u> testing",
+      "count": 695,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R33/48": {
+      "code": "G01R33/48",
+      "level": 3,
+      "parent": "G01R33/44",
+      "ja": "ＮＭＲ画像システム［５］",
+      "en": "NMR imaging systems",
+      "count": 8196,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R33/483": {
+      "code": "G01R33/483",
+      "level": 4,
+      "parent": "G01R33/48",
+      "ja": "特定の体積領域からの信号またはスペクトルを選択するもの，例．生体分光，すなわちインビボ［６］",
+      "en": "with selection of signal or spectra from particular regions of the volume, e.g. <u>in vivo</u> spectroscopy",
+      "count": 1451,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R33/485": {
+      "code": "G01R33/485",
+      "level": 5,
+      "parent": "G01R33/483",
+      "ja": "化学シフト情報に基づくもの［６］",
+      "en": "based on chemical shift information",
+      "count": 360,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R33/50": {
+      "code": "G01R33/50",
+      "level": 4,
+      "parent": "G01R33/48",
+      "ja": "緩和時間の測定に基づくもの［５］",
+      "en": "based on the determination of relaxation times",
+      "count": 984,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R33/54": {
+      "code": "G01R33/54",
+      "level": 4,
+      "parent": "G01R33/48",
+      "ja": "信号処理システム，例．パルスシーケンス［５］",
+      "en": "Signal processing systems, e.g. using pulse sequences",
+      "count": 4765,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R33/56": {
+      "code": "G01R33/56",
+      "level": 5,
+      "parent": "G01R33/54",
+      "ja": "画像の強調または補正，例．減算または平均化技術［５］",
+      "en": "Image enhancement or correction, e.g. subtraction or averaging techniques",
+      "count": 4653,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R33/561": {
+      "code": "G01R33/561",
+      "level": 6,
+      "parent": "G01R33/56",
+      "ja": "走査時間の減少によるもの，すなわち，高速データ収集システム，例．エコープレーナーパルスシーケンス［６］",
+      "en": "by reduction of the scanning time, i.e. fast acquiring systems, e.g. using echo-planar pulse sequences",
+      "count": 3219,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R33/563": {
+      "code": "G01R33/563",
+      "level": 6,
+      "parent": "G01R33/56",
+      "ja": "移動物質の画像の強調または補正，例．血管強調造影，すなわちアンギオグラフィー［６］",
+      "en": "of moving material, e.g. flow-contrast angiography",
+      "count": 2474,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R33/565": {
+      "code": "G01R33/565",
+      "level": 6,
+      "parent": "G01R33/56",
+      "ja": "画像歪曲の補正，例．磁場の不均一性によるもの［６］",
+      "en": "Correction of image distortions, e.g. due to magnetic field inhomogeneities",
+      "count": 3038,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R33/567": {
+      "code": "G01R33/567",
+      "level": 6,
+      "parent": "G01R33/56",
+      "ja": "生理的信号によりゲート制御するもの［６］",
+      "en": "gated by physiological signals",
+      "count": 953,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R33/58": {
+      "code": "G01R33/58",
+      "level": 4,
+      "parent": "G01R33/48",
+      "ja": "画像システムの校正，例．テスト探針を使用するもの［５］",
+      "en": "Calibration of imaging systems, e.g. using test probes",
+      "count": 1115,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R33/60": {
+      "code": "G01R33/60",
+      "level": 2,
+      "parent": "G01R33/20",
+      "ja": "電子常磁性共鳴を用いるもの（Ｇ０１Ｒ３３／２４，Ｇ０１Ｒ３３／６２が優先）［５］",
+      "en": "using electron paramagnetic resonance(<b>G01R33/24</b>, <b>G01R33/62</b> take precedence)",
+      "count": 734,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R33/62": {
+      "code": "G01R33/62",
+      "level": 2,
+      "parent": "G01R33/20",
+      "ja": "二重共鳴を用いるもの（Ｇ０１Ｒ３３／２４が優先）［５］",
+      "en": "using double resonance(<b>G01R33/24</b> takes precedence)",
+      "count": 258,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R33/64": {
+      "code": "G01R33/64",
+      "level": 2,
+      "parent": "G01R33/20",
+      "ja": "サイクロトロン共鳴を用いるもの（Ｇ０１Ｒ３３／２４が優先）［５］",
+      "en": "using cyclotron resonance(<b>G01R33/24</b> takes precedence)",
+      "count": 111,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R35/00": {
+      "code": "G01R35/00",
+      "level": 0,
+      "parent": "G01R",
+      "ja": "このサブクラスの他のグループに包含される装置の試験または較正［２］",
+      "en": "Testing or calibrating of apparatus covered by the other groups of this subclass",
+      "count": 16773,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R35/02": {
+      "code": "G01R35/02",
+      "level": 1,
+      "parent": "G01R35/00",
+      "ja": "補助装置，例．規定された変成比，位相角，定格電力に従った計器用変成器，に関するもの",
+      "en": "of auxiliary devices, e.g. of instrument transformers according to prescribed transformation ratio, phase angle, or wattage rating",
+      "count": 6756,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R35/04": {
+      "code": "G01R35/04",
+      "level": 1,
+      "parent": "G01R35/00",
+      "ja": "電力または電流の時間積分を測定する計器に関するもの",
+      "en": "of instruments for measuring time integral of power or current",
+      "count": 10106,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    },
+    "G01R35/06": {
+      "code": "G01R35/06",
+      "level": 2,
+      "parent": "G01R35/04",
+      "ja": "ストロボスコープ法によるもの",
+      "en": "by stroboscopic methods",
+      "count": 37,
+      "sourceFile": "ipc_G01R.txt",
+      "kind": "ipc"
+    }
+  }
+};

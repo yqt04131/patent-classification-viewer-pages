@@ -1,0 +1,896 @@
+window.IPC_SHARD_D06B = {
+  "generatedAt": "2026-03-20T02:17:46.590Z",
+  "total": 89,
+  "entries": {
+    "D06B": {
+      "code": "D06B",
+      "level": 0,
+      "parent": "D06",
+      "ja": "繊維材料の液体，気体または蒸気を用いる処理（繊維またはフィラメントを採取するための天然の繊維状またはフィラメント状材料の機械的処理Ｄ０１Ｂ）［２］<br><br><b><ul>注</ul></b><br>（１）このサブクラスにおいては，下記の用語は以下に示す意味で用いる：<br>―“布帛”は整経糸状またはシート状に並んだ糸を包含する；<br>―“繊維材料”は布帛，糸または他の繊維状物を包含する；<br>―“不定長”はその材料を前進させまたは移送する方法をとる限りにおいて，そのたて方向の長さが実質的に無限である特性をもつ材料の範囲を意味する。<br>（２）このサブクラスは，サブクラスＤ０６Ｌ－Ｄ０６Ｑに包含される純粋に化学的手段による繊維の処理は包含しない。<br><br><b><ul>サブクラス内の索引</ul></b><br>流体処理<br>表面への付与または強制貫流　１／００，５／００<br>処理流体中を繊維材料が通過するもの　３／００<br>溶剤処理　９／００<br>部分的な処理　１１／００<br>マーセル化　７／００<br>他の処理　１３／００，１７／００，１９／００，２１／００<br>処理流体の除去　１５／００<br>一般的な装置　２３／００",
+      "en": "TREATING TEXTILE MATERIALS USING LIQUIDS, GASES OR VAPOURS(mechanical treatment of natural fibrous or filamentary material to obtain fibres or filaments <b>D01B</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>In this subclass, the following terms or expressions are used with the meaning indicated: <ul><li>\"fabric\" includes yarns in warp or sheet form;</li><li>\"textile material\" includes fabrics, yarns or other fibrous materials;</li><li>\"indefinite length\" means an extent of material having the characteristic that the longitudinal dimension is effectively infinite in so far as the procedure for advancing or moving the material is concerned.</li></ul></li><li>This subclass <u>does not cover</u> treatment of textiles by purely chemical means, which is covered by subclasses <b>D06L to D06Q</b> .</li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">FLUID TREATMENT<tr><td width=\"70%\">Applying to the surface of, or forcing through, material </td><td><b><b>1/00</b>, <b>5/00</b></b></td></tr></tr><tr><td width=\"70%\">Passing material through the treating fluid </td><td><b><b>3/00</b></b></td></tr></tr><tr><td width=\"70%\">Solvent-treating </td><td><b><b>9/00</b></b></td></tr></tr><tr><td width=\"70%\">Local treating </td><td><b><b>11/00</b></b></td></tr></tr><tr><td width=\"70%\">Mercerising </td><td><b><b>7/00</b></b></td></tr></tr><tr><td width=\"70%\">Other treatments </td><td><b><b>13/00</b>, <b>17/00</b>, <b>19/00</b>, <b>21/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">REMOVAL OF TREATING FLUID </td><td><b><b>15/00</b></b></td></tr></tr><tr><td width=\"70%\">GENERAL APPARATUS </td><td><b><b>23/00</b></b></td></tr></tr></table>",
+      "count": 537,
+      "sourceFile": "ipc_D.txt",
+      "kind": "ipc"
+    },
+    "D06": {
+      "code": "D06",
+      "level": 0,
+      "parent": "D",
+      "ja": "繊維または類似のものの処理；洗濯；他に分類されない可とう性材料",
+      "en": "TREATMENT OF TEXTILES OR THE LIKE; LAUNDERING; FLEXIBLE MATERIALS NOT OTHERWISE PROVIDED FOR",
+      "count": 0,
+      "sourceFile": "ipc_D.txt",
+      "kind": "ipc"
+    },
+    "D": {
+      "code": "D",
+      "level": 0,
+      "parent": null,
+      "ja": "繊維；紙<br><br><b><ul>注</ul></b><br>このセクションにおいては，下記の用語は以下に示す意味で用いる：<br>―“繊維”は比較的短く，細長い天然または人造の物質よりなるものを意味する；［２０１４．０１］<br>―“フィラメント”はエンドレスまたは準エンドレスで，細長い天然または人造の物質よりなるものを意味する；［２０１４．０１］<br>―“糸”は繊維の単一の集合体を意味し，通常紡績によって製造される；［２０１４．０１］<br>―“より糸”は糸またはフィラメントの集合体を意味し，通常加ねんによって製造される；［２０１４．０１］<br>―“合成”繊維またはフィラメントはポリマーまたは低分子を合成させたものから製造される繊維またはフィラメントまたは類似物を意味する。例は，ポリアミド，アクリル，ポリエステルまたは炭素繊維である；［２０１４．０１］<br>―“人工”繊維またはフィラメントは天然ポリマーまたはその派生物から人が製造した繊維またはフィラメントまたは類似物を意味する。例は，再生セルロース繊維または半合成繊維である；［２０１４．０１］<br>―“人造”繊維またはフィラメントは人が製造した繊維またはフィラメントを意味し，“合成”繊維または“人工”繊維を含む。［２０１４．０１］",
+      "en": "TEXTILES; PAPER; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this section, the following terms are used with the meanings indicated: <ul><li>\"fibre\" means a relatively-short, elongated member of natural or man-made material;    </li><li>\"filament\" means an endless or quasi-endless, elongated member of natural or man-made material;    </li><li>\"yarn\" means a unitary assembly of fibres, usually produced by spinning;    </li><li>\"thread\" means an assembly of yarns or filaments, usually produced by twisting;    </li><li>\"synthetic\" fibres or filaments means fibres or filaments or the like manufactured from synthesising polymers or small molecules. Examples are polyamide, acrylic, polyester or carbon fibres;    </li><li>\"artificial\" fibres or filaments means fibres or filaments or the like manufactured by man from natural polymers or their derivatives. Examples are regenerated cellulosic fibres or semi-synthetic fibres;    </li><li>\"man-made&rdquo; fibres or filaments means fibres or filaments which are manufactured by man including &ldquo;synthetic&rdquo; or &ldquo;artificial&rdquo; fibres.    </li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_D.txt",
+      "kind": "ipc"
+    },
+    "D06B1/00": {
+      "code": "D06B1/00",
+      "level": 0,
+      "parent": "D06B",
+      "ja": "処理，例．洗浄，染色，漂白，のり付けまたは含浸，をなすための液体，気体または蒸気の繊維材料への付与（マーセル化Ｄ０６Ｂ７／００；溶剤処理Ｄ０６Ｂ９／００；繊維材料の特定部分の処理Ｄ０６Ｂ１１／００；振動の助けによるものＤ０６Ｂ１３／００）",
+      "en": "Applying liquids, gases or vapours on to textile materials to effect treatment, e.g. washing, dyeing, bleaching, sizing or impregnating(mercerising <b>D06B7/00</b>;  solvent-treatment <b>D06B9/00</b>;  treatment of selected parts of textile materials <b>D06B11/00</b>;  with aid of vibration <b>D06B13/00</b>)",
+      "count": 3209,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B1/02": {
+      "code": "D06B1/02",
+      "level": 1,
+      "parent": "D06B1/00",
+      "ja": "噴霧または放射によるもの（Ｄ０６Ｂ１／０８が優先）［２００６．０１］",
+      "en": "by spraying or projecting (<b>D06B1/08</b> takes precedence)",
+      "count": 18532,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B1/04": {
+      "code": "D06B1/04",
+      "level": 1,
+      "parent": "D06B1/00",
+      "ja": "繊維材料表面上に注ぐことまたは流動させておくことによるもの［２］",
+      "en": "by pouring or allowing to flow on to the surface of the textile material",
+      "count": 620,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B1/06": {
+      "code": "D06B1/06",
+      "level": 2,
+      "parent": "D06B1/04",
+      "ja": "傾斜面に沿う流動によるもの［２］",
+      "en": "flowing along an inclined surface",
+      "count": 151,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B1/08": {
+      "code": "D06B1/08",
+      "level": 1,
+      "parent": "D06B1/00",
+      "ja": "繊維材料と接触またはほぼ接触した排出口からのもの［２］",
+      "en": "from outlets being in, or almost in, contact with the textile material",
+      "count": 1311,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B1/10": {
+      "code": "D06B1/10",
+      "level": 1,
+      "parent": "D06B1/00",
+      "ja": "処理剤の運搬要素との接触によるもの［２］",
+      "en": "by contact with a member carrying the treating material",
+      "count": 444,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B1/12": {
+      "code": "D06B1/12",
+      "level": 2,
+      "parent": "D06B1/10",
+      "ja": "摩擦接触によるもの，例．ブラシまたはパッドを有するもの［２］",
+      "en": "by rubbing contact, e.g. with brushes or pads",
+      "count": 2010,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B1/14": {
+      "code": "D06B1/14",
+      "level": 2,
+      "parent": "D06B1/10",
+      "ja": "ローラーによるもの［２］",
+      "en": "with a roller",
+      "count": 3252,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B1/16": {
+      "code": "D06B1/16",
+      "level": 3,
+      "parent": "D06B1/14",
+      "ja": "処理剤がローラー内側から供給されるもの［２］",
+      "en": "the treating material being supplied from inside the roller",
+      "count": 498,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B3/00": {
+      "code": "D06B3/00",
+      "level": 0,
+      "parent": "D06B",
+      "ja": "処理，例．洗浄，染色，漂白，のり付け，含浸，をなすための液体，気体または蒸気中の繊維材料の移動（マーセル化Ｄ０６Ｂ７／００；溶剤処理Ｄ０６Ｂ９／００；繊維材料の特定部分の処理Ｄ０６Ｂ１１／００；振動の助けによるものＤ０６Ｂ１３／００）［２］",
+      "en": "Passing of textile materials through liquids, gases, or vapours to effect treatment, e.g. washing, dyeing, bleaching, sizing, impregnating(mercerising <b>D06B7/00</b>; solvent-treatment <b>D06B9/00</b>; treatment of selected parts of textile materials <b>D06B11/00</b>; with aid of vibration <b>D06B13/00</b>)",
+      "count": 669,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B3/02": {
+      "code": "D06B3/02",
+      "level": 1,
+      "parent": "D06B3/00",
+      "ja": "繊維，スライバーまたは粗糸に関するもの［２］",
+      "en": "of fibres, slivers, or rovings",
+      "count": 2678,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B3/04": {
+      "code": "D06B3/04",
+      "level": 1,
+      "parent": "D06B3/00",
+      "ja": "糸，より糸またはフィラメントに関するもの［２］",
+      "en": "of yarns, threads, or filaments",
+      "count": 6359,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B3/06": {
+      "code": "D06B3/06",
+      "level": 2,
+      "parent": "D06B3/04",
+      "ja": "個別的に取扱われるもの［２］",
+      "en": "individually handled",
+      "count": 714,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B3/08": {
+      "code": "D06B3/08",
+      "level": 2,
+      "parent": "D06B3/04",
+      "ja": "かせとしてのもの［２］",
+      "en": "as hanks",
+      "count": 701,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B3/09": {
+      "code": "D06B3/09",
+      "level": 2,
+      "parent": "D06B3/04",
+      "ja": "パッケージとしてのもの，例．チーズ［３］",
+      "en": "as packages, e.g. cheeses",
+      "count": 1084,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B3/10": {
+      "code": "D06B3/10",
+      "level": 1,
+      "parent": "D06B3/00",
+      "ja": "布帛に関するもの（Ｄ０６Ｂ３／２４，Ｄ０６Ｂ３／２８，Ｄ０６Ｂ３／３２が優先；ジツガーＤ０６Ｂ３／３２）［２］",
+      "en": "of fabrics(<b>D06B3/24</b>, <b>D06B3/28</b>, <b>D06B3/32</b> take precedence; jiggers <b>D06B3/32</b>)",
+      "count": 15371,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B3/12": {
+      "code": "D06B3/12",
+      "level": 2,
+      "parent": "D06B3/10",
+      "ja": "一連のガイド手段上でジグザグになすもの［２］",
+      "en": "in zig-zag manner over series of guiding means",
+      "count": 1316,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B3/14": {
+      "code": "D06B3/14",
+      "level": 2,
+      "parent": "D06B3/10",
+      "ja": "巻かれた形態でなすもの［２］",
+      "en": "in wound form",
+      "count": 289,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B3/16": {
+      "code": "D06B3/16",
+      "level": 2,
+      "parent": "D06B3/10",
+      "ja": "重ねられた，すなわち，積み上げられた，形態でなすもの［２］",
+      "en": "in superimposed, i.e. stack-packed, form",
+      "count": 613,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B3/18": {
+      "code": "D06B3/18",
+      "level": 2,
+      "parent": "D06B3/10",
+      "ja": "圧搾と組み合わされたもの，例．パジング機［２］",
+      "en": "combined with squeezing, e.g. in padding machines",
+      "count": 4451,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B3/20": {
+      "code": "D06B3/20",
+      "level": 2,
+      "parent": "D06B3/10",
+      "ja": "布帛面での処理剤の循環を改良する手段を有するもの［２］",
+      "en": "with means to improve the circulation of the treating material on the surface of the fabric",
+      "count": 3147,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B3/22": {
+      "code": "D06B3/22",
+      "level": 2,
+      "parent": "D06B3/10",
+      "ja": "布帛の片面のみがガイド手段と接触するもの［２］",
+      "en": "only one side of the fabric coming into contact with the guiding means",
+      "count": 228,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B3/24": {
+      "code": "D06B3/24",
+      "level": 1,
+      "parent": "D06B3/00",
+      "ja": "ロープ状の形態の布帛に関するもの［２］",
+      "en": "of fabrics in roped form",
+      "count": 948,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B3/26": {
+      "code": "D06B3/26",
+      "level": 2,
+      "parent": "D06B3/24",
+      "ja": "重ねられた，すなわち，積み上げられた，形態でなすもの［２］",
+      "en": "in superimposed, i.e. stack-packed, form",
+      "count": 378,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B3/28": {
+      "code": "D06B3/28",
+      "level": 1,
+      "parent": "D06B3/00",
+      "ja": "処理剤の噴出により推進される布帛に関するもの［２］",
+      "en": "of fabrics propelled by, or with the aid of, jets of the treating material",
+      "count": 1739,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B3/30": {
+      "code": "D06B3/30",
+      "level": 1,
+      "parent": "D06B3/00",
+      "ja": "物品，例．ストッキング，に関するもの［２］",
+      "en": "of articles, e.g. stockings",
+      "count": 1511,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B3/32": {
+      "code": "D06B3/32",
+      "level": 1,
+      "parent": "D06B3/00",
+      "ja": "処理中でのビームローラ間における可逆的な拡布状材に関するもの；ジツガー［２］",
+      "en": "of open-width materials backwards and forwards between beaming rollers during treatment; Jiggers",
+      "count": 1035,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B3/34": {
+      "code": "D06B3/34",
+      "level": 1,
+      "parent": "D06B3/00",
+      "ja": "機械または装置の駆動装置［２］",
+      "en": "Driving arrangements of machines or apparatus",
+      "count": 3142,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B3/36": {
+      "code": "D06B3/36",
+      "level": 2,
+      "parent": "D06B3/34",
+      "ja": "運転制御［２］",
+      "en": "Drive control",
+      "count": 646,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B5/00": {
+      "code": "D06B5/00",
+      "level": 0,
+      "parent": "D06B",
+      "ja": "処理，例．洗浄，染色，漂白，のり付け，含浸，をなすための繊維材料への液体，気体または蒸気の強制貫流（マーセル化Ｄ０６Ｂ７／００；溶剤処理Ｄ０６Ｂ９／００；繊維材料の特定部分の処理Ｄ０６Ｂ１１／００；振動の助けによるものＤ０６Ｂ１３／００）［２］",
+      "en": "Forcing liquids, gases, or vapours through textile materials to effect treatment, e.g. washing, dyeing, bleaching, sizing, impregnating(mercerising <b>D06B7/00</b>; solvent-treatment <b>D06B9/00</b>; treatment of selected parts of textile materials <b>D06B11/00</b>; with aid of vibration <b>D06B13/00</b>)",
+      "count": 1222,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B5/02": {
+      "code": "D06B5/02",
+      "level": 1,
+      "parent": "D06B5/00",
+      "ja": "移動している不定長材に対するもの［２］",
+      "en": "through moving materials of indefinite length",
+      "count": 147,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B5/04": {
+      "code": "D06B5/04",
+      "level": 2,
+      "parent": "D06B5/02",
+      "ja": "スライバーまたは粗糸に対するもの［２］",
+      "en": "through slivers or rovings",
+      "count": 149,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B5/06": {
+      "code": "D06B5/06",
+      "level": 2,
+      "parent": "D06B5/02",
+      "ja": "糸，より糸またはフィラメントに対するもの［２］",
+      "en": "through yarns, threads, or filaments",
+      "count": 217,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B5/08": {
+      "code": "D06B5/08",
+      "level": 2,
+      "parent": "D06B5/02",
+      "ja": "布帛に対するもの［２］",
+      "en": "through fabrics",
+      "count": 870,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B5/10": {
+      "code": "D06B5/10",
+      "level": 2,
+      "parent": "D06B5/02",
+      "ja": "遠心力を利用するもの［２］",
+      "en": "using centrifugal force",
+      "count": 66,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B5/12": {
+      "code": "D06B5/12",
+      "level": 1,
+      "parent": "D06B5/00",
+      "ja": "定長材に対するもの［２］",
+      "en": "through materials of definite length",
+      "count": 491,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B5/14": {
+      "code": "D06B5/14",
+      "level": 2,
+      "parent": "D06B5/12",
+      "ja": "繊維，スライバーまたは粗糸に対するもの［２］",
+      "en": "through fibres, slivers, or rovings",
+      "count": 283,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B5/16": {
+      "code": "D06B5/16",
+      "level": 2,
+      "parent": "D06B5/12",
+      "ja": "糸，より糸またはフィラメントに対するもの［２］",
+      "en": "through yarns, threads, or filaments",
+      "count": 988,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B5/18": {
+      "code": "D06B5/18",
+      "level": 3,
+      "parent": "D06B5/16",
+      "ja": "たて糸ビームに対するもの［２］",
+      "en": "through beamed warp",
+      "count": 73,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B5/20": {
+      "code": "D06B5/20",
+      "level": 3,
+      "parent": "D06B5/16",
+      "ja": "かせに対するもの［２］",
+      "en": "through hanks",
+      "count": 251,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B5/22": {
+      "code": "D06B5/22",
+      "level": 2,
+      "parent": "D06B5/12",
+      "ja": "布帛に対するもの［２］",
+      "en": "through fabrics",
+      "count": 610,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B5/24": {
+      "code": "D06B5/24",
+      "level": 2,
+      "parent": "D06B5/12",
+      "ja": "物品，例．ストッキング，に対するもの［２］",
+      "en": "through articles, e.g. stockings",
+      "count": 313,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B5/26": {
+      "code": "D06B5/26",
+      "level": 2,
+      "parent": "D06B5/12",
+      "ja": "遠心力を利用するもの［２］",
+      "en": "using centrifugal force",
+      "count": 217,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B7/00": {
+      "code": "D06B7/00",
+      "level": 0,
+      "parent": "D06B",
+      "ja": "マーセル化，例．マーセル化によるつや出し［２］",
+      "en": "Mercerising, e.g. lustring by mercerising",
+      "count": 488,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B7/02": {
+      "code": "D06B7/02",
+      "level": 1,
+      "parent": "D06B7/00",
+      "ja": "スライバーに関するもの［２］",
+      "en": "of slivers",
+      "count": 58,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B7/04": {
+      "code": "D06B7/04",
+      "level": 1,
+      "parent": "D06B7/00",
+      "ja": "糸，より糸またはフィラメントに関するもの［２］",
+      "en": "of yarns, threads, or filaments",
+      "count": 203,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B7/06": {
+      "code": "D06B7/06",
+      "level": 2,
+      "parent": "D06B7/04",
+      "ja": "かせ糸に関するもの［２］",
+      "en": "of hanks of yarns",
+      "count": 133,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B7/08": {
+      "code": "D06B7/08",
+      "level": 1,
+      "parent": "D06B7/00",
+      "ja": "不定長布帛に関するもの［２］",
+      "en": "of fabrics of indefinite length",
+      "count": 856,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B7/10": {
+      "code": "D06B7/10",
+      "level": 1,
+      "parent": "D06B7/00",
+      "ja": "筒状布帛または筒状物に関するもの［２］",
+      "en": "of tubular fabrics or tubular articles",
+      "count": 89,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B9/00": {
+      "code": "D06B9/00",
+      "level": 0,
+      "parent": "D06B",
+      "ja": "繊維材料の溶剤処理［２００６．０１］",
+      "en": "Solvent-treatment of textile materials",
+      "count": 753,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B9/02": {
+      "code": "D06B9/02",
+      "level": 1,
+      "parent": "D06B9/00",
+      "ja": "溶剤染色［２］",
+      "en": "solvent-dyeing",
+      "count": 526,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B9/04": {
+      "code": "D06B9/04",
+      "level": 1,
+      "parent": "D06B9/00",
+      "ja": "２以上の処理剤からなる溶剤の連続的付与［２］",
+      "en": "Successively applying two or more different solvent-based treating materials",
+      "count": 289,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B9/06": {
+      "code": "D06B9/06",
+      "level": 1,
+      "parent": "D06B9/00",
+      "ja": "溶剤回収を有するもの［２］",
+      "en": "with recovery of the solvent",
+      "count": 323,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B11/00": {
+      "code": "D06B11/00",
+      "level": 0,
+      "parent": "D06B",
+      "ja": "繊維材料の特定部分の処理，例．模様染め［２］",
+      "en": "Treatment of selected parts of textile materials, e.g. partial dyeing",
+      "count": 4064,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B13/00": {
+      "code": "D06B13/00",
+      "level": 0,
+      "parent": "D06B",
+      "ja": "振動の助けによる液体，気体または蒸気による繊維材料の処理［２］",
+      "en": "Treatment of textile materials with liquids, gases, or vapours with aid of vibration",
+      "count": 2290,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B15/00": {
+      "code": "D06B15/00",
+      "level": 0,
+      "parent": "D06B",
+      "ja": "液体，気体または蒸気による繊維材料の処理に関連する繊維材料からの液体，気体または蒸気の除去［２００６．０１］<br><br><b><ul>注</ul></b><br>グループ１５／１２はグループ１５／０２から１５／１０に優先する［２］",
+      "en": "Removing liquids, gases or vapours from textile materials in association with treatment of the materials by liquids, gases or vapours",
+      "count": 12816,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B15/02": {
+      "code": "D06B15/02",
+      "level": 1,
+      "parent": "D06B15/00",
+      "ja": "圧搾ローラーによるもの［２］",
+      "en": "by squeezing rollers",
+      "count": 6983,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B15/04": {
+      "code": "D06B15/04",
+      "level": 1,
+      "parent": "D06B15/00",
+      "ja": "吸引によるもの［２］",
+      "en": "by suction",
+      "count": 1337,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B15/06": {
+      "code": "D06B15/06",
+      "level": 1,
+      "parent": "D06B15/00",
+      "ja": "繊維材料の振動によるもの［２］",
+      "en": "by vibrating the textile material",
+      "count": 408,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B15/08": {
+      "code": "D06B15/08",
+      "level": 1,
+      "parent": "D06B15/00",
+      "ja": "掻き落しによるもの［２］",
+      "en": "by scraping",
+      "count": 1587,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B15/09": {
+      "code": "D06B15/09",
+      "level": 1,
+      "parent": "D06B15/00",
+      "ja": "気体の噴射によるもの［３］",
+      "en": "by jets of gases",
+      "count": 4885,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B15/10": {
+      "code": "D06B15/10",
+      "level": 1,
+      "parent": "D06B15/00",
+      "ja": "遠心力の利用によるもの［２］",
+      "en": "by use of centrifugal force",
+      "count": 1636,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B15/12": {
+      "code": "D06B15/12",
+      "level": 1,
+      "parent": "D06B15/00",
+      "ja": "繊維材料の公定水分率までのもの［２］",
+      "en": "up to the moisture regain of textile material",
+      "count": 135,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B17/00": {
+      "code": "D06B17/00",
+      "level": 0,
+      "parent": "D06B",
+      "ja": "液体，気体または蒸気による繊維材料の処理に関連する繊維材料の貯蔵（そのために特に適した運搬装置または支持体Ｄ０６Ｂ２３／０４）［２］",
+      "en": "Storing of textile materials in association with the treatment of the materials by liquids, gases, or vapours(carriers or supports specially adapted therefor <b>D06B23/04</b>)",
+      "count": 457,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B17/02": {
+      "code": "D06B17/02",
+      "level": 1,
+      "parent": "D06B17/00",
+      "ja": "重ねられた，すなわち，積み上げられた，形態でなすもの；Ｊ－ボックス［２］",
+      "en": "in superimposed, i.e. stack-packed, form; J-boxes",
+      "count": 457,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B17/04": {
+      "code": "D06B17/04",
+      "level": 1,
+      "parent": "D06B17/00",
+      "ja": "巻かれた形態でなすもの［２］",
+      "en": "in wound form",
+      "count": 493,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B17/06": {
+      "code": "D06B17/06",
+      "level": 1,
+      "parent": "D06B17/00",
+      "ja": "懸垂させた形態でなすもの［３］",
+      "en": "in festooned form",
+      "count": 202,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B19/00": {
+      "code": "D06B19/00",
+      "level": 0,
+      "parent": "D06B",
+      "ja": "グループＤ０６Ｂ１／００～Ｄ０６Ｂ１７／００に分類されない液体，気体または蒸気による繊維材料の処理［２］",
+      "en": "Treatment of textile materials by liquids, gases, or vapours, not provided for in groups <b>D06B1/00 to D06B17/00</b> ",
+      "count": 3682,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B21/00": {
+      "code": "D06B21/00",
+      "level": 0,
+      "parent": "D06B",
+      "ja": "液体，気体または蒸気による繊維材料の連続的処理［２００６．０１］<br><br><b><ul>注</ul></b><br>このグループは，液体，気体または蒸気を用いる繊維の組み合わされた処理または連続処理を包含する。［２０２５．０１］",
+      "en": "Successive treatments of textile materials by liquids, gases or vapours; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This group <u>covers</u> the combined or successive treatments of textiles using liquids, gases or vapours.</li></ul>",
+      "count": 4594,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B21/02": {
+      "code": "D06B21/02",
+      "level": 1,
+      "parent": "D06B21/00",
+      "ja": "単一容器中で行なわれる処理［２］",
+      "en": "the treatments being performed in a single container",
+      "count": 353,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B23/00": {
+      "code": "D06B23/00",
+      "level": 0,
+      "parent": "D06B",
+      "ja": "特に繊維材料の処理に適し，特殊な装置に限定されない，グループＤ０６Ｂ１／００～Ｄ０６Ｂ２１／００に分類される装置または機械の構成部分，細部または付属品［２］",
+      "en": "Component parts, details, or accessories of apparatus or machines, specially adapted for the treating of textile materials, not restricted to a particular kind of apparatus, provided for in groups <b>D06B1/00 to D06B21/00</b> ",
+      "count": 9166,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B23/02": {
+      "code": "D06B23/02",
+      "level": 1,
+      "parent": "D06B23/00",
+      "ja": "ローラー［２］",
+      "en": "Rollers",
+      "count": 6637,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B23/04": {
+      "code": "D06B23/04",
+      "level": 1,
+      "parent": "D06B23/00",
+      "ja": "処理を受ける繊維材料の運搬装置または支持体［２］",
+      "en": "Carriers or supports for textile materials to be treated",
+      "count": 23384,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B23/06": {
+      "code": "D06B23/06",
+      "level": 1,
+      "parent": "D06B23/00",
+      "ja": "フィラメント，糸またはより糸が互いに結束するのを防ぐためのガイド手段［２］",
+      "en": "Guiding means for preventing filaments, yarns, or threads from sticking together",
+      "count": 404,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B23/08": {
+      "code": "D06B23/08",
+      "level": 1,
+      "parent": "D06B23/00",
+      "ja": "解撚装置［２］",
+      "en": "Untwisting devices",
+      "count": 464,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B23/10": {
+      "code": "D06B23/10",
+      "level": 1,
+      "parent": "D06B23/00",
+      "ja": "見本を染色するための装置（Ｄ０６Ｂ２３／１２が優先）［２］",
+      "en": "Devices for dyeing samples(<b>D06B23/12</b> takes precedence)",
+      "count": 1036,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B23/12": {
+      "code": "D06B23/12",
+      "level": 1,
+      "parent": "D06B23/00",
+      "ja": "処理中または処理後に繊維材料から見本を取り出すための手段［２］",
+      "en": "Means for taking samples from textile materials during or after treatment",
+      "count": 111,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B23/14": {
+      "code": "D06B23/14",
+      "level": 1,
+      "parent": "D06B23/00",
+      "ja": "容器，例．バット［２］",
+      "en": "Containers, e.g. vats",
+      "count": 4148,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B23/16": {
+      "code": "D06B23/16",
+      "level": 2,
+      "parent": "D06B23/14",
+      "ja": "容器圧力を変えずに繊維材料の導出入をするための手段を有するもの［２］",
+      "en": "with means for introducing or removing textile materials without modifying container pressure",
+      "count": 797,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B23/18": {
+      "code": "D06B23/18",
+      "level": 2,
+      "parent": "D06B23/14",
+      "ja": "密閉装置［２］",
+      "en": "Sealing arrangements",
+      "count": 3440,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B23/20": {
+      "code": "D06B23/20",
+      "level": 1,
+      "parent": "D06B23/00",
+      "ja": "処理用の液体，気体または蒸気を処理する，例．精製，ろ過または蒸留，ための装置の配列［２００６．０１］",
+      "en": "Arrangements of apparatus for treating processing-liquids, -gases or -vapours, e.g. purification, filtration or distillation",
+      "count": 30707,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B23/22": {
+      "code": "D06B23/22",
+      "level": 2,
+      "parent": "D06B23/20",
+      "ja": "加熱のためのもの［２］",
+      "en": "for heating",
+      "count": 6174,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B23/24": {
+      "code": "D06B23/24",
+      "level": 1,
+      "parent": "D06B23/00",
+      "ja": "繊維材料の処理中に繊維材料により取り去られた処理剤の量を調節する手段［２］",
+      "en": "Means for regulating the amount of treating material picked up by the textile material during its treatment",
+      "count": 817,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B23/26": {
+      "code": "D06B23/26",
+      "level": 2,
+      "parent": "D06B23/24",
+      "ja": "繊維材料の分析によるもの［２］",
+      "en": "in response to a test conducted on the textile material",
+      "count": 304,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B23/28": {
+      "code": "D06B23/28",
+      "level": 2,
+      "parent": "D06B23/24",
+      "ja": "処理剤の分析によるもの［２］",
+      "en": "in response to a test conducted on the treating material",
+      "count": 693,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    },
+    "D06B23/30": {
+      "code": "D06B23/30",
+      "level": 1,
+      "parent": "D06B23/00",
+      "ja": "装置または機械またはその部分の清浄手段［２］",
+      "en": "Means for cleaning apparatus or machines, or parts thereof",
+      "count": 2793,
+      "sourceFile": "ipc_D06B.txt",
+      "kind": "ipc"
+    }
+  }
+};

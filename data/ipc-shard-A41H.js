@@ -1,0 +1,426 @@
+window.IPC_SHARD_A41H = {
+  "generatedAt": "2026-03-20T02:17:45.901Z",
+  "total": 42,
+  "entries": {
+    "A41H": {
+      "code": "A41H",
+      "level": 0,
+      "parent": "A41",
+      "ja": "他に分類されない，衣類を作るための器具または方法，例．衣服を作るためのものまたは仕立のためのもの［２００６．０１］<br><br><b><ul>サブクラス内の索引</ul></b><br>方法；装置または付属品<br>採寸　１／００，３／００，５／００<br>印つけ　１／００，３／００，５／００，１１／００，２３／００<br>仮縫　５／００，２１／００<br>仕上げ，補修　９／００，２５／００，２７／００，３１／００<br>付属品　１５／００，１７／００，１９／００，３１／００<br>特殊用途のための機械，器具または方法<br>折りたたみ；止め具の取り付け　３３／００；３７／００<br>他の方法または他の機械　４１／００，４２／００，４３／００",
+      "en": "APPLIANCES OR METHODS FOR MAKING CLOTHES, e.g. FOR DRESS-MAKING OR FOR TAILORING, NOT OTHERWISE PROVIDED FOR; <br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">METHODS; DEVICES OR ACCESSORIES<tr><td width=\"70%\">Measuring </td><td><b><b>1/00</b>, <b>3/00</b>, <b>5/00</b></b></td></tr></tr><tr><td width=\"70%\">Tracing </td><td><b><b>1/00</b>, <b>3/00</b>, <b>5/00</b>, <b>11/00</b>, <b>23/00</b></b></td></tr></tr><tr><td width=\"70%\">Fitting </td><td><b><b>5/00</b>, <b>21/00</b></b></td></tr></tr><tr><td width=\"70%\">Finishing, mending </td><td><b><b>9/00</b>, <b>25/00</b>, <b>27/00</b>, <b>31/00</b></b></td></tr></tr><tr><td width=\"70%\">Accessories </td><td><b><b>15/00</b>, <b>17/00</b>, <b>19/00</b>, <b>31/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">MACHINES, APPARATUS, OR METHODS FOR SPECIAL APPLICATIONS<tr><td width=\"70%\">Folding; setting fastenings </td><td><b><b>33/00</b>; <b>37/00</b></b></td></tr></tr><tr><td width=\"70%\">Other methods or machines </td><td><b><b>41/00</b>, <b>42/00</b>, <b>43/00</b></b></td></tr></tr></tr></table>",
+      "count": 522,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A41": {
+      "code": "A41",
+      "level": 0,
+      "parent": "A",
+      "ja": "衣類",
+      "en": "WEARING APPAREL",
+      "count": 0,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A": {
+      "code": "A",
+      "level": 0,
+      "parent": null,
+      "ja": "生活必需品",
+      "en": "HUMAN NECESSITIES",
+      "count": 0,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A41H1/00": {
+      "code": "A41H1/00",
+      "level": 0,
+      "parent": "A41H",
+      "ja": "採寸補助具または採寸方法［２００６．０１］",
+      "en": "Measuring aids or methods",
+      "count": 1272,
+      "sourceFile": "ipc_A41H.txt",
+      "kind": "ipc"
+    },
+    "A41H1/02": {
+      "code": "A41H1/02",
+      "level": 1,
+      "parent": "A41H1/00",
+      "ja": "人体を採寸するための装置",
+      "en": "Devices for taking measurements on the human body",
+      "count": 1722,
+      "sourceFile": "ipc_A41H.txt",
+      "kind": "ipc"
+    },
+    "A41H1/04": {
+      "code": "A41H1/04",
+      "level": 2,
+      "parent": "A41H1/02",
+      "ja": "採寸するための人台",
+      "en": "Stands for taking measurements",
+      "count": 233,
+      "sourceFile": "ipc_A41H.txt",
+      "kind": "ipc"
+    },
+    "A41H1/06": {
+      "code": "A41H1/06",
+      "level": 1,
+      "parent": "A41H1/00",
+      "ja": "マーク付けと組合されているもの［２００６．０１］",
+      "en": "in combination with marking",
+      "count": 246,
+      "sourceFile": "ipc_A41H.txt",
+      "kind": "ipc"
+    },
+    "A41H1/10": {
+      "code": "A41H1/10",
+      "level": 1,
+      "parent": "A41H1/00",
+      "ja": "型のマーク付けをするための採寸用上着",
+      "en": "Measuring jackets for marking-out patterns",
+      "count": 169,
+      "sourceFile": "ipc_A41H.txt",
+      "kind": "ipc"
+    },
+    "A41H3/00": {
+      "code": "A41H3/00",
+      "level": 0,
+      "parent": "A41H",
+      "ja": "裁断用型；型の製図またはマークづけの方法，例．布上に［２００６．０１］",
+      "en": "Patterns for cutting-out; Methods of drafting or marking-out such patterns, e.g. on the cloth",
+      "count": 3402,
+      "sourceFile": "ipc_A41H.txt",
+      "kind": "ipc"
+    },
+    "A41H3/01": {
+      "code": "A41H3/01",
+      "level": 1,
+      "parent": "A41H3/00",
+      "ja": "くり抜き型を用いるもの",
+      "en": "using stencils",
+      "count": 269,
+      "sourceFile": "ipc_A41H.txt",
+      "kind": "ipc"
+    },
+    "A41H3/015": {
+      "code": "A41H3/015",
+      "level": 2,
+      "parent": "A41H3/01",
+      "ja": "調節可能なもの",
+      "en": "of adjustable type",
+      "count": 153,
+      "sourceFile": "ipc_A41H.txt",
+      "kind": "ipc"
+    },
+    "A41H3/02": {
+      "code": "A41H3/02",
+      "level": 1,
+      "parent": "A41H3/00",
+      "ja": "複写によって型を作るもの［２００６．０１］",
+      "en": "Making patterns by copying",
+      "count": 120,
+      "sourceFile": "ipc_A41H.txt",
+      "kind": "ipc"
+    },
+    "A41H3/04": {
+      "code": "A41H3/04",
+      "level": 1,
+      "parent": "A41H3/00",
+      "ja": "人体の型をとることによって型を作るもの",
+      "en": "Making patterns by modelling on the human body",
+      "count": 224,
+      "sourceFile": "ipc_A41H.txt",
+      "kind": "ipc"
+    },
+    "A41H3/06": {
+      "code": "A41H3/06",
+      "level": 1,
+      "parent": "A41H3/00",
+      "ja": "紙上につくられた型",
+      "en": "Patterns on paper",
+      "count": 592,
+      "sourceFile": "ipc_A41H.txt",
+      "kind": "ipc"
+    },
+    "A41H3/08": {
+      "code": "A41H3/08",
+      "level": 1,
+      "parent": "A41H3/00",
+      "ja": "布上につけられた型，例．印刷されたもの",
+      "en": "Patterns on the cloth, e.g. printed",
+      "count": 647,
+      "sourceFile": "ipc_A41H.txt",
+      "kind": "ipc"
+    },
+    "A41H5/00": {
+      "code": "A41H5/00",
+      "level": 0,
+      "parent": "A41H",
+      "ja": "衣服人台；上衣人台；人台［２００６．０１］",
+      "en": "Dress forms; Bust forms; Stands",
+      "count": 683,
+      "sourceFile": "ipc_A41H.txt",
+      "kind": "ipc"
+    },
+    "A41H5/01": {
+      "code": "A41H5/01",
+      "level": 1,
+      "parent": "A41H5/00",
+      "ja": "調節手段，例．高さの，を有するもの",
+      "en": "with means for adjustment, e.g. of height",
+      "count": 678,
+      "sourceFile": "ipc_A41H.txt",
+      "kind": "ipc"
+    },
+    "A41H5/02": {
+      "code": "A41H5/02",
+      "level": 1,
+      "parent": "A41H5/00",
+      "ja": "ふくらませる型",
+      "en": "Inflatable forms",
+      "count": 193,
+      "sourceFile": "ipc_A41H.txt",
+      "kind": "ipc"
+    },
+    "A41H9/00": {
+      "code": "A41H9/00",
+      "level": 0,
+      "parent": "A41H",
+      "ja": "衣服の縁を縁取りしたり，平にしたりまたは伸張するための装置または方法［２００６．０１］",
+      "en": "Devices or methods for trimming, levelling or straightening the hems of garments",
+      "count": 234,
+      "sourceFile": "ipc_A41H.txt",
+      "kind": "ipc"
+    },
+    "A41H9/02": {
+      "code": "A41H9/02",
+      "level": 1,
+      "parent": "A41H9/00",
+      "ja": "衣服の長さを印付けする装置",
+      "en": "Devices for marking the length of garments",
+      "count": 257,
+      "sourceFile": "ipc_A41H.txt",
+      "kind": "ipc"
+    },
+    "A41H11/00": {
+      "code": "A41H11/00",
+      "level": 0,
+      "parent": "A41H",
+      "ja": "ルーレット",
+      "en": "Tracing-wheels",
+      "count": 225,
+      "sourceFile": "ipc_A41H.txt",
+      "kind": "ipc"
+    },
+    "A41H15/00": {
+      "code": "A41H15/00",
+      "level": 0,
+      "parent": "A41H",
+      "ja": "布保持具",
+      "en": "Cloth-holders",
+      "count": 409,
+      "sourceFile": "ipc_A41H.txt",
+      "kind": "ipc"
+    },
+    "A41H17/00": {
+      "code": "A41H17/00",
+      "level": 0,
+      "parent": "A41H",
+      "ja": "針山（Ａ４１Ｈ１９／００が優先）",
+      "en": "Cushions for needles or pins(<b>A41H19/00</b> takes precedence)",
+      "count": 214,
+      "sourceFile": "ipc_A41H.txt",
+      "kind": "ipc"
+    },
+    "A41H19/00": {
+      "code": "A41H19/00",
+      "level": 0,
+      "parent": "A41H",
+      "ja": "針箱",
+      "en": "Boxes for needles or pins",
+      "count": 282,
+      "sourceFile": "ipc_A41H.txt",
+      "kind": "ipc"
+    },
+    "A41H21/00": {
+      "code": "A41H21/00",
+      "level": 0,
+      "parent": "A41H",
+      "ja": "試着または仮縫中の人体の支持具",
+      "en": "Supports for the body whilst trying-on or fitting",
+      "count": 54,
+      "sourceFile": "ipc_A41H.txt",
+      "kind": "ipc"
+    },
+    "A41H23/00": {
+      "code": "A41H23/00",
+      "level": 0,
+      "parent": "A41H",
+      "ja": "チョーク使用用具；チョーク削り具または保持具［２００６．０１］",
+      "en": "Devices for applying chalk; Sharpening or holding chalk",
+      "count": 280,
+      "sourceFile": "ipc_A41H.txt",
+      "kind": "ipc"
+    },
+    "A41H25/00": {
+      "code": "A41H25/00",
+      "level": 0,
+      "parent": "A41H",
+      "ja": "マーク付け，ミシン目打ちまたはボタン穴あけのための器具または方法［２００６．０１］",
+      "en": "Appliances or methods for marking-out, perforating or making buttonholes",
+      "count": 766,
+      "sourceFile": "ipc_A41H.txt",
+      "kind": "ipc"
+    },
+    "A41H25/02": {
+      "code": "A41H25/02",
+      "level": 1,
+      "parent": "A41H25/00",
+      "ja": "ボタン穴あけ用はさみ",
+      "en": "Buttonhole shears",
+      "count": 47,
+      "sourceFile": "ipc_A41H.txt",
+      "kind": "ipc"
+    },
+    "A41H27/00": {
+      "code": "A41H27/00",
+      "level": 0,
+      "parent": "A41H",
+      "ja": "接着剤または接着する布によって衣服を修理すること",
+      "en": "Mending garments by adhesives or adhesive patches",
+      "count": 313,
+      "sourceFile": "ipc_A41H.txt",
+      "kind": "ipc"
+    },
+    "A41H31/00": {
+      "code": "A41H31/00",
+      "level": 0,
+      "parent": "A41H",
+      "ja": "仕立てのためのその他の補助具",
+      "en": "Other aids for tailors",
+      "count": 1137,
+      "sourceFile": "ipc_A41H.txt",
+      "kind": "ipc"
+    },
+    "A41H33/00": {
+      "code": "A41H33/00",
+      "level": 0,
+      "parent": "A41H",
+      "ja": "衣服製造中えりや袖の端を折たたむ機械または器具［２００６．０１］",
+      "en": "Machines or appliances for folding the edges of collars, cuffs or the like while manufacturing",
+      "count": 571,
+      "sourceFile": "ipc_A41H.txt",
+      "kind": "ipc"
+    },
+    "A41H37/00": {
+      "code": "A41H37/00",
+      "level": 0,
+      "parent": "A41H",
+      "ja": "衣服に止め具を取付ける機械，器具または方法［２００６．０１］",
+      "en": "Machines, appliances or methods for setting fastener-elements on garments",
+      "count": 1930,
+      "sourceFile": "ipc_A41H.txt",
+      "kind": "ipc"
+    },
+    "A41H37/02": {
+      "code": "A41H37/02",
+      "level": 1,
+      "parent": "A41H37/00",
+      "ja": "フックまたは輪の取付け",
+      "en": "Setting hooks or eyes",
+      "count": 535,
+      "sourceFile": "ipc_A41H.txt",
+      "kind": "ipc"
+    },
+    "A41H37/04": {
+      "code": "A41H37/04",
+      "level": 1,
+      "parent": "A41H37/00",
+      "ja": "スナップファスナーの取付け",
+      "en": "Setting snap fasteners",
+      "count": 559,
+      "sourceFile": "ipc_A41H.txt",
+      "kind": "ipc"
+    },
+    "A41H37/06": {
+      "code": "A41H37/06",
+      "level": 1,
+      "parent": "A41H37/00",
+      "ja": "スライドファスナーの取付け",
+      "en": "Setting slide or glide fastener elements",
+      "count": 328,
+      "sourceFile": "ipc_A41H.txt",
+      "kind": "ipc"
+    },
+    "A41H37/08": {
+      "code": "A41H37/08",
+      "level": 1,
+      "parent": "A41H37/00",
+      "ja": "バックルの取付け",
+      "en": "Setting buckles",
+      "count": 235,
+      "sourceFile": "ipc_A41H.txt",
+      "kind": "ipc"
+    },
+    "A41H37/10": {
+      "code": "A41H37/10",
+      "level": 1,
+      "parent": "A41H37/00",
+      "ja": "ボタンの取付け",
+      "en": "Setting buttons",
+      "count": 1717,
+      "sourceFile": "ipc_A41H.txt",
+      "kind": "ipc"
+    },
+    "A41H41/00": {
+      "code": "A41H41/00",
+      "level": 0,
+      "parent": "A41H",
+      "ja": "天然または人造毛皮から衣服を作るための機械または器具［２００６．０１］",
+      "en": "Machines or appliances for making garments from natural or artificial fur",
+      "count": 444,
+      "sourceFile": "ipc_A41H.txt",
+      "kind": "ipc"
+    },
+    "A41H42/00": {
+      "code": "A41H42/00",
+      "level": 0,
+      "parent": "A41H",
+      "ja": "衣服製造のための多段階製造ライン［２００６．０１］",
+      "en": "Multi-step production lines for making clothes",
+      "count": 2002,
+      "sourceFile": "ipc_A41H.txt",
+      "kind": "ipc"
+    },
+    "A41H43/00": {
+      "code": "A41H43/00",
+      "level": 0,
+      "parent": "A41H",
+      "ja": "他の方法，機械または機具",
+      "en": "Other methods, machines, or appliances",
+      "count": 6318,
+      "sourceFile": "ipc_A41H.txt",
+      "kind": "ipc"
+    },
+    "A41H43/02": {
+      "code": "A41H43/02",
+      "level": 1,
+      "parent": "A41H43/00",
+      "ja": "衣服の構成部片または衣服の半加工品の取り扱い，例．供給，堆積，分離または裏返し［２００６．０１］",
+      "en": "Handling garment parts or blanks, e.g. feeding, piling, separating or reversing",
+      "count": 4711,
+      "sourceFile": "ipc_A41H.txt",
+      "kind": "ipc"
+    },
+    "A41H43/04": {
+      "code": "A41H43/04",
+      "level": 1,
+      "parent": "A41H43/00",
+      "ja": "衣服の構成部片または衣服の半加工品の貼着または溶着による接合（接着剤または接着する布による衣服の修理Ａ４１Ｈ２７／００）［２００６．０１］",
+      "en": "Joining garment parts or blanks by gluing or welding(mending garments by adhesives or adhesive patches <b>A41H27/00</b>)",
+      "count": 5190,
+      "sourceFile": "ipc_A41H.txt",
+      "kind": "ipc"
+    }
+  }
+};

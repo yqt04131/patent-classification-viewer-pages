@@ -1,0 +1,386 @@
+{
+  "generatedAt": "2026-03-20T02:17:46.861Z",
+  "total": 38,
+  "entries": {
+    "F17C": {
+      "code": "F17C",
+      "level": 0,
+      "parent": "F17",
+      "ja": "圧縮，液化または固化ガスの収容または貯蔵用容器；一定容量のガスホルダ；圧縮，液化または固化ガスの容器への充填，または容器からの放出（自然または人工的な地中の穴または室での流体貯蔵Ｂ６５Ｇ５／００；土木工学技術を用いた大型貯蔵容器の建設または組立てＥ０４Ｈ７／００；可変容量のガスホルダＦ１７Ｂ；液化または冷凍機械，プラントまたはシステムＦ２５）<br><br><b><ul>サブクラス内の索引</ul></b><br>圧力容器；圧力のかかっていない容器；細部　１／００；３／００；１３／００<br>充填；放出　５／００，６／００；７／００，９／００<br>ガス溶剤またはガス吸着剤を用いるもの　１１／００",
+      "en": "VESSELS FOR CONTAINING OR STORING COMPRESSED, LIQUEFIED, OR SOLIDIFIED GASES; FIXED-CAPACITY GAS-HOLDERS; FILLING VESSELS WITH, OR DISCHARGING FROM VESSELS, COMPRESSED, LIQUEFIED, OR SOLIDIFIED GASES(storing fluids in natural or artificial cavities or chambers in the earth <b>B65G5/00</b>; construction or assembling of bulk storage containers employing civil-engineering techniques <b>E04H7/00</b>; variable-capacity gas-holders <b>F17B</b>; liquefaction or refrigeration machines, plants, or systems <b>F25</b>);<br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">VESSELS UNDER PRESSURE; VESSELS NOT UNDER PRESSURE; DETAILS </td><td><b><b>1/00</b>; <b>3/00</b>; <b>13/00</b></b></td></tr></tr><tr><td width=\"70%\">FILLING; DISCHARGING </td><td><b><b>5/00</b>, <b>6/00</b>; <b>7/00</b>, <b>9/00</b></b></td></tr></tr><tr><td width=\"70%\">USE OF GAS-SOLVENTS OR GAS-ABSORBENTS </td><td><b><b>11/00</b></b></td></tr></tr></table>",
+      "count": 881,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F17": {
+      "code": "F17",
+      "level": 0,
+      "parent": "F",
+      "ja": "ガスまたは液体の貯蔵または分配",
+      "en": "STORING OR DISTRIBUTING GASES OR LIQUIDS",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F": {
+      "code": "F",
+      "level": 0,
+      "parent": null,
+      "ja": "機械工学；照明；加熱；武器；爆破",
+      "en": "MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F17C1/00": {
+      "code": "F17C1/00",
+      "level": 0,
+      "parent": "F17C",
+      "ja": "圧力容器，例．ガスボンベ，ガスタンク，取り替え可能カートリッジ（貯蔵の目的以外の加圧された装置はＡ６２Ｃ，Ｂ０５Ｂなどの関連するサブクラス参照，乗物に関連するものＢ６０からＢ６４の適当なサブクラス参照；圧力容器一般Ｆ１６Ｊ１２／００）",
+      "en": "Pressure vessels, e.g. gas cylinder, gas tank, replaceable cartridge(pressurised apparatus for purposes other than storage, <u>see</u> the relevant subclasses such as <b>A62C</b>, <b>B05B</b>; associated with vehicles, <u>see</u> the appropriate subclass of classes <b>B60 to B64</b> ; pressure vessels in general <b>F16J12/00</b>)",
+      "count": 12958,
+      "sourceFile": "ipc_F17C.txt",
+      "kind": "ipc"
+    },
+    "F17C1/02": {
+      "code": "F17C1/02",
+      "level": 1,
+      "parent": "F17C1/00",
+      "ja": "補強のための手段を含むもの［４］",
+      "en": "involving reinforcing arrangements",
+      "count": 1658,
+      "sourceFile": "ipc_F17C.txt",
+      "kind": "ipc"
+    },
+    "F17C1/04": {
+      "code": "F17C1/04",
+      "level": 2,
+      "parent": "F17C1/02",
+      "ja": "補強覆い",
+      "en": "Protecting sheatings",
+      "count": 1436,
+      "sourceFile": "ipc_F17C.txt",
+      "kind": "ipc"
+    },
+    "F17C1/06": {
+      "code": "F17C1/06",
+      "level": 3,
+      "parent": "F17C1/04",
+      "ja": "巻きつけた帯材または繊維状材料，例．針金，により組み立てられるもの［４］",
+      "en": "built-up from wound-on bands or filamentary material, e.g. wires",
+      "count": 2292,
+      "sourceFile": "ipc_F17C.txt",
+      "kind": "ipc"
+    },
+    "F17C1/08": {
+      "code": "F17C1/08",
+      "level": 2,
+      "parent": "F17C1/02",
+      "ja": "一体の補強部材，例．リブ",
+      "en": "Integral reinforcements, e.g. ribs",
+      "count": 705,
+      "sourceFile": "ipc_F17C.txt",
+      "kind": "ipc"
+    },
+    "F17C1/10": {
+      "code": "F17C1/10",
+      "level": 1,
+      "parent": "F17C1/00",
+      "ja": "腐食，例．ガス状の酸による，に対する保護のための設備をもつもの（金属性物質の腐食または鉱皮の抑制一般Ｃ２３Ｆ）［４］",
+      "en": "with provision for protection against corrosion, e.g. due to gaseous acid(inhibiting corrosion of metallic material or incrustation in general <b>C23F</b>)",
+      "count": 821,
+      "sourceFile": "ipc_F17C.txt",
+      "kind": "ipc"
+    },
+    "F17C1/12": {
+      "code": "F17C1/12",
+      "level": 1,
+      "parent": "F17C1/00",
+      "ja": "断熱設備をもつもの（断熱一般Ｆ１６Ｌ５９／００）［４］",
+      "en": "with provision for thermal insulation(thermal insulation in general <b>F16L59/00</b>)",
+      "count": 3529,
+      "sourceFile": "ipc_F17C.txt",
+      "kind": "ipc"
+    },
+    "F17C1/14": {
+      "code": "F17C1/14",
+      "level": 1,
+      "parent": "F17C1/00",
+      "ja": "アルミニウム製；非磁性鋼製",
+      "en": "constructed of aluminium; constructed of non-magnetic steel",
+      "count": 942,
+      "sourceFile": "ipc_F17C.txt",
+      "kind": "ipc"
+    },
+    "F17C1/16": {
+      "code": "F17C1/16",
+      "level": 1,
+      "parent": "F17C1/00",
+      "ja": "合成樹脂製",
+      "en": "constructed of plastics materials",
+      "count": 2265,
+      "sourceFile": "ipc_F17C.txt",
+      "kind": "ipc"
+    },
+    "F17C3/00": {
+      "code": "F17C3/00",
+      "level": 0,
+      "parent": "F17C",
+      "ja": "圧力をかけない容器",
+      "en": "Vessels not under pressure",
+      "count": 4057,
+      "sourceFile": "ipc_F17C.txt",
+      "kind": "ipc"
+    },
+    "F17C3/02": {
+      "code": "F17C3/02",
+      "level": 1,
+      "parent": "F17C3/00",
+      "ja": "断熱設備をもつもの（断熱設備一般Ｆ１６Ｌ５９／００）",
+      "en": "with provision for thermal insulation(thermal insulation in general <b>F16L59/00</b>)",
+      "count": 3550,
+      "sourceFile": "ipc_F17C.txt",
+      "kind": "ipc"
+    },
+    "F17C3/04": {
+      "code": "F17C3/04",
+      "level": 2,
+      "parent": "F17C3/02",
+      "ja": "断熱層によるもの（Ｆ１７Ｃ３／０８が優先）",
+      "en": "by insulating layers(<b>F17C3/08</b> takes precedence)",
+      "count": 4204,
+      "sourceFile": "ipc_F17C.txt",
+      "kind": "ipc"
+    },
+    "F17C3/06": {
+      "code": "F17C3/06",
+      "level": 3,
+      "parent": "F17C3/04",
+      "ja": "内表面上にあるもの，すなわち貯蔵された流体に接しているもの［４］",
+      "en": "on the inner surface, i.e. in contact with the stored fluid",
+      "count": 945,
+      "sourceFile": "ipc_F17C.txt",
+      "kind": "ipc"
+    },
+    "F17C3/08": {
+      "code": "F17C3/08",
+      "level": 2,
+      "parent": "F17C3/02",
+      "ja": "真空空間によるもの，例．デュワーフラスコ（家庭用のものＡ４７Ｊ４１／０２）",
+      "en": "by vacuum spaces, e.g. Dewar flask(for household use <b>A47J41/02</b>)",
+      "count": 2699,
+      "sourceFile": "ipc_F17C.txt",
+      "kind": "ipc"
+    },
+    "F17C3/10": {
+      "code": "F17C3/10",
+      "level": 2,
+      "parent": "F17C3/02",
+      "ja": "液体循環または蒸気循環ジャケットによるもの",
+      "en": "by liquid-circulating or vapour-circulating jackets",
+      "count": 447,
+      "sourceFile": "ipc_F17C.txt",
+      "kind": "ipc"
+    },
+    "F17C3/12": {
+      "code": "F17C3/12",
+      "level": 1,
+      "parent": "F17C3/00",
+      "ja": "腐食，例．ガス状の酸による，に対する保護のための設備をもつもの（腐食に対する保護一般Ｃ２３Ｆ）",
+      "en": "with provision for protection against corrosion, e.g. due to gaseous acid(protection against corrosion in general <b>C23F</b>)",
+      "count": 198,
+      "sourceFile": "ipc_F17C.txt",
+      "kind": "ipc"
+    },
+    "F17C5/00": {
+      "code": "F17C5/00",
+      "level": 0,
+      "parent": "F17C",
+      "ja": "圧力容器に液化，固化または圧縮ガスを充填するための方法または装置（エアゾール容器への推進剤の添加Ｂ６５Ｂ３１／００）<br><br><b><ul>注</ul></b><br>このグループは以下のものを包含する：<br>―圧縮ガスまたは液化ガスの貯蔵容器の充てん；<br>―他のただ１つのサブクラス，例．Ａ６２Ｃ，Ｂ０５Ｂ，に包含されない加圧された装置の充てん",
+      "en": "Methods or apparatus for filling pressure vessels with liquefied, solidified, or compressed gases(adding propellants to aerosol containers <b>B65B31/00</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>This group <u>covers</u>:<ul><li>the filling of vessels for storage of compressed or liquefied gases;</li><li>the filling of pressurised apparatus insofar as it is not covered by a single other subclass, e.g. <b>A62C</b>, <b>B05B</b>.</li></ul></li></ul>",
+      "count": 5006,
+      "sourceFile": "ipc_F17C.txt",
+      "kind": "ipc"
+    },
+    "F17C5/02": {
+      "code": "F17C5/02",
+      "level": 1,
+      "parent": "F17C5/00",
+      "ja": "液化ガスの充填用",
+      "en": "for filling with liquefied gases",
+      "count": 4890,
+      "sourceFile": "ipc_F17C.txt",
+      "kind": "ipc"
+    },
+    "F17C5/04": {
+      "code": "F17C5/04",
+      "level": 2,
+      "parent": "F17C5/02",
+      "ja": "冷凍機使用の必要があるもの，例．ヘリウムまたは水素の充填",
+      "en": "requiring the use of refrigeration, e.g. filling with helium or hydrogen",
+      "count": 788,
+      "sourceFile": "ipc_F17C.txt",
+      "kind": "ipc"
+    },
+    "F17C5/06": {
+      "code": "F17C5/06",
+      "level": 1,
+      "parent": "F17C5/00",
+      "ja": "圧縮ガスの充填用",
+      "en": "for filling with compressed gases",
+      "count": 8892,
+      "sourceFile": "ipc_F17C.txt",
+      "kind": "ipc"
+    },
+    "F17C6/00": {
+      "code": "F17C6/00",
+      "level": 0,
+      "parent": "F17C",
+      "ja": "圧力をかけない容器に液化または固化ガスを充填する方法または装置［３］",
+      "en": "Methods or apparatus for filling vessels not under pressure with liquefied or solidified gases",
+      "count": 3087,
+      "sourceFile": "ipc_F17C.txt",
+      "kind": "ipc"
+    },
+    "F17C7/00": {
+      "code": "F17C7/00",
+      "level": 0,
+      "parent": "F17C",
+      "ja": "他のサブクラスに属さない，圧力容器から液化，固化または圧縮ガスを放出する方法または装置",
+      "en": "Methods or apparatus for discharging liquefied, solidified, or compressed gases from pressure vessels, not covered by another subclass",
+      "count": 5997,
+      "sourceFile": "ipc_F17C.txt",
+      "kind": "ipc"
+    },
+    "F17C7/02": {
+      "code": "F17C7/02",
+      "level": 1,
+      "parent": "F17C7/00",
+      "ja": "液化ガスの放出",
+      "en": "Discharging liquefied gases",
+      "count": 2476,
+      "sourceFile": "ipc_F17C.txt",
+      "kind": "ipc"
+    },
+    "F17C7/04": {
+      "code": "F17C7/04",
+      "level": 2,
+      "parent": "F17C7/02",
+      "ja": "状態の変化，例．気化，を伴うもの［３］",
+      "en": "with change of state, e.g. vaporisation",
+      "count": 5946,
+      "sourceFile": "ipc_F17C.txt",
+      "kind": "ipc"
+    },
+    "F17C9/00": {
+      "code": "F17C9/00",
+      "level": 0,
+      "parent": "F17C",
+      "ja": "圧力をかけていない容器から液化または固化ガスを放出する方法または装置",
+      "en": "Methods or apparatus for discharging liquefied or solidified gases from vessels not under pressure",
+      "count": 3641,
+      "sourceFile": "ipc_F17C.txt",
+      "kind": "ipc"
+    },
+    "F17C9/02": {
+      "code": "F17C9/02",
+      "level": 1,
+      "parent": "F17C9/00",
+      "ja": "状態の変化，例．気化，を伴うもの",
+      "en": "with change of state, e.g. vaporisation",
+      "count": 6269,
+      "sourceFile": "ipc_F17C.txt",
+      "kind": "ipc"
+    },
+    "F17C9/04": {
+      "code": "F17C9/04",
+      "level": 2,
+      "parent": "F17C9/02",
+      "ja": "熱エネルギーの回収［３］",
+      "en": "Recovery of thermal energy",
+      "count": 1256,
+      "sourceFile": "ipc_F17C.txt",
+      "kind": "ipc"
+    },
+    "F17C11/00": {
+      "code": "F17C11/00",
+      "level": 0,
+      "parent": "F17C",
+      "ja": "容器内にガス溶剤またはガス吸着剤を用いるもの",
+      "en": "Use of gas-solvents or gas-sorbents in vessels",
+      "count": 4844,
+      "sourceFile": "ipc_F17C.txt",
+      "kind": "ipc"
+    },
+    "F17C13/00": {
+      "code": "F17C13/00",
+      "level": 0,
+      "parent": "F17C",
+      "ja": "容器の細部または容器への充填あるいは容器からの放出の細部",
+      "en": "Details of vessels or of the filling or discharging of vessels",
+      "count": 35904,
+      "sourceFile": "ipc_F17C.txt",
+      "kind": "ipc"
+    },
+    "F17C13/02": {
+      "code": "F17C13/02",
+      "level": 1,
+      "parent": "F17C13/00",
+      "ja": "指示，測定または監視のための装置の特別な適用（測定一般Ｇ０１）",
+      "en": "Special adaptations of indicating, measuring, or monitoring equipment(measuring in general <b>G01</b>)",
+      "count": 20162,
+      "sourceFile": "ipc_F17C.txt",
+      "kind": "ipc"
+    },
+    "F17C13/04": {
+      "code": "F17C13/04",
+      "level": 1,
+      "parent": "F17C13/00",
+      "ja": "弁の配置または取付け（弁自体Ｆ１６Ｋ）",
+      "en": "Arrangement or mounting of valves(valves <u>per se</u><b>F16K</b>)",
+      "count": 22525,
+      "sourceFile": "ipc_F17C.txt",
+      "kind": "ipc"
+    },
+    "F17C13/06": {
+      "code": "F17C13/06",
+      "level": 1,
+      "parent": "F17C13/00",
+      "ja": "閉鎖具，例．キャップ，脆弱部材（容器一般用の閉鎖具Ｂ６５Ｄ）",
+      "en": "Closures, e.g. cap, breakable member(closures for containers in general <b>B65D</b>)",
+      "count": 5322,
+      "sourceFile": "ipc_F17C.txt",
+      "kind": "ipc"
+    },
+    "F17C13/08": {
+      "code": "F17C13/08",
+      "level": 1,
+      "parent": "F17C13/00",
+      "ja": "容器のすえ付け装置",
+      "en": "Mounting arrangements for vessels",
+      "count": 17193,
+      "sourceFile": "ipc_F17C.txt",
+      "kind": "ipc"
+    },
+    "F17C13/10": {
+      "code": "F17C13/10",
+      "level": 1,
+      "parent": "F17C13/00",
+      "ja": "凍結防止装置",
+      "en": "Arrangements for preventing freezing",
+      "count": 1058,
+      "sourceFile": "ipc_F17C.txt",
+      "kind": "ipc"
+    },
+    "F17C13/12": {
+      "code": "F17C13/12",
+      "level": 1,
+      "parent": "F17C13/00",
+      "ja": "爆発の影響の抑止または最小化のための装置の配置または取付け（火炎トラップＡ６２Ｃ４／００）",
+      "en": "Arrangements or mounting of devices for preventing or minimising the effect of explosion(flame traps <b>A62C4/00</b>)",
+      "count": 8634,
+      "sourceFile": "ipc_F17C.txt",
+      "kind": "ipc"
+    }
+  }
+}

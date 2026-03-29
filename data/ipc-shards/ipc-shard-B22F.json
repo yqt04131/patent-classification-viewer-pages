@@ -1,0 +1,1526 @@
+{
+  "generatedAt": "2026-03-20T02:17:46.103Z",
+  "total": 152,
+  "entries": {
+    "B22F": {
+      "code": "B22F",
+      "level": 0,
+      "parent": "B22",
+      "ja": "金属質粉の加工；金属質粉からの物品の製造；金属質粉の製造（粉末治金による合金の製造Ｃ２２Ｃ）；金属質粉に特に適する装置または機械<br><br><b><ul>注</ul></b><br>１．このサブクラスは，特定の物理的性質を有する粉末の製造に関する限りにおいてのみ，金属質粉の製造を包含する。<br>２．このサブクラスにおいて“粉末”という用語  は、粉末と類似な方法で加工され，得られまたは作用するやや大きな小片，例．繊維，を含む。<br>３．このサブクラスにおいて“金属質粉”という表現は以下を含む。<br>・金属粒子からなる粉末；<br>・被覆された金属粒子からなる粉末；<br>・金属で被覆された非金属粒子からなる粉末；<br>・上述の種類の粉末の混合；<br>・上述の種類の粉末が主成分の粉末であって，非金属材料，例．潤滑剤，結合剤または有機材料，を混合しているか，含むもの<br>",
+      "en": "WORKING METALLIC POWDER; MANUFACTURE OF ARTICLES FROM METALLIC POWDER; MAKING METALLIC POWDER(making alloys by powder metallurgy <b>C22C</b>);APPARATUS OR DEVICES SPECIALLY ADAPTED FOR METALLIC POWDER; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This subclass <u>covers</u> the making of metallic powder only insofar as powder with specific physical characteristics is made.</li><li>In this subclass, the term \"powder\" includes somewhat larger particles which are worked, obtained or behave in a manner similar to powder, e.g. fibres.</li><li>In this subclass, the expression &ldquo;metallic powder&rdquo; <u>covers</u>: <ul><li>powders consisting of metal particles;</li><li>powders consisting of coated metal particles;</li><li>powders consisting of metal-coated non-metallic particles;</li><li>mixtures of powders of the kinds mentioned above;</li><li>powders of the kinds mentioned above as the main component mixed with or containing non-metallic material, e.g. lubricating or binding agents or organic material.</li></ul></li></ul>",
+      "count": 691,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B22": {
+      "code": "B22",
+      "level": 0,
+      "parent": "B",
+      "ja": "鋳造；粉末冶金",
+      "en": "CASTING; POWDER METALLURGY",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B": {
+      "code": "B",
+      "level": 0,
+      "parent": null,
+      "ja": "処理操作；運輸",
+      "en": "PERFORMING OPERATIONS; TRANSPORTING",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B22F1/00": {
+      "code": "B22F1/00",
+      "level": 0,
+      "parent": "B22F",
+      "ja": "金属質粉；金属質粉の処理，例．加工を促進するためのもの，特性を改善するためのもの［２０２２．０１］",
+      "en": "Metallic powder; Treatment of metallic powder, e.g. to facilitate working or to improve properties",
+      "count": 31030,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F1/05": {
+      "code": "B22F1/05",
+      "level": 1,
+      "parent": "B22F1/00",
+      "ja": "粒径または表面積に特徴のある金属質粉［２０２２．０１］",
+      "en": "Metallic powder characterised by the size or surface area of the particles",
+      "count": 2465,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F1/052": {
+      "code": "B22F1/052",
+      "level": 2,
+      "parent": "B22F1/05",
+      "ja": "異なる粒径の粒子の混合に，または粒径分布に特徴のあるもの［２０２２．０１］",
+      "en": "characterised by a mixture of particles of different sizes or by the particle size distribution",
+      "count": 1776,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F1/054": {
+      "code": "B22F1/054",
+      "level": 2,
+      "parent": "B22F1/05",
+      "ja": "ナノ粒子［２０２２．０１］",
+      "en": "Nanosized particles",
+      "count": 5343,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F1/0545": {
+      "code": "B22F1/0545",
+      "level": 3,
+      "parent": "B22F1/054",
+      "ja": "ナノ粒子の分散または懸濁［２０２２．０１］",
+      "en": "Dispersions or suspensions of nanosized particles",
+      "count": 1079,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F1/06": {
+      "code": "B22F1/06",
+      "level": 1,
+      "parent": "B22F1/00",
+      "ja": "粒子の形状に特徴がある金属質粉（ナノ粒子Ｂ２２Ｆ１／０５４）［２０２２．０１］",
+      "en": "Metallic powder characterised by the shape of the particles (nanosized particles <b>B22F1/054</b>)",
+      "count": 654,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F1/062": {
+      "code": "B22F1/062",
+      "level": 2,
+      "parent": "B22F1/06",
+      "ja": "繊維状粒子［２０２２．０１］",
+      "en": "Fibrous particles",
+      "count": 406,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F1/065": {
+      "code": "B22F1/065",
+      "level": 2,
+      "parent": "B22F1/06",
+      "ja": "球状粒子［２０２２．０１］",
+      "en": "Spherical particles",
+      "count": 2673,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F1/0655": {
+      "code": "B22F1/0655",
+      "level": 3,
+      "parent": "B22F1/065",
+      "ja": "中空粒子［２０２２．０１］",
+      "en": "Hollow particles",
+      "count": 205,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F1/068": {
+      "code": "B22F1/068",
+      "level": 2,
+      "parent": "B22F1/06",
+      "ja": "フレーク状粒子［２０２２．０１］",
+      "en": "Flake-like particles",
+      "count": 761,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F1/07": {
+      "code": "B22F1/07",
+      "level": 1,
+      "parent": "B22F1/00",
+      "ja": "ナノスケール微細構造を有する粒子に特徴がある金属質粉，（ナノ粒子Ｂ２２Ｆ１／０５４）［２０２２．０１］",
+      "en": "Metallic powder characterised by particles having a nanoscale microstructure  (nanosized particles <b>B22F1/054</b>)",
+      "count": 480,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F1/08": {
+      "code": "B22F1/08",
+      "level": 1,
+      "parent": "B22F1/00",
+      "ja": "非晶質微細構造を有する粒子に特徴がある金属質粉［２０２２．０１］",
+      "en": "Metallic powder characterised by particles having an amorphous microstructure",
+      "count": 541,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F1/10": {
+      "code": "B22F1/10",
+      "level": 1,
+      "parent": "B22F1/00",
+      "ja": "潤滑剤または結合剤を含む金属質粉；有機材料を含む金属質粉［２０２２．０１］",
+      "en": "Metallic powder containing lubricating or binding agents; Metallic powder containing organic material",
+      "count": 3000,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F1/102": {
+      "code": "B22F1/102",
+      "level": 2,
+      "parent": "B22F1/10",
+      "ja": "有機材料で被覆された金属質粉［２０２２．０１］",
+      "en": "Metallic powder coated with organic material",
+      "count": 2213,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F1/103": {
+      "code": "B22F1/103",
+      "level": 2,
+      "parent": "B22F1/10",
+      "ja": "溶媒または潤滑剤以外の２つ以上の成分の混合からなる有機結合剤，または溶媒または潤滑剤以外の２つ以上の成分が反応して得られた有機結合剤を含むもの［２０２２．０１］",
+      "en": "containing an organic binding agent comprising a mixture of, or obtained by reaction of, two or more components other than a solvent or a lubricating agent",
+      "count": 960,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F1/105": {
+      "code": "B22F1/105",
+      "level": 2,
+      "parent": "B22F1/10",
+      "ja": "無機潤滑剤または無機結合剤を含むもの，例．金属塩［２０２２．０１］",
+      "en": "containing inorganic lubricating or binding agents, e.g. metal salts",
+      "count": 454,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F1/107": {
+      "code": "B22F1/107",
+      "level": 2,
+      "parent": "B22F1/10",
+      "ja": "溶媒からなる有機材料を含むもの，例．スリップキャストのためのもの［２０２２．０１］",
+      "en": "containing organic material comprising solvents, e.g. for slip casting",
+      "count": 913,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F1/12": {
+      "code": "B22F1/12",
+      "level": 1,
+      "parent": "B22F1/00",
+      "ja": "非金属粒子を含む金属質粉（潤滑剤または結合剤，または有機材料を含むものＢ２２Ｆ１／１０）［２０２２．０１］",
+      "en": "Metallic powder containing non-metallic particles(containing lubricating or binding agents or organic material <b>B22F1/10</b>)",
+      "count": 2892,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F1/14": {
+      "code": "B22F1/14",
+      "level": 1,
+      "parent": "B22F1/00",
+      "ja": "金属質粉の処理（潤滑剤または結合剤，または有機材料と混合したものＢ２２Ｆ１／１０）［２０２２．０１］",
+      "en": "Treatment of metallic powder(mixing with lubricating or binding agents or with organic material <b>B22F1/10</b>)",
+      "count": 2697,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F1/142": {
+      "code": "B22F1/142",
+      "level": 2,
+      "parent": "B22F1/14",
+      "ja": "熱処理または加工熱処理［２０２２．０１］",
+      "en": "Thermal or thermo-mechanical treatment",
+      "count": 2227,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F1/145": {
+      "code": "B22F1/145",
+      "level": 2,
+      "parent": "B22F1/14",
+      "ja": "化学的処理，例．不動態化または脱炭［２０２２．０１］",
+      "en": "Chemical treatment, e.g. passivation or decarburisation",
+      "count": 2275,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F1/148": {
+      "code": "B22F1/148",
+      "level": 2,
+      "parent": "B22F1/14",
+      "ja": "凝集化［２０２２．０１］",
+      "en": "Agglomerating",
+      "count": 521,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F1/16": {
+      "code": "B22F1/16",
+      "level": 1,
+      "parent": "B22F1/00",
+      "ja": "非金属で被覆された金属質粉（潤滑剤または結合剤，または有機材料で被覆されたものＢ２２Ｆ１／１０）［２０２２．０１］",
+      "en": "Metallic particles coated with a non-metal(coated with lubricating or binding agents or with organic material <b>B22F1/10</b>)",
+      "count": 2844,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F1/17": {
+      "code": "B22F1/17",
+      "level": 1,
+      "parent": "B22F1/00",
+      "ja": "金属で被覆された金属質粉［２０２２．０１］",
+      "en": "Metallic particles coated with metal",
+      "count": 2000,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F1/18": {
+      "code": "B22F1/18",
+      "level": 1,
+      "parent": "B22F1/00",
+      "ja": "金属で被覆された非金属質粉［２０２２．０１］",
+      "en": "Non-metallic particles coated with metal",
+      "count": 1602,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F3/00": {
+      "code": "B22F3/00",
+      "level": 0,
+      "parent": "B22F",
+      "ja": "成形または焼結方法に特徴がある金属質粉からの工作物または物品の製造；特にそのために適した装置［２０２１．０１］",
+      "en": "Manufacture of workpieces or articles from metallic powder characterised by the manner of compacting or sintering; Apparatus specially adapted therefor",
+      "count": 12139,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F3/02": {
+      "code": "B22F3/02",
+      "level": 1,
+      "parent": "B22F3/00",
+      "ja": "成形のみに特徴のあるもの",
+      "en": "Compacting only",
+      "count": 12204,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F3/03": {
+      "code": "B22F3/03",
+      "level": 2,
+      "parent": "B22F3/02",
+      "ja": "そのためのプレス成形装置［６］",
+      "en": "Press-moulding apparatus therefor",
+      "count": 7707,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F3/035": {
+      "code": "B22F3/035",
+      "level": 3,
+      "parent": "B22F3/03",
+      "ja": "枢軸に組みつけられた一つ又はそれ以上の部品［６］",
+      "en": "with one or more of the parts thereof being pivotally mounted",
+      "count": 2208,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F3/04": {
+      "code": "B22F3/04",
+      "level": 2,
+      "parent": "B22F3/02",
+      "ja": "流体圧を利用するもの",
+      "en": "by applying fluid pressure",
+      "count": 3023,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F3/06": {
+      "code": "B22F3/06",
+      "level": 2,
+      "parent": "B22F3/02",
+      "ja": "遠心力によるもの",
+      "en": "by centrifugal forces",
+      "count": 170,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F3/08": {
+      "code": "B22F3/08",
+      "level": 2,
+      "parent": "B22F3/02",
+      "ja": "爆発力によるもの",
+      "en": "by explosive forces",
+      "count": 362,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F3/087": {
+      "code": "B22F3/087",
+      "level": 2,
+      "parent": "B22F3/02",
+      "ja": "高エネルギー衝撃を利用するもの，例．磁場衝撃［６］",
+      "en": "using high energy impulses, e.g. magnetic field impulses",
+      "count": 312,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F3/093": {
+      "code": "B22F3/093",
+      "level": 2,
+      "parent": "B22F3/02",
+      "ja": "振動を利用するもの［６］",
+      "en": "using vibration",
+      "count": 576,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F3/10": {
+      "code": "B22F3/10",
+      "level": 1,
+      "parent": "B22F3/00",
+      "ja": "焼結のみに特徴のあるもの",
+      "en": "Sintering only",
+      "count": 15952,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F3/105": {
+      "code": "B22F3/105",
+      "level": 2,
+      "parent": "B22F3/10",
+      "ja": "電流，レーザーまたはプラズマを利用することによるもの（Ｂ２２Ｆ３／１１が優先）［６］",
+      "en": "by using electric current, laser radiation or plasma(<b>B22F3/11</b> takes precedence)",
+      "count": 17624,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F3/11": {
+      "code": "B22F3/11",
+      "level": 2,
+      "parent": "B22F3/10",
+      "ja": "多孔性の部品あるいは物品を作るもの［６］",
+      "en": "Making porous workpieces or articles",
+      "count": 5439,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F3/115": {
+      "code": "B22F3/115",
+      "level": 1,
+      "parent": "B22F3/00",
+      "ja": "融解金属の吹きつけによるもの，例．スプレー焼結，スプレー鋳造［６］",
+      "en": "by spraying molten metal, i.e. spray sintering, spray casting",
+      "count": 3171,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F3/12": {
+      "code": "B22F3/12",
+      "level": 1,
+      "parent": "B22F3/00",
+      "ja": "成形と焼結の両者を特徴とするもの（鍛造によるものＢ２２Ｆ３／１７）［６］",
+      "en": "Both compacting and sintering(by forging <b>B22F3/17</b>)",
+      "count": 3985,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F3/14": {
+      "code": "B22F3/14",
+      "level": 2,
+      "parent": "B22F3/12",
+      "ja": "両者を同時に行なうもの",
+      "en": "simultaneously",
+      "count": 8579,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F3/15": {
+      "code": "B22F3/15",
+      "level": 3,
+      "parent": "B22F3/14",
+      "ja": "熱間静水圧プレス［６］",
+      "en": "Hot isostatic pressing",
+      "count": 4513,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F3/16": {
+      "code": "B22F3/16",
+      "level": 2,
+      "parent": "B22F3/12",
+      "ja": "連続または反復する工程を含むもの",
+      "en": "in successive or repeated steps",
+      "count": 6832,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F3/17": {
+      "code": "B22F3/17",
+      "level": 1,
+      "parent": "B22F3/00",
+      "ja": "鍛造によるもの［６］",
+      "en": "by forging",
+      "count": 1351,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F3/18": {
+      "code": "B22F3/18",
+      "level": 1,
+      "parent": "B22F3/00",
+      "ja": "加圧ロールを用いるもの［６］",
+      "en": "by using pressure rollers",
+      "count": 2349,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F3/20": {
+      "code": "B22F3/20",
+      "level": 1,
+      "parent": "B22F3/00",
+      "ja": "押し出しによるもの",
+      "en": "by extruding",
+      "count": 3411,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F3/22": {
+      "code": "B22F3/22",
+      "level": 1,
+      "parent": "B22F3/00",
+      "ja": "スリップからの成形物製造のためのもの",
+      "en": "for producing castings from a slip",
+      "count": 4832,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F3/23": {
+      "code": "B22F3/23",
+      "level": 1,
+      "parent": "B22F3/00",
+      "ja": "自己成長高温合成または反応による焼結を含むもの［６］",
+      "en": "involving a self-propagating high-temperature synthesis or reaction sintering step",
+      "count": 724,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F3/24": {
+      "code": "B22F3/24",
+      "level": 1,
+      "parent": "B22F3/00",
+      "ja": "工作物や物品の後処理",
+      "en": "After-treatment of workpieces or articles",
+      "count": 12081,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F3/26": {
+      "code": "B22F3/26",
+      "level": 2,
+      "parent": "B22F3/24",
+      "ja": "含浸処理",
+      "en": "Impregnating",
+      "count": 3041,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F5/00": {
+      "code": "B22F5/00",
+      "level": 0,
+      "parent": "B22F",
+      "ja": "製品の特殊な形状に特徴がある金属質粉からの工作物または物品の製造",
+      "en": "Manufacture of workpieces or articles from metallic powder characterised by the special shape of the product",
+      "count": 12906,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F5/02": {
+      "code": "B22F5/02",
+      "level": 1,
+      "parent": "B22F5/00",
+      "ja": "ピストンリング",
+      "en": "of piston rings",
+      "count": 167,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F5/04": {
+      "code": "B22F5/04",
+      "level": 1,
+      "parent": "B22F5/00",
+      "ja": "タービンブレード",
+      "en": "of turbine blades",
+      "count": 1098,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F5/06": {
+      "code": "B22F5/06",
+      "level": 1,
+      "parent": "B22F5/00",
+      "ja": "ねじ歯をつけた物品，例．ナット",
+      "en": "of threaded articles, e.g. nuts",
+      "count": 214,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F5/08": {
+      "code": "B22F5/08",
+      "level": 1,
+      "parent": "B22F5/00",
+      "ja": "歯をつけた物品，例．大歯車；カムディスク",
+      "en": "of toothed articles, e.g. gear wheels; of cam discs",
+      "count": 1723,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F5/10": {
+      "code": "B22F5/10",
+      "level": 1,
+      "parent": "B22F5/00",
+      "ja": "先行のサブグループに規定されていない，空洞あるいは穴のある物品［６］",
+      "en": "of articles with cavities or holes, not otherwise provided for in the preceding subgroups",
+      "count": 4892,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F5/12": {
+      "code": "B22F5/12",
+      "level": 1,
+      "parent": "B22F5/00",
+      "ja": "管あるいは線材［６］",
+      "en": "of tubes or wires",
+      "count": 2056,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F7/00": {
+      "code": "B22F7/00",
+      "level": 0,
+      "parent": "B22F",
+      "ja": "成形を行いまたは行わないで粉末を焼結することによって，金属質粉から成る複合層，複合工作物または複合物品の製造",
+      "en": "Manufacture of composite layers, workpieces, or articles, comprising metallic powder, by sintering the powder, with or without compacting",
+      "count": 3810,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F7/02": {
+      "code": "B22F7/02",
+      "level": 1,
+      "parent": "B22F7/00",
+      "ja": "複合層の製造",
+      "en": "of composite layers",
+      "count": 2372,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F7/04": {
+      "code": "B22F7/04",
+      "level": 2,
+      "parent": "B22F7/02",
+      "ja": "粉末から作ったのではない，例．固体金属から作ったもの，１つまたは２以上の積層をもつもの",
+      "en": "with one or more layers not made from powder, e.g. made from solid metal",
+      "count": 4424,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F7/06": {
+      "code": "B22F7/06",
+      "level": 1,
+      "parent": "B22F7/00",
+      "ja": "部分品からの複合工作物または複合物品の製造，例．付刃バイトの形成",
+      "en": "of composite workpieces or articles from parts, e.g. to form tipped tools",
+      "count": 4696,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F7/08": {
+      "code": "B22F7/08",
+      "level": 2,
+      "parent": "B22F7/06",
+      "ja": "粉末から作られたものではない１つまたは２以上の部品をもつもの",
+      "en": "with one or more parts not made from powder",
+      "count": 4405,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F8/00": {
+      "code": "B22F8/00",
+      "level": 0,
+      "parent": "B22F",
+      "ja": "屑金属あるいは廃棄金属の粒子からの物品の製造［６］",
+      "en": "Manufacture of articles from scrap or waste metal particles",
+      "count": 822,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F9/00": {
+      "code": "B22F9/00",
+      "level": 0,
+      "parent": "B22F",
+      "ja": "金属質粉またはその懸濁液の製造；それに特に適する装置または機械",
+      "en": "Making metallic powder or suspensions thereof; Apparatus or devices specially adapted therefor",
+      "count": 4299,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F9/02": {
+      "code": "B22F9/02",
+      "level": 1,
+      "parent": "B22F9/00",
+      "ja": "物理的プロセスを用いるもの［３］",
+      "en": "using physical processes",
+      "count": 2134,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F9/04": {
+      "code": "B22F9/04",
+      "level": 2,
+      "parent": "B22F9/02",
+      "ja": "固体物質からはじまるもの，例．破砕，研磨または粉砕によるもの［３］",
+      "en": "starting from solid material, e.g. by crushing, grinding or milling",
+      "count": 15052,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F9/06": {
+      "code": "B22F9/06",
+      "level": 2,
+      "parent": "B22F9/02",
+      "ja": "液体物質からはじまるもの［３］",
+      "en": "starting from liquid material",
+      "count": 1037,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F9/08": {
+      "code": "B22F9/08",
+      "level": 3,
+      "parent": "B22F9/06",
+      "ja": "鋳造によるもの，例．ふるいを通してまたは水中への鋳造，アトマイズまたはスプレイによるもの（放電によるものＢ２２Ｆ９／１４）［３］",
+      "en": "by casting, e.g. through sieves or in water, by atomising or spraying(using electric discharge <b>B22F9/14</b>)",
+      "count": 11980,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F9/10": {
+      "code": "B22F9/10",
+      "level": 4,
+      "parent": "B22F9/08",
+      "ja": "遠心力を用いるもの［３］",
+      "en": "using centrifugal force",
+      "count": 1993,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F9/12": {
+      "code": "B22F9/12",
+      "level": 2,
+      "parent": "B22F9/02",
+      "ja": "気体物質からはじまるもの［３］",
+      "en": "starting from gaseous material",
+      "count": 1148,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F9/14": {
+      "code": "B22F9/14",
+      "level": 2,
+      "parent": "B22F9/02",
+      "ja": "放電を用いるもの［３］",
+      "en": "using electric discharge",
+      "count": 2672,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F9/16": {
+      "code": "B22F9/16",
+      "level": 1,
+      "parent": "B22F9/00",
+      "ja": "化学的プロセスを用いるもの［３］",
+      "en": "using chemical processes",
+      "count": 1507,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F9/18": {
+      "code": "B22F9/18",
+      "level": 2,
+      "parent": "B22F9/16",
+      "ja": "金属化合物の還元を伴うもの［３］",
+      "en": "with reduction of metal compounds",
+      "count": 727,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F9/20": {
+      "code": "B22F9/20",
+      "level": 3,
+      "parent": "B22F9/18",
+      "ja": "固体金属化合物からはじまるもの［３］",
+      "en": "starting from solid metal compounds",
+      "count": 2538,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F9/22": {
+      "code": "B22F9/22",
+      "level": 4,
+      "parent": "B22F9/20",
+      "ja": "気体還元剤を用いるもの［３］",
+      "en": "using gaseous reductors",
+      "count": 3802,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F9/24": {
+      "code": "B22F9/24",
+      "level": 3,
+      "parent": "B22F9/18",
+      "ja": "液体金属化合物からはじまるもの，例．溶液［３］",
+      "en": "starting from liquid metal compounds, e.g. solutions",
+      "count": 13829,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F9/26": {
+      "code": "B22F9/26",
+      "level": 4,
+      "parent": "B22F9/24",
+      "ja": "気体還元剤を用いるもの［３］",
+      "en": "using gaseous reductors",
+      "count": 628,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F9/28": {
+      "code": "B22F9/28",
+      "level": 3,
+      "parent": "B22F9/18",
+      "ja": "気体金属化合物からはじまるもの［３］",
+      "en": "starting from gaseous metal compounds",
+      "count": 480,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F9/30": {
+      "code": "B22F9/30",
+      "level": 2,
+      "parent": "B22F9/16",
+      "ja": "金属化合物の分解を伴うもの，例．熱分解によるもの［３］",
+      "en": "with decomposition of metal compounds, e.g. by pyrolysis",
+      "count": 1675,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F10/00": {
+      "code": "B22F10/00",
+      "level": 0,
+      "parent": "B22F",
+      "ja": "金属質粉からの造形物または造形物品の付加製造（そのための装置または器具Ｂ２２Ｆ１２／００）［２０２１．０１］",
+      "en": "Additive manufacturing of workpieces or articles from metallic powder(apparatus or devices therefor <b>B22F12/00</b>)",
+      "count": 1077,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F10/10": {
+      "code": "B22F10/10",
+      "level": 1,
+      "parent": "B22F10/00",
+      "ja": "グリーンボディ［未焼結成形体］の作製［２０２１．０１］",
+      "en": "Formation of a green body",
+      "count": 1107,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F10/12": {
+      "code": "B22F10/12",
+      "level": 2,
+      "parent": "B22F10/10",
+      "ja": "光重合によるもの，例．ステレオリソグラフィー［ＳＬＡ］［光造形］またはデジタルライトプロセッシング［ＤＬＰ］［デジタル光処理］［２０２１．０１］",
+      "en": "by photopolymerisation, e.g. stereolithography [SLA] or digital light processing [DLP]",
+      "count": 256,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F10/14": {
+      "code": "B22F10/14",
+      "level": 2,
+      "parent": "B22F10/10",
+      "ja": "金属質の粉末床に結合剤を噴射することによるもの［２０２１．０１］",
+      "en": "by jetting of binder onto a bed of metal powder",
+      "count": 1003,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F10/16": {
+      "code": "B22F10/16",
+      "level": 2,
+      "parent": "B22F10/10",
+      "ja": "粉末床の中に結合剤を埋め込むことによるもの［２０２１．０１］",
+      "en": "by embedding the binder within the powder bed",
+      "count": 249,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F10/18": {
+      "code": "B22F10/18",
+      "level": 2,
+      "parent": "B22F10/10",
+      "ja": "金属と結合剤をフィラメント状に混合することによるもの，例．熱溶解フィラメント製法［ＦＦＦ］［２０２１．０１］",
+      "en": "by mixing binder with metal in filament form, e.g. fused filament fabrication [FFF]",
+      "count": 445,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F10/20": {
+      "code": "B22F10/20",
+      "level": 1,
+      "parent": "B22F10/00",
+      "ja": "金属質粉を直接焼結又は直接溶融して積層造形を行うもの［２０２１．０１］",
+      "en": "Direct sintering or melting",
+      "count": 1957,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F10/22": {
+      "code": "B22F10/22",
+      "level": 2,
+      "parent": "B22F10/20",
+      "ja": "溶融された金属質粉による直接積層造形［２０２１．０１］",
+      "en": "Direct deposition of molten metal",
+      "count": 712,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F10/25": {
+      "code": "B22F10/25",
+      "level": 2,
+      "parent": "B22F10/20",
+      "ja": "金属粒子による直接積層造形，例．直接金属積層造形［ＤＭＤ］またはレーザー加工ネットシェイピング［ＬＥＮＳ］［２０２１．０１］",
+      "en": "Direct deposition of metal particles, e.g. direct metal deposition [DMD] or laser engineered net shaping [LENS]",
+      "count": 1785,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F10/28": {
+      "code": "B22F10/28",
+      "level": 2,
+      "parent": "B22F10/20",
+      "ja": "粉末床溶融結合，例．指向性レーザー溶融積層造形［ＳＬＭ］または電子ビーム積層造形［ＥＢＭ］［２０２１．０１］",
+      "en": "Powder bed fusion, e.g. selective laser melting [SLM] or electron beam melting [EBM]",
+      "count": 9758,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F10/30": {
+      "code": "B22F10/30",
+      "level": 1,
+      "parent": "B22F10/00",
+      "ja": "工程の制御［２０２１．０１］",
+      "en": "Process control",
+      "count": 916,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F10/31": {
+      "code": "B22F10/31",
+      "level": 2,
+      "parent": "B22F10/30",
+      "ja": "プロセスステップ又は装置設定の較正，例．造形前または造形中に行うもの［２０２１．０１］",
+      "en": "Calibration of process steps or apparatus settings, e.g. before or during manufacturing",
+      "count": 599,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F10/32": {
+      "code": "B22F10/32",
+      "level": 2,
+      "parent": "B22F10/30",
+      "ja": "雰囲気に関するもの　例．造形チェンバーの圧力または雰囲気ガス組成［２０２１．０１］",
+      "en": "of the atmosphere, e.g. composition or pressure in a building chamber",
+      "count": 562,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F10/322": {
+      "code": "B22F10/322",
+      "level": 3,
+      "parent": "B22F10/32",
+      "ja": "ガス流に関するもの，例．速度または方向［２０２１．０１］",
+      "en": "of the gas flow, e.g. rate or direction",
+      "count": 270,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F10/34": {
+      "code": "B22F10/34",
+      "level": 2,
+      "parent": "B22F10/30",
+      "ja": "粉末の特徴に関するもの，例．密度，酸化または流動性［２０２１．０１］",
+      "en": "of powder characteristics, e.g. density, oxidation or flowability",
+      "count": 678,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F10/36": {
+      "code": "B22F10/36",
+      "level": 2,
+      "parent": "B22F10/30",
+      "ja": "エネルギービームのパラメーターに関するもの［２０２１．０１］",
+      "en": "of energy beam parameters",
+      "count": 1035,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F10/362": {
+      "code": "B22F10/362",
+      "level": 3,
+      "parent": "B22F10/36",
+      "ja": "予熱に関するもの［２０２１．０１］",
+      "en": "for preheating",
+      "count": 184,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F10/364": {
+      "code": "B22F10/364",
+      "level": 3,
+      "parent": "B22F10/36",
+      "ja": "後加熱に関するもの，例．再溶融［２０２１．０１］",
+      "en": "for post-heating, e.g. remelting",
+      "count": 226,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F10/366": {
+      "code": "B22F10/366",
+      "level": 3,
+      "parent": "B22F10/36",
+      "ja": "走査のパラメーター，例．走査の間隔または走査の方針設定［２０２１．０１］",
+      "en": "Scanning parameters, e.g. hatch distance or scanning strategy",
+      "count": 1715,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F10/368": {
+      "code": "B22F10/368",
+      "level": 3,
+      "parent": "B22F10/36",
+      "ja": "温度または温度勾配，例．溶融池の温度［２０２１．０１］",
+      "en": "Temperature or temperature gradient, e.g. temperature of the melt pool",
+      "count": 281,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F10/37": {
+      "code": "B22F10/37",
+      "level": 2,
+      "parent": "B22F10/30",
+      "ja": "粉末床の観点に関するもの，例．密度［２０２１．０１］",
+      "en": "of powder bed aspects, e.g. density",
+      "count": 341,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F10/38": {
+      "code": "B22F10/38",
+      "level": 2,
+      "parent": "B22F10/30",
+      "ja": "造形物の特定の観点を達成するためのもの，例．表面の平滑性，密度，多孔構造または中空構造［２０２１．０１］",
+      "en": "to achieve specific product aspects, e.g. surface smoothness, density, porosity or hollow structures",
+      "count": 1514,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F10/39": {
+      "code": "B22F10/39",
+      "level": 2,
+      "parent": "B22F10/30",
+      "ja": "トレーサビリティ，例．造形物または造形物品に識別子を組み込んだもの［２０２１．０１］",
+      "en": "Traceability, e.g. incorporating identifier into a workpiece or article",
+      "count": 46,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F10/40": {
+      "code": "B22F10/40",
+      "level": 1,
+      "parent": "B22F10/00",
+      "ja": "造形時は造形物または造形物品を支持し，造形後は取り外される構造物［２０２１．０１］",
+      "en": "Structures for supporting workpieces or articles during manufacture and removed afterwards",
+      "count": 337,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F10/43": {
+      "code": "B22F10/43",
+      "level": 2,
+      "parent": "B22F10/40",
+      "ja": "材料に特徴があるもの［２０２１．０１］",
+      "en": "characterised by material",
+      "count": 164,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F10/47": {
+      "code": "B22F10/47",
+      "level": 2,
+      "parent": "B22F10/40",
+      "ja": "構造的特性に特徴があるもの［２０２１．０１］",
+      "en": "characterised by structural features",
+      "count": 471,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F10/50": {
+      "code": "B22F10/50",
+      "level": 1,
+      "parent": "B22F10/00",
+      "ja": "積層工程中の造形物または造形物品の処理，例．積層工程中の溶融層に適用する処理［２０２１．０１］",
+      "en": "Treatment of workpieces or articles during build-up, e.g. treatments applied to fused layers during build-up",
+      "count": 866,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F10/60": {
+      "code": "B22F10/60",
+      "level": 1,
+      "parent": "B22F10/00",
+      "ja": "積層工程後の造形物または造形物品の処理［２０２１．０１］",
+      "en": "Treatment of workpieces or articles after build-up",
+      "count": 421,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F10/62": {
+      "code": "B22F10/62",
+      "level": 2,
+      "parent": "B22F10/60",
+      "ja": "化学的手段によるもの［２０２１．０１］",
+      "en": "by chemical means",
+      "count": 464,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F10/64": {
+      "code": "B22F10/64",
+      "level": 2,
+      "parent": "B22F10/60",
+      "ja": "熱による手段によるもの（後加熱のための，エネルギービームのパラメーターの制御Ｂ２２Ｆ１０／３６４）［２０２１．０１］",
+      "en": "by thermal means(control of energy beam parameters for post heating <b>B22F10/364</b>)",
+      "count": 2481,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F10/66": {
+      "code": "B22F10/66",
+      "level": 2,
+      "parent": "B22F10/60",
+      "ja": "機械的手段によるもの［２０２１．０１］",
+      "en": "by mechanical means",
+      "count": 1204,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F10/68": {
+      "code": "B22F10/68",
+      "level": 2,
+      "parent": "B22F10/60",
+      "ja": "清掃または洗浄［２０２１．０１］",
+      "en": "Cleaning or washing",
+      "count": 558,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F10/70": {
+      "code": "B22F10/70",
+      "level": 1,
+      "parent": "B22F10/00",
+      "ja": "再利用［２０２１．０１］",
+      "en": "Recycling",
+      "count": 95,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F10/73": {
+      "code": "B22F10/73",
+      "level": 2,
+      "parent": "B22F10/70",
+      "ja": "粉に関するもの［２０２１．０１］",
+      "en": "of powder",
+      "count": 1023,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F10/77": {
+      "code": "B22F10/77",
+      "level": 2,
+      "parent": "B22F10/70",
+      "ja": "ガスに関するもの［２０２１．０１］",
+      "en": "of gas",
+      "count": 149,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F10/80": {
+      "code": "B22F10/80",
+      "level": 1,
+      "parent": "B22F10/00",
+      "ja": "データ取得またはデータ処理［２０２１．０１］",
+      "en": "Data acquisition or data processing",
+      "count": 896,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F10/85": {
+      "code": "B22F10/85",
+      "level": 2,
+      "parent": "B22F10/80",
+      "ja": "付加製造工程を制御または調整するためのもの［２０２１．０１］",
+      "en": "for controlling or regulating additive manufacturing processes",
+      "count": 2893,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F12/00": {
+      "code": "B22F12/00",
+      "level": 0,
+      "parent": "B22F",
+      "ja": "付加製造に特に適した装置または器具；付加製造のための補助手段；付加製造の装置または器具と，他の製造装置または器具とを組み合わせたもの［２０２１．０１］",
+      "en": "Apparatus or devices specially adapted for additive manufacturing; Auxiliary means for additive manufacturing; Combinations of additive manufacturing apparatus or devices with other processing apparatus or devices",
+      "count": 3858,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F12/10": {
+      "code": "B22F12/10",
+      "level": 1,
+      "parent": "B22F12/00",
+      "ja": "補助加熱手段［２０２１．０１］",
+      "en": "Auxiliary heating means",
+      "count": 277,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F12/13": {
+      "code": "B22F12/13",
+      "level": 2,
+      "parent": "B22F12/10",
+      "ja": "材料を予熱するためのもの［２０２１．０１］",
+      "en": "to preheat the material",
+      "count": 496,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F12/17": {
+      "code": "B22F12/17",
+      "level": 2,
+      "parent": "B22F12/10",
+      "ja": "造形チェンバーまたはプラットフォームを加熱するためのもの［２０２１．０１］",
+      "en": "to heat the build chamber or platform",
+      "count": 259,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F12/20": {
+      "code": "B22F12/20",
+      "level": 1,
+      "parent": "B22F12/00",
+      "ja": "冷却手段［２０２１．０１］",
+      "en": "Cooling means",
+      "count": 649,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F12/30": {
+      "code": "B22F12/30",
+      "level": 1,
+      "parent": "B22F12/00",
+      "ja": "プラットフォームまたは基材［２０２１．０１］",
+      "en": "Platforms or substrates",
+      "count": 1091,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F12/33": {
+      "code": "B22F12/33",
+      "level": 2,
+      "parent": "B22F12/30",
+      "ja": "堆積面に対し平行に移動するもの［２０２１．０１］",
+      "en": "translatory in the deposition plane",
+      "count": 244,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F12/37": {
+      "code": "B22F12/37",
+      "level": 2,
+      "parent": "B22F12/30",
+      "ja": "回転可能なもの［２０２１．０１］",
+      "en": "Rotatable",
+      "count": 309,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F12/40": {
+      "code": "B22F12/40",
+      "level": 1,
+      "parent": "B22F12/00",
+      "ja": "放射手段［２０２１．０１］",
+      "en": "Radiation means",
+      "count": 224,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F12/41": {
+      "code": "B22F12/41",
+      "level": 2,
+      "parent": "B22F12/40",
+      "ja": "種類に特徴があるもの，例．レーザーまたは電子ビーム［２０２１．０１］",
+      "en": "characterised by the type, e.g. laser or electron beam",
+      "count": 1165,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F12/42": {
+      "code": "B22F12/42",
+      "level": 3,
+      "parent": "B22F12/41",
+      "ja": "発光ダイオード［ＬＥＤ］［２０２１．０１］",
+      "en": "Light-emitting diodes [LED]",
+      "count": 50,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F12/43": {
+      "code": "B22F12/43",
+      "level": 3,
+      "parent": "B22F12/41",
+      "ja": "パルス；周波数変調［２０２１．０１］",
+      "en": "pulsed; frequency modulated",
+      "count": 146,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F12/44": {
+      "code": "B22F12/44",
+      "level": 2,
+      "parent": "B22F12/40",
+      "ja": "放射手段の構成に特徴があるもの［２０２１．０１］",
+      "en": "characterised by the configuration of the radiation means",
+      "count": 368,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F12/45": {
+      "code": "B22F12/45",
+      "level": 3,
+      "parent": "B22F12/44",
+      "ja": "２つまたはそれ以上の数のもの［２０２１．０１］",
+      "en": "Two or more",
+      "count": 547,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F12/46": {
+      "code": "B22F12/46",
+      "level": 2,
+      "parent": "B22F12/40",
+      "ja": "直進移動を伴うもの［２０２１．０１］",
+      "en": "with translatory movement",
+      "count": 64,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F12/47": {
+      "code": "B22F12/47",
+      "level": 3,
+      "parent": "B22F12/46",
+      "ja": "堆積面に対して平行に［２０２１．０１］",
+      "en": "parallel to the deposition plane",
+      "count": 134,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F12/48": {
+      "code": "B22F12/48",
+      "level": 3,
+      "parent": "B22F12/46",
+      "ja": "高さ方向に，例．堆積面に対して垂直方向に［２０２１．０１］",
+      "en": "in height, e.g. perpendicular to the deposition plane",
+      "count": 39,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F12/49": {
+      "code": "B22F12/49",
+      "level": 2,
+      "parent": "B22F12/40",
+      "ja": "スキャナー［２０２１．０１］",
+      "en": "Scanners",
+      "count": 382,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F12/50": {
+      "code": "B22F12/50",
+      "level": 1,
+      "parent": "B22F12/00",
+      "ja": "材料を供給するための手段，例．ヘッド［２０２１．０１］",
+      "en": "Means for feeding of material, e.g. heads",
+      "count": 1528,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F12/52": {
+      "code": "B22F12/52",
+      "level": 2,
+      "parent": "B22F12/50",
+      "ja": "ホッパー［２０２１．０１］",
+      "en": "Hoppers",
+      "count": 415,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F12/53": {
+      "code": "B22F12/53",
+      "level": 2,
+      "parent": "B22F12/50",
+      "ja": "ノズル［２０２１．０１］",
+      "en": "Nozzles",
+      "count": 1193,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F12/55": {
+      "code": "B22F12/55",
+      "level": 2,
+      "parent": "B22F12/50",
+      "ja": "材料を供給するための，２つまたはそれ以上の数の手段［２０２１．０１］",
+      "en": "Two or more means for feeding material",
+      "count": 470,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F12/57": {
+      "code": "B22F12/57",
+      "level": 2,
+      "parent": "B22F12/50",
+      "ja": "計量手段［２０２１．０１］",
+      "en": "Metering means",
+      "count": 307,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F12/58": {
+      "code": "B22F12/58",
+      "level": 2,
+      "parent": "B22F12/50",
+      "ja": "材料の組成を変えるためのもの，例．混合することによるもの［２０２１．０１］",
+      "en": "for changing the material composition, e.g. by mixing",
+      "count": 265,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F12/60": {
+      "code": "B22F12/60",
+      "level": 1,
+      "parent": "B22F12/00",
+      "ja": "平坦化装置；圧縮装置［２０２１．０１］",
+      "en": "Planarisation devices; Compression devices",
+      "count": 371,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F12/63": {
+      "code": "B22F12/63",
+      "level": 2,
+      "parent": "B22F12/60",
+      "ja": "ローラー［２０２１．０１］",
+      "en": "Rollers",
+      "count": 262,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F12/67": {
+      "code": "B22F12/67",
+      "level": 2,
+      "parent": "B22F12/60",
+      "ja": "ブレード［２０２１．０１］",
+      "en": "Blades",
+      "count": 763,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F12/70": {
+      "code": "B22F12/70",
+      "level": 1,
+      "parent": "B22F12/00",
+      "ja": "ガス流通手段［２０２１．０１］",
+      "en": "Gas flow means",
+      "count": 1083,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F12/80": {
+      "code": "B22F12/80",
+      "level": 1,
+      "parent": "B22F12/00",
+      "ja": "工場，製造ラインまたはモジュール［２０２１．０１］",
+      "en": "Plants, production lines or modules",
+      "count": 151,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F12/82": {
+      "code": "B22F12/82",
+      "level": 2,
+      "parent": "B22F12/80",
+      "ja": "付加製造の装置または器具と，他の製造装置または器具とを組み合わせたもの［２０２１．０１］",
+      "en": "Combination of additive manufacturing apparatus or devices with other processing apparatus or devices",
+      "count": 277,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F12/84": {
+      "code": "B22F12/84",
+      "level": 3,
+      "parent": "B22F12/82",
+      "ja": "単一の装置中における並列処理［２０２１．０１］",
+      "en": "Parallel processing within single device",
+      "count": 70,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F12/86": {
+      "code": "B22F12/86",
+      "level": 3,
+      "parent": "B22F12/82",
+      "ja": "複数装置のグループ化による直列処理［２０２１．０１］",
+      "en": "Serial processing with multiple devices grouped",
+      "count": 95,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F12/88": {
+      "code": "B22F12/88",
+      "level": 2,
+      "parent": "B22F12/80",
+      "ja": "付加製造された造形物の取扱，例．ロボットによるもの［２０２１．０１］",
+      "en": "Handling of additively manufactured products, e.g. by robots",
+      "count": 329,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    },
+    "B22F12/90": {
+      "code": "B22F12/90",
+      "level": 1,
+      "parent": "B22F12/00",
+      "ja": "工程を制御するための手段，例．カメラまたはセンサー［２０２１．０１］",
+      "en": "Means for process control, e.g. cameras or sensors",
+      "count": 2780,
+      "sourceFile": "ipc_B22F.txt",
+      "kind": "ipc"
+    }
+  }
+}

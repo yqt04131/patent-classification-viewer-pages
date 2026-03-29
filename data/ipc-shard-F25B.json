@@ -1,0 +1,1156 @@
+{
+  "generatedAt": "2026-03-20T02:17:46.922Z",
+  "total": 115,
+  "entries": {
+    "F25B": {
+      "code": "F25B",
+      "level": 0,
+      "parent": "F25",
+      "ja": "冷凍機械，プラントまたはシステム；加熱と冷凍の組み合わせシステム；ヒート・ポンプ・システム［２００６．０１］<br><br><b><ul>注</ul></b><br>サブクラスＦ２４Ｆのタイトルに続く注（２）に注意すること。［５］<br><br><b><ul>サブクラス内の索引</ul></b><br>作動の様式<br>圧縮式<br>サイクルに特徴のあるもの　１／００，１３／００<br>配列に特徴のあるもの<br>自納式回転形のもの；数個の蒸発器回路をもつもの；数個の凝縮器回路をもつもの；カスケード式によるもの　３／００；５／００；６／００；７／００<br>冷媒に特徴のあるもの　９／００<br>タービンを用いるもの　１１／００<br>収着式　１５／００，１７／００<br>単一の作動様式をもつ他の形式のもの；回収を行なわない蒸発を用いたもの；電気または磁気効果を用いたもの；その他の効果を用いたもの　１９／００；２１／００；２３／００<br>組み合わせ；上記の作動様式の組み合わせ；加熱と冷凍との組み合わせ　２５／００；２９／００<br>ヒートポンプ　３０／００<br>特殊なエネルギ源を用いるもの　２７／００<br>細部，配置または部品<br>部分品；ボイラ，アナライザ，精溜器；吸収式機械用ボイラ；吸収器，吸着器；蒸発器，凝縮器；過冷却器，デスーパーヒータ，スーパーヒータ　３３／００；３５／００；３７／００；３９／００；４０／００<br>配置<br>圧縮機の配置；流体の循環；気体の分離または不純物除去　３１／００；４１／００；４３／００<br>冷媒の充填または排出のためのもの；腐食または付着物の対策のためのもの　４５／００；４７／００<br>制御および安全装置の取り付け　４９／００",
+      "en": "REFRIGERATION MACHINES, PLANTS OR SYSTEMS; COMBINED HEATING AND REFRIGERATION SYSTEMS; HEAT PUMP SYSTEMS; <br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">MODE OF OPERATION<tr><td width=\"70%\">Compression type<tr><td width=\"70%\">characterised by the cycle </td><td><b><b>1/00</b>, <b>13/00</b></b></td></tr></tr><tr><td width=\"70%\">characterised by the arrangement<tr><td width=\"70%\">self-contained rotary; with several evaporation circuits; with several condenser circuits; with cascade operation </td><td><b><b>3/00</b>; <b>5/00</b>; <b>6/00</b>; <b>7/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">characterised by the refrigerant </td><td><b><b>9/00</b></b></td></tr></tr><tr><td width=\"70%\">using turbines </td><td><b><b>11/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">Sorption type </td><td><b><b>15/00</b>, <b>17/00</b></b></td></tr></tr><tr><td width=\"70%\">Other types having a single mode of operation, using: evaporation without recovery; electric or magnetic effects; other effect </td><td><b><b>19/00</b>; <b>21/00</b>; <b>23/00</b></b></td></tr></tr><tr><td width=\"70%\">Combinations: of above modes of operation; of heating and refrigerating </td><td><b><b>25/00</b>; <b>29/00</b></b></td></tr></tr><tr><td width=\"70%\">Heat pumps </td><td><b><b>30/00</b></b></td></tr></tr><tr><td width=\"70%\">Using special energy source </td><td><b><b>27/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">DETAILS, ARRANGEMENTS, OR COMPONENTS<tr><td width=\"70%\">Components: boilers, analysers, rectifiers; boiler-absorbers; absorbers, adsorbers; evaporators, condensers; subcoolers, desuper- heaters, superheaters </td><td><b><b>33/00</b>; <b>35/00</b>; <b>37/00</b>; <b>39/00</b>; <b>40/00</b></b></td></tr></tr><tr><td width=\"70%\">Arrangements<tr><td width=\"70%\">compressor arrangement; fluid circulation; separating or purifying gases </td><td><b><b>31/00</b>; <b>41/00</b>; <b>43/00</b></b></td></tr></tr><tr><td width=\"70%\">for charging or discharging refrigerant; for combating corrosion or deposits </td><td><b><b>45/00</b>; <b>47/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">Mounting of control and safety devices </td><td><b><b>49/00</b></b></td></tr></tr></tr></table>",
+      "count": 1898,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F25": {
+      "code": "F25",
+      "level": 0,
+      "parent": "F",
+      "ja": "冷凍または冷却；加熱と冷凍との組み合わせシステム；ヒートポンプシステム；氷の製造または貯蔵；気体の液化または固体化",
+      "en": "REFRIGERATION OR COOLING; COMBINED HEATING AND REFRIGERATION SYSTEMS; HEAT PUMP SYSTEMS; MANUFACTURE OR STORAGE OF ICE; LIQUEFACTION OR SOLIDIFICATION OF GASES",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F": {
+      "code": "F",
+      "level": 0,
+      "parent": null,
+      "ja": "機械工学；照明；加熱；武器；爆破",
+      "en": "MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F25B1/00": {
+      "code": "F25B1/00",
+      "level": 0,
+      "parent": "F25B",
+      "ja": "不可逆サイクルによる圧縮式機械，プラントまたはシステム（Ｆ２５Ｂ３／００，Ｆ２５Ｂ５／００，Ｆ２５Ｂ６／００，Ｆ２５Ｂ７／００，Ｆ２５Ｂ９／００が優先）［２００６．０１］",
+      "en": "Compression machines, plants or systems with non-reversible cycle(<b>F25B3/00</b>, <b>F25B5/00</b>, <b>F25B6/00</b>, <b>F25B7/00</b>, <b>F25B9/00</b> take precedence)",
+      "count": 49020,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B1/02": {
+      "code": "F25B1/02",
+      "level": 1,
+      "parent": "F25B1/00",
+      "ja": "往復ピストン式圧縮機によるもの（Ｆ２５Ｂ１／１０が優先）",
+      "en": "with compressor of reciprocating-piston type(<b>F25B1/10</b> takes precedence)",
+      "count": 1244,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B1/04": {
+      "code": "F25B1/04",
+      "level": 1,
+      "parent": "F25B1/00",
+      "ja": "回転式圧縮機によるもの（Ｆ２５Ｂ１／１０が優先）",
+      "en": "with compressor of rotary type(<b>F25B1/10</b> takes precedence)",
+      "count": 2813,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B1/047": {
+      "code": "F25B1/047",
+      "level": 2,
+      "parent": "F25B1/04",
+      "ja": "スクリュー式のもの［５］",
+      "en": "of screw type",
+      "count": 1974,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B1/053": {
+      "code": "F25B1/053",
+      "level": 2,
+      "parent": "F25B1/04",
+      "ja": "ターボ式のもの［５］",
+      "en": "of turbine type",
+      "count": 1455,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B1/06": {
+      "code": "F25B1/06",
+      "level": 1,
+      "parent": "F25B1/00",
+      "ja": "ジェット式圧縮機によるもの，例．加圧液体を用いるもの（Ｆ２５Ｂ１／１０が優先）",
+      "en": "with compressor of jet type, e.g. using liquid under pressure(<b>F25B1/10</b> takes precedence)",
+      "count": 792,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B1/08": {
+      "code": "F25B1/08",
+      "level": 2,
+      "parent": "F25B1/06",
+      "ja": "加圧蒸気を用いるもの",
+      "en": "using vapour under pressure",
+      "count": 372,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B1/10": {
+      "code": "F25B1/10",
+      "level": 1,
+      "parent": "F25B1/00",
+      "ja": "多段圧縮によるもの（カスケード式Ｆ２５Ｂ７／００）",
+      "en": "with multi-stage compression(with cascade operation <b>F25B7/00</b>)",
+      "count": 5083,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B3/00": {
+      "code": "F25B3/00",
+      "level": 0,
+      "parent": "F25B",
+      "ja": "自納式回転形圧縮式機械，すなわち圧縮機，凝縮機および蒸発器が単一体として回転するもの［２００６．０１］",
+      "en": "Self-contained rotary compression machines, i.e. with compressor, condenser and evaporator rotating as a single unit",
+      "count": 586,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B5/00": {
+      "code": "F25B5/00",
+      "level": 0,
+      "parent": "F25B",
+      "ja": "数個の蒸発器回路，例．冷凍容量の可変なもの，をもつ圧縮式機械，プラントまたはシステム（カスケード式Ｆ２５Ｂ７／００）［２００６．０１］",
+      "en": "Compression machines, plants or systems, with several evaporator circuits, e.g. for varying refrigerating capacity(with cascade operation <b>F25B7/00</b>)",
+      "count": 3765,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B5/02": {
+      "code": "F25B5/02",
+      "level": 1,
+      "parent": "F25B5/00",
+      "ja": "並列に配置されたもの［５］",
+      "en": "arranged in parallel",
+      "count": 6305,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B5/04": {
+      "code": "F25B5/04",
+      "level": 1,
+      "parent": "F25B5/00",
+      "ja": "直列に配置されたもの［５］",
+      "en": "arranged in series",
+      "count": 2168,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B6/00": {
+      "code": "F25B6/00",
+      "level": 0,
+      "parent": "F25B",
+      "ja": "数個の凝縮器回路をもつ圧縮式機械，プラントまたはシステム［２００６．０１］",
+      "en": "Compression machines, plants or systems, with several condenser circuits",
+      "count": 507,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B6/02": {
+      "code": "F25B6/02",
+      "level": 1,
+      "parent": "F25B6/00",
+      "ja": "並列に配置されたもの［５］",
+      "en": "arranged in parallel",
+      "count": 1732,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B6/04": {
+      "code": "F25B6/04",
+      "level": 1,
+      "parent": "F25B6/00",
+      "ja": "直列に配置されたもの［５］",
+      "en": "arranged in series",
+      "count": 1851,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B7/00": {
+      "code": "F25B7/00",
+      "level": 0,
+      "parent": "F25B",
+      "ja": "カスケード形の圧縮式機械，プラントまたはシステム，すなわち２つ以上の回路をもつもので，１回路の凝縮器発生熱が次の回路の蒸発器に吸収されるもの（Ｆ２５Ｂ９／００が優先）［２００６．０１］",
+      "en": "Compression machines, plants or systems, with cascade operation, i.e. with two or more circuits, the heat from the condenser of one circuit being absorbed by the evaporator of the next circuit(<b>F25B9/00</b> takes precedence)",
+      "count": 5049,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B9/00": {
+      "code": "F25B9/00",
+      "level": 0,
+      "parent": "F25B",
+      "ja": "空気などの低沸騰点をもつ気体を冷媒にした圧縮式機械，プラントまたはシステム［２００６．０１］",
+      "en": "Compression machines, plants or systems, in which the refrigerant is air or other gas of low boiling point",
+      "count": 12166,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B9/02": {
+      "code": "F25B9/02",
+      "level": 1,
+      "parent": "F25B9/00",
+      "ja": "ジュール・トムソン効果を用いるもの；ボルテックス効果を用いるもの",
+      "en": "using Joule-Thompson effect; using vortex effect",
+      "count": 2087,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B9/04": {
+      "code": "F25B9/04",
+      "level": 2,
+      "parent": "F25B9/02",
+      "ja": "ボルテックス効果を用いるもの［５］",
+      "en": "using vortex effect",
+      "count": 1447,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B9/06": {
+      "code": "F25B9/06",
+      "level": 1,
+      "parent": "F25B9/00",
+      "ja": "膨張機を用いるもの（Ｆ２５Ｂ９／１０が優先）［５］",
+      "en": "using expanders(<b>F25B9/10</b> takes precedence)",
+      "count": 2183,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B9/08": {
+      "code": "F25B9/08",
+      "level": 1,
+      "parent": "F25B9/00",
+      "ja": "エゼクタを用いるもの（Ｆ２５Ｂ９／１０が優先）［５］",
+      "en": "using ejectors(<b>F25B9/10</b> takes precedence)",
+      "count": 956,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B9/10": {
+      "code": "F25B9/10",
+      "level": 1,
+      "parent": "F25B9/00",
+      "ja": "数個の冷却段をもつもの［５］",
+      "en": "with several cooling stages",
+      "count": 580,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B9/12": {
+      "code": "F25B9/12",
+      "level": 1,
+      "parent": "F25B9/00",
+      "ja": "↑３Ｈｅ―↑４Ｈｅ希釈を用いるもの［５］",
+      "en": "using <sup>3</sup>He-<sup>4</sup>He dilution",
+      "count": 207,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B9/14": {
+      "code": "F25B9/14",
+      "level": 1,
+      "parent": "F25B9/00",
+      "ja": "用いられたサイクル，例．スターリングサイクル，に特徴のあるもの［５］",
+      "en": "characterised by the cycle used, e.g. Stirling cycle",
+      "count": 6087,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B11/00": {
+      "code": "F25B11/00",
+      "level": 0,
+      "parent": "F25B",
+      "ja": "タービン，例．ガスタービン，を用いた圧縮式機械，プラントまたはシステム［２００６．０１］",
+      "en": "Compression machines, plants or systems, using turbines, e.g. gas turbines",
+      "count": 1437,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B11/02": {
+      "code": "F25B11/02",
+      "level": 1,
+      "parent": "F25B11/00",
+      "ja": "膨張機として用いたもの（Ｆ２５Ｂ９／０６が優先）［５］",
+      "en": "as expanders(<b>F25B9/06</b> takes precedence)",
+      "count": 1026,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B11/04": {
+      "code": "F25B11/04",
+      "level": 2,
+      "parent": "F25B11/02",
+      "ja": "遠心式のもの［５］",
+      "en": "centrifugal type",
+      "count": 95,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B13/00": {
+      "code": "F25B13/00",
+      "level": 0,
+      "parent": "F25B",
+      "ja": "可逆サイクルをもちいた圧縮式機械，プラントまたはシステム（除霜サイクルＦ２５Ｂ４７／０２）［２００６．０１］",
+      "en": "Compression machines, plants or systems, with reversible cycle(defrosting cycles <b>F25B47/02</b>)",
+      "count": 28734,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B15/00": {
+      "code": "F25B15/00",
+      "level": 0,
+      "parent": "F25B",
+      "ja": "連続作動形収着式機械，プラントまたはシステム，例．吸収式［２００６．０１］",
+      "en": "Sorption machines, plants or systems, operating continuously, e.g. absorption type",
+      "count": 8783,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B15/02": {
+      "code": "F25B15/02",
+      "level": 1,
+      "parent": "F25B15/00",
+      "ja": "不活性ガスを用いないもの（Ｆ２５Ｂ１５／１２，Ｆ２５Ｂ１５／１４，Ｆ２５Ｂ１５／１６が優先）",
+      "en": "without inert gas(<b>F25B15/12</b>, <b>F25B15/14</b>, <b>F25B15/16</b> take precedence)",
+      "count": 1378,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B15/04": {
+      "code": "F25B15/04",
+      "level": 2,
+      "parent": "F25B15/02",
+      "ja": "水溶液から蒸発するアンモニアを冷媒とするもの",
+      "en": "the refrigerant being ammonia evaporated from aqueous solution",
+      "count": 1327,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B15/06": {
+      "code": "F25B15/06",
+      "level": 2,
+      "parent": "F25B15/02",
+      "ja": "塩溶液，例．臭化リチウム，から蒸発する水蒸気を冷媒とするもの",
+      "en": "the refrigerant being water vapour evaporated from a salt solution, e.g. lithium bromide",
+      "count": 4598,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B15/08": {
+      "code": "F25B15/08",
+      "level": 2,
+      "parent": "F25B15/02",
+      "ja": "硫酸を冷媒とするもの",
+      "en": "the refrigerant being sulfuric acid",
+      "count": 21,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B15/09": {
+      "code": "F25B15/09",
+      "level": 2,
+      "parent": "F25B15/02",
+      "ja": "水素化物から放出された水素を冷媒とするもの［５］",
+      "en": "the refrigerant being hydrogen desorbed from a hydride",
+      "count": 64,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B15/10": {
+      "code": "F25B15/10",
+      "level": 1,
+      "parent": "F25B15/00",
+      "ja": "不活性ガスによるもの（Ｆ２５Ｂ１５／１２，Ｆ２５Ｂ１５／１４，Ｆ２５Ｂ１５／１６が優先）",
+      "en": "with inert gas(<b>F25B15/12</b>, <b>F25B15/14</b>, <b>F25B15/16</b> take precedence)",
+      "count": 1538,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B15/12": {
+      "code": "F25B15/12",
+      "level": 1,
+      "parent": "F25B15/00",
+      "ja": "再吸収器を有するもの（Ｆ２５Ｂ１５／１４が優先）",
+      "en": "with resorber(<b>F25B15/14</b> takes precedence)",
+      "count": 204,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B15/14": {
+      "code": "F25B15/14",
+      "level": 1,
+      "parent": "F25B15/00",
+      "ja": "浸透を用いるもの",
+      "en": "using osmosis",
+      "count": 145,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B15/16": {
+      "code": "F25B15/16",
+      "level": 1,
+      "parent": "F25B15/00",
+      "ja": "デソープションサイクルを用いるもの",
+      "en": "using desorption cycle",
+      "count": 122,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B17/00": {
+      "code": "F25B17/00",
+      "level": 0,
+      "parent": "F25B",
+      "ja": "間欠作動形収着式機械，プラントまたはシステム，例．吸収または吸着式［２００６．０１］",
+      "en": "Sorption machines, plants or systems, operating intermittently, e.g. absorption or adsorption type",
+      "count": 1187,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B17/02": {
+      "code": "F25B17/02",
+      "level": 1,
+      "parent": "F25B17/00",
+      "ja": "吸収剤または吸着剤が液状，例．塩水であるもの（Ｆ２５Ｂ１７／１０が優先）",
+      "en": "the absorbent or adsorbent being a liquid, e.g. brine(<b>F25B17/10</b> takes precedence)",
+      "count": 535,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B17/04": {
+      "code": "F25B17/04",
+      "level": 2,
+      "parent": "F25B17/02",
+      "ja": "２個以上のボイラが交互に作動するもの",
+      "en": "with two or more boilers operating alternately",
+      "count": 98,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B17/06": {
+      "code": "F25B17/06",
+      "level": 2,
+      "parent": "F25B17/02",
+      "ja": "傾動または回転可能にボイラおよび蒸発器が造られているもの",
+      "en": "with the boiler and evaporator built-up as a unit in a tiltable or revolving arrangement",
+      "count": 164,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B17/08": {
+      "code": "F25B17/08",
+      "level": 1,
+      "parent": "F25B17/00",
+      "ja": "吸収剤または吸着剤が固体，例．塩，であるもの（Ｆ２５Ｂ１７／１２が優先）［５］",
+      "en": "the absorbent or adsorbent being a solid, e.g. salt(<b>F25B17/12</b> takes precedence)",
+      "count": 2570,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B17/10": {
+      "code": "F25B17/10",
+      "level": 1,
+      "parent": "F25B17/00",
+      "ja": "吸熱性の塩溶液を用いるもの",
+      "en": "using the endothermic solution of salt",
+      "count": 42,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B17/12": {
+      "code": "F25B17/12",
+      "level": 1,
+      "parent": "F25B17/00",
+      "ja": "水素化物からの水素放出を用いるもの［５］",
+      "en": "using desorption of hydrogen from a hydride",
+      "count": 820,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B19/00": {
+      "code": "F25B19/00",
+      "level": 0,
+      "parent": "F25B",
+      "ja": "冷媒蒸気の回収を行わない蒸発を用いた機械，プラントまたはシステム［２００６．０１］",
+      "en": "Machines, plants or systems, using evaporation of a refrigerant but without recovery of the vapour",
+      "count": 1565,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B19/02": {
+      "code": "F25B19/02",
+      "level": 1,
+      "parent": "F25B19/00",
+      "ja": "流体ジェット，例．蒸気のジェット，を用いるもの",
+      "en": "using fluid jet, e.g. of steam",
+      "count": 479,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B19/04": {
+      "code": "F25B19/04",
+      "level": 2,
+      "parent": "F25B19/02",
+      "ja": "液体ジェット，例．水のジェット，を用いるもの",
+      "en": "using liquid jet, e.g. of water",
+      "count": 578,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B21/00": {
+      "code": "F25B21/00",
+      "level": 0,
+      "parent": "F25B",
+      "ja": "電気または磁気効果を用いた機械，プラントまたはシステム［２００６．０１］",
+      "en": "Machines, plants or systems, using electric or magnetic effects",
+      "count": 3584,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B21/02": {
+      "code": "F25B21/02",
+      "level": 1,
+      "parent": "F25B21/00",
+      "ja": "ペルチェ効果を用いるもの；エッチングスハウゼン効果を用いるもの［２００６．０１］",
+      "en": "using Peltier effect; using Nernst-Ettinghausen effect",
+      "count": 18890,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B21/04": {
+      "code": "F25B21/04",
+      "level": 2,
+      "parent": "F25B21/02",
+      "ja": "可逆のもの［５］",
+      "en": "reversible",
+      "count": 1774,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B23/00": {
+      "code": "F25B23/00",
+      "level": 0,
+      "parent": "F25B",
+      "ja": "グループＦ２５Ｂ１／００～Ｆ２５Ｂ２１／００に包含されない単一の作動様式，例．選択的な輻射効果を用いるもの，をもつ機械，プラントまたはシステム［２００６．０１］",
+      "en": "Machines, plants or systems, with a single mode of operation not covered by groups <b>F25B1/00 to F25B21/00</b> , e.g. using selective radiation effect",
+      "count": 2841,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B25/00": {
+      "code": "F25B25/00",
+      "level": 0,
+      "parent": "F25B",
+      "ja": "グループＦ２５Ｂ１／００～Ｆ２５Ｂ２３／００中の２個以上のグループに属する作動様式を組み合わせた形式の機械，プラントまたはシステム［２００６．０１］",
+      "en": "Machines, plants or systems, using a combination of modes of operation covered by two or more of the groups <b>F25B1/00 to F25B23/00</b> ",
+      "count": 3677,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B25/02": {
+      "code": "F25B25/02",
+      "level": 1,
+      "parent": "F25B25/00",
+      "ja": "圧縮―収着式機械，プラントまたはシステム",
+      "en": "Compression-sorption machines, plants, or systems",
+      "count": 1633,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B27/00": {
+      "code": "F25B27/00",
+      "level": 0,
+      "parent": "F25B",
+      "ja": "特殊なエネルギ源を用いる機械，プラントまたはシステム（Ｆ２５Ｂ３０／０６が優先）［２００６．０１］",
+      "en": "Machines, plants or systems, using particular sources of energy(<b>F25B30/06</b> takes precedence)",
+      "count": 10134,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B27/02": {
+      "code": "F25B27/02",
+      "level": 1,
+      "parent": "F25B27/00",
+      "ja": "排熱，例．内燃機関の排熱，を用いるもの",
+      "en": "using waste heat, e.g. from internal-combustion engines",
+      "count": 7944,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B29/00": {
+      "code": "F25B29/00",
+      "level": 0,
+      "parent": "F25B",
+      "ja": "加熱と冷凍との組みあわせシステム，例．交互または同時に作動するもの［５］",
+      "en": "Combined heating and refrigeration systems, e.g. operating alternately or simultaneously",
+      "count": 17825,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B30/00": {
+      "code": "F25B30/00",
+      "level": 0,
+      "parent": "F25B",
+      "ja": "ヒートポンプ（Ｆ２５Ｂ１／００～Ｆ２５Ｂ２５／００，Ｆ２５Ｂ２９／００が優先）［２００６．０１］<br><br><b><ul>注</ul></b><br>ヒートポンプ回路またはシステムを分類する場合は，グループＦ２５Ｂ１／００からＦ２５Ｂ２５／００とＦ２５Ｂ２９／００がグループＦ２５Ｂ３０／００に優先する。［５］",
+      "en": "Heat pumps(<b>F25B1/00 to F25B25/00</b> , <b>F25B29/00</b> take precedence)",
+      "count": 4202,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B30/02": {
+      "code": "F25B30/02",
+      "level": 1,
+      "parent": "F25B30/00",
+      "ja": "圧縮式のもの［５］",
+      "en": "of the compression type",
+      "count": 13146,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B30/04": {
+      "code": "F25B30/04",
+      "level": 1,
+      "parent": "F25B30/00",
+      "ja": "収着式のもの［５］",
+      "en": "of the sorption type",
+      "count": 2553,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B30/06": {
+      "code": "F25B30/06",
+      "level": 1,
+      "parent": "F25B30/00",
+      "ja": "低温熱源に特徴のあるもの［５］",
+      "en": "characterised by the source of low potential heat",
+      "count": 14816,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B31/00": {
+      "code": "F25B31/00",
+      "level": 0,
+      "parent": "F25B",
+      "ja": "圧縮機の配置［２００６．０１］",
+      "en": "Compressor arrangements",
+      "count": 11704,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B31/02": {
+      "code": "F25B31/02",
+      "level": 1,
+      "parent": "F25B31/00",
+      "ja": "モータと圧縮機とが単一体になっているもの",
+      "en": "of motor-compressor units",
+      "count": 3499,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B33/00": {
+      "code": "F25B33/00",
+      "level": 0,
+      "parent": "F25B",
+      "ja": "ボイラ；アナライザ；精溜器（吸収器兼用ボイラＦ２５Ｂ３５／００）",
+      "en": "Boilers; Analysers; Rectifiers(boiler-absorbers <b>F25B35/00</b>)",
+      "count": 2351,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B35/00": {
+      "code": "F25B35/00",
+      "level": 0,
+      "parent": "F25B",
+      "ja": "吸収器兼用ボイラ，すなわち吸収または吸着に使用できるボイラ",
+      "en": "Boiler-absorbers, i.e. boilers usable for absorption or adsorption",
+      "count": 355,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B35/02": {
+      "code": "F25B35/02",
+      "level": 1,
+      "parent": "F25B35/00",
+      "ja": "液状収着剤，例．塩水，を用いるもの",
+      "en": "using a liquid as sorbent, e.g. brine",
+      "count": 231,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B35/04": {
+      "code": "F25B35/04",
+      "level": 1,
+      "parent": "F25B35/00",
+      "ja": "固体状収着剤を用いるもの",
+      "en": "using a solid as sorbent",
+      "count": 504,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B37/00": {
+      "code": "F25B37/00",
+      "level": 0,
+      "parent": "F25B",
+      "ja": "吸収器；吸着器（吸収器兼用ボイラＦ２５Ｂ３５／００）［２００６．０１］",
+      "en": "Absorbers; Adsorbers(boiler-absorbers <b>F25B35/00</b>)",
+      "count": 1901,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B39/00": {
+      "code": "F25B39/00",
+      "level": 0,
+      "parent": "F25B",
+      "ja": "蒸発器；凝縮器",
+      "en": "Evaporators; Condensers",
+      "count": 12453,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B39/02": {
+      "code": "F25B39/02",
+      "level": 1,
+      "parent": "F25B39/00",
+      "ja": "蒸発器",
+      "en": "Evaporators",
+      "count": 23670,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B39/04": {
+      "code": "F25B39/04",
+      "level": 1,
+      "parent": "F25B39/00",
+      "ja": "凝縮器",
+      "en": "Condensers",
+      "count": 20409,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B40/00": {
+      "code": "F25B40/00",
+      "level": 0,
+      "parent": "F25B",
+      "ja": "過冷却器，デスーパーヒータまたはスーパーヒータ［５］",
+      "en": "Subcoolers, desuperheaters or superheaters",
+      "count": 2354,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B40/02": {
+      "code": "F25B40/02",
+      "level": 1,
+      "parent": "F25B40/00",
+      "ja": "過冷却器［５］",
+      "en": "Subcoolers",
+      "count": 2349,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B40/04": {
+      "code": "F25B40/04",
+      "level": 1,
+      "parent": "F25B40/00",
+      "ja": "デスーパーヒータ［５］",
+      "en": "Desuperheaters",
+      "count": 476,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B40/06": {
+      "code": "F25B40/06",
+      "level": 1,
+      "parent": "F25B40/00",
+      "ja": "スーパーヒータ［５］",
+      "en": "Superheaters",
+      "count": 1837,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B41/00": {
+      "code": "F25B41/00",
+      "level": 0,
+      "parent": "F25B",
+      "ja": "流体循環装置［２０２１．０１］",
+      "en": "Fluid-circulation arrangements",
+      "count": 11950,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B41/10": {
+      "code": "F25B41/10",
+      "level": 1,
+      "parent": "F25B41/00",
+      "ja": "電気浸透を用いるもの［２０２１．０１］",
+      "en": "using electro-osmosis",
+      "count": 48,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B41/20": {
+      "code": "F25B41/20",
+      "level": 1,
+      "parent": "F25B41/00",
+      "ja": "弁の配置，例．開閉弁または流量制御弁の配置（膨張弁Ｆ２５Ｂ４１／３１）［２０２１．０１］",
+      "en": "Disposition of valves, e.g. of on-off valves or flow control valves (expansion valves <b>F25B41/31</b>)",
+      "count": 18346,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B41/22": {
+      "code": "F25B41/22",
+      "level": 2,
+      "parent": "F25B41/20",
+      "ja": "蒸発器と圧縮機との間に設けられたもの［２０２１．０１］",
+      "en": "between evaporator and compressor",
+      "count": 227,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B41/24": {
+      "code": "F25B41/24",
+      "level": 2,
+      "parent": "F25B41/20",
+      "ja": "冷凍サイクルの一部，例．室外部分，を分離するための閉鎖弁の配置［２０２１．０１］",
+      "en": "Arrangement of shut-off valves for disconnecting a part of the refrigerant cycle, e.g. an outdoor part",
+      "count": 1961,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B41/26": {
+      "code": "F25B41/26",
+      "level": 2,
+      "parent": "F25B41/20",
+      "ja": "流体流れを逆転させる弁の配置［２０２１．０１］",
+      "en": "of fluid flow reversing valves",
+      "count": 2124,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B41/28": {
+      "code": "F25B41/28",
+      "level": 2,
+      "parent": "F25B41/20",
+      "ja": "収着式サイクルに特に適したもの［２０２１．０１］",
+      "en": "specially adapted for sorption cycles",
+      "count": 76,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B41/30": {
+      "code": "F25B41/30",
+      "level": 1,
+      "parent": "F25B41/00",
+      "ja": "膨張手段；その配置［２０２１．０１］",
+      "en": "Expansion means; Dispositions thereof",
+      "count": 4852,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B41/31": {
+      "code": "F25B41/31",
+      "level": 2,
+      "parent": "F25B41/30",
+      "ja": "膨張弁［２０２１．０１］",
+      "en": "Expansion valves",
+      "count": 7907,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B41/315": {
+      "code": "F25B41/315",
+      "level": 3,
+      "parent": "F25B41/31",
+      "ja": "フロートにより駆動されるもの［２０２１．０１］",
+      "en": "actuated by floats",
+      "count": 17,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B41/32": {
+      "code": "F25B41/32",
+      "level": 3,
+      "parent": "F25B41/31",
+      "ja": "弁体以外の流量制限部をもつもの，例．弁体をバイパスするオリフィスを弁本体にもつもの［２０２１．０１］",
+      "en": "having flow rate limiting means other than the valve member, e.g. having bypass orifices in the valve body",
+      "count": 52,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B41/325": {
+      "code": "F25B41/325",
+      "level": 3,
+      "parent": "F25B41/31",
+      "ja": "２以上の弁体をもつもの［２０２１．０１］",
+      "en": "having two or more valve members",
+      "count": 579,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B41/33": {
+      "code": "F25B41/33",
+      "level": 3,
+      "parent": "F25B41/31",
+      "ja": "流体圧，例．冷媒の圧力，により駆動される弁体をもつもの［２０２１．０１］",
+      "en": "with the valve member being actuated by the fluid pressure, e.g. by the pressure of the refrigerant",
+      "count": 59,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B41/335": {
+      "code": "F25B41/335",
+      "level": 4,
+      "parent": "F25B41/33",
+      "ja": "ダイヤフラムを介して駆動されるもの［２０２１．０１］",
+      "en": "via diaphragms",
+      "count": 150,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B41/34": {
+      "code": "F25B41/34",
+      "level": 3,
+      "parent": "F25B41/31",
+      "ja": "電気的手段，例．圧電アクチュエータ，により駆動される弁体をもつもの［２０２１．０１］",
+      "en": "with the valve member being actuated by electric means, e.g. by piezoelectric actuators",
+      "count": 5432,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B41/345": {
+      "code": "F25B41/345",
+      "level": 4,
+      "parent": "F25B41/34",
+      "ja": "ソレノイドにより駆動されるもの［２０２１．０１］",
+      "en": "by solenoids",
+      "count": 270,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B41/35": {
+      "code": "F25B41/35",
+      "level": 4,
+      "parent": "F25B41/34",
+      "ja": "回転モータ，例．ステッピングモータ，により駆動されるもの［２０２１．０１］",
+      "en": "by rotary motors, e.g. by stepping motors",
+      "count": 566,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B41/355": {
+      "code": "F25B41/355",
+      "level": 4,
+      "parent": "F25B41/34",
+      "ja": "バイメタル素子，形状記憶素子または熱膨張素子の電気加熱により駆動されるもの［２０２１．０１］",
+      "en": "by electric heating of bimetal elements, shape memory elements or heat expanding elements",
+      "count": 11,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B41/36": {
+      "code": "F25B41/36",
+      "level": 3,
+      "parent": "F25B41/31",
+      "ja": "流体，例．冷媒，の影響を受けるバイメタル素子または形状記憶素子により駆動される弁体をもつもの［２０２１．０１］",
+      "en": "with the valve member being actuated by bimetal elements or shape-memory elements influenced by fluids, e.g. by the refrigerant",
+      "count": 62,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B41/37": {
+      "code": "F25B41/37",
+      "level": 2,
+      "parent": "F25B41/30",
+      "ja": "キャピラリチューブ［２０２１．０１］",
+      "en": "Capillary tubes",
+      "count": 3240,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B41/375": {
+      "code": "F25B41/375",
+      "level": 3,
+      "parent": "F25B41/37",
+      "ja": "可変抵抗に特徴があるもの，例．形状記憶合金製の制限器［２０２１．０１］",
+      "en": "characterised by a variable restriction, e.g. restrictors made of shape memory alloy",
+      "count": 17,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B41/38": {
+      "code": "F25B41/38",
+      "level": 2,
+      "parent": "F25B41/30",
+      "ja": "可逆サイクルに特に適したもの，例．双方向膨張制限器［２０２１．０１］",
+      "en": "specially adapted for reversible cycles, e.g. bidirectional expansion restrictors",
+      "count": 111,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B41/385": {
+      "code": "F25B41/385",
+      "level": 2,
+      "parent": "F25B41/30",
+      "ja": "同一の蒸発器に至る一の冷媒流路に並列に設けられた２以上の膨張手段の配置［２０２１．０１］",
+      "en": "Dispositions with two or more expansion means arranged in parallel on a refrigerant line leading to the same evaporator",
+      "count": 213,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B41/39": {
+      "code": "F25B41/39",
+      "level": 2,
+      "parent": "F25B41/30",
+      "ja": "直列に設けられた２以上の膨張手段の配置，すなわち同一の蒸発器に至る一の冷媒流路での多段膨張［２０２１．０１］",
+      "en": "Dispositions with two or more expansion means arranged in series, i.e. multi-stage expansion, on a refrigerant line leading to the same evaporator",
+      "count": 242,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B41/40": {
+      "code": "F25B41/40",
+      "level": 1,
+      "parent": "F25B41/00",
+      "ja": "流体流路装置［２０２１．０１］",
+      "en": "Fluid line arrangements",
+      "count": 13535,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B41/42": {
+      "code": "F25B41/42",
+      "level": 2,
+      "parent": "F25B41/40",
+      "ja": "分流器または合流器，例．分岐流路または合流部［２０２１．０１］",
+      "en": "Arrangements for diverging or converging flows, e.g. branch lines or junctions",
+      "count": 3859,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B41/45": {
+      "code": "F25B41/45",
+      "level": 3,
+      "parent": "F25B41/42",
+      "ja": "分流点の上流側で流れを制御するもの，例．乱流を発生させる螺旋構造をもつもの［２０２１．０１］",
+      "en": "for flow control on the upstream side of the diverging point, e.g. with spiral structure for generating turbulence",
+      "count": 86,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B41/48": {
+      "code": "F25B41/48",
+      "level": 3,
+      "parent": "F25B41/42",
+      "ja": "分流点の下流側で流路抵抗を制御するもの，例．オリフィスによるもの［２０２１．０１］",
+      "en": "for flow path resistance control on the downstream side of the diverging point, e.g. by an orifice",
+      "count": 70,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B43/00": {
+      "code": "F25B43/00",
+      "level": 0,
+      "parent": "F25B",
+      "ja": "気体または液体の分離または精製装置（アナライザまたは精溜器におけるものＦ２５Ｂ３３／００）；液体冷媒の残滓を蒸発させる装置，例．加熱によるもの（Ｆ２５Ｂ４０／００が優先）［５］",
+      "en": "Arrangements for separating or purifying gases or liquids(in analysers or rectifiers <b>F25B33/00</b>);Arrangements for vaporising the residuum of liquid refrigerant, e.g. by heat(<b>F25B40/00</b> takes precedence)",
+      "count": 24617,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B43/02": {
+      "code": "F25B43/02",
+      "level": 1,
+      "parent": "F25B43/00",
+      "ja": "冷媒から潤滑油の分離",
+      "en": "for separating lubricants from the refrigerant",
+      "count": 6640,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B43/04": {
+      "code": "F25B43/04",
+      "level": 1,
+      "parent": "F25B43/00",
+      "ja": "不凝縮ガスの抽出",
+      "en": "for withdrawing non-condensible gases",
+      "count": 1609,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B45/00": {
+      "code": "F25B45/00",
+      "level": 0,
+      "parent": "F25B",
+      "ja": "冷媒の充填または排出装置",
+      "en": "Arrangements for charging or discharging refrigerant",
+      "count": 7290,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B47/00": {
+      "code": "F25B47/00",
+      "level": 0,
+      "parent": "F25B",
+      "ja": "他のサブクラスに分類されない付着または腐食の防止または除去を行う装置",
+      "en": "Arrangements for preventing or removing deposits or corrosion, not provided for in another subclass",
+      "count": 5542,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B47/02": {
+      "code": "F25B47/02",
+      "level": 1,
+      "parent": "F25B47/00",
+      "ja": "除霜サイクル［５］",
+      "en": "Defrosting cycles",
+      "count": 14716,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B49/00": {
+      "code": "F25B49/00",
+      "level": 0,
+      "parent": "F25B",
+      "ja": "制御または安全装置の配置と取り付け［２００６．０１］",
+      "en": "Arrangement or mounting of control or safety devices",
+      "count": 14149,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B49/02": {
+      "code": "F25B49/02",
+      "level": 1,
+      "parent": "F25B49/00",
+      "ja": "圧縮式機械，プラントまたはシステムのためのもの［５］",
+      "en": "for compression type machines, plants or systems",
+      "count": 37616,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    },
+    "F25B49/04": {
+      "code": "F25B49/04",
+      "level": 1,
+      "parent": "F25B49/00",
+      "ja": "吸着式機械，プラントまたはシステムのためのもの［５］",
+      "en": "for sorption type machines, plants or systems",
+      "count": 2012,
+      "sourceFile": "ipc_F25B.txt",
+      "kind": "ipc"
+    }
+  }
+}

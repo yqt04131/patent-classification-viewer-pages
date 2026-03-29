@@ -1,0 +1,2026 @@
+window.IPC_SHARD_C08K = {
+  "generatedAt": "2026-03-20T02:17:46.451Z",
+  "total": 202,
+  "entries": {
+    "C08K": {
+      "code": "C08K",
+      "level": 0,
+      "parent": "C08",
+      "ja": "無機または非高分子有機物質の添加剤としての使用（ペイント，インキ，ワニス，染料，艶出剤，接着剤Ｃ０９）［２］<br><br><b><ul>注</ul></b><br>（１）このサブクラスにおいては，ラストプレイス優先ルールが適用される，すなわち各階層レベルにおいて相反する指示がない限り，配合成分は最後の適切な箇所に分類される。［２］<br>（２）このサブクラスにおいては，<br>―各配合成分から成る混合物は，混合物中のすべての本質的な配合成分を包含するもっとも下位のグループに分類する。<br>例．<br>一価アルコールと多価アルコールの混合物Ｃ０８Ｋ５／０５；［４］<br>２種の多価アルコールの混合物Ｃ０８Ｋ５／０５３；［６］<br>アルコールとエーテルの混合物Ｃ０８Ｋ５／０４；［４］<br>エーテルとアミンの混合物Ｃ０８Ｋ５／００；［４］<br>アミンと金属の混合物Ｃ０８Ｋ１３／０２；［４］<br>―アンモニウム塩は金属塩と同じ方法で分類する。［２］<br>（３）このサブクラスにおいては，上記注（２）に従った分類によっては特定されないが，その使用が新規かつ非自明と判断される混合物の成分も，注（１）に従っても分類しなければならない。この成分は，単一の化合物またはそれ自体が組成物であり得る。［８］<br>（４）上記注（２）または（３）に従った分類によっては特定されないが，検索に有用な情報を表していると思われる混合物の成分は，注（１）に従ってこのサブクラスに分類してもよい。例えばこれは，分類記号の組合わせを用いて混合物を検索することを可能とするのに有用と考えられる場合にあり得る。こうした非義務的分類は，「付加情報」として付与される。［８］",
+      "en": "USE OF INORGANIC OR NON-MACROMOLECULAR ORGANIC SUBSTANCES AS COMPOUNDING INGREDIENTS(paints, inks, varnishes, dyes, polishes, adhesives <b>C09</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>In this subclass, the last place priority rule is applied, i.e. at each hierarchical level, in the absence of an indication to the contrary, an ingredient is classified in the last appropriate place. </li><li>In this subclass: <ul><li>a mixture of ingredients is classified in the most indented group covering all the essential ingredients of the mixture, e.g.: <ul><li>a mixture of a monohydroxylic and a polyhydroxylic alcohol <b>C08K5/05</b>;</li><li>a mixture of two polyhydroxylic alcohols <b>C08K5/053</b>;</li><li>a mixture of an alcohol and an ether <b>C08K5/04</b>;</li><li>a mixture of an ether and an amine <b>C08K5/00</b>;</li><li>a mixture of an amine and a metal <b>C08K13/02</b>;</li></ul></li><li>ammonium salts are classified in the same way as metal salts. </li></ul></li><li>In this subclass, any ingredient of a mixture which is not identified by the classification according to Note (2) above, and the use of which is determined to be novel and non-obvious, must also be classified in this subclass according to Note (1). The ingredient can be either a single compound or a composition in itself. </li><li>Any ingredient of a mixture which is not identified by the classification according to Notes (2) or (3) above, and which is considered to represent information of interest for search, may also be classified in this subclass according to Note (1). This can, for example, be the case when it is considered of interest to enable searching of mixtures using a combination of classification symbols. Such non-obligatory classification should be given as \"additional information\". </li></ul>",
+      "count": 1561,
+      "sourceFile": "ipc_C.txt",
+      "kind": "ipc"
+    },
+    "C08": {
+      "code": "C08",
+      "level": 0,
+      "parent": "C",
+      "ja": "有機高分子化合物；その製造または化学的加工；それに基づく組成物<br><br><b><ul>注</ul></b><br>（１）このクラスは下記の高分子化合物それ自体は包含しない：<br>－ペプチド，例．タンパク質，はサブクラスＣ０７Ｋに包含される。［２０１２．０１］<br>－ヌクレオシド基，例．核酸，の糖類基でリンクされたリン酸塩またはポリリン酸塩基を別個に持つ化合物で，２個以上のモノヌクレオチドユニットを含むものは，グループＣ０７Ｈ２１／００に包含される。［２０１２．０１］<br>－遺伝子工学に関するＤＮＡまたはＲＮＡ，ベクター，例．プラスミド，またはその分離，製造または精製はグループＣ１２Ｎ１５／００に包含される。［２０１２．０１］<br>（２）化合物または組成物からなる殺生物剤，有害生物忌避剤，有害生物誘引剤または植物生長調節剤は，サブクラスＡ０１Ｐにも分類される。［８］",
+      "en": "ORGANIC MACROMOLECULAR COMPOUNDS; THEIR PREPARATION OR CHEMICAL WORKING-UP; COMPOSITIONS BASED THEREON; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This class does not cover the following macromolecular compounds <u>per se</u>: <ul><li>peptides, e.g. proteins, which are covered by subclass <b>C07K</b>;        </li><li>compounds containing two or more mononucleotide units having separate phosphate or polyphosphate groups linked by saccharide radicals of nucleoside groups, e.g. nucleic acids, which are covered by group <b>C07H21/00</b>;         </li><li>DNA or RNA concerning genetic engineering, vectors, e.g. plasmids, or their isolation, preparation or purification, which are covered by group <b>C12N15/00</b>.         </li></ul></li><li>Biocidal, pest repellant, pest attractant or plant growth regulatory activity of compounds or preparations is further classified in subclass <b>A01P</b>.         </li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_C.txt",
+      "kind": "ipc"
+    },
+    "C": {
+      "code": "C",
+      "level": 0,
+      "parent": null,
+      "ja": "化学；冶金<br><br><b><ul>注</ul></b><br>（１）セクションＣにおいて，化学元素の種類に関する定義は次の通りである：<br>アルカリ金属：Ｌｉ，Ｎａ，Ｋ，Ｒｂ，Ｃｓ，Ｆｒ<br>アルカリ土類金属：Ｃａ，Ｓｒ，Ｂａ，Ｒａ<br>ランタニド：原子番号５７から７１までの元素<br>希土類：Ｓｃ，Ｙ，ランタニド<br>アクチニド：原子番号８９から１０３までの元素<br>耐火金属：Ｔｉ，Ｖ，Ｃｒ，Ｚｒ，Ｎｂ，Ｍｏ，Ｈｆ，Ｔａ，Ｗ<br>ハロゲン：Ｆ，Ｃｌ，Ｂｒ，Ｉ，Ａｔ<br>希ガス：Ｈｅ，Ｎｅ，Ａｒ，Ｋｒ，Ｘｅ，Ｒｎ<br>白金族：Ｏｓ，Ｉｒ，Ｐｔ，Ｒｕ，Ｒｈ，Ｐｄ<br>貴金属：Ａｇ，Ａｕ，白金族<br>軽金属：アルカリ金属，アルカリ土類金属，Ｂｅ，Ａｌ，Ｍｇ<br>重金属：軽金属以外の金属<br>鉄族：Ｆｅ，Ｃｏ，Ｎｉ<br>非金属：Ｈ，Ｂ，Ｃ，Ｓｉ，Ｎ，Ｐ，Ｏ，Ｓ，Ｓｅ，Ｔｅ，希ガス，ハロゲン<br>金属：非金属以外の元素<br>遷移元素：原子番号２１から３０まで，３９から４８まで，５７から８０まで，８９以上の元素<br>（２）Ｃセクションは以下のものを包含する：<br>（ａ）無機化合物，有機化合物，高分子化合物およびそれらの調製法を包含する純粋化学；<br>（ｂ）たとえばガラス，セラミック，肥料，プラスチック組成物，ペイント，石油工業の製品のような上記化合物を含有する組成物を包含する応用化学。それはまた，爆発物，染料，接着剤，潤滑剤および洗剤のように，ある目的に適した特別の性質をもつための組成物をも包含する；<br>（ｃ）コークスの製造，固体または気体燃料の製造，油脂およびろうの製造および精製，発酵工業（例．ビールおよびぶどう酒の製造），製糖工業のようなある境界工業；<br>（ｄ）ある操作または処理であって，純粋に機械的な処理，例．レザーおよび皮の機械的処理，または部分的機械的処理，例．水処理，または腐食防止一般であるもの；<br>（ｅ）冶金，鉄または非鉄合金<br>（３）ＩＰＣの全てのセクションにおいて，相反する指示がない限り，元素記号周期表への言及は，以下に示す１８のグループを表す。［２００９．０１］<br>’「図」’<br>’「図」’<br>（４）<br>（ａ）化学的部分または面および非化学的部分または面の両方を有する操作，処理，製品または物品の場合に，一般規則として，化学的部分または面はＣセクションに包含される。<br>（ｂ）これらのうちのある場合には，化学的部分または面には非化学的部分または面を伴い，純粋に機械的部分または面を伴うことさえある，というのは非化学的面は操作または処理にとって本質的であるかまたはそれらの重要な要素を構成するからである；実際，全体のさまざまな部分または面を分割しないのがより論理的と思える。これは応用化学や上記注（１）（ｃ），（ｄ）および（ｅ）の工業，操作および処理の場合に適用される。例えば，ガラス製造用特殊炉はＣ０３に包含されＦ２７には包含されない。<br>（ｃ）しかしながら，機械的面（または非化学的面）に非化学的な面が伴うという例外もある，例えば：<br>―サブクラスＡ６１Ｋにおけるある抽出プロセス；<br>―サブクラスＡ６１Ｌにおける空気の化学的精製；<br>―サブクラスＡ６２Ｄにおける化学的消火方法；<br>―クラスＢ０１における化学的プロセスおよび装置；<br>―サブクラスＢ２７Ｋにおける木材の含浸；<br>―サブクラスＧ０１Ｎにおける化学的分析または試験法；<br>―クラスＧ０３における写真材料またはプロセス，そして一般に，Ｄセクションにおける繊維の化学的処理および繊維素，紙等の製造<br>（ｄ）さらに他の場合，純粋化学的面はＣセクションに包含され，応用化学的面はＡ，Ｂ，Ｆセクションのような他のセクションに包含される，例．以下の物質または組成物の使用：<br>―サブクラスＡ０１Ｎに包含される植物または動物の処理；<br>―クラスＡ２３に包含される食物；<br>―クラスＦ４２に包含される弾薬または爆薬<br>（ｅ）化学的面および機械的面が非常に交錯して，簡単明確な分割ができない時，または化学的処理が自然なまたは論理的な延長として機械的プロセスを要する時は，化学的面に加えて，Ｃセクションは機械的面の一部のみ，例．クラスＣ０４に包含される人造石の後処理，を包含する。この後者の場合に，たとえその区別がむしろ任意であってもその位置を明確にするよう注または参照を通常設けている。",
+      "en": "CHEMISTRY; METALLURGY; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In section <b>C</b>, the definitions of groups of chemical elements are as follows: <ul><li><u>Alkali metals:</u> Li, Na, K, Rb, Cs, Fr</li><li><u>Alkaline earth metals:</u> Ca, Sr, Ba, Ra</li><li><u>Lanthanides:</u> elements with atomic numbers 57 to 71 inclusive</li><li><u>Rare earths:</u> Sc, Y, Lanthanides</li><li><u>Actinides:</u> elements with atomic numbers 89 to 103 inclusive</li><li><u>Refractory metals:</u> Ti, V, Cr, Zr, Nb, Mo, Hf, Ta, W</li><li><u>Halogens:</u> F, Cl, Br, I, At</li><li><u>Noble gases:</u> He, Ne, Ar, Kr, Xe, Rn</li><li><u>Platinum group:</u> Os, Ir, Pt, Ru, Rh, Pd</li><li><u>Noble metals:</u> Ag, Au, Platinum group</li><li><u>Light metals:</u> alkali metals, alkaline earth metals, Be, Al, Mg</li><li><u>Heavy metals:</u> metals other than light metals</li><li><u>Iron group:</u> Fe, Co, Ni</li><li><u>Non-metals:</u> H, B, C, Si, N, P, O, S, Se, Te, noble gases, halogens</li><li><u>Metals:</u> elements other than non-metals</li><li><u>Transition elements:</u> elements with atomic numbers 21 to 30 inclusive, 39 to 48 inclusive, 57 to 80 inclusive, 89 upwards</li></ul></li><li>Section <b>C</b> <u>covers</u> : <ul><li>pure chemistry, which covers inorganic compounds, organic compounds, macromolecular compounds, and their methods of preparation;</li><li>applied chemistry, which covers compositions containing the above compounds, such as: glass, ceramics, fertilisers, plastics compositions, paints, products of the petroleum industry. It also <u>covers</u> certain compositions on account of their having particular properties rendering them suitable for certain purposes, as in the case of explosives, dyestuffs, adhesives, lubricants, and detergents;</li><li>certain marginal industries, such as the manufacture of coke and of solid or gaseous fuels, the production and refining of oils, fats and waxes, the fermentation industry (e.g., brewing and wine-making), the sugar industry;</li><li>certain operations or treatments, which are either purely mechanical, e.g., the mechanical treatment of leather and skins, or partly mechanical, e.g., the treatment of water or the prevention of corrosion in general;</li><li>metallurgy, ferrous or non-ferrous alloys.</li></ul></li><li>In all sections of the IPC, in the absence of an indication to the contrary, the Periodic Table of chemical elements referred to is the one with 18 groups as represented in the table below. [figure]</li><li><ul><li>In the case of operations, treatments, products or articles having both a chemical and a non-chemical part or aspect, the general rule is that the chemical part or aspect is covered by section <b>C</b>.</li><li>In some of these cases, the chemical part or aspect brings with it a non-chemical one, even though purely mechanical, because this latter aspect either is essential to the operation or treatment or constitutes an important element thereof. It has seemed, in fact, more logical not to dissociate the different parts or aspects of a coherent whole. This is the case for applied chemistry and for the industries, operations and treatments mentioned in Notes (1)(c), (d) and (e). For example, furnaces peculiar to the manufacture of glass are covered by class <b>C03</b> and not by class <b>F27</b>.</li><li>There are, however, some exceptions in which the mechanical (or non-chemical) aspect carries with it the chemical aspect, for example: <ul><li>certain extractive processes, in subclass <b>A61K</b>;</li><li>the chemical purification of air, in subclass <b>A61L</b>;</li><li>chemical methods of fire-fighting, in subclass <b>A62D</b>;</li><li>chemical processes and apparatus, in class <b>B01</b>;</li><li>impregnation of wood, in subclass <b>B27K</b>;</li><li>chemical methods of analysis or testing, in subclass <b>G01N</b>;</li><li>photographic materials and processes, in class <b>G03</b>, and, generally, the chemical treatment of textiles and the production of cellulose or paper, in section <b>D</b>.</li></ul></li><li>In still other cases, the pure chemical aspect is covered by section <b>C</b> and the applied chemical aspect by another section, such as <b>A</b>, <b>B</b> or <b>F</b>, e.g., the use of a substance or composition for: <ul><li>treatment of plants or animals, covered by subclass <b>A01N</b>;</li><li>foodstuffs, covered by class <b>A23</b>;</li><li>ammunition or explosives, covered by class <b>F42</b>.</li></ul></li><li>When the chemical and mechanical aspects are so closely interlocked that a neat and simple division is not possible, or when certain mechanical processes follow as a natural or logical continuation of a chemical treatment, section <b>C</b> may cover, in addition to the chemical aspect, a part only of the mechanical aspect, e.g., after-treatment of artificial stone, covered by class <b>C04</b>. In this latter case, a note or a reference is usually given to make the position clear, even if sometimes the division is rather arbitrary.</li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_C.txt",
+      "kind": "ipc"
+    },
+    "C08K3/00": {
+      "code": "C08K3/00",
+      "level": 0,
+      "parent": "C08K",
+      "ja": "無機物質の添加剤としての使用［２０１８．０１］",
+      "en": "Use of inorganic substances as compounding ingredients",
+      "count": 39471,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K3/01": {
+      "code": "C08K3/01",
+      "level": 1,
+      "parent": "C08K3/00",
+      "ja": "特定の機能に特徴のあるもの［２０１８．０１］",
+      "en": "characterised by their specific function",
+      "count": 2245,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K3/011": {
+      "code": "C08K3/011",
+      "level": 2,
+      "parent": "C08K3/01",
+      "ja": "架橋剤または加硫剤，例．促進剤［２０１８．０１］",
+      "en": "Crosslinking or vulcanising agents, e.g. accelerators",
+      "count": 845,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K3/012": {
+      "code": "C08K3/012",
+      "level": 2,
+      "parent": "C08K3/01",
+      "ja": "高分子化合物の劣化を促進する添加剤［２０１８．０１］",
+      "en": "Additives activating the degradation of the macromolecular compounds",
+      "count": 98,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K3/013": {
+      "code": "C08K3/013",
+      "level": 2,
+      "parent": "C08K3/01",
+      "ja": "充填剤，顔料または補強剤［２０１８．０１］",
+      "en": "Fillers, pigments or reinforcing additives",
+      "count": 12647,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K3/014": {
+      "code": "C08K3/014",
+      "level": 2,
+      "parent": "C08K3/01",
+      "ja": "酸化，熱，光またはオゾンに対する安定剤［２０１８．０１］",
+      "en": "Stabilisers against oxidation, heat, light or ozone",
+      "count": 692,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K3/015": {
+      "code": "C08K3/015",
+      "level": 2,
+      "parent": "C08K3/01",
+      "ja": "防生物剤（防生物材料の担体としての高分子物質Ａ０１Ｌ２５／１０）［２０１８．０１］",
+      "en": "Biocides  (macromolecular substances as carriers for biocide material  <b>A01N25/10</b>)",
+      "count": 869,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K3/016": {
+      "code": "C08K3/016",
+      "level": 2,
+      "parent": "C08K3/01",
+      "ja": "防炎剤または燃焼遅延化剤［２０１８．０１］",
+      "en": "Flame-proofing or flame-retarding additives",
+      "count": 1459,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K3/017": {
+      "code": "C08K3/017",
+      "level": 2,
+      "parent": "C08K3/01",
+      "ja": "静電防止剤［２０１８．０１］",
+      "en": "Antistatic agents",
+      "count": 165,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K3/02": {
+      "code": "C08K3/02",
+      "level": 1,
+      "parent": "C08K3/00",
+      "ja": "元素［２］",
+      "en": "Elements",
+      "count": 5946,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K3/04": {
+      "code": "C08K3/04",
+      "level": 2,
+      "parent": "C08K3/02",
+      "ja": "炭素［２］",
+      "en": "Carbon",
+      "count": 80501,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K3/06": {
+      "code": "C08K3/06",
+      "level": 2,
+      "parent": "C08K3/02",
+      "ja": "いおう［２］",
+      "en": "Sulfur",
+      "count": 12571,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K3/08": {
+      "code": "C08K3/08",
+      "level": 2,
+      "parent": "C08K3/02",
+      "ja": "金属［２］",
+      "en": "Metals",
+      "count": 23749,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K3/10": {
+      "code": "C08K3/10",
+      "level": 1,
+      "parent": "C08K3/00",
+      "ja": "金属化合物［２０１８．０１］",
+      "en": "Metal compounds",
+      "count": 5552,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K3/105": {
+      "code": "C08K3/105",
+      "level": 2,
+      "parent": "C08K3/10",
+      "ja": "周期表の１族から３族または１１族から１３族の金属を含有する化合物［２０１８．０１］",
+      "en": "Compounds containing metals of Groups 1 to 3 or of Groups 11 to 13 of the Periodic Table",
+      "count": 706,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K3/11": {
+      "code": "C08K3/11",
+      "level": 2,
+      "parent": "C08K3/10",
+      "ja": "周期表の４族から１０族または１４族から１６族の金属を含有する化合物［２０１８．０１］",
+      "en": "Compounds containing metals of Groups 4 to 10 or of Groups 14 to 16 of the Periodic Table",
+      "count": 544,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K3/12": {
+      "code": "C08K3/12",
+      "level": 2,
+      "parent": "C08K3/10",
+      "ja": "水素化物［２］",
+      "en": "Hydrides",
+      "count": 218,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K3/14": {
+      "code": "C08K3/14",
+      "level": 2,
+      "parent": "C08K3/10",
+      "ja": "炭化物［２］",
+      "en": "Carbides",
+      "count": 2316,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K3/16": {
+      "code": "C08K3/16",
+      "level": 1,
+      "parent": "C08K3/00",
+      "ja": "ハロゲン含有化合物［２］",
+      "en": "Halogen-containing compounds",
+      "count": 8901,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K3/18": {
+      "code": "C08K3/18",
+      "level": 1,
+      "parent": "C08K3/00",
+      "ja": "酸素含有化合物，例．金属カルボニル［２］",
+      "en": "Oxygen-containing compounds, e.g. metal carbonyls",
+      "count": 2635,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K3/20": {
+      "code": "C08K3/20",
+      "level": 2,
+      "parent": "C08K3/18",
+      "ja": "酸化物；水酸化物［２］",
+      "en": "Oxides; Hydroxides",
+      "count": 4036,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K3/22": {
+      "code": "C08K3/22",
+      "level": 3,
+      "parent": "C08K3/20",
+      "ja": "金属の［２］",
+      "en": "of metals",
+      "count": 111655,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K3/24": {
+      "code": "C08K3/24",
+      "level": 2,
+      "parent": "C08K3/18",
+      "ja": "酸；その塩［２］",
+      "en": "Acids; Salts thereof",
+      "count": 8723,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K3/26": {
+      "code": "C08K3/26",
+      "level": 3,
+      "parent": "C08K3/24",
+      "ja": "炭酸塩；重炭酸塩［２］",
+      "en": "Carbonates; Bicarbonates",
+      "count": 44241,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K3/28": {
+      "code": "C08K3/28",
+      "level": 1,
+      "parent": "C08K3/00",
+      "ja": "窒素含有化合物［２］",
+      "en": "Nitrogen-containing compounds",
+      "count": 8132,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K3/30": {
+      "code": "C08K3/30",
+      "level": 1,
+      "parent": "C08K3/00",
+      "ja": "いおう，セレンまたはテルル含有化合物［２］",
+      "en": "Sulfur-, selenium-, or tellurium-containing compounds",
+      "count": 18235,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K3/32": {
+      "code": "C08K3/32",
+      "level": 1,
+      "parent": "C08K3/00",
+      "ja": "りん含有化合物［２］",
+      "en": "Phosphorus-containing compounds",
+      "count": 19391,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K3/34": {
+      "code": "C08K3/34",
+      "level": 1,
+      "parent": "C08K3/00",
+      "ja": "けい素含有化合物［２］",
+      "en": "Silicon-containing compounds",
+      "count": 73558,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K3/36": {
+      "code": "C08K3/36",
+      "level": 2,
+      "parent": "C08K3/34",
+      "ja": "シリカ［２］",
+      "en": "Silica",
+      "count": 59376,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K3/38": {
+      "code": "C08K3/38",
+      "level": 1,
+      "parent": "C08K3/00",
+      "ja": "ほう素含有化合物［２］",
+      "en": "Boron-containing compounds",
+      "count": 19436,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K3/40": {
+      "code": "C08K3/40",
+      "level": 1,
+      "parent": "C08K3/00",
+      "ja": "ガラス［２］",
+      "en": "Glass",
+      "count": 4547,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/00": {
+      "code": "C08K5/00",
+      "level": 0,
+      "parent": "C08K",
+      "ja": "有機配合成分の使用［２］",
+      "en": "Use of organic ingredients",
+      "count": 49775,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/01": {
+      "code": "C08K5/01",
+      "level": 1,
+      "parent": "C08K5/00",
+      "ja": "炭化水素［２］",
+      "en": "Hydrocarbons",
+      "count": 9042,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/02": {
+      "code": "C08K5/02",
+      "level": 1,
+      "parent": "C08K5/00",
+      "ja": "ハロゲン化炭化水素［２］",
+      "en": "Halogenated hydrocarbons",
+      "count": 4370,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/03": {
+      "code": "C08K5/03",
+      "level": 2,
+      "parent": "C08K5/02",
+      "ja": "芳香族［２］",
+      "en": "aromatic",
+      "count": 3709,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/04": {
+      "code": "C08K5/04",
+      "level": 1,
+      "parent": "C08K5/00",
+      "ja": "酸素含有化合物［２］",
+      "en": "Oxygen-containing compounds",
+      "count": 3714,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/05": {
+      "code": "C08K5/05",
+      "level": 2,
+      "parent": "C08K5/04",
+      "ja": "アルコール；金属アルコラート［２］",
+      "en": "Alcohols; Metal alcoholates",
+      "count": 6635,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/053": {
+      "code": "C08K5/053",
+      "level": 3,
+      "parent": "C08K5/05",
+      "ja": "多価アルコール［６］",
+      "en": "Polyhydroxylic alcohols",
+      "count": 13145,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/057": {
+      "code": "C08K5/057",
+      "level": 3,
+      "parent": "C08K5/05",
+      "ja": "金属アルコラート［６］",
+      "en": "Metal alcoholates",
+      "count": 1028,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/06": {
+      "code": "C08K5/06",
+      "level": 2,
+      "parent": "C08K5/04",
+      "ja": "エーテル；アセタール；ケタール；オルト―エステル［２］",
+      "en": "Ethers; Acetals; Ketals; Ortho-esters",
+      "count": 8193,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/07": {
+      "code": "C08K5/07",
+      "level": 2,
+      "parent": "C08K5/04",
+      "ja": "アルデヒド；ケトン［２］",
+      "en": "Aldehydes; Ketones",
+      "count": 6412,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/08": {
+      "code": "C08K5/08",
+      "level": 3,
+      "parent": "C08K5/07",
+      "ja": "キノン［２］",
+      "en": "Quinones",
+      "count": 1027,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/09": {
+      "code": "C08K5/09",
+      "level": 2,
+      "parent": "C08K5/04",
+      "ja": "カルボン酸；その金属塩；その無水物［２］",
+      "en": "Carboxylic acids; Metal salts thereof; Anhydrides thereof",
+      "count": 33104,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/092": {
+      "code": "C08K5/092",
+      "level": 3,
+      "parent": "C08K5/09",
+      "ja": "ポリカルボン酸［６］",
+      "en": "Polycarboxylic acids",
+      "count": 3810,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/095": {
+      "code": "C08K5/095",
+      "level": 3,
+      "parent": "C08K5/09",
+      "ja": "ハロゲン含有カルボン酸［６］",
+      "en": "Carboxylic acids containing halogens",
+      "count": 367,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/098": {
+      "code": "C08K5/098",
+      "level": 3,
+      "parent": "C08K5/09",
+      "ja": "カルボン酸の金属塩［６］",
+      "en": "Metal salts of carboxylic acids",
+      "count": 32818,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/10": {
+      "code": "C08K5/10",
+      "level": 2,
+      "parent": "C08K5/04",
+      "ja": "エステル；エーテルエステル［２］",
+      "en": "Esters; Ether-esters",
+      "count": 12741,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/101": {
+      "code": "C08K5/101",
+      "level": 3,
+      "parent": "C08K5/10",
+      "ja": "モノカルボン酸の［６］",
+      "en": "of monocarboxylic acids",
+      "count": 6159,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/103": {
+      "code": "C08K5/103",
+      "level": 4,
+      "parent": "C08K5/101",
+      "ja": "多価アルコールとの［６］",
+      "en": "with polyalcohols",
+      "count": 10838,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/105": {
+      "code": "C08K5/105",
+      "level": 4,
+      "parent": "C08K5/101",
+      "ja": "フェノールとの［６］",
+      "en": "with phenols",
+      "count": 515,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/107": {
+      "code": "C08K5/107",
+      "level": 5,
+      "parent": "C08K5/105",
+      "ja": "多価フェノールとの［６］",
+      "en": "with polyphenols",
+      "count": 234,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/109": {
+      "code": "C08K5/109",
+      "level": 3,
+      "parent": "C08K5/10",
+      "ja": "炭酸の［６］",
+      "en": "of carbonic acid",
+      "count": 659,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/11": {
+      "code": "C08K5/11",
+      "level": 3,
+      "parent": "C08K5/10",
+      "ja": "非環式ポリカルボン酸［２］",
+      "en": "of acyclic polycarboxylic acids",
+      "count": 9290,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/12": {
+      "code": "C08K5/12",
+      "level": 3,
+      "parent": "C08K5/10",
+      "ja": "環式ポリカルボン酸［２］",
+      "en": "of cyclic polycarboxylic acids",
+      "count": 15340,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/13": {
+      "code": "C08K5/13",
+      "level": 2,
+      "parent": "C08K5/04",
+      "ja": "フェノール類；フェノラート類［２］",
+      "en": "Phenols; Phenolates",
+      "count": 15886,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/132": {
+      "code": "C08K5/132",
+      "level": 3,
+      "parent": "C08K5/13",
+      "ja": "ケト基含有フェノール［６］",
+      "en": "Phenols containing keto groups",
+      "count": 2672,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/134": {
+      "code": "C08K5/134",
+      "level": 3,
+      "parent": "C08K5/13",
+      "ja": "エステル基含有フェノール［６］",
+      "en": "Phenols containing ester groups",
+      "count": 13336,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/136": {
+      "code": "C08K5/136",
+      "level": 3,
+      "parent": "C08K5/13",
+      "ja": "ハロゲン含有フェノール［６］",
+      "en": "Phenols containing halogens",
+      "count": 1204,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/138": {
+      "code": "C08K5/138",
+      "level": 3,
+      "parent": "C08K5/13",
+      "ja": "フェノラート［６］",
+      "en": "Phenolates",
+      "count": 369,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/14": {
+      "code": "C08K5/14",
+      "level": 2,
+      "parent": "C08K5/04",
+      "ja": "過酸化物［２］",
+      "en": "Peroxides",
+      "count": 18514,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/15": {
+      "code": "C08K5/15",
+      "level": 2,
+      "parent": "C08K5/04",
+      "ja": "異項原子として酸素を有する複素環式化合物［２］",
+      "en": "Heterocyclic compounds having oxygen in the ring",
+      "count": 2345,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/151": {
+      "code": "C08K5/151",
+      "level": 3,
+      "parent": "C08K5/15",
+      "ja": "異項原子として１個の酸素を有するもの［７］",
+      "en": "having one oxygen atom in the ring",
+      "count": 555,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/1515": {
+      "code": "C08K5/1515",
+      "level": 4,
+      "parent": "C08K5/151",
+      "ja": "３員環［７］",
+      "en": "Three-membered rings",
+      "count": 6805,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/1525": {
+      "code": "C08K5/1525",
+      "level": 4,
+      "parent": "C08K5/151",
+      "ja": "４員環［７］",
+      "en": "Four-membered rings",
+      "count": 295,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/1535": {
+      "code": "C08K5/1535",
+      "level": 4,
+      "parent": "C08K5/151",
+      "ja": "５員環［７］",
+      "en": "Five-membered rings",
+      "count": 1902,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/1539": {
+      "code": "C08K5/1539",
+      "level": 5,
+      "parent": "C08K5/1535",
+      "ja": "環状無水物［７］",
+      "en": "Cyclic anhydrides",
+      "count": 1656,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/1545": {
+      "code": "C08K5/1545",
+      "level": 4,
+      "parent": "C08K5/151",
+      "ja": "６員環［７］",
+      "en": "Six-membered rings",
+      "count": 3269,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/156": {
+      "code": "C08K5/156",
+      "level": 3,
+      "parent": "C08K5/15",
+      "ja": "異項原子として２個の酸素を有するもの［７］",
+      "en": "having two oxygen atoms in the ring",
+      "count": 214,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/1565": {
+      "code": "C08K5/1565",
+      "level": 4,
+      "parent": "C08K5/156",
+      "ja": "５員環［７］",
+      "en": "Five-membered rings",
+      "count": 394,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/1575": {
+      "code": "C08K5/1575",
+      "level": 4,
+      "parent": "C08K5/156",
+      "ja": "６員環［７］",
+      "en": "Six-membered rings",
+      "count": 1179,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/159": {
+      "code": "C08K5/159",
+      "level": 3,
+      "parent": "C08K5/15",
+      "ja": "異項原子として３個以上の酸素を有するもの［７］",
+      "en": "having more than two oxygen atoms in the ring",
+      "count": 204,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/16": {
+      "code": "C08K5/16",
+      "level": 1,
+      "parent": "C08K5/00",
+      "ja": "窒素含有化合物［２］",
+      "en": "Nitrogen-containing compounds",
+      "count": 4782,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/17": {
+      "code": "C08K5/17",
+      "level": 2,
+      "parent": "C08K5/16",
+      "ja": "アミン；第四級アンモニウム化合物［２］",
+      "en": "Amines; Quaternary ammonium compounds",
+      "count": 16964,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/18": {
+      "code": "C08K5/18",
+      "level": 3,
+      "parent": "C08K5/17",
+      "ja": "芳香族アミノ基を有するもの［２］",
+      "en": "with aromatically bound amino groups",
+      "count": 8623,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/19": {
+      "code": "C08K5/19",
+      "level": 3,
+      "parent": "C08K5/17",
+      "ja": "第四級アンモニウム化合物［２］",
+      "en": "Quaternary ammonium compounds",
+      "count": 3883,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/20": {
+      "code": "C08K5/20",
+      "level": 2,
+      "parent": "C08K5/16",
+      "ja": "カルボン酸アミド［２］",
+      "en": "Carboxylic acid amides",
+      "count": 17026,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/205": {
+      "code": "C08K5/205",
+      "level": 2,
+      "parent": "C08K5/16",
+      "ja": "「図」基を含有する化合物，例．カルバミン酸塩［６］",
+      "en": "Compounds containing [figure] groups, e.g. carbamates",
+      "count": 842,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/21": {
+      "code": "C08K5/21",
+      "level": 2,
+      "parent": "C08K5/16",
+      "ja": "尿素；その誘導体，例．ビューレット［２］",
+      "en": "Urea; Derivatives thereof, e.g. biuret",
+      "count": 2481,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/22": {
+      "code": "C08K5/22",
+      "level": 2,
+      "parent": "C08K5/16",
+      "ja": "他の１個の窒素原子に結合する窒素原子を含有する化合物［２］",
+      "en": "Compounds containing nitrogen bound to another nitrogen atom",
+      "count": 693,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/23": {
+      "code": "C08K5/23",
+      "level": 3,
+      "parent": "C08K5/22",
+      "ja": "アゾ化合物［２］",
+      "en": "Azo-compounds",
+      "count": 1958,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/24": {
+      "code": "C08K5/24",
+      "level": 3,
+      "parent": "C08K5/22",
+      "ja": "ヒドラジンの誘導体［２］",
+      "en": "Derivatives of hydrazine",
+      "count": 1042,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/25": {
+      "code": "C08K5/25",
+      "level": 4,
+      "parent": "C08K5/24",
+      "ja": "カルボン酸ヒドラジド［２］",
+      "en": "Carboxylic acid hydrazides",
+      "count": 1285,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/26": {
+      "code": "C08K5/26",
+      "level": 4,
+      "parent": "C08K5/24",
+      "ja": "セミカルバジド［２］",
+      "en": "Semicarbazides",
+      "count": 98,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/27": {
+      "code": "C08K5/27",
+      "level": 3,
+      "parent": "C08K5/22",
+      "ja": "他の２個の窒素原子に結合する窒素原子を含有する化合物，例．ジアゾアミノ化合物［２］",
+      "en": "Compounds containing a nitrogen atom bound to two other nitrogen atoms, e.g. diazoamino-compounds",
+      "count": 99,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/28": {
+      "code": "C08K5/28",
+      "level": 4,
+      "parent": "C08K5/27",
+      "ja": "アジド［２］",
+      "en": "Azides",
+      "count": 546,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/29": {
+      "code": "C08K5/29",
+      "level": 2,
+      "parent": "C08K5/16",
+      "ja": "炭素－窒素二重結合を含有する化合物［２］",
+      "en": "Compounds containing carbon-to-nitrogen double bonds",
+      "count": 6351,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/30": {
+      "code": "C08K5/30",
+      "level": 3,
+      "parent": "C08K5/29",
+      "ja": "ヒドラゾン；セミカルバゾン［２］",
+      "en": "Hydrazones; Semicarbazones",
+      "count": 202,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/31": {
+      "code": "C08K5/31",
+      "level": 3,
+      "parent": "C08K5/29",
+      "ja": "グアニジン；その誘導体［２］",
+      "en": "Guanidine; Derivatives thereof",
+      "count": 1435,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/315": {
+      "code": "C08K5/315",
+      "level": 2,
+      "parent": "C08K5/16",
+      "ja": "炭素－窒素三重結合を含有する化合物［６］",
+      "en": "Compounds containing carbon-to-nitrogen triple bonds",
+      "count": 1820,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/32": {
+      "code": "C08K5/32",
+      "level": 2,
+      "parent": "C08K5/16",
+      "ja": "窒素―酸素結合を有する化合物［２］",
+      "en": "Compounds containing nitrogen bound to oxygen",
+      "count": 1728,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/33": {
+      "code": "C08K5/33",
+      "level": 3,
+      "parent": "C08K5/32",
+      "ja": "オキシム［２］",
+      "en": "Oximes",
+      "count": 546,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/34": {
+      "code": "C08K5/34",
+      "level": 2,
+      "parent": "C08K5/16",
+      "ja": "異項原子として窒素を有する複素環式化合物［２］",
+      "en": "Heterocyclic compounds having nitrogen in the ring",
+      "count": 6129,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/3412": {
+      "code": "C08K5/3412",
+      "level": 3,
+      "parent": "C08K5/34",
+      "ja": "異項原子として１個の窒素を有するもの［５］",
+      "en": "having one nitrogen atom in the ring",
+      "count": 1558,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/3415": {
+      "code": "C08K5/3415",
+      "level": 4,
+      "parent": "C08K5/3412",
+      "ja": "５員環［５］",
+      "en": "Five-membered rings",
+      "count": 3781,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/3417": {
+      "code": "C08K5/3417",
+      "level": 5,
+      "parent": "C08K5/3415",
+      "ja": "炭素環で縮合されたもの［５］",
+      "en": "condensed with carbocyclic rings",
+      "count": 2076,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/3432": {
+      "code": "C08K5/3432",
+      "level": 4,
+      "parent": "C08K5/3412",
+      "ja": "６員環［５］",
+      "en": "Six-membered rings",
+      "count": 2161,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/3435": {
+      "code": "C08K5/3435",
+      "level": 5,
+      "parent": "C08K5/3432",
+      "ja": "ピペリジン［５］",
+      "en": "Piperidines",
+      "count": 3798,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/3437": {
+      "code": "C08K5/3437",
+      "level": 5,
+      "parent": "C08K5/3432",
+      "ja": "炭素環で縮合されたもの［５］",
+      "en": "condensed with carbocyclic rings",
+      "count": 2289,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/3442": {
+      "code": "C08K5/3442",
+      "level": 3,
+      "parent": "C08K5/34",
+      "ja": "異項原子として２個の窒素を有するもの［５］",
+      "en": "having two nitrogen atoms in the ring",
+      "count": 721,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/3445": {
+      "code": "C08K5/3445",
+      "level": 4,
+      "parent": "C08K5/3442",
+      "ja": "５員環［５］",
+      "en": "Five-membered rings",
+      "count": 3423,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/3447": {
+      "code": "C08K5/3447",
+      "level": 5,
+      "parent": "C08K5/3445",
+      "ja": "炭素環で縮合されたもの［５］",
+      "en": "condensed with carbocyclic rings",
+      "count": 725,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/3462": {
+      "code": "C08K5/3462",
+      "level": 4,
+      "parent": "C08K5/3442",
+      "ja": "６員環［５］",
+      "en": "Six-membered rings",
+      "count": 1699,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/3465": {
+      "code": "C08K5/3465",
+      "level": 5,
+      "parent": "C08K5/3462",
+      "ja": "炭素環で縮合されたもの［５］",
+      "en": "condensed with carbocyclic rings",
+      "count": 640,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/3467": {
+      "code": "C08K5/3467",
+      "level": 3,
+      "parent": "C08K5/34",
+      "ja": "異項原子として３個以上の窒素を有するもの［５］",
+      "en": "having more than two nitrogen atoms in the ring",
+      "count": 672,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/3472": {
+      "code": "C08K5/3472",
+      "level": 4,
+      "parent": "C08K5/3467",
+      "ja": "５員環［５］",
+      "en": "Five-membered rings",
+      "count": 1026,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/3475": {
+      "code": "C08K5/3475",
+      "level": 5,
+      "parent": "C08K5/3472",
+      "ja": "炭素環で縮合されたもの［５］",
+      "en": "condensed with carbocyclic rings",
+      "count": 4306,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/3477": {
+      "code": "C08K5/3477",
+      "level": 4,
+      "parent": "C08K5/3467",
+      "ja": "６員環［５］",
+      "en": "Six-membered rings",
+      "count": 2420,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/3492": {
+      "code": "C08K5/3492",
+      "level": 5,
+      "parent": "C08K5/3477",
+      "ja": "トリアジン［５］",
+      "en": "Triazines",
+      "count": 15196,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/3495": {
+      "code": "C08K5/3495",
+      "level": 5,
+      "parent": "C08K5/3477",
+      "ja": "炭素環で縮合されたもの［５］",
+      "en": "condensed with carbocyclic rings",
+      "count": 269,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/35": {
+      "code": "C08K5/35",
+      "level": 3,
+      "parent": "C08K5/34",
+      "ja": "異項原子として更に酸素を有するもの［２］",
+      "en": "having also oxygen in the ring",
+      "count": 1052,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/353": {
+      "code": "C08K5/353",
+      "level": 4,
+      "parent": "C08K5/35",
+      "ja": "５員環［５］",
+      "en": "Five-membered rings",
+      "count": 1102,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/357": {
+      "code": "C08K5/357",
+      "level": 4,
+      "parent": "C08K5/35",
+      "ja": "６員環［５］",
+      "en": "Six-membered rings",
+      "count": 1087,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/36": {
+      "code": "C08K5/36",
+      "level": 1,
+      "parent": "C08K5/00",
+      "ja": "いおう，セレンまたはテルル含有化合物［２］",
+      "en": "Sulfur-, selenium-, or tellurium-containing compounds",
+      "count": 4888,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/37": {
+      "code": "C08K5/37",
+      "level": 2,
+      "parent": "C08K5/36",
+      "ja": "チオール［２，７］",
+      "en": "Thiols",
+      "count": 3721,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/372": {
+      "code": "C08K5/372",
+      "level": 2,
+      "parent": "C08K5/36",
+      "ja": "チオエーテル［６，７］",
+      "en": "Sulfides",
+      "count": 3898,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/375": {
+      "code": "C08K5/375",
+      "level": 3,
+      "parent": "C08K5/372",
+      "ja": "６員環芳香族を含有するもの［６，７］",
+      "en": "containing six-membered aromatic rings",
+      "count": 2067,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/378": {
+      "code": "C08K5/378",
+      "level": 3,
+      "parent": "C08K5/372",
+      "ja": "複素環を含有するもの［６，７］",
+      "en": "containing heterocyclic rings",
+      "count": 1257,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/38": {
+      "code": "C08K5/38",
+      "level": 2,
+      "parent": "C08K5/36",
+      "ja": "チオ炭酸；その誘導体，例．キサントゲン酸塩［２］",
+      "en": "Thiocarbonic acids; Derivatives thereof, e.g. xanthates",
+      "count": 671,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/39": {
+      "code": "C08K5/39",
+      "level": 2,
+      "parent": "C08K5/36",
+      "ja": "チオカルバミン酸；その誘導体，例．ジチオカルバミン酸塩［２］",
+      "en": "Thiocarbamic acids; Derivatives thereof, e.g. dithiocarbamates",
+      "count": 2392,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/40": {
+      "code": "C08K5/40",
+      "level": 3,
+      "parent": "C08K5/39",
+      "ja": "チウラムスルフィド；チウラムポリスルフィド，例．「図」基を含有する化合物［２］",
+      "en": "Thiuramsulfides; Thiurampolysulfides, e.g. compounds containing [figure] groups",
+      "count": 2368,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/405": {
+      "code": "C08K5/405",
+      "level": 2,
+      "parent": "C08K5/36",
+      "ja": "チオ尿素；その誘導体［６］",
+      "en": "Thioureas; Derivatives thereof",
+      "count": 888,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/41": {
+      "code": "C08K5/41",
+      "level": 2,
+      "parent": "C08K5/36",
+      "ja": "いおう―酸素結合を有する化合物［２］",
+      "en": "Compounds containing sulfur bound to oxygen",
+      "count": 3512,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/42": {
+      "code": "C08K5/42",
+      "level": 3,
+      "parent": "C08K5/41",
+      "ja": "スルホン酸；その誘導体［２］",
+      "en": "Sulfonic acids; Derivatives thereof",
+      "count": 10190,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/43": {
+      "code": "C08K5/43",
+      "level": 2,
+      "parent": "C08K5/36",
+      "ja": "いおう―窒素結合を有する化合物［２］",
+      "en": "Compounds containing sulfur bound to nitrogen",
+      "count": 1786,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/435": {
+      "code": "C08K5/435",
+      "level": 3,
+      "parent": "C08K5/43",
+      "ja": "スルホンアミド［６］",
+      "en": "Sulfonamides",
+      "count": 1025,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/44": {
+      "code": "C08K5/44",
+      "level": 3,
+      "parent": "C08K5/43",
+      "ja": "スルフエンアミド［２］",
+      "en": "Sulfenamides",
+      "count": 864,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/45": {
+      "code": "C08K5/45",
+      "level": 2,
+      "parent": "C08K5/36",
+      "ja": "異項原子としていおうを有する複素環式化合物［２］",
+      "en": "Heterocyclic compounds having sulfur in the ring",
+      "count": 1927,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/46": {
+      "code": "C08K5/46",
+      "level": 3,
+      "parent": "C08K5/45",
+      "ja": "異項原子として酸素または窒素を有するもの［２］",
+      "en": "with oxygen or nitrogen in the ring",
+      "count": 1584,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/47": {
+      "code": "C08K5/47",
+      "level": 4,
+      "parent": "C08K5/46",
+      "ja": "チアゾール［２］",
+      "en": "Thiazoles",
+      "count": 4888,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/48": {
+      "code": "C08K5/48",
+      "level": 2,
+      "parent": "C08K5/36",
+      "ja": "セレンまたはテルル含有化合物［２］",
+      "en": "Selenium- or tellurium-containing compounds",
+      "count": 168,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/49": {
+      "code": "C08K5/49",
+      "level": 1,
+      "parent": "C08K5/00",
+      "ja": "りん含有化合物［２］",
+      "en": "Phosphorus-containing compounds",
+      "count": 5598,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/50": {
+      "code": "C08K5/50",
+      "level": 2,
+      "parent": "C08K5/49",
+      "ja": "りん―炭素結合のみを有するもの［２，５］",
+      "en": "Phosphorus bound to carbon only",
+      "count": 1737,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/51": {
+      "code": "C08K5/51",
+      "level": 2,
+      "parent": "C08K5/49",
+      "ja": "りん―酸素結合を有するもの［２］",
+      "en": "Phosphorus bound to oxygen",
+      "count": 2442,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/52": {
+      "code": "C08K5/52",
+      "level": 3,
+      "parent": "C08K5/51",
+      "ja": "酸素との結合のみを有するもの［２］",
+      "en": "bound to oxygen only",
+      "count": 4357,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/521": {
+      "code": "C08K5/521",
+      "level": 4,
+      "parent": "C08K5/52",
+      "ja": "りん酸エステル，例．Ｈ↓３ＰＯ↓４のエステル［５］",
+      "en": "Esters of phosphoric acids, e.g. of H<sub>3</sub>PO<sub>4</sub>",
+      "count": 11876,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/523": {
+      "code": "C08K5/523",
+      "level": 5,
+      "parent": "C08K5/521",
+      "ja": "ヒドロキシアリール化合物との［５］",
+      "en": "with hydroxyaryl compounds",
+      "count": 6127,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/524": {
+      "code": "C08K5/524",
+      "level": 4,
+      "parent": "C08K5/52",
+      "ja": "亜りん酸エステル，例．Ｈ↓３ＰＯ↓３のエステル［５］",
+      "en": "Esters of phosphorous acids, e.g. of H<sub>3</sub>PO<sub>3</sub>",
+      "count": 5579,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/526": {
+      "code": "C08K5/526",
+      "level": 5,
+      "parent": "C08K5/524",
+      "ja": "ヒドロキシアリール化合物を有するもの［５］",
+      "en": "with hydroxyaryl compounds",
+      "count": 9474,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/527": {
+      "code": "C08K5/527",
+      "level": 4,
+      "parent": "C08K5/52",
+      "ja": "環状エステル［５］",
+      "en": "Cyclic esters",
+      "count": 1943,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/529": {
+      "code": "C08K5/529",
+      "level": 4,
+      "parent": "C08K5/52",
+      "ja": "りん酸または亜りん酸の環状エステルを表さない複素環を含有するエステル［５］",
+      "en": "Esters containing heterocyclic rings not representing cyclic esters of phosphoric or phosphorous acids",
+      "count": 354,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/53": {
+      "code": "C08K5/53",
+      "level": 3,
+      "parent": "C08K5/51",
+      "ja": "酸素および炭素との結合のみを有するもの［２，５］",
+      "en": "bound to oxygen and to carbon only",
+      "count": 1717,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/5313": {
+      "code": "C08K5/5313",
+      "level": 4,
+      "parent": "C08K5/53",
+      "ja": "ホスフィン酸化合物，例．Ｒ↓２＝Ｐ（：Ｏ）ＯＲ′［５］",
+      "en": "Phosphinic compounds, e.g. R<sub>2</sub>=P(:O)OR'",
+      "count": 4678,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/5317": {
+      "code": "C08K5/5317",
+      "level": 4,
+      "parent": "C08K5/53",
+      "ja": "ホスフォン酸化合物，例．Ｒ―Ｐ（：Ｏ）（ＯＲ′）↓２［５］",
+      "en": "Phosphonic compounds, e.g. R&mdash;P(:O)(OR')<sub>2</sub>",
+      "count": 1388,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/5333": {
+      "code": "C08K5/5333",
+      "level": 5,
+      "parent": "C08K5/5317",
+      "ja": "ホスフォン酸エステル［５］",
+      "en": "Esters of phosphonic acids",
+      "count": 1681,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/5337": {
+      "code": "C08K5/5337",
+      "level": 6,
+      "parent": "C08K5/5333",
+      "ja": "更にハロゲンも含有するもの［５］",
+      "en": "containing also halogens",
+      "count": 185,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/5353": {
+      "code": "C08K5/5353",
+      "level": 6,
+      "parent": "C08K5/5333",
+      "ja": "更に窒素も含有するもの［５］",
+      "en": "containing also nitrogen",
+      "count": 341,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/5357": {
+      "code": "C08K5/5357",
+      "level": 6,
+      "parent": "C08K5/5333",
+      "ja": "環状［５］",
+      "en": "cyclic",
+      "count": 530,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/5373": {
+      "code": "C08K5/5373",
+      "level": 6,
+      "parent": "C08K5/5333",
+      "ja": "ホスフォン酸の環状エステル以外の複素環を含有するもの［５］",
+      "en": "containing heterocyclic rings not representing cyclic esters of phosphonic acids",
+      "count": 178,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/5377": {
+      "code": "C08K5/5377",
+      "level": 4,
+      "parent": "C08K5/53",
+      "ja": "亜ホスフィン酸化合物，例．Ｒ↓２＝Ｐ―ＯＲ′［５］",
+      "en": "Phosphinous compounds, e.g. R<sub>2</sub>=P&mdash;OR'",
+      "count": 112,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/5393": {
+      "code": "C08K5/5393",
+      "level": 4,
+      "parent": "C08K5/53",
+      "ja": "亜ホスフォン酸化合物，例．Ｒ―Ｐ（ＯＲ′）↓２［５］",
+      "en": "Phosphonous compounds, e.g. R&mdash;P(OR')<sub>2</sub>",
+      "count": 518,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/5397": {
+      "code": "C08K5/5397",
+      "level": 4,
+      "parent": "C08K5/53",
+      "ja": "ホスフィンオキサイド［５］",
+      "en": "Phosphine oxides",
+      "count": 935,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/5398": {
+      "code": "C08K5/5398",
+      "level": 2,
+      "parent": "C08K5/49",
+      "ja": "りん―いおう結合を有するもの［５］",
+      "en": "Phosphorus bound to sulfur",
+      "count": 875,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/5399": {
+      "code": "C08K5/5399",
+      "level": 2,
+      "parent": "C08K5/49",
+      "ja": "りん―窒素結合を有するもの［５］",
+      "en": "Phosphorus bound to nitrogen",
+      "count": 2957,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/54": {
+      "code": "C08K5/54",
+      "level": 1,
+      "parent": "C08K5/00",
+      "ja": "けい素含有化合物［２］",
+      "en": "Silicon-containing compounds",
+      "count": 9876,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/541": {
+      "code": "C08K5/541",
+      "level": 2,
+      "parent": "C08K5/54",
+      "ja": "酸素を含有するもの［７］",
+      "en": "containing oxygen",
+      "count": 1947,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/5415": {
+      "code": "C08K5/5415",
+      "level": 3,
+      "parent": "C08K5/541",
+      "ja": "１個以上のＳｉ－Ｏ結合を含有するもの［７］",
+      "en": "containing at least one Si&mdash;O bond",
+      "count": 4339,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/5419": {
+      "code": "C08K5/5419",
+      "level": 4,
+      "parent": "C08K5/5415",
+      "ja": "１個以上のＳｉ－Ｃ結合を含有するもの［７］",
+      "en": "containing at least one Si&mdash;C bond",
+      "count": 6025,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/5425": {
+      "code": "C08K5/5425",
+      "level": 3,
+      "parent": "C08K5/541",
+      "ja": "１個以上のＣ＝Ｃ結合を含有するもの［７］",
+      "en": "containing at least one C=C bond",
+      "count": 4178,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/5435": {
+      "code": "C08K5/5435",
+      "level": 3,
+      "parent": "C08K5/541",
+      "ja": "環中に酸素を含有するもの［７］",
+      "en": "containing oxygen in a ring",
+      "count": 2850,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/544": {
+      "code": "C08K5/544",
+      "level": 2,
+      "parent": "C08K5/54",
+      "ja": "窒素を含有するもの［７］",
+      "en": "containing nitrogen",
+      "count": 6717,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/5445": {
+      "code": "C08K5/5445",
+      "level": 3,
+      "parent": "C08K5/544",
+      "ja": "１個以上のＳｉ－Ｎ結合を含有するもの［７］",
+      "en": "containing at least one Si&mdash;N bond",
+      "count": 437,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/5455": {
+      "code": "C08K5/5455",
+      "level": 3,
+      "parent": "C08K5/544",
+      "ja": "１個以上の「図」基を含有するもの［７］",
+      "en": "containing at least one [figure] group",
+      "count": 530,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/5465": {
+      "code": "C08K5/5465",
+      "level": 3,
+      "parent": "C08K5/544",
+      "ja": "１個以上のＣ＝Ｎ結合を含有するもの［７］",
+      "en": "containing at least one C=N bond",
+      "count": 595,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/5475": {
+      "code": "C08K5/5475",
+      "level": 3,
+      "parent": "C08K5/544",
+      "ja": "１個以上のＣ≡Ｎ結合を含有するもの［７］",
+      "en": "containing at least one C&equiv;N bond",
+      "count": 67,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/548": {
+      "code": "C08K5/548",
+      "level": 2,
+      "parent": "C08K5/54",
+      "ja": "いおうを含有するもの［７］",
+      "en": "containing sulfur",
+      "count": 3356,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/549": {
+      "code": "C08K5/549",
+      "level": 2,
+      "parent": "C08K5/54",
+      "ja": "環中にけい素を含有するもの［７］",
+      "en": "containing silicon in a ring",
+      "count": 1148,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/55": {
+      "code": "C08K5/55",
+      "level": 1,
+      "parent": "C08K5/00",
+      "ja": "ほう素含有化合物［２］",
+      "en": "Boron-containing compounds",
+      "count": 2627,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/56": {
+      "code": "C08K5/56",
+      "level": 1,
+      "parent": "C08K5/00",
+      "ja": "有機金属化合物，すなわち，金属―炭素結合を有する有機化合物［２］",
+      "en": "Organo-metallic compounds, i.e. organic compounds containing a metal-to-carbon bond",
+      "count": 3872,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/57": {
+      "code": "C08K5/57",
+      "level": 2,
+      "parent": "C08K5/56",
+      "ja": "有機すず化合物［２］",
+      "en": "Organo-tin compounds",
+      "count": 3789,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/58": {
+      "code": "C08K5/58",
+      "level": 3,
+      "parent": "C08K5/57",
+      "ja": "いおうを含有するもの［２］",
+      "en": "containing sulfur",
+      "count": 1500,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K5/59": {
+      "code": "C08K5/59",
+      "level": 1,
+      "parent": "C08K5/00",
+      "ja": "ひ素またはアンチモン含有化合物［２］",
+      "en": "Arsenic- or antimony-containing compounds",
+      "count": 429,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K7/00": {
+      "code": "C08K7/00",
+      "level": 0,
+      "parent": "C08K",
+      "ja": "形状に特徴を有する配合成分の使用［２］",
+      "en": "Use of ingredients characterised by shape",
+      "count": 13706,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K7/02": {
+      "code": "C08K7/02",
+      "level": 1,
+      "parent": "C08K7/00",
+      "ja": "繊維またはウィスカ［２］",
+      "en": "Fibres or whiskers",
+      "count": 9176,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K7/04": {
+      "code": "C08K7/04",
+      "level": 2,
+      "parent": "C08K7/02",
+      "ja": "無機物［２］",
+      "en": "inorganic",
+      "count": 4342,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K7/06": {
+      "code": "C08K7/06",
+      "level": 3,
+      "parent": "C08K7/04",
+      "ja": "元素［２］",
+      "en": "Elements",
+      "count": 18890,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K7/08": {
+      "code": "C08K7/08",
+      "level": 3,
+      "parent": "C08K7/04",
+      "ja": "酸素含有化合物［２］",
+      "en": "Oxygen-containing compounds",
+      "count": 5694,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K7/10": {
+      "code": "C08K7/10",
+      "level": 3,
+      "parent": "C08K7/04",
+      "ja": "けい素含有化合物［２］",
+      "en": "Silicon-containing compounds",
+      "count": 6297,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K7/12": {
+      "code": "C08K7/12",
+      "level": 4,
+      "parent": "C08K7/10",
+      "ja": "石綿［２］",
+      "en": "Asbestos",
+      "count": 1652,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K7/14": {
+      "code": "C08K7/14",
+      "level": 3,
+      "parent": "C08K7/04",
+      "ja": "ガラス［２］",
+      "en": "Glass",
+      "count": 33716,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K7/16": {
+      "code": "C08K7/16",
+      "level": 1,
+      "parent": "C08K7/00",
+      "ja": "固体球状物［２］",
+      "en": "Solid spheres",
+      "count": 2165,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K7/18": {
+      "code": "C08K7/18",
+      "level": 2,
+      "parent": "C08K7/16",
+      "ja": "無機物［２］",
+      "en": "inorganic",
+      "count": 5288,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K7/20": {
+      "code": "C08K7/20",
+      "level": 3,
+      "parent": "C08K7/18",
+      "ja": "ガラス［２］",
+      "en": "Glass",
+      "count": 2694,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K7/22": {
+      "code": "C08K7/22",
+      "level": 1,
+      "parent": "C08K7/00",
+      "ja": "発泡状，多孔状，中空状の粒子［２］",
+      "en": "Expanded, porous or hollow particles",
+      "count": 2167,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K7/24": {
+      "code": "C08K7/24",
+      "level": 2,
+      "parent": "C08K7/22",
+      "ja": "無機物［２］",
+      "en": "inorganic",
+      "count": 9494,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K7/26": {
+      "code": "C08K7/26",
+      "level": 3,
+      "parent": "C08K7/24",
+      "ja": "けい素含有化合物［２］",
+      "en": "Silicon-containing compounds",
+      "count": 14197,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K7/28": {
+      "code": "C08K7/28",
+      "level": 3,
+      "parent": "C08K7/24",
+      "ja": "ガラス［２］",
+      "en": "Glass",
+      "count": 3859,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K9/00": {
+      "code": "C08K9/00",
+      "level": 0,
+      "parent": "C08K",
+      "ja": "前処理された配合成分の使用（高分子物質を含有する物品または成形体の製造における前処理された繊維質材料の使用Ｃ０８Ｊ５／０６）［２］",
+      "en": "Use of pretreated ingredients(use of pretreated fibrous materials in the manufacture of articles or shaped materials containing macromolecular substances <b>C08J5/06</b>)",
+      "count": 11241,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K9/02": {
+      "code": "C08K9/02",
+      "level": 1,
+      "parent": "C08K9/00",
+      "ja": "無機物質で処理された配合成分［２］",
+      "en": "Ingredients treated with inorganic substances",
+      "count": 16608,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K9/04": {
+      "code": "C08K9/04",
+      "level": 1,
+      "parent": "C08K9/00",
+      "ja": "有機物質で処理された配合成分［２］",
+      "en": "Ingredients treated with organic substances",
+      "count": 38388,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K9/06": {
+      "code": "C08K9/06",
+      "level": 2,
+      "parent": "C08K9/04",
+      "ja": "けい素含有化合物による処理［２］",
+      "en": "with silicon-containing compounds",
+      "count": 31974,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K9/08": {
+      "code": "C08K9/08",
+      "level": 1,
+      "parent": "C08K9/00",
+      "ja": "結合剤処理によって集塊された配合成分［２］",
+      "en": "Ingredients agglomerated by treatment with a binding agent",
+      "count": 3968,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K9/10": {
+      "code": "C08K9/10",
+      "level": 1,
+      "parent": "C08K9/00",
+      "ja": "カプセル化された配合成分［２］",
+      "en": "Encapsulated ingredients",
+      "count": 13509,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K9/12": {
+      "code": "C08K9/12",
+      "level": 1,
+      "parent": "C08K9/00",
+      "ja": "吸着された配合成分［２］",
+      "en": "Adsorbed ingredients",
+      "count": 5636,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K11/00": {
+      "code": "C08K11/00",
+      "level": 0,
+      "parent": "C08K",
+      "ja": "構造未知の配合成分の使用，例．未確定反応生成物［２］",
+      "en": "Use of ingredients of unknown constitution, e.g. undefined reaction products",
+      "count": 2951,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K13/00": {
+      "code": "C08K13/00",
+      "level": 0,
+      "parent": "C08K",
+      "ja": "メイングループＣ０８Ｋ３／００～Ｃ０８Ｋ１１／００のいずれのメイングループにも包含されない配合成分であって，そのいずれの化合物も本質的な配合成分からなる混合物の使用［４］",
+      "en": "Use of mixtures of ingredients not covered by any single one of main groups <b>C08K3/00 to C08K11/00</b> , each of these compounds being essential",
+      "count": 520,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K13/02": {
+      "code": "C08K13/02",
+      "level": 1,
+      "parent": "C08K13/00",
+      "ja": "有機および無機の配合成分［４］",
+      "en": "Organic and inorganic ingredients",
+      "count": 50574,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K13/04": {
+      "code": "C08K13/04",
+      "level": 1,
+      "parent": "C08K13/00",
+      "ja": "形状によって特徴づけられた配合成分および有機または無機の配合成分［４］",
+      "en": "Ingredients characterised by their shape and organic or inorganic ingredients",
+      "count": 22548,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K13/06": {
+      "code": "C08K13/06",
+      "level": 1,
+      "parent": "C08K13/00",
+      "ja": "前処理された配合成分およびメイングループＣ０８Ｋ３／００～Ｃ０８Ｋ７／００に包含される配合成分［４］",
+      "en": "Pretreated ingredients and ingredients covered by the main groups <b>C08K3/00 to C08K7/00</b> ",
+      "count": 25839,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    },
+    "C08K13/08": {
+      "code": "C08K13/08",
+      "level": 1,
+      "parent": "C08K13/00",
+      "ja": "構造未知の配合成分およびメイングループＣ０８Ｋ３／００～Ｃ０８Ｋ９／００に包含される配合成分［４］",
+      "en": "Ingredients of unknown constitution and ingredients covered by the main groups <b>C08K3/00 to C08K9/00</b> ",
+      "count": 679,
+      "sourceFile": "ipc_C08K.txt",
+      "kind": "ipc"
+    }
+  }
+};

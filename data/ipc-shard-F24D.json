@@ -1,0 +1,646 @@
+{
+  "generatedAt": "2026-03-20T02:17:46.910Z",
+  "total": 64,
+  "entries": {
+    "F24D": {
+      "code": "F24D",
+      "level": 0,
+      "parent": "F24",
+      "ja": "家庭用または区域暖房方式，例．中央暖房方式；家庭用温水供給方式；そのための要素または構成部材（加熱目的のために蒸気機関設備から抽出または排出された蒸気または復水の利用Ｆ０１Ｋ１７／０２）［２００６．０１］<br><br><b><ul>注</ul></b><br>このサブクラスにおいては，下記の表現は以下に示す意味で用いる：<br>―“中央暖房方式”は，そのシステムの中で熱が発生されまたは中央源に蓄積され，加熱される空間または地域へ伝達流体によって分配される方式を意味する。［５］<br><br><b><ul>サブクラス内の索引</ul></b><br>中央暖房方式<br>下記の熱交換流体をもつもの：蒸気；温水；温風または排気ガス；他の流体　１／００；３／００；５／００；７／００<br>組み合わせ　９／００<br>地域暖房方式　１０／００<br>蓄熱によるもの　１１／００<br>他の方式　１２／００<br>他の家庭用または区域暖房方式<br>電気式；その他　１３／００；１５／００<br>家庭用温水供給　１７／００<br>小規模な熱電併給システム　１８／００<br>細部　１９／００",
+      "en": "DOMESTIC- OR SPACE-HEATING SYSTEMS, e.g. CENTRAL HEATING SYSTEMS; DOMESTIC HOT-WATER SUPPLY SYSTEMS; ELEMENTS OR COMPONENTS THEREFOR(using steam or condensate extracted or exhausted from steam engine plants for heating purposes <b>F01K17/02</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>In this subclass, the following expression is used with the meaning indicated:<ul><li>\"central heating system\" means a system in which heat is generated or stored at central sources and is distributed by means of a transfer fluid to the spaces or areas to be heated. </li></ul></li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">CENTRAL HEATING SYSTEMS<tr><td width=\"70%\">With heat-transfer fluid: steam; hot water; hot air or exhaust gas; other fluid</td><td><b><b>1/00</b>; <b>3/00</b>; <b>5/00</b>; <b>7/00</b></b></td></tr></tr><tr><td width=\"70%\">Combinations</td><td><b><b>9/00</b></b></td></tr></tr><tr><td width=\"70%\">District heating systems</td><td><b><b>10/00</b></b></td></tr></tr><tr><td width=\"70%\">By heat storage</td><td><b><b>11/00</b></b></td></tr></tr><tr><td width=\"70%\">Other systems</td><td><b><b>12/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">OTHER DOMESTIC- OR SPACE-HEATING SYSTEMS<tr><td width=\"70%\">Electric; Other</td><td><b><b>13/00</b>; <b>15/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">DOMESTIC HOT-WATER SUPPLY</td><td><b><b>17/00</b></b></td></tr></tr><tr><td width=\"70%\">SMALL-SCALE COMBINED HEAT AND POWER GENERATION SYSTEMS</td><td><b><b>18/00</b></b></td></tr></tr><tr><td width=\"70%\">DETAILS</td><td><b><b>19/00</b></b></td></tr></tr></table>",
+      "count": 2267,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F24": {
+      "code": "F24",
+      "level": 0,
+      "parent": "F",
+      "ja": "加熱；レンジ；換気<br><br><b><ul>注</ul></b><br>このクラスにおいては，下記の用語は以下に示す意味で用いる：<br>―“ストーブ”は開放式炉，例．暖炉，を持つような装置を包含する；<br>―“レンジ”は種々の調理操作または調理と加熱操作をする要素をもった調理装置を意味する。",
+      "en": "HEATING; RANGES; VENTILATING; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this class, the following terms are used with the meanings indicated:<ul><li>\"stove\" includes apparatus which may have an open fire, e.g. fireplace;</li><li>\"range\" means an apparatus for cooking having elements that perform different cooking operations or cooking and heating operations.</li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F": {
+      "code": "F",
+      "level": 0,
+      "parent": null,
+      "ja": "機械工学；照明；加熱；武器；爆破",
+      "en": "MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F24D1/00": {
+      "code": "F24D1/00",
+      "level": 0,
+      "parent": "F24D",
+      "ja": "蒸気中央暖房方式（地域暖房方式Ｆ２４Ｄ１０／００；蓄熱体に貯えられた熱を使用する中央暖房方式Ｆ２４Ｄ１１／００）［２０２２．０１］",
+      "en": "Steam central heating systems(district heating systems <b>F24D10/00</b>; central heating systems using heat accumulated in storage masses <b>F24D11/00</b>)",
+      "count": 1278,
+      "sourceFile": "ipc_F24D.txt",
+      "kind": "ipc"
+    },
+    "F24D1/02": {
+      "code": "F24D1/02",
+      "level": 1,
+      "parent": "F24D1/00",
+      "ja": "生蒸気で作用するもの",
+      "en": "operating with live steam",
+      "count": 398,
+      "sourceFile": "ipc_F24D.txt",
+      "kind": "ipc"
+    },
+    "F24D1/04": {
+      "code": "F24D1/04",
+      "level": 1,
+      "parent": "F24D1/00",
+      "ja": "排出蒸気で作用するもの",
+      "en": "operating with exhaust steam",
+      "count": 170,
+      "sourceFile": "ipc_F24D.txt",
+      "kind": "ipc"
+    },
+    "F24D1/06": {
+      "code": "F24D1/06",
+      "level": 1,
+      "parent": "F24D1/00",
+      "ja": "過熱蒸気で作用するもの",
+      "en": "operating with superheated steam",
+      "count": 78,
+      "sourceFile": "ipc_F24D.txt",
+      "kind": "ipc"
+    },
+    "F24D1/08": {
+      "code": "F24D1/08",
+      "level": 1,
+      "parent": "F24D1/00",
+      "ja": "供給配管装置，例．単管装置を備えたもの",
+      "en": "Feed-line arrangements, e.g. providing for one-pipe system",
+      "count": 666,
+      "sourceFile": "ipc_F24D.txt",
+      "kind": "ipc"
+    },
+    "F24D3/00": {
+      "code": "F24D3/00",
+      "level": 0,
+      "parent": "F24D",
+      "ja": "温水中央暖房方式（地域暖房方式Ｆ２４Ｄ１０／００；蓄熱体に貯えられた熱を使用する中央暖房方式Ｆ２４Ｄ１１／００）［２０２２．０１］",
+      "en": "Hot-water central heating systems(district heating systems <b>F24D10/00</b>; central heating systems using heat accumulated in storage masses <b>F24D11/00</b>)",
+      "count": 8906,
+      "sourceFile": "ipc_F24D.txt",
+      "kind": "ipc"
+    },
+    "F24D3/02": {
+      "code": "F24D3/02",
+      "level": 1,
+      "parent": "F24D3/00",
+      "ja": "強制循環によるもの，例．ポンプによるもの（ポンプの構造Ｆ０４）",
+      "en": "with forced circulation, e.g. by pumps",
+      "count": 6184,
+      "sourceFile": "ipc_F24D.txt",
+      "kind": "ipc"
+    },
+    "F24D3/04": {
+      "code": "F24D3/04",
+      "level": 1,
+      "parent": "F24D3/00",
+      "ja": "高圧を受ける水によるもの",
+      "en": "with the water under high pressure",
+      "count": 338,
+      "sourceFile": "ipc_F24D.txt",
+      "kind": "ipc"
+    },
+    "F24D3/06": {
+      "code": "F24D3/06",
+      "level": 2,
+      "parent": "F24D3/04",
+      "ja": "高圧を持続するための配列または装置",
+      "en": "Arrangements or devices for maintaining high pressure",
+      "count": 223,
+      "sourceFile": "ipc_F24D.txt",
+      "kind": "ipc"
+    },
+    "F24D3/08": {
+      "code": "F24D3/08",
+      "level": 1,
+      "parent": "F24D3/00",
+      "ja": "家庭用温水供給のための方式と結合するもの",
+      "en": "in combination with systems for domestic hot-water supply",
+      "count": 5937,
+      "sourceFile": "ipc_F24D.txt",
+      "kind": "ipc"
+    },
+    "F24D3/10": {
+      "code": "F24D3/10",
+      "level": 1,
+      "parent": "F24D3/00",
+      "ja": "供給配管装置，例．熱貯蔵槽，膨張水槽を備えたもの",
+      "en": "Feed-line arrangements, e.g. providing for heat-accumulator tanks, expansion tanks",
+      "count": 12915,
+      "sourceFile": "ipc_F24D.txt",
+      "kind": "ipc"
+    },
+    "F24D3/12": {
+      "code": "F24D3/12",
+      "level": 1,
+      "parent": "F24D3/00",
+      "ja": "天井，壁，または床下暖房用の管およびパネル装置（電気的な床下暖房Ｆ２４Ｄ１３／０２）［２００６．０１］",
+      "en": "Tube and panel arrangements for ceiling, wall, or underfloor heating (electric underfloor heating <b>F24D13/02</b>)",
+      "count": 4351,
+      "sourceFile": "ipc_F24D.txt",
+      "kind": "ipc"
+    },
+    "F24D3/14": {
+      "code": "F24D3/14",
+      "level": 2,
+      "parent": "F24D3/12",
+      "ja": "天井，壁または床に組み込まれたもの［４］",
+      "en": "incorporated in a ceiling, wall or floor",
+      "count": 6311,
+      "sourceFile": "ipc_F24D.txt",
+      "kind": "ipc"
+    },
+    "F24D3/16": {
+      "code": "F24D3/16",
+      "level": 2,
+      "parent": "F24D3/12",
+      "ja": "天井，壁または床に直接または隣接して取り付けられたもの［４］",
+      "en": "mounted on, or adjacent to, a ceiling, wall or floor",
+      "count": 4953,
+      "sourceFile": "ipc_F24D.txt",
+      "kind": "ipc"
+    },
+    "F24D3/18": {
+      "code": "F24D3/18",
+      "level": 1,
+      "parent": "F24D3/00",
+      "ja": "ヒートポンプを使用するもの［５］",
+      "en": "using heat pumps",
+      "count": 6177,
+      "sourceFile": "ipc_F24D.txt",
+      "kind": "ipc"
+    },
+    "F24D5/00": {
+      "code": "F24D5/00",
+      "level": 0,
+      "parent": "F24D",
+      "ja": "温風気中央暖房方式（地域暖房方式Ｆ２４Ｄ１０／００；蓄熱体に貯えられた熱を使用する中央暖房方式Ｆ２４Ｄ１１／００；空気調整Ｆ２４Ｆ）；排気ガス中央暖房方式［２０２２．０１］",
+      "en": "Hot-air central heating systems(district heating systems <b>F24D10/00</b>; central heating systems using heat accumulated in storage masses <b>F24D11/00</b>; air conditioning <b>F24F</b>);Exhaust-gas central heating systems",
+      "count": 2375,
+      "sourceFile": "ipc_F24D.txt",
+      "kind": "ipc"
+    },
+    "F24D5/02": {
+      "code": "F24D5/02",
+      "level": 1,
+      "parent": "F24D5/00",
+      "ja": "暖房のため区域または地域に温風を放出して作用するもの",
+      "en": "operating with discharge of hot air into the space or area to be heated",
+      "count": 2895,
+      "sourceFile": "ipc_F24D.txt",
+      "kind": "ipc"
+    },
+    "F24D5/04": {
+      "code": "F24D5/04",
+      "level": 2,
+      "parent": "F24D5/02",
+      "ja": "気体加熱器に空気が戻るもの",
+      "en": "with return of the air to the air heater",
+      "count": 892,
+      "sourceFile": "ipc_F24D.txt",
+      "kind": "ipc"
+    },
+    "F24D5/06": {
+      "code": "F24D5/06",
+      "level": 1,
+      "parent": "F24D5/00",
+      "ja": "暖房のため区域または地域に温風を放出しないで作用するもの",
+      "en": "operating without discharge of hot air into the space or area to be heated",
+      "count": 147,
+      "sourceFile": "ipc_F24D.txt",
+      "kind": "ipc"
+    },
+    "F24D5/08": {
+      "code": "F24D5/08",
+      "level": 2,
+      "parent": "F24D5/06",
+      "ja": "温風が放熱器を通って導かれるもの",
+      "en": "with hot air led through radiators",
+      "count": 637,
+      "sourceFile": "ipc_F24D.txt",
+      "kind": "ipc"
+    },
+    "F24D5/10": {
+      "code": "F24D5/10",
+      "level": 2,
+      "parent": "F24D5/06",
+      "ja": "温風が壁，床または天井の送風管を通って導かれるもの",
+      "en": "with hot air led through heat-exchange ducts in the walls, floor, or ceiling",
+      "count": 1306,
+      "sourceFile": "ipc_F24D.txt",
+      "kind": "ipc"
+    },
+    "F24D5/12": {
+      "code": "F24D5/12",
+      "level": 1,
+      "parent": "F24D5/00",
+      "ja": "ヒートポンプを使用するもの［５］",
+      "en": "using heat pumps",
+      "count": 461,
+      "sourceFile": "ipc_F24D.txt",
+      "kind": "ipc"
+    },
+    "F24D7/00": {
+      "code": "F24D7/00",
+      "level": 0,
+      "parent": "F24D",
+      "ja": "グループＦ２４Ｄ１／００～Ｆ２４Ｄ５／００に包含されない熱交換流体を使用する中央暖房方式，例．油，塩またはガス（地域暖房方式Ｆ２４Ｄ１０／００；蓄熱体に貯えられた熱を使用する中央暖房方式Ｆ２４Ｄ１１／００）［２０２２．０１］",
+      "en": "Central heating systems employing heat-transfer fluids not covered by groups <b>F24D1/00 to F24D5/00</b> , e.g. oil, salt or gas (district heating systems <b>F24D10/00</b>;  central heating systems using heat accumulated in storage masses <b>F24D11/00</b>)",
+      "count": 1677,
+      "sourceFile": "ipc_F24D.txt",
+      "kind": "ipc"
+    },
+    "F24D9/00": {
+      "code": "F24D9/00",
+      "level": 0,
+      "parent": "F24D",
+      "ja": "グループＦ２４Ｄ１／００～Ｆ２４Ｄ７／００の２つ以上に包含される，熱交換流体の組合せを使用する中央暖房方式（地域暖房方式Ｆ２４Ｄ１０／００；蓄熱体に貯えられた熱を使用する中央暖房方式Ｆ２４Ｄ１１／００）［２０２２．０１］",
+      "en": "Central heating systems employing combinations of heat-transfer fluids covered by two or more of groups <b>F24D1/00 to F24D7/00</b> (district heating systems <b>F24D10/00</b>; central heating systems using heat accumulated in storage masses <b>F24D11/00</b>)",
+      "count": 462,
+      "sourceFile": "ipc_F24D.txt",
+      "kind": "ipc"
+    },
+    "F24D9/02": {
+      "code": "F24D9/02",
+      "level": 1,
+      "parent": "F24D9/00",
+      "ja": "温水と蒸気方式",
+      "en": "Hot water and steam systems",
+      "count": 230,
+      "sourceFile": "ipc_F24D.txt",
+      "kind": "ipc"
+    },
+    "F24D10/00": {
+      "code": "F24D10/00",
+      "level": 0,
+      "parent": "F24D",
+      "ja": "地域暖房方式［２０２２．０１］",
+      "en": "District heating systems",
+      "count": 1645,
+      "sourceFile": "ipc_F24D.txt",
+      "kind": "ipc"
+    },
+    "F24D11/00": {
+      "code": "F24D11/00",
+      "level": 0,
+      "parent": "F24D",
+      "ja": "蓄熱体に貯えられた熱を使用する中央暖房方式（自蔵型蓄熱暖房ユニットＦ２４Ｄ１５／０２）［２０２２．０１］",
+      "en": "Central heating systems using heat accumulated in storage masses(self-contained storage heating units <b>F24D15/02</b>)",
+      "count": 7153,
+      "sourceFile": "ipc_F24D.txt",
+      "kind": "ipc"
+    },
+    "F24D11/02": {
+      "code": "F24D11/02",
+      "level": 1,
+      "parent": "F24D11/00",
+      "ja": "ヒートポンプを使用するもの",
+      "en": "using heat pumps",
+      "count": 3850,
+      "sourceFile": "ipc_F24D.txt",
+      "kind": "ipc"
+    },
+    "F24D12/00": {
+      "code": "F24D12/00",
+      "level": 0,
+      "parent": "F24D",
+      "ja": "他の中央暖房方式",
+      "en": "Other central heating systems",
+      "count": 787,
+      "sourceFile": "ipc_F24D.txt",
+      "kind": "ipc"
+    },
+    "F24D12/02": {
+      "code": "F24D12/02",
+      "level": 1,
+      "parent": "F24D12/00",
+      "ja": "１つ以上の加熱源を有するもの（ヒートポンプを使用するもの，温水中央暖房方式によるものＦ２４Ｄ３／１８；温風気中央暖房方式によるものＦ２４Ｄ５／１２；蓄熱体を使用するシステムによるものＦ２４Ｄ１１／０２）［２００６．０１］",
+      "en": "having more than one heat source (using heat pumps, in water central heating systems <b>F24D3/18</b>; in air central heating systems <b>F24D5/12</b>; in systems using heat storage masses <b>F24D11/02</b>)",
+      "count": 2481,
+      "sourceFile": "ipc_F24D.txt",
+      "kind": "ipc"
+    },
+    "F24D13/00": {
+      "code": "F24D13/00",
+      "level": 0,
+      "parent": "F24D",
+      "ja": "電気暖房方式［２００６．０１］",
+      "en": "Electric heating systems",
+      "count": 12062,
+      "sourceFile": "ipc_F24D.txt",
+      "kind": "ipc"
+    },
+    "F24D13/02": {
+      "code": "F24D13/02",
+      "level": 1,
+      "parent": "F24D13/00",
+      "ja": "単に抵抗加熱の使用によるもの",
+      "en": "solely using resistance heating, e.g. underfloor heating",
+      "count": 20676,
+      "sourceFile": "ipc_F24D.txt",
+      "kind": "ipc"
+    },
+    "F24D13/04": {
+      "code": "F24D13/04",
+      "level": 1,
+      "parent": "F24D13/00",
+      "ja": "その方式におけるセパレートユニット内の熱交換流体を電気加熱するもの",
+      "en": "using electric heating of heat-transfer fluid in separate units of the system",
+      "count": 6542,
+      "sourceFile": "ipc_F24D.txt",
+      "kind": "ipc"
+    },
+    "F24D15/00": {
+      "code": "F24D15/00",
+      "level": 0,
+      "parent": "F24D",
+      "ja": "他の家庭用または区域暖房方式［２０２２．０１］",
+      "en": "Other domestic- or space-heating systems",
+      "count": 11111,
+      "sourceFile": "ipc_F24D.txt",
+      "kind": "ipc"
+    },
+    "F24D15/02": {
+      "code": "F24D15/02",
+      "level": 1,
+      "parent": "F24D15/00",
+      "ja": "加熱ユニットを自蔵するものから成る暖房方式，例．蓄熱暖房器［３］",
+      "en": "consisting of self-contained heating units, e.g. storage heaters",
+      "count": 8543,
+      "sourceFile": "ipc_F24D.txt",
+      "kind": "ipc"
+    },
+    "F24D15/04": {
+      "code": "F24D15/04",
+      "level": 1,
+      "parent": "F24D15/00",
+      "ja": "ヒートポンプを使用するもの［５］",
+      "en": "using heat pumps",
+      "count": 3731,
+      "sourceFile": "ipc_F24D.txt",
+      "kind": "ipc"
+    },
+    "F24D17/00": {
+      "code": "F24D17/00",
+      "level": 0,
+      "parent": "F24D",
+      "ja": "家庭用温水供給方式［２０２２．０１］",
+      "en": "Domestic hot-water supply systems",
+      "count": 13291,
+      "sourceFile": "ipc_F24D.txt",
+      "kind": "ipc"
+    },
+    "F24D17/02": {
+      "code": "F24D17/02",
+      "level": 1,
+      "parent": "F24D17/00",
+      "ja": "ヒートポンプを使用するもの［５］",
+      "en": "using heat pumps",
+      "count": 2973,
+      "sourceFile": "ipc_F24D.txt",
+      "kind": "ipc"
+    },
+    "F24D18/00": {
+      "code": "F24D18/00",
+      "level": 0,
+      "parent": "F24D",
+      "ja": "家庭用暖房，区域暖房または家庭用温水供給に特に適合する小規模な熱電併給［ＣＨＰ］システム［２０２２．０１］<br><br><b><ul>注</ul></b><br>このグループにおいては，グループＦ２４Ｄ１０１／００～Ｆ２４Ｄ１０５／００のインデキシングコードを付加することが望ましい。［２０２２．０１］",
+      "en": "Small-scale combined heat and power [CHP] generation systems specially adapted for domestic heating, space heating or domestic hot-water supply; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this group, it is desirable to add the indexing codes of groups <b>F24D101/00 to F24D105/00</b> .</li></ul>",
+      "count": 2155,
+      "sourceFile": "ipc_F24D.txt",
+      "kind": "ipc"
+    },
+    "F24D19/00": {
+      "code": "F24D19/00",
+      "level": 0,
+      "parent": "F24D",
+      "ja": "細部（水加熱器または空気加熱器に関するものＦ２４Ｈ９／００；一般的な熱交換および熱伝達装置に関するものＦ２８Ｆ）［３］",
+      "en": "Details(of water or air heaters <b>F24H9/00</b>; of heat-exchange or heat-transfer apparatus, of general application <b>F28F</b>)",
+      "count": 26428,
+      "sourceFile": "ipc_F24D.txt",
+      "kind": "ipc"
+    },
+    "F24D19/02": {
+      "code": "F24D19/02",
+      "level": 1,
+      "parent": "F24D19/00",
+      "ja": "放熱器のための取付具または支持具の配置［３］",
+      "en": "Arrangement of mountings or supports for radiators",
+      "count": 9344,
+      "sourceFile": "ipc_F24D.txt",
+      "kind": "ipc"
+    },
+    "F24D19/04": {
+      "code": "F24D19/04",
+      "level": 2,
+      "parent": "F24D19/02",
+      "ja": "スカート内におけるもの［３］",
+      "en": "in skirtings",
+      "count": 514,
+      "sourceFile": "ipc_F24D.txt",
+      "kind": "ipc"
+    },
+    "F24D19/06": {
+      "code": "F24D19/06",
+      "level": 1,
+      "parent": "F24D19/00",
+      "ja": "放熱器のためのケーシング，おおい，蓋または装飾パネル［３］",
+      "en": "Casings, cover lids or ornamental panels, for radiators",
+      "count": 7258,
+      "sourceFile": "ipc_F24D.txt",
+      "kind": "ipc"
+    },
+    "F24D19/08": {
+      "code": "F24D19/08",
+      "level": 1,
+      "parent": "F24D19/00",
+      "ja": "排水，排気または吸気するための装置（排気または吸気のためのものＦ１６Ｋ２４／００）［２００６．０１］",
+      "en": "Arrangements for drainage, venting or aerating  (valves for venting or aerating <b>F16K24/00</b>)",
+      "count": 4485,
+      "sourceFile": "ipc_F24D.txt",
+      "kind": "ipc"
+    },
+    "F24D19/10": {
+      "code": "F24D19/10",
+      "level": 1,
+      "parent": "F24D19/00",
+      "ja": "制御または安全装置の配置または取付（加熱器のみが制御されているものＦ２４Ｈ９／２０）［２００６．０１］",
+      "en": "Arrangement or mounting of control or safety devices (only the heater being controlled <b>F24H9/20</b>)",
+      "count": 45209,
+      "sourceFile": "ipc_F24D.txt",
+      "kind": "ipc"
+    },
+    "F24D101/00": {
+      "code": "F24D101/00",
+      "level": 0,
+      "parent": "F24D",
+      "ja": "小規模な熱電併給［ＣＨＰ］システムの発電機［２０２２．０１］",
+      "en": "Electric generators of small-scale CHP systems",
+      "count": 7,
+      "sourceFile": "ipc_F24D.txt",
+      "kind": "ipc"
+    },
+    "F24D101/10": {
+      "code": "F24D101/10",
+      "level": 1,
+      "parent": "F24D101/00",
+      "ja": "ガスタービン；蒸気機関または蒸気タ－ビン；水力タービン，例．水道管にあるもの［２０２２．０１］",
+      "en": "Gas turbines; Steam engines or steam turbines; Water turbines, e.g. located in water pipes",
+      "count": 439,
+      "sourceFile": "ipc_F24D.txt",
+      "kind": "ipc"
+    },
+    "F24D101/20": {
+      "code": "F24D101/20",
+      "level": 1,
+      "parent": "F24D101/00",
+      "ja": "風力タービン［２０２２．０１］",
+      "en": "Wind turbines",
+      "count": 110,
+      "sourceFile": "ipc_F24D.txt",
+      "kind": "ipc"
+    },
+    "F24D101/30": {
+      "code": "F24D101/30",
+      "level": 1,
+      "parent": "F24D101/00",
+      "ja": "燃料電池［２０２２．０１］",
+      "en": "Fuel cells",
+      "count": 87,
+      "sourceFile": "ipc_F24D.txt",
+      "kind": "ipc"
+    },
+    "F24D101/40": {
+      "code": "F24D101/40",
+      "level": 1,
+      "parent": "F24D101/00",
+      "ja": "太陽光発電［ＰＶ］モジュール［２０２２．０１］",
+      "en": "Photovoltaic [PV] modules",
+      "count": 408,
+      "sourceFile": "ipc_F24D.txt",
+      "kind": "ipc"
+    },
+    "F24D101/50": {
+      "code": "F24D101/50",
+      "level": 1,
+      "parent": "F24D101/00",
+      "ja": "熱光起電力［ＴＰＶ］モジュール［２０２２．０１］",
+      "en": "Thermophotovoltaic [TPV] modules",
+      "count": 145,
+      "sourceFile": "ipc_F24D.txt",
+      "kind": "ipc"
+    },
+    "F24D101/60": {
+      "code": "F24D101/60",
+      "level": 1,
+      "parent": "F24D101/00",
+      "ja": "熱電発電機，例．ペルチェ素子またはゼーベック素子［２０２２．０１］",
+      "en": "Thermoelectric generators, e.g. Peltier or Seebeck elements",
+      "count": 30,
+      "sourceFile": "ipc_F24D.txt",
+      "kind": "ipc"
+    },
+    "F24D101/70": {
+      "code": "F24D101/70",
+      "level": 1,
+      "parent": "F24D101/00",
+      "ja": "内燃機関［ＩＣＥ］により駆動される発電機［２０２２．０１］",
+      "en": "Electric generators driven by internal combustion engines [ICE]",
+      "count": 19,
+      "sourceFile": "ipc_F24D.txt",
+      "kind": "ipc"
+    },
+    "F24D101/80": {
+      "code": "F24D101/80",
+      "level": 1,
+      "parent": "F24D101/00",
+      "ja": "外燃機関により駆動される発電機，例．スターリングエンジン［２０２２．０１］",
+      "en": "Electric generators driven by external combustion engines, e.g. Stirling engines",
+      "count": 6,
+      "sourceFile": "ipc_F24D.txt",
+      "kind": "ipc"
+    },
+    "F24D103/00": {
+      "code": "F24D103/00",
+      "level": 0,
+      "parent": "F24D",
+      "ja": "小規模な熱電併給［ＣＨＰ］システムの熱の観点［２０２２．０１］",
+      "en": "Thermal aspects of small-scale CHP systems",
+      "count": 3,
+      "sourceFile": "ipc_F24D.txt",
+      "kind": "ipc"
+    },
+    "F24D103/10": {
+      "code": "F24D103/10",
+      "level": 1,
+      "parent": "F24D103/00",
+      "ja": "その熱回収ユニットに特徴のある小規模な熱電併給［ＣＨＰ］システム［２０２２．０１］",
+      "en": "Small-scale CHP systems characterised by their heat recovery units",
+      "count": 33,
+      "sourceFile": "ipc_F24D.txt",
+      "kind": "ipc"
+    },
+    "F24D103/13": {
+      "code": "F24D103/13",
+      "level": 2,
+      "parent": "F24D103/10",
+      "ja": "その熱交換器に特徴のあるもの［２０２２．０１］",
+      "en": "characterised by their heat exchangers",
+      "count": 71,
+      "sourceFile": "ipc_F24D.txt",
+      "kind": "ipc"
+    },
+    "F24D103/17": {
+      "code": "F24D103/17",
+      "level": 2,
+      "parent": "F24D103/10",
+      "ja": "貯蔵タンク［２０２２．０１］",
+      "en": "Storage tanks",
+      "count": 34,
+      "sourceFile": "ipc_F24D.txt",
+      "kind": "ipc"
+    },
+    "F24D103/20": {
+      "code": "F24D103/20",
+      "level": 1,
+      "parent": "F24D103/00",
+      "ja": "最大熱負荷を補助するための追加熱源［２０２２．０１］",
+      "en": "Additional heat sources for supporting thermal peak loads",
+      "count": 6,
+      "sourceFile": "ipc_F24D.txt",
+      "kind": "ipc"
+    },
+    "F24D105/00": {
+      "code": "F24D105/00",
+      "level": 0,
+      "parent": "F24D",
+      "ja": "小規模な熱電併給［ＣＨＰ］システムの構造の観点［２０２２．０１］",
+      "en": "Constructional aspects of small-scale CHP systems",
+      "count": 4,
+      "sourceFile": "ipc_F24D.txt",
+      "kind": "ipc"
+    },
+    "F24D105/10": {
+      "code": "F24D105/10",
+      "level": 1,
+      "parent": "F24D105/00",
+      "ja": "遮音［２０２２．０１］",
+      "en": "Sound insulation",
+      "count": 3,
+      "sourceFile": "ipc_F24D.txt",
+      "kind": "ipc"
+    }
+  }
+}

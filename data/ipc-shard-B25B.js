@@ -1,0 +1,1276 @@
+window.IPC_SHARD_B25B = {
+  "generatedAt": "2026-03-20T02:17:46.125Z",
+  "total": 127,
+  "entries": {
+    "B25B": {
+      "code": "B25B",
+      "level": 0,
+      "parent": "B25",
+      "ja": "締め具，連結具，外し具，保持具のような他に分類されない工具，または卓上器具<br><br><b><ul>注</ul></b><br>このサブクラスは，Ｂ２５Ｃ（手持ち釘打ち具またはステープラー）のような他のサブクラス，またはＢ６５Ｂ（包装）またはＢ２１Ｆ（針金の加工）のような応用の箇所に包含されない固着，連結，外し，または保持用手工具を包含する。<br><br><b><ul>サブクラス内の索引</ul></b><br>押圧による保持具<br>万力　１／００，３／００<br>プライヤ，ピンセットまたはやっとこ　７／００，９／００<br>他の器具　５／００～１１／００<br>スパナ，レンチまたはドライバ<br>スパナまたはレンチ　１３／００，１７／００～２１／００<br>ドライバ　１５／００～２１／００<br>細部または付属具　２３／００<br>締め具，繋ぎ具，嵌め具，外し具または引張り具などの他の工具　２５／００～２８／００，３１／００，３３／００<br>付属具　２９／００",
+      "en": "TOOLS OR BENCH DEVICES NOT OTHERWISE PROVIDED FOR, FOR FASTENING, CONNECTING, DISENGAGING, OR HOLDING; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This subclass <u>covers</u> hand tools for fastening, connecting, disengaging or holding, which are not covered by another subclass such as <b>B25C</b> (hand-held nailing or stapling tools) or by an application place such as subclasses <b>B21F</b> (working of wire) or <b>B65B</b> (packaging).</li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">DEVICES FOR HOLDING BY PRESSING<tr><td width=\"70%\">Vices </td><td><b><b>1/00</b>, <b>3/00</b></b></td></tr></tr><tr><td width=\"70%\">Pliers, tweezers or tongs </td><td><b><b>7/00</b>, <b>9/00</b></b></td></tr></tr><tr><td width=\"70%\">Other devices </td><td><b><b>5/00 to 11/00</b> </b></td></tr></tr></tr><tr><td width=\"70%\">SPANNERS, WRENCHES, OR SCREWDRIVERS<tr><td width=\"70%\">Spanners or wrenches </td><td><b><b>13/00</b>, <b>17/00 to 21/00</b> </b></td></tr></tr><tr><td width=\"70%\">Screwdrivers </td><td><b><b>15/00 to 21/00</b> </b></td></tr></tr><tr><td width=\"70%\">Details or accessories </td><td><b><b>23/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">OTHER TOOLS FOR FASTENING, CONNECTING, FITTING TOGETHER, SEPARATING, OR TENSIONING </td><td><b><b>25/00 to 28/00</b> , <b>31/00</b>, <b>33/00</b></b></td></tr></tr><tr><td width=\"70%\">ACCESSORIES </td><td><b><b>29/00</b></b></td></tr></tr></table>",
+      "count": 2316,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B25": {
+      "code": "B25",
+      "level": 0,
+      "parent": "B",
+      "ja": "手工具；可搬型動力工具；手工具用の柄；作業場設備；マニプレータ<br><br><b><ul>注</ul></b><br>このクラスにおいては，下記の用語は以下に示す意味で用いる：<br>―“可搬型”は人手で取扱い易いようにするための，例．組立てラインにそって使用されるばねで吊り下げられた可搬型の装置に関連した，吊り下げ具を含む。",
+      "en": "HAND TOOLS; PORTABLE POWER-DRIVEN TOOLS; HANDLES FOR HAND IMPLEMENTS; WORKSHOP EQUIPMENT; MANIPULATORS; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this class, the following term is used with the meaning indicated:<ul><li>\"portable\" includes suspension for easy manual handling, e.g. in connection with spring-suspended portable apparatus for use along assembly lines.</li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B": {
+      "code": "B",
+      "level": 0,
+      "parent": null,
+      "ja": "処理操作；運輸",
+      "en": "PERFORMING OPERATIONS; TRANSPORTING",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B25B1/00": {
+      "code": "B25B1/00",
+      "level": 0,
+      "parent": "B25B",
+      "ja": "万力（魚釣り用毛鉤を結ぶのに特に適したものＡ０１Ｋ９７／２８，工作機械用に特に適したものＢ２３Ｑ３／００）［５］",
+      "en": "Vices(specially adapted for tying flies for angling <b>A01K97/28</b>; specially adapted for machine tools <b>B23Q3/00</b>)",
+      "count": 1209,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B1/02": {
+      "code": "B25B1/02",
+      "level": 1,
+      "parent": "B25B1/00",
+      "ja": "摺動顎をもつもの",
+      "en": "with sliding jaws",
+      "count": 2566,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B1/04": {
+      "code": "B25B1/04",
+      "level": 1,
+      "parent": "B25B1/00",
+      "ja": "揺動顎をもつもの",
+      "en": "with pivoted jaws",
+      "count": 365,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B1/06": {
+      "code": "B25B1/06",
+      "level": 1,
+      "parent": "B25B1/00",
+      "ja": "確実に顎を作動させる装置",
+      "en": "Arrangements for positively actuating jaws",
+      "count": 532,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B1/08": {
+      "code": "B25B1/08",
+      "level": 2,
+      "parent": "B25B1/06",
+      "ja": "カムを用いるもの",
+      "en": "using cams",
+      "count": 538,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B1/10": {
+      "code": "B25B1/10",
+      "level": 2,
+      "parent": "B25B1/06",
+      "ja": "ねじを用いるもの",
+      "en": "using screws",
+      "count": 3052,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B1/12": {
+      "code": "B25B1/12",
+      "level": 3,
+      "parent": "B25B1/10",
+      "ja": "ねじからはずすようになっているもの",
+      "en": "with provision for disengagement",
+      "count": 898,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B1/14": {
+      "code": "B25B1/14",
+      "level": 2,
+      "parent": "B25B1/06",
+      "ja": "トグル機構を用いるもの",
+      "en": "using toggle links",
+      "count": 212,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B1/16": {
+      "code": "B25B1/16",
+      "level": 2,
+      "parent": "B25B1/06",
+      "ja": "付加的手動のための設備をもつまたはもたないペダルによるもの",
+      "en": "by pedal, with or without provision for additional manual actuation",
+      "count": 148,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B1/18": {
+      "code": "B25B1/18",
+      "level": 2,
+      "parent": "B25B1/06",
+      "ja": "手動用になっているか，またはそうでない動力駆動，例．液圧駆動，のもの",
+      "en": "motor driven, e.g. with fluid drive, with or without provision for manual actuation",
+      "count": 1268,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B1/20": {
+      "code": "B25B1/20",
+      "level": 1,
+      "parent": "B25B1/00",
+      "ja": "特別の外形の工作物，例．パイプ，を締付ける万力",
+      "en": "Vices for clamping work of special profile, e.g. pipes",
+      "count": 1512,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B1/22": {
+      "code": "B25B1/22",
+      "level": 1,
+      "parent": "B25B1/00",
+      "ja": "万力を回動または傾斜させる装置",
+      "en": "Arrangements for turning or tilting vices",
+      "count": 1154,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B1/24": {
+      "code": "B25B1/24",
+      "level": 1,
+      "parent": "B25B1/00",
+      "ja": "細部，例．特別な形のあご，摺動案内部",
+      "en": "Details, e.g. jaws of special shape, slideways",
+      "count": 5737,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B3/00": {
+      "code": "B25B3/00",
+      "level": 0,
+      "parent": "B25B",
+      "ja": "手万力，すなわち手で保持されることを意図した万力；ピン万力",
+      "en": "Hand vices, i.e. vices intended to be held by hand; Pin vices",
+      "count": 824,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B5/00": {
+      "code": "B25B5/00",
+      "level": 0,
+      "parent": "B25B",
+      "ja": "締付具（溶接，半田づけまたは局部加熱による切断のための工作物の保持または位置決め用Ｂ２３Ｋ３７／０４；作業台，工具摺用台または類似部上に据え付けるための工作物締付手段Ｂ２３Ｑ３／０６）",
+      "en": "Clamps(for holding or positioning work for welding, soldering, or cutting by applying heat locally <b>B23K37/04</b>; work-clamping means for mounting on a work-table, tool-slide, or analogous parts <b>B23Q3/06</b>)",
+      "count": 2909,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B5/02": {
+      "code": "B25B5/02",
+      "level": 1,
+      "parent": "B25B5/00",
+      "ja": "摺動あごをもつもの",
+      "en": "with sliding jaws",
+      "count": 1556,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B5/04": {
+      "code": "B25B5/04",
+      "level": 1,
+      "parent": "B25B5/00",
+      "ja": "揺動あごをもつもの",
+      "en": "with pivoted jaws",
+      "count": 1384,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B5/06": {
+      "code": "B25B5/06",
+      "level": 1,
+      "parent": "B25B5/00",
+      "ja": "確実にあごを作動させる装置",
+      "en": "Arrangements for positively actuating jaws",
+      "count": 3208,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B5/08": {
+      "code": "B25B5/08",
+      "level": 2,
+      "parent": "B25B5/06",
+      "ja": "カムを用いるもの",
+      "en": "using cams",
+      "count": 1435,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B5/10": {
+      "code": "B25B5/10",
+      "level": 2,
+      "parent": "B25B5/06",
+      "ja": "ねじを用いるもの",
+      "en": "using screws",
+      "count": 3619,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B5/12": {
+      "code": "B25B5/12",
+      "level": 2,
+      "parent": "B25B5/06",
+      "ja": "トグル機構を用いるもの",
+      "en": "using toggle links",
+      "count": 1408,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B5/14": {
+      "code": "B25B5/14",
+      "level": 1,
+      "parent": "B25B5/00",
+      "ja": "特殊形状の工作物のための締付具",
+      "en": "Clamps for work of special profile",
+      "count": 3255,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B5/16": {
+      "code": "B25B5/16",
+      "level": 1,
+      "parent": "B25B5/00",
+      "ja": "細部，例．あご，あごのアタッチメント",
+      "en": "Details, e.g. jaws, jaw attachments",
+      "count": 4276,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B7/00": {
+      "code": "B25B7/00",
+      "level": 0,
+      "parent": "B25B",
+      "ja": "プライヤ；枢着されたアームにあごを付けたその他の手持ち握り工具；枢着アーム式手工具に一般的に適用する細部（針金または帯金を締め付け，連結および引張り用またはそのいずれか用の器具Ｂ２５Ｂ２５／００；他の嵌めまたは外しの目的用の器具Ｂ２５Ｂ２７／００；針金小環曲げＢ２１Ｆ１／０６；手持ち金属剪断または金属切削器具Ｂ２３Ｄ２９／００；切削手工具Ｂ２６Ｂ；打抜きまたはミシン目打ち用Ｂ２６Ｆ１／３６；緊締機の緊締機両端固着用器具Ｂ６５Ｂ１３／２４；動物のマーク付け用Ａ０１Ｋ１１／００；歯科医用かん子Ａ６１Ｃ３／００；時計製造またはその類似作業用に特に設計されたものＧ０４Ｄ１／００）",
+      "en": "Pliers; Other hand-held gripping tools with jaws on pivoted limbs; Details applicable generally to pivoted-limb hand tools(implements for fastening, connecting, or tensioning wire or strip <b>B25B25/00</b>; adapted for other fitting or separating purposes <b>B25B27/00</b>; for marking animals <b>A01K11/00</b>; dentists' forceps <b>A61C3/00</b>; bending wire eyes <b>B21F1/06</b>; hand-held metal-shearing or metal-cutting devices <b>B23D29/00</b>; hand cutting tools <b>B26B</b>; for punching or perforating <b>B26F1/36</b>; devices for securing ends of binding material in bundling machines <b>B65B13/24</b>; specially designed for watch-making or comparable work <b>G04D1/00</b>)",
+      "count": 4322,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B7/02": {
+      "code": "B25B7/02",
+      "level": 1,
+      "parent": "B25B7/00",
+      "ja": "あご",
+      "en": "Jaws",
+      "count": 4264,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B7/04": {
+      "code": "B25B7/04",
+      "level": 2,
+      "parent": "B25B7/02",
+      "ja": "調節自在あご",
+      "en": "adjustable",
+      "count": 1257,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B7/06": {
+      "code": "B25B7/06",
+      "level": 1,
+      "parent": "B25B7/00",
+      "ja": "枢軸",
+      "en": "Joints",
+      "count": 481,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B7/08": {
+      "code": "B25B7/08",
+      "level": 2,
+      "parent": "B25B7/06",
+      "ja": "固定支点付き枢軸",
+      "en": "with fixed fulcrum",
+      "count": 450,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B7/10": {
+      "code": "B25B7/10",
+      "level": 2,
+      "parent": "B25B7/06",
+      "ja": "調節可能または自在支点付き枢軸",
+      "en": "with adjustable fulcrum",
+      "count": 1130,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B7/12": {
+      "code": "B25B7/12",
+      "level": 1,
+      "parent": "B25B7/00",
+      "ja": "把手とあごとの間に特別な伝動手段が介在するもの，例．トグルレバー，歯車",
+      "en": "involving special transmission means between the handles and the jaws, e.g. toggle levers, gears",
+      "count": 2611,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B7/14": {
+      "code": "B25B7/14",
+      "level": 1,
+      "parent": "B25B7/00",
+      "ja": "錠止手段",
+      "en": "Locking means",
+      "count": 863,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B7/16": {
+      "code": "B25B7/16",
+      "level": 2,
+      "parent": "B25B7/14",
+      "ja": "あごの操作腕を固締する手段との組合せ",
+      "en": "combined with means for tightening the operating arms or jaws",
+      "count": 457,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B7/18": {
+      "code": "B25B7/18",
+      "level": 1,
+      "parent": "B25B7/00",
+      "ja": "操作腕の調節手段",
+      "en": "Adjusting means for the operating arms",
+      "count": 654,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B7/20": {
+      "code": "B25B7/20",
+      "level": 1,
+      "parent": "B25B7/00",
+      "ja": "密封用プライヤ",
+      "en": "Pliers for sealing",
+      "count": 318,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B7/22": {
+      "code": "B25B7/22",
+      "level": 1,
+      "parent": "B25B7/00",
+      "ja": "補助工具要素，例．切断刃，釘抜き，を備えたプライヤー（電気ケーブルから絶縁物または鎧装を除去するためのものＨ０２Ｇ１／１２）",
+      "en": "Pliers provided with auxiliary tool elements, e.g. cutting edges, nail extractors(for removing insulation or armouring from electric cables <b>H02G1/12</b>)",
+      "count": 3992,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B9/00": {
+      "code": "B25B9/00",
+      "level": 0,
+      "parent": "B25B",
+      "ja": "グループＢ２５Ｂ７／００に分類されない手持ち握り具（レンチＢ２５Ｂ１３／００；時計屋用など特殊用Ｇ０４Ｄ）",
+      "en": "Hand-held gripping tools other than those covered by group <b>B25B7/00</b>(wrenches <b>B25B13/00</b>; specially adapted for watchmakers' or like use <b>G04D</b>)",
+      "count": 2312,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B9/02": {
+      "code": "B25B9/02",
+      "level": 1,
+      "parent": "B25B9/00",
+      "ja": "摺動結合や枢着結合のないもの，例．ピンセット，一片でつくられた挾み具",
+      "en": "without sliding or pivotal connections, e.g. tweezers, one-piece tongs",
+      "count": 2714,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B9/04": {
+      "code": "B25B9/04",
+      "level": 1,
+      "parent": "B25B9/00",
+      "ja": "摺動顎をもつもの",
+      "en": "with sliding jaws",
+      "count": 225,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B11/00": {
+      "code": "B25B11/00",
+      "level": 0,
+      "parent": "B25B",
+      "ja": "グループＢ２５Ｂ１／００～Ｂ２５Ｂ９／００に分類されない，工作物の保持具または位置決め具，例．工作物磁気保持具，工作物真空保持具（溶接，半田づけ，または局部加熱による切断のために工作物を保持または位置決めするためのものＢ２３Ｋ３７／０４；特に工作機械用のものＢ２３Ｑ３／００）",
+      "en": "Work holders or positioners not covered by groups <b>B25B1/00 to B25B9/00</b> , e.g. magnetic work holders, vacuum work holders(for holding or positioning work for welding, soldering, or cutting by applying heat locally <b>B23K37/04</b>; specially adapted to machine tools <b>B23Q3/00</b>)",
+      "count": 139301,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B11/02": {
+      "code": "B25B11/02",
+      "level": 1,
+      "parent": "B25B11/00",
+      "ja": "組立て用ジグ",
+      "en": "Assembly jigs",
+      "count": 40781,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B13/00": {
+      "code": "B25B13/00",
+      "level": 0,
+      "parent": "B25B",
+      "ja": "スパナ；レンチ（手動歯車作動用のものＢ２５Ｂ１７／００；インパクトレンチＢ２５Ｂ１９／００；可搬型動力駆動Ｂ２５Ｂ２１／００；金属部品のはめ込みまたは取外し用機械Ｂ２３Ｐ１９／００）",
+      "en": "Spanners; Wrenches(hand-driven gear-operated <b>B25B17/00</b>; impact wrenches <b>B25B19/00</b>; portable power-driven <b>B25B21/00</b>; machines for fitting together or separating metal parts <b>B23P19/00</b>)",
+      "count": 3600,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B13/02": {
+      "code": "B25B13/02",
+      "level": 1,
+      "parent": "B25B13/00",
+      "ja": "固定あご付きのもの（Ｂ２５Ｂ１３／４６，Ｂ２５Ｂ１３／４８が優先）",
+      "en": "with rigid jaws(<b>B25B13/46</b>, <b>B25B13/48</b> take precedence)",
+      "count": 2935,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B13/04": {
+      "code": "B25B13/04",
+      "level": 2,
+      "parent": "B25B13/02",
+      "ja": "環状あご型固定あご",
+      "en": "of ring jaw type",
+      "count": 1848,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B13/06": {
+      "code": "B25B13/06",
+      "level": 2,
+      "parent": "B25B13/02",
+      "ja": "ソケット型固定あご",
+      "en": "of socket type",
+      "count": 8548,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B13/08": {
+      "code": "B25B13/08",
+      "level": 2,
+      "parent": "B25B13/02",
+      "ja": "開放あご型固定あご",
+      "en": "of open jaw type",
+      "count": 3153,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B13/10": {
+      "code": "B25B13/10",
+      "level": 1,
+      "parent": "B25B13/00",
+      "ja": "調節あご付きのもの（Ｂ２５Ｂ１３／４６，Ｂ２５Ｂ１３／４８が優先）",
+      "en": "with adjustable jaws(<b>B25B13/46</b>, <b>B25B13/48</b> take precedence)",
+      "count": 2181,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B13/12": {
+      "code": "B25B13/12",
+      "level": 2,
+      "parent": "B25B13/10",
+      "ja": "摺動自在あご",
+      "en": "the jaws being slidable",
+      "count": 2349,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B13/14": {
+      "code": "B25B13/14",
+      "level": 3,
+      "parent": "B25B13/12",
+      "ja": "ラックピニオン，ウォームまたは歯車によるもの",
+      "en": "by rack and pinion, worm or gear",
+      "count": 2276,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B13/16": {
+      "code": "B25B13/16",
+      "level": 3,
+      "parent": "B25B13/12",
+      "ja": "ねじまたはナットによるもの",
+      "en": "by screw or nut",
+      "count": 1778,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B13/18": {
+      "code": "B25B13/18",
+      "level": 3,
+      "parent": "B25B13/12",
+      "ja": "カム，くさびまたはレバーによるもの",
+      "en": "by cam, wedge, or lever",
+      "count": 531,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B13/20": {
+      "code": "B25B13/20",
+      "level": 3,
+      "parent": "B25B13/12",
+      "ja": "あごを錠止するようになっているもの",
+      "en": "Arrangements for locking the jaws",
+      "count": 502,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B13/22": {
+      "code": "B25B13/22",
+      "level": 4,
+      "parent": "B25B13/20",
+      "ja": "ラチェット作用または歯付棒によるもの",
+      "en": "by ratchet action or toothed bars",
+      "count": 882,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B13/24": {
+      "code": "B25B13/24",
+      "level": 4,
+      "parent": "B25B13/20",
+      "ja": "カム，くさびまたは摩擦手段によるもの",
+      "en": "by cam, wedge, or friction means",
+      "count": 341,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B13/26": {
+      "code": "B25B13/26",
+      "level": 4,
+      "parent": "B25B13/20",
+      "ja": "トグル機構によるもの",
+      "en": "by toggle links",
+      "count": 86,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B13/28": {
+      "code": "B25B13/28",
+      "level": 2,
+      "parent": "B25B13/10",
+      "ja": "回動あご",
+      "en": "the jaws being pivotally movable",
+      "count": 1236,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B13/30": {
+      "code": "B25B13/30",
+      "level": 3,
+      "parent": "B25B13/28",
+      "ja": "ねじまたはナットによるもの",
+      "en": "by screw or nut",
+      "count": 146,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B13/32": {
+      "code": "B25B13/32",
+      "level": 3,
+      "parent": "B25B13/28",
+      "ja": "カム，くさび，またはレバーによるもの",
+      "en": "by cam, wedge, or lever",
+      "count": 207,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B13/34": {
+      "code": "B25B13/34",
+      "level": 3,
+      "parent": "B25B13/28",
+      "ja": "あごを錠止するようになっているもの",
+      "en": "Arrangements for locking the jaws",
+      "count": 121,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B13/36": {
+      "code": "B25B13/36",
+      "level": 4,
+      "parent": "B25B13/34",
+      "ja": "ラチェット作用によるもの",
+      "en": "by ratchet action",
+      "count": 250,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B13/38": {
+      "code": "B25B13/38",
+      "level": 4,
+      "parent": "B25B13/34",
+      "ja": "カム，くさびまたは摩擦手段によるもの",
+      "en": "by cam, wedge, or friction means",
+      "count": 55,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B13/40": {
+      "code": "B25B13/40",
+      "level": 4,
+      "parent": "B25B13/34",
+      "ja": "トグル機構によるもの",
+      "en": "by toggle links",
+      "count": 30,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B13/42": {
+      "code": "B25B13/42",
+      "level": 4,
+      "parent": "B25B13/34",
+      "ja": "自己錠止作用をもつもの",
+      "en": "with self-locking action",
+      "count": 73,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B13/44": {
+      "code": "B25B13/44",
+      "level": 1,
+      "parent": "B25B13/00",
+      "ja": "チャック型",
+      "en": "of the chuck type",
+      "count": 660,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B13/46": {
+      "code": "B25B13/46",
+      "level": 1,
+      "parent": "B25B13/00",
+      "ja": "把（は）手の自由戻り用ラチェット型",
+      "en": "of the ratchet type, for providing a free return stroke of the handle",
+      "count": 11207,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B13/48": {
+      "code": "B25B13/48",
+      "level": 1,
+      "parent": "B25B13/00",
+      "ja": "特殊目的用",
+      "en": "for special purposes",
+      "count": 12494,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B13/50": {
+      "code": "B25B13/50",
+      "level": 2,
+      "parent": "B25B13/48",
+      "ja": "特殊形状，例．パイプ，加工作業用",
+      "en": "for operating on work of special profile, e.g. pipes",
+      "count": 5472,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B13/52": {
+      "code": "B25B13/52",
+      "level": 3,
+      "parent": "B25B13/50",
+      "ja": "チェンレンチまたは帯レンチ",
+      "en": "Chain or strap wrenches",
+      "count": 1312,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B13/54": {
+      "code": "B25B13/54",
+      "level": 3,
+      "parent": "B25B13/50",
+      "ja": "内側把持レンチ",
+      "en": "Internal grip wrenches",
+      "count": 1031,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B13/56": {
+      "code": "B25B13/56",
+      "level": 1,
+      "parent": "B25B13/00",
+      "ja": "スパナセット",
+      "en": "Spanner sets",
+      "count": 3026,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B13/58": {
+      "code": "B25B13/58",
+      "level": 1,
+      "parent": "B25B13/00",
+      "ja": "あごのアタッチメント",
+      "en": "Jaw attachments",
+      "count": 1695,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B15/00": {
+      "code": "B25B15/00",
+      "level": 0,
+      "parent": "B25B",
+      "ja": "ドライバ（手動歯車作動Ｂ２５Ｂ１７／００；インパクトドライバＢ２５Ｂ１９／００；可搬型動力駆動Ｂ２５Ｂ２１／００）",
+      "en": "Screwdrivers(hand-driven gear-operated <b>B25B17/00</b>; impact screwdrivers <b>B25B19/00</b>; portable power-driven <b>B25B21/00</b>)",
+      "count": 7614,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B15/02": {
+      "code": "B25B15/02",
+      "level": 1,
+      "parent": "B25B15/00",
+      "ja": "把手の回転による操作",
+      "en": "operated by rotating the handle",
+      "count": 5956,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B15/04": {
+      "code": "B25B15/04",
+      "level": 2,
+      "parent": "B25B15/02",
+      "ja": "ラチェット作用付きのもの",
+      "en": "with ratchet action",
+      "count": 1342,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B15/06": {
+      "code": "B25B15/06",
+      "level": 1,
+      "parent": "B25B15/00",
+      "ja": "把手の軸方向運動による操作",
+      "en": "operated by axial movement of the handle",
+      "count": 376,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B17/00": {
+      "code": "B25B17/00",
+      "level": 0,
+      "parent": "B25B",
+      "ja": "手動歯車駆動レンチまたはドライバ（ラチェット操作Ｂ２５Ｂ１３／４６，Ｂ２５Ｂ１５／０４）",
+      "en": "Hand-driven gear-operated wrenches or screwdrivers(ratchet operated <b>B25B13/46</b>, <b>B25B15/04</b>)",
+      "count": 2084,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B17/02": {
+      "code": "B25B17/02",
+      "level": 1,
+      "parent": "B25B17/00",
+      "ja": "トルク倍増をするもの",
+      "en": "providing for torque amplification",
+      "count": 677,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B19/00": {
+      "code": "B25B19/00",
+      "level": 0,
+      "parent": "B25B",
+      "ja": "インパクトレンチまたはドライバ（可搬形動力駆動Ｂ２５Ｂ２１／０２）",
+      "en": "Impact wrenches or screwdrivers(portable power-driven <b>B25B21/02</b>)",
+      "count": 1036,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B21/00": {
+      "code": "B25B21/00",
+      "level": 0,
+      "parent": "B25B",
+      "ja": "可搬型動力駆動ネジ，ナット締付けまたはゆるめ工具（達成される作業に特に関連しない可搬型動力駆動の細部または要素，例．ケーシング，本体，Ｂ２５Ｆ５／００）；ねじ，ナット締付けまたはゆるめ用にドリル装置に取り付けられるアタッチメント（機械Ｂ２３Ｐ１９／０６）［４］",
+      "en": "Portable power-driven screw or nut setting or loosening tools(details or components, e.g. casings, bodies, of portable power-driven tools not particularly related to the operation performed <b>B25F5/00</b>);Attachments for drilling apparatus serving the same purpose(machines <b>B23P19/06</b>)",
+      "count": 20192,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B21/02": {
+      "code": "B25B21/02",
+      "level": 1,
+      "parent": "B25B21/00",
+      "ja": "ドライバ穂先またはナットソケットへ衝撃を与える手段をもつもの",
+      "en": "with means for imparting impact to screwdriver blade or nut socket",
+      "count": 4710,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B23/00": {
+      "code": "B25B23/00",
+      "level": 0,
+      "parent": "B25B",
+      "ja": "スパナ，レンチ，ドライバの細部またはそれらの付属具（ボルト引張具Ｂ２５Ｂ２９／０２）",
+      "en": "Details of, or accessories for, spanners, wrenches, screwdrivers(bolt tensioners <b>B25B29/02</b>)",
+      "count": 24127,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B23/02": {
+      "code": "B25B23/02",
+      "level": 1,
+      "parent": "B25B23/00",
+      "ja": "ねじまたはナット取扱い装置",
+      "en": "Arrangements for handling screws or nuts",
+      "count": 1403,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B23/04": {
+      "code": "B25B23/04",
+      "level": 2,
+      "parent": "B25B23/02",
+      "ja": "ねじまたはナットの供給装置",
+      "en": "for feeding screws or nuts",
+      "count": 2393,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B23/06": {
+      "code": "B25B23/06",
+      "level": 3,
+      "parent": "B25B23/04",
+      "ja": "内装マガジン使用",
+      "en": "using built-in magazine",
+      "count": 603,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B23/08": {
+      "code": "B25B23/08",
+      "level": 2,
+      "parent": "B25B23/02",
+      "ja": "回転前または回転中にねじまたはナットを保持する装置",
+      "en": "for holding or positioning screw or nut prior to or during its rotation",
+      "count": 1325,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B23/10": {
+      "code": "B25B23/10",
+      "level": 3,
+      "parent": "B25B23/08",
+      "ja": "機械的把持手段使用",
+      "en": "using mechanical gripping means",
+      "count": 4774,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B23/12": {
+      "code": "B25B23/12",
+      "level": 3,
+      "parent": "B25B23/08",
+      "ja": "磁気手段使用",
+      "en": "using magnetic means",
+      "count": 1923,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B23/14": {
+      "code": "B25B23/14",
+      "level": 1,
+      "parent": "B25B23/00",
+      "ja": "レンチまたはドライバにおけるトルク規制装置またはトルク指示装置（回転伝達用カップリングまたはクラッチＦ１６Ｄ；トルク測定装置それ自体Ｇ０１Ｌ）",
+      "en": "Arrangement of torque limiters or torque indicators in wrenches or screwdrivers(couplings for transmitting rotation or clutches <b>F16D</b>; devices for measuring torque <u>per se</u><b>G01L</b>)",
+      "count": 6800,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B23/142": {
+      "code": "B25B23/142",
+      "level": 2,
+      "parent": "B25B23/14",
+      "ja": "特に手動のレンチまたはドライバーに適用されるもの［２］",
+      "en": "specially adapted for hand operated wrenches or screwdrivers",
+      "count": 3934,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B23/143": {
+      "code": "B25B23/143",
+      "level": 3,
+      "parent": "B25B23/142",
+      "ja": "設定トルクを越えたとき，工作物接触要素がハンドルの動きに関連して旋回または回転するもの［２００６．０１］",
+      "en": "wherein the work-contacting component pivots or rotates relative to the handle when a selected torque is exceeded",
+      "count": 1111,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B23/144": {
+      "code": "B25B23/144",
+      "level": 4,
+      "parent": "B25B23/143",
+      "ja": "設定トルクを越えたとき，発信する旋回または回転運動により作動される電気装置を有するもの［４］",
+      "en": "having an electrical device activated by the pivotal or rotational movement which emits a signal when the selected torque is exceeded",
+      "count": 463,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B23/145": {
+      "code": "B25B23/145",
+      "level": 2,
+      "parent": "B25B23/14",
+      "ja": "特に流体作動のレンチまたはドライバーに適用されるもの［２］",
+      "en": "specially adapted for fluid operated wrenches or screwdrivers",
+      "count": 1990,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B23/147": {
+      "code": "B25B23/147",
+      "level": 2,
+      "parent": "B25B23/14",
+      "ja": "特に電動のレンチまたはドライバーに適用されるもの［２］",
+      "en": "specially adapted for electrically operated wrenches or screwdrivers",
+      "count": 2569,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B23/15": {
+      "code": "B25B23/15",
+      "level": 2,
+      "parent": "B25B23/14",
+      "ja": "設定トルクが工作物に適用されたとき，工作物にマーク付けする機構を有するもの［４］",
+      "en": "having a mechanism to mark the work when the selected torque is applied to the work",
+      "count": 283,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B23/151": {
+      "code": "B25B23/151",
+      "level": 2,
+      "parent": "B25B23/14",
+      "ja": "工作物接触要素を駆動するモータの動力出力を調整する条件応答装置を有するモータ駆動装置（制御一般Ｇ０５；電動機の制御Ｈ０２Ｐ）［４］",
+      "en": "the motor drive having condition-responsive means to regulate the power output of a motor driving the work-contacting component(control in general <b>G05</b>; controlling electric motors <b>H02P</b>)",
+      "count": 927,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B23/153": {
+      "code": "B25B23/153",
+      "level": 2,
+      "parent": "B25B23/14",
+      "ja": "過度のトルクの適用により永久変形する力伝達要素を有するもの［４］",
+      "en": "having a force-transmitting element which is permanently deformed upon application of an excessive amount of torque",
+      "count": 245,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B23/155": {
+      "code": "B25B23/155",
+      "level": 2,
+      "parent": "B25B23/14",
+      "ja": "設定トルクを越えたとき，工作物接触装置が工作物とのトルク伝達係合から解放されるもの（Ｂ２５Ｂ２３／１５３が優先）［４］",
+      "en": "wherein the work-contacting means is released from torque-transmitting engagement with the work, when a selected torque is exceeded(<b>B25B23/153</b> takes precedence)",
+      "count": 302,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B23/157": {
+      "code": "B25B23/157",
+      "level": 2,
+      "parent": "B25B23/14",
+      "ja": "トルク制御されるクラッチ型装置を有するもの（Ｂ２５Ｂ２３／１４３が優先）［４］",
+      "en": "having torque controlled clutch-type arrangements(<b>B25B23/143</b> takes precedence)",
+      "count": 902,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B23/159": {
+      "code": "B25B23/159",
+      "level": 2,
+      "parent": "B25B23/14",
+      "ja": "設定トルクを超過するまでは剛性でかつ力の伝達を完全に維持するかまたは超過トルクの信号を発する弾性構造部材からなるかまたは連結された工作物接触要素を有するもの（Ｂ２５Ｂ２３／１５３が優先）［４］",
+      "en": "the work-contacting component comprising or being connected to a resilient structural member, which remains rigid and fully force transmitting until a selected torque is exceeded or which signals excessive torque(<b>B25B23/153</b> takes precedence)",
+      "count": 229,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B23/16": {
+      "code": "B25B23/16",
+      "level": 1,
+      "parent": "B25B23/00",
+      "ja": "把（は）手（一般Ｂ２５Ｇ）",
+      "en": "Handles(in general <b>B25G</b>)",
+      "count": 10459,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B23/18": {
+      "code": "B25B23/18",
+      "level": 1,
+      "parent": "B25B23/00",
+      "ja": "ねじ頭またはナット照明装置",
+      "en": "Devices for illuminating the head of the screw or the nut",
+      "count": 2369,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B25/00": {
+      "code": "B25B25/00",
+      "level": 0,
+      "parent": "B25B",
+      "ja": "針金や帯の固着，連結，または引張り用器具（物品のてん束Ｂ６５Ｂ１３／００）",
+      "en": "Implements for fastening, connecting, or tensioning of wire or strip(bundling articles <b>B65B13/00</b>)",
+      "count": 4377,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B27/00": {
+      "code": "B25B27/00",
+      "level": 0,
+      "parent": "B25B",
+      "ja": "ある程度の変形を伴うかまたは伴わないかにかかわらず部品または対象物を互に嵌め込みまたは分離するために特に適合されており，他に分類されない手工具または作業台器具（簡単に金属部品または対象物を互いに嵌め込みまたは分離するための機械Ｂ２３Ｐ１９／００）",
+      "en": "Hand tools or bench devices, specially adapted for fitting together or separating parts or objects whether or not involving some deformation, not otherwise provided for(machines for simply fitting together or separating metal parts or objects <b>B23P19/00</b>)",
+      "count": 38352,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B27/02": {
+      "code": "B25B27/02",
+      "level": 1,
+      "parent": "B25B27/00",
+      "ja": "プレスばめによる対象物の結合またはプレスばめの抜き外し用",
+      "en": "for connecting objects by press fit or detaching same",
+      "count": 29409,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B27/04": {
+      "code": "B25B27/04",
+      "level": 2,
+      "parent": "B25B27/02",
+      "ja": "キーの挿入または引抜き",
+      "en": "inserting or withdrawing keys",
+      "count": 538,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B27/06": {
+      "code": "B25B27/06",
+      "level": 2,
+      "parent": "B25B27/02",
+      "ja": "スリーブまたは軸受レースの挿入または引抜き",
+      "en": "inserting or withdrawing sleeves or bearing races",
+      "count": 6032,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B27/067": {
+      "code": "B25B27/067",
+      "level": 3,
+      "parent": "B25B27/06",
+      "ja": "くさびまたは衝撃手段を用いるもの［３］",
+      "en": "employing wedging or impacting means",
+      "count": 669,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B27/073": {
+      "code": "B25B27/073",
+      "level": 3,
+      "parent": "B25B27/06",
+      "ja": "ねじまたはナット手段を用いるもの［３］",
+      "en": "employing screw and nut means",
+      "count": 2924,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B27/08": {
+      "code": "B25B27/08",
+      "level": 2,
+      "parent": "B25B27/02",
+      "ja": "コッタピンの挿入または引抜き",
+      "en": "inserting or withdrawing cotter pins",
+      "count": 892,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B27/10": {
+      "code": "B25B27/10",
+      "level": 2,
+      "parent": "B25B27/02",
+      "ja": "ホース取付具の挿入",
+      "en": "inserting fittings into hoses",
+      "count": 2098,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B27/12": {
+      "code": "B25B27/12",
+      "level": 2,
+      "parent": "B25B27/02",
+      "ja": "ピストンリングの取付け取外し",
+      "en": "mounting or demounting piston rings",
+      "count": 965,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B27/14": {
+      "code": "B25B27/14",
+      "level": 1,
+      "parent": "B25B27/00",
+      "ja": "プレスばめ以外の対象物の組立またはプレスばめ以外の対象物の取外し用",
+      "en": "for assembling objects other than by press fit or detaching same",
+      "count": 23595,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B27/16": {
+      "code": "B25B27/16",
+      "level": 2,
+      "parent": "B25B27/14",
+      "ja": "隣接フランジ",
+      "en": "abutted flanges",
+      "count": 710,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B27/18": {
+      "code": "B25B27/18",
+      "level": 2,
+      "parent": "B25B27/14",
+      "ja": "ねじが破損した部品のまたはねじれたドリルの引抜き",
+      "en": "withdrawing broken threaded parts or twist drills",
+      "count": 1308,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B27/20": {
+      "code": "B25B27/20",
+      "level": 2,
+      "parent": "B25B27/14",
+      "ja": "割ピンまたは止め環の挿入または引抜き",
+      "en": "inserting or withdrawing split pins or circlips",
+      "count": 1995,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B27/22": {
+      "code": "B25B27/22",
+      "level": 2,
+      "parent": "B25B27/14",
+      "ja": "スプロケットチエン，無限軌道，滑止めチエンの取付け（メタルコーキング作業を用いるチエン修理のための機械器具Ｂ２１Ｌ２１／００）",
+      "en": "positioning sprocket chains, endless tracks, antiskid chains(tools or implements for repairing chains using metal-working operations <b>B21L21/00</b>)",
+      "count": 1500,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B27/24": {
+      "code": "B25B27/24",
+      "level": 2,
+      "parent": "B25B27/14",
+      "ja": "弁の取付けまたは取外し（タイヤの弁用Ｂ６０Ｃ２５／１８）",
+      "en": "mounting or demounting valves(for tyre valves <b>B60C25/18</b>)",
+      "count": 2182,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B27/26": {
+      "code": "B25B27/26",
+      "level": 3,
+      "parent": "B25B27/24",
+      "ja": "ばねの圧縮",
+      "en": "compressing the springs",
+      "count": 1017,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B27/28": {
+      "code": "B25B27/28",
+      "level": 2,
+      "parent": "B25B27/14",
+      "ja": "弾性ブッシュまたは類似のものの取付けまたは引抜き［３］",
+      "en": "positioning or withdrawing resilient bushings or the like",
+      "count": 1092,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B27/30": {
+      "code": "B25B27/30",
+      "level": 2,
+      "parent": "B25B27/14",
+      "ja": "バネ，例．コイルバネまたは板バネ，の取付けまたは引抜き（Ｂ２５Ｂ２７／２６が優先；時計製造または時計修理者用工具Ｇ０４Ｄ）［３］",
+      "en": "positioning or withdrawing springs, e.g. coil or leaf springs(<b>B25B27/26</b> takes precedence; watchmakers' or watch-repairers' tools <b>G04D</b>)",
+      "count": 3245,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B28/00": {
+      "code": "B25B28/00",
+      "level": 0,
+      "parent": "B25B",
+      "ja": "可搬型動力駆動の接合または分離工具（Ｂ２５Ｂ２１／００が優先）［３］",
+      "en": "Portable power-driven joining or separation tools(<b>B25B21/00</b> takes precedence)",
+      "count": 753,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B29/00": {
+      "code": "B25B29/00",
+      "level": 0,
+      "parent": "B25B",
+      "ja": "付属具（スパナ，レンチ，ドライバ専用Ｂ２５Ｂ２３／００；工具箱，工具スタンドＢ２５Ｈ）",
+      "en": "Accessories(specially for spanners, wrenches, screwdrivers <b>B25B23/00</b>; tool boxes, tool positioning stands <b>B25H</b>)",
+      "count": 1372,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B29/02": {
+      "code": "B25B29/02",
+      "level": 1,
+      "parent": "B25B29/00",
+      "ja": "ボルト引張り具",
+      "en": "Bolt tensioners",
+      "count": 1440,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B31/00": {
+      "code": "B25B31/00",
+      "level": 0,
+      "parent": "B25B",
+      "ja": "留め具を適用するための手工具（釘打ち工具またはステープラーＢ２５Ｃ）［３］",
+      "en": "Hand tools for applying fasteners(nailing or stapling tools <b>B25C</b>)",
+      "count": 1813,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    },
+    "B25B33/00": {
+      "code": "B25B33/00",
+      "level": 0,
+      "parent": "B25B",
+      "ja": "このサブクラス内の他のグループに包含されない手工具［３］",
+      "en": "Hand tools not covered by any other group in this subclass",
+      "count": 3360,
+      "sourceFile": "ipc_B25B.txt",
+      "kind": "ipc"
+    }
+  }
+};

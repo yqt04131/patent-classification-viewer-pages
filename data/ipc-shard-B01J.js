@@ -1,0 +1,5056 @@
+window.IPC_SHARD_B01J = {
+  "generatedAt": "2026-03-20T02:17:46.057Z",
+  "total": 505,
+  "entries": {
+    "B01J": {
+      "code": "B01J",
+      "level": 0,
+      "parent": "B01",
+      "ja": "化学的または物理的方法，例．触媒またはコロイド化学；それらの関連装置［２］<br><br><b><ul>注</ul></b><br>（１）このサブクラスにおいては，下記の用語または表現は以下に示す意味で用いる：<br>―“固体粒子”は，固体，半固体またはペースト状の触媒，反応体または不活性体のような粒子を包含する；［２］<br>―“流動化粒子”は，流体流により上昇され，かく乱され，そして細分された固体粒子を意味する；［２］<br>―“流動床技術”は，流体－固体接触技術であって，細分された固体粒子が流体の上昇流により上昇され，かく乱され，そして，該上昇流が“流動化粒子”の下部濃密層（該床）と上部希薄層とを形成するような流速をもつものを意味する；［２］<br>―“固体粒子の存在下での処理プロセス”には，存在する固体粒子が，反応によって形成されたもののみであるようなプロセスは含まない。［３］<br>（２）このサブクラスでは，グループの範囲を正確に定義するために，科学文献および特許文献でしばしば使われる商品名が使用されている。［６］<br><br><b><ul>サブクラス内の索引</ul></b><br>化学的，物理的または物理化学的方法または装置　３／００，４／００，６／００，７／００，８／００，１９／００<br>ガスを含む化学的方法　８／００，１０／００，１２／００，１５／００<br>液体を含む化学的方法　８／００，１０／００，１４／００，１６／００<br>触媒<br>元素または無機化合物を含むもの　２１／００，２３／００，２７／００<br>ラネー型　２５／００<br>分子ふるい　２９／００<br>水素化合物，配位錯体または有機化合物を含むもの　３１／００<br>触媒担体一般　３２／００<br>調製　３３／００～３７／００<br>触媒の再生または再活性化一般　３８／００<br>収着，ろ過助剤組成物　２０／００<br>イオン交換プロセス　３９／００～４９／００<br>コロイド化学　１３／００<br>造粒　２／００",
+      "en": "CHEMICAL OR PHYSICAL PROCESSES, e.g. CATALYSIS OR COLLOID CHEMISTRY; THEIR RELEVANT APPARATUS; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this subclass, the following terms or expressions are used with the meanings indicated:<ul><li>\"solid particles\" includes such particles whether catalysts, reactants or inert in solid, semi-solid or pasty state; </li><li>\"fluidised particles\" means finely divided solid particles lifted and agitated by a stream of fluid; </li><li>\"fluidised-bed technique\" means fluid-solid contacting technique in which finely divided particles are lifted and agitated by a rising stream of fluid, said stream having such a speed as to form a lower dense phase (the \"bed\") and an upper dilute fluidised phase of \"fluidised particles\"; </li><li>\"processes conducted in the presence of solid particles\" does not include processes wherein the only solid particles present are formed during the reaction. </li></ul></li><li>In this subclass, tradenames that are often found in scientific and patent literature have been used in order to define precisely the scope of the groups. </li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">CHEMICAL, PHYSICAL, OR PHYSICO-CHEMICAL PROCESSES OR APPARATUS </td><td><b><b>3/00</b>, <b>4/00</b>, <b>6/00</b>, <b>7/00</b>, <b>8/00</b>, <b>19/00</b></b></td></tr></tr><tr><td width=\"70%\">CHEMICAL PROCESSES INVOLVING A GAS </td><td><b><b>8/00</b>, <b>10/00</b>, <b>12/00</b>, <b>15/00</b></b></td></tr></tr><tr><td width=\"70%\">CHEMICAL PROCESSES INVOLVING A LIQUID </td><td><b><b>8/00</b>, <b>10/00</b>, <b>14/00</b>, <b>16/00</b></b></td></tr></tr><tr><td width=\"70%\">CATALYSTS<tr><td width=\"70%\">containing elements or inorganic compounds </td><td><b><b>21/00</b>, <b>23/00</b>, <b>27/00</b></b></td></tr></tr><tr><td width=\"70%\">Raney type </td><td><b><b>25/00</b></b></td></tr></tr><tr><td width=\"70%\">Molecular sieves </td><td><b><b>29/00</b></b></td></tr></tr><tr><td width=\"70%\">containing hydrides, coordination complexes or organic compounds </td><td><b><b>31/00</b></b></td></tr></tr><tr><td width=\"70%\">Catalyst carriers in general </td><td><b><b>32/00</b></b></td></tr></tr><tr><td width=\"70%\">Preparation </td><td><b><b>33/00 to 37/00</b> </b></td></tr></tr><tr><td width=\"70%\">Regeneration or reactivation of catalysts, in general </td><td><b><b>38/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">SORBENT, FILTER AID COMPOSITIONS </td><td><b><b>20/00</b></b></td></tr></tr><tr><td width=\"70%\">ION EXCHANGE PROCESSES </td><td><b><b>39/00 to 49/00</b> </b></td></tr></tr><tr><td width=\"70%\">COLLOID CHEMISTRY </td><td><b><b>13/00</b></b></td></tr></tr><tr><td width=\"70%\">GRANULATION </td><td><b><b>2/00</b></b></td></tr></tr></table>",
+      "count": 5115,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B01": {
+      "code": "B01",
+      "level": 0,
+      "parent": "B",
+      "ja": "物理的または化学的方法または装置一般<br><br><b><ul>注</ul></b><br>以下に示す注は，分類表のこの部分での使用を助ける；これらは，いかなる場合にも修正して読むべきでない。<br>（１）このサブセクションにおいて，異なる材料，例．異なる物質，大きさ，または状態，に関する分離は次のサブクラスに優先的に分類される：<br>Ｂ０１Ｄ<br>Ｂ０３Ｂ，Ｂ０３Ｃ，Ｂ０３Ｄ<br>Ｂ０４Ｂ，Ｂ０４Ｃ<br>Ｂ０７Ｂ，Ｂ０７Ｃ<br>（２）これらのサブクラスの分類上の特徴は，以下のごとくである：<br>（ｉ）分離されるべき物質の物理的状態<br>（ｉｉ）採用される方法の原理<br>（ｉｉｉ）特別な種類の装置<br>これらの特徴の第１番目のものは，３つのグループに集められる６つの異なった観点を含んでいる。<br>（ａ）液体―液体または液体―気体および気体―気体<br>（ｂ）固体―液体または固体―気体<br>（ｃ）固体―固体<br>（３）これらのサブクラスは，以下の一般的規則に従って用いられる：<br>―Ｂ０１Ｄは，固体―固体以外の分離が関係するかぎり最も一般的なサブクラスとなる。<br>―固体から固体を分離する装置は，たとえその装置が空気力のもの，特に風力テーブルまたは風力ジグ，であってもその関係する工程が鉱山技術の意味で“洗鉱”に相当するものとみなされる場合はＢ０３Ｂに包含される。ふるいそれ自体はこのサブクラスには包含されず，たとえそれが湿式法に用いられても，Ｂ０７Ｂに分類される。乾式法による固体から固体を分離するすべての他の装置はＢ０７Ｂに分類される。<br>―もし，分離が，選別されるべき材料または物品のある特性を検出または測定した結果として起こるならば，それはＢ０７Ｃに分類される。<br>―また，同位元素の分離は，どのような方法または装置が用いられようとも，Ｂ０１Ｄ５９／００に分類することに注意すべきである。<br><br><b><ul>サブクラス内の索引</ul></b><br>液体／液体，液体／気体，または気体／気体の分離<br>方法<br>一般　Ｂ０１Ｄ<br>遠心力によるもの，遠心分離器または自由渦装置を用いるもの　Ｂ０１Ｄ<br>磁気または静電気効果を用いるもの　Ｂ０３Ｃ<br>装置<br>一般　Ｂ０１Ｄ<br>遠心力によるもの，遠心分離器または自由渦装置を用いるもの　Ｂ０４Ｂ，Ｂ０４Ｃ<br>磁気または静電気効果を用いるもの　Ｂ０３Ｃ<br>固体／液体または固体／気体の分離<br>方法<br>一般　Ｂ０１Ｄ<br>遠心力によるもの　Ｂ０１Ｄ<br>遠心分離器または自由渦装置を用いるもの　Ｂ０１Ｄ<br>磁気または静電気効果を用いるもの　Ｂ０３Ｃ<br>装置<br>一般　Ｂ０１Ｄ<br>遠心力によるもの　Ｂ０１Ｄ<br>遠心分離器または自由渦装置を用いるもの　Ｂ０４Ｂ，Ｂ０４Ｃ<br>磁気または静電気効果を用いるもの　Ｂ０３Ｃ<br>固体／固体の分離<br>方法<br>乾式法<br>一括分級一般　Ｂ０７Ｂ<br>個別分級　Ｂ０７Ｃ<br>篩にかけるもの，空気力分級　Ｂ０７Ｂ<br>風力テーブルまたは風力ジグを用いるもの　Ｂ０３Ｂ<br>磁気効果または静電気効果によるもの　Ｂ０３Ｃ<br>遠心力によるもの　Ｂ０７Ｂ<br>遠心分離器または自由渦装置を用いるもの　Ｂ０７Ｂ<br>湿式法<br>一般　Ｂ０３Ｂ<br>浮遊選別，差別沈降　Ｂ０３Ｄ<br>篩にかけるもの　Ｂ０７Ｂ<br>結合＝乾式法－湿式法　Ｂ０３Ｂ<br>固体／固体の分離<br>装置<br>乾式法<br>一括分級一般　Ｂ０７Ｂ<br>個別分級　Ｂ０７Ｃ<br>篩にかけるもの，空気力分級　Ｂ０７Ｂ<br>風力テーブルまたは風力ジグを用いるもの　Ｂ０３Ｂ<br>磁気効果または静電気効果によるもの　Ｂ０３Ｃ<br>遠心力によるもの　Ｂ０７Ｂ<br>遠心分離器または自由渦装置を用いるもの　Ｂ０４Ｂ，Ｂ０４Ｃ<br>湿式法<br>一般　Ｂ０３Ｂ<br>浮遊選別，差別沈降　Ｂ０３Ｄ<br>篩にかけるもの　Ｂ０７Ｂ<br>結合＝乾式法－湿式法　Ｂ０３Ｂ",
+      "en": "<br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">LIQUID/LIQUID, LIQUID/GAS OR GAS/GAS SEPARATION<tr><td width=\"70%\">Method<tr><td width=\"70%\">General operations</td><td><b><b>B01D</b></b></td></tr><tr><td width=\"70%\">by centrifugal force, using centrifuges or free-vortex apparatus</td><td><b><b>B01D</b></b></td></tr></tr><tr><td width=\"70%\">using magnetic or electrostatic effect</td><td><b><b>B03C</b></b></td></tr></tr></tr></tr><tr><td width=\"70%\">Apparatus<tr><td width=\"70%\">General operations</td><td><b><b>B01D</b></b></td></tr><tr><td width=\"70%\">by centrifugal force, using centrifuges or free-vortex apparatus</td><td><b><b>B04B</b>, <b>B04C</b></b></td></tr></tr><tr><td width=\"70%\">using magnetic or electrostatic effect</td><td><b><b>B03C</b></b></td></tr></tr></tr></tr></tr><tr><td width=\"70%\">SOLID/LIQUID OR SOLID/GAS SEPARATION<tr><td width=\"70%\">Method<tr><td width=\"70%\">General operations</td><td><b><b>B01D</b></b></td></tr><tr><td width=\"70%\">by centrifugal force</td><td><b><b>B01D</b></b></td></tr><tr><td width=\"70%\">using centrifuges or free-vortex apparatus</td><td><b><b>B01D</b></b></td></tr></tr></tr><tr><td width=\"70%\">using magnetic or electrostatic effect</td><td><b><b>B03C</b></b></td></tr></tr></tr></tr><tr><td width=\"70%\">Apparatus<tr><td width=\"70%\">General operations</td><td><b><b>B01D</b></b></td></tr><tr><td width=\"70%\">by centrifugal force</td><td><b><b>B01D</b></b></td></tr><tr><td width=\"70%\">using centrifuges or free-vortex apparatus</td><td><b><b>B04B</b>, <b>B04C</b></b></td></tr></tr></tr><tr><td width=\"70%\">using magnetic or electrostatic effect</td><td><b><b>B03C</b></b></td></tr></tr></tr></tr></tr><tr><td width=\"70%\">SOLID/SOLID SEPARATION<tr><td width=\"70%\">Method<tr><td width=\"70%\">Dry methods<tr><td width=\"70%\">material in bulk</td><td><b><b>B07B</b></b></td></tr></tr><tr><td width=\"70%\">Individual sorting</td><td><b><b>B07C</b></b></td></tr><tr><td width=\"70%\">Screening, sifting, pneumatic sorting</td><td><b><b>B07B</b></b></td></tr><tr><td width=\"70%\">using pneumatic tables or jigs</td><td><b><b>B03B</b></b></td></tr></tr></tr><tr><td width=\"70%\">by magnetic or electrostatic effect</td><td><b><b>B03C</b></b></td></tr></tr><tr><td width=\"70%\">by centrifugal force</td><td><b><b>B07B</b></b></td></tr><tr><td width=\"70%\">using centrifuges or free-vortex apparatus</td><td><b><b>B07B</b></b></td></tr></tr></tr></tr></tr><tr><td width=\"70%\">Wet methods<tr><td width=\"70%\">General operations</td><td><b><b>B03B</b></b></td></tr><tr><td width=\"70%\">flotation, differential sedimentation</td><td><b><b>B03D</b></b></td></tr></tr><tr><td width=\"70%\">screening</td><td><b><b>B07B</b></b></td></tr></tr></tr></tr><tr><td width=\"70%\">Combinations Dry methods - wet methods</td><td><b><b>B03B</b></b></td></tr></tr></tr><tr><td width=\"70%\">Apparatus<tr><td width=\"70%\">Dry methods<tr><td width=\"70%\">material in bulk</td><td><b><b>B07B</b></b></td></tr></tr><tr><td width=\"70%\">Individual sorting</td><td><b><b>B07C</b></b></td></tr><tr><td width=\"70%\">Screening, sifting, pneumatic sorting</td><td><b><b>B07B</b></b></td></tr><tr><td width=\"70%\">using pneumatic tables or jigs</td><td><b><b>B03B</b></b></td></tr></tr></tr><tr><td width=\"70%\">by magnetic or electrostatic effect</td><td><b><b>B03C</b></b></td></tr></tr><tr><td width=\"70%\">by centrifugal force</td><td><b><b>B07B</b></b></td></tr><tr><td width=\"70%\">using centrifuges or free-vortex apparatus</td><td><b><b>B04B</b>, <b>B04C</b></b></td></tr></tr></tr></tr></tr><tr><td width=\"70%\">Wet methods<tr><td width=\"70%\">General operations</td><td><b><b>B03B</b></b></td></tr><tr><td width=\"70%\">flotation, differential sedimentation</td><td><b><b>B03D</b></b></td></tr></tr><tr><td width=\"70%\">screening</td><td><b><b>B07B</b></b></td></tr></tr></tr></tr><tr><td width=\"70%\">Combinations Dry methods - wet methods</td><td><b><b>B03B</b></b></td></tr></tr></tr></tr></table>PHYSICAL OR CHEMICAL PROCESSES OR APPARATUS IN GENERAL",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B": {
+      "code": "B",
+      "level": 0,
+      "parent": null,
+      "ja": "処理操作；運輸",
+      "en": "PERFORMING OPERATIONS; TRANSPORTING",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B01J2/00": {
+      "code": "B01J2/00",
+      "level": 0,
+      "parent": "B01J",
+      "ja": "物質の造粒プロセスまたは装置一般；粒子状物質の自由流動化一般，例．疎水化［４］",
+      "en": "Processes or devices for granulating materials, in general; Rendering particulate materials free flowing in general, e.g. making them hydrophobic",
+      "count": 11286,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J2/02": {
+      "code": "B01J2/02",
+      "level": 1,
+      "parent": "B01J2/00",
+      "ja": "液状物質を小滴に分割し，例．噴霧することによって，そしてその小滴を固化することによるもの",
+      "en": "by dividing the liquid material into drops, e.g. by spraying, and solidifying the drops",
+      "count": 3036,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J2/04": {
+      "code": "B01J2/04",
+      "level": 2,
+      "parent": "B01J2/02",
+      "ja": "気状媒質中で行なうもの",
+      "en": "in a gaseous medium",
+      "count": 4029,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J2/06": {
+      "code": "B01J2/06",
+      "level": 2,
+      "parent": "B01J2/02",
+      "ja": "液状媒質中で行なうもの",
+      "en": "in a liquid medium",
+      "count": 1355,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J2/08": {
+      "code": "B01J2/08",
+      "level": 3,
+      "parent": "B01J2/06",
+      "ja": "コロイド溶液のゲル化によるもの",
+      "en": "Gelation of a colloidal solution",
+      "count": 675,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J2/10": {
+      "code": "B01J2/10",
+      "level": 1,
+      "parent": "B01J2/00",
+      "ja": "捏（こ）ね器または混合器を備えた固定ドラムまたはトラフ内で行なうもの",
+      "en": "in stationary drums or troughs, provided with kneading or mixing appliances",
+      "count": 3438,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J2/12": {
+      "code": "B01J2/12",
+      "level": 1,
+      "parent": "B01J2/00",
+      "ja": "回転ドラムの中で行なうもの",
+      "en": "in rotating drums",
+      "count": 2905,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J2/14": {
+      "code": "B01J2/14",
+      "level": 1,
+      "parent": "B01J2/00",
+      "ja": "回転板または皿の内で行なうもの",
+      "en": "in rotating dishes or pans",
+      "count": 2341,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J2/16": {
+      "code": "B01J2/16",
+      "level": 1,
+      "parent": "B01J2/00",
+      "ja": "ガス中に粉状物質を分散させることによるもの，例．流動床または粉状物質の落下により行なうもの",
+      "en": "by suspending the powder material in a gas, e.g. in fluidised beds or as a falling curtain",
+      "count": 3206,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J2/18": {
+      "code": "B01J2/18",
+      "level": 1,
+      "parent": "B01J2/00",
+      "ja": "振動装置を使用するもの",
+      "en": "using a vibrating apparatus",
+      "count": 663,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J2/20": {
+      "code": "B01J2/20",
+      "level": 1,
+      "parent": "B01J2/00",
+      "ja": "物質の押出しによるもの，例．ふるいを通して行なうものおよび押出し物の長さを断片にするもの",
+      "en": "by expressing the material, e.g. through sieves and fragmenting the extruded length",
+      "count": 8791,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J2/22": {
+      "code": "B01J2/22",
+      "level": 1,
+      "parent": "B01J2/00",
+      "ja": "モールド内またはローラー間で圧搾することによるもの",
+      "en": "by pressing in moulds or between rollers",
+      "count": 7098,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J2/24": {
+      "code": "B01J2/24",
+      "level": 1,
+      "parent": "B01J2/00",
+      "ja": "表面から固層を削って得られるフレーク",
+      "en": "Obtaining flakes by scraping a solid layer from a surface",
+      "count": 545,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J2/26": {
+      "code": "B01J2/26",
+      "level": 1,
+      "parent": "B01J2/00",
+      "ja": "ベルトコンベアの上で行なうもの",
+      "en": "on endless conveyor belts",
+      "count": 529,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J2/28": {
+      "code": "B01J2/28",
+      "level": 1,
+      "parent": "B01J2/00",
+      "ja": "特別な結合剤の使用",
+      "en": "using special binding agents",
+      "count": 1892,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J2/30": {
+      "code": "B01J2/30",
+      "level": 1,
+      "parent": "B01J2/00",
+      "ja": "粒子の付着防止剤の使用；粒子状物質の自由流動化一般，例．疎水化［４］",
+      "en": "using agents to prevent the granules sticking together; Rendering particulate materials free flowing in general, e.g. making them hydrophobic",
+      "count": 1482,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J3/00": {
+      "code": "B01J3/00",
+      "level": 0,
+      "parent": "B01J",
+      "ja": "物質の化学的または物理的変化を生じさせるため低圧または高圧を利用するプロセス；そのための装置（圧搾ガス，液化ガスまたは固体化したガスの収容または貯蔵のための圧力容器Ｆ１７Ｃ）［２］",
+      "en": "Processes of utilising sub-atmospheric or super-atmospheric pressure to effect chemical or physical change of matter; Apparatus therefor(pressure vessels for containing or storing compressed, liquefied or solidified gases <b>F17C</b>)",
+      "count": 8815,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J3/02": {
+      "code": "B01J3/02",
+      "level": 1,
+      "parent": "B01J3/00",
+      "ja": "供給または排出装置",
+      "en": "Feed or outlet devices therefor",
+      "count": 4254,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J3/03": {
+      "code": "B01J3/03",
+      "level": 1,
+      "parent": "B01J3/00",
+      "ja": "特にそれに適合した閉鎖部材または密閉部を有する圧力容器または真空容器［３］",
+      "en": "Pressure vessels, or vacuum vessels, having closure members or seals specially adapted therefor",
+      "count": 2572,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J3/04": {
+      "code": "B01J3/04",
+      "level": 1,
+      "parent": "B01J3/00",
+      "ja": "圧力容器，例．オートクレーブ［２］",
+      "en": "Pressure vessels, e.g. autoclaves",
+      "count": 7428,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J3/06": {
+      "code": "B01J3/06",
+      "level": 1,
+      "parent": "B01J3/00",
+      "ja": "超高圧を使用するプロセス，例．ダイヤモンドの成形のためのもの；それに用いる装置，例．鋳型またはダイス（Ｂ０１Ｊ３／０４が優先）［２］",
+      "en": "Processes using ultra-high pressure, e.g. for the formation of diamonds; Apparatus therefor, e.g. moulds or dies(<b>B01J3/04</b> takes precedence)",
+      "count": 5094,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J3/08": {
+      "code": "B01J3/08",
+      "level": 2,
+      "parent": "B01J3/06",
+      "ja": "化学反応または物質の結晶構造を変えるための衝撃波の適用［３］",
+      "en": "Application of shock waves for chemical reactions or for modifying the crystal structure of substances",
+      "count": 745,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J4/00": {
+      "code": "B01J4/00",
+      "level": 0,
+      "parent": "B01J",
+      "ja": "供給装置；供給または排出調整装置（圧力容器用供給または排出装置Ｂ０１Ｊ３／０２）",
+      "en": "Feed devices; Feed or outlet control devices(feed or outlet devices for pressure vessels <b>B01J3/02</b>)",
+      "count": 45582,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J4/02": {
+      "code": "B01J4/02",
+      "level": 1,
+      "parent": "B01J4/00",
+      "ja": "正確に計量された試薬を供給する装置",
+      "en": "for feeding measured quantities of reagents",
+      "count": 10332,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J4/04": {
+      "code": "B01J4/04",
+      "level": 1,
+      "parent": "B01J4/00",
+      "ja": "浸透圧を用いるもの［４］",
+      "en": "using osmotic pressure",
+      "count": 307,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J6/00": {
+      "code": "B01J6/00",
+      "level": 0,
+      "parent": "B01J",
+      "ja": "か焼；融解",
+      "en": "Calcining; Fusing",
+      "count": 7557,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J7/00": {
+      "code": "B01J7/00",
+      "level": 0,
+      "parent": "B01J",
+      "ja": "ガス発生装置（不活性ガス混合物の製造Ｂ０１Ｊ１９／１４；特定ガスの発生のためのもの，関連サブクラス，例．Ｃ０１Ｂ，Ｃ１０Ｊを参照）",
+      "en": "Apparatus for generating gases(production of inert gas mixtures <b>B01J19/14</b>; for generating specific gases, <u>see</u> the relevant subclasses, e.g. <b>C01B</b>, <b>C10J</b>)",
+      "count": 4577,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J7/02": {
+      "code": "B01J7/02",
+      "level": 1,
+      "parent": "B01J7/00",
+      "ja": "湿式法",
+      "en": "by wet methods",
+      "count": 1840,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J8/00": {
+      "code": "B01J8/00",
+      "level": 0,
+      "parent": "B01J",
+      "ja": "流体および固体粒子の存在下で行なう，化学的または物理的プロセス一般；このようなプロセス用装置［２］",
+      "en": "Chemical or physical processes in general, conducted in the presence of fluids and solid particles; Apparatus for such processes",
+      "count": 15903,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J8/02": {
+      "code": "B01J8/02",
+      "level": 1,
+      "parent": "B01J8/00",
+      "ja": "静止した粒子を有するもの，例．固定床［２］",
+      "en": "with stationary particles, e.g. in fixed beds",
+      "count": 12406,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J8/04": {
+      "code": "B01J8/04",
+      "level": 2,
+      "parent": "B01J8/02",
+      "ja": "流体が２以上の床を連続的に通過するもの［２］",
+      "en": "the fluid passing successively through two or more beds",
+      "count": 5338,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J8/06": {
+      "code": "B01J8/06",
+      "level": 2,
+      "parent": "B01J8/02",
+      "ja": "管状反応器中でのもの；固体粒子が管中に配置されているもの［２］",
+      "en": "in tube reactors; the solid particles being arranged in tubes",
+      "count": 5648,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J8/08": {
+      "code": "B01J8/08",
+      "level": 1,
+      "parent": "B01J8/00",
+      "ja": "移動粒子を有するもの（流動化粒子によるものＢ０１Ｊ８／１８）［２］",
+      "en": "with moving particles(with fluidised particles <b>B01J8/18</b>)",
+      "count": 3021,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J8/10": {
+      "code": "B01J8/10",
+      "level": 2,
+      "parent": "B01J8/08",
+      "ja": "攪拌器または回転ドラムまたは回転容器により移動するもの［２］",
+      "en": "moved by stirrers or by rotary drums or rotary receptacles",
+      "count": 4462,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J8/12": {
+      "code": "B01J8/12",
+      "level": 2,
+      "parent": "B01J8/08",
+      "ja": "下方向に重力により移動するもの［２］",
+      "en": "moved by gravity in a downward flow",
+      "count": 2179,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J8/14": {
+      "code": "B01J8/14",
+      "level": 2,
+      "parent": "B01J8/08",
+      "ja": "自由渦流装置内での移動によるもの［２］",
+      "en": "moving in free vortex flow apparatus",
+      "count": 286,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J8/16": {
+      "code": "B01J8/16",
+      "level": 1,
+      "parent": "B01J8/00",
+      "ja": "粒子が振動または脈動を受けるもの（Ｂ０１Ｊ８／４０が優先）［２］",
+      "en": "with particles being subjected to vibrations or pulsations(<b>B01J8/40</b> takes precedence)",
+      "count": 519,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J8/18": {
+      "code": "B01J8/18",
+      "level": 1,
+      "parent": "B01J8/00",
+      "ja": "流動化粒子によるもの［２］",
+      "en": "with fluidised particles",
+      "count": 6122,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J8/20": {
+      "code": "B01J8/20",
+      "level": 2,
+      "parent": "B01J8/18",
+      "ja": "流動化媒質として液体を用いるもの［２］",
+      "en": "with liquid as a fluidising medium",
+      "count": 1064,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J8/22": {
+      "code": "B01J8/22",
+      "level": 3,
+      "parent": "B01J8/20",
+      "ja": "ガスを液体に導入するもの［２］",
+      "en": "gas being introduced into the liquid",
+      "count": 1935,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J8/24": {
+      "code": "B01J8/24",
+      "level": 2,
+      "parent": "B01J8/18",
+      "ja": "流動床技術によるもの（Ｂ０１Ｊ８／２０が優先）［２］",
+      "en": "according to \"fluidised-bed\" technique (<b>B01J8/20</b> takes precedence)",
+      "count": 7242,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J8/26": {
+      "code": "B01J8/26",
+      "level": 3,
+      "parent": "B01J8/24",
+      "ja": "２以上の流動床を有するもの，例．反応器および再生装置［２］",
+      "en": "with two or more fluidised beds, e.g. reactor and regeneration installations",
+      "count": 1700,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J8/28": {
+      "code": "B01J8/28",
+      "level": 4,
+      "parent": "B01J8/26",
+      "ja": "一つが他の上にあるもの［２］",
+      "en": "the one above the other",
+      "count": 799,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J8/30": {
+      "code": "B01J8/30",
+      "level": 5,
+      "parent": "B01J8/28",
+      "ja": "下部床の端がその上にある床の端をこえて設けられているもの［２］",
+      "en": "the edge of a lower bed projecting beyond the edge of the superjacent bed",
+      "count": 118,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J8/32": {
+      "code": "B01J8/32",
+      "level": 3,
+      "parent": "B01J8/24",
+      "ja": "２種類以上の流動粒子を有する流動化床への導入によるもの［２］",
+      "en": "with introduction into the fluidised bed of more than one kind of moving particles",
+      "count": 377,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J8/34": {
+      "code": "B01J8/34",
+      "level": 3,
+      "parent": "B01J8/24",
+      "ja": "流動床の固定充填材料に関するもの，例．レンガ，ワイヤリング，そらせ板［２］",
+      "en": "with stationary packing material in the fluidised bed, e.g. bricks, wire rings, baffles",
+      "count": 501,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J8/36": {
+      "code": "B01J8/36",
+      "level": 3,
+      "parent": "B01J8/24",
+      "ja": "粒子の本質的に水平な流れを有する流動床を有するもの［２］",
+      "en": "with fluidised bed through which there is an essentially horizontal flow of particles",
+      "count": 511,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J8/38": {
+      "code": "B01J8/38",
+      "level": 3,
+      "parent": "B01J8/24",
+      "ja": "回転装置を含むかまたは回転を受ける流動床によるもの［２］",
+      "en": "with fluidised bed containing a rotatable device or being subject to rotation",
+      "count": 1395,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J8/40": {
+      "code": "B01J8/40",
+      "level": 3,
+      "parent": "B01J8/24",
+      "ja": "振動または脈動を受けた流動床によるもの［２］",
+      "en": "with fluidised bed subjected to vibrations or pulsations",
+      "count": 301,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J8/42": {
+      "code": "B01J8/42",
+      "level": 3,
+      "parent": "B01J8/24",
+      "ja": "電流または放射を受けた流動床によるもの［２］",
+      "en": "with fluidised bed subjected to electric current or to radiations",
+      "count": 496,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J8/44": {
+      "code": "B01J8/44",
+      "level": 3,
+      "parent": "B01J8/24",
+      "ja": "流動化分散部材［２］",
+      "en": "Fluidisation grids",
+      "count": 1509,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J8/46": {
+      "code": "B01J8/46",
+      "level": 3,
+      "parent": "B01J8/24",
+      "ja": "無端のフィラメント状，帯状，またはシート状材料の処理用［２］",
+      "en": "for treatment of endless filamentary, band or sheet material",
+      "count": 39,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J10/00": {
+      "code": "B01J10/00",
+      "level": 0,
+      "parent": "B01J",
+      "ja": "固体粒子の存在しない状態で液体をガス状媒質と反応させる化学的プロセス一般，またはそれに特に適合した装置（Ｂ０１Ｊ１９／０８が優先；分離，例．蒸留，化学反応と結合した分離Ｂ０１Ｄ）［３］",
+      "en": "Chemical processes in general for reacting liquid with gaseous media other than in the presence of solid particles; Apparatus specially adapted therefor(<b>B01J19/08</b> takes precedence;  separation, e.g. distillation, also combined with chemical reactions <b>B01D</b>)",
+      "count": 6826,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J10/02": {
+      "code": "B01J10/02",
+      "level": 1,
+      "parent": "B01J10/00",
+      "ja": "薄膜式のもの［３］",
+      "en": "of the thin-film type",
+      "count": 572,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J12/00": {
+      "code": "B01J12/00",
+      "level": 0,
+      "parent": "B01J",
+      "ja": "ガス状媒質とガス状媒質とを反応させる化学的プロセス一般；それに特に適合した装置（Ｂ０１Ｊ３／０８，Ｂ０１Ｊ８／００，Ｂ０１Ｊ１９／０８が優先）［３］",
+      "en": "Chemical processes in general for reacting gaseous media with gaseous media; Apparatus specially adapted therefor(<b>B01J3/08</b>, <b>B01J8/00</b>, <b>B01J19/08</b> take precedence)",
+      "count": 2534,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J12/02": {
+      "code": "B01J12/02",
+      "level": 1,
+      "parent": "B01J12/00",
+      "ja": "常温で固体状態を呈する反応生成物を少なくとも１つ得るためのもの［３］",
+      "en": "for obtaining at least one reaction product which, at normal temperature, is in the solid state",
+      "count": 439,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J13/00": {
+      "code": "B01J13/00",
+      "level": 0,
+      "parent": "B01J",
+      "ja": "コロイド化学，例．他に分類されないコロイド状物質またはそれらの溶液の生成；マイクロカプセルまたはマイクロバルーンの製造",
+      "en": "Colloid chemistry, e.g. the production of colloidal materials or their solutions, not otherwise provided for; Making microcapsules or microballoons",
+      "count": 14010,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J13/02": {
+      "code": "B01J13/02",
+      "level": 1,
+      "parent": "B01J13/00",
+      "ja": "マイクロカプセルまたはマイクロバルーンの製造",
+      "en": "Making microcapsules or microballoons",
+      "count": 9301,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J13/04": {
+      "code": "B01J13/04",
+      "level": 2,
+      "parent": "B01J13/02",
+      "ja": "物理的プロセスによるもの，例．乾燥，噴霧［５］",
+      "en": "by physical processes, e.g. drying, spraying",
+      "count": 3905,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J13/06": {
+      "code": "B01J13/06",
+      "level": 2,
+      "parent": "B01J13/02",
+      "ja": "相分離によるもの［５］",
+      "en": "by phase separation",
+      "count": 967,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J13/08": {
+      "code": "B01J13/08",
+      "level": 3,
+      "parent": "B01J13/06",
+      "ja": "単純コアセルベーション，すなわち高親水性物質の添加［５］",
+      "en": "Simple coacervation, i.e. addition of highly hydrophilic material",
+      "count": 640,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J13/10": {
+      "code": "B01J13/10",
+      "level": 3,
+      "parent": "B01J13/06",
+      "ja": "複合コアセルベーション，すなわち反対に荷電した粒子の相互作用［５］",
+      "en": "Complex coacervation, i.e. interaction of oppositely charged particles",
+      "count": 779,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J13/12": {
+      "code": "B01J13/12",
+      "level": 3,
+      "parent": "B01J13/06",
+      "ja": "壁膜形成物質溶液からの溶媒を除去するもの［５］",
+      "en": "removing solvent from the wall-forming material solution",
+      "count": 571,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J13/14": {
+      "code": "B01J13/14",
+      "level": 3,
+      "parent": "B01J13/06",
+      "ja": "重合，架橋結合［５］",
+      "en": "Polymerisation, crosslinking",
+      "count": 4034,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J13/16": {
+      "code": "B01J13/16",
+      "level": 4,
+      "parent": "B01J13/14",
+      "ja": "界面重合［５］",
+      "en": "Interfacial polymerisation",
+      "count": 1552,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J13/18": {
+      "code": "B01J13/18",
+      "level": 4,
+      "parent": "B01J13/14",
+      "ja": "同一相に全反応物質が存在するイン・サイチュー重合［５］",
+      "en": "<u>In situ</u> polymerisation with all reactants being present in the same phase",
+      "count": 1485,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J13/20": {
+      "code": "B01J13/20",
+      "level": 2,
+      "parent": "B01J13/02",
+      "ja": "カプセル壁膜の後処理，例．硬化［５］",
+      "en": "After-treatment of capsule walls, e.g. hardening",
+      "count": 1203,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J13/22": {
+      "code": "B01J13/22",
+      "level": 3,
+      "parent": "B01J13/20",
+      "ja": "被覆［５］",
+      "en": "Coating",
+      "count": 807,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J14/00": {
+      "code": "B01J14/00",
+      "level": 0,
+      "parent": "B01J",
+      "ja": "液体と液体とを反応させる化学的プロセス一般；それに特に適合した装置（Ｂ０１Ｊ８／００，Ｂ０１Ｊ１９／０８が優先）［３］",
+      "en": "Chemical processes in general for reacting liquids with liquids; Apparatus specially adapted therefor(<b>B01J8/00</b>, <b>B01J19/08</b> take precedence)",
+      "count": 2314,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J15/00": {
+      "code": "B01J15/00",
+      "level": 0,
+      "parent": "B01J",
+      "ja": "ガス状媒質と非粒状固体，例．シート状物，とを反応させるための化学的プロセス一般；それに特に適合した装置（Ｂ０１Ｊ１９／０８が優先）［３］",
+      "en": "Chemical processes in general for reacting gaseous media with non-particulate solids, e.g. sheet material; Apparatus specially adapted therefor(<b>B01J19/08</b> takes precedence)",
+      "count": 775,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J16/00": {
+      "code": "B01J16/00",
+      "level": 0,
+      "parent": "B01J",
+      "ja": "液体と非粒状固体，例．シート状物，とを反応させるための化学的プロセス一般；それに特に適合した装置（Ｂ０１Ｊ１９／０８が優先）［３］",
+      "en": "Chemical processes in general for reacting liquids with non-particulate solids, e.g. sheet material; Apparatus specially adapted therefor(<b>B01J19/08</b> takes precedence)",
+      "count": 426,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J19/00": {
+      "code": "B01J19/00",
+      "level": 0,
+      "parent": "B01J",
+      "ja": "化学的，物理的または物理化学的プロセス一般；それらに関連した装置［３］",
+      "en": "Chemical, physical or physico-chemical processes in general; Their relevant apparatus",
+      "count": 88196,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J19/02": {
+      "code": "B01J19/02",
+      "level": 1,
+      "parent": "B01J19/00",
+      "ja": "耐薬品性材料で構成されたことに特徴のある装置［３］",
+      "en": "Apparatus characterised by being constructed of material selected for its chemically-resistant properties",
+      "count": 5021,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J19/06": {
+      "code": "B01J19/06",
+      "level": 1,
+      "parent": "B01J19/00",
+      "ja": "液体の固化（マイクロカプセルの製造Ｂ０１Ｊ１３／０２）［３］",
+      "en": "Solidifying liquids(making microcapsules <b>B01J13/02</b>)",
+      "count": 1076,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J19/08": {
+      "code": "B01J19/08",
+      "level": 1,
+      "parent": "B01J19/00",
+      "ja": "電気または波動エネルギーあるいは粒子線放射を直接適用したプロセス；そのための装置（衝撃波の適用Ｂ０１Ｊ３／０８）［３］",
+      "en": "Processes employing the direct application of electric or wave energy, or particle radiation; Apparatus therefor(application of shock waves <b>B01J3/08</b>)",
+      "count": 17664,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J19/10": {
+      "code": "B01J19/10",
+      "level": 2,
+      "parent": "B01J19/08",
+      "ja": "音波または超音波の利用［２００６．０１］",
+      "en": "employing sonic or ultrasonic vibrations",
+      "count": 6451,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J19/12": {
+      "code": "B01J19/12",
+      "level": 2,
+      "parent": "B01J19/08",
+      "ja": "電磁波の利用［３］",
+      "en": "employing electromagnetic waves",
+      "count": 15217,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J19/14": {
+      "code": "B01J19/14",
+      "level": 1,
+      "parent": "B01J19/00",
+      "ja": "不活性ガス混合物の製造；不活性ガスの使用一般［３］",
+      "en": "Production of inert gas mixtures; Use of inert gases in general",
+      "count": 2944,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J19/16": {
+      "code": "B01J19/16",
+      "level": 1,
+      "parent": "B01J19/00",
+      "ja": "浮遊層の適用による非金属液体の蒸発または酸化の防止，例．マイクロバルーンによるもの［３］",
+      "en": "Preventing evaporation or oxidation of non-metallic liquids by applying a floating layer, e.g. of microballoons",
+      "count": 313,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J19/18": {
+      "code": "B01J19/18",
+      "level": 1,
+      "parent": "B01J19/00",
+      "ja": "内部に可動要素を有する固定式反応装置（Ｂ０１Ｊ１９／０８，Ｂ０１Ｊ１９／２６が優先）［３］",
+      "en": "Stationary reactors having moving elements inside(<b>B01J19/08</b>, <b>B01J19/26</b> take precedence)",
+      "count": 76471,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J19/20": {
+      "code": "B01J19/20",
+      "level": 2,
+      "parent": "B01J19/18",
+      "ja": "可動要素がらせん状のもの，例．スクリュー式反応装置［３］",
+      "en": "in the form of helices, e.g. screw reactors",
+      "count": 5579,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J19/22": {
+      "code": "B01J19/22",
+      "level": 2,
+      "parent": "B01J19/18",
+      "ja": "可動要素が無端ベルト状のもの［３］",
+      "en": "in the form of endless belts",
+      "count": 196,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J19/24": {
+      "code": "B01J19/24",
+      "level": 1,
+      "parent": "B01J19/00",
+      "ja": "内部に可動要素を有しない固定式反応装置（Ｂ０１Ｊ１９／０８，Ｂ０１Ｊ１９／２６が優先；静止した粒子をもつものＢ０１Ｊ８／０２）［３］",
+      "en": "Stationary reactors without moving elements inside(<b>B01J19/08</b>, <b>B01J19/26</b> take precedence; with stationary particles <b>B01J8/02</b>)",
+      "count": 18008,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J19/26": {
+      "code": "B01J19/26",
+      "level": 1,
+      "parent": "B01J19/00",
+      "ja": "ノズルタイプの反応装置，すなわち初めの反応物質の反応装置内への分配がノズルからの導入または注入により行われるもの［３］",
+      "en": "Nozzle-type reactors, i.e. the distribution of the initial reactants within the reactor is effected by their introduction or injection through nozzles",
+      "count": 3895,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J19/28": {
+      "code": "B01J19/28",
+      "level": 1,
+      "parent": "B01J19/00",
+      "ja": "移動式反応装置，例．回転ドラム（Ｂ０１Ｊ１９／０８が優先）［３］",
+      "en": "Moving reactors, e.g. rotary drums (<b>B01J19/08</b> takes precedence)",
+      "count": 5314,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J19/30": {
+      "code": "B01J19/30",
+      "level": 1,
+      "parent": "B01J19/00",
+      "ja": "物質または熱移動用装置に充填する無秩序なまたは形づくられたパッキング要素，例．ラシヒリングまたはバールサドル［５］",
+      "en": "Loose or shaped packing elements, e.g. Raschig rings or Berl saddles, for pouring into the apparatus for mass or heat transfer",
+      "count": 4234,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J19/32": {
+      "code": "B01J19/32",
+      "level": 1,
+      "parent": "B01J19/00",
+      "ja": "物質または熱移動用装置内にユニットまたはモジュールを形成するための格子状パッキング要素または組立式要素［５］",
+      "en": "Packing elements in the form of grids or built-up elements for forming a unit or module inside the apparatus for mass or heat transfer",
+      "count": 4900,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J20/00": {
+      "code": "B01J20/00",
+      "level": 0,
+      "parent": "B01J",
+      "ja": "固体収着組成物またはろ過助剤組成物；クロマトグラフィー用収着剤；それらの調製，再生または再活性化のためのプロセス［３，８］",
+      "en": "Solid sorbent compositions or filter aid compositions; Sorbents for chromatography; Processes for preparing, regenerating or reactivating thereof",
+      "count": 2512,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J20/02": {
+      "code": "B01J20/02",
+      "level": 1,
+      "parent": "B01J20/00",
+      "ja": "無機物からなるもの［３］",
+      "en": "comprising inorganic material",
+      "count": 8172,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J20/04": {
+      "code": "B01J20/04",
+      "level": 2,
+      "parent": "B01J20/02",
+      "ja": "アルカリ金属，アルカリ土類金属またはマグネシウムの化合物からなるもの［３］",
+      "en": "comprising compounds of alkali metals, alkaline earth metals or magnesium",
+      "count": 5966,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J20/06": {
+      "code": "B01J20/06",
+      "level": 2,
+      "parent": "B01J20/02",
+      "ja": "グループＢ０１Ｊ２０／０４に分類されない金属の酸化物または水酸化物からなるもの［３］",
+      "en": "comprising oxides or hydroxides of metals not provided for in group <b>B01J20/04</b>",
+      "count": 6840,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J20/08": {
+      "code": "B01J20/08",
+      "level": 3,
+      "parent": "B01J20/06",
+      "ja": "アルミニウムの酸化物または水酸化物からなるもの；ボーキサイトからなるもの［３］",
+      "en": "comprising aluminium oxide or hydroxide; comprising bauxite",
+      "count": 4421,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J20/10": {
+      "code": "B01J20/10",
+      "level": 2,
+      "parent": "B01J20/02",
+      "ja": "シリカまたはけい酸塩からなるもの［３］",
+      "en": "comprising silica or silicate",
+      "count": 8325,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J20/12": {
+      "code": "B01J20/12",
+      "level": 3,
+      "parent": "B01J20/10",
+      "ja": "天然粘土または漂白土［３］",
+      "en": "Naturally occurring clays or bleaching earth",
+      "count": 4537,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J20/14": {
+      "code": "B01J20/14",
+      "level": 3,
+      "parent": "B01J20/10",
+      "ja": "けいそう土［３］",
+      "en": "Diatomaceous earth",
+      "count": 1301,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J20/16": {
+      "code": "B01J20/16",
+      "level": 3,
+      "parent": "B01J20/10",
+      "ja": "アルミノけい酸塩（Ｂ０１Ｊ２０／１２が優先）［３］",
+      "en": "Alumino-silicates(<b>B01J20/12</b> takes precedence)",
+      "count": 3062,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J20/18": {
+      "code": "B01J20/18",
+      "level": 4,
+      "parent": "B01J20/16",
+      "ja": "合成ゼオライト分子ふるい［３］",
+      "en": "Synthetic zeolitic molecular sieves",
+      "count": 8372,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J20/20": {
+      "code": "B01J20/20",
+      "level": 2,
+      "parent": "B01J20/02",
+      "ja": "遊離炭素からなるもの；炭化工程によって得られた炭素からなるもの［３］",
+      "en": "comprising free carbon; comprising carbon obtained by carbonising processes",
+      "count": 23813,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J20/22": {
+      "code": "B01J20/22",
+      "level": 1,
+      "parent": "B01J20/00",
+      "ja": "有機物からなるもの［３］",
+      "en": "comprising organic material",
+      "count": 13468,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J20/24": {
+      "code": "B01J20/24",
+      "level": 2,
+      "parent": "B01J20/22",
+      "ja": "天然高分子化合物，例．フミン酸またはその誘導体［３］",
+      "en": "Naturally occurring macromolecular compounds, e.g. humic acids or their derivatives",
+      "count": 10440,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J20/26": {
+      "code": "B01J20/26",
+      "level": 2,
+      "parent": "B01J20/22",
+      "ja": "合成高分子化合物［３］",
+      "en": "Synthetic macromolecular compounds",
+      "count": 24307,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J20/28": {
+      "code": "B01J20/28",
+      "level": 1,
+      "parent": "B01J20/00",
+      "ja": "形態または物理的性質に特徴のあるもの［３］",
+      "en": "characterised by their form or physical properties",
+      "count": 32807,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J20/281": {
+      "code": "B01J20/281",
+      "level": 1,
+      "parent": "B01J20/00",
+      "ja": "前処理，分析または調査のためのクロマトグラフィーに特に適した収着剤［８］",
+      "en": "Sorbents specially adapted for preparative, analytical or investigative chromatography",
+      "count": 4746,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J20/282": {
+      "code": "B01J20/282",
+      "level": 2,
+      "parent": "B01J20/281",
+      "ja": "多孔性収着剤（イオン交換Ｂ０１Ｊ３９／００～Ｂ０１Ｊ４１／００）［８］",
+      "en": "Porous sorbents(ion exchange <b>B01J39/00 to B01J41/00</b> )",
+      "count": 538,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J20/283": {
+      "code": "B01J20/283",
+      "level": 3,
+      "parent": "B01J20/282",
+      "ja": "シリカを基とするもの［８］",
+      "en": "based on silica",
+      "count": 1205,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J20/284": {
+      "code": "B01J20/284",
+      "level": 3,
+      "parent": "B01J20/282",
+      "ja": "アルミナを基とするもの［８］",
+      "en": "based on alumina",
+      "count": 188,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J20/285": {
+      "code": "B01J20/285",
+      "level": 3,
+      "parent": "B01J20/282",
+      "ja": "高分子化合物を基とするもの［８］",
+      "en": "based on polymers",
+      "count": 2398,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J20/286": {
+      "code": "B01J20/286",
+      "level": 2,
+      "parent": "B01J20/281",
+      "ja": "基質，例．シリカまたは高分子化合物，に化学的に結合した相［８］",
+      "en": "Phases chemically bonded to a substrate, e.g. to silica or to polymers",
+      "count": 1514,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J20/287": {
+      "code": "B01J20/287",
+      "level": 3,
+      "parent": "B01J20/286",
+      "ja": "無極性相；逆相［８］",
+      "en": "Non-polar phases; Reversed phases",
+      "count": 279,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J20/288": {
+      "code": "B01J20/288",
+      "level": 3,
+      "parent": "B01J20/286",
+      "ja": "極性相［８］",
+      "en": "Polar phases",
+      "count": 288,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J20/289": {
+      "code": "B01J20/289",
+      "level": 3,
+      "parent": "B01J20/286",
+      "ja": "スペーサーを介して結合したもの［８］",
+      "en": "bonded via a spacer",
+      "count": 250,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J20/29": {
+      "code": "B01J20/29",
+      "level": 2,
+      "parent": "B01J20/281",
+      "ja": "キラル相［８］",
+      "en": "Chiral phases",
+      "count": 443,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J20/291": {
+      "code": "B01J20/291",
+      "level": 2,
+      "parent": "B01J20/281",
+      "ja": "ゲル収着剤［８］",
+      "en": "Gel sorbents",
+      "count": 750,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J20/292": {
+      "code": "B01J20/292",
+      "level": 2,
+      "parent": "B01J20/281",
+      "ja": "液体収着剤［８］",
+      "en": "Liquid sorbents",
+      "count": 158,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J20/30": {
+      "code": "B01J20/30",
+      "level": 1,
+      "parent": "B01J20/00",
+      "ja": "調製，再生または再活性化のためのプロセス［３］",
+      "en": "Processes for preparing, regenerating or reactivating",
+      "count": 51729,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J20/32": {
+      "code": "B01J20/32",
+      "level": 2,
+      "parent": "B01J20/30",
+      "ja": "含浸または被覆［３］",
+      "en": "Impregnating or coating",
+      "count": 7866,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J20/34": {
+      "code": "B01J20/34",
+      "level": 2,
+      "parent": "B01J20/30",
+      "ja": "再生または再活性化［３］",
+      "en": "Regenerating or reactivating",
+      "count": 13249,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J21/00": {
+      "code": "B01J21/00",
+      "level": 0,
+      "parent": "B01J",
+      "ja": "マグネシウム，ほう素，アルミニウム，炭素，けい素，チタン，ジルコニウムまたはハフニウム，その酸化物または水酸化物からなる触媒［２］",
+      "en": "Catalysts comprising the elements, oxides or hydroxides of magnesium, boron, aluminium, carbon, silicon, titanium, zirconium or hafnium",
+      "count": 5353,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J21/02": {
+      "code": "B01J21/02",
+      "level": 1,
+      "parent": "B01J21/00",
+      "ja": "ほう素またはアルミニウム；その酸化物または水酸化物［２］",
+      "en": "Boron or aluminium; Oxides or hydroxides thereof",
+      "count": 2216,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J21/04": {
+      "code": "B01J21/04",
+      "level": 2,
+      "parent": "B01J21/02",
+      "ja": "アルミナ［２］",
+      "en": "Alumina",
+      "count": 9362,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J21/06": {
+      "code": "B01J21/06",
+      "level": 1,
+      "parent": "B01J21/00",
+      "ja": "けい素，チタン，ジルコニウムまたはハフニウム；その酸化物または水酸化物［２］",
+      "en": "Silicon, titanium, zirconium or hafnium; Oxides or hydroxides thereof",
+      "count": 15989,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J21/08": {
+      "code": "B01J21/08",
+      "level": 2,
+      "parent": "B01J21/06",
+      "ja": "シリカ［２］",
+      "en": "Silica",
+      "count": 5117,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J21/10": {
+      "code": "B01J21/10",
+      "level": 1,
+      "parent": "B01J21/00",
+      "ja": "マグネシウム；その酸化物または水酸化物［２］",
+      "en": "Magnesium; Oxides or hydroxides thereof",
+      "count": 2145,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J21/12": {
+      "code": "B01J21/12",
+      "level": 1,
+      "parent": "B01J21/00",
+      "ja": "シリカおよびアルミナ［２］",
+      "en": "Silica and alumina",
+      "count": 3573,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J21/14": {
+      "code": "B01J21/14",
+      "level": 1,
+      "parent": "B01J21/00",
+      "ja": "シリカおよびマグネシア［２］",
+      "en": "Silica and magnesia",
+      "count": 679,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J21/16": {
+      "code": "B01J21/16",
+      "level": 1,
+      "parent": "B01J21/00",
+      "ja": "粘土または他の無機けい酸塩［２］",
+      "en": "Clays or other mineral silicates",
+      "count": 4120,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J21/18": {
+      "code": "B01J21/18",
+      "level": 1,
+      "parent": "B01J21/00",
+      "ja": "炭素［２］",
+      "en": "Carbon",
+      "count": 8119,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J21/20": {
+      "code": "B01J21/20",
+      "level": 1,
+      "parent": "B01J21/00",
+      "ja": "再生または再活性化［２］",
+      "en": "Regeneration or reactivation",
+      "count": 921,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J23/00": {
+      "code": "B01J23/00",
+      "level": 0,
+      "parent": "B01J",
+      "ja": "グループＢ０１Ｊ２１／００に分類されない，金属または金属酸化物または水酸化物からなる触媒（Ｂ０１Ｊ２１／１６が優先）［２］",
+      "en": "Catalysts comprising metals or metal oxides or hydroxides, not provided for in group <b>B01J21/00</b>(<b>B01J21/16</b> takes precedence)",
+      "count": 14719,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J23/02": {
+      "code": "B01J23/02",
+      "level": 1,
+      "parent": "B01J23/00",
+      "ja": "アルカリ金属またはアルカリ土類金属またはベリリウムに関するもの［２］",
+      "en": "of the alkali- or alkaline earth metals or beryllium",
+      "count": 4377,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J23/04": {
+      "code": "B01J23/04",
+      "level": 2,
+      "parent": "B01J23/02",
+      "ja": "アルカリ金属［２］",
+      "en": "Alkali metals",
+      "count": 3463,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J23/06": {
+      "code": "B01J23/06",
+      "level": 1,
+      "parent": "B01J23/00",
+      "ja": "亜鉛，カドミウムまたは水銀に関するもの［２］",
+      "en": "of zinc, cadmium or mercury",
+      "count": 4437,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J23/08": {
+      "code": "B01J23/08",
+      "level": 1,
+      "parent": "B01J23/00",
+      "ja": "ガリウム，インジウムまたはタリウムに関するもの［２］",
+      "en": "of gallium, indium or thallium",
+      "count": 1309,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J23/10": {
+      "code": "B01J23/10",
+      "level": 1,
+      "parent": "B01J23/00",
+      "ja": "希土類に関するもの［２］",
+      "en": "of rare earths",
+      "count": 7531,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J23/12": {
+      "code": "B01J23/12",
+      "level": 1,
+      "parent": "B01J23/00",
+      "ja": "アクチニドに関するもの［２］",
+      "en": "of actinides",
+      "count": 306,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J23/14": {
+      "code": "B01J23/14",
+      "level": 1,
+      "parent": "B01J23/00",
+      "ja": "ゲルマニウム，すずまたは鉛に関するもの［２］",
+      "en": "of germanium, tin or lead",
+      "count": 2550,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J23/16": {
+      "code": "B01J23/16",
+      "level": 1,
+      "parent": "B01J23/00",
+      "ja": "ひ素，アンチモン，ビスマス，バナジウム，ニオブ，タンタル，ポロニウム，クロム，モリブデン，タングステン，マンガン，テクネチウムまたはレニウムに関するもの［２］",
+      "en": "of arsenic, antimony, bismuth, vanadium, niobium, tantalum, polonium, chromium, molybdenum, tungsten, manganese, technetium or rhenium",
+      "count": 1683,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J23/18": {
+      "code": "B01J23/18",
+      "level": 2,
+      "parent": "B01J23/16",
+      "ja": "ひ素，アンチモンまたはビスマス［２］",
+      "en": "Arsenic, antimony or bismuth",
+      "count": 1804,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J23/20": {
+      "code": "B01J23/20",
+      "level": 2,
+      "parent": "B01J23/16",
+      "ja": "バナジウム，ニオブまたはタンタル［２］",
+      "en": "Vanadium, niobium or tantalum",
+      "count": 1668,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J23/22": {
+      "code": "B01J23/22",
+      "level": 3,
+      "parent": "B01J23/20",
+      "ja": "バナジウム［２］",
+      "en": "Vanadium",
+      "count": 4820,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J23/24": {
+      "code": "B01J23/24",
+      "level": 2,
+      "parent": "B01J23/16",
+      "ja": "クロム，モリブデンまたはタングステン［２］",
+      "en": "Chromium, molybdenum or tungsten",
+      "count": 1278,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J23/26": {
+      "code": "B01J23/26",
+      "level": 3,
+      "parent": "B01J23/24",
+      "ja": "クロム［２］",
+      "en": "Chromium",
+      "count": 3337,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J23/28": {
+      "code": "B01J23/28",
+      "level": 3,
+      "parent": "B01J23/24",
+      "ja": "モリブデン［２］",
+      "en": "Molybdenum",
+      "count": 4768,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J23/30": {
+      "code": "B01J23/30",
+      "level": 3,
+      "parent": "B01J23/24",
+      "ja": "タングステン［２］",
+      "en": "Tungsten",
+      "count": 5534,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J23/31": {
+      "code": "B01J23/31",
+      "level": 3,
+      "parent": "B01J23/24",
+      "ja": "ビスマスと結合したもの［３］",
+      "en": "combined with bismuth",
+      "count": 1104,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J23/32": {
+      "code": "B01J23/32",
+      "level": 2,
+      "parent": "B01J23/16",
+      "ja": "マンガン，テクネチウムまたはレニウム［２］",
+      "en": "Manganese, technetium or rhenium",
+      "count": 451,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J23/34": {
+      "code": "B01J23/34",
+      "level": 3,
+      "parent": "B01J23/32",
+      "ja": "マンガン［２］",
+      "en": "Manganese",
+      "count": 7133,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J23/36": {
+      "code": "B01J23/36",
+      "level": 3,
+      "parent": "B01J23/32",
+      "ja": "レニウム［２］",
+      "en": "Rhenium",
+      "count": 805,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J23/38": {
+      "code": "B01J23/38",
+      "level": 1,
+      "parent": "B01J23/00",
+      "ja": "貴金属に関するもの［２］",
+      "en": "of noble metals",
+      "count": 1808,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J23/40": {
+      "code": "B01J23/40",
+      "level": 2,
+      "parent": "B01J23/38",
+      "ja": "白金族金属に関するもの［２］",
+      "en": "of the platinum group metals",
+      "count": 5965,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J23/42": {
+      "code": "B01J23/42",
+      "level": 3,
+      "parent": "B01J23/40",
+      "ja": "白金［２］",
+      "en": "Platinum",
+      "count": 10318,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J23/44": {
+      "code": "B01J23/44",
+      "level": 3,
+      "parent": "B01J23/40",
+      "ja": "パラジウム［２］",
+      "en": "Palladium",
+      "count": 10938,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J23/46": {
+      "code": "B01J23/46",
+      "level": 3,
+      "parent": "B01J23/40",
+      "ja": "ルテニウム，ロジウム，オスミウムまたはイリジウム［２］",
+      "en": "Ruthenium, rhodium, osmium or iridium",
+      "count": 8683,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J23/48": {
+      "code": "B01J23/48",
+      "level": 2,
+      "parent": "B01J23/38",
+      "ja": "銀または金［２］",
+      "en": "Silver or gold",
+      "count": 560,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J23/50": {
+      "code": "B01J23/50",
+      "level": 3,
+      "parent": "B01J23/48",
+      "ja": "銀［２］",
+      "en": "Silver",
+      "count": 3921,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J23/52": {
+      "code": "B01J23/52",
+      "level": 3,
+      "parent": "B01J23/48",
+      "ja": "金［２］",
+      "en": "Gold",
+      "count": 3008,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J23/54": {
+      "code": "B01J23/54",
+      "level": 2,
+      "parent": "B01J23/38",
+      "ja": "グループＢ０１Ｊ２３／０２～Ｂ０１Ｊ２３／３６までに分類される金属，酸化物または水酸化物と結合したもの［２］",
+      "en": "combined with metals, oxides or hydroxides provided for in groups <b>B01J23/02 to B01J23/36</b> ",
+      "count": 532,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J23/56": {
+      "code": "B01J23/56",
+      "level": 3,
+      "parent": "B01J23/54",
+      "ja": "白金族金属［２］",
+      "en": "Platinum group metals",
+      "count": 2063,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J23/58": {
+      "code": "B01J23/58",
+      "level": 4,
+      "parent": "B01J23/56",
+      "ja": "アルカリ金属またはアルカリ土類金属またはベリリウムと結合したもの［２，６］",
+      "en": "with alkali- or alkaline earth metals or beryllium",
+      "count": 4139,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J23/60": {
+      "code": "B01J23/60",
+      "level": 4,
+      "parent": "B01J23/56",
+      "ja": "亜鉛，カドミウムまたは水銀と結合したもの［２］",
+      "en": "with zinc, cadmium or mercury",
+      "count": 1333,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J23/62": {
+      "code": "B01J23/62",
+      "level": 4,
+      "parent": "B01J23/56",
+      "ja": "ガリウム，インジウム，タリウム，ゲルマニウム，すずまたは鉛と結合したもの［２］",
+      "en": "with gallium, indium, thallium, germanium, tin or lead",
+      "count": 2802,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J23/63": {
+      "code": "B01J23/63",
+      "level": 4,
+      "parent": "B01J23/56",
+      "ja": "希土類またはアクチニドと結合したもの［６］",
+      "en": "with rare earths or actinides",
+      "count": 6888,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J23/64": {
+      "code": "B01J23/64",
+      "level": 4,
+      "parent": "B01J23/56",
+      "ja": "ひ素，アンチモン，ビスマス，バナジウム，ニオブ，タンタル，ポロニウム，クロム，モリブデン，タングステン，マンガン，テクネチウムまたはレニウムと結合したもの［２］",
+      "en": "with arsenic, antimony, bismuth, vanadium, niobium, tantalum, polonium, chromium, molybdenum, tungsten, manganese, technetium or rhenium",
+      "count": 1209,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J23/644": {
+      "code": "B01J23/644",
+      "level": 5,
+      "parent": "B01J23/64",
+      "ja": "ひ素，アンチモンまたはビスマス［６］",
+      "en": "Arsenic, antimony or bismuth",
+      "count": 700,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J23/648": {
+      "code": "B01J23/648",
+      "level": 5,
+      "parent": "B01J23/64",
+      "ja": "バナジウム，ニオブまたはタンタル［６］",
+      "en": "Vanadium, niobium or tantalum",
+      "count": 1180,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J23/652": {
+      "code": "B01J23/652",
+      "level": 5,
+      "parent": "B01J23/64",
+      "ja": "クロム，モリブデンまたはタングステン［６］",
+      "en": "Chromium, molybdenum or tungsten",
+      "count": 2737,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J23/656": {
+      "code": "B01J23/656",
+      "level": 5,
+      "parent": "B01J23/64",
+      "ja": "マンガン，テクネチウムまたはレニウム［６］",
+      "en": "Manganese, technetium or rhenium",
+      "count": 2533,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J23/66": {
+      "code": "B01J23/66",
+      "level": 3,
+      "parent": "B01J23/54",
+      "ja": "銀または金［２］",
+      "en": "Silver or gold",
+      "count": 2445,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J23/68": {
+      "code": "B01J23/68",
+      "level": 4,
+      "parent": "B01J23/66",
+      "ja": "ひ素，アンチモン，ビスマス，バナジウム，ニオブ，タンタル，ポロニウム，クロム，モリブデン，タングステン，マンガン，テクネチウムまたはレニウムと結合したもの［２］",
+      "en": "with arsenic, antimony, bismuth, vanadium, niobium, tantalum, polonium, chromium, molybdenum, tungsten, manganese, technetium or rhenium",
+      "count": 2118,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J23/70": {
+      "code": "B01J23/70",
+      "level": 1,
+      "parent": "B01J23/00",
+      "ja": "鉄族金属または銅に関するもの［２］",
+      "en": "of the iron group metals or copper",
+      "count": 2637,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J23/72": {
+      "code": "B01J23/72",
+      "level": 2,
+      "parent": "B01J23/70",
+      "ja": "銅［２］",
+      "en": "Copper",
+      "count": 8303,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J23/74": {
+      "code": "B01J23/74",
+      "level": 2,
+      "parent": "B01J23/70",
+      "ja": "鉄族金属［２］",
+      "en": "Iron group metals",
+      "count": 4221,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J23/745": {
+      "code": "B01J23/745",
+      "level": 3,
+      "parent": "B01J23/74",
+      "ja": "鉄［６］",
+      "en": "Iron",
+      "count": 8525,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J23/75": {
+      "code": "B01J23/75",
+      "level": 3,
+      "parent": "B01J23/74",
+      "ja": "コバルト［６］",
+      "en": "Cobalt",
+      "count": 6633,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J23/755": {
+      "code": "B01J23/755",
+      "level": 3,
+      "parent": "B01J23/74",
+      "ja": "ニッケル［６］",
+      "en": "Nickel",
+      "count": 10745,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J23/76": {
+      "code": "B01J23/76",
+      "level": 2,
+      "parent": "B01J23/70",
+      "ja": "グループＢ０１Ｊ２３／０２～Ｂ０１Ｊ２３／３６までに分類される金属，酸化物または水酸化物と結合したもの［２］",
+      "en": "combined with metals, oxides or hydroxides provided for in groups <b>B01J23/02 to B01J23/36</b> ",
+      "count": 1871,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J23/78": {
+      "code": "B01J23/78",
+      "level": 3,
+      "parent": "B01J23/76",
+      "ja": "アルカリ金属またはアルカリ土類金属またはベリリウムと結合したもの［２，６］",
+      "en": "with alkali- or alkaline earth metals or beryllium",
+      "count": 5532,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J23/80": {
+      "code": "B01J23/80",
+      "level": 3,
+      "parent": "B01J23/76",
+      "ja": "亜鉛，カドミウムまたは水銀と結合したもの［２］",
+      "en": "with zinc, cadmium or mercury",
+      "count": 5209,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J23/825": {
+      "code": "B01J23/825",
+      "level": 3,
+      "parent": "B01J23/76",
+      "ja": "ガリウム，インジウムまたはタリウムと結合したもの［６］",
+      "en": "with gallium, indium or thallium",
+      "count": 705,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J23/83": {
+      "code": "B01J23/83",
+      "level": 3,
+      "parent": "B01J23/76",
+      "ja": "希土類またはアクチニドと結合したもの［６］",
+      "en": "with rare earths or actinides",
+      "count": 6285,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J23/835": {
+      "code": "B01J23/835",
+      "level": 3,
+      "parent": "B01J23/76",
+      "ja": "ゲルマニウム，すずまたは鉛と結合したもの［６］",
+      "en": "with germanium, tin or lead",
+      "count": 1270,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J23/84": {
+      "code": "B01J23/84",
+      "level": 3,
+      "parent": "B01J23/76",
+      "ja": "ひ素，アンチモン，ビスマス，バナジウム，ニオブ，タンタル，ポロニウム，クロム，モリブデン，タングステン，マンガン，テクネチウムまたはレニウムと結合したもの［２］",
+      "en": "with arsenic, antimony, bismuth, vanadium, niobium, tantalum, polonium, chromium, molybdenum, tungsten, manganese, technetium or rhenium",
+      "count": 2003,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J23/843": {
+      "code": "B01J23/843",
+      "level": 4,
+      "parent": "B01J23/84",
+      "ja": "ひ素，アンチモンまたはビスマス［６］",
+      "en": "Arsenic, antimony or bismuth",
+      "count": 958,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J23/847": {
+      "code": "B01J23/847",
+      "level": 4,
+      "parent": "B01J23/84",
+      "ja": "バナジウム，ニオブまたはタンタル［６］",
+      "en": "Vanadium, niobium or tantalum",
+      "count": 1870,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J23/85": {
+      "code": "B01J23/85",
+      "level": 4,
+      "parent": "B01J23/84",
+      "ja": "クロム，モリブデンまたはタングステン［３］",
+      "en": "Chromium, molybdenum, or tungsten",
+      "count": 1913,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J23/86": {
+      "code": "B01J23/86",
+      "level": 5,
+      "parent": "B01J23/85",
+      "ja": "クロム［２，３］",
+      "en": "Chromium",
+      "count": 3766,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J23/88": {
+      "code": "B01J23/88",
+      "level": 5,
+      "parent": "B01J23/85",
+      "ja": "モリブデン［２，３］",
+      "en": "Molybdenum",
+      "count": 3116,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J23/881": {
+      "code": "B01J23/881",
+      "level": 6,
+      "parent": "B01J23/88",
+      "ja": "および鉄［６］",
+      "en": "and iron",
+      "count": 689,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J23/882": {
+      "code": "B01J23/882",
+      "level": 6,
+      "parent": "B01J23/88",
+      "ja": "およびコバルト［６］",
+      "en": "and cobalt",
+      "count": 1735,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J23/883": {
+      "code": "B01J23/883",
+      "level": 6,
+      "parent": "B01J23/88",
+      "ja": "およびニッケル［６］",
+      "en": "and nickel",
+      "count": 2472,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J23/885": {
+      "code": "B01J23/885",
+      "level": 6,
+      "parent": "B01J23/88",
+      "ja": "および銅［６］",
+      "en": "and copper",
+      "count": 472,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J23/887": {
+      "code": "B01J23/887",
+      "level": 6,
+      "parent": "B01J23/88",
+      "ja": "グループＢ０１Ｊ２３／０２～Ｂ０１Ｊ２３／３６までに分類される他の金属，酸化物または水酸化物をさらに含有するもの［６］",
+      "en": "containing in addition other metals, oxides or hydroxides provided for in groups <b>B01J23/02 to B01J23/36</b> ",
+      "count": 2626,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J23/888": {
+      "code": "B01J23/888",
+      "level": 5,
+      "parent": "B01J23/85",
+      "ja": "タングステン［６］",
+      "en": "Tungsten",
+      "count": 2975,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J23/889": {
+      "code": "B01J23/889",
+      "level": 4,
+      "parent": "B01J23/84",
+      "ja": "マンガン，テクネチウムまたはレニウム［６］",
+      "en": "Manganese, technetium or rhenium",
+      "count": 7443,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J23/89": {
+      "code": "B01J23/89",
+      "level": 2,
+      "parent": "B01J23/70",
+      "ja": "貴金属と結合したもの［３］",
+      "en": "combined with noble metals",
+      "count": 13654,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J23/90": {
+      "code": "B01J23/90",
+      "level": 1,
+      "parent": "B01J23/00",
+      "ja": "再生または再活性化［２］",
+      "en": "Regeneration or reactivation",
+      "count": 913,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J23/92": {
+      "code": "B01J23/92",
+      "level": 2,
+      "parent": "B01J23/90",
+      "ja": "グループＢ０１Ｊ２３／０２～Ｂ０１Ｊ２３／３６までに分類される金属，酸化物または水酸化物からなる触媒に関するもの［２］",
+      "en": "of catalysts comprising metals, oxides or hydroxides provided for in groups <b>B01J23/02 to B01J23/36</b> ",
+      "count": 1060,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J23/94": {
+      "code": "B01J23/94",
+      "level": 2,
+      "parent": "B01J23/90",
+      "ja": "鉄族金属または銅，その酸化物または水酸化物からなる触媒に関するもの［２］",
+      "en": "of catalysts comprising metals, oxides or hydroxides of the iron group metals or copper",
+      "count": 1670,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J23/96": {
+      "code": "B01J23/96",
+      "level": 2,
+      "parent": "B01J23/90",
+      "ja": "貴金属，その酸化物または水酸化物からなる触媒に関するもの［２］",
+      "en": "of catalysts comprising metals, oxides or hydroxides of the noble metals",
+      "count": 1843,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J25/00": {
+      "code": "B01J25/00",
+      "level": 0,
+      "parent": "B01J",
+      "ja": "ラネー型の触媒［２］",
+      "en": "Catalysts of the Raney type",
+      "count": 1342,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J25/02": {
+      "code": "B01J25/02",
+      "level": 1,
+      "parent": "B01J25/00",
+      "ja": "ラネーニッケル［２］",
+      "en": "Raney nickel",
+      "count": 1343,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J25/04": {
+      "code": "B01J25/04",
+      "level": 1,
+      "parent": "B01J25/00",
+      "ja": "再生または再活性化［２］",
+      "en": "Regeneration or reactivation",
+      "count": 133,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J27/00": {
+      "code": "B01J27/00",
+      "level": 0,
+      "parent": "B01J",
+      "ja": "ハロゲン，硫黄，セレン，テルル，りん，窒素またはそれらの化合物からなる触媒；炭素化合物からなる触媒［４］<br><br><b><ul>注</ul></b><br>ハロゲン，硫黄またはりん，またはそれらの化合物によって活性化または調整された金属触媒または金属酸化物触媒は，金属触媒または金属酸化物触媒のための適切な箇所に分類する。［２，５］",
+      "en": "Catalysts comprising the elements or compounds of halogens, sulfur, selenium, tellurium, phosphorus or nitrogen; Catalysts comprising carbon compounds; <br><br><b><u>Note(s)</u></b><br><br><ul><li>Metal catalysts or metal oxide catalysts activated or conditioned by halogens, sulfur or phosphorus, or compounds thereof are classified in the appropriate groups for metal catalysts or metal oxide catalysts. </li></ul>",
+      "count": 6746,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J27/02": {
+      "code": "B01J27/02",
+      "level": 1,
+      "parent": "B01J27/00",
+      "ja": "硫黄，セレンまたはテルル；その化合物［４］",
+      "en": "Sulfur, selenium or tellurium; Compounds thereof",
+      "count": 2700,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J27/04": {
+      "code": "B01J27/04",
+      "level": 2,
+      "parent": "B01J27/02",
+      "ja": "硫化物［２］",
+      "en": "Sulfides",
+      "count": 3116,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J27/043": {
+      "code": "B01J27/043",
+      "level": 3,
+      "parent": "B01J27/04",
+      "ja": "鉄族金属または白金族金属を有するもの［４］",
+      "en": "with iron group metals or platinum group metals",
+      "count": 1468,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J27/045": {
+      "code": "B01J27/045",
+      "level": 4,
+      "parent": "B01J27/043",
+      "ja": "白金族金属［４］",
+      "en": "Platinum group metals",
+      "count": 479,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J27/047": {
+      "code": "B01J27/047",
+      "level": 3,
+      "parent": "B01J27/04",
+      "ja": "クロム，モリブデン，タングステンまたはポロニウムを有するもの［４］",
+      "en": "with chromium, molybdenum, tungsten or polonium",
+      "count": 614,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J27/049": {
+      "code": "B01J27/049",
+      "level": 4,
+      "parent": "B01J27/047",
+      "ja": "鉄族金属または白金族金属を有するもの［４］",
+      "en": "with iron group metals or platinum group metals",
+      "count": 589,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J27/051": {
+      "code": "B01J27/051",
+      "level": 4,
+      "parent": "B01J27/047",
+      "ja": "モリブデン［４］",
+      "en": "Molybdenum",
+      "count": 2318,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J27/053": {
+      "code": "B01J27/053",
+      "level": 2,
+      "parent": "B01J27/02",
+      "ja": "硫酸塩［４］",
+      "en": "Sulfates",
+      "count": 3068,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J27/055": {
+      "code": "B01J27/055",
+      "level": 3,
+      "parent": "B01J27/053",
+      "ja": "アルカリ金属，銅，金または銀を有するもの［４］",
+      "en": "with alkali metals, copper, gold or silver",
+      "count": 973,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J27/057": {
+      "code": "B01J27/057",
+      "level": 2,
+      "parent": "B01J27/02",
+      "ja": "セレンまたはテルル；その化合物［４］",
+      "en": "Selenium or tellurium; Compounds thereof",
+      "count": 2143,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J27/06": {
+      "code": "B01J27/06",
+      "level": 1,
+      "parent": "B01J27/00",
+      "ja": "ハロゲン；その化合物［４］",
+      "en": "Halogens; Compounds thereof",
+      "count": 3239,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J27/08": {
+      "code": "B01J27/08",
+      "level": 2,
+      "parent": "B01J27/06",
+      "ja": "ハロゲン化物［２］",
+      "en": "Halides",
+      "count": 2199,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J27/10": {
+      "code": "B01J27/10",
+      "level": 3,
+      "parent": "B01J27/08",
+      "ja": "塩化物［２］",
+      "en": "Chlorides",
+      "count": 2418,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J27/12": {
+      "code": "B01J27/12",
+      "level": 3,
+      "parent": "B01J27/08",
+      "ja": "ふっ化物［２］",
+      "en": "Fluorides",
+      "count": 1545,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J27/122": {
+      "code": "B01J27/122",
+      "level": 3,
+      "parent": "B01J27/08",
+      "ja": "銅を有するもの［４］",
+      "en": "of copper",
+      "count": 1169,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J27/125": {
+      "code": "B01J27/125",
+      "level": 2,
+      "parent": "B01J27/06",
+      "ja": "スカンジウム，イットリウム，アルミニウム，ガリウム，インジウムまたはタリウムを有するもの［４］",
+      "en": "with scandium, yttrium, aluminium, gallium, indium or thallium",
+      "count": 1300,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J27/128": {
+      "code": "B01J27/128",
+      "level": 2,
+      "parent": "B01J27/06",
+      "ja": "鉄族金属または白金族金属を有するもの［４］",
+      "en": "with iron group metals or platinum group metals",
+      "count": 1801,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J27/13": {
+      "code": "B01J27/13",
+      "level": 3,
+      "parent": "B01J27/128",
+      "ja": "白金族金属［４］",
+      "en": "Platinum group metals",
+      "count": 1754,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J27/132": {
+      "code": "B01J27/132",
+      "level": 2,
+      "parent": "B01J27/06",
+      "ja": "クロム，モリブデン，タングステンまたはポロニウムを有するもの［４］",
+      "en": "with chromium, molybdenum, tungsten or polonium",
+      "count": 861,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J27/135": {
+      "code": "B01J27/135",
+      "level": 2,
+      "parent": "B01J27/06",
+      "ja": "チタン，ジルコニウム，ハウニウム，ゲルマニウム，すずまたは鉛を有するもの［４］",
+      "en": "with titanium, zirconium, hafnium, germanium, tin or lead",
+      "count": 1506,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J27/138": {
+      "code": "B01J27/138",
+      "level": 2,
+      "parent": "B01J27/06",
+      "ja": "アルカリ土類金属，マグネシウム，ベリウム，亜鉛，カドミウム，または水銀を有するもの［４］",
+      "en": "with alkaline earth metals, magnesium, beryllium, zinc, cadmium or mercury",
+      "count": 1898,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J27/14": {
+      "code": "B01J27/14",
+      "level": 1,
+      "parent": "B01J27/00",
+      "ja": "りん；その化合物［４］",
+      "en": "Phosphorus; Compounds thereof",
+      "count": 1149,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J27/16": {
+      "code": "B01J27/16",
+      "level": 2,
+      "parent": "B01J27/14",
+      "ja": "酸素を含有するもの［２］",
+      "en": "containing oxygen",
+      "count": 1798,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J27/18": {
+      "code": "B01J27/18",
+      "level": 3,
+      "parent": "B01J27/16",
+      "ja": "金属を有するもの［２］",
+      "en": "with metals",
+      "count": 3492,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J27/182": {
+      "code": "B01J27/182",
+      "level": 2,
+      "parent": "B01J27/14",
+      "ja": "けい素を有するもの［４］",
+      "en": "with silicon",
+      "count": 632,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J27/185": {
+      "code": "B01J27/185",
+      "level": 2,
+      "parent": "B01J27/14",
+      "ja": "鉄族金属または白金族金属を有するもの［４］",
+      "en": "with iron group metals or platinum group metals",
+      "count": 2816,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J27/186": {
+      "code": "B01J27/186",
+      "level": 2,
+      "parent": "B01J27/14",
+      "ja": "ひ素，アンチモン，ビスマス，バナジウム，ニオブ，タンタル，ポロニウム，クロム，モリブデン，タングステン，マンガン，テクネチウムまたはレニウムを有するもの［５］",
+      "en": "with arsenic, antimony, bismuth, vanadium, niobium, tantalum, polonium, chromium, molybdenum, tungsten, manganese, technetium or rhenium",
+      "count": 760,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J27/187": {
+      "code": "B01J27/187",
+      "level": 3,
+      "parent": "B01J27/186",
+      "ja": "マンガン，テクネチウムまたはレニウムを有するもの［５］",
+      "en": "with manganese, technetium or rhenium",
+      "count": 443,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J27/188": {
+      "code": "B01J27/188",
+      "level": 3,
+      "parent": "B01J27/186",
+      "ja": "クロム，モリブデン，タングステンまたはポロニウムを有するもの［４，５］",
+      "en": "with chromium, molybdenum, tungsten or polonium",
+      "count": 2368,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J27/19": {
+      "code": "B01J27/19",
+      "level": 4,
+      "parent": "B01J27/188",
+      "ja": "モリブデン［４，５］",
+      "en": "Molybdenum",
+      "count": 2596,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J27/192": {
+      "code": "B01J27/192",
+      "level": 5,
+      "parent": "B01J27/19",
+      "ja": "ビスマスを有するもの［４，５］",
+      "en": "with bismuth",
+      "count": 493,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J27/195": {
+      "code": "B01J27/195",
+      "level": 3,
+      "parent": "B01J27/186",
+      "ja": "バナジウム，ニオブまたはタンタルを有するもの［４，５］",
+      "en": "with vanadium, niobium or tantalum",
+      "count": 267,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J27/198": {
+      "code": "B01J27/198",
+      "level": 4,
+      "parent": "B01J27/195",
+      "ja": "バナジウム［４，５］",
+      "en": "Vanadium",
+      "count": 1487,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J27/199": {
+      "code": "B01J27/199",
+      "level": 5,
+      "parent": "B01J27/198",
+      "ja": "クロム，モリブデン，タングステンまたはポロニウムを有するもの［５］",
+      "en": "with chromium, molybdenum, tungsten or polonium",
+      "count": 1454,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J27/20": {
+      "code": "B01J27/20",
+      "level": 1,
+      "parent": "B01J27/00",
+      "ja": "炭素化合物［２］",
+      "en": "Carbon compounds",
+      "count": 799,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J27/22": {
+      "code": "B01J27/22",
+      "level": 2,
+      "parent": "B01J27/20",
+      "ja": "炭化物［２］",
+      "en": "Carbides",
+      "count": 2450,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J27/224": {
+      "code": "B01J27/224",
+      "level": 3,
+      "parent": "B01J27/22",
+      "ja": "炭化けい素［４］",
+      "en": "Silicon carbide",
+      "count": 1380,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J27/228": {
+      "code": "B01J27/228",
+      "level": 4,
+      "parent": "B01J27/224",
+      "ja": "りん，ひ素，アンチモンまたはビスマスを有するもの［４］",
+      "en": "with phosphorus, arsenic, antimony or bismuth",
+      "count": 122,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J27/232": {
+      "code": "B01J27/232",
+      "level": 2,
+      "parent": "B01J27/20",
+      "ja": "炭酸塩［４］",
+      "en": "Carbonates",
+      "count": 2256,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J27/236": {
+      "code": "B01J27/236",
+      "level": 3,
+      "parent": "B01J27/232",
+      "ja": "ヒドロキシ炭酸塩［４］",
+      "en": "Hydroxy carbonates",
+      "count": 381,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J27/24": {
+      "code": "B01J27/24",
+      "level": 1,
+      "parent": "B01J27/00",
+      "ja": "窒素化合物［２］",
+      "en": "Nitrogen compounds",
+      "count": 13819,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J27/25": {
+      "code": "B01J27/25",
+      "level": 2,
+      "parent": "B01J27/24",
+      "ja": "硝酸塩［４］",
+      "en": "Nitrates",
+      "count": 1118,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J27/26": {
+      "code": "B01J27/26",
+      "level": 2,
+      "parent": "B01J27/24",
+      "ja": "シアン化物［２］",
+      "en": "Cyanides",
+      "count": 509,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J27/28": {
+      "code": "B01J27/28",
+      "level": 1,
+      "parent": "B01J27/00",
+      "ja": "再生または再活性化［２］",
+      "en": "Regeneration or reactivation",
+      "count": 553,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J27/30": {
+      "code": "B01J27/30",
+      "level": 2,
+      "parent": "B01J27/28",
+      "ja": "硫黄，セレンまたはテルルの化合物からなる触媒に関するもの［２］",
+      "en": "of catalysts comprising compounds of sulfur, selenium or tellurium",
+      "count": 225,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J27/32": {
+      "code": "B01J27/32",
+      "level": 2,
+      "parent": "B01J27/28",
+      "ja": "ハロゲンの化合物からなる触媒に関するもの［２］",
+      "en": "of catalysts comprising compounds of halogens",
+      "count": 456,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J29/00": {
+      "code": "B01J29/00",
+      "level": 0,
+      "parent": "B01J",
+      "ja": "分子ふるいからなる触媒［２］<br><br><b><ul>注</ul></b><br>注［６］<br>このグループにおいて，下記の用語は以下に示す意味で用いる：<br>・“ゼオライト”は以下のものを意味する：<br>ｉ．塩基交換特性と分子ふるい特性を有する結晶性アルミノけい酸塩で，四面体酸化物単位の三次元の微小孔の格子骨格構造を有するもの；<br>ｉｉ．上記ｉと同形の化合物であって，骨格の中のアルミニウムあるいはけい素原子が部分的または全部，他の元素の原子，例．ガリウム，ゲルマニウム，りんまたはほう素，と置換されるもの。",
+      "en": "Catalysts comprising molecular sieves; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this group, the following term is used with the meaning indicated:<ul><li>\"zeolites\" means: <ul><li>crystalline aluminosilicates with base-exchange and molecular sieve properties, having three-dimensional [3D], microporous lattice framework structure of tetrahedral oxide units;</li><li>compounds isomorphous to those of the former category, wherein the aluminium or silicon atoms in the framework are partly or wholly replaced by atoms of other elements, e.g. by gallium, germanium, phosphorus or boron.</li></ul></li></ul></li></ul>",
+      "count": 3536,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J29/03": {
+      "code": "B01J29/03",
+      "level": 1,
+      "parent": "B01J29/00",
+      "ja": "塩基交換特性を有しないもの［６］",
+      "en": "not having base-exchange properties",
+      "count": 2335,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J29/035": {
+      "code": "B01J29/035",
+      "level": 2,
+      "parent": "B01J29/03",
+      "ja": "結晶性シリカ多形体，例．シリカライト［６］",
+      "en": "Crystalline silica polymorphs, e.g. silicalites",
+      "count": 1246,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J29/04": {
+      "code": "B01J29/04",
+      "level": 1,
+      "parent": "B01J29/00",
+      "ja": "塩基交換特性を有するもの，例．結晶性ゼオライト，ピラードクレイ［２，６］",
+      "en": "having base-exchange properties, e.g. crystalline zeolites, pillared clays",
+      "count": 3988,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J29/06": {
+      "code": "B01J29/06",
+      "level": 2,
+      "parent": "B01J29/04",
+      "ja": "結晶性アルミニウムけい酸塩ゼオライト；その同形化合物［２］",
+      "en": "Crystalline aluminosilicate zeolites; Isomorphous compounds thereof",
+      "count": 5359,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J29/064": {
+      "code": "B01J29/064",
+      "level": 3,
+      "parent": "B01J29/06",
+      "ja": "鉄族金属，貴金属または銅を含有するもの［６］",
+      "en": "containing iron group metals, noble metals or copper",
+      "count": 493,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J29/068": {
+      "code": "B01J29/068",
+      "level": 4,
+      "parent": "B01J29/064",
+      "ja": "貴金属［６］",
+      "en": "Noble metals",
+      "count": 1176,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J29/072": {
+      "code": "B01J29/072",
+      "level": 4,
+      "parent": "B01J29/064",
+      "ja": "鉄族金属または銅［６］",
+      "en": "Iron group metals or copper",
+      "count": 1211,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J29/076": {
+      "code": "B01J29/076",
+      "level": 3,
+      "parent": "B01J29/06",
+      "ja": "ひ素，アンチモン，ビスマス，バナジウム，ニオブ，タンタル，ポロニウム，クロム，モリブデン，タングステン，マンガン，テクネチウムまたはレニウムを含有するもの［６］",
+      "en": "containing arsenic, antimony, bismuth, vanadium, niobium, tantalum, polonium, chromium, molybdenum, tungsten, manganese, technetium or rhenium",
+      "count": 883,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J29/08": {
+      "code": "B01J29/08",
+      "level": 3,
+      "parent": "B01J29/06",
+      "ja": "フォージャサイト型のもの，例．ＸまたはＹ型［２］",
+      "en": "of the faujasite type, e.g. type X or Y",
+      "count": 4906,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J29/10": {
+      "code": "B01J29/10",
+      "level": 4,
+      "parent": "B01J29/08",
+      "ja": "鉄族金属，貴金属または銅を含有するもの［２］",
+      "en": "containing iron group metals, noble metals or copper",
+      "count": 398,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J29/12": {
+      "code": "B01J29/12",
+      "level": 5,
+      "parent": "B01J29/10",
+      "ja": "貴金属［２］",
+      "en": "Noble metals",
+      "count": 1087,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J29/14": {
+      "code": "B01J29/14",
+      "level": 5,
+      "parent": "B01J29/10",
+      "ja": "鉄族金属または銅［２］",
+      "en": "Iron group metals or copper",
+      "count": 1270,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J29/16": {
+      "code": "B01J29/16",
+      "level": 4,
+      "parent": "B01J29/08",
+      "ja": "ひ素，アンチモン，ビスマス，バナジウム，ニオブ，タンタル，ポロニウム，クロム，モリブデン，タングステン，マンガン，テクネチウムまたはレニウムを含有するもの［２］",
+      "en": "containing arsenic, antimony, bismuth, vanadium, niobium, tantalum, polonium, chromium, molybdenum, tungsten, manganese, technetium or rhenium",
+      "count": 1854,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J29/18": {
+      "code": "B01J29/18",
+      "level": 3,
+      "parent": "B01J29/06",
+      "ja": "モルデナイト型のもの［２］",
+      "en": "of the mordenite type",
+      "count": 1546,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J29/20": {
+      "code": "B01J29/20",
+      "level": 4,
+      "parent": "B01J29/18",
+      "ja": "鉄族金属，貴金属または銅を含有するもの［２］",
+      "en": "containing iron group metals, noble metals or copper",
+      "count": 191,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J29/22": {
+      "code": "B01J29/22",
+      "level": 5,
+      "parent": "B01J29/20",
+      "ja": "貴金属［２］",
+      "en": "Noble metals",
+      "count": 593,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J29/24": {
+      "code": "B01J29/24",
+      "level": 5,
+      "parent": "B01J29/20",
+      "ja": "鉄族金属または銅［２］",
+      "en": "Iron group metals or copper",
+      "count": 572,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J29/26": {
+      "code": "B01J29/26",
+      "level": 4,
+      "parent": "B01J29/18",
+      "ja": "ひ素，アンチモン，ビスマス，バナジウム，ニオブ，タンタル，ポロニウム，クロム，モリブデン，タングステン，マンガン，テクネチウムまたはレニウムを含有するもの［２］",
+      "en": "containing arsenic, antimony, bismuth, vanadium, niobium, tantalum, polonium, chromium, molybdenum, tungsten, manganese, technetium or rhenium",
+      "count": 477,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J29/40": {
+      "code": "B01J29/40",
+      "level": 3,
+      "parent": "B01J29/06",
+      "ja": "ペンタシル型の，例．ＺＳＭ－５，ＺＳＭ－８またはＺＳＭ－１１型［６］",
+      "en": "of the pentasil type, e.g. types ZSM-5, ZSM-8 or ZSM-11",
+      "count": 6402,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J29/42": {
+      "code": "B01J29/42",
+      "level": 4,
+      "parent": "B01J29/40",
+      "ja": "鉄族金属，貴金属または銅を含有するもの［６］",
+      "en": "containing iron group metals, noble metals or copper",
+      "count": 299,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J29/44": {
+      "code": "B01J29/44",
+      "level": 5,
+      "parent": "B01J29/42",
+      "ja": "貴金属［６］",
+      "en": "Noble metals",
+      "count": 1796,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J29/46": {
+      "code": "B01J29/46",
+      "level": 5,
+      "parent": "B01J29/42",
+      "ja": "鉄族金属または銅［６］",
+      "en": "Iron group metals or copper",
+      "count": 2915,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J29/48": {
+      "code": "B01J29/48",
+      "level": 4,
+      "parent": "B01J29/40",
+      "ja": "ひ素，アンチモン，ビスマス，バナジウム，ニオブ，タンタル，ポロニウム，クロム，モリブデン，タングステン，マンガン，テクネチウムまたはレニウムを含有するもの［６］",
+      "en": "containing arsenic, antimony, bismuth, vanadium, niobium, tantalum, polonium, chromium, molybdenum, tungsten, manganese, technetium or rhenium",
+      "count": 2259,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J29/50": {
+      "code": "B01J29/50",
+      "level": 3,
+      "parent": "B01J29/06",
+      "ja": "エリオナイトまたはオフレタイト型の，例．ゼオライトＴ［６］",
+      "en": "of the erionite or offretite type, e.g. zeolite T",
+      "count": 249,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J29/52": {
+      "code": "B01J29/52",
+      "level": 4,
+      "parent": "B01J29/50",
+      "ja": "鉄族金属，貴金属または銅を含有するもの［６］",
+      "en": "containing iron group metals, noble metals or copper",
+      "count": 30,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J29/54": {
+      "code": "B01J29/54",
+      "level": 5,
+      "parent": "B01J29/52",
+      "ja": "貴金属［６］",
+      "en": "Noble metals",
+      "count": 70,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J29/56": {
+      "code": "B01J29/56",
+      "level": 5,
+      "parent": "B01J29/52",
+      "ja": "鉄族金属または銅［６］",
+      "en": "Iron group metals or copper",
+      "count": 109,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J29/58": {
+      "code": "B01J29/58",
+      "level": 4,
+      "parent": "B01J29/50",
+      "ja": "ひ素，アンチモン，ビスマス，バナジウム，ニオブ，タンタル，ポロニウム，クロム，モリブデン，タングステン，マンガン，テクネチウムまたはレニウムを含有するもの［６］",
+      "en": "containing arsenic, antimony, bismuth, vanadium, niobium, tantalum, polonium, chromium, molybdenum, tungsten, manganese, technetium or rhenium",
+      "count": 45,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J29/60": {
+      "code": "B01J29/60",
+      "level": 3,
+      "parent": "B01J29/06",
+      "ja": "Ｌ型の［６］",
+      "en": "of the type L",
+      "count": 288,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J29/61": {
+      "code": "B01J29/61",
+      "level": 4,
+      "parent": "B01J29/60",
+      "ja": "鉄族金属，貴金属または銅を含有するもの［６］",
+      "en": "containing iron group metals, noble metals or copper",
+      "count": 52,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J29/62": {
+      "code": "B01J29/62",
+      "level": 5,
+      "parent": "B01J29/61",
+      "ja": "貴金属［６］",
+      "en": "Noble metals",
+      "count": 260,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J29/63": {
+      "code": "B01J29/63",
+      "level": 5,
+      "parent": "B01J29/61",
+      "ja": "鉄族金属または銅［６］",
+      "en": "Iron group metals or copper",
+      "count": 52,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J29/64": {
+      "code": "B01J29/64",
+      "level": 4,
+      "parent": "B01J29/60",
+      "ja": "ひ素，アンチモン，ビスマス，バナジウム，ニオブ，タンタル，ポロニウム，クロム，モリブデン，タングステン，マンガン，テクネチウムまたはレニウムを含有するもの［６］",
+      "en": "containing arsenic, antimony, bismuth, vanadium, niobium, tantalum, polonium, chromium, molybdenum, tungsten, manganese, technetium or rhenium",
+      "count": 63,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J29/65": {
+      "code": "B01J29/65",
+      "level": 3,
+      "parent": "B01J29/06",
+      "ja": "フェリエライト型の，例．ＺＳＭ－２１，ＺＳＭ－３５，またはＺＳＭ－３８型［６］",
+      "en": "of the ferrierite type, e.g. types ZSM-21, ZSM-35 or ZSM-38",
+      "count": 805,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J29/66": {
+      "code": "B01J29/66",
+      "level": 4,
+      "parent": "B01J29/65",
+      "ja": "鉄族金属，貴金属または銅を含有するもの［６］",
+      "en": "containing iron group metals, noble metals or copper",
+      "count": 50,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J29/67": {
+      "code": "B01J29/67",
+      "level": 5,
+      "parent": "B01J29/66",
+      "ja": "貴金属［６］",
+      "en": "Noble metals",
+      "count": 185,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J29/68": {
+      "code": "B01J29/68",
+      "level": 5,
+      "parent": "B01J29/66",
+      "ja": "鉄族金属または銅［６］",
+      "en": "Iron group metals or copper",
+      "count": 227,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J29/69": {
+      "code": "B01J29/69",
+      "level": 4,
+      "parent": "B01J29/65",
+      "ja": "ひ素，アンチモン，ビスマス，バナジウム，ニオブ，タンタル，ポロニウム，クロム，モリブデン，タングステン，マンガン，テクネチウムまたはレニウムを含有するもの［６］",
+      "en": "containing arsenic, antimony, bismuth, vanadium, niobium, tantalum, polonium, chromium, molybdenum, tungsten, manganese, technetium or rhenium",
+      "count": 113,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J29/70": {
+      "code": "B01J29/70",
+      "level": 3,
+      "parent": "B01J29/06",
+      "ja": "グループＢ０１Ｊ２９／０８～Ｂ０１Ｊ２９／６５までに分類されない，その特定の構造に特徴のある型の［６］",
+      "en": "of types characterised by their specific structure not provided for in groups <b>B01J29/08 to B01J29/65</b> ",
+      "count": 6090,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J29/72": {
+      "code": "B01J29/72",
+      "level": 4,
+      "parent": "B01J29/70",
+      "ja": "鉄族金属，貴金属または銅を含有するもの［６］",
+      "en": "containing iron group metals, noble metals or copper",
+      "count": 676,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J29/74": {
+      "code": "B01J29/74",
+      "level": 5,
+      "parent": "B01J29/72",
+      "ja": "貴金属［６］",
+      "en": "Noble metals",
+      "count": 2156,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J29/76": {
+      "code": "B01J29/76",
+      "level": 5,
+      "parent": "B01J29/72",
+      "ja": "鉄族金属または銅［６］",
+      "en": "Iron group metals or copper",
+      "count": 2968,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J29/78": {
+      "code": "B01J29/78",
+      "level": 4,
+      "parent": "B01J29/70",
+      "ja": "ひ素，アンチモン，ビスマス，バナジウム，ニオブ，タンタル，ポロニウム，クロム，モリブデン，タングステン，マンガン，テクネチウムまたはレニウムを含有するもの［６］",
+      "en": "containing arsenic, antimony, bismuth, vanadium, niobium, tantalum, polonium, chromium, molybdenum, tungsten, manganese, technetium or rhenium",
+      "count": 1908,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J29/80": {
+      "code": "B01J29/80",
+      "level": 3,
+      "parent": "B01J29/06",
+      "ja": "種々のゼオライトの混合物［６］",
+      "en": "Mixtures of different zeolites",
+      "count": 2919,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J29/82": {
+      "code": "B01J29/82",
+      "level": 1,
+      "parent": "B01J29/00",
+      "ja": "りん酸塩［６］",
+      "en": "Phosphates",
+      "count": 271,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J29/83": {
+      "code": "B01J29/83",
+      "level": 2,
+      "parent": "B01J29/82",
+      "ja": "アルミノりん酸塩［ＡＰＯ化合物］［２００６．０１］",
+      "en": "Aluminophosphates [APO compounds]",
+      "count": 512,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J29/84": {
+      "code": "B01J29/84",
+      "level": 2,
+      "parent": "B01J29/82",
+      "ja": "他の元素，例．金属，ほう素，を含むアルミノりん酸塩［６］",
+      "en": "Aluminophosphates containing other elements, e.g. metals, boron",
+      "count": 517,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J29/85": {
+      "code": "B01J29/85",
+      "level": 3,
+      "parent": "B01J29/84",
+      "ja": "シリコアルミノりん酸塩［ＳＡＰＯ化合物］［２００６．０１］",
+      "en": "Silicoaluminophosphates [SAPO compounds]",
+      "count": 3345,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J29/86": {
+      "code": "B01J29/86",
+      "level": 1,
+      "parent": "B01J29/00",
+      "ja": "ボロけい酸塩；アルミノボロけい酸塩［６］",
+      "en": "Borosilicates; Aluminoborosilicates",
+      "count": 600,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J29/87": {
+      "code": "B01J29/87",
+      "level": 1,
+      "parent": "B01J29/00",
+      "ja": "ガロけい酸塩；アルミノガロけい酸塩；ガロボロけい酸塩［６］",
+      "en": "Gallosilicates; Aluminogallosilicates; Galloborosilicates",
+      "count": 580,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J29/88": {
+      "code": "B01J29/88",
+      "level": 1,
+      "parent": "B01J29/00",
+      "ja": "フェロけい酸塩；フェロアルミノけい酸塩［６］",
+      "en": "Ferrosilicates; Ferroaluminosilicates",
+      "count": 458,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J29/89": {
+      "code": "B01J29/89",
+      "level": 1,
+      "parent": "B01J29/00",
+      "ja": "チタン，ジルコニウムまたはハフニウムのけい酸塩，アルミノけい酸塩またはボロけい酸塩［６］",
+      "en": "Silicates, aluminosilicates or borosilicates of titanium, zirconium or hafnium",
+      "count": 2606,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J29/90": {
+      "code": "B01J29/90",
+      "level": 1,
+      "parent": "B01J29/00",
+      "ja": "再生または再活性化［６］",
+      "en": "Regeneration or reactivation",
+      "count": 1664,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J31/00": {
+      "code": "B01J31/00",
+      "level": 0,
+      "parent": "B01J",
+      "ja": "水素化物，配位錯体または有機化合物からなる触媒（重合反応においてのみ使用される触媒組成物Ｃ０８）［２］<br><br><b><ul>注</ul></b><br>このグループにおいては，水の存在は分類目的のために無視される。［２］",
+      "en": "Catalysts comprising hydrides, coordination complexes or organic compounds(catalyst compositions used only in polymerisation reactions <b>C08</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>In this group, the presence of water is disregarded for classification purposes. </li></ul>",
+      "count": 10514,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J31/02": {
+      "code": "B01J31/02",
+      "level": 1,
+      "parent": "B01J31/00",
+      "ja": "有機化合物または金属水素化物を含有するもの［２］",
+      "en": "containing organic compounds or metal hydrides",
+      "count": 17647,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J31/04": {
+      "code": "B01J31/04",
+      "level": 2,
+      "parent": "B01J31/02",
+      "ja": "カルボン酸またはその塩を含有するもの［２］",
+      "en": "containing carboxylic acids or their salts",
+      "count": 5088,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J31/06": {
+      "code": "B01J31/06",
+      "level": 2,
+      "parent": "B01J31/02",
+      "ja": "重合体を含有するもの［２］",
+      "en": "containing polymers",
+      "count": 6928,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J31/08": {
+      "code": "B01J31/08",
+      "level": 3,
+      "parent": "B01J31/06",
+      "ja": "イオン交換樹脂［２］",
+      "en": "Ion-exchange resins",
+      "count": 1812,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J31/10": {
+      "code": "B01J31/10",
+      "level": 4,
+      "parent": "B01J31/08",
+      "ja": "スルホン化されたもの［２］",
+      "en": "sulfonated",
+      "count": 1795,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J31/12": {
+      "code": "B01J31/12",
+      "level": 2,
+      "parent": "B01J31/02",
+      "ja": "有機金属化合物または金属水素化物を含有するもの［２］",
+      "en": "containing organo-metallic compounds or metal hydrides",
+      "count": 3946,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J31/14": {
+      "code": "B01J31/14",
+      "level": 3,
+      "parent": "B01J31/12",
+      "ja": "アルミニウムまたはほう素に関するもの［２］",
+      "en": "of aluminium or boron",
+      "count": 2264,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J31/16": {
+      "code": "B01J31/16",
+      "level": 1,
+      "parent": "B01J31/00",
+      "ja": "配位錯体を含有するもの［２］",
+      "en": "containing coordination complexes",
+      "count": 3996,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J31/18": {
+      "code": "B01J31/18",
+      "level": 2,
+      "parent": "B01J31/16",
+      "ja": "窒素，りん，ひ素またはアンチモンを含有するもの［２］",
+      "en": "containing nitrogen, phosphorus, arsenic or antimony",
+      "count": 5607,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J31/20": {
+      "code": "B01J31/20",
+      "level": 2,
+      "parent": "B01J31/16",
+      "ja": "カルボニル［２］",
+      "en": "Carbonyls",
+      "count": 1699,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J31/22": {
+      "code": "B01J31/22",
+      "level": 2,
+      "parent": "B01J31/16",
+      "ja": "有機錯体［２］",
+      "en": "Organic complexes",
+      "count": 18158,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J31/24": {
+      "code": "B01J31/24",
+      "level": 2,
+      "parent": "B01J31/16",
+      "ja": "ホスフィン［２］",
+      "en": "Phosphines",
+      "count": 7498,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J31/26": {
+      "code": "B01J31/26",
+      "level": 1,
+      "parent": "B01J31/00",
+      "ja": "グループＢ０１Ｊ３１／０２～Ｂ０１Ｊ３１／２４までに分類されない無機金属化合物をさらに含有するもの［２］",
+      "en": "containing in addition, inorganic metal compounds not provided for in groups <b>B01J31/02 to B01J31/24</b> ",
+      "count": 4360,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J31/28": {
+      "code": "B01J31/28",
+      "level": 2,
+      "parent": "B01J31/26",
+      "ja": "白金族金属，鉄族金属または銅に関するもの［２］",
+      "en": "of the platinum group metals, iron group metals or copper",
+      "count": 4525,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J31/30": {
+      "code": "B01J31/30",
+      "level": 3,
+      "parent": "B01J31/28",
+      "ja": "ハロゲン化物［２］",
+      "en": "Halides",
+      "count": 1286,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J31/32": {
+      "code": "B01J31/32",
+      "level": 2,
+      "parent": "B01J31/26",
+      "ja": "マンガン，テクニチウムまたはレニウムに関するもの［２］",
+      "en": "of manganese, technetium or rhenium",
+      "count": 659,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J31/34": {
+      "code": "B01J31/34",
+      "level": 2,
+      "parent": "B01J31/26",
+      "ja": "クロム，モリブデン，またはタングステンに関するもの［２］",
+      "en": "of chromium, molybdenum or tungsten",
+      "count": 1519,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J31/36": {
+      "code": "B01J31/36",
+      "level": 2,
+      "parent": "B01J31/26",
+      "ja": "バナジウム，ニオブまたはタンタルに関するもの［２］",
+      "en": "of vanadium, niobium or tantalum",
+      "count": 457,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J31/38": {
+      "code": "B01J31/38",
+      "level": 2,
+      "parent": "B01J31/26",
+      "ja": "チタン，ジルコニウムまたはハフニウムに関するもの［２］",
+      "en": "of titanium, zirconium or hafnium",
+      "count": 3134,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J31/40": {
+      "code": "B01J31/40",
+      "level": 1,
+      "parent": "B01J31/00",
+      "ja": "再生または再活性化［２］",
+      "en": "Regeneration or reactivation",
+      "count": 1523,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J32/00": {
+      "code": "B01J32/00",
+      "level": 0,
+      "parent": "B01J",
+      "ja": "触媒担体一般［４］",
+      "en": "Catalyst carriers in general",
+      "count": 9952,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J33/00": {
+      "code": "B01J33/00",
+      "level": 0,
+      "parent": "B01J",
+      "ja": "触媒の保護，例．被覆によるもの［２］",
+      "en": "Protection of catalysts, e.g. by coating",
+      "count": 2436,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J35/00": {
+      "code": "B01J35/00",
+      "level": 0,
+      "parent": "B01J",
+      "ja": "形態または物理的性質に特徴のある触媒一般［２０２４．０１］",
+      "en": "Catalysts, in general, characterised by their form or physical properties",
+      "count": 35483,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J35/20": {
+      "code": "B01J35/20",
+      "level": 1,
+      "parent": "B01J35/00",
+      "ja": "非固体であることに特徴のあるもの［２０２４．０１］",
+      "en": "characterised by their non-solid state",
+      "count": 11,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J35/23": {
+      "code": "B01J35/23",
+      "level": 2,
+      "parent": "B01J35/20",
+      "ja": "コロイド状のもの［２０２４．０１］",
+      "en": "in a colloidal state",
+      "count": 420,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J35/27": {
+      "code": "B01J35/27",
+      "level": 2,
+      "parent": "B01J35/20",
+      "ja": "液状または溶融状態にあるもの［２０２４．０１］",
+      "en": "in a liquid or molten state",
+      "count": 670,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J35/30": {
+      "code": "B01J35/30",
+      "level": 1,
+      "parent": "B01J35/00",
+      "ja": "物理的性質に特徴のあるもの［２０２４．０１］",
+      "en": "characterised by their physical properties",
+      "count": 3140,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J35/31": {
+      "code": "B01J35/31",
+      "level": 2,
+      "parent": "B01J35/30",
+      "ja": "密度［２０２４．０１］",
+      "en": "Density",
+      "count": 182,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J35/32": {
+      "code": "B01J35/32",
+      "level": 3,
+      "parent": "B01J35/31",
+      "ja": "かさ密度［２０２４．０１］",
+      "en": "Bulk density",
+      "count": 127,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J35/33": {
+      "code": "B01J35/33",
+      "level": 2,
+      "parent": "B01J35/30",
+      "ja": "電気的または磁気的性質［２０２４．０１］",
+      "en": "Electric or magnetic properties",
+      "count": 2018,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J35/34": {
+      "code": "B01J35/34",
+      "level": 2,
+      "parent": "B01J35/30",
+      "ja": "機械的性質［２０２４．０１］",
+      "en": "Mechanical properties",
+      "count": 113,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J35/36": {
+      "code": "B01J35/36",
+      "level": 3,
+      "parent": "B01J35/34",
+      "ja": "機械的強度［２０２４．０１］",
+      "en": "Mechanical strength",
+      "count": 279,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J35/37": {
+      "code": "B01J35/37",
+      "level": 3,
+      "parent": "B01J35/34",
+      "ja": "破砕強度または衝撃強度［２０２４．０１］",
+      "en": "Crush or impact strength",
+      "count": 176,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J35/38": {
+      "code": "B01J35/38",
+      "level": 3,
+      "parent": "B01J35/34",
+      "ja": "耐摩耗性または耐損耗性［２０２４．０１］",
+      "en": "Abrasion or attrition resistance",
+      "count": 105,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J35/39": {
+      "code": "B01J35/39",
+      "level": 2,
+      "parent": "B01J35/30",
+      "ja": "光触媒［２０２４．０１］",
+      "en": "Photocatalytic properties",
+      "count": 6694,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J35/40": {
+      "code": "B01J35/40",
+      "level": 1,
+      "parent": "B01J35/00",
+      "ja": "寸法に特徴のあるもの，例．粒径（コロイド状のものＢ０１Ｊ３５／２３；結晶サイズＢ０１Ｊ３５／７７）［２０２４．０１］",
+      "en": "characterised by dimensions, e.g. grain size(in a colloidal state <b>B01J35/23</b>; crystallite size <b>B01J35/77</b>)",
+      "count": 2908,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J35/45": {
+      "code": "B01J35/45",
+      "level": 2,
+      "parent": "B01J35/40",
+      "ja": "ナノ粒子［２０２４．０１］",
+      "en": "Nanoparticles",
+      "count": 2184,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J35/50": {
+      "code": "B01J35/50",
+      "level": 1,
+      "parent": "B01J35/00",
+      "ja": "形または配置構造に特徴のあるもの［２０２４．０１］",
+      "en": "characterised by their shape or configuration",
+      "count": 2503,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J35/51": {
+      "code": "B01J35/51",
+      "level": 2,
+      "parent": "B01J35/50",
+      "ja": "球状のもの［２０２４．０１］",
+      "en": "Spheres",
+      "count": 1723,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J35/52": {
+      "code": "B01J35/52",
+      "level": 3,
+      "parent": "B01J35/51",
+      "ja": "中空球状のもの［２０２４．０１］",
+      "en": "Hollow spheres",
+      "count": 325,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J35/53": {
+      "code": "B01J35/53",
+      "level": 3,
+      "parent": "B01J35/51",
+      "ja": "コアーシェル構造を有するもの［２０２４．０１］",
+      "en": "with a core-shell structure",
+      "count": 427,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J35/54": {
+      "code": "B01J35/54",
+      "level": 2,
+      "parent": "B01J35/50",
+      "ja": "棒状または板状のもの［２０２４．０１］",
+      "en": "Bars or plates",
+      "count": 310,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J35/55": {
+      "code": "B01J35/55",
+      "level": 2,
+      "parent": "B01J35/50",
+      "ja": "筒状またはリング状のもの［２０２４．０１］",
+      "en": "Cylinders or rings",
+      "count": 192,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J35/56": {
+      "code": "B01J35/56",
+      "level": 2,
+      "parent": "B01J35/50",
+      "ja": "貫流路またはチャネルを有する小孔構造，例．グリッド状または三次元モノリス状のもの［２０２４．０１］",
+      "en": "Foraminous structures having flow-through passages or channels, e.g. grids or three-dimensional [3D] monoliths",
+      "count": 1031,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J35/57": {
+      "code": "B01J35/57",
+      "level": 3,
+      "parent": "B01J35/56",
+      "ja": "ハニカム状のもの［２０２４．０１］",
+      "en": "Honeycombs",
+      "count": 1262,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J35/58": {
+      "code": "B01J35/58",
+      "level": 2,
+      "parent": "B01J35/50",
+      "ja": "織物状またはフィラメント状のもの［２０２４．０１］",
+      "en": "Fabrics or filaments",
+      "count": 794,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J35/59": {
+      "code": "B01J35/59",
+      "level": 3,
+      "parent": "B01J35/58",
+      "ja": "膜［２０２４．０１］",
+      "en": "Membranes",
+      "count": 338,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J35/60": {
+      "code": "B01J35/60",
+      "level": 1,
+      "parent": "B01J35/00",
+      "ja": "表面特性または多孔性に特徴のあるもの［２０２４．０１］",
+      "en": "characterised by their surface properties or porosity",
+      "count": 1723,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J35/61": {
+      "code": "B01J35/61",
+      "level": 2,
+      "parent": "B01J35/60",
+      "ja": "表面積［２０２４．０１］",
+      "en": "Surface area",
+      "count": 6804,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J35/63": {
+      "code": "B01J35/63",
+      "level": 2,
+      "parent": "B01J35/60",
+      "ja": "細孔容積［２０２４．０１］",
+      "en": "Pore volume",
+      "count": 3176,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J35/64": {
+      "code": "B01J35/64",
+      "level": 2,
+      "parent": "B01J35/60",
+      "ja": "細孔径［２０２４．０１］",
+      "en": "Pore diameter",
+      "count": 3783,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J35/66": {
+      "code": "B01J35/66",
+      "level": 2,
+      "parent": "B01J35/60",
+      "ja": "細孔分布［２０２４．０１］",
+      "en": "Pore distribution",
+      "count": 625,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J35/67": {
+      "code": "B01J35/67",
+      "level": 3,
+      "parent": "B01J35/66",
+      "ja": "単峰性［２０２４．０１］",
+      "en": "monomodal",
+      "count": 41,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J35/69": {
+      "code": "B01J35/69",
+      "level": 3,
+      "parent": "B01J35/66",
+      "ja": "二峰性［２０２４．０１］",
+      "en": "bimodal",
+      "count": 161,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J35/70": {
+      "code": "B01J35/70",
+      "level": 1,
+      "parent": "B01J35/00",
+      "ja": "結晶の性質に特徴のあるもの，例．半結晶性（炭素を含む触媒Ｂ０１Ｊ２１／１８；分子ふるいＢ０１Ｊ２９／００）［２０２４．０１］",
+      "en": "characterised by their crystalline properties, e.g. semi-crystalline(catalysts comprising carbon <b>B01J21/18</b>; molecular sieves <b>B01J29/00</b>)",
+      "count": 603,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J35/73": {
+      "code": "B01J35/73",
+      "level": 2,
+      "parent": "B01J35/70",
+      "ja": "二次元層状結晶構造を有するもの，例．層状複水酸化物［ＬＤＨ］［２０２４．０１］",
+      "en": "having a two-dimensional [2D] layered crystalline structure, e.g. layered double hydroxide [LDH]",
+      "count": 88,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J35/77": {
+      "code": "B01J35/77",
+      "level": 2,
+      "parent": "B01J35/70",
+      "ja": "結晶サイズに特徴のある化合物［２０２４．０１］",
+      "en": "Compounds characterised by their crystallite size",
+      "count": 127,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J35/80": {
+      "code": "B01J35/80",
+      "level": 1,
+      "parent": "B01J35/00",
+      "ja": "非結晶構造に特徴のあるもの［２０２４．０１］",
+      "en": "characterised by their amorphous structures",
+      "count": 50,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J37/00": {
+      "code": "B01J37/00",
+      "level": 0,
+      "parent": "B01J",
+      "ja": "触媒調製のためのプロセス一般；触媒の活性化のためのプロセス一般［４］",
+      "en": "Processes, in general, for preparing catalysts; Processes, in general, for activation of catalysts",
+      "count": 15966,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J37/02": {
+      "code": "B01J37/02",
+      "level": 1,
+      "parent": "B01J37/00",
+      "ja": "含浸，被覆または沈澱（被覆による保護Ｂ０１Ｊ３３／００）［２］",
+      "en": "Impregnation, coating or precipitation(protecting by coating <b>B01J33/00</b>)",
+      "count": 30394,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J37/025": {
+      "code": "B01J37/025",
+      "level": 2,
+      "parent": "B01J37/02",
+      "ja": "別個の中間層，例．基板支持活性層，を用いるもの［６］",
+      "en": "using a distinct intermediate layer, e.g. substrate-support-active layer",
+      "count": 461,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J37/03": {
+      "code": "B01J37/03",
+      "level": 2,
+      "parent": "B01J37/02",
+      "ja": "沈澱；共沈［４］",
+      "en": "Precipitation; Co-precipitation",
+      "count": 10730,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J37/04": {
+      "code": "B01J37/04",
+      "level": 1,
+      "parent": "B01J37/00",
+      "ja": "混合［２］",
+      "en": "Mixing",
+      "count": 8054,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J37/06": {
+      "code": "B01J37/06",
+      "level": 1,
+      "parent": "B01J37/00",
+      "ja": "洗浄［２］",
+      "en": "Washing",
+      "count": 2572,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J37/08": {
+      "code": "B01J37/08",
+      "level": 1,
+      "parent": "B01J37/00",
+      "ja": "熱処理［２］",
+      "en": "Heat treatment",
+      "count": 26232,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J37/10": {
+      "code": "B01J37/10",
+      "level": 2,
+      "parent": "B01J37/08",
+      "ja": "水の存在中，例．蒸気［２］",
+      "en": "in the presence of water, e.g. steam",
+      "count": 8313,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J37/12": {
+      "code": "B01J37/12",
+      "level": 1,
+      "parent": "B01J37/00",
+      "ja": "酸化［２］",
+      "en": "Oxidising",
+      "count": 1201,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J37/14": {
+      "code": "B01J37/14",
+      "level": 2,
+      "parent": "B01J37/12",
+      "ja": "遊離した酸素を含有するガスによるもの［２］",
+      "en": "with gases containing free oxygen",
+      "count": 910,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J37/16": {
+      "code": "B01J37/16",
+      "level": 1,
+      "parent": "B01J37/00",
+      "ja": "還元［２］",
+      "en": "Reducing",
+      "count": 5399,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J37/18": {
+      "code": "B01J37/18",
+      "level": 2,
+      "parent": "B01J37/16",
+      "ja": "遊離した水素を含有するガスによるもの［２］",
+      "en": "with gases containing free hydrogen",
+      "count": 4793,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J37/20": {
+      "code": "B01J37/20",
+      "level": 1,
+      "parent": "B01J37/00",
+      "ja": "硫化［２］",
+      "en": "Sulfiding",
+      "count": 2372,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J37/22": {
+      "code": "B01J37/22",
+      "level": 1,
+      "parent": "B01J37/00",
+      "ja": "ハロゲン化［２］",
+      "en": "Halogenating",
+      "count": 331,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J37/24": {
+      "code": "B01J37/24",
+      "level": 2,
+      "parent": "B01J37/22",
+      "ja": "塩素化［２］",
+      "en": "Chlorinating",
+      "count": 275,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J37/26": {
+      "code": "B01J37/26",
+      "level": 2,
+      "parent": "B01J37/22",
+      "ja": "ふっ素化［２］",
+      "en": "Fluorinating",
+      "count": 523,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J37/28": {
+      "code": "B01J37/28",
+      "level": 1,
+      "parent": "B01J37/00",
+      "ja": "りん化［２］",
+      "en": "Phosphorising",
+      "count": 666,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J37/30": {
+      "code": "B01J37/30",
+      "level": 1,
+      "parent": "B01J37/00",
+      "ja": "イオン交換［２］",
+      "en": "Ion-exchange",
+      "count": 2205,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J37/32": {
+      "code": "B01J37/32",
+      "level": 1,
+      "parent": "B01J37/00",
+      "ja": "凍結乾燥，すなわち凍結真空乾燥［２］",
+      "en": "Freeze drying, i.e. lyophilisation",
+      "count": 560,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J37/34": {
+      "code": "B01J37/34",
+      "level": 1,
+      "parent": "B01J37/00",
+      "ja": "電気，磁気または波動エネルギー，例．超音波，の照射または適用［２００６．０１］",
+      "en": "Irradiation by, or application of, electric, magnetic or wave energy, e.g. ultrasonic waves",
+      "count": 8004,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J37/36": {
+      "code": "B01J37/36",
+      "level": 1,
+      "parent": "B01J37/00",
+      "ja": "生化学的方法［２］",
+      "en": "Biochemical methods",
+      "count": 153,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J38/00": {
+      "code": "B01J38/00",
+      "level": 0,
+      "parent": "B01J",
+      "ja": "触媒の再生または再活性化一般［４］",
+      "en": "Regeneration or reactivation of catalysts, in general",
+      "count": 2760,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J38/02": {
+      "code": "B01J38/02",
+      "level": 1,
+      "parent": "B01J38/00",
+      "ja": "熱処理［４］",
+      "en": "Heat treatment",
+      "count": 2236,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J38/04": {
+      "code": "B01J38/04",
+      "level": 1,
+      "parent": "B01J38/00",
+      "ja": "ガスまたは蒸気処理；使用済触媒と接触するとき気化する液体を用いる処理［４］",
+      "en": "Gas or vapour treating; Treating by using liquids vaporisable upon contacting spent catalyst",
+      "count": 1206,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J38/06": {
+      "code": "B01J38/06",
+      "level": 2,
+      "parent": "B01J38/04",
+      "ja": "蒸気を用いるもの［４］",
+      "en": "using steam",
+      "count": 518,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J38/08": {
+      "code": "B01J38/08",
+      "level": 2,
+      "parent": "B01J38/04",
+      "ja": "アンモニアまたはその誘導体を用いるもの［４］",
+      "en": "using ammonia or derivatives thereof",
+      "count": 137,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J38/10": {
+      "code": "B01J38/10",
+      "level": 2,
+      "parent": "B01J38/04",
+      "ja": "水素を用いるもの［４］",
+      "en": "using elemental hydrogen",
+      "count": 783,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J38/12": {
+      "code": "B01J38/12",
+      "level": 2,
+      "parent": "B01J38/04",
+      "ja": "遊離酸素を含有するガスによる処理［４］",
+      "en": "Treating with free oxygen-containing gas",
+      "count": 1671,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J38/14": {
+      "code": "B01J38/14",
+      "level": 3,
+      "parent": "B01J38/12",
+      "ja": "酸化ガス中の酸素含量を制御するもの［４］",
+      "en": "with control of oxygen content in oxidation gas",
+      "count": 384,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J38/16": {
+      "code": "B01J38/16",
+      "level": 3,
+      "parent": "B01J38/12",
+      "ja": "本質的に蒸気と酸素からなる酸化ガス［４］",
+      "en": "Oxidation gas comprising essentially steam and oxygen",
+      "count": 133,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J38/18": {
+      "code": "B01J38/18",
+      "level": 3,
+      "parent": "B01J38/12",
+      "ja": "引き続いて反応性ガスで処理するもの［４］",
+      "en": "with subsequent reactive gas treating",
+      "count": 139,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J38/20": {
+      "code": "B01J38/20",
+      "level": 3,
+      "parent": "B01J38/12",
+      "ja": "複数の別々の酸化工程を有するもの［４］",
+      "en": "Plural distinct oxidation stages",
+      "count": 189,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J38/22": {
+      "code": "B01J38/22",
+      "level": 3,
+      "parent": "B01J38/12",
+      "ja": "移動床，例．垂直または水平に移動するバルク［４］",
+      "en": "Moving bed, e.g. vertically or horizontally moving bulk",
+      "count": 82,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J38/24": {
+      "code": "B01J38/24",
+      "level": 4,
+      "parent": "B01J38/22",
+      "ja": "主として，酸素含有ガスと材料の交叉流，すなわち横からの流れによるもの［４］",
+      "en": "having mainly transverse, i.e. lateral, flow of oxygen-containing gas and material",
+      "count": 19,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J38/26": {
+      "code": "B01J38/26",
+      "level": 4,
+      "parent": "B01J38/22",
+      "ja": "主として，酸素含有ガスと材料の向流によるもの［４］",
+      "en": "having mainly counter-current flow of oxygen-containing gas and material",
+      "count": 50,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J38/28": {
+      "code": "B01J38/28",
+      "level": 4,
+      "parent": "B01J38/22",
+      "ja": "主として，酸素含有ガスと材料の並流によるもの［４］",
+      "en": "having mainly concurrent flow of oxygen-containing gas and material",
+      "count": 20,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J38/30": {
+      "code": "B01J38/30",
+      "level": 3,
+      "parent": "B01J38/12",
+      "ja": "ガス状の浮遊状態にあるもの，例．流動床［４］",
+      "en": "in gaseous suspension, e.g. fluidised bed",
+      "count": 319,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J38/32": {
+      "code": "B01J38/32",
+      "level": 4,
+      "parent": "B01J38/30",
+      "ja": "再生領域内で，または再生領域送入前に材料を間接的に加熱または冷却するもの［４］",
+      "en": "Indirectly heating or cooling material within regeneration zone or prior to entry into regeneration zone",
+      "count": 89,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J38/34": {
+      "code": "B01J38/34",
+      "level": 4,
+      "parent": "B01J38/30",
+      "ja": "一連の燃焼工程を複数有するもの［４］",
+      "en": "with plural distinct serial combustion stages",
+      "count": 95,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J38/36": {
+      "code": "B01J38/36",
+      "level": 4,
+      "parent": "B01J38/30",
+      "ja": "再生領域において一酸化炭素から二酸化炭素への実質的に完全な酸化を行なうもの［４］",
+      "en": "and with substantially complete oxidation of carbon monoxide to carbon dioxide within regeneration zone",
+      "count": 68,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J38/38": {
+      "code": "B01J38/38",
+      "level": 3,
+      "parent": "B01J38/12",
+      "ja": "更に固体熱媒体により加熱するもの［４］",
+      "en": "and adding heat by solid heat carrier",
+      "count": 26,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J38/40": {
+      "code": "B01J38/40",
+      "level": 3,
+      "parent": "B01J38/12",
+      "ja": "有用な副産物を生成するもの［４］",
+      "en": "and forming useful by-products",
+      "count": 40,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J38/42": {
+      "code": "B01J38/42",
+      "level": 2,
+      "parent": "B01J38/04",
+      "ja": "ハロゲンを含む物質を用いるもの［４］",
+      "en": "using halogen-containing material",
+      "count": 216,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J38/44": {
+      "code": "B01J38/44",
+      "level": 3,
+      "parent": "B01J38/42",
+      "ja": "同時または引き続き遊離酸素を添加するもの；オキシハロゲン化合物を用いるもの［４］",
+      "en": "and adding simultaneously or subsequently free oxygen; using oxyhalogen compound",
+      "count": 167,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J38/46": {
+      "code": "B01J38/46",
+      "level": 3,
+      "parent": "B01J38/42",
+      "ja": "ふっ素含有物［４］",
+      "en": "fluorine-containing",
+      "count": 46,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J38/48": {
+      "code": "B01J38/48",
+      "level": 1,
+      "parent": "B01J38/00",
+      "ja": "液体処理または液相内での処理，例．溶解または懸濁状態のもの［４］",
+      "en": "Liquid treating or treating in liquid phase, e.g. dissolved or suspended",
+      "count": 1613,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J38/50": {
+      "code": "B01J38/50",
+      "level": 2,
+      "parent": "B01J38/48",
+      "ja": "有機液体を用いるもの［４］",
+      "en": "using organic liquids",
+      "count": 331,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J38/52": {
+      "code": "B01J38/52",
+      "level": 3,
+      "parent": "B01J38/50",
+      "ja": "酸素含有物［４］",
+      "en": "oxygen-containing",
+      "count": 596,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J38/54": {
+      "code": "B01J38/54",
+      "level": 3,
+      "parent": "B01J38/50",
+      "ja": "ハロゲン含有物［４］",
+      "en": "halogen-containing",
+      "count": 72,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J38/56": {
+      "code": "B01J38/56",
+      "level": 3,
+      "parent": "B01J38/50",
+      "ja": "炭化水素［４］",
+      "en": "Hydrocarbons",
+      "count": 279,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J38/58": {
+      "code": "B01J38/58",
+      "level": 3,
+      "parent": "B01J38/50",
+      "ja": "更にガスを加えるもの［４］",
+      "en": "and gas addition thereto",
+      "count": 104,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J38/60": {
+      "code": "B01J38/60",
+      "level": 2,
+      "parent": "B01J38/48",
+      "ja": "酸を用いるもの［４］",
+      "en": "using acids",
+      "count": 912,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J38/62": {
+      "code": "B01J38/62",
+      "level": 3,
+      "parent": "B01J38/60",
+      "ja": "有機酸を用いるもの［４］",
+      "en": "organic",
+      "count": 433,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J38/64": {
+      "code": "B01J38/64",
+      "level": 2,
+      "parent": "B01J38/48",
+      "ja": "アルカリ性物質を用いるもの；塩を用いるもの［４］",
+      "en": "using alkaline material; using salts",
+      "count": 636,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J38/66": {
+      "code": "B01J38/66",
+      "level": 3,
+      "parent": "B01J38/64",
+      "ja": "アンモニアまたはその誘導体を用いるもの［４］",
+      "en": "using ammonia or derivatives thereof",
+      "count": 319,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J38/68": {
+      "code": "B01J38/68",
+      "level": 2,
+      "parent": "B01J38/48",
+      "ja": "触媒を最終的に再構成する際に，触媒成分を実質的に溶解し，または化学的に沈澱させることを含むもの［４］",
+      "en": "including substantial dissolution or chemical precipitation of a catalyst component in the ultimate reconstitution of the catalyst",
+      "count": 383,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J38/70": {
+      "code": "B01J38/70",
+      "level": 2,
+      "parent": "B01J38/48",
+      "ja": "液体中に浸漬された材料の湿式酸化［４］",
+      "en": "Wet oxidation of material submerged in liquid",
+      "count": 139,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J38/72": {
+      "code": "B01J38/72",
+      "level": 1,
+      "parent": "B01J38/00",
+      "ja": "異種粒子の分離を含むもの［４］",
+      "en": "including segregation of diverse particles",
+      "count": 192,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J38/74": {
+      "code": "B01J38/74",
+      "level": 1,
+      "parent": "B01J38/00",
+      "ja": "イオン交換を用いるもの［４］",
+      "en": "utilising ion-exchange",
+      "count": 107,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J39/00": {
+      "code": "B01J39/00",
+      "level": 0,
+      "parent": "B01J",
+      "ja": "陽イオン交換；陽イオン交換体としての物質の使用；陽イオン交換特性を改良するための物質の処理（イオン交換クロマトグラフィーの方法Ｂ０１Ｄ１５／３６）［２００６．０１］",
+      "en": "Cation exchange; Use of material as cation exchangers; Treatment of material for improving the cation exchange properties(ion-exchange chromatography processes <b>B01D15/36</b>)",
+      "count": 668,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J39/02": {
+      "code": "B01J39/02",
+      "level": 1,
+      "parent": "B01J39/00",
+      "ja": "無機交換体を用いるプロセス［２００６．０１］",
+      "en": "Processes using inorganic exchangers",
+      "count": 514,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J39/04": {
+      "code": "B01J39/04",
+      "level": 1,
+      "parent": "B01J39/00",
+      "ja": "有機交換体を用いるプロセス［２０１７．０１］",
+      "en": "Processes using organic exchangers",
+      "count": 1640,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J39/05": {
+      "code": "B01J39/05",
+      "level": 2,
+      "parent": "B01J39/04",
+      "ja": "強酸状態のもの［２０１７．０１］",
+      "en": "in the strongly acidic form",
+      "count": 786,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J39/07": {
+      "code": "B01J39/07",
+      "level": 2,
+      "parent": "B01J39/04",
+      "ja": "弱酸状態のもの［２０１７．０１］",
+      "en": "in the weakly acidic form",
+      "count": 467,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J39/08": {
+      "code": "B01J39/08",
+      "level": 1,
+      "parent": "B01J39/00",
+      "ja": "陽イオン交換体としての物質の使用；陽イオン交換特性を改良するための物質の処理［２０１７．０１］",
+      "en": "Use of material as cation exchangers; Treatment of material for improving the cation exchange properties",
+      "count": 388,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J39/09": {
+      "code": "B01J39/09",
+      "level": 2,
+      "parent": "B01J39/08",
+      "ja": "無機物質［２０１７．０１］",
+      "en": "Inorganic material",
+      "count": 142,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J39/10": {
+      "code": "B01J39/10",
+      "level": 2,
+      "parent": "B01J39/08",
+      "ja": "酸化物または水酸化物［２００６．０１］",
+      "en": "Oxides or hydroxides",
+      "count": 298,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J39/12": {
+      "code": "B01J39/12",
+      "level": 2,
+      "parent": "B01J39/08",
+      "ja": "りんを含む化合物［２００６．０１］",
+      "en": "Compounds containing phosphorus",
+      "count": 272,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J39/14": {
+      "code": "B01J39/14",
+      "level": 2,
+      "parent": "B01J39/08",
+      "ja": "塩基交換けい酸塩，例．ゼオライト［２００６．０１］",
+      "en": "Base exchange silicates, e.g. zeolites",
+      "count": 500,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J39/16": {
+      "code": "B01J39/16",
+      "level": 2,
+      "parent": "B01J39/08",
+      "ja": "有機物質［２０１７．０１］",
+      "en": "Organic material",
+      "count": 356,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J39/17": {
+      "code": "B01J39/17",
+      "level": 3,
+      "parent": "B01J39/16",
+      "ja": "無機物質，例．イオン交換樹脂で被覆された不活性物質，をも含有するもの［２０１７．０１］",
+      "en": "containing also inorganic materials, e.g. inert material coated with an ion-exchange resin",
+      "count": 121,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J39/18": {
+      "code": "B01J39/18",
+      "level": 3,
+      "parent": "B01J39/16",
+      "ja": "高分子化合物（Ｂ０１Ｊ３９／１７が優先）［２０１７．０１］",
+      "en": "Macromolecular compounds(<b>B01J39/17</b> takes precedence)",
+      "count": 1373,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J39/19": {
+      "code": "B01J39/19",
+      "level": 4,
+      "parent": "B01J39/18",
+      "ja": "不飽和炭素－炭素結合のみが関与する反応以外で得られるもの［２０１７．０１］",
+      "en": "obtained otherwise than by reactions only involving unsaturated carbon-to-carbon bonds",
+      "count": 306,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J39/20": {
+      "code": "B01J39/20",
+      "level": 4,
+      "parent": "B01J39/18",
+      "ja": "炭素－炭素不飽和結合のみが関与する反応によって得られるもの［２００６．０１］",
+      "en": "obtained by reactions only involving unsaturated carbon-to-carbon bonds",
+      "count": 1557,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J39/22": {
+      "code": "B01J39/22",
+      "level": 4,
+      "parent": "B01J39/18",
+      "ja": "セルロースまたは木質；その誘導体［２００６．０１］",
+      "en": "Cellulose or wood; Derivatives thereof",
+      "count": 259,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J39/24": {
+      "code": "B01J39/24",
+      "level": 2,
+      "parent": "B01J39/08",
+      "ja": "炭素，石炭またはタール［２０１７．０１］",
+      "en": "Carbon, coal or tar",
+      "count": 216,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J39/26": {
+      "code": "B01J39/26",
+      "level": 1,
+      "parent": "B01J39/00",
+      "ja": "クロマトグラフィーの方法のための陽イオン交換体［２００６．０１］",
+      "en": "Cation exchangers for chromatographic processes",
+      "count": 544,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J41/00": {
+      "code": "B01J41/00",
+      "level": 0,
+      "parent": "B01J",
+      "ja": "陰イオン交換；陰イオン交換体としての物質の使用；陰イオン交換特性を改良するための物質の処理（イオン交換クロマトグラフィーの方法Ｂ０１Ｄ１５／３６）［２００６．０１］",
+      "en": "Anion exchange; Use of material as anion exchangers; Treatment of material for improving the anion exchange properties(ion-exchange chromatography processes <b>B01D15/36</b>)",
+      "count": 352,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J41/02": {
+      "code": "B01J41/02",
+      "level": 1,
+      "parent": "B01J41/00",
+      "ja": "無機交換体を用いるプロセス［２００６．０１］",
+      "en": "Processes using inorganic exchangers",
+      "count": 183,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J41/04": {
+      "code": "B01J41/04",
+      "level": 1,
+      "parent": "B01J41/00",
+      "ja": "有機交換体を用いるプロセス［２０１７．０１］",
+      "en": "Processes using organic exchangers",
+      "count": 1684,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J41/05": {
+      "code": "B01J41/05",
+      "level": 2,
+      "parent": "B01J41/04",
+      "ja": "強塩基性状態のもの［２０１７．０１］",
+      "en": "in the strongly basic form",
+      "count": 671,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J41/07": {
+      "code": "B01J41/07",
+      "level": 2,
+      "parent": "B01J41/04",
+      "ja": "弱塩基性状態のもの［２０１７．０１］",
+      "en": "in the weakly basic form",
+      "count": 494,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J41/08": {
+      "code": "B01J41/08",
+      "level": 1,
+      "parent": "B01J41/00",
+      "ja": "陰イオン交換体としての物質の使用；陰イオン交換特性を改良するための物質の処理［２０１７．０１］",
+      "en": "Use of material as anion exchangers; Treatment of material for improving the anion exchange properties",
+      "count": 315,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J41/09": {
+      "code": "B01J41/09",
+      "level": 2,
+      "parent": "B01J41/08",
+      "ja": "有機物質［２０１７．０１］",
+      "en": "Organic material",
+      "count": 106,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J41/10": {
+      "code": "B01J41/10",
+      "level": 2,
+      "parent": "B01J41/08",
+      "ja": "無機物質［２００６．０１］",
+      "en": "Inorganic material",
+      "count": 359,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J41/12": {
+      "code": "B01J41/12",
+      "level": 2,
+      "parent": "B01J41/08",
+      "ja": "高分子化合物［２０１７．０１］",
+      "en": "Macromolecular compounds",
+      "count": 1228,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J41/13": {
+      "code": "B01J41/13",
+      "level": 3,
+      "parent": "B01J41/12",
+      "ja": "不飽和炭素－炭素結合のみが関与する反応以外の反応で得られるもの［２０１７．０１］",
+      "en": "obtained otherwise than by reactions only involving unsaturated carbon-to-carbon bonds",
+      "count": 413,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J41/14": {
+      "code": "B01J41/14",
+      "level": 3,
+      "parent": "B01J41/12",
+      "ja": "炭素－炭素不飽和結合のみが関与する反応によって得られるもの［３］",
+      "en": "obtained by reactions only involving unsaturated carbon-to-carbon bonds",
+      "count": 1588,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J41/16": {
+      "code": "B01J41/16",
+      "level": 3,
+      "parent": "B01J41/12",
+      "ja": "セルロースまたは木質；その誘導体［３］",
+      "en": "Cellulose or wood; Derivatives thereof",
+      "count": 179,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J41/18": {
+      "code": "B01J41/18",
+      "level": 2,
+      "parent": "B01J41/08",
+      "ja": "炭素，石炭またはタール［２０１７．０１］",
+      "en": "Carbon, coal or tar",
+      "count": 50,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J41/20": {
+      "code": "B01J41/20",
+      "level": 1,
+      "parent": "B01J41/00",
+      "ja": "クロマトグラフィーの方法のための陰イオン交換体［２００６．０１］",
+      "en": "Anion exchangers for chromatographic processes",
+      "count": 468,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J43/00": {
+      "code": "B01J43/00",
+      "level": 0,
+      "parent": "B01J",
+      "ja": "両性イオン交換，すなわち陽イオン基と陰イオン基とを有するイオン交換体の使用；両性イオン交換体としての物質の使用；両性イオン交換特性を改良するための物質の処理（イオン交換クロマトグラフィーの方法Ｂ０１Ｄ１５／３６）［３，８］",
+      "en": "Amphoteric ion-exchange, i.e. using ion-exchangers having cationic and anionic groups; Use of material as amphoteric ion-exchangers; Treatment of material for improving their amphoteric ion-exchange properties(ion-exchange chromatography processes <b>B01D15/36</b>)",
+      "count": 587,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J45/00": {
+      "code": "B01J45/00",
+      "level": 0,
+      "parent": "B01J",
+      "ja": "錯体またはキレートを形成するイオン交換；錯体またはキレート形成性イオン交換体としての物質の使用；錯体またはキレート形成性イオン交換特性を改良するための物質の処理（イオン交換クロマトグラフィーの方法Ｂ０１Ｄ１５／３６）［３，８］",
+      "en": "Ion-exchange in which a complex or a chelate is formed; Use of material as complex or chelate forming ion-exchangers; Treatment of material for improving the complex or chelate forming ion-exchange properties(ion-exchange chromatography processes <b>B01D15/36</b>)",
+      "count": 1840,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J47/00": {
+      "code": "B01J47/00",
+      "level": 0,
+      "parent": "B01J",
+      "ja": "イオン交換プロセス一般；そのための装置（イオン交換クロマトグラフィーの方法または装置Ｂ０１Ｄ１５／０８）［２０１７．０１］",
+      "en": "Ion-exchange processes in general; Apparatus therefor(ion-exchange chromatography processes or apparatus <b>B01D15/08</b>)",
+      "count": 2471,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J47/011": {
+      "code": "B01J47/011",
+      "level": 1,
+      "parent": "B01J47/00",
+      "ja": "回分法を使用するもの［２０１７．０１］",
+      "en": "using batch processes",
+      "count": 56,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J47/012": {
+      "code": "B01J47/012",
+      "level": 1,
+      "parent": "B01J47/00",
+      "ja": "可搬イオン交換装置を使用するもの［２０１７．０１］",
+      "en": "using portable ion-exchange apparatus",
+      "count": 70,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J47/014": {
+      "code": "B01J47/014",
+      "level": 1,
+      "parent": "B01J47/00",
+      "ja": "イオン交換体の吸着性質が関与するもの，例．蛋白質または他の高分子化合物の回収［２０１７．０１］",
+      "en": "in which the adsorbent properties of the ion-exchanger are involved, e.g. recovery of proteins or other high-molecular compounds",
+      "count": 231,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J47/015": {
+      "code": "B01J47/015",
+      "level": 1,
+      "parent": "B01J47/00",
+      "ja": "電子交換体［２０１７．０１］",
+      "en": "Electron-exchangers",
+      "count": 12,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J47/016": {
+      "code": "B01J47/016",
+      "level": 1,
+      "parent": "B01J47/00",
+      "ja": "イオン交換体の改質または後処理［２０１７．０１］",
+      "en": "Modification or after-treatment of ion-exchangers",
+      "count": 213,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J47/018": {
+      "code": "B01J47/018",
+      "level": 1,
+      "parent": "B01J47/00",
+      "ja": "粒状化；マトリックスへのイオン交換体の取り込み；不活性物質との混合［２０１７．０１］",
+      "en": "Granulation; Incorporation of ion-exchangers in a matrix; Mixing with inert materials",
+      "count": 110,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J47/019": {
+      "code": "B01J47/019",
+      "level": 2,
+      "parent": "B01J47/018",
+      "ja": "タブレット状の混合物［２０１７．０１］",
+      "en": "Mixtures in form of tablets",
+      "count": 6,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J47/02": {
+      "code": "B01J47/02",
+      "level": 1,
+      "parent": "B01J47/00",
+      "ja": "塔式または床式プロセス［２０１７．０１］",
+      "en": "Column or bed processes",
+      "count": 2040,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J47/022": {
+      "code": "B01J47/022",
+      "level": 2,
+      "parent": "B01J47/02",
+      "ja": "塔または容器の構成に特徴があるもの［２０１７．０１］",
+      "en": "characterised by the construction of the column or container",
+      "count": 799,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J47/024": {
+      "code": "B01J47/024",
+      "level": 3,
+      "parent": "B01J47/022",
+      "ja": "イオン交換体が取り外し可能カートリッジ内にあるもの［２０１７．０１］",
+      "en": "where the ion-exchangers are in a removable cartridge",
+      "count": 162,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J47/026": {
+      "code": "B01J47/026",
+      "level": 2,
+      "parent": "B01J47/02",
+      "ja": "連結した異なる交換物質の塔または床を用いるもの［２０１７．０１］",
+      "en": "using columns or beds of different ion exchange materials in series",
+      "count": 283,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J47/028": {
+      "code": "B01J47/028",
+      "level": 3,
+      "parent": "B01J47/026",
+      "ja": "交互に配置された陽イオン性－陰イオン性交換体を用いるもの［２０１７．０１］",
+      "en": "with alternately arranged cationic and anionic exchangers",
+      "count": 209,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J47/04": {
+      "code": "B01J47/04",
+      "level": 2,
+      "parent": "B01J47/02",
+      "ja": "混床式プロセス［３］",
+      "en": "Mixed-bed processes",
+      "count": 941,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J47/06": {
+      "code": "B01J47/06",
+      "level": 2,
+      "parent": "B01J47/02",
+      "ja": "イオン交換物質が物理的処理，例．熱，電流，照射または振動，を受けるもの（電気透析または電気浸透Ｂ０１Ｄ６１／４２）［３］",
+      "en": "during which the ion-exchange material is subjected to a physical treatment, e.g. heat, electric current, irradiation or vibration(electrodialysis or electro-osmosis <b>B01D61/42</b>)",
+      "count": 194,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J47/08": {
+      "code": "B01J47/08",
+      "level": 3,
+      "parent": "B01J47/06",
+      "ja": "直流電流を受けるもの［３］",
+      "en": "subjected to a direct electric current",
+      "count": 349,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J47/10": {
+      "code": "B01J47/10",
+      "level": 1,
+      "parent": "B01J47/00",
+      "ja": "イオン交換物質を移動させるもの；イオン交換物質を懸濁状または流動床状で用いるもの［２０１７．０１］",
+      "en": "with moving ion-exchange material; with ion-exchange material in suspension or in fluidised-bed form",
+      "count": 950,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J47/11": {
+      "code": "B01J47/11",
+      "level": 2,
+      "parent": "B01J47/10",
+      "ja": "回転ベッド内のもの［２０１７．０１］",
+      "en": "in rotating beds",
+      "count": 32,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J47/12": {
+      "code": "B01J47/12",
+      "level": 1,
+      "parent": "B01J47/00",
+      "ja": "イオン交換物質をリボン，フィラメント，繊維またはシート状で用いることに特徴のあるもの，例．膜（電気透析，電気浸透Ｂ０１Ｄ６１／４２）［２０１７．０１］",
+      "en": "characterised by the use of ion-exchange material in the form of ribbons, filaments, fibres or sheets, e.g. membranes(electrodialysis or electro-osmosis <b>B01D61/42</b>)",
+      "count": 2432,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J47/127": {
+      "code": "B01J47/127",
+      "level": 2,
+      "parent": "B01J47/12",
+      "ja": "フィラメント状または繊維状［２０１７．０１］",
+      "en": "in the form of filaments or fibres",
+      "count": 192,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J47/133": {
+      "code": "B01J47/133",
+      "level": 2,
+      "parent": "B01J47/12",
+      "ja": "プリコートフィルター［２０１７．０１］",
+      "en": "Precoat filters",
+      "count": 25,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J47/14": {
+      "code": "B01J47/14",
+      "level": 1,
+      "parent": "B01J47/00",
+      "ja": "制御または調整［２０１７．０１］",
+      "en": "Controlling or regulating",
+      "count": 887,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J47/15": {
+      "code": "B01J47/15",
+      "level": 2,
+      "parent": "B01J47/14",
+      "ja": "固定ｐＨを有する溶液を得るもの［２０１７．０１］",
+      "en": "for obtaining a solution having a fixed pH",
+      "count": 39,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J49/00": {
+      "code": "B01J49/00",
+      "level": 0,
+      "parent": "B01J",
+      "ja": "イオン交換体の再生または再活性化；そのための装置（イオン交換クロマトグラフィーの方法または装置Ｂ０１Ｄ１５／０８）［２０１７．０１］",
+      "en": "Regeneration or reactivation of ion-exchangers; Apparatus therefor(ion-exchange chromatography processes or apparatus <b>B01D15/08</b>)",
+      "count": 5063,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J49/05": {
+      "code": "B01J49/05",
+      "level": 1,
+      "parent": "B01J49/00",
+      "ja": "固定床に関するもの［２０１７．０１］",
+      "en": "of fixed beds",
+      "count": 143,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J49/06": {
+      "code": "B01J49/06",
+      "level": 2,
+      "parent": "B01J49/05",
+      "ja": "陽イオン交換体を含有するもの［２０１７．０１］",
+      "en": "containing cationic exchangers",
+      "count": 299,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J49/07": {
+      "code": "B01J49/07",
+      "level": 2,
+      "parent": "B01J49/05",
+      "ja": "陰イオン交換体を含有するもの［２０１７．０１］",
+      "en": "containing anionic exchangers",
+      "count": 252,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J49/08": {
+      "code": "B01J49/08",
+      "level": 2,
+      "parent": "B01J49/05",
+      "ja": "別々の床に陽イオン交換体と陰イオン交換体を含有するもの［２０１７．０１］",
+      "en": "containing cationic and anionic exchangers in separate beds",
+      "count": 122,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J49/09": {
+      "code": "B01J49/09",
+      "level": 2,
+      "parent": "B01J49/05",
+      "ja": "混合床に関するもの［２０１７．０１］",
+      "en": "of mixed beds",
+      "count": 169,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J49/10": {
+      "code": "B01J49/10",
+      "level": 1,
+      "parent": "B01J49/00",
+      "ja": "移動床に関するもの［２０１７．０１］",
+      "en": "of moving beds",
+      "count": 45,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J49/12": {
+      "code": "B01J49/12",
+      "level": 2,
+      "parent": "B01J49/10",
+      "ja": "陽イオン交換体を含有するもの［２０１７．０１］",
+      "en": "containing cationic exchangers",
+      "count": 34,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J49/14": {
+      "code": "B01J49/14",
+      "level": 2,
+      "parent": "B01J49/10",
+      "ja": "陰イオン交換体を含有するもの［２０１７．０１］",
+      "en": "containing anionic exchangers",
+      "count": 25,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J49/16": {
+      "code": "B01J49/16",
+      "level": 2,
+      "parent": "B01J49/10",
+      "ja": "別々の床に陽イオン交換体と陰イオン交換体を含有するもの［２０１７．０１］",
+      "en": "containing cationic and anionic exchangers in separate beds",
+      "count": 14,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J49/18": {
+      "code": "B01J49/18",
+      "level": 2,
+      "parent": "B01J49/10",
+      "ja": "混合床に関するもの［２０１７．０１］",
+      "en": "of mixed beds",
+      "count": 31,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J49/20": {
+      "code": "B01J49/20",
+      "level": 1,
+      "parent": "B01J49/00",
+      "ja": "膜に関するもの［２０１７．０１］",
+      "en": "of membranes",
+      "count": 46,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J49/30": {
+      "code": "B01J49/30",
+      "level": 1,
+      "parent": "B01J49/00",
+      "ja": "電気的再生［２０１７．０１］",
+      "en": "Electrical regeneration",
+      "count": 204,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J49/40": {
+      "code": "B01J49/40",
+      "level": 1,
+      "parent": "B01J49/00",
+      "ja": "熱的再生［２０１７．０１］",
+      "en": "Thermal regeneration",
+      "count": 71,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J49/45": {
+      "code": "B01J49/45",
+      "level": 2,
+      "parent": "B01J49/40",
+      "ja": "両性イオン交換体に関するもの［２０１７．０１］",
+      "en": "of amphoteric ion-exchangers",
+      "count": 18,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J49/50": {
+      "code": "B01J49/50",
+      "level": 1,
+      "parent": "B01J49/00",
+      "ja": "再生試薬を特徴とするもの［２０１７．０１］",
+      "en": "characterised by the regeneration reagents",
+      "count": 449,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J49/53": {
+      "code": "B01J49/53",
+      "level": 2,
+      "parent": "B01J49/50",
+      "ja": "陽イオン交換体用のもの［２０１７．０１］",
+      "en": "for cationic exchangers",
+      "count": 713,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J49/57": {
+      "code": "B01J49/57",
+      "level": 2,
+      "parent": "B01J49/50",
+      "ja": "陰イオン交換体用のもの［２０１７．０１］",
+      "en": "for anionic exchangers",
+      "count": 550,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J49/60": {
+      "code": "B01J49/60",
+      "level": 1,
+      "parent": "B01J49/00",
+      "ja": "イオン交換床の洗浄または水洗［２０１７．０１］",
+      "en": "Cleaning or rinsing ion-exchange beds",
+      "count": 1265,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J49/70": {
+      "code": "B01J49/70",
+      "level": 1,
+      "parent": "B01J49/00",
+      "ja": "大規模の工業プロセスまたは用途のもの［２０１７．０１］",
+      "en": "for large scale industrial processes or applications",
+      "count": 97,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J49/75": {
+      "code": "B01J49/75",
+      "level": 1,
+      "parent": "B01J49/00",
+      "ja": "硬水軟化剤関連のもの［２０１７．０１］",
+      "en": "of water softeners",
+      "count": 594,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J49/80": {
+      "code": "B01J49/80",
+      "level": 1,
+      "parent": "B01J49/00",
+      "ja": "自動再生［２０１７．０１］",
+      "en": "Automatic regeneration",
+      "count": 90,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J49/85": {
+      "code": "B01J49/85",
+      "level": 2,
+      "parent": "B01J49/80",
+      "ja": "そのための設備の制御または調整［２０１７．０１］",
+      "en": "Controlling or regulating devices therefor",
+      "count": 388,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    },
+    "B01J49/90": {
+      "code": "B01J49/90",
+      "level": 1,
+      "parent": "B01J49/00",
+      "ja": "再生の間のイオン交換体の逆流を防止する手段を有するもの［２０１７．０１］",
+      "en": "having devices which prevent back-flow of the ion-exchange mass during regeneration",
+      "count": 150,
+      "sourceFile": "ipc_B01J.txt",
+      "kind": "ipc"
+    }
+  }
+};

@@ -1,0 +1,3336 @@
+{
+  "generatedAt": "2026-03-20T02:17:45.968Z",
+  "total": 333,
+  "entries": {
+    "A63B": {
+      "code": "A63B",
+      "level": 0,
+      "parent": "A63",
+      "ja": "身体の鍛錬、体操、水泳、登はん、またはフェンシングのための装置；球技；訓練用具（受動的鍛練のための装置，マッサージＡ６１Ｈ）<br><br><b><ul>サブクラス内の索引</ul></b><br>体操用装置<br>鉄棒；平均台　１／００，３／００；４／００<br>跳躍装置；跳箱　５／００，６／００；２５／００<br>自在吊り下り体操装置；登はん棒，登はん枠，または登はん台　７／００；９／００<br>クラブ　１５／００<br>他の鍛練装置　１７／００～２３／００，２６／００<br>制御　２４／００<br>特殊スポーツ器具<br>登はん，登山　２７／００～２９／００<br>水泳　３１／００～３５／００<br>ボール　３７／００～４７／００<br>ゴルフ道具　５３／００～５７／００<br>その他球技用具　４９／００，５１／００，５９／００，６１／００，６３／００<br>投てき用具　６５／００<br>訓練装置　６９／００<br>その他の運動競技；その他の運動補助装置　６７／００；７１／００",
+      "en": "APPARATUS FOR PHYSICAL TRAINING, GYMNASTICS, SWIMMING, CLIMBING, OR FENCING; BALL GAMES; TRAINING EQUIPMENT(apparatus for passive exercising, massage <b>A61H</b>);<br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">GYMNASTIC APPARATUS<tr><td width=\"70%\">Bars; Balance beams</td><td><b><b>1/00</b>, <b>3/00</b>; <b>4/00</b></b></td></tr></tr><tr><td width=\"70%\">Apparatus for jumping; stilts</td><td><b><b>5/00</b>, <b>6/00</b>; <b>25/00</b></b></td></tr></tr><tr><td width=\"70%\">Freely-suspended apparatus; climbing poles, frames, or stages</td><td><b><b>7/00</b>; <b>9/00</b></b></td></tr></tr><tr><td width=\"70%\">Clubs</td><td><b><b>15/00</b></b></td></tr></tr><tr><td width=\"70%\">Other exercising apparatus</td><td><b><b>17/00 to 23/00</b> , <b>26/00</b></b></td></tr></tr><tr><td width=\"70%\">Controls</td><td><b><b>24/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">APPARATUS FOR SPECIAL SPORTS<tr><td width=\"70%\">Climbing, mountaineering</td><td><b><b>27/00</b>, <b>29/00</b></b></td></tr></tr><tr><td width=\"70%\">Swimming</td><td><b><b>31/00 to 35/00</b> </b></td></tr></tr><tr><td width=\"70%\">Balls</td><td><b><b>37/00 to 47/00</b> </b></td></tr></tr><tr><td width=\"70%\">Golf equipment</td><td><b><b>53/00 to 57/00</b> </b></td></tr></tr><tr><td width=\"70%\">Other equipment for ball games</td><td><b><b>49/00</b>, <b>51/00</b>, <b>59/00</b>,<b>60/00</b>, <b>61/00</b>, <b>63/00</b></b></td></tr></tr><tr><td width=\"70%\">Implements for throwing</td><td><b><b>65/00</b></b></td></tr></tr><tr><td width=\"70%\">Training equipment</td><td><b><b>69/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">OTHER SPORTING GAMES; OTHER ACCESSORIES</td><td><b><b>67/00</b>; <b>71/00</b></b></td></tr></tr></table>",
+      "count": 4958,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A63": {
+      "code": "A63",
+      "level": 0,
+      "parent": "A",
+      "ja": "スポーツ；ゲーム；娯楽",
+      "en": "SPORTS; GAMES; AMUSEMENTS",
+      "count": 0,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A": {
+      "code": "A",
+      "level": 0,
+      "parent": null,
+      "ja": "生活必需品",
+      "en": "HUMAN NECESSITIES",
+      "count": 0,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A63B1/00": {
+      "code": "A63B1/00",
+      "level": 0,
+      "parent": "A63B",
+      "ja": "体操用の鉄棒",
+      "en": "Horizontal bars for gymnastics",
+      "count": 3979,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B1/04": {
+      "code": "A63B1/04",
+      "level": 1,
+      "parent": "A63B1/00",
+      "ja": "棒の清浄装置",
+      "en": "Cleaning the rods",
+      "count": 31,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B3/00": {
+      "code": "A63B3/00",
+      "level": 0,
+      "parent": "A63B",
+      "ja": "平行棒または類似の体操装置",
+      "en": "Parallel bars or similar gymnastic apparatus",
+      "count": 1704,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B4/00": {
+      "code": "A63B4/00",
+      "level": 0,
+      "parent": "A63B",
+      "ja": "平均台［５］",
+      "en": "Balance beams",
+      "count": 484,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B5/00": {
+      "code": "A63B5/00",
+      "level": 0,
+      "parent": "A63B",
+      "ja": "跳躍装置（跳躍用マットＡ６３Ｂ６／００；競技用または乗馬用，例．ハードルＡ６３Ｋ）［５］",
+      "en": "Apparatus for jumping(mats for jumping <b>A63B6/00</b>; for racing or riding sports, e.g. hurdles, <b>A63K</b>)",
+      "count": 822,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B5/02": {
+      "code": "A63B5/02",
+      "level": 1,
+      "parent": "A63B5/00",
+      "ja": "高跳び用支柱",
+      "en": "High-jumping posts",
+      "count": 1021,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B5/04": {
+      "code": "A63B5/04",
+      "level": 2,
+      "parent": "A63B5/02",
+      "ja": "高跳び用ロープ",
+      "en": "Ropes therefor",
+      "count": 81,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B5/06": {
+      "code": "A63B5/06",
+      "level": 1,
+      "parent": "A63B5/00",
+      "ja": "棒高とび用ポール",
+      "en": "Vaulting poles",
+      "count": 131,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B5/08": {
+      "code": "A63B5/08",
+      "level": 1,
+      "parent": "A63B5/00",
+      "ja": "跳躍板（トランポリン型のものＡ６３Ｂ５／１１）［５］",
+      "en": "Spring-boards(of trampoline type <b>A63B5/11</b>)",
+      "count": 598,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B5/10": {
+      "code": "A63B5/10",
+      "level": 2,
+      "parent": "A63B5/08",
+      "ja": "水中スポーツ用",
+      "en": "for aquatic sports",
+      "count": 400,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B5/11": {
+      "code": "A63B5/11",
+      "level": 1,
+      "parent": "A63B5/00",
+      "ja": "トランポリン［５］",
+      "en": "Trampolines",
+      "count": 3629,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B5/12": {
+      "code": "A63B5/12",
+      "level": 1,
+      "parent": "A63B5/00",
+      "ja": "跳躍装置，例．鞍馬，体操用跳躍馬，跳躍台",
+      "en": "Bolster vaulting apparatus, e.g. horses, bucks, tables",
+      "count": 629,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B5/16": {
+      "code": "A63B5/16",
+      "level": 1,
+      "parent": "A63B5/00",
+      "ja": "跳躍用訓練具；風船跳び装置；跳躍の補助具",
+      "en": "Training devices for jumping; Devices for balloon-jumping; Jumping aids",
+      "count": 2122,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B5/20": {
+      "code": "A63B5/20",
+      "level": 1,
+      "parent": "A63B5/00",
+      "ja": "飛び縄",
+      "en": "Skipping-ropes",
+      "count": 3860,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B5/22": {
+      "code": "A63B5/22",
+      "level": 1,
+      "parent": "A63B5/00",
+      "ja": "跳躍用の脚の障害物",
+      "en": "Foot obstacles for skipping",
+      "count": 308,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B6/00": {
+      "code": "A63B6/00",
+      "level": 0,
+      "parent": "A63B",
+      "ja": "跳躍，体操などの衝撃を吸収するためのマットまたは類似のもの［５］",
+      "en": "Mats or the like for absorbing shocks for jumping, gymnastics or the like",
+      "count": 3786,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B6/02": {
+      "code": "A63B6/02",
+      "level": 1,
+      "parent": "A63B6/00",
+      "ja": "着地のためのもの，例．棒高跳用［５］",
+      "en": "for landing, e.g. for pole vaulting",
+      "count": 677,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B7/00": {
+      "code": "A63B7/00",
+      "level": 0,
+      "parent": "A63B",
+      "ja": "自在吊り下り体操装置",
+      "en": "Freely-suspended gymnastic apparatus",
+      "count": 558,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B7/02": {
+      "code": "A63B7/02",
+      "level": 1,
+      "parent": "A63B7/00",
+      "ja": "つり下げ環；ぶらんこ",
+      "en": "Swinging rings; Trapezes",
+      "count": 869,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B7/04": {
+      "code": "A63B7/04",
+      "level": 1,
+      "parent": "A63B7/00",
+      "ja": "よじ登り綱",
+      "en": "Climbing-ropes",
+      "count": 197,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B7/06": {
+      "code": "A63B7/06",
+      "level": 1,
+      "parent": "A63B7/00",
+      "ja": "ぶら下がる綱を有するローター",
+      "en": "Rotors with hanging ropes",
+      "count": 76,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B7/08": {
+      "code": "A63B7/08",
+      "level": 1,
+      "parent": "A63B7/00",
+      "ja": "綱渡り用装置",
+      "en": "Apparatus for rope-dancing",
+      "count": 136,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B9/00": {
+      "code": "A63B9/00",
+      "level": 0,
+      "parent": "A63B",
+      "ja": "登はん棒，登はん枠，または登はん台",
+      "en": "Climbing poles, frames, or stages",
+      "count": 3245,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B15/00": {
+      "code": "A63B15/00",
+      "level": 0,
+      "parent": "A63B",
+      "ja": "体操などのためのクラブ",
+      "en": "Clubs for gymnastics or the like",
+      "count": 794,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B15/02": {
+      "code": "A63B15/02",
+      "level": 1,
+      "parent": "A63B15/00",
+      "ja": "飾りを有するクラブ",
+      "en": "with illuminating devices",
+      "count": 219,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B17/00": {
+      "code": "A63B17/00",
+      "level": 0,
+      "parent": "A63B",
+      "ja": "梯子，ロッド，梁，滑り台のようないくつかの部分の組合せからなる鍛練装置",
+      "en": "Exercising apparatus combining several parts such as ladders, rods, beams, slides",
+      "count": 2167,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B17/02": {
+      "code": "A63B17/02",
+      "level": 1,
+      "parent": "A63B17/00",
+      "ja": "硬く結合されたもの",
+      "en": "rigidly combined",
+      "count": 291,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B17/04": {
+      "code": "A63B17/04",
+      "level": 1,
+      "parent": "A63B17/00",
+      "ja": "分離できるもの",
+      "en": "separable",
+      "count": 741,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B19/00": {
+      "code": "A63B19/00",
+      "level": 0,
+      "parent": "A63B",
+      "ja": "フープ鍛練装置",
+      "en": "Hoop exercising apparatus",
+      "count": 860,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B19/02": {
+      "code": "A63B19/02",
+      "level": 1,
+      "parent": "A63B19/00",
+      "ja": "自由に動く回転フープ，例．回転輪",
+      "en": "Freely-movable rolling hoops, e.g. gyrowheels",
+      "count": 1187,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B19/04": {
+      "code": "A63B19/04",
+      "level": 1,
+      "parent": "A63B19/00",
+      "ja": "枠に支持され動くフープ",
+      "en": "movably supported on a framework",
+      "count": 251,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B21/00": {
+      "code": "A63B21/00",
+      "level": 0,
+      "parent": "A63B",
+      "ja": "測定具を有しまたは無しに逆らう力に抗して動かすことにより身体の筋肉または関節を発達または強化するための鍛練装置（そのための電気または電子制御Ａ６３Ｂ２４／００）",
+      "en": "Exercising apparatus for developing or strengthening the muscles or joints of the body by working against a counterforce, with or without measuring devices(electric or electronic controls therefor <b>A63B24/00</b>)",
+      "count": 20127,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B21/002": {
+      "code": "A63B21/002",
+      "level": 1,
+      "parent": "A63B21/00",
+      "ja": "アイソメトリック運動またはアイソカイネティック運動，すなわち実質的な筋肉の動きのない実質的な力の変化［５］",
+      "en": "isometric or isokinetic, i.e. substantial force variation without substantial muscle motion",
+      "count": 1132,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B21/005": {
+      "code": "A63B21/005",
+      "level": 1,
+      "parent": "A63B21/00",
+      "ja": "電磁気または電気的な力抵抗体を用いるもの［５］",
+      "en": "using electromagnetic or electric force-resisters",
+      "count": 5381,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B21/008": {
+      "code": "A63B21/008",
+      "level": 1,
+      "parent": "A63B21/00",
+      "ja": "水力または空力的な力抵抗体を用いるもの［５］",
+      "en": "using hydraulic or pneumatic force-resisters",
+      "count": 5284,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B21/012": {
+      "code": "A63B21/012",
+      "level": 1,
+      "parent": "A63B21/00",
+      "ja": "摩擦的な力抵抗体を用いるもの［５］",
+      "en": "using frictional force-resisters",
+      "count": 1121,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B21/015": {
+      "code": "A63B21/015",
+      "level": 2,
+      "parent": "A63B21/012",
+      "ja": "回転または振動部材を含むもの［５］",
+      "en": "including rotating or oscillating elements",
+      "count": 2229,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B21/018": {
+      "code": "A63B21/018",
+      "level": 2,
+      "parent": "A63B21/012",
+      "ja": "部材の表面に関連して動くロープを含むもの［５］",
+      "en": "including a rope moving relative to the surface of elements",
+      "count": 495,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B21/02": {
+      "code": "A63B21/02",
+      "level": 1,
+      "parent": "A63B21/00",
+      "ja": "弾性のある力抵抗体を用いるもの［５］",
+      "en": "using resilient force-resisters",
+      "count": 9635,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B21/04": {
+      "code": "A63B21/04",
+      "level": 2,
+      "parent": "A63B21/02",
+      "ja": "静止基礎に取付けられたもの",
+      "en": "attached to static foundation",
+      "count": 3439,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B21/045": {
+      "code": "A63B21/045",
+      "level": 2,
+      "parent": "A63B21/02",
+      "ja": "ねじり部材を有するもの［５］",
+      "en": "having torsion element",
+      "count": 1811,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B21/05": {
+      "code": "A63B21/05",
+      "level": 2,
+      "parent": "A63B21/02",
+      "ja": "直線的に圧縮された部材［５］",
+      "en": "Linearly-compressed elements",
+      "count": 5333,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B21/055": {
+      "code": "A63B21/055",
+      "level": 2,
+      "parent": "A63B21/02",
+      "ja": "伸長部材型［５］",
+      "en": "extension element type",
+      "count": 12891,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B21/06": {
+      "code": "A63B21/06",
+      "level": 1,
+      "parent": "A63B21/00",
+      "ja": "使用者が操作するおもり［５］",
+      "en": "User-manipulated weights",
+      "count": 8128,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B21/062": {
+      "code": "A63B21/062",
+      "level": 2,
+      "parent": "A63B21/06",
+      "ja": "おもりの垂直配列のための案内を含むもの［５］",
+      "en": "including guide for vertical array of weights",
+      "count": 4810,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B21/065": {
+      "code": "A63B21/065",
+      "level": 2,
+      "parent": "A63B21/06",
+      "ja": "使用者の身体に着せるもの［５］",
+      "en": "worn on user's body",
+      "count": 2107,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B21/068": {
+      "code": "A63B21/068",
+      "level": 2,
+      "parent": "A63B21/06",
+      "ja": "使用者の体重を用いるもの［５］",
+      "en": "using user's body weight",
+      "count": 2778,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B21/072": {
+      "code": "A63B21/072",
+      "level": 2,
+      "parent": "A63B21/06",
+      "ja": "ダンベル，バーベルまたは類似のもの［５］",
+      "en": "Dumb-bells, bar-bells or the like",
+      "count": 8885,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B21/075": {
+      "code": "A63B21/075",
+      "level": 3,
+      "parent": "A63B21/072",
+      "ja": "増減自在のおもりを有するもの［５］",
+      "en": "with variable weights",
+      "count": 3911,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B21/078": {
+      "code": "A63B21/078",
+      "level": 2,
+      "parent": "A63B21/06",
+      "ja": "ベンチプレス用装置［５］",
+      "en": "Devices for bench press exercises",
+      "count": 1971,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B21/08": {
+      "code": "A63B21/08",
+      "level": 2,
+      "parent": "A63B21/06",
+      "ja": "一端が固定されているもの",
+      "en": "anchored at one end",
+      "count": 602,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B21/16": {
+      "code": "A63B21/16",
+      "level": 1,
+      "parent": "A63B21/00",
+      "ja": "抗力器を固定するための支え",
+      "en": "Supports for anchoring force-resisters",
+      "count": 2011,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B21/22": {
+      "code": "A63B21/22",
+      "level": 1,
+      "parent": "A63B21/00",
+      "ja": "回転体を有する抵抗装置",
+      "en": "Resisting devices with rotary bodies",
+      "count": 3968,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B21/28": {
+      "code": "A63B21/28",
+      "level": 1,
+      "parent": "A63B21/00",
+      "ja": "反対側で二人で操作する装置",
+      "en": "Devices for two persons operating in opposition",
+      "count": 507,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B22/00": {
+      "code": "A63B22/00",
+      "level": 0,
+      "parent": "A63B",
+      "ja": "心臓血管系を良い状態にするため，動作の敏捷性または整合性を仕込むため特に適合した鍛練装置（力抵抗体に関するものＡ６３Ｂ２１／００；そのための電気または電子制御Ａ６３Ｂ２４／００）［５］",
+      "en": "Exercising apparatus specially adapted for conditioning the cardio-vascular system, for training agility or co-ordination of movements(force-resisting aspects <b>A63B21/00</b>; electric or electronic controls therefor <b>A63B24/00</b>)",
+      "count": 9134,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B22/02": {
+      "code": "A63B22/02",
+      "level": 1,
+      "parent": "A63B22/00",
+      "ja": "可動無端帯を有するもの［５］",
+      "en": "with movable endless bands",
+      "count": 13264,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B22/04": {
+      "code": "A63B22/04",
+      "level": 1,
+      "parent": "A63B22/00",
+      "ja": "可動踏台を有するもの［５］",
+      "en": "with movable steps",
+      "count": 8696,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B22/06": {
+      "code": "A63B22/06",
+      "level": 1,
+      "parent": "A63B22/00",
+      "ja": "回転する循環動作をするもの（自転車用支持台Ａ６３Ｂ６９／１６；一輪車Ｂ６２Ｋ１／００）［５］",
+      "en": "with rotating cycling movement(support stands for bicycles <b>A63B69/16</b>; unicycles <b>B62K1/00</b>)",
+      "count": 8860,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B22/08": {
+      "code": "A63B22/08",
+      "level": 2,
+      "parent": "A63B22/06",
+      "ja": "脚用［５］",
+      "en": "for the legs",
+      "count": 8151,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B22/10": {
+      "code": "A63B22/10",
+      "level": 2,
+      "parent": "A63B22/06",
+      "ja": "腕用［５］",
+      "en": "for the arms",
+      "count": 1295,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B22/12": {
+      "code": "A63B22/12",
+      "level": 2,
+      "parent": "A63B22/06",
+      "ja": "脚腕同時用［５］",
+      "en": "for legs and arms simultaneously",
+      "count": 1142,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B22/14": {
+      "code": "A63B22/14",
+      "level": 1,
+      "parent": "A63B22/00",
+      "ja": "垂直軸まわりの往復する回転運動のためのプラットフォーム［５］",
+      "en": "Platforms for reciprocating rotating motion about a vertical axis",
+      "count": 2325,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B22/16": {
+      "code": "A63B22/16",
+      "level": 1,
+      "parent": "A63B22/00",
+      "ja": "水平軸まわりの揺動運動のためのプラットフォーム；バランスドラム；バランスボードまたは類似のもの［５］",
+      "en": "Platforms for rocking motion about a horizontal axis; Balancing drums; Balancing boards or the like",
+      "count": 3131,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B22/18": {
+      "code": "A63B22/18",
+      "level": 1,
+      "parent": "A63B22/00",
+      "ja": "使用者の振動動作によって発生される循環運動または回転運動をする部材を有するもの（フープ鍛練装置Ａ６３Ｂ１９／００）［５］",
+      "en": "with elements having a circulating or rotating movement, generated by oscillating movement of the user(hoop exercising apparatus <b>A63B19/00</b>)",
+      "count": 1802,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B22/20": {
+      "code": "A63B22/20",
+      "level": 1,
+      "parent": "A63B22/00",
+      "ja": "鍛練中床または他の表面上を動かされるローラ，車輪，脚輪または類似のものを用いるもの［５］",
+      "en": "using rollers, wheels, castors or the like to be moved over the floor or other surface during exercising",
+      "count": 3559,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B23/00": {
+      "code": "A63B23/00",
+      "level": 0,
+      "parent": "A63B",
+      "ja": "身体の特定部分に特に適合した鍛練装置（Ａ６３Ｂ２２／００が優先；力抵抗体に関するものＡ６３Ｂ２１／００；そのための電気または電子制御Ａ６３Ｂ２４／００；キーボード操作教習で指または腕を鍛練または強化するための装置Ｇ０９Ｂ，例．Ｇ０９Ｂ１５／０６）［５］",
+      "en": "Exercising apparatus specially adapted for particular parts of the body(<b>A63B22/00</b> takes precedence; force-resisting aspects <b>A63B21/00</b>; electric or electronic controls therefor <b>A63B24/00</b>; devices for exercising or strengthening of fingers or arms in teaching operation of keyboards <b>G09B</b>, e.g. <b>G09B15/06</b>)",
+      "count": 10087,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B23/02": {
+      "code": "A63B23/02",
+      "level": 1,
+      "parent": "A63B23/00",
+      "ja": "腹，脊柱，胴，または肩用のもの",
+      "en": "for the abdomen, the spinal column, the torso, or the shoulders",
+      "count": 21006,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B23/025": {
+      "code": "A63B23/025",
+      "level": 1,
+      "parent": "A63B23/00",
+      "ja": "頭または首用［５］",
+      "en": "for the head or neck",
+      "count": 1439,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B23/03": {
+      "code": "A63B23/03",
+      "level": 2,
+      "parent": "A63B23/025",
+      "ja": "顔筋用［５］",
+      "en": "for face muscles",
+      "count": 1383,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B23/035": {
+      "code": "A63B23/035",
+      "level": 1,
+      "parent": "A63B23/00",
+      "ja": "肢，すなわち上肢または下肢用，例．同時にするもの［５］",
+      "en": "for limbs, i.e. upper or lower limbs, e.g. simultaneously",
+      "count": 9979,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B23/04": {
+      "code": "A63B23/04",
+      "level": 2,
+      "parent": "A63B23/035",
+      "ja": "下肢用［５］",
+      "en": "for lower limbs",
+      "count": 33164,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B23/08": {
+      "code": "A63B23/08",
+      "level": 3,
+      "parent": "A63B23/04",
+      "ja": "足関節用［５］",
+      "en": "for ankle-joints",
+      "count": 2975,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B23/10": {
+      "code": "A63B23/10",
+      "level": 3,
+      "parent": "A63B23/04",
+      "ja": "足または足指用［５］",
+      "en": "for feet or toes",
+      "count": 1976,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B23/12": {
+      "code": "A63B23/12",
+      "level": 2,
+      "parent": "A63B23/035",
+      "ja": "上肢用［５］",
+      "en": "for upper limbs",
+      "count": 25568,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B23/14": {
+      "code": "A63B23/14",
+      "level": 3,
+      "parent": "A63B23/12",
+      "ja": "手関節用［５］",
+      "en": "for wrist-joints",
+      "count": 2320,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B23/16": {
+      "code": "A63B23/16",
+      "level": 3,
+      "parent": "A63B23/12",
+      "ja": "手または指用［５］",
+      "en": "for hands or fingers",
+      "count": 9611,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B23/18": {
+      "code": "A63B23/18",
+      "level": 1,
+      "parent": "A63B23/00",
+      "ja": "呼吸器の機能を改善するためのもの［５］",
+      "en": "for improving respiratory function",
+      "count": 6291,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B23/20": {
+      "code": "A63B23/20",
+      "level": 1,
+      "parent": "A63B23/00",
+      "ja": "膣動筋用［５］",
+      "en": "for vaginal muscles",
+      "count": 1338,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B24/00": {
+      "code": "A63B24/00",
+      "level": 0,
+      "parent": "A63B",
+      "ja": "グループＡ６３Ｂ１／００～Ａ６３Ｂ２３／００の鍛練装置のための電気または電子制御［５］",
+      "en": "Electric or electronic controls for exercising apparatus of groups <b>A63B1/00 to A63B23/00</b> ",
+      "count": 22419,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B25/00": {
+      "code": "A63B25/00",
+      "level": 0,
+      "parent": "A63B",
+      "ja": "竹馬または類似物",
+      "en": "Stilts or the like",
+      "count": 969,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B25/02": {
+      "code": "A63B25/02",
+      "level": 1,
+      "parent": "A63B25/00",
+      "ja": "弾性的竹馬",
+      "en": "Elastic stilts",
+      "count": 180,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B25/04": {
+      "code": "A63B25/04",
+      "level": 1,
+      "parent": "A63B25/00",
+      "ja": "車を有するもの",
+      "en": "with wheels",
+      "count": 161,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B25/06": {
+      "code": "A63B25/06",
+      "level": 1,
+      "parent": "A63B25/00",
+      "ja": "ステップが延ばされるような靴をもつ竹馬",
+      "en": "Shoes formed with stilts to elongate the step",
+      "count": 54,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B25/08": {
+      "code": "A63B25/08",
+      "level": 1,
+      "parent": "A63B25/00",
+      "ja": "跳躍棒，例．ポーゴー（ホッピングの一種）",
+      "en": "Hopping-sticks, e.g. pogo sticks",
+      "count": 465,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B25/10": {
+      "code": "A63B25/10",
+      "level": 1,
+      "parent": "A63B25/00",
+      "ja": "足に固定できる弾力のある跳躍靴",
+      "en": "Elastic bouncing shoes fastened to the foot",
+      "count": 565,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B26/00": {
+      "code": "A63B26/00",
+      "level": 0,
+      "parent": "A63B",
+      "ja": "グループＡ６３Ｂ１／００～Ａ６３Ｂ２５／００に分類されない鍛練装置［５］",
+      "en": "Exercising apparatus not covered by groups <b>A63B1/00 to A63B25/00</b> ",
+      "count": 8983,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B27/00": {
+      "code": "A63B27/00",
+      "level": 0,
+      "parent": "A63B",
+      "ja": "登はん棒，登はん木，または類似物の装置（登山者用安全ベルトＡ６２Ｂ３５／００）",
+      "en": "Apparatus for climbing poles, trees, or the like(safety belts for climbers <b>A62B35/00</b>)",
+      "count": 1766,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B27/02": {
+      "code": "A63B27/02",
+      "level": 1,
+      "parent": "A63B27/00",
+      "ja": "丸い棒を登るために足にとりつけられる装置",
+      "en": "Climbing devices for round poles attachable to the feet",
+      "count": 1587,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B27/04": {
+      "code": "A63B27/04",
+      "level": 1,
+      "parent": "A63B27/00",
+      "ja": "横棒を登るための足にとりつけられる装置",
+      "en": "Climbing devices for profile poles attachable to the feet",
+      "count": 412,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B29/00": {
+      "code": "A63B29/00",
+      "level": 0,
+      "parent": "A63B",
+      "ja": "登山用器具（ヘルメットＡ４２Ｂ３／００；足にはくものにつける滑り止め具または装着物，例．アイゼンＡ４３Ｃ１５／００；高所で使用する呼吸マスクまたはヘルメットＡ６２Ｂ１８／００；ピッケルＢ２５Ｄ７／００）［３］",
+      "en": "Apparatus for mountaineering(helmets <b>A42B3/00</b>; non-skid devices or attachments for footwear, e.g. crampons, <b>A43C15/00</b>; breathing masks or helmets for use at high altitudes <b>A62B18/00</b>; picks <b>B25D7/00</b>)",
+      "count": 958,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B29/02": {
+      "code": "A63B29/02",
+      "level": 1,
+      "parent": "A63B29/00",
+      "ja": "登山用張り綱または付属品，例．雪崩綱；雪に埋ったように突発的に埋った人の位置を指示する手段",
+      "en": "Mountain guy-ropes or accessories, e.g. avalanche ropes; Means for indicating the location of accidentally buried, e.g. snow-buried, persons",
+      "count": 2261,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B29/04": {
+      "code": "A63B29/04",
+      "level": 1,
+      "parent": "A63B29/00",
+      "ja": "登はん用踏み段（永久固設されたものＥ０６Ｃ９／０４）",
+      "en": "Steps for climbing(for permanent fixing <b>E06C9/04</b>)",
+      "count": 129,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B29/08": {
+      "code": "A63B29/08",
+      "level": 1,
+      "parent": "A63B29/00",
+      "ja": "登山者用手道具",
+      "en": "Hand equipment for climbers",
+      "count": 1499,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B31/00": {
+      "code": "A63B31/00",
+      "level": 0,
+      "parent": "A63B",
+      "ja": "水泳補助具（水泳教習具Ａ６３Ｂ６９／１０～Ａ６３Ｂ６９／１４；水難救命具Ｂ６３Ｃ９／００）",
+      "en": "Swimming aids(teaching swimming <b>A63B69/10 to A63B69/14</b> ; life-saving in water <b>B63C9/00</b>)",
+      "count": 1971,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B31/02": {
+      "code": "A63B31/02",
+      "level": 1,
+      "parent": "A63B31/00",
+      "ja": "水泳用手袋",
+      "en": "Swimming gloves",
+      "count": 201,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B31/04": {
+      "code": "A63B31/04",
+      "level": 2,
+      "parent": "A63B31/02",
+      "ja": "推進面を増大する装置を有するもの",
+      "en": "with arrangements for enlarging the propulsive surface",
+      "count": 438,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B31/08": {
+      "code": "A63B31/08",
+      "level": 1,
+      "parent": "A63B31/00",
+      "ja": "水泳用ひれ，水かき，または他の，手，腕，足または脚によって保持され，または付着される水泳補助具（Ａ６３Ｂ３１／１８が優先；手袋として用いるものＡ６３Ｂ３１／０２）［３］",
+      "en": "Swim fins, flippers or other swimming aids held by, or attachable to, the hands, arms, feet or legs(<b>A63B31/18</b> takes precedence; worn as gloves <b>A63B31/02</b>)",
+      "count": 695,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B31/10": {
+      "code": "A63B31/10",
+      "level": 2,
+      "parent": "A63B31/08",
+      "ja": "手または足によって保持され，または付着されるもの［３］",
+      "en": "held by, or attachable to, the hands or feet",
+      "count": 515,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B31/11": {
+      "code": "A63B31/11",
+      "level": 3,
+      "parent": "A63B31/10",
+      "ja": "足にのみ付着されるもの［３］",
+      "en": "attachable only to the feet",
+      "count": 1515,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B31/12": {
+      "code": "A63B31/12",
+      "level": 2,
+      "parent": "A63B31/08",
+      "ja": "腕または脚によって保持され，または付着されるもの［３］",
+      "en": "held by, or attachable to, the arms or legs",
+      "count": 396,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B31/14": {
+      "code": "A63B31/14",
+      "level": 2,
+      "parent": "A63B31/08",
+      "ja": "弁体水かきを有するもの",
+      "en": "with valve-flaps",
+      "count": 400,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B31/16": {
+      "code": "A63B31/16",
+      "level": 2,
+      "parent": "A63B31/08",
+      "ja": "水かき面の寸法を変えるための装置を有するもの",
+      "en": "with arrangements for varying the size of the swimming surface",
+      "count": 54,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B31/18": {
+      "code": "A63B31/18",
+      "level": 1,
+      "parent": "A63B31/00",
+      "ja": "手足に同時に推進効果を有する水泳装置",
+      "en": "Swimming appliances with propulsive effect for hands and feet simultaneously",
+      "count": 58,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B33/00": {
+      "code": "A63B33/00",
+      "level": 0,
+      "parent": "A63B",
+      "ja": "頭部に取りつけられる水泳用具，例．スイミングキャップまたは水中メガネ（潜水マスクＢ６３Ｃ１１／１２；呼吸用補助具，例．スノーケル，Ｂ６３Ｃ１１／１８）",
+      "en": "Swimming equipment attachable to the head, e.g. swim caps or goggles(diving masks <b>B63C11/12</b>; breathing aids, e.g. snorkels, <b>B63C11/18</b>)",
+      "count": 3856,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B35/00": {
+      "code": "A63B35/00",
+      "level": 0,
+      "parent": "A63B",
+      "ja": "水泳者または原動機により操作される駆動機構を有する水泳用装置（その他の娯楽用またはスポーツ用の船舶またはそれに類する浮掲構造物Ｂ６３Ｂ３２／００，Ｂ６３Ｂ３４／００；潜水者用そりまたは類似の船Ｂ６３Ｃ１１／４６）  ［２００６．０１］",
+      "en": "Swimming framework with driving mechanisms operated by the swimmer or by a motor(other vessels or like floating structures for pleasure or sport <b>B63B32/00</b>, <b>B63B34/00</b>;  divers' sleds or like craft <b>B63C11/46</b>)",
+      "count": 369,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B35/02": {
+      "code": "A63B35/02",
+      "level": 1,
+      "parent": "A63B35/00",
+      "ja": "魚の尾のような形をしたもの",
+      "en": "shaped like a fish tail",
+      "count": 91,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B35/04": {
+      "code": "A63B35/04",
+      "level": 1,
+      "parent": "A63B35/00",
+      "ja": "水かき輪を有するもの",
+      "en": "with paddle wheels",
+      "count": 103,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B35/06": {
+      "code": "A63B35/06",
+      "level": 1,
+      "parent": "A63B35/00",
+      "ja": "二つの葉片状のかいまたは浮き易い部品を有するもの",
+      "en": "with twin-bladed paddles or buoyant members",
+      "count": 126,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B35/08": {
+      "code": "A63B35/08",
+      "level": 1,
+      "parent": "A63B35/00",
+      "ja": "推進プロペラを有するもの",
+      "en": "with propeller propulsion",
+      "count": 97,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B35/10": {
+      "code": "A63B35/10",
+      "level": 2,
+      "parent": "A63B35/08",
+      "ja": "水泳者により操作されるもの",
+      "en": "operated by the swimmer",
+      "count": 407,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B35/12": {
+      "code": "A63B35/12",
+      "level": 2,
+      "parent": "A63B35/08",
+      "ja": "原動機により駆動されるもの",
+      "en": "operated by a motor",
+      "count": 622,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B37/00": {
+      "code": "A63B37/00",
+      "level": 0,
+      "parent": "A63B",
+      "ja": "中実ボール；はじき玉（重い投てき用ボールＡ６３Ｂ６５／０６）",
+      "en": "Solid balls; Marbles(heavy throwing-balls <b>A63B65/06</b>)",
+      "count": 9131,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B37/02": {
+      "code": "A63B37/02",
+      "level": 1,
+      "parent": "A63B37/00",
+      "ja": "特殊な芯",
+      "en": "Special cores",
+      "count": 1127,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B37/04": {
+      "code": "A63B37/04",
+      "level": 2,
+      "parent": "A63B37/02",
+      "ja": "硬い芯",
+      "en": "Rigid cores",
+      "count": 1890,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B37/06": {
+      "code": "A63B37/06",
+      "level": 2,
+      "parent": "A63B37/02",
+      "ja": "弾性芯",
+      "en": "Elastic cores",
+      "count": 1914,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B37/08": {
+      "code": "A63B37/08",
+      "level": 2,
+      "parent": "A63B37/02",
+      "ja": "液状芯；プラスチック芯",
+      "en": "Liquid cores; Plastic cores",
+      "count": 632,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B37/10": {
+      "code": "A63B37/10",
+      "level": 2,
+      "parent": "A63B37/02",
+      "ja": "偏芯を有するもの",
+      "en": "with eccentric centre of gravity",
+      "count": 111,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B37/12": {
+      "code": "A63B37/12",
+      "level": 1,
+      "parent": "A63B37/00",
+      "ja": "特殊なカバー",
+      "en": "Special coverings",
+      "count": 2907,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B37/14": {
+      "code": "A63B37/14",
+      "level": 1,
+      "parent": "A63B37/00",
+      "ja": "特殊な表面",
+      "en": "Special surfaces",
+      "count": 1524,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B39/00": {
+      "code": "A63B39/00",
+      "level": 0,
+      "parent": "A63B",
+      "ja": "中空でふくらますことのできないボール",
+      "en": "Hollow non-inflatable balls",
+      "count": 1154,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B39/02": {
+      "code": "A63B39/02",
+      "level": 1,
+      "parent": "A63B39/00",
+      "ja": "圧力を持続する装置",
+      "en": "Arrangements for maintaining the pressure",
+      "count": 202,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B39/04": {
+      "code": "A63B39/04",
+      "level": 2,
+      "parent": "A63B39/02",
+      "ja": "小孔を持つボール",
+      "en": "Pricking balls",
+      "count": 97,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B39/06": {
+      "code": "A63B39/06",
+      "level": 1,
+      "parent": "A63B39/00",
+      "ja": "特殊なカバー",
+      "en": "Special coverings",
+      "count": 547,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B39/08": {
+      "code": "A63B39/08",
+      "level": 2,
+      "parent": "A63B39/06",
+      "ja": "二片よりなるもの",
+      "en": "made of two halves",
+      "count": 163,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B41/00": {
+      "code": "A63B41/00",
+      "level": 0,
+      "parent": "A63B",
+      "ja": "中空でふくらますことのできるボール",
+      "en": "Hollow inflatable balls",
+      "count": 2005,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B41/02": {
+      "code": "A63B41/02",
+      "level": 1,
+      "parent": "A63B41/00",
+      "ja": "チューブ",
+      "en": "Bladders",
+      "count": 625,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B41/04": {
+      "code": "A63B41/04",
+      "level": 2,
+      "parent": "A63B41/02",
+      "ja": "チューブ口をふさぐもの",
+      "en": "Closures therefor",
+      "count": 247,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B41/08": {
+      "code": "A63B41/08",
+      "level": 1,
+      "parent": "A63B41/00",
+      "ja": "ボールカバー；ボールカバーをとじるもの",
+      "en": "Ball covers; Closures therefor",
+      "count": 1623,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B41/10": {
+      "code": "A63B41/10",
+      "level": 1,
+      "parent": "A63B41/00",
+      "ja": "チューブおよびカバーが一体となっているもの",
+      "en": "Bladder and cover united",
+      "count": 287,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B41/12": {
+      "code": "A63B41/12",
+      "level": 1,
+      "parent": "A63B41/00",
+      "ja": "ボールをふくらましたり閉じたりする道具または装置",
+      "en": "Tools or devices for blowing up or closing balls",
+      "count": 951,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B43/00": {
+      "code": "A63B43/00",
+      "level": 0,
+      "parent": "A63B",
+      "ja": "特別の装置を有するボール",
+      "en": "Balls with special arrangements",
+      "count": 4694,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B43/02": {
+      "code": "A63B43/02",
+      "level": 1,
+      "parent": "A63B43/00",
+      "ja": "ハンドルを有するもの",
+      "en": "with a handle",
+      "count": 407,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B43/04": {
+      "code": "A63B43/04",
+      "level": 1,
+      "parent": "A63B43/00",
+      "ja": "偏心を有するものまたは重心を変える機構を有するもの（中実ボールＡ６３Ｂ３７／１０）",
+      "en": "with an eccentric centre of gravity or with mechanism for changing the centre of gravity (solid balls <b>A63B37/10</b>)",
+      "count": 462,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B43/06": {
+      "code": "A63B43/06",
+      "level": 1,
+      "parent": "A63B43/00",
+      "ja": "発光装置のあるもの",
+      "en": "with illuminating devices",
+      "count": 1357,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B45/00": {
+      "code": "A63B45/00",
+      "level": 0,
+      "parent": "A63B",
+      "ja": "ボール製造装置または方法（プラスチックの加工Ｂ２９）",
+      "en": "Apparatus or methods for manufacturing balls(working of plastics or substances in a plastic state <b>B29</b>)",
+      "count": 3134,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B45/02": {
+      "code": "A63B45/02",
+      "level": 1,
+      "parent": "A63B45/00",
+      "ja": "ボールのマーク付け",
+      "en": "Marking of balls",
+      "count": 740,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B47/00": {
+      "code": "A63B47/00",
+      "level": 0,
+      "parent": "A63B",
+      "ja": "ボールの保持または取扱い装置",
+      "en": "Devices for handling or treating balls",
+      "count": 3757,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B47/02": {
+      "code": "A63B47/02",
+      "level": 1,
+      "parent": "A63B47/00",
+      "ja": "拾集用",
+      "en": "for picking-up",
+      "count": 7003,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B47/04": {
+      "code": "A63B47/04",
+      "level": 1,
+      "parent": "A63B47/00",
+      "ja": "ボール清浄用（ボーリング場または卓上玉ころがし場用付属物としてのボール清浄機Ａ６３Ｄ５／１０）",
+      "en": "for cleaning balls(apparatus for cleaning balls, as accessories for bowling- or table alleys <b>A63D5/10</b>)",
+      "count": 2158,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B49/00": {
+      "code": "A63B49/00",
+      "level": 0,
+      "parent": "A63B",
+      "ja": "ガット張りラケット，例．テニス用（そのためのガットＡ６３Ｂ５１／００）［１，２０１５．０１］",
+      "en": "Stringed rackets, e.g. for tennis(strings therefor <b>A63B51/00</b>)",
+      "count": 1775,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B49/02": {
+      "code": "A63B49/02",
+      "level": 1,
+      "parent": "A63B49/00",
+      "ja": "フレーム［１，２０１５．０１］",
+      "en": "Frames",
+      "count": 3764,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B49/022": {
+      "code": "A63B49/022",
+      "level": 2,
+      "parent": "A63B49/02",
+      "ja": "フレーム上のガットガイド，例．グロメット［２０１５．０１］",
+      "en": "String guides on frames, e.g. grommets",
+      "count": 383,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B49/025": {
+      "code": "A63B49/025",
+      "level": 2,
+      "parent": "A63B49/02",
+      "ja": "ガットの端部を留めるフレーム上の手段［２０１５．０１］",
+      "en": "Means on frames for clamping string ends",
+      "count": 54,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B49/028": {
+      "code": "A63B49/028",
+      "level": 2,
+      "parent": "A63B49/02",
+      "ja": "ガット面の可動性を高める手段［２０１５．０１］",
+      "en": "Means for achieving greater mobility of the string bed",
+      "count": 66,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B49/03": {
+      "code": "A63B49/03",
+      "level": 2,
+      "parent": "A63B49/02",
+      "ja": "スロート部，すなわちヘッドとシャフトの間の部分または部材，により特徴付けられるもの［２０１５．０１］",
+      "en": "characterised by throat sections, i.e. sections or elements between the head and the shaft",
+      "count": 477,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B49/032": {
+      "code": "A63B49/032",
+      "level": 3,
+      "parent": "A63B49/03",
+      "ja": "Ｔ型接続部材［２０１５．０１］",
+      "en": "T-shaped connection elements",
+      "count": 122,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B49/035": {
+      "code": "A63B49/035",
+      "level": 2,
+      "parent": "A63B49/02",
+      "ja": "容易に取り外すことのできる部品，例．ヘッド，シャフトまたはグリップ，を有するもの［２０１５．０１］",
+      "en": "with easily dismountable parts, e.g. heads, shafts or grips",
+      "count": 476,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B49/038": {
+      "code": "A63B49/038",
+      "level": 2,
+      "parent": "A63B49/02",
+      "ja": "ガットを張り替えるためのヘッドサブフレームを有するもの［２０１５．０１］",
+      "en": "with head subframes for replacing strings",
+      "count": 65,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B49/08": {
+      "code": "A63B49/08",
+      "level": 2,
+      "parent": "A63B49/02",
+      "ja": "ハンドルが特殊構造を有するもの［１，２０１５．０１］",
+      "en": "with special construction of the handle",
+      "count": 3602,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B49/10": {
+      "code": "A63B49/10",
+      "level": 2,
+      "parent": "A63B49/02",
+      "ja": "木以外の非金属材料からなるもの［１，２０１５．０１］",
+      "en": "made of non-metallic materials, other than wood",
+      "count": 1399,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B49/11": {
+      "code": "A63B49/11",
+      "level": 3,
+      "parent": "A63B49/10",
+      "ja": "膨張式のチューブを有するもの，例．製作時に膨張させるもの［２０１５．０１］",
+      "en": "with inflatable tubes, e.g. inflatable during fabrication",
+      "count": 51,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B49/12": {
+      "code": "A63B49/12",
+      "level": 2,
+      "parent": "A63B49/02",
+      "ja": "金属製のもの［１，２０１５．０１］",
+      "en": "made of metal",
+      "count": 574,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B49/14": {
+      "code": "A63B49/14",
+      "level": 2,
+      "parent": "A63B49/02",
+      "ja": "フレームの保護装置［１，２０１５．０１］",
+      "en": "Protection devices on the frame",
+      "count": 574,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B51/00": {
+      "code": "A63B51/00",
+      "level": 0,
+      "parent": "A63B",
+      "ja": "テニス，バドミントンまたは類似ラケットのガット張り；そのためのガット；ラケットガットの保全［１，２０１５．０１］",
+      "en": "Stringing tennis, badminton or like rackets; Strings therefor; Maintenance of racket strings",
+      "count": 806,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B51/005": {
+      "code": "A63B51/005",
+      "level": 1,
+      "parent": "A63B51/00",
+      "ja": "ガットの張力を測定する装置（ガット張り時に張力を制御するものＡ６３Ｂ５１／１４）［２０１５．０１］",
+      "en": "Devices for measuring the tension of strings(for controlling the tension during stringing <b>A63B51/14</b>)",
+      "count": 40,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B51/01": {
+      "code": "A63B51/01",
+      "level": 1,
+      "parent": "A63B51/00",
+      "ja": "フレームに挿入する準備のできている予め張られたガットセット［２０１５．０１］",
+      "en": "Pre-woven string-sets ready for insertion into a frame",
+      "count": 19,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B51/015": {
+      "code": "A63B51/015",
+      "level": 1,
+      "parent": "A63B51/00",
+      "ja": "ガットを整列する道具［２０１５．０１］",
+      "en": "String-aligning tools",
+      "count": 40,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B51/02": {
+      "code": "A63B51/02",
+      "level": 1,
+      "parent": "A63B51/00",
+      "ja": "ガット；代用ガット；ガットに適用される製品，例．湿気または摩耗から保護するもの［１，２０１５．０１］",
+      "en": "Strings; String substitutes; Products applied on strings, e.g. for protection against humidity or wear",
+      "count": 872,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B51/04": {
+      "code": "A63B51/04",
+      "level": 2,
+      "parent": "A63B51/02",
+      "ja": "代用として使用される膜状のもの",
+      "en": "Sheet-like structures used as substitutes",
+      "count": 93,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B51/06": {
+      "code": "A63B51/06",
+      "level": 1,
+      "parent": "A63B51/00",
+      "ja": "両面張り",
+      "en": "Double-sided stringing",
+      "count": 185,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B51/08": {
+      "code": "A63B51/08",
+      "level": 1,
+      "parent": "A63B51/00",
+      "ja": "対角線張り",
+      "en": "Diagonal stringing",
+      "count": 114,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B51/10": {
+      "code": "A63B51/10",
+      "level": 1,
+      "parent": "A63B51/00",
+      "ja": "ガットの補強［１，２０１５．０１］",
+      "en": "Reinforcements for stringing",
+      "count": 227,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B51/11": {
+      "code": "A63B51/11",
+      "level": 2,
+      "parent": "A63B51/10",
+      "ja": "ガットの交点用の中間部材［２０１５．０１］",
+      "en": "Intermediate members for the cross-points of the strings",
+      "count": 45,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B51/12": {
+      "code": "A63B51/12",
+      "level": 1,
+      "parent": "A63B51/00",
+      "ja": "ガットの張りを加減するためにラケットの上または内に取り付ける手段",
+      "en": "Devices arranged in or on the racket for adjusting the tension of the strings",
+      "count": 436,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B51/14": {
+      "code": "A63B51/14",
+      "level": 1,
+      "parent": "A63B51/00",
+      "ja": "ガット張り装置，例．ガット張り時にガットの張力を制御するもの",
+      "en": "Arrangements for stringing, e.g. for controlling the tension of the strings during stringing",
+      "count": 661,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B51/16": {
+      "code": "A63B51/16",
+      "level": 2,
+      "parent": "A63B51/14",
+      "ja": "製造過程でガットを張る装置",
+      "en": "Apparatus for stringing while manufacturing",
+      "count": 256,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B53/00": {
+      "code": "A63B53/00",
+      "level": 0,
+      "parent": "A63B",
+      "ja": "ゴルフクラブ［１，２０１５．０１］",
+      "en": "Golf clubs",
+      "count": 6480,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B53/02": {
+      "code": "A63B53/02",
+      "level": 1,
+      "parent": "A63B53/00",
+      "ja": "ヘッドとシャフトとの結合構造［１，２０１５．０１］",
+      "en": "Joint structures between the head and the shaft",
+      "count": 3421,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B53/04": {
+      "code": "A63B53/04",
+      "level": 1,
+      "parent": "A63B53/00",
+      "ja": "ヘッド［１，２０１５．０１］",
+      "en": "Heads",
+      "count": 16866,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B53/06": {
+      "code": "A63B53/06",
+      "level": 2,
+      "parent": "A63B53/04",
+      "ja": "調節できるもの［１，２０１５．０１］",
+      "en": "adjustable",
+      "count": 3049,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B53/08": {
+      "code": "A63B53/08",
+      "level": 1,
+      "parent": "A63B53/00",
+      "ja": "種々のインパクトを得るための特殊装置を有するもの［１，２０１５．０１］",
+      "en": "with special arrangements for obtaining a variable impact",
+      "count": 982,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B53/10": {
+      "code": "A63B53/10",
+      "level": 1,
+      "parent": "A63B53/00",
+      "ja": "非金属シャフト［１，２０１５．０１］",
+      "en": "Non-metallic shafts",
+      "count": 2879,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B53/12": {
+      "code": "A63B53/12",
+      "level": 1,
+      "parent": "A63B53/00",
+      "ja": "金属シャフト［１，２０１５．０１］",
+      "en": "Metallic shafts",
+      "count": 1287,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B53/14": {
+      "code": "A63B53/14",
+      "level": 1,
+      "parent": "A63B53/00",
+      "ja": "ハンドル［１，２０１５．０１］",
+      "en": "Handles",
+      "count": 3797,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B55/00": {
+      "code": "A63B55/00",
+      "level": 0,
+      "parent": "A63B",
+      "ja": "ゴルフクラブ用バッグ；コースで使用するゴルフクラブ用スタンド；ゴルフバッグに特に適合した車輪付き運搬具［１，２０１５．０１］",
+      "en": "Bags for golf clubs; Stands for golf clubs for use on the course; Wheeled carriers specially adapted for golf bags",
+      "count": 3749,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B55/10": {
+      "code": "A63B55/10",
+      "level": 1,
+      "parent": "A63B55/00",
+      "ja": "コースで使用するゴルフクラブ入れ",
+      "en": "Stands for golf clubs for use on the course",
+      "count": 540,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B55/20": {
+      "code": "A63B55/20",
+      "level": 1,
+      "parent": "A63B55/00",
+      "ja": "ボールの特殊容器を有するもの［２０１５．０１］",
+      "en": "with special receptacles for the balls",
+      "count": 337,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B55/30": {
+      "code": "A63B55/30",
+      "level": 1,
+      "parent": "A63B55/00",
+      "ja": "車輪付きバッグ［２０１５．０１］",
+      "en": "Bags with wheels",
+      "count": 411,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B55/40": {
+      "code": "A63B55/40",
+      "level": 1,
+      "parent": "A63B55/00",
+      "ja": "仕切りまたはクラブ保持具付バッグ［２０１５．０１］",
+      "en": "Bags with partitions or club holders",
+      "count": 709,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B55/50": {
+      "code": "A63B55/50",
+      "level": 1,
+      "parent": "A63B55/00",
+      "ja": "支持体，例．地上に固定する装置を有するもの［２０１５．０１］",
+      "en": "Supports, e.g. with devices for anchoring to the ground",
+      "count": 336,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B55/53": {
+      "code": "A63B55/53",
+      "level": 2,
+      "parent": "A63B55/50",
+      "ja": "バッグを地上に置くと自動的に開く脚を有するもの［２０１５．０１］",
+      "en": "with legs opening automatically upon putting the bag on the ground",
+      "count": 30,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B55/57": {
+      "code": "A63B55/57",
+      "level": 2,
+      "parent": "A63B55/50",
+      "ja": "三脚または類似の支持架を有するバッグ［２０１５．０１］",
+      "en": "Bags with tripod or like set-up stands",
+      "count": 657,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B55/60": {
+      "code": "A63B55/60",
+      "level": 1,
+      "parent": "A63B55/00",
+      "ja": "ゴルフバッグに特に適合した車輪付き運搬具［２０１５．０１］",
+      "en": "Wheeled carriers specially adapted for golf bags",
+      "count": 3913,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B57/00": {
+      "code": "A63B57/00",
+      "level": 0,
+      "parent": "A63B",
+      "ja": "ゴルフ付属品［１，２０１５．０１］",
+      "en": "Golfing accessories",
+      "count": 7270,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B57/10": {
+      "code": "A63B57/10",
+      "level": 1,
+      "parent": "A63B57/00",
+      "ja": "ゴルフティー［２０１５．０１］",
+      "en": "Golf tees",
+      "count": 770,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B57/12": {
+      "code": "A63B57/12",
+      "level": 2,
+      "parent": "A63B57/10",
+      "ja": "紐に係止されているもの［２０１５．０１］",
+      "en": "attached to straps",
+      "count": 147,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B57/13": {
+      "code": "A63B57/13",
+      "level": 2,
+      "parent": "A63B57/10",
+      "ja": "中折れまたは分離するもの［２０１５．０１］",
+      "en": "foldable or separable",
+      "count": 194,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B57/15": {
+      "code": "A63B57/15",
+      "level": 2,
+      "parent": "A63B57/10",
+      "ja": "高さを調節できるもの［２０１５．０１］",
+      "en": "height-adjustable",
+      "count": 201,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B57/16": {
+      "code": "A63B57/16",
+      "level": 2,
+      "parent": "A63B57/10",
+      "ja": "ブラシ状ティー［２０１５．０１］",
+      "en": "Brush-type tees",
+      "count": 39,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B57/18": {
+      "code": "A63B57/18",
+      "level": 2,
+      "parent": "A63B57/10",
+      "ja": "筆記具が付いたもの［２０１５．０１］",
+      "en": "with writing means",
+      "count": 31,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B57/19": {
+      "code": "A63B57/19",
+      "level": 2,
+      "parent": "A63B57/10",
+      "ja": "方向片が付いたもの［２０１５．０１］",
+      "en": "with direction indicators",
+      "count": 104,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B57/20": {
+      "code": "A63B57/20",
+      "level": 1,
+      "parent": "A63B57/00",
+      "ja": "保持具，例．ティーまたはボール用［２０１５．０１］",
+      "en": "Holders, e.g. of tees or of balls",
+      "count": 652,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B57/30": {
+      "code": "A63B57/30",
+      "level": 1,
+      "parent": "A63B57/00",
+      "ja": "マーカー［２０１５．０１］",
+      "en": "Markers",
+      "count": 806,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B57/35": {
+      "code": "A63B57/35",
+      "level": 2,
+      "parent": "A63B57/30",
+      "ja": "磁性保持するもの［２０１５．０１］",
+      "en": "with magnets",
+      "count": 224,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B57/40": {
+      "code": "A63B57/40",
+      "level": 1,
+      "parent": "A63B57/00",
+      "ja": "ゴルフカップまたはホール［２０１５．０１］",
+      "en": "Golf cups or holes",
+      "count": 457,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B57/50": {
+      "code": "A63B57/50",
+      "level": 1,
+      "parent": "A63B57/00",
+      "ja": "コースの保全に特に適合したもの［２０１５．０１］",
+      "en": "specially adapted for course maintenance",
+      "count": 405,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B57/60": {
+      "code": "A63B57/60",
+      "level": 1,
+      "parent": "A63B57/00",
+      "ja": "ゴルフクラブ，パター，靴またはその他のゴルフ付属品の清掃または保全（ゴルフクラブまたはパターのハンドルまたはグリップを清掃する装置Ａ６３Ｂ６０／３６）［２０１５．０１］",
+      "en": "Cleaning or maintenance of golf clubs, putters, shoes or other golf accessories(devices for cleaning handles or grips of golf clubs or putters <b>A63B60/36</b>)",
+      "count": 305,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B59/00": {
+      "code": "A63B59/00",
+      "level": 0,
+      "parent": "A63B",
+      "ja": "グループＡ６３Ｂ４９／００～Ａ６３Ｂ５７／００に包含されないバット，ラケットまたは類似物［１，２０１５．０１］<br><br><b><ul>注</ul></b><br>このグループでは，用語「ボール」は，ゲーム中に打たれるパックまたはその他の物体をも包含する［２０１５．０１］",
+      "en": "Bats, rackets or the like, not covered by groups <b>A63B49/00 to A63B57/00</b> ; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this group, the term \"ball\" also covers pucks or other objects to be hit during the game.   </li></ul>",
+      "count": 3029,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B59/20": {
+      "code": "A63B59/20",
+      "level": 1,
+      "parent": "A63B59/00",
+      "ja": "ボールを捕獲または保持するための手段，例．ポケット，ネットまたは粘着式の表面，を有するもの，例．ラクロスまたはペロタ用［２０１５．０１］",
+      "en": "having means, e.g. pockets, netting or adhesive type surfaces, for catching or holding a ball, e.g. for lacrosse or pelota",
+      "count": 362,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B59/30": {
+      "code": "A63B59/30",
+      "level": 1,
+      "parent": "A63B59/00",
+      "ja": "リング，ディスク，輪または筒状の投擲体を使用するための，または中央に穴のあるボールを使用するための投擲または捕獲を手持ち式で補助するもの［２０１５．０１］",
+      "en": "forming hand-held throwing or catching aids for use with rings, discs, wheels or cylindrical throwing-bodies, or for use with balls having a central bore",
+      "count": 61,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B59/40": {
+      "code": "A63B59/40",
+      "level": 1,
+      "parent": "A63B59/00",
+      "ja": "空中にあるボールを打つための平らな打撃面を有するラケットまたは類似物，例．卓球用［２０１５．０１］",
+      "en": "Rackets or the like with flat striking surfaces for hitting a ball in the air, e.g. for table tennis",
+      "count": 709,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B59/42": {
+      "code": "A63B59/42",
+      "level": 2,
+      "parent": "A63B59/40",
+      "ja": "表面が密であるもの［２０１５．０１］",
+      "en": "with solid surfaces",
+      "count": 1991,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B59/45": {
+      "code": "A63B59/45",
+      "level": 3,
+      "parent": "A63B59/42",
+      "ja": "そのためのラバー部材；ラバー部材とラケット本体の間の接着により特徴付けられるもの［２０１５．０１］",
+      "en": "Rubber parts thereof; characterised by bonding between a rubber part and the racket body",
+      "count": 489,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B59/48": {
+      "code": "A63B59/48",
+      "level": 2,
+      "parent": "A63B59/40",
+      "ja": "表面が孔を有するもの［２０１５．０１］",
+      "en": "with perforated surfaces",
+      "count": 219,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B59/50": {
+      "code": "A63B59/50",
+      "level": 1,
+      "parent": "A63B59/00",
+      "ja": "空中にあるボールを打つための実質的に棒状のバット，例．野球用［２０１５．０１］",
+      "en": "Substantially rod-shaped bats for hitting a ball in the air, e.g. for baseball",
+      "count": 648,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B59/51": {
+      "code": "A63B59/51",
+      "level": 2,
+      "parent": "A63B59/50",
+      "ja": "金属製のもの［２０１５．０１］",
+      "en": "made of metal",
+      "count": 490,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B59/52": {
+      "code": "A63B59/52",
+      "level": 2,
+      "parent": "A63B59/50",
+      "ja": "木製または竹製のもの［２０１５．０１］",
+      "en": "made of wood or bamboo",
+      "count": 202,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B59/54": {
+      "code": "A63B59/54",
+      "level": 2,
+      "parent": "A63B59/50",
+      "ja": "プラスチック製のもの［２０１５．０１］",
+      "en": "made of plastic",
+      "count": 349,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B59/55": {
+      "code": "A63B59/55",
+      "level": 2,
+      "parent": "A63B59/50",
+      "ja": "非円形の断面を有するもの［２０１５．０１］",
+      "en": "with non-circular cross-section",
+      "count": 72,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B59/56": {
+      "code": "A63B59/56",
+      "level": 2,
+      "parent": "A63B59/50",
+      "ja": "ヘッドにより特徴付けられるもの［２０１５．０１］",
+      "en": "characterised by the head",
+      "count": 263,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B59/58": {
+      "code": "A63B59/58",
+      "level": 2,
+      "parent": "A63B59/50",
+      "ja": "形状により特徴付けられるもの（Ａ６３Ｂ５９／５５，Ａ６３Ｂ５９／５６が優先）［２０１５．０１］",
+      "en": "characterised by the shape(<b>A63B59/55</b>, <b>A63B59/56</b> take precedence)",
+      "count": 233,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B59/59": {
+      "code": "A63B59/59",
+      "level": 2,
+      "parent": "A63B59/50",
+      "ja": "発音器を有するもの，例．そのために内部で動く部材を有するもの［２０１５．０１］",
+      "en": "with sound generators, e.g. with internal movable members therefor",
+      "count": 112,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B59/60": {
+      "code": "A63B59/60",
+      "level": 1,
+      "parent": "A63B59/00",
+      "ja": "木槌型のもの，例．クローケー用［２０１５．０１］",
+      "en": "of mallet type, e.g. for croquet",
+      "count": 516,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B59/70": {
+      "code": "A63B59/70",
+      "level": 1,
+      "parent": "A63B59/00",
+      "ja": "地上，氷上，または空中にあるボールを打つために屈曲したまたは角度が付いた下部を有するもの，例．ホッケーまたはハーリング用［２０１５．０１］",
+      "en": "with bent or angled lower parts for hitting a ball on the ground, on an ice-covered surface, or in the air, e.g. for hockey or hurling",
+      "count": 751,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B59/80": {
+      "code": "A63B59/80",
+      "level": 1,
+      "parent": "A63B59/00",
+      "ja": "円形のバットまたはパドルでグループＡ６３Ｂ５９／２０～Ａ６３Ｂ５９／７０に包含されないもの［２０１５．０１］",
+      "en": "Circular bats or paddles not provided for in groups <b>A63B59/20 to A63B59/70</b> ",
+      "count": 148,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B60/00": {
+      "code": "A63B60/00",
+      "level": 0,
+      "parent": "A63B",
+      "ja": "ゴルフクラブ，バット，ラケットまたは類似物の細部または付属品［２０１５．０１］",
+      "en": "Details or accessories of golf clubs, bats, rackets or the like",
+      "count": 915,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B60/02": {
+      "code": "A63B60/02",
+      "level": 1,
+      "parent": "A63B60/00",
+      "ja": "重心を調節するためのおもり（Ａ６３Ｂ６０／２４，Ａ６３Ｂ６０／５４が優先）［２０１５．０１］",
+      "en": "Ballast means for adjusting the centre of mass(<b>A63B60/24</b>, <b>A63B60/54</b> take precedence)",
+      "count": 1085,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B60/04": {
+      "code": "A63B60/04",
+      "level": 2,
+      "parent": "A63B60/02",
+      "ja": "動かせるおもり［２０１５．０１］",
+      "en": "Movable ballast means",
+      "count": 344,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B60/06": {
+      "code": "A63B60/06",
+      "level": 1,
+      "parent": "A63B60/00",
+      "ja": "ハンドル［２０１５．０１］",
+      "en": "Handles",
+      "count": 1549,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B60/08": {
+      "code": "A63B60/08",
+      "level": 2,
+      "parent": "A63B60/06",
+      "ja": "材料により特徴付けられるもの［２０１５．０１］",
+      "en": "characterised by the material",
+      "count": 613,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B60/10": {
+      "code": "A63B60/10",
+      "level": 2,
+      "parent": "A63B60/06",
+      "ja": "正しい握り位置を示す手段を有するもの（Ａ６３Ｂ６０／１２が優先）［２０１５．０１］",
+      "en": "with means for indicating correct holding positions(<b>A63B60/12</b> takes precedence)",
+      "count": 338,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B60/12": {
+      "code": "A63B60/12",
+      "level": 2,
+      "parent": "A63B60/06",
+      "ja": "ユーザーの手の形状に沿って外形付けられたもの［２０１５．０１］",
+      "en": "contoured according to the anatomy of the user's hand",
+      "count": 404,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B60/14": {
+      "code": "A63B60/14",
+      "level": 2,
+      "parent": "A63B60/06",
+      "ja": "ハンドルに特に適合したカバー，例，筒またはテープ［２０１５．０１］",
+      "en": "Coverings specially adapted for handles, e.g. sleeves or ribbons",
+      "count": 1291,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B60/16": {
+      "code": "A63B60/16",
+      "level": 2,
+      "parent": "A63B60/06",
+      "ja": "キャップ；フェルール［２０１５．０１］",
+      "en": "Caps; Ferrules",
+      "count": 374,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B60/18": {
+      "code": "A63B60/18",
+      "level": 2,
+      "parent": "A63B60/06",
+      "ja": "冷却する，通風するまたは汗を除去する手段，例．穴または粉体ディスペンサ，を有するもの［２０１５．０１］",
+      "en": "with means for cooling, ventilating or sweat-reduction, e.g. holes or powder dispensers",
+      "count": 336,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B60/20": {
+      "code": "A63B60/20",
+      "level": 2,
+      "parent": "A63B60/06",
+      "ja": "２つのハンドグリップを有するもの［２０１５．０１］",
+      "en": "with two handgrips",
+      "count": 80,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B60/22": {
+      "code": "A63B60/22",
+      "level": 2,
+      "parent": "A63B60/06",
+      "ja": "調節できるハンドル［２０１５．０１］",
+      "en": "Adjustable handles",
+      "count": 216,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B60/24": {
+      "code": "A63B60/24",
+      "level": 3,
+      "parent": "A63B60/22",
+      "ja": "加重ハンドル［２０１５．０１］",
+      "en": "Weighted handles",
+      "count": 326,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B60/26": {
+      "code": "A63B60/26",
+      "level": 3,
+      "parent": "A63B60/22",
+      "ja": "剛性を調整できるもの［２０１５．０１］",
+      "en": "with adjustable stiffness",
+      "count": 25,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B60/28": {
+      "code": "A63B60/28",
+      "level": 3,
+      "parent": "A63B60/22",
+      "ja": "長さを調節できるもの［２０１５．０１］",
+      "en": "with adjustable length",
+      "count": 282,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B60/30": {
+      "code": "A63B60/30",
+      "level": 3,
+      "parent": "A63B60/22",
+      "ja": "周囲の長さを調節できるもの［２０１５．０１］",
+      "en": "with adjustable circumference",
+      "count": 34,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B60/32": {
+      "code": "A63B60/32",
+      "level": 2,
+      "parent": "A63B60/06",
+      "ja": "長軸に対してハンドルの角度位置を変える手段を有するもの［２０１５．０１］",
+      "en": "with means for changing the angular position of the handle about its longitudinal axis",
+      "count": 54,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B60/34": {
+      "code": "A63B60/34",
+      "level": 2,
+      "parent": "A63B60/06",
+      "ja": "ハンドルの軸が主軸と異なるもの［２０１５．０１］",
+      "en": "with the handle axis different from the main axis of the implement",
+      "count": 126,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B60/36": {
+      "code": "A63B60/36",
+      "level": 1,
+      "parent": "A63B60/00",
+      "ja": "ハンドルまたはグリップを清掃する装置［２０１５．０１］",
+      "en": "Devices for cleaning handles or grips",
+      "count": 57,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B60/38": {
+      "code": "A63B60/38",
+      "level": 1,
+      "parent": "A63B60/00",
+      "ja": "ボールを保管および供給する構造的に付随した手段を有するもの［２０１５．０１］",
+      "en": "Structurally associated means for storing and dispensing balls",
+      "count": 164,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B60/40": {
+      "code": "A63B60/40",
+      "level": 1,
+      "parent": "A63B60/00",
+      "ja": "打撃面の内側，縁または裏面に把持手段を有するもの［２０１５．０１］",
+      "en": "having holding means provided inside, on the edge or on the rear face of the striking surface",
+      "count": 211,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B60/42": {
+      "code": "A63B60/42",
+      "level": 1,
+      "parent": "A63B60/00",
+      "ja": "ゴルフクラブ，バット，ラケットまたは類似物の固有の特性を測定，検証，修正またはカスタマイズする装置，例．打撃時にシャフトが耐えることのできる最大トルクを測定するもの［２０１５．０１］",
+      "en": "Devices for measuring, verifying, correcting or customising the inherent characteristics of golf clubs, bats, rackets or the like, e.g. measuring the maximum torque a batting shaft can withstand",
+      "count": 634,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B60/44": {
+      "code": "A63B60/44",
+      "level": 2,
+      "parent": "A63B60/42",
+      "ja": "ガット張りラケット用ラケットプレス［２０１５．０１］",
+      "en": "Presses for stringed rackets",
+      "count": 238,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B60/46": {
+      "code": "A63B60/46",
+      "level": 1,
+      "parent": "A63B60/00",
+      "ja": "スポーツ活動に関連する物理的パラメータを測定するための，ゴルフクラブ，バット，ラケットまたは類似物に付随する測定装置，例．衝撃表示器を有する野球バットまたはゴルフスイングを測定するブレスレット［２０１５．０１］",
+      "en": "Measurement devices associated with golf clubs, bats, rackets or the like for measuring physical parameters relating to sporting activity, e.g. baseball bats with impact indicators or bracelets for measuring the golf swing",
+      "count": 1005,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B60/48": {
+      "code": "A63B60/48",
+      "level": 1,
+      "parent": "A63B60/00",
+      "ja": "波形の断面を有するもの［２０１５．０１］",
+      "en": "with corrugated cross-section",
+      "count": 72,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B60/50": {
+      "code": "A63B60/50",
+      "level": 1,
+      "parent": "A63B60/00",
+      "ja": "貫通孔を有するもの（Ａ６３Ｂ６０／１８が優先；ガット張りを目的とするものＡ６３Ｂ４９／００）［２０１５．０１］",
+      "en": "with through-holes(<b>A63B60/18</b> takes precedence; for stringing purposes <b>A63B49/00</b>)",
+      "count": 239,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B60/52": {
+      "code": "A63B60/52",
+      "level": 1,
+      "parent": "A63B60/00",
+      "ja": "スリットを有するもの［２０１５．０１］",
+      "en": "with slits",
+      "count": 382,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B60/54": {
+      "code": "A63B60/54",
+      "level": 1,
+      "parent": "A63B60/00",
+      "ja": "振動を減衰する手段を有するもの［２０１５．０１］",
+      "en": "with means for damping vibrations",
+      "count": 1799,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B60/56": {
+      "code": "A63B60/56",
+      "level": 1,
+      "parent": "A63B60/00",
+      "ja": "保護，保管または運搬する装置，例．スタンドまたはケース［２０１５．０１］",
+      "en": "Devices for protection, storage or transport, e.g. stands or cases",
+      "count": 101,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B60/58": {
+      "code": "A63B60/58",
+      "level": 2,
+      "parent": "A63B60/56",
+      "ja": "ラケットに特に適合したもの［２０１５．０１］",
+      "en": "specially adapted for rackets",
+      "count": 573,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B60/60": {
+      "code": "A63B60/60",
+      "level": 2,
+      "parent": "A63B60/56",
+      "ja": "バットに特に適合したもの［２０１５．０１］",
+      "en": "specially adapted for bats",
+      "count": 116,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B60/62": {
+      "code": "A63B60/62",
+      "level": 2,
+      "parent": "A63B60/56",
+      "ja": "クラブに特に適合したもの，例．ヘッドカバー［２０１５．０１］",
+      "en": "specially adapted for clubs, e.g. head covers",
+      "count": 700,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B60/64": {
+      "code": "A63B60/64",
+      "level": 3,
+      "parent": "A63B60/62",
+      "ja": "ゴルフクラブのさや［２０１５．０１］",
+      "en": "Sheaths for golf clubs",
+      "count": 182,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B61/00": {
+      "code": "A63B61/00",
+      "level": 0,
+      "parent": "A63B",
+      "ja": "テニスまたは類似のゲームに使用するテニスネットまたは付属具",
+      "en": "Tennis nets or accessories for tennis or like games",
+      "count": 2036,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B61/02": {
+      "code": "A63B61/02",
+      "level": 1,
+      "parent": "A63B61/00",
+      "ja": "支柱，回転支柱",
+      "en": "Posts; Revolvably-mounted posts",
+      "count": 2121,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B61/04": {
+      "code": "A63B61/04",
+      "level": 1,
+      "parent": "A63B61/00",
+      "ja": "ネットを引き締めたり調節したりする装置",
+      "en": "Straining or adjusting devices for nets",
+      "count": 903,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B63/00": {
+      "code": "A63B63/00",
+      "level": 0,
+      "parent": "A63B",
+      "ja": "球技用標的またはゴール（ゴルフカップＡ６３Ｂ５７／４０）",
+      "en": "Targets or goals for ball games(golf cups <b>A63B57/40</b>)",
+      "count": 6095,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B63/02": {
+      "code": "A63B63/02",
+      "level": 1,
+      "parent": "A63B63/00",
+      "ja": "固定されたもの（Ａ６３Ｂ６３／０８が優先）［３］",
+      "en": "rigidly mounted(<b>A63B63/08</b> takes precedence)",
+      "count": 272,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B63/04": {
+      "code": "A63B63/04",
+      "level": 1,
+      "parent": "A63B63/00",
+      "ja": "調節出来るかまたは回転軸に取付けられたもの（Ａ６３Ｂ６３／０８が優先）［３］",
+      "en": "adjustably or pivotally mounted(<b>A63B63/08</b> takes precedence)",
+      "count": 829,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B63/06": {
+      "code": "A63B63/06",
+      "level": 1,
+      "parent": "A63B63/00",
+      "ja": "回転標的",
+      "en": "Revolving targets",
+      "count": 287,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B63/08": {
+      "code": "A63B63/08",
+      "level": 1,
+      "parent": "A63B63/00",
+      "ja": "ボールに対して水平な開口部をもつもの，例．バスケットボール用［３］",
+      "en": "with horizontal opening for ball, e.g. for basketball",
+      "count": 7664,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B65/00": {
+      "code": "A63B65/00",
+      "level": 0,
+      "parent": "A63B",
+      "ja": "投てき用具（投てき玩具Ａ６３Ｈ３３／１８）",
+      "en": "Implements for throwing(throwing toys <b>A63H33/18</b>)",
+      "count": 719,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B65/02": {
+      "code": "A63B65/02",
+      "level": 1,
+      "parent": "A63B65/00",
+      "ja": "投げ矢（ｄａｒｔｓ），投げ槍または類似物",
+      "en": "Darts, spears or the like",
+      "count": 854,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B65/04": {
+      "code": "A63B65/04",
+      "level": 1,
+      "parent": "A63B65/00",
+      "ja": "投てきハンマー",
+      "en": "Throwing-hammers",
+      "count": 28,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B65/06": {
+      "code": "A63B65/06",
+      "level": 1,
+      "parent": "A63B65/00",
+      "ja": "重い投てきボール",
+      "en": "Heavy throwing-balls",
+      "count": 235,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B65/08": {
+      "code": "A63B65/08",
+      "level": 1,
+      "parent": "A63B65/00",
+      "ja": "ブーメラン",
+      "en": "Boomerangs",
+      "count": 416,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B65/10": {
+      "code": "A63B65/10",
+      "level": 1,
+      "parent": "A63B65/00",
+      "ja": "円盤；鉄環",
+      "en": "Discus discs; Quoits",
+      "count": 833,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B65/12": {
+      "code": "A63B65/12",
+      "level": 1,
+      "parent": "A63B65/00",
+      "ja": "受具があるまたはないボール投げ装置",
+      "en": "Ball-throwing apparatus with or without catchers",
+      "count": 1127,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B67/00": {
+      "code": "A63B67/00",
+      "level": 0,
+      "parent": "A63B",
+      "ja": "グループＡ６３Ｂ１／００～Ａ６３Ｂ６５／００に分類されないスポーツゲームまたはそのための付属品［２００６．０１］",
+      "en": "Sporting games or accessories therefor, not provided for in groups <b>A63B1/00 to A63B65/00</b> ",
+      "count": 3860,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B67/02": {
+      "code": "A63B67/02",
+      "level": 1,
+      "parent": "A63B67/00",
+      "ja": "特殊なゴルフゲーム，例．ミニチャーゴルフ［２００６．０１］",
+      "en": "Special golf games, e.g. miniature golf",
+      "count": 2394,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B67/04": {
+      "code": "A63B67/04",
+      "level": 1,
+      "parent": "A63B67/00",
+      "ja": "屋外スポーツを模した人体に肉体的に有益な卓上ゲーム，例．ピンポン（他の卓上ゲームＡ６３Ｆ）［２００６．０１］",
+      "en": "Table games physically beneficial for the human body, modelled on outdoor sports, e.g. table tennis(other table games <b>A63F</b>)",
+      "count": 5732,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B67/06": {
+      "code": "A63B67/06",
+      "level": 1,
+      "parent": "A63B67/00",
+      "ja": "輪または円盤を投げるゲーム［２００６．０１］",
+      "en": "Ring or disc tossing games",
+      "count": 1561,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B67/08": {
+      "code": "A63B67/08",
+      "level": 1,
+      "parent": "A63B67/00",
+      "ja": "ボールを奇術のように扱ったり回転させる技巧を要するゲーム（Ａ６３Ｂ６７／１６が優先）［２０１９．０１］",
+      "en": "Juggling or spinning ball games played as games of skill (<b>A63B67/16</b> takes precedence)",
+      "count": 819,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B67/10": {
+      "code": "A63B67/10",
+      "level": 1,
+      "parent": "A63B67/00",
+      "ja": "標的として糸でつるされたりまたはゆれるように取付けられた物体，例．ボール，鳥，動物または類似の形をしたもの，を有するゲーム（ボールがつながれているバットを用いるゲームＡ６３Ｂ６７／２０；つながれたボールを有するピンゲームＡ６３Ｄ７／００）［２００６．０１］",
+      "en": "Games with thread-suspended or swingably- mounted bodies, e.g. balls, pointed bodies shaped as birds, animals, or the like, for aiming at and hitting targets(games using a bat with a ball tethered thereto <b>A63B67/20</b>; pin games with tethered balls <b>A63D7/00</b>)",
+      "count": 631,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B67/12": {
+      "code": "A63B67/12",
+      "level": 1,
+      "parent": "A63B67/00",
+      "ja": "フリップゲーム［２００６．０１］",
+      "en": "Flip games",
+      "count": 313,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B67/14": {
+      "code": "A63B67/14",
+      "level": 1,
+      "parent": "A63B67/00",
+      "ja": "カーリング石；円盤突き；類似のスライディングゲーム［２００６．０１］",
+      "en": "Curling stone; Shuffleboard; Similar sliding games",
+      "count": 1116,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B67/16": {
+      "code": "A63B67/16",
+      "level": 1,
+      "parent": "A63B67/00",
+      "ja": "ディアボロまたは投げ受けされる類似のこま；そのための投げ受け装置［２０１９．０１］",
+      "en": "Diabolos or similar thrown and caught spinning tops; Throwing and catching devices therefor",
+      "count": 349,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B67/18": {
+      "code": "A63B67/18",
+      "level": 1,
+      "parent": "A63B67/00",
+      "ja": "バドミントン，シャトルコックまたは羽根付飛具を有する類似のゲーム［２０１６．０１］",
+      "en": "Badminton or similar games with feathered missiles",
+      "count": 1555,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B67/183": {
+      "code": "A63B67/183",
+      "level": 2,
+      "parent": "A63B67/18",
+      "ja": "羽根付飛具［２０１６．０１］",
+      "en": "Feathered missiles",
+      "count": 231,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B67/187": {
+      "code": "A63B67/187",
+      "level": 3,
+      "parent": "A63B67/183",
+      "ja": "シャトルコック［２０１６．０１］",
+      "en": "Shuttlecocks",
+      "count": 2211,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B67/19": {
+      "code": "A63B67/19",
+      "level": 4,
+      "parent": "A63B67/187",
+      "ja": "複数の羽根を結びつけたもの［２０１６．０１］",
+      "en": "with several feathers connected to each other",
+      "count": 145,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B67/193": {
+      "code": "A63B67/193",
+      "level": 4,
+      "parent": "A63B67/187",
+      "ja": "全部の羽根を一体に形成したもの［２０１６．０１］",
+      "en": "with all feathers made in one piece",
+      "count": 94,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B67/197": {
+      "code": "A63B67/197",
+      "level": 3,
+      "parent": "A63B67/183",
+      "ja": "特別な機能を有するもの，例．発光または音の発生［２０１６．０１］",
+      "en": "with special functions, e.g. light emission or sound generation",
+      "count": 618,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B67/20": {
+      "code": "A63B67/20",
+      "level": 1,
+      "parent": "A63B67/00",
+      "ja": "ボールがつながれているバットを用いるゲーム［２００６．０１］",
+      "en": "Games using a bat with a ball tethered thereto",
+      "count": 229,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B67/22": {
+      "code": "A63B67/22",
+      "level": 2,
+      "parent": "A63B67/20",
+      "ja": "バットの中に１つまたはそれ以上の穴を有するもの［２００６．０１］",
+      "en": "the bat having one or more holes therein",
+      "count": 127,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B69/00": {
+      "code": "A63B69/00",
+      "level": 0,
+      "parent": "A63B",
+      "ja": "特殊なスポーツのための訓練用具または装置（落下傘者の訓練Ｂ６４Ｄ２３／００）",
+      "en": "Training appliances or apparatus for special sports(training of parachutists <b>B64D23/00</b>)",
+      "count": 35512,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B69/02": {
+      "code": "A63B69/02",
+      "level": 1,
+      "parent": "A63B69/00",
+      "ja": "剣術用",
+      "en": "for fencing",
+      "count": 1369,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B69/04": {
+      "code": "A63B69/04",
+      "level": 1,
+      "parent": "A63B69/00",
+      "ja": "馬の運動をまねるもの（動物形乗物玩具Ａ６３Ｇ１９／００）",
+      "en": "simulating the movement of horses(toy animals for riding <b>A63G19/00</b>)",
+      "count": 870,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B69/06": {
+      "code": "A63B69/06",
+      "level": 1,
+      "parent": "A63B69/00",
+      "ja": "競漕およびスカル競漕",
+      "en": "for rowing or sculling",
+      "count": 2111,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B69/08": {
+      "code": "A63B69/08",
+      "level": 2,
+      "parent": "A63B69/06",
+      "ja": "水を満したプールを有するもの",
+      "en": "with water-filled pools",
+      "count": 165,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B69/10": {
+      "code": "A63B69/10",
+      "level": 1,
+      "parent": "A63B69/00",
+      "ja": "水なしで使用する水泳教習装置",
+      "en": "Swimming instruction apparatus for use without water",
+      "count": 613,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B69/12": {
+      "code": "A63B69/12",
+      "level": 1,
+      "parent": "A63B69/00",
+      "ja": "水泳を教えるために水泳プール中に設ける装置",
+      "en": "Arrangements in swimming pools for teaching swimming",
+      "count": 2054,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B69/14": {
+      "code": "A63B69/14",
+      "level": 2,
+      "parent": "A63B69/12",
+      "ja": "水泳用教習枠",
+      "en": "Teaching frames for swimming",
+      "count": 395,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B69/16": {
+      "code": "A63B69/16",
+      "level": 1,
+      "parent": "A63B69/00",
+      "ja": "サイクリング用",
+      "en": "for cycling",
+      "count": 2618,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B69/18": {
+      "code": "A63B69/18",
+      "level": 1,
+      "parent": "A63B69/00",
+      "ja": "スキー用",
+      "en": "for skiing",
+      "count": 2432,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B69/20": {
+      "code": "A63B69/20",
+      "level": 1,
+      "parent": "A63B69/00",
+      "ja": "パンチングボール",
+      "en": "Punching balls",
+      "count": 1525,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B69/22": {
+      "code": "A63B69/22",
+      "level": 2,
+      "parent": "A63B69/20",
+      "ja": "固定された支持体にとりつけられたものまたはつるされたもの",
+      "en": "mounted on, or suspended from, a fixed support",
+      "count": 1548,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B69/24": {
+      "code": "A63B69/24",
+      "level": 2,
+      "parent": "A63B69/20",
+      "ja": "動く支持体にとりつけられたものまたはつるされたもの",
+      "en": "mounted on, or suspended from, a movable support",
+      "count": 350,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B69/26": {
+      "code": "A63B69/26",
+      "level": 3,
+      "parent": "A63B69/24",
+      "ja": "身体にとりつけられたもの",
+      "en": "attached to the human body",
+      "count": 178,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B69/28": {
+      "code": "A63B69/28",
+      "level": 2,
+      "parent": "A63B69/20",
+      "ja": "ボールの反対側にある付属物",
+      "en": "Attachments located on the balls at opposite points",
+      "count": 73,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B69/30": {
+      "code": "A63B69/30",
+      "level": 3,
+      "parent": "A63B69/28",
+      "ja": "はね返す付属物",
+      "en": "Resilient attachments",
+      "count": 118,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B69/32": {
+      "code": "A63B69/32",
+      "level": 2,
+      "parent": "A63B69/20",
+      "ja": "指示手段を有するもの",
+      "en": "with indicating devices",
+      "count": 713,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B69/34": {
+      "code": "A63B69/34",
+      "level": 1,
+      "parent": "A63B69/00",
+      "ja": "ボクシングまたはフットボール用ダミー",
+      "en": "Boxing or football dummies",
+      "count": 2515,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B69/36": {
+      "code": "A63B69/36",
+      "level": 1,
+      "parent": "A63B69/00",
+      "ja": "ゴルフ用",
+      "en": "for golf",
+      "count": 25918,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B69/38": {
+      "code": "A63B69/38",
+      "level": 1,
+      "parent": "A63B69/00",
+      "ja": "テニス用",
+      "en": "for tennis",
+      "count": 4238,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B69/40": {
+      "code": "A63B69/40",
+      "level": 1,
+      "parent": "A63B69/00",
+      "ja": "据えつけられた投球装置（陶製標的用投射機Ｆ４１Ｊ９／１８）",
+      "en": "Stationarily-arranged devices for projecting balls(traps for clay-pigeon targets <b>F41J9/18</b>)",
+      "count": 7967,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B71/00": {
+      "code": "A63B71/00",
+      "level": 0,
+      "parent": "A63B",
+      "ja": "グループＡ６３Ｂ１／００～Ａ６３Ｂ６９／００に含まれないゲームまたは運動用付属具（スタート装置Ａ６３Ｋ３／０２）",
+      "en": "Games or sports accessories not covered in groups <b>A63B1/00 to A63B69/00</b> (starting appliances <b>A63K3/02</b>)",
+      "count": 14664,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B71/02": {
+      "code": "A63B71/02",
+      "level": 1,
+      "parent": "A63B71/00",
+      "ja": "大きな室用または屋外スポーツゲーム用",
+      "en": "for large-room or outdoor sporting games",
+      "count": 4852,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B71/04": {
+      "code": "A63B71/04",
+      "level": 1,
+      "parent": "A63B71/00",
+      "ja": "小さな室用または屋内スポーツゲーム用",
+      "en": "for small-room or indoor sporting games",
+      "count": 1340,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B71/06": {
+      "code": "A63B71/06",
+      "level": 1,
+      "parent": "A63B71/00",
+      "ja": "ゲームまたは競技者用の指示または採点装置",
+      "en": "Indicating or scoring devices for games or players",
+      "count": 40921,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B71/08": {
+      "code": "A63B71/08",
+      "level": 1,
+      "parent": "A63B71/00",
+      "ja": "競技者またはスポーツマンのための身体保護具（スポーツのための保護衣服Ａ４１Ｄ１３／００）",
+      "en": "Body-protectors for players or sportsmen(protective clothing or garments for sporting purposes <b>A41D13/00</b>)",
+      "count": 3443,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B71/10": {
+      "code": "A63B71/10",
+      "level": 2,
+      "parent": "A63B71/08",
+      "ja": "頭部用（帽子類Ａ４２Ｂ１／０８；ヘルメットＡ４２Ｂ３／００）",
+      "en": "for the head(in the form of caps or hats <b>A42B1/08</b>; helmets <b>A42B3/00</b>)",
+      "count": 2136,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B71/12": {
+      "code": "A63B71/12",
+      "level": 2,
+      "parent": "A63B71/08",
+      "ja": "身体または脚用",
+      "en": "for the body or the legs",
+      "count": 4855,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B71/14": {
+      "code": "A63B71/14",
+      "level": 2,
+      "parent": "A63B71/08",
+      "ja": "手用，例．野球，拳闘，またはゴルフ手袋（射手用の指おおいＦ４１Ｂ５／１６）",
+      "en": "for the hands, e.g. baseball, boxing, or golfing gloves(archer's finger tabs <b>F41B5/16</b>)",
+      "count": 6518,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B71/16": {
+      "code": "A63B71/16",
+      "level": 3,
+      "parent": "A63B71/14",
+      "ja": "空気の充満したもの",
+      "en": "air-filled",
+      "count": 114,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B102/00": {
+      "code": "A63B102/00",
+      "level": 0,
+      "parent": "A63B",
+      "ja": "クラブ，バット，ラケットまたは類似物のスポーツ活動への適用［２０１５．０１］",
+      "en": "Application of clubs, bats, rackets or the like to the sporting activity",
+      "count": 27,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B102/02": {
+      "code": "A63B102/02",
+      "level": 1,
+      "parent": "A63B102/00",
+      "ja": "テニス［２０１５．０１］",
+      "en": "Tennis",
+      "count": 2666,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B102/04": {
+      "code": "A63B102/04",
+      "level": 1,
+      "parent": "A63B102/00",
+      "ja": "バドミントン［２０１５．０１］",
+      "en": "Badminton",
+      "count": 3403,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B102/06": {
+      "code": "A63B102/06",
+      "level": 1,
+      "parent": "A63B102/00",
+      "ja": "スカッシュ［２０１５．０１］",
+      "en": "Squash",
+      "count": 290,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B102/08": {
+      "code": "A63B102/08",
+      "level": 1,
+      "parent": "A63B102/00",
+      "ja": "パドルテニス，パデルテニスまたはプラットホームテニス［２０１５．０１］",
+      "en": "Paddle tennis, padel tennis or platform tennis",
+      "count": 1655,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B102/10": {
+      "code": "A63B102/10",
+      "level": 1,
+      "parent": "A63B102/00",
+      "ja": "バトルドア［２０１５．０１］",
+      "en": "Battledore",
+      "count": 13,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B102/12": {
+      "code": "A63B102/12",
+      "level": 1,
+      "parent": "A63B102/00",
+      "ja": "羽根突き［２０１５．０１］",
+      "en": "Hanetsuki",
+      "count": 55,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B102/14": {
+      "code": "A63B102/14",
+      "level": 1,
+      "parent": "A63B102/00",
+      "ja": "ラクロス［２０１５．０１］",
+      "en": "Lacrosse",
+      "count": 205,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B102/16": {
+      "code": "A63B102/16",
+      "level": 1,
+      "parent": "A63B102/00",
+      "ja": "卓球［２０１５．０１］",
+      "en": "Table tennis",
+      "count": 986,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B102/18": {
+      "code": "A63B102/18",
+      "level": 1,
+      "parent": "A63B102/00",
+      "ja": "野球，ラウンダーまたは類似のゲーム［２０１５．０１］",
+      "en": "Baseball, rounders or similar games",
+      "count": 2248,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B102/20": {
+      "code": "A63B102/20",
+      "level": 1,
+      "parent": "A63B102/00",
+      "ja": "クリケット［２０１５．０１］",
+      "en": "Cricket",
+      "count": 109,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B102/22": {
+      "code": "A63B102/22",
+      "level": 1,
+      "parent": "A63B102/00",
+      "ja": "ホッケー［２０１５．０１］",
+      "en": "Hockey",
+      "count": 250,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B102/24": {
+      "code": "A63B102/24",
+      "level": 1,
+      "parent": "A63B102/00",
+      "ja": "アイスホッケー［２０１５．０１］",
+      "en": "Ice hockey",
+      "count": 353,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B102/26": {
+      "code": "A63B102/26",
+      "level": 1,
+      "parent": "A63B102/00",
+      "ja": "ハーリング［２０１５．０１］",
+      "en": "Hurling",
+      "count": 25,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B102/28": {
+      "code": "A63B102/28",
+      "level": 1,
+      "parent": "A63B102/00",
+      "ja": "バンディ［２０１５．０１］",
+      "en": "Bandy",
+      "count": 25,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B102/30": {
+      "code": "A63B102/30",
+      "level": 1,
+      "parent": "A63B102/00",
+      "ja": "フロアボール［２０１５．０１］",
+      "en": "Floorball",
+      "count": 30,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B102/32": {
+      "code": "A63B102/32",
+      "level": 1,
+      "parent": "A63B102/00",
+      "ja": "ゴルフ［２０１５．０１］",
+      "en": "Golf",
+      "count": 18480,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B102/34": {
+      "code": "A63B102/34",
+      "level": 1,
+      "parent": "A63B102/00",
+      "ja": "ポロ［２０１５．０１］",
+      "en": "Polo",
+      "count": 19,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B102/36": {
+      "code": "A63B102/36",
+      "level": 1,
+      "parent": "A63B102/00",
+      "ja": "クローケー［２０１５．０１］",
+      "en": "Croquet",
+      "count": 49,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    },
+    "A63B102/38": {
+      "code": "A63B102/38",
+      "level": 1,
+      "parent": "A63B102/00",
+      "ja": "ゲートボール［２０１５．０１］",
+      "en": "Gateball",
+      "count": 494,
+      "sourceFile": "ipc_A63B.txt",
+      "kind": "ipc"
+    }
+  }
+}

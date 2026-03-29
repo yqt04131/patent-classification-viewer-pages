@@ -1,0 +1,826 @@
+{
+  "generatedAt": "2026-03-20T02:17:46.876Z",
+  "total": 82,
+  "entries": {
+    "F21W": {
+      "code": "F21W",
+      "level": 0,
+      "parent": "F21",
+      "ja": "照明装置またはシステムの使用または適用に関するサブクラス　Ｆ２１Ｋ，Ｆ２１Ｌ，Ｆ２１Ｓ，およびＦ２１Ｖに結びつくインデキシング系列［７］<br><br><b><ul>注</ul></b><br>このサブクラスは，照明装置またはシステムの使用または適用に関する，サブクラスＦ２１Ｋ，Ｆ２１Ｌ，Ｆ２１Ｓ，およびＦ２１Ｖに結びつくインデキシング系列を構成する。［７］",
+      "en": "INDEXING SCHEME ASSOCIATED WITH SUBCLASSES <b>F21K</b>, <b>F21L</b>, <b>F21S</b> and <b>F21V</b>, RELATING TO USES OR APPLICATIONS OF LIGHTING DEVICES OR SYSTEMS; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This subclass constitutes an indexing scheme associated with subclasses <b>F21K</b>, <b>F21L</b>, <b>F21S</b> and <b>F21V</b>, relating to uses or applications of lighting devices or systems. </li></ul>",
+      "count": 110,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F21": {
+      "code": "F21",
+      "level": 0,
+      "parent": "F",
+      "ja": "照明<br><br><b><ul>注</ul></b><br>セクションＨの注ＩＩＩ、特にクラスＦ２１に包含されるものと同じ技術主題の電気的な観点はサブクラスＨ０５Ｂに包含されることに、注意すること。",
+      "en": "LIGHTING",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F": {
+      "code": "F",
+      "level": 0,
+      "parent": null,
+      "ja": "機械工学；照明；加熱；武器；爆破",
+      "en": "MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F21W102/00": {
+      "code": "F21W102/00",
+      "level": 0,
+      "parent": "F21W",
+      "ja": "照明目的の車両外部の照明装置［２０１８．０１］",
+      "en": "Exterior vehicle lighting devices for illuminating purposes",
+      "count": 5052,
+      "sourceFile": "ipc_F21W.txt",
+      "kind": "ipc"
+    },
+    "F21W102/10": {
+      "code": "F21W102/10",
+      "level": 1,
+      "parent": "F21W102/00",
+      "ja": "出射光の配置または外形［２０１８．０１］",
+      "en": "Arrangement or contour of the emitted light",
+      "count": 772,
+      "sourceFile": "ipc_F21W.txt",
+      "kind": "ipc"
+    },
+    "F21W102/13": {
+      "code": "F21W102/13",
+      "level": 2,
+      "parent": "F21W102/10",
+      "ja": "ハイビームまたはロービーム領域用［２０１８．０１］",
+      "en": "for high-beam region or low-beam region",
+      "count": 4353,
+      "sourceFile": "ipc_F21W.txt",
+      "kind": "ipc"
+    },
+    "F21W102/135": {
+      "code": "F21W102/135",
+      "level": 3,
+      "parent": "F21W102/13",
+      "ja": "カットオフライン，すなわち出射領域と暗部領域の間の明確な境界線，がある光［２０１８．０１］",
+      "en": "the light having cut-off lines, i.e. clear borderlines between emitted regions and dark regions",
+      "count": 839,
+      "sourceFile": "ipc_F21W.txt",
+      "kind": "ipc"
+    },
+    "F21W102/14": {
+      "code": "F21W102/14",
+      "level": 4,
+      "parent": "F21W102/135",
+      "ja": "垂直なカットオフラインがあるもの；可変配光ハイビームに特に適合されるもの，すなわちビームは広範であるが他の道路使用者の眩暈を避けるもの［２０１８．０１］",
+      "en": "having vertical cut-off lines; specially adapted for adaptive high beams, i.e. the beam is broader but avoids glaring other road users",
+      "count": 147,
+      "sourceFile": "ipc_F21W.txt",
+      "kind": "ipc"
+    },
+    "F21W102/145": {
+      "code": "F21W102/145",
+      "level": 5,
+      "parent": "F21W102/14",
+      "ja": "光が２つの平行な垂直カットオフライン間で出射されるもの，例．選択的に出射される長方形状のハイビーム［２０１８．０１］",
+      "en": "wherein the light is emitted between two parallel vertical cut-off lines, e.g. selectively emitted rectangular-shaped high beam",
+      "count": 90,
+      "sourceFile": "ipc_F21W.txt",
+      "kind": "ipc"
+    },
+    "F21W102/15": {
+      "code": "F21W102/15",
+      "level": 5,
+      "parent": "F21W102/14",
+      "ja": "Ｌ字型のカットオフライン，すなわち，垂直および水平なカットオフラインで光が出射される［２０１８．０１］",
+      "en": "wherein the light is emitted under L-shaped cut-off lines, i.e. vertical and horizontal cut-off lines",
+      "count": 35,
+      "sourceFile": "ipc_F21W.txt",
+      "kind": "ipc"
+    },
+    "F21W102/155": {
+      "code": "F21W102/155",
+      "level": 4,
+      "parent": "F21W102/135",
+      "ja": "傾斜および水平方向のカットオフラインを有するもの［２０１８．０１］",
+      "en": "having inclined and horizontal cut-off lines",
+      "count": 406,
+      "sourceFile": "ipc_F21W.txt",
+      "kind": "ipc"
+    },
+    "F21W102/16": {
+      "code": "F21W102/16",
+      "level": 4,
+      "parent": "F21W102/135",
+      "ja": "カットオフラインをぼかしたもの［２０１８．０１］",
+      "en": "having blurred cut-off lines",
+      "count": 41,
+      "sourceFile": "ipc_F21W.txt",
+      "kind": "ipc"
+    },
+    "F21W102/165": {
+      "code": "F21W102/165",
+      "level": 3,
+      "parent": "F21W102/13",
+      "ja": "カットオフライン以外の出射領域および暗部領域間の境界線が可変であるもの［２０１８．０１］",
+      "en": "the borderlines between emitted regions and dark regions other than cut-off lines being variable",
+      "count": 82,
+      "sourceFile": "ipc_F21W.txt",
+      "kind": "ipc"
+    },
+    "F21W102/17": {
+      "code": "F21W102/17",
+      "level": 2,
+      "parent": "F21W102/10",
+      "ja": "ハイビームまたはロービーム以外の領域のためのもの［２０１８．０１］",
+      "en": "for regions other than high beam or low beam",
+      "count": 89,
+      "sourceFile": "ipc_F21W.txt",
+      "kind": "ipc"
+    },
+    "F21W102/18": {
+      "code": "F21W102/18",
+      "level": 3,
+      "parent": "F21W102/17",
+      "ja": "オーバーヘッドサイン用［２０１８．０１］",
+      "en": "for overhead signs",
+      "count": 91,
+      "sourceFile": "ipc_F21W.txt",
+      "kind": "ipc"
+    },
+    "F21W102/19": {
+      "code": "F21W102/19",
+      "level": 3,
+      "parent": "F21W102/17",
+      "ja": "曲路用［２０１８．０１］",
+      "en": "for curves",
+      "count": 138,
+      "sourceFile": "ipc_F21W.txt",
+      "kind": "ipc"
+    },
+    "F21W102/20": {
+      "code": "F21W102/20",
+      "level": 1,
+      "parent": "F21W102/00",
+      "ja": "出射領域内の照度分布［２０１８．０１］",
+      "en": "Illuminance distribution within the emitted light",
+      "count": 471,
+      "sourceFile": "ipc_F21W.txt",
+      "kind": "ipc"
+    },
+    "F21W102/30": {
+      "code": "F21W102/30",
+      "level": 1,
+      "parent": "F21W102/00",
+      "ja": "フォグランプ［２０１８．０１］",
+      "en": "Fog lights",
+      "count": 748,
+      "sourceFile": "ipc_F21W.txt",
+      "kind": "ipc"
+    },
+    "F21W102/40": {
+      "code": "F21W102/40",
+      "level": 1,
+      "parent": "F21W102/00",
+      "ja": "車両へのアクセスを容易にするため光が出射されるもの［２０１８．０１］",
+      "en": "the light being emitted to facilitate access to the vehicle",
+      "count": 56,
+      "sourceFile": "ipc_F21W.txt",
+      "kind": "ipc"
+    },
+    "F21W103/00": {
+      "code": "F21W103/00",
+      "level": 0,
+      "parent": "F21W",
+      "ja": "信号表示用の外部車両照明装置［２０１８．０１］",
+      "en": "Exterior vehicle lighting devices for signalling purposes",
+      "count": 3086,
+      "sourceFile": "ipc_F21W.txt",
+      "kind": "ipc"
+    },
+    "F21W103/10": {
+      "code": "F21W103/10",
+      "level": 1,
+      "parent": "F21W103/00",
+      "ja": "ポジションランプ［２０１８．０１］",
+      "en": "Position lights",
+      "count": 1097,
+      "sourceFile": "ipc_F21W.txt",
+      "kind": "ipc"
+    },
+    "F21W103/15": {
+      "code": "F21W103/15",
+      "level": 1,
+      "parent": "F21W103/00",
+      "ja": "サイドマーカーライト［２０１８．０１］",
+      "en": "Side marker lights",
+      "count": 158,
+      "sourceFile": "ipc_F21W.txt",
+      "kind": "ipc"
+    },
+    "F21W103/20": {
+      "code": "F21W103/20",
+      "level": 1,
+      "parent": "F21W103/00",
+      "ja": "方向指示灯［２０１８．０１］",
+      "en": "Direction indicator lights",
+      "count": 1762,
+      "sourceFile": "ipc_F21W.txt",
+      "kind": "ipc"
+    },
+    "F21W103/25": {
+      "code": "F21W103/25",
+      "level": 2,
+      "parent": "F21W103/20",
+      "ja": "サイドミラー用［２０１８．０１］",
+      "en": "for rear-view mirrors",
+      "count": 113,
+      "sourceFile": "ipc_F21W.txt",
+      "kind": "ipc"
+    },
+    "F21W103/30": {
+      "code": "F21W103/30",
+      "level": 1,
+      "parent": "F21W103/00",
+      "ja": "ハザードランプ［２０１８．０１］",
+      "en": "Hazard lights",
+      "count": 196,
+      "sourceFile": "ipc_F21W.txt",
+      "kind": "ipc"
+    },
+    "F21W103/35": {
+      "code": "F21W103/35",
+      "level": 1,
+      "parent": "F21W103/00",
+      "ja": "ブレーキ灯［２０１８．０１］",
+      "en": "Brake lights",
+      "count": 1106,
+      "sourceFile": "ipc_F21W.txt",
+      "kind": "ipc"
+    },
+    "F21W103/40": {
+      "code": "F21W103/40",
+      "level": 1,
+      "parent": "F21W103/00",
+      "ja": "リアフォグランプ［２０１８．０１］",
+      "en": "Rear fog lights",
+      "count": 408,
+      "sourceFile": "ipc_F21W.txt",
+      "kind": "ipc"
+    },
+    "F21W103/45": {
+      "code": "F21W103/45",
+      "level": 1,
+      "parent": "F21W103/00",
+      "ja": "後退灯［２０１８．０１］",
+      "en": "Reversing lights",
+      "count": 445,
+      "sourceFile": "ipc_F21W.txt",
+      "kind": "ipc"
+    },
+    "F21W103/50": {
+      "code": "F21W103/50",
+      "level": 1,
+      "parent": "F21W103/00",
+      "ja": "登録板灯［２０１８．０１］",
+      "en": "Registration plate lights",
+      "count": 111,
+      "sourceFile": "ipc_F21W.txt",
+      "kind": "ipc"
+    },
+    "F21W103/55": {
+      "code": "F21W103/55",
+      "level": 1,
+      "parent": "F21W103/00",
+      "ja": "日中点灯用ライト［ＤＲＬ］［２０１８．０１］",
+      "en": "Daytime running lights [DRL]",
+      "count": 864,
+      "sourceFile": "ipc_F21W.txt",
+      "kind": "ipc"
+    },
+    "F21W103/60": {
+      "code": "F21W103/60",
+      "level": 1,
+      "parent": "F21W103/00",
+      "ja": "照明装置からのサインの投影，例．シンボルまたは情報が路上に投影されるもの［２０１８．０１］",
+      "en": "Projection of signs from lighting devices, e.g. symbols or information being projected onto the road",
+      "count": 701,
+      "sourceFile": "ipc_F21W.txt",
+      "kind": "ipc"
+    },
+    "F21W104/00": {
+      "code": "F21W104/00",
+      "level": 0,
+      "parent": "F21W",
+      "ja": "装飾用の外部車両照明装置［２０１８．０１］",
+      "en": "Exterior vehicle lighting devices for decorative purposes",
+      "count": 556,
+      "sourceFile": "ipc_F21W.txt",
+      "kind": "ipc"
+    },
+    "F21W105/00": {
+      "code": "F21W105/00",
+      "level": 0,
+      "parent": "F21W",
+      "ja": "グループＦ２１Ｗ１０２／００～Ｆ２１Ｗ１０４／００に分類される照明装置の組合せ［２０１８．０１］",
+      "en": "Combinations of lighting devices covered by groups <b>F21W102/00 to F21W104/00</b> ",
+      "count": 321,
+      "sourceFile": "ipc_F21W.txt",
+      "kind": "ipc"
+    },
+    "F21W106/00": {
+      "code": "F21W106/00",
+      "level": 0,
+      "parent": "F21W",
+      "ja": "内部の車両照明装置［２０１８．０１］",
+      "en": "Interior vehicle lighting devices",
+      "count": 3040,
+      "sourceFile": "ipc_F21W.txt",
+      "kind": "ipc"
+    },
+    "F21W107/00": {
+      "code": "F21W107/00",
+      "level": 0,
+      "parent": "F21W",
+      "ja": "特定な種別の車両外部もしくは車両内部への照明装置の使用または適用［２０１８．０１］",
+      "en": "Use or application of lighting devices on or in particular types of vehicles",
+      "count": 590,
+      "sourceFile": "ipc_F21W.txt",
+      "kind": "ipc"
+    },
+    "F21W107/10": {
+      "code": "F21W107/10",
+      "level": 1,
+      "parent": "F21W107/00",
+      "ja": "陸上車両用［２０１８．０１］",
+      "en": "for land vehicles",
+      "count": 26655,
+      "sourceFile": "ipc_F21W.txt",
+      "kind": "ipc"
+    },
+    "F21W107/13": {
+      "code": "F21W107/13",
+      "level": 2,
+      "parent": "F21W107/10",
+      "ja": "二輪車用［２０１８．０１］",
+      "en": "for cycles",
+      "count": 1414,
+      "sourceFile": "ipc_F21W.txt",
+      "kind": "ipc"
+    },
+    "F21W107/17": {
+      "code": "F21W107/17",
+      "level": 3,
+      "parent": "F21W107/13",
+      "ja": "オートバイ用［２０１８．０１］",
+      "en": "for motorcycles",
+      "count": 1646,
+      "sourceFile": "ipc_F21W.txt",
+      "kind": "ipc"
+    },
+    "F21W107/20": {
+      "code": "F21W107/20",
+      "level": 1,
+      "parent": "F21W107/00",
+      "ja": "水上，水中移動体用［２０１８．０１］",
+      "en": "for water vehicles",
+      "count": 1447,
+      "sourceFile": "ipc_F21W.txt",
+      "kind": "ipc"
+    },
+    "F21W107/30": {
+      "code": "F21W107/30",
+      "level": 1,
+      "parent": "F21W107/00",
+      "ja": "航空機用［２０１８．０１］",
+      "en": "for aircraft",
+      "count": 921,
+      "sourceFile": "ipc_F21W.txt",
+      "kind": "ipc"
+    },
+    "F21W111/00": {
+      "code": "F21W111/00",
+      "level": 0,
+      "parent": "F21W",
+      "ja": "グループＦ２１Ｗ１０２／００～Ｆ２１Ｗ１０７／００に分類されない，信号表示用，マーキング用もしくは表示用の照明装置もしくはシステムの使用または適用［２０１８．０１］",
+      "en": "Use or application of lighting devices or systems for signalling, marking or indicating, not provided for in groups <b>F21W102/00 to F21W107/00</b> ",
+      "count": 3825,
+      "sourceFile": "ipc_F21W.txt",
+      "kind": "ipc"
+    },
+    "F21W111/02": {
+      "code": "F21W111/02",
+      "level": 1,
+      "parent": "F21W111/00",
+      "ja": "道路，通路，または同様のもの用［７］",
+      "en": "for roads, paths or the like",
+      "count": 2135,
+      "sourceFile": "ipc_F21W.txt",
+      "kind": "ipc"
+    },
+    "F21W111/023": {
+      "code": "F21W111/023",
+      "level": 2,
+      "parent": "F21W111/02",
+      "ja": "歩道用［７］",
+      "en": "for pedestrian walkways",
+      "count": 135,
+      "sourceFile": "ipc_F21W.txt",
+      "kind": "ipc"
+    },
+    "F21W111/027": {
+      "code": "F21W111/027",
+      "level": 2,
+      "parent": "F21W111/02",
+      "ja": "縁石，段，または階段の表示用［７］",
+      "en": "for indicating kerbs, steps or stairs",
+      "count": 153,
+      "sourceFile": "ipc_F21W.txt",
+      "kind": "ipc"
+    },
+    "F21W111/04": {
+      "code": "F21W111/04",
+      "level": 1,
+      "parent": "F21W111/00",
+      "ja": "水路用［７］",
+      "en": "for waterways",
+      "count": 966,
+      "sourceFile": "ipc_F21W.txt",
+      "kind": "ipc"
+    },
+    "F21W111/043": {
+      "code": "F21W111/043",
+      "level": 2,
+      "parent": "F21W111/04",
+      "ja": "灯台または灯台船用［７］",
+      "en": "for lighthouses or lightships",
+      "count": 279,
+      "sourceFile": "ipc_F21W.txt",
+      "kind": "ipc"
+    },
+    "F21W111/047": {
+      "code": "F21W111/047",
+      "level": 2,
+      "parent": "F21W111/04",
+      "ja": "照明ブイ用［７］",
+      "en": "for light-buoys",
+      "count": 410,
+      "sourceFile": "ipc_F21W.txt",
+      "kind": "ipc"
+    },
+    "F21W111/06": {
+      "code": "F21W111/06",
+      "level": 1,
+      "parent": "F21W111/00",
+      "ja": "航空機の滑走路または同様のもの用［７］",
+      "en": "for aircraft runways or the like",
+      "count": 1039,
+      "sourceFile": "ipc_F21W.txt",
+      "kind": "ipc"
+    },
+    "F21W111/08": {
+      "code": "F21W111/08",
+      "level": 1,
+      "parent": "F21W111/00",
+      "ja": "柄（ハンドル）または手すり用［７］",
+      "en": "for handles or handrails",
+      "count": 762,
+      "sourceFile": "ipc_F21W.txt",
+      "kind": "ipc"
+    },
+    "F21W111/10": {
+      "code": "F21W111/10",
+      "level": 1,
+      "parent": "F21W111/00",
+      "ja": "個人使用用，例．把持するもの［７］",
+      "en": "for personal use, e.g. hand-held",
+      "count": 537,
+      "sourceFile": "ipc_F21W.txt",
+      "kind": "ipc"
+    },
+    "F21W121/00": {
+      "code": "F21W121/00",
+      "level": 0,
+      "parent": "F21W",
+      "ja": "グループＦ２１Ｗ１０２／００～Ｆ２１Ｗ１０７／００に分類されない，装飾用の照明装置もしくはシステムの使用または適用［７］",
+      "en": "Use or application of lighting devices or systems for decorative purposes, not provided for in groups <b>F21W102/00 to F21W107/00</b> ",
+      "count": 7530,
+      "sourceFile": "ipc_F21W.txt",
+      "kind": "ipc"
+    },
+    "F21W121/02": {
+      "code": "F21W121/02",
+      "level": 1,
+      "parent": "F21W121/00",
+      "ja": "噴水用［７］",
+      "en": "for fountains",
+      "count": 457,
+      "sourceFile": "ipc_F21W.txt",
+      "kind": "ipc"
+    },
+    "F21W121/04": {
+      "code": "F21W121/04",
+      "level": 1,
+      "parent": "F21W121/00",
+      "ja": "クリスマス・ツリー用［７］",
+      "en": "for Christmas trees",
+      "count": 689,
+      "sourceFile": "ipc_F21W.txt",
+      "kind": "ipc"
+    },
+    "F21W121/06": {
+      "code": "F21W121/06",
+      "level": 1,
+      "parent": "F21W121/00",
+      "ja": "個人着用用［７］",
+      "en": "for personal wear",
+      "count": 331,
+      "sourceFile": "ipc_F21W.txt",
+      "kind": "ipc"
+    },
+    "F21W131/00": {
+      "code": "F21W131/00",
+      "level": 0,
+      "parent": "F21W",
+      "ja": "グループＦ２１Ｗ１０２／００～Ｆ２１Ｗ１２１／００に分類されない，照明装置もしくはシステムの使用または適用［７］",
+      "en": "Use or application of lighting devices or systems not provided for in groups <b>F21W102/00 to F21W121/00</b> ",
+      "count": 744,
+      "sourceFile": "ipc_F21W.txt",
+      "kind": "ipc"
+    },
+    "F21W131/10": {
+      "code": "F21W131/10",
+      "level": 1,
+      "parent": "F21W131/00",
+      "ja": "屋外の照明［７］",
+      "en": "Outdoor lighting",
+      "count": 9461,
+      "sourceFile": "ipc_F21W.txt",
+      "kind": "ipc"
+    },
+    "F21W131/101": {
+      "code": "F21W131/101",
+      "level": 2,
+      "parent": "F21W131/10",
+      "ja": "トンネルまたは類似のもの，例．橋の下［７］",
+      "en": "of tunnels or the like, e.g. under bridges",
+      "count": 3495,
+      "sourceFile": "ipc_F21W.txt",
+      "kind": "ipc"
+    },
+    "F21W131/103": {
+      "code": "F21W131/103",
+      "level": 2,
+      "parent": "F21W131/10",
+      "ja": "街路または道路［７］",
+      "en": "of streets or roads",
+      "count": 47619,
+      "sourceFile": "ipc_F21W.txt",
+      "kind": "ipc"
+    },
+    "F21W131/105": {
+      "code": "F21W131/105",
+      "level": 2,
+      "parent": "F21W131/10",
+      "ja": "競技場［７］",
+      "en": "of arenas or the like",
+      "count": 5012,
+      "sourceFile": "ipc_F21W.txt",
+      "kind": "ipc"
+    },
+    "F21W131/107": {
+      "code": "F21W131/107",
+      "level": 2,
+      "parent": "F21W131/10",
+      "ja": "ビル外部［７］",
+      "en": "of the exterior of buildings",
+      "count": 3138,
+      "sourceFile": "ipc_F21W.txt",
+      "kind": "ipc"
+    },
+    "F21W131/109": {
+      "code": "F21W131/109",
+      "level": 2,
+      "parent": "F21W131/10",
+      "ja": "庭園［７］",
+      "en": "of gardens",
+      "count": 3014,
+      "sourceFile": "ipc_F21W.txt",
+      "kind": "ipc"
+    },
+    "F21W131/20": {
+      "code": "F21W131/20",
+      "level": 1,
+      "parent": "F21W131/00",
+      "ja": "医療用の照明［７］",
+      "en": "Lighting for medical use",
+      "count": 3316,
+      "sourceFile": "ipc_F21W.txt",
+      "kind": "ipc"
+    },
+    "F21W131/202": {
+      "code": "F21W131/202",
+      "level": 2,
+      "parent": "F21W131/20",
+      "ja": "歯科用［７］",
+      "en": "for dentistry",
+      "count": 623,
+      "sourceFile": "ipc_F21W.txt",
+      "kind": "ipc"
+    },
+    "F21W131/205": {
+      "code": "F21W131/205",
+      "level": 2,
+      "parent": "F21W131/20",
+      "ja": "手術室用［７］",
+      "en": "for operating theatres",
+      "count": 2802,
+      "sourceFile": "ipc_F21W.txt",
+      "kind": "ipc"
+    },
+    "F21W131/208": {
+      "code": "F21W131/208",
+      "level": 2,
+      "parent": "F21W131/20",
+      "ja": "病室用［７］",
+      "en": "for hospital wards",
+      "count": 217,
+      "sourceFile": "ipc_F21W.txt",
+      "kind": "ipc"
+    },
+    "F21W131/30": {
+      "code": "F21W131/30",
+      "level": 1,
+      "parent": "F21W131/00",
+      "ja": "家庭または個人用の照明［７］",
+      "en": "Lighting for domestic or personal use",
+      "count": 1837,
+      "sourceFile": "ipc_F21W.txt",
+      "kind": "ipc"
+    },
+    "F21W131/301": {
+      "code": "F21W131/301",
+      "level": 2,
+      "parent": "F21W131/30",
+      "ja": "家具用［７］",
+      "en": "for furniture",
+      "count": 3422,
+      "sourceFile": "ipc_F21W.txt",
+      "kind": "ipc"
+    },
+    "F21W131/302": {
+      "code": "F21W131/302",
+      "level": 2,
+      "parent": "F21W131/30",
+      "ja": "鏡用［７］",
+      "en": "for mirrors",
+      "count": 1072,
+      "sourceFile": "ipc_F21W.txt",
+      "kind": "ipc"
+    },
+    "F21W131/304": {
+      "code": "F21W131/304",
+      "level": 2,
+      "parent": "F21W131/30",
+      "ja": "絵画用［７］",
+      "en": "for pictures",
+      "count": 95,
+      "sourceFile": "ipc_F21W.txt",
+      "kind": "ipc"
+    },
+    "F21W131/305": {
+      "code": "F21W131/305",
+      "level": 2,
+      "parent": "F21W131/30",
+      "ja": "冷蔵庫用［７］",
+      "en": "for refrigerators",
+      "count": 563,
+      "sourceFile": "ipc_F21W.txt",
+      "kind": "ipc"
+    },
+    "F21W131/307": {
+      "code": "F21W131/307",
+      "level": 2,
+      "parent": "F21W131/30",
+      "ja": "オーブン用［７］",
+      "en": "for ovens",
+      "count": 252,
+      "sourceFile": "ipc_F21W.txt",
+      "kind": "ipc"
+    },
+    "F21W131/308": {
+      "code": "F21W131/308",
+      "level": 2,
+      "parent": "F21W131/30",
+      "ja": "水槽用［７］",
+      "en": "for aquaria",
+      "count": 501,
+      "sourceFile": "ipc_F21W.txt",
+      "kind": "ipc"
+    },
+    "F21W131/40": {
+      "code": "F21W131/40",
+      "level": 1,
+      "parent": "F21W131/00",
+      "ja": "工業，商業，娯楽または軍事用の照明［７］",
+      "en": "Lighting for industrial, commercial, recreational or military use",
+      "count": 1446,
+      "sourceFile": "ipc_F21W.txt",
+      "kind": "ipc"
+    },
+    "F21W131/401": {
+      "code": "F21W131/401",
+      "level": 2,
+      "parent": "F21W131/40",
+      "ja": "スイミング・プール用［７］",
+      "en": "for swimming pools",
+      "count": 381,
+      "sourceFile": "ipc_F21W.txt",
+      "kind": "ipc"
+    },
+    "F21W131/402": {
+      "code": "F21W131/402",
+      "level": 2,
+      "parent": "F21W131/40",
+      "ja": "仕事場用［７］",
+      "en": "for working places",
+      "count": 10129,
+      "sourceFile": "ipc_F21W.txt",
+      "kind": "ipc"
+    },
+    "F21W131/403": {
+      "code": "F21W131/403",
+      "level": 2,
+      "parent": "F21W131/40",
+      "ja": "機械用［７］",
+      "en": "for machines",
+      "count": 2138,
+      "sourceFile": "ipc_F21W.txt",
+      "kind": "ipc"
+    },
+    "F21W131/4035": {
+      "code": "F21W131/4035",
+      "level": 3,
+      "parent": "F21W131/403",
+      "ja": "ミシン用［７］",
+      "en": "for sewing machines",
+      "count": 79,
+      "sourceFile": "ipc_F21W.txt",
+      "kind": "ipc"
+    },
+    "F21W131/405": {
+      "code": "F21W131/405",
+      "level": 2,
+      "parent": "F21W131/40",
+      "ja": "ショーウィンドウまたはディスプレイ用［７］",
+      "en": "for shop-windows or displays",
+      "count": 1487,
+      "sourceFile": "ipc_F21W.txt",
+      "kind": "ipc"
+    },
+    "F21W131/406": {
+      "code": "F21W131/406",
+      "level": 2,
+      "parent": "F21W131/40",
+      "ja": "劇場，ステージ，撮影スタジオ用［７］",
+      "en": "for theatres, stages or film studios",
+      "count": 6975,
+      "sourceFile": "ipc_F21W.txt",
+      "kind": "ipc"
+    },
+    "F21W131/407": {
+      "code": "F21W131/407",
+      "level": 2,
+      "parent": "F21W131/40",
+      "ja": "屋内競技場用［７］",
+      "en": "for indoor arenas",
+      "count": 89,
+      "sourceFile": "ipc_F21W.txt",
+      "kind": "ipc"
+    },
+    "F21W131/409": {
+      "code": "F21W131/409",
+      "level": 2,
+      "parent": "F21W131/40",
+      "ja": "炉またはキルン用［７］",
+      "en": "for furnaces or kilns",
+      "count": 27,
+      "sourceFile": "ipc_F21W.txt",
+      "kind": "ipc"
+    },
+    "F21W131/411": {
+      "code": "F21W131/411",
+      "level": 2,
+      "parent": "F21W131/40",
+      "ja": "空洞構造の内部の検査用，例．管または筒状部［７］",
+      "en": "for inspection of the interior of hollow structures, e.g. vessels, tubes",
+      "count": 68,
+      "sourceFile": "ipc_F21W.txt",
+      "kind": "ipc"
+    }
+  }
+}

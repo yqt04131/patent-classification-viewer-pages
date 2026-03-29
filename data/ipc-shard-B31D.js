@@ -1,0 +1,146 @@
+window.IPC_SHARD_B31D = {
+  "generatedAt": "2026-03-20T02:17:46.171Z",
+  "total": 14,
+  "entries": {
+    "B31D": {
+      "code": "B31D",
+      "level": 0,
+      "parent": "B31",
+      "ja": "サブクラスＢ３１ＢまたはＢ３１Ｃに包含されない紙，板紙または紙と同様の方法で加工される材料からなる物品の製造（木材またはリグノセルロースまたは類似の有機物からなる粒子または繊維から作られる物品の乾式法による製造Ｂ２７Ｎ；全体が紙または板紙で構成されていない積層体の製造Ｂ３２Ｂ；セルロース懸濁液，例．木材パルプ，を材料にした製品の製造Ｄ２１Ｊ）",
+      "en": "MAKING ARTICLES OF PAPER, CARDBOARD OR MATERIAL WORKED IN A MANNER ANALOGOUS TO PAPER, NOT PROVIDED FOR IN SUBCLASSES <b>B31B</b> OR <b>B31C</b>(manufacture by dry processes of articles made from particles or fibres consisting of wood or other lignocellulosic or like organic material <b>B27N</b>; making layered products not composed wholly of paper or cardboard <b>B32B</b>; making articles from cellulosic fibrous suspensions, e.g. wood pulp, <b>D21J</b>)",
+      "count": 320,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B31": {
+      "code": "B31",
+      "level": 0,
+      "parent": "B",
+      "ja": "紙，板紙または紙と同様の方法で加工される材料からなる物品の製造；紙，板紙または紙と同様の方法で加工される材料の加工<br><br><b><ul>注</ul></b><br>（１）このクラスは紙の加工，例．袋または箱の製造，機械に特有なシート，ウエブ，またはブランクの取扱いに適した，または関連した事項に限定された主題を包含する。<br>（２）このクラスは以下のものを包含しない：<br>－紙パルプから直接物品を造るもの，ただしこれはＤ２１Ｊに包含される；<br>－説明または請求が紙の加工機についてのみかどうかにかかわりなく，さらにひろく応用のきくシート，ウェブ，またはブランクの取扱い，ただしこれはより包括的な性質をもつ，Ｂ６５Ｈに包含される。<br>（３）プラスチックから製造されたシート材，積層材および金属箔は紙と同様な方法で加工することのできる材料の例である。",
+      "en": "MAKING ARTICLES OF PAPER, CARDBOARD OR MATERIAL WORKED IN A MANNER ANALOGOUS TO PAPER; WORKING PAPER, CARDBOARD OR MATERIAL WORKED IN A MANNER ANALOGOUS TO PAPER; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This class <u>covers</u> subject matter restricted to adaptations or associations of handling sheets, webs, or blanks peculiar to paper-working, e.g. bag or box making, machinery.</li><li>This class <u>does not cover</u>: <ul><li>making articles directly from paper pulp, which is covered by <b>D21J</b>;</li><li>handling sheets, webs or blanks of wider applicability, irrespective of whether described or claimed only for paper-working machinery, which is regarded as being of a more comprehensive nature and is covered by <b>B65H</b>.</li></ul></li><li>Sheet materials made from plastics, laminated materials and metal foils are examples of materials that can be worked in a manner analogous to paper.</li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B": {
+      "code": "B",
+      "level": 0,
+      "parent": null,
+      "ja": "処理操作；運輸",
+      "en": "PERFORMING OPERATIONS; TRANSPORTING",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B31D1/00": {
+      "code": "B31D1/00",
+      "level": 0,
+      "parent": "B31D",
+      "ja": "平たい物品をつくるための多段の工程［２０１７．０１］",
+      "en": "Multiple-step processes for making flat articles",
+      "count": 1422,
+      "sourceFile": "ipc_B31D.txt",
+      "kind": "ipc"
+    },
+    "B31D1/02": {
+      "code": "B31D1/02",
+      "level": 1,
+      "parent": "B31D1/00",
+      "ja": "その製品がラベルまたは付け札であるもの",
+      "en": "the articles being labels or tags",
+      "count": 3233,
+      "sourceFile": "ipc_B31D.txt",
+      "kind": "ipc"
+    },
+    "B31D1/04": {
+      "code": "B31D1/04",
+      "level": 1,
+      "parent": "B31D1/00",
+      "ja": "その物品がナプキン，ハンカチーフ，タオル，卓上用の敷き物またはその類似品であるもの",
+      "en": "the articles being napkins, handkerchiefs, towels, doilies, or the like",
+      "count": 661,
+      "sourceFile": "ipc_B31D.txt",
+      "kind": "ipc"
+    },
+    "B31D1/06": {
+      "code": "B31D1/06",
+      "level": 1,
+      "parent": "B31D1/00",
+      "ja": "その物品が把手であるもの",
+      "en": "the articles being handles",
+      "count": 287,
+      "sourceFile": "ipc_B31D.txt",
+      "kind": "ipc"
+    },
+    "B31D3/00": {
+      "code": "B31D3/00",
+      "level": 0,
+      "parent": "B31D",
+      "ja": "小室区画構造をもつ物品，例．断熱板，の製造［２０１７．０１］",
+      "en": "Making articles of cellular structure, e.g. insulating board",
+      "count": 1030,
+      "sourceFile": "ipc_B31D.txt",
+      "kind": "ipc"
+    },
+    "B31D3/02": {
+      "code": "B31D3/02",
+      "level": 1,
+      "parent": "B31D3/00",
+      "ja": "ハニカム構造",
+      "en": "honeycombed structures",
+      "count": 1374,
+      "sourceFile": "ipc_B31D.txt",
+      "kind": "ipc"
+    },
+    "B31D3/04": {
+      "code": "B31D3/04",
+      "level": 1,
+      "parent": "B31D3/00",
+      "ja": "小室区画をもつ包装用物品，例．びん用",
+      "en": "cellular packaging articles, e.g. for bottles",
+      "count": 312,
+      "sourceFile": "ipc_B31D.txt",
+      "kind": "ipc"
+    },
+    "B31D5/00": {
+      "code": "B31D5/00",
+      "level": 0,
+      "parent": "B31D",
+      "ja": "立体物品をつくるための多段の工程［２０１７．０１］",
+      "en": "Multiple-step processes for making three-dimensional [3D] articles",
+      "count": 3889,
+      "sourceFile": "ipc_B31D.txt",
+      "kind": "ipc"
+    },
+    "B31D5/02": {
+      "code": "B31D5/02",
+      "level": 1,
+      "parent": "B31D5/00",
+      "ja": "プレス工程を含むもの［２０１７．０１］",
+      "en": "including pressing",
+      "count": 925,
+      "sourceFile": "ipc_B31D.txt",
+      "kind": "ipc"
+    },
+    "B31D5/04": {
+      "code": "B31D5/04",
+      "level": 1,
+      "parent": "B31D5/00",
+      "ja": "折りたたみ工程またはひだ付け工程を含むもの，例．ちょうちん［２０１７．０１］",
+      "en": "including folding or pleating, e.g. Chinese lanterns",
+      "count": 1005,
+      "sourceFile": "ipc_B31D.txt",
+      "kind": "ipc"
+    },
+    "B31D99/00": {
+      "code": "B31D99/00",
+      "level": 0,
+      "parent": "B31D",
+      "ja": "このサブクラスの他のグループに分類されない主題事項［２０１７．０１］",
+      "en": "Subject matter not provided for in other groups of this subclass",
+      "count": 50,
+      "sourceFile": "ipc_B31D.txt",
+      "kind": "ipc"
+    }
+  }
+};

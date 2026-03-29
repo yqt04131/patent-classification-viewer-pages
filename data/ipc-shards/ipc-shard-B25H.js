@@ -1,0 +1,226 @@
+window.IPC_SHARD_B25H = {
+  "generatedAt": "2026-03-20T02:17:46.131Z",
+  "total": 22,
+  "entries": {
+    "B25H": {
+      "code": "B25H",
+      "level": 0,
+      "parent": "B25",
+      "ja": "作業場設備，例．工作物の印付け用；作業場用の貯蔵手段",
+      "en": "WORKSHOP EQUIPMENT, e.g. FOR MARKING-OUT WORK; STORAGE MEANS FOR WORKSHOPS",
+      "count": 383,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B25": {
+      "code": "B25",
+      "level": 0,
+      "parent": "B",
+      "ja": "手工具；可搬型動力工具；手工具用の柄；作業場設備；マニプレータ<br><br><b><ul>注</ul></b><br>このクラスにおいては，下記の用語は以下に示す意味で用いる：<br>―“可搬型”は人手で取扱い易いようにするための，例．組立てラインにそって使用されるばねで吊り下げられた可搬型の装置に関連した，吊り下げ具を含む。",
+      "en": "HAND TOOLS; PORTABLE POWER-DRIVEN TOOLS; HANDLES FOR HAND IMPLEMENTS; WORKSHOP EQUIPMENT; MANIPULATORS; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this class, the following term is used with the meaning indicated:<ul><li>\"portable\" includes suspension for easy manual handling, e.g. in connection with spring-suspended portable apparatus for use along assembly lines.</li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B": {
+      "code": "B",
+      "level": 0,
+      "parent": null,
+      "ja": "処理操作；運輸",
+      "en": "PERFORMING OPERATIONS; TRANSPORTING",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B25H1/00": {
+      "code": "B25H1/00",
+      "level": 0,
+      "parent": "B25H",
+      "ja": "仕事台；可搬型工具またはそれによって加工する工作物を置く為の可搬型スタンドまたは支持台",
+      "en": "Work benches; Portable stands or supports for positioning portable tools or work to be operated on thereby",
+      "count": 17723,
+      "sourceFile": "ipc_B25H.txt",
+      "kind": "ipc"
+    },
+    "B25H1/02": {
+      "code": "B25H1/02",
+      "level": 1,
+      "parent": "B25H1/00",
+      "ja": "テーブル型のもの",
+      "en": "of table type",
+      "count": 11536,
+      "sourceFile": "ipc_B25H.txt",
+      "kind": "ipc"
+    },
+    "B25H1/04": {
+      "code": "B25H1/04",
+      "level": 2,
+      "parent": "B25H1/02",
+      "ja": "可搬型のもの",
+      "en": "portable",
+      "count": 3134,
+      "sourceFile": "ipc_B25H.txt",
+      "kind": "ipc"
+    },
+    "B25H1/06": {
+      "code": "B25H1/06",
+      "level": 1,
+      "parent": "B25H1/00",
+      "ja": "きゃたつ型のもの",
+      "en": "of trestle type",
+      "count": 7823,
+      "sourceFile": "ipc_B25H.txt",
+      "kind": "ipc"
+    },
+    "B25H1/08": {
+      "code": "B25H1/08",
+      "level": 1,
+      "parent": "B25H1/00",
+      "ja": "工作物保持具の取付のための設備をもつもの",
+      "en": "with provision for attachment of work holders",
+      "count": 16450,
+      "sourceFile": "ipc_B25H.txt",
+      "kind": "ipc"
+    },
+    "B25H1/10": {
+      "code": "B25H1/10",
+      "level": 1,
+      "parent": "B25H1/00",
+      "ja": "工具または工作物用の保持具の調整のための設備をもつもの",
+      "en": "with provision for adjusting holders for tool or work",
+      "count": 22444,
+      "sourceFile": "ipc_B25H.txt",
+      "kind": "ipc"
+    },
+    "B25H1/12": {
+      "code": "B25H1/12",
+      "level": 1,
+      "parent": "B25H1/00",
+      "ja": "貯蔵区分をもつもの",
+      "en": "with storage compartments",
+      "count": 7596,
+      "sourceFile": "ipc_B25H.txt",
+      "kind": "ipc"
+    },
+    "B25H1/14": {
+      "code": "B25H1/14",
+      "level": 1,
+      "parent": "B25H1/00",
+      "ja": "台の上面を調整する設備をもつもの",
+      "en": "with provision for adjusting the bench top",
+      "count": 6920,
+      "sourceFile": "ipc_B25H.txt",
+      "kind": "ipc"
+    },
+    "B25H1/16": {
+      "code": "B25H1/16",
+      "level": 2,
+      "parent": "B25H1/14",
+      "ja": "高さ",
+      "en": "in height",
+      "count": 14392,
+      "sourceFile": "ipc_B25H.txt",
+      "kind": "ipc"
+    },
+    "B25H1/18": {
+      "code": "B25H1/18",
+      "level": 2,
+      "parent": "B25H1/14",
+      "ja": "傾斜",
+      "en": "in inclination",
+      "count": 3575,
+      "sourceFile": "ipc_B25H.txt",
+      "kind": "ipc"
+    },
+    "B25H1/20": {
+      "code": "B25H1/20",
+      "level": 1,
+      "parent": "B25H1/00",
+      "ja": "作業域をシールドする設備をもつもの",
+      "en": "with provision for shielding the work area",
+      "count": 1964,
+      "sourceFile": "ipc_B25H.txt",
+      "kind": "ipc"
+    },
+    "B25H3/00": {
+      "code": "B25H3/00",
+      "level": 0,
+      "parent": "B25H",
+      "ja": "工作物，工具または器具に近づき易くするかまたはそれらの取扱いを容易にするための作業用の貯蔵手段または装置",
+      "en": "Storage means or arrangements for workshops facilitating access to, or handling of, work, tools or instruments",
+      "count": 14098,
+      "sourceFile": "ipc_B25H.txt",
+      "kind": "ipc"
+    },
+    "B25H3/02": {
+      "code": "B25H3/02",
+      "level": 1,
+      "parent": "B25H3/00",
+      "ja": "箱",
+      "en": "Boxes",
+      "count": 25273,
+      "sourceFile": "ipc_B25H.txt",
+      "kind": "ipc"
+    },
+    "B25H3/04": {
+      "code": "B25H3/04",
+      "level": 1,
+      "parent": "B25H3/00",
+      "ja": "たな",
+      "en": "Racks",
+      "count": 19704,
+      "sourceFile": "ipc_B25H.txt",
+      "kind": "ipc"
+    },
+    "B25H3/06": {
+      "code": "B25H3/06",
+      "level": 1,
+      "parent": "B25H3/00",
+      "ja": "皿",
+      "en": "Trays",
+      "count": 1461,
+      "sourceFile": "ipc_B25H.txt",
+      "kind": "ipc"
+    },
+    "B25H5/00": {
+      "code": "B25H5/00",
+      "level": 0,
+      "parent": "B25H",
+      "ja": "車両と組み合わされて使用される工具，器具，工作物保持手段または貯蔵手段；作業者のささえ，例．メカニッククリーパー",
+      "en": "Tool, instrument or work supports or storage means used in association with vehicles; Workers' supports, e.g. mechanics' creepers",
+      "count": 14369,
+      "sourceFile": "ipc_B25H.txt",
+      "kind": "ipc"
+    },
+    "B25H7/00": {
+      "code": "B25H7/00",
+      "level": 0,
+      "parent": "B25H",
+      "ja": "工作物の印付けまたは芯出し（印付け，ミシン目打ち，またはボタン穴あけのための器具または方法Ａ４１Ｈ２５／００；紐線引きＢ４４Ｄ３／３８）",
+      "en": "Marking-out or setting-out work(appliances or methods for marking-out, perforating, or making buttonholes <b>A41H25/00</b>; cord line chalkers <b>B44D3/38</b>)",
+      "count": 3465,
+      "sourceFile": "ipc_B25H.txt",
+      "kind": "ipc"
+    },
+    "B25H7/02": {
+      "code": "B25H7/02",
+      "level": 1,
+      "parent": "B25H7/00",
+      "ja": "平らな表面をもつ板",
+      "en": "Plates having a flat surface",
+      "count": 1283,
+      "sourceFile": "ipc_B25H.txt",
+      "kind": "ipc"
+    },
+    "B25H7/04": {
+      "code": "B25H7/04",
+      "level": 1,
+      "parent": "B25H7/00",
+      "ja": "印付け用装置，例．けがき針（センターポンチＢ２５Ｄ５／００）",
+      "en": "Devices, e.g. scribers, for marking(centre punches <b>B25D5/00</b>)",
+      "count": 12856,
+      "sourceFile": "ipc_B25H.txt",
+      "kind": "ipc"
+    }
+  }
+};

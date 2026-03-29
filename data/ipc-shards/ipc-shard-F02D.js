@@ -1,0 +1,1086 @@
+window.IPC_SHARD_F02D = {
+  "generatedAt": "2026-03-20T02:17:46.799Z",
+  "total": 108,
+  "entries": {
+    "F02D": {
+      "code": "F02D",
+      "level": 0,
+      "parent": "F02",
+      "ja": "燃焼機関の制御（車両速度を自動的に制御する車両付属品であって，単一のサブユニットのみに作用するものＢ６０Ｋ３１／００；異なる種類又は異なる機能の車両用サブユニットの関連制御，特定の単一のサブユニットの制御に関するものではない，特定の目的のための道路上の車両の運転制御システムＢ６０Ｗ）［２００６．０１］<br><br><b><ul>注</ul></b><br>注［４］<br>１．このサブクラスにおいては，下記の用語または表現は以下に示す意味で用いる：<br>・“燃料噴射”とは可燃性物質を，その背後で連続的かまたは周期的に作動する圧力源，例．ポンプ，によってある空間，例．シリンダ，に導入することを意味する；<br>・“過給”とは圧力源，例．ポンプ，によって圧縮された燃焼空気を動作空間，例．シリンダ，に供給することを意味する。<br>２．クラスＦ０１の前の注に注意すること。<br>３．このサブクラスにおいては，制御装置の電気的な観点に特徴があるものはグループ４１／００から４５／００に分類される。<br><br><b><ul>サブクラス内の索引</ul></b><br>サブクラス内の索引<br>燃焼機関の制御または調整一般<br>機関の運転中に作動することを特徴とするもの<br>噴射に関するもの：一般；低圧；その他の手段　１／００；３／００；７／００<br>空気または混合気の吸入または排出を絞ることによるもの　９／００<br>弁の作動周期に関するもの；圧縮比を変化させるもの　１３／００；１５／００<br>シリンダの作動の停止，機関を不作動または無負荷状態とするもの　１７／００<br>燃料または燃焼空気の配分に関するもので他に分類されないもの　３３／００<br>複数の相伴った機能に関するもので他に分類されないもの　３７／００<br>操作開始手段または駆動手段を特徴とするもの<br>操作開始が自動でないもの，例．オペレータによるもの　１１／００<br>速度検出の調速機によるか，または内部もしくは外部状態による起動で他に分類されないもの　３１／００，３５／００<br>プログラム制御　２８／００<br>特殊な機関の制御<br>燃料を特徴とする機関；使用された燃焼媒質の使用を特徴とする機関；過給を特徴とする機関のためのもの　１９／００；２１／００；２３／００<br>協働して作動する機関；逆転可能な機関；車両または特殊な装置を駆動する機関　２５／００；２７／００；２９／００<br>その他の制御<br>非電気的なもの　３９／００<br>電気的なもの　４１／００～４５／００",
+      "en": "CONTROLLING COMBUSTION ENGINES (vehicle fittings, acting on a single sub-unit only, for automatically controlling vehicle speed <b>B60K31/00</b>;  conjoint control of vehicle sub-units of different type or different function, road vehicle drive control systems for purposes other than the control of a single sub-unit <b>B60W</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>In this subclass, the following term or expression is used with the meanings indicated:<ul><li>\"fuel injection\" means the introduction of a combustible substance into a space, e.g. cylinder, by means of a pressure source, e.g. a pump, continuously or cyclically acting behind the substance;</li><li>\"supercharging\" means supplying to the working space, e.g. cylinder, combustion-air pressurised by means of a pressure source, e.g. a pump.</li></ul></li><li>Attention is drawn to the Notes preceding class <b>F01</b>.</li><li>In this subclass, electrical aspects of control arrangements are classified in groups <b>F02D41/00 to F02D45/00</b> . </li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">CONTROLLING COMBUSTION ENGINES IN GENERAL<tr><td width=\"70%\">characterised by action on engine operation<tr><td width=\"70%\">on injection: general; low pressure; other means</td><td><b><b>1/00</b>; <b>3/00</b>; <b>7/00</b></b></td></tr></tr><tr><td width=\"70%\">by throttling air or fuel-and-air induction or exhaust</td><td><b><b>9/00</b></b></td></tr></tr><tr><td width=\"70%\">on valve-operating cycle; varying compression ratio</td><td><b><b>13/00</b>; <b>15/00</b></b></td></tr></tr><tr><td width=\"70%\">cutting-out cylinders, rendering engines inoperative or idling</td><td><b><b>17/00</b></b></td></tr></tr><tr><td width=\"70%\">on delivery of fuel or combustion-air, not otherwise provided for</td><td><b><b>33/00</b></b></td></tr></tr><tr><td width=\"70%\">on two or more associated functions not otherwise provided for</td><td><b><b>37/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">characterised by initiating or actuating means<tr><td width=\"70%\">non-automatic initiation, e.g. by operator</td><td><b><b>11/00</b></b></td></tr></tr><tr><td width=\"70%\">initiation by speed-sensing governors or by interior or exterior conditions, not otherwise provided for</td><td><b><b>31/00</b>, <b>35/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">Program control</td><td><b><b>28/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">CONTROL OF PARTICULAR ENGINES<tr><td width=\"70%\">engines: characterised by fuel; by combustion medium used; by supercharge</td><td><b><b>19/00</b>; <b>21/00</b>; <b>23/00</b></b></td></tr></tr><tr><td width=\"70%\">co-operating engines; reversible engines; engines driving vehicle or particular devices</td><td><b><b>25/00</b>; <b>27/00</b>; <b>29/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">OTHER CONTROL<tr><td width=\"70%\">non-electrical</td><td><b><b>39/00</b></b></td></tr></tr><tr><td width=\"70%\">electrical</td><td><b><b>41/00 to 45/00</b> </b></td></tr></tr></tr></table>",
+      "count": 729,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F02": {
+      "code": "F02",
+      "level": 0,
+      "parent": "F",
+      "ja": "燃焼機関；熱ガスまたは燃焼生成物を利用する機関設備",
+      "en": "COMBUSTION ENGINES; HOT-GAS OR COMBUSTION-PRODUCT ENGINE PLANTS",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F": {
+      "code": "F",
+      "level": 0,
+      "parent": null,
+      "ja": "機械工学；照明；加熱；武器；爆破",
+      "en": "MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F02D1/00": {
+      "code": "F02D1/00",
+      "level": 0,
+      "parent": "F02D",
+      "ja": "燃料噴射ポンプの制御，例．高圧噴射型の制御（Ｆ０２Ｄ３／００が優先）［２］",
+      "en": "Controlling fuel-injection pumps, e.g. of high-pressure injection type(<b>F02D3/00</b> takes precedence)",
+      "count": 3335,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D1/02": {
+      "code": "F02D1/02",
+      "level": 1,
+      "parent": "F02D1/00",
+      "ja": "噴射時期の調整だけに限定されないもの，例．燃料分配量の変更",
+      "en": "not restricted to adjustment of injection timing, e.g. varying amount of fuel delivered",
+      "count": 5729,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D1/04": {
+      "code": "F02D1/04",
+      "level": 2,
+      "parent": "F02D1/02",
+      "ja": "機関速度に応じる機械的手段によるもの，例．遠心調速機を使用するもの（Ｆ０２Ｄ１／０８が優先）",
+      "en": "by mechanical means dependent on engine speed, e.g. using centrifugal governors(<b>F02D1/08</b> takes precedence)",
+      "count": 3406,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D1/06": {
+      "code": "F02D1/06",
+      "level": 2,
+      "parent": "F02D1/02",
+      "ja": "機関の動作流体の圧力に応じる手段によるもの（Ｆ０２Ｄ１／０８が優先）",
+      "en": "by means dependent on pressure of engine working fluid(<b>F02D1/08</b> takes precedence)",
+      "count": 757,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D1/08": {
+      "code": "F02D1/08",
+      "level": 2,
+      "parent": "F02D1/02",
+      "ja": "ポンプ制御部への制御信号の伝達，例．動力付きまたは補助動力付きのもの",
+      "en": "Transmission of control impulse to pump control, e.g. with power drive or power assistance",
+      "count": 1630,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D1/10": {
+      "code": "F02D1/10",
+      "level": 3,
+      "parent": "F02D1/08",
+      "ja": "機械式のもの",
+      "en": "mechanical",
+      "count": 1326,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D1/12": {
+      "code": "F02D1/12",
+      "level": 3,
+      "parent": "F02D1/08",
+      "ja": "機械式でないもの，例．液圧式",
+      "en": "non-mechanical, e.g. hydraulic",
+      "count": 895,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D1/14": {
+      "code": "F02D1/14",
+      "level": 4,
+      "parent": "F02D1/12",
+      "ja": "空気圧式",
+      "en": "pneumatic",
+      "count": 299,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D1/16": {
+      "code": "F02D1/16",
+      "level": 1,
+      "parent": "F02D1/00",
+      "ja": "噴射時期の調整（Ｆ０２Ｄ１／０２が優先）",
+      "en": "Adjustment of injection timing(<b>F02D1/02</b> takes precedence)",
+      "count": 1431,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D1/18": {
+      "code": "F02D1/18",
+      "level": 2,
+      "parent": "F02D1/16",
+      "ja": "制御信号伝達用の機械的でない手段をもつもの；制御信号の増幅装置をもつもの",
+      "en": "with non-mechanical means for transmitting control impulse; with amplification of control impulse",
+      "count": 1695,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D3/00": {
+      "code": "F02D3/00",
+      "level": 0,
+      "parent": "F02D",
+      "ja": "低圧燃料噴射，すなわち低圧力で噴射された燃料を含んだ燃料ー空気混合気が大部分機関の圧縮行程で圧縮されるものの制御で，噴射ポンプのみの制御によるもの以外の制御［２００６．０１］<br><br><b><ul>注</ul></b><br>制御装置または系が低圧燃料噴射装置の一部を形成する場合はグループＦ０２Ｍ６９／００に分類される［５］",
+      "en": "Controlling low-pressure fuel injection, i.e. where the fuel-air mixture containing fuel thus injected will be substantially compressed by the compression stroke of the engine, by means other than controlling only an injection pump; <br><br><b><u>Note(s)</u></b><br><br><ul><li>When the control apparatus or system forms part of the low-pressure fuel-injection apparatus it is classified in group <b>F02M69/00</b>. </li></ul>",
+      "count": 1224,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D3/02": {
+      "code": "F02D3/02",
+      "level": 1,
+      "parent": "F02D3/00",
+      "ja": "連続的な噴射または噴射ノズル上流での連続的な流れを有するもの［２］",
+      "en": "with continuous injection or continuous flow upstream of the injection nozzle",
+      "count": 720,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D3/04": {
+      "code": "F02D3/04",
+      "level": 1,
+      "parent": "F02D3/00",
+      "ja": "燃料の噴射および気化の制御，例．両者が選択的に可能な装置の制御",
+      "en": "Controlling fuel injection and carburation, e.g. of alternative systems",
+      "count": 91,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D7/00": {
+      "code": "F02D7/00",
+      "level": 0,
+      "parent": "F02D",
+      "ja": "その他の非電気的な燃料噴射の制御［４］",
+      "en": "Other non-electrical fuel injection control",
+      "count": 493,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D7/02": {
+      "code": "F02D7/02",
+      "level": 1,
+      "parent": "F02D7/00",
+      "ja": "圧縮空気によって燃料が噴射される燃料噴射の制御",
+      "en": "Controlling fuel injection where fuel is injected by compressed air",
+      "count": 135,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D9/00": {
+      "code": "F02D9/00",
+      "level": 0,
+      "parent": "F02D",
+      "ja": "空気の，または燃料および空気の吸入管または排気管を絞ることによる機関の制御",
+      "en": "Controlling engines by throttling air or fuel-and-air induction conduits or exhaust conduits",
+      "count": 4632,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D9/02": {
+      "code": "F02D9/02",
+      "level": 1,
+      "parent": "F02D9/00",
+      "ja": "吸気管に関するもの（導管中の絞り弁，またはその配置Ｆ０２Ｄ９／０８）",
+      "en": "concerning induction conduits(throttle valves, or arrangements thereof in conduits <b>F02D9/08</b>)",
+      "count": 18022,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D9/04": {
+      "code": "F02D9/04",
+      "level": 1,
+      "parent": "F02D9/00",
+      "ja": "排気管に関するもの（導管中の絞り弁，またはその配置Ｆ０２Ｄ９／０８）",
+      "en": "concerning exhaust conduits(throttle valves, or arrangements thereof in conduits <b>F02D9/08</b>)",
+      "count": 3000,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D9/06": {
+      "code": "F02D9/06",
+      "level": 2,
+      "parent": "F02D9/04",
+      "ja": "排気ブレーキ",
+      "en": "Exhaust brakes",
+      "count": 2740,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D9/08": {
+      "code": "F02D9/08",
+      "level": 1,
+      "parent": "F02D9/00",
+      "ja": "特に上記の制御に適用した絞り弁；そのような弁の導管中における配置［２００６．０１］",
+      "en": "Throttle valves specially adapted therefor; Arrangements of such valves in conduits",
+      "count": 2609,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D9/10": {
+      "code": "F02D9/10",
+      "level": 2,
+      "parent": "F02D9/08",
+      "ja": "回転軸上に支持された弁板のあるもの",
+      "en": "having pivotally-mounted flaps",
+      "count": 7495,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D9/12": {
+      "code": "F02D9/12",
+      "level": 2,
+      "parent": "F02D9/08",
+      "ja": "滑動可能に支持された弁部材のあるもの；導管の長手方向に可動な弁部材のあるもの",
+      "en": "having slidably-mounted valve-members; having valve-members movable longitudinally of conduit",
+      "count": 297,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D9/14": {
+      "code": "F02D9/14",
+      "level": 3,
+      "parent": "F02D9/12",
+      "ja": "導管を横断する方向に滑動する部材",
+      "en": "the members being slidable transversely of conduit",
+      "count": 484,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D9/16": {
+      "code": "F02D9/16",
+      "level": 3,
+      "parent": "F02D9/12",
+      "ja": "回転式の部材",
+      "en": "the members being rotatable",
+      "count": 469,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D9/18": {
+      "code": "F02D9/18",
+      "level": 2,
+      "parent": "F02D9/08",
+      "ja": "弾性弁部材のあるもの",
+      "en": "having elastic-wall valve-members",
+      "count": 88,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D11/00": {
+      "code": "F02D11/00",
+      "level": 0,
+      "parent": "F02D",
+      "ja": "自動式でない機関制御操作開始手段，例．オペレータによる操作開始手段のための構成または適用（特に逆転のためのものＦ０２Ｄ２７／００）［２００６．０１］",
+      "en": "Arrangements for, or adaptations to, non-automatic engine control initiation means, e.g. operator initiated(specially for reversing <b>F02D27/00</b>)",
+      "count": 530,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D11/02": {
+      "code": "F02D11/02",
+      "level": 1,
+      "parent": "F02D11/00",
+      "ja": "手，足等，オペレータにより制御される操作開始手段で特徴づけられるもの［５］",
+      "en": "characterised by hand, foot, or like operator controlled initiation means",
+      "count": 4867,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D11/04": {
+      "code": "F02D11/04",
+      "level": 1,
+      "parent": "F02D11/00",
+      "ja": "機械的制御機構で特徴づけられるもの（Ｆ０２Ｄ１１／０６が優先）［２００６．０１］",
+      "en": "characterised by mechanical control linkages (<b>F02D11/06</b> takes precedence)",
+      "count": 2796,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D11/06": {
+      "code": "F02D11/06",
+      "level": 1,
+      "parent": "F02D11/00",
+      "ja": "非機械的制御機構，例．流体式制御機構，または動力付きあるいは補助動力付きの制御機構で特徴づけられるもの［５］",
+      "en": "characterised by non-mechanical control linkages, e.g. fluid control linkages or by control linkages with power drive or assistance",
+      "count": 1108,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D11/08": {
+      "code": "F02D11/08",
+      "level": 2,
+      "parent": "F02D11/06",
+      "ja": "空気圧式のもの［５］",
+      "en": "of the pneumatic type",
+      "count": 692,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D11/10": {
+      "code": "F02D11/10",
+      "level": 2,
+      "parent": "F02D11/06",
+      "ja": "電気式のもの［５］",
+      "en": "of the electric type",
+      "count": 9544,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D13/00": {
+      "code": "F02D13/00",
+      "level": 0,
+      "parent": "F02D",
+      "ja": "吸気または排気弁の作動特性，例．タイミング，の変更による機関出力の制御［２００６．０１］",
+      "en": "Controlling the engine output power by varying inlet or exhaust valve operating characteristics, e.g. timing",
+      "count": 831,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D13/02": {
+      "code": "F02D13/02",
+      "level": 1,
+      "parent": "F02D13/00",
+      "ja": "機関運転中のもの",
+      "en": "during engine operation",
+      "count": 16261,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D13/04": {
+      "code": "F02D13/04",
+      "level": 2,
+      "parent": "F02D13/02",
+      "ja": "機関をブレーキとして使うもの",
+      "en": "using engine as brake",
+      "count": 1795,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D13/06": {
+      "code": "F02D13/06",
+      "level": 2,
+      "parent": "F02D13/02",
+      "ja": "シリンダを休止させるもの",
+      "en": "Cutting-out cylinders",
+      "count": 2078,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D13/08": {
+      "code": "F02D13/08",
+      "level": 1,
+      "parent": "F02D13/00",
+      "ja": "機関を不作動または無負荷状態とするもの",
+      "en": "for rendering engine inoperative or idling",
+      "count": 408,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D15/00": {
+      "code": "F02D15/00",
+      "level": 0,
+      "parent": "F02D",
+      "ja": "圧縮比を変化させるもの　［２００６．０１］",
+      "en": "Varying compression ratio",
+      "count": 1702,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D15/02": {
+      "code": "F02D15/02",
+      "level": 1,
+      "parent": "F02D15/00",
+      "ja": "ピストン行程の変更または変位によるもの",
+      "en": "by alteration or displacement of piston stroke",
+      "count": 2493,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D15/04": {
+      "code": "F02D15/04",
+      "level": 1,
+      "parent": "F02D15/00",
+      "ja": "ピストン行程を変化させないで圧縮空間容積を変更するもの",
+      "en": "by alteration of volume of compression space without changing piston stroke",
+      "count": 2366,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D17/00": {
+      "code": "F02D17/00",
+      "level": 0,
+      "parent": "F02D",
+      "ja": "個々のシリンダを休止させて機関を制御するもの；機関を不作動または無負荷状態とするもの（吸気または排気弁の作動特性を変更して機関を制御または不作動の状態とするものＦ０２Ｄ１３／００）",
+      "en": "Controlling engines by cutting-out individual cylinders; Rendering engines inoperative or idling(controlling or rendering inoperative by varying inlet or exhaust valve operating characteristics <b>F02D13/00</b>)",
+      "count": 5148,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D17/02": {
+      "code": "F02D17/02",
+      "level": 1,
+      "parent": "F02D17/00",
+      "ja": "作動休止（多機関配列における機関の休止Ｆ０２Ｄ２５／０４）",
+      "en": "Cutting-out(cutting-out engines in multiple-engine arrangements <b>F02D25/04</b>)",
+      "count": 5201,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D17/04": {
+      "code": "F02D17/04",
+      "level": 1,
+      "parent": "F02D17/00",
+      "ja": "機関を不作動または無負荷状態とするもの，例．異常状態に基づくもの（潤滑状態によるものＦ０１Ｍ１／２２；冷却状態によるものＦ０１Ｐ５／１４）",
+      "en": "rendering engines inoperative or idling, e.g. caused by abnormal conditions(dependent on lubricating conditions <b>F01M1/22</b>; dependent on cooling <b>F01P5/14</b>)",
+      "count": 3508,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D19/00": {
+      "code": "F02D19/00",
+      "level": 0,
+      "parent": "F02D",
+      "ja": "液体でない燃料，複数の燃料または可燃性混合物に添加された燃料でない物質を使用することを特徴とする機関の制御（燃料でない物質で気体状のものＦ０２Ｄ２１／００）",
+      "en": "Controlling engines characterised by their use of non-liquid fuels, pluralities of fuels, or non-fuel substances added to the combustible mixtures(the non-fuel substances being gaseous <b>F02D21/00</b>)",
+      "count": 437,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D19/02": {
+      "code": "F02D19/02",
+      "level": 1,
+      "parent": "F02D19/00",
+      "ja": "気体燃料で作動する機関に特有のもの［２００６．０１］",
+      "en": "peculiar to engines working with gaseous fuels",
+      "count": 5513,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D19/04": {
+      "code": "F02D19/04",
+      "level": 1,
+      "parent": "F02D19/00",
+      "ja": "固体燃料，例．微粉炭，で作動する機関に特有なもの",
+      "en": "peculiar to engines working with solid fuels, e.g. pulverised coal",
+      "count": 49,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D19/06": {
+      "code": "F02D19/06",
+      "level": 1,
+      "parent": "F02D19/00",
+      "ja": "２種以上の燃料によって作動する機関，例．軽油および重油燃料を交代使用できるもの，であって消費燃料を特定しない機関を除いた機関に特有のもの",
+      "en": "peculiar to engines working with pluralities of fuels, e.g. alternatively with light and heavy fuel oil, other than engines indifferent to the fuel consumed",
+      "count": 5575,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D19/08": {
+      "code": "F02D19/08",
+      "level": 2,
+      "parent": "F02D19/06",
+      "ja": "同時に２種以上の燃料を使用するもの（Ｆ０２Ｄ１９／１２が優先）",
+      "en": "simultaneously using pluralities of fuels(<b>F02D19/12</b> takes precedence)",
+      "count": 5059,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D19/10": {
+      "code": "F02D19/10",
+      "level": 3,
+      "parent": "F02D19/08",
+      "ja": "主燃料が気体である圧縮点火機関に特有のもの",
+      "en": "peculiar to compression-ignition engines in which the main fuel is gaseous",
+      "count": 1092,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D19/12": {
+      "code": "F02D19/12",
+      "level": 1,
+      "parent": "F02D19/00",
+      "ja": "燃料でない物質またはアンチノック剤，例．アンチノック性燃料，を添加して作動する機関に特有のもの［２００６．０１］",
+      "en": "peculiar to engines working with non-fuel substances or with anti-knock agents, e.g. with anti-knock fuel",
+      "count": 1359,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D21/00": {
+      "code": "F02D21/00",
+      "level": 0,
+      "parent": "F02D",
+      "ja": "空気中のものでない酸素またはその他の燃料でない気体が供給されることを特徴とする機関の制御",
+      "en": "Controlling engines characterised by their being supplied with non-airborne oxygen or other non-fuel gas",
+      "count": 153,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D21/02": {
+      "code": "F02D21/02",
+      "level": 1,
+      "parent": "F02D21/00",
+      "ja": "酸素が供給される機関に特有のもの",
+      "en": "peculiar to oxygen-fed engines",
+      "count": 177,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D21/04": {
+      "code": "F02D21/04",
+      "level": 2,
+      "parent": "F02D21/02",
+      "ja": "密閉回路または準密閉回路で排気ガスが循環するもの",
+      "en": "with circulation of exhaust gases in closed or semi-closed circuits",
+      "count": 212,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D21/06": {
+      "code": "F02D21/06",
+      "level": 1,
+      "parent": "F02D21/00",
+      "ja": "燃焼空気に他の燃料でない気体が添加される機関に特有のもの",
+      "en": "peculiar to engines having other non-fuel gas added to combustion-air",
+      "count": 233,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D21/08": {
+      "code": "F02D21/08",
+      "level": 2,
+      "parent": "F02D21/06",
+      "ja": "機関の排気ガスが添加されるもの［２００６．０１］",
+      "en": "the other gas being the exhaust gas of engine",
+      "count": 10875,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D21/10": {
+      "code": "F02D21/10",
+      "level": 2,
+      "parent": "F02D21/06",
+      "ja": "燃料－空気混合気に２次空気が添加されるもの［２００６．０１］",
+      "en": "having secondary air added to fuel-air mixture",
+      "count": 497,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D23/00": {
+      "code": "F02D23/00",
+      "level": 0,
+      "parent": "F02D",
+      "ja": "過給されることを特徴とする機関の制御",
+      "en": "Controlling engines characterised by their being supercharged",
+      "count": 8232,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D23/02": {
+      "code": "F02D23/02",
+      "level": 1,
+      "parent": "F02D23/00",
+      "ja": "燃料噴射形の機関",
+      "en": "the engines being of fuel-injection type",
+      "count": 2701,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D25/00": {
+      "code": "F02D25/00",
+      "level": 0,
+      "parent": "F02D",
+      "ja": "複数の協動して作動する機関の制御",
+      "en": "Controlling two or more co-operating engines",
+      "count": 547,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D25/02": {
+      "code": "F02D25/02",
+      "level": 1,
+      "parent": "F02D25/00",
+      "ja": "機関速度を同期させるもの",
+      "en": "to synchronise speed",
+      "count": 238,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D25/04": {
+      "code": "F02D25/04",
+      "level": 1,
+      "parent": "F02D25/00",
+      "ja": "機関休止によるもの",
+      "en": "by cutting-out engines",
+      "count": 198,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D27/00": {
+      "code": "F02D27/00",
+      "level": 0,
+      "parent": "F02D",
+      "ja": "逆転可能なことを特徴とする機関の制御",
+      "en": "Controlling engines characterised by their being reversible",
+      "count": 246,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D27/02": {
+      "code": "F02D27/02",
+      "level": 1,
+      "parent": "F02D27/00",
+      "ja": "設定された作動を行なうもの［２００６．０１］",
+      "en": "by performing a programme",
+      "count": 61,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D28/00": {
+      "code": "F02D28/00",
+      "level": 0,
+      "parent": "F02D",
+      "ja": "機関のプログラム制御［２００６．０１］",
+      "en": "Program control of engines",
+      "count": 1255,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D29/00": {
+      "code": "F02D29/00",
+      "level": 0,
+      "parent": "F02D",
+      "ja": "機関の作動に不可欠な部品または補機以外の装置であって機関により駆動されるものに特有な制御，例．機関外からの信号による機関の制御［２］",
+      "en": "Controlling engines, such controlling being peculiar to the devices driven thereby, the devices being other than parts or accessories essential to engine operation, e.g. controlling of engines by signals external thereto",
+      "count": 11007,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D29/02": {
+      "code": "F02D29/02",
+      "level": 1,
+      "parent": "F02D29/00",
+      "ja": "車両を駆動する機関に特有のもの；可変ピッチのプロペラを駆動する機関に特有のもの［２］",
+      "en": "peculiar to engines driving vehicles; peculiar to engines driving variable-pitch propellers",
+      "count": 30366,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D29/04": {
+      "code": "F02D29/04",
+      "level": 1,
+      "parent": "F02D29/00",
+      "ja": "ポンプ駆動の機関に特有のもの",
+      "en": "peculiar to engines driving pumps",
+      "count": 3712,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D29/06": {
+      "code": "F02D29/06",
+      "level": 1,
+      "parent": "F02D29/00",
+      "ja": "発電機駆動の機関に特有のもの",
+      "en": "peculiar to engines driving electric generators",
+      "count": 7049,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D31/00": {
+      "code": "F02D31/00",
+      "level": 0,
+      "parent": "F02D",
+      "ja": "非電気的な速度検出のガバナーを燃焼機関の制御に使用するもので他に分類されないもの",
+      "en": "Use of non-electrical speed-sensing governors to control combustion engines, not otherwise provided for",
+      "count": 4444,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D33/00": {
+      "code": "F02D33/00",
+      "level": 0,
+      "parent": "F02D",
+      "ja": "燃料または燃焼空気の配分の非電気的な制御で他に分類されないもの",
+      "en": "Non-electrical control of delivery of fuel or combustion-air, not otherwise provided for",
+      "count": 5518,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D33/02": {
+      "code": "F02D33/02",
+      "level": 1,
+      "parent": "F02D33/00",
+      "ja": "燃焼空気の配分",
+      "en": "of combustion-air",
+      "count": 716,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D35/00": {
+      "code": "F02D35/00",
+      "level": 0,
+      "parent": "F02D",
+      "ja": "機関の外部または内部状態による機関の非電気的な制御で他に分類されないもの",
+      "en": "Non-electrical control of engines, dependent on conditions exterior or interior to engines, not otherwise provided for",
+      "count": 9392,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D35/02": {
+      "code": "F02D35/02",
+      "level": 1,
+      "parent": "F02D35/00",
+      "ja": "内部状態によるもの",
+      "en": "on interior conditions",
+      "count": 3823,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D37/00": {
+      "code": "F02D37/00",
+      "level": 0,
+      "parent": "F02D",
+      "ja": "機関の複数の作用の結合的で非電気的な制御で他に分類されないもの",
+      "en": "Non-electrical conjoint control of  two or more functions of engines, not otherwise provided for",
+      "count": 892,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D37/02": {
+      "code": "F02D37/02",
+      "level": 1,
+      "parent": "F02D37/00",
+      "ja": "点火作用をその中に含むもの［２００６．０１］",
+      "en": "one of the functions being ignition",
+      "count": 2112,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D39/00": {
+      "code": "F02D39/00",
+      "level": 0,
+      "parent": "F02D",
+      "ja": "その他の非電気的制御［４］",
+      "en": "Other non-electrical control",
+      "count": 201,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D39/02": {
+      "code": "F02D39/02",
+      "level": 1,
+      "parent": "F02D39/00",
+      "ja": "４サイクル機関のためのもの",
+      "en": "for four-stroke engines",
+      "count": 70,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D39/04": {
+      "code": "F02D39/04",
+      "level": 1,
+      "parent": "F02D39/00",
+      "ja": "４サイクル以外のサイクル，例．２サイクル，の機関のためのもの",
+      "en": "for engines with other cycles than four-stroke, e.g. two-stroke",
+      "count": 78,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D39/06": {
+      "code": "F02D39/06",
+      "level": 1,
+      "parent": "F02D39/00",
+      "ja": "燃料が大部分圧縮行程の終りに加えられる機関のためのもの",
+      "en": "for engines adding the fuel substantially at end of compression stroke",
+      "count": 50,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D39/08": {
+      "code": "F02D39/08",
+      "level": 1,
+      "parent": "F02D39/00",
+      "ja": "燃料が大部分圧縮行程の前に加えられる機関のためのもの",
+      "en": "for engines adding the fuel substantially before compression stroke",
+      "count": 17,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D39/10": {
+      "code": "F02D39/10",
+      "level": 1,
+      "parent": "F02D39/00",
+      "ja": "自由ピストン機関のためのもの；回転する主軸のない機関のためのもの",
+      "en": "for free-piston engines; for engines without rotary main shaft",
+      "count": 53,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D41/00": {
+      "code": "F02D41/00",
+      "level": 0,
+      "parent": "F02D",
+      "ja": "燃焼可能な混合気またはその成分の供給の電気的制御（Ｆ０２Ｄ４３／００が優先）［４］",
+      "en": "Electrical control of supply of combustible mixture or its constituents(<b>F02D43/00</b> takes precedence)",
+      "count": 32330,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D41/02": {
+      "code": "F02D41/02",
+      "level": 1,
+      "parent": "F02D41/00",
+      "ja": "制御信号を発生する回路装置［４］",
+      "en": "Circuit arrangements for generating control signals",
+      "count": 20778,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D41/04": {
+      "code": "F02D41/04",
+      "level": 2,
+      "parent": "F02D41/02",
+      "ja": "特定の運転状態に対応する補正の導入（Ｆ０２Ｄ４１／１４が優先）［４］",
+      "en": "Introducing corrections for particular operating conditions(<b>F02D41/14</b> takes precedence)",
+      "count": 27404,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D41/06": {
+      "code": "F02D41/06",
+      "level": 3,
+      "parent": "F02D41/04",
+      "ja": "機関の始動または暖機運転のためのもの［４］",
+      "en": "for engine starting or warming up",
+      "count": 11724,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D41/08": {
+      "code": "F02D41/08",
+      "level": 3,
+      "parent": "F02D41/04",
+      "ja": "アイドリングのためのもの（Ｆ０２Ｄ４１／０６，Ｆ０２Ｄ４１／１６が優先）［４］",
+      "en": "for idling(<b>F02D41/06</b>, <b>F02D41/16</b> take precedence)",
+      "count": 4765,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D41/10": {
+      "code": "F02D41/10",
+      "level": 3,
+      "parent": "F02D41/04",
+      "ja": "加速のためのもの［４］",
+      "en": "for acceleration",
+      "count": 4675,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D41/12": {
+      "code": "F02D41/12",
+      "level": 3,
+      "parent": "F02D41/04",
+      "ja": "減速のためのもの［４］",
+      "en": "for deceleration",
+      "count": 5978,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D41/14": {
+      "code": "F02D41/14",
+      "level": 2,
+      "parent": "F02D41/02",
+      "ja": "閉ループ補正を導入するもの［４］",
+      "en": "Introducing closed-loop corrections",
+      "count": 28963,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D41/16": {
+      "code": "F02D41/16",
+      "level": 3,
+      "parent": "F02D41/14",
+      "ja": "アイドリングのためのもの［４］",
+      "en": "for idling",
+      "count": 3987,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D41/18": {
+      "code": "F02D41/18",
+      "level": 2,
+      "parent": "F02D41/02",
+      "ja": "吸気量の測定によるもの［２００６．０１］",
+      "en": "by measuring intake air flow",
+      "count": 4762,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D41/20": {
+      "code": "F02D41/20",
+      "level": 1,
+      "parent": "F02D41/00",
+      "ja": "出力回路，例．指令コイルの電流の制御のためのもの［２００６．０１］",
+      "en": "Output circuits, e.g. for controlling currents in command coils",
+      "count": 6415,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D41/22": {
+      "code": "F02D41/22",
+      "level": 1,
+      "parent": "F02D41/00",
+      "ja": "異常状態のための安全装置または表示装置［４］",
+      "en": "Safety or indicating devices for abnormal conditions",
+      "count": 18006,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D41/24": {
+      "code": "F02D41/24",
+      "level": 1,
+      "parent": "F02D41/00",
+      "ja": "デジタル手段の使用を特徴とするもの［４］",
+      "en": "characterised by the use of digital means",
+      "count": 5172,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D41/26": {
+      "code": "F02D41/26",
+      "level": 2,
+      "parent": "F02D41/24",
+      "ja": "コンピュータ，例．マイクロプロセッサ，を使用するもの［４］",
+      "en": "using computer, e.g. microprocessor",
+      "count": 4046,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D41/28": {
+      "code": "F02D41/28",
+      "level": 3,
+      "parent": "F02D41/26",
+      "ja": "インターフェイス回路［４］",
+      "en": "Interface circuits",
+      "count": 729,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D41/30": {
+      "code": "F02D41/30",
+      "level": 1,
+      "parent": "F02D41/00",
+      "ja": "燃料の噴射を制御するもの［４］",
+      "en": "Controlling fuel injection",
+      "count": 10797,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D41/32": {
+      "code": "F02D41/32",
+      "level": 2,
+      "parent": "F02D41/30",
+      "ja": "低圧型のもの［４］",
+      "en": "of the low pressure type",
+      "count": 2309,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D41/34": {
+      "code": "F02D41/34",
+      "level": 3,
+      "parent": "F02D41/32",
+      "ja": "噴射時期または噴射時間を制御する手段をもつもの［２００６．０１］",
+      "en": "with means for controlling injection timing or duration",
+      "count": 11679,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D41/36": {
+      "code": "F02D41/36",
+      "level": 3,
+      "parent": "F02D41/32",
+      "ja": "配電を制御する手段をもつもの［２００６．０１］",
+      "en": "with means for controlling distribution",
+      "count": 2193,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D41/38": {
+      "code": "F02D41/38",
+      "level": 2,
+      "parent": "F02D41/30",
+      "ja": "高圧型のもの［４］",
+      "en": "of the high pressure type",
+      "count": 8967,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D41/40": {
+      "code": "F02D41/40",
+      "level": 3,
+      "parent": "F02D41/38",
+      "ja": "噴射時期または噴射時間を制御する手段をもつもの［４］",
+      "en": "with means for controlling injection timing or duration",
+      "count": 10411,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D43/00": {
+      "code": "F02D43/00",
+      "level": 0,
+      "parent": "F02D",
+      "ja": "２つ以上の機能，例．点火，燃料―空気の混合，再循環，過給または排気ガス処理，の結合した電気的制御［２００６．０１］",
+      "en": "Conjoint electrical control of two or more functions, e.g. ignition, fuel-air mixture, recirculation, supercharging or exhaust-gas treatment",
+      "count": 15167,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D43/02": {
+      "code": "F02D43/02",
+      "level": 1,
+      "parent": "F02D43/00",
+      "ja": "アナログ手段のみを用いるもの［４］",
+      "en": "using only analogue means",
+      "count": 36,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D43/04": {
+      "code": "F02D43/04",
+      "level": 1,
+      "parent": "F02D43/00",
+      "ja": "ディジタル手段のみを用いるもの［４］",
+      "en": "using only digital means",
+      "count": 406,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    },
+    "F02D45/00": {
+      "code": "F02D45/00",
+      "level": 0,
+      "parent": "F02D",
+      "ja": "グループＦ０２Ｄ４１／００～Ｆ０２Ｄ４３／００に分類されない電気的制御［２００６．０１］",
+      "en": "Electrical control not provided for in groups <b>F02D41/00 to F02D43/00</b> ",
+      "count": 55883,
+      "sourceFile": "ipc_F02D.txt",
+      "kind": "ipc"
+    }
+  }
+};

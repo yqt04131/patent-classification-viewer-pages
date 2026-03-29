@@ -1,0 +1,856 @@
+{
+  "generatedAt": "2026-03-20T02:17:47.077Z",
+  "total": 85,
+  "entries": {
+    "G05G": {
+      "code": "G05G",
+      "level": 0,
+      "parent": "G05",
+      "ja": "機械的構成のみによって特徴づけられた制御装置または制御系（“ボーデン”または類似の機構Ｆ１６Ｃ１／１０；この目的に特有でない伝動装置または機械Ｆ１６Ｈ；回転運動を伝達する伝動装置のための変速または逆転機構Ｆ１６Ｈ５９／００～Ｆ１６Ｈ６３／００）<br><br><b><ul>注</ul></b><br>１．このサブクラスは以下のものを包含する：<br>・機械的制御が一般的に適用される部材；<br>・１以上の所定の設定に部材を移動する機械的システム。<br>２．単独の他のクラスに分類する特定の器械または装置の制御に特有なシステムは，当該器械または装置に関連するクラスに分類する。<br><br><b><ul>サブクラス内の索引</ul></b><br>手動制御機構，１個以上の被制御部材を操作する１個以上の制御部材　７／００，９／００，１１／００，１３／００<br>自動運動開始装置；トリップ機構　１５／００；１７／００<br>サーボ機構　１９／００<br>プログラム制御装置　２１／００<br>鎖錠手段，制御手段；位置決め手段　５／００；２３／００<br>構成部品　１／００，３／００，２５／００",
+      "en": "CONTROL DEVICES OR SYSTEMS INSOFAR AS CHARACTERISED BY MECHANICAL FEATURES ONLY(\"Bowden\" or like mechanisms <b>F16C1/10</b>; gearings or mechanisms not peculiar to this purpose <b>F16H</b>; speed changing or reversing mechanisms for gearings conveying rotary motion <b>F16H59/00 to F16H63/00</b> );<br><br><b><u>Note(s)</u></b><br><br><ul><li>This subclass <u>covers</u> : <ul><li>members of general applicability for mechanical control;</li><li>mechanical systems for moving members to one or more definite settings.</li></ul></li><li>Systems peculiar to the control of particular machines or apparatus provided for in a single other class are classified in the relevant class for such machines or apparatus.</li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">MANUALLY-ACTUATED CONTROL MECHANISMS, ONE OR MORE CONTROLLING MEMBERS ACTUATING ONE OR MORE CONTROLLED MEMBERS</td><td><b><b>7/00</b>, <b>9/00</b>, <b>11/00</b>, <b>13/00</b></b></td></tr></tr><tr><td width=\"70%\">AUTOMATIC MOVEMENT-INITIATING DEVICES; TRIP MECHANISMS</td><td><b><b>15/00</b>; <b>17/00</b></b></td></tr></tr><tr><td width=\"70%\">SERVO-MECHANISMS</td><td><b><b>19/00</b></b></td></tr></tr><tr><td width=\"70%\">PROGRAM-CONTROL DEVICES</td><td><b><b>21/00</b></b></td></tr></tr><tr><td width=\"70%\">LOCKING MEANS, LIMITING MEANS; POSITIONING MEANS</td><td><b><b>5/00</b>; <b>23/00</b></b></td></tr></tr><tr><td width=\"70%\">COMPONENT PARTS</td><td><b><b>1/00</b>, <b>3/00</b>, <b>25/00</b></b></td></tr></tr></table>",
+      "count": 406,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G05": {
+      "code": "G05",
+      "level": 0,
+      "parent": "G",
+      "ja": "制御；調整<br><br><b><ul>注</ul></b><br>（１）このクラスは一般的制御方法，系および装置を包含する。<br>（２）セクションＧのタイトルに続く注，特に“変量”という用語の定義については注意すること。",
+      "en": "CONTROLLING; REGULATING; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This class <u>covers</u> methods, systems, and apparatus for controlling, in general.</li><li>Attention is drawn to the Notes following the title of section <b>G</b>, especially as regards the definition of the term \"variable\".</li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G": {
+      "code": "G",
+      "level": 0,
+      "parent": null,
+      "ja": "物理学<br><br><b><ul>注</ul></b><br>１．このセクションにおいては，下記の用語は以下に示す意味で用いる：<br>・“変量”は名詞として，特定の実在物，例．物体，ある量の物質，光ビーム，に関し特定の瞬間に測定することの可能な特性又は特質，例．寸法，温度等の物理的状態，密度又は色等の性質，を意味する。変量が変化すると，その数値的表現は異なる時点で，異なる状態又は個々の状況において異なる値をとることもあり，また，ある状態のもとで又は実用上特定の実在物に関して一定でありうる，例．バーの長さが多くの目的のために一定とみなされる，こともある。<br>２．使用される用語または表現の定義に注意すること。このセクションのいくつかのクラスの注に使用されているものについて，特にクラスＧ０１の“測定”を参照されたい．ＩＰＣ指針パラグラフ１８７の中にあるものについて，“制御”及び“調整”の定義に参照されたい。<br>３．このセクションにおける分類は他のセクションにおいてよりもめんどうな場合があり得る，というのは，その一つは，いろいろな使用分野の差異の判別には構造上の差異又は使用形態上の差異よりも寧ろ使用者の意図における差異の方にかなりの程度影響されてしまうからであり，もう一つは，扱う主題が容易に全体として識別できる“もの”であるよりも，特性又は部品が他の主題のものと共通のものを有しているシステム又は組合わせであることが実際上多いからである。例えば，情報（例．一連の数値）をディスプレイするのは，クラスＧ０９に包含される，教育又は広告のため，クラスＧ０１に包含される，測定の結果が通知されうるため，クラスＧ０８に包含される，遠隔地点に情報を合図するため，又は遠隔地点から合図された情報を提供するためである。目的を記述するために使用する言葉は，当該装置の形態に無関係なこともあり得る特性－例えば，ディスプレイを見る者にとって望ましい効果とか，ディスプレイが遠隔地点から制御されるかどうかという特性－によって決定される。さらに，ある状態，例えば流体圧の変化に応答する装置は，その装置そのものには変更を加えずして，サブクラスＧ０１Ｌに包含される圧力又はＧ０１の他のサブクラスに包含される圧力に関連した他の何らかの状態，例．温度に関してＧ０１Ｋ，についての情報を与えるため，サブクラスＧ０７Ｃに包含される圧力または圧力発生の記録をするため，サブクラスＧ０８Ｂに包含される警報を発するため，又はクラスＧ０５に包含される他の何らかの装置を制御するために用いられることがある。<br>　本分類表は，前述したように，同一の性質のものは同一箇所に分類し得るようにしたものである。従って，技術主題が適切箇所に分類されるためには予めその真正な本質を把握することが特に必要である。",
+      "en": "PHYSICS; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this section, the following term is used with the meaning indicated: <ul><li>\"variable\" as a noun means a feature or property, e.g. a dimension, a physical condition such as temperature, a quality such as density or colour, which, in respect of a particular entity, e.g. an object, a quantity of a substance, a beam of light, and at a particular instant, is capable of being measured; the variable may change, so that its numerical expression may assume different values at different times, in different conditions or in individual cases, but may be constant in respect of a particular entity in certain conditions or for practical purposes, e.g. the length of a bar may be regarded as constant for many purposes.</li></ul></li><li>Attention is drawn to the definitions of terms or expressions used. Some appear in the notes of several of the classes in this section, see in particular the definition of \"measuring\" in class <b>G01</b>. Others appear in paragraph 187 of the Guide to the IPC, see in particular the definitions of \"control\" and \"regulation\".</li><li>Classification in this section may present more difficulty than in other sections, because the distinction between different fields of use rests to a considerable extent on differences in the intention of the user rather than on any constructional differences or differences in the manner of use, and because the subjects dealt with are often in effect systems or combinations, which have features or parts in common, rather than \"things\", which are readily distinguishable as a whole. For example, information, e.g. a set of figures, may be displayed for the purpose of education or advertising covered by class <b>G09</b>, for enabling the result of a measurement to be known covered by class <b>G01</b>, for signalling the information to a distant point or for giving information which has been signalled from a distant point covered by class <b>G08</b>. The words used to describe the purpose depend on features that may be irrelevant to the form of the apparatus concerned, for example, such features as the desired effect on the person who sees the display, or whether the display is controlled from a remote point. Again, a device which responds to some change in a condition, e.g. in the pressure of a fluid, may be used, without modification of the device itself, to give information about the pressure covered by subclass <b>G01L</b> or about some other condition linked to the pressure covered by another subclass of class <b>G01</b>, e.g. <b>G01K</b> for temperature, to make a record of the pressure or of its occurrence covered by subclass <b>G07C</b>, to give an alarm covered by subclass <b>G08B</b>, or to control another apparatus covered by class <b>G05</b>. <ul><li>The classification scheme is intended to enable things of a similar nature, as indicated above, to be classified together. It is therefore particularly necessary for the real nature of any technical subject to be decided before it can be properly classified.</li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G05G1/00": {
+      "code": "G05G1/00",
+      "level": 0,
+      "parent": "G05G",
+      "ja": "制御部材，例．ノブまたはハンドル；その組立体または配列；制御部材の位置の指示（ジョイスティック　Ｇ０５Ｇ９／０４，自動車のステアリングホイール　Ｂ６２Ｄ）<br><br><b><ul>注</ul></b><br>このグループでは，ファーストプレイス優先ルールが適用される。即ち，各階層レベルにおいて，相反する指示がない限り最初の適切な箇所に分類する。［２００８．０４］",
+      "en": "Controlling members, e.g. knobs or handles; Assemblies or arrangements thereof; Indicating position of controlling members(joysticks <b>G05G9/04</b>; steering wheels for motor vehicles <b>B62D</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>In this group, the first place priority rule is applied, i.e. at each hierarchical level, in the absence of an indication to the contrary, classification is made in the first appropriate place.  </li></ul>",
+      "count": 9257,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G1/01": {
+      "code": "G05G1/01",
+      "level": 1,
+      "parent": "G05G1/00",
+      "ja": "互いに関連する複数の制御部材の配列（二本の足で操作するもの，例．教習車用　Ｇ０５Ｇ１／３４；二又はそれ以上のペダルの集合体からなる取付ユニット　Ｇ０５Ｇ１／３６）［２００８．０４］",
+      "en": "Arrangements of two or more controlling members with respect to one another(double foot control, e.g. for instruction vehicles <b>G05G1/34</b>; mounting units comprising an assembly with two or more pedals <b>G05G1/36</b>)",
+      "count": 1750,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G1/015": {
+      "code": "G05G1/015",
+      "level": 1,
+      "parent": "G05G1/00",
+      "ja": "制御部材の位置を指示するための装置（連続的にペダル位置を検出する手段　Ｇ０５Ｇ１／３８；感覚によって認識させる手段　Ｇ０５Ｇ５／０３）［２００８．０４］",
+      "en": "Arrangements for indicating the position of a controlling member(means for continuously detecting pedal position <b>G05G1/38</b>; means for detecting position through tactile feedback <b>G05G5/03</b>)",
+      "count": 842,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G1/02": {
+      "code": "G05G1/02",
+      "level": 1,
+      "parent": "G05G1/00",
+      "ja": "手で直線的な動きをして作動させる制御部材，例．押しボタン［１，７］",
+      "en": "Controlling members for hand-actuation by linear movement, e.g. push buttons",
+      "count": 3860,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G1/04": {
+      "code": "G05G1/04",
+      "level": 1,
+      "parent": "G05G1/00",
+      "ja": "手で軸を中心に旋回する動きをして作動させる制御部材，例．レバー［１，７］",
+      "en": "Controlling members for hand-actuation by pivoting movement, e.g. levers",
+      "count": 6933,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G1/06": {
+      "code": "G05G1/06",
+      "level": 2,
+      "parent": "G05G1/04",
+      "ja": "握り部分の細部［１，７］",
+      "en": "Details of their grip parts",
+      "count": 1358,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G1/08": {
+      "code": "G05G1/08",
+      "level": 1,
+      "parent": "G05G1/00",
+      "ja": "手で回転運動をして作動させる制御部材，例．手動輪［１，７］",
+      "en": "Controlling members for hand-actuation by rotary movement, e.g. hand wheels",
+      "count": 4556,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G1/10": {
+      "code": "G05G1/10",
+      "level": 2,
+      "parent": "G05G1/08",
+      "ja": "細部，例．円盤，ノブ，車輪，またはハンドルの",
+      "en": "Details, e.g. of discs, knobs, wheels or handles",
+      "count": 5043,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G1/12": {
+      "code": "G05G1/12",
+      "level": 3,
+      "parent": "G05G1/10",
+      "ja": "回転スピンドルまたは類似のものに部材を固着する手段",
+      "en": "Means for securing the members on rotatable spindles or the like",
+      "count": 2068,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G1/30": {
+      "code": "G05G1/30",
+      "level": 1,
+      "parent": "G05G1/00",
+      "ja": "足踏み制御部材［２００８．０４］",
+      "en": "Controlling members actuated by foot",
+      "count": 4873,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G1/32": {
+      "code": "G05G1/32",
+      "level": 2,
+      "parent": "G05G1/30",
+      "ja": "負傷防止手段を持つもの［２００８．０４］",
+      "en": "with means to prevent injury",
+      "count": 542,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G1/323": {
+      "code": "G05G1/323",
+      "level": 3,
+      "parent": "G05G1/32",
+      "ja": "ペダルと被制御部材との間の連結が外れるもの，例．コネクティングロッドが破壊するもの又は曲がるもの［２００８．０４］",
+      "en": "means disconnecting the connection between pedal and controlled member, e.g. by breaking or bending the connecting rod",
+      "count": 91,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G1/327": {
+      "code": "G05G1/327",
+      "level": 3,
+      "parent": "G05G1/32",
+      "ja": "ペダルが枢軸又は支持部材から外れるもの，例．ペダルを枢軸から外すために支持部材が破壊するもの又は曲がるもの［２００８．０４］",
+      "en": "means disconnecting the pedal from its hinge or support, e.g. by breaking or bending the support",
+      "count": 237,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G1/34": {
+      "code": "G05G1/34",
+      "level": 2,
+      "parent": "G05G1/30",
+      "ja": "二本の足で操作するもの，例．教習車用［２００８．０４］",
+      "en": "Double foot controls, e.g. for instruction vehicles",
+      "count": 212,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G1/36": {
+      "code": "G05G1/36",
+      "level": 2,
+      "parent": "G05G1/30",
+      "ja": "二又はそれ以上のペダルの集合体からなる取付ユニット，例．取付容易性のため［２００８．０４］",
+      "en": "Mounting units comprising an assembly of two or more pedals, e.g. for facilitating mounting",
+      "count": 409,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G1/38": {
+      "code": "G05G1/38",
+      "level": 2,
+      "parent": "G05G1/30",
+      "ja": "連続的にペダル位置を検出する手段［２００８．０４］",
+      "en": "comprising means to continuously detect pedal position",
+      "count": 835,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G1/40": {
+      "code": "G05G1/40",
+      "level": 2,
+      "parent": "G05G1/30",
+      "ja": "ペダルの位置調整［２００８．０４］",
+      "en": "adjustable",
+      "count": 742,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G1/405": {
+      "code": "G05G1/405",
+      "level": 3,
+      "parent": "G05G1/40",
+      "ja": "無段階に調整可能なもの［２００８．０４］",
+      "en": "infinitely adjustable",
+      "count": 487,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G1/42": {
+      "code": "G05G1/42",
+      "level": 2,
+      "parent": "G05G1/30",
+      "ja": "枢軸でないもの，例．スライドするもの［２００８．０４］",
+      "en": "non-pivoting, e.g. sliding",
+      "count": 142,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G1/44": {
+      "code": "G05G1/44",
+      "level": 2,
+      "parent": "G05G1/30",
+      "ja": "枢軸を有するもの［２００８．０４］",
+      "en": "pivoting",
+      "count": 1503,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G1/445": {
+      "code": "G05G1/445",
+      "level": 3,
+      "parent": "G05G1/44",
+      "ja": "中央で揺動するもの［２００８．０４］",
+      "en": "about a central fulcrum",
+      "count": 290,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G1/46": {
+      "code": "G05G1/46",
+      "level": 2,
+      "parent": "G05G1/30",
+      "ja": "ペダルと被制御部材とを連結する手段，例．リンク［２００８．０４］",
+      "en": "Means, e.g. links, for connecting the pedal to the controlled unit",
+      "count": 1201,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G1/48": {
+      "code": "G05G1/48",
+      "level": 2,
+      "parent": "G05G1/30",
+      "ja": "そのための滑止め面；ペダル延長体または類似の装着物［２００８．０４］",
+      "en": "Non-slip pedal treads; Pedal extensions or attachments characterised by mechanical features only",
+      "count": 366,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G1/483": {
+      "code": "G05G1/483",
+      "level": 3,
+      "parent": "G05G1/48",
+      "ja": "滑止め面［２００８．０４］",
+      "en": "Non-slip treads",
+      "count": 396,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G1/487": {
+      "code": "G05G1/487",
+      "level": 3,
+      "parent": "G05G1/48",
+      "ja": "ペダル延長体［２００８．０４］",
+      "en": "Pedal extensions",
+      "count": 339,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G1/50": {
+      "code": "G05G1/50",
+      "level": 2,
+      "parent": "G05G1/30",
+      "ja": "ペダルの製造；ペダルの材料に特徴のあるもの［２００８．０４］",
+      "en": "Manufacturing of pedals; Pedals characterised by the material used",
+      "count": 848,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G1/52": {
+      "code": "G05G1/52",
+      "level": 1,
+      "parent": "G05G1/00",
+      "ja": "手，足以外の人体部分により作動されるように特に適合された制御部材［２００８．０４］",
+      "en": "Controlling members specially adapted for actuation by other parts of the human body than hand or foot",
+      "count": 96,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G1/54": {
+      "code": "G05G1/54",
+      "level": 1,
+      "parent": "G05G1/00",
+      "ja": "補助操作部材または延長体により作動するように特に適合された制御部材；そのための操作部材または延長体（ペダル延長体　Ｇ０５Ｇ１／４８７）［２００８．０４］",
+      "en": "Controlling members specially adapted for actuation by auxiliary operating members or extensions; Operating members or extensions therefor(pedal extensions <b>G05G1/487</b>)",
+      "count": 325,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G1/56": {
+      "code": "G05G1/56",
+      "level": 2,
+      "parent": "G05G1/54",
+      "ja": "鍵，ねじ回しまたは同様の道具により作動するように特に適合された制御部材［２００８．０４］",
+      "en": "Controlling members specially adapted for actuation by keys, screwdrivers or like tools",
+      "count": 136,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G1/58": {
+      "code": "G05G1/58",
+      "level": 1,
+      "parent": "G05G1/00",
+      "ja": "操作者の体の関連個所用のレストまたは案内［２００８．０４］",
+      "en": "Rests or guides for relevant parts of the operator's body",
+      "count": 144,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G1/60": {
+      "code": "G05G1/60",
+      "level": 2,
+      "parent": "G05G1/58",
+      "ja": "足置きまたは足案内［２００８．０４］",
+      "en": "Foot rests or foot guides",
+      "count": 438,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G1/62": {
+      "code": "G05G1/62",
+      "level": 2,
+      "parent": "G05G1/58",
+      "ja": "アームレスト［２００８．０４］",
+      "en": "Arm rests",
+      "count": 211,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G3/00": {
+      "code": "G05G3/00",
+      "level": 0,
+      "parent": "G05G",
+      "ja": "被制御部材（歯車シフターヨークＦ１６Ｈ６３／３２）；その組立体または配列（被制御部材の鎖錠Ｇ０５Ｇ５／０８）［１，７］",
+      "en": "Controlled members(gear shifter yokes <b>F16H63/32</b>);Assemblies or arrangements thereof(interlocking of controlled members <b>G05G5/08</b>)",
+      "count": 485,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G5/00": {
+      "code": "G05G5/00",
+      "level": 0,
+      "parent": "G05G",
+      "ja": "制御機構の一部の移動を防止しまたは制御する手段，例．制御部材の係止（Ｇ０５Ｇ１７／００が優先）［２００６．０１］",
+      "en": "Means for preventing, limiting or returning the movements of parts of a control mechanism, e.g. locking controlling member(<b>G05G17/00</b> takes precedence)",
+      "count": 2354,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G5/02": {
+      "code": "G05G5/02",
+      "level": 1,
+      "parent": "G05G5/00",
+      "ja": "二つ以上の別個の段階または径路を動き得る制御部材の望ましくない運動を防止する手段，例．あるステップ運動またはある特殊な順序の運動を行うように拘束するもの（Ｇ０５Ｇ５／２８が優先）［２００６．０１］",
+      "en": "Means preventing undesired movements of a controlling member which can be moved in two or more separate steps or ways, e.g. restricting to a stepwise movement or to a particular sequence of movements(<b>G05G5/28</b> takes precedence)",
+      "count": 1294,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G5/03": {
+      "code": "G05G5/03",
+      "level": 1,
+      "parent": "G05G5/00",
+      "ja": "指令位置または基準位置への制御部材の到達を操作者が認識するのを高める手段；操作感覚を与えるもの，例．操作反力を発生させる手段（制御部材の位置を指示する装置Ｇ０５Ｇ１／０１５）［５，２００８．０４］",
+      "en": "Means for enhancing the operator's awareness of the arrival of the controlling member at a command or datum position; Providing feel, e.g. means for creating a counterforce(arrangements for indicating the position of the controlling member <b>G05G1/015</b>)",
+      "count": 3832,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G5/04": {
+      "code": "G05G5/04",
+      "level": 1,
+      "parent": "G05G5/00",
+      "ja": "部材の運動を制限する停止装置，例．可調整停止装置（Ｇ０５Ｇ５／０３，Ｇ０５Ｇ５／０５，Ｇ０５Ｇ５／２８が優先）［５］",
+      "en": "Stops for limiting movement of members, e.g. adjustable stop(<b>G05G5/03</b>, <b>G05G5/05</b>, <b>G05G5/28</b> take precedence)",
+      "count": 1875,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G5/05": {
+      "code": "G05G5/05",
+      "level": 1,
+      "parent": "G05G5/00",
+      "ja": "制御部材を非操作位置または中立位置へ復帰させるまたは復帰させる傾向を与える手段，例．リターンスプリングまたは弾性停止端を備えるもの（Ｇ０５Ｇ５／２８が優先）［５］",
+      "en": "Means for returning or tending to return controlling members to an inoperative or neutral position, e.g. by providing return springs or resilient end-stops(<b>G05G5/28</b> takes precedence)",
+      "count": 1314,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G5/06": {
+      "code": "G05G5/06",
+      "level": 1,
+      "parent": "G05G5/00",
+      "ja": "一つまたは有限数の所定位置にのみ部材を保持するためのもの（Ｇ０５Ｇ５／０３，Ｇ０５Ｇ５／０５，Ｇ０５Ｇ５／２８が優先）［５］",
+      "en": "for holding members in one or a limited number of definite positions only(<b>G05G5/03</b>, <b>G05G5/05</b>, <b>G05G5/28</b> take precedence)",
+      "count": 3862,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G5/08": {
+      "code": "G05G5/08",
+      "level": 2,
+      "parent": "G05G5/06",
+      "ja": "部材のインターロック，例．他の部材の運動前または運動中ある部材を特定位置に係止するもの",
+      "en": "Interlocking of members, e.g. locking a member in a particular position before or during the movement of another member",
+      "count": 816,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G5/12": {
+      "code": "G05G5/12",
+      "level": 1,
+      "parent": "G05G5/00",
+      "ja": "不確定数の位置に部材を保持するためのもの，例．歯付き四分円によるもの（Ｇ０５Ｇ５／２８が優先）［５］",
+      "en": "for holding members in an indefinite number of positions, e.g. by a toothed quadrant(<b>G05G5/28</b> takes precedence)",
+      "count": 692,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G5/14": {
+      "code": "G05G5/14",
+      "level": 2,
+      "parent": "G05G5/12",
+      "ja": "固定した四分円，桿または類似のものに関し部材を係止することによるもの",
+      "en": "by locking a member with respect to a fixed quadrant, rod, or the like",
+      "count": 43,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G5/16": {
+      "code": "G05G5/16",
+      "level": 3,
+      "parent": "G05G5/14",
+      "ja": "摩擦によるもの",
+      "en": "by friction",
+      "count": 292,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G5/18": {
+      "code": "G05G5/18",
+      "level": 3,
+      "parent": "G05G5/14",
+      "ja": "積極的噛合いによるもの，例．歯止めによるもの",
+      "en": "by positive interengagement, e.g. by a pawl",
+      "count": 737,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G5/20": {
+      "code": "G05G5/20",
+      "level": 2,
+      "parent": "G05G5/12",
+      "ja": "部材により担持される四分円，桿または類似のものを係止することによるもの",
+      "en": "by locking a quadrant, rod, or the like carried by the member",
+      "count": 15,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G5/22": {
+      "code": "G05G5/22",
+      "level": 3,
+      "parent": "G05G5/20",
+      "ja": "摩擦によるもの",
+      "en": "by friction",
+      "count": 148,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G5/24": {
+      "code": "G05G5/24",
+      "level": 3,
+      "parent": "G05G5/20",
+      "ja": "積極的噛合いによるもの，例．歯止めによるもの",
+      "en": "by positive interengagement, e.g. by a pawl",
+      "count": 509,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G5/26": {
+      "code": "G05G5/26",
+      "level": 2,
+      "parent": "G05G5/12",
+      "ja": "四分円，桿または類似のもの以外の手段によるもの",
+      "en": "by other means than a quadrant, rod, or the like",
+      "count": 119,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G5/28": {
+      "code": "G05G5/28",
+      "level": 1,
+      "parent": "G05G5/00",
+      "ja": "制御部材への許可されない接近または指令位置へのその動きを防止するためのもの［５］",
+      "en": "for preventing unauthorised access to the controlling member or its movement to a command position",
+      "count": 223,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G7/00": {
+      "code": "G05G7/00",
+      "level": 0,
+      "parent": "G05G",
+      "ja": "一つの被制御部材と共働する一つの制御部材を備えた手動制御機構；その細部（制御部材Ｇ０５Ｇ１／００）",
+      "en": "Manually-actuated control mechanisms provided with one single controlling member co-operating with one single controlled member; Details thereof(controlling members <b>G05G1/00</b>)",
+      "count": 1426,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G7/02": {
+      "code": "G05G7/02",
+      "level": 1,
+      "parent": "G05G7/00",
+      "ja": "伝達動作または変換動作のためのまたは遠隔的に作用するための特殊な手段に特徴のあるもの",
+      "en": "characterised by special provisions for conveying or converting motion, or for acting at a distance",
+      "count": 921,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G7/04": {
+      "code": "G05G7/04",
+      "level": 2,
+      "parent": "G05G7/02",
+      "ja": "制御部材と被制御部材間の動作または力の比を制御部材の位置の関数として変更するもの",
+      "en": "altering the ratio of motion or force between controlling member and controlled member as a function of the position of the controlling member",
+      "count": 1268,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G7/06": {
+      "code": "G05G7/06",
+      "level": 2,
+      "parent": "G05G7/02",
+      "ja": "制御部材の繰返し運動によって被制御部材の運動を増大させるもの（Ｇ０５Ｇ７／０８が優先）",
+      "en": "in which repeated movement of the controlling member produces increments of movement of the controlled member(<b>G05G7/08</b> takes precedence)",
+      "count": 87,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G7/08": {
+      "code": "G05G7/08",
+      "level": 2,
+      "parent": "G05G7/02",
+      "ja": "制御部材の繰返し運動によって被制御部材を定位置間に循環運動させるもの",
+      "en": "in which repeated movement of the controlling member moves the controlled member through a cycle of distinct positions",
+      "count": 156,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G7/10": {
+      "code": "G05G7/10",
+      "level": 2,
+      "parent": "G05G7/02",
+      "ja": "遠隔制御に特に適合されたもの（Ｇ０５Ｇ７／０４～Ｇ０５Ｇ７／０８までが優先）",
+      "en": "specially adapted for remote control(<b>G05G7/04 to G05G7/08</b>  take precedence)",
+      "count": 1335,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G7/12": {
+      "code": "G05G7/12",
+      "level": 1,
+      "parent": "G05G7/00",
+      "ja": "部材が一つの系において制御部材に関連した動作をするように特に適合されたもの，例．回転軸に適合されたもの",
+      "en": "specially adapted for actuating a member on a system in motion with respect to the controlling member, e.g. on a rotating shaft",
+      "count": 248,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G7/14": {
+      "code": "G05G7/14",
+      "level": 1,
+      "parent": "G05G7/00",
+      "ja": "制御部材から与えられた入力に応じた被制御部材の運動の開始を遅らせる手段，またはその被制御部材の運動の間それを漸進的に行う手段によって特徴づけられるもの，例．指令系においてロストモーションを備えたもの",
+      "en": "characterised by means for delaying initiation of, or making more gradual throughout, the movement of the controlled member in response to a given input from the controlling member, e.g. by providing lost motion in the command train",
+      "count": 222,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G7/16": {
+      "code": "G05G7/16",
+      "level": 1,
+      "parent": "G05G7/00",
+      "ja": "機構の支持体間の僅少相対運動の影響を減少させるための独特な手段，例．被制御機構の弾性装架によるもの［２００６．０１］",
+      "en": "Special provisions for reducing the effect of slight relative movement between supports of the mechanism, e.g. resulting from resilient mounting of a controlled mechanism",
+      "count": 180,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G9/00": {
+      "code": "G05G9/00",
+      "level": 0,
+      "parent": "G05G",
+      "ja": "二つ以上の被制御部材と共働する一つの制御部材を備えた手動制御機構，例．選択的に共働するもの，同時に共働するもの",
+      "en": "Manually-actuated control mechanisms provided with one single controlling member co-operating with two or more controlled members, e.g. selectively, simultaneously",
+      "count": 1664,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G9/02": {
+      "code": "G05G9/02",
+      "level": 1,
+      "parent": "G05G9/00",
+      "ja": "制御部材が異なる独立した径路を動くことができ，各独立した径路内の運動は一つの被制御部材のみを作動させるもの",
+      "en": "the controlling member being movable in different independent ways, movement in each individual way actuating one controlled member only",
+      "count": 523,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G9/04": {
+      "code": "G05G9/04",
+      "level": 2,
+      "parent": "G05G9/02",
+      "ja": "二つ以上の径路の運動が同時に起ることができるもの",
+      "en": "in which movement in two or more ways can occur simultaneously",
+      "count": 551,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G9/047": {
+      "code": "G05G9/047",
+      "level": 3,
+      "parent": "G05G9/04",
+      "ja": "制御部材が直交する複数の軸まわりに手動により可動なもの，例．ジョイスティック［５］",
+      "en": "the controlling member being movable by hand about orthogonal axes, e.g. joysticks",
+      "count": 4239,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G9/053": {
+      "code": "G05G9/053",
+      "level": 4,
+      "parent": "G05G9/047",
+      "ja": "制御部材がボールからなるもの［５］",
+      "en": "the controlling member comprising a ball",
+      "count": 198,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G9/06": {
+      "code": "G05G9/06",
+      "level": 1,
+      "parent": "G05G9/00",
+      "ja": "被制御部材が制御部材の繰返し運動によって継続的に作動されるもの",
+      "en": "the controlled members being actuated successively by repeated movement of the controlling member",
+      "count": 52,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G9/08": {
+      "code": "G05G9/08",
+      "level": 1,
+      "parent": "G05G9/00",
+      "ja": "被制御部材が制御部材の前進運動により継続的に作動されるもの",
+      "en": "the controlled members being actuated successively by progressive movement of the controlling member",
+      "count": 448,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G9/10": {
+      "code": "G05G9/10",
+      "level": 1,
+      "parent": "G05G9/00",
+      "ja": "制御部材が二つの異なった径路を運動することにより各被制御部材は予選され次いで運動するもの，例．シフトゲートにより案内されるもの",
+      "en": "with preselection and subsequent movement of each controlled member by movement of the controlling member in two different ways, e.g. guided by a shift gate",
+      "count": 273,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G11/00": {
+      "code": "G05G11/00",
+      "level": 0,
+      "parent": "G05G",
+      "ja": "一つの被制御部材と共働する二つ以上の制御部材を備えた手動制御機構",
+      "en": "Manually-actuated control mechanisms provided with two or more controlling members co-operating with one single controlled member",
+      "count": 1271,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G13/00": {
+      "code": "G05G13/00",
+      "level": 0,
+      "parent": "G05G",
+      "ja": "二つ以上の制御部材と二つ以上の被制御部材とを備えた手動制御機構（インターロックＧ０５Ｇ５／０８）",
+      "en": "Manually-actuated control mechanisms provided with two or more controlling members and also two or more controlled members(interlocking <b>G05G5/08</b>)",
+      "count": 1154,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G13/02": {
+      "code": "G05G13/02",
+      "level": 1,
+      "parent": "G05G13/00",
+      "ja": "被制御部材の予選と移動とのために別個の制御部材を備えているもの",
+      "en": "with separate controlling members for preselection and shifting of controlled members",
+      "count": 72,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G15/00": {
+      "code": "G05G15/00",
+      "level": 0,
+      "parent": "G05G",
+      "ja": "特定の原因に基づいて自動的に始動させるための機械的装置",
+      "en": "Mechanical devices for initiating a movement automatically due to a specific cause",
+      "count": 592,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G15/02": {
+      "code": "G05G15/02",
+      "level": 1,
+      "parent": "G05G15/00",
+      "ja": "部材の運動方向の変更に起因するもの",
+      "en": "due to alteration of the sense of movement of a member",
+      "count": 65,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G15/04": {
+      "code": "G05G15/04",
+      "level": 1,
+      "parent": "G05G15/00",
+      "ja": "部材の通る距離または角度に起因するもの",
+      "en": "due to distance or angle travelled by a member",
+      "count": 292,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G15/06": {
+      "code": "G05G15/06",
+      "level": 1,
+      "parent": "G05G15/00",
+      "ja": "部材の回転速度または運動速度に起因するもの，例．上限または下限の通過（速度計Ｇ０１Ｐ）",
+      "en": "due to the speed of rotation or of bodily movement of a member, e.g. passing an upper or lower limit thereof(speedometers <b>G01P</b>)",
+      "count": 113,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G15/08": {
+      "code": "G05G15/08",
+      "level": 1,
+      "parent": "G05G15/00",
+      "ja": "部材にかかる負荷またはトルクに起因するもの，例．予定値の超過",
+      "en": "due to the load or torque on a member, e.g. if exceeding a predetermined value thereof",
+      "count": 367,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G17/00": {
+      "code": "G05G17/00",
+      "level": 0,
+      "parent": "G05G",
+      "ja": "釈放されたのちに部材を運動させるための機械的装置；この点によって特徴づけられたトリップまたは釈放機構",
+      "en": "Mechanical devices for moving a member after being released; Trip or release mechanisms characterised thereby",
+      "count": 345,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G19/00": {
+      "code": "G05G19/00",
+      "level": 0,
+      "parent": "G05G",
+      "ja": "追従動作をもつサーボ機構，例．ステップ状に起るもの",
+      "en": "Servo-mechanisms with follow-up action, e.g. occurring in steps",
+      "count": 481,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G21/00": {
+      "code": "G05G21/00",
+      "level": 0,
+      "parent": "G05G",
+      "ja": "一連の操作を制御する機械的装置，すなわちプログラム制御，例．一組のカムを含むもの（Ｇ０５Ｇ５／０２が優先）［２００６．０１］",
+      "en": "Mechanical apparatus for control of a series of operations, i.e. program control, e.g. involving a set of cams(<b>G05G5/02</b> takes precedence)",
+      "count": 763,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G23/00": {
+      "code": "G05G23/00",
+      "level": 0,
+      "parent": "G05G",
+      "ja": "制御機構の一部分の正確な位置決めを保証する手段，例．運動を開始するための",
+      "en": "Means for ensuring the correct positioning of parts of control mechanisms, e.g. for taking-up play",
+      "count": 429,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G23/02": {
+      "code": "G05G23/02",
+      "level": 1,
+      "parent": "G05G23/00",
+      "ja": "自己調整",
+      "en": "self-adjusting",
+      "count": 85,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G25/00": {
+      "code": "G05G25/00",
+      "level": 0,
+      "parent": "G05G",
+      "ja": "制御機構のその他の細部，特徴または付属物，例．中間部材の弾性支持",
+      "en": "Other details, features or accessories of control mechanisms, e.g. supporting intermediate members elastically",
+      "count": 1775,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G25/02": {
+      "code": "G05G25/02",
+      "level": 1,
+      "parent": "G05G25/00",
+      "ja": "騒音の発生または伝播を抑制するもの［５］",
+      "en": "Inhibiting the generation or transmission of noise",
+      "count": 151,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    },
+    "G05G25/04": {
+      "code": "G05G25/04",
+      "level": 1,
+      "parent": "G05G25/00",
+      "ja": "ほこりの侵入，風雨または同様のものに対する密封［５］",
+      "en": "Sealing against entry of dust, weather or the like",
+      "count": 835,
+      "sourceFile": "ipc_G05G.txt",
+      "kind": "ipc"
+    }
+  }
+}

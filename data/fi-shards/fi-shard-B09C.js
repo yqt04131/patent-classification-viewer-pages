@@ -1,0 +1,97 @@
+window.FI_SHARD_B09C = {
+  "generatedAt": "2026-03-20T02:17:49.668Z",
+  "total": 7,
+  "entries": {
+    "B09C": {
+      "code": "B09C",
+      "level": 0,
+      "parent": null,
+      "ja": "",
+      "en": "",
+      "count": 0,
+      "ipcCode": "",
+      "fTerm": "RECLAMATION OF CONTAMINATED SOIL (gatherers for removing stones or the like from the soil <b>A01B 43/00</b>;   sterilising soil by steam <b>A01G 11/00</b>;     removing undesirable matter, e.g. rubbish, from the land <b>E01H 15/00</b>)<b>[6]</b><br><br><b><u>Note(s)</u></b><br><br><ul type=\"\"1\"\"><li>In this subclass, the following term is used with the meaning indicated:<b>[6]</b><ul type=\"\"disc\"\"><li>&quot;reclamation&quot; means the partial or total elimination or the fixing of contaminants in soil.</li></ul></li></ul>",
+      "childFlag": 0,
+      "sourceFile": "fi_B.txt",
+      "kind": "fi"
+    },
+    "B09C1/00\\": {
+      "code": "B09C1/00\\",
+      "level": 0,
+      "parent": null,
+      "ja": "汚染土壌の再生［２００６．０１］",
+      "en": "Reclamation of contaminated soil",
+      "count": 1779,
+      "ipcCode": "B09C1/00",
+      "fTerm": "4D004",
+      "childFlag": 0,
+      "sourceFile": "fi_B09C.txt",
+      "kind": "fi"
+    },
+    "B09C1/02\\": {
+      "code": "B09C1/02\\",
+      "level": 1,
+      "parent": "B09C1/00\\",
+      "ja": "液体を使った抽出，例．洗浄，溶脱［６］",
+      "en": "Extraction using liquids, e.g. washing, leaching [6]",
+      "count": 1069,
+      "ipcCode": "B09C1/02",
+      "fTerm": "4D004",
+      "childFlag": 1,
+      "sourceFile": "fi_B09C.txt",
+      "kind": "fi"
+    },
+    "B09C1/04\\": {
+      "code": "B09C1/04\\",
+      "level": 1,
+      "parent": "B09C1/00\\",
+      "ja": "浮遊選別［６］",
+      "en": "Flotation [6]",
+      "count": 118,
+      "ipcCode": "B09C1/04",
+      "fTerm": "4D004",
+      "childFlag": 1,
+      "sourceFile": "fi_B09C.txt",
+      "kind": "fi"
+    },
+    "B09C1/06\\": {
+      "code": "B09C1/06\\",
+      "level": 1,
+      "parent": "B09C1/00\\",
+      "ja": "熱によるもの［２００６．０１］",
+      "en": "thermally",
+      "count": 715,
+      "ipcCode": "B09C1/06",
+      "fTerm": "4D004",
+      "childFlag": 1,
+      "sourceFile": "fi_B09C.txt",
+      "kind": "fi"
+    },
+    "B09C1/08\\": {
+      "code": "B09C1/08\\",
+      "level": 1,
+      "parent": "B09C1/00\\",
+      "ja": "化学的手段を用いるもの［６］",
+      "en": "chemically [6]",
+      "count": 2924,
+      "ipcCode": "B09C1/08",
+      "fTerm": "4D004",
+      "childFlag": 1,
+      "sourceFile": "fi_B09C.txt",
+      "kind": "fi"
+    },
+    "B09C1/10\\": {
+      "code": "B09C1/10\\",
+      "level": 1,
+      "parent": "B09C1/00\\",
+      "ja": "微生物学的な手段あるいは酵素を利用するもの［６］",
+      "en": "microbiologically or by using enzymes [6]",
+      "count": 1542,
+      "ipcCode": "B09C1/10",
+      "fTerm": "4D004",
+      "childFlag": 1,
+      "sourceFile": "fi_B09C.txt",
+      "kind": "fi"
+    }
+  }
+};

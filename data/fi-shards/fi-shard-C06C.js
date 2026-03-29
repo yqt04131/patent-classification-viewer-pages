@@ -1,0 +1,123 @@
+window.FI_SHARD_C06C = {
+  "generatedAt": "2026-03-20T02:17:50.345Z",
+  "total": 9,
+  "entries": {
+    "C06C": {
+      "code": "C06C",
+      "level": 0,
+      "parent": null,
+      "ja": "",
+      "en": "",
+      "count": 0,
+      "ipcCode": "",
+      "fTerm": "DETONATING OR PRIMING DEVICES; FUSES; CHEMICAL LIGHTERS; PYROPHORIC COMPOSITIONS<b>[2]</b>",
+      "childFlag": 0,
+      "sourceFile": "fi_C.txt",
+      "kind": "fi"
+    },
+    "C06C5/00\\": {
+      "code": "C06C5/00\\",
+      "level": 0,
+      "parent": null,
+      "ja": "導火線",
+      "en": "Fuses, e.g. fuse cords",
+      "count": 165,
+      "ipcCode": "C06C5/00",
+      "fTerm": "4H100",
+      "childFlag": 0,
+      "sourceFile": "fi_C06C.txt",
+      "kind": "fi"
+    },
+    "C06C5/04\\": {
+      "code": "C06C5/04\\",
+      "level": 1,
+      "parent": "C06C5/00\\",
+      "ja": "導爆線",
+      "en": "Detonating fuses",
+      "count": 60,
+      "ipcCode": "C06C5/04",
+      "fTerm": "4H100",
+      "childFlag": 1,
+      "sourceFile": "fi_C06C.txt",
+      "kind": "fi"
+    },
+    "C06C5/06\\": {
+      "code": "C06C5/06\\",
+      "level": 1,
+      "parent": "C06C5/00\\",
+      "ja": "導火線点火具；導火線接続管",
+      "en": "Fuse igniting means; Fuse connectors",
+      "count": 42,
+      "ipcCode": "C06C5/06",
+      "fTerm": "4H100",
+      "childFlag": 1,
+      "sourceFile": "fi_C06C.txt",
+      "kind": "fi"
+    },
+    "C06C5/08\\": {
+      "code": "C06C5/08\\",
+      "level": 1,
+      "parent": "C06C5/00\\",
+      "ja": "導火線製造装置",
+      "en": "Devices for the manufacture of fuses",
+      "count": 3,
+      "ipcCode": "C06C5/08",
+      "fTerm": "4H100",
+      "childFlag": 1,
+      "sourceFile": "fi_C06C.txt",
+      "kind": "fi"
+    },
+    "C06C7/00\\": {
+      "code": "C06C7/00\\",
+      "level": 0,
+      "parent": null,
+      "ja": "非電気的雷管；工業雷管；点火具",
+      "en": "Non-electric detonators; Blasting caps; Primers",
+      "count": 507,
+      "ipcCode": "C06C7/00",
+      "fTerm": "4H100",
+      "childFlag": 0,
+      "sourceFile": "fi_C06C.txt",
+      "kind": "fi"
+    },
+    "C06C7/02\\": {
+      "code": "C06C7/02\\",
+      "level": 1,
+      "parent": "C06C7/00\\",
+      "ja": "製造；包装",
+      "en": "Manufacture; Packing",
+      "count": 14,
+      "ipcCode": "C06C7/02",
+      "fTerm": "4H100",
+      "childFlag": 1,
+      "sourceFile": "fi_C06C.txt",
+      "kind": "fi"
+    },
+    "C06C9/00\\": {
+      "code": "C06C9/00\\",
+      "level": 0,
+      "parent": null,
+      "ja": "化学的接触点火具；化学的点火具",
+      "en": "Chemical contact igniters; Chemical lighters",
+      "count": 198,
+      "ipcCode": "C06C9/00",
+      "fTerm": "4H100",
+      "childFlag": 0,
+      "sourceFile": "fi_C06C.txt",
+      "kind": "fi"
+    },
+    "C06C15/00\\": {
+      "code": "C06C15/00\\",
+      "level": 0,
+      "parent": null,
+      "ja": "自然発火剤；火打ち石（化学的点火具Ｃ０６Ｃ９／００）",
+      "en": "Pyrophoric compositions; Flints (chemical lighters C06C 9/00)",
+      "count": 7,
+      "ipcCode": "C06C15/00",
+      "fTerm": "4H100",
+      "childFlag": 0,
+      "sourceFile": "fi_C06C.txt",
+      "kind": "fi"
+    }
+  }
+};

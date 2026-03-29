@@ -1,0 +1,1246 @@
+window.IPC_SHARD_G01J = {
+  "generatedAt": "2026-03-20T02:17:47.012Z",
+  "total": 124,
+  "entries": {
+    "G01J": {
+      "code": "G01J",
+      "level": 0,
+      "parent": "G01",
+      "ja": "赤外線，可視光線または紫外線の強度，速度，スペクトル，偏光，位相またはパルスの測定；色の測定；放射温度測定［２］<br><br><b><ul>注</ul></b><br>（１）このサブクラスは他に分類されない赤外線，可視光線，紫外線の有無の検出を包含する。<br>（２）クラスＧ０１のタイトルに続く注に注意すること。<br><br><b><ul>サブクラス内の索引</ul></b><br>測光；高温計　１／００；５／００<br>分光測定；測定；偏光；速度；位相；パルス　３／００；４／００；７／００；９／００；１１／００",
+      "en": "MEASUREMENT OF INTENSITY, VELOCITY, SPECTRAL CONTENT, POLARISATION, PHASE OR PULSE CHARACTERISTICS OF INFRARED, VISIBLE OR ULTRAVIOLET LIGHT; COLORIMETRY; RADIATION PYROMETRY; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This subclass <u>covers</u> the detection of the presence or absence of infrared, visible, or ultraviolet light, not otherwise provided for.</li><li>Attention is drawn to the Notes following the title of class <b>G01</b>.</li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">PHOTOMETRY; PYROMETRY </td><td><b><b>1/00</b>; <b>5/00</b></b></td></tr></tr><tr><td width=\"70%\">SPECTROMETRY; MEASURING: POLARISATION; VELOCITY; PHASE; PULSES </td><td><b><b>3/00</b>; <b>4/00</b>; <b>7/00</b>; <b>9/00</b>; <b>11/00</b></b></td></tr></tr></table>",
+      "count": 729,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G01": {
+      "code": "G01",
+      "level": 0,
+      "parent": "G",
+      "ja": "測定；試験<br><br><b><ul>注</ul></b><br>（１）このクラスは“真”の測定計器のほかに類似構造の他の指示表示装置又は記録装置を含み，また更に，信号化装置又は制御装置についてはそれが測定に関するものであって（以下の注（２）で定義するように）特定の信号化目的または特定の制御目的に特に適合しないものである限り，含まれる。<br>（２）このクラスにおいては，下記の用語は以下に示す意味で用いる：<br>―“測定”はその第一義的意味又は基本的な意味よりもかなり広い意味を含むものとして用いる。この語の第一義的な意味においては，変量値を単位もしくはデータに関して又は同じ性質の別の変量に関して数値的に表現することを見い出すこと，例えば長さをスケールで測定するなどある長さを別の長さの表現で表わすこと，を意味する。この変量値は直接的に得る（すぐ前で言及したように）こともあり，また，水銀柱の長さの変化を測定することにより温度変化を測定するなど求める変量値に関連づけることのできる他の変量値を測定することよって得ることもある。しかしながら，同じ装置又は計器が，直接的な表示を行う代りに，記録をとったり，指示効果又は制御効果を奏すべく信号を発生するために用いられたり，或いは，他の装置又は計器と組み合わせて同種又は異種の二以上の変量の測定から一つのまとまった結果を得るために用いられることもあるので，“測定”はかかる数値的表現を変量を数値に変換する何らかの手段の付加的使用によって得ることを可能とするような操作をも含むものとして解釈することが必要である。従って，数値での表現は実際的にはデジタル的表現によって行なうこともありスケールを読むことによって行なうこともあり，また，その指示は数値を用いないで，例えば測定されている変量が特性又は状態であるところの実在物（例．物体，物質，光ビーム）について感知し得る何らかの特性（変量）によって又はそのような特性に類似するもの（例．スケールをもたない部材の対応位置，何らかの手段によって発生される対応電圧）によって，与えられることがある。<br>また，上記のような変量値指示が行なわれずに単に基準又はデータ（その値は数値的に既知のこともあり未知のこともある）に関しての異同を示すだけのことも多くある。この基準又はデータは同一性質であるが異なる実在物（例．標準器）の値のこともあり，或いは異なる時点での同一実在物の値であることもある。その最も単純な形態においては，測定は単にある状態又は性質，例えば運動（いずれかの方向又は特定の方向における）の有無を指示するだけのこともあるし，また，変量が既定値を超えるかどうかを指示するだけのこともある。<br>（３）“マイクロ構造の装置”および“マイクロ構造のシステム”に関する，クラスＢ８１およびサブクラスＢ８１Ｂの両タイトルの後の注に注意すること。［７］<br>（４）セクションＧのタイトルに続く注，特に“変量”という用語の定義については注意はすること。<br>（５）多くの測定装置において，測定すべき第一の変量は第二の変量またはさらなる変量に変換される。第二の変量またはさらなる変量は，第一の変量に関係して構成部材に生じた状態，または構成部材の変位であるかもしれない。そして，さらに変換が必要となるかもしれない。［６］<br>このような装置を分類するときは，（ｉ）重要である特定の変換ステップ，または重要である個々の変換ステップを分類するか，または（ｉｉ）全体としてのシステムのみが重要な場合は，第一の変量を該当する箇所に分類する。［６］<br>これは２つ以上の変換が起こる場合に特に重要である。たとえば，第一の変量（例．圧力）が第二の変量（例．感知体の光学的特性）に変換され，さらにその第二の変量が第三の変量（例．電気的効果）で示されるような場合である。このような場合には，次の分類箇所を考慮しなければならない：<br>第一の変量の変換についての分類場所，その変量により生じた状態を感知することについての分類場所，測定を示すＧ０１Ｄ，そして最後に，該当する場合は，システム全体を分類する場所である。［６］<br>（６）物理的特性の値の変化の測定は，その物理的特性の測定と同一のサブクラスに分類する。例えば，長さの伸びの測定はサブクラスＧ０１Ｂに分類する。",
+      "en": "MEASURING; TESTING; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This class <u>covers</u>, in addition to \"true\" measuring instruments, other indicating or recording devices of analogous construction, and also signalling or control devices insofar as they are concerned with measurement (as defined in Note 2 below) and are not specially adapted to the particular purpose of signalling or control.</li><li>In this class, the following term is used with the meaning indicated: <ul><li>\"measuring\" is used to cover considerably more than its primary or basic meaning. In this primary sense, it means finding a numerical expression of the value of a variable in relation to a unit or datum or to another variable of the same nature, e.g. expressing a length in terms of another length as in measuring a length with a scale; the value may be obtained directly (as just suggested) or by measuring some other variable of which the value can be related to the value of the required variable, as in measuring a change in temperature by measuring a resultant change in the length of a column of mercury. However, since the same device or instrument may, instead of giving an immediate indication, be used to produce a record or to initiate a signal to produce an indication or control effect, or may be used in combination with other devices or instruments to give a conjoint result from measurement of two or more variables of the same or different kinds, it is necessary to interpret \"measuring\" as including also any operation that would make it possible to obtain such a numerical expression by the additional use of some way of converting a value into figures. Thus the expression in figures may be actually made by a digital presentation or by reading a scale, or an indication of it may be given without the use of figures, e.g. by some perceptible feature (variable) of the entity (e.g. object, substance, beam of light) of which the variable being measured is a property or condition or by an analogue of such a feature (e.g. the corresponding position of a member without any scale, a corresponding voltage generated in some way). In many cases there is no such value indication but only an indication of difference or equality in relation to a standard or datum (of which the value may or may not be known in figures); the standard or datum may be the value of another variable of the same nature but of a different entity (e.g. a standard measure) or of the same entity at a different time. <ul><li>In its simplest form, measurement may give merely an indication of presence or absence of a certain condition or quality, e.g. movement (in any direction or in a particular direction), or whether a variable exceeds a predetermined value.</li></ul></li></ul></li><li>Attention is drawn to the Notes following the titles of class <b>B81</b> and subclass <b>B81B</b> relating to \"microstructural devices\" and \"microstructural systems\" and the Notes following the title of subclass <b>B82B</b> relating to \"nanostructures\".</li><li>Attention is drawn to the Notes following the title of section <b>G</b>, especially as regards the definition of the term \"variable\".</li><li>In many measuring arrangements, a first variable to be measured is transformed into a second, or further, variables. The second, or further, variables may be (a) a condition related to the first variable and produced in a member, or (b) a displacement of a member. Further transformation may be needed. <ul><li>When classifying such an arrangement, (i) the transformation step, or each transformation step, that is of interest is classified, or (ii) if interest lies only in the system as a whole, the first variable is classified in the appropriate place.</li><li>This is particularly important where two or more conversions take place, for instance where a first variable, for example pressure, is transformed into a second variable, for example an optical property of a sensing body, and that second variable is expressed by means of a third variable, for example an electric effect. In such a case, the following classification places should be considered: the place for the transformation of the first variable, that for sensing the condition caused by that variable, subclass <b>G01D</b> for expression of the measurement, and finally the place for the overall system, if any.</li></ul></li><li>The measurement of change in the value of a physical property is classified in the same subclass as the measurement of that physical property, e.g. measurement of expansion of length is classified in subclass <b>G01B</b>.</li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G": {
+      "code": "G",
+      "level": 0,
+      "parent": null,
+      "ja": "物理学<br><br><b><ul>注</ul></b><br>１．このセクションにおいては，下記の用語は以下に示す意味で用いる：<br>・“変量”は名詞として，特定の実在物，例．物体，ある量の物質，光ビーム，に関し特定の瞬間に測定することの可能な特性又は特質，例．寸法，温度等の物理的状態，密度又は色等の性質，を意味する。変量が変化すると，その数値的表現は異なる時点で，異なる状態又は個々の状況において異なる値をとることもあり，また，ある状態のもとで又は実用上特定の実在物に関して一定でありうる，例．バーの長さが多くの目的のために一定とみなされる，こともある。<br>２．使用される用語または表現の定義に注意すること。このセクションのいくつかのクラスの注に使用されているものについて，特にクラスＧ０１の“測定”を参照されたい．ＩＰＣ指針パラグラフ１８７の中にあるものについて，“制御”及び“調整”の定義に参照されたい。<br>３．このセクションにおける分類は他のセクションにおいてよりもめんどうな場合があり得る，というのは，その一つは，いろいろな使用分野の差異の判別には構造上の差異又は使用形態上の差異よりも寧ろ使用者の意図における差異の方にかなりの程度影響されてしまうからであり，もう一つは，扱う主題が容易に全体として識別できる“もの”であるよりも，特性又は部品が他の主題のものと共通のものを有しているシステム又は組合わせであることが実際上多いからである。例えば，情報（例．一連の数値）をディスプレイするのは，クラスＧ０９に包含される，教育又は広告のため，クラスＧ０１に包含される，測定の結果が通知されうるため，クラスＧ０８に包含される，遠隔地点に情報を合図するため，又は遠隔地点から合図された情報を提供するためである。目的を記述するために使用する言葉は，当該装置の形態に無関係なこともあり得る特性－例えば，ディスプレイを見る者にとって望ましい効果とか，ディスプレイが遠隔地点から制御されるかどうかという特性－によって決定される。さらに，ある状態，例えば流体圧の変化に応答する装置は，その装置そのものには変更を加えずして，サブクラスＧ０１Ｌに包含される圧力又はＧ０１の他のサブクラスに包含される圧力に関連した他の何らかの状態，例．温度に関してＧ０１Ｋ，についての情報を与えるため，サブクラスＧ０７Ｃに包含される圧力または圧力発生の記録をするため，サブクラスＧ０８Ｂに包含される警報を発するため，又はクラスＧ０５に包含される他の何らかの装置を制御するために用いられることがある。<br>　本分類表は，前述したように，同一の性質のものは同一箇所に分類し得るようにしたものである。従って，技術主題が適切箇所に分類されるためには予めその真正な本質を把握することが特に必要である。",
+      "en": "PHYSICS; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this section, the following term is used with the meaning indicated: <ul><li>\"variable\" as a noun means a feature or property, e.g. a dimension, a physical condition such as temperature, a quality such as density or colour, which, in respect of a particular entity, e.g. an object, a quantity of a substance, a beam of light, and at a particular instant, is capable of being measured; the variable may change, so that its numerical expression may assume different values at different times, in different conditions or in individual cases, but may be constant in respect of a particular entity in certain conditions or for practical purposes, e.g. the length of a bar may be regarded as constant for many purposes.</li></ul></li><li>Attention is drawn to the definitions of terms or expressions used. Some appear in the notes of several of the classes in this section, see in particular the definition of \"measuring\" in class <b>G01</b>. Others appear in paragraph 187 of the Guide to the IPC, see in particular the definitions of \"control\" and \"regulation\".</li><li>Classification in this section may present more difficulty than in other sections, because the distinction between different fields of use rests to a considerable extent on differences in the intention of the user rather than on any constructional differences or differences in the manner of use, and because the subjects dealt with are often in effect systems or combinations, which have features or parts in common, rather than \"things\", which are readily distinguishable as a whole. For example, information, e.g. a set of figures, may be displayed for the purpose of education or advertising covered by class <b>G09</b>, for enabling the result of a measurement to be known covered by class <b>G01</b>, for signalling the information to a distant point or for giving information which has been signalled from a distant point covered by class <b>G08</b>. The words used to describe the purpose depend on features that may be irrelevant to the form of the apparatus concerned, for example, such features as the desired effect on the person who sees the display, or whether the display is controlled from a remote point. Again, a device which responds to some change in a condition, e.g. in the pressure of a fluid, may be used, without modification of the device itself, to give information about the pressure covered by subclass <b>G01L</b> or about some other condition linked to the pressure covered by another subclass of class <b>G01</b>, e.g. <b>G01K</b> for temperature, to make a record of the pressure or of its occurrence covered by subclass <b>G07C</b>, to give an alarm covered by subclass <b>G08B</b>, or to control another apparatus covered by class <b>G05</b>. <ul><li>The classification scheme is intended to enable things of a similar nature, as indicated above, to be classified together. It is therefore particularly necessary for the real nature of any technical subject to be decided before it can be properly classified.</li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G01J1/00": {
+      "code": "G01J1/00",
+      "level": 0,
+      "parent": "G01J",
+      "ja": "測光，例．写真の露出計（分光度測定Ｇ０１Ｊ３／００；放射温度測定に特に適合するものＧ０１Ｊ５／００）",
+      "en": "Photometry, e.g. photographic exposure meter(spectrophotometry <b>G01J3/00</b>; specially adapted for radiation pyrometry <b>G01J5/00</b>)",
+      "count": 7878,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J1/02": {
+      "code": "G01J1/02",
+      "level": 1,
+      "parent": "G01J1/00",
+      "ja": "細部",
+      "en": "Details",
+      "count": 19540,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J1/04": {
+      "code": "G01J1/04",
+      "level": 2,
+      "parent": "G01J1/02",
+      "ja": "光学部分または機械部分",
+      "en": "Optical or mechanical part",
+      "count": 11954,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J1/06": {
+      "code": "G01J1/06",
+      "level": 3,
+      "parent": "G01J1/04",
+      "ja": "入射角の限定",
+      "en": "Restricting the angle of incident light",
+      "count": 1099,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J1/08": {
+      "code": "G01J1/08",
+      "level": 2,
+      "parent": "G01J1/02",
+      "ja": "特に測光に適用される光源の構成",
+      "en": "Arrangements of light sources specially adapted for photometry",
+      "count": 1060,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J1/10": {
+      "code": "G01J1/10",
+      "level": 1,
+      "parent": "G01J1/00",
+      "ja": "参照光，または電気値との比較によるもの",
+      "en": "by comparison with reference light or electric value",
+      "count": 1073,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J1/12": {
+      "code": "G01J1/12",
+      "level": 2,
+      "parent": "G01J1/10",
+      "ja": "全体的視覚手段によるもの（Ｇ０１Ｊ１／２０が優先）",
+      "en": "using wholly visual means(<b>G01J1/20</b> takes precedence)",
+      "count": 272,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J1/14": {
+      "code": "G01J1/14",
+      "level": 3,
+      "parent": "G01J1/12",
+      "ja": "段階的輝度の表面との比較によるもの",
+      "en": "using comparison with a surface of graded brightness",
+      "count": 147,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J1/16": {
+      "code": "G01J1/16",
+      "level": 2,
+      "parent": "G01J1/10",
+      "ja": "電気的な放射線検出器によるもの（Ｇ０１Ｊ１／２０が優先）",
+      "en": "using electric radiation detectors(<b>G01J1/20</b> takes precedence)",
+      "count": 1441,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J1/18": {
+      "code": "G01J1/18",
+      "level": 3,
+      "parent": "G01J1/16",
+      "ja": "参照電気値との比較によるもの",
+      "en": "using comparison with a reference electric value",
+      "count": 550,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J1/20": {
+      "code": "G01J1/20",
+      "level": 2,
+      "parent": "G01J1/10",
+      "ja": "測定値または参照値の強度が検出器における効果と等しくなるように変えられるもの，例．入射角の変化によるもの",
+      "en": "intensity of the measured or reference value being varied to equalise their effects at the detector, e.g. by varying incidence angle",
+      "count": 653,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J1/22": {
+      "code": "G01J1/22",
+      "level": 3,
+      "parent": "G01J1/20",
+      "ja": "光路中に可変素子を使用するもの，例．フィルター，偏光手段（Ｇ０１Ｊ１／３４が優先）",
+      "en": "using a variable element in the light-path, e.g. filter, polarising means(<b>G01J1/34</b> takes precedence)",
+      "count": 269,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J1/24": {
+      "code": "G01J1/24",
+      "level": 4,
+      "parent": "G01J1/22",
+      "ja": "電気的な放射線検出器によるもの",
+      "en": "using electric radiation detectors",
+      "count": 264,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J1/26": {
+      "code": "G01J1/26",
+      "level": 5,
+      "parent": "G01J1/24",
+      "ja": "測定値または参照値の自動変化に適用されるもの",
+      "en": "adapted for automatic variation of the measured or reference value",
+      "count": 104,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J1/28": {
+      "code": "G01J1/28",
+      "level": 3,
+      "parent": "G01J1/20",
+      "ja": "光源の強度または距離の変化によるもの（Ｇ０１Ｊ１／３４が優先）",
+      "en": "using variation of intensity or distance of source(<b>G01J1/34</b> takes precedence)",
+      "count": 200,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J1/30": {
+      "code": "G01J1/30",
+      "level": 4,
+      "parent": "G01J1/28",
+      "ja": "電気的な放射線検出器によるもの",
+      "en": "using electric radiation detectors",
+      "count": 103,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J1/32": {
+      "code": "G01J1/32",
+      "level": 5,
+      "parent": "G01J1/30",
+      "ja": "測定値または参照値の自動変化に適用されるもの",
+      "en": "adapted for automatic variation of the measured or reference value",
+      "count": 753,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J1/34": {
+      "code": "G01J1/34",
+      "level": 3,
+      "parent": "G01J1/20",
+      "ja": "交互にまたは連続的に使用された分離光路によるもの，例．フリッカー",
+      "en": "using separate light-paths used alternately or sequentially, e.g. flicker",
+      "count": 102,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J1/36": {
+      "code": "G01J1/36",
+      "level": 4,
+      "parent": "G01J1/34",
+      "ja": "電気的な放射線検出器によるもの",
+      "en": "using electric radiation detectors",
+      "count": 308,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J1/38": {
+      "code": "G01J1/38",
+      "level": 1,
+      "parent": "G01J1/00",
+      "ja": "全体的視覚手段によるもの（Ｇ０１Ｊ１／１０が優先）",
+      "en": "using wholly visual means(<b>G01J1/10</b> takes precedence)",
+      "count": 202,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J1/40": {
+      "code": "G01J1/40",
+      "level": 2,
+      "parent": "G01J1/38",
+      "ja": "可視限界または吸光効果によるもの",
+      "en": "using limit of visibility or extinction effect",
+      "count": 191,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J1/42": {
+      "code": "G01J1/42",
+      "level": 1,
+      "parent": "G01J1/00",
+      "ja": "電気的な放射線検出器によるもの（参照光または電気値との比較によるものＧ０１Ｊ１／１０；光学および機械部分Ｇ０１Ｊ１／０４）",
+      "en": "using electric radiation detectors(optical or mechanical part <b>G01J1/04</b>; by comparison with a reference light or electric value <b>G01J1/10</b>)",
+      "count": 21359,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J1/44": {
+      "code": "G01J1/44",
+      "level": 2,
+      "parent": "G01J1/42",
+      "ja": "電気回路",
+      "en": "Electric circuits",
+      "count": 10222,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J1/46": {
+      "code": "G01J1/46",
+      "level": 3,
+      "parent": "G01J1/44",
+      "ja": "コンデンサーによるもの",
+      "en": "using a capacitor",
+      "count": 942,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J1/48": {
+      "code": "G01J1/48",
+      "level": 1,
+      "parent": "G01J1/00",
+      "ja": "化学的効果によるもの",
+      "en": "using chemical effects",
+      "count": 257,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J1/50": {
+      "code": "G01J1/50",
+      "level": 2,
+      "parent": "G01J1/48",
+      "ja": "指示器の色が変化するもの，例．化学光量計",
+      "en": "using change in colour of an indicator, e.g. actinometer",
+      "count": 641,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J1/52": {
+      "code": "G01J1/52",
+      "level": 2,
+      "parent": "G01J1/48",
+      "ja": "写真効果によるもの",
+      "en": "using photographic effects",
+      "count": 40,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J1/54": {
+      "code": "G01J1/54",
+      "level": 2,
+      "parent": "G01J1/48",
+      "ja": "ガスの光反応を観察することによるもの",
+      "en": "by observing photo-reactions between gases",
+      "count": 34,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J1/56": {
+      "code": "G01J1/56",
+      "level": 1,
+      "parent": "G01J1/00",
+      "ja": "放射圧またはラジオメーターの効果によるもの",
+      "en": "using radiation pressure or radiometer effect",
+      "count": 169,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J1/58": {
+      "code": "G01J1/58",
+      "level": 1,
+      "parent": "G01J1/00",
+      "ja": "光により発生したルミネッセンスによるもの",
+      "en": "using luminescence generated by light",
+      "count": 1538,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J1/60": {
+      "code": "G01J1/60",
+      "level": 1,
+      "parent": "G01J1/00",
+      "ja": "目のひとみを測定することによるもの",
+      "en": "by measuring the pupil of the eye",
+      "count": 56,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J3/00": {
+      "code": "G01J3/00",
+      "level": 0,
+      "parent": "G01J",
+      "ja": "分光測定；分光光度測定；モノクロメータ；色の測定［４］",
+      "en": "Spectrometry; Spectrophotometry; Monochromators; Measuring colours",
+      "count": 3072,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J3/02": {
+      "code": "G01J3/02",
+      "level": 1,
+      "parent": "G01J3/00",
+      "ja": "細部",
+      "en": "Details",
+      "count": 15550,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J3/04": {
+      "code": "G01J3/04",
+      "level": 2,
+      "parent": "G01J3/02",
+      "ja": "スリットの構成",
+      "en": "Slit arrangements",
+      "count": 1215,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J3/06": {
+      "code": "G01J3/06",
+      "level": 2,
+      "parent": "G01J3/02",
+      "ja": "走査装置の構成",
+      "en": "Scanning arrangements",
+      "count": 1530,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J3/08": {
+      "code": "G01J3/08",
+      "level": 2,
+      "parent": "G01J3/02",
+      "ja": "光線切換装置の構成",
+      "en": "Beam-switching arrangements",
+      "count": 509,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J3/10": {
+      "code": "G01J3/10",
+      "level": 2,
+      "parent": "G01J3/02",
+      "ja": "特に分光測定または比色測定に適用される光源の構成",
+      "en": "Arrangements of light sources specially adapted for spectrometry or colorimetry",
+      "count": 4719,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J3/12": {
+      "code": "G01J3/12",
+      "level": 1,
+      "parent": "G01J3/00",
+      "ja": "スペクトルの発生；モノクロメータ",
+      "en": "Generating the spectrum; Monochromators",
+      "count": 2958,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J3/14": {
+      "code": "G01J3/14",
+      "level": 2,
+      "parent": "G01J3/12",
+      "ja": "屈折素子，例．プリズム，によるもの（Ｇ０１Ｊ３／１８，Ｇ０１Ｊ３／２６が優先）",
+      "en": "using refracting elements, e.g. prism(<b>G01J3/18</b>, <b>G01J3/26</b> take precedence)",
+      "count": 795,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J3/16": {
+      "code": "G01J3/16",
+      "level": 3,
+      "parent": "G01J3/14",
+      "ja": "自動視準装置をもつもの",
+      "en": "with autocollimation",
+      "count": 104,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J3/18": {
+      "code": "G01J3/18",
+      "level": 2,
+      "parent": "G01J3/12",
+      "ja": "回折素子，例．回折格子，によるもの",
+      "en": "using diffraction elements, e.g. grating",
+      "count": 3888,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J3/20": {
+      "code": "G01J3/20",
+      "level": 3,
+      "parent": "G01J3/18",
+      "ja": "ローランド円分光計",
+      "en": "Rowland circle spectrometers",
+      "count": 210,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J3/22": {
+      "code": "G01J3/22",
+      "level": 3,
+      "parent": "G01J3/18",
+      "ja": "リトロミラー分光計",
+      "en": "Littrow mirror spectrometers",
+      "count": 81,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J3/24": {
+      "code": "G01J3/24",
+      "level": 3,
+      "parent": "G01J3/18",
+      "ja": "特定次数のために設計された回折格子によるもの",
+      "en": "using gratings profiled to favour a specific order",
+      "count": 94,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J3/26": {
+      "code": "G01J3/26",
+      "level": 2,
+      "parent": "G01J3/12",
+      "ja": "多重反射によるもの，例．ファブリーペロー干渉計，可変干渉フィルター",
+      "en": "using multiple reflection, e.g. Fabry-Perot interferometer, variable interference filter",
+      "count": 2676,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J3/28": {
+      "code": "G01J3/28",
+      "level": 1,
+      "parent": "G01J3/00",
+      "ja": "スペクトルの調査（色フィルターを用いるものＧ０１Ｊ３／５１）［４］",
+      "en": "Investigating the spectrum(using colour filters <b>G01J3/51</b>)",
+      "count": 14859,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J3/30": {
+      "code": "G01J3/30",
+      "level": 2,
+      "parent": "G01J3/28",
+      "ja": "スペクトル上で直接スペクトル線強度を測定するもの（Ｇ０１Ｊ３／４２，Ｇ０１Ｊ３／４４が優先）",
+      "en": "Measuring the intensity of spectral lines directly on the spectrum itself(<b>G01J3/42</b>, <b>G01J3/44</b> take precedence)",
+      "count": 1316,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J3/32": {
+      "code": "G01J3/32",
+      "level": 3,
+      "parent": "G01J3/30",
+      "ja": "単一検出器によるスペクトルバンドの順次調査",
+      "en": "Investigating bands of a spectrum in sequence by a single detector",
+      "count": 629,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J3/36": {
+      "code": "G01J3/36",
+      "level": 3,
+      "parent": "G01J3/30",
+      "ja": "別々の検出器によるスペクトル中の２以上のバンドの調査",
+      "en": "Investigating two or more bands of a spectrum by separate detectors",
+      "count": 2393,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J3/40": {
+      "code": "G01J3/40",
+      "level": 2,
+      "parent": "G01J3/28",
+      "ja": "スペクトルの写真濃度の測定によるスペクトル線強度の測定；分光写真（Ｇ０１Ｊ３／４２，Ｇ０１Ｊ３／４４が優先）［４］",
+      "en": "Measuring the intensity of spectral lines by determining density of a photograph of the spectrum; Spectrography(<b>G01J3/42</b>, <b>G01J3/44</b> take precedence)",
+      "count": 523,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J3/42": {
+      "code": "G01J3/42",
+      "level": 2,
+      "parent": "G01J3/28",
+      "ja": "吸収分光測定；二光束分光測定；フリッカー分光測定；反射分光測定（光線切換装置の構成Ｇ０１Ｊ３／０８）［４］",
+      "en": "Absorption spectrometry; Double-beam spectrometry; Flicker spectrometry; Reflection spectrometry(beam-switching arrangements <b>G01J3/08</b>)",
+      "count": 5655,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J3/427": {
+      "code": "G01J3/427",
+      "level": 3,
+      "parent": "G01J3/42",
+      "ja": "二波長分光測定［４］",
+      "en": "Dual wavelength spectrometry",
+      "count": 539,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J3/433": {
+      "code": "G01J3/433",
+      "level": 3,
+      "parent": "G01J3/42",
+      "ja": "変調分光測定；微分分光測定［４］",
+      "en": "Modulation spectrometry; Derivative spectrometry",
+      "count": 823,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J3/44": {
+      "code": "G01J3/44",
+      "level": 2,
+      "parent": "G01J3/28",
+      "ja": "ラマン分光測定；散乱分光測定［４］",
+      "en": "Raman spectrometry; Scattering spectrometry",
+      "count": 5027,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J3/443": {
+      "code": "G01J3/443",
+      "level": 2,
+      "parent": "G01J3/28",
+      "ja": "発光分光測定［４］",
+      "en": "Emission spectrometry",
+      "count": 1681,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J3/447": {
+      "code": "G01J3/447",
+      "level": 2,
+      "parent": "G01J3/28",
+      "ja": "偏光分光測定［４］",
+      "en": "Polarisation spectrometry",
+      "count": 1013,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J3/45": {
+      "code": "G01J3/45",
+      "level": 2,
+      "parent": "G01J3/28",
+      "ja": "干渉分光測定［４］",
+      "en": "Interferometric spectrometry",
+      "count": 3193,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J3/453": {
+      "code": "G01J3/453",
+      "level": 3,
+      "parent": "G01J3/45",
+      "ja": "振幅の相互干渉によるもの［４］",
+      "en": "by correlation of the amplitudes",
+      "count": 1098,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J3/457": {
+      "code": "G01J3/457",
+      "level": 2,
+      "parent": "G01J3/28",
+      "ja": "相関分光測定，例．スペクトル強度の相関（Ｇ０１Ｊ３／４５３が優先）［４］",
+      "en": "Correlation spectrometry, e.g. of the intensity(<b>G01J3/453</b> takes precedence)",
+      "count": 270,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J3/46": {
+      "code": "G01J3/46",
+      "level": 1,
+      "parent": "G01J3/00",
+      "ja": "色の測定；色測定装置，例．比色計（色温度の測定Ｇ０１Ｊ５／６０）［４］",
+      "en": "Measurement of colour; Colour measuring devices, e.g. colorimeters(measuring colour temperature <b>G01J5/60</b>)",
+      "count": 10087,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J3/50": {
+      "code": "G01J3/50",
+      "level": 2,
+      "parent": "G01J3/46",
+      "ja": "電気的な放射線検出器によるもの［４］",
+      "en": "using electric radiation detectors",
+      "count": 5386,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J3/51": {
+      "code": "G01J3/51",
+      "level": 3,
+      "parent": "G01J3/50",
+      "ja": "色フィルターを用いるもの［４］",
+      "en": "using colour filters",
+      "count": 2536,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J3/52": {
+      "code": "G01J3/52",
+      "level": 2,
+      "parent": "G01J3/46",
+      "ja": "色標によるもの",
+      "en": "using colour charts",
+      "count": 2262,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J4/00": {
+      "code": "G01J4/00",
+      "level": 0,
+      "parent": "G01J",
+      "ja": "偏光の測定［２］",
+      "en": "Measuring polarisation of light",
+      "count": 2945,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J4/02": {
+      "code": "G01J4/02",
+      "level": 1,
+      "parent": "G01J4/00",
+      "ja": "視野分離形偏光計；半影形偏光計［２］",
+      "en": "Polarimeters of separated-field type; Polarimeters of half-shadow type",
+      "count": 128,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J4/04": {
+      "code": "G01J4/04",
+      "level": 1,
+      "parent": "G01J4/00",
+      "ja": "電気的検出手段を利用する偏光計（Ｇ０１Ｊ４／０２が優先）［２］",
+      "en": "Polarimeters using electric detection means(<b>G01J4/02</b> takes precedence)",
+      "count": 1934,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J5/00": {
+      "code": "G01J5/00",
+      "level": 0,
+      "parent": "G01J",
+      "ja": "放射温度計，例．赤外または光学温度測定［２０２２．０１］",
+      "en": "Radiation pyrometry, e.g. infrared or optical thermometry",
+      "count": 29259,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J5/02": {
+      "code": "G01J5/02",
+      "level": 1,
+      "parent": "G01J5/00",
+      "ja": "構造の細部［２０２２．０１］",
+      "en": "Constructional details",
+      "count": 18651,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J5/03": {
+      "code": "G01J5/03",
+      "level": 2,
+      "parent": "G01J5/02",
+      "ja": "放射温度計に特に適した指示または記録の構成［２０２２．０１］",
+      "en": "Arrangements for indicating or recording specially adapted for radiation pyrometers",
+      "count": 1269,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J5/04": {
+      "code": "G01J5/04",
+      "level": 2,
+      "parent": "G01J5/02",
+      "ja": "ケース",
+      "en": "Casings",
+      "count": 4562,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J5/05": {
+      "code": "G01J5/05",
+      "level": 2,
+      "parent": "G01J5/02",
+      "ja": "光学系構成要素の汚染防止手段；または放射路閉塞を防止する手段［２０２２．０１］",
+      "en": "Means for preventing contamination of the components of the optical system; Means for preventing obstruction of the radiation path",
+      "count": 312,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J5/06": {
+      "code": "G01J5/06",
+      "level": 2,
+      "parent": "G01J5/02",
+      "ja": "妨害放射線の影響を除去するための構成；感度の変化を補償するための構成（集光される放射線の立体角を調整するためのものＧ０１Ｊ５／０７；波長を選択するための手段Ｇ０１Ｊ５／０８０１）［２０２２．０１］",
+      "en": "Arrangements for eliminating effects of disturbing radiation; Arrangements for compensating changes in sensitivity (for adjusting of solid angle of collected radiation <b>G01J5/07</b>;  means for wavelength selection <b>G01J5/0801</b>)",
+      "count": 2529,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J5/061": {
+      "code": "G01J5/061",
+      "level": 3,
+      "parent": "G01J5/06",
+      "ja": "装置または装置の一部の温度の制御によるもの，例．冷却手段またはサーモスタットを用いるもの［２０２２．０１］",
+      "en": "by controlling the temperature of the apparatus or parts thereof, e.g. using cooling means or thermostats",
+      "count": 433,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J5/068": {
+      "code": "G01J5/068",
+      "level": 3,
+      "parent": "G01J5/06",
+      "ja": "温度以外のパラメータの制御によるもの［２０２２．０１］",
+      "en": "by controlling parameters other than temperature",
+      "count": 48,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J5/07": {
+      "code": "G01J5/07",
+      "level": 2,
+      "parent": "G01J5/02",
+      "ja": "集光される放射線の立体角を調整するための装置，例．視野を調整または方向づけるもの，位置を追跡するものまたは角度位置を符号化するもの（光学コリメーター要素Ｇ０１Ｊ５／０８０６）［２０２２．０１］",
+      "en": "Arrangements for adjusting the solid angle of collected radiation, e.g. adjusting or orienting field of view, tracking position or encoding angular position(optical collimating elements <b>G01J5/0806</b>)",
+      "count": 893,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J5/08": {
+      "code": "G01J5/08",
+      "level": 2,
+      "parent": "G01J5/02",
+      "ja": "光学的特徴［２０２２．０１］",
+      "en": "Optical arrangements",
+      "count": 6064,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J5/0801": {
+      "code": "G01J5/0801",
+      "level": 3,
+      "parent": "G01J5/08",
+      "ja": "波長を選択または弁別するための手段［２０２２．０１］",
+      "en": "Means for wavelength selection or discrimination",
+      "count": 44,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J5/0802": {
+      "code": "G01J5/0802",
+      "level": 4,
+      "parent": "G01J5/0801",
+      "ja": "光学フィルタ［２０２２．０１］",
+      "en": "Optical filters",
+      "count": 168,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J5/0803": {
+      "code": "G01J5/0803",
+      "level": 3,
+      "parent": "G01J5/08",
+      "ja": "放射線信号を経時的に遮光するための装置［２０２２．０１］",
+      "en": "Arrangements for time-dependent attenuation of radiation signals",
+      "count": 114,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J5/0804": {
+      "code": "G01J5/0804",
+      "level": 4,
+      "parent": "G01J5/0803",
+      "ja": "シャッタ－［２０２２．０１］",
+      "en": "Shutters",
+      "count": 33,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J5/0805": {
+      "code": "G01J5/0805",
+      "level": 4,
+      "parent": "G01J5/0803",
+      "ja": "放射線をチョッピングする手段［２０２２．０１］",
+      "en": "Means for chopping radiation",
+      "count": 145,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J5/0806": {
+      "code": "G01J5/0806",
+      "level": 3,
+      "parent": "G01J5/08",
+      "ja": "焦点を合わせるまたは平行光にするもの，例．レンズまたは凹面鏡［２０２２．０１］",
+      "en": "Focusing or collimating elements, e.g. lenses or concave mirrors",
+      "count": 347,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J5/0808": {
+      "code": "G01J5/0808",
+      "level": 3,
+      "parent": "G01J5/08",
+      "ja": "凸面鏡［２０２２．０１］",
+      "en": "Convex mirrors",
+      "count": 32,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J5/0813": {
+      "code": "G01J5/0813",
+      "level": 3,
+      "parent": "G01J5/08",
+      "ja": "平面鏡；平行位相板［２０２２．０１］",
+      "en": "Planar mirrors; Parallel phase plates",
+      "count": 30,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J5/0818": {
+      "code": "G01J5/0818",
+      "level": 3,
+      "parent": "G01J5/08",
+      "ja": "導波路［２０２２．０１］",
+      "en": "Waveguides",
+      "count": 41,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J5/0821": {
+      "code": "G01J5/0821",
+      "level": 4,
+      "parent": "G01J5/0818",
+      "ja": "光ファイバ［２０２２．０１］",
+      "en": "Optical fibres",
+      "count": 75,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J5/0831": {
+      "code": "G01J5/0831",
+      "level": 3,
+      "parent": "G01J5/08",
+      "ja": "マスク；開口板；空間光変調素子［２０２２．０１］",
+      "en": "Masks; Aperture plates; Spatial light modulators",
+      "count": 44,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J5/0875": {
+      "code": "G01J5/0875",
+      "level": 3,
+      "parent": "G01J5/08",
+      "ja": "ウインドウ；それを固定するための装置［２０２２．０１］",
+      "en": "Windows; Arrangements for fastening thereof",
+      "count": 148,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J5/10": {
+      "code": "G01J5/10",
+      "level": 1,
+      "parent": "G01J5/00",
+      "ja": "電気的な放射線検出器によるもの",
+      "en": "using electric radiation detectors",
+      "count": 6339,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J5/12": {
+      "code": "G01J5/12",
+      "level": 2,
+      "parent": "G01J5/10",
+      "ja": "熱電素子によるもの，例．熱電対［２００６．０１］",
+      "en": "using thermoelectric elements, e.g. thermocouples",
+      "count": 3070,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J5/14": {
+      "code": "G01J5/14",
+      "level": 3,
+      "parent": "G01J5/12",
+      "ja": "その電気的特徴［２００６．０１］",
+      "en": "Electrical features thereof",
+      "count": 865,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J5/16": {
+      "code": "G01J5/16",
+      "level": 4,
+      "parent": "G01J5/14",
+      "ja": "冷接点についての構成；周囲温度または他の変化の影響の補償",
+      "en": "Arrangements with respect to the cold junction; Compensating influence of ambient temperature or other variables",
+      "count": 435,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J5/20": {
+      "code": "G01J5/20",
+      "level": 2,
+      "parent": "G01J5/10",
+      "ja": "放射線に感応する抵抗，サーミスタまたは半導体によるもの，例．光導電素子［２００６．０１］",
+      "en": "using resistors, thermistors or semiconductors sensitive to radiation, e.g. photoconductive devices",
+      "count": 3502,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J5/22": {
+      "code": "G01J5/22",
+      "level": 3,
+      "parent": "G01J5/20",
+      "ja": "その電気的特徴［２００６．０１］",
+      "en": "Electrical features thereof",
+      "count": 492,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J5/24": {
+      "code": "G01J5/24",
+      "level": 4,
+      "parent": "G01J5/22",
+      "ja": "特に適した回路の使用，例．ブリツジ回路［２００６．０１］",
+      "en": "Use of specially adapted circuits, e.g. bridge circuits",
+      "count": 651,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J5/28": {
+      "code": "G01J5/28",
+      "level": 2,
+      "parent": "G01J5/10",
+      "ja": "光電管  または光起電力素子を用いるもの［２００６．０１］",
+      "en": "using photoemissive or photovoltaic cells",
+      "count": 1117,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J5/30": {
+      "code": "G01J5/30",
+      "level": 3,
+      "parent": "G01J5/28",
+      "ja": "その電気的特徴［２００６．０１］",
+      "en": "Electrical features thereof",
+      "count": 151,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J5/34": {
+      "code": "G01J5/34",
+      "level": 2,
+      "parent": "G01J5/10",
+      "ja": "コンデンサーによるもの，例．焦電素子［２０２２．０１］",
+      "en": "using capacitors, e.g. pyroelectric capacitors",
+      "count": 2939,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J5/35": {
+      "code": "G01J5/35",
+      "level": 3,
+      "parent": "G01J5/34",
+      "ja": "その電気的特徴［２０２２．０１］",
+      "en": "Electrical features thereof",
+      "count": 51,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J5/36": {
+      "code": "G01J5/36",
+      "level": 2,
+      "parent": "G01J5/10",
+      "ja": "ガスの電離によるもの",
+      "en": "using ionisation of gases",
+      "count": 24,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J5/38": {
+      "code": "G01J5/38",
+      "level": 1,
+      "parent": "G01J5/00",
+      "ja": "固体または流体の伸長または膨張",
+      "en": "using extension or expansion of solids or fluids",
+      "count": 176,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J5/40": {
+      "code": "G01J5/40",
+      "level": 2,
+      "parent": "G01J5/38",
+      "ja": "バイメタル素子によるもの［２００６．０１］",
+      "en": "using bimaterial elements",
+      "count": 133,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J5/42": {
+      "code": "G01J5/42",
+      "level": 2,
+      "parent": "G01J5/38",
+      "ja": "ゴレイセルによるもの",
+      "en": "using Golay cells",
+      "count": 88,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J5/44": {
+      "code": "G01J5/44",
+      "level": 2,
+      "parent": "G01J5/38",
+      "ja": "共振周波数の変化によるもの，例．圧電結晶の［２００６．０１］",
+      "en": "using change of resonant frequency, e.g. of piezoelectric crystals",
+      "count": 139,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J5/46": {
+      "code": "G01J5/46",
+      "level": 1,
+      "parent": "G01J5/00",
+      "ja": "放射圧またはラジオメータの効果によるもの",
+      "en": "using radiation pressure or radiometer effect",
+      "count": 192,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J5/48": {
+      "code": "G01J5/48",
+      "level": 1,
+      "parent": "G01J5/00",
+      "ja": "サーモグラフィー；全体的視覚手段によるもの［２０２２．０１］",
+      "en": "Thermography; Techniques using wholly visual means",
+      "count": 10626,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J5/52": {
+      "code": "G01J5/52",
+      "level": 1,
+      "parent": "G01J5/00",
+      "ja": "参照値との比較によるもの，例．繊条消失型高温計［２０２２．０１］",
+      "en": "using comparison with reference sources, e.g. disappearing-filament pyrometer",
+      "count": 1655,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J5/53": {
+      "code": "G01J5/53",
+      "level": 2,
+      "parent": "G01J5/52",
+      "ja": "基準放射源，例．標準電球；黒体［２０２２．０１］",
+      "en": "Reference sources, e.g. standard lamps; Black bodies",
+      "count": 767,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J5/54": {
+      "code": "G01J5/54",
+      "level": 2,
+      "parent": "G01J5/52",
+      "ja": "光学的特徴［２００６．０１］",
+      "en": "Optical arrangements",
+      "count": 209,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J5/56": {
+      "code": "G01J5/56",
+      "level": 2,
+      "parent": "G01J5/52",
+      "ja": "その電気的特徴［２００６．０１］",
+      "en": "Electrical features thereof",
+      "count": 102,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J5/58": {
+      "code": "G01J5/58",
+      "level": 1,
+      "parent": "G01J5/00",
+      "ja": "吸収によるもの；減光効果によるもの［２０２２．０１］",
+      "en": "using absorption; using extinction effect",
+      "count": 781,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J5/59": {
+      "code": "G01J5/59",
+      "level": 1,
+      "parent": "G01J5/00",
+      "ja": "偏光によるもの；その細部［２０２２．０１］",
+      "en": "using polarisation; Details thereof",
+      "count": 30,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J5/60": {
+      "code": "G01J5/60",
+      "level": 1,
+      "parent": "G01J5/00",
+      "ja": "色温度の測定によるもの［２００６．０１］",
+      "en": "using determination of colour temperature",
+      "count": 2512,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J5/70": {
+      "code": "G01J5/70",
+      "level": 1,
+      "parent": "G01J5/00",
+      "ja": "放射温度計測定値の受動的補償，例．周囲温度の感知によるものまたはケース内部の温度の感知によるもの［２０２２．０１］",
+      "en": "Passive compensation of pyrometer measurements, e.g. using ambient temperature sensing or sensing of temperature within housing",
+      "count": 215,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J5/80": {
+      "code": "G01J5/80",
+      "level": 1,
+      "parent": "G01J5/00",
+      "ja": "較正（参照値との比較によるものＧ０１Ｊ５／５２）［２０２２．０１］",
+      "en": "Calibration(using comparison with reference sources <b>G01J5/52</b>)",
+      "count": 840,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J5/90": {
+      "code": "G01J5/90",
+      "level": 1,
+      "parent": "G01J5/00",
+      "ja": "放射温度計の試験，検査または動作確認［２０２２．０１］",
+      "en": "Testing, inspecting or checking operation of radiation pyrometers",
+      "count": 722,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J7/00": {
+      "code": "G01J7/00",
+      "level": 0,
+      "parent": "G01J",
+      "ja": "光速度の測定",
+      "en": "Measuring velocity of light",
+      "count": 144,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J9/00": {
+      "code": "G01J9/00",
+      "level": 0,
+      "parent": "G01J",
+      "ja": "光学的位相差の測定；コヒーレンス度の決定；光学的波長の測定（分光測定Ｇ０１Ｊ３／００）［３］",
+      "en": "Measuring optical phase difference; Determining degree of coherence; Measuring optical wavelength(spectrometry <b>G01J3/00</b>)",
+      "count": 3010,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J9/02": {
+      "code": "G01J9/02",
+      "level": 1,
+      "parent": "G01J9/00",
+      "ja": "干渉法によるもの［３］",
+      "en": "by interferometric methods",
+      "count": 3169,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J9/04": {
+      "code": "G01J9/04",
+      "level": 1,
+      "parent": "G01J9/00",
+      "ja": "同一光源ではあるが異った周波数の２つの波のうなりおよび得られた低周波の位相の測定によるもの［３］",
+      "en": "by beating two waves of the same source but of different frequency and measuring the phase shift of the lower frequency obtained",
+      "count": 497,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    },
+    "G01J11/00": {
+      "code": "G01J11/00",
+      "level": 0,
+      "parent": "G01J",
+      "ja": "個々の光パルスまたは光パルス列の特性の測定［５］",
+      "en": "Measuring the characteristics of individual optical pulses or of optical pulse trains",
+      "count": 2774,
+      "sourceFile": "ipc_G01J.txt",
+      "kind": "ipc"
+    }
+  }
+};

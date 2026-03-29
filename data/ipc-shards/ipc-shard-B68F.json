@@ -1,0 +1,76 @@
+{
+  "generatedAt": "2026-03-20T02:17:46.303Z",
+  "total": 7,
+  "entries": {
+    "B68F": {
+      "code": "B68F",
+      "level": 0,
+      "parent": "B68",
+      "ja": "皮革，帆布，またはその類似品からの物品の製造",
+      "en": "MAKING ARTICLES FROM LEATHER, CANVAS, OR THE LIKE",
+      "count": 59,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B68": {
+      "code": "B68",
+      "level": 0,
+      "parent": "B",
+      "ja": "馬具；詰め物，かわ張りされた物品",
+      "en": "SADDLERY; UPHOLSTERY",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B": {
+      "code": "B",
+      "level": 0,
+      "parent": null,
+      "ja": "処理操作；運輸",
+      "en": "PERFORMING OPERATIONS; TRANSPORTING",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B68F1/00": {
+      "code": "B68F1/00",
+      "level": 0,
+      "parent": "B68F",
+      "ja": "皮革，帆布，またはその類似品からの物品の製造（くら製造の為の機械または装置Ｂ６８Ｆ３／００；はきもの類の製造Ａ４３Ｄ；一般の皮革の製造，取扱い，皮革の分割，または他の帯革の製造の為の動力伝達機構Ｃ１４）",
+      "en": "Making articles from leather, canvas, or the like(machines or equipment for saddle-making <b>B68F3/00</b>; manufacturing footwear <b>A43D</b>; manufacture or treatment of leather in general, splitting leather, manufacture of driving or other belts <b>C14</b>)",
+      "count": 748,
+      "sourceFile": "ipc_B68F.txt",
+      "kind": "ipc"
+    },
+    "B68F3/00": {
+      "code": "B68F3/00",
+      "level": 0,
+      "parent": "B68F",
+      "ja": "くらの製造に特に適した機械または装置（方法Ｂ６８Ｆ１／００）",
+      "en": "Machines or equipment specially adapted for saddle-making(methods <b>B68F1/00</b>)",
+      "count": 32,
+      "sourceFile": "ipc_B68F.txt",
+      "kind": "ipc"
+    },
+    "B68F3/02": {
+      "code": "B68F3/02",
+      "level": 1,
+      "parent": "B68F3/00",
+      "ja": "機械",
+      "en": "Machines",
+      "count": 14,
+      "sourceFile": "ipc_B68F.txt",
+      "kind": "ipc"
+    },
+    "B68F3/04": {
+      "code": "B68F3/04",
+      "level": 1,
+      "parent": "B68F3/00",
+      "ja": "手工具",
+      "en": "Hand tools",
+      "count": 15,
+      "sourceFile": "ipc_B68F.txt",
+      "kind": "ipc"
+    }
+  }
+}

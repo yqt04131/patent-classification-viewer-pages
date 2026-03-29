@@ -1,0 +1,356 @@
+{
+  "generatedAt": "2026-03-20T02:17:46.241Z",
+  "total": 35,
+  "entries": {
+    "B61K": {
+      "code": "B61K",
+      "level": 0,
+      "parent": "B61",
+      "ja": "他に分類されない，鉄道に特に適した補助装置<br><br><b><ul>サブクラス内の索引</ul></b><br>軌道に関する装置<br>散水するもの，給油するもの；検査するもの；車両止め，減速するもの；その他　３／００；９／００；７／００；１３／００<br>車両に関する装置<br>走行中に荷を移送するもの，連結するもの，または切り離すもの；輪郭ゲージ；脱線させるもの，復帰させるもの　１／００；９／００；５／００<br>車輪へ散水または給油するもの；検査するもの　３／００；９／００<br>機関車に使用するもの　１１／００<br>その他　１３／００",
+      "en": "AUXILIARY EQUIPMENT SPECIALLY ADAPTED FOR RAILWAYS, NOT OTHERWISE PROVIDED FOR; <br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">EQUIPMENT RELATED TO TRACK<tr><td width=\"70%\">Wetting or lubricating; testing; stops, retarding; other </td><td><b><b>3/00</b>; <b>9/00</b>; <b>7/00</b>; <b>13/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">EQUIPMENT RELATED TO VEHICLES<tr><td width=\"70%\">Transferring load, coupling, or slipping, during movement; profile gauges; derailing, re-railing </td><td><b><b>1/00</b>; <b>9/00</b>; <b>5/00</b></b></td></tr></tr><tr><td width=\"70%\">Wetting or lubrication of wheels; testing </td><td><b><b>3/00</b>; <b>9/00</b></b></td></tr></tr><tr><td width=\"70%\">Servicing locomotives </td><td><b><b>11/00</b></b></td></tr></tr><tr><td width=\"70%\">Other </td><td><b><b>13/00</b></b></td></tr></tr></tr></table>",
+      "count": 252,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B61": {
+      "code": "B61",
+      "level": 0,
+      "parent": "B",
+      "ja": "鉄道<br><br><b><ul>注</ul></b><br>このクラスにおいては，下記の表現は以下に示す意味で用いる：<br>・“鉄道方式”は，以下のものを包含する：<br>　ａ．列車，個々の旅客車両，荷物運搬器を車輪やローラ用の軌条，ロープ，ケーブルまたは他の案内素子，あるいは滑走する非摩擦装置によって，限定された地面または高架軌道を案内走行する方式；<br>　ｂ．人間や荷物用の運搬器あるいは推進器を取り付けている方法，例．懸架形式，動きうる通路を定めた案内引張りロープあるいはケーブル；<br>　ｃ．車両，荷物運搬器または荷物が，連続した引張り部材，例．ケーブル，チェーン，に対して選択的に連結されるか，または連結を解かれるようになっている上記タイプのいずれかの方式すなわちパワーアンドフリー方式；<br>・“鉄道方式”は下記を含まない：<br>　ａ．連続的なけん引要素に永続的に取り付けられたロードキャリアを備えたコンベヤ，例．チェーンコンベヤ，これはグループＢ６５Ｇ１７／００に含まれる；<br>　ｂ．支持面またはその下にある材料の上に物品または材料を運ぶコンベヤ，例．スクレーパーコンベヤ，これはグループＢ６５Ｇ１９／００に含まれる。",
+      "en": "RAILWAYS; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this class, the following expression is used with the meaning indicated:<ul><li>\"railway systems\" <u>covers</u>: <ul><li>systems in which trains or individual passenger vehicles or load carriers run on, or are guided by, ground or elevated tracks defined by rails, ropes, cables, or other guiding elements for wheels, rollers, or sliding anti-friction devices;</li><li>systems in which carriers or impellers for persons or loads are attached to, e.g. suspended from, a guided traction rope or cable which determines their path of movement;</li><li>power-and-free systems of either of the above types in which vehicles, load-carriers or loads may be selectively coupled to, or uncoupled from, continuous traction members, e.g. cables, chains;</li></ul></li><li>\"railway systems\" <u>does not cover</u>: <ul><li>conveyors with load-carriers permanently attached to a continuous traction element, e.g. chain conveyors, which are covered by group <b>B65G17/00</b>;</li><li>conveyors moving articles or materials over a supporting surface or underlying material, e.g. scraper conveyors, which are covered by group <b>B65G19/00</b>.</li></ul></li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B": {
+      "code": "B",
+      "level": 0,
+      "parent": null,
+      "ja": "処理操作；運輸",
+      "en": "PERFORMING OPERATIONS; TRANSPORTING",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B61K1/00": {
+      "code": "B61K1/00",
+      "level": 0,
+      "parent": "B61K",
+      "ja": "走行中の列車へのまたは走行中の列車からの乗客，物品または荷物の移送；走行中の列車からの車両の切り離しまたは走行中の列車への車両の連結",
+      "en": "Transferring passengers, articles, or freight to and from moving trains; Slipping or coupling vehicles from or to moving trains",
+      "count": 477,
+      "sourceFile": "ipc_B61K.txt",
+      "kind": "ipc"
+    },
+    "B61K1/02": {
+      "code": "B61K1/02",
+      "level": 1,
+      "parent": "B61K1/00",
+      "ja": "走行中の列車へのまたは走行中の列車からの物品の移送，例．郵便袋受け",
+      "en": "transferring articles to and from moving trains, e.g. mailbag catchers",
+      "count": 317,
+      "sourceFile": "ipc_B61K.txt",
+      "kind": "ipc"
+    },
+    "B61K3/00": {
+      "code": "B61K3/00",
+      "level": 0,
+      "parent": "B61K",
+      "ja": "軌条または車輪縁に散水または給油するもの",
+      "en": "Wetting or lubricating rails or wheel flanges",
+      "count": 1084,
+      "sourceFile": "ipc_B61K.txt",
+      "kind": "ipc"
+    },
+    "B61K3/02": {
+      "code": "B61K3/02",
+      "level": 1,
+      "parent": "B61K3/00",
+      "ja": "そのために車両に組合わされた装置",
+      "en": "Apparatus therefor combined with vehicles",
+      "count": 1167,
+      "sourceFile": "ipc_B61K.txt",
+      "kind": "ipc"
+    },
+    "B61K5/00": {
+      "code": "B61K5/00",
+      "level": 0,
+      "parent": "B61K",
+      "ja": "軌道に車両を乗せるための装置；脱線器；車両軸または車輪を昇降するもの［２００６．０１］",
+      "en": "Apparatus for placing vehicles on the track; Derailers; Lifting or lowering rail vehicle axles or wheels",
+      "count": 682,
+      "sourceFile": "ipc_B61K.txt",
+      "kind": "ipc"
+    },
+    "B61K5/02": {
+      "code": "B61K5/02",
+      "level": 1,
+      "parent": "B61K5/00",
+      "ja": "車両に固着した装置；車両の一部として設けられている転車台",
+      "en": "Devices secured to the vehicles; Turntables integral with the vehicles",
+      "count": 335,
+      "sourceFile": "ipc_B61K.txt",
+      "kind": "ipc"
+    },
+    "B61K5/04": {
+      "code": "B61K5/04",
+      "level": 1,
+      "parent": "B61K5/00",
+      "ja": "軌道に固着した装置",
+      "en": "Devices secured to the track",
+      "count": 199,
+      "sourceFile": "ipc_B61K.txt",
+      "kind": "ipc"
+    },
+    "B61K5/06": {
+      "code": "B61K5/06",
+      "level": 2,
+      "parent": "B61K5/04",
+      "ja": "脱線または復帰ブロック",
+      "en": "Derailing or re-railing blocks",
+      "count": 1096,
+      "sourceFile": "ipc_B61K.txt",
+      "kind": "ipc"
+    },
+    "B61K7/00": {
+      "code": "B61K7/00",
+      "level": 0,
+      "parent": "B61K",
+      "ja": "軌道に固着した車両止め；軌道に固着した軌道制動または減速装置；砂軌道またはそのようなもの［２００６．０１］",
+      "en": "Railway stops fixed to permanent way; Track brakes or retarding apparatus fixed to permanent way; Sand tracks or the like",
+      "count": 692,
+      "sourceFile": "ipc_B61K.txt",
+      "kind": "ipc"
+    },
+    "B61K7/02": {
+      "code": "B61K7/02",
+      "level": 1,
+      "parent": "B61K7/00",
+      "ja": "軌道制動または減速装置",
+      "en": "Track brakes or retarding apparatus",
+      "count": 957,
+      "sourceFile": "ipc_B61K.txt",
+      "kind": "ipc"
+    },
+    "B61K7/04": {
+      "code": "B61K7/04",
+      "level": 2,
+      "parent": "B61K7/02",
+      "ja": "締付け作用をもつもの",
+      "en": "with clamping action",
+      "count": 407,
+      "sourceFile": "ipc_B61K.txt",
+      "kind": "ipc"
+    },
+    "B61K7/06": {
+      "code": "B61K7/06",
+      "level": 3,
+      "parent": "B61K7/04",
+      "ja": "機械的に操作されるもの",
+      "en": "operated mechanically",
+      "count": 270,
+      "sourceFile": "ipc_B61K.txt",
+      "kind": "ipc"
+    },
+    "B61K7/08": {
+      "code": "B61K7/08",
+      "level": 3,
+      "parent": "B61K7/04",
+      "ja": "空気力または液力で操作されるもの",
+      "en": "operated pneumatically or hydraulically",
+      "count": 582,
+      "sourceFile": "ipc_B61K.txt",
+      "kind": "ipc"
+    },
+    "B61K7/10": {
+      "code": "B61K7/10",
+      "level": 2,
+      "parent": "B61K7/02",
+      "ja": "電気力によるもの［２００６．０１］",
+      "en": "electrodynamic",
+      "count": 161,
+      "sourceFile": "ipc_B61K.txt",
+      "kind": "ipc"
+    },
+    "B61K7/12": {
+      "code": "B61K7/12",
+      "level": 2,
+      "parent": "B61K7/02",
+      "ja": "電気的に制御されるもの",
+      "en": "electrically controlled",
+      "count": 433,
+      "sourceFile": "ipc_B61K.txt",
+      "kind": "ipc"
+    },
+    "B61K7/14": {
+      "code": "B61K7/14",
+      "level": 1,
+      "parent": "B61K7/00",
+      "ja": "砂またはそのようなものの軌道",
+      "en": "Sand or like tracks",
+      "count": 39,
+      "sourceFile": "ipc_B61K.txt",
+      "kind": "ipc"
+    },
+    "B61K7/16": {
+      "code": "B61K7/16",
+      "level": 1,
+      "parent": "B61K7/00",
+      "ja": "正車両止め",
+      "en": "Positive railway stops",
+      "count": 1638,
+      "sourceFile": "ipc_B61K.txt",
+      "kind": "ipc"
+    },
+    "B61K7/18": {
+      "code": "B61K7/18",
+      "level": 2,
+      "parent": "B61K7/16",
+      "ja": "緩衝車両止め",
+      "en": "Buffer stops",
+      "count": 1264,
+      "sourceFile": "ipc_B61K.txt",
+      "kind": "ipc"
+    },
+    "B61K7/20": {
+      "code": "B61K7/20",
+      "level": 2,
+      "parent": "B61K7/16",
+      "ja": "正車輪止め",
+      "en": "Positive wheel stops",
+      "count": 1190,
+      "sourceFile": "ipc_B61K.txt",
+      "kind": "ipc"
+    },
+    "B61K7/22": {
+      "code": "B61K7/22",
+      "level": 2,
+      "parent": "B61K7/16",
+      "ja": "軸止め",
+      "en": "Axle stops",
+      "count": 154,
+      "sourceFile": "ipc_B61K.txt",
+      "kind": "ipc"
+    },
+    "B61K9/00": {
+      "code": "B61K9/00",
+      "level": 0,
+      "parent": "B61K",
+      "ja": "鉄道車両輪郭ゲージ；過熱部分の検出または指示；軌道の欠陥部分を指示するために機関車または車両に設けられている装置；普通の構造の軌道記録車",
+      "en": "Railway vehicle profile gauges; Detecting or indicating overheating of components; Apparatus on locomotives or cars to indicate bad track sections; General design of track recording vehicles",
+      "count": 1060,
+      "sourceFile": "ipc_B61K.txt",
+      "kind": "ipc"
+    },
+    "B61K9/02": {
+      "code": "B61K9/02",
+      "level": 1,
+      "parent": "B61K9/00",
+      "ja": "輪郭ゲージ，例．荷重ゲージ",
+      "en": "Profile gauges, e.g. loading gauges",
+      "count": 494,
+      "sourceFile": "ipc_B61K.txt",
+      "kind": "ipc"
+    },
+    "B61K9/04": {
+      "code": "B61K9/04",
+      "level": 1,
+      "parent": "B61K9/00",
+      "ja": "軸受部の過熱を指示するための検出器およびそのようなもの，例．欠陥がある場合にブレーキをかけるための制御系統と関連しているもの",
+      "en": "Detectors for indicating the overheating of axle bearings and the like, e.g. associated with the brake system for applying the brakes in case of a fault",
+      "count": 732,
+      "sourceFile": "ipc_B61K.txt",
+      "kind": "ipc"
+    },
+    "B61K9/06": {
+      "code": "B61K9/06",
+      "level": 2,
+      "parent": "B61K9/04",
+      "ja": "過熱軸からの熱幅射を検出または指示することによるもの",
+      "en": "by detecting or indicating heat radiation from overheated axles",
+      "count": 570,
+      "sourceFile": "ipc_B61K.txt",
+      "kind": "ipc"
+    },
+    "B61K9/08": {
+      "code": "B61K9/08",
+      "level": 1,
+      "parent": "B61K9/00",
+      "ja": "軌道を検査する測定装置［２００６．０１］",
+      "en": "Measuring installations for surveying permanent way",
+      "count": 6384,
+      "sourceFile": "ipc_B61K.txt",
+      "kind": "ipc"
+    },
+    "B61K9/10": {
+      "code": "B61K9/10",
+      "level": 2,
+      "parent": "B61K9/08",
+      "ja": "軌条またはその溶接部のき裂を検出するためのもの",
+      "en": "for detecting cracks in rails or welds thereof",
+      "count": 1638,
+      "sourceFile": "ipc_B61K.txt",
+      "kind": "ipc"
+    },
+    "B61K9/12": {
+      "code": "B61K9/12",
+      "level": 1,
+      "parent": "B61K9/00",
+      "ja": "車輪縁を測定または検査するもの［２００６．０１］",
+      "en": "Measuring or surveying wheel-rims",
+      "count": 1630,
+      "sourceFile": "ipc_B61K.txt",
+      "kind": "ipc"
+    },
+    "B61K11/00": {
+      "code": "B61K11/00",
+      "level": 0,
+      "parent": "B61K",
+      "ja": "機関車に特に使用するもの，例．炭水補給所で水，砂または類似のものを供給または除去するもの［２００６．０１］",
+      "en": "Serving peculiar to locomotives, e.g. filling with, or emptying of, water, sand, or the like at the depots",
+      "count": 1098,
+      "sourceFile": "ipc_B61K.txt",
+      "kind": "ipc"
+    },
+    "B61K11/02": {
+      "code": "B61K11/02",
+      "level": 1,
+      "parent": "B61K11/00",
+      "ja": "機関車のための給水柱",
+      "en": "Water columns for locomotives",
+      "count": 113,
+      "sourceFile": "ipc_B61K.txt",
+      "kind": "ipc"
+    },
+    "B61K13/00": {
+      "code": "B61K13/00",
+      "level": 0,
+      "parent": "B61K",
+      "ja": "鉄道のための他の補助装置または付属装置［２００６．０１］",
+      "en": "Other auxiliaries or accessories for railways",
+      "count": 2432,
+      "sourceFile": "ipc_B61K.txt",
+      "kind": "ipc"
+    },
+    "B61K13/02": {
+      "code": "B61K13/02",
+      "level": 1,
+      "parent": "B61K13/00",
+      "ja": "引張棒の引張力を高め，そしてそれを車輪に伝達する車両のための発車補助装置",
+      "en": "Starting aids for cars amplifying the draw-bar pull and transmitting it to the wheels",
+      "count": 19,
+      "sourceFile": "ipc_B61K.txt",
+      "kind": "ipc"
+    },
+    "B61K13/04": {
+      "code": "B61K13/04",
+      "level": 1,
+      "parent": "B61K13/00",
+      "ja": "車両に取付けられている乗客警報装置；乗降時の乗客の事故防止のための安全装置",
+      "en": "Passenger-warning devices attached to vehicles; Safety devices for preventing accidents to passengers when entering or leaving vehicles",
+      "count": 463,
+      "sourceFile": "ipc_B61K.txt",
+      "kind": "ipc"
+    }
+  }
+}

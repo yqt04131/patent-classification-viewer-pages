@@ -1,0 +1,1586 @@
+window.IPC_SHARD_F24H = {
+  "generatedAt": "2026-03-20T02:17:46.914Z",
+  "total": 158,
+  "entries": {
+    "F24H": {
+      "code": "F24H",
+      "level": 0,
+      "parent": "F24",
+      "ja": "熱発生手段，例．ヒートポンプ，を有する流体加熱器一般，例．水加熱器または空気加熱器（蒸気発生Ｆ２２）<br><br><b><ul>注</ul></b><br>（１）このサブクラスに包含される空気加熱器の明瞭な特徴は，熱が対流によって，主として空気の強制循環によって，空気に主として放出されることがある。Ｆ２４Ｂ，Ｆ２４Ｃに包含される家庭用のストーブまたはレンジも，火炎による空気加熱器または電気的空気加熱器であろうが，それらはかなりの程度まで輻射により熱を放出し自然対流によりある程度まで熱を放出するだけである。［３］<br>（２）このサブクラスにおいては，下記の用語または表現は以下に示す意味で用いる：<br>―“水”は他の液体を含み，かつ常に加熱される液体を意味する；［３］<br>―“空気”は他の気体または混合気体を含み，かつ常に加熱される気体を意味する；［３］<br>―“炉管”は加熱器の内側にある管であって該管内で燃焼が行われるものを意味する；［３］<br>―“煙管”は加熱器の内側にある管であって煙道ガスが該管の外側に位置する燃焼室から該管を通って流れるものを意味する；［３］<br>―“加熱器”は，熱発生手段および発生した熱を水または空気に伝達する手段とを共に含んだ装置を意味する。［３］<br>（３）すべての蓄熱式加熱器はグループ７／００に分類される。［３］<br><br><b><ul>サブクラス内の索引</ul></b><br>水加熱器　Ｆ２４Ｈ１／００<br>空気加熱器　Ｆ２４Ｈ３／００<br>ヒートポンプを使用する流体加熱器　Ｆ２４Ｈ４／００<br>水加熱器と空気加熱器の結合　Ｆ２４Ｈ６／００<br>蓄熱加熱器　Ｆ２４Ｈ７／００<br>煙道ガスから潜熱を抽出する流体加熱器　Ｆ２４Ｈ８／００<br>細部　Ｆ２４Ｈ９／００<br>制御　Ｆ２４Ｈ１５／００",
+      "en": "FLUID HEATERS, e.g. WATER OR AIR HEATERS, HAVING HEAT-GENERATING MEANS, e.g. HEAT PUMPS, IN GENERAL (steam generation <b>F22</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>The distinguishing feature of the air heaters covered by this subclass is that the heat is predominantly released to the air by convection, mostly by forced circulation of the air. The domestic stoves or ranges covered by subclass <b>F24B</b>, <b>F24C</b> may also be fired or electric air heaters but they release their heat to a considerable extent by radiation and only to some extent by natural convention. </li><li>In this subclass, the following terms or expressions are used with the meanings indicated:<ul><li>\"water\" includes other liquids and means always the liquid to be heated; </li><li>\"air\" includes other gases or gas mixtures and means always the gas to be heated; </li><li>\"furnace tubes\" means tubes inside the heater wherein combustion is performed; </li><li>\"fire tubes\" means tubes inside the heater through which flue-gases flow from a combustion chamber located outside the tubes; </li><li>\"heater\" means apparatus including both heat generating means and means for transferring the generated heat to water or air. </li></ul></li><li>All storage heaters are classified in group <b>F24H7/00</b>. </li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">WATER HEATERS</td><td><b><b>1/00</b></b></td></tr></tr><tr><td width=\"70%\">AIR HEATERS</td><td><b><b>3/00</b></b></td></tr></tr><tr><td width=\"70%\">FLUID HEATERS USING HEAT PUMPS</td><td><b><b>4/00</b></b></td></tr></tr><tr><td width=\"70%\">COMBINED WATER AND AIR HEATERS</td><td><b><b>6/00</b></b></td></tr></tr><tr><td width=\"70%\">STORAGE HEATERS</td><td><b><b>7/00</b></b></td></tr></tr><tr><td width=\"70%\">FLUID HEATERS FOR EXTRACTING LATENT HEAT FROM FLUE GASES</td><td><b><b>8/00</b></b></td></tr></tr><tr><td width=\"70%\">DETAILS</td><td><b><b>9/00</b></b></td></tr></tr><tr><td width=\"70%\">CONTROL</td><td><b><b>15/00</b></b></td></tr></tr></table>",
+      "count": 1945,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F24": {
+      "code": "F24",
+      "level": 0,
+      "parent": "F",
+      "ja": "加熱；レンジ；換気<br><br><b><ul>注</ul></b><br>このクラスにおいては，下記の用語は以下に示す意味で用いる：<br>―“ストーブ”は開放式炉，例．暖炉，を持つような装置を包含する；<br>―“レンジ”は種々の調理操作または調理と加熱操作をする要素をもった調理装置を意味する。",
+      "en": "HEATING; RANGES; VENTILATING; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this class, the following terms are used with the meanings indicated:<ul><li>\"stove\" includes apparatus which may have an open fire, e.g. fireplace;</li><li>\"range\" means an apparatus for cooking having elements that perform different cooking operations or cooking and heating operations.</li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F": {
+      "code": "F",
+      "level": 0,
+      "parent": null,
+      "ja": "機械工学；照明；加熱；武器；爆破",
+      "en": "MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F24H1/00": {
+      "code": "F24H1/00",
+      "level": 0,
+      "parent": "F24H",
+      "ja": "水加熱器，例．ボイラ，連続フロー式加熱器または貯湯式加熱器（蒸気ボイラＦ２２Ｂ）［２０２２．０１］",
+      "en": "Water heaters, e.g. boilers, continuous-flow heaters or water-storage heaters (steam boilers <b>F22B</b>)",
+      "count": 33059,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H1/06": {
+      "code": "F24H1/06",
+      "level": 1,
+      "parent": "F24H1/00",
+      "ja": "持ち運び可能または移動可能，例．折り畳み可能，なもの［２０２２．０１］",
+      "en": "Portable or mobile, e.g. collapsible",
+      "count": 1397,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H1/08": {
+      "code": "F24H1/08",
+      "level": 1,
+      "parent": "F24H1/00",
+      "ja": "パッケージ化されたまたは自納式のボイラ，すなわち単一の構成ユニットの中に制御装置およびポンプをもった水加熱器［２０２２．０１］",
+      "en": "Packaged or self-contained boilers, i.e. water heaters with control devices and pump in a single unit",
+      "count": 1277,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H1/10": {
+      "code": "F24H1/10",
+      "level": 1,
+      "parent": "F24H1/00",
+      "ja": "連続フロー式加熱器，すなわち水が流れている間のみ熱が発生される加熱器，例．熱媒体と水が直接に接触するもの［２０２２．０１］",
+      "en": "Continuous-flow heaters, i.e. heaters in which heat is generated only while the water is flowing, e.g. with direct contact of the water with the heating medium",
+      "count": 19250,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H1/12": {
+      "code": "F24H1/12",
+      "level": 2,
+      "parent": "F24H1/10",
+      "ja": "その中で水が熱媒体と別個に保持されているもの［２０２２．０１］",
+      "en": "in which the water is kept separate from the heating medium",
+      "count": 3917,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H1/14": {
+      "code": "F24H1/14",
+      "level": 3,
+      "parent": "F24H1/12",
+      "ja": "管，例．蛇行した形に曲げられている管，によるもの［２０２２．０１］",
+      "en": "by tubes, e.g. bent in serpentine form",
+      "count": 6926,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H1/16": {
+      "code": "F24H1/16",
+      "level": 4,
+      "parent": "F24H1/14",
+      "ja": "ら旋状または渦状に巻かれているもの［２０２２．０１］",
+      "en": "helically or spirally coiled",
+      "count": 2812,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H1/18": {
+      "code": "F24H1/18",
+      "level": 1,
+      "parent": "F24H1/00",
+      "ja": "貯湯式加熱器［２０２２．０１］",
+      "en": "Water-storage heaters",
+      "count": 22437,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H1/20": {
+      "code": "F24H1/20",
+      "level": 2,
+      "parent": "F24H1/18",
+      "ja": "水の中に浸された加熱要素，例．電気要素または炉管，をもつもの［２０２２．０１］",
+      "en": "with immersed heating elements, e.g. electric elements or furnace tubes",
+      "count": 18498,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H1/22": {
+      "code": "F24H1/22",
+      "level": 1,
+      "parent": "F24H1/00",
+      "ja": "連続フロー式または貯湯式加熱器以外の水加熱器，例．中央暖房用水加熱器［２０２２．０１］",
+      "en": "Water heaters other than continuous-flow or water-storage heaters, e.g. water heaters for central heating",
+      "count": 5385,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H1/24": {
+      "code": "F24H1/24",
+      "level": 2,
+      "parent": "F24H1/22",
+      "ja": "燃焼室または室の周囲に水の囲いをもつもの［２０２２．０１］",
+      "en": "with water mantle surrounding the combustion chamber or chambers",
+      "count": 2471,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H1/26": {
+      "code": "F24H1/26",
+      "level": 3,
+      "parent": "F24H1/24",
+      "ja": "その水の囲いが一体化された形をなすもの［２０２２．０１］",
+      "en": "the water mantle forming an integral body",
+      "count": 1767,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H1/28": {
+      "code": "F24H1/28",
+      "level": 4,
+      "parent": "F24H1/26",
+      "ja": "１以上の炉管または煙管を含むもの［２０２２．０１］",
+      "en": "including one or more furnace or fire tubes",
+      "count": 3024,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H1/30": {
+      "code": "F24H1/30",
+      "level": 3,
+      "parent": "F24H1/24",
+      "ja": "その水の囲いが部品から組み上げられているもの［２０２２．０１］",
+      "en": "the water mantle being built-up from sections",
+      "count": 528,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H1/32": {
+      "code": "F24H1/32",
+      "level": 4,
+      "parent": "F24H1/30",
+      "ja": "横方向に隣り合う垂直部品をもつもの［２０２２．０１］",
+      "en": "with vertical sections arranged side by side",
+      "count": 1222,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H1/34": {
+      "code": "F24H1/34",
+      "level": 2,
+      "parent": "F24H1/22",
+      "ja": "燃焼室または室に隣接して，例．上部または側方に，配置された水室をもつもの［２０２２．０１］",
+      "en": "with water chamber arranged adjacent to the combustion chamber or chambers, e.g. above or at side",
+      "count": 2112,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H1/36": {
+      "code": "F24H1/36",
+      "level": 3,
+      "parent": "F24H1/34",
+      "ja": "水室が１つまたはそれ以上の煙管を含んでいるもの［２０２２．０１］",
+      "en": "the water chamber including one or more fire tubes",
+      "count": 1526,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H1/38": {
+      "code": "F24H1/38",
+      "level": 2,
+      "parent": "F24H1/22",
+      "ja": "分割された要素，例．放熱器形要素，の中に入れられている水をもつもの［２０２２．０１］",
+      "en": "with water contained in separate elements, e.g. radiator-type element",
+      "count": 745,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H1/40": {
+      "code": "F24H1/40",
+      "level": 2,
+      "parent": "F24H1/22",
+      "ja": "水管または水管群をもつもの［２０２２．０１］",
+      "en": "with water tube or tubes",
+      "count": 3112,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H1/41": {
+      "code": "F24H1/41",
+      "level": 3,
+      "parent": "F24H1/40",
+      "ja": "蛇行した形状のもの［２０２２．０１］",
+      "en": "in serpentine form ",
+      "count": 434,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H1/43": {
+      "code": "F24H1/43",
+      "level": 3,
+      "parent": "F24H1/40",
+      "ja": "ら旋状または渦状に巻かれているもの［２０２２．０１］",
+      "en": "helically or spirally coiled",
+      "count": 1298,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H1/44": {
+      "code": "F24H1/44",
+      "level": 2,
+      "parent": "F24H1/22",
+      "ja": "グループＦ２４Ｈ１／２４－Ｆ２４Ｈ１／４０に包含される形式の２以上の組合せをもつもの［２０２２．０１］",
+      "en": "with combinations of two or more of the types covered by groups <b>F24H1/24 to F24H1/40</b> ",
+      "count": 3765,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H1/46": {
+      "code": "F24H1/46",
+      "level": 1,
+      "parent": "F24H1/00",
+      "ja": "複数の燃焼室をもつ水加熱器［２０２２．０１］",
+      "en": "Water heaters having plural combustion chambers",
+      "count": 1989,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H1/48": {
+      "code": "F24H1/48",
+      "level": 1,
+      "parent": "F24H1/00",
+      "ja": "家庭用水用加熱器を組み入れた中央暖房用の水加熱器［２０２２．０１］",
+      "en": "Water heaters for central heating incorporating heaters for domestic water",
+      "count": 961,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H1/50": {
+      "code": "F24H1/50",
+      "level": 2,
+      "parent": "F24H1/48",
+      "ja": "家庭用水タンクを組み入れたもの［２０２２．０１］",
+      "en": "incorporating domestic water tanks",
+      "count": 1089,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H1/52": {
+      "code": "F24H1/52",
+      "level": 2,
+      "parent": "F24H1/48",
+      "ja": "家庭用水のための熱交換器を組み入れたもの［２０２２．０１］",
+      "en": "incorporating heat exchangers for domestic water(<b>F24H1/50</b> takes precedence)",
+      "count": 1271,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H1/54": {
+      "code": "F24H1/54",
+      "level": 1,
+      "parent": "F24H1/00",
+      "ja": "浴槽用またはプール用の水加熱器；浴槽またはプールの中の水を再加熱するための水加熱器［２０２２．０１］",
+      "en": "Water heaters for bathtubs or pools; Water heaters for reheating the water in bathtubs or pools",
+      "count": 252,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H3/00": {
+      "code": "F24H3/00",
+      "level": 0,
+      "parent": "F24H",
+      "ja": "空気加熱器［２０２２．０１］",
+      "en": "Air heaters",
+      "count": 9313,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H3/02": {
+      "code": "F24H3/02",
+      "level": 1,
+      "parent": "F24H3/00",
+      "ja": "強制循環によるもの［２０２２．０１］",
+      "en": "with forced circulation",
+      "count": 5714,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H3/04": {
+      "code": "F24H3/04",
+      "level": 2,
+      "parent": "F24H3/02",
+      "ja": "空気が熱媒介物，例．電気加熱要素，と直接に接触するもの［２０２２．０１］",
+      "en": "the air being in direct contact with the heating medium, e.g. electric heating element",
+      "count": 19008,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H3/06": {
+      "code": "F24H3/06",
+      "level": 2,
+      "parent": "F24H3/02",
+      "ja": "空気が熱媒介物と分離された状態にされているもの，例．放熱器面に沿って強制循環された空気を使用するもの［２０２２．０１］",
+      "en": "the air being kept separate from the heating medium, e.g. using forced circulation of air over radiators",
+      "count": 6217,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H3/08": {
+      "code": "F24H3/08",
+      "level": 3,
+      "parent": "F24H3/06",
+      "ja": "管によるもの［２０２２．０１］",
+      "en": "by tubes",
+      "count": 3966,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H3/10": {
+      "code": "F24H3/10",
+      "level": 3,
+      "parent": "F24H3/06",
+      "ja": "プレートによるもの［２０２２．０１］",
+      "en": "by plates",
+      "count": 674,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H3/12": {
+      "code": "F24H3/12",
+      "level": 1,
+      "parent": "F24H3/00",
+      "ja": "付加的加熱装置をもつもの［２０２２．０１］",
+      "en": "with additional heating arrangements",
+      "count": 516,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H4/00": {
+      "code": "F24H4/00",
+      "level": 0,
+      "parent": "F24H",
+      "ja": "ヒートポンプの使用に特徴のある流体加熱器［２００６．０１］",
+      "en": "Fluid heaters characterised by the use of heat pumps",
+      "count": 583,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H4/02": {
+      "code": "F24H4/02",
+      "level": 1,
+      "parent": "F24H4/00",
+      "ja": "水加熱器［２０２２．０１］",
+      "en": "Water heaters",
+      "count": 10796,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H4/04": {
+      "code": "F24H4/04",
+      "level": 2,
+      "parent": "F24H4/02",
+      "ja": "蓄熱式加熱器［５］",
+      "en": "Storage heaters",
+      "count": 3820,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H4/06": {
+      "code": "F24H4/06",
+      "level": 1,
+      "parent": "F24H4/00",
+      "ja": "空気加熱器［２００６．０１］",
+      "en": "Air heaters",
+      "count": 738,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H6/00": {
+      "code": "F24H6/00",
+      "level": 0,
+      "parent": "F24H",
+      "ja": "水加熱器と空気加熱器の結合［２０２２．０１］",
+      "en": "Combined water and air heaters",
+      "count": 1819,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H7/00": {
+      "code": "F24H7/00",
+      "level": 0,
+      "parent": "F24H",
+      "ja": "蓄熱式加熱器，すなわち，エネルギーが引き続いての放出のために熱として塊体の中に蓄えられる加熱器［２０２２．０１］",
+      "en": "Storage heaters, i.e. heaters in which the energy is stored as heat in masses for subsequent release",
+      "count": 5271,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H7/02": {
+      "code": "F24H7/02",
+      "level": 1,
+      "parent": "F24H7/00",
+      "ja": "放出された熱が輸送流体に伝達されるもの［２０２２．０１］",
+      "en": "the released heat being conveyed to a transfer fluid",
+      "count": 7323,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H7/04": {
+      "code": "F24H7/04",
+      "level": 2,
+      "parent": "F24H7/02",
+      "ja": "伝達流体の強制循環によるもの",
+      "en": "with forced circulation of the transfer fluid",
+      "count": 2959,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H7/06": {
+      "code": "F24H7/06",
+      "level": 1,
+      "parent": "F24H7/00",
+      "ja": "その放出される熱が輻射されているもの",
+      "en": "the released heat being radiated",
+      "count": 304,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H8/00": {
+      "code": "F24H8/00",
+      "level": 0,
+      "parent": "F24H",
+      "ja": "凝縮により煙道ガスから潜熱を抽出する手段に特徴のある流体加熱器［２０２２．０１］",
+      "en": "Fluid heaters characterised by means for extracting latent heat from flue gases by means of condensation",
+      "count": 5065,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H9/00": {
+      "code": "F24H9/00",
+      "level": 0,
+      "parent": "F24H",
+      "ja": "細部［２０２２．０１］",
+      "en": "Details",
+      "count": 59994,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H9/02": {
+      "code": "F24H9/02",
+      "level": 1,
+      "parent": "F24H9/00",
+      "ja": "ケーシング；おおいをするふた；装飾パネル［２００６．０１］",
+      "en": "Casings; Cover lids; Ornamental panels",
+      "count": 15125,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H9/06": {
+      "code": "F24H9/06",
+      "level": 1,
+      "parent": "F24H9/00",
+      "ja": "据え付け具または支持具の配置［２００６．０１］",
+      "en": "Arrangement of mountings or supports",
+      "count": 9063,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H9/12": {
+      "code": "F24H9/12",
+      "level": 1,
+      "parent": "F24H9/00",
+      "ja": "加熱器を循環パイプへ結合するための装置［２０２２．０１］",
+      "en": "Arrangements for connecting heaters to circulation pipes",
+      "count": 8025,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H9/13": {
+      "code": "F24H9/13",
+      "level": 2,
+      "parent": "F24H9/12",
+      "ja": "水加熱器のためのもの［２０２２．０１］",
+      "en": "for water heaters",
+      "count": 2147,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H9/14": {
+      "code": "F24H9/14",
+      "level": 1,
+      "parent": "F24H9/00",
+      "ja": "異なった部分，例．水加熱器内の異なった部分，の接続のための装置（加熱器を循環パイプへ結合するための装置Ｆ２８Ｆ９／１２）［２００６．０１］",
+      "en": "Arrangements for connecting different sections, e.g. in water heaters  (arrangements for connecting heaters to circulation pipes <b>F24H9/12</b>)",
+      "count": 4120,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H9/16": {
+      "code": "F24H9/16",
+      "level": 1,
+      "parent": "F24H9/00",
+      "ja": "排水のための装置［２０２２．０１］",
+      "en": "Arrangements for water drainage",
+      "count": 5272,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H9/17": {
+      "code": "F24H9/17",
+      "level": 2,
+      "parent": "F24H9/16",
+      "ja": "加熱器から漏出した水を留めておくための手段［２０２２．０１］",
+      "en": "Means for retaining water leaked from heaters",
+      "count": 216,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H9/18": {
+      "code": "F24H9/18",
+      "level": 1,
+      "parent": "F24H9/00",
+      "ja": "火格子または加熱手段の配置またはすえ付け［２０２２．０１］",
+      "en": "Arrangement or mounting of grates or heating means",
+      "count": 37005,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H9/1809": {
+      "code": "F24H9/1809",
+      "level": 2,
+      "parent": "F24H9/18",
+      "ja": "水加熱器のためのもの［２０２２．０１］",
+      "en": "for water heaters",
+      "count": 1856,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H9/1818": {
+      "code": "F24H9/1818",
+      "level": 3,
+      "parent": "F24H9/1809",
+      "ja": "電気加熱手段の配置またはすえ付け［２０２２．０１］",
+      "en": "Arrangement or mounting of electric heating means",
+      "count": 7554,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H9/1832": {
+      "code": "F24H9/1832",
+      "level": 3,
+      "parent": "F24H9/1809",
+      "ja": "燃焼加熱手段，例．火格子またはバーナー，の配置またはすえ付け［２０２２．０１］",
+      "en": "Arrangement or mounting of combustion heating means, e.g. grates or burners",
+      "count": 326,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H9/1836": {
+      "code": "F24H9/1836",
+      "level": 4,
+      "parent": "F24H9/1832",
+      "ja": "流体燃料を使用するもの［２０２２．０１］",
+      "en": "using fluid fuel",
+      "count": 2968,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H9/1845": {
+      "code": "F24H9/1845",
+      "level": 4,
+      "parent": "F24H9/1832",
+      "ja": "固体燃料を使用するもの［２０２２．０１］",
+      "en": "using solid fuel",
+      "count": 366,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H9/1854": {
+      "code": "F24H9/1854",
+      "level": 2,
+      "parent": "F24H9/18",
+      "ja": "空気加熱器のためのもの［２０２２．０１］",
+      "en": "for air heaters",
+      "count": 507,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H9/1863": {
+      "code": "F24H9/1863",
+      "level": 3,
+      "parent": "F24H9/1854",
+      "ja": "電気加熱手段の配置またはすえ付け［２０２２．０１］",
+      "en": "Arrangement or mounting of electric heating means",
+      "count": 2828,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H9/1877": {
+      "code": "F24H9/1877",
+      "level": 3,
+      "parent": "F24H9/1854",
+      "ja": "燃焼加熱手段，例．火格子またはバーナー，の配置またはすえ付け［２０２２．０１］",
+      "en": "Arrangement or mounting of combustion heating means, e.g. grates or burners",
+      "count": 111,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H9/1881": {
+      "code": "F24H9/1881",
+      "level": 4,
+      "parent": "F24H9/1877",
+      "ja": "流体燃料を使用するもの［２０２２．０１］",
+      "en": "using fluid fuel",
+      "count": 404,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H9/189": {
+      "code": "F24H9/189",
+      "level": 4,
+      "parent": "F24H9/1877",
+      "ja": "固体燃料を使用するもの［２０２２．０１］",
+      "en": "using solid fuel",
+      "count": 238,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H9/20": {
+      "code": "F24H9/20",
+      "level": 1,
+      "parent": "F24H9/00",
+      "ja": "制御または安全装置の配置または据え付け［２０２２．０１］",
+      "en": "Arrangement or mounting of control or safety devices",
+      "count": 66068,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H9/25": {
+      "code": "F24H9/25",
+      "level": 2,
+      "parent": "F24H9/20",
+      "ja": "遠隔制御装置または制御パネルのもの［２０２２．０１］",
+      "en": "of remote control devices or control-panels",
+      "count": 949,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H9/28": {
+      "code": "F24H9/28",
+      "level": 3,
+      "parent": "F24H9/25",
+      "ja": "グラフィカルユーザインタフェース［ＧＵＩ］に特徴のあるもの［２０２２．０１］",
+      "en": "characterised by the graphical user interface [GUI]",
+      "count": 148,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H9/40": {
+      "code": "F24H9/40",
+      "level": 1,
+      "parent": "F24H9/00",
+      "ja": "腐食を防止するための装置［２０２２．０１］",
+      "en": "Arrangements for preventing corrosion",
+      "count": 231,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H9/45": {
+      "code": "F24H9/45",
+      "level": 2,
+      "parent": "F24H9/40",
+      "ja": "ガルバニック腐食を防ぐためのもの，例．陰極または電解手段［２０２２．０１］",
+      "en": "for preventing galvanic corrosion, e.g. cathodic or electrolytic means",
+      "count": 229,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/00": {
+      "code": "F24H15/00",
+      "level": 0,
+      "parent": "F24H",
+      "ja": "流体加熱器の制御［２０２２．０１］",
+      "en": "Control of fluid heaters",
+      "count": 134,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/10": {
+      "code": "F24H15/10",
+      "level": 1,
+      "parent": "F24H15/00",
+      "ja": "制御の目的に特徴のあるもの［２０２２．０１］",
+      "en": "characterised by the purpose of the control",
+      "count": 576,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/104": {
+      "code": "F24H15/104",
+      "level": 2,
+      "parent": "F24H15/10",
+      "ja": "調査；診断；試験運転［２０２２．０１］",
+      "en": "Inspection; Diagnosis; Trial operation",
+      "count": 478,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/108": {
+      "code": "F24H15/108",
+      "level": 2,
+      "parent": "F24H15/10",
+      "ja": "運転の再開，例．停電後に［２０２２．０１］",
+      "en": "Resuming operation, e.g. after power outages",
+      "count": 34,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/112": {
+      "code": "F24H15/112",
+      "level": 2,
+      "parent": "F24H15/10",
+      "ja": "煙道の閉塞の防止または検出［２０２２．０１］",
+      "en": "Preventing or detecting blocked flues",
+      "count": 57,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/116": {
+      "code": "F24H15/116",
+      "level": 3,
+      "parent": "F24H15/112",
+      "ja": "それに応答して加熱手段を使用不能にすること［２０２２．０１］",
+      "en": "Disabling the heating means in response thereto",
+      "count": 4,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/12": {
+      "code": "F24H15/12",
+      "level": 2,
+      "parent": "F24H15/10",
+      "ja": "流体漏洩の防止または検出［２０２２．０１］",
+      "en": "Preventing or detecting fluid leakage",
+      "count": 443,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/124": {
+      "code": "F24H15/124",
+      "level": 2,
+      "parent": "F24H15/10",
+      "ja": "電気的異常，例．漏電，の防止または検出［２０２２．０１］",
+      "en": "Preventing or detecting electric faults, e.g. electric leakage",
+      "count": 661,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/128": {
+      "code": "F24H15/128",
+      "level": 2,
+      "parent": "F24H15/10",
+      "ja": "過熱の防止［２０２２．０１］",
+      "en": "Preventing overheating",
+      "count": 450,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/132": {
+      "code": "F24H15/132",
+      "level": 3,
+      "parent": "F24H15/128",
+      "ja": "水位が低い状態での水加熱器の運転，例．空焚き，の防止［２０２２．０１］",
+      "en": "Preventing the operation of water heaters with low water levels, e.g. dry-firing",
+      "count": 469,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/136": {
+      "code": "F24H15/136",
+      "level": 2,
+      "parent": "F24H15/10",
+      "ja": "除霜または除氷；凍結の防止［２０２２．０１］",
+      "en": "Defrosting or de-icing; Preventing freezing",
+      "count": 518,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/14": {
+      "code": "F24H15/14",
+      "level": 2,
+      "parent": "F24H15/10",
+      "ja": "清掃；殺菌；バクテリアまたは微生物による汚染の，例．タンクまたは導管内の流体を入れ替えることによる，防止［２０２２．０１］",
+      "en": "Cleaning; Sterilising; Preventing contamination by bacteria or microorganisms, e.g. by replacing fluid in tanks or conduits",
+      "count": 747,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/144": {
+      "code": "F24H15/144",
+      "level": 2,
+      "parent": "F24H15/10",
+      "ja": "エネルギー消費の測定または計算［２０２２．０１］",
+      "en": "Measuring or calculating energy consumption",
+      "count": 72,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/148": {
+      "code": "F24H15/148",
+      "level": 3,
+      "parent": "F24H15/144",
+      "ja": "現在のエネルギー消費の評価［２０２２．０１］",
+      "en": "Assessing the current energy consumption",
+      "count": 46,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/152": {
+      "code": "F24H15/152",
+      "level": 3,
+      "parent": "F24H15/144",
+      "ja": "将来のエネルギー消費の予測［２０２２．０１］",
+      "en": "Forecasting future energy consumption",
+      "count": 51,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/156": {
+      "code": "F24H15/156",
+      "level": 2,
+      "parent": "F24H15/10",
+      "ja": "消費されるエネルギー量の削減；エネルギー効率の向上［２０２２．０１］",
+      "en": "Reducing the quantity of energy consumed; Increasing efficiency",
+      "count": 718,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/16": {
+      "code": "F24H15/16",
+      "level": 2,
+      "parent": "F24H15/10",
+      "ja": "エネルギー料金を用いてのコストの削減，例．複数のエネルギー源の中からの選択または切替［２０２２．０１］",
+      "en": "Reducing cost using the price of energy, e.g. choosing or switching between different energy sources",
+      "count": 105,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/164": {
+      "code": "F24H15/164",
+      "level": 3,
+      "parent": "F24H15/16",
+      "ja": "電気供給の価格が時刻に応じて変化する状況におけるもの［２０２２．０１］",
+      "en": "where the price of the electric supply changes with time",
+      "count": 83,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/168": {
+      "code": "F24H15/168",
+      "level": 2,
+      "parent": "F24H15/10",
+      "ja": "電力需要のピークの軽減［２０２２．０１］",
+      "en": "Reducing the electric power demand peak",
+      "count": 89,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/172": {
+      "code": "F24H15/172",
+      "level": 2,
+      "parent": "F24H15/10",
+      "ja": "利用者の需要に応じたスケジューリング，例．加熱開始時刻の決定［２０２２．０１］",
+      "en": "Scheduling based on user demand, e.g. determining starting point of heating",
+      "count": 217,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/174": {
+      "code": "F24H15/174",
+      "level": 2,
+      "parent": "F24H15/10",
+      "ja": "望み通りの温度または望み通りの温度の幅での加熱された水の供給［２０２２．０１］",
+      "en": "Supplying heated water with desired temperature or desired range of temperature",
+      "count": 827,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/175": {
+      "code": "F24H15/175",
+      "level": 3,
+      "parent": "F24H15/174",
+      "ja": "測定温度と設定温度との差を，あらかじめ定められた値より低く抑えるもの［２０２２．０１］",
+      "en": "where the difference between the measured temperature and a set temperature is kept under a predetermined value",
+      "count": 129,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/176": {
+      "code": "F24H15/176",
+      "level": 2,
+      "parent": "F24H15/10",
+      "ja": "利用者の快適さの増進または維持［２０２２．０１］",
+      "en": "Improving or maintaining comfort of users",
+      "count": 296,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/18": {
+      "code": "F24H15/18",
+      "level": 3,
+      "parent": "F24H15/176",
+      "ja": "流体温度の突然のまたは不測の変化の防止［２０２２．０１］",
+      "en": "Preventing sudden or unintentional change of fluid temperature",
+      "count": 198,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/184": {
+      "code": "F24H15/184",
+      "level": 2,
+      "parent": "F24H15/10",
+      "ja": "利用者が加熱された水に曝されることにより危害を受けること，例．火傷，の防止［２０２２．０１］",
+      "en": "Preventing harm to users from exposure to heated water, e.g. scalding",
+      "count": 214,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/196": {
+      "code": "F24H15/196",
+      "level": 2,
+      "parent": "F24H15/10",
+      "ja": "浴槽またはプールへの自動的な充填；浴槽またはプールの中の水の再加熱［２０２２．０１］",
+      "en": "Automatically filling bathtubs or pools; Reheating the water in bathtubs or pools",
+      "count": 464,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/20": {
+      "code": "F24H15/20",
+      "level": 1,
+      "parent": "F24H15/00",
+      "ja": "制御のインプットに特徴のあるもの［２０２２．０１］",
+      "en": "characterised by control inputs",
+      "count": 430,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/204": {
+      "code": "F24H15/204",
+      "level": 2,
+      "parent": "F24H15/20",
+      "ja": "加熱前の空気の温度［２０２２．０１］",
+      "en": "Temperature of the air before heating ",
+      "count": 100,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/208": {
+      "code": "F24H15/208",
+      "level": 2,
+      "parent": "F24H15/20",
+      "ja": "加熱後の空気の温度［２０２２．０１］",
+      "en": "Temperature of the air after heating",
+      "count": 469,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/212": {
+      "code": "F24H15/212",
+      "level": 2,
+      "parent": "F24H15/20",
+      "ja": "水の温度［２０２２．０１］",
+      "en": "Temperature of the water",
+      "count": 1319,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/215": {
+      "code": "F24H15/215",
+      "level": 3,
+      "parent": "F24H15/212",
+      "ja": "加熱前の水の温度［２０２２．０１］",
+      "en": "before heating",
+      "count": 983,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/219": {
+      "code": "F24H15/219",
+      "level": 3,
+      "parent": "F24H15/212",
+      "ja": "加熱後の水の温度［２０２２．０１］",
+      "en": "after heating",
+      "count": 2274,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/223": {
+      "code": "F24H15/223",
+      "level": 3,
+      "parent": "F24H15/212",
+      "ja": "貯湯タンクの中における水の温度［２０２２．０１］",
+      "en": "in the water storage tank",
+      "count": 1883,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/225": {
+      "code": "F24H15/225",
+      "level": 4,
+      "parent": "F24H15/223",
+      "ja": "タンクの異なる高さにおける水の温度［２０２２．０１］",
+      "en": "at different heights of the tank",
+      "count": 206,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/227": {
+      "code": "F24H15/227",
+      "level": 2,
+      "parent": "F24H15/20",
+      "ja": "ヒートポンプサイクル内の冷媒の温度［２０２２．０１］",
+      "en": "Temperature of the refrigerant in heat pump cycles",
+      "count": 42,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/231": {
+      "code": "F24H15/231",
+      "level": 3,
+      "parent": "F24H15/227",
+      "ja": "蒸発器における冷媒の温度［２０２２．０１］",
+      "en": "at the evaporator",
+      "count": 31,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/232": {
+      "code": "F24H15/232",
+      "level": 3,
+      "parent": "F24H15/227",
+      "ja": "凝縮器における冷媒の温度［２０２２．０１］",
+      "en": "at the condenser ",
+      "count": 16,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/235": {
+      "code": "F24H15/235",
+      "level": 2,
+      "parent": "F24H15/20",
+      "ja": "排ガスの温度［２０２２．０１］",
+      "en": "Temperature of exhaust gases",
+      "count": 73,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/238": {
+      "code": "F24H15/238",
+      "level": 2,
+      "parent": "F24H15/20",
+      "ja": "流量［２０２２．０１］",
+      "en": "Flow rate",
+      "count": 1801,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/242": {
+      "code": "F24H15/242",
+      "level": 2,
+      "parent": "F24H15/20",
+      "ja": "圧力［２０２２．０１］",
+      "en": "Pressure",
+      "count": 1039,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/246": {
+      "code": "F24H15/246",
+      "level": 2,
+      "parent": "F24H15/20",
+      "ja": "水位［２０２２．０１］",
+      "en": "Water level ",
+      "count": 550,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/248": {
+      "code": "F24H15/248",
+      "level": 3,
+      "parent": "F24H15/246",
+      "ja": "貯湯タンクにおける水位［２０２２．０１］",
+      "en": "of water storage tanks",
+      "count": 756,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/25": {
+      "code": "F24H15/25",
+      "level": 2,
+      "parent": "F24H15/20",
+      "ja": "加熱器内の熱発生手段の温度［２０２２．０１］",
+      "en": "Temperature of the heat-generating means in the heater ",
+      "count": 240,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/254": {
+      "code": "F24H15/254",
+      "level": 2,
+      "parent": "F24H15/20",
+      "ja": "室温［２０２２．０１］",
+      "en": "Room temperature",
+      "count": 386,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/258": {
+      "code": "F24H15/258",
+      "level": 2,
+      "parent": "F24H15/20",
+      "ja": "外気温［２０２２．０１］",
+      "en": "Outdoor temperature",
+      "count": 265,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/262": {
+      "code": "F24H15/262",
+      "level": 2,
+      "parent": "F24H15/20",
+      "ja": "気象情報または天気予報［２０２２．０１］",
+      "en": "Weather information or forecast",
+      "count": 112,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/265": {
+      "code": "F24H15/265",
+      "level": 2,
+      "parent": "F24H15/20",
+      "ja": "人の存在［２０２２．０１］",
+      "en": "Occupancy",
+      "count": 163,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/269": {
+      "code": "F24H15/269",
+      "level": 2,
+      "parent": "F24H15/20",
+      "ja": "時間，例．時刻または日付［２０２２．０１］",
+      "en": "Time, e.g. hour or date",
+      "count": 621,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/273": {
+      "code": "F24H15/273",
+      "level": 2,
+      "parent": "F24H15/20",
+      "ja": "住所または場所［２０２２．０１］",
+      "en": "Address or location",
+      "count": 48,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/277": {
+      "code": "F24H15/277",
+      "level": 2,
+      "parent": "F24H15/20",
+      "ja": "価格［２０２２．０１］",
+      "en": "Price",
+      "count": 35,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/281": {
+      "code": "F24H15/281",
+      "level": 2,
+      "parent": "F24H15/20",
+      "ja": "利用者からの情報［２０２２．０１］",
+      "en": "Input from user",
+      "count": 351,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/288": {
+      "code": "F24H15/288",
+      "level": 2,
+      "parent": "F24H15/20",
+      "ja": "付着物，例．ライムまたはスケール，の蓄積［２０２２．０１］",
+      "en": "Accumulation of deposits, e.g. lime or scale",
+      "count": 86,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/292": {
+      "code": "F24H15/292",
+      "level": 2,
+      "parent": "F24H15/20",
+      "ja": "送電網に販売された電力の測定値［２０２２．０１］",
+      "en": "Metering of electricity sold to the grid",
+      "count": 9,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/296": {
+      "code": "F24H15/296",
+      "level": 2,
+      "parent": "F24H15/20",
+      "ja": "隣設装置からの情報［２０２２．０１］",
+      "en": "Information from neighbouring devices",
+      "count": 102,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/30": {
+      "code": "F24H15/30",
+      "level": 1,
+      "parent": "F24H15/00",
+      "ja": "制御のアウトプットに特徴のあるもの；制御される構成要素に特徴のあるもの［２０２２．０１］",
+      "en": "characterised by control outputs; characterised by the components to be controlled",
+      "count": 227,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/305": {
+      "code": "F24H15/305",
+      "level": 2,
+      "parent": "F24H15/30",
+      "ja": "弁の制御（ヒートポンプＦ２４Ｈ１５／３８５，Ｆ２４Ｈ１５／３９）［２０２２．０１］",
+      "en": "Control of valves(of heat pumps <b>F24H15/385</b>, <b>F24H15/39</b>)",
+      "count": 3888,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/31": {
+      "code": "F24H15/31",
+      "level": 3,
+      "parent": "F24H15/305",
+      "ja": "入口ポ－ト及び出口ポ－トを各々１個のみ有する弁，例．流量制御弁，の制御［２０２２．０１］",
+      "en": "of valves having only one inlet port and one outlet port, e.g. flow rate regulating valves",
+      "count": 424,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/315": {
+      "code": "F24H15/315",
+      "level": 3,
+      "parent": "F24H15/305",
+      "ja": "混合弁の制御［２０２２．０１］",
+      "en": "of mixing valves",
+      "count": 347,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/32": {
+      "code": "F24H15/32",
+      "level": 3,
+      "parent": "F24H15/305",
+      "ja": "切換弁の制御（バイパス弁の制御Ｆ２４Ｈ１５／３２５）［２０２２．０１］",
+      "en": "of switching valves (for by-passing <b>F24H15/325</b>)",
+      "count": 202,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/325": {
+      "code": "F24H15/325",
+      "level": 3,
+      "parent": "F24H15/305",
+      "ja": "バイパス弁の制御［２０２２．０１］",
+      "en": "of by-pass valves",
+      "count": 196,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/33": {
+      "code": "F24H15/33",
+      "level": 2,
+      "parent": "F24H15/30",
+      "ja": "ダンパの制御［２０２２．０１］",
+      "en": "Control of dampers",
+      "count": 89,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/335": {
+      "code": "F24H15/335",
+      "level": 2,
+      "parent": "F24H15/30",
+      "ja": "ポンプの制御，例．オンオフ制御（ヒートポンプの圧縮機の制御Ｆ２４Ｈ１５／３８）［２０２２．０１］",
+      "en": "Control of pumps, e.g. on-off control(control of compressors of heat pumps <b>F24H15/38</b>)",
+      "count": 1072,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/34": {
+      "code": "F24H15/34",
+      "level": 3,
+      "parent": "F24H15/335",
+      "ja": "ポンプの速度の制御［２０２２．０１］",
+      "en": "Control of the speed of pumps",
+      "count": 237,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/345": {
+      "code": "F24H15/345",
+      "level": 2,
+      "parent": "F24H15/30",
+      "ja": "ファンの制御，例．オンオフ制御（ヒートポンプユニットのファンの制御Ｆ２４Ｈ１５／３７５）［２０２２．０１］",
+      "en": "Control of fans, e.g. on-off control(control of fans of heat pump units <b>F24H15/375</b>)",
+      "count": 360,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/35": {
+      "code": "F24H15/35",
+      "level": 3,
+      "parent": "F24H15/345",
+      "ja": "ファンの速度の制御［２０２２．０１］",
+      "en": "Control of the speed of fans",
+      "count": 328,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/355": {
+      "code": "F24H15/355",
+      "level": 2,
+      "parent": "F24H15/30",
+      "ja": "加熱器内の熱発生手段の制御［２０２２．０１］",
+      "en": "Control of heat-generating means in heaters ",
+      "count": 405,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/36": {
+      "code": "F24H15/36",
+      "level": 3,
+      "parent": "F24H15/355",
+      "ja": "バーナの制御［２０２２．０１］",
+      "en": "of burners",
+      "count": 985,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/365": {
+      "code": "F24H15/365",
+      "level": 4,
+      "parent": "F24H15/36",
+      "ja": "２つ以上のバーナ，例．バーナの配列，の制御［２０２２．０１］",
+      "en": "of two or more burners, e.g. an array of burners",
+      "count": 65,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/37": {
+      "code": "F24H15/37",
+      "level": 3,
+      "parent": "F24H15/355",
+      "ja": "電気ヒータの制御［２０２２．０１］",
+      "en": "of electric heaters",
+      "count": 2957,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/375": {
+      "code": "F24H15/375",
+      "level": 2,
+      "parent": "F24H15/30",
+      "ja": "ヒートポンプの制御［２０２２．０１］",
+      "en": "Control of heat pumps",
+      "count": 688,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/38": {
+      "code": "F24H15/38",
+      "level": 3,
+      "parent": "F24H15/375",
+      "ja": "ヒートポンプの圧縮機の制御［２０２２．０１］",
+      "en": "Control of compressors of heat pumps",
+      "count": 276,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/385": {
+      "code": "F24H15/385",
+      "level": 3,
+      "parent": "F24H15/375",
+      "ja": "ヒートポンプの膨張弁の制御［２０２２．０１］",
+      "en": "Control of expansion valves of heat pumps",
+      "count": 129,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/39": {
+      "code": "F24H15/39",
+      "level": 3,
+      "parent": "F24H15/375",
+      "ja": "ヒートポンプにおいて冷媒を異なる蒸発器または圧縮機に分配するための弁の制御［２０２２．０１］",
+      "en": "Control of valves for distributing refrigerant to different evaporators or condensers in heat pumps",
+      "count": 73,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/395": {
+      "code": "F24H15/395",
+      "level": 2,
+      "parent": "F24H15/30",
+      "ja": "利用者に向けた情報，例．警報［２０２２．０１］",
+      "en": "Information to users, e.g. alarms",
+      "count": 2200,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/40": {
+      "code": "F24H15/40",
+      "level": 1,
+      "parent": "F24H15/00",
+      "ja": "コントロ－ラの型式に特徴のあるもの［２０２２．０１］",
+      "en": "characterised by the type of controllers",
+      "count": 180,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/407": {
+      "code": "F24H15/407",
+      "level": 2,
+      "parent": "F24H15/40",
+      "ja": "電気スイッチング，例．ＴＲＩＡＣ，を用いるもの［２０２２．０１］",
+      "en": "using electrical switching, e.g. TRIAC",
+      "count": 613,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/414": {
+      "code": "F24H15/414",
+      "level": 2,
+      "parent": "F24H15/40",
+      "ja": "電子的処理を用いるもの，例．コンピュータによるもの［２０２２．０１］",
+      "en": "using electronic processing, e.g. computer-based",
+      "count": 918,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/421": {
+      "code": "F24H15/421",
+      "level": 3,
+      "parent": "F24H15/414",
+      "ja": "予め保存されたデータを用いるもの［２０２２．０１］",
+      "en": "using pre-stored data",
+      "count": 2720,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/429": {
+      "code": "F24H15/429",
+      "level": 4,
+      "parent": "F24H15/421",
+      "ja": "運転モードを選択するためのもの［２０２２．０１］",
+      "en": "for selecting operation modes",
+      "count": 847,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/436": {
+      "code": "F24H15/436",
+      "level": 4,
+      "parent": "F24H15/421",
+      "ja": "スリープモードを選択するためのもの［２０２２．０１］",
+      "en": "for selecting sleeping modes",
+      "count": 10,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/443": {
+      "code": "F24H15/443",
+      "level": 3,
+      "parent": "F24H15/414",
+      "ja": "複数のサブコントローラに接続される１つの中央コントローラを用いるもの［２０２２．０１］",
+      "en": "using a central controller connected to several sub-controllers",
+      "count": 347,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/45": {
+      "code": "F24H15/45",
+      "level": 3,
+      "parent": "F24H15/414",
+      "ja": "遠隔アクセス可能なもの［２０２２．０１］",
+      "en": "remotely accessible",
+      "count": 425,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/457": {
+      "code": "F24H15/457",
+      "level": 4,
+      "parent": "F24H15/45",
+      "ja": "電話網またはインターネット通信を用いるもの［２０２２．０１］",
+      "en": "using telephone networks or Internet communication",
+      "count": 295,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/464": {
+      "code": "F24H15/464",
+      "level": 4,
+      "parent": "F24H15/45",
+      "ja": "ローカルな無線通信を用いるもの［２０２２．０１］",
+      "en": "using local wireless communication",
+      "count": 170,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/479": {
+      "code": "F24H15/479",
+      "level": 4,
+      "parent": "F24H15/45",
+      "ja": "システムをプログラミングするためのもの［２０２２．０１］",
+      "en": "for programming the system",
+      "count": 14,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/486": {
+      "code": "F24H15/486",
+      "level": 2,
+      "parent": "F24H15/40",
+      "ja": "タイマを用いるもの［２０２２．０１］",
+      "en": "using timers",
+      "count": 819,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    },
+    "F24H15/493": {
+      "code": "F24H15/493",
+      "level": 2,
+      "parent": "F24H15/40",
+      "ja": "流体加熱システムに新たに導入された部品の認識を可能にすることに特に適合したもの，例．後付けのためのものまたは部品交換により修理するためのもの［２０２２．０１］",
+      "en": "specially adapted for enabling recognition of parts newly installed in the fluid heating system, e.g. for retrofitting or for repairing by replacing parts",
+      "count": 9,
+      "sourceFile": "ipc_F24H.txt",
+      "kind": "ipc"
+    }
+  }
+};

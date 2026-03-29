@@ -1,0 +1,110 @@
+window.FI_SHARD_F24V = {
+  "generatedAt": "2026-03-20T02:17:51.358Z",
+  "total": 8,
+  "entries": {
+    "F24V": {
+      "code": "F24V",
+      "level": 0,
+      "parent": null,
+      "ja": "",
+      "en": "",
+      "count": 0,
+      "ipcCode": "",
+      "fTerm": "COLLECTION, PRODUCTION OR USE OF HEAT NOT OTHERWISE PROVIDED FOR<b>[2018.01]</b>",
+      "childFlag": 0,
+      "sourceFile": "fi_F.txt",
+      "kind": "fi"
+    },
+    "F24V30/00\\": {
+      "code": "F24V30/00\\",
+      "level": 0,
+      "parent": null,
+      "ja": "燃焼以外の発熱化学反応によって生成する熱を使用する器具または装置［２０１８．０１］",
+      "en": "Apparatus or devices using heat produced by exothermal chemical reactions other than by combustion [2018.01]",
+      "count": 256,
+      "ipcCode": "F24V30/00",
+      "fTerm": "3L039",
+      "childFlag": 0,
+      "sourceFile": "fi_F24V.txt",
+      "kind": "fi"
+    },
+    "F24V30/00301\\": {
+      "code": "F24V30/00301\\",
+      "level": 1,
+      "parent": "F24V30/00\\",
+      "ja": "化学的に結合した酸素を含む反応",
+      "en": "Reaction including chemically bondned oxygen",
+      "count": 909,
+      "ipcCode": "F24V30/00",
+      "fTerm": "3L039",
+      "childFlag": 1,
+      "sourceFile": "fi_F24V.txt",
+      "kind": "fi"
+    },
+    "F24V30/00302\\": {
+      "code": "F24V30/00302\\",
+      "level": 1,
+      "parent": "F24V30/00\\",
+      "ja": "酸素以外の元素の結合を含む反応",
+      "en": "Reaction including chemically bonded elements other than oxygen",
+      "count": 198,
+      "ipcCode": "F24V30/00",
+      "fTerm": "3L039",
+      "childFlag": 1,
+      "sourceFile": "fi_F24V.txt",
+      "kind": "fi"
+    },
+    "F24V40/00\\": {
+      "code": "F24V40/00\\",
+      "level": 0,
+      "parent": null,
+      "ja": "動く流体の内部摩擦あるいは流体と動いている物体の間の摩擦による熱の発生または使用［２０１８．０１］",
+      "en": "Production or use of heat resulting from internal friction of moving fluids or from friction between fluids and moving bodies [2018.01]",
+      "count": 110,
+      "ipcCode": "F24V40/00",
+      "fTerm": "3L039",
+      "childFlag": 0,
+      "sourceFile": "fi_F24V.txt",
+      "kind": "fi"
+    },
+    "F24V40/10\\": {
+      "code": "F24V40/10\\",
+      "level": 1,
+      "parent": "F24V40/00\\",
+      "ja": "流体が制限的手段を通過するもの［２０１８．０１］",
+      "en": "the fluid passing through restriction means [2018.01]",
+      "count": 65,
+      "ipcCode": "F24V40/10",
+      "fTerm": "3L039",
+      "childFlag": 1,
+      "sourceFile": "fi_F24V.txt",
+      "kind": "fi"
+    },
+    "F24V50/00\\": {
+      "code": "F24V50/00\\",
+      "level": 0,
+      "parent": null,
+      "ja": "自然の源から，例．海から，の熱の利用［２０１８．０１］",
+      "en": "Use of heat from natural sources, e.g. from the sea [2018.01]",
+      "count": 148,
+      "ipcCode": "F24V50/00",
+      "fTerm": "3L039",
+      "childFlag": 0,
+      "sourceFile": "fi_F24V.txt",
+      "kind": "fi"
+    },
+    "F24V99/00\\": {
+      "code": "F24V99/00\\",
+      "level": 0,
+      "parent": null,
+      "ja": "このサブクラスの他のメイングループに分類されない主題事項［２０１８．０１］",
+      "en": "Subject matter not provided for in other main groups of this subclass [2018.01]",
+      "count": 370,
+      "ipcCode": "F24V99/00",
+      "fTerm": "3L039",
+      "childFlag": 0,
+      "sourceFile": "fi_F24V.txt",
+      "kind": "fi"
+    }
+  }
+};

@@ -1,0 +1,756 @@
+window.IPC_SHARD_B08B = {
+  "generatedAt": "2026-03-20T02:17:46.078Z",
+  "total": 75,
+  "entries": {
+    "B08B": {
+      "code": "B08B",
+      "level": 0,
+      "parent": "B08",
+      "ja": "清掃一般；汚れ防止一般<br><br><b><ul>注</ul></b><br>このサブクラスは，関連する応用箇所に十分に分類できる物品，物質，装置，または周囲環境に，特に適している清掃は包含しない。それ以外の場合は，このサブクラスの最も適切な場所に分類される。<br><br><br><br><br><br><br><br><br><br><b><ul>サブクラス内の索引</ul></b><br>使用する手段に特徴のある清掃　１／００，３／００，５／００，６／００，７／００<br>中空物品，柔軟なまたは繊細な物品の清掃　９／００，１１／００<br>付属品または機構の細部　１３／００<br>じんあいまたは臭気の汚れまたは漏れの防止　１５／００，１７／００",
+      "en": "CLEANING IN GENERAL; PREVENTION OF FOULING IN GENERAL ; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This subclass <u>does not cover</u> cleaning specially adapted for articles, substances, devices or surroundings provided that its cleaning aspects are fully classifiable in the relevant application place. Otherwise, classification is made in the most appropriate place in this subclass.</li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">CLEANING CHARACTERISED BY THE MEANS USED </td><td><b><b>1/00</b>, <b>3/00</b>, <b>5/00</b>, <b>6/00</b>, <b>7/00</b></b></td></tr></tr><tr><td width=\"70%\">CLEANING HOLLOW, FLEXIBLE OR DELICATE ARTICLES </td><td><b><b>9/00</b>, <b>11/00</b></b></td></tr></tr><tr><td width=\"70%\">ACCESSORIES OR DETAILS OF MACHINES </td><td><b><b>13/00</b></b></td></tr></tr><tr><td width=\"70%\">PREVENTING FOULING OR ESCAPE OF DIRT OR FUMES </td><td><b><b>15/00</b>, <b>17/00</b></b></td></tr></tr></table>",
+      "count": 2149,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B08": {
+      "code": "B08",
+      "level": 0,
+      "parent": "B",
+      "ja": "清掃",
+      "en": "CLEANING",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B": {
+      "code": "B",
+      "level": 0,
+      "parent": null,
+      "ja": "処理操作；運輸",
+      "en": "PERFORMING OPERATIONS; TRANSPORTING",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B08B1/00": {
+      "code": "B08B1/00",
+      "level": 0,
+      "parent": "B08B",
+      "ja": "器具の使用を含む方法による清掃（特に中空の物品に適した方法または装置による中空物品の清掃Ｂ０８Ｂ９／００）［２０２４．０１］",
+      "en": "Cleaning by methods involving the use of tools  (cleaning hollow articles by methods or apparatus specially adapted thereto <b>B08B9/00</b>)",
+      "count": 114369,
+      "sourceFile": "ipc_B08B.txt",
+      "kind": "ipc"
+    },
+    "B08B1/10": {
+      "code": "B08B1/10",
+      "level": 1,
+      "parent": "B08B1/00",
+      "ja": "清掃器具の種類に特徴のあるもの［２０２４．０１］",
+      "en": "characterised by the type of cleaning tool",
+      "count": 3405,
+      "sourceFile": "ipc_B08B.txt",
+      "kind": "ipc"
+    },
+    "B08B1/12": {
+      "code": "B08B1/12",
+      "level": 2,
+      "parent": "B08B1/10",
+      "ja": "ブラシ［２０２４．０１］",
+      "en": "Brushes",
+      "count": 34215,
+      "sourceFile": "ipc_B08B.txt",
+      "kind": "ipc"
+    },
+    "B08B1/14": {
+      "code": "B08B1/14",
+      "level": 2,
+      "parent": "B08B1/10",
+      "ja": "ワイプ；吸収性のある部材，例．スワブまたはスポンジ（流体を分配する手段を備えるものＢ０８Ｂ１／４０）［２０２４．０１］",
+      "en": "Wipes; Absorbent members, e.g. swabs or sponges (with integrated means for dispensing fluids <b>B08B1/40</b>)",
+      "count": 13259,
+      "sourceFile": "ipc_B08B.txt",
+      "kind": "ipc"
+    },
+    "B08B1/16": {
+      "code": "B08B1/16",
+      "level": 2,
+      "parent": "B08B1/10",
+      "ja": "剛性ブレード，例．スクレーパー；可撓性ブレード，例．ワイパー［２０２４．０１］",
+      "en": "Rigid blades, e.g. scrapers; Flexible blades, e.g. wipers",
+      "count": 16458,
+      "sourceFile": "ipc_B08B.txt",
+      "kind": "ipc"
+    },
+    "B08B1/20": {
+      "code": "B08B1/20",
+      "level": 1,
+      "parent": "B08B1/00",
+      "ja": "動いている物品の清掃，例．動いているウエブまたは，コンベア上の物体の清掃［２０２４．０１］",
+      "en": "Cleaning of moving articles, e.g. of moving webs or of objects on a conveyor",
+      "count": 71755,
+      "sourceFile": "ipc_B08B.txt",
+      "kind": "ipc"
+    },
+    "B08B1/30": {
+      "code": "B08B1/30",
+      "level": 1,
+      "parent": "B08B1/00",
+      "ja": "清掃部材が表面上を動くことによるもの［２０２４．０１］",
+      "en": "by movement of cleaning members over a surface",
+      "count": 23399,
+      "sourceFile": "ipc_B08B.txt",
+      "kind": "ipc"
+    },
+    "B08B1/32": {
+      "code": "B08B1/32",
+      "level": 2,
+      "parent": "B08B1/30",
+      "ja": "回転する清掃部材を使用するもの［２０２４．０１］",
+      "en": "using rotary cleaning members",
+      "count": 10669,
+      "sourceFile": "ipc_B08B.txt",
+      "kind": "ipc"
+    },
+    "B08B1/34": {
+      "code": "B08B1/34",
+      "level": 3,
+      "parent": "B08B1/32",
+      "ja": "回転軸が表面と平行のもの［２０２４．０１］",
+      "en": "rotating about an axis parallel to the surface",
+      "count": 10027,
+      "sourceFile": "ipc_B08B.txt",
+      "kind": "ipc"
+    },
+    "B08B1/36": {
+      "code": "B08B1/36",
+      "level": 3,
+      "parent": "B08B1/32",
+      "ja": "回転軸が表面と垂直のもの［２０２４．０１］",
+      "en": "rotating about an axis orthogonal to the surface",
+      "count": 3864,
+      "sourceFile": "ipc_B08B.txt",
+      "kind": "ipc"
+    },
+    "B08B1/40": {
+      "code": "B08B1/40",
+      "level": 1,
+      "parent": "B08B1/00",
+      "ja": "流体，例．水，蒸気または洗剤，を分配する手段を備える清掃器具（ジェットまたはスプレーの力による清掃Ｂ０８Ｂ３／０２）［２０２４．０１］",
+      "en": "Cleaning tools with integrated means for dispensing fluids, e.g. water, steam or detergents (cleaning by the force of jets or sprays <b>B08B3/02</b>)",
+      "count": 4713,
+      "sourceFile": "ipc_B08B.txt",
+      "kind": "ipc"
+    },
+    "B08B1/50": {
+      "code": "B08B1/50",
+      "level": 1,
+      "parent": "B08B1/00",
+      "ja": "清掃部材の清掃に関するもの［２０２４．０１］",
+      "en": "involving cleaning of the cleaning members",
+      "count": 493,
+      "sourceFile": "ipc_B08B.txt",
+      "kind": "ipc"
+    },
+    "B08B1/52": {
+      "code": "B08B1/52",
+      "level": 2,
+      "parent": "B08B1/50",
+      "ja": "流体を用いるもの［２０２４．０１］",
+      "en": "using fluids",
+      "count": 950,
+      "sourceFile": "ipc_B08B.txt",
+      "kind": "ipc"
+    },
+    "B08B1/54": {
+      "code": "B08B1/54",
+      "level": 2,
+      "parent": "B08B1/50",
+      "ja": "機械器具を用いるもの［２０２４．０１］",
+      "en": "using mechanical tools",
+      "count": 1423,
+      "sourceFile": "ipc_B08B.txt",
+      "kind": "ipc"
+    },
+    "B08B3/00": {
+      "code": "B08B3/00",
+      "level": 0,
+      "parent": "B08B",
+      "ja": "液体または蒸気の使用または存在を含む方法による清掃（Ｂ０８Ｂ９／００が優先）",
+      "en": "Cleaning by methods involving the use or presence of liquid or steam(<b>B08B9/00</b> takes precedence)",
+      "count": 11514,
+      "sourceFile": "ipc_B08B.txt",
+      "kind": "ipc"
+    },
+    "B08B3/02": {
+      "code": "B08B3/02",
+      "level": 1,
+      "parent": "B08B3/00",
+      "ja": "ジェットまたはスプレーの力による清掃",
+      "en": "Cleaning by the force of jets or sprays",
+      "count": 162487,
+      "sourceFile": "ipc_B08B.txt",
+      "kind": "ipc"
+    },
+    "B08B3/04": {
+      "code": "B08B3/04",
+      "level": 1,
+      "parent": "B08B3/00",
+      "ja": "液体との接触を含む清掃",
+      "en": "Cleaning involving contact with liquid",
+      "count": 33651,
+      "sourceFile": "ipc_B08B.txt",
+      "kind": "ipc"
+    },
+    "B08B3/06": {
+      "code": "B08B3/06",
+      "level": 2,
+      "parent": "B08B3/04",
+      "ja": "物品または材料がつめられた孔あきドラムを用いるもの",
+      "en": "using perforated drums in which the article or material is placed",
+      "count": 5364,
+      "sourceFile": "ipc_B08B.txt",
+      "kind": "ipc"
+    },
+    "B08B3/08": {
+      "code": "B08B3/08",
+      "level": 2,
+      "parent": "B08B3/04",
+      "ja": "化学的または分解的効果のある液体によるもの［２００６．０１］",
+      "en": "the liquid having chemical or dissolving effect",
+      "count": 40937,
+      "sourceFile": "ipc_B08B.txt",
+      "kind": "ipc"
+    },
+    "B08B3/10": {
+      "code": "B08B3/10",
+      "level": 2,
+      "parent": "B08B3/04",
+      "ja": "液体または清掃される物の付加的処理を有するもの，例．熱，電気または振動によるもの［２００６．０１］",
+      "en": "with additional treatment of the liquid or of the object being cleaned, e.g. by heat, by electricity or by vibration",
+      "count": 48700,
+      "sourceFile": "ipc_B08B.txt",
+      "kind": "ipc"
+    },
+    "B08B3/12": {
+      "code": "B08B3/12",
+      "level": 3,
+      "parent": "B08B3/10",
+      "ja": "・・・音波または超音波振動によるもの［２００６．０１］",
+      "en": "by sonic or ultrasonic vibrations",
+      "count": 41267,
+      "sourceFile": "ipc_B08B.txt",
+      "kind": "ipc"
+    },
+    "B08B3/14": {
+      "code": "B08B3/14",
+      "level": 3,
+      "parent": "B08B3/10",
+      "ja": "清掃液体からの廃棄物，例．ラベル，の除去［２００６．０１］",
+      "en": "Removing waste, e.g. labels, from cleaning liquid",
+      "count": 28694,
+      "sourceFile": "ipc_B08B.txt",
+      "kind": "ipc"
+    },
+    "B08B5/00": {
+      "code": "B08B5/00",
+      "level": 0,
+      "parent": "B08B",
+      "ja": "空気流またはガス流の使用を含む方法による清掃（特に中空の物品に適した方法または装置による中空物品の清掃Ｂ０８Ｂ９／００）［２００６．０１］",
+      "en": "Cleaning by methods involving the use of air flow or gas flow  (cleaning hollow articles by methods or apparatus specially adapted thereto <b>B08B9/00</b>)",
+      "count": 5306,
+      "sourceFile": "ipc_B08B.txt",
+      "kind": "ipc"
+    },
+    "B08B5/02": {
+      "code": "B08B5/02",
+      "level": 1,
+      "parent": "B08B5/00",
+      "ja": "ジェットの力によるもの，例．空胴内の吹き出し清掃",
+      "en": "Cleaning by the force of jets, e.g. blowing-out cavities",
+      "count": 70044,
+      "sourceFile": "ipc_B08B.txt",
+      "kind": "ipc"
+    },
+    "B08B5/04": {
+      "code": "B08B5/04",
+      "level": 1,
+      "parent": "B08B5/00",
+      "ja": "補助作用の有無にかかわりない吸入による清掃［２００６．０１］",
+      "en": "Cleaning by suction, with or without auxiliary action",
+      "count": 46465,
+      "sourceFile": "ipc_B08B.txt",
+      "kind": "ipc"
+    },
+    "B08B6/00": {
+      "code": "B08B6/00",
+      "level": 0,
+      "parent": "B08B",
+      "ja": "静電気手段による清掃［２００６．０１］",
+      "en": "Cleaning by electrostatic means",
+      "count": 5426,
+      "sourceFile": "ipc_B08B.txt",
+      "kind": "ipc"
+    },
+    "B08B7/00": {
+      "code": "B08B7/00",
+      "level": 0,
+      "parent": "B08B",
+      "ja": "このサブクラスの単一のグループあるいは他の単一のサブクラスに分類されない方法による清掃",
+      "en": "Cleaning by methods not provided for in a single other subclass or a single group in this subclass",
+      "count": 27443,
+      "sourceFile": "ipc_B08B.txt",
+      "kind": "ipc"
+    },
+    "B08B7/02": {
+      "code": "B08B7/02",
+      "level": 1,
+      "parent": "B08B7/00",
+      "ja": "清掃される表面の変形，叩打または振動によるもの",
+      "en": "by distortion, beating, or vibration of the surface to be cleaned",
+      "count": 17602,
+      "sourceFile": "ipc_B08B.txt",
+      "kind": "ipc"
+    },
+    "B08B7/04": {
+      "code": "B08B7/04",
+      "level": 1,
+      "parent": "B08B7/00",
+      "ja": "操作の組合せによるもの",
+      "en": "by a combination of operations",
+      "count": 8057,
+      "sourceFile": "ipc_B08B.txt",
+      "kind": "ipc"
+    },
+    "B08B9/00": {
+      "code": "B08B9/00",
+      "level": 0,
+      "parent": "B08B",
+      "ja": "特に中空の物品に適した方法または装置による中空物品の清掃［２００６．０１］",
+      "en": "Cleaning hollow articles by methods or apparatus specially adapted thereto",
+      "count": 4028,
+      "sourceFile": "ipc_B08B.txt",
+      "kind": "ipc"
+    },
+    "B08B9/02": {
+      "code": "B08B9/02",
+      "level": 1,
+      "parent": "B08B9/00",
+      "ja": "パイプまたはチューブ，あるいはパイプまたはチューブ系統の清掃（化学的な方法による金属パイプの清掃装置Ｃ２３Ｇ３／０４）［２００６．０１］",
+      "en": "Cleaning pipes or tubes or systems of pipes or tubes(apparatus for cleaning metal pipes by chemical methods <b>C23G3/04</b>)",
+      "count": 8626,
+      "sourceFile": "ipc_B08B.txt",
+      "kind": "ipc"
+    },
+    "B08B9/023": {
+      "code": "B08B9/023",
+      "level": 2,
+      "parent": "B08B9/02",
+      "ja": "外側表面の清掃［７］",
+      "en": "Cleaning the external surfaces",
+      "count": 9822,
+      "sourceFile": "ipc_B08B.txt",
+      "kind": "ipc"
+    },
+    "B08B9/027": {
+      "code": "B08B9/027",
+      "level": 2,
+      "parent": "B08B9/02",
+      "ja": "内側表面の清掃；閉塞物の除去［７］",
+      "en": "Cleaning the internal surfaces; Removal of blockages",
+      "count": 11092,
+      "sourceFile": "ipc_B08B.txt",
+      "kind": "ipc"
+    },
+    "B08B9/032": {
+      "code": "B08B9/032",
+      "level": 3,
+      "parent": "B08B9/027",
+      "ja": "運動する流体の物理的作用，例．フラッシング，によるもの（Ｂ０８Ｂ９／０４が優先）［７］",
+      "en": "by the mechanical action of a moving fluid, e.g. by flushing(<b>B08B9/04</b> takes precedence)",
+      "count": 20673,
+      "sourceFile": "ipc_B08B.txt",
+      "kind": "ipc"
+    },
+    "B08B9/035": {
+      "code": "B08B9/035",
+      "level": 4,
+      "parent": "B08B9/032",
+      "ja": "吸引によるもの［７］",
+      "en": "by suction",
+      "count": 1412,
+      "sourceFile": "ipc_B08B.txt",
+      "kind": "ipc"
+    },
+    "B08B9/04": {
+      "code": "B08B9/04",
+      "level": 3,
+      "parent": "B08B9/027",
+      "ja": "パイプの中に導入され，パイプに沿って移動される清掃装置を用いるもの［１，７］",
+      "en": "using cleaning devices introduced into and moved along the pipes",
+      "count": 7933,
+      "sourceFile": "ipc_B08B.txt",
+      "kind": "ipc"
+    },
+    "B08B9/043": {
+      "code": "B08B9/043",
+      "level": 4,
+      "parent": "B08B9/04",
+      "ja": "機械的連結機構を介して外部動力によって移動されるもの，例．パイプの中で押されたり引かれたりするもの［７］",
+      "en": "moved by externally powered mechanical linkage, e.g. pushed or drawn through the pipes",
+      "count": 7322,
+      "sourceFile": "ipc_B08B.txt",
+      "kind": "ipc"
+    },
+    "B08B9/045": {
+      "code": "B08B9/045",
+      "level": 5,
+      "parent": "B08B9/043",
+      "ja": "移動されながら回転する清掃装置（Ｂ０８Ｂ９／０４７が優先）［７］",
+      "en": "the cleaning devices being rotated while moved(<b>B08B9/047</b> takes precedence)",
+      "count": 3301,
+      "sourceFile": "ipc_B08B.txt",
+      "kind": "ipc"
+    },
+    "B08B9/047": {
+      "code": "B08B9/047",
+      "level": 5,
+      "parent": "B08B9/043",
+      "ja": "清掃工具を動かすための原動機を備えている清掃装置［７］",
+      "en": "the cleaning devices having motors for powering cleaning tools",
+      "count": 4474,
+      "sourceFile": "ipc_B08B.txt",
+      "kind": "ipc"
+    },
+    "B08B9/049": {
+      "code": "B08B9/049",
+      "level": 4,
+      "parent": "B08B9/04",
+      "ja": "パイプに沿って清掃装置を移動させるための推進手段を内蔵しているもの［７］",
+      "en": "having self-contained propelling means for moving the cleaning devices along the pipes",
+      "count": 3078,
+      "sourceFile": "ipc_B08B.txt",
+      "kind": "ipc"
+    },
+    "B08B9/051": {
+      "code": "B08B9/051",
+      "level": 5,
+      "parent": "B08B9/049",
+      "ja": "清掃工具を動かすための原動機を備えている清掃装置［７］",
+      "en": "the cleaning devices having motors for powering cleaning tools",
+      "count": 4304,
+      "sourceFile": "ipc_B08B.txt",
+      "kind": "ipc"
+    },
+    "B08B9/053": {
+      "code": "B08B9/053",
+      "level": 4,
+      "parent": "B08B9/04",
+      "ja": "流体，例．流体圧または吸引，によってパイプに沿って移動されるもの［７］",
+      "en": "moved along the pipes by a fluid, e.g. by fluid pressure or by suction",
+      "count": 2444,
+      "sourceFile": "ipc_B08B.txt",
+      "kind": "ipc"
+    },
+    "B08B9/055": {
+      "code": "B08B9/055",
+      "level": 5,
+      "parent": "B08B9/053",
+      "ja": "パイプの断面形状に実質的に合った，または合わせることができる清掃装置，例．ピグまたはモール［７］",
+      "en": "the cleaning devices conforming to, or being conformable to, substantially the cross-section of the pipes, e.g. pigs or moles",
+      "count": 2478,
+      "sourceFile": "ipc_B08B.txt",
+      "kind": "ipc"
+    },
+    "B08B9/057": {
+      "code": "B08B9/057",
+      "level": 5,
+      "parent": "B08B9/053",
+      "ja": "連続的に送られるばら要素，例．ボール，研磨要素，ブラシ，からなる清掃装置［７］",
+      "en": "the cleaning devices being entrained discrete elements, e.g. balls, grinding elements, brushes",
+      "count": 1701,
+      "sourceFile": "ipc_B08B.txt",
+      "kind": "ipc"
+    },
+    "B08B9/08": {
+      "code": "B08B9/08",
+      "level": 1,
+      "parent": "B08B9/00",
+      "ja": "容器，例．タンク，の清掃",
+      "en": "Cleaning of containers, e.g. tanks",
+      "count": 16473,
+      "sourceFile": "ipc_B08B.txt",
+      "kind": "ipc"
+    },
+    "B08B9/087": {
+      "code": "B08B9/087",
+      "level": 2,
+      "parent": "B08B9/08",
+      "ja": "工具の使用を含む方法によるもの，例．ブラシ，スクレーパー（Ｂ０８Ｂ９／２０が優先）［５］",
+      "en": "by methods involving the use of tools, e.g. brushes, scrapers(<b>B08B9/20</b> takes precedence)",
+      "count": 69369,
+      "sourceFile": "ipc_B08B.txt",
+      "kind": "ipc"
+    },
+    "B08B9/093": {
+      "code": "B08B9/093",
+      "level": 2,
+      "parent": "B08B9/08",
+      "ja": "ジェットまたはスプレーの力によるもの（Ｂ０８Ｂ９／２０が優先）［５］",
+      "en": "by the force of jets or sprays(<b>B08B9/20</b> takes precedence)",
+      "count": 39420,
+      "sourceFile": "ipc_B08B.txt",
+      "kind": "ipc"
+    },
+    "B08B9/20": {
+      "code": "B08B9/20",
+      "level": 2,
+      "parent": "B08B9/08",
+      "ja": "その装置の中または上へ容器，例．びん，ジャー，カン，を搬入する装置を使用するもの［５］",
+      "en": "by using apparatus into or on to which containers, e.g. bottles, jars, cans, are brought",
+      "count": 4517,
+      "sourceFile": "ipc_B08B.txt",
+      "kind": "ipc"
+    },
+    "B08B9/22": {
+      "code": "B08B9/22",
+      "level": 3,
+      "parent": "B08B9/20",
+      "ja": "浸すことのみによって清掃する装置［５］",
+      "en": "the apparatus cleaning by soaking alone",
+      "count": 1190,
+      "sourceFile": "ipc_B08B.txt",
+      "kind": "ipc"
+    },
+    "B08B9/24": {
+      "code": "B08B9/24",
+      "level": 4,
+      "parent": "B08B9/22",
+      "ja": "コンベアを用いるもの［５］",
+      "en": "and having conveyors",
+      "count": 426,
+      "sourceFile": "ipc_B08B.txt",
+      "kind": "ipc"
+    },
+    "B08B9/26": {
+      "code": "B08B9/26",
+      "level": 5,
+      "parent": "B08B9/24",
+      "ja": "ロータリーコンベア［５］",
+      "en": "Rotating conveyors",
+      "count": 212,
+      "sourceFile": "ipc_B08B.txt",
+      "kind": "ipc"
+    },
+    "B08B9/28": {
+      "code": "B08B9/28",
+      "level": 3,
+      "parent": "B08B9/20",
+      "ja": "浸すかまたは浸すことなく，はねかけ，スプレーまたはジェットを使用して清掃する装置［５］",
+      "en": "the apparatus cleaning by splash, spray or jet application, with or without soaking",
+      "count": 7242,
+      "sourceFile": "ipc_B08B.txt",
+      "kind": "ipc"
+    },
+    "B08B9/30": {
+      "code": "B08B9/30",
+      "level": 4,
+      "parent": "B08B9/28",
+      "ja": "コンベアを用いるもの［５］",
+      "en": "and having conveyors",
+      "count": 4409,
+      "sourceFile": "ipc_B08B.txt",
+      "kind": "ipc"
+    },
+    "B08B9/32": {
+      "code": "B08B9/32",
+      "level": 5,
+      "parent": "B08B9/30",
+      "ja": "ロータリーコンベア［５］",
+      "en": "Rotating conveyors",
+      "count": 1514,
+      "sourceFile": "ipc_B08B.txt",
+      "kind": "ipc"
+    },
+    "B08B9/34": {
+      "code": "B08B9/34",
+      "level": 4,
+      "parent": "B08B9/28",
+      "ja": "導管またはノズルの配置［５］",
+      "en": "Arrangement of conduits or nozzles",
+      "count": 5375,
+      "sourceFile": "ipc_B08B.txt",
+      "kind": "ipc"
+    },
+    "B08B9/36": {
+      "code": "B08B9/36",
+      "level": 3,
+      "parent": "B08B9/20",
+      "ja": "ブラシを用いることにより清掃する装置［５］",
+      "en": "the apparatus cleaning by using brushes",
+      "count": 9702,
+      "sourceFile": "ipc_B08B.txt",
+      "kind": "ipc"
+    },
+    "B08B9/38": {
+      "code": "B08B9/38",
+      "level": 3,
+      "parent": "B08B9/20",
+      "ja": "スクレーパー，チェーン，発射粒子，砂または他の研磨手段を用いることにより清掃する装置（砥粒吹き付け一般Ｂ２４Ｃ）［５］",
+      "en": "the apparatus cleaning by using scrapers, chains, grains of shot, sand or other abrasive means(abrasive blasting in general <b>B24C</b>)",
+      "count": 1489,
+      "sourceFile": "ipc_B08B.txt",
+      "kind": "ipc"
+    },
+    "B08B9/40": {
+      "code": "B08B9/40",
+      "level": 3,
+      "parent": "B08B9/20",
+      "ja": "焙焼による清掃装置［５］",
+      "en": "the apparatus cleaning by burning out",
+      "count": 95,
+      "sourceFile": "ipc_B08B.txt",
+      "kind": "ipc"
+    },
+    "B08B9/42": {
+      "code": "B08B9/42",
+      "level": 3,
+      "parent": "B08B9/20",
+      "ja": "容器の運搬手段に特徴のある装置［５］",
+      "en": "the apparatus being characterised by means for conveying or carrying containers therethrough",
+      "count": 4338,
+      "sourceFile": "ipc_B08B.txt",
+      "kind": "ipc"
+    },
+    "B08B9/44": {
+      "code": "B08B9/44",
+      "level": 4,
+      "parent": "B08B9/42",
+      "ja": "搬入または搬出装置［５］",
+      "en": "the means being for loading or unloading the apparatus",
+      "count": 1665,
+      "sourceFile": "ipc_B08B.txt",
+      "kind": "ipc"
+    },
+    "B08B9/46": {
+      "code": "B08B9/46",
+      "level": 2,
+      "parent": "B08B9/08",
+      "ja": "清掃された容器の清潔さの検査［５］",
+      "en": "Inspecting cleaned containers for cleanliness",
+      "count": 635,
+      "sourceFile": "ipc_B08B.txt",
+      "kind": "ipc"
+    },
+    "B08B11/00": {
+      "code": "B08B11/00",
+      "level": 0,
+      "parent": "B08B",
+      "ja": "特に柔軟なまたは繊細な物品に適した方法または装置による柔軟なまたは繊細な物品の清掃（Ｂ０８Ｂ３／１２，Ｂ０８Ｂ６／００が優先）［２００６．０１］",
+      "en": "Cleaning flexible or delicate articles by methods or apparatus specially adapted thereto",
+      "count": 7439,
+      "sourceFile": "ipc_B08B.txt",
+      "kind": "ipc"
+    },
+    "B08B11/02": {
+      "code": "B08B11/02",
+      "level": 1,
+      "parent": "B08B11/00",
+      "ja": "清掃中物品を保持するための装置",
+      "en": "Devices for holding articles during cleaning",
+      "count": 3773,
+      "sourceFile": "ipc_B08B.txt",
+      "kind": "ipc"
+    },
+    "B08B11/04": {
+      "code": "B08B11/04",
+      "level": 1,
+      "parent": "B08B11/00",
+      "ja": "特に板ガラスに適した方法または装置による板ガラスの清掃，例．ウインドシールドの製造前［２００６．０１］",
+      "en": "specially adapted for plate glass, e.g. prior to manufacture of windshields",
+      "count": 9538,
+      "sourceFile": "ipc_B08B.txt",
+      "kind": "ipc"
+    },
+    "B08B13/00": {
+      "code": "B08B13/00",
+      "level": 0,
+      "parent": "B08B",
+      "ja": "清掃のための装置または機構に一般的に適用される部品または付属品",
+      "en": "Accessories or details of general applicability for machines or apparatus for cleaning",
+      "count": 198478,
+      "sourceFile": "ipc_B08B.txt",
+      "kind": "ipc"
+    },
+    "B08B15/00": {
+      "code": "B08B15/00",
+      "level": 0,
+      "parent": "B08B",
+      "ja": "じんあいまたは臭気の発生地区における漏れ防止；その地区におけるじんあいまたは臭気の収集または除去［２００６．０１］",
+      "en": "Preventing escape of dirt or fumes from the area where they are produced; Collecting or removing dirt or fumes from that area",
+      "count": 23498,
+      "sourceFile": "ipc_B08B.txt",
+      "kind": "ipc"
+    },
+    "B08B15/02": {
+      "code": "B08B15/02",
+      "level": 1,
+      "parent": "B08B15/00",
+      "ja": "その地域をおおうフード，室を用いるもの",
+      "en": "using chambers or hoods covering the area",
+      "count": 24809,
+      "sourceFile": "ipc_B08B.txt",
+      "kind": "ipc"
+    },
+    "B08B15/04": {
+      "code": "B08B15/04",
+      "level": 1,
+      "parent": "B08B15/00",
+      "ja": "小さい地域からのもの，例．工具類",
+      "en": "from a small area, e.g. a tool",
+      "count": 76915,
+      "sourceFile": "ipc_B08B.txt",
+      "kind": "ipc"
+    },
+    "B08B17/00": {
+      "code": "B08B17/00",
+      "level": 0,
+      "parent": "B08B",
+      "ja": "汚れ防止の方法",
+      "en": "Methods preventing fouling",
+      "count": 1823,
+      "sourceFile": "ipc_B08B.txt",
+      "kind": "ipc"
+    },
+    "B08B17/02": {
+      "code": "B08B17/02",
+      "level": 1,
+      "parent": "B08B17/00",
+      "ja": "塵または汚れの付着防止",
+      "en": "Preventing deposition of fouling or of dust",
+      "count": 12212,
+      "sourceFile": "ipc_B08B.txt",
+      "kind": "ipc"
+    },
+    "B08B17/04": {
+      "code": "B08B17/04",
+      "level": 2,
+      "parent": "B08B17/02",
+      "ja": "取はずし可能なおおいを用いるもの",
+      "en": "by using removable coverings",
+      "count": 9752,
+      "sourceFile": "ipc_B08B.txt",
+      "kind": "ipc"
+    },
+    "B08B17/06": {
+      "code": "B08B17/06",
+      "level": 2,
+      "parent": "B08B17/02",
+      "ja": "汚れ易い物品に配列のための特殊形状を与えることによるもの",
+      "en": "by giving articles subject to fouling a special shape for arrangement",
+      "count": 760,
+      "sourceFile": "ipc_B08B.txt",
+      "kind": "ipc"
+    }
+  }
+};

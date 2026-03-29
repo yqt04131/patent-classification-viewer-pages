@@ -1,0 +1,3186 @@
+window.IPC_SHARD_D06M = {
+  "generatedAt": "2026-03-20T02:17:46.601Z",
+  "total": 318,
+  "entries": {
+    "D06M": {
+      "code": "D06M",
+      "level": 0,
+      "parent": "D06",
+      "ja": "繊維，より糸，糸，織物，羽毛またはこのような材料から製造された繊維製品のクラスＤ０６の他に分類されない処理<br><br><b><ul>注</ul></b><br>（１）Ｄ０６Ｍ１１／００～Ｄ０６Ｍ１５／００の各グループにおいては，ラストプレイス優先ルールが適用される，すなわち各階層レベルにおいて相反する指示のない限り，物質は最後の適切な箇所に分類される。<br>（２）このサブクラスにおいては，：<br>（ａ）Ｄ０６Ｍ１１／００～Ｄ０６Ｍ１５／００の各メイングループにおいては，物質の混合物は少なくとも必須な成分に従って分類される。複数の成分が必須である場合は，相反する指示がない限り，一連の物質の中で最後の適切な箇所に属する必須成分に従って分類される。<br>（ｂ）メイングループＤ０６Ｍ１１／００～Ｄ０６Ｍ１５／００の２つ以上に包含される物質の混合物による処理は，それぞれの適切なメイングループに分類される。<br>（３）このサブクラスにおいては，布地の処理は，クラスＤ０６に分類されていないため，以下の原理に従って分類される。<br>（ａ）処理剤に特徴のある繊維製品の処理はグループＤ０６Ｍ１１／００～Ｄ０６Ｍ１６／００；<br>（ｂ）プロセスに特徴のある繊維製品の処理はグループＤ０６Ｍ２３／００<br>（４）ＩＰＣがどの版の化学元素周期表を参照しているかを示すセクションＣのタイトルに続く注（３）に注意すること。<br><br><b><ul>サブクラス内の索引</ul></b><br>繊維，より糸，糸，織物または繊維製品の処理<br>無機物質によるもの　１１／００<br>非高分子有機物質によるもの　１３／００<br>グラフト重合　１４／００<br>高分子物質によるもの　１５／００<br>生化学的処理　１６／００<br>物理的処理　１０／００<br>プロセスに特徴のある処理　２３／００<br>羽毛の処理　１９／００<br>多層織物の製造　１７／００",
+      "en": "TREATMENT, NOT PROVIDED FOR ELSEWHERE IN CLASS <b>D06</b>, OF FIBRES, THREADS, YARNS, FABRICS, FEATHERS OR FIBROUS GOODS MADE FROM SUCH MATERIALS; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In each of the groups <b>D06M11/00 to D06M15/00</b> , the last place priority rule is applied, i.e. at each hierarchical level, in the absence of an indication to the contrary, a substance is classified in the last appropriate place.</li><li>In this subclass: <ul><li>within each one of main groups <b>D06M11/00 to D06M15/00</b> , a mixture of substances is classified at least according to the essential ingredient. If more than one ingredient is essential, the mixture is classified, in the absence of an indication to the contrary, according to the essential ingredient which belongs to the last appropriate place in the sequence of substance;</li><li>treatment by mixtures of substances covered by two or more of main groups <b>D06M11/00 to D06M15/00</b>  is classified in each appropriate main group.</li></ul></li><li>In this subclass, the treatment of textiles, not provided for elsewhere in class <b>D06</b>, is classified according to the following principles: <ul><li>treatment of textiles characterised by the treating agent in groups <b>D06M11/00 to D06M16/00</b> ;</li><li>treatment of textiles characterised by the process in group <b>D06M23/00</b>.</li></ul></li><li>Attention is drawn to Note (3) after the title of section <b>C</b>, which Note indicates to which version of the Periodic Table of chemical elements the IPC refers.</li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">TREATMENT OF FIBRES, THREADS, YARNS, FABRICS, OR FIBROUS ARTICLES<tr><td width=\"70%\">with inorganic substances </td><td><b><b>11/00</b></b></td></tr></tr><tr><td width=\"70%\">with non-macromolecular organic substances </td><td><b><b>13/00</b></b></td></tr></tr><tr><td width=\"70%\">graft polymerisation </td><td><b><b>14/00</b></b></td></tr></tr><tr><td width=\"70%\">with macromolecular substances </td><td><b><b>15/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">BIOCHEMICAL TREATMENT </td><td><b><b>16/00</b></b></td></tr></tr><tr><td width=\"70%\">PHYSICAL TREATMENT </td><td><b><b>10/00</b></b></td></tr></tr><tr><td width=\"70%\">TREATMENT CHARACTERISED BY THE PROCESS </td><td><b><b>23/00</b></b></td></tr></tr><tr><td width=\"70%\">TREATMENT OF FEATHERS </td><td><b><b>19/00</b></b></td></tr></tr><tr><td width=\"70%\">PRODUCING MULTI-LAYER FABRICS </td><td><b><b>17/00</b></b></td></tr></tr></table>",
+      "count": 1187,
+      "sourceFile": "ipc_D.txt",
+      "kind": "ipc"
+    },
+    "D06": {
+      "code": "D06",
+      "level": 0,
+      "parent": "D",
+      "ja": "繊維または類似のものの処理；洗濯；他に分類されない可とう性材料",
+      "en": "TREATMENT OF TEXTILES OR THE LIKE; LAUNDERING; FLEXIBLE MATERIALS NOT OTHERWISE PROVIDED FOR",
+      "count": 0,
+      "sourceFile": "ipc_D.txt",
+      "kind": "ipc"
+    },
+    "D": {
+      "code": "D",
+      "level": 0,
+      "parent": null,
+      "ja": "繊維；紙<br><br><b><ul>注</ul></b><br>このセクションにおいては，下記の用語は以下に示す意味で用いる：<br>―“繊維”は比較的短く，細長い天然または人造の物質よりなるものを意味する；［２０１４．０１］<br>―“フィラメント”はエンドレスまたは準エンドレスで，細長い天然または人造の物質よりなるものを意味する；［２０１４．０１］<br>―“糸”は繊維の単一の集合体を意味し，通常紡績によって製造される；［２０１４．０１］<br>―“より糸”は糸またはフィラメントの集合体を意味し，通常加ねんによって製造される；［２０１４．０１］<br>―“合成”繊維またはフィラメントはポリマーまたは低分子を合成させたものから製造される繊維またはフィラメントまたは類似物を意味する。例は，ポリアミド，アクリル，ポリエステルまたは炭素繊維である；［２０１４．０１］<br>―“人工”繊維またはフィラメントは天然ポリマーまたはその派生物から人が製造した繊維またはフィラメントまたは類似物を意味する。例は，再生セルロース繊維または半合成繊維である；［２０１４．０１］<br>―“人造”繊維またはフィラメントは人が製造した繊維またはフィラメントを意味し，“合成”繊維または“人工”繊維を含む。［２０１４．０１］",
+      "en": "TEXTILES; PAPER; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this section, the following terms are used with the meanings indicated: <ul><li>\"fibre\" means a relatively-short, elongated member of natural or man-made material;    </li><li>\"filament\" means an endless or quasi-endless, elongated member of natural or man-made material;    </li><li>\"yarn\" means a unitary assembly of fibres, usually produced by spinning;    </li><li>\"thread\" means an assembly of yarns or filaments, usually produced by twisting;    </li><li>\"synthetic\" fibres or filaments means fibres or filaments or the like manufactured from synthesising polymers or small molecules. Examples are polyamide, acrylic, polyester or carbon fibres;    </li><li>\"artificial\" fibres or filaments means fibres or filaments or the like manufactured by man from natural polymers or their derivatives. Examples are regenerated cellulosic fibres or semi-synthetic fibres;    </li><li>\"man-made&rdquo; fibres or filaments means fibres or filaments which are manufactured by man including &ldquo;synthetic&rdquo; or &ldquo;artificial&rdquo; fibres.    </li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_D.txt",
+      "kind": "ipc"
+    },
+    "D06M10/00": {
+      "code": "D06M10/00",
+      "level": 0,
+      "parent": "D06M",
+      "ja": "繊維，より糸，糸，織物またはこのような材料から製造された繊維製品の物理的処理，例．超音波，コロナ放電，放射線，電流または磁界；化学的な化合物または元素による処理と組み合わせた物理的処理［２００６．０１］",
+      "en": "Physical treatment of fibres, threads, yarns, fabrics or fibrous goods made from such materials, e.g. by ultrasonic waves, corona discharge, irradiation, electric currents or magnetic fields; Physical treatment combined with treatment with chemical compounds or elements",
+      "count": 4635,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M10/02": {
+      "code": "D06M10/02",
+      "level": 1,
+      "parent": "D06M10/00",
+      "ja": "超音波または音波；コロナ放電［２００６．０１］",
+      "en": "Sonic or ultrasonic waves; Corona discharge",
+      "count": 3799,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M10/04": {
+      "code": "D06M10/04",
+      "level": 1,
+      "parent": "D06M10/00",
+      "ja": "化学的な化合物または元素による処理と組み合わせた物理的処理（波動エネルギーまたは粒子線を利用したグラフト重合Ｄ０６Ｍ１４／１８）［５］",
+      "en": "Physical treatment combined with treatment with chemical compounds or elements(graft polymerisation using wave energy or particle radiation <b>D06M14/18</b>)",
+      "count": 339,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M10/06": {
+      "code": "D06M10/06",
+      "level": 2,
+      "parent": "D06M10/04",
+      "ja": "無機化合物または元素［５］",
+      "en": "Inorganic compounds or elements",
+      "count": 1404,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M10/08": {
+      "code": "D06M10/08",
+      "level": 2,
+      "parent": "D06M10/04",
+      "ja": "有機化合物［５］",
+      "en": "Organic compounds",
+      "count": 1131,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M10/10": {
+      "code": "D06M10/10",
+      "level": 3,
+      "parent": "D06M10/08",
+      "ja": "高分子化合物［５］",
+      "en": "Macromolecular compounds",
+      "count": 1041,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M11/00": {
+      "code": "D06M11/00",
+      "level": 0,
+      "parent": "D06M",
+      "ja": "繊維，より糸，糸，織物，またはこのような材料から製造された繊維製品の，無機物質またはその錯体による処理；そのような処理が機械的処理と組み合わされたもの，例．マーセル化（Ｄ０６Ｍ１０／００が優先）［２００６．０１］<br><br><b><ul>注</ul></b><br>１．このグループにおいては，下記の用語は以下に示す意味で用いる；<br>―“処理”は，相反する指示のない限り，最終産物をもたらす処理を意味する。例．硫酸バリウムによる処理は，塩化バリウムと硫酸による二つの段階に分かれた処理でありうる。［５］<br>２．処理に使われる化合物がその陽イオンによって特徴づけられる場合，この観点はメイングループＤ０６Ｍ１１／００のみに分類し，グループＤ０６Ｍ１１／０１～Ｄ０６Ｍ１１／８０には分類しない。後に還元を伴う金属塩の処理による金属化法はグループＤ０６Ｍ１１／８３に分類される［５］<br>３．このグループにおいては，グループＤ０６Ｍ１０１／００のインデキシングコードを付与することが望ましい。［５］",
+      "en": "Treating fibres, threads, yarns, fabrics or fibrous goods made from such materials, with inorganic substances or complexes thereof; Such treatment combined with mechanical treatment, e.g. mercerising(<b>D06M10/00</b> takes precedence);<br><br><b><u>Note(s)</u></b><br><br><ul><li>In this group, the following term is used with the meaning indicated: <ul><li>\"treatment\" means, in the absence of an indication to the contrary, the treatment which leads to the end product, e.g. treatment with barium sulfate can mean treatment with barium chloride and with sulfuric acid in two separate steps.  </li></ul></li><li>If a compound used in the treatment is characterised by its cation, classification for this aspect is made in main group <b>D06M11/00</b>only and not in groups <b>D06M11/01 to D06M11/80</b> ; metallisation by treatment with a metal salt, followed by reduction, is classified in group <b>D06M11/83</b>.   </li><li>In this group, it is desirable to add the indexing codes of group <b>D06M101/00</b>. </li></ul>",
+      "count": 11545,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M11/01": {
+      "code": "D06M11/01",
+      "level": 1,
+      "parent": "D06M11/00",
+      "ja": "水素，水または重水によるもの；金属の水素化物またはその錯体によるもの；ボラン，ジボラン，シラン，ジシラン，ホスフィン，ジホスフィン，スチビン，ジスチビン，アルシンまたはジアルシン，またはこれらの錯体によるもの［５］",
+      "en": "with hydrogen, water or heavy water; with hydrides of metals or complexes thereof; with boranes, diboranes, silanes, disilanes, phosphines, diphosphines, stibines, distibines, arsines or diarsines or complexes thereof",
+      "count": 208,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M11/05": {
+      "code": "D06M11/05",
+      "level": 2,
+      "parent": "D06M11/01",
+      "ja": "水によるもの，例．水蒸気；重水によるもの［５］",
+      "en": "with water, e.g. steam; with heavy water",
+      "count": 1368,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M11/07": {
+      "code": "D06M11/07",
+      "level": 1,
+      "parent": "D06M11/00",
+      "ja": "ハロゲンによるもの；ハロゲン酸またはその塩によるもの；ハロゲンの酸化物または酸素酸，またはその塩によるもの［５］",
+      "en": "with halogens; with halogen acids or salts thereof; with oxides or oxyacids of halogens or salts thereof",
+      "count": 180,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M11/09": {
+      "code": "D06M11/09",
+      "level": 2,
+      "parent": "D06M11/07",
+      "ja": "遊離ハロゲンまたはハロゲン間化合物によるもの［５］",
+      "en": "with free halogens or interhalogen compounds",
+      "count": 249,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M11/11": {
+      "code": "D06M11/11",
+      "level": 2,
+      "parent": "D06M11/07",
+      "ja": "ハロゲン酸またはその塩によるもの［５］",
+      "en": "with halogen acids or salts thereof",
+      "count": 431,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M11/13": {
+      "code": "D06M11/13",
+      "level": 3,
+      "parent": "D06M11/11",
+      "ja": "ハロゲン化アンモニウムまたは周期表第１族または第１１族の元素ハロゲン化物［２００６．０１］",
+      "en": "Ammonium halides or halides of elements of Groups 1 or 11 of the Periodic Table",
+      "count": 1581,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M11/155": {
+      "code": "D06M11/155",
+      "level": 3,
+      "parent": "D06M11/11",
+      "ja": "周期表第２族または第１２族の元素のハロゲン化物［２００６．０１］",
+      "en": "Halides of elements of Groups 2 or 12 of the Periodic Table",
+      "count": 1463,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M11/17": {
+      "code": "D06M11/17",
+      "level": 3,
+      "parent": "D06M11/11",
+      "ja": "周期表第３族または第１３族の元素のハロゲン化物［２００６．０１］",
+      "en": "Halides of elements of Groups 3 or 13 of the Periodic Table",
+      "count": 370,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M11/20": {
+      "code": "D06M11/20",
+      "level": 3,
+      "parent": "D06M11/11",
+      "ja": "周期表第４族または第１４族の元素のハロゲン化物，例．塩化ジルコニウム［２００６．０１］",
+      "en": "Halides of elements of Groups 4 or 14 of the Periodic Table, e.g. zirconyl chloride",
+      "count": 410,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M11/22": {
+      "code": "D06M11/22",
+      "level": 3,
+      "parent": "D06M11/11",
+      "ja": "周期表第５族または第１５族の元素のハロゲン化物［２００６．０１］",
+      "en": "Halides of elements of Groups 5 or 15 of the Periodic Table",
+      "count": 90,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M11/24": {
+      "code": "D06M11/24",
+      "level": 3,
+      "parent": "D06M11/11",
+      "ja": "周期表第６族または第１６族の元素のハロゲン化物，例．塩化クロム［２００６．０１］",
+      "en": "Halides of elements of Groups 6 or 16 of the Periodic Table, e.g. chromyl chloride",
+      "count": 60,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M11/26": {
+      "code": "D06M11/26",
+      "level": 3,
+      "parent": "D06M11/11",
+      "ja": "周期表第７族の元素のハロゲン化物（ハロゲン間化合物Ｄ０６Ｍ１１／０９）［２００６．０１］",
+      "en": "Halides of elements of Group 7 of the Periodic Table(interhalogen compounds <b>D06M11/09</b>)",
+      "count": 38,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M11/28": {
+      "code": "D06M11/28",
+      "level": 3,
+      "parent": "D06M11/11",
+      "ja": "周期表第８族，第９族，第１０族または第１８族の元素のハロゲン化物［２００６．０１］",
+      "en": "Halides of elements of Groups 8, 9, 10 or 18 of the Periodic Table",
+      "count": 339,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M11/30": {
+      "code": "D06M11/30",
+      "level": 2,
+      "parent": "D06M11/07",
+      "ja": "ハロゲンの酸化物，ハロゲンの酸素酸またはその塩によるもの，例．過塩素酸塩によるもの［５］",
+      "en": "with oxides of halogens, oxyacids of halogens or their salts, e.g. with perchlorates",
+      "count": 780,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M11/32": {
+      "code": "D06M11/32",
+      "level": 1,
+      "parent": "D06M11/00",
+      "ja": "酸素，オゾン，オゾニド，酸化物，水酸化物またはペルオキシ酸化合物によるもの；両性元素―酸素結合によりアニオンから誘導される塩（水または重水によるものＤ０６Ｍ１１／０５；ハロゲンの酸化物または酸素酸によるものＤ０６Ｍ１１／３０）［２００６．０１］",
+      "en": "with oxygen, ozone, ozonides, oxides, hydroxides or percompounds; Salts derived from anions with an amphoteric element-oxygen bond (with water or heavy water <b>D06M11/05</b>;  with oxides or oxyacids of halogens <b>D06M11/30</b>)",
+      "count": 185,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M11/34": {
+      "code": "D06M11/34",
+      "level": 2,
+      "parent": "D06M11/32",
+      "ja": "酸素，オゾンまたはオゾニドによるもの［５］",
+      "en": "with oxygen, ozone or ozonides",
+      "count": 445,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M11/36": {
+      "code": "D06M11/36",
+      "level": 2,
+      "parent": "D06M11/32",
+      "ja": "酸化物，水酸化物または混合酸化物によるもの；両性元素―酸素結合によるアニオンから誘導される塩によるもの［５］",
+      "en": "with oxides, hydroxides or mixed oxides; with salts derived from anions with an amphoteric element-oxygen bond",
+      "count": 553,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M11/38": {
+      "code": "D06M11/38",
+      "level": 3,
+      "parent": "D06M11/36",
+      "ja": "周期表第１族または第１１族の元素の酸化物または水酸化物［２００６．０１］",
+      "en": "Oxides or hydroxides of elements of Groups 1 or 11 of the Periodic Table",
+      "count": 7292,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M11/40": {
+      "code": "D06M11/40",
+      "level": 4,
+      "parent": "D06M11/38",
+      "ja": "機械的張力との組み合わせまたはその欠如によるもの，例．弛緩マーセル化［５］",
+      "en": "combined with, or in absence of, mechanical tension, e.g. slack mercerising",
+      "count": 293,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M11/42": {
+      "code": "D06M11/42",
+      "level": 4,
+      "parent": "D06M11/38",
+      "ja": "銅，銀または金の酸化物または水酸化物［５］",
+      "en": "Oxides or hydroxides of copper, silver or gold",
+      "count": 827,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M11/44": {
+      "code": "D06M11/44",
+      "level": 3,
+      "parent": "D06M11/36",
+      "ja": "周期表第２族または第１２族の元素の酸化物または水酸化物；亜鉛酸塩；カドミウム酸塩［２００６．０１］",
+      "en": "Oxides or hydroxides of elements of Groups 2 or 12 of the Periodic Table; Zincates; Cadmates",
+      "count": 3219,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M11/45": {
+      "code": "D06M11/45",
+      "level": 3,
+      "parent": "D06M11/36",
+      "ja": "周期表第３族または第１３族の元素の酸化物または水酸化物；アルミニウム酸塩［２００６．０１］",
+      "en": "Oxides or hydroxides of elements of Groups 3 or 13 of the Periodic Table; Aluminates",
+      "count": 2239,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M11/46": {
+      "code": "D06M11/46",
+      "level": 3,
+      "parent": "D06M11/36",
+      "ja": "周期表第４族または第１４族の元素の酸化物または水酸化物；チタン酸塩；ジルコニウム酸塩；すず酸塩；鉛酸塩［２００６．０１］",
+      "en": "Oxides or hydroxides of elements of Groups 4 or 14 of the Periodic Table; Titanates; Zirconates; Stannates; Plumbates",
+      "count": 5144,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M11/47": {
+      "code": "D06M11/47",
+      "level": 3,
+      "parent": "D06M11/36",
+      "ja": "周期表第５族または第１５族の元素の酸化物または水酸化物；バナジウム酸塩；ニオブ酸塩；タンタル酸塩；ひ酸塩；アンチモン酸塩；ビスマス酸塩［２００６．０１］",
+      "en": "Oxides or hydroxides of elements of Groups 5 or 15 of the Periodic Table; Vanadates; Niobates; Tantalates; Arsenates; Antimonates; Bismuthates",
+      "count": 1011,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M11/48": {
+      "code": "D06M11/48",
+      "level": 3,
+      "parent": "D06M11/36",
+      "ja": "クロム，モリブデンまたはタングステンの酸化物または水酸化物；クロム酸塩；重クロム酸塩；モリブデン酸塩；タングステン酸塩［５］",
+      "en": "Oxides or hydroxides of chromium, molybdenum or tungsten; Chromates; Dichromates; Molybdates; Tungstates",
+      "count": 665,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M11/49": {
+      "code": "D06M11/49",
+      "level": 3,
+      "parent": "D06M11/36",
+      "ja": "周期表第８族，第９族，第１０族または第１８族の元素の酸化物または水酸化物；鉄酸塩；コバルト酸塩；ニッケル酸塩；ルテニウム酸塩；オスミウム酸塩；ロジウム酸塩；イリジウム酸塩；パラジウム酸塩；白金酸塩［２００６．０１］",
+      "en": "Oxides or hydroxides of elements of Groups 8, 9,10 or 18 of the Periodic Table; Ferrates; Cobaltates; Nickelates; Ruthenates; Osmates; Rhodates; Iridates; Palladates; Platinates",
+      "count": 818,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M11/50": {
+      "code": "D06M11/50",
+      "level": 2,
+      "parent": "D06M11/32",
+      "ja": "過酸化水素または金属の過酸化物によるもの；過硫酸，過マンガン酸，過硝酸，過炭酸またはこれらの塩によるもの［５］",
+      "en": "with hydrogen peroxide or peroxides of metals; with persulfuric, permanganic, pernitric, percarbonic acids or their salts",
+      "count": 1889,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M11/51": {
+      "code": "D06M11/51",
+      "level": 1,
+      "parent": "D06M11/00",
+      "ja": "硫黄，セレン，テルル，ポロニウムまたはその化合物によるもの（過硫酸またはその塩によるものＤ０６Ｍ１１／５０）［５］",
+      "en": "with sulfur, selenium, tellurium, polonium or compounds thereof(with persulfuric acids or their salts <b>D06M11/50</b>)",
+      "count": 255,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M11/52": {
+      "code": "D06M11/52",
+      "level": 2,
+      "parent": "D06M11/51",
+      "ja": "セレン，テルル，ポロニウムまたはこれらの化合物によるもの；硫黄，亜ニチオン酸塩または硫黄とハロゲンを含む化合物で酸素を含むものまたは含まないものによるもの；クロロスルホン酸によるスルホン化―ハロゲン化によるもの；二酸化イオウと遊離ハロゲンの混合物によるスルホン化―ハロゲン化によるもの［５］",
+      "en": "with selenium, tellurium, polonium or their compounds; with sulfur, dithionites or compounds containing sulfur and halogens, with or without oxygen; by sulfohalogenation with chlorosulfonic acid; by sulfohalogenation with a mixture of sulfur dioxide and free halogens",
+      "count": 342,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M11/53": {
+      "code": "D06M11/53",
+      "level": 2,
+      "parent": "D06M11/51",
+      "ja": "硫化水素またはその塩によるもの；多硫化物によるもの［５］",
+      "en": "with hydrogen sulfide or its salts; with polysulfides",
+      "count": 514,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M11/54": {
+      "code": "D06M11/54",
+      "level": 2,
+      "parent": "D06M11/51",
+      "ja": "二酸化硫黄によるもの；亜硫酸またはその塩によるもの（Ｄ０６Ｍ１１／５２が優先）［５］",
+      "en": "with sulfur dioxide; with sulfurous acid or its salts(<b>D06M11/52</b> takes precedence)",
+      "count": 533,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M11/55": {
+      "code": "D06M11/55",
+      "level": 2,
+      "parent": "D06M11/51",
+      "ja": "三酸化硫黄によるもの；硫酸チオ硫酸またはその塩によるもの［５］",
+      "en": "with sulfur trioxide; with sulfuric acid or thiosulfuric acid or their salts",
+      "count": 1296,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M11/56": {
+      "code": "D06M11/56",
+      "level": 3,
+      "parent": "D06M11/55",
+      "ja": "周期表第３族または第１３族以外の元素の硫酸塩またはチオ硫酸塩によるもの［２００６．０１］",
+      "en": "Sulfates or thiosulfates other than of elements of Groups 3 or 13 of the Periodic Table",
+      "count": 1605,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M11/57": {
+      "code": "D06M11/57",
+      "level": 3,
+      "parent": "D06M11/55",
+      "ja": "周期表第３族または第１３族の元素の硫酸塩またはチオ硫酸塩によるもの，例．ミョウバン［２００６．０１］",
+      "en": "Sulfates or thiosulfates of elements of Groups 3 or 13 of the Periodic Table, e.g. alums",
+      "count": 488,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M11/58": {
+      "code": "D06M11/58",
+      "level": 1,
+      "parent": "D06M11/00",
+      "ja": "窒素またはその化合物によるもの，例．硝化物によるもの（ハロゲン化アンモニウムによるものＤ０６Ｍ１１／１３）［５］",
+      "en": "with nitrogen or compounds thereof, e.g. with nitrides(with ammonium halides <b>D06M11/13</b>)",
+      "count": 431,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M11/59": {
+      "code": "D06M11/59",
+      "level": 2,
+      "parent": "D06M11/58",
+      "ja": "アンモニアによるもの；無機物質と有機アミンの錯体によるもの［５］",
+      "en": "with ammonia; with complexes of organic amines with inorganic substances",
+      "count": 136,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M11/60": {
+      "code": "D06M11/60",
+      "level": 3,
+      "parent": "D06M11/59",
+      "ja": "気体または溶液状のアンモニア［５］",
+      "en": "Ammonia as a gas or in solution",
+      "count": 451,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M11/61": {
+      "code": "D06M11/61",
+      "level": 3,
+      "parent": "D06M11/59",
+      "ja": "液体アンモニア［５］",
+      "en": "Liquid ammonia",
+      "count": 527,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M11/62": {
+      "code": "D06M11/62",
+      "level": 3,
+      "parent": "D06M11/59",
+      "ja": "アンモニアまたは有機アミンと金属酸化物または金属塩との錯体［５］",
+      "en": "Complexes of metal oxides or complexes of metal salts with ammonia or with organic amines",
+      "count": 202,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M11/63": {
+      "code": "D06M11/63",
+      "level": 2,
+      "parent": "D06M11/58",
+      "ja": "ヒドロキシルアミンまたはヒドラジンによるもの［５］",
+      "en": "with hydroxylamine or hydrazine",
+      "count": 239,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M11/64": {
+      "code": "D06M11/64",
+      "level": 2,
+      "parent": "D06M11/58",
+      "ja": "窒素酸化物によるもの；窒素の酸素酸またはその塩によるもの（過硝酸またはその塩によるものＤ０６Ｍ１１／５０）［５］",
+      "en": "with nitrogen oxides; with oxyacids of nitrogen or their salts(with pernitric acids or their salts <b>D06M11/50</b>)",
+      "count": 583,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M11/65": {
+      "code": "D06M11/65",
+      "level": 3,
+      "parent": "D06M11/64",
+      "ja": "窒素の酸素酸の塩によるもの［５］",
+      "en": "Salts of oxyacids of nitrogen",
+      "count": 1047,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M11/66": {
+      "code": "D06M11/66",
+      "level": 2,
+      "parent": "D06M11/58",
+      "ja": "スルファミド酸またはその塩によるもの［５］",
+      "en": "with sulfamic acid or its salts",
+      "count": 78,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M11/67": {
+      "code": "D06M11/67",
+      "level": 2,
+      "parent": "D06M11/58",
+      "ja": "シアンまたはその化合物によるもの，例．シアン化水素酸，シアン酸，イソシアン酸，チオシアン酸，イソチオシアン酸またはこれらの塩によるもの，またはシアナミドによるもの；カルバミン酸またはその塩によるもの（ジシアナミドによるものＤ０６Ｍ１３／４３２）［５］",
+      "en": "with cyanogen or compounds thereof, e.g. with cyanhydric acid, cyanic acid, isocyanic acid, thiocyanic acid, isothiocyanic acid or their salts, or with cyanamides; with carbamic acid or its salts(with dicyanamides <b>D06M13/432</b>)",
+      "count": 189,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M11/68": {
+      "code": "D06M11/68",
+      "level": 1,
+      "parent": "D06M11/00",
+      "ja": "りんまたはその化合物によるもの，例．クロロホスホン酸またはその塩によるもの（ホスフィンまたはジホスフィンによるものＤ０６Ｍ１１／０１；セレンまたはテルル化合物によるものＤ０６Ｍ１１／５２；ポリホスファゼンまたはその誘導体によるものＤ０６Ｍ１５／６７３）［５］",
+      "en": "with phosphorus or compounds thereof, e.g. with chlorophosphonic acid or salts thereof(with phosphines or diphosphines <b>D06M11/01</b>; with selenium or tellurium compounds <b>D06M11/52</b>; with polyphosphazene or derivatives thereof <b>D06M15/673</b>)",
+      "count": 192,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M11/69": {
+      "code": "D06M11/69",
+      "level": 2,
+      "parent": "D06M11/68",
+      "ja": "りんによるもの；りんのハロゲン化物またはハロゲン酸化物によるもの；クロロホスホン酸またはその塩によるもの［５］",
+      "en": "with phosphorus; with halides or oxyhalides of phosphorus; with chlorophosphonic acid or its salts",
+      "count": 135,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M11/70": {
+      "code": "D06M11/70",
+      "level": 2,
+      "parent": "D06M11/68",
+      "ja": "りんの酸化物によるもの；次亜りん酸，亜りん酸またはりん酸またはその塩によるもの［５］",
+      "en": "with oxides of phosphorus; with hypophosphorous, phosphorous or phosphoric acids or their salts",
+      "count": 1060,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M11/71": {
+      "code": "D06M11/71",
+      "level": 3,
+      "parent": "D06M11/70",
+      "ja": "りん酸の塩によるもの［５］",
+      "en": "Salts of phosphoric acids",
+      "count": 1774,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M11/72": {
+      "code": "D06M11/72",
+      "level": 2,
+      "parent": "D06M11/68",
+      "ja": "メタ酸またはその塩によるもの；ポリりん酸またはその塩によるもの；過りん酸またはその塩によるもの［５］",
+      "en": "with metaphosphoric acids or their salts; with polyphosphoric acids or their salts; with perphosphoric acids or their salts",
+      "count": 974,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M11/73": {
+      "code": "D06M11/73",
+      "level": 1,
+      "parent": "D06M11/00",
+      "ja": "炭素またはその化合物によるもの（Ｄ０６Ｍ１１／６７が優先）［５］",
+      "en": "with carbon or compounds thereof(<b>D06M11/67</b> takes precedence)",
+      "count": 369,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M11/74": {
+      "code": "D06M11/74",
+      "level": 2,
+      "parent": "D06M11/73",
+      "ja": "炭素または石墨によるもの；炭化物によるもの；石墨酸またはその塩によるもの［５］",
+      "en": "with carbon or graphite; with carbides; with graphitic acids or their salts",
+      "count": 5421,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M11/75": {
+      "code": "D06M11/75",
+      "level": 2,
+      "parent": "D06M11/73",
+      "ja": "ホスゲンによるもの；炭酸と硫黄の両方を含む化合物，例．チオホスゲン，によるもの（チオシアン酸によるものＤ０６Ｍ１１／６７；チオカルバミン酸によるものＤ０６Ｍ１３／４２５；チオ尿素によるものＤ０６Ｍ１３／４３２）［５］",
+      "en": "with phosgene; with compounds containing both carbon and sulfur, e.g. thiophosgene(with thiocyanic acid <b>D06M11/67</b>; with thiocarbamic acid <b>D06M13/425</b>; with thiourea <b>D06M13/432</b>)",
+      "count": 42,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M11/76": {
+      "code": "D06M11/76",
+      "level": 2,
+      "parent": "D06M11/73",
+      "ja": "酸化炭素または炭素塩によるもの（Ｄ０６Ｍ１１／７５が優先；過炭酸またはその塩によるものＤ０６Ｍ１１／５０；尿素によるものＤ０６Ｍ１３／４３２）［５］",
+      "en": "with carbon oxides or carbonates(<b>D06M11/75</b> takes precedence; with percarbonic acids or their salts <b>D06M11/50</b>; with urea <b>D06M13/432</b>)",
+      "count": 2703,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M11/77": {
+      "code": "D06M11/77",
+      "level": 1,
+      "parent": "D06M11/00",
+      "ja": "けい素またはその化合物によるもの（シランまたはジシランによるものＤ０６Ｍ１１／０１）［５］",
+      "en": "with silicon or compounds thereof(with silanes or disilanes <b>D06M11/01</b>)",
+      "count": 1258,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M11/78": {
+      "code": "D06M11/78",
+      "level": 2,
+      "parent": "D06M11/77",
+      "ja": "けい素によるもの；けい素のハロゲン化物またはオキシハロゲン化物によるもの；フルオロけい酸塩によるもの［５］",
+      "en": "with silicon; with halides or oxyhalides of silicon; with fluorosilicates",
+      "count": 290,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M11/79": {
+      "code": "D06M11/79",
+      "level": 2,
+      "parent": "D06M11/77",
+      "ja": "二酸化けい素，けい酸またはその塩によるもの［５］",
+      "en": "with silicon dioxide, silicic acids or their salts",
+      "count": 7879,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M11/80": {
+      "code": "D06M11/80",
+      "level": 1,
+      "parent": "D06M11/00",
+      "ja": "ほう素またはその化合物によるもの，例．ほう化物（ボランまたはジボランによるものＤ０６Ｍ１１／０１；炭化ほう素によるものＤ０６Ｍ１１／７４）［５］",
+      "en": "with boron or compounds thereof, e.g. borides(with boranes or diboranes <b>D06M11/01</b>; with boron carbides <b>D06M11/74</b>)",
+      "count": 670,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M11/81": {
+      "code": "D06M11/81",
+      "level": 2,
+      "parent": "D06M11/80",
+      "ja": "ほう素によるもの；ハロゲン化ほう素によるもの；フルオロほう酸塩によるもの［５］",
+      "en": "with boron; with boron halides; with fluoroborates",
+      "count": 106,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M11/82": {
+      "code": "D06M11/82",
+      "level": 2,
+      "parent": "D06M11/80",
+      "ja": "酸化ほう素によるもの；ほう酸，メタほう酸または過ほう酸またはこれらの塩によるもの，例．ほう砂［５］",
+      "en": "with boron oxides; with boric, meta- or perboric acids or their salts, e.g. with borax",
+      "count": 1162,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M11/83": {
+      "code": "D06M11/83",
+      "level": 1,
+      "parent": "D06M11/00",
+      "ja": "金属によるもの；金属生成化合物，例．金属カルボニル，によるもの；繊維製品上での金属化合物の還元［２００６．０１］",
+      "en": "with metals; with metal-generating compounds, e.g. metal carbonyls; Reduction of metal compounds on textiles",
+      "count": 7452,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M11/84": {
+      "code": "D06M11/84",
+      "level": 1,
+      "parent": "D06M11/00",
+      "ja": "機械的処理との組み合わせ（機械的張力との組み合わせ，例．マーセル化，Ｄ０６Ｍ１１／４０）［５］",
+      "en": "combined with mechanical treatment(combined with mechanical tension, e.g. mercerising, <b>D06M11/40</b>)",
+      "count": 713,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/00": {
+      "code": "D06M13/00",
+      "level": 0,
+      "parent": "D06M",
+      "ja": "繊維，より糸，糸，織物，またはこのような材料から製造された繊維製品の，非高分子有機化合物による処理（Ｄ０６Ｍ１０／００，Ｄ０６Ｍ１４／００が優先；有機アミンと無機物質の錯体による処理Ｄ０６Ｍ１１／５９）；機械的処理と組合せられたこのような処理［４，５］<br><br><b><ul>注</ul></b><br>１．このグループにおいては，下記の用語は以下に示す意味で用いる：<br>―“処理”とは，相反する指示がない限り，最終産物をもたらす処理を意味する。例．クロロ酢酸による処理は，塩化クロロアセチルとけん化による二つの段階に分かれた処理を意味しうる。［５］<br>２．このグループにおいては，グループＤ０６Ｍ１０１／００のインデキシングコードを付与することが望ましい。［５］",
+      "en": "Treating fibres, threads, yarns, fabrics or fibrous goods made from such materials with non-macromolecular organic compounds(<b>D06M10/00</b>, <b>D06M14/00</b> take precedence; treatment with complexes of organic amines with inorganic substances <b>D06M11/59</b>);Such treatment combined with mechanical treatment; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this group, the following term is used with the meaning indicated: <ul><li>\"treatment\" means, in the absence of an indication to the contrary, the treatment which leads to the end product, e.g. treatment with chloroacetic acid can mean treatment with chloroacetylchloride and saponification in two separate steps. </li></ul></li><li>In this group, it is desirable to add the indexing codes of group <b>D06M101/00</b>.  </li></ul>",
+      "count": 6842,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/02": {
+      "code": "D06M13/02",
+      "level": 1,
+      "parent": "D06M13/00",
+      "ja": "炭化水素によるもの",
+      "en": "with hydrocarbons",
+      "count": 12987,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/03": {
+      "code": "D06M13/03",
+      "level": 2,
+      "parent": "D06M13/02",
+      "ja": "不飽和炭化水素，例．アルケンまたはアルキン，によるもの［５］",
+      "en": "with unsaturated hydrocarbons, e.g. alkenes or alkynes",
+      "count": 350,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/07": {
+      "code": "D06M13/07",
+      "level": 3,
+      "parent": "D06M13/03",
+      "ja": "芳香族炭化水素［５］",
+      "en": "Aromatic hydrocarbons",
+      "count": 540,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/08": {
+      "code": "D06M13/08",
+      "level": 1,
+      "parent": "D06M13/00",
+      "ja": "ハロゲン化炭化水素によるもの",
+      "en": "with halogenated hydrocarbons",
+      "count": 1251,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/10": {
+      "code": "D06M13/10",
+      "level": 1,
+      "parent": "D06M13/00",
+      "ja": "酸素を含む化合物によるもの",
+      "en": "with compounds containing oxygen",
+      "count": 488,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/11": {
+      "code": "D06M13/11",
+      "level": 2,
+      "parent": "D06M13/10",
+      "ja": "エポキシ基を含む化合物またはその前駆体［５］",
+      "en": "Compounds containing epoxy groups or precursors thereof",
+      "count": 2065,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/12": {
+      "code": "D06M13/12",
+      "level": 2,
+      "parent": "D06M13/10",
+      "ja": "アルデヒド；ケトン",
+      "en": "Aldehydes; Ketones",
+      "count": 703,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/123": {
+      "code": "D06M13/123",
+      "level": 3,
+      "parent": "D06M13/12",
+      "ja": "ポリアルデヒド，ポリケトン［５］",
+      "en": "Polyaldehydes; Polyketones",
+      "count": 834,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/127": {
+      "code": "D06M13/127",
+      "level": 3,
+      "parent": "D06M13/12",
+      "ja": "モノアルデヒド，例．ホルムアルデヒド；モノケトン［５］",
+      "en": "Mono-aldehydes, e.g. formaldehyde; Monoketones",
+      "count": 1135,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/13": {
+      "code": "D06M13/13",
+      "level": 3,
+      "parent": "D06M13/12",
+      "ja": "不飽和アルデヒド，例．アクロレイン；不飽和ケトン；ケテン［５］",
+      "en": "Unsaturated aldehydes, e.g. acrolein; Unsaturated ketones; Ketenes",
+      "count": 187,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/133": {
+      "code": "D06M13/133",
+      "level": 3,
+      "parent": "D06M13/12",
+      "ja": "ハロゲン化アルデヒド；ハロゲン化ケトン［５］",
+      "en": "Halogenated aldehydes; Halogenated ketones",
+      "count": 53,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/137": {
+      "code": "D06M13/137",
+      "level": 2,
+      "parent": "D06M13/10",
+      "ja": "アセタール，例．ホルマールまたはケタール［５］",
+      "en": "Acetals, e.g. formals or ketals",
+      "count": 228,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/144": {
+      "code": "D06M13/144",
+      "level": 2,
+      "parent": "D06M13/10",
+      "ja": "アルコール；金属アルコラート（Ｄ０６Ｍ１３／１１が優先）［５］",
+      "en": "Alcohols; Metal alcoholates(<b>D06M13/11</b> takes precedence)",
+      "count": 3862,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/148": {
+      "code": "D06M13/148",
+      "level": 3,
+      "parent": "D06M13/144",
+      "ja": "ポリアルコール，例．グリセロール［５］",
+      "en": "Polyalcohols, e.g. glycerol",
+      "count": 3337,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/152": {
+      "code": "D06M13/152",
+      "level": 2,
+      "parent": "D06M13/10",
+      "ja": "六員芳香環の炭素原子に結合したヒドロキシ基のあるもの［５］",
+      "en": "having a hydroxy group bound to a carbon atom of a six-membered aromatic ring",
+      "count": 2077,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/156": {
+      "code": "D06M13/156",
+      "level": 3,
+      "parent": "D06M13/152",
+      "ja": "ハロゲン原子を含むもの［５］",
+      "en": "containing halogen atoms",
+      "count": 231,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/165": {
+      "code": "D06M13/165",
+      "level": 2,
+      "parent": "D06M13/10",
+      "ja": "エーテル（Ｄ０６Ｍ１３／１１が優先）［５］",
+      "en": "Ethers(<b>D06M13/11</b> takes precedence)",
+      "count": 2612,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/17": {
+      "code": "D06M13/17",
+      "level": 3,
+      "parent": "D06M13/165",
+      "ja": "ポリオキシアルキレングリコールエーテル［５］",
+      "en": "Polyoxyalkyleneglycol ethers",
+      "count": 1298,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/175": {
+      "code": "D06M13/175",
+      "level": 3,
+      "parent": "D06M13/165",
+      "ja": "不飽和エーテル，例．ビニルエーテル［５］",
+      "en": "Unsaturated ethers, e.g. vinylethers",
+      "count": 204,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/184": {
+      "code": "D06M13/184",
+      "level": 2,
+      "parent": "D06M13/10",
+      "ja": "カルボン酸；その無水物，ハロゲン化物または塩［５］",
+      "en": "Carboxylic acids; Anhydrides, halides or salts thereof",
+      "count": 2116,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/188": {
+      "code": "D06M13/188",
+      "level": 3,
+      "parent": "D06M13/184",
+      "ja": "モノカルボン酸；その無水物，ハロゲン化物または塩［５］",
+      "en": "Monocarboxylic acids; Anhydrides, halides or salts thereof",
+      "count": 4895,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/192": {
+      "code": "D06M13/192",
+      "level": 3,
+      "parent": "D06M13/184",
+      "ja": "ポリカルボン酸；その無水物，ハロゲン化物または塩［５］",
+      "en": "Polycarboxylic acids; Anhydrides, halides or salts thereof",
+      "count": 1896,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/196": {
+      "code": "D06M13/196",
+      "level": 3,
+      "parent": "D06M13/184",
+      "ja": "過カルボン酸；その無水物，ハロゲン化物または塩［５］",
+      "en": "Percarboxylic acids; Anhydrides, halides or salts thereof",
+      "count": 95,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/203": {
+      "code": "D06M13/203",
+      "level": 3,
+      "parent": "D06M13/184",
+      "ja": "不飽和カルボン酸；その無水物，ハロゲン化物または塩［５］",
+      "en": "Unsaturated carboxylic acids; Anhydrides, halides or salts thereof",
+      "count": 1859,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/207": {
+      "code": "D06M13/207",
+      "level": 3,
+      "parent": "D06M13/184",
+      "ja": "置換されたカルボン酸，例．ヒドロキシまたはケト基によるもの；その無水物，ハロゲン化物または塩［５］",
+      "en": "Substituted carboxylic acids, e.g. by hydroxy or keto groups; Anhydrides, halides or salts thereof",
+      "count": 2357,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/21": {
+      "code": "D06M13/21",
+      "level": 4,
+      "parent": "D06M13/207",
+      "ja": "ハロゲン化されたカルボン酸；その無水物，ハロゲン化物または塩［５］",
+      "en": "Halogenated carboxylic acids; Anhydrides, halides or salts thereof",
+      "count": 403,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/213": {
+      "code": "D06M13/213",
+      "level": 5,
+      "parent": "D06M13/21",
+      "ja": "過ふっ化アルキルカルボン酸；その無水物，ハロゲン化物または塩［５］",
+      "en": "Perfluoroalkyl carboxylic acids; Anhydrides, halides or salts thereof",
+      "count": 82,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/217": {
+      "code": "D06M13/217",
+      "level": 4,
+      "parent": "D06M13/207",
+      "ja": "末端基としてカルボキシル基をもつポリオキシアルキレングリコールエーテル；その無水物，ハロゲン化物または塩［５］",
+      "en": "Polyoxyalkyleneglycol ethers with a terminal carboxyl group; Anhydrides, halides or salts thereof",
+      "count": 79,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/224": {
+      "code": "D06M13/224",
+      "level": 2,
+      "parent": "D06M13/10",
+      "ja": "カルボン酸エステル；炭酸エステル［５］",
+      "en": "Esters of carboxylic acids; Esters of carbonic acid",
+      "count": 8052,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/228": {
+      "code": "D06M13/228",
+      "level": 3,
+      "parent": "D06M13/224",
+      "ja": "環式エステル，例．ラクトン［５］",
+      "en": "Cyclic esters, e.g. lactones",
+      "count": 314,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/232": {
+      "code": "D06M13/232",
+      "level": 3,
+      "parent": "D06M13/224",
+      "ja": "有機炭酸エステル［５］",
+      "en": "Organic carbonates",
+      "count": 179,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/236": {
+      "code": "D06M13/236",
+      "level": 3,
+      "parent": "D06M13/224",
+      "ja": "ハロゲン原子を含むもの［５］",
+      "en": "containing halogen atoms",
+      "count": 566,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/238": {
+      "code": "D06M13/238",
+      "level": 3,
+      "parent": "D06M13/224",
+      "ja": "タンニン，例．ガロイル没食子酸［５］",
+      "en": "Tannins, e.g. gallotannic acids",
+      "count": 377,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/244": {
+      "code": "D06M13/244",
+      "level": 1,
+      "parent": "D06M13/00",
+      "ja": "硫黄またはりんを含む化合物によるもの［５］",
+      "en": "with compounds containing sulfur or phosphorus",
+      "count": 2030,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/248": {
+      "code": "D06M13/248",
+      "level": 2,
+      "parent": "D06M13/244",
+      "ja": "硫黄を含む化合物によるもの［５］",
+      "en": "with compounds containing sulfur",
+      "count": 1875,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/252": {
+      "code": "D06M13/252",
+      "level": 3,
+      "parent": "D06M13/248",
+      "ja": "メルカプタン，チオフェノール，硫化物または多硫化物，例．メルカプト酢酸；スルホニウム化合物［５］",
+      "en": "Mercaptans, thiophenols, sulfides or polysulfides, e.g. mercapto acetic acid; Sulfonium compounds",
+      "count": 753,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/256": {
+      "code": "D06M13/256",
+      "level": 3,
+      "parent": "D06M13/248",
+      "ja": "スルホネート化合物［５］",
+      "en": "Sulfonated compounds",
+      "count": 3762,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/262": {
+      "code": "D06M13/262",
+      "level": 3,
+      "parent": "D06M13/248",
+      "ja": "硫酸塩化合物［５］",
+      "en": "Sulfated compounds",
+      "count": 1508,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/265": {
+      "code": "D06M13/265",
+      "level": 3,
+      "parent": "D06M13/248",
+      "ja": "ハロゲン原子を含むもの［５］",
+      "en": "containing halogen atoms",
+      "count": 121,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/268": {
+      "code": "D06M13/268",
+      "level": 3,
+      "parent": "D06M13/248",
+      "ja": "スルホン［５］",
+      "en": "Sulfones",
+      "count": 296,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/272": {
+      "code": "D06M13/272",
+      "level": 3,
+      "parent": "D06M13/248",
+      "ja": "硫黄原子を含む不飽和化合物［５］",
+      "en": "Unsaturated compounds containing sulfur atoms",
+      "count": 154,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/275": {
+      "code": "D06M13/275",
+      "level": 4,
+      "parent": "D06M13/272",
+      "ja": "ビニルチオエーテル［５］",
+      "en": "Vinylthioethers",
+      "count": 11,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/278": {
+      "code": "D06M13/278",
+      "level": 4,
+      "parent": "D06M13/272",
+      "ja": "ビニルスルホニウム化合物；ビニルスルホンまたはビニルスルホキシド化合物［５］",
+      "en": "Vinylsulfonium compounds; Vinylsulfone or vinylsulfoxide compounds",
+      "count": 189,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/282": {
+      "code": "D06M13/282",
+      "level": 2,
+      "parent": "D06M13/244",
+      "ja": "りんを含む化合物によるもの［５］",
+      "en": "with compounds containing phosphorus",
+      "count": 1667,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/285": {
+      "code": "D06M13/285",
+      "level": 3,
+      "parent": "D06M13/282",
+      "ja": "ホスフィン；酸化ホスフィン；硫化ホスフィン；ホスフィン酸または亜ホスフィン酸，またはその誘導体［５］",
+      "en": "Phosphines; Phosphine oxides; Phosphine sulfides; Phosphinic or phosphinous acids or derivatives thereof",
+      "count": 577,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/288": {
+      "code": "D06M13/288",
+      "level": 3,
+      "parent": "D06M13/282",
+      "ja": "ホスホン酸または亜ホスホン酸またはその誘導体［５］",
+      "en": "Phosphonic or phosphonous acids or derivatives thereof",
+      "count": 842,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/29": {
+      "code": "D06M13/29",
+      "level": 4,
+      "parent": "D06M13/288",
+      "ja": "ハロゲン原子を含むもの［５］",
+      "en": "containing halogen atoms",
+      "count": 71,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/292": {
+      "code": "D06M13/292",
+      "level": 3,
+      "parent": "D06M13/282",
+      "ja": "りん酸または亜りん酸の，モノ，ジ，またはトリエステル；その塩［５］",
+      "en": "Mono-, di- or triesters of phosphoric or phosphorous acids; Salts thereof",
+      "count": 3814,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/295": {
+      "code": "D06M13/295",
+      "level": 4,
+      "parent": "D06M13/292",
+      "ja": "ポリグリコール成分を含むもの；ネオペンチル成分を含むもの［５］",
+      "en": "containing polyglycol moieties; containing neopentyl moieties",
+      "count": 418,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/298": {
+      "code": "D06M13/298",
+      "level": 4,
+      "parent": "D06M13/292",
+      "ja": "ハロゲン原子を含むもの［５］",
+      "en": "containing halogen atoms",
+      "count": 253,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/313": {
+      "code": "D06M13/313",
+      "level": 3,
+      "parent": "D06M13/282",
+      "ja": "りん原子を含む不飽和化合物，例．ビニルホスホニウム化合物［５］",
+      "en": "Unsaturated compounds containing phosphorus atoms, e.g. vinylphosphonium compounds",
+      "count": 118,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/322": {
+      "code": "D06M13/322",
+      "level": 1,
+      "parent": "D06M13/00",
+      "ja": "窒素を含む化合物によるもの［５］",
+      "en": "with compounds containing nitrogen",
+      "count": 5631,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/325": {
+      "code": "D06M13/325",
+      "level": 2,
+      "parent": "D06M13/322",
+      "ja": "アミン［５］",
+      "en": "Amines",
+      "count": 1888,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/328": {
+      "code": "D06M13/328",
+      "level": 3,
+      "parent": "D06M13/325",
+      "ja": "アミン基が非環式または脂環式炭素原子に結合しているもの［５］",
+      "en": "the amino group being bound to an acyclic or cycloaliphatic carbon atom",
+      "count": 1395,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/33": {
+      "code": "D06M13/33",
+      "level": 4,
+      "parent": "D06M13/328",
+      "ja": "ハロゲン原子を含むもの［５］",
+      "en": "containing halogen atoms",
+      "count": 121,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/332": {
+      "code": "D06M13/332",
+      "level": 3,
+      "parent": "D06M13/325",
+      "ja": "ジアミンまたはポリアミン［５］",
+      "en": "Di- or polyamines",
+      "count": 1270,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/335": {
+      "code": "D06M13/335",
+      "level": 3,
+      "parent": "D06M13/325",
+      "ja": "アミノ基が六員芳香環の炭素原子に結合しているもの［５］",
+      "en": "having an amino group bound to a carbon atom of a six-membered aromatic ring",
+      "count": 570,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/338": {
+      "code": "D06M13/338",
+      "level": 3,
+      "parent": "D06M13/325",
+      "ja": "有機ヒドラジン；ヒドラジニウム化合物［５］",
+      "en": "Organic hydrazines; Hydrazinium compounds",
+      "count": 225,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/342": {
+      "code": "D06M13/342",
+      "level": 3,
+      "parent": "D06M13/325",
+      "ja": "アミノカルボン酸；ベタイン；アミノスルホン酸；スルホベタイン［５］",
+      "en": "Amino-carboxylic acids; Betaines; Aminosulfonic acids; Sulfo-betaines",
+      "count": 1720,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/345": {
+      "code": "D06M13/345",
+      "level": 2,
+      "parent": "D06M13/322",
+      "ja": "ニトリル［５］",
+      "en": "Nitriles",
+      "count": 633,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/348": {
+      "code": "D06M13/348",
+      "level": 3,
+      "parent": "D06M13/345",
+      "ja": "不飽和物，例．アクリロニトリル［５］",
+      "en": "unsaturated, e.g. acrylonitrile",
+      "count": 325,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/35": {
+      "code": "D06M13/35",
+      "level": 2,
+      "parent": "D06M13/322",
+      "ja": "複素環式化合物［５］",
+      "en": "Heterocyclic compounds",
+      "count": 1652,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/352": {
+      "code": "D06M13/352",
+      "level": 3,
+      "parent": "D06M13/35",
+      "ja": "５員複素環をもつもの［５］",
+      "en": "having five-membered heterocyclic rings",
+      "count": 2029,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/355": {
+      "code": "D06M13/355",
+      "level": 3,
+      "parent": "D06M13/35",
+      "ja": "６員複素環をもつもの［５］",
+      "en": "having six-membered heterocyclic rings",
+      "count": 1489,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/358": {
+      "code": "D06M13/358",
+      "level": 4,
+      "parent": "D06M13/355",
+      "ja": "トリアジン［５］",
+      "en": "Triazines",
+      "count": 1187,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/364": {
+      "code": "D06M13/364",
+      "level": 5,
+      "parent": "D06M13/358",
+      "ja": "シアヌル酸；イソシアヌル酸；その誘導体［５］",
+      "en": "Cyanuric acid; Isocyanuric acid; Derivatives thereof",
+      "count": 607,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/368": {
+      "code": "D06M13/368",
+      "level": 2,
+      "parent": "D06M13/322",
+      "ja": "ヒドロキシアルキルアミン；その誘導体，例．クリチェフスキ塩基［５］",
+      "en": "Hydroxyalkylamines; Derivatives thereof, e.g. Kritchevsky bases",
+      "count": 1392,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/372": {
+      "code": "D06M13/372",
+      "level": 2,
+      "parent": "D06M13/322",
+      "ja": "エーテル化またはエステル化された水酸基をもつもの［５］",
+      "en": "containing etherified or esterified hydroxy groups",
+      "count": 599,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/376": {
+      "code": "D06M13/376",
+      "level": 2,
+      "parent": "D06M13/322",
+      "ja": "オキシム［５］",
+      "en": "Oximes",
+      "count": 91,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/382": {
+      "code": "D06M13/382",
+      "level": 2,
+      "parent": "D06M13/322",
+      "ja": "アミノアルデヒド［５］",
+      "en": "Aminoaldehydes",
+      "count": 34,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/385": {
+      "code": "D06M13/385",
+      "level": 2,
+      "parent": "D06M13/322",
+      "ja": "エポキシ基を含むもの［５］",
+      "en": "containing epoxy groups",
+      "count": 202,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/388": {
+      "code": "D06M13/388",
+      "level": 2,
+      "parent": "D06M13/322",
+      "ja": "酸化アミン［５］",
+      "en": "Amine oxides",
+      "count": 211,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/392": {
+      "code": "D06M13/392",
+      "level": 2,
+      "parent": "D06M13/322",
+      "ja": "ニトロソ化合物；ニトロ化合物［５］",
+      "en": "Nitroso compounds; Nitro compounds",
+      "count": 206,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/395": {
+      "code": "D06M13/395",
+      "level": 2,
+      "parent": "D06M13/322",
+      "ja": "イソシアネート［５］",
+      "en": "Isocyanates",
+      "count": 1552,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/398": {
+      "code": "D06M13/398",
+      "level": 3,
+      "parent": "D06M13/395",
+      "ja": "ふっ素原子を含むもの［５］",
+      "en": "containing fluorine atoms",
+      "count": 65,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/402": {
+      "code": "D06M13/402",
+      "level": 2,
+      "parent": "D06M13/322",
+      "ja": "アミド［５］",
+      "en": "Amides",
+      "count": 3454,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/405": {
+      "code": "D06M13/405",
+      "level": 3,
+      "parent": "D06M13/402",
+      "ja": "アシル化ポリアルキレンポリアミン［５］",
+      "en": "Acylated polyalkylene polyamines",
+      "count": 464,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/408": {
+      "code": "D06M13/408",
+      "level": 3,
+      "parent": "D06M13/402",
+      "ja": "ふっ素原子を含むアシル化アミン；過フルオロカルボン酸のアミド［５］",
+      "en": "Acylated amines containing fluorine atoms; Amides of perfluoro carboxylic acids",
+      "count": 99,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/41": {
+      "code": "D06M13/41",
+      "level": 3,
+      "parent": "D06M13/402",
+      "ja": "不飽和カルボン酸から誘導されたアミド，例．アクリルアミド［５］",
+      "en": "Amides derived from unsaturated carboxylic acids, e.g. acrylamide",
+      "count": 727,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/412": {
+      "code": "D06M13/412",
+      "level": 4,
+      "parent": "D06M13/41",
+      "ja": "Ｎ―メチルアクリルアミド［５］",
+      "en": "N-methylolacrylamides",
+      "count": 117,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/415": {
+      "code": "D06M13/415",
+      "level": 3,
+      "parent": "D06M13/402",
+      "ja": "芳香族カルボン酸のアミド；アシル化芳香族アミン［５］",
+      "en": "Amides of aromatic carboxylic acids; Acylated aromatic amines",
+      "count": 245,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/418": {
+      "code": "D06M13/418",
+      "level": 3,
+      "parent": "D06M13/402",
+      "ja": "環式アミド，例．ラクタム；オキザル酸のアミド［５］",
+      "en": "Cyclic amides, e.g. lactams; Amides of oxalic acid",
+      "count": 294,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/419": {
+      "code": "D06M13/419",
+      "level": 3,
+      "parent": "D06M13/402",
+      "ja": "ヒドロキシアルキル基，またはエーテル化またはエステル化されたヒドロキシアルキル基で置換されたアミド基の窒素原子をもつアミド［５］",
+      "en": "Amides having nitrogen atoms of amide groups substituted by hydroxyalkyl or by etherified or esterified hydroxyalkyl groups",
+      "count": 353,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/422": {
+      "code": "D06M13/422",
+      "level": 3,
+      "parent": "D06M13/402",
+      "ja": "ヒドラジド［５］",
+      "en": "Hydrazides",
+      "count": 194,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/425": {
+      "code": "D06M13/425",
+      "level": 3,
+      "parent": "D06M13/402",
+      "ja": "カルバミン酸またはチオカルバミン酸，またはその誘導体，例．ウレタン（未置換のカルバミン酸Ｄ０６Ｍ１１／６７）［５］",
+      "en": "Carbamic or thiocarbamic acids or derivatives thereof, e.g. urethanes(unsubstituted carbamic acid <b>D06M11/67</b>)",
+      "count": 476,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/428": {
+      "code": "D06M13/428",
+      "level": 4,
+      "parent": "D06M13/425",
+      "ja": "ふっ素原子を含むもの［５］",
+      "en": "containing fluorine atoms",
+      "count": 106,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/432": {
+      "code": "D06M13/432",
+      "level": 3,
+      "parent": "D06M13/402",
+      "ja": "尿素，チオ尿素またはその誘導体，例．ビウレット；尿素包接化合物；ジシアナミド；グアニジン，例．ジシアンジアミド［５］",
+      "en": "Urea, thiourea or derivatives thereof, e.g. biurets; Urea-inclusion compounds; Dicyanamides; Guanidines, e.g. dicyandiamides",
+      "count": 2852,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/435": {
+      "code": "D06M13/435",
+      "level": 3,
+      "parent": "D06M13/402",
+      "ja": "セミカルバジド［５］",
+      "en": "Semicarbazides",
+      "count": 25,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/438": {
+      "code": "D06M13/438",
+      "level": 3,
+      "parent": "D06M13/402",
+      "ja": "スルホンアミド［５］",
+      "en": "Sulfonamides",
+      "count": 390,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/44": {
+      "code": "D06M13/44",
+      "level": 2,
+      "parent": "D06M13/322",
+      "ja": "窒素とりんを含むもの",
+      "en": "containing nitrogen and phosphorus",
+      "count": 682,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/447": {
+      "code": "D06M13/447",
+      "level": 3,
+      "parent": "D06M13/44",
+      "ja": "窒素原子を含むホスホン酸塩またはホスフィン酸塩［５］",
+      "en": "Phosphonates or phosphinates containing nitrogen atoms",
+      "count": 296,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/453": {
+      "code": "D06M13/453",
+      "level": 3,
+      "parent": "D06M13/44",
+      "ja": "窒素原子を含むりん酸塩または亜りん酸塩［５］",
+      "en": "Phosphates or phosphites containing nitrogen atoms",
+      "count": 414,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/46": {
+      "code": "D06M13/46",
+      "level": 2,
+      "parent": "D06M13/322",
+      "ja": "第四級窒素原子を含む化合物（ヒドラジニウム化合物Ｄ０６Ｍ１３／３３８；ベタイン，スルホベタインＤ０６Ｍ１３／３４２）［５］",
+      "en": "Compounds containing quaternary nitrogen atoms(hydrazinium compounds <b>D06M13/338</b>; betaines, sulfo-betaines <b>D06M13/342</b>)",
+      "count": 2806,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/463": {
+      "code": "D06M13/463",
+      "level": 3,
+      "parent": "D06M13/46",
+      "ja": "モノアミンから誘導されるもの［５］",
+      "en": "derived from monoamines",
+      "count": 4575,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/467": {
+      "code": "D06M13/467",
+      "level": 3,
+      "parent": "D06M13/46",
+      "ja": "ポリアミンから誘導されるもの［５］",
+      "en": "derived from polyamines",
+      "count": 450,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/47": {
+      "code": "D06M13/47",
+      "level": 3,
+      "parent": "D06M13/46",
+      "ja": "複素環式化合物から誘導されるもの［５］",
+      "en": "derived from heterocyclic compounds",
+      "count": 425,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/473": {
+      "code": "D06M13/473",
+      "level": 4,
+      "parent": "D06M13/47",
+      "ja": "５員複素環をもつもの［５］",
+      "en": "having five-membered heterocyclic rings",
+      "count": 536,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/477": {
+      "code": "D06M13/477",
+      "level": 4,
+      "parent": "D06M13/47",
+      "ja": "６員複素環をもつもの［５］",
+      "en": "having six-membered heterocyclic rings",
+      "count": 366,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/48": {
+      "code": "D06M13/48",
+      "level": 2,
+      "parent": "D06M13/322",
+      "ja": "エチレンイミン環を有するもの",
+      "en": "containing the ethylene imine ring",
+      "count": 190,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/487": {
+      "code": "D06M13/487",
+      "level": 2,
+      "parent": "D06M13/322",
+      "ja": "アジリジニルホスフィン；酸化アジリジニルホスフィンまたは硫化アジリジニルホスフィン；カルボニルアジリジニルまたはカルボニルビスアジリジニル化合物；スルホニルアジリジニルまたはスルホニルビスアジリジニル化合物［５］",
+      "en": "Aziridinylphosphines; Aziridinylphosphine- oxides or sulfides; Carbonylaziridinyl or carbonylbisaziridinyl compounds; Sulfonylaziridinyl or sulfonylbisaziridinyl compounds",
+      "count": 133,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/493": {
+      "code": "D06M13/493",
+      "level": 3,
+      "parent": "D06M13/487",
+      "ja": "過ふっ素化されたもの［５］",
+      "en": "perfluorinated",
+      "count": 20,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/50": {
+      "code": "D06M13/50",
+      "level": 1,
+      "parent": "D06M13/00",
+      "ja": "有機金属化合物によるもの；ほう素，けい素，セレンまたはテルル原子を含む有機化合物によるもの［５］",
+      "en": "with organometallic compounds; with organic compounds containing boron, silicon, selenium or tellurium atoms",
+      "count": 1867,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/503": {
+      "code": "D06M13/503",
+      "level": 2,
+      "parent": "D06M13/50",
+      "ja": "金属，ほう素，けい素，セレンまたはテルル原子と炭素原子の間に結合のないもの［５］",
+      "en": "without bond between a carbon atom and a metal or a boron, silicon, selenium or tellurium atom",
+      "count": 937,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/507": {
+      "code": "D06M13/507",
+      "level": 3,
+      "parent": "D06M13/503",
+      "ja": "炭素－けい素結合のない有機けい素化合物［５］",
+      "en": "Organic silicon compounds without carbon-silicon bond",
+      "count": 488,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/51": {
+      "code": "D06M13/51",
+      "level": 2,
+      "parent": "D06M13/50",
+      "ja": "少なくとも一つの炭素－金属，炭素－ほう素，炭素－けい素，炭素－セレンまたは炭素－テルル結合をもつ化合物［５］",
+      "en": "Compounds with at least one carbon-metal or carbon-boron, carbon-silicon, carbon-selenium, or carbon-tellurium bond",
+      "count": 1641,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/513": {
+      "code": "D06M13/513",
+      "level": 3,
+      "parent": "D06M13/51",
+      "ja": "少なくとも一つの炭素－けい素結合をもつもの［５］",
+      "en": "with at least one carbon-silicon bond",
+      "count": 5149,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/517": {
+      "code": "D06M13/517",
+      "level": 4,
+      "parent": "D06M13/513",
+      "ja": "けい素－ハロゲン結合をもつもの［５］",
+      "en": "containing silicon-halogen bonds",
+      "count": 235,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/52": {
+      "code": "D06M13/52",
+      "level": 1,
+      "parent": "D06M13/00",
+      "ja": "機械的処理との組合せによるもの［２００６．０１］",
+      "en": "combined with mechanical treatment",
+      "count": 444,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/525": {
+      "code": "D06M13/525",
+      "level": 2,
+      "parent": "D06M13/52",
+      "ja": "エンボス；カレンダーがけ；プレス［２００６．０１］",
+      "en": "Embossing; Calendering; Pressing ",
+      "count": 81,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/53": {
+      "code": "D06M13/53",
+      "level": 2,
+      "parent": "D06M13/52",
+      "ja": "冷却；スチーミングまたは加熱，例．流動層中のもの；溶融金属によるもの［５］",
+      "en": "Cooling; Steaming or heating, e.g. in fluidised beds; with molten metals",
+      "count": 225,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M13/535": {
+      "code": "D06M13/535",
+      "level": 2,
+      "parent": "D06M13/52",
+      "ja": "吸引；真空処理；ガス抜き；吹込［５］",
+      "en": "Suction; Vacuum treatment; Degassing; Blowing",
+      "count": 21,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M14/00": {
+      "code": "D06M14/00",
+      "level": 0,
+      "parent": "D06M",
+      "ja": "繊維，より糸，糸，織物，またはこれらの材料から製造された繊維製品に対する炭素－炭素不飽和結合を含有する単量体のグラフト重合［４］",
+      "en": "Graft polymerisation of monomers containing carbon-to-carbon unsaturated bonds on to fibres, threads, yarns, fabrics or fibrous goods made from such materials",
+      "count": 384,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M14/02": {
+      "code": "D06M14/02",
+      "level": 1,
+      "parent": "D06M14/00",
+      "ja": "天然物から得られる材料に対するもの（Ｄ０６Ｍ１４／１８が優先）［４］",
+      "en": "on to materials of natural origin(<b>D06M14/18</b> takes precedence)",
+      "count": 99,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M14/04": {
+      "code": "D06M14/04",
+      "level": 2,
+      "parent": "D06M14/02",
+      "ja": "植物から得られる材料，例．セルロースまたはその誘導体，に対するもの［４］",
+      "en": "of vegetal origin, e.g. cellulose or derivatives thereof",
+      "count": 662,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M14/06": {
+      "code": "D06M14/06",
+      "level": 2,
+      "parent": "D06M14/02",
+      "ja": "動物から得られる材料，例．羊毛または絹に対するもの［４］",
+      "en": "of animal origin, e.g. wool or silk",
+      "count": 263,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M14/08": {
+      "code": "D06M14/08",
+      "level": 1,
+      "parent": "D06M14/00",
+      "ja": "合成物から得られる材料に対するもの（Ｄ０６Ｍ１４／１８が優先）［４］",
+      "en": "on to materials of synthetic origin(<b>D06M14/18</b> takes precedence)",
+      "count": 152,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M14/10": {
+      "code": "D06M14/10",
+      "level": 2,
+      "parent": "D06M14/08",
+      "ja": "炭素－炭素不飽和結合のみが関与する反応によって得られる高分子化合物の材料に対するもの［４］",
+      "en": "of macromolecular compounds obtained by reactions only involving carbon-to-carbon unsaturated bonds",
+      "count": 276,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M14/12": {
+      "code": "D06M14/12",
+      "level": 2,
+      "parent": "D06M14/08",
+      "ja": "炭素－炭素不飽和結合のみが関与する反応以外の反応によって得られる高分子化合物の材料に対するもの［４］",
+      "en": "of macromolecular compounds obtained otherwise than by reactions only involving carbon-to-carbon unsaturated bonds",
+      "count": 63,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M14/14": {
+      "code": "D06M14/14",
+      "level": 3,
+      "parent": "D06M14/12",
+      "ja": "ポリエステル［４］",
+      "en": "Polyesters",
+      "count": 332,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M14/16": {
+      "code": "D06M14/16",
+      "level": 3,
+      "parent": "D06M14/12",
+      "ja": "ポリアミド［４］",
+      "en": "Polyamides",
+      "count": 171,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M14/18": {
+      "code": "D06M14/18",
+      "level": 1,
+      "parent": "D06M14/00",
+      "ja": "波動エネルギーまたは粒子線の照射を利用するもの［４］",
+      "en": "using wave energy or particle radiation",
+      "count": 416,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M14/20": {
+      "code": "D06M14/20",
+      "level": 2,
+      "parent": "D06M14/18",
+      "ja": "天然物から得られる材料に対するもの［４］",
+      "en": "on to materials of natural origin",
+      "count": 51,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M14/22": {
+      "code": "D06M14/22",
+      "level": 3,
+      "parent": "D06M14/20",
+      "ja": "植物から得られる材料，例．セルロースまたはその誘導体に，対するもの［４］",
+      "en": "of vegetal origin, e.g. cellulose or derivatives thereof",
+      "count": 314,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M14/24": {
+      "code": "D06M14/24",
+      "level": 3,
+      "parent": "D06M14/20",
+      "ja": "動物から得られる材料，例．羊毛または絹に対するもの［４］",
+      "en": "of animal origin, e.g. wool or silk",
+      "count": 95,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M14/26": {
+      "code": "D06M14/26",
+      "level": 2,
+      "parent": "D06M14/18",
+      "ja": "合成物から得られる材料に対するもの［４］",
+      "en": "on to materials of synthetic origin",
+      "count": 153,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M14/28": {
+      "code": "D06M14/28",
+      "level": 3,
+      "parent": "D06M14/26",
+      "ja": "炭素－炭素不飽和結合のみが関与する反応によって得られる高分子化合物の材料に対するもの［４］",
+      "en": "of macromolecular compounds obtained by reactions only involving carbon-to-carbon unsaturated bonds",
+      "count": 454,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M14/30": {
+      "code": "D06M14/30",
+      "level": 3,
+      "parent": "D06M14/26",
+      "ja": "炭素－炭素不飽和結合のみが関与する反応以外の反応によって得られる高分子化合物の材料に対するもの［４］",
+      "en": "of macromolecular compounds obtained otherwise than by reactions only involving carbon-to-carbon unsaturated bonds",
+      "count": 91,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M14/32": {
+      "code": "D06M14/32",
+      "level": 4,
+      "parent": "D06M14/30",
+      "ja": "ポリエステル［４］",
+      "en": "Polyesters",
+      "count": 333,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M14/34": {
+      "code": "D06M14/34",
+      "level": 4,
+      "parent": "D06M14/30",
+      "ja": "ポリアミド［４］",
+      "en": "Polyamides",
+      "count": 183,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M14/36": {
+      "code": "D06M14/36",
+      "level": 1,
+      "parent": "D06M14/00",
+      "ja": "炭素繊維に対するもの［５］",
+      "en": "on to carbon fibres",
+      "count": 180,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M15/00": {
+      "code": "D06M15/00",
+      "level": 0,
+      "parent": "D06M",
+      "ja": "繊維，より糸，糸，織物またはこのような材料から製造された繊維製品の高分子化合物による処理；機械的処理と組み合わせられたこのような処理（Ｄ０６Ｍ１０／００，Ｄ０６Ｍ１４／００が優先）［５］<br><br><b><ul>注</ul></b><br>１．このグループにおいては，下記の用語は以下に示す意味で用いる：<br>―“処理”とは，相反する指示がない限り，最終産物をもたらす処理を意味する，例．：<br>（ａ）ポリビニルアルコールによる処理は，別々の段階におけるポリビニルアセテートおよびそれに続くけん化による処理を意味しうる；<br>（ｂ）アミノプラストによる処理は，遅延硬化プロセスまたは初期縮合物による処理，または２つの別々の段階における例えば尿素とホルムアルデヒドによる処理を意味しうる。［５］<br>２．このグループにおいては，グループＤ０６Ｍ１０１／００のインデキシングコードを付与することが望ましい。［５］",
+      "en": "Treating fibres, threads, yarns, fabrics or fibrous goods made from such materials with macromolecular compounds; Such treatment combined with mechanical treatment(<b>D06M10/00</b>, <b>D06M14/00</b> take precedence);<br><br><b><u>Note(s)</u></b><br><br><ul><li>In this group, the following term is used with the meaning indicated: <ul><li>\"treatment\" means, in the absence of an indication to the contrary, the treatment which leads to the end product, e.g.: <ul><li>treatment with polyvinylalcohol can mean treatment with polyvinylacetate and subsequent saponification in a separate step; </li><li>treatment with aminoplast can mean the delayed cure process or the treatment with precondensation products, or with e.g. urea and with formaldehyde in two separate steps. </li></ul></li></ul></li><li>In this group, it is desirable to add the indexing codes of group <b>D06M101/00</b>.  </li></ul>",
+      "count": 5318,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M15/01": {
+      "code": "D06M15/01",
+      "level": 1,
+      "parent": "D06M15/00",
+      "ja": "天然高分子化合物またはその誘導体によるもの（天然ゴムまたはその誘導体によるものＤ０６Ｍ１５／６９３）［４］",
+      "en": "with natural macromolecular compounds or derivatives thereof(with natural rubber or derivatives thereof <b>D06M15/693</b>)",
+      "count": 1297,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M15/03": {
+      "code": "D06M15/03",
+      "level": 2,
+      "parent": "D06M15/01",
+      "ja": "多糖類またはその誘導体［４］",
+      "en": "Polysaccharides or derivatives thereof",
+      "count": 5703,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M15/05": {
+      "code": "D06M15/05",
+      "level": 3,
+      "parent": "D06M15/03",
+      "ja": "セルロースまたはその誘導体［４］",
+      "en": "Cellulose or derivatives thereof",
+      "count": 1433,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M15/055": {
+      "code": "D06M15/055",
+      "level": 4,
+      "parent": "D06M15/05",
+      "ja": "セルロース製造の硫酸化プロセスで得られる残留液によるもの［５］",
+      "en": "with the residual liquors derived of the sulfatic process for the preparation of cellulose",
+      "count": 33,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M15/07": {
+      "code": "D06M15/07",
+      "level": 4,
+      "parent": "D06M15/05",
+      "ja": "セルロースエステル［４］",
+      "en": "Cellulose esters",
+      "count": 551,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M15/09": {
+      "code": "D06M15/09",
+      "level": 4,
+      "parent": "D06M15/05",
+      "ja": "セルロースエーテル［４］",
+      "en": "Cellulose ethers",
+      "count": 1963,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M15/11": {
+      "code": "D06M15/11",
+      "level": 3,
+      "parent": "D06M15/03",
+      "ja": "でん粉またはその誘導体［４］",
+      "en": "Starch or derivatives thereof",
+      "count": 3011,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M15/13": {
+      "code": "D06M15/13",
+      "level": 3,
+      "parent": "D06M15/03",
+      "ja": "アルギン酸またはその誘導体［４］",
+      "en": "Alginic acid or derivatives thereof",
+      "count": 790,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M15/15": {
+      "code": "D06M15/15",
+      "level": 2,
+      "parent": "D06M15/01",
+      "ja": "蛋白質またはその誘導体［４］",
+      "en": "Proteins or derivatives thereof",
+      "count": 3068,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M15/17": {
+      "code": "D06M15/17",
+      "level": 2,
+      "parent": "D06M15/01",
+      "ja": "天然樹脂，樹脂アルコール，樹脂酸またはその誘導体［４，５］",
+      "en": "Natural resins, resinous alcohols, resinous acids, or derivatives thereof",
+      "count": 1081,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M15/19": {
+      "code": "D06M15/19",
+      "level": 1,
+      "parent": "D06M15/00",
+      "ja": "合成高分子化合物によるもの（合成ゴムによるものＤ０６Ｍ１５／６９３）［４］",
+      "en": "with synthetic macromolecular compounds(with synthetic rubber <b>D06M15/693</b>)",
+      "count": 989,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M15/21": {
+      "code": "D06M15/21",
+      "level": 2,
+      "parent": "D06M15/19",
+      "ja": "炭素―炭素不飽和結合のみが関与する反応によって得られる高分子化合物［４］",
+      "en": "Macromolecular compounds obtained by reactions only involving carbon-to-carbon unsaturated bonds",
+      "count": 1258,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M15/227": {
+      "code": "D06M15/227",
+      "level": 3,
+      "parent": "D06M15/21",
+      "ja": "炭化水素の，またはその反応生成物の，例．後ハロゲン化されたまたはスルホ塩素化されたもの［４］",
+      "en": "of hydrocarbons, or reaction products thereof, e.g. afterhalogenated or sulfochlorinated",
+      "count": 2833,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M15/233": {
+      "code": "D06M15/233",
+      "level": 4,
+      "parent": "D06M15/227",
+      "ja": "芳香族，例．スチレン［４］",
+      "en": "aromatic, e.g. styrene",
+      "count": 1480,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M15/244": {
+      "code": "D06M15/244",
+      "level": 3,
+      "parent": "D06M15/21",
+      "ja": "ハロゲン化炭化水素の（後ハロゲン化された炭化水素Ｄ０６Ｍ１５／２２７）［４］",
+      "en": "of halogenated hydrocarbons(afterhalogenated hydrocarbons <b>D06M15/227</b>)",
+      "count": 493,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M15/248": {
+      "code": "D06M15/248",
+      "level": 4,
+      "parent": "D06M15/244",
+      "ja": "塩素を含有するもの［４］",
+      "en": "containing chlorine",
+      "count": 1026,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M15/252": {
+      "code": "D06M15/252",
+      "level": 4,
+      "parent": "D06M15/244",
+      "ja": "臭素を含有するもの［４］",
+      "en": "containing bromine",
+      "count": 30,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M15/256": {
+      "code": "D06M15/256",
+      "level": 4,
+      "parent": "D06M15/244",
+      "ja": "ふっ素を含有するもの［４］",
+      "en": "containing fluorine",
+      "count": 2301,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M15/263": {
+      "code": "D06M15/263",
+      "level": 3,
+      "parent": "D06M15/21",
+      "ja": "不飽和カルボン酸の；その塩またはエステル［４］",
+      "en": "of unsaturated carboxylic acids; Salts or esters thereof",
+      "count": 9159,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M15/267": {
+      "code": "D06M15/267",
+      "level": 4,
+      "parent": "D06M15/263",
+      "ja": "アミノ基または第４級アンモニウム基をもつ不飽和カルボン酸エステルの［４］",
+      "en": "of unsaturated carboxylic esters having amino or quaternary ammonium groups",
+      "count": 1030,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M15/27": {
+      "code": "D06M15/27",
+      "level": 4,
+      "parent": "D06M15/263",
+      "ja": "不飽和カルボン酸のアルキルポリアルキレングリコールエステルの［４］",
+      "en": "of alkylpolyalkylene glycol esters of unsaturated carboxylic acids",
+      "count": 437,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M15/273": {
+      "code": "D06M15/273",
+      "level": 4,
+      "parent": "D06M15/263",
+      "ja": "エポキシ基をもつ不飽和カルボン酸エステルの［４］",
+      "en": "of unsaturated carboxylic esters having epoxy groups",
+      "count": 374,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M15/277": {
+      "code": "D06M15/277",
+      "level": 4,
+      "parent": "D06M15/263",
+      "ja": "ふっ素を含有するもの［４］",
+      "en": "containing fluorine",
+      "count": 2541,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M15/285": {
+      "code": "D06M15/285",
+      "level": 3,
+      "parent": "D06M15/21",
+      "ja": "不飽和カルボン酸アミドまたはイミドの［４］",
+      "en": "of unsaturated carboxylic acid amides or imides",
+      "count": 1779,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M15/29": {
+      "code": "D06M15/29",
+      "level": 4,
+      "parent": "D06M15/285",
+      "ja": "Ｎ―メチロール基またはエーテル化されたＮ―メチロール基を含むもの；Ｎ―アミノメチレン基を含むもの；Ｎ―スルフィドメチレン基を含むもの［４，５］",
+      "en": "containing a N-methylol group or an etherified N-methylol group; containing a N-aminomethylene group; containing a N-sulfido-methylene group",
+      "count": 409,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M15/295": {
+      "code": "D06M15/295",
+      "level": 4,
+      "parent": "D06M15/285",
+      "ja": "ふっ素を含有するもの［４］",
+      "en": "containing fluorine",
+      "count": 177,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M15/31": {
+      "code": "D06M15/31",
+      "level": 3,
+      "parent": "D06M15/21",
+      "ja": "不飽和ニトリルの［４］",
+      "en": "of unsaturated nitriles",
+      "count": 576,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M15/327": {
+      "code": "D06M15/327",
+      "level": 3,
+      "parent": "D06M15/21",
+      "ja": "不飽和アルコールまたはそのエステルの［４］",
+      "en": "of unsaturated alcohols or esters thereof",
+      "count": 380,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M15/33": {
+      "code": "D06M15/33",
+      "level": 4,
+      "parent": "D06M15/327",
+      "ja": "ふっ素を含むエステル［５］",
+      "en": "Esters containing fluorine",
+      "count": 67,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M15/333": {
+      "code": "D06M15/333",
+      "level": 4,
+      "parent": "D06M15/327",
+      "ja": "酢酸ビニルの；ポリビニルアルコール［４］",
+      "en": "of vinyl acetate; Polyvinylalcohol",
+      "count": 4678,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M15/347": {
+      "code": "D06M15/347",
+      "level": 3,
+      "parent": "D06M15/21",
+      "ja": "不飽和のエーテル，アセタール，ヘミアセタール，ケトンまたはアルデヒドの［４，５］",
+      "en": "of unsaturated ethers, acetals, hemiacetals, ketones or aldehydes",
+      "count": 382,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M15/353": {
+      "code": "D06M15/353",
+      "level": 4,
+      "parent": "D06M15/347",
+      "ja": "ふっ素を含有するもの［４］",
+      "en": "containing fluorine",
+      "count": 118,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M15/356": {
+      "code": "D06M15/356",
+      "level": 3,
+      "parent": "D06M15/21",
+      "ja": "窒素，硫黄，けい素またはりん原子を含むその他の不飽和化合物の［５］",
+      "en": "of other unsaturated compounds containing nitrogen, sulfur, silicon or phosphorus atoms",
+      "count": 2216,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M15/37": {
+      "code": "D06M15/37",
+      "level": 2,
+      "parent": "D06M15/19",
+      "ja": "炭素―炭素不飽和結合のみが関与する反応以外の反応によって得られる高分子化合物［４］",
+      "en": "Macromolecular compounds obtained otherwise than by reactions only involving carbon-to-carbon unsaturated bonds",
+      "count": 2266,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M15/39": {
+      "code": "D06M15/39",
+      "level": 3,
+      "parent": "D06M15/37",
+      "ja": "アルデヒド樹脂；ケトン樹脂；ポリアセタール［４］",
+      "en": "Aldehyde resins; Ketone resins; Polyacetals",
+      "count": 819,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M15/41": {
+      "code": "D06M15/41",
+      "level": 4,
+      "parent": "D06M15/39",
+      "ja": "フェノールアルデヒドまたはフェノールケトン樹脂［４，５］",
+      "en": "Phenol-aldehyde or phenol-ketone resins",
+      "count": 2179,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M15/415": {
+      "code": "D06M15/415",
+      "level": 5,
+      "parent": "D06M15/41",
+      "ja": "りんを含む化合物によって変性されたもの［５］",
+      "en": "modified by compounds containing phosphorus",
+      "count": 25,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M15/423": {
+      "code": "D06M15/423",
+      "level": 4,
+      "parent": "D06M15/39",
+      "ja": "アミノアルデヒド樹脂［４，５］",
+      "en": "Amino-aldehyde resins",
+      "count": 3178,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M15/427": {
+      "code": "D06M15/427",
+      "level": 5,
+      "parent": "D06M15/423",
+      "ja": "アルコキシル化された化合物によってまたはアルキレンオキシドによって変性されたもの［４］",
+      "en": "modified by alkoxylated compounds or alkylene oxides",
+      "count": 155,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M15/429": {
+      "code": "D06M15/429",
+      "level": 5,
+      "parent": "D06M15/423",
+      "ja": "硫黄を含む化合物によって変性されたもの［５］",
+      "en": "modified by compounds containing sulfur",
+      "count": 23,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M15/43": {
+      "code": "D06M15/43",
+      "level": 5,
+      "parent": "D06M15/423",
+      "ja": "りん化合物によって変性されたもの［４］",
+      "en": "modified by phosphorus compounds",
+      "count": 45,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M15/431": {
+      "code": "D06M15/431",
+      "level": 6,
+      "parent": "D06M15/43",
+      "ja": "ホスフィンまたは酸化ホスフィンによるもの；ホスホニウム基の酸化物または塩によるもの［５］",
+      "en": "by phosphines or phosphine oxides; by oxides or salts of the phosphonium radical",
+      "count": 148,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M15/432": {
+      "code": "D06M15/432",
+      "level": 6,
+      "parent": "D06M15/43",
+      "ja": "ホスホン酸またはその誘導体によるもの［５］",
+      "en": "by phosphonic acids or derivatives thereof",
+      "count": 50,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M15/433": {
+      "code": "D06M15/433",
+      "level": 6,
+      "parent": "D06M15/43",
+      "ja": "りん酸によるもの［４］",
+      "en": "by phosphoric acids",
+      "count": 127,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M15/437": {
+      "code": "D06M15/437",
+      "level": 5,
+      "parent": "D06M15/423",
+      "ja": "ふっ素を含有するもの［４］",
+      "en": "containing fluorine",
+      "count": 26,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M15/45": {
+      "code": "D06M15/45",
+      "level": 5,
+      "parent": "D06M15/423",
+      "ja": "特別な触媒の使用［４］",
+      "en": "Use of special catalysts",
+      "count": 59,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M15/507": {
+      "code": "D06M15/507",
+      "level": 3,
+      "parent": "D06M15/37",
+      "ja": "ポリエステル［４］",
+      "en": "Polyesters",
+      "count": 2958,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M15/51": {
+      "code": "D06M15/51",
+      "level": 4,
+      "parent": "D06M15/507",
+      "ja": "不飽和重合性ポリエステル［５］",
+      "en": "Unsaturated polymerisable polyesters",
+      "count": 319,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M15/513": {
+      "code": "D06M15/513",
+      "level": 4,
+      "parent": "D06M15/507",
+      "ja": "ポリカーボネート［４］",
+      "en": "Polycarbonates",
+      "count": 177,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M15/53": {
+      "code": "D06M15/53",
+      "level": 3,
+      "parent": "D06M15/37",
+      "ja": "ポリエーテル（ポリアセタールＤ０６Ｍ１５／３９）［４］",
+      "en": "Polyethers(polyacetals <b>D06M15/39</b>)",
+      "count": 9147,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M15/55": {
+      "code": "D06M15/55",
+      "level": 3,
+      "parent": "D06M15/37",
+      "ja": "エポキシ樹脂［４］",
+      "en": "Epoxy resins",
+      "count": 3479,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M15/555": {
+      "code": "D06M15/555",
+      "level": 4,
+      "parent": "D06M15/55",
+      "ja": "りんを含む化合物によって変性されたもの［５］",
+      "en": "modified by compounds containing phosphorus",
+      "count": 86,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M15/564": {
+      "code": "D06M15/564",
+      "level": 3,
+      "parent": "D06M15/37",
+      "ja": "ポリ尿素，ポリウレタンまたはウレイドまたはウレタン連結基をもつ他の重合体；その初期縮合物［４］",
+      "en": "Polyureas, polyurethanes or other polymers having ureide or urethane links; Precondensation products forming them",
+      "count": 8614,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M15/568": {
+      "code": "D06M15/568",
+      "level": 4,
+      "parent": "D06M15/564",
+      "ja": "イソシアネートとポリエーテルとの反応生成物［４］",
+      "en": "Reaction products of isocyanates with polyethers",
+      "count": 1413,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M15/572": {
+      "code": "D06M15/572",
+      "level": 4,
+      "parent": "D06M15/564",
+      "ja": "イソシアネートとポリエステルまたはポリエステルアミドとの反応生成物［４］",
+      "en": "Reaction products of isocyanates with polyesters or polyesteramides",
+      "count": 632,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M15/576": {
+      "code": "D06M15/576",
+      "level": 4,
+      "parent": "D06M15/564",
+      "ja": "ふっ素を含有するもの［４］",
+      "en": "containing fluorine",
+      "count": 462,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M15/579": {
+      "code": "D06M15/579",
+      "level": 4,
+      "parent": "D06M15/564",
+      "ja": "りんを含む化合物によって変性されたもの［５］",
+      "en": "modified by compounds containing phosphorus",
+      "count": 60,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M15/59": {
+      "code": "D06M15/59",
+      "level": 3,
+      "parent": "D06M15/37",
+      "ja": "ポリアミド；ポリイミド［４，５］",
+      "en": "Polyamides; Polyimides",
+      "count": 2415,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M15/592": {
+      "code": "D06M15/592",
+      "level": 4,
+      "parent": "D06M15/59",
+      "ja": "不飽和脂肪酸とポリアミンの重合物から成るもの［５］",
+      "en": "made of polymerised unsaturated fatty acids and polyamines",
+      "count": 54,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M15/595": {
+      "code": "D06M15/595",
+      "level": 4,
+      "parent": "D06M15/59",
+      "ja": "カルボキシアミド基の水素原子の置換によって得られる誘導体［５］",
+      "en": "Derivatives obtained by substitution of a hydrogen atom of the carboxamide radical",
+      "count": 57,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M15/598": {
+      "code": "D06M15/598",
+      "level": 4,
+      "parent": "D06M15/59",
+      "ja": "りんを含む化合物によって変性されたもの［５］",
+      "en": "modified by compounds containing phosphorus",
+      "count": 9,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M15/61": {
+      "code": "D06M15/61",
+      "level": 3,
+      "parent": "D06M15/37",
+      "ja": "ポリアミン［４］",
+      "en": "Polyamines",
+      "count": 2036,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M15/63": {
+      "code": "D06M15/63",
+      "level": 3,
+      "parent": "D06M15/37",
+      "ja": "主鎖に硫黄を含有するもの，例．ポリスルホン［４］",
+      "en": "containing sulfur in the main chain, e.g. polysulfones",
+      "count": 441,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M15/643": {
+      "code": "D06M15/643",
+      "level": 3,
+      "parent": "D06M15/37",
+      "ja": "主鎖にけい素を含有するもの［４］",
+      "en": "containing silicon in the main chain",
+      "count": 11437,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M15/647": {
+      "code": "D06M15/647",
+      "level": 4,
+      "parent": "D06M15/643",
+      "ja": "ポリエーテル連鎖を含有するもの［４］",
+      "en": "containing polyether sequences",
+      "count": 1863,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M15/65": {
+      "code": "D06M15/65",
+      "level": 4,
+      "parent": "D06M15/643",
+      "ja": "エポキシ基を含有するもの［４］",
+      "en": "containing epoxy groups",
+      "count": 657,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M15/653": {
+      "code": "D06M15/653",
+      "level": 4,
+      "parent": "D06M15/643",
+      "ja": "イソシアネート化合物によって変性されたもの［４］",
+      "en": "modified by isocyanate compounds",
+      "count": 217,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M15/657": {
+      "code": "D06M15/657",
+      "level": 4,
+      "parent": "D06M15/643",
+      "ja": "ふっ素を含有するもの［４］",
+      "en": "containing fluorine",
+      "count": 410,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M15/667": {
+      "code": "D06M15/667",
+      "level": 3,
+      "parent": "D06M15/37",
+      "ja": "主鎖にりんを含有するもの［４］",
+      "en": "containing phosphorus in the main chain",
+      "count": 315,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M15/673": {
+      "code": "D06M15/673",
+      "level": 4,
+      "parent": "D06M15/667",
+      "ja": "主鎖にりんおよび窒素を含有するもの［４］",
+      "en": "containing phosphorus and nitrogen in the main chain",
+      "count": 330,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M15/687": {
+      "code": "D06M15/687",
+      "level": 3,
+      "parent": "D06M15/37",
+      "ja": "主鎖にりん，けい素，硫黄，窒素，酸素または炭素以外の原子を含有するもの［４］",
+      "en": "containing atoms other than phosphorus, silicon, sulfur, nitrogen, oxygen or carbon in the main chain",
+      "count": 117,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M15/693": {
+      "code": "D06M15/693",
+      "level": 1,
+      "parent": "D06M15/00",
+      "ja": "天然または合成ゴム，またはその誘導体によるもの［４］",
+      "en": "with natural or synthetic rubber, or derivatives thereof",
+      "count": 4169,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M15/70": {
+      "code": "D06M15/70",
+      "level": 1,
+      "parent": "D06M15/00",
+      "ja": "機械的処理との組合せによるもの［２００６．０１］",
+      "en": "combined with mechanical treatment",
+      "count": 769,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M15/705": {
+      "code": "D06M15/705",
+      "level": 2,
+      "parent": "D06M15/70",
+      "ja": "エンボス；カレンダーがけ；プレス［２００６．０１］",
+      "en": "Embossing; Calendering; Pressing",
+      "count": 138,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M15/71": {
+      "code": "D06M15/71",
+      "level": 2,
+      "parent": "D06M15/70",
+      "ja": "冷却；スチーミングまたは加熱，例．流動層中のもの；溶融金属によるもの［５］",
+      "en": "Cooling; Steaming or heating, e.g. in fluidised beds; with molten metals",
+      "count": 156,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M15/715": {
+      "code": "D06M15/715",
+      "level": 2,
+      "parent": "D06M15/70",
+      "ja": "吸引；真空処理；ガス抜き；吹込［５］",
+      "en": "Suction; Vacuum treatment; Degassing; Blowing",
+      "count": 18,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M16/00": {
+      "code": "D06M16/00",
+      "level": 0,
+      "parent": "D06M",
+      "ja": "繊維，より糸，糸，織物またはこのような材料から製造された繊維製品の生化学的処理，例．酵素［２］<br><br><b><ul>注</ul></b><br>このグループにおいては，グループ１０１／００のインデキシングコードを付加することが望ましい。［５］",
+      "en": "Biochemical treatment of fibres, threads, yarns, fabrics or fibrous goods made from such materials, e.g. enzymatic; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this group, it is desirable to add the indexing codes of group <b>D06M101/00</b>.</li></ul>",
+      "count": 6902,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M17/00": {
+      "code": "D06M17/00",
+      "level": 0,
+      "parent": "D06M",
+      "ja": "多層織物の製造",
+      "en": "Producing multi-layer textile fabrics",
+      "count": 5025,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M17/02": {
+      "code": "D06M17/02",
+      "level": 1,
+      "parent": "D06M17/00",
+      "ja": "接着剤としてセルロース誘導体を適用するもの［５］",
+      "en": "by applying cellulose derivatives as adhesives",
+      "count": 180,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M17/04": {
+      "code": "D06M17/04",
+      "level": 1,
+      "parent": "D06M17/00",
+      "ja": "接着剤として合成樹脂を適用するもの［５］",
+      "en": "by applying synthetic resins as adhesives",
+      "count": 748,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M17/06": {
+      "code": "D06M17/06",
+      "level": 2,
+      "parent": "D06M17/04",
+      "ja": "ビニル化合物の重合体［５］",
+      "en": "Polymers of vinyl compounds",
+      "count": 392,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M17/08": {
+      "code": "D06M17/08",
+      "level": 2,
+      "parent": "D06M17/04",
+      "ja": "ポリアミド［５］",
+      "en": "Polyamides",
+      "count": 165,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M17/10": {
+      "code": "D06M17/10",
+      "level": 2,
+      "parent": "D06M17/04",
+      "ja": "ポリウレタン［５］",
+      "en": "Polyurethanes",
+      "count": 456,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M19/00": {
+      "code": "D06M19/00",
+      "level": 0,
+      "parent": "D06M",
+      "ja": "羽毛の処理［２］",
+      "en": "Treatment of feathers",
+      "count": 676,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M23/00": {
+      "code": "D06M23/00",
+      "level": 0,
+      "parent": "D06M",
+      "ja": "繊維，より糸，糸，織物またはこれらの材料から作られた繊維製品の処理で，そのプロセスに特徴があるもの［５］<br><br><b><ul>注</ul></b><br>このグループにおいては，グループ１０１／００のインデキシングコードを付与することが望ましい。［５］",
+      "en": "Treatment of fibres, threads, yarns, fabrics or fibrous goods made from such materials, characterised by the process; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this group, it is desirable to add the indexing codes of group <b>D06M101/00</b>.</li></ul>",
+      "count": 4207,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M23/02": {
+      "code": "D06M23/02",
+      "level": 1,
+      "parent": "D06M23/00",
+      "ja": "処理剤が放出可能に固着されているか，分配手段に組み込まれているプロセス［５］",
+      "en": "Processes in which the treating agent is releasably affixed or incorporated into a dispensing means",
+      "count": 470,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M23/04": {
+      "code": "D06M23/04",
+      "level": 1,
+      "parent": "D06M23/00",
+      "ja": "処理剤が泡の形で適用されるプロセス［５］",
+      "en": "Processes in which the treating agent is applied in the form of a foam",
+      "count": 591,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M23/06": {
+      "code": "D06M23/06",
+      "level": 1,
+      "parent": "D06M23/00",
+      "ja": "処理剤が気体中に分散されるプロセス，例．エアロゾル［５］",
+      "en": "Processes in which the treating agent is dispersed in a gas, e.g. aerosols",
+      "count": 868,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M23/08": {
+      "code": "D06M23/08",
+      "level": 1,
+      "parent": "D06M23/00",
+      "ja": "処理剤が粉体または細粒の形で適用されるプロセス（多層織物用の接着剤Ｄ０６Ｍ１７／００）［２００６．０１］",
+      "en": "Processes in which the treating agent is applied in powder or granular form (adhesives for multi-layer textile fabrics <b>D06M17/00</b>)",
+      "count": 2401,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M23/10": {
+      "code": "D06M23/10",
+      "level": 1,
+      "parent": "D06M23/00",
+      "ja": "処理剤が有機溶媒中に溶解または分散されるプロセス；その有機溶媒の回収のためのプロセス［５］",
+      "en": "Processes in which the treating agent is dissolved or dispersed in organic solvents; Processes for the recovery of organic solvents thereof",
+      "count": 746,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M23/12": {
+      "code": "D06M23/12",
+      "level": 1,
+      "parent": "D06M23/00",
+      "ja": "処理剤がマイクロカプセル中に組込まれているプロセス［５］",
+      "en": "Processes in which the treating agent is incorporated in microcapsules",
+      "count": 2591,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M23/14": {
+      "code": "D06M23/14",
+      "level": 1,
+      "parent": "D06M23/00",
+      "ja": "三次元的形体の繊維材料への固着または処理のためのプロセス［２００６．０１］",
+      "en": "Processes for the fixation or treatment of textile materials in three-dimensional [3D] forms",
+      "count": 323,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M23/16": {
+      "code": "D06M23/16",
+      "level": 1,
+      "parent": "D06M23/00",
+      "ja": "処理剤の不均一な適用のためのプロセス，例．片面処理；差別的処理［２００６．０１］",
+      "en": "Processes for the non-uniform application of treating agents, e.g. one-sided treatment; Differential treatment",
+      "count": 1061,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M23/18": {
+      "code": "D06M23/18",
+      "level": 2,
+      "parent": "D06M23/16",
+      "ja": "織物または編物の縁の化学処理のためのもの；切断，縫目または繊維の端の熱または化学的固定のためのもの［５］",
+      "en": "for the chemical treatment of borders of fabrics or knittings; for the thermal or chemical fixation of cuttings, seams or fibre ends",
+      "count": 419,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M101/00": {
+      "code": "D06M101/00",
+      "level": 0,
+      "parent": "D06M",
+      "ja": "処理される繊維，より糸，糸，織物またはこのような材料から製造された繊維製品の化学構造。［５］<br><br><b><ul>注</ul></b><br>（１）例：<br>―塩基性の水酸化物によるセルロースの膨張は１１／３８に分類し，１０１／０６にインデックスする。<br>―アミンによるセルロースの処理は１３／３２５に分類し，１０１／０６にインデックスする。<br>―ポリエステルによるポリエステル繊維の処理は１５／５０７に分類し，１０１／３２にインデックスする。<br>―ペプシンによる羊毛の処理は１６／００に分類し，１０１／１２にインデックスする。<br>―泡状四塩化けい素によるセルロースの処理は１１／７８および２３／０４に分類され，１０１／０６にインデックスする。［５］<br>（２）混合繊維は各成分繊維に従ってインデックスする。［５］",
+      "en": "Chemical constitution of the fibres, threads, yarns, fabrics or fibrous goods made from such materials, to be treated; <br><br><b><u>Note(s)</u></b><br><br><ul><li><u>Examples:</u><ul><li>the swelling of cellulose with alkaline hydroxides is classified in group <b>D06M11/38</b> and indexed in group <b>D06M101/06</b>;</li><li>the treatment of cellulose with amines is classified in group <b>D06M13/325</b> and indexed in group <b>D06M101/06</b>;</li><li>the treatment of polyester fibres with polyesters is classified  in group  <b>D06M15/507</b> and indexed in group <b>D06M101/32</b>;</li><li>the treatment of wool with pepsin is classified in group <b>D06M16/00</b> and indexed in group <b>D06M101/12</b>;</li><li>the treatment of cellulose with silicon tetrachloride in the form of a foam is classified in groups <b>D06M11/78</b>, <b>D06M23/04</b> and indexed in group <b>D06M101/06</b>.</li></ul></li><li>Blends of fibres are indexed according to each constituent fibre.</li></ul>",
+      "count": 14711,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M101/02": {
+      "code": "D06M101/02",
+      "level": 1,
+      "parent": "D06M101/00",
+      "ja": "鉱物繊維以外の天然繊維［５］",
+      "en": "Natural fibres, other than mineral fibres",
+      "count": 4208,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M101/04": {
+      "code": "D06M101/04",
+      "level": 2,
+      "parent": "D06M101/02",
+      "ja": "植物性繊維［５］",
+      "en": "Vegetal fibres",
+      "count": 1827,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M101/06": {
+      "code": "D06M101/06",
+      "level": 3,
+      "parent": "D06M101/04",
+      "ja": "セルロース系［５］",
+      "en": "cellulosic",
+      "count": 17309,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M101/08": {
+      "code": "D06M101/08",
+      "level": 4,
+      "parent": "D06M101/06",
+      "ja": "セルロースのエステルまたはエーテル［５］",
+      "en": "Esters or ethers of cellulose",
+      "count": 2179,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M101/10": {
+      "code": "D06M101/10",
+      "level": 2,
+      "parent": "D06M101/02",
+      "ja": "動物性繊維［５］",
+      "en": "Animal fibres",
+      "count": 3627,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M101/12": {
+      "code": "D06M101/12",
+      "level": 3,
+      "parent": "D06M101/10",
+      "ja": "ケラチン繊維または絹［５］",
+      "en": "Keratin fibres or silk",
+      "count": 4952,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M101/14": {
+      "code": "D06M101/14",
+      "level": 3,
+      "parent": "D06M101/10",
+      "ja": "コラーゲン繊維［５］",
+      "en": "Collagen fibres",
+      "count": 132,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M101/16": {
+      "code": "D06M101/16",
+      "level": 1,
+      "parent": "D06M101/00",
+      "ja": "鉱物繊維以外の合成繊維［５］",
+      "en": "Synthetic fibres, other than mineral fibres",
+      "count": 9777,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M101/18": {
+      "code": "D06M101/18",
+      "level": 2,
+      "parent": "D06M101/16",
+      "ja": "炭素―炭素不飽和結合のみが関与する反応によって得られる高分子化合物から成る合成繊維［５］",
+      "en": "Synthetic fibres consisting of macromolecular compounds obtained by reactions only involving carbon-to-carbon unsaturated bonds",
+      "count": 2450,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M101/20": {
+      "code": "D06M101/20",
+      "level": 3,
+      "parent": "D06M101/18",
+      "ja": "ポリアルケン，芳香族基と結合するアルケニル基をもつ化合物の重合体または共重合体［５］",
+      "en": "Polyalkenes, polymers or copolymers of compounds with alkenyl groups bonded to aromatic groups",
+      "count": 3451,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M101/22": {
+      "code": "D06M101/22",
+      "level": 3,
+      "parent": "D06M101/18",
+      "ja": "ハロゲン化モノオレフィンの重合体または共重合体［５］",
+      "en": "Polymers or copolymers of halogenated mono-olefins",
+      "count": 1160,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M101/24": {
+      "code": "D06M101/24",
+      "level": 3,
+      "parent": "D06M101/18",
+      "ja": "アルケニルアルコールまたはそのエステルの重合体または共重合体；アルケニルエーテル，アセタールまたはケトンの重合体または共重合体［５］",
+      "en": "Polymers or copolymers of alkenylalcohols or esters thereof; Polymers or copolymers of alkenylethers, acetals or ketones",
+      "count": 901,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M101/26": {
+      "code": "D06M101/26",
+      "level": 3,
+      "parent": "D06M101/18",
+      "ja": "不飽和カルボン酸またはその誘導体の重合体または共重合体［５］",
+      "en": "Polymers or copolymers of unsaturated carboxylic acids or derivatives thereof",
+      "count": 319,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M101/28": {
+      "code": "D06M101/28",
+      "level": 4,
+      "parent": "D06M101/26",
+      "ja": "アクリロニトリル；メタクリロニトリル［５］",
+      "en": "Acrylonitrile; Methacrylonitrile",
+      "count": 2577,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M101/30": {
+      "code": "D06M101/30",
+      "level": 2,
+      "parent": "D06M101/16",
+      "ja": "炭素―炭素不飽和結合のみが関与する反応以外の反応によって得られる高分子化合物から成る合成重合体［５］",
+      "en": "Synthetic polymers consisting of macromolecular compounds obtained otherwise than by reactions only involving carbon-to-carbon unsaturated bonds",
+      "count": 7801,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M101/32": {
+      "code": "D06M101/32",
+      "level": 3,
+      "parent": "D06M101/30",
+      "ja": "ポリエステル［５］",
+      "en": "Polyesters",
+      "count": 16700,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M101/34": {
+      "code": "D06M101/34",
+      "level": 3,
+      "parent": "D06M101/30",
+      "ja": "ポリアミド［５］",
+      "en": "Polyamides",
+      "count": 6345,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M101/36": {
+      "code": "D06M101/36",
+      "level": 4,
+      "parent": "D06M101/34",
+      "ja": "芳香族ポリアミド［５］",
+      "en": "Aromatic polyamides",
+      "count": 2213,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M101/38": {
+      "code": "D06M101/38",
+      "level": 3,
+      "parent": "D06M101/30",
+      "ja": "ポリウレタン［５］",
+      "en": "Polyurethanes",
+      "count": 1977,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    },
+    "D06M101/40": {
+      "code": "D06M101/40",
+      "level": 1,
+      "parent": "D06M101/00",
+      "ja": "炭素繊維［５］",
+      "en": "Fibres of carbon",
+      "count": 5398,
+      "sourceFile": "ipc_D06M.txt",
+      "kind": "ipc"
+    }
+  }
+};

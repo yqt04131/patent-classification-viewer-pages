@@ -1,0 +1,116 @@
+window.IPC_SHARD_F15D = {
+  "generatedAt": "2026-03-20T02:17:46.828Z",
+  "total": 11,
+  "entries": {
+    "F15D": {
+      "code": "F15D",
+      "level": 0,
+      "parent": "F15",
+      "ja": "流体力学，すなわち気体または液体の流れに影響を与える方法または手段<br><br><b><ul>注</ul></b><br>このサブクラスは束縛面に関連しておよびこれらの面を通過した後において流体の流れに影響を与えるための，他類に属しない境界層制御および他の装置，方法，例．乱流の発生または除去，噴流の偏向，管内のベンドにおける流れの案内，管内の流体の分布への作用，流体摩擦の減少を包含する。",
+      "en": "FLUID DYNAMICS, i.e. METHODS OR MEANS FOR INFLUENCING THE FLOW OF GASES OR LIQUIDS; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This subclass <u>covers</u> boundary-layer control and other arrangements and methods, not provided for in other classes, for influencing the flow of fluids relative to constraining surfaces and after leaving these surfaces, e.g. producing or removing turbulence, deflecting jets, guiding flow through bends in conduits, affecting distribution of fluid in a conduit, reducing fluid friction.</li></ul>",
+      "count": 218,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F15": {
+      "code": "F15",
+      "level": 0,
+      "parent": "F",
+      "ja": "流体圧アクチュエータ；水力学または空気力学一般",
+      "en": "FLUID-PRESSURE ACTUATORS; HYDRAULICS OR PNEUMATICS IN GENERAL",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F": {
+      "code": "F",
+      "level": 0,
+      "parent": null,
+      "ja": "機械工学；照明；加熱；武器；爆破",
+      "en": "MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F15D1/00": {
+      "code": "F15D1/00",
+      "level": 0,
+      "parent": "F15D",
+      "ja": "流体の流れに影響を与えるもの",
+      "en": "Influencing the flow of fluids",
+      "count": 3647,
+      "sourceFile": "ipc_F15D.txt",
+      "kind": "ipc"
+    },
+    "F15D1/02": {
+      "code": "F15D1/02",
+      "level": 1,
+      "parent": "F15D1/00",
+      "ja": "導管内におけるもの",
+      "en": "in pipes or conduits",
+      "count": 3048,
+      "sourceFile": "ipc_F15D.txt",
+      "kind": "ipc"
+    },
+    "F15D1/04": {
+      "code": "F15D1/04",
+      "level": 2,
+      "parent": "F15D1/02",
+      "ja": "管路のエルボまたはダクトのベンドの中の案内羽根装置；流れに関連し，例えば、流れの損失を減少させるための，エルボ管路要素の構造［２００６．０１］",
+      "en": "Arrangements of guide vanes in pipe elbows or duct bends; Construction of pipe conduit elements for elbows with respect to flow, e.g. for reducing losses of flow",
+      "count": 878,
+      "sourceFile": "ipc_F15D.txt",
+      "kind": "ipc"
+    },
+    "F15D1/06": {
+      "code": "F15D1/06",
+      "level": 2,
+      "parent": "F15D1/02",
+      "ja": "境界層に影響を与えるもの",
+      "en": "by influencing the boundary layer",
+      "count": 646,
+      "sourceFile": "ipc_F15D.txt",
+      "kind": "ipc"
+    },
+    "F15D1/08": {
+      "code": "F15D1/08",
+      "level": 1,
+      "parent": "F15D1/00",
+      "ja": "オリフィスからの噴流のもの［２００６．０１］",
+      "en": "of jets leaving an orifice",
+      "count": 874,
+      "sourceFile": "ipc_F15D.txt",
+      "kind": "ipc"
+    },
+    "F15D1/10": {
+      "code": "F15D1/10",
+      "level": 1,
+      "parent": "F15D1/00",
+      "ja": "固体物体のまわりのもの",
+      "en": "around bodies of solid material",
+      "count": 590,
+      "sourceFile": "ipc_F15D.txt",
+      "kind": "ipc"
+    },
+    "F15D1/12": {
+      "code": "F15D1/12",
+      "level": 2,
+      "parent": "F15D1/10",
+      "ja": "境界層に影響を与えるもの",
+      "en": "by influencing the boundary layer",
+      "count": 956,
+      "sourceFile": "ipc_F15D.txt",
+      "kind": "ipc"
+    },
+    "F15D1/14": {
+      "code": "F15D1/14",
+      "level": 1,
+      "parent": "F15D1/00",
+      "ja": "流れを代替流路に転ずるもの［２００６．０１］",
+      "en": "Diverting flow into alternative channels",
+      "count": 255,
+      "sourceFile": "ipc_F15D.txt",
+      "kind": "ipc"
+    }
+  }
+};

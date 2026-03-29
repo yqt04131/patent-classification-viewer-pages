@@ -1,0 +1,966 @@
+window.IPC_SHARD_E05C = {
+  "generatedAt": "2026-03-20T02:17:46.710Z",
+  "total": 96,
+  "entries": {
+    "E05C": {
+      "code": "E05C",
+      "level": 0,
+      "parent": "E05",
+      "ja": "ウイング特にドアまたは窓用のボルトまたは固定装置（車両の側板またはテールゲート構造の掛け金手段Ｂ６２Ｄ３３／０３７；構造的または機械的要素の固定装置Ｅ０４，Ｆ１６Ｂ；錠，錠と構造的または操作的に組み合わされたまたは錠と重要な協動をする固定装置Ｅ０５Ｂ；ウイングを動かす機構に関連してウイング固定具を操作または制御する手段Ｅ０５Ｆ）<br><br><b><ul>注</ul></b><br>（１）このサブクラスにおいては，ウィングを固定する本質的な動作のみが考慮されるもの，例．引き戻しを防ぐため軸の回りを回転する滑動ボルト，は滑り動作のみを持つものとして分類される。<br>（２）クラスＥ０５のタイトルに続く定義に注意すること。<br><br><b><ul>サブクラス内の索引</ul></b><br>固定装置<br>固定装置に特徴のあるもの　１／００～５／００<br>ウイングを特に開き状態に保持するもの　１７／００，１９／００<br>特に二個のウイングに適用されるもの　７／００<br>固定装置，係止装置または鎖錠装置の配置　９／００，２１／００",
+      "en": "BOLTS OR FASTENING DEVICES FOR WINGS, SPECIALLY FOR DOORS OR WINDOWS(latching means for sideboard or tailgate structures for vehicles <b>B62D33/037</b>; fastening devices for constructional or engineering elements <b>E04</b>, <b>F16B</b>; locks, fastening devices structurally or operatively combined or having significant cooperation with locks <b>E05B</b>; means for operating or controlling wing fasteners in conjunction with mechanisms for moving the wing <b>E05F</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>In this subclass, only the movement essential for securing the wing is considered, e.g. a sliding bolt which is rotated on its axis to prevent its withdrawal is classified as having only a sliding movement.</li><li>Attention is drawn to the definitions following the title of class <b>E05</b>.</li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">FASTENING DEVICES<tr><td width=\"70%\">characterised by the way the bolt is moved </td><td><b><b>1/00 to 5/00</b> </b></td></tr></tr><tr><td width=\"70%\">specially for holding wings open </td><td><b><b>17/00</b>, <b>19/00</b></b></td></tr></tr><tr><td width=\"70%\">specially adapted for two wings </td><td><b><b>7/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">ARRANGEMENT OF FASTENING, SECURING, OR LOCKING DEVICES </td><td><b><b>9/00</b>, <b>21/00</b></b></td></tr></tr></table>",
+      "count": 1448,
+      "sourceFile": "ipc_E.txt",
+      "kind": "ipc"
+    },
+    "E05": {
+      "code": "E05",
+      "level": 0,
+      "parent": "E",
+      "ja": "錠；鍵（かぎ）；窓または戸の付属品；金庫<br><br><b><ul>注</ul></b><br>このクラスにおいては，下記の用語は以下に示す意味で用いる：<br>―ウイング”は，揺動，滑動または他の移動できる戸（ドア）または窓に対する一般的用語である。この用語はまた，このクラスに含まれる操作，取付け，掛止またはロック手段を適用し得る，ひきだし，箱の蓋（ｌｉｄｓ　ｏｆ　ｃｈｅｓｔｓ），自動車の荷物いれ，自動車のボンネット等の他の可動体をも包含する；<br>―“台わく（フレーム）”は，ウイングが固定装置によって取り付けられる部材を意味する。ウイングの一部を構成する骨組は含まない。これは別のウイングであるといえる；<br>―“錠（ロック）”は，基本的にある部材を解放または緊締し，解放のさいは鍵または順列変換機構を必要とする装置を意味する。しかし，グループＥ０５Ｂ１／００からＥ０５Ｂ９／００，Ｅ０５Ｂ１３／００からＥ０５Ｂ１７／００，Ｅ０５Ｂ３９／００からＥ０５Ｂ４７／００，Ｅ０５Ｂ５１／００，Ｅ０５Ｂ５３／００，Ｅ０５Ｂ６３／００およびＥ０５Ｂ６５／００においては，用語“錠（ロック）”は他の固定装置を含んでもよい。；<br>―“ボルト”は，台わく（フレーム）上の留め具に係止して戸を閉じるように通常は戸に保持されている滑動，回動または他の動き得る部材を意味する。それは直接手によって，または機構や鍵によって操作される；それはラッチでもある（次を参照）；<br>―“ラッチ”は，ウィングを閉じフレームに合わせた時ばね力または他の復元力に抗して解放位置に移動するように構成され，ウィングを固定する時には手で操作する必要はないが，開くときだけそれが必要なボルトを意味する；<br>―“掛け金（ハスプ）”は，ウィングまたは台わく（フレーム）の表面に向って動き得るように台わく（フレーム）またはウィングに枢着され，またそこに，例．回しボタン，南京錠およびつぼ釘によって，緊締される部材を意味する。",
+      "en": "LOCKS; KEYS; WINDOW OR DOOR FITTINGS; SAFES; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this class, the following terms are used with the meanings indicated:<ul><li>\"wing\" is a general term for swingable, slidable, or otherwise movable doors or windows. This term also includes other movable structures such as drawers, lids of chests, car boots, or car bonnets, to which the operating, mounting, latching, or locking means covered by this class may be applied;</li><li>\"frame\" means any member to which a wing may be held by a fastening device. It does not include a framework forming part of the wing, but it may be another wing;</li><li>\"lock\" means primarily a device for releasing or securing any member, which requires a key or a permutation mechanism for release. In groups <b>E05B1/00 to E05B9/00</b> , <b>E05B13/00 to E05B17/00</b> , <b>E05B39/00 to E05B47/00</b> , <b>E05B51/00</b>, <b>E05B53/00</b>, <b>E05B63/00</b> and <b>E05B65/00</b> however, the term \"lock\" may include other fastening devices;</li><li>\"bolt\" means a sliding, pivoted, or otherwise movable member such as is normally carried by a door to hold it shut by engagement with a keeper on the frame. It may be operated by hand directly or through mechanism or by a key; it may be a latch (<u>see</u> below);</li><li>\"latch\" means a bolt arranged to be moved to the releasing position against the force of a spring, or some other returning force, when a wing meets the frame on closing, so that it does not have to be operated by hand to secure the wing, but only to open it;</li><li>\"hasp\" means a member hinged to the frame or wing so that it can be moved towards the face of the wing or frame and secured thereto, e.g. by a turn-button, by a padlock and staple.</li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_E.txt",
+      "kind": "ipc"
+    },
+    "E": {
+      "code": "E",
+      "level": 0,
+      "parent": null,
+      "ja": "固定構造物",
+      "en": "FIXED CONSTRUCTIONS",
+      "count": 0,
+      "sourceFile": "ipc_E.txt",
+      "kind": "ipc"
+    },
+    "E05C1/00": {
+      "code": "E05C1/00",
+      "level": 0,
+      "parent": "E05C",
+      "ja": "直線運動をするボルトを持つ固定装置（ウィングを押し引きすることによって自動的に開放する装置Ｅ０５Ｃ１９／０２）",
+      "en": "Fastening devices with bolts moving rectilinearly(devices released automatically by pull or pressure on the wing <b>E05C19/02</b>)",
+      "count": 1653,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C1/02": {
+      "code": "E05C1/02",
+      "level": 1,
+      "parent": "E05C1/00",
+      "ja": "ラッチ作用をもたないもの",
+      "en": "without latching action",
+      "count": 1197,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C1/04": {
+      "code": "E05C1/04",
+      "level": 2,
+      "parent": "E05C1/02",
+      "ja": "ボルトに固着された操作ハンドルまたは同効部材をもつもの",
+      "en": "with operating handle or equivalent member rigid with the bolt",
+      "count": 3338,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C1/06": {
+      "code": "E05C1/06",
+      "level": 2,
+      "parent": "E05C1/02",
+      "ja": "ボルトに固着されず他の手段により作動する操作ハンドルまたは同効部材をもつもの",
+      "en": "with operating handle or equivalent member moving otherwise than rigidly with the bolt",
+      "count": 2668,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C1/08": {
+      "code": "E05C1/08",
+      "level": 1,
+      "parent": "E05C1/00",
+      "ja": "ラッチ作用をもつもの",
+      "en": "with latching action",
+      "count": 1797,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C1/10": {
+      "code": "E05C1/10",
+      "level": 2,
+      "parent": "E05C1/08",
+      "ja": "ラッチに固定された操作ハンドルまたは同効の部材をもつもの",
+      "en": "with operating handle or equivalent member rigid with the latch",
+      "count": 2081,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C1/12": {
+      "code": "E05C1/12",
+      "level": 2,
+      "parent": "E05C1/08",
+      "ja": "ラッチに固定されず他の手段により作動される操作ハンドルまたは同効部材をもつもの",
+      "en": "with operating handle or equivalent member moving otherwise than rigidly with the latch",
+      "count": 1431,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C1/14": {
+      "code": "E05C1/14",
+      "level": 3,
+      "parent": "E05C1/12",
+      "ja": "ウィングまたは台枠面から実質上垂直に移動するハンドルまたは部材",
+      "en": "the handle or member moving essentially towards, or away from, the plane of the wing or frame",
+      "count": 1697,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C1/16": {
+      "code": "E05C1/16",
+      "level": 3,
+      "parent": "E05C1/12",
+      "ja": "ウィングに実質的に平行な面内を移動するハンドルまたは部材",
+      "en": "the handle or member moving essentially in a plane substantially parallel to the wing",
+      "count": 2109,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C3/00": {
+      "code": "E05C3/00",
+      "level": 0,
+      "parent": "E05C",
+      "ja": "旋回または回転するボルトをもつ固定装置（ウィングを押し引きすることによって自動的に開放する装置Ｅ０５Ｃ１９／０２）",
+      "en": "Fastening devices with bolts moving pivotally or rotatively(devices released automatically by pull or pressure on the wing <b>E05C19/02</b>)",
+      "count": 1192,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C3/02": {
+      "code": "E05C3/02",
+      "level": 1,
+      "parent": "E05C3/00",
+      "ja": "ラッチ作用をもたないもの",
+      "en": "without latching action",
+      "count": 621,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C3/04": {
+      "code": "E05C3/04",
+      "level": 2,
+      "parent": "E05C3/02",
+      "ja": "ボルトに固着された操作ハンドルまたは同効の部材をもつもの",
+      "en": "with operating handle or equivalent member rigid with the bolt",
+      "count": 4765,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C3/06": {
+      "code": "E05C3/06",
+      "level": 2,
+      "parent": "E05C3/02",
+      "ja": "ボルトに固着されずに他の手段により作動する操作ハンドルまたは同効部材をもつもの",
+      "en": "with operating handle or equivalent member moving otherwise than rigidly with the bolt",
+      "count": 1263,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C3/08": {
+      "code": "E05C3/08",
+      "level": 3,
+      "parent": "E05C3/06",
+      "ja": "ウィングまたは台枠面から実質上垂直に移動するハンドルまたは部材",
+      "en": "the handle or member moving essentially towards, or away from, the plane of the wing or frame",
+      "count": 436,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C3/10": {
+      "code": "E05C3/10",
+      "level": 3,
+      "parent": "E05C3/06",
+      "ja": "ウィングに実質的に平行な面内を移動するハンドルまたは部材",
+      "en": "the handle or member moving essentially in a plane substantially parallel to the wing",
+      "count": 561,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C3/12": {
+      "code": "E05C3/12",
+      "level": 1,
+      "parent": "E05C3/00",
+      "ja": "ラッチ作用をもつもの（固定部分がばねにより作られるかまたは単にばねで保持され，そしてばねの変形によって作動する装置，例．スナップＥ０５Ｃ１９／０６）",
+      "en": "with latching action(devices in which the securing part is formed or merely carried by a spring and moves only by distortion of the spring, e.g. snaps, <b>E05C19/06</b>)",
+      "count": 1557,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C3/14": {
+      "code": "E05C3/14",
+      "level": 2,
+      "parent": "E05C3/12",
+      "ja": "ラッチに固定された操作ハンドルまたは同効の部材をもつもの",
+      "en": "with operating handle or equivalent member rigid with the latch",
+      "count": 1556,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C3/16": {
+      "code": "E05C3/16",
+      "level": 2,
+      "parent": "E05C3/12",
+      "ja": "ラッチに固着されず他の手段によって作動する操作ハンドルまたは同効の部材",
+      "en": "with operating handle or equivalent member moving otherwise than rigidly with the latch",
+      "count": 1319,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C3/22": {
+      "code": "E05C3/22",
+      "level": 3,
+      "parent": "E05C3/16",
+      "ja": "ばねで規制されたボルト",
+      "en": "the bolt being spring-controlled",
+      "count": 335,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C3/24": {
+      "code": "E05C3/24",
+      "level": 4,
+      "parent": "E05C3/22",
+      "ja": "二たまたに分かれた形状のもの",
+      "en": "in the form of a bifurcated member",
+      "count": 741,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C3/26": {
+      "code": "E05C3/26",
+      "level": 5,
+      "parent": "E05C3/24",
+      "ja": "植え込みボルト状の受具に係止するもの",
+      "en": "engaging a stud-like keeper",
+      "count": 134,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C3/28": {
+      "code": "E05C3/28",
+      "level": 6,
+      "parent": "E05C3/26",
+      "ja": "同時に作動する二重ボルトをもつもの",
+      "en": "with simultaneously-operating double bolts",
+      "count": 60,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C3/30": {
+      "code": "E05C3/30",
+      "level": 4,
+      "parent": "E05C3/22",
+      "ja": "鈎（かぎ）状のもの",
+      "en": "in the form of a hook",
+      "count": 885,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C3/32": {
+      "code": "E05C3/32",
+      "level": 5,
+      "parent": "E05C3/30",
+      "ja": "鈎状の受具に係止するもの（Ｅ０５Ｃ３／３４が優先）",
+      "en": "engaging a hooked keeper(<b>E05C3/34</b> takes precedence)",
+      "count": 169,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C3/34": {
+      "code": "E05C3/34",
+      "level": 5,
+      "parent": "E05C3/30",
+      "ja": "同時に作動する二重ボルトをもつもの",
+      "en": "with simultaneously-operating double bolts",
+      "count": 204,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C3/36": {
+      "code": "E05C3/36",
+      "level": 4,
+      "parent": "E05C3/22",
+      "ja": "回転歯車形のもの",
+      "en": "in the form of a rotary gear",
+      "count": 52,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C3/38": {
+      "code": "E05C3/38",
+      "level": 4,
+      "parent": "E05C3/22",
+      "ja": "鈎状の受具に係止するボルトをもつもの（Ｅ０５Ｃ３／２４，Ｅ０５Ｃ３／３０，Ｅ０５Ｃ３／３６が優先）",
+      "en": "with bolts engaging a hooked keeper(<b>E05C3/24</b>, <b>E05C3/30</b>, <b>E05C3/36</b> take precedence)",
+      "count": 22,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C3/40": {
+      "code": "E05C3/40",
+      "level": 4,
+      "parent": "E05C3/22",
+      "ja": "植え込みボルト状の受具に係止するボルトをもつもの（Ｅ０５Ｃ３／２４，Ｅ０５Ｃ３／３０，Ｅ０５Ｃ３／３６が優先）",
+      "en": "with bolts engaging a stud-like keeper(<b>E05C3/24</b>, <b>E05C3/30</b>, <b>E05C3/36</b> take precedence)",
+      "count": 114,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C5/00": {
+      "code": "E05C5/00",
+      "level": 0,
+      "parent": "E05C",
+      "ja": "単なる直線運動および単なる旋回または回転運動以外の運動をするボルトをもつ固定装置（ウィングを押し引きすることによって自動的に開放する装置Ｅ０５Ｃ１９／０２）",
+      "en": "Fastening devices with bolts moving otherwise than only rectilinearly and only pivotally or rotatively(devices released automatically by pull or pressure on the wing <b>E05C19/02</b>)",
+      "count": 985,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C5/02": {
+      "code": "E05C5/02",
+      "level": 1,
+      "parent": "E05C5/00",
+      "ja": "ウィングを係止するため軸方向移動と共にその軸まわりの回転運動をするもの",
+      "en": "both moving axially and turning about their axes to secure the wing",
+      "count": 654,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C5/04": {
+      "code": "E05C5/04",
+      "level": 2,
+      "parent": "E05C5/02",
+      "ja": "同時に両運動をするもの，例．受具へのねじ込みによるもの",
+      "en": "performing both movements simultaneously, e.g. screwing into a keeper",
+      "count": 508,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C7/00": {
+      "code": "E05C7/00",
+      "level": 0,
+      "parent": "E05C",
+      "ja": "特に二個のウィングに適用される固定装置<br><br><b><ul>注</ul></b><br>すでに閉じているウィングに対し他のウィングを単に係止するにすぎない固定装置は，特に二個のウィングに適用されるものとはみない。",
+      "en": "Fastening devices specially adapted for two wings; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this group, if a fastening device merely secures one wing to another wing which is already closed it is not regarded as specially adapted for two wings.</li></ul>",
+      "count": 964,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C7/02": {
+      "code": "E05C7/02",
+      "level": 1,
+      "parent": "E05C7/00",
+      "ja": "閉じたとき一方が他の後に来るウィング用",
+      "en": "for wings which lie one behind the other when closed",
+      "count": 1327,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C7/04": {
+      "code": "E05C7/04",
+      "level": 1,
+      "parent": "E05C7/00",
+      "ja": "閉じたとき互いに接するウィング用",
+      "en": "for wings which abut when closed",
+      "count": 1980,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C7/06": {
+      "code": "E05C7/06",
+      "level": 2,
+      "parent": "E05C7/04",
+      "ja": "一方のウィングを閉じることにより他方が作動されるかまたは制御されるウィング用の固定装置",
+      "en": "a fastening device for one wing being actuated or controlled by closing another wing",
+      "count": 723,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C9/00": {
+      "code": "E05C9/00",
+      "level": 0,
+      "parent": "E05C",
+      "ja": "同一ウィング上の充分離れた位置における同時操作のボルトまたは他の係止装置の配置（鎖錠装置を含むことが必須のものＥ０５Ｂ６３／１４；圧力容器用機械的閉鎖のための類似構造一般Ｆ１６Ｊ１３／０８）",
+      "en": "Arrangement of simultaneously-actuated bolts or other securing devices at well-separated positions on the same wing(essentially involving locking means <b>E05B63/14</b>; similar constructions for engineering closures for pressure vessels, in general <b>F16J13/08</b>)",
+      "count": 2937,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C9/02": {
+      "code": "E05C9/02",
+      "level": 1,
+      "parent": "E05C9/00",
+      "ja": "一方への移動時に固定しその逆方向への移動時に解除する一個の滑り棒をもつもの；固定または解除する時に同じ方向へ移動する二つの滑り棒をもつもの［４］",
+      "en": "with one sliding bar for fastening when moved in one direction and unfastening when moved in opposite direction; with two sliding bars moved in the same direction when fastening or unfastening",
+      "count": 2552,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C9/04": {
+      "code": "E05C9/04",
+      "level": 1,
+      "parent": "E05C9/00",
+      "ja": "固定または解除するとき互いに反対方向に移動する二個の滑り棒をもつもの",
+      "en": "with two sliding bars moved in opposite directions when fastening or unfastening",
+      "count": 5062,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C9/06": {
+      "code": "E05C9/06",
+      "level": 1,
+      "parent": "E05C9/00",
+      "ja": "三個またはそれ以上の滑り棒をもつもの",
+      "en": "with three or more sliding bars",
+      "count": 2030,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C9/08": {
+      "code": "E05C9/08",
+      "level": 1,
+      "parent": "E05C9/00",
+      "ja": "固定手段を作動させるための回転棒をもつもの",
+      "en": "with a rotary bar for actuating the fastening means",
+      "count": 1214,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C9/10": {
+      "code": "E05C9/10",
+      "level": 1,
+      "parent": "E05C9/00",
+      "ja": "棒の作動機構",
+      "en": "Actuating mechanisms for bars",
+      "count": 1476,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C9/12": {
+      "code": "E05C9/12",
+      "level": 2,
+      "parent": "E05C9/10",
+      "ja": "歯車とラックをもつもの",
+      "en": "with gears and racks",
+      "count": 1456,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C9/14": {
+      "code": "E05C9/14",
+      "level": 2,
+      "parent": "E05C9/10",
+      "ja": "みぞ穴に係合するピンをもつもの",
+      "en": "with pins engaging slots",
+      "count": 520,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C9/16": {
+      "code": "E05C9/16",
+      "level": 2,
+      "parent": "E05C9/10",
+      "ja": "クランクピンと連結棒をもつもの",
+      "en": "with crank pins and connecting rods",
+      "count": 456,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C9/18": {
+      "code": "E05C9/18",
+      "level": 1,
+      "parent": "E05C9/00",
+      "ja": "棒の端部の固定手段または保持手段の細部",
+      "en": "Details of fastening means or of fixed retaining means for the ends of bars",
+      "count": 2849,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C9/20": {
+      "code": "E05C9/20",
+      "level": 1,
+      "parent": "E05C9/00",
+      "ja": "滑り棒，ロッド，またはケーブルの結合手段［４］",
+      "en": "Coupling means for sliding bars, rods, or cables",
+      "count": 589,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C9/22": {
+      "code": "E05C9/22",
+      "level": 1,
+      "parent": "E05C9/00",
+      "ja": "滑り棒，ロッド，またはケーブルの案内（コーナー案内Ｅ０５Ｃ９／２４）［４］",
+      "en": "Guides for sliding bars, rods, or cables(corner guides <b>E05C9/24</b>)",
+      "count": 486,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C9/24": {
+      "code": "E05C9/24",
+      "level": 1,
+      "parent": "E05C9/00",
+      "ja": "縦方向と横方向の滑り棒，ロッド，またはケーブル間の運動を伝える手段，例．コーナー案内（開放または閉鎖位置へウィングを移動するために縦方向と横方向の滑り棒，ロッドまたはケーブル間の運動を伝える手段Ｅ０５Ｆ７／０８）［４］",
+      "en": "Means for transmitting movements between vertical and horizontal sliding bars, rods, or cables, e.g. corner guides(means for transmitting movements between vertical and horizontal sliding bars, rods, or cables, for moving wings into open or closed position <b>E05F7/08</b>)",
+      "count": 411,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C17/00": {
+      "code": "E05C17/00",
+      "level": 0,
+      "parent": "E05C",
+      "ja": "ウィングを開放状態に保持する装置；フレームとウィングとの間に伸びる移動可能な部材によってウィングの開放を制限またはウィングを開放状態に保持する装置；これらと組み合わされた制動装置，停止具または緩衝器（蝶番と組み合わされたものＥ０５Ｄ１１／００；ウィング用の操作装置と結合したものＥ０５Ｆ；他の制動装置，停止具，緩衝器Ｅ０５Ｆ５／００）［４］",
+      "en": "Devices for holding wings open; Devices for limiting opening of wings or for holding wings open by a movable member extending between frame and wing; Braking devices, stops or buffers, combined therewith(combined with hinges <b>E05D11/00</b>; combined with operating apparatus for wings <b>E05F</b>; other braking devices, stops, buffers <b>E05F5/00</b>)",
+      "count": 1595,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C17/02": {
+      "code": "E05C17/02",
+      "level": 1,
+      "parent": "E05C17/00",
+      "ja": "機械的手段によるもの（Ｅ０５Ｃ１７／６０が優先）［４］",
+      "en": "by mechanical means(<b>E05C17/60</b> takes precedence)",
+      "count": 3238,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C17/04": {
+      "code": "E05C17/04",
+      "level": 2,
+      "parent": "E05C17/02",
+      "ja": "台枠とウィングの間に伸びる可動の棒または同効の部材をもつもの",
+      "en": "with a movable bar or equivalent member extending between frame and wing",
+      "count": 1836,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C17/06": {
+      "code": "E05C17/06",
+      "level": 3,
+      "parent": "E05C17/04",
+      "ja": "ウィングが大体閉じたときにのみ更に開放できるよう解除するもの",
+      "en": "releasable to allow further opening only when the wing is nearly closed",
+      "count": 881,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C17/08": {
+      "code": "E05C17/08",
+      "level": 3,
+      "parent": "E05C17/04",
+      "ja": "解除用に特殊手段をもつもの，例．拡大開口により自動的に解除するもの",
+      "en": "with special means for release, e.g. automatic release by further opening",
+      "count": 443,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C17/10": {
+      "code": "E05C17/10",
+      "level": 3,
+      "parent": "E05C17/04",
+      "ja": "閉鎖位置にウィングを係止するための特殊装置を組み込んだもの",
+      "en": "incorporating a special device for securing the wing in the closed position",
+      "count": 165,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C17/12": {
+      "code": "E05C17/12",
+      "level": 3,
+      "parent": "E05C17/04",
+      "ja": "単一のロッドからなるもの",
+      "en": "consisting of a single rod",
+      "count": 1507,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C17/14": {
+      "code": "E05C17/14",
+      "level": 4,
+      "parent": "E05C17/12",
+      "ja": "鈎（かぎ）および留め孔または同等のもの",
+      "en": "Hook and eye, or equivalent",
+      "count": 487,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C17/16": {
+      "code": "E05C17/16",
+      "level": 4,
+      "parent": "E05C17/12",
+      "ja": "ただ一端で枢着され長いみぞをもつもの",
+      "en": "pivoted only at one end and having an elongated slot",
+      "count": 753,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C17/18": {
+      "code": "E05C17/18",
+      "level": 4,
+      "parent": "E05C17/12",
+      "ja": "ただ一端で枢着され，一列の孔，刻み目またはピンをもつもの",
+      "en": "pivoted only at one end and having a row of holes, notches, or pins",
+      "count": 790,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C17/20": {
+      "code": "E05C17/20",
+      "level": 4,
+      "parent": "E05C17/12",
+      "ja": "案内を通って滑動するもの（Ｅ０５Ｃ１７／１８が優先）",
+      "en": "sliding through a guide(<b>E05C17/18</b> takes precedence)",
+      "count": 1390,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C17/22": {
+      "code": "E05C17/22",
+      "level": 5,
+      "parent": "E05C17/20",
+      "ja": "案内中に制動，つかみまたは係止手段をもつもの［４］",
+      "en": "with braking, clamping or securing means in the guide",
+      "count": 1862,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C17/24": {
+      "code": "E05C17/24",
+      "level": 4,
+      "parent": "E05C17/12",
+      "ja": "ただ一端で枢着され他端は案内部材に沿って動くもの",
+      "en": "pivoted at one end, and with the other end running along a guide member",
+      "count": 678,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C17/26": {
+      "code": "E05C17/26",
+      "level": 5,
+      "parent": "E05C17/24",
+      "ja": "ロッドの枢着点において制動，つかみまたは係止手段をもつもの［４］",
+      "en": "with braking, clamping or securing means at the pivot of the rod",
+      "count": 182,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C17/28": {
+      "code": "E05C17/28",
+      "level": 5,
+      "parent": "E05C17/24",
+      "ja": "案内部材との連結点において制動，つかみまたは係止手段をもつもの［４］",
+      "en": "with braking, clamping or securing means at the connection to the guide member",
+      "count": 1719,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C17/30": {
+      "code": "E05C17/30",
+      "level": 3,
+      "parent": "E05C17/04",
+      "ja": "伸縮可能のもの，例．望遠鏡式のもの（可とう部材Ｅ０５Ｃ１７／３６）",
+      "en": "of extensible, e.g. telescopic, construction(flexible members <b>E05C17/36</b>)",
+      "count": 1999,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C17/32": {
+      "code": "E05C17/32",
+      "level": 3,
+      "parent": "E05C17/04",
+      "ja": "二個またはそれ以上の枢着されたロッドからなるもの",
+      "en": "consisting of two or more pivoted rods",
+      "count": 2139,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C17/34": {
+      "code": "E05C17/34",
+      "level": 4,
+      "parent": "E05C17/32",
+      "ja": "一つ以上の位置に保持する手段をもつもの",
+      "en": "with means for holding in more than one position",
+      "count": 714,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C17/36": {
+      "code": "E05C17/36",
+      "level": 3,
+      "parent": "E05C17/04",
+      "ja": "可とう部材から成るもの，例．鎖",
+      "en": "comprising a flexible member, e.g. chains",
+      "count": 1212,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C17/38": {
+      "code": "E05C17/38",
+      "level": 2,
+      "parent": "E05C17/02",
+      "ja": "ウィング上の部材に係合すべく台枠に固着された湾曲軌条をもつもの，またはその逆のもの",
+      "en": "with a curved rail rigid with the frame for engagement with means on the wing, or <u>vice versa</u>",
+      "count": 429,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C17/40": {
+      "code": "E05C17/40",
+      "level": 2,
+      "parent": "E05C17/02",
+      "ja": "閉じるとき互いに逆方向へ移動する，左側のウィングと右側ウィングを連絡した棒またはその類似部材",
+      "en": "Bars or like parts connecting a right wing with a left wing which move against each other when being closed",
+      "count": 152,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C17/42": {
+      "code": "E05C17/42",
+      "level": 2,
+      "parent": "E05C17/02",
+      "ja": "内外のウィングを連絡するもの",
+      "en": "connecting exterior and interior wings",
+      "count": 349,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C17/44": {
+      "code": "E05C17/44",
+      "level": 2,
+      "parent": "E05C17/02",
+      "ja": "固定の平面と摩擦または同様の係合をするためにウィング上に保持される装置をもつもの，例．引き込み可能の足部材",
+      "en": "with a device carried on the wing for frictional or like engagement with a fixed flat surface, e.g. retractable feet",
+      "count": 1506,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C17/46": {
+      "code": "E05C17/46",
+      "level": 2,
+      "parent": "E05C17/02",
+      "ja": "ウィングまたはウィング上に取り付けられた部材が固定位置において可動の固定部材により係止されるもの；ウィング上の可動の固定部材が静止部材に係止するもの［４］",
+      "en": "in which the wing or a member fixed thereon is engaged by a movable fastening member in a fixed position; in which a movable fastening member mounted on the wing engages a stationary member",
+      "count": 1480,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C17/48": {
+      "code": "E05C17/48",
+      "level": 3,
+      "parent": "E05C17/46",
+      "ja": "滑動する止め部材からなるもの",
+      "en": "comprising a sliding securing member",
+      "count": 620,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C17/50": {
+      "code": "E05C17/50",
+      "level": 3,
+      "parent": "E05C17/46",
+      "ja": "単一の枢着された止め部材からなるもの",
+      "en": "comprising a single pivoted securing member",
+      "count": 751,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C17/52": {
+      "code": "E05C17/52",
+      "level": 3,
+      "parent": "E05C17/46",
+      "ja": "止め金（スナップ），キャッチまたはその類似物からなるもの",
+      "en": "comprising a snap, catch, or the like",
+      "count": 787,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C17/54": {
+      "code": "E05C17/54",
+      "level": 2,
+      "parent": "E05C17/02",
+      "ja": "携帯可能の器具，例．楔（くさび）",
+      "en": "Portable devices, e.g. wedges",
+      "count": 1455,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C17/56": {
+      "code": "E05C17/56",
+      "level": 1,
+      "parent": "E05C17/00",
+      "ja": "磁力または電磁力の吸引によるもの（電気または磁気手段による錠または固定具の操作Ｅ０５Ｂ４７／００）［２］",
+      "en": "by magnetic or electromagnetic attraction(operation of locks or fasteners by electric or magnetic means <b>E05B47/00</b>)",
+      "count": 2854,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C17/58": {
+      "code": "E05C17/58",
+      "level": 1,
+      "parent": "E05C17/00",
+      "ja": "遠隔的に操作または制御されるもの",
+      "en": "operated or controlled from a distance",
+      "count": 165,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C17/60": {
+      "code": "E05C17/60",
+      "level": 1,
+      "parent": "E05C17/00",
+      "ja": "滑動ウィングを開放状態に保持するもの［４］",
+      "en": "holding sliding wings open",
+      "count": 2310,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C17/62": {
+      "code": "E05C17/62",
+      "level": 2,
+      "parent": "E05C17/60",
+      "ja": "切り欠きを用いるもの［４］",
+      "en": "using notches",
+      "count": 694,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C17/64": {
+      "code": "E05C17/64",
+      "level": 2,
+      "parent": "E05C17/60",
+      "ja": "摩擦によるもの［４］",
+      "en": "by friction",
+      "count": 633,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C19/00": {
+      "code": "E05C19/00",
+      "level": 0,
+      "parent": "E05C",
+      "ja": "ウィングを係止するために特別に設計されたその他の装置（ボルト締めに付加的に用いられる着脱自在なすきま密閉具Ｅ０６Ｂ７／１８）［２］",
+      "en": "Other devices specially designed for securing wings(movable draft sealings additionally used for bolting <b>E06B7/18</b>)",
+      "count": 8655,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C19/02": {
+      "code": "E05C19/02",
+      "level": 1,
+      "parent": "E05C19/00",
+      "ja": "自動キャッチ，すなわちウィングを押し引きすることにより解除されるもの（Ｅ０５Ｃ１９／０６が優先）",
+      "en": "Automatic catches, i.e. released by pull or pressure on the wing(<b>E05C19/06</b> takes precedence)",
+      "count": 3057,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C19/04": {
+      "code": "E05C19/04",
+      "level": 2,
+      "parent": "E05C19/02",
+      "ja": "ボールまたはローラキャッチ",
+      "en": "Ball or roller catches",
+      "count": 588,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C19/06": {
+      "code": "E05C19/06",
+      "level": 1,
+      "parent": "E05C19/00",
+      "ja": "係止部材がばねで作られるかまたはばねで保持され，そしてばねの変形によってのみ動くもの，例．スナップ",
+      "en": "in which the securing part is formed or carried by a spring and moves only by distortion of the spring, e.g. snaps",
+      "count": 2865,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C19/08": {
+      "code": "E05C19/08",
+      "level": 1,
+      "parent": "E05C19/00",
+      "ja": "掛け金；掛け金固定具；そこに用いるばねキャッチ",
+      "en": "Hasps; Hasp fastenings; Spring catches therefor",
+      "count": 1968,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C19/10": {
+      "code": "E05C19/10",
+      "level": 1,
+      "parent": "E05C19/00",
+      "ja": "鈎式固定具；環状部材が固定された鈎状部材に係合する固定具",
+      "en": "Hook fastenings; Fastenings in which a link engages a fixed hook-like member",
+      "count": 2135,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C19/12": {
+      "code": "E05C19/12",
+      "level": 2,
+      "parent": "E05C19/10",
+      "ja": "枢着されたもの",
+      "en": "pivotally mounted",
+      "count": 1072,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C19/14": {
+      "code": "E05C19/14",
+      "level": 3,
+      "parent": "E05C19/12",
+      "ja": "トグル作用をもつもの",
+      "en": "with toggle action",
+      "count": 1224,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C19/16": {
+      "code": "E05C19/16",
+      "level": 1,
+      "parent": "E05C19/00",
+      "ja": "磁力または電磁力による吸引によりウィングを保持する装置",
+      "en": "Devices holding the wing by magnetic or electromagnetic attraction",
+      "count": 8091,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C19/18": {
+      "code": "E05C19/18",
+      "level": 1,
+      "parent": "E05C19/00",
+      "ja": "特にウィング係止用に使用される携帯可能な装置（ハンドルの操作を防ぐものＥ０５Ｂ１３／００）",
+      "en": "Portable devices specially adapted for securing wings(preventing operation of handles <b>E05B13/00</b>)",
+      "count": 1690,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C21/00": {
+      "code": "E05C21/00",
+      "level": 0,
+      "parent": "E05C",
+      "ja": "メイングループＥ０５Ｃ１／００～Ｅ０５Ｃ１９／００のいずれにも分類されないウィングの固定，係止または保持装置の配置またはその組み合わせ",
+      "en": "Arrangement or combinations of wing fastening, securing, or holding devices, not covered by any single one of main groups <b>E05C1/00 to E05C19/00</b> ",
+      "count": 2344,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    },
+    "E05C21/02": {
+      "code": "E05C21/02",
+      "level": 1,
+      "parent": "E05C21/00",
+      "ja": "ウィングを閉鎖状態のみに保持するためのもの",
+      "en": "for holding a wing closed only",
+      "count": 1337,
+      "sourceFile": "ipc_E05C.txt",
+      "kind": "ipc"
+    }
+  }
+};

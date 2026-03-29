@@ -1,0 +1,1116 @@
+window.IPC_SHARD_A62C = {
+  "generatedAt": "2026-03-20T02:17:45.964Z",
+  "total": 111,
+  "entries": {
+    "A62C": {
+      "code": "A62C",
+      "level": 0,
+      "parent": "A62",
+      "ja": "消防（消火剤，消火における化学物質の使用Ａ６２Ｄ１／００；噴霧，表面に液体または他の流体を作用させるもの一般Ｂ０５；消防飛行機Ｂ６４Ｄ１／１６；警報装置Ｇ０８Ｂ，例．煙またはガスにより作動する火災警報Ｇ０８Ｂ１７／１０）<br><br><b><ul>サブクラス内の索引</ul></b><br>火災の防止または封じ込め；特定な対象または場所のための消火<br>防火または封じ込め　２／００<br>火災トラップ　４／００<br>特定な対象または場所のための　３／００<br>使用前の消火剤の調製　５／００<br>道具または付属具　８／００<br>携帯用消火器<br>作動原理による区分　１１／００，１３／００，１９／００，２５／００<br>背負式　１５／００<br>ピストルまたはライフル型　１７／００<br>消防運搬具<br>陸上車　２７／００<br>舟　２９／００<br>消火剤の放出　３１／００<br>ホース付属具　３３／００<br>定置された設備　３５／００<br>消火設備の制御　３７／００<br>他の方法，設備または付属具　９９／００<br>",
+      "en": "FIRE-FIGHTING(fire-extinguishing compositions, use of chemical substances in extinguishing fires <b>A62D1/00</b>; spraying, applying liquids or other fluent materials to surfaces in general <b>B05</b>; fire-fighting aircraft <b>B64D1/16</b>; alarm arrangements <b>G08B</b>, e.g. fire alarms actuated by smoke or gases <b>G08B17/10</b>);<br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">FIRE PREVENTION OR CONTAINMENT; FIRE-EXTINGUISHING FOR PARTICULAR OBJECTS OR PLACES<tr><td width=\"70%\">Prevention or containment </td><td><b><b>2/00</b></b></td></tr></tr><tr><td width=\"70%\">Flame traps </td><td><b><b>4/00</b></b></td></tr></tr><tr><td width=\"70%\">For particular objects or places </td><td><b><b>3/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">MAKING FIRE-EXTINGUISHING MATERIALS BEFORE USE </td><td><b><b>5/00</b></b></td></tr></tr><tr><td width=\"70%\">HAND TOOLS OR ACCESSORIES </td><td><b><b>8/00</b></b></td></tr></tr><tr><td width=\"70%\">PORTABLE EXTINGUISHERS<tr><td width=\"70%\">According to operating principle </td><td><b><b>11/00</b>, <b>13/00</b>, <b>19/00</b>, <b>25/00</b></b></td></tr></tr><tr><td width=\"70%\">Knapsack type </td><td><b><b>15/00</b></b></td></tr></tr><tr><td width=\"70%\">Pistol or rifle type </td><td><b><b>17/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">FIRE-FIGHTING VEHICLES<tr><td width=\"70%\">Land vehicles </td><td><b><b>27/00</b></b></td></tr></tr><tr><td width=\"70%\">Boats </td><td><b><b>29/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">DELIVERY OF FIRE-EXTINGUISHING MATERIALS </td><td><b><b>31/00</b></b></td></tr></tr><tr><td width=\"70%\">HOSE ACCESSORIES </td><td><b><b>33/00</b></b></td></tr></tr><tr><td width=\"70%\">STATIONARILY-INSTALLED EQUIPMENT </td><td><b><b>35/00</b></b></td></tr></tr><tr><td width=\"70%\">CONTROL OF FIRE-FIGHTING EQUIPMENT </td><td><b><b>37/00</b></b></td></tr></tr><tr><td width=\"70%\">OTHER METHODS, EQUIPMENT OR ACCESSORIES </td><td><b><b>99/00</b></b></td></tr></tr></table>",
+      "count": 1185,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A62": {
+      "code": "A62",
+      "level": 0,
+      "parent": "A",
+      "ja": "人命救助；消防",
+      "en": "LIFE-SAVING; FIRE-FIGHTING",
+      "count": 0,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A": {
+      "code": "A",
+      "level": 0,
+      "parent": null,
+      "ja": "生活必需品",
+      "en": "HUMAN NECESSITIES",
+      "count": 0,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A62C2/00": {
+      "code": "A62C2/00",
+      "level": 0,
+      "parent": "A62C",
+      "ja": "火災の防止または封じ込め（Ａ６２Ｃ３／００が優先；火災のトラップＡ６２Ｃ４／００）［５］",
+      "en": "Fire prevention or containment(<b>A62C3/00</b> takes precedence; flame traps <b>A62C4/00</b>)",
+      "count": 2537,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C2/04": {
+      "code": "A62C2/04",
+      "level": 1,
+      "parent": "A62C2/00",
+      "ja": "燃えやすい物質の除去または供給遮断［５］",
+      "en": "Removing or cutting-off the supply of inflammable material",
+      "count": 1871,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C2/06": {
+      "code": "A62C2/06",
+      "level": 1,
+      "parent": "A62C2/00",
+      "ja": "物理的防火障壁［５］",
+      "en": "Physical fire-barriers",
+      "count": 6857,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C2/08": {
+      "code": "A62C2/08",
+      "level": 2,
+      "parent": "A62C2/06",
+      "ja": "水幕（ノズルＡ６２Ｃ３１／０２）［５］",
+      "en": "Water curtains(nozzles <b>A62C31/02</b>)",
+      "count": 1323,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C2/10": {
+      "code": "A62C2/10",
+      "level": 2,
+      "parent": "A62C2/06",
+      "ja": "防火幕［５］",
+      "en": "Fire-proof curtains",
+      "count": 2151,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C2/12": {
+      "code": "A62C2/12",
+      "level": 2,
+      "parent": "A62C2/06",
+      "ja": "回転支持部のあるダンパー［５］",
+      "en": "Hinged dampers",
+      "count": 1193,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C2/14": {
+      "code": "A62C2/14",
+      "level": 3,
+      "parent": "A62C2/12",
+      "ja": "２つ以上のブレードを有するもの［５］",
+      "en": "with two or more blades",
+      "count": 322,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C2/16": {
+      "code": "A62C2/16",
+      "level": 4,
+      "parent": "A62C2/14",
+      "ja": "複数ベーンの巻き取り型または折り畳み型［５］",
+      "en": "multi-vane roll or fold-up type",
+      "count": 380,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C2/18": {
+      "code": "A62C2/18",
+      "level": 2,
+      "parent": "A62C2/06",
+      "ja": "滑動ダンパー［５］",
+      "en": "Sliding dampers",
+      "count": 488,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C2/20": {
+      "code": "A62C2/20",
+      "level": 3,
+      "parent": "A62C2/18",
+      "ja": "開口平面に対し９０度の角度をもつもの［５］",
+      "en": "at 90 degrees to the plane of the opening",
+      "count": 80,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C2/22": {
+      "code": "A62C2/22",
+      "level": 2,
+      "parent": "A62C2/06",
+      "ja": "開口部の閉鎖前に障害物，例．レールまたは運搬機，の除去のための設備を有する防火ダンパー［５］",
+      "en": "Fire-dampers with provision for the removal of an obstacle, e.g. rails or conveyors, before closing the opening",
+      "count": 190,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C2/24": {
+      "code": "A62C2/24",
+      "level": 2,
+      "parent": "A62C2/06",
+      "ja": "操作または制御機構［５］",
+      "en": "Operating or controlling mechanisms",
+      "count": 3556,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C3/00": {
+      "code": "A62C3/00",
+      "level": 0,
+      "parent": "A62C",
+      "ja": "特定な対象または場所に特に適合した火災防止，封じ込めまたは消火（原子炉に関するものＧ２１Ｃ９／０４）［５］",
+      "en": "Fire prevention, containment or extinguishing specially adapted for particular objects or places(for nuclear reactors <b>G21C9/04</b>)",
+      "count": 9109,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C3/02": {
+      "code": "A62C3/02",
+      "level": 1,
+      "parent": "A62C3/00",
+      "ja": "地域的大火に関するもの，例．山林火災，地下火災［５］",
+      "en": "for area conflagrations, e.g. forest fires, subterranean fires",
+      "count": 7741,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C3/04": {
+      "code": "A62C3/04",
+      "level": 1,
+      "parent": "A62C3/00",
+      "ja": "塵芥に関するものまたはゆるく積まれた物に関するもの，例．サイロ中，煙突中におけるもの（火災トラップＡ６２Ｃ４／００）［５］",
+      "en": "for dust or loosely-baled or loosely-piled materials, e.g. in silos, in chimneys(flame traps <b>A62C4/00</b>)",
+      "count": 1272,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C3/06": {
+      "code": "A62C3/06",
+      "level": 1,
+      "parent": "A62C3/00",
+      "ja": "非常に燃えやすい物質に関するもの，例．軽金属，石油製品［５］",
+      "en": "of highly inflammable material, e.g. light metals, petroleum products",
+      "count": 4162,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C3/07": {
+      "code": "A62C3/07",
+      "level": 1,
+      "parent": "A62C3/00",
+      "ja": "車輌に関するもの，例．陸上車両［５］",
+      "en": "in vehicles, e.g. in road vehicles",
+      "count": 7549,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C3/08": {
+      "code": "A62C3/08",
+      "level": 2,
+      "parent": "A62C3/07",
+      "ja": "航空機に関するもの［５］",
+      "en": "in aircraft",
+      "count": 1163,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C3/10": {
+      "code": "A62C3/10",
+      "level": 2,
+      "parent": "A62C3/07",
+      "ja": "船舶に関するもの［５］",
+      "en": "in ships",
+      "count": 1791,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C3/16": {
+      "code": "A62C3/16",
+      "level": 1,
+      "parent": "A62C3/00",
+      "ja": "電気設備に関するもの，例．ケーブル設置路［５］",
+      "en": "in electrical installations, e.g. cableways",
+      "count": 29833,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C4/00": {
+      "code": "A62C4/00",
+      "level": 0,
+      "parent": "A62C",
+      "ja": "炎や爆発波を通過せず，ガスを通過させる炎トラップ［２］",
+      "en": "Flame traps allowing passage of gas but not of flame or explosion wave",
+      "count": 1272,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C4/02": {
+      "code": "A62C4/02",
+      "level": 1,
+      "parent": "A62C4/00",
+      "ja": "ガスパイプ中に用いるもの（安全弁Ｆ１６Ｋ１７／００）［２］",
+      "en": "in gas-pipes(safety valves <b>F16K17/00</b>)",
+      "count": 1934,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C4/04": {
+      "code": "A62C4/04",
+      "level": 1,
+      "parent": "A62C4/00",
+      "ja": "煙道あるいは煙突中に用いるもの［２］",
+      "en": "in flues or chimneys",
+      "count": 275,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C5/00": {
+      "code": "A62C5/00",
+      "level": 0,
+      "parent": "A62C",
+      "ja": "使用前即時に消火物質を調製するもの（ノズルＡ６２Ｃ３１／０２）［５］",
+      "en": "Making of fire-extinguishing materials immediately before use(nozzles <b>A62C31/02</b>)",
+      "count": 2833,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C5/02": {
+      "code": "A62C5/02",
+      "level": 1,
+      "parent": "A62C5/00",
+      "ja": "泡沫をつくりだすもの［５］",
+      "en": "of foam",
+      "count": 3379,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C5/027": {
+      "code": "A62C5/027",
+      "level": 2,
+      "parent": "A62C5/02",
+      "ja": "重い泡沫［５］",
+      "en": "Heavy foam",
+      "count": 24,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C5/033": {
+      "code": "A62C5/033",
+      "level": 1,
+      "parent": "A62C5/00",
+      "ja": "ゲルをつくりだすもの［５］",
+      "en": "of gel",
+      "count": 208,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C8/00": {
+      "code": "A62C8/00",
+      "level": 0,
+      "parent": "A62C",
+      "ja": "消火活動のために特に適合した道具または付属品，例．道具箱［５］",
+      "en": "Hand tools or accessories specially adapted for fire-fighting, e.g. tool boxes",
+      "count": 3342,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C8/02": {
+      "code": "A62C8/02",
+      "level": 1,
+      "parent": "A62C8/00",
+      "ja": "バケツまたは桶［５］",
+      "en": "Buckets or pails",
+      "count": 228,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C8/04": {
+      "code": "A62C8/04",
+      "level": 1,
+      "parent": "A62C8/00",
+      "ja": "火かきまたは火たたき［５］",
+      "en": "Rakes or beaters",
+      "count": 223,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C8/06": {
+      "code": "A62C8/06",
+      "level": 1,
+      "parent": "A62C8/00",
+      "ja": "消火布［５］",
+      "en": "Fire-blankets",
+      "count": 1144,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C8/08": {
+      "code": "A62C8/08",
+      "level": 1,
+      "parent": "A62C8/00",
+      "ja": "消火楯［５］",
+      "en": "Shields",
+      "count": 181,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C11/00": {
+      "code": "A62C11/00",
+      "level": 0,
+      "parent": "A62C",
+      "ja": "手動ポンプを有する携帯用消火器［５］",
+      "en": "Portable extinguishers with manually-operated pumps",
+      "count": 678,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C13/00": {
+      "code": "A62C13/00",
+      "level": 0,
+      "parent": "A62C",
+      "ja": "常に加圧されたまたは使用前即時に加圧される携帯用消火器（Ａ６２Ｃ１１／００が優先）［５］",
+      "en": "Portable extinguishers which are permanently pressurised or pressurised immediately before use(<b>A62C11/00</b> takes precedence)",
+      "count": 4059,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C13/02": {
+      "code": "A62C13/02",
+      "level": 1,
+      "parent": "A62C13/00",
+      "ja": "化学的に発生した高圧ガスを有するもの",
+      "en": "with pressure gas produced by chemicals",
+      "count": 169,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C13/04": {
+      "code": "A62C13/04",
+      "level": 2,
+      "parent": "A62C13/02",
+      "ja": "酸の容器を別個に有するもの",
+      "en": "with separate acid container",
+      "count": 48,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C13/06": {
+      "code": "A62C13/06",
+      "level": 3,
+      "parent": "A62C13/04",
+      "ja": "閉鎖装置のない酸の容器を有するもの",
+      "en": "with acid container without closure device",
+      "count": 6,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C13/08": {
+      "code": "A62C13/08",
+      "level": 3,
+      "parent": "A62C13/04",
+      "ja": "閉鎖装置のある酸の容器を有するもの",
+      "en": "with acid container with closure device",
+      "count": 13,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C13/10": {
+      "code": "A62C13/10",
+      "level": 4,
+      "parent": "A62C13/08",
+      "ja": "ゆるんだ蓋の閉鎖装置を有するもの（密封効果のない液体容器にゆるく係合する蓋やカバー一般Ｂ６５Ｄ５１／０２）",
+      "en": "with loose-lid closure device(loosely-engaging lids or covers for containers for liquids without means for effecting sealing of container in general <b>B65D51/02</b>)",
+      "count": 15,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C13/12": {
+      "code": "A62C13/12",
+      "level": 4,
+      "parent": "A62C13/08",
+      "ja": "弁の閉鎖装置を有するもの",
+      "en": "with valve closure device",
+      "count": 44,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C13/14": {
+      "code": "A62C13/14",
+      "level": 3,
+      "parent": "A62C13/04",
+      "ja": "ピン，ねじピンまたは類似の装置によって破壊される外皮のある酸容器を有するもの",
+      "en": "with acid container the shell of which is ruptured by pin, screw-pin, or similar device",
+      "count": 94,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C13/16": {
+      "code": "A62C13/16",
+      "level": 3,
+      "parent": "A62C13/04",
+      "ja": "使用のときに落下させることによって破壊される可動式の酸容器を有するもの",
+      "en": "with movable acid container ruptured by falling when operated",
+      "count": 11,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C13/18": {
+      "code": "A62C13/18",
+      "level": 3,
+      "parent": "A62C13/04",
+      "ja": "打撃錘によって壊れる酸容器を有するもの，例．落下錘によるもの",
+      "en": "with acid container ruptured by a striking weight, e.g. by a falling weight",
+      "count": 8,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C13/20": {
+      "code": "A62C13/20",
+      "level": 2,
+      "parent": "A62C13/02",
+      "ja": "１個の筒に化学物質を有するもの，例．薬包",
+      "en": "with the chemicals in a single case, e.g. in a cartridge",
+      "count": 88,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C13/22": {
+      "code": "A62C13/22",
+      "level": 2,
+      "parent": "A62C13/02",
+      "ja": "高圧ガスを発生する発火物質を有するもの",
+      "en": "with incendiary substances producing pressure gas",
+      "count": 431,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C13/62": {
+      "code": "A62C13/62",
+      "level": 1,
+      "parent": "A62C13/00",
+      "ja": "単一の蓄圧容器を有するもの［５］",
+      "en": "with a single permanently pressurised container",
+      "count": 1154,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C13/64": {
+      "code": "A62C13/64",
+      "level": 2,
+      "parent": "A62C13/62",
+      "ja": "消火剤が弁により放出されるもの［５］",
+      "en": "the extinguishing material being released by means of a valve",
+      "count": 1315,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C13/66": {
+      "code": "A62C13/66",
+      "level": 1,
+      "parent": "A62C13/00",
+      "ja": "消火剤を有し，かつ加圧ガスが別の容器に貯蔵されているもの［５］",
+      "en": "with extinguishing material and pressure gas being stored in separate containers",
+      "count": 684,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C13/68": {
+      "code": "A62C13/68",
+      "level": 2,
+      "parent": "A62C13/66",
+      "ja": "消火剤を放出する手段に特徴があるもの［５］",
+      "en": "characterised by means for releasing the extinguishing material",
+      "count": 346,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C13/70": {
+      "code": "A62C13/70",
+      "level": 2,
+      "parent": "A62C13/66",
+      "ja": "加圧ガスを放出する手段に特徴があるもの［５］",
+      "en": "characterised by means for releasing the pressure gas",
+      "count": 305,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C13/72": {
+      "code": "A62C13/72",
+      "level": 2,
+      "parent": "A62C13/66",
+      "ja": "両方の容器に事実上同時に作用する解放手段に特徴があるもの［５］",
+      "en": "characterised by releasing means operating essentially simultaneously on both containers",
+      "count": 113,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C13/74": {
+      "code": "A62C13/74",
+      "level": 3,
+      "parent": "A62C13/72",
+      "ja": "加圧ガス容器が穿孔されるかまたは破壊されるもの［５］",
+      "en": "the pressure gas container being pierced or broken",
+      "count": 234,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C13/76": {
+      "code": "A62C13/76",
+      "level": 1,
+      "parent": "A62C13/00",
+      "ja": "細部または付属具［５］",
+      "en": "Details or accessories",
+      "count": 5931,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C13/78": {
+      "code": "A62C13/78",
+      "level": 2,
+      "parent": "A62C13/76",
+      "ja": "吊下げまたは支持装置［５］",
+      "en": "Suspending or supporting devices",
+      "count": 4986,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C15/00": {
+      "code": "A62C15/00",
+      "level": 0,
+      "parent": "A62C",
+      "ja": "背のう形消火器（背のう，運送用の枠組，体で持運ぶパックの枠組Ａ４５Ｆ３／００）",
+      "en": "Extinguishers essentially of the knapsack type(knapsacks, carrying-frames, pack-frames carried on the body <b>A45F3/00</b>)",
+      "count": 738,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C17/00": {
+      "code": "A62C17/00",
+      "level": 0,
+      "parent": "A62C",
+      "ja": "ピストルまたはライフル形手動消火器",
+      "en": "Hand fire-extinguishers essentially in the form of pistols or rifles",
+      "count": 479,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C19/00": {
+      "code": "A62C19/00",
+      "level": 0,
+      "parent": "A62C",
+      "ja": "消火剤が破裂によって放散される手動消火器；火中に投入される破裂容器",
+      "en": "Hand fire-extinguishers in which the extinguishing substance is expelled by an explosion; Exploding containers thrown into the fire",
+      "count": 2946,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C25/00": {
+      "code": "A62C25/00",
+      "level": 0,
+      "parent": "A62C",
+      "ja": "動力駆動のポンプを有する携帯用消火器［５］",
+      "en": "Portable extinguishers with power-driven pumps",
+      "count": 709,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C27/00": {
+      "code": "A62C27/00",
+      "level": 0,
+      "parent": "A62C",
+      "ja": "消防車（乗物の観点，クラスＢ６０からＢ６２の適切なサブクラスを参照）",
+      "en": "Fire-fighting land vehicles(vehicle aspects, see the appropriate subclasses of classes <b>B60 to B62</b> )",
+      "count": 13130,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C29/00": {
+      "code": "A62C29/00",
+      "level": 0,
+      "parent": "A62C",
+      "ja": "消防艇または類似の浮揚構造物（造船または航海の観点、クラスＢ６３の適切なサブクラスを参照）［５］",
+      "en": "Fire-fighting vessels or like floating structures(shipbuilding or navigation aspects, <u>see</u> the appropriate subclasses of class <b>B63</b>)",
+      "count": 234,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C31/00": {
+      "code": "A62C31/00",
+      "level": 0,
+      "parent": "A62C",
+      "ja": "消火剤の放出（ポンプＦ０４；ホースＦ１６Ｌ）",
+      "en": "Delivery of fire-extinguishing material(pumps <b>F04</b>; hoses <b>F16L</b>)",
+      "count": 23692,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C31/02": {
+      "code": "A62C31/02",
+      "level": 1,
+      "parent": "A62C31/00",
+      "ja": "消火に特に適合したノズル［５］",
+      "en": "Nozzles specially adapted for fire-extinguishing",
+      "count": 14164,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C31/03": {
+      "code": "A62C31/03",
+      "level": 2,
+      "parent": "A62C31/02",
+      "ja": "調整可能なもの，例．噴霧から噴流へまたはその逆［５］",
+      "en": "adjustable, e.g. from spray to jet or <u>vice-versa</u>",
+      "count": 6622,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C31/05": {
+      "code": "A62C31/05",
+      "level": 2,
+      "parent": "A62C31/02",
+      "ja": "２つ以上の排出口を有するもの［５］",
+      "en": "with two or more outlets",
+      "count": 4454,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C31/07": {
+      "code": "A62C31/07",
+      "level": 3,
+      "parent": "A62C31/05",
+      "ja": "種々の消火剤につかえるもの［５］",
+      "en": "for different media",
+      "count": 391,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C31/12": {
+      "code": "A62C31/12",
+      "level": 2,
+      "parent": "A62C31/02",
+      "ja": "泡または霧状泡を放出するためのもの",
+      "en": "for delivering foam or atomized foam",
+      "count": 2865,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C31/22": {
+      "code": "A62C31/22",
+      "level": 2,
+      "parent": "A62C31/02",
+      "ja": "壁，堆積物または類似のものを貫通するために特別に用いられるもの",
+      "en": "specially adapted for piercing walls, heaped materials, or the like",
+      "count": 542,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C31/24": {
+      "code": "A62C31/24",
+      "level": 2,
+      "parent": "A62C31/02",
+      "ja": "回転ヘッドの有無にかかわらず，はしご，棒，塔またはその他の構造物にとりつけられるもの",
+      "en": "attached to ladders, poles, towers, or other structures with or without rotary heads",
+      "count": 1683,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C31/28": {
+      "code": "A62C31/28",
+      "level": 1,
+      "parent": "A62C31/00",
+      "ja": "放出装置用の付属品，例．支柱",
+      "en": "Accessories for delivery devices, e.g. supports",
+      "count": 20730,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C33/00": {
+      "code": "A62C33/00",
+      "level": 0,
+      "parent": "A62C",
+      "ja": "ホース付属品［５］",
+      "en": "Hose accessories",
+      "count": 2554,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C33/02": {
+      "code": "A62C33/02",
+      "level": 1,
+      "parent": "A62C33/00",
+      "ja": "ホースの洗浄または乾燥用装置（乾燥棚Ｆ２６Ｂ）",
+      "en": "Apparatus for cleaning or drying hoses(drying shelves <b>F26B</b>)",
+      "count": 1296,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C33/04": {
+      "code": "A62C33/04",
+      "level": 1,
+      "parent": "A62C33/00",
+      "ja": "消火ホース用支持または締め金",
+      "en": "Supports or clamps for fire hoses",
+      "count": 3751,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C33/06": {
+      "code": "A62C33/06",
+      "level": 1,
+      "parent": "A62C33/00",
+      "ja": "ホースまたは管のブリッジ",
+      "en": "Hose or pipe bridges",
+      "count": 1077,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C35/00": {
+      "code": "A62C35/00",
+      "level": 0,
+      "parent": "A62C",
+      "ja": "定置設備（Ａ６２Ｃ３１／００，Ａ６２Ｃ３３／００，Ａ６２Ｃ３７／００が優先，水膜を作るためのものＡ６２Ｃ２／０８）",
+      "en": "Permanently-installed equipment(<b>A62C31/00</b>, <b>A62C33/00</b>, <b>A62C37/00</b> take precedence; for forming water curtains <b>A62C2/08</b>)",
+      "count": 2441,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C35/02": {
+      "code": "A62C35/02",
+      "level": 1,
+      "parent": "A62C35/00",
+      "ja": "消火剤を放出するための容器を有するもの",
+      "en": "with containers for delivering the extinguishing substance(for forming water curtains <b>A62C2/08</b>)",
+      "count": 4113,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C35/04": {
+      "code": "A62C35/04",
+      "level": 2,
+      "parent": "A62C35/02",
+      "ja": "動揺または傾斜できる容器",
+      "en": "Swingable or tiltable containers",
+      "count": 63,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C35/06": {
+      "code": "A62C35/06",
+      "level": 2,
+      "parent": "A62C35/02",
+      "ja": "落下によって破壊または開口する容器［５］",
+      "en": "Containers destroyed or opened by falling",
+      "count": 121,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C35/08": {
+      "code": "A62C35/08",
+      "level": 2,
+      "parent": "A62C35/02",
+      "ja": "爆薬によって破壊または開口する容器［５］",
+      "en": "Containers destroyed or opened by bursting charge",
+      "count": 628,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C35/10": {
+      "code": "A62C35/10",
+      "level": 2,
+      "parent": "A62C35/02",
+      "ja": "炎または熱によって破壊または開口する容器［５］",
+      "en": "Containers destroyed or opened by flames or heat",
+      "count": 2604,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C35/11": {
+      "code": "A62C35/11",
+      "level": 2,
+      "parent": "A62C35/02",
+      "ja": "危険区域から信号によって制御されるもの［５］",
+      "en": "controlled by a signal from the danger zone",
+      "count": 879,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C35/13": {
+      "code": "A62C35/13",
+      "level": 3,
+      "parent": "A62C35/11",
+      "ja": "消火剤の供給が限定されているもの［５］",
+      "en": "with a finite supply of extinguishing material",
+      "count": 642,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C35/15": {
+      "code": "A62C35/15",
+      "level": 3,
+      "parent": "A62C35/11",
+      "ja": "自動的に消火剤の供給を補充する機構を有するもの［５］",
+      "en": "with a system for topping-up the supply of extinguishing material automatically",
+      "count": 248,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C35/20": {
+      "code": "A62C35/20",
+      "level": 1,
+      "parent": "A62C35/00",
+      "ja": "消火栓，例．壁ホース，壁型ユニット，差込みキャビネット（街路における消火栓Ｅ０３Ｂ９／０２）［５］",
+      "en": "Hydrants, e.g. wall-hoses, wall units, plug-in cabinets(hydrants in streets <b>E03B9/02</b>)",
+      "count": 7036,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C35/58": {
+      "code": "A62C35/58",
+      "level": 1,
+      "parent": "A62C35/00",
+      "ja": "配管システム［５］",
+      "en": "Pipe-line systems",
+      "count": 2701,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C35/60": {
+      "code": "A62C35/60",
+      "level": 2,
+      "parent": "A62C35/58",
+      "ja": "湿式，すなわち使用しないときでも消火剤を収容するもの［５］",
+      "en": "wet, i.e. containing extinguishing material even when not in use",
+      "count": 1741,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C35/62": {
+      "code": "A62C35/62",
+      "level": 2,
+      "parent": "A62C35/58",
+      "ja": "乾式，すなわち使用しないとき消火剤が空になるもの［５］",
+      "en": "dry, i.e. empty of extinguishing material when not in use",
+      "count": 777,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C35/64": {
+      "code": "A62C35/64",
+      "level": 2,
+      "parent": "A62C35/58",
+      "ja": "加圧されているもの［５］",
+      "en": "pressurised",
+      "count": 1234,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C35/66": {
+      "code": "A62C35/66",
+      "level": 3,
+      "parent": "A62C35/64",
+      "ja": "加速装置［５］",
+      "en": "Accelerators",
+      "count": 109,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C35/68": {
+      "code": "A62C35/68",
+      "level": 2,
+      "parent": "A62C35/58",
+      "ja": "細部，例．パイプまたは弁システム（弁一般Ｆ１６Ｋ）［５］",
+      "en": "Details, e.g. of pipes or valve systems(valves in general <b>F16K</b>)",
+      "count": 7337,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C37/00": {
+      "code": "A62C37/00",
+      "level": 0,
+      "parent": "A62C",
+      "ja": "消防設備の制御（感熱装置Ｇ０１Ｋ）［５］",
+      "en": "Control of fire-fighting equipment(heat-sensitive devices <b>G01K</b>)",
+      "count": 14943,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C37/08": {
+      "code": "A62C37/08",
+      "level": 1,
+      "parent": "A62C37/00",
+      "ja": "センサーを含む排出装置からなるもの，またはそれ自体がセンサーであるもの，すなわち自己完結型スプリンクラー［５］",
+      "en": "comprising an outlet device containing a sensor, or itself being the sensor, i.e. self-contained sprinklers",
+      "count": 2307,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C37/09": {
+      "code": "A62C37/09",
+      "level": 2,
+      "parent": "A62C37/08",
+      "ja": "伸縮自在または調整可能なもの［５］",
+      "en": "telescopic or adjustable",
+      "count": 377,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C37/10": {
+      "code": "A62C37/10",
+      "level": 2,
+      "parent": "A62C37/08",
+      "ja": "係止解除手段，例．電気的に解除されるもの［５］",
+      "en": "Releasing means, e.g. electrically released",
+      "count": 1434,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C37/11": {
+      "code": "A62C37/11",
+      "level": 3,
+      "parent": "A62C37/10",
+      "ja": "感熱型［５］",
+      "en": "heat-sensitive",
+      "count": 3261,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C37/12": {
+      "code": "A62C37/12",
+      "level": 4,
+      "parent": "A62C37/11",
+      "ja": "ヒュージブルリンクを有するもの［５］",
+      "en": "with fusible links",
+      "count": 1473,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C37/14": {
+      "code": "A62C37/14",
+      "level": 4,
+      "parent": "A62C37/11",
+      "ja": "こわれやすい容器を有するもの［５］",
+      "en": "with frangible vessels",
+      "count": 2094,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C37/16": {
+      "code": "A62C37/16",
+      "level": 4,
+      "parent": "A62C37/11",
+      "ja": "熱膨脹リンクを有するもの［５］",
+      "en": "with thermally-expansible links",
+      "count": 277,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C37/20": {
+      "code": "A62C37/20",
+      "level": 2,
+      "parent": "A62C37/08",
+      "ja": "使用後の復帰；そのための道具［５］",
+      "en": "Resetting after use; Tools therefor",
+      "count": 311,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C37/21": {
+      "code": "A62C37/21",
+      "level": 3,
+      "parent": "A62C37/20",
+      "ja": "自動的［５］",
+      "en": "automatic",
+      "count": 132,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C37/36": {
+      "code": "A62C37/36",
+      "level": 1,
+      "parent": "A62C37/00",
+      "ja": "作動信号が排出装置と分離したセンサーによって発生させられるもの［５］",
+      "en": "an actuating signal being generated by a sensor separate from an outlet device",
+      "count": 4846,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C37/38": {
+      "code": "A62C37/38",
+      "level": 2,
+      "parent": "A62C37/36",
+      "ja": "センサーとアクチュエータの両方によるもの，例．弁，で危険区域にあるもの［５］",
+      "en": "by both sensor and actuator, e.g. valve, being in the danger zone",
+      "count": 4163,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C37/40": {
+      "code": "A62C37/40",
+      "level": 3,
+      "parent": "A62C37/38",
+      "ja": "センサーとアクチュエータとの間に電気的結合を有するもの［５］",
+      "en": "with electric connection between sensor and actuator",
+      "count": 8711,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C37/42": {
+      "code": "A62C37/42",
+      "level": 3,
+      "parent": "A62C37/38",
+      "ja": "センサーとアクチェエータとの間に機械的結合，例．ロッド，レバー，を有するもの［５］",
+      "en": "with mechanical connection between sensor and actuator, e.g. rods, levers",
+      "count": 1059,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C37/44": {
+      "code": "A62C37/44",
+      "level": 2,
+      "parent": "A62C37/36",
+      "ja": "センサーのみが危険区域にあるもの［５］",
+      "en": "only the sensor being in the danger zone",
+      "count": 387,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C37/46": {
+      "code": "A62C37/46",
+      "level": 2,
+      "parent": "A62C37/36",
+      "ja": "アクチュエータの構造［５］",
+      "en": "Construction of the actuator",
+      "count": 712,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C37/48": {
+      "code": "A62C37/48",
+      "level": 3,
+      "parent": "A62C37/46",
+      "ja": "感熱型イニシエイター［５］",
+      "en": "Thermally sensitive initiators",
+      "count": 527,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C37/50": {
+      "code": "A62C37/50",
+      "level": 1,
+      "parent": "A62C37/00",
+      "ja": "設備の準備状態を判定するための試験または表示装置［５］",
+      "en": "Testing or indicating devices for determining the state of readiness of the equipment",
+      "count": 7617,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    },
+    "A62C99/00": {
+      "code": "A62C99/00",
+      "level": 0,
+      "parent": "A62C",
+      "ja": "このサブクラスの他のグループに分類されない主題事項［２０１０．０１］",
+      "en": "Subject matter not provided for in other groups of this subclass",
+      "count": 7381,
+      "sourceFile": "ipc_A62C.txt",
+      "kind": "ipc"
+    }
+  }
+};

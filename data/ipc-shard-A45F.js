@@ -1,0 +1,396 @@
+window.IPC_SHARD_A45F = {
+  "generatedAt": "2026-03-20T02:17:45.917Z",
+  "total": 39,
+  "entries": {
+    "A45F": {
+      "code": "A45F",
+      "level": 0,
+      "parent": "A45",
+      "ja": "旅行または露営用品；体で運ぶザックまたはパック［１，８］<br><br><b><ul>注</ul></b><br>このサブクラスは以下の細分項目に特徴をもつ設備のみ包含する。旅行または露営設備は通常関連する設備の分類に分類される，例．露営用家具Ａ４７。",
+      "en": "TRAVELLING OR CAMP EQUIPMENT; SACKS OR PACKS CARRIED ON THE BODY; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This subclass <u>covers</u> only the equipment specified in its subdivisions. Travelling or camp equipment is normally classified in the classes for the equipment concerned, e.g. camp furniture in class <b>A47</b>.</li></ul>",
+      "count": 1172,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A45": {
+      "code": "A45",
+      "level": 0,
+      "parent": "A",
+      "ja": "手持品または旅行用品",
+      "en": "HAND OR TRAVELLING ARTICLES",
+      "count": 0,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A": {
+      "code": "A",
+      "level": 0,
+      "parent": null,
+      "ja": "生活必需品",
+      "en": "HUMAN NECESSITIES",
+      "count": 0,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A45F3/00": {
+      "code": "A45F3/00",
+      "level": 0,
+      "parent": "A45F",
+      "ja": "旅行または露営用品（旅行用毛布Ａ４７Ｇ９／０６）；体で運ぶザックまたはパック（他の用途のものに変えることができるものＡ４５Ｆ４／００）［１，８］",
+      "en": "Travelling or camp articles(travelling rugs <b>A47G9/06</b>);Sacks or packs carried on the body(convertible into other articles <b>A45F4/00</b>)",
+      "count": 5918,
+      "sourceFile": "ipc_A45F.txt",
+      "kind": "ipc"
+    },
+    "A45F3/02": {
+      "code": "A45F3/02",
+      "level": 1,
+      "parent": "A45F3/00",
+      "ja": "肩を通す一本のひもによって体で運ぶザックまたはパック",
+      "en": "Sacks or packs carried on the body by means of one strap passing over the shoulder",
+      "count": 3908,
+      "sourceFile": "ipc_A45F.txt",
+      "kind": "ipc"
+    },
+    "A45F3/04": {
+      "code": "A45F3/04",
+      "level": 1,
+      "parent": "A45F3/00",
+      "ja": "両肩を通す二本のひもによって体で運ぶザックまたはパック",
+      "en": "Sacks or packs carried on the body by means of two straps passing over the two shoulders",
+      "count": 17459,
+      "sourceFile": "ipc_A45F.txt",
+      "kind": "ipc"
+    },
+    "A45F3/06": {
+      "code": "A45F3/06",
+      "level": 2,
+      "parent": "A45F3/04",
+      "ja": "軍事用目的のため特に適用されるもの",
+      "en": "specially adapted for military purposes",
+      "count": 577,
+      "sourceFile": "ipc_A45F.txt",
+      "kind": "ipc"
+    },
+    "A45F3/08": {
+      "code": "A45F3/08",
+      "level": 2,
+      "parent": "A45F3/04",
+      "ja": "にない枠；ザックと結合している枠組",
+      "en": "Carrying-frames; Frames combined with sacks",
+      "count": 2031,
+      "sourceFile": "ipc_A45F.txt",
+      "kind": "ipc"
+    },
+    "A45F3/10": {
+      "code": "A45F3/10",
+      "level": 1,
+      "parent": "A45F3/00",
+      "ja": "体で持運ぶパックの枠組",
+      "en": "Pack-frames carried on the body",
+      "count": 1008,
+      "sourceFile": "ipc_A45F.txt",
+      "kind": "ipc"
+    },
+    "A45F3/12": {
+      "code": "A45F3/12",
+      "level": 1,
+      "parent": "A45F3/00",
+      "ja": "肩あて",
+      "en": "Shoulder-pads",
+      "count": 1748,
+      "sourceFile": "ipc_A45F.txt",
+      "kind": "ipc"
+    },
+    "A45F3/14": {
+      "code": "A45F3/14",
+      "level": 1,
+      "parent": "A45F3/00",
+      "ja": "にない用ひも；パック持運び用背負いバンド",
+      "en": "Carrying-straps; Pack-carrying harnesses",
+      "count": 3734,
+      "sourceFile": "ipc_A45F.txt",
+      "kind": "ipc"
+    },
+    "A45F3/15": {
+      "code": "A45F3/15",
+      "level": 2,
+      "parent": "A45F3/14",
+      "ja": "小さなボートの持運びに特に適合する背負いバンド",
+      "en": "Harnesses specially adapted for carrying small boats",
+      "count": 92,
+      "sourceFile": "ipc_A45F.txt",
+      "kind": "ipc"
+    },
+    "A45F3/16": {
+      "code": "A45F3/16",
+      "level": 1,
+      "parent": "A45F3/00",
+      "ja": "水筒；はんごう；コップ",
+      "en": "Water-bottles; Mess-tins; Cups",
+      "count": 8651,
+      "sourceFile": "ipc_A45F.txt",
+      "kind": "ipc"
+    },
+    "A45F3/18": {
+      "code": "A45F3/18",
+      "level": 2,
+      "parent": "A45F3/16",
+      "ja": "硬質材料のもの",
+      "en": "of rigid material",
+      "count": 1740,
+      "sourceFile": "ipc_A45F.txt",
+      "kind": "ipc"
+    },
+    "A45F3/20": {
+      "code": "A45F3/20",
+      "level": 2,
+      "parent": "A45F3/16",
+      "ja": "可撓材料のもの；折りたためるまたはつみ重ねることができるコップ",
+      "en": "of flexible material; Collapsible or stackable cups",
+      "count": 2149,
+      "sourceFile": "ipc_A45F.txt",
+      "kind": "ipc"
+    },
+    "A45F3/22": {
+      "code": "A45F3/22",
+      "level": 1,
+      "parent": "A45F3/00",
+      "ja": "ハンモック；ハンモックを張る棒",
+      "en": "Hammocks; Hammock spreaders",
+      "count": 1328,
+      "sourceFile": "ipc_A45F.txt",
+      "kind": "ipc"
+    },
+    "A45F3/24": {
+      "code": "A45F3/24",
+      "level": 2,
+      "parent": "A45F3/22",
+      "ja": "ハンモックスタンド；ハンモックのささえ",
+      "en": "Stands; Supports",
+      "count": 961,
+      "sourceFile": "ipc_A45F.txt",
+      "kind": "ipc"
+    },
+    "A45F3/26": {
+      "code": "A45F3/26",
+      "level": 1,
+      "parent": "A45F3/00",
+      "ja": "吊り下げ座席",
+      "en": "Hanging seats",
+      "count": 249,
+      "sourceFile": "ipc_A45F.txt",
+      "kind": "ipc"
+    },
+    "A45F3/44": {
+      "code": "A45F3/44",
+      "level": 1,
+      "parent": "A45F3/00",
+      "ja": "地面にさし込んでささえる用具",
+      "en": "Article supports adapted to be stuck into the ground",
+      "count": 737,
+      "sourceFile": "ipc_A45F.txt",
+      "kind": "ipc"
+    },
+    "A45F3/46": {
+      "code": "A45F3/46",
+      "level": 1,
+      "parent": "A45F3/00",
+      "ja": "ピクニックセット（ピクニック用箱Ａ４５Ｃ１１／２０）",
+      "en": "Picnic sets(picnic boxes <b>A45C11/20</b>)",
+      "count": 1014,
+      "sourceFile": "ipc_A45F.txt",
+      "kind": "ipc"
+    },
+    "A45F3/48": {
+      "code": "A45F3/48",
+      "level": 1,
+      "parent": "A45F3/00",
+      "ja": "裁縫用具一式",
+      "en": "Sewing kits",
+      "count": 85,
+      "sourceFile": "ipc_A45F.txt",
+      "kind": "ipc"
+    },
+    "A45F3/50": {
+      "code": "A45F3/50",
+      "level": 1,
+      "parent": "A45F3/00",
+      "ja": "旅行装備として用いる地図入れ",
+      "en": "Map-cases used as travelling equipment",
+      "count": 112,
+      "sourceFile": "ipc_A45F.txt",
+      "kind": "ipc"
+    },
+    "A45F3/52": {
+      "code": "A45F3/52",
+      "level": 1,
+      "parent": "A45F3/00",
+      "ja": "昆虫を防御することができる網",
+      "en": "Nets affording protection against insects",
+      "count": 560,
+      "sourceFile": "ipc_A45F.txt",
+      "kind": "ipc"
+    },
+    "A45F4/00": {
+      "code": "A45F4/00",
+      "level": 0,
+      "parent": "A45F",
+      "ja": "他の用途のものに変えることができる旅行または露営用品；他の用途のものに変えることができる，体で運ぶザックまたはパック［１，８］",
+      "en": "Travelling or camp articles which may be converted into articles for other use; Sacks or packs carried on the body and convertible into other articles",
+      "count": 1035,
+      "sourceFile": "ipc_A45F.txt",
+      "kind": "ipc"
+    },
+    "A45F4/02": {
+      "code": "A45F4/02",
+      "level": 1,
+      "parent": "A45F4/00",
+      "ja": "ほかの用品に変えることができるザックまたはパック",
+      "en": "Sacks or packs convertible into other articles",
+      "count": 2325,
+      "sourceFile": "ipc_A45F.txt",
+      "kind": "ipc"
+    },
+    "A45F4/04": {
+      "code": "A45F4/04",
+      "level": 2,
+      "parent": "A45F4/02",
+      "ja": "テントに変えることができるもの",
+      "en": "into tents",
+      "count": 354,
+      "sourceFile": "ipc_A45F.txt",
+      "kind": "ipc"
+    },
+    "A45F4/06": {
+      "code": "A45F4/06",
+      "level": 2,
+      "parent": "A45F4/02",
+      "ja": "ベッドまたはマットレスに変えることができるもの",
+      "en": "into beds or mattresses",
+      "count": 501,
+      "sourceFile": "ipc_A45F.txt",
+      "kind": "ipc"
+    },
+    "A45F4/08": {
+      "code": "A45F4/08",
+      "level": 2,
+      "parent": "A45F4/02",
+      "ja": "ハンモック，寝わらまたは寝袋に変えることのできるもの",
+      "en": "into hammocks, litters or sleeping-bags",
+      "count": 291,
+      "sourceFile": "ipc_A45F.txt",
+      "kind": "ipc"
+    },
+    "A45F4/10": {
+      "code": "A45F4/10",
+      "level": 2,
+      "parent": "A45F4/02",
+      "ja": "ボートまたはそりに変えることができるもの",
+      "en": "into boats or sledges",
+      "count": 61,
+      "sourceFile": "ipc_A45F.txt",
+      "kind": "ipc"
+    },
+    "A45F4/12": {
+      "code": "A45F4/12",
+      "level": 2,
+      "parent": "A45F4/02",
+      "ja": "上衣または帽子に変えることができるもの",
+      "en": "into coats or capes",
+      "count": 429,
+      "sourceFile": "ipc_A45F.txt",
+      "kind": "ipc"
+    },
+    "A45F4/14": {
+      "code": "A45F4/14",
+      "level": 1,
+      "parent": "A45F4/00",
+      "ja": "テントカバーに変えることができる上衣または帽子",
+      "en": "Coats or capes convertible into tent coverings",
+      "count": 124,
+      "sourceFile": "ipc_A45F.txt",
+      "kind": "ipc"
+    },
+    "A45F5/00": {
+      "code": "A45F5/00",
+      "level": 0,
+      "parent": "A45F",
+      "ja": "手荷物の入れ物または運ぶもの；旅行または露営するときに使用する入れ物や運ぶもの",
+      "en": "Holders or carriers for hand articles; Holders or carriers for use while travelling or camping",
+      "count": 6937,
+      "sourceFile": "ipc_A45F.txt",
+      "kind": "ipc"
+    },
+    "A45F5/02": {
+      "code": "A45F5/02",
+      "level": 1,
+      "parent": "A45F5/00",
+      "ja": "衣裳に付けるものの止め具",
+      "en": "Fastening articles to the garment",
+      "count": 4316,
+      "sourceFile": "ipc_A45F.txt",
+      "kind": "ipc"
+    },
+    "A45F5/04": {
+      "code": "A45F5/04",
+      "level": 2,
+      "parent": "A45F5/02",
+      "ja": "ハンカチーフ，ナプキン，またはそれに類似のものを保持するもの",
+      "en": "Holding handkerchiefs, napkins, or the like",
+      "count": 169,
+      "sourceFile": "ipc_A45F.txt",
+      "kind": "ipc"
+    },
+    "A45F5/06": {
+      "code": "A45F5/06",
+      "level": 2,
+      "parent": "A45F5/02",
+      "ja": "帽子またはその他の衣裳に付けるものを保持するもの",
+      "en": "Holding hats or other garments",
+      "count": 92,
+      "sourceFile": "ipc_A45F.txt",
+      "kind": "ipc"
+    },
+    "A45F5/08": {
+      "code": "A45F5/08",
+      "level": 2,
+      "parent": "A45F5/02",
+      "ja": "花を保持するもの",
+      "en": "Holding flowers",
+      "count": 216,
+      "sourceFile": "ipc_A45F.txt",
+      "kind": "ipc"
+    },
+    "A45F5/10": {
+      "code": "A45F5/10",
+      "level": 1,
+      "parent": "A45F5/00",
+      "ja": "持運びのための把手",
+      "en": "Handles for carrying purposes",
+      "count": 3914,
+      "sourceFile": "ipc_A45F.txt",
+      "kind": "ipc"
+    },
+    "A45F5/12": {
+      "code": "A45F5/12",
+      "level": 1,
+      "parent": "A45F5/00",
+      "ja": "図書持運び具",
+      "en": "Book-carriers",
+      "count": 183,
+      "sourceFile": "ipc_A45F.txt",
+      "kind": "ipc"
+    },
+    "A45F5/14": {
+      "code": "A45F5/14",
+      "level": 1,
+      "parent": "A45F5/00",
+      "ja": "のみ，まさかり，またはそれに類似する道具のための保持具",
+      "en": "Holders for spades, hatchets, or the like implements",
+      "count": 191,
+      "sourceFile": "ipc_A45F.txt",
+      "kind": "ipc"
+    }
+  }
+};

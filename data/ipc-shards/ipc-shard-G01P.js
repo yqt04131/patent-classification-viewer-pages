@@ -1,0 +1,1056 @@
+window.IPC_SHARD_G01P = {
+  "generatedAt": "2026-03-20T02:17:47.023Z",
+  "total": 105,
+  "entries": {
+    "G01P": {
+      "code": "G01P",
+      "level": 0,
+      "parent": "G01",
+      "ja": "直線速度または角速度，加速度，減速度または衝撃の測定；運動の有無の指示；運動の方向の指示（ジャイロ効果を利用した角速度の測定Ｇ０１Ｃ１９／００；２以上の運動変量を測定するために複数の測定装置を結合させたものＧ０１Ｃ２３／００；音速の測定Ｇ０１Ｈ５／００；光速の測定Ｇ０１Ｊ７／００；電波または他の波動の反射または再放射により，伝播効果，例．ドップラー効果，伝播時間または伝播の方向に基づいた固体物体の方位または速度の決定Ｇ０１Ｓ；核放射線の速度の測定Ｇ０１Ｔ）<br><br><b><ul>注</ul></b><br>注［４］<br>１．このサブクラスは，流れている流体の流向または流速を，流体自体に生ずる電波または他の波動の伝播効果を用いて測定すること，例．レーザー風速計によるもの，“シングアラウンド系”をもつ超音波流速計（ｆｌｏｗｍｅｔｅｒ）によるもの，を包含する。<br>２．クラスＧ０１のタイトルに続く注に注意すること。<br><br><b><ul>サブクラス内の索引</ul></b><br>サブクラス内の索引<br>運動または運動方向の指示　１３／００<br>固体の直線速度または角速度の測定<br>手段の作用が通常の原理によるものであることによって特徴づけられたもの　３／００<br>積算するもの；ジャイロスコープ効果によるもの；平均するもの　７／００；９／００；１１／００<br>流体の速度または固体―流体間の相対速度の測定　５／００<br>加速度または加速度の急激な変化の測定　１５／００<br>細部　１／００<br>機能試験または較正　２１／００",
+      "en": "MEASURING LINEAR OR ANGULAR SPEED, ACCELERATION, DECELERATION OR SHOCK; INDICATING PRESENCE OR ABSENCE OF MOVEMENT;  INDICATING DIRECTION OF MOVEMENT (measuring angular rate using gyroscopic effects <b>G01C19/00</b>; combined measuring devices for measuring two or more variables of movement <b>G01C23/00</b>; measuring velocity of sound <b>G01H5/00</b>; measuring velocity of light <b>G01J7/00</b>; determining direction or velocity of solid objects by reflection or reradiation of radio or other waves and based on propagation effects, e.g. Doppler effect, propagation time or direction of propagation, <b>G01S</b>; measuring speed of nuclear radiation <b>G01T</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>This subclass <u>covers</u> measuring direction or velocity of flowing fluids using propagation effects of radiowaves or other waves caused in the fluid itself, e.g. by laser anemometer or by ultrasonic flowmeter with \"sing-around-system\".</li><li>Attention is drawn to the Notes following the title of class <b>G01</b>.</li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">INDICATING MOVEMENT OR DIRECTION OF MOVEMENT </td><td><b><b>13/00</b></b></td></tr></tr><tr><td width=\"70%\">MEASURING LINEAR OR ANGULAR SPEED OF SOLID BODIES<tr><td width=\"70%\">Characterised by prevailing principle of action of the means </td><td><b><b>3/00</b></b></td></tr></tr><tr><td width=\"70%\">By integration; by gyroscopic effect; by averaging </td><td><b><b>7/00</b>; <b>11/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">MEASURING SPEED OF FLUIDS OR RELATIVE SPEED OF SOLID TO FLUID OR FLUID TO SOLID </td><td><b><b>5/00</b></b></td></tr></tr><tr><td width=\"70%\">MEASURING ACCELERATION OR SUDDEN CHANGE OF ACCELERATION </td><td><b><b>15/00</b></b></td></tr></tr><tr><td width=\"70%\">DETAILS </td><td><b><b>1/00</b></b></td></tr></tr><tr><td width=\"70%\">FUNCTIONAL TESTING OR CALIBRATING </td><td><b><b>21/00</b></b></td></tr></tr></table>",
+      "count": 887,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G01": {
+      "code": "G01",
+      "level": 0,
+      "parent": "G",
+      "ja": "測定；試験<br><br><b><ul>注</ul></b><br>（１）このクラスは“真”の測定計器のほかに類似構造の他の指示表示装置又は記録装置を含み，また更に，信号化装置又は制御装置についてはそれが測定に関するものであって（以下の注（２）で定義するように）特定の信号化目的または特定の制御目的に特に適合しないものである限り，含まれる。<br>（２）このクラスにおいては，下記の用語は以下に示す意味で用いる：<br>―“測定”はその第一義的意味又は基本的な意味よりもかなり広い意味を含むものとして用いる。この語の第一義的な意味においては，変量値を単位もしくはデータに関して又は同じ性質の別の変量に関して数値的に表現することを見い出すこと，例えば長さをスケールで測定するなどある長さを別の長さの表現で表わすこと，を意味する。この変量値は直接的に得る（すぐ前で言及したように）こともあり，また，水銀柱の長さの変化を測定することにより温度変化を測定するなど求める変量値に関連づけることのできる他の変量値を測定することよって得ることもある。しかしながら，同じ装置又は計器が，直接的な表示を行う代りに，記録をとったり，指示効果又は制御効果を奏すべく信号を発生するために用いられたり，或いは，他の装置又は計器と組み合わせて同種又は異種の二以上の変量の測定から一つのまとまった結果を得るために用いられることもあるので，“測定”はかかる数値的表現を変量を数値に変換する何らかの手段の付加的使用によって得ることを可能とするような操作をも含むものとして解釈することが必要である。従って，数値での表現は実際的にはデジタル的表現によって行なうこともありスケールを読むことによって行なうこともあり，また，その指示は数値を用いないで，例えば測定されている変量が特性又は状態であるところの実在物（例．物体，物質，光ビーム）について感知し得る何らかの特性（変量）によって又はそのような特性に類似するもの（例．スケールをもたない部材の対応位置，何らかの手段によって発生される対応電圧）によって，与えられることがある。<br>また，上記のような変量値指示が行なわれずに単に基準又はデータ（その値は数値的に既知のこともあり未知のこともある）に関しての異同を示すだけのことも多くある。この基準又はデータは同一性質であるが異なる実在物（例．標準器）の値のこともあり，或いは異なる時点での同一実在物の値であることもある。その最も単純な形態においては，測定は単にある状態又は性質，例えば運動（いずれかの方向又は特定の方向における）の有無を指示するだけのこともあるし，また，変量が既定値を超えるかどうかを指示するだけのこともある。<br>（３）“マイクロ構造の装置”および“マイクロ構造のシステム”に関する，クラスＢ８１およびサブクラスＢ８１Ｂの両タイトルの後の注に注意すること。［７］<br>（４）セクションＧのタイトルに続く注，特に“変量”という用語の定義については注意はすること。<br>（５）多くの測定装置において，測定すべき第一の変量は第二の変量またはさらなる変量に変換される。第二の変量またはさらなる変量は，第一の変量に関係して構成部材に生じた状態，または構成部材の変位であるかもしれない。そして，さらに変換が必要となるかもしれない。［６］<br>このような装置を分類するときは，（ｉ）重要である特定の変換ステップ，または重要である個々の変換ステップを分類するか，または（ｉｉ）全体としてのシステムのみが重要な場合は，第一の変量を該当する箇所に分類する。［６］<br>これは２つ以上の変換が起こる場合に特に重要である。たとえば，第一の変量（例．圧力）が第二の変量（例．感知体の光学的特性）に変換され，さらにその第二の変量が第三の変量（例．電気的効果）で示されるような場合である。このような場合には，次の分類箇所を考慮しなければならない：<br>第一の変量の変換についての分類場所，その変量により生じた状態を感知することについての分類場所，測定を示すＧ０１Ｄ，そして最後に，該当する場合は，システム全体を分類する場所である。［６］<br>（６）物理的特性の値の変化の測定は，その物理的特性の測定と同一のサブクラスに分類する。例えば，長さの伸びの測定はサブクラスＧ０１Ｂに分類する。",
+      "en": "MEASURING; TESTING; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This class <u>covers</u>, in addition to \"true\" measuring instruments, other indicating or recording devices of analogous construction, and also signalling or control devices insofar as they are concerned with measurement (as defined in Note 2 below) and are not specially adapted to the particular purpose of signalling or control.</li><li>In this class, the following term is used with the meaning indicated: <ul><li>\"measuring\" is used to cover considerably more than its primary or basic meaning. In this primary sense, it means finding a numerical expression of the value of a variable in relation to a unit or datum or to another variable of the same nature, e.g. expressing a length in terms of another length as in measuring a length with a scale; the value may be obtained directly (as just suggested) or by measuring some other variable of which the value can be related to the value of the required variable, as in measuring a change in temperature by measuring a resultant change in the length of a column of mercury. However, since the same device or instrument may, instead of giving an immediate indication, be used to produce a record or to initiate a signal to produce an indication or control effect, or may be used in combination with other devices or instruments to give a conjoint result from measurement of two or more variables of the same or different kinds, it is necessary to interpret \"measuring\" as including also any operation that would make it possible to obtain such a numerical expression by the additional use of some way of converting a value into figures. Thus the expression in figures may be actually made by a digital presentation or by reading a scale, or an indication of it may be given without the use of figures, e.g. by some perceptible feature (variable) of the entity (e.g. object, substance, beam of light) of which the variable being measured is a property or condition or by an analogue of such a feature (e.g. the corresponding position of a member without any scale, a corresponding voltage generated in some way). In many cases there is no such value indication but only an indication of difference or equality in relation to a standard or datum (of which the value may or may not be known in figures); the standard or datum may be the value of another variable of the same nature but of a different entity (e.g. a standard measure) or of the same entity at a different time. <ul><li>In its simplest form, measurement may give merely an indication of presence or absence of a certain condition or quality, e.g. movement (in any direction or in a particular direction), or whether a variable exceeds a predetermined value.</li></ul></li></ul></li><li>Attention is drawn to the Notes following the titles of class <b>B81</b> and subclass <b>B81B</b> relating to \"microstructural devices\" and \"microstructural systems\" and the Notes following the title of subclass <b>B82B</b> relating to \"nanostructures\".</li><li>Attention is drawn to the Notes following the title of section <b>G</b>, especially as regards the definition of the term \"variable\".</li><li>In many measuring arrangements, a first variable to be measured is transformed into a second, or further, variables. The second, or further, variables may be (a) a condition related to the first variable and produced in a member, or (b) a displacement of a member. Further transformation may be needed. <ul><li>When classifying such an arrangement, (i) the transformation step, or each transformation step, that is of interest is classified, or (ii) if interest lies only in the system as a whole, the first variable is classified in the appropriate place.</li><li>This is particularly important where two or more conversions take place, for instance where a first variable, for example pressure, is transformed into a second variable, for example an optical property of a sensing body, and that second variable is expressed by means of a third variable, for example an electric effect. In such a case, the following classification places should be considered: the place for the transformation of the first variable, that for sensing the condition caused by that variable, subclass <b>G01D</b> for expression of the measurement, and finally the place for the overall system, if any.</li></ul></li><li>The measurement of change in the value of a physical property is classified in the same subclass as the measurement of that physical property, e.g. measurement of expansion of length is classified in subclass <b>G01B</b>.</li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G": {
+      "code": "G",
+      "level": 0,
+      "parent": null,
+      "ja": "物理学<br><br><b><ul>注</ul></b><br>１．このセクションにおいては，下記の用語は以下に示す意味で用いる：<br>・“変量”は名詞として，特定の実在物，例．物体，ある量の物質，光ビーム，に関し特定の瞬間に測定することの可能な特性又は特質，例．寸法，温度等の物理的状態，密度又は色等の性質，を意味する。変量が変化すると，その数値的表現は異なる時点で，異なる状態又は個々の状況において異なる値をとることもあり，また，ある状態のもとで又は実用上特定の実在物に関して一定でありうる，例．バーの長さが多くの目的のために一定とみなされる，こともある。<br>２．使用される用語または表現の定義に注意すること。このセクションのいくつかのクラスの注に使用されているものについて，特にクラスＧ０１の“測定”を参照されたい．ＩＰＣ指針パラグラフ１８７の中にあるものについて，“制御”及び“調整”の定義に参照されたい。<br>３．このセクションにおける分類は他のセクションにおいてよりもめんどうな場合があり得る，というのは，その一つは，いろいろな使用分野の差異の判別には構造上の差異又は使用形態上の差異よりも寧ろ使用者の意図における差異の方にかなりの程度影響されてしまうからであり，もう一つは，扱う主題が容易に全体として識別できる“もの”であるよりも，特性又は部品が他の主題のものと共通のものを有しているシステム又は組合わせであることが実際上多いからである。例えば，情報（例．一連の数値）をディスプレイするのは，クラスＧ０９に包含される，教育又は広告のため，クラスＧ０１に包含される，測定の結果が通知されうるため，クラスＧ０８に包含される，遠隔地点に情報を合図するため，又は遠隔地点から合図された情報を提供するためである。目的を記述するために使用する言葉は，当該装置の形態に無関係なこともあり得る特性－例えば，ディスプレイを見る者にとって望ましい効果とか，ディスプレイが遠隔地点から制御されるかどうかという特性－によって決定される。さらに，ある状態，例えば流体圧の変化に応答する装置は，その装置そのものには変更を加えずして，サブクラスＧ０１Ｌに包含される圧力又はＧ０１の他のサブクラスに包含される圧力に関連した他の何らかの状態，例．温度に関してＧ０１Ｋ，についての情報を与えるため，サブクラスＧ０７Ｃに包含される圧力または圧力発生の記録をするため，サブクラスＧ０８Ｂに包含される警報を発するため，又はクラスＧ０５に包含される他の何らかの装置を制御するために用いられることがある。<br>　本分類表は，前述したように，同一の性質のものは同一箇所に分類し得るようにしたものである。従って，技術主題が適切箇所に分類されるためには予めその真正な本質を把握することが特に必要である。",
+      "en": "PHYSICS; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this section, the following term is used with the meaning indicated: <ul><li>\"variable\" as a noun means a feature or property, e.g. a dimension, a physical condition such as temperature, a quality such as density or colour, which, in respect of a particular entity, e.g. an object, a quantity of a substance, a beam of light, and at a particular instant, is capable of being measured; the variable may change, so that its numerical expression may assume different values at different times, in different conditions or in individual cases, but may be constant in respect of a particular entity in certain conditions or for practical purposes, e.g. the length of a bar may be regarded as constant for many purposes.</li></ul></li><li>Attention is drawn to the definitions of terms or expressions used. Some appear in the notes of several of the classes in this section, see in particular the definition of \"measuring\" in class <b>G01</b>. Others appear in paragraph 187 of the Guide to the IPC, see in particular the definitions of \"control\" and \"regulation\".</li><li>Classification in this section may present more difficulty than in other sections, because the distinction between different fields of use rests to a considerable extent on differences in the intention of the user rather than on any constructional differences or differences in the manner of use, and because the subjects dealt with are often in effect systems or combinations, which have features or parts in common, rather than \"things\", which are readily distinguishable as a whole. For example, information, e.g. a set of figures, may be displayed for the purpose of education or advertising covered by class <b>G09</b>, for enabling the result of a measurement to be known covered by class <b>G01</b>, for signalling the information to a distant point or for giving information which has been signalled from a distant point covered by class <b>G08</b>. The words used to describe the purpose depend on features that may be irrelevant to the form of the apparatus concerned, for example, such features as the desired effect on the person who sees the display, or whether the display is controlled from a remote point. Again, a device which responds to some change in a condition, e.g. in the pressure of a fluid, may be used, without modification of the device itself, to give information about the pressure covered by subclass <b>G01L</b> or about some other condition linked to the pressure covered by another subclass of class <b>G01</b>, e.g. <b>G01K</b> for temperature, to make a record of the pressure or of its occurrence covered by subclass <b>G07C</b>, to give an alarm covered by subclass <b>G08B</b>, or to control another apparatus covered by class <b>G05</b>. <ul><li>The classification scheme is intended to enable things of a similar nature, as indicated above, to be classified together. It is therefore particularly necessary for the real nature of any technical subject to be decided before it can be properly classified.</li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G01P1/00": {
+      "code": "G01P1/00",
+      "level": 0,
+      "parent": "G01P",
+      "ja": "計器の細部",
+      "en": "Details of instruments",
+      "count": 8302,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P1/02": {
+      "code": "G01P1/02",
+      "level": 1,
+      "parent": "G01P1/00",
+      "ja": "ハウジング",
+      "en": "Housings",
+      "count": 4048,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P1/04": {
+      "code": "G01P1/04",
+      "level": 1,
+      "parent": "G01P1/00",
+      "ja": "駆動手段の特殊な適合",
+      "en": "Special adaptations of driving means",
+      "count": 1723,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P1/07": {
+      "code": "G01P1/07",
+      "level": 1,
+      "parent": "G01P1/00",
+      "ja": "指示装置，例．遠隔指示用［３］",
+      "en": "Indicating devices, e.g. for remote indication",
+      "count": 1835,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P1/08": {
+      "code": "G01P1/08",
+      "level": 2,
+      "parent": "G01P1/07",
+      "ja": "目盛，指針，ランプまたは音響式指示器の配置，例．自動車用速度計における",
+      "en": "Arrangements of scales, pointers, lamps, or acoustic indicators, e.g. in automobile speedometers",
+      "count": 1923,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P1/10": {
+      "code": "G01P1/10",
+      "level": 3,
+      "parent": "G01P1/08",
+      "ja": "設定速度指示用",
+      "en": "for indicating predetermined speeds",
+      "count": 2011,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P1/11": {
+      "code": "G01P1/11",
+      "level": 4,
+      "parent": "G01P1/10",
+      "ja": "指示指針の位置の検出によるもの［３］",
+      "en": "by the detection of the position of the indicator needle",
+      "count": 461,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P1/12": {
+      "code": "G01P1/12",
+      "level": 1,
+      "parent": "G01P1/00",
+      "ja": "記録装置［３］",
+      "en": "Recording devices",
+      "count": 1780,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P1/14": {
+      "code": "G01P1/14",
+      "level": 2,
+      "parent": "G01P1/12",
+      "ja": "永久的記録用［３］",
+      "en": "for permanent recording",
+      "count": 86,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P1/16": {
+      "code": "G01P1/16",
+      "level": 2,
+      "parent": "G01P1/12",
+      "ja": "消去可能記録，例．磁気記録，用［３］",
+      "en": "for erasable recording, e.g. magnetic recording",
+      "count": 76,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P3/00": {
+      "code": "G01P3/00",
+      "level": 0,
+      "parent": "G01P",
+      "ja": "直線速度または角速度の測定；直線速度の差または角速度の差の測定（Ｇ０１Ｐ５／００～Ｇ０１Ｐ１１／００が優先；ジャイロ効果を利用した角速度の測定Ｇ０１Ｃ１９／００）<br><br><b><ul>注</ul></b><br>グループ３／０２～３／６４は主たる測定方法によって区別されている。したがって，最終指示を与えるための他の方法の単なる適用は分類に影響しない。",
+      "en": "Measuring linear or angular speed; Measuring differences of linear or angular speeds(<b>G01P5/00 to G01P11/00</b>  take precedence; measuring angular rate using gyroscopic effects <b>G01C19/00</b>)",
+      "count": 5555,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P3/02": {
+      "code": "G01P3/02",
+      "level": 1,
+      "parent": "G01P3/00",
+      "ja": "機械的手段の使用によって特徴づけられた装置",
+      "en": "Devices characterised by the use of mechanical means",
+      "count": 530,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P3/04": {
+      "code": "G01P3/04",
+      "level": 2,
+      "parent": "G01P3/02",
+      "ja": "２つの速度の比較によるもの",
+      "en": "by comparing two speeds",
+      "count": 163,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P3/06": {
+      "code": "G01P3/06",
+      "level": 3,
+      "parent": "G01P3/04",
+      "ja": "摩擦歯車を用いるもの",
+      "en": "using a friction gear",
+      "count": 106,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P3/08": {
+      "code": "G01P3/08",
+      "level": 3,
+      "parent": "G01P3/04",
+      "ja": "差動歯車を用いるもの",
+      "en": "using differential gearing",
+      "count": 90,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P3/10": {
+      "code": "G01P3/10",
+      "level": 2,
+      "parent": "G01P3/02",
+      "ja": "一定時間内の指示素子，例．指針，の作用によるもの",
+      "en": "by actuating an indicating element, e.g. pointer, for a fixed time",
+      "count": 228,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P3/12": {
+      "code": "G01P3/12",
+      "level": 2,
+      "parent": "G01P3/02",
+      "ja": "衝撃による励振作用を利用したもの",
+      "en": "by making use of a system excited by impact",
+      "count": 113,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P3/14": {
+      "code": "G01P3/14",
+      "level": 2,
+      "parent": "G01P3/02",
+      "ja": "１または複数の機械的共振系の励振によるもの",
+      "en": "by exciting one or more mechanical resonance systems",
+      "count": 126,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P3/16": {
+      "code": "G01P3/16",
+      "level": 2,
+      "parent": "G01P3/02",
+      "ja": "重錘の遠心力を利用するもの",
+      "en": "by using centrifugal forces of solid masses",
+      "count": 281,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P3/18": {
+      "code": "G01P3/18",
+      "level": 3,
+      "parent": "G01P3/16",
+      "ja": "機械的手段による指示計への伝達",
+      "en": "transferred to the indicator by mechanical means",
+      "count": 301,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P3/20": {
+      "code": "G01P3/20",
+      "level": 3,
+      "parent": "G01P3/16",
+      "ja": "流体手段による指示計への伝達",
+      "en": "transferred to the indicator by fluid means",
+      "count": 100,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P3/22": {
+      "code": "G01P3/22",
+      "level": 3,
+      "parent": "G01P3/16",
+      "ja": "電気的または磁気的手段による指示計への伝達",
+      "en": "transferred to the indicator by electric or magnetic means",
+      "count": 245,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P3/24": {
+      "code": "G01P3/24",
+      "level": 2,
+      "parent": "G01P3/02",
+      "ja": "摩擦効果を利用するもの（Ｇ０１Ｐ３／０６が優先）",
+      "en": "by using friction effects(<b>G01P3/06</b> takes precedence)",
+      "count": 95,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P3/26": {
+      "code": "G01P3/26",
+      "level": 1,
+      "parent": "G01P3/00",
+      "ja": "流体の使用によって特徴づけられた装置",
+      "en": "Devices characterised by the use of fluids",
+      "count": 488,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P3/28": {
+      "code": "G01P3/28",
+      "level": 2,
+      "parent": "G01P3/26",
+      "ja": "ポンプを用いるもの",
+      "en": "by using pumps",
+      "count": 215,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P3/30": {
+      "code": "G01P3/30",
+      "level": 2,
+      "parent": "G01P3/26",
+      "ja": "流体の遠心力を用いるもの",
+      "en": "by using centrifugal forces of fluids",
+      "count": 112,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P3/32": {
+      "code": "G01P3/32",
+      "level": 3,
+      "parent": "G01P3/30",
+      "ja": "固定容器に連通する回転容器におけるもの",
+      "en": "in a rotary container communicating with a fixed container",
+      "count": 13,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P3/34": {
+      "code": "G01P3/34",
+      "level": 2,
+      "parent": "G01P3/26",
+      "ja": "摩擦効果を用いるもの",
+      "en": "by using friction effects",
+      "count": 79,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P3/36": {
+      "code": "G01P3/36",
+      "level": 1,
+      "parent": "G01P3/00",
+      "ja": "光学的手段の使用によって特徴づけられた装置，例．赤外線，可視光線または紫外線の使用（Ｇ０１Ｐ３／６８が優先）",
+      "en": "Devices characterised by the use of optical means, e.g. using infrared, visible, or ultraviolet light(<b>G01P3/68</b> takes precedence)",
+      "count": 6587,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P3/38": {
+      "code": "G01P3/38",
+      "level": 2,
+      "parent": "G01P3/36",
+      "ja": "写真式手段を用いるもの",
+      "en": "using photographic means",
+      "count": 830,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P3/40": {
+      "code": "G01P3/40",
+      "level": 2,
+      "parent": "G01P3/36",
+      "ja": "ストロボ式手段を用いるもの",
+      "en": "using stroboscopic means",
+      "count": 799,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P3/42": {
+      "code": "G01P3/42",
+      "level": 1,
+      "parent": "G01P3/00",
+      "ja": "電気的または磁気的手段の使用によって特徴づけられた装置（Ｇ０１Ｐ３／６６が優先）",
+      "en": "Devices characterised by the use of electric or magnetic means(<b>G01P3/66</b> takes precedence)",
+      "count": 3906,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P3/44": {
+      "code": "G01P3/44",
+      "level": 2,
+      "parent": "G01P3/42",
+      "ja": "角速度の測定用（Ｇ０１Ｐ３／５６が優先）",
+      "en": "for measuring angular speed(<b>G01P3/56</b> takes precedence)",
+      "count": 8481,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P3/46": {
+      "code": "G01P3/46",
+      "level": 3,
+      "parent": "G01P3/44",
+      "ja": "発生電流または電圧の振幅測定によるもの",
+      "en": "by measuring amplitude of generated current or voltage",
+      "count": 1742,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P3/48": {
+      "code": "G01P3/48",
+      "level": 3,
+      "parent": "G01P3/44",
+      "ja": "発生電流または電圧の周波数測定によるもの",
+      "en": "by measuring frequency of generated current or voltage",
+      "count": 3820,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P3/481": {
+      "code": "G01P3/481",
+      "level": 4,
+      "parent": "G01P3/48",
+      "ja": "パルス信号であるもの［３］",
+      "en": "of pulse signals",
+      "count": 3773,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P3/482": {
+      "code": "G01P3/482",
+      "level": 5,
+      "parent": "G01P3/481",
+      "ja": "核放射線検出器からのもの［３］",
+      "en": "delivered by nuclear radiation detectors",
+      "count": 9,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P3/483": {
+      "code": "G01P3/483",
+      "level": 5,
+      "parent": "G01P3/481",
+      "ja": "可変容量型検出器からのもの［３］",
+      "en": "delivered by variable capacitance detectors",
+      "count": 221,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P3/484": {
+      "code": "G01P3/484",
+      "level": 5,
+      "parent": "G01P3/481",
+      "ja": "接触スイッチからのもの［３］",
+      "en": "delivered by contact-making switches",
+      "count": 261,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P3/486": {
+      "code": "G01P3/486",
+      "level": 5,
+      "parent": "G01P3/481",
+      "ja": "光電型検出器からのもの［３］",
+      "en": "delivered by photo-electric detectors",
+      "count": 2249,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P3/487": {
+      "code": "G01P3/487",
+      "level": 5,
+      "parent": "G01P3/481",
+      "ja": "回転磁石によるもの［３］",
+      "en": "delivered by rotating magnets",
+      "count": 5331,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P3/488": {
+      "code": "G01P3/488",
+      "level": 5,
+      "parent": "G01P3/481",
+      "ja": "可変磁気抵抗型検出器からのもの［３］",
+      "en": "delivered by variable reluctance detectors",
+      "count": 4514,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P3/489": {
+      "code": "G01P3/489",
+      "level": 5,
+      "parent": "G01P3/481",
+      "ja": "そのためのデイジタル回路［３］",
+      "en": "Digital circuits therefor",
+      "count": 3024,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P3/49": {
+      "code": "G01P3/49",
+      "level": 3,
+      "parent": "G01P3/44",
+      "ja": "うず電流を利用するもの",
+      "en": "using eddy currents",
+      "count": 494,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P3/495": {
+      "code": "G01P3/495",
+      "level": 4,
+      "parent": "G01P3/49",
+      "ja": "指示手段が，渦電流と発生した磁界とにより生じた力に応動するもの［３］",
+      "en": "where the indicating means responds to forces produced by the eddy currents and the generating magnetic field",
+      "count": 885,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P3/50": {
+      "code": "G01P3/50",
+      "level": 2,
+      "parent": "G01P3/42",
+      "ja": "直線速度の測定用（Ｇ０１Ｐ３／５６が優先）",
+      "en": "for measuring linear speed(<b>G01P3/56</b> takes precedence)",
+      "count": 1669,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P3/52": {
+      "code": "G01P3/52",
+      "level": 3,
+      "parent": "G01P3/50",
+      "ja": "発生電流または電圧の振幅測定によるもの",
+      "en": "by measuring amplitude of generated current or voltage",
+      "count": 329,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P3/54": {
+      "code": "G01P3/54",
+      "level": 3,
+      "parent": "G01P3/50",
+      "ja": "発生電流または電圧の周波数測定によるもの",
+      "en": "by measuring frequency of generated current or voltage",
+      "count": 609,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P3/56": {
+      "code": "G01P3/56",
+      "level": 2,
+      "parent": "G01P3/42",
+      "ja": "２速度の比較用",
+      "en": "for comparing two speeds",
+      "count": 1015,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P3/58": {
+      "code": "G01P3/58",
+      "level": 3,
+      "parent": "G01P3/56",
+      "ja": "発生電流または電圧の振幅の測定または比較によるもの",
+      "en": "by measuring or comparing amplitudes of generated currents or voltages",
+      "count": 141,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P3/60": {
+      "code": "G01P3/60",
+      "level": 3,
+      "parent": "G01P3/56",
+      "ja": "発生電流または電圧の周波数の測定または比較によるもの",
+      "en": "by measuring or comparing frequency of generated currents or voltages",
+      "count": 429,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P3/62": {
+      "code": "G01P3/62",
+      "level": 1,
+      "parent": "G01P3/00",
+      "ja": "高度による大気圧の変化を測定することによって特徴づけられた速度の垂直成分測定装置",
+      "en": "Devices characterised by the determination of the variation of atmospheric pressure with height to measure the vertical components of speed",
+      "count": 256,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P3/64": {
+      "code": "G01P3/64",
+      "level": 1,
+      "parent": "G01P3/00",
+      "ja": "一定距離の走行時間測定によることによって特徴づけられた装置",
+      "en": "Devices characterised by the determination of the time taken to traverse a fixed distance",
+      "count": 1409,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P3/66": {
+      "code": "G01P3/66",
+      "level": 2,
+      "parent": "G01P3/64",
+      "ja": "電気的または磁気的手段を用いるもの（Ｇ０１Ｐ３／８０が優先）［４］",
+      "en": "using electric or magnetic means(<b>G01P3/80</b> takes precedence)",
+      "count": 1379,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P3/68": {
+      "code": "G01P3/68",
+      "level": 2,
+      "parent": "G01P3/64",
+      "ja": "光学的手段を用いるもの，すなわち．赤外線，可視光線または紫外線を用いるもの（Ｇ０１Ｐ３／８０が優先）［４］",
+      "en": "using optical means, i.e. using infrared, visible, or ultraviolet light(<b>G01P3/80</b> takes precedence)",
+      "count": 2211,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P3/80": {
+      "code": "G01P3/80",
+      "level": 2,
+      "parent": "G01P3/64",
+      "ja": "自己相関検出手段または相互相関検出手段を用いるもの［４］",
+      "en": "using auto-correlation or cross-correlation detection means",
+      "count": 564,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P5/00": {
+      "code": "G01P5/00",
+      "level": 0,
+      "parent": "G01P",
+      "ja": "流体，例．空気流，の速度の測定；流体に対する物体，例．船舶の，航空機の，の相対速度の測定（流体の量を測るために速度測定装置を用いるものＧ０１Ｆ）",
+      "en": "Measuring speed of fluids, e.g. of air stream; Measuring speed of bodies relative to fluids, e.g. of ship, of aircraft(application of speed-measuring devices for measuring volume of fluids <b>G01F</b>)",
+      "count": 10985,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P5/01": {
+      "code": "G01P5/01",
+      "level": 1,
+      "parent": "G01P5/00",
+      "ja": "スワール渦型流速計［３］",
+      "en": "by using swirlflowmeter",
+      "count": 860,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P5/02": {
+      "code": "G01P5/02",
+      "level": 1,
+      "parent": "G01P5/00",
+      "ja": "流体によって固体に働く力の測定によるもの，例．風速計",
+      "en": "by measuring forces exerted by the fluid on solid bodies, e.g. anemometer",
+      "count": 1795,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P5/04": {
+      "code": "G01P5/04",
+      "level": 2,
+      "parent": "G01P5/02",
+      "ja": "バッフル板の偏りを用いるもの",
+      "en": "using deflection of baffle-plates",
+      "count": 681,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P5/06": {
+      "code": "G01P5/06",
+      "level": 2,
+      "parent": "G01P5/02",
+      "ja": "翼の回転を用いるもの",
+      "en": "using rotation of vanes",
+      "count": 1944,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P5/07": {
+      "code": "G01P5/07",
+      "level": 3,
+      "parent": "G01P5/06",
+      "ja": "指示装置へ電気的結合をするもの［３］",
+      "en": "with electrical coupling to the indicating device",
+      "count": 893,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P5/08": {
+      "code": "G01P5/08",
+      "level": 1,
+      "parent": "G01P5/00",
+      "ja": "流れに直接影響される電気的変量の変化測定によるもの，例．発電作用の利用によるもの",
+      "en": "by measuring variation of an electric variable directly affected by the flow, e.g. by using dynamo-electric effect",
+      "count": 1815,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P5/10": {
+      "code": "G01P5/10",
+      "level": 1,
+      "parent": "G01P5/00",
+      "ja": "温度変量の測定によるもの",
+      "en": "by measuring thermal variables",
+      "count": 1445,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P5/12": {
+      "code": "G01P5/12",
+      "level": 2,
+      "parent": "G01P5/10",
+      "ja": "加熱導体の抵抗変化を利用するもの",
+      "en": "using variation of resistance of a heated conductor",
+      "count": 2524,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P5/14": {
+      "code": "G01P5/14",
+      "level": 1,
+      "parent": "G01P5/00",
+      "ja": "流体における差圧測定によるもの",
+      "en": "by measuring differences of pressure in the fluid",
+      "count": 1710,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P5/16": {
+      "code": "G01P5/16",
+      "level": 2,
+      "parent": "G01P5/14",
+      "ja": "ピトー管を使用するもの",
+      "en": "using Pitot tubes",
+      "count": 1050,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P5/165": {
+      "code": "G01P5/165",
+      "level": 3,
+      "parent": "G01P5/16",
+      "ja": "ピトー管の配置または構造［３］",
+      "en": "Arrangements or constructions of Pitot tubes",
+      "count": 1043,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P5/17": {
+      "code": "G01P5/17",
+      "level": 3,
+      "parent": "G01P5/16",
+      "ja": "指示装置への結合装置［３］",
+      "en": "Coupling arrangements to the indicating device",
+      "count": 125,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P5/175": {
+      "code": "G01P5/175",
+      "level": 4,
+      "parent": "G01P5/17",
+      "ja": "マッハ数を決定するもの［３］",
+      "en": "with the determination of Mach number",
+      "count": 177,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P5/18": {
+      "code": "G01P5/18",
+      "level": 1,
+      "parent": "G01P5/00",
+      "ja": "流体が一定距離を走行する時間を測定することによる［１，７］",
+      "en": "by measuring the time taken by the fluid to traverse a fixed distance",
+      "count": 1222,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P5/20": {
+      "code": "G01P5/20",
+      "level": 2,
+      "parent": "G01P5/18",
+      "ja": "流体の流れによってはこばれる粒子を使用するもの（Ｇ０１Ｐ５／２２が優先）［４］",
+      "en": "using particles entrained by a fluid stream(<b>G01P5/22</b> takes precedence)",
+      "count": 1372,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P5/22": {
+      "code": "G01P5/22",
+      "level": 2,
+      "parent": "G01P5/18",
+      "ja": "自己相関検出手段または相互相関検出手段を用いるもの［４］",
+      "en": "using auto-correlation or cross-correlation detection means",
+      "count": 527,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P5/24": {
+      "code": "G01P5/24",
+      "level": 1,
+      "parent": "G01P5/00",
+      "ja": "流れている流体が検出音波の特性に及ぼす直接の影響を測定することによる［７］",
+      "en": "by measuring the direct influence of the streaming fluid on the properties of a detecting acoustical wave",
+      "count": 3691,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P5/26": {
+      "code": "G01P5/26",
+      "level": 1,
+      "parent": "G01P5/00",
+      "ja": "流れている流体が検出光波の特性に及ぼす直接の影響を測定することによる［７］",
+      "en": "by measuring the direct influence of the streaming fluid on the properties of a detecting optical wave",
+      "count": 2225,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P7/00": {
+      "code": "G01P7/00",
+      "level": 0,
+      "parent": "G01P",
+      "ja": "加速度積分による速度測定（慣性航行，すなわち航行されている乗物上において速度または加速度を積分して位置または速度を計算するものＧ０１Ｃ２１／１６）",
+      "en": "Measuring speed by integrating acceleration(inertial navigation, i.e. calculating position or speed aboard the object being navigated, by integration of speed or acceleration <b>G01C21/16</b>)",
+      "count": 927,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P11/00": {
+      "code": "G01P11/00",
+      "level": 0,
+      "parent": "G01P",
+      "ja": "平均速度の測定（一定距離の走行時間の測定によるものＧ０１Ｐ３／６４，Ｇ０１Ｐ５／１８）",
+      "en": "Measuring average value of speed(by determining time taken to traverse a fixed distance <b>G01P3/64</b>, <b>G01P5/18</b>)",
+      "count": 632,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P11/02": {
+      "code": "G01P11/02",
+      "level": 1,
+      "parent": "G01P11/00",
+      "ja": "多数物体，例．交通制御のために車輛の，の平均速度の測定",
+      "en": "Measuring average speed of a number of bodies, e.g. of vehicles for traffic control",
+      "count": 99,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P13/00": {
+      "code": "G01P13/00",
+      "level": 0,
+      "parent": "G01P",
+      "ja": "運動の有無の指示または記録；運動の方向の指示または記録",
+      "en": "Indicating or recording presence or absence of movement; Indicating or recording of direction of movement",
+      "count": 8524,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P13/02": {
+      "code": "G01P13/02",
+      "level": 1,
+      "parent": "G01P13/00",
+      "ja": "方向だけの指示，例．風見板によるもの",
+      "en": "Indicating direction only, e.g. by weather vane",
+      "count": 6370,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P13/04": {
+      "code": "G01P13/04",
+      "level": 2,
+      "parent": "G01P13/02",
+      "ja": "直線運動の正方向または逆方向の指示，または回転運動の右廻りまたは左廻りの指示［３］",
+      "en": "Indicating positive or negative direction of a linear movement or clockwise or anti-clockwise direction of a rotational movement",
+      "count": 3304,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P15/00": {
+      "code": "G01P15/00",
+      "level": 0,
+      "parent": "G01P",
+      "ja": "加速度の測定，減速度の測定；衝撃，すなわち加速度の急激な変化，の測定",
+      "en": "Measuring acceleration; Measuring deceleration; Measuring shock, i.e. sudden change of acceleration",
+      "count": 9945,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P15/02": {
+      "code": "G01P15/02",
+      "level": 1,
+      "parent": "G01P15/00",
+      "ja": "慣性力の利用によるもの（Ｇ０１Ｐ１５／１４が優先）［１，７，２０１３．０１］",
+      "en": "by making use of inertia forces(<b>G01P15/14</b> takes precedence)",
+      "count": 2579,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P15/03": {
+      "code": "G01P15/03",
+      "level": 2,
+      "parent": "G01P15/02",
+      "ja": "非電気的手段を使用するもの［３］",
+      "en": "by using non-electrical means",
+      "count": 1623,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P15/04": {
+      "code": "G01P15/04",
+      "level": 2,
+      "parent": "G01P15/02",
+      "ja": "最大値指示用",
+      "en": "for indicating maximum value",
+      "count": 298,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P15/06": {
+      "code": "G01P15/06",
+      "level": 3,
+      "parent": "G01P15/04",
+      "ja": "永久変形しやすい部材を用いるもの",
+      "en": "using members subjected to a permanent deformation",
+      "count": 166,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P15/08": {
+      "code": "G01P15/08",
+      "level": 2,
+      "parent": "G01P15/02",
+      "ja": "電気値または磁気値への変換を伴うもの",
+      "en": "with conversion into electric or magnetic values",
+      "count": 9366,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P15/09": {
+      "code": "G01P15/09",
+      "level": 3,
+      "parent": "G01P15/08",
+      "ja": "圧電型ピックアップによるもの［３］",
+      "en": "by piezoelectric pick-up",
+      "count": 3527,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P15/093": {
+      "code": "G01P15/093",
+      "level": 3,
+      "parent": "G01P15/08",
+      "ja": "光電型ピックアップによるもの［７］",
+      "en": "by photoelectric pick-up",
+      "count": 1240,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P15/097": {
+      "code": "G01P15/097",
+      "level": 3,
+      "parent": "G01P15/08",
+      "ja": "振動要素によるもの［７］",
+      "en": "by vibratory elements",
+      "count": 1286,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P15/10": {
+      "code": "G01P15/10",
+      "level": 4,
+      "parent": "G01P15/097",
+      "ja": "振動線によるもの",
+      "en": "by vibratory strings",
+      "count": 857,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P15/105": {
+      "code": "G01P15/105",
+      "level": 3,
+      "parent": "G01P15/08",
+      "ja": "磁力感知装置によるもの［７］",
+      "en": "by magnetically sensitive devices",
+      "count": 589,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P15/11": {
+      "code": "G01P15/11",
+      "level": 4,
+      "parent": "G01P15/105",
+      "ja": "誘導型ピックアップによるもの［３］",
+      "en": "by inductive pick-up",
+      "count": 770,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P15/12": {
+      "code": "G01P15/12",
+      "level": 3,
+      "parent": "G01P15/08",
+      "ja": "電気抵抗の変化によるもの",
+      "en": "by alteration of electrical resistance",
+      "count": 3184,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P15/125": {
+      "code": "G01P15/125",
+      "level": 3,
+      "parent": "G01P15/08",
+      "ja": "容量型ピックアップによるもの［３］",
+      "en": "by capacitive pick-up",
+      "count": 5860,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P15/13": {
+      "code": "G01P15/13",
+      "level": 3,
+      "parent": "G01P15/08",
+      "ja": "慣性力を受ける標準質量を零位置まで復帰させるに必要な力の測定によるもの［３］",
+      "en": "by measuring the force required to restore a proofmass subjected to inertial forces to a null position",
+      "count": 1495,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P15/135": {
+      "code": "G01P15/135",
+      "level": 3,
+      "parent": "G01P15/08",
+      "ja": "可動の慣性質量によって動作する接点の使用によるもの［３］",
+      "en": "by making use of contacts which are actuated by a movable inertial mass",
+      "count": 1611,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P15/14": {
+      "code": "G01P15/14",
+      "level": 1,
+      "parent": "G01P15/00",
+      "ja": "ジャイロスコープの利用によるもの［１，７，２０１３．０１］",
+      "en": "by making use of gyroscopes",
+      "count": 1042,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P15/16": {
+      "code": "G01P15/16",
+      "level": 1,
+      "parent": "G01P15/00",
+      "ja": "測定した速度信号の時間微分を評価することによるもの［３，７，２０１３．０１］",
+      "en": "by evaluating the time-derivative of a measured speed signal",
+      "count": 784,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P15/18": {
+      "code": "G01P15/18",
+      "level": 1,
+      "parent": "G01P15/00",
+      "ja": "二次元またはそれ以上の次元において測定をするもの［７，２０１３．０１］",
+      "en": "in two or more dimensions",
+      "count": 5935,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P21/00": {
+      "code": "G01P21/00",
+      "level": 0,
+      "parent": "G01P",
+      "ja": "このサブクラスの他のグループに包含される装置または器具の試験または較正",
+      "en": "Testing or calibrating of apparatus or devices covered by the other groups of this subclass",
+      "count": 5803,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    },
+    "G01P21/02": {
+      "code": "G01P21/02",
+      "level": 1,
+      "parent": "G01P21/00",
+      "ja": "速度計に関するもの",
+      "en": "of speedometers",
+      "count": 4046,
+      "sourceFile": "ipc_G01P.txt",
+      "kind": "ipc"
+    }
+  }
+};

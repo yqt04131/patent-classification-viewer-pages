@@ -1,0 +1,2786 @@
+{
+  "generatedAt": "2026-03-20T02:17:46.911Z",
+  "total": 278,
+  "entries": {
+    "F24F": {
+      "code": "F24F",
+      "level": 0,
+      "parent": "F24",
+      "ja": "空気調節；空気加湿；換気；しゃへいのためのエアカーテンの利用（発生場所からのじんあいまたは臭気の除去Ｂ０８Ｂ１５／００；建物から廃ガスを除去するための垂直ダクトＥ０４Ｆ１７／０２；煙突または通風軸（換気塔）の先端，煙道の末端Ｆ２３Ｌ１７／０２）<br><br><b><ul>注</ul></b><br>１．このサブクラスは、空気調和システムまたはルームユニットにおける、人の住居空間または作業空間に供給される空気の処理，例．浄化，を包含する。<br>２．このサブクラスにおいては：<br>・空気調和における，すなわち，空気が冷却されるか，ないしは加熱されるところのユニットにおける，補助処理としての空気加湿は，グループＦ２４Ｆ１／００またはＦ２４Ｆ３／１４に包含される；<br>・空気加湿それ自体，例．“部屋加湿器”，はグループＦ２４Ｆ６／００に包含される。<br>３．このサブクラスにおいては下記の用語は以下に示す意味で用いる：<br>・“空気調和”とは，冷却または冷却とさらなる種類の空気処理，例．加湿，加熱または空気浄化，との組み合わせにより，部屋または空間に空気を供給すること，または，部屋または空間の空気の処理をすることを意味する；<br>・”換気”とは，部屋または空間に空気を供給すること，またはそれから空気を抽出することおよび部屋または空間内において空気を循環させることを意味する。しかし，部屋または空間に供給される空気，それから抽出される空気，またはそのなかで循環させる空気を処理するだけのものは包含しない。<br>４．このサブクラスにおいては，制御または安全装置はグループＦ２４Ｆ１１／００に分類される。これらの装置が用いられる空気処理システムの種類を示すために，グループＦ２４Ｆ１／００～Ｆ２４Ｆ９／００にて更なる分類が付与されることがある。<br><br><b><ul>サブクラス内の索引</ul></b><br>空気調和<br>ルームユニット；セントラル方式；他の方式または装置　１／００；３／００；５／００<br>空気加湿　６／００<br>換気　７／００<br>加湿または除湿　８／００<br>気流によるしゃへい　９／００<br>安全装置の制御　１１／００<br>エネルギ回収システムを用いるもの　１２／００<br>細部　１３／００",
+      "en": "AIR-CONDITIONING; AIR-HUMIDIFICATION; VENTILATION; USE OF AIR CURRENTS FOR SCREENING(removing dirt or fumes from areas where they are produced <b>B08B15/00</b>; vertical ducts for carrying away waste gases from buildings <b>E04F17/02</b>; tops for chimneys or ventilating shafts, terminals for flues <b>F23L17/02</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>This subclass <u>covers</u> treatment, e.g. purification, of air supplied to human living or working spaces in air conditioning systems or in room units.</li><li>In this subclass: <ul><li>air-humidification as auxiliary treatment in air-conditioning, i.e. in units wherein the air is also either cooled or heated, is covered by groups <b>F24F1/00</b> or <b>F24F3/14</b>;</li><li>air-humidification per se, e.g. \"room humidifiers\", is covered by group <b>F24F6/00</b>.</li></ul></li><li>In this subclass, the following terms or expressions are used with the meanings indicated: <ul><li>\"air-conditioning\" means the supply of air to or the treatment of air in rooms or spaces by means of cooling or a combination of cooling and a further kind of air treatment, e.g. humidification, heating or air purification;</li><li>\"ventilation\" means the supply of air to, or its extraction from, rooms or spaces, and systems for circulating air within rooms or spaces, but does not cover the mere treatment of air being supplied to, extracted from, or circulated within, rooms or spaces.</li></ul></li><li>In this subclass, control or safety arrangements are classified in group <b>F24F11/00</b>. In order to indicate the type of air-treatment system in which these arrangements are used, further classification may be made in groups <b>F24F1/00 to F24F9/00</b> .</li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">AIR-CONDITIONING<tr><td width=\"70%\">Room units; central systems; other systems or apparatus</td><td><b><b>1/00</b>; <b>3/00</b>; <b>5/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">AIR-HUMIDIFICATION</td><td><b><b>6/00</b></b></td></tr></tr><tr><td width=\"70%\">VENTILATION</td><td><b><b>7/00</b></b></td></tr></tr><tr><td width=\"70%\">TREATMENT OTHER THAN BY HEATING, COOLING, HUMIDIFYING OR DRYING</td><td><b><b>8/00</b></b></td></tr></tr><tr><td width=\"70%\">SCREENING BY AIR CURRENTS</td><td><b><b>9/00</b></b></td></tr></tr><tr><td width=\"70%\">CONTROL OR SAFETY ARRANGEMENTS</td><td><b><b>11/00</b></b></td></tr></tr><tr><td width=\"70%\">USE OF ENERGY RECOVERY SYSTEMS</td><td><b><b>12/00</b></b></td></tr></tr><tr><td width=\"70%\">DETAILS</td><td><b><b>13/00</b></b></td></tr></tr></table>",
+      "count": 3628,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F24": {
+      "code": "F24",
+      "level": 0,
+      "parent": "F",
+      "ja": "加熱；レンジ；換気<br><br><b><ul>注</ul></b><br>このクラスにおいては，下記の用語は以下に示す意味で用いる：<br>―“ストーブ”は開放式炉，例．暖炉，を持つような装置を包含する；<br>―“レンジ”は種々の調理操作または調理と加熱操作をする要素をもった調理装置を意味する。",
+      "en": "HEATING; RANGES; VENTILATING; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this class, the following terms are used with the meanings indicated:<ul><li>\"stove\" includes apparatus which may have an open fire, e.g. fireplace;</li><li>\"range\" means an apparatus for cooking having elements that perform different cooking operations or cooking and heating operations.</li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F": {
+      "code": "F",
+      "level": 0,
+      "parent": null,
+      "ja": "機械工学；照明；加熱；武器；爆破",
+      "en": "MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/00": {
+      "code": "F24F1/00",
+      "level": 0,
+      "parent": "F24F",
+      "ja": "空気調和のためのルームユニット，例．分離式または自納式のものあるいは中央装置から１次空気を受けるもの［２０１９．０１］",
+      "en": "Room units for air-conditioning, e.g. separate or self-contained units or units receiving primary air from a central station",
+      "count": 44805,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/0003": {
+      "code": "F24F1/0003",
+      "level": 1,
+      "parent": "F24F1/00",
+      "ja": "空気調和システムの構成要素，例．蒸発器と凝縮器，がそれぞれ別々のユニットに収容されている分離型のもの［２０１９．０１］",
+      "en": "characterised by a split arrangement, wherein parts of the air-conditioning system, e.g. evaporator and condenser, are in separately located units",
+      "count": 3486,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/0007": {
+      "code": "F24F1/0007",
+      "level": 1,
+      "parent": "F24F1/00",
+      "ja": "室内ユニット，例．ファンコイルユニット（自納式ユニットＦ２４Ｆ１／０２）［２０１９．０１］",
+      "en": "Indoor units, e.g. fan coil units(self-contained units <b>F24F1/02</b>)",
+      "count": 6681,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/0011": {
+      "code": "F24F1/0011",
+      "level": 2,
+      "parent": "F24F1/0007",
+      "ja": "吹出口に特徴のあるもの［２０１９．０１］",
+      "en": "characterised by air outlets",
+      "count": 10789,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/0014": {
+      "code": "F24F1/0014",
+      "level": 3,
+      "parent": "F24F1/0011",
+      "ja": "２つ以上の吹出口を有するもの［２０１９．０１］",
+      "en": "having two or more outlet openings",
+      "count": 5471,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/0018": {
+      "code": "F24F1/0018",
+      "level": 2,
+      "parent": "F24F1/0007",
+      "ja": "ファンに特徴のあるもの（２次空気が１次空気の噴射作用により誘引されるものＦ２４Ｆ１／０１）［２０１９．０１］",
+      "en": "characterised by fans(with secondary air induced by injector action of the primary air <b>F24F1/01</b>)",
+      "count": 2579,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/0022": {
+      "code": "F24F1/0022",
+      "level": 3,
+      "parent": "F24F1/0018",
+      "ja": "遠心式ファンまたはラジアルファン［２０１９．０１］",
+      "en": "Centrifugal or radial fans",
+      "count": 2069,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/0025": {
+      "code": "F24F1/0025",
+      "level": 3,
+      "parent": "F24F1/0018",
+      "ja": "クロスフローファン［貫流ファン］または横流れファン［２０１９．０１］",
+      "en": "Cross-flow or tangential fans",
+      "count": 2368,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/0029": {
+      "code": "F24F1/0029",
+      "level": 3,
+      "parent": "F24F1/0018",
+      "ja": "軸流ファン［２０１９．０１］",
+      "en": "Axial fans",
+      "count": 681,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/0033": {
+      "code": "F24F1/0033",
+      "level": 3,
+      "parent": "F24F1/0018",
+      "ja": "２つ以上のファンを有するもの［２０１９．０１］",
+      "en": "having two or more fans",
+      "count": 2726,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/0035": {
+      "code": "F24F1/0035",
+      "level": 2,
+      "parent": "F24F1/0007",
+      "ja": "部屋への外気の導入に特徴のあるもの［２０１９．０１］",
+      "en": "characterised by introduction of outside air to the room",
+      "count": 3678,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/0038": {
+      "code": "F24F1/0038",
+      "level": 3,
+      "parent": "F24F1/0035",
+      "ja": "同時に行う内気の排出と組み合わせたもの［２０１９．０１］",
+      "en": "in combination with simultaneous exhaustion of inside air",
+      "count": 970,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/0041": {
+      "code": "F24F1/0041",
+      "level": 2,
+      "parent": "F24F1/0007",
+      "ja": "部屋からの内気の排出に特徴のあるもの（同時に行う外気の導入と組み合わせたものＦ２４Ｆ１／００３８）［２０１９．０１］",
+      "en": "characterised by exhaustion of inside air from the room(in combination with simultaneous introduction of outside air <b>F24F1/0038</b>)",
+      "count": 234,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/0043": {
+      "code": "F24F1/0043",
+      "level": 2,
+      "parent": "F24F1/0007",
+      "ja": "取り付け装置に特徴のあるもの［２０１９．０１］",
+      "en": "characterised by mounting arrangements",
+      "count": 445,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/0047": {
+      "code": "F24F1/0047",
+      "level": 3,
+      "parent": "F24F1/0043",
+      "ja": "天井の内部または天井に取り付けるもの［２０１９．０１］",
+      "en": "mounted in the ceiling or at the ceiling",
+      "count": 2762,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/005": {
+      "code": "F24F1/005",
+      "level": 3,
+      "parent": "F24F1/0043",
+      "ja": "床に取り付けるもの；床に立てるもの［２０１９．０１］",
+      "en": "mounted on the floor; standing on the floor",
+      "count": 3656,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/0053": {
+      "code": "F24F1/0053",
+      "level": 3,
+      "parent": "F24F1/0043",
+      "ja": "少なくとも部分的に床下に取り付けるもの；床下空気分配器を有するもの［２０１９．０１］",
+      "en": "mounted at least partially below the floor; with air distribution below the floor",
+      "count": 112,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/0057": {
+      "code": "F24F1/0057",
+      "level": 3,
+      "parent": "F24F1/0043",
+      "ja": "壁の内部または壁に取り付けるもの［２０１９．０１］",
+      "en": "mounted in or on a wall",
+      "count": 3570,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/0059": {
+      "code": "F24F1/0059",
+      "level": 2,
+      "parent": "F24F1/0007",
+      "ja": "熱交換器に特徴のあるもの［２０１９．０１］",
+      "en": "characterised by heat exchangers",
+      "count": 1134,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/0063": {
+      "code": "F24F1/0063",
+      "level": 3,
+      "parent": "F24F1/0059",
+      "ja": "熱交換器の取り付けまたは配置［２０１９．０１］",
+      "en": "by the mounting or arrangement of the heat exchangers",
+      "count": 9077,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/0067": {
+      "code": "F24F1/0067",
+      "level": 3,
+      "parent": "F24F1/0059",
+      "ja": "熱交換器またはその部品，例．フィン，の形状［２０１９．０１］",
+      "en": "by the shape of the heat exchangers or of parts thereof, e.g. of their fins",
+      "count": 1692,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/0068": {
+      "code": "F24F1/0068",
+      "level": 2,
+      "parent": "F24F1/0007",
+      "ja": "ユニットケーシング内における，熱交換器外の冷媒配管の配置に特徴のあるもの［２０１９．０１］",
+      "en": "characterised by the arrangement of refrigerant piping outside the heat exchanger within the unit casing",
+      "count": 564,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/0071": {
+      "code": "F24F1/0071",
+      "level": 2,
+      "parent": "F24F1/0007",
+      "ja": "給気の清浄手段（芳香または脱臭手段Ｆ２４Ｆ１／００８）［２０１９．０１］",
+      "en": "with means for purifying supplied air(perfuming or deodorising means <b>F24F1/008</b>)",
+      "count": 2181,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/0073": {
+      "code": "F24F1/0073",
+      "level": 3,
+      "parent": "F24F1/0071",
+      "ja": "フィルタの取り付けまたは配置に特徴のあるもの［２０１９．０１］",
+      "en": "characterised by the mounting or arrangement of filters",
+      "count": 7405,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/0076": {
+      "code": "F24F1/0076",
+      "level": 3,
+      "parent": "F24F1/0071",
+      "ja": "電気的手段，例．イオナイザーまたは静電分離器，によるもの［２０１９．０１］",
+      "en": "by electric means, e.g. ionisers or electrostatic separators",
+      "count": 1948,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/008": {
+      "code": "F24F1/008",
+      "level": 2,
+      "parent": "F24F1/0007",
+      "ja": "芳香または脱臭手段を有するもの［２０１９．０１］",
+      "en": "with perfuming or deodorising means",
+      "count": 486,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/0083": {
+      "code": "F24F1/0083",
+      "level": 2,
+      "parent": "F24F1/0007",
+      "ja": "除湿手段を有するもの［２０１９．０１］",
+      "en": "with dehumidification means",
+      "count": 1279,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/0087": {
+      "code": "F24F1/0087",
+      "level": 2,
+      "parent": "F24F1/0007",
+      "ja": "加湿手段を有するもの［２０１９．０１］",
+      "en": "with humidification means",
+      "count": 3143,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/009": {
+      "code": "F24F1/009",
+      "level": 2,
+      "parent": "F24F1/0007",
+      "ja": "加熱装置に特徴のあるもの（熱交換器に特徴のあるものＦ２４Ｆ１／００５９）［２０１９．０１］",
+      "en": "characterised by heating arrangements(characterised by heat exchangers <b>F24F1/0059</b>)",
+      "count": 346,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/0093": {
+      "code": "F24F1/0093",
+      "level": 3,
+      "parent": "F24F1/009",
+      "ja": "追加の輻射式放熱要素を有するもの，例．電気ヒーター［２０１９．０１］",
+      "en": "with additional radiant heat-discharging elements, e.g. electric heaters",
+      "count": 1350,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/0097": {
+      "code": "F24F1/0097",
+      "level": 3,
+      "parent": "F24F1/009",
+      "ja": "熱電または熱磁気手段を用いるもの，例．ペルチェ素子［２０１９．０１］",
+      "en": "using thermoelectric or thermomagnetic means, e.g. Peltier elements",
+      "count": 67,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/01": {
+      "code": "F24F1/01",
+      "level": 1,
+      "parent": "F24F1/00",
+      "ja": "その内で２次空気が１次空気の噴射作用により誘引されるもの［２０１１．０１］",
+      "en": "in which secondary air is induced by injector action of the primary air",
+      "count": 715,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/02": {
+      "code": "F24F1/02",
+      "level": 1,
+      "parent": "F24F1/00",
+      "ja": "空気調和のための自納式ルームユニット，すなわち１つの共通のケーシング内に装備される処理のための全装置をもつもの［２０１９．０１］",
+      "en": "Self-contained room units for air-conditioning, i.e. with all apparatus for treatment installed in a common casing",
+      "count": 22013,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/022": {
+      "code": "F24F1/022",
+      "level": 2,
+      "parent": "F24F1/02",
+      "ja": "圧縮式サイクルを含むもの［２０１９．０１］",
+      "en": "comprising a compressor cycle",
+      "count": 1497,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/027": {
+      "code": "F24F1/027",
+      "level": 3,
+      "parent": "F24F1/022",
+      "ja": "壁の開口，例．窓，に取り付けるもの［２０１９．０１］",
+      "en": "mounted in wall openings, e.g. in windows",
+      "count": 742,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/028": {
+      "code": "F24F1/028",
+      "level": 2,
+      "parent": "F24F1/02",
+      "ja": "給気手段，例．ファンケーシング，機内ダンパまたはダクト，に特徴のあるもの（２次空気が１次空気の噴射作用により誘引されるものＦ２４Ｆ１／０１）［２０１９．０１］",
+      "en": "characterised by air supply means, e.g. fan casings, internal dampers or ducts(with secondary air induced by injector action of the primary air <b>F24F1/01</b>)",
+      "count": 1416,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/0284": {
+      "code": "F24F1/0284",
+      "level": 3,
+      "parent": "F24F1/028",
+      "ja": "水平方向にファン軸が配列されたもの［２０１９．０１］",
+      "en": "with horizontally arranged fan axis",
+      "count": 535,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/0287": {
+      "code": "F24F1/0287",
+      "level": 3,
+      "parent": "F24F1/028",
+      "ja": "垂直方向にファン軸が配列されたもの［２０１９．０１］",
+      "en": "with vertically arranged fan axis",
+      "count": 164,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/029": {
+      "code": "F24F1/029",
+      "level": 2,
+      "parent": "F24F1/02",
+      "ja": "構成部品，例．圧縮機またはファン，のレイアウトまたは相互の配置に特徴のあるもの［２０１９．０１］",
+      "en": "characterised by the layout or mutual arrangement of components, e.g. of compressors or fans",
+      "count": 1458,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/03": {
+      "code": "F24F1/03",
+      "level": 2,
+      "parent": "F24F1/02",
+      "ja": "取り付け配置に特徴のあるもの［２０１９．０１］",
+      "en": "characterised by mounting arrangements",
+      "count": 284,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/031": {
+      "code": "F24F1/031",
+      "level": 3,
+      "parent": "F24F1/03",
+      "ja": "壁や窓を貫通するもの［２０１９．０１］",
+      "en": "penetrating a wall or window",
+      "count": 1237,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/0314": {
+      "code": "F24F1/0314",
+      "level": 3,
+      "parent": "F24F1/03",
+      "ja": "壁に取り付けるもの［２０１９．０１］",
+      "en": "mounted on a wall",
+      "count": 139,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/0317": {
+      "code": "F24F1/0317",
+      "level": 3,
+      "parent": "F24F1/03",
+      "ja": "天井から吊るすもの［２０１９．０１］",
+      "en": "suspended from the ceiling",
+      "count": 174,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/032": {
+      "code": "F24F1/032",
+      "level": 2,
+      "parent": "F24F1/02",
+      "ja": "熱交換器に特徴のあるもの［２０１９．０１］",
+      "en": "characterised by heat exchangers",
+      "count": 187,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/0323": {
+      "code": "F24F1/0323",
+      "level": 3,
+      "parent": "F24F1/032",
+      "ja": "熱交換器の取り付けまたは配置［２０１９．０１］",
+      "en": "by the mounting or arrangement of the heat exchangers",
+      "count": 2158,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/0325": {
+      "code": "F24F1/0325",
+      "level": 3,
+      "parent": "F24F1/032",
+      "ja": "熱交換器またはその部品，例．フィン，の形状［２０１９．０１］",
+      "en": "by the shape of the heat exchangers or of parts thereof, e.g. of their fins",
+      "count": 286,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/0326": {
+      "code": "F24F1/0326",
+      "level": 2,
+      "parent": "F24F1/02",
+      "ja": "ユニットケーシング内における，熱交換器外の冷媒配管の配置に特徴のあるもの［２０１９．０１］",
+      "en": "characterised by the arrangement of refrigerant piping outside the heat exchanger within the unit casing",
+      "count": 111,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/0328": {
+      "code": "F24F1/0328",
+      "level": 2,
+      "parent": "F24F1/02",
+      "ja": "給気の清浄手段（芳香または脱臭手段Ｆ２４Ｆ１／０３５５）［２０１９．０１］",
+      "en": "with means for purifying supplied air(perfuming or deodorising means <b>F24F1/0355</b>)",
+      "count": 408,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/035": {
+      "code": "F24F1/035",
+      "level": 3,
+      "parent": "F24F1/0328",
+      "ja": "フィルタの取り付けまたは配置に特徴のあるもの［２０１９．０１］",
+      "en": "characterised by the mounting or arrangement of filters",
+      "count": 1343,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/0353": {
+      "code": "F24F1/0353",
+      "level": 3,
+      "parent": "F24F1/0328",
+      "ja": "電気的手段，例．イオナイザーまたは静電分離器，によるもの［２０１９．０１］",
+      "en": "by electric means, e.g. ionisers or electrostatic separators",
+      "count": 287,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/0355": {
+      "code": "F24F1/0355",
+      "level": 2,
+      "parent": "F24F1/02",
+      "ja": "芳香または脱臭手段を有するもの［２０１９．０１］",
+      "en": "with perfuming or deodorising means",
+      "count": 101,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/0358": {
+      "code": "F24F1/0358",
+      "level": 2,
+      "parent": "F24F1/02",
+      "ja": "除湿手段を有するもの［２０１９．０１］",
+      "en": "with dehumidification means",
+      "count": 696,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/037": {
+      "code": "F24F1/037",
+      "level": 2,
+      "parent": "F24F1/02",
+      "ja": "加湿手段を有するもの［２０１９．０１］",
+      "en": "with humidification means",
+      "count": 615,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/0373": {
+      "code": "F24F1/0373",
+      "level": 2,
+      "parent": "F24F1/02",
+      "ja": "加熱装置に特徴のあるもの（熱交換器に特徴のあるものＦ２４Ｆ１／０３２）［２０１９．０１］",
+      "en": "characterised by heating arrangements(characterised by heat exchangers <b>F24F1/032</b>)",
+      "count": 116,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/0375": {
+      "code": "F24F1/0375",
+      "level": 3,
+      "parent": "F24F1/0373",
+      "ja": "追加の輻射式放熱要素を有するもの，例．電気ヒーター［２０１９．０１］",
+      "en": "with additional radiant heat-discharging elements, e.g. electric heaters",
+      "count": 245,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/0378": {
+      "code": "F24F1/0378",
+      "level": 3,
+      "parent": "F24F1/0373",
+      "ja": "熱電または熱磁気手段を用いるもの，例．ペルチェ素子［２０１９．０１］",
+      "en": "using thermoelectric or thermomagnetic means, e.g. Peltier elements",
+      "count": 51,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/039": {
+      "code": "F24F1/039",
+      "level": 2,
+      "parent": "F24F1/02",
+      "ja": "冷却能力向上のため水を使用するもの，例．凝縮器への散水［２０１９．０１］",
+      "en": "using water to enhance cooling, e.g. spraying onto condensers",
+      "count": 573,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/04": {
+      "code": "F24F1/04",
+      "level": 2,
+      "parent": "F24F1/02",
+      "ja": "携帯のための装置［２０１１．０１］",
+      "en": "Arrangements for portability",
+      "count": 1527,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/06": {
+      "code": "F24F1/06",
+      "level": 1,
+      "parent": "F24F1/00",
+      "ja": "分離式室外ユニット，例．離れた室内ユニットに接続される圧縮機と熱交換器からなる室外ユニット［２０１１．０１］<br><br><b><ul>注</ul></b><br>このグループにおいては，ファーストプレイス優先ルールが適用される，すなわち各階層レベルにおいて，相反する指示のない限り，最初の適切な箇所に分類する。［２０１１．０１］",
+      "en": "Separate outdoor units, e.g. outdoor unit to be linked to a separate room unit comprising a compressor and a heat exchanger; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this group, the first place priority rule is applied, i.e. at each hierarchical level, in the absence of an indication to the contrary, classification is made in the first appropriate place.  </li></ul>",
+      "count": 3594,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/08": {
+      "code": "F24F1/08",
+      "level": 2,
+      "parent": "F24F1/06",
+      "ja": "分離式室外ユニットに特に適合した圧縮機［２０１１．０１］",
+      "en": "Compressors specially adapted for separate outdoor units",
+      "count": 375,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/10": {
+      "code": "F24F1/10",
+      "level": 3,
+      "parent": "F24F1/08",
+      "ja": "それらの配置または取り付け［２０１１．０１］",
+      "en": "Arrangement or mounting thereof",
+      "count": 1487,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/12": {
+      "code": "F24F1/12",
+      "level": 3,
+      "parent": "F24F1/08",
+      "ja": "それらのための振動または騒音の防止［２０１１．０１］",
+      "en": "Vibration or noise prevention therefor",
+      "count": 1425,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/14": {
+      "code": "F24F1/14",
+      "level": 2,
+      "parent": "F24F1/06",
+      "ja": "分離式室外ユニットに特に適合した熱交換器［２０１１．０１］",
+      "en": "Heat exchangers specially adapted for separate outdoor units",
+      "count": 1006,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/16": {
+      "code": "F24F1/16",
+      "level": 3,
+      "parent": "F24F1/14",
+      "ja": "それらの配置または取り付け［２０１１．０１］",
+      "en": "Arrangement or mounting thereof",
+      "count": 3853,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/18": {
+      "code": "F24F1/18",
+      "level": 3,
+      "parent": "F24F1/14",
+      "ja": "それらの形状に特徴のあるもの［２０１１．０１］",
+      "en": "characterised by their shape",
+      "count": 1008,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/20": {
+      "code": "F24F1/20",
+      "level": 2,
+      "parent": "F24F1/06",
+      "ja": "分離式室外ユニットのための電気部品［２０１１．０１］",
+      "en": "Electric components for separate outdoor units",
+      "count": 622,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/22": {
+      "code": "F24F1/22",
+      "level": 3,
+      "parent": "F24F1/20",
+      "ja": "それらの配置または取り付け［２０１１．０１］",
+      "en": "Arrangement or mounting thereof",
+      "count": 3195,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/24": {
+      "code": "F24F1/24",
+      "level": 3,
+      "parent": "F24F1/20",
+      "ja": "電気部品の冷却［２０１１．０１］",
+      "en": "Cooling of electric components",
+      "count": 2915,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/26": {
+      "code": "F24F1/26",
+      "level": 2,
+      "parent": "F24F1/06",
+      "ja": "冷媒用の配管［２０１１．０１］",
+      "en": "Refrigerant piping",
+      "count": 881,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/28": {
+      "code": "F24F1/28",
+      "level": 3,
+      "parent": "F24F1/26",
+      "ja": "複数の分離式室外ユニットを連結するためのもの［２０１１．０１］",
+      "en": "for connecting several separate outdoor units",
+      "count": 208,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/30": {
+      "code": "F24F1/30",
+      "level": 3,
+      "parent": "F24F1/26",
+      "ja": "分離式室外ユニットの内部で使用するもの［２０１１．０１］",
+      "en": "for use inside the separate outdoor units",
+      "count": 364,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/32": {
+      "code": "F24F1/32",
+      "level": 3,
+      "parent": "F24F1/26",
+      "ja": "分離式室外ユニットを室内ユニットに連結するためのもの［２０１１．０１］",
+      "en": "for connecting the separate outdoor unit to indoor units",
+      "count": 1859,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/34": {
+      "code": "F24F1/34",
+      "level": 3,
+      "parent": "F24F1/26",
+      "ja": "それらの保護手段，例．冷媒管保護部材［２０１１．０１］",
+      "en": "Protection means therefor, e.g. covers for refrigerant pipes",
+      "count": 530,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/36": {
+      "code": "F24F1/36",
+      "level": 2,
+      "parent": "F24F1/06",
+      "ja": "室外ユニットのための露受皿［２０１１．０１］",
+      "en": "Drip trays for outdoor units",
+      "count": 1088,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/38": {
+      "code": "F24F1/38",
+      "level": 2,
+      "parent": "F24F1/06",
+      "ja": "室外ユニットのファンの細部，例．ベルマウスまたはファンの取り付け［２０１１．０１］",
+      "en": "Fan details of outdoor units, e.g. bell-mouth shaped inlets or fan mountings",
+      "count": 2544,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/40": {
+      "code": "F24F1/40",
+      "level": 2,
+      "parent": "F24F1/06",
+      "ja": "室外ユニット自体の振動または騒音の防止（室外ユニットの圧縮機のものＦ２４Ｆ１／１２）［２０１１．０１］",
+      "en": "Vibration or noise prevention at outdoor units(for outdoor unit compressors <b>F24F1/12</b>)",
+      "count": 2353,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/42": {
+      "code": "F24F1/42",
+      "level": 2,
+      "parent": "F24F1/06",
+      "ja": "凝縮水の利用に特徴のあるもの，例．冷却能力向上のため［２０１１．０１］",
+      "en": "characterised by the use of the condensate, e.g. for enhanced cooling",
+      "count": 1702,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/44": {
+      "code": "F24F1/44",
+      "level": 2,
+      "parent": "F24F1/06",
+      "ja": "内燃機関の利用に特徴のあるもの［２０１１．０１］",
+      "en": "characterised by the use of internal combustion engines",
+      "count": 124,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/46": {
+      "code": "F24F1/46",
+      "level": 2,
+      "parent": "F24F1/06",
+      "ja": "分離式室外ユニットにおける構成部品の配置［２０１１．０１］",
+      "en": "Component arrangements in separate outdoor units",
+      "count": 1218,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/48": {
+      "code": "F24F1/48",
+      "level": 3,
+      "parent": "F24F1/46",
+      "ja": "空気の流通に特徴のあるもの，例．流入または流出気流［２０１１．０１］",
+      "en": "characterised by airflow, e.g. inlet or outlet airflow",
+      "count": 1748,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/50": {
+      "code": "F24F1/50",
+      "level": 4,
+      "parent": "F24F1/48",
+      "ja": "上方向に空気を吹き出すもの［２０１１．０１］",
+      "en": "with outlet air in upward direction",
+      "count": 451,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/52": {
+      "code": "F24F1/52",
+      "level": 4,
+      "parent": "F24F1/48",
+      "ja": "同じ側面から空気の流入と流出を行うもの，例．壁の開口に取り付けるため［２０１１．０１］",
+      "en": "Inlet and outlet arranged on the same side, e.g. for mounting in a wall opening",
+      "count": 75,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/54": {
+      "code": "F24F1/54",
+      "level": 4,
+      "parent": "F24F1/48",
+      "ja": "対向する側面から空気の流入と流出を行うもの［２０１１．０１］",
+      "en": "Inlet and outlet arranged on opposite sides",
+      "count": 118,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/56": {
+      "code": "F24F1/56",
+      "level": 2,
+      "parent": "F24F1/06",
+      "ja": "分離式室外ユニットの筐体もしくは付随するカバー，例．ファンガードを含む［２０１１．０１］",
+      "en": "Casing or covers of separate outdoor units, e.g. fan guards",
+      "count": 3152,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/58": {
+      "code": "F24F1/58",
+      "level": 3,
+      "parent": "F24F1/56",
+      "ja": "室外ユニットに取り付ける別体の保護カバー，例．太陽光ガード，積雪防止カバーまたはカムフラージュのためのカバー［２０１１．０１］",
+      "en": "Separate protective covers for outdoor units, e.g. solar guards, snow shields or camouflage",
+      "count": 2579,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/60": {
+      "code": "F24F1/60",
+      "level": 2,
+      "parent": "F24F1/06",
+      "ja": "室外ユニットの配置または取り付け［２０１１．０１］",
+      "en": "Arrangement or mounting of the outdoor unit",
+      "count": 2114,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/62": {
+      "code": "F24F1/62",
+      "level": 3,
+      "parent": "F24F1/60",
+      "ja": "壁取り付け型［２０１１．０１］",
+      "en": "Wall-mounted",
+      "count": 2159,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/64": {
+      "code": "F24F1/64",
+      "level": 3,
+      "parent": "F24F1/60",
+      "ja": "吊り下げ型，例．バルコニー下への設置［２０１１．０１］",
+      "en": "Ceiling-mounted, e.g. below a balcony",
+      "count": 92,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/66": {
+      "code": "F24F1/66",
+      "level": 3,
+      "parent": "F24F1/60",
+      "ja": "床下設置型［２０１１．０１］",
+      "en": "under the floor level",
+      "count": 41,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F1/68": {
+      "code": "F24F1/68",
+      "level": 3,
+      "parent": "F24F1/60",
+      "ja": "複数の分離式室外ユニットの配置［２０１１．０１］",
+      "en": "Arrangement of multiple separate outdoor units",
+      "count": 124,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F3/00": {
+      "code": "F24F3/00",
+      "level": 0,
+      "parent": "F24F",
+      "ja": "調整された１次空気を１個またはそれ以上の中央装置からその１次空気の２次処理を行なってもよい部屋または空間に設置される分配ユニットに供給するところの空気調和方式；このような方式のために特別に設計された装置（ルームユニットＦ２４Ｆ１／００）",
+      "en": "Air-conditioning systems in which conditioned primary air is supplied from one or more central stations to distributing units in the rooms or spaces where it may receive secondary treatment; Apparatus specially designed for such systems(room units <b>F24F1/00</b>)",
+      "count": 7201,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F3/02": {
+      "code": "F24F3/02",
+      "level": 1,
+      "parent": "F24F3/00",
+      "ja": "１次空気の圧力または速度により特徴づけられるもの［３］",
+      "en": "characterised by the pressure or velocity of the primary air",
+      "count": 182,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F3/04": {
+      "code": "F24F3/04",
+      "level": 2,
+      "parent": "F24F3/02",
+      "ja": "高圧または高速で運転するもの",
+      "en": "operating with high pressure or high velocity",
+      "count": 164,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F3/044": {
+      "code": "F24F3/044",
+      "level": 1,
+      "parent": "F24F3/00",
+      "ja": "全ての処理が中央装置で与えられる方式，すなわち，全空気方式［３］",
+      "en": "Systems in which all treatment is given in the central station, i.e. all-air systems",
+      "count": 3806,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F3/048": {
+      "code": "F24F3/048",
+      "level": 2,
+      "parent": "F24F3/044",
+      "ja": "一定空気流量で温度制御するもの［３］",
+      "en": "with temperature control at constant rate of air-flow",
+      "count": 266,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F3/052": {
+      "code": "F24F3/052",
+      "level": 3,
+      "parent": "F24F3/048",
+      "ja": "複数ダクト方式，例．熱気及び冷気が別個の回路によって中央装置から調節された区域の混合室に供給される方式［３］",
+      "en": "Multiple duct systems, e.g. systems in which hot and cold air are supplied by separate circuits from the central station to mixing chambers in the spaces to be conditioned",
+      "count": 573,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F3/056": {
+      "code": "F24F3/056",
+      "level": 2,
+      "parent": "F24F3/044",
+      "ja": "空気が少なくとも部分的に照明器具上を流れ，照明器具の熱が消去されまたは用いられるもの（部屋または空間に空気を指し向けるためのまたは分布させるための吹出口で、照明器具に結合されたものＦ２４Ｆ１３／０７８）［３］",
+      "en": "the air at least partially flowing over lighting fixtures, the heat of which is dissipated or used(outlets for directing or distributing air into rooms or spaces combined with lighting fixtures <b>F24F13/078</b>)",
+      "count": 208,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F3/06": {
+      "code": "F24F3/06",
+      "level": 1,
+      "parent": "F24F3/00",
+      "ja": "ルームユニットにおける１次空気の２次処理用熱交換流体の供給のための装置に特徴のあるもの",
+      "en": "characterised by the arrangements for the supply of heat-exchange fluid for the subsequent treatment of primary air in the room units",
+      "count": 3772,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F3/08": {
+      "code": "F24F3/08",
+      "level": 2,
+      "parent": "F24F3/06",
+      "ja": "高温熱交換流体および低温熱交換流体のための分離した供給管および高温熱交換流体および低温熱交換流体のための分離した帰還管とをもつもの",
+      "en": "with separate supply and return lines for hot and cold heat-exchange fluids",
+      "count": 449,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F3/10": {
+      "code": "F24F3/10",
+      "level": 2,
+      "parent": "F24F3/06",
+      "ja": "高温熱交換流体および低温熱交換流体のための分離した供給管および高温熱交換流体および低温熱交換流体のための共通の帰還管とをもつもの",
+      "en": "with separate supply lines and common return line for hot and cold heat-exchange fluids",
+      "count": 189,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F3/12": {
+      "code": "F24F3/12",
+      "level": 1,
+      "parent": "F24F3/00",
+      "ja": "加熱および冷却とは別の空気の処理を特徴とするもの",
+      "en": "characterised by the treatment of the air otherwise than by heating and cooling",
+      "count": 1333,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F3/14": {
+      "code": "F24F3/14",
+      "level": 2,
+      "parent": "F24F3/12",
+      "ja": "加湿によるもの；除湿によるもの",
+      "en": "by humidification; by dehumidification",
+      "count": 33381,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F3/147": {
+      "code": "F24F3/147",
+      "level": 3,
+      "parent": "F24F3/14",
+      "ja": "給気と排気間で熱伝達および湿度伝達の双方がなされるもの［３］",
+      "en": "with both heat and humidity transfer between supplied and exhausted air",
+      "count": 3578,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F3/153": {
+      "code": "F24F3/153",
+      "level": 3,
+      "parent": "F24F3/14",
+      "ja": "付加的な加熱を有するもの，すなわち，中央装置の中で必要な湿度を与えられた空気が必要な温度を達成するために加熱要素を通過することによるもの［３］",
+      "en": "with subsequent heating, i.e. with the air, given the required humidity in the central station, passing a heating element to achieve the required temperature",
+      "count": 2197,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F3/16": {
+      "code": "F24F3/16",
+      "level": 2,
+      "parent": "F24F3/12",
+      "ja": "清浄によるもの，例．ろ過によるもの；殺菌によるもの；オゾン化によるもの［２０２１．０１］",
+      "en": "by purification, e.g. by filtering; by sterilisation; by ozonisation",
+      "count": 40526,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F3/163": {
+      "code": "F24F3/163",
+      "level": 3,
+      "parent": "F24F3/16",
+      "ja": "清浄空気のワークステーション，すなわち，ろ過された空気が通される空間内の選択された領域［２０２１．０１］",
+      "en": "Clean air work stations, i.e. selected areas within a space to which filtered air is passed",
+      "count": 223,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F3/167": {
+      "code": "F24F3/167",
+      "level": 3,
+      "parent": "F24F3/16",
+      "ja": "クリーンルーム，すなわち，ろ過された空気の均質な流れが分配される閉鎖空間（　穴のある壁による通気分配Ｆ２４Ｆ７／１０）［２０２１．０１］",
+      "en": "Clean rooms, i.e. enclosed spaces in which a uniform flow of filtered air is distributed(air distribution by perforated walls <b>F24F7/10</b>)",
+      "count": 1175,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F5/00": {
+      "code": "F24F5/00",
+      "level": 0,
+      "parent": "F24F",
+      "ja": "Ｆ２４Ｆ１／００またはＦ２４Ｆ３／００に適用されない空気調和方式または空気調和装置",
+      "en": "Air-conditioning systems or apparatus not covered by group <b>F24F1/00</b> or <b>F24F3/00</b>",
+      "count": 85859,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F6/00": {
+      "code": "F24F6/00",
+      "level": 0,
+      "parent": "F24F",
+      "ja": "空気加湿［２００６．０１］",
+      "en": "Air-humidification",
+      "count": 15680,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F6/02": {
+      "code": "F24F6/02",
+      "level": 1,
+      "parent": "F24F6/00",
+      "ja": "空気中の水の蒸発によるもの［２００６．０１］",
+      "en": "by evaporation of water in the air",
+      "count": 4087,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F6/04": {
+      "code": "F24F6/04",
+      "level": 2,
+      "parent": "F24F6/02",
+      "ja": "静止した非加熱の湿式部材を用いるもの［２００６．０１］",
+      "en": "using stationary unheated wet elements",
+      "count": 6958,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F6/06": {
+      "code": "F24F6/06",
+      "level": 2,
+      "parent": "F24F6/02",
+      "ja": "移動する非加熱の湿式部材を用いるもの［２００６．０１］",
+      "en": "using moving unheated wet elements",
+      "count": 2740,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F6/08": {
+      "code": "F24F6/08",
+      "level": 2,
+      "parent": "F24F6/02",
+      "ja": "加熱された湿式部材を用いるもの［２００６．０１］",
+      "en": "using heated wet elements",
+      "count": 1987,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F6/10": {
+      "code": "F24F6/10",
+      "level": 3,
+      "parent": "F24F6/08",
+      "ja": "電気的に加熱されるもの［２００６．０１］",
+      "en": "heated electrically",
+      "count": 3007,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F6/12": {
+      "code": "F24F6/12",
+      "level": 1,
+      "parent": "F24F6/00",
+      "ja": "空気中で水を撒布することによるもの［２００６．０１］",
+      "en": "by forming water dispersions in the air",
+      "count": 15571,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F6/14": {
+      "code": "F24F6/14",
+      "level": 2,
+      "parent": "F24F6/12",
+      "ja": "ノズルを用いるもの［２００６．０１］",
+      "en": "using nozzles",
+      "count": 5206,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F6/16": {
+      "code": "F24F6/16",
+      "level": 2,
+      "parent": "F24F6/12",
+      "ja": "回転部材を用いるもの［２００６．０１］",
+      "en": "using rotating elements",
+      "count": 1893,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F6/18": {
+      "code": "F24F6/18",
+      "level": 1,
+      "parent": "F24F6/00",
+      "ja": "空気中への蒸気の噴射によるもの［２００６．０１］",
+      "en": "by injection of steam into the air",
+      "count": 1099,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F7/00": {
+      "code": "F24F7/00",
+      "level": 0,
+      "parent": "F24F",
+      "ja": "換気［２０２１．０１］",
+      "en": "Ventilation",
+      "count": 18498,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F7/003": {
+      "code": "F24F7/003",
+      "level": 1,
+      "parent": "F24F7/00",
+      "ja": "空気浄化と組み合わされるもの［２０２１．０１］",
+      "en": "in combination with air cleaning",
+      "count": 16492,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F7/007": {
+      "code": "F24F7/007",
+      "level": 1,
+      "parent": "F24F7/00",
+      "ja": "強制流によるもの（ダクト装置を用いるものＦ２４Ｆ７／０６）［３］",
+      "en": "with forced flow(using ducting systems <b>F24F7/06</b>)",
+      "count": 26027,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F7/013": {
+      "code": "F24F7/013",
+      "level": 2,
+      "parent": "F24F7/007",
+      "ja": "壁または窓を通して空気を入れ換えるウォールファンまたはウインドファンを用いるもの［３］",
+      "en": "using wall or window fans, displacing air through the wall or window",
+      "count": 10883,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F7/02": {
+      "code": "F24F7/02",
+      "level": 1,
+      "parent": "F24F7/00",
+      "ja": "屋上換気（屋根ふきの換気Ｅ０４Ｄ）［３，６］",
+      "en": "Roof ventilation(ventilation of roof coverings <b>E04D</b>)",
+      "count": 6039,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F7/04": {
+      "code": "F24F7/04",
+      "level": 1,
+      "parent": "F24F7/00",
+      "ja": "ダクト系統をもつもの",
+      "en": "with ducting systems",
+      "count": 8000,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F7/06": {
+      "code": "F24F7/06",
+      "level": 2,
+      "parent": "F24F7/04",
+      "ja": "強制空気循環手段をもつもの，例．扇風機によるもの",
+      "en": "with forced air circulation, e.g. by fan",
+      "count": 36943,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F7/08": {
+      "code": "F24F7/08",
+      "level": 3,
+      "parent": "F24F7/06",
+      "ja": "給気と排気のために別個のダクトをもつもの［３］",
+      "en": "with separate ducts for supplied and exhausted air",
+      "count": 17059,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F7/10": {
+      "code": "F24F7/10",
+      "level": 3,
+      "parent": "F24F7/06",
+      "ja": "穴のある壁，床または天井を通して給気または排気されるもの（空気を方向づけまたは分配するための内部部材Ｆ２４Ｆ１３／０６）［３］",
+      "en": "with air supply, or exhaust, through perforated wall, floor or ceiling(outlet members for directing or distributing air <b>F24F13/06</b>)",
+      "count": 7048,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F8/00": {
+      "code": "F24F8/00",
+      "level": 0,
+      "parent": "F24F",
+      "ja": "人の住居空間または作業空間に供給される空気の，加熱，冷却，加湿または除湿以外の処理，例．浄化［２０２１．０１］",
+      "en": "Treatment, e.g. purification, of air supplied to human living or working spaces otherwise than by heating, cooling, humidifying or drying",
+      "count": 1555,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F8/10": {
+      "code": "F24F8/10",
+      "level": 1,
+      "parent": "F24F8/00",
+      "ja": "分離によるもの，例．ろ過によるもの［２０２１．０１］",
+      "en": "by separation, e.g. by filtering",
+      "count": 5813,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F8/108": {
+      "code": "F24F8/108",
+      "level": 2,
+      "parent": "F24F8/10",
+      "ja": "乾式フィルター要素を用いるもの［２０２１．０１］",
+      "en": "using dry filter elements",
+      "count": 31664,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F8/117": {
+      "code": "F24F8/117",
+      "level": 2,
+      "parent": "F24F8/10",
+      "ja": "湿式ろ過を用いるもの［２０２１．０１］",
+      "en": "using wet filtering",
+      "count": 395,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F8/125": {
+      "code": "F24F8/125",
+      "level": 3,
+      "parent": "F24F8/117",
+      "ja": "湿式フィルター要素を用いるもの［２０２１．０１］",
+      "en": "using wet filter elements",
+      "count": 620,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F8/133": {
+      "code": "F24F8/133",
+      "level": 3,
+      "parent": "F24F8/117",
+      "ja": "液体，例．噴霧液，との直接接触によるもの［２０２１．０１］",
+      "en": "by direct contact with liquid, e.g. with sprayed liquid",
+      "count": 3560,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F8/142": {
+      "code": "F24F8/142",
+      "level": 3,
+      "parent": "F24F8/117",
+      "ja": "使用済み液体の処理，例．再生利用のための浄化［２０２１．０１］",
+      "en": "Treatment of used liquid, e.g. cleaning for recycling",
+      "count": 167,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F8/15": {
+      "code": "F24F8/15",
+      "level": 2,
+      "parent": "F24F8/10",
+      "ja": "化学的手段によるもの［２０２１．０１］",
+      "en": "by chemical means",
+      "count": 906,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F8/158": {
+      "code": "F24F8/158",
+      "level": 3,
+      "parent": "F24F8/15",
+      "ja": "活性炭を用いるもの［２０２１．０１］",
+      "en": "using active carbon",
+      "count": 7733,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F8/167": {
+      "code": "F24F8/167",
+      "level": 3,
+      "parent": "F24F8/15",
+      "ja": "触媒反応を利用するもの［２０２１．０１］",
+      "en": "using catalytic reactions",
+      "count": 3187,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F8/175": {
+      "code": "F24F8/175",
+      "level": 2,
+      "parent": "F24F8/10",
+      "ja": "生物学的材料，植物または微生物を用いるもの［２０２１．０１］",
+      "en": "using biological materials, plants or microorganisms",
+      "count": 541,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F8/183": {
+      "code": "F24F8/183",
+      "level": 2,
+      "parent": "F24F8/10",
+      "ja": "遠心分離によるもの，例．渦を用いるもの［２０２１．０１］",
+      "en": "by centrifugal separation, e.g. using vortices",
+      "count": 147,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F8/192": {
+      "code": "F24F8/192",
+      "level": 2,
+      "parent": "F24F8/10",
+      "ja": "電気的手段によるもの，例．静電界または高電圧の印加によるもの［２０２１．０１］",
+      "en": "by electrical means, e.g. by applying electrostatic fields or high voltages",
+      "count": 3819,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F8/20": {
+      "code": "F24F8/20",
+      "level": 1,
+      "parent": "F24F8/00",
+      "ja": "殺菌によるもの［２０２１．０１］",
+      "en": "by sterilisation",
+      "count": 3965,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F8/22": {
+      "code": "F24F8/22",
+      "level": 2,
+      "parent": "F24F8/20",
+      "ja": "紫外線を用いるもの［２０２１．０１］",
+      "en": "using UV light",
+      "count": 9358,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F8/24": {
+      "code": "F24F8/24",
+      "level": 2,
+      "parent": "F24F8/20",
+      "ja": "殺菌媒体を用いるもの［２０２１．０１］",
+      "en": "using sterilising media",
+      "count": 3484,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F8/26": {
+      "code": "F24F8/26",
+      "level": 3,
+      "parent": "F24F8/24",
+      "ja": "オゾンを用いるもの［２０２１．０１］",
+      "en": "using ozone",
+      "count": 1327,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F8/28": {
+      "code": "F24F8/28",
+      "level": 2,
+      "parent": "F24F8/20",
+      "ja": "レジオネラ属菌の除菌または忌避に特に適したもの［２０２１．０１］",
+      "en": "specially adapted for combatting or avoiding Legionella bacteria",
+      "count": 32,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F8/30": {
+      "code": "F24F8/30",
+      "level": 1,
+      "parent": "F24F8/00",
+      "ja": "イオン化によるもの［２０２１．０１］",
+      "en": "by ionisation",
+      "count": 6940,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F8/40": {
+      "code": "F24F8/40",
+      "level": 1,
+      "parent": "F24F8/00",
+      "ja": "オゾン化によるもの（殺菌のためのものＦ２４Ｆ８／２６）［２０２１．０１］",
+      "en": "by ozonisation(for sterilisation <b>F24F8/26</b>)",
+      "count": 302,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F8/50": {
+      "code": "F24F8/50",
+      "level": 1,
+      "parent": "F24F8/00",
+      "ja": "香りによるもの［２０２１．０１］",
+      "en": "by odorisation",
+      "count": 2452,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F8/60": {
+      "code": "F24F8/60",
+      "level": 1,
+      "parent": "F24F8/00",
+      "ja": "酸素の添加によるもの［２０２１．０１］",
+      "en": "by adding oxygen",
+      "count": 1180,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F8/70": {
+      "code": "F24F8/70",
+      "level": 1,
+      "parent": "F24F8/00",
+      "ja": "ラドンの除去によるもの［２０２１．０１］",
+      "en": "by removing radon",
+      "count": 36,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F8/80": {
+      "code": "F24F8/80",
+      "level": 1,
+      "parent": "F24F8/00",
+      "ja": "自納式空気清浄機［２０２１．０１］",
+      "en": "Self-contained air purifiers",
+      "count": 7640,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F8/90": {
+      "code": "F24F8/90",
+      "level": 1,
+      "parent": "F24F8/00",
+      "ja": "浄化装置の清掃［２０２１．０１］",
+      "en": "Cleaning of purification apparatus",
+      "count": 8774,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F8/95": {
+      "code": "F24F8/95",
+      "level": 1,
+      "parent": "F24F8/00",
+      "ja": "特定の目的に特に適したもの［２０２１．０１］",
+      "en": "specially adapted for specific purposes",
+      "count": 1002,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F8/96": {
+      "code": "F24F8/96",
+      "level": 2,
+      "parent": "F24F8/95",
+      "ja": "花粉を除去するためのもの［２０２１．０１］",
+      "en": "for removing pollen",
+      "count": 28,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F8/97": {
+      "code": "F24F8/97",
+      "level": 2,
+      "parent": "F24F8/95",
+      "ja": "たばこの煙を除去するためのもの［２０２１．０１］",
+      "en": "for removing tobacco smoke",
+      "count": 154,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F8/98": {
+      "code": "F24F8/98",
+      "level": 2,
+      "parent": "F24F8/95",
+      "ja": "オゾンを除去するためのもの［２０２１．０１］",
+      "en": "for removing ozone",
+      "count": 272,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F8/99": {
+      "code": "F24F8/99",
+      "level": 2,
+      "parent": "F24F8/95",
+      "ja": "都市部，例．道路，からの空気を処理するためのもの［２０２１．０１］",
+      "en": "for treating air sourced from urban areas, e.g. from streets",
+      "count": 171,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F9/00": {
+      "code": "F24F9/00",
+      "level": 0,
+      "parent": "F24F",
+      "ja": "しゃへいのための気流の利用，例．エアカーテン",
+      "en": "Use of air currents for screening, e.g. air curtains",
+      "count": 5853,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F11/00": {
+      "code": "F24F11/00",
+      "level": 0,
+      "parent": "F24F",
+      "ja": "制御または安全方式またはそれらの装置［２０１８．０１］<br><br><b><ul>注</ul></b><br>このグループでは，グループＦ２４Ｆ１１０／００～Ｆ２４Ｆ１４０／００のインデキシングコードを追加することが望ましい。",
+      "en": "Control or safety arrangements; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this group, it is desirable to add the indexing codes of groups <b>F24F110/00 to F24F140/00</b> .</li></ul>",
+      "count": 40131,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F11/30": {
+      "code": "F24F11/30",
+      "level": 1,
+      "parent": "F24F11/00",
+      "ja": "システムの動作に関連する目的のもの，例．安全性または監視のため［２０１８．０１］",
+      "en": "for purposes related to the operation of the system, e.g. for safety or monitoring",
+      "count": 10264,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F11/32": {
+      "code": "F24F11/32",
+      "level": 2,
+      "parent": "F24F11/30",
+      "ja": "故障または緊急事態に応答するもの［２０１８．０１］",
+      "en": "Responding to malfunctions or emergencies",
+      "count": 3350,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F11/33": {
+      "code": "F24F11/33",
+      "level": 3,
+      "parent": "F24F11/32",
+      "ja": "火事，猛暑または煙への応答［２０１８．０１］",
+      "en": "to fire, excessive heat or smoke",
+      "count": 1041,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F11/34": {
+      "code": "F24F11/34",
+      "level": 4,
+      "parent": "F24F11/33",
+      "ja": "通気路の開放によるもの［２０１８．０１］",
+      "en": "by opening air passages",
+      "count": 677,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F11/35": {
+      "code": "F24F11/35",
+      "level": 4,
+      "parent": "F24F11/33",
+      "ja": "通気路の閉鎖によるもの［２０１８．０１］",
+      "en": "by closing air passages",
+      "count": 233,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F11/36": {
+      "code": "F24F11/36",
+      "level": 3,
+      "parent": "F24F11/32",
+      "ja": "熱交換流体の漏れへの応答［２０１８．０１］",
+      "en": "to leakage of heat-exchange fluid",
+      "count": 1813,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F11/37": {
+      "code": "F24F11/37",
+      "level": 3,
+      "parent": "F24F11/32",
+      "ja": "再起動，例．停電後；緊急始動［２０１８．０１］",
+      "en": "Resuming operation, e.g. after power outages; Emergency starting",
+      "count": 202,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F11/38": {
+      "code": "F24F11/38",
+      "level": 3,
+      "parent": "F24F11/32",
+      "ja": "故障診断［２０１８．０１］",
+      "en": "Failure diagnosis",
+      "count": 3552,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F11/39": {
+      "code": "F24F11/39",
+      "level": 3,
+      "parent": "F24F11/32",
+      "ja": "フィルターの性能監視［２０１８．０１］",
+      "en": "Monitoring filter performance",
+      "count": 2748,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F11/41": {
+      "code": "F24F11/41",
+      "level": 2,
+      "parent": "F24F11/30",
+      "ja": "除霜；凍結防止［２０１８．０１］",
+      "en": "Defrosting; Preventing freezing",
+      "count": 2214,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F11/42": {
+      "code": "F24F11/42",
+      "level": 3,
+      "parent": "F24F11/41",
+      "ja": "室外機の［２０１８．０１］",
+      "en": "of outdoor units",
+      "count": 2809,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F11/43": {
+      "code": "F24F11/43",
+      "level": 3,
+      "parent": "F24F11/41",
+      "ja": "室内機の［２０１８．０１］",
+      "en": "of indoor units",
+      "count": 735,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F11/46": {
+      "code": "F24F11/46",
+      "level": 2,
+      "parent": "F24F11/30",
+      "ja": "電気エネルギーの効率または節電性能を向上させること［２０１８．０１］",
+      "en": "Improving electric energy efficiency or saving",
+      "count": 7806,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F11/47": {
+      "code": "F24F11/47",
+      "level": 3,
+      "parent": "F24F11/46",
+      "ja": "エネルギーコストに応答するもの［２０１８．０１］",
+      "en": "Responding to energy costs",
+      "count": 1597,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F11/48": {
+      "code": "F24F11/48",
+      "level": 2,
+      "parent": "F24F11/30",
+      "ja": "通常動作に先立って行うもの，例．予熱または予冷［２０１８．０１］",
+      "en": "prior to normal operation, e.g. pre-heating or pre-cooling",
+      "count": 468,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F11/49": {
+      "code": "F24F11/49",
+      "level": 2,
+      "parent": "F24F11/30",
+      "ja": "正しい動作の担保，例．試運転または系統検査によるもの［２０１８．０１］",
+      "en": "ensuring correct operation, e.g. by trial operation or configuration checks",
+      "count": 2951,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F11/50": {
+      "code": "F24F11/50",
+      "level": 1,
+      "parent": "F24F11/00",
+      "ja": "ユーザインターフェースまたは通信により特徴付けられるもの［２０１８．０１］",
+      "en": "characterised by user interfaces or communication",
+      "count": 1631,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F11/52": {
+      "code": "F24F11/52",
+      "level": 2,
+      "parent": "F24F11/50",
+      "ja": "表示装置，例．ディスプレイ［２０１８．０１］",
+      "en": "Indication arrangements, e.g. displays",
+      "count": 14566,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F11/523": {
+      "code": "F24F11/523",
+      "level": 3,
+      "parent": "F24F11/52",
+      "ja": "温度データを表示するためのもの［２０１８．０１］",
+      "en": "for displaying temperature data",
+      "count": 590,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F11/526": {
+      "code": "F24F11/526",
+      "level": 3,
+      "parent": "F24F11/52",
+      "ja": "音により表示するもの［２０１８．０１］",
+      "en": "giving audible indications",
+      "count": 2095,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F11/54": {
+      "code": "F24F11/54",
+      "level": 2,
+      "parent": "F24F11/50",
+      "ja": "複数の副制御装置に接続される１つの中央制御装置を用いるもの［２０１８．０１］",
+      "en": "using one central controller connected to several sub-controllers",
+      "count": 5989,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F11/56": {
+      "code": "F24F11/56",
+      "level": 2,
+      "parent": "F24F11/50",
+      "ja": "遠隔制御［２０１８．０１］",
+      "en": "Remote control",
+      "count": 8690,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F11/57": {
+      "code": "F24F11/57",
+      "level": 3,
+      "parent": "F24F11/56",
+      "ja": "電話網を用いるもの［２０１８．０１］",
+      "en": "using telephone networks",
+      "count": 496,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F11/58": {
+      "code": "F24F11/58",
+      "level": 3,
+      "parent": "F24F11/56",
+      "ja": "インターネット通信を用いるもの［２０１８．０１］",
+      "en": "using Internet communication",
+      "count": 8307,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F11/59": {
+      "code": "F24F11/59",
+      "level": 3,
+      "parent": "F24F11/56",
+      "ja": "プレセットするためのもの［２０１８．０１］",
+      "en": "for presetting",
+      "count": 291,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F11/61": {
+      "code": "F24F11/61",
+      "level": 2,
+      "parent": "F24F11/50",
+      "ja": "タイマーを用いるもの［２０１８．０１］",
+      "en": "using timers",
+      "count": 13353,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F11/62": {
+      "code": "F24F11/62",
+      "level": 1,
+      "parent": "F24F11/00",
+      "ja": "制御方式または内部処理により特徴付けられるもの，例．ファジー論理，適応制御または値の推定［２０１８．０１］",
+      "en": "characterised by the type of control or by internal processing, e.g. using fuzzy logic, adaptive control or estimation of values",
+      "count": 5268,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F11/63": {
+      "code": "F24F11/63",
+      "level": 2,
+      "parent": "F24F11/62",
+      "ja": "電子的処理［２０１８．０１］",
+      "en": "Electronic processing",
+      "count": 4503,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F11/64": {
+      "code": "F24F11/64",
+      "level": 3,
+      "parent": "F24F11/63",
+      "ja": "事前に保存されたデータを用いるもの［２０１８．０１］",
+      "en": "using pre-stored data",
+      "count": 45110,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F11/65": {
+      "code": "F24F11/65",
+      "level": 3,
+      "parent": "F24F11/63",
+      "ja": "運転モードを選択するためのもの［２０１８．０１］",
+      "en": "for selecting an operating mode",
+      "count": 18624,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F11/66": {
+      "code": "F24F11/66",
+      "level": 4,
+      "parent": "F24F11/65",
+      "ja": "スリープモード［２０１８．０１］",
+      "en": "Sleep mode",
+      "count": 791,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F11/67": {
+      "code": "F24F11/67",
+      "level": 4,
+      "parent": "F24F11/65",
+      "ja": "加熱および冷却モード間の切換［２０１８．０１］",
+      "en": "Switching between heating and cooling modes",
+      "count": 2708,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F11/70": {
+      "code": "F24F11/70",
+      "level": 1,
+      "parent": "F24F11/00",
+      "ja": "出力により特徴付けられる制御システム；その細部構造［２０１８．０１］",
+      "en": "Control systems characterised by their outputs; Constructional details thereof",
+      "count": 9798,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F11/72": {
+      "code": "F24F11/72",
+      "level": 2,
+      "parent": "F24F11/70",
+      "ja": "処理される空気の供給，例．その圧力，を制御するもの［２０１８．０１］",
+      "en": "for controlling the supply of treated air, e.g. its pressure",
+      "count": 6937,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F11/74": {
+      "code": "F24F11/74",
+      "level": 3,
+      "parent": "F24F11/72",
+      "ja": "空気流量または流速を制御するもの［２０１８．０１］",
+      "en": "for controlling air flow rate or air velocity",
+      "count": 10499,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F11/75": {
+      "code": "F24F11/75",
+      "level": 4,
+      "parent": "F24F11/74",
+      "ja": "空気流量または流速を一定に維持するもの［２０１８．０１］",
+      "en": "for maintaining constant air flow rate or air velocity",
+      "count": 961,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F11/755": {
+      "code": "F24F11/755",
+      "level": 4,
+      "parent": "F24F11/74",
+      "ja": "空気流量または流速の周期的な変化のためのもの［２０１８．０１］",
+      "en": "for cyclical variation of air flow rate or air velocity ",
+      "count": 86,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F11/76": {
+      "code": "F24F11/76",
+      "level": 4,
+      "parent": "F24F11/74",
+      "ja": "温度に反応する手段によるもの，例．バイメタルばね［２０１８．０１］",
+      "en": "by means responsive to temperature, e.g. bimetal springs",
+      "count": 3530,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F11/77": {
+      "code": "F24F11/77",
+      "level": 4,
+      "parent": "F24F11/74",
+      "ja": "換気扇の速度を制御するもの［２０１８．０１］",
+      "en": "by controlling the speed of ventilators",
+      "count": 10715,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F11/79": {
+      "code": "F24F11/79",
+      "level": 3,
+      "parent": "F24F11/72",
+      "ja": "供給される空気の方向を制御するもの［２０１８．０１］",
+      "en": "for controlling the direction of the supplied air",
+      "count": 7625,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F11/80": {
+      "code": "F24F11/80",
+      "level": 2,
+      "parent": "F24F11/70",
+      "ja": "供給される空気の温度を制御するもの［２０１８．０１］",
+      "en": "for controlling the temperature of the supplied air",
+      "count": 4583,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F11/81": {
+      "code": "F24F11/81",
+      "level": 3,
+      "parent": "F24F11/80",
+      "ja": "熱交換器またはバイパス路への空気供給の制御によるもの［２０１８．０１］",
+      "en": "by controlling the air supply to heat-exchangers or bypass channels",
+      "count": 659,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F11/83": {
+      "code": "F24F11/83",
+      "level": 3,
+      "parent": "F24F11/80",
+      "ja": "熱交換器への熱交換流体の供給を制御することによるもの［２０１８．０１］",
+      "en": "by controlling the supply of heat-exchange fluids to heat-exchangers",
+      "count": 1503,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F11/84": {
+      "code": "F24F11/84",
+      "level": 4,
+      "parent": "F24F11/83",
+      "ja": "弁を用いるもの［２０１８．０１］",
+      "en": "using valves",
+      "count": 9361,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F11/85": {
+      "code": "F24F11/85",
+      "level": 4,
+      "parent": "F24F11/83",
+      "ja": "可変流量ポンプを用いるもの［２０１８．０１］",
+      "en": "using variable-flow pumps",
+      "count": 1932,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F11/86": {
+      "code": "F24F11/86",
+      "level": 3,
+      "parent": "F24F11/80",
+      "ja": "冷凍回路またはヒートポンプ回路内で圧縮機を制御するもの［２０１８．０１］",
+      "en": "by controlling compressors within refrigeration or heat pump circuits",
+      "count": 8442,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F11/87": {
+      "code": "F24F11/87",
+      "level": 3,
+      "parent": "F24F11/80",
+      "ja": "室外機における吸熱または放熱を制御するもの［２０１８．０１］",
+      "en": "by controlling absorption or discharge of heat in outdoor units",
+      "count": 210,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F11/871": {
+      "code": "F24F11/871",
+      "level": 4,
+      "parent": "F24F11/87",
+      "ja": "室外送風機を制御するもの［２０１８．０１］",
+      "en": "by controlling outdoor fans",
+      "count": 1389,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F11/873": {
+      "code": "F24F11/873",
+      "level": 3,
+      "parent": "F24F11/80",
+      "ja": "冷媒ヒーターを制御するもの［２０１８．０１］",
+      "en": "by controlling refrigerant heaters",
+      "count": 323,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F11/875": {
+      "code": "F24F11/875",
+      "level": 3,
+      "parent": "F24F11/80",
+      "ja": "蓄熱装置を制御するもの［２０１８．０１］",
+      "en": "by controlling heat-storage apparatus",
+      "count": 265,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F11/88": {
+      "code": "F24F11/88",
+      "level": 1,
+      "parent": "F24F11/00",
+      "ja": "電気的観点，例．回路［２０１８．０１］",
+      "en": "Electrical aspects, e.g. circuits",
+      "count": 17345,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F11/89": {
+      "code": "F24F11/89",
+      "level": 1,
+      "parent": "F24F11/00",
+      "ja": "制御または安全装置の配置または取り付け［２０１８．０１］",
+      "en": "Arrangement or mounting of control or safety devices",
+      "count": 50143,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F12/00": {
+      "code": "F24F12/00",
+      "level": 0,
+      "parent": "F24F",
+      "ja": "空気調和，換気またはろ過におけるエネルギ回収システムを用いるもの（給気と排気間で熱伝達および湿度伝達の双方がなされるものＦ２４Ｆ３／１４７）［４］",
+      "en": "Use of energy recovery systems in air conditioning, ventilation or screening(with both heat and humidity transfer between supplied and exhausted air <b>F24F3/147</b>)",
+      "count": 15244,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F13/00": {
+      "code": "F24F13/00",
+      "level": 0,
+      "parent": "F24F",
+      "ja": "空気調和，空気加湿，換気またはしゃへいのための気流の利用に共通，またはそれらのための細部",
+      "en": "Details common to, or for air-conditioning, air-humidification, ventilation or use of air currents for screening",
+      "count": 34784,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F13/02": {
+      "code": "F24F13/02",
+      "level": 1,
+      "parent": "F24F13/00",
+      "ja": "ダクトの構成",
+      "en": "Ducting arrangements",
+      "count": 35906,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F13/04": {
+      "code": "F24F13/04",
+      "level": 2,
+      "parent": "F24F13/02",
+      "ja": "空気混合ユニット（Ｆ２４Ｆ１３／０６が優先）",
+      "en": "Air-mixing units(<b>F24F13/06</b> takes precedence)",
+      "count": 1330,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F13/06": {
+      "code": "F24F13/06",
+      "level": 2,
+      "parent": "F24F13/02",
+      "ja": "部屋または空間に空気を指し向けるためのまたは分布させるための吹出口，例．天井空気拡散器",
+      "en": "Outlets for directing or distributing air into rooms or spaces, e.g. ceiling air diffuser",
+      "count": 17581,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F13/062": {
+      "code": "F24F13/062",
+      "level": 3,
+      "parent": "F24F13/06",
+      "ja": "流れ方向に拡開する少なくとも１つ以上の椀体または円錐体を持つもの［３］",
+      "en": "having one or more bowls or cones diverging in the flow direction",
+      "count": 1221,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F13/065": {
+      "code": "F24F13/065",
+      "level": 3,
+      "parent": "F24F13/06",
+      "ja": "回転可能な円筒体または球体として形成されたもの［３］",
+      "en": "formed as cylindrical or spherical bodies which are rotatable",
+      "count": 1178,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F13/068": {
+      "code": "F24F13/068",
+      "level": 3,
+      "parent": "F24F13/06",
+      "ja": "穴のある壁，天井または床として形成されたもの（Ｆ２４Ｆ１３／０７８が優先）［３］",
+      "en": "formed as perforated walls, ceilings or floors(<b>F24F13/078</b> takes precedence)",
+      "count": 3066,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F13/072": {
+      "code": "F24F13/072",
+      "level": 3,
+      "parent": "F24F13/06",
+      "ja": "伸長形のもの，例．天井パネル間で［３］",
+      "en": "of elongated shape, e.g. between ceiling panels",
+      "count": 1459,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F13/075": {
+      "code": "F24F13/075",
+      "level": 3,
+      "parent": "F24F13/06",
+      "ja": "流出を指向せしめる平行な桿または薄板，例．独立に調節可能な桿または薄板，をもつもの（Ｆ２４Ｆ１３／０７２が優先）［３］",
+      "en": "having parallel rods or lamellae directing the outflow, e.g. the rods or lamellae being individually adjustable(<b>F24F13/072</b> takes precedence)",
+      "count": 1490,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F13/078": {
+      "code": "F24F13/078",
+      "level": 3,
+      "parent": "F24F13/06",
+      "ja": "照明器具に結合されたもの［３］",
+      "en": "combined with lighting fixtures",
+      "count": 1377,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F13/08": {
+      "code": "F24F13/08",
+      "level": 1,
+      "parent": "F24F13/00",
+      "ja": "空気流制御部材，例．ルーバ，格子，羽根，案内板（Ｆ２４Ｆ７／０１３，Ｆ２４Ｆ１３／０６が優先）［３］",
+      "en": "Air-flow control members, e.g. louvres, grilles, flaps or guide plates(<b>F24F7/013</b>, <b>F24F13/06</b> take precedence)",
+      "count": 26584,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F13/10": {
+      "code": "F24F13/10",
+      "level": 2,
+      "parent": "F24F13/08",
+      "ja": "可動なもの，例．ダンパ",
+      "en": "movable, e.g. dampers",
+      "count": 17290,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F13/12": {
+      "code": "F24F13/12",
+      "level": 3,
+      "parent": "F24F13/10",
+      "ja": "滑動する部材から組み立てられたもの",
+      "en": "built-up of sliding members",
+      "count": 4074,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F13/14": {
+      "code": "F24F13/14",
+      "level": 3,
+      "parent": "F24F13/10",
+      "ja": "傾動する部材，例．ルーバ，から組み立てられたもの",
+      "en": "built-up of tilting members, e.g. louvre",
+      "count": 24864,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F13/15": {
+      "code": "F24F13/15",
+      "level": 4,
+      "parent": "F24F13/14",
+      "ja": "同時に傾動する平行な薄板をもつもの［３］",
+      "en": "with parallel simultaneously tiltable lamellae",
+      "count": 10593,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F13/16": {
+      "code": "F24F13/16",
+      "level": 3,
+      "parent": "F24F13/10",
+      "ja": "並列的に可動の板で組み立てられたもの",
+      "en": "built-up of parallelly-movable plates",
+      "count": 903,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F13/18": {
+      "code": "F24F13/18",
+      "level": 2,
+      "parent": "F24F13/08",
+      "ja": "平坦なパネル，例．ドアまたは窓わく，にそう入するよう特別に適用されたもの［２００６．０１］",
+      "en": "specially adapted for insertion in flat panels, e.g. in door or window-pane",
+      "count": 1039,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F13/20": {
+      "code": "F24F13/20",
+      "level": 1,
+      "parent": "F24F13/00",
+      "ja": "ケーシングまたはカバー［５］",
+      "en": "Casings or covers",
+      "count": 61618,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F13/22": {
+      "code": "F24F13/22",
+      "level": 1,
+      "parent": "F24F13/00",
+      "ja": "凝縮防止または凝縮物排除のための手段［５］",
+      "en": "Means for preventing condensation or evacuating condensate",
+      "count": 36496,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F13/24": {
+      "code": "F24F13/24",
+      "level": 1,
+      "parent": "F24F13/00",
+      "ja": "騒音防止または騒音抑制のための手段［５］",
+      "en": "Means for preventing or suppressing noise",
+      "count": 24540,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F13/26": {
+      "code": "F24F13/26",
+      "level": 1,
+      "parent": "F24F13/00",
+      "ja": "誘導手段による空気循環用装置，例．流体結合または熱効果によるもの［６］",
+      "en": "Arrangements for air-circulation by means of induction, e.g. by fluid coupling or thermal effect",
+      "count": 872,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F13/28": {
+      "code": "F24F13/28",
+      "level": 1,
+      "parent": "F24F13/00",
+      "ja": "フィルタの配置または取り付け［６］",
+      "en": "Arrangement or mounting of filters",
+      "count": 80773,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F13/30": {
+      "code": "F24F13/30",
+      "level": 1,
+      "parent": "F24F13/00",
+      "ja": "熱交換器の配置または取り付け［６］",
+      "en": "Arrangement or mounting of heat-exchangers",
+      "count": 39721,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F13/32": {
+      "code": "F24F13/32",
+      "level": 1,
+      "parent": "F24F13/00",
+      "ja": "空気調節，加湿または換気装置用支持具［６］",
+      "en": "Supports for air-conditioning, air-humidification or ventilation units",
+      "count": 31831,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F110/00": {
+      "code": "F24F110/00",
+      "level": 0,
+      "parent": "F24F",
+      "ja": "空気の特性に関連する制御インプット［２０１８．０１］",
+      "en": "Control inputs relating to air properties",
+      "count": 557,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F110/10": {
+      "code": "F24F110/10",
+      "level": 1,
+      "parent": "F24F110/00",
+      "ja": "気温［２０１８．０１］",
+      "en": "Temperature",
+      "count": 20770,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F110/12": {
+      "code": "F24F110/12",
+      "level": 2,
+      "parent": "F24F110/10",
+      "ja": "外気のもの［２０１８．０１］",
+      "en": "of the outside air",
+      "count": 6136,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F110/20": {
+      "code": "F24F110/20",
+      "level": 1,
+      "parent": "F24F110/00",
+      "ja": "湿度［２０１８．０１］",
+      "en": "Humidity",
+      "count": 11612,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F110/22": {
+      "code": "F24F110/22",
+      "level": 2,
+      "parent": "F24F110/20",
+      "ja": "外気のもの［２０１８．０１］",
+      "en": "of the outside air",
+      "count": 1180,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F110/30": {
+      "code": "F24F110/30",
+      "level": 1,
+      "parent": "F24F110/00",
+      "ja": "速度［２０１８．０１］",
+      "en": "Velocity",
+      "count": 1650,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F110/32": {
+      "code": "F24F110/32",
+      "level": 2,
+      "parent": "F24F110/30",
+      "ja": "外気のもの［２０１８．０１］",
+      "en": "of the outside air",
+      "count": 220,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F110/40": {
+      "code": "F24F110/40",
+      "level": 1,
+      "parent": "F24F110/00",
+      "ja": "圧力，例．風圧［２０１８．０１］",
+      "en": "Pressure, e.g. wind pressure",
+      "count": 1935,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F110/50": {
+      "code": "F24F110/50",
+      "level": 1,
+      "parent": "F24F110/00",
+      "ja": "空気の質の特性［２０１８．０１］",
+      "en": "Air quality properties",
+      "count": 3734,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F110/52": {
+      "code": "F24F110/52",
+      "level": 2,
+      "parent": "F24F110/50",
+      "ja": "外気のもの［２０１８．０１］",
+      "en": "of the outside air",
+      "count": 256,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F110/60": {
+      "code": "F24F110/60",
+      "level": 2,
+      "parent": "F24F110/50",
+      "ja": "匂い［２０１８．０１］",
+      "en": "Odour",
+      "count": 255,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F110/62": {
+      "code": "F24F110/62",
+      "level": 2,
+      "parent": "F24F110/50",
+      "ja": "タバコの煙［２０１８．０１］",
+      "en": "Tobacco smoke",
+      "count": 149,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F110/64": {
+      "code": "F24F110/64",
+      "level": 2,
+      "parent": "F24F110/50",
+      "ja": "空中浮遊粒子の含有量［２０１８．０１］",
+      "en": "Airborne particle content",
+      "count": 3608,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F110/65": {
+      "code": "F24F110/65",
+      "level": 2,
+      "parent": "F24F110/50",
+      "ja": "特定の物質または汚染物質の濃度［２０１８．０１］",
+      "en": "Concentration of specific substances or contaminants",
+      "count": 1908,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F110/66": {
+      "code": "F24F110/66",
+      "level": 3,
+      "parent": "F24F110/65",
+      "ja": "揮発性有機物質［ＶＯＣ］［２０１８．０１］",
+      "en": "Volatile organic compounds [VOC]",
+      "count": 1292,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F110/68": {
+      "code": "F24F110/68",
+      "level": 3,
+      "parent": "F24F110/65",
+      "ja": "ラドン［２０１８．０１］",
+      "en": "Radon",
+      "count": 77,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F110/70": {
+      "code": "F24F110/70",
+      "level": 3,
+      "parent": "F24F110/65",
+      "ja": "二酸化炭素［２０１８．０１］",
+      "en": "Carbon dioxide",
+      "count": 2802,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F110/72": {
+      "code": "F24F110/72",
+      "level": 3,
+      "parent": "F24F110/65",
+      "ja": "一酸化炭素［２０１８．０１］",
+      "en": "Carbon monoxide",
+      "count": 415,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F110/74": {
+      "code": "F24F110/74",
+      "level": 3,
+      "parent": "F24F110/65",
+      "ja": "オゾン［２０１８．０１］",
+      "en": "Ozone",
+      "count": 268,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F110/76": {
+      "code": "F24F110/76",
+      "level": 3,
+      "parent": "F24F110/65",
+      "ja": "酸素［２０１８．０１］",
+      "en": "Oxygen",
+      "count": 776,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F110/80": {
+      "code": "F24F110/80",
+      "level": 2,
+      "parent": "F24F110/50",
+      "ja": "電荷［２０１８．０１］",
+      "en": "Electric charge",
+      "count": 14,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F120/00": {
+      "code": "F24F120/00",
+      "level": 0,
+      "parent": "F24F",
+      "ja": "ユーザまたは占有者に関連する制御インプット［２０１８．０１］",
+      "en": "Control inputs relating to users or occupants",
+      "count": 245,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F120/10": {
+      "code": "F24F120/10",
+      "level": 1,
+      "parent": "F24F120/00",
+      "ja": "占有［２０１８．０１］",
+      "en": "Occupancy",
+      "count": 3495,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F120/12": {
+      "code": "F24F120/12",
+      "level": 2,
+      "parent": "F24F120/10",
+      "ja": "占有者の位置［２０１８．０１］",
+      "en": "Position of occupants",
+      "count": 2287,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F120/14": {
+      "code": "F24F120/14",
+      "level": 2,
+      "parent": "F24F120/10",
+      "ja": "占有者の活動［２０１８．０１］",
+      "en": "Activity of occupants",
+      "count": 1322,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F120/20": {
+      "code": "F24F120/20",
+      "level": 1,
+      "parent": "F24F120/00",
+      "ja": "ユーザからのフィードバック［２０１８．０１］",
+      "en": "Feedback from users",
+      "count": 1247,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F130/00": {
+      "code": "F24F130/00",
+      "level": 0,
+      "parent": "F24F",
+      "ja": "グループＦ２４Ｆ１１０／００に分類されない環境要素に関連する制御インプット［２０１８．０１］",
+      "en": "Control inputs relating to environmental factors not covered by group <b>F24F110/00</b>",
+      "count": 245,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F130/10": {
+      "code": "F24F130/10",
+      "level": 1,
+      "parent": "F24F130/00",
+      "ja": "気象情報または気象予測［２０１８．０１］",
+      "en": "Weather information or forecasts",
+      "count": 1027,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F130/20": {
+      "code": "F24F130/20",
+      "level": 1,
+      "parent": "F24F130/00",
+      "ja": "太陽光［２０１８．０１］",
+      "en": "Sunlight",
+      "count": 428,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F130/30": {
+      "code": "F24F130/30",
+      "level": 1,
+      "parent": "F24F130/00",
+      "ja": "人工光［２０１８．０１］",
+      "en": "Artificial light",
+      "count": 214,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F130/40": {
+      "code": "F24F130/40",
+      "level": 1,
+      "parent": "F24F130/00",
+      "ja": "騒音［２０１８．０１］",
+      "en": "Noise",
+      "count": 497,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F140/00": {
+      "code": "F24F140/00",
+      "level": 0,
+      "parent": "F24F",
+      "ja": "システム状態に関連する制御インプット［２０１８．０１］",
+      "en": "Control inputs relating to system states",
+      "count": 603,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F140/10": {
+      "code": "F24F140/10",
+      "level": 1,
+      "parent": "F24F140/00",
+      "ja": "圧力［２０１８．０１］",
+      "en": "Pressure",
+      "count": 368,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F140/12": {
+      "code": "F24F140/12",
+      "level": 2,
+      "parent": "F24F140/10",
+      "ja": "熱交換流体圧力［２０１８．０１］",
+      "en": "Heat-exchange fluid pressure",
+      "count": 1304,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F140/20": {
+      "code": "F24F140/20",
+      "level": 1,
+      "parent": "F24F140/00",
+      "ja": "熱交換流体温度［２０１８．０１］",
+      "en": "Heat-exchange fluid temperature",
+      "count": 5768,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F140/30": {
+      "code": "F24F140/30",
+      "level": 1,
+      "parent": "F24F140/00",
+      "ja": "被冷却空気からの水の凝縮［２０１８．０１］",
+      "en": "Condensation of water from cooled air  ",
+      "count": 140,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F140/40": {
+      "code": "F24F140/40",
+      "level": 1,
+      "parent": "F24F140/00",
+      "ja": "ダンパ位置，例．開放または閉鎖［２０１８．０１］",
+      "en": "Damper positions, e.g. open or closed",
+      "count": 496,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F140/50": {
+      "code": "F24F140/50",
+      "level": 1,
+      "parent": "F24F140/00",
+      "ja": "負荷［２０１８．０１］",
+      "en": "Load",
+      "count": 1102,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    },
+    "F24F140/60": {
+      "code": "F24F140/60",
+      "level": 1,
+      "parent": "F24F140/00",
+      "ja": "エネルギー消費［２０１８．０１］",
+      "en": "Energy consumption",
+      "count": 903,
+      "sourceFile": "ipc_F24F.txt",
+      "kind": "ipc"
+    }
+  }
+}

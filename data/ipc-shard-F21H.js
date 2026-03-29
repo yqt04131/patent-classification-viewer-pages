@@ -1,0 +1,86 @@
+window.IPC_SHARD_F21H = {
+  "generatedAt": "2026-03-20T02:17:46.864Z",
+  "total": 8,
+  "entries": {
+    "F21H": {
+      "code": "F21H",
+      "level": 0,
+      "parent": "F21",
+      "ja": "白熱マントル；燃焼によって熱せられるその他の白熱体",
+      "en": "INCANDESCENT MANTLES; OTHER INCANDESCENT BODIES HEATED BY COMBUSTION",
+      "count": 30,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F21": {
+      "code": "F21",
+      "level": 0,
+      "parent": "F",
+      "ja": "照明<br><br><b><ul>注</ul></b><br>セクションＨの注ＩＩＩ、特にクラスＦ２１に包含されるものと同じ技術主題の電気的な観点はサブクラスＨ０５Ｂに包含されることに、注意すること。",
+      "en": "LIGHTING",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F": {
+      "code": "F",
+      "level": 0,
+      "parent": null,
+      "ja": "機械工学；照明；加熱；武器；爆破",
+      "en": "MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F21H1/00": {
+      "code": "F21H1/00",
+      "level": 0,
+      "parent": "F21H",
+      "ja": "白熱マントル；吸入液体の選択",
+      "en": "Incandescent mantles; Selection of imbibition liquids therefor",
+      "count": 383,
+      "sourceFile": "ipc_F21H.txt",
+      "kind": "ipc"
+    },
+    "F21H1/02": {
+      "code": "F21H1/02",
+      "level": 1,
+      "parent": "F21H1/00",
+      "ja": "材料に特徴のあるもの",
+      "en": "characterised by the material thereof",
+      "count": 78,
+      "sourceFile": "ipc_F21H.txt",
+      "kind": "ipc"
+    },
+    "F21H3/00": {
+      "code": "F21H3/00",
+      "level": 0,
+      "parent": "F21H",
+      "ja": "白熱マントルの製造；使用前の処理，例．焼成；製造機械",
+      "en": "Manufacturing incandescent mantles; Treatment prior to use, e.g. burning-off; Machines for manufacturing",
+      "count": 183,
+      "sourceFile": "ipc_F21H.txt",
+      "kind": "ipc"
+    },
+    "F21H5/00": {
+      "code": "F21H5/00",
+      "level": 0,
+      "parent": "F21H",
+      "ja": "固体白熱体（白熱マントルＦ２１Ｈ１／００）",
+      "en": "Solid incandescent bodies(incandescent mantles <b>F21H1/00</b>)",
+      "count": 48,
+      "sourceFile": "ipc_F21H.txt",
+      "kind": "ipc"
+    },
+    "F21H7/00": {
+      "code": "F21H7/00",
+      "level": 0,
+      "parent": "F21H",
+      "ja": "その他の白熱体　［２００９．０１］",
+      "en": "Other incandescent bodies",
+      "count": 2,
+      "sourceFile": "ipc_F21H.txt",
+      "kind": "ipc"
+    }
+  }
+};

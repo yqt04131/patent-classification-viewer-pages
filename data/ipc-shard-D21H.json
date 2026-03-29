@@ -1,0 +1,2636 @@
+{
+  "generatedAt": "2026-03-20T02:17:46.618Z",
+  "total": 263,
+  "entries": {
+    "D21H": {
+      "code": "D21H",
+      "level": 0,
+      "parent": "D21",
+      "ja": "パルプ組成物；サブクラスＤ２１Ｃ，Ｄ２１Ｄに包含されないその製造；紙の含浸またはコーティング；クラスＢ３１またはサブクラスＤ２１Ｇに包含されない完成紙の処理；他に分類されない紙［５］<br><br><b><ul>注</ul></b><br>（１）このサブクラスは湿式による繊維板または他の繊維物品の製造のためのパルプ組成物を包含する。［５］<br><br><b><ul>サブクラス内の索引</ul></b><br>パルプまたは紙<br>セルロース，リグノセルロースまたは非セルロース繊維またはウエブ形成材料からなるもの　１１／００，１３／００<br>化学構造に特徴のない繊維またはウエブ形成材料からなるもの　１５／００<br>材料の添加方法または装置　２３／００<br>パルプに添加する非繊維材料，紙含浸材料　１７／００，２１／００<br>コート紙，コーティング材料　１９／００<br>その他の紙の後処理　２５／００<br>特殊紙　２７／００",
+      "en": "PULP COMPOSITIONS; PREPARATION THEREOF NOT COVERED BY SUBCLASSES <b>D21C</b>, <b>D21D</b>; IMPREGNATING OR COATING OF PAPER; TREATMENT OF FINISHED PAPER NOT COVERED BY CLASS <b>B31</b> OR SUBCLASS <b>D21G</b>; PAPER NOT OTHERWISE PROVIDED FOR; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This subclass <u>covers</u> also pulp compositions for the preparation of fibreboard or other fibrous articles by wet processes.</li><li>In this subclass, the following terms are used with the meaning indicated: <ul><li>\"pulp\" means a dispersion comprising paper-making fibres and optional additives, which is to be processed, and covers the term \"paper stock\"; it also means dry paper-making fibres which are to be made into paper by either wet or dry processes;</li><li>\"paper\" means paper, cardboard or wet-laid non-woven fabrics.</li></ul></li><li>If a pulp composition or a paper, or a constituent thereof, is characterised by more than one feature provided for in this subclass, for example, by both the fibrous material and a coating or by both a colorant and a water-repelling agent, classification is made in all places providing for these features.</li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">PULP OR PAPER<tr><td width=\"70%\">comprising cellulose, lignocellulose or non-cellulose fibres or web-forming material </td><td><b><b>11/00</b>, <b>13/00</b></b></td></tr></tr><tr><td width=\"70%\">comprising fibres or web-forming material not characterised by their chemical constitution </td><td><b><b>15/00</b></b></td></tr></tr><tr><td width=\"70%\">Processes or apparatus for adding material </td><td><b><b>23/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">NON-FIBROUS MATERIAL ADDED TO THE PULP, PAPER-IMPREGNATING MATERIAL </td><td><b><b>17/00</b>, <b>21/00</b></b></td></tr></tr><tr><td width=\"70%\">COATED PAPER; COATING MATERIAL </td><td><b><b>19/00</b></b></td></tr></tr><tr><td width=\"70%\">OTHER AFTER-TREATMENTS OF PAPER </td><td><b><b>25/00</b></b></td></tr></tr><tr><td width=\"70%\">SPECIAL PAPER </td><td><b><b>27/00</b></b></td></tr></tr></table>",
+      "count": 1552,
+      "sourceFile": "ipc_D.txt",
+      "kind": "ipc"
+    },
+    "D21": {
+      "code": "D21",
+      "level": 0,
+      "parent": "D",
+      "ja": "製紙；セルロースの製造",
+      "en": "PAPER-MAKING; PRODUCTION OF CELLULOSE",
+      "count": 0,
+      "sourceFile": "ipc_D.txt",
+      "kind": "ipc"
+    },
+    "D": {
+      "code": "D",
+      "level": 0,
+      "parent": null,
+      "ja": "繊維；紙<br><br><b><ul>注</ul></b><br>このセクションにおいては，下記の用語は以下に示す意味で用いる：<br>―“繊維”は比較的短く，細長い天然または人造の物質よりなるものを意味する；［２０１４．０１］<br>―“フィラメント”はエンドレスまたは準エンドレスで，細長い天然または人造の物質よりなるものを意味する；［２０１４．０１］<br>―“糸”は繊維の単一の集合体を意味し，通常紡績によって製造される；［２０１４．０１］<br>―“より糸”は糸またはフィラメントの集合体を意味し，通常加ねんによって製造される；［２０１４．０１］<br>―“合成”繊維またはフィラメントはポリマーまたは低分子を合成させたものから製造される繊維またはフィラメントまたは類似物を意味する。例は，ポリアミド，アクリル，ポリエステルまたは炭素繊維である；［２０１４．０１］<br>―“人工”繊維またはフィラメントは天然ポリマーまたはその派生物から人が製造した繊維またはフィラメントまたは類似物を意味する。例は，再生セルロース繊維または半合成繊維である；［２０１４．０１］<br>―“人造”繊維またはフィラメントは人が製造した繊維またはフィラメントを意味し，“合成”繊維または“人工”繊維を含む。［２０１４．０１］",
+      "en": "TEXTILES; PAPER; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this section, the following terms are used with the meanings indicated: <ul><li>\"fibre\" means a relatively-short, elongated member of natural or man-made material;    </li><li>\"filament\" means an endless or quasi-endless, elongated member of natural or man-made material;    </li><li>\"yarn\" means a unitary assembly of fibres, usually produced by spinning;    </li><li>\"thread\" means an assembly of yarns or filaments, usually produced by twisting;    </li><li>\"synthetic\" fibres or filaments means fibres or filaments or the like manufactured from synthesising polymers or small molecules. Examples are polyamide, acrylic, polyester or carbon fibres;    </li><li>\"artificial\" fibres or filaments means fibres or filaments or the like manufactured by man from natural polymers or their derivatives. Examples are regenerated cellulosic fibres or semi-synthetic fibres;    </li><li>\"man-made&rdquo; fibres or filaments means fibres or filaments which are manufactured by man including &ldquo;synthetic&rdquo; or &ldquo;artificial&rdquo; fibres.    </li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_D.txt",
+      "kind": "ipc"
+    },
+    "D21H11/00": {
+      "code": "D21H11/00",
+      "level": 0,
+      "parent": "D21H",
+      "ja": "パルプまたは紙で，天然のセルロースまたはリグノセルロース繊維を含むもの［５］",
+      "en": "Pulp or paper, comprising cellulose or lignocellulose fibres of natural origin only",
+      "count": 3211,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H11/02": {
+      "code": "D21H11/02",
+      "level": 1,
+      "parent": "D21H11/00",
+      "ja": "化学的または化学的機械的パルプ［５］",
+      "en": "Chemical or chemomechanical pulp",
+      "count": 959,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H11/04": {
+      "code": "D21H11/04",
+      "level": 2,
+      "parent": "D21H11/02",
+      "ja": "クラフトまたは亜硫酸パルプ［５］",
+      "en": "Kraft or sulfate pulp",
+      "count": 1240,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H11/06": {
+      "code": "D21H11/06",
+      "level": 2,
+      "parent": "D21H11/02",
+      "ja": "亜硫酸塩または亜硫酸水素塩パルプ［５］",
+      "en": "Sulfite or bisulfite pulp",
+      "count": 206,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H11/08": {
+      "code": "D21H11/08",
+      "level": 1,
+      "parent": "D21H11/00",
+      "ja": "機械的または熱的機械的パルプ［５］",
+      "en": "Mechanical or thermomechanical pulp",
+      "count": 516,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H11/10": {
+      "code": "D21H11/10",
+      "level": 1,
+      "parent": "D21H11/00",
+      "ja": "化学的パルプと機械的パルプの混合物［５］",
+      "en": "Mixtures of chemical and mechanical pulp",
+      "count": 305,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H11/12": {
+      "code": "D21H11/12",
+      "level": 1,
+      "parent": "D21H11/00",
+      "ja": "非木質植物または穀物，例．綿，アマ，わらまたはバガス，からのパルプ［５］",
+      "en": "Pulp from non-woody plants or crops, e.g. cotton, flax, straw or bagasse",
+      "count": 3943,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H11/14": {
+      "code": "D21H11/14",
+      "level": 1,
+      "parent": "D21H11/00",
+      "ja": "二次繊維（故紙からの再生Ｄ２１Ｃ５／０２）［５］",
+      "en": "Secondary fibres(working-up waste paper <b>D21C5/02</b>)",
+      "count": 2236,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H11/16": {
+      "code": "D21H11/16",
+      "level": 1,
+      "parent": "D21H11/00",
+      "ja": "特殊な後処理によって変性したもの［５］",
+      "en": "modified by a particular after-treatment",
+      "count": 710,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H11/18": {
+      "code": "D21H11/18",
+      "level": 2,
+      "parent": "D21H11/16",
+      "ja": "高度に水和，膨潤，またはフィブリル化可能な繊維［５］",
+      "en": "Highly hydrated, swollen or fibrillatable fibres",
+      "count": 1663,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H11/20": {
+      "code": "D21H11/20",
+      "level": 2,
+      "parent": "D21H11/16",
+      "ja": "化学的または生化学的変性繊維［５］",
+      "en": "Chemically or biochemically modified fibres",
+      "count": 1290,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H11/22": {
+      "code": "D21H11/22",
+      "level": 3,
+      "parent": "D21H11/20",
+      "ja": "陽イオン化されたもの［５］",
+      "en": "cationised",
+      "count": 58,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H13/00": {
+      "code": "D21H13/00",
+      "level": 0,
+      "parent": "D21H",
+      "ja": "パルプまたは紙で，合成セルロースまたは非セルロース繊維またはウェブ形成材料からなるもの（合成繊維の製造における化学的特徴はＤ０１Ｆ）［５］",
+      "en": "Pulp or paper, comprising synthetic cellulose or non-cellulose fibres or web-forming material(chemical features in the manufacture of artificial fibres <b>D01F</b>)",
+      "count": 800,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H13/02": {
+      "code": "D21H13/02",
+      "level": 1,
+      "parent": "D21H13/00",
+      "ja": "合成セルロース繊維［５］",
+      "en": "Synthetic cellulose fibres",
+      "count": 421,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H13/04": {
+      "code": "D21H13/04",
+      "level": 2,
+      "parent": "D21H13/02",
+      "ja": "セルロースエーテル［５］",
+      "en": "Cellulose ethers",
+      "count": 92,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H13/06": {
+      "code": "D21H13/06",
+      "level": 2,
+      "parent": "D21H13/02",
+      "ja": "セルロースエステル［５］",
+      "en": "Cellulose esters",
+      "count": 178,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H13/08": {
+      "code": "D21H13/08",
+      "level": 2,
+      "parent": "D21H13/02",
+      "ja": "再生セルロースからのもの［５］",
+      "en": "from regenerated cellulose",
+      "count": 494,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H13/10": {
+      "code": "D21H13/10",
+      "level": 1,
+      "parent": "D21H13/00",
+      "ja": "有機非セルロース繊維［５］",
+      "en": "Organic non-cellulose fibres",
+      "count": 1072,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H13/12": {
+      "code": "D21H13/12",
+      "level": 2,
+      "parent": "D21H13/10",
+      "ja": "炭素―炭素不飽和結合のみが関与する反応によって得られる高分子化合物からのもの［５］",
+      "en": "from macromolecular compounds obtained by reactions only involving carbon-to-carbon unsaturated bonds",
+      "count": 175,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H13/14": {
+      "code": "D21H13/14",
+      "level": 3,
+      "parent": "D21H13/12",
+      "ja": "ポリアルケン，例．ポリスチレン［５］",
+      "en": "Polyalkenes, e.g. polystyrene",
+      "count": 967,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H13/16": {
+      "code": "D21H13/16",
+      "level": 3,
+      "parent": "D21H13/12",
+      "ja": "ポリアルケニルアルコール；ポリアルケニルエーテル；ポリアルケニルエステル［５］",
+      "en": "Polyalkenylalcohols; Polyalkenylethers; Polyalkenylesters",
+      "count": 497,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H13/18": {
+      "code": "D21H13/18",
+      "level": 3,
+      "parent": "D21H13/12",
+      "ja": "不飽和酸の重合体またはその誘導体，例．ポリアクリロニトリル［５］",
+      "en": "Polymers of unsaturated acids or derivatives thereof, e.g. polyacrylonitriles",
+      "count": 364,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H13/20": {
+      "code": "D21H13/20",
+      "level": 2,
+      "parent": "D21H13/10",
+      "ja": "炭素―炭素不飽和結合のみが関与する反応以外の反応によって得られる高分子化合物からのもの［５］",
+      "en": "from macromolecular compounds obtained otherwise than by reactions only involving carbon-to-carbon unsaturated bonds",
+      "count": 347,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H13/22": {
+      "code": "D21H13/22",
+      "level": 3,
+      "parent": "D21H13/20",
+      "ja": "アルデヒドまたはケトンの縮重合体［５］",
+      "en": "Condensation polymers of aldehydes or ketones",
+      "count": 77,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H13/24": {
+      "code": "D21H13/24",
+      "level": 3,
+      "parent": "D21H13/20",
+      "ja": "ポリエステル［５］",
+      "en": "Polyesters",
+      "count": 1342,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H13/26": {
+      "code": "D21H13/26",
+      "level": 3,
+      "parent": "D21H13/20",
+      "ja": "ポリアミド；ポリイミド［５］",
+      "en": "Polyamides; Polyimides",
+      "count": 1817,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H13/28": {
+      "code": "D21H13/28",
+      "level": 2,
+      "parent": "D21H13/10",
+      "ja": "天然重合体からのもの［５］",
+      "en": "from natural polymers",
+      "count": 61,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H13/30": {
+      "code": "D21H13/30",
+      "level": 3,
+      "parent": "D21H13/28",
+      "ja": "非セルロース多糖類［５］",
+      "en": "Non-cellulose polysaccharides",
+      "count": 126,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H13/32": {
+      "code": "D21H13/32",
+      "level": 4,
+      "parent": "D21H13/30",
+      "ja": "アルギン酸繊維［５］",
+      "en": "Alginate fibres",
+      "count": 34,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H13/34": {
+      "code": "D21H13/34",
+      "level": 3,
+      "parent": "D21H13/28",
+      "ja": "たんぱく質繊維［５］",
+      "en": "Protein fibres",
+      "count": 175,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H13/36": {
+      "code": "D21H13/36",
+      "level": 1,
+      "parent": "D21H13/00",
+      "ja": "無機繊維またはフレーク［５］",
+      "en": "Inorganic fibres or flakes",
+      "count": 769,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H13/38": {
+      "code": "D21H13/38",
+      "level": 2,
+      "parent": "D21H13/36",
+      "ja": "ケイ酸を含むもの［５］",
+      "en": "siliceous",
+      "count": 510,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H13/40": {
+      "code": "D21H13/40",
+      "level": 3,
+      "parent": "D21H13/38",
+      "ja": "ガラス質のもの，例．鉱物綿またはグラスファイバ［５］",
+      "en": "vitreous, e.g. mineral wool or glass fibres",
+      "count": 1663,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H13/42": {
+      "code": "D21H13/42",
+      "level": 3,
+      "parent": "D21H13/38",
+      "ja": "アスベスト［５］",
+      "en": "Asbestos",
+      "count": 217,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H13/44": {
+      "code": "D21H13/44",
+      "level": 3,
+      "parent": "D21H13/38",
+      "ja": "フレーク，例．雲母またはひる石［５］",
+      "en": "Flakes, e.g. mica or vermiculite",
+      "count": 341,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H13/46": {
+      "code": "D21H13/46",
+      "level": 2,
+      "parent": "D21H13/36",
+      "ja": "けい酸を含まない繊維，例．金属酸化物からのもの［５］",
+      "en": "Non-siliceous fibres, e.g. from metal oxides",
+      "count": 311,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H13/48": {
+      "code": "D21H13/48",
+      "level": 3,
+      "parent": "D21H13/46",
+      "ja": "金属または金属被覆繊維［５］",
+      "en": "Metal or metallised fibres",
+      "count": 224,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H13/50": {
+      "code": "D21H13/50",
+      "level": 3,
+      "parent": "D21H13/46",
+      "ja": "炭素繊維［５］",
+      "en": "Carbon fibres",
+      "count": 1141,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H15/00": {
+      "code": "D21H15/00",
+      "level": 0,
+      "parent": "D21H",
+      "ja": "パルプまたは紙で，化学構造以外に特徴のある繊維またはウェブ形成材料から成るもの［５］",
+      "en": "Pulp or paper, comprising fibres or web-forming material characterised by features other than their chemical constitution",
+      "count": 331,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H15/02": {
+      "code": "D21H15/02",
+      "level": 1,
+      "parent": "D21H15/00",
+      "ja": "形態に特徴のあるもの［５］",
+      "en": "characterised by configuration",
+      "count": 1463,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H15/04": {
+      "code": "D21H15/04",
+      "level": 2,
+      "parent": "D21H15/02",
+      "ja": "巻縮，ねじれ，うず巻またはより繊維［５］",
+      "en": "crimped, kinked, curled or twisted fibres",
+      "count": 169,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H15/06": {
+      "code": "D21H15/06",
+      "level": 2,
+      "parent": "D21H15/02",
+      "ja": "長繊維，すなわちその長さが一般的な製紙用繊維の上限を超える繊維；フィラメント［５］",
+      "en": "Long fibres, i.e. fibres exceeding the upper length limit of conventional paper-making fibres; Filaments",
+      "count": 336,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H15/08": {
+      "code": "D21H15/08",
+      "level": 2,
+      "parent": "D21H15/02",
+      "ja": "フレーク（Ｄ２１Ｈ１３／４４が優先）［５］",
+      "en": "Flakes(<b>D21H13/44</b> takes precedence)",
+      "count": 40,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H15/10": {
+      "code": "D21H15/10",
+      "level": 2,
+      "parent": "D21H15/02",
+      "ja": "複合繊維［５］",
+      "en": "Composite fibres",
+      "count": 1307,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H15/12": {
+      "code": "D21H15/12",
+      "level": 3,
+      "parent": "D21H15/10",
+      "ja": "一部が有機または一部が無機であるもの［５］",
+      "en": "partly organic or partly inorganic",
+      "count": 342,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H17/00": {
+      "code": "D21H17/00",
+      "level": 0,
+      "parent": "D21H",
+      "ja": "パルプに添加する非繊維物質で，その成分に特徴のあるもの；その成分に特徴のある紙含浸材料［５］<br><br><b><ul>注</ul></b><br>（１）グループＤ２１Ｈ１７／０１～Ｄ２１Ｈ１７／６３においては，ラストプレイス優先ルールが適用される，すなわち各階層レベルにおいて相反する指示がない限り，物質は最後の適切な箇所に分類する。［８］<br>（２）２以上の物質の混合物は，これらの物質のうち少なくとも１つを提供するグループＤ２１Ｈ１７／０１～Ｄ２１Ｈ１７／６３のうち最後の適切な箇所に分類する。［８］<br>（３）注（２）による分類では特定されず，新規かつ非自明であると思われる混合物の何れの部分も，グループＤ２１Ｈ１７／０１～Ｄ２１Ｈ１７／６３のうちの最後の適切な箇所に分類しなければならない。この部分は，それ自体で単一の物質または混合物の何れかであることがある。［８］<br>（４）注（２）または（３）による分類では特定されず，検索に重要な情報であると思われる混合物の何れの部分も，グループＤ２１Ｈ１７／０１～Ｄ２１Ｈ１７／６３の最後の適切な箇所にも分類することができる。これは，例えば分類記号の組み合わせを用いている組成物を検索できることが重要であると考えられる場合などにあり得る。このような非義務的分類は，”付加情報”として表示すべきである。［８］",
+      "en": "Non-fibrous material added to the pulp, characterised by its constitution; Paper-impregnating material characterised by its constitution",
+      "count": 2385,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H17/01": {
+      "code": "D21H17/01",
+      "level": 1,
+      "parent": "D21H17/00",
+      "ja": "廃棄物，例．スラッジ［５］",
+      "en": "Waste products, e.g. sludge",
+      "count": 639,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H17/02": {
+      "code": "D21H17/02",
+      "level": 1,
+      "parent": "D21H17/00",
+      "ja": "植物から得られる材料（たんぱく質Ｄ２１Ｈ１７／２２；リグニンＤ２１Ｈ１７／２３；多糖類Ｄ２１Ｈ１７／２４；ロジンＤ２１Ｈ１７／６２）［５］",
+      "en": "Material of vegetable origin(proteins <b>D21H17/22</b>; lignins <b>D21H17/23</b>; polysaccharides <b>D21H17/24</b>; rosin <b>D21H17/62</b>)",
+      "count": 1516,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H17/03": {
+      "code": "D21H17/03",
+      "level": 1,
+      "parent": "D21H17/00",
+      "ja": "非高分子有機化合物［５］",
+      "en": "Non-macromolecular organic compounds",
+      "count": 541,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H17/04": {
+      "code": "D21H17/04",
+      "level": 2,
+      "parent": "D21H17/03",
+      "ja": "炭化水素［５］",
+      "en": "Hydrocarbons",
+      "count": 246,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H17/05": {
+      "code": "D21H17/05",
+      "level": 2,
+      "parent": "D21H17/03",
+      "ja": "炭素と水素以外の元素を含むもの［５］",
+      "en": "containing elements other than carbon and hydrogen only",
+      "count": 415,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H17/06": {
+      "code": "D21H17/06",
+      "level": 3,
+      "parent": "D21H17/05",
+      "ja": "アルコール；フェノール；エーテル；アルデヒド；ケトン；アセタール；ケタール［５］",
+      "en": "Alcohols; Phenols; Ethers; Aldehydes; Ketones; Acetals; Ketals",
+      "count": 1582,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H17/07": {
+      "code": "D21H17/07",
+      "level": 3,
+      "parent": "D21H17/05",
+      "ja": "窒素含有化合物［５］",
+      "en": "Nitrogen-containing compounds",
+      "count": 1630,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H17/08": {
+      "code": "D21H17/08",
+      "level": 4,
+      "parent": "D21H17/07",
+      "ja": "イソシアン酸塩［５］",
+      "en": "Isocyanates",
+      "count": 115,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H17/09": {
+      "code": "D21H17/09",
+      "level": 3,
+      "parent": "D21H17/05",
+      "ja": "硫黄含有化合物［５］",
+      "en": "Sulfur-containing compounds",
+      "count": 505,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H17/10": {
+      "code": "D21H17/10",
+      "level": 3,
+      "parent": "D21H17/05",
+      "ja": "りん含有化合物［５］",
+      "en": "Phosphorus-containing compounds",
+      "count": 267,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H17/11": {
+      "code": "D21H17/11",
+      "level": 3,
+      "parent": "D21H17/05",
+      "ja": "ハロゲン化物［５］",
+      "en": "Halides",
+      "count": 379,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H17/12": {
+      "code": "D21H17/12",
+      "level": 3,
+      "parent": "D21H17/05",
+      "ja": "有機金属化合物［５］",
+      "en": "Organo-metallic compounds",
+      "count": 178,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H17/13": {
+      "code": "D21H17/13",
+      "level": 3,
+      "parent": "D21H17/05",
+      "ja": "けい素，含有化合物［５］",
+      "en": "Silicon-containing compounds",
+      "count": 463,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H17/14": {
+      "code": "D21H17/14",
+      "level": 3,
+      "parent": "D21H17/05",
+      "ja": "カルボン酸；その誘導体［５］",
+      "en": "Carboxylic acids; Derivatives thereof",
+      "count": 2022,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H17/15": {
+      "code": "D21H17/15",
+      "level": 4,
+      "parent": "D21H17/14",
+      "ja": "ポリカルボン酸，例．マレイン酸［５］",
+      "en": "Polycarboxylic acids, e.g. maleic acid",
+      "count": 347,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H17/16": {
+      "code": "D21H17/16",
+      "level": 5,
+      "parent": "D21H17/15",
+      "ja": "炭化水素の付加物［５］",
+      "en": "Addition products thereof with hydrocarbons",
+      "count": 299,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H17/17": {
+      "code": "D21H17/17",
+      "level": 3,
+      "parent": "D21H17/05",
+      "ja": "ケテン，例．ケテン二量体［５］",
+      "en": "Ketenes, e.g. ketene dimers",
+      "count": 824,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H17/18": {
+      "code": "D21H17/18",
+      "level": 3,
+      "parent": "D21H17/05",
+      "ja": "それ自体，または他の添加物質との化学反応によってその場所で，例．紙またはパルプ内で，新しい化合物を形成するもの［５］",
+      "en": "forming new compounds <u>in situ</u>, e.g. within the pulp or paper, by chemical reaction with itself, or other added substances",
+      "count": 80,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H17/19": {
+      "code": "D21H17/19",
+      "level": 4,
+      "parent": "D21H17/18",
+      "ja": "炭素―炭素不飽和結合のみが関与する反応によるもの［５］",
+      "en": "by reactions only involving carbon-to-carbon unsaturated bonds",
+      "count": 77,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H17/20": {
+      "code": "D21H17/20",
+      "level": 1,
+      "parent": "D21H17/00",
+      "ja": "高分子有機化合物［５］",
+      "en": "Macromolecular organic compounds",
+      "count": 518,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H17/21": {
+      "code": "D21H17/21",
+      "level": 2,
+      "parent": "D21H17/20",
+      "ja": "天然物からのもの；その誘導体［５］",
+      "en": "of natural origin; Derivatives thereof",
+      "count": 600,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H17/22": {
+      "code": "D21H17/22",
+      "level": 3,
+      "parent": "D21H17/21",
+      "ja": "たんぱく質［５］",
+      "en": "Proteins",
+      "count": 578,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H17/23": {
+      "code": "D21H17/23",
+      "level": 3,
+      "parent": "D21H17/21",
+      "ja": "リグニン［５］",
+      "en": "Lignins",
+      "count": 323,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H17/24": {
+      "code": "D21H17/24",
+      "level": 3,
+      "parent": "D21H17/21",
+      "ja": "多糖類［５］",
+      "en": "Polysaccharides",
+      "count": 1304,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H17/25": {
+      "code": "D21H17/25",
+      "level": 4,
+      "parent": "D21H17/24",
+      "ja": "セルロース［５］",
+      "en": "Cellulose",
+      "count": 925,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H17/26": {
+      "code": "D21H17/26",
+      "level": 5,
+      "parent": "D21H17/25",
+      "ja": "そのエーテル［５］",
+      "en": "Ethers thereof",
+      "count": 751,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H17/27": {
+      "code": "D21H17/27",
+      "level": 5,
+      "parent": "D21H17/25",
+      "ja": "そのエステル［５］",
+      "en": "Esters thereof",
+      "count": 177,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H17/28": {
+      "code": "D21H17/28",
+      "level": 4,
+      "parent": "D21H17/24",
+      "ja": "でん粉［５］",
+      "en": "Starch",
+      "count": 2740,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H17/29": {
+      "code": "D21H17/29",
+      "level": 5,
+      "parent": "D21H17/28",
+      "ja": "陽イオンのもの［５］",
+      "en": "cationic",
+      "count": 1173,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H17/30": {
+      "code": "D21H17/30",
+      "level": 4,
+      "parent": "D21H17/24",
+      "ja": "アルギン酸またはアルギン酸塩［５］",
+      "en": "Alginic acid or alginates",
+      "count": 225,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H17/31": {
+      "code": "D21H17/31",
+      "level": 4,
+      "parent": "D21H17/24",
+      "ja": "ガム［５］",
+      "en": "Gums",
+      "count": 195,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H17/32": {
+      "code": "D21H17/32",
+      "level": 5,
+      "parent": "D21H17/31",
+      "ja": "グアーガム［５］",
+      "en": "Guar gum",
+      "count": 225,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H17/33": {
+      "code": "D21H17/33",
+      "level": 2,
+      "parent": "D21H17/20",
+      "ja": "合成高分子化合物［５］",
+      "en": "Synthetic macromolecular compounds",
+      "count": 842,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H17/34": {
+      "code": "D21H17/34",
+      "level": 3,
+      "parent": "D21H17/33",
+      "ja": "炭素―炭素不飽和結合のみが関与する反応によって得られるもの［５］",
+      "en": "obtained by reactions only involving carbon-to-carbon unsaturated bonds",
+      "count": 1202,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H17/35": {
+      "code": "D21H17/35",
+      "level": 4,
+      "parent": "D21H17/34",
+      "ja": "ポリアルケン，例．ポリスチレン［５］",
+      "en": "Polyalkenes, e.g. polystyrene",
+      "count": 1126,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H17/36": {
+      "code": "D21H17/36",
+      "level": 4,
+      "parent": "D21H17/34",
+      "ja": "ポリアルケニルアルコール；ポリアルケニルエーテル；ポリアルケニルエステル［５］",
+      "en": "Polyalkenylalcohols; Polyalkenylethers; Polyalkenylesters",
+      "count": 1440,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H17/37": {
+      "code": "D21H17/37",
+      "level": 4,
+      "parent": "D21H17/34",
+      "ja": "不飽和酸の重合体またはその誘導体，例．ポリアクリル酸塩［５］",
+      "en": "Polymers of unsaturated acids or derivatives thereof, e.g. polyacrylates",
+      "count": 3665,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H17/38": {
+      "code": "D21H17/38",
+      "level": 4,
+      "parent": "D21H17/34",
+      "ja": "交叉結合可能な基を含むもの［５］",
+      "en": "containing crosslinkable groups",
+      "count": 162,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H17/39": {
+      "code": "D21H17/39",
+      "level": 5,
+      "parent": "D21H17/38",
+      "ja": "エーテル交叉結合基を形成するもの，例．アルキロール基［５］",
+      "en": "forming ether crosslinkages, e.g. alkylol groups",
+      "count": 75,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H17/40": {
+      "code": "D21H17/40",
+      "level": 5,
+      "parent": "D21H17/38",
+      "ja": "不飽和のもの［５］",
+      "en": "unsaturated",
+      "count": 39,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H17/41": {
+      "code": "D21H17/41",
+      "level": 4,
+      "parent": "D21H17/34",
+      "ja": "イオン基を含むもの［５］",
+      "en": "containing ionic groups",
+      "count": 234,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H17/42": {
+      "code": "D21H17/42",
+      "level": 5,
+      "parent": "D21H17/41",
+      "ja": "陰イオンのもの［５］",
+      "en": "anionic",
+      "count": 386,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H17/43": {
+      "code": "D21H17/43",
+      "level": 6,
+      "parent": "D21H17/42",
+      "ja": "カルボキシル基またはその誘導体［５］",
+      "en": "Carboxyl groups or derivatives thereof",
+      "count": 569,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H17/44": {
+      "code": "D21H17/44",
+      "level": 5,
+      "parent": "D21H17/41",
+      "ja": "陽イオンのもの［５］",
+      "en": "cationic",
+      "count": 451,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H17/45": {
+      "code": "D21H17/45",
+      "level": 6,
+      "parent": "D21H17/44",
+      "ja": "窒素含有基［５］",
+      "en": "Nitrogen-containing groups",
+      "count": 1404,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H17/46": {
+      "code": "D21H17/46",
+      "level": 3,
+      "parent": "D21H17/33",
+      "ja": "炭素―炭素不飽和結合のみが関与する反応以外の反応によって得られるもの［５］",
+      "en": "obtained otherwise than by reactions only involving carbon-to-carbon unsaturated bonds",
+      "count": 502,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H17/47": {
+      "code": "D21H17/47",
+      "level": 4,
+      "parent": "D21H17/46",
+      "ja": "アルデヒドまたはケトンの重縮合体［５］",
+      "en": "Condensation polymers of aldehydes or ketones",
+      "count": 226,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H17/48": {
+      "code": "D21H17/48",
+      "level": 5,
+      "parent": "D21H17/47",
+      "ja": "フェノールとの［５］",
+      "en": "with phenols",
+      "count": 675,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H17/49": {
+      "code": "D21H17/49",
+      "level": 5,
+      "parent": "D21H17/47",
+      "ja": "窒素と結合した水素含有化合物を有するものとの［５］",
+      "en": "with compounds containing hydrogen bound to nitrogen",
+      "count": 423,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H17/50": {
+      "code": "D21H17/50",
+      "level": 6,
+      "parent": "D21H17/49",
+      "ja": "非環状化合物［５］",
+      "en": "Acyclic compounds",
+      "count": 304,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H17/51": {
+      "code": "D21H17/51",
+      "level": 6,
+      "parent": "D21H17/49",
+      "ja": "トリアジン，例．メラミン［５］",
+      "en": "Triazines, e.g. melamine",
+      "count": 828,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H17/52": {
+      "code": "D21H17/52",
+      "level": 4,
+      "parent": "D21H17/46",
+      "ja": "エポキシ樹脂［５］",
+      "en": "Epoxy resins",
+      "count": 475,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H17/53": {
+      "code": "D21H17/53",
+      "level": 4,
+      "parent": "D21H17/46",
+      "ja": "ポリエーテル；ポリエステル［５］",
+      "en": "Polyethers; Polyesters",
+      "count": 1315,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H17/54": {
+      "code": "D21H17/54",
+      "level": 4,
+      "parent": "D21H17/46",
+      "ja": "高分子の主連鎖内において窒素を含有する結合を形成する反応によって得られるもの［５］",
+      "en": "obtained by reactions forming in the main chain of the macromolecule a linkage containing nitrogen",
+      "count": 501,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H17/55": {
+      "code": "D21H17/55",
+      "level": 5,
+      "parent": "D21H17/54",
+      "ja": "ポリアミド；ポリアミノアミド；ポリエステルアミド［５］",
+      "en": "Polyamides; Polyaminoamides; Polyester-amides",
+      "count": 1435,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H17/56": {
+      "code": "D21H17/56",
+      "level": 5,
+      "parent": "D21H17/54",
+      "ja": "ポリアミン；ポリイミン；ポリエステルイミド［５］",
+      "en": "Polyamines; Polyimines; Polyester-imides",
+      "count": 914,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H17/57": {
+      "code": "D21H17/57",
+      "level": 5,
+      "parent": "D21H17/54",
+      "ja": "ポリ尿素；ポリウレタン［５］",
+      "en": "Polyureas; Polyurethanes",
+      "count": 578,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H17/58": {
+      "code": "D21H17/58",
+      "level": 4,
+      "parent": "D21H17/46",
+      "ja": "高分子の主連鎖内でイオウを含有する結合を形成する反応によって得られるもの［５］",
+      "en": "obtained by reactions forming in the main chain of the macromolecule a linkage containing sulfur",
+      "count": 56,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H17/59": {
+      "code": "D21H17/59",
+      "level": 4,
+      "parent": "D21H17/46",
+      "ja": "高分子の主連鎖内でけい素を含有する結合を形成する反応によって得られるもの［５］",
+      "en": "obtained by reactions forming in the main chain of the macromolecule a linkage containing silicon",
+      "count": 648,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H17/60": {
+      "code": "D21H17/60",
+      "level": 1,
+      "parent": "D21H17/00",
+      "ja": "ワックス［５］",
+      "en": "Waxes",
+      "count": 975,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H17/61": {
+      "code": "D21H17/61",
+      "level": 1,
+      "parent": "D21H17/00",
+      "ja": "瀝青質［５］",
+      "en": "Bitumen",
+      "count": 208,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H17/62": {
+      "code": "D21H17/62",
+      "level": 1,
+      "parent": "D21H17/00",
+      "ja": "ロジン；その誘導体［５］",
+      "en": "Rosin; Derivatives thereof",
+      "count": 1274,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H17/63": {
+      "code": "D21H17/63",
+      "level": 1,
+      "parent": "D21H17/00",
+      "ja": "無機化合物［５］",
+      "en": "Inorganic compounds",
+      "count": 1473,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H17/64": {
+      "code": "D21H17/64",
+      "level": 2,
+      "parent": "D21H17/63",
+      "ja": "アルカリ化合物［５］",
+      "en": "Alkaline compounds",
+      "count": 661,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H17/65": {
+      "code": "D21H17/65",
+      "level": 2,
+      "parent": "D21H17/63",
+      "ja": "酸化合物［５］",
+      "en": "Acid compounds",
+      "count": 488,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H17/66": {
+      "code": "D21H17/66",
+      "level": 2,
+      "parent": "D21H17/63",
+      "ja": "塩，例．明ばん［５］",
+      "en": "Salts, e.g. alums",
+      "count": 2588,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H17/67": {
+      "code": "D21H17/67",
+      "level": 2,
+      "parent": "D21H17/63",
+      "ja": "不水溶性化合物，例．填料または顔料［５］",
+      "en": "Water-insoluble compounds, e.g. fillers or pigments",
+      "count": 5448,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H17/68": {
+      "code": "D21H17/68",
+      "level": 3,
+      "parent": "D21H17/67",
+      "ja": "けい酸を含むもの，例．粘土［５］",
+      "en": "siliceous, e.g. clays",
+      "count": 3338,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H17/69": {
+      "code": "D21H17/69",
+      "level": 3,
+      "parent": "D21H17/67",
+      "ja": "変性物，例．パルプまたは紙への混合に先立つ他の化合物との会合によるもの［５］",
+      "en": "modified, e.g. by association with other compositions prior to incorporation in the pulp or paper",
+      "count": 1356,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H17/70": {
+      "code": "D21H17/70",
+      "level": 2,
+      "parent": "D21H17/63",
+      "ja": "別々に添加された他の物質との化学反応によってその場所で，例．パイプまたは紙内で，新しい化合物を形成するもの［５］",
+      "en": "forming new compounds <u>in situ</u>, e.g. within the pulp or paper, by chemical reaction with other substances added separately",
+      "count": 393,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H19/00": {
+      "code": "D21H19/00",
+      "level": 0,
+      "parent": "D21H",
+      "ja": "塗被紙（塗被繊維板Ｄ２１Ｊ１／０８）；コーティング材料（インク，染料または顔料の受け入れを高めるために使用される被覆に特徴のある記録シートＢ４１Ｍ５／５０）［５］",
+      "en": "Coated paper(coated fibreboard <b>D21J1/08</b>);Coating material(recording sheets characterised by the coating used to improve ink, dye or pigment receptivity <b>B41M5/50</b>)",
+      "count": 1721,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H19/02": {
+      "code": "D21H19/02",
+      "level": 1,
+      "parent": "D21H19/00",
+      "ja": "金属コーティング（Ｄ２１Ｈ１９／６６が優先）［５］",
+      "en": "Metal coatings(<b>D21H19/66</b> takes precedence)",
+      "count": 327,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H19/04": {
+      "code": "D21H19/04",
+      "level": 2,
+      "parent": "D21H19/02",
+      "ja": "箔として適用されるもの［５］",
+      "en": "applied as foil",
+      "count": 428,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H19/06": {
+      "code": "D21H19/06",
+      "level": 2,
+      "parent": "D21H19/02",
+      "ja": "液体または粉末として適用されるもの［５］",
+      "en": "applied as liquid or powder",
+      "count": 246,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H19/08": {
+      "code": "D21H19/08",
+      "level": 2,
+      "parent": "D21H19/02",
+      "ja": "蒸気として適用されるもの，例．真空内［５］",
+      "en": "applied as vapour, e.g. in vacuum",
+      "count": 463,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H19/10": {
+      "code": "D21H19/10",
+      "level": 1,
+      "parent": "D21H19/00",
+      "ja": "顔料を使用しないコーティング（Ｄ２１Ｈ１９／６６が優先）［５］",
+      "en": "Coatings without pigments(<b>D21H19/66</b> takes precedence)",
+      "count": 3274,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H19/12": {
+      "code": "D21H19/12",
+      "level": 2,
+      "parent": "D21H19/10",
+      "ja": "水溶液として適用されるもの，例．酸またはアルカリ化合物の存在下におけるもの［５］",
+      "en": "applied as a solution using water as the only solvent, e.g. in the presence of acid or alkaline compounds",
+      "count": 1381,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H19/14": {
+      "code": "D21H19/14",
+      "level": 2,
+      "parent": "D21H19/10",
+      "ja": "グループＤ２１Ｈ１９／１２で定義された水溶液以外の形で適用されるもの［５］",
+      "en": "applied in a form other than the aqueous solution defined in group <b>D21H19/12</b>",
+      "count": 2332,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H19/16": {
+      "code": "D21H19/16",
+      "level": 3,
+      "parent": "D21H19/14",
+      "ja": "硬化可能または重合可能な化合物からなるもの（Ｄ２１Ｈ１９／２４が優先）［５］",
+      "en": "comprising curable or polymerisable compounds(<b>D21H19/24</b> takes precedence)",
+      "count": 914,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H19/18": {
+      "code": "D21H19/18",
+      "level": 3,
+      "parent": "D21H19/14",
+      "ja": "ワックスからなるもの［５］",
+      "en": "comprising waxes",
+      "count": 1182,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H19/20": {
+      "code": "D21H19/20",
+      "level": 3,
+      "parent": "D21H19/14",
+      "ja": "炭素―炭素不飽和結合のみが関与する反応によって得られる高分子化合物から成るもの［５］",
+      "en": "comprising macromolecular compounds obtained by reactions only involving carbon-to-carbon unsaturated bonds",
+      "count": 4740,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H19/22": {
+      "code": "D21H19/22",
+      "level": 4,
+      "parent": "D21H19/20",
+      "ja": "ポリアルケン，例．ポリスチレン［５］",
+      "en": "Polyalkenes, e.g. polystyrene",
+      "count": 1247,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H19/24": {
+      "code": "D21H19/24",
+      "level": 3,
+      "parent": "D21H19/14",
+      "ja": "炭素―炭素不飽和結合のみが関与する反応以外の反応によって得られる高分子化合物からのもの［５］",
+      "en": "comprising macromolecular compounds obtained otherwise than by reactions only involving carbon-to-carbon unsaturated bonds",
+      "count": 2143,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H19/26": {
+      "code": "D21H19/26",
+      "level": 4,
+      "parent": "D21H19/24",
+      "ja": "アミノプラスト［５］",
+      "en": "Aminoplasts",
+      "count": 230,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H19/28": {
+      "code": "D21H19/28",
+      "level": 4,
+      "parent": "D21H19/24",
+      "ja": "ポリエステル［５］",
+      "en": "Polyesters",
+      "count": 586,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H19/30": {
+      "code": "D21H19/30",
+      "level": 4,
+      "parent": "D21H19/24",
+      "ja": "ポリアミド；ポリイミド［５］",
+      "en": "Polyamides; Polyimides",
+      "count": 237,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H19/32": {
+      "code": "D21H19/32",
+      "level": 4,
+      "parent": "D21H19/24",
+      "ja": "高分子の主連鎖内でけい素を含有する結合を形成する反応によって得られるもの［５］",
+      "en": "obtained by reactions forming a linkage containing silicon in the main chain of the macromolecule",
+      "count": 1057,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H19/34": {
+      "code": "D21H19/34",
+      "level": 3,
+      "parent": "D21H19/14",
+      "ja": "セルロースまたはその誘導体からなるもの［５］",
+      "en": "comprising cellulose or derivatives thereof",
+      "count": 1185,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H19/36": {
+      "code": "D21H19/36",
+      "level": 1,
+      "parent": "D21H19/00",
+      "ja": "顔料を使用するコーティング（Ｄ２１Ｈ１９／６６が優先；金属粉末Ｄ２１Ｈ１９／０６）［５］",
+      "en": "Coatings with pigments(<b>D21H19/66</b> takes precedence; metal powder <b>D21H19/06</b>)",
+      "count": 2085,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H19/38": {
+      "code": "D21H19/38",
+      "level": 2,
+      "parent": "D21H19/36",
+      "ja": "顔料に特徴のあるもの［５］",
+      "en": "characterised by the pigments",
+      "count": 5396,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H19/40": {
+      "code": "D21H19/40",
+      "level": 3,
+      "parent": "D21H19/38",
+      "ja": "けい酸を含むもの，例．粘土［５］",
+      "en": "siliceous, e.g. clays",
+      "count": 2699,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H19/42": {
+      "code": "D21H19/42",
+      "level": 3,
+      "parent": "D21H19/38",
+      "ja": "少なくとも部分的に有機質のもの［５］",
+      "en": "at least partly organic",
+      "count": 659,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H19/44": {
+      "code": "D21H19/44",
+      "level": 2,
+      "parent": "D21H19/36",
+      "ja": "他の成分，例．バインダーまたは分散剤，に特徴のあるもの［５］",
+      "en": "characterised by the other ingredients, e.g. the binder or dispersing agent",
+      "count": 2562,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H19/46": {
+      "code": "D21H19/46",
+      "level": 3,
+      "parent": "D21H19/44",
+      "ja": "非高分子有機化合物［５］",
+      "en": "Non-macromolecular organic compounds",
+      "count": 1236,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H19/48": {
+      "code": "D21H19/48",
+      "level": 4,
+      "parent": "D21H19/46",
+      "ja": "ジオレフィン，例．ブタジエン；芳香族ビニル単量体，例．スチレン；重合可能な不飽和酸またはその誘導体，例．アクリル酸［５］",
+      "en": "Diolefins, e.g. butadiene; Aromatic vinyl monomers, e.g. styrene; Polymerisable unsaturated acids or derivatives thereof, e.g. acrylic acid",
+      "count": 281,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H19/50": {
+      "code": "D21H19/50",
+      "level": 3,
+      "parent": "D21H19/44",
+      "ja": "たんぱく質［５］",
+      "en": "Proteins",
+      "count": 421,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H19/52": {
+      "code": "D21H19/52",
+      "level": 3,
+      "parent": "D21H19/44",
+      "ja": "セルロース；その誘導体［５］",
+      "en": "Cellulose; Derivatives thereof",
+      "count": 900,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H19/54": {
+      "code": "D21H19/54",
+      "level": 3,
+      "parent": "D21H19/44",
+      "ja": "でん粉［５］",
+      "en": "Starch",
+      "count": 1576,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H19/56": {
+      "code": "D21H19/56",
+      "level": 3,
+      "parent": "D21H19/44",
+      "ja": "炭素－炭素不飽和結合のみが関与する反応によって得られる高分子有機化合物またはそのオリゴマー［５］",
+      "en": "Macromolecular organic compounds or oligomers thereof obtained by reactions only involving carbon-to-carbon unsaturated bonds",
+      "count": 1283,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H19/58": {
+      "code": "D21H19/58",
+      "level": 4,
+      "parent": "D21H19/56",
+      "ja": "ジオレフィンの重合体またはオリゴマー，芳香族ビニル単量体または不飽和酸またはその誘導体［５］",
+      "en": "Polymers or oligomers of diolefins, aromatic vinyl monomers or unsaturated acids or derivatives thereof",
+      "count": 2638,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H19/60": {
+      "code": "D21H19/60",
+      "level": 4,
+      "parent": "D21H19/56",
+      "ja": "ポリアルケニルアルコール；ポリアルケニルエーテル；ポリアルケニルエステル［５］",
+      "en": "Polyalkenylalcohols; Polyalkenylethers; Polyalkenylesters",
+      "count": 1335,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H19/62": {
+      "code": "D21H19/62",
+      "level": 3,
+      "parent": "D21H19/44",
+      "ja": "炭素－炭素不飽和結合のみが関与する反応以外の反応によって得られる高分子有機化合物またはそのオリゴマー［５］",
+      "en": "Macromolecular organic compounds or oligomers thereof obtained otherwise than by reactions only involving carbon-to-carbon unsaturated bonds",
+      "count": 1424,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H19/64": {
+      "code": "D21H19/64",
+      "level": 3,
+      "parent": "D21H19/44",
+      "ja": "無機化合物［５］",
+      "en": "Inorganic compounds",
+      "count": 975,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H19/66": {
+      "code": "D21H19/66",
+      "level": 1,
+      "parent": "D21H19/00",
+      "ja": "特別な可視効果に特徴のあるコーティング，例．模様，または地合い（マーブル紙Ｄ２１Ｈ２７／０４）［５］",
+      "en": "Coatings characterised by a special visual effect, e.g. patterned or textured(marbled paper <b>D21H27/04</b>)",
+      "count": 602,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H19/68": {
+      "code": "D21H19/68",
+      "level": 2,
+      "parent": "D21H19/66",
+      "ja": "平らでないもの，破れたものまたは不連続のもの［５］",
+      "en": "uneven, broken or discontinuous",
+      "count": 176,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H19/70": {
+      "code": "D21H19/70",
+      "level": 2,
+      "parent": "D21H19/66",
+      "ja": "内部に空間のあるもの，例．気泡コーティング［５］",
+      "en": "with internal voids, e.g. bubble coatings",
+      "count": 108,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H19/72": {
+      "code": "D21H19/72",
+      "level": 1,
+      "parent": "D21H19/00",
+      "ja": "紙の基質に特徴のあるコート紙［５］",
+      "en": "Coated paper characterised by the paper substrate",
+      "count": 475,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H19/74": {
+      "code": "D21H19/74",
+      "level": 2,
+      "parent": "D21H19/72",
+      "ja": "平らでない表面をもつ基質をもつもの，例．クレープ紙またはコルゲート紙［５］",
+      "en": "the substrate having an uneven surface, e.g. cr&ecirc;ped or corrugated paper",
+      "count": 145,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H19/76": {
+      "code": "D21H19/76",
+      "level": 2,
+      "parent": "D21H19/72",
+      "ja": "特別な吸収性をもつ基質をもつもの［５］",
+      "en": "the substrate having specific absorbent properties",
+      "count": 80,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H19/78": {
+      "code": "D21H19/78",
+      "level": 3,
+      "parent": "D21H19/76",
+      "ja": "コーティングに実質上不浸透性であるもの［５］",
+      "en": "being substantially impervious to the coating",
+      "count": 47,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H19/80": {
+      "code": "D21H19/80",
+      "level": 1,
+      "parent": "D21H19/00",
+      "ja": "１つ以上のコーティングからなる紙（Ｄ２１Ｈ１９／０２が優先）［５］",
+      "en": "Paper comprising more than one coating(<b>D21H19/02</b> takes precedence)",
+      "count": 514,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H19/82": {
+      "code": "D21H19/82",
+      "level": 2,
+      "parent": "D21H19/80",
+      "ja": "重複コーティングするもの［５］",
+      "en": "superposed",
+      "count": 3228,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H19/84": {
+      "code": "D21H19/84",
+      "level": 2,
+      "parent": "D21H19/80",
+      "ja": "基質の両側にコーティングするもの［５］",
+      "en": "on both sides of the substrate",
+      "count": 1697,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H21/00": {
+      "code": "D21H21/00",
+      "level": 0,
+      "parent": "D21H",
+      "ja": "パルプに添加される非繊維材料で，その作用，形態または特性に特徴のあるもの；紙含浸またはコーティング材料で，その作用，形態または特性に特徴のあるもの［５］",
+      "en": "Non-fibrous material added to the pulp, characterised by its function, form or properties; Paper impregnating or coating material, characterised by its function, form or properties",
+      "count": 657,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H21/02": {
+      "code": "D21H21/02",
+      "level": 1,
+      "parent": "D21H21/00",
+      "ja": "ペーパーミル設備において沈積を防止するための薬剤，例．ピッチまたはスライムコントロール（脂肪，レジン，ピッチ，またはワックスの除去Ｄ２１Ｃ９／０８）［５］",
+      "en": "Agents for preventing deposition on the paper mill equipment, e.g. pitch or slime control(removal of fats, resins, pitch, or waxes <b>D21C9/08</b>)",
+      "count": 608,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H21/04": {
+      "code": "D21H21/04",
+      "level": 2,
+      "parent": "D21H21/02",
+      "ja": "スライムコントロール剤［５］",
+      "en": "Slime-control agents",
+      "count": 335,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H21/06": {
+      "code": "D21H21/06",
+      "level": 1,
+      "parent": "D21H21/00",
+      "ja": "紙形成向上剤［５］",
+      "en": "Paper forming aids",
+      "count": 785,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H21/08": {
+      "code": "D21H21/08",
+      "level": 2,
+      "parent": "D21H21/06",
+      "ja": "繊維用の薬剤を分散するもの［５］",
+      "en": "Dispersing agents for fibres",
+      "count": 960,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H21/10": {
+      "code": "D21H21/10",
+      "level": 2,
+      "parent": "D21H21/06",
+      "ja": "歩留り向上剤またはろ水改良剤［５］",
+      "en": "Retention agents or drainage improvers",
+      "count": 2003,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H21/12": {
+      "code": "D21H21/12",
+      "level": 2,
+      "parent": "D21H21/06",
+      "ja": "消泡剤［５］",
+      "en": "Defoamers",
+      "count": 958,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H21/14": {
+      "code": "D21H21/14",
+      "level": 1,
+      "parent": "D21H21/00",
+      "ja": "紙内部または紙表面上での作用または特性に特徴のあるもの（Ｄ２１Ｈ１９／６６，Ｄ２１Ｈ２７／０２が優先）［５］",
+      "en": "characterised by function or properties in or on the paper(<b>D21H19/66</b>, <b>D21H27/02</b> take precedence)",
+      "count": 7235,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H21/16": {
+      "code": "D21H21/16",
+      "level": 2,
+      "parent": "D21H21/14",
+      "ja": "サイズ剤または撥水剤［２００６．０１］",
+      "en": "Sizing or water-repelling agents",
+      "count": 6611,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H21/18": {
+      "code": "D21H21/18",
+      "level": 2,
+      "parent": "D21H21/14",
+      "ja": "補強剤［５］",
+      "en": "Reinforcing agents",
+      "count": 2738,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H21/20": {
+      "code": "D21H21/20",
+      "level": 3,
+      "parent": "D21H21/18",
+      "ja": "湿潤強力剤［５］",
+      "en": "Wet strength agents",
+      "count": 2157,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H21/22": {
+      "code": "D21H21/22",
+      "level": 2,
+      "parent": "D21H21/14",
+      "ja": "紙に多孔性，吸収性または嵩高性をもたせる薬剤［５］",
+      "en": "Agents rendering paper porous, absorbent or bulky",
+      "count": 1163,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H21/24": {
+      "code": "D21H21/24",
+      "level": 3,
+      "parent": "D21H21/22",
+      "ja": "界面活性剤［５］",
+      "en": "Surfactants",
+      "count": 609,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H21/26": {
+      "code": "D21H21/26",
+      "level": 2,
+      "parent": "D21H21/14",
+      "ja": "紙を透明または半透明にする薬剤［５］",
+      "en": "Agents rendering paper transparent or translucent",
+      "count": 389,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H21/28": {
+      "code": "D21H21/28",
+      "level": 2,
+      "parent": "D21H21/14",
+      "ja": "着色剤［５］",
+      "en": "Colorants",
+      "count": 2260,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H21/30": {
+      "code": "D21H21/30",
+      "level": 2,
+      "parent": "D21H21/14",
+      "ja": "発光性または蛍光性物質，例．蛍光漂白剤（Ｄ２１Ｈ２１／４０が優先）［５］",
+      "en": "Luminescent or fluorescent substances, e.g. for optical bleaching(<b>D21H21/40</b> takes precedence)",
+      "count": 993,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H21/32": {
+      "code": "D21H21/32",
+      "level": 2,
+      "parent": "D21H21/14",
+      "ja": "漂白剤（セルロースパルプを漂白するものＤ２１Ｃ９／１０）［５］",
+      "en": "Bleaching agents(bleaching cellulose pulp <b>D21C9/10</b>)",
+      "count": 262,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H21/34": {
+      "code": "D21H21/34",
+      "level": 2,
+      "parent": "D21H21/14",
+      "ja": "難燃化剤［２００６．０１］",
+      "en": "Ignifugeants",
+      "count": 1708,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H21/36": {
+      "code": "D21H21/36",
+      "level": 2,
+      "parent": "D21H21/14",
+      "ja": "生物薬剤，例．防かび剤，抗菌剤または防虫剤［５］",
+      "en": "Biocidal agents, e.g. fungicidal, bactericidal or insecticidal agents",
+      "count": 3573,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H21/38": {
+      "code": "D21H21/38",
+      "level": 2,
+      "parent": "D21H21/14",
+      "ja": "腐食防止剤または酸化防止剤［５］",
+      "en": "Corrosion-inhibiting agents or anti-oxidants",
+      "count": 599,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H21/40": {
+      "code": "D21H21/40",
+      "level": 2,
+      "parent": "D21H21/14",
+      "ja": "本物であることの証明を容易にする薬剤または不正改変を防止する薬剤，例．証券用紙用（ウォータマーキングＢ４１Ｍ３／１０，Ｄ２１Ｆ１／４４；偽造防止印刷Ｂ４１Ｍ３／１４；情報担持カードまたはシート状物の身分証明機能またはセキュリティ機能，例．偽造防止Ｂ４２Ｄ２５／３０）［５］",
+      "en": "Agents facilitating proof of genuineness or preventing fraudulent alteration, e.g. for security paper(watermarking <b>B41M3/10</b>, <b>D21F1/44</b>; security printing <b>B41M3/14</b>; identification or security features of information-bearing cards or sheet-like structures, e.g. for preventing forgery <b>B42D25/30</b>)",
+      "count": 1225,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H21/42": {
+      "code": "D21H21/42",
+      "level": 3,
+      "parent": "D21H21/40",
+      "ja": "リボンまたはストリップ（フィラメントＤ２１Ｈ１５／０６）［５］",
+      "en": "Ribbons or strips(filaments <b>D21H15/06</b>)",
+      "count": 732,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H21/44": {
+      "code": "D21H21/44",
+      "level": 3,
+      "parent": "D21H21/40",
+      "ja": "潜在保全要素，すなわち特別な検証または改ざん発見装置または方法の使用によってのみ検査可能または明確になるもの［５］",
+      "en": "Latent security elements, i.e. detectable or becoming apparent only by use of special verification or tampering devices or methods",
+      "count": 377,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H21/46": {
+      "code": "D21H21/46",
+      "level": 4,
+      "parent": "D21H21/44",
+      "ja": "化学検証または化学的改ざん防止，例．消去剤の使用によるもの，に適した要素［５］",
+      "en": "Elements suited for chemical verification or impeding chemical tampering, e.g. by use of eradicators",
+      "count": 224,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H21/48": {
+      "code": "D21H21/48",
+      "level": 4,
+      "parent": "D21H21/44",
+      "ja": "物理的検証用，例．Ｘ線照射，に適した要素［５］",
+      "en": "Elements suited for physical verification, e.g. by irradiation",
+      "count": 724,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H21/50": {
+      "code": "D21H21/50",
+      "level": 1,
+      "parent": "D21H21/00",
+      "ja": "形態に特徴のあるもの（Ｄ２１Ｈ１９／６６，Ｄ２１Ｈ２１／４２，Ｄ２１Ｈ２７／０２が優先）［５］",
+      "en": "characterised by form(<b>D21H19/66</b>, <b>D21H21/42</b>, <b>D21H27/02</b> take precedence)",
+      "count": 365,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H21/52": {
+      "code": "D21H21/52",
+      "level": 2,
+      "parent": "D21H21/50",
+      "ja": "定長または定形の添加物［５］",
+      "en": "Additives of definite length or shape",
+      "count": 967,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H21/54": {
+      "code": "D21H21/54",
+      "level": 3,
+      "parent": "D21H21/52",
+      "ja": "球体のもの，例．マイクロカプセルまたはビーズ［５］",
+      "en": "being spherical, e.g. microcapsules or beads",
+      "count": 631,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H21/56": {
+      "code": "D21H21/56",
+      "level": 2,
+      "parent": "D21H21/50",
+      "ja": "発泡［５］",
+      "en": "Foam",
+      "count": 353,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H23/00": {
+      "code": "D21H23/00",
+      "level": 0,
+      "parent": "D21H",
+      "ja": "パルプまたは紙へ材料を添加するための方法または装置［５］",
+      "en": "Processes or apparatus for adding material to the pulp or to the paper",
+      "count": 1307,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H23/02": {
+      "code": "D21H23/02",
+      "level": 1,
+      "parent": "D21H23/00",
+      "ja": "物質を添加する手段に特徴があるもの［５］",
+      "en": "characterised by the manner in which substances are added",
+      "count": 207,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H23/04": {
+      "code": "D21H23/04",
+      "level": 2,
+      "parent": "D21H23/02",
+      "ja": "パルプへの添加；パルプ内の添加剤の後処理［５］",
+      "en": "Addition to the pulp; After-treatment of added substances in the pulp",
+      "count": 687,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H23/06": {
+      "code": "D21H23/06",
+      "level": 3,
+      "parent": "D21H23/04",
+      "ja": "添加物の制御［５］",
+      "en": "Controlling the addition",
+      "count": 172,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H23/08": {
+      "code": "D21H23/08",
+      "level": 4,
+      "parent": "D21H23/06",
+      "ja": "パルプの特性を測定することによるもの，例．ゼータ電位またはｐＨ［５］",
+      "en": "by measuring pulp properties, e.g. zeta potential or pH",
+      "count": 141,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H23/10": {
+      "code": "D21H23/10",
+      "level": 5,
+      "parent": "D21H23/08",
+      "ja": "少なくとも２種類の化合物が添加されるもの［５］",
+      "en": "at least two kinds of compounds being added",
+      "count": 168,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H23/12": {
+      "code": "D21H23/12",
+      "level": 4,
+      "parent": "D21H23/06",
+      "ja": "形成ウェブの特性を測定することによるもの［５］",
+      "en": "by measuring properties of the formed web",
+      "count": 30,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H23/14": {
+      "code": "D21H23/14",
+      "level": 4,
+      "parent": "D21H23/06",
+      "ja": "化合物の添加点または接触時間を選択することによるもの［５］",
+      "en": "by selecting point of addition or time of contact between components",
+      "count": 279,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H23/16": {
+      "code": "D21H23/16",
+      "level": 5,
+      "parent": "D21H23/14",
+      "ja": "パルプの叩解またはリファイニングの前またはその間の添加［５］",
+      "en": "Addition before or during pulp beating or refining",
+      "count": 132,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H23/18": {
+      "code": "D21H23/18",
+      "level": 5,
+      "parent": "D21H23/14",
+      "ja": "シート形成前の剪断力が使われない位置，例．パルプの叩解またはリファイニング後，における添加［５］",
+      "en": "Addition at a location where shear forces are avoided before sheet-forming, e.g. after pulp beating or refining",
+      "count": 122,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H23/20": {
+      "code": "D21H23/20",
+      "level": 3,
+      "parent": "D21H23/04",
+      "ja": "そのための装置［５］",
+      "en": "Apparatus therefor",
+      "count": 357,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H23/22": {
+      "code": "D21H23/22",
+      "level": 2,
+      "parent": "D21H23/02",
+      "ja": "形成された紙への添加［５］",
+      "en": "Addition to the formed paper",
+      "count": 1344,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H23/24": {
+      "code": "D21H23/24",
+      "level": 3,
+      "parent": "D21H23/22",
+      "ja": "紙製造中におけるもの［５］<br><br><b><ul>注</ul></b><br>紙の製造中，すなわち機械上で，紙に対して材料を添加する方法または装置において，その方法や装置が製紙工程に特に従動し，または製紙工程に特に適用される場合は，グループ２３／２４へ分類される。［５］",
+      "en": "during paper manufacture; <br><br><b><u>Note(s)</u></b><br><br><ul><li>Processes or apparatus used for addition to the paper during its manufacture, i.e. on-machine, are classified in group <b>D21H23/24</b> if they are specially influenced by, or specially adapted to, the paper-making process.</li></ul>",
+      "count": 390,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H23/26": {
+      "code": "D21H23/26",
+      "level": 4,
+      "parent": "D21H23/24",
+      "ja": "添加点または紙の含有湿度の選択によるもの［５］",
+      "en": "by selecting point of addition or moisture content of the paper",
+      "count": 140,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H23/28": {
+      "code": "D21H23/28",
+      "level": 5,
+      "parent": "D21H23/26",
+      "ja": "乾燥部以前，例．湿部またはプレス部，における添加［５］",
+      "en": "Addition before the dryer section, e.g. at the wet end or press section",
+      "count": 322,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H23/30": {
+      "code": "D21H23/30",
+      "level": 3,
+      "parent": "D21H23/22",
+      "ja": "紙の前処理（Ｄ２１Ｈ２３／７０，Ｄ２１Ｈ２３／７６が優先）［５］",
+      "en": "Pretreatment of the paper(<b>D21H23/70</b>, <b>D21H23/76</b> take precedence)",
+      "count": 363,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H23/32": {
+      "code": "D21H23/32",
+      "level": 3,
+      "parent": "D21H23/22",
+      "ja": "過剰材料の紙との接触によるもの，例．貯液槽からのものまたは紙から過剰に塗られた材料を除去することによるもの（Ｄ２１Ｈ２３／６６が優先；過剰材料の除去Ｄ２１Ｈ２５／０８）［５］",
+      "en": "by contacting paper with an excess of material, e.g. from a reservoir or in a manner necessitating removal of applied excess material from the paper(<b>D21H23/66</b> takes precedence; removing excess material <b>D21H25/08</b>)",
+      "count": 1231,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H23/34": {
+      "code": "D21H23/34",
+      "level": 4,
+      "parent": "D21H23/32",
+      "ja": "ナイフまたはブレード型コータ［５］",
+      "en": "Knife or blade type coaters",
+      "count": 723,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H23/36": {
+      "code": "D21H23/36",
+      "level": 5,
+      "parent": "D21H23/34",
+      "ja": "貯液槽の一部を形成しているナイフまたはブレード，例．パドル型トレーリングブレード［５］",
+      "en": "Knife or blade forming part of the fluid reservoir, e.g. puddle-type trailing blade",
+      "count": 123,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H23/38": {
+      "code": "D21H23/38",
+      "level": 5,
+      "parent": "D21H23/34",
+      "ja": "特別な装置に適用される流体材料，例．フラッデッド・ニップ，インバーテッドブレードコータ内にロールをもつもの［５］",
+      "en": "the fluid material being applied with a special device, e.g. with a roll in a flooded-nip inverted blade coater",
+      "count": 81,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H23/40": {
+      "code": "D21H23/40",
+      "level": 4,
+      "parent": "D21H23/32",
+      "ja": "紙の一方の側のみがその材料と接触しているもの（Ｄ２１Ｈ２３／３４が優先）［５］",
+      "en": "only one side of the paper being in contact with the material(<b>D21H23/34</b> takes precedence)",
+      "count": 67,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H23/42": {
+      "code": "D21H23/42",
+      "level": 4,
+      "parent": "D21H23/32",
+      "ja": "紙が両側で少なくとも部分的にその材料によって囲まれているもの（Ｄ２１Ｈ２３／３４優先）［５］",
+      "en": "Paper being at least partly surrounded by the material on both sides(<b>D21H23/34</b> takes precedence)",
+      "count": 168,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H23/44": {
+      "code": "D21H23/44",
+      "level": 5,
+      "parent": "D21H23/42",
+      "ja": "ガスまたは蒸気による処理［５］",
+      "en": "Treatment with a gas or vapour",
+      "count": 57,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H23/46": {
+      "code": "D21H23/46",
+      "level": 3,
+      "parent": "D21H23/22",
+      "ja": "表面に対して連続的に流体をそそぐまたは流すもので，その流体全部が紙によって回収されるもの（Ｄ２１Ｈ２３／６６が優先）［５］",
+      "en": "Pouring or allowing the fluid to flow in a continuous stream on to the surface, the entire stream being carried away by the paper(<b>D21H23/66</b> takes precedence)",
+      "count": 428,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H23/48": {
+      "code": "D21H23/48",
+      "level": 4,
+      "parent": "D21H23/46",
+      "ja": "カーテンコーター［５］",
+      "en": "Curtain coaters",
+      "count": 649,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H23/50": {
+      "code": "D21H23/50",
+      "level": 3,
+      "parent": "D21H23/22",
+      "ja": "噴霧または射出するもの（Ｄ２１Ｈ２３／４４，Ｄ２１Ｈ２３／６６が優先）［５］",
+      "en": "Spraying or projecting(<b>D21H23/44</b>, <b>D21H23/66</b> take precedence)",
+      "count": 2069,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H23/52": {
+      "code": "D21H23/52",
+      "level": 3,
+      "parent": "D21H23/22",
+      "ja": "紙を材料を送る装置と接触させることによるもの（Ｄ２１Ｈ２３／３２，Ｄ２１Ｈ２３／４６，Ｄ２１Ｈ２３／６６が優先）［５］",
+      "en": "by contacting paper with a device carrying the material(<b>D21H23/32</b>, <b>D21H23/46</b>, <b>D21H23/66</b> take precedence)",
+      "count": 726,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H23/54": {
+      "code": "D21H23/54",
+      "level": 4,
+      "parent": "D21H23/52",
+      "ja": "ラビング装置，例．ブラシ，パッドまたはフェルト［５］",
+      "en": "Rubbing devices, e.g. brushes, pads or felts",
+      "count": 169,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H23/56": {
+      "code": "D21H23/56",
+      "level": 4,
+      "parent": "D21H23/52",
+      "ja": "ロール（Ｄ２１Ｈ２３／３８が優先）［５］",
+      "en": "Rolls(<b>D21H23/38</b> takes precedence)",
+      "count": 2219,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H23/58": {
+      "code": "D21H23/58",
+      "level": 5,
+      "parent": "D21H23/56",
+      "ja": "それの細部，例．表面の特徴または周速［５］",
+      "en": "Details thereof, e.g. surface characteristics or peripheral speed",
+      "count": 343,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H23/60": {
+      "code": "D21H23/60",
+      "level": 6,
+      "parent": "D21H23/58",
+      "ja": "アプリケータロール上の材料が紙に適用する前に特別な処理を必要とするもの（Ｄ２１Ｈ２３／６４が優先）［５］",
+      "en": "the material on the applicator roll being subjected to a particular treatment before applying to the paper(<b>D21H23/64</b> takes precedence)",
+      "count": 57,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H23/62": {
+      "code": "D21H23/62",
+      "level": 6,
+      "parent": "D21H23/58",
+      "ja": "逆回転ロールコーティング，すなわちアプリケータロール表面が紙の動く方向と反対方向に動くもの［５］",
+      "en": "Reverse roll coating, i.e. applicator roll surface moving in direction opposite to that of the paper",
+      "count": 46,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H23/64": {
+      "code": "D21H23/64",
+      "level": 4,
+      "parent": "D21H23/52",
+      "ja": "材料が移動する時なめらかでないもの，例．前もって形成されたもので，少なくとも部分的に硬化コーティングされたもの［５］",
+      "en": "the material being non-fluent at the moment of transfer, e.g. in form of preformed, at least partially hardened coating",
+      "count": 246,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H23/66": {
+      "code": "D21H23/66",
+      "level": 3,
+      "parent": "D21H23/22",
+      "ja": "不連続紙，例．シート，ブランクまたはロール，を処理するもの［５］",
+      "en": "Treating discontinuous paper, e.g. sheets, blanks or rolls",
+      "count": 145,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H23/68": {
+      "code": "D21H23/68",
+      "level": 4,
+      "parent": "D21H23/66",
+      "ja": "紙が連続的に動くもの［５］",
+      "en": "whereby the paper moves continuously",
+      "count": 110,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H23/70": {
+      "code": "D21H23/70",
+      "level": 3,
+      "parent": "D21H23/22",
+      "ja": "多段階工程；１つまたはいくつかの物質を各部分でまたは種々の方法で紙に付加するための装置で，このメイングループ内の他のグループに包含されないもの［５］",
+      "en": "Multistep processes; Apparatus for adding one or several substances in portions or in various ways to the paper, not covered by another single group of this main group",
+      "count": 394,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H23/72": {
+      "code": "D21H23/72",
+      "level": 4,
+      "parent": "D21H23/70",
+      "ja": "一連の複数工程のみ［５］",
+      "en": "Plural serial stages only",
+      "count": 276,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H23/74": {
+      "code": "D21H23/74",
+      "level": 4,
+      "parent": "D21H23/70",
+      "ja": "一つの技術から他の技術へ転換が可能な装置［５］",
+      "en": "Apparatus permitting switching from one technique to another",
+      "count": 23,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H23/76": {
+      "code": "D21H23/76",
+      "level": 1,
+      "parent": "D21H23/00",
+      "ja": "少なくとも１つの他の化合物から分離した状態で添加される副化合物の選択に特徴のあるもの，例．他の化合物の混入促進のため，または結合効果強化を得るためのもの（Ｄ２１Ｈ１７／１８，Ｄ２１Ｈ１７／７０，Ｄ２１Ｈ２３／１０が優先）［５］",
+      "en": "characterised by choice of auxiliary compounds which are added separately from at least one other compound, e.g. to improve the incorporation of the latter or to obtain an enhanced combined effect(<b>D21H17/18</b>, <b>D21H17/70</b>, <b>D21H23/10</b> take precedence)",
+      "count": 369,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H23/78": {
+      "code": "D21H23/78",
+      "level": 1,
+      "parent": "D21H23/00",
+      "ja": "特定の処理または装置に限定されない制御または調整［５］",
+      "en": "Controlling or regulating not limited to any particular process or apparatus",
+      "count": 901,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H25/00": {
+      "code": "D21H25/00",
+      "level": 0,
+      "parent": "D21H",
+      "ja": "グループＤ２１Ｈ１７／００～Ｄ２１Ｈ２３／００に分類されない紙の後処理［５］",
+      "en": "After-treatment of paper not provided for in groups <b>D21H17/00 to D21H23/00</b> ",
+      "count": 1553,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H25/02": {
+      "code": "D21H25/02",
+      "level": 1,
+      "parent": "D21H25/00",
+      "ja": "化学的または生化学的処理（Ｄ２１Ｈ２５／１８が優先）［５］",
+      "en": "Chemical or biochemical treatment(<b>D21H25/18</b> takes precedence)",
+      "count": 471,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H25/04": {
+      "code": "D21H25/04",
+      "level": 1,
+      "parent": "D21H25/00",
+      "ja": "物理的処理，例．加熱または放射線照射（Ｄ２１Ｈ２５／１８が優先；紙の連続ウェブの製造機械の乾燥部Ｄ２１Ｆ５／００）［５］",
+      "en": "Physical treatment, e.g. heating or irradiating(<b>D21H25/18</b> takes precedence; dryer section of machines for making continuous webs of paper <b>D21F5/00</b>)",
+      "count": 2164,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H25/06": {
+      "code": "D21H25/06",
+      "level": 2,
+      "parent": "D21H25/04",
+      "ja": "含浸加工紙またはコート紙のためのもの（Ｄ２１Ｈ２５／０８が優先）［５］",
+      "en": "of impregnated or coated paper(<b>D21H25/08</b> takes precedence)",
+      "count": 3238,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H25/08": {
+      "code": "D21H25/08",
+      "level": 1,
+      "parent": "D21H25/00",
+      "ja": "適用物質の再調整，例．計量または平滑化；過剰材料の除去［５］",
+      "en": "Rearranging applied substances, e.g. metering or smoothing; Removing excess material",
+      "count": 249,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H25/10": {
+      "code": "D21H25/10",
+      "level": 2,
+      "parent": "D21H25/08",
+      "ja": "ブレードによるもの［５］",
+      "en": "with blades",
+      "count": 464,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H25/12": {
+      "code": "D21H25/12",
+      "level": 2,
+      "parent": "D21H25/08",
+      "ja": "本質的に円筒体であるもの，例．ロールまたはロッド［５］",
+      "en": "with an essentially cylindrical body, e.g. roll or rod",
+      "count": 340,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H25/14": {
+      "code": "D21H25/14",
+      "level": 3,
+      "parent": "D21H25/12",
+      "ja": "キャストドラム［５］",
+      "en": "the body being a casting drum",
+      "count": 244,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H25/16": {
+      "code": "D21H25/16",
+      "level": 2,
+      "parent": "D21H25/08",
+      "ja": "蒸気または気体のふきつけによるもの，例．エアナイフ［５］",
+      "en": "with a blast of vapour or gas, e.g. air knife",
+      "count": 78,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H25/18": {
+      "code": "D21H25/18",
+      "level": 1,
+      "parent": "D21H25/00",
+      "ja": "書籍または書類のような古紙のもの，例．修復［５］",
+      "en": "of old paper as in books or documents, e.g. restoring",
+      "count": 824,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H27/00": {
+      "code": "D21H27/00",
+      "level": 0,
+      "parent": "D21H",
+      "ja": "他に分類されない特殊紙，例．多段階工程によって製造されるもの［５］<br><br><b><ul>注</ul></b><br>このグループにおいては，分類の他の箇所に，単に部分的に分類されるか，または全く分類されない特殊な性質または用途を有する紙について分類する。しかしながら，可能な限り，このサブクラスの他のグループの規則に従って，分類される。［５］",
+      "en": "Special paper not otherwise provided for, e.g. made by multi-step processes; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This group provides for the classification of paper with special properties or applications which are only partially or not at all provided for elsewhere in the classification. Whenever possible, however, these papers are classified according to the criteria used in the other groups of this subclass.</li></ul>",
+      "count": 14124,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H27/02": {
+      "code": "D21H27/02",
+      "level": 1,
+      "parent": "D21H27/00",
+      "ja": "模様紙（模様コーティングＤ２１Ｈ１９／６６；エンボス加工Ｂ３１Ｆ１／０７；抄紙機での擬手すき紙の製造Ｄ２１Ｆ１１／１０）［５］",
+      "en": "Patterned paper(patterned coatings <b>D21H19/66</b>; embossing <b>B31F1/07</b>;  making imitation mould-made paper on paper-making machines <b>D21F11/10</b>)",
+      "count": 2214,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H27/04": {
+      "code": "D21H27/04",
+      "level": 2,
+      "parent": "D21H27/02",
+      "ja": "マーブル紙［５］",
+      "en": "marbled",
+      "count": 21,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H27/06": {
+      "code": "D21H27/06",
+      "level": 1,
+      "parent": "D21H27/00",
+      "ja": "植物または擬パーチメント紙；グラシン紙［５］",
+      "en": "Vegetable or imitation parchment; Glassine paper",
+      "count": 197,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H27/08": {
+      "code": "D21H27/08",
+      "level": 1,
+      "parent": "D21H27/00",
+      "ja": "ろ紙（自己支持ろ過材Ｂ０１Ｄ３９／１４；製紙機による製造Ｄ２１Ｆ１１／１４）［５］",
+      "en": "Filter paper(self-supporting filtering material <b>B01D39/14</b>; making on paper-making machines <b>D21F11/14</b>)",
+      "count": 1486,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H27/10": {
+      "code": "D21H27/10",
+      "level": 1,
+      "parent": "D21H27/00",
+      "ja": "包装紙（特殊な型または形態を有する包装材Ｂ６５Ｄ６５／３８）［５］",
+      "en": "Packing paper(packaging materials of special type or form <b>B65D65/38</b>)",
+      "count": 6085,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H27/12": {
+      "code": "D21H27/12",
+      "level": 1,
+      "parent": "D21H27/00",
+      "ja": "電気絶縁紙［５］",
+      "en": "Electrically-insulating paper",
+      "count": 679,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H27/14": {
+      "code": "D21H27/14",
+      "level": 1,
+      "parent": "D21H27/00",
+      "ja": "安定な形または寸法を有する紙；そり防止紙（コイリング防止写真用支持材Ｇ０３Ｃ１／８１）［５］",
+      "en": "Paper having stable form or dimension; Curl-resistant paper(anticoil photographic support <b>G03C1/81</b>)",
+      "count": 157,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H27/16": {
+      "code": "D21H27/16",
+      "level": 1,
+      "parent": "D21H27/00",
+      "ja": "ピュアペーパ，すなわち不純物がないかまたは低含有の不純物のあるもの［５］",
+      "en": "Pure paper, i.e. paper lacking or having low content of contaminants",
+      "count": 76,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H27/18": {
+      "code": "D21H27/18",
+      "level": 1,
+      "parent": "D21H27/00",
+      "ja": "表面カバー用の紙または板紙の構造［５］",
+      "en": "Paper-based or board-based structures for surface covering",
+      "count": 1106,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H27/20": {
+      "code": "D21H27/20",
+      "level": 2,
+      "parent": "D21H27/18",
+      "ja": "可とう性構造が使用者によって用いられるもの，例．壁紙（印刷壁紙Ｂ４１Ｍ３／１８；紙または織物上のフィルム状または箔状の接着剤Ｃ０９Ｊ７／２１）［５］",
+      "en": "Flexible structures being applied by the user, e.g. wallpaper (printed wallpapers <b>B41M3/18</b>;   adhesives in the form of films or foils on paper or textile fabric <b>C09J7/21</b>)",
+      "count": 3756,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H27/22": {
+      "code": "D21H27/22",
+      "level": 2,
+      "parent": "D21H27/18",
+      "ja": "特殊な製造工程，例．加圧，によって表面に適用される構造［５］",
+      "en": "Structures being applied on the surface by special manufacturing processes, e.g. in presses",
+      "count": 454,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H27/24": {
+      "code": "D21H27/24",
+      "level": 3,
+      "parent": "D21H27/22",
+      "ja": "塗被される表面がフェノール樹脂紙貼り合せ体，バルカンファイバーまたは類似のセルロース繊維板［５］",
+      "en": "characterised by the surface to be covered being phenolic-resin paper laminates, vulcan fibre or similar cellulosic fibreboards",
+      "count": 120,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H27/26": {
+      "code": "D21H27/26",
+      "level": 3,
+      "parent": "D21H27/22",
+      "ja": "その構造において上ばり用シートまたは表紙層に特徴のあるもの（装飾用パネルＢ４４Ｃ５／０４；木目効果Ｂ４４Ｆ９／０２）［５］",
+      "en": "characterised by the overlay sheet or the top layers of the structures(decorative panels <b>B44C5/04</b>; wood grain effects <b>B44F9/02</b>)",
+      "count": 517,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H27/28": {
+      "code": "D21H27/28",
+      "level": 4,
+      "parent": "D21H27/26",
+      "ja": "特殊な抗特性，例．耐摩耗性，耐候性，を得るために処理されたもの（撥水剤Ｄ２１Ｈ２１／１６）［５］",
+      "en": "treated to obtain specific resistance properties, e.g. against wear or weather(water-repelling agents <b>D21H21/16</b>)",
+      "count": 982,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H27/30": {
+      "code": "D21H27/30",
+      "level": 1,
+      "parent": "D21H27/00",
+      "ja": "多層（表面カバー用Ｄ２１Ｈ２７／１８）［５］<br><br><b><ul>注</ul></b><br>このグループに分類される積層体はＢ３２Ｂにも分類される。［５］",
+      "en": "Multi-ply(for surface covering <b>D21H27/18</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>Layered products classified in this group are also classified in subclass <b>B32B</b>. </li></ul>",
+      "count": 7892,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H27/32": {
+      "code": "D21H27/32",
+      "level": 2,
+      "parent": "D21H27/30",
+      "ja": "シート間に用いられる材料を有するもの（紙または厚紙シートの接着Ｂ３１Ｆ５／００）［５］",
+      "en": "with materials applied between the sheets(attaching together paper or cardboard sheets <b>B31F5/00</b>)",
+      "count": 1127,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H27/34": {
+      "code": "D21H27/34",
+      "level": 3,
+      "parent": "D21H27/32",
+      "ja": "連続材料，例．フィラメント，シートまたはネット［５］",
+      "en": "Continuous materials, e.g. filaments, sheets or nets",
+      "count": 489,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H27/36": {
+      "code": "D21H27/36",
+      "level": 4,
+      "parent": "D21H27/34",
+      "ja": "合成高分子化合物から製造されるフイルム［５］",
+      "en": "Films made from synthetic macromolecular compounds",
+      "count": 591,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H27/38": {
+      "code": "D21H27/38",
+      "level": 2,
+      "parent": "D21H27/30",
+      "ja": "シートの少なくとも１枚が他のシートのものとは異なる繊維組成をもつもの［５］",
+      "en": "at least one of the sheets having a fibrous composition differing from that of other sheets",
+      "count": 1521,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H27/40": {
+      "code": "D21H27/40",
+      "level": 2,
+      "parent": "D21H27/30",
+      "ja": "シートの少なくとも１枚が非平面状であるもの，例．クレープ（紙のクレープ加工またはコルゲート加工Ｂ３１Ｆ）［５］",
+      "en": "at least one of the sheets being non-planar, e.g. cr&ecirc;ped(creping or corrugating paper <b>B31F</b>)",
+      "count": 3591,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    },
+    "D21H27/42": {
+      "code": "D21H27/42",
+      "level": 2,
+      "parent": "D21H27/30",
+      "ja": "乾式加工紙からのもの［５］",
+      "en": "comprising dry-laid paper",
+      "count": 135,
+      "sourceFile": "ipc_D21H.txt",
+      "kind": "ipc"
+    }
+  }
+}

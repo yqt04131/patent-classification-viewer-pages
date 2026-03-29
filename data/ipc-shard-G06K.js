@@ -1,0 +1,926 @@
+window.IPC_SHARD_G06K = {
+  "generatedAt": "2026-03-20T02:17:47.090Z",
+  "total": 92,
+  "entries": {
+    "G06K": {
+      "code": "G06K",
+      "level": 0,
+      "parent": "G06",
+      "ja": "グラフィックデータの読取り（イメージまたはビデオの認識または理解Ｇ０６Ｖ）；データの表示；記録担体；記録担体の取扱い<br><br><b><ul>注</ul></b><br>１．このサブクラスは以下を包含する：<br>マーク記録，読取り，および記録担体の移送；<br>記録担体からグラフィック表現を読取るもの，例．バーコード；<br>認識されたデータまたは計算結果を可視的にまたはその他の方法で出力表示すること<br><br><b><ul>サブクラス内の索引</ul></b><br>読取り<br>グラフ　１１／００<br>手書きまたはトレース器具の位置を信号に変換するもの　１１／００<br>出力データの永久可視表示　１５／００<br>マーク記録，印字　１／００，３／００<br>検査　５／００<br>読取り　７／００<br>移送　１３／００<br>上記グループの２つ以上に包含される動作の組合せ　１７／００<br>記録担体，穿孔カード　１９／００，２１／００<br>",
+      "en": "GRAPHICAL DATA READING(image or video recognition or understanding <b>G06V</b>);PRESENTATION OF DATA; RECORD CARRIERS; HANDLING RECORD CARRIERS; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This subclass <u>covers</u>:<ul><li>marking, sensing, and conveying of record carriers;</li><li>reading graphical representations from record carriers, e.g. barcodes;</li><li>presenting visually or otherwise the data recognised or the result of a computation.</li></ul></li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">READING<tr><td width=\"70%\">Graphs</td><td><b><b>11/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">CONVERTING POSITION OF MANUAL WRITING OR TRACING MEMBER INTO SIGNALS</td><td><b><b>11/00</b></b></td></tr></tr><tr><td width=\"70%\">PERMANENT VISUAL PRESENTATION OF OUTPUT DATA</td><td><b><b>15/00</b></b></td></tr></tr><tr><td width=\"70%\">MARKING, PRINTING-OUT</td><td><b><b>1/00</b>, <b>3/00</b></b></td></tr></tr><tr><td width=\"70%\">VERIFYING</td><td><b><b>5/00</b></b></td></tr></tr><tr><td width=\"70%\">SENSING</td><td><b><b>7/00</b></b></td></tr></tr><tr><td width=\"70%\">CONVEYING</td><td><b><b>13/00</b></b></td></tr></tr><tr><td width=\"70%\">COMBINATIONS OF OPERATIONS COVERED BY TWO OR MORE OF THE PRECEDING GROUPS</td><td><b><b>17/00</b></b></td></tr></tr><tr><td width=\"70%\">RECORD CARRIERS, PUNCHED CARDS</td><td><b><b>19/00</b>, <b>21/00</b></b></td></tr></tr></table>",
+      "count": 3148,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G06": {
+      "code": "G06",
+      "level": 0,
+      "parent": "G",
+      "ja": "計算または計数；計数<br><br><b><ul>注</ul></b><br>（１）このクラスは以下のものを包含する：<br>―　実際の装置またはシステム内での，現在のまたは予想される諸条件を計算するための数学的なものに関するシミュレータ；<br>―　計算を含む手段により，システムまたは装置の機能を実現するシミュレータであって，他の分類箇所がないもの；<br>―　イメージデータの処理または生成<br>（２）このクラスは以下のものを包含しない。<br>―筆記具に計算装置を結合したもの。それらはグループＢ４３Ｋ２９／０８に包含される；<br>―シミュレータから得られる制御機能一般，ただし，これはクラスＧ０５に包含されるけれども，そのような機能は，制御される装置のためのこのクラスのサブクラスに包含されることもある；<br>―シミュレータへの入力となる独立変数の測定または分析，ただし，これはＧ０１に包含される；<br>―訓練を受ける者によってなされた行動に応じて，実際に経験するような感じに似た知覚的感じを与える場合の教習具または訓練具とみなされるシミュレータ。そのようなシミュレータはクラスＧ０９に包含される；<br>―シミュレータの構成要素であってしかもなにかの装置あるいは機械と同等のもの，ただし，これはその装置また機械のための適切なサブクラスに分類し、クラスＧ０９には分類しない。<br>（３）このクラスにおいては，下記の用語または表現は以下に示す意味で用いる：<br>―　“データ”とは“情報”と同義語として用いられる。それゆえ，“情報”という用語はサブクラスＧ０６Ｃにおいて使用しない；―　“ＩＣＴ［情報通信技術］”は“ＩＴ［情報技術］”も含む；<br>―“カルキュレーティング”または“コンピューティングとは，とりわけ，数値および数値形式で表現されたデータについての演算を含む。これらの用語のうち，“コンピューティング”はクラス全体にわたって使用される；<br>―“コンピューテーション”という用語は“コンピューティング”から派生している。フランス語では“カルキュル”という用語はいずれの意味にも使用される；<br>―“シミュレータ”とは，実際の装置と同じ時間スケールを使用するかまたは拡大もしくは縮小した時間スケールで動作する装置である；<br>―“記録担体”とはシリンダ，ディスク，カード，テープ，ワイヤのような永久的に情報を保持できる物体を意味し，記録された情報に対して相対的に移動しうる感知素子によって読出しのできるものである。<br>（４）セクションＧのタイトルに続く注，特に“変量”という用語の定義については注意すること。",
+      "en": "COMPUTING OR CALCULATING;  COUNTING; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This class <u>covers</u> : <ul><li>simulators which are concerned with the mathematics of computing the existing or anticipated conditions within the real device or system;</li><li>simulators which demonstrate, by means involving computing, the function of apparatus or of a system, if no provision exists elsewhere;</li><li>image data processing or generation.</li></ul></li><li>This class <u>does not cover</u> : <ul><li>combinations of writing implements with computing devices, which are covered by group <b>B43K29/08</b>;</li><li>control functions derived from simulators, in general, which are covered by class <b>G05</b>, although such functions may be covered by the subclass of this class for the device controlled;</li><li>measurement or analysis of an individual variable to serve as an input to a simulator, which is covered by class <b>G01</b>;</li><li>simulators regarded as teaching or training devices which is the case if they give perceptible sensations having a likeness to the sensations a student would experience in reality in response to actions taken by him. Such simulators are covered by class <b>G09</b>;</li><li>components of simulators, if identical with real devices or machines, which are covered by the relevant subclass for these devices or machines and not by class <b>G09</b>.</li></ul></li><li>In this class, the following terms or expressions are used with the meanings indicated: <ul><li>\"data\" is used as the synonym of \"information\". Therefore, the term \"information\" is not used in subclass <b>G06C</b>;</li><li>\"ICT [information and communication technology]\" also covers \"IT [information technology]\";</li><li>\"calculating or computing\" includes, <u>inter alia</u>, operations on numerical values and on data expressed in numerical form. Of these terms \"computing\" is used throughout the class; \"computation\" is derived from this interpretation of \"computing\". In the French language the term \"calcul\" will serve for either term;</li><li>\"simulator\" is a device which may use the same time scale as the real device or operate on an expanded or compressed time scale. In interpreting this term models of real devices to reduced or expanded scales are not regarded as simulators;</li><li>\"record carrier\" means a body, such as a cylinder, disc, card, tape, or wire, capable of permanently holding information, which can be read-off by a sensing element movable relative to the recorded information.</li></ul></li><li>Attention is drawn to the Notes following the title of section <b>G</b>, especially as regards the definition of the term \"variable\".</li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G": {
+      "code": "G",
+      "level": 0,
+      "parent": null,
+      "ja": "物理学<br><br><b><ul>注</ul></b><br>１．このセクションにおいては，下記の用語は以下に示す意味で用いる：<br>・“変量”は名詞として，特定の実在物，例．物体，ある量の物質，光ビーム，に関し特定の瞬間に測定することの可能な特性又は特質，例．寸法，温度等の物理的状態，密度又は色等の性質，を意味する。変量が変化すると，その数値的表現は異なる時点で，異なる状態又は個々の状況において異なる値をとることもあり，また，ある状態のもとで又は実用上特定の実在物に関して一定でありうる，例．バーの長さが多くの目的のために一定とみなされる，こともある。<br>２．使用される用語または表現の定義に注意すること。このセクションのいくつかのクラスの注に使用されているものについて，特にクラスＧ０１の“測定”を参照されたい．ＩＰＣ指針パラグラフ１８７の中にあるものについて，“制御”及び“調整”の定義に参照されたい。<br>３．このセクションにおける分類は他のセクションにおいてよりもめんどうな場合があり得る，というのは，その一つは，いろいろな使用分野の差異の判別には構造上の差異又は使用形態上の差異よりも寧ろ使用者の意図における差異の方にかなりの程度影響されてしまうからであり，もう一つは，扱う主題が容易に全体として識別できる“もの”であるよりも，特性又は部品が他の主題のものと共通のものを有しているシステム又は組合わせであることが実際上多いからである。例えば，情報（例．一連の数値）をディスプレイするのは，クラスＧ０９に包含される，教育又は広告のため，クラスＧ０１に包含される，測定の結果が通知されうるため，クラスＧ０８に包含される，遠隔地点に情報を合図するため，又は遠隔地点から合図された情報を提供するためである。目的を記述するために使用する言葉は，当該装置の形態に無関係なこともあり得る特性－例えば，ディスプレイを見る者にとって望ましい効果とか，ディスプレイが遠隔地点から制御されるかどうかという特性－によって決定される。さらに，ある状態，例えば流体圧の変化に応答する装置は，その装置そのものには変更を加えずして，サブクラスＧ０１Ｌに包含される圧力又はＧ０１の他のサブクラスに包含される圧力に関連した他の何らかの状態，例．温度に関してＧ０１Ｋ，についての情報を与えるため，サブクラスＧ０７Ｃに包含される圧力または圧力発生の記録をするため，サブクラスＧ０８Ｂに包含される警報を発するため，又はクラスＧ０５に包含される他の何らかの装置を制御するために用いられることがある。<br>　本分類表は，前述したように，同一の性質のものは同一箇所に分類し得るようにしたものである。従って，技術主題が適切箇所に分類されるためには予めその真正な本質を把握することが特に必要である。",
+      "en": "PHYSICS; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this section, the following term is used with the meaning indicated: <ul><li>\"variable\" as a noun means a feature or property, e.g. a dimension, a physical condition such as temperature, a quality such as density or colour, which, in respect of a particular entity, e.g. an object, a quantity of a substance, a beam of light, and at a particular instant, is capable of being measured; the variable may change, so that its numerical expression may assume different values at different times, in different conditions or in individual cases, but may be constant in respect of a particular entity in certain conditions or for practical purposes, e.g. the length of a bar may be regarded as constant for many purposes.</li></ul></li><li>Attention is drawn to the definitions of terms or expressions used. Some appear in the notes of several of the classes in this section, see in particular the definition of \"measuring\" in class <b>G01</b>. Others appear in paragraph 187 of the Guide to the IPC, see in particular the definitions of \"control\" and \"regulation\".</li><li>Classification in this section may present more difficulty than in other sections, because the distinction between different fields of use rests to a considerable extent on differences in the intention of the user rather than on any constructional differences or differences in the manner of use, and because the subjects dealt with are often in effect systems or combinations, which have features or parts in common, rather than \"things\", which are readily distinguishable as a whole. For example, information, e.g. a set of figures, may be displayed for the purpose of education or advertising covered by class <b>G09</b>, for enabling the result of a measurement to be known covered by class <b>G01</b>, for signalling the information to a distant point or for giving information which has been signalled from a distant point covered by class <b>G08</b>. The words used to describe the purpose depend on features that may be irrelevant to the form of the apparatus concerned, for example, such features as the desired effect on the person who sees the display, or whether the display is controlled from a remote point. Again, a device which responds to some change in a condition, e.g. in the pressure of a fluid, may be used, without modification of the device itself, to give information about the pressure covered by subclass <b>G01L</b> or about some other condition linked to the pressure covered by another subclass of class <b>G01</b>, e.g. <b>G01K</b> for temperature, to make a record of the pressure or of its occurrence covered by subclass <b>G07C</b>, to give an alarm covered by subclass <b>G08B</b>, or to control another apparatus covered by class <b>G05</b>. <ul><li>The classification scheme is intended to enable things of a similar nature, as indicated above, to be classified together. It is therefore particularly necessary for the real nature of any technical subject to be decided before it can be properly classified.</li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G06K1/00": {
+      "code": "G06K1/00",
+      "level": 0,
+      "parent": "G06K",
+      "ja": "記録担体にデジタル形態でマーキングするための方法または装置",
+      "en": "Methods or arrangements for marking the record carrier in digital fashion",
+      "count": 3615,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K1/02": {
+      "code": "G06K1/02",
+      "level": 1,
+      "parent": "G06K1/00",
+      "ja": "せん孔によるもの",
+      "en": "by punching",
+      "count": 1052,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K1/04": {
+      "code": "G06K1/04",
+      "level": 2,
+      "parent": "G06K1/02",
+      "ja": "せん孔されている記録担体上の記録マークの読取りによって制御されるもの",
+      "en": "controlled by sensing markings on the record carrier being punched",
+      "count": 89,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K1/05": {
+      "code": "G06K1/05",
+      "level": 2,
+      "parent": "G06K1/02",
+      "ja": "高速せん孔装置，例．電子計算機によって制御されるもの",
+      "en": "High-speed punches, e.g. controlled by electric computer",
+      "count": 93,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K1/06": {
+      "code": "G06K1/06",
+      "level": 2,
+      "parent": "G06K1/02",
+      "ja": "手動で制御される装置",
+      "en": "Manually-controlled devices",
+      "count": 363,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K1/08": {
+      "code": "G06K1/08",
+      "level": 3,
+      "parent": "G06K1/06",
+      "ja": "カードせん孔装置",
+      "en": "Card punches",
+      "count": 242,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K1/10": {
+      "code": "G06K1/10",
+      "level": 3,
+      "parent": "G06K1/06",
+      "ja": "テープせん孔装置",
+      "en": "Tape punches",
+      "count": 308,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K1/12": {
+      "code": "G06K1/12",
+      "level": 1,
+      "parent": "G06K1/00",
+      "ja": "せん孔以外の方法によるもの",
+      "en": "otherwise than by punching",
+      "count": 6219,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K1/14": {
+      "code": "G06K1/14",
+      "level": 1,
+      "parent": "G06K1/00",
+      "ja": "データを同種のまたは異種の記録担体から移すことによるもの",
+      "en": "by transferring data from a similar or dissimilar record carrier",
+      "count": 149,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K1/16": {
+      "code": "G06K1/16",
+      "level": 2,
+      "parent": "G06K1/14",
+      "ja": "データを一枚のせん孔されたカードから一枚以上のカードに符号形式を変えることなく再生することによるもの，すなわちデュプリケート",
+      "en": "by reproducing data from one punched card on to one or more punched cards without the code representation, i.e. duplicating",
+      "count": 49,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K1/18": {
+      "code": "G06K1/18",
+      "level": 2,
+      "parent": "G06K1/14",
+      "ja": "データをある型の担体から他の担体に移すことによるもの，例．磁気テープからせん孔カードに移すことによるもの",
+      "en": "by transferring data from one type of record carrier on to another type of record carrier, e.g. from magnetic tape to punched card",
+      "count": 184,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K1/20": {
+      "code": "G06K1/20",
+      "level": 1,
+      "parent": "G06K1/00",
+      "ja": "データの記録担体へのマーク記録と印字とを同時に行なうもの，例．印字せん孔機",
+      "en": "Simultaneous marking of record carrier and printing-out of data, e.g. printing-punch",
+      "count": 247,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K1/22": {
+      "code": "G06K1/22",
+      "level": 2,
+      "parent": "G06K1/20",
+      "ja": "別個の記録担体，例．異なった型の記録担体，上へマーク記録と印字とを同時に行なうもの",
+      "en": "Simultaneous marking and printing on different record carriers, e.g. on different types of record carrier",
+      "count": 71,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K3/00": {
+      "code": "G06K3/00",
+      "level": 0,
+      "parent": "G06K",
+      "ja": "記録担体からのアルファニューメリックまたはその他の文字の形態のデータを印字する方法または装置，例．磁気テープからのデータを解読し，印字するもの",
+      "en": "Methods or arrangements for printing of data in the shape of alphanumeric or other characters from a record carrier, e.g. interpreting, printing-out from a magnetic tape",
+      "count": 341,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K3/02": {
+      "code": "G06K3/02",
+      "level": 1,
+      "parent": "G06K3/00",
+      "ja": "記録担体上の記録マークを同一担体上の印字データにほん訳するためのもの，すなわち解読",
+      "en": "Translating markings on a record carrier into printed data on the same record carrier, i.e. interpreting",
+      "count": 91,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K5/00": {
+      "code": "G06K5/00",
+      "level": 0,
+      "parent": "G06K",
+      "ja": "記録担体上のマーキングの正しさを検証するための方法または装置；コラム検知デバイス",
+      "en": "Methods or arrangements for verifying the correctness of markings on a record carrier; Column-detection devices",
+      "count": 5084,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K5/02": {
+      "code": "G06K5/02",
+      "level": 1,
+      "parent": "G06K5/00",
+      "ja": "検査がマーク記録動作の一部を形成しているもの",
+      "en": "the verifying forming a part of the marking action",
+      "count": 337,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K5/04": {
+      "code": "G06K5/04",
+      "level": 1,
+      "parent": "G06K5/00",
+      "ja": "マーク整列の検査を行なうもの",
+      "en": "Verifying the alignment of markings",
+      "count": 432,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K7/00": {
+      "code": "G06K7/00",
+      "level": 0,
+      "parent": "G06K",
+      "ja": "記録担体を読取る方法または装置（記録担体にデジタル的に記録する方法または装置Ｇ０６Ｋ１／００；パターン認識Ｇ０６Ｆ１８／００；イメージまたはビデオの認識または理解のための装置Ｇ０６Ｖ１０／００；文字認識，デジタルインクの認識，文書指向イメージベースのパターン認識Ｇ０６Ｖ３０／００）［２００６．０１］",
+      "en": "Methods or arrangements for sensing record carriers (methods or arrangements for marking the record carrier in digital fashion <b>G06K1/00</b>;  pattern recognition <b>G06F18/00</b>;  arrangements for image or video recognition or understanding <b>G06V10/00</b>;  character recognition, recognising digital ink or document-oriented image-based pattern recognition <b>G06V30/00</b>)",
+      "count": 34627,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K7/01": {
+      "code": "G06K7/01",
+      "level": 1,
+      "parent": "G06K7/00",
+      "ja": "細部",
+      "en": "Details",
+      "count": 4243,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K7/015": {
+      "code": "G06K7/015",
+      "level": 2,
+      "parent": "G06K7/01",
+      "ja": "記録担体に対する読取り装置の整列または中心位置合せ",
+      "en": "Aligning or centring of the sensing device with respect to the record carrier",
+      "count": 2077,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K7/016": {
+      "code": "G06K7/016",
+      "level": 2,
+      "parent": "G06K7/01",
+      "ja": "読取り過程の同期",
+      "en": "Synchronisation of sensing process",
+      "count": 1771,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K7/02": {
+      "code": "G06K7/02",
+      "level": 1,
+      "parent": "G06K7/00",
+      "ja": "気体または液体を用いるもの，例．圧縮空気でせん孔を読取るもの；音波手段によるもの",
+      "en": "by pneumatic or hydraulic means, e.g. sensing punched holes with compressed air; by sonic means",
+      "count": 249,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K7/04": {
+      "code": "G06K7/04",
+      "level": 1,
+      "parent": "G06K7/00",
+      "ja": "機械的手段によるもの，例．電気的接点を作動するピンによるもの",
+      "en": "by mechanical means, e.g. by pins operating electric contacts",
+      "count": 685,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K7/06": {
+      "code": "G06K7/06",
+      "level": 1,
+      "parent": "G06K7/00",
+      "ja": "記録マークの有無により電流を流す手段によるもの，例．せん孔のための接触ブラシまたはピンによるもの，導電性マークのための接触ブラシによるもの",
+      "en": "by means which conduct current when a mark is sensed or absent, e.g. contact brush for a conductive mark",
+      "count": 1289,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K7/08": {
+      "code": "G06K7/08",
+      "level": 1,
+      "parent": "G06K7/00",
+      "ja": "静電場または磁場の変化を検出する手段によるもの，例．電極間の容量の変化を検出することによるもの",
+      "en": "by means detecting the change of an electrostatic or magnetic field, e.g. by detecting change of capacitance between electrodes",
+      "count": 7161,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K7/10": {
+      "code": "G06K7/10",
+      "level": 1,
+      "parent": "G06K7/00",
+      "ja": "電磁放射線によるもの，例．光学的読取り；粒子放射線によるもの",
+      "en": "by electromagnetic radiation, e.g. optical sensing; by corpuscular radiation",
+      "count": 68597,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K7/12": {
+      "code": "G06K7/12",
+      "level": 2,
+      "parent": "G06K7/10",
+      "ja": "選択された波長を用いるもの，例．赤色マークを読取り，青色マークを無視するもの",
+      "en": "using a selected wavelength, e.g. to sense red marks and ignore blue marks",
+      "count": 2596,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K7/14": {
+      "code": "G06K7/14",
+      "level": 2,
+      "parent": "G06K7/10",
+      "ja": "波長を特定しない光を用いるもの，例．白色光の反射を感知するもの",
+      "en": "using light without selection of wavelength, e.g. sensing reflected white light",
+      "count": 20510,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K11/00": {
+      "code": "G06K11/00",
+      "level": 0,
+      "parent": "G06K",
+      "ja": "グラフを読取るため，または機械的変量，例．力または存否，のパターンを電気信号に変換するための方法または装置（文字またはパターン認識と結合しているものＧ０６Ｆ１８／００；イメージまたはビデオの認識または理解のための装置Ｇ０６Ｖ１０／００；文字認識，デジタルインクの認識，文書指向イメージベースのパターン認識Ｇ０６Ｖ３０／００）［２００６．０１］",
+      "en": "Methods or arrangements for graph-reading or for converting the pattern of mechanical parameters, e.g. force or presence, into electrical signals(combined with pattern recognition <b>G06F18/00</b>; arrangements for image or video recognition or understanding <b>G06V10/00</b>; character recognition, recognising digital ink or document-oriented image-based pattern recognition <b>G06V30/00</b>)",
+      "count": 2099,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K11/02": {
+      "code": "G06K11/02",
+      "level": 1,
+      "parent": "G06K11/00",
+      "ja": "自動曲線追従器",
+      "en": "Automatic curve followers",
+      "count": 419,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K11/04": {
+      "code": "G06K11/04",
+      "level": 2,
+      "parent": "G06K11/02",
+      "ja": "補助走査パターンを用いるもの［２］",
+      "en": "using an auxiliary scanning pattern",
+      "count": 130,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K11/06": {
+      "code": "G06K11/06",
+      "level": 1,
+      "parent": "G06K11/00",
+      "ja": "手動操作の筆記具またはトレース器具の位置を電気信号に変換するための装置［３］",
+      "en": "Devices for converting the position of a manually-operated writing or tracing member into an electrical signal",
+      "count": 4406,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K13/00": {
+      "code": "G06K13/00",
+      "level": 0,
+      "parent": "G06K",
+      "ja": "ある位置から他の位置への記録担体の移送，例．スタックからせん孔機構への記録担体の移送（別の動作，例．読取り，と組み合わせた記録担体の移送Ｇ０６Ｋ１７／００）",
+      "en": "Conveying record carriers from one station to another, e.g. from stack to punching mechanism(conveying record carriers combined with another operation, e.g. with reading <b>G06K17/00</b>)",
+      "count": 1087,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K13/02": {
+      "code": "G06K13/02",
+      "level": 1,
+      "parent": "G06K13/00",
+      "ja": "縦横の長さがあまり違わない記録担体に関するもの，例．せん孔カード用",
+      "en": "the record carrier having longitudinal dimension comparable with transverse dimension, e.g. punched card",
+      "count": 584,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K13/04": {
+      "code": "G06K13/04",
+      "level": 2,
+      "parent": "G06K13/02",
+      "ja": "細部，例．カード分類装置のフラップ",
+      "en": "Details, e.g. flaps in card-sorting apparatus",
+      "count": 882,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K13/05": {
+      "code": "G06K13/05",
+      "level": 3,
+      "parent": "G06K13/04",
+      "ja": "キャプスタン；ピンチローラ",
+      "en": "Capstans; Pinch rollers",
+      "count": 370,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K13/06": {
+      "code": "G06K13/06",
+      "level": 2,
+      "parent": "G06K13/02",
+      "ja": "カードの案内；カード移送機構の正しい動作の検査［２］",
+      "en": "Guiding cards; Checking correct operation of card-conveying mechanisms",
+      "count": 2903,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K13/063": {
+      "code": "G06K13/063",
+      "level": 3,
+      "parent": "G06K13/06",
+      "ja": "カードの整列［２］",
+      "en": "Aligning cards",
+      "count": 1429,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K13/067": {
+      "code": "G06K13/067",
+      "level": 3,
+      "parent": "G06K13/06",
+      "ja": "カードの有無，正しい位置，移動状態の検査［２］",
+      "en": "Checking presence, absence, correct position, or moving status of cards",
+      "count": 1374,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K13/07": {
+      "code": "G06K13/07",
+      "level": 2,
+      "parent": "G06K13/02",
+      "ja": "複数ステーション間でのカードの移送",
+      "en": "Transporting of cards between stations",
+      "count": 1606,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K13/073": {
+      "code": "G06K13/073",
+      "level": 3,
+      "parent": "G06K13/07",
+      "ja": "連続移動によるもの［２］",
+      "en": "with continuous movement",
+      "count": 223,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K13/077": {
+      "code": "G06K13/077",
+      "level": 3,
+      "parent": "G06K13/07",
+      "ja": "間欠移動によるもの；移動の制止または停止［２］",
+      "en": "with intermittent movement; Braking or stopping movement",
+      "count": 634,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K13/08": {
+      "code": "G06K13/08",
+      "level": 2,
+      "parent": "G06K13/02",
+      "ja": "カードの供給または排出",
+      "en": "Feeding or discharging cards",
+      "count": 3509,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K13/10": {
+      "code": "G06K13/10",
+      "level": 3,
+      "parent": "G06K13/08",
+      "ja": "マガジンから移送装置へ",
+      "en": "from magazine to conveying arrangement",
+      "count": 547,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K13/103": {
+      "code": "G06K13/103",
+      "level": 4,
+      "parent": "G06K13/10",
+      "ja": "機械的手段によるもの［２］",
+      "en": "using mechanical means",
+      "count": 1404,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K13/107": {
+      "code": "G06K13/107",
+      "level": 4,
+      "parent": "G06K13/10",
+      "ja": "空気力学的手段によるもの［２］",
+      "en": "using pneumatic means",
+      "count": 357,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K13/12": {
+      "code": "G06K13/12",
+      "level": 3,
+      "parent": "G06K13/08",
+      "ja": "移送装置からマガジンへ",
+      "en": "from conveying arrangement to magazine",
+      "count": 1119,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K13/14": {
+      "code": "G06K13/14",
+      "level": 3,
+      "parent": "G06K13/08",
+      "ja": "カードマガジン，例．ポケット，ホッパー",
+      "en": "Card magazines, e.g. pocket, hopper",
+      "count": 1236,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K13/16": {
+      "code": "G06K13/16",
+      "level": 2,
+      "parent": "G06K13/02",
+      "ja": "可撓性シート，例．小切手，の処理",
+      "en": "Handling flexible sheets, e.g. cheques",
+      "count": 200,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K13/18": {
+      "code": "G06K13/18",
+      "level": 1,
+      "parent": "G06K13/00",
+      "ja": "縦方向に延びた記録担体，例．せん孔テープ",
+      "en": "the record carrier being longitudinally extended, e.g. punched tape",
+      "count": 386,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K13/20": {
+      "code": "G06K13/20",
+      "level": 2,
+      "parent": "G06K13/18",
+      "ja": "細部",
+      "en": "Details",
+      "count": 261,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K13/22": {
+      "code": "G06K13/22",
+      "level": 3,
+      "parent": "G06K13/20",
+      "ja": "キャプスタン；ピンチローラ",
+      "en": "Capstans; Pinch rollers",
+      "count": 127,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K13/24": {
+      "code": "G06K13/24",
+      "level": 2,
+      "parent": "G06K13/18",
+      "ja": "記録担体の案内；記録担体の端部の検出",
+      "en": "Guiding of record carriers; Recognising end of record carrier",
+      "count": 432,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K13/26": {
+      "code": "G06K13/26",
+      "level": 2,
+      "parent": "G06K13/18",
+      "ja": "記録担体の巻上げまたは巻戻し；記録担体の駆動［２］",
+      "en": "Winding-up or unwinding of record carriers; Driving of record carriers",
+      "count": 772,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K13/28": {
+      "code": "G06K13/28",
+      "level": 3,
+      "parent": "G06K13/26",
+      "ja": "連続的に行なうもの［２］",
+      "en": "continuously",
+      "count": 112,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K13/30": {
+      "code": "G06K13/30",
+      "level": 3,
+      "parent": "G06K13/26",
+      "ja": "間欠的に行なうもの［２］",
+      "en": "intermittently",
+      "count": 297,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K15/00": {
+      "code": "G06K15/00",
+      "level": 0,
+      "parent": "G06K",
+      "ja": "出力データの永久可視表示を作成するための装置（別の動作，例．移送，と組み合わせた印刷またはプロッティングＧ０６Ｋ１７／００）［３］",
+      "en": "Arrangements for producing a permanent visual presentation of the output data(printing or plotting combined with another operation, e.g. with conveying, <b>G06K17/00</b>)",
+      "count": 20754,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K15/02": {
+      "code": "G06K15/02",
+      "level": 1,
+      "parent": "G06K15/00",
+      "ja": "プリンタを用いるもの",
+      "en": "using printers",
+      "count": 11067,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K15/04": {
+      "code": "G06K15/04",
+      "level": 2,
+      "parent": "G06K15/02",
+      "ja": "ラック型プリンタによるもの",
+      "en": "by rack-type printers",
+      "count": 189,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K15/06": {
+      "code": "G06K15/06",
+      "level": 2,
+      "parent": "G06K15/02",
+      "ja": "活字輪型プリンタによるもの",
+      "en": "by type-wheel printers",
+      "count": 1024,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K15/07": {
+      "code": "G06K15/07",
+      "level": 3,
+      "parent": "G06K15/06",
+      "ja": "連続回転活字輪型プリンタ，例．回転活字ドラム型プリンタ，によるもの［２］",
+      "en": "by continuously-rotating-type-wheel printers, e.g. rotating-type-drum printers",
+      "count": 578,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K15/08": {
+      "code": "G06K15/08",
+      "level": 2,
+      "parent": "G06K15/02",
+      "ja": "印字行の方向に移動する活字型を有するフライトプリンタ，例．チェーン型プリンタ，によるもの",
+      "en": "by flight printing with type font moving in the direction of the printed line, e.g. chain printers",
+      "count": 992,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K15/10": {
+      "code": "G06K15/10",
+      "level": 2,
+      "parent": "G06K15/02",
+      "ja": "マトリックス型プリンタによるもの",
+      "en": "by matrix printers",
+      "count": 6794,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K15/12": {
+      "code": "G06K15/12",
+      "level": 2,
+      "parent": "G06K15/02",
+      "ja": "写真印刷によるもの",
+      "en": "by photographic printing",
+      "count": 5400,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K15/14": {
+      "code": "G06K15/14",
+      "level": 2,
+      "parent": "G06K15/02",
+      "ja": "静電印刷によるもの，例．ゼログラフィーによるもの；磁気印刷によるもの",
+      "en": "by electrographic printing, e.g. xerography; by magnetographic printing",
+      "count": 1367,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K15/16": {
+      "code": "G06K15/16",
+      "level": 2,
+      "parent": "G06K15/02",
+      "ja": "紙または用紙の給送手段",
+      "en": "Means for paper feeding or form feeding",
+      "count": 2991,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K15/22": {
+      "code": "G06K15/22",
+      "level": 1,
+      "parent": "G06K15/00",
+      "ja": "プロッタを用いるもの［３］",
+      "en": "using plotters",
+      "count": 1230,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K17/00": {
+      "code": "G06K17/00",
+      "level": 0,
+      "parent": "G06K",
+      "ja": "メイングループＧ０６Ｋ１／００～Ｇ０６Ｋ１５／００の２つ以上のメイングループに包含される装置を協働させるための方法または装置，例．移送動作と読取り動作を取り込んだ自動カードファイル",
+      "en": "Methods or arrangements for effecting co-operative working between equipments covered by two or more of main groups <b>G06K1/00 to G06K15/00</b> , e.g. automatic card files incorporating conveying and reading operations",
+      "count": 99621,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K19/00": {
+      "code": "G06K19/00",
+      "level": 0,
+      "parent": "G06K",
+      "ja": "機械と共に使用され，かつ，少なくとも，デジタルマーキングを担持するように設計された部分と共に使用される，ための記録担体",
+      "en": "Record carriers for use with machines and with at least a part designed to carry digital markings",
+      "count": 20841,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K19/02": {
+      "code": "G06K19/02",
+      "level": 1,
+      "parent": "G06K19/00",
+      "ja": "材料の選定に特徴のあるもの，例．機械中を移送する間での摩耗を避けるための材料の選定",
+      "en": "characterised by the selection of materials, e.g. to avoid wear during transport through the machine",
+      "count": 3480,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K19/04": {
+      "code": "G06K19/04",
+      "level": 1,
+      "parent": "G06K19/00",
+      "ja": "形状によって特徴づけられるもの",
+      "en": "characterised by the shape",
+      "count": 2818,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K19/06": {
+      "code": "G06K19/06",
+      "level": 1,
+      "parent": "G06K19/00",
+      "ja": "デジタルマーキングの種類によって特徴づけられるもの，例．形状，性質，コード",
+      "en": "characterised by the kind of the digital marking, e.g. shape, nature, code",
+      "count": 36974,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K19/063": {
+      "code": "G06K19/063",
+      "level": 2,
+      "parent": "G06K19/06",
+      "ja": "欄外にせん孔されているかまたは刻みを入れられている担体，例．細長いスロットをもつもの［５］",
+      "en": "the carrier being marginally punched or notched, e.g. having elongated slots",
+      "count": 379,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K19/067": {
+      "code": "G06K19/067",
+      "level": 2,
+      "parent": "G06K19/06",
+      "ja": "導電性マーク，印刷回路または半導体回路素子をもつ記録担体，例．クレジットカードまたは身分証明書（電話機からの承認された発呼のためにコード化されたカードを用いるものＨ０４Ｍ１／６７５）［５］",
+      "en": "Record carriers with conductive marks, printed circuits or semiconductor circuit elements, e.g. credit or identity cards(using a coded card to authorise calls from a telephone set <b>H04M1/675</b>)",
+      "count": 4101,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K19/07": {
+      "code": "G06K19/07",
+      "level": 3,
+      "parent": "G06K19/067",
+      "ja": "集積回路チップを備えるもの［５］",
+      "en": "with integrated circuit chips",
+      "count": 44415,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K19/073": {
+      "code": "G06K19/073",
+      "level": 4,
+      "parent": "G06K19/07",
+      "ja": "回路用の特別な機構，例．メモリ内の識別コードを保護するためのもの（計算機のメモリの不正な使用に対する保護Ｇ０６Ｆ１２／１４）［５］",
+      "en": "Special arrangements for circuits, e.g. for protecting identification code in memory(protection against unauthorised use of computer memory <b>G06F12/14</b>)",
+      "count": 7162,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K19/077": {
+      "code": "G06K19/077",
+      "level": 4,
+      "parent": "G06K19/07",
+      "ja": "構造上の細部，例．担体内への回路の取付け［５］",
+      "en": "Constructional details, e.g. mounting of circuits in the carrier",
+      "count": 47745,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K19/08": {
+      "code": "G06K19/08",
+      "level": 2,
+      "parent": "G06K19/06",
+      "ja": "同一記録担体中に異なる種類のマーキングを用いるもの，例．一方のマーキングは光学的に読み取られ，他方のマーキングは磁気的手段によって読み取られるもの",
+      "en": "using markings of different kinds in the same record carrier, e.g. one marking being sensed by optical and the other by magnetic means",
+      "count": 2602,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K19/10": {
+      "code": "G06K19/10",
+      "level": 3,
+      "parent": "G06K19/08",
+      "ja": "少なくとも一種類のマーキングが認証のために用いられるもの，例．クレジットカードまたは身分証明書の認証のために用いられるもの（それらによって作動される機構内での符号化された身分証明書またはクレジットカードの検証Ｇ０７Ｆ７／１２）［５］",
+      "en": "at least one kind of marking being used for authentication, e.g. of credit or identity cards(verification of coded identity or credit cards in mechanisms actuated by them <b>G07F7/12</b>)",
+      "count": 6451,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K19/12": {
+      "code": "G06K19/12",
+      "level": 4,
+      "parent": "G06K19/10",
+      "ja": "マーキングが磁気的手段によって読取られるもの［５］",
+      "en": "the marking being sensed by magnetic means",
+      "count": 436,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K19/14": {
+      "code": "G06K19/14",
+      "level": 4,
+      "parent": "G06K19/10",
+      "ja": "マーキングが放射線によって読取られるもの［５］",
+      "en": "the marking being sensed by radiation",
+      "count": 1050,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K19/16": {
+      "code": "G06K19/16",
+      "level": 5,
+      "parent": "G06K19/14",
+      "ja": "マーキングがホログラムまたは回折格子であるもの［５］",
+      "en": "the marking being a hologram or diffraction grating",
+      "count": 660,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K19/18": {
+      "code": "G06K19/18",
+      "level": 4,
+      "parent": "G06K19/10",
+      "ja": "構造上の細部［５］",
+      "en": "Constructional details",
+      "count": 441,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K21/00": {
+      "code": "G06K21/00",
+      "level": 0,
+      "parent": "G06K",
+      "ja": "手で扱うかまたは機械で処理するように設計されたせん孔カードからの情報検索（Ｇ０６Ｋ１９／００が優先；パターンの再走査によるエラーの検出または訂正Ｇ０６Ｖ３０／００；カード移送機構の正しい動作の検査Ｇ０６Ｋ１３／０６）；そのようなカードを処理するための装置，例．マーキングまたは訂正",
+      "en": "Information retrieval from punched cards designed for manual use or handling by machine (<b>G06K19/00</b> takes precedence;  detection or correction of errors by rescanning patterns <b>G06V30/00</b>;  checking correct operation of card-conveying mechanisms <b>G06K13/06</b>);Apparatus for handling such cards, e.g. marking or correcting",
+      "count": 864,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K21/02": {
+      "code": "G06K21/02",
+      "level": 1,
+      "parent": "G06K21/00",
+      "ja": "マークの一致を機械的に，例．針によって，検出するもの",
+      "en": "in which coincidence of markings is sensed mechanically, e.g. by needle",
+      "count": 617,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K21/04": {
+      "code": "G06K21/04",
+      "level": 1,
+      "parent": "G06K21/00",
+      "ja": "マークの一致を光学的に検出するもの，例．ピーカブー方式",
+      "en": "in which coincidence of markings is sensed optically, e.g. peek-a-boo system",
+      "count": 427,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K21/06": {
+      "code": "G06K21/06",
+      "level": 1,
+      "parent": "G06K21/00",
+      "ja": "情報検索カードにスロッティングまたはその他のマーク記録を行なうのに適した装置または道具",
+      "en": "Apparatus or tools adapted for slotting or otherwise marking information-retrieval cards",
+      "count": 178,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    },
+    "G06K21/08": {
+      "code": "G06K21/08",
+      "level": 1,
+      "parent": "G06K21/00",
+      "ja": "せん孔誤りまたはスロッティング誤りを訂正する装置または道具［２］",
+      "en": "Apparatus or tools for correcting punching or slotting errors",
+      "count": 56,
+      "sourceFile": "ipc_G06K.txt",
+      "kind": "ipc"
+    }
+  }
+};

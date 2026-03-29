@@ -1,0 +1,516 @@
+window.IPC_SHARD_A61N = {
+  "generatedAt": "2026-03-20T02:17:45.959Z",
+  "total": 51,
+  "entries": {
+    "A61N": {
+      "code": "A61N",
+      "level": 0,
+      "parent": "A61",
+      "ja": "電気治療；磁気治療；放射線治療；超音波治療（生体電流の測定Ａ６１Ｂ；非機械的な形態のエネルギーを，身体へ，または身体から伝達する手術用機器，器具，または方法Ａ６１Ｂ１８／００；麻酔装置一般Ａ６１Ｍ；白熱ランプＨ０１Ｋ；加熱用の赤外線放射器Ｈ０５Ｂ）［６］<br><br><b><ul>注</ul></b><br>このサブクラスにおいては，下記の用語は以下に示す意味で用いる。<br>―“治療”とは，その処置が病気または異常のある細胞の破壊を狙いとするとき，Ａ６１Ｂ１８／００に包含される機器，器具または方法によって行われる場合とは異なり，健康な細胞の破壊は望まれず，その生命限界内で行われる処置を意味する。［５，７］<br><br><b><ul>サブクラス内の索引</ul></b><br>電気治療　１／００<br>磁気治療　２／００<br>放射線治療　５／００<br>超音波治療　７／００",
+      "en": "ELECTROTHERAPY; MAGNETOTHERAPY; RADIATION THERAPY; ULTRASOUND THERAPY(measurement of bioelectric currents <b>A61B</b>; surgical instruments, devices or methods for transferring non-mechanical forms of energy to or from the body <b>A61B18/00</b>; anaesthetic apparatus in general <b>A61M</b>; incandescent lamps <b>H01K</b>; infrared radiators for heating <b>H05B</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>In this subclass, the following term is used with the meaning indicated:<ul><li>\"therapy\" implies that the treatment, when it aims at destroying sick or abnormal cells, is performed within the limits of healthy cell life, the destruction thereof being undesired, contrary to that which takes place with instruments, devices or methods covered by group <b>A61B18/00</b>.</li></ul></li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">ELECTROTHERAPY </td><td><b><b>1/00</b></b></td></tr></tr><tr><td width=\"70%\">MAGNETOTHERAPY </td><td><b><b>2/00</b></b></td></tr></tr><tr><td width=\"70%\">RADIATION THERAPY </td><td><b><b>5/00</b></b></td></tr></tr><tr><td width=\"70%\">ULTRASOUND THERAPY </td><td><b><b>7/00</b></b></td></tr></tr></table>",
+      "count": 1769,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A61": {
+      "code": "A61",
+      "level": 0,
+      "parent": "A",
+      "ja": "医学または獣医学；衛生学",
+      "en": "MEDICAL OR VETERINARY SCIENCE; HYGIENE",
+      "count": 0,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A": {
+      "code": "A",
+      "level": 0,
+      "parent": null,
+      "ja": "生活必需品",
+      "en": "HUMAN NECESSITIES",
+      "count": 0,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A61N1/00": {
+      "code": "A61N1/00",
+      "level": 0,
+      "parent": "A61N",
+      "ja": "電気治療；そのための回路（Ａ６１Ｎ２／００が優先；生体内での治療または検査で使用される導電剤Ａ６１Ｋ５０／００）［５］",
+      "en": "Electrotherapy; Circuits therefor(<b>A61N2/00</b> takes precedence; electrically conductive preparations for use in therapy or testing <u>in vivo</u> <b>A61K50/00</b>)",
+      "count": 10942,
+      "sourceFile": "ipc_A61N.txt",
+      "kind": "ipc"
+    },
+    "A61N1/02": {
+      "code": "A61N1/02",
+      "level": 1,
+      "parent": "A61N1/00",
+      "ja": "細部",
+      "en": "Details",
+      "count": 3535,
+      "sourceFile": "ipc_A61N.txt",
+      "kind": "ipc"
+    },
+    "A61N1/04": {
+      "code": "A61N1/04",
+      "level": 2,
+      "parent": "A61N1/02",
+      "ja": "電極",
+      "en": "Electrodes",
+      "count": 17488,
+      "sourceFile": "ipc_A61N.txt",
+      "kind": "ipc"
+    },
+    "A61N1/05": {
+      "code": "A61N1/05",
+      "level": 3,
+      "parent": "A61N1/04",
+      "ja": "体内への植込みまたは挿入のためのもの，例．心臓電極（Ａ６１Ｎ１／０６が優先）［４］",
+      "en": "for implantation or insertion into the body, e.g. heart electrode(<b>A61N1/06</b> takes precedence)",
+      "count": 19030,
+      "sourceFile": "ipc_A61N.txt",
+      "kind": "ipc"
+    },
+    "A61N1/06": {
+      "code": "A61N1/06",
+      "level": 3,
+      "parent": "A61N1/04",
+      "ja": "高周波治療のためのもの",
+      "en": "for high-frequency therapy",
+      "count": 2916,
+      "sourceFile": "ipc_A61N.txt",
+      "kind": "ipc"
+    },
+    "A61N1/08": {
+      "code": "A61N1/08",
+      "level": 2,
+      "parent": "A61N1/02",
+      "ja": "監視，保護，制御または表示のための装置または回路（単一の特定の型の装置のためのものＡ６１Ｎ１／１０～Ａ６１Ｎ１／４４）［４］",
+      "en": "Arrangements or circuits for monitoring, protecting, controlling or indicating(for a single specific type of apparatus <b>A61N1/10 to A61N1/44</b> )",
+      "count": 7300,
+      "sourceFile": "ipc_A61N.txt",
+      "kind": "ipc"
+    },
+    "A61N1/10": {
+      "code": "A61N1/10",
+      "level": 1,
+      "parent": "A61N1/00",
+      "ja": "静電気の適用（イオン化されたガスまたは蒸気の適用Ａ６１Ｎ１／４４）",
+      "en": "Applying static electricity(applying ionised gases or vapours <b>A61N1/44</b>)",
+      "count": 2218,
+      "sourceFile": "ipc_A61N.txt",
+      "kind": "ipc"
+    },
+    "A61N1/14": {
+      "code": "A61N1/14",
+      "level": 1,
+      "parent": "A61N1/00",
+      "ja": "電荷の放出，例．接地によるもの",
+      "en": "Leading-off electric charges, e.g. by earthing",
+      "count": 1580,
+      "sourceFile": "ipc_A61N.txt",
+      "kind": "ipc"
+    },
+    "A61N1/16": {
+      "code": "A61N1/16",
+      "level": 1,
+      "parent": "A61N1/00",
+      "ja": "大気中または地上の放射線または場からの好ましくない影響のしゃへいまたは中和",
+      "en": "Screening or neutralising undesirable influences from atmospheric or terrestrial radiation or fields",
+      "count": 1755,
+      "sourceFile": "ipc_A61N.txt",
+      "kind": "ipc"
+    },
+    "A61N1/18": {
+      "code": "A61N1/18",
+      "level": 1,
+      "parent": "A61N1/00",
+      "ja": "接触電極による電流の適用",
+      "en": "Applying electric currents by contact electrodes",
+      "count": 5875,
+      "sourceFile": "ipc_A61N.txt",
+      "kind": "ipc"
+    },
+    "A61N1/20": {
+      "code": "A61N1/20",
+      "level": 2,
+      "parent": "A61N1/18",
+      "ja": "連続的な直流",
+      "en": "continuous direct currents",
+      "count": 2524,
+      "sourceFile": "ipc_A61N.txt",
+      "kind": "ipc"
+    },
+    "A61N1/22": {
+      "code": "A61N1/22",
+      "level": 3,
+      "parent": "A61N1/20",
+      "ja": "電気治療ベルト",
+      "en": "Electromedical belts",
+      "count": 295,
+      "sourceFile": "ipc_A61N.txt",
+      "kind": "ipc"
+    },
+    "A61N1/24": {
+      "code": "A61N1/24",
+      "level": 4,
+      "parent": "A61N1/22",
+      "ja": "内蔵電源を備えたもの",
+      "en": "with built-in power source",
+      "count": 193,
+      "sourceFile": "ipc_A61N.txt",
+      "kind": "ipc"
+    },
+    "A61N1/26": {
+      "code": "A61N1/26",
+      "level": 3,
+      "parent": "A61N1/20",
+      "ja": "電気治療ブラシ；電気治療マッサージ装置",
+      "en": "Electromedical brushes; Electromedical massage devices",
+      "count": 502,
+      "sourceFile": "ipc_A61N.txt",
+      "kind": "ipc"
+    },
+    "A61N1/28": {
+      "code": "A61N1/28",
+      "level": 3,
+      "parent": "A61N1/20",
+      "ja": "熱電流適用のための装置",
+      "en": "Apparatus for applying thermoelectric currents",
+      "count": 252,
+      "sourceFile": "ipc_A61N.txt",
+      "kind": "ipc"
+    },
+    "A61N1/30": {
+      "code": "A61N1/30",
+      "level": 3,
+      "parent": "A61N1/20",
+      "ja": "イオン浸透療法または電気泳動のための装置",
+      "en": "Apparatus for iontophoresis or cataphoresis",
+      "count": 5524,
+      "sourceFile": "ipc_A61N.txt",
+      "kind": "ipc"
+    },
+    "A61N1/32": {
+      "code": "A61N1/32",
+      "level": 2,
+      "parent": "A61N1/18",
+      "ja": "交流あるいは間欠電流",
+      "en": "alternating or intermittent currents",
+      "count": 13021,
+      "sourceFile": "ipc_A61N.txt",
+      "kind": "ipc"
+    },
+    "A61N1/34": {
+      "code": "A61N1/34",
+      "level": 3,
+      "parent": "A61N1/32",
+      "ja": "麻酔のための",
+      "en": "for producing anaesthesia",
+      "count": 1487,
+      "sourceFile": "ipc_A61N.txt",
+      "kind": "ipc"
+    },
+    "A61N1/36": {
+      "code": "A61N1/36",
+      "level": 3,
+      "parent": "A61N1/32",
+      "ja": "刺激のための，例．心臓ペースメーカ",
+      "en": "for stimulation, e.g. heart pace-makers",
+      "count": 41987,
+      "sourceFile": "ipc_A61N.txt",
+      "kind": "ipc"
+    },
+    "A61N1/362": {
+      "code": "A61N1/362",
+      "level": 4,
+      "parent": "A61N1/36",
+      "ja": "心臓刺激器（Ａ６１Ｎ１／３７２が優先，心臓細動除去器Ａ６１Ｎ１／３９）［４］",
+      "en": "Heart stimulators(<b>A61N1/372</b> takes precedence; heart defibrillators <b>A61N1/39</b>)",
+      "count": 6450,
+      "sourceFile": "ipc_A61N.txt",
+      "kind": "ipc"
+    },
+    "A61N1/365": {
+      "code": "A61N1/365",
+      "level": 5,
+      "parent": "A61N1/362",
+      "ja": "生理的パラメータによって制御されるもの，例．心臓電位によって制御されるもの［４］",
+      "en": "controlled by a physiological parameter, e.g. by heart potential",
+      "count": 4830,
+      "sourceFile": "ipc_A61N.txt",
+      "kind": "ipc"
+    },
+    "A61N1/368": {
+      "code": "A61N1/368",
+      "level": 6,
+      "parent": "A61N1/365",
+      "ja": "異なった心臓部位に対して協働する複数個の電極をもつもの［４］",
+      "en": "comprising more than one electrode co-operating with different heart regions",
+      "count": 1966,
+      "sourceFile": "ipc_A61N.txt",
+      "kind": "ipc"
+    },
+    "A61N1/37": {
+      "code": "A61N1/37",
+      "level": 5,
+      "parent": "A61N1/362",
+      "ja": "監視；保護［４］",
+      "en": "Monitoring; Protecting",
+      "count": 4155,
+      "sourceFile": "ipc_A61N.txt",
+      "kind": "ipc"
+    },
+    "A61N1/372": {
+      "code": "A61N1/372",
+      "level": 4,
+      "parent": "A61N1/36",
+      "ja": "刺激器の植込みに関連する装置［４］",
+      "en": "Arrangements in connection with the implantation of stimulators",
+      "count": 8435,
+      "sourceFile": "ipc_A61N.txt",
+      "kind": "ipc"
+    },
+    "A61N1/375": {
+      "code": "A61N1/375",
+      "level": 5,
+      "parent": "A61N1/372",
+      "ja": "構造上の配置，例．容器［４］",
+      "en": "Constructional arrangements, e.g. casings",
+      "count": 5765,
+      "sourceFile": "ipc_A61N.txt",
+      "kind": "ipc"
+    },
+    "A61N1/378": {
+      "code": "A61N1/378",
+      "level": 5,
+      "parent": "A61N1/372",
+      "ja": "給電［４］",
+      "en": "Electrical supply",
+      "count": 3666,
+      "sourceFile": "ipc_A61N.txt",
+      "kind": "ipc"
+    },
+    "A61N1/38": {
+      "code": "A61N1/38",
+      "level": 3,
+      "parent": "A61N1/32",
+      "ja": "ショック効果のための",
+      "en": "for producing shock effects",
+      "count": 364,
+      "sourceFile": "ipc_A61N.txt",
+      "kind": "ipc"
+    },
+    "A61N1/39": {
+      "code": "A61N1/39",
+      "level": 4,
+      "parent": "A61N1/38",
+      "ja": "心臓細動除去器［４］",
+      "en": "Heart defibrillators",
+      "count": 8293,
+      "sourceFile": "ipc_A61N.txt",
+      "kind": "ipc"
+    },
+    "A61N1/40": {
+      "code": "A61N1/40",
+      "level": 1,
+      "parent": "A61N1/00",
+      "ja": "誘導または容量結合による電界の適用",
+      "en": "Applying electric fields by inductive or capacitive coupling",
+      "count": 6267,
+      "sourceFile": "ipc_A61N.txt",
+      "kind": "ipc"
+    },
+    "A61N1/44": {
+      "code": "A61N1/44",
+      "level": 1,
+      "parent": "A61N1/00",
+      "ja": "イオン化された流体の適用",
+      "en": "Applying ionised fluids",
+      "count": 5317,
+      "sourceFile": "ipc_A61N.txt",
+      "kind": "ipc"
+    },
+    "A61N2/00": {
+      "code": "A61N2/00",
+      "level": 0,
+      "parent": "A61N",
+      "ja": "磁気治療［５］",
+      "en": "Magnetotherapy",
+      "count": 9139,
+      "sourceFile": "ipc_A61N.txt",
+      "kind": "ipc"
+    },
+    "A61N2/02": {
+      "code": "A61N2/02",
+      "level": 1,
+      "parent": "A61N2/00",
+      "ja": "単巻ループまたは電磁石を含む，コイルにより生じた磁界を用いるもの（Ａ６１Ｎ２／１２が優先）［５］",
+      "en": "using magnetic fields produced by coils, including single turn loops or electromagnets(<b>A61N2/12</b> takes precedence)",
+      "count": 4778,
+      "sourceFile": "ipc_A61N.txt",
+      "kind": "ipc"
+    },
+    "A61N2/04": {
+      "code": "A61N2/04",
+      "level": 2,
+      "parent": "A61N2/02",
+      "ja": "可変磁界，例．低周波または脈動磁界，を用いるもの［５］",
+      "en": "using variable fields, e.g. low frequency or pulsating fields",
+      "count": 4571,
+      "sourceFile": "ipc_A61N.txt",
+      "kind": "ipc"
+    },
+    "A61N2/06": {
+      "code": "A61N2/06",
+      "level": 1,
+      "parent": "A61N2/00",
+      "ja": "永久磁石により生じた磁界を用いるもの（Ａ６１Ｎ２／１２が優先）［５］",
+      "en": "using magnetic fields produced by permanent magnets(<b>A61N2/12</b> takes precedence)",
+      "count": 2279,
+      "sourceFile": "ipc_A61N.txt",
+      "kind": "ipc"
+    },
+    "A61N2/08": {
+      "code": "A61N2/08",
+      "level": 2,
+      "parent": "A61N2/06",
+      "ja": "外部に適用するもの［５］",
+      "en": "applied externally",
+      "count": 19899,
+      "sourceFile": "ipc_A61N.txt",
+      "kind": "ipc"
+    },
+    "A61N2/10": {
+      "code": "A61N2/10",
+      "level": 2,
+      "parent": "A61N2/06",
+      "ja": "人体内に適用するもの，例．注入または植え込み部材を有するもの［５］",
+      "en": "applied within the body, e.g. with injected or implanted elements",
+      "count": 450,
+      "sourceFile": "ipc_A61N.txt",
+      "kind": "ipc"
+    },
+    "A61N2/12": {
+      "code": "A61N2/12",
+      "level": 1,
+      "parent": "A61N2/00",
+      "ja": "機械的な動きにより得られた変動磁界を用いるもの［５］",
+      "en": "using variable magnetic fields obtained by mechanical movement",
+      "count": 1670,
+      "sourceFile": "ipc_A61N.txt",
+      "kind": "ipc"
+    },
+    "A61N5/00": {
+      "code": "A61N5/00",
+      "level": 0,
+      "parent": "A61N",
+      "ja": "放射線治療（治療と診断の両方に応用される装置Ａ６１Ｂ６／００；人体への放射性物質の適用Ａ６１Ｍ３６／００）［５，６］",
+      "en": "Radiation therapy(devices or apparatus applicable to both therapy and diagnosis <b>A61B6/00</b>; applying radioactive material to the body <b>A61M36/00</b>)",
+      "count": 11038,
+      "sourceFile": "ipc_A61N.txt",
+      "kind": "ipc"
+    },
+    "A61N5/01": {
+      "code": "A61N5/01",
+      "level": 1,
+      "parent": "A61N5/00",
+      "ja": "治療中放射線源を移動するための装置",
+      "en": "Devices for producing movement of radiation source during therapy",
+      "count": 1186,
+      "sourceFile": "ipc_A61N.txt",
+      "kind": "ipc"
+    },
+    "A61N5/02": {
+      "code": "A61N5/02",
+      "level": 1,
+      "parent": "A61N5/00",
+      "ja": "マイクロ波を用いるもの（Ａ６１Ｎ５／０１が優先）",
+      "en": "using microwaves(<b>A61N5/01</b> takes precedence)",
+      "count": 4003,
+      "sourceFile": "ipc_A61N.txt",
+      "kind": "ipc"
+    },
+    "A61N5/04": {
+      "code": "A61N5/04",
+      "level": 2,
+      "parent": "A61N5/02",
+      "ja": "近接照射のための放射器",
+      "en": "Radiators for near-field treatment",
+      "count": 1118,
+      "sourceFile": "ipc_A61N.txt",
+      "kind": "ipc"
+    },
+    "A61N5/06": {
+      "code": "A61N5/06",
+      "level": 1,
+      "parent": "A61N5/00",
+      "ja": "光線を使うもの（Ａ６１Ｎ５／０１が優先）",
+      "en": "using light(<b>A61N5/01</b> takes precedence)",
+      "count": 60754,
+      "sourceFile": "ipc_A61N.txt",
+      "kind": "ipc"
+    },
+    "A61N5/067": {
+      "code": "A61N5/067",
+      "level": 2,
+      "parent": "A61N5/06",
+      "ja": "レーザー光線を使うもの［７］",
+      "en": "using laser light",
+      "count": 11049,
+      "sourceFile": "ipc_A61N.txt",
+      "kind": "ipc"
+    },
+    "A61N5/073": {
+      "code": "A61N5/073",
+      "level": 2,
+      "parent": "A61N5/06",
+      "ja": "偏光を用いるもの（Ａ６１Ｎ５／０６７が優先）［７］",
+      "en": "using polarised light(<b>A61N5/067</b> takes precedence)",
+      "count": 175,
+      "sourceFile": "ipc_A61N.txt",
+      "kind": "ipc"
+    },
+    "A61N5/08": {
+      "code": "A61N5/08",
+      "level": 2,
+      "parent": "A61N5/06",
+      "ja": "赤外線と紫外線を結合して用いるもの",
+      "en": "using combined infrared and ultraviolet light",
+      "count": 711,
+      "sourceFile": "ipc_A61N.txt",
+      "kind": "ipc"
+    },
+    "A61N5/10": {
+      "code": "A61N5/10",
+      "level": 1,
+      "parent": "A61N5/00",
+      "ja": "Ｘ線治療；ガンマ線治療；粒子照射治療（Ａ６１Ｎ５／０１が優先）",
+      "en": "X-ray therapy; Gamma-ray therapy; Particle-irradiation therapy(<b>A61N5/01</b> takes precedence)",
+      "count": 26259,
+      "sourceFile": "ipc_A61N.txt",
+      "kind": "ipc"
+    },
+    "A61N7/00": {
+      "code": "A61N7/00",
+      "level": 0,
+      "parent": "A61N",
+      "ja": "超音波治療（砕石術Ａ６１Ｂ１７／２２，１７／２２５；超音波振動を用いるマッサージＡ６１Ｈ２３／００）［６］",
+      "en": "Ultrasound therapy(lithotripsy <b>A61B17/22</b>, <b>A61B17/225</b>; massage using supersonic vibration <b>A61H23/00</b>)",
+      "count": 11320,
+      "sourceFile": "ipc_A61N.txt",
+      "kind": "ipc"
+    },
+    "A61N7/02": {
+      "code": "A61N7/02",
+      "level": 1,
+      "parent": "A61N7/00",
+      "ja": "局所的な超音波ハイパーサーミア［６］",
+      "en": "Localised ultrasound hyperthermia",
+      "count": 4887,
+      "sourceFile": "ipc_A61N.txt",
+      "kind": "ipc"
+    }
+  }
+};

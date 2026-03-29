@@ -1,0 +1,396 @@
+{
+  "generatedAt": "2026-03-20T02:17:46.812Z",
+  "total": 39,
+  "entries": {
+    "F03C": {
+      "code": "F03C",
+      "level": 0,
+      "parent": "F03",
+      "ja": "液体により駆動される容積形機関（液体および圧縮性流体用容積形機関Ｆ０１；液体用容積形機械Ｆ０４；流体圧アクチュエータＦ１５Ｂ；流体伝動装置Ｆ１６Ｈ）<br><br><b><ul>注</ul></b><br>“容積形”，“回転ピストン機械”，“揺動ピストン機械”，“回転ピストン”，“共動部材”，“共動部材の運動”，“歯または歯に相当するもの”および“内部軸”の定義に関して特にクラスＦ０１の前の注に注意すること。",
+      "en": "POSITIVE-DISPLACEMENT ENGINES DRIVEN BY LIQUIDS(positive-displacement engines for liquids and elastic fluids <b>F01</b>; positive-displacement machines for liquids <b>F04</b>; fluid-pressure actuators <b>F15B</b>; fluid gearing <b>F16H</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>Attention is drawn to the Notes preceding class <b>F01</b>, especially as regards the definitions of \"positive displacement\", \"rotary-piston machines\", \"oscillating-piston machines\", \"rotary-piston\", \"co-operating members\", \"movement of co-operating members\", \"teeth or tooth-equivalents\", and \"internal axis\".</li></ul>",
+      "count": 256,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F03": {
+      "code": "F03",
+      "level": 0,
+      "parent": "F",
+      "ja": "液体用機械または機関；風力原動機，ばね原動機，重力原動機；他類に属さない機械動力または反動推進力を発生するもの",
+      "en": "MACHINES OR ENGINES FOR LIQUIDS; WIND, SPRING, OR WEIGHT MOTORS; PRODUCING MECHANICAL POWER OR A REACTIVE PROPULSIVE THRUST, NOT OTHERWISE PROVIDED FOR",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F": {
+      "code": "F",
+      "level": 0,
+      "parent": null,
+      "ja": "機械工学；照明；加熱；武器；爆破",
+      "en": "MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F03C1/00": {
+      "code": "F03C1/00",
+      "level": 0,
+      "parent": "F03C",
+      "ja": "往復ピストン液体機関",
+      "en": "Reciprocating-piston liquid engines",
+      "count": 1279,
+      "sourceFile": "ipc_F03C.txt",
+      "kind": "ipc"
+    },
+    "F03C1/007": {
+      "code": "F03C1/007",
+      "level": 1,
+      "parent": "F03C1/00",
+      "ja": "単一シリンダ，複動式ピストンをもつもの［５］",
+      "en": "with single cylinder, double-acting piston",
+      "count": 338,
+      "sourceFile": "ipc_F03C.txt",
+      "kind": "ipc"
+    },
+    "F03C1/013": {
+      "code": "F03C1/013",
+      "level": 1,
+      "parent": "F03C1/00",
+      "ja": "単一シリンダ，単動式ピストンをもつもの［５］",
+      "en": "with single cylinder, single-acting piston",
+      "count": 154,
+      "sourceFile": "ipc_F03C.txt",
+      "kind": "ipc"
+    },
+    "F03C1/02": {
+      "code": "F03C1/02",
+      "level": 1,
+      "parent": "F03C1/00",
+      "ja": "シリンダの数または配列に特徴がある多シリンダをもつもの（可動シリンダをもつものＦ０３Ｃ１／２２；可とう壁形のものＦ０３Ｃ７／００）",
+      "en": "with multiple cylinders, characterised by the number or arrangement of cylinders(with movable cylinders <b>F03C1/22</b>; of flexible-wall type <b>F03C7/00</b>)",
+      "count": 327,
+      "sourceFile": "ipc_F03C.txt",
+      "kind": "ipc"
+    },
+    "F03C1/03": {
+      "code": "F03C1/03",
+      "level": 2,
+      "parent": "F03C1/02",
+      "ja": "それぞれ１方向に作動する２つの単動式ピストン液体機関により２方向の運動が得られるもの［５］",
+      "en": "with movement in two directions being obtained by two single-acting piston liquid engines, each acting in one direction",
+      "count": 105,
+      "sourceFile": "ipc_F03C.txt",
+      "kind": "ipc"
+    },
+    "F03C1/04": {
+      "code": "F03C1/04",
+      "level": 2,
+      "parent": "F03C1/02",
+      "ja": "星形または扇形に配列されているシリンダをもつもの",
+      "en": "with cylinders in star- or fan-arrangement",
+      "count": 819,
+      "sourceFile": "ipc_F03C.txt",
+      "kind": "ipc"
+    },
+    "F03C1/047": {
+      "code": "F03C1/047",
+      "level": 3,
+      "parent": "F03C1/04",
+      "ja": "シリンダの外端部においてピストンが作動部材と共動するもの［５］",
+      "en": "the pistons co-operating with an actuated element at the outer ends of the cylinders",
+      "count": 309,
+      "sourceFile": "ipc_F03C.txt",
+      "kind": "ipc"
+    },
+    "F03C1/053": {
+      "code": "F03C1/053",
+      "level": 3,
+      "parent": "F03C1/04",
+      "ja": "シリンダの内端部においてピストンが作動部材と共動するもの［５］",
+      "en": "the pistons co-operating with an actuated element at the inner ends of the cylinders",
+      "count": 409,
+      "sourceFile": "ipc_F03C.txt",
+      "kind": "ipc"
+    },
+    "F03C1/06": {
+      "code": "F03C1/06",
+      "level": 2,
+      "parent": "F03C1/02",
+      "ja": "軸が主軸に対して一般に同軸，平行，傾斜しているシリンダをもつもの",
+      "en": "with cylinder axes generally coaxial with, or parallel or inclined to, main shaft axis",
+      "count": 1879,
+      "sourceFile": "ipc_F03C.txt",
+      "kind": "ipc"
+    },
+    "F03C1/08": {
+      "code": "F03C1/08",
+      "level": 1,
+      "parent": "F03C1/00",
+      "ja": "特にそれに関係のある分配弁装置（多シリンダ機関用Ｆ０３Ｃ１／３４；容積形機関一般に対するものＦ０１Ｌ）",
+      "en": "Distributing valve-gear peculiar thereto(for multiple-cylinder engines <b>F03C1/34</b>; for engines with positive displacement in general <b>F01L</b>)",
+      "count": 328,
+      "sourceFile": "ipc_F03C.txt",
+      "kind": "ipc"
+    },
+    "F03C1/10": {
+      "code": "F03C1/10",
+      "level": 2,
+      "parent": "F03C1/08",
+      "ja": "ピストンまたはピストン棒により作動されるもの",
+      "en": "actuated by piston or piston-rod",
+      "count": 98,
+      "sourceFile": "ipc_F03C.txt",
+      "kind": "ipc"
+    },
+    "F03C1/12": {
+      "code": "F03C1/12",
+      "level": 3,
+      "parent": "F03C1/10",
+      "ja": "機械的に作動されるもの［５］",
+      "en": "mechanically",
+      "count": 56,
+      "sourceFile": "ipc_F03C.txt",
+      "kind": "ipc"
+    },
+    "F03C1/14": {
+      "code": "F03C1/14",
+      "level": 2,
+      "parent": "F03C1/08",
+      "ja": "機関の駆動液体により作動されるもの［５］",
+      "en": "actuated by the driving liquid of the engine",
+      "count": 97,
+      "sourceFile": "ipc_F03C.txt",
+      "kind": "ipc"
+    },
+    "F03C1/16": {
+      "code": "F03C1/16",
+      "level": 2,
+      "parent": "F03C1/08",
+      "ja": "速度を調節し，一様にしまたは緩衝をもたせたもの［５］",
+      "en": "Speed controlling, equalising, or cushioning",
+      "count": 89,
+      "sourceFile": "ipc_F03C.txt",
+      "kind": "ipc"
+    },
+    "F03C1/20": {
+      "code": "F03C1/20",
+      "level": 2,
+      "parent": "F03C1/08",
+      "ja": "特に振動のみを発生する機関に適合するもの",
+      "en": "specially adapted for engines generating vibration only",
+      "count": 20,
+      "sourceFile": "ipc_F03C.txt",
+      "kind": "ipc"
+    },
+    "F03C1/22": {
+      "code": "F03C1/22",
+      "level": 1,
+      "parent": "F03C1/00",
+      "ja": "可動シリンダをもつもの",
+      "en": "with movable cylinders",
+      "count": 298,
+      "sourceFile": "ipc_F03C.txt",
+      "kind": "ipc"
+    },
+    "F03C1/24": {
+      "code": "F03C1/24",
+      "level": 2,
+      "parent": "F03C1/22",
+      "ja": "液体が回転シリンダ内を往復動する１個またはそれ以上のピストンをもっぱら押しのける作動をするもの",
+      "en": "in which the liquid exclusively displaces one or more pistons reciprocating in rotary cylinders",
+      "count": 943,
+      "sourceFile": "ipc_F03C.txt",
+      "kind": "ipc"
+    },
+    "F03C1/247": {
+      "code": "F03C1/247",
+      "level": 3,
+      "parent": "F03C1/24",
+      "ja": "星形または扇形に配列されているシリンダをもつもの［５］",
+      "en": "with cylinders in star- or fan-arrangement",
+      "count": 572,
+      "sourceFile": "ipc_F03C.txt",
+      "kind": "ipc"
+    },
+    "F03C1/253": {
+      "code": "F03C1/253",
+      "level": 3,
+      "parent": "F03C1/24",
+      "ja": "軸が主軸に対して一般に同軸，または平行であるシリンダをもつもの［５］",
+      "en": "with cylinder axes generally coaxial with, or parallel to, main shaft axis",
+      "count": 1621,
+      "sourceFile": "ipc_F03C.txt",
+      "kind": "ipc"
+    },
+    "F03C1/26": {
+      "code": "F03C1/26",
+      "level": 1,
+      "parent": "F03C1/00",
+      "ja": "特殊用途に応用されるものまたは被駆動装置と組み合わされるもの［２００６．０１］",
+      "en": "adapted for special use or combined with apparatus driven thereby",
+      "count": 1022,
+      "sourceFile": "ipc_F03C.txt",
+      "kind": "ipc"
+    },
+    "F03C1/28": {
+      "code": "F03C1/28",
+      "level": 1,
+      "parent": "F03C1/00",
+      "ja": "そのために特に適合したピストン［５］",
+      "en": "Pistons specially adapted therefor",
+      "count": 991,
+      "sourceFile": "ipc_F03C.txt",
+      "kind": "ipc"
+    },
+    "F03C1/30": {
+      "code": "F03C1/30",
+      "level": 1,
+      "parent": "F03C1/00",
+      "ja": "そのために特に適合したカム［５］",
+      "en": "Cams specially adapted therefor",
+      "count": 886,
+      "sourceFile": "ipc_F03C.txt",
+      "kind": "ipc"
+    },
+    "F03C1/32": {
+      "code": "F03C1/32",
+      "level": 1,
+      "parent": "F03C1/00",
+      "ja": "そのために特に適合したシリンダ［５］",
+      "en": "Cylinders specially adapted therefor",
+      "count": 654,
+      "sourceFile": "ipc_F03C.txt",
+      "kind": "ipc"
+    },
+    "F03C1/34": {
+      "code": "F03C1/34",
+      "level": 1,
+      "parent": "F03C1/00",
+      "ja": "多シリンダ機関に特に適合した分配部材［５］",
+      "en": "Distribution members specially adapted for multiple-cylinder engines",
+      "count": 431,
+      "sourceFile": "ipc_F03C.txt",
+      "kind": "ipc"
+    },
+    "F03C1/36": {
+      "code": "F03C1/36",
+      "level": 2,
+      "parent": "F03C1/34",
+      "ja": "円筒状分配部材［５］",
+      "en": "Cylindrical distribution members",
+      "count": 481,
+      "sourceFile": "ipc_F03C.txt",
+      "kind": "ipc"
+    },
+    "F03C1/38": {
+      "code": "F03C1/38",
+      "level": 2,
+      "parent": "F03C1/34",
+      "ja": "板状分配部材［５］",
+      "en": "Plate-like distribution members",
+      "count": 655,
+      "sourceFile": "ipc_F03C.txt",
+      "kind": "ipc"
+    },
+    "F03C1/40": {
+      "code": "F03C1/40",
+      "level": 1,
+      "parent": "F03C1/00",
+      "ja": "そのために特に適合した制御［５］",
+      "en": "Control specially adapted therefor",
+      "count": 1393,
+      "sourceFile": "ipc_F03C.txt",
+      "kind": "ipc"
+    },
+    "F03C2/00": {
+      "code": "F03C2/00",
+      "level": 0,
+      "parent": "F03C",
+      "ja": "回転ピストン機関（液体が回転シリンダ内を往復動する１個またはそれ以上のピストンを押しのけるものＦ０３Ｃ１／２４）［３］<br><br><b><ul>注</ul></b><br>グループ２／３０はグループ２／０２から２／２４に優先する。［３］",
+      "en": "Rotary-piston engines(in which the liquid exclusively displaces one or more piston reciprocating in rotary cylinders <b>F03C1/24</b>)",
+      "count": 2139,
+      "sourceFile": "ipc_F03C.txt",
+      "kind": "ipc"
+    },
+    "F03C2/02": {
+      "code": "F03C2/02",
+      "level": 1,
+      "parent": "F03C2/00",
+      "ja": "円弧状の係合をする形式，すなわち．共動部材が並進的な循環運動をするもので，各部材が同数の歯または歯に相当するものをもつもの［３］",
+      "en": "of arcuate-engagement type, i.e. with circular translatory movement of co-operating members, each member having the same number of teeth or tooth-equivalents",
+      "count": 117,
+      "sourceFile": "ipc_F03C.txt",
+      "kind": "ipc"
+    },
+    "F03C2/08": {
+      "code": "F03C2/08",
+      "level": 1,
+      "parent": "F03C2/00",
+      "ja": "相互にかみ合って係合する形式，すなわち．共動部材の係合が歯車伝動と同様のもの［３］",
+      "en": "of intermeshing-engagement type, i.e. with engagement of co-operating members similar to that of toothed gearing",
+      "count": 1745,
+      "sourceFile": "ipc_F03C.txt",
+      "kind": "ipc"
+    },
+    "F03C2/22": {
+      "code": "F03C2/22",
+      "level": 1,
+      "parent": "F03C2/00",
+      "ja": "係合点で共動部材が同方向の運動をするか，または共動部材の一つが静止しており，内側部材が外側部材よりも多くの歯または歯に相当するものを備えている内部軸形式のもの［３］",
+      "en": "of internal-axis type with equidirectional movement of co-operating members at the points of engagement, or with one of the co-operating members being stationary, the inner member having more teeth or tooth-equivalents than the outer member",
+      "count": 211,
+      "sourceFile": "ipc_F03C.txt",
+      "kind": "ipc"
+    },
+    "F03C2/24": {
+      "code": "F03C2/24",
+      "level": 1,
+      "parent": "F03C2/00",
+      "ja": "逆に係合する形式，すなわち．係合点での共動部材の運動が反対方向であるもの［３］",
+      "en": "of counter-engagement type, i.e. the movement of co-operating members at the points of engagement being in opposite directions",
+      "count": 26,
+      "sourceFile": "ipc_F03C.txt",
+      "kind": "ipc"
+    },
+    "F03C2/30": {
+      "code": "F03C2/30",
+      "level": 1,
+      "parent": "F03C2/00",
+      "ja": "２以上のグループＦ０３Ｃ２／０２，Ｆ０３Ｃ２／０８，Ｆ０３Ｃ２／２２，Ｆ０３Ｃ２／２４に包含される特徴をもつもの，または共動部材間の他の運動形式を合せもち，これらのグループの１つに包含される特徴をもつもの［３］",
+      "en": "having the characteristics covered by two or more of groups <b>F03C2/02</b>, <b>F03C2/08</b>, <b>F03C2/22</b>, <b>F03C2/24</b> or having the characteristics covered by one of these groups together with some other type of movement between co-operating members",
+      "count": 1086,
+      "sourceFile": "ipc_F03C.txt",
+      "kind": "ipc"
+    },
+    "F03C4/00": {
+      "code": "F03C4/00",
+      "level": 0,
+      "parent": "F03C",
+      "ja": "揺動ピストン機関［３］",
+      "en": "Oscillating-piston engines",
+      "count": 1384,
+      "sourceFile": "ipc_F03C.txt",
+      "kind": "ipc"
+    },
+    "F03C7/00": {
+      "code": "F03C7/00",
+      "level": 0,
+      "parent": "F03C",
+      "ja": "可とう壁形の機関［２０１０．０１］",
+      "en": "Engines of flexible-wall type",
+      "count": 167,
+      "sourceFile": "ipc_F03C.txt",
+      "kind": "ipc"
+    },
+    "F03C99/00": {
+      "code": "F03C99/00",
+      "level": 0,
+      "parent": "F03C",
+      "ja": "このサブクラスの他のグループに分類されない主題事項［２０１０．０１］",
+      "en": "Subject matter not provided for in other groups of this subclass",
+      "count": 158,
+      "sourceFile": "ipc_F03C.txt",
+      "kind": "ipc"
+    }
+  }
+}

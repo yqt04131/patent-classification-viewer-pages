@@ -1,0 +1,416 @@
+window.IPC_SHARD_G07B = {
+  "generatedAt": "2026-03-20T02:17:47.099Z",
+  "total": 41,
+  "entries": {
+    "G07B": {
+      "code": "G07B",
+      "level": 0,
+      "parent": "G07",
+      "ja": "チケット発行機；タクシーメーター；１ヶ所またはそれ以上の制御地点で料金，使用料または入場料を集金するための装置または機器；郵便料金計器<br><br><b><ul>サブクラス内の索引</ul></b><br>チケットの印刷発行機；その細部　１／００，３／００；５／００<br>チケットに関する他の装置または方法<br>ホルダー；穴あけ器；確認；取消　７／００；９／００；１１／００<br>タクシーメーター　１３／００<br>１ヶ所またはそれ以上の制御地点で料金，使用料または入場料を集金するための装置または機器　１５／００<br>郵便料金計器　１７／００",
+      "en": "TICKET-ISSUING APPARATUS; TAXIMETERS; ARRANGEMENTS OR APPARATUS FOR COLLECTING FARES, TOLLS OR ENTRANCE FEES AT ONE OR MORE CONTROL POINTS;  FRANKING APPARATUS; <br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">MACHINES FOR PRINTING OR ISSUING TICKETS; DETAILS THEREOF </td><td><b><b>1/00</b>, <b>3/00</b>; <b>5/00</b></b></td></tr></tr><tr><td width=\"70%\">OTHER APPARATUS OR SYSTEMS CONCERNING TICKETS<tr><td width=\"70%\">Holders; punches; validating; cancelling </td><td><b><b>7/00</b>; <b>9/00</b>; <b>11/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">TAXIMETERS</td><td><b><b>13/00</b></b></td></tr></tr><tr><td width=\"70%\">ARRANGEMENTS OR APPARATUS FOR COLLECTING FARES, TOLLS OR ENTRANCE FEES AT ONE OR MORE CONTROL POINTS</td><td><b><b>15/00</b></b></td></tr></tr><tr><td width=\"70%\">FRANKING APPARATUS </td><td><b><b>17/00</b></b></td></tr></tr></table>",
+      "count": 411,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G07": {
+      "code": "G07",
+      "level": 0,
+      "parent": "G",
+      "ja": "チェック装置",
+      "en": "CHECKING-DEVICES",
+      "count": 0,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G": {
+      "code": "G",
+      "level": 0,
+      "parent": null,
+      "ja": "物理学<br><br><b><ul>注</ul></b><br>１．このセクションにおいては，下記の用語は以下に示す意味で用いる：<br>・“変量”は名詞として，特定の実在物，例．物体，ある量の物質，光ビーム，に関し特定の瞬間に測定することの可能な特性又は特質，例．寸法，温度等の物理的状態，密度又は色等の性質，を意味する。変量が変化すると，その数値的表現は異なる時点で，異なる状態又は個々の状況において異なる値をとることもあり，また，ある状態のもとで又は実用上特定の実在物に関して一定でありうる，例．バーの長さが多くの目的のために一定とみなされる，こともある。<br>２．使用される用語または表現の定義に注意すること。このセクションのいくつかのクラスの注に使用されているものについて，特にクラスＧ０１の“測定”を参照されたい．ＩＰＣ指針パラグラフ１８７の中にあるものについて，“制御”及び“調整”の定義に参照されたい。<br>３．このセクションにおける分類は他のセクションにおいてよりもめんどうな場合があり得る，というのは，その一つは，いろいろな使用分野の差異の判別には構造上の差異又は使用形態上の差異よりも寧ろ使用者の意図における差異の方にかなりの程度影響されてしまうからであり，もう一つは，扱う主題が容易に全体として識別できる“もの”であるよりも，特性又は部品が他の主題のものと共通のものを有しているシステム又は組合わせであることが実際上多いからである。例えば，情報（例．一連の数値）をディスプレイするのは，クラスＧ０９に包含される，教育又は広告のため，クラスＧ０１に包含される，測定の結果が通知されうるため，クラスＧ０８に包含される，遠隔地点に情報を合図するため，又は遠隔地点から合図された情報を提供するためである。目的を記述するために使用する言葉は，当該装置の形態に無関係なこともあり得る特性－例えば，ディスプレイを見る者にとって望ましい効果とか，ディスプレイが遠隔地点から制御されるかどうかという特性－によって決定される。さらに，ある状態，例えば流体圧の変化に応答する装置は，その装置そのものには変更を加えずして，サブクラスＧ０１Ｌに包含される圧力又はＧ０１の他のサブクラスに包含される圧力に関連した他の何らかの状態，例．温度に関してＧ０１Ｋ，についての情報を与えるため，サブクラスＧ０７Ｃに包含される圧力または圧力発生の記録をするため，サブクラスＧ０８Ｂに包含される警報を発するため，又はクラスＧ０５に包含される他の何らかの装置を制御するために用いられることがある。<br>　本分類表は，前述したように，同一の性質のものは同一箇所に分類し得るようにしたものである。従って，技術主題が適切箇所に分類されるためには予めその真正な本質を把握することが特に必要である。",
+      "en": "PHYSICS; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this section, the following term is used with the meaning indicated: <ul><li>\"variable\" as a noun means a feature or property, e.g. a dimension, a physical condition such as temperature, a quality such as density or colour, which, in respect of a particular entity, e.g. an object, a quantity of a substance, a beam of light, and at a particular instant, is capable of being measured; the variable may change, so that its numerical expression may assume different values at different times, in different conditions or in individual cases, but may be constant in respect of a particular entity in certain conditions or for practical purposes, e.g. the length of a bar may be regarded as constant for many purposes.</li></ul></li><li>Attention is drawn to the definitions of terms or expressions used. Some appear in the notes of several of the classes in this section, see in particular the definition of \"measuring\" in class <b>G01</b>. Others appear in paragraph 187 of the Guide to the IPC, see in particular the definitions of \"control\" and \"regulation\".</li><li>Classification in this section may present more difficulty than in other sections, because the distinction between different fields of use rests to a considerable extent on differences in the intention of the user rather than on any constructional differences or differences in the manner of use, and because the subjects dealt with are often in effect systems or combinations, which have features or parts in common, rather than \"things\", which are readily distinguishable as a whole. For example, information, e.g. a set of figures, may be displayed for the purpose of education or advertising covered by class <b>G09</b>, for enabling the result of a measurement to be known covered by class <b>G01</b>, for signalling the information to a distant point or for giving information which has been signalled from a distant point covered by class <b>G08</b>. The words used to describe the purpose depend on features that may be irrelevant to the form of the apparatus concerned, for example, such features as the desired effect on the person who sees the display, or whether the display is controlled from a remote point. Again, a device which responds to some change in a condition, e.g. in the pressure of a fluid, may be used, without modification of the device itself, to give information about the pressure covered by subclass <b>G01L</b> or about some other condition linked to the pressure covered by another subclass of class <b>G01</b>, e.g. <b>G01K</b> for temperature, to make a record of the pressure or of its occurrence covered by subclass <b>G07C</b>, to give an alarm covered by subclass <b>G08B</b>, or to control another apparatus covered by class <b>G05</b>. <ul><li>The classification scheme is intended to enable things of a similar nature, as indicated above, to be classified together. It is therefore particularly necessary for the real nature of any technical subject to be decided before it can be properly classified.</li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G07B1/00": {
+      "code": "G07B1/00",
+      "level": 0,
+      "parent": "G07B",
+      "ja": "チケットの印刷発行機",
+      "en": "Machines for printing and issuing tickets",
+      "count": 7027,
+      "sourceFile": "ipc_G07B.txt",
+      "kind": "ipc"
+    },
+    "G07B1/02": {
+      "code": "G07B1/02",
+      "level": 1,
+      "parent": "G07B1/00",
+      "ja": "選択印刷板を用いたもの",
+      "en": "employing selectable printing plates",
+      "count": 299,
+      "sourceFile": "ipc_G07B.txt",
+      "kind": "ipc"
+    },
+    "G07B1/04": {
+      "code": "G07B1/04",
+      "level": 2,
+      "parent": "G07B1/02",
+      "ja": "印刷板が挿入されるもの",
+      "en": "wherein the plates are inserted",
+      "count": 89,
+      "sourceFile": "ipc_G07B.txt",
+      "kind": "ipc"
+    },
+    "G07B1/06": {
+      "code": "G07B1/06",
+      "level": 1,
+      "parent": "G07B1/00",
+      "ja": "選択印刷板を用いないもの",
+      "en": "without selectable printing plates",
+      "count": 620,
+      "sourceFile": "ipc_G07B.txt",
+      "kind": "ipc"
+    },
+    "G07B1/08": {
+      "code": "G07B1/08",
+      "level": 1,
+      "parent": "G07B1/00",
+      "ja": "持運びのできるもの",
+      "en": "portable",
+      "count": 117,
+      "sourceFile": "ipc_G07B.txt",
+      "kind": "ipc"
+    },
+    "G07B3/00": {
+      "code": "G07B3/00",
+      "level": 0,
+      "parent": "G07B",
+      "ja": "あらかじめ印刷されたチケットの発行機",
+      "en": "Machines for issuing preprinted tickets",
+      "count": 516,
+      "sourceFile": "ipc_G07B.txt",
+      "kind": "ipc"
+    },
+    "G07B3/02": {
+      "code": "G07B3/02",
+      "level": 1,
+      "parent": "G07B3/00",
+      "ja": "巻状物から発行されるもの",
+      "en": "from stock in wound strip form",
+      "count": 408,
+      "sourceFile": "ipc_G07B.txt",
+      "kind": "ipc"
+    },
+    "G07B3/04": {
+      "code": "G07B3/04",
+      "level": 1,
+      "parent": "G07B3/00",
+      "ja": "積み重ねたものから発行されるもの",
+      "en": "from a stack",
+      "count": 439,
+      "sourceFile": "ipc_G07B.txt",
+      "kind": "ipc"
+    },
+    "G07B5/00": {
+      "code": "G07B5/00",
+      "level": 0,
+      "parent": "G07B",
+      "ja": "チケット発行機の細部または補助装置（挿入チケットの確認に関するものＧ０７Ｂ１１／０２）",
+      "en": "Details of, or auxiliary devices for, ticket-issuing machines(for validating inserted tickets <b>G07B11/02</b>)",
+      "count": 3998,
+      "sourceFile": "ipc_G07B.txt",
+      "kind": "ipc"
+    },
+    "G07B5/02": {
+      "code": "G07B5/02",
+      "level": 1,
+      "parent": "G07B5/00",
+      "ja": "チケットの切離しまたは分離に関するもの",
+      "en": "for cutting-off or separating tickets",
+      "count": 545,
+      "sourceFile": "ipc_G07B.txt",
+      "kind": "ipc"
+    },
+    "G07B5/04": {
+      "code": "G07B5/04",
+      "level": 1,
+      "parent": "G07B5/00",
+      "ja": "発行チケットの記録または登録に関するもの",
+      "en": "for recording or registering tickets issued",
+      "count": 388,
+      "sourceFile": "ipc_G07B.txt",
+      "kind": "ipc"
+    },
+    "G07B5/06": {
+      "code": "G07B5/06",
+      "level": 1,
+      "parent": "G07B5/00",
+      "ja": "不正な操作の防止に関するもの",
+      "en": "for preventing fraudulent operation",
+      "count": 167,
+      "sourceFile": "ipc_G07B.txt",
+      "kind": "ipc"
+    },
+    "G07B5/08": {
+      "code": "G07B5/08",
+      "level": 1,
+      "parent": "G07B5/00",
+      "ja": "機械の誤動作の回避に関するもの",
+      "en": "for avoiding incorrect action of the machine",
+      "count": 126,
+      "sourceFile": "ipc_G07B.txt",
+      "kind": "ipc"
+    },
+    "G07B5/10": {
+      "code": "G07B5/10",
+      "level": 2,
+      "parent": "G07B5/08",
+      "ja": "供給チケットが用い尽されたとき指示するもの",
+      "en": "indicating when ticket supply is exhausted",
+      "count": 47,
+      "sourceFile": "ipc_G07B.txt",
+      "kind": "ipc"
+    },
+    "G07B5/12": {
+      "code": "G07B5/12",
+      "level": 1,
+      "parent": "G07B5/00",
+      "ja": "チケット上に手書ができるようになったもの",
+      "en": "allowing manual writing on the tickets",
+      "count": 6,
+      "sourceFile": "ipc_G07B.txt",
+      "kind": "ipc"
+    },
+    "G07B7/00": {
+      "code": "G07B7/00",
+      "level": 0,
+      "parent": "G07B",
+      "ja": "チケットに直接手動で接近できるホルダー",
+      "en": "Holders providing direct manual access to the tickets",
+      "count": 142,
+      "sourceFile": "ipc_G07B.txt",
+      "kind": "ipc"
+    },
+    "G07B9/00": {
+      "code": "G07B9/00",
+      "level": 0,
+      "parent": "G07B",
+      "ja": "チケットの穴あけ器（打抜または穿孔ペンチＢ２６Ｆ１／３６）",
+      "en": "Ticket punches(punching or perforating pliers <b>B26F1/36</b>)",
+      "count": 156,
+      "sourceFile": "ipc_G07B.txt",
+      "kind": "ipc"
+    },
+    "G07B9/02": {
+      "code": "G07B9/02",
+      "level": 1,
+      "parent": "G07B9/00",
+      "ja": "玩具用チケット穴あけ器",
+      "en": "Toy ticket-punches",
+      "count": 18,
+      "sourceFile": "ipc_G07B.txt",
+      "kind": "ipc"
+    },
+    "G07B11/00": {
+      "code": "G07B11/00",
+      "level": 0,
+      "parent": "G07B",
+      "ja": "発行されたチケットを確認または取消するための装置［２］",
+      "en": "Apparatus for validating or cancelling issued tickets",
+      "count": 3508,
+      "sourceFile": "ipc_G07B.txt",
+      "kind": "ipc"
+    },
+    "G07B11/02": {
+      "code": "G07B11/02",
+      "level": 1,
+      "parent": "G07B11/00",
+      "ja": "挿入チケットの確認に関するもの",
+      "en": "for validating inserted tickets",
+      "count": 1172,
+      "sourceFile": "ipc_G07B.txt",
+      "kind": "ipc"
+    },
+    "G07B11/03": {
+      "code": "G07B11/03",
+      "level": 2,
+      "parent": "G07B11/02",
+      "ja": "印刷によるもの［２］",
+      "en": "by printing",
+      "count": 230,
+      "sourceFile": "ipc_G07B.txt",
+      "kind": "ipc"
+    },
+    "G07B11/05": {
+      "code": "G07B11/05",
+      "level": 2,
+      "parent": "G07B11/02",
+      "ja": "穿孔によるもの［２］",
+      "en": "by perforating",
+      "count": 157,
+      "sourceFile": "ipc_G07B.txt",
+      "kind": "ipc"
+    },
+    "G07B11/07": {
+      "code": "G07B11/07",
+      "level": 2,
+      "parent": "G07B11/02",
+      "ja": "チケットの一部分の分離によるもの［２］",
+      "en": "by separating part of ticket",
+      "count": 73,
+      "sourceFile": "ipc_G07B.txt",
+      "kind": "ipc"
+    },
+    "G07B11/09": {
+      "code": "G07B11/09",
+      "level": 3,
+      "parent": "G07B11/07",
+      "ja": "チケットの分離された部分のための容器と結合したもの［２］",
+      "en": "combined with receptacle for separated part of ticket",
+      "count": 83,
+      "sourceFile": "ipc_G07B.txt",
+      "kind": "ipc"
+    },
+    "G07B11/11": {
+      "code": "G07B11/11",
+      "level": 1,
+      "parent": "G07B11/00",
+      "ja": "チケットの取消のためのもの［２］",
+      "en": "for cancelling tickets",
+      "count": 289,
+      "sourceFile": "ipc_G07B.txt",
+      "kind": "ipc"
+    },
+    "G07B13/00": {
+      "code": "G07B13/00",
+      "level": 0,
+      "parent": "G07B",
+      "ja": "タクシー料金表示器",
+      "en": "Taximeters",
+      "count": 2694,
+      "sourceFile": "ipc_G07B.txt",
+      "kind": "ipc"
+    },
+    "G07B13/02": {
+      "code": "G07B13/02",
+      "level": 1,
+      "parent": "G07B13/00",
+      "ja": "部品および付属品",
+      "en": "Details; Accessories",
+      "count": 572,
+      "sourceFile": "ipc_G07B.txt",
+      "kind": "ipc"
+    },
+    "G07B13/04": {
+      "code": "G07B13/04",
+      "level": 2,
+      "parent": "G07B13/02",
+      "ja": "料金または使用料の状態の指示に関するもの",
+      "en": "for indicating fare or state of hire",
+      "count": 601,
+      "sourceFile": "ipc_G07B.txt",
+      "kind": "ipc"
+    },
+    "G07B13/06": {
+      "code": "G07B13/06",
+      "level": 2,
+      "parent": "G07B13/02",
+      "ja": "動力伝達装置",
+      "en": "Driving arrangements",
+      "count": 57,
+      "sourceFile": "ipc_G07B.txt",
+      "kind": "ipc"
+    },
+    "G07B13/08": {
+      "code": "G07B13/08",
+      "level": 2,
+      "parent": "G07B13/02",
+      "ja": "料金変更装置",
+      "en": "Tariff-changing arrangements",
+      "count": 173,
+      "sourceFile": "ipc_G07B.txt",
+      "kind": "ipc"
+    },
+    "G07B13/10": {
+      "code": "G07B13/10",
+      "level": 3,
+      "parent": "G07B13/08",
+      "ja": "自動作動装置",
+      "en": "automatically actuated",
+      "count": 126,
+      "sourceFile": "ipc_G07B.txt",
+      "kind": "ipc"
+    },
+    "G07B15/00": {
+      "code": "G07B15/00",
+      "level": 0,
+      "parent": "G07B",
+      "ja": "１ヶ所またはそれ以上の制御地点で料金，使用料または入場料を集金するための装置または機器（コインまたは有価紙葉，例．銀行券，の取扱い機構Ｇ０７Ｄ；コイン，クレジットカード，紙幣またはこれらに類するものによって作動される自動販売用または賃貸用の装置Ｇ０７Ｆ７／００，Ｇ０７Ｆ１７／００）［２０１１．０１］<br><br><b><ul>注</ul></b><br>支払いシステムのためのデータ処理の観点，あるいは使用料，入場料または料金の集金，例．ロードプライシングまたは渋滞課金，に関するプロトコル，については、Ｇ０６Ｑ２０／００にも分類する。［２０１１．０１］",
+      "en": "Arrangements or apparatus for collecting fares, tolls or entrance fees at one or more control points(handling coins or valuable papers, e.g. banknotes, <b>G07D</b>;  apparatus for vending or hiring articles or services activated by coins, credit cards, paper currency or the like <b>G07F7/00</b>, <b>G07F17/00</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>Data processing aspects of payment systems or protocols relating to toll, entrance fee or fare collection, e.g. in road pricing or congestion charging, are also classified in <b>G06Q20/00</b>.</li></ul>",
+      "count": 15964,
+      "sourceFile": "ipc_G07B.txt",
+      "kind": "ipc"
+    },
+    "G07B15/02": {
+      "code": "G07B15/02",
+      "level": 1,
+      "parent": "G07B15/00",
+      "ja": "距離や，時間のように変化する要因を考慮に入れるもの，例．乗客輸送，駐車システムあるいは車両レンタルシステムに関するもの（Ｇ０７Ｂ１５／０６が優先；タクシー料金表示器Ｇ０７Ｂ１３／００；パーキングメーターそれ自体Ｇ０７Ｆ１７／２４）［２０１１．０１］",
+      "en": "taking into account a variable factor such as distance or time, e.g. for passenger transport, parking systems or car rental systems(<b>G07B15/06</b> takes precedence; taximeters <b>G07B13/00</b>; parking meters <u>per se</u><b>G07F17/24</b>)",
+      "count": 8418,
+      "sourceFile": "ipc_G07B.txt",
+      "kind": "ipc"
+    },
+    "G07B15/04": {
+      "code": "G07B15/04",
+      "level": 2,
+      "parent": "G07B15/02",
+      "ja": "柵，回転木戸またはこれらに類するものを解放するための装置を含むもの（登録手段をもつ回転木戸Ｇ０７Ｃ９／１０）［２００６．０１］",
+      "en": "comprising devices to free a barrier, turnstile or the like  (turnstiles with registering means <b>G07C9/10</b>)",
+      "count": 3317,
+      "sourceFile": "ipc_G07B.txt",
+      "kind": "ipc"
+    },
+    "G07B15/06": {
+      "code": "G07B15/06",
+      "level": 1,
+      "parent": "G07B15/00",
+      "ja": "移動体または移動体利用者に対するロードプライシングまたは渋滞課金のためのもの，例．通行料の自動徴収システム［２０１１．０１］<br><br><b><ul>注</ul></b><br>このグループは，ロードプライシングまたは渋滞課金のために，移動体または移動体利用者を特定するものや，追跡するものを包含する。移動体または移動体利用者が，固定した制御地点，例．有料道路のブースや高架式のガントリ，を通過する必要はなく，あらかじめ定められた地域，例．都市中心部または高速道路，を通常の態様で通行する際に多数の通過点で検知されるものでもよい。そのように生成された情報は，課金額の決定に利用される。［２０１１．０１］",
+      "en": "Arrangements for road pricing or congestion charging of vehicles or vehicle users, e.g. automatic toll systems; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This group covers the identification or tracking of vehicles or vehicle users for the purpose of road pricing or congestion charging, which means that vehicles or vehicle users are not necessarily channelled through fixed control points, e.g. toll booths or overhead gantries, but may be detected at a number of places when they travel in normal fashion in a pre-defined locality, e.g. a defined area in a city centre or an expressway, and where the information so generated is then used to determine a charge to be paid.  </li></ul>",
+      "count": 9601,
+      "sourceFile": "ipc_G07B.txt",
+      "kind": "ipc"
+    },
+    "G07B17/00": {
+      "code": "G07B17/00",
+      "level": 0,
+      "parent": "G07B",
+      "ja": "郵便料金計器",
+      "en": "Franking apparatus",
+      "count": 4629,
+      "sourceFile": "ipc_G07B.txt",
+      "kind": "ipc"
+    },
+    "G07B17/02": {
+      "code": "G07B17/02",
+      "level": 1,
+      "parent": "G07B17/00",
+      "ja": "計算または計数手段をもつもの",
+      "en": "with means for computing or counting",
+      "count": 442,
+      "sourceFile": "ipc_G07B.txt",
+      "kind": "ipc"
+    },
+    "G07B17/04": {
+      "code": "G07B17/04",
+      "level": 1,
+      "parent": "G07B17/00",
+      "ja": "誤った使用を回避する手段をもつもの",
+      "en": "with means for avoiding misuse",
+      "count": 121,
+      "sourceFile": "ipc_G07B.txt",
+      "kind": "ipc"
+    }
+  }
+};

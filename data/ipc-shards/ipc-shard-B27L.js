@@ -1,0 +1,296 @@
+window.IPC_SHARD_B27L = {
+  "generatedAt": "2026-03-20T02:17:46.148Z",
+  "total": 29,
+  "entries": {
+    "B27L": {
+      "code": "B27L",
+      "level": 0,
+      "parent": "B27",
+      "ja": "樹皮または枝跡の除去（林業Ａ０１Ｇ）；木材の分割；単板，木の棒状物，経木，木繊維または木粉の製造",
+      "en": "REMOVING BARK OR VESTIGES OF BRANCHES(forestry <b>A01G</b>);SPLITTING WOOD; MANUFACTURE OF VENEER, WOODEN STICKS, WOOD SHAVINGS, WOOD FIBRES OR WOOD POWDER",
+      "count": 760,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B27": {
+      "code": "B27",
+      "level": 0,
+      "parent": "B",
+      "ja": "木材または類似の材料の加工または保存；釘打ち機またはステープル打ち機一般",
+      "en": "WORKING OR PRESERVING WOOD OR SIMILAR MATERIAL; NAILING OR STAPLING MACHINES IN GENERAL",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B": {
+      "code": "B",
+      "level": 0,
+      "parent": null,
+      "ja": "処理操作；運輸",
+      "en": "PERFORMING OPERATIONS; TRANSPORTING",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B27L1/00": {
+      "code": "B27L1/00",
+      "level": 0,
+      "parent": "B27L",
+      "ja": "樹木または丸太からの樹皮の除去または枝跡の除去（化学的処理による樹皮の除去Ｂ２７Ｌ３／００）；そのための機械［２］<br><br><b><ul>注</ul></b><br>樹木供給装置はＢ２７Ｂ２５／００に包含される。［５］",
+      "en": "Debarking or removing vestiges of branches from trees or logs(debarking by chemical treatment <b>B27L3/00</b>);Machines therefor; <br><br><b><u>Note(s)</u></b><br><br><ul><li>Tree-feeding devices are covered by group <b>B27B25/00</b>. </li></ul>",
+      "count": 3180,
+      "sourceFile": "ipc_B27L.txt",
+      "kind": "ipc"
+    },
+    "B27L1/02": {
+      "code": "B27L1/02",
+      "level": 1,
+      "parent": "B27L1/00",
+      "ja": "樹幹相互の摩擦によるもの（Ｂ２７Ｌ１／０４が優先）；加水装置［５］",
+      "en": "by rubbing the trunks against each other(<b>B27L1/04</b> takes precedence);Equipment for wet practice",
+      "count": 427,
+      "sourceFile": "ipc_B27L.txt",
+      "kind": "ipc"
+    },
+    "B27L1/04": {
+      "code": "B27L1/04",
+      "level": 1,
+      "parent": "B27L1/00",
+      "ja": "回転ドラム内において樹幹を摩擦することによるもの［５］",
+      "en": "by rubbing the trunks in rotating drums",
+      "count": 891,
+      "sourceFile": "ipc_B27L.txt",
+      "kind": "ipc"
+    },
+    "B27L1/05": {
+      "code": "B27L1/05",
+      "level": 2,
+      "parent": "B27L1/04",
+      "ja": "そのためのドラム［５］",
+      "en": "Drums therefor",
+      "count": 433,
+      "sourceFile": "ipc_B27L.txt",
+      "kind": "ipc"
+    },
+    "B27L1/06": {
+      "code": "B27L1/06",
+      "level": 1,
+      "parent": "B27L1/00",
+      "ja": "樹皮の除去または枝跡の除去のための手動装置または携帯装置",
+      "en": "Manually-operated or portable devices for debarking or for removing vestiges of branches",
+      "count": 351,
+      "sourceFile": "ipc_B27L.txt",
+      "kind": "ipc"
+    },
+    "B27L1/08": {
+      "code": "B27L1/08",
+      "level": 1,
+      "parent": "B27L1/00",
+      "ja": "回転リングを用いるもの［５］",
+      "en": "using rotating rings",
+      "count": 259,
+      "sourceFile": "ipc_B27L.txt",
+      "kind": "ipc"
+    },
+    "B27L1/10": {
+      "code": "B27L1/10",
+      "level": 1,
+      "parent": "B27L1/00",
+      "ja": "回転できる工具を用いるもの（Ｂ２７Ｌ１／０４，Ｂ２７Ｌ１／０８，Ｂ２７Ｌ１／１２が優先）［５］",
+      "en": "using rotatable tools(<b>B27L1/04</b>, <b>B27L1/08</b>, <b>B27L1/12</b> take precedence)",
+      "count": 1271,
+      "sourceFile": "ipc_B27L.txt",
+      "kind": "ipc"
+    },
+    "B27L1/12": {
+      "code": "B27L1/12",
+      "level": 1,
+      "parent": "B27L1/00",
+      "ja": "曲がることができる工具を用いるもの［５］",
+      "en": "using pliable tools",
+      "count": 239,
+      "sourceFile": "ipc_B27L.txt",
+      "kind": "ipc"
+    },
+    "B27L1/14": {
+      "code": "B27L1/14",
+      "level": 1,
+      "parent": "B27L1/00",
+      "ja": "流動体の噴射を用いるもの［５］",
+      "en": "using jets of fluid",
+      "count": 159,
+      "sourceFile": "ipc_B27L.txt",
+      "kind": "ipc"
+    },
+    "B27L3/00": {
+      "code": "B27L3/00",
+      "level": 0,
+      "parent": "B27L",
+      "ja": "化学的処理による樹皮の除去",
+      "en": "Debarking by chemical treatment",
+      "count": 68,
+      "sourceFile": "ipc_B27L.txt",
+      "kind": "ipc"
+    },
+    "B27L5/00": {
+      "code": "B27L5/00",
+      "level": 0,
+      "parent": "B27L",
+      "ja": "単板の製造（単板または合板の加工Ｂ２７Ｄ）",
+      "en": "Manufacture of veneer(working veneer or plywood <b>B27D</b>)",
+      "count": 3052,
+      "sourceFile": "ipc_B27L.txt",
+      "kind": "ipc"
+    },
+    "B27L5/02": {
+      "code": "B27L5/02",
+      "level": 1,
+      "parent": "B27L5/00",
+      "ja": "回転している樹幹等からの単板の切り出し；単板用旋盤",
+      "en": "Cutting strips from a rotating trunk or piece; Veneer lathes",
+      "count": 2637,
+      "sourceFile": "ipc_B27L.txt",
+      "kind": "ipc"
+    },
+    "B27L5/04": {
+      "code": "B27L5/04",
+      "level": 2,
+      "parent": "B27L5/02",
+      "ja": "樹幹の外側に位置する軸を中心に樹幹を回転するもの",
+      "en": "the trunk being rotated about an axis lying outside it",
+      "count": 100,
+      "sourceFile": "ipc_B27L.txt",
+      "kind": "ipc"
+    },
+    "B27L5/06": {
+      "code": "B27L5/06",
+      "level": 1,
+      "parent": "B27L5/00",
+      "ja": "固定樹幹等からの揺動刃による単板の切り出し，または揺動する樹幹等から固定刃によるもの；単板切り出し機",
+      "en": "Cutting strips from a stationarily-held trunk or piece by a rocking knife carrier, or from rocking trunk or piece by a stationarily-held knife carrier; Veneer-cutting machines",
+      "count": 1098,
+      "sourceFile": "ipc_B27L.txt",
+      "kind": "ipc"
+    },
+    "B27L5/08": {
+      "code": "B27L5/08",
+      "level": 1,
+      "parent": "B27L5/00",
+      "ja": "連続状単板から単板シートまたは切片の切断；そのためのシヤリング装置；単板素材の製造，例．一定のサイズに削ること",
+      "en": "Severing sheets or segments from veneer strips; Shearing devices therefor; Making veneer blanks, e.g. trimming to size",
+      "count": 1196,
+      "sourceFile": "ipc_B27L.txt",
+      "kind": "ipc"
+    },
+    "B27L7/00": {
+      "code": "B27L7/00",
+      "level": 0,
+      "parent": "B27L",
+      "ja": "木材分割装置［６］",
+      "en": "Arrangements for splitting wood",
+      "count": 2113,
+      "sourceFile": "ipc_B27L.txt",
+      "kind": "ipc"
+    },
+    "B27L7/02": {
+      "code": "B27L7/02",
+      "level": 1,
+      "parent": "B27L7/00",
+      "ja": "回転部材を用いるもの［６］",
+      "en": "using rotating members",
+      "count": 178,
+      "sourceFile": "ipc_B27L.txt",
+      "kind": "ipc"
+    },
+    "B27L7/04": {
+      "code": "B27L7/04",
+      "level": 2,
+      "parent": "B27L7/02",
+      "ja": "円錐状ねじ［６］",
+      "en": "Conical screws",
+      "count": 149,
+      "sourceFile": "ipc_B27L.txt",
+      "kind": "ipc"
+    },
+    "B27L7/06": {
+      "code": "B27L7/06",
+      "level": 1,
+      "parent": "B27L7/00",
+      "ja": "くさび，ナイフまたはスプレッダーを用いるもの（Ｂ２７Ｌ７／０２が優先）［６］",
+      "en": "using wedges, knives or spreaders(<b>B27L7/02</b> takes precedence)",
+      "count": 1728,
+      "sourceFile": "ipc_B27L.txt",
+      "kind": "ipc"
+    },
+    "B27L7/08": {
+      "code": "B27L7/08",
+      "level": 1,
+      "parent": "B27L7/00",
+      "ja": "割台を用いるもの［６］",
+      "en": "using chopping blocks",
+      "count": 65,
+      "sourceFile": "ipc_B27L.txt",
+      "kind": "ipc"
+    },
+    "B27L9/00": {
+      "code": "B27L9/00",
+      "level": 0,
+      "parent": "B27L",
+      "ja": "木の棒状物，例．つまようじ，の製造（つえ，傘の棒の製造Ｂ２７Ｍ３／３８；マッチの製造における他の操作と結合したものＣ０６Ｆ）",
+      "en": "Manufacture of wooden sticks, e.g. toothpicks(of walking sticks, of sticks for umbrellas <b>B27M3/38</b>; combined with other operations in the manufacture of matches <b>C06F</b>)",
+      "count": 603,
+      "sourceFile": "ipc_B27L.txt",
+      "kind": "ipc"
+    },
+    "B27L11/00": {
+      "code": "B27L11/00",
+      "level": 0,
+      "parent": "B27L",
+      "ja": "経木，チップ，木粉または類似物の製造（粉砕一般Ｂ０２Ｃ；不用部分を崩壊させる手段と組合わされた縁切り用鋸歯または鋸びき工具Ｂ２７Ｂ３３／２０；紡績のための繊維の採収Ｄ０１Ｂ１／００；湿式法Ｄ２１Ｂ１／１２）；そのための工具［２］",
+      "en": "Manufacture of wood shavings, chips, powder, or the like(disintegrating in general <b>B02C</b>; edge trimming sawing blades or sawing tools combined with means to disintegrate waste <b>B27B33/20</b>; obtaining fibres for spinning <b>D01B1/00</b>; wet methods <b>D21B1/12</b>);Tools therefor",
+      "count": 4756,
+      "sourceFile": "ipc_B27L.txt",
+      "kind": "ipc"
+    },
+    "B27L11/02": {
+      "code": "B27L11/02",
+      "level": 1,
+      "parent": "B27L11/00",
+      "ja": "鉋屑または同等物の製造",
+      "en": "of wood shavings or the like",
+      "count": 1990,
+      "sourceFile": "ipc_B27L.txt",
+      "kind": "ipc"
+    },
+    "B27L11/04": {
+      "code": "B27L11/04",
+      "level": 2,
+      "parent": "B27L11/02",
+      "ja": "木毛の製造",
+      "en": "of wood wool",
+      "count": 350,
+      "sourceFile": "ipc_B27L.txt",
+      "kind": "ipc"
+    },
+    "B27L11/06": {
+      "code": "B27L11/06",
+      "level": 1,
+      "parent": "B27L11/00",
+      "ja": "木粉またはおがくずの製造（砥石Ｂ２４Ｄ）",
+      "en": "of wood powder or sawdust(grinding-stones <b>B24D</b>)",
+      "count": 1885,
+      "sourceFile": "ipc_B27L.txt",
+      "kind": "ipc"
+    },
+    "B27L11/08": {
+      "code": "B27L11/08",
+      "level": 1,
+      "parent": "B27L11/00",
+      "ja": "木繊維，例．裂断によって作られるもの，の製造",
+      "en": "of wood fibres, e.g. produced by tearing",
+      "count": 1034,
+      "sourceFile": "ipc_B27L.txt",
+      "kind": "ipc"
+    }
+  }
+};

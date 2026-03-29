@@ -1,0 +1,6046 @@
+window.IPC_SHARD_G01N = {
+  "generatedAt": "2026-03-20T02:17:47.020Z",
+  "total": 604,
+  "entries": {
+    "G01N": {
+      "code": "G01N",
+      "level": 0,
+      "parent": "G01",
+      "ja": "材料の化学的または物理的性質の決定による材料の調査または分析（参照，免疫分析以外の酵素または微生物を含む測定または試験の装置または方法Ｃ１２Ｍ，Ｃ１２Ｑ）<br><br><b><ul>注</ul></b><br>（１）このサブクラスにおいては，下記の用語は以下に示す意味で用いる：<br>―“調査”とは試験または決定を意味する；<br>―“材料”とは固体，液体，ガス状媒質，例．大気，を含む。<br>（２）クラスＧ０１のタイトルに続く注に注意すること。<br>（３）サブクラスＢ２３Ｋに包含される方法での使用に特に適合した，材料の特性の調査は，グループＢ２３Ｋ３１／１２に分類される。［５］<br><br><b><ul>サブクラス内の索引</ul></b><br>サンプリング，調製　１／００<br>調査対象の性質によって特徴づけられた調査または分析<br>機械的強度；密度；流れ　３／００；９／００；１１／００<br>表面または境界効果；粒子の特徴，透過率；摩擦，粘着力　１３／００；１５／００；１９／００<br>環境の作用に対する抵抗力　１７／００<br>使用する方法によって特徴づけられた調査<br>重量測定；気体の圧力または体積の測定；機械的　５／００；７／００；１９／００<br>光学的；マイクロ波による；放射線による　２１／００；２２／００；２３／００<br>磁気共鳴または他のスピン効果　２４／００<br>熱的；電気的，電気化学的，磁気的；音響的　２５／００；２７／００；２９／００<br>成分分離によるもの；化学的方法の利用によるもの　３０／００；３１／００<br>調査される材料によって特徴づけられたその他の調査または分析　３３／００<br>免疫分析　３３／５３<br>自動分析　３５／００<br>前のグループに包含されない細部　３７／００",
+      "en": "INVESTIGATING OR ANALYSING MATERIALS BY DETERMINING THEIR CHEMICAL OR PHYSICAL PROPERTIES(measuring or testing apparatus or processes other than immunoassay, involving enzymes or microorganisms <b>C12M</b>, <b>C12Q</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>In this subclass, the following terms are used with the meanings indicated:<ul><li>\"investigating\" means testing or determining;</li><li>\"materials\" includes solid, liquid or gaseous media, e.g. the atmosphere.</li></ul></li><li>Attention is drawn to the Notes following the title of class <b>G01</b>.</li><li>Investigating the properties of materials, specially adapted for use in processes covered by subclass <b>B23K</b>, is classified in group <b>B23K31/12</b>. </li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">SAMPLING, PREPARING </td><td><b><b>1/00</b></b></td></tr></tr><tr><td width=\"70%\">INVESTIGATING OR ANALYSING CHARACTERISED BY THE PROPERTY INVESTIGATED<tr><td width=\"70%\">Mechanical strength; density; flow </td><td><b><b>3/00</b>; <b>9/00</b>; <b>11/00</b></b></td></tr></tr><tr><td width=\"70%\">Surface or boundary effects; characteristics of particles, permeability; friction, adhesive force </td><td><b><b>13/00</b>; <b>15/00</b>; <b>19/00</b></b></td></tr></tr><tr><td width=\"70%\">Resistance to atmospheric agents </td><td><b><b>17/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">INVESTIGATING OR ANALYSING CHARACTERISED BY THE METHOD USED<tr><td width=\"70%\">Weighing; measuring pressure or volume of gas; mechanical </td><td><b><b>5/00</b>; <b>7/00</b>; <b>19/00</b></b></td></tr></tr><tr><td width=\"70%\">Optical; by microwaves; by radiation </td><td><b><b>21/00</b>; <b>22/00</b>; <b>23/00</b></b></td></tr></tr><tr><td width=\"70%\">Magnetic resonance or other spin effects </td><td><b><b>24/00</b></b></td></tr></tr><tr><td width=\"70%\">Thermal; electric, electrochemical, magnetic; sonic </td><td><b><b>25/00</b>; <b>27/00</b>; <b>29/00</b></b></td></tr></tr><tr><td width=\"70%\">By separation into components; by the use of the chemical methods </td><td><b><b>30/00</b>; <b>31/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">OTHER INVESTIGATING OR ANALYSING CHARACTERISED BY THE MATERIAL INVESTIGATED </td><td><b><b>33/00</b></b></td></tr><tr><td width=\"70%\">Immunoassay </td><td><b><b>33/53</b></b></td></tr></tr></tr><tr><td width=\"70%\">AUTOMATIC ANALYSIS </td><td><b><b>35/00</b></b></td></tr></tr><tr><td width=\"70%\">DETAILS NOT COVERED BY THE PRECEDING GROUPS </td><td><b><b>37/00</b></b></td></tr></tr></table>",
+      "count": 12480,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G01": {
+      "code": "G01",
+      "level": 0,
+      "parent": "G",
+      "ja": "測定；試験<br><br><b><ul>注</ul></b><br>（１）このクラスは“真”の測定計器のほかに類似構造の他の指示表示装置又は記録装置を含み，また更に，信号化装置又は制御装置についてはそれが測定に関するものであって（以下の注（２）で定義するように）特定の信号化目的または特定の制御目的に特に適合しないものである限り，含まれる。<br>（２）このクラスにおいては，下記の用語は以下に示す意味で用いる：<br>―“測定”はその第一義的意味又は基本的な意味よりもかなり広い意味を含むものとして用いる。この語の第一義的な意味においては，変量値を単位もしくはデータに関して又は同じ性質の別の変量に関して数値的に表現することを見い出すこと，例えば長さをスケールで測定するなどある長さを別の長さの表現で表わすこと，を意味する。この変量値は直接的に得る（すぐ前で言及したように）こともあり，また，水銀柱の長さの変化を測定することにより温度変化を測定するなど求める変量値に関連づけることのできる他の変量値を測定することよって得ることもある。しかしながら，同じ装置又は計器が，直接的な表示を行う代りに，記録をとったり，指示効果又は制御効果を奏すべく信号を発生するために用いられたり，或いは，他の装置又は計器と組み合わせて同種又は異種の二以上の変量の測定から一つのまとまった結果を得るために用いられることもあるので，“測定”はかかる数値的表現を変量を数値に変換する何らかの手段の付加的使用によって得ることを可能とするような操作をも含むものとして解釈することが必要である。従って，数値での表現は実際的にはデジタル的表現によって行なうこともありスケールを読むことによって行なうこともあり，また，その指示は数値を用いないで，例えば測定されている変量が特性又は状態であるところの実在物（例．物体，物質，光ビーム）について感知し得る何らかの特性（変量）によって又はそのような特性に類似するもの（例．スケールをもたない部材の対応位置，何らかの手段によって発生される対応電圧）によって，与えられることがある。<br>また，上記のような変量値指示が行なわれずに単に基準又はデータ（その値は数値的に既知のこともあり未知のこともある）に関しての異同を示すだけのことも多くある。この基準又はデータは同一性質であるが異なる実在物（例．標準器）の値のこともあり，或いは異なる時点での同一実在物の値であることもある。その最も単純な形態においては，測定は単にある状態又は性質，例えば運動（いずれかの方向又は特定の方向における）の有無を指示するだけのこともあるし，また，変量が既定値を超えるかどうかを指示するだけのこともある。<br>（３）“マイクロ構造の装置”および“マイクロ構造のシステム”に関する，クラスＢ８１およびサブクラスＢ８１Ｂの両タイトルの後の注に注意すること。［７］<br>（４）セクションＧのタイトルに続く注，特に“変量”という用語の定義については注意はすること。<br>（５）多くの測定装置において，測定すべき第一の変量は第二の変量またはさらなる変量に変換される。第二の変量またはさらなる変量は，第一の変量に関係して構成部材に生じた状態，または構成部材の変位であるかもしれない。そして，さらに変換が必要となるかもしれない。［６］<br>このような装置を分類するときは，（ｉ）重要である特定の変換ステップ，または重要である個々の変換ステップを分類するか，または（ｉｉ）全体としてのシステムのみが重要な場合は，第一の変量を該当する箇所に分類する。［６］<br>これは２つ以上の変換が起こる場合に特に重要である。たとえば，第一の変量（例．圧力）が第二の変量（例．感知体の光学的特性）に変換され，さらにその第二の変量が第三の変量（例．電気的効果）で示されるような場合である。このような場合には，次の分類箇所を考慮しなければならない：<br>第一の変量の変換についての分類場所，その変量により生じた状態を感知することについての分類場所，測定を示すＧ０１Ｄ，そして最後に，該当する場合は，システム全体を分類する場所である。［６］<br>（６）物理的特性の値の変化の測定は，その物理的特性の測定と同一のサブクラスに分類する。例えば，長さの伸びの測定はサブクラスＧ０１Ｂに分類する。",
+      "en": "MEASURING; TESTING; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This class <u>covers</u>, in addition to \"true\" measuring instruments, other indicating or recording devices of analogous construction, and also signalling or control devices insofar as they are concerned with measurement (as defined in Note 2 below) and are not specially adapted to the particular purpose of signalling or control.</li><li>In this class, the following term is used with the meaning indicated: <ul><li>\"measuring\" is used to cover considerably more than its primary or basic meaning. In this primary sense, it means finding a numerical expression of the value of a variable in relation to a unit or datum or to another variable of the same nature, e.g. expressing a length in terms of another length as in measuring a length with a scale; the value may be obtained directly (as just suggested) or by measuring some other variable of which the value can be related to the value of the required variable, as in measuring a change in temperature by measuring a resultant change in the length of a column of mercury. However, since the same device or instrument may, instead of giving an immediate indication, be used to produce a record or to initiate a signal to produce an indication or control effect, or may be used in combination with other devices or instruments to give a conjoint result from measurement of two or more variables of the same or different kinds, it is necessary to interpret \"measuring\" as including also any operation that would make it possible to obtain such a numerical expression by the additional use of some way of converting a value into figures. Thus the expression in figures may be actually made by a digital presentation or by reading a scale, or an indication of it may be given without the use of figures, e.g. by some perceptible feature (variable) of the entity (e.g. object, substance, beam of light) of which the variable being measured is a property or condition or by an analogue of such a feature (e.g. the corresponding position of a member without any scale, a corresponding voltage generated in some way). In many cases there is no such value indication but only an indication of difference or equality in relation to a standard or datum (of which the value may or may not be known in figures); the standard or datum may be the value of another variable of the same nature but of a different entity (e.g. a standard measure) or of the same entity at a different time. <ul><li>In its simplest form, measurement may give merely an indication of presence or absence of a certain condition or quality, e.g. movement (in any direction or in a particular direction), or whether a variable exceeds a predetermined value.</li></ul></li></ul></li><li>Attention is drawn to the Notes following the titles of class <b>B81</b> and subclass <b>B81B</b> relating to \"microstructural devices\" and \"microstructural systems\" and the Notes following the title of subclass <b>B82B</b> relating to \"nanostructures\".</li><li>Attention is drawn to the Notes following the title of section <b>G</b>, especially as regards the definition of the term \"variable\".</li><li>In many measuring arrangements, a first variable to be measured is transformed into a second, or further, variables. The second, or further, variables may be (a) a condition related to the first variable and produced in a member, or (b) a displacement of a member. Further transformation may be needed. <ul><li>When classifying such an arrangement, (i) the transformation step, or each transformation step, that is of interest is classified, or (ii) if interest lies only in the system as a whole, the first variable is classified in the appropriate place.</li><li>This is particularly important where two or more conversions take place, for instance where a first variable, for example pressure, is transformed into a second variable, for example an optical property of a sensing body, and that second variable is expressed by means of a third variable, for example an electric effect. In such a case, the following classification places should be considered: the place for the transformation of the first variable, that for sensing the condition caused by that variable, subclass <b>G01D</b> for expression of the measurement, and finally the place for the overall system, if any.</li></ul></li><li>The measurement of change in the value of a physical property is classified in the same subclass as the measurement of that physical property, e.g. measurement of expansion of length is classified in subclass <b>G01B</b>.</li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G": {
+      "code": "G",
+      "level": 0,
+      "parent": null,
+      "ja": "物理学<br><br><b><ul>注</ul></b><br>１．このセクションにおいては，下記の用語は以下に示す意味で用いる：<br>・“変量”は名詞として，特定の実在物，例．物体，ある量の物質，光ビーム，に関し特定の瞬間に測定することの可能な特性又は特質，例．寸法，温度等の物理的状態，密度又は色等の性質，を意味する。変量が変化すると，その数値的表現は異なる時点で，異なる状態又は個々の状況において異なる値をとることもあり，また，ある状態のもとで又は実用上特定の実在物に関して一定でありうる，例．バーの長さが多くの目的のために一定とみなされる，こともある。<br>２．使用される用語または表現の定義に注意すること。このセクションのいくつかのクラスの注に使用されているものについて，特にクラスＧ０１の“測定”を参照されたい．ＩＰＣ指針パラグラフ１８７の中にあるものについて，“制御”及び“調整”の定義に参照されたい。<br>３．このセクションにおける分類は他のセクションにおいてよりもめんどうな場合があり得る，というのは，その一つは，いろいろな使用分野の差異の判別には構造上の差異又は使用形態上の差異よりも寧ろ使用者の意図における差異の方にかなりの程度影響されてしまうからであり，もう一つは，扱う主題が容易に全体として識別できる“もの”であるよりも，特性又は部品が他の主題のものと共通のものを有しているシステム又は組合わせであることが実際上多いからである。例えば，情報（例．一連の数値）をディスプレイするのは，クラスＧ０９に包含される，教育又は広告のため，クラスＧ０１に包含される，測定の結果が通知されうるため，クラスＧ０８に包含される，遠隔地点に情報を合図するため，又は遠隔地点から合図された情報を提供するためである。目的を記述するために使用する言葉は，当該装置の形態に無関係なこともあり得る特性－例えば，ディスプレイを見る者にとって望ましい効果とか，ディスプレイが遠隔地点から制御されるかどうかという特性－によって決定される。さらに，ある状態，例えば流体圧の変化に応答する装置は，その装置そのものには変更を加えずして，サブクラスＧ０１Ｌに包含される圧力又はＧ０１の他のサブクラスに包含される圧力に関連した他の何らかの状態，例．温度に関してＧ０１Ｋ，についての情報を与えるため，サブクラスＧ０７Ｃに包含される圧力または圧力発生の記録をするため，サブクラスＧ０８Ｂに包含される警報を発するため，又はクラスＧ０５に包含される他の何らかの装置を制御するために用いられることがある。<br>　本分類表は，前述したように，同一の性質のものは同一箇所に分類し得るようにしたものである。従って，技術主題が適切箇所に分類されるためには予めその真正な本質を把握することが特に必要である。",
+      "en": "PHYSICS; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this section, the following term is used with the meaning indicated: <ul><li>\"variable\" as a noun means a feature or property, e.g. a dimension, a physical condition such as temperature, a quality such as density or colour, which, in respect of a particular entity, e.g. an object, a quantity of a substance, a beam of light, and at a particular instant, is capable of being measured; the variable may change, so that its numerical expression may assume different values at different times, in different conditions or in individual cases, but may be constant in respect of a particular entity in certain conditions or for practical purposes, e.g. the length of a bar may be regarded as constant for many purposes.</li></ul></li><li>Attention is drawn to the definitions of terms or expressions used. Some appear in the notes of several of the classes in this section, see in particular the definition of \"measuring\" in class <b>G01</b>. Others appear in paragraph 187 of the Guide to the IPC, see in particular the definitions of \"control\" and \"regulation\".</li><li>Classification in this section may present more difficulty than in other sections, because the distinction between different fields of use rests to a considerable extent on differences in the intention of the user rather than on any constructional differences or differences in the manner of use, and because the subjects dealt with are often in effect systems or combinations, which have features or parts in common, rather than \"things\", which are readily distinguishable as a whole. For example, information, e.g. a set of figures, may be displayed for the purpose of education or advertising covered by class <b>G09</b>, for enabling the result of a measurement to be known covered by class <b>G01</b>, for signalling the information to a distant point or for giving information which has been signalled from a distant point covered by class <b>G08</b>. The words used to describe the purpose depend on features that may be irrelevant to the form of the apparatus concerned, for example, such features as the desired effect on the person who sees the display, or whether the display is controlled from a remote point. Again, a device which responds to some change in a condition, e.g. in the pressure of a fluid, may be used, without modification of the device itself, to give information about the pressure covered by subclass <b>G01L</b> or about some other condition linked to the pressure covered by another subclass of class <b>G01</b>, e.g. <b>G01K</b> for temperature, to make a record of the pressure or of its occurrence covered by subclass <b>G07C</b>, to give an alarm covered by subclass <b>G08B</b>, or to control another apparatus covered by class <b>G05</b>. <ul><li>The classification scheme is intended to enable things of a similar nature, as indicated above, to be classified together. It is therefore particularly necessary for the real nature of any technical subject to be decided before it can be properly classified.</li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_G.txt",
+      "kind": "ipc"
+    },
+    "G01N1/00": {
+      "code": "G01N1/00",
+      "level": 0,
+      "parent": "G01N",
+      "ja": "サンプリング；調査用標本の調製（自動分析のための材料の取扱いＧ０１Ｎ３５／００）［２００６．０１］",
+      "en": "Sampling; Preparing specimens for investigation(handling materials for automatic analysis <b>G01N35/00</b>)",
+      "count": 20127,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N1/02": {
+      "code": "G01N1/02",
+      "level": 1,
+      "parent": "G01N1/00",
+      "ja": "試料取出しのための装置［２００６．０１］",
+      "en": "Devices for withdrawing samples",
+      "count": 11851,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N1/04": {
+      "code": "G01N1/04",
+      "level": 2,
+      "parent": "G01N1/02",
+      "ja": "固体状のもの，例．切断によるもの［２００６．０１］",
+      "en": "in the solid state, e.g. by cutting",
+      "count": 19875,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N1/06": {
+      "code": "G01N1/06",
+      "level": 3,
+      "parent": "G01N1/04",
+      "ja": "薄片を作製するもの，例．ミクロトーム［２００６．０１］",
+      "en": "providing a thin slice, e.g. microtome",
+      "count": 4045,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N1/08": {
+      "code": "G01N1/08",
+      "level": 3,
+      "parent": "G01N1/04",
+      "ja": "抜取り用具を包含するもの，例．コアビット［２００６．０１］",
+      "en": "involving an extracting tool, e.g. core bit",
+      "count": 41509,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N1/10": {
+      "code": "G01N1/10",
+      "level": 2,
+      "parent": "G01N1/02",
+      "ja": "液体または流動状のもの［２００６．０１］",
+      "en": "in the liquid or fluent state",
+      "count": 48779,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N1/12": {
+      "code": "G01N1/12",
+      "level": 3,
+      "parent": "G01N1/10",
+      "ja": "ジッパ；浚渫機［２００６．０１］",
+      "en": "Dippers; Dredgers",
+      "count": 3571,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N1/14": {
+      "code": "G01N1/14",
+      "level": 3,
+      "parent": "G01N1/10",
+      "ja": "吸入装置，例．ポンプ；排出装置［２００６．０１］",
+      "en": "Suction devices, e.g. pumps; Ejector devices",
+      "count": 38657,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N1/16": {
+      "code": "G01N1/16",
+      "level": 3,
+      "parent": "G01N1/10",
+      "ja": "数種のレベルで採取できるもの（Ｇ０１Ｎ１／１２，Ｇ０１Ｎ１／１４が優先）［２００６．０１］",
+      "en": "with provision for intake at several levels(<b>G01N1/12</b>, <b>G01N1/14</b> take precedence)",
+      "count": 6379,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N1/18": {
+      "code": "G01N1/18",
+      "level": 3,
+      "parent": "G01N1/10",
+      "ja": "試料を分割できるもの（Ｇ０１Ｎ１／１２，Ｇ０１Ｎ１／１４が優先；クロマトグラフィ用フラクション捕集装置Ｂ０１Ｄ１５／０８）［２００６．０１］",
+      "en": "with provision for splitting samples into portions(<b>G01N1/12</b>, <b>G01N1/14</b> take precedence; fraction-collection apparatus for chromatography <b>B01D15/08</b>)",
+      "count": 2497,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N1/20": {
+      "code": "G01N1/20",
+      "level": 3,
+      "parent": "G01N1/10",
+      "ja": "流動しまたは落下する材料のためのもの（Ｇ０１Ｎ１／１２，Ｇ０１Ｎ１／１４が優先）［２００６．０１］",
+      "en": "for flowing or falling materials(<b>G01N1/12</b>, <b>G01N1/14</b> take precedence)",
+      "count": 12234,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N1/22": {
+      "code": "G01N1/22",
+      "level": 2,
+      "parent": "G01N1/02",
+      "ja": "気体状のもの［２００６．０１］",
+      "en": "in the gaseous state",
+      "count": 31103,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N1/24": {
+      "code": "G01N1/24",
+      "level": 3,
+      "parent": "G01N1/22",
+      "ja": "吸入装置［２００６．０１］",
+      "en": "Suction devices",
+      "count": 20965,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N1/26": {
+      "code": "G01N1/26",
+      "level": 3,
+      "parent": "G01N1/22",
+      "ja": "数種の空間から採取できるもの［２００６．０１］",
+      "en": "with provision for intake from several spaces",
+      "count": 1877,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N1/28": {
+      "code": "G01N1/28",
+      "level": 1,
+      "parent": "G01N1/00",
+      "ja": "調査用標本の調製（顕微鏡のスライドへの標本の取付けＧ０２Ｂ２１／３４；電子顕微鏡で分析すべき対象または試料の保持手段Ｈ０１Ｊ３７／２０）［２００６．０１］",
+      "en": "Preparing specimens for investigation(mounting specimens on microscopic slides <b>G02B21/34</b>; means for supporting the objects or the materials to be analysed in electron microscopes <b>H01J37/20</b>)",
+      "count": 94130,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N1/30": {
+      "code": "G01N1/30",
+      "level": 2,
+      "parent": "G01N1/28",
+      "ja": "色付け；含浸［２００６．０１］",
+      "en": "Staining; Impregnating",
+      "count": 8229,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N1/31": {
+      "code": "G01N1/31",
+      "level": 3,
+      "parent": "G01N1/30",
+      "ja": "そのための装置［２００６．０１］",
+      "en": "Apparatus therefor",
+      "count": 7026,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N1/32": {
+      "code": "G01N1/32",
+      "level": 2,
+      "parent": "G01N1/28",
+      "ja": "ポリッシング；エッチング［２００６．０１］",
+      "en": "Polishing; Etching",
+      "count": 7044,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N1/34": {
+      "code": "G01N1/34",
+      "level": 2,
+      "parent": "G01N1/28",
+      "ja": "精製；清浄［２００６．０１］",
+      "en": "Purifying; Cleaning",
+      "count": 31218,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N1/36": {
+      "code": "G01N1/36",
+      "level": 2,
+      "parent": "G01N1/28",
+      "ja": "試料の埋め込みまたは類似の取付け［２００６．０１］",
+      "en": "Embedding or analogous mounting of samples",
+      "count": 12371,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N1/38": {
+      "code": "G01N1/38",
+      "level": 2,
+      "parent": "G01N1/28",
+      "ja": "試料の希釈，撹拌または混合［２００６．０１］",
+      "en": "Diluting, dispersing or mixing samples",
+      "count": 24674,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N1/40": {
+      "code": "G01N1/40",
+      "level": 2,
+      "parent": "G01N1/28",
+      "ja": "試料の濃縮［２００６．０１］",
+      "en": "Concentrating samples",
+      "count": 14584,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N1/42": {
+      "code": "G01N1/42",
+      "level": 2,
+      "parent": "G01N1/28",
+      "ja": "低温試料処理，例．低温固定［２００６．０１］",
+      "en": "Low-temperature sample treatment, e.g. cryofixation",
+      "count": 6034,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N1/44": {
+      "code": "G01N1/44",
+      "level": 2,
+      "parent": "G01N1/28",
+      "ja": "放射を伴う試料処理，例．熱［２００６．０１］",
+      "en": "Sample treatment involving radiation, e.g. heat",
+      "count": 20842,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N3/00": {
+      "code": "G01N3/00",
+      "level": 0,
+      "parent": "G01N",
+      "ja": "機械的応力の負荷による固体材料の強さの調査<br><br><b><ul>注</ul></b><br>このグループは，材料の応力の負荷が弾性限界以下の場合のみならず，弾性限界を越える場合，例．破壊するまで，をも包含する。",
+      "en": "Investigating strength properties of solid materials by application of mechanical stress; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This group <u>covers</u> the stressing of materials not only below but also beyond the elastic limit, e.g. until breaking occurs.</li></ul>",
+      "count": 16327,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N3/02": {
+      "code": "G01N3/02",
+      "level": 1,
+      "parent": "G01N3/00",
+      "ja": "細部",
+      "en": "Details",
+      "count": 96339,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N3/04": {
+      "code": "G01N3/04",
+      "level": 2,
+      "parent": "G01N3/02",
+      "ja": "チヤック",
+      "en": "Chucks",
+      "count": 58065,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N3/06": {
+      "code": "G01N3/06",
+      "level": 2,
+      "parent": "G01N3/02",
+      "ja": "指示または記録手段の特殊な適用",
+      "en": "Special adaptations of indicating or recording means",
+      "count": 22616,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N3/08": {
+      "code": "G01N3/08",
+      "level": 1,
+      "parent": "G01N3/00",
+      "ja": "定張力または定圧縮力によるもの（Ｇ０１Ｎ３／２８が優先）",
+      "en": "by applying steady tensile or compressive forces(<b>G01N3/28</b> takes precedence)",
+      "count": 60025,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N3/10": {
+      "code": "G01N3/10",
+      "level": 2,
+      "parent": "G01N3/08",
+      "ja": "気圧または水圧によるもの（Ｇ０１Ｎ３／１８が優先）",
+      "en": "generated by pneumatic or hydraulic pressure(<b>G01N3/18</b> takes precedence)",
+      "count": 9591,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N3/12": {
+      "code": "G01N3/12",
+      "level": 3,
+      "parent": "G01N3/10",
+      "ja": "圧力試験",
+      "en": "Pressure-testing",
+      "count": 33164,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N3/14": {
+      "code": "G01N3/14",
+      "level": 2,
+      "parent": "G01N3/08",
+      "ja": "静重量により生じるもの，例．振子；バネの伸長力によるもの（Ｇ０１Ｎ３／１８が優先）",
+      "en": "generated by dead weight, e.g. pendulum; generated by spring tension(<b>G01N3/18</b> takes precedence)",
+      "count": 3177,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N3/16": {
+      "code": "G01N3/16",
+      "level": 2,
+      "parent": "G01N3/08",
+      "ja": "伝動装置を通して適用するもの（Ｇ０１Ｎ３／１８が優先）",
+      "en": "applied through gearing(<b>G01N3/18</b> takes precedence)",
+      "count": 1431,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N3/18": {
+      "code": "G01N3/18",
+      "level": 2,
+      "parent": "G01N3/08",
+      "ja": "高温または低温でする試験",
+      "en": "Performing tests at high or low temperatures",
+      "count": 8459,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N3/20": {
+      "code": "G01N3/20",
+      "level": 1,
+      "parent": "G01N3/00",
+      "ja": "定曲げ力の適用によるもの（Ｇ０１Ｎ３／２６，Ｇ０１Ｎ３／２８が優先）",
+      "en": "by applying steady bending forces(<b>G01N3/26</b>, <b>G01N3/28</b> take precedence)",
+      "count": 13403,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N3/22": {
+      "code": "G01N3/22",
+      "level": 1,
+      "parent": "G01N3/00",
+      "ja": "定ねじり力の適用によるもの（Ｇ０１Ｎ３／２６，Ｇ０１Ｎ３／２８が優先）",
+      "en": "by applying steady torsional forces(<b>G01N3/26</b>, <b>G01N3/28</b> take precedence)",
+      "count": 3847,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N3/24": {
+      "code": "G01N3/24",
+      "level": 1,
+      "parent": "G01N3/00",
+      "ja": "定せん断力の適用によるもの（Ｇ０１Ｎ３／２６，Ｇ０１Ｎ３／２８が優先）",
+      "en": "by applying steady shearing forces(<b>G01N3/26</b>, <b>G01N3/28</b> take precedence)",
+      "count": 10062,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N3/26": {
+      "code": "G01N3/26",
+      "level": 1,
+      "parent": "G01N3/00",
+      "ja": "ねじりまたは渦巻き特性の試験",
+      "en": "Investigating twisting or coiling properties",
+      "count": 1911,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N3/28": {
+      "code": "G01N3/28",
+      "level": 1,
+      "parent": "G01N3/00",
+      "ja": "延性の調査，例．金属薄板の深絞りまたはスピニングに対する適応性の調査",
+      "en": "Investigating ductility, e.g. suitability of sheet metal for deep-drawing or spinning",
+      "count": 2397,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N3/30": {
+      "code": "G01N3/30",
+      "level": 1,
+      "parent": "G01N3/00",
+      "ja": "単衝撃力の適用によるもの（衝撃荷重のもとで圧痕を形成することによる硬度の調査Ｇ０１Ｎ３／４８）",
+      "en": "by applying a single impulsive force(investigating hardness by performing impressions under impulsive load <b>G01N3/48</b>)",
+      "count": 8208,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N3/303": {
+      "code": "G01N3/303",
+      "level": 2,
+      "parent": "G01N3/30",
+      "ja": "荷重の自由落下によるもの［７］",
+      "en": "generated only by free-falling weight",
+      "count": 6285,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N3/307": {
+      "code": "G01N3/307",
+      "level": 2,
+      "parent": "G01N3/30",
+      "ja": "圧縮した，または張力をかけたスプリングによって発生するもの［７］",
+      "en": "generated by a compressed or tensile-stressed spring; generated by pneumatic or hydraulic means",
+      "count": 2866,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N3/31": {
+      "code": "G01N3/31",
+      "level": 2,
+      "parent": "G01N3/30",
+      "ja": "フライホイルの回転によるもの［７］",
+      "en": "generated by a rotating fly-wheel",
+      "count": 274,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N3/313": {
+      "code": "G01N3/313",
+      "level": 2,
+      "parent": "G01N3/30",
+      "ja": "爆発物によって発生するもの［７］",
+      "en": "generated by explosives",
+      "count": 1118,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N3/317": {
+      "code": "G01N3/317",
+      "level": 2,
+      "parent": "G01N3/30",
+      "ja": "電磁的手段によるもの［７］",
+      "en": "generated by electromagnetic means",
+      "count": 829,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N3/32": {
+      "code": "G01N3/32",
+      "level": 1,
+      "parent": "G01N3/00",
+      "ja": "繰返し力または脈動力の適用によるもの",
+      "en": "by applying repeated or pulsating forces",
+      "count": 11981,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N3/34": {
+      "code": "G01N3/34",
+      "level": 2,
+      "parent": "G01N3/32",
+      "ja": "機械的手段によるもの，例．ハンマーによる打撃",
+      "en": "generated by mechanical means, e.g. hammer blows",
+      "count": 4829,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N3/36": {
+      "code": "G01N3/36",
+      "level": 2,
+      "parent": "G01N3/32",
+      "ja": "気圧または水圧手段によるもの",
+      "en": "generated by pneumatic or hydraulic means",
+      "count": 3932,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N3/38": {
+      "code": "G01N3/38",
+      "level": 2,
+      "parent": "G01N3/32",
+      "ja": "電磁的手段によるもの",
+      "en": "generated by electromagnetic means",
+      "count": 3157,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N3/40": {
+      "code": "G01N3/40",
+      "level": 1,
+      "parent": "G01N3/00",
+      "ja": "硬度または反発硬度の調査",
+      "en": "Investigating hardness or rebound hardness",
+      "count": 9488,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N3/42": {
+      "code": "G01N3/42",
+      "level": 2,
+      "parent": "G01N3/40",
+      "ja": "定荷重のもとで圧子，例．球，角すい，が形成する圧痕によるもの（Ｇ０１Ｎ３／５４が優先）",
+      "en": "by performing impressions under a steady load by indentors, e.g. sphere, pyramid(<b>G01N3/54</b> takes precedence)",
+      "count": 6303,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N3/44": {
+      "code": "G01N3/44",
+      "level": 3,
+      "parent": "G01N3/42",
+      "ja": "小荷重とそれに続く大荷重のもとにおかれる圧子，例．ロックウェル系",
+      "en": "the indentors being put under a minor load and a subsequent major load, i.e. Rockwell system",
+      "count": 913,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N3/46": {
+      "code": "G01N3/46",
+      "level": 3,
+      "parent": "G01N3/42",
+      "ja": "引きかき作動をする圧子",
+      "en": "the indentors performing a scratching movement",
+      "count": 693,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N3/48": {
+      "code": "G01N3/48",
+      "level": 2,
+      "parent": "G01N3/40",
+      "ja": "衝撃荷重のもので圧子，例．落下球，により圧痕を形成することによるもの（Ｇ０１Ｎ３／５４が優先）",
+      "en": "by performing impressions under impulsive load by indentors, e.g. falling ball(<b>G01N3/54</b> takes precedence)",
+      "count": 1497,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N3/50": {
+      "code": "G01N3/50",
+      "level": 2,
+      "parent": "G01N3/40",
+      "ja": "ころがり摩擦の測定によるもの，例．揺れ振り子によるもの（Ｇ０１Ｎ３／５４が優先）",
+      "en": "by measuring rolling friction, e.g. by rocking pendulum(<b>G01N3/54</b> takes precedence)",
+      "count": 157,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N3/52": {
+      "code": "G01N3/52",
+      "level": 2,
+      "parent": "G01N3/40",
+      "ja": "衝撃体のはね返り量の測定によるもの（Ｇ０１Ｎ３／５４が優先）",
+      "en": "by measuring extent of rebound of a striking body(<b>G01N3/54</b> takes precedence)",
+      "count": 2818,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N3/54": {
+      "code": "G01N3/54",
+      "level": 2,
+      "parent": "G01N3/40",
+      "ja": "高温または低温での試験",
+      "en": "Performing tests at high or low temperatures",
+      "count": 490,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N3/56": {
+      "code": "G01N3/56",
+      "level": 1,
+      "parent": "G01N3/00",
+      "ja": "耐摩滅性または耐摩耗性の調査",
+      "en": "Investigating resistance to wear or abrasion",
+      "count": 20635,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N3/58": {
+      "code": "G01N3/58",
+      "level": 1,
+      "parent": "G01N3/00",
+      "ja": "刃物による被削性の調査；工具の切削性の調査",
+      "en": "Investigating machinability by cutting tools; Investigating the cutting ability of tools",
+      "count": 2136,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N3/60": {
+      "code": "G01N3/60",
+      "level": 1,
+      "parent": "G01N3/00",
+      "ja": "材料，例．耐火材，の急激な熱変化に対する抵抗調査",
+      "en": "Investigating resistance of materials, e.g. refractory materials, to rapid heat changes",
+      "count": 3604,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N3/62": {
+      "code": "G01N3/62",
+      "level": 1,
+      "parent": "G01N3/00",
+      "ja": "上記サブグループに分類される調査に用いられた装置の作製，較正，または修理",
+      "en": "Manufacturing, calibrating, or repairing devices used in investigations covered by the preceding subgroups",
+      "count": 1445,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N5/00": {
+      "code": "G01N5/00",
+      "level": 0,
+      "parent": "G01N",
+      "ja": "重量測定による材料分析，例．気体または液体から分離した小粒子の重量測定によるもの（Ｇ０１Ｎ９／００が優先）",
+      "en": "Analysing materials by weighing, e.g. weighing small particles separated from a gas or liquid(<b>G01N9/00</b> takes precedence)",
+      "count": 7644,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N5/02": {
+      "code": "G01N5/02",
+      "level": 1,
+      "parent": "G01N5/00",
+      "ja": "材料の成分を吸収または吸着させ，吸着剤の重量変化を測定するもの，例．含水率の測定",
+      "en": "by absorbing or adsorbing components of a material and determining change of weight of the adsorbent, e.g. determining moisture content",
+      "count": 6403,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N5/04": {
+      "code": "G01N5/04",
+      "level": 1,
+      "parent": "G01N5/00",
+      "ja": "成分を除去し，例．蒸発，残部の重量を測定するもの",
+      "en": "by removing a component, e.g. by evaporation, and weighing the remainder",
+      "count": 12167,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N7/00": {
+      "code": "G01N7/00",
+      "level": 0,
+      "parent": "G01N",
+      "ja": "気体または蒸気の体積または圧力の測定による材料分析",
+      "en": "Analysing materials by measuring the pressure or volume of a gas or vapour",
+      "count": 3860,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N7/02": {
+      "code": "G01N7/02",
+      "level": 1,
+      "parent": "G01N7/00",
+      "ja": "成分を吸収，吸着または燃焼させ，その残部の圧力または体積の変化を測定するもの",
+      "en": "by absorption, adsorption, or combustion of components and measurement of the change in pressure or volume of the remainder",
+      "count": 437,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N7/04": {
+      "code": "G01N7/04",
+      "level": 2,
+      "parent": "G01N7/02",
+      "ja": "吸収または吸着のみによるもの",
+      "en": "by absorption or adsorption alone",
+      "count": 1483,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N7/06": {
+      "code": "G01N7/06",
+      "level": 2,
+      "parent": "G01N7/02",
+      "ja": "燃焼のみによるもの",
+      "en": "by combustion alone",
+      "count": 218,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N7/08": {
+      "code": "G01N7/08",
+      "level": 2,
+      "parent": "G01N7/02",
+      "ja": "燃焼後，燃焼生成物を吸収または吸着させるもの",
+      "en": "by combustion followed by absorption or adsorption of the combustion products",
+      "count": 114,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N7/10": {
+      "code": "G01N7/10",
+      "level": 1,
+      "parent": "G01N7/00",
+      "ja": "多孔壁により成分を拡散させ，圧力または体積の差異を測定することによるもの",
+      "en": "by allowing diffusion of components through a porous wall and measuring a pressure or volume difference",
+      "count": 1563,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N7/12": {
+      "code": "G01N7/12",
+      "level": 2,
+      "parent": "G01N7/10",
+      "ja": "拡散の後，燃焼または接触酸化するもの",
+      "en": "the diffusion being followed by combustion or catalytic oxidation",
+      "count": 53,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N7/14": {
+      "code": "G01N7/14",
+      "level": 1,
+      "parent": "G01N7/00",
+      "ja": "材料から気体または蒸気，例．水蒸気，を放出させ，圧力または体積の差異を測定することによるもの",
+      "en": "by allowing the material to emit a gas or vapour, e.g. water vapour, and measuring a pressure or volume difference",
+      "count": 1873,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N7/16": {
+      "code": "G01N7/16",
+      "level": 2,
+      "parent": "G01N7/14",
+      "ja": "材料の加熱によるもの",
+      "en": "by heating the material",
+      "count": 732,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N7/18": {
+      "code": "G01N7/18",
+      "level": 2,
+      "parent": "G01N7/14",
+      "ja": "材料を反応させることによるもの",
+      "en": "by allowing the material to react",
+      "count": 651,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N7/20": {
+      "code": "G01N7/20",
+      "level": 3,
+      "parent": "G01N7/18",
+      "ja": "反応が発酵である場合",
+      "en": "the reaction being fermentation",
+      "count": 86,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N7/22": {
+      "code": "G01N7/22",
+      "level": 4,
+      "parent": "G01N7/20",
+      "ja": "生地に関するもの",
+      "en": "of dough",
+      "count": 47,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N9/00": {
+      "code": "G01N9/00",
+      "level": 0,
+      "parent": "G01N",
+      "ja": "材料の比重または密度の調査；比重または密度の測定による材料分析",
+      "en": "Investigating density or specific gravity of materials; Analysing materials by determining density or specific gravity",
+      "count": 7517,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N9/02": {
+      "code": "G01N9/02",
+      "level": 1,
+      "parent": "G01N9/00",
+      "ja": "一定体積の計量によるもの",
+      "en": "by measuring weight of a known volume",
+      "count": 2357,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N9/04": {
+      "code": "G01N9/04",
+      "level": 2,
+      "parent": "G01N9/02",
+      "ja": "液体に関するもの",
+      "en": "of fluids",
+      "count": 1415,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N9/06": {
+      "code": "G01N9/06",
+      "level": 3,
+      "parent": "G01N9/04",
+      "ja": "ピボットにより支持された組子を通して連続的循環機構をもつもの",
+      "en": "with continuous circulation through a pivotally-supported member",
+      "count": 145,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N9/08": {
+      "code": "G01N9/08",
+      "level": 1,
+      "parent": "G01N9/00",
+      "ja": "固体材料を大気中および液体中の両方で重量測定し，浮力を測定することによるもの",
+      "en": "by measuring buoyant force of solid materials by weighing both in air and in a liquid",
+      "count": 690,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N9/10": {
+      "code": "G01N9/10",
+      "level": 1,
+      "parent": "G01N9/00",
+      "ja": "流体材料に全部または部分的に浸された物体の観察によるもの",
+      "en": "by observing bodies wholly or partially immersed in fluid materials",
+      "count": 737,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N9/12": {
+      "code": "G01N9/12",
+      "level": 2,
+      "parent": "G01N9/10",
+      "ja": "物体の沈下の度合いの観測によるもの，例．浮きばかり",
+      "en": "by observing the depth of immersion of the bodies, e.g. hydrometers",
+      "count": 877,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N9/14": {
+      "code": "G01N9/14",
+      "level": 3,
+      "parent": "G01N9/12",
+      "ja": "物体が容器状であるもの",
+      "en": "the body being built into a container",
+      "count": 528,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N9/16": {
+      "code": "G01N9/16",
+      "level": 3,
+      "parent": "G01N9/12",
+      "ja": "物体が軸支されているもの",
+      "en": "the body being pivoted",
+      "count": 183,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N9/18": {
+      "code": "G01N9/18",
+      "level": 3,
+      "parent": "G01N9/12",
+      "ja": "指示，記録または制御のための特殊な適用",
+      "en": "Special adaptations for indicating, recording, or control",
+      "count": 635,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N9/20": {
+      "code": "G01N9/20",
+      "level": 2,
+      "parent": "G01N9/10",
+      "ja": "諸物体の重量のつり合わせによるもの",
+      "en": "by balancing the weight of the bodies",
+      "count": 228,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N9/22": {
+      "code": "G01N9/22",
+      "level": 3,
+      "parent": "G01N9/20",
+      "ja": "液体の連続的循環機構をもつもの",
+      "en": "with continuous circulation of the fluid",
+      "count": 79,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N9/24": {
+      "code": "G01N9/24",
+      "level": 1,
+      "parent": "G01N9/00",
+      "ja": "材料に対する波動性または粒子性の放射線の透過度の観測によるもの",
+      "en": "by observing the transmission of wave or particle radiation through the material",
+      "count": 2773,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N9/26": {
+      "code": "G01N9/26",
+      "level": 1,
+      "parent": "G01N9/00",
+      "ja": "圧力の差異の測定によるもの",
+      "en": "by measuring pressure differences",
+      "count": 1836,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N9/28": {
+      "code": "G01N9/28",
+      "level": 2,
+      "parent": "G01N9/26",
+      "ja": "液体中の異なる深度でノズルから発生する気泡の放出圧力の測定によるもの",
+      "en": "by measuring the blowing pressure of gas bubbles escaping from nozzles at different depths in a liquid",
+      "count": 209,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N9/30": {
+      "code": "G01N9/30",
+      "level": 1,
+      "parent": "G01N9/00",
+      "ja": "遠心効果によるもの",
+      "en": "by using centrifugal effects",
+      "count": 242,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N9/32": {
+      "code": "G01N9/32",
+      "level": 1,
+      "parent": "G01N9/00",
+      "ja": "液体の流動性によるもの，例．管または開口の流れ",
+      "en": "by using flow properties of fluids, e.g. flow through tubes or apertures",
+      "count": 518,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N9/34": {
+      "code": "G01N9/34",
+      "level": 2,
+      "parent": "G01N9/32",
+      "ja": "液体により作動する機素，例．羽根，の利用によるもの",
+      "en": "by using elements moving through the fluid, e.g. vane",
+      "count": 137,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N9/36": {
+      "code": "G01N9/36",
+      "level": 1,
+      "parent": "G01N9/00",
+      "ja": "比重または密度の測定による材料の分析，例．水分の測定（測定方法Ｇ０１Ｎ９／０２～Ｇ０１Ｎ９／３２）",
+      "en": "Analysing materials by measuring the density or specific gravity, e.g. determining quantity of moisture(methods of measurement <b>G01N9/02 to G01N9/32</b> )",
+      "count": 3892,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N11/00": {
+      "code": "G01N11/00",
+      "level": 0,
+      "parent": "G01N",
+      "ja": "材料の流動性，例．粘度または塑性，の調査；流動性の測定による材料分析",
+      "en": "Investigating flow properties of materials, e.g. viscosity or plasticity; Analysing materials by determining flow properties",
+      "count": 11924,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N11/02": {
+      "code": "G01N11/02",
+      "level": 1,
+      "parent": "G01N11/00",
+      "ja": "材料の流れの測定によるもの",
+      "en": "by measuring flow of the material",
+      "count": 1136,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N11/04": {
+      "code": "G01N11/04",
+      "level": 2,
+      "parent": "G01N11/02",
+      "ja": "せばめられた通路，例．管，開口，を通すもの",
+      "en": "through a restricted passage, e.g. tube, aperture",
+      "count": 2170,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N11/06": {
+      "code": "G01N11/06",
+      "level": 3,
+      "parent": "G01N11/04",
+      "ja": "一定量の流出時間の測定によるもの",
+      "en": "by timing the outflow of a known quantity",
+      "count": 2041,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N11/08": {
+      "code": "G01N11/08",
+      "level": 3,
+      "parent": "G01N11/04",
+      "ja": "一定の流れを生ずるのに要する圧力の測定によるもの",
+      "en": "by measuring pressure required to produce a known flow",
+      "count": 1447,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N11/10": {
+      "code": "G01N11/10",
+      "level": 1,
+      "parent": "G01N11/00",
+      "ja": "材料内で物体を作動させるもの",
+      "en": "by moving a body within the material",
+      "count": 1900,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N11/12": {
+      "code": "G01N11/12",
+      "level": 2,
+      "parent": "G01N11/10",
+      "ja": "物体の上昇または落下速度の測定によるもの；くさび形ゲージの入り込みの測定によるもの（Ｇ０１Ｎ１１／１６が優先）",
+      "en": "by measuring rising or falling speed of the body; by measuring penetration of wedged gauges(<b>G01N11/16</b> takes precedence)",
+      "count": 2182,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N11/14": {
+      "code": "G01N11/14",
+      "level": 2,
+      "parent": "G01N11/10",
+      "ja": "回転体，例．羽根，の利用によるもの（Ｇ０１Ｎ１１／１６が優先）",
+      "en": "by using rotary bodies, e.g. vane(<b>G01N11/16</b> takes precedence)",
+      "count": 4998,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N11/16": {
+      "code": "G01N11/16",
+      "level": 2,
+      "parent": "G01N11/10",
+      "ja": "振動体の減衰効果の測定によるもの",
+      "en": "by measuring damping effect upon oscillatory body",
+      "count": 2223,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N13/00": {
+      "code": "G01N13/00",
+      "level": 0,
+      "parent": "G01N",
+      "ja": "表面または境界効果，例．湿潤力，の調査；拡散効果の調査；表面，境界または拡散効果の測定による材料の分析（走査プローブ技術または装置Ｇ０１Ｑ）［１，７］",
+      "en": "Investigating surface or boundary effects, e.g. wetting power; Investigating diffusion effects; Analysing materials by determining surface, boundary, or diffusion effects(scanning-probe techniques or apparatus <b>G01Q</b>)",
+      "count": 7949,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N13/02": {
+      "code": "G01N13/02",
+      "level": 1,
+      "parent": "G01N13/00",
+      "ja": "液体の表面張力の調査",
+      "en": "Investigating surface tension of liquids",
+      "count": 2777,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N13/04": {
+      "code": "G01N13/04",
+      "level": 1,
+      "parent": "G01N13/00",
+      "ja": "浸透効果の調査",
+      "en": "Investigating osmotic effects",
+      "count": 2977,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N15/00": {
+      "code": "G01N15/00",
+      "level": 0,
+      "parent": "G01N",
+      "ja": "粒子の特徴の調査；多孔性材料の透過率，気孔量または表面積の調査（微生物の同定Ｃ１２Ｑ）［２０２４．０１］",
+      "en": "Investigating characteristics of particles; Investigating permeability, pore-volume or surface-area of porous materials",
+      "count": 13990,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N15/01": {
+      "code": "G01N15/01",
+      "level": 1,
+      "parent": "G01N15/00",
+      "ja": "生物学上の細胞，例．血球、に特に適したもの（血液中の懸濁質の沈降の調査Ｇ０１Ｎ１５／０５）［２０２４．０１］",
+      "en": "specially adapted for biological cells, e.g. blood cells(investigating sedimentation of particle suspensions in blood <b>G01N15/05</b>)",
+      "count": 1221,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N15/02": {
+      "code": "G01N15/02",
+      "level": 1,
+      "parent": "G01N15/00",
+      "ja": "粒度または粒度分布の調査（浸透圧の測定によるものＧ０１Ｎ７／１０；懸濁質の沈降の調査Ｇ０１Ｎ１５／０４；個別の粒子の調査Ｇ０１Ｎ１５／１０）［２０２４．０１］",
+      "en": "Investigating particle size or size distribution (by measuring osmotic pressure <b>G01N7/10</b>;  investigating sedimentation of particle suspensions <b>G01N15/04</b>;  investigating individual particles <b>G01N15/10</b>)",
+      "count": 17732,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N15/0205": {
+      "code": "G01N15/0205",
+      "level": 2,
+      "parent": "G01N15/02",
+      "ja": "光学的手段によるもの［２０２４．０１］",
+      "en": "by optical means",
+      "count": 1589,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N15/0227": {
+      "code": "G01N15/0227",
+      "level": 3,
+      "parent": "G01N15/0205",
+      "ja": "画像を用いるもの；ホログラフィを用いるもの［２０２４．０１］",
+      "en": "using imaging; using holography",
+      "count": 765,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N15/04": {
+      "code": "G01N15/04",
+      "level": 1,
+      "parent": "G01N15/00",
+      "ja": "懸濁質の沈降の調査",
+      "en": "Investigating sedimentation of particle suspensions",
+      "count": 3008,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N15/05": {
+      "code": "G01N15/05",
+      "level": 2,
+      "parent": "G01N15/04",
+      "ja": "血液内の［４］",
+      "en": "in blood",
+      "count": 818,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N15/06": {
+      "code": "G01N15/06",
+      "level": 1,
+      "parent": "G01N15/00",
+      "ja": "懸濁質の濃度の調査（重量測定によるものＧ０１Ｎ５／００；懸濁質の沈降の調査Ｇ０１Ｎ１５／０４；個別の粒子の調査Ｇ０１Ｎ１５／１０）［２０２４．０１］",
+      "en": "Investigating concentration of particle suspensions (by weighing <b>G01N5/00</b>;  investigating sedimentation of particle suspensions <b>G01N15/04</b>; investigating individual particles <b>G01N15/10</b>)",
+      "count": 27403,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N15/075": {
+      "code": "G01N15/075",
+      "level": 2,
+      "parent": "G01N15/06",
+      "ja": "光学的手段によるもの［２０２４．０１］",
+      "en": "by optical means",
+      "count": 2128,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N15/08": {
+      "code": "G01N15/08",
+      "level": 1,
+      "parent": "G01N15/00",
+      "ja": "多孔性材料の透過率，気孔量または表面積の調査",
+      "en": "Investigating permeability, pore volume, or surface area of porous materials",
+      "count": 34301,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N15/10": {
+      "code": "G01N15/10",
+      "level": 1,
+      "parent": "G01N15/00",
+      "ja": "個別の粒子の調査［２０２４．０１］",
+      "en": "Investigating individual particles",
+      "count": 7922,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N15/1031": {
+      "code": "G01N15/1031",
+      "level": 2,
+      "parent": "G01N15/10",
+      "ja": "電気的または磁気的効果を測定することによるもの［２０２４．０１］",
+      "en": "by measuring electrical or magnetic effects",
+      "count": 330,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N15/12": {
+      "code": "G01N15/12",
+      "level": 3,
+      "parent": "G01N15/1031",
+      "ja": "個別の粒子が横断する際の，開口部間の抵抗またはインピーダンスの変化を観測することによるもの，例．クールター原理を用いることによるもの［２０２４．０１］",
+      "en": "by observing changes in resistance or impedance across apertures when traversed by individual particles, e.g. by using the Coulter principle",
+      "count": 1602,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N15/13": {
+      "code": "G01N15/13",
+      "level": 4,
+      "parent": "G01N15/12",
+      "ja": "開口部に関する細部［２０２４．０１］",
+      "en": "Details pertaining to apertures",
+      "count": 41,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N15/14": {
+      "code": "G01N15/14",
+      "level": 2,
+      "parent": "G01N15/10",
+      "ja": "光学的調査技術，例．フローサイトメトリー［２０２４．０１］",
+      "en": "Optical investigation techniques, e.g. flow cytometry",
+      "count": 14976,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N15/1404": {
+      "code": "G01N15/1404",
+      "level": 3,
+      "parent": "G01N15/14",
+      "ja": "流体の取り扱い，例．流体力学的集束［２０２４．０１］",
+      "en": "Handling flow, e.g. hydrodynamic focusing",
+      "count": 342,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N15/1409": {
+      "code": "G01N15/1409",
+      "level": 4,
+      "parent": "G01N15/1404",
+      "ja": "試料の取り扱い，例．試料を注入するもの［２０２４．０１］",
+      "en": "Handling samples, e.g. injecting samples",
+      "count": 327,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N15/1429": {
+      "code": "G01N15/1429",
+      "level": 3,
+      "parent": "G01N15/14",
+      "ja": "信号処理［２０２４．０１］",
+      "en": "Signal processing",
+      "count": 699,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N15/1433": {
+      "code": "G01N15/1433",
+      "level": 4,
+      "parent": "G01N15/1429",
+      "ja": "画像認識を用いるもの［２０２４．０１］",
+      "en": "using image recognition",
+      "count": 573,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N15/1434": {
+      "code": "G01N15/1434",
+      "level": 3,
+      "parent": "G01N15/14",
+      "ja": "光学的配置［２０２４．０１］",
+      "en": "Optical arrangements",
+      "count": 1439,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N15/149": {
+      "code": "G01N15/149",
+      "level": 3,
+      "parent": "G01N15/14",
+      "ja": "粒子を分取するもの、例．大きさ又は光学的特性による粒子の分取［２０２４．０１］",
+      "en": "specially adapted for sorting particles, e.g. by their size or optical properties",
+      "count": 341,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N15/1492": {
+      "code": "G01N15/1492",
+      "level": 4,
+      "parent": "G01N15/149",
+      "ja": "液滴の内部のもの［２０２４．０１］",
+      "en": "within droplets",
+      "count": 59,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N17/00": {
+      "code": "G01N17/00",
+      "level": 0,
+      "parent": "G01N",
+      "ja": "天候，腐蝕または光に対する耐久性の調査",
+      "en": "Investigating resistance of materials to the weather, to corrosion or to light",
+      "count": 31578,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N17/02": {
+      "code": "G01N17/02",
+      "level": 1,
+      "parent": "G01N17/00",
+      "ja": "風化，腐蝕または防蝕を測定するための電気化学的測定システム（Ｇ０１Ｎ１７／０４が優先）［５］",
+      "en": "Electrochemical measuring systems for weathering, corrosion or corrosion-protection measurement(<b>G01N17/04</b> takes precedence)",
+      "count": 5287,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N17/04": {
+      "code": "G01N17/04",
+      "level": 1,
+      "parent": "G01N17/00",
+      "ja": "腐蝕プローブ［５］",
+      "en": "Corrosion probes",
+      "count": 1678,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N19/00": {
+      "code": "G01N19/00",
+      "level": 0,
+      "parent": "G01N",
+      "ja": "機械的方法による材料の調査（Ｇ０１Ｎ３／００～Ｇ０１Ｎ１７／００が優先）",
+      "en": "Investigating materials by mechanical methods(<b>G01N3/00 to G01N17/00</b>  take precedence)",
+      "count": 8088,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N19/02": {
+      "code": "G01N19/02",
+      "level": 1,
+      "parent": "G01N19/00",
+      "ja": "材料間の摩擦係数の測定",
+      "en": "Measuring coefficient of friction between materials",
+      "count": 8075,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N19/04": {
+      "code": "G01N19/04",
+      "level": 1,
+      "parent": "G01N19/00",
+      "ja": "材料間，例．シールテープ，被覆材，の粘着力の測定",
+      "en": "Measuring adhesive force between materials, e.g. of sealing tape, of coating",
+      "count": 15241,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N19/06": {
+      "code": "G01N19/06",
+      "level": 1,
+      "parent": "G01N19/00",
+      "ja": "材料の掻取りによる調査，例．火花試験",
+      "en": "Investigating by removing material, e.g. spark-testing",
+      "count": 317,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N19/08": {
+      "code": "G01N19/08",
+      "level": 1,
+      "parent": "G01N19/00",
+      "ja": "きずまたは不規則性の存在の検知",
+      "en": "Detecting presence of flaws or irregularities",
+      "count": 2709,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N19/10": {
+      "code": "G01N19/10",
+      "level": 1,
+      "parent": "G01N19/00",
+      "ja": "含水量の測定，例．吸湿性フィラメントの長さの変化の測定によるもの；湿度計",
+      "en": "Measuring moisture content, e.g. by measuring change in length of hygroscopic filament; Hygrometers",
+      "count": 1929,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/00": {
+      "code": "G01N21/00",
+      "level": 0,
+      "parent": "G01N",
+      "ja": "光学的手段の使用により，すなわちサブミリ波，赤外線，可視光線または紫外線を用いて，材料を調査または分析するもの（Ｇ０１Ｎ３／００～Ｇ０１Ｎ１９／００が優先）。［２００６．０１］<br><br><b><ul>注</ul></b><br>このグループは光それ自体の分光特性の調査，または光との干渉が既知または重要でない分光特性が検出される材料の特性測定を含まない．これらの主題はＧ０１Ｊ３／００に含む。［７］",
+      "en": "Investigating or analysing materials by the use of optical means, i.e. using sub-millimetre waves, infrared, visible or ultraviolet light (<b>G01N3/00 to G01N19/00</b>  take precedence);<br><br><b><u>Note(s)</u></b><br><br><ul><li>This group <u>does not cover</u> the investigation of spectral properties of light <u>per se</u>, or measurements of the properties of materials where spectral properties of light are sensed and primary emphasis is placed on creating, detecting or analysing the spectrum providing that the properties of the materials to be investigated are of minor importance. Those subjects are covered by group <b>G01J3/00</b>.</li></ul>",
+      "count": 19607,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/01": {
+      "code": "G01N21/01",
+      "level": 1,
+      "parent": "G01N21/00",
+      "ja": "光学的調査を容易に行なうための配置または装置［３］",
+      "en": "Arrangements or apparatus for facilitating the optical investigation",
+      "count": 91801,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/03": {
+      "code": "G01N21/03",
+      "level": 2,
+      "parent": "G01N21/01",
+      "ja": "キュベット構造［３］",
+      "en": "Cuvette constructions",
+      "count": 9816,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/05": {
+      "code": "G01N21/05",
+      "level": 3,
+      "parent": "G01N21/03",
+      "ja": "フロースルーキュベット（Ｇ０１Ｎ２１／０９が優先）［３］",
+      "en": "Flow-through cuvettes(<b>G01N21/09</b> takes precedence)",
+      "count": 4508,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/07": {
+      "code": "G01N21/07",
+      "level": 3,
+      "parent": "G01N21/03",
+      "ja": "遠心分離型のキュベット（Ｇ０１Ｎ２１／０９が優先）［３］",
+      "en": "Centrifugal type cuvettes(<b>G01N21/09</b> takes precedence)",
+      "count": 760,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/09": {
+      "code": "G01N21/09",
+      "level": 3,
+      "parent": "G01N21/03",
+      "ja": "敵性環境または腐食性材料もしくは研摩性材料に耐えるものに適したもの［３］",
+      "en": "adapted to resist hostile environments or corrosive or abrasive materials",
+      "count": 237,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/11": {
+      "code": "G01N21/11",
+      "level": 2,
+      "parent": "G01N21/01",
+      "ja": "キュベットへの充てんまたは排出［３］",
+      "en": "Filling or emptying of cuvettes",
+      "count": 773,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/13": {
+      "code": "G01N21/13",
+      "level": 2,
+      "parent": "G01N21/01",
+      "ja": "調査位置へのまたは調査位置からのキュベットまたは固体試料の移動［３］",
+      "en": "Moving of cuvettes or solid samples to or from the investigating station",
+      "count": 2361,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/15": {
+      "code": "G01N21/15",
+      "level": 2,
+      "parent": "G01N21/01",
+      "ja": "光学系構成要素の汚染防止または光路妨害の防止［３］",
+      "en": "Preventing contamination of the components of the optical system or obstruction of the light path",
+      "count": 5140,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/17": {
+      "code": "G01N21/17",
+      "level": 1,
+      "parent": "G01N21/00",
+      "ja": "調査される材料の特性に応じて入射光が変調されるシステム（調査される材料が光学的に励起され入射光の波長に変化を起すシステムＧ０１Ｎ２１／６３）［３］",
+      "en": "Systems in which incident light is modified in accordance with the properties of the material investigated(where the material investigated is optically excited causing a change in wavelength of the incident light <b>G01N21/63</b>)",
+      "count": 23481,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/19": {
+      "code": "G01N21/19",
+      "level": 2,
+      "parent": "G01N21/17",
+      "ja": "二色性［３］",
+      "en": "Dichroism",
+      "count": 634,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/21": {
+      "code": "G01N21/21",
+      "level": 2,
+      "parent": "G01N21/17",
+      "ja": "偏光に影響をおよぼす特性（Ｇ０１Ｎ２１／１９が優先）［３］",
+      "en": "Polarisation-affecting properties(<b>G01N21/19</b> takes precedence)",
+      "count": 7368,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/23": {
+      "code": "G01N21/23",
+      "level": 3,
+      "parent": "G01N21/21",
+      "ja": "複屈折［３］",
+      "en": "Bi-refringence",
+      "count": 1102,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/25": {
+      "code": "G01N21/25",
+      "level": 2,
+      "parent": "G01N21/17",
+      "ja": "色；スペクトル特性，すなわち２またはそれ以上の波長あるいは波長帯において材料が光に与える効果の比較［３］",
+      "en": "Colour; Spectral properties, i.e. comparison of effect of material on the light at two or more different wavelengths or wavelength bands",
+      "count": 25556,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/27": {
+      "code": "G01N21/27",
+      "level": 3,
+      "parent": "G01N21/25",
+      "ja": "光電検出器を用いるもの（Ｇ０１Ｎ２１／３１が優先）［３］",
+      "en": "using photo-electric detection(<b>G01N21/31</b> takes precedence)",
+      "count": 23290,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/29": {
+      "code": "G01N21/29",
+      "level": 3,
+      "parent": "G01N21/25",
+      "ja": "視覚検知によるもの（Ｇ０１Ｎ２１／３１が優先）［３］",
+      "en": "using visual detection(<b>G01N21/31</b> takes precedence)",
+      "count": 2250,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/31": {
+      "code": "G01N21/31",
+      "level": 3,
+      "parent": "G01N21/25",
+      "ja": "特定の元素または分子を特徴づける波長における材料の相対的効果の調査，例．原子吸光分光［３］",
+      "en": "Investigating relative effect of material at wavelengths characteristic of specific elements or molecules, e.g. atomic absorption spectrometry",
+      "count": 32763,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/33": {
+      "code": "G01N21/33",
+      "level": 4,
+      "parent": "G01N21/31",
+      "ja": "紫外光を用いるもの（Ｇ０１Ｎ２１／３９が優先）［３］",
+      "en": "using ultraviolet light(<b>G01N21/39</b> takes precedence)",
+      "count": 11423,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/35": {
+      "code": "G01N21/35",
+      "level": 4,
+      "parent": "G01N21/31",
+      "ja": "赤外光を用いるもの（Ｇ０１Ｎ２１／３９が優先）［３，２０１４．０１］",
+      "en": "using infrared light(<b>G01N21/39</b> takes precedence)",
+      "count": 15145,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/3504": {
+      "code": "G01N21/3504",
+      "level": 5,
+      "parent": "G01N21/35",
+      "ja": "気体分析のためのもの，例．多成分ガス分析［２０１４．０１］",
+      "en": "for analysing gases, e.g. multi-gas analysis",
+      "count": 9743,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/3518": {
+      "code": "G01N21/3518",
+      "level": 6,
+      "parent": "G01N21/3504",
+      "ja": "ガスフィルタ相関法を用いる装置；ガス圧力変調法を用いる装置［２０１４．０１］<br><br><b><ul>注</ul></b><br>このグループは光源手段を持たない装置，例．環境赤外光を用いる放射測定型の装置，をも包含する。［２０１４．０１］",
+      "en": "Devices using gas filter correlation techniques; Devices using gas pressure modulation techniques; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This group also <u>covers</u> devices without instrumental sources, e.g. radiometric-type devices using ambient infrared light.</li></ul>",
+      "count": 548,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/3554": {
+      "code": "G01N21/3554",
+      "level": 5,
+      "parent": "G01N21/35",
+      "ja": "水分測定のためのもの［２０１４．０１］",
+      "en": "for determining moisture content",
+      "count": 1448,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/3559": {
+      "code": "G01N21/3559",
+      "level": 6,
+      "parent": "G01N21/3554",
+      "ja": "シート材料中の，例．紙中の［２０１４．０１］",
+      "en": "in sheets, e.g. in paper",
+      "count": 299,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/3563": {
+      "code": "G01N21/3563",
+      "level": 5,
+      "parent": "G01N21/35",
+      "ja": "固体分析のためのもの；そのための試料調整［２０１４．０１］",
+      "en": "for analysing solids; Preparation of samples therefor",
+      "count": 8456,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/3577": {
+      "code": "G01N21/3577",
+      "level": 5,
+      "parent": "G01N21/35",
+      "ja": "液体，例．汚染水，を分析するためのもの［２０１４．０１］",
+      "en": "for analysing liquids, e.g. polluted water",
+      "count": 5143,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/3581": {
+      "code": "G01N21/3581",
+      "level": 5,
+      "parent": "G01N21/35",
+      "ja": "遠赤外光を用いるもの；テラヘルツ波を用いるもの［２０１４．０１］",
+      "en": "using far infrared light; using Terahertz radiation",
+      "count": 2450,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/3586": {
+      "code": "G01N21/3586",
+      "level": 6,
+      "parent": "G01N21/3581",
+      "ja": "テラヘルツ時間領域分光法［ＴＨｚ－ＴＤＳ］によるもの［２０１４．０１］",
+      "en": "by Terahertz time domain spectroscopy [THz-TDS]",
+      "count": 2372,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/359": {
+      "code": "G01N21/359",
+      "level": 5,
+      "parent": "G01N21/35",
+      "ja": "近赤外光を用いるもの［２０１４．０１］",
+      "en": "using near infrared light",
+      "count": 10625,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/37": {
+      "code": "G01N21/37",
+      "level": 5,
+      "parent": "G01N21/35",
+      "ja": "気体検知器を用いるもの［３］",
+      "en": "using pneumatic detection",
+      "count": 801,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/39": {
+      "code": "G01N21/39",
+      "level": 4,
+      "parent": "G01N21/31",
+      "ja": "同調型レーザーを用いるもの［３］",
+      "en": "using tunable lasers",
+      "count": 6994,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/41": {
+      "code": "G01N21/41",
+      "level": 2,
+      "parent": "G01N21/17",
+      "ja": "屈折率；位相に影響を与える性質，例．光路長（Ｇ０１Ｎ２１／２１が優先）［３］",
+      "en": "Refractivity; Phase-affecting properties, e.g. optical path length(<b>G01N21/21</b> takes precedence)",
+      "count": 9602,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/43": {
+      "code": "G01N21/43",
+      "level": 3,
+      "parent": "G01N21/41",
+      "ja": "臨界角の測定によるもの［３］",
+      "en": "by measuring critical angle",
+      "count": 1492,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/45": {
+      "code": "G01N21/45",
+      "level": 3,
+      "parent": "G01N21/41",
+      "ja": "干渉法によるもの；シュリーレン法によるもの［３］",
+      "en": "using interferometric methods; using Schlieren methods",
+      "count": 5613,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/47": {
+      "code": "G01N21/47",
+      "level": 2,
+      "parent": "G01N21/17",
+      "ja": "散乱，すなわち拡散反射（Ｇ０１Ｎ２１／２５，Ｇ０１Ｎ２１／４１が優先）［３］",
+      "en": "Scattering, i.e. diffuse reflection(<b>G01N21/25</b>, <b>G01N21/41</b> take precedence)",
+      "count": 13609,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/49": {
+      "code": "G01N21/49",
+      "level": 3,
+      "parent": "G01N21/47",
+      "ja": "物体内部または流体内部［３］",
+      "en": "within a body or fluid",
+      "count": 5115,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/51": {
+      "code": "G01N21/51",
+      "level": 4,
+      "parent": "G01N21/49",
+      "ja": "容器の内部，例．アンプル内（Ｇ０１Ｎ２１／５３が優先）［３］",
+      "en": "inside a container, e.g. in an ampoule(<b>G01N21/53</b> takes precedence)",
+      "count": 2007,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/53": {
+      "code": "G01N21/53",
+      "level": 4,
+      "parent": "G01N21/49",
+      "ja": "流れている流体，例．煙，の内部［３］",
+      "en": "within a flowing fluid, e.g. smoke",
+      "count": 6583,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/55": {
+      "code": "G01N21/55",
+      "level": 2,
+      "parent": "G01N21/17",
+      "ja": "鏡面反射［３，２０１４．０１］",
+      "en": "Specular reflectivity",
+      "count": 9276,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/552": {
+      "code": "G01N21/552",
+      "level": 3,
+      "parent": "G01N21/55",
+      "ja": "減衰全反射［２０１４．０１］",
+      "en": "Attenuated total reflection",
+      "count": 4210,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/57": {
+      "code": "G01N21/57",
+      "level": 3,
+      "parent": "G01N21/55",
+      "ja": "光沢の測定［３］",
+      "en": "Measuring gloss",
+      "count": 1436,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/59": {
+      "code": "G01N21/59",
+      "level": 2,
+      "parent": "G01N21/17",
+      "ja": "透過率（Ｇ０１Ｎ２１／２５が優先）［３］",
+      "en": "Transmissivity(<b>G01N21/25</b> takes precedence)",
+      "count": 14930,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/61": {
+      "code": "G01N21/61",
+      "level": 3,
+      "parent": "G01N21/59",
+      "ja": "非分散型ガス分析計［３］",
+      "en": "Non-dispersive gas analysers",
+      "count": 2663,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/62": {
+      "code": "G01N21/62",
+      "level": 1,
+      "parent": "G01N21/00",
+      "ja": "調査される材料が励起され，それにより光を発しまたは入射光の波長に変化を生ずるシステム［３］",
+      "en": "Systems in which the material investigated is excited whereby it emits light or causes a change in wavelength of the incident light",
+      "count": 1995,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/63": {
+      "code": "G01N21/63",
+      "level": 2,
+      "parent": "G01N21/62",
+      "ja": "光学的励起［３］",
+      "en": "optically excited",
+      "count": 5159,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/64": {
+      "code": "G01N21/64",
+      "level": 3,
+      "parent": "G01N21/63",
+      "ja": "蛍光；燐光［３］",
+      "en": "Fluorescence; Phosphorescence",
+      "count": 76139,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/65": {
+      "code": "G01N21/65",
+      "level": 3,
+      "parent": "G01N21/63",
+      "ja": "ラマン散乱［３］",
+      "en": "Raman scattering",
+      "count": 17569,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/66": {
+      "code": "G01N21/66",
+      "level": 2,
+      "parent": "G01N21/62",
+      "ja": "電気的励起，例．エレクトロルミネセンス［３］",
+      "en": "electrically excited, e.g. electroluminescence",
+      "count": 1015,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/67": {
+      "code": "G01N21/67",
+      "level": 3,
+      "parent": "G01N21/66",
+      "ja": "電弧または放電を用いるもの［３］",
+      "en": "using electric arcs or discharges",
+      "count": 2114,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/68": {
+      "code": "G01N21/68",
+      "level": 3,
+      "parent": "G01N21/66",
+      "ja": "高周波電場を用いるもの［３］",
+      "en": "using high frequency electric fields",
+      "count": 433,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/69": {
+      "code": "G01N21/69",
+      "level": 3,
+      "parent": "G01N21/66",
+      "ja": "流体に特に適したもの［３］",
+      "en": "specially adapted for fluids",
+      "count": 387,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/70": {
+      "code": "G01N21/70",
+      "level": 2,
+      "parent": "G01N21/62",
+      "ja": "機械的励起，例．摩擦ルミネセンス［３］",
+      "en": "mechanically excited, e.g. triboluminescence",
+      "count": 152,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/71": {
+      "code": "G01N21/71",
+      "level": 2,
+      "parent": "G01N21/62",
+      "ja": "熱的励起［３］",
+      "en": "thermally excited",
+      "count": 3995,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/72": {
+      "code": "G01N21/72",
+      "level": 3,
+      "parent": "G01N21/71",
+      "ja": "火炎バーナを用いるもの［３］",
+      "en": "using flame burners",
+      "count": 1122,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/73": {
+      "code": "G01N21/73",
+      "level": 3,
+      "parent": "G01N21/71",
+      "ja": "プラズマバーナまたはプラズマトーチを用いるもの［３］",
+      "en": "using plasma burners or torches",
+      "count": 4856,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/74": {
+      "code": "G01N21/74",
+      "level": 3,
+      "parent": "G01N21/71",
+      "ja": "フレームレス原子化法，例．グラファイト炉，によるもの［３］",
+      "en": "using flameless atomising, e.g. graphite furnaces",
+      "count": 732,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/75": {
+      "code": "G01N21/75",
+      "level": 1,
+      "parent": "G01N21/00",
+      "ja": "材料が化学反応を受け，その反応の進行または結果が調査されるシステム（材料が炎またはプラズマ中で燃焼されるシステムＧ０１Ｎ２１／７２，Ｇ０１Ｎ２１／７３）［３］",
+      "en": "Systems in which material is subjected to a chemical reaction, the progress or the result of the reaction being investigated(systems in which material is burnt in a flame or plasma <b>G01N21/72</b>, <b>G01N21/73</b>)",
+      "count": 4518,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/76": {
+      "code": "G01N21/76",
+      "level": 2,
+      "parent": "G01N21/75",
+      "ja": "化学ルミネセンス；生物ルミネセンス［３］",
+      "en": "Chemiluminescence; Bioluminescence",
+      "count": 12786,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/77": {
+      "code": "G01N21/77",
+      "level": 2,
+      "parent": "G01N21/75",
+      "ja": "化学指示薬に対する効果を観察することによるもの［３］",
+      "en": "by observing the effect on a chemical indicator",
+      "count": 7216,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/78": {
+      "code": "G01N21/78",
+      "level": 3,
+      "parent": "G01N21/77",
+      "ja": "色の変化の提示［３］",
+      "en": "producing a change of colour",
+      "count": 35249,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/79": {
+      "code": "G01N21/79",
+      "level": 4,
+      "parent": "G01N21/78",
+      "ja": "光度滴定［３］",
+      "en": "Photometric titration",
+      "count": 1271,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/80": {
+      "code": "G01N21/80",
+      "level": 4,
+      "parent": "G01N21/78",
+      "ja": "ｐＨ値の指示［３］",
+      "en": "Indicating pH value",
+      "count": 2929,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/81": {
+      "code": "G01N21/81",
+      "level": 4,
+      "parent": "G01N21/78",
+      "ja": "湿度の指示［３］",
+      "en": "Indicating humidity",
+      "count": 996,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/82": {
+      "code": "G01N21/82",
+      "level": 3,
+      "parent": "G01N21/77",
+      "ja": "沈殿物または混濁の生成［３］",
+      "en": "producing a precipitate or turbidity",
+      "count": 1752,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/83": {
+      "code": "G01N21/83",
+      "level": 4,
+      "parent": "G01N21/82",
+      "ja": "比濁滴定［３］",
+      "en": "Turbidimetric titration",
+      "count": 166,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/84": {
+      "code": "G01N21/84",
+      "level": 1,
+      "parent": "G01N21/00",
+      "ja": "特殊な応用に特に適合したシステム［３］",
+      "en": "Systems specially adapted for particular applications",
+      "count": 43610,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/85": {
+      "code": "G01N21/85",
+      "level": 2,
+      "parent": "G01N21/84",
+      "ja": "動いている流体または動いている粒状固体の調査［３］",
+      "en": "Investigating moving fluids or granular solids",
+      "count": 7663,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/86": {
+      "code": "G01N21/86",
+      "level": 2,
+      "parent": "G01N21/84",
+      "ja": "動いているシートの調査（Ｇ０１Ｎ２１／８９が優先）［３］",
+      "en": "Investigating moving sheets(<b>G01N21/89</b> takes precedence)",
+      "count": 2790,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/87": {
+      "code": "G01N21/87",
+      "level": 2,
+      "parent": "G01N21/84",
+      "ja": "宝石の調査（Ｇ０１Ｎ２１／８８が優先）［３］",
+      "en": "Investigating jewels(<b>G01N21/88</b> takes precedence)",
+      "count": 1412,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/88": {
+      "code": "G01N21/88",
+      "level": 2,
+      "parent": "G01N21/84",
+      "ja": "きず，欠陥，または汚れの存在の調査［３］",
+      "en": "Investigating the presence of flaws, defects or contamination",
+      "count": 70596,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/89": {
+      "code": "G01N21/89",
+      "level": 3,
+      "parent": "G01N21/88",
+      "ja": "動いている材料，例．紙・織物，の中の（Ｇ０１Ｎ２１／９０，Ｇ０１Ｎ２１／９１，Ｇ０１Ｎ２１／９４が優先）［３，７］",
+      "en": "in moving material, e.g. paper, textiles(<b>G01N21/90</b>, <b>G01N21/91</b>, <b>G01N21/94</b> take precedence)",
+      "count": 14080,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/892": {
+      "code": "G01N21/892",
+      "level": 4,
+      "parent": "G01N21/89",
+      "ja": "調査されるきず，欠陥，または対象物の特質に特徴付けられるもの［７］",
+      "en": "characterised by the flaw, defect or object feature examined",
+      "count": 11235,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/894": {
+      "code": "G01N21/894",
+      "level": 5,
+      "parent": "G01N21/892",
+      "ja": "ピンホール［７］",
+      "en": "Pinholes",
+      "count": 554,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/896": {
+      "code": "G01N21/896",
+      "level": 5,
+      "parent": "G01N21/892",
+      "ja": "透明材料の内部または表面の光学的欠陥，例．歪・表面のきず［７］",
+      "en": "Optical defects in or on transparent materials, e.g. distortion, surface flaws",
+      "count": 1949,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/898": {
+      "code": "G01N21/898",
+      "level": 5,
+      "parent": "G01N21/892",
+      "ja": "織地またはパターン表面，例．織物・木材，の不規性［７］",
+      "en": "Irregularities in textured or patterned surfaces, e.g. textiles, wood",
+      "count": 1832,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/90": {
+      "code": "G01N21/90",
+      "level": 3,
+      "parent": "G01N21/88",
+      "ja": "容器中またはその内容物（Ｇ０１Ｎ２１／９１が優先）［３］",
+      "en": "in a container or its contents(<b>G01N21/91</b> takes precedence)",
+      "count": 6166,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/91": {
+      "code": "G01N21/91",
+      "level": 3,
+      "parent": "G01N21/88",
+      "ja": "染料，例．蛍光インク，の浸透を用いるもの［３］",
+      "en": "using penetration of dyes, e.g. fluorescent ink",
+      "count": 3107,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/93": {
+      "code": "G01N21/93",
+      "level": 3,
+      "parent": "G01N21/88",
+      "ja": "検査用標準；キャリブレーション［７］",
+      "en": "Detection standards; Calibrating",
+      "count": 4495,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/94": {
+      "code": "G01N21/94",
+      "level": 3,
+      "parent": "G01N21/88",
+      "ja": "汚れ，例．塵埃，の調査（Ｇ０１Ｎ２１／８５が優先）［７］",
+      "en": "Investigating contamination, e.g. dust(<b>G01N21/85</b> takes precedence)",
+      "count": 8275,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/95": {
+      "code": "G01N21/95",
+      "level": 3,
+      "parent": "G01N21/88",
+      "ja": "調査対象物の材質や形に特徴付けられるもの（Ｇ０１Ｎ２１／８９～Ｇ０１Ｎ２１／９１，Ｇ０１Ｎ２１／９４が優先）［７］",
+      "en": "characterised by the material or shape of the object to be examined(<b>G01N21/89 to G01N21/91</b> , <b>G01N21/94</b> take precedence)",
+      "count": 23836,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/952": {
+      "code": "G01N21/952",
+      "level": 4,
+      "parent": "G01N21/95",
+      "ja": "円筒体またはワイヤの外表面の検査［７］",
+      "en": "Inspecting the exterior surface of cylindrical bodies or wires(<b>G01N21/956</b> takes precedence)",
+      "count": 4442,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/954": {
+      "code": "G01N21/954",
+      "level": 4,
+      "parent": "G01N21/95",
+      "ja": "中空体，例．削孔，の内側表面の検査［７］",
+      "en": "Inspecting the inner surface of hollow bodies, e.g. bores",
+      "count": 4745,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/956": {
+      "code": "G01N21/956",
+      "level": 4,
+      "parent": "G01N21/95",
+      "ja": "物体表面のパターンの検査［７］",
+      "en": "Inspecting patterns on the surface of objects",
+      "count": 21295,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N21/958": {
+      "code": "G01N21/958",
+      "level": 4,
+      "parent": "G01N21/95",
+      "ja": "透明な材料の検査［７］",
+      "en": "Inspecting transparent materials",
+      "count": 6348,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N22/00": {
+      "code": "G01N22/00",
+      "level": 0,
+      "parent": "G01N",
+      "ja": "マイクロ波または電波，すなわち波長が１ミリメーター以上の電磁波，の使用により材料を調査または分析するもの（Ｇ０１Ｎ３／００～Ｇ０１Ｎ１７／００，Ｇ０１Ｎ２４／００が優先）。［２００６．０１］",
+      "en": "Investigating or analysing materials by the use of microwaves or radio waves, i.e. electromagnetic waves with a wavelength of one millimetre or more(<b>G01N3/00 to G01N17/00</b> , <b>G01N24/00</b> take precedence)",
+      "count": 6256,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N22/02": {
+      "code": "G01N22/02",
+      "level": 1,
+      "parent": "G01N22/00",
+      "ja": "きずの存在の調査［３］",
+      "en": "Investigating the presence of flaws",
+      "count": 1462,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N22/04": {
+      "code": "G01N22/04",
+      "level": 1,
+      "parent": "G01N22/00",
+      "ja": "含水量の調査［３］",
+      "en": "Investigating moisture content",
+      "count": 3104,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N23/00": {
+      "code": "G01N23/00",
+      "level": 0,
+      "parent": "G01N",
+      "ja": "グループＧ０１Ｎ３／００～Ｇ０１Ｎ１７／００，Ｇ０１Ｎ２１／００またはＧ０１Ｎ２２／００に包含されない波動性または粒子性放射線，例．Ｘ線，中性子線，の使用による材料の調査または分析",
+      "en": "Investigating or analysing materials by the use of wave or particle radiation, e.g. X-rays or neutrons, not covered by groups <b>G01N3/00 to G01N17/00</b> , <b>G01N21/00</b> or <b>G01N22/00</b>",
+      "count": 10762,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N23/02": {
+      "code": "G01N23/02",
+      "level": 1,
+      "parent": "G01N23/00",
+      "ja": "放射線の材料透過によるもの",
+      "en": "by transmitting the radiation through the material",
+      "count": 3767,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N23/04": {
+      "code": "G01N23/04",
+      "level": 2,
+      "parent": "G01N23/02",
+      "ja": "さらに材料の画像を形成するもの［２０１８．０１］",
+      "en": "and forming images of the material",
+      "count": 24910,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N23/041": {
+      "code": "G01N23/041",
+      "level": 3,
+      "parent": "G01N23/04",
+      "ja": "位相コントラストイメージング，例．格子干渉計を用いるもの［２０１８．０１］",
+      "en": "Phase-contrast imaging, e.g. using grating interferometers",
+      "count": 396,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N23/044": {
+      "code": "G01N23/044",
+      "level": 3,
+      "parent": "G01N23/04",
+      "ja": "ラミノグラフィまたはトモシンセシスを用いるもの［２０１８．０１］",
+      "en": "using laminography or tomosynthesis",
+      "count": 265,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N23/046": {
+      "code": "G01N23/046",
+      "level": 3,
+      "parent": "G01N23/04",
+      "ja": "トモグラフィーを用いるもの，例．コンピュータ断層撮影［ＣＴ］［２０１８．０１］",
+      "en": "using tomography, e.g. computed tomography [CT]",
+      "count": 5256,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N23/05": {
+      "code": "G01N23/05",
+      "level": 3,
+      "parent": "G01N23/04",
+      "ja": "中性子線を用いるもの［３］",
+      "en": "using neutrons",
+      "count": 371,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N23/06": {
+      "code": "G01N23/06",
+      "level": 2,
+      "parent": "G01N23/02",
+      "ja": "さらに吸収を測定するもの［２０１８．０１］",
+      "en": "and measuring the absorption",
+      "count": 2739,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N23/083": {
+      "code": "G01N23/083",
+      "level": 3,
+      "parent": "G01N23/06",
+      "ja": "放射線がＸ線であるもの［２０１８．０１］",
+      "en": "the radiation being X-rays",
+      "count": 2984,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N23/085": {
+      "code": "G01N23/085",
+      "level": 4,
+      "parent": "G01N23/083",
+      "ja": "Ｘ線吸収微細構造［ＸＡＦＳ］，例．広域Ｘ線吸収微細構造［ＥＸＡＦＳ］［２０１８．０１］",
+      "en": "X-ray absorption fine structure [XAFS], e.g. extended XAFS [EXAFS]",
+      "count": 167,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N23/087": {
+      "code": "G01N23/087",
+      "level": 4,
+      "parent": "G01N23/083",
+      "ja": "多エネルギーＸ線を用いるもの［２０１８．０１］",
+      "en": "using polyenergetic X-rays",
+      "count": 634,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N23/09": {
+      "code": "G01N23/09",
+      "level": 3,
+      "parent": "G01N23/06",
+      "ja": "放射線が中性子線であるもの［２０１８．０１］",
+      "en": "the radiation being neutrons",
+      "count": 515,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N23/095": {
+      "code": "G01N23/095",
+      "level": 3,
+      "parent": "G01N23/06",
+      "ja": "ガンマ線共鳴吸収，例．メスバウアー効果を用いるもの［２０１８．０１］",
+      "en": "Gamma-ray resonance absorption, e.g. using the M&ouml;ssbauer effect",
+      "count": 63,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N23/10": {
+      "code": "G01N23/10",
+      "level": 3,
+      "parent": "G01N23/06",
+      "ja": "容器内に封入された材料，例．手荷物のＸ線検査［２０１８．０１］",
+      "en": "the material being confined in a container, e.g. in luggage X-ray scanners",
+      "count": 1207,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N23/12": {
+      "code": "G01N23/12",
+      "level": 3,
+      "parent": "G01N23/06",
+      "ja": "材料が流れている流体または流れている粒状固体［２０１８．０１］",
+      "en": "the material being a flowing fluid or a flowing granular solid",
+      "count": 869,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N23/16": {
+      "code": "G01N23/16",
+      "level": 3,
+      "parent": "G01N23/06",
+      "ja": "材料が移動するシートまたはフィルム［２０１８．０１］",
+      "en": "the material being a moving sheet or film",
+      "count": 613,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N23/18": {
+      "code": "G01N23/18",
+      "level": 3,
+      "parent": "G01N23/06",
+      "ja": "欠陥または異物の調査［２０１８．０１］",
+      "en": "Investigating the presence of defects or foreign matter",
+      "count": 4637,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N23/20": {
+      "code": "G01N23/20",
+      "level": 1,
+      "parent": "G01N23/00",
+      "ja": "材料による放射線の回折の利用によるもの，例．結晶構造の調査のためのもの；材料による放射線の散乱の利用によるもの，例．非結晶構造の調査のためのもの；材料による放射線の反射の利用によるもの［２０１８．０１］",
+      "en": "by using diffraction of the radiation by the materials, e.g. for investigating crystal structure; by using scattering of the radiation by the materials, e.g. for investigating non-crystalline materials; by using reflection of the radiation by the materials",
+      "count": 7564,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N23/20008": {
+      "code": "G01N23/20008",
+      "level": 2,
+      "parent": "G01N23/20",
+      "ja": "分析機器の構造の細部，例．Ｘ線源，検出器または光学系に特徴のあるもの；付属品；試料調製（結晶を用いたＸ線モノクロメーターＧ２１Ｋ１／０６）［２０１８．０１］",
+      "en": "Constructional details of analysers, e.g. characterised by X-ray source, detector or optical system; Accessories therefor; Preparing specimens therefor (monochromators for X-rays using crystals <b>G21K1/06</b>)",
+      "count": 2155,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N23/20016": {
+      "code": "G01N23/20016",
+      "level": 3,
+      "parent": "G01N23/20008",
+      "ja": "ゴニオメータ［２０１８．０１］",
+      "en": "Goniometers",
+      "count": 131,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N23/20025": {
+      "code": "G01N23/20025",
+      "level": 3,
+      "parent": "G01N23/20008",
+      "ja": "そのための試料ホルダまたは試料支持部材［２０１８．０１］",
+      "en": "Sample holders or supports therefor",
+      "count": 894,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N23/20033": {
+      "code": "G01N23/20033",
+      "level": 4,
+      "parent": "G01N23/20025",
+      "ja": "温度制御または加熱手段を備えるもの［２０１８．０１］",
+      "en": "provided with temperature control or heating means",
+      "count": 228,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N23/20041": {
+      "code": "G01N23/20041",
+      "level": 4,
+      "parent": "G01N23/20025",
+      "ja": "高圧試験のためのもの，例．アンビルセル［２０１８．０１］",
+      "en": "for high pressure testing, e.g. anvil cells",
+      "count": 31,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N23/2005": {
+      "code": "G01N23/2005",
+      "level": 3,
+      "parent": "G01N23/20008",
+      "ja": "そのための粉末試料の調製［２０１８．０１］",
+      "en": "Preparation of powder samples therefor",
+      "count": 411,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N23/20058": {
+      "code": "G01N23/20058",
+      "level": 2,
+      "parent": "G01N23/20",
+      "ja": "電子回折の測定，例．低エネルギー電子線回折［ＬＥＥＤ］法または反射高速電子線回折［ＲＨＥＥＤ］法［２０１８．０１］",
+      "en": "Measuring diffraction of electrons, e.g. low energy electron diffraction [LEED] method or reflection high energy electron diffraction [RHEED] method",
+      "count": 405,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N23/20066": {
+      "code": "G01N23/20066",
+      "level": 2,
+      "parent": "G01N23/20",
+      "ja": "ガンマ線の非弾性散乱の測定，例．コンプトン効果［２０１８．０１］",
+      "en": "Measuring inelastic scattering of gamma rays, e.g. Compton effect",
+      "count": 89,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N23/20091": {
+      "code": "G01N23/20091",
+      "level": 2,
+      "parent": "G01N23/20",
+      "ja": "回折放射線のエネルギー分散スペクトル［ＥＤＳ］の測定［２０１８．０１］",
+      "en": "Measuring the energy-dispersion spectrum [EDS] of diffracted radiation",
+      "count": 356,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N23/201": {
+      "code": "G01N23/201",
+      "level": 2,
+      "parent": "G01N23/20",
+      "ja": "小角散乱の測定，例．小角Ｘ線散乱［ＳＡＸＳ］［２０１８．０１］",
+      "en": "Measuring small-angle scattering, e.g. small angle X-ray scattering [SAXS]",
+      "count": 1112,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N23/202": {
+      "code": "G01N23/202",
+      "level": 3,
+      "parent": "G01N23/201",
+      "ja": "中性子線を用いるもの［３］",
+      "en": "using neutrons",
+      "count": 228,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N23/203": {
+      "code": "G01N23/203",
+      "level": 2,
+      "parent": "G01N23/20",
+      "ja": "後方散乱の測定［２］",
+      "en": "Measuring back scattering",
+      "count": 2486,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N23/204": {
+      "code": "G01N23/204",
+      "level": 3,
+      "parent": "G01N23/203",
+      "ja": "中性子線を用いるもの［３］",
+      "en": "using neutrons",
+      "count": 191,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N23/205": {
+      "code": "G01N23/205",
+      "level": 2,
+      "parent": "G01N23/20",
+      "ja": "回折カメラを用いるもの［２０１８．０１］",
+      "en": "using diffraction cameras",
+      "count": 744,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N23/2055": {
+      "code": "G01N23/2055",
+      "level": 2,
+      "parent": "G01N23/20",
+      "ja": "回折パターンの分析［２０１８．０１］",
+      "en": "Analysing diffraction patterns",
+      "count": 775,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N23/207": {
+      "code": "G01N23/207",
+      "level": 2,
+      "parent": "G01N23/20",
+      "ja": "回折法，例．プローブを中心として１以上の移動可能な検出器を円周上に配置するもの［２０１８．０１］",
+      "en": "Diffractometry, e.g. using a probe in a central position and one or more displaceable detectors in circumferential positions",
+      "count": 4707,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N23/22": {
+      "code": "G01N23/22",
+      "level": 1,
+      "parent": "G01N23/00",
+      "ja": "材料からの二次放射の測定によるもの［２０１８．０１］",
+      "en": "by measuring secondary emission from the material",
+      "count": 3523,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N23/2202": {
+      "code": "G01N23/2202",
+      "level": 2,
+      "parent": "G01N23/22",
+      "ja": "そのための試料調製［２０１８．０１］",
+      "en": "Preparing specimens therefor",
+      "count": 2751,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N23/2204": {
+      "code": "G01N23/2204",
+      "level": 2,
+      "parent": "G01N23/22",
+      "ja": "そのための試料支持部材，そのための試料搬送手段［２０１８．０１］",
+      "en": "Specimen supports therefor; Sample conveying means therefor",
+      "count": 1249,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N23/2206": {
+      "code": "G01N23/2206",
+      "level": 2,
+      "parent": "G01N23/22",
+      "ja": "二つ以上の測定の組み合わせるものであって，少なくとも一つの二次放射測定を伴うもの，例．二次電子［ＳＥ］測定と後方散乱電子［ＢＳＥ］測定の組み合わせ［２０１８．０１］",
+      "en": "Combination of two or more measurements, at least one measurement being that of secondary emission, e.g. combination of secondary electron [SE] measurement and back-scattered electron [BSE] measurement",
+      "count": 702,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N23/2208": {
+      "code": "G01N23/2208",
+      "level": 3,
+      "parent": "G01N23/2206",
+      "ja": "すべての測定が二次放射測定のもの，例．ＳＥ測定と特性Ｘ線測定の組み合わせ［２０１８．０１］",
+      "en": "all measurements being of secondary emission, e.g. combination of SE measurement and characteristic X-ray measurement",
+      "count": 118,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N23/2209": {
+      "code": "G01N23/2209",
+      "level": 2,
+      "parent": "G01N23/22",
+      "ja": "波長分散型分光法［ＷＤＳ］を用いるもの［２０１８．０１］",
+      "en": "using wavelength dispersive spectroscopy [WDS]",
+      "count": 166,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N23/221": {
+      "code": "G01N23/221",
+      "level": 2,
+      "parent": "G01N23/22",
+      "ja": "放射化分析によるもの［２］",
+      "en": "by activation analysis",
+      "count": 261,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N23/222": {
+      "code": "G01N23/222",
+      "level": 3,
+      "parent": "G01N23/221",
+      "ja": "中性子放射化分析［ＮＡＡ］を用いるもの［３］",
+      "en": "using neutron activation analysis [NAA] ",
+      "count": 721,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N23/223": {
+      "code": "G01N23/223",
+      "level": 2,
+      "parent": "G01N23/22",
+      "ja": "Ｘ線またはガンマ線を試料に照射して蛍光Ｘ線を測定するもの［２］",
+      "en": "by irradiating the sample with X-rays or gamma-rays and by measuring X-ray fluorescence",
+      "count": 9434,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N23/225": {
+      "code": "G01N23/225",
+      "level": 2,
+      "parent": "G01N23/22",
+      "ja": "電子またはイオンマイクロプローブを用いるもの［２０１８．０１］",
+      "en": "using electron or ion microprobes",
+      "count": 6478,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N23/2251": {
+      "code": "G01N23/2251",
+      "level": 3,
+      "parent": "G01N23/225",
+      "ja": "電子ビームを入射するもの，例．走査型電子顕微鏡［ＳＥＭ］［２０１８．０１］",
+      "en": "using incident electron beams, e.g. scanning electron microscopy [SEM]",
+      "count": 4724,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N23/2252": {
+      "code": "G01N23/2252",
+      "level": 4,
+      "parent": "G01N23/2251",
+      "ja": "放射されたＸ線の測定，例．電子線マイクロアナライザ［ＥＰＭＡ］［２０１８．０１］",
+      "en": "Measuring emitted X-rays, e.g. electron probe microanalysis [EPMA]",
+      "count": 588,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N23/2254": {
+      "code": "G01N23/2254",
+      "level": 4,
+      "parent": "G01N23/2251",
+      "ja": "カソードルミネセンスの測定［２０１８．０１］",
+      "en": "Measuring cathodoluminescence",
+      "count": 125,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N23/2255": {
+      "code": "G01N23/2255",
+      "level": 3,
+      "parent": "G01N23/225",
+      "ja": "イオンビーム，例．陽子ビーム，を入射するもの［２０１８．０１］",
+      "en": "using incident ion beams, e.g. proton beams",
+      "count": 199,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N23/2257": {
+      "code": "G01N23/2257",
+      "level": 4,
+      "parent": "G01N23/2255",
+      "ja": "励起されたＸ線の測定，すなわち粒子線励起Ｘ線分析［ＰＩＸＥ］［２０１８．０１］",
+      "en": "Measuring excited X-rays, i.e. particle-induced X-ray emission [PIXE]",
+      "count": 37,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N23/2258": {
+      "code": "G01N23/2258",
+      "level": 4,
+      "parent": "G01N23/2255",
+      "ja": "二次イオン放射の測定，例．二次イオン質量分析［ＳＩＭＳ］（材料分析のためのＳＩＭＳの質量電荷比を分析する観点Ｇ０１Ｎ２７／６２）［２０１８．０１］",
+      "en": "Measuring secondary ion emission, e.g. secondary ion mass spectrometry [SIMS]  (mass-to-charge ratio analysis aspects of SIMS for material analysis <b>G01N27/62</b>)",
+      "count": 190,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N23/227": {
+      "code": "G01N23/227",
+      "level": 2,
+      "parent": "G01N23/22",
+      "ja": "光電効果の測定，例．光電子顕微鏡［ＰＥＥＭ］［２０１８．０１］",
+      "en": "Measuring photoelectric effect , e.g. photoelectron emission microscopy [PEEM]",
+      "count": 1687,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N23/2273": {
+      "code": "G01N23/2273",
+      "level": 3,
+      "parent": "G01N23/227",
+      "ja": "光電子スペクトルの測定，例．Ｘ線光電子分光法［ＥＳＣＡ］または［ＸＰＳ］［２０１８．０１］",
+      "en": "Measuring photoelectron spectra, e.g. electron spectroscopy for chemical analysis [ESCA] or X-ray photoelectron spectroscopy [XPS]",
+      "count": 826,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N23/2276": {
+      "code": "G01N23/2276",
+      "level": 3,
+      "parent": "G01N23/227",
+      "ja": "オージェ効果を用いるもの，例．オージェ電子分光法［ＡＥＳ］［２０１８．０１］",
+      "en": "using the Auger effect, e.g. Auger electron spectroscopy [AES]",
+      "count": 104,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N24/00": {
+      "code": "G01N24/00",
+      "level": 0,
+      "parent": "G01N",
+      "ja": "核磁気共鳴，電子常磁性共鳴または他のスピン効果の使用による材料の調査または分析［３，４，５］",
+      "en": "Investigating or analysing materials by the use of nuclear magnetic resonance, electron paramagnetic resonance or other spin effects",
+      "count": 2716,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N24/08": {
+      "code": "G01N24/08",
+      "level": 1,
+      "parent": "G01N24/00",
+      "ja": "核磁気共鳴を用いることによるもの（Ｇ０１Ｎ２４／１２が優先）［３］",
+      "en": "by using nuclear magnetic resonance(<b>G01N24/12</b> takes precedence)",
+      "count": 8160,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N24/10": {
+      "code": "G01N24/10",
+      "level": 1,
+      "parent": "G01N24/00",
+      "ja": "電子常磁性共鳴を用いることによるもの［３］",
+      "en": "by using electron paramagnetic resonance(<b>G01N24/12</b> takes precedence)",
+      "count": 1464,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N24/12": {
+      "code": "G01N24/12",
+      "level": 1,
+      "parent": "G01N24/00",
+      "ja": "二重共鳴を用いることによるもの［３］",
+      "en": "by using double resonance",
+      "count": 406,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N24/14": {
+      "code": "G01N24/14",
+      "level": 1,
+      "parent": "G01N24/00",
+      "ja": "サイクロトロン共鳴を用いることによるもの［３］",
+      "en": "by using cyclotron resonance",
+      "count": 84,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N25/00": {
+      "code": "G01N25/00",
+      "level": 0,
+      "parent": "G01N",
+      "ja": "熱的手段の利用による材料の調査または分析（Ｇ０１Ｎ３／００～Ｇ０１Ｎ２３／００が優先）",
+      "en": "Investigating or analysing materials by the use of thermal means(<b>G01N3/00 to G01N23/00</b>  take precedence)",
+      "count": 14651,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N25/02": {
+      "code": "G01N25/02",
+      "level": 1,
+      "parent": "G01N25/00",
+      "ja": "状態変化または相変化の調査によるもの；半融の調査によるもの",
+      "en": "by investigating changes of state or changes of phase; by investigating sintering",
+      "count": 2925,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N25/04": {
+      "code": "G01N25/04",
+      "level": 2,
+      "parent": "G01N25/02",
+      "ja": "融点の；凝固点の；軟化点の",
+      "en": "of melting point; of freezing point; of softening point",
+      "count": 3046,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N25/06": {
+      "code": "G01N25/06",
+      "level": 3,
+      "parent": "G01N25/04",
+      "ja": "凝固点変化の測定による分析",
+      "en": "Analysis by measuring change of freezing point",
+      "count": 623,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N25/08": {
+      "code": "G01N25/08",
+      "level": 2,
+      "parent": "G01N25/02",
+      "ja": "沸点の",
+      "en": "of boiling point",
+      "count": 498,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N25/10": {
+      "code": "G01N25/10",
+      "level": 3,
+      "parent": "G01N25/08",
+      "ja": "沸点変化の測定による分析",
+      "en": "Analysis by measuring change of boiling point",
+      "count": 140,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N25/12": {
+      "code": "G01N25/12",
+      "level": 2,
+      "parent": "G01N25/02",
+      "ja": "臨界点の；他の相変化の",
+      "en": "of critical point; of other phase change",
+      "count": 1385,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N25/14": {
+      "code": "G01N25/14",
+      "level": 1,
+      "parent": "G01N25/00",
+      "ja": "蒸留，抽出，昇華，凝縮，凝固，または晶出の利用によるもの（Ｇ０１Ｎ２５／０２が優先）",
+      "en": "by using distillation, extraction, sublimation, condensation, freezing, or crystallisation(<b>G01N25/02</b> takes precedence)",
+      "count": 2620,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N25/16": {
+      "code": "G01N25/16",
+      "level": 1,
+      "parent": "G01N25/00",
+      "ja": "熱膨脹係数の調査によるもの",
+      "en": "by investigating thermal coefficient of expansion",
+      "count": 3105,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N25/18": {
+      "code": "G01N25/18",
+      "level": 1,
+      "parent": "G01N25/00",
+      "ja": "熱伝導度の調査によるもの（熱量計によるものＧ０１Ｎ２５／２０；電気的に加熱された物体の抵抗変化の測定によるものＧ０１Ｎ２７／１８）",
+      "en": "by investigating thermal conductivity(by calorimetry <b>G01N25/20</b>; by measuring change of resistance of an electrically-heated body <b>G01N27/18</b>)",
+      "count": 7608,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N25/20": {
+      "code": "G01N25/20",
+      "level": 1,
+      "parent": "G01N25/00",
+      "ja": "発生熱の調査によるもの，すなわち熱量測定によるもの，例．比熱の測定によるもの，熱伝導度の測定によるもの",
+      "en": "by investigating the development of heat, i.e. calorimetry, e.g. by measuring specific heat, by measuring thermal conductivity",
+      "count": 15248,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N25/22": {
+      "code": "G01N25/22",
+      "level": 2,
+      "parent": "G01N25/20",
+      "ja": "燃焼または接触酸化にもとづくもの，例．ガス混合物の各成分",
+      "en": "on combustion or catalytic oxidation, e.g. of components of gas mixtures",
+      "count": 2276,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N25/24": {
+      "code": "G01N25/24",
+      "level": 3,
+      "parent": "G01N25/22",
+      "ja": "燃焼管の利用，すなわち微量分析用",
+      "en": "using combustion tubes, e.g. for microanalysis",
+      "count": 118,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N25/26": {
+      "code": "G01N25/26",
+      "level": 3,
+      "parent": "G01N25/22",
+      "ja": "酸素圧下での燃焼の利用，すなわちボンブ熱量計",
+      "en": "using combustion with oxygen under pressure, e.g. in bomb calorimeter",
+      "count": 332,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N25/28": {
+      "code": "G01N25/28",
+      "level": 3,
+      "parent": "G01N25/22",
+      "ja": "燃焼により生成したガスの温度上昇の直接測定",
+      "en": "the rise in temperature of the gases resulting from combustion being measured directly",
+      "count": 411,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N25/30": {
+      "code": "G01N25/30",
+      "level": 4,
+      "parent": "G01N25/28",
+      "ja": "電気的感温素子の利用",
+      "en": "using electric temperature-responsive elements",
+      "count": 287,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N25/32": {
+      "code": "G01N25/32",
+      "level": 5,
+      "parent": "G01N25/30",
+      "ja": "熱電素子の利用",
+      "en": "using thermoelectric elements",
+      "count": 707,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N25/34": {
+      "code": "G01N25/34",
+      "level": 4,
+      "parent": "G01N25/28",
+      "ja": "機械的感温素子，例．バイメタル，の利用",
+      "en": "using mechanical temperature-responsive elements, e.g. bimetallic",
+      "count": 35,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N25/36": {
+      "code": "G01N25/36",
+      "level": 5,
+      "parent": "G01N25/34",
+      "ja": "ガス混合物の組成の調査用",
+      "en": "for investigating the composition of gas mixtures",
+      "count": 175,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N25/38": {
+      "code": "G01N25/38",
+      "level": 4,
+      "parent": "G01N25/28",
+      "ja": "固体の溶融または燃焼の利用",
+      "en": "using the melting or combustion of a solid",
+      "count": 139,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N25/40": {
+      "code": "G01N25/40",
+      "level": 3,
+      "parent": "G01N25/22",
+      "ja": "発生熱を流れている流体へ移すもの",
+      "en": "the heat developed being transferred to a flowing fluid",
+      "count": 89,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N25/42": {
+      "code": "G01N25/42",
+      "level": 4,
+      "parent": "G01N25/40",
+      "ja": "連続的に",
+      "en": "continuously",
+      "count": 148,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N25/44": {
+      "code": "G01N25/44",
+      "level": 3,
+      "parent": "G01N25/22",
+      "ja": "発生熱を一定量の流体に移すもの",
+      "en": "the heat developed being transferred to a fixed quantity of fluid",
+      "count": 147,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N25/46": {
+      "code": "G01N25/46",
+      "level": 4,
+      "parent": "G01N25/44",
+      "ja": "ガス混合物組成の調査用",
+      "en": "for investigating the composition of gas mixtures",
+      "count": 152,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N25/48": {
+      "code": "G01N25/48",
+      "level": 2,
+      "parent": "G01N25/20",
+      "ja": "溶解，吸収，または燃焼もしくは接触酸化が関与しないない化学反応にもとづくもの",
+      "en": "on solution, sorption, or a chemical reaction not involving combustion or catalytic oxidation",
+      "count": 2074,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N25/50": {
+      "code": "G01N25/50",
+      "level": 1,
+      "parent": "G01N25/00",
+      "ja": "引火点の調査によるもの；爆発性の調査によるもの",
+      "en": "by investigating flash-point; by investigating explosibility",
+      "count": 816,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N25/52": {
+      "code": "G01N25/52",
+      "level": 2,
+      "parent": "G01N25/50",
+      "ja": "液体の引火点の測定によるもの",
+      "en": "by determining flash-point of liquids",
+      "count": 550,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N25/54": {
+      "code": "G01N25/54",
+      "level": 2,
+      "parent": "G01N25/50",
+      "ja": "爆発性の測定によるもの",
+      "en": "by determining explosibility",
+      "count": 1497,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N25/56": {
+      "code": "G01N25/56",
+      "level": 1,
+      "parent": "G01N25/00",
+      "ja": "含水量の調査によるもの",
+      "en": "by investigating moisture content",
+      "count": 1908,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N25/58": {
+      "code": "G01N25/58",
+      "level": 2,
+      "parent": "G01N25/56",
+      "ja": "加熱，冷却または膨脹による材料の物性変化の測定によるもの",
+      "en": "by measuring changes of properties of the material due to heat, cold, or expansion",
+      "count": 307,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N25/60": {
+      "code": "G01N25/60",
+      "level": 3,
+      "parent": "G01N25/58",
+      "ja": "蒸気の湿度の測定用",
+      "en": "for determining the wetness of steam",
+      "count": 347,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N25/62": {
+      "code": "G01N25/62",
+      "level": 2,
+      "parent": "G01N25/56",
+      "ja": "湿度測定手段，例．乾湿球温度計，によるもの",
+      "en": "by psychrometric means, e.g. wet-and-dry-bulb thermometers",
+      "count": 913,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N25/64": {
+      "code": "G01N25/64",
+      "level": 3,
+      "parent": "G01N25/62",
+      "ja": "電気的感温素子の利用",
+      "en": "using electric temperature-responsive elements",
+      "count": 660,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N25/66": {
+      "code": "G01N25/66",
+      "level": 2,
+      "parent": "G01N25/56",
+      "ja": "露点の調査によるもの",
+      "en": "by investigating dew-point",
+      "count": 1418,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N25/68": {
+      "code": "G01N25/68",
+      "level": 3,
+      "parent": "G01N25/66",
+      "ja": "凝縮表面の温度変化によるもの",
+      "en": "by varying the temperature of a condensing surface",
+      "count": 869,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N25/70": {
+      "code": "G01N25/70",
+      "level": 3,
+      "parent": "G01N25/66",
+      "ja": "材料の温度変化によるもの，例．圧縮によるもの，膨脹によるもの",
+      "en": "by varying the temperature of the material, e.g. by compression, by expansion",
+      "count": 100,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N25/72": {
+      "code": "G01N25/72",
+      "level": 1,
+      "parent": "G01N25/00",
+      "ja": "きずの調査",
+      "en": "Investigating presence of flaws",
+      "count": 6645,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N27/00": {
+      "code": "G01N27/00",
+      "level": 0,
+      "parent": "G01N",
+      "ja": "電気的，電気化学的，または磁気的手段の利用による材料の調査または分析（Ｇ０１Ｎ３／００～Ｇ０１Ｎ２５／００が優先；材料の電気的または磁気的特性またはそれらの変量の測定または試験Ｇ０１Ｒ）",
+      "en": "Investigating or analysing materials by the use of electric, electrochemical, or magnetic means (<b>G01N3/00 to G01N25/00</b>  take precedence;  measurement or testing of electric or magnetic variables or of electric or magnetic properties of materials <b>G01R</b>)",
+      "count": 26166,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N27/02": {
+      "code": "G01N27/02",
+      "level": 1,
+      "parent": "G01N27/00",
+      "ja": "インピーダンスの調査によるもの",
+      "en": "by investigating impedance",
+      "count": 9804,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N27/04": {
+      "code": "G01N27/04",
+      "level": 2,
+      "parent": "G01N27/02",
+      "ja": "抵抗の調査によるもの",
+      "en": "by investigating resistance",
+      "count": 18402,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N27/06": {
+      "code": "G01N27/06",
+      "level": 3,
+      "parent": "G01N27/04",
+      "ja": "液体の（電解Ｇ０１Ｎ２７／２６）",
+      "en": "of a liquid(involving electrolysis <b>G01N27/26</b>)",
+      "count": 8734,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N27/07": {
+      "code": "G01N27/07",
+      "level": 4,
+      "parent": "G01N27/06",
+      "ja": "測定用ベッセルの構造；そのための電極［２］",
+      "en": "Construction of measuring vessels; Electrodes therefor",
+      "count": 3399,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N27/08": {
+      "code": "G01N27/08",
+      "level": 4,
+      "parent": "G01N27/06",
+      "ja": "連続的に流れている場合",
+      "en": "which is flowing continuously",
+      "count": 833,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N27/10": {
+      "code": "G01N27/10",
+      "level": 5,
+      "parent": "G01N27/08",
+      "ja": "特に操作制御もしくは監視または報知に用いるもの",
+      "en": "Investigation or analysis specially adapted for controlling or monitoring operations or for signalling",
+      "count": 731,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N27/12": {
+      "code": "G01N27/12",
+      "level": 3,
+      "parent": "G01N27/04",
+      "ja": "流体の吸収による固体の；流体との反応による固体の",
+      "en": "of a solid body in dependence upon absorption of a fluid; of a solid body in dependence upon reaction with a fluid",
+      "count": 22688,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N27/14": {
+      "code": "G01N27/14",
+      "level": 3,
+      "parent": "G01N27/04",
+      "ja": "温度変化による電気的に加熱された物体の",
+      "en": "of an electrically-heated body in dependence upon change of temperature",
+      "count": 826,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N27/16": {
+      "code": "G01N27/16",
+      "level": 4,
+      "parent": "G01N27/14",
+      "ja": "雰囲気形成試料の燃焼または接触酸化により生じさせた場合の，例．ガスの",
+      "en": "caused by burning or catalytic oxidation of surrounding material to be tested, e.g. of gas",
+      "count": 3161,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N27/18": {
+      "code": "G01N27/18",
+      "level": 4,
+      "parent": "G01N27/14",
+      "ja": "雰囲気形成試料の熱伝導度の変化により生じさせた場合の（Ｇ０１Ｎ２７／２０が優先）",
+      "en": "caused by changes in the thermal conductivity of a surrounding material to be tested(<b>G01N27/20</b> takes precedence)",
+      "count": 2190,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N27/20": {
+      "code": "G01N27/20",
+      "level": 3,
+      "parent": "G01N27/04",
+      "ja": "きずの調査",
+      "en": "Investigating the presence of flaws",
+      "count": 3768,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N27/22": {
+      "code": "G01N27/22",
+      "level": 2,
+      "parent": "G01N27/02",
+      "ja": "容量の調査によるもの",
+      "en": "by investigating capacitance",
+      "count": 14790,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N27/24": {
+      "code": "G01N27/24",
+      "level": 3,
+      "parent": "G01N27/22",
+      "ja": "きずの調査",
+      "en": "Investigating the presence of flaws",
+      "count": 910,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N27/26": {
+      "code": "G01N27/26",
+      "level": 1,
+      "parent": "G01N27/00",
+      "ja": "電気化学的変量の調査によるもの；電解または電気泳動の利用によるもの［５］",
+      "en": "by investigating electrochemical variables; by using electrolysis or electrophoresis",
+      "count": 25206,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N27/27": {
+      "code": "G01N27/27",
+      "level": 2,
+      "parent": "G01N27/26",
+      "ja": "各々が異なる変数を測定する２以上の測定システムまたはセルの結合であって，そのシステムまたはセルが物理的に結合されて測定結果が個々に使用されるか，あるいはその結果が後続の変数を生じるように結合されるもの［５］",
+      "en": "Association of two or more measuring systems or cells, each measuring a different parameter, where the measurement results may be either used independently, the systems or cells being physically associated, or combined to produce a value for a further parameter",
+      "count": 1939,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N27/28": {
+      "code": "G01N27/28",
+      "level": 2,
+      "parent": "G01N27/26",
+      "ja": "電解セル要素",
+      "en": "Electrolytic cell components",
+      "count": 6741,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N27/30": {
+      "code": "G01N27/30",
+      "level": 3,
+      "parent": "G01N27/28",
+      "ja": "電極，例．試験電極；半電池（Ｇ０１Ｎ２７／４１４が優先）［５］",
+      "en": "Electrodes, e.g. test electrodes; Half-cells(<b>G01N27/414</b> takes precedence)",
+      "count": 20735,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N27/31": {
+      "code": "G01N27/31",
+      "level": 4,
+      "parent": "G01N27/30",
+      "ja": "透過膜，例．半多孔性または透過選択性膜，を有する半電池［５］",
+      "en": "Half-cells with permeable membranes, e.g. semi-porous or perm-selective membranes",
+      "count": 243,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N27/32": {
+      "code": "G01N27/32",
+      "level": 4,
+      "parent": "G01N27/30",
+      "ja": "かんこう電極",
+      "en": "Calomel electrodes",
+      "count": 234,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N27/327": {
+      "code": "G01N27/327",
+      "level": 4,
+      "parent": "G01N27/30",
+      "ja": "生化学的電極［５］",
+      "en": "Biochemical electrodes",
+      "count": 15818,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N27/333": {
+      "code": "G01N27/333",
+      "level": 4,
+      "parent": "G01N27/30",
+      "ja": "イオン選択性電極または膜（ガラス電極Ｇ０１Ｎ２７／３６）［５］",
+      "en": "Ion-selective electrodes or membranes(glass electrodes <b>G01N27/36</b>)",
+      "count": 4364,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N27/34": {
+      "code": "G01N27/34",
+      "level": 4,
+      "parent": "G01N27/30",
+      "ja": "水銀滴下電極",
+      "en": "Dropping-mercury electrodes",
+      "count": 182,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N27/36": {
+      "code": "G01N27/36",
+      "level": 4,
+      "parent": "G01N27/30",
+      "ja": "ガラス電極",
+      "en": "Glass electrodes",
+      "count": 1267,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N27/38": {
+      "code": "G01N27/38",
+      "level": 4,
+      "parent": "G01N27/30",
+      "ja": "電極の洗浄",
+      "en": "Cleaning of electrodes",
+      "count": 1901,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N27/40": {
+      "code": "G01N27/40",
+      "level": 3,
+      "parent": "G01N27/28",
+      "ja": "半透膜または隔膜",
+      "en": "Semi-permeable membranes or partitions",
+      "count": 1005,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N27/401": {
+      "code": "G01N27/401",
+      "level": 3,
+      "parent": "G01N27/28",
+      "ja": "塩橋；液絡［５］",
+      "en": "Salt-bridge leaks; Liquid junctions",
+      "count": 403,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N27/403": {
+      "code": "G01N27/403",
+      "level": 2,
+      "parent": "G01N27/26",
+      "ja": "セルと電極の組合せ［５］",
+      "en": "Cells and electrode assemblies",
+      "count": 3813,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N27/404": {
+      "code": "G01N27/404",
+      "level": 3,
+      "parent": "G01N27/403",
+      "ja": "アノード，カソードおよびセル電解質を試料流体から隔てている透過性膜の同一側に有するセル［５］",
+      "en": "Cells with anode, cathode and cell electrolyte on the same side of a permeable membrane which separates them from the sample fluid",
+      "count": 1831,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N27/406": {
+      "code": "G01N27/406",
+      "level": 3,
+      "parent": "G01N27/403",
+      "ja": "固体電解質を有するセルおよびプローブ［５］",
+      "en": "Cells and probes with solid electrolytes",
+      "count": 3479,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N27/407": {
+      "code": "G01N27/407",
+      "level": 4,
+      "parent": "G01N27/406",
+      "ja": "気体の調査または分析のためのもの［５］",
+      "en": "for investigating or analysing gases",
+      "count": 6929,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N27/409": {
+      "code": "G01N27/409",
+      "level": 5,
+      "parent": "G01N27/407",
+      "ja": "酸素濃淡電池［５］",
+      "en": "Oxygen concentration cells",
+      "count": 8397,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N27/41": {
+      "code": "G01N27/41",
+      "level": 5,
+      "parent": "G01N27/407",
+      "ja": "酸素ポンピングセル［５］",
+      "en": "Oxygen pumping cells",
+      "count": 3016,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N27/411": {
+      "code": "G01N27/411",
+      "level": 4,
+      "parent": "G01N27/406",
+      "ja": "液体金属の調査または分析のためのもの［５］",
+      "en": "for investigating or analysing of liquid metals",
+      "count": 802,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N27/413": {
+      "code": "G01N27/413",
+      "level": 3,
+      "parent": "G01N27/403",
+      "ja": "液体電解質を用いる濃淡電池［５］",
+      "en": "Concentration cells using liquid electrolytes",
+      "count": 738,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N27/414": {
+      "code": "G01N27/414",
+      "level": 3,
+      "parent": "G01N27/403",
+      "ja": "イオン感応性または化学的電界効果トランジスタ，例．ＩＳＦＥＴＳまたはＣＨＥＭＦＥＴＳ［５］",
+      "en": "Ion-sensitive or chemical field-effect transistors, i.e. ISFETS or CHEMFETS",
+      "count": 5326,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N27/416": {
+      "code": "G01N27/416",
+      "level": 2,
+      "parent": "G01N27/26",
+      "ja": "システム（Ｇ０１Ｎ２７／２７が優先）［５］",
+      "en": "Systems(<b>G01N27/27</b> takes precedence)",
+      "count": 24210,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N27/417": {
+      "code": "G01N27/417",
+      "level": 3,
+      "parent": "G01N27/416",
+      "ja": "固体電解質を有するセルおよびプローブを用いるもの［５］",
+      "en": "using cells and probes with solid electrolytes",
+      "count": 1747,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N27/419": {
+      "code": "G01N27/419",
+      "level": 4,
+      "parent": "G01N27/417",
+      "ja": "酸素ポンピングセルと酸素濃淡電池の組合せにより電圧または電流を測定するもの［５］",
+      "en": "Measuring voltages or currents with a combination of oxygen pumping cells and oxygen concentration cells",
+      "count": 2551,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N27/42": {
+      "code": "G01N27/42",
+      "level": 3,
+      "parent": "G01N27/416",
+      "ja": "電解質からの物質の沈積または遊離の測定；電量測定，すなわち電解質中の物質の電気化学当量の測定［５］",
+      "en": "Measuring deposition or liberation of materials from an electrolyte; Coulometry, i.e. measuring coulomb-equivalent of material in an electrolyte",
+      "count": 2255,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N27/44": {
+      "code": "G01N27/44",
+      "level": 4,
+      "parent": "G01N27/42",
+      "ja": "試薬を発生させるために電解を用いるもの，例．滴定用［５］",
+      "en": "using electrolysis to generate a reagent, e.g. for titration",
+      "count": 847,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N27/447": {
+      "code": "G01N27/447",
+      "level": 3,
+      "parent": "G01N27/416",
+      "ja": "電気泳動を用いるもの［５］",
+      "en": "using electrophoresis",
+      "count": 14550,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N27/453": {
+      "code": "G01N27/453",
+      "level": 4,
+      "parent": "G01N27/447",
+      "ja": "そのためのセル［５］",
+      "en": "Cells therefor",
+      "count": 1082,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N27/48": {
+      "code": "G01N27/48",
+      "level": 3,
+      "parent": "G01N27/416",
+      "ja": "ポーラログラフィーを用いるもの，すなわち遅緩電圧変化のもとで電流変化の測定",
+      "en": "using polarography, i.e. measuring changes in current under a slowly-varying voltage",
+      "count": 7699,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N27/49": {
+      "code": "G01N27/49",
+      "level": 3,
+      "parent": "G01N27/416",
+      "ja": "１つ以上の特定のイオン種の選択的測定を行うための単一の特定値，または微小な範囲の供給電圧での電流の測定を含むシステム［５］",
+      "en": "Systems involving the determination of the current at a single specific value, or small range of values, of applied voltage for producing selective measurement of one or more particular ionic species",
+      "count": 2744,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N27/60": {
+      "code": "G01N27/60",
+      "level": 1,
+      "parent": "G01N27/00",
+      "ja": "静電気変量の調査によるもの",
+      "en": "by investigating electrostatic variables",
+      "count": 2317,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N27/61": {
+      "code": "G01N27/61",
+      "level": 2,
+      "parent": "G01N27/60",
+      "ja": "きずの存在の調査［３］",
+      "en": "Investigating the presence of flaws",
+      "count": 291,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N27/62": {
+      "code": "G01N27/62",
+      "level": 1,
+      "parent": "G01N27/00",
+      "ja": "ガスのイオン化の調査によるもの，例．エアロゾル；放電の調査によるもの，例．陰極の放射［２０２１．０１］",
+      "en": "by investigating the ionisation of gases, e.g. aerosols; by investigating electric discharges, e.g. emission of cathode",
+      "count": 22656,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N27/622": {
+      "code": "G01N27/622",
+      "level": 2,
+      "parent": "G01N27/62",
+      "ja": "イオン移動度分光法［２０２１．０１］",
+      "en": "Ion mobility spectrometry",
+      "count": 1080,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N27/623": {
+      "code": "G01N27/623",
+      "level": 3,
+      "parent": "G01N27/622",
+      "ja": "質量分析と組み合わせたもの［２０２１．０１］",
+      "en": "combined with mass spectrometry",
+      "count": 557,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N27/624": {
+      "code": "G01N27/624",
+      "level": 3,
+      "parent": "G01N27/622",
+      "ja": "微分移動度分光法［ＤＭＳ］；高電界非対称波形イオン移動度分光法［ＦＡＩＭＳ］［２０２１．０１］",
+      "en": "Differential mobility spectrometry [DMS]; Field asymmetric-waveform ion mobility spectrometry [FAIMS]",
+      "count": 193,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N27/626": {
+      "code": "G01N27/626",
+      "level": 2,
+      "parent": "G01N27/62",
+      "ja": "ガスのイオン化のために熱を用いるもの［２０２１．０１］",
+      "en": "using heat to ionise a gas",
+      "count": 2565,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N27/64": {
+      "code": "G01N27/64",
+      "level": 2,
+      "parent": "G01N27/62",
+      "ja": "ガスをイオン化するための波動または粒子線の利用，例．電離箱におけるもの",
+      "en": "using wave or particle radiation to ionise a gas, e.g. in an ionisation chamber",
+      "count": 4909,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N27/66": {
+      "code": "G01N27/66",
+      "level": 3,
+      "parent": "G01N27/64",
+      "ja": "そして電流または電圧の測定",
+      "en": "and measuring current or voltage",
+      "count": 925,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N27/68": {
+      "code": "G01N27/68",
+      "level": 2,
+      "parent": "G01N27/62",
+      "ja": "ガスのイオン化のために放電を用いるもの",
+      "en": "using electric discharge to ionise a gas",
+      "count": 1171,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N27/70": {
+      "code": "G01N27/70",
+      "level": 3,
+      "parent": "G01N27/68",
+      "ja": "そして電流または電圧の測定",
+      "en": "and measuring current or voltage",
+      "count": 506,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N27/72": {
+      "code": "G01N27/72",
+      "level": 1,
+      "parent": "G01N27/00",
+      "ja": "磁気変量の調査によるもの",
+      "en": "by investigating magnetic variables",
+      "count": 7771,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N27/74": {
+      "code": "G01N27/74",
+      "level": 2,
+      "parent": "G01N27/72",
+      "ja": "流体の（Ｇ０１Ｎ２４／００が優先）",
+      "en": "of fluids(<b>G01N24/00</b> takes precedence)",
+      "count": 1723,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N27/76": {
+      "code": "G01N27/76",
+      "level": 3,
+      "parent": "G01N27/74",
+      "ja": "磁化率の調査によるもの",
+      "en": "by investigating susceptibility",
+      "count": 349,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N27/80": {
+      "code": "G01N27/80",
+      "level": 2,
+      "parent": "G01N27/72",
+      "ja": "機械的硬度調査用，例．鉄磁性材料の磁気飽和または残留磁気の調査によるもの",
+      "en": "for investigating mechanical hardness, e.g. by investigating saturation or remanence of ferromagnetic material",
+      "count": 667,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N27/82": {
+      "code": "G01N27/82",
+      "level": 2,
+      "parent": "G01N27/72",
+      "ja": "きずの調査用",
+      "en": "for investigating the presence of flaws",
+      "count": 6565,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N27/83": {
+      "code": "G01N27/83",
+      "level": 3,
+      "parent": "G01N27/82",
+      "ja": "漂遊磁場の調査によるもの［３］",
+      "en": "by investigating stray magnetic fields",
+      "count": 4014,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N27/84": {
+      "code": "G01N27/84",
+      "level": 4,
+      "parent": "G01N27/83",
+      "ja": "磁気粉または磁気インクの利用によるもの［３］",
+      "en": "by applying magnetic powder or magnetic ink",
+      "count": 4703,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N27/85": {
+      "code": "G01N27/85",
+      "level": 4,
+      "parent": "G01N27/83",
+      "ja": "マグネットグラフィーを用いることによるもの［３］",
+      "en": "using magnetographic methods",
+      "count": 750,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N27/87": {
+      "code": "G01N27/87",
+      "level": 4,
+      "parent": "G01N27/83",
+      "ja": "探針を用いるもの［３］",
+      "en": "using probes",
+      "count": 525,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N27/90": {
+      "code": "G01N27/90",
+      "level": 3,
+      "parent": "G01N27/82",
+      "ja": "渦電流を用いるもの［２０２１．０１］",
+      "en": "using eddy currents",
+      "count": 11000,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N27/9013": {
+      "code": "G01N27/9013",
+      "level": 4,
+      "parent": "G01N27/90",
+      "ja": "走査のための装置［２０２１．０１］",
+      "en": "Arrangements for scanning",
+      "count": 876,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N27/904": {
+      "code": "G01N27/904",
+      "level": 4,
+      "parent": "G01N27/90",
+      "ja": "２以上のセンサーを有するもの［２０２１．０１］",
+      "en": "with two or more sensors",
+      "count": 791,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N27/9093": {
+      "code": "G01N27/9093",
+      "level": 4,
+      "parent": "G01N27/90",
+      "ja": "センサーを支持するための装置；渦電流センサーとマーキングまたは排除のための補助装置とを組み合わせたもの［２０２１．０１］",
+      "en": "Arrangements for supporting the sensor; Combinations of eddy-current sensors and auxiliary arrangements for marking or for rejecting",
+      "count": 1045,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N27/92": {
+      "code": "G01N27/92",
+      "level": 1,
+      "parent": "G01N27/00",
+      "ja": "絶縁破壊電圧の調査によるもの（Ｇ０１Ｎ２７／６０，Ｇ０１Ｎ２７／６２が優先）［３］",
+      "en": "by investigating breakdown voltage(<b>G01N27/60</b>, <b>G01N27/62</b> take precedence)",
+      "count": 991,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N29/00": {
+      "code": "G01N29/00",
+      "level": 0,
+      "parent": "G01N",
+      "ja": "超音波，音波または亜音波の使用による材料の調査または分析；超音波または音波を物体内に伝播させることによる物体内部の可視化（Ｇ０１Ｎ３／００～Ｇ０１Ｎ２７／００が優先）［２００６．０１］",
+      "en": "Investigating or analysing materials by the use of ultrasonic, sonic or infrasonic waves; Visualisation of the interior of objects by transmitting ultrasonic or sonic waves through the object(<b>G01N3/00 to G01N27/00</b>  take precedence)",
+      "count": 9292,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N29/02": {
+      "code": "G01N29/02",
+      "level": 1,
+      "parent": "G01N29/00",
+      "ja": "流体の分析（アコースティックエミッション法を使用するものＧ０１Ｎ２９／１４）［５，８］",
+      "en": "Analysing fluids(using acoustic emission techniques <b>G01N29/14</b>)",
+      "count": 6005,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N29/024": {
+      "code": "G01N29/024",
+      "level": 2,
+      "parent": "G01N29/02",
+      "ja": "音波の伝播速度または伝播時間の測定によるもの［８］",
+      "en": "by measuring propagation velocity or propagation time of acoustic waves",
+      "count": 2179,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N29/028": {
+      "code": "G01N29/028",
+      "level": 2,
+      "parent": "G01N29/02",
+      "ja": "機械的または音響的インピーダンスの測定によるもの［８］",
+      "en": "by measuring mechanical or acoustic impedance",
+      "count": 182,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N29/032": {
+      "code": "G01N29/032",
+      "level": 2,
+      "parent": "G01N29/02",
+      "ja": "音波の減衰の測定によるもの［８］",
+      "en": "by measuring attenuation of acoustic waves",
+      "count": 1286,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N29/036": {
+      "code": "G01N29/036",
+      "level": 2,
+      "parent": "G01N29/02",
+      "ja": "音波の周波数または共鳴の測定によるもの［８］",
+      "en": "by measuring frequency or resonance of acoustic waves",
+      "count": 1812,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N29/04": {
+      "code": "G01N29/04",
+      "level": 1,
+      "parent": "G01N29/00",
+      "ja": "固体の分析（アコースティックエミッション法を使用するものＧ０１Ｎ２９／１４）［４，５，８］",
+      "en": "Analysing solids(using acoustic emission techniques <b>G01N29/14</b>)",
+      "count": 46882,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N29/06": {
+      "code": "G01N29/06",
+      "level": 2,
+      "parent": "G01N29/04",
+      "ja": "内部の可視化，例．音波顕微鏡検査［４，８］",
+      "en": "Visualisation of the interior, e.g. acoustic microscopy",
+      "count": 8214,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N29/07": {
+      "code": "G01N29/07",
+      "level": 2,
+      "parent": "G01N29/04",
+      "ja": "音波の伝播速度または伝播時間の測定によるもの［８］",
+      "en": "by measuring propagation velocity or propagation time of acoustic waves",
+      "count": 5911,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N29/09": {
+      "code": "G01N29/09",
+      "level": 2,
+      "parent": "G01N29/04",
+      "ja": "機械的または音響的インピーダンスの測定によるもの［８］",
+      "en": "by measuring mechanical or acoustic impedance",
+      "count": 711,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N29/11": {
+      "code": "G01N29/11",
+      "level": 2,
+      "parent": "G01N29/04",
+      "ja": "音波の減衰の測定によるもの［８］",
+      "en": "by measuring attenuation of acoustic waves",
+      "count": 3998,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N29/12": {
+      "code": "G01N29/12",
+      "level": 2,
+      "parent": "G01N29/04",
+      "ja": "音波の周波数または共鳴の測定によるもの［５，８］",
+      "en": "by measuring frequency or resonance of acoustic waves",
+      "count": 4399,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N29/14": {
+      "code": "G01N29/14",
+      "level": 1,
+      "parent": "G01N29/00",
+      "ja": "アコースティックエミッション法を使用するもの［５，８］",
+      "en": "using acoustic emission techniques",
+      "count": 7232,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N29/22": {
+      "code": "G01N29/22",
+      "level": 1,
+      "parent": "G01N29/00",
+      "ja": "細部［５］",
+      "en": "Details",
+      "count": 19856,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N29/24": {
+      "code": "G01N29/24",
+      "level": 2,
+      "parent": "G01N29/22",
+      "ja": "探触子［５］",
+      "en": "Probes",
+      "count": 17427,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N29/26": {
+      "code": "G01N29/26",
+      "level": 2,
+      "parent": "G01N29/22",
+      "ja": "方向付けまたは走査のための構成［５］",
+      "en": "Arrangements for orientation or scanning",
+      "count": 6876,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N29/265": {
+      "code": "G01N29/265",
+      "level": 3,
+      "parent": "G01N29/26",
+      "ja": "静止した材料に対して検知器を移動させることによるもの［８］",
+      "en": "by moving the sensor relative to a stationary material",
+      "count": 8760,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N29/27": {
+      "code": "G01N29/27",
+      "level": 3,
+      "parent": "G01N29/26",
+      "ja": "静止した検知器に対して材料を移動させることによるもの［８］",
+      "en": "by moving the material relative to a stationary sensor",
+      "count": 1184,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N29/275": {
+      "code": "G01N29/275",
+      "level": 3,
+      "parent": "G01N29/26",
+      "ja": "検知器および材料を共に移動させることによるもの［８］",
+      "en": "by moving both the sensor and the material",
+      "count": 493,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N29/28": {
+      "code": "G01N29/28",
+      "level": 2,
+      "parent": "G01N29/22",
+      "ja": "音響結合の提供［５］",
+      "en": "providing acoustic coupling",
+      "count": 5816,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N29/30": {
+      "code": "G01N29/30",
+      "level": 2,
+      "parent": "G01N29/22",
+      "ja": "較正または比較のための構成，例．基準体を使用するもの［８］",
+      "en": "Arrangements for calibrating or comparing, e.g. with standard objects",
+      "count": 3742,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N29/32": {
+      "code": "G01N29/32",
+      "level": 2,
+      "parent": "G01N29/22",
+      "ja": "望ましくない影響，例．温度または圧力の変動，を抑制する装置［８］",
+      "en": "Arrangements for suppressing undesired influences, e.g. temperature or pressure variations",
+      "count": 1248,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N29/34": {
+      "code": "G01N29/34",
+      "level": 1,
+      "parent": "G01N29/00",
+      "ja": "超音波，音波または亜音波の発生［２００６．０１］",
+      "en": "Generating the ultrasonic, sonic or infrasonic waves",
+      "count": 3983,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N29/36": {
+      "code": "G01N29/36",
+      "level": 1,
+      "parent": "G01N29/00",
+      "ja": "応答信号の検知［８］",
+      "en": "Detecting the response signal",
+      "count": 1231,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N29/38": {
+      "code": "G01N29/38",
+      "level": 2,
+      "parent": "G01N29/36",
+      "ja": "時間的フィルタリングによるもの，例．ゲートの使用によるもの［８］",
+      "en": "by time filtering, e.g. using time gates",
+      "count": 869,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N29/40": {
+      "code": "G01N29/40",
+      "level": 2,
+      "parent": "G01N29/36",
+      "ja": "振幅フィルタリングによるもの，例．閾値の使用によるもの［８］",
+      "en": "by amplitude filtering, e.g. by applying a threshold",
+      "count": 522,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N29/42": {
+      "code": "G01N29/42",
+      "level": 2,
+      "parent": "G01N29/36",
+      "ja": "周波数フィルタによるもの［８］",
+      "en": "by frequency filtering",
+      "count": 675,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N29/44": {
+      "code": "G01N29/44",
+      "level": 1,
+      "parent": "G01N29/00",
+      "ja": "検知された応答信号の処理［８］",
+      "en": "Processing the detected response signal",
+      "count": 13455,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N29/46": {
+      "code": "G01N29/46",
+      "level": 2,
+      "parent": "G01N29/44",
+      "ja": "スペクトル分析，例．フーリェ分析［８］",
+      "en": "by spectral analysis, e.g. Fourier analysis",
+      "count": 2045,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N29/48": {
+      "code": "G01N29/48",
+      "level": 2,
+      "parent": "G01N29/44",
+      "ja": "振幅比較によるもの［８］",
+      "en": "by amplitude comparison",
+      "count": 1185,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N29/50": {
+      "code": "G01N29/50",
+      "level": 2,
+      "parent": "G01N29/44",
+      "ja": "自己相関検出手法または相互相関検出手法を使用するもの［８］",
+      "en": "using auto-correlation techniques or cross-correlation techniques",
+      "count": 408,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N29/52": {
+      "code": "G01N29/52",
+      "level": 2,
+      "parent": "G01N29/44",
+      "ja": "スペクトル分析以外の逆解析手法を使用するもの，例．共役勾配法によるもの［８］",
+      "en": "using inversion methods other than spectral analysis, e.g. conjugated gradient inversion",
+      "count": 62,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N30/00": {
+      "code": "G01N30/00",
+      "level": 0,
+      "parent": "G01N",
+      "ja": "吸着，吸収もしくは類似現象，またはイオン交換，例．クロマトグラフィ，を用いる成分分離による材料の調査または分析（Ｇ０１Ｎ３／００～Ｇ０１Ｎ２９／００が優先）［４］<br><br><b><ul>注</ul></b><br>このグループにおいては，下記の用語は以下に示す意味で用いる：<br>―“調節”とは，環境パラメータ，例．温度または圧力，の調整または制御を意味する。［４］",
+      "en": "Investigating or analysing materials by separation into components using adsorption, absorption or similar phenomena or using ion-exchange, e.g. chromatography(<b>G01N3/00 to G01N29/00</b>  take precedence)",
+      "count": 5803,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N30/02": {
+      "code": "G01N30/02",
+      "level": 1,
+      "parent": "G01N30/00",
+      "ja": "カラムクロマトグラフィ［４］",
+      "en": "Column chromatography; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this group, the following term is used with the meaning indicated:<ul><li>\"conditioning\" means the adjustment or control of environmental parameters, e.g. temperature or pressure. </li></ul></li></ul>",
+      "count": 55940,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N30/04": {
+      "code": "G01N30/04",
+      "level": 2,
+      "parent": "G01N30/02",
+      "ja": "分析試料の調製または導入［４］",
+      "en": "Preparation or injection of sample to be analysed",
+      "count": 3881,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N30/06": {
+      "code": "G01N30/06",
+      "level": 3,
+      "parent": "G01N30/04",
+      "ja": "調製［４］",
+      "en": "Preparation",
+      "count": 34451,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N30/08": {
+      "code": "G01N30/08",
+      "level": 4,
+      "parent": "G01N30/06",
+      "ja": "エンリッチャを用いるもの［４］",
+      "en": "using an enricher",
+      "count": 3792,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N30/10": {
+      "code": "G01N30/10",
+      "level": 4,
+      "parent": "G01N30/06",
+      "ja": "スプリッタを用いるもの［４］",
+      "en": "using a splitter",
+      "count": 442,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N30/12": {
+      "code": "G01N30/12",
+      "level": 4,
+      "parent": "G01N30/06",
+      "ja": "気化によるもの［４］",
+      "en": "by evaporation",
+      "count": 2104,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N30/14": {
+      "code": "G01N30/14",
+      "level": 4,
+      "parent": "G01N30/06",
+      "ja": "成分除去によるもの［４］",
+      "en": "by elimination of some components",
+      "count": 5013,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N30/16": {
+      "code": "G01N30/16",
+      "level": 3,
+      "parent": "G01N30/04",
+      "ja": "導入（Ｇ０１Ｎ３０／２４が優先）［４］",
+      "en": "Injection(<b>G01N30/24</b> takes precedence)",
+      "count": 3439,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N30/18": {
+      "code": "G01N30/18",
+      "level": 4,
+      "parent": "G01N30/16",
+      "ja": "セプタムまたはマイクロシリンジを用いるもの［４］",
+      "en": "using a septum or microsyringe",
+      "count": 1201,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N30/20": {
+      "code": "G01N30/20",
+      "level": 4,
+      "parent": "G01N30/16",
+      "ja": "サンプリングバルブを用いるもの［４］",
+      "en": "using a sampling valve",
+      "count": 3286,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N30/22": {
+      "code": "G01N30/22",
+      "level": 4,
+      "parent": "G01N30/16",
+      "ja": "高圧液体系に導入するもの［４］",
+      "en": "in high pressure liquid systems",
+      "count": 390,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N30/24": {
+      "code": "G01N30/24",
+      "level": 3,
+      "parent": "G01N30/04",
+      "ja": "自動導入方式［４］",
+      "en": "Automatic injection systems",
+      "count": 2393,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N30/26": {
+      "code": "G01N30/26",
+      "level": 2,
+      "parent": "G01N30/02",
+      "ja": "流体キャリアの調節；フローパターン［４］",
+      "en": "Conditioning of the fluid carrier; Flow patterns",
+      "count": 3680,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N30/28": {
+      "code": "G01N30/28",
+      "level": 3,
+      "parent": "G01N30/26",
+      "ja": "流体キャリアの物理的パラメータの制御［４］",
+      "en": "Control of physical parameters of the fluid carrier",
+      "count": 634,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N30/30": {
+      "code": "G01N30/30",
+      "level": 4,
+      "parent": "G01N30/28",
+      "ja": "温度の制御［４］",
+      "en": "of temperature",
+      "count": 4076,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N30/32": {
+      "code": "G01N30/32",
+      "level": 4,
+      "parent": "G01N30/28",
+      "ja": "圧力または流速の制御（Ｇ０１Ｎ３０／３６が優先）［４］",
+      "en": "of pressure or speed(<b>G01N30/36</b> takes precedence)",
+      "count": 4836,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N30/34": {
+      "code": "G01N30/34",
+      "level": 4,
+      "parent": "G01N30/28",
+      "ja": "流体組成の制御，例．勾配溶離法（Ｇ０１Ｎ３０／３６が優先）［４］",
+      "en": "of fluid composition, e.g. gradient(<b>G01N30/36</b> takes precedence)",
+      "count": 9678,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N30/36": {
+      "code": "G01N30/36",
+      "level": 4,
+      "parent": "G01N30/28",
+      "ja": "高圧液体系における制御［４］",
+      "en": "in high pressure liquid systems",
+      "count": 1884,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N30/38": {
+      "code": "G01N30/38",
+      "level": 3,
+      "parent": "G01N30/26",
+      "ja": "フローパターン［４］",
+      "en": "Flow patterns",
+      "count": 851,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N30/40": {
+      "code": "G01N30/40",
+      "level": 4,
+      "parent": "G01N30/38",
+      "ja": "バックフラッシュ法を用いるもの［４］",
+      "en": "using back flushing",
+      "count": 438,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N30/42": {
+      "code": "G01N30/42",
+      "level": 4,
+      "parent": "G01N30/38",
+      "ja": "カウンターカレント法を用いるもの［４］",
+      "en": "using counter-current",
+      "count": 312,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N30/44": {
+      "code": "G01N30/44",
+      "level": 4,
+      "parent": "G01N30/38",
+      "ja": "分配されたフラクションのリサイクル法を用いるもの［４］",
+      "en": "using recycling of the fraction to be distributed",
+      "count": 230,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N30/46": {
+      "code": "G01N30/46",
+      "level": 4,
+      "parent": "G01N30/38",
+      "ja": "複数カラムを用いるもの［４］",
+      "en": "using more than one column",
+      "count": 2596,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N30/50": {
+      "code": "G01N30/50",
+      "level": 2,
+      "parent": "G01N30/02",
+      "ja": "収着剤または固定相液体の調節［４］",
+      "en": "Conditioning of the sorbent material or stationary liquid",
+      "count": 810,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N30/52": {
+      "code": "G01N30/52",
+      "level": 3,
+      "parent": "G01N30/50",
+      "ja": "物理的パラメータ［４］",
+      "en": "Physical parameters",
+      "count": 651,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N30/54": {
+      "code": "G01N30/54",
+      "level": 4,
+      "parent": "G01N30/52",
+      "ja": "温度［４］",
+      "en": "Temperature",
+      "count": 2736,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N30/56": {
+      "code": "G01N30/56",
+      "level": 3,
+      "parent": "G01N30/50",
+      "ja": "充填法または被覆法［４］",
+      "en": "Packing methods or coating methods",
+      "count": 1301,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N30/58": {
+      "code": "G01N30/58",
+      "level": 3,
+      "parent": "G01N30/50",
+      "ja": "収着剤が全体として移動するもの［４］",
+      "en": "the sorbent moving as a whole",
+      "count": 193,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N30/60": {
+      "code": "G01N30/60",
+      "level": 2,
+      "parent": "G01N30/02",
+      "ja": "カラムの構造［４］",
+      "en": "Construction of the column",
+      "count": 7804,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N30/62": {
+      "code": "G01N30/62",
+      "level": 2,
+      "parent": "G01N30/02",
+      "ja": "カラムクロマトグラフィに特に用いられる検出器［４］",
+      "en": "Detectors specially adapted therefor",
+      "count": 1301,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N30/64": {
+      "code": "G01N30/64",
+      "level": 3,
+      "parent": "G01N30/62",
+      "ja": "電気的検出器［４］",
+      "en": "Electrical detectors",
+      "count": 1814,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N30/66": {
+      "code": "G01N30/66",
+      "level": 4,
+      "parent": "G01N30/64",
+      "ja": "熱伝導度検出器［４］",
+      "en": "Thermal conductivity detectors",
+      "count": 774,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N30/68": {
+      "code": "G01N30/68",
+      "level": 4,
+      "parent": "G01N30/64",
+      "ja": "フレームイオン化検出器［４］",
+      "en": "Flame ionisation detectors",
+      "count": 2062,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N30/70": {
+      "code": "G01N30/70",
+      "level": 4,
+      "parent": "G01N30/64",
+      "ja": "電子捕獲検出器（Ｇ０１Ｎ３０／６８が優先）［４］",
+      "en": "Electron capture detectors(<b>G01N30/68</b> takes precedence)",
+      "count": 430,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N30/72": {
+      "code": "G01N30/72",
+      "level": 3,
+      "parent": "G01N30/62",
+      "ja": "質量分析計［４］",
+      "en": "Mass spectrometers",
+      "count": 18441,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N30/74": {
+      "code": "G01N30/74",
+      "level": 3,
+      "parent": "G01N30/62",
+      "ja": "光学的検出器［４］",
+      "en": "Optical detectors",
+      "count": 9009,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N30/76": {
+      "code": "G01N30/76",
+      "level": 3,
+      "parent": "G01N30/62",
+      "ja": "音響学的検出器［４］",
+      "en": "Acoustical detectors",
+      "count": 100,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N30/78": {
+      "code": "G01N30/78",
+      "level": 3,
+      "parent": "G01N30/62",
+      "ja": "複数の検出器を用いるもの［４］",
+      "en": "using more than one detector",
+      "count": 646,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N30/80": {
+      "code": "G01N30/80",
+      "level": 2,
+      "parent": "G01N30/02",
+      "ja": "フラクションコレクタ［４］",
+      "en": "Fraction collectors",
+      "count": 810,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N30/82": {
+      "code": "G01N30/82",
+      "level": 3,
+      "parent": "G01N30/80",
+      "ja": "自動化手段［４］",
+      "en": "Automatic means therefor",
+      "count": 324,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N30/84": {
+      "code": "G01N30/84",
+      "level": 2,
+      "parent": "G01N30/02",
+      "ja": "分配されたフラクションの調製［４］",
+      "en": "Preparation of the fraction to be distributed",
+      "count": 1368,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N30/86": {
+      "code": "G01N30/86",
+      "level": 2,
+      "parent": "G01N30/02",
+      "ja": "信号解析［４］",
+      "en": "Signal analysis",
+      "count": 16826,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N30/88": {
+      "code": "G01N30/88",
+      "level": 2,
+      "parent": "G01N30/02",
+      "ja": "グループＧ０１Ｎ３０／０４～Ｇ０１Ｎ３０／８６のうちの１つに含まれないもので，カラムクロマトグラフィに特に用いられる統合的分析［４］",
+      "en": "Integrated analysis systems specially adapted therefor, not covered by a single one of groups <b>G01N30/04 to G01N30/86</b> ",
+      "count": 20349,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N30/89": {
+      "code": "G01N30/89",
+      "level": 1,
+      "parent": "G01N30/00",
+      "ja": "逆クロマトグラフィ，即ち，固定相に検体があるもの［８］",
+      "en": "Inverse chromatography, i.e. with the analyte in stationary phase",
+      "count": 983,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N30/90": {
+      "code": "G01N30/90",
+      "level": 1,
+      "parent": "G01N30/00",
+      "ja": "プレートクロマトグラフィ，例．薄層またはペーパークロマトグラフィ［４］",
+      "en": "Plate chromatography, e.g. thin layer or paper chromatography",
+      "count": 4817,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N30/91": {
+      "code": "G01N30/91",
+      "level": 2,
+      "parent": "G01N30/90",
+      "ja": "試料の添加［４］",
+      "en": "Application of the sample",
+      "count": 384,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N30/92": {
+      "code": "G01N30/92",
+      "level": 2,
+      "parent": "G01N30/90",
+      "ja": "プレートの構造［４］",
+      "en": "Construction of the plate",
+      "count": 348,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N30/93": {
+      "code": "G01N30/93",
+      "level": 3,
+      "parent": "G01N30/92",
+      "ja": "収着層の形成［４］",
+      "en": "Application of the sorbent layer",
+      "count": 239,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N30/94": {
+      "code": "G01N30/94",
+      "level": 2,
+      "parent": "G01N30/90",
+      "ja": "展開法［４］",
+      "en": "Development",
+      "count": 1178,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N30/95": {
+      "code": "G01N30/95",
+      "level": 2,
+      "parent": "G01N30/90",
+      "ja": "プレートクロマトグラフィに特に用いられる検出器；信号解析［４］",
+      "en": "Detectors specially adapted therefor; Signal analysis",
+      "count": 809,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N30/96": {
+      "code": "G01N30/96",
+      "level": 1,
+      "parent": "G01N30/00",
+      "ja": "イオン交換の利用（Ｇ０１Ｎ３０／０２，Ｇ０１Ｎ３０／９０が優先）［４］",
+      "en": "using ion-exchange(<b>G01N30/02</b>, <b>G01N30/90</b> take precedence)",
+      "count": 2532,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N31/00": {
+      "code": "G01N31/00",
+      "level": 0,
+      "parent": "G01N",
+      "ja": "サブグループに規定された化学的方法の利用による非生物学的材料の調査または分析；該方法に特に用いられる装置［４］<br><br><b><ul>注</ul></b><br>グループ３／００から２９／００に規定された方法によるもので，グループ３１／０２から３１／２２に包含される反応過程の観察は，もしこの観察が重要であれば，その方法を包含する関連グループに分類される。",
+      "en": "Investigating or analysing non-biological materials by the use of the chemical methods specified in the subgroups; Apparatus specially adapted for such methods; <br><br><b><u>Note(s)</u></b><br><br><ul><li>The observation of the progress of the reactions covered by groups <b>G01N31/02 to G01N31/22</b>  by any of the methods specified in groups <b>G01N3/00 to G01N29/00</b> , if this observation is of major importance, is classified in the relevant group covering the method.</li></ul>",
+      "count": 14033,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N31/02": {
+      "code": "G01N31/02",
+      "level": 1,
+      "parent": "G01N31/00",
+      "ja": "沈殿の利用",
+      "en": "using precipitation",
+      "count": 830,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N31/10": {
+      "code": "G01N31/10",
+      "level": 1,
+      "parent": "G01N31/00",
+      "ja": "触媒の利用",
+      "en": "using catalysis",
+      "count": 2994,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N31/12": {
+      "code": "G01N31/12",
+      "level": 1,
+      "parent": "G01N31/00",
+      "ja": "燃焼の利用（Ｇ０１Ｎ２５／２０が優先）",
+      "en": "using combustion(<b>G01N25/20</b> takes precedence)",
+      "count": 9250,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N31/16": {
+      "code": "G01N31/16",
+      "level": 1,
+      "parent": "G01N31/00",
+      "ja": "滴定の利用",
+      "en": "using titration",
+      "count": 8443,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N31/18": {
+      "code": "G01N31/18",
+      "level": 2,
+      "parent": "G01N31/16",
+      "ja": "特に滴定用に作られたビューレット",
+      "en": "Burettes specially adapted for titration",
+      "count": 994,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N31/20": {
+      "code": "G01N31/20",
+      "level": 1,
+      "parent": "G01N31/00",
+      "ja": "微量分析の利用，例．点滴反応",
+      "en": "using microanalysis, e.g. drop reaction",
+      "count": 525,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N31/22": {
+      "code": "G01N31/22",
+      "level": 1,
+      "parent": "G01N31/00",
+      "ja": "化学的指示薬の利用（Ｇ０１Ｎ３１／０２が優先）",
+      "en": "using chemical indicators(<b>G01N31/02</b> takes precedence)",
+      "count": 14014,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/00": {
+      "code": "G01N33/00",
+      "level": 0,
+      "parent": "G01N",
+      "ja": "グループＧ０１Ｎ１／００～Ｇ０１Ｎ３１／００に包含されない，特有な方法による材料の調査または分析［２００６．０１］",
+      "en": "Investigating or analysing materials by specific methods not covered by groups <b>G01N1/00 to G01N31/00</b> ",
+      "count": 115556,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/02": {
+      "code": "G01N33/02",
+      "level": 1,
+      "parent": "G01N33/00",
+      "ja": "食品［２００６．０１］",
+      "en": "Food",
+      "count": 15942,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/03": {
+      "code": "G01N33/03",
+      "level": 2,
+      "parent": "G01N33/02",
+      "ja": "食用油または食用脂肪［２００６．０１］",
+      "en": "Edible oils or edible fats",
+      "count": 1032,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/04": {
+      "code": "G01N33/04",
+      "level": 2,
+      "parent": "G01N33/02",
+      "ja": "酪農品［２００６．０１］",
+      "en": "Dairy products",
+      "count": 2403,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/06": {
+      "code": "G01N33/06",
+      "level": 3,
+      "parent": "G01N33/04",
+      "ja": "脂肪含量の定量，例．プチロメータ［２００６．０１］",
+      "en": "Determining fat content, e.g. by butyrometer",
+      "count": 381,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/08": {
+      "code": "G01N33/08",
+      "level": 2,
+      "parent": "G01N33/02",
+      "ja": "卵，例．光線で良否を検ずるもの［２００６．０１］",
+      "en": "Eggs, e.g. by candling",
+      "count": 1472,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/10": {
+      "code": "G01N33/10",
+      "level": 2,
+      "parent": "G01N33/02",
+      "ja": "でんぷん含有物質，例．生地［２００６．０１］",
+      "en": "Starch-containing substances, e.g. dough",
+      "count": 2038,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/12": {
+      "code": "G01N33/12",
+      "level": 2,
+      "parent": "G01N33/02",
+      "ja": "肉；魚［２００６．０１］",
+      "en": "Meat; Fish",
+      "count": 2968,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/14": {
+      "code": "G01N33/14",
+      "level": 2,
+      "parent": "G01N33/02",
+      "ja": "飲料［２００６．０１］",
+      "en": "Beverages",
+      "count": 2706,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/15": {
+      "code": "G01N33/15",
+      "level": 1,
+      "parent": "G01N33/00",
+      "ja": "医薬［２００６．０１］",
+      "en": "Medicinal preparations",
+      "count": 23755,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/18": {
+      "code": "G01N33/18",
+      "level": 1,
+      "parent": "G01N33/00",
+      "ja": "水［２００６．０１］",
+      "en": "Water",
+      "count": 51969,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/20": {
+      "code": "G01N33/20",
+      "level": 1,
+      "parent": "G01N33/00",
+      "ja": "金属［２０１９．０１］",
+      "en": "Metals",
+      "count": 9767,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/202": {
+      "code": "G01N33/202",
+      "level": 2,
+      "parent": "G01N33/20",
+      "ja": "その成分［２０１９．０１］",
+      "en": "Constituents thereof",
+      "count": 291,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/2022": {
+      "code": "G01N33/2022",
+      "level": 3,
+      "parent": "G01N33/202",
+      "ja": "非金属成分［２０１９．０１］",
+      "en": "Non-metallic constituents",
+      "count": 232,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/2025": {
+      "code": "G01N33/2025",
+      "level": 4,
+      "parent": "G01N33/2022",
+      "ja": "気体成分［２０１９．０１］",
+      "en": "Gaseous constituents",
+      "count": 127,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/2028": {
+      "code": "G01N33/2028",
+      "level": 3,
+      "parent": "G01N33/202",
+      "ja": "金属成分［２０１９．０１］",
+      "en": "Metallic constituents",
+      "count": 294,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/204": {
+      "code": "G01N33/204",
+      "level": 2,
+      "parent": "G01N33/20",
+      "ja": "その構造，例．結晶構造［２０１９．０１］",
+      "en": "Structure thereof, e.g. crystal structure",
+      "count": 504,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/2045": {
+      "code": "G01N33/2045",
+      "level": 3,
+      "parent": "G01N33/204",
+      "ja": "欠陥［２０１９．０１］",
+      "en": "Defects",
+      "count": 2329,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/205": {
+      "code": "G01N33/205",
+      "level": 2,
+      "parent": "G01N33/20",
+      "ja": "液状のもの，例．溶融金属［２０１９．０１］",
+      "en": "in liquid state, e.g. molten metals",
+      "count": 377,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/207": {
+      "code": "G01N33/207",
+      "level": 2,
+      "parent": "G01N33/20",
+      "ja": "溶接部または半田付け部；半田付け性［２０１９．０１］",
+      "en": "Welded or soldered joints; Solderability",
+      "count": 523,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/208": {
+      "code": "G01N33/208",
+      "level": 2,
+      "parent": "G01N33/20",
+      "ja": "コーティング，例．メッキ［２０１９．０１］",
+      "en": "Coatings, e.g. platings",
+      "count": 123,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/22": {
+      "code": "G01N33/22",
+      "level": 1,
+      "parent": "G01N33/00",
+      "ja": "燃料；爆発物［２００６．０１］",
+      "en": "Fuels; Explosives",
+      "count": 9525,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/24": {
+      "code": "G01N33/24",
+      "level": 1,
+      "parent": "G01N33/00",
+      "ja": "地かく構成材料（Ｇ０１Ｎ３３／４２が優先）［２００６．０１］",
+      "en": "Earth materials(<b>G01N33/42</b> takes precedence)",
+      "count": 38897,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/26": {
+      "code": "G01N33/26",
+      "level": 1,
+      "parent": "G01N33/00",
+      "ja": "油類，粘性液体；塗料；インキ（Ｇ０１Ｎ３３／２２が優先）［２００６．０１］",
+      "en": "Oils; Viscous liquids; Paints; Inks (<b>G01N33/22</b> takes precedence)",
+      "count": 1556,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/28": {
+      "code": "G01N33/28",
+      "level": 2,
+      "parent": "G01N33/26",
+      "ja": "油類（食用油または食用脂肪Ｇ０１Ｎ３３／０３）［２００６．０１］",
+      "en": "Oils(edible oils or edible fats <b>G01N33/03</b>)",
+      "count": 10397,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/30": {
+      "code": "G01N33/30",
+      "level": 3,
+      "parent": "G01N33/28",
+      "ja": "潤滑特性用［２００６．０１］",
+      "en": "for lubricating properties",
+      "count": 2253,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/32": {
+      "code": "G01N33/32",
+      "level": 2,
+      "parent": "G01N33/26",
+      "ja": "塗料；インキ［２００６．０１］",
+      "en": "Paints; Inks",
+      "count": 1294,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/34": {
+      "code": "G01N33/34",
+      "level": 1,
+      "parent": "G01N33/00",
+      "ja": "紙［２００６．０１］",
+      "en": "Paper",
+      "count": 2399,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/36": {
+      "code": "G01N33/36",
+      "level": 1,
+      "parent": "G01N33/00",
+      "ja": "織物［２００６．０１］",
+      "en": "Textiles",
+      "count": 6168,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/38": {
+      "code": "G01N33/38",
+      "level": 1,
+      "parent": "G01N33/00",
+      "ja": "コンクリート；セラミック；ガラス；レンガ［２００６．０１］",
+      "en": "Concrete; Lime; Mortar; Gypsum; Bricks; Ceramics; Glass",
+      "count": 16801,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/40": {
+      "code": "G01N33/40",
+      "level": 1,
+      "parent": "G01N33/00",
+      "ja": "研摩材料［２００６．０１］",
+      "en": "Grinding-materials",
+      "count": 121,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/42": {
+      "code": "G01N33/42",
+      "level": 1,
+      "parent": "G01N33/00",
+      "ja": "舗装材料（Ｇ０１Ｎ３３／３８が優先）［２００６．０１］",
+      "en": "Road-making materials(<b>G01N33/38</b> takes precedence)",
+      "count": 2717,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/44": {
+      "code": "G01N33/44",
+      "level": 1,
+      "parent": "G01N33/00",
+      "ja": "樹脂；プラスチック；ゴム；皮［２００６．０１］",
+      "en": "Resins; Plastics; Rubber; Leather",
+      "count": 5452,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/46": {
+      "code": "G01N33/46",
+      "level": 1,
+      "parent": "G01N33/00",
+      "ja": "木［２００６．０１］",
+      "en": "Wood",
+      "count": 1766,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/48": {
+      "code": "G01N33/48",
+      "level": 1,
+      "parent": "G01N33/00",
+      "ja": "生物学的材料，例．血液，尿（，Ｇ０１Ｎ３３／２６，Ｇ０１Ｎ３３／４４，Ｇ０１Ｎ３３／４６が優先）；血球計（表面を走査することによってその表面に分布されている血球を計数するものＧ０６Ｍ１１／０２）［２００６．０１］",
+      "en": "Biological material, e.g. blood, urine(<b>G01N33/02</b>, <b>G01N33/26</b>, <b>G01N33/44</b>, <b>G01N33/46</b> take precedence);Haemocytometers(counting blood corpuscules distributed over a surface by scanning the surface <b>G06M11/02</b>)",
+      "count": 47024,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/483": {
+      "code": "G01N33/483",
+      "level": 2,
+      "parent": "G01N33/48",
+      "ja": "生物学的材料の物理的分析［２００６．０１］",
+      "en": "Physical analysis of biological material",
+      "count": 12278,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/487": {
+      "code": "G01N33/487",
+      "level": 3,
+      "parent": "G01N33/483",
+      "ja": "液体状生物学的材料のもの［２００６．０１］",
+      "en": "of liquid biological material",
+      "count": 8988,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/49": {
+      "code": "G01N33/49",
+      "level": 4,
+      "parent": "G01N33/487",
+      "ja": "血液［２００６．０１］",
+      "en": "blood",
+      "count": 13680,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/493": {
+      "code": "G01N33/493",
+      "level": 4,
+      "parent": "G01N33/487",
+      "ja": "尿［２００６．０１］",
+      "en": "urine",
+      "count": 3972,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/497": {
+      "code": "G01N33/497",
+      "level": 3,
+      "parent": "G01N33/483",
+      "ja": "気体状生物学的材料，例．呼気，のもの［２００６．０１］",
+      "en": "of gaseous biological material, e.g. breath",
+      "count": 5220,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/50": {
+      "code": "G01N33/50",
+      "level": 2,
+      "parent": "G01N33/48",
+      "ja": "生物学的材料，例．血液，尿，の化学分析；生物学的特異性を有する配位子結合方法を含む試験；免疫学的試験（酵素または微生物を含む免疫学的なもの以外の測定または試験方法，そのための組成物または試験紙；そのような組成物を形成する方法，微生物学的方法または酵素学的方法における条件応答制御Ｃ１２Ｑ）［２００６．０１］<br><br><b><ul>注</ul></b><br>このグループにおいては，下記の表現は以下に示す意味で用いる：<br>―“…を含むもの”という語がある材料について用いられるときは，該表現はその材料を別の材料の試験における定量剤または反応体として使用することおよびその材料を分析することの両方の場合を意味する。［３］<br>グループＧ０１Ｎ３３／５２からＧ０１Ｎ３３／９８においては，ラストプレイス優先ルールが適用される，すなわち各階層レベルにおいて相反する指示がない限り，最後の適切な箇所に分類する。［３］",
+      "en": "Chemical analysis of biological material, e.g. blood, urine; Testing involving biospecific ligand binding methods; Immunological testing (measuring or testing processes other than immunological involving enzymes or microorganisms, compositions or test papers therefor, processes of forming such compositions, condition responsive control in microbiological or enzymological processes <b>C12Q</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>In this group, the following expression is used with the meaning indicated:<ul><li>\"involving\", when used in relation to a material, includes the testing for the material as well as employing the material as a determinant or reactant in a test for a different material.</li></ul></li></ul>",
+      "count": 65329,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/52": {
+      "code": "G01N33/52",
+      "level": 3,
+      "parent": "G01N33/50",
+      "ja": "比色計による調査または分光光度計による調査またはけい光分析計による調査のための化合物または組成物の使用，例．試験紙の使用［２００６．０１］",
+      "en": "Use of compounds or compositions for colorimetric, spectrophotometric or fluorometric investigation, e.g. use of reagent paper",
+      "count": 13794,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/53": {
+      "code": "G01N33/53",
+      "level": 3,
+      "parent": "G01N33/50",
+      "ja": "免疫分析；生物学的特異的結合分析；そのための物質［２００６．０１］",
+      "en": "Immunoassay; Biospecific binding assay; Materials therefor",
+      "count": 78030,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/531": {
+      "code": "G01N33/531",
+      "level": 4,
+      "parent": "G01N33/53",
+      "ja": "免疫化学的試験物質の製造［２００６．０１］",
+      "en": "Production of immunochemical test materials",
+      "count": 9575,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/532": {
+      "code": "G01N33/532",
+      "level": 5,
+      "parent": "G01N33/531",
+      "ja": "標識免疫化学物質の製造［２００６．０１］",
+      "en": "Production of labelled immunochemicals",
+      "count": 4869,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/533": {
+      "code": "G01N33/533",
+      "level": 6,
+      "parent": "G01N33/532",
+      "ja": "蛍光標識を有するもの［２００６．０１］",
+      "en": "with fluorescent label",
+      "count": 8128,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/534": {
+      "code": "G01N33/534",
+      "level": 6,
+      "parent": "G01N33/532",
+      "ja": "放射性標識を有するもの［２００６．０１］",
+      "en": "with radioactive label",
+      "count": 948,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/535": {
+      "code": "G01N33/535",
+      "level": 6,
+      "parent": "G01N33/532",
+      "ja": "酵素標識を有するもの［２００６．０１］",
+      "en": "with enzyme label",
+      "count": 4790,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/536": {
+      "code": "G01N33/536",
+      "level": 4,
+      "parent": "G01N33/53",
+      "ja": "液相中に形成された免疫複合体によるもの［２００６．０１］",
+      "en": "with immune complex formed in liquid phase",
+      "count": 2813,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/537": {
+      "code": "G01N33/537",
+      "level": 5,
+      "parent": "G01N33/536",
+      "ja": "未結合抗原または抗体から免疫複合体を分離することによるもの［２００６．０１］",
+      "en": "with separation of immune complex from unbound antigen or antibody",
+      "count": 1088,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/538": {
+      "code": "G01N33/538",
+      "level": 6,
+      "parent": "G01N33/537",
+      "ja": "収着カラム，粒子または樹脂片によるもの［２００６．０１］",
+      "en": "by sorbent column, particles or resin strip",
+      "count": 572,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/539": {
+      "code": "G01N33/539",
+      "level": 6,
+      "parent": "G01N33/537",
+      "ja": "沈澱試薬を含むもの［２００６．０１］",
+      "en": "involving precipitating reagent",
+      "count": 274,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/541": {
+      "code": "G01N33/541",
+      "level": 7,
+      "parent": "G01N33/539",
+      "ja": "二重または第二抗体［２００６．０１］",
+      "en": "Double or second antibody",
+      "count": 397,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/542": {
+      "code": "G01N33/542",
+      "level": 5,
+      "parent": "G01N33/536",
+      "ja": "立体的阻害または信号の変更，例．蛍光偏光解消，によるもの［２００６．０１］",
+      "en": "with steric inhibition or signal modification, e.g. fluorescent quenching",
+      "count": 2854,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/543": {
+      "code": "G01N33/543",
+      "level": 4,
+      "parent": "G01N33/53",
+      "ja": "免疫化学物質を固定化するための不溶性担体によるもの［２００６．０１］",
+      "en": "with an insoluble carrier for immobilising immunochemicals",
+      "count": 49112,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/544": {
+      "code": "G01N33/544",
+      "level": 5,
+      "parent": "G01N33/543",
+      "ja": "担体が有機物であるもの［２００６．０１］",
+      "en": "the carrier being organic",
+      "count": 1983,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/545": {
+      "code": "G01N33/545",
+      "level": 6,
+      "parent": "G01N33/544",
+      "ja": "合成樹脂［２００６．０１］",
+      "en": "Synthetic resin",
+      "count": 2639,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/546": {
+      "code": "G01N33/546",
+      "level": 7,
+      "parent": "G01N33/545",
+      "ja": "水性懸濁粒子として［２００６．０１］",
+      "en": "as water suspendable particles",
+      "count": 466,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/547": {
+      "code": "G01N33/547",
+      "level": 7,
+      "parent": "G01N33/545",
+      "ja": "架橋剤により担体に結合した抗原または抗体によるもの［２００６．０１］",
+      "en": "with antigen or antibody attached to the carrier <u>via</u> a bridging agent",
+      "count": 1248,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/548": {
+      "code": "G01N33/548",
+      "level": 6,
+      "parent": "G01N33/544",
+      "ja": "炭水化物，例．デキストラン［２００６．０１］",
+      "en": "Carbohydrates, e.g. dextran",
+      "count": 828,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/549": {
+      "code": "G01N33/549",
+      "level": 6,
+      "parent": "G01N33/544",
+      "ja": "担体内に包括された抗原または抗体によるもの［２００６．０１］",
+      "en": "with antigen or antibody entrapped within the carrier",
+      "count": 301,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/551": {
+      "code": "G01N33/551",
+      "level": 5,
+      "parent": "G01N33/543",
+      "ja": "担体が無機物であるもの［２００６．０１］",
+      "en": "the carrier being inorganic",
+      "count": 1220,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/552": {
+      "code": "G01N33/552",
+      "level": 6,
+      "parent": "G01N33/551",
+      "ja": "ガラスまたはシリカ［２００６．０１］",
+      "en": "Glass or silica",
+      "count": 1324,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/553": {
+      "code": "G01N33/553",
+      "level": 6,
+      "parent": "G01N33/551",
+      "ja": "金属または金属被覆［２００６．０１］",
+      "en": "Metal or metal coated",
+      "count": 3623,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/554": {
+      "code": "G01N33/554",
+      "level": 5,
+      "parent": "G01N33/543",
+      "ja": "担体が生物学的細胞または細胞細片，例．細菌，酵母細胞，であるもの［２００６．０１］",
+      "en": "the carrier being a biological cell or cell fragment, e.g. bacteria, yeast cells",
+      "count": 1226,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/555": {
+      "code": "G01N33/555",
+      "level": 6,
+      "parent": "G01N33/554",
+      "ja": "赤血球［２００６．０１］",
+      "en": "Red blood cell",
+      "count": 322,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/556": {
+      "code": "G01N33/556",
+      "level": 7,
+      "parent": "G01N33/555",
+      "ja": "固定または安定化された赤血球［２００６．０１］",
+      "en": "Fixed or stabilised red blood cell",
+      "count": 145,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/557": {
+      "code": "G01N33/557",
+      "level": 4,
+      "parent": "G01N33/53",
+      "ja": "動力学的測定，すなわち．抗原―抗体相互作用の進行速度，を用いるもの［２００６．０１］",
+      "en": "using kinetic measurement, i.e. time rate of progress of an antigen-antibody interaction",
+      "count": 552,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/558": {
+      "code": "G01N33/558",
+      "level": 4,
+      "parent": "G01N33/53",
+      "ja": "抗原または抗体の拡散または移動を用いるもの［２００６．０１］",
+      "en": "using diffusion or migration of antigen or antibody",
+      "count": 11039,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/559": {
+      "code": "G01N33/559",
+      "level": 5,
+      "parent": "G01N33/558",
+      "ja": "ゲルを介するもの，例．オウクテルロニー法［２００６．０１］",
+      "en": "through a gel, e.g. Ouchterlony technique",
+      "count": 578,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/561": {
+      "code": "G01N33/561",
+      "level": 5,
+      "parent": "G01N33/558",
+      "ja": "免疫電気泳動［２００６．０１］",
+      "en": "Immunoelectrophoresis",
+      "count": 702,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/563": {
+      "code": "G01N33/563",
+      "level": 4,
+      "parent": "G01N33/53",
+      "ja": "抗体フラグメントを含むもの［２００６．０１］",
+      "en": "involving antibody fragments",
+      "count": 1105,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/564": {
+      "code": "G01N33/564",
+      "level": 4,
+      "parent": "G01N33/53",
+      "ja": "あらかじめ存在する免疫複合体または自己免疫疾患のためのもの［２００６．０１］",
+      "en": "for pre-existing immune complex or autoimmune disease",
+      "count": 4148,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/566": {
+      "code": "G01N33/566",
+      "level": 4,
+      "parent": "G01N33/53",
+      "ja": "配位子結合試薬として，特異的キャリアまたは受容体蛋白質を用いるもの［２００６．０１］",
+      "en": "using specific carrier or receptor proteins as ligand binding reagent",
+      "count": 14229,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/567": {
+      "code": "G01N33/567",
+      "level": 5,
+      "parent": "G01N33/566",
+      "ja": "結合試薬として，組識または器官の分離物を利用するもの［２００６．０１］",
+      "en": "utilising isolate of tissue or organ as binding agent",
+      "count": 3483,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/569": {
+      "code": "G01N33/569",
+      "level": 4,
+      "parent": "G01N33/53",
+      "ja": "微生物，例．原生動物，細菌，ウイルス，のためのもの［２００６．０１］",
+      "en": "for microorganisms, e.g. protozoa, bacteria, viruses",
+      "count": 35071,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/571": {
+      "code": "G01N33/571",
+      "level": 5,
+      "parent": "G01N33/569",
+      "ja": "性病，例．梅毒，淋疾，疱疹，のためのもの［２００６．０１］",
+      "en": "for venereal disease, e.g. syphilis, gonorrhoea, herpes",
+      "count": 918,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/573": {
+      "code": "G01N33/573",
+      "level": 4,
+      "parent": "G01N33/53",
+      "ja": "酵素またはイソ酵素のためのもの［２００６．０１］",
+      "en": "for enzymes or isoenzymes",
+      "count": 10584,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/575": {
+      "code": "G01N33/575",
+      "level": 4,
+      "parent": "G01N33/53",
+      "ja": "癌のためのもの［２０２６．０１］",
+      "en": "for cancer",
+      "count": 0,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/57505": {
+      "code": "G01N33/57505",
+      "level": 5,
+      "parent": "G01N33/575",
+      "ja": "血液の癌，例．白血病［２０２６．０１］",
+      "en": "of the blood, e.g. leukaemia",
+      "count": 0,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/5751": {
+      "code": "G01N33/5751",
+      "level": 5,
+      "parent": "G01N33/575",
+      "ja": "皮膚の癌，例．黒色腫［２０２６．０１］",
+      "en": "of the skin, e.g. melanoma",
+      "count": 0,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/57515": {
+      "code": "G01N33/57515",
+      "level": 5,
+      "parent": "G01N33/575",
+      "ja": "乳房の癌［２０２６．０１］",
+      "en": "of the breast",
+      "count": 0,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/5752": {
+      "code": "G01N33/5752",
+      "level": 5,
+      "parent": "G01N33/575",
+      "ja": "肺の癌［２０２６．０１］",
+      "en": "of the lungs",
+      "count": 0,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/57525": {
+      "code": "G01N33/57525",
+      "level": 5,
+      "parent": "G01N33/575",
+      "ja": "肝臓または膵臓の癌［２０２６．０１］",
+      "en": "of the liver or pancreas",
+      "count": 0,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/5753": {
+      "code": "G01N33/5753",
+      "level": 5,
+      "parent": "G01N33/575",
+      "ja": "胃または小腸の癌［２０２６．０１］",
+      "en": "of the stomach or small intestine",
+      "count": 0,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/57535": {
+      "code": "G01N33/57535",
+      "level": 5,
+      "parent": "G01N33/575",
+      "ja": "大腸（例．結腸，　直腸または　肛門）の癌［２０２６．０１］",
+      "en": "of the large intestine, e.g. colon, rectum or anus",
+      "count": 0,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/5754": {
+      "code": "G01N33/5754",
+      "level": 5,
+      "parent": "G01N33/575",
+      "ja": "腎尿路系（例．腎臓または尿管）の癌［２０２６．０１］",
+      "en": "of the renal system, e.g. kidneys or ureters",
+      "count": 0,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/57545": {
+      "code": "G01N33/57545",
+      "level": 5,
+      "parent": "G01N33/575",
+      "ja": "卵巣の癌［２０２６．０１］",
+      "en": "of the ovaries",
+      "count": 0,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/5755": {
+      "code": "G01N33/5755",
+      "level": 5,
+      "parent": "G01N33/575",
+      "ja": "子宮頸部、子宮体部または子宮内膜の癌［２０２６．０１］",
+      "en": "of the uterine cervix, uterine corpus or endometrium",
+      "count": 0,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/57555": {
+      "code": "G01N33/57555",
+      "level": 5,
+      "parent": "G01N33/575",
+      "ja": "前立腺の癌［２０２６．０１］",
+      "en": "of the prostate",
+      "count": 0,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/576": {
+      "code": "G01N33/576",
+      "level": 4,
+      "parent": "G01N33/53",
+      "ja": "肝炎のためのもの［２００６．０１］",
+      "en": "for hepatitis",
+      "count": 2432,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/577": {
+      "code": "G01N33/577",
+      "level": 4,
+      "parent": "G01N33/53",
+      "ja": "モノクローナル抗体を含むもの［２００６．０１］",
+      "en": "involving monoclonal antibodies",
+      "count": 21412,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/579": {
+      "code": "G01N33/579",
+      "level": 3,
+      "parent": "G01N33/50",
+      "ja": "カブトガニ細胞溶解産物を含むもの［２００６．０１］",
+      "en": "involving limulus lysate",
+      "count": 534,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/58": {
+      "code": "G01N33/58",
+      "level": 3,
+      "parent": "G01N33/50",
+      "ja": "標識物質を含むもの（Ｇ０１Ｎ３３／５３が優先）［２００６．０１］",
+      "en": "involving labelled substances(<b>G01N33/53</b> takes precedence)",
+      "count": 19409,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/60": {
+      "code": "G01N33/60",
+      "level": 4,
+      "parent": "G01N33/58",
+      "ja": "放射性標識物質を含むもの［２００６．０１］",
+      "en": "involving radioactive labelled substances",
+      "count": 1395,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/62": {
+      "code": "G01N33/62",
+      "level": 3,
+      "parent": "G01N33/50",
+      "ja": "尿素を含むもの［２００６．０１］",
+      "en": "involving urea",
+      "count": 413,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/64": {
+      "code": "G01N33/64",
+      "level": 3,
+      "parent": "G01N33/50",
+      "ja": "ケトンを含むもの［２００６．０１］",
+      "en": "involving ketones",
+      "count": 412,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/66": {
+      "code": "G01N33/66",
+      "level": 3,
+      "parent": "G01N33/50",
+      "ja": "血糖，例．ガラクトース，を含むもの［２００６．０１］",
+      "en": "involving blood sugars, e.g. galactose",
+      "count": 5111,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/68": {
+      "code": "G01N33/68",
+      "level": 3,
+      "parent": "G01N33/50",
+      "ja": "蛋白質またはペプチドまたはアミノ酸を含むもの［２００６．０１］",
+      "en": "involving proteins, peptides or amino acids",
+      "count": 74834,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/70": {
+      "code": "G01N33/70",
+      "level": 3,
+      "parent": "G01N33/50",
+      "ja": "クレアチンまたはクレアチニンを含むもの［２００６．０１］",
+      "en": "involving creatine or creatinine",
+      "count": 801,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/72": {
+      "code": "G01N33/72",
+      "level": 3,
+      "parent": "G01N33/50",
+      "ja": "血色素，例．ヘモグロビン，ビリルビン，を含むもの［２００６．０１］",
+      "en": "involving blood pigments, e.g. hemoglobin, bilirubin",
+      "count": 3395,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/74": {
+      "code": "G01N33/74",
+      "level": 3,
+      "parent": "G01N33/50",
+      "ja": "ホルモンを含むもの［２００６．０１］",
+      "en": "involving hormones",
+      "count": 6010,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/76": {
+      "code": "G01N33/76",
+      "level": 4,
+      "parent": "G01N33/74",
+      "ja": "胎盤性腺刺激ホルモン［２００６．０１］",
+      "en": "Human chorionic gonadotropin",
+      "count": 1531,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/78": {
+      "code": "G01N33/78",
+      "level": 4,
+      "parent": "G01N33/74",
+      "ja": "甲状線ホルモン［２００６．０１］",
+      "en": "Thyroid gland hormones",
+      "count": 779,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/80": {
+      "code": "G01N33/80",
+      "level": 3,
+      "parent": "G01N33/50",
+      "ja": "血液群または血液型を含むもの［２００６．０１］",
+      "en": "involving blood groups or blood types",
+      "count": 1986,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/82": {
+      "code": "G01N33/82",
+      "level": 3,
+      "parent": "G01N33/50",
+      "ja": "ビタミンを含むもの［２００６．０１］",
+      "en": "involving vitamins",
+      "count": 1064,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/84": {
+      "code": "G01N33/84",
+      "level": 3,
+      "parent": "G01N33/50",
+      "ja": "無機化合物またはペーハーを含むもの［２００６．０１］",
+      "en": "involving inorganic compounds or pH",
+      "count": 2857,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/86": {
+      "code": "G01N33/86",
+      "level": 3,
+      "parent": "G01N33/50",
+      "ja": "血液凝固時間を含むもの［２００６．０１］",
+      "en": "involving blood coagulating time",
+      "count": 3884,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/88": {
+      "code": "G01N33/88",
+      "level": 3,
+      "parent": "G01N33/50",
+      "ja": "プロスタグランディンを含むもの［２００６．０１］",
+      "en": "involving prostaglandins",
+      "count": 278,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/90": {
+      "code": "G01N33/90",
+      "level": 3,
+      "parent": "G01N33/50",
+      "ja": "血液の鉄結合能を含むもの［２００６．０１］",
+      "en": "involving iron binding capacity of blood",
+      "count": 139,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/92": {
+      "code": "G01N33/92",
+      "level": 3,
+      "parent": "G01N33/50",
+      "ja": "脂質，例．コレステロール，を含むもの［２００６．０１］",
+      "en": "involving lipids, e.g. cholesterol",
+      "count": 4778,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/94": {
+      "code": "G01N33/94",
+      "level": 3,
+      "parent": "G01N33/50",
+      "ja": "麻酔剤を含むもの［２００６．０１］",
+      "en": "involving narcotics",
+      "count": 2816,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/96": {
+      "code": "G01N33/96",
+      "level": 3,
+      "parent": "G01N33/50",
+      "ja": "血液または血清の対照標準を含むもの［２００６．０１］",
+      "en": "involving blood or serum control standard",
+      "count": 1636,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N33/98": {
+      "code": "G01N33/98",
+      "level": 3,
+      "parent": "G01N33/50",
+      "ja": "アルコール，例．呼気中のエタノール，を含むもの［２００６．０１］",
+      "en": "involving alcohol, e.g. ethanol in breath",
+      "count": 1240,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N35/00": {
+      "code": "G01N35/00",
+      "level": 0,
+      "parent": "G01N",
+      "ja": "グループＧ０１Ｎ１／００～Ｇ０１Ｎ３３／００のいずれか１つに分類される方法または材料に限定されない自動分析；そのための材料の取扱い［３］",
+      "en": "Automatic analysis not limited to methods or materials provided for in any single one of groups <b>G01N1/00 to G01N33/00</b> ; Handling materials therefor",
+      "count": 37114,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N35/02": {
+      "code": "G01N35/02",
+      "level": 1,
+      "parent": "G01N35/00",
+      "ja": "１以上の処理位置または分析位置へコンベア系によって移動させられる多数の試料容器を用いるもの［３］",
+      "en": "using a plurality of sample containers moved by a conveyor system past one or more treatment or analysis stations",
+      "count": 14983,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N35/04": {
+      "code": "G01N35/04",
+      "level": 2,
+      "parent": "G01N35/02",
+      "ja": "コンベア系の細部［３］",
+      "en": "Details of the conveyor system",
+      "count": 12294,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N35/08": {
+      "code": "G01N35/08",
+      "level": 1,
+      "parent": "G01N35/00",
+      "ja": "チューブ系を流れる不連続試料流を用いるもの，例．フローインジェクション分析［３］",
+      "en": "using a stream of discrete samples flowing along a tube system, e.g. flow injection analysis",
+      "count": 6764,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N35/10": {
+      "code": "G01N35/10",
+      "level": 1,
+      "parent": "G01N35/00",
+      "ja": "分析装置に，または分析装置から試料を移送するための装置，例．吸引装置，導入装置［６］",
+      "en": "Devices for transferring samples to, in, or from, the analysis apparatus, e.g. suction devices, injection devices",
+      "count": 24790,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    },
+    "G01N37/00": {
+      "code": "G01N37/00",
+      "level": 0,
+      "parent": "G01N",
+      "ja": "このサブクラスの他のいずれのグループにも包含されない細部［３］",
+      "en": "Details not covered by any other group of this subclass",
+      "count": 19027,
+      "sourceFile": "ipc_G01N.txt",
+      "kind": "ipc"
+    }
+  }
+};

@@ -1,0 +1,97 @@
+window.FI_SHARD_A63K = {
+  "generatedAt": "2026-03-20T02:17:49.406Z",
+  "total": 7,
+  "entries": {
+    "A63K": {
+      "code": "A63K",
+      "level": 0,
+      "parent": null,
+      "ja": "",
+      "en": "",
+      "count": 0,
+      "ipcCode": "",
+      "fTerm": "RACING; RIDING SPORTS; EQUIPMENT OR ACCESSORIES THEREFOR",
+      "childFlag": 0,
+      "sourceFile": "fi_A.txt",
+      "kind": "fi"
+    },
+    "A63K1/00\\": {
+      "code": "A63K1/00\\",
+      "level": 0,
+      "parent": null,
+      "ja": "競走路；競走トラック",
+      "en": "Race-courses; Race-tracks",
+      "count": 90,
+      "ipcCode": "A63K1/00",
+      "fTerm": "2C086",
+      "childFlag": 0,
+      "sourceFile": "fi_A63K.txt",
+      "kind": "fi"
+    },
+    "A63K1/02\\": {
+      "code": "A63K1/02\\",
+      "level": 1,
+      "parent": "A63K1/00\\",
+      "ja": "猟犬またはその他の犬のためのもの",
+      "en": "for greyhounds or other dogs",
+      "count": 0,
+      "ipcCode": "A63K1/02",
+      "fTerm": "2C086",
+      "childFlag": 1,
+      "sourceFile": "fi_A63K.txt",
+      "kind": "fi"
+    },
+    "A63K3/00\\": {
+      "code": "A63K3/00\\",
+      "level": 0,
+      "parent": null,
+      "ja": "競走または乗馬のための設備または付属品",
+      "en": "Equipment or accessories for racing or riding sports",
+      "count": 554,
+      "ipcCode": "A63K3/00",
+      "fTerm": "2C086",
+      "childFlag": 0,
+      "sourceFile": "fi_A63K.txt",
+      "kind": "fi"
+    },
+    "A63K3/02\\": {
+      "code": "A63K3/02\\",
+      "level": 1,
+      "parent": "A63K3/00\\",
+      "ja": "スターティング用具，例．スターティングブロック",
+      "en": "Starting-appliances, e.g. starting blocks",
+      "count": 133,
+      "ipcCode": "A63K3/02",
+      "fTerm": "2C086",
+      "childFlag": 1,
+      "sourceFile": "fi_A63K.txt",
+      "kind": "fi"
+    },
+    "A63K3/04\\": {
+      "code": "A63K3/04\\",
+      "level": 1,
+      "parent": "A63K3/00\\",
+      "ja": "ハードルまたは類似のもの",
+      "en": "Hurdles or the like",
+      "count": 131,
+      "ipcCode": "A63K3/04",
+      "fTerm": "2C086",
+      "childFlag": 1,
+      "sourceFile": "fi_A63K.txt",
+      "kind": "fi"
+    },
+    "A63K99/00\\": {
+      "code": "A63K99/00\\",
+      "level": 0,
+      "parent": null,
+      "ja": "このサブクラスの他のグループに分類されない主題事項［８］",
+      "en": "Subject matter not provided for in other groups of this subclass [8]",
+      "count": 5,
+      "ipcCode": "A63K99/00",
+      "fTerm": "2C086",
+      "childFlag": 0,
+      "sourceFile": "fi_A63K.txt",
+      "kind": "fi"
+    }
+  }
+};

@@ -1,0 +1,406 @@
+{
+  "generatedAt": "2026-03-20T02:17:46.865Z",
+  "total": 40,
+  "entries": {
+    "F21K": {
+      "code": "F21K",
+      "level": 0,
+      "parent": "F21",
+      "ja": "ルミネセンスを用いる非電気的光源；電気化学発光を用いる光源；燃焼物質の点火を用いる光源；半導体装置を発光素子として用いる光源；他に分類されない光源<br><br><b><ul>注</ul></b><br>このサブクラスでは，サブクラスＦ２１ＷおよびＦ２１Ｙのインデキシングコードを付与することが望ましい。［２０１６．０１］",
+      "en": "NON-ELECTRIC LIGHT SOURCES USING LUMINESCENCE; LIGHT SOURCES USING ELECTROCHEMILUMINESCENCE; LIGHT SOURCES USING CHARGES OF COMBUSTIBLE MATERIAL; LIGHT SOURCES USING SEMICONDUCTOR DEVICES AS LIGHT-GENERATING ELEMENTS; LIGHT SOURCES NOT OTHERWISE PROVIDED FOR; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this subclass, it is desirable to add the indexing codes of subclasses <b>F21W</b> and <b>F21Y</b>. </li></ul>",
+      "count": 275,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F21": {
+      "code": "F21",
+      "level": 0,
+      "parent": "F",
+      "ja": "照明<br><br><b><ul>注</ul></b><br>セクションＨの注ＩＩＩ、特にクラスＦ２１に包含されるものと同じ技術主題の電気的な観点はサブクラスＨ０５Ｂに包含されることに、注意すること。",
+      "en": "LIGHTING",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F": {
+      "code": "F",
+      "level": 0,
+      "parent": null,
+      "ja": "機械工学；照明；加熱；武器；爆破",
+      "en": "MECHANICAL ENGINEERING; LIGHTING; HEATING; WEAPONS; BLASTING",
+      "count": 0,
+      "sourceFile": "ipc_F.txt",
+      "kind": "ipc"
+    },
+    "F21K2/00": {
+      "code": "F21K2/00",
+      "level": 0,
+      "parent": "F21K",
+      "ja": "ルミネセンスを用いた非電気的光源（放射線による励起を用いるものＧ２１Ｈ３／０２，Ｈ０１Ｊ６５／０６，Ｈ０１Ｊ６５／０８；外部の電磁場または外部の粒子放射による励起を用いるものＨ０１Ｊ６５／０４）；電気化学発光を用いる光源［２，７］",
+      "en": "Non-electric light sources using luminescence(using excitation by radioactivity <b>G21H3/02</b>, <b>H01J65/06</b>, <b>H01J65/08</b>; using excitation by an external electromagnetic field or by external corpuscular radiation <b>H01J65/04</b>);Light sources using electrochemiluminescence",
+      "count": 2135,
+      "sourceFile": "ipc_F21K.txt",
+      "kind": "ipc"
+    },
+    "F21K2/04": {
+      "code": "F21K2/04",
+      "level": 1,
+      "parent": "F21K2/00",
+      "ja": "摩擦ルミネセンスを用いるもの；熱ルミネセンスを用いるもの",
+      "en": "using triboluminescence; using thermoluminescence",
+      "count": 67,
+      "sourceFile": "ipc_F21K.txt",
+      "kind": "ipc"
+    },
+    "F21K2/06": {
+      "code": "F21K2/06",
+      "level": 1,
+      "parent": "F21K2/00",
+      "ja": "化学発光を用いるもの［３］",
+      "en": "using chemiluminescence",
+      "count": 958,
+      "sourceFile": "ipc_F21K.txt",
+      "kind": "ipc"
+    },
+    "F21K2/08": {
+      "code": "F21K2/08",
+      "level": 2,
+      "parent": "F21K2/06",
+      "ja": "電場により活性化するもの，すなわち，電気化学発光［３］",
+      "en": "activated by an electric field, i.e. electrochemiluminescence",
+      "count": 323,
+      "sourceFile": "ipc_F21K.txt",
+      "kind": "ipc"
+    },
+    "F21K5/00": {
+      "code": "F21K5/00",
+      "level": 0,
+      "parent": "F21K",
+      "ja": "可燃性物質を充填使用する光源，例．照明用閃光装置［３，５］",
+      "en": "Light sources using charges of combustible material, e.g. illuminating flash devices",
+      "count": 637,
+      "sourceFile": "ipc_F21K.txt",
+      "kind": "ipc"
+    },
+    "F21K5/04": {
+      "code": "F21K5/04",
+      "level": 1,
+      "parent": "F21K5/00",
+      "ja": "複数の装薬，例．連続的な点火に関連したもの（Ｆ２１Ｋ５／０６，Ｆ２１Ｋ５／１２が優先）［５］",
+      "en": "Plural charges, e.g. associated for sequential ignition(<b>F21K5/06</b>, <b>F21K5/12</b> take precedence)",
+      "count": 24,
+      "sourceFile": "ipc_F21K.txt",
+      "kind": "ipc"
+    },
+    "F21K5/06": {
+      "code": "F21K5/06",
+      "level": 1,
+      "parent": "F21K5/00",
+      "ja": "装薬の封じ込め［５］",
+      "en": "Charge containment",
+      "count": 152,
+      "sourceFile": "ipc_F21K.txt",
+      "kind": "ipc"
+    },
+    "F21K5/08": {
+      "code": "F21K5/08",
+      "level": 2,
+      "parent": "F21K5/06",
+      "ja": "分散しないようにした容器中にはいっている装薬，例．写真用閃光電球［５］",
+      "en": "Charge held in non-disrupting container, e.g. photo-flash bulb",
+      "count": 902,
+      "sourceFile": "ipc_F21K.txt",
+      "kind": "ipc"
+    },
+    "F21K5/10": {
+      "code": "F21K5/10",
+      "level": 3,
+      "parent": "F21K5/08",
+      "ja": "被覆物のあるもの［５］",
+      "en": "bearing a coating",
+      "count": 0,
+      "sourceFile": "ipc_F21K.txt",
+      "kind": "ipc"
+    },
+    "F21K5/12": {
+      "code": "F21K5/12",
+      "level": 1,
+      "parent": "F21K5/00",
+      "ja": "装薬の点火［５］",
+      "en": "Charge ignition",
+      "count": 502,
+      "sourceFile": "ipc_F21K.txt",
+      "kind": "ipc"
+    },
+    "F21K5/14": {
+      "code": "F21K5/14",
+      "level": 2,
+      "parent": "F21K5/12",
+      "ja": "衝撃によるもの［５］",
+      "en": "percussive",
+      "count": 126,
+      "sourceFile": "ipc_F21K.txt",
+      "kind": "ipc"
+    },
+    "F21K5/16": {
+      "code": "F21K5/16",
+      "level": 2,
+      "parent": "F21K5/12",
+      "ja": "電気によるもの（回路装置Ｈ０５Ｂ４６／００）［２００６．０１］",
+      "en": "electrical (circuit arrangements <b>H05B46/00</b>)",
+      "count": 46,
+      "sourceFile": "ipc_F21K.txt",
+      "kind": "ipc"
+    },
+    "F21K5/18": {
+      "code": "F21K5/18",
+      "level": 3,
+      "parent": "F21K5/16",
+      "ja": "電気点火の雷管［５］",
+      "en": "Electrically-ignited primers",
+      "count": 11,
+      "sourceFile": "ipc_F21K.txt",
+      "kind": "ipc"
+    },
+    "F21K5/20": {
+      "code": "F21K5/20",
+      "level": 1,
+      "parent": "F21K5/00",
+      "ja": "装薬供給手段［５］",
+      "en": "Charge feeding means",
+      "count": 40,
+      "sourceFile": "ipc_F21K.txt",
+      "kind": "ipc"
+    },
+    "F21K5/22": {
+      "code": "F21K5/22",
+      "level": 1,
+      "parent": "F21K5/00",
+      "ja": "保護用の光遮蔽［５］",
+      "en": "Protective light shields",
+      "count": 43,
+      "sourceFile": "ipc_F21K.txt",
+      "kind": "ipc"
+    },
+    "F21K9/00": {
+      "code": "F21K9/00",
+      "level": 0,
+      "parent": "F21K",
+      "ja": "半導体装置を発光素子として使用する光源，例．発光ダイオード［ＬＥＤ］またはレーザーの使用［２０１６．０１］<br><br><b><ul>注</ul></b><br>（１）このグループでは，以下の表現は表示された意味を持つ物として使用する：<br>・「光源」とは，光を生成する構成要素で，器具備品に取り付けるかまたは照明装置に組み込まれた保持器に取り付ける事を意図したものである。<br>・「レトロフィット光源」とは，実質的に白熱灯または蛍光灯と同じ取付手段から成る光源である。「レトロフィット光源」は，それらに取って代わるまたはそれらを代用するのに特に適合している。<br>（２）半導体装置それ自体，またはそれらの組立で，光の放射に特に適合したもの，例．光源（注（１）における意味において）の内部の発光素子は，サブクラスＨ０１Ｓ（例．Ｈ０１Ｓ５／００），Ｈ１０Ｈ（例．Ｈ１０Ｈ２０／００及びＨ１０Ｈ２９／２０）及びＨ１０Ｋ（例．Ｈ１０Ｋ５０／００及びＨ１０Ｋ５９／００）に包含される。<br>（３）光源が用いられる照明装置またはシステムは，サブクラスＦ２１ＬまたはＦ２１Ｓに包含される。<br>（４）このグループに分類するときは，もしサブクラスＦ２１Ｖに包含される詳細な観点が重要なものであるなら，サブクラスＦ２１Ｖにもまた分類する。",
+      "en": "Light sources using semiconductor devices as light-generating elements, e.g. using light-emitting diodes [LED] or lasers; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this group, the following expressions are used with the meaning indicated: <ul><li>&ldquo;light source&rdquo; means a light-generating component intended for installation in a fitting or holder incorporated in a lighting device;</li><li>&rdquo;retrofit light source&rdquo; means a light source comprising substantially the same attachment means as those of incandescent lamps or fluorescent lamps. &ldquo;Retrofit light sources&rdquo; are specially adapted for replacing or substituting such lamps.</li></ul></li><li>Semiconductor devices <u>per se</u>, or assemblies thereof, specially adapted for light emission, e.g. for use in light sources (in the sense of Note (1)) are covered by subclasses <b>H01S</b> (e.g. <b>H01S5/00</b>), <b>H10H</b> (e.g. <b>H10H20/00</b> and <b>H10H29/20</b>) and <b>H10K</b> (e.g. <b>H10K50/00</b> and <b>H10K59/00</b>).</li><li>Lighting devices or systems in which light sources are used are covered by subclasses <b>F21L</b> or <b>F21S</b>.</li><li>When classifying in this group, classification is also made in subclass <b>F21V</b> if detail aspects covered by that subclass are of interest.</li></ul>",
+      "count": 3484,
+      "sourceFile": "ipc_F21K.txt",
+      "kind": "ipc"
+    },
+    "F21K9/20": {
+      "code": "F21K9/20",
+      "level": 1,
+      "parent": "F21K9/00",
+      "ja": "取付手段を備える光源［２０１６．０１］",
+      "en": "Light sources comprising attachment means",
+      "count": 18141,
+      "sourceFile": "ipc_F21K.txt",
+      "kind": "ipc"
+    },
+    "F21K9/23": {
+      "code": "F21K9/23",
+      "level": 2,
+      "parent": "F21K9/20",
+      "ja": "各光源に対して１箇所で取り付けられる照明装置のためのレトロフィット光源，例．バヨネットまたはねじ付き器具備品のある白熱灯の代用のために［２０１６．０１］",
+      "en": "Retrofit light sources for lighting devices with a single fitting for each light source, e.g. for substitution of incandescent lamps with bayonet or threaded fittings",
+      "count": 3749,
+      "sourceFile": "ipc_F21K.txt",
+      "kind": "ipc"
+    },
+    "F21K9/232": {
+      "code": "F21K9/232",
+      "level": 3,
+      "parent": "F21K9/23",
+      "ja": "実質的に全方向に放射する光を生成するために特に適合するもの，例．ガラスバルブのもの［２０１６．０１］",
+      "en": "specially adapted for generating an essentially omnidirectional light distribution, e.g. with a glass bulb",
+      "count": 8705,
+      "sourceFile": "ipc_F21K.txt",
+      "kind": "ipc"
+    },
+    "F21K9/233": {
+      "code": "F21K9/233",
+      "level": 3,
+      "parent": "F21K9/23",
+      "ja": "スポットライト配光の生成に特に適合するもの，例．反射形電球の代用のため［２０１６．０１］",
+      "en": "specially adapted for generating a spot light distribution, e.g. for substitution of reflector lamps",
+      "count": 528,
+      "sourceFile": "ipc_F21K.txt",
+      "kind": "ipc"
+    },
+    "F21K9/235": {
+      "code": "F21K9/235",
+      "level": 3,
+      "parent": "F21K9/23",
+      "ja": "ベースまたはキャップの細部，すなわち，光源を取付部に連結する部分；ベースまたはキャップ内の構成部品の配置（Ｆ２１Ｋ９／２３８が優先）［２０１６．０１］",
+      "en": "Details of bases or caps, i.e. the parts that connect the light source to a fitting; Arrangement of components within bases or caps(<b>F21K9/238</b> takes precedence)",
+      "count": 3891,
+      "sourceFile": "ipc_F21K.txt",
+      "kind": "ipc"
+    },
+    "F21K9/237": {
+      "code": "F21K9/237",
+      "level": 3,
+      "parent": "F21K9/23",
+      "ja": "ハウジングまたはケースの細部，すなわち，発光素子とベースの間の部分；ハウジングまたはケース内の構成部品の配置（Ｆ２１Ｋ９／２３８が優先）［２０１６．０１］",
+      "en": "Details of housings or cases, i.e. the parts between the light-generating element and the bases; Arrangement of components within housings or cases(<b>F21K9/238</b> takes precedence)",
+      "count": 3783,
+      "sourceFile": "ipc_F21K.txt",
+      "kind": "ipc"
+    },
+    "F21K9/238": {
+      "code": "F21K9/238",
+      "level": 3,
+      "parent": "F21K9/23",
+      "ja": "光源の内部に組み込まれる回路素子の配置または取付［２０１６．０１］",
+      "en": "Arrangement or mounting of circuit elements integrated in the light source",
+      "count": 4818,
+      "sourceFile": "ipc_F21K.txt",
+      "kind": "ipc"
+    },
+    "F21K9/27": {
+      "code": "F21K9/27",
+      "level": 2,
+      "parent": "F21K9/20",
+      "ja": "各光源に２箇所で取り付けられる照明装置のレトロフィット光源，例．蛍光管の代用のために［２０１６．０１］",
+      "en": "Retrofit light sources for lighting devices with two fittings for each light source, e.g. for substitution of fluorescent tubes",
+      "count": 3808,
+      "sourceFile": "ipc_F21K.txt",
+      "kind": "ipc"
+    },
+    "F21K9/272": {
+      "code": "F21K9/272",
+      "level": 3,
+      "parent": "F21K9/27",
+      "ja": "末端部の細部，すなわち，光源を取付部に連結する部分；末端部内の構成部品の配置（Ｆ２１Ｋ９／２７８が優先）［２０１６．０１］",
+      "en": "Details of end parts, i.e. the parts that connect the light source to a fitting; Arrangement of components within end parts(<b>F21K9/278</b> takes precedence)",
+      "count": 1769,
+      "sourceFile": "ipc_F21K.txt",
+      "kind": "ipc"
+    },
+    "F21K9/275": {
+      "code": "F21K9/275",
+      "level": 3,
+      "parent": "F21K9/27",
+      "ja": "ベースまたはハウジングの細部，すなわち，発光素子とエンドキャップの間の部分；ベースまたはハウジング内の構成部品の配置（Ｆ２１Ｋ９／２７８が優先）［２０１６．０１］",
+      "en": "Details of bases or housings, i.e. the parts between the light-generating element and the end caps; Arrangement of components within bases or housings(<b>F21K9/278</b> takes precedence)",
+      "count": 1650,
+      "sourceFile": "ipc_F21K.txt",
+      "kind": "ipc"
+    },
+    "F21K9/278": {
+      "code": "F21K9/278",
+      "level": 3,
+      "parent": "F21K9/27",
+      "ja": "光源の内部に組み込まれる回路素子の配置または取付［２０１６．０１］",
+      "en": "Arrangement or mounting of circuit elements integrated in the light source",
+      "count": 1928,
+      "sourceFile": "ipc_F21K.txt",
+      "kind": "ipc"
+    },
+    "F21K9/60": {
+      "code": "F21K9/60",
+      "level": 1,
+      "parent": "F21K9/00",
+      "ja": "光源の内部に組み込まれる光学装置，例．演色評価数または光取り出しの改善のため［２０１６．０１］",
+      "en": "Optical arrangements integrated in the light source, e.g. for improving the colour rendering index or the light extraction",
+      "count": 1612,
+      "sourceFile": "ipc_F21K.txt",
+      "kind": "ipc"
+    },
+    "F21K9/61": {
+      "code": "F21K9/61",
+      "level": 2,
+      "parent": "F21K9/60",
+      "ja": "光ガイドの使用［２０１６．０１］",
+      "en": "using light guides",
+      "count": 1487,
+      "sourceFile": "ipc_F21K.txt",
+      "kind": "ipc"
+    },
+    "F21K9/62": {
+      "code": "F21K9/62",
+      "level": 2,
+      "parent": "F21K9/60",
+      "ja": "混合チャンバの使用，例．反射壁のあるハウジング［２０１６．０１］",
+      "en": "using mixing chambers, e.g. housings with reflective walls",
+      "count": 334,
+      "sourceFile": "ipc_F21K.txt",
+      "kind": "ipc"
+    },
+    "F21K9/64": {
+      "code": "F21K9/64",
+      "level": 2,
+      "parent": "F21K9/60",
+      "ja": "発光素子から独立したまたは離れた所にある波長変換手段の使用，例．離れた蛍光体層，リモート蛍光体層［２０１６．０１］",
+      "en": "using wavelength conversion means distinct or spaced from the light-generating element, e.g. a remote phosphor layer",
+      "count": 2620,
+      "sourceFile": "ipc_F21K.txt",
+      "kind": "ipc"
+    },
+    "F21K9/65": {
+      "code": "F21K9/65",
+      "level": 2,
+      "parent": "F21K9/60",
+      "ja": "光の特徴または配光の変更に特に適合するもの，例．部品の調節［２０１６．０１］",
+      "en": "specially adapted for changing the characteristics or the distribution of the light, e.g. by adjustment of parts",
+      "count": 719,
+      "sourceFile": "ipc_F21K.txt",
+      "kind": "ipc"
+    },
+    "F21K9/66": {
+      "code": "F21K9/66",
+      "level": 2,
+      "parent": "F21K9/60",
+      "ja": "光源の部分を形成するグローブまたはカバーの細部［２０１６．０１］",
+      "en": "Details of globes or covers forming part of the light source",
+      "count": 1625,
+      "sourceFile": "ipc_F21K.txt",
+      "kind": "ipc"
+    },
+    "F21K9/68": {
+      "code": "F21K9/68",
+      "level": 2,
+      "parent": "F21K9/60",
+      "ja": "光源の部分を形成する反射器の細部［２０１６．０１］",
+      "en": "Details of reflectors forming part of the light source",
+      "count": 2811,
+      "sourceFile": "ipc_F21K.txt",
+      "kind": "ipc"
+    },
+    "F21K9/69": {
+      "code": "F21K9/69",
+      "level": 2,
+      "parent": "F21K9/60",
+      "ja": "光源の部分を形成する屈折器の細部［２０１６．０１］",
+      "en": "Details of refractors forming part of the light source",
+      "count": 3308,
+      "sourceFile": "ipc_F21K.txt",
+      "kind": "ipc"
+    },
+    "F21K9/90": {
+      "code": "F21K9/90",
+      "level": 1,
+      "parent": "F21K9/00",
+      "ja": "製造方法［２０１６．０１］",
+      "en": "Methods of manufacture",
+      "count": 3068,
+      "sourceFile": "ipc_F21K.txt",
+      "kind": "ipc"
+    },
+    "F21K99/00": {
+      "code": "F21K99/00",
+      "level": 0,
+      "parent": "F21K",
+      "ja": "このサブクラスの他のグループに分類されない主題事項［２０１０．０１，２０１６．０１］",
+      "en": "Subject matter not provided for in other groups of this subclass",
+      "count": 9702,
+      "sourceFile": "ipc_F21K.txt",
+      "kind": "ipc"
+    }
+  }
+}

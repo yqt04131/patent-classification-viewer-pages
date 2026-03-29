@@ -1,0 +1,1006 @@
+{
+  "generatedAt": "2026-03-20T02:17:45.974Z",
+  "total": 100,
+  "entries": {
+    "A63G": {
+      "code": "A63G",
+      "level": 0,
+      "parent": "A63",
+      "ja": "メリーゴーランド；ぶらんこ；揺動木馬；すべり坂；スイッチバック；一般娯楽用の類似装置<br><br><b><ul>サブクラス内の索引</ul></b><br>回転木馬　１／００～７／００<br>ぶらんこ，シーソー，観覧車　９／００，１１／００，１３／００，２７／００<br>揺動木馬，その他の動物形乗物玩具　１３／００～１９／００<br>すべり坂，滑走台，その類似装置　２１／００，２３／００，２５／００，２９／００<br>その他の一般娯楽装置　３１／００，３３／００",
+      "en": "MERRY-GO-ROUNDS; SWINGS; ROCKING-HORSES; CHUTES; SWITCHBACKS; SIMILAR DEVICES FOR PUBLIC AMUSEMENT; <br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">ROUNDABOUTS </td><td><b><b>1/00 to 7/00</b> </b></td></tr></tr><tr><td width=\"70%\">SWINGS, SEE-SAWS, GREAT WHEELS </td><td><b><b>9/00</b>, <b>11/00</b>, <b>13/00</b>, <b>27/00</b></b></td></tr></tr><tr><td width=\"70%\">ROCKING HORSES, OTHER TOY ANIMALS FOR RIDING </td><td><b><b>13/00 to 19/00</b> </b></td></tr></tr><tr><td width=\"70%\">CHUTES, SLIDES, SIMILAR APPARATUS </td><td><b><b>21/00</b>, <b>23/00</b>, <b>25/00</b>, <b>29/00</b></b></td></tr></tr><tr><td width=\"70%\">OTHER APPARATUS FOR PUBLIC AMUSEMENT </td><td><b><b>31/00</b>, <b>33/00</b></b></td></tr></tr></table>",
+      "count": 591,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A63": {
+      "code": "A63",
+      "level": 0,
+      "parent": "A",
+      "ja": "スポーツ；ゲーム；娯楽",
+      "en": "SPORTS; GAMES; AMUSEMENTS",
+      "count": 0,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A": {
+      "code": "A",
+      "level": 0,
+      "parent": null,
+      "ja": "生活必需品",
+      "en": "HUMAN NECESSITIES",
+      "count": 0,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A63G1/00": {
+      "code": "A63G1/00",
+      "level": 0,
+      "parent": "A63G",
+      "ja": "回転木馬",
+      "en": "Roundabouts",
+      "count": 906,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G1/02": {
+      "code": "A63G1/02",
+      "level": 1,
+      "parent": "A63G1/00",
+      "ja": "仮装トンネルを有するもの",
+      "en": "with masking tunnels",
+      "count": 10,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G1/04": {
+      "code": "A63G1/04",
+      "level": 1,
+      "parent": "A63G1/00",
+      "ja": "トボガンぞりを有するもの",
+      "en": "with toboggans",
+      "count": 9,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G1/06": {
+      "code": "A63G1/06",
+      "level": 1,
+      "parent": "A63G1/00",
+      "ja": "複数個の同心回転台を有するもの",
+      "en": "with several concentric turntables",
+      "count": 44,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G1/08": {
+      "code": "A63G1/08",
+      "level": 1,
+      "parent": "A63G1/00",
+      "ja": "動力駆動のもの",
+      "en": "power-driven",
+      "count": 178,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G1/10": {
+      "code": "A63G1/10",
+      "level": 2,
+      "parent": "A63G1/08",
+      "ja": "電気的に駆動するもの",
+      "en": "electrically driven",
+      "count": 576,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G1/12": {
+      "code": "A63G1/12",
+      "level": 1,
+      "parent": "A63G1/00",
+      "ja": "塔乗者自身が回転させるもの",
+      "en": "rotated by the passengers themselves",
+      "count": 338,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G1/14": {
+      "code": "A63G1/14",
+      "level": 2,
+      "parent": "A63G1/12",
+      "ja": "固定面に足を押圧して回転するものまたは走行により回転するもの",
+      "en": "rotated by pushing the feet against a fixed surface or by running",
+      "count": 104,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G1/16": {
+      "code": "A63G1/16",
+      "level": 2,
+      "parent": "A63G1/12",
+      "ja": "把持輪の操作により回転するもの",
+      "en": "rotated by means of grip-rings",
+      "count": 49,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G1/18": {
+      "code": "A63G1/18",
+      "level": 2,
+      "parent": "A63G1/12",
+      "ja": "オールにより回転するもの",
+      "en": "rotated by oars",
+      "count": 78,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G1/20": {
+      "code": "A63G1/20",
+      "level": 2,
+      "parent": "A63G1/12",
+      "ja": "振動または揺動により回転するもの",
+      "en": "rotated by swinging or rocking",
+      "count": 76,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G1/22": {
+      "code": "A63G1/22",
+      "level": 1,
+      "parent": "A63G1/00",
+      "ja": "座席用２輪車を有するもの",
+      "en": "with bicycles serving as seats",
+      "count": 96,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G1/24": {
+      "code": "A63G1/24",
+      "level": 1,
+      "parent": "A63G1/00",
+      "ja": "水平面内円運動以外の運動をする座席を有するもの",
+      "en": "with seats performing movements in a horizontal plane, other than circular movements",
+      "count": 386,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G1/26": {
+      "code": "A63G1/26",
+      "level": 2,
+      "parent": "A63G1/24",
+      "ja": "水平面内で遊星運動をする座席を有するもの",
+      "en": "with seats moving with a planetary motion in a horizontal plane",
+      "count": 127,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G1/28": {
+      "code": "A63G1/28",
+      "level": 1,
+      "parent": "A63G1/00",
+      "ja": "遠心揺動可能に垂下された座席を有するもの",
+      "en": "with centrifugally-swingable suspended seats",
+      "count": 371,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G1/30": {
+      "code": "A63G1/30",
+      "level": 1,
+      "parent": "A63G1/00",
+      "ja": "上下動をする座席，例．形象を模した座席，を有するもの",
+      "en": "with seats moving up-and-down, e.g. figure-seats",
+      "count": 294,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G1/32": {
+      "code": "A63G1/32",
+      "level": 1,
+      "parent": "A63G1/00",
+      "ja": "シーソーを構成する二つまたはそれ以上の座席を有するもの",
+      "en": "with seats two or more of which form a see-saw",
+      "count": 89,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G1/34": {
+      "code": "A63G1/34",
+      "level": 1,
+      "parent": "A63G1/00",
+      "ja": "波形走行路を動く座席を有するもの",
+      "en": "with seats moving in an undulating track",
+      "count": 192,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G1/36": {
+      "code": "A63G1/36",
+      "level": 1,
+      "parent": "A63G1/00",
+      "ja": "半径方面に動き出ないぶらんこ状可動座席を有するもの",
+      "en": "with movably-mounted swing-like seats not moving radially outwards",
+      "count": 26,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G1/38": {
+      "code": "A63G1/38",
+      "level": 1,
+      "parent": "A63G1/00",
+      "ja": "揺動する回転台を有するもの",
+      "en": "with rocking turntables",
+      "count": 146,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G1/40": {
+      "code": "A63G1/40",
+      "level": 2,
+      "parent": "A63G1/38",
+      "ja": "傾斜支柱を付設したもの",
+      "en": "and oblique masts",
+      "count": 45,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G1/42": {
+      "code": "A63G1/42",
+      "level": 2,
+      "parent": "A63G1/38",
+      "ja": "円錐形状のもの",
+      "en": "cone-like shaped",
+      "count": 19,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G1/44": {
+      "code": "A63G1/44",
+      "level": 1,
+      "parent": "A63G1/00",
+      "ja": "上下動をする回転台を有するもの",
+      "en": "with turntables moved up and down",
+      "count": 179,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G1/46": {
+      "code": "A63G1/46",
+      "level": 2,
+      "parent": "A63G1/44",
+      "ja": "ネジ付スピンドルにより動くもの",
+      "en": "moved by a screw spindle",
+      "count": 17,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G1/48": {
+      "code": "A63G1/48",
+      "level": 1,
+      "parent": "A63G1/00",
+      "ja": "回転台の回転により外側に動く乗物を有する回転木馬",
+      "en": "with turntables and movably-mounted vehicles thereon which move to the outside when the roundabout is rotated",
+      "count": 39,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G3/00": {
+      "code": "A63G3/00",
+      "level": 0,
+      "parent": "A63G",
+      "ja": "水上回転木馬，例．浮動自在体",
+      "en": "Water roundabouts, e.g. freely floating",
+      "count": 452,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G3/02": {
+      "code": "A63G3/02",
+      "level": 1,
+      "parent": "A63G3/00",
+      "ja": "浮動座席を有するもの",
+      "en": "with floating seats",
+      "count": 95,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G3/04": {
+      "code": "A63G3/04",
+      "level": 1,
+      "parent": "A63G3/00",
+      "ja": "水泳者用のもの",
+      "en": "for swimmers",
+      "count": 13,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G3/06": {
+      "code": "A63G3/06",
+      "level": 1,
+      "parent": "A63G3/00",
+      "ja": "潜水回転木馬",
+      "en": "Submarine roundabouts",
+      "count": 44,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G4/00": {
+      "code": "A63G4/00",
+      "level": 0,
+      "parent": "A63G",
+      "ja": "グループＡ６３Ｇ１／００またはＡ６３Ｇ３／００のうちの一つに限定されない回転木馬の付属具",
+      "en": "Accessories for roundabouts not restricted to one of groups <b>A63G1/00</b> or <b>A63G3/00</b>",
+      "count": 165,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G5/00": {
+      "code": "A63G5/00",
+      "level": 0,
+      "parent": "A63G",
+      "ja": "回転木馬に関するゲーム",
+      "en": "Games on roundabouts",
+      "count": 56,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G7/00": {
+      "code": "A63G7/00",
+      "level": 0,
+      "parent": "A63G",
+      "ja": "起伏走路またはスイッチバック",
+      "en": "Up-and-down-hill tracks or switchbacks",
+      "count": 1442,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G9/00": {
+      "code": "A63G9/00",
+      "level": 0,
+      "parent": "A63G",
+      "ja": "ぶらんこ",
+      "en": "Swings",
+      "count": 2619,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G9/02": {
+      "code": "A63G9/02",
+      "level": 1,
+      "parent": "A63G9/00",
+      "ja": "二つの懸下軸を有するもの",
+      "en": "with two suspensory axles",
+      "count": 625,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G9/04": {
+      "code": "A63G9/04",
+      "level": 1,
+      "parent": "A63G9/00",
+      "ja": "運動支点を有するもの",
+      "en": "with moving supporting-points",
+      "count": 143,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G9/06": {
+      "code": "A63G9/06",
+      "level": 1,
+      "parent": "A63G9/00",
+      "ja": "よじ登りぶらんこ",
+      "en": "Climbing swings",
+      "count": 19,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G9/08": {
+      "code": "A63G9/08",
+      "level": 1,
+      "parent": "A63G9/00",
+      "ja": "宙返りぶらんこ",
+      "en": "Looping-the loop swings",
+      "count": 115,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G9/10": {
+      "code": "A63G9/10",
+      "level": 1,
+      "parent": "A63G9/00",
+      "ja": "馬形，ズボン形または類似形の座席を有するもの",
+      "en": "with seats shaped as riding horses, breeches, or the like",
+      "count": 135,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G9/12": {
+      "code": "A63G9/12",
+      "level": 1,
+      "parent": "A63G9/00",
+      "ja": "懸下部の特殊留め金具",
+      "en": "Special fastenings of the suspensory point",
+      "count": 476,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G9/14": {
+      "code": "A63G9/14",
+      "level": 1,
+      "parent": "A63G9/00",
+      "ja": "弾性的に懸下したもの",
+      "en": "elastically suspended",
+      "count": 112,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G9/16": {
+      "code": "A63G9/16",
+      "level": 1,
+      "parent": "A63G9/00",
+      "ja": "ロープ駆動，歯車駆動，ベルト駆動，モーター駆動などの駆動機構",
+      "en": "Driving mechanisms, such as ropes, gear, belt, motor drive",
+      "count": 601,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G9/18": {
+      "code": "A63G9/18",
+      "level": 2,
+      "parent": "A63G9/16",
+      "ja": "揺動する走行体により動くもの",
+      "en": "moved by rocking runners",
+      "count": 34,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G9/20": {
+      "code": "A63G9/20",
+      "level": 2,
+      "parent": "A63G9/16",
+      "ja": "オール付ぶらんこ",
+      "en": "Oar swings",
+      "count": 30,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G9/22": {
+      "code": "A63G9/22",
+      "level": 1,
+      "parent": "A63G9/00",
+      "ja": "制動装置",
+      "en": "Brakes",
+      "count": 82,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G11/00": {
+      "code": "A63G11/00",
+      "level": 0,
+      "parent": "A63G",
+      "ja": "シーソー",
+      "en": "See-saws",
+      "count": 1743,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G13/00": {
+      "code": "A63G13/00",
+      "level": 0,
+      "parent": "A63G",
+      "ja": "ゆりかごブランコ；揺動木馬；類似の地上設置物",
+      "en": "Cradle swings; Rocking-horses; Like devices resting on the ground",
+      "count": 468,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G13/02": {
+      "code": "A63G13/02",
+      "level": 1,
+      "parent": "A63G13/00",
+      "ja": "ゆりかごブランコ",
+      "en": "Cradle swings",
+      "count": 111,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G13/04": {
+      "code": "A63G13/04",
+      "level": 2,
+      "parent": "A63G13/02",
+      "ja": "バネ支持式ゆりかごブランコ",
+      "en": "Spring-supported cradle swings",
+      "count": 33,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G13/06": {
+      "code": "A63G13/06",
+      "level": 1,
+      "parent": "A63G13/00",
+      "ja": "揺動木馬",
+      "en": "Rocking-horses",
+      "count": 941,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G13/08": {
+      "code": "A63G13/08",
+      "level": 2,
+      "parent": "A63G13/06",
+      "ja": "リンクまたはバネ上に設置するもの",
+      "en": "mounted on links or springs",
+      "count": 354,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G13/10": {
+      "code": "A63G13/10",
+      "level": 2,
+      "parent": "A63G13/06",
+      "ja": "転用可能な取外しできる走行体を有するもの",
+      "en": "with dismountable runners usable for other purposes",
+      "count": 122,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G15/00": {
+      "code": "A63G15/00",
+      "level": 0,
+      "parent": "A63G",
+      "ja": "前進運動をする走行体上に設置した揺動木馬",
+      "en": "Rocking horses on runners adapted for progressive movement",
+      "count": 423,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G15/02": {
+      "code": "A63G15/02",
+      "level": 1,
+      "parent": "A63G15/00",
+      "ja": "分割走行体を有するもの",
+      "en": "with divided runners",
+      "count": 44,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G15/04": {
+      "code": "A63G15/04",
+      "level": 1,
+      "parent": "A63G15/00",
+      "ja": "押進装置を有するもの",
+      "en": "with arrangements for pushing forward",
+      "count": 29,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G17/00": {
+      "code": "A63G17/00",
+      "level": 0,
+      "parent": "A63G",
+      "ja": "馬頭付竹馬",
+      "en": "Hobby-horses",
+      "count": 144,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G19/00": {
+      "code": "A63G19/00",
+      "level": 0,
+      "parent": "A63G",
+      "ja": "動物形乗物玩具",
+      "en": "Toy animals for riding",
+      "count": 1150,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G19/02": {
+      "code": "A63G19/02",
+      "level": 1,
+      "parent": "A63G19/00",
+      "ja": "歯止装置を有する車輪によらないで塔乗運動により進むもの",
+      "en": "made to travel by riding movements other than by ratchet wheels",
+      "count": 457,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G19/04": {
+      "code": "A63G19/04",
+      "level": 1,
+      "parent": "A63G19/00",
+      "ja": "偏心輪を有するもの",
+      "en": "with eccentric wheels",
+      "count": 39,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G19/06": {
+      "code": "A63G19/06",
+      "level": 1,
+      "parent": "A63G19/00",
+      "ja": "平行四辺形結合により進む揺動式動物形乗物玩具",
+      "en": "Swingably-mounted toy animals for riding made to travel by means of parallelogram-joints",
+      "count": 43,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G19/08": {
+      "code": "A63G19/08",
+      "level": 1,
+      "parent": "A63G19/00",
+      "ja": "歯止装置を有する車輪，例．脚部屈伸式，により前進するもの",
+      "en": "made to travel by ratchet-wheels, e.g. by stretching the legs",
+      "count": 96,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G19/10": {
+      "code": "A63G19/10",
+      "level": 2,
+      "parent": "A63G19/08",
+      "ja": "座席またはサドルの上下押圧によるもの",
+      "en": "by pressing the seats or saddles up-and-down",
+      "count": 116,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G19/12": {
+      "code": "A63G19/12",
+      "level": 2,
+      "parent": "A63G19/08",
+      "ja": "振動によるもの",
+      "en": "by performing oscillations",
+      "count": 36,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G19/14": {
+      "code": "A63G19/14",
+      "level": 2,
+      "parent": "A63G19/08",
+      "ja": "あぶみまたはペダルを動かすことによるもの",
+      "en": "by moving the stirrups or pedals",
+      "count": 98,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G19/16": {
+      "code": "A63G19/16",
+      "level": 1,
+      "parent": "A63G19/00",
+      "ja": "打つことにより前進するもの",
+      "en": "made to travel by punting",
+      "count": 17,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G19/18": {
+      "code": "A63G19/18",
+      "level": 1,
+      "parent": "A63G19/00",
+      "ja": "一歩づつ前進するもの",
+      "en": "made to travel by pacing",
+      "count": 90,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G19/20": {
+      "code": "A63G19/20",
+      "level": 1,
+      "parent": "A63G19/00",
+      "ja": "モーター駆動によるもの",
+      "en": "motor-driven",
+      "count": 283,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G21/00": {
+      "code": "A63G21/00",
+      "level": 0,
+      "parent": "A63G",
+      "ja": "すべり坂；ヘルタースケルター",
+      "en": "Chutes; Helter-skelters",
+      "count": 1854,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G21/02": {
+      "code": "A63G21/02",
+      "level": 1,
+      "parent": "A63G21/00",
+      "ja": "レールを有しないもの",
+      "en": "without rails",
+      "count": 586,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G21/04": {
+      "code": "A63G21/04",
+      "level": 1,
+      "parent": "A63G21/00",
+      "ja": "固定レールを有するもの",
+      "en": "with fixed rails",
+      "count": 2547,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G21/06": {
+      "code": "A63G21/06",
+      "level": 1,
+      "parent": "A63G21/00",
+      "ja": "車体の通過装置を有するもの",
+      "en": "with passing arrangements for cars",
+      "count": 641,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G21/08": {
+      "code": "A63G21/08",
+      "level": 1,
+      "parent": "A63G21/00",
+      "ja": "車体の付帯的な回転を有するもの",
+      "en": "with additional rotation of cars",
+      "count": 166,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G21/10": {
+      "code": "A63G21/10",
+      "level": 1,
+      "parent": "A63G21/00",
+      "ja": "螺旋状走路を有するもの",
+      "en": "with spiral tracks",
+      "count": 372,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G21/12": {
+      "code": "A63G21/12",
+      "level": 1,
+      "parent": "A63G21/00",
+      "ja": "特殊な車体，例．馬形車体，を有するもの",
+      "en": "with special cars, e.g. horse-shaped",
+      "count": 159,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G21/14": {
+      "code": "A63G21/14",
+      "level": 1,
+      "parent": "A63G21/00",
+      "ja": "駆動滑走路を有するもの",
+      "en": "with driven slideways",
+      "count": 129,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G21/16": {
+      "code": "A63G21/16",
+      "level": 1,
+      "parent": "A63G21/00",
+      "ja": "塔乗者を座席から強制移動させるもの",
+      "en": "with forced removal of the passenger from the seat",
+      "count": 27,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G21/18": {
+      "code": "A63G21/18",
+      "level": 1,
+      "parent": "A63G21/00",
+      "ja": "水上すべり坂",
+      "en": "Water-chutes",
+      "count": 1280,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G21/20": {
+      "code": "A63G21/20",
+      "level": 1,
+      "parent": "A63G21/00",
+      "ja": "可動的に懸下した車体ないしはロープ上を動く車体を有する滑走路，または類似物",
+      "en": "Slideways with movably suspended cars, or with cars moving on ropes, or the like",
+      "count": 494,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G21/22": {
+      "code": "A63G21/22",
+      "level": 1,
+      "parent": "A63G21/00",
+      "ja": "懸下滑走路",
+      "en": "Suspended slideways",
+      "count": 529,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G23/00": {
+      "code": "A63G23/00",
+      "level": 0,
+      "parent": "A63G",
+      "ja": "回転ポット乗物または揺動ポット乗物",
+      "en": "Rotating or rocking pots",
+      "count": 687,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G25/00": {
+      "code": "A63G25/00",
+      "level": 0,
+      "parent": "A63G",
+      "ja": "塔乗者自身が操縦する自動車に似た装置；その走行路",
+      "en": "Autocar-like self-drivers; Runways therefor",
+      "count": 1697,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G27/00": {
+      "code": "A63G27/00",
+      "level": 0,
+      "parent": "A63G",
+      "ja": "ロシア式ぶらんこ；観覧車，例．フェリス観覧車",
+      "en": "Russian swings; Great wheels, e.g. Ferris wheels",
+      "count": 995,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G27/02": {
+      "code": "A63G27/02",
+      "level": 1,
+      "parent": "A63G27/00",
+      "ja": "座席支持体の特殊な運動を伴うもの",
+      "en": "with special movements of the seat-carriers",
+      "count": 175,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G27/04": {
+      "code": "A63G27/04",
+      "level": 1,
+      "parent": "A63G27/00",
+      "ja": "傾動可能の軸を有するもの",
+      "en": "with tiltable axis",
+      "count": 52,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G27/06": {
+      "code": "A63G27/06",
+      "level": 1,
+      "parent": "A63G27/00",
+      "ja": "平面上で回転するもの",
+      "en": "rolling on the level",
+      "count": 19,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G27/08": {
+      "code": "A63G27/08",
+      "level": 1,
+      "parent": "A63G27/00",
+      "ja": "回転木馬に設置したもの",
+      "en": "mounted on roundabouts",
+      "count": 26,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G29/00": {
+      "code": "A63G29/00",
+      "level": 0,
+      "parent": "A63G",
+      "ja": "回転座席を設け，または設けない宙返りドラム",
+      "en": "Rolling drums turning somersaults with or without rolling seats",
+      "count": 173,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G29/02": {
+      "code": "A63G29/02",
+      "level": 1,
+      "parent": "A63G29/00",
+      "ja": "ドラムの底に位置する座席を有するもの",
+      "en": "with seats staying at the bottom of the drum",
+      "count": 46,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G31/00": {
+      "code": "A63G31/00",
+      "level": 0,
+      "parent": "A63G",
+      "ja": "娯楽装置",
+      "en": "Amusement arrangements",
+      "count": 6815,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G31/02": {
+      "code": "A63G31/02",
+      "level": 1,
+      "parent": "A63G31/00",
+      "ja": "運動する基礎構造を有するもの",
+      "en": "with moving substructures",
+      "count": 1808,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G31/04": {
+      "code": "A63G31/04",
+      "level": 2,
+      "parent": "A63G31/02",
+      "ja": "揺動する基礎構造を有するもの",
+      "en": "with jolting substructures",
+      "count": 465,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G31/06": {
+      "code": "A63G31/06",
+      "level": 2,
+      "parent": "A63G31/02",
+      "ja": "波動する基礎構造を有するもの",
+      "en": "with undulatory motion of the substructure",
+      "count": 118,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G31/08": {
+      "code": "A63G31/08",
+      "level": 2,
+      "parent": "A63G31/02",
+      "ja": "基礎構造が環状運動，跳躍運動，投出運動を伴うもの",
+      "en": "with looping, hopping, or throwing motions of the substructure",
+      "count": 209,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G31/10": {
+      "code": "A63G31/10",
+      "level": 2,
+      "parent": "A63G31/02",
+      "ja": "自動階段または同類の基礎構造を有するもの",
+      "en": "with escalators or similar moving substructures",
+      "count": 51,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G31/12": {
+      "code": "A63G31/12",
+      "level": 2,
+      "parent": "A63G31/02",
+      "ja": "膨脹および移動可能な基礎構造を有するもの［２００６．０１］",
+      "en": "with inflatable and movable substructures",
+      "count": 299,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G31/14": {
+      "code": "A63G31/14",
+      "level": 2,
+      "parent": "A63G31/02",
+      "ja": "バネ上に設置した平板を有するもの；可動平板を有するもの",
+      "en": "with planes mounted on springs; with movable planes",
+      "count": 139,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G31/16": {
+      "code": "A63G31/16",
+      "level": 1,
+      "parent": "A63G31/00",
+      "ja": "旅の幻想を創るもの",
+      "en": "creating illusions of travel",
+      "count": 1190,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    },
+    "A63G33/00": {
+      "code": "A63G33/00",
+      "level": 0,
+      "parent": "A63G",
+      "ja": "複数人により競技する装置で，他に分類されないもの",
+      "en": "Devices allowing competitions between several persons, not otherwise provided for",
+      "count": 457,
+      "sourceFile": "ipc_A63G.txt",
+      "kind": "ipc"
+    }
+  }
+}

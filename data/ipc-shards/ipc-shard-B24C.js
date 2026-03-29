@@ -1,0 +1,356 @@
+window.IPC_SHARD_B24C = {
+  "generatedAt": "2026-03-20T02:17:46.123Z",
+  "total": 35,
+  "entries": {
+    "B24C": {
+      "code": "B24C",
+      "level": 0,
+      "parent": "B24",
+      "ja": "粒状物質を用いた研削性のまたはこれに類以のブラスト加工<br><br><b><ul>注</ul></b><br>（１）このサブクラスは，以下のものを包含する：<br>―表面処理または材料切断のために空気，ガスまたは液体に分散しているなんらかの微粒子または小球の吹き付けを用いるもの。なお，微粒子は通常砥材である；<br>―空気流以外の手段により発射されたまたはエネルギー付勢された微粒子または小球の噴射を用いるものに相当するもの<br>（２）このサブクラスにおいては，下記の用語は以下に示す意味で用いる：<br>―“砥粒”は上記注（１）に記された方法で用いられる如何なる物質をも包含する；<br>―“吹き付け”は上記注（１）に記された物質の噴射に相当する如何なるものをも包含する。",
+      "en": "ABRASIVE OR RELATED BLASTING WITH PARTICULATE MATERIAL; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This subclass <u>covers</u>:<ul><li>the use of a blast of any particles or pellets dispersed in air, gas, or liquid for the treatment of surfaces or cutting of materials, the particles usually being of abrasive material;</li><li>the equivalent use of a jet of particles or pellets projected or energised by means other than a stream of air.</li></ul></li><li>In this subclass, the following terms are used with the meanings indicated:<ul><li>\"abrasive\" covers any material used in the manner mentioned in Note (1) above;</li><li>\"blast\" covers any equivalent jet of material mentioned in Note (1) above.</li></ul></li></ul>",
+      "count": 359,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B24": {
+      "code": "B24",
+      "level": 0,
+      "parent": "B",
+      "ja": "研削；研磨<br><br><b><ul>注</ul></b><br>このクラスにおいては，下記の表現は以下に示す意味で用いる：<br>―「研削」は機械加工を意味する最も一般的な意味で用いられる。特に「矯正的な」操作を包含する。",
+      "en": "GRINDING; POLISHING; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this class, the following term is used with the meaning indicated:<ul><li>\"grinding\" is used in its most general sense to mean machining and covers, in particular, \"corrective\" operations.</li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B": {
+      "code": "B",
+      "level": 0,
+      "parent": null,
+      "ja": "処理操作；運輸",
+      "en": "PERFORMING OPERATIONS; TRANSPORTING",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B24C1/00": {
+      "code": "B24C1/00",
+      "level": 0,
+      "parent": "B24C",
+      "ja": "特殊な効果を生ぜしめるために砥粒の吹き付けを用いる方法；そのような方法に関係ある補助装置の使用方法",
+      "en": "Methods for use of abrasive blasting for producing particular effects; Use of auxiliary equipment in connection with such methods",
+      "count": 4801,
+      "sourceFile": "ipc_B24C.txt",
+      "kind": "ipc"
+    },
+    "B24C1/02": {
+      "code": "B24C1/02",
+      "level": 1,
+      "parent": "B24C1/00",
+      "ja": "切削工具を刃砥ぎまたはクリーニングするための方法，例．ヤスリ",
+      "en": "for sharpening or cleaning cutting tools, e.g. files",
+      "count": 225,
+      "sourceFile": "ipc_B24C.txt",
+      "kind": "ipc"
+    },
+    "B24C1/04": {
+      "code": "B24C1/04",
+      "level": 1,
+      "parent": "B24C1/00",
+      "ja": "表面の必要部分のみを処理するための方法，例．石またはガラスの模様づけのためのもの",
+      "en": "for treating only selected parts of a surface, e.g. for carving stone or glass",
+      "count": 4396,
+      "sourceFile": "ipc_B24C.txt",
+      "kind": "ipc"
+    },
+    "B24C1/06": {
+      "code": "B24C1/06",
+      "level": 1,
+      "parent": "B24C1/00",
+      "ja": "つやのない表面を作るための方法，例．プラスチック，ガラスの表面",
+      "en": "for producing matt surfaces, e.g. on plastic materials, on glass",
+      "count": 1308,
+      "sourceFile": "ipc_B24C.txt",
+      "kind": "ipc"
+    },
+    "B24C1/08": {
+      "code": "B24C1/08",
+      "level": 1,
+      "parent": "B24C1/00",
+      "ja": "つやのある表面を作るための方法，例．液体と混合した砥粒を用いることによる方法",
+      "en": "for polishing surfaces, e.g. by making use of liquid-borne abrasives",
+      "count": 8449,
+      "sourceFile": "ipc_B24C.txt",
+      "kind": "ipc"
+    },
+    "B24C1/10": {
+      "code": "B24C1/10",
+      "level": 1,
+      "parent": "B24C1/00",
+      "ja": "表面を引き締める方法，例．ショット・ピーニング（金属板，金属管，または金属プロフィルを変形するためのものＢ２１Ｄ３１／０６；冶金処理としてのものＣ２１Ｄ７／００，Ｃ２２Ｆ１／００）",
+      "en": "for compacting surfaces, e.g. shot-peening(for deforming sheet metal, tubes or profiles <b>B21D31/06</b>; as a metallurgical treatment <b>C21D7/00</b>, <b>C22F1/00</b>)",
+      "count": 3542,
+      "sourceFile": "ipc_B24C.txt",
+      "kind": "ipc"
+    },
+    "B24C3/00": {
+      "code": "B24C3/00",
+      "level": 0,
+      "parent": "B24C",
+      "ja": "砥粒吹き付け機械または装置；プラント",
+      "en": "Abrasive blasting machines or devices; Plants",
+      "count": 3742,
+      "sourceFile": "ipc_B24C.txt",
+      "kind": "ipc"
+    },
+    "B24C3/02": {
+      "code": "B24C3/02",
+      "level": 1,
+      "parent": "B24C3/00",
+      "ja": "互いに関係をもって組合わせられた構成要素の配置により特徴づけられるもの（Ｂ２４Ｃ３／０８，Ｂ２４Ｃ３／１８が優先）",
+      "en": "characterised by the arrangement of the component assemblies with respect to each other(<b>B24C3/08</b>, <b>B24C3/18</b> take precedence)",
+      "count": 4359,
+      "sourceFile": "ipc_B24C.txt",
+      "kind": "ipc"
+    },
+    "B24C3/04": {
+      "code": "B24C3/04",
+      "level": 2,
+      "parent": "B24C3/02",
+      "ja": "据え付けのもの",
+      "en": "stationary",
+      "count": 3485,
+      "sourceFile": "ipc_B24C.txt",
+      "kind": "ipc"
+    },
+    "B24C3/06": {
+      "code": "B24C3/06",
+      "level": 2,
+      "parent": "B24C3/02",
+      "ja": "可動なもの；携帯できるもの",
+      "en": "movable; portable",
+      "count": 3736,
+      "sourceFile": "ipc_B24C.txt",
+      "kind": "ipc"
+    },
+    "B24C3/08": {
+      "code": "B24C3/08",
+      "level": 1,
+      "parent": "B24C3/00",
+      "ja": "移動する台又は移動する工作物の砥粒の吹き付けに実質的に適応するもの",
+      "en": "essentially adapted for abrasive blasting of travelling stock or travelling workpieces",
+      "count": 2318,
+      "sourceFile": "ipc_B24C.txt",
+      "kind": "ipc"
+    },
+    "B24C3/10": {
+      "code": "B24C3/10",
+      "level": 2,
+      "parent": "B24C3/08",
+      "ja": "外面処理のためのもの",
+      "en": "for treating external surfaces",
+      "count": 452,
+      "sourceFile": "ipc_B24C.txt",
+      "kind": "ipc"
+    },
+    "B24C3/12": {
+      "code": "B24C3/12",
+      "level": 3,
+      "parent": "B24C3/10",
+      "ja": "ノズルを用いているもの",
+      "en": "Apparatus using nozzles",
+      "count": 2183,
+      "sourceFile": "ipc_B24C.txt",
+      "kind": "ipc"
+    },
+    "B24C3/14": {
+      "code": "B24C3/14",
+      "level": 3,
+      "parent": "B24C3/10",
+      "ja": "翼車を用いているもの",
+      "en": "Apparatus using impellers",
+      "count": 1678,
+      "sourceFile": "ipc_B24C.txt",
+      "kind": "ipc"
+    },
+    "B24C3/16": {
+      "code": "B24C3/16",
+      "level": 2,
+      "parent": "B24C3/08",
+      "ja": "内面処理のためのもの",
+      "en": "for treating internal surfaces",
+      "count": 468,
+      "sourceFile": "ipc_B24C.txt",
+      "kind": "ipc"
+    },
+    "B24C3/18": {
+      "code": "B24C3/18",
+      "level": 1,
+      "parent": "B24C3/00",
+      "ja": "異なった加工位置に工作物を移動させる手段を備えたもの（Ｂ２４Ｃ３／０８が優先）",
+      "en": "essentially provided with means for moving workpieces into different working positions(<b>B24C3/08</b> takes precedence)",
+      "count": 934,
+      "sourceFile": "ipc_B24C.txt",
+      "kind": "ipc"
+    },
+    "B24C3/20": {
+      "code": "B24C3/20",
+      "level": 2,
+      "parent": "B24C3/18",
+      "ja": "工作物がターンテーブルにより支持されているもの",
+      "en": "the work being supported by turntables",
+      "count": 223,
+      "sourceFile": "ipc_B24C.txt",
+      "kind": "ipc"
+    },
+    "B24C3/22": {
+      "code": "B24C3/22",
+      "level": 3,
+      "parent": "B24C3/20",
+      "ja": "ノズルを用いたもの",
+      "en": "Apparatus using nozzles",
+      "count": 818,
+      "sourceFile": "ipc_B24C.txt",
+      "kind": "ipc"
+    },
+    "B24C3/24": {
+      "code": "B24C3/24",
+      "level": 3,
+      "parent": "B24C3/20",
+      "ja": "翼車を用いたもの",
+      "en": "Apparatus using impellers",
+      "count": 327,
+      "sourceFile": "ipc_B24C.txt",
+      "kind": "ipc"
+    },
+    "B24C3/26": {
+      "code": "B24C3/26",
+      "level": 2,
+      "parent": "B24C3/18",
+      "ja": "たる型容器に工作物を入れているもの，すなわちタンブラ，そのための軸への自在な取付け",
+      "en": "the work being supported by barrel cages, i.e. tumblers; Gimbal mountings therefor",
+      "count": 490,
+      "sourceFile": "ipc_B24C.txt",
+      "kind": "ipc"
+    },
+    "B24C3/28": {
+      "code": "B24C3/28",
+      "level": 3,
+      "parent": "B24C3/26",
+      "ja": "ノズルを用いたもの",
+      "en": "Apparatus using nozzles",
+      "count": 233,
+      "sourceFile": "ipc_B24C.txt",
+      "kind": "ipc"
+    },
+    "B24C3/30": {
+      "code": "B24C3/30",
+      "level": 3,
+      "parent": "B24C3/26",
+      "ja": "翼車を用いたもの",
+      "en": "Apparatus using impellers",
+      "count": 352,
+      "sourceFile": "ipc_B24C.txt",
+      "kind": "ipc"
+    },
+    "B24C3/32": {
+      "code": "B24C3/32",
+      "level": 1,
+      "parent": "B24C3/00",
+      "ja": "特別な工作物の砥粒の吹き付けのためのもの，例．シリンダーブロックの内面のために作られたもの（Ｂ２４Ｃ３／０８，Ｂ２４Ｃ３／１８が優先）",
+      "en": "designed for abrasive blasting of particular work, e.g. the internal surfaces of cylinder blocks(<b>B24C3/08</b>, <b>B24C3/18</b> take precedence)",
+      "count": 4214,
+      "sourceFile": "ipc_B24C.txt",
+      "kind": "ipc"
+    },
+    "B24C3/34": {
+      "code": "B24C3/34",
+      "level": 2,
+      "parent": "B24C3/32",
+      "ja": "スパークプラグのクリーニングのためのもの",
+      "en": "for cleaning sparking plugs",
+      "count": 84,
+      "sourceFile": "ipc_B24C.txt",
+      "kind": "ipc"
+    },
+    "B24C5/00": {
+      "code": "B24C5/00",
+      "level": 0,
+      "parent": "B24C",
+      "ja": "砥粒の吹き付けを生ぜしめる装置または付属装置",
+      "en": "Devices or accessories for generating abrasive blasts",
+      "count": 2250,
+      "sourceFile": "ipc_B24C.txt",
+      "kind": "ipc"
+    },
+    "B24C5/02": {
+      "code": "B24C5/02",
+      "level": 1,
+      "parent": "B24C5/00",
+      "ja": "吹き付けガン，例．材料切断のため高速研削性流体噴射を発生させるためのもの［５］",
+      "en": "Blast guns, e.g. for generating high velocity abrasive fluid jets for cutting materials",
+      "count": 4228,
+      "sourceFile": "ipc_B24C.txt",
+      "kind": "ipc"
+    },
+    "B24C5/04": {
+      "code": "B24C5/04",
+      "level": 2,
+      "parent": "B24C5/02",
+      "ja": "そのためのノズル（ノズル一般Ｂ０５Ｂ）",
+      "en": "Nozzles therefor(nozzles in general <b>B05B</b>)",
+      "count": 4543,
+      "sourceFile": "ipc_B24C.txt",
+      "kind": "ipc"
+    },
+    "B24C5/06": {
+      "code": "B24C5/06",
+      "level": 1,
+      "parent": "B24C5/00",
+      "ja": "翼車；そのための回転羽根",
+      "en": "Impeller wheels; Rotor blades therefor",
+      "count": 1778,
+      "sourceFile": "ipc_B24C.txt",
+      "kind": "ipc"
+    },
+    "B24C5/08": {
+      "code": "B24C5/08",
+      "level": 1,
+      "parent": "B24C5/00",
+      "ja": "非機械的な手段で砥粒の吹き付けを生ぜしめるもの，例．磁場により金属砥粒を吹き付けるもの",
+      "en": "Devices for generating abrasive blasts non-mechanically, e.g. of metallic abrasives by means of a magnetic field",
+      "count": 186,
+      "sourceFile": "ipc_B24C.txt",
+      "kind": "ipc"
+    },
+    "B24C7/00": {
+      "code": "B24C7/00",
+      "level": 0,
+      "parent": "B24C",
+      "ja": "砥材を送る装置；流れを制御する装置；構造，または砥粒の吹き付けを物理的に特徴づける他のもの",
+      "en": "Equipment for feeding abrasive material; Controlling the flowability, constitution, or other physical characteristics of abrasive blasts",
+      "count": 8072,
+      "sourceFile": "ipc_B24C.txt",
+      "kind": "ipc"
+    },
+    "B24C9/00": {
+      "code": "B24C9/00",
+      "level": 0,
+      "parent": "B24C",
+      "ja": "砥粒吹き付け機械または装置の付属装置，例．加工室，砥材を用いた処理のための配置",
+      "en": "Appurtenances of abrasive blasting machines or devices, e.g. working chambers, arrangements for handling used abrasive material",
+      "count": 29181,
+      "sourceFile": "ipc_B24C.txt",
+      "kind": "ipc"
+    },
+    "B24C11/00": {
+      "code": "B24C11/00",
+      "level": 0,
+      "parent": "B24C",
+      "ja": "砥粒の吹き付けのための砥材の選択（つや出し組成物Ｃ０９Ｇ）",
+      "en": "Selection of abrasive materials for abrasive blasts(polishing compositions <b>C09G</b>)",
+      "count": 2957,
+      "sourceFile": "ipc_B24C.txt",
+      "kind": "ipc"
+    }
+  }
+};

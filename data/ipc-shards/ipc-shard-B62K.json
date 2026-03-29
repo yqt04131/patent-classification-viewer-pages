@@ -1,0 +1,1156 @@
+{
+  "generatedAt": "2026-03-20T02:17:46.251Z",
+  "total": 115,
+  "entries": {
+    "B62K": {
+      "code": "B62K",
+      "level": 0,
+      "parent": "B62",
+      "ja": "自転車；自転車のフレーム；自転車操向装置；特に自転車用に適した乗手操作の制御装置；車軸懸架装置；サイドカー，前方に連結する車体，その他これに類するもの<br><br><b><ul>サブクラス内の索引</ul></b><br>自転車の種類<br>形状を特徴とするもの<br>車輪の数：一輪車；二輪車；三輪以上をもつもの　１／００；３／００；５／００<br>原動機をもつもの　１１／００<br>サイドカー，前方に連結する車体　２７／００<br>変換式；折りたたみ式　１３／００；１５／００<br>用途に特徴があるもの：輸送用；子供用　７／００；９／００<br>その他の種類　１７／００<br>自転車の部品<br>フレーム；車軸懸架装置　１９／００；２５／００<br>操向装置；制御装置　２１／００；２３／００",
+      "en": "CYCLES; CYCLE FRAMES; CYCLE STEERING DEVICES; RIDER-OPERATED TERMINAL CONTROLS SPECIALLY ADAPTED FOR CYCLES; CYCLE AXLE SUSPENSIONS; CYCLE SIDECARS, FORECARS, OR THE LIKE; <br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">KINDS OF CYCLES<tr><td width=\"70%\">Characterised by construction:<tr><td width=\"70%\">number of wheels: unicycle; bicycle; with more than two wheels </td><td><b><b>1/00</b>; <b>3/00</b>; <b>5/00</b></b></td></tr></tr><tr><td width=\"70%\">with motor </td><td><b><b>11/00</b></b></td></tr></tr><tr><td width=\"70%\">sidecar, forecar </td><td><b><b>27/00</b></b></td></tr></tr><tr><td width=\"70%\">convertible; foldable </td><td><b><b>13/00</b>; <b>15/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">Characterised by purpose: for transport; for children </td><td><b><b>7/00</b>; <b>9/00</b></b></td></tr></tr><tr><td width=\"70%\">Other kinds </td><td><b><b>17/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">PARTS OF CYCLES<tr><td width=\"70%\">Frame; axle suspension </td><td><b><b>19/00</b>; <b>25/00</b></b></td></tr></tr><tr><td width=\"70%\">Steering; terminal controls </td><td><b><b>21/00</b>; <b>23/00</b></b></td></tr></tr></tr></table>",
+      "count": 2631,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B62": {
+      "code": "B62",
+      "level": 0,
+      "parent": "B",
+      "ja": "鉄道以外の路面車両",
+      "en": "LAND VEHICLES FOR TRAVELLING OTHERWISE THAN ON RAILS",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B": {
+      "code": "B",
+      "level": 0,
+      "parent": null,
+      "ja": "処理操作；運輸",
+      "en": "PERFORMING OPERATIONS; TRANSPORTING",
+      "count": 0,
+      "sourceFile": "ipc_B.txt",
+      "kind": "ipc"
+    },
+    "B62K1/00": {
+      "code": "B62K1/00",
+      "level": 0,
+      "parent": "B62K",
+      "ja": "一輪車",
+      "en": "Unicycles",
+      "count": 1666,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K3/00": {
+      "code": "B62K3/00",
+      "level": 0,
+      "parent": "B62K",
+      "ja": "二輪車",
+      "en": "Bicycles",
+      "count": 8615,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K3/02": {
+      "code": "B62K3/02",
+      "level": 1,
+      "parent": "B62K3/00",
+      "ja": "フレーム（二人乗自転車のフレームＢ６２Ｋ３／１４）",
+      "en": "Frames(tandem frames <b>B62K3/14</b>)",
+      "count": 2191,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K3/04": {
+      "code": "B62K3/04",
+      "level": 2,
+      "parent": "B62K3/02",
+      "ja": "実質的に水平の上パイプをもつもの",
+      "en": "having a substantially-horizontal top bar",
+      "count": 479,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K3/06": {
+      "code": "B62K3/06",
+      "level": 2,
+      "parent": "B62K3/02",
+      "ja": "婦人用",
+      "en": "of open type",
+      "count": 259,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K3/08": {
+      "code": "B62K3/08",
+      "level": 3,
+      "parent": "B62K3/06",
+      "ja": "斜下パイプをもつもの",
+      "en": "having crossing members",
+      "count": 94,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K3/10": {
+      "code": "B62K3/10",
+      "level": 2,
+      "parent": "B62K3/02",
+      "ja": "単一ビーム型，すなわちヘッドパイプが後軸に連結している",
+      "en": "of single-beam type, i.e. connecting steering head to rear axle",
+      "count": 508,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K3/12": {
+      "code": "B62K3/12",
+      "level": 1,
+      "parent": "B62K3/00",
+      "ja": "二人乗用自転車",
+      "en": "Tandems",
+      "count": 343,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K3/14": {
+      "code": "B62K3/14",
+      "level": 2,
+      "parent": "B62K3/12",
+      "ja": "フレーム",
+      "en": "Frames",
+      "count": 119,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K3/16": {
+      "code": "B62K3/16",
+      "level": 1,
+      "parent": "B62K3/00",
+      "ja": "特に身体障害者用に適合するもの",
+      "en": "specially adapted for disabled riders",
+      "count": 240,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K5/00": {
+      "code": "B62K5/00",
+      "level": 0,
+      "parent": "B62K",
+      "ja": "ハンドルバーをもつ自転車で，３つまたはそれ以上の道路用の主車輪を備えた自転車（自転車を安定させるため追加の車輪を装備した支持装置またはスタンドＢ６２Ｈ１／１２）［１，２０１３．０１］",
+      "en": "Cycles with handlebars, equipped with three or more main road wheels(cycle supports or stands equipped with additional wheels for ride stabilisation <b>B62H1/12</b>)",
+      "count": 3095,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K5/003": {
+      "code": "B62K5/003",
+      "level": 1,
+      "parent": "B62K5/00",
+      "ja": "４つまたはそれ以上の車輪をもつ自転車で，身体障害者である乗手に特に適合したもの，例．四輪をもつ個人移動型車両（車椅子Ａ６１Ｇ５／００）［１，２０１３．０１］",
+      "en": "Cycles with four or more wheels, specially adapted for disabled riders, e.g. personal mobility type vehicles with four wheels(wheelchairs <b>A61G5/00</b>)",
+      "count": 233,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K5/007": {
+      "code": "B62K5/007",
+      "level": 2,
+      "parent": "B62K5/003",
+      "ja": "動力駆動のもの［１，２０１３．０１］",
+      "en": "power-driven",
+      "count": 446,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K5/01": {
+      "code": "B62K5/01",
+      "level": 1,
+      "parent": "B62K5/00",
+      "ja": "４つまたはそれ以上の車輪をもつ自動自転車（身体障害者である乗手に特に適合したものＢ６２Ｋ５／００３）［２０１３．０１］",
+      "en": "Motorcycles with four or more wheels (specially adapted for disabled riders <b>B62K5/003</b>)",
+      "count": 2976,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K5/02": {
+      "code": "B62K5/02",
+      "level": 1,
+      "parent": "B62K5/00",
+      "ja": "三輪車（子供用三輪車Ｂ６２Ｋ９／０２）［１，２０１３．０１］",
+      "en": "Tricycles(children's tricycles <b>B62K9/02</b>)",
+      "count": 4424,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K5/023": {
+      "code": "B62K5/023",
+      "level": 2,
+      "parent": "B62K5/02",
+      "ja": "身体障害者である乗手に特に適合したもの，例．三輪をもつ個人移動型車両（車椅子Ａ６１Ｇ５／００）［２０１３．０１］",
+      "en": "specially adapted for disabled riders, e.g. personal mobility type vehicles with three wheels(wheelchairs <b>A61G5/00</b>)",
+      "count": 226,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K5/025": {
+      "code": "B62K5/025",
+      "level": 3,
+      "parent": "B62K5/023",
+      "ja": "動力駆動のもの［２０１３．０１］",
+      "en": "power-driven",
+      "count": 356,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K5/027": {
+      "code": "B62K5/027",
+      "level": 2,
+      "parent": "B62K5/02",
+      "ja": "三輪をもつ自動自転車（身体障害者である乗手に特に適合したものＢ６２Ｋ５／０２３）［２０１３．０１］",
+      "en": "Motorcycles with three wheels(specially adapted for disabled riders <b>B62K5/023</b>)",
+      "count": 3702,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K5/05": {
+      "code": "B62K5/05",
+      "level": 2,
+      "parent": "B62K5/02",
+      "ja": "後輪が単一であることを特徴とするもの［２０１３．０１］",
+      "en": "characterised by a single rear wheel",
+      "count": 1993,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K5/06": {
+      "code": "B62K5/06",
+      "level": 2,
+      "parent": "B62K5/02",
+      "ja": "三輪車用フレーム",
+      "en": "Frames for tricycles",
+      "count": 2352,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K5/08": {
+      "code": "B62K5/08",
+      "level": 1,
+      "parent": "B62K5/00",
+      "ja": "２つまたはそれ以上の車輪に作用する操向装置をもつもの",
+      "en": "with steering devices acting on two or more wheels",
+      "count": 2260,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K5/10": {
+      "code": "B62K5/10",
+      "level": 1,
+      "parent": "B62K5/00",
+      "ja": "旋回時に車体を内側に傾斜させる手段をもつもの［２０１３．０１］",
+      "en": "with means for inwardly inclining the vehicle body on bends",
+      "count": 1064,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K7/00": {
+      "code": "B62K7/00",
+      "level": 0,
+      "parent": "B62K",
+      "ja": "荷物輸送用または客運搬用自転車",
+      "en": "Freight- or passenger-carrying cycles",
+      "count": 1150,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K7/02": {
+      "code": "B62K7/02",
+      "level": 1,
+      "parent": "B62K7/00",
+      "ja": "フレーム",
+      "en": "Frames",
+      "count": 324,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K7/04": {
+      "code": "B62K7/04",
+      "level": 2,
+      "parent": "B62K7/02",
+      "ja": "運搬用の台を有するもの（物品運搬用の付属具Ｂ６２Ｊ７／００～Ｂ６２Ｊ１１／００）",
+      "en": "having a carrying platform(article-carrying accessories <b>B62J7/00 to B62J11/00</b> )",
+      "count": 1968,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K9/00": {
+      "code": "B62K9/00",
+      "level": 0,
+      "parent": "B62K",
+      "ja": "子供用自転車（乗物玩具Ａ６３Ｈ１７／００）",
+      "en": "Children's cycles(toy vehicles <b>A63H17/00</b>)",
+      "count": 4924,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K9/02": {
+      "code": "B62K9/02",
+      "level": 1,
+      "parent": "B62K9/00",
+      "ja": "三輪車",
+      "en": "Tricycles",
+      "count": 3269,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K11/00": {
+      "code": "B62K11/00",
+      "level": 0,
+      "parent": "B62K",
+      "ja": "自動自転車；原動機付自転車；スクーター（フレームの部品でない風防または流線形部品Ｂ６２Ｊ；エンジンから車輪への駆動変速装置Ｂ６２Ｍ）",
+      "en": "Motorcycles, engine-assisted cycles or motor scooters with one or two wheels(fairings or streamlining parts not forming part of the frame <b>B62J</b>; transmission of drive from engines to wheels <b>B62M</b>)",
+      "count": 13294,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K11/02": {
+      "code": "B62K11/02",
+      "level": 1,
+      "parent": "B62K11/00",
+      "ja": "フレーム（エンジンの取付位置に特徴のある自動自転車または補助動力付自転車Ｂ６２Ｍ）",
+      "en": "Frames(motorcycles or cycles with auxiliary engines characterised by position of engine <b>B62M</b>)",
+      "count": 6265,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K11/04": {
+      "code": "B62K11/04",
+      "level": 2,
+      "parent": "B62K11/02",
+      "ja": "前輪と後輪間にエンジンを有することを特徴とするもの",
+      "en": "characterised by the engine being between front and rear wheels",
+      "count": 3958,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K11/06": {
+      "code": "B62K11/06",
+      "level": 3,
+      "parent": "B62K11/04",
+      "ja": "単一ビーム型のフレーム",
+      "en": "the frame being of single-beam type",
+      "count": 312,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K11/08": {
+      "code": "B62K11/08",
+      "level": 4,
+      "parent": "B62K11/06",
+      "ja": "板金で組み立てたビーム，例．燃料タンク壁を形づくるもの",
+      "en": "the beam being fabricated from sheet metal, e.g. forming fuel tank walls",
+      "count": 289,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K11/10": {
+      "code": "B62K11/10",
+      "level": 2,
+      "parent": "B62K11/02",
+      "ja": "駆動後輪のそばまたは上部にエンジンを有するを特徴とするもの",
+      "en": "characterised by the engine being over or beside driven rear wheel",
+      "count": 1314,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K11/12": {
+      "code": "B62K11/12",
+      "level": 1,
+      "parent": "B62K11/00",
+      "ja": "エンジンとの結合を特徴とする操向輪フォーク",
+      "en": "Steering wheel forks characterised by the association therewith of engine",
+      "count": 100,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K11/14": {
+      "code": "B62K11/14",
+      "level": 1,
+      "parent": "B62K11/00",
+      "ja": "ハンドルバーの構造，またはその制御装置および特殊な組合わせ（手操作の制御装置それ自体はＢ６２Ｋ２３／０２）",
+      "en": "Handlebar constructions, or arrangements of controls thereon, specially adapted thereto(hand controls <u>per se</u><b>B62K23/02</b>)",
+      "count": 1946,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K13/00": {
+      "code": "B62K13/00",
+      "level": 0,
+      "parent": "B62K",
+      "ja": "他の形式の自転車または陸上車両に変換または変形できる自転車（変換可能な車両一般Ｂ６０Ｆ５／００；安定乗車のための付加車輪を装備した自転車支持装置またはスタンドＢ６２Ｈ１／１２）",
+      "en": "Cycles convertible to, or transformable into, other types of cycles or land vehicles(convertible vehicles in general <b>B60F5/00</b>; cycle supports or stands equipped with additional wheels for ride stabilisation <b>B62H1/12</b>)",
+      "count": 2174,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K13/02": {
+      "code": "B62K13/02",
+      "level": 1,
+      "parent": "B62K13/00",
+      "ja": "二人乗用へ",
+      "en": "to a tandem",
+      "count": 436,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K13/04": {
+      "code": "B62K13/04",
+      "level": 1,
+      "parent": "B62K13/00",
+      "ja": "三輪車用へ",
+      "en": "to a tricycle",
+      "count": 587,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K13/06": {
+      "code": "B62K13/06",
+      "level": 1,
+      "parent": "B62K13/00",
+      "ja": "四輪自転車に，すなわち自転車を互いに横に並べて結合したもの",
+      "en": "to a quadricycle, e.g. by coupling together two bicycles side by side",
+      "count": 440,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K13/08": {
+      "code": "B62K13/08",
+      "level": 1,
+      "parent": "B62K13/00",
+      "ja": "フレーム",
+      "en": "Frames",
+      "count": 378,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K15/00": {
+      "code": "B62K15/00",
+      "level": 0,
+      "parent": "B62K",
+      "ja": "折りたたみ式，組立て式自転車",
+      "en": "Collapsible or foldable cycles",
+      "count": 19643,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K17/00": {
+      "code": "B62K17/00",
+      "level": 0,
+      "parent": "B62K",
+      "ja": "他に分類されない自転車",
+      "en": "Cycles not otherwise provided for",
+      "count": 5251,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K19/00": {
+      "code": "B62K19/00",
+      "level": 0,
+      "parent": "B62K",
+      "ja": "自転車のフレーム［２００６．０１］<br><br><b><ul>注</ul></b><br>Ｂ６２Ｋ１／００～Ｂ６２Ｋ１７／００のグループに分類される特殊な種類の自転車用のフレームについては，関連グループを参照のこと。［２０２５．０１］",
+      "en": "Cycle frames ; <br><br><b><u>Note(s)</u></b><br><br><ul><li>Cycle frames specially adapted for one particular kind of cycle specified in groups <b>B62K1/00 to B62K17/00</b> , see the relevant group.</li></ul>",
+      "count": 3099,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K19/02": {
+      "code": "B62K19/02",
+      "level": 1,
+      "parent": "B62K19/00",
+      "ja": "フレームの材質または横断面を特徴とするもの",
+      "en": "characterised by material or cross-section of frame members",
+      "count": 1103,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K19/04": {
+      "code": "B62K19/04",
+      "level": 2,
+      "parent": "B62K19/02",
+      "ja": "材質がほとんどまたは主として金属性のもの，例．として高弾性体",
+      "en": "the material being wholly or mainly metallic, e.g. of high elasticity",
+      "count": 324,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K19/06": {
+      "code": "B62K19/06",
+      "level": 3,
+      "parent": "B62K19/04",
+      "ja": "管状のもの",
+      "en": "tubular",
+      "count": 1149,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K19/08": {
+      "code": "B62K19/08",
+      "level": 3,
+      "parent": "B62K19/04",
+      "ja": "板金製",
+      "en": "made from sheet",
+      "count": 321,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K19/10": {
+      "code": "B62K19/10",
+      "level": 3,
+      "parent": "B62K19/04",
+      "ja": "管と板金との結合製",
+      "en": "Combinations of tube and sheet",
+      "count": 162,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K19/12": {
+      "code": "B62K19/12",
+      "level": 3,
+      "parent": "B62K19/04",
+      "ja": "鋳物部材をもつもの",
+      "en": "having cast members",
+      "count": 303,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K19/14": {
+      "code": "B62K19/14",
+      "level": 2,
+      "parent": "B62K19/02",
+      "ja": "材質がほとんどまたは主に木のもの",
+      "en": "the material being wholly or mainly wood",
+      "count": 90,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K19/16": {
+      "code": "B62K19/16",
+      "level": 2,
+      "parent": "B62K19/02",
+      "ja": "材質がほとんどまたは主にプラスチックのもの",
+      "en": "the material being wholly or mainly of plastics",
+      "count": 826,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K19/18": {
+      "code": "B62K19/18",
+      "level": 1,
+      "parent": "B62K19/00",
+      "ja": "フレーム部材の結合",
+      "en": "Joints between frame members",
+      "count": 1845,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K19/20": {
+      "code": "B62K19/20",
+      "level": 2,
+      "parent": "B62K19/18",
+      "ja": "溶接，はんだ，または真ちゅうろう付け",
+      "en": "welded, soldered, or brazed",
+      "count": 864,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K19/22": {
+      "code": "B62K19/22",
+      "level": 2,
+      "parent": "B62K19/18",
+      "ja": "接着剤結合",
+      "en": "Adhesive joints",
+      "count": 293,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K19/24": {
+      "code": "B62K19/24",
+      "level": 2,
+      "parent": "B62K19/18",
+      "ja": "ねじ結合",
+      "en": "Screwed joints",
+      "count": 704,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K19/26": {
+      "code": "B62K19/26",
+      "level": 2,
+      "parent": "B62K19/18",
+      "ja": "リベット結合",
+      "en": "Riveted joints",
+      "count": 33,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K19/28": {
+      "code": "B62K19/28",
+      "level": 2,
+      "parent": "B62K19/18",
+      "ja": "結合強度を増す手段",
+      "en": "Means for strengthening joints",
+      "count": 429,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K19/30": {
+      "code": "B62K19/30",
+      "level": 1,
+      "parent": "B62K19/00",
+      "ja": "他の自転車部品または付属品を受けるためのフレーム部品（車軸懸架装置Ｂ６２Ｋ２５／００）",
+      "en": "Frame parts shaped to receive other cycle parts or accessories(axle suspensions <b>B62K25/00</b>)",
+      "count": 4479,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K19/32": {
+      "code": "B62K19/32",
+      "level": 2,
+      "parent": "B62K19/30",
+      "ja": "ステアリングヘッド（軸受Ｂ６２Ｋ２１／０６）",
+      "en": "Steering heads(bearings therefor <b>B62K21/06</b>)",
+      "count": 934,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K19/34": {
+      "code": "B62K19/34",
+      "level": 2,
+      "parent": "B62K19/30",
+      "ja": "ボトムブラケット",
+      "en": "Bottom brackets",
+      "count": 1104,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K19/36": {
+      "code": "B62K19/36",
+      "level": 2,
+      "parent": "B62K19/30",
+      "ja": "サドルポストを取り付けるためのもの，例．サドルポスト調節装置",
+      "en": "for attaching saddle pillars, e.g. adjustable during ride",
+      "count": 2250,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K19/38": {
+      "code": "B62K19/38",
+      "level": 2,
+      "parent": "B62K19/30",
+      "ja": "ブレーキ部材を取付けるためのもの",
+      "en": "for attaching brake members",
+      "count": 1142,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K19/40": {
+      "code": "B62K19/40",
+      "level": 2,
+      "parent": "B62K19/30",
+      "ja": "付属品，例．荷物台，ランプ，を取付けるためのもの",
+      "en": "for attaching accessories, e.g. article carriers, lamps",
+      "count": 2172,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K19/42": {
+      "code": "B62K19/42",
+      "level": 3,
+      "parent": "B62K19/40",
+      "ja": "タイヤポンプ取付け用のもの（フレームの一部分を構成しない取付装置Ｂ６２Ｊ１１／０２）",
+      "en": "for tyre pumps(attachment devices not forming part of frame <b>B62J11/02</b>)",
+      "count": 337,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K19/44": {
+      "code": "B62K19/44",
+      "level": 1,
+      "parent": "B62K19/00",
+      "ja": "フレームの一部を構成するチエーンカバー（チエーンカバーそれ自体はＢ６２Ｊ１３／００）",
+      "en": "Chain-guards forming part of frame(chain-guards <u>per se</u><b>B62J13/00</b>)",
+      "count": 86,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K19/46": {
+      "code": "B62K19/46",
+      "level": 1,
+      "parent": "B62K19/00",
+      "ja": "フレームの一部を構成する荷物台（荷物台それ自体はＢ６２Ｊ７／００）",
+      "en": "Luggage carriers forming part of frame(luggage carriers <u>per se</u><b>B62J7/00</b>)",
+      "count": 535,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K19/48": {
+      "code": "B62K19/48",
+      "level": 1,
+      "parent": "B62K19/00",
+      "ja": "フレームの一部を形成する流線形部分",
+      "en": "Fairings forming part of frame",
+      "count": 220,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K21/00": {
+      "code": "B62K21/00",
+      "level": 0,
+      "parent": "B62K",
+      "ja": "操向装置［２００６．０１］<br><br><b><ul>注</ul></b><br>特に自転車の特殊の部分と適合した操向装置はＢ６２Ｋ１／００～Ｂ６２Ｋ１７／００に分類される，関連グループを参照のこと。［２０２５．０１］",
+      "en": "Steering devices; <br><br><b><u>Note(s)</u></b><br><br><ul><li>Steering devices specially adapted for one particular kind of cycle specified in groups <b>B62K1/00 to B62K17/00</b> , see the relevant group.</li></ul>",
+      "count": 4335,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K21/02": {
+      "code": "B62K21/02",
+      "level": 1,
+      "parent": "B62K21/00",
+      "ja": "前フォークまたは同等のもの，例．一本フォーク",
+      "en": "Front wheel forks or equivalent, e.g. single tine",
+      "count": 3487,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K21/04": {
+      "code": "B62K21/04",
+      "level": 1,
+      "parent": "B62K21/00",
+      "ja": "フォークラッグ",
+      "en": "Fork crowns",
+      "count": 575,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K21/06": {
+      "code": "B62K21/06",
+      "level": 1,
+      "parent": "B62K21/00",
+      "ja": "特にステアリングヘッドに適合した軸受（一般の軸受Ｆ１６Ｃ）",
+      "en": "Bearings specially adapted for steering heads(bearings in general <b>F16C</b>)",
+      "count": 993,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K21/08": {
+      "code": "B62K21/08",
+      "level": 1,
+      "parent": "B62K21/00",
+      "ja": "ステアリングダンパー（一般の緩衝装置Ｆ１６Ｆ）",
+      "en": "Steering dampers(dampers in general <b>F16F</b>)",
+      "count": 2053,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K21/10": {
+      "code": "B62K21/10",
+      "level": 1,
+      "parent": "B62K21/00",
+      "ja": "転向位置を正常位置へ復帰させる機構",
+      "en": "Mechanisms for restoring steering device to straight-ahead position",
+      "count": 357,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K21/12": {
+      "code": "B62K21/12",
+      "level": 1,
+      "parent": "B62K21/00",
+      "ja": "ハンドルバー；ハンドルポスト",
+      "en": "Handlebars; Handlebar stems",
+      "count": 5930,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K21/14": {
+      "code": "B62K21/14",
+      "level": 2,
+      "parent": "B62K21/12",
+      "ja": "それらの中に緩衝部材をもつもの",
+      "en": "having resilient parts therein",
+      "count": 889,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K21/16": {
+      "code": "B62K21/16",
+      "level": 2,
+      "parent": "B62K21/12",
+      "ja": "それらの中に調整部材をもつもの",
+      "en": "having adjustable parts therein",
+      "count": 4652,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K21/18": {
+      "code": "B62K21/18",
+      "level": 1,
+      "parent": "B62K21/00",
+      "ja": "フォークとハンドルバーまたはハンドルポストとの結合装置",
+      "en": "Connections between forks and handlebars or handlebar stems",
+      "count": 2333,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K21/20": {
+      "code": "B62K21/20",
+      "level": 2,
+      "parent": "B62K21/18",
+      "ja": "緩衝性のあるもの",
+      "en": "resilient",
+      "count": 583,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K21/22": {
+      "code": "B62K21/22",
+      "level": 2,
+      "parent": "B62K21/18",
+      "ja": "調整可能なもの",
+      "en": "adjustable",
+      "count": 1193,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K21/24": {
+      "code": "B62K21/24",
+      "level": 2,
+      "parent": "B62K21/18",
+      "ja": "すばやく分解しやすくしたもの",
+      "en": "readily releasable",
+      "count": 384,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K21/26": {
+      "code": "B62K21/26",
+      "level": 1,
+      "parent": "B62K21/00",
+      "ja": "ハンドルバーの握り（ねじり握りＢ６２Ｋ２３／０４）",
+      "en": "Handlebar grips(twist grips <b>B62K23/04</b>)",
+      "count": 4291,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K23/00": {
+      "code": "B62K23/00",
+      "level": 0,
+      "parent": "B62K",
+      "ja": "特に自転車用に適した乗手操作の制御装置，すなわち制御操作の初動装置，例．レバー，グリップ（特にブレーキ機構に適合したものＢ６２Ｌ３／００）",
+      "en": "Rider-operated controls specially adapted for cycles, i.e. means for initiating control operations, e.g. levers, grips(specially adapted to cycle brake mechanisms <b>B62L3/00</b>)",
+      "count": 709,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K23/02": {
+      "code": "B62K23/02",
+      "level": 1,
+      "parent": "B62K23/00",
+      "ja": "手で操作するもの（自動自転車のハンドルバーに設けられた制御装置Ｂ６２Ｋ１１／１４）",
+      "en": "hand-actuated(arrangements of controls on handle-bars of engine-driven cycles <b>B62K11/14</b>)",
+      "count": 2448,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K23/04": {
+      "code": "B62K23/04",
+      "level": 2,
+      "parent": "B62K23/02",
+      "ja": "ねじり握り",
+      "en": "Twist grips",
+      "count": 2058,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K23/06": {
+      "code": "B62K23/06",
+      "level": 2,
+      "parent": "B62K23/02",
+      "ja": "レバー",
+      "en": "Levers",
+      "count": 2294,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K23/08": {
+      "code": "B62K23/08",
+      "level": 1,
+      "parent": "B62K23/00",
+      "ja": "足で操作するもの",
+      "en": "foot-actuated",
+      "count": 822,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K25/00": {
+      "code": "B62K25/00",
+      "level": 0,
+      "parent": "B62K",
+      "ja": "車軸懸架装置（一般車両用Ｂ６０Ｇ）",
+      "en": "Axle suspensions(for vehicles in general <b>B60G</b>)",
+      "count": 1254,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K25/02": {
+      "code": "B62K25/02",
+      "level": 1,
+      "parent": "B62K25/00",
+      "ja": "車軸を自転車フレームまたはフォークに固定して支持するもの，例．調整可能なもの",
+      "en": "for mounting axles rigidly on cycle frame or fork, e.g. adjustably",
+      "count": 2011,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K25/04": {
+      "code": "B62K25/04",
+      "level": 1,
+      "parent": "B62K25/00",
+      "ja": "車軸を自転車フレームまたはフォークに弾性的に支持するもの（サイドカー，前方に連結するものまたはこれに類するもの用Ｂ６２Ｋ２７／０６）",
+      "en": "for mounting axles resiliently on cycle frame or fork(for sidecars, forecars, or the like <b>B62K27/06</b>)",
+      "count": 6790,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K25/06": {
+      "code": "B62K25/06",
+      "level": 2,
+      "parent": "B62K25/04",
+      "ja": "テレスコピックフォークをもつもの，例．補助揺動腕を含むもの",
+      "en": "with telescopic fork, e.g. including auxiliary rocking arms",
+      "count": 699,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K25/08": {
+      "code": "B62K25/08",
+      "level": 3,
+      "parent": "B62K25/06",
+      "ja": "前輪用",
+      "en": "for front wheel",
+      "count": 4853,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K25/10": {
+      "code": "B62K25/10",
+      "level": 3,
+      "parent": "B62K25/06",
+      "ja": "後輪用",
+      "en": "for rear wheel",
+      "count": 1523,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K25/12": {
+      "code": "B62K25/12",
+      "level": 2,
+      "parent": "B62K25/04",
+      "ja": "二つのフォーク脚上に枢着した揺動腕をもつもの（テレスコピックフォークと結合したものＢ６２Ｋ２５／０６）",
+      "en": "with rocking arm pivoted on each fork leg(in combination with telescopic fork <b>B62K25/06</b>)",
+      "count": 342,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K25/14": {
+      "code": "B62K25/14",
+      "level": 3,
+      "parent": "B62K25/12",
+      "ja": "各々のフォーク脚上に単一の腕をもつもの",
+      "en": "with single arm on each fork leg",
+      "count": 189,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K25/16": {
+      "code": "B62K25/16",
+      "level": 4,
+      "parent": "B62K25/14",
+      "ja": "前輪用",
+      "en": "for front wheel",
+      "count": 824,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K25/18": {
+      "code": "B62K25/18",
+      "level": 5,
+      "parent": "B62K25/16",
+      "ja": "腕がその中間において枢着されているもの",
+      "en": "the arm being pivoted intermediate its ends",
+      "count": 65,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K25/20": {
+      "code": "B62K25/20",
+      "level": 4,
+      "parent": "B62K25/14",
+      "ja": "後輪用",
+      "en": "for rear wheel",
+      "count": 1900,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K25/22": {
+      "code": "B62K25/22",
+      "level": 3,
+      "parent": "B62K25/12",
+      "ja": "各々のフォーク脚に二つ以上の腕をもつもの",
+      "en": "with more than one arm on each fork leg",
+      "count": 121,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K25/24": {
+      "code": "B62K25/24",
+      "level": 4,
+      "parent": "B62K25/22",
+      "ja": "前輪用",
+      "en": "for front wheel",
+      "count": 899,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K25/26": {
+      "code": "B62K25/26",
+      "level": 4,
+      "parent": "B62K25/22",
+      "ja": "後輪用",
+      "en": "for rear wheel",
+      "count": 889,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K25/28": {
+      "code": "B62K25/28",
+      "level": 2,
+      "parent": "B62K25/04",
+      "ja": "枢着されたチェーンステーをもつもの",
+      "en": "with pivoted chain-stay",
+      "count": 2234,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K25/30": {
+      "code": "B62K25/30",
+      "level": 3,
+      "parent": "B62K25/28",
+      "ja": "ペダルクランクハンガーに枢着したもの（Ｂ６２Ｋ２５／３２が優先）",
+      "en": "pivoted on pedal crank shelf(<b>B62K25/32</b> takes precedence)",
+      "count": 468,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K25/32": {
+      "code": "B62K25/32",
+      "level": 3,
+      "parent": "B62K25/28",
+      "ja": "チエーンカバーを構成するチエーンステー",
+      "en": "the chain-stay forming a chain-guard",
+      "count": 55,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K27/00": {
+      "code": "B62K27/00",
+      "level": 0,
+      "parent": "B62K",
+      "ja": "サイドカー；前方に連結する車体またはそれに類似のもの（推進装置に特徴をもつものＢ６２Ｍ；トレイラーＢ６０Ｐ，Ｂ６２Ｄ）",
+      "en": "Sidecars; Forecars or the like(trailers <b>B60P</b>, <b>B62D</b>; characterised by carrying propulsion engine <b>B62M</b>)",
+      "count": 1227,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K27/02": {
+      "code": "B62K27/02",
+      "level": 1,
+      "parent": "B62K27/00",
+      "ja": "フレーム",
+      "en": "Frames",
+      "count": 785,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K27/04": {
+      "code": "B62K27/04",
+      "level": 1,
+      "parent": "B62K27/00",
+      "ja": "車体；形状",
+      "en": "Car bodies; Fairings",
+      "count": 227,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K27/06": {
+      "code": "B62K27/06",
+      "level": 1,
+      "parent": "B62K27/00",
+      "ja": "弾性的車軸支持装置",
+      "en": "Resilient axle suspension",
+      "count": 194,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K27/08": {
+      "code": "B62K27/08",
+      "level": 1,
+      "parent": "B62K27/00",
+      "ja": "フレーム上の弾性的車体支持装置",
+      "en": "Resilient car-body suspension on frame",
+      "count": 77,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K27/10": {
+      "code": "B62K27/10",
+      "level": 1,
+      "parent": "B62K27/00",
+      "ja": "他の構成部品または附属品",
+      "en": "Other component parts or accessories",
+      "count": 310,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K27/12": {
+      "code": "B62K27/12",
+      "level": 2,
+      "parent": "B62K27/10",
+      "ja": "車体取付けのための連結部品；それの装置",
+      "en": "Coupling parts for attaching cars or the like to cycle; Arrangements thereof",
+      "count": 1201,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K27/14": {
+      "code": "B62K27/14",
+      "level": 3,
+      "parent": "B62K27/12",
+      "ja": "弾性的連結部材",
+      "en": "Resilient coupling parts",
+      "count": 114,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    },
+    "B62K27/16": {
+      "code": "B62K27/16",
+      "level": 2,
+      "parent": "B62K27/10",
+      "ja": "車蓋；雨覆い，例．風防",
+      "en": "Hoods; Weather-guards, e.g. windscreens",
+      "count": 235,
+      "sourceFile": "ipc_B62K.txt",
+      "kind": "ipc"
+    }
+  }
+}

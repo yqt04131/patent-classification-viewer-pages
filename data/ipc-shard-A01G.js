@@ -1,0 +1,1806 @@
+window.IPC_SHARD_A01G = {
+  "generatedAt": "2026-03-20T02:17:45.855Z",
+  "total": 180,
+  "entries": {
+    "A01G": {
+      "code": "A01G",
+      "level": 0,
+      "parent": "A01",
+      "ja": "園芸；野菜，花，稲，果樹，ぶどう，ホップ，または海草の栽培；林業；灌水（果実，野菜，ホップまたは類似のものの摘み取りＡ０１Ｄ４６／００；単細胞藻類培養Ｃ１２Ｎ１／１２）<br><br><b><ul>サブクラス内の索引</ul></b><br>栽培一般　<br>繁殖　２／００<br>園芸に特に適合した切り取り用具；立木の枝払い　３／００<br>植物生態一般　７／００<br>容器，温床または温室での栽培；植栽床，芝生または類似のものの縁取り　９／００<br>ホップ，ぶどう，果樹または類似の樹木の栽培　１７／００<br>きのこの栽培　１８／００<br>芝，芝生または類似のものの栽培；そのための装置または方法　２０／００<br>他に分類されない特定の作物または植物の栽培　２２／００<br>生育基質；培地；そのための装置または方法　２４／００<br>土なし栽培　３１／００<br>海草の栽培　３３／００<br>植物の保護　１１／００，１３／００，１５／００<br>花の摘取りまたは取扱い，果樹の取扱い　３／００，５／００<br>林業　２３／００<br>灌水　２５／００，２７／００，２９／００",
+      "en": "HORTICULTURE; CULTIVATION OF VEGETABLES, FLOWERS, RICE, FRUIT, VINES, HOPS OR SEAWEED; FORESTRY; WATERING(picking of fruits, vegetables, hops or the like <b>A01D46/00</b>;  propagating unicellular algae <b>C12N1/12</b>);<br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">CULTIVATION IN GENERAL<tr><td width=\"70%\">Vegetative propagation</td><td><b><b>2/00</b></b></td></tr></tr><tr><td width=\"70%\">Cutting implements specially adapted for horticultural purposes; Delimbing standing trees</td><td><b><b>3/00</b></b></td></tr></tr><tr><td width=\"70%\">Botany in general</td><td><b><b>7/00</b></b></td></tr></tr><tr><td width=\"70%\">Cultivation in receptacles, forcing-frames or greenhouses; Edging for beds, lawn or the like</td><td><b><b>9/00</b></b></td></tr></tr><tr><td width=\"70%\">Cultivation of hops, vines, fruit trees, or like trees</td><td><b><b>17/00</b></b></td></tr></tr><tr><td width=\"70%\">Cultivation of mushrooms</td><td><b><b>18/00</b></b></td></tr></tr><tr><td width=\"70%\">Cultivation of turf, lawn or the like; Apparatus or methods therefor</td><td><b><b>20/00</b></b></td></tr></tr><tr><td width=\"70%\">Cultivation of specific crops or plants not otherwise provided for</td><td><b><b>22/00</b></b></td></tr></tr><tr><td width=\"70%\">Growth substrates; Culture media; Apparatus or methods therefor</td><td><b><b>24/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">SOILLESS CULTIVATION</td><td><b><b>31/00</b></b></td></tr></tr><tr><td width=\"70%\">CULTIVATION OF SEAWEED</td><td><b><b>33/00</b></b></td></tr></tr><tr><td width=\"70%\">PROTECTION OF PLANTS</td><td><b><b>11/00</b>, <b>13/00</b>, <b>15/00</b></b></td></tr></tr><tr><td width=\"70%\">PICKING OR HANDLING FLOWERS, HANDLING FRUIT</td><td><b><b>3/00</b>, <b>5/00</b></b></td></tr></tr><tr><td width=\"70%\">FORESTRY</td><td><b><b>23/00</b></b></td></tr></tr><tr><td width=\"70%\">WATERING</td><td><b><b>25/00</b>, <b>27/00</b>, <b>29/00</b></b></td></tr></tr></table>",
+      "count": 5199,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A01": {
+      "code": "A01",
+      "level": 0,
+      "parent": "A",
+      "ja": "農業；林業；畜産；狩猟；捕獲；漁業",
+      "en": "AGRICULTURE; FORESTRY; ANIMAL HUSBANDRY; HUNTING; TRAPPING; FISHING",
+      "count": 0,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A": {
+      "code": "A",
+      "level": 0,
+      "parent": null,
+      "ja": "生活必需品",
+      "en": "HUMAN NECESSITIES",
+      "count": 0,
+      "sourceFile": "ipc_A.txt",
+      "kind": "ipc"
+    },
+    "A01G2/00": {
+      "code": "A01G2/00",
+      "level": 0,
+      "parent": "A01G",
+      "ja": "繁殖（組織培養技術による植物の増殖Ａ０１Ｈ４／００）［２０１８．０１］",
+      "en": "Vegetative propagation (plant reproduction by tissue culture techniques <b>A01H4/00</b>)",
+      "count": 890,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G2/10": {
+      "code": "A01G2/10",
+      "level": 1,
+      "parent": "A01G2/00",
+      "ja": "さし木によるもの［２０１８．０１］",
+      "en": "by means of cuttings",
+      "count": 4454,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G2/20": {
+      "code": "A01G2/20",
+      "level": 1,
+      "parent": "A01G2/00",
+      "ja": "取り木［２０１８．０１］",
+      "en": "Layering",
+      "count": 301,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G2/30": {
+      "code": "A01G2/30",
+      "level": 1,
+      "parent": "A01G2/00",
+      "ja": "接ぎ木（接ぎ木用ワックスＡ０１Ｎ３／０４）［２０１８．０１］",
+      "en": "Grafting (grafting-wax <b>A01N3/04</b>)",
+      "count": 4304,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G2/32": {
+      "code": "A01G2/32",
+      "level": 2,
+      "parent": "A01G2/30",
+      "ja": "そのための自動装置［２０１８．０１］",
+      "en": "Automatic apparatus therefor",
+      "count": 355,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G2/35": {
+      "code": "A01G2/35",
+      "level": 2,
+      "parent": "A01G2/30",
+      "ja": "切断；差し込み［２０１８．０１］",
+      "en": "Cutting; Inserting",
+      "count": 1612,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G2/38": {
+      "code": "A01G2/38",
+      "level": 2,
+      "parent": "A01G2/30",
+      "ja": "挟着；巻締［２０１８．０１］",
+      "en": "Holding; Ligating",
+      "count": 1841,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G3/00": {
+      "code": "A01G3/00",
+      "level": 0,
+      "parent": "A01G",
+      "ja": "園芸に特に適合した切り取り用具；立木の枝払い（林業用枝払装置Ａ０１Ｇ２３／０９５）［２００６．０１］",
+      "en": "Cutting implements specially adapted for horticultural purposes; Delimbing standing trees(forestry delimbers <b>A01G23/095</b>)",
+      "count": 5979,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G3/02": {
+      "code": "A01G3/02",
+      "level": 1,
+      "parent": "A01G3/00",
+      "ja": "剪定鋏；花または果実鋏［２００６．０１］",
+      "en": "Secateurs; Flower or fruit shears",
+      "count": 5731,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G3/025": {
+      "code": "A01G3/025",
+      "level": 2,
+      "parent": "A01G3/02",
+      "ja": "延長した柄のあるもの［２００６．０１］",
+      "en": "having elongated or extended handles",
+      "count": 3341,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G3/033": {
+      "code": "A01G3/033",
+      "level": 2,
+      "parent": "A01G3/02",
+      "ja": "モーター作動の刃がついたもの［２００６．０１］",
+      "en": "having motor-driven blades",
+      "count": 1091,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G3/037": {
+      "code": "A01G3/037",
+      "level": 3,
+      "parent": "A01G3/033",
+      "ja": "作動手段が電気モーターであるもの［２００６．０１］",
+      "en": "the driving means being an electric motor",
+      "count": 1773,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G3/04": {
+      "code": "A01G3/04",
+      "level": 1,
+      "parent": "A01G3/00",
+      "ja": "生垣刈り込み用具，例．生垣用大鋏［２００６．０１］",
+      "en": "Apparatus for trimming hedges, e.g. hedge shears",
+      "count": 5009,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G3/047": {
+      "code": "A01G3/047",
+      "level": 2,
+      "parent": "A01G3/04",
+      "ja": "携帯用［２００６．０１］",
+      "en": "portable",
+      "count": 496,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G3/053": {
+      "code": "A01G3/053",
+      "level": 3,
+      "parent": "A01G3/047",
+      "ja": "モーター作動［２００６．０１］",
+      "en": "motor-driven",
+      "count": 1743,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G3/06": {
+      "code": "A01G3/06",
+      "level": 1,
+      "parent": "A01G3/00",
+      "ja": "手持ち式エッジトリマーまたは芝用鋏［２００６．０１］",
+      "en": "Hand-held edge trimmers or shears for lawns ",
+      "count": 2213,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G3/08": {
+      "code": "A01G3/08",
+      "level": 1,
+      "parent": "A01G3/00",
+      "ja": "立木の刈り込み，枝切りまたは枝払いのためのその他の用具［２００６．０１］",
+      "en": "Other tools for pruning, branching or delimbing standing trees",
+      "count": 15599,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G5/00": {
+      "code": "A01G5/00",
+      "level": 0,
+      "parent": "A01G",
+      "ja": "花取り扱い用具［２００６．０１］",
+      "en": "Floral handling",
+      "count": 1308,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G5/02": {
+      "code": "A01G5/02",
+      "level": 1,
+      "parent": "A01G5/00",
+      "ja": "花束または花環結束用具［２００６．０１］",
+      "en": "Apparatus for binding bouquets or wreaths",
+      "count": 553,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G5/04": {
+      "code": "A01G5/04",
+      "level": 1,
+      "parent": "A01G5/00",
+      "ja": "花環または類似のものを据付ける用具；花の棚または保持具［２００６．０１］",
+      "en": "Mountings for wreaths, or the like; Racks or holders for flowers",
+      "count": 1730,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G5/06": {
+      "code": "A01G5/06",
+      "level": 1,
+      "parent": "A01G5/00",
+      "ja": "花を保存する装置［２００６．０１］",
+      "en": "Devices for preserving flowers",
+      "count": 1472,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G7/00": {
+      "code": "A01G7/00",
+      "level": 0,
+      "parent": "A01G",
+      "ja": "植物生態一般［２００６．０１］",
+      "en": "Botany in general",
+      "count": 18253,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G7/02": {
+      "code": "A01G7/02",
+      "level": 1,
+      "parent": "A01G7/00",
+      "ja": "炭酸ガスによる植物の処理［２００６．０１］",
+      "en": "Treatment of plants with carbon dioxide",
+      "count": 2450,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G7/04": {
+      "code": "A01G7/04",
+      "level": 1,
+      "parent": "A01G7/00",
+      "ja": "成長促進のための植物の電気または磁気処理［２００６．０１］",
+      "en": "Electric or magnetic treatment of plants for promoting growth",
+      "count": 25025,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G7/06": {
+      "code": "A01G7/06",
+      "level": 1,
+      "parent": "A01G7/00",
+      "ja": "成長樹木または成長植物の処理，例．木材の腐朽防止，花または木材の着色，植物の寿命を長持ちさせるもの［２００６．０１］",
+      "en": "Treatment of growing trees or plants, e.g. for preventing decay of wood, for tingeing flowers or wood, for prolonging the life of plants",
+      "count": 35277,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G9/00": {
+      "code": "A01G9/00",
+      "level": 0,
+      "parent": "A01G",
+      "ja": "容器，温床または温室での栽培（きのこ用Ａ０１Ｇ１８／００；土なし栽培Ａ０１Ｇ３１／００）；植栽床，芝生または類似のものの縁取り［２０１８．０１］",
+      "en": "Cultivation in receptacles, forcing-frames or greenhouses(of mushrooms <b>A01G18/00</b>;  soilless cultivation <b>A01G31/00</b>);Edging for beds, lawn or the like",
+      "count": 12692,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G9/02": {
+      "code": "A01G9/02",
+      "level": 1,
+      "parent": "A01G9/00",
+      "ja": "容器，例．植木鉢または園芸箱（自動灌水装置Ａ０１Ｇ２７／００；つり下げ花かご，植木鉢用支持具または容器Ａ４７Ｇ７／００）；花栽培のガラス容器［２０１８．０１］",
+      "en": "Receptacles, e.g. flower-pots or boxes (self-acting watering devices <b>A01G27/00</b>;  hanging flower baskets, holders or containers for flower-pots <b>A47G7/00</b>);Glasses for cultivating flowers",
+      "count": 98190,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G9/029": {
+      "code": "A01G9/029",
+      "level": 2,
+      "parent": "A01G9/02",
+      "ja": "播種用容器（ブロック状の生育基質Ａ０１Ｇ２４／４４）［２０１８．０１］",
+      "en": "Receptacles for seedlings(growth substrates in block form <b>A01G24/44</b>)",
+      "count": 21056,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G9/033": {
+      "code": "A01G9/033",
+      "level": 2,
+      "parent": "A01G9/02",
+      "ja": "芝，芝生または類似のもの用の平らな容器，例．屋根の被覆用［２０１８．０１］",
+      "en": "Flat containers for turf, lawn or the like, e.g. for covering roofs",
+      "count": 1791,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G9/04": {
+      "code": "A01G9/04",
+      "level": 1,
+      "parent": "A01G9/00",
+      "ja": "植木鉢用受皿［２００６．０１］",
+      "en": "Flower-pot saucers",
+      "count": 3648,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G9/06": {
+      "code": "A01G9/06",
+      "level": 1,
+      "parent": "A01G9/00",
+      "ja": "植木鉢清浄用具［２００６．０１］",
+      "en": "Devices for cleaning flower-pots",
+      "count": 2477,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G9/08": {
+      "code": "A01G9/08",
+      "level": 1,
+      "parent": "A01G9/00",
+      "ja": "植木鉢充填用具；鉢に植物を移す器具［２００６．０１］",
+      "en": "Devices for filling-up flower-pots; Devices for setting plants in pots",
+      "count": 6535,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G9/12": {
+      "code": "A01G9/12",
+      "level": 1,
+      "parent": "A01G9/00",
+      "ja": "植物の支持；イチゴまたは類似のものの棚（樹，ぶどうの支柱Ａ０１Ｇ１７／１４）［２００６．０１］",
+      "en": "Supports for plants; Trellis for strawberries or the like(stays for trees, props for vines <b>A01G17/14</b>)",
+      "count": 15431,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G9/14": {
+      "code": "A01G9/14",
+      "level": 1,
+      "parent": "A01G9/00",
+      "ja": "温室［２００６．０１］",
+      "en": "Greenhouses",
+      "count": 44242,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G9/16": {
+      "code": "A01G9/16",
+      "level": 2,
+      "parent": "A01G9/14",
+      "ja": "組立てまたは携帯できる温室［２００６．０１］",
+      "en": "Dismountable or portable greenhouses",
+      "count": 16236,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G9/18": {
+      "code": "A01G9/18",
+      "level": 1,
+      "parent": "A01G9/00",
+      "ja": "炭酸ガスまたは類似のものによる植物の処理のための温室［２００６．０１］",
+      "en": "Greenhouses for treating plants with carbon dioxide or the like",
+      "count": 2651,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G9/20": {
+      "code": "A01G9/20",
+      "level": 1,
+      "parent": "A01G9/00",
+      "ja": "温床；採光［２００６．０１］",
+      "en": "Forcing-frames; Lights",
+      "count": 5667,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G9/22": {
+      "code": "A01G9/22",
+      "level": 1,
+      "parent": "A01G9/00",
+      "ja": "温室または類似のものの遮光装置［２００６．０１］",
+      "en": "Shades or blinds for greenhouses, or the like",
+      "count": 10074,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G9/24": {
+      "code": "A01G9/24",
+      "level": 1,
+      "parent": "A01G9/00",
+      "ja": "温室，温床または類似のものの加温，通風，温度調節または灌水装置［２００６．０１］",
+      "en": "Devices for heating, ventilating, regulating temperature, or watering, in greenhouses, forcing-frames, or the like",
+      "count": 54183,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G9/26": {
+      "code": "A01G9/26",
+      "level": 2,
+      "parent": "A01G9/24",
+      "ja": "電化装置［２００６．０１］",
+      "en": "Electric devices",
+      "count": 6196,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G9/28": {
+      "code": "A01G9/28",
+      "level": 1,
+      "parent": "A01G9/00",
+      "ja": "揚げ床；植栽床；床，芝生等のための縁取り要素，例．タイル［２０１８．０１］",
+      "en": "Raised beds; Planting beds; Edging elements for beds, lawn or the like, e.g. tiles",
+      "count": 8315,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G11/00": {
+      "code": "A01G11/00",
+      "level": 0,
+      "parent": "A01G",
+      "ja": "蒸気土壌殺菌［２００６．０１］",
+      "en": "Sterilising soil by steam",
+      "count": 795,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G13/00": {
+      "code": "A01G13/00",
+      "level": 0,
+      "parent": "A01G",
+      "ja": "植物の保護（温室Ａ０１Ｇ９／１４）［２００６．０１］",
+      "en": "Protection of plants (greenhouses <b>A01G9/14</b>)",
+      "count": 31647,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G13/06": {
+      "code": "A01G13/06",
+      "level": 1,
+      "parent": "A01G13/00",
+      "ja": "庭園，果樹園または森林での熱，煙または霧の発生装置，例．霜害防止用［２００６．０１］",
+      "en": "Devices for generating heat, smoke or fog in gardens, orchards or forests, e.g. to prevent damage by frost ",
+      "count": 2056,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G13/08": {
+      "code": "A01G13/08",
+      "level": 1,
+      "parent": "A01G13/00",
+      "ja": "空気循環用機械装置［２００６．０１］",
+      "en": "Mechanical apparatus for circulating the air",
+      "count": 775,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G13/10": {
+      "code": "A01G13/10",
+      "level": 1,
+      "parent": "A01G13/00",
+      "ja": "動物，鳥その他の有害な小動物に対する保護装置（おどし機または忌避機Ａ０１Ｍ２９／００）［２００６．０１］",
+      "en": "Devices for affording protection against animals, birds or other pests (scaring or repelling devices <b>A01M29/00</b>)",
+      "count": 5991,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G13/20": {
+      "code": "A01G13/20",
+      "level": 1,
+      "parent": "A01G13/00",
+      "ja": "植物体を保護覆いするもの［２０２５．０１］",
+      "en": "Protective coverings for plants",
+      "count": 302,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G13/21": {
+      "code": "A01G13/21",
+      "level": 2,
+      "parent": "A01G13/20",
+      "ja": "頭上の保護を提供するもの，すなわちキャノピー［２０２５．０１］",
+      "en": "providing overhead protection, i.e. canopies",
+      "count": 359,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G13/22": {
+      "code": "A01G13/22",
+      "level": 3,
+      "parent": "A01G13/21",
+      "ja": "個別の植物のためのもの［２０２５．０１］",
+      "en": "for individual plants",
+      "count": 40,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G13/23": {
+      "code": "A01G13/23",
+      "level": 2,
+      "parent": "A01G13/20",
+      "ja": "横方向からの保護を提供するもの，例．風から［２０２５．０１］",
+      "en": "providing lateral protection, e.g. from wind",
+      "count": 126,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G13/24": {
+      "code": "A01G13/24",
+      "level": 2,
+      "parent": "A01G13/20",
+      "ja": "植物の列を保護するためのトンネル［２０２５．０１］",
+      "en": "Tunnels for covering rows of plants",
+      "count": 51,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G13/26": {
+      "code": "A01G13/26",
+      "level": 2,
+      "parent": "A01G13/20",
+      "ja": "鐘形覆い［２０２５．０１］",
+      "en": "Cloches",
+      "count": 87,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G13/27": {
+      "code": "A01G13/27",
+      "level": 2,
+      "parent": "A01G13/20",
+      "ja": "植物の特定の部分，例．根，茎または果実，を保護するもの［２０２５．０１］",
+      "en": "protecting specific parts of plants, e.g. roots, trunks or fruits",
+      "count": 232,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G13/28": {
+      "code": "A01G13/28",
+      "level": 2,
+      "parent": "A01G13/20",
+      "ja": "若い植物を保護するためのもの［２０２５．０１］",
+      "en": "protecting young plants",
+      "count": 72,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G13/29": {
+      "code": "A01G13/29",
+      "level": 2,
+      "parent": "A01G13/20",
+      "ja": "植物の覆いを設置または取り除くための装置［２０２５．０１］",
+      "en": "Arrangements for laying out or removing plant coverings",
+      "count": 111,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G13/30": {
+      "code": "A01G13/30",
+      "level": 1,
+      "parent": "A01G13/00",
+      "ja": "地面の覆い［２０２５．０１］",
+      "en": "Ground coverings",
+      "count": 44,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G13/31": {
+      "code": "A01G13/31",
+      "level": 2,
+      "parent": "A01G13/30",
+      "ja": "個別の植物のためのもの［２０２５．０１］",
+      "en": "for individual plants",
+      "count": 24,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G13/32": {
+      "code": "A01G13/32",
+      "level": 2,
+      "parent": "A01G13/30",
+      "ja": "マット；ネット；シートまたはフィルム［２０２５．０１］",
+      "en": "Mats; Nets; Sheets or films",
+      "count": 74,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G13/33": {
+      "code": "A01G13/33",
+      "level": 3,
+      "parent": "A01G13/32",
+      "ja": "シートまたはフィルム［２０２５．０１］",
+      "en": "Sheets or films",
+      "count": 328,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G13/35": {
+      "code": "A01G13/35",
+      "level": 2,
+      "parent": "A01G13/30",
+      "ja": "マルチ，すなわち不定形素材［２０２５．０１］",
+      "en": "Mulches, i.e. loose material",
+      "count": 77,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G13/37": {
+      "code": "A01G13/37",
+      "level": 2,
+      "parent": "A01G13/30",
+      "ja": "地面の覆いを設置または取り除くための装置［２０２５．０１］",
+      "en": "Arrangements for laying out or removing ground coverings",
+      "count": 566,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G13/38": {
+      "code": "A01G13/38",
+      "level": 2,
+      "parent": "A01G13/30",
+      "ja": "地面の覆いのための定着手段［２０２５．０１］",
+      "en": "Anchoring means for ground coverings",
+      "count": 178,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G13/39": {
+      "code": "A01G13/39",
+      "level": 2,
+      "parent": "A01G13/30",
+      "ja": "設置された地面の覆いに穿孔するための装置［２０２５．０１］",
+      "en": "Arrangements for perforating installed ground coverings",
+      "count": 103,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G15/00": {
+      "code": "A01G15/00",
+      "level": 0,
+      "parent": "A01G",
+      "ja": "気象の状況に影響を与える装置または方法［２００６．０１］",
+      "en": "Devices or methods for influencing weather conditions",
+      "count": 2596,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G17/00": {
+      "code": "A01G17/00",
+      "level": 0,
+      "parent": "A01G",
+      "ja": "ホップ，ぶどう，果樹または類似の樹木の栽培",
+      "en": "Cultivation of hops, vines, fruit trees, or like trees",
+      "count": 27204,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G17/02": {
+      "code": "A01G17/02",
+      "level": 1,
+      "parent": "A01G17/00",
+      "ja": "ホップまたはぶどうの栽培",
+      "en": "Cultivation of hops or vines",
+      "count": 3239,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G17/04": {
+      "code": "A01G17/04",
+      "level": 1,
+      "parent": "A01G17/00",
+      "ja": "ホップ，ぶどうまたは樹木の支持",
+      "en": "Supports for hops, vines, or trees",
+      "count": 2191,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G17/06": {
+      "code": "A01G17/06",
+      "level": 2,
+      "parent": "A01G17/04",
+      "ja": "格子状棚",
+      "en": "Trellis-work",
+      "count": 3405,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G17/08": {
+      "code": "A01G17/08",
+      "level": 3,
+      "parent": "A01G17/06",
+      "ja": "格子状棚にホップ，ぶどうまたは樹木を取り付ける道具；結束用具",
+      "en": "Tools for attaching hops, vines, or boughs to trellis-work; Tying devices",
+      "count": 1707,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G17/10": {
+      "code": "A01G17/10",
+      "level": 2,
+      "parent": "A01G17/04",
+      "ja": "枝の支持",
+      "en": "Holders for boughs or branches",
+      "count": 2845,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G17/12": {
+      "code": "A01G17/12",
+      "level": 2,
+      "parent": "A01G17/04",
+      "ja": "樹木バンド",
+      "en": "Tree-bands",
+      "count": 711,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G17/14": {
+      "code": "A01G17/14",
+      "level": 2,
+      "parent": "A01G17/04",
+      "ja": "支柱；支索",
+      "en": "Props; Stays",
+      "count": 15157,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G17/16": {
+      "code": "A01G17/16",
+      "level": 3,
+      "parent": "A01G17/14",
+      "ja": "支柱打ち込みまたは支柱抜き取り装置",
+      "en": "Devices for driving-in or pulling-out props",
+      "count": 1306,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G17/18": {
+      "code": "A01G17/18",
+      "level": 1,
+      "parent": "A01G17/00",
+      "ja": "樹の傷を埋める方法",
+      "en": "Means for filling-up wounds in trees",
+      "count": 192,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G18/00": {
+      "code": "A01G18/00",
+      "level": 0,
+      "parent": "A01G",
+      "ja": "きのこの栽培［２０１８．０１］",
+      "en": "Cultivation of mushrooms",
+      "count": 5495,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G18/10": {
+      "code": "A01G18/10",
+      "level": 1,
+      "parent": "A01G18/00",
+      "ja": "菌根；菌根との共生［２０１８．０１］",
+      "en": "Mycorrhiza; Mycorrhizal associations",
+      "count": 298,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G18/20": {
+      "code": "A01G18/20",
+      "level": 1,
+      "parent": "A01G18/00",
+      "ja": "培地，例．コンポスト［２０１８．０１］",
+      "en": "Culture media, e.g. compost",
+      "count": 5848,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G18/22": {
+      "code": "A01G18/22",
+      "level": 2,
+      "parent": "A01G18/20",
+      "ja": "培地を調製するための装置，例．瓶詰め装置［２０１８．０１］",
+      "en": "Apparatus for the preparation of culture media, e.g. bottling devices",
+      "count": 2574,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G18/30": {
+      "code": "A01G18/30",
+      "level": 1,
+      "parent": "A01G18/00",
+      "ja": "種菌の移植前に使用する付属品，例．殺菌装置［２０１８．０１］",
+      "en": "Accessories for use before inoculation of spawn, e.g. sterilisers",
+      "count": 1617,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G18/40": {
+      "code": "A01G18/40",
+      "level": 1,
+      "parent": "A01G18/00",
+      "ja": "種菌の培養［２０１８．０１］",
+      "en": "Cultivation of spawn",
+      "count": 2128,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G18/50": {
+      "code": "A01G18/50",
+      "level": 1,
+      "parent": "A01G18/00",
+      "ja": "種菌の移植［２０１８．０１］",
+      "en": "Inoculation of spawn",
+      "count": 2130,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G18/55": {
+      "code": "A01G18/55",
+      "level": 2,
+      "parent": "A01G18/50",
+      "ja": "移植孔の形成［２０１８．０１］",
+      "en": "Forming inoculation holes",
+      "count": 611,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G18/60": {
+      "code": "A01G18/60",
+      "level": 1,
+      "parent": "A01G18/00",
+      "ja": "栽培室；そのための装置［２０１８．０１］",
+      "en": "Cultivation rooms; Equipment therefor",
+      "count": 5627,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G18/61": {
+      "code": "A01G18/61",
+      "level": 2,
+      "parent": "A01G18/60",
+      "ja": "子実体用の成長ガイド，例．紙巻［２０１８．０１］",
+      "en": "Growth guides for fruiting bodies, e.g. paper rolls",
+      "count": 73,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G18/62": {
+      "code": "A01G18/62",
+      "level": 2,
+      "parent": "A01G18/60",
+      "ja": "棚；トレー［２０１８．０１］",
+      "en": "Racks; Trays",
+      "count": 3068,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G18/64": {
+      "code": "A01G18/64",
+      "level": 2,
+      "parent": "A01G18/60",
+      "ja": "栽培容器；その蓋［２０１８．０１］",
+      "en": "Cultivation containers; Lids therefor",
+      "count": 1906,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G18/65": {
+      "code": "A01G18/65",
+      "level": 3,
+      "parent": "A01G18/64",
+      "ja": "蓋によって特徴付けられるもの，例．フィルター付きの蓋［２０１８．０１］",
+      "en": "characterised by the lids, e.g. lids with filters",
+      "count": 306,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G18/66": {
+      "code": "A01G18/66",
+      "level": 3,
+      "parent": "A01G18/64",
+      "ja": "栽培バッグ［２０１８．０１］",
+      "en": "Cultivation bags",
+      "count": 644,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G18/68": {
+      "code": "A01G18/68",
+      "level": 3,
+      "parent": "A01G18/64",
+      "ja": "栽培ビン［２０１８．０１］",
+      "en": "Cultivation bottles",
+      "count": 312,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G18/69": {
+      "code": "A01G18/69",
+      "level": 2,
+      "parent": "A01G18/60",
+      "ja": "環境を管理するための装置，例．スプリンクラー［２０１８．０１］",
+      "en": "Arrangements for managing the environment, e.g. sprinklers",
+      "count": 7577,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G18/70": {
+      "code": "A01G18/70",
+      "level": 1,
+      "parent": "A01G18/00",
+      "ja": "収穫［２０１８．０１］",
+      "en": "Harvesting",
+      "count": 1850,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G18/80": {
+      "code": "A01G18/80",
+      "level": 1,
+      "parent": "A01G18/00",
+      "ja": "収穫後に使用される付属品，例．スクレーパ［２０１８．０１］",
+      "en": "Accessories for use after harvesting, e.g. scrapers",
+      "count": 336,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G20/00": {
+      "code": "A01G20/00",
+      "level": 0,
+      "parent": "A01G",
+      "ja": "芝，芝生または類似のものの栽培；そのための装置または方法（芝生用の手持ち式エッジトリマーまたは鋏Ａ０１Ｇ３／０６；芝生の縁取りＡ０１Ｇ９／２８；芝刈り機Ａ０１Ｄ３４／００）［２０１８．０１］",
+      "en": "Cultivation of turf, lawn or the like; Apparatus or methods therefor(hand-held edge trimmers or shears for lawn <b>A01G3/06</b>;  edging for lawn <b>A01G9/28</b>; lawn-mowers <b>A01D34/00</b>)",
+      "count": 4270,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G20/10": {
+      "code": "A01G20/10",
+      "level": 1,
+      "parent": "A01G20/00",
+      "ja": "予め栽培された芝土または芝；そのための装置［２０１８．０１］",
+      "en": "Pre-cultivated sod or turf; Apparatus therefor",
+      "count": 535,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G20/12": {
+      "code": "A01G20/12",
+      "level": 2,
+      "parent": "A01G20/10",
+      "ja": "芝土または芝を切断するための装置［２０１８．０１］",
+      "en": "Apparatus for cutting sods or turfs",
+      "count": 364,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G20/15": {
+      "code": "A01G20/15",
+      "level": 3,
+      "parent": "A01G20/12",
+      "ja": "芝土または芝土ロールの積み重ねに特に適合するもの［２０１８．０１］",
+      "en": "specially adapted for stacking sods or sod rolls",
+      "count": 70,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G20/18": {
+      "code": "A01G20/18",
+      "level": 2,
+      "parent": "A01G20/10",
+      "ja": "芝土または芝を載置するための装置［２０１８．０１］",
+      "en": "Apparatus for laying sods or turfs",
+      "count": 751,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G20/20": {
+      "code": "A01G20/20",
+      "level": 1,
+      "parent": "A01G20/00",
+      "ja": "マット上での栽培［２０１８．０１］",
+      "en": "Cultivation on mats",
+      "count": 395,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G20/30": {
+      "code": "A01G20/30",
+      "level": 1,
+      "parent": "A01G20/00",
+      "ja": "芝草の表面を処理するための装置（芝生を通気するための機械Ａ０１Ｂ４５／０２）［２０１８．０１］",
+      "en": "Apparatus for treating the lawn or grass surface(machines for aerating lawns <b>A01B45/02</b>)",
+      "count": 279,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G20/35": {
+      "code": "A01G20/35",
+      "level": 2,
+      "parent": "A01G20/30",
+      "ja": "ガーデンローラー［２０１８．０１］",
+      "en": "Garden rollers",
+      "count": 299,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G20/40": {
+      "code": "A01G20/40",
+      "level": 1,
+      "parent": "A01G20/00",
+      "ja": "芝草の表面を清掃するための装置［２０１８．０１］",
+      "en": "Apparatus for cleaning the lawn or grass surface",
+      "count": 92,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G20/43": {
+      "code": "A01G20/43",
+      "level": 2,
+      "parent": "A01G20/40",
+      "ja": "芝生屑の清掃，収集または分解のためのもの［２０１８．０１］",
+      "en": "for sweeping, collecting or disintegrating lawn debris",
+      "count": 543,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G20/47": {
+      "code": "A01G20/47",
+      "level": 3,
+      "parent": "A01G20/43",
+      "ja": "吸引またはブロワ装置［２０１８．０１］",
+      "en": "Vacuum or blower devices",
+      "count": 479,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G22/00": {
+      "code": "A01G22/00",
+      "level": 0,
+      "parent": "A01G",
+      "ja": "他に分類されない特定の作物または植物の栽培［２０１８．０１］",
+      "en": "Cultivation of specific crops or plants not otherwise provided for",
+      "count": 11642,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G22/05": {
+      "code": "A01G22/05",
+      "level": 1,
+      "parent": "A01G22/00",
+      "ja": "果菜類，例．イチゴ，トマトまたはキュウリ［２０１８．０１］",
+      "en": "Fruit crops, e.g. strawberries, tomatoes or cucumbers",
+      "count": 5347,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G22/10": {
+      "code": "A01G22/10",
+      "level": 1,
+      "parent": "A01G22/00",
+      "ja": "アスパラガス［２０１８．０１］",
+      "en": "Asparagus",
+      "count": 480,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G22/15": {
+      "code": "A01G22/15",
+      "level": 1,
+      "parent": "A01G22/00",
+      "ja": "葉菜類，例．レタスまたはホウレンソウ［２０１８．０１］",
+      "en": "Leaf crops, e.g. lettuce or spinach",
+      "count": 2195,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G22/20": {
+      "code": "A01G22/20",
+      "level": 1,
+      "parent": "A01G22/00",
+      "ja": "穀類［２０１８．０１］",
+      "en": "Cereals",
+      "count": 3933,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G22/22": {
+      "code": "A01G22/22",
+      "level": 2,
+      "parent": "A01G22/20",
+      "ja": "稲［２０１８．０１］",
+      "en": "Rice",
+      "count": 8001,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G22/25": {
+      "code": "A01G22/25",
+      "level": 1,
+      "parent": "A01G22/00",
+      "ja": "根菜類，例．ジャガイモ，ヤマイモ，ビートまたはワサビ［２０１８．０１］",
+      "en": "Root crops, e.g. potatoes, yams, beet or wasabi",
+      "count": 5234,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G22/30": {
+      "code": "A01G22/30",
+      "level": 1,
+      "parent": "A01G22/00",
+      "ja": "苔［２０１８．０１］",
+      "en": "Moss",
+      "count": 499,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G22/35": {
+      "code": "A01G22/35",
+      "level": 1,
+      "parent": "A01G22/00",
+      "ja": "球根，ネギ類，例．タマネギまたはネギ［２０１８．０１］",
+      "en": "Bulbs; Alliums, e.g. onions or leeks",
+      "count": 927,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G22/40": {
+      "code": "A01G22/40",
+      "level": 1,
+      "parent": "A01G22/00",
+      "ja": "マメ科，例．マメまたはエンドウ［２０１８．０１］",
+      "en": "Fabaceae, e.g. beans or peas ",
+      "count": 3295,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G22/45": {
+      "code": "A01G22/45",
+      "level": 1,
+      "parent": "A01G22/00",
+      "ja": "タバコ［２０１８．０１］",
+      "en": "Tobacco",
+      "count": 1119,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G22/50": {
+      "code": "A01G22/50",
+      "level": 1,
+      "parent": "A01G22/00",
+      "ja": "綿［２０１８．０１］",
+      "en": "Cotton",
+      "count": 614,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G22/55": {
+      "code": "A01G22/55",
+      "level": 1,
+      "parent": "A01G22/00",
+      "ja": "サトウキビ［２０１８．０１］",
+      "en": "Sugar cane",
+      "count": 425,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G22/60": {
+      "code": "A01G22/60",
+      "level": 1,
+      "parent": "A01G22/00",
+      "ja": "花；鑑賞用植物［２０１８．０１］",
+      "en": "Flowers; Ornamental plants",
+      "count": 2368,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G22/63": {
+      "code": "A01G22/63",
+      "level": 2,
+      "parent": "A01G22/60",
+      "ja": "ラン［２０１８．０１］",
+      "en": "Orchids",
+      "count": 399,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G22/67": {
+      "code": "A01G22/67",
+      "level": 2,
+      "parent": "A01G22/60",
+      "ja": "矮樹，例．盆栽［２０１８．０１］",
+      "en": "Dwarf trees, e.g. bonsai",
+      "count": 206,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G23/00": {
+      "code": "A01G23/00",
+      "level": 0,
+      "parent": "A01G",
+      "ja": "林業［２００６．０１］",
+      "en": "Forestry",
+      "count": 6213,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G23/02": {
+      "code": "A01G23/02",
+      "level": 1,
+      "parent": "A01G23/00",
+      "ja": "樹木の移植，抜根，伐採または枝払い（立木の枝払いＡ０１Ｇ３／００）［２００６．０１］",
+      "en": "Transplanting, uprooting, felling or delimbing trees(delimbing standing trees <b>A01G3/00</b>)",
+      "count": 1261,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G23/04": {
+      "code": "A01G23/04",
+      "level": 2,
+      "parent": "A01G23/02",
+      "ja": "樹木の移植；根鉢をつかむ装置，例．切株抜き；樹木移送用梱包または容器［２００６．０１］",
+      "en": "Transplanting trees; Devices for grasping the root ball, e.g. stump forceps; Wrappings or packages for transporting trees",
+      "count": 11777,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G23/06": {
+      "code": "A01G23/06",
+      "level": 2,
+      "parent": "A01G23/02",
+      "ja": "樹木の根倒しまたは引き抜き；切株の除去または抜き取り［２００６．０１］",
+      "en": "Uprooting or pulling up trees; Extracting or eliminating stumps",
+      "count": 4921,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G23/08": {
+      "code": "A01G23/08",
+      "level": 2,
+      "parent": "A01G23/02",
+      "ja": "樹木の伐採［２００６．０１］",
+      "en": "Felling trees",
+      "count": 3246,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G23/081": {
+      "code": "A01G23/081",
+      "level": 3,
+      "parent": "A01G23/08",
+      "ja": "伐採－集束装置，すなわち伐採ヘッドで集束するもの（Ａ０１Ｇ２３／０８３が優先）［２００６．０１］",
+      "en": "Feller-bunchers, i.e. with bunching by felling head(<b>A01G23/083</b> takes precedence)",
+      "count": 343,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G23/083": {
+      "code": "A01G23/083",
+      "level": 3,
+      "parent": "A01G23/08",
+      "ja": "伐採－枝払装置［２００６．０１］",
+      "en": "Feller-delimbers",
+      "count": 618,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G23/085": {
+      "code": "A01G23/085",
+      "level": 4,
+      "parent": "A01G23/083",
+      "ja": "第一のブームに取付けた剪断ヘッドと第二のブームに取付けた枝払いヘッドを有するもの［２００６．０１］",
+      "en": "having the shearing head mounted on a first boom and the delimbing head mounted on a second boom",
+      "count": 111,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G23/087": {
+      "code": "A01G23/087",
+      "level": 3,
+      "parent": "A01G23/08",
+      "ja": "伐採に特に適合した剪断装置または類似のもの（Ａ０１Ｇ２３／０８１，Ａ０１Ｇ２３／０８３，Ａ０１Ｇ２３／０９３が優先）［２００６．０１］",
+      "en": "Shearing apparatus or the like specially adapted for felling trees(<b>A01G23/081</b>, <b>A01G23/083</b>, <b>A01G23/093</b> take precedence)",
+      "count": 496,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G23/089": {
+      "code": "A01G23/089",
+      "level": 4,
+      "parent": "A01G23/087",
+      "ja": "２つ以上の剪断刃を有するもの［２００６．０１］",
+      "en": "having two or more shears",
+      "count": 166,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G23/09": {
+      "code": "A01G23/09",
+      "level": 4,
+      "parent": "A01G23/087",
+      "ja": "衝撃式のもの［２００６．０１］",
+      "en": "of the percussion type",
+      "count": 42,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G23/091": {
+      "code": "A01G23/091",
+      "level": 3,
+      "parent": "A01G23/08",
+      "ja": "伐採に特に適合した鋸装置（Ａ０１Ｇ２３／０８１，Ａ０１Ｇ２３／０８３，Ａ０１Ｇ２３／０９３が優先）［２００６．０１］",
+      "en": "Sawing apparatus specially adapted for felling trees(<b>A01G23/081</b>, <b>A01G23/083</b>, <b>A01G23/093</b> take precedence)",
+      "count": 1512,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G23/093": {
+      "code": "A01G23/093",
+      "level": 3,
+      "parent": "A01G23/08",
+      "ja": "伐採に特に適合した剪断，鋸またはフライス装置の組合わせ［２００６．０１］",
+      "en": "Combinations of shearing, sawing or milling apparatus specially adapted for felling trees",
+      "count": 478,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G23/095": {
+      "code": "A01G23/095",
+      "level": 2,
+      "parent": "A01G23/02",
+      "ja": "枝払装置（Ａ０１Ｇ２３／０８３が優先）［２００６．０１］",
+      "en": "Delimbers (<b>A01G23/083</b> takes precedence)",
+      "count": 683,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G23/097": {
+      "code": "A01G23/097",
+      "level": 3,
+      "parent": "A01G23/095",
+      "ja": "固定した枝払いヘッドを有するもの［２００６．０１］",
+      "en": "having a fixed delimbing head",
+      "count": 298,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G23/099": {
+      "code": "A01G23/099",
+      "level": 2,
+      "parent": "A01G23/02",
+      "ja": "補助装置，例．伐採用くさび［２００６．０１］",
+      "en": "Auxiliary devices, e.g. felling wedges",
+      "count": 1726,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G23/10": {
+      "code": "A01G23/10",
+      "level": 1,
+      "parent": "A01G23/00",
+      "ja": "樹液の採取，例．硬ゴム，ゴム［２００６．０１］",
+      "en": "Tapping of tree-juices, e.g. caoutchouc, gum",
+      "count": 1352,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G23/12": {
+      "code": "A01G23/12",
+      "level": 2,
+      "parent": "A01G23/10",
+      "ja": "採取用ナイフまたは斧［２００６．０１］",
+      "en": "Knives or axes for tapping",
+      "count": 724,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G23/14": {
+      "code": "A01G23/14",
+      "level": 2,
+      "parent": "A01G23/10",
+      "ja": "採取用管；樹液用容器［２００６．０１］",
+      "en": "Tapping-spouts; Receptacles for juices",
+      "count": 657,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G24/00": {
+      "code": "A01G24/00",
+      "level": 0,
+      "parent": "A01G",
+      "ja": "生育基質；培地；そのための装置または方法（きのこ用Ａ０１Ｇ１８／２０）［２０１８．０１］",
+      "en": "Growth substrates; Culture media; Apparatus or methods therefor (for mushrooms <b>A01G18/20</b>)",
+      "count": 1905,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G24/10": {
+      "code": "A01G24/10",
+      "level": 1,
+      "parent": "A01G24/00",
+      "ja": "無機材料に基づくものまたは含有するもの［２０１８．０１］",
+      "en": "based on or containing inorganic material",
+      "count": 8048,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G24/12": {
+      "code": "A01G24/12",
+      "level": 2,
+      "parent": "A01G24/10",
+      "ja": "土壌鉱物を含有するもの［２０１８．０１］",
+      "en": "containing soil minerals",
+      "count": 3649,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G24/13": {
+      "code": "A01G24/13",
+      "level": 3,
+      "parent": "A01G24/12",
+      "ja": "ゼオライト［２０１８．０１］",
+      "en": "Zeolites",
+      "count": 416,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G24/15": {
+      "code": "A01G24/15",
+      "level": 3,
+      "parent": "A01G24/12",
+      "ja": "焼成岩石，例．パーライト，バーミキュライトまたは粘土凝集物［２０１８．０１］",
+      "en": "Calcined rock, e.g. perlite, vermiculite or clay aggregates",
+      "count": 5507,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G24/17": {
+      "code": "A01G24/17",
+      "level": 2,
+      "parent": "A01G24/10",
+      "ja": "鉱滓を含有するもの［２０１８．０１］",
+      "en": "containing slag",
+      "count": 534,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G24/18": {
+      "code": "A01G24/18",
+      "level": 2,
+      "parent": "A01G24/10",
+      "ja": "無機繊維，例．ミネラルウール，を含有するもの［２０１８．０１］",
+      "en": "containing inorganic fibres, e.g. mineral wool",
+      "count": 205,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G24/20": {
+      "code": "A01G24/20",
+      "level": 1,
+      "parent": "A01G24/00",
+      "ja": "天然有機材料に基づくものまたは含有するもの［２０１８．０１］",
+      "en": "based on or containing natural organic material",
+      "count": 6786,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G24/22": {
+      "code": "A01G24/22",
+      "level": 2,
+      "parent": "A01G24/20",
+      "ja": "植物材料を含有するもの［２０１８．０１］",
+      "en": "containing plant material ",
+      "count": 5403,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G24/23": {
+      "code": "A01G24/23",
+      "level": 3,
+      "parent": "A01G24/22",
+      "ja": "木，例．木のチップまたはおがくず［２０１８．０１］",
+      "en": "Wood, e.g. wood chips or sawdust",
+      "count": 2332,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G24/25": {
+      "code": "A01G24/25",
+      "level": 3,
+      "parent": "A01G24/22",
+      "ja": "乾燥した果実の皮または殻，例．もみ殻または椰子殻［２０１８．０１］",
+      "en": "Dry fruit hulls or husks, e.g. chaff or coir",
+      "count": 3156,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G24/27": {
+      "code": "A01G24/27",
+      "level": 3,
+      "parent": "A01G24/22",
+      "ja": "パルプ，例．バガス［２０１８．０１］",
+      "en": "Pulp, e.g. bagasse",
+      "count": 1073,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G24/28": {
+      "code": "A01G24/28",
+      "level": 2,
+      "parent": "A01G24/20",
+      "ja": "でい炭，コケまたはミズゴケを含有するもの［２０１８．０１］",
+      "en": "containing peat, moss or sphagnum",
+      "count": 4942,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G24/30": {
+      "code": "A01G24/30",
+      "level": 1,
+      "parent": "A01G24/00",
+      "ja": "合成有機化合物に基づくものまたは含有するもの［２０１８．０１］",
+      "en": "based on or containing synthetic organic compounds",
+      "count": 2954,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G24/35": {
+      "code": "A01G24/35",
+      "level": 2,
+      "parent": "A01G24/30",
+      "ja": "水吸収重合体を含有するもの［２０１８．０１］",
+      "en": "containing water-absorbing polymers",
+      "count": 822,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G24/40": {
+      "code": "A01G24/40",
+      "level": 1,
+      "parent": "A01G24/00",
+      "ja": "その構造によって特徴付けられるもの［２０１８．０１］",
+      "en": "characterised by their structure",
+      "count": 682,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G24/42": {
+      "code": "A01G24/42",
+      "level": 2,
+      "parent": "A01G24/40",
+      "ja": "粒状または小塊状［２０１８．０１］",
+      "en": "of granular or aggregated structure",
+      "count": 607,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G24/44": {
+      "code": "A01G24/44",
+      "level": 2,
+      "parent": "A01G24/40",
+      "ja": "ブロック，マットまたはシート状［２０１８．０１］",
+      "en": "in block, mat or sheet form",
+      "count": 1157,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G24/46": {
+      "code": "A01G24/46",
+      "level": 3,
+      "parent": "A01G24/44",
+      "ja": "積層構造［２０１８．０１］",
+      "en": "multi-layered",
+      "count": 1468,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G24/48": {
+      "code": "A01G24/48",
+      "level": 2,
+      "parent": "A01G24/40",
+      "ja": "発泡体を含有するものまたは発泡構造を有するもの［２０１８．０１］",
+      "en": "containing foam or presenting a foam structure",
+      "count": 297,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G24/50": {
+      "code": "A01G24/50",
+      "level": 1,
+      "parent": "A01G24/00",
+      "ja": "可撓性包装材に詰められたもの［２０１８．０１］",
+      "en": "contained within a flexible envelope",
+      "count": 542,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G24/60": {
+      "code": "A01G24/60",
+      "level": 1,
+      "parent": "A01G24/00",
+      "ja": "生育基質または培地を調製するための装置（きのこ用Ａ０１Ｇ１８／２２）［２０１８．０１］",
+      "en": "Apparatus for preparing growth substrates or culture media(for mushrooms <b>A01G18/22</b>)",
+      "count": 1478,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G25/00": {
+      "code": "A01G25/00",
+      "level": 0,
+      "parent": "A01G",
+      "ja": "庭園，圃場，運動場または類似のものの灌水（液体肥料用の特殊な装置または適合Ａ０１Ｃ２３／００；ノズルまたは吐出口，噴霧装置Ｂ０５Ｂ）［２００６．０１］",
+      "en": "Watering gardens, fields, sports grounds or the like(special apparatus or adaptations for fertilising-liquids <b>A01C23/00</b>;   nozzles or outlets, spraying apparatus <b>B05B</b>)",
+      "count": 19045,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G25/02": {
+      "code": "A01G25/02",
+      "level": 1,
+      "parent": "A01G25/00",
+      "ja": "地上に設けられた，穴をあけた管系または分配部材を備えた管系を用いた灌水装置，例．滴下灌漑装置［２００６．０１］",
+      "en": "Watering arrangements located above the soil which make use of perforated pipe-lines or pipe-lines with dispensing fittings, e.g. for drip irrigation",
+      "count": 42029,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G25/06": {
+      "code": "A01G25/06",
+      "level": 1,
+      "parent": "A01G25/00",
+      "ja": "地中に設けられた穴をあけた管系の使用による灌水装置［２００６．０１］",
+      "en": "Watering arrangements making use of perforated pipe-lines located in the soil",
+      "count": 6105,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G25/09": {
+      "code": "A01G25/09",
+      "level": 1,
+      "parent": "A01G25/00",
+      "ja": "車輪またはその類似物上の可動設備を使用する灌水装置［２００６．０１］",
+      "en": "Watering arrangements making use of movable installations on wheels or the like",
+      "count": 25564,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G25/14": {
+      "code": "A01G25/14",
+      "level": 1,
+      "parent": "A01G25/00",
+      "ja": "手で灌水する装置，例．如露［２００６．０１］",
+      "en": "Hand watering devices, e.g. watering cans",
+      "count": 2791,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G25/16": {
+      "code": "A01G25/16",
+      "level": 1,
+      "parent": "A01G25/00",
+      "ja": "散水の制御［２００６．０１］",
+      "en": "Control of watering",
+      "count": 24207,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G27/00": {
+      "code": "A01G27/00",
+      "level": 0,
+      "parent": "A01G",
+      "ja": "自動灌水装置，例．植木鉢用",
+      "en": "Self-acting watering devices, e.g. for flower-pots",
+      "count": 36019,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G27/02": {
+      "code": "A01G27/02",
+      "level": 1,
+      "parent": "A01G27/00",
+      "ja": "貯水槽があり，その主要部が栽培容器の周囲またはすぐそばに位置するもの（Ａ０１Ｇ２７／０６が優先）［６］",
+      "en": "having a water reservoir, the main part thereof being located wholly around or directly beside the growth substrate(<b>A01G27/06</b> takes precedence)",
+      "count": 11420,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G27/04": {
+      "code": "A01G27/04",
+      "level": 1,
+      "parent": "A01G27/00",
+      "ja": "毛細管現象を起こす芯体または同様のものを用いたもの［６］",
+      "en": "using wicks or the like",
+      "count": 3218,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G27/06": {
+      "code": "A01G27/06",
+      "level": 2,
+      "parent": "A01G27/04",
+      "ja": "貯水槽があり，その主要部が栽培容器の周囲またはすぐそばに位置するもの［６］",
+      "en": "having a water reservoir, the main part thereof being located wholly around or directly beside the growth substrate",
+      "count": 7273,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G29/00": {
+      "code": "A01G29/00",
+      "level": 0,
+      "parent": "A01G",
+      "ja": "根部への給肥装置；根の中への注入",
+      "en": "Root feeders; Injecting fertilisers into the roots",
+      "count": 9530,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G31/00": {
+      "code": "A01G31/00",
+      "level": 0,
+      "parent": "A01G",
+      "ja": "土なし栽培，例．水耕栽培（そのための生長基質Ａ０１Ｇ２４／００；海草の栽培Ａ０１Ｇ３３／００）［２０１８．０１］",
+      "en": "Soilless cultivation, e.g. hydroponics(growth substrates therefor <b>A01G24/00</b>;  cultivation of seaweed <b>A01G33/00</b>)",
+      "count": 25671,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G31/02": {
+      "code": "A01G31/02",
+      "level": 1,
+      "parent": "A01G31/00",
+      "ja": "そのための特別な装置（自動灌水装置Ａ０１Ｇ２７／００）［２００６．０１］",
+      "en": "Special apparatus therefor (self-acting watering devices <b>A01G27/00</b>)",
+      "count": 30020,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G31/04": {
+      "code": "A01G31/04",
+      "level": 2,
+      "parent": "A01G31/02",
+      "ja": "運搬装置を使用する上の水耕栽培［２００６．０１］",
+      "en": "Hydroponic culture on conveyors",
+      "count": 1981,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G31/06": {
+      "code": "A01G31/06",
+      "level": 2,
+      "parent": "A01G31/02",
+      "ja": "棚上または積み重ねた容器を使用する水耕栽培［２００６．０１］",
+      "en": "Hydroponic culture on racks or in stacked containers",
+      "count": 11013,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G33/00": {
+      "code": "A01G33/00",
+      "level": 0,
+      "parent": "A01G",
+      "ja": "海草の栽培［２］",
+      "en": "Cultivation of seaweed",
+      "count": 7078,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    },
+    "A01G33/02": {
+      "code": "A01G33/02",
+      "level": 1,
+      "parent": "A01G33/00",
+      "ja": "海苔の栽培［２］",
+      "en": "of laver",
+      "count": 2626,
+      "sourceFile": "ipc_A01G.txt",
+      "kind": "ipc"
+    }
+  }
+};

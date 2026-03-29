@@ -1,0 +1,4656 @@
+{
+  "generatedAt": "2026-03-20T02:17:46.445Z",
+  "total": 465,
+  "entries": {
+    "C08G": {
+      "code": "C08G",
+      "level": 0,
+      "parent": "C08",
+      "ja": "炭素－炭素不飽和結合のみが関与する反応以外の反応によって得られる高分子化合物（発酵または酵素を使用して所望の化学物質もしくは組成物を合成する方法またはラセミ混合物から光学異性体を分離する方法Ｃ１２Ｐ）［２］<br><br><b><ul>注</ul></b><br>（１）化合物の治療活性は，サブクラスＡ６１Ｐにさらに分類する。［７］<br>（２）このサブクラスのそれぞれのメイングループにおいては，グループＣ０８Ｇ１８／００が他のグループに優先する。もし重合体が適切なグループに分類される特定の結合を形成する反応によって得られる場合は，さらに分類を付与する。［２］<br>（３）このサブクラスではラストプレイス優先ルールが適用される，すなわち各階層レベルにおいて相反する指示がない限り，最後の適切な箇所に分類する。［２］<br>（４）このサブクラスは，このサブクラスに分類しうる高分子化合物を形成する単量体に基づく組成物も包含する。［７］<br>このサブクラスにおいては：［７］<br>（ａ）単量体が定義されているなら，形成される重合体に従ってグループＣ０８Ｇ２／００～Ｃ０８Ｇ７９／００，Ｃ０８Ｇ８３／００に分類する；［７］<br>（ｂ）単量体は定義されているが，組成物がこのサブクラスの１つのメイングループ内に分類できない場合は，その組成物はグループＣ０８Ｇ８５／００に分類する；［７］<br>（ｃ）配合成分自体が重要である場合は，サブクラスＣ０８Ｋにも分類する。［７］<br><br><b><ul>サブクラス内の索引</ul></b><br>アルデヒドまたはケトンから得られる高分子化合物　２／００～１６／００<br>ポリアセタール　２／００，４／００<br>イソシアネートまたはイソチオシアネートから得られる高分子化合物　１８／００<br>エポキシ樹脂　５９／００<br>主鎖に連結基を形成する反応によって得られる高分子化合物　６１／００～７９／００<br>炭素―炭素連結基　６１／００<br>酸素を含む連鎖　６３／００～６７／００<br>窒素を含む連鎖　６９／００～７３／００<br>いおうを含む連鎖　７５／００<br>けい素を含む連鎖　７７／００<br>炭素，酸素，窒素，いおう，またはけい素以外の原子を含む連結基　７９／００<br>単量体の不存在下に重合体を相互に反応することにより得られる高分子化合物　８１／００<br>その他の高分子化合物　８３／００<br>一般的方法　８５／００",
+      "en": "MACROMOLECULAR COMPOUNDS OBTAINED OTHERWISE THAN BY REACTIONS ONLY INVOLVING CARBON-TO-CARBON UNSATURATED BONDS(fermentation or enzyme-using processes to synthesise a desired chemical compound or composition or to separate optical isomers from a racemic mixture <b>C12P</b>);<br><br><b><u>Note(s)</u></b><br><br><ul><li>Therapeutic activity of compounds is further classified in subclass <b>A61P</b>.    </li><li>In this subclass, group <b>C08G18/00</b> takes precedence over the other groups. A further classification is given if the polymers are obtained by reactions forming specific linkages for which an appropriate group is provided.    </li><li>Within each main group of this subclass, the last place priority rule is applied, i.e. at each hierarchical level, in the absence of an indication to the contrary, classification is made in the last appropriate place.    </li><li>This subclass <u>covers</u> also compositions based on monomers which form macromolecular compounds classifiable in this subclass.    <ul><li>In this subclass:    <ul><li>if the monomers are defined, classification is made in groups <b>C08G2/00 to C08G79/00</b> , <b>C08G83/00</b> according to the polymer to be formed;    </li><li>if the monomers are defined in a way that a composition cannot be classified within one main group of this subclass, the composition is classified in group <b>C08G85/00</b>;    </li><li>if the compounding ingredients are of interest <u>per se</u>, classification is also made in subclass <b>C08K</b>.    </li></ul></li></ul></li></ul><br><br><b><u>Subclass indexes</u></b><br><br><table><tr><td width=\"70%\">MACROMOLECULAR COMPOUNDS OBTAINED FROM ALDEHYDES OR KETONES </td><td><b><b>2/00 to 16/00</b> </b></td></tr><tr><td width=\"70%\">Polyacetals </td><td><b><b>2/00</b>, <b>4/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">MACROMOLECULAR COMPOUNDS OBTAINED FROM ISOCYANATES OR ISOTHIOCYANATES </td><td><b><b>18/00</b></b></td></tr></tr><tr><td width=\"70%\">EPOXY RESINS </td><td><b><b>59/00</b></b></td></tr></tr><tr><td width=\"70%\">MACROMOLECULAR COMPOUNDS OBTAINED BY REACTIONS FORMING A LINKAGE IN THE MAIN CHAIN </td><td><b><b>61/00 to 79/00</b> </b></td></tr><tr><td width=\"70%\">a carbon-to-carbon link </td><td><b><b>61/00</b></b></td></tr></tr><tr><td width=\"70%\">a linkage containing oxygen </td><td><b><b>63/00 to 67/00</b> </b></td></tr></tr><tr><td width=\"70%\">a linkage containing nitrogen </td><td><b><b>69/00 to 73/00</b> </b></td></tr></tr><tr><td width=\"70%\">a linkage containing sulfur </td><td><b><b>75/00</b></b></td></tr></tr><tr><td width=\"70%\">a linkage containing silicon </td><td><b><b>77/00</b></b></td></tr></tr><tr><td width=\"70%\">a linkage containing atoms other than carbon, oxygen, nitrogen, sulfur, or silicon </td><td><b><b>79/00</b></b></td></tr></tr></tr><tr><td width=\"70%\">MACROMOLECULAR COMPOUNDS OBTAINED BY INTERREACTING POLYMERS IN THE ABSENCE OF MONOMERS </td><td><b><b>81/00</b></b></td></tr></tr><tr><td width=\"70%\">OTHER MACROMOLECULAR COMPOUNDS </td><td><b><b>83/00</b></b></td></tr></tr><tr><td width=\"70%\">GENERAL PROCESSES </td><td><b><b>85/00</b></b></td></tr></tr></table>",
+      "count": 4044,
+      "sourceFile": "ipc_C.txt",
+      "kind": "ipc"
+    },
+    "C08": {
+      "code": "C08",
+      "level": 0,
+      "parent": "C",
+      "ja": "有機高分子化合物；その製造または化学的加工；それに基づく組成物<br><br><b><ul>注</ul></b><br>（１）このクラスは下記の高分子化合物それ自体は包含しない：<br>－ペプチド，例．タンパク質，はサブクラスＣ０７Ｋに包含される。［２０１２．０１］<br>－ヌクレオシド基，例．核酸，の糖類基でリンクされたリン酸塩またはポリリン酸塩基を別個に持つ化合物で，２個以上のモノヌクレオチドユニットを含むものは，グループＣ０７Ｈ２１／００に包含される。［２０１２．０１］<br>－遺伝子工学に関するＤＮＡまたはＲＮＡ，ベクター，例．プラスミド，またはその分離，製造または精製はグループＣ１２Ｎ１５／００に包含される。［２０１２．０１］<br>（２）化合物または組成物からなる殺生物剤，有害生物忌避剤，有害生物誘引剤または植物生長調節剤は，サブクラスＡ０１Ｐにも分類される。［８］",
+      "en": "ORGANIC MACROMOLECULAR COMPOUNDS; THEIR PREPARATION OR CHEMICAL WORKING-UP; COMPOSITIONS BASED THEREON; <br><br><b><u>Note(s)</u></b><br><br><ul><li>This class does not cover the following macromolecular compounds <u>per se</u>: <ul><li>peptides, e.g. proteins, which are covered by subclass <b>C07K</b>;        </li><li>compounds containing two or more mononucleotide units having separate phosphate or polyphosphate groups linked by saccharide radicals of nucleoside groups, e.g. nucleic acids, which are covered by group <b>C07H21/00</b>;         </li><li>DNA or RNA concerning genetic engineering, vectors, e.g. plasmids, or their isolation, preparation or purification, which are covered by group <b>C12N15/00</b>.         </li></ul></li><li>Biocidal, pest repellant, pest attractant or plant growth regulatory activity of compounds or preparations is further classified in subclass <b>A01P</b>.         </li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_C.txt",
+      "kind": "ipc"
+    },
+    "C": {
+      "code": "C",
+      "level": 0,
+      "parent": null,
+      "ja": "化学；冶金<br><br><b><ul>注</ul></b><br>（１）セクションＣにおいて，化学元素の種類に関する定義は次の通りである：<br>アルカリ金属：Ｌｉ，Ｎａ，Ｋ，Ｒｂ，Ｃｓ，Ｆｒ<br>アルカリ土類金属：Ｃａ，Ｓｒ，Ｂａ，Ｒａ<br>ランタニド：原子番号５７から７１までの元素<br>希土類：Ｓｃ，Ｙ，ランタニド<br>アクチニド：原子番号８９から１０３までの元素<br>耐火金属：Ｔｉ，Ｖ，Ｃｒ，Ｚｒ，Ｎｂ，Ｍｏ，Ｈｆ，Ｔａ，Ｗ<br>ハロゲン：Ｆ，Ｃｌ，Ｂｒ，Ｉ，Ａｔ<br>希ガス：Ｈｅ，Ｎｅ，Ａｒ，Ｋｒ，Ｘｅ，Ｒｎ<br>白金族：Ｏｓ，Ｉｒ，Ｐｔ，Ｒｕ，Ｒｈ，Ｐｄ<br>貴金属：Ａｇ，Ａｕ，白金族<br>軽金属：アルカリ金属，アルカリ土類金属，Ｂｅ，Ａｌ，Ｍｇ<br>重金属：軽金属以外の金属<br>鉄族：Ｆｅ，Ｃｏ，Ｎｉ<br>非金属：Ｈ，Ｂ，Ｃ，Ｓｉ，Ｎ，Ｐ，Ｏ，Ｓ，Ｓｅ，Ｔｅ，希ガス，ハロゲン<br>金属：非金属以外の元素<br>遷移元素：原子番号２１から３０まで，３９から４８まで，５７から８０まで，８９以上の元素<br>（２）Ｃセクションは以下のものを包含する：<br>（ａ）無機化合物，有機化合物，高分子化合物およびそれらの調製法を包含する純粋化学；<br>（ｂ）たとえばガラス，セラミック，肥料，プラスチック組成物，ペイント，石油工業の製品のような上記化合物を含有する組成物を包含する応用化学。それはまた，爆発物，染料，接着剤，潤滑剤および洗剤のように，ある目的に適した特別の性質をもつための組成物をも包含する；<br>（ｃ）コークスの製造，固体または気体燃料の製造，油脂およびろうの製造および精製，発酵工業（例．ビールおよびぶどう酒の製造），製糖工業のようなある境界工業；<br>（ｄ）ある操作または処理であって，純粋に機械的な処理，例．レザーおよび皮の機械的処理，または部分的機械的処理，例．水処理，または腐食防止一般であるもの；<br>（ｅ）冶金，鉄または非鉄合金<br>（３）ＩＰＣの全てのセクションにおいて，相反する指示がない限り，元素記号周期表への言及は，以下に示す１８のグループを表す。［２００９．０１］<br>’「図」’<br>’「図」’<br>（４）<br>（ａ）化学的部分または面および非化学的部分または面の両方を有する操作，処理，製品または物品の場合に，一般規則として，化学的部分または面はＣセクションに包含される。<br>（ｂ）これらのうちのある場合には，化学的部分または面には非化学的部分または面を伴い，純粋に機械的部分または面を伴うことさえある，というのは非化学的面は操作または処理にとって本質的であるかまたはそれらの重要な要素を構成するからである；実際，全体のさまざまな部分または面を分割しないのがより論理的と思える。これは応用化学や上記注（１）（ｃ），（ｄ）および（ｅ）の工業，操作および処理の場合に適用される。例えば，ガラス製造用特殊炉はＣ０３に包含されＦ２７には包含されない。<br>（ｃ）しかしながら，機械的面（または非化学的面）に非化学的な面が伴うという例外もある，例えば：<br>―サブクラスＡ６１Ｋにおけるある抽出プロセス；<br>―サブクラスＡ６１Ｌにおける空気の化学的精製；<br>―サブクラスＡ６２Ｄにおける化学的消火方法；<br>―クラスＢ０１における化学的プロセスおよび装置；<br>―サブクラスＢ２７Ｋにおける木材の含浸；<br>―サブクラスＧ０１Ｎにおける化学的分析または試験法；<br>―クラスＧ０３における写真材料またはプロセス，そして一般に，Ｄセクションにおける繊維の化学的処理および繊維素，紙等の製造<br>（ｄ）さらに他の場合，純粋化学的面はＣセクションに包含され，応用化学的面はＡ，Ｂ，Ｆセクションのような他のセクションに包含される，例．以下の物質または組成物の使用：<br>―サブクラスＡ０１Ｎに包含される植物または動物の処理；<br>―クラスＡ２３に包含される食物；<br>―クラスＦ４２に包含される弾薬または爆薬<br>（ｅ）化学的面および機械的面が非常に交錯して，簡単明確な分割ができない時，または化学的処理が自然なまたは論理的な延長として機械的プロセスを要する時は，化学的面に加えて，Ｃセクションは機械的面の一部のみ，例．クラスＣ０４に包含される人造石の後処理，を包含する。この後者の場合に，たとえその区別がむしろ任意であってもその位置を明確にするよう注または参照を通常設けている。",
+      "en": "CHEMISTRY; METALLURGY; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In section <b>C</b>, the definitions of groups of chemical elements are as follows: <ul><li><u>Alkali metals:</u> Li, Na, K, Rb, Cs, Fr</li><li><u>Alkaline earth metals:</u> Ca, Sr, Ba, Ra</li><li><u>Lanthanides:</u> elements with atomic numbers 57 to 71 inclusive</li><li><u>Rare earths:</u> Sc, Y, Lanthanides</li><li><u>Actinides:</u> elements with atomic numbers 89 to 103 inclusive</li><li><u>Refractory metals:</u> Ti, V, Cr, Zr, Nb, Mo, Hf, Ta, W</li><li><u>Halogens:</u> F, Cl, Br, I, At</li><li><u>Noble gases:</u> He, Ne, Ar, Kr, Xe, Rn</li><li><u>Platinum group:</u> Os, Ir, Pt, Ru, Rh, Pd</li><li><u>Noble metals:</u> Ag, Au, Platinum group</li><li><u>Light metals:</u> alkali metals, alkaline earth metals, Be, Al, Mg</li><li><u>Heavy metals:</u> metals other than light metals</li><li><u>Iron group:</u> Fe, Co, Ni</li><li><u>Non-metals:</u> H, B, C, Si, N, P, O, S, Se, Te, noble gases, halogens</li><li><u>Metals:</u> elements other than non-metals</li><li><u>Transition elements:</u> elements with atomic numbers 21 to 30 inclusive, 39 to 48 inclusive, 57 to 80 inclusive, 89 upwards</li></ul></li><li>Section <b>C</b> <u>covers</u> : <ul><li>pure chemistry, which covers inorganic compounds, organic compounds, macromolecular compounds, and their methods of preparation;</li><li>applied chemistry, which covers compositions containing the above compounds, such as: glass, ceramics, fertilisers, plastics compositions, paints, products of the petroleum industry. It also <u>covers</u> certain compositions on account of their having particular properties rendering them suitable for certain purposes, as in the case of explosives, dyestuffs, adhesives, lubricants, and detergents;</li><li>certain marginal industries, such as the manufacture of coke and of solid or gaseous fuels, the production and refining of oils, fats and waxes, the fermentation industry (e.g., brewing and wine-making), the sugar industry;</li><li>certain operations or treatments, which are either purely mechanical, e.g., the mechanical treatment of leather and skins, or partly mechanical, e.g., the treatment of water or the prevention of corrosion in general;</li><li>metallurgy, ferrous or non-ferrous alloys.</li></ul></li><li>In all sections of the IPC, in the absence of an indication to the contrary, the Periodic Table of chemical elements referred to is the one with 18 groups as represented in the table below. [figure]</li><li><ul><li>In the case of operations, treatments, products or articles having both a chemical and a non-chemical part or aspect, the general rule is that the chemical part or aspect is covered by section <b>C</b>.</li><li>In some of these cases, the chemical part or aspect brings with it a non-chemical one, even though purely mechanical, because this latter aspect either is essential to the operation or treatment or constitutes an important element thereof. It has seemed, in fact, more logical not to dissociate the different parts or aspects of a coherent whole. This is the case for applied chemistry and for the industries, operations and treatments mentioned in Notes (1)(c), (d) and (e). For example, furnaces peculiar to the manufacture of glass are covered by class <b>C03</b> and not by class <b>F27</b>.</li><li>There are, however, some exceptions in which the mechanical (or non-chemical) aspect carries with it the chemical aspect, for example: <ul><li>certain extractive processes, in subclass <b>A61K</b>;</li><li>the chemical purification of air, in subclass <b>A61L</b>;</li><li>chemical methods of fire-fighting, in subclass <b>A62D</b>;</li><li>chemical processes and apparatus, in class <b>B01</b>;</li><li>impregnation of wood, in subclass <b>B27K</b>;</li><li>chemical methods of analysis or testing, in subclass <b>G01N</b>;</li><li>photographic materials and processes, in class <b>G03</b>, and, generally, the chemical treatment of textiles and the production of cellulose or paper, in section <b>D</b>.</li></ul></li><li>In still other cases, the pure chemical aspect is covered by section <b>C</b> and the applied chemical aspect by another section, such as <b>A</b>, <b>B</b> or <b>F</b>, e.g., the use of a substance or composition for: <ul><li>treatment of plants or animals, covered by subclass <b>A01N</b>;</li><li>foodstuffs, covered by class <b>A23</b>;</li><li>ammunition or explosives, covered by class <b>F42</b>.</li></ul></li><li>When the chemical and mechanical aspects are so closely interlocked that a neat and simple division is not possible, or when certain mechanical processes follow as a natural or logical continuation of a chemical treatment, section <b>C</b> may cover, in addition to the chemical aspect, a part only of the mechanical aspect, e.g., after-treatment of artificial stone, covered by class <b>C04</b>. In this latter case, a note or a reference is usually given to make the position clear, even if sometimes the division is rather arbitrary.</li></ul></li></ul>",
+      "count": 0,
+      "sourceFile": "ipc_C.txt",
+      "kind": "ipc"
+    },
+    "C08G2/00": {
+      "code": "C08G2/00",
+      "level": 0,
+      "parent": "C08G",
+      "ja": "アルデヒドまたはその環状オリゴマーのまたはケトンの付加重合体：それらと５０モル％未満の他の物質との付加共重合体［２］",
+      "en": "Addition polymers of aldehydes or cyclic oligomers thereof or of ketones; Addition copolymers thereof with less than 50 molar percent of other substances",
+      "count": 2220,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G2/02": {
+      "code": "C08G2/02",
+      "level": 1,
+      "parent": "C08G2/00",
+      "ja": "波動エネルギーまたは粒子線により開始される重合［２］",
+      "en": "Polymerisation initiated by wave energy or by particle radiation",
+      "count": 29,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G2/04": {
+      "code": "C08G2/04",
+      "level": 1,
+      "parent": "C08G2/00",
+      "ja": "分子量に影響する化合物を用いることによる重合，例．連鎖移動剤［２］",
+      "en": "Polymerisation by using compounds which act upon the molecular weight, e.g. chain-transferring agents",
+      "count": 86,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G2/06": {
+      "code": "C08G2/06",
+      "level": 1,
+      "parent": "C08G2/00",
+      "ja": "触媒［２］",
+      "en": "Catalysts",
+      "count": 380,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G2/08": {
+      "code": "C08G2/08",
+      "level": 1,
+      "parent": "C08G2/00",
+      "ja": "ホルムアルデヒドの重合［２］",
+      "en": "Polymerisation of formaldehyde",
+      "count": 419,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G2/10": {
+      "code": "C08G2/10",
+      "level": 1,
+      "parent": "C08G2/00",
+      "ja": "ホルムアルデヒドの環状オリゴマーの重合［２］",
+      "en": "Polymerisation of cyclic oligomers of formaldehyde",
+      "count": 451,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G2/12": {
+      "code": "C08G2/12",
+      "level": 1,
+      "parent": "C08G2/00",
+      "ja": "アセトアルデヒドまたはその環状オリゴマーの重合［２］",
+      "en": "Polymerisation of acetaldehyde or cyclic oligomers thereof",
+      "count": 74,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G2/14": {
+      "code": "C08G2/14",
+      "level": 1,
+      "parent": "C08G2/00",
+      "ja": "グループＣ０８Ｇ２／０８～Ｃ０８Ｇ２／１２に分類されないアルデヒド単独の重合［２］",
+      "en": "Polymerisation of single aldehydes not provided for in groups <b>C08G2/08 to C08G2/12</b> ",
+      "count": 107,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G2/16": {
+      "code": "C08G2/16",
+      "level": 1,
+      "parent": "C08G2/00",
+      "ja": "ケトン単独の重合［２］",
+      "en": "Polymerisation of single ketones",
+      "count": 37,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G2/18": {
+      "code": "C08G2/18",
+      "level": 1,
+      "parent": "C08G2/00",
+      "ja": "アルデヒドまたはケトンの共重合［２］",
+      "en": "Copolymerisation of aldehydes or ketones",
+      "count": 659,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G2/20": {
+      "code": "C08G2/20",
+      "level": 2,
+      "parent": "C08G2/18",
+      "ja": "他のアルデヒドまたはケトンとの［２］",
+      "en": "with other aldehydes or ketones",
+      "count": 95,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G2/22": {
+      "code": "C08G2/22",
+      "level": 2,
+      "parent": "C08G2/18",
+      "ja": "エポキシ化合物との［２］",
+      "en": "with epoxy compounds",
+      "count": 162,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G2/24": {
+      "code": "C08G2/24",
+      "level": 2,
+      "parent": "C08G2/18",
+      "ja": "アセタールとの［２］",
+      "en": "with acetals",
+      "count": 162,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G2/26": {
+      "code": "C08G2/26",
+      "level": 2,
+      "parent": "C08G2/18",
+      "ja": "炭素―炭素不飽和を含む化合物との［２］",
+      "en": "with compounds containing carbon-to-carbon unsaturation",
+      "count": 106,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G2/28": {
+      "code": "C08G2/28",
+      "level": 1,
+      "parent": "C08G2/00",
+      "ja": "重合後の処理［２］",
+      "en": "Post-polymerisation treatments",
+      "count": 279,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G2/30": {
+      "code": "C08G2/30",
+      "level": 1,
+      "parent": "C08G2/00",
+      "ja": "後処理による化学的変性［２］",
+      "en": "Chemical modification by after-treatment",
+      "count": 344,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G2/32": {
+      "code": "C08G2/32",
+      "level": 2,
+      "parent": "C08G2/30",
+      "ja": "エステル化によるもの［２］",
+      "en": "by esterification",
+      "count": 69,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G2/34": {
+      "code": "C08G2/34",
+      "level": 2,
+      "parent": "C08G2/30",
+      "ja": "エーテル化によるもの［２］",
+      "en": "by etherification",
+      "count": 63,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G2/36": {
+      "code": "C08G2/36",
+      "level": 2,
+      "parent": "C08G2/30",
+      "ja": "解重合によるもの［２］",
+      "en": "by depolymerisation",
+      "count": 62,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G2/38": {
+      "code": "C08G2/38",
+      "level": 1,
+      "parent": "C08G2/00",
+      "ja": "高分子化合物にアルデヒドまたはケトンを重合することによりつくられたブロックまたはグラフト重合体［２］",
+      "en": "Block or graft polymers prepared by polymerisation of aldehydes or ketones on to macromolecular compounds",
+      "count": 219,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G4/00": {
+      "code": "C08G4/00",
+      "level": 0,
+      "parent": "C08G",
+      "ja": "アルデヒドまたはケトンのポリアルコールとの重縮合体；環中に少くとも一回―Ｏ―Ｃ―Ｏ―基が現われるような複素環式酸素化合物の付加重合体（アルデヒドの環状オリゴマーの付加重合体Ｃ０８Ｇ２／００）［２］",
+      "en": "Condensation polymers of aldehydes or ketones with polyalcohols; Addition polymers of heterocyclic oxygen compounds containing in the ring at least once the grouping &mdash;O&mdash;C&mdash;O&mdash;(of cyclic oligomers of aldehydes <b>C08G2/00</b>)",
+      "count": 721,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G6/00": {
+      "code": "C08G6/00",
+      "level": 0,
+      "parent": "C08G",
+      "ja": "アルデヒドまたはケトンのみの重縮合体［２］",
+      "en": "Condensation polymers of aldehydes or ketones only",
+      "count": 258,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G6/02": {
+      "code": "C08G6/02",
+      "level": 1,
+      "parent": "C08G6/00",
+      "ja": "アルデヒドのケトンとの［２］",
+      "en": "of aldehydes with ketones",
+      "count": 439,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G8/00": {
+      "code": "C08G8/00",
+      "level": 0,
+      "parent": "C08G",
+      "ja": "アルデヒドまたはケトンのフェノールのみとの重縮合体［２］",
+      "en": "Condensation polymers of aldehydes or ketones with phenols only",
+      "count": 2963,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G8/02": {
+      "code": "C08G8/02",
+      "level": 1,
+      "parent": "C08G8/00",
+      "ja": "ケトンの［２］",
+      "en": "of ketones",
+      "count": 511,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G8/04": {
+      "code": "C08G8/04",
+      "level": 1,
+      "parent": "C08G8/00",
+      "ja": "アルデヒドの［２］",
+      "en": "of aldehydes",
+      "count": 1575,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G8/06": {
+      "code": "C08G8/06",
+      "level": 2,
+      "parent": "C08G8/04",
+      "ja": "フルフラールの［２］",
+      "en": "of furfural",
+      "count": 231,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G8/08": {
+      "code": "C08G8/08",
+      "level": 2,
+      "parent": "C08G8/04",
+      "ja": "ホルムアルデヒドの，例．その場で形成されたホルムアルデヒドの［２］",
+      "en": "of formaldehyde, e.g. of formaldehyde formed <u>in situ</u>",
+      "count": 1170,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G8/10": {
+      "code": "C08G8/10",
+      "level": 3,
+      "parent": "C08G8/08",
+      "ja": "フェノール（石炭酸）との［２］",
+      "en": "with phenol",
+      "count": 2711,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G8/12": {
+      "code": "C08G8/12",
+      "level": 3,
+      "parent": "C08G8/08",
+      "ja": "ただ一個の炭化水素置換基をＯＨ基に対してオルソまたはパラ位置に有する一価フェノールとの，例．ｐ―第三ブチルフェノール［２］",
+      "en": "with monohydric phenols having only one hydrocarbon substituent ortho or para to the OH group, e.g. p-<u>tert.</u>-butyl phenol",
+      "count": 660,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G8/14": {
+      "code": "C08G8/14",
+      "level": 3,
+      "parent": "C08G8/08",
+      "ja": "ハロゲン化フェノールとの［２］",
+      "en": "with halogenated phenols",
+      "count": 65,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G8/16": {
+      "code": "C08G8/16",
+      "level": 3,
+      "parent": "C08G8/08",
+      "ja": "アミノ―またはニトロフェノールとの［２］",
+      "en": "with amino- or nitrophenols",
+      "count": 120,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G8/18": {
+      "code": "C08G8/18",
+      "level": 3,
+      "parent": "C08G8/08",
+      "ja": "カルボン酸またはスルホン酸基で置換されたフェノールとの［２］",
+      "en": "with phenols substituted by carboxylic or sulfonic acid groups",
+      "count": 203,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G8/20": {
+      "code": "C08G8/20",
+      "level": 3,
+      "parent": "C08G8/08",
+      "ja": "多価フェノールとの［２］",
+      "en": "with polyhydric phenols",
+      "count": 950,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G8/22": {
+      "code": "C08G8/22",
+      "level": 4,
+      "parent": "C08G8/20",
+      "ja": "レゾルシノール［２］",
+      "en": "Resorcinol",
+      "count": 476,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G8/24": {
+      "code": "C08G8/24",
+      "level": 3,
+      "parent": "C08G8/08",
+      "ja": "グループＣ０８Ｇ８／１０～Ｃ０８Ｇ８／２０のうちの１つのみには属さない２種またはそれ以上のフェノールの混合物との［２］",
+      "en": "with mixtures of two or more phenols which are not covered by only one of the groups <b>C08G8/10 to C08G8/20</b> ",
+      "count": 1007,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G8/26": {
+      "code": "C08G8/26",
+      "level": 1,
+      "parent": "C08G8/00",
+      "ja": "アルデヒドとケトンの混合物からの［２］",
+      "en": "from mixtures of aldehydes and ketones",
+      "count": 120,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G8/28": {
+      "code": "C08G8/28",
+      "level": 1,
+      "parent": "C08G8/00",
+      "ja": "化学的に変性された重縮合物［２］",
+      "en": "Chemically modified polycondensates",
+      "count": 5431,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G8/30": {
+      "code": "C08G8/30",
+      "level": 2,
+      "parent": "C08G8/28",
+      "ja": "不飽和化合物によるもの，例．テルペン［２］",
+      "en": "by unsaturated compounds, e.g. terpenes",
+      "count": 694,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G8/32": {
+      "code": "C08G8/32",
+      "level": 2,
+      "parent": "C08G8/28",
+      "ja": "有機酸またはその誘導体によるもの，例．脂肪油［２］",
+      "en": "by organic acids or derivatives thereof, e.g. fatty oils",
+      "count": 656,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G8/34": {
+      "code": "C08G8/34",
+      "level": 2,
+      "parent": "C08G8/28",
+      "ja": "天然樹脂または樹脂酸によるもの，例．ロジン［２］",
+      "en": "by natural resins or resin acids, e.g. rosin",
+      "count": 438,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G8/36": {
+      "code": "C08G8/36",
+      "level": 2,
+      "parent": "C08G8/28",
+      "ja": "エーテル化によるもの［２］",
+      "en": "by etherifying",
+      "count": 570,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G8/38": {
+      "code": "C08G8/38",
+      "level": 1,
+      "parent": "C08G8/00",
+      "ja": "高分子化合物にアルデヒドまたはケトンを重縮合することによりつくられるブロックまたはグラフト重合体［２］",
+      "en": "Block or graft polymers prepared by polycondensation of aldehydes or ketones on to macromolecular compounds",
+      "count": 251,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G10/00": {
+      "code": "C08G10/00",
+      "level": 0,
+      "parent": "C08G",
+      "ja": "アルデヒドまたはケトンの芳香族炭化水素またはハロゲン化芳香族炭化水素のみとの重縮合体［２］",
+      "en": "Condensation polymers of aldehydes or ketones with aromatic hydrocarbons or halogenated aromatic hydrocarbons only",
+      "count": 364,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G10/02": {
+      "code": "C08G10/02",
+      "level": 1,
+      "parent": "C08G10/00",
+      "ja": "アルデヒドの［２］",
+      "en": "of aldehydes",
+      "count": 343,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G10/04": {
+      "code": "C08G10/04",
+      "level": 2,
+      "parent": "C08G10/02",
+      "ja": "化学的に変性された重縮合物［２］",
+      "en": "Chemically modified polycondensates",
+      "count": 197,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G10/06": {
+      "code": "C08G10/06",
+      "level": 1,
+      "parent": "C08G10/00",
+      "ja": "高分子化合物にアルデヒドまたはケトンを重縮合することによりつくられるブロックまたはグラフト重合体［２］",
+      "en": "Block or graft polymers prepared by polycondensation of aldehydes or ketones on to macromolecular compounds",
+      "count": 18,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G12/00": {
+      "code": "C08G12/00",
+      "level": 0,
+      "parent": "C08G",
+      "ja": "アルデヒドまたはケトンの，窒素に結合した水素を有する化合物のみとの重縮合体（アミノフェノールＣ０８Ｇ８／１６）［２］",
+      "en": "Condensation polymers of aldehydes or ketones with only compounds containing hydrogen attached to nitrogen(amino phenols <b>C08G8/16</b>)",
+      "count": 1232,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G12/02": {
+      "code": "C08G12/02",
+      "level": 1,
+      "parent": "C08G12/00",
+      "ja": "アルデヒドの［２］",
+      "en": "of aldehydes",
+      "count": 439,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G12/04": {
+      "code": "C08G12/04",
+      "level": 2,
+      "parent": "C08G12/02",
+      "ja": "非環式または炭素環式化合物との［２］",
+      "en": "with acyclic or carbocyclic compounds",
+      "count": 556,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G12/06": {
+      "code": "C08G12/06",
+      "level": 3,
+      "parent": "C08G12/04",
+      "ja": "アミン［２］",
+      "en": "Amines",
+      "count": 584,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G12/08": {
+      "code": "C08G12/08",
+      "level": 4,
+      "parent": "C08G12/06",
+      "ja": "芳香族［２］",
+      "en": "aromatic",
+      "count": 1627,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G12/10": {
+      "code": "C08G12/10",
+      "level": 3,
+      "parent": "C08G12/04",
+      "ja": "Ｘ＝Ｃ（―Ｎ＜）↓２（ＸはＯ，ＳまたはＮ―）なる構造を有する非環式化合物との［２］",
+      "en": "with acyclic compounds having the moiety X=C(&mdash;N[figure])<sub>2</sub> in which X is O, S, or &mdash;N",
+      "count": 155,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G12/12": {
+      "code": "C08G12/12",
+      "level": 4,
+      "parent": "C08G12/10",
+      "ja": "尿素；チオ尿素［２］",
+      "en": "Ureas; Thioureas",
+      "count": 2178,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G12/14": {
+      "code": "C08G12/14",
+      "level": 4,
+      "parent": "C08G12/10",
+      "ja": "ジシアンジアミド；ジシアンジアミジン；グアニジン；ビグアニド；ビューレット；セミカルバジド［２］",
+      "en": "Dicyandiamides; Dicyandiamidines; Guanidines; Biguanides; Biuret; Semicarbazides",
+      "count": 89,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G12/16": {
+      "code": "C08G12/16",
+      "level": 5,
+      "parent": "C08G12/14",
+      "ja": "ジシアンジアミド［２］",
+      "en": "Dicyandiamides",
+      "count": 134,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G12/18": {
+      "code": "C08G12/18",
+      "level": 3,
+      "parent": "C08G12/04",
+      "ja": "シアナミドとの［２］",
+      "en": "with cyanamide",
+      "count": 28,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G12/20": {
+      "code": "C08G12/20",
+      "level": 3,
+      "parent": "C08G12/04",
+      "ja": "ウレタンまたはチオウレタンとの［２］",
+      "en": "with urethanes or thiourethanes",
+      "count": 84,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G12/22": {
+      "code": "C08G12/22",
+      "level": 3,
+      "parent": "C08G12/04",
+      "ja": "カルボン酸アミドとの［２］",
+      "en": "with carboxylic acid amides",
+      "count": 158,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G12/24": {
+      "code": "C08G12/24",
+      "level": 3,
+      "parent": "C08G12/04",
+      "ja": "スルホン酸アミドとの［２］",
+      "en": "with sulfonic acid amides",
+      "count": 116,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G12/26": {
+      "code": "C08G12/26",
+      "level": 2,
+      "parent": "C08G12/02",
+      "ja": "複素環式化合物との［２］",
+      "en": "with heterocyclic compounds",
+      "count": 752,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G12/28": {
+      "code": "C08G12/28",
+      "level": 3,
+      "parent": "C08G12/26",
+      "ja": "置換ジアジン，ジアゾールまたはトリアゾールとの［２］",
+      "en": "with substituted diazines, diazoles or triazoles",
+      "count": 153,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G12/30": {
+      "code": "C08G12/30",
+      "level": 3,
+      "parent": "C08G12/26",
+      "ja": "置換トリアジンとの［２］",
+      "en": "with substituted triazines",
+      "count": 590,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G12/32": {
+      "code": "C08G12/32",
+      "level": 4,
+      "parent": "C08G12/30",
+      "ja": "メラミン［２］",
+      "en": "Melamines",
+      "count": 1584,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G12/34": {
+      "code": "C08G12/34",
+      "level": 3,
+      "parent": "C08G12/26",
+      "ja": "複素環式化合物と非環式または炭素環式化合物との［２］",
+      "en": "and acyclic or carbocyclic compounds",
+      "count": 472,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G12/36": {
+      "code": "C08G12/36",
+      "level": 4,
+      "parent": "C08G12/34",
+      "ja": "尿素；チオ尿素［２］",
+      "en": "Ureas; Thioureas",
+      "count": 186,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G12/38": {
+      "code": "C08G12/38",
+      "level": 5,
+      "parent": "C08G12/36",
+      "ja": "およびメラミン［２］",
+      "en": "and melamines",
+      "count": 731,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G12/40": {
+      "code": "C08G12/40",
+      "level": 2,
+      "parent": "C08G12/02",
+      "ja": "化学的に変性された重縮合物［２］",
+      "en": "Chemically modified polycondensates",
+      "count": 2153,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G12/42": {
+      "code": "C08G12/42",
+      "level": 3,
+      "parent": "C08G12/40",
+      "ja": "エーテル化によるもの［２］",
+      "en": "by etherifying",
+      "count": 1057,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G12/44": {
+      "code": "C08G12/44",
+      "level": 3,
+      "parent": "C08G12/40",
+      "ja": "エステル化によるもの［２］",
+      "en": "by esterifying",
+      "count": 97,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G12/46": {
+      "code": "C08G12/46",
+      "level": 1,
+      "parent": "C08G12/00",
+      "ja": "高分子化合物にアルデヒドまたはケトンを重縮合することによりつくられるブロックまたはグラフト重合体［２］",
+      "en": "Block or graft polymers prepared by polycondensation of aldehydes or ketones on to macromolecular compounds",
+      "count": 374,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G14/00": {
+      "code": "C08G14/00",
+      "level": 0,
+      "parent": "C08G",
+      "ja": "アルデヒドまたはケトンの，グループＣ０８Ｇ８／００～Ｃ０８Ｇ１２／００の少くとも２つに属する２種またはそれ以上の他の単量体との重縮合体［２］",
+      "en": "Condensation polymers of aldehydes or ketones with two or more other monomers covered by at least two of the groups <b>C08G8/00 to C08G12/00</b> ",
+      "count": 476,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G14/02": {
+      "code": "C08G14/02",
+      "level": 1,
+      "parent": "C08G14/00",
+      "ja": "アルデヒドの［２］",
+      "en": "of aldehydes",
+      "count": 162,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G14/04": {
+      "code": "C08G14/04",
+      "level": 2,
+      "parent": "C08G14/02",
+      "ja": "フェノールとの［２］",
+      "en": "with phenols",
+      "count": 395,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G14/06": {
+      "code": "C08G14/06",
+      "level": 3,
+      "parent": "C08G14/04",
+      "ja": "フェノールおよび窒素に結合した水素を含む単量体との［２］",
+      "en": "and monomers containing hydrogen attached to nitrogen",
+      "count": 1406,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G14/067": {
+      "code": "C08G14/067",
+      "level": 4,
+      "parent": "C08G14/06",
+      "ja": "非環状または炭素環状単量体［５］",
+      "en": "Acyclic or carbocyclic monomers",
+      "count": 21,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G14/073": {
+      "code": "C08G14/073",
+      "level": 5,
+      "parent": "C08G14/067",
+      "ja": "アミン［５］",
+      "en": "Amines",
+      "count": 695,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G14/08": {
+      "code": "C08G14/08",
+      "level": 5,
+      "parent": "C08G14/067",
+      "ja": "尿素；チオ尿素［２，５］",
+      "en": "Ureas; Thioureas",
+      "count": 538,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G14/09": {
+      "code": "C08G14/09",
+      "level": 4,
+      "parent": "C08G14/06",
+      "ja": "複素環単量体［５］",
+      "en": "Heterocyclic monomers",
+      "count": 100,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G14/10": {
+      "code": "C08G14/10",
+      "level": 5,
+      "parent": "C08G14/09",
+      "ja": "メラミン［２，５］",
+      "en": "Melamines",
+      "count": 342,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G14/12": {
+      "code": "C08G14/12",
+      "level": 3,
+      "parent": "C08G14/04",
+      "ja": "化学的に変性された重縮合物［２］",
+      "en": "Chemically modified polycondensates",
+      "count": 549,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G14/14": {
+      "code": "C08G14/14",
+      "level": 1,
+      "parent": "C08G14/00",
+      "ja": "高分子化合物にアルデヒドまたはケトンを重縮合することによりつくられるブロックまたはグラフト重合体［２］",
+      "en": "Block or graft polymers prepared by polycondensation of aldehydes or ketones on to macromolecular compounds",
+      "count": 89,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G16/00": {
+      "code": "C08G16/00",
+      "level": 0,
+      "parent": "C08G",
+      "ja": "アルデヒドまたはケトンの，グループＣ０８Ｇ４／００からＣ０８Ｇ１４／００に属さない単量体との重縮合体［２］",
+      "en": "Condensation polymers of aldehydes or ketones with monomers not provided for in the groups <b>C08G4/00 to C08G14/00</b> ",
+      "count": 657,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G16/02": {
+      "code": "C08G16/02",
+      "level": 1,
+      "parent": "C08G16/00",
+      "ja": "アルデヒドの［２］",
+      "en": "of aldehydes",
+      "count": 1604,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G16/04": {
+      "code": "C08G16/04",
+      "level": 2,
+      "parent": "C08G16/02",
+      "ja": "化学的に変性された重縮合物［２］",
+      "en": "Chemically modified polycondensates",
+      "count": 262,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G16/06": {
+      "code": "C08G16/06",
+      "level": 1,
+      "parent": "C08G16/00",
+      "ja": "高分子化合物にアルデヒドまたはケトンを重縮合することによりつくられたブロックまたはグラフト重合体［２］",
+      "en": "Block or graft polymers prepared by polycondensation of aldehydes or ketones on to macromolecular compounds",
+      "count": 75,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G18/00": {
+      "code": "C08G18/00",
+      "level": 0,
+      "parent": "C08G",
+      "ja": "イソシアネートまたはイソチオシアネートの重合生成物［２］<br><br><b><ul>注</ul></b><br>このグループにおいては，グループ１０１／００のインデキシングコードを付与することが望ましい。［５］",
+      "en": "Polymeric products of isocyanates or isothiocyanates; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this group, it is desirable to add the indexing code of group <b>C08G101/00</b>.</li></ul>",
+      "count": 16488,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G18/02": {
+      "code": "C08G18/02",
+      "level": 1,
+      "parent": "C08G18/00",
+      "ja": "イソシアネートまたはイソチオシアネートのみの［２］",
+      "en": "of isocyanates or isothiocyanates only",
+      "count": 2100,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G18/04": {
+      "code": "C08G18/04",
+      "level": 1,
+      "parent": "C08G18/00",
+      "ja": "ビニル化合物との［２］",
+      "en": "with vinyl compounds",
+      "count": 277,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G18/06": {
+      "code": "C08G18/06",
+      "level": 1,
+      "parent": "C08G18/00",
+      "ja": "活性水素を有する化合物との［２］",
+      "en": "with compounds having active hydrogen",
+      "count": 1042,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G18/08": {
+      "code": "C08G18/08",
+      "level": 2,
+      "parent": "C08G18/06",
+      "ja": "方法［２］",
+      "en": "Processes",
+      "count": 11872,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G18/09": {
+      "code": "C08G18/09",
+      "level": 3,
+      "parent": "C08G18/08",
+      "ja": "イソシアネート基あるいはイソチオシアネート基の一部が反応混合物の中で起こす相互反応を伴う，イソシアネートまたはイソチオシアネートのオリゴメリゼーションを含むもの［７］",
+      "en": "comprising oligomerisation of isocyanates or isothiocyanates involving reaction of a part of the isocyanate or isothiocyanate groups with each other in the reaction mixture",
+      "count": 1191,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G18/10": {
+      "code": "C08G18/10",
+      "level": 3,
+      "parent": "C08G18/08",
+      "ja": "イソシアネートまたはイソチオシアネートと活性水素を有する化合物との最初の反応段階における反応を伴うプレポリマー法［２］",
+      "en": "Prepolymer processes involving reaction of isocyanates or isothiocyanates with compounds having active hydrogen in a first reaction step",
+      "count": 18444,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G18/12": {
+      "code": "C08G18/12",
+      "level": 4,
+      "parent": "C08G18/10",
+      "ja": "第一重合段階において活性水素を有する２またはそれ以上の化合物を用いるもの［２］",
+      "en": "using two or more compounds having active hydrogen in the first polymerisation step",
+      "count": 8112,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G18/16": {
+      "code": "C08G18/16",
+      "level": 3,
+      "parent": "C08G18/08",
+      "ja": "触媒［２］",
+      "en": "Catalysts",
+      "count": 2703,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G18/18": {
+      "code": "C08G18/18",
+      "level": 4,
+      "parent": "C08G18/16",
+      "ja": "第二または第三アミンまたはそれらの塩を含むもの［２］",
+      "en": "containing secondary or tertiary amines or salts thereof",
+      "count": 3803,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G18/20": {
+      "code": "C08G18/20",
+      "level": 5,
+      "parent": "C08G18/18",
+      "ja": "複素環式アミン；その塩［２］",
+      "en": "Heterocyclic amines; Salts thereof",
+      "count": 1880,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G18/22": {
+      "code": "C08G18/22",
+      "level": 4,
+      "parent": "C08G18/16",
+      "ja": "金属化合物を含むもの［２］",
+      "en": "containing metal compounds",
+      "count": 3078,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G18/24": {
+      "code": "C08G18/24",
+      "level": 5,
+      "parent": "C08G18/22",
+      "ja": "すず化合物［２］",
+      "en": "of tin",
+      "count": 2773,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G18/26": {
+      "code": "C08G18/26",
+      "level": 5,
+      "parent": "C08G18/22",
+      "ja": "鉛化合物［２］",
+      "en": "of lead",
+      "count": 122,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G18/28": {
+      "code": "C08G18/28",
+      "level": 2,
+      "parent": "C08G18/06",
+      "ja": "活性水素含有使用化合物に特徴のあるもの［２］<br><br><b><ul>注</ul></b><br>このグループにおいて，発泡体材料製造のための水の添加は考慮しない。［２］",
+      "en": "characterised by the compounds used containing active hydrogen; <br><br><b><u>Note(s)</u></b><br><br><ul><li>For the purpose of this group, the addition of water for the preparation of cellular materials is not taken into consideration.</li></ul>",
+      "count": 6295,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G18/30": {
+      "code": "C08G18/30",
+      "level": 3,
+      "parent": "C08G18/28",
+      "ja": "低分子量化合物［２］",
+      "en": "Low-molecular-weight compounds",
+      "count": 2931,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G18/32": {
+      "code": "C08G18/32",
+      "level": 4,
+      "parent": "C08G18/30",
+      "ja": "ポリヒドロキシ化合物；ポリアミン；ヒドロキシアミン［２］",
+      "en": "Polyhydroxy compounds; Polyamines; Hydroxy amines",
+      "count": 25641,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G18/34": {
+      "code": "C08G18/34",
+      "level": 4,
+      "parent": "C08G18/30",
+      "ja": "カルボン酸；そのモノヒドロキシ化合物とのエステル［２］",
+      "en": "Carboxylic acids; Esters thereof with monohydroxyl compounds",
+      "count": 6845,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G18/36": {
+      "code": "C08G18/36",
+      "level": 4,
+      "parent": "C08G18/30",
+      "ja": "高級脂肪酸のヒドロキシル化エステル［２］",
+      "en": "Hydroxylated esters of higher fatty acids",
+      "count": 2872,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G18/38": {
+      "code": "C08G18/38",
+      "level": 4,
+      "parent": "C08G18/30",
+      "ja": "酸素以外の異種原子を有するもの（Ｃ０８Ｇ１８／３２が優先）［２］",
+      "en": "having hetero atoms other than oxygen(<b>C08G18/32</b> takes precedence)",
+      "count": 8252,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G18/40": {
+      "code": "C08G18/40",
+      "level": 3,
+      "parent": "C08G18/28",
+      "ja": "高分子量化合物［２］",
+      "en": "High-molecular-weight compounds",
+      "count": 6485,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G18/42": {
+      "code": "C08G18/42",
+      "level": 4,
+      "parent": "C08G18/40",
+      "ja": "主鎖にカルボン酸エステルまたは炭酸エステル基を有する重縮合物［２］",
+      "en": "Polycondensates having carboxylic or carbonic ester groups in the main chain",
+      "count": 20612,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G18/44": {
+      "code": "C08G18/44",
+      "level": 5,
+      "parent": "C08G18/42",
+      "ja": "ポリカーボネート［２］",
+      "en": "Polycarbonates",
+      "count": 5407,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G18/46": {
+      "code": "C08G18/46",
+      "level": 5,
+      "parent": "C08G18/42",
+      "ja": "酸素以外の異種原子を有するもの［２］",
+      "en": "having hetero atoms other than oxygen",
+      "count": 1560,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G18/48": {
+      "code": "C08G18/48",
+      "level": 4,
+      "parent": "C08G18/40",
+      "ja": "ポリエーテル［２］",
+      "en": "Polyethers",
+      "count": 33364,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G18/50": {
+      "code": "C08G18/50",
+      "level": 5,
+      "parent": "C08G18/48",
+      "ja": "酸素以外の異種原子を有するもの［２］",
+      "en": "having hetero atoms other than oxygen",
+      "count": 5974,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G18/52": {
+      "code": "C08G18/52",
+      "level": 4,
+      "parent": "C08G18/40",
+      "ja": "ポリチオエーテル［２］",
+      "en": "Polythioethers",
+      "count": 376,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G18/54": {
+      "code": "C08G18/54",
+      "level": 4,
+      "parent": "C08G18/40",
+      "ja": "アルデヒドの重縮合物［２］",
+      "en": "Polycondensates of aldehydes",
+      "count": 1461,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G18/56": {
+      "code": "C08G18/56",
+      "level": 4,
+      "parent": "C08G18/40",
+      "ja": "ポリアセタール［２］",
+      "en": "Polyacetals",
+      "count": 237,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G18/58": {
+      "code": "C08G18/58",
+      "level": 4,
+      "parent": "C08G18/40",
+      "ja": "エポキシ樹脂［２］",
+      "en": "Epoxy resins",
+      "count": 3243,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G18/60": {
+      "code": "C08G18/60",
+      "level": 4,
+      "parent": "C08G18/40",
+      "ja": "ポリアミドまたはポリエステルアミド［２］",
+      "en": "Polyamides or polyester-amides",
+      "count": 1019,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G18/61": {
+      "code": "C08G18/61",
+      "level": 4,
+      "parent": "C08G18/40",
+      "ja": "ポリシロキサン［２］",
+      "en": "Polysiloxanes",
+      "count": 4288,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G18/62": {
+      "code": "C08G18/62",
+      "level": 4,
+      "parent": "C08G18/40",
+      "ja": "炭素―炭素二重結合を有する化合物の重合体［２］",
+      "en": "Polymers of compounds having carbon-to-carbon double bonds",
+      "count": 7737,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G18/63": {
+      "code": "C08G18/63",
+      "level": 4,
+      "parent": "C08G18/40",
+      "ja": "重合体に炭素―炭素二重結合を有する化合物を重合することによって得られるブロックまたはグラフト重合体［２］",
+      "en": "Block or graft polymers obtained by polymerising compounds having carbon-to-carbon double bonds on to polymers",
+      "count": 2789,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G18/64": {
+      "code": "C08G18/64",
+      "level": 4,
+      "parent": "C08G18/40",
+      "ja": "グループＣ０８Ｇ１８／４２～Ｃ０８Ｇ１８／６３に分類されない高分子化合物［２］",
+      "en": "Macromolecular compounds not provided for by groups <b>C08G18/42 to C08G18/63</b> ",
+      "count": 4897,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G18/65": {
+      "code": "C08G18/65",
+      "level": 3,
+      "parent": "C08G18/28",
+      "ja": "活性水素を有する高分子量化合物を含む活性水素を有する低分子量化合物［２］",
+      "en": "Low-molecular-weight compounds having active hydrogen with high-molecular-weight compounds having active hydrogen",
+      "count": 6558,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G18/66": {
+      "code": "C08G18/66",
+      "level": 4,
+      "parent": "C08G18/65",
+      "ja": "グループＣ０８Ｇ１８／４２，Ｃ０８Ｇ１８／４８またはＣ０８Ｇ１８／５２の化合物［２］",
+      "en": "Compounds of groups <b>C08G18/42</b>, <b>C08G18/48</b>, or <b>C08G18/52</b>",
+      "count": 22868,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G18/67": {
+      "code": "C08G18/67",
+      "level": 3,
+      "parent": "C08G18/28",
+      "ja": "活性水素を有する不飽和化合物［２］",
+      "en": "Unsaturated compounds having active hydrogen",
+      "count": 9708,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G18/68": {
+      "code": "C08G18/68",
+      "level": 4,
+      "parent": "C08G18/67",
+      "ja": "不飽和ポリエステル［２］",
+      "en": "Unsaturated polyesters",
+      "count": 1666,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G18/69": {
+      "code": "C08G18/69",
+      "level": 4,
+      "parent": "C08G18/67",
+      "ja": "共役ジエンの重合体［２］",
+      "en": "Polymers of conjugated dienes",
+      "count": 2645,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G18/70": {
+      "code": "C08G18/70",
+      "level": 2,
+      "parent": "C08G18/06",
+      "ja": "用いられたイソシアネートまたはイソチオシアネートに特徴のあるもの［２］",
+      "en": "characterised by the isocyanates or isothiocyanates used",
+      "count": 1738,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G18/71": {
+      "code": "C08G18/71",
+      "level": 3,
+      "parent": "C08G18/70",
+      "ja": "モノイソシアネートまたはモノイソチオシアネート［２］",
+      "en": "Monoisocyanates or monoisothiocyanates",
+      "count": 1399,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G18/72": {
+      "code": "C08G18/72",
+      "level": 3,
+      "parent": "C08G18/70",
+      "ja": "ポリイソシアネートまたはポリイソチオシアネート［２］",
+      "en": "Polyisocyanates or polyisothiocyanates",
+      "count": 4195,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G18/73": {
+      "code": "C08G18/73",
+      "level": 4,
+      "parent": "C08G18/72",
+      "ja": "非環式［２］",
+      "en": "acyclic",
+      "count": 5317,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G18/74": {
+      "code": "C08G18/74",
+      "level": 4,
+      "parent": "C08G18/72",
+      "ja": "環式［２］",
+      "en": "cyclic",
+      "count": 279,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G18/75": {
+      "code": "C08G18/75",
+      "level": 5,
+      "parent": "C08G18/74",
+      "ja": "環式脂肪族［２］",
+      "en": "cycloaliphatic",
+      "count": 8398,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G18/76": {
+      "code": "C08G18/76",
+      "level": 5,
+      "parent": "C08G18/74",
+      "ja": "芳香族［２］",
+      "en": "aromatic",
+      "count": 15688,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G18/77": {
+      "code": "C08G18/77",
+      "level": 4,
+      "parent": "C08G18/72",
+      "ja": "イソシアネートまたはイソチオシアネートの窒素および酸素または硫黄以外にさらに異種原子を有するもの［２］",
+      "en": "having hetero atoms in addition to the isocyanate or isothiocyanate nitrogen and oxygen or sulfur",
+      "count": 1661,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G18/78": {
+      "code": "C08G18/78",
+      "level": 5,
+      "parent": "C08G18/77",
+      "ja": "窒素［２］",
+      "en": "Nitrogen",
+      "count": 2487,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G18/79": {
+      "code": "C08G18/79",
+      "level": 6,
+      "parent": "C08G18/78",
+      "ja": "イソシアネートまたはイソチオシアネートのオリゴメリゼーシヨンにより形成された基をもつポリイソシアネートの使用に特徴のあるもの［２］",
+      "en": "characterised by the polyisocyanates used, these having groups formed by oligomerisation of isocyanates or isothiocyanates",
+      "count": 6315,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G18/80": {
+      "code": "C08G18/80",
+      "level": 4,
+      "parent": "C08G18/72",
+      "ja": "封鎖されたポリイソシアネート［２］",
+      "en": "Masked polyisocyanates",
+      "count": 5887,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G18/81": {
+      "code": "C08G18/81",
+      "level": 3,
+      "parent": "C08G18/70",
+      "ja": "不飽和イソシアネートまたはイソチオシアネート［２］",
+      "en": "Unsaturated isocyanates or isothiocyanates",
+      "count": 1922,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G18/82": {
+      "code": "C08G18/82",
+      "level": 2,
+      "parent": "C08G18/06",
+      "ja": "重合後の処理［２］",
+      "en": "Post-polymerisation treatment",
+      "count": 702,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G18/83": {
+      "code": "C08G18/83",
+      "level": 2,
+      "parent": "C08G18/06",
+      "ja": "化学的に変性された重合体［２］",
+      "en": "Chemically modified polymers",
+      "count": 3632,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G18/84": {
+      "code": "C08G18/84",
+      "level": 3,
+      "parent": "C08G18/83",
+      "ja": "アルデヒドによるもの［２］",
+      "en": "by aldehydes",
+      "count": 169,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G18/85": {
+      "code": "C08G18/85",
+      "level": 3,
+      "parent": "C08G18/83",
+      "ja": "アゾ化合物によるもの［２］",
+      "en": "by azo compounds",
+      "count": 37,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G18/86": {
+      "code": "C08G18/86",
+      "level": 3,
+      "parent": "C08G18/83",
+      "ja": "過酸化物によるもの［２］",
+      "en": "by peroxides",
+      "count": 163,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G18/87": {
+      "code": "C08G18/87",
+      "level": 3,
+      "parent": "C08G18/83",
+      "ja": "いおうによるもの［２］",
+      "en": "by sulfur",
+      "count": 148,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G59/00": {
+      "code": "C08G59/00",
+      "level": 0,
+      "parent": "C08G",
+      "ja": "１分子中に１個より多くのエポキシ基を含有する重縮合物；エポキシ重縮合物と単官能性低分子量化合物との反応によって得られる高分子化合物；エポキシ基と反応する硬化剤または触媒を用いて１分子中に１個より多くのエポキシ基を含有する化合物を重合することにより得られる高分子化合物［２］",
+      "en": "Polycondensates containing more than one epoxy group per molecule; Macromolecules obtained by reaction of epoxy polycondensates with monofunctional low-molecular-weight compounds; Macromolecules obtained by polymerising compounds containing more than one epoxy group per molecule using curing agents or catalysts which react with the epoxy groups",
+      "count": 13535,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G59/02": {
+      "code": "C08G59/02",
+      "level": 1,
+      "parent": "C08G59/00",
+      "ja": "１分子中に１個より多くのエポキシ基を含有する重縮合物［２］",
+      "en": "Polycondensates containing more than one epoxy group per molecule",
+      "count": 2246,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G59/04": {
+      "code": "C08G59/04",
+      "level": 2,
+      "parent": "C08G59/02",
+      "ja": "ポリヒドロキシ化合物のエピハロヒドリンまたはその前駆物質との［２］",
+      "en": "of polyhydroxy compounds with epihalohydrins or precursors thereof",
+      "count": 1244,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G59/06": {
+      "code": "C08G59/06",
+      "level": 3,
+      "parent": "C08G59/04",
+      "ja": "多価フェノールの［２］",
+      "en": "of polyhydric phenols",
+      "count": 3024,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G59/08": {
+      "code": "C08G59/08",
+      "level": 4,
+      "parent": "C08G59/06",
+      "ja": "フェノール―アルデヒド縮合物からの［２］",
+      "en": "from phenol-aldehyde condensates",
+      "count": 1026,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G59/10": {
+      "code": "C08G59/10",
+      "level": 2,
+      "parent": "C08G59/02",
+      "ja": "ポリアミンのエピハロヒドリンまたはその前駆物質との［２］",
+      "en": "of polyamines with epihalohydrins or precursors thereof",
+      "count": 659,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G59/12": {
+      "code": "C08G59/12",
+      "level": 2,
+      "parent": "C08G59/02",
+      "ja": "ポリカルボン酸のエピハロヒドリンまたはその前駆物質との［２］",
+      "en": "of polycarboxylic acids with epihalohydrins or precursors thereof",
+      "count": 486,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G59/14": {
+      "code": "C08G59/14",
+      "level": 1,
+      "parent": "C08G59/00",
+      "ja": "化学的後処理により変性された重縮合物［２］",
+      "en": "Polycondensates modified by chemical after-treatment",
+      "count": 7526,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G59/16": {
+      "code": "C08G59/16",
+      "level": 2,
+      "parent": "C08G59/14",
+      "ja": "モノカルボン酸によるもの，またはその酸無水物，ハライドまたは低分子量エステルによるもの［２］",
+      "en": "by monocarboxylic acids or by anhydrides, halides or low-molecular-weight esters thereof",
+      "count": 1752,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G59/17": {
+      "code": "C08G59/17",
+      "level": 3,
+      "parent": "C08G59/16",
+      "ja": "アクリル酸またはメタクリル酸によるもの［４］",
+      "en": "by acrylic or methacrylic acid",
+      "count": 2118,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G59/18": {
+      "code": "C08G59/18",
+      "level": 1,
+      "parent": "C08G59/00",
+      "ja": "エポキシ基と反応する硬化剤または触媒を用いて１分子中に１個より多くのエポキシ基を含む化合物を重合することにより得られる高分子化合物［２］",
+      "en": "Macromolecules obtained by polymerising compounds containing more than one epoxy group per molecule using curing agents or catalysts which react with the epoxy groups",
+      "count": 5457,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G59/20": {
+      "code": "C08G59/20",
+      "level": 2,
+      "parent": "C08G59/18",
+      "ja": "用いられたエポキシ化合物に特徴のあるもの［２］<br><br><b><ul>注</ul></b><br>エポキシ重縮合物の製造と硬化であって，そのエポキシ重縮合物が低分子量化合物に限られず，その硬化法に特徴のないものは，グループ５９／０２にのみ分類する。［２］",
+      "en": "characterised by the epoxy compounds used; <br><br><b><u>Note(s)</u></b><br><br><ul><li>Preparation and curing of epoxy polycondensates, in which the epoxy polycondensate is not exclusively a low-molecular-weight compound and in which the method of curing is not important, are classified only in group <b>C08G59/02</b>.  </li></ul>",
+      "count": 7508,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G59/22": {
+      "code": "C08G59/22",
+      "level": 3,
+      "parent": "C08G59/20",
+      "ja": "ジエポキシ化合物［２］",
+      "en": "Di-epoxy compounds",
+      "count": 2511,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G59/24": {
+      "code": "C08G59/24",
+      "level": 4,
+      "parent": "C08G59/22",
+      "ja": "炭素環式［２］",
+      "en": "carbocyclic",
+      "count": 5044,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G59/26": {
+      "code": "C08G59/26",
+      "level": 4,
+      "parent": "C08G59/22",
+      "ja": "複素環式［２］",
+      "en": "heterocyclic",
+      "count": 903,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G59/28": {
+      "code": "C08G59/28",
+      "level": 4,
+      "parent": "C08G59/22",
+      "ja": "非環式窒素原子を含むもの［２］",
+      "en": "containing acyclic nitrogen atoms",
+      "count": 1012,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G59/30": {
+      "code": "C08G59/30",
+      "level": 4,
+      "parent": "C08G59/22",
+      "ja": "炭素，水素，酸素および窒素以外の原子を含むもの［２］",
+      "en": "containing atoms other than carbon, hydrogen, oxygen, and nitrogen",
+      "count": 2584,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G59/32": {
+      "code": "C08G59/32",
+      "level": 3,
+      "parent": "C08G59/20",
+      "ja": "３個またはそれ以上のエポキシ基を含むエポキシ化合物［２］",
+      "en": "Epoxy compounds containing three or more epoxy groups",
+      "count": 4915,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G59/34": {
+      "code": "C08G59/34",
+      "level": 4,
+      "parent": "C08G59/32",
+      "ja": "不飽和重合体のエポキシ化により得られるもの［２］",
+      "en": "obtained by epoxidation of an unsaturated polymer",
+      "count": 792,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G59/36": {
+      "code": "C08G59/36",
+      "level": 4,
+      "parent": "C08G59/32",
+      "ja": "モノエポキシ化合物と共に用いるもの［２］",
+      "en": "together with mono-epoxy compounds",
+      "count": 175,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G59/38": {
+      "code": "C08G59/38",
+      "level": 4,
+      "parent": "C08G59/32",
+      "ja": "ジエポキシ化合物と共に用いるもの［２］",
+      "en": "together with di-epoxy compounds",
+      "count": 1176,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G59/40": {
+      "code": "C08G59/40",
+      "level": 2,
+      "parent": "C08G59/18",
+      "ja": "用いられた硬化剤に特徴のあるもの［２］",
+      "en": "characterised by the curing agents used",
+      "count": 14143,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G59/42": {
+      "code": "C08G59/42",
+      "level": 3,
+      "parent": "C08G59/40",
+      "ja": "ポリカルボン酸；その酸無水物，ハライドまたは低分子量エステル［２］",
+      "en": "Polycarboxylic acids; Anhydrides, halides, or low-molecular-weight esters thereof",
+      "count": 7554,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G59/44": {
+      "code": "C08G59/44",
+      "level": 3,
+      "parent": "C08G59/40",
+      "ja": "アミド［２］",
+      "en": "Amides",
+      "count": 1449,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G59/46": {
+      "code": "C08G59/46",
+      "level": 4,
+      "parent": "C08G59/44",
+      "ja": "他の硬化剤と共に用いるもの［２］",
+      "en": "together with other curing agents",
+      "count": 464,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G59/48": {
+      "code": "C08G59/48",
+      "level": 5,
+      "parent": "C08G59/46",
+      "ja": "ポリカルボン酸と共に，またはその酸無水物，ハライドまたは低分子量エステルと共に用いるもの［２］",
+      "en": "with polycarboxylic acids or with anhydrides, halides, or low-molecular-weight esters thereof",
+      "count": 236,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G59/50": {
+      "code": "C08G59/50",
+      "level": 3,
+      "parent": "C08G59/40",
+      "ja": "アミン［２］",
+      "en": "Amines",
+      "count": 12003,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G59/52": {
+      "code": "C08G59/52",
+      "level": 4,
+      "parent": "C08G59/50",
+      "ja": "アミノカルボン酸［２］",
+      "en": "Amino carboxylic acids",
+      "count": 304,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G59/54": {
+      "code": "C08G59/54",
+      "level": 4,
+      "parent": "C08G59/50",
+      "ja": "アミノアミド［２］",
+      "en": "Amino amides",
+      "count": 680,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G59/56": {
+      "code": "C08G59/56",
+      "level": 4,
+      "parent": "C08G59/50",
+      "ja": "他の硬化剤と共に用いるもの［２］",
+      "en": "together with other curing agents",
+      "count": 2330,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G59/58": {
+      "code": "C08G59/58",
+      "level": 5,
+      "parent": "C08G59/56",
+      "ja": "ポリカルボン酸と共に，またはその酸無水物，ハライドまたは低分子量エステルと共に用いるもの［２］",
+      "en": "with polycarboxylic acids or with anhydrides, halides, or low-molecular-weight esters thereof",
+      "count": 657,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G59/60": {
+      "code": "C08G59/60",
+      "level": 5,
+      "parent": "C08G59/56",
+      "ja": "アミドと共に用いるもの［２］",
+      "en": "with amides",
+      "count": 401,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G59/62": {
+      "code": "C08G59/62",
+      "level": 3,
+      "parent": "C08G59/40",
+      "ja": "アルコールまたはフェノール［２］",
+      "en": "Alcohols or phenols",
+      "count": 10634,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G59/64": {
+      "code": "C08G59/64",
+      "level": 4,
+      "parent": "C08G59/62",
+      "ja": "アミノアルコール［２］",
+      "en": "Amino alcohols",
+      "count": 571,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G59/66": {
+      "code": "C08G59/66",
+      "level": 3,
+      "parent": "C08G59/40",
+      "ja": "メルカプタン［２］",
+      "en": "Mercaptans",
+      "count": 1181,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G59/68": {
+      "code": "C08G59/68",
+      "level": 2,
+      "parent": "C08G59/18",
+      "ja": "用いられた触媒に特徴のあるもの［２］",
+      "en": "characterised by the catalysts used",
+      "count": 7265,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G59/70": {
+      "code": "C08G59/70",
+      "level": 3,
+      "parent": "C08G59/68",
+      "ja": "キレート［２］",
+      "en": "Chelates",
+      "count": 480,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G59/72": {
+      "code": "C08G59/72",
+      "level": 3,
+      "parent": "C08G59/68",
+      "ja": "ハロゲン化ほう素の錯体［２］",
+      "en": "Complexes of boron halides",
+      "count": 345,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G61/00": {
+      "code": "C08G61/00",
+      "level": 0,
+      "parent": "C08G",
+      "ja": "高分子の主鎖に炭素―炭素連結基を形成する反応により得られる高分子化合物（Ｃ０８Ｇ２／００～Ｃ０８Ｇ１６／００が優先）［２］",
+      "en": "Macromolecular compounds obtained by reactions forming a carbon-to-carbon link in the main chain of the macromolecule(<b>C08G2/00 to C08G16/00</b>  take precedence)",
+      "count": 3379,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G61/02": {
+      "code": "C08G61/02",
+      "level": 1,
+      "parent": "C08G61/00",
+      "ja": "高分子の主鎖に炭素原子のみを含む高分子化合物，例．ポリキシリレン［２］",
+      "en": "Macromolecular compounds containing only carbon atoms in the main chain of the macromolecule, e.g. polyxylylenes",
+      "count": 3780,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G61/04": {
+      "code": "C08G61/04",
+      "level": 2,
+      "parent": "C08G61/02",
+      "ja": "脂肪族炭素原子のみを含むもの［２］",
+      "en": "only aliphatic carbon atoms",
+      "count": 1299,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G61/06": {
+      "code": "C08G61/06",
+      "level": 3,
+      "parent": "C08G61/04",
+      "ja": "炭素環式化合物の開環によりつくられるもの［２］",
+      "en": "prepared by ring-opening of carbocyclic compounds",
+      "count": 1267,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G61/08": {
+      "code": "C08G61/08",
+      "level": 4,
+      "parent": "C08G61/06",
+      "ja": "環中に１個またはそれ以上の炭素―炭素二重結合を含む炭素環式化合物の［２］",
+      "en": "of carbocyclic compounds containing one or more carbon-to-carbon double bonds in the ring",
+      "count": 3116,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G61/10": {
+      "code": "C08G61/10",
+      "level": 2,
+      "parent": "C08G61/02",
+      "ja": "芳香族炭素原子のみを含むもの，例．ポリフェニレン［２］",
+      "en": "only aromatic carbon atoms, e.g. polyphenylenes",
+      "count": 2890,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G61/12": {
+      "code": "C08G61/12",
+      "level": 1,
+      "parent": "C08G61/00",
+      "ja": "高分子の主鎖に炭素以外の原子を含む高分子化合物［２］",
+      "en": "Macromolecular compounds containing atoms other than carbon in the main chain of the macromolecule",
+      "count": 12767,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G63/00": {
+      "code": "C08G63/00",
+      "level": 0,
+      "parent": "C08G",
+      "ja": "高分子の主鎖にカルボン酸エステル連結基を形成する反応によって得られる高分子化合物（ポリエステル―アミドＣ０８Ｇ６９／４４；ポリエステル―イミドＣ０８Ｇ７３／１６）［２００６．０１］<br><br><b><ul>注</ul></b><br>ポリエステルの化学構造によって特徴づけられる化合物はポリエステル化合物の型に対応するグループに分類する。ポリエステルの製造方法によって特徴づけられる化合物は採用された方法に対応するグループＣ０８Ｇ６３／７８～Ｃ０８Ｇ６３／８７に分類する。化学構造と製造方法の両方によって特徴づけられる化合物は各々の観点に従って分類する。",
+      "en": "Macromolecular compounds obtained by reactions forming a carboxylic ester link in the main chain of the macromolecule(polyester-amides <b>C08G69/44</b>; polyester-imides <b>C08G73/16</b>)",
+      "count": 9376,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G63/02": {
+      "code": "C08G63/02",
+      "level": 1,
+      "parent": "C08G63/00",
+      "ja": "ヒドロキシカルボン酸からまたはポリカルボン酸およびポリヒドロキシ化合物から誘導されるポリエステル［２００６．０１］",
+      "en": "Polyesters derived from hydroxy carboxylic acids or from polycarboxylic acids and polyhydroxy compounds",
+      "count": 2197,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G63/06": {
+      "code": "C08G63/06",
+      "level": 2,
+      "parent": "C08G63/02",
+      "ja": "ヒドロキシカルボン酸から誘導されたもの［２００６．０１］",
+      "en": "derived from hydroxy carboxylic acids",
+      "count": 3817,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G63/08": {
+      "code": "C08G63/08",
+      "level": 3,
+      "parent": "C08G63/06",
+      "ja": "ラクトンまたはラクチド［２００６．０１］",
+      "en": "Lactones or lactides",
+      "count": 5974,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G63/12": {
+      "code": "C08G63/12",
+      "level": 2,
+      "parent": "C08G63/02",
+      "ja": "ポリカルボン酸およびポリヒドロキシ化合物とから誘導されるもの［２００６．０１］",
+      "en": "derived from polycarboxylic acids and polyhydroxy compounds",
+      "count": 2533,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G63/123": {
+      "code": "C08G63/123",
+      "level": 3,
+      "parent": "C08G63/12",
+      "ja": "炭素環を含む酸またはヒドロキシ化合物［２００６．０１］",
+      "en": "the acids or hydroxy compounds containing carbocyclic rings",
+      "count": 178,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G63/127": {
+      "code": "C08G63/127",
+      "level": 4,
+      "parent": "C08G63/123",
+      "ja": "芳香族環を含む酸［２００６．０１］",
+      "en": "Acids containing aromatic rings",
+      "count": 611,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G63/13": {
+      "code": "C08G63/13",
+      "level": 5,
+      "parent": "C08G63/127",
+      "ja": "２つ以上の芳香族環を含むもの［２００６．０１］",
+      "en": "containing two or more aromatic rings",
+      "count": 112,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G63/133": {
+      "code": "C08G63/133",
+      "level": 4,
+      "parent": "C08G63/123",
+      "ja": "芳香族環を含むヒドロキシ化合物［２００６．０１］",
+      "en": "Hydroxy compounds containing aromatic rings",
+      "count": 188,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G63/137": {
+      "code": "C08G63/137",
+      "level": 4,
+      "parent": "C08G63/123",
+      "ja": "脂肪族環を含む酸またはヒドロキシ化合物［２００６．０１］",
+      "en": "Acids or hydroxy compounds containing cycloaliphatic rings",
+      "count": 284,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G63/16": {
+      "code": "C08G63/16",
+      "level": 3,
+      "parent": "C08G63/12",
+      "ja": "ジカルボン酸およびジヒドロキシ化合物［２００６．０１］",
+      "en": "Dicarboxylic acids and dihydroxy compounds",
+      "count": 3862,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G63/18": {
+      "code": "C08G63/18",
+      "level": 4,
+      "parent": "C08G63/16",
+      "ja": "炭素環を含む酸またはヒドロキシ化合物［２００６．０１］",
+      "en": "the acids or hydroxy compounds containing carbocyclic rings",
+      "count": 1531,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G63/181": {
+      "code": "C08G63/181",
+      "level": 5,
+      "parent": "C08G63/18",
+      "ja": "芳香族環を含む酸［２００６．０１］",
+      "en": "Acids containing aromatic rings",
+      "count": 3276,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G63/183": {
+      "code": "C08G63/183",
+      "level": 6,
+      "parent": "C08G63/181",
+      "ja": "テレフタル酸［２００６．０１］",
+      "en": "Terephthalic acids",
+      "count": 7457,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G63/185": {
+      "code": "C08G63/185",
+      "level": 6,
+      "parent": "C08G63/181",
+      "ja": "２以上の芳香族環を含むもの［２００６．０１］",
+      "en": "containing two or more aromatic rings",
+      "count": 368,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G63/187": {
+      "code": "C08G63/187",
+      "level": 7,
+      "parent": "C08G63/185",
+      "ja": "縮合芳香族環を含むもの［２００６．０１］",
+      "en": "containing condensed aromatic rings",
+      "count": 102,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G63/189": {
+      "code": "C08G63/189",
+      "level": 8,
+      "parent": "C08G63/187",
+      "ja": "ナフタリン環を含むもの［２００６．０１］",
+      "en": "containing a naphthalene ring",
+      "count": 1125,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G63/19": {
+      "code": "C08G63/19",
+      "level": 5,
+      "parent": "C08G63/18",
+      "ja": "芳香族環を含むヒドロキシ化合物［２００６．０１］",
+      "en": "Hydroxy compounds containing aromatic rings",
+      "count": 1477,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G63/191": {
+      "code": "C08G63/191",
+      "level": 6,
+      "parent": "C08G63/19",
+      "ja": "ヒドロキノン［２００６．０１］",
+      "en": "Hydroquinones",
+      "count": 111,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G63/193": {
+      "code": "C08G63/193",
+      "level": 6,
+      "parent": "C08G63/19",
+      "ja": "２以上の芳香族環を含むもの［２００６．０１］",
+      "en": "containing two or more aromatic rings",
+      "count": 732,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G63/195": {
+      "code": "C08G63/195",
+      "level": 7,
+      "parent": "C08G63/193",
+      "ja": "ビスフェノールＡ［２００６．０１］",
+      "en": "Bisphenol A",
+      "count": 281,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G63/197": {
+      "code": "C08G63/197",
+      "level": 7,
+      "parent": "C08G63/193",
+      "ja": "縮合芳香族環を含むもの［２００６．０１］",
+      "en": "containing condensed aromatic rings",
+      "count": 200,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G63/199": {
+      "code": "C08G63/199",
+      "level": 5,
+      "parent": "C08G63/18",
+      "ja": "脂肪族環を含む酸またはビドロキシ化合物［２００６．０１］",
+      "en": "Acids or hydroxy compounds containing cycloaliphatic rings",
+      "count": 2276,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G63/20": {
+      "code": "C08G63/20",
+      "level": 4,
+      "parent": "C08G63/16",
+      "ja": "１つの反応性基または２つ以上の反応性基を持つ化合物の存在下で製造されるポリエステル［２００６．０１］",
+      "en": "Polyesters having been prepared in the presence of compounds having one reactive group or more than two reactive groups",
+      "count": 2400,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G63/21": {
+      "code": "C08G63/21",
+      "level": 5,
+      "parent": "C08G63/20",
+      "ja": "不飽和モノカルボン酸または不飽和一価アルコールまたはそれらの反応性誘導体の存在下のもの［２００６．０１］",
+      "en": "in the presence of unsaturated monocarboxylic acids or unsaturated monohydric alcohols or reactive derivatives thereof",
+      "count": 252,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G63/40": {
+      "code": "C08G63/40",
+      "level": 3,
+      "parent": "C08G63/12",
+      "ja": "ポリカルボン酸のまたはポリヒドロキシ化合物の，それらのエステル以外の，エステル形成性誘導体から誘導されたポリエステル［２００６．０１］",
+      "en": "Polyesters derived from ester-forming derivatives of polycarboxylic acids or of polyhydroxy compounds, other than from esters thereof",
+      "count": 391,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G63/42": {
+      "code": "C08G63/42",
+      "level": 4,
+      "parent": "C08G63/40",
+      "ja": "環状エーテル（Ｃ０８Ｇ５９／００が優先）；環状カーボネート；環状サルファイト；環状オルトエステル［２００６．０１］",
+      "en": "Cyclic ethers(<b>C08G59/00</b> takes precedence);Cyclic carbonates; Cyclic sulfites; Cyclic orthoesters",
+      "count": 1044,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G63/44": {
+      "code": "C08G63/44",
+      "level": 4,
+      "parent": "C08G63/40",
+      "ja": "ポリアミド；ポリニトリル［２００６．０１］",
+      "en": "Polyamides; Polynitriles",
+      "count": 178,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G63/46": {
+      "code": "C08G63/46",
+      "level": 3,
+      "parent": "C08G63/12",
+      "ja": "エステル化によって化学的に変性されたポリエステル（Ｃ０８Ｇ６３／２０が優先）［２００６．０１］",
+      "en": "Polyesters chemically modified by esterification(<b>C08G63/20</b> takes precedence)",
+      "count": 941,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G63/47": {
+      "code": "C08G63/47",
+      "level": 4,
+      "parent": "C08G63/46",
+      "ja": "不飽和モノカルボン酸または不飽和一価アルコールまたはそれらの反応性誘導体によるもの［２００６．０１］",
+      "en": "by unsaturated monocarboxylic acids or unsaturated monohydric alcohols or reactive derivatives thereof",
+      "count": 235,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G63/48": {
+      "code": "C08G63/48",
+      "level": 4,
+      "parent": "C08G63/46",
+      "ja": "不飽和高級脂肪油またはその酸によるもの：樹脂酸によるもの［２００６．０１］",
+      "en": "by unsaturated higher fatty oils or their acids; by resin acids",
+      "count": 1417,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G63/49": {
+      "code": "C08G63/49",
+      "level": 5,
+      "parent": "C08G63/48",
+      "ja": "アルキッド樹脂［２００６．０１］",
+      "en": "Alkyd resins",
+      "count": 1009,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G63/50": {
+      "code": "C08G63/50",
+      "level": 4,
+      "parent": "C08G63/46",
+      "ja": "一価アルコールによるもの［２００６．０１］",
+      "en": "by monohydric alcohols",
+      "count": 106,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G63/52": {
+      "code": "C08G63/52",
+      "level": 3,
+      "parent": "C08G63/12",
+      "ja": "ポリカルボン酸またはポリヒドロキシ化合物であって２成分のうち少くとも１成分が脂肪族不飽和を含むもの［２００６．０１］",
+      "en": "Polycarboxylic acids or polyhydroxy compounds in which at least one of the two components contains aliphatic unsaturation",
+      "count": 3096,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G63/54": {
+      "code": "C08G63/54",
+      "level": 4,
+      "parent": "C08G63/52",
+      "ja": "炭素環を含む酸またはヒドロキシ化合物［２００６．０１］",
+      "en": "the acids or hydroxy compounds containing carbocyclic rings",
+      "count": 745,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G63/547": {
+      "code": "C08G63/547",
+      "level": 5,
+      "parent": "C08G63/54",
+      "ja": "芳香族環を含むヒドロキシ化合物［２００６．０１］",
+      "en": "Hydroxy compounds containing aromatic rings",
+      "count": 196,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G63/553": {
+      "code": "C08G63/553",
+      "level": 5,
+      "parent": "C08G63/54",
+      "ja": "脂肪族環を含む酸またはヒドロキシ化合物，例．ディールス―アルダー付加物［２００６．０１］",
+      "en": "Acids or hydroxy compounds containing cycloaliphatic rings, e.g. Diels-Alder adducts",
+      "count": 798,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G63/56": {
+      "code": "C08G63/56",
+      "level": 4,
+      "parent": "C08G63/52",
+      "ja": "ポリカルボン酸またはポリヒドロキシ化合物の，それらのエステル以外の，エステル形成性誘導体から誘導されたポリエステル［２００６．０１］",
+      "en": "Polyesters derived from ester-forming derivatives of polycarboxylic acids or of polyhydroxy compounds, other than from esters thereof",
+      "count": 110,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G63/58": {
+      "code": "C08G63/58",
+      "level": 5,
+      "parent": "C08G63/56",
+      "ja": "環状エーテル（Ｃ０８Ｇ５９／００が優先）；環状カーボネート；環状サルファイト［２００６．０１］",
+      "en": "Cyclic ethers(<b>C08G59/00</b> takes precedence);Cyclic carbonates; Cyclic sulfites",
+      "count": 495,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G63/60": {
+      "code": "C08G63/60",
+      "level": 2,
+      "parent": "C08G63/02",
+      "ja": "ヒドロキシカルボン酸，ポリカルボン酸およびポリヒドロキシ化合物の混合物の反応から誘導されるもの［２００６．０１］",
+      "en": "derived from the reaction of a mixture of hydroxy carboxylic acids, polycarboxylic acids and polyhydroxy compounds",
+      "count": 3621,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G63/64": {
+      "code": "C08G63/64",
+      "level": 1,
+      "parent": "C08G63/00",
+      "ja": "カルボン酸エステル基および炭酸エステル基を共に含むポリエステル［２００６．０１］",
+      "en": "Polyesters containing both carboxylic ester groups and carbonate groups",
+      "count": 1880,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G63/66": {
+      "code": "C08G63/66",
+      "level": 1,
+      "parent": "C08G63/00",
+      "ja": "エーテル基の形で酸素を含むポリエステル（Ｃ０８Ｇ６３／４２，Ｃ０８Ｇ６３／５８が優先）［２００６．０１］",
+      "en": "Polyesters containing oxygen in the form of ether groups(<b>C08G63/42</b>, <b>C08G63/58</b> take precedence)",
+      "count": 2987,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G63/664": {
+      "code": "C08G63/664",
+      "level": 2,
+      "parent": "C08G63/66",
+      "ja": "ヒドロキシカルボン酸から誘導されるもの［２００６．０１］",
+      "en": "derived from hydroxycarboxylic acids",
+      "count": 1226,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G63/668": {
+      "code": "C08G63/668",
+      "level": 2,
+      "parent": "C08G63/66",
+      "ja": "ポリカルボン酸とポリヒドロキシ化合物から誘導されるもの［２００６．０１］",
+      "en": "derived from polycarboxylic acids and polyhydroxy compounds",
+      "count": 1146,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G63/672": {
+      "code": "C08G63/672",
+      "level": 3,
+      "parent": "C08G63/668",
+      "ja": "ジカルボン酸とジヒドロキシ化合物［２００６．０１］",
+      "en": "Dicarboxylic acids and dihydroxy compounds",
+      "count": 4128,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G63/676": {
+      "code": "C08G63/676",
+      "level": 3,
+      "parent": "C08G63/668",
+      "ja": "２成分のうち少なくとも１成分が脂肪族不飽和を含むもの［２００６．０１］",
+      "en": "in which at least one of the two components contains aliphatic unsaturation",
+      "count": 1421,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G63/68": {
+      "code": "C08G63/68",
+      "level": 1,
+      "parent": "C08G63/00",
+      "ja": "炭素，水素および酸素以外の原子を含むポリエステル（Ｃ０８Ｇ６３／６４が優先）［２００６．０１］",
+      "en": "Polyesters containing atoms other than carbon, hydrogen, and oxygen(<b>C08G63/64</b> takes precedence)",
+      "count": 2027,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G63/682": {
+      "code": "C08G63/682",
+      "level": 2,
+      "parent": "C08G63/68",
+      "ja": "ハロゲンを含むもの［２００６．０１］",
+      "en": "containing halogens",
+      "count": 1800,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G63/685": {
+      "code": "C08G63/685",
+      "level": 2,
+      "parent": "C08G63/68",
+      "ja": "窒素を含むもの［２００６．０１］",
+      "en": "containing nitrogen",
+      "count": 4367,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G63/688": {
+      "code": "C08G63/688",
+      "level": 2,
+      "parent": "C08G63/68",
+      "ja": "いおうを含むもの［２００６．０１］",
+      "en": "containing sulfur",
+      "count": 3555,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G63/692": {
+      "code": "C08G63/692",
+      "level": 2,
+      "parent": "C08G63/68",
+      "ja": "りんを含むもの［２００６．０１］",
+      "en": "containing phosphorus",
+      "count": 1671,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G63/695": {
+      "code": "C08G63/695",
+      "level": 2,
+      "parent": "C08G63/68",
+      "ja": "けい素を含むもの［２００６．０１］",
+      "en": "containing silicon",
+      "count": 999,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G63/698": {
+      "code": "C08G63/698",
+      "level": 2,
+      "parent": "C08G63/68",
+      "ja": "ほう素を含むもの［２００６．０１］",
+      "en": "containing boron",
+      "count": 86,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G63/78": {
+      "code": "C08G63/78",
+      "level": 1,
+      "parent": "C08G63/00",
+      "ja": "製造法［２００６．０１］",
+      "en": "Preparation processes",
+      "count": 14292,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G63/79": {
+      "code": "C08G63/79",
+      "level": 2,
+      "parent": "C08G63/78",
+      "ja": "界面的方法，すなわち２つの非混和性液体の界面での反応を含む方法［２００６．０１］",
+      "en": "Interfacial processes, i.e. processes involving a reaction at the interface of two non-miscible liquids",
+      "count": 160,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G63/80": {
+      "code": "C08G63/80",
+      "level": 2,
+      "parent": "C08G63/78",
+      "ja": "固相重縮合［２００６．０１］",
+      "en": "Solid-state polycondensation",
+      "count": 1541,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G63/81": {
+      "code": "C08G63/81",
+      "level": 2,
+      "parent": "C08G63/78",
+      "ja": "溶媒を用いるもの（Ｃ０８Ｇ６３／７９が優先）［２００６．０１］",
+      "en": "using solvents(<b>C08G63/79</b> takes precedence)",
+      "count": 479,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G63/82": {
+      "code": "C08G63/82",
+      "level": 2,
+      "parent": "C08G63/78",
+      "ja": "用いられた触媒に特徴があるもの［２００６．０１］",
+      "en": "characterised by the catalyst used",
+      "count": 3832,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G63/83": {
+      "code": "C08G63/83",
+      "level": 3,
+      "parent": "C08G63/82",
+      "ja": "アルカリ金属，アルカリ土類金属，ベリリウム，マグネシウム，銅，銀，金，亜鉛，カドミウム，水銀，マンガン，またはそれらの化合物［２００６．０１］",
+      "en": "Alkali metals, alkaline earth metals, beryllium, magnesium, copper, silver, gold, zinc, cadmium, mercury, manganese, or compounds thereof",
+      "count": 1597,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G63/84": {
+      "code": "C08G63/84",
+      "level": 3,
+      "parent": "C08G63/82",
+      "ja": "ほう素，アルミニウム，ガリウム，インジウム，タリウム，希土類金属，またはそれらの化合物［２００６．０１］",
+      "en": "Boron, aluminium, gallium, indium, thallium, rare earth metals, or compounds thereof",
+      "count": 1020,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G63/85": {
+      "code": "C08G63/85",
+      "level": 3,
+      "parent": "C08G63/82",
+      "ja": "ゲルマニウム，スズ，鉛，ひ素，アンチモン，ビスマス，チタン，ジルコニウム，ハフニウム，バナジウム，ニオブ，タンタル，またはそれらの化合物［２００６．０１］",
+      "en": "Germanium, tin, lead, arsenic, antimony, bismuth, titanium, zirconium, hafnium, vanadium, niobium, tantalum, or compounds thereof",
+      "count": 4416,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G63/86": {
+      "code": "C08G63/86",
+      "level": 4,
+      "parent": "C08G63/85",
+      "ja": "ゲルマニウム，アンチモン，またはそれらの化合物［２００６．０１］",
+      "en": "Germanium, antimony, or compounds thereof",
+      "count": 1352,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G63/87": {
+      "code": "C08G63/87",
+      "level": 3,
+      "parent": "C08G63/82",
+      "ja": "非金属またはその相互間化合物（ほう素Ｃ０８Ｇ６３／８４）［２００６．０１］",
+      "en": "Non-metals or inter-compounds thereof(boron <b>C08G63/84</b>)",
+      "count": 1791,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G63/88": {
+      "code": "C08G63/88",
+      "level": 1,
+      "parent": "C08G63/00",
+      "ja": "重合後の処理［２００６．０１］",
+      "en": "Post-polymerisation treatment",
+      "count": 1577,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G63/89": {
+      "code": "C08G63/89",
+      "level": 2,
+      "parent": "C08G63/88",
+      "ja": "重合体の回収［２００６．０１］",
+      "en": "Recovery of the polymer",
+      "count": 242,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G63/90": {
+      "code": "C08G63/90",
+      "level": 2,
+      "parent": "C08G63/88",
+      "ja": "精製；乾燥［２００６．０１］",
+      "en": "Purification; Drying",
+      "count": 926,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G63/91": {
+      "code": "C08G63/91",
+      "level": 1,
+      "parent": "C08G63/00",
+      "ja": "化学的後処理による変性された重合体［２００６．０１］",
+      "en": "Polymers modified by chemical after-treatment",
+      "count": 8005,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G64/00": {
+      "code": "C08G64/00",
+      "level": 0,
+      "parent": "C08G",
+      "ja": "高分子の主鎖に炭酸エステル連結基を形成する反応によって得られる高分子化合物（ポリカーボネート―アミドＣ０８Ｇ６９／４４；ポリカーボネート―イミドＣ０８Ｇ７３／１６）［５］<br><br><b><ul>注</ul></b><br>カルボン酸エステル基および炭酸エステル基を共に含む重合体は，炭酸エステル基がカルボン酸エステル基より多く含まれている場合でも，常に６３／６４に分類する。［５］",
+      "en": "Macromolecular compounds obtained by reactions forming a carbonic ester link in the main chain of the macromolecule(polycarbonate-amides <b>C08G69/44</b>; polycarbonate-imides <b>C08G73/16</b>)",
+      "count": 3063,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G64/02": {
+      "code": "C08G64/02",
+      "level": 1,
+      "parent": "C08G64/00",
+      "ja": "脂肪族ポリカーボネート［５］",
+      "en": "Aliphatic polycarbonates",
+      "count": 1858,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G64/04": {
+      "code": "C08G64/04",
+      "level": 1,
+      "parent": "C08G64/00",
+      "ja": "芳香族ポリカーボネート［５］",
+      "en": "Aromatic polycarbonates",
+      "count": 1568,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G64/06": {
+      "code": "C08G64/06",
+      "level": 2,
+      "parent": "C08G64/04",
+      "ja": "不飽和脂肪族を含有しないもの［５］",
+      "en": "not containing aliphatic unsaturation",
+      "count": 1755,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G64/08": {
+      "code": "C08G64/08",
+      "level": 3,
+      "parent": "C08G64/06",
+      "ja": "炭素，水素または酸素以外の原子を含有するもの［５］",
+      "en": "containing atoms other than carbon, hydrogen or oxygen",
+      "count": 660,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G64/10": {
+      "code": "C08G64/10",
+      "level": 4,
+      "parent": "C08G64/08",
+      "ja": "ハロゲンを含有するもの［５］",
+      "en": "containing halogens",
+      "count": 358,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G64/12": {
+      "code": "C08G64/12",
+      "level": 4,
+      "parent": "C08G64/08",
+      "ja": "窒素を含有するもの［５］",
+      "en": "containing nitrogen",
+      "count": 417,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G64/14": {
+      "code": "C08G64/14",
+      "level": 3,
+      "parent": "C08G64/06",
+      "ja": "連鎖停止剤または鎖架橋剤を含有するもの［５］",
+      "en": "containing a chain-terminating or -crosslinking agent",
+      "count": 754,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G64/16": {
+      "code": "C08G64/16",
+      "level": 1,
+      "parent": "C08G64/00",
+      "ja": "脂肪族―芳香族または芳香脂肪族ポリカーボネート［５］",
+      "en": "Aliphatic-aromatic or araliphatic polycarbonates",
+      "count": 952,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G64/18": {
+      "code": "C08G64/18",
+      "level": 1,
+      "parent": "C08G64/00",
+      "ja": "ブロックまたはグラフト重合体［５］",
+      "en": "Block or graft polymers",
+      "count": 1408,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G64/20": {
+      "code": "C08G64/20",
+      "level": 1,
+      "parent": "C08G64/00",
+      "ja": "製造法一般［５］",
+      "en": "General preparatory processes",
+      "count": 1990,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G64/22": {
+      "code": "C08G64/22",
+      "level": 2,
+      "parent": "C08G64/20",
+      "ja": "ハロゲン化カルボニルを用いるもの［５］",
+      "en": "using carbonyl halides",
+      "count": 439,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G64/24": {
+      "code": "C08G64/24",
+      "level": 3,
+      "parent": "C08G64/22",
+      "ja": "およびフェノール［５］",
+      "en": "and phenols",
+      "count": 821,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G64/26": {
+      "code": "C08G64/26",
+      "level": 2,
+      "parent": "C08G64/20",
+      "ja": "ハロゲン化カーボネートを用いるもの［５］",
+      "en": "using halocarbonates",
+      "count": 143,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G64/28": {
+      "code": "C08G64/28",
+      "level": 3,
+      "parent": "C08G64/26",
+      "ja": "およびフェノール［５］",
+      "en": "and phenols",
+      "count": 181,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G64/30": {
+      "code": "C08G64/30",
+      "level": 2,
+      "parent": "C08G64/20",
+      "ja": "カーボネートを用いるもの［５］",
+      "en": "using carbonates",
+      "count": 3192,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G64/32": {
+      "code": "C08G64/32",
+      "level": 2,
+      "parent": "C08G64/20",
+      "ja": "二酸化炭素を用いるもの［５］",
+      "en": "using carbon dioxide",
+      "count": 204,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G64/34": {
+      "code": "C08G64/34",
+      "level": 3,
+      "parent": "C08G64/32",
+      "ja": "および環状エーテル［５］",
+      "en": "and cyclic ethers",
+      "count": 1087,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G64/36": {
+      "code": "C08G64/36",
+      "level": 2,
+      "parent": "C08G64/20",
+      "ja": "一酸化炭素を用いるもの［５］",
+      "en": "using carbon monoxide",
+      "count": 57,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G64/38": {
+      "code": "C08G64/38",
+      "level": 2,
+      "parent": "C08G64/20",
+      "ja": "他の単量体を用いるもの［５］",
+      "en": "using other monomers",
+      "count": 248,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G64/40": {
+      "code": "C08G64/40",
+      "level": 1,
+      "parent": "C08G64/00",
+      "ja": "重合後の処理［５］",
+      "en": "Post-polymerisation treatment",
+      "count": 1053,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G64/42": {
+      "code": "C08G64/42",
+      "level": 1,
+      "parent": "C08G64/00",
+      "ja": "化学的後処理［５］",
+      "en": "Chemical after-treatment",
+      "count": 1059,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G65/00": {
+      "code": "C08G65/00",
+      "level": 0,
+      "parent": "C08G",
+      "ja": "高分子の主鎖にエーテル連結基を形成する反応により得られる高分子化合物（エポキシ樹脂Ｃ０８Ｇ５９／００；ポリチオエーテル―エーテルＣ０８Ｇ７５／１２；１０以下の単量体単位を含むポリエーテルＣ０７Ｃ）［２］",
+      "en": "Macromolecular compounds obtained by reactions forming an ether link in the main chain of the macromolecule(epoxy resins <b>C08G59/00</b>; polythioether-ethers <b>C08G75/12</b>; polyethers containing less than eleven monomer units <b>C07C</b>)",
+      "count": 4915,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G65/02": {
+      "code": "C08G65/02",
+      "level": 1,
+      "parent": "C08G65/00",
+      "ja": "複素環の開環による環状エーテルからの［２］",
+      "en": "from cyclic ethers by opening of the heterocyclic ring",
+      "count": 1091,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G65/04": {
+      "code": "C08G65/04",
+      "level": 2,
+      "parent": "C08G65/02",
+      "ja": "環状エーテルのみからの［２］",
+      "en": "from cyclic ethers only",
+      "count": 687,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G65/06": {
+      "code": "C08G65/06",
+      "level": 3,
+      "parent": "C08G65/04",
+      "ja": "環外に炭素および水素以外の原子を有しない環状エーテル［２］",
+      "en": "Cyclic ethers having no atoms other than carbon and hydrogen outside the ring",
+      "count": 328,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G65/08": {
+      "code": "C08G65/08",
+      "level": 4,
+      "parent": "C08G65/06",
+      "ja": "飽和オキシラン［２］",
+      "en": "Saturated oxiranes",
+      "count": 956,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G65/10": {
+      "code": "C08G65/10",
+      "level": 5,
+      "parent": "C08G65/08",
+      "ja": "用いられた触媒に特徴のあるもの［２］",
+      "en": "characterised by the catalysts used",
+      "count": 1078,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G65/12": {
+      "code": "C08G65/12",
+      "level": 6,
+      "parent": "C08G65/10",
+      "ja": "有機金属化合物または金属水素化物を含むもの［２］",
+      "en": "containing organo-metallic compounds or metal hydrides",
+      "count": 623,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G65/14": {
+      "code": "C08G65/14",
+      "level": 4,
+      "parent": "C08G65/06",
+      "ja": "不飽和オキシラン［２］",
+      "en": "Unsaturated oxiranes",
+      "count": 337,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G65/16": {
+      "code": "C08G65/16",
+      "level": 4,
+      "parent": "C08G65/06",
+      "ja": "４個またはそれ以上の環形成原子を有する環状エーテル［２］",
+      "en": "Cyclic ethers having four or more ring atoms",
+      "count": 351,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G65/18": {
+      "code": "C08G65/18",
+      "level": 5,
+      "parent": "C08G65/16",
+      "ja": "オキセタン［２］",
+      "en": "Oxetanes",
+      "count": 1326,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G65/20": {
+      "code": "C08G65/20",
+      "level": 5,
+      "parent": "C08G65/16",
+      "ja": "テトラヒドロフラン［２］",
+      "en": "Tetrahydrofuran",
+      "count": 705,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G65/22": {
+      "code": "C08G65/22",
+      "level": 3,
+      "parent": "C08G65/04",
+      "ja": "環外に炭素および水素以外の少くとも１個の原子を有する環状エーテル［２］",
+      "en": "Cyclic ethers having at least one atom other than carbon and hydrogen outside the ring",
+      "count": 1786,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G65/24": {
+      "code": "C08G65/24",
+      "level": 4,
+      "parent": "C08G65/22",
+      "ja": "エピハロヒドリン［２］",
+      "en": "Epihalohydrins",
+      "count": 398,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G65/26": {
+      "code": "C08G65/26",
+      "level": 2,
+      "parent": "C08G65/02",
+      "ja": "環状エーテルおよび他の化合物からの［２］",
+      "en": "from cyclic ethers and other compounds",
+      "count": 5891,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G65/28": {
+      "code": "C08G65/28",
+      "level": 3,
+      "parent": "C08G65/26",
+      "ja": "環式エーテルおよびヒドロキシ化合物［２］",
+      "en": "Cyclic ethers and hydroxy compounds",
+      "count": 4672,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G65/30": {
+      "code": "C08G65/30",
+      "level": 2,
+      "parent": "C08G65/02",
+      "ja": "重合後の処理，例．回収，精製，乾燥［２］",
+      "en": "Post-polymerisation treatment, e.g. recovery, purification, drying",
+      "count": 1381,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G65/32": {
+      "code": "C08G65/32",
+      "level": 2,
+      "parent": "C08G65/02",
+      "ja": "化学的後処理により変性された重合体［２］",
+      "en": "Polymers modified by chemical after-treatment",
+      "count": 2675,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G65/321": {
+      "code": "C08G65/321",
+      "level": 3,
+      "parent": "C08G65/32",
+      "ja": "無機化合物による［７］",
+      "en": "with inorganic compounds",
+      "count": 151,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G65/322": {
+      "code": "C08G65/322",
+      "level": 4,
+      "parent": "C08G65/321",
+      "ja": "水素を含むもの［７］",
+      "en": "containing hydrogen",
+      "count": 147,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G65/323": {
+      "code": "C08G65/323",
+      "level": 4,
+      "parent": "C08G65/321",
+      "ja": "ハロゲンを含むもの［７］",
+      "en": "containing halogens",
+      "count": 311,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G65/324": {
+      "code": "C08G65/324",
+      "level": 4,
+      "parent": "C08G65/321",
+      "ja": "酸素を含むもの［７］",
+      "en": "containing oxygen",
+      "count": 225,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G65/325": {
+      "code": "C08G65/325",
+      "level": 4,
+      "parent": "C08G65/321",
+      "ja": "窒素を含むもの［７］",
+      "en": "containing nitrogen",
+      "count": 510,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G65/326": {
+      "code": "C08G65/326",
+      "level": 4,
+      "parent": "C08G65/321",
+      "ja": "いおうを含むもの［７］",
+      "en": "containing sulfur",
+      "count": 440,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G65/327": {
+      "code": "C08G65/327",
+      "level": 4,
+      "parent": "C08G65/321",
+      "ja": "りんを含むもの［７］",
+      "en": "containing phosphorus",
+      "count": 286,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G65/328": {
+      "code": "C08G65/328",
+      "level": 4,
+      "parent": "C08G65/321",
+      "ja": "その他の元素を含むもの［７］",
+      "en": "containing other elements",
+      "count": 163,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G65/329": {
+      "code": "C08G65/329",
+      "level": 3,
+      "parent": "C08G65/32",
+      "ja": "有機化合物による［７］",
+      "en": "with organic compounds",
+      "count": 1073,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G65/331": {
+      "code": "C08G65/331",
+      "level": 4,
+      "parent": "C08G65/329",
+      "ja": "酸素を含むもの［７］",
+      "en": "containing oxygen",
+      "count": 1257,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G65/332": {
+      "code": "C08G65/332",
+      "level": 5,
+      "parent": "C08G65/331",
+      "ja": "カルボキシル基，またはそのハライドまたはエステルを含むもの［７］",
+      "en": "containing carboxyl groups, or halides or esters thereof",
+      "count": 2538,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G65/333": {
+      "code": "C08G65/333",
+      "level": 4,
+      "parent": "C08G65/329",
+      "ja": "窒素を含むもの［７］",
+      "en": "containing nitrogen",
+      "count": 3106,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G65/334": {
+      "code": "C08G65/334",
+      "level": 4,
+      "parent": "C08G65/329",
+      "ja": "いおうを含むもの［７］",
+      "en": "containing sulfur",
+      "count": 1267,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G65/335": {
+      "code": "C08G65/335",
+      "level": 4,
+      "parent": "C08G65/329",
+      "ja": "りんを含むもの［７］",
+      "en": "containing phosphorus",
+      "count": 450,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G65/336": {
+      "code": "C08G65/336",
+      "level": 4,
+      "parent": "C08G65/329",
+      "ja": "けい素を含むもの［７］",
+      "en": "containing silicon",
+      "count": 2036,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G65/337": {
+      "code": "C08G65/337",
+      "level": 4,
+      "parent": "C08G65/329",
+      "ja": "その他の元素を含むもの（カルボキシル基のハライドとしてのみハロゲンを含む有機化合物Ｃ０８Ｇ６５／３３２）［７］",
+      "en": "containing other elements(organic compounds containing halogens only as halides of a carboxyl group <b>C08G65/332</b>)",
+      "count": 1156,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G65/338": {
+      "code": "C08G65/338",
+      "level": 3,
+      "parent": "C08G65/32",
+      "ja": "無機化合物と有機化合物とによる［７］",
+      "en": "with inorganic and organic compounds",
+      "count": 413,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G65/34": {
+      "code": "C08G65/34",
+      "level": 1,
+      "parent": "C08G65/00",
+      "ja": "ヒドロキシ化合物またはその金属誘導体からの（Ｃ０８Ｇ６５／２８が優先）［２］",
+      "en": "from hydroxy compounds or their metallic derivatives(<b>C08G65/28</b> takes precedence)",
+      "count": 1721,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G65/36": {
+      "code": "C08G65/36",
+      "level": 2,
+      "parent": "C08G65/34",
+      "ja": "フルフリルアルコール［２］",
+      "en": "Furfuryl alcohol",
+      "count": 183,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G65/38": {
+      "code": "C08G65/38",
+      "level": 2,
+      "parent": "C08G65/34",
+      "ja": "フェノールから誘導されるもの［２］",
+      "en": "derived from phenols",
+      "count": 1314,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G65/40": {
+      "code": "C08G65/40",
+      "level": 3,
+      "parent": "C08G65/38",
+      "ja": "フェノールおよび他の化合物からの［２］",
+      "en": "from phenols and other compounds",
+      "count": 4113,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G65/42": {
+      "code": "C08G65/42",
+      "level": 4,
+      "parent": "C08G65/40",
+      "ja": "フェノールおよびポリヒドロキシエーテル［２］",
+      "en": "Phenols and polyhydroxy ethers",
+      "count": 132,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G65/44": {
+      "code": "C08G65/44",
+      "level": 3,
+      "parent": "C08G65/38",
+      "ja": "フェノールの酸化によるもの［２］",
+      "en": "by oxidation of phenols",
+      "count": 1160,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G65/46": {
+      "code": "C08G65/46",
+      "level": 2,
+      "parent": "C08G65/34",
+      "ja": "重合後の処理，例．回収，精製，乾燥［２］",
+      "en": "Post-polymerisation treatment, e.g. recovery, purification, drying",
+      "count": 899,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G65/48": {
+      "code": "C08G65/48",
+      "level": 2,
+      "parent": "C08G65/34",
+      "ja": "化学的後処理により変性された重合体［２］",
+      "en": "Polymers modified by chemical after-treatment",
+      "count": 4717,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G67/00": {
+      "code": "C08G67/00",
+      "level": 0,
+      "parent": "C08G",
+      "ja": "グループＣ０８Ｇ２／００～Ｃ０８Ｇ６５／００に属さない，酸素または酸素と炭素を含む連結基を高分子の主鎖に形成する反応により得られる高分子化合物［２］",
+      "en": "Macromolecular compounds obtained by reactions forming in the main chain of the macromolecule a linkage containing oxygen or oxygen and carbon, not provided for in groups <b>C08G2/00 to C08G65/00</b> ",
+      "count": 1048,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G67/02": {
+      "code": "C08G67/02",
+      "level": 1,
+      "parent": "C08G67/00",
+      "ja": "一酸化炭素および脂肪族不飽和化合物の共重合体［２］",
+      "en": "Copolymers of carbon monoxide and aliphatic unsaturated compounds",
+      "count": 1217,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G67/04": {
+      "code": "C08G67/04",
+      "level": 1,
+      "parent": "C08G67/00",
+      "ja": "ポリ酸無水物［２］",
+      "en": "Polyanhydrides",
+      "count": 212,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G69/00": {
+      "code": "C08G69/00",
+      "level": 0,
+      "parent": "C08G",
+      "ja": "高分子の主鎖にカルボン酸アミド連結基を形成する反応により得られる高分子化合物（ポリヒドラジドＣ０８Ｇ７３／０８；ポリアミド酸Ｃ０８Ｇ７３／１０；ポリアミドーイミドＣ０８Ｇ７３／１４）［２］",
+      "en": "Macromolecular compounds obtained by reactions forming a carboxylic amide link in the main chain of the macromolecule(polyhydrazides <b>C08G73/08</b>; polyamide acids <b>C08G73/10</b>; polyamide-imides <b>C08G73/14</b>)",
+      "count": 4416,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G69/02": {
+      "code": "C08G69/02",
+      "level": 1,
+      "parent": "C08G69/00",
+      "ja": "アミノカルボン酸からまたはポリアミンおよびポリカルボン酸から誘導されるポリアミド［２］",
+      "en": "Polyamides derived from amino carboxylic acids or from polyamines and polycarboxylic acids",
+      "count": 1168,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G69/04": {
+      "code": "C08G69/04",
+      "level": 2,
+      "parent": "C08G69/02",
+      "ja": "製造法［２］",
+      "en": "Preparatory processes",
+      "count": 1520,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G69/06": {
+      "code": "C08G69/06",
+      "level": 3,
+      "parent": "C08G69/04",
+      "ja": "固相重縮合［２］",
+      "en": "Solid state polycondensation",
+      "count": 183,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G69/08": {
+      "code": "C08G69/08",
+      "level": 2,
+      "parent": "C08G69/02",
+      "ja": "アミノカルボン酸から誘導されるもの［２］",
+      "en": "derived from amino carboxylic acids",
+      "count": 1222,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G69/10": {
+      "code": "C08G69/10",
+      "level": 3,
+      "parent": "C08G69/08",
+      "ja": "α―アミノカルボン酸［２］",
+      "en": "Alpha-amino-carboxylic acids",
+      "count": 1716,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G69/12": {
+      "code": "C08G69/12",
+      "level": 3,
+      "parent": "C08G69/08",
+      "ja": "アミノ基およびカルボキシル基が共に芳香族に結合したもの［２］",
+      "en": "with both amino and carboxylic groups aromatically bound",
+      "count": 202,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G69/14": {
+      "code": "C08G69/14",
+      "level": 3,
+      "parent": "C08G69/08",
+      "ja": "ラクタム［２］",
+      "en": "Lactams",
+      "count": 1690,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G69/16": {
+      "code": "C08G69/16",
+      "level": 4,
+      "parent": "C08G69/14",
+      "ja": "製造法［２］",
+      "en": "Preparatory processes",
+      "count": 2006,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G69/18": {
+      "code": "C08G69/18",
+      "level": 5,
+      "parent": "C08G69/16",
+      "ja": "アニオン重合［２］",
+      "en": "Anionic polymerisation",
+      "count": 942,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G69/20": {
+      "code": "C08G69/20",
+      "level": 6,
+      "parent": "C08G69/18",
+      "ja": "用いられた触媒に特徴のあるもの［２］",
+      "en": "characterised by the catalysts used",
+      "count": 775,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G69/22": {
+      "code": "C08G69/22",
+      "level": 4,
+      "parent": "C08G69/14",
+      "ja": "β―ラクタム［２］",
+      "en": "Beta-lactams",
+      "count": 69,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G69/24": {
+      "code": "C08G69/24",
+      "level": 4,
+      "parent": "C08G69/14",
+      "ja": "ピロリドンまたはヒペリドン［２］",
+      "en": "Pyrrolidones or piperidones",
+      "count": 294,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G69/26": {
+      "code": "C08G69/26",
+      "level": 2,
+      "parent": "C08G69/02",
+      "ja": "ポリアミンおよびポリカルボン酸から誘導されるもの［２］",
+      "en": "derived from polyamines and polycarboxylic acids",
+      "count": 6576,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G69/28": {
+      "code": "C08G69/28",
+      "level": 3,
+      "parent": "C08G69/26",
+      "ja": "製造法［２］",
+      "en": "Preparatory processes",
+      "count": 3283,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G69/30": {
+      "code": "C08G69/30",
+      "level": 4,
+      "parent": "C08G69/28",
+      "ja": "固相重縮合［２］",
+      "en": "Solid state polycondensation",
+      "count": 393,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G69/32": {
+      "code": "C08G69/32",
+      "level": 3,
+      "parent": "C08G69/26",
+      "ja": "アミノ基およびカルボキシル基が共に芳香族に結合した芳香族ジアミンおよび芳香族ジカルボン酸からの［２］",
+      "en": "from aromatic diamines and aromatic dicarboxylic acids with both amino and carboxylic groups aromatically bound",
+      "count": 2657,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G69/34": {
+      "code": "C08G69/34",
+      "level": 3,
+      "parent": "C08G69/26",
+      "ja": "重合した不飽和脂肪酸を用いるもの［２］",
+      "en": "using polymerised unsaturated fatty acids",
+      "count": 795,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G69/36": {
+      "code": "C08G69/36",
+      "level": 2,
+      "parent": "C08G69/02",
+      "ja": "アミノ酸，ポリアミンおよびポリカルボン酸から誘導されるもの［２］",
+      "en": "derived from amino acids, polyamines, and polycarboxylic acids",
+      "count": 1399,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G69/38": {
+      "code": "C08G69/38",
+      "level": 1,
+      "parent": "C08G69/00",
+      "ja": "アルデヒドおよびポリニトリルから製造されるポリアミド［２］",
+      "en": "Polyamides prepared from aldehydes and polynitriles",
+      "count": 60,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G69/40": {
+      "code": "C08G69/40",
+      "level": 1,
+      "parent": "C08G69/00",
+      "ja": "エーテル基の形で酸素を含むポリアミド（Ｃ０８Ｇ６９／１２，Ｃ０８Ｇ６９／３２が優先）［２］",
+      "en": "Polyamides containing oxygen in the form of ether groups(<b>C08G69/12</b>, <b>C08G69/32</b> take precedence)",
+      "count": 2154,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G69/42": {
+      "code": "C08G69/42",
+      "level": 1,
+      "parent": "C08G69/00",
+      "ja": "炭素，水素，酸素および窒素以外の原子を含むポリアミド（Ｃ０８Ｇ６９／１２，Ｃ０８Ｇ６９／３２が優先）［２］",
+      "en": "Polyamides containing atoms other than carbon, hydrogen, oxygen, and nitrogen(<b>C08G69/12</b>, <b>C08G69/32</b> take precedence)",
+      "count": 1876,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G69/44": {
+      "code": "C08G69/44",
+      "level": 1,
+      "parent": "C08G69/00",
+      "ja": "ポリエステル―アミド［２］",
+      "en": "Polyester-amides",
+      "count": 3123,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G69/46": {
+      "code": "C08G69/46",
+      "level": 1,
+      "parent": "C08G69/00",
+      "ja": "重合後の処理［２］",
+      "en": "Post-polymerisation treatment",
+      "count": 1121,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G69/48": {
+      "code": "C08G69/48",
+      "level": 1,
+      "parent": "C08G69/00",
+      "ja": "化学的後処理により変性された重合体［２］",
+      "en": "Polymers modified by chemical after-treatment",
+      "count": 4173,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G69/50": {
+      "code": "C08G69/50",
+      "level": 2,
+      "parent": "C08G69/48",
+      "ja": "アルデヒドによるもの［２］",
+      "en": "with aldehydes",
+      "count": 171,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G71/00": {
+      "code": "C08G71/00",
+      "level": 0,
+      "parent": "C08G",
+      "ja": "高分子の主鎖にイソシアネート基以外からのウレイドまたはウレタン連結基を形成する反応により得られる高分子化合物［２］",
+      "en": "Macromolecular compounds obtained by reactions forming in the main chain of the macromolecule a ureide or urethane link, otherwise than from isocyanate radicals",
+      "count": 399,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G71/02": {
+      "code": "C08G71/02",
+      "level": 1,
+      "parent": "C08G71/00",
+      "ja": "ポリ尿素［２］",
+      "en": "Polyureas",
+      "count": 498,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G71/04": {
+      "code": "C08G71/04",
+      "level": 1,
+      "parent": "C08G71/00",
+      "ja": "ポリウレタン［２］",
+      "en": "Polyurethanes",
+      "count": 1450,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G73/00": {
+      "code": "C08G73/00",
+      "level": 0,
+      "parent": "C08G",
+      "ja": "グループＣ０８Ｇ１２／００～Ｃ０８Ｇ７１／００に属さない，高分子の主鎖に酸素または炭素を有しまたは有せずに窒素を含む連結基を形成する反応により得られる高分子化合物［２］",
+      "en": "Macromolecular compounds obtained by reactions forming in the main chain of the macromolecule a linkage containing nitrogen, with or without oxygen or carbon, not provided for in groups <b>C08G12/00 to C08G71/00</b> ",
+      "count": 7155,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G73/02": {
+      "code": "C08G73/02",
+      "level": 1,
+      "parent": "C08G73/00",
+      "ja": "ポリアミン（１０以下の単量体単位を含むものＣ０７Ｃ）［２］",
+      "en": "Polyamines(containing less than eleven monomer units <b>C07C</b>)",
+      "count": 9160,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G73/04": {
+      "code": "C08G73/04",
+      "level": 2,
+      "parent": "C08G73/02",
+      "ja": "アルキレンイミンから誘導されるもの［２］",
+      "en": "derived from alkyleneimines",
+      "count": 1139,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G73/06": {
+      "code": "C08G73/06",
+      "level": 1,
+      "parent": "C08G73/00",
+      "ja": "高分子の主鎖に窒素含有複素環を有する重縮合物；ポリヒドラジド；ポリアミド酸または類似のポリイミド前駆物質［２］",
+      "en": "Polycondensates having nitrogen-containing heterocyclic rings in the main chain of the macromolecule; Polyhydrazides; Polyamide acids or similar polyimide precursors",
+      "count": 7654,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G73/08": {
+      "code": "C08G73/08",
+      "level": 2,
+      "parent": "C08G73/06",
+      "ja": "ポリヒドラジド；ポリトリアゾール；ポリアミノ―トリアゾール；ポリオキサジアゾール［２］",
+      "en": "Polyhydrazides; Polytriazoles; Polyaminotriazoles; Polyoxadiazoles",
+      "count": 769,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G73/10": {
+      "code": "C08G73/10",
+      "level": 2,
+      "parent": "C08G73/06",
+      "ja": "ポリイミド；ポリエステル―イミド；ポリアミド―イミド；ポリアミド酸または類似のポリイミド前駆物質［２］",
+      "en": "Polyimides; Polyester-imides; Polyamide-imides; Polyamide acids or similar polyimide precursors",
+      "count": 24350,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G73/12": {
+      "code": "C08G73/12",
+      "level": 3,
+      "parent": "C08G73/10",
+      "ja": "不飽和ポリイミド前駆物資［２］",
+      "en": "Unsaturated polyimide precursors",
+      "count": 3064,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G73/14": {
+      "code": "C08G73/14",
+      "level": 3,
+      "parent": "C08G73/10",
+      "ja": "ポリアミド―イミド［２］",
+      "en": "Polyamide-imides",
+      "count": 2715,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G73/16": {
+      "code": "C08G73/16",
+      "level": 3,
+      "parent": "C08G73/10",
+      "ja": "ポリエステル―イミド［２］",
+      "en": "Polyester-imides",
+      "count": 1285,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G73/18": {
+      "code": "C08G73/18",
+      "level": 2,
+      "parent": "C08G73/06",
+      "ja": "ポリベンズイミダゾール［２］",
+      "en": "Polybenzimidazoles",
+      "count": 1134,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G73/20": {
+      "code": "C08G73/20",
+      "level": 2,
+      "parent": "C08G73/06",
+      "ja": "ピロン［２］",
+      "en": "Pyrrones",
+      "count": 154,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G73/22": {
+      "code": "C08G73/22",
+      "level": 2,
+      "parent": "C08G73/06",
+      "ja": "ポリベンズオキサゾール［２］",
+      "en": "Polybenzoxazoles",
+      "count": 1486,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G73/24": {
+      "code": "C08G73/24",
+      "level": 1,
+      "parent": "C08G73/00",
+      "ja": "フルオロニトロソ有機化合物および他のフルオロ有機化合物の共重合体，例．ニトロソゴム［２］",
+      "en": "Copolymers of a fluoronitroso organic compound and another fluoro organic compound, e.g. nitroso rubbers",
+      "count": 104,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G73/26": {
+      "code": "C08G73/26",
+      "level": 2,
+      "parent": "C08G73/24",
+      "ja": "トリフルオロニトロソメタンのフルオロ―オレフィンとの共重合体［２］",
+      "en": "of trifluoronitrosomethane with a fluoro-olefin",
+      "count": 10,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G75/00": {
+      "code": "C08G75/00",
+      "level": 0,
+      "parent": "C08G",
+      "ja": "高分子の主鎖に窒素，酸素または炭素を有しまたは有せずにいおうを含む連結基を形成する反応により得られる高分子化合物［２］",
+      "en": "Macromolecular compounds obtained by reactions forming in the main chain of the macromolecule a linkage containing sulfur, with or without nitrogen, oxygen, or carbon",
+      "count": 2639,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G75/02": {
+      "code": "C08G75/02",
+      "level": 1,
+      "parent": "C08G75/00",
+      "ja": "ポリチオエーテル［２，２０１６．０１］",
+      "en": "Polythioethers",
+      "count": 2947,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G75/0204": {
+      "code": "C08G75/0204",
+      "level": 2,
+      "parent": "C08G75/02",
+      "ja": "ポリアリーレンチオエーテル［２０１６．０１］<br><br><b><ul>注</ul></b><br>（１）このグループでは，高分子化合物は以下のグループの集合体のいずれかと関連する発明的観点に基づいて分類される<br>・Ｃ０８Ｇ７５／０２０９～Ｃ０８Ｇ７５／０２４５；<br>・Ｃ０８Ｇ７５／０２５～Ｃ０８Ｇ７５／０２６８；<br>・Ｃ０８Ｇ７５／０２７７～Ｃ０８Ｇ７５／０２８１；［２０１６．０１］<br>・Ｃ０８Ｇ７５／０２８６～Ｃ０８Ｇ７５／０２９５<br>（２）（１）に示されたグループの各集合体において，ラストプレイス優先ルールが適用される，すなわち各階層レベルにおいて相反する指示がない限り最後の適切な箇所に分類する。［２０１６．０１］",
+      "en": "Polyarylenethioethers; <br><br><b><u>Note(s)</u></b><br><br><ul><li>In this group, macromolecular compounds are classified for the inventive aspects which are relevant in any of the following sets of groups:         <ul><li><b>C08G75/0209 to C08G75/0245</b> ;   </li><li><b>C08G75/025 to C08G75/0268</b> ;   </li><li><b>C08G75/0277 to C08G75/0281</b> ;   </li><li><b>C08G75/0286 to C08G75/0295</b> .   </li></ul></li><li>Within each set of groups mentioned in Note (1), the last place priority rule is applied, i.e. at each hierarchical level, in the absence of an indication to the contrary, classification is made in the last appropriate place.  </li></ul>",
+      "count": 201,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G75/0209": {
+      "code": "C08G75/0209",
+      "level": 3,
+      "parent": "C08G75/0204",
+      "ja": "１個の芳香環を持つ単量体から誘導されたもの［２０１６．０１］",
+      "en": "derived from monomers containing one aromatic ring",
+      "count": 408,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G75/0213": {
+      "code": "C08G75/0213",
+      "level": 4,
+      "parent": "C08G75/0209",
+      "ja": "炭素，水素またはいおう以外の元素を含むもの［２０１６．０１］",
+      "en": "containing elements other than carbon, hydrogen or sulfur",
+      "count": 238,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G75/0222": {
+      "code": "C08G75/0222",
+      "level": 5,
+      "parent": "C08G75/0213",
+      "ja": "窒素を含むもの［２０１６．０１］",
+      "en": "containing nitrogen",
+      "count": 122,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G75/0227": {
+      "code": "C08G75/0227",
+      "level": 3,
+      "parent": "C08G75/0204",
+      "ja": "２個以上の芳香環を持つ単量体から誘導されたもの［２０１６．０１］",
+      "en": "derived from monomers containing two or more aromatic rings",
+      "count": 152,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G75/0231": {
+      "code": "C08G75/0231",
+      "level": 3,
+      "parent": "C08G75/0204",
+      "ja": "連鎖停止剤または分岐剤を含有するもの［２０１６．０１］",
+      "en": "containing chain-terminating or chain-branching agents",
+      "count": 156,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G75/0236": {
+      "code": "C08G75/0236",
+      "level": 3,
+      "parent": "C08G75/0204",
+      "ja": "アリーレン基間の連結基において炭素またはいおう以外の原子を含むもの［２０１６．０１］",
+      "en": "containing atoms other than carbon or sulfur in a linkage between arylene groups",
+      "count": 121,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G75/024": {
+      "code": "C08G75/024",
+      "level": 4,
+      "parent": "C08G75/0236",
+      "ja": "カルボニル基を含むもの［２０１６．０１］",
+      "en": "containing carbonyl groups",
+      "count": 107,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G75/0245": {
+      "code": "C08G75/0245",
+      "level": 3,
+      "parent": "C08G75/0204",
+      "ja": "ブロック重合体またはグラフト重合体［２０１６．０１］",
+      "en": "Block or graft polymers",
+      "count": 98,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G75/025": {
+      "code": "C08G75/025",
+      "level": 3,
+      "parent": "C08G75/0204",
+      "ja": "製造法［２０１６．０１］",
+      "en": "Preparatory processes",
+      "count": 397,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G75/0254": {
+      "code": "C08G75/0254",
+      "level": 4,
+      "parent": "C08G75/025",
+      "ja": "金属硫化物を用いるもの［２０１６．０１］",
+      "en": "using metal sulfides",
+      "count": 672,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G75/0259": {
+      "code": "C08G75/0259",
+      "level": 4,
+      "parent": "C08G75/025",
+      "ja": "金属硫化水素を用いるもの［２０１６．０１］",
+      "en": "using metal hydrogensulfides",
+      "count": 267,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G75/0263": {
+      "code": "C08G75/0263",
+      "level": 4,
+      "parent": "C08G75/025",
+      "ja": "元素いおうを用いるもの［２０１６．０１］",
+      "en": "using elemental sulfur",
+      "count": 106,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G75/0268": {
+      "code": "C08G75/0268",
+      "level": 4,
+      "parent": "C08G75/025",
+      "ja": "ジスルフィドを用いるもの［２０１６．０１］",
+      "en": "using disulfides",
+      "count": 67,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G75/0277": {
+      "code": "C08G75/0277",
+      "level": 3,
+      "parent": "C08G75/0204",
+      "ja": "重合後の処理（化学的後処理Ｃ０８Ｇ７５／０２８６）［２０１６．０１］",
+      "en": "Post-polymerisation treatment(chemical after-treatment <b>C08G75/0286</b>)",
+      "count": 134,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G75/0281": {
+      "code": "C08G75/0281",
+      "level": 4,
+      "parent": "C08G75/0277",
+      "ja": "回収または精製［２０１６．０１］",
+      "en": "Recovery or purification",
+      "count": 460,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G75/0286": {
+      "code": "C08G75/0286",
+      "level": 3,
+      "parent": "C08G75/0204",
+      "ja": "化学的後処理［２０１６．０１］",
+      "en": "Chemical after-treatment",
+      "count": 105,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G75/029": {
+      "code": "C08G75/029",
+      "level": 4,
+      "parent": "C08G75/0286",
+      "ja": "有機化合物による変性［２０１６．０１］",
+      "en": "Modification with organic compounds",
+      "count": 197,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G75/0295": {
+      "code": "C08G75/0295",
+      "level": 4,
+      "parent": "C08G75/0286",
+      "ja": "無機化合物による変性［２０１６．０１］",
+      "en": "Modification with inorganic compounds",
+      "count": 130,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G75/04": {
+      "code": "C08G75/04",
+      "level": 2,
+      "parent": "C08G75/02",
+      "ja": "メルカプト化合物またはその金属誘導体からの（Ｃ０８Ｇ７５／０２０４が優先）［２，２０１６．０１］",
+      "en": "from mercapto compounds or metallic derivatives thereof(<b>C08G75/0204</b> takes precedence)",
+      "count": 1425,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G75/045": {
+      "code": "C08G75/045",
+      "level": 3,
+      "parent": "C08G75/04",
+      "ja": "メルカプト化合物と不飽和化合物からの［２０１６．０１］",
+      "en": "from mercapto compounds and unsaturated compounds",
+      "count": 1268,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G75/06": {
+      "code": "C08G75/06",
+      "level": 2,
+      "parent": "C08G75/02",
+      "ja": "環状チオエーテルからの［２］",
+      "en": "from cyclic thioethers",
+      "count": 1530,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G75/08": {
+      "code": "C08G75/08",
+      "level": 3,
+      "parent": "C08G75/06",
+      "ja": "チイランからの［２］",
+      "en": "from thiiranes",
+      "count": 642,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G75/10": {
+      "code": "C08G75/10",
+      "level": 2,
+      "parent": "C08G75/02",
+      "ja": "いおうまたはいおう含有化合物およびアルデヒドまたはケトンからの［２］",
+      "en": "from sulfur or sulfur-containing compounds and aldehydes or ketones",
+      "count": 127,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G75/12": {
+      "code": "C08G75/12",
+      "level": 1,
+      "parent": "C08G75/00",
+      "ja": "ポリチオエーテル―エーテル（Ｃ０８Ｇ７５／０２４５が優先）［２，２０１６．０１］",
+      "en": "Polythioether-ethers(<b>C08G75/0245</b> takes precedence)",
+      "count": 333,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G75/14": {
+      "code": "C08G75/14",
+      "level": 1,
+      "parent": "C08G75/00",
+      "ja": "ポリスルフィド［２］",
+      "en": "Polysulfides",
+      "count": 1162,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G75/16": {
+      "code": "C08G75/16",
+      "level": 2,
+      "parent": "C08G75/14",
+      "ja": "有機化合物の無機ポリスルフィドとの重縮合によるもの［２］",
+      "en": "by polycondensation of organic compounds with inorganic polysulfides",
+      "count": 500,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G75/18": {
+      "code": "C08G75/18",
+      "level": 1,
+      "parent": "C08G75/00",
+      "ja": "ポリスルホキシド［２］",
+      "en": "Polysulfoxides",
+      "count": 94,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G75/20": {
+      "code": "C08G75/20",
+      "level": 1,
+      "parent": "C08G75/00",
+      "ja": "ポリスルホン［２，２０１６．０１］",
+      "en": "Polysulfones",
+      "count": 1169,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G75/205": {
+      "code": "C08G75/205",
+      "level": 2,
+      "parent": "C08G75/20",
+      "ja": "二酸化いおうと不飽和有機化合物との共重合体［２０１６．０１］",
+      "en": "Copolymers of sulfur dioxide with unsaturated organic compounds",
+      "count": 17,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G75/22": {
+      "code": "C08G75/22",
+      "level": 3,
+      "parent": "C08G75/205",
+      "ja": "二酸化いおうの不飽和脂肪族化合物との共重合体［２］",
+      "en": "Copolymers of sulfur dioxide with unsaturated aliphatic compounds",
+      "count": 302,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G75/23": {
+      "code": "C08G75/23",
+      "level": 2,
+      "parent": "C08G75/20",
+      "ja": "ポリエーテルスルホン［２］",
+      "en": "Polyethersulfones",
+      "count": 2090,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G75/24": {
+      "code": "C08G75/24",
+      "level": 1,
+      "parent": "C08G75/00",
+      "ja": "ポリスルホネート［２］",
+      "en": "Polysulfonates",
+      "count": 219,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G75/26": {
+      "code": "C08G75/26",
+      "level": 1,
+      "parent": "C08G75/00",
+      "ja": "ポリチオエステル［２］",
+      "en": "Polythioesters",
+      "count": 226,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G75/28": {
+      "code": "C08G75/28",
+      "level": 1,
+      "parent": "C08G75/00",
+      "ja": "ポリチオカーボネート［２］",
+      "en": "Polythiocarbonates",
+      "count": 122,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G75/30": {
+      "code": "C08G75/30",
+      "level": 1,
+      "parent": "C08G75/00",
+      "ja": "ポリスルホンアミド；ポリスルホンイミド［２］",
+      "en": "Polysulfonamides; Polysulfonimides",
+      "count": 252,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G75/32": {
+      "code": "C08G75/32",
+      "level": 1,
+      "parent": "C08G75/00",
+      "ja": "ポリチアゾール；ポリチアジアゾール［２］",
+      "en": "Polythiazoles; Polythiadiazoles",
+      "count": 474,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G77/00": {
+      "code": "C08G77/00",
+      "level": 0,
+      "parent": "C08G",
+      "ja": "高分子の主鎖にいおう，窒素，酸素または炭素を有しまたは有せずにけい素を含む連結基を形成する反応により得られる高分子化合物［２］",
+      "en": "Macromolecular compounds obtained by reactions forming in the main chain of the macromolecule a linkage containing silicon, with or without sulfur, nitrogen, oxygen, or carbon",
+      "count": 4587,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G77/02": {
+      "code": "C08G77/02",
+      "level": 1,
+      "parent": "C08G77/00",
+      "ja": "ポリシリケート［２］",
+      "en": "Polysilicates",
+      "count": 925,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G77/04": {
+      "code": "C08G77/04",
+      "level": 1,
+      "parent": "C08G77/00",
+      "ja": "ポリシロキサン［２］",
+      "en": "Polysiloxanes",
+      "count": 6392,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G77/06": {
+      "code": "C08G77/06",
+      "level": 2,
+      "parent": "C08G77/04",
+      "ja": "製造法［２］",
+      "en": "Preparatory processes",
+      "count": 6021,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G77/08": {
+      "code": "C08G77/08",
+      "level": 3,
+      "parent": "C08G77/06",
+      "ja": "用いられた触媒に特徴のあるもの［２］",
+      "en": "characterised by the catalysts used",
+      "count": 3524,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G77/10": {
+      "code": "C08G77/10",
+      "level": 3,
+      "parent": "C08G77/06",
+      "ja": "平衡法［２］",
+      "en": "Equilibration processes",
+      "count": 383,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G77/12": {
+      "code": "C08G77/12",
+      "level": 2,
+      "parent": "C08G77/04",
+      "ja": "水素に結合したけい素を含むもの［２］",
+      "en": "containing silicon bound to hydrogen",
+      "count": 3223,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G77/14": {
+      "code": "C08G77/14",
+      "level": 2,
+      "parent": "C08G77/04",
+      "ja": "酸素含有基に結合したけい素を含むもの［２］",
+      "en": "containing silicon bound to oxygen-containing groups",
+      "count": 3352,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G77/16": {
+      "code": "C08G77/16",
+      "level": 3,
+      "parent": "C08G77/14",
+      "ja": "水酸基に［２］",
+      "en": "to hydroxy groups",
+      "count": 1680,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G77/18": {
+      "code": "C08G77/18",
+      "level": 3,
+      "parent": "C08G77/14",
+      "ja": "アルコキシまたはアリルオキシ基に［２］",
+      "en": "to alkoxy or aryloxy groups",
+      "count": 1881,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G77/20": {
+      "code": "C08G77/20",
+      "level": 2,
+      "parent": "C08G77/04",
+      "ja": "不飽和脂肪族基に結合したけい素を含むもの［２］",
+      "en": "containing silicon bound to unsaturated aliphatic groups",
+      "count": 5474,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G77/22": {
+      "code": "C08G77/22",
+      "level": 2,
+      "parent": "C08G77/04",
+      "ja": "炭素，水素および酸素以外の原子を含む有機基に結合したけい素を含むもの［２］",
+      "en": "containing silicon bound to organic groups containing atoms other than carbon, hydrogen, and oxygen",
+      "count": 1538,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G77/24": {
+      "code": "C08G77/24",
+      "level": 3,
+      "parent": "C08G77/22",
+      "ja": "ハロゲン含有基［２］",
+      "en": "halogen-containing groups",
+      "count": 1969,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G77/26": {
+      "code": "C08G77/26",
+      "level": 3,
+      "parent": "C08G77/22",
+      "ja": "窒素含有基［２］",
+      "en": "nitrogen-containing groups",
+      "count": 3716,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G77/28": {
+      "code": "C08G77/28",
+      "level": 3,
+      "parent": "C08G77/22",
+      "ja": "いおう含有基［２］",
+      "en": "sulfur-containing groups",
+      "count": 1485,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G77/30": {
+      "code": "C08G77/30",
+      "level": 3,
+      "parent": "C08G77/22",
+      "ja": "りん含有基［２］",
+      "en": "phosphorus-containing groups",
+      "count": 321,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G77/32": {
+      "code": "C08G77/32",
+      "level": 2,
+      "parent": "C08G77/04",
+      "ja": "重合後の処理［２］",
+      "en": "Post-polymerisation treatment",
+      "count": 450,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G77/34": {
+      "code": "C08G77/34",
+      "level": 3,
+      "parent": "C08G77/32",
+      "ja": "精製［２］",
+      "en": "Purification",
+      "count": 661,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G77/36": {
+      "code": "C08G77/36",
+      "level": 3,
+      "parent": "C08G77/32",
+      "ja": "分留［２］",
+      "en": "Fractionation",
+      "count": 38,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G77/38": {
+      "code": "C08G77/38",
+      "level": 2,
+      "parent": "C08G77/04",
+      "ja": "化学的後処理により変性されたポリシロキサン［２］",
+      "en": "Polysiloxanes modified by chemical after-treatment",
+      "count": 5309,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G77/382": {
+      "code": "C08G77/382",
+      "level": 3,
+      "parent": "C08G77/38",
+      "ja": "炭素，水素，酸素またはけい素以外の原子を含むもの［５］",
+      "en": "containing atoms other than carbon, hydrogen, oxygen or silicon",
+      "count": 235,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G77/385": {
+      "code": "C08G77/385",
+      "level": 4,
+      "parent": "C08G77/382",
+      "ja": "ハロゲンを含むもの［５］",
+      "en": "containing halogens",
+      "count": 583,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G77/388": {
+      "code": "C08G77/388",
+      "level": 4,
+      "parent": "C08G77/382",
+      "ja": "窒素を含むもの［５］",
+      "en": "containing nitrogen",
+      "count": 2690,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G77/392": {
+      "code": "C08G77/392",
+      "level": 4,
+      "parent": "C08G77/382",
+      "ja": "いおうを含むもの［５］",
+      "en": "containing sulfur",
+      "count": 745,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G77/395": {
+      "code": "C08G77/395",
+      "level": 4,
+      "parent": "C08G77/382",
+      "ja": "りんを含むもの［５］",
+      "en": "containing phosphorus",
+      "count": 403,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G77/398": {
+      "code": "C08G77/398",
+      "level": 4,
+      "parent": "C08G77/382",
+      "ja": "ほう素または金属原子を含むもの［５］",
+      "en": "containing boron or metal atoms",
+      "count": 582,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G77/42": {
+      "code": "C08G77/42",
+      "level": 1,
+      "parent": "C08G77/00",
+      "ja": "ポリシロキサン連鎖を含むブロックまたはグラフト重合体（ポリシロキサンへの脂肪族不飽和単量体の重合Ｃ０８Ｆ２８３／１２）［２］",
+      "en": "Block- or graft-polymers containing polysiloxane sequences(polymerising aliphatic unsaturated monomers on to a polysiloxane <b>C08F283/12</b>)",
+      "count": 2274,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G77/44": {
+      "code": "C08G77/44",
+      "level": 2,
+      "parent": "C08G77/42",
+      "ja": "ポリシロキサン連鎖のみを含むもの［２］",
+      "en": "containing only polysiloxane sequences",
+      "count": 1366,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G77/442": {
+      "code": "C08G77/442",
+      "level": 2,
+      "parent": "C08G77/42",
+      "ja": "ビニル重合体連鎖を含むもの［５］",
+      "en": "containing vinyl polymer sequences",
+      "count": 1574,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G77/445": {
+      "code": "C08G77/445",
+      "level": 2,
+      "parent": "C08G77/42",
+      "ja": "ポリエステル連鎖を含むもの［５］",
+      "en": "containing polyester sequences",
+      "count": 642,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G77/448": {
+      "code": "C08G77/448",
+      "level": 2,
+      "parent": "C08G77/42",
+      "ja": "ポリカーボネート連鎖を含むもの［５］",
+      "en": "containing polycarbonate sequences",
+      "count": 599,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G77/452": {
+      "code": "C08G77/452",
+      "level": 2,
+      "parent": "C08G77/42",
+      "ja": "窒素含有連鎖を含むもの［５］",
+      "en": "containing nitrogen-containing sequences",
+      "count": 416,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G77/455": {
+      "code": "C08G77/455",
+      "level": 3,
+      "parent": "C08G77/452",
+      "ja": "ポリアミド，ポリエステルアミドまたはポリイミド連鎖を含むもの［５］",
+      "en": "containing polyamide, polyesteramide or polyimide sequences",
+      "count": 737,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G77/458": {
+      "code": "C08G77/458",
+      "level": 3,
+      "parent": "C08G77/452",
+      "ja": "ポリウレタン連鎖を含むもの［５］",
+      "en": "containing polyurethane sequences",
+      "count": 436,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G77/46": {
+      "code": "C08G77/46",
+      "level": 2,
+      "parent": "C08G77/42",
+      "ja": "ポリエーテル連鎖を含むもの［２］",
+      "en": "containing polyether sequences",
+      "count": 3430,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G77/48": {
+      "code": "C08G77/48",
+      "level": 1,
+      "parent": "C08G77/00",
+      "ja": "すべてではないが少くとも２個のけい素原子が酸素原子以外の連結基により結合されているもの［２］",
+      "en": "in which at least two but not all the silicon atoms are connected by linkages other than oxygen atoms(<b>C08G77/42</b> takes precedence)",
+      "count": 2084,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G77/50": {
+      "code": "C08G77/50",
+      "level": 2,
+      "parent": "C08G77/48",
+      "ja": "炭素連結基によるもの［２］",
+      "en": "by carbon linkages",
+      "count": 2039,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G77/52": {
+      "code": "C08G77/52",
+      "level": 3,
+      "parent": "C08G77/50",
+      "ja": "芳香環を含むもの［２］",
+      "en": "containing aromatic rings",
+      "count": 513,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G77/54": {
+      "code": "C08G77/54",
+      "level": 2,
+      "parent": "C08G77/48",
+      "ja": "窒素含有連結基によるもの［２］",
+      "en": "Nitrogen-containing linkages",
+      "count": 790,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G77/56": {
+      "code": "C08G77/56",
+      "level": 2,
+      "parent": "C08G77/48",
+      "ja": "ほう素含有連結基によるもの［２］",
+      "en": "Boron-containing linkages",
+      "count": 317,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G77/58": {
+      "code": "C08G77/58",
+      "level": 2,
+      "parent": "C08G77/48",
+      "ja": "金属含有連結基によるもの［２］",
+      "en": "Metal-containing linkages",
+      "count": 626,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G77/60": {
+      "code": "C08G77/60",
+      "level": 1,
+      "parent": "C08G77/00",
+      "ja": "すべてのけい素原子が酸素原子以外の連結基により結合されているもの［２］",
+      "en": "in which all the silicon atoms are connected by linkages other than oxygen atoms",
+      "count": 2147,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G77/62": {
+      "code": "C08G77/62",
+      "level": 2,
+      "parent": "C08G77/60",
+      "ja": "窒素原子［２］",
+      "en": "Nitrogen atoms",
+      "count": 791,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G79/00": {
+      "code": "C08G79/00",
+      "level": 0,
+      "parent": "C08G",
+      "ja": "高分子の主鎖に，けい素，いおう，窒素，酸素または炭素を有しまたは有せずに，けい素，いおう，窒素，酸素および炭素以外の原子を含む連結基を形成する反応により得られる高分子化合物［２］",
+      "en": "Macromolecular compounds obtained by reactions forming in the main chain of the macromolecule a linkage containing atoms other than silicon, sulfur, nitrogen, oxygen, and carbon",
+      "count": 2176,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G79/02": {
+      "code": "C08G79/02",
+      "level": 1,
+      "parent": "C08G79/00",
+      "ja": "りんを含む連結基［２，２０１６．０１］",
+      "en": "a linkage containing phosphorus",
+      "count": 1612,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G79/025": {
+      "code": "C08G79/025",
+      "level": 2,
+      "parent": "C08G79/02",
+      "ja": "ポリホスファゼン［２０１６．０１］",
+      "en": "Polyphosphazenes",
+      "count": 536,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G79/04": {
+      "code": "C08G79/04",
+      "level": 2,
+      "parent": "C08G79/02",
+      "ja": "酸素にまたは酸素および炭素に結合したりん［２］",
+      "en": "Phosphorus linked to oxygen or to oxygen and carbon",
+      "count": 1672,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G79/06": {
+      "code": "C08G79/06",
+      "level": 2,
+      "parent": "C08G79/02",
+      "ja": "炭素のみに結合したりん［２］",
+      "en": "Phosphorus linked to carbon only",
+      "count": 160,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G79/08": {
+      "code": "C08G79/08",
+      "level": 1,
+      "parent": "C08G79/00",
+      "ja": "ほう素を含む連結基［２］",
+      "en": "a linkage containing boron",
+      "count": 842,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G79/10": {
+      "code": "C08G79/10",
+      "level": 1,
+      "parent": "C08G79/00",
+      "ja": "アルミニウムを含む連結基［２］",
+      "en": "a linkage containing aluminium",
+      "count": 345,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G79/12": {
+      "code": "C08G79/12",
+      "level": 1,
+      "parent": "C08G79/00",
+      "ja": "すず含む連結基［２］",
+      "en": "a linkage containing tin",
+      "count": 143,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G79/14": {
+      "code": "C08G79/14",
+      "level": 1,
+      "parent": "C08G79/00",
+      "ja": "炭素，酸素，窒素，いおうおよびけい素以外の２個またはそれ以上の元素を含む連結基［２］",
+      "en": "a linkage containing two or more elements other than carbon, oxygen, nitrogen, sulfur, and silicon",
+      "count": 354,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G81/00": {
+      "code": "C08G81/00",
+      "level": 0,
+      "parent": "C08G",
+      "ja": "単量体の不存在下に重合体を相互に反応することにより得られる高分子化合物，例．ブロック重合体（炭素―炭素不飽和結合のみが関与する反応によるものＣ０８Ｆ２９９／００）［２］",
+      "en": "Macromolecular compounds obtained by interreacting polymers in the absence of monomers, e.g. block polymers(involving only carbon-to-carbon unsaturated bond reactions <b>C08F299/00</b>)",
+      "count": 7656,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G81/02": {
+      "code": "C08G81/02",
+      "level": 1,
+      "parent": "C08G81/00",
+      "ja": "重合体の少くとも１種が炭素―炭素不飽和結合のみが関与する反応により得られるもの［２］",
+      "en": "at least one of the polymers being obtained by reactions involving only carbon-to-carbon unsaturated bonds",
+      "count": 6045,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G83/00": {
+      "code": "C08G83/00",
+      "level": 0,
+      "parent": "C08G",
+      "ja": "グループＣ０８Ｇ２／００～Ｃ０８Ｇ８１／００に分類されない高分子化合物［２］",
+      "en": "Macromolecular compounds not provided for in groups <b>C08G2/00 to C08G81/00</b> ",
+      "count": 14029,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G85/00": {
+      "code": "C08G85/00",
+      "level": 0,
+      "parent": "C08G",
+      "ja": "このサブクラスに属する化合物の一般的製造法［２］",
+      "en": "General processes for preparing compounds provided for in this subclass",
+      "count": 4329,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    },
+    "C08G101/00": {
+      "code": "C08G101/00",
+      "level": 0,
+      "parent": "C08G",
+      "ja": "発泡体の製造［５］",
+      "en": "Manufacture of cellular products",
+      "count": 11118,
+      "sourceFile": "ipc_C08G.txt",
+      "kind": "ipc"
+    }
+  }
+}
